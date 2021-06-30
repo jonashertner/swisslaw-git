@@ -4,13 +4,13 @@ number: "961.212"
 title: Sonderverordnung 2 zur Abfederung der wirtschaftlichen Auswirkungen der COVID-19-Pandemie
 short: SonderV 20-2
 language: de
-version: 2021-06-01
-valid_until: 2021-06-30
-version_adopted: 2021-05-26
+version: 2021-07-01
+valid_until: 2021-10-31
+version_adopted: 2021-06-30
 adopted: 2020-04-15
 in_force: 2020-04-20
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/961.212"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2979/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3010/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2979/pdf_file"
 
 (SonderV 20-2)
 
-Vom 15.04.2020 (Stand 01.06.2021)
+Vom 15.04.2020 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -94,7 +94,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton gewährt Unternehmen, welche die Anforderungen des 1. und 2. Abschnitts der Covid-19-Härtefallverordnung erfüllen, auf Gesuch hin Kreditausfallgarantien oder nicht rückzahlbare Beiträge, die den Anforderungen des 3. Abschnitts der Covid-19-Härtefallverordnung entsprechen.
 
-<sup>1<sup>bis</sup></sup> In Abweichung zu Art. 5 Covid-19-Härtefallverordnung gewährt der Kanton Härtefallmassnahmen an Unternehmen, deren Umsatzeinbusse im Jahr 2020 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 25 % oder mehr beträgt. Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz der letzten 12 Monate verwenden. Die Höhe der Härtefallmassnahmen berechnet sich nach dem Liquiditätsbedarf des Unternehmens.
+<sup>1<sup>bis</sup></sup> In Abweichung zu Art. 5 Covid-19-Härtefallverordnung gewährt der Kanton Härtefallmassnahmen an Unternehmen, deren Umsatzeinbusse im Jahr 2020 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 25 % oder mehr beträgt. Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz einer späteren Periode von 12 Monaten verwenden. Die Höhe der Härtefallmassnahmen berechnet sich nach dem Liquiditätsbedarf des Unternehmens.
 
 <sup>1<sup>ter</sup></sup> Bei Umsätzen im Durchschnitt der Jahre 2018 und 2019 von Fr. 50'000.– bis Fr. 100'000.– werden ausschliesslich nicht rückzahlbare Beiträge in der Höhe von maximal 20 % des durchschnittlichen Jahresumsatzes 2018 und 2019 gewährt.
 
@@ -106,9 +106,11 @@ beschliesst:
 
 <sup>2</sup> Als gesuchsberechtigte Unternehmen gelten alle Einzelfirmen, Kollektiv- und Kommanditgesellschaften sowie alle juristischen Personen, die vor dem 1. Oktober 2020 gegründet wurden oder sich zu diesem Zeitpunkt nachweislich in Gründung befunden haben und Sitz im Kanton Aargau haben.
 
-<sup>3</sup> Gesuche sind bis spätestens 30. Juni 2021 über das elektronische Behördenportal einzureichen.
+<sup>2<sup>bis</sup></sup> Bereits gewährte nicht rückzahlbare Beiträge gemäss den §§ 7b–7d werden im Rahmen der Liquiditätsplanung angerechnet, wobei gesamthaft die Höchstgrenzen gemäss den Art. 8 und 8a Covid-19-Härtefallverordnung nicht überschritten werden dürfen.
 
-<sup>3<sup>bis</sup></sup> Bei Umsätzen im Durchschnitt der Jahre 2018 und 2019 bis Fr. 200'000.– können im vereinfachten Verfahren ohne Einzelfallprüfung nicht rückzahlbare Beiträge in der Höhe von 10 % des Umsatzes, maximal Fr. 20'000.–, ausgerichtet werden.
+<sup>3</sup> Gesuche sind bis spätestens 30. September 2021 über das elektronische Behördenportal einzureichen.
+
+<sup>3<sup>bis</sup></sup> Bei Umsätzen im Durchschnitt der Jahre 2018 und 2019 bis Fr. 200'000.– können im vereinfachten Verfahren ohne Einzelfallprüfung nicht rückzahlbare Beiträge in der Höhe von 10 % des Umsatzes, maximal Fr. 20'000.–, ausgerichtet werden. Bereits gewährte nicht rückzahlbare Beiträge gemäss den §§ 7b–7d werden angerechnet, wobei gesamthaft die Höchstgrenzen gemäss den Art. 8 und 8a Covid-19-Härtefallverordnung nicht überschritten werden dürfen.
 
 <sup>3<sup>ter</sup></sup> Kann das Unternehmen bei einem normalen Geschäftsgang nach der Covid-19-Pandemie einen Kredit innerhalb von fünf bis sieben Jahren, im Ausnahmefall bis zu zehn Jahren, amortisieren, wird der Liquiditätsbedarf mit einem Kredit gedeckt. Die Möglichkeit der Amortisation wird anhand der Einnahmen und Ausgaben der Jahre 2017 bis 2019 und der aktuellen Verschuldungssituation geprüft. Ist eine Amortisation innerhalb von fünf bis sieben Jahren, im Ausnahmefall bis zu zehn Jahren, nicht möglich, wird der Liquiditätsbedarf mit einem nicht rückzahlbaren Beitrag gedeckt. Eine Kombination von Kredit und nicht rückzahlbarem Beitrag ist möglich, wobei der Kreditanteil so hoch ist, dass dieser innerhalb von fünf bis sieben Jahren, im Ausnahmefall bis zu zehn Jahren, amortisiert werden kann.
 
@@ -130,7 +132,7 @@ beschliesst:
 
 <sup>3</sup> Als gesuchsberechtigte Unternehmen gelten alle Einzelfirmen, Kollektiv- und Kommanditgesellschaften sowie alle juristischen Personen, die vor dem 1. Oktober 2020 gegründet wurden oder sich zu diesem Zeitpunkt nachweislich in Gründung befunden haben und Sitz im Kanton Aargau haben. Pro Unternehmen kann ein Gesuch für alle betroffenen Betriebsteile eingereicht werden.
 
-<sup>4</sup> Die Fixkostenbeiträge werden für die Dauer der behördlich angeordneten Schliessung ausgerichtet. Der Beitrag pro Tag bemisst sich am branchenüblichen Fixkostenanteil am ausgewiesenen Gesamtaufwand 2019 und beträgt pro Monat maximal Fr. 50'000.–.
+<sup>4</sup> Die Fixkostenbeiträge werden für die Dauer der behördlich angeordneten Schliessung ausgerichtet. Der Beitrag pro Tag bemisst sich am branchenüblichen Fixkostenanteil am ausgewiesenen Gesamtaufwand 2019 und beträgt pro Monat maximal Fr. 50'000.–. Im Zusammenhang mit besonderen Aufwandpositionen kann das Departement Volkswirtschaft und Inneres (DVI) den Fixkostenansatz erhöhen.
 
 <sup>5</sup> Das Unternehmen hat gegenüber dem Kanton zu bestätigen, dass es zwischen dem 1. Januar 2019 und dem 31. Dezember 2019 nicht überschuldet war.
 
@@ -142,7 +144,7 @@ beschliesst:
 
 <sup>7<sup>bis</sup></sup> Unternehmen, die einen nicht rückzahlbaren Beitrag gemäss § 7b erhalten haben, können einen nicht rückzahlbaren Beitrag gemäss § 7d sowie eine Kreditausfallgarantie gemäss § 7a beantragen, wenn sie die jeweiligen Voraussetzungen erfüllen. Die Höchstgrenzen gemäss den Art. 8 und 8a Covid-19-Härtefallverordnung dürfen nicht überschritten werden.
 
-<sup>8</sup> Gesuche sind bis spätestens 30. Juni 2021 über das elektronische Behördenportal einzureichen.
+<sup>8</sup> Gesuche sind bis spätestens 30. September 2021 über das elektronische Behördenportal einzureichen.
 
 #### § 7c
 
@@ -152,7 +154,7 @@ beschliesst:
 
 <sup>2</sup> Als gesuchsberechtigte Unternehmen gelten alle Einzelfirmen, Kollektiv- und Kommanditgesellschaften sowie alle juristischen Personen, die vor dem 1. Oktober 2020 gegründet wurden oder sich zu diesem Zeitpunkt nachweislich in Gründung befunden haben und Sitz im Kanton Aargau haben. Pro Unternehmen kann ein Gesuch für alle betroffenen Betriebsteile eingereicht werden.
 
-<sup>3</sup> Die Fixkostenbeiträge werden für die Dauer der behördlich angeordneten Schliessung der belieferten Betriebe und anteilmässig für jenen Anteil am Gesamtumsatz, der durch Lieferungen an solche Betriebe im Jahr 2019 erzielt wurde, ausgerichtet. Der Beitrag pro Tag bemisst sich am branchenüblichen Fixkostenanteil am ausgewiesenen Gesamtaufwand 2019 und beträgt höchstens 20 % des durchschnittlichen Jahresumsatzes 2018 und 2019, pro Monat maximal Fr. 50'000.–.
+<sup>3</sup> Die Fixkostenbeiträge werden für die Dauer der behördlich angeordneten Schliessung der belieferten Betriebe und anteilmässig für jenen Anteil am Gesamtumsatz, der durch Lieferungen an solche Betriebe im Jahr 2019 erzielt wurde, ausgerichtet. Der Beitrag pro Tag bemisst sich am branchenüblichen Fixkostenanteil am ausgewiesenen Gesamtaufwand 2019 und beträgt höchstens 20 % des durchschnittlichen Jahresumsatzes 2018 und 2019, pro Monat maximal Fr. 50'000.–. Im Zusammenhang mit besonderen Aufwandpositionen kann das DVI den Fixkostenansatz erhöhen.
 
 <sup>4</sup> Das Unternehmen hat gegenüber dem Kanton zu belegen, dass es zwischen dem 1. Januar 2019 und dem 31. Dezember 2019 nicht überschuldet war.
 
@@ -164,17 +166,17 @@ beschliesst:
 
 <sup>7</sup> Unternehmen, die einen nicht rückzahlbaren Beitrag gemäss § 7c erhalten haben, können einen nicht rückzahlbaren Beitrag gemäss § 7d sowie eine Kreditausfallgarantie gemäss § 7a beantragen, wenn sie die jeweiligen Voraussetzungen erfüllen. Die Höchstgrenzen gemäss den Art. 8 und 8a Covid-19-Härtefallverordnung dürfen nicht überschritten werden.
 
-<sup>8</sup> Gesuche sind bis spätestens 30. Juni 2021 über das elektronische Behördenportal einzureichen.
+<sup>8</sup> Gesuche sind bis spätestens 30. September 2021 über das elektronische Behördenportal einzureichen.
 
 #### § 7d
 
 **Härtefallmassnahmen für Unternehmen mit Umsatzeinbussen ab 40 %**
 
-<sup>1</sup> Unternehmen, welche die Anforderungen des 1. und 2. Abschnitts der Covid-19-Härtefallverordnung erfüllen und deren Umsatzeinbusse im Jahr 2020 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 40 % oder mehr beträgt, können auf Gesuch hin nicht rückzahlbare Beiträge ausgerichtet werden. Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz der letzten 12 Monate verwenden.
+<sup>1</sup> Unternehmen, welche die Anforderungen des 1. und 2. Abschnitts der Covid-19-Härtefallverordnung erfüllen und deren Umsatzeinbusse im Jahr 2020 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie im Vergleich zum durchschnittlichen Jahresumsatz der Jahre 2018 und 2019 40 % oder mehr beträgt, können auf Gesuch hin nicht rückzahlbare Beiträge ausgerichtet werden. Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz einer späteren Periode von 12 Monaten verwenden.
 
 <sup>2</sup> Als gesuchsberechtigte Unternehmen gelten alle Einzelfirmen, Kollektiv- und Kommanditgesellschaften sowie alle juristischen Personen, die vor dem 1. Oktober 2020 gegründet wurden oder sich zu diesem Zeitpunkt nachweislich in Gründung befunden haben und Sitz im Kanton Aargau haben.
 
-<sup>3</sup> Die nicht rückzahlbaren Beiträge berechnen sich anhand eines branchenüblichen Anteils an den Fixkosten samt Abschreibungen und anhand der Umsatzeinbusse im Jahr 2020 respektive der letzten 12 Monate gegenüber den Jahren 2018 und 2019. Im Zusammenhang mit besonderen Aufwandpositionen kann das Departement Volkswirtschaft und Inneres (DVI) den Fixkostenansatz erhöhen.
+<sup>3</sup> Die nicht rückzahlbaren Beiträge berechnen sich anhand eines branchenüblichen Anteils an den Fixkosten samt Abschreibungen und anhand der Umsatzeinbusse im Jahr 2020 respektive der letzten 12 Monate gegenüber den Jahren 2018 und 2019. Im Zusammenhang mit besonderen Aufwandpositionen kann das DVI den Fixkostenansatz erhöhen.
 
 <sup>4</sup> Das Unternehmen hat gegenüber dem Kanton zu belegen, dass es zwischen dem 1. Januar 2019 und dem 31. Dezember 2019 nicht überschuldet war.
 
@@ -188,7 +190,7 @@ beschliesst:
 
 <sup>8</sup> Unternehmen, die einen nicht rückzahlbaren Beitrag gemäss § 7d erhalten haben, können einen nicht rückzahlbaren Beitrag gemäss den §§ 7b und 7c sowie eine Kreditausfallgarantie gemäss § 7a beantragen, wenn sie die Voraussetzungen erfüllen. Die Höchstgrenzen gemäss den Art. 8 und 8a Covid-19-Härtefallverordnung dürfen nicht überschritten werden.
 
-<sup>9</sup> Gesuche sind bis spätestens 30. Juni 2021 über das elektronische Behördenportal einzureichen.
+<sup>9</sup> Gesuche sind bis spätestens 30. September 2021 über das elektronische Behördenportal einzureichen.
 
 <sup>10</sup> Der Kanton kann gewährte Härtefallmassnahmen zurückfordern, wenn das Unternehmen die Geschäftstätigkeit innerhalb eines Jahres nach Gewährung der Härtefallmassnahmen aufgibt.
 
@@ -200,13 +202,17 @@ beschliesst:
 
 <sup>2</sup> Unternehmen mit einem Jahresumsatz über Fr. 5 Mio. und einer Umsatzeinbusse zwischen 25 % und 40 % können eine Härtefallmassnahme gemäss § 7a beantragen, wenn sie nicht behördlich geschlossen sind.
 
+<sup>3</sup> Gesuche sind bis spätestens 30. September 2021 über das elektronische Behördenportal einzureichen.
+
 #### § 7f
 
 **Unternehmen mit klar abgrenzbaren Tätigkeitsbereichen**
 
-<sup>1</sup> Die Berücksichtigung einer Spartenrechnung gemäss Art. 2a Covid-19-Härtefallverordnung kann für die Härtefallmassnahme gemäss § 7d beantragt werden. Voraussetzung ist ein Gesamtumsatz im Durchschnitt der Jahre 2018 und 2019 von mindestens Fr. 200'000.–.
+<sup>1</sup> Die Berücksichtigung einer Spartenrechnung gemäss Art. 2a Covid-19-Härtefallverordnung kann für die Härtefallmassnahmen gemäss den §§ 7d und 7f beantragt werden. Voraussetzung ist ein Gesamtumsatz im Durchschnitt der Jahre 2018 und 2019 von mindestens Fr. 200'000.–.
 
 <sup>2</sup> Der Nachweis der Spartenrechnung ist mittels den Jahresabschlüssen oder der spartenweise geführten Buchhaltung der Jahre 2018 bis 2020 zu erbringen.
+
+<sup>3</sup> Ist der Gesamtumsatz des Unternehmens im Jahr 2020 nicht tiefer als der durchschnittliche Umsatz der Jahre 2018 und 2019, kann keine Spartenrechnung geltend gemacht werden.
 
 #### § 7g
 
@@ -216,6 +222,16 @@ beschliesst:
 
 - a) das Unternehmen darf sich am 15. Dezember 2020 nicht in einem Betreibungsverfahren für Sozialversicherungsbeiträge befunden haben, es sei denn, dass zum Zeitpunkt der Einreichung des Gesuchs eine vereinbarte Zahlungsplanung vorliegt oder das Verfahren durch Zahlung abgeschlossen ist,
 - b) das Unternehmen darf zwischen dem Gründungszeitpunkt und dem 31. Dezember 2020 nicht überschuldet sein.
+
+#### § 7h
+
+**Bedingte Gewinnbeteiligung für Unternehmen mit einem Jahresumsatz unter 5 Millionen Franken**
+
+<sup>1</sup> Unternehmen, die im Jahr 2021 einen steuerbaren Jahresgewinn gemäss den Artikeln 58–67 des Bundesgesetzes über die direkte Bundessteuer (DBG) vom 14. Dezember 1990[^7h-1] erzielen, haben diesen an den Kanton weiterzuleiten; dies aber höchstens im Umfang des erhaltenen Beitrags.
+
+<sup>2</sup> Für die Berechnung der Gewinnbeteiligung massgeblich ist der steuerbare Jahresgewinn 2021 vor Verlustrechnung gemäss den Artikeln 58–67 DBG. Vom steuerbaren Jahresgewinn abziehbar ist ausschliesslich ein im Geschäftsjahr 2020 entstandener steuerlich massgeblicher Verlust.
+
+[^7h-1]: SR [642.11](https://db.clex.ch/link/Bund/642.11/de)
 
 ### 2.5 Vollzug
 
