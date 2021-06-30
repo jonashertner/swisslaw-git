@@ -3,20 +3,20 @@ canton: LU
 number: 806a
 title: Psychotherapeutenverordnung
 language: de
-version: 2020-04-01
-valid_until: 2021-06-30
-version_adopted: 2020-03-03
+version: 2021-07-01
+valid_until: 2022-06-30
+version_adopted: 2021-06-15
 adopted: 2013-04-16
 in_force: 2013-04-01
 url: "https://srl.lu.ch/app/de/texts_of_law/806a"
-pdf: "https://srl.lu.ch/api/de/versions/3558/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3755/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Psychotherapeutenverordnung
 
-vom 16.04.2013 (Stand 01.04.2020)
+vom 16.04.2013 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -47,14 +47,17 @@ beschliesst:
 
 <sup>2</sup> Sie ist insbesondere zuständig für
 
-- a. Entscheide im Zusammenhang mit der Bewilligung sowie der Führung einer Zweigpraxis,
+- a. Entscheide im Zusammenhang mit der Bewilligung,
 - b. die Publikation der erteilten Bewilligungen, der Entzüge oder des anderweitigen Erlöschens von Bewilligungen gemäss § 21 des Gesundheitsgesetzes vom 13. September 2005[^2-2],
 - c. die Befreiung von psychologischen Psychotherapeutinnen und Psychotherapeuten vom Berufsgeheimnis im Sinn von Artikel 321 Ziffer 2 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937[^2-3],
 - d. die Meldung der Erteilung, der Verweigerung und jeder Änderung der Bewilligung an das Eidgenössische Departement des Innern.
 
+<sup>3</sup> Sie entscheidet zudem auch über die Befreiung von bewilligungsfrei tätigen Psychologinnen und Psychologen vom Berufsgeheimnis im Sinn von Artikel 321 Ziffer 2 des Schweizerischen Strafgesetzbuches[^2-4].
+
 [^2-1]: Gemäss Änderung der SRL Nr. [37](https://srl.lu.ch/data/37/de) vom 28. Oktober 2014, in Kraft seit dem 1. Januar 2015 (G 2014 369), wurde in den §§ 2, 5, 6 und 8 die Bezeichnung «Dienststelle Gesundheit» durch «Dienststelle Gesundheit und Sport» ersetzt.
 [^2-2]: SRL Nr. [800](https://srl.lu.ch/data/800/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
 [^2-3]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^2-4]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 ## 2 Bewilligungs- und Meldepflicht
 
@@ -122,7 +125,7 @@ beschliesst:
 
 <sup>1</sup> Der Bewilligungsinhaber oder die Bewilligungsinhaberin hat über seine oder ihre Berufstätigkeit Aufzeichnungen zu machen. Diese müssen das Datum, den Namen des Patienten oder der Patientin, die Art des Leidens und die ausgeführte Behandlung sowie gegebenenfalls Angaben des überweisenden Arztes oder der überweisenden Ärztin enthalten.
 
-<sup>2</sup> Die Aufzeichnungen sind mindestens zehn Jahre aufzubewahren.
+<sup>2</sup> Die Aufzeichnungen sind mindestens zwanzig Jahre aufzubewahren.
 
 #### § 10
 
