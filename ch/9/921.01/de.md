@@ -4,11 +4,11 @@ title: "Verordnung vom 30. November 1992 über den Wald (Waldverordnung, WaV)"
 short: WaV
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538"
 language: de
-version: 2020-01-01
+version: 2021-07-01
 adopted: 1992-11-30
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20210701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20200101/de"
 
 (Waldverordnung, WaV)
 
-vom 30. November 1992 (Stand am 1. Januar 2020)
+vom 30. November 1992 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -218,7 +218,7 @@ Auf Anmeldung der nach Artikel 6 Absatz 1 WaG zuständigen Behörde ist im Grund
 [^11-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 [^11-2]: Fassung gemäss Ziff. I der V vom 14. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 
-### 2. Abschnitt: Waldfeststellung****
+### 2. Abschnitt: Waldfeststellung
 
 [^chap2-sec2-1]
 
@@ -270,7 +270,7 @@ Waldstrassen dürfen zu folgenden Zwecken mit Motorfahrzeugen befahren werden:
 
 [^13-1]: Fassung gemäss Ziff. II 61 der V vom 1. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
 
-### 4. Abschnitt: Bauten und Anlagen im Wald****
+### 4. Abschnitt: Bauten und Anlagen im Wald
 
 [^chap2-sec4-1]
 
@@ -282,7 +282,7 @@ Waldstrassen dürfen zu folgenden Zwecken mit Motorfahrzeugen befahren werden:
 
 ### (Art. 2 Abs. 2 Bst. b und 11 Abs. 1 WaG)
 
-<sup>1</sup> Forstliche Bauten und Anlagen, wie Forstwerkhöfe, gedeckte Energieholzlager und Waldstrassen, dürfen mit behördlicher Bewilligung nach Artikel 22 RPG[^13a-2] errichtet oder geändert werden.
+<sup>1</sup> Forstliche Bauten und Anlagen, wie Forstwerkhöfe, Rundholzlager, gedeckte Energieholzlager und Waldstrassen, dürfen mit behördlicher Bewilligung nach Artikel 22 RPG[^13a-2] errichtet oder geändert werden.[^13a-3]
 
 <sup>2</sup>
 
@@ -296,6 +296,7 @@ Voraussetzung einer Bewilligung ist, dass:
 
 [^13a-1]: Eingefügt durch Ziff. I der V vom 14. Juni 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 [^13a-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^13a-3]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 294](https://fedlex.data.admin.ch/eli/oc/2021/294)).
 
 #### Art. 14
 
@@ -594,7 +595,7 @@ Die Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft (WSL) hat
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
-## 5. Kapitel: Ausbildung und Grundlagen****
+## 5. Kapitel: Ausbildung und Grundlagen
 
 [^chap5-1]
 
@@ -656,13 +657,13 @@ Die Kantone sorgen:
 
 ### (Art. 29 Abs. 1 WaG)
 
-<sup>1</sup> …[^35-1]
+<sup>1</sup> ...[^35-1]
 
 <sup>2</sup> Das BAFU führt für Massnahmen der forstlichen Ausbildung eine zentrale Koordinations- und Dokumentationsstelle.
 
 [^35-1]: Aufgehoben durch Ziff. I 7.4 der V vom 9. Nov. 2011 (Überprüfung der ausserparlamentarischen Kommissionen), mit Wirkung seit 1. Jan. 2012 ([AS 2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)).
 
-### 2. Abschnitt: …
+### 2. Abschnitt: ...
 
 #### Art. 36 und 37
 
@@ -670,7 +671,7 @@ Die Kantone sorgen:
 
 [^3637-1]: Aufgehoben durch Ziff. I der V vom 17. Aug. 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
-### 3. Abschnitt:**** Erhebungen
+### 3. Abschnitt: Erhebungen
 
 [^chap5-sec3-1]
 
@@ -697,7 +698,7 @@ Es erhebt in Zusammenarbeit mit der WSL:
 
 [^37a-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
-### 4. Abschnitt:**** Holzförderung
+### 4. Abschnitt: Holzförderung
 
 [^chap5-sec4-1]
 
@@ -725,7 +726,7 @@ Es erhebt in Zusammenarbeit mit der WSL:
 
 <sup>2</sup> Für die Beurteilung der Nachhaltigkeit von Holz und Holzerzeugnissen sind bestehende Richtlinien und Empfehlungen wie etwa diejenigen der Koordinationskonferenz der Bau- und Liegenschaftsorgane der öffentlichen Bauherren zu berücksichtigen.
 
-## 6. Kapitel:**** Finanzhilfen (ohne Investitionskredite) und Abgeltungen
+## 6. Kapitel: Finanzhilfen (ohne Investitionskredite) und Abgeltungen
 
 [^chap6-1]
 
@@ -884,7 +885,7 @@ Die Höhe der globalen Abgeltungen an Massnahmen zur Verhütung und Behebung von
 Die Höhe der globalen Finanzhilfen an Massnahmen, die zur Erhaltung und Verbesserung der biologischen Vielfalt des Waldes beitragen, richtet sich nach:
 
 - a. der Anzahl Hektaren der auszuscheidenden und zu pflegenden Waldreservate;
-- b.[^41-2] …
+- b.[^41-2] ...
 - c. der Anzahl Hektaren der zu pflegenden Lebensräume, insbesondere der Waldränder, die der Vernetzung dienen;
 - d. dem Umfang und der Qualität der Massnahmen zur Förderung von Tier- und Pflanzenarten, die für die biologische Vielfalt prioritär zu erhalten sind;
 - e.[^41-3] der Anzahl Hektaren der ausserhalb von Waldreservaten auszuscheidenden Fläche mit hohen Anteilen an Alt- und Totholz oder mit genügend Bäumen, die für die biologische Vielfalt des Waldes besonders wertvolle Eigenschaften aufweisen (Biotopbäume);
@@ -895,7 +896,7 @@ Die Höhe der globalen Finanzhilfen an Massnahmen, die zur Erhaltung und Verbess
 
 <sup>3</sup> Die Finanzhilfen dürfen nur gewährt werden, wenn der Schutz der ökologischen Flächen nach Absatz 1 Buchstaben a und c–f vertraglich oder auf andere geeignete Weise gesichert ist.
 
-<sup>4</sup> …[^41-4]
+<sup>4</sup> ...[^41-4]
 
 [^41-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 [^41-2]: Aufgehoben durch Ziff. I der V vom 17. Aug. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
@@ -961,13 +962,13 @@ Globale Finanzhilfen für die Verbesserung der Bewirtschaftungsbedingungen der B
 
 ### (Art. 39 WaG)
 
-<sup>1</sup> …[^44-1]
+<sup>1</sup> ...[^44-1]
 
 <sup>2</sup> Als Ausgleich für die berufsspezifischen Kosten der ortsgebundenen praktischen Ausbildung des Forstpersonals gewährt der Bund Finanzhilfen im Einzelfall in Form einer Pauschale von 10 Prozent der Ausbildungskosten der Försterschulen und der Kurse.
 
 <sup>3</sup> An die Schaffung von Lehrmitteln für das Forstpersonal gewährt der Bund Finanzhilfen im Einzelfall bis zu 50 Prozent der anerkannten Kosten.
 
-<sup>4</sup> …[^44-2]
+<sup>4</sup> ...[^44-2]
 
 [^44-1]: Aufgehoben durch Ziff. I der V vom 17. Aug. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 [^44-2]: Aufgehoben durch Ziff. I der V vom 17. Aug. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
@@ -1122,9 +1123,9 @@ Investitionskredite werden gewährt, wenn:
 
 <sup>5</sup> Für ihre eigenen Investitionen erhalten die Kantone keine Kredite.
 
-<sup>6</sup> …[^60-3]
+<sup>6</sup> ...[^60-3]
 
-[^60-1]: [[AS 1962 1273](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323), [1972 2699](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 961, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 52 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 27, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 47 [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Bst. f]
+[^60-1]: [[AS 1962 1273](https://fedlex.data.admin.ch/eli/oc/1962/1273_1315_1323); [1972 2699](https://fedlex.data.admin.ch/eli/oc/1972/2699_2749_2532); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I, 961, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 52, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 27; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 47, [2104](https://fedlex.data.admin.ch/eli/oc/1992/2104_2104_2104). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Bst. f]
 [^60-2]: [[AS 1975 392](https://fedlex.data.admin.ch/eli/oc/1975/392_392_392), [1980 1798](https://fedlex.data.admin.ch/eli/oc/1980/1798_1798_1798), [1985 387](https://fedlex.data.admin.ch/eli/oc/1985/387_387_387), [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 24, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 43. [AS 1997 2995](https://fedlex.data.admin.ch/eli/oc/1997/2995_2995_2995)Art. 25]. Siehe heute: das BG vom 6. Okt. 2006 über Regionalpolitik ([SR 901.0](https://fedlex.data.admin.ch/eli/cc/2007/136)).
 [^60-3]: Aufgehoben durch Ziff. I 21 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
@@ -1198,7 +1199,7 @@ Die Rückzahlung beginnt:
 
 <sup>4</sup> Die Kreditnehmerin oder der Kreditnehmer kann den Kredit ohne Kündigung jederzeit ganz oder teilweise zurückzahlen.
 
-<sup>5</sup> …[^64-1]
+<sup>5</sup> ...[^64-1]
 
 <sup>6</sup> Zur Rückzahlung fällige Kredite oder Rückzahlungsraten, die ausstehen, sind zu 5 Prozent zu verzinsen.
 
@@ -1267,7 +1268,7 @@ Es werden aufgehoben:
 
 **Änderung bisherigen Rechts**
 
-…[^68-1]
+...[^68-1]
 
 [^68-1]: Die Änd. können unter [AS 1992 2538](https://fedlex.data.admin.ch/eli/oc/1992/2538_2538_2538)konsultiert werden.
 
@@ -1279,7 +1280,7 @@ Es werden aufgehoben:
 
 <sup>2</sup> Die Artikel 60–64 und 67 Buchstabe f treten am 1. Januar 1994 in Kraft.
 
-## Übergangsbestimmung der Änderung vom 2. Februar 2000****
+## Übergangsbestimmung der Änderung vom 2. Februar 2000
 
 [^u1-1]
 
@@ -1287,7 +1288,7 @@ Es werden aufgehoben:
 
 Rodungsgesuche für Werke in kantonaler Zuständigkeit, die am 1. Januar 2000 hängig sind, werden nach altem Recht beurteilt.
 
-## Übergangsbestimmung zur Änderung vom 17. August 2016****
+## Übergangsbestimmung zur Änderung vom 17. August 2016
 
 [^u2-1]
 

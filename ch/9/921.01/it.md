@@ -4,11 +4,11 @@ title: Ordinanza del 30 novembre 1992 sulle foreste (Ofo)
 short: OFo
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538"
 language: it
-version: 2020-01-01
+version: 2021-07-01
 adopted: 1992-11-30
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20210701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20200101/it"
 
 (OFo)
 
-del 30 novembre 1992 (Stato 1° gennaio 2020)
+del 30 novembre 1992 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -280,7 +280,7 @@ I veicoli a motore possono circolare su strade forestali a scopo di:
 
 ### (art. 2 cpv. 2 lett. b e 11 cpv. 1 LFo)
 
-<sup>1</sup> Edifici e impianti forestali, quali capannoni, depositi coperti di legna da ardere e strade possono essere costruiti o trasformati con l’autorizzazione dell’autorità secondo l’articolo 22 LPT[^13a-2].
+<sup>1</sup> Edifici e impianti forestali, quali capannoni forestali, depositi di tondame, depositi coperti di legna da ardere e strade forestali possono essere costruiti o trasformati con l’autorizzazione dell’autorità secondo l’articolo 22 LPT[^13a-2].[^13a-3]
 
 <sup>2</sup>
 
@@ -294,6 +294,7 @@ L’autorizzazione è rilasciata solo se:
 
 [^13a-1]: Introdotto dal n. I dell’O del 14 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 [^13a-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^13a-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 294](https://fedlex.data.admin.ch/eli/oc/2021/294)).
 
 #### Art. 14
 
@@ -328,7 +329,7 @@ I Cantoni elaborano i documenti di base per la protezione dalle catastrofi natur
 <sup>4</sup> Su richiesta, i Cantoni mettono i documenti di base a disposizione dell’UFAM e li rendono accessibili al pubblico in forma adeguata..[^15-2]
 
 [^15-1]: Nuovo testo giusta il n. I 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)).
-[^15-2]: Introdotto dal n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Nuovo testo giusta il n. 13 dell’all. 2 all’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^15-2]: Introdotto dal n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Nuovo testo giusta l’all. 2 n. 13 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
 #### Art. 16
 
@@ -340,7 +341,7 @@ I Cantoni elaborano i documenti di base per la protezione dalle catastrofi natur
 
 <sup>3</sup> I Cantoni provvedono affinché i dati delle stazioni di misurazione e dei sistemi d’informazione siano messi a disposizione dell’UFAM, se quest’ultimo li richiede, e resi accessibili al pubblico in forma adeguata.[^16-1]
 
-[^16-1]: Introdotto dal n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Nuovo testo giusta il n. 13 dell’all. 2 all’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^16-1]: Introdotto dal n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Nuovo testo giusta l’all. 2 n. 13 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
 #### Art. 17
 
@@ -481,7 +482,7 @@ L’autorizzazione è rilasciata se:
 <sup>3</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC)[^22-3] emana disposizioni concernenti la stesura di documenti d’esportazione di materiale di riproduzione forestale.
 
 [^22-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^22-2]: Introdotto dall’art. 51 n. 3 dell’O del 28 feb. 2001 sulla protezione dei vegetali ([RU 2001 1191](https://fedlex.data.admin.ch/eli/oc/2001/174)). Nuovo testo giusta il n. 16 dell’all. 5 all’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^22-2]: Introdotto dall’art. 51 n. 3 dell’O del 28 feb. 2001 sulla protezione dei vegetali ([RU 2001 1191](https://fedlex.data.admin.ch/eli/oc/2001/174)). Nuovo testo giusta l’all. 5 n. 16 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 [^22-3]: Nuova espr. giusta n. I 5 dell’O del 28 gen. 2015 che adegua ordinanze nel settore ambientale, legate in particolare agli accordi programmatici per il periodo 2016–2019, in vigore dal 1° gen. 2016 ([RU 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)). Di detta mod.è stato tenuto conto in tutto il presente testo.
 
 #### Art. 23
@@ -540,7 +541,7 @@ Per danni alla foresta si intendono danni che possono mettere in grave pericolo 
 
 [^28-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 [^28-2]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
-[^28-3]: Nuovo testo giusta il n. 7 dell’all. 8 all’O del 31 ott. 2018 sulla protezione dei vegetali da organismi nocivi particolarmente pericolosi, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^28-3]: Nuovo testo giusta l’all. 8 n. 7 dell’O del 31 ott. 2018 sulla protezione dei vegetali da organismi nocivi particolarmente pericolosi, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 
 #### Art. 29
 
@@ -592,9 +593,9 @@ L’Istituto federale di ricerca per la foresta, la neve e il paesaggio (FNP) ad
 
 [^chap5-1]
 
-[^chap5-1]: Nuovo testo giusta il n. 13 dell’all. 2 all’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^chap5-1]: Nuovo testo giusta l’all. 2 n. 13 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
-### Sezione 1: Formazione e formazione continua
+### Sezione 1: Formazione e formazione continua****
 
 [^chap5-sec1-1]
 
@@ -633,7 +634,7 @@ I Cantoni curano:
 
 <sup>2</sup> Prima dell’emanazione o dell’approvazione di prescrizioni sulla formazione dei forestali ai sensi degli articoli 19 capoverso 1, 28 capoverso 2 e 29 capoverso 3 della legge del 13 dicembre 2002[^33-2] sulla formazione professionale è consultato l’UFAM.
 
-[^33-1]: Nuovo testo giusta il n. II 2 dell’all. all’O del 19 nov. 2003 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748)).
+[^33-1]: Nuovo testo giusta l’all. n. II 2 dell’O del 19 nov. 2003 sulla formazione professionale, in vigore dal 1° gen. 2004 ([RU 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748)).
 [^33-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 
 #### Art. 34
@@ -672,7 +673,7 @@ I Cantoni curano:
 
 [^chap5-sec3-1]
 
-[^chap5-sec3-1]: Introdotta dal n. 13 dell’all. 2 all’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^chap5-sec3-1]: Introdotta dall’all. 2 n. 13 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
 #### Art. 37a
 
@@ -1239,7 +1240,7 @@ Il rimborso inizia:
 
 L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^66a-2] sulla geoinformazione.
 
-[^66a-1]: Introdotto dal n. 13 dell’all. 2 all’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^66a-1]: Introdotto dall’all. 2 n. 13 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 [^66a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 ### Sezione 2: Diritto previgente; abrogazione e modificazione
@@ -1300,6 +1301,6 @@ Le domande di dissodamento per le opere di competenza cantonale, pendenti il 1°
 
 [^u2-2]: Nuovo testo giusta il n. I 2 dell’O del 17 aprile 2019 che adegua ordinanze in materia ambientale all’ulteriore sviluppo degli accordi programmatici del periodo programmatico 2020–2024, in vigore dal 1° gen. 2020 ([RU 2019 1487](https://fedlex.data.admin.ch/eli/oc/2019/286)).
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 [^t-1]: Abrogato dal n. I 21 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).

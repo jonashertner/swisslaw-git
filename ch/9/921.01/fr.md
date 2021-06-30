@@ -4,11 +4,11 @@ title: Ordonnance du 30 novembre 1992 sur les forêts (OFo)
 short: OFo
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538"
 language: fr
-version: 2020-01-01
+version: 2021-07-01
 adopted: 1992-11-30
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20210701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20200101/fr"
 
 (OFo)
 
-du 30 novembre 1992 (Etat le 1<sup>er</sup> janvier 2020)
+du 30 novembre 1992 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -282,7 +282,7 @@ Les véhicules à moteur peuvent utiliser les routes forestières dans les buts 
 
 ### (art. 2, al. 2, let. b, et 11, al. 1)
 
-<sup>1</sup> Une construction ou installation forestière, telle que entrepôt forestier, dépôt couvert pour bois d’énergie ou route forestière, peut être créée ou transformée avec l’autorisation de l’autorité compétente, conformément à l’art. 22 LAT[^13a-2].
+<sup>1</sup> Une construction ou installation forestière, telle que entrepôt forestier, dépôt de bois rond, dépôt couvert pour bois d’énergie ou route forestière, peut être créée ou transformée avec l’autorisation de l’autorité compétente, conformément à l’art. 22 LAT[^13a-2].[^13a-3]
 
 <sup>2</sup>
 
@@ -296,6 +296,7 @@ L’autorisation est délivrée si:
 
 [^13a-1]: Introduit par le ch. I de l’O du 14 juin 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 [^13a-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^13a-3]: Nouvelle teneur selon le ch.I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juillet 2021 ([RO 2021 294](https://fedlex.data.admin.ch/eli/oc/2021/294)).
 
 #### Art. 14
 

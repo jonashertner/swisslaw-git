@@ -4,11 +4,11 @@ title: "Ordinance of 30 November 1992 on Forest (Forest Ordinance, ForO)"
 short: ForO
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538"
 language: en
-version: 2020-01-01
+version: 2021-07-01
 adopted: 1992-11-30
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20200101/en/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538/20210701/en/xml/fedlex-data-admin-ch-eli-cc-1992-2538_2538_2538-20210701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2538_2538_2538/20210701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Forest Ordinance, ForO)
 
-of 30 November 1992 (Status as of 1 January 2020)
+of 30 November 1992 (Status as of 1 July 2021)
 
 The Swiss Federal Council,
 
@@ -93,7 +93,7 @@ The following are not defined as deforestation:
 
 <sup>3</sup> The Federal Office for the Environment[^5-2] (the FOEN[^5-3]) shall issue guidelines on the contents of a deforestation application.
 
-[^5-1]: Amended by No II 17 of the O of 2 Feb. 2000 to the FA on the Coordination and Simplification of Decision-Making Procedures of 18 June 1999, in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^5-1]: Amended by No II 17 of the O of 2 Feb. 2000 (Coordination and Simplification of Decision-Making Procedures), in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^5-2]: The designation of the administrative entity was amended according to Art. 16 para. 3 of the Publication Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^5-3]: Name in accordance with No I 5 of the O of 28 Jan. 2015 on the Amendment of Ordinance Law on the Environment, in particular with regard to the programme agreements for the Programme Period 2016–2019, in force since 1 Jan. 2016 ([AS 2015 427](https://fedlex.data.admin.ch/eli/oc/2015/63)). This change has been made throughout the text.
 
@@ -110,7 +110,7 @@ Included in the calculation of the deforestation area, based on which the obliga
 - a. are included in the deforestation application;
 - b. were deforested for the same works in the 15 years previous to the submission of the deforestation application, or for which deforestation is still allowed.
 
-[^6-1]: Amended by No II 17 of the O of 2 Feb. 2000 to the FA on the Coordination and Simplification of Decision-Making Procedures, in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^6-1]: Amended by No II 17 of the O of 2 Feb. 2000 (Coordination and Simplification of Decision-Making Procedures), in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 7
 
@@ -128,7 +128,7 @@ The deforestation decision covers the following:
 
 <sup>2</sup> The FOEN shall keep statistics on the deforestation projects authorised by the Confederation and the cantons. The cantons shall make the necessary information available to the FOEN.[^7-1]
 
-[^7-1]: Inserted by No II 17 of the O of 2 Feb. 2000 to the FA on the Coordination and Simplification of Decision-Making Procedures, in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^7-1]: Inserted by No II 17 of the O of 2 Feb. 2000 (Coordination and Simplification of Decision-Making Procedures), in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 8
 
@@ -252,7 +252,7 @@ Areas where the canton wants to prevent an increase in forest must be specified 
 
 ### Section 3 Motorised Vehicular Traffic
 
-### (Art. 15 para ForA)
+### (Art. 15 para. 1 ForA)
 
 #### Art. 13
 
@@ -284,7 +284,7 @@ Forest roads may be accessed by motorised vehicular traffic for the following pu
 
 ### (Art. 2 para. 2 let. b and 11 para. 1 ForA)
 
-<sup>1</sup> Forest structures and installations, such as forest maintenance depots, covered wood fuel stores and forest roads may be constructed or altered with official permission in accordance with Article 22 SPA[^13a-2].
+<sup>1</sup> Forest structures and installations, such as forest maintenance depots, log stores, covered wood fuel stores and forest roads may be constructed or altered with official permission in accordance with Article 22 SPA[^13a-2].[^13a-3]
 
 <sup>2</sup>
 
@@ -298,6 +298,7 @@ A requirement for permission is that:
 
 [^13a-1]: Inserted by No I of the O of 14 June 2013, in force since 1 July 2013 ([AS 2013 1983](https://fedlex.data.admin.ch/eli/oc/2013/419)).
 [^13a-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^13a-3]: Amended by No I of the O of 12 May 2021, in force since 1 July 2021 ([AS 2021 294](https://fedlex.data.admin.ch/eli/oc/2021/294)).
 
 #### Art. 14
 
@@ -869,7 +870,7 @@ The amount of global financial assistance for measures to prevent and mitigate f
 
 <sup>3</sup> No compensation is paid for loss of yield or immaterial damage.
 
-<sup>4</sup> The Confederation shall reimburse the cantons between 35 and 50 per cent of the cost of compensation payments in accordance with the provision on global financial assistance in Article 40*a*
+<sup>4</sup> The Confederation shall reimburse the cantons between 35 and 50 per cent of the cost of compensation payments in accordance with the provision on global financial assistance in Article 40*a.*
 
 [^40b-1]: Inserted by No I of the O of 17 Aug. 2016, in force since 1 Jan. 2017 ([AS 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)).
 
@@ -1220,7 +1221,7 @@ Repayment begins:
 
 <sup>2</sup> If the federal authorities apply other federal acts or agreements or decisions under international law which relate to the subject matter of this Ordinance, they also implement this Ordinance. Cooperation between the FOEN and the cantons is governed by Article 49 paragraph 2 ForA; statutory duties of confidentiality are reserved.[^65-1]
 
-[^65-1]: Inserted by No II 17 of the O of 2 Feb. 2000 to the FA on the Coordination and Simplification of Decision-Making Procedures, in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^65-1]: Inserted by No II 17 of the O of 2 Feb. 2000 (Coordination and Simplification of Decision-Making Procedures), in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 66
 
@@ -1232,7 +1233,7 @@ Repayment begins:
 
 <sup>2</sup> They shall inform the FOEN of any rulings and decisions on deforestation.[^66-1]
 
-[^66-1]: Inserted by No II 17 of the O of 2 Feb. 2000 to the FA on the Coordination and Simplification of Decision-Making Procedures, in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^66-1]: Inserted by No II 17 of the O of 2 Feb. 2000 (Coordination and Simplification of Decision-Making Procedures), in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 
 #### Art. 66a
 
@@ -1260,9 +1261,9 @@ The following are repealed:
 
 [^67-1]: [[AS 1965 861](https://fedlex.data.admin.ch/eli/oc/1965/861_869_862), [1971 1192](https://fedlex.data.admin.ch/eli/oc/1971/1192_1193_1193), [1977 2273](https://fedlex.data.admin.ch/eli/oc/1977/2273_2273_2273)No I 18.[1](https://fedlex.data.admin.ch/eli/oc/1977/1_1_1), [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)No I 3 685 No I 6 2022]
 [^67-2]: [[AS 1973 964](https://fedlex.data.admin.ch/eli/oc/1973/964_964_964), [1987 608](https://fedlex.data.admin.ch/eli/oc/1987/608_608_608)Art. 16 para. 1 let. e]
-[^67-3]: [[AS 1988 2057](https://fedlex.data.admin.ch/eli/oc/1988/2057_2057_2057), [1990 874](https://fedlex.data.admin.ch/eli/oc/1990/874_874_874)]
-[^67-4]: [[AS 1956 1220](https://fedlex.data.admin.ch/eli/oc/1956/1220_1303_1317), **1959** 1626, [1977 2325](https://fedlex.data.admin.ch/eli/oc/1977/2325_2325_2325)No I 19, [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)Art. 70 No 3, **1987** 2529, [1989 1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)Art. 2 No 2, [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749)No II 4. [AS 1993 104](https://fedlex.data.admin.ch/eli/oc/1993/104_104_104)Art. 42 let. a]
-[^67-5]: [[AS 1956 1227](https://fedlex.data.admin.ch/eli/oc/1956/1227_1311_1325), **1959** 1628, [1975 402](https://fedlex.data.admin.ch/eli/oc/1975/402_402_402)No I 15, **1987** 2531]
+[^67-3]: [[AS 1988 2057](https://fedlex.data.admin.ch/eli/oc/1988/2057_2057_2057), [1990 874](https://fedlex.data.admin.ch/eli/oc/1990/874_874_874)No I, II]
+[^67-4]: [[AS 1956 1220](https://fedlex.data.admin.ch/eli/oc/1956/1220_1303_1317), **1959** 1626, [1977 2325](https://fedlex.data.admin.ch/eli/oc/1977/2325_2325_2325)No I 19, [1986 1254](https://fedlex.data.admin.ch/eli/oc/1986/1254_1254_1254)Art. 70 No 3, **1987** 2538, [1989 1124](https://fedlex.data.admin.ch/eli/oc/1989/1124_1124_1124)Art. 2 No 2, [1992 1749](https://fedlex.data.admin.ch/eli/oc/1992/1749_1749_1749)No II 4. [AS 1993 104](https://fedlex.data.admin.ch/eli/oc/1993/104_104_104)Art. 42 let. a]
+[^67-5]: [[AS 1956 1227](https://fedlex.data.admin.ch/eli/oc/1956/1227_1311_1325), **1959** 1628, [1975 402](https://fedlex.data.admin.ch/eli/oc/1975/402_402_402)No I 15, **1987** 2540]
 [^67-6]: [[AS 1970 765](https://fedlex.data.admin.ch/eli/oc/1970/765_764_764), [1978 1819](https://fedlex.data.admin.ch/eli/oc/1978/1819_1819_1819)]
 
 #### Art. 68
