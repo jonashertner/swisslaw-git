@@ -4,13 +4,13 @@ number: "311.415"
 title: Verordnung über die Ausnahmen der Zulassungseinschränkung zur ärztlichen Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
 short: "Zulassungsverordnung, ZV"
 language: de
-version: 2019-07-01
-valid_until: 2021-06-30
-version_adopted: 2019-04-03
+version: 2021-07-01
+valid_until: 2023-06-30
+version_adopted: 2021-06-09
 adopted: 2018-03-21
 in_force: 2018-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/311.415"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2726/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3008/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2726/pdf_file"
 
 (Zulassungsverordnung, ZV)
 
-Vom 21.03.2018 (Stand 01.07.2019)
+Vom 21.03.2018 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -34,7 +34,7 @@ beschliesst:
 
 **Ausnahmen im Einzelfall**
 
-<sup>1</sup> In begründeten Einzelfällen kann das Departement Gesundheit und Soziales (DGS) zur Gewährleistung der medizinischen Grundversorgung Fachärztinnen und Fachärzten Allgemeine Innere Medizin, Kinder- und Jugendmedizin sowie Praktischen Ärztinnen und Ärzten eine Ausnahmezulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung erteilen. Die Erteilung der gesundheitspolizeilichen Bewilligung bleibt vorbehalten.
+<sup>1</sup> In begründeten Einzelfällen kann das Departement Gesundheit und Soziales (DGS) zur Gewährleistung der medizinischen Grundversorgung Fachärztinnen und Fachärzten Allgemeine Innere Medizin, Kinder- und Jugendmedizin, Fachärztinnen und Fachärzten für Psychiatrie und Psychotherapie sowie für Kinder- und Jugendpsychiatrie und -psychotherapie sowie Praktischen Ärztinnen und Ärzten eine Ausnahmezulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung erteilen. Die Erteilung der gesundheitspolizeilichen Bewilligung bleibt vorbehalten.
 
 <sup>2</sup> Folgende Voraussetzungen müssen dazu kumulativ erfüllt sein:
 
@@ -68,18 +68,18 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung tritt am 1. Mai 2018 in Kraft und gilt längstens bis zum 30. Juni 2019.
 
-<sup>2</sup> Die Geltungsdauer dieser Verordnung wird bis zum 30. Juni 2021 verlängert.
+<sup>2</sup> Die Geltungsdauer dieser Verordnung wird bis zum 30. Juni 2023 verlängert.
 
-Aarau, 21. März 2018
+Aarau, 30. Juni 2021
 
 Regierungsrat Aargau
 
 Landammann
 
-Hürzeler
+Attiger
 
-Staatsschreiberin
+Staatsschreiber a.i
 
-Trivigno
+Meier
 
 2018/3-05
