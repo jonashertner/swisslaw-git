@@ -4,13 +4,13 @@ number: "210.100"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGzZGB
 language: de
-version: 2019-04-01
-corrected: 2020-04-01
-version_adopted: 2018-10-25
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-18
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2935/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3169/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2935/pdf_file"
 
 (EGzZGB)[^t-1]
 
-Vom 12.06.1994 (Stand 01.04.2019)
+Vom 12.06.1994 (Stand 01.07.2021)
 
 Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
@@ -624,6 +624,12 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde kann Beiständen, die ihren gesetzlichen Pflichten schuldhaft nicht nachkommen, die Kosten der Ersatzvornahme überbinden.
 
+#### Art. 50c
+
+**4. Beiträge**
+
+<sup>1</sup> Der Kanton übernimmt für private Beistandspersonen die Sozialversicherungsbeiträge für die Führung von Beistandschaften.
+
 #### Art. 51
 
 **IV. Fürsorgerische Unterbringung 1. Ärztliche Unterbringung a) Anordnung**
@@ -1142,7 +1148,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>3</sup> Im Güterzusammenlegungsverfahren zugeteilte Grundstücke dürfen nicht wieder aufgeteilt werden.
 
-<sup>4</sup> Das Departement des Innern und der Volkswirtschaft[^88-1] kann Ausnahmen bewilligen, wenn wichtige Gründe vorliegen. Für die Bewilligung zur Teilung von Wald ist das Bau-, Verkehrs- und Forstdepartement zuständig.
+<sup>4</sup> Das Departement des Innern und der Volkswirtschaft[^88-1] kann Ausnahmen bewilligen, wenn wichtige Gründe vorliegen. Für die Bewilligung zur Teilung von Wald ist das Departement für Infrastruktur, Energie und Mobilität zuständig.
 
 <sup>5</sup> Kauf-, Tausch- und Teilungsverträge sowie Parzellierungsanträge, welche dem Zerstückelungsverbot widersprechen, sind, wenn keine Ausnahmebewilligung vorliegt, ungültig und dürfen nicht ins Grundbuch eingetragen werden.
 

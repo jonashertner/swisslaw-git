@@ -4,13 +4,13 @@ number: "210.100"
 title: "Legge d'introduzione al Codice civile svizzero *"
 short: LICC
 language: it
-version: 2019-04-01
-corrected: 2020-04-01
-version_adopted: 2018-10-25
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-18
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2935/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3169/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2935/pdf_file"
 
 (LICC)[^t-1]
 
-del 12.06.1994 (stato 01.04.2019)
+del 12.06.1994 (stato 01.07.2021)
 
 accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
@@ -613,6 +613,12 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>1</sup> L'autorità di protezione dei minori e degli adulti può accollare i costi dell'esecuzione sostitutiva ai curatori che colpevolmente non adempiono ai loro doveri.
 
+#### Art. 50c
+
+**4. Contributi**
+
+<sup>1</sup> Il Cantone si fa carico dei contributi per le assicurazioni sociali di curatori privati per le curatele da essi assunte.
+
 #### Art. 51
 
 **IV. Ricovero a scopo di assistenza 1. Ricovero medico a) Ordine**
@@ -1129,7 +1135,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 <sup>3</sup> I fondi assegnati nella procedura di raggruppamento dei terreni non possono essere nuovamente suddivisi in altre parcelle.
 
-<sup>4</sup> Il Dipartimento dell'interno e dell'economia pubblica[^88-1] può autorizzare eccezioni per motivi importanti. Per l'autorizzazione al frazionamento della foresta è competente il Dipartimento costruzioni, trasporti e foreste.
+<sup>4</sup> Il Dipartimento dell'interno e dell'economia pubblica[^88-1] può autorizzare eccezioni per motivi importanti. Per l'autorizzazione al frazionamento della foresta è competente il Dipartimento infrastrutture, energia e mobilità.
 
 <sup>5</sup> I contratti di compra-vendita, di permuta e di divisione nonché le proposte di suddivisione particellare che contraddicono questo divieto di frazionamento sono, qualora non ci sia alcuna autorizzazione d'eccezione, nulli e non possono essere iscritti a registro fondiario.
 

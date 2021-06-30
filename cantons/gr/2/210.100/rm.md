@@ -4,13 +4,13 @@ number: "210.100"
 title: "Lescha introductiva tar il cudesch civil svizzer *"
 short: LItCCS
 language: rm
-version: 2019-04-01
-corrected: 2020-04-01
-version_adopted: 2018-10-25
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-18
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2935/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3169/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2935/pdf_file"
 
 (LItCCS)[^t-1]
 
-dals 12-06-1994 (versiun dals 01-04-2019)
+dals 12-06-1994 (versiun dals 01-07-2021)
 
 acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
@@ -631,6 +631,12 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>1</sup> L'autoritad per la protecziun d'uffants e da creschids po adossar ils custs da l'execuziun d'uffizi a procuraturs che n'adempleschan culpaivlamain betg lur obligaziuns legalas.
 
+#### Art. 50c
+
+**4. contribuziuns**
+
+<sup>1</sup> Per las procuraturas privatas ed ils procuraturs privats surpiglia il chantun las contribuziuns a las assicuranzas socialas per manar curatellas.
+
 #### Art. 51
 
 **IV. Plazzament per motivs d'assistenza 1. plazzament tras il medi a) ordinaziun**
@@ -1163,11 +1169,11 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 <sup>3</sup> Bains immobigliars ch'èn vegnids assegnads en la procedura d'arrundaziun dal terren na dastgan betg pli vegnir parcellads.
 
-<sup>4</sup> Il departament da l'intern e da l'economia publica[^88-1] po permetter excepziuns, sch'igl èn avant maun motivs impurtants. Per permetter la partiziun da guaud è cumpetent il departament da construcziun, traffic e selvicultura.
+<sup>4</sup> Il Departament da l'intern e da l'economia publica[^88-1] po permetter excepziuns, sch'i èn avant maun motivs impurtants. Per permetter la partiziun da guaud è cumpetent il Departament d'infrastructura, energia e mobilitad.
 
 <sup>5</sup> Contracts da cumpra, da barat e da partiziun sco er dumondas da parcellaziun che cuntrafan al scumond da parcellaziun èn – sch'i n'è betg avant maun ina permissiun excepziunala – nunvalaivels e na dastgan betg vegnir inscrits en il register funsil.
 
-[^88-1]: ussa: departament d'economia publica e fatgs socials
+[^88-1]: ussa: Departament d'economia publica e fatgs socials
 
 ### 2.4.3. Dretg da vischinanza
 
