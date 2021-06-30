@@ -4,11 +4,11 @@ title: "Legge federale del 25 giugno 1982 sulla previdenza professionale per la 
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210101/it"
 
 (LPP)
 
-del 25 giugno 1982 (Stato 1° gennaio 2021)
+del 25 giugno 1982 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -123,15 +123,15 @@ La parte seconda della presente legge stabilisce esigenze minime.
 
 <sup>2</sup> Se ammonta a meno di 3585 franchi[^8-3] all’anno, il salario coordinato dev’essere arrotondato a tale importo.[^8-4]
 
-<sup>3</sup> Quando il salario annuo diminuisce temporaneamente per malattia, infortunio, disoccupazione, maternità, paternità o motivi analoghi, il salario coordinato vigente permane valido almeno fintanto che sussista l’obbligo del datore di lavoro di pagare il salario giusta l’articolo 324*a* del Codice delle obbligazioni (CO)[^8-5] oppure almeno per la durata del congedo di maternità giusta l’articolo 329*f* CO o del congedo di paternità giusta l’articolo 329*g* CO.[^8-6] L’assicurato può tuttavia chiedere la riduzione del salario coordinato.[^8-7]
+<sup>3</sup> Quando il salario annuo diminuisce temporaneamente per malattia, infortunio, disoccupazione, maternità, paternità o motivi analoghi, il salario coordinato vigente permane valido almeno fintanto che sussista l’obbligo del datore di lavoro di pagare il salario giusta l’articolo 324*a* del Codice delle obbligazioni (CO)[^8-5] oppure almeno per la durata del congedo di maternità giusta l’articolo 329*f* CO, del congedo di paternità giusta l’articolo 329*g* CO o del congedo di assistenza giusta l’articolo 329*i* CO.[^8-6] L’assicurato può tuttavia chiedere la riduzione del salario coordinato.[^8-7]
 
 [^8-1]: Nuovi importi giusta l’art. 5 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, nel testo della mod. del 14 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
 [^8-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-3]: Nuovo importo giusta l’art. 5 dell’O del 18 apr. 1984 sulla previdenza professionale per la vecchiaia, nel testo della mod. del 14 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
 [^8-4]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^8-6]: Nuovo testo giusta l’all. n. 2 della LF del 27 set. 2019, in vigore dal 1° gen. 2021 ([RU 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 2815](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3191](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
-[^8-7]: Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381))
+[^8-6]: Nuovo testo giusta il n. II 2 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^8-7]: Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 9
 
@@ -538,10 +538,10 @@ Per istituto di previdenza ai sensi della presente sezione s’intende l’istit
 
 **Costituzione in pegno**
 
-L’assicurato può costituire in pegno il diritto alle prestazioni di previdenza o un importo a concorrenza della sua prestazione di libero passaggio conformemente all’articolo 331*d* del CO[^30b-1] [^30b-2].
+L’assicurato può costituire in pegno il diritto alle prestazioni di previdenza o un importo a concorrenza della sua prestazione di libero passaggio conformemente all’articolo 331*d* CO[^30b-1] [^30b-2].
 
 [^30b-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^30b-2]: Nuova espr. giusta il n. I 6 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2020 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^30b-2]: Nuova espr. giusta il n. I 6 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 30c
 
@@ -684,7 +684,7 @@ Fanno parte della generazione d’entrata le persone che, al momento in cui entr
 
 <sup>2</sup> La previdenza può essere mantenuta al livello del precedente guadagno assicurato al più tardi fino al raggiungimento dell’età ordinaria di pensionamento stabilita dal regolamento.
 
-<sup>3</sup> La parità dei contributi di cui all’articolo 66 capoverso 1 della presente legge e all’articolo 331 capoverso 3 del CO[^33a-1] non è applicabile ai contributi destinati al mantenimento della previdenza al livello del precedente guadagno assicurato. Il regolamento può prevedere contributi del datore di lavoro destinati al mantenimento della previdenza al livello del precedente guadagno assicurato soltanto con il consenso del datore di lavoro.
+<sup>3</sup> La parità dei contributi di cui all’articolo 66 capoverso 1 della presente legge e all’articolo 331 capoverso 3 CO[^33a-1] non è applicabile ai contributi destinati al mantenimento della previdenza al livello del precedente guadagno assicurato. Il regolamento può prevedere contributi del datore di lavoro destinati al mantenimento della previdenza al livello del precedente guadagno assicurato soltanto con il consenso del datore di lavoro.
 
 [^33a-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
@@ -841,7 +841,7 @@ Di regola, le rendite sono pagate mese per mese. Per il mese in cui il diritto s
 
 <sup>1</sup> I diritti alle prestazioni non si prescrivono purché gli assicurati non abbiano lasciato l’istituto di previdenza all’insorgere dell’evento assicurato.
 
-<sup>2</sup> I crediti che riguardano contributi o prestazioni periodici si prescrivono in cinque anni, gli altri in dieci anni. Gli articoli 129–142 del CO[^41-2] sono applicabili.
+<sup>2</sup> I crediti che riguardano contributi o prestazioni periodici si prescrivono in cinque anni, gli altri in dieci anni. Gli articoli 129–142 CO[^41-2] sono applicabili.
 
 <sup>3</sup> Dopo dieci anni dall’età ordinaria di pensionamento (art. 13), gli averi depositati su conti o polizze di libero passaggio conformemente all’articolo 10 dell’ordinanza del 3 ottobre 1994[^41-3] sul libero passaggio sono trasferiti al fondo di garanzia LPP; il fondo li impiega per finanziare l’Ufficio centrale del 2° pilastro.
 
@@ -1114,7 +1114,7 @@ Adempie i compiti intrasmissibili e inalienabili seguenti:
 
 <sup>4</sup> Stabilisce un’indennità adeguata per la partecipazione dei suoi membri a sedute e corsi di formazione.
 
-<sup>5</sup> Negli istituti di previdenza che rivestono la forma della società cooperativa i compiti di cui ai capoversi 1–4 possono essere assunti dall’amministrazione, purché non si tratti di poteri intrasmissibili dell’assemblea generale secondo l’articolo 879 del CO[^51a-2].
+<sup>5</sup> Negli istituti di previdenza che rivestono la forma della società cooperativa i compiti di cui ai capoversi 1–4 possono essere assunti dall’amministrazione, purché non si tratti di poteri intrasmissibili dell’assemblea generale secondo l’articolo 879 CO[^51a-2].
 
 <sup>6</sup> È fatto salvo l’articolo 50 capoverso 2, secondo periodo.
 
@@ -1156,7 +1156,7 @@ Adempie i compiti intrasmissibili e inalienabili seguenti:
 
 <sup>3</sup> Qualsiasi organo di un istituto di previdenza tenuto a risarcire un danno deve informare gli altri organi tenuti a esercitare il regresso. Il termine di prescrizione di cinque anni per l’esercizio del diritto di regresso secondo il presente capoverso decorre dal momento in cui il danno è risarcito.
 
-<sup>4</sup> Per la responsabilità dell’ufficio di revisione si applica per analogia l’articolo 755 del CO[^52-4].[^52-5]
+<sup>4</sup> Per la responsabilità dell’ufficio di revisione si applica per analogia l’articolo 755 CO[^52-4].[^52-5]
 
 [^52-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^52-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
@@ -2784,7 +2784,7 @@ Entro due anni dall’entrata in vigore della presente modifica, l’organo supr
 
 [^u5-lvlb-1]: [RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457),[2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)
 
-Gli istituti di previdenza registrati che al momento dell’entrata in vigore della presente modifica rivestono la forma della società cooperativa possono proseguire la loro attività sotto questa forma fino al loro scioglimento o alla loro trasformazione in una fondazione. A questi istituti si applicano a titolo sussidiario le disposizioni sulla società cooperativa di cui agli articoli 828–926 del CO[^u5-lvlb-2].
+Gli istituti di previdenza registrati che al momento dell’entrata in vigore della presente modifica rivestono la forma della società cooperativa possono proseguire la loro attività sotto questa forma fino al loro scioglimento o alla loro trasformazione in una fondazione. A questi istituti si applicano a titolo sussidiario le disposizioni sulla società cooperativa di cui agli articoli 828–926 CO[^u5-lvlb-2].
 
 [^u5-lvlb-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 

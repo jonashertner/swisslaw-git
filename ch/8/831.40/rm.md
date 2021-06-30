@@ -4,11 +4,11 @@ title: "Lescha federala dals 25 da zercladur 1982 davart il provediment professi
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: rm
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20210701/rm/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20210701-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPP)
 
-dals 25 da zercladur 1982 (versiun dals 1. da schaner 2021)
+dals 25 da zercladur 1982 (versiun dals 1. da fanadur 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -125,14 +125,14 @@ La segunda part da questa lescha cuntegna prescripziuns minimalas.
 
 <sup>2</sup> Sch’il salari coordinà importa main che 3585 francs[^8-3] per onn, sto el vegnir arrundà sin questa summa.[^8-4]
 
-<sup>3</sup> Sch’il salari annual sa reducescha temporarmain pervia da malsogna, accident, dischoccupaziun, maternitad, paternitad u per motivs sumegliants, resta il salari coordinà vertent en vigur almain uschè ditg, sco quai ch’il patrun è obligà da pajar il salari tenor l’artitgel 324*a* dal Dretg d’obligaziuns (DO)[^8-5] u almain per la durada d’in congedi da maternitad tenor l’artitgel 329*f* DO u d’in congedi da paternitad tenor l’artitgel 329*g* DO.[^8-6] La persuna assicurada po dentant pretender ch’il salari coordinà vegnia reducì.[^8-7]
+<sup>3</sup> Sch’il salari annual sa reducescha temporarmain pervia da malsogna, accident, dischoccupaziun, maternitad, paternitad u per motivs sumegliants, resta il salari coordinà vertent en vigur almain uschè ditg, sco quai ch’il patrun fiss obligà da pajar il salari tenor l’artitgel 324*a* dal Dretg d’obligaziuns (DO)[^8-5] u almain per la durada d’in congedi da maternitad tenor l’artitgel 329*f* DO, d’in congedi da paternitad tenor l’artitgel 329*g* DO u d’in congedi per tgirar in uffant tenor l’artitgel 329*i*.[^8-6] La persuna assicurada po dentant pretender ch’il salari coordinà vegnia reducì.[^8-7]
 
 [^8-1]: Import tenor l’art. 5 da l’O dals 18 d’avr. 1984 davart il provediment professiunal per vegls, survivents ed invaliditad en la versiun da la midada dals 14 d’oct. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
 [^8-2]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-3]: Import tenor l’art. 5 da l’O dals 18 d’avr. 1984 davart il provediment professiunal per vegls, survivents ed invaliditad en la versiun da la midada dals 14 d’oct. 2020, en vigur dapi il 1. da schan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
 [^8-4]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^8-6]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 27 da sett. 2019, en vigur dapi il 1. da schan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^8-6]: Versiun tenor la cifra II 2 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^8-7]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 3 d’oct. 2003, en vigur dapi il 1. da fan. 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 9
@@ -260,11 +260,11 @@ Il dabun da vegliadetgna sa cumpona:
 
 [^15-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^15-2]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^15-3]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^15-3]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^15-4]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^15-5]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^15-5]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^15-6]: Guardar er las disposiziuns transitoricas da la midada dals 17 da dec. 2010 a la fin da quest text.
-[^15-7]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^15-7]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 16
 
@@ -292,7 +292,7 @@ Las bunificaziuns da vegliadetgna vegnan calculadas mintga onn en pertschients d
 <sup>2</sup> Il dretg d’ina renta per uffants ch’exista il mument ch’ina procedura da divorzi vegn iniziada, n’è betg tangà da la cumpensaziun dal provediment professiunal tenor l’artitgel 124*a* dal Cudesch civil svizzer (CCS)[^17-1].[^17-2]
 
 [^17-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^17-2]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^17-2]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### 2. secziun Prestaziuns per survivents
 
@@ -377,8 +377,8 @@ Ultra da las persunas che han il dretg sin prestaziuns tenor ils artitgels 19 e 
 
 [^21-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Guardar er las disposiziuns transitoricas da la midada dals 3 d’oct. 2003 a la fin da quest decret.
 [^21-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^21-3]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^21-4]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^21-3]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^21-4]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 22
 
@@ -445,7 +445,7 @@ Il dabun da vegliadetgna ch’è decisiv per la calculaziun consista:
 [^24-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)). Guardar er las disposiziuns transitoricas da la midada dals 3 d’oct. 2003 a la fin da quest decret.
 [^24-2]: Dapi il 1. da schan. 2005: vegliadetgna da renta 64 per dunnas (art. 62*a* al. 2 lit. c da l’O dals 18 d’avr. 1984 davart il provediment professiunal per vegls, survivents ed invaliditad en la versiun da la midada dals 18 d’avust 2004 – [AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^24-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^24-4]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^24-4]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 25
 
@@ -456,7 +456,7 @@ Il dabun da vegliadetgna ch’è decisiv per la calculaziun consista:
 <sup>2</sup> Il dretg d’ina renta per uffants ch’exista il mument ch’ina procedura da divorzi vegn iniziada, n’è betg tangà da la cumpensaziun dal provediment professiunal tenor ils artitgels 124 e 124*a* CCS[^25-1].[^25-2]
 
 [^25-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^25-2]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^25-2]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 26
 
@@ -566,11 +566,11 @@ La persuna assicurada po impegnar il dretg sin prestaziuns da provediment u ina 
 
 <sup>7</sup> Sche la retratga anticipada u l’impegnaziun mettan en dumonda la liquiditad da l’instituziun da provediment, po quella suspender la liquidaziun da las dumondas correspundentas. En ses reglament fixescha ella in urden da prioritads per suspender questas retratgas anticipadas respectivamain questas impegnaziuns. Il Cussegl federal regla ils detagls.
 
-[^30c-1]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^30c-1]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^30c-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^30c-3]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
 [^30c-4]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^30c-5]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^30c-5]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 30d
 
@@ -601,7 +601,7 @@ La restituziun è admissibla fin:
 <sup>6</sup> Imports restituids vegnan attribuids al dabun da vegliadetgna tenor l’artitgel 15 ed a l’ulteriur dabun da provediment en la medema relaziun sco tar la retratga anticipada.[^30d-2]
 
 [^30d-1]: Versiun tenor la cifra II 2 da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^30d-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^30d-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 30e
 
@@ -805,7 +805,7 @@ En ses reglament po l’instituziun da provediment prevair che:
 
 [^37-1]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^37-2]: L’art. 13*a* era previs en la 11. revisiun da la AVS dals 3 d’oct. 2003, ch’è vegnida refusada en la votaziun dal pievel dals 16 da matg 2004 (guardar [BBl 2004 3943](https://fedlex.data.admin.ch/eli/fga/2004/664)).
-[^37-3]: Abolì tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), cun effect dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^37-3]: Abolì tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), cun effect dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 37a
 
@@ -815,7 +815,7 @@ En ses reglament po l’instituziun da provediment prevair che:
 
 <sup>2</sup> Uschè ditg che la persuna assicurada na preschenta betg il consentiment tenor l’alinea 1, na debitescha l’instituziun da provediment nagin tschains sin la cumpensaziun en chapital.
 
-[^37a-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^37a-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 38
 
@@ -1024,10 +1024,10 @@ Sche l’instituziun da provediment conceda dapli che las prestaziuns minimalas,
 [^49-2]: Versiun tenor la cifra I da la LF dals 17 da dec. 2010 (finanziaziun da las instituziuns da provediment da corporaziuns da dretg public), en vigur dapi il 1. da schan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 [^49-3]: Versiun tenor la cifra I da la LF dals 11 da dec. 2009 (mesiras per facilitar a lavurants pli vegls da sa participar al martgà da lavur), en vigur dapi il 1. da schan. 2011 ([AS 2010 4427](https://fedlex.data.admin.ch/eli/oc/2010/622); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^49-4]: La cifra 2 è obsoleta, cunquai che la 11. revisiun da la AVS dals 3 d’oct. 2003 ([BBl 2004 3943](https://fedlex.data.admin.ch/eli/fga/2004/664)) ha fatg naufragi.
-[^49-5]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^49-5]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^49-6]: Oriundamain: cifra 3*a*. Integrà tras la cifra 6 da l’agiunta da la LF dals 18 da mars 2011 (6. revisiun da la AI, emprim pachet da mesiras) ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^49-7]: Versiun tenor la cifra I da la LF dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
-[^49-8]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^49-8]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^49-9]: Integrà tras la cifra II 2 da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^49-10]: Oriundamain: cifra 6*a*. Integrà tras la cifra 9 da l’agiunta da la LF dals 23 da zer. 2006 (nov numer d’assicuranza da la AVS), en vigur dapi il 1. da dec. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^49-11]: Versiun tenor la cifra I da la LF dals 19 da mars 2010 (refurma structurala), en vigur dapi il 1. da schan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
@@ -1382,7 +1382,7 @@ Sco midadas substanzialas d’in contract d’affiliaziun u d’in contract d’
 <sup>2</sup> Fundaziuns d’investiziun èn instituziuns che servan al provediment professiunal. Ellas suttastattan a questa lescha. Uschenavant che questa lescha e sias disposiziuns executivas na prevesan nagina regulaziun applitgabla per la fundaziun d’investiziun, èn applitgablas per ella subsidiarmain las disposiziuns generalas dal dretg da fundaziuns.
 
 [^53g-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^53g-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^53g-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 53h
 
@@ -1601,9 +1601,9 @@ Ella è obligada:
 
 <sup>6</sup> L’instituziun auxiliara n’è betg obligada da surpigliar obligaziuns da rentas currentas.[^60-8]
 
-[^60-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^60-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^60-2]: Integrà tras l’art. 117*a* da la LF dals 25 da zer. 1982 davart l’assicuranza cunter la dischoccupaziun, en vigur dapi il 1. da fan. 1997 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
-[^60-3]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^60-3]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^60-4]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^60-5]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. da schan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^60-6]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
@@ -1622,7 +1622,7 @@ Ella è obligada:
 
 <sup>4</sup> L’artitgel 37 alinea 3 vala tenor il senn.
 
-[^60a-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^60a-1]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 #### Art. 60b
 
@@ -1685,7 +1685,7 @@ L’autoritad da surveglianza controllescha che las instituziuns da provediment,
 [^62-3]: Versiun tenor la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^62-4]: Integrà tras la cifra I da la LF dals 3 d’oct. 2003 (1. revisiun da la LPP), en vigur dapi il 1. d’avr. 2004 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^62-5]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^62-6]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunalen cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^62-6]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2015 (cumpensaziun dal provediment professiunal en cas da divorzi), en vigur dapi il 1. da schan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 [^62-7]: Integrà tras la cifra 10 da l’agiunta da la Lescha da fusiun dals 3 d’oct. 2003, en vigur dapi il 1. da fan. 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 #### Art. 62a

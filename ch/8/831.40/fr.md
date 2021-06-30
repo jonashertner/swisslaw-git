@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieill
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210101/fr"
 
 (LPP)
 
-du 25 juin 1982 (Etat le 1<sup>er</sup> janvier 2021)
+du 25 juin 1982 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -123,14 +123,14 @@ La deuxième partie de la présente loi fixe des exigences minimales.
 
 <sup>2</sup> Si le salaire coordonné n’atteint pas 3585 francs[^8-3] par an, il est arrondi à ce montant.[^8-4]
 
-<sup>3</sup> Si le salaire diminue temporairement par suite de maladie, d’accident, de chômage, de maternité, de paternité ou d’autres circonstances semblables, le salaire coordonné est maintenu au moins pour la durée de l’obligation légale de l’employeur de verser le salaire selon l’art. 324*a* du code des obligations (CO)[^8-5], du congé de maternité au sens de l’art. 329*f* CO ou du congé de paternité au sens de l’art. 329*g* CO.[^8-6] La personne assurée peut toutefois demander la réduction du salaire coordonné.[^8-7]
+<sup>3</sup> Si le salaire annuel diminue temporairement par suite de maladie, d’accident, de chômage, de maternité, de paternité ou d’autres circonstances semblables, le salaire coordonné est maintenu au moins pour la durée de l’obligation légale de l’employeur de verser le salaire selon l’art. 324*a* du code des obligations (CO)[^8-5], du congé de maternité au sens de l’art. 329*f* CO, du congé de paternité au sens de l’art. 329*g* CO ou du congé de prise en charge au sens de l’art. 329*i* CO.[^8-6] La personne assurée peut toutefois demander la réduction du salaire coordonné.[^8-7]
 
 [^8-1]: Montants selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
 [^8-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-3]: Montant selon l’art. 5 de l’O du 18 avr. 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité, dans la teneur de la mod. du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
 [^8-4]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^8-6]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 3309](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3743](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^8-6]: Nouvelle teneur selon le ch. II 2 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^8-7]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 9

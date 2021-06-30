@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlasse
 short: BVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20210101/de"
 
 (BVG)
 
-vom 25. Juni 1982 (Stand am 1. Januar 2021)
+vom 25. Juni 1982 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -123,14 +123,14 @@ Der zweite Teil dieses Gesetzes enthält Mindestvorschriften.
 
 <sup>2</sup> Beträgt der koordinierte Lohn weniger als 3585 Franken[^8-3] im Jahr, so muss er auf diesen Betrag aufgerundet werden.[^8-4]
 
-<sup>3</sup> Sinkt der Jahreslohn vorübergehend wegen Krankheit, Unfall, Arbeitslosigkeit, Mutterschaft, Vaterschaft oder aus ähnlichen Gründen, so behält der bisherige koordinierte Lohn mindestens so lange Gültigkeit, als die Lohnfortzahlungspflicht des Arbeitgebers nach Artikel 324*a* des Obligationenrechts (OR)[^8-5] bestehen würde oder ein Mutterschaftsurlaub nach Artikel 329*f* OR oder ein Vaterschaftsurlaub nach Artikel 329*g* OR dauert.[^8-6] Die versicherte Person kann jedoch die Herabsetzung des koordinierten Lohnes verlangen.[^8-7]
+<sup>3</sup> Sinkt der Jahreslohn vorübergehend wegen Krankheit, Unfall, Arbeitslosigkeit, Mutterschaft, Vaterschaft oder aus ähnlichen Gründen, so behält der bisherige koordinierte Lohn mindestens so lange Gültigkeit, als die Lohnfortzahlungspflicht des Arbeitgebers nach Artikel 324*a* des Obligationenrechts (OR)[^8-5] bestehen würde oder ein Mutterschaftsurlaub nach Artikel 329*f* OR, ein Vaterschaftsurlaub nach Artikel 329*g* OR oder ein Betreuungsurlaub nach Artikel 329*i* OR dauert.[^8-6] Die versicherte Person kann jedoch die Herabsetzung des koordinierten Lohnes verlangen.[^8-7]
 
 [^8-1]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
 [^8-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-3]: Betrag gemäss Art. 5 der V vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge in der Fassung der Änd. vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
 [^8-4]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^8-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^8-6]: Fassung gemäss Anhang Ziff. 2 des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^8-6]: Fassung gemäss Ziff. II 2 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^8-7]: Fassung gemäss Anhang Ziff. 2 des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 9
