@@ -4,11 +4,11 @@ title: "Verordnung vom 12. Mai 2010 über das Inverkehrbringen von Pflanzenschut
 short: PSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20210101/de"
 
 (Pflanzenschutzmittelverordnung, PSMV)
 
-vom 12. Mai 2010 (Stand am 1. Januar 2021)
+vom 12. Mai 2010 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -172,7 +172,7 @@ Im Sinne dieser Verordnung bedeuten:
 
 [^3a-1]: Eingefügt durch Ziff. I der V vom 25. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2401](https://fedlex.data.admin.ch/eli/oc/2011/347)).
 
-## 2. Kapitel: Wirkstoffe, Grundstoffe, Safener, Synergisten und Beistoffe****
+## 2. Kapitel: Wirkstoffe, Grundstoffe, Safener, Synergisten und Beistoffe
 
 [^chap2-1]
 
@@ -331,7 +331,7 @@ Die Kurzfassung des Dossiers muss umfassen:
 [^10-1]: Durchführungsverordnung (EU) Nr. 540/2011 der Kommission vom 25. Mai 2011 zur Durchführung der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates hinsichtlich der Liste zugelassener Wirkstoffe, ABl. L 153 vom 11. Juni 2011, S. 1; zuletzt geändert durch die Durchführungsverordnung (EU) 2020/1293, ABl. L 302 vom 16.9.2020, S. 24.
 [^10-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
 
-### 1*a*. Abschnitt:**** Kriterien und Verfahren für die Genehmigung von Grundstoffen
+### 1*a*. Abschnitt: Kriterien und Verfahren für die Genehmigung von Grundstoffen
 
 [^chap2-sec1a-1]
 
@@ -990,7 +990,7 @@ Die Zulassungsstelle verfügt die Streichung eines Pflanzenschutzmittels aus der
 
 <sup>6</sup> Die Zulassungsstelle informiert die kantonalen Vollzugsbehörden über die Zulassung zur Bewältigung von Notfallsituationen.
 
-### 6*a*. Abschnitt:**** Zulassung von Pflanzenschutzmittel, die ausschliesslich genehmigte Grundstoffe enthalten
+### 6*a*. Abschnitt: Zulassung von Pflanzenschutzmittel, die ausschliesslich genehmigte Grundstoffe enthalten
 
 [^chap3-sec6a-1]
 
@@ -1851,6 +1851,33 @@ Gesuche um die Reevaluation von Wirkstoffen, die vor Inkrafttreten der Änderung
 
 [^86e-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
 
+#### Art. 86f
+
+**Übergangsbestimmung zur Änderung vom 17. Mai 2021**[^86f-1]
+
+Pflanzenschutzmittel, die Wirkstoffe enthalten, die mit der Änderung vom 17. Mai 2021 aus Anhang 1 gestrichen werden, dürfen bis zu den folgenden Daten in Verkehr gebracht und verwendet werden:
+
+<table>
+<tr><th>Gebräuchliche Bezeichnung, Kennnummer des Wirkstoffs</th><th>Frist für das Inverkehrbringen von Pflanzenschutzmitteln, die den Wirkstoff enthalten</th><th>Frist für die Verwendung von Pflanzenschutzmitteln, die den Wirkstoff enthalten</th></tr>
+<tr><td>Bromadiolone</td><td>30.11.2021</td><td>30.11.2022</td></tr>
+<tr><td>Bromoxynil</td><td>30.09.2021</td><td>31.12.2021</td></tr>
+<tr><td>Calciumphosphid</td><td>31.12.2021</td><td>01.06.2022</td></tr>
+<tr><td>Diuron</td><td>30.09.2021</td><td>31.03.2022</td></tr>
+<tr><td>Epoxiconazol</td><td>30.09.2021</td><td>31.10.2021</td></tr>
+<tr><td>Fenoxycarb</td><td>30.11.2021</td><td>30.11.2022</td></tr>
+<tr><td>Haloxyfop-(R)-Methylesther</td><td>31.12.2021</td><td>30.06.2022</td></tr>
+<tr><td>Imidacloprid</td><td>31.12.2021</td><td>01.06.2022</td></tr>
+<tr><td>Mancozeb</td><td>30.09.2021</td><td>04.01.2022</td></tr>
+<tr><td>Myclobutanil</td><td>30.11.2021</td><td>30.11.2022</td></tr>
+<tr><td>Oryzalin</td><td>30.11.2021</td><td>30.11.2022</td></tr>
+<tr><td>Pencycuron</td><td>30.11.2021</td><td>30.11.2022</td></tr>
+<tr><td>Thiacloprid</td><td>30.09.2021</td><td>31.12.2021</td></tr>
+<tr><td>Thiophanate-methyl</td><td>30.09.2021</td><td>31.12.2021</td></tr>
+<tr><td>zeta-Cypermethrin</td><td>31.12.2021</td><td>01.06.2022</td></tr>
+</table>
+
+[^86f-1]: Eingefügt durch Ziff. I der V des WBF vom 17. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)).
+
 ### 3. Abschnitt: Inkrafttreten
 
 #### Art. 87
@@ -1863,322 +1890,305 @@ Anhang 1*[^t-1]*
 
 ## Für die Verwendung in Pflanzenschutzmitteln genehmigte Wirkstoffe
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Juni 2011 ([AS 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), Ziff. II Abs. 1 der V vom 23. Juni 2012 ([AS 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), Ziff. I der V des WBF vom 11. Dez. 2012 ([AS 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), vom 12. Nov. 2014 ([AS 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), der V des WBF vom 28. Okt. 2015 ([AS 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), Ziff. I Abs. 1 der V des WBF vom 16. Sept. 2016 ([AS 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), vom 28. Mai 2018 ([AS 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), vom 31. Okt. 2018 ([AS 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), vom 25. Juni 2019 ([AS 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), vom 12. Nov. 2019 ([AS 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)) und vom 2. Juni 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Juni 2011 ([AS 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), Ziff. II Abs. 1 der V vom 23. Juni 2012 ([AS 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), Ziff. I der V des WBF vom 11. Dez. 2012 ([AS 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), vom 12. Nov. 2014 ([AS 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), der V des WBF vom 28. Okt. 2015 ([AS 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), Ziff. I Abs. 1 der V des WBF vom 16. Sept. 2016 ([AS 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), Ziff. I der V des WBF vom 9. Juni 2017 ([AS 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), vom 28. Mai 2018 ([AS 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), vom 31. Okt. 2018 ([AS 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), vom 25. Juni 2019 ([AS 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), vom 12. Nov. 2019 ([AS 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), vom 2. Juni 2020 ([AS 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)) und Ziff. II der V des WBF vom 17. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)).
 
 ### Teil A: Chemische Stoffe
 
 <table>
-<tr><th>Gebräuchliche Bezeichnung, Kennnummer</th><th colspan="2">IUPAC-Bezeichnung</th><th colspan="2">CAS-Nr.</th><th>CIPAC-Nr.</th><th>Wirkungsart/ Besondere Bedingungen und Einschränkungen</th></tr>
-<tr><td colspan="2">1-Decanol</td><td colspan="2">Decan-1-ol</td><td>112-30-1</td><td>831</td><td>Phytoregulator</td></tr>
-<tr><td>1-Methylcyclopropene (1-MCP)</td><td colspan="2">1-methylcyclopropene</td><td colspan="2">3100-04-7</td><td>767</td><td>Phytoregulator</td></tr>
-<tr><td>1-Naphthylacetic acid</td><td colspan="2">1-naphthylacetic acid</td><td colspan="2">86-87-3</td><td>313</td><td>Phytoregulator</td></tr>
-<tr><td>12 OH</td><td colspan="2">dodecan-1-ol</td><td colspan="2">112-53-8</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>14 OH</td><td colspan="2">tetradecan-1-ol</td><td colspan="2">112-72-1</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>2-(1-Naphthyl)acetamide</td><td colspan="2">2-(1-naphthyl)acetamide</td><td colspan="2">86-86-2</td><td>282</td><td>Phytoregulator</td></tr>
-<tr><td>2,4-D</td><td colspan="2">(2,4-dichlorophenoxy)acetic acid</td><td colspan="2">94-75-7</td><td>1</td><td>Herbizid</td></tr>
-<tr><td>6-Benzyladenin</td><td colspan="2">*N*<sup>6</sup>-benzyladenine</td><td colspan="2">1214-39-7</td><td>–</td><td>Phytoregulator</td></tr>
-<tr><td>8- Hydroxychinolin</td><td colspan="2">8-quinolinol</td><td colspan="2">148-24-3</td><td>677</td><td>Fungizid</td></tr>
-<tr><td>Abamectin</td><td colspan="2">avermectin B1</td><td colspan="2">71751-41-2</td><td>495</td><td>Insektizid, Akarizid</td></tr>
-<tr><td>Acequinocyl</td><td colspan="2">3-dodecyl-1,4-dihydro-1,4-dioxo-2-naphthyl acetate</td><td colspan="2">57960-19-7</td><td>760</td><td>Akarizid</td></tr>
-<tr><td>Acetamiprid</td><td colspan="2">(E)-N1-[(6-chloro-3-pyridyl)methyl]-N2-cyano-N1-methylacetamidine</td><td colspan="2">135410-20-7</td><td>649</td><td>Insektizid</td></tr>
-<tr><td>Acibenzolar-S-methyl</td><td colspan="2">S-methyl benzo[1,2,3]thiadiazol-7-carbothioate</td><td colspan="2">135158-54-2</td><td>597</td><td>Stimulator natürlicher Abwehrkräfte</td></tr>
-<tr><td>Aclonifen</td><td colspan="2">2-chloro-6-nitro-3-phenoxyaniline</td><td colspan="2">74070-46-5</td><td>498</td><td>Herbizid</td></tr>
-<tr><td>alpha-Cypermethrin</td><td colspan="2">A racemate comprising (S)-α-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-3-phenoxybenzyl (1S,3S)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td colspan="2">67375-30-8</td><td>454</td><td>Insektizid</td></tr>
-<tr><td>alpha-Pinen</td><td colspan="2">2,6,6-Trimethylbicyclo[3.1.1]hept-2-en</td><td colspan="2">2437-95-8</td><td>–</td><td>Pheromon</td></tr>
-<tr><td colspan="2">Aluminiumkaliumsulfat-Dodecahydrat</td><td colspan="2"></td><td>7784-24-9</td><td></td><td>Bakterizid</td></tr>
-<tr><td>Aluminiumoxid</td><td colspan="2">Al<sub>2</sub>O<sub>3</sub></td><td colspan="2">1344-28-1</td><td>–</td><td>Fungizid</td></tr>
-<tr><td>Aluminiumphosphid</td><td colspan="2">aluminium phosphide</td><td colspan="2">20859-73-8</td><td>227</td><td>Rodentizid</td></tr>
-<tr><td>Ametoctradin</td><td colspan="2">5-Ethyl-6-octyl [1,2,4]triazol[1,5-a]pyrimidin-7-amin</td><td colspan="2">865318-97-4</td><td>818</td><td>Fungizid</td></tr>
-<tr><td>Amidosulfuron</td><td colspan="2">1-(4,6-dimethoxypyrimidin-2-yl)-3-mesyl(methyl)sulfamoylurea</td><td colspan="2">120923-37-7</td><td>515</td><td>Herbizid</td></tr>
-<tr><td colspan="2">Aminopyralid</td><td colspan="2">4-amino-3,6-dichloropyridine-2-carboxylic acid</td><td>150114-71-9</td><td>771</td><td>Herbizid</td></tr>
-<tr><td colspan="2">Amisulbrom</td><td colspan="2">3-(3-Brom-6-fluor-2-methylindol-1-ylsulfonyl)- N,N-dimethyl-1H-1,2,4- triazol-1-sulfonamid</td><td>348635-87-0</td><td>789</td><td>Fungizid</td></tr>
-<tr><td>Asulam</td><td colspan="2">methyl 4-aminophenylsulfonylcarbamate</td><td colspan="2">3337-71-1</td><td>240</td><td>Herbizid</td></tr>
-<tr><td>Ätherische Öle</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Wildabhaltemittel</td></tr>
-<tr><td>Azadirachtin A</td><td colspan="2">dimethyl (2aR,3S,4S,4aR,5S,7aS,8S,10R,10aS,10bR)- 10-(acetyloxy)octahydro-3,5-dihydroxy-4-methyl-8-[[(2E)-2-methyl-1-oxo-2-butenyl]oxy]-4-[(1aR,2S,3aS,6aS,7S,7aS)-3a,6a,7,7a-tetrahydro-6a-hydroxy-7a-methyl-2,7-methanofuro[2,3-b]oxireno[e]oxepin-1a(2H)-yl]-1H,7H-naphtho[1,8-bc:4,4a-c′]difuran-5,10a(8H)-dicarboxylate</td><td colspan="2">11141-17-6</td><td>627</td><td>Insektizid</td></tr>
-<tr><td>Azoxystrobin</td><td colspan="2">methyl (E)-2-{2[6-(2-cyanophenoxy)pyrimidin-4-yloxy]phenyl}-3-methoxyacrylate</td><td colspan="2">131860-33-8</td><td>571</td><td>Fungizid</td></tr>
-<tr><td>Beflubutamid</td><td colspan="2">(RS)-N-benzyl-2-(α,α,α,4-tetrafluoro-m-tolyloxy)butyramide</td><td colspan="2">113614-08-7</td><td>662</td><td>Herbizid</td></tr>
-<tr><td>Benalaxyl</td><td colspan="2">methyl N-phenylacetyl-N-2,6-xylyl-DL-alaninate</td><td colspan="2">71626-11-4</td><td>416</td><td>Fungizid</td></tr>
-<tr><td>Benalaxyl-M</td><td colspan="2">Methyl N-(phenylacetyl)-N-(2,6-xylyl)-D-alaninate</td><td colspan="2">98243-83-5</td><td>766</td><td>Fungizid</td></tr>
-<tr><td>Benoxacor</td><td colspan="2">(±)-4-dichloroacetyl-3,4-dihydro-3-methyl-2H-1,4-benzoxamine</td><td colspan="2">98730-04-2</td><td>–</td><td>Herbizid «Safener»</td></tr>
-<tr><td>Bentazon</td><td colspan="2">3-isopropyl-1H-2,1,3-benzothiadiazin-4(3H)-one 2,2-dioxide</td><td colspan="2">25057-89-0</td><td>366</td><td>Herbizid</td></tr>
-<tr><td>Benthiavalicarb</td><td colspan="2">[(S)-1-{[(1R)-1-(6-fluoro-1,3-benzothiazol-2-yl)ethyl]carbamoyl}-2-methylpropyl]carbamic acid *Variante*: benthiavalicarb-isopropyl</td><td colspan="2">413615-35-7 177406-68-7</td><td>744 744.204</td><td>Fungizid</td></tr>
-<tr><td>Benzoesäure</td><td colspan="2">benzoate</td><td colspan="2">65-85-0</td><td>622</td><td>Desinfektionsmittel</td></tr>
-<tr><td>Benzovindiflupyr</td><td colspan="2">N-[(1RS,4SR)-9-(Dichlormethylen)-1,2,3,4-tetrahydro-1,4-methanonaphthalen-5-yl]-3-(difluormethyl)-1-methylpyrazol-4-carboxamid</td><td colspan="2">1072957-71-1</td><td></td><td>Fungizid</td></tr>
-<tr><td>beta-Cyfluthrin</td><td colspan="2">(1RS,3RS;1RS,3SR)-3-(2,2-Dichlorvinyl)-2,2-dimethylcyclopropancarboxylsäure(SR)-α-cyano-(4-fluor-3-phenoxy-phenyl)methylester</td><td colspan="2">68359-37-5</td><td>482</td><td>Insektizides Saatbeizmittel</td></tr>
-<tr><td>Bifenazat</td><td colspan="2">Isopropyl 3-(4-methoxybiphenyl-3-yl)carbazate</td><td colspan="2">149877-41-8</td><td>736</td><td>Akarizid</td></tr>
-<tr><td>Bifenox</td><td colspan="2">methyl 5-(2,4-dichlorophenoxy)-2-nitrobenzoate</td><td colspan="2">42576-02-3</td><td>413</td><td>Herbizid</td></tr>
-<tr><td>Bixafen</td><td colspan="2">*N*-(3',4'-dichloro-5-fluoro[1,1'-biphenyl]-2-yl)-3-(difluoromethyl)-1-methyl-1*H*-pyrazole-4-carboxamide</td><td colspan="2">581809-46-3</td><td>819</td><td>Fungizid</td></tr>
-<tr><td>Boscalid</td><td colspan="2">2-Chloro-N-(4’-chlorobiphenyl-2-yl)nicotinamide</td><td colspan="2">188425-85-6</td><td>673</td><td>Fungizid</td></tr>
-<tr><td>Bromadiolone</td><td colspan="2">3-[3-(4’-bromobiphenyl-4-yl)-3-hydroxy-1-phenylpropyl]-4-hydroxycoumarin</td><td colspan="2">28772-56-7</td><td>371</td><td>Rodentizid</td></tr>
-<tr><td>Bromoxynil</td><td colspan="2">3,5-dibromo-4-hydroxybenzonitrile *Variante*: bromoxynil butyrate *Variante*: bromoxynil octanoate *Variante*: bromoxynil-potassium</td><td colspan="2">1689-84-5 3861-41-4 1689-99-2 2961-68-4</td><td>87 87.403 87.407 87.019</td><td>Herbizid</td></tr>
-<tr><td>Bromuconazol</td><td colspan="2">1-[(2RS,4RS:2RS,4SR)-4-bromo-2-(2,4-dichlorophenyl)tetrahydrofurfuryl]-1H-1,2,4-triazole</td><td colspan="2">116255-48-2</td><td>680</td><td>Fungizid</td></tr>
-<tr><td>Bupirimate</td><td colspan="2">5-butyl-2-ethylamino-6-methylpyrimidin-4-yl dimethylsulfamate</td><td colspan="2">41483-43-6</td><td>261</td><td>Fungizid</td></tr>
-<tr><td>Buprofezin</td><td colspan="2">(Z)-2-tert-butylimino-3-isopropyl-5-phenyl-1,3,5-thiadiazinan-4-one</td><td colspan="2">953030-84-7</td><td>681</td><td>Insektizid</td></tr>
-<tr><td>Calciumcarbonat</td><td colspan="2">calcium carbonate</td><td colspan="2">471-34-1</td><td>–</td><td>Insektizid, Wildabhaltemittel</td></tr>
-<tr><td>Calciumhydroxide (Kalk-hydrat, gelöschter Kalk)</td><td colspan="2">Ca(OH)<sub>2</sub></td><td colspan="2">1305-62-0</td><td>–</td><td>Wundverschlussmittel</td></tr>
-<tr><td>Calciumphosphid</td><td colspan="2">Ca<sub>3</sub>P<sub>2</sub></td><td colspan="2">1305-99-3</td><td>505</td><td>Rodentizid</td></tr>
-<tr><td>Captan</td><td colspan="2">N-(trichloromethylthio)cyclohex-4-ene-1,2-dicarboximide</td><td colspan="2">133-06-2</td><td>40</td><td>Fungizid</td></tr>
-<tr><td>Carfentrazone-ethyl</td><td colspan="2">ethyl 2-chloro-3-(2-chloro-4-fluoro-5-[4-(difluoromethyl)-4,5,dihydro-3-methyl-5-oxo-1H 1,2,4,triazol-1-yl]phenyl)propanoate</td><td colspan="2">128639-02-1</td><td>587.202</td><td>Herbizid</td></tr>
-<tr><td colspan="2">Cerevisan</td><td></td><td colspan="2"></td><td>980</td><td>Stimulator natürlicher Abwehrkräfte, Stoff mit geringem Risiko</td></tr>
-<tr><td>Chalcogran</td><td colspan="2">2-Ethyl-1,6-dioxaspiro[4,4]nonan</td><td colspan="2"></td><td>–</td><td>Pheromon</td></tr>
-<tr><td>Chlorantraniliprole</td><td colspan="2">3-Bromo-N-[4-chloro-2-methyl-6-(methylcarbamoyl)phenyl]-1-(3-chloropyridin-2-yl)-1 H-pyrazole-5-carboxyamide</td><td colspan="2">500008-45-7</td><td>794</td><td>Insektizid</td></tr>
-<tr><td>Chlormequat</td><td colspan="2"></td><td colspan="2"></td><td></td><td>Phytoregulator</td></tr>
-<tr><td>(Chlormequat)</td><td colspan="2">2-chloroethyltrimethylammonium</td><td colspan="2">7003-89-6</td><td>143</td><td></td></tr>
-<tr><td>(Chlormequatchlorid)</td><td colspan="2">2-chloroethyltrimethylammonium chloride</td><td colspan="2">999-81-5</td><td>143.302</td><td></td></tr>
-<tr><td>Chlorothalonil (TCPN)</td><td colspan="2">tetrachloroisophthalonitrile</td><td colspan="2">1897-45-6</td><td>288</td><td>Fungizid</td></tr>
-<tr><td>Chlortoluron</td><td colspan="2">3-(3-chloro-p-tolyl)-1,1-dimethylurea</td><td colspan="2">15545-48-9</td><td>217</td><td>Herbizid</td></tr>
-<tr><td>Chlorpyrifos</td><td colspan="2">O,O-diethyl O-3,5,6-trichloro-2-pyridyl phosphorothioate</td><td colspan="2">2921-88-2</td><td>221</td><td>Insektizid</td></tr>
-<tr><td>Chlorpyrifos-methyl</td><td colspan="2">O,O-dimethyl O-3,5,6-trichloro-2-pyridyl phosphorothioate</td><td colspan="2">5598-13-0</td><td>486</td><td>Insektizid, Akarizid</td></tr>
-<tr><td>Clethodim</td><td colspan="2">(±)-2-[(E)-1-[(E)-3-chloroallyloxyimino]propyl]-5- [2-(ethylthio)propyl]-3-hydroxycyclohex-2-enone</td><td colspan="2">99129-21-2</td><td>508</td><td>Herbizid</td></tr>
-<tr><td>Clodinafop-propargyl</td><td colspan="2">prop-2-ynyl (R)-2-[4-(5-chloro-3-fluoropyridin- 2-yloxy)phenoxy]propionate</td><td colspan="2">105512-06-9</td><td>683.225</td><td>Herbizid</td></tr>
-<tr><td>Clofentezine</td><td colspan="2">3,6-bis(2-chlorophenyl)-1,2,4,5-tetrazine</td><td colspan="2">74115-24-5</td><td>418</td><td>Akarizid</td></tr>
-<tr><td>Clomazone</td><td colspan="2">2-(2-chlorobenzyl)-4,4-dimethyl-1,2-oxazolidin- 3-one</td><td colspan="2">81777-89-1</td><td>509</td><td>Herbizid</td></tr>
-<tr><td>Clopyralid</td><td colspan="2">3,6-dichloropyridine-2-carboxylic acid</td><td colspan="2">1702-17-6</td><td>455</td><td>Herbizid</td></tr>
-<tr><td>Cloquintocet-mexyl</td><td colspan="2">1-methylhexyl (5-chloroquinolin-8-yloxy)acetate</td><td colspan="2">99607-70-2</td><td>–</td><td>Herbizid «Safener»</td></tr>
-<tr><td>COS-OGA</td><td colspan="2">Lineares Copolymer aus α-1,4-D- Galactopyranosyluronsäuren und methylveresterten Galactopyranosyluronsäuren (9 bis 20 Einheiten) mit dem linearen Copolymer β‑1,4-verknüpfte 2-Amino-2-deoxy-D-glucopyranose und 2-Acetamid-2-deoxy-D-glucopyranose (5 bis 10 Einheiten)</td><td colspan="2"></td><td>979</td><td>Fungizid, Stoff mit geringem Risiko</td></tr>
-<tr><td>Cyazofamid</td><td colspan="2">4-chloro-2-cyano-*N,N*-dimethyl-5-*p*-tolylimidazole-1-sulfonamide</td><td colspan="2">120116-88-3</td><td>653</td><td>Fungizid</td></tr>
-<tr><td>Cycloxydim</td><td colspan="2">(±)-2-[1-(ethoxyimino)butyl]-3-hydroxy-5-thian-3-ylcyclohex-2-enone</td><td colspan="2">101205-02-1</td><td>510</td><td>Herbizid</td></tr>
-<tr><td>Cyflufenamid</td><td colspan="2">(Z)-N-[α-(cyclopropylmethoxyimino)-2,3-difluoro-6-(trifluoromethyl)benzyl]-2-phenylacetamide</td><td colspan="2">180409-60-3</td><td>759</td><td>Fungizid</td></tr>
-<tr><td>Cymoxanil</td><td colspan="2">1-(2-cyano-2-methoxyiminoacetyl)-3-ethylurea</td><td colspan="2">57966-95-7</td><td>419</td><td>Fungizid</td></tr>
-<tr><td>Cypermethrin</td><td colspan="2">(RS)-α-cyano-3-phenoxybenzyl (1RS,3RS;1RS,3SR)- 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td colspan="2">52315-07-8</td><td>332</td><td>Insektizid</td></tr>
-<tr><td>Cypermethrin high-cis</td><td colspan="2">(RS)-α-yano-3-phenoxybenzyl (1RS)-cis,trans (&gt; 80 %: &lt; 20 %)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td colspan="2">52315-07-8</td><td>–</td><td>Insektizid</td></tr>
-<tr><td>Cyproconazole</td><td colspan="2">(2RS,3RS;2RS,3SR)-2-(4-chlorophenyl)-3- cyclopropyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol</td><td colspan="2">94361-06-5</td><td>600</td><td>Fungizid</td></tr>
-<tr><td>Cyprodinil</td><td colspan="2">4-cyclopropyl-6-methyl-N-phenylpyrimidin-2-amine</td><td colspan="2">121552-61-2</td><td>511</td><td>Fungizid</td></tr>
-<tr><td>Daminozide</td><td colspan="2">N-dimethylaminosuccinamic acid</td><td colspan="2">1596-84-5</td><td>330</td><td>Phytoregulator</td></tr>
-<tr><td>Dazomet (DMTT)</td><td colspan="2">3,5-dimethyl-1,3,5-thiadiazinane-2-thione</td><td colspan="2">533-74-4</td><td>146</td><td>Nematizid, Fungizid, Herbizid, Insektizid</td></tr>
-<tr><td>d-Carvon</td><td colspan="2">d-2-Methyl-5-isopropenyl-2-cyclohexene-1-on</td><td colspan="2">2244-16-8</td><td>602</td><td>Phytoregulator</td></tr>
-<tr><td>Decadiencarbonsäure-methylester</td><td colspan="2">methyl ester of decadiene-carboxylic acid</td><td colspan="2"></td><td>–</td><td>Pheromon</td></tr>
-<tr><td>Deltamethrin</td><td colspan="2">(S)-α-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td colspan="2">52918-63-5</td><td>333</td><td>Insektizid</td></tr>
-<tr><td>Dicamba</td><td colspan="2">3,6-dichloro-o-anisic acid</td><td colspan="2">1918-00-9</td><td>85</td><td>Herbizid</td></tr>
-<tr><td>Dichlorprop-P</td><td colspan="2">(R)-2-(2,4-dichlorophenoxy)propionic acid</td><td colspan="2">15165-67-0</td><td>476</td><td>Herbizid</td></tr>
-<tr><td>Difenoconazole</td><td colspan="2">cis,trans-3-chloro-4-[4-methyl-2-(1H-1,2,4-triazol-1-ylmethyl)-1,3-dioxolan-2-yl]phenyl 4-chlorophenyl ether</td><td colspan="2">119446-68-3</td><td>687</td><td>Fungizid</td></tr>
-<tr><td>Diflubenzuron</td><td colspan="2">1-(4-chlorophenyl)-3-(2,6-difluorobenzoyl)urea</td><td colspan="2">35367-38-5</td><td>339</td><td>Insektizid</td></tr>
-<tr><td>Diflufenican</td><td colspan="2">2’,4’-difluoro-2-(α,α,α-trifluoro-m-tolyloxy)nicotinanilide</td><td colspan="2">83164-33-4</td><td>462</td><td>Herbizid</td></tr>
-<tr><td>Dimethachlor</td><td colspan="2">2-chloro-N-(2-methoxyethyl)aceto-2’,6’-xylidide</td><td colspan="2">50563-36-5</td><td>688</td><td>Herbizid</td></tr>
-<tr><td>Dimethenamid-P</td><td colspan="2">S-2-chloro-N-(2,4-dimethyl-3-thienyl)-N- (2-methoxy-1-methylethyl)-acetamide</td><td colspan="2">163515-14-8</td><td>638</td><td>Herbizid</td></tr>
-<tr><td>Dimethomorph</td><td colspan="2">(E,Z 4-[3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)acryloyl]morpholine</td><td colspan="2">110488-70-5</td><td>483</td><td>Fungizid</td></tr>
-<tr><td colspan="2">Dinatriumphosphonat</td><td colspan="2">disodium phosphonate</td><td>13708-85-5</td><td>808</td><td>Fungizid</td></tr>
-<tr><td>Dithianon</td><td colspan="2">5,10-dihydro-5,10-dioxonaphtho[2,3-b]-1,4-dithi-in- 2,3-dicarbonitrile</td><td colspan="2">3347-22-6</td><td>153</td><td>Fungizid</td></tr>
-<tr><td>Diuron</td><td colspan="2">3-(3,4-dichlorophenyl)-1,1-dimethylurea</td><td colspan="2">330-54-1</td><td>100</td><td>Herbizid</td></tr>
-<tr><td>Dodemorph</td><td colspan="2">4-cyclododecyl-2,6-dimethylmorpholine</td><td colspan="2">1593-77-7</td><td>300</td><td>Fungizid</td></tr>
-<tr><td>Dodine</td><td colspan="2">1-dodecylguanidinium acetate</td><td colspan="2">2439-10-3</td><td>101</td><td>Fungizid</td></tr>
-<tr><td>E2Z13-18 Ac</td><td colspan="2">E,Z-2,13 Octadecadien-1-yl acetate</td><td colspan="2">086252-74-6</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>E3Z13-18 Ac</td><td colspan="2">E,Z-3,13 Octadecadien-1-yl acetate</td><td colspan="2">053120-26-6</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>E7Z9-12 Ac</td><td colspan="2">(7E, 9Z)-dodeca-7,9-dien-1-yl acetate</td><td colspan="2">55774-32-8</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>E8-12 Ac</td><td colspan="2">(E)-dodec-8-en-1-yl acetate</td><td colspan="2">38363-29-0</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>E8E10-12 OH (Codlemone)</td><td colspan="2">(E,E)-dodeca-8,10-dien-1-ol</td><td colspan="2">33956-49-9</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>Eisen-III-Phosphat</td><td colspan="2">ferric phosphate</td><td colspan="2">10045-86-0</td><td>–</td><td>Molluskizid, Stoff mit geringem Risiko</td></tr>
-<tr><td>Eisen-II-Sulfat</td><td colspan="2">FeO<sub>4</sub>S X H2O</td><td colspan="2">13463-43-9</td><td>–</td><td>Herbizid</td></tr>
-<tr><td>Emamectin benzoate</td><td colspan="2">4"-deoxy-4"-(methylamino)-(4"R)-avermectin B1 benzoate</td><td colspan="2">155569-91-8</td><td>791</td><td>Insektizid</td></tr>
-<tr><td>Epoxiconazole</td><td colspan="2">(2RS,3SR)-1-[3-(2-chlorophenyl)-2,3-epoxy-2- (4-fluorophenyl)propyl]-1H-1,2,4-triazole</td><td colspan="2">133855-98-8</td><td>609</td><td>Fungizid</td></tr>
-<tr><td>Essigsäure</td><td colspan="2">acetic acid</td><td colspan="2">64-19-7</td><td>–</td><td>Herbizid</td></tr>
-<tr><td>Ethephon</td><td colspan="2">2-Chloroethylphosphonic acid</td><td colspan="2">16672-87-0</td><td>373</td><td>Phytoregulator</td></tr>
-<tr><td>Ethofumesate</td><td colspan="2">(±)-2-ethoxy-2,3-dihydro-3,3-dimethylbenzofuran- 5-yl methanesufonate</td><td colspan="2">26225-79-6</td><td>233</td><td>Herbizid</td></tr>
-<tr><td>Ethylen</td><td colspan="2">Ethylen</td><td colspan="2">74-85-1</td><td>839</td><td>Phytoregulator</td></tr>
-<tr><td>Etofenprox</td><td colspan="2">2-(4-ethoxyphenyl)-2-methylpropyl 3-phenoxybenzyl ether</td><td colspan="2">80844-07-1</td><td>471</td><td>Insektizid</td></tr>
-<tr><td>Etoxazole</td><td colspan="2">(*RS*)-5-*tert*-butyl-2-[2-(2,6-difluorophenyl)- 4,5-dihydro-1,3-oxazol-4-yl]phenetole</td><td colspan="2">153233-91-1</td><td>623</td><td>Akarizid</td></tr>
-<tr><td>Eukalyptusöl</td><td colspan="2">-</td><td colspan="2">-</td><td>–</td><td>Insektizid</td></tr>
-<tr><td>Famoxadone</td><td colspan="2">3-anilino-5-methyl-5-(4-phenoxyphenyl)-1,3-oxazolidine-2,4-dione</td><td colspan="2">131807-57-3</td><td>594</td><td>Fungizid</td></tr>
-<tr><td>Fenazaquin</td><td colspan="2">4-tert-butylphenethyl quinazolin-4-yl ether</td><td colspan="2">120928-09-8</td><td>693</td><td>Acarizide</td></tr>
-<tr><td>Fenbuconazole</td><td colspan="2">4-(4-chlorophenyl)-2-phenyl-2-(1H-1,2,4-triazol-1-ylmethyl)butyronitrile</td><td colspan="2">114369-43-6</td><td>694</td><td>Fungizid</td></tr>
-<tr><td>Fenhexamid</td><td colspan="2">1-Methyl-cyclohexanecarboxyloic acid 2,3-dichloro- 4-hydroxy-phenyl)-amide</td><td colspan="2">126833-17-8</td><td>603</td><td>Fungizid</td></tr>
-<tr><td>Fenoxaprop-P-ethyl</td><td colspan="2">(R)-2-[4-(6-chloro-2-benzoxazol-2-yloxy)phenoxy]propionate</td><td colspan="2">71283-80-2</td><td>484.202</td><td>Herbizid</td></tr>
-<tr><td>Fenoxycarb</td><td colspan="2">ethyl 2-(4-phenoxyphenoxy)ethylcarbamate</td><td colspan="2">72490-01-8</td><td>425</td><td>Insektizid</td></tr>
-<tr><td>Fenpropidin</td><td colspan="2">(RS)-1-[3-(4-tert-butylphenyl)-2-methylpropyl]piperidine</td><td colspan="2">67306-00-7</td><td>520</td><td>Fungizid</td></tr>
-<tr><td colspan="2">Fenpyrazamin</td><td colspan="2">S-Allyl-5-amino-2,3-dihydro- 2-isopropyl-3-oxo-4-(o-tolyl) pyrazol-1-carbothioat</td><td>473798-59-3</td><td>832</td><td>Fungizid</td></tr>
-<tr><td>Fenpyroximate</td><td colspan="2">tert-butyl (E)-α-(1,3-dimethyl-5-phenoxypyrazol- 4-ylmethyleneamino-oxy)-p-toluate</td><td colspan="2">111812-58-9</td><td>695</td><td>Akarizid</td></tr>
-<tr><td colspan="2">Fettsäuren C7 bis C20</td><td></td><td colspan="2"></td><td></td><td>Insektizid, Akarizid, Herbizid, Phytoregulator</td></tr>
-<tr><td colspan="2">(Pelargonsäure)</td><td>Nonanoic Acid</td><td colspan="2">112-05-0</td><td>888</td><td></td></tr>
-<tr><td colspan="2">(Fettsäuren C7-C18)</td><td></td><td colspan="2">67701-09-1</td><td>889</td><td></td></tr>
-<tr><td colspan="2">(Caprylsäure)</td><td>Octanoic Acid</td><td colspan="2">124-07-2</td><td>887</td><td></td></tr>
-<tr><td colspan="2">(Caprinsäure)</td><td>Decanoic Acid</td><td colspan="2">334-48-5</td><td>886</td><td></td></tr>
-<tr><td colspan="2">(Fettsäuren C7 bis C20)</td><td></td><td colspan="2"></td><td>891</td><td></td></tr>
-<tr><td colspan="2">(Ölsäure)</td><td>cis-9-Octadecenoic Acid</td><td colspan="2">112-07-80</td><td>894</td><td></td></tr>
-<tr><td colspan="2">(und die Natrium- und Kaliumsalze dieser Säuren)</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>Flazasulfuron</td><td colspan="2">1-(4,6-dimethoxypyrimidin-2-yl)-3-(3-trifluoromethyl-2-pyridylsulfonyl)urea</td><td colspan="2">104040-78-0</td><td>595</td><td>Herbizid</td></tr>
-<tr><td>Flonicamid</td><td colspan="2">N-cyanomethyl-4-(trifluoromethyl)nicotinamide</td><td colspan="2">158062-67-0</td><td>763</td><td>Insektizid</td></tr>
-<tr><td>Florasulam</td><td colspan="2">2’,6’,8-trifluoro-5-methoxy[1,2,4]triazolo[1,5-*c*]pyrimidine-2-sulfonanilide</td><td colspan="2">145701-23-1</td><td>616</td><td>Herbizid</td></tr>
-<tr><td>Fluazifop-P-butyl</td><td colspan="2">butyl-(R)-2-[4-(5-trifluormethyl-2-pyridyloxy)phenoxy]propionat</td><td colspan="2">79241-46-6</td><td>467.205</td><td>Herbizid</td></tr>
-<tr><td>Fluazinam</td><td colspan="2">3-chloro-N-(3-chloro-5-trifluoromethyl-2-pyridyl)-α,α,α-trifluoro-2,6-dinitro-p-toluidine</td><td colspan="2">79622-59-6</td><td>521</td><td>Fungizid</td></tr>
-<tr><td>Fludioxonil</td><td colspan="2">4-(2,2-difluoro-1,3-benzodioxol-4-yl)pyrrole-3-carbonitrile</td><td colspan="2">131341-86-1</td><td>522</td><td>Fungizid</td></tr>
-<tr><td>Flufenacet</td><td colspan="2">N-(4-fluoro-phenyl)-N-isopropyl-2-(5-trifluoro- methyl-[1,3,4]thiadiazol-2-yloxy)-acetamide</td><td colspan="2">142459-58-3</td><td>588</td><td>Herbizid</td></tr>
-<tr><td>Flumioxazin</td><td colspan="2">7-fluoro-6-[(3,4,5,6-tetrahydro)phtalimido]-4- (2-propynyl)-1,4-benzoxazion-3(2H)-one</td><td colspan="2">103361-09-7</td><td>578</td><td>Herbizid</td></tr>
-<tr><td>Fluopicolide</td><td colspan="2">2,6-dichloro-N-[3-chloro-5-(trifluorométhyl)- 2-pyridylméthyl]benzamide</td><td colspan="2">239110-15-7</td><td>787</td><td>Fungizid</td></tr>
-<tr><td>Fluopyram</td><td colspan="2">N-{2-[3-chloro-5-(trifluoromethyl)-2-pyridyl]ethyl}-á,á,á-trifluoro-o-toluamide</td><td colspan="2">658066-35-4</td><td>807</td><td>Fungizid</td></tr>
-<tr><td>Fluoxastrobin</td><td colspan="2">(E)-{2-[6-(2-chlorophenoxy)-5-fluoropyrimidin-4-yloxy]phenyl}(5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime</td><td colspan="2">361377-29-9</td><td>746</td><td>Fungizid</td></tr>
-<tr><td>Flurochloridon</td><td colspan="2">(3RS,4RS;3RS,4SR)-3-cloro-4-chloromethyl-1- (α,α,α-trifluoro-*m*-tolyl)-2-pyrrolidone</td><td colspan="2">61213-25-0</td><td>430</td><td>Herbizid</td></tr>
-<tr><td>Fluroxypyr</td><td colspan="2">4-amino-3,5-dichloro-6-fluoro-2-pyridyloxyacetic acid *Variante*: fluroxypyr-meptyl</td><td colspan="2">69377-81-7 81406-37-3</td><td>431 431.214</td><td>Herbizid</td></tr>
-<tr><td>Flutolanil</td><td colspan="2">α,α,α,-trifluoro-3’-isopropoxy-o-toluanilide</td><td colspan="2">66332-96-5</td><td>524</td><td>Fungizid</td></tr>
-<tr><td colspan="2">Fluxapyroxad</td><td colspan="2">3-(Difluormethyl)-1-methyl-N- (3′,4′,5′-trifluorbiphenyl-2-yl) pyrazol-4-carboxamid</td><td>907204-31-3</td><td>828</td><td>Fungizid</td></tr>
-<tr><td>Folpet</td><td colspan="2">N-(trichloromethylthio)phthalimide</td><td colspan="2">133-07-3</td><td>75</td><td>Fungizid</td></tr>
-<tr><td>Foramsulfuron</td><td colspan="2">1-(4, 6-dimethoxypyrimidin-2yl)-3-(2-dimethylcarbamoyl-5-formamidophenylsulfonyl)urea</td><td colspan="2">173159-57-4</td><td>659</td><td>Herbizid</td></tr>
-<tr><td>Fosetyl</td><td colspan="2">ethyl hydrogen phosphonate *Variante*: Aluminiumfosetyl (Fosetyl-Al) Aluminium-tris-(O-ethylphosphonat)</td><td colspan="2">15845-66-6 39148-24-8</td><td>384 384.013</td><td>Fungizid</td></tr>
-<tr><td>Gelbsenfmehl</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Fungizid</td></tr>
-<tr><td>Gibberellin</td><td colspan="2">GA<sub>4</sub>: (3S,3aR,4S,4aR,7R,9aR,9bR,12S)-12-hydroxy-3-methyl-6-methylene-2-oxoperhydro-4a,7-methano-3,9b-propanoazuleno[1,2-b]furan-4-carboxylic acid GA<sub>7</sub>: (3S,3aR,4S,4aR,7R,9aR,9bR,12S)-12-hydroxy-3-methyl-6-methylene-2-oxoperhydro-4a,7-methano-9b,3-propenoazuleno[1,2-b]furan-4-carboxylic acid</td><td colspan="2">GA<sub>4</sub>: 468-44-0 GA<sub>7</sub>: 510-75-8 GA<sub>4</sub>A<sub>7</sub> mixture: 8030-53-3</td><td>904</td><td>Phytoregulator</td></tr>
-<tr><td>Gibberellinsäure</td><td colspan="2">(3S,3aS,4S,4aS,7S,9aR,9bR,12S)-7,12-dihydroxy-3-methyl-6-methylene-2-oxoperhydro-4a,7-methano- 9b,3-propeno[1,2-b]furan-4-carboxylic acid</td><td colspan="2">77-06-5</td><td>307</td><td>Phytoregulator</td></tr>
-<tr><td>Glyphosat</td><td colspan="2">N-(phosphonomethyl)glycine</td><td colspan="2">1071-83-6</td><td>284</td><td>Herbizid</td></tr>
-<tr><td>Glyphosat-trimesium</td><td colspan="2">N-(Phosphonomethyl)-glycin-trimethylsulfoniumsalz</td><td colspan="2">81591-81-3</td><td>284.114</td><td>Herbizid</td></tr>
-<tr><td>Grüne-Minze-Öl</td><td colspan="2">spearmint oil</td><td colspan="2">8008-79-5</td><td></td><td>Phytoregulator</td></tr>
-<tr><td>Halauxifen-methyl</td><td colspan="2">Methyl-4-amino-3-chlor-6-(4-chlor-2-fluor-3-methoxyphenyl)pyridin-2-carboxylat</td><td colspan="2">943831-98-9</td><td>970.201</td><td>Herbizid</td></tr>
-<tr><td>Haloxyfop-(R)- Methylester</td><td colspan="2">(R)-Methyl-2-[4-(3-chloro-5-(trifluoro-methyl)- 2-pyridyloxy)-phenoxyl]-propionate</td><td colspan="2">72619-32-0</td><td>526.201</td><td>Herbizid</td></tr>
-<tr><td>Hexythiazox</td><td colspan="2">(4RS5RS)-5-(4-chlorophenyl)-N-cyclohexyl- 4-methyl-2-oxothiazolidine-3-carboxamide</td><td colspan="2">78587-05-0</td><td>439</td><td>Akarizid</td></tr>
-<tr><td>Hornmehl</td><td colspan="2">–</td><td colspan="2"></td><td>–</td><td>Wildabhaltemittel</td></tr>
-<tr><td>Hymexazol</td><td colspan="2">5-methylisoxazol-3-ol</td><td colspan="2">10004-44-1</td><td>528</td><td>Saatbeizmittel</td></tr>
-<tr><td>Imazalil</td><td colspan="2">(±)-1-(β-allyloxy-2,4-dichlorophenylethyl)imidazole</td><td colspan="2">35554-44-0</td><td>335</td><td>Fungizid</td></tr>
-<tr><td>Imazamox</td><td colspan="2">(RS)-2-(4-isopropyl-4-methyl-5-oxo-2-imidazolin- 2-yl)-5-methoxymethylnicotinic acid</td><td colspan="2">114311-32-9</td><td>619</td><td>Herbizid</td></tr>
-<tr><td>Imidacloprid</td><td colspan="2">1-(6-chloro-3-pyridinylmethyl)-N-nitroimidazolidin-2-ylideneamine</td><td colspan="2">138261-41-3</td><td>582</td><td>Insektizid</td></tr>
-<tr><td>Indoxacarb</td><td colspan="2">(S)-methyl 7-chloro-2,5-dihydro-2[[(methoxy- carbonyl) [4-(trifluoro-methoxy)phenyl]amino]carbonyl]-indeno[1,2-e][1,3,4]oxadiazine-4a (3H)-carboxylate</td><td colspan="2">173584-44-6</td><td>612</td><td>Insektizid</td></tr>
-<tr><td>Iodosulfuron</td><td colspan="2">methyl 4-iodo-2-[3-(4-methoxy-6-methyl-1,2,5-triazin-2-yl)ureidosulfonyl]benzoate, sodium salt</td><td colspan="2">144550-36-7</td><td>634</td><td>Herbizid</td></tr>
-<tr><td>Iprovalicarb</td><td colspan="2">{2-Methyl-1-[1-(4-methylphenyl)-ethylcarbonyl]-propyl}-carbamic acid isopropyl ester</td><td colspan="2">140923-17-7</td><td>620</td><td>Fungizid</td></tr>
-<tr><td>Ipsdienol</td><td colspan="2">(S)-2-methyl-6-methyleneocta-2,7-dien-4-ol</td><td colspan="2">35628-00-3</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>Isoxadifen-ethyl</td><td colspan="2">Ethyl 5,5-diphenyl-2-isoxazoline-3-carboxylate</td><td colspan="2">163520-33-0</td><td>666.202</td><td>Herbizid «Safener»</td></tr>
-<tr><td>Isoxaflutole</td><td colspan="2">5-cyclopropyl-1,2-oxazol-4-yl α,α,α-trifluoro- 2-mesyl-p-tolyl ketone</td><td colspan="2">141112-29-0</td><td>575</td><td>Herbizid</td></tr>
-<tr><td>Japan Myths Oil</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Insektizid</td></tr>
-<tr><td>Kaliseife</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Fungizid</td></tr>
-<tr><td>Kaliumbicarbonat</td><td colspan="2">potassium hydrogencarbonate</td><td colspan="2">298-14-6</td><td>–</td><td>Fungizid</td></tr>
-<tr><td>Kaliumnitrat (Kalisalpeter)</td><td colspan="2">KNO<sub>3</sub></td><td colspan="2">7757-79-1</td><td>–</td><td>Rodentizid</td></tr>
-<tr><td>Kaliumphosphonat</td><td colspan="2">KH2PO3 und K2HPO3</td><td colspan="2"></td><td>756</td><td>Fungizid</td></tr>
-<tr><td>Kaolin</td><td colspan="2">Kaolin (CA-Name)</td><td colspan="2">1332-58-7</td><td>–</td><td>Insektizid</td></tr>
-<tr><td>Kresoxim-methyl</td><td colspan="2">methyl (E)-2-methoxyimino-[2-(o-tolyloxymethyl)phenyl]acetate</td><td colspan="2">143390-89-0</td><td>568</td><td>Fungizid</td></tr>
-<tr><td>Kupfer</td><td colspan="2">copper Variante (als Karbonat, basisch): [μ-[carbonato(2−)-κO:κO′]]dihydroxydicopper Variante (als Hydroxid): copper(II) hydroxide Variante (als Hydroxidcalciumchlorid) Variante (als Kalkpräparat): A mixture of calcium hydroxide and copper(II) sulfate *Variante* (als Naphthenat): copper naphthenate *Variante* (als Octanoat): copper octanoate *Variante* (als Oxychlorid): dicopper chloride trihydroxide *Variante* (als Sulfat): copper(II) tetraoxosulfate *Variante* (Tetrakupferhexahydroxidsulfat): cupric sulfate-tricupric hydroxide</td><td colspan="2">12002-03-8 12069-69-1 20427-59-2 8011-63-0 1338-02-9 20543-04-8 1332-40-7 7758-98-7 1333-22-8</td><td>44 – 44.305 44.604 – 44.407 44.602 44.306 –</td><td>Fungizid Fungizid Fungizid, Bakterizid Fungizid, Bakterizid Fungizid Fungizid Fungizid Fungizid Fungizid, Bakterizid Fungizid</td></tr>
-<tr><td>Lambda-Cyhalothrin</td><td colspan="2">(S)-α-cyano-3-phenoxybenzyl (Z)-(1R,3R)-3- (2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-3-phenoxybenzyl (Z)-(1S,3S)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate</td><td colspan="2">91465-08-6</td><td>463</td><td>Insektizid</td></tr>
-<tr><td>Laminarin</td><td colspan="2">(1-3)-13-D-glucan</td><td colspan="2">9008-22-4</td><td>671</td><td>Stimulator natürlicher Abwehrkräfte, Stoff mit geringem Risiko</td></tr>
-<tr><td>Lecithin</td><td colspan="2">L-α-Phosphatidyl choline</td><td colspan="2">8002-43-5</td><td>–</td><td>Fungizid</td></tr>
-<tr><td>Lenacil</td><td colspan="2">3-cyclohexyl-1,5,6,7-tetrahydrocyclopentapyrimidine-2,4(3H)-dione</td><td colspan="2">2164-08-1</td><td>163</td><td>Herbizid</td></tr>
-<tr><td>Limonen</td><td colspan="2">4-isopropenyl-1-metyhlcyclohexene</td><td colspan="2">5989-27-5</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>Magnesiumphosphid</td><td colspan="2">trimagnesium diphosphide</td><td colspan="2">12057-74-8</td><td>228</td><td>Mittel zum Schutz von Erntegütern</td></tr>
-<tr><td>Maleïnsäurehydrazin</td><td colspan="2">6-Hydroxy-2H-pyridazin-3-on</td><td colspan="2">123-33-1</td><td>310</td><td>Phytoregulator</td></tr>
-<tr><td>Maltodextrin</td><td colspan="2"></td><td colspan="2">9050-36-6</td><td>801</td><td>Insektizid, Akarizid</td></tr>
-<tr><td>Mancozeb</td><td colspan="2">manganese ethylenebis(dithiocarbamate) (polymeric) complex with zinc salt</td><td colspan="2">8018-01-7</td><td>34</td><td>Fungizid</td></tr>
-<tr><td>Mandipropamid</td><td colspan="2">(RS)-2-(4-chlorophenyl)-N-[3-methoxy-4-(prop-2-ynyloxy)phenethyl]-2-(prop-2-ynyloxy)acetamide</td><td colspan="2">374726-62-2</td><td>783</td><td>Fungizid</td></tr>
-<tr><td>MCPA</td><td colspan="2">(4-chloro-2-methylphenoxy)acetic acid</td><td colspan="2">94-74-6</td><td>2</td><td>Herbizid</td></tr>
-<tr><td>MCPB</td><td colspan="2">4-(4-chloro-o-tolyloxy)butyric acid</td><td colspan="2">94-81-5</td><td>50</td><td>Herbizid</td></tr>
-<tr><td>Mecoprop-P</td><td colspan="2">(R)-2-(4-chloro-o-tolyloxy)propionic acid</td><td colspan="2">16484-77-8</td><td>475</td><td>Herbizid</td></tr>
-<tr><td>Mefenpyr-Diethyl</td><td colspan="2">diethyl (RS)-1-(2,4-dichlororphenyl)-5-methyl-2-pyrazoline-3,5-dicarboxylate</td><td colspan="2">135590-91-9</td><td>651.229</td><td>Herbizid «Safener»</td></tr>
-<tr><td>Mepanipyrim</td><td colspan="2">N-(4-methyl-6-prop-1-ynylpyrimidin-2-yl)aniline</td><td colspan="2">110235-47-7</td><td>611</td><td>Fungizid</td></tr>
-<tr><td>Mepiquat</td><td colspan="2">1,1-dimethylpiperidinium *Variante*: Mepiquat-chloride</td><td colspan="2">15302-91-7 24307-26-4</td><td>440 440.302</td><td>Phytoregulator</td></tr>
-<tr><td colspan="2">Meptyldinocap</td><td colspan="2">Mischung aus 75–100 % (RS)-2-(1-Methylheptyl)-4,6-dinitrophenylcrotonat und 25–0 % (RS)-2-(1-Methylheptyl)-4,6-dinitrophenylisocrotonat</td><td>6119-92-2</td><td>811</td><td>Fungizid</td></tr>
-<tr><td>Mesosulfuron-methyl</td><td colspan="2">methyl 2-[3-(4,6-dimethoxypyrimidin-2-yl)ureidosulfonyl]-4-methanesulfonamidomethylbenzoate</td><td colspan="2">208465-21-8</td><td>663.201</td><td>Herbizid</td></tr>
-<tr><td>Mesotrione</td><td colspan="2">2-(4-mesyl-2-nitrobenzoyl)cyclohexane-1,3-dione</td><td colspan="2">104206-82-8</td><td>625</td><td>Herbizid</td></tr>
-<tr><td>Metalaxyl-M</td><td colspan="2">methyl N-(methocyacetyl)-N-2,6-xylyl-D-alaninate</td><td colspan="2">70630-17-0</td><td>580</td><td>Fungizid</td></tr>
-<tr><td>Metaldehyd</td><td colspan="2">r-2,c-4,c-6,c-8-tetramethyl-1,3,5,7-tetroxocane</td><td colspan="2">108-62-3</td><td>62</td><td>Molluskizid</td></tr>
-<tr><td>Metamitron</td><td colspan="2">4-amino-4,5-dihydro-3-methyl-6-phenyl-1,2,4-triazin- 5-one</td><td colspan="2">41394-05-2</td><td>381</td><td>Herbizid</td></tr>
-<tr><td>Metazachlor</td><td colspan="2">2-chloro-N-(pyrazol-1-ylmethyl)acet-2’,6’-xylidide</td><td colspan="2">67129-08-2</td><td>411</td><td>Herbizid</td></tr>
-<tr><td>Metconazole</td><td colspan="2">(1RS,5RS;1RS,5SR)-5-(4-chlorobenzyl)-2,2-dimethyl-1-(1H-1,2,4-triazol-1ylmethyl)cyclopentanol</td><td colspan="2">125116-23-6</td><td>706</td><td>Fungizid</td></tr>
-<tr><td>Methoxyfenozide</td><td colspan="2">*N*-tert-butyl-*N′*-(3-methoxy-o-toluoyl)-3,5-xylohydrazide</td><td colspan="2">161050-58-4</td><td>656</td><td>Insektizid</td></tr>
-<tr><td>Methylbutenol</td><td colspan="2">2-methyl-3-buten-2-ol</td><td colspan="2">115-18-4</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>Metiram</td><td colspan="2">zinc ammoniate ethylenebis(dithiocarbamate) – poly (ethylenethiuram disulfide)</td><td colspan="2">9006-42-2</td><td>478</td><td>Fungizid</td></tr>
-<tr><td>Metobromuron</td><td colspan="2">3-(4-Bromophenyl)-1-methoxy-1-Methylharnstoff</td><td colspan="2">3060-89-7</td><td>168</td><td>Herbizid</td></tr>
-<tr><td>Metrafenon</td><td colspan="2">3′-bromo-2,3,4,6′-tetramethoxy-2′,6-dimethylbenzophenone</td><td colspan="2">220899-03-6</td><td>752</td><td>Fungizid</td></tr>
-<tr><td>Metribuzin</td><td colspan="2">4-amino-6-tert-butyl-4,5-dihydro-3-methylthio-1,2,4-triazin-5-one</td><td colspan="2">21087-64-9</td><td>283</td><td>Herbizid</td></tr>
-<tr><td>Metsulfuron-methyl</td><td colspan="2">methyl-2-[[[[(4-methoxy-6-methyl-1,3,5-triazin-zyl)-amino]carbonyl]amino]sulfonil]benzoate</td><td colspan="2">74223-64-6</td><td>441.201</td><td>Herbizid</td></tr>
-<tr><td>Milbemectin</td><td colspan="2">mixture of 70% (10E,14E,16E)-(1R,4S,5′S,6R,6′R,8R,13R,20R,21R,24S)-6′-ethyl-21,24-dihydroxy-5′,11,13,22-tetramethyl-(3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene)-6-spiro-2′-(tetrahydropyran)-2-one and 30% (10E,14E,16E)-(1R,4S,5′S,6R,6′R,8R,13R,20R,21R,24S)-21,24-dihydroxy-5′,6′,11,13,22-pentamethyl-(3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene)-6-spiro-2′-(tetrahydropyran)-2-one</td><td colspan="2">51596-10-2 (milbemycin A3) + 51596-11-3 (milbemycin A4)</td><td>660</td><td>Akarizid, Insektizid</td></tr>
-<tr><td>Mineralstoffe</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Wildabhaltemittel</td></tr>
-<tr><td>Myclobutanil</td><td colspan="2">2-p-chlorophenyl-2-(1H-1,2,4-triazole-1-ylmethyl)hexanenitrile</td><td colspan="2">88671-89-0</td><td>442</td><td>Fungizid</td></tr>
-<tr><td>Napropamide</td><td colspan="2">(RS)-N,N-diethyl-2-(1-naphthyloxy)propionamide</td><td colspan="2">15299-99-7</td><td>271</td><td>Herbizid</td></tr>
-<tr><td>Nicosulfuron</td><td colspan="2">2-(4,6-dimethoxypyrimidin-2-ylcarbamoylsulfamoyl)-N,N-dimethylnicotinamide</td><td colspan="2">111991-09-4</td><td>709</td><td>Herbizid</td></tr>
-<tr><td>Octansäure (als Na- und Fe-Salz)</td><td colspan="2">octanoic acid</td><td colspan="2">124-07-2</td><td>–</td><td>Wundverschlussmittel</td></tr>
-<tr><td>Oleum foeniculi</td><td colspan="2">(Fenchelöl)</td><td colspan="2"></td><td>–</td><td>Fungizid</td></tr>
-<tr><td>Orangenöl</td><td colspan="2">(R)-4-Isopropenyl-1-methylcyclohexen</td><td colspan="2">8028-48-6</td><td>902</td><td>Insektizid, Fungizid</td></tr>
-<tr><td>Orthophenylphenol</td><td colspan="2">[1,1'-biphenyl]-2-ol</td><td colspan="2">90-43-7</td><td>246</td><td>Desinfektionsmittel</td></tr>
-<tr><td>Oryzalin</td><td colspan="2">3,5-dinitro-N4,N4-dipropylsulfanilamide</td><td colspan="2">19044-88-3</td><td>537</td><td>Herbizid</td></tr>
-<tr><td>Oxyfluorfen</td><td colspan="2">2-chloro-α,-α,-α-trifluoro-p-tolyl 3-ethoxy-4-nitrophenyl ether</td><td colspan="2">42874-03-3</td><td>538</td><td>Herbizid</td></tr>
-<tr><td>Paclobutrazol</td><td colspan="2">(2RS,3RS)-1-(4-chlorophenyl)-4,4-dimethyl-2-(1H-1,2,4-triazol-1-yl) pentan-3-ol</td><td colspan="2">76738-62-0</td><td>445</td><td>Phytoregulator</td></tr>
-<tr><td>Paraffinöl</td><td colspan="2"></td><td colspan="2">8012-95-1, 64742-46-7, 72623-86-0, 8042-47-5, 97862-82-3</td><td>–</td><td>Insektizid</td></tr>
-<tr><td>Parfümöl</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Wildabhaltemittel</td></tr>
-<tr><td>Penconazole</td><td colspan="2">1-(2,4-dichloro-β-propylphenethyl)-1H-1,2,4-triazole</td><td colspan="2">66246-88-6</td><td>446</td><td>Fungizid</td></tr>
-<tr><td>Pencycuron</td><td colspan="2">1-(4-chlorobenzyl)-1-cyclopentyl-3-phenylurea</td><td colspan="2">66063-05-6</td><td>402</td><td>Saatbeizmittel</td></tr>
-<tr><td>Pendimethalin</td><td colspan="2">N-(1-ethylpropyl)-2,6-dinitro-3,4-xylidine</td><td colspan="2">40487-42-1</td><td>357</td><td>Herbizid</td></tr>
-<tr><td>Penoxsulam</td><td colspan="2">3-(2,2-difluoroethoxy)-N- (5,8-dimethoxy[1,2,4] triazolo[1,5-c]pyrimidin-2-yl)-α,α,α-trifluorotoluene-2-sulfonamide</td><td colspan="2">219714-96-2</td><td>758</td><td>Herbizid</td></tr>
-<tr><td>Penthiopyrad</td><td colspan="2">*(RS)*-N-[2-(1,3- Dimethylbutyl)-3-thienyl]-1- methyl-3- (trifluormethyl)pyrazol-4- carboxamid</td><td colspan="2">183675-82-3</td><td>824</td><td>Fungizid</td></tr>
-<tr><td>Pethoxamid</td><td colspan="2">2-chloro-N-(2-ethoxyethyl)-N-(2-methyl-1-phenylprop-1-enyl)acetamide</td><td colspan="2">106700-29-2</td><td>665</td><td>Herbizid</td></tr>
-<tr><td>Phenmedipham</td><td colspan="2">methyl 3-(3-methylcarbaniloyloxy)carbanilate</td><td colspan="2">13684-63-4</td><td>77</td><td>Herbizid</td></tr>
-<tr><td>Phosmet</td><td colspan="2">O,O-dimethyl S-phthalimidomethyl phosphorodithioate</td><td colspan="2">732-11-6</td><td>318</td><td>Insektizid, Akarizid</td></tr>
-<tr><td>Picloram</td><td colspan="2">4-amino-3,5,6-trichloropyridine-2-carboxylic acid</td><td colspan="2">1918-02-1</td><td>174</td><td>Herbizid</td></tr>
-<tr><td>Pinoxaden</td><td colspan="2">8-(2,6-diethyl-p-tolyl)-1,2,4,5-tetrahydro-7-oxo- 7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl 2,2-dimethylpropionate</td><td colspan="2">243973-20-8</td><td>776</td><td>Herbizid</td></tr>
-<tr><td>Piperonyl butoxid</td><td colspan="2">2-(2-butoxyethoxy)ethyl 6-propypiperonyl ether</td><td colspan="2">51-03-6</td><td>33</td><td>Synergist</td></tr>
-<tr><td>Pirimicarb</td><td colspan="2">2-dimethylamino-5,6-dimethylpyrimidin-4-yl dimethylcarbamate</td><td colspan="2">23103-98-2</td><td>231</td><td>Insektizid</td></tr>
-<tr><td>Pirimiphos-methyl</td><td colspan="2">O,O-dimethyl O-2-diethylamino-6-methylpyrimidin- 4-yl phosphorothioate</td><td colspan="2">29232-93-7</td><td>239</td><td>Insektizid, Akarizid</td></tr>
-<tr><td>Prochloraz</td><td colspan="2">N-propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl]imidazole-1-carboxamide</td><td colspan="2">67747-09-5</td><td>407</td><td>Fungizid</td></tr>
-<tr><td>Prohexadione-Calcium</td><td colspan="2">calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate</td><td colspan="2">127277-53-6</td><td>567.020</td><td>Phytoregulator</td></tr>
-<tr><td>Propamocarb</td><td colspan="2">propyl 3-(dimethylamino)propylcarbamate *Variante*: propamocarb hydrochloride</td><td colspan="2">24579-73-5 25606-41-1</td><td>399 399.601</td><td>Fungizid</td></tr>
-<tr><td>Propaquizafop</td><td colspan="2">2-isopropylideneamino-oxyethyl (R)-2-[4-(6-chloroquinoxalin-2-yloxy)phenoxy]propionate</td><td colspan="2">111479-05-1</td><td>713</td><td>Herbizid</td></tr>
-<tr><td>Propoxycarbazone-sodium</td><td colspan="2">methyl 2-(4,5-dihydro-4-methyl-5-oxo-3-propoxy-1H-1,2,4-triazol-1-yl)carboxamidosulfonylbenzoate, sodium salt</td><td colspan="2">181274-15-7</td><td>655.011</td><td>Herbizid</td></tr>
-<tr><td>Propyzamide</td><td colspan="2">3,5-dichloro-N-(1,1-dimethylpropynyl)benzamide</td><td colspan="2">23950-58-5</td><td>315</td><td>Herbizid</td></tr>
-<tr><td>Proquinazid</td><td colspan="2">6-iodo-2-propoxy-3-propylquinazolin-4(3H)-one</td><td colspan="2">189278-12-4</td><td>764</td><td>Fungizid</td></tr>
-<tr><td>Prosulfocarb</td><td colspan="2">S-benzyl dipropylthiocarbamate</td><td colspan="2">52888-80-9</td><td>539</td><td>Herbizid</td></tr>
-<tr><td>Prosulfuron</td><td colspan="2">1-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)-3-[2-(3,3,3-trifluoropropyl)-phenylsulfonyl]-urea</td><td colspan="2">94125-34-5</td><td>579</td><td>Herbizid</td></tr>
-<tr><td>Proteine</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Wildabhaltemittel</td></tr>
-<tr><td>Prothioconazol</td><td colspan="2">(RS)-2-[2-(1-chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-2,4-dihydro-1,2,4-triazole-3-thione</td><td colspan="2">178928-70-6</td><td>745</td><td>Fungizid</td></tr>
-<tr><td>Pyraclostrobin</td><td colspan="2">methyl N-(2-{[1-(4-chlorophenyl)-1H-pyrazol-3-yl]oxymethyl}phenyl) N-methoxy carbamate</td><td colspan="2">175013-18-0</td><td>657</td><td>Fungizid</td></tr>
-<tr><td>Pyraflufen-ethyl</td><td colspan="2">ethyl 2-chloro-5-(4-chloro-5-difluoromethoxy-1-methylpyrazol-3-yl)-4-fluorophenoxyacetate</td><td colspan="2">129630-17-7</td><td>605.202</td><td>Herbizid</td></tr>
-<tr><td>Pyrethrine</td><td colspan="2">(Z)-(S)-2-methyl-4-oxo-3-(penta-2,4-dienyl)cyclopent-2-enyl (1R,3R)-2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropanecarboxylate</td><td colspan="2">121-21-1</td><td>32</td><td>Insektizid, Akarizid</td></tr>
-<tr><td>Pyridate</td><td colspan="2">6-chloro-3-phenylpyridazin-4-yl S-octyl thiocarbonate</td><td colspan="2">55512-33-9</td><td>447</td><td>Herbizid</td></tr>
-<tr><td>Pyrimethanil</td><td colspan="2">N-(4,6-dimethylpyrimidin-2-yl)aniline</td><td colspan="2">53112-28-0</td><td>714</td><td>Fungizid</td></tr>
-<tr><td>Pyroxsulam</td><td colspan="2">N-(5,7-dimethoxy[1,2,4]triazolo[1,5-a]pyrimidin-2-yl)-2- methoxy-4-(trifluoromethyl)pyridine-3-sulfonamide</td><td colspan="2">422556-08-9</td><td>793</td><td>Herbizid</td></tr>
-<tr><td>Quassiaextrakt</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Insektizid</td></tr>
-<tr><td>Quinmerac</td><td colspan="2">7-Chlor-3-methyl-8-chinolincarbonsäure</td><td colspan="2">90717-03-6</td><td>563</td><td>Herbizid</td></tr>
-<tr><td>Quizalofop-P-ethyl</td><td colspan="2">ethyl (R)-2-[4-(6-chlorquinoxalin-2-yloxy) phenoxy] propionate</td><td colspan="2">100646-51-3</td><td>641.202</td><td>Herbizid</td></tr>
-<tr><td>Rapsöl</td><td colspan="2">rapeseed oil</td><td colspan="2">68187-84-8</td><td>–</td><td>Insektizid</td></tr>
-<tr><td colspan="2">Repellents (Geruch) tierischen oder pflanzlichen Ursprungs / Fischöl</td><td>Fischöl</td><td colspan="2">100085-40-3</td><td></td><td>Wildabhaltemittel</td></tr>
-<tr><td>Rimsulfuron</td><td colspan="2">1-(4,6-dimethoxypyrimidin-2-yl)-3-(etylsulfonyl-2-pyridylsulfonyl)urea</td><td colspan="2">122931-48-0</td><td>716</td><td>Herbizid</td></tr>
-<tr><td>(S)-cis-Verbenol</td><td colspan="2">[S-(1α,2α,5α)]-4,6,6-trimethylbicyclo[3.1.1]-hept- 3-en-2-ol</td><td colspan="2">18881-04-4</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>Schachtelhalmextrakt</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Fungizid, Bakterizid</td></tr>
-<tr><td>Schaffett</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Wildabhaltemittel</td></tr>
-<tr><td>Schwefel</td><td colspan="2">sulfur</td><td colspan="2">7704-34-9</td><td>18</td><td>Fungizid, Akarizid</td></tr>
-<tr><td>Schwefelkalk</td><td colspan="2">Calcium polysulfide</td><td colspan="2">1344-81-6</td><td>17</td><td>Fungizid</td></tr>
-<tr><td>Schwefelsaure Tonerde</td><td colspan="2">sulfuric acid</td><td colspan="2">10043-01-3</td><td>–</td><td>Fungizid, Bakterizid</td></tr>
-<tr><td>Sesamöl raffiniert</td><td colspan="2">fatty acid glycerol ester</td><td colspan="2"></td><td>–</td><td>Insektizid (Synergist)</td></tr>
-<tr><td>Siliciumoxyd</td><td colspan="2">silicium dioxide</td><td colspan="2">7631-86-9</td><td>–</td><td>Fungizid</td></tr>
-<tr><td>S-Metolachlor</td><td colspan="2">(S)-2-chloro-N-(2-ethyl-6-methyl-phenyl)-N-(2methoxy-1-methyl-ethyl)-acetamide</td><td colspan="2">87392-12-9</td><td>607</td><td>Herbizid</td></tr>
-<tr><td>Spinetoram</td><td colspan="2">(1S,2R,5R,7R,9R,10S,14R,15S,19S)-7-(6-deoxy-3-O-ethyl-2,4-di-O-methyl-á-L-mannopyranosyloxy)-15-[(2R,5S,6R)-5-(dimethylamino)tetrahydro-6-methylpyran-2-yloxy]-19-ethyl-14-methyl-20-oxatetracyclo[10.10.0.02,10.05,9]docos-11-ene-13,21-dion</td><td colspan="2">935545-74-7</td><td>802</td><td>Insektizid</td></tr>
-<tr><td>Spinosad</td><td colspan="2">mixture of spinosyn A and spinosyn D</td><td colspan="2">168316-95-8</td><td>636</td><td>Insektizid</td></tr>
-<tr><td>Spirotetramat</td><td colspan="2">cis-4-(ethoxycarbonyloxy)-8-methoxy-3-(2,5-xylyl)-1-azaspiro[4.5]dec-3-en-2-one</td><td colspan="2">203313-25-1</td><td>795</td><td>Insektizid</td></tr>
-<tr><td>Spiroxamin</td><td colspan="2">8-tert-butyl-1,4-dioxaspiro[4.5]decan-2-ylmethyl(ethyl)(propyl)amine</td><td colspan="2">118134-30-8</td><td>572</td><td>Fungizid</td></tr>
-<tr><td>Styrol-Butylacrylat-Copolymerisat</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Wildabhaltemittel</td></tr>
-<tr><td>Sulcotrione</td><td colspan="2">2-(2-chloro-4-mesylbenzoyl)-1,3-cyclohexane-1,3- dione</td><td colspan="2">99105-77-8</td><td>723</td><td>Herbizid</td></tr>
-<tr><td>Sulfosulfuron</td><td colspan="2">1-(4,6-dimethoxypyrimidin-2-yl)-3-(2-ethylsulfonylimidazo[1,2-a]pyridin-3-yl-sulfonylurea</td><td colspan="2">141776-32-1</td><td>601</td><td>Herbizid</td></tr>
-<tr><td>Sulfoxaflor</td><td colspan="2">[Methyl(oxo){1-[6-(trifluoromethyl)-3-pyridyl]ethyl} ‑λ6‑sulfanyliden]cyanamid</td><td colspan="2">946578-00-3</td><td>820</td><td>Insektizid</td></tr>
-<tr><td>Sulfuryl fluoride</td><td colspan="2">sulfuryl fluoride</td><td colspan="2">002699-79-8</td><td>757</td><td>Insektizid</td></tr>
-<tr><td colspan="2">Tau-Fluvalinat</td><td colspan="2">(RS)-α-cyano-3-phenoxybenzyl N-(2-chloro- α,α α- trifluoro-p-tolyl)-D-valinate (Isomerenverhältnis 1:1)</td><td>102851- 06-9</td><td>786</td><td>Insektizid</td></tr>
-<tr><td>Tebuconazol</td><td colspan="2">(RS)-1-p-chlorophenyl-4,4-dimethyl-3-(1H-1,2,4-triazol-1-ylmethyl)pentan-3-ol</td><td colspan="2">107534-96-3</td><td>494</td><td>Fungizid</td></tr>
-<tr><td>Tebufenozide</td><td colspan="2">N-tert-butyl-N’-(4-ethylbenzoyl)-3,5-dimethylbenzohydrazide</td><td colspan="2">112410-23-8</td><td>724</td><td>Insektizid</td></tr>
-<tr><td>Tebufenpyrad</td><td colspan="2">N-(4-tert-butylbenzyl)-4-chloro-3-ethyl-1-methylpyrazole-5-carboxamide</td><td colspan="2">119168-77-3</td><td>725</td><td>Akarizid</td></tr>
-<tr><td>Tefluthrin</td><td colspan="2">2,3,5,6-tetrafluoro-4-methylbenzyl (Z)-(1RS,3RS)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate</td><td colspan="2">79538-32-2</td><td>451</td><td>Insektizid</td></tr>
-<tr><td>Tembotrion</td><td colspan="2">2-{2-chloro-4-mesyl-3-[(2,2,2-trifluoroethoxy)methyl]benzoyl}cyclohexane-1,3-dione</td><td colspan="2">335104-84-2</td><td>790</td><td>Herbizid</td></tr>
-<tr><td>Terbuthylazine</td><td colspan="2">N2-tert-butyl-6-chloro-N4-ethyl-1,3,5-triazine-2,4-diamine</td><td colspan="2">5915-41-3</td><td>234</td><td>Herbizid</td></tr>
-<tr><td>Thiabendazole</td><td colspan="2">2-(thiazol-4-yl)benzimidazole</td><td colspan="2">148-79-8</td><td>323</td><td>Fungizid</td></tr>
-<tr><td>Thiacloprid</td><td colspan="2">N-{3-[(6chloro-3-pyridinyl)methyl]-1,3-thiazolan-2-yliden}cyanamide</td><td colspan="2">111988-49-9</td><td>631</td><td>Insektizid</td></tr>
-<tr><td>Thiencarbazone</td><td colspan="2">methyl 4-[(4,5-dihydro-3-methoxy-4-methyl-5-oxo-1 H-1,2,4-triazol-1 -yl)carbonylsulfamoyl]-5- methylthiophene-3-carboxylate</td><td colspan="2">317815-83-1</td><td>797</td><td>Herbizid</td></tr>
-<tr><td>Thifensulfuron-methyl</td><td colspan="2">3-(4-methoxy-6-methyl-1,3,5-triazin-2-ylcarbamoylsulamoyl)thiophen-2-carboxylic acid</td><td colspan="2">79277-27-3</td><td>452.201</td><td>Herbizid</td></tr>
-<tr><td>Thiophanate-methyl</td><td colspan="2">dimethyl 4,4’-(o-phenylene)bis(3-thioallophanate)</td><td colspan="2">23564-05-8</td><td>262</td><td>Fungizid, Wundverschlussmittel</td></tr>
-<tr><td>Tierkörpermehl</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Wildabhaltemittel</td></tr>
-<tr><td>Tolclofos-methyl</td><td colspan="2">O-2,6-dichloro-p-tolyl O,O-dimethyl phosphorothioate</td><td colspan="2">57018-04-9</td><td>479</td><td>Fungizid</td></tr>
-<tr><td>Triazoxid</td><td colspan="2">7-chloro-3-imidazol-1-yl-1,2,4-benzotriazine 1-oxide</td><td colspan="2">72459-58-6</td><td>729</td><td>Fungizid</td></tr>
-<tr><td>Tribenuron</td><td colspan="2">2-[4-methoxy-6-methyl-1,3,5-triazin-2-yl(methyl)carbamoylsulfamoyl]benzoic acid</td><td colspan="2">106040-48-6</td><td>546</td><td>Herbizid</td></tr>
-<tr><td>Tribenuron-methyl</td><td colspan="2">methyl ester of 2-[4-methoxy-6-methyl-1,3,5-triazin- 2-yl(methyl)carbamoylsulfamoyl]benzoic acid</td><td colspan="2">101200-48-0</td><td>546.201</td><td>Herbizid</td></tr>
-<tr><td>Triclopyr</td><td colspan="2">3,5,6-trichloro-2-pyridyloxyacetic acid</td><td colspan="2">55335-06-3</td><td>376</td><td>Herbizid</td></tr>
-<tr><td>Trifloxystrobin</td><td colspan="2">(E,E)-methoxyimino-{2-[1-(3-trifluoromethyl- phenyl)-ethylideneaminooxymethyl]-phenyl}-acetic acid methyl ester</td><td colspan="2">141517-21-7</td><td>617</td><td>Fungizid</td></tr>
-<tr><td>Triflusulfuron-methyl</td><td colspan="2">Methyl 2-[4-dimethylamino-6-(2,2,2-trifluoroethoxy)-1,3,5-triazin-2-ylcarbamoylsulfamoyl]-m-toluic acid</td><td colspan="2">126535-15-7</td><td>731.201</td><td>Herbizid</td></tr>
-<tr><td>Trinexapac-ethyl</td><td colspan="2">ethyl 4-cyclopropyl(hydroxy)methylene-3,5-dioxocyclohexanecarboxylate</td><td colspan="2">95266-40-3</td><td>732.202</td><td>Phytoregulator</td></tr>
-<tr><td>Triticonazole</td><td colspan="2">(±)-(E)-5+(4-chlorobenzylidene)-2,2-dimethyl-1-(1H-1,2,4-triazol-1-methyl)cyclopentanol</td><td colspan="2">131983-72-7</td><td>652</td><td>Fungizid</td></tr>
-<tr><td>Tritosulfuron</td><td colspan="2">1-(4-methoxy-6-trifluoromethyl-1,3,5-triazin-2-yl)-3- (2-trifluoromethylbenzenesulfonyl)urea</td><td colspan="2">142469-14-5</td><td>735</td><td>Herbizid</td></tr>
-<tr><td>Valifenalat</td><td colspan="2">Methyl-*N*-(isopropoxycarbonyl)-L-valyl- (3*RS*)-3-(4-chlorphenyl)-β-alaninat</td><td colspan="2">283159-90-0</td><td>857</td><td>Fungizid</td></tr>
-<tr><td>Verbissmittel (Grundkörper)</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Wildabhaltemittel</td></tr>
-<tr><td>Vinylcopolymere</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Wildabhaltemittel</td></tr>
-<tr><td>Vinylesterpolymere</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Wildabhaltemittel</td></tr>
-<tr><td>Winter Green Oil</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Insektizid</td></tr>
-<tr><td>Wollwachs</td><td colspan="2"></td><td colspan="2"></td><td>–</td><td>Wildabhaltemittel</td></tr>
-<tr><td>Z3Z13-18Ac</td><td colspan="2">(Z,Z)-3,13-octadecadienyl acetate</td><td colspan="2">53120-27-7</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>Z8-12 Ac</td><td colspan="2">(Z)-dodec-8-en-1-yl acetate</td><td colspan="2">28079-04-1</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>Z9-12 Ac</td><td colspan="2">(Z)-dodec-9-en-1-yl acetate</td><td colspan="2"></td><td>–</td><td>Pheromon</td></tr>
-<tr><td>Z9-14Ac</td><td colspan="2">(Z)-tetradec-9-en-1-yl acetate</td><td colspan="2">16725-53-4</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>Z11-14 Ac</td><td colspan="2">(Z)-tetradec-11-en-1-yl acetate</td><td colspan="2">20711-10-8</td><td>–</td><td>Pheromon</td></tr>
-<tr><td>Z11-14OH</td><td colspan="2">(Z)-11-Tetradecen-1-ol</td><td colspan="2">34010-15-6</td><td></td><td>Pheromon</td></tr>
-<tr><td>zeta-Cypermethrin</td><td colspan="2">(S)-α-cyano-3-phenoxybenzyl(1RS,3RS;1RS,3SR)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane- carboxylate (S);(1RS,3RS)/(S);(1RS,3SR) 45–55 to 55–45 resp.</td><td colspan="2">52315-07-8</td><td>733</td><td>Insektizid</td></tr>
-<tr><td>Zinkphosphid</td><td colspan="2">Trizinkdiphosphid</td><td colspan="2">1314-84-7</td><td>69</td><td>Rodentizid</td></tr>
-<tr><td>Ziram</td><td colspan="2">zinc bis(dimethyldithiocarbamate)</td><td colspan="2">137-30-4</td><td>31</td><td>Fungizid</td></tr>
-<tr><td>Zoxamid</td><td colspan="2">3,5-Dichloro-N-(3-chloro-1-ethyl-1-methyl-2- oxopropyl)-p-toluamide</td><td colspan="2">156052-68-5</td><td>640</td><td>Fungizid</td></tr>
+<tr><th>Gebräuchliche Bezeichnung, Kennnummer</th><th>IUPAC-Bezeichnung</th><th>CAS-Nr.</th><th>CIPAC-Nr.</th><th>Wirkungsart/ Besondere Bedingungen und Einschränkungen</th></tr>
+<tr><td>1-Decanol</td><td>Decan-1-ol</td><td>112-30-1</td><td>831</td><td>Phytoregulator</td></tr>
+<tr><td>1-Methylcyclopropene (1-MCP)</td><td>1-methylcyclopropene</td><td>3100-04-7</td><td>767</td><td>Phytoregulator</td></tr>
+<tr><td>1-Naphthylacetic acid</td><td>1-naphthylacetic acid</td><td>86-87-3</td><td>313</td><td>Phytoregulator</td></tr>
+<tr><td>12 OH</td><td>dodecan-1-ol</td><td>112-53-8</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>1,4-Dimethylnaphthalin</td><td>1,4-Dimethylnaphthalin</td><td>571-58-4</td><td>822</td><td>Phytoregulator</td></tr>
+<tr><td>14 OH</td><td>tetradecan-1-ol</td><td>112-72-1</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>2-(1-Naphthyl)acetamide</td><td>2-(1-naphthyl)acetamide</td><td>86-86-2</td><td>282</td><td>Phytoregulator</td></tr>
+<tr><td>2,4-D</td><td>(2,4-dichlorophenoxy)acetic acid</td><td>94-75-7</td><td>1</td><td>Herbizid</td></tr>
+<tr><td>6-Benzyladenin</td><td>*N*<sup>6</sup>-benzyladenine</td><td>1214-39-7</td><td>–</td><td>Phytoregulator</td></tr>
+<tr><td>8- Hydroxychinolin</td><td>8-quinolinol</td><td>148-24-3</td><td>677</td><td>Fungizid</td></tr>
+<tr><td>Abamectin</td><td>avermectin B1</td><td>71751-41-2</td><td>495</td><td>Insektizid, Akarizid</td></tr>
+<tr><td>Acequinocyl</td><td>3-dodecyl-1,4-dihydro-1,4-dioxo-2-naphthyl acetate</td><td>57960-19-7</td><td>760</td><td>Akarizid</td></tr>
+<tr><td>Acetamiprid</td><td>(E)-N1-[(6-chloro-3-pyridyl)methyl]-N2-cyano-N1-methylacetamidine</td><td>135410-20-7</td><td>649</td><td>Insektizid</td></tr>
+<tr><td>Acibenzolar-S-methyl</td><td>S-methyl benzo[1,2,3]thiadiazol-7-carbothioate</td><td>135158-54-2</td><td>597</td><td>Stimulator natürlicher Abwehrkräfte</td></tr>
+<tr><td>Aclonifen</td><td>2-chloro-6-nitro-3-phenoxyaniline</td><td>74070-46-5</td><td>498</td><td>Herbizid</td></tr>
+<tr><td>alpha-Cypermethrin</td><td>A racemate comprising (S)-α-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-3-phenoxybenzyl (1S,3S)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td>67375-30-8</td><td>454</td><td>Insektizid</td></tr>
+<tr><td>alpha-Pinen</td><td>2,6,6-Trimethylbicyclo[3.1.1]hept-2-en</td><td>2437-95-8</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>Aluminiumkaliumsulfat-Dodecahydrat</td><td></td><td>7784-24-9</td><td></td><td>Bakterizid</td></tr>
+<tr><td>Aluminiumoxid</td><td>Al<sub>2</sub>O<sub>3</sub></td><td>1344-28-1</td><td>–</td><td>Fungizid</td></tr>
+<tr><td>Aluminiumphosphid</td><td>aluminium phosphide</td><td>20859-73-8</td><td>227</td><td>Rodentizid</td></tr>
+<tr><td>Ametoctradin</td><td>5-Ethyl-6-octyl [1,2,4]triazol[1,5-a]pyrimidin-7-amin</td><td>865318-97-4</td><td>818</td><td>Fungizid</td></tr>
+<tr><td>Amidosulfuron</td><td>1-(4,6-dimethoxypyrimidin-2-yl)-3-mesyl(methyl)sulfamoylurea</td><td>120923-37-7</td><td>515</td><td>Herbizid</td></tr>
+<tr><td>Aminopyralid</td><td>4-amino-3,6-dichloropyridine-2-carboxylic acid</td><td>150114-71-9</td><td>771</td><td>Herbizid</td></tr>
+<tr><td>Amisulbrom</td><td>3-(3-Brom-6-fluor-2-methylindol-1-ylsulfonyl)- N,N-dimethyl-1H-1,2,4- triazol-1-sulfonamid</td><td>348635-87-0</td><td>789</td><td>Fungizid</td></tr>
+<tr><td>Asulam</td><td>methyl 4-aminophenylsulfonylcarbamate</td><td>3337-71-1</td><td>240</td><td>Herbizid</td></tr>
+<tr><td>Ätherische Öle</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
+<tr><td>Azadirachtin A</td><td>dimethyl (2aR,3S,4S,4aR,5S,7aS,8S,10R,10aS,10bR)- 10-(acetyloxy)octahydro-3,5-dihydroxy-4-methyl-8-[[(2E)-2-methyl-1-oxo-2-butenyl]oxy]-4-[(1aR,2S,3aS,6aS,7S,7aS)-3a,6a,7,7a-tetrahydro-6a-hydroxy-7a-methyl-2,7-methanofuro[2,3-b]oxireno[e]oxepin-1a(2H)-yl]-1H,7H-naphtho[1,8-bc:4,4a-c′]difuran-5,10a(8H)-dicarboxylate</td><td>11141-17-6</td><td>627</td><td>Insektizid</td></tr>
+<tr><td>Azoxystrobin</td><td>methyl (E)-2-{2[6-(2-cyanophenoxy)pyrimidin-4-yloxy]phenyl}-3-methoxyacrylate</td><td>131860-33-8</td><td>571</td><td>Fungizid</td></tr>
+<tr><td>Beflubutamid</td><td>(RS)-N-benzyl-2-(α,α,α,4-tetrafluoro-m-tolyloxy)butyramide</td><td>113614-08-7</td><td>662</td><td>Herbizid</td></tr>
+<tr><td>Benalaxyl-M</td><td>Methyl N-(phenylacetyl)-N-(2,6-xylyl)-D-alaninate</td><td>98243-83-5</td><td>766</td><td>Fungizid</td></tr>
+<tr><td>Benoxacor</td><td>(±)-4-dichloroacetyl-3,4-dihydro-3-methyl-2H-1,4-benzoxamine</td><td>98730-04-2</td><td>–</td><td>Herbizid «Safener»</td></tr>
+<tr><td>Bentazon</td><td>3-isopropyl-1H-2,1,3-benzothiadiazin-4(3H)-one 2,2-dioxide</td><td>25057-89-0</td><td>366</td><td>Herbizid</td></tr>
+<tr><td>Benthiavalicarb</td><td>[(S)-1-{[(1R)-1-(6-fluoro-1,3-benzothiazol-2-yl)ethyl]carbamoyl}-2-methylpropyl]carbamic acid *Variante*: benthiavalicarb-isopropyl</td><td>413615-35-7 177406-68-7</td><td>744 744.204</td><td>Fungizid</td></tr>
+<tr><td>Benzoesäure</td><td>benzoate</td><td>65-85-0</td><td>622</td><td>Desinfektionsmittel</td></tr>
+<tr><td>Benzovindiflupyr</td><td>N-[(1RS,4SR)-9-(Dichlormethylen)-1,2,3,4-tetrahydro-1,4-methanonaphthalen-5-yl]-3-(difluormethyl)-1-methylpyrazol-4-carboxamid</td><td>1072957-71-1</td><td></td><td>Fungizid</td></tr>
+<tr><td>Bifenazat</td><td>Isopropyl 3-(4-methoxybiphenyl-3-yl)carbazate</td><td>149877-41-8</td><td>736</td><td>Akarizid</td></tr>
+<tr><td>Bifenox</td><td>methyl 5-(2,4-dichlorophenoxy)-2-nitrobenzoate</td><td>42576-02-3</td><td>413</td><td>Herbizid</td></tr>
+<tr><td>Bixafen</td><td>*N*-(3',4'-dichloro-5-fluoro[1,1'-biphenyl]-2-yl)-3-(difluoromethyl)-1-methyl-1*H*-pyrazole-4-carboxamide</td><td>581809-46-3</td><td>819</td><td>Fungizid</td></tr>
+<tr><td>Boscalid</td><td>2-Chloro-N-(4’-chlorobiphenyl-2-yl)nicotinamide</td><td>188425-85-6</td><td>673</td><td>Fungizid</td></tr>
+<tr><td>Bromuconazol</td><td>1-[(2RS,4RS:2RS,4SR)-4-bromo-2-(2,4-dichlorophenyl)tetrahydrofurfuryl]-1H-1,2,4-triazole</td><td>116255-48-2</td><td>680</td><td>Fungizid</td></tr>
+<tr><td>Bupirimate</td><td>5-butyl-2-ethylamino-6-methylpyrimidin-4-yl dimethylsulfamate</td><td>41483-43-6</td><td>261</td><td>Fungizid</td></tr>
+<tr><td>Buprofezin</td><td>(Z)-2-tert-butylimino-3-isopropyl-5-phenyl-1,3,5-thiadiazinan-4-one</td><td>953030-84-7</td><td>681</td><td>Insektizid</td></tr>
+<tr><td>Calciumcarbonat</td><td>calcium carbonate</td><td>471-34-1</td><td>–</td><td>Insektizid, Wildabhaltemittel</td></tr>
+<tr><td>Calciumhydroxide (Kalk-hydrat, gelöschter Kalk)</td><td>Ca(OH)<sub>2</sub></td><td>1305-62-0</td><td>–</td><td>Wundverschlussmittel</td></tr>
+<tr><td>Captan</td><td>N-(trichloromethylthio)cyclohex-4-ene-1,2-dicarboximide</td><td>133-06-2</td><td>40</td><td>Fungizid</td></tr>
+<tr><td>Carfentrazone-ethyl</td><td>ethyl 2-chloro-3-(2-chloro-4-fluoro-5-[4-(difluoromethyl)-4,5,dihydro-3-methyl-5-oxo-1H 1,2,4,triazol-1-yl]phenyl)propanoate</td><td>128639-02-1</td><td>587.202</td><td>Herbizid</td></tr>
+<tr><td>Cerevisan</td><td></td><td></td><td>980</td><td>Stimulator natürlicher Abwehrkräfte, Stoff mit geringem Risiko</td></tr>
+<tr><td>Chalcogran</td><td>2-Ethyl-1,6-dioxaspiro[4,4]nonan</td><td></td><td>–</td><td>Pheromon</td></tr>
+<tr><td>Chlorantraniliprole</td><td>3-Bromo-N-[4-chloro-2-methyl-6-(methylcarbamoyl)phenyl]-1-(3-chloropyridin-2-yl)-1 H-pyrazole-5-carboxyamide</td><td>500008-45-7</td><td>794</td><td>Insektizid</td></tr>
+<tr><td>Chlormequat</td><td></td><td></td><td></td><td>Phytoregulator</td></tr>
+<tr><td>(Chlormequat)</td><td>2-chloroethyltrimethylammonium</td><td>7003-89-6</td><td>143</td><td></td></tr>
+<tr><td>(Chlormequatchlorid)</td><td>2-chloroethyltrimethylammonium chloride</td><td>999-81-5</td><td>143.302</td><td></td></tr>
+<tr><td>Chlorothalonil (TCPN)</td><td>tetrachloroisophthalonitrile</td><td>1897-45-6</td><td>288</td><td>Fungizid</td></tr>
+<tr><td>Chlortoluron</td><td>3-(3-chloro-p-tolyl)-1,1-dimethylurea</td><td>15545-48-9</td><td>217</td><td>Herbizid</td></tr>
+<tr><td>Clethodim</td><td>(±)-2-[(E)-1-[(E)-3-chloroallyloxyimino]propyl]-5- [2-(ethylthio)propyl]-3-hydroxycyclohex-2-enone</td><td>99129-21-2</td><td>508</td><td>Herbizid</td></tr>
+<tr><td>Clodinafop-propargyl</td><td>prop-2-ynyl (R)-2-[4-(5-chloro-3-fluoropyridin- 2-yloxy)phenoxy]propionate</td><td>105512-06-9</td><td>683.225</td><td>Herbizid</td></tr>
+<tr><td>Clofentezine</td><td>3,6-bis(2-chlorophenyl)-1,2,4,5-tetrazine</td><td>74115-24-5</td><td>418</td><td>Akarizid</td></tr>
+<tr><td>Clomazone</td><td>2-(2-chlorobenzyl)-4,4-dimethyl-1,2-oxazolidin- 3-one</td><td>81777-89-1</td><td>509</td><td>Herbizid</td></tr>
+<tr><td>Clopyralid</td><td>3,6-dichloropyridine-2-carboxylic acid</td><td>1702-17-6</td><td>455</td><td>Herbizid</td></tr>
+<tr><td>Cloquintocet-mexyl</td><td>1-methylhexyl (5-chloroquinolin-8-yloxy)acetate</td><td>99607-70-2</td><td>–</td><td>Herbizid «Safener»</td></tr>
+<tr><td>COS-OGA</td><td>Lineares Copolymer aus α-1,4-D- Galactopyranosyluronsäuren und methylveresterten Galactopyranosyluronsäuren (9 bis 20 Einheiten) mit dem linearen Copolymer β‑1,4-verknüpfte 2-Amino-2-deoxy-D-glucopyranose und 2-Acetamid-2-deoxy-D-glucopyranose (5 bis 10 Einheiten)</td><td></td><td>979</td><td>Fungizid, Stoff mit geringem Risiko</td></tr>
+<tr><td>Cyazofamid</td><td>4-chloro-2-cyano-*N,N*-dimethyl-5-*p*-tolylimidazole-1-sulfonamide</td><td>120116-88-3</td><td>653</td><td>Fungizid</td></tr>
+<tr><td>Cycloxydim</td><td>(±)-2-[1-(ethoxyimino)butyl]-3-hydroxy-5-thian-3-ylcyclohex-2-enone</td><td>101205-02-1</td><td>510</td><td>Herbizid</td></tr>
+<tr><td>Cyflufenamid</td><td>(Z)-N-[α-(cyclopropylmethoxyimino)-2,3-difluoro-6-(trifluoromethyl)benzyl]-2-phenylacetamide</td><td>180409-60-3</td><td>759</td><td>Fungizid</td></tr>
+<tr><td>Cymoxanil</td><td>1-(2-cyano-2-methoxyiminoacetyl)-3-ethylurea</td><td>57966-95-7</td><td>419</td><td>Fungizid</td></tr>
+<tr><td>Cypermethrin</td><td>(RS)-α-cyano-3-phenoxybenzyl (1RS,3RS;1RS,3SR)- 3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td>52315-07-8</td><td>332</td><td>Insektizid</td></tr>
+<tr><td>Cypermethrin high-cis</td><td>(RS)-α-yano-3-phenoxybenzyl (1RS)-cis,trans (&gt; 80 %: &lt; 20 %)-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td>52315-07-8</td><td>–</td><td>Insektizid</td></tr>
+<tr><td>Cyproconazole</td><td>(2RS,3RS;2RS,3SR)-2-(4-chlorophenyl)-3- cyclopropyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol</td><td>94361-06-5</td><td>600</td><td>Fungizid</td></tr>
+<tr><td>Cyprodinil</td><td>4-cyclopropyl-6-methyl-N-phenylpyrimidin-2-amine</td><td>121552-61-2</td><td>511</td><td>Fungizid</td></tr>
+<tr><td>Daminozide</td><td>N-dimethylaminosuccinamic acid</td><td>1596-84-5</td><td>330</td><td>Phytoregulator</td></tr>
+<tr><td>Dazomet (DMTT)</td><td>3,5-dimethyl-1,3,5-thiadiazinane-2-thione</td><td>533-74-4</td><td>146</td><td>Nematizid, Fungizid, Herbizid, Insektizid</td></tr>
+<tr><td>d-Carvon</td><td>d-2-Methyl-5-isopropenyl-2-cyclohexene-1-on</td><td>2244-16-8</td><td>602</td><td>Phytoregulator</td></tr>
+<tr><td>Decadiencarbonsäure-methylester</td><td>methyl ester of decadiene-carboxylic acid</td><td></td><td>–</td><td>Pheromon</td></tr>
+<tr><td>Deltamethrin</td><td>(S)-α-cyano-3-phenoxybenzyl (1R,3R)-3-(2,2-dibromovinyl)-2,2-dimethylcyclopropanecarboxylate</td><td>52918-63-5</td><td>333</td><td>Insektizid</td></tr>
+<tr><td>Dicamba</td><td>3,6-dichloro-o-anisic acid</td><td>1918-00-9</td><td>85</td><td>Herbizid</td></tr>
+<tr><td>Dichlorprop-P</td><td>(R)-2-(2,4-dichlorophenoxy)propionic acid</td><td>15165-67-0</td><td>476</td><td>Herbizid</td></tr>
+<tr><td>Difenoconazole</td><td>cis,trans-3-chloro-4-[4-methyl-2-(1H-1,2,4-triazol-1-ylmethyl)-1,3-dioxolan-2-yl]phenyl 4-chlorophenyl ether</td><td>119446-68-3</td><td>687</td><td>Fungizid</td></tr>
+<tr><td>Diflubenzuron</td><td>1-(4-chlorophenyl)-3-(2,6-difluorobenzoyl)urea</td><td>35367-38-5</td><td>339</td><td>Insektizid</td></tr>
+<tr><td>Diflufenican</td><td>2’,4’-difluoro-2-(α,α,α-trifluoro-m-tolyloxy)nicotinanilide</td><td>83164-33-4</td><td>462</td><td>Herbizid</td></tr>
+<tr><td>Dimethachlor</td><td>2-chloro-N-(2-methoxyethyl)aceto-2’,6’-xylidide</td><td>50563-36-5</td><td>688</td><td>Herbizid</td></tr>
+<tr><td>Dimethenamid-P</td><td>S-2-chloro-N-(2,4-dimethyl-3-thienyl)-N- (2-methoxy-1-methylethyl)-acetamide</td><td>163515-14-8</td><td>638</td><td>Herbizid</td></tr>
+<tr><td>Dimethomorph</td><td>(E,Z 4-[3-(4-chlorophenyl)-3-(3,4-dimethoxyphenyl)acryloyl]morpholine</td><td>110488-70-5</td><td>483</td><td>Fungizid</td></tr>
+<tr><td>Dinatriumphosphonat</td><td>disodium phosphonate</td><td>13708-85-5</td><td>808</td><td>Fungizid</td></tr>
+<tr><td>Dithianon</td><td>5,10-dihydro-5,10-dioxonaphtho[2,3-b]-1,4-dithi-in- 2,3-dicarbonitrile</td><td>3347-22-6</td><td>153</td><td>Fungizid</td></tr>
+<tr><td>Dodemorph</td><td>4-cyclododecyl-2,6-dimethylmorpholine</td><td>1593-77-7</td><td>300</td><td>Fungizid</td></tr>
+<tr><td>Dodine</td><td>1-dodecylguanidinium acetate</td><td>2439-10-3</td><td>101</td><td>Fungizid</td></tr>
+<tr><td>E2Z13-18 Ac</td><td>E,Z-2,13 Octadecadien-1-yl acetate</td><td>086252-74-6</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>E3Z13-18 Ac</td><td>E,Z-3,13 Octadecadien-1-yl acetate</td><td>053120-26-6</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>E7Z9-12 Ac</td><td>(7E, 9Z)-dodeca-7,9-dien-1-yl acetate</td><td>55774-32-8</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>E8-12 Ac</td><td>(E)-dodec-8-en-1-yl acetate</td><td>38363-29-0</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>E8E10-12 OH (Codlemone)</td><td>(E,E)-dodeca-8,10-dien-1-ol</td><td>33956-49-9</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>Eisen-III-Phosphat</td><td>Ferric phosphate</td><td>10045-86-0</td><td>629</td><td>Molluskizid, Stoff mit geringem Risiko</td></tr>
+<tr><td>Eisen-II-Sulfat</td><td>FeO<sub>4</sub>S X H2O</td><td>13463-43-9</td><td>–</td><td>Herbizid</td></tr>
+<tr><td>Emamectin benzoate</td><td>4"-deoxy-4"-(methylamino)-(4"R)-avermectin B1 benzoate</td><td>155569-91-8</td><td>791</td><td>Insektizid</td></tr>
+<tr><td>Essigsäure</td><td>acetic acid</td><td>64-19-7</td><td>–</td><td>Herbizid</td></tr>
+<tr><td>Ethephon</td><td>2-Chloroethylphosphonic acid</td><td>16672-87-0</td><td>373</td><td>Phytoregulator</td></tr>
+<tr><td>Ethofumesate</td><td>(±)-2-ethoxy-2,3-dihydro-3,3-dimethylbenzofuran- 5-yl methanesufonate</td><td>26225-79-6</td><td>233</td><td>Herbizid</td></tr>
+<tr><td>Ethylen</td><td>Ethylen</td><td>74-85-1</td><td>839</td><td>Phytoregulator</td></tr>
+<tr><td>Etofenprox</td><td>2-(4-ethoxyphenyl)-2-methylpropyl 3-phenoxybenzyl ether</td><td>80844-07-1</td><td>471</td><td>Insektizid</td></tr>
+<tr><td>Etoxazole</td><td>(*RS*)-5-*tert*-butyl-2-[2-(2,6-difluorophenyl)- 4,5-dihydro-1,3-oxazol-4-yl]phenetole</td><td>153233-91-1</td><td>623</td><td>Akarizid</td></tr>
+<tr><td>Eukalyptusöl</td><td>-</td><td>-</td><td>–</td><td>Insektizid</td></tr>
+<tr><td>Famoxadone</td><td>3-anilino-5-methyl-5-(4-phenoxyphenyl)-1,3-oxazolidine-2,4-dione</td><td>131807-57-3</td><td>594</td><td>Fungizid</td></tr>
+<tr><td>Fenazaquin</td><td>4-tert-butylphenethyl quinazolin-4-yl ether</td><td>120928-09-8</td><td>693</td><td>Acarizide</td></tr>
+<tr><td>Fenhexamid</td><td>1-Methyl-cyclohexanecarboxyloic acid 2,3-dichloro- 4-hydroxy-phenyl)-amide</td><td>126833-17-8</td><td>603</td><td>Fungizid</td></tr>
+<tr><td>Fenoxaprop-P-ethyl</td><td>(R)-2-[4-(6-chloro-2-benzoxazol-2-yloxy)phenoxy]propionate</td><td>71283-80-2</td><td>484.202</td><td>Herbizid</td></tr>
+<tr><td>Fenpropidin</td><td>(RS)-1-[3-(4-tert-butylphenyl)-2-methylpropyl]piperidine</td><td>67306-00-7</td><td>520</td><td>Fungizid</td></tr>
+<tr><td>Fenpyrazamin</td><td>S-Allyl-5-amino-2,3-dihydro- 2-isopropyl-3-oxo-4-(o-tolyl) pyrazol-1-carbothioat</td><td>473798-59-3</td><td>832</td><td>Fungizid</td></tr>
+<tr><td>Fenpyroximate</td><td>tert-butyl (E)-α-(1,3-dimethyl-5-phenoxypyrazol- 4-ylmethyleneamino-oxy)-p-toluate</td><td>111812-58-9</td><td>695</td><td>Akarizid</td></tr>
+<tr><td>Fettsäuren C7 bis C20</td><td></td><td></td><td></td><td>Insektizid, Akarizid, Herbizid, Phytoregulator</td></tr>
+<tr><td>(Pelargonsäure)</td><td>Nonanoic Acid</td><td>112-05-0</td><td>888</td><td></td></tr>
+<tr><td>(Fettsäuren C7-C18)</td><td></td><td>67701-09-1</td><td>889</td><td></td></tr>
+<tr><td>(Caprylsäure)</td><td>Octanoic Acid</td><td>124-07-2</td><td>887</td><td></td></tr>
+<tr><td>(Caprinsäure)</td><td>Decanoic Acid</td><td>334-48-5</td><td>886</td><td></td></tr>
+<tr><td>(Fettsäuren C7 bis C20)</td><td></td><td></td><td>891</td><td></td></tr>
+<tr><td>(Ölsäure)</td><td>cis-9-Octadecenoic Acid</td><td>112-07-80</td><td>894</td><td></td></tr>
+<tr><td>(und die Natrium- und Kaliumsalze dieser Säuren)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Flazasulfuron</td><td>1-(4,6-dimethoxypyrimidin-2-yl)-3-(3-trifluoromethyl-2-pyridylsulfonyl)urea</td><td>104040-78-0</td><td>595</td><td>Herbizid</td></tr>
+<tr><td>Flonicamid</td><td>N-cyanomethyl-4-(trifluoromethyl)nicotinamide</td><td>158062-67-0</td><td>763</td><td>Insektizid</td></tr>
+<tr><td>Florasulam</td><td>2’,6’,8-trifluoro-5-methoxy[1,2,4]triazolo[1,5-*c*]pyrimidine-2-sulfonanilide</td><td>145701-23-1</td><td>616</td><td>Herbizid</td></tr>
+<tr><td>Fluazifop-P-butyl</td><td>butyl-(R)-2-[4-(5-trifluormethyl-2-pyridyloxy)phenoxy]propionat</td><td>79241-46-6</td><td>467.205</td><td>Herbizid</td></tr>
+<tr><td>Fluazinam</td><td>3-chloro-N-(3-chloro-5-trifluoromethyl-2-pyridyl)-α,α,α-trifluoro-2,6-dinitro-p-toluidine</td><td>79622-59-6</td><td>521</td><td>Fungizid</td></tr>
+<tr><td>Fludioxonil</td><td>4-(2,2-difluoro-1,3-benzodioxol-4-yl)pyrrole-3-carbonitrile</td><td>131341-86-1</td><td>522</td><td>Fungizid</td></tr>
+<tr><td>Flufenacet</td><td>N-(4-fluoro-phenyl)-N-isopropyl-2-(5-trifluoro- methyl-[1,3,4]thiadiazol-2-yloxy)-acetamide</td><td>142459-58-3</td><td>588</td><td>Herbizid</td></tr>
+<tr><td>Flumioxazin</td><td>7-fluoro-6-[(3,4,5,6-tetrahydro)phtalimido]-4- (2-propynyl)-1,4-benzoxazion-3(2H)-one</td><td>103361-09-7</td><td>578</td><td>Herbizid</td></tr>
+<tr><td>Fluopicolide</td><td>2,6-dichloro-N-[3-chloro-5-(trifluorométhyl)- 2-pyridylméthyl]benzamide</td><td>239110-15-7</td><td>787</td><td>Fungizid</td></tr>
+<tr><td>Fluopyram</td><td>N-{2-[3-chloro-5-(trifluoromethyl)-2-pyridyl]ethyl}-α,α,α-trifluoro-o-toluamide</td><td>658066-35-4</td><td>807</td><td>Fungizid</td></tr>
+<tr><td>Fluoxastrobin</td><td>(E)-{2-[6-(2-chlorophenoxy)-5-fluoropyrimidin-4-yloxy]phenyl}(5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime</td><td>361377-29-9</td><td>746</td><td>Fungizid</td></tr>
+<tr><td>Flurochloridon</td><td>(3RS,4RS;3RS,4SR)-3-cloro-4-chloromethyl-1- (α,α,α-trifluoro-*m*-tolyl)-2-pyrrolidone</td><td>61213-25-0</td><td>430</td><td>Herbizid</td></tr>
+<tr><td>Fluroxypyr</td><td>4-amino-3,5-dichloro-6-fluoro-2-pyridyloxyacetic acid *Variante*: fluroxypyr-meptyl</td><td>69377-81-7 81406-37-3</td><td>431 431.214</td><td>Herbizid</td></tr>
+<tr><td>Flutolanil</td><td>α,α,α,-trifluoro-3’-isopropoxy-o-toluanilide</td><td>66332-96-5</td><td>524</td><td>Fungizid</td></tr>
+<tr><td>Fluxapyroxad</td><td>3-(Difluormethyl)-1-methyl-N- (3′,4′,5′-trifluorbiphenyl-2-yl) pyrazol-4-carboxamid</td><td>907204-31-3</td><td>828</td><td>Fungizid</td></tr>
+<tr><td>Folpet</td><td>N-(trichloromethylthio)phthalimide</td><td>133-07-3</td><td>75</td><td>Fungizid</td></tr>
+<tr><td>Foramsulfuron</td><td>1-(4, 6-dimethoxypyrimidin-2yl)-3-(2-dimethylcarbamoyl-5-formamidophenylsulfonyl)urea</td><td>173159-57-4</td><td>659</td><td>Herbizid</td></tr>
+<tr><td>Fosetyl</td><td>ethyl hydrogen phosphonate *Variante*: Aluminiumfosetyl (Fosetyl-Al) Aluminium-tris-(O-ethylphosphonat)</td><td>15845-66-6 39148-24-8</td><td>384 384.013</td><td>Fungizid</td></tr>
+<tr><td>Gelbsenfmehl</td><td></td><td></td><td>–</td><td>Fungizid</td></tr>
+<tr><td>Gibberellin</td><td>GA<sub>4</sub>: (3S,3aR,4S,4aR,7R,9aR,9bR,12S)-12-hydroxy-3-methyl-6-methylene-2-oxoperhydro-4a,7-methano-3,9b-propanoazuleno[1,2-b]furan-4-carboxylic acid GA<sub>7</sub>: (3S,3aR,4S,4aR,7R,9aR,9bR,12S)-12-hydroxy-3-methyl-6-methylene-2-oxoperhydro-4a,7-methano-9b,3-propenoazuleno[1,2-b]furan-4-carboxylic acid</td><td>GA<sub>4</sub>: 468-44-0 GA<sub>7</sub>: 510-75-8 GA<sub>4</sub>A<sub>7</sub> mixture: 8030-53-3</td><td>904</td><td>Phytoregulator</td></tr>
+<tr><td>Gibberellinsäure</td><td>(3S,3aS,4S,4aS,7S,9aR,9bR,12S)-7,12-dihydroxy-3-methyl-6-methylene-2-oxoperhydro-4a,7-methano- 9b,3-propeno[1,2-b]furan-4-carboxylic acid</td><td>77-06-5</td><td>307</td><td>Phytoregulator</td></tr>
+<tr><td>Glyphosat</td><td>N-(phosphonomethyl)glycine</td><td>1071-83-6</td><td>284</td><td>Herbizid</td></tr>
+<tr><td>Glyphosat-trimesium</td><td>N-(Phosphonomethyl)-glycin-trimethylsulfoniumsalz</td><td>81591-81-3</td><td>284.114</td><td>Herbizid</td></tr>
+<tr><td>Grüne-Minze-Öl</td><td>spearmint oil</td><td>8008-79-5</td><td></td><td>Phytoregulator</td></tr>
+<tr><td>Halauxifen-methyl</td><td>Methyl-4-amino-3-chlor-6-(4-chlor-2-fluor-3-methoxyphenyl)pyridin-2-carboxylat</td><td>943831-98-9</td><td>970.201</td><td>Herbizid</td></tr>
+<tr><td>Hexythiazox</td><td>(4RS5RS)-5-(4-chlorophenyl)-N-cyclohexyl- 4-methyl-2-oxothiazolidine-3-carboxamide</td><td>78587-05-0</td><td>439</td><td>Akarizid</td></tr>
+<tr><td>Hornmehl</td><td>–</td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
+<tr><td>Hymexazol</td><td>5-methylisoxazol-3-ol</td><td>10004-44-1</td><td>528</td><td>Saatbeizmittel</td></tr>
+<tr><td>Imazalil</td><td>(±)-1-(β-allyloxy-2,4-dichlorophenylethyl)imidazole</td><td>35554-44-0</td><td>335</td><td>Fungizid</td></tr>
+<tr><td>Imazamox</td><td>(RS)-2-(4-isopropyl-4-methyl-5-oxo-2-imidazolin- 2-yl)-5-methoxymethylnicotinic acid</td><td>114311-32-9</td><td>619</td><td>Herbizid</td></tr>
+<tr><td>Indoxacarb</td><td>(S)-methyl 7-chloro-2,5-dihydro-2[[(methoxy- carbonyl) [4-(trifluoro-methoxy)phenyl]amino]carbonyl]-indeno[1,2-e][1,3,4]oxadiazine-4a (3H)-carboxylate</td><td>173584-44-6</td><td>612</td><td>Insektizid</td></tr>
+<tr><td>Iodosulfuron</td><td>methyl 4-iodo-2-[3-(4-methoxy-6-methyl-1,2,5-triazin-2-yl)ureidosulfonyl]benzoate, sodium salt</td><td>144550-36-7</td><td>634</td><td>Herbizid</td></tr>
+<tr><td>Iprovalicarb</td><td>{2-Methyl-1-[1-(4-methylphenyl)-ethylcarbonyl]-propyl}-carbamic acid isopropyl ester</td><td>140923-17-7</td><td>620</td><td>Fungizid</td></tr>
+<tr><td>Ipsdienol</td><td>(S)-2-methyl-6-methyleneocta-2,7-dien-4-ol</td><td>35628-00-3</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>Isoxadifen-ethyl</td><td>Ethyl 5,5-diphenyl-2-isoxazoline-3-carboxylate</td><td>163520-33-0</td><td>666.202</td><td>Herbizid «Safener»</td></tr>
+<tr><td>Isoxaflutole</td><td>5-cyclopropyl-1,2-oxazol-4-yl α,α,α-trifluoro- 2-mesyl-p-tolyl ketone</td><td>141112-29-0</td><td>575</td><td>Herbizid</td></tr>
+<tr><td>Japan Myths Oil</td><td></td><td></td><td>–</td><td>Insektizid</td></tr>
+<tr><td>Kaliseife</td><td></td><td></td><td>–</td><td>Fungizid</td></tr>
+<tr><td>Kaliumbicarbonat</td><td>potassium hydrogencarbonate</td><td>298-14-6</td><td>–</td><td>Fungizid</td></tr>
+<tr><td>Kaliumnitrat (Kalisalpeter)</td><td>KNO<sub>3</sub></td><td>7757-79-1</td><td>–</td><td>Rodentizid</td></tr>
+<tr><td>Kaliumphosphonat</td><td>KH2PO3 und K2HPO3</td><td></td><td>756</td><td>Fungizid</td></tr>
+<tr><td>Kaolin</td><td>Kaolin (CA-Name)</td><td>1332-58-7</td><td>–</td><td>Insektizid</td></tr>
+<tr><td>Kresoxim-methyl</td><td>methyl (E)-2-methoxyimino-[2-(o-tolyloxymethyl)phenyl]acetate</td><td>143390-89-0</td><td>568</td><td>Fungizid</td></tr>
+<tr><td>Kupfer</td><td>copper Variante (als Karbonat, basisch): [μ-[carbonato(2−)-κO:κO′]]dihydroxydicopper Variante (als Hydroxid): copper(II) hydroxide Variante (als Hydroxidcalciumchlorid) Variante (als Kalkpräparat): A mixture of calcium hydroxide and copper(II) sulfate *Variante* (als Naphthenat): copper naphthenate *Variante* (als Octanoat): copper octanoate *Variante* (als Oxychlorid): dicopper chloride trihydroxide *Variante* (als Sulfat): copper(II) tetraoxosulfate *Variante* (Tetrakupferhexahydroxidsulfat): cupric sulfate-tricupric hydroxide</td><td>12002-03-8 12069-69-1 20427-59-2 8011-63-0 1338-02-9 20543-04-8 1332-40-7 7758-98-7 1333-22-8</td><td>44 – 44.305 44.604 – 44.407 44.602 44.306 –</td><td>Fungizid Fungizid Fungizid, Bakterizid Fungizid, Bakterizid Fungizid Fungizid Fungizid Fungizid Fungizid, Bakterizid Fungizid</td></tr>
+<tr><td>Lambda-Cyhalothrin</td><td>(S)-α-cyano-3-phenoxybenzyl (Z)-(1R,3R)-3- (2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate and (R)-α-cyano-3-phenoxybenzyl (Z)-(1S,3S)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate</td><td>91465-08-6</td><td>463</td><td>Insektizid</td></tr>
+<tr><td>Laminarin</td><td>(1-3)-13-D-glucan</td><td>9008-22-4</td><td>671</td><td>Stimulator natürlicher Abwehrkräfte, Stoff mit geringem Risiko</td></tr>
+<tr><td>Lecithin</td><td>L-α-Phosphatidyl choline</td><td>8002-43-5</td><td>–</td><td>Fungizid</td></tr>
+<tr><td>Lenacil</td><td>3-cyclohexyl-1,5,6,7-tetrahydrocyclopentapyrimidine-2,4(3H)-dione</td><td>2164-08-1</td><td>163</td><td>Herbizid</td></tr>
+<tr><td>Limonen</td><td>4-isopropenyl-1-metyhlcyclohexene</td><td>5989-27-5</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>Magnesiumphosphid</td><td>trimagnesium diphosphide</td><td>12057-74-8</td><td>228</td><td>Mittel zum Schutz von Erntegütern</td></tr>
+<tr><td>Maleïnsäurehydrazid</td><td>6-Hydroxy-2H-pyridazin-3-on</td><td>123-33-1</td><td>310</td><td>Phytoregulator</td></tr>
+<tr><td>Maltodextrin</td><td></td><td>9050-36-6</td><td>801</td><td>Insektizid, Akarizid</td></tr>
+<tr><td>Mandipropamid</td><td>(RS)-2-(4-chlorophenyl)-N-[3-methoxy-4-(prop-2-ynyloxy)phenethyl]-2-(prop-2-ynyloxy)acetamide</td><td>374726-62-2</td><td>783</td><td>Fungizid</td></tr>
+<tr><td>MCPA</td><td>(4-chloro-2-methylphenoxy)acetic acid</td><td>94-74-6</td><td>2</td><td>Herbizid</td></tr>
+<tr><td>MCPB</td><td>4-(4-chloro-o-tolyloxy)butyric acid</td><td>94-81-5</td><td>50</td><td>Herbizid</td></tr>
+<tr><td>Mecoprop-P</td><td>(R)-2-(4-chloro-o-tolyloxy)propionic acid</td><td>16484-77-8</td><td>475</td><td>Herbizid</td></tr>
+<tr><td>Mefenpyr-Diethyl</td><td>diethyl (RS)-1-(2,4-dichlororphenyl)-5-methyl-2-pyrazoline-3,5-dicarboxylate</td><td>135590-91-9</td><td>651.229</td><td>Herbizid «Safener»</td></tr>
+<tr><td>Mepanipyrim</td><td>N-(4-methyl-6-prop-1-ynylpyrimidin-2-yl)aniline</td><td>110235-47-7</td><td>611</td><td>Fungizid</td></tr>
+<tr><td>Mepiquat</td><td>1,1-dimethylpiperidinium *Variante*: Mepiquat-chloride</td><td>15302-91-7 24307-26-4</td><td>440 440.302</td><td>Phytoregulator</td></tr>
+<tr><td>Meptyldinocap</td><td>Mischung aus 75–100 % (RS)-2-(1-Methylheptyl)-4,6-dinitrophenylcrotonat und 25–0 % (RS)-2-(1-Methylheptyl)-4,6-dinitrophenylisocrotonat</td><td>6119-92-2</td><td>811</td><td>Fungizid</td></tr>
+<tr><td>Mesosulfuron-methyl</td><td>methyl 2-[3-(4,6-dimethoxypyrimidin-2-yl)ureidosulfonyl]-4-methanesulfonamidomethylbenzoate</td><td>208465-21-8</td><td>663.201</td><td>Herbizid</td></tr>
+<tr><td>Mesotrione</td><td>2-(4-mesyl-2-nitrobenzoyl)cyclohexane-1,3-dione</td><td>104206-82-8</td><td>625</td><td>Herbizid</td></tr>
+<tr><td>Metalaxyl-M</td><td>methyl N-(methocyacetyl)-N-2,6-xylyl-D-alaninate</td><td>70630-17-0</td><td>580</td><td>Fungizid</td></tr>
+<tr><td>Metaldehyd</td><td>r-2,c-4,c-6,c-8-tetramethyl-1,3,5,7-tetroxocane</td><td>108-62-3</td><td>62</td><td>Molluskizid</td></tr>
+<tr><td>Metamitron</td><td>4-amino-4,5-dihydro-3-methyl-6-phenyl-1,2,4-triazin- 5-one</td><td>41394-05-2</td><td>381</td><td>Herbizid</td></tr>
+<tr><td>Metazachlor</td><td>2-chloro-N-(pyrazol-1-ylmethyl)acet-2’,6’-xylidide</td><td>67129-08-2</td><td>411</td><td>Herbizid</td></tr>
+<tr><td>Metconazole</td><td>(1RS,5RS;1RS,5SR)-5-(4-chlorobenzyl)-2,2-dimethyl-1-(1H-1,2,4-triazol-1ylmethyl)cyclopentanol</td><td>125116-23-6</td><td>706</td><td>Fungizid</td></tr>
+<tr><td>Methoxyfenozide</td><td>*N*-tert-butyl-*N′*-(3-methoxy-o-toluoyl)-3,5-xylohydrazide</td><td>161050-58-4</td><td>656</td><td>Insektizid</td></tr>
+<tr><td>Methylbutenol</td><td>2-methyl-3-buten-2-ol</td><td>115-18-4</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>Metiram</td><td>zinc ammoniate ethylenebis(dithiocarbamate) – poly (ethylenethiuram disulfide)</td><td>9006-42-2</td><td>478</td><td>Fungizid</td></tr>
+<tr><td>Metobromuron</td><td>3-(4-Bromophenyl)-1-methoxy-1-Methylharnstoff</td><td>3060-89-7</td><td>168</td><td>Herbizid</td></tr>
+<tr><td>Metrafenon</td><td>3′-bromo-2,3,4,6′-tetramethoxy-2′,6-dimethylbenzophenone</td><td>220899-03-6</td><td>752</td><td>Fungizid</td></tr>
+<tr><td>Metribuzin</td><td>4-amino-6-tert-butyl-4,5-dihydro-3-methylthio-1,2,4-triazin-5-one</td><td>21087-64-9</td><td>283</td><td>Herbizid</td></tr>
+<tr><td>Metsulfuron-methyl</td><td>methyl-2-[[[[(4-methoxy-6-methyl-1,3,5-triazin-zyl)-amino]carbonyl]amino]sulfonil]benzoate</td><td>74223-64-6</td><td>441.201</td><td>Herbizid</td></tr>
+<tr><td>Milbemectin</td><td>mixture of 70% (10E,14E,16E)-(1R,4S,5′S,6R,6′R,8R,13R,20R,21R,24S)-6′-ethyl-21,24-dihydroxy-5′,11,13,22-tetramethyl-(3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene)-6-spiro-2′-(tetrahydropyran)-2-one and 30% (10E,14E,16E)-(1R,4S,5′S,6R,6′R,8R,13R,20R,21R,24S)-21,24-dihydroxy-5′,6′,11,13,22-pentamethyl-(3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene)-6-spiro-2′-(tetrahydropyran)-2-one</td><td>51596-10-2 (milbemycin A3) + 51596-11-3 (milbemycin A4)</td><td>660</td><td>Akarizid, Insektizid</td></tr>
+<tr><td>Mineralstoffe</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
+<tr><td>Napropamide</td><td>(RS)-N,N-diethyl-2-(1-naphthyloxy)propionamide</td><td>15299-99-7</td><td>271</td><td>Herbizid</td></tr>
+<tr><td>Nicosulfuron</td><td>2-(4,6-dimethoxypyrimidin-2-ylcarbamoylsulfamoyl)-N,N-dimethylnicotinamide</td><td>111991-09-4</td><td>709</td><td>Herbizid</td></tr>
+<tr><td>Octansäure (als Na- und Fe-Salz)</td><td>octanoic acid</td><td>124-07-2</td><td>–</td><td>Wundverschlussmittel</td></tr>
+<tr><td>Oleum foeniculi</td><td>(Fenchelöl)</td><td></td><td>–</td><td>Fungizid</td></tr>
+<tr><td>Orangenöl</td><td>(R)-4-Isopropenyl-1-methylcyclohexen</td><td>8028-48-6</td><td>902</td><td>Insektizid, Fungizid</td></tr>
+<tr><td>Orthophenylphenol</td><td>[1,1'-biphenyl]-2-ol</td><td>90-43-7</td><td>246</td><td>Desinfektionsmittel</td></tr>
+<tr><td>Oxyfluorfen</td><td>2-chloro-α,α,α-trifluoro-p-tolyl 3-ethoxy-4-nitrophenyl ether</td><td>42874-03-3</td><td>538</td><td>Herbizid</td></tr>
+<tr><td>Paclobutrazol</td><td>(2RS,3RS)-1-(4-chlorophenyl)-4,4-dimethyl-2-(1H-1,2,4-triazol-1-yl) pentan-3-ol</td><td>76738-62-0</td><td>445</td><td>Phytoregulator</td></tr>
+<tr><td>Paraffinöl</td><td></td><td>8012-95-1, 64742-46-7, 72623-86-0, 8042-47-5, 97862-82-3</td><td>–</td><td>Insektizid</td></tr>
+<tr><td>Parfümöl</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
+<tr><td>Penconazole</td><td>1-(2,4-dichloro-β-propylphenethyl)-1H-1,2,4-triazole</td><td>66246-88-6</td><td>446</td><td>Fungizid</td></tr>
+<tr><td>Pendimethalin</td><td>N-(1-ethylpropyl)-2,6-dinitro-3,4-xylidine</td><td>40487-42-1</td><td>357</td><td>Herbizid</td></tr>
+<tr><td>Penoxsulam</td><td>3-(2,2-difluoroethoxy)-N- (5,8-dimethoxy[1,2,4] triazolo[1,5-c]pyrimidin-2-yl)-α,α,α-trifluorotoluene-2-sulfonamide</td><td>219714-96-2</td><td>758</td><td>Herbizid</td></tr>
+<tr><td>Penthiopyrad</td><td>*(RS)*-N-[2-(1,3- Dimethylbutyl)-3-thienyl]-1- methyl-3- (trifluormethyl)pyrazol-4- carboxamid</td><td>183675-82-3</td><td>824</td><td>Fungizid</td></tr>
+<tr><td>Pethoxamid</td><td>2-chloro-N-(2-ethoxyethyl)-N-(2-methyl-1-phenylprop-1-enyl)acetamide</td><td>106700-29-2</td><td>665</td><td>Herbizid</td></tr>
+<tr><td>Phenmedipham</td><td>methyl 3-(3-methylcarbaniloyloxy)carbanilate</td><td>13684-63-4</td><td>77</td><td>Herbizid</td></tr>
+<tr><td>Phosmet</td><td>O,O-dimethyl S-phthalimidomethyl phosphorodithioate</td><td>732-11-6</td><td>318</td><td>Insektizid, Akarizid</td></tr>
+<tr><td>Picloram</td><td>4-amino-3,5,6-trichloropyridine-2-carboxylic acid</td><td>1918-02-1</td><td>174</td><td>Herbizid</td></tr>
+<tr><td>Picolinafen</td><td>4′-Fluor-6-(α,α,α-trifluor-m-tolyloxy)pyridin- 2-carboxanilid</td><td>137641-05-5</td><td>639</td><td>Herbizid</td></tr>
+<tr><td>Pinoxaden</td><td>8-(2,6-diethyl-p-tolyl)-1,2,4,5-tetrahydro-7-oxo- 7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl 2,2-dimethylpropionate</td><td>243973-20-8</td><td>776</td><td>Herbizid</td></tr>
+<tr><td>Piperonyl butoxid</td><td>2-(2-butoxyethoxy)ethyl 6-propypiperonyl ether</td><td>51-03-6</td><td>33</td><td>Synergist</td></tr>
+<tr><td>Pirimicarb</td><td>2-dimethylamino-5,6-dimethylpyrimidin-4-yl dimethylcarbamate</td><td>23103-98-2</td><td>231</td><td>Insektizid</td></tr>
+<tr><td>Pirimiphos-methyl</td><td>O,O-dimethyl O-2-diethylamino-6-methylpyrimidin- 4-yl phosphorothioate</td><td>29232-93-7</td><td>239</td><td>Insektizid, Akarizid</td></tr>
+<tr><td>Prochloraz</td><td>N-propyl-N-[2-(2,4,6-trichlorophenoxy)ethyl]imidazole-1-carboxamide</td><td>67747-09-5</td><td>407</td><td>Fungizid</td></tr>
+<tr><td>Prohexadione-Calcium</td><td>calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate</td><td>127277-53-6</td><td>567.020</td><td>Phytoregulator</td></tr>
+<tr><td>Propamocarb</td><td>propyl 3-(dimethylamino)propylcarbamate *Variante*: propamocarb hydrochloride</td><td>24579-73-5 25606-41-1</td><td>399 399.601</td><td>Fungizid</td></tr>
+<tr><td>Propaquizafop</td><td>2-isopropylideneamino-oxyethyl (R)-2-[4-(6-chloroquinoxalin-2-yloxy)phenoxy]propionate</td><td>111479-05-1</td><td>713</td><td>Herbizid</td></tr>
+<tr><td>Propoxycarbazone-sodium</td><td>methyl 2-(4,5-dihydro-4-methyl-5-oxo-3-propoxy-1H-1,2,4-triazol-1-yl)carboxamidosulfonylbenzoate, sodium salt</td><td>181274-15-7</td><td>655.011</td><td>Herbizid</td></tr>
+<tr><td>Propyzamide</td><td>3,5-dichloro-N-(1,1-dimethylpropynyl)benzamide</td><td>23950-58-5</td><td>315</td><td>Herbizid</td></tr>
+<tr><td>Proquinazid</td><td>6-iodo-2-propoxy-3-propylquinazolin-4(3H)-one</td><td>189278-12-4</td><td>764</td><td>Fungizid</td></tr>
+<tr><td>Prosulfocarb</td><td>S-benzyl dipropylthiocarbamate</td><td>52888-80-9</td><td>539</td><td>Herbizid</td></tr>
+<tr><td>Prosulfuron</td><td>1-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)-3-[2-(3,3,3-trifluoropropyl)-phenylsulfonyl]-urea</td><td>94125-34-5</td><td>579</td><td>Herbizid</td></tr>
+<tr><td>Proteine</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
+<tr><td>Prothioconazol</td><td>(RS)-2-[2-(1-chlorocyclopropyl)-3-(2-chlorophenyl)-2-hydroxypropyl]-2,4-dihydro-1,2,4-triazole-3-thione</td><td>178928-70-6</td><td>745</td><td>Fungizid</td></tr>
+<tr><td>Pyraclostrobin</td><td>methyl N-(2-{[1-(4-chlorophenyl)-1H-pyrazol-3-yl]oxymethyl}phenyl) N-methoxy carbamate</td><td>175013-18-0</td><td>657</td><td>Fungizid</td></tr>
+<tr><td>Pyraflufen-ethyl</td><td>ethyl 2-chloro-5-(4-chloro-5-difluoromethoxy-1-methylpyrazol-3-yl)-4-fluorophenoxyacetate</td><td>129630-17-7</td><td>605.202</td><td>Herbizid</td></tr>
+<tr><td>Pyrethrine</td><td>(Z)-(S)-2-methyl-4-oxo-3-(penta-2,4-dienyl)cyclopent-2-enyl (1R,3R)-2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropanecarboxylate</td><td>121-21-1</td><td>32</td><td>Insektizid, Akarizid</td></tr>
+<tr><td>Pyridate</td><td>6-chloro-3-phenylpyridazin-4-yl S-octyl thiocarbonate</td><td>55512-33-9</td><td>447</td><td>Herbizid</td></tr>
+<tr><td>Pyrimethanil</td><td>N-(4,6-dimethylpyrimidin-2-yl)aniline</td><td>53112-28-0</td><td>714</td><td>Fungizid</td></tr>
+<tr><td>Pyriofenon</td><td>(5-Chlor-2-methoxy-4-methyl- 3-pyridyl)(4,5,6-trimethoxy-o- tolyl)methanon</td><td>688046-61-9</td><td>827</td><td>Fungizid</td></tr>
+<tr><td>Pyroxsulam</td><td>N-(5,7-dimethoxy[1,2,4]triazolo[1,5-a]pyrimidin-2-yl)-2- methoxy-4-(trifluoromethyl)pyridine-3-sulfonamide</td><td>422556-08-9</td><td>793</td><td>Herbizid</td></tr>
+<tr><td>Quassiaextrakt</td><td></td><td></td><td>–</td><td>Insektizid</td></tr>
+<tr><td>Quinmerac</td><td>7-Chlor-3-methyl-8-chinolincarbonsäure</td><td>90717-03-6</td><td>563</td><td>Herbizid</td></tr>
+<tr><td>Quizalofop-P-ethyl</td><td>ethyl (R)-2-[4-(6-chlorquinoxalin-2-yloxy) phenoxy] propionate</td><td>100646-51-3</td><td>641.202</td><td>Herbizid</td></tr>
+<tr><td>Rapsöl</td><td>rapeseed oil</td><td>68187-84-8</td><td>–</td><td>Insektizid</td></tr>
+<tr><td>Repellents (Geruch) tierischen oder pflanzlichen Ursprungs / Fischöl</td><td>Fischöl</td><td>100085-40-3</td><td></td><td>Wildabhaltemittel</td></tr>
+<tr><td>Rimsulfuron</td><td>1-(4,6-dimethoxypyrimidin-2-yl)-3-(etylsulfonyl-2-pyridylsulfonyl)urea</td><td>122931-48-0</td><td>716</td><td>Herbizid</td></tr>
+<tr><td>(S)-cis-Verbenol</td><td>[S-(1α,2α,5α)]-4,6,6-trimethylbicyclo[3.1.1]-hept- 3-en-2-ol</td><td>18881-04-4</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>Schachtelhalmextrakt</td><td></td><td></td><td>–</td><td>Fungizid, Bakterizid</td></tr>
+<tr><td>Schaffett</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
+<tr><td>Schwefel</td><td>sulfur</td><td>7704-34-9</td><td>18</td><td>Fungizid, Akarizid</td></tr>
+<tr><td>Schwefelkalk</td><td>Calcium polysulfide</td><td>1344-81-6</td><td>17</td><td>Fungizid</td></tr>
+<tr><td>Schwefelsaure Tonerde</td><td>Aluminium sulfate</td><td>10043-01-3</td><td>–</td><td>Fungizid, Bakterizid</td></tr>
+<tr><td>Sesamöl raffiniert</td><td>fatty acid glycerol ester</td><td></td><td>–</td><td>Insektizid (Synergist)</td></tr>
+<tr><td>Siliciumoxyd</td><td>silicium dioxide</td><td>7631-86-9</td><td>–</td><td>Fungizid</td></tr>
+<tr><td>S-Metolachlor</td><td>(S)-2-chloro-N-(2-ethyl-6-methyl-phenyl)-N-(2methoxy-1-methyl-ethyl)-acetamide</td><td>87392-12-9</td><td>607</td><td>Herbizid</td></tr>
+<tr><td>Spinetoram</td><td>(1S,2R,5R,7R,9R,10S,14R,15S,19S)-7-(6-deoxy-3-O-ethyl-2,4-di-O-methyl-á-L-mannopyranosyloxy)-15-[(2R,5S,6R)-5-(dimethylamino)tetrahydro-6-methylpyran-2-yloxy]-19-ethyl-14-methyl-20-oxatetracyclo[10.10.0.02,10.05,9]docos-11-ene-13,21-dion</td><td>935545-74-7</td><td>802</td><td>Insektizid</td></tr>
+<tr><td>Spinosad</td><td>mixture of spinosyn A and spinosyn D</td><td>168316-95-8</td><td>636</td><td>Insektizid</td></tr>
+<tr><td>Spirotetramat</td><td>cis-4-(ethoxycarbonyloxy)-8-methoxy-3-(2,5-xylyl)-1-azaspiro[4.5]dec-3-en-2-one</td><td>203313-25-1</td><td>795</td><td>Insektizid</td></tr>
+<tr><td>Spiroxamin</td><td>8-tert-butyl-1,4-dioxaspiro[4.5]decan-2-ylmethyl(ethyl)(propyl)amine</td><td>118134-30-8</td><td>572</td><td>Fungizid</td></tr>
+<tr><td>Styrol-Butylacrylat-Copolymerisat</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
+<tr><td>Sulcotrione</td><td>2-(2-chloro-4-mesylbenzoyl)-1,3-cyclohexane-1,3- dione</td><td>99105-77-8</td><td>723</td><td>Herbizid</td></tr>
+<tr><td>Sulfosulfuron</td><td>1-(4,6-dimethoxypyrimidin-2-yl)-3-(2-ethylsulfonylimidazo[1,2-a]pyridin-3-yl-sulfonylurea</td><td>141776-32-1</td><td>601</td><td>Herbizid</td></tr>
+<tr><td>Sulfoxaflor</td><td>[Methyl(oxo){1-[6-(trifluoromethyl)-3-pyridyl]ethyl} ‑λ6‑sulfanyliden]cyanamid</td><td>946578-00-3</td><td>820</td><td>Insektizid</td></tr>
+<tr><td>Sulfuryl fluoride</td><td>sulfuryl fluoride</td><td>002699-79-8</td><td>757</td><td>Insektizid</td></tr>
+<tr><td>Tau-Fluvalinat</td><td>(RS)-α-cyano-3-phenoxybenzyl N-(2-chloro- α,α,α- trifluoro-p-tolyl)-D-valinate (Isomerenverhältnis 1:1)</td><td>102851- 06-9</td><td>786</td><td>Insektizid</td></tr>
+<tr><td>Tebuconazol</td><td>(RS)-1-p-chlorophenyl-4,4-dimethyl-3-(1H-1,2,4-triazol-1-ylmethyl)pentan-3-ol</td><td>107534-96-3</td><td>494</td><td>Fungizid</td></tr>
+<tr><td>Tebufenozide</td><td>N-tert-butyl-N’-(4-ethylbenzoyl)-3,5-dimethylbenzohydrazide</td><td>112410-23-8</td><td>724</td><td>Insektizid</td></tr>
+<tr><td>Tebufenpyrad</td><td>N-(4-tert-butylbenzyl)-4-chloro-3-ethyl-1-methylpyrazole-5-carboxamide</td><td>119168-77-3</td><td>725</td><td>Akarizid</td></tr>
+<tr><td>Tefluthrin</td><td>2,3,5,6-tetrafluoro-4-methylbenzyl (Z)-(1RS,3RS)-3-(2-chloro-3,3,3-trifluoroprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate</td><td>79538-32-2</td><td>451</td><td>Insektizid</td></tr>
+<tr><td>Tembotrion</td><td>2-{2-chloro-4-mesyl-3-[(2,2,2-trifluoroethoxy)methyl]benzoyl}cyclohexane-1,3-dione</td><td>335104-84-2</td><td>790</td><td>Herbizid</td></tr>
+<tr><td>Terbuthylazine</td><td>N2-tert-butyl-6-chloro-N4-ethyl-1,3,5-triazine-2,4-diamine</td><td>5915-41-3</td><td>234</td><td>Herbizid</td></tr>
+<tr><td>Thiabendazole</td><td>2-(thiazol-4-yl)benzimidazole</td><td>148-79-8</td><td>323</td><td>Fungizid</td></tr>
+<tr><td>Thiencarbazone</td><td>methyl 4-[(4,5-dihydro-3-methoxy-4-methyl-5-oxo-1 H-1,2,4-triazol-1 -yl)carbonylsulfamoyl]-5- methylthiophene-3-carboxylate</td><td>317815-83-1</td><td>797</td><td>Herbizid</td></tr>
+<tr><td>Thifensulfuron-methyl</td><td>3-(4-methoxy-6-methyl-1,3,5-triazin-2-ylcarbamoylsulamoyl)thiophen-2-carboxylic acid</td><td>79277-27-3</td><td>452.201</td><td>Herbizid</td></tr>
+<tr><td>Tierkörpermehl</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
+<tr><td>Tolclofos-methyl</td><td>O-2,6-dichloro-p-tolyl O,O-dimethyl phosphorothioate</td><td>57018-04-9</td><td>479</td><td>Fungizid</td></tr>
+<tr><td>Triazoxid</td><td>7-chloro-3-imidazol-1-yl-1,2,4-benzotriazine 1-oxide</td><td>72459-58-6</td><td>729</td><td>Fungizid</td></tr>
+<tr><td>Tribenuron</td><td>2-[4-methoxy-6-methyl-1,3,5-triazin-2-yl(methyl)carbamoylsulfamoyl]benzoic acid</td><td>106040-48-6</td><td>546</td><td>Herbizid</td></tr>
+<tr><td>Tribenuron-methyl</td><td>methyl ester of 2-[4-methoxy-6-methyl-1,3,5-triazin- 2-yl(methyl)carbamoylsulfamoyl]benzoic acid</td><td>101200-48-0</td><td>546.201</td><td>Herbizid</td></tr>
+<tr><td>Triclopyr</td><td>3,5,6-trichloro-2-pyridyloxyacetic acid</td><td>55335-06-3</td><td>376</td><td>Herbizid</td></tr>
+<tr><td>Trifloxystrobin</td><td>(E,E)-methoxyimino-{2-[1-(3-trifluoromethyl- phenyl)-ethylideneaminooxymethyl]-phenyl}-acetic acid methyl ester</td><td>141517-21-7</td><td>617</td><td>Fungizid</td></tr>
+<tr><td>Triflusulfuron-methyl</td><td>Methyl 2-[4-dimethylamino-6-(2,2,2-trifluoroethoxy)-1,3,5-triazin-2-ylcarbamoylsulfamoyl]-m-toluic acid</td><td>126535-15-7</td><td>731.201</td><td>Herbizid</td></tr>
+<tr><td>Trinexapac-ethyl</td><td>ethyl 4-cyclopropyl(hydroxy)methylene-3,5-dioxocyclohexanecarboxylate</td><td>95266-40-3</td><td>732.202</td><td>Phytoregulator</td></tr>
+<tr><td>Triticonazole</td><td>(±)-(E)-5+(4-chlorobenzylidene)-2,2-dimethyl-1-(1H-1,2,4-triazol-1-methyl)cyclopentanol</td><td>131983-72-7</td><td>652</td><td>Fungizid</td></tr>
+<tr><td>Tritosulfuron</td><td>1-(4-methoxy-6-trifluoromethyl-1,3,5-triazin-2-yl)-3- (2-trifluoromethylbenzenesulfonyl)urea</td><td>142469-14-5</td><td>735</td><td>Herbizid</td></tr>
+<tr><td>Valifenalat</td><td>Methyl-*N*-(isopropoxycarbonyl)-L-valyl- (3*RS*)-3-(4-chlorphenyl)-β-alaninat</td><td>283159-90-0</td><td>857</td><td>Fungizid</td></tr>
+<tr><td>Verbissmittel (Grundkörper)</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
+<tr><td>Vinylcopolymere</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
+<tr><td>Vinylesterpolymere</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
+<tr><td>Winter Green Oil</td><td></td><td></td><td>–</td><td>Insektizid</td></tr>
+<tr><td>Wollwachs</td><td></td><td></td><td>–</td><td>Wildabhaltemittel</td></tr>
+<tr><td>Z3Z13-18Ac</td><td>(Z,Z)-3,13-octadecadienyl acetate</td><td>53120-27-7</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>Z8-12 Ac</td><td>(Z)-dodec-8-en-1-yl acetate</td><td>28079-04-1</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>Z9-12 Ac</td><td>(Z)-dodec-9-en-1-yl acetate</td><td></td><td>–</td><td>Pheromon</td></tr>
+<tr><td>Z9-14Ac</td><td>(Z)-tetradec-9-en-1-yl acetate</td><td>16725-53-4</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>Z11-14 Ac</td><td>(Z)-tetradec-11-en-1-yl acetate</td><td>20711-10-8</td><td>–</td><td>Pheromon</td></tr>
+<tr><td>Z11-14OH</td><td>(Z)-11-Tetradecen-1-ol</td><td>34010-15-6</td><td></td><td>Pheromon</td></tr>
+<tr><td>Zinkphosphid</td><td>Trizinkdiphosphid</td><td>1314-84-7</td><td>69</td><td>Rodentizid</td></tr>
+<tr><td>Ziram</td><td>zinc bis(dimethyldithiocarbamate)</td><td>137-30-4</td><td>31</td><td>Fungizid</td></tr>
+<tr><td>Zoxamid</td><td>3,5-Dichloro-N-(3-chloro-1-ethyl-1-methyl-2- oxopropyl)-p-toluamide</td><td>156052-68-5</td><td>640</td><td>Fungizid</td></tr>
 </table>
 
 ### Teil B: Mikroorganismen
@@ -2219,55 +2229,58 @@ Anhang 1*[^t-1]*
 ### Teil C: Makroorganismen
 
 <table>
-<tr><th>Gebräuchliche Bezeichnung, Kennnummer</th><th>Beschreibung</th><th>Organismus</th><th>Wirkungsart/ Besondere Bedingungen und Einschränkungen</th></tr>
-<tr><td>Adalia bipunctata</td><td>Räuberische Käfer</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Amblyseius barkeri (mackenziei)</td><td>Raubmilben</td><td>Milben</td><td>Insektizid</td></tr>
-<tr><td>Amblyseius californicus</td><td>Raubmilben</td><td>Milben</td><td>Insektizid</td></tr>
-<tr><td>Amblyseius degenerans</td><td>Raubmilben</td><td>Milben</td><td>Insektizid</td></tr>
-<tr><td>Anisopteromalus calandrae</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Anthocoris nemoralis</td><td>Räuberische Wanzen</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Aphelinus abdominalis</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Aphidius colemani</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Aphidius ervi</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Aphidius matricariae</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Aphidoletes aphidimyza</td><td>Räuberische Dipteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Chrysoperla carnea</td><td>Räuberische Nevropteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Cryptolaemus montrouzieri</td><td>Räuberische Käfer</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Dacnusa sibirica</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Diglyphus isaea</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Encarsia formosa</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Encyrtus lecaniorum</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Ephedrus cerasicola</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Eretmocerus eremicus</td><td>Parasitische Hymenopteren</td><td>Insekt</td><td>Insektizid</td></tr>
-<tr><td>Eretmocerus mundus</td><td>Parasitische Hymenopteren</td><td>Insekt</td><td>Insektizid</td></tr>
-<tr><td>Feltiella acarisuga</td><td>Räuberische Gallmücke</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Habrobracon hebetor</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Heterorhabditis bacteriophora</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>Insektizid</td></tr>
-<tr><td>Heterorhabditis megidis</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>Insektizid</td></tr>
-<tr><td>Heterorhabditis sp.</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>Insektizid</td></tr>
-<tr><td>Hypoaspis aculeifer</td><td>Raubmilben</td><td>Milben</td><td>Insektizid</td></tr>
-<tr><td>Lariophagus distinguendus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Leptomastidea abnormis</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Leptomastix dactylopii</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Macrolophus pigmaeus</td><td>Räuberische Wanzen</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Metaphycus helvolus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Microterys flavus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Neoseiulus cucumeris (Synonym: Amblyseius cucumeris)</td><td>Raubmilben</td><td>Milben</td><td>Insektizid</td></tr>
-<tr><td>Orius insidiosus</td><td>Räuberische Wanzen</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Orius laevigatus</td><td>Räuberische Wanzen</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Orius majusculus</td><td>Räuberische Wanzen</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Phasmarhabditis hermaphrodita</td><td>Schneckenparasitische Nematoden</td><td>Nematoden</td><td>Molluskizid</td></tr>
-<tr><td>Phytoseiulus persimilis</td><td>Raubmilben</td><td>Milben</td><td>Insektizid</td></tr>
-<tr><td>Praon volucre</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Pseudaphycus maculipennis</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Steinernema carpocapsae</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>Insektizid</td></tr>
-<tr><td>Steinernema carpocapsae all strain</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>Insektizid</td></tr>
-<tr><td>Steinernema feltiae</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>Insektizid</td></tr>
-<tr><td>Stratiolaelaps scimitus</td><td>Raubmilben</td><td>Milben</td><td>Insektizid</td></tr>
-<tr><td>Trichogramma brassicae Bezdenko</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Trichogramma cacoeciae</td><td>Parasitische Hymenopteren</td><td>Insekt</td><td>Insektizid</td></tr>
-<tr><td>Trichogramma evanescens</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td></tr>
-<tr><td>Typhlodromips swirskii</td><td>Raubmilben</td><td>Milben</td><td>Insektizid</td></tr>
+<tr><th>Gebräuchliche Bezeichnung, Kennnummer</th><th>Beschreibung</th><th colspan="2">Organismus</th><th colspan="2">Wirkungsart/ Besondere Bedingungen und Einschränkungen</th></tr>
+<tr><td>Adalia bipunctata</td><td>Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Amblyseius barkeri (mackenziei)</td><td>Raubmilben</td><td colspan="2">Milben</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Amblyseius californicus</td><td>Raubmilben</td><td colspan="2">Milben</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Amblyseius degenerans</td><td>Raubmilben</td><td colspan="2">Milben</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Anisopteromalus calandrae</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Anthocoris nemoralis</td><td>Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Aphelinus abdominalis</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Aphidius colemani</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Aphidius ervi</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Aphidius matricariae</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Aphidoletes aphidimyza</td><td>Räuberische Dipteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Aphytis melinus</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Chrysoperla carnea</td><td>Räuberische Nevropteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Cryptolaemus montrouzieri</td><td>Räuberische Käfer</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Dacnusa sibirica</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Diglyphus isaea</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Encarsia formosa</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Encyrtus lecaniorum</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Ephedrus cerasicola</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Eretmocerus eremicus</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekt</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Eretmocerus mundus</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekt</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Feltiella acarisuga</td><td>Räuberische Gallmücke</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Habrobracon hebetor</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Heterorhabditis bacteriophora</td><td>Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Heterorhabditis megidis</td><td>Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Heterorhabditis sp.</td><td>Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Hypoaspis aculeifer</td><td>Raubmilben</td><td colspan="2">Milben</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Lariophagus distinguendus</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Leptomastidea abnormis</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Leptomastix dactylopii</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Macrolophus pigmaeus</td><td>Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Metaphycus helvolus</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Microterys flavus</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Neoseiulus cucumeris (Synonym: Amblyseius cucumeris)</td><td>Raubmilben</td><td colspan="2">Milben</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Orius insidiosus</td><td>Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Orius laevigatus</td><td>Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Orius majusculus</td><td>Räuberische Wanzen</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Phasmarhabditis hermaphrodita</td><td>Schneckenparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="2">Molluskizid</td></tr>
+<tr><td>Phytoseiulus persimilis</td><td>Raubmilben</td><td colspan="2">Milben</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Praon volucre</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Pseudaphycus maculipennis</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Rodolia cardinalis</td><td>Räuberische Käfer</td><td>Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Steinernema carpocapsae</td><td>Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Steinernema carpocapsae all strain</td><td>Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Steinernema feltiae</td><td>Entomoparasitische Nematoden</td><td colspan="2">Nematoden</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Stratiolaelaps scimitus</td><td>Raubmilben</td><td colspan="2">Milben</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Transeius montdorensis</td><td>Raubmilben</td><td>Milben</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Trichogramma brassicae Bezdenko</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Trichogramma cacoeciae</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekt</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Trichogramma evanescens</td><td>Parasitische Hymenopteren</td><td colspan="2">Insekten</td><td colspan="2">Insektizid</td></tr>
+<tr><td>Typhlodromips swirskii</td><td>Raubmilben</td><td colspan="2">Milben</td><td colspan="2">Insektizid</td></tr>
 </table>
 
 ### Teil D: Grundstoffe
@@ -2277,22 +2290,22 @@ Anhang 1*[^t-1]*
 <tr><td>Bier CAS-Nr.: 8029-31-0</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung als Lockmittel für Becherfallen</td></tr>
 <tr><td>Tonhaltige Pflanzenkohle – CAS-Nr.: 7440-44-0 (Aktivkohle) – CAS-Nr.: 1333-86-4 (Kohlenschwarz) – CAS-Nr.: 1302-78-9 (Bentonit)</td><td>Gemisch aus Pflanzenkohle und Bentonit. Kohle: Erforderliche Reinheit gemäss Verordnung (EU) Nr. 231/2012[^annex1-lvlu1-partD-1] Bentonit: Erforderliche Reinheit gemäss Durchführungsverordnung (EU) Nr. 1060/2013[^annex1-lvlu1-partD-2]</td><td>Anwendung zur Bekämpfung von Esca im Weinbau mittels Einarbeitung in den Boden; Höchstdosis 500 kg/ha</td></tr>
 <tr><td>Chitosanhydrochlorid CAS-Nr.: 9012-76-4</td><td>Reinheit gemäss Spezifikationen des Europäischen Arzneibuches. Höchstgehalt an Schwermetallen: 40 ppm</td><td>Anwendung als Fungizid und Bakterizid zur Saatgutbeizung oder Blattanwendung; Höchstdosis 800 g a.i/ha</td></tr>
-<tr><td>Natriumchlorid CAS-Nr.: 7647-14-5</td><td>Reinheit 970 g/kg Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung als Fungizid gegen Echten Mehltau der Weinrebe, Stadium BBCH 10 bis 57; Höchstdosis 6 kg a.i/ha und pro Jahr; Wartefrist 30 Tage</td></tr>
+<tr><td>Natriumchlorid CAS-Nr.: 7647-14-5</td><td>Reinheit 970 g/kg Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung als Fungizid gegen Echten Mehltau der Weinrebe, Stadium BBCH 10 bis 57; Höchstdosis 6 kg a.i./ha und pro Jahr; Wartefrist 30 Tage. Anwendung als Insektizid gegen Traubenwickler, Stadium BBCH 55 bis 91; Höchstdosis 3.6 kg a.i./ha und pro Jahr; Wartefrist 30 Tage. Anwendung gegen Pilzkrankheiten in Speisepilzen; max. 0.03g a.i./kg Substrat.</td></tr>
 <tr><td>Equisetum arvense L.</td><td>Reinheit gemäss Spezifikationen des Europäischen Arzneibuches</td><td>Extraktion, mittels Abkochen in heissem Wasser, der sterilen, getrockneten, oberirdischen Sprossachsen</td></tr>
 <tr><td>Brennnesselextrakt</td><td>100 % Brennnesselextrakt</td><td>Extraktion mittels Fermentation in Wasser, anschliessend Filtration</td></tr>
-<tr><td>Fruktose CAS-Nr: 57-48-7</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung gegen Apfelwickler; Höchstdosis 100 g/ha; max. 7 Anwendungen pro Jahr</td></tr>
+<tr><td>Fruktose CAS-Nr: 57-48-7</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung gegen Apfelwickler; Höchstdosis 100 g/ha; max. 7 Anwendungen pro Jahr. Anwendung gegen die Amerikanische Rebzikade (Scaphoideus titanus), Stadium BBCH 17-57; max. 45 g/ha und Jahr. Anwendung gegen den Falschen Mehltau in Reben, Stadium BBCH 10-57; max. 240g/ha und Jahr.</td></tr>
 <tr><td>Sonnenblumenöl CAS-Nr.: 8001-21-6</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung als Fungizid in Tomate gegen Echten Mehltau, Stadium 32 bis 71; Höchstkonzentration 0,5 %; Blüten nicht behandeln</td></tr>
-<tr><td>Natriumhydrogencarbonat CAS-Nr.: 144-55-8</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung als Fungizid für folgende Indikationen: – Gemüse, Zierpflanzen, Rebe, Echter Mehltau; Stadium BBCH 12 bis 89; Höchstkonzentration 1 %; Wartefrist 1 Tag; – Apfel, Schorf, Stadium 10 bis 85; Höchstkonzentration 1 %; Wartefrist 1 Tag.</td></tr>
-<tr><td>Calciumhydroxid CAS-Nr. 1305-62-0</td><td>920 g/kg Lebensmittelqualität Folgende Verunreinigung dürfen die nachstehend genannten Werte nicht überschreiten (ausgedrückt in mg/kg in der Trockensubstanz): Barium 300 mg/kg, Fluorid 50 mg/kg, Arsen 3 mg/kg, Blei 2 mg/kg.</td><td>Anwendung ausschliesslich ausserhalb der Vegetationsperiode in Kern- und Steinobst zur Bekämpfung von Krebs. Anwendung durch Aufstreichen auf den Krebs.</td></tr>
+<tr><td>Natriumhydrogencarbonat CAS-Nr.: 144-55-8</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung als Fungizid für folgende Indikationen: – Gemüse, Zierpflanzen, Rebe, Echter Mehltau; Stadium BBCH 12 bis 89; Höchstkonzentration 1 %; Wartefrist 1 Tag; – Apfel, Schorf, Stadium 10 bis 85; Höchstkonzentration 1 %; Wartefrist 1 Tag; – Bekämpfung von Lagerkrankheiten im Obst, nach der Ernte; max. 2 Behandlungen mit max. 4%. Bekämpfung von Moosen in Topfpflanzen, max. 122 kg/ha; Verträglichkeit zuerst auf wenigen Pflanzen prüfen.</td></tr>
+<tr><td>Calciumhydroxid CAS-Nr. 1305-62-0</td><td>920 g/kg Lebensmittelqualität Folgende Verunreinigung dürfen die nachstehend genannten Werte nicht überschreiten (ausgedrückt in mg/kg in der Trockensubstanz): Barium 300 mg/kg, Fluorid 50 mg/kg, Arsen 3 mg/kg, Blei 2 mg/kg.</td><td>Anwendung ausschliesslich ausserhalb der Vegetationsperiode in Kern- und Steinobst zur Bekämpfung von Krebs.</td></tr>
 <tr><td>Entrahmte Milch (Magermilch)</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Die verwendete Magermilch muss mit einem Verfahren nach Artikel 49 Absatz 1 der Hygieneverordnung EDI vom 16. Dezember 2016[^annex1-lvlu1-partD-3] (HyV) hitzebehandelt worden sein. Die Magermilch darf nicht eingesetzt werden auf den essbaren Teilen von Pflanzen, die zum menschlichen Verzehr gedacht sind. Eine Anwendung auf Keltertrauben ist erlaubt, wenn die Etikette des damit hergestellten Weins die Angaben nach Artikel 75 Absatz 1 Buchstabe e der Verordnung des EDI vom 16. Dezember 2016[^annex1-lvlu1-partD-4] über Getränke enthält.</td></tr>
-<tr><td>Lecithine CAS-Nr.: 8002-43-5</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung als Fungizid gemäss folgenden Indikationen: – Apfel, Echter Mehltau, Stadium BBCH 03 bis 79; Höchstdosis 750 g a.i/ha; Wartefrist 5 Tage; – Pfirsich, Kräuselkrankheit, Stadium BBCH 03 bis 79; Höchstdosis 750 g a.i/ha; Wartefrist 5 Tage; – Stachelbeere, Stadium BBCH 10 bis 85; Höchstdosis 2000 g a.i/ha; Wartefrist 5 Tage; – Gurke, Kopfsalat, Nüsslisalat/Feldsalat, Tomate, Brüsseler Witloof, Echter Mehltau, Stadium BBCH 10 bis 89; Höchstdosis 2250 g a.i/ha; Wartefrist 5 Tage; – Zierpflanzen, Stadium BBCH 10 bis 89; Höchstdosis 225 g a.i/ha; – Rebe, Echter und Falscher Mehltau, Stadium BBCH 10 bis 85; Höchstdosis 225 g a.i/ha; Wartefrist 30 Tage.</td></tr>
+<tr><td>Lecithine CAS-Nr.: 8002-43-5</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung als Fungizid gemäss folgenden Indikationen: – Apfel, Echter Mehltau, Stadium BBCH 03 bis 79; Höchstdosis 750 g a.i/ha; Wartefrist 5 Tage; – Pfirsich, Kräuselkrankheit, Stadium BBCH 03 bis 79; Höchstdosis 750 g a.i/ha; Wartefrist 5 Tage; – Stachelbeere, Stadium BBCH 10 bis 85; Höchstdosis 2000 g a.i/ha; Wartefrist 5 Tage; – Gurke, Kopfsalat, Nüsslisalat/Feldsalat, Tomate, Brüsseler Witloof, Echter Mehltau, Krautfäule, Alternaria, Stadium BBCH 10 bis 89; Höchstdosis 2250 g a.i/ha; Wartefrist 5 Tage; – Zierpflanzen, Stadium BBCH 10 bis 89; Höchstdosis 225 g a.i/ha; – Rebe, Echter und Falscher Mehltau, Stadium BBCH 10 bis 85; Höchstdosis 225 g a.i/ha; Wartefrist 30 Tage; – Erdbeeren, Himbeeren, Pilzkrankheiten, Stadium BBCH 10-89; Höchstdosis 1 kg a.i./ha; – Kartoffeln, Krautfäule, Stadium BBCH 10-90; Höchstdosis 800 g a.i./ha; – Karotten, Echter Mehltau, Stadium BBCH 19-90; Höchstdosis 2 kg a.i./ha.</td></tr>
 <tr><td>Molke</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Die verwendete Molke muss mit einem Verfahren nach Artikel 49 Absatz 1 HyV hitzebehandelt worden sein. Die Molke darf nicht eingesetzt werden auf den essbaren Teilen von Pflanzen, die zum menschlichen Verzehr gedacht sind. Eine Anwendung auf Keltertrauben ist erlaubt, wenn die Etikette des damit hergestellten Weins die Angaben nach Artikel 75 Absatz 1 Buchstabe e der Verordnung des EDI über Getränke enthält.</td></tr>
 <tr><td>Wasserstoffperoxid CAS-Nr.: 7722-84-1</td><td>Wässrige Lösung (&lt; 5 %) Zur Herstellung der Lösung verwendetes Wasserstoffperoxid muss eine Reinheit gemäss den Spezifikationen des JECFA[^annex1-lvlu1-partD-5] der FAO/WHO haben.</td><td>Anwendung als Saatbeizmittel und zur Desinfektion von Schnittwerkzeug</td></tr>
 <tr><td>Diammoniumphosphat CAS-Nr.: 7783-28-0</td><td>Weintaugliche Qualität</td><td>Anwendung als Lockmittel für Becherfallen zum Massenfang der Kirschfruchtfliege und Olivenfruchtfliege</td></tr>
 <tr><td>Senfsaatpulver</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung zur Beizung von Weizensaat; Höchstdosis 1500 g a.i/100 kg Saatgut</td></tr>
-<tr><td>*Salix* spp. cortex</td><td>Reinheit gemäss Spezifikationen des Europäischen Arzneibuches.</td><td>Extraktion durch Aufguss der Rinde in heissem Wasser. Anwendung als Fungizid für folgende Indikationen: – Apfel, Echter Mehltau, Schorf, Stadium BBCH 53 bis 67; Höchstdosis 2222 g a.i/ha; – Pfirsich, Kräuselkrankheit, Stadium BBCH 10 bis 57; Höchstdosis 2222 g a.i/ha; – Rebpflanze, Echter und Falscher Mehltau, Stadium BBCH 10 bis 57; Höchstdosis 222 g a.i/ha.</td></tr>
-<tr><td>Saccharose CAS-Nr.: 57-50-1</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung als Lockmittel für Becherfallen zum Massenfang und als Auslöser für folgende Indikationen: – Apfel, Apfelwickler, Stadion BBCH 6 bis 65; Höchstdosis 10 g a.i/ha; – Mais, Maiszünsler, Stadium BBC 12 bis 51; Höchstdosis 2 g a.i/ha.</td></tr>
-<tr><td>Talkum E 553b CAS-Nr.: 14807-96-6</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung &lt; 0,1 % alveolengängiges kristallines Siliciumdioxid</td><td>Anwendung als Insektenabwehrmittel auf Obstbäumen ab Stadium BBCH 41; Höchstdosierung 20 kg a.i/ha</td></tr>
+<tr><td>*Salix* spp. cortex</td><td>Reinheit gemäss Spezifikationen des Europäischen Arzneibuches.</td><td>Extraktion durch Aufguss der Rinde in heissem Wasser. Anwendung als Fungizid für folgende Indikationen: – Apfel, Echter Mehltau, Schorf, Stadium BBCH 53 bis 67; max. 2222 g a.i/ha; – Pfirsich, Kräuselkrankheit, Stadium BBCH 10 bis 57; max. 2222 g a.i/ha; – Rebpflanze, Echter und Falscher Mehltau, Stadium BBCH 10 bis 57; max. 667 g a.i/ha.</td></tr>
+<tr><td>Saccharose CAS-Nr.: 57-50-1</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung als Lockmittel für Becherfallen zum Massenfang. Stärkung der pflanzeneigenen Widerstandskraft gegen folgende Indikationen: – Apfel, Apfelwickler, Stadium BBCH 6 bis 89; max. 1 kg a.i./ ha und Jahr; – Mais, Maiszünsler, Stadium BBC 12 bis 89; max. 80 g a.i./ ha und Jahr: – Reben, Amerikanische Rebzikade, Stadium BBCH 17 bis 57; max. 45 g a.i./ ha und Jahr – Reben, Falscher Mehltau, Stadium BBCH 10-57, max. 240 g a.i./ ha und Jahr</td></tr>
+<tr><td>Talkum E 553b CAS-Nr.: 14807-96-6</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung &lt; 0,1 % alveolengängiges kristallines Siliciumdioxid</td><td>Anwendung als Insekten- und Pilzabwehrmittel auf Obstbäumen ab Stadium BBCH 41; Höchstdosierung 20 kg a.i/ha. Anwendung als Insekten- und Pilzabwehrmittel im Weinbau ab Stadium BBCH 20; max. 12,75 kg a.i/ha.</td></tr>
 <tr><td>Wein</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Anwendung nur als Lockmittel für Becherfallen zum Massenfang</td></tr>
 <tr><td>Essig CAS-Nr.: 90132-02-8</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung Max. 10 % Essigsäure</td><td>Anwendung als Lockmittel für Becherfallen zum Massenfang, zur Saatbeizung und zur Desinfektion von Schnittwerkzeug. Anwendung als Vorauflauf-Herbizid; Risiko von Phytotoxizität auf jungen Pflanzen.</td></tr>
 <tr><td>Zwiebelöl CAS-Nr.: 8002-72-0</td><td>Lebensmittel gemäss Lebensmittelgesetzgebung</td><td>Auf Doldenblütlern gegen die Möhrenfliege</td></tr>
@@ -2311,14 +2324,13 @@ Anhang 1*[^t-1]*
 <tr><td>Aclonifen</td><td>74070-46-5</td></tr>
 <tr><td>alpha-Cypermethrin</td><td>67375-30-8</td></tr>
 <tr><td>Benzovindiflupyr</td><td>1072957-71-1</td></tr>
-<tr><td>Bromadiolon</td><td>28772-56-7</td></tr>
 <tr><td>Bromuconazol</td><td>116255-48-2</td></tr>
 <tr><td>Chlortoluron</td><td>15545-48-9</td></tr>
 <tr><td>Cyproconazol</td><td>94361-06-5</td></tr>
 <tr><td>Cyprodinil</td><td>121552-61-2</td></tr>
 <tr><td>Difenoconazol</td><td>119446-68-3</td></tr>
 <tr><td>Diflufenican</td><td>83164-33-4</td></tr>
-<tr><td>Epoxiconazol</td><td>133855-98-8</td></tr>
+<tr><td>Emamectin benzoate</td><td>155569-91-8</td></tr>
 <tr><td>Etofenprox</td><td>80844-07-1</td></tr>
 <tr><td>Etoxazol</td><td>153233-91-1</td></tr>
 <tr><td>Famoxadon</td><td>131807-57-3</td></tr>
@@ -2326,7 +2338,7 @@ Anhang 1*[^t-1]*
 <tr><td>Flufenacet</td><td>142459-58-3</td></tr>
 <tr><td>Flumioxazin</td><td>103361-09-7</td></tr>
 <tr><td>Fluopicolide</td><td>239110-15-7</td></tr>
-<tr><td>Haloxyfop-(R)-Methylester</td><td>72619-32-0</td></tr>
+<tr><td>Flurochloridon</td><td>61213-25-0</td></tr>
 <tr><td>Imazamox</td><td>114311-32-9</td></tr>
 <tr><td>Kupfer *Variante* (als Karbonat, basisch): [μ-[carbonato(2−)-κO:κO']]dihydroxydicopper *Variante* (als Hydroxid): copper(II) hydroxide *Variante* (als Hydroxidcalciumchlorid) *Variante* (als Kalkpräparat): A mixture of calcium hydroxide and copper(II) sulfate *Variante* (als Naphthenat): copper naphthenate *Variante* (als Octanoat): copper octanoate *Variante* (als Oxychlorid): dicopper chloride trihydroxide *Variante* (als Sulfat): copper(II) tetraoxosulfate *Variante* (Tetrakupferhexahydroxidsulfat): cupric sulfate-tricupric hydroxide</td><td>12002-03-8 12069-69-1 20427-59-2 8011-63-0 1338-02-9 20543-04-8 1332-40-7 7758-98-7 1333-22-8</td></tr>
 <tr><td>Lambda-Cyhalothrin</td><td>91465-08-6</td></tr>
@@ -2335,7 +2347,6 @@ Anhang 1*[^t-1]*
 <tr><td>Methoxyfenozide</td><td>161050-58-4</td></tr>
 <tr><td>Metribuzin</td><td>21087-64-9</td></tr>
 <tr><td>Metsulfuron-methyl</td><td>74223-64-6</td></tr>
-<tr><td>Myclobutanil</td><td>88671-89-0</td></tr>
 <tr><td>Nicosulfuron</td><td>111991-09-4</td></tr>
 <tr><td>Oxyfluorfen</td><td>42874-03-3</td></tr>
 <tr><td>Paclobutrazol</td><td>76738-62-0</td></tr>
@@ -2346,7 +2357,7 @@ Anhang 1*[^t-1]*
 <tr><td>Sulcotrion</td><td>99105-77-8</td></tr>
 <tr><td>Tebuconazol</td><td>107534-96-3</td></tr>
 <tr><td>Tebufenpyrad</td><td>119168-77-3</td></tr>
-<tr><td>Thiacloprid</td><td>111988-49-9</td></tr>
+<tr><td>Tembotrion</td><td>335104-84-2</td></tr>
 <tr><td>Triazoxid</td><td>72459-58-6</td></tr>
 <tr><td>Ziram</td><td>137-30-4</td></tr>
 </table>
@@ -2671,13 +2682,13 @@ Alle Pflanzenschutzmittel müssen mit dem folgenden Sicherheitshinweis gekennzei
 </table>
 
 [^annex8-lvlu1-lvl2-lvl21-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^annex8-lvlu1-lvl2-lvl21-2]: [AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132)[1135](https://fedlex.data.admin.ch/eli/oc/2009/183), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594), [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)[3857](https://fedlex.data.admin.ch/eli/oc/2014/661)
+[^annex8-lvlu1-lvl2-lvl21-2]: [AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132), [1135](https://fedlex.data.admin.ch/eli/oc/2009/183); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594); [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357), [3857](https://fedlex.data.admin.ch/eli/oc/2014/661)
 
 ### 2.2 Sicherheitshinweise in Bezug auf die Umwelt (SPe)
 
 <table>
 <tr><th>Code</th><th>Besondere Bestimmungen</th><th>Zuteilungskriterien für Standardsätze</th></tr>
-<tr><td>SPe 1</td><td>Zum Schutz von [Grundwasser / Bodenorganismen] das Pflanzenschutzmittel «...» oder andere ...haltige Pflanzenschutzmittel *(Identifizie**rung des Wirk**stoffes oder einer Wirkstoffgruppe)* nicht mehr als ... *(Angabe der Anwendungshäufigkeit in einem bestimmten Zei**t**raum)* anwenden.</td><td>Dieser Satz ist für Pflanzenschutzmittel zu verwenden, bei denen eine Prüfung nach den einheitlichen Grundsätzen für eine oder mehrere der zugelassenen Anwendungen zeigt, dass Risikominderungsmassnahmen notwendig sind, um eine Anreicherung im Boden, Auswirkungen auf Regenwürmer oder andere Bodenorganismen oder Bodenmikroflora und/oder eine Grundwasserverunreinigung zu verhindern.</td></tr>
+<tr><td>SPe 1</td><td>Zum Schutz von [Grundwasser / Bodenorganismen] das Pflanzenschutzmittel «...» oder andere ...haltige Pflanzenschutzmittel *(Identifizie**rung des Wirk**stoffes oder einer Wirkstoffgruppe)* nicht mehr als ... *(Angabe der Anwendungshäufigkeit in einem bestimmten Zeit**raum)* anwenden.</td><td>Dieser Satz ist für Pflanzenschutzmittel zu verwenden, bei denen eine Prüfung nach den einheitlichen Grundsätzen für eine oder mehrere der zugelassenen Anwendungen zeigt, dass Risikominderungsmassnahmen notwendig sind, um eine Anreicherung im Boden, Auswirkungen auf Regenwürmer oder andere Bodenorganismen oder Bodenmikroflora und/oder eine Grundwasserverunreinigung zu verhindern.</td></tr>
 <tr><td>SPe 2</td><td>Zum Schutz von [Grundwasser/Gewässerorganismen] nicht auf *(genaue Angabe der Bodenart oder Situation)* Böden ausbringen.</td><td>Dieser Satz kann als Risikominderungsmassnahme verwendet werden, um eine mögliche Verunreinigung von Grund- oder Oberflächenwasser unter empfindlichen Bedingungen zu vermeiden (z.B. in Zusammenhang mit der Art der Böden, der Topographie oder bei entwässerten Böden), wenn eine Prüfung gemäss den einheitlichen Grundsätzen für eine oder mehrere der zugelassenen Anwendungen zeigt, dass Risikominderungsmassnahmen notwendig sind, um unannehmbare Auswirkungen zu verhindern.</td></tr>
 <tr><td>SPe 3</td><td>Zum Schutz von [Gewässerorganismen / Nichtzielpflanzen / Nichtzielarthropoden / Insekten] eine unbehandelte Pufferzone von *(genaue Angabe des Abstandes)* zu [Nichtkulturland / Oberflächengewässer] einhalten.</td><td>Dieser Satz sollte verwendet werden, um Nichtzielpflanzen, Nichtzielarthropoden und/oder Gewässerorganismen zu schützen, wenn eine Prüfung gemäss den einheitlichen Grundsätzen zeigt, dass für eine oder mehrere der zugelassenen Anwendungen Risikominderungsmassnahmen notwendig sind, um unannehmbare Auswirkungen zu verhindern.</td></tr>
 <tr><td>SPe 4</td><td>Zum Schutz von [Gewässerorganismen / Nichtzielpflanzen] nicht auf versiegelten Oberflächen, wie Asphalt, Beton, Kopfsteinpflaster [Gleisanlagen] bzw. in anderen Fällen, die ein hohes Abschwemmungsrisiko bergen, ausbringen.</td><td>Je nach Anwendungsmuster des Pflanzenschutzmittels kann die Zulassungsstelle diesen Satz verwenden, um das Risiko der Abschwemmung zu begrenzen und damit Wasserorganismen und Nichtzielpflanzen zu schützen.</td></tr>
@@ -2945,9 +2956,9 @@ Die Beurteilungsstellen bewerten die Rückstandsmengen in protokollierten Versuc
 
 ### 9BI-2.4.2.4Rückstandsmengen in Erzeugnissen tierischen Ursprungs
 
-Die Beurteilungsstellen bewerten die Rückstandsmengen in Erzeugnissen tierischen Ursprungs und berücksichtigen dabei die in Anhang III Teil A Ziffer 8.4 der Richtlinie 91/414/EWG[^annex9-partI-lvlu2-lvld4e196-lvlu22-1] vorgesehenen Informationen sowie die Rückstände anderer Anwendungen.
+Die Beurteilungsstellen bewerten die Rückstandsmengen in Erzeugnissen tierischen Ursprungs und berücksichtigen dabei die in Anhang III Teil A Ziffer 8.4 der Richtlinie 91/414/EWG[^annex9-partI-lvlu2-lvld4e197-lvlu22-1] vorgesehenen Informationen sowie die Rückstände anderer Anwendungen.
 
-[^annex9-partI-lvlu2-lvld4e196-lvlu22-1]: Siehe Fussnote zu Art. 86 Abs. 1 Bst. a.
+[^annex9-partI-lvlu2-lvld4e197-lvlu22-1]: Siehe Fussnote zu Art. 86 Abs. 1 Bst. a.
 
 ### 9BI-2.4.2.5Potenzielle Exposition der Konsumenten und Konsumentinnen über die Nahrung
 
@@ -2965,7 +2976,7 @@ Bei der Bewertung des Verbleibs und der Verteilung des Pflanzenschutzmittels in 
 
 ### 9BI-2.5.1.1Verbleib und Verteilung im Boden
 
-<sup>1</sup> Die Beurteilungsstellen bewerten, ob das Pflanzenschutzmittel unter den vorgeschlagenen Anwendungsbedingungen bis in den Boden gelangen kann. Besteht diese Möglichkeit, so bewerten sie die Abbaugeschwindigkeit und den Abbauweg, die Mobilität im Boden sowie die Veränderung der Gesamtkonzentration des Wirkstoffs (gebundene und nicht gebundene Rückstände [^annex9-partI-lvlu2-lvld4e196-lvlu27-1]) und der Metaboliten, Abbau- und Reaktionsprodukte, die bei Verwendung des Pflanzenschutzmittels unter den vorgeschlagenen Anwendungsbedingungen im Boden der vorgesehenen Anwendungsregion zu erwarten sind.
+<sup>1</sup> Die Beurteilungsstellen bewerten, ob das Pflanzenschutzmittel unter den vorgeschlagenen Anwendungsbedingungen bis in den Boden gelangen kann. Besteht diese Möglichkeit, so bewerten sie die Abbaugeschwindigkeit und den Abbauweg, die Mobilität im Boden sowie die Veränderung der Gesamtkonzentration des Wirkstoffs (gebundene und nicht gebundene Rückstände [^annex9-partI-lvlu2-lvld4e197-lvlu27-1]) und der Metaboliten, Abbau- und Reaktionsprodukte, die bei Verwendung des Pflanzenschutzmittels unter den vorgeschlagenen Anwendungsbedingungen im Boden der vorgesehenen Anwendungsregion zu erwarten sind.
 
 <sup>2</sup> Bei dieser Bewertung werden folgende Informationen berücksichtigt:
 
@@ -2986,7 +2997,7 @@ Bei der Bewertung des Verbleibs und der Verteilung des Pflanzenschutzmittels in 
 - c. alle in Anhang 6 Ziffer 2 vorgesehenen relevanten Informationen über das Pflanzenschutzmittel, einschliesslich Informationen über Verteilung und Abbau im Boden;
 - d. gegebenenfalls Angaben über andere bewilligte Anwendungen von Pflanzenschutzmitteln in der vorgeschlagenen Anwendungsregion, wenn diese denselben Wirkstoff enthalten oder dieselben Rückstände hinterlassen.
 
-[^annex9-partI-lvlu2-lvld4e196-lvlu27-1]: Nicht gebundene Rückstände in Pflanzen und im Boden sind definiert als chemische Stoffe, die auf den Einsatz von Pflanzenschutzmitteln nach guter landwirtschaftlicher Praxis zurückzuführen sind und die ohne entscheidende Veränderung der chemischen Eigenschaften dieser Rückstände nicht extrahiert werden können. Nicht zu den nicht gebundenen Rückständen zählen Metaboliten, die in natürliche Stoffe umgewandelt werden.
+[^annex9-partI-lvlu2-lvld4e197-lvlu27-1]: Nicht gebundene Rückstände in Pflanzen und im Boden sind definiert als chemische Stoffe, die auf den Einsatz von Pflanzenschutzmitteln nach guter landwirtschaftlicher Praxis zurückzuführen sind und die ohne entscheidende Veränderung der chemischen Eigenschaften dieser Rückstände nicht extrahiert werden können. Nicht zu den nicht gebundenen Rückständen zählen Metaboliten, die in natürliche Stoffe umgewandelt werden.
 
 ### 9BI-2.5.1.2Verbleib und Verteilung im Grundwasser
 
@@ -3269,14 +3280,14 @@ Die Beurteilungsstellen bewerten die tatsächliche Wirkstoffkonzentration des Pf
 <sup>1</sup> Die Beurteilungsstellen bewerten die physikalischen und chemischen Eigenschaften des Pflanzenschutzmittels, insbesondere folgende Punkte:
 
 - a. die in der betreffenden Spezifikation aufgeführten physikalischen und chemischen Eigenschaften, sofern es eine adäquate FAO-Spezifikation gibt;
-- b. alle im «Manual on the development and use of FAO specifications for plant protection products»[^annex9-partI-lvlu2-lvld4e196-lvlu44-1] aufgeführten, für die Zubereitung relevanten physikalischen und chemischen Eigenschaften, wenn es keine adäquate FAO-Spezifikation gibt.
+- b. alle im «Manual on the development and use of FAO specifications for plant protection products»[^annex9-partI-lvlu2-lvld4e197-lvlu44-1] aufgeführten, für die Zubereitung relevanten physikalischen und chemischen Eigenschaften, wenn es keine adäquate FAO-Spezifikation gibt.
 
 <sup>2</sup> Bei der Bewertung werden folgende Informationen berücksichtigt:
 
 - a. die in Anhang 5 Ziffer 2 vorgesehenen Angaben über die physikalischen und chemischen Eigenschaften des Wirkstoffs sowie die Ergebnisse ihrer Bewertung;
 - b. die in Anhang 6 Ziffer 2 vorgesehenen Angaben über die physikalischen und chemischen Eigenschaften des Pflanzenschutzmittels.
 
-[^annex9-partI-lvlu2-lvld4e196-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
+[^annex9-partI-lvlu2-lvld4e197-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
 
 ### 9BI-2.7.3Tankmischung
 
@@ -3392,9 +3403,9 @@ Die vorgeschlagenen Anweisungen zur Reinigung der Ausbringungsgeräte müssen de
 
 <sup>1</sup> Es wird keine Bewilligung erteilt, wenn der Anwender oder die Anwenderin bei der Handhabung und Anwendung des Pflanzenschutzmittels gemäss den vorgeschlagenen Bedingungen, einschliesslich Dosis und Anwendungsmethode, einer höheren als der annehmbaren Anwenderexposition (AOEL = Acceptable Operator Exposition Level) ausgesetzt ist.
 
-<sup>2</sup> Darüber hinaus setzt die Erteilung der Bewilligung voraus, dass die Höchstkonzentration eingehalten wird, die für den Wirkstoff und/oder die toxikologisch massgebliche(n) Verbindung(en) des Erzeugnisses nach der Verordnung des EDI vom 16. Dezember 2016[^annex9-partI-lvlu3-lvld4e248-lvlu19-1] über die Höchstgehalte für Pestizidrückstände in oder auf Erzeugnissen pflanzlichen und tierischer Herkunft festgesetzt worden ist.
+<sup>2</sup> Darüber hinaus setzt die Erteilung der Bewilligung voraus, dass die Höchstkonzentration eingehalten wird, die für den Wirkstoff und/oder die toxikologisch massgebliche(n) Verbindung(en) des Erzeugnisses nach der Verordnung des EDI vom 16. Dezember 2016[^annex9-partI-lvlu3-lvld4e249-lvlu19-1] über die Höchstgehalte für Pestizidrückstände in oder auf Erzeugnissen pflanzlichen und tierischer Herkunft festgesetzt worden ist.
 
-[^annex9-partI-lvlu3-lvld4e248-lvlu19-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex9-partI-lvlu3-lvld4e249-lvlu19-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.1.2Schutzkleidung oder -ausrüstung
 
@@ -3426,9 +3437,9 @@ Bei den Bewilligungen ist sicherzustellen, dass die Rückstände von den Mindest
 
 <sup>1</sup> Gibt es noch keine Angabe der Höchstkonzentration setzen die Beurteilungsstellen eine vorläufige Höchstkonzentration fest. Die Schlussfolgerungen in Bezug auf die festgelegten Höchstkonzentrationen müssen für alle Bedingungen gelten, die den Rückstandsgehalt in der Kultur beeinflussen können, wie der Anwendungszeitpunkt, die Aufwandmenge, die Anwendungshäufigkeit und die Anwendungsweise.
 
-<sup>2</sup> Basierend auf der Beurteilung potenzieller Rückstände in und auf essbaren Teilen von Pflanzen und -erzeugnissen durch die verantwortliche Beurteilungsstelle und gestützt auf die VPRH[^annex9-partI-lvlu3-lvld4e248-lvlu27-1] legt das BLV die Höchstkonzentrationen von Wirkstoffen fest.
+<sup>2</sup> Basierend auf der Beurteilung potenzieller Rückstände in und auf essbaren Teilen von Pflanzen und -erzeugnissen durch die verantwortliche Beurteilungsstelle und gestützt auf die VPRH[^annex9-partI-lvlu3-lvld4e249-lvlu27-1] legt das BLV die Höchstkonzentrationen von Wirkstoffen fest.
 
-[^annex9-partI-lvlu3-lvld4e248-lvlu27-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex9-partI-lvlu3-lvld4e249-lvlu27-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.2.3ADI-Wert
 
@@ -3459,9 +3470,9 @@ Sollen behandelte Pflanzen oder Pflanzenerzeugnisse als Futtermittel verwendet w
 
 ### 9CI-2.5.1.2Verbleib und Verhalten in Grundwasser
 
-Es wird keine Bewilligung erteilt, wenn die zu erwartende Konzentration des Wirkstoffs oder seiner relevanten Metaboliten, Abbau- oder Reaktionsprodukte im Grundwasser, das als Trinkwasser genutzt wird oder dafür vorgesehen ist, den Anforderungen nach Anhang 2 Ziffer 22 GSchV[^annex9-partI-lvlu3-lvld4e248-lvlu34-1] nicht genügt.
+Es wird keine Bewilligung erteilt, wenn die zu erwartende Konzentration des Wirkstoffs oder seiner relevanten Metaboliten, Abbau- oder Reaktionsprodukte im Grundwasser, das als Trinkwasser genutzt wird oder dafür vorgesehen ist, den Anforderungen nach Anhang 2 Ziffer 22 GSchV[^annex9-partI-lvlu3-lvld4e249-lvlu34-1] nicht genügt.
 
-[^annex9-partI-lvlu3-lvld4e248-lvlu34-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex9-partI-lvlu3-lvld4e249-lvlu34-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
 ### 9CI-2.5.1.3Verbleib und Verhalten in Oberflächengewässern
 
@@ -4082,11 +4093,11 @@ Die verschiedenen Entwicklungsstadien und der Lebenszyklus des Mikroorganismus s
 
 <sup>2</sup> Informationen über den Ursprung und die Eigenschaften (z.B. Spezifität) des Mikroorganismus/seiner rückstandsbildenden Metaboliten/-toxine und seine beabsichtigte Verwendung bilden die Grundlage für die Bewertung von Verbleib und Verhalten von Pflanzenschutzmitteln in der Umwelt. Der Wirkungsweise des Mikroorganismus sollte Rechnung getragen werden.
 
-<sup>3</sup> Auch Verbleib und Verhalten jedes bekannten relevanten Metaboliten, der vom Mikroorganismus gebildet wird, ist zu bewerten. Diese Prüfung betrifft jedes Umweltkompartiment und erfolgt aufgrund der in Anhang IIB Abschnitt 7 Ziffer iv) der Richtlinie 91/414/EWG[^annex9-partII-lvlu2-lvld4e308-lvlu44-1] genannten Kriterien.
+<sup>3</sup> Auch Verbleib und Verhalten jedes bekannten relevanten Metaboliten, der vom Mikroorganismus gebildet wird, ist zu bewerten. Diese Prüfung betrifft jedes Umweltkompartiment und erfolgt aufgrund der in Anhang IIB Abschnitt 7 Ziffer iv) der Richtlinie 91/414/EWG[^annex9-partII-lvlu2-lvld4e309-lvlu44-1] genannten Kriterien.
 
 <sup>4</sup> Bei der Bewertung von Verbleib und Verhalten der Pflanzenschutzmittel in der Umwelt berücksichtigen die Beurteilungsstellen alle Umweltaspekte, einschliesslich Biota. Die Persistenz- und Vermehrungsfähigkeit von Mikroorganismen ist für alle Umweltkompartimente zu bewerten, es sei denn, es kann nachgewiesen werden, dass besondere Mikroorganismen nicht in ein spezifisches Kompartiment gelangen. Entsprechend ist die Mobilität von Mikroorganismen und ihrer rückstandsbildenden Metaboliten und -toxine zu prüfen.
 
-[^annex9-partII-lvlu2-lvld4e308-lvlu44-1]: Siehe Fussnote zu Art. 86 Abs. 1 Bst. a.
+[^annex9-partII-lvlu2-lvld4e309-lvlu44-1]: Siehe Fussnote zu Art. 86 Abs. 1 Bst. a.
 
 ### 9BII-2.7.1Risiko für Wasser
 
@@ -4311,9 +4322,9 @@ Die Zulassungsstelle teilt den Gesuchstellerinnen etwa getroffene Massnahmen nac
 
 <sup>10</sup> Eine Bewilligung wird nicht erteilt, wenn relevante Metaboliten/Toxine (d.h. Metaboliten/Toxine, die erwartungsgemäss für die Gesundheit des Menschen und/oder die Umwelt von Belang sind), die bekanntermassen von Mikroorganismen und/oder mikrobiellen Kontaminanten gebildet werden, im Pflanzenschutzmittel vorhanden sind, es sei denn, es kann nachgewiesen werden, dass die vorhandene Menge vor und nach der vorgeschlagenen Anwendung ein annehmbares Niveau nicht übersteigt.
 
-<sup>11</sup> Die Zulassungsstelle trägt dafür Sorge, dass angemessene Qualitätssicherungsmassnahmen getroffen werden, um die Identität des Mikroorganismus und den Inhalt des Pflanzenschutzmittels sicherzustellen. Zu diesen Massnahmen muss ein System wie das HACCP-Konzept (Hazard Analysis and Critical Control Points – Gefahrenanalyse und Überwachung kritischer Kontrollpunkte[^annex9-partII-lvlu3-lvld4e385-1]) oder ein gleichartiges System gehören.
+<sup>11</sup> Die Zulassungsstelle trägt dafür Sorge, dass angemessene Qualitätssicherungsmassnahmen getroffen werden, um die Identität des Mikroorganismus und den Inhalt des Pflanzenschutzmittels sicherzustellen. Zu diesen Massnahmen muss ein System wie das HACCP-Konzept (Hazard Analysis and Critical Control Points – Gefahrenanalyse und Überwachung kritischer Kontrollpunkte[^annex9-partII-lvlu3-lvld4e387-1]) oder ein gleichartiges System gehören.
 
-[^annex9-partII-lvlu3-lvld4e385-1]: FAO & WHO. 2003. Recommended international codex of practice. General principles of food hygiene, CAC/RCP 1 - 1969, Rev. 4-2003, including «Annex on Hazard Analysis Critical Control Point (HACCP) System and Guidelines for its Application»
+[^annex9-partII-lvlu3-lvld4e387-1]: FAO & WHO. 2003. Recommended international codex of practice. General principles of food hygiene, CAC/RCP 1 - 1969, Rev. 4-2003, including «Annex on Hazard Analysis Critical Control Point (HACCP) System and Guidelines for its Application»
 
 ### 9CII-2 Besondere Grundsätze
 
@@ -4327,9 +4338,9 @@ Um eine Bewilligung erteilen zu können, stellt die Zulassungsstelle sicher, das
 
 ### 9CII-2.2.1Bewertung des Mikroorganismusmindest- und ­höchstgehalts
 
-Für eine Bewertung des Mikroorganismusmindest- und -höchstgehalts in dem für die Herstellung von Pflanzenschutzmitteln verwendeten Ausgangsmaterial und im Pflanzenschutzmittel selbst müssen hinreichend Informationen vorhanden sein. Der Gehalt des Pflanzenschutzmittels an anderen Komponenten und Beistoffen und kontaminierende Mikroorganismen, die bei der Herstellung anfallen, müssen möglichst umfassend definiert sein. Die Zulassungsstelle trägt dafür Sorge, dass die Menge an kontaminierenden Organismen auf einem akzeptablen Niveau gehalten wird. Darüber hinaus sind der physikalische Zustand und die Art des Pflanzenschutzmittels im Einzelnen anzugeben, vorzugsweise gemäss dem «Catalogue of pesticide formulation types and international coding system»[^annex9-partII-lvlu3-lvld4e387-lvlu3-1].
+Für eine Bewertung des Mikroorganismusmindest- und -höchstgehalts in dem für die Herstellung von Pflanzenschutzmitteln verwendeten Ausgangsmaterial und im Pflanzenschutzmittel selbst müssen hinreichend Informationen vorhanden sein. Der Gehalt des Pflanzenschutzmittels an anderen Komponenten und Beistoffen und kontaminierende Mikroorganismen, die bei der Herstellung anfallen, müssen möglichst umfassend definiert sein. Die Zulassungsstelle trägt dafür Sorge, dass die Menge an kontaminierenden Organismen auf einem akzeptablen Niveau gehalten wird. Darüber hinaus sind der physikalische Zustand und die Art des Pflanzenschutzmittels im Einzelnen anzugeben, vorzugsweise gemäss dem «Catalogue of pesticide formulation types and international coding system»[^annex9-partII-lvlu3-lvld4e388-lvlu3-1].
 
-[^annex9-partII-lvlu3-lvld4e387-lvlu3-1]: CropLife International: Technical Monograf No. 2, 5<sup>th</sup> Edition, 2002
+[^annex9-partII-lvlu3-lvld4e388-lvlu3-1]: CropLife International: Technical Monograf No. 2, 5<sup>th</sup> Edition, 2002
 
 ### 9CII-2.2.2Resistenzen
 
@@ -4464,12 +4475,12 @@ Wartezeiten und Wiederbetretungsfristen oder andere Sicherheitsvorkehrungen, mit
 
 ### 9CII-2.6.1.9Bewilligungsbedingungen
 
-Die Bewilligungsbedingungen müssen den Vorgaben der Richtlinie 98/24/EG[^annex9-partII-lvlu3-lvld4e387-lvlu37-1] und der Richtlinie 2000/54/EG[^annex9-partII-lvlu3-lvld4e387-lvlu37-2] entsprechen. Die darin vorgesehenen Versuchsdaten und Informationen über die Erkennung von Symptomen einer Infektion oder Pathogenität und über die Wirksamkeit erster Hilfe und therapeutischer Massnahmen sind zu berücksichtigen. Die Bewilligungsbedingungen müssen ferner der Richtlinie 2004/37/EG[^annex9-partII-lvlu3-lvld4e387-lvlu37-3] entsprechen. Die Bewilligungsbedingungen müssen darüber hinaus der Richtlinie 89/656/EWG[^annex9-partII-lvlu3-lvld4e387-lvlu37-4] genügen.
+Die Bewilligungsbedingungen müssen den Vorgaben der Richtlinie 98/24/EG[^annex9-partII-lvlu3-lvld4e388-lvlu37-1] und der Richtlinie 2000/54/EG[^annex9-partII-lvlu3-lvld4e388-lvlu37-2] entsprechen. Die darin vorgesehenen Versuchsdaten und Informationen über die Erkennung von Symptomen einer Infektion oder Pathogenität und über die Wirksamkeit erster Hilfe und therapeutischer Massnahmen sind zu berücksichtigen. Die Bewilligungsbedingungen müssen ferner der Richtlinie 2004/37/EG[^annex9-partII-lvlu3-lvld4e388-lvlu37-3] entsprechen. Die Bewilligungsbedingungen müssen darüber hinaus der Richtlinie 89/656/EWG[^annex9-partII-lvlu3-lvld4e388-lvlu37-4] genügen.
 
-[^annex9-partII-lvlu3-lvld4e387-lvlu37-1]: Richtlinie 98/24/EG des Rates vom 7. April 1998 zum Schutz von Gesundheit und Sicherheit der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit, ABl. L 131 vom 5.5.1998, S. 11; zuletzt geändert durch Richtlinie 2007/30/EG, ABl. L 165 vom 27.6.2007, S. 21
-[^annex9-partII-lvlu3-lvld4e387-lvlu37-2]: Richtlinie 2000/54/EG des Europäischen Parlaments und des Rates vom 18. Sept. 2000 über den Schutz der Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei der Arbeit, in der Fassung gemäss ABl. L 262 vom 17.10.2000, S. 21
-[^annex9-partII-lvlu3-lvld4e387-lvlu37-3]: Richtlinie 2004/37/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über den Schutz der Arbeitnehmer gegen Gefährdung durch Karzinogene oder Mutagene bei der Arbeit, in der Fassung gemäss ABl. L 204 vom 4.8.2007, S. 28
-[^annex9-partII-lvlu3-lvld4e387-lvlu37-4]: Richtlinie 89/656/EWG des Rates vom 30. Nov. 1989 über Mindestvorschriften für Sicherheit und Gesundheitsschutz bei Benutzung persönlicher Schutzausrüstungen durch Arbeitnehmer bei der Arbeit, ABl. L 393 vom 30.12.1989, S. 18; zuletzt geändert durch Richtlinie 2007/30/EG, ABl. L 165 vom 27.6.2007, S. 21
+[^annex9-partII-lvlu3-lvld4e388-lvlu37-1]: Richtlinie 98/24/EG des Rates vom 7. April 1998 zum Schutz von Gesundheit und Sicherheit der Arbeitnehmer vor der Gefährdung durch chemische Arbeitsstoffe bei der Arbeit, ABl. L 131 vom 5.5.1998, S. 11; zuletzt geändert durch Richtlinie 2007/30/EG, ABl. L 165 vom 27.6.2007, S. 21
+[^annex9-partII-lvlu3-lvld4e388-lvlu37-2]: Richtlinie 2000/54/EG des Europäischen Parlaments und des Rates vom 18. Sept. 2000 über den Schutz der Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei der Arbeit, in der Fassung gemäss ABl. L 262 vom 17.10.2000, S. 21
+[^annex9-partII-lvlu3-lvld4e388-lvlu37-3]: Richtlinie 2004/37/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über den Schutz der Arbeitnehmer gegen Gefährdung durch Karzinogene oder Mutagene bei der Arbeit, in der Fassung gemäss ABl. L 204 vom 4.8.2007, S. 28
+[^annex9-partII-lvlu3-lvld4e388-lvlu37-4]: Richtlinie 89/656/EWG des Rates vom 30. Nov. 1989 über Mindestvorschriften für Sicherheit und Gesundheitsschutz bei Benutzung persönlicher Schutzausrüstungen durch Arbeitnehmer bei der Arbeit, ABl. L 393 vom 30.12.1989, S. 18; zuletzt geändert durch Richtlinie 2007/30/EG, ABl. L 165 vom 27.6.2007, S. 21
 
 ### 9CII-2.6.2Durch Rückstände hervorgerufene Auswirkungen
 
