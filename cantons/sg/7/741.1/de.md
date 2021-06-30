@@ -4,13 +4,12 @@ number: "741.1"
 title: Energiegesetz
 short: EnG
 language: de
-version: 2017-10-01
-valid_until: 2021-06-30
-version_adopted: 2016-07-05
+version: 2021-07-01
+version_adopted: 2020-11-17
 adopted: 2000-05-26
 in_force: 2001-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/741.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2279/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3094/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2279/pdf_file"
 
 (EnG)
 
-vom 26.05.2000 (Stand 01.10.2017)
+vom 26.05.2000 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -50,9 +49,19 @@ als Gesetz:[^ingress-2]
 
 **b) Förderung erneuerbarer Energie**
 
-<sup>1</sup> Erneuerbare Energie, wie Wasserkraft, Sonnenenergie, Geothermie, Umgebungswärme, Windenergie, Energie aus Biomasse und aus Abfällen aus Biomasse, wird besonders gefördert.
+<sup>1</sup> Erneuerbare Energie, wie Wasserkraft, Sonnenenergie, Geothermie, Umgebungswärme, Windenergie, Energie aus Biomasse, insbesondere aus Holz, und aus Abfällen aus Biomasse, wird besonders gefördert.
 
-<sup>2</sup> Der Kanton trifft Massnahmen, damit der Endverbrauch an Energie aus Biomasse, Biogas, Sonne, Wind und Geothermie im Jahr 2020 im Kanton St.Gallen wenigstens 1200 GWh beträgt.
+<sup>2</sup> …
+
+#### Art. 1b
+
+**Anforderungen an Bauten und Anlagen der öffentlichen Hand**
+
+<sup>1</sup> Für im Eigentum des Kantons stehende Bauten und Anlagen:
+
+- a) legt die Regierung für Neubauten Anforderungen an die Energienutzung fest;
+- b) wird die Wärmeversorgung bis zum Jahr 2050 durch CO₂-arme Energieträger sichergestellt. Die Regierung legt für die Jahre 2030 und 2040 Zwischenziele fest;
+- c) wird der Stromverbrauch bis zum Jahr 2030 gegenüber dem Jahr 1990 um 20 Prozent vermindert oder mit neu zugebauten erneuerbaren Energien gedeckt.
 
 #### Art. 2
 
@@ -79,13 +88,13 @@ als Gesetz:[^ingress-2]
 
 **b) Gemeinden**
 
-<sup>1</sup> Die politische Gemeinde mit wenigstens 7000 Einwohnerinnen und Einwohnern erstellt ein angemessenes Energiekonzept. Sie kann diese Aufgabe regional erfüllen.
+<sup>1</sup> Die politische Gemeinde erstellt ein angemessenes Energiekonzept. Sie kann diese Aufgabe regional erfüllen, in Zusammenarbeit mit den Energieversorgern.
 
 <sup>2</sup> Sie hält insbesondere fest:
 
-- a) den gegenwärtigen und künftigen Wärmebedarf;
-- b) die vorhandenen und erschliessbaren Wärmequellen;
-- c) die angestrebte Wärmeversorgung;
+- a) den gegenwärtigen und künftigen Energiebedarf;
+- b) die vorhandenen und erschliessbaren Energiequellen;
+- c) die angestrebte Energieversorgung;
 - d) die notwendigen Massnahmen.
 
 <sup>3</sup> Sie berücksichtigt das kantonale Energiekonzept.
@@ -120,11 +129,35 @@ als Gesetz:[^ingress-2]
 
 #### Art. 5
 
-**b) nicht erneuerbare Energien**
+**…**
 
-<sup>1</sup> Neubauten werden so ausgerüstet, dass höchstens 80 Prozent des zulässigen Energiebedarfs für Heizung und Warmwasser mit nicht erneuerbaren Energien gedeckt sind.
+#### Art. 5a
 
-<sup>2</sup> Die Regierung regelt die Ausnahmen durch Verordnung.
+**b) Deckung des Wärmebedarfs von Neubauten**
+
+<sup>1</sup> Neubauten werden so gebaut und ausgerüstet, dass ihr Bedarf für Heizung, Warmwasser, Lüftung und Klimatisierung dem Stand der Technik entspricht.
+
+<sup>2</sup> Die Regierung regelt Art und Umfang der Anforderungen an den Energieeinsatz durch Verordnung. Sie berücksichtigt dabei insbesondere die Wirtschaftlichkeit sowie besondere Verhältnisse wie Klima, Verschattung oder Quartiersituation.
+
+#### Art. 5b
+
+**Eigenstromerzeugung bei Neubauten**
+
+<sup>1</sup> Neubauten erzeugen einen Teil der von ihnen benötigten Elektrizität selber oder haben einen gewichteten Energiebedarf für Heizung, Warmwasser, Lüftung und Klimatisierung, der um 5 kWh je m² beheizte Fläche und Jahr verringert ist.
+
+<sup>2</sup> Berechnungsgrundlage für die Eigenstromerzeugung ist die Energiebezugsfläche.
+
+<sup>3</sup> Die Regierung regelt die Anforderungen und Ausnahmen durch Verordnung.
+
+#### Art. 5c
+
+**Ersatzabgabe**
+
+<sup>1</sup> Hauseigentümerinnen und Hauseigentümer, die auf die Eigenstromerzeugung oder die Verringerung des gewichteten Energiebedarfs verzichten, entrichten dem Kanton eine Ersatzabgabe. Der geäufnete Betrag dient der Erstellung von Fotovoltaikanlagen auf privaten oder öffentlichen Gebäuden.
+
+<sup>2</sup> Die Regierung legt die Höhe der Ersatzabgabe fest. Diese richtet sich nach den Nettokosten einer Referenzanlage und beträgt höchstens Fr. 3'000.– je kWp.
+
+<sup>3</sup> Die Regierung bezeichnet die für die Verwaltung der Ersatzabgabe zuständige Stelle und legt deren Aufgaben fest.
 
 #### Art. 6
 
@@ -146,7 +179,7 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Einrichtungen für die Erfassung des individuellen Wärmeverbrauchs für Heizung und Warmwasser werden erstellt:
 
-- a) ab sieben Nutzeinheiten in neuen Einzelbauten und Gebäudegruppen mit zentraler Wärmeversorgung;
+- a) ab fünf Nutzeinheiten in neuen Einzelbauten und Gebäudegruppen mit zentraler Wärmeversorgung;
 - b) ab neun Nutzeinheiten in bestehenden Einzelbauten bei der Gesamterneuerung des Heizungs- und Warmwassersystems.
 
 <sup>2</sup> Wird von wenigstens einer Baute einer bestehenden Gebäudegruppe die Gebäudehülle zu mehr als drei Vierteln erneuert, wird der Heizwärmeverbrauch für jedes Gebäude gesondert ermittelt und abgerechnet.
@@ -157,7 +190,7 @@ als Gesetz:[^ingress-2]
 
 **b) Pflicht zur Abrechnung**
 
-<sup>1</sup> In Bauten und Gebäudegruppen mit Ausrüstungspflicht werden die Kosten für den Wärmeverbrauch zu wenigstens 60 Prozent nach dem gemessenen Verbrauch der einzelnen Nutzeinheit abgerechnet.
+<sup>1</sup> In Bauten und Gebäudegruppen mit Ausrüstungspflicht werden die Kosten für den Wärmeverbrauch zu wenigstens 50 Prozent nach dem gemessenen Verbrauch der einzelnen Nutzeinheit abgerechnet.
 
 #### Art. 9a
 
@@ -184,7 +217,8 @@ als Gesetz:[^ingress-2]
 - b) thermischen Elektrizitätserzeugungsanlagen;
 - c) ortsfesten elektrischen Widerstandsheizungen;
 - d) Heizungen im Freien;
-- e) beheizten Freiluftbädern mit wenigstens 8 m³ Inhalt.
+- e) beheizten Schwimmbädern mit wenigstens 8 m³ Inhalt;
+- f) zentralen direkt-elektrischen Wassererwärmern in bestehenden Bauten mit Wohnnutzung.
 
 <sup>2</sup> Die Regierung regelt die Ausnahmen durch Verordnung, insbesondere für Anlagen mit einer geringen Leistung oder Betriebsdauer.
 
@@ -207,7 +241,12 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Ortsfeste elektrische Widerstandsheizungen werden bewilligt, wenn besondere Verhältnisse es erfordern.
 
-<sup>2</sup> Die Regierung regelt die Voraussetzungen durch Verordnung, insbesondere für elektrische Widerstandsheizungen ohne Wasserverteilsystem und Notheizungen.
+<sup>1<sup>bis</sup></sup> Beim Ersatz von ortsfesten elektrischen Widerstandsheizungen mit Wasserverteilsystem werden Heizungen gewählt, die den Anforderungen dieses Erlasses entsprechen.
+
+<sup>2</sup> Die Regierung regelt durch Verordnung:
+
+- a) die Bewilligungsvoraussetzungen, insbesondere für elektrische Widerstandsheizungen ohne Wasserverteilsystem und Notheizungen;
+- b) die Ausnahmen von der Ersatzpflicht nach Abs. 1<sup>bis</sup> dieser Bestimmung.
 
 #### Art. 12b
 
@@ -223,11 +262,33 @@ als Gesetz:[^ingress-2]
 
 #### Art. 12c
 
-**Beheizte Freiluftbäder**
+**Beheizte Schwimmbäder**
 
-<sup>1</sup> Beheizte Freiluftbäder werden bewilligt, wenn sie ausschliesslich mit erneuerbarer Energie oder nicht anders nutzbarer Abwärme betrieben werden.
+<sup>1</sup> Beheizte Schwimmbäder werden bewilligt, wenn sie ausschliesslich mit erneuerbarer Energie, nicht anders nutzbarer Abwärme oder elektrischer Wärmepumpe betrieben werden.
 
-<sup>2</sup> Die Beheizung mit elektrischer Wärmepumpe ist zulässig, wenn eine Abdeckung der Wasserfläche gegen Wärmeverluste vorhanden ist.
+<sup>2</sup> Im Freien verfügen sie zudem über eine Abdeckung der Wasserfläche gegen Wärmeverluste. Die Regierung regelt die Ausnahmen durch Verordnung.
+
+#### Art. 12d
+
+**Ersatz zentraler direkt-elektrischer Wassererwärmer in bestehenden Bauten mit Wohnnutzung**
+
+<sup>1</sup> Als Ersatz von bestehenden zentralen direkt-elektrischen Wassererwärmern in bestehenden Bauten mit Wohnnutzung werden Wassererwärmer bewilligt, die während der Heizperiode mit dem Wärmeerzeuger für die Heizung erwärmt oder vorgewärmt oder die wenigstens zur Hälfte mit erneuerbarer Energie oder Abwärme betrieben werden.
+
+#### Art. 12e
+
+**Wärmeerzeugerersatz in bestehenden Bauten mit Wohnnutzung**
+
+<sup>1</sup> Die Bewilligung für den Ersatz des Wärmeerzeugers in bestehenden Bauten mit Wohnnutzung wird erteilt, wenn:
+
+- a) die Baute die Klasse D der Gesamtenergieeffizienz des Gebäudeenergieausweises der Kantone erreicht;
+- b) die Baute nach Minergie zertifiziert ist;
+- c) nachgewiesen wird, dass der Wärmeerzeuger während 20 Jahren zu wenigstens 20 Prozent des massgeblichen Energiebedarfs mit einem erneuerbaren Brennstoff betrieben wird, der vom Sektor Gebäude des schweizerischen Treibhausgasinventars angerechnet wird. Stattdessen kann eine Erklärung des Energielieferanten eingereicht werden, wonach dieser die Lieferung von 20 Prozent erneuerbarem Gas oder Öl während der gesamten Betriebsdauer gewährleistet;
+- d) eine Standardlösung umgesetzt wird oder nachgewiesen werden kann, dass aus baulichen, örtlichen oder anderen Gründen eine Standardlösung nicht realisiert werden kann;
+- e) es sich um Bauten mit gemischter Nutzung handelt, deren Wohnanteil 150 m² Energiebezugsfläche nicht überschreitet.
+
+<sup>2</sup> Eine Ausnahmebewilligung von den vorstehenden Vorschriften wird erteilt, wenn besondere Verhältnisse vorliegen oder die Durchsetzung der Vorschrift zu einer unverhältnismässigen Härte führen würde. Wer eine Ausnahmebewilligung beanspruchen will, hat dafür ein Gesuch einzureichen. Von der Gesuchstellerin oder vom Gesuchsteller können spezifische Nachweise verlangt werden. Die Ausnahmebewilligung kann mit Bedingungen oder Auflagen verknüpft oder befristet werden.
+
+<sup>3</sup> Die Regierung regelt Standardlösungen, Berechnungsweise und Befreiung von den Anforderungen durch Verordnung.
 
 ### 3. Gemeinsame Bestimmungen
 
@@ -262,7 +323,7 @@ als Gesetz:[^ingress-2]
 - a) Erforschung und Erprobung erneuerbarer Energie;
 - b) Entwicklung von Energiesparmassnahmen.
 
-<sup>2</sup> Der Kanton leistet im Rahmen von Förderungsprogrammen Beiträge von insgesamt 5,4 Mio. Franken je Jahr an Massnahmen zu:
+<sup>2</sup> Der Kanton leistet im Rahmen von Förderungsprogrammen Beiträge von insgesamt 5,0 Mio. Franken je Jahr an Massnahmen zu:
 
 - 1\. sparsamer und rationeller Energienutzung, insbesondere zur Steigerung der Energieeffizienz;
 - 2\. Nutzung erneuerbarer Energie;
@@ -271,17 +332,19 @@ als Gesetz:[^ingress-2]
 
 <sup>2<sup>bis</sup></sup> Globalbeiträge des Bundes ergänzen die kantonalen Mittel und werden im Rahmen der Förderungsprogramme nach Abs. 2 dieser Bestimmung ausgerichtet.
 
-<sup>2<sup>ter</sup></sup> Der Kantonsrat legt ein für mehrere Jahre geltendes Beitragsvolumen fest, das im Durchschnitt wenigstens 5,4 Mio. Franken je Jahr beträgt.
+<sup>2<sup>ter</sup></sup> Der Kantonsrat legt ein für mehrere Jahre geltendes Beitragsvolumen fest, das im Durchschnitt wenigstens 5,0 Mio. Franken je Jahr beträgt.
 
 <sup>3</sup> Die Regierung regelt die Voraussetzungen für Ausrichtung und Rückforderung von Beiträgen durch Verordnung.
 
 #### Art. 16a
 
-**b) Finanzhilfen für energetische Gebäudesanierung**
+**…**
 
-<sup>1</sup> Beiträge im Rahmen der Finanzhilfen des Bundes für die energetische Gebäudesanierung nach Art. 10 Abs. 1<sup>bis</sup> Bst. a des Bundesgesetzes über die Reduktion der CO2-Emissionen vom 8. Oktober 1999[^16a-1] werden nach Massgabe der zwischen Bund und Kanton festgelegten Programmvereinbarung ausgerichtet.
+#### Art. 16b
 
-[^16a-1]: SR [641.71](https://db.clex.ch/link/Bund/641.71/de).
+**Gebühren**
+
+<sup>1</sup> Kanton und Gemeinden fördern bei der Festlegung und Erhebung von Gebühren Investitionen zur erneuerbaren Energiegewinnung bei bestehenden Bauten und Anlagen.
 
 #### Art. 17
 
@@ -357,10 +420,13 @@ als Gesetz:[^ingress-2]
 
 **Ausnahmebewilligungen**
 
-<sup>1</sup> Zuständige Stelle des Kantons und Gemeindebehörde bewilligen im Rahmen ihrer Zuständigkeit Ausnahmen, wenn:
+<sup>1</sup> …
 
-- a) die Anwendung der Vorschriften zu einer offensichtlichen Härte oder zu einem unverhältnismässigen Aufwand führt;
-- b) die Erhaltung schutzwürdiger Bauten oder zwingende bauphysikalische Gründe es erfordern.
+<sup>2</sup> Die Erteilung von Ausnahmebewilligungen richtet sich sachgemäss nach Art. 108 des Planungs- und Baugesetzes vom 27. April 2016[^25-1].
+
+<sup>3</sup> Ausnahmebewilligungen können mit Bedingungen und Auflagen verknüpft und befristet werden.
+
+[^25-1]: sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
 
 #### Art. 26
 
@@ -431,6 +497,12 @@ als Gesetz:[^ingress-2]
 
 - a) Bauten und Anlagen ohne die erforderliche Bewilligung erstellt, ändert oder ersetzt;
 - b) gegen eine Bewilligung verstösst.
+
+#### Art. 30a
+
+**Übergangsbestimmung des VI. Nachtrags vom 17. November 2020**
+
+<sup>1</sup> Der Energienachweis eines Vorhabens wird nach jenem Recht beurteilt, das im Zeitpunkt des erstinstanzlichen Entscheids der Baubewilligungsbehörde über das Vorhaben in Vollzug steht.
 
 #### Art. 31
 
