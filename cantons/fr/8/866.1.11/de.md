@@ -4,13 +4,13 @@ number: "866.1.11"
 title: Reglement über die Beschäftigung und den Arbeitsmarkt
 short: BAMR
 language: de
-version: 2020-11-01
-valid_until: 2021-06-30
-version_adopted: 2020-09-22
+version: 2021-07-01
+valid_until: 2022-01-31
+version_adopted: 2021-06-28
 adopted: 2012-07-02
 in_force: 2012-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/866.1.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6604/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6881/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Beschäftigung und Arbeitsmarkt – R
 
 (BAMR)
 
-vom 02.07.2012 (Fassung in Kraft getreten am 01.11.2020)
+vom 02.07.2012 (Fassung in Kraft getreten am 01.07.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -165,13 +165,7 @@ beschliesst:
 
 #### Art. 13
 
-**Anmeldung der Stellensuchenden (Art. 32 BAMG) durch die Gemeinden**
-
-<sup>1</sup> Gemeinden mit einer Bevölkerung von mehr als 5000 Einwohnerinnen und Einwohnern und die Bezirkshauptorte des Kantons können die Befugnis für die Anmeldung der stellensuchenden Personen behalten. Sie setzen das Amt darüber in Kenntnis.
-
-<sup>2</sup> Das Gemeindearbeitsamt füllt gemeinsam mit der stellensuchenden Person die Formulare aus, die benötigt werden, um sich arbeitslos zu melden. Es ist zuständig für die Überprüfung des Wohnsitzes und meldet dem zuständigen RAV alle Änderungen.
-
-<sup>3</sup> Für alle weiteren Informationen zur Arbeitslosensituation der stellensuchenden Person übergibt das Gemeindearbeitsamt ihr die Adresse des zuständigen RAV und die Adressen der Arbeitslosenkassen im Kanton.
+**…**
 
 #### Art. 14
 

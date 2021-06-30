@@ -4,13 +4,13 @@ number: "866.1.11"
 title: "Règlement sur l'emploi et le marché du travail"
 short: REMT
 language: fr
-version: 2020-11-01
-valid_until: 2021-06-30
-version_adopted: 2020-09-22
+version: 2021-07-01
+valid_until: 2022-01-31
+version_adopted: 2021-06-28
 adopted: 2012-07-02
 in_force: 2012-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/866.1.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6604/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6881/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Emploi et marché du travail – R
 
 (REMT)
 
-du 02.07.2012 (version entrée en vigueur le 01.11.2020)
+du 02.07.2012 (version entrée en vigueur le 01.07.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -165,13 +165,7 @@ Arrête:
 
 #### Art. 13
 
-**Inscription des demandeurs et demandeuses d'emploi (art. 32 LEMT) par les communes**
-
-<sup>1</sup> Les communes qui ont une population supérieure à 5000 habitants ou les chefs-lieux des districts du canton peuvent conserver la compétence d'inscrire les demandeurs et demandeuses d'emploi. Ils en informent le Service.
-
-<sup>2</sup> L'office communal du travail remplit avec les demandeurs et demandeuses d'emploi les formules nécessaires à leur inscription au chômage. Il est compétent pour vérifier leur domicile et signale toute modification à l'ORP compétent.
-
-<sup>3</sup> Pour tout renseignement relatif à la situation de chômage des demandeurs et demandeuses d'emploi, il remet à ces derniers l'adresse de l'ORP compétent ainsi que les adresses des caisses de chômage du canton.
+**…**
 
 #### Art. 14
 
