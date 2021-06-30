@@ -4,13 +4,13 @@ number: "162.420"
 title: Verordnung über den Schwangerschafts- und Mutterschaftsurlaub
 short: SMUV
 language: de
-version: 2015-10-25
-valid_until: 2021-06-30
-version_adopted: 2015-10-20
+version: 2021-07-01
+valid_until: 2024-12-31
+version_adopted: 2020-11-24
 adopted: 1987-10-13
 in_force: 1987-11-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/162.420"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3599/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5775/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,9 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3599/pdf_file"
 
 Schwangerschafts- und Mutterschaftsurlaub: Verordnung | Staatspersonal: Dienstverhältnis
 
-Vom 13. Oktober 1987 (Stand 25. Oktober 2015)
+(SMUV)
+
+Vom 13. Oktober 1987 (Stand 1. Juli 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -27,7 +29,7 @@ gestützt auf den § 13 Abs. 2 des Personalgesetzes vom 17. November 1999[^ingre
 
 beschliesst:
 
-[^ingress-1]: SG [162.100](https://www.gesetzessammlung.bs.ch/data/162.100/de).
+[^ingress-1]: SG [162.100](https://www.gesetzessammlung.bs.ch/data/162.100/de)
 
 #### § 1
 
@@ -45,9 +47,9 @@ beschliesst:
 
 **Dauer**
 
-<sup>1</sup> Der Mitarbeiterin wird auf die Niederkunft hin ein bezahlter Schwangerschafts- und Mutterschaftsurlaub von sechzehn Wochen gewährt. Der Schwangerschaftsurlaub beginnt frühestens zwei Wochen vor der voraussichtlichen Niederkunft. Der Mutterschaftsurlaub dauert mindestens vierzehn Wochen. Er kann – unter Verzicht auf einen Schwangerschaftsurlaub – höchstens sechzehn Wochen nach der Niederkunft dauern.
+<sup>1</sup> Der Mitarbeiterin wird auf die Niederkunft hin ein bezahlter Schwangerschafts- und Mutterschaftsurlaub von 16 Wochen gewährt. Der Schwangerschaftsurlaub beginnt frühestens zwei Wochen vor der voraussichtlichen Niederkunft. Der Mutterschaftsurlaub dauert mindestens 14 Wochen. Er kann – unter Verzicht auf einen Schwangerschaftsurlaub – höchstens 16 Wochen nach der Niederkunft und bei einer Verlängerung gemäss § 2a höchstens 24 Wochen dauern.
 
-<sup>2</sup> Die individuelle Regelung des Schwangerschafts- und/oder Mutterschaftsurlaubes ist spätestens vier Monate vor der voraussichtlichen Niederkunft mit dem Vorgesetzten bzw. der Vorgesetzten und dem Personalchef bzw. der Personalchefin schriftlich zu vereinbaren. Über den voraussichtlichen Termin der Niederkunft ist ein Arztzeugnis vorzulegen.
+<sup>2</sup> Die individuelle Regelung des Schwangerschafts- und/oder Mutterschaftsurlaubs ist spätestens vier Monate vor der voraussichtlichen Niederkunft mit der Vorgesetzten bzw. dem Vorgesetzten und der Personalchefin bzw. dem Personalchef schriftlich zu vereinbaren. Über den voraussichtlichen Termin der Niederkunft ist ein Arztzeugnis vorzulegen.
 
 <sup>3</sup> Der Anspruch auf bezahlten Mutterschaftsurlaub entsteht:
 
@@ -64,20 +66,20 @@ beschliesst:
 
 #### § 2a
 
-**Aufschub des bezahlten Mutterschaftsurlaubes bei längerem Spitalaufenthalt des Neugeborenen**
+**Verlängerung des bezahlten Mutterschaftsurlaubs bei längerem Spitalaufenthalt des Neugeborenen**
 
-<sup>1</sup> Der Beginn des bezahlten Mutterschaftsurlaubes wird aufgeschoben, wenn:
+<sup>1</sup> Bei einem Spitalaufenthalt des Neugeborenen verlängert sich der Mutterschaftsurlaub (gleich wie die Ausrichtung der Mutterschaftsentschädigung gemäss Art. 16c Abs. 3 des Erwerbsersatzgesetzes) um die Dauer der Hospitalisierung, höchstens aber um acht Wochen, sofern:
 
-- a) die Mutter einen schriftlichen Antrag stellt und
-- b) durch ein Arztzeugnis nachgewiesen wird, dass das Neugeborene kurz nach der Geburt mindestens drei Wochen im Spital verbleiben muss.
+- a) das Neugeborene unmittelbar nach der Geburt ununterbrochen während mindestens zwei Wochen im Spital verweilt und
+- b) der Nachweis vorliegt, dass die Mitarbeiterin vor der Niederkunft bereits beschlossen hatte, ihre Erwerbstätigkeit nach Ende des Mutterschaftsurlaubs fortzusetzen.
 
-<sup>2</sup> Der Aufschub beginnt mit dem Tag der Geburt und endet am Tag, an welchem das Neugeborene zur Mutter zurückkehrt oder stirbt.
+<sup>2</sup> Der mindestens zweiwöchige Aufenthalt des Neugeborenen im Spital sowie die effektive Dauer des Spitalaufenthalts des Neugeborenen sind mit ärztlichem Attest zu belegen.
 
 #### § 2b
 
 **Ende des Anspruchs bei Wiederaufnahme der Arbeit**
 
-<sup>1</sup> Der Anspruch auf Entschädigung endet spätestens 16 Wochen nach seinem Beginn. Er endet vorzeitig am Tag der Wiederaufnahme einer Erwerbstätigkeit, unabhängig vom Beschäftigungsgrad.
+<sup>1</sup> Der Anspruch auf Entschädigung endet vorzeitig am Tag der Wiederaufnahme einer Erwerbstätigkeit, unabhängig vom Beschäftigungsgrad.
 
 #### § 3
 
@@ -93,7 +95,7 @@ beschliesst:
 
 **Änderung des Beschäftigungsgrades**
 
-<sup>1</sup> Unter Berücksichtigung der betrieblichen Verhältnisse kann auf Gesuch der Mitarbeiterin sowohl für die Zeit der Schwangerschaft als auch für die Zeit nach dem Mutterschaftsurlaub der bisherige Beschäftigungsgrad, unter entsprechender Kürzung des Lohnes, reduziert werden.
+<sup>1</sup> Unter Berücksichtigung der betrieblichen Verhältnisse kann auf Gesuch der Mitarbeiterin für die Zeit der Schwangerschaft der bisherige Beschäftigungsgrad, unter entsprechender Kürzung des Lohnes, reduziert werden.
 
 #### § 6
 
@@ -103,11 +105,15 @@ beschliesst:
 
 <sup>2</sup> Wird das Arbeitsverhältnis von der Mitarbeiterin auf die Niederkunft hin aufgelöst bzw. nach dem Mutterschaftsurlaub nicht für mindestens zwölf Wochen wieder aufgenommen, so reduziert sich der Lohnanspruch auf vierzehn Wochen ab Niederkunft.
 
+<sup>3</sup> Der Lohn, welcher über die 14 Wochen Mutterschaftsurlaub gemäss Abs. 2 hinausgeht, steht unter dem Vorbehalt der Rückforderung bzw. Verrechnung mit Lohnguthaben per Austritt, wenn die Mitarbeiterin die Arbeit nach dem Mutterschaftsurlaub nicht für mindestens zwölf Wochen wieder aufnimmt.
+
+<sup>4</sup> Der für die Dauer des verlängerten Mutterschaftsurlaubs gemäss § 2a geschuldete Lohn ist von der Reduktion des Lohnanspruchs gemäss Abs. 2 nicht betroffen.
+
 #### § 7
 
-**Berechnung und Ausrichtung des Lohnes**
+**Berechnung des Lohnes**
 
-<sup>1</sup> Der Lohn, welcher über die vierzehn Wochen Mutterschaftsurlaub hinausgeht, steht unter dem Vorbehalt der Rückforderung bzw. der Verrechnung mit Lohnguthaben per Austritt, wenn die Mitarbeiterin die Arbeit nach dem Mutterschaftsurlaub nicht für mindestens zwölf Wochen wieder aufnimmt.
+<sup>1</sup> …
 
 <sup>2</sup> Bei wechselndem Beschäftigungsgrad vor Antritt des Schwangerschafts-bzw. des Mutterschaftsurlaubs ist der Durchschnitt der sechs zuvor bezogenen Monatslöhne, zuzüglich Sozialzulagen, für die Berechnung des Lohnanspruches massgebend.
 
