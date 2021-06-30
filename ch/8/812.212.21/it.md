@@ -4,11 +4,11 @@ title: Ordinanza del 21 settembre 2018 sui medicamenti (OM)
 short: OM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: it
-version: 2021-02-01
+version: 2021-07-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20210201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210201/it"
 
 (OM)
 
-del 21 settembre 2018 (Stato 1° febbraio 2021)
+del 21 settembre 2018 (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -1252,7 +1252,7 @@ I principi attivi sono ammessi nel presente allegato tenendo conto dello stato d
 <table>
 <tr><th>Principio attivo</th><th>Limitazioni d’uso</th><th>Requisiti di qualità</th></tr>
 <tr><td>[<sup>68</sup>Ga]Gallium-PSMA-HBED-CC Sinonimi: [<sup>68</sup>Ga]-PSMA-11, <sup>68</sup>Ga-Labelled GLU-Urea-LYS(AHX)-HBED-CC</td><td>Rappresentazione di focolai tumorali in pazienti affetti da adenocarcinoma della prostata</td><td>[<sup>68</sup>Ga]-PSMA-11 ≥ 95 % della radioattività totale al momento della liberazione La marcatura con la soluzione di <sup>68</sup>Ga corrisponde alla Ph. Eur. PSMA-11 e i suoi complessi metallici: ≤ 30 μg per dose</td></tr>
-<tr><td>[<sup>68</sup>Ga]Gallium- Oxodotreotidum Sinonimi: [<sup>68</sup>Ga]-DOTATATE, [<sup>68</sup>Ga]-DOTA-Octreotate</td><td>Rappresentazone di focolai tumorali neuroendocrini Come complemento all’imaging anatomico nella valutazione pre-terapeutica dei meningiomi.</td><td>[<sup>68</sup>Ga]-DOTATATE ≥ 95 % della radioattività totale al momento della liberazione La marcatura con la soluzione di <sup>68</sup>Ga corrisponde alla Ph. Eur DOTATATE e i suoi complessi metallici: ≤ 50 μg per dose</td></tr>
+<tr><td>[<sup>6</sup><sup>8</sup>Ga]Gallium- Oxodotreotidum Sinonimi: [<sup>68</sup>Ga]-DOTATATE, [<sup>68</sup>Ga]-DOTA-Octreotate</td><td>Rappresentazone di focolai tumorali neuroendocrini Come complemento all’imaging anatomico nella valutazione pre-terapeutica dei meningiomi.</td><td>[<sup>68</sup>Ga]-DOTATATE ≥ 95 % della radioattività totale al momento della liberazione La marcatura con la soluzione di <sup>68</sup>Ga corrisponde alla Ph. Eur DOTATATE e i suoi complessi metallici: ≤ 50 μg per dose</td></tr>
 <tr><td>[<sup>177</sup>Lu]Lutetium- Edotreotidum Sinonimi: [<sup>177</sup>Lu]-DOTATOC, [<sup>177</sup>Lu]-DOTA-(Tyr3)-Octreotid</td><td>Terapia di tumori progressivi, caratterizzati dalla sovraespressione del recettore della somatostatina del sottotipo 2</td><td>[<sup>177</sup>Lu]-DOTATOC ≥ 95 % della radioattività totale al momento della liberazione La marcatura con la soluzione di <sup>177</sup>Lu corrisponde alla Ph. Eur DOTATOC e i suoi complessi metallici: ≤ 240 μg per dose</td></tr>
 <tr><td>[<sup>177</sup>Lu]Lutetium-ITG-PSMA-1 Sinonimi: [<sup>177</sup>Lu]-DOTAGA- (I-y)fk(Sub-KuE); [<sup>177</sup>Lu]-DOTAGA- D-I-Tyr-D-Phe-D-Lys-suberoyl-Lys-Urea-Glu;</td><td>Trattamento di carcinomi prostatici metastatici, ormonoresistenti e positivi alla TEP/TC PSMA.</td><td>[<sup>177</sup>Lu]-ITG-PSMA-1 ≥ 93% della radioattività totale al momento della liberazione La marcatura con la soluzione di <sup>177</sup>Lu corrisponde alla Ph. Eur ITG-PSMA-1 e i suoi complessi metallici: ≤ 0.1 mg per dose</td></tr>
 <tr><td>[<sup>18</sup>F]Fluor-PSMA-1007 Sinonimo: (3S,10S,14S)-1-(4-(((S)-4-carboxy-2((S)-4-carboxy-2-(6[18F]-fluoronicotinamido) butana-mi-do)butanamido)methyl)-phenyl)-3-(naphthalen-2-ylmethyl)-1,4,12-trioxo-2,5,11,13-tetraazahexadecane-10,14,16-tricarboxylic acid</td><td>Rappresentazione di focolai tumorali in pazienti affetti da adenocarcinoma della prostata</td><td>[<sup>18</sup>F]F-PSMA-1007 ≥ 93% della radioattività totale al momento della liberazione [<sup>18</sup>F]-Fluorid ≤ 5% della radioattività totale al momento della liberazione [<sup>18</sup>F] ≥ 99.9% della radioattività totale al momento del decadimento Composti derivati da PSMA-1007 ≤ 0.5 mg per dose [<sup>19</sup>F]F-PSMA ≤ 0.1 mg per dose</td></tr>
@@ -1275,7 +1275,7 @@ La documentazione sui preparati deve contenere i seguenti dati:
 - k. specifiche e prescrizioni d’esame del prodotto finito, in particolare identità, purezza, contenuto nonché esami generali e galenici;
 - l. motivazione delle specifiche del prodotto finito.
 
-Allegato 2[^t-2]
+Allegato 2*[^t-2]*
 
 (art. 45 cpv. 2)
 
@@ -1283,8 +1283,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 28 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)).
-[^annex2-lvlu1-1]: Il testo non è pubblicato né nella RU né nella RS (art. 5 LPubb; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Può essere consultato sul sito dell’UFSP all’indirizzo: www.bag.admin.ch. È applicabile nel suo tenore del 1° aprile 2020.
+[^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 28 feb. 2020 ([RU 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Aggiornato dal n. I dell’O del DFI del 7 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)).
+[^annex2-lvlu1-1]: Il testo non è pubblicato nella RU (art. 5 della L del 18 giu. 2004 sulle pubblicazioni ufficiali; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Può essere consultato sul sito Internet dell’UFSP all’indirizzo: www.bag.admin.ch &gt; Medicina & ricerca &gt; Medicamenti e dispositivi medici &gt; Dispensazione di medicamenti semplificata.
 
 Allegato 3
 

@@ -4,11 +4,11 @@ title: Ordonnance du 21 septembre 2018 sur les médicaments (OMéd)
 short: OMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: fr
-version: 2021-02-01
+version: 2021-07-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210201/fr"
 
 (OMéd)
 
-du 21 septembre 2018 (Etat le 1<sup>er</sup> février 2021) février 2021)
+du 21 septembre 2018 (Etat le 1<sup>er</sup> juillet 2021) juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -55,7 +55,7 @@ La présente ordonnance règle:
 <sup>4</sup> Les définitions de l’art. 2 de l’ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments (OAMéd)[^1-2] sont applicables.
 
 [^1-1]: [RS 810.211](https://fedlex.data.admin.ch/eli/cc/2007/280)
-[^1-2]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^1-2]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
 
 ## Chapitre 2 Procédure d’autorisation de mise sur le marché
 
@@ -839,7 +839,7 @@ De plus, il contrôle régulièrement, en vertu de l’art. 58, al. 2, LPTh, si 
 
 <sup>2</sup> Les inspections à l’étranger et les attributions des inspecteurs sont régies par les art. 60, al. 2 et 3, et 62 OAMéd[^59-1].
 
-[^59-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^59-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
 
 ### Section 2 Rapport périodique sur la sécurité et le rapport bénéfice-risque des médicaments
 
@@ -879,7 +879,7 @@ Le fabricant ou le titulaire de l’autorisation doit déclarer à Swissmedic:
 
 <sup>7</sup> Pour les produits sanguins labiles, la déclaration des défauts de qualité est régie par l’art. 37 OAMéd[^61-1].
 
-[^61-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^61-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
 
 #### Art. 62
 
@@ -950,7 +950,7 @@ L’obligation de déclarer les événements et les effets indésirables liés �
 
 <sup>4</sup> Les établissements qui utilisent des produits sanguins labiles mettent en place à cet effet un système d’assurance-qualité conformément à l’état des connaissances scientifiques et techniques. Ils désignent un responsable chargé d’assumer l’obligation de déclarer.
 
-[^65-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l'art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
+[^65-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786). Le renvoi a été adapté en application de l’art. 12 al. 2 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> janv. 2019.
 
 #### Art. 66
 
@@ -1278,11 +1278,11 @@ Annexe 2*[^t-2]*
 
 (art. 45, al. 2)
 
-## Indications et médicaments visés à l’art. 45, al. 1, let. a
+## Indications et médicaments visés à l’art. 45, al. 1, let. a****
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Mise à jour par le ch. I de l’O du DFI du 7 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)).
 [^annex2-lvlu1-1]: Ce texte n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). ll peut être consulté sur le site Internet de l’OFSP sous: www.bag.admin.ch. La version du 1<sup>er</sup> avril 2020 est applicable.
 
 Annexe 3

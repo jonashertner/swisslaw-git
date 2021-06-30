@@ -4,11 +4,11 @@ title: "Verordnung vom 21. September 2018 über die Arzneimittel (Arzneimittelve
 short: VAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: de
-version: 2021-02-01
+version: 2021-07-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210201/de"
 
 (Arzneimittelverordnung, VAM)
 
-vom 21. September 2018 (Stand am 1. Februar 2021)
+vom 21. September 2018 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1228,7 +1228,7 @@ Drogistinnen und Drogisten ohne eidgenössisches Diplom, die am 1. Januar 2019 g
 
 <sup>2</sup> Die Artikel 37 Absätze 2 und 3 sowie 51 treten am 1. Januar 2020 in Kraft.
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 37 Abs. 1 Bst. e)
 
@@ -1283,8 +1283,8 @@ Anhang 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)).
-[^annex2-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann beim BAG abgerufen werden: www.bag.admin.ch. Er gilt in der Fassung vom 1. April 2020.
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Bereinigt gemäss Ziff. I der V des EDI vom 7. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)).
+[^annex2-lvlu1-1]: Der Text dieses Anhangs wird in der AS und in der SR nicht publiziert (Art. 5 des Publikationsgesetzes vom 18. Juni 2004; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann abgerufen werden unter www.bag.admin.ch &gt; Medizin & Forschung &gt; Medikamente & Medizinprodukte &gt; Erleichterte Abgabe von Arzneimitteln.
 
 Anhang 3
 
@@ -1394,7 +1394,7 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 ...[^annex6-lvlu1-4]
 
-[^annex6-lvlu1-1]: [[AS 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516), [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 1, [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 3 [4057](https://fedlex.data.admin.ch/eli/oc/2004/592)Anhang 3 Ziff. 1, [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 6, [2007 1961](https://fedlex.data.admin.ch/eli/oc/2007/280)Anhang 7 Ziff. 2, [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 1, [2009 2643](https://fedlex.data.admin.ch/eli/oc/2009/354), [2010 1295](https://fedlex.data.admin.ch/eli/oc/2010/187)[4039](https://fedlex.data.admin.ch/eli/oc/2010/585), [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 1 [1171](https://fedlex.data.admin.ch/eli/oc/2016/218)Ziff. I 4, [2017 2787](https://fedlex.data.admin.ch/eli/oc/2017/282)Ziff. II]
-[^annex6-lvlu1-2]: [[AS 2001 3010](https://fedlex.data.admin.ch/eli/oc/2001/444), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 79, [2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)Anhang Ziff. 2, [2008 1919](https://fedlex.data.admin.ch/eli/oc/2008/283), [2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)Ziff. I 3]
+[^annex6-lvlu1-1]: [[AS 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516); [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 1; [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)Ziff. I 3 [4057](https://fedlex.data.admin.ch/eli/oc/2004/592)Anhang 3 Ziff. 1; [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 6; [2007 1961](https://fedlex.data.admin.ch/eli/oc/2007/280)Anhang 7 Ziff. 2; [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 1; [2009 2643](https://fedlex.data.admin.ch/eli/oc/2009/354); [2010 1295](https://fedlex.data.admin.ch/eli/oc/2010/187), [4039](https://fedlex.data.admin.ch/eli/oc/2010/585); [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 1 [1171](https://fedlex.data.admin.ch/eli/oc/2016/218)Ziff. I 4; [2017 2787](https://fedlex.data.admin.ch/eli/oc/2017/282)Ziff. II]
+[^annex6-lvlu1-2]: [[AS 2001 3010](https://fedlex.data.admin.ch/eli/oc/2001/444); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 79; [2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)Anhang Ziff. 2; [2008 1919](https://fedlex.data.admin.ch/eli/oc/2008/283); [2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)Ziff. I 3]
 [^annex6-lvlu1-3]: [[AS 2001 3025](https://fedlex.data.admin.ch/eli/oc/2001/445)]
 [^annex6-lvlu1-4]: Die Änderungen können unter [AS 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)konsultiert werden.
