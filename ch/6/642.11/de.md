@@ -4,11 +4,11 @@ title: Bundesgesetz vom 14. Dezember 1990 über die direkte Bundessteuer (DBG)
 short: DBG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20210101/de"
 
 (DBG)
 
-vom 14. Dezember 1990 (Stand am 1. Januar 2021)
+vom 14. Dezember 1990 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -522,7 +522,8 @@ Steuerfrei sind:
 - i.[^24-3] die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017[^24-4] (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
 - i<sup>bis</sup>.[^24-5] die einzelnen Gewinne bis zum Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - i<sup>ter</sup>.[^24-6] die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
-- j.[^24-7] die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird.
+- j.[^24-7] die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird;
+- k.[^24-8] Einkünfte aufgrund des Bundesgesetzes vom 19. Juni 2020[^24-9] über Überbrückungsleistungen für ältere Arbeitslose.
 
 [^24-1]: Fassung gemäss Anhang Ziff. 7 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^24-2]: Eingefügt durch Ziff. I 1 des BG über die Steuerbefreiung des Feuerwehrsoldes vom 17. Juni 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [BBl 2010 2855](https://fedlex.data.admin.ch/eli/fga/2010/508)).
@@ -531,6 +532,8 @@ Steuerfrei sind:
 [^24-5]: Eingefügt durch Anhang Ziff. II 5 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^24-6]: Eingefügt durch Anhang Ziff. II 5 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^24-7]: Eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 über Vereinfachungen bei der Besteuerung von Lotteriegewinnen ([AS 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [BBl 2011 6517](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6543](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Fassung gemäss Anhang Ziff. II 5 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^24-8]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [BBl 2019 8251](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
+[^24-9]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
 ### 3. Kapitel: Ermittlung des Reineinkommens
 
@@ -3201,7 +3204,7 @@ Werden in einem Verfahren nach diesem Gesetz Urkunden verwendet, so müssen daf�
 
 Der Bundesratsbeschluss vom 9. Dezember 1940[^201-1] über die Erhebung einer direkten Bundessteuer (BdBSt) wird aufgehoben.
 
-[^201-1]: [BS **6** 350; [AS 1950 1467](https://fedlex.data.admin.ch/eli/oc/1950/1467_1511_1477), [1954 1316](https://fedlex.data.admin.ch/eli/oc/1954/1316_1349_1376), [1958 398](https://fedlex.data.admin.ch/eli/oc/1958/398_412_412), [1971 947](https://fedlex.data.admin.ch/eli/oc/1971/947_946_946), [1973 1066](https://fedlex.data.admin.ch/eli/oc/1973/1066_1066_1064), [1975 1213](https://fedlex.data.admin.ch/eli/oc/1975/1213_1213_1213), [1977 2103](https://fedlex.data.admin.ch/eli/oc/1977/2103_2103_2103), [1978 2066](https://fedlex.data.admin.ch/eli/oc/1978/2066_2066_2066), [1982 144](https://fedlex.data.admin.ch/eli/oc/1982/144_144_144), [1984 584](https://fedlex.data.admin.ch/eli/oc/1984/584_584_584), [1985 1222](https://fedlex.data.admin.ch/eli/oc/1985/1222_1222_1222), [1988 878](https://fedlex.data.admin.ch/eli/oc/1988/878_878_878), [1992 1072](https://fedlex.data.admin.ch/eli/oc/1992/1072_1072_1072)]
+[^201-1]: [BS **6** 350; [AS 1950 1467](https://fedlex.data.admin.ch/eli/oc/1950/1467_1511_1477); [1954 1316](https://fedlex.data.admin.ch/eli/oc/1954/1316_1349_1376); [1958 398](https://fedlex.data.admin.ch/eli/oc/1958/398_412_412); [1971 947](https://fedlex.data.admin.ch/eli/oc/1971/947_946_946); [1973 1066](https://fedlex.data.admin.ch/eli/oc/1973/1066_1066_1064); [1975 1213](https://fedlex.data.admin.ch/eli/oc/1975/1213_1213_1213); [1977 2103](https://fedlex.data.admin.ch/eli/oc/1977/2103_2103_2103); [1978 2066](https://fedlex.data.admin.ch/eli/oc/1978/2066_2066_2066); [1982 144](https://fedlex.data.admin.ch/eli/oc/1982/144_144_144); [1984 584](https://fedlex.data.admin.ch/eli/oc/1984/584_584_584); [1985 1222](https://fedlex.data.admin.ch/eli/oc/1985/1222_1222_1222); [1988 878](https://fedlex.data.admin.ch/eli/oc/1988/878_878_878); [1992 1072](https://fedlex.data.admin.ch/eli/oc/1992/1072_1072_1072)]
 
 #### Art. 202
 
@@ -3209,7 +3212,7 @@ Der Bundesratsbeschluss vom 9. Dezember 1940[^201-1] über die Erhebung einer di
 
 Artikel 47 Absatz 2 des Bundesgesetzes vom 20. September 1949[^202-1] über die Militärversicherung (MVG) ist nicht anwendbar hinsichtlich der Renten und Kapitalleistungen, die nach Inkrafttreten dieses Gesetzes zu laufen beginnen oder fällig werden.
 
-[^202-1]: [[AS 1949 1671](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705), [1956 759](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825), [1959 303](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293), [1964 253](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245), [1968 563](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580), [1972 897](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)Art. 15 Ziff. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 5[2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 116, [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Anhang Ziff. 9, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 414. [AS 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)Anhang Ziff. 1]. Siehe heute Art. 116 des BG vom 19. Juni 1992 ([SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)).
+[^202-1]: [[AS 1949 1671](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705); [1956 759](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825); [1959 303](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293); [1964 253](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245); [1968 563](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580); [1972 897](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)Art. 15 Ziff. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 5,[2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 116; [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Anhang Ziff. 9; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 414. [AS 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)Anhang Ziff. 1]. Siehe heute Art. 116 des BG vom 19. Juni 1992 ([SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)).
 
 #### Art. 203
 

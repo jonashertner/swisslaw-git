@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 1990 sur l'impôt fédéral direct (LIFD)
 short: LIFD
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20210101/fr"
 
 (LIFD)
 
-du 14 décembre 1990 (Etat le 1<sup>er</sup> janvier 2021)
+du 14 décembre 1990 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -521,6 +521,7 @@ Sont exonérés de l’impôt:
 - i<sup>bis</sup>.[^24-5] les gains unitaires jusqu’à concurrence d’un montant d’un million de francs provenant de la participation à un jeu de grande envergure autorisé par la LJAr et de la participation en ligne à des jeux de casino autorisés par la LJAr;
 - i<sup>ter</sup>.[^24-6] les gains provenant d’un jeu de petite envergure autorisé par la LJAr;
 - j.[^24-7] les gains unitaires jusqu’à concurrence de 1000 francs provenant d’un jeu d’adresse ou d’une loterie destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l’art. 1, al. 2, let. d et e de cette loi.
+- k.[^24-8] les revenus perçus en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^24-9].
 
 [^24-1]: Nouvelle teneur selon l’annexe ch. 7 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
 [^24-2]: Introduite par le ch. I 1 de la LF du 17 juin 2011 sur l’exonération de la solde allouée pour le service du feu, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [FF 2010 2595](https://fedlex.data.admin.ch/eli/fga/2010/508)).
@@ -529,6 +530,8 @@ Sont exonérés de l’impôt:
 [^24-5]: Introduite par l’annexe ch. II 5 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^24-6]: Introduite par l’annexe ch. II 5 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^24-7]: Introduite le ch. I 1 de la LF du 15 juin 2012 sur les simplifications de l’imposition des gains faits dans les loteries ([RO 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [FF 2011 6035](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6059](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Nouvelle teneur selon l’annexe ch. II 5 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^24-8]: Introduite par l’annexe ch. 2 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
+[^24-9]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
 ### Chapitre 3 Détermination du revenu net
 
@@ -911,7 +914,7 @@ Lorsque le revenu comprend des versements de capitaux remplaçant des prestation
 [^39-1]: Nouvelle teneur selon le ch. I de LF du 25 sept. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 453](https://fedlex.data.admin.ch/eli/oc/2010/59); [FF 2009 1415](https://fedlex.data.admin.ch/eli/fga/2009/362)).
 [^39-2]: Abrogé par le ch. I de LF du 25 sept. 2009, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 453](https://fedlex.data.admin.ch/eli/oc/2010/59); [FF 2009 1415](https://fedlex.data.admin.ch/eli/fga/2009/362)).
 
-### Titre 3**** Imposition dans le temps
+### Titre 3 Imposition dans le temps
 
 [^part2-tit3-1]
 
@@ -1350,7 +1353,7 @@ En ce qui concerne les sociétés mères de banques d’importance systémique a
 
 [^71-1]: Nouvelle teneur selon le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 
-### Section 4**** Placements collectifs de capitaux
+### Section 4 Placements collectifs de capitaux
 
 [^part3-tit2-chap2-sec4-1]
 
@@ -1524,7 +1527,7 @@ Les personnes imposées à la source en vertu de l’art. 83, al. 1, sont soumis
 
 [^90-1]: Abrogé par le ch. I 1 de la LF du 16 déc. 2016 sur la révision de l’imposition à la source du revenu de l’activité lucrative, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [FF 2015 625](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
-### Titre 2 Personnes physiques qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal et personnes morales qui n’ont ni leur siège ni leur administration effective en Suisse****
+### Titre 2 Personnes physiques qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal et personnes morales qui n’ont ni leur siège ni leur administration effective en Suisse
 
 [^part4-tit2-1]
 
@@ -1734,7 +1737,7 @@ L’AFC peut notamment:
 
 ### Chapitre 2 Autorités cantonales
 
-### Section 1 Organisation et surveillance****
+### Section 1 Organisation et surveillance
 
 [^part5-tit1-chap2-sec1-1]
 
@@ -3218,7 +3221,7 @@ L’art. 47, al. 2, de la loi fédérale du 20 septembre 1949 sur l’assurance 
 
 **Modification de la LAVS**
 
-### …**
+### …
 
 [^203-subdiv-1]
 
@@ -3386,7 +3389,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1995[^222-2]
 [^222-1]: Abrogé par le ch. I 1 de la LF du 10 oct. 1997 sur la réforme 1997 de l’imposition des sociétés, avec effet au 1<sup>er</sup> janv. 1998 ([RO 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [FF 1997 II 1058](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^222-2]: ACF du 3 juin 1991
 
-## Dispositions finales de la modification du 8 octobre 2004****
+## Dispositions finales de la modification du 8 octobre 2004
 
 [^u1-1]
 
