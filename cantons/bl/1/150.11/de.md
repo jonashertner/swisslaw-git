@@ -4,13 +4,13 @@ number: "150.11"
 title: Verordnung zum Personalgesetz
 short: Personalverordnung
 language: de
-version: 2021-03-01
-valid_until: 2021-06-30
-version_adopted: 2021-02-09
+version: 2021-07-01
+valid_until: 2021-07-31
+version_adopted: 2021-11-16
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.11"
-pdf: "https://bl.clex.ch/api/de/versions/2951/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3134/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2951/pdf_file"
 
 (Personalverordnung)
 
-Vom 19.12.2000 (Stand 01.03.2021)
+Vom 19.12.2000 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -792,11 +792,29 @@ beschliesst:
 - c. bei Lehrpersonen im Volksschulbereich auf Antrag der Anstellungsbehörde das Amt für Volksschulen im Rahmen des budgetierten Urlaubkontingentes;
 - d. bei Lehrpersonen der weiterführenden Schulen auf Antrag der Schulleitung die Anstellungsbehörde im Rahmen des budgetierten Urlaubskontingents.
 
+#### § 50a
+
+**Bezahlter Betreuungsurlaub**
+
+<sup>1</sup> Mitarbeitende, die Anspruch auf eine Betreuungsentschädigung nach den Art. 16n ff. des Erwerbsersatzgesetzes[^50a-1] haben, weil ihr Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, haben Anspruch auf einen bezahlten Betreuungsurlaub von höchstens 14 Wochen. Pro Krankheitsfall oder Unfall entsteht nur ein Anspruch.
+
+<sup>2</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das 1. Taggeld bezogen wird.
+
+<sup>3</sup> Sind beide Eltern erwerbstätig, so hat jeder Elternteil Anspruch auf Betreuungsurlaub. Sie können dessen Bezug untereinander aufteilen. Kann keine Einigung erzielt werden, so werden jedem Elternteil 7 Wochen zugesprochen.
+
+<sup>4</sup> Die Mitarbeitenden informieren ihre Vorgesetzten unverzüglich über die Modalitäten des Urlaubsbezugs sowie über Änderungen. Der Urlaub kann am Stück oder tageweise bezogen werden.
+
+<sup>5</sup> Während der Dauer der Lohnfortzahlung fällt die Erwerbsausfallentschädigung des Bundes an den Arbeitgeber.
+
+[^50a-1]: [SR 834.1](https://db.clex.ch/link/Bund/834.1/de)
+
 #### § 51
 
-**Arbeits- und Rückzahlungsverpflichtung bei unbezahltem Urlaub**
+**Arbeits- und Rückzahlungsverpflichtung bei bezahltem Urlaub**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeitern, denen bezahlter Urlaub im Wert von mehr als CHF 3'000.– gewährt wird, haben eine Arbeitsverpflichtung abzuschliessen.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeitern, denen bezahlter Urlaub im Wert von mehr als CHF 3'000.– gewährt wird, haben eine Arbeits- und Rückzahlungsverpflichtung abzuschliessen.
+
+<sup>1<sup>bis</sup></sup> Von der Regelung gemäss Abs. 1 ausgenommen ist die Gewährung von bezahltem Urlaub nach § 50a.
 
 <sup>2</sup> Mit der Arbeits- und Rückzahlungsverpflichtung bindet sich die Mitarbeiterin oder der Mitarbeiter während maximal 3 Jahren nach Beendigung des bezahlten Urlaubs im Arbeitsverhältnis mit dem Kanton zu verbleiben.
 
