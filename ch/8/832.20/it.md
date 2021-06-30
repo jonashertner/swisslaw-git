@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 1981 sull'assicurazione contro gli infortuni
 short: LAINF
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1981-03-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20210101/it"
 
 (LAINF)
 
-del 20 marzo 1981 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 20 marzo 1981 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -284,14 +284,14 @@ Nel fissare l’importo massimo del guadagno assicurato conformemente all’arti
 
 <sup>2</sup> Il diritto all’indennità giornaliera nasce il terzo giorno successivo a quello dell’infortunio. Esso si estingue con il ripristino della piena capacità lavorativa, con l’assegnazione di una rendita o con la morte dell’assicurato.
 
-<sup>3</sup> L’indennità giornaliera dell’assicurazione contro gli infortuni non è concessa finché sussiste il diritto all’indennità giornaliera dell’assicurazione per l’invalidità oppure all’indennità di maternità o di paternità ai sensi della legge del 25 settembre 1952[^16-3] sulle indennità di perdita di guadagno.[^16-4]
+<sup>3</sup> L’indennità giornaliera dell’assicurazione contro gli infortuni non è concessa finché sussiste il diritto all’indennità giornaliera dell’assicurazione per l’invalidità oppure all’indennità di maternità, di paternità o di assistenza ai sensi della legge del 25 settembre 1952[^16-3] sulle indennità di perdita di guadagno.[^16-4]
 
 <sup>4</sup> L’indennità giornaliera è versata ai disoccupati senza computare periodi di attesa (art. 18 cpv. 1 LADI[^16-5]) o giorni di sospensione (art. 30 LADI).[^16-6]
 
 [^16-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^16-2]: Nuovo testo giusta l’all. n. 12 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^16-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^16-4]: Nuovo testo giusta l’all. n. 3 della LF del 27 set. 2019, in vigore dal 1° gen. 2021 ([RU 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 2815](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3191](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^16-4]: Nuovo testo giusta il n. II 3 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^16-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^16-6]: Introdotto dal n. I della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 

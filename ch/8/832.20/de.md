@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. März 1981 über die Unfallversicherung (UVG)
 short: UVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1981-03-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20210101/de"
 
 (UVG)
 
-vom 20. März 1981 (Stand am 1. Januar 2021)
+vom 20. März 1981 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -284,14 +284,14 @@ Bei der Festsetzung des Höchstbetrags des versicherten Verdienstes nach Artikel
 
 <sup>2</sup> Der Anspruch auf Taggeld entsteht am dritten Tag nach dem Unfalltag. Er erlischt mit der Wiedererlangung der vollen Arbeitsfähigkeit, mit dem Beginn einer Rente oder mit dem Tod des Versicherten.
 
-<sup>3</sup> Das Taggeld der Unfallversicherung wird nicht gewährt, wenn ein Anspruch auf ein Taggeld der Invalidenversicherung oder eine Mutterschafts- oder Vaterschaftsentschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^16-3] besteht.[^16-4]
+<sup>3</sup> Das Taggeld der Unfallversicherung wird nicht gewährt, wenn ein Anspruch auf ein Taggeld der Invalidenversicherung oder auf eine Mutterschaftsentschädigung, eine Vaterschaftsentschädigung oder eine Betreuungsentschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^16-3] besteht.[^16-4]
 
 <sup>4</sup> An arbeitslose Personen wird das Taggeld unabhängig von zu bestehenden Wartezeiten (Art. 18 Abs. 1 AVIG[^16-5]) oder Einstelltagen (Art. 30 AVIG) ausgerichtet.[^16-6]
 
 [^16-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^16-2]: Fassung gemäss Anhang Ziff. 12 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^16-3]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^16-4]: Fassung gemäss Anhang Ziff. 3 des BG vom 27. Sept. 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^16-4]: Fassung gemäss Ziff. II 3 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^16-5]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^16-6]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 

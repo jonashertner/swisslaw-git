@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 mars 1981 sur l'assurance-accidents (LAA)"
 short: LAA
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676"
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1981-03-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1676_1676_1676-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/1676_1676_1676/20210101/fr"
 
 (LAA)
 
-du 20 mars 1981 (Etat le 1<sup>er</sup> janvier 2021)
+du 20 mars 1981 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -285,14 +285,14 @@ Lorsque le Conseil fédéral fixe le montant maximal du gain assuré au sens de 
 
 <sup>2</sup> Le droit à l’indemnité journalière naît le troisième jour qui suit celui de l’accident. Il s’éteint dès que l’assuré a recouvré sa pleine capacité de travail, dès qu’une rente est versée ou dès que l’assuré décède.
 
-<sup>3</sup> L’indemnité journalière de l’assurance-accidents n’est pas allouée s’il existe un droit à une indemnité journalière de l’assurance-invalidité ou à une allocation de maternité ou de paternité selon la loi du 25 septembre 1952 sur les allocations pour perte de gain[^16-3].[^16-4]
+<sup>3</sup> L’indemnité journalière de l’assurance-accidents n’est pas allouée s’il existe un droit à une indemnité journalière de l’assurance-invalidité ou à une allocation de maternité, de paternité ou de prise en charge selon la loi du 25 septembre 1952 sur les allocations pour perte de gain[^16-3].[^16-4]
 
 <sup>4</sup> L’indemnité journalière est versée aux personnes au chômage nonobstant les délais d’attente (art. 18, al. 1, LACI[^16-5]) ou les jours de suspension (art. 30 LACI).[^16-6]
 
 [^16-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^16-2]: Nouvelle teneur selon l’annexe ch. 12 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^16-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^16-4]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [FF 2019 3309](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3743](https://fedlex.data.admin.ch/eli/fga/2019/1398)).
+[^16-4]: Nouvelle teneur selon le ch. II 3 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^16-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^16-6]: Introduit par le ch. I de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 
