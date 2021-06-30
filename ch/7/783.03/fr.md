@@ -3,11 +3,11 @@ sr: "783.03"
 title: Ordonnance du 20 mai 2020 sur des mesures transitoires en faveur de la presse écrite en lien avec le coronavirus (COVID-19) (Ordonnance COVID-19 la presse écrite)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/348"
 language: fr
-version: 2020-12-01
+version: 2021-07-01
 adopted: 2020-05-20
 in_force: 2020-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/348/20201201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-348-20201201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/348/20201201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/348/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-348-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/348/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/348/20201201/fr"
 
 (Ordonnance COVID-19 presse écrite)
 
-du 20 mai 2020 (Etat le 1<sup>er</sup> décembre 2020)
+du 20 mai 2020 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -58,22 +58,23 @@ Jusqu’au 30 novembre 2020, la Confédération verse les contributions uniques 
 
 <sup>1bis</sup>
 
-Du 1<sup>er</sup> décembre 2020 au 30 juin 2021, elle verse les contributions uniques de soutien suivantes en faveur des quotidiens et hebdomadaires en abonnement:
+Du 1<sup>er</sup> décembre 2020 au 31 décembre 2021, elle verse les contributions uniques de soutien suivantes en faveur des quotidiens et hebdomadaires en abonnement:[^3-2]
 
 - a. 14,585 millions de francs en faveur des journaux visés à l’art. 2, let. a;
-- b. 5,835 millions de francs en faveur des journaux visés à l’art. 2, let b.[^3-2]
+- b. 5,835 millions de francs en faveur des journaux visés à l’art. 2, let b.[^3-3]
 
-<sup>1ter</sup> Si la présente ordonnance cesse de produire effet avant le 30 juin 2021, les montants prévus à l’al. 1<sup>bis</sup> sont réduits *pro rata temporis*.[^3-3]
+<sup>1ter</sup> Si la présente ordonnance cesse de produire effet avant le 31 décembre 2021, les montants figurant à l’al. 1<sup>bis</sup> sont réduits *pro rata temporis*.[^3-4]
 
-<sup>2</sup> Les contributions sont accordées en vue du financement de mesures transitoires temporaires et indépendamment du rabais pour la distribution visé à l’art. 16, al. 4, let. a, LPO[^3-4].
+<sup>2</sup> Les contributions sont accordées en vue du financement de mesures transitoires temporaires et indépendamment du rabais pour la distribution visé à l’art. 16, al. 4, let. a, LPO[^3-5].
 
-<sup>3</sup> Elles ne sont versées que si l’éditeur concerné s’engage par écrit vis-à-vis de l’Office fédéral de la communication (OFCOM) à ne pas verser de dividendes pour les exercices 2020 et 2021.[^3-5]
+<sup>3</sup> Elles ne sont versées que si l’éditeur concerné s’engage par écrit vis-à-vis de l’Office fédéral de la communication (OFCOM) à ne pas verser de dividendes pour les exercices 2020 et 2021.[^3-6]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> déc. 2020 ([RO 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
-[^3-2]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> déc. 2020 ([RO 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 409](https://fedlex.data.admin.ch/eli/oc/2021/409)).
 [^3-3]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> déc. 2020 ([RO 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
-[^3-4]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^3-5]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> déc. 2020 ([RO 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
+[^3-4]: Introduit par le ch. I de l’O du 11 nov. 2020 ([RO 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 409](https://fedlex.data.admin.ch/eli/oc/2021/409)).
+[^3-5]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^3-6]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> déc. 2020 ([RO 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
 
 #### Art. 4
 
@@ -121,4 +122,7 @@ Du 1<sup>er</sup> décembre 2020 au 30 juin 2021, elle verse les contributions u
 
 <sup>3</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 30 juin 2021.[^7-1]
 
+<sup>4</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2021.[^7-2]
+
 [^7-1]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> déc. 2020 ([RO 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
+[^7-2]: Introduit par le ch. I de l’O du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 409](https://fedlex.data.admin.ch/eli/oc/2021/409)).

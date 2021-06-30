@@ -3,11 +3,11 @@ sr: "783.03"
 title: Verordnung vom 20. Mai 2020 über Übergangsmassnahmen zugunsten der Printmedien im Zusammenhang mit dem Coronavirus (Covid-19-Verordnung Printmedien)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/348"
 language: de
-version: 2020-12-01
+version: 2021-07-01
 adopted: 2020-05-20
 in_force: 2020-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/348/20201201/de/xml/fedlex-data-admin-ch-eli-cc-2020-348-20201201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/348/20201201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/348/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2020-348-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/348/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/348/20201201/de"
 
 (Covid-19-Verordnung Printmedien)
 
-vom 20. Mai 2020 (Stand am 1. Dezember 2020)
+vom 20. Mai 2020 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -58,22 +58,23 @@ Der Bund leistet zur Unterstützung der abonnierten Tages- und Wochenzeitungen b
 
 <sup>1bis</sup>
 
-Er leistet zur Unterstützung der abonnierten Tages- und Wochenzeitungen vom 1. Dezember 2020 bis zum 30. Juni 2021 folgende einmalige Beiträge:
+Er leistet zur Unterstützung der abonnierten Tages- und Wochenzeitungen vom 1. Dezember 2020 bis zum 31. Dezember 2021 folgende einmalige Beiträge:[^3-2]
 
 - a. 14,585 Millionen Franken für die Zeitungen nach Artikel 2 Buchstabe a;
-- b. 5,835 Millionen Franken für die Zeitungen nach Artikel 2 Buchstabe b.[^3-2]
+- b. 5,835 Millionen Franken für die Zeitungen nach Artikel 2 Buchstabe b.[^3-3]
 
-<sup>1ter</sup> Tritt diese Verordnung vor dem 30. Juni 2021 ausser Kraft, so werden die Beträge nach Absatz 1<sup>bis</sup> *pro rata temporis* gekürzt.[^3-3]
+<sup>1ter</sup> Tritt diese Verordnung vor dem 31. Dezember 2021 ausser Kraft, so werden die Beträge nach Absatz 1<sup>bis</sup> *pro rata temporis* gekürzt.[^3-4]
 
-<sup>2</sup> Die Beiträge werden zur Finanzierung von befristeten Übergangsmassnahmen und unabhängig von der Zustellermässigung nach Artikel 16 Absatz 4 Buchstabe a PG[^3-4] geleistet.
+<sup>2</sup> Die Beiträge werden zur Finanzierung von befristeten Übergangsmassnahmen und unabhängig von der Zustellermässigung nach Artikel 16 Absatz 4 Buchstabe a PG[^3-5] geleistet.
 
-<sup>3</sup> Sie werden nur geleistet, wenn sich die betreffende Herausgeberin oder der betreffende Herausgeber gegenüber dem Bundesamt für Kommunikation (BAKOM) schriftlich verpflichtet, für die Geschäftsjahre 2020 und 2021 keine Dividende auszuschütten.[^3-5]
+<sup>3</sup> Sie werden nur geleistet, wenn sich die betreffende Herausgeberin oder der betreffende Herausgeber gegenüber dem Bundesamt für Kommunikation (BAKOM) schriftlich verpflichtet, für die Geschäftsjahre 2020 und 2021 keine Dividende auszuschütten.[^3-6]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Dez. 2020 ([AS 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
-[^3-2]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Dez. 2020 ([AS 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
+[^3-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 409](https://fedlex.data.admin.ch/eli/oc/2021/409)).
 [^3-3]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Dez. 2020 ([AS 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
-[^3-4]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^3-5]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Dez. 2020 ([AS 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
+[^3-4]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020 ([AS 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)). Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 409](https://fedlex.data.admin.ch/eli/oc/2021/409)).
+[^3-5]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^3-6]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Dez. 2020 ([AS 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
 
 #### Art. 4
 
@@ -121,4 +122,7 @@ Er leistet zur Unterstützung der abonnierten Tages- und Wochenzeitungen vom 1. 
 
 <sup>3</sup> Die Geltungsdauer dieser Verordnung wird bis zum 30. Juni 2021 verlängert.[^7-1]
 
+<sup>4</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2021 verlängert.[^7-2]
+
 [^7-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Dez. 2020 ([AS 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
+[^7-2]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 409](https://fedlex.data.admin.ch/eli/oc/2021/409)).

@@ -3,11 +3,11 @@ sr: "783.03"
 title: Ordinanza del 20 maggio 2020 concernente misure transitorie a favore dei media stampati legate al coronavirus (COVID-19) (Ordinanza COVID-19 media stampati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/348"
 language: it
-version: 2020-12-01
+version: 2021-07-01
 adopted: 2020-05-20
 in_force: 2020-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/348/20201201/it/xml/fedlex-data-admin-ch-eli-cc-2020-348-20201201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/348/20201201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/348/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2020-348-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/348/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/348/20201201/it"
 
 (Ordinanza COVID-19 media stampati)
 
-del 20 maggio 2020 (Stato 1° dicembre 2020) (Stato 1° dicembre 2020)
+del 20 maggio 2020 (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -58,22 +58,23 @@ Fino al 30 novembre 2020 la Confederazione versa i seguenti contributi unici a s
 
 <sup>1bis</sup>
 
-Dal 1° dicembre 2020 al 30 giugno 2021 versa i seguenti contributi unici a sostegno dei quotidiani e dei settimanali in abbonamento:
+Dal 1° dicembre 2020 al 31 dicembre 2021 versa i seguenti contributi unici a sostegno dei quotidiani e dei settimanali in abbonamento:[^3-2]
 
 - a. 14,585 milioni di franchi per i giornali di cui all’articolo 2 lettera a;
-- b. 5,835 milioni di franchi per i giornali di cui all’articolo 2 lettera b.[^3-2]
+- b. 5,835 milioni di franchi per i giornali di cui all’articolo 2 lettera b.[^3-3]
 
-<sup>1ter</sup> Se la presente ordinanza è abrogata prima del 30 giugno 2021, gli importi di cui al capoverso 1<sup>bis</sup> sono ridotti *pro rata temporis*.[^3-3]
+<sup>1ter</sup> Se la presente ordinanza è abrogata prima del 31 dicembre 2021, gli importi di cui al capoverso 1<sup>bis</sup> sono ridotti *pro rata temporis*.[^3-4]
 
-<sup>2</sup> I contributi sono versati per il finanziamento di misure transitorie temporanee e sono indipendenti dalla riduzione per la distribuzione secondo l’articolo 16 capoverso 4 lettera a LPO[^3-4].
+<sup>2</sup> I contributi sono versati per il finanziamento di misure transitorie temporanee e sono indipendenti dalla riduzione per la distribuzione secondo l’articolo 16 capoverso 4 lettera a LPO[^3-5].
 
-<sup>3</sup> Sono versati unicamente se gli editori in questione si impegnano per scritto nei confronti dell’Ufficio federale delle comunicazioni (UFCOM) a non versare dividendi per gli esercizi 2020 e 2021.[^3-5]
+<sup>3</sup> Sono versati unicamente se gli editori in questione si impegnano per scritto nei confronti dell’Ufficio federale delle comunicazioni (UFCOM) a non versare dividendi per gli esercizi 2020 e 2021.[^3-6]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° dic. 2020 ([RU 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
-[^3-2]: Introdotto dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° dic. 2020 ([RU 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 409](https://fedlex.data.admin.ch/eli/oc/2021/409)).
 [^3-3]: Introdotto dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° dic. 2020 ([RU 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
-[^3-4]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
-[^3-5]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° dic. 2020 ([RU 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
+[^3-4]: Introdotto dal n. I dell’O dell’11 nov. 2020 ([RU 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)). Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 409](https://fedlex.data.admin.ch/eli/oc/2021/409)).
+[^3-5]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^3-6]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° dic. 2020 ([RU 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
 
 #### Art. 4
 
@@ -121,4 +122,7 @@ Dal 1° dicembre 2020 al 30 giugno 2021 versa i seguenti contributi unici a sost
 
 <sup>3</sup> La durata di validità della presente ordinanza è prorogata sino al 30 giugno 2021.[^7-1]
 
+<sup>4</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2021.[^7-2]
+
 [^7-1]: Introdotto dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° dic. 2020 ([RU 2020 4671](https://fedlex.data.admin.ch/eli/oc/2020/839)).
+[^7-2]: Introdotto dal n. I dell’O del 30 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 409](https://fedlex.data.admin.ch/eli/oc/2021/409)).
