@@ -3,13 +3,13 @@ canton: BS
 number: BaB 162.110
 title: Reglement zur Anstellungsordnung
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
+version: 2021-07-01
+valid_until: 2022-01-12
 version_adopted: 2021-05-04
 adopted: 1999-01-12
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5253/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5307/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5253/pdf_file"
 
 Anstellungsordnung: Reglement | Basel: Bürgergemenide
 
-Vom 12. Januar 1999 (Stand 1. Januar 2021)
+Vom 12. Januar 1999 (Stand 1. Juli 2021)
 
 Der Bürgerrat der Stadt Basel erlässt in Ausführung von § 28 der Ordnung betreffend die Anstellungsverhältnisse bei der Bürgergemeinde der Stadt Basel (Anstellungsordnung, AO) vom 28. April 1998[^ingress-1] folgendes Reglement:
 
@@ -324,7 +324,7 @@ Bürgerliches Waisenhaus
 
 #### § 26
 
-**Kürzung bei langer Abwesenheit infolge Krankheit, Unfall, Schwangerschaft/Mutterschaft, Militär, Zivildienst**
+**Kürzung bei langer Abwesenheit**
 
 <sup>1</sup> Bei einer Abwesenheit bis zu einem Monat innerhalb eines Kalenderjahres wird der Ferienanspruch nicht gekürzt.
 
@@ -332,11 +332,15 @@ Bürgerliches Waisenhaus
 
 <sup>3</sup> Es bleibt jedoch ein jährlicher Ferienanspruch von mindestens einer Woche erhalten.
 
-<sup>4</sup> Die Ferien werden nicht gekürzt, wenn eine Mitarbeiterin wegen Schwangerschaft bis zu drei Monaten an der Arbeitsleistung verhindert ist und für die Zeit, in welcher sie die Mutterschaftsentschädigung im Sinne des Erwerbsersatzgesetzes bezogen hat.
+<sup>4</sup> Die Ferien werden nicht gekürzt:
+
+- a) wenn eine Mitarbeiterin wegen Schwangerschaft bis zu drei Monaten an der Arbeitsleistung verhindert ist und für die Zeit, in welcher sie die Mutterschaftsentschädigung im Sinn des Bundesgesetzes über den Erwerbsersatz für Dienstleistende, bei Mutterschaft und bei Vaterschaft (Erwerbsersatzgesetz, EOG) vom 25. September 1952 bezogen hat;
+- b) für die Zeit, in welcher ein Vater eine Vaterschaftsentschädigung im Sinn des Erwerbsersatzgesetzes bezogen hat;
+- c) für die Zeit, in welcher eine Mitarbeiterin oder ein Mitarbeiter eine Betreuungsentschädigung im Sinn des Erwerbsersatzgesetzes bezogen hat.
 
 <sup>5</sup> Bei teilweiser Arbeitsunfähigkeit können die Ferien nur im Umfang des vertraglich festgelegten Pensums bezogen werden.
 
-## 11. Schwangerschafts- und Mutterschaftsurlaub (§ 17 AO)
+## 11. Schwangerschafts- und Mutterschaftsurlaub, Betreuungsurlaub (§§ 17 und § 17a AO)
 
 #### § 27
 
@@ -377,6 +381,22 @@ Bürgerliches Waisenhaus
 <sup>3</sup> Sofern es die betrieblichen Verhältnisse erlauben, kann auf Gesuch der Mitarbeiterin sowohl für die Zeit der Schwangerschaft als auch für die Zeit nach dem Mutterschaftsurlaub der bisherige Beschäftigungsgrad, unter entsprechender Kürzung des Lohnes, reduziert werden.
 
 <sup>4</sup> Bei Wiederaufnahme der Arbeit nach Schwangerschafts- und Mutterschaftsurlaub sowie bei anschliessendem unbezahlten Urlaub wird der Mitarbeiterin der bisherige Arbeitsplatz im Rahmen der betrieblichen Möglichkeiten garantiert. Andernfalls ist der Mitarbeiterin eine ihrer Ausbildung entsprechende Stelle anzubieten.
+
+#### § 30a
+
+**Betreuungsurlaub**
+
+<sup>1</sup> Pro Krankheitsfall oder Unfall entsteht nur ein Anspruch.
+
+<sup>2</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem ersten Tag, für welchen die Betreuungsentschädigung ausgerichtet worden ist.
+
+<sup>3</sup> Der Urlaub kann am Stück oder tageweise bezogen werden.
+
+<sup>4</sup> Sind beide Eltern erwerbstätig, so hat jeder Elternteil Anspruch auf einen Betreuungsurlaub von höchstens sieben Wochen. Sie können eine abweichende Aufteilung des Urlaubs wählen.
+
+<sup>5</sup> Der Anspruch endet nach Ablauf der Rahmenfrist oder nach Ausschöpfung der Betreuungsentschädigung. Er endet vorzeitig, wenn die Voraussetzungen nicht mehr gegeben sind.
+
+<sup>6</sup> Die Mitarbeiterin oder der Mitarbeiter hat den Personaldienst über die Modalitäten des Urlaubsbezugs sowie über Änderungen unverzüglich zu informieren.
 
 ## 12. Bezahlte Absenzen (§ 18 AO)
 
