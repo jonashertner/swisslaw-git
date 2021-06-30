@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-06-29
+version: 2021-07-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210629/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210629-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210629/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210629/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 29 giugno 2021)
+del 19 giugno 2020 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -348,10 +348,15 @@ Le mascherine facciali che non sono state sottoposte a una procedura di valutazi
 
 <sup>5</sup> Le mascherine facciali immesse in commercio secondo il capoverso 4 non devono essere usate negli ospedali o negli studi medici per il contatto diretto con i pazienti.
 
+<sup>5bis</sup> L’app SwissCovid secondo l’ordinanza del 24 giugno 2020[^23-3] sul sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 e secondo l’ordinanza del 30 giugno 2021[^23-4] su un sistema di segnalazione di un possibile di contagio da coronavirus SARS-CoV-2 durante una manifestazione non sottostà alle disposizioni sulla valutazione della conformità di dispositivi medici.[^23-5]
+
 <sup>6</sup> Restano in vigore gli obblighi di sorveglianza sui dispositivi secondo l’ODmed, in particolare gli obblighi di raccolta e di notifica degli eventi gravi.
 
 [^23-1]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^23-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^23-3]: [RS 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
+[^23-4]: [RS 818.102.4](https://fedlex.data.admin.ch/eli/cc/2021/411)
+[^23-5]: Introdotto dall’art. 18 dell’O del 30 giu. 2021 su un sistema di segnalazione di un possibile di contagio da coronavirus SARS-CoV-2 durante una manifestazione, in vigore dal 1° lug. 2021 al 30 giu. 2022 ([RU 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)).
 
 #### Art. 23a
 
@@ -965,7 +970,7 @@ Allegato 6*[^t-8]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)). Correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)).
+[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)) e dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -1019,14 +1024,14 @@ Allegato 6*[^t-8]*
 
 - 1\.1.3
 
-  Per le analisi di biologia molecolare per il SARS-CoV-2 assume al massimo 156 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+  Per le analisi di biologia molecolare per il SARS-CoV-2 assume al massimo 153.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
   - a. per il prelievo del campione:
 
 <table>
-<tr><td>Prestazione</td><td>Importo massimo</td></tr>
-<tr><td>Colloquio con il paziente e prelievo del campione, compreso il materiale di protezione</td><td>25 fr.</td></tr>
-<tr><td>Invio del risultato del test alla persona testata e alle autorità competenti secondo l’articolo 12 capoverso 1 LEp e, in caso d’infezione accertata, richiesta del codice di attivazione generato dal sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 (sistema TP)</td><td>2.50 fr.</td></tr>
+<tr><th>Prestazione</th><th>Importo massimo</th></tr>
+<tr><td>Colloquio con il paziente e prelievo del campione, compreso il materiale di protezione</td><td>22.50 fr.</td></tr>
+<tr><td>Invio del risultato del test alla persona testata e alle autorità competenti secondo l’articolo 12 capoverso 1 LEp e, in caso d’infezione accertata, richiesta del codice di attivazione generato dal sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 (sistema TP), nonché per l’emissione del certificato del test COVID-19</td><td>2.50 fr.</td></tr>
 <tr><td>Colloquio medico-paziente dettagliato per stabilire l’indicazione da parte del medico, se del caso</td><td>22.50 fr.</td></tr>
 </table>
 
@@ -1086,13 +1091,13 @@ Allegato 6*[^t-8]*
 
 - 1\.2.3
 
-  Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 321.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+  Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 337.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
   - a. per il prelievo del campione:
 
 <table>
 <tr><td>Prestazione</td><td>Importo massimo</td></tr>
-<tr><td>Colloquio con il paziente e prelievo del campione, compreso il materiale di protezione</td><td>25 fr.</td></tr>
+<tr><td>Colloquio con il paziente e prelievo del campione, compreso il materiale di protezione</td><td>22.50 fr.</td></tr>
 <tr><td>Colloquio medico-paziente dettagliato per stabilire l’indicazione da parte del medico, se del caso</td><td>22.50 fr.</td></tr>
 </table>
 
@@ -1108,6 +1113,13 @@ Allegato 6*[^t-8]*
 <tr><td>– per l’analisi in caso di dimensione minima del campione aggregato di 4 campioni singoli</td><td>[tab] 82 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>5 fr.</td></tr>
 <tr><td>– supplemento per ogni altro campione prelevato fino alla dimensione massima del campione aggregato di 25 campioni singoli</td><td>8 fr.</td></tr>
+</table>
+
+- c. per l’aggregazione centralizzata:
+
+<table>
+<tr><th>Prestazione</th><th>Importo massimo</th></tr>
+<tr><td>Per l’esecuzione nell’ambito della scuola dell’obbligo e del livello secondario II nei casi di cui al numero 1.2.1 per ogni campione aggregato</td><td>18.50 fr.</td></tr>
 </table>
 
 ### 1.3 Analisi per gli anticorpi contro il SARS-CoV-2
@@ -1140,13 +1152,13 @@ Allegato 6*[^t-8]*
 
 - 1\.3.3
 
-  Per le analisi per gli anticorpi contro il SARS-CoV-2 assume al massimo 99 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+  Per le analisi per gli anticorpi contro il SARS-CoV-2 assume al massimo 96.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
   - a. per il prelievo del campione:
 
 <table>
-<tr><th>Prestazione</th><th>Importo massimo</th></tr>
-<tr><td>Colloquio con il paziente e prelievo del campione, compreso il materiale di protezione</td><td>25 fr.</td></tr>
+<tr><td>Prestazione</td><td>Importo massimo</td></tr>
+<tr><td>Colloquio con il paziente e prelievo del campione, compreso il materiale di protezione</td><td>22.50 fr.</td></tr>
 <tr><td>Invio del risultato del test alla persona testata e alle autorità competenti secondo l’articolo 12 capoverso 1 LEp</td><td>2.50 fr.</td></tr>
 <tr><td>Colloquio medico-paziente dettagliato per stabilire l’indicazione da parte del medico, se del caso</td><td>22.50 fr.</td></tr>
 </table>
@@ -1206,14 +1218,14 @@ Allegato 6*[^t-8]*
 
 - 1\.4.4
 
-  Per le analisi immunologiche degli antigeni SARS-CoV-2 e i test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico e lo standard di screening assume al massimo 95.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+  Per le analisi immunologiche degli antigeni SARS-CoV-2 e i test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico e lo standard di screening assume al massimo 88.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
   - a. per il prelievo del campione:
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
-<tr><td>Colloquio con il paziente e prelievo del campione, compreso il materiale di protezione</td><td>25 fr.</td></tr>
-<tr><td>Invio del risultato del test alla persona testata e alle autorità competenti secondo l’articolo 12 capoverso 1 LEp e, in caso d’infezione accertata, richiesta del codice di attivazione generato dal sistema TP</td><td>2.50 fr.</td></tr>
+<tr><td>Colloquio con il paziente e prelievo del campione, compreso il materiale di protezione</td><td>22.50 fr.</td></tr>
+<tr><td>Invio del risultato del test alla persona testata e alle autorità competenti secondo l’articolo 12 capoverso 1 LEp e, in caso d’infezione accertata, richiesta del codice di attivazione generato dal sistema TP, nonché per l’emissione del certificato del test COVID-19</td><td>2.50 fr.</td></tr>
 <tr><td>Colloquio medico-paziente dettagliato per stabilire l’indicazione da parte del medico, se del caso</td><td>22.50 fr.</td></tr>
 </table>
 
@@ -1221,11 +1233,11 @@ Allegato 6*[^t-8]*
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
-<tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>26.50 fr.</td></tr>
-<tr><td>– per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp</td><td>21.50 fr.</td></tr>
+<tr><td>Se eseguita senza incarico di un altro fornitore di prestazioni, di cui:</td><td>22 fr.</td></tr>
+<tr><td>– per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp</td><td>17 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico</td><td>5 fr.</td></tr>
-<tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>45.50 fr.</td></tr>
-<tr><td>– per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp</td><td>21.50 fr.</td></tr>
+<tr><td>Se eseguita su incarico di un altro fornitore di prestazioni, di cui:</td><td>41 fr.</td></tr>
+<tr><td>– per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp</td><td>17 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
 </table>
 
@@ -1312,12 +1324,12 @@ Allegato 6*[^t-8]*
     - 3\. da istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale,
     - 4\. da assistenti secondo la LAI.
 
-- 2\.1.3 Per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico o lo standard di screening assume al massimo 34 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 2\.1.3 Per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico o lo standard di screening assume al massimo 28 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
 <table>
 <tr><td>Prestazione</td><td>Importo massimo</td></tr>
-<tr><td>Se il campione non è prelevato dalla persona testata stessa: per il prelievo del campione e l’esecuzione del test, compresi il materiale necessario per il test, il materiale di protezione e il tempo di lavoro, nonché l’analisi e il disbrigo dell’incarico</td><td>34 fr.</td></tr>
-<tr><td>Se il campione è prelevato dalla persona testata stessa: per l’esecuzione del test, compresi il materiale necessario per il test, il materiale di protezione e il tempo di lavoro, nonché l’analisi e il disbrigo dell’incarico</td><td>15.50 fr.</td></tr>
+<tr><td>Se il campione non è prelevato dalla persona testata stessa: per il prelievo del campione e l’esecuzione del test, compresi il materiale necessario per il test, il materiale di protezione e il tempo di lavoro, nonché l’analisi e il disbrigo dell’incarico</td><td>28 fr.</td></tr>
+<tr><td>Se il campione è prelevato dalla persona testata stessa: per l’esecuzione del test, compresi il materiale necessario per il test, il materiale di protezione e il tempo di lavoro, nonché l’analisi e il disbrigo dell’incarico</td><td>14 fr.</td></tr>
 </table>
 
 ### 2.2 Analisi di biologia molecolare aggregate per il SARS-CoV-2
@@ -1358,13 +1370,13 @@ Allegato 6*[^t-8]*
 
 - 2\.2.3
 
-  Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 311 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+  Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 309 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
   - a. per il prelievo del campione:
 
 <table>
 <tr><td>Prestazione</td><td>Importo massimo</td></tr>
-<tr><td>Prelievo del campione, compresi il materiale di protezione e il tempo di lavoro, e disbrigo dell’incarico</td><td>18.50 fr.</td></tr>
+<tr><td>Prelievo del campione, compresi il materiale di protezione e il tempo di lavoro, e disbrigo dell’incarico</td><td>16.50 fr.</td></tr>
 </table>
 
 - b. per l’analisi di biologia molecolare aggregata:
@@ -1421,11 +1433,11 @@ Allegato 6*[^t-8]*
   - 3\. da istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale,
   - 4\. da assistenti secondo la LAI.
 
-- 3\.1.4 Per i test rapidi SARS-CoV-2 per uso professionale secondo i numeri 3.1.1 e 3.1.2 assume al massimo 8 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 3\.1.4 Per i test rapidi SARS-CoV-2 per uso professionale secondo i numeri 3.1.1 e 3.1.2 assume al massimo 6.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
-<tr><td>Per il test rapido SARS-CoV-2 per uso professionale, solo il materiale necessario per il test</td><td>8 fr.</td></tr>
+<tr><td>Per il test rapido SARS-CoV-2 per uso professionale, solo il materiale necessario per il test</td><td>6.50 fr.</td></tr>
 </table>
 
 [^annex6-lvlu1-lvl3-lvl31-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
@@ -1461,7 +1473,14 @@ Allegato 6*[^t-8]*
 ### 3.3 Test autodiagnostici SARS-CoV-2
 
 - 3\.3.1 La Confederazione assume le spese per un massimo di cinque test autodiagnostici SARS-CoV-2 per persona sull’arco di 30 giorni, se dispensati dalle farmacie.
-- 3\.3.2 ...
+- 3\.3.2 Per i test autodiagnostici SARS-CoV-2 assume al massimo 10 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+
+<table>
+<tr><th>Prestazione</th><th>Importo massimo</th></tr>
+<tr><td>Per un test autodiagnostico SARS-CoV-2 dispensato direttamente con contatto personale con i clienti, solo il materiale necessario per il test, compresi il prezzo di fabbrica per la consegna, un supplemento dell’80 % sul prezzo di fabbrica per la consegna nonché l’IVA a un’aliquota del 7,7 %.</td><td>10 fr.</td></tr>
+<tr><td>Per un test autodiagnostico SARS-CoV-2 inviato, solo il materiale necessario per il test, compresi il prezzo di fabbrica per la consegna, un supplemento del 60 % sul prezzo di fabbrica per la consegna nonché l’IVA a un’aliquota del 7,7 %.</td><td>9 fr.</td></tr>
+</table>
+
 - 3\.3.3 Non hanno diritto al rimborso delle spese dei test autodiagnostici
 
   SARS-CoV-2:

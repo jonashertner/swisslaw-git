@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-06-29
+version: 2021-07-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210629/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210629-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210629/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210629/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 29. Juni 2021)
+vom 19. Juni 2020 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -348,10 +348,15 @@ Gesichtsmasken, für die kein Konformitätsbewertungsverfahren nach Artikel 10 M
 
 <sup>5</sup> Gesichtsmasken, die nach Absatz 4 in Verkehr gebracht werden, dürfen nicht in Spitälern oder Arztpraxen für den direkten Kontakt mit Patientinnen und Patienten angewendet werden.
 
+<sup>5bis</sup> Die SwissCovid-App gemäss der Verordnung vom 24. Juni 2020[^23-3] über das Proximity-Tracing-System für das Coronavirus Sars-CoV-2 und gemäss der Verordnung vom 30. Juni 2021[^23-4] über ein System zur Benachrichtigung über eine mögliche Ansteckung mit dem Coronavirus Sars-CoV-2 an Veranstaltungen ist von den Bestimmungen über die Konformitätsbewertung von Medizinprodukten ausgenommen.[^23-5]
+
 <sup>6</sup> Die Pflichten zur Produktebeobachtung nach der MepV, insbesondere die Sammel- und Meldepflichten betreffend schwerwiegende Vorkommnisse, gelten weiterhin.
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^23-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^23-3]: [SR 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
+[^23-4]: [SR 818.102.4](https://fedlex.data.admin.ch/eli/cc/2021/411)
+[^23-5]: Eingefügt durch Art. 18 der V vom 30. Juni 2021 über ein System zur Benachrichtigung über eine mögliche Ansteckung mit dem Coronavirus Sars-CoV-2 an Veranstaltungen, in Kraft vom 1. Juli 2021 bis zum 30. Juni 2022 ([AS 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)).
 
 #### Art. 23a
 
@@ -968,7 +973,7 @@ Anhang 6*[^t-8]*
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) und vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)) und der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) und vom 23. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)) und der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)).
 
 ### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 
@@ -1022,14 +1027,14 @@ Anhang 6*[^t-8]*
 
 - 1\.1.3
 
-  Für molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 156 Franken. In diesem Betrag sind folgende Leistungen und Kostenanteile enthalten:
+  Für molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 153.50 Franken. In diesem Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>25 Fr.</td></tr>
-<tr><td>Für die Übermittlung des Testergebnisses an die getestete Person und an die zuständigen Behörden nach Artikel 12 Absatz 1 EpG sowie für die Anforderung des Freischaltcodes, der vom Proximity-Tracing-System für das Coronavirus Sars-CoV-2 (PT-System) generiert wird, bei nachgewiesener Infektion</td><td>2.50 Fr.</td></tr>
+<tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>22.50 Fr.</td></tr>
+<tr><td>Für die Übermittlung des Testergebnisses an die getestete Person und an die zuständigen Behörden nach Artikel 12 Absatz 1 EpG und für die Anforderung des Freischaltcodes, der vom Proximity-Tracing-System für das Coronavirus Sars-CoV-2 (PT-System) generiert wird, bei nachgewiesener Infektion, sowie für die Ausstellung des Covid-19-Testzertifikats</td><td>2.50 Fr.</td></tr>
 <tr><td>Für ein ausführliches Arzt-Patienten-Gespräch zur Indikationsstellung durch die Ärztin oder den Arzt, sofern ein solches durchgeführt wird</td><td>22.50 Fr.</td></tr>
 </table>
 
@@ -1087,13 +1092,13 @@ Anhang 6*[^t-8]*
 
 - 1\.2.3
 
-  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens Fr. 321.50. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens Fr. 337.50. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
 <table>
 <tr><td>Leistung</td><td>Höchstbetrag</td></tr>
-<tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>25 Fr.</td></tr>
+<tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>22.50 Fr.</td></tr>
 <tr><td>Für ein ausführliches Arzt-Patienten-Gespräch zur Indikationsstellung durch die Ärztin oder den Arzt, sofern ein solches durchgeführt wird</td><td>22.50 Fr.</td></tr>
 </table>
 
@@ -1109,6 +1114,13 @@ Anhang 6*[^t-8]*
 <tr><td>– für die Analyse, bei einer Mindestpoolgrösse von 4 Proben</td><td>82 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
 <tr><td>– Zuschlag pro zusätzliche Probenentnahme, bis zu einer Maximalpoolgrösse von 25 Proben</td><td>8 Fr.</td></tr>
+</table>
+
+- c. für das zentralisierte Pooling:
+
+<table>
+<tr><th>Leistung</th><th>Höchstbetrag</th></tr>
+<tr><td>Für die Durchführung auf der obligatorischen Schulstufe sowie auf der Sekundarstufe II in Fällen nach Ziffer 1.2.1 pro Poolerstellung</td><td>18.50 Fr.</td></tr>
 </table>
 
 ### 1.3 Analysen auf Sars-CoV-2-Antikörper
@@ -1141,13 +1153,13 @@ Anhang 6*[^t-8]*
 
 - 1\.3.3
 
-  Für die Analyse auf Sars-CoV-2-Antikörper übernimmt er höchstens 99 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+  Für die Analyse auf Sars-CoV-2-Antikörper übernimmt er höchstens 96.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
 <table>
 <tr><th colspan="3">Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td colspan="3">Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>25 Fr.</td></tr>
+<tr><td colspan="3">Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>22.50 Fr.</td></tr>
 <tr><td colspan="3">Für die Übermittlung des Testergebnisses an die getestete Person und an die zuständigen Behörden nach Artikel 12 Absatz 1 EpG</td><td>2.50 Fr.</td></tr>
 <tr><td colspan="3">Für das ausführliche Arzt-Patienten-Gespräch zur Indikationsstellung durch die Ärztin oder den Arzt, sofern ein solches durchgeführt wird</td><td>22.50 Fr.</td></tr>
 </table>
@@ -1207,14 +1219,14 @@ Anhang 6*[^t-8]*
 
 - 1\.4.4
 
-  Für immunologische Analysen auf Sars-CoV-2-Antigene und für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard und gemäss Screening-Standard übernimmt er höchstens 95.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+  Für immunologische Analysen auf Sars-CoV-2-Antigene und für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard und gemäss Screening-Standard übernimmt er höchstens 88.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>25 Fr.</td></tr>
-<tr><td>Für die Übermittlung des Testergebnisses an die getestete Person und an die zuständigen Behörden nach Artikel 12 Absatz 1 EpG sowie Anforderung des vom PT-System generierten Freischaltcodes bei nachgewiesener Infektion</td><td>2.50 Fr.</td></tr>
+<tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>22.50 Fr.</td></tr>
+<tr><td>Für die Übermittlung des Testergebnisses an die getestete Person und an die zuständigen Behörden nach Artikel 12 Absatz 1 EpG und für die Anforderung des vom PT-System generierten Freischaltcodes, bei nachgewiesener Infektion, sowie für die Ausstellung des Covid-19-Testzertifikats</td><td>2.50 Fr.</td></tr>
 <tr><td>Für ein ausführliches Arzt-Patienten-Gespräch zur Indikationsstellung durch die Ärztin oder den Arzt, sofern ein solches durchgeführt wird</td><td>22.50 Fr.</td></tr>
 </table>
 
@@ -1222,11 +1234,11 @@ Anhang 6*[^t-8]*
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers davon:</td><td>26.50 Fr.</td></tr>
-<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>21.50 Fr.</td></tr>
+<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers davon:</td><td>22 Fr.</td></tr>
+<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>17 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung</td><td>5 Fr.</td></tr>
-<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>45.50 Fr.</td></tr>
-<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>21.50 Fr.</td></tr>
+<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>41 Fr.</td></tr>
+<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>17 Fr.</td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
 </table>
 
@@ -1315,12 +1327,12 @@ Anhang 6*[^t-8]*
     - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
     - 4\. Assistenzpersonen nach dem IVG.
 
-- 2\.1.3 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung gemäss diagnostischem Standard oder gemäss Screening-Standard übernimmt er höchstens 34 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+- 2\.1.3 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung gemäss diagnostischem Standard oder gemäss Screening-Standard übernimmt er höchstens 28 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><td>Leistung</td><td>Höchstbetrag</td></tr>
-<tr><td>Sofern die Probenentnahme nicht durch die getestete Person selbst durchgeführt wird: für die Probenentnahme und Testdurchführung, einschliesslich des Testmaterials, des Schutzmaterials und der Arbeitszeit, sowie für die Analyse und die Auftragsabwicklung</td><td>34 Fr.</td></tr>
-<tr><td>Sofern die Probenentnahme durch die getestete Person selbst durchgeführt wird: für die Testdurchführung, einschliesslich des Testmaterials, des Schutzmaterials und der Arbeitszeit, sowie für die Analyse und die Auftragsabwicklung</td><td>15.50 Fr.</td></tr>
+<tr><td>Sofern die Probenentnahme nicht durch die getestete Person selbst durchgeführt wird: für die Probenentnahme und die Testdurchführung, einschliesslich des Testmaterials, des Schutzmaterials und der Arbeitszeit, sowie für die Analyse und die Auftragsabwicklung</td><td>28 Fr.</td></tr>
+<tr><td>Sofern die Probenentnahme durch die getestete Person selbst durchgeführt wird: für die Testdurchführung, einschliesslich des Testmaterials, des Schutzmaterials und der Arbeitszeit, sowie für die Analyse und die Auftragsabwicklung</td><td>14 Fr.</td></tr>
 </table>
 
 ### 2.2 Gepoolte molekularbiologische Analysen auf Sars-CoV-2
@@ -1361,13 +1373,13 @@ Anhang 6*[^t-8]*
 
 - 2\.2.3
 
-  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 311 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 309 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
 <table>
 <tr><td>Leistung</td><td>Höchstbetrag</td></tr>
-<tr><td>Für die Probenentnahme, einschliesslich des Schutzmaterials der Arbeitszeit, und für die Auftragsabwicklung</td><td>18.50 Fr.</td></tr>
+<tr><td>Für die Probenentnahme, einschliesslich des Schutzmaterials und Arbeitszeit, und für die Auftragsabwicklung</td><td>16.50 Fr.</td></tr>
 </table>
 
 - b. für die gepoolte molekularbiologische Analyse:
@@ -1424,11 +1436,11 @@ Anhang 6*[^t-8]*
   - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
   - 4\. Assistenzpersonen nach dem IVG.
 
-- 3\.1.4 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung nach den Ziffern 3.1.1 und 3.1.2 übernimmt er höchstens 8 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+- 3\.1.4 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung nach den Ziffern 3.1.1 und 3.1.2 übernimmt er höchstens 6.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Für den Sars-CoV-2-Schnelltest zur Fachanwendung, nur das Testmaterial</td><td>8 Fr.</td></tr>
+<tr><td>Für den Sars-CoV-2-Schnelltest zur Fachanwendung, nur das Testmaterial</td><td>6.50 Fr.</td></tr>
 </table>
 
 [^annex6-lvlu1-lvl3-lvl31-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
@@ -1464,7 +1476,14 @@ Anhang 6*[^t-8]*
 ### 3.3 Sars-CoV-2-Selbsttests
 
 - 3\.3.1 Der Bund übernimmt die Kosten von maximal fünf Sars-CoV-2-Selbsttests pro Person innerhalb von 30 Tagen, sofern sie durch Apotheken abgegeben werden.
-- 3\.3.2 ...
+- 3\.3.2 Für einen Sars-CoV-2-Selbsttest übernimmt er höchstens 10 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+
+<table>
+<tr><th>Leistung</th><th>Höchstbetrag</th></tr>
+<tr><td>Für den Sars-CoV-2-Selbsttest bei direkter Abgabe mit persönlichem Kundenkontakt, nur das Testmaterial, darin enthalten: der Fabrikabgabepreis, ein Zuschlag von 80 % auf den Fabrikabgabepreis sowie die Mehrwertsteuer zu einem Satz von 7,7 %</td><td>10 Fr.</td></tr>
+<tr><td>Für den Sars-CoV-2-Selbsttest bei Versand, nur das Testmaterial, darin enthalten: der Fabrikabgabepreis, ein Zuschlag von 60 % auf den Fabrikabgabepreis sowie die Mehrwertsteuer zu einem Satz von 7,7 %</td><td>9 Fr.</td></tr>
+</table>
+
 - 3\.3.3
 
   Folgende Personen haben keinen Anspruch auf die Kostenübernahme von Sars-CoV-2-Selbsttests:

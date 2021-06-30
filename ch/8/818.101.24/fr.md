@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-06-29
+version: 2021-07-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210629/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210629-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210629/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210629/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 29 juin 2021)
+du 19 juin 2020 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -348,10 +348,15 @@ Les masques faciaux pour lesquels aucune procédure d’évaluation de la confor
 
 <sup>5</sup> Les masques faciaux mis sur le marché en vertu de l’al. 4 ne peuvent pas être utilisés dans les hôpitaux et les cabinets médicaux pour le contact direct avec les patients.
 
+<sup>5bis</sup> L’application SwissCovid visée par l’ordonnance du 24 juin 2020 sur le système de traçage de proximité pour le coronavirus SARS-CoV-2[^23-3] et par l’ordonnance du 30 juin 2021 sur un système visant à informer d’une infection possible au coronavirus SARS-CoV-2 lors de manifestations[^23-4] n’est pas soumise aux dispositions sur l’évaluation de la conformité des dispositifs médicaux.[^23-5]
+
 <sup>6</sup> Les obligations concernant l’observation des produits au sens de l’ODim, en particulier l’obligation de collecter et de déclarer les incidents graves, continuent de s’appliquer.
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^23-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^23-3]: [RS 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
+[^23-4]: [RS 818.102.4](https://fedlex.data.admin.ch/eli/cc/2021/411)
+[^23-5]: Introduit par l’art.18 de l’O du 30 juin 2021, en vigueur du 1<sup>er</sup> juillet 2021 au 31 juin 2022 ([RO 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)).
 
 #### Art. 23a
 
@@ -1021,7 +1026,7 @@ Annexe 6*[^t-8]*
 
 ## Prestations et montants maximaux pris en charge pour les analyses pour le SARS-CoV-2
 
-[^t-8]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II des O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) et du 23 juin 2021, en vigueur depuis le 26 juin 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)). Erratum du 29 juin 2021 ([RO 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)).
+[^t-8]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Mise à jour par le ch. II des O du 12 mai 2021 ([RO 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) et du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)) et l’erratum du 23 juin 2021 ([RO 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)).
 
 ### 1 Tarif régulier pour les dépistages axés sur les symptômes et le nombre de cas
 
@@ -1074,14 +1079,14 @@ Annexe 6*[^t-8]*
 - b. pour l’analyse par les laboratoires visés à l’art. 54, al. 3, OAMal[^annex6-lvlu1-lvl1-lvl11-6] et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
 - 1\.1.3
 
-  Elle prend en charge au maximum 156 francs pour les analyses de biologie moléculaire pour le SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
+  Elle prend en charge au maximum 153,50 francs pour les analyses de biologie moléculaire pour le SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
 
   - a. pour le prélèvement de l’échantillon:
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation de l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection</td><td>25 francs</td></tr>
-<tr><td>Pour la transmission du résultat de l’analyse à la personne testée et aux autorités compétentes selon l’art. 12, al. 1, LEp, ainsi que pour la demande du code d’autorisation généré par l’application de traçage de proximité pour le coronavirus SARS-CoV-2 (système TP) en cas d’infection avérée</td><td>2,50 francs</td></tr>
+<tr><td>Pour la réalisation de l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection</td><td>22,50 francs</td></tr>
+<tr><td>Pour la transmission du résultat de l’analyse à la personne testée et aux autorités compétentes selon l’art. 12, al. 1, LEp, pour la demande du code d’autorisation généré par l’application de traçage de proximité pour le coronavirus SARS-CoV-2 (système TP) en cas d’infection avérée et pour l’établissement du certificat de test COVID-19</td><td>2,50 francs</td></tr>
 <tr><td>Pour un entretien détaillé médecin-patient avec pose de l’indication par le médecin, pour autant qu’un tel entretien soit effectué</td><td>22,50 francs</td></tr>
 </table>
 
@@ -1141,13 +1146,13 @@ Annexe 6*[^t-8]*
 
 - 1\.2.3
 
-  Elle prend en charge au maximum 321,50 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
+  Elle prend en charge au maximum 337,50 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
 
   - a. pour le prélèvement de l’échantillon:
 
 <table>
 <tr><td>Prestation</td><td>Montant maximal</td></tr>
-<tr><td>Pour l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection</td><td>25 francs</td></tr>
+<tr><td>Pour la réalisation de l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection</td><td>22,50 francs</td></tr>
 <tr><td>Pour un entretien détaillé médecin-patient avec pose de l’indication par le médecin, pour autant qu’un tel entretien soit effectué</td><td>22,50 francs</td></tr>
 </table>
 
@@ -1163,6 +1168,13 @@ Annexe 6*[^t-8]*
 <tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
 <tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>5 francs</td></tr>
 <tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>8 francs</td></tr>
+</table>
+
+- c. pour le pooling centralisé:
+
+<table>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour la réalisation à l’école obligatoire et au niveau secondaire II dans les cas prévus au ch. 1.2.1, par création de pool</td><td>18,50 francs</td></tr>
 </table>
 
 ### 1.3 Analyses des anticorps contre le SARS-CoV-2
@@ -1195,15 +1207,15 @@ Annexe 6*[^t-8]*
 
 - 1\.3.3
 
-  Elle prend en charge au maximum 99 francs pour l’analyse des anticorps contre le SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
+  Elle prend en charge au maximum 96,50 francs pour l’analyse des anticorps contre le SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
 
   - a. pour le prélèvement de l’échantillon:
 
 <table>
-<tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection</td><td>25 francs</td></tr>
-<tr><td>Pour la transmission du résultat de l’analyse à la personne testée et aux autorités compétentes selon l’art. 12, al. 1, LEp</td><td>2,50 francs</td></tr>
-<tr><td>Pour l’entretien détaillé médecin-patient avec pose de l’indication par le médecin, pour autant qu’un tel entretien soit effectué</td><td>22,50 francs</td></tr>
+<tr><th colspan="3">Prestation</th><th>Montant maximal</th></tr>
+<tr><td colspan="3">Pour la réalisation de l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection</td><td>22,50 francs</td></tr>
+<tr><td colspan="3">Pour la transmission du résultat de l’analyse à la personne testée et aux autorités compétentes selon l’art. 12, al. 1, LEp</td><td>2,50 francs</td></tr>
+<tr><td colspan="3">Pour l’entretien détaillé médecin-patient avec pose de l’indication par le médecin, pour autant qu’un tel entretien soit effectué</td><td>22,50 francs</td></tr>
 </table>
 
 - b. pour l’analyse des anticorps contre le SARS-CoV-2:
@@ -1261,26 +1273,26 @@ Annexe 6*[^t-8]*
 
 - 1\.4.4
 
-  Elle prend en charge au maximum 95,50 francs pour les analyses des antigènes du SARS-CoV-2 et pour les tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» et le «standard screening». Le montant comprend les prestations et les coûts suivants:
+  Elle prend en charge au maximum 88,50 francs pour les analyses des antigènes du SARS-CoV-2 et pour les tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» ou le «standard screening». Ce montant comprend les prestations et les coûts suivants:
 
   - a. pour le prélèvement de l’échantillon:
 
 <table>
-<tr><td>Prestation</td><td>Montant maximal</td></tr>
-<tr><td>Pour l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection</td><td>25 francs</td></tr>
-<tr><td>Pour la transmission du résultat de l’analyse à la personne testée et aux autorités compétentes selon l’art. 12, al. 1, LEp, ainsi que pour la demande du code d’autorisation généré par le système TP en cas d’infection avérée</td><td>2,50 francs</td></tr>
-<tr><td>Pour un entretien détaillé médecin-patient avec pose de l’indication par le médecin, pour autant qu’un tel entretien soit effectué</td><td>22,50 francs</td></tr>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour la réalisation de l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection</td><td>22,50 francs</td></tr>
+<tr><td>Pour la transmission du résultat de l’analyse à la personne testée et aux autorités compétentes selon l’art. 12, al. 1, LEp, pour la demande du code d’autorisation généré par le système TP en cas d’infection avérée et pour l’établissement du certificat de test COVID-19</td><td>2,50 francs</td></tr>
+<tr><td>Pour l’entretien détaillé médecin-patient avec pose de l’indication par le médecin, pour autant qu’un tel entretien soit effectué</td><td>22,50 francs</td></tr>
 </table>
 
-- b. pour l’analyse des antigènes du SARS-CoV-2 par immunologie et un test rapide SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» et le «standard screening»:
+- b. pour l’analyse des antigènes du SARS-CoV-2 par immunologie et un test rapide SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» ou le «standard screening»:
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>26,50 francs</td></tr>
-<tr><td>– pour l’analyse et la déclaration aux autorités compétentes selon l’art. 12, al. 2, LEp</td><td>21,50 francs</td></tr>
+<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>22 francs</td></tr>
+<tr><td>– pour l’analyse et la déclaration aux autorités compétentes selon l’art 12, al. 2, LEp</td><td>17 francs</td></tr>
 <tr><td>– pour le traitement du mandat</td><td>5 francs</td></tr>
-<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>45,50 francs</td></tr>
-<tr><td>– pour l’analyse et la déclaration aux autorités compétentes selon l’art. 12, al. 2, LEp</td><td>21,50 francs</td></tr>
+<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>41 francs</td></tr>
+<tr><td>– pour l’analyse et la déclaration aux autorités compétentes selon l’art 12, al. 2, LEp</td><td>17 francs</td></tr>
 <tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
 </table>
 
@@ -1359,12 +1371,12 @@ Annexe 6*[^t-8]*
     - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
     - 4\. les assistants visés par la LAI.
 
-- 2\.1.3 Elle prend en charge au maximum 34 francs pour un test rapide SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» ou selon le «standard screening». Le montant comprend les prestations et les coûts suivants:
+- 2\.1.3 Elle prend en charge au maximum 28 francs pour un test rapide SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» ou selon le «standard screening». Ce montant comprend les prestations et les coûts suivants:
 
 <table>
 <tr><td>Prestation</td><td>Montant maximal</td></tr>
-<tr><td>Pour le prélèvement de l’échantillon et la réalisation du test, y compris le matériel de test, le matériel de protection et le temps de travail, ainsi que pour l’analyse et le traitement du mandat, si le prélèvement de l’échantillon n’est pas effectué par la personne testée elle-même</td><td>34 francs</td></tr>
-<tr><td>Pour la réalisation du test, y compris le matériel de test, le matériel de protection et le temps de travail, ainsi que pour l’analyse et le traitement du mandat, si le prélèvement de l’échantillon est effectué par la personne testée elle-même</td><td>15,50 francs</td></tr>
+<tr><td>Pour le prélèvement de l’échantillon et la réalisation du test, y compris le matériel de test, le matériel de protection et le temps de travail, ainsi que pour l’analyse et le traitement du mandat, si le prélèvement de l’échantillon n’est pas effectué par la personne testée elle-même</td><td>28 francs</td></tr>
+<tr><td>Pour la réalisation du test, y compris le matériel de test, le matériel de protection et le temps de travail, ainsi que pour l’analyse et le traitement du mandat, si le prélèvement de l’échantillon est effectué par la personne testée elle-même</td><td>14 francs</td></tr>
 </table>
 
 ### 2.2 Analyses poolées de biologie moléculaire pour le SARS-CoV-2
@@ -1405,13 +1417,13 @@ Annexe 6*[^t-8]*
 
 - 2\.2.3
 
-  Elle prend en charge au maximum 311 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
+  Elle prend en charge au maximum 309 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
 
   - a. pour le prélèvement de l’échantillon:
 
 <table>
 <tr><td>Prestation</td><td>Montant maximal</td></tr>
-<tr><td>Pour le prélèvement de l’échantillon, y compris le matériel de protection, le temps de travail et le traitement du mandat</td><td>18,50 francs</td></tr>
+<tr><td>Pour le prélèvement de l’échantillon, y compris le matériel de protection, le temps de travail et le traitement du mandat</td><td>16,50 francs</td></tr>
 </table>
 
 - b. pour l’analyse poolée de biologie moléculaire:
@@ -1468,11 +1480,11 @@ Annexe 6*[^t-8]*
   - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
   - 4\. les assistants visés par la LAI.
 
-- 3\.1.4 Elle prend en charge au maximum 8 francs pour un test rapide SARS-CoV-2 avec application par un professionnel selon les ch. 3.1.1 et 3.1.2. Le montant comprend les prestations et les coûts suivants:
+- 3\.1.4 Elle prend en charge au maximum 6,50 francs pour un test rapide SARS-CoV-2 avec application par un professionnel selon les ch. 3.1.1 et 3.1.2. Ce montant comprend les prestations et les coûts suivants:
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour le test rapide SARS-CoV-2 avec application par un professionnel, matériel de test uniquement</td><td>8 francs</td></tr>
+<tr><td>Pour le test rapide SARS-CoV-2 avec application par un professionnel, matériel de test uniquement</td><td>6,50 francs</td></tr>
 </table>
 
 [^annex6-lvlu1-lvl3-lvl31-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
@@ -1508,7 +1520,14 @@ Annexe 6*[^t-8]*
 ### 3.3 Autotests SARS-CoV-2
 
 - 3\.3.1 La Confédération prend en charge les coûts pour 5 autotests SARS-CoV-2 au maximum par personne sur 30 jours, à condition qu’ils aient été remis par une pharmacie.
-- 3\.3.2 ...
+- 3\.3.2 Elle prend en charge au maximum 10 francs pour un autotest SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
+
+<table>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour l’autotest SARS-CoV-2 remis directement et personnellement au client, uniquement le matériel de test incluant le prix de fabrique, un supplément de 80 % sur le prix de fabrique et la taxe sur la valeur ajoutée au taux de 7,7 %</td><td>10 francs</td></tr>
+<tr><td>Pour l’autotest SARS-CoV-2 envoyé par la poste, uniquement le matériel de test incluant le prix de fabrique, un supplément de 60 % sur le prix de fabrique et la taxe sur la valeur ajoutée au taux de 7,7 %</td><td>9 francs</td></tr>
+</table>
+
 - 3\.3.3
 
   Les personnes suivantes n’ont pas droit à la prise en charge des coûts des autotests SARS-CoV-2:

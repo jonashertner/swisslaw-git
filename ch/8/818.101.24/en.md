@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-06-29
+version: 2021-07-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210629/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210629-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210629/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210701/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210701-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 29 June 2021)
+of 19 June 2020 (Status as of 1 July 2021)
 
 The Swiss Federal Council,
 
@@ -192,7 +192,7 @@ The Federal Office of Public Health (FOPH) shall define the goods that need to b
 
 <sup>1</sup>
 
-<sup>1</sup> The Interdepartmental Working Group on Medical Goods shall comprise as a minimum representatives from the following federal agencies:
+The Interdepartmental Working Group on Medical Goods shall comprise as a minimum representatives from the following federal agencies:
 
 - a. the FOPH;
 - b. the Therapeutic Products Division of the Federal Office for National Economic Supply;
@@ -350,10 +350,15 @@ Facemasks which have not undergone a conformity assessment procedure under Artic
 
 <sup>5</sup> Facemasks placed on the market in accordance with paragraph 3<sup>bis</sup> may not be used in hospitals or medical practices by persons in direct contact with patients.
 
+<sup>5bis</sup> The SwissCovid app as specified in the Ordinance of 24 June 2020[^23-3] on the Proximity Tracing System for the Coronavirus Sars-CoV-2 and as specified in the Ordinance of 30 June 2021[^23-4] on a Notification System for possible Infection with the Coronavirus Sars-CoV-2 at Events is not subject to the provisions on the conformity assessment of medical devices.[^23-5]
+
 <sup>6</sup> The obligations in relation to product surveillance under the MedDO, in particular to collecting reports of incidents, continue to apply.
 
 [^23-1]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^23-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^23-3]: [SR 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
+[^23-4]: [SR 818.102.4](https://fedlex.data.admin.ch/eli/cc/2021/411)
+[^23-5]: Inserted by Art. 18 of the O of 30 June 2021 on a Notification System for possible Infection with the Coronavirus Sars-CoV-2 at Events, in force from 1 July 2021 until 30 June 2022 ([AS 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)).
 
 #### Art. 23a
 
@@ -376,7 +381,7 @@ FFP masks under paragraph 1 held in federal and cantonal stocks may be supplied 
 
 <sup>3</sup> Product information in at least one official language or in English must be available when the masks are supplied. It must be ensured that the user is able to use the product in accordance with the relevant provisions.
 
-[^23b-1]: Originally Article 23*a*. Inserted by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks), in force since 28 Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^23b-1]: Originally Art. 23*a*. Inserted by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks), in force since 28 Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 [^23b-2]: [SR 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635)
 [^23b-3]: [AS 2020 2195](https://fedlex.data.admin.ch/eli/oc/2020/438)
 
@@ -623,7 +628,7 @@ In the case of company meetings, the organiser may, regardless of the probable n
 
 [^chap4a-1]
 
-[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 30 June 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296)).
+[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Aug. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
 
 #### Art. 27a
 
@@ -668,7 +673,7 @@ The following persons are not regarded as being at high risk:
 
 <sup>12</sup> The FDHA shall continually update Annex 7 based on the state of science.[^27a-5]
 
-<sup>13</sup> For the general protection of employees, Article 25 of the COVID-19 Special Situation Ordinance of 23 June 2021[^27a-6] applies.
+<sup>13</sup> For the general protection of employees, Article 25 of the COVID-19 Special Situation Ordinance of 23 June 2021[^27a-6] applies.[^27a-7]
 
 [^27a-1]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
 [^27a-2]: Amended by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
@@ -676,6 +681,7 @@ The following persons are not regarded as being at high risk:
 [^27a-4]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^27a-5]: Amended by No I of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 [^27a-6]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^27a-7]: The reference was modified on 26 June 2021 pursuant to Art. 12 para. 2 of the the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 ## Chapter 5 Final Provisions
 
@@ -784,7 +790,7 @@ Annex 1a*[^t-2]*
   - c. has been authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered.
 
 - 2 The period during which persons who have been vaccinated are exempt from the ban on entry under Article 4 paragraph 1 amounts to 12 months from the date of vaccination in full; the Janssen vaccine is regarded as being effective for 12 months from the 22nd day after it was administered in full.
-- 3 Proof of vaccination may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 1 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex1a-lvlu1-1] or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Ordinance on Certificates
+- 3 Proof of vaccination may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 1 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex1a-lvlu1-1] or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Ordinance on Certificates.
 - 4
 
   Proof may also be provided in a different form from that in number 3. It must be a form of proof that is customary at the time. In addition to the surname, forename and date of birth of the person concerned, it must include the following information:
@@ -1032,7 +1038,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021, ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) and of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)) and the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021, in force since 1 July 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)) and the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1069,7 +1075,7 @@ Annex 6*[^t-8]*
 
     - 1\.
 
-      the following service providers under the Health Insurance Act[^annex6-lvlu1-lvl1-lvl11-3]:
+      the following service providers under the HIA[^annex6-lvlu1-lvl1-lvl11-3]:
 
       - – doctors
       - – pharmacists
@@ -1086,13 +1092,13 @@ Annex 6*[^t-8]*
 
 - 1\.1.3
 
-  It shall pay a maximum of 156 francs of the cost of molecular-biological analyses for Sars-CoV-2. This amount covers the following services and cost components:
+  It shall pay a maximum of 153.50 francs of the cost of molecular-biological analyses for Sars-CoV-2. This amount covers the following services and cost components:
 
   - a. for taking a sample:
 
 <table>
 <tr><td>Service</td><td>Maximum amount</td></tr>
-<tr><td>Patient consultation and taking sample, including protective materials</td><td>25 Fr.</td></tr>
+<tr><td>Patient consultation and taking sample, including protective materials</td><td>22.50 Fr.</td></tr>
 <tr><td>Reporting the test result to the person tested and to the responsible authorities under Article 12 paragraph 1 EpidA, and requesting the activation code generated by the Proximity Tracing System for the Coronavirus Sars-CoV-2 (PT System) when infection is detected</td><td>2.50 Fr.</td></tr>
 <tr><td>Detailed doctor-patient consultation on the indications, where such is carried out</td><td>22.50 Fr.</td></tr>
 </table>
@@ -1151,13 +1157,13 @@ Annex 6*[^t-8]*
 
 - 1\.2.3
 
-  It shall pay a maximum of 321.50 francs for pooled molecular-biological analyses for Sars-CoV-2. This amount covers the following services and cost components:
+  It shall pay a maximum of 337.50 francs for pooled molecular-biological analyses for Sars-CoV-2. This amount covers the following services and cost components:
 
   - a. for taking a sample:
 
 <table>
 <tr><td>Service</td><td>Maximum amount</td></tr>
-<tr><td>Patient consultation and taking sample, including protective materials</td><td>25 Fr.</td></tr>
+<tr><td>Patient consultation and taking sample, including protective materials</td><td>22.50 Fr.</td></tr>
 <tr><td>Detailed doctor-patient consultation on the indications, where such is carried out</td><td>22.50 Fr.</td></tr>
 </table>
 
@@ -1165,14 +1171,21 @@ Annex 6*[^t-8]*
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
-<tr><td>If conducted on behalf of another service provider, comprising:</td><td>232 Fr.</td></tr>
+<tr><td>If conducted on behalf of another service provider, comprising:</td><td>274 Fr.</td></tr>
 <tr><td>– analysis with a minimum pool size of 4</td><td>82 Fr.</td></tr>
 <tr><td>– ordering processing, overheads and sampling material</td><td>24 Fr.</td></tr>
-<tr><td>– surcharge for additional sampling up to a maximum pool size of 25</td><td>6 Fr.</td></tr>
-<tr><td>If conducted without being requested by another service provider, comprising:</td><td>213 Fr.</td></tr>
+<tr><td>– surcharge for additional sampling up to a maximum pool size of 25</td><td>8 Fr.</td></tr>
+<tr><td>If conducted without being requested by another service provider, comprising:</td><td>255 Fr.</td></tr>
 <tr><td>– analysis with a minimum pool size of 4</td><td>82 Fr.</td></tr>
 <tr><td>– ordering processing, overheads and sampling material</td><td>5 Fr.</td></tr>
-<tr><td>– surcharge for additional sampling up to a maximum pool size of 25</td><td>6 Fr.</td></tr>
+<tr><td>– surcharge for additional sampling up to a maximum pool size of 25</td><td>8 Fr.</td></tr>
+</table>
+
+- c. for centralised pooling:
+
+<table>
+<tr><th>Service</th><th>Maximum amount</th></tr>
+<tr><td>When conducted at compulsory school level and at upper secondary level in cases under Number 1.2.1 for the creation of each pool</td><td>18.50 Fr.</td></tr>
 </table>
 
 ### 1.3 Analyses for Sars-CoV-2 antibodies
@@ -1205,13 +1218,13 @@ Annex 6*[^t-8]*
 
 - 1\.3.3
 
-  It shall pay a maximum of 99 francs for the analysis for Sars-CoV-2 antibodies. This amount covers the following services and cost components:
+  It shall pay a maximum of 96.50 francs for the analysis for Sars-CoV-2 antibodies. This amount covers the following services and cost components:
 
   - a. for taking a sample:
 
 <table>
 <tr><th colspan="3">Service</th><th>Maximum amount</th></tr>
-<tr><td colspan="3">Patient consultation and taking sample, including protective materials</td><td>25 Fr.</td></tr>
+<tr><td colspan="3">Patient consultation and taking sample, including protective materials</td><td>22.50 Fr.</td></tr>
 <tr><td colspan="3">Reporting the test result to the person tested and to the responsible authorities under Article 12 paragraph 1 EpidA</td><td>2.50 Fr.</td></tr>
 <tr><td colspan="3">Detailed doctor-patient consultation on the indications, where such is carried out</td><td>22.50 Fr.</td></tr>
 </table>
@@ -1240,7 +1253,7 @@ Annex 6*[^t-8]*
   - d. persons who wish to leave quarantine on entry under Article 7 paragraph 4 of the COVID-19 Ordinance on International Passenger Transport Measures within 10 days;
   - e. persons who have been notified by the SwissCovid app that they have potentially been in close contact with a person infected with Sars-CoV-2; the Confederation shall pay the costs of a single test that is carried out at the earliest on the fifth day following notification by the SwissCovid app;
   - f. persons resident abroad who work, study or train in Switzerland, in cases where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering their foreign country of residence and no other authority will cover the costs;
-  - g. persons resident in Switzerland who work, study or train abroad where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering the foreign country concerned and no other authority will cover the costs;;
+  - g. persons resident in Switzerland who work, study or train abroad where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering the foreign country concerned and no other authority will cover the costs;
   - h. following a positive result from a pooled molecular-biological analysis in accordance with numbers 1.2, 2.2 or 3.2;
   - i. as part of outbreak investigation and control procedures ordered by a doctor;
   - j.[^annex6-lvlu1-lvl1-lvl14-1] any persons who do not fall within letters a–i.
@@ -1271,13 +1284,13 @@ Annex 6*[^t-8]*
 
 - 1\.4.4
 
-  It shall pay a maximum of 95.50 francs for immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use according to the diagnostic standard and according to the screening standard. This amount includes the following services and cost components:
+  It shall pay a maximum of 88.50 francs for immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use according to the diagnostic standard and according to the screening standard. This amount includes the following services and cost components:
 
   - a. for taking a sample:
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
-<tr><td>Patient consultation and taking sample, including protective materials</td><td>25 Fr.</td></tr>
+<tr><td>Patient consultation and taking sample, including protective materials</td><td>22.50 Fr.</td></tr>
 <tr><td>Reporting the test result to the person tested and to the responsible authorities under Article 12 paragraph 1 EpidA and requesting the activation code generated by the PT system when infection is detected</td><td>2.50 Fr.</td></tr>
 <tr><td colspan="2">Detailed doctor-patient consultation on the indications, where such is carried out</td><td>22.50 Fr.</td></tr>
 </table>
@@ -1286,11 +1299,11 @@ Annex 6*[^t-8]*
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
-<tr><td>If carried out without being requested by another authorised service provider, comprising:</td><td>26.50 Fr.</td></tr>
-<tr><td>– analysis and report to the authorities under Article 12 paragraph 2 EpidA</td><td>21.50 Fr.</td></tr>
+<tr><td>If carried out without being requested by another authorised service provider, comprising:</td><td>22 Fr.</td></tr>
+<tr><td>– analysis and report to the authorities under Article 12 paragraph 2 EpidA</td><td>17 Fr.</td></tr>
 <tr><td>– ordering processing</td><td>5 Fr.</td></tr>
-<tr><td>If carried out on behalf of another authorised service provider, comprising:</td><td>45.50 Fr.</td></tr>
-<tr><td>– analysis and report to the authorities under Article 12 paragraph 2 EpidA</td><td>21.50 Fr.</td></tr>
+<tr><td>If carried out on behalf of another authorised service provider, comprising:</td><td>41 Fr.</td></tr>
+<tr><td>– analysis and report to the authorities under Article 12 paragraph 2 EpidA</td><td>17 Fr.</td></tr>
 <tr><td>– order processing, overheads and sampling materials</td><td>24 Fr.</td></tr>
 </table>
 
@@ -1312,7 +1325,9 @@ Annex 6*[^t-8]*
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
 <tr><td>If carried out without being requested by another authorised service provider, for the analysis and report to the authorities under Article 12 paragraph 2 EpidA</td><td>82 Fr.</td></tr>
-<tr><td>If carried out on behalf of another service provider, comprising: analysis and report to the authorities under Article 12 paragraph 2 EpidA order processing, overheads and sampling materials</td><td>106 Fr. 82 Fr. 24 Fr.</td></tr>
+<tr><td>If carried out on behalf of another service provider, comprising:</td><td>106 Fr.</td></tr>
+<tr><td>– analysis and report to the authorities under Article 12 paragraph 2 EpidA</td><td>82 Fr.</td></tr>
+<tr><td>– order processing, overheads and sampling materials</td><td>24 Fr.</td></tr>
 </table>
 
 ### 1.6 Diagnostic sequencing for Sars-CoV-2
@@ -1336,7 +1351,9 @@ Annex 6*[^t-8]*
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
-<tr><td>Conduct of the analysis, comprising: analysis and report to the authorities under Article 12 paragraph 2 EpidA order processing, overheads and sampling materials</td><td>243.50 Fr. 219.50 Fr. 24 Fr.</td></tr>
+<tr><td>Conduct of the analysis, comprising:</td><td>221 Fr.</td></tr>
+<tr><td>– analysis and report to the authorities under Article 12 paragraph 2 EpidA</td><td>197 Fr.</td></tr>
+<tr><td>– order processing, overheads and sampling materials</td><td>24 Fr.</td></tr>
 </table>
 
 ### 2 Reduced tariff for targeted and repetitive testing
@@ -1349,7 +1366,8 @@ Annex 6*[^t-8]*
 
   - a. in the case of targeted and repetitive testing in schools, universities and training centres in order to prevent and detect outbreaks, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH;
   - b. in situations with a significantly higher probability of transmission, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH;
-  - c. in relation to testing over a limited period in connection with uncontrolled outbreaks of infection, provided the responsible authority or organisation in the canton makes provision for this.
+  - c. in relation to testing over a limited period in connection with uncontrolled outbreaks of infection, provided the responsible authority or organisation in the canton makes provision for this;
+  - d. in the case of tests before and during school camps for participants and supervisors, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH.
 
 - 2\.1.2
 
@@ -1374,11 +1392,12 @@ Annex 6*[^t-8]*
     - 3\. socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment,
     - 4\. assistants as defined in the InvIA.
 
-- 2\.1.3 It shall pay shall pay a maximum of 34 francs for a Sars-CoV-2-rapid test for specialist use according to the diagnostic standard or according to the screening standard. The amount covers the following services and cost components:
+- 2\.1.3 It shall pay shall pay a maximum of 28 francs for a Sars-CoV-2-rapid test for specialist use according to the diagnostic standard or according to the screening standard. The amount covers the following services and cost components:
 
 <table>
 <tr><td>Service</td><td>Maximum amount</td></tr>
-<tr><td>Taking the sample and conducting a test, including the test materials, the protective materials and working time, and for the analysis and order processing</td><td>34 Fr.</td></tr>
+<tr><td>If the sample is not taken by the tested person him- or herself: taking the sample and conducting a test, including the test materials, the protective materials and working time, and for the analysis and order processing</td><td>28 Fr.</td></tr>
+<tr><td>If the sample is taken by the tested person him- or herself: taking the sample and conducting a test, including the test materials, the protective materials and working time, and for the analysis and order processing</td><td colspan="2">14 Fr.</td></tr>
 </table>
 
 ### 2.2 Pooled molecular-biological analyses for Sars-CoV-2
@@ -1418,30 +1437,35 @@ Annex 6*[^t-8]*
 
 - 2\.2.3
 
-  It shall pay a maximum of 311 francs for pooled molecular-biological analyses for Sars-CoV-2. The amount covers the following services and cost components:
+  It shall pay a maximum of 309 francs for pooled molecular-biological analyses for Sars-CoV-2. The amount covers the following services and cost components:
 
   - a. for taking a sample:
 
 <table>
 <tr><td>Service</td><td>Maximum amount</td></tr>
-<tr><td>Taking the sample, including the protective materials, working time and order processing</td><td>18.50 Fr.</td></tr>
+<tr><td>Taking the sample, including the protective materials, working time and order processing</td><td>16.50 Fr.</td></tr>
 </table>
 
 - b. for the pooled molecular-biological analysis:
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
-<tr><td>If conducted on behalf of another service provider, comprising:</td><td>232 Fr.</td></tr>
+<tr><td>If conducted on behalf of another service provider, comprising:</td><td>274 Fr.</td></tr>
 <tr><td>– analysis with a minimum pool size of 4</td><td>82 Fr.</td></tr>
 <tr><td>– ordering processing, overheads and sampling material</td><td>24 Fr.</td></tr>
-<tr><td>– surcharge for additional sampling up to a maximum pool size of 25</td><td>6 Fr.</td></tr>
-<tr><td>If conducted without being requested by another service provider, comprising:</td><td>213 Fr.</td></tr>
+<tr><td>– surcharge for additional sampling up to a maximum pool size of 25</td><td>8 Fr.</td></tr>
+<tr><td>If conducted without being requested by another service provider, comprising:</td><td>255 Fr.</td></tr>
 <tr><td>– analysis with a minimum pool size of 4</td><td>82 Fr.</td></tr>
 <tr><td>– ordering processing, overheads and sampling material</td><td>5 Fr.</td></tr>
-<tr><td>– surcharge for additional sampling up to a maximum pool size of 25</td><td>6 Fr.</td></tr>
+<tr><td>– surcharge for additional sampling up to a maximum pool size of 25</td><td>8 Fr.</td></tr>
 </table>
 
 - c. for centralised pooling:
+
+<table>
+<tr><th>Service</th><th>Maximum amount</th></tr>
+<tr><td>When conducted at compulsory school level, at upper secondary level and at school camps, for the creation of each pool</td><td>18.50 Fr.</td></tr>
+</table>
 
 ### 3 Basic tariff for targeted and repetitive testing
 
@@ -1453,7 +1477,7 @@ Annex 6*[^t-8]*
 
   - a. where targeted and repetitive testing is carried out in hospitals, homes for the elderly and care homes and other socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment;
   - b. where targeted and repetitive testing is carried out in businesses and clubs, provided the responsible authority or organisation in the canton submits a plan to the FOPH;
-  - c. where a contact person is in quarantine and targeted and repetitive testing is carried in the business where the contact person works, with at least one test per week.
+  - c. where a contact person is in quarantine and targeted and repetitive testing is carried in the business where the contact person works, with at least one test per week;
   - d. in the case of events with entry restrictions in accordance with Article 15 of the COVID-19 Special Situation Ordinance of 23 June 2021[^annex6-lvlu1-lvl3-lvl31-1] or, if applicable, Article 6*b*<sup>quater</sup> of the COVID-19 Special Situation Ordinance of 19 June 2020 in its version following the Amendment of 26 May 2021[^annex6-lvlu1-lvl3-lvl31-2].
 
 - 3\.1.2 It shall also pay the costs of Sars-CoV-2 rapid tests for specialist use according to the screening standard in cases under number 3.1.1 letters b and d.
@@ -1473,14 +1497,14 @@ Annex 6*[^t-8]*
     - – organisations that provide nursing services and other assistance at home,
 
   - 2\. test centres operated by or on behalf of a canton;
-  - 3\. socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment,
+  - 3\. socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment;
   - 4\. assistants as defined in the InvIA.
 
-- 3\.1.4 It shall pay a maximum of 8 francs for a Sars-CoV-2 rapid test for specialist use under sections 3.1.1 and 3.1.2. This amount covers the following services and cost components:
+- 3\.1.4 It shall pay a maximum of 6.50 francs for a Sars-CoV-2 rapid test for specialist use under sections 3.1.1 and 3.1.2. This amount covers the following services and cost components:
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
-<tr><td>Conducting the Sars-CoV-2 rapid test for specialist use, test materials only</td><td>8 Fr.</td></tr>
+<tr><td>Conducting the Sars-CoV-2 rapid test for specialist use, test materials only</td><td>6.50 Fr.</td></tr>
 <tr><td>s</td><td></td></tr>
 </table>
 
@@ -1502,20 +1526,27 @@ Annex 6*[^t-8]*
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
-<tr><td>If conducted on behalf of another service provider, comprising:</td><td>232 Fr.</td></tr>
+<tr><td>If conducted on behalf of another service provider, comprising:</td><td>274 Fr.</td></tr>
 <tr><td>– analysis with a minimum pool size of 4</td><td>82 Fr.</td></tr>
 <tr><td>– order processing, overheads and sampling materials</td><td>24 Fr.</td></tr>
-<tr><td>– surcharge for additional sampling up to a maximum pool size of 25</td><td>6 Fr.</td></tr>
-<tr><td>If conducted without being requested by another service provider, comprising:</td><td>213 Fr.</td></tr>
+<tr><td>– surcharge for additional sampling up to a maximum pool size of 25 – for conducting a centralised pool in cases under number 3.2.1 letters b and c for the creation of each pool</td><td>8 Fr. 18.50 Fr.</td></tr>
+<tr><td>If conducted without being requested by another service provider, comprising:</td><td>255 Fr.</td></tr>
 <tr><td>– analysis with a minimum pool size of 4</td><td>82 Fr.</td></tr>
 <tr><td>– order processing, overheads and sampling materials</td><td>5 Fr.</td></tr>
-<tr><td>– surcharge for additional sampling up to a maximum pool size of 25</td><td>6 Fr.</td></tr>
+<tr><td>– surcharge for additional sampling up to a maximum pool size of 25 – for conducting a centralised pool in cases under number 3.2.1 letters b and c for the creation of each pool [tab]</td><td>8 Fr. 18.50 Fr.</td></tr>
 </table>
 
 ### 3.3 Sars-CoV-2 self-tests
 
 - 3\.3.1 The Confederation shall pay the costs of a maximum of five Sars-CoV-2 self-tests per person within any period of 30 days, provided they are supplied by pharmacies.
-- 3\.3.2 ...
+- 3\.3.2 The Confederation shall pay a maximum of 10 francs for a Sars-CoV-2 self-test. The amount covers the following services and cost components:
+
+<table>
+<tr><th>Service</th><th>Maximum amount</th></tr>
+<tr><td>For the Sars-CoV-2 self-test if supplied directly with person contact with the customer, test materials only, comprising: price ex factory, surcharge of 80 % on the price ex factory and Value Added Tax at a rate of 7.7 %</td><td>10 Fr.</td></tr>
+<tr><td>For the Sars-CoV-2 self-test if sent out, test materials only, comprising: price ex factory, surcharge of 60 % on the price ex factory and Value Added Tax at a rate of 7.7 %</td><td>9 Fr.</td></tr>
+</table>
+
 - 3\.3.3
 
   The following persons are not entitled to have the costs of Sars-CoV-2 self-tests covered:
@@ -1538,7 +1569,7 @@ Annex 7*[^t-9]*
 
 ## Diseases and genetic anomalies that make the persons concerned persons at high risk
 
-[^t-9]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 30 June 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und No II of the O of 12 May 2021, in force since 17 Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Aug. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und No II of the O of 12 May 2021, in force since 17 Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 
