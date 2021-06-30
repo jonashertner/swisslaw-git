@@ -3,13 +3,12 @@ canton: FR
 number: "821.0.81"
 title: Ordonnance sur la médecine scolaire
 language: fr
-version: 2019-07-01
-valid_until: 2021-06-30
-version_adopted: 2018-04-17
+version: 2021-07-01
+version_adopted: 2021-02-08
 adopted: 2018-04-17
 in_force: 2019-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.0.81"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6486/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6771/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6486/pdf_file"
 
 Médecine scolaire - O
 
-du 17.04.2018 (version entrée en vigueur le 01.07.2019)
+du 17.04.2018 (version entrée en vigueur le 01.07.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -111,7 +110,7 @@ Arrête:
 
 **Droit transitoire**
 
-<sup>1</sup> La présente ordonnance est mise en œuvre par les communes dans les trois ans suivant son entrée en vigueur.
+<sup>1</sup> La présente ordonnance est mise en œuvre par les communes, dans les cinq ans suivant son entrée en vigueur.
 
 #### Art. 9
 

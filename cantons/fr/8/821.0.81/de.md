@@ -3,13 +3,12 @@ canton: FR
 number: "821.0.81"
 title: Verordnung über die schulärztliche Betreuung
 language: de
-version: 2019-07-01
-valid_until: 2021-06-30
-version_adopted: 2018-04-17
+version: 2021-07-01
+version_adopted: 2021-02-08
 adopted: 2018-04-17
 in_force: 2019-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.0.81"
-pdf: "https://bdlf.fr.ch/api/de/versions/6486/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6771/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6486/pdf_file"
 
 Schulärztliche Betreuung V
 
-vom 17.04.2018 (Fassung in Kraft getreten am 01.07.2019)
+vom 17.04.2018 (Fassung in Kraft getreten am 01.07.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -111,7 +110,7 @@ beschliesst:
 
 **Übergangsrecht**
 
-<sup>1</sup> Diese Verordnung wird von den Gemeinden innerhalb von drei Jahren nach Inkrafttreten umgesetzt.
+<sup>1</sup> Diese Verordnung wird von den Gemeinden innerhalb von fünf Jahren nach Inkrafttreten umgesetzt.
 
 #### Art. 9
 
