@@ -4,13 +4,13 @@ number: "52"
 title: Verordnung zum Personalgesetz
 short: "Personalverordnung, PVO"
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2020-11-24
+version: 2021-07-01
+valid_until: 2021-07-31
+version_adopted: 2021-06-08
 adopted: 2002-09-24
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/52"
-pdf: "https://srl.lu.ch/api/de/versions/3674/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3758/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3674/pdf_file"
 
 (Personalverordnung, PVO)
 
-vom 24.09.2002 (Stand 01.01.2021)
+vom 24.09.2002 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -579,6 +579,8 @@ beschliesst:
 
 <sup>1</sup> Die Angestellte hat Anspruch auf einen besoldeten Mutterschaftsurlaub von insgesamt 16 Wochen, der frühestens zwei Wochen vor der Geburt beginnt. Wird die Tätigkeit wegen schwangerschaftsbedingter Beschwerden früher niedergelegt, werden die letzten zwei Wochen der Abwesenheit vor der Geburt an den Mutterschaftsurlaub angerechnet. Die Besoldung richtet sich nach dem Beschäftigungsgrad bei Antritt des Urlaubs.
 
+<sup>1<sup>bis</sup></sup> Verlängert sich der Anspruch auf Mutterschaftsentschädigung gemäss Artikel 16c des Erwerbsersatzgesetzes vom 25. September 1952[^44-1], weil das Neugeborene unmittelbar nach der Geburt ununterbrochen während mindestens zweier Wochen im Spital bleiben muss, verlängert sich der Anspruch auf besoldeten Mutterschaftsurlaub entsprechend.
+
 <sup>2</sup> Der Anspruch auf Mutterschaftsurlaub und dessen Besoldung endet bei Wiederaufnahme der Arbeit oder mit der rechtsgültigen Beendigung des Arbeitsverhältnisses.
 
 <sup>3</sup> Die Angestellte kann den Arbeitsplatz wegen Beschwerden im Zusammenhang mit der Schwangerschaft nach einer Meldung an die vorgesetzte Person verlassen.
@@ -587,13 +589,13 @@ beschliesst:
 
 <sup>5</sup> Der Bezug des Mutterschaftsurlaubs kürzt den Ferienanspruch nicht.
 
-<sup>6</sup> Schiebt die Angestellte den Anspruch auf die Mutterschaftsentschädigung gemäss Erwerbsersatzgesetz vom 25. September 1952[^44-1] zufolge längeren Spitalaufenthalts des Neugeborenen auf, wird der besoldete Urlaub unterbrochen.
+<sup>6</sup> …
 
-<sup>7</sup> Soweit nichts Abweichendes geregelt ist, gilt für die Anrechnung und Abtretung der Mutterschaftsentschädigung gemäss Erwerbsersatzgesetz § 33 dieser Verordnung.
+<sup>7</sup> …
 
 <sup>8</sup> Die Angestellte hat Anspruch auf sechs Monate unbesoldeten Urlaub unmittelbar anschliessend an den besoldeten Mutterschaftsurlaub gemäss Absatz 1. Der Bezug ist spätestens acht Wochen im Voraus anzukündigen. Bei verspäteter Ankündigung kann die zuständige Behörde den Urlaub aus betrieblichen Gründen kürzen oder verweigern.
 
-[^44-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de) (AS 2005 1429)
+[^44-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
 #### § 45
 
@@ -610,6 +612,30 @@ beschliesst:
 **Urlaub bei Begründung eines Pflegekind-Verhältnisses**
 
 <sup>1</sup> Bei der Begründung eines Pflegekind-Verhältnisses im Hinblick auf eine spätere Adoption für ein nicht schulpflichtiges Kind kann die zuständige Behörde der oder dem Angestellten einen besoldeten Urlaub von maximal acht Wochen ab dem Zeitpunkt der Aufnahme des Kindes gewähren. Arbeiten beide Elternteile beim Kanton, kann ihnen für das gleiche Kind insgesamt nur ein Urlaub von maximal acht Wochen gewährt werden.
+
+#### § 46a
+
+**Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes**
+
+<sup>1</sup> Hat die oder der Angestellte Anspruch auf eine Betreuungsentschädigung nach den Artikeln 16n–16s des Erwerbsersatzgesetzes[^46a-1], weil ihr oder sein Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, besteht Anspruch auf einen besoldeten Betreuungsurlaub von höchstens 14 Wochen.
+
+<sup>2</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld von einem anspruchsberechtigten Elternteil geltend gemacht wird.
+
+<sup>3</sup> Sind beide Elternteile Arbeitnehmende, hat jeder Elternteil Anspruch auf einen Betreuungsurlaub von höchstens sieben Wochen. Die Eltern können eine abweichende Aufteilung des Urlaubs wählen.
+
+<sup>4</sup> Der Betreuungsurlaub kann tageweise oder am Stück bezogen werden. Der Bezug kürzt den Ferienanspruch nicht.
+
+<sup>5</sup> Die zuständige Behörde ist über den geplanten Bezug und die Modalitäten des Urlaubs sowie über Änderungen jeweils unverzüglich zu informieren. Auf Verlangen ist der zuständigen Behörde ein Arztzeugnis einzureichen, welches die schwere gesundheitliche Beeinträchtigung sowie die Notwendigkeit der Begleitung, Betreuung oder Pflege des Kindes durch mindestens einen Elternteil bestätigt.
+
+[^46a-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
+
+#### § 46b
+
+**Anrechnung und Abtretung der Entschädigungen gemäss Erwerbsersatzgesetz**
+
+<sup>1</sup> Soweit nichts Abweichendes geregelt ist, gilt für die Anrechnung und Abtretung der Mutterschafts-, der Vaterschafts- und der Betreuungsentschädigung gemäss Erwerbsersatzgesetz[^46b-1] § 33 dieser Verordnung.
+
+[^46b-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
 ## 8 Nebenbeschäftigung
 
