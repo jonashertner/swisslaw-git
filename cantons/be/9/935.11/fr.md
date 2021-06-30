@@ -4,13 +4,13 @@ number: "935.11"
 title: "Loi sur l'hôtellerie et la restauration"
 short: LHR
 language: fr
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2020-06-10
+version: 2021-07-01
+valid_until: 2024-07-31
+version_adopted: 2021-03-07
 adopted: 1993-11-11
 in_force: 1994-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2059/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2291/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2059/pdf_file"
 
 (LHR)
 
-du 11.11.1993 (état au 01.01.2021)
+du 11.11.1993 (état au 01.07.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -205,7 +205,7 @@ arrête:
 
 **Nuits libres**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique fixe les nuits libres cantonales.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement fixe les nuits libres cantonales.
 
 <sup>2</sup> Les préfets et les préfètes fixent les nuits libres régionales.
 
@@ -307,7 +307,7 @@ arrête:
 
 **Formation**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique reconnaît les diplômes d'associations professionnelles bernoises comme certificats bernois de capacité d'hôtellerie et de restauration, dans la mesure où ils sanctionnent l'acquisition des connaissances de base généralement reconnues permettre de gérer un établissement d'hôtellerie et de restauration et de l'éthique professionnelle, notamment celles figurant dans les règlements et directives des associations suisses de la profession.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement reconnaît les diplômes d’associations professionnelles bernoises comme certificats bernois de capacité d’hôtellerie et de restauration, dans la mesure où ils sanctionnent l’acquisition des connaissances de base généralement reconnues pour permettre de gérer un établissement d’hôtellerie et de restauration et de l’éthique professionnelle, notamment celles figurant dans les règlements et directives des associations suisses de la profession.
 
 <sup>2</sup> Il reconnaît, après avoir entendu les associations professionnelles, les autres certificats, formations et activités professionnelles qui habilitent à diriger un établissement d'hôtellerie et de restauration.
 
@@ -357,7 +357,7 @@ arrête:
 
 **Contrôle des clients**
 
-<sup>1</sup> A des fins de sécurité, les clients et les clientes hébergés dans un établissement d'hôtellerie font l'objet d'un contrôle conformément aux instructions de la Direction de l'économie publique.
+<sup>1</sup> A des fins de sécurité, les clients et les clientes hébergés dans un établissement d’hôtellerie font l’objet d’un contrôle conformément aux instructions de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> Les documents sont conservés en bon ordre pendant au moins cinq ans et mis à la disposition des organes de contrôle à tout moment pour consultation.
 
@@ -387,18 +387,20 @@ arrête:
 
 **Protection contre le tabagisme passif**
 
-<sup>1</sup> Il est interdit de fumer dans les espaces intérieurs accessibles au public des établissements qui nécessitent une autorisation d’exploiter ou une autorisation unique selon la présente loi.
+<sup>1</sup> Il est interdit de fumer, de consommer des produits du tabac chauffés et d’utiliser des cigarettes électroniques au sens de l’article 14c, alinéa 3 de la loi du 4 novembre 1992 sur le commerce et l’industrie (LCI)[^27-1] dans les espaces intérieurs accessibles au public des établissements qui nécessitent une autorisation d’exploiter ou une autorisation unique selon la présente loi.
 
-<sup>2</sup> Il est permis de fumer en plein air et dans les fumoirs (lieux clos équipés d’un système de ventilation distinct).
+<sup>2</sup> Les activités interdites à l’alinéa 1 restent permises en plein air et dans les fumoirs (lieux clos équipés d’un système de ventilation distinct).
 
-<sup>3</sup> La personne responsable d’espaces intérieurs accessibles au public ainsi que les employés et autres auxiliaires instruits par elle mettent en oeuvre l’interdiction de fumer
+<sup>3</sup> La personne responsable d’espaces intérieurs accessibles au public ainsi que les employés et autres auxiliaires instruits par elle mettent en œuvre l’interdiction visée à l’alinéa 1
 
 - a en aménageant ces espaces intérieurs de sorte qu’ils soient exempts de fumée;
-- b en signalant l’interdiction de fumer, par exemple par des affichettes;
-- c en enjoignant aux usagers de ne pas fumer;
+- b en signalant cette interdiction, par exemple par des affichettes;
+- c en enjoignant aux clients et clientes de ne pas fumer, de ne pas consommer de produits du tabac chauffés et de ne pas utiliser de cigarettes électroniques;
 - d en excluant, le cas échéant, les personnes qui ne respectent pas l’interdiction.
 
 <sup>4</sup> La protection des travailleurs et des travailleuses est régie par la législation fédérale sur le travail.
+
+[^27-1]: RSB [930.1](https://www.belex.sites.be.ch/data/930.1/fr)
 
 #### Art. 28
 
@@ -435,9 +437,7 @@ arrête:
 
 **Interdiction de faire de la publicité**
 
-<sup>1</sup> L’interdiction de faire de la publicité est réglée par la loi du 4 novembre 1992 sur le commerce et l'industrie (LCI)[^29a-1].
-
-[^29a-1]: RSB 930.1
+<sup>1</sup> L’interdiction de faire de la publicité est réglée par la LCI.
 
 #### Art. 30
 
@@ -534,11 +534,13 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> Le canton perçoit pour les autorisations qui comprennent le droit de servir ou de vendre des boissons alcooliques une redevance d'alcool qu'il verse au Fonds de lutte contre les toxicomanies de la Direction cantonale de la santé publique et de la prévoyance sociale aux fins de lutter contre l'alcoolisme.
+<sup>1</sup> Le canton perçoit pour les autorisations qui comprennent le droit de servir ou de vendre des boissons alcooliques une redevance d’alcool qu’il verse au Fonds de lutte contre la toxicomanie selon l’article 70 de la loi du 11 juin 2001 sur l’aide sociale (LASoc)[^41-1] aux fins de lutter contre l’alcoolisme.
 
 <sup>2</sup> Les redevances sont fixées à la réception de l'établissement et perçues annuellement pour les autorisations d'exploiter; pour les autorisations uniques, elles sont fixées et perçues au moment de l'octroi.
 
 <sup>3</sup> Les services chargés de la perception reçoivent une indemnité équivalant à cinq pour cent au plus des redevances perçues.
+
+[^41-1]: RSB [860.1](https://www.belex.sites.be.ch/data/860.1/fr)
 
 #### Art. 42
 
@@ -558,7 +560,7 @@ arrête:
 
 **Evaluation**
 
-<sup>1</sup> La Direction de l'économie publique édicte des directives pour évaluer la redevance d'alcool et fixe le montant de l'indemnité de perception.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement édicte des directives pour évaluer la redevance d'alcool et fixe le montant de l’indemnité de perception.
 
 <sup>2</sup> Les directives tiennent compte
 
@@ -617,7 +619,7 @@ arrête:
 
 **Voies de droit**
 
-<sup>1</sup> Les recours formés contre les décisions rendues en vertu de la présente loi sont jugés par la Direction de l'économie publique.
+<sup>1</sup> Les recours formés contre les décisions rendues en vertu de la présente loi sont jugés par la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> Les décisions rendues par les associations professionnelles bernoises d'hôtellerie et de restauration concernant l'admission aux cours et aux examens ou le refus de délivrer un certificat de capacité selon l'article 20 ne peuvent être attaquées que si elles sont liées à la reprise d'un établissement d'hôtellerie et de restauration.
 
@@ -639,7 +641,7 @@ arrête:
 - e ne ferme pas l'établissement à l'heure prescrite, sans être en possession d'une autorisation valable de dépasser l'horaire, ou
 - f …
 
-<sup>2</sup> Sera puni d’une amende de 40 à 2000 francs quiconque, en tant que client ou cliente, n’a pas quitté un établissement d’hôtellerie et de restauration à l’heure de fermeture ou ne respecte pas l’interdiction de fumer selon l’article 27, alinéa 1.
+<sup>2</sup> Sera puni d’une amende de 40 à 2000 francs quiconque, en tant que client ou cliente, n’a pas quitté un établissement d’hôtellerie et de restauration à l’heure de fermeture ou ne respecte pas l’interdiction de fumer, de consommer des produits du tabac chauffés et d’utiliser des cigarettes électroniques selon l’article 27, alinéa 1.
 
 <sup>3</sup>
 

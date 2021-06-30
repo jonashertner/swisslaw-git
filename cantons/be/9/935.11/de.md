@@ -4,13 +4,13 @@ number: "935.11"
 title: Gastgewerbegesetz
 short: GGG
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2020-06-10
+version: 2021-07-01
+valid_until: 2024-07-31
+version_adopted: 2021-03-07
 adopted: 1993-11-11
 in_force: 1994-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2059/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2291/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2059/pdf_file"
 
 (GGG)
 
-vom 11.11.1993 (Stand 01.01.2021)
+vom 11.11.1993 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -205,9 +205,9 @@ beschliesst:
 
 **Freinächte**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion bestimmt die kantonalen Freinächte.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion bestimmt die kantonalen Freinächte.
 
-<sup>2</sup> Die Regierungsstatthalterinnen oder die Regierungsstatthalter bestimmen die regionalen Freinächte.
+<sup>2</sup> Die Regierungsstatthalterinnen und die Regierungsstatthalter bestimmen die regionalen Freinächte.
 
 <sup>3</sup> Die Gemeinden bestimmen die lokalen Freinächte.
 
@@ -307,7 +307,7 @@ beschliesst:
 
 **Ausbildung**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion anerkennt Abschlüsse bernischer Berufsverbände als bernische gastgewerbliche Fähigkeitsausweise, sofern diese die allgemein anerkannten Grundkenntnisse zur Leitung eines Gastgewerbebetriebs und die berufsethischen Anforderungen vermitteln, wie sie namentlich in Reglementen und Richtlinien der schweizerischen Berufsverbände enthalten sind.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion anerkennt Abschlüsse bernischer Berufsverbände als bernische gastgewerbliche Fähigkeitsausweise, sofern diese die allgemein anerkannten Grundkenntnisse zur Leitung eines Gastgewerbebetriebs und die berufsethischen Anforderungen vermitteln, wie sie namentlich in Reglementen und Richtlinien der schweizerischen Berufsverbände enthalten sind.
 
 <sup>2</sup> Sie anerkennt nach Anhörung der Berufsverbände die weiteren Ausweise, Ausbildungen und beruflichen Tätigkeiten, die ebenfalls zur Leitung eines Gastgewerbebetriebs berechtigen.
 
@@ -357,7 +357,7 @@ beschliesst:
 
 **Gästekontrolle**
 
-<sup>1</sup> Über die in einem Gastgewerbebetrieb übernachtenden Gäste ist zu sicherheitspolizeilichen Zwecken eine Kontrolle gemäss den Weisungen der Volkswirtschaftsdirektion zu führen.
+<sup>1</sup> Über die in einem Gastgewerbebetrieb übernachtenden Gäste ist zu sicherheitspolizeilichen Zwecken eine Kontrolle gemäss den Weisungen der Wirtschafts-, Energie- und Umweltdirektion zu führen.
 
 <sup>2</sup> Die Unterlagen sind mindestens fünf Jahre geordnet aufzubewahren und den Kontrollorganen jederzeit zur Einsichtnahme zur Verfügung zu stellen.
 
@@ -387,18 +387,20 @@ beschliesst:
 
 **Schutz vor dem Passivrauchen**
 
-<sup>1</sup> In öffentlich zugänglichen Innenräumen von Betrieben, die eine Betriebs- oder Einzelbewilligung nach diesem Gesetz benötigen, ist das Rauchen verboten.
+<sup>1</sup> In öffentlich zugänglichen Innenräumen von Betrieben, die eine Betriebs- oder Einzelbewilligung nach diesem Gesetz benötigen, sind das Rauchen sowie der Konsum von erhitzten Tabakprodukten und elektronischen Zigaretten im Sinne von Artikel 14c Absatz 3 des Gesetzes vom 4. November 1992 über Handel und Gewerbe (HGG)[^27-1] verboten.
 
-<sup>2</sup> Im Freien und in Fumoirs (abgeschlossene Räume mit einer eigenen Lüftung) bleibt das Rauchen gestattet.
+<sup>2</sup> Im Freien und in Fumoirs (abgeschlossene Räume mit einer eigenen Lüftung) bleiben die gemäss Absatz 1 verbotenen Tätigkeiten gestattet.
 
-<sup>3</sup> Die verantwortliche Person und die von ihr instruierten Angestellten und weiteren Hilfspersonen setzen das Rauchverbot um, indem sie
+<sup>3</sup> Die verantwortliche Person sowie die von ihr instruierten Angestellten und weiteren Hilfspersonen setzen das Verbot gemäss Absatz 1 um, indem sie
 
 - a die Innenräume rauchfrei einrichten,
-- b über das Rauchverbot informieren, beispielsweise mit Verbotstafeln,
-- c die Gäste anhalten, das Rauchen zu unterlassen,
+- b darüber informieren, beispielsweise mit Verbotstafeln,
+- c die Gäste anhalten, das Rauchen sowie den Konsum von erhitzten Tabakprodukten und elektronischen Zigaretten zu unterlassen,
 - d nötigenfalls Personen wegweisen, die das Verbot missachten.
 
 <sup>4</sup> Der Schutz der Arbeitnehmerinnen und Arbeitnehmer richtet sich nach der eidgenössischen Arbeitsgesetzgebung.
+
+[^27-1]: BSG [930.1](https://www.belex.sites.be.ch/data/930.1/de)
 
 #### Art. 28
 
@@ -435,9 +437,7 @@ beschliesst:
 
 **Werbeverbot**
 
-<sup>1</sup> Für das Werbeverbot gilt das Gesetz über Handel und Gewerbe (HGG)[^29a-1].
-
-[^29a-1]: BSG 930.1
+<sup>1</sup> Für das Werbeverbot gilt das HGG.
 
 #### Art. 30
 
@@ -534,11 +534,13 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Der Kanton bezieht für Bewilligungen mit dem Recht zum Alkoholausschank oder -verkauf die Alkoholabgabe, die zur Bekämpfung des Alkoholmissbrauchs in den Fonds für Suchtprobleme der kantonalen Gesundheits- und Fürsorgedirektion fliesst.
+<sup>1</sup> Der Kanton bezieht für Bewilligungen mit dem Recht zum Alkoholausschank oder -verkauf die Alkoholabgabe, die zur Bekämpfung des Alkoholmissbrauchs in den Fonds für Suchtprobleme gemäss Artikel 70 des Gesetzes vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^41-1] fliesst.
 
 <sup>2</sup> Die Abgaben werden für Betriebsbewilligungen bei der Abnahme festgelegt und jährlich bezogen; für Einzelbewilligungen werden sie bei der Erteilung festgelegt und bezogen.
 
 <sup>3</sup> Den Bezugsstellen wird eine Entschädigung von höchstens fünf Prozent der bezogenen Abgaben ausgerichtet.
+
+[^41-1]: BSG [860.1](https://www.belex.sites.be.ch/data/860.1/de)
 
 #### Art. 42
 
@@ -558,7 +560,7 @@ beschliesst:
 
 **Bemessung**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion erlässt Richtlinien für die Bemessung der Alkoholabgabe und bestimmt die Bezugsentschädigung.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion erlässt Richtlinien für die Bemessung der Alkoholabgabe und bestimmt die Bezugsentschädigung.
 
 <sup>2</sup> Die Richtlinien berücksichtigen
 
@@ -617,11 +619,11 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Beschwerden gegen Verfügungen, die gestützt auf dieses Gesetz erlassen werden, beurteilt die Volkswirtschaftsdirektion.
+<sup>1</sup> Beschwerden gegen Verfügungen, die gestützt auf dieses Gesetz erlassen werden, beurteilt die Wirtschafts-, Energie- und Umweltdirektion.
 
 <sup>2</sup> Entscheide der bernischen gastgewerblichen Berufsverbände über die Zulassung zu Kurs und Prüfung sowie die Verweigerung eines Fähigkeitsausweises gemäss Artikel 20 sind nur anfechtbar, wenn sie mit der Übernahme eines Gastgewerbebetriebs in Zusammenhang stehen.
 
-<sup>3</sup> Im Übrigen gelten die Vorschriften des Koordinationsgesetzes vom 21. März 1994 (KoG)[^48-1] und des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege[^48-2].
+<sup>3</sup> Im Übrigen gelten die Vorschriften des Koordinationsgesetzes vom 21. März 1994 (KoG)[^48-1] und des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^48-2].
 
 [^48-1]: BSG 724.1
 [^48-2]: BSG 155.21
@@ -639,7 +641,7 @@ beschliesst:
 - e den Betrieb zur Schliessungsstunde nicht schliesst, ohne im Besitz einer gültigen Überzeitbewilligung zu sein.
 - f …
 
-<sup>2</sup> Mit Busse von 40 Franken bis 2000 Franken wird bestraft, wer als Gast einen Gastgewerbebetrieb zur Schliessungsstunde nicht verlassen hat oder das Rauchverbot gemäss Artikel 27 Absatz 1 missachtet.
+<sup>2</sup> Mit Busse von 40 Franken bis 2000 Franken wird bestraft, wer als Gast einen Gastgewerbebetrieb zur Schliessungsstunde nicht verlassen hat oder das Rauchverbot oder das Verbot des Konsums von erhitzten Tabakprodukten und elektronischen Zigaretten gemäss Artikel 27 Absatz 1 missachtet.
 
 <sup>3</sup>
 
