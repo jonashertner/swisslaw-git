@@ -4,13 +4,13 @@ number: "311.1"
 title: Gesetz über das kantonale Strafrecht
 short: KStrG
 language: de
-version: 2020-01-01
-valid_until: 2021-06-30
-version_adopted: 2019-02-10
+version: 2021-07-01
+valid_until: 2024-07-31
+version_adopted: 2021-03-07
 adopted: 2009-04-09
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/311.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1757/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2288/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1757/pdf_file"
 
 (KStrG)
 
-vom 09.04.2009 (Stand 01.01.2020)
+vom 09.04.2009 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -128,11 +128,7 @@ beschliesst:
 
 #### Art. 13
 
-**Abgabe von Suchtmitteln an Jugendliche**
-
-<sup>1</sup> Wer einer Person unter 18 Jahren Spirituosen oder Tabak abgibt, ohne die elterliche Sorge innezuhaben, wird mit Busse bestraft.
-
-<sup>2</sup> Wer einer Person unter 16 Jahren alkoholische Getränke abgibt, ohne die elterliche Sorge innezuhaben, wird mit Busse bestraft.
+**…**
 
 #### Art. 14
 
