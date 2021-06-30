@@ -4,13 +4,13 @@ number: "922.11"
 title: Jagdverordnung
 short: JaV
 language: de
-version: 2020-09-01
-valid_until: 2021-06-30
-version_adopted: 2020-08-17
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-25
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6570/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6926/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Jagdverordnung
 
 (JaV)
 
-vom 06.06.2016 (Fassung in Kraft getreten am 01.09.2020)
+vom 06.06.2016 (Fassung in Kraft getreten am 01.07.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -142,7 +142,7 @@ beschliesst:
 
 <sup>6</sup> Das Oberamt kümmert sich um die finanziellen Aspekte der Patente.
 
-<sup>7</sup> Das 40. Grundjagdpatent, zusammen mit dem Spezialpatent A, B, C oder E, wird kostenlos erteilt, wenn mindestens 3 Monate vor der Eröffnung der Jagd beim Amt ein entsprechendes Gesuch eingereicht wird; die Taxe nach Artikel 40a Bst. b JaG bleibt geschuldet.
+<sup>7</sup> Das 40. Grundjagdpatent, zusammen mit dem Spezialpatent A, B, C oder E, wird unentgeltlich erteilt, wenn mindestens 30 Tage vor der Eröffnung der Jagd beim Amt ein entsprechendes Gesuch eingereicht wird; die Taxe nach Artikel 40a Abs. 1 Bst. b JaG bleibt geschuldet.
 
 #### Art. 11
 
@@ -164,7 +164,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt kann Personen, die nicht im Kanton wohnhaft sind (Jagdgäste) und die Bedingungen nach Artikel 19 Abs. 1 JaG erfüllen, eine auf einige Tage beschränkte Jagdberechtigung erteilen.
 
-<sup>2</sup> Das Gesuch muss unter Beilage der erforderlichen Unterlagen schriftlich mindestens 1 Monat im Voraus beim Amt eingereicht werden.
+<sup>2</sup> Das Gesuch muss unter Beilage der erforderlichen Unterlagen schriftlich mindestens 15 Tage im Voraus beim Amt eingereicht werden.
 
 <sup>3</sup> Diese Jagdberechtigungen sind an einem, zwei oder drei Tagen gültig, mit Ausnahme der drei ersten Tage der Jagdsaison für Gämse, Reh und Hirsch.
 
@@ -178,7 +178,7 @@ beschliesst:
 
 <sup>8</sup> Die Jagdberechtigungen können auch als Bewilligung ohne Berechtigung zum Tragen einer Waffe erteilt werden, die zur aktiven Beteiligung an der Jagd, aber ohne Tragen einer Waffe, berechtigt.
 
-<sup>9</sup> Für diese Jagdberechtigungen muss eine vom Amt festgesetzte Verwaltungsgebühr entrichtet werden.
+<sup>9</sup> Für diese Jagdberechtigungen muss eine Verwaltungsgebühr von 50 Franken entrichtet werden.
 
 ### 3.5 Patentarten
 
@@ -211,43 +211,45 @@ beschliesst:
 
 <sup>2</sup> Dieses Patent überträgt den Inhaberinnen und Inhabern dieselben Rechte und Pflichten wie das allgemeine Jagdpatent, ausser dass sie weder eine Waffe tragen noch schiessen dürfen und keine Kontrollmarken kaufen und erhalten können.
 
-### 3.6 Obligatorisches Übungsschiessen
+### 3.6 Obligatorische Schiessprüfung
 
 #### Art. 15
 
 **Grundsatz**
 
-<sup>1</sup> Wer ein allgemeines Jagdpatent erlangen will, muss innerhalb der 12 Monate vor der Ausstellung des Patents das obligatorische Übungsschiessen absolviert haben.
+<sup>1</sup> Wer ein allgemeines Jagdpatent erlangen will, muss innerhalb der 12 Monate vor der Ausstellung des Patents die obligatorische Schiessprüfung absolviert haben.
 
 <sup>2</sup> Absatz 1 gilt nicht für den Bezug eines allgemeinen Jagdpatents ohne Berechtigung zum Tragen einer Waffe.
+
+<sup>3</sup> Der Ausdruck «obligatorische Schiessprüfung» entspricht dem regelmässig durchgeführten Übungsschiessen in Artikel 19 Abs. 1 Bst. g JaG.
 
 #### Art. 16
 
 **Inhalt**
 
-<sup>1</sup> Das obligatorische Übungsschiessen umfasst:
+<sup>1</sup> Die obligatorische Schiessprüfung umfasst:
 
-- a) das Übungsschiessen mit der Waffe mit glattem Lauf, wenn die Jägerin oder der Jäger diese Waffenart benutzen will;
-- b) das Übungsschiessen mit der Waffe mit gezogenem Lauf, wenn die Jägerin oder der Jäger diese Waffenart benutzen will.
+- a) die Schiessprüfung mit der Waffe mit glattem Lauf, wenn die Jägerin oder der Jäger diese Waffenart benutzen will;
+- b) die Schiessprüfung mit der Waffe mit gezogenem Lauf, wenn die Jägerin oder der Jäger diese Waffenart benutzen will.
 
 #### Art. 17
 
 **Bestätigung**
 
-<sup>1</sup> Wer das obligatorische Übungsschiessen absolviert hat, erhält eine schriftliche Bestätigung. Die Bestätigung gilt nur für die Jagdsaison, die auf der Bestätigung angegeben wird. Beim Erwerb des Jagdpatents muss die Bestätigung beim Oberamt vorgelegt und abgegeben werden.
+<sup>1</sup> Wer die obligatorische Schiessprüfung absolviert hat, erhält eine schriftliche Bestätigung. Die Bestätigung gilt nur für die Jagdsaison, die auf der Bestätigung angegeben wird. Beim Erwerb des Jagdpatents muss die Bestätigung beim Oberamt vorgelegt und abgegeben werden.
 
-<sup>2</sup> Das im Rahmen der Fähigkeitsprüfung für Jägerinnen und Jäger absolvierte Schiessen gilt als obligatorisches Übungsschiessen für die folgende Jagdsaison.
+<sup>2</sup> Das im Rahmen der Fähigkeitsprüfung für Jägerinnen und Jäger absolvierte Schiessen gilt als obligatorische Schiessprüfung für die folgende Jagdsaison.
 
 #### Art. 18
 
 **Organisation**
 
-<sup>1</sup> Der Verband organisiert die obligatorischen Übungsschiessen und stellt den Personen, die es absolviert haben, eine Bestätigung aus.
+<sup>1</sup> Der Verband organisiert die obligatorischen Schiessprüfungen und stellt den Personen, die sie absolviert haben, eine Bestätigung aus.
 
 <sup>2</sup> Der Verband legt dem Amt folgende Dokumente zur Genehmigung vor:
 
-- a) das Schiessprogramm und die entsprechenden Vorschriften (Art der Zielscheiben, Schussdistanz, Anzahl Schüsse usw.);
-- b) das Formular zur Bestätigung des obligatorischen Übungsschiessens.
+- a) das Programm der Schiessprüfung und die entsprechenden Vorschriften (Art der Zielscheiben, Schussdistanz, Anzahl Schüsse usw.);
+- b) das Formular zur Bestätigung der obligatorischen Schiessprüfung.
 
 <sup>3</sup> Das Amt beteiligt sich an den diesbezüglichen Verwaltungskosten.
 
@@ -263,18 +265,20 @@ beschliesst:
   - 1\. obligatorische Grundtaxe: Fr. 200
   - 2\. obligatorische Grundtaxe ohne Waffe: Fr. 50
 - b) Patent A (Gämse):
-  - 1\. 1 Gämse: Fr. 150 bis 300
-- c) Patent B (Reh; in der jährlichen Verordnung über die Planung der Jagd (Art. 56) können weitere Typen von Patenten für das Reh vorgesehen werden):
-  - 1\. 1 Reh von weniger als 13 kg: Fr. 80
-  - 2\. 1 Reh von 13 kg oder mehr: Fr. 160
-  - 3\. 1 Reh von 13 kg oder mehr und 1 Reh von weniger als 13 kg: Fr. 240
-  - 4\. 2 Rehe von 13 kg oder mehr und 1 Reh von weniger als 13 kg: Fr. 400
-- d) Patent C (Hirsch): Fr. 200
+  - 1\. Gämse: Fr. 150 bis 300 pro Tier
+- c) Patent B (Reh):
+  - 1\. Reh von weniger als 13 kg: Fr. 80 pro Tier
+  - 2\. Reh von 13 kg oder mehr: Fr. 160 pro Tier
+  - 3\. …
+  - 4\. …
+- d) Patent C (Hirsch): Fr. 200 pro Tier
 - e) Patent D (Wildschwein): Fr. 100
 - f) Patent E (Federwild): Fr. 100
 - g) Patent F (Neuenburgersee): Fr. 150
 - h) Patent G (Murtensee): Fr. 150
 - i) Patent H: unentgeltlich
+
+<sup>2</sup> Die Kategorien und Anzahl Tiere, die mit den Patenten A, B und C erlegt werden dürfen, werden in der jährlichen Verordnung über die Planung der Jagd festgelegt (Art. 56).
 
 #### Art. 20
 
@@ -312,9 +316,10 @@ beschliesst:
 <sup>1</sup> Die Jagd ist verboten:
 
 - a) am Sonntag;
-- b) an Neujahr (1. Januar), an Allerheiligen (1. November), an Mariä Empfängnis (8. Dezember) und an Weihnachten (25. Dezember);
-- c) an den Dienstagen und Freitagen in den Monaten September und Oktober für die Jagd im Flachland sowie an den Freitagen in den Monaten November, Dezember, Januar und Februar;
-- d) ausserhalb der verschiedenen Jagdsaisons.
+- b) an den Mittwochen und Freitagen in den Monaten September und Oktober (für die Jagd im Flachland);
+- c) an den Freitagen in den Monaten November, Dezember, Januar und Februar (für die Jagd im Flachland und im Gebirge);
+- d) an Neujahr (1. Januar), an Karfreitag, an Christi Himmelfahrt, an Fronleichnam, am Bundesfeiertag (1. August), an Mariä Himmelfahrt (15. August), an Allerheiligen (1. November), an Mariä Empfängnis (8. Dezember), an Weihnachten (25. Dezember);
+- e) ausserhalb der verschiedenen Jagdsaisons.
 
 #### Art. 23
 
@@ -322,14 +327,14 @@ beschliesst:
 
 <sup>1</sup> Bei genügender Sicht und unter Vorbehalt der in der jährlichen Verordnung über die Planung der Jagd (Art. 56) vorgesehenen Verlängerungen oder Beschränkungen ist die Schussabgabe innerhalb folgender Tageszeiten gestattet:
 
-- a) im September: von 6.30 Uhr bis 20.30 Uhr;
-- b) im Oktober: von 7.00 Uhr bis 20.00 Uhr (Sommerzeit); von 6.00 Uhr bis 19.00 Uhr (Winterzeit);
-- c) im November: von 7.00 Uhr bis 19.00 Uhr;
-- d) im Dezember: von 7.30 Uhr bis 18.30 Uhr;
-- e) im Januar: von 7.30 Uhr bis 18.30 Uhr;
-- f) im Februar: von 7.00 Uhr bis 18.30 Uhr.
+- a) ab einer Stunde vor Sonnenaufgang gemäss den offiziellen Sonnenaufgangszeiten von Bern;
+- b) bis eine Stunde nach Sonnenuntergang gemäss den offiziellen Sonnenuntergangszeiten von Bern.
+- c) …
+- d) …
+- e) …
+- f) …
 
-<sup>2</sup> Die Jagdzeiten in den vom Kanton Freiburg abgeschlossenen Konkordaten bleiben vorbehalten.
+<sup>2</sup> …
 
 #### Art. 24
 
@@ -345,11 +350,12 @@ beschliesst:
 - f) in den Rebbergen und Obstgärten vor Abschluss der Ernte;
 - g) auf den Rückhaltebecken der Autobahn;
 - h) auf den Teichen der Golfplätze, ausser mit der Zustimmung der Eigentümerin oder des Eigentümers oder der Betreiberin oder des Betreibers.
+- i) in einem Umkreis von weniger als 200 m ab den Enden von Wildtierüberführungen.
 
 <sup>2</sup> Wo Personen oder Haustiere gefährdet werden können oder Schäden an Gütern Dritter möglich sind, ist jegliches Schiessen verboten, insbesondere:
 
 - a) im Abstand von weniger als 100 m von Häusern, es sei denn, die Person, die dort wohnt, habe ihre Zustimmung erteilt;
-- b) in den öffentlichen Häfen und auf den Seen in einer Entfernung von weniger als 200 m von Häfen, Molen und Schiffslandestegen, die eine öffentliche Verbindung gewährleisten.
+- b) in den öffentlichen Häfen und auf den Seen in einer Entfernung von weniger als 200 m von Häfen, von Molen und von Schiffslandestegen, die eine öffentliche Verbindung gewährleisten.
 
 <sup>3</sup> Die Jagd auf Wasservögel vom Ufer aus und auf gefrorenen Seen und Weihern ist verboten, sobald mehr als die Hälfte der Fläche gefroren ist.
 
@@ -410,7 +416,7 @@ beschliesst:
 
 <sup>2</sup> Es darf nur ein Wasserfahrzeug ohne Motor oder mit einem Motor, dessen Leistung 6 kW oder 8 PS (8 PS DIN) nicht überschreitet, verwendet werden.
 
-<sup>3</sup> Von einem Wasserfahrzeug aus dürfen nur Wasser- und Krähenvögel abgeschossen werden.
+<sup>3</sup> Von einem Wasserfahrzeug aus dürfen nur Wasservögel abgeschossen werden.
 
 ### 4.3 Begleitpersonen
 
@@ -441,9 +447,9 @@ beschliesst:
 
 **Verwendung von Hochsitzen**
 
-<sup>1</sup> Hochsitze des Typs Leiter-Sitz (der Hochsitz) dürfen 5 Tage vor der Eröffnung der Jagd aufgestellt werden und bis 5 Tage nach dem Ende der Jagd stehen bleiben. Sie müssen mit dem Namen der Eigentümerin oder des Eigentümers versehen sein.
+<sup>1</sup> Hochsitze des Typs Leiter-Sitz (der Hochsitz) dürfen 5 Tage vor der Eröffnung der Jagd aufgestellt werden und müssen spätestens am 5. Tag nach dem Ende der Jagd rückgebaut sein. Sie müssen mit dem Namen der Eigentümerin oder des Eigentümers versehen sein.
 
-<sup>2</sup> Das Aufstellen eines Hochsitzes in einem Wildsektor muss der zuständigen Wildhüterin-Fischereiaufseherin oder dem zuständigen Wildhüter-Fischereiaufseher im Laufe des Tages gemeldet werden. Der Bau von Unterständen untersteht der kantonalen Gesetzgebung über den Wald.
+<sup>2</sup> Das Aufstellen eines Hochsitzes in einem Wildsektor muss der zuständigen Wildhüterin-Fischereiaufseherin oder dem zuständigen Wildhüter-Fischereiaufseher im Laufe des Tages gemeldet werden. Der Bau von Infrastrukturanlagen im Wald untersteht der kantonalen Gesetzgebung über den Wald.
 
 <sup>3</sup> Hochsitze, die den obigen Vorgaben nicht entsprechen, werden vom Amt beschlagnahmt.
 
@@ -472,7 +478,7 @@ beschliesst:
 
 <sup>1</sup> Das Geschoss der Kugelpatronen muss ein Kaliber von mindestens 6,5mm (oder .257 gemäss der amerikanischen und englischen Bezeichnung) aufweisen und die Minimalenergie muss auf 200m Entfernung 1700 Joules betragen. Für den Abschuss des Wildschweins und des Hirschs muss die Minimalenergie auf 200m Entfernung jedoch mindestens 1962 Joules betragen.
 
-<sup>2</sup> Unter Vorbehalt der Bestimmungen über den Fangschuss ist die Verwendung von Vollmantelgeschossen verboten, mit Ausnahme für den Abschuss des Murmeltiers.
+<sup>2</sup> Unter Vorbehalt der Bestimmungen über den Fangschuss ist die Verwendung von Vollmantelgeschossen verboten.
 
 #### Art. 35
 
@@ -482,9 +488,9 @@ beschliesst:
 
 <sup>2</sup> Die Verwendung von Schrotkörnern mit mehr als 4,5 mm Durchmesser ist verboten.
 
-<sup>3</sup> Für die Jagd auf Wasservögel ist die Verwendung von Bleischrot verboten. Die Verwendung sämtlicher Ersatzstoffe für Blei (einschliesslich vernickeltem Bleischrot) ist jedoch gestattet.
+<sup>3</sup> Für die Jagd auf Wasservögel ist die Verwendung von Bleischrot verboten. Die Verwendung sämtlicher Ersatzstoffe für Blei ist jedoch gestattet.
 
-<sup>4</sup> Für den Abschuss des Wildschweins, des Hirschs, der Gämse, des Steinwilds und des Murmeltiers ist die Verwendung von Schrot verboten.
+<sup>4</sup> Für den Abschuss des Wildschweins, des Hirschs, der Gämse und des Steinwilds ist die Verwendung von Schrot verboten.
 
 #### Art. 36
 
@@ -496,7 +502,7 @@ beschliesst:
 
 <sup>3</sup> Für alle Teilnehmerinnen und Teilnehmer an einer Treibjagd auf Rehe oder Füchse ist der Kugelschuss (Waffe mit gezogenem Lauf) verboten.
 
-<sup>4</sup> Die Verwendung von Schrot ist für den Abschuss des Wildschweins verboten. Für die Treibjagd auf Wildschweine ist der Kugelschuss mit der Waffe mit gezogenem Lauf ab dem 1. November gestattet.
+<sup>4</sup> …
 
 #### Art. 37
 
@@ -525,8 +531,8 @@ beschliesst:
 <sup>1</sup> Die Schussdistanz beträgt höchstens:
 
 - a) 35 m (mit einer Toleranz von 10 %) für den Schrot- und Kugelschuss mit glattem Lauf;
-- b) 200 m (mit einer Toleranz von 15 %) für den Kugelschuss (ausser für das Murmeltier, den Fuchs und den Dachs);
-- c) 100 m (mit einer Toleranz von 15 %) für den Kugelschuss auf den Fuchs, den Dachs und das Murmeltier.
+- b) 200 m (mit einer Toleranz von 15 %) für den Kugelschuss (ausser für den Fuchs und den Dachs);
+- c) 100 m (mit einer Toleranz von 15 %) für den Kugelschuss auf den Fuchs und den Dachs.
 
 #### Art. 40
 
@@ -562,11 +568,11 @@ beschliesst:
 
 **Jagdhunde – Verwendung und Verbote**
 
-<sup>1</sup> Wer die Bedingungen nach Artikel 42 erfüllt, kann vom 15. bis 31. August Hundeproben durchführen, ausser an Dienstagen und Freitagen.
+<sup>1</sup> Wer die Bedingungen nach Artikel 42 erfüllt, kann vom 2. bis 31. August Hundeproben durchführen, ausser mittwochs, freitags und sonntags.
 
-<sup>2</sup> Wer die Bedingungen nach Artikel 42 erfüllt, kann die Hunde vom 1. September bis zum Montag des eidgenössischen Buss- und Bettages, an Sonntagen und an den Tagen, an denen die Jagd erlaubt ist, und innerhalb der Jagdzeiten einsetzen.
+<sup>2</sup> Wer die Bedingungen nach Artikel 42 erfüllt, kann die Hunde an den Tagen, an denen die Jagd erlaubt ist, und innerhalb der Jagdzeiten einsetzen.
 
-<sup>3</sup> Schliesslich können Hunde ausnahmsweise mit einer Bewilligung der Wildhüterin-Fischereiaufseherin oder des Wildhüters-Fischereiaufsehers und gegen eine Entschädigung von 20 Franken pro Stunde ab dem 16. Juli bis zum 15. August geprüft oder eingesetzt werden. Die Wildhüterin-Fischereiaufseherin oder der Wildhüter-Fischereiaufseher bestimmt gemäss den Weisungen des Amts, wo, wann und wie lange die Hunde eingesetzt werden dürfen.
+<sup>3</sup> …
 
 <sup>4</sup> Es ist jedoch verboten, Hunde jagen zu lassen:
 
@@ -608,7 +614,7 @@ beschliesst:
 
 **Schweisshunde – Allgemeines**
 
-<sup>1</sup> Wer einen Schweisshund einsetzt, muss einen Ausweis bei sich tragen, der belegt, dass er die entsprechenden von den anerkannten kynologischen und Jägervereinigungen organisierten Prüfungen bestanden hat.
+<sup>1</sup> Für die Nachsuche von angeschossenem oder verendetem Wild muss das Schweisshundeteam (Führerin oder Führer mit Schweisshund) einen Ausweis bei sich tragen, der belegt, dass es die entsprechenden von den anerkannten kynologischen und Jägervereinigungen organisierten Prüfungen bestanden hat, und es muss auf der Liste des Verbands für die laufende Saison aufgeführt sein.
 
 <sup>2</sup> Die Verbote nach Artikel 43 Abs. 4 gelten nicht für den Einsatz eines Schweisshundes. Der Hund muss an der kurzen Leine geführt werden, mit Ausnahme für die Nachsuche eines Tiers.
 
@@ -618,7 +624,7 @@ beschliesst:
 
 <sup>1</sup> Die Schweisshundeführerinnen oder -führer dürfen die für Jägerinnen und Jäger gesperrten Strassen und Wege befahren:
 
-- a) um am Sonntag vor der Eröffnung der Jagd zur Alphütte zu fahren, in der sie vorübergehend wohnen;
+- a) um am Tag vor der Eröffnung der Jagd zur Alphütte zu fahren, in der sie vorübergehend wohnen;
 - b) wenn sie mit ihrem Hund im Einsatz sind;
 - c) wenn sie die Alphütte endgültig verlassen und zu ihrem Wohnort zurückkehren.
 
@@ -628,9 +634,13 @@ beschliesst:
 
 **Schweisshunde – Einsatz**
 
-<sup>1</sup> Wenn ein Tier am Vorabend eines Tages, an dem die Jagd verboten ist, angeschossen wird und die Schweisshundeführerin oder der Schweisshundeführer es erst am folgenden Tag nachsuchen kann, muss die Wildhüterin-Fischereiaufseherin oder der Wildhüter-Fischereiaufseher der Region informiert werden. In diesem Fall kann die Wildhüterin-Fischereiaufseherin oder der Wildhüter-Fischereiaufseher das Tragen einer Waffe erlauben.
+<sup>1</sup> Wenn ein Tier am Vortag eines Tages, an dem die Jagd verboten ist, angeschossen wird und die Schweisshundeführerin oder der Schweisshundeführer es erst am folgenden Tag nachsuchen kann, muss die Wildhüterin-Fischereiaufseherin oder der Wildhüter-Fischereiaufseher der Region informiert werden. In diesem Fall kann die Wildhüterin-Fischereiaufseherin oder der Wildhüter-Fischereiaufseher das Tragen einer Waffe erlauben.
 
 <sup>2</sup> Wenn ein angeschossenes Tier in ein Wildschutzgebiet flüchtet, darf die Schweisshundeführerin oder der -führer es dort mit einer Waffe nachsuchen und ihm den Fangschuss geben.
+
+<sup>3</sup> Jegliche Nachsuche ausserhalb der üblichen Jagdzeiten muss vorgängig von der Wildhüterin-Fischereiaufseherin oder vom Wildhüter-Fischereiaufseher der Region bewilligt werden. Aus diesem Anlass kann die Wildhüterin-Fischereiaufseherin oder der Wildhüter-Fischereiaufseher das Tragen einer Waffe erlauben.
+
+<sup>4</sup> Die Direktion kann weitere Möglichkeiten, die für die Nachsuche geeignet sind, direkt in der jährlichen Verordnung über die Planung der Jagd vorschlagen.
 
 #### Art. 50
 
@@ -686,7 +696,7 @@ beschliesst:
 
 **Jagdplanung**
 
-<sup>1</sup> Die Direktion genehmigt, auf Antrag des Amts und in Zusammenarbeit mit dem Verband, eine jährliche Verordnung über die Planung der Jagd pro Wildsektor und pro Wildart, die einem Abschussplan unterstellt ist.
+<sup>1</sup> Die Direktion genehmigt, auf Antrag des Amts und nach Anhören der Kommission, eine jährliche Verordnung über die Planung der Jagd pro Wildsektor und pro Wildart, die einem Abschussplan unterstellt ist.
 
 <sup>2</sup> Die Jagdplanung stützt sich auf folgende Grundlagen:
 
@@ -707,21 +717,21 @@ beschliesst:
 
 <sup>5</sup> Die Jagd wird unterbrochen, falls das Geschlechts- oder Alterskontingent vor Ablauf der in dieser Verordnung vorgesehenen Saison ausgeschöpft ist.
 
-<sup>6</sup> Die Konsultativkommission nimmt Stellung zur jährlichen Verordnung.
+<sup>6</sup> Der Verband nimmt vorgängig zur Jagdplanung Stellung.
 
 #### Art. 57
 
 **Grundpatent – ausserhalb des Gebirges**
 
-<sup>1</sup> Das Grundpatent berechtigt den Inhaber, ausserhalb des Gebirges folgendes Wild zu erlegen:
+<sup>1</sup> Das Grundpatent berechtigt die Inhaberin oder den Inhaber, ausserhalb des Gebirges folgendes Wild zu erlegen:
 
-- a) Füchse, Dachse, verwilderte Hauskatzen, Baummarder, Steinmarder;
+- a) Füchse, Dachse, verwilderte Hauskatzen (mit Ausnahme der getigerten Katze), Steinmarder;
 - b) Ringeltauben, verwilderte Haustauben, Türkentauben;
-- c) Kolkraben, Raben-, Saat- und Nebelkrähen, Elstern, Eichelhäher.
+- c) Kolkraben, Raben-, Saat- und Nebelkrähen, Elstern.
 
 <sup>2</sup> Die Jagd auf die Tiere nach Absatz 1 ist gestattet:
 
-– vom 1. September bis zum Montag des eidgenössischen Buss- und Bettages nur ausserhalb des Waldes und danach bis zum 15. Februar (15. Januar für die Dachse), ausser an Dienstagen und Freitagen in den Monaten September und Oktober und an Freitagen vom 1. November bis zum 15. Februar.
+– vom 1. September bis zum Montag des eidgenössischen Buss- und Bettages nur ausserhalb des Waldes und danach bis zum 15. Februar (15. Januar für die Dachse), ausser an Mittwochen und Freitagen in den Monaten September und Oktober und an Freitagen vom 1. November bis zum 15. Februar.
 
 <sup>3</sup> Ab dem 1. November darf das Haarraubwild nur mit Schrot erlegt werden, ausser dem Fuchs und dem Dachs, die während der ganzen Jagdsaison mit der Waffe mit gezogenem Lauf erlegt werden können.
 
@@ -731,9 +741,9 @@ beschliesst:
 
 **Grundpatent – im Gebirge**
 
-<sup>1</sup> Das Grundpatent berechtigt die Inhaberin oder den Inhaber, im Gebirge jedoch nur in den Gebäuden und deren unmittelbarer Umgebung mit Schrot zu erlegen:
+<sup>1</sup> Das Grundpatent berechtigt die Inhaberin oder den Inhaber, im Gebirge, jedoch nur in den Gebäuden und deren unmittelbarer Umgebung, mit Schrot zu erlegen:
 
-– Füchse, Dachse, Steinmarder, Baummarder.
+– Füchse, Dachse, Steinmarder.
 
 <sup>2</sup> Die Jagd auf die Tiere nach Absatz 1 ist gestattet:
 
@@ -760,6 +770,8 @@ beschliesst:
 <sup>4</sup> Die Treibjagd ist verboten.
 
 <sup>5</sup> Die jährliche Verordnung über die Planung der Jagd (Art. 56) kann die Entnahme nach Geschlecht oder Alter oder eine Höchstentnahme der Gämsen vorsehen.
+
+<sup>6</sup> Die ausgelosten Jägerinnen und Jäger dürfen die Armbänder untereinander tauschen; die Bestimmungen der jährlichen Verordnung über die Planung der Jagd bleiben vorbehalten.
 
 #### Art. 60
 
@@ -790,23 +802,21 @@ beschliesst:
 
 <sup>1</sup> Das Patent B berechtigt die Inhaberin oder den Inhaber, folgendes Wild gemäss der jährlichen Verordnung über die Planung der Jagd zu erlegen (Art. 56):
 
-– bis höchstens drei Rehe.
+– bis höchstens vier Rehe.
 
-<sup>2</sup> Die Rehwildjagd ist gestattet: während vier Wochen ab dem Montag des eidgenössischen Buss- und Bettages und während einer fünften Woche gemäss der jährlichen Verordnung über die Planung der Jagd (Art. 56), ausser an Dienstagen und Freitagen.
+<sup>2</sup> Die Rehwildjagd ist während vier Wochen ab dem Montag des eidgenössischen Buss- und Bettages gestattet.
 
 #### Art. 62
 
 **Hirschjagd**
 
-<sup>1</sup> Das Patent C berechtigt die Inhaberin oder den Inhaber, in den für die Jagd offenen Gebieten (Gebirge und Flachland) zu erlegen:
-
-– einen männlichen oder weiblichen Hirsch (mit Ausnahme der führenden Hirschkuh).
+<sup>1</sup> Das Patent C berechtigt die Inhaberin oder den Inhaber, in den für die Jagd offenen Gebieten (Gebirge und Flachland) den Hirsch (mit Ausnahme der führenden Hirschkuh) zu erlegen.
 
 <sup>2</sup> Der Hirsch darf während des Zeitraums gemäss der jährlichen Verordnung über die Planung der Jagd (Art. 56) gejagt werden, der zwischen dem 1. Oktober und 30. November liegen muss.
 
 <sup>3</sup> Jägerinnen und Jäger, die einen Hirsch erlegen, müssen folgende Zusatztaxen, die vom Amt einkassiert werden, entrichten:
 
-- a) 100 Franken für den Abschuss eines Spiessers;
+- a) 100 Franken für den Abschuss eines Spiessers, einer Hirschkuh oder eines Schmaltiers;
 - b) 200 Franken für den Abschuss eines männlichen Hirschs mit vier Sprossen;
 - c) 300 Franken für den Abschuss eines männlichen Hirschs mit sechs Sprossen;
 - d) 400 Franken für den Abschuss eines männlichen Hirschs mit acht Sprossen;
@@ -814,6 +824,15 @@ beschliesst:
 - f) 800 Franken für den Abschuss eines männlichen Hirschs mit mehr als zehn Sprossen.
 
 <sup>4</sup> Die Jägerin oder der Jäger muss sich täglich über die Erfüllung der Jagdplanung informieren. Ein Telefonbeantworter gibt Auskunft über den Verlauf der Hirschjagd.
+
+<sup>5</sup> Die Bewirtschaftungsräume nach dem Konzept Wald und Hirsch werden wie folgt festgelegt:
+
+- a) Der BWR 1 umfasst die folgenden Wildsektoren: 0202, 0501, 0502, 0503, 0504, 0505, 0506, 0507, 0508, 0509, 0510, 0511, 0701, 0702, 0801, 0802, 0803, 0901, 0902, 0903, 0908 und 0909;
+- b) Der BWR 2 umfasst die folgenden Wildsektoren: 0703, 0704, 0804, 0805, 0806, 0904, 0905, 0906, 0907, 1001 und 1005 (rechtes Saaneufer);
+- c) Der BWR 3 umfasst die folgenden Wildsektoren: 0705, 0706, 1002, 1003, 1004, 1005 (linkes Saaneufer), 1501, 1502 und 1503;
+- d) Der BWR 4 umfasst die folgenden Wildsektoren: 0204, 0303, 0304, 0305, 0601, 0602, 0603, 0604, 1201, 1202, 1203, 1204, 1205, 1206 und 1504;
+- e) Der BWR 5 umfasst die folgenden Wildsektoren: 0102, 0103, 0104, 0105, 0106, 0302, 1101, 1102, 1103, 1104, 1105, 1106, 1107, 1108, 1109, 1110, 1301, 1302, 1303, 1304, 1305, 1306, 1401, 1402, 1403, 1404, 1405 und 1406;
+- f) Der BWR 6 umfasst die folgenden Wildsektoren: 0101, 0201, 0203, 0301, 0401, 0402, 0403, 0404, 0405, 0406, 0407, 0408, 0409, 1601, 1602, 1603, 1604, 1605 und 1606.
 
 #### Art. 63
 
@@ -833,7 +852,11 @@ beschliesst:
 
 <sup>2</sup> Diese Jagd ist gestattet:
 
-– vom 1. September bis zum Montag des eidgenössischen Buss- und Bettages nur ausserhalb des Waldes und danach bis zum 31. Januar, ausser an Dienstagen und Freitagen in den Monaten September und Oktober und an Freitagen in den Monaten November bis Januar.
+– vom 1. September bis zum eidgenössischen Buss- und Bettag nur ausserhalb des Waldes;
+
+– vom Montag des eidgenössischen Buss- und Bettages bis 31. Januar inner- und ausserhalb des Waldes.
+
+<sup>2a</sup> Der Kugelschuss mit der Waffe mit gezogenem Lauf ist für die Treibjagd mit und ohne Hund (Ansitzjagd, Treibjagd und Drückjagd) gestattet.
 
 <sup>3</sup> Ist die Anzahl der während dieser Zeiträume erlegten Wildschweine ungenügend, so kann die Direktion diese Jagd bis Ende Februar verlängern.
 
@@ -843,11 +866,11 @@ beschliesst:
 
 **Jagd auf Wildschweine – im Gebirge**
 
-<sup>1</sup> Das Patent D berechtigt die Inhaberin oder den Inhaber, Wildschweine in den Wildsektoren im Gebirge gemäss der jährlichen Verordnung über die Planung der Jagd (Art. 56) und während der Jagd auf die Gämse und den Hirsch in allen für die Jagd auf diese beiden Arten offenen Wildsektoren zu erlegen.
+<sup>1</sup> Das Patent D berechtigt die Inhaberin oder den Inhaber, vom 1. September bis zum 31. Dezember das Wildschwein ohne Fangzahlbeschränkung in der Ansitz- oder der Treibjagd ohne Hund (Treibjagd und Drückjagd) inner- und ausserhalb des Waldes zu jagen; der Kugelschuss mit der Waffe mit gezogenem Lauf ist gestattet.
 
-<sup>2</sup> Es sind nur die Ansitzjagd und die Treibjagd gestattet.
+<sup>2</sup> …
 
-<sup>3</sup> Der Einsatz von Hunden ist verboten, mit Ausnahme eines Hundes pro Jägerin oder Jäger zum Aufspüren; dieser Hund muss immer an der Leine geführt werden. Der Einsatz von Schweisshunden für die Nachsuche von angeschossenem Wild ist gestattet.
+<sup>3</sup> Hunde dürfen ausschliesslich zum Aufspüren eingesetzt werden, wobei die Anzahl auf einen Hund pro Jägerin oder Jäger begrenzt ist; dieser Hund muss immer an der Leine geführt werden. Der Einsatz von Schweisshunden für die Nachsuche von angeschossenem Wild ist gestattet.
 
 <sup>4</sup> Der Abschuss der Bachen, die gestreifte Frischlinge führen, ist verboten.
 
@@ -857,9 +880,7 @@ beschliesst:
 
 <sup>1</sup> Am Südufer des Neuenburgersees und im WZVV-Reservat Chevroux–Portalban gemäss Anhang 1 der Verordnung vom 21. Juni 2016 über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume ist die Jagd auf Wildschweine gestattet.
 
-<sup>2</sup> Diese Jagd ist gestattet:
-
-– vom 15. Oktober bis 31. Dezember, ausser an Dienstagen und Freitagen im Monat Oktober und an Freitagen in den Monaten November, Dezember und Januar. Das Amt kann diese Jagd am 15. Dezember beenden, wenn es die Regulierung als genügend betrachtet.
+<sup>2</sup> Diese Jagd ist vom 15. Oktober bis 31. Dezember gestattet. Das Amt kann diese Jagd am 15. Dezember beenden, wenn es die Regulierung als genügend betrachtet.
 
 <sup>3</sup> Die Jagd in den Wasser- und Zugvogelreservaten (WZVV) dauert bis am 31. Dezember. In den kantonalen Reservaten dauert die Jagd bis spätestens am 31. Januar.
 
@@ -879,33 +900,37 @@ beschliesst:
 
 <sup>11</sup> Betrachtet das Amt die Regulierung als ungenügend, wird die Jagd in bestimmten oder allen Reservaten gemäss Absatz 1 bis zum 31. Januar verlängert, ausser an Freitagen.
 
+<sup>12</sup> Die punktuelle Verwendung von Taschenlampen ist nur im WZVV-Reservat gestattet. Die Jägerinnen und Jäger müssen vom Amt instruiert werden.
+
+<sup>13</sup> Jägerinnen und Jäger, die gegen die Jagdgesetzgebung verstossen haben, dürfen im folgenden Jahr nicht an dieser Jagd teilnehmen.
+
 #### Art. 67
 
 **Jagd auf Federwild im Flachland**
 
 <sup>1</sup> Das Patent E berechtigt die Inhaberin oder den Inhaber im Flachland zu jagen:
 
-- a) Stockenten, Krickenten, Tafelenten, Reiherenten, Haubentaucher, Blässhühner, Kormorane: vom Montag des eidgenössischen Buss- und Bettages bis zum 15. Januar, ausser an Dienstagen und Freitagen in den Monaten September und Oktober und an Freitagen in den Monaten November bis Januar;
-- b) Waldschnepfen: vom 15. Oktober bis 14. Dezember, ausser an Dienstagen und Freitagen im Monat Oktober und an Freitagen in den Monaten November und Dezember. Es ist verboten, mehr als zwei Schnepfen pro Tag zu erlegen.
+- a) Waldschnepfen, vom 15. Oktober bis 14. Dezember; es ist verboten, mehr als zwei Schnepfen pro Tag zu erlegen;
+- b) Stockenten, Krickenten und Kormorane, vom Montag des eidgenössischen Buss- und Bettages bis zum 31. Januar.
 
-<sup>2</sup> Ab dem 1. November darf das Wasserwild nur an folgenden Orten erlegt werden:
+<sup>2</sup> Wasserwild darf erlegt werden:
 
-- a) auf folgenden Wasserläufen, mit Ausnahme ihrer Zuflüsse und der Abschnitte, die sich in Wildschutzgebieten befinden: Saane, Glane, Neirigue, Sionge, Sonnaz, Bibera (mit den Kanälen von Fräschels und Galmiz), Broye, Broyekanal, Arbogne (nur auf dem Gebiet von Domdidier und Dompierre), Kleine Glane, Bainoz, Arignon, Glânet, Sense, Warme und Kalte Sense, Taverna, Courtepin-Bach und Corjon;
-- b) an den Ufern des Neuenburger-, des Schiffenen-, des Greyerzer- und des Montsalvens-Sees (einschliesslich der im Gebirge gelegenen Uferbereiche) sowie des Montbovon- und des Lussysees, mit Ausnahme der Gebiete, die sich in Wildschutzgebieten befinden;
-- c) auf den Teichen von Grandsivaz (Gours), Lentigny und Villarimboud;
-- d) vom Boot aus auf dem Greyerzer-, Montsalvens- und Schiffenensee.
+- a) vom Boot aus ausschliesslich auf dem Greyerzer-, Montsalvens- und Schiffenensee;
+- b) auf dem Festland nur bis zu einer Entfernung von 100 Metern vom Ufer von Seen und Wasserläufen, mit Ausnahme der Abschnitte, die sich in einem Schutzgebiet befinden; bildet ein Wasserlauf die Grenze zu einem Wildschutzgebiet, so ist die Jagd nur vom Ufer aus gestattet, das dem Wildschutzgebiet gegenüberliegt;
+- c) auf den Teichen von Grandsivaz (Gours), Lentigny und Villarimboud.
+- d) …
 
-<sup>3</sup> Die Jagd ist auf dem Festland nur bis zu einer Entfernung von höchstens 100m vom Ufer gestattet. Die Jagd vom Schiff aus ist verboten, ausser auf dem Greyerzer-, Montsalvens- und Schiffenensee. Bildet ein Wasserlauf die Grenze zu einem Wildschutzgebiet, so ist die Jagd nur vom Ufer aus gestattet, das dem Wildschutzgebiet gegenüberliegt.
+<sup>3</sup> …
 
-<sup>4</sup> Der Abschuss des Haubentauchers ist erst ab dem 16. Oktober des laufenden Jahres gestattet.
+<sup>4</sup> …
 
-<sup>5</sup> Der Abschuss der Kormorane ist auf dem Schiffenen- und Greyerzersee sowie in einer Entfernung von weniger als 100m vom Ufer des Neuenburger- und Murtensees verboten.
+<sup>5</sup> …
 
 #### Art. 68
 
 **Jagd auf dem Neuenburgersee**
 
-<sup>1</sup> Das Patent F berechtigt die Inhaberin oder den Inhaber, vom 1. Oktober bis 31. Januar auf dem Neuenburgersee Wasserwild vom Schiff aus in den Grenzen, die vom Konkordat über die Jagd auf dem Neuenburgersee festgesetzt wurden, zu erlegen.
+<sup>1</sup> Das Patent F berechtigt die Inhaberin oder den Inhaber, auf dem Neuenburgersee Wasserwild vom Schiff aus in den Grenzen, die vom Konkordat über die Jagd auf dem Neuenburgersee festgesetzt wurden, zu erlegen.
 
 <sup>2</sup> Das Patent H berechtigt Berufsfischerinnen und Berufsfischer, die noch berufstätig sind, den Kormoran ausserhalb der Schonzeit gemäss dem entsprechenden Konkordat zu jagen.
 
@@ -913,7 +938,7 @@ beschliesst:
 
 **Jagd auf dem Murtensee**
 
-<sup>1</sup> Das Patent G berechtigt die Inhaberin oder den Inhaber, vom 1. Oktober bis 31. Januar auf dem Murtensee Wasserwild vom Schiff aus in den Grenzen, die vom Konkordat über die Jagd auf dem Murtensee festgesetzt wurden, zu erlegen.
+<sup>1</sup> Das Patent G berechtigt die Inhaberin oder den Inhaber, auf dem Murtensee Wasserwild vom Schiff aus in den Grenzen, die vom Konkordat über die Jagd auf dem Murtensee festgesetzt wurden, zu erlegen.
 
 <sup>2</sup> Das Patent H berechtigt Berufsfischerinnen und Berufsfischer, die noch berufstätig sind, den Kormoran ausserhalb der Schonzeit gemäss dem entsprechenden Konkordat zu jagen.
 
@@ -927,14 +952,11 @@ beschliesst:
 
 <sup>2</sup> Jägerinnen und Jäger, die ein verletztes Tier suchen, das in ein Gebiet geflüchtet ist, wo nicht gejagt werden darf, müssen ihm nachfolgen, nachdem sie Zustimmung der Wildhüterin-Fischereiaufseherin oder des Wildhüters-Fischereiaufsehers eingeholt haben.
 
-<sup>3</sup> Liegt das beschossene Schalenwild nicht im Feuer, so muss die Jägerin oder der Jäger sofort nach dem Schuss ihren oder seinen Standort deutlich kennzeichnen. Die Jägerin oder der Jäger muss eine Schweisshundeführerin oder einen Schweisshundeführer beiziehen und ihr oder ihm den Standort des Tiers und die Fluchtrichtung angeben.
+<sup>3</sup> Liegt das beschossene Tier nicht im Feuer, so muss die Wildhüterin-Fischereiaufseherin oder der Wildhüter-Fischereiaufseher gleichentags während den Jagdzeiten innerhalb von 4 Stunden nach dem Schuss benachrichtigt werden. Die Jägerin oder der Jäger muss sofort nach dem Schuss ihren oder seinen Standort, den Standort des Tiers und dessen Fluchtrichtung deutlich kennzeichnen. Die Jägerin oder der Jäger muss eine Schweisshundeführerin oder einen Schweisshundeführer beiziehen.
 
-<sup>3<sup>bis</sup></sup> Im Übrigen wird der Jägerin oder dem Jäger empfohlen, zusätzlich zur obligatorischen Kennzeichnung ihres oder seines Standorts während der Schussabgabe auch:
+<sup>3<sup>bis</sup></sup> …
 
-- a) den Standort des geschossenen Tiers, und
-- b) die Fluchtrichtung des Tiers zu kennzeichnen.
-
-<sup>4</sup> Kann das Schalenwild trotz Nachsuche mit einem Schweisshund nicht aufgefunden werden, so muss die Wildhüterin-Fischereiaufseherin oder der Wildhüter-Fischereiaufseher der Gegend am gleichen Tag benachrichtigt werden. Dies gilt auch, wenn die Nachsuche an einem Tag, an dem die Jagd verboten ist, oder ausserhalb der Jagdzeiten erfolgt.
+<sup>4</sup> …
 
 #### Art. 71
 
@@ -950,7 +972,7 @@ beschliesst:
 
 **Kontrollmarken**
 
-<sup>1</sup> Hirsche, Gämsen und Rehe müssen unmittelbar nach dem Abschuss an Ort und Stelle mit der entsprechenden Kontrollmarke versehen werden.
+<sup>1</sup> Hirsche, Gämsen, Wildschweine und Rehe müssen unmittelbar nach dem Abschuss an Ort und Stelle mit der entsprechenden Kontrollmarke versehen werden.
 
 <sup>2</sup> Die Kontrollmarke muss bei den Säugetieren am Sprunggelenk so befestigt werden, dass sie nicht mehr geöffnet werden kann. Vorher sind bei den Kontrollmarken des Typs «Armband» die Marken des Erlegungsmonats und -tags abzuschneiden.
 
@@ -962,7 +984,7 @@ beschliesst:
 
 <sup>1</sup> Die Jägerin oder der Jäger muss noch im Jagdgebiet und bevor sie oder er den Hirsch, die Gämse, das Reh oder das Wildschwein verschiebt, obligatorisch alle Rubriken, mit Ausnahme des Gewichts und der Länge der Gämskrickel, auf dem Kontrollformular ausfüllen und zwar so, dass die Angaben nicht mehr gelöscht werden können. Das Gewicht muss spätestens vor dem Versand oder der Abgabe des Formulars an die Wildhüterin-Fischereiaufseherin oder den Wildhüter-Fischereiaufseher eingesetzt werden.
 
-<sup>2</sup> Das Kontrollformular für die Gämse und das Reh muss der Wildhüterin-Fischereiaufseherin oder dem Wildhüter-Fischereiaufseher des Wildsektors, in dem das Tier erlegt wurde, übergeben oder per Post oder gemäss den Anweisungen des Amts elektronisch zugestellt werden. Das Formular muss innerhalb von 72 Stunden nach dem Abschuss im Gebirge und innerhalb von 48 Stunden nach dem Abschuss im Flachland übergeben oder auf der Post abgegeben werden. Die Bestimmungen dieses Absatzes sind nicht auf irrtümlich erlegte Tiere anwendbar, die gemäss den Bestimmungen von Artikel 76 dieses Reglements vorgewiesen werden müssen.
+<sup>2</sup> Das Kontrollformular für die Gämse und das Reh muss der Wildhüterin-Fischereiaufseherin oder dem Wildhüter-Fischereiaufseher des Wildsektors, in dem das Tier erlegt wurde, übergeben oder per Post oder gemäss den Anweisungen des Amts elektronisch zugestellt werden. Das Formular muss innerhalb von 72 Stunden nach dem Abschuss im Gebirge und innerhalb von 48 Stunden nach dem Abschuss im Flachland übergeben oder auf der Post abgegeben werden, wobei das Datum des Poststempels massgebend ist. Die Bestimmungen dieses Absatzes sind nicht auf irrtümlich erlegte Tiere anwendbar, die gemäss den Bestimmungen von Artikel 76 dieses Reglements vorgewiesen werden müssen.
 
 #### Art. 74
 
@@ -1013,6 +1035,8 @@ beschliesst:
 
 <sup>2</sup> Befindet sich das Tier in einem schlechten Zustand, so kann die Wildhüterin-Fischereiaufseherin oder der Wildhüter-Fischereiaufseher die Kontrollmarke und das Kontrollformular ersetzen. In diesem Fall werden die Tiere einschliesslich der Trophäen beschlagnahmt.
 
+<sup>3</sup> Ist der schlechte Zustand des Tiers auf einen schlecht ausgeführten Schuss oder auf einen Schuss zurückzuführen, der unter Bedingungen ausgeführt wurde, welche die Suche nach dem verletzten Tier verunmöglichen, so werden die Kontrollmarke und das Kontrollformular nicht ersetzt.
+
 #### Art. 79
 
 **Markierte Tiere**
@@ -1021,24 +1045,45 @@ beschliesst:
 
 <sup>2</sup> Tiere, die mit einem Sender oder Ortungsgerät versehen sind, dürfen nicht erlegt werden.
 
+<sup>3</sup> Im Falle eines Abschusses eines Tiers, das mit einem Sender oder Ortungsgerät versehen ist, muss die Jägerin oder der Jäger neben dem Wert des Tiers den verursachten Schaden ersetzen, insbesondere:
+
+- a) die Kosten für das Anbringen eines neuen Geräts, auf der Grundlage der effektiv erbrachten Stunden, jedoch mindestens 500 Franken und höchstens 2000 Franken;
+- b) gegebenenfalls den Ersatz eines beim Abschuss beschädigten Geräts.
+
 #### Art. 80
 
 **Irrtümlich erlegte Tiere**
 
 <sup>1</sup> Im Falle eines irrtümlichen Abschusses und soweit die Bedingungen nach Artikel 83 Abs. 2 erfüllt sind, muss die Jägerin oder der Jäger folgende Entschädigungen bezahlen:
 
-- a) 200 Franken für eine führende Gämsgeiss oder, für den Fall, dass die jährliche Verordnung über die Planung der Jagd (Art. 56) eine Jagd nach Geschlechtern vorsieht, 200 Franken für eine Gämse des anderen Geschlechts oder einer anderen Kategorie als derjenigen, die der Jägerin oder dem Jäger zugeteilt wurde;
-- b) 300 Franken für eine führende Hirschkuh;
-- c) 200 Franken für eine führende Rehgeiss;
-- d) 150 Franken für ein Reh von 13 kg oder mehr anstatt eines Rehs von weniger als 13 kg oder für einen Rehbock anstatt einer Rehgeiss oder umgekehrt; die Trophäe des Rehbocks wird beschlagnahmt.
+- a) Gämse, zusätzlich zur Beschlagnahmung der Trophäe:
+  - 1\. 200 Franken für eine führende Gämsgeiss;
+  - 2\. 200 Franken für einen Jährling anstelle eines erwachsenen Tiers;
+  - 3\. 200 Franken für ein erwachsenes Tier des anderen Geschlechts als desjenigen, das zugeteilt wurde;
+  - 4\. 300 Franken für ein erwachsenes Tier anstelle eines Jährlings oder Kitzes.
+- b) Reh, zusätzlich zur Beschlagnahmung der Trophäe:
+  - 1\. 200 Franken für eine führende Rehgeiss;
+  - 2\. 150 Franken für ein Reh von 13 kg oder mehr anstatt eines Rehs von weniger als 13 kg oder für einen Rehbock anstatt einer Rehgeiss oder umgekehrt.
+- c) Hirsch:
+  - 1\. 300 Franken für eine führende Hirschkuh;
+  - 2\. 200 Franken für ein Stierkalb, einen erwachsenen Hirschstier, einen Spiesser, eine Hirschkuh oder ein Schmaltier, das unter Missachtung des Abschussplans erlegt wurde; die in Artikel 62 vorgesehenen Zusatztaxen werden zu diesem Betrag hinzugezählt und das Tier wird beschlagnahmt.
+- d) …
+
+<sup>1a</sup> Im Falle eines irrtümlichen Abschusses, für den mehrere Entschädigungen zu bezahlen sind, werden diese zu einer Gesamtentschädigung kumuliert.
 
 <sup>2</sup> Wird eine Bache, die gestreifte Frischlinge führt, oder ein Tier mit einem Sender oder Ortungsgerät erlegt, so wird das Tier beschlagnahmt.
 
-<sup>3</sup> Wird ein Gänsesäger oder eine nach dem kantonalen Recht geschützte Ente erlegt (namentlich Knäckente, Schnatterente, Pfeifente, Spiessente, Löffelente, Schellente), so muss das Tier einer Wildhüterin-Fischereiaufseherin oder einem Wildhüter-Fischereiaufseher abgegeben werden; das Tier wird beschlagnahmt. Die Jägerin oder der Jäger muss eine Entschädigung von 50 Franken bezahlen.
+<sup>3</sup> …
 
 <sup>4</sup> Wird ein Rehbock mit einem Gehörn, dessen Gesamtlänge (der beiden Stangen), von der Basis der Rosenstöcke gemessen, 16 cm nicht übersteigt (Knopfbock), anstelle einer Rehgeiss erlegt, so muss das Tier einer Wildhüterin-Fischereiaufseherin oder einem Wildhüter-Fischereiaufseher vorgezeigt werden; die Trophäe des Rehbocks wird beschlagnahmt.
 
-<sup>5</sup> Das Amt setzt die Entschädigungen fest, die im Falle von irrtümlichen Abschüssen bei den Nachjagden zu bezahlen sind.
+<sup>5</sup> Die Entschädigungen im Falle von irrtümlichen Abschüssen gelten auch bei Nachjagden.
+
+#### Art. 80a
+
+**Kommunikationsmittel**
+
+<sup>1</sup> Die Wildhüterin-Fischereiaufseherin oder der Wildhüter-Fischereiaufseher kann nur telefonisch kontaktiert werden, unter Ausschluss aller anderen ähnlichen Kommunikationsmittel (Internet, SMS, App usw.).
 
 ## 5 Information, Ausbildung, Forschung
 
@@ -1052,7 +1097,7 @@ beschliesst:
 
 **Ausbildung der Jägerinnen und Jäger**
 
-<sup>1</sup> Die Grundausbildung der Jägerinnen und Jäger muss von den Jägerinnen- und Jägervereinigungen sichergestellt werden.
+<sup>1</sup> Die Grundausbildung der Jägerinnen und Jäger muss vom Verband sichergestellt werden.
 
 <sup>2</sup> Die Weiterbildung der Jägerinnen und Jäger kann mit Beiträgen aus dem Fonds für das Wild, durch die Bereitstellung von Personal oder Material oder in einer anderen geeigneten Form unterstützt werden. Artikel 81 gilt sinngemäss.
 
@@ -1084,13 +1129,13 @@ beschliesst:
 
 **Beschlagnahmung des Patents**
 
-<sup>1</sup> Bei Verstössen gegen Artikel 72–75 wird das Patent gemäss den Bestimmungen von Artikel 20 Abs. 3 und 4 JaG beschlagnahmt.
+<sup>1</sup> Bei Verstössen gegen Artikel 72–75 kann das Patent gemäss den Bestimmungen von Artikel 20 Abs. 3 und 4 JaG beschlagnahmt werden.
 
 #### Art. 85
 
 **Übertretungen**
 
-<sup>1</sup> Als Übertretungen im Sinne von Artikel 54 Abs. 1 Bst. b und Abs. 3 JaG gelten Widerhandlungen gegen die Bestimmungen folgender Artikel dieser Verordnung: Artikel 22–25, 27–29, 33, 34, 36–38, 41–43, 45–47, 70 und 75–79 (mit Ausnahme von Art. 76 Abs. 5).
+<sup>1</sup> Als Übertretungen im Sinne von Artikel 54 Abs. 1 Bst. b und Abs. 3 JaG gelten Widerhandlungen gegen die Bestimmungen folgender Artikel dieser Verordnung: Artikel 22–25, 27–29, 32–34, 36, 37, 41, 42, 45–47, 64 Abs. 5, 65 Abs. 3, 70 und 75–79 (mit Ausnahme von Art. 76 Abs. 5).
 
 #### Art. 86
 

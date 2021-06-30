@@ -4,13 +4,13 @@ number: "922.11"
 title: Ordonnance concernant la chasse
 short: OCha
 language: fr
-version: 2020-09-01
-valid_until: 2021-06-30
-version_adopted: 2020-08-17
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-25
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6570/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6926/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Chasse – O
 
 (OCha)
 
-du 06.06.2016 (version entrée en vigueur le 01.09.2020)
+du 06.06.2016 (version entrée en vigueur le 01.07.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -142,7 +142,7 @@ Arrête:
 
 <sup>6</sup> La préfecture pourvoit aux opérations financières relatives aux permis.
 
-<sup>7</sup> Le quarantième permis de base, accompagné d'un permis spécial A, B, C ou E, est, sur demande adressée au Service au moins trois mois avant l'ouverture de la chasse, octroyé gratuitement; la taxe prévue à l'article 40a let. b LCha est due.
+<sup>7</sup> Le quarantième permis de base, accompagné d'un permis spécial A, B, C ou E, est, sur demande adressée au Service au moins trente jours avant l'ouverture de la chasse, octroyé gratuitement; la taxe prévue à l'article 40a al. 1 let. b LCha est due.
 
 #### Art. 11
 
@@ -164,7 +164,7 @@ Arrête:
 
 <sup>1</sup> Le Service peut délivrer à une personne non domiciliée dans le canton (ci-après: l'hôte) et qui remplit les conditions fixées par l'article 19 al. 1 LCha des autorisations de chasse limitées à quelques jours.
 
-<sup>2</sup> La demande doit être déposée auprès du Service au moins un mois à l'avance, par écrit, avec production des documents nécessaires.
+<sup>2</sup> La demande doit être déposée auprès du Service au moins quinze jours à l'avance, par écrit, avec production des documents nécessaires.
 
 <sup>3</sup> Ces autorisations sont valables un, deux ou trois jours, à l'exception des trois premiers jours des périodes de chasse du chamois, du chevreuil et du cerf.
 
@@ -178,7 +178,7 @@ Arrête:
 
 <sup>8</sup> Ces autorisations peuvent aussi être délivrées comme autorisations sans port d'arme, donnant le droit à l'hôte de prendre une part active à la chasse mais sans porter d'arme.
 
-<sup>9</sup> Ces autorisations sont soumises au paiement d'un émolument administratif fixé par le Service.
+<sup>9</sup> Ces autorisations sont soumises au paiement d'un émolument administratif de 50 francs.
 
 ### 3.5 Genres de permis
 
@@ -211,43 +211,45 @@ Arrête:
 
 <sup>2</sup> Ce permis confère les mêmes droits et obligations que le permis de chasse général, à l'exception du port d'arme et du tir ainsi que de l'achat et de l'obtention de marques de contrôle.
 
-### 3.6 Exercice obligatoire de tir
+### 3.6 Epreuve obligatoire de tir
 
 #### Art. 15
 
 **Principe**
 
-<sup>1</sup> L'obtention d'un permis de chasse général est subordonnée à l'accomplissement de l'exercice obligatoire de tir dans l'année qui précède la date de délivrance du permis.
+<sup>1</sup> L'obtention d'un permis de chasse général est subordonnée à l'accomplissement de l'épreuve obligatoire de tir dans l'année qui précède la date de délivrance du permis.
 
 <sup>2</sup> L'alinéa 1 ne s'applique pas à la prise d'un permis de chasse général sans port d'arme.
+
+<sup>3</sup> L'expression «épreuve obligatoire de tir» correspond à l'exercice périodique de tir de l'article 19 al. 1 let. g LCha.
 
 #### Art. 16
 
 **Contenu**
 
-<sup>1</sup> L'exercice obligatoire de tir comprend:
+<sup>1</sup> L'épreuve obligatoire de tir comprend:
 
-- a) l'exercice de tir à l'arme à canon lisse, si le chasseur ou la chasseuse veut utiliser ce type d'arme;
-- b) l'exercice de tir à l'arme à canon rayé, si le chasseur ou la chasseuse veut utiliser ce type d'arme.
+- a) l'épreuve de tir à l'arme à canon lisse, si le chasseur ou la chasseuse veut utiliser ce type d'arme;
+- b) l'épreuve de tir à l'arme à canon rayé, si le chasseur ou la chasseuse veut utiliser ce type d'arme.
 
 #### Art. 17
 
 **Attestation**
 
-<sup>1</sup> L'accomplissement de l'exercice obligatoire de tir donne droit à une attestation écrite. La validité de l'attestation est limitée à la saison de chasse indiquée sur l'attestation. L'attestation doit être présentée et remise à la préfecture lors de l'achat du permis.
+<sup>1</sup> L'accomplissement de l'épreuve obligatoire de tir donne droit à une attestation écrite. La validité de l'attestation est limitée à la saison de chasse indiquée sur l'attestation. L'attestation doit être présentée et remise à la préfecture lors de l'achat du permis.
 
-<sup>2</sup> Les tirs effectués lors de l'examen d'aptitude pour chasseur et chasseuse tiennent lieu d'exercice obligatoire de tir pour la saison de chasse qui suit.
+<sup>2</sup> Les tirs effectués lors de l'examen d'aptitude pour chasseur et chasseuse tiennent lieu d'épreuve obligatoire de tir pour la saison de chasse qui suit.
 
 #### Art. 18
 
 **Organisation**
 
-<sup>1</sup> La Fédération est chargée d'organiser les séances de tir et de délivrer les attestations aux personnes qui accomplissent l'exercice obligatoire.
+<sup>1</sup> La Fédération est chargée d'organiser les séances de tir et de délivrer les attestations aux personnes qui accomplissent l'épreuve obligatoire.
 
 <sup>2</sup> La Fédération soumet à l'approbation du Service:
 
-- a) le programme de l'exercice de tir ainsi que les prescriptions y relatives (genre de cibles, distances de tir, nombre de coups à tirer, etc.);
-- b) la formule attestant l'accomplissement de l'exercice obligatoire.
+- a) le programme de l'épreuve de tir ainsi que les prescriptions y relatives (genre de cibles, distances de tir, nombre de coups à tirer, etc.);
+- b) la formule attestant l'accomplissement de l'épreuve obligatoire.
 
 <sup>3</sup> Le Service contribue aux frais administratifs y relatifs.
 
@@ -263,18 +265,20 @@ Arrête:
   - 1\. taxe de base obligatoire: Fr. 200
   - 2\. taxe de base obligatoire sans arme: Fr. 50
 - b) Permis A (chamois):
-  - 1\. 1 chamois: Fr. 150 à 300
-- c) Permis B (chevreuil; l'ordonnance annuelle concernant la planification de la chasse (art. 56) peut prévoir d'autres types de permis pour le chevreuil):
-  - 1\. 1 chevreuil de moins de 13 kilogrammes: Fr. 80
-  - 2\. 1 chevreuil de 13 kilogrammes ou plus: Fr. 160
-  - 3\. 1 chevreuil de 13 kilogrammes ou plus et 1 chevreuil de moins de 13 kilogrammes: Fr. 240
-  - 4\. 2 chevreuils de 13 kilogrammes ou plus et 1 chevreuil de moins de 13 kilogrammes: Fr. 400
-- d) Permis C (cerf): Fr. 200
+  - 1\. chamois: Fr. 150 à 300 par individu
+- c) Permis B (chevreuil):
+  - 1\. chevreuil de moins de 13 kilogrammes: Fr. 80 par individu
+  - 2\. chevreuil de 13 kilogrammes ou plus: Fr. 160 par individu
+  - 3\. …
+  - 4\. …
+- d) Permis C (cerf): Fr. 200 par individu
 - e) Permis D (sanglier): Fr. 100
 - f) Permis E (gibier à plumes): Fr. 100
 - g) Permis F (lac de Neuchâtel): Fr. 150
 - h) Permis G (lac de Morat): Fr. 150
 - i) Permis H: gratuit
+
+<sup>2</sup> Les catégories et le nombre d'individus pouvant être tirés avec les permis A, B et C sont définis dans l'ordonnance annuelle concernant la planification de la chasse (art. 56).
 
 #### Art. 20
 
@@ -312,9 +316,10 @@ Arrête:
 <sup>1</sup> La chasse est interdite:
 
 - a) le dimanche;
-- b) à Nouvel-An (1<sup>er</sup> janvier), à la Toussaint (1<sup>er</sup> novembre), à l'Immaculée Conception (8 décembre), à Noël (25 décembre);
-- c) les mardis et vendredis des mois de septembre et d'octobre pour la chasse en plaine ainsi que les vendredis des mois de novembre, décembre, janvier et février;
-- d) hors des périodes fixées pour les différentes chasses.
+- b) les mercredis et vendredis des mois de septembre et d'octobre (pour la chasse en plaine);
+- c) les vendredis des mois de novembre, décembre, janvier et février (pour la chasse en plaine et en montagne);
+- d) à Nouvel-An (1<sup>er</sup> janvier), le Vendredi-Saint, à l'Ascension, à la Fête-Dieu, à la Fête Nationale (1<sup>er</sup> août), à l'Assomption (15 août), à la Toussaint (1<sup>er</sup> novembre), à l'Immaculée Conception (8 décembre), à Noël (25 décembre);
+- e) hors des périodes fixées pour les différentes chasses.
 
 #### Art. 23
 
@@ -322,14 +327,14 @@ Arrête:
 
 <sup>1</sup> Par visibilité suffisante et sous réserve des extensions ou restrictions prévues par l'ordonnance annuelle concernant la planification de la chasse (art. 56), il est permis de tirer les animaux aux heures suivantes:
 
-- a) en septembre: de 6 h 30 à 20 h 30;
-- b) en octobre: de 7 h 00 à 20 h 00 (heure d'été); de 6 h 00 à 19 h 00 (heure d'hiver);
-- c) en novembre: de 7 h 00 à 19 h 00;
-- d) en décembre: de 7 h 30 à 18 h 30;
-- e) en janvier: de 7 h 30 à 18 h 30;
-- f) en février: de 7 h 00 à 18 h 30.
+- a) depuis une heure avant le lever du soleil selon les éphémérides de Berne;
+- b) jusqu'à une heure après le coucher du soleil selon les éphémérides de Berne.
+- c) …
+- d) …
+- e) …
+- f) …
 
-<sup>2</sup> Les horaires prévus par les concordats conclus par le canton de Fribourg demeurent réservés.
+<sup>2</sup> …
 
 #### Art. 24
 
@@ -345,11 +350,12 @@ Arrête:
 - f) dans les vignes et les vergers avant la fin de la récolte;
 - g) sur les bassins de rétention des autoroutes;
 - h) sur les étangs des places de golf, sauf accord du ou de la propriétaire ou celui de l'exploitant ou de l'exploitante.
+- i) à moins de 200 mètres de rayon des extrémités des passages à faune supérieurs.
 
 <sup>2</sup> Tout tir est interdit là où il peut mettre en danger des personnes ou des animaux domestiques ou causer des dommages aux biens d'autrui, notamment:
 
 - a) à moins de 100 mètres des habitations, sauf autorisation de la personne qui y habite;
-- b) dans les ports publics et, sur les lacs, à moins de 200 mètres des ports, môles et débarcadères assurant un service public.
+- b) dans les ports publics et, sur les lacs, à moins de 200 mètres des ports, des môles et des débarcadères assurant un service public.
 
 <sup>3</sup> La chasse aux oiseaux d'eau depuis les bords et sur les lacs et étangs gelés est interdite dès que plus de la moitié de leur surface est gelée.
 
@@ -410,7 +416,7 @@ Arrête:
 
 <sup>2</sup> Est seul autorisé l'emploi d'une embarcation sans moteur ou dont le moteur a une puissance ne dépassant pas 6 kilowatts ou 8 chevaux-vapeur (8 CV Din).
 
-<sup>3</sup> Depuis une embarcation, seul le tir des oiseaux d'eau et des corvidés est autorisé.
+<sup>3</sup> Depuis une embarcation, seul le tir des oiseaux d'eau est autorisé.
 
 ### 4.3 Accompagnants et accompagnantes
 
@@ -441,9 +447,9 @@ Arrête:
 
 **Utilisation de miradors**
 
-<sup>1</sup> Un mirador de type échelle-siège (ci-après: mirador) peut être installé cinq jours avant l'ouverture de la chasse et rester sur place jusqu'à cinq jours après la fermeture de la chasse. Il doit être muni du nom de son ou de sa propriétaire.
+<sup>1</sup> Un mirador de type échelle-siège (ci-après: mirador) peut être installé cinq jours avant l'ouverture de la chasse et doit être démonté au plus tard le cinquième jour après la fermeture de la chasse. Il doit être muni du nom de son ou de sa propriétaire.
 
-<sup>2</sup> Toute pose de mirador dans un secteur de faune doit être annoncée dans la journée au ou à la garde-faune concerné-e. La construction d'affûts est soumise à la législation cantonale sur les forêts.
+<sup>2</sup> Toute pose de mirador dans un secteur de faune doit être annoncée dans la journée au ou à la garde-faune concerné‑e. La construction d'infrastructures en forêt est soumise à la législation cantonale sur les forêts.
 
 <sup>3</sup> Tout mirador installé de façon non conforme à ce qui précède est séquestré par le Service.
 
@@ -472,7 +478,7 @@ Arrête:
 
 <sup>1</sup> Le calibre du projectile des cartouches à balle doit être de 6,5mm au minimum (ou .257 selon la désignation américaine et anglaise), et son énergie doit être d'au moins 1700 joules à une distance de 200 mètres. Toutefois, pour le tir du sanglier et du cerf, cette énergie doit être d'au moins 1962 joules à une distance de 200 mètres.
 
-<sup>2</sup> Sous réserve des dispositions concernant l'achèvement des animaux, l'utilisation de balles blindées est interdite, sauf pour le tir de la marmotte.
+<sup>2</sup> Sous réserve des dispositions concernant l'achèvement des animaux, l'utilisation de balles blindées est interdite.
 
 #### Art. 35
 
@@ -482,9 +488,9 @@ Arrête:
 
 <sup>2</sup> L'utilisation de grenaille d'un diamètre supérieur à 4,5 mm est interdite.
 
-<sup>3</sup> L'utilisation de grenaille en plomb est interdite pour la chasse aux oiseaux d'eau. Toutefois, l'utilisation de toute autre matière substituant le plomb (y compris le plomb nickelé) est autorisée.
+<sup>3</sup> L'utilisation de grenaille en plomb est interdite pour la chasse aux oiseaux d'eau. Toutefois, l'utilisation de toute autre matière substituant le plomb est autorisée.
 
-<sup>4</sup> L'utilisation de la grenaille est interdite pour le tir du sanglier, du cerf, du chamois, du bouquetin et de la marmotte.
+<sup>4</sup> L'utilisation de la grenaille est interdite pour le tir du sanglier, du cerf, du chamois et du bouquetin.
 
 #### Art. 36
 
@@ -496,7 +502,7 @@ Arrête:
 
 <sup>3</sup> Pour toutes les personnes participant à une chasse en battue du chevreuil et du renard, le tir à balle avec l'arme à canon rayé est interdit.
 
-<sup>4</sup> L'utilisation de la grenaille est interdite pour le tir du sanglier. Pour la chasse en battue du sanglier, le tir à balle avec l'arme à canon rayé est autorisé à partir du 1<sup>er</sup> novembre.
+<sup>4</sup> …
 
 #### Art. 37
 
@@ -525,8 +531,8 @@ Arrête:
 <sup>1</sup> Les distances maximales de tir sont:
 
 - a) 35 mètres (avec une tolérance de 10 %) pour le tir à grenaille et à balles pour canons lisses;
-- b) 200 mètres (avec une tolérance de 15 %) pour le tir à balle (sauf pour la marmotte, le renard et le blaireau);
-- c) 100 mètres (avec une tolérance de 15 %) pour le tir à balle du renard, du blaireau et de la marmotte.
+- b) 200 mètres (avec une tolérance de 15 %) pour le tir à balle (sauf pour le renard et le blaireau);
+- c) 100 mètres (avec une tolérance de 15 %) pour le tir à balle du renard et du blaireau.
 
 #### Art. 40
 
@@ -562,11 +568,11 @@ Arrête:
 
 **Chiens de chasse – Utilisation et interdictions**
 
-<sup>1</sup> Les personnes qui remplissent les conditions mentionnées à l'article 42 peuvent procéder à des essais de chiens du 15 au 31 août, à l'exception des mardis et des vendredis.
+<sup>1</sup> Les personnes qui remplissent les conditions mentionnées à l'article 42 peuvent procéder à des essais de chiens du 2 au 31 août, à l'exception des mercredis, des vendredis et des dimanches.
 
-<sup>2</sup> Les personnes qui remplissent les conditions mentionnées à l'article 42 peuvent faire usage des chiens du 1<sup>er</sup> septembre au lundi du Jeûne fédéral, le dimanche et durant les jours et les heures de chasse.
+<sup>2</sup> Les personnes qui remplissent les conditions mentionnées à l'article 42 peuvent faire usage des chiens durant les jours et les heures de chasse.
 
-<sup>3</sup> Elles peuvent le faire à partir du 16 juillet jusqu'au 15 août, moyennant une autorisation du ou de la garde-faune et le paiement d'une indemnité de 20 francs par heure. Le ou la garde-faune fixe le lieu, la date et la durée de l'utilisation des chiens, selon les instructions du Service.
+<sup>3</sup> …
 
 <sup>4</sup> Il est toutefois interdit de laisser chasser des chiens:
 
@@ -608,7 +614,7 @@ Arrête:
 
 **Chiens de rouge – Généralités**
 
-<sup>1</sup> La personne qui utilise un chien de rouge pour la recherche du gibier blessé ou mort doit être porteuse d'un certificat attestant la réussite des épreuves y relatives organisées par les associations cynologiques et cynégétiques reconnues.
+<sup>1</sup> Pour la recherche du gibier blessé ou mort, l'équipe cynophile (conducteur ou conductrice et chien de rouge) doit être porteuse d'un certificat attestant la réussite des épreuves y relatives organisées par les associations cynologiques et cynégétiques reconnues et elle doit figurer sur la liste fournie par la Fédération pour la saison en cours.
 
 <sup>2</sup> Les interdictions prévues à l'article 43 al. 4 ne s'appliquent pas à l'utilisation d'un chien de rouge. Le chien doit être tenu en laisse courte, sauf pour la recherche d'un animal.
 
@@ -618,7 +624,7 @@ Arrête:
 
 <sup>1</sup> Le conducteur ou la conductrice de chien de rouge peut circuler sur une route ou un chemin normalement interdit aux chasseurs et chasseuses:
 
-- a) le dimanche qui précède l'ouverture de la chasse, pour se rendre au chalet où il ou elle loge;
+- a) le jour qui précède l'ouverture de la chasse, pour se rendre au chalet où il ou elle loge;
 - b) lorsqu'il ou elle doit intervenir avec son chien;
 - c) pour quitter définitivement le chalet et regagner son domicile.
 
@@ -628,9 +634,13 @@ Arrête:
 
 **Chiens de rouge – Intervention**
 
-<sup>1</sup> Lorsqu'un animal est tiré un jour précédant un jour fermé à la chasse et que le conducteur ou la conductrice de chien de rouge ne peut intervenir que le jour suivant, le ou la garde-faune de la région doit être informé-e. Dans ce cas, le ou la garde-faune peut autoriser le port d'une arme.
+<sup>1</sup> Lorsqu'un animal est tiré la veille d'un jour fermé à la chasse et que le conducteur ou la conductrice de chien de rouge ne peut intervenir que le jour suivant, le ou la garde-faune de la région doit être informé‑e. Dans ce cas, le ou la garde-faune peut autoriser le port d'une arme.
 
 <sup>2</sup> Lorsqu'un animal tiré s'enfuit dans une zone protégée pour les animaux sauvages, le conducteur ou la conductrice de chien de rouge peut l'y rechercher en portant une arme et l'achever.
+
+<sup>3</sup> Toute recherche en dehors des heures habituelles de chasse doit faire l'objet d'un accord préalable du ou de la garde-faune de la région. A cette occasion, le ou la garde-faune peut autoriser le port d'une arme.
+
+<sup>4</sup> La Direction peut, directement dans l'ordonnance annuelle concernant la planification de la chasse, proposer d'autres moyens utiles à la recherche.
 
 #### Art. 50
 
@@ -686,7 +696,7 @@ Arrête:
 
 **Planification de la chasse**
 
-<sup>1</sup> La Direction approuve, sur la proposition du Service et en collaboration avec la Fédération, une ordonnance annuelle concernant la planification de la chasse par unité de gestion et par espèce contingentée.
+<sup>1</sup> La Direction approuve, sur la proposition du Service et après consultation de la Commission, une ordonnance annuelle concernant la planification de la chasse par unité de gestion et par espèce contingentée.
 
 <sup>2</sup> La planification de la chasse s'appuie sur les bases suivantes:
 
@@ -707,7 +717,7 @@ Arrête:
 
 <sup>5</sup> Si le contingent selon le sexe ou l'âge est épuisé avant la fin des périodes fixées dans la présente ordonnance, la chasse est interrompue.
 
-<sup>6</sup> La Commission donne son avis sur l'ordonnance annuelle.
+<sup>6</sup> La Fédération donne préalablement son avis sur la planification.
 
 #### Art. 57
 
@@ -715,13 +725,13 @@ Arrête:
 
 <sup>1</sup> En dehors des territoires de montagne, le permis de base confère à son ou sa titulaire le droit de tirer:
 
-- a) les renards, les blaireaux, les chats harets, les martres, les fouines;
+- a) les renards, les blaireaux, les chats harets (à l'exception du chat tigré), les fouines;
 - b) les pigeons ramiers, les pigeons domestiques retournés à l'état sauvage, les tourterelles turques;
-- c) les grands corbeaux, les corneilles noires, les corbeaux freux, les corneilles mantelées, les pies, les geais des chênes.
+- c) les grands corbeaux, les corneilles noires, les corbeaux freux, les corneilles mantelées, les pies.
 
 <sup>2</sup> La chasse des animaux mentionnés à l'alinéa 1 est autorisée:
 
-– du 1<sup>er</sup> septembre au lundi du Jeûne fédéral uniquement hors des forêts et ensuite jusqu'au 15 février (le blaireau jusqu'au 15 janvier), à l'exclusion des mardis et des vendredis des mois de septembre et d'octobre et des vendredis du 1<sup>er</sup> novembre au 15 février.
+– du 1<sup>er</sup> septembre au lundi du Jeûne fédéral uniquement hors des forêts et ensuite jusqu'au 15 février (le blaireau jusqu'au 15 janvier), à l'exclusion des mercredis et des vendredis des mois de septembre et d'octobre et des vendredis du 1<sup>er</sup> novembre au 15 février.
 
 <sup>3</sup> A partir du 1<sup>er</sup> novembre, les carnassiers ne peuvent être tirés qu'à la grenaille, sauf le renard et le blaireau, qui peuvent continuer à être tirés à l'arme à canon rayé durant toute la période de chasse.
 
@@ -733,7 +743,7 @@ Arrête:
 
 <sup>1</sup> Dans les territoires de montagne, le permis de base confère à son ou sa titulaire le droit de tirer à grenaille, exclusivement dans les bâtiments et à leurs abords immédiats:
 
-– les renards, les blaireaux, les fouines, les martres.
+– les renards, les blaireaux, les fouines.
 
 <sup>2</sup> La chasse des animaux mentionnés à l'alinéa 1 est autorisée:
 
@@ -760,6 +770,8 @@ Arrête:
 <sup>4</sup> La chasse en battue est interdite.
 
 <sup>5</sup> L'ordonnance annuelle concernant la planification de la chasse (art. 56) peut régler un prélèvement par sexe et par âge ou un prélèvement maximal de chamois.
+
+<sup>6</sup> Les chasseurs et chasseuses tirés au sort sont autorisés à échanger les bracelets entre eux, sous réserve des dispositions prévues dans l'ordonnance annuelle concernant la planification de la chasse.
 
 #### Art. 60
 
@@ -790,23 +802,21 @@ Arrête:
 
 <sup>1</sup> Le permis B confère à son ou sa titulaire le droit de tirer selon l'ordonnance annuelle concernant la planification de la chasse (art. 56):
 
-– jusqu'à trois chevreuils au maximum.
+– jusqu'à quatre chevreuils au maximum.
 
-<sup>2</sup> La chasse du chevreuil est autorisée: durant quatre semaines dès le lundi du Jeûne fédéral ainsi que durant une cinquième semaine selon l'ordonnance annuelle concernant la planification de la chasse (art. 56), à l'exclusion des mardis et des vendredis.
+<sup>2</sup> La chasse du chevreuil est autorisée durant quatre semaines dès le lundi du Jeûne fédéral.
 
 #### Art. 62
 
 **Chasse du cerf**
 
-<sup>1</sup> Le permis C confère à son ou sa titulaire le droit de tirer, dans les territoires ouverts à la chasse (montagne et plaine):
-
-– un cerf mâle ou femelle (à l'exception de la biche suitée).
+<sup>1</sup> Le permis C confère à son ou sa titulaire le droit de tirer, dans les territoires ouverts à la chasse (montagne et plaine), le cerf, à l'exception de la biche suitée.
 
 <sup>2</sup> Le cerf peut être chassé durant la période fixée dans l'ordonnance annuelle concernant la planification de la chasse (art. 56), cette période devant se situer entre le 1<sup>er</sup> octobre et le 30 novembre.
 
 <sup>3</sup> Les taxes supplémentaires suivantes, dont le Service pourvoit à l'encaissement, sont dues par les chasseurs et chasseuses qui abattent un cerf:
 
-- a) 100 francs en cas de tir d'un daguet;
+- a) 100 francs en cas de tir d'un daguet, d'une biche ou d'une bichette;
 - b) 200 francs en cas de tir d'un mâle avec quatre cors;
 - c) 300 francs en cas de tir d'un mâle avec six cors;
 - d) 400 francs en cas de tir d'un mâle avec huit cors;
@@ -814,6 +824,15 @@ Arrête:
 - f) 800 francs en cas de tir d'un mâle avec plus de dix cors.
 
 <sup>4</sup> Le chasseur ou la chasseuse doit s'informer chaque jour sur la réalisation de la planification de la chasse. Un répondeur téléphonique renseignant sur le déroulement de la chasse du cerf est mis à la disposition des chasseurs et chasseuses par le Service.
+
+<sup>5</sup> Les unités de gestion selon le Concept Forêt-Cerf sont délimitées comme il suit:
+
+- a) l'UdG 1 comprend les secteurs de faune suivants: 0202, 0501, 0502, 0503, 0504, 0505, 0506, 0507, 0508, 0509, 0510, 0511, 0701, 0702, 0801, 0802, 0803, 0901, 0902, 0903, 0908 et 0909;
+- b) l'UdG 2 comprend les secteurs de faune suivants: 0703, 0704, 0804, 0805, 0806, 0904, 0905, 0906, 0907, 1001 et 1005 (rive droite de la Sarine);
+- c) l'UdG 3 comprend les secteurs de faune suivants: 0705, 0706, 1002, 1003, 1004, 1005 (rive gauche de la Sarine), 1501, 1502 et 1503;
+- d) l'UdG 4 comprend les secteurs de faune suivants: 0204, 0303, 0304, 0305, 0601, 0602, 0603, 0604, 1201, 1202, 1203, 1204, 1205, 1206 et 1504;
+- e) l'UdG 5 comprend les secteurs de faune suivants: 0102, 0103, 0104, 0105, 0106, 0302, 1101, 1102, 1103, 1104, 1105, 1106, 1107, 1108, 1109, 1110, 1301, 1302, 1303, 1304, 1305, 1306, 1401, 1402, 1403, 1404, 1405 et 1406;
+- f) l'UdG 6 comprend les secteurs de faune suivants: 0101, 0201, 0203, 0301, 0401, 0402, 0403, 0404, 0405, 0406, 0407, 0408, 0409, 1601, 1602, 1603, 1604, 1605 et 1606.
 
 #### Art. 63
 
@@ -833,7 +852,11 @@ Arrête:
 
 <sup>2</sup> Cette chasse est autorisée:
 
-– du 1<sup>er</sup> septembre au lundi du Jeûne fédéral uniquement hors des forêts et ensuite jusqu'au 31 janvier, à l'exclusion des mardis et des vendredis des mois de septembre et d'octobre et des vendredis des mois de novembre à janvier.
+– du 1<sup>er</sup> septembre jusqu'au Jeûne fédéral uniquement hors des forêts;
+
+– du lundi du Jeûne fédéral jusqu'au 31 janvier en et hors forêts.
+
+<sup>2a</sup> La chasse à l'affût, en poussée et en battue avec ou sans chien peut s'effectuer avec le tir à balle d'une arme à canon rayé.
 
 <sup>3</sup> Si le nombre de sangliers abattus durant ces périodes est insuffisant, la Direction peut prolonger cette chasse jusqu'à la fin du mois de février.
 
@@ -843,11 +866,11 @@ Arrête:
 
 **Chasse du sanglier – en montagne**
 
-<sup>1</sup> Le permis D confère à son ou sa titulaire le droit de tirer le sanglier dans les secteurs de faune définis dans l'ordonnance annuelle concernant la planification de la chasse (art. 56), dans les territoires de montagne ainsi que, durant la chasse du chamois et du cerf, dans tous les secteurs de faune ouverts à la chasse des deux espèces précitées.
+<sup>1</sup> Le permis D confère à son ou sa titulaire le droit de tirer le sanglier, du 1<sup>er</sup> septembre au 31 décembre, sans limitation de nombre, à l'affût, en poussée et en battue sans chien, en et hors forêts; le tir à balle avec l'arme à canon rayé est autorisé.
 
-<sup>2</sup> Seules la chasse à l'affût et la chasse en poussée sont autorisées.
+<sup>2</sup> …
 
-<sup>3</sup> L'emploi de chiens est interdit, sauf l'emploi d'un chien par chasseur ou chasseuse pour pister; ce chien doit toujours être tenu en laisse. L'emploi de chiens de rouge pour la recherche du gibier blessé est également autorisé.
+<sup>3</sup> Les chiens peuvent être employés uniquement pour pister, leur nombre étant limité à un chien par chasseur ou chasseuse et chaque chien devant être tenu en laisse. L'emploi de chiens de rouge pour la recherche du gibier blessé est autorisé.
 
 <sup>4</sup> Le tir des laies qui conduisent des marcassins rayés est interdit.
 
@@ -857,9 +880,7 @@ Arrête:
 
 <sup>1</sup> La chasse du sanglier est autorisée sur la rive sud du lac de Neuchâtel et dans la réserve OROEM de Chevroux–Portalban définie dans l'Annexe 1 de l'ordonnance du 21 juin 2016 sur la protection des mammifères, des oiseaux sauvages et de leurs biotopes.
 
-<sup>2</sup> Cette chasse est autorisée:
-
-– du 15 octobre au 31 décembre, à l'exclusion des mardis et des vendredis du mois d'octobre et des vendredis des mois de novembre, de décembre et de janvier. Le Service peut mettre fin à cette chasse le 15 décembre s'il juge la régulation suffisante.
+<sup>2</sup> Cette chasse est autorisée du 15 octobre au 31 décembre. Le Service peut mettre fin à cette chasse le 15 décembre s'il juge la régulation suffisante.
 
 <sup>3</sup> La chasse dans les réserves d'oiseaux d'eau et de migrateurs (OROEM) se termine le 31 décembre. Dans les réserves cantonales, la chasse se termine au plus tard le 31 janvier.
 
@@ -879,33 +900,37 @@ Arrête:
 
 <sup>11</sup> Si la régulation est jugée insuffisante par le Service, la chasse est prolongée dans certaines ou dans toutes les réserves définies à l'alinéa 1 jusqu'au 31 janvier, à l'exclusion des vendredis.
 
+<sup>12</sup> L'utilisation ponctuelle de lampes de poche est admise uniquement dans la réserve OROEM. Les chasseurs et chasseuses doivent recevoir une instruction par le Service.
+
+<sup>13</sup> Les chasseurs et chasseuses qui ont commis une infraction à la législation sur la chasse n'ont pas le droit de participer à cette chasse l'année suivante.
+
 #### Art. 67
 
 **Chasse du gibier à plumes en plaine**
 
 <sup>1</sup> Le permis E confère à son ou sa titulaire le droit de tirer en plaine:
 
-- a) les canards colverts, les sarcelles d'hiver, les fuligules milouins et morillons, les grèbes huppés, les foulques macroules, les cormorans: du lundi du Jeûne fédéral au 15 janvier, à l'exclusion des mardis et des vendredis des mois de septembre et d'octobre et des vendredis des mois de novembre à janvier;
-- b) les bécasses des bois: du 15 octobre au 14 décembre, à l'exclusion des mardis et des vendredis du mois d'octobre et des vendredis des mois de novembre et de décembre. Il est interdit de tirer plus de deux bécasses par jour.
+- a) les bécasses des bois, du 15 octobre au 14 décembre; il est interdit de tirer plus de deux bécasses par jour;
+- b) les canards colverts, les sarcelles d'hiver et les cormorans, du lundi du Jeûne fédéral au 31 janvier.
 
-<sup>2</sup> A partir du 1<sup>er</sup> novembre, le gibier d'eau peut être tiré seulement:
+<sup>2</sup> Le gibier d'eau peut être tiré:
 
-- a) sur les cours d'eau suivants, à l'exclusion de leurs affluents et des tronçons situés dans les zones protégées: la Sarine, la Glâne, la Neirigue, la Sionge, la Sonnaz, la Bibera (y compris les canaux de Fräschels et de Galmiz), la Broye, le canal de la Broye, l'Arbogne (sur le territoire de Dompierre et de Domdidier seulement), la Petite-Glâne, le Bainoz, l'Arignon, le Glânet, la Singine, la Singine-Chaude et la Singine-Froide, la Taverna, le ruisseau de Courtepin et le Corjon;
-- b) sur les rives des lacs de Neuchâtel, de Schiffenen, de la Gruyère, de Montsalvens (y compris sur ses rives situées dans les territoires de montagne), de Montbovon et de Lussy, à l'exclusion des endroits situés dans les zones protégées;
-- c) sur les étangs de Grandsivaz (Gours), de Lentigny et de Villarimboud;
-- d) en bateau sur les lacs de la Gruyère, de Montsalvens et de Schiffenen.
+- a) depuis un bateau, uniquement sur les lacs de la Gruyère, de Montsalvens et de Schiffenen;
+- b) sur terre ferme, uniquement dans un rayon de 100 mètres depuis la rive des lacs et des cours d'eau, à l'exclusion des endroits situés dans les zones protégées; sur les cours d'eau délimitant les réserves, la chasse n'est autorisée que de la rive opposée à celles-là;
+- c) sur les étangs de Grandsivaz (Gours), de Lentigny et de Villarimboud.
+- d) …
 
-<sup>3</sup> La chasse sur terre ferme n'est autorisée que jusqu'à 100 mètres au plus à partir de la rive. La chasse en bateau est interdite, sauf sur les lacs de la Gruyère, de Montsalvens et de Schiffenen. Sur les cours d'eau délimitant les réserves, la chasse n'est autorisée que de la rive opposée à celles-là.
+<sup>3</sup> …
 
-<sup>4</sup> Le tir du grèbe huppé n'est autorisé qu'à partir du 16 octobre.
+<sup>4</sup> …
 
-<sup>5</sup> Le tir du cormoran n'est pas autorisé sur les lacs de Schiffenen et de la Gruyère et il n'est pas autorisé à moins de 100 mètres des rives des lacs de Neuchâtel et de Morat.
+<sup>5</sup> …
 
 #### Art. 68
 
 **Chasse sur le lac de Neuchâtel**
 
-<sup>1</sup> Le permis F confère à son ou sa titulaire le droit de tirer le gibier d'eau, en bateau, sur le lac de Neuchâtel, dans les limites fixées par le concordat concernant la chasse sur le lac de Neuchâtel, du 1<sup>er</sup> octobre au 31 janvier.
+<sup>1</sup> Le permis F confère à son ou sa titulaire le droit de tirer le gibier d'eau, en bateau, sur le lac de Neuchâtel, dans les limites fixées par le concordat concernant la chasse sur le lac de Neuchâtel.
 
 <sup>2</sup> Le permis H confère aux pêcheurs professionnels en activité le droit de chasser le cormoran conformément au concordat y relatif, hors période de protection.
 
@@ -913,7 +938,7 @@ Arrête:
 
 **Chasse sur le lac de Morat**
 
-<sup>1</sup> Le permis G confère à son ou sa titulaire le droit de tirer le gibier d'eau, en bateau, sur le lac de Morat, dans les limites fixées par le concordat concernant la chasse sur le lac de Morat, du 1<sup>er</sup> octobre au 31 janvier.
+<sup>1</sup> Le permis G confère à son ou sa titulaire le droit de tirer le gibier d'eau, en bateau, sur le lac de Morat, dans les limites fixées par le concordat concernant la chasse sur le lac de Morat.
 
 <sup>2</sup> Le permis H confère aux pêcheurs professionnels en activité le droit de chasser le cormoran conformément au concordat y relatif, hors période de protection.
 
@@ -927,14 +952,11 @@ Arrête:
 
 <sup>2</sup> Les chasseurs et chasseuses qui recherchent un animal blessé qui s'est enfui dans un lieu où la chasse est interdite doivent l'y poursuivre, après avoir demandé l'accord du ou de la garde-faune.
 
-<sup>3</sup> Si l'ongulé ne tombe pas sur place, le chasseur ou la chasseuse doit marquer, immédiatement après le tir et de façon claire, le lieu où il ou elle se trouvait personnellement. Il ou elle doit faire appel à un conducteur ou une conductrice de chien de rouge et lui indiquer l'emplacement de l'animal ainsi que la direction de fuite de ce dernier.
+<sup>3</sup> Si l'animal ne tombe pas sur place, le ou la garde-faune doit être averti‑e le jour même, dans les quatre heures qui suivent le tir, durant les heures de chasse. Le chasseur ou la chasseuse doit marquer, immédiatement après le tir et de façon claire, le lieu où il ou elle se trouvait personnellement, l'emplacement de l'animal tiré et la direction de fuite de ce dernier. Il ou elle doit faire appel à un conducteur ou une conductrice de chien de rouge.
 
-<sup>3<sup>bis</sup></sup> En outre, il est recommandé au chasseur ou à la chasseuse, en plus du marquage obligatoire de sa position lors du coup de feu:
+<sup>3<sup>bis</sup></sup> …
 
-- a) de marquer l'emplacement de l'animal tiré;
-- b) de marquer la direction de fuite de l'animal.
-
-<sup>4</sup> Si, malgré les recherches avec un chien de rouge, l'ongulé n'a pu être retrouvé, le ou la garde-faune de la région doit être avisé-e le même jour. Il en va de même si la recherche a lieu un jour où la chasse est interdite ou en dehors des heures de chasse.
+<sup>4</sup> …
 
 #### Art. 71
 
@@ -950,7 +972,7 @@ Arrête:
 
 **Marques de contrôle**
 
-<sup>1</sup> Immédiatement après qu'un cerf, un chamois ou un chevreuil a été abattu, il doit être muni sur place de la marque de contrôle correspondante.
+<sup>1</sup> Immédiatement après qu'un cerf, un chamois, un sanglier ou un chevreuil a été abattu, il doit être muni sur place de la marque de contrôle correspondante.
 
 <sup>2</sup> La marque de contrôle doit être fixée au jarret des mammifères et être fermée de manière à ne plus pouvoir être ouverte. Auparavant, les plaquettes du mois et du jour du tir doivent être enlevées des marques de contrôle du type bracelet.
 
@@ -962,7 +984,7 @@ Arrête:
 
 <sup>1</sup> Sur le terrain de chasse et avant tout déplacement d'un cerf, d'un chamois, d'un chevreuil ou d'un sanglier, le chasseur ou la chasseuse doit remplir obligatoirement et de façon indélébile toutes les rubriques de la formule de contrôle, à l'exception du poids et de la longueur des cornes des chamois. Le poids doit obligatoirement être ajouté avant l'envoi ou la remise de la formule au ou à la garde-faune.
 
-<sup>2</sup> La formule de contrôle pour le chamois et le chevreuil doit être remise ou renvoyée par courrier au ou à la garde-faune du secteur de faune dans lequel l'animal a été abattu ou, conformément aux instructions du Service, envoyée par voie électronique. La remise ou le dépôt à la poste de la formule doit se faire dans les septante-deux heures après le tir de ces animaux dans les territoires de montagne et dans les quarante-huit heures après le tir dans les territoires de plaine. Les dispositions du présent alinéa ne sont pas applicables aux animaux abattus par erreur; ces animaux doivent être présentés conformément aux dispositions de l'article 76.
+<sup>2</sup> La formule de contrôle pour le chamois et le chevreuil doit être remise ou renvoyée par courrier au ou à la garde-faune du secteur de faune dans lequel l'animal a été abattu ou, conformément aux instructions du Service, envoyée par voie électronique. La remise ou le dépôt à la poste de la formule doit se faire dans les septante-deux heures après le tir de ces animaux dans les territoires de montagne et dans les quarante-huit heures après le tir dans les territoires de plaine, le cachet de la poste faisant foi. Les dispositions du présent alinéa ne sont pas applicables aux animaux abattus par erreur; ces animaux doivent être présentés conformément aux dispositions de l'article 76.
 
 #### Art. 74
 
@@ -1013,6 +1035,8 @@ Arrête:
 
 <sup>2</sup> Lorsqu'il s'agit d'animaux en mauvais état, le ou la garde-faune peut remplacer la marque et la formule de contrôle. Dans ce cas, les animaux, y compris leur trophée, sont confisqués.
 
+<sup>3</sup> Lorsque le mauvais état de l'animal résulte d'un tir mal effectué ou d'un tir effectué dans les conditions empêchant toute recherche de l'animal blessé, la marque et la formule de contrôle ne sont pas remplacées.
+
 #### Art. 79
 
 **Animaux marqués**
@@ -1021,24 +1045,45 @@ Arrête:
 
 <sup>2</sup> Il est interdit de tirer tout animal muni d'un appareil émetteur ou de localisation.
 
+<sup>3</sup> En cas de tir d'un animal muni d'un appareil émetteur ou de localisation, en plus de la valeur de l'animal, le chasseur ou la chasseuse doit réparer le dommage causé, notamment:
+
+- a) le coût du travail engendré par la pause d'un nouvel appareil, sur la base des heures effectives, le minimum de l'indemnité étant toutefois fixé à 500 francs et le maximum, à 2000 francs;
+- b) le cas échéant, le remplacement d'un appareil endommagé à la suite du tir.
+
 #### Art. 80
 
 **Animaux abattus par erreur**
 
 <sup>1</sup> En cas de tir par erreur et dans la mesure où les conditions fixées par l'article 83 al. 2 sont remplies, le chasseur ou la chasseuse doit payer les indemnités suivantes:
 
-- a) 200 francs pour une chèvre de chamois suitée ou, dans l'éventualité où l'ordonnance annuelle concernant la planification de la chasse (art. 56) prévoit une chasse sexée, 200 francs pour un chamois de sexe, ou de catégorie, différent de celui qui a été attribué au chasseur ou à la chasseuse;
-- b) 300 francs pour une biche suitée;
-- c) 200 francs pour une chevrette suitée;
-- d) 150 francs pour un chevreuil de 13 kilogrammes ou plus tiré à la place d'un chevreuil de moins de 13 kilogrammes ou pour un brocard tiré à la place d'une chevrette ou l'inverse; en outre, le trophée du brocard est séquestré.
+- a) chamois, en plus du séquestre du trophée:
+  - 1\. 200 francs pour une chèvre de chamois suitée;
+  - 2\. 200 francs pour un éterle à la place d'un adulte;
+  - 3\. 200 francs pour un adulte de sexe différent de celui qui a été attribué;
+  - 4\. 300 francs pour un adulte à la place d'un éterle ou d'un cabri;
+- b) chevreuil, en plus du séquestre du trophée:
+  - 1\. 200 francs pour une chevrette suitée;
+  - 2\. 150 francs pour un chevreuil de 13 kilogrammes ou plus tiré à la place d'un chevreuil de moins de 13 kilogrammes ou pour un brocard tiré à la place d'une chevrette ou l'inverse;
+- c) cerf:
+  - 1\. 300 francs pour une biche suitée;
+  - 2\. 200 francs pour un faon, un mâle adulte, un daguet, une biche ou une bichette tirés au mépris du plan de tir; les taxes supplémentaires prévues à l'article 62 s'additionnant à ce montant et l'animal étant séquestré.
+- d) …
+
+<sup>1a</sup> En cas de tir par erreur donnant lieu à plusieurs indemnités, celles-ci sont cumulées pour constituer une indemnité globale.
 
 <sup>2</sup> En cas de tir d'une laie qui conduit des marcassins rayés ou d'un animal muni d'un appareil émetteur ou de localisation, l'animal est séquestré.
 
-<sup>3</sup> En cas de tir d'un harle bièvre ou d'un canard protégé selon le droit cantonal (notamment sarcelle d'été, canard chipeau, canard siffleur, canard pilet, canard souchet, garrot à œil d'or), l'animal doit être remis à un ou une garde-faune; il est séquestré. Le chasseur ou la chasseuse doit payer une indemnité de 50 francs.
+<sup>3</sup> …
 
 <sup>4</sup> En cas de tir d'un brocard dont la longueur totale des deux bois, mesurée à la base de la meule, ne dépasse pas 16 centimètres, au lieu d'un chevreuil femelle, l'animal doit être présenté à un ou une garde-faune; le trophée du brocard est séquestré.
 
-<sup>5</sup> Le Service fixe les indemnités à payer en cas de tir par erreur lors des chasses complémentaires.
+<sup>5</sup> Les indemnités à payer en cas de tir par erreur s'appliquent également lors des chasses complémentaires.
+
+#### Art. 80a
+
+**Moyen de communication**
+
+<sup>1</sup> Le ou la garde-faune peut être contacté‑e uniquement par téléphone, à l'exclusion de tout autre moyen de communication analogue (Internet, SMS, application, etc.).
 
 ## 5 Information, formation, recherche
 
@@ -1052,7 +1097,7 @@ Arrête:
 
 **Formation des chasseurs et chasseuses**
 
-<sup>1</sup> La formation de base des chasseurs et chasseuses doit être assurée par les associations de chasseurs et chasseuses.
+<sup>1</sup> La formation de base des chasseurs et chasseuses doit être assurée par la Fédération.
 
 <sup>2</sup> La formation continue des chasseurs et chasseuses peut bénéficier de contributions sous forme de subventions à la charge du fonds de la faune, de mise à disposition de personnel, de fourniture de matériel ou sous une autre forme adéquate. Les dispositions de l'article 81 sont applicables par analogie.
 
@@ -1084,13 +1129,13 @@ Arrête:
 
 **Saisie du permis**
 
-<sup>1</sup> En cas de non-respect des articles 72 à 75, le permis est saisi conformément aux dispositions de l'article 20 al. 3 et 4 LCha.
+<sup>1</sup> En cas de non-respect des articles 72 à 75, le permis peut être saisi conformément aux dispositions de l'article 20 al. 3 et 4 LCha.
 
 #### Art. 85
 
 **Contraventions**
 
-<sup>1</sup> Constituent des contraventions, au sens de l'article 54 al. 1 let. b et al. 3 LCha, les infractions aux dispositions suivantes de la présente ordonnance: articles 22 à 25, 27 à 29, 33, 34, 36 à 38, 41 à 43, 45 à 47, 70 et 75 à 79 (à l'exception de l'art. 76 al. 5).
+<sup>1</sup> Constituent des contraventions, au sens de l'article 54 al. 1 let. b et al. 3 LCha, les infractions aux dispositions suivantes de la présente ordonnance: articles 22 à 25, 27 à 29, 32 à 34, 36, 37, 41, 42, 45 à 47, 64 al. 5, 65 al. 3, 70 et 75 à 79 (à l'exception de l'art. 76 al. 5).
 
 #### Art. 86
 
