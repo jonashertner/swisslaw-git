@@ -4,13 +4,12 @@ number: "751.1"
 title: Gesetz über die Gewässernutzung
 short: GNG
 language: de
-version: 2009-05-17
-valid_until: 2021-06-30
-version_adopted: 2009-05-17
+version: 2021-07-01
+version_adopted: 2021-04-13
 adopted: 1960-12-05
 in_force: 1961-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/751.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1155/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3253/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1155/pdf_file"
 
 (GNG)
 
-vom 05.12.1960 (Stand 17.05.2009)
+vom 05.12.1960 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -57,10 +56,10 @@ als Gesetz:[^ingress-5]
 <sup>1</sup> Öffentliche Gewässer sind:
 
 - 1\. die Seen, Flüsse und Bäche,
-- 2\. die Grundwasserströme und Grundwasserbecken mit einer mittleren Ergiebigkeit von mehr als 300 Minutenlitern,
-- 3\. die Quellen von der mittleren Ergiebigkeit eines Baches oder Flusses, d. h. von mehr als 600 Minutenlitern.
+- 2\. die Grundwasserströme und Grundwasserbecken mit einer mittleren Ergiebigkeit von mehr als 300 Litern pro Minute,
+- 3\. die Quellen von der mittleren Ergiebigkeit eines Baches oder Flusses, d. h. von mehr als 600 Litern pro Minute.
 
-<sup>2</sup> Das zuständige Departement entscheidet, ob ein öffentliches Gewässer vorliegt.
+<sup>2</sup> Die zuständige Stelle des Staates entscheidet, ob ein ober- oder unterirdisches Gewässer im Sinn von Abs. 1 dieser Bestimmung vorliegt.
 
 #### Art. 3
 
@@ -193,7 +192,7 @@ als Gesetz:[^ingress-5]
 
 <sup>3</sup> Der Bewerber hat dem Departement auf Verlangen das Ergebnis seiner Untersuchungen vorzulegen.
 
-[^15-1]: Baudepartement; siehe Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^15-1]: Bau- und Umweltdepartement; siehe Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 16
 
@@ -209,7 +208,7 @@ als Gesetz:[^ingress-5]
 
 [^16-1]: Art. 60 des BG über die Nutzbarmachung der Wasserkräfte (Wasserrechtsgesetz) vom 22. Dezember 1916, SR 721.80.
 [^16-2]: Art. 60 Abs. 3 des BG über die Nutzbarmachung der Wasserkräfte (Wasserrechtsgesetz) vom 22. Dezember 1916, SR 721.80.
-[^16-3]: Baudepartement; siehe Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^16-3]: Bau- und Umweltdepartement; siehe Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 [^16-4]: Geändert durch III. NG zum VRP.
 
 #### Art. 17
@@ -220,7 +219,7 @@ als Gesetz:[^ingress-5]
 
 <sup>2</sup> Das zuständige Departement[^17-1] kann den Bewerber anhalten, über bestrittene Privatrechte innert bestimmter Frist den Entscheid des Richters[^17-2] anzurufen.
 
-[^17-1]: Baudepartement; siehe Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^17-1]: Bau- und Umweltdepartement; siehe Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 [^17-2]: Art. 47 Abs. 1 Ziff. 1 dieses G.
 
 #### Art. 18
@@ -249,7 +248,7 @@ als Gesetz:[^ingress-5]
 
 <sup>2</sup> Art. 32 bis 37 BG[^20-2] sind auf die nicht der Kraftgewinnung dienenden verleihungsbedürftigen Gewässernutzungen sinngemäss anwendbar.
 
-[^20-1]: Baudepartement; siehe Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^20-1]: Bau- und Umweltdepartement; siehe Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 [^20-2]: BG über die Nutzbarmachung der Wasserkräfte (Wasserrechtsgesetz) vom 22. Dezember 1916, SR 721.80.
 
 #### Art. 21
@@ -264,7 +263,7 @@ als Gesetz:[^ingress-5]
 
 <sup>4</sup> Der Bewerber ist vor dem Verleihungsbeschluss über die Bedingungen anzuhören. Nach dem Beschluss ist ihm eine angemessene Frist zur Annahme der Verleihung anzusetzen.
 
-[^21-1]: Baudepartement; siehe Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^21-1]: Bau- und Umweltdepartement; siehe Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 [^21-2]: Art. 63 des BG über die Nutzbarmachung der Wasserkräfte (Wasserrechtsgesetz) vom 22. Dezember 1916, SR 721.80.
 [^21-3]: Art. 67 des BG über die Nutzbarmachung der Wasserkräfte (Wasserrechtsgesetz) vom 22. Dezember 1916, SR 721.80.
 
