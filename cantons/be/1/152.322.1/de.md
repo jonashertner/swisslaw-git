@@ -4,13 +4,13 @@ number: "152.322.1"
 title: Verordnung über die Organisation und Steuerung der dezentralen Verwaltung der Direktion für Inneres und Justiz
 short: OSDV
 language: de
-version: 2020-01-01
-valid_until: 2021-06-30
-version_adopted: 2019-10-23
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-24
 adopted: 2009-09-09
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.322.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1725/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2270/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1725/pdf_file"
 
 (OSDV)
 
-vom 09.09.2009 (Stand 01.01.2020)
+vom 09.09.2009 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -42,7 +42,11 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt die Organisation und die Steuerung der dezentralen Verwaltung der Direktion für Inneres und Justiz. Sie legt die Rechte und Pflichten der Geschäftsleitungen der Betreibungs- und Konkursämter, der Grundbuchämter, der Kindes- und Erwachsenenschutzbehörden (KESB) sowie der Regierungsstatthalterinnen und Regierungsstatthalter einerseits und der Direktion für Inneres und Justiz andererseits im gegenseitigen Geschäftsverkehr nach dem Modell der Neuen Verwaltungsführung fest.
+<sup>1</sup> Diese Verordnung regelt die Organisation und die Steuerung der dezentralen Verwaltung der Direktion für Inneres und Justiz.
+
+<sup>2</sup> Sie legt die Rechte und Pflichten der Geschäftsleitungen der Betreibungs- und Konkursämter, der Kindes- und Erwachsenenschutzbehörden (KESB) sowie der Regierungsstatthalterinnen und Regierungsstatthalter einerseits und der Direktion für Inneres und Justiz andererseits im gegenseitigen Geschäftsverkehr nach dem Modell der Neuen Verwaltungsführung fest.
+
+<sup>3</sup> Sie legt die Rechte und Pflichten der Vorsteherin oder des Vorstehers des kantonalen Grundbuchamts und der Direktion für Inneres und Justiz im gegenseitigen Geschäftsverkehr nach dem Modell der Neuen Verwaltungsführung fest.
 
 #### Art. 2
 
@@ -54,17 +58,27 @@ beschliesst:
 
 <sup>3</sup> Die Geschäftsleitungen unterstützen das Rechtsamt bei der Gesetzgebung.
 
+#### Art. 2a
+
+**1a Grundbuchämter**
+
+<sup>1</sup> Die Grundbuchämter gliedern sich in das kantonale Grundbuchamt mit regionalen Grundbuchämtern. Das kantonale Grundbuchamt wird von einer Vorsteherin oder einem Vorsteher geleitet und verfügt über eine Stabsstelle sowie über den für das Notariatswesen zuständigen Bereich.
+
+<sup>2</sup> Die Vorsteherin oder der Vorsteher ist verantwortlich für die Vertretung und den Kontakt nach aussen. Ihr oder ihm obliegt insbesondere die zweckmässige Zuteilung der finanziellen und personellen Ressourcen auf die einzelnen Einheiten.
+
+<sup>3</sup> Das kantonale Grundbuchamt unterstützt das Rechtsamt bei der Gesetzgebung. Im Übrigen richten sich die Organisation und die Kompetenzen der einzelnen Einheiten nach dem Amtsreglement.
+
 #### Art. 3
 
 **2. Direktion für Inneres und Justiz**
 
-<sup>1</sup> Die Direktion für Inneres und Justiz führt die Betreibungs- und Konkursämter sowie die Grundbuchämter gleich wie die Ämter der Zentralverwaltung. Für diese gelten die Bestimmungen der Verordnung vom 18. Oktober 1995 über die Organisation und die Aufgaben der Direktion für Inneres und Justiz (Organisationsverordnung DIJ, OrV DIJ)[^3-1] sinngemäss.
+<sup>1</sup> Die Direktion für Inneres und Justiz führt die Betreibungs- und Konkursämter sowie das kantonale Grundbuchamt gleich wie die Ämter der Zentralverwaltung. Für diese gelten die Bestimmungen der Verordnung vom 18. Oktober 1995 über die Organisation und die Aufgaben der Direktion für Inneres und Justiz (Organisationsverordnung DIJ, OrV DIJ)[^3-1] sinngemäss.
 
 <sup>2</sup> Die Direktion für Inneres und Justiz steuert die Ämter gemäss Absatz 1 sowie die Regierungsstatthalterämter und die KESB durch Leistungsvereinbarung.
 
 <sup>3</sup> Die durch das Bundesrecht vorgeschriebenen Aufsichts- und Prüfungsaufgaben der Kantone gegenüber den Betreibungs- und Konkursämtern sowie den Grundbuchämtern nimmt die Direktion für Inneres und Justiz durch die Leistungsvereinbarung gemäss Absatz 2 wahr.
 
-<sup>4</sup> Die Aufgaben gemäss den Absätzen 1 und 2 nimmt seitens der Direktion für Inneres und Justiz die Direktorin oder der Direktor wahr. Sie oder er kann diese delegieren. Seitens der Ämter gemäss Absatz 1 nimmt die oder der Vorsitzende der Geschäftsleitung oder eine Stellvertretung die Aufgaben wahr.
+<sup>4</sup> Die Aufgaben gemäss den Absätzen 1 und 2 nimmt seitens der Direktion für Inneres und Justiz die Direktorin oder der Direktor wahr. Sie oder er kann diese delegieren. Seitens der Ämter gemäss Absatz 1 nimmt die oder der Vorsitzende der Geschäftsleitung oder eine Stellvertretung bzw. die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts die Aufgaben wahr.
 
 [^3-1]: BSG [152.221.131](https://www.belex.sites.be.ch/data/152.221.131/de)
 
@@ -74,9 +88,11 @@ beschliesst:
 
 **Geschäftsleitungen**
 
-<sup>1</sup> Die Geschäftsleitungen der Betreibungs- und Konkursämter sowie der Grundbuchämter bestehen aus den Vorsteherinnen oder Vorstehern der regionalen Ämter. Wird ein Amt von mehreren Personen geleitet, so kann nur eine davon ordentliches Mitglied der Geschäftsleitung sein.
+<sup>1</sup> Die Geschäftsleitung der Betreibungs- und Konkursämter besteht aus den Vorsteherinnen und Vorstehern der regionalen Ämter. Wird ein Amt von mehreren Personen geleitet, so kann nur eine davon ordentliches Mitglied der Geschäftsleitung sein.
 
-<sup>2</sup> Für die ordentlichen Mitglieder der Geschäftsleitungen der Betreibungs- und Konkursämter sowie der Grundbuchämter bestimmen die beiden Geschäftsleitungen Ersatzmitglieder. Diese sind durch die Direktion für Inneres und Justiz zu bestätigen.
+<sup>2</sup> Für die ordentlichen Mitglieder der Geschäftsleitung der Betreibungs- und Konkursämter bestimmt die Geschäftsleitung Ersatzmitglieder. Diese sind durch die Direktion für Inneres und Justiz zu bestätigen.
+
+<sup>2a</sup> Die Geschäftsleitung der Grundbuchämter besteht aus der Vorsteherin oder dem Vorsteher des kantonalen Grundbuchamts sowie den Vorsteherinnen und Vorstehern der regionalen Grundbuchämter. Die Aufgaben und Kompetenzen sowie die Organisation der Geschäftsleitung richten sich nach dem Amtsreglement. Über die Sitzungen ist ein Ergebnisprotokoll zu führen.
 
 <sup>3</sup> …
 
@@ -90,9 +106,11 @@ beschliesst:
 
 <sup>1</sup> Jede Geschäftsleitung wird durch eine Vorsitzende oder einen Vorsitzenden geleitet.
 
-<sup>2</sup> Die Direktion für Inneres und Justiz ernennt die Vorsitzende oder den Vorsitzenden sowie die stellvertretende Vorsitzende oder den stellvertretenden Vorsitzenden der Geschäftsleitungen der Betreibungs- und Konkursämter sowie der Grundbuchämter für eine Amtsdauer von zwei Jahren. Wiederwahl ist möglich. Die Geschäftsleitungen haben ein Vorschlagsrecht.
+<sup>2</sup> Die Direktion für Inneres und Justiz ernennt die Vorsitzende oder den Vorsitzenden sowie die stellvertretende Vorsitzende oder den stellvertretenden Vorsitzenden der Geschäftsleitung der Betreibungs- und Konkursämter für eine Amtsdauer von zwei Jahren. Wiederwahl ist möglich. Die Geschäftsleitung hat ein Vorschlagsrecht.
 
-<sup>3</sup> Für den Vorsitz der Geschäftsleitung der KESB und den Vorsitz der Geschäftsleitung der Regierungsstatthalterinnen und Regierungsstatthalter gelten die Artikel 17 KESG und 6a RStG.
+<sup>2a</sup> Die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts ist Vorsitzende oder Vorsitzender der Geschäftsleitung der Grundbuchämter.
+
+<sup>3</sup> Für den Vorsitz der Geschäftsleitung der KESB und den Vorsitz der Geschäftsleitung der Regierungsstatthalterinnen und Regierungsstatthalter gilt Artikel 17 KESG bzw. Artikel 6a RStG.
 
 <sup>4</sup> Die oder der Vorsitzende ist, vorbehältlich anderer Regelung, verantwortlich für die Vertretung und den Kontakt nach aussen.
 
@@ -106,7 +124,7 @@ beschliesst:
 
 <sup>1</sup> Die Geschäftsleitungen der KESB und der Regierungsstatthalterinnen und Regierungsstatthalter sind beschlussfähig, wenn acht Mitglieder anwesend sind. Ihre Ausschüsse sind beschlussfähig, wenn zwei Drittel der Mitglieder anwesend sind.
 
-<sup>2</sup> Die Geschäftsleitungen der Betreibungs- und Konkursämter sowie der Grundbuchämter sind beschlussfähig, wenn vier Mitglieder oder Ersatzmitglieder anwesend sind.
+<sup>2</sup> Die Geschäftsleitung der Betreibungs- und Konkursämter ist beschlussfähig, wenn vier Mitglieder oder Ersatzmitglieder anwesend sind.
 
 <sup>3</sup> Die Mitglieder der Geschäftsleitungen und der Ausschüsse haben je eine Stimme. Bei Stimmengleichheit entscheidet die oder der Vorsitzende durch Stichentscheid.
 
@@ -116,15 +134,15 @@ beschliesst:
 
 **Zirkulationsbeschluss**
 
-<sup>1</sup> Bei Dringlichkeit oder bei Geschäften mit rein technischem oder routinemässigem Charakter können die Geschäftsleitungen und Ausschüsse Beschlüsse auf dem Zirkulationsweg fassen. Artikel 7 gilt sinngemäss.
+<sup>1</sup> Bei Dringlichkeit oder bei Geschäften mit rein technischem oder routinemässigem Charakter können die Geschäftsleitungen im Sinne von Artikel 4 Absatz 1 und 4 und Ausschüsse Beschlüsse auf dem Zirkulationsweg fassen. Artikel 7 gilt sinngemäss.
 
 ## 3 Aufgaben
 
 #### Art. 9
 
-**Hauptaufgaben der Geschäftsleitungen**
+**Hauptaufgaben**
 
-<sup>1</sup> Die Geschäftsleitungen sind insbesondere zuständig für
+<sup>1</sup> Die Geschäftsleitungen sowie die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts sind insbesondere zuständig für
 
 - a den Abschluss und die Einhaltung der Leistungsvereinbarung,
 - b die Bewirtschaftung und das gesetzmässige Funktionieren der Produktgruppe,
@@ -134,9 +152,19 @@ beschliesst:
 - f die Personalentwicklung und die Schulung der Mitarbeiterinnen und Mitarbeiter,
 - g die Unterstützung der Zentralverwaltung, der Gerichte und der Staatsanwaltschaft bei Bedarf.
 
-<sup>2</sup> Die Geschäftsleitungen können in ihrem Zuständigkeitsbereich Weisungen erlassen.
+<sup>2</sup> Sie können in ihrem Zuständigkeitsbereich Weisungen erlassen.
 
 <sup>3</sup> Die detaillierte Abgrenzung der Aufgaben und der damit verbundenen Verantwortung in den einzelnen Produktgruppen regelt die Direktion für Inneres und Justiz nach Rücksprache mit den Geschäftsleitungen in Reglementen und in den jeweiligen Leistungsvereinbarungen.
+
+<sup>4</sup> Absatz 3 gilt sinngemäss für die Vorsteherin oder den Vorsteher des kantonalen Grundbuchamts, die oder der entsprechende Regelungen im Amtsreglement trifft.
+
+#### Art. 9a
+
+**Notariatswesen**
+
+<sup>1</sup> Das kantonale Grundbuchamt betreut das Notariatswesen und bereitet in diesem Bereich die Gesetzgebung vor.
+
+<sup>2</sup> Im Bereich der Notariatsaufsicht ist der für das Notariatswesen zuständige Bereich fachlich unabhängig.
 
 #### Art. 10
 
@@ -156,12 +184,14 @@ beschliesst:
 
 **Begründung und Beendigung der Arbeitsverhältnisse**
 
-<sup>1</sup> Unter Vorbehalt von Artikel 20 Absatz 2 sind für die Begründung und Beendigung der Arbeitsverhältnisse zuständig:
+<sup>1</sup> Unter Vorbehalt von Artikel 20 Absatz 2 sind für die Begründung und Beendigung der Arbeitsverhältnisse zuständig
 
 - a die Ausschüsse der Geschäftsleitungen für die Mitarbeiterinnen und Mitarbeiter der KESB und der Regierungsstatthalterinnen und Regierungsstatthalter,
-- b die jeweilige Geschäftsleitung für die Mitarbeiterinnen und Mitarbeiter der übrigen Organisationseinheiten der dezentralen Verwaltung.
+- b die Geschäftsleitung der Betreibungs- und Konkursämter für die Mitarbeiterinnen und Mitarbeiter der Betreibungs- und Konkursämter,
+- c die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts für die Mitarbeiterinnen und Mitarbeiter der Stabsstelle sowie für die Mitarbeiterinnen und Mitarbeiter des für das Notariatswesen zuständigen Bereichs,
+- d die Vorsteherinnen und Vorsteher der regionalen Grundbuchämter für ihre jeweiligen Mitarbeiterinnen und Mitarbeiter.
 
-<sup>2</sup> Kopien der für den Vollzug von Absatz 1 notwendigen Verträge, Verfügungen und Erklärungen sind dem Amt für Dienstleistungen und Ressourcen (ADR) zuzustellen.
+<sup>2</sup> …
 
 <sup>3</sup> Die Anstellungsbehörden setzen das Personal optimal und insbesondere unter Berücksichtigung von Belastungsspitzen an einzelnen Organisationseinheiten ein.
 
@@ -169,7 +199,7 @@ beschliesst:
 
 **Personalrechtliche Bewilligungen**
 
-<sup>1</sup> Vorbehältlich abweichender Abmachungen in der Leistungsvereinbarung sind die Geschäftsleitungen der Betreibungs- und Konkursämter, der Grundbuchämter sowie die Ausschüsse der Geschäftsleitung der KESB und der Geschäftsleitung der Regierungsstatthalterinnen und Regierungsstatthalter befugt, die folgenden personalrechtlichen Bewilligungen zu erteilen:
+<sup>1</sup> Vorbehältlich abweichender Abmachungen in der Leistungsvereinbarung sind die Geschäftsleitung der Betreibungs- und Konkursämter, die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts sowie die Ausschüsse der Geschäftsleitung der KESB und der Geschäftsleitung der Regierungsstatthalterinnen und Regierungsstatthalter befugt, die folgenden personalrechtlichen Bewilligungen zu erteilen:
 
 - a Festlegung des Ortes der tatsächlichen Erbringung der Arbeitsleistung (Art. 8 Abs. 2 der Personalverordnung vom 18. Mai 2005 [PV][^12-1]),
 - b Bewilligung von bezahltem Urlaub für eine ärztlich verordnete Bade- oder Erholungskur (Art. 59 PV),
@@ -178,14 +208,14 @@ beschliesst:
 - e Anordnen einer Abweichung vom ordentlichen Arbeitszeitrahmen (Art. 125 PV) und vom Jahresarbeitszeitmodell (Art. 128 Abs. 1 und 2 PV),
 - f Bewilligung von unbezahltem Urlaub sowie Urlaub für den Besuch von externen Weiterbildungsveranstaltungen (Art. 157 Abs. 1 sowie Art. 175 Abs. 2 Bst. b PV).
 
-<sup>2</sup> Die zuständigen Stellen können die Befugnisse nach Absatz 1 Buchstaben d bis f generell oder im Einzelfall an Personen mit Führungsaufgaben in den regionalen Organisationseinheiten übertragen.
+<sup>2</sup> Die zuständigen Stellen können die Befugnisse gemäss Absatz 1 Buchstaben d bis f generell oder im Einzelfall an Personen mit Führungsaufgaben in den regionalen Organisationseinheiten übertragen.
 
-<sup>3</sup> Personalrechtliche Bewilligungen, welche die PV den Amtsvorsteherinnen und Amtsvorstehern zuweist, fallen in die Zuständigkeit der Vorsteherinnen und Vorsteher der regionalen Organisationseinheiten. Diese können sie generell oder im Einzelfall an Personen mit Führungsaufgaben übertragen.
+<sup>3</sup> Personalrechtliche Bewilligungen, welche die PV den Amtsvorsteherinnen und Amtsvorstehern zuweist, fallen in die Zuständigkeit der Vorsteherinnen und Vorsteher der regionalen Organisationseinheiten bzw. der Vorsteherin oder des Vorstehers des kantonalen Grundbuchamts. Diese können sie generell oder im Einzelfall an Personen mit Führungsaufgaben übertragen.
 
-<sup>4</sup> Ist ein Mitglied der Geschäftsleitung betroffen, erteilt die personalrechtliche Bewilligung gemäss den Absätzen 1 und 3
+<sup>4</sup> Ist ein Mitglied der Geschäftsleitung oder die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts betroffen, erteilt die personalrechtliche Bewilligung gemäss den Absätzen 1 und 3
 
 - a das Kantonale Jugendamt (KJA) für die Mitglieder der Geschäftsleitung der KESB,
-- b die Direktion für Inneres und Justiz für die Vorsitzende oder den Vorsitzenden der übrigen Geschäftsleitungen,
+- b die Direktion für Inneres und Justiz für die Vorsitzende oder den Vorsitzenden der übrigen Geschäftsleitungen sowie für die Vorsteherin oder den Vorsteher des kantonalen Grundbuchamts,
 - c die oder der Vorsitzende der Geschäftsleitung für die weiteren Mitglieder der übrigen Geschäftsleitungen.
 
 [^12-1]: BSG [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/de)
@@ -196,13 +226,15 @@ beschliesst:
 
 <sup>1</sup> Die Direktorin oder der Direktor führt mit den Regierungsstatthalterinnen und Regierungsstatthaltern einmal pro Jahr ein Standortgespräch.
 
-<sup>1a</sup> Sie oder er führt mit den Vorsitzenden der Geschäftsleitungen der Betreibungs- und Konkursämter sowie der Grundbuchämter das Mitarbeitergespräch.
+<sup>1a</sup> Sie oder er führt mit der oder dem Vorsitzenden der Geschäftsleitung der Betreibungs- und Konkursämter sowie der Vorsteherin oder dem Vorsteher des kantonalen Grundbuchamts das Mitarbeitergespräch.
 
 <sup>2</sup> Die Vorsteherin oder der Vorsteher des KJA oder eine von ihr oder ihm bezeichnete Person führt mit den Präsidentinnen und Präsidenten der KESB das Mitarbeitergespräch.
 
 <sup>3</sup> …
 
-<sup>4</sup> Die Vorsitzenden der Geschäftsleitungen der Betreibungs- und Konkursämter sowie der Grundbuchämter führen mit den ordentlichen Mitgliedern der Geschäftsleitungen das Mitarbeitergespräch.
+<sup>4</sup> Die oder der Vorsitzende der Geschäftsleitung der Betreibungs- und Konkursämter führt mit den ordentlichen Mitgliedern der Geschäftsleitung das Mitarbeitergespräch.
+
+<sup>5</sup> Die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts führt mit den Vorsteherinnen und Vorstehern der regionalen Grundbuchämter, den Mitarbeiterinnen und Mitarbeitern der Stabsstelle sowie den Mitarbeiterinnen und Mitarbeitern des für das Notariatswesen zuständigen Bereichs das Mitarbeitergespräch.
 
 ### 3.2 Finanzen
 
@@ -210,54 +242,54 @@ beschliesst:
 
 **Gesamtstaatliche Prozesse**
 
-<sup>1</sup> Die Geschäftsleitungen sind für die Umsetzung der gesamtstaatlichen Prozesse in ihrem Bereich verantwortlich.
+<sup>1</sup> Die Geschäftsleitungen sowie die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts sind für die Umsetzung der gesamtstaatlichen Prozesse in ihrem Bereich verantwortlich.
 
-<sup>2</sup> Die Geschäftsleitungen sind insbesondere für die Erstellung, Verwaltung und Einhaltung ihres Globalbudgets verantwortlich und treffen bei Abweichungen entsprechende Massnahmen. Sie teilen jedem Bereich die notwendigen und möglichen Mittel zu. Sie führen das Controlling und erstatten die erforderlichen Berichte.
+<sup>2</sup> Die Geschäftsleitungen sowie die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts sind insbesondere für die Erstellung, Verwaltung und Einhaltung ihres Globalbudgets verantwortlich und treffen bei Abweichungen entsprechende Massnahmen. Sie teilen jedem Bereich die notwendigen und möglichen Mittel zu. Sie führen das Controlling und erstatten die erforderlichen Berichte.
 
 #### Art. 15
 
 **Ausgabenbewilligungen**
 
-<sup>1</sup> Die Geschäftsleitungen der Betreibungs- und Konkursämter, der Grundbuchämter, der KESB und der Regierungsstatthalterinnen und Regierungsstatthalter bewilligen Ausgaben wie folgt, wobei die Geschäftsleitungen der KESB und der Regierungsstatthalterinnen und Regierungsstatthalter diese Bewilligungskompetenz ganz oder teilweise ihrem Ausschuss übertragen können:
+<sup>1</sup> Die Geschäftsleitungen der Betreibungs- und Konkursämter, der KESB und der Regierungsstatthalterinnen und Regierungsstatthalter sowie die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts bewilligen Ausgaben wie folgt, wobei die Geschäftsleitungen der KESB und der Regierungsstatthalterinnen und Regierungsstatthalter diese Bewilligungskompetenz ganz oder teilweise ihrem Ausschuss übertragen können:
 
-- a neue einmalige Ausgaben bis 200 000 Franken,
-- b neue wiederkehrende Ausgaben bis 50 000 Franken,
-- c gebundene einmalige Ausgaben bis 500 000 Franken,
-- d gebundene wiederkehrende Ausgaben bis 100 000 Franken.
+- a neue einmalige Ausgaben bis 200'000 Franken,
+- b neue wiederkehrende Ausgaben bis 50'000 Franken,
+- c gebundene einmalige Ausgaben bis 500'000 Franken,
+- d gebundene wiederkehrende Ausgaben bis 100'000 Franken.
 
 <sup>2</sup> Ausgaben, welche die in Absatz 1 genannten Grenzen übersteigen, sind dem für die Bewilligung zuständigen Organ vorzulegen.
 
-<sup>3</sup> Die Geschäftsleitungen und Ausschüsse können die Befugnisse gemäss Absatz 1 an einzelne Personen mit Führungsfunktionen in den Regionen oder den Verwaltungskreisen generell oder im Einzelfall delegieren. Solche Delegationen sind der Direktion für Inneres und Justiz zur Kenntnis zu bringen.
+<sup>3</sup> Die Geschäftsleitungen und Ausschüsse sowie die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts können die Befugnisse gemäss Absatz 1 an einzelne Personen mit Führungsfunktionen in den Regionen oder den Verwaltungskreisen generell oder im Einzelfall delegieren. Solche Delegationen sind der Direktion für Inneres und Justiz zur Kenntnis zu bringen.
 
 ### 3.3 Informatik
 
 #### Art. 16
 
-<sup>1</sup> Die Geschäftsleitungen wirken mit bei der Evaluation und der Budgetierung der notwendigen Fachapplikationen.
+<sup>1</sup> Die Geschäftsleitungen sowie die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts wirken mit bei der Evaluation und der Budgetierung der notwendigen Fachapplikationen.
 
-<sup>2</sup> Die Geschäftsleitungen können sich bei diesen Geschäften durch das ADR beraten lassen oder diesem gewisse Aufgaben mit einer Leistungsvereinbarung übertragen.
+<sup>2</sup> Sie können sich bei diesen Geschäften durch das ADR beraten lassen oder diesem gewisse Aufgaben mit einer Leistungsvereinbarung übertragen.
 
-<sup>3</sup> Die Geschäftsleitungen teilen jedem Bereich die notwendigen und möglichen Informatikmittel zu. Sie führen das Controlling und erstatten die erforderlichen Berichte.
+<sup>3</sup> Sie teilen jedem Bereich die notwendigen und möglichen Informatikmittel zu, führen das Controlling und erstatten die erforderlichen Berichte.
 
 ### 3.4 Infrastruktur und Logistik
 
 #### Art. 17
 
-**Betriebskommissionen**
+<sup>1</sup> Die Geschäftsleitungen sowie die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts sind im Rahmen der bewilligten finanziellen Mittel verantwortlich für die Infrastruktur und Logistik.
 
-<sup>1</sup> Die Geschäftsleitungen sind im Rahmen der bewilligten finanziellen Mittel verantwortlich für die Infrastruktur und Logistik.
+<sup>2</sup> Die Geschäftsleitungen sowie die Vorsteherinnen und Vorsteher der regionalen Grundbuchämter sind in den jeweiligen Betriebskommissionen vertreten. Sie setzen sich für die optimale Nutzung der jeweiligen Raum- und Infrastrukturressourcen ein.
 
-<sup>2</sup> Die Geschäftsleitungen sind in den jeweiligen Betriebskommissionen vertreten. Sie setzen sich für die optimale Nutzung der jeweiligen Raum- und Infrastrukturressourcen ein.
+### 3.4a Geschäfts- und Amtsreglement
 
 #### Art. 18
 
-**Geschäftsreglemente**
+<sup>1</sup> Die Geschäftsleitung der Betreibungs- und Konkursämter regelt das Nähere zu ihrer Zusammensetzung und Tätigkeit in einem Geschäftsreglement.
 
-<sup>1</sup> Die Geschäftsleitungen der Betreibungs- und Konkursämter sowie der Grundbuchämter regeln das Nähere zu ihrer Zusammensetzung und Tätigkeit in einem Geschäftsreglement.
+<sup>1a</sup> Die Vorsteherin oder der Vorsteher des kantonalen Grundbuchamts regelt das Nähere zu ihrer oder seiner Tätigkeit in einem Amtsreglement.
 
 <sup>2</sup> …
 
-<sup>3</sup> Die Direktion für Inneres und Justiz genehmigt die Geschäftsreglemente.
+<sup>3</sup> Die Direktion für Inneres und Justiz genehmigt das Geschäfts- und das Amtsreglement.
 
 ### 3.5 Ausbildung
 
@@ -265,9 +297,9 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Die Geschäftsleitungen können für ihren Fachbereich Ausbildungslehrgänge vorsehen. Zu deren Organisation und Durchführung bestellen sie Ausbildungskommissionen. Sie wählen insbesondere das Präsidium sowie die notwendige Anzahl an Mitgliedern.
+<sup>1</sup> Die Geschäftsleitungen im Sinne von Artikel 4 Absatz 1 und 4 können für ihren Fachbereich Ausbildungslehrgänge vorsehen. Zu deren Organisation und Durchführung bestellen sie Ausbildungskommissionen. Sie wählen insbesondere das Präsidium sowie die notwendige Anzahl an Mitgliedern.
 
-<sup>2</sup> Die Geschäftsleitungen haben Regeln über die Organisation der Ausbildung, den zu vermittelnden Stoff, den Teilnehmerkreis, die Kostentragung und weitere Fragen in einem Reglement zu erlassen. Die Kosten der Ausbildung sind zu budgetieren.
+<sup>2</sup> Sie haben Regeln über die Organisation der Ausbildung, den zu vermittelnden Stoff, den Teilnehmerkreis, die Kostentragung und weitere Fragen in einem Reglement zu erlassen. Die Kosten der Ausbildung sind zu budgetieren.
 
 #### Art. 18b
 
@@ -287,7 +319,7 @@ beschliesst:
 
 **Weisungen und vorsorgliche Massnahmen**
 
-<sup>1</sup> Die Direktion für Inneres und Justiz kann zur Beseitigung drohender oder festgestellter gesetzwidriger Zustände sowie zum Schutz erheblicher öffentlicher oder privater Interessen gegenüber den Geschäftsleitungen der Betreibungs- und Konkursämter, der Grundbuchämter sowie der KESB generell oder im Einzelfall Weisungen erlassen und vorsorgliche Massnahmen anordnen.
+<sup>1</sup> Die Direktion für Inneres und Justiz kann zur Beseitigung drohender oder festgestellter gesetzwidriger Zustände sowie zum Schutz erheblicher öffentlicher oder privater Interessen gegenüber den Geschäftsleitungen der Betreibungs- und Konkursämter und der KESB sowie der Vorsteherin oder dem Vorsteher des kantonalen Grundbuchamts generell oder im Einzelfall Weisungen erlassen und vorsorgliche Massnahmen anordnen.
 
 #### Art. 20
 
@@ -299,7 +331,7 @@ beschliesst:
 
 <sup>3</sup> Das ADR sorgt für die Kommunikation und die einheitliche Umsetzung der Vorgaben im Fachbereich Personal.
 
-<sup>4</sup> Es ist Ansprechstelle der Geschäftsleitungen und Ausschüsse und berät diese in Personalbelangen.
+<sup>4</sup> Es ist Ansprechstelle der Geschäftsleitungen und Ausschüsse sowie der Vorsteherin oder des Vorstehers des kantonalen Grundbuchamts und berät diese in Personalbelangen.
 
 #### Art. 21
 
@@ -317,13 +349,13 @@ beschliesst:
 
 <sup>2</sup> Das ADR ist das für die Fach- und Konzernapplikationen der Direktion für Inneres und Justiz verantwortliche Fachamt.
 
-<sup>3</sup> Es betreut die zentral anfallenden ICT-Aufgaben und sorgt zusammen mit den Geschäftsleitungen für deren Umsetzung. Es sorgt zudem für die Kommunikation, Beratung und Steuerung in diesem Fachbereich.
+<sup>3</sup> Es betreut die zentral anfallenden ICT-Aufgaben und sorgt zusammen mit den Geschäftsleitungen sowie der Vorsteherin oder dem Vorsteher des kantonalen Grundbuchamts für deren Umsetzung. Es sorgt zudem für die Kommunikation, Beratung und Steuerung in diesem Fachbereich.
 
 #### Art. 23
 
 **Infrastruktur und Logistik**
 
-<sup>1</sup> Das ADR vertritt und koordiniert die Interessen und Bedürfnisse der Geschäftsleitungen und der Ausschüsse bei der Bau- und Verkehrsdirektion. Im Rahmen seiner Controllingtätigkeit sorgt es für die Einhaltung der regierungsrätlichen Vorgaben in den Bereichen Raum und Arbeitsplatz.
+<sup>1</sup> Das ADR vertritt und koordiniert die Interessen und Bedürfnisse der Geschäftsleitungen sowie der Vorsteherin oder des Vorstehers des kantonalen Grundbuchamts und der Ausschüsse bei der Bau- und Verkehrsdirektion. Im Rahmen seiner Controllingtätigkeit sorgt es für die Einhaltung der regierungsrätlichen Vorgaben in den Bereichen Raum und Arbeitsplatz.
 
 #### Art. 24
 
