@@ -3,20 +3,20 @@ canton: BL
 number: "153.13"
 title: Verordnung über den Elternurlaub
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2020-12-15
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-11-16
 adopted: 2011-01-11
 in_force: 2011-05-01
 url: "https://bl.clex.ch/app/de/texts_of_law/153.13"
-pdf: "https://bl.clex.ch/api/de/versions/2837/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3131/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Elternurlaub
 
-Vom 11.01.2011 (Stand 01.01.2021)
+Vom 11.01.2011 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -76,6 +76,14 @@ beschliesst:
 - b. wenn die Schwangerschaft mindestens 23 Wochen gedauert hat.
 
 <sup>4</sup> Die Arbeit kann frühestens 8 Wochen nach der Niederkunft wieder aufgenommen werden.
+
+#### § 5a
+
+**Verlängerung des bezahlten Mutterschaftsurlaubs bei längerem Spitalaufenthalt des Neugeborenen**
+
+<sup>1</sup> Der bezahlte Mutterschaftsurlaub verlängert sich um die Dauer der Hospitalisierung, maximal aber um 56 Tage, wenn durch ein ärztliches Attest nachgewiesen wird, dass das Neugeborene der Mitarbeiterin unmittelbar nach der Geburt mindestens 2 Wochen hospitalisiert war.
+
+<sup>2</sup> Der Anspruch auf einen verlängerten Mutterschaftsurlaub nach Abs. 1 endet vorzeitig, wenn die Mitarbeiterin eine Erwerbstätigkeit aufnimmt. Die Regelung gilt unabhängig vom Beschäftigungsgrad.
 
 #### § 6
 
