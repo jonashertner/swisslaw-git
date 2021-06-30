@@ -4,13 +4,12 @@ number: "866"
 title: Gesetz über die Verbilligung von Prämien der Krankenversicherung
 short: Prämienverbilligungsgesetz
 language: de
-version: 2020-07-01
-valid_until: 2021-06-30
+version: 2021-07-01
 version_adopted: 2019-10-21
 adopted: 1995-01-24
 in_force: 1995-04-01
 url: "https://srl.lu.ch/app/de/texts_of_law/866"
-pdf: "https://srl.lu.ch/api/de/versions/3592/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3757/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3592/pdf_file"
 
 (Prämienverbilligungsgesetz)
 
-vom 24.01.1995 (Stand 01.07.2020)
+vom 24.01.1995 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -100,7 +99,7 @@ beschliesst:
 
 <sup>2</sup> Personen, die gemeinsam besteuert werden, haben einen Gesamtanspruch auf Prämienverbilligung, der bei getrennter Auszahlung nach Anzahl der berechtigten Personen aufgeteilt wird. Eine Teilzahlung darf in keinem Fall die anrechenbare Prämie der berechtigten Person übersteigen.
 
-<sup>3</sup> Massgebend sind die persönlichen und familiären Verhältnisse am 1. Januar des Jahres, für welches Prämienverbilligung beansprucht wird. Für Personen, die aus dem Ausland zuziehen, sind die persönlichen und familiären Verhältnisse im Zeitpunkt des Zuzuges massgebend. Vorbehalten bleibt § 8a.
+<sup>3</sup> Massgebend sind die persönlichen und familiären Verhältnisse am 1. November des Jahres vor dem Jahr, für das Prämienverbilligung beansprucht wird. Für Personen, die aus dem Ausland zuziehen, sind die persönlichen und familiären Verhältnisse im Zeitpunkt des Zuzuges massgebend. Vorbehalten bleibt § 8a.
 
 #### § 6
 
@@ -149,7 +148,7 @@ beschliesst:
 
 <sup>1</sup> Der Anspruch von Personen, die an der Quelle besteuert werden, wird aufgrund von 75 Prozent des der Quellensteuer zugrundeliegenden Einkommens berechnet.
 
-<sup>2</sup> Personen, die Ergänzungsleistungen zur AHV/IV beziehen, haben Anspruch auf Verbilligung der vollen Durchschnittsprämie gemäss dem Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung vom 6. Oktober 2006[^8-1], sofern die Voraussetzungen von § 5 Absätze 1 und 3 erfüllt sind. Für das Verfahren gelten sinngemäss die Bestimmungen über die Ergänzungsleistungen. Die §§ 12, 13 Absatz 1, 14, 15 und 17 Absatz 1 finden keine Anwendung.
+<sup>2</sup> Personen, die Ergänzungsleistungen zur AHV/IV beziehen, haben Anspruch auf Verbilligung der Prämien gemäss dem Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) vom 6. Oktober 2006[^8-1]. Für das Verfahren gelten sinngemäss die Bestimmungen über die Ergänzungsleistungen. Die §§ 12, 13 Absatz 1, 14, 15 und 17 Absatz 1 finden keine Anwendung.
 
 <sup>3</sup> Personen, die wirtschaftliche Sozialhilfe gemäss den §§ 27 Absatz 1, 53 Absatz 1 oder 54 Absatz 1 des Sozialhilfegesetzes vom 16. März 2015[^8-2] beziehen und deren Anspruch auf Prämienverbilligung von Bundesrechts wegen nicht sistiert ist, haben vorbehältlich § 7 Absatz 7 Anspruch auf Verbilligung der vollen Richtprämie. Der Anspruch besteht auch rückwirkend für die Zeit, für die die versicherte Person gestützt auf Artikel 64a Absatz 2 KVG betrieben wurde. Die §§ 12, 13 Absatz 1, 14 und 15 finden keine Anwendung. Diese Regelung gilt nicht für hilfebedürftige vorläufig aufgenommene Personen und für hilfebedürftige vorläufig aufgenommene Flüchtlinge, soweit die Kosten für die wirtschaftliche Sozialhilfe vom Bund übernommen werden.
 
@@ -162,7 +161,7 @@ beschliesst:
 
 **Änderung der Verhältnisse**
 
-<sup>1</sup> Haben sich die persönlichen, die familiären oder die wirtschaftlichen Verhältnisse seit dem 1. Januar des Jahres, für das Prämienverbilligung beansprucht wird, wesentlich geändert, wird die Prämienverbilligung auf begründetes Gesuch oder allenfalls von Amtes wegen angepasst.
+<sup>1</sup> Haben sich die persönlichen, die familiären oder die wirtschaftlichen Verhältnisse seit dem 1. November des Jahres vor dem Jahr, für das Prämienverbilligung beansprucht wird, wesentlich geändert, wird die Prämienverbilligung auf begründetes Gesuch oder allenfalls von Amtes wegen angepasst.
 
 <sup>2</sup> Das Gesuch um Erhöhung der Prämienverbilligung ist spätestens am letzten Tag des Jahres einzureichen, für das eine Änderung der Verhältnisse geltend gemacht wird. Wird die Frist nicht eingehalten, wird die Änderung erst ab dem Jahr berücksichtigt, in dem das Gesuch eingereicht wurde.
 
@@ -170,7 +169,7 @@ beschliesst:
 
 **Kontrolle der obligatorischen Krankenversicherung**
 
-<sup>1</sup> Die Organe der Prämienverbilligung kontrollieren in Zusammenarbeit mit den Einwohnerkontrollen die Erfassung der nach Bundesrecht obligatorisch zu versichernden Personen.
+<sup>1</sup> Die Organe der Prämienverbilligung kontrollieren in Zusammenarbeit mit den Einwohnerkontrollen die Erfassung der nach Bundesrecht obligatorisch zu versichernden Personen. Die zuständige Dienststelle meldet dem Sozialversicherungszentrum, wenn sie einem Ausländer oder einer Ausländerin eine Grenzgängerbewilligung erteilt hat.
 
 <sup>2</sup> Das Sozialversicherungszentrum kann mit Krankenversicherern besondere Vereinbarungen treffen, um eine einfache Kontrolle zu gewährleisten.
 
@@ -231,7 +230,10 @@ beschliesst:
 <sup>3</sup> Die Krankenversicherer haben dem Sozialversicherungszentrum folgende Daten mitzuteilen:
 
 - a. die bundesrechtlich vorgeschriebenen Daten,
-- b. die Prämien der Krankenpflege-Grundversicherung, die für versicherte Personen mit Wohnsitz im Kanton geschuldet sind.
+- b. die Prämien der Krankenpflege-Grundversicherung, die für versicherte Personen mit Wohnsitz im Kanton geschuldet sind,
+- c. den Beginn und das Ende des Versicherungsverhältnisses.
+
+<sup>3<sup>bis</sup></sup> Die Krankenversicherer teilen dem Sozialversicherungszentrum die Daten nach Absatz 3 auf Anfrage im Einzelfall mit. Zum Abgleich der Datenbestände übermitteln sie dem Sozialversicherungszentrum auf Anfrage auch den gesamten Versichertenbestand.
 
 <sup>4</sup> Alle Personen, die mit der Durchführung dieses Gesetzes betraut sind, haben über ihre Wahrnehmungen Verschwiegenheit zu bewahren. Artikel 33 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts ist anwendbar.
 
@@ -279,9 +281,9 @@ beschliesst:
 
 **Auszahlung und Verzinsung**
 
-<sup>1</sup> Ist gegen die Verfügung gemäss § 17 Absatz 1 keine Einsprache erhoben worden oder ist eine Verfügung in Rechtskraft erwachsen, veranlasst das Sozialversicherungszentrum die Auszahlung der Prämienverbilligung an den jeweiligen Krankenversicherer.
+<sup>1</sup> Die Auszahlung der Prämienverbilligung erfolgt bargeldlos an den jeweiligen Krankenversicherer. Der Regierungsrat kann die Auszahlung geringfügiger Beiträge ausschliessen.
 
-<sup>2</sup> Die Auszahlung erfolgt bargeldlos. Der Regierungsrat kann die Auszahlung geringfügiger Beträge ausschliessen.
+<sup>2</sup> …
 
 <sup>3</sup> Auf Leistungen, die nach diesem Gesetz ausgerichtet werden, sind weder Vergütungs- noch Verzugszinsen geschuldet.
 
@@ -355,6 +357,14 @@ beschliesst:
 <sup>1</sup> Die Prämienverbilligung für das Jahr 2020 wird nach bisherigem Recht durchgeführt.
 
 <sup>2</sup> Die Beiträge des Kantons und der Gemeinden gemäss § 10 Absatz 1<sup>bis</sup> für das Jahr 2021 haben mindestens den Beiträgen für das Jahr 2020 zu entsprechen.
+
+#### § 25c
+
+**Übergangsbestimmung zur Änderung vom 25. Januar 2021**
+
+<sup>1</sup> Für den Anspruch auf Prämienverbilligung für das Jahr 2021 sind die persönlichen und familiären Verhältnisse am 1. Januar 2021 massgebend.
+
+<sup>2</sup> Die Prämienverbilligung für das Jahr 2021 wird auf begründetes Gesuch oder allenfalls von Amtes wegen angepasst, wenn sich die persönlichen, die familiären oder die wirtschaftlichen Verhältnisse seit dem 1. Januar 2021 wesentlich geändert haben.
 
 #### § 26
 
