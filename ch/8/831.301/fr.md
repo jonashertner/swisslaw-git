@@ -4,11 +4,11 @@ title: "Ordonnance du 15 janvier 1971 sur les prestations complémentaires à l'
 short: OPC-AVS/AI
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20210101/fr"
 
 (OPC-AVS/AI)**[^t-1]** **[^t-2]**
 
-du 15 janvier 1971 (Etat le 1<sup>er</sup> janvier 2021)
+du 15 janvier 1971 (Etat le 1<sup>er</sup> juillet 2021)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. V de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 [^t-2]: Nouvelle abréviation selon le ch. I de l’O du 24 nov. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 2085](https://fedlex.data.admin.ch/eli/oc/1982/2085_2085_2085)).
@@ -235,6 +235,15 @@ Il n’est pas tenu compte, lorsqu’on additionne des dépenses reconnues et de
 **Conjoints ou membres de la famille séjournant pour une période prolongée à l’étranger ou dont le lieu de séjour est inconnu**
 
 Il n’est pas tenu compte, pour calculer la prestation complémentaire, du conjoint ou d’un autre membre de la famille qui séjourne pour une période prolongée à l’étranger ou dont le lieu de séjour est inconnu.
+
+#### Art. 10a
+
+**Examen du droit des bénéficiaires de prestations transitoires à des prestations complémentaires**[^10a-1]
+
+Les organes d’exécution examinent d’office s’il est prévisible qu’un bénéficiaire de prestations transitoires en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^10a-2] aura droit à des prestations complémentaires à l’âge ordinaire de la retraite.
+
+[^10a-1]: Introduit par l’annexe ch. 3 de l’O du 11 juin 2021 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
+[^10a-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
 ### IIa. Revenus déterminants, dépenses reconnues et fortune****
 

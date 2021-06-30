@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Januar 1971 über die Ergänzungsleistungen zur Alter
 short: ELV
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20210101/de"
 
 (ELV)**[^t-1]**
 
-vom 15. Januar 1971 (Stand am 1. Januar 2021)
+vom 15. Januar 1971 (Stand am 1. Juli 2021)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. V der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmungen wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -238,6 +238,15 @@ Rentenberechtigte Familienglieder, die in einem andern Kanton wohnhaft sind, fal
 **Ehegatten oder Familienglieder mit längerem Aufenthalt im Ausland oder mit unbekanntem Aufenthalt**
 
 Hält sich einer der Ehegatten oder ein anderes Familienglied längere Zeit im Ausland auf oder ist sein Aufenthaltsort unbekannt, so fällt es bei der Bemessung der Ergänzungsleistung ausser Betracht.
+
+#### Art. 10a
+
+**Prüfen des Anspruchs auf Ergänzungsleistungen von Personen, die Überbrückungsleistungen beziehen**[^10a-1]
+
+Die Durchführungsstellen prüfen von Amtes wegen, ob bei einer Person, die Überbrückungsleistungen nach dem Bundesgesetz vom 19. Juni 2020[^10a-2] über Überbrückungsleistungen für ältere Arbeitslose bezieht, auf den Zeitpunkt des ordentlichen Rentenalters hin ein Anspruch auf Ergänzungsleistungen absehbar ist.
+
+[^10a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 11. Juni 2021 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
+[^10a-2]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
 ### II*a*. Anrechenbare Einnahmen, anerkannte Ausgaben und Vermögen****
 

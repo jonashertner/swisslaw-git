@@ -4,11 +4,11 @@ title: "Ordinanza del 15 gennaio 1971 sulle prestazioni complementari all'assicu
 short: OPC-AVS/AI
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20210101/it"
 
 (OPC-AVS/AI)**[^t-1]** **[^t-2]**
 
-del 15 gennaio 1971 (Stato 1° gennaio 2021)
+del 15 gennaio 1971 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 [^t-1]: Nuovo testo del tit. abbreviato giusta il n. I dell’O del 13 set. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4385](https://fedlex.data.admin.ch/eli/oc/1995/4385_4385_4385)).
 [^t-2]: Nuovo tit. giusta il n. V dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Secondo la medesima disp. i titoli marginali sono stati accentrati.
@@ -239,7 +239,16 @@ Per la somma delle spese riconosciute e dei redditi determinanti non si tiene co
 
 Per il calcolo della prestazione complementare, non si tiene conto del coniuge o di un altro membro della famiglia che soggiorna all’estero per un lungo periodo di tempo o il cui luogo di soggiorno è sconosciuto.
 
-### **IIa.** **Redditi computabili, spese riconosciute e sostanza** ****
+#### Art. 10a
+
+**Verifica del diritto a prestazioni complementari per le persone che ricevono prestazioni transitorie**[^10a-1]
+
+Gli organi esecutivi verificano d’ufficio se nel caso di una persona che riceve prestazioni transitorie in virtù della legge federale del 19 giugno 2020[^10a-2] sulle prestazioni transitorie per i disoccupati anziani sia prevedibile un diritto a prestazioni complementari al momento dell’età ordinaria di pensionamento.
+
+[^10a-1]: Introdotto dal’all. n. 3 dell’O dell’11 giu. 2021 sulle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° lug. 2021 ([RU 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
+[^10a-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+
+### **IIa.** **Redditi computabili, spese riconosciute e sostanza******
 
 [^chap1-lvlA-lvlIIa-1]
 
