@@ -4,11 +4,11 @@ number: "212.81"
 title: Gesetz über das Sozialversicherungsgericht (GSVGer)
 short: GSVGer
 language: de
-version: "2020-06-01"
-nachtrag: "109"
-valid_until: 2021-07-01
+version: "2021-07-01"
+nachtrag: "113"
+valid_until: 2024-01-01
 adopted: 1993-03-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-212_81-1993_03_07-1993_11_01-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-212_81-1993_03_07-1993_11_01-113.html"
 text: pdf
 ---
 
@@ -56,7 +56,7 @@ a.[^t-15] Klagen nach Art. 73 des Bundesgesetzes über die berufliche Alters-, H
 
 **1**
 
-- 1\. 7. 20 - 109 (ZGB)[^t-17] und Klagen nach Art. 281 Abs. 3 der Schweizerischen Zivilprozessordnung (ZPO)[^t-18] in Verbindung mit Art. 25 a des Freizügigkeitsgesetzes (FZG)[^t-19] sowie nach Art. 25 FZG, b.[^t-20] Klagen über Streitigkeiten aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz vom 18. März 1994 über die Krankenversicherung[^t-8] im Sinne von Art. 7 ZPO[^t-18],
+- 1\. 7. 21 - 113 (ZGB)[^t-17] und Klagen nach Art. 281 Abs. 3 der Schweizerischen Zivilprozessordnung (ZPO)[^t-18] in Verbindung mit Art. 25 a des Freizügigkeitsgesetzes (FZG)[^t-19] sowie nach Art. 25 FZG, b.[^t-20] Klagen über Streitigkeiten aus Zusatzversicherungen zur sozialen Krankenversicherung nach dem Bundesgesetz vom 18. März 1994 über die Krankenversicherung[^t-8] im Sinne von Art. 7 ZPO[^t-18],
 
 - c. Beschwerden betreffend Entschädigung und Genugtuung nach Art. 17 des Opferhilfegesetzes (OHG)[^t-21] sowie Beschwerden betreffend materielle Soforthilfe und Übernahme weiterer Kosten im Sinne von Art. 3 des Gesetzes.
 
@@ -86,12 +86,12 @@ a.[^t-15] Klagen nach Art. 73 des Bundesgesetzes über die berufliche Alters-, H
 [^t-16]: SR 831.40.
 [^t-17]: SR 210.
 [^t-18]: SR 272.
-[^t-19]: SR 831.42. 1. 7. 20 - 109 13
+[^t-19]: SR 831.42.
 [^t-20]: Fassung gemäss G über die Anpassung der kantonalen Behördenorganisation und des kantonalen Prozessrechts in Zivil- und Strafsachen an die neuen Prozessgesetze des Bundes vom 10. Mai 2010 (OS 65, 520, 572; ABl 2009, 1489). In Kraft seit 1. Januar 2011.
 [^t-21]: SR 312.5.
 [^t-22]: Fassung gemäss EG FamZG vom 19. Januar 2009 (OS 64, 142; ABl 2008, 1046). In Kraft seit 1. Juli 2009.
 [^t-23]: LS 831.3.
-[^t-24]: LS 910.1; heute: Landwirtschaftsgesetz.
+[^t-24]: LS 910.1; heute: Landwirtschaftsgesetz. 1. 7. 21 - 113 13
 [^t-25]: Fassung gemäss Einführungsgesetz zum Krankenversicherungsgesetz vom 29. April 2019 (OS 75, 174; ABl 2016-10-07). In Kraft seit 1. April 2020.
 
 #### § 4
@@ -112,21 +112,23 @@ Der Kantonsrat kann den Zuständigkeitsbereich des Sozialversicherungsgerichts a
 
 <sup>4</sup> Die Amtsdauer der Mitglieder und der Ersatzmitglieder beträgt sechs Jahre.
 
-<sup>5</sup> Der Kantonsrat regelt die Besoldung der Mitglieder und die Entschädigung der Ersatzmitglieder[^hBOrganisationdes-3].
+<sup>5</sup> Das Plenum gemäss § 6 Abs. 1 kann den Beschäftigungsgrad einzelner Mitglieder mit deren Einverständnis im Rahmen der gesamten Stellenprozente verändern. Mit dem Ausscheiden eines betroffenen Mitglieds oder mit dem Ablauf der Amtsdauer erlischt die Veränderung.[^hBOrganisationdes-3]
+
+<sup>6</sup> Der Kantonsrat regelt die Besoldung der Mitglieder und die Entschädigung der Ersatzmitglieder[^hBOrganisationdes-4].
 
 **Offenlegung von Interessenbindungen**
 
-§ 5 a.[^hBOrganisationdes-4] Für die Offenlegung von Interessenbindungen gilt § 7 GOG[^hBOrganisationdes-5].
+§ 5 a.[^hBOrganisationdes-5] Für die Offenlegung von Interessenbindungen gilt § 7 GOG[^hBOrganisationdes-6].
 
 **Unvereinbarkeit**
 
-§ 5 b.[^hBOrganisationdes-6] <sup>1</sup> Das Amt eines vollamtlichen Mitglieds des Sozialversicherungsgerichts ist mit einer anderen hauptberuflichen Tätigkeit sowie der berufsmässigen Vertretung dritter Personen vor den Gerichten oder den Verwaltungsbehörden unvereinbar.
+§ 5 b.[^hBOrganisationdes-7] <sup>1</sup> Das Amt eines vollamtlichen Mitglieds des Sozialversicherungsgerichts ist mit einer anderen hauptberuflichen Tätigkeit sowie der berufsmässigen Vertretung dritter Personen vor den Gerichten oder den Verwaltungsbehörden unvereinbar.
 
 <sup>2</sup> Das Amt eines teilamtlichen Mitglieds sowie eines Ersatzmitglieds des Sozialversicherungsgerichts ist mit der berufsmässigen Vertretung dritter Personen vor dem Sozialversicherungsgericht unvereinbar.
 
 <sup>3</sup> Für die Zugehörigkeit zur Verwaltung oder Geschäftsführung einer Handelsgesellschaft oder einer Genossenschaft zu wirtschaftlichen Zwecken ist für die vollamtlichen und teilamtlichen Mitglieder die Bewilligung des Kantonsrates erforderlich.
 
-<sup>4</sup> Im Übrigen gelten die Unvereinbarkeitsbestimmungen des Gesetzes über die politischen Rechte[^hBOrganisationdes-7],[^hBOrganisationdes-8].
+<sup>4</sup> Im Übrigen gelten die Unvereinbarkeitsbestimmungen des Gesetzes über die politischen Rechte[^hBOrganisationdes-8],[^hBOrganisationdes-9].
 
 **Behandlung von Ausstandsbegehren**
 
@@ -144,29 +146,40 @@ Der Kantonsrat kann den Zuständigkeitsbereich des Sozialversicherungsgerichts a
 
 <sup>3</sup> Ist eine Kammer bei der Behandlung eines Ausstandsbegehrens nicht mehr ordentlich besetzt, wird sie durch voll- oder teilamtliche Mitglieder einer andern Kammer ergänzt.
 
-**Plenum und Kammern**
+**3**
 
-§ 6.[^hBOrganisationdes-9] <sup>1</sup> Das Plenum besteht aus den vollamtlichen und teilamtlichen Mitgliedern.
+- 1\. 7. 21 - 113 § 6.[^hBOrganisationdes-10] <sup>1</sup> Das Plenum besteht aus den vollamtlichen und teilamtlichen Mitgliedern.
+
+**Plenum und Kammern**
 
 <sup>2</sup> Es regelt organisatorische und personelle Angelegenheiten sowie Fragen der Selbstverwaltung und legt die Anzahl Kammern fest, in die sich das Gericht gliedert.
 
 <sup>3</sup> Jedes anwesende Mitglied ist verpflichtet, seine Stimme abzugeben. Bei Stimmengleichheit zählt die Stimme der Vorsitzenden oder des Vorsitzenden doppelt.
 
-**3**
+[^hBOrganisationdes-1]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
+[^hBOrganisationdes-2]: Eingefügt durch G vom 30. August 2004 (OS 59, 398). In Kraft seit 1. Januar 2005 (OS 59, 410).
+[^hBOrganisationdes-3]: Eingefügt durch G vom 30. November 2020 (OS 76, 198; ABl 2020-02-28). In Kraft seit 1. Juli 2021. 1. 7. 21 - 113 15
+[^hBOrganisationdes-4]: LS 212.83.
+[^hBOrganisationdes-5]: Fassung gemäss G über die Anpassung der kantonalen Behördenorganisation und des kantonalen Prozessrechts in Zivil- und Strafsachen an die neuen Prozessgesetze des Bundes vom 10. Mai 2010 (OS 65, 520, 572; ABl 2009, 1489). In Kraft seit 1. Januar 2011.
+[^hBOrganisationdes-6]: LS 211.1.
+[^hBOrganisationdes-7]: Eingefügt durch G über die Wahl von teilamtlichen Mitgliedern der Gerichte vom 4. Januar 1999 (OS 56, 43). In Kraft seit 1. März 2000 (OS 56, 56).
+[^hBOrganisationdes-8]: LS 161.
+[^hBOrganisationdes-9]: Fassung gemäss Gesetz über die politischen Rechte vom 1. September 2003 (OS 58, 289). In Kraft seit 1. Januar 2005 (OS 59, 194).
+[^hBOrganisationdes-10]: Fassung gemäss G vom 30. August 2004 (OS 59, 398). In Kraft seit 1. Januar 2005 (OS 59, 410).
 
-- 1\. 7. 20 - 109 § 7. <sup>1</sup> Das Gesamtgericht regelt durch Verordnung
+#### § 7
 
 **Verordnungsrecht**
 
-- a. die Organisation und den Geschäftsgang,
+<sup>1</sup> Das Gesamtgericht regelt durch Verordnung a. die Organisation und den Geschäftsgang,
 
-- b. die Gebühren, Kosten und Entschädigungen, c.[^hBOrganisationdes-10] die Organisation und die Aufgaben der Gerichtsschreiberinnen und Gerichtsschreiber sowie der Kanzlei.
+- b. die Gebühren, Kosten und Entschädigungen, c.[^7-1] die Organisation und die Aufgaben der Gerichtsschreiberinnen und Gerichtsschreiber sowie der Kanzlei.
 
-<sup>2</sup> Die Verordnungen gemäss lit. a und b bedürfen der Genehmigung des Kantonsrates.[^hBOrganisationdes-9]
+<sup>2</sup> Die Verordnungen gemäss lit. a und b bedürfen der Genehmigung des Kantonsrates.[^7-2]
 
 **Wahlen, Personal**
 
-§ 8.[^hBOrganisationdes-1] <sup>1</sup> Das Plenum wählt:
+§ 8.[^7-3] <sup>1</sup> Das Plenum wählt:
 
 - a. die Präsidentin oder den Präsidenten in erster Linie aus der Zahl der vollamtlichen Mitglieder,
 
@@ -178,32 +191,25 @@ Der Kantonsrat kann den Zuständigkeitsbereich des Sozialversicherungsgerichts a
 
 **Spruchkörper**
 
-§ 9.[^hBOrganisationdes-9] <sup>1</sup> Die Kammer wird für ihre Entscheide mit insgesamt drei Richterinnen und Richtern besetzt.
+§ 9.[^7-2] <sup>1</sup> Die Kammer wird für ihre Entscheide mit insgesamt drei Richterinnen und Richtern besetzt.
 
 <sup>2</sup> In der Regel führt die Präsidentin, der Präsident, eine Vizepräsidentin oder ein Vizepräsident den Vorsitz.
 
 <sup>3</sup> Die Referentin oder der Referent erlässt Erledigungsverfügungen, ausgenommen Nichteintretensentscheide.
 
-<sup>4</sup> An den Verhandlungen und Beratungen nimmt eine Gerichtsschreiberin oder ein Gerichtsschreiber teil. Sie oder er hat beratende Stimme.[^hBOrganisationdes-10]
+<sup>4</sup> An den Verhandlungen und Beratungen nimmt eine Gerichtsschreiberin oder ein Gerichtsschreiber teil. Sie oder er hat beratende Stimme.[^7-1]
 
 <sup>5</sup> Entscheide können bei Einstimmigkeit auf dem Zirkulationsweg getroffen werden.
 
-[^hBOrganisationdes-1]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
-[^hBOrganisationdes-2]: Eingefügt durch G vom 30. August 2004 (OS 59, 398). In Kraft seit 1. Januar 2005 (OS 59, 410).
-[^hBOrganisationdes-3]: LS 212.83.
-[^hBOrganisationdes-4]: Fassung gemäss G über die Anpassung der kantonalen Behördenorganisation und des kantonalen Prozessrechts in Zivil- und Strafsachen an die neuen Prozessgesetze des Bundes vom 10. Mai 2010 (OS 65, 520, 572; ABl 2009, 1489). In Kraft seit 1. Januar 2011.
-[^hBOrganisationdes-5]: LS 211.1.
-[^hBOrganisationdes-6]: Eingefügt durch G über die Wahl von teilamtlichen Mitgliedern der Gerichte vom 4. Januar 1999 (OS 56, 43). In Kraft seit 1. März 2000 (OS 56, 56).
-[^hBOrganisationdes-7]: LS 161.
-[^hBOrganisationdes-8]: Fassung gemäss Gesetz über die politischen Rechte vom 1. September 2003 (OS 58, 289). In Kraft seit 1. Januar 2005 (OS 59, 194).
-[^hBOrganisationdes-9]: Fassung gemäss G vom 30. August 2004 (OS 59, 398). In Kraft seit 1. Januar 2005 (OS 59, 410).
-[^hBOrganisationdes-10]: Fassung gemäss G vom 25. November 2019 (OS 75, 270; ABl 2018-06-01). In Kraft seit 1. Juni 2020.
+[^7-1]: Fassung gemäss G vom 25. November 2019 (OS 75, 270; ABl 2018-06-01). In Kraft seit 1. Juni 2020.
+[^7-2]: Fassung gemäss G vom 30. August 2004 (OS 59, 398). In Kraft seit 1. Januar 2005 (OS 59, 410).
+[^7-3]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
 
 #### § 10
 
 **Vorsitz**
 
-<sup>1</sup> Das vorsitzende Mitglied trifft die prozessleitenden Anordnungen. Es kann diese Befugnis einem Mitglied des Gerichts oder einer Gerichtsschreiberin oder einem Gerichtsschreiber übertragen.[^hBOrganisationdes-10]
+<sup>1</sup> Das vorsitzende Mitglied trifft die prozessleitenden Anordnungen. Es kann diese Befugnis einem Mitglied des Gerichts oder einer Gerichtsschreiberin oder einem Gerichtsschreiber übertragen.[^7-1]
 
 <sup>2</sup> Das vorsitzende Mitglied kann Verweise erteilen und Ordnungsbussen auferlegen. Es kann diese Befugnisse einem Mitglied des Gerichts übertragen.
 
@@ -266,17 +272,19 @@ Die Parteien können sich vertreten oder verbeiständen lassen.
 
 <sup>1</sup> Einer Partei, der die nötigen Mittel fehlen und deren Begehren nicht aussichtslos erscheint, wird in kostenpflichtigen Verfahren auf Gesuch die Bezahlung von Verfahrenskosten und Kostenvorschüssen erlassen.[^15-1]
 
+**5**
+
+- 1\. 7. 21 - 113
+
 <sup>2</sup> Es wird ihr überdies auf Gesuch eine unentgeltliche Rechtsvertretung bestellt, wenn sie nicht in der Lage ist, ihre Rechte im Verfahren selbst zu wahren.
 
 <sup>3</sup> Juristischen Personen wird die unentgeltliche Rechtspflege nicht gewährt.
 
 <sup>4</sup> Eine Partei, der die unentgeltliche Rechtspflege gewährt wurde, ist zur Nachzahlung verpflichtet, sobald sie dazu in der Lage ist. Der Anspruch des Kantons verjährt zehn Jahre nach Abschluss des Verfahrens.
 
-**5**
-
-- 1\. 7. 20 - 109 § 17.[^16-1] <sup>1</sup> Der Beschwerde kommt aufschiebende Wirkung zu, soweit die angefochtene Anordnung dieser zugänglich ist und die Vorinstanz nicht etwas anderes bestimmt hat. Das Gericht kann eine gegenteilige Anordnung treffen.
-
 **Aufschiebende Wirkung und vorsorgliche Massnahmen**
+
+§ 17.[^16-1] <sup>1</sup> Der Beschwerde kommt aufschiebende Wirkung zu, soweit die angefochtene Anordnung dieser zugänglich ist und die Vorinstanz nicht etwas anderes bestimmt hat. Das Gericht kann eine gegenteilige Anordnung treffen.
 
 <sup>2</sup> Das Gericht trifft auf Antrag oder von Amtes wegen die erforderlichen vorsorglichen Massnahmen.
 
@@ -360,39 +368,33 @@ Die Verhandlungen des Gerichts sind öffentlich. Das Gericht kann die Öffentlic
 
 <sup>2</sup> Es kann die angefochtene Anordnung zum Nachteil einer Partei ändern oder dieser mehr zusprechen, als sie verlangt hat. Den Parteien wird vorher Gelegenheit zur Stellungnahme sowie zum Rückzug der Beschwerde gegeben.
 
-[^24-1]: Fassung gemäss G vom 30. August 2004 (OS 59, 398). In Kraft seit 1. Januar 2005 (OS 59, 410).
+**7**
 
-#### § 26
+- 1\. 7. 21 - 113 § 26. <sup>1</sup> Das Gericht kann die Angelegenheit zu neuer Entscheidung an die Vorinstanz zurückweisen, besonders wenn mit dem angefochtenen Entscheid nicht auf die Sache eingetreten oder der Sachverhalt ungenügend festgestellt wurde.
 
 **Rückweisung**
 
-<sup>1</sup> Das Gericht kann die Angelegenheit zu neuer Entscheidung an die Vorinstanz zurückweisen, besonders wenn mit dem angefochtenen Entscheid nicht auf die Sache eingetreten oder der Sachverhalt ungenügend festgestellt wurde.
-
-<sup>2</sup> Im Verwaltungsverfahren sind neue tatsächliche Behauptungen und die Bezeichnung neuer Beweismittel zulässig. Dem neuen Entscheid wird die rechtliche Beurteilung zugrunde gelegt, mit der die Rückweisung begründet wurde.[^26-1]
+<sup>2</sup> Im Verwaltungsverfahren sind neue tatsächliche Behauptungen und die Bezeichnung neuer Beweismittel zulässig. Dem neuen Entscheid wird die rechtliche Beurteilung zugrunde gelegt, mit der die Rückweisung begründet wurde.[^24-2]
 
 **Inhalt und Mitteilung der Entscheide**
 
-§ 27. <sup>1</sup> Die Entscheide werden schriftlich mitgeteilt. Sie enthalten die Besetzung des Gerichts, eine Begründung, das Dispositiv und eine Rechtsmittelbelehrung.[^26-2]
+§ 27. <sup>1</sup> Die Entscheide werden schriftlich mitgeteilt. Sie enthalten die Besetzung des Gerichts, eine Begründung, das Dispositiv und eine Rechtsmittelbelehrung.[^24-1]
 
-**7**
-
-- 1\. 7. 20 - 109
-
-<sup>2</sup> Das Gericht kann Entscheide ohne Begründung mitteilen und den Parteien anzeigen, dass sie innert 30 Tagen schriftlich die Begründung verlangen können, ansonst der Entscheid in Rechtskraft erwachse. Die Rechtsmittelfristen beginnen mit der Zustellung des begründeten Entscheids zu laufen.[^26-3]
+<sup>2</sup> Das Gericht kann Entscheide ohne Begründung mitteilen und den Parteien anzeigen, dass sie innert 30 Tagen schriftlich die Begründung verlangen können, ansonst der Entscheid in Rechtskraft erwachse. Die Rechtsmittelfristen beginnen mit der Zustellung des begründeten Entscheids zu laufen.[^24-3]
 
 **Ergänzende Bestimmungen**
 
-§ 28.[^26-4] Ergänzend finden sinngemäss Anwendung:
+§ 28.[^24-4] Ergänzend finden sinngemäss Anwendung:
 
 - a. die Zivilprozessordnung,
 
-- b. §§ 121 f., 124 f. und 132–136 GOG[^26-5].
+- b. §§ 121 f., 124 f. und 132–136 GOG[^24-5].
 
-[^26-1]: Eingefügt durch G vom 30. August 2004 (OS 59, 398). In Kraft seit 1. Januar 2005 (OS 59, 410).
-[^26-2]: Fassung gemäss G vom 30. August 2004 (OS 59, 398). In Kraft seit 1. Januar 2005 (OS 59, 410).
-[^26-3]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
-[^26-4]: Fassung gemäss G vom 25. November 2019 (OS 75, 270; ABl 2018-06-01). In Kraft seit 1. Juni 2020.
-[^26-5]: LS 211.1.
+[^24-1]: Fassung gemäss G vom 30. August 2004 (OS 59, 398). In Kraft seit 1. Januar 2005 (OS 59, 410).
+[^24-2]: Eingefügt durch G vom 30. August 2004 (OS 59, 398). In Kraft seit 1. Januar 2005 (OS 59, 410).
+[^24-3]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
+[^24-4]: Fassung gemäss G vom 25. November 2019 (OS 75, 270; ABl 2018-06-01). In Kraft seit 1. Juni 2020.
+[^24-5]: LS 211.1.
 
 ### D. Revision
 
@@ -415,11 +417,9 @@ Die Verhandlungen des Gerichts sind öffentlich. Das Gericht kann die Öffentlic
 
 <sup>1</sup> Das Revisionsgesuch ist innert 90 Tagen, von der Entdeckung des Revisionsgrundes an gerechnet, beim Gericht schriftlich einzureichen.
 
-<sup>2</sup> Nach Ablauf von zehn Jahren seit der Mitteilung des Entscheids ist ein Revisionsgesuch nur noch aus den in § 29 lit. b und c genannten Gründen zulässig.[^30-1]
+<sup>2</sup> Nach Ablauf von zehn Jahren seit der Mitteilung des Entscheids ist ein Revisionsgesuch nur noch aus den in § 29 lit. b und c genannten Gründen zulässig.[^30-1] § 31.[^30-2] <sup>1</sup> Das Revisionsgesuch muss die Revisionsgründe angeben sowie die für den Fall einer neuen Anordnung in der Sache gestellten Anträge enthalten, und es ist nachzuweisen, dass die Frist gemäss § 30 eingehalten wurde.
 
 **Gesuch**
-
-§ 31.[^30-2] <sup>1</sup> Das Revisionsgesuch muss die Revisionsgründe angeben sowie die für den Fall einer neuen Anordnung in der Sache gestellten Anträge enthalten, und es ist nachzuweisen, dass die Frist gemäss § 30 eingehalten wurde.
 
 <sup>2</sup> Beweismittel sollen beigelegt oder, soweit dies nicht möglich ist, genau bezeichnet werden.
 
@@ -468,19 +468,19 @@ Das Revisionsverfahren richtet sich im Übrigen sinngemäss nach der Zivilprozes
 
 § 35.[^hFSchiedsgericht-1] Das Schiedsgericht beurteilt als einzige kantonale Instanz Streitigkeiten nach Art. 89 KVG[^hFSchiedsgericht-2], Art. 57 UVG[^hFSchiedsgericht-3], Art. 26 Abs. 4 und Art. 27<sup>bis</sup> IVG[^hFSchiedsgericht-4] sowie Art. 27 MVG[^hFSchiedsgericht-5].
 
-**2. Stellung und Aufsicht**
+**9**
 
-§ 36.[^hFSchiedsgericht-6] <sup>1</sup> Das Schiedsgericht ist dem Sozialversicherungsgericht angegliedert und untersteht seiner administrativen Aufsicht.
+- 1\. 7. 21 - 113 § 36.[^hFSchiedsgericht-6] <sup>1</sup> Das Schiedsgericht ist dem Sozialversicherungsgericht angegliedert und untersteht seiner administrativen Aufsicht.
+
+**2. Stellung und Aufsicht**
 
 <sup>2</sup> Über Ausstandsbegehren sowie Rechtsverzögerungs- und Rechtsverweigerungsbeschwerden entscheiden die voll- und teilamtlichen Mitglieder einer Kammer des Sozialversicherungsgerichts, der weder das leitende Mitglied des Schiedsgerichts noch seine Stellvertretung angehören.[^hFSchiedsgericht-1]
 
 <sup>3</sup> Das Sozialversicherungsgericht erlässt eine Verordnung gemäss den §§ 38 Abs. 3 und 47 Abs. 2. Die Verordnung unterliegt der Genehmigung durch den Kantonsrat.
 
-**9**
-
-- 1\. 7. 20 - 109 § 37.[^hFSchiedsgericht-6] Die §§ 4, 5 a, 8–10 und 12–32 kommen ergänzend zur Anwendung.
-
 **3. Ergänzendes Recht**
+
+§ 37.[^hFSchiedsgericht-6] Die §§ 4, 5 a, 8–10 und 12–32 kommen ergänzend zur Anwendung.
 
 **Organisation 1. Bestand**
 
@@ -554,17 +554,17 @@ Das Revisionsverfahren richtet sich im Übrigen sinngemäss nach der Zivilprozes
 
 <sup>3</sup> Wird der Prozess im Sühnverfahren erledigt, werden keine Entschädigungen zugesprochen. Abweichende Vereinbarungen der Parteien bleiben vorbehalten.[^hFSchiedsgericht-1]
 
-**Instruktionsverfahren 1. Schriftenwechsel; Beweisverfahren**
+**11**
 
-§ 48.[^hFSchiedsgericht-8] <sup>1</sup> Findet keine Sühnverhandlung statt oder kann der Rechtsstreit im Sühnverfahren nicht erledigt werden, wird der klägerischen Partei Gelegenheit gegeben, die Klagebegründung zu ergänzen und weitere Beweismittel einzureichen.
+- 1\. 7. 21 - 113 § 48.[^hFSchiedsgericht-8] <sup>1</sup> Findet keine Sühnverhandlung statt oder kann der Rechtsstreit im Sühnverfahren nicht erledigt werden, wird der klägerischen Partei Gelegenheit gegeben, die Klagebegründung zu ergänzen und weitere Beweismittel einzureichen.
+
+**Instruktionsverfahren 1. Schriftenwechsel; Beweisverfahren**
 
 <sup>2</sup> Im Übrigen richten sich der Schriftenwechsel und die Durchführung eines Beweisverfahrens nach den Bestimmungen, wie sie vor dem Sozialversicherungsgericht gelten.
 
-**11**
-
-- 1\. 7. 20 - 109 § 49.[^hFSchiedsgericht-8] <sup>1</sup> Sofern das Schiedsgericht nicht bereits für das Sühnverfahren entsprechend ergänzt worden ist, erhält jede Partei Gelegenheit, aus der ihre Seite betreffenden Gruppe der Versicherungsträger oder Leistungserbringer und dort aus der den Fall betreffenden Untergruppe eine Schiedsrichterin oder einen Schiedsrichter vorzuschlagen. Sie kann sich zum Vorschlag der Gegenpartei äussern.
-
 **2. Bezeichnung der weiteren Mitglieder**
+
+§ 49.[^hFSchiedsgericht-8] <sup>1</sup> Sofern das Schiedsgericht nicht bereits für das Sühnverfahren entsprechend ergänzt worden ist, erhält jede Partei Gelegenheit, aus der ihre Seite betreffenden Gruppe der Versicherungsträger oder Leistungserbringer und dort aus der den Fall betreffenden Untergruppe eine Schiedsrichterin oder einen Schiedsrichter vorzuschlagen. Sie kann sich zum Vorschlag der Gegenpartei äussern.
 
 <sup>2</sup> Das leitende Mitglied bestimmt je eine Schiedsrichterin oder einen Schiedsrichter aus den den Fall betreffenden Untergruppen.
 
