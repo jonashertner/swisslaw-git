@@ -3,13 +3,12 @@ canton: BS
 number: "310.800"
 title: Verordnung betreffend Ausrichtung von Inkonvenienzentschädigungen für Geburtshilfe und Wochenbettbetreuung
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
+version: 2021-07-01
 version_adopted: 2021-01-12
 adopted: 2011-12-06
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/310.800"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5161/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5286/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5161/pdf_file"
 
 Geburtshilfe und Wochenbettbetreuung, Entschädigung: Verordnung | Medizinalpersonen/Komplementärmedizin
 
-Vom 6. Dezember 2011 (Stand 1. Januar 2021)
+Vom 6. Dezember 2011 (Stand 1. Juli 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -45,6 +44,12 @@ beschliesst:
 **Wochenbettbetreuung**
 
 <sup>1</sup> Um Anspruch auf Inkonvenienzentschädigung zu begründen, hat die Wochenbettbetreuung spätestens 96 Stunden nach erfolgter Geburt zu beginnen.
+
+#### § 3
+
+**Elektronische Abrechnung**
+
+<sup>1</sup> Die Inkonvenienzentschädigung ist von den in eigener fachlicher Verantwortung tätigen Geburtshelferinnen und Geburtshelfern, von den ambulanten Einrichtungen der Geburtshilfe oder von den Geburtshäusern direkt bei der entsprechenden kantonalen Stelle elektronisch in Rechnung zu stellen. Diese kann Ausnahmen von der Pflicht zur elektronischen Abrechnung vorsehen. Das Gesundheitsdepartement regelt die Einzelheiten der elektronischen Abrechnung in einem Reglement.
 
 *Schlussbestimmung*
 
