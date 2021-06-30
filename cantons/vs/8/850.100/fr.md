@@ -1,839 +1,1103 @@
 ---
 canton: VS
 number: "850.100"
-title: "Règlement d'exécution de la loi sur l'intégration et l'aide sociale"
-short: RELIAS
+title: "Ordonnance sur l'intégration et l'aide sociale"
+short: OLIAS
 language: fr
-version: 2016-01-01
-corrected: 2017-10-11
-version_adopted: 2015-11-18
+version: 2021-07-01
+valid_until: 2024-09-30
+version_adopted: 2021-04-21
 adopted: 2021-04-21
 in_force: 2021-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.100"
-pdf: "https://lex.vs.ch/api/fr/versions/161/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3013/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Règlement d'exécution de la loi sur l'intégration et l'aide sociale (RELIAS)
+# Ordonnance sur l'intégration et l'aide sociale
 
-du 7 décembre 2011
+(OLIAS)
+
+du 21.04.2021 (état 01.07.2021)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l'article 57, alinéa 1 de la Constitution cantonale;
+vu l'article 57 alinéa 1 de la Constitution cantonale;
 
-vu les dispositions de la loi cantonale sur l'intégration et l'aide sociale (LIAS) du 29 mars 1996;
+vu la loi cantonale sur l'intégration et l'aide sociale du 10 septembre 2020 (LIAS);
 
-sur la proposition du Département de la sécurité, des affaires sociales et de l’intégration,
+sur la proposition du département en charge des affaires sociales,
 
-arrête:
+ordonne[^ingress-1]:
 
-### Section 1: Dispositions générales
+[^ingress-1]: Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction vise indifféremment la femme ou l’homme
+
+## 1 Dispositions générales
 
 #### Art. 1
 
-**Subsidiarité (art. 2 LIAS)**
-
-<sup>1</sup> La subsidiarité existe par rapport à tout revenu, même ceux qui proviennent du droit de la famille conformément aux dispositions du code civil suisse ou de la loi fédérale sur le partenariat enregistré entre personnes du même sexe.
-
-<sup>2</sup> Le département émet des directives précisant le montant des revenus et de la fortune pris en compte et la franchise laissée à disposition, ainsi que la contribution de la parenté aux frais d’aide sociale et aux frais de placement.
-
-<sup>3</sup> L’aide sociale intervient lorsque la personne a démontré qu’elle ne peut subvenir à son entretien, d’une manière suffisante ou à temps, par ses propres moyens. Elle peut être octroyée, sous certaines conditions, dans l’attente de l’obtention d’une prestation financière, notamment d’une assurance sociale ou privée, de la réalisation d’un bien ou du partage d’une succession ou du régime matrimonial.
-
-<sup>4</sup> Le principe de subsidiarité de l'aide implique plusieurs obligations pour les membres de l’unité familiale bénéficiaires de l’aide, notamment:
-
-- a) tout mettre en œuvre pour éviter ou limiter le montant de l’aide financière;
-
-- b) accepter tout emploi convenable permettant de subvenir partiellement ou entièrement à leur entretien et à celui des membres de l’unité familiale. Est considéré comme convenable un travail qui correspond à l’âge, à l’état de santé et à la situation personnelle du bénéficiaire. L’emploi ne doit pas se limiter à la profession initiale ou déjà exercée;
-
-- c) faire valoir sans délai leurs droits à des ressources financières, notamment auprès d’une administration, d’une assurance, d’un tiers, ou d’un ex-conjoint;
-
-- d) entreprendre les démarches pour réaliser un bien mobilier ou immobilier, sous réserve des articles 11 et 50 du présent règlement;
-
-- e) en cas d’aide sociale octroyée à titre d’avance sur une prestation financière à venir, le bénéficiaire est tenu d’accomplir dans le délai fixé par l’autorité d’aide sociale les actes nécessaires à ce que cette dernière puisse ensuite récupérer l’avance concédée. Il peut s’agir de la signature d’une cession, de la constitution d’un gage mobilier ou immobilier ou de l’introduction d’une action judiciaire.
-
-<sup>5</sup> Si les démarches pour obtenir une ressource financière ne sont pas effectuées dans un temps raisonnable par le bénéficiaire, on peut considérer que la personne y a renoncé. Dans ce cas, le principe de subsidiarité permet de rendre une décision de sanction, d’inclure au budget un revenu hypothétique ou un montant de fortune hypothétique ou de refuser l’aide sociale (art. 42 et suivants).
-
-#### Art. 2
-
-Dessaisissement - Renonciation (art. 2 al. 3 LIAS et 19bis al. 3 LIAS)
-
-<sup>1</sup> Le revenu déterminant inclut les éléments de revenu ou de fortune dont un ayant droit membre de l’unité familiale s'est dessaisi ou auxquels il a renoncé.
-
-<sup>2</sup> En cas de dessaisissement, les principes de calcul contenus dans la loi sur les prestations complémentaires à l’AVS/AI s’appliquent. Le délai pour entreprendre les actions en récupération de ces montants est celui fixé dans le cadre de la loi sur les poursuites et la faillite.
-
-<sup>3</sup> La renonciation est avérée notamment si l’un des membres de l’unité familiale:
-
-- a) a renoncé à des éléments de revenu ou de fortune sans y avoir été tenu juridiquement et sans avoir reçu en échange une contre-prestation adéquate;
-
-- b) ne permet pas, par son comportement, la détermination ou le versement d’une prestation financière à laquelle il pourrait prétendre de la part d’un tiers.
-
-#### Art. 3
-
-<sup>1</sup> Notion d’unité familiale (art. 2 al. 4 LIAS)
-
-<sup>1</sup> Les enfants à charges sont les enfants mineurs, ainsi que les enfants majeurs de moins de 25 ans révolus, qui n'ont pas achevé de formation appropriée, font ménage commun avec le demandeur et ne sont pas autonomes financièrement.
-
-<sup>2</sup> Les enfants à charge qui sont momentanément absents du domicile du demandeur pour raisons d'études ou de formation, sont considérés comme faisant ménage commun avec celui-ci. Le montant du forfait d’entretien est toutefois adapté en conséquence.
-
-<sup>3</sup> Le dossier est ouvert au nom de l'enfant ou du jeune adulte en cas de placement et dans les cas prévus par les directives du département en charge des affaires sociales.
-
-<sup>4</sup> Le budget d’aide sociale intègre les possibilités d’emprunts, de bourse, de prêt d’honneur et de contribution d’entretien des parents ou des avances de l’ORAPA, ainsi que les possibilités de revenu d’appoint.
-
-<sup>5</sup> Sont considérées comme concubines, les personnes vivant en concubinage stable. C'est le cas si elles ont un enfant commun ou si elles font ménage commun de manière ininterrompue depuis plus d'une année.
-
-### Section 2: Organisation de l'aide sociale
-
-#### Art. 4
-
-**Autorité communale (art. 4, 7 al. 1 litt. i LIAS)**
-
-<sup>1</sup> La commune saisie d’une demande d’aide sociale examine d’office sa compétence. Si elle s’estime incompétente, elle indique au demandeur d’aide l'autorité qu'elle tient pour compétente. A la demande de la personne, elle rend une décision sujette à recours.
-
-<sup>2</sup> L'autorité indique au demandeur d’aide les autres personnes, services, ou institutions susceptibles de lui procurer l'aide requise ou, cas échéant, les sollicite elle-même pour intervenir.
-
-<sup>3</sup> Lors d’un changement de domicile d’assistance, la commune de l’ancien domicile d’assistance reste compétente pour verser l’aide sociale durant 30 jours. Ce délai permet à la nouvelle commune de rendre une décision sur le droit à l’aide sociale. Les frais de déménagement sont pris en charge par la commune du précédent domicile d’assistance.
-
-#### Art. 5
-
-Service social et centres médico-sociaux (art. 4 et art. 9 al. 2 LIAS)
-
-<sup>1</sup> Pour accomplir leurs tâches définies par la loi sur l’aide sociale, les communes doivent disposer d'un service social ou déléguer leurs tâches aux centres médico-sociaux régionaux ou subrégionaux.
-
-<sup>2</sup> Les relations financières entre la commune et le centre médico-social concernant l’aide sociale font l’objet d’une directive du département.
-
-<sup>3</sup> La commune et le centre médico-social accomplissent les tâches suivantes:
-
-- a) contribution à la prévention sociale et collaboration avec les institutions privées et publiques;
-
-- b) instruction des dossiers d’aide sociale et transmission à l'autorité compétente pour décision;
-
-- c) versement des montants d’aide d’urgence décidés par la commune ou par le canton, sur la base des articles 4 alinéa 2 lettre b, 7 alinéa 1 lettre e, 7 alinéa 2, 14 alinéa 4 et 19quater alinéa 5 de la loi et des articles 6 alinéa 3 et 32 du présent règlement.
-
-<sup>4</sup> L’organigramme des centres médico-sociaux comprenant la liste des fonctions, professions et qualifications, est soumis à l’approbation du département chargé des affaires sociales. L’organigramme sert de base à la reconnaissance des budgets de fonctionnement des centres médico-sociaux.
-
-#### Art. 6
-
-**Département compétent (art. 7 LIAS)**
-
-<sup>1</sup> En sa qualité d'autorité de contrôle, le département, par son service de l’action sociale, est habilité notamment à:
-
-- a) mandater le centre médico-social de la région pour l'évaluation de la situation, l'établissement de rapports et l'organisation des mesures adéquates, lorsqu'une commune ne dispose pas du personnel qualifié nécessaire à l'accomplissement des tâches d'aide sociale ou n’a pas mandaté de centre médico-social;
-
-- b) déterminer le contenu des formulaires d’aide sociale et définir quels sont les documents que les autorités communales doivent remettre au canton en vue de l’établissement des décomptes, de la reconnaissance des montants d’aide sociale et de la statistique;
-
-- c) rendre les décisions de refus de reconnaissance des frais d’aide sociale, lorsque ceux-ci ne sont pas justifiés ou lorsque la commune n’a pas procédé aux démarches nécessaires à en garantir le remboursement (art. 39 et 40).
-
-<sup>2</sup> Le département met à disposition des communes et des centres médico-sociaux l'application informatique permettant la saisie et la gestion des dossiers. Ces frais sont répartis selon la loi sur l'harmonisation du financement des régimes sociaux et d'insertion socio-professionnelle. Les frais de connexion sont à charge des communes.<sup>1</sup>
-
-<sup>3</sup> Le département délègue au service de l’action sociale la compétence de rendre les décisions de mesures urgentes au sens de l’article 7 alinéa 1 lettre e de la loi. Le service de l’action sociale est également compétent pour rendre ces décisions dans le cadre de la procédure de recours contre les décisions communales, en tant qu’organe chargé de l’instruction du recours pour le Conseil d’Etat.
-
-#### Art. 7
-
-**Conseil de l'action sociale (art. 8 LIAS)**
-
-<sup>1</sup> Le Conseil d'Etat nomme au début de chaque période administrative un Conseil de l’action sociale de neuf à 15 membres, choisis dans les différentes régions du canton et comprenant des représentants des communes ainsi que des organisations concernées. Il se réunit au moins une fois par semestre.
-
-<sup>2</sup> Le Conseil de l’action sociale est présidé par la Cheffe ou le Chef du département en charge des affaires sociales. Le secrétariat est assumé par le service de l'action sociale.
-
-<sup>3</sup> Le Conseil de l’action sociale peut faire appel à des personnes extérieures, suivant les domaines traités.
-
-### Section 3: Groupes particuliers de personnes (Art. 10 al. 6, 19bis al. 6, 22 LIAS)
-
-#### Art. 8
-
-**Droit à l’aide sociale**
-
-<sup>1</sup> La détermination du droit à l’aide sociale se base sur la LIAS, le présent règlement, les directives du département et subsidiairement, les normes de la Conférence suisse des institutions d’action sociale (CSIAS).
-
-<sup>2</sup> Demeure réservée la situation des catégories de personnes pour lesquelles l’aide sociale est subordonnée à des conditions particulières ou limitée dans le montant, ou dans le temps. Le département émet les directives fixant les modalités d’application relatives à ces catégories.
-
-#### Art. 9
-
-<sup>1</sup> Jeunes adultes et personnes en formation
-
-<sup>1</sup> L’aide sociale pour les jeunes adultes sans formation, âgés de moins de 25 ans révolus, est subordonnée à un examen des possibilités d’entreprendre une formation professionnelle de base.
-
-<sup>2</sup> Si le jeune adulte ne souhaite pas effectuer une formation, il doit remplir les mêmes conditions que les bénéficiaires ordinaires d’aide sociale. S’il est apte au travail, il doit notamment s’inscrire au chômage et rechercher un emploi.
-
-<sup>3</sup> Si une formation est acceptée, les coûts de mesures préparatoires et de formation peuvent être inclus au budget d’aide sociale.
-
-<sup>4</sup> Le financement par l'aide sociale d'une formation de base pour les plus de 25 ans, ou d'une seconde formation est soumis à autorisation du service de l'action sociale.
-
-<sup>5</sup> Les conditions et la procédure sont réglées par une directive du département en charge des affaires sociales. Dans tous les cas, les possibilités de formation en cours d'emploi doivent être privilégiées.
-
-<sup>6</sup> Les jeunes adultes demandant l'aide sociale doivent vivre dans le ménage de l'un des parents, sauf exception dûment motivée par un médecin ou une autre autorité habilitée à se prononcer. Dans ce dernier cas, la solution de logement la plus économique doit être privilégiée.
-
-<sup>7</sup> Le forfait d'entretien des jeunes adultes est réduit. Les montants et exceptions sont fixés par le Département en charge des affaires sociales dans la directive sur le calcul du budget.
-
-#### Art. 10
-
-**Indépendants**
-
-<sup>1</sup> Exercent une activité lucrative indépendante au sens du présent règlement, les personnes affiliées en cette qualité auprès d'une caisse AVS.
-
-<sup>2</sup> Une aide peut leur être octroyée à condition que leur activité paraisse viable au terme d’un délai maximum de six mois. En cas de doute, le caractère viable de l’entreprise peut être déterminé par un spécialiste neutre, telle une entreprise fiduciaire. Le coût d’expertise est reconnu comme une dépense d’aide sociale. Le département définit les conditions de reconnaissance et la hauteur maximale de ces frais et définit les prolongations exceptionnelles de délai.
-
-<sup>3</sup> Si la condition de viabilité est remplie, l’indépendant peut bénéficier d’une aide sociale; les frais de fonctionnement liés à l'entreprise ne sont pas inclus dans le budget d’aide sociale.
-
-<sup>4</sup> L’aide sociale est accordée de manière dégressive. Elle est calculée sur la base d’un revenu hypothétique progressif.
-
-<sup>5</sup> La commune, au besoin par l’intermédiaire du spécialiste mandaté précédemment, vérifie régulièrement la progression du chiffre d’affaire. S’il s’avère que l’autonomie financière ne pourra pas être atteinte dans le délai fixé, la condition posée à l’alinéa 2 n’est plus réalisée et la commune détermine s’il y a lieu d’interrompre l’aide octroyée sur cette base. Elle examine si les conditions ordinaires d’attribution de l’aide sociale sont remplies.
-
-#### Art. 11
-
-**Propriétaires de bien mobilier ou immobilier**
-
-<sup>1</sup> Les propriétaires d’un bien immobilier ne peuvent toucher une aide sociale qu’aux conditions fixées par les articles 22 de la loi et 50 du présent règlement. Les biens à l’étranger sont pris en compte dans la mesure du possible.
-
-<sup>2</sup> S’il s’agit d’un bien mobilier, la commune examine si un gage mobilier peut être constitué ou s’il est opportun d’exiger la vente du bien.
-
-#### Art. 12
-
-**Personnes détentrices d’un permis L**
-
-<sup>1</sup> Les détenteurs d’un permis L et les personnes dont ils ont la charge et faisant ménage commun ont droit à une aide sociale ordinaire s’ils remplissent certaines conditions spécifiques.
-
-<sup>2</sup> Ils doivent avoir un emploi dans le premier marché du travail. L'aide sociale complète le revenu durant la période de validité du permis. Avant la prise d'un emploi ou après la fin des rapports de travail, il n'y a pas de droit à une aide sociale ordinaire. Les exceptions à ces principes sont soumises à autorisation du service de l'action sociale.<sup>1</sup>
-
-#### Art. 13
-
-**Personnes étrangères sans autorisation de séjour**
-
-<sup>1</sup> Les personnes non titulaires d’une autorisation de séjour valable doivent en principe retourner dans leur pays et n’ont pas droit à une aide sociale.
-
-<sup>2</sup> Elles peuvent bénéficier d’une aide financière d’urgence, pour autant qu’elles s’annoncent au service cantonal de la population et des migrations et qu’elles obtiennent de ce service une attestation les autorisant à séjourner pendant le temps nécessaire à l’examen de leur demande ou durant la procédure de recours, en lien avec l’autorisation de séjour.
-
-<sup>3</sup> L’aide d’urgence est déterminée par directive du département chargé des affaires sociales.
-
-### Section 4: Prestations d’aide sociale
-
-#### Art. 14
-
-**Aides matérielles (art. 10 LIAS)**
-
-<sup>1</sup> Une aide matérielle minimum ne peut être refusée à une personne dans le besoin, même si celle-ci est personnellement responsable de son état. Cas échéant, des sanctions peuvent être instaurées sur la base des articles 19bis et suivants de la loi.
-
-<sup>2</sup> Les montants d'aide sociale sont incessibles et insaisissables.
-
-<sup>3</sup> Le département définit les modalités d’établissement du budget pour les situations particulières et la fixation de la contribution financière de tiers, notamment dans les cas de concubinage et de communauté de vie.
-
-#### Art. 15
-
-**Début et fin des prestations (art. 10; 19bis al. 4 LIAS)**
-
-<sup>1</sup> Le droit aux prestations d'aide financière est analysé dès le dépôt de la demande. Si le droit est établi a posteriori, l'aide sociale est versée rétroactivement au dépôt de la demande. Si le demandeur d'aide ne fournit pas les documents demandés dans le délai fixé par les autorités d'aide sociale ou dans un délai raisonnable, le droit à l'aide débute dès le dépôt de ces documents et non pas rétroactivement au dépôt de la demande d'aide.<sup>1</sup>
-
-<sup>2</sup> Suite à l’évaluation initiale de la capacité de travail, l’aide sociale est octroyée pour la durée du contrat d’insertion.
-
-<sup>3</sup> Si, par son comportement, le bénéficiaire de l’aide sociale ne rend pas possible la procédure d’évaluation prévue à l’article 11 alinéa 3 de la loi et que de ce fait, l’établissement du contrat d’insertion ne peut se faire, la commune détermine s’il y a lieu de prononcer une sanction ou si l’attitude du bénéficiaire constitue un abus de droit justifiant de refuser ou de mettre fin à l’aide sociale.
-
-#### Art. 16
-
-Modalités d’octroi de l’aide matérielle (art. 4 al. 2 litt. e, art. 10 LIAS)
-
-<sup>1</sup> L’aide sociale doit être versée les premiers jours du mois pour le mois en cours. S’il n’est pas possible d’établir le montant exact de l’aide dans ce délai, sans que le bénéficiaire n’en soit responsable, une avance est octroyée sur la base du budget prévisible. Le solde est versé dès que le budget définitif peut être établi.
-
-<sup>2</sup> Lorsque le budget est variable et qu’il ne peut être établi en début de mois par la faute du bénéficiaire, l’autorité peut douter de l’indigence de la personne. Elle peut conditionner l’octroi de l’aide sociale à la transmission des pièces dans un délai fixé. Si les documents sont remis après le délai fixé, l’aide est versée pour les jours restants du mois en cours.
-
-<sup>3</sup> En général, l’aide sociale est octroyée en espèce, par versement sur un compte bancaire ou postal. Le centre médico-social vérifie régulièrement et avec diligence l’état de la situation financière et familiale du bénéficiaire, notamment l’utilisation des montants octroyés ou de rentrées d’argent extraordinaires.
-
-<sup>4</sup> Lorsque le bénéficiaire n’utilise pas les montants d'aide sociale pour son entretien et pour celui des personnes dont il a la charge, ou s'il est prouvé qu'il n'est pas capable de le faire, l’autorité peut prendre les dispositions nécessaires, notamment:
-
-- a) verser l’aide par acompte;
-
-- b) régler directement certaines factures, notamment le loyer, les frais médicaux, l’électricité, les primes d’assurances;
-
-- c) verser les prestations financières à un membre de l’unité familiale qui a de meilleures capacités de gestion;
-
-- d) octroyer certaines prestations en nature, durant une période limitée, dans des cas exceptionnels.
-
-<sup>5</sup> Ces modalités particulières doivent respecter le principe de proportionnalité et encourager la personne à recouvrer progressivement son autonomie dans la gestion de ses affaires. Elles font l’objet d’un accord écrit entre les parties ou d’une décision dûment motivée, limitée dans le temps, renouvelable.
-
-<sup>6</sup> Si les mesures prises ne sont pas suffisantes, l’autorité d’aide sociale analyse l’opportunité de signaler le cas aux autorités tutélaires, selon l’article 4 alinéa 2 lettre e de la loi.
-
-#### Art. 17
-
-**Frais de sépulture (art. 3 al. 2 LAS; art. 16 al. 2 litt. a LIAS)**
-
-<sup>1</sup> Les frais de sépulture ne sont pas considérés comme des prestations d’aide sociale. Ils sont assumés par les autorités communales ou cantonales à certaines conditions.
-
-<sup>2</sup> Les frais de sépulture constituent en premier lieu une dette de la succession. L’entreprise doit produire la créance dans la succession et les héritiers sont solidairement responsables de son paiement, jusqu’à concurrence de la valeur des biens recueillis.
-
-<sup>3</sup> Si la succession a été répudiée ou est insolvable, l’entreprise doit agir contre la personne qui a commandé la prestation. L’entreprise doit donc préalablement faire signer à un membre de la famille ou un proche, un document le rendant responsable du paiement, en application des dispositions du code des obligations. S’il s’agit d’un héritier du défunt, il est alors responsable du paiement, même s’il a répudié la succession.
-
-<sup>4</sup> Le prestataire de service doit tenter de recouvrer sa créance par voie de poursuite ou par l’intermédiaire d’une maison d’encaissement. Si la procédure n’aboutit pas, il peut réclamer à l’autorité compétente le remboursement des frais correspondant à un ensevelissement modeste, s’il prouve avoir agi avec diligence. Le département détermine le montant maximum correspondant à un ensevelissement modeste.
-
-<sup>5</sup> Ces frais sont pris en charge exclusivement par la commune de domicile d’assistance ou de séjour pour autant que le défunt y séjournait depuis plus de 30 jours. Si tel n’est pas le cas, ils incombent entièrement à l'Etat.
-
-### Section 5: Contrat d'insertion sociale et professionnelle (art. 11, 19bis al. 4 et al. 5 LIAS)
-
-#### Art. 18
-
-<sup>1</sup> Procédure d'évaluation initiale
-
-<sup>1</sup> La procédure d’évaluation a pour objectif de déterminer l’aptitude au travail et les capacités de formation des personnes.
-
-<sup>2</sup> Elle est obligatoire pour tous les membres majeurs de l’unité familiale. Les enfants mineurs vivant dans le ménage commun peuvent également y être assignés si la situation le justifie. Les personnes doivent collaborer activement dans cette procédure.
-
-<sup>3</sup> Peuvent être exemptés de la procédure d’évaluation:
-
-- a) les personnes exerçant une activité professionnelle régulière à 80 pour cent au moins;
-
-- b) les personnes en formation scolaire ou professionnelle;<sup>1</sup>
-
-- c) les personnes dont l’inaptitude au travail est attestée à plus de 50 pour cent par un certificat médical récent. Dans ces situations, l’opportunité d’une détection précoce de l’AI doit être analysée;
-
-- d) les personnes ayant seules la garde d'un enfant de moins de quatre mois;<sup>1</sup>
-
-- e) d’autres personnes, moyennant une demande dûment motivée de la commune, soumise à l’approbation du service de l’action sociale. Le département détermine les cas d’exemption.
-
-<sup>4</sup> L’avis d’aide sociale adressé au service de l’action sociale doit être accompagné du formulaire d’évaluation initiale, contenant les motifs éventuels d’exemption et la procédure d’évaluation envisagée.
-
-<sup>5</sup> Dans les trois mois suivant la décision d’aide sociale, la commune transmet au service de l’action sociale le rapport d’évaluation, indiquant:
-
-- a) les objectifs convenus au début de l’évaluation;
-
-- b) les mesures mises en œuvre durant l’évaluation;
-
-- c) l’évaluation de l’aptitude au travail;
-
-- d) l’évaluation de la capacité à entreprendre une formation pour les jeunes adultes sans formation;
-
-- e) les recommandations utiles à l’élaboration du contrat d’insertion.
-
-#### Art. 19
-
-**Contrat d'insertion**
-
-<sup>1</sup> Le contrat d’insertion est établi dans le mois qui suit l’évaluation ou, en cas d’exemption de la procédure d’évaluation, dans le mois qui suit la décision d’aide sociale. Il peut concerner chaque membre majeur de l’unité familiale et, cas échéant, les mineurs.
-
-<sup>2</sup> Le contrat se base sur le bilan social effectué par le centre médico-social et sur les résultats de l’évaluation. Il est signé par chaque bénéficiaire concerné de l’unité familiale et l’autorité communale. En cas de contestation de l’une des parties, la commune rend une décision formelle, susceptible de recours auprès du Conseil d’Etat selon les principes généraux de la LPJA et l’article 14 de la loi.
-
-<sup>3</sup> Le contrat précise le projet d’insertion à moyen terme, les mesures d’accompagnement, les échéances fixées, ainsi que toute autre condition particulière liée à son exécution.
-
-<sup>4</sup> Le projet d’insertion contenu dans le contrat est défini entre le centre médico-social et le bénéficiaire. Les objectifs visés peuvent être d’ordre professionnel et/ou non professionnel. Il s’agit notamment de:
-
-- a) l’insertion dans le marché du travail ordinaire;
-
-- b) l’insertion dans une entreprise sociale;
-
-- c) la préservation ou l’amélioration de la situation matérielle, notamment par le biais d’aide à la gestion ou à l'assainissement financier;
-
-- d) l'acquisition ou l'amélioration de la formation professionnelle, pour les jeunes particulièrement;
-
-- e) l’amélioration ou la stabilisation de la situation personnelle et familiale, ainsi que l’autonomie sociale, grâce à des mesures thérapeutiques ou sociales.
-
-<sup>5</sup> Le projet d’insertion tient compte de la situation personnelle et familiale, de la formation professionnelle, de l’âge et de l’état de santé du bénéficiaire. Les vœux exprimés par le bénéficiaire sont pris en considération, autant que possible.
-
-#### Art. 20
-
-**Mesures d’insertion**
-
-<sup>1</sup> Les mesures d’insertion sociales ou professionnelles constituent les principaux outils pour réaliser les objectifs fixés dans le contrat d’insertion. La personne n’a pas un droit à bénéficier d’une mesure déterminée.
-
-<sup>2</sup> Selon le type de mesure, un montant incitatif complémentaire au budget ordinaire d’aide sociale est versé au bénéficiaire. Le catalogue et les modalités d’application de ces différentes mesures d’insertion sociales ou professionnelles, ainsi que les coûts d’encadrement reconnus, sont définis par les directives du département et précisées par le service de l’action sociale. Le département peut conduire des expériences pilotes.
-
-<sup>3</sup> Sur demande motivée des autorités d’application, le département, par le service de l’action sociale, peut autoriser une mesure d’insertion pour une personne qui ne bénéficie pas de prestations financières, mais dont la situation particulière le justifie.
-
-#### Art. 21
-
-**Modalités d’application du contrat d'insertion**
-
-<sup>1</sup> En principe, en cas de changement de domicile au sein du canton durant l’exécution d’une mesure, celle-ci se poursuit. Elle peut être confiée à un autre organisateur si cela se justifie. Une nouvelle procédure d’évaluation n’est pas exigée. Les frais personnels sont adaptés en conséquence, sur la base d’un nouveau contrat.
-
-<sup>2</sup> Si le demandeur d’aide sociale bénéficie de prestations de l’assurance chômage, du soutien du service de la formation professionnelle dans le cadre du case management, ou s’il a demandé des prestations de l’assurance invalidité, une démarche de collaboration doit être entreprise, conformément aux dispositions de la convention de collaboration interinstitutionnelle (CII).
-
-#### Art. 22
-
-**Durée du contrat**
-
-<sup>1</sup> Le contrat d’insertion est limité à six mois. Il est renouvelé en tenant compte des rapports d’évaluation.
-
-<sup>2</sup> Si un changement de situation nécessite une modification du contrat d’insertion ou de la mesure d’insertion, le centre médico-social élabore un nouveau contrat sans attendre qu’il arrive à son terme. Au besoin, il effectue une nouvelle procédure d’évaluation (articles 19 et suivants). Il soumet ensuite le dossier à l’autorité communale pour nouvelle décision.
-
-### Section 6: Relations entre les autorités d’aide sociale et les
-
-bénéficiaires
-
-#### Art. 23
-
-Devoir général de collaboration des bénéficiaires (art. 1 al. 3, art. 11, art. 12 al. 1, art. 19bis et suivants LIAS)
-
-<sup>1</sup> Les bénéficiaires de l’aide sociale doivent faire tous les efforts que l’on peut attendre d’eux pour sauvegarder ou recouvrer leur autonomie financière. Cela implique entre autres de collaborer avec toutes les personnes ou organismes chargés de l’évaluation de leur situation ou de leur réinsertion sociale, professionnelle et économique à savoir notamment:
-
-- a) les autorités d’aide sociale;
-
-- b) les autorités du chômage. Cela implique de s’inscrire comme demandeur d’emploi, même s’ils n’ont pas droit à des prestations financières de l’assurance-chômage, pour autant qu’ils disposent d’une capacité de travail;
-
-- c) toute autre assurance sociale ou privée ou autre organisme qui serait susceptible de fournir une aide financière ou une aide à l’insertion sociale ou professionnelle.
-
-<sup>2</sup> Dans le cadre de l’application de l’article 11 de la loi, la collaboration implique:
-
-- a) de participer à l’élaboration du projet d’insertion et à sa concrétisation;
-
-- b) d’avoir un comportement qui permette de mener à bien la procédure d’évaluation;
-
-- c) d’accepter les mesures proposées, pour autant qu’elles soient raisonnablement exigibles, à savoir susceptibles d’améliorer la capacité d’insertion sociale, la capacité de travail ou qu’elles permettent d’offrir de nouvelles possibilités de gain adaptées à la situation.
-
-<sup>3</sup> Si le bénéficiaire de l’aide ne remplit pas son devoir de collaboration, les articles 19bis et suivants de la loi s’appliquent.
-
-#### Art. 24
-
-**Devoir de transmission d’informations et de documents par le**
-
-bénéficiaire (art. 12 al. 1; art. 19bis et suivants LIAS)
-
-<sup>1</sup> La collaboration implique de transmettre des documents et informations notamment dans les domaines personnel, social, financier et médical. Chaque membre de l’unité familiale doit transmettre des informations complètes, ou lorsque cela est nécessaire, signer une procuration permettant aux autorités d’aide sociale de prendre tous les renseignements en lien avec l’exécution de leurs tâches ou lever le secret bancaire, fiscal ou médical, dans la mesure nécessaire.
-
-<sup>2</sup> Le bénéficiaire doit indiquer l’état de sa fortune et de ses revenus, notamment toute aide économique, financière ou en nature, concédée par un tiers au ménage aidé.
-
-<sup>3</sup> Si la situation médicale pose problème et qu’il y a lieu de déterminer les capacités physiques ou psychiques de réinsertion, la personne concernée doit remettre des certificats médicaux réguliers. L’autorité d’aide sociale en détermine la fréquence. Au besoin, le bénéficiaire de l’aide délie son médecin traitant du secret médical, dans la mesure nécessaire, afin que ce dernier puisse contacter les services sociaux et participer à des séances de réseau dans le cadre de la collaboration interinstitutionnelle (CII).
-
-<sup>4</sup> Tous les membres de l’unité familiale bénéficiant d’une aide sociale sont tenus de signaler sans retard à l'autorité tout changement dans leur situation pouvant entraîner la modification ou la suppression du montant de l'aide, notamment:
-
-- a) une modification de la composition du ménage, des charges de famille ou de l'état civil;
-
-- b) un changement de lieu de séjour ou de domicile;
-
-- c) une variation du revenu mensuel d’un membre de l’unité familiale;
-
-- d) l’obtention ponctuelle d’une somme d’argent (capital ou indemnité d’une assurance sociale ou privée, héritage, réalisation d'un bien mobilier ou immobilier;
-
-- e) le dépôt d’une demande financière à un tiers (bourse, ORAPA, assurance sociale ou privée) ou une procédure en cours pour l’obtention d’une somme d’argent (liquidation successorale, procédure judiciaire ou extra-judiciaire).
-
-#### Art. 25
-
-**Droit au respect de la dignité et de la personnalité**
+**Droit au respect de la dignité et de la personnalité (art. 3 al. 1 let. a LIAS)**
 
 <sup>1</sup> La personne qui sollicite une aide a droit à l’attention et aux égards qui conviennent, dans le respect de sa dignité et de sa personnalité.
 
-<sup>2</sup> Toute autorité et tout fonctionnaire, chargé ou non de l'aide sociale, veillera à n'exercer aucune contrainte sur une personne ou son représentant légal dans le libre choix de son lieu de résidence ou de travail. Sont réservées les dispositions relatives au séjour et à l'établissement des étrangers et les dispositions particulières sur les jeunes adultes.
+<sup>2</sup> Toute personne ou autorité chargée d’appliquer la loi sur l’intégration et l’aide sociale (LIAS) ou la présente ordonnance veillera à n'exercer aucune contrainte sur une personne ou son représentant légal dans le libre choix de son lieu de résidence ou de travail. Sont réservées les dispositions relatives au séjour et à l'établissement des étrangers et les dispositions particulières sur les jeunes adultes et les couples.
+
+#### Art. 2
+
+**Subsidiarité (art. 3 al. 1 let. b LIAS)**
+
+<sup>1</sup> L’aide sociale n'intervient que si la personne ne peut subvenir elle-même à ses besoins et si toutes les autres sources d'aide disponibles ne peuvent être obtenues à temps et dans une mesure suffisante.
+
+#### Art. 3
+
+**Individualisation (art. 3 al. 1 let. c LIAS)**
+
+<sup>1</sup> Les prestations d’aide sociale sont déterminées en fonction de la situation personnelle et financière des membres de l’unité d’assistance, dans le cadre du pouvoir d’appréciation de l'autorité d'aide sociale et des conditions-cadres juridiques.
+
+#### Art. 4
+
+**Proportionnalité de l'aide (art. 3 al. 1 let. d LIAS)**
+
+<sup>1</sup> Les bénéficiaires ne doivent pas être financièrement mieux loties que les personnes vivant dans des conditions économiques modestes, mais sans droit à une aide.
+
+<sup>2</sup> Le droit à une aide matérielle pour les concubins stables se calcule de manière similaire à celui d'un couple marié.
+
+<sup>3</sup> Les décisions et obligations imposées aux bénéficiaires doivent représenter un moyen approprié et nécessaire permettant d’atteindre les objectifs de l’aide sociale.
+
+#### Art. 5
+
+**Prestation et contre-prestation (art. 3 al. 1 let. e LIAS)**
+
+<sup>1</sup> En contrepartie de l’aide octroyée, le bénéficiaire doit participer activement à la sauvegarde ou au rétablissement de son autonomie ainsi qu’à la diminution de son besoin d’aide, notamment:
+
+- a) en cherchant et en acceptant tout emploi convenable permettant de subvenir partiellement ou entièrement à son entretien et à celui des membres de l’unité d’assistance;
+- b) en effectuant les démarches nécessaires à son insertion ou à sa réinsertion, notamment en participant à des mesures;
+- c) en faisant valoir sans délai son droit à des ressources financières;
+- d) en réduisant les coûts fixes excessifs.
+
+<sup>2</sup> Est considéré comme convenable un travail qui correspond à l'âge, à l'état de santé et à la situation personnelle du bénéficiaire. L'emploi ne doit pas se limiter à la profession initiale ou déjà exercée.
+
+#### Art. 6
+
+**Professionnalisme et qualité (art. 3 al. 1 let. f LIAS)**
+
+<sup>1</sup> Les bénéficiaires doivent recevoir des prestations de conseil et d’accompagnement fournies par des professionnels disposant de compétences spécialisées.
+
+#### Art. 7
+
+**Subrogation (art. 31 et 56 LIAS)**
+
+<sup>1</sup> L’autorité d’aide sociale qui alloue une aide matérielle à la personne de nationalité étrangère au bénéfice d’une garantie financière de tiers est subrogée dans les droits du bénéficiaire à l’encontre du garant.
+
+<sup>2</sup> L’autorité d’aide sociale exerce les droits rattachés à la collectivité publique selon le Code civil.
+
+#### Art. 8
+
+**Rapport sur la situation sociale (art. 6 LIAS)**
+
+<sup>1</sup> Le rapport sur la situation sociale doit permettre d’obtenir un état de la situation sociale en Valais et servir d’outil de conduite de la politique sociale.
+
+<sup>2</sup> Les autorités ainsi que les institutions privées actives dans le canton fournissent gratuitement les données nécessaires à l’établissement de ce rapport.
+
+<sup>3</sup> Le département en charge des affaires sociales (ci-après: le département) peut déléguer la réalisation de ce rapport à un expert externe.
+
+## 2 Organisation de l'aide sociale
+
+#### Art. 9
+
+**Type de décision de l'autorité d'aide sociale (art. 7 LIAS)**
+
+<sup>1</sup> L'autorité d'aide sociale rend notamment les décisions suivantes:
+
+- a) octroi de l'aide matérielle, avec ou sans condition;
+- b) mise en place de mesure d'insertion;
+- c) octroi de mesures urgentes pour la durée de l'instruction;
+- d) suppression ou refus de l'aide matérielle;
+- e) sanction et réduction dans les prestations d'aide matérielle;
+- f) obligation de rembourser;
+- g) remise partielle ou totale de la dette d’aide sociale.
+
+<sup>2</sup> Conformément à l’article 7 alinéa 2 LIAS, l'autorité d'aide sociale peut déléguer totalement ou partiellement la compétence de rendre les décisions mentionnées à l’alinéa 1 au centre médico-social.
+
+#### Art. 10
+
+**Les centres médico-sociaux (art. 8 LIAS)**
+
+<sup>1</sup> Le territoire du canton est divisé en cinq régions:
+
+- a) le Haut-Valais;
+- b) le district de Sierre;
+- c) les districts de Sion, Hérens et Conthey;
+- d) les districts de Martigny et Entremont;
+- e) les districts de Saint-Maurice et Monthey.
+
+<sup>2</sup> Chaque région est pourvue d’un centre médico-social.
+
+<sup>3</sup> Pour accomplir les tâches prévues par la LIAS, les autorités d'aide sociale doivent mandater un centre médico-social régional.
+
+<sup>4</sup> L'autorité d'aide sociale et le centre médico-social règlent leurs relations financières concernant l’aide sociale ainsi que les délégations de compétences, par convention, laquelle est transmise au service en charge de l'action sociale (ci-après: le service) pour information.
+
+<sup>5</sup> Toutes les transactions financières en lien avec l’aide matérielle sont effectuées par le centre médico-social. Les autorités d'aide sociale mettent à disposition du centre médico-social un fonds de roulement suffisant pour accomplir cette tâche.
+
+<sup>6</sup> L’organigramme des centres médico-sociaux comprenant la liste des fonctions, professions et qualifications, est soumis à l’approbation du département et sert de base à la reconnaissance des budgets de fonctionnement des centres médico-sociaux.
+
+#### Art. 11
+
+**Organisation faîtière des centres médico-sociaux (art. 9 LIAS)**
+
+<sup>1</sup> L’organisation faîtière se dote de statuts. Ces derniers sont soumis au département pour approbation préalablement à leur adoption par l'assemblée générale.
+
+<sup>2</sup> Les statuts de l’organisation faîtière définissent en particulier les obligations de leurs membres et leur représentation auprès des autorités communales et des différents partenaires.
+
+#### Art. 12
+
+**Le service en charge de l'action sociale (art. 12 LIAS)**
+
+<sup>1</sup> Le service met à disposition les formulaires nécessaires à l’instruction et au suivi des dossiers d’aide matérielle.
+
+<sup>2</sup> L'utilisation de ces formulaires est obligatoire sauf avis contraire du service.
+
+<sup>3</sup> Le service détermine la forme et le contenu des informations, des décomptes périodiques et des décomptes de frais de personnel qui doivent lui être transmis ainsi que les modalités d'application nécessaires.
+
+#### Art. 13
+
+**Attestation (art. 12 al. 1 let. n LIAS)**
+
+<sup>1</sup> L’attestation établie par le service mentionne si et dans quelle mesure la personne a une dette d’aide sociale.
+
+<sup>2</sup> Les centres médico-sociaux et les autorités d’aide sociale peuvent établir des attestations simplifiées indiquant si la personne est actuellement, ou pour une période donnée, au bénéfice d’une aide matérielle.
+
+<sup>3</sup> Il n’est pas perçu d’émolument pour l’établissement des attestations mentionnées ci-dessus.
+
+#### Art. 14
+
+**Le Conseil de l'action sociale (art. 13 LIAS)**
+
+<sup>1</sup> Le Conseil de l'action sociale est composé de 9 à 15 membres, choisis dans les différentes régions du canton et comprenant des représentants des communes ainsi que des organisations concernées.
+
+<sup>2</sup> Il peut être présidé par le chef du département ou une autre personne désignée par le Conseil d'Etat. Le secrétariat est assumé par le service.
+
+<sup>3</sup> Le Conseil de l'action sociale se réunit au moins une fois par année.
+
+<sup>4</sup> Il peut faire appel à des personnes extérieures en fonction des thématiques traitées.
+
+## 3 Compétence à raison du lieu
+
+#### Art. 15
+
+**Présomption de domicile (art. 14 LIAS)**
+
+<sup>1</sup> La personne dans le besoin a son domicile d’assistance dans la commune où elle réside avec l’intention de s’y établir.
+
+<sup>2</sup> La personne qui a déclaré son arrivée au contrôle des habitants, ou l'étranger qui s'est vu délivrer une autorisation de résidence, est considéré comme y ayant constitué son domicile, sauf circonstances particulières.
+
+<sup>3</sup> De telles circonstances particulières peuvent exister notamment si:
+
+- a) la personne ne vit pas à l'endroit indiqué;
+- b) le séjour a commencé plus tôt ou plus tard;
+- c) le séjour n'est que provisoire.
+
+#### Art. 16
+
+**Domicile des enfants mineurs**
+
+<sup>1</sup> Quel que soit son lieu de séjour, l’enfant mineur partage le domicile de ses parents.
+
+<sup>2</sup> Si les parents n’ont pas de domicile commun, l’enfant mineur a son domicile au lieu de domicile du parent avec lequel il vit de manière prépondérante.
+
+<sup>3</sup> Il a un domicile indépendant:
+
+- a) au siège de l’autorité de protection de l’enfant qui exerce la tutelle;
+- b) au lieu fixé à l'article 15, lorsqu'il exerce une activité lucrative et qu'il est normalement capable de pourvoir à son entretien;
+- c) au dernier domicile fixé selon les alinéas 1 et 2, lorsqu'il ne vit pas avec ses parents ou l'un d'eux de façon durable;
+- d) à son lieu de séjour dans les autres cas.
+
+<sup>4</sup> Le département peut prévoir par directive des exceptions à ces principes.
+
+#### Art. 17
+
+**Domicile des pensionnaires de homes et d’autres établissements ainsi que des majeurs placés dans des familles**
+
+<sup>1</sup> Le séjour dans un home, un hôpital ou toute autre institution ainsi que le placement dans une famille, décidé par une autorité, ne constituent en principe pas un domicile.
+
+#### Art. 18
+
+**Changement de domicile**
+
+<sup>1</sup> Lors d’un changement de domicile, si la personne était déjà au bénéfice de l’aide matérielle, l'autorité d'aide sociale du précédent domicile reste compétente pour verser l’aide matérielle durant le mois suivant, afin de permettre à la nouvelle autorité d'aide sociale de rendre une décision sur le droit à des prestations.
+
+#### Art. 19
+
+**Examen de la compétence (art. 16 LIAS)**
+
+<sup>1</sup> L'autorité d'aide sociale et le centre médico-social saisis d’une demande d’aide sociale examinent d’office leur compétence.
+
+<sup>2</sup> En cas de difficulté à établir le lieu de vie effectif de la personne, ils peuvent mandater l’organe de police qui procèdera à une enquête et rédigera un rapport officiel.
+
+<sup>3</sup> S’ils s’estiment incompétents, ils prennent contact avec l’autorité ou le centre médico-social qu’ils tiennent pour compétents avant de lui transmettre le dossier
+
+<sup>4</sup> En cas de litige, ils soumettent le dossier au service qui détermine l'autorité d'aide sociale compétente (art. 12 al. 1 let. f LIAS).
+
+#### Art. 20
+
+**Ménage séparé (art. 17 al. 2 LIAS) a) Couple**
+
+<sup>1</sup> Les personnes mariées et les partenaires enregistrés ont un devoir mutuel d’assistance et d’entretien, indépendamment de leur lieu de domicile.
+
+<sup>2</sup> En cas de ménage distinct, sans intention de séparation, les dépenses supplémentaires pour des logements séparés ne sont prises en compte que lorsque des raisons importantes l’exigent.
+
+<sup>3</sup> L’alinéa 2 s’applique par analogie aux concubins stables qui interrompent la vie commune, sans intention de séparation.
+
+#### Art. 21
+
+**b) Jeune adulte**
+
+<sup>1</sup> Est considérée comme un jeune adulte toute personne ayant entre 18 et 25 ans révolus.
+
+<sup>2</sup> Le jeune adulte qui n’est pas autonome financièrement et qui n'a pas achevé de formation appropriée est à charge de ses parents (art. 4 al. 5 LIAS), indépendamment de son lieu de domicile.
+
+<sup>3</sup> Le jeune adulte demandant une aide matérielle doit vivre dans le ménage de l'un de ses parents, sauf exception dûment motivée par un médecin ou une autre autorité habilitée à se prononcer.
+
+<sup>4</sup> Si le jeune est autorisé à vivre dans un ménage séparé, la solution de logement la plus économique doit être privilégiée.
+
+<sup>5</sup> En cas de refus injustifié du jeune adulte de vivre avec un de ses parents, aucune aide matérielle n’est allouée.
+
+## 4 Instruments du dispositif d'aide sociale
+
+#### Art. 22
+
+**Contrat d'insertion (art. 18 LIAS)**
+
+<sup>1</sup> Le contrat d’insertion est établi dans le mois qui suit l’évaluation initiale ou, en cas de demande d’exemption de cette évaluation, dans le mois qui suit l’ouverture du dossier d’aide matérielle.
+
+<sup>2</sup> Pour chaque unité d'assistance, au minimum un contrat d'insertion est établi.
+
+<sup>3</sup> Il peut concerner chaque membre de l’unité d’assistance âgé de plus de 16 ans.
+
+<sup>4</sup> Il est signé par chaque bénéficiaire concerné de l’unité d’assistance, par le centre médico-social et par l’autorité d’aide sociale.
+
+<sup>5</sup> En cas de refus de signer par un bénéficiaire, l’autorité d’aide sociale peut rendre une décision réduisant ou supprimant l’aide matérielle.
+
+<sup>6</sup> Le contrat précise le projet d’insertion à moyen terme, les mesures d’accompagnement, les échéances fixées ainsi que toute autre condition particulière liée à son exécution.
+
+<sup>7</sup> Le projet d’insertion est discuté et défini entre le centre médico-social et le bénéficiaire. Les objectifs poursuivis peuvent être d’ordre professionnel et/ou non-professionnel, notamment:
+
+- a) l'insertion dans une entreprise sociale ou auprès d’un organisateur de mesures;
+- b) l’insertion dans le marché du travail ordinaire;
+- c) la préservation ou l’amélioration de la situation matérielle, notamment par le biais d’aide à la gestion ou à l’assainissement financier;
+- d) l'acquisition ou l’amélioration de la formation professionnelle, pour les jeunes particulièrement;
+- e) l'amélioration ou la stabilisation de la situation personnelle et familiale, ainsi que l’autonomie sociale, grâce à des mesures thérapeutiques ou sociales.
+
+<sup>8</sup> Le projet d’insertion tient compte de la situation personnelle et familiale, de la formation professionnelle, de l’âge et de l’état de santé du bénéficiaire ainsi que de l’évaluation initiale.
+
+<sup>9</sup> Le contrat d’insertion est limité à 6 mois. Il est renouvelé en tenant compte des rapports d’évaluation.
+
+<sup>10</sup> Le contrat d’insertion peut être renouvelé avant son terme si un changement de situation le nécessite.
+
+#### Art. 23
+
+**Collaboration (art. 3 al. 1 let. g, 8 al. 1 let. j et 19 LIAS)**
+
+<sup>1</sup> Lorsqu’une mesure de protection semble devoir être instaurée, le centre médico-social transmet un rapport à l’autorité de protection compétente de l’enfant et de l’adulte.
+
+<sup>2</sup> La convention de collaboration interinstitutionnelle (CII) ainsi que ses dispositions d’exécution font partie intégrante de la présente ordonnance.
+
+#### Art. 24
+
+**Médecin conseil (art. 20 al. 2 LIAS)**
+
+<sup>1</sup> S’il y a lieu de déterminer les capacités physiques ou psychiques du bénéficiaire, celui-ci doit remettre des certificats médicaux réguliers. Le centre médico-social en détermine la fréquence.
+
+<sup>2</sup> Au besoin, le bénéficiaire délie son médecin-traitant du secret médical, dans la mesure nécessaire, afin que ce dernier puisse fournir des informations au centre médico-social et participer à des séances de réseau notamment dans le cadre de la collaboration interinstitutionnelle (CII).
+
+<sup>3</sup> S’il est nécessaire d'obtenir des précisions sur les capacités physiques ou psychiques d’un bénéficiaire, l’autorité d’aide sociale peut faire appel, par l’intermédiaire du service, au médecin conseil.
+
+<sup>4</sup> Le département peut préciser par directive dans quelles situations un avis du médecin conseil peut être requis.
+
+#### Art. 25
+
+**Médecin-dentiste conseil (art. 20 al. 3 LIAS)**
+
+<sup>1</sup> Le département peut préciser par directive dans quelles situations un préavis du médecin-dentiste conseil est nécessaire.
+
+<sup>2</sup> Suite au préavis du médecin-dentiste conseil, l’autorité d’aide sociale rend une décision sur le montant pris en charge dans le cadre de l’aide matérielle.
+
+<sup>3</sup> Seuls les frais reconnus par le médecin-dentiste conseil sont admis à la répartition selon la loi sur l'harmonisation du financement des régimes sociaux et d'insertion socio-professionnelle (ci-après: la loi sur l'harmonisation).
 
 #### Art. 26
 
-**Secret de fonction (art. 15 LIAS)**
+**Système de gestion électronique des données (art. 22 LIAS)**
 
-<sup>1</sup> Les collaborateurs des services sociaux, du service de l’action sociale et des institutions privées qui travaillent à l’application de la loi, les membres des organes des associations de communes et les autorités communales, sont tenus au secret de fonction.
+<sup>1</sup> Le département peut rendre contraignant l'utilisation de l'outil informatique.
 
-<sup>2</sup> Ils ne peuvent divulguer sans l'accord de l'intéressé ou de l'autorité compétente les faits dont ils ont eu connaissance dans le cadre de leur activité et qui doivent rester secrets. Des renseignements et documents peuvent toutefois être communiqués en application et dans les limites de l’article 15bis LIAS.
+<sup>2</sup> Les frais de développement et d'utilisation, hormis les frais de connexion qui restent à la charge exclusive des communes, sont répartis selon la loi sur l'harmonisation.
+
+## 5 Prévention sociale
 
 #### Art. 27
 
-Collaboration avec d’autres services, institutions ou organes (art. 15bis LIAS)
+**(art. 24 LIAS)**
 
-<sup>1</sup> En cas de difficulté à établir le lieu de vie effectif de la personne, la commune peut mandater l’organe de police qui procèdera à une enquête et rédigera un rapport officiel.
+<sup>1</sup> Les mesures et projets liés à la prévention sociale mis en place peuvent être destinés à l’ensemble de la population ou à des catégories de la population.
 
-<sup>2</sup> Si la commune a des doutes quant à une activité non déclarée d’un bénéficiaire, elle soumet le cas au service de l’action sociale, qui mandatera le service de protection des travailleurs et des relations du travail, pour procéder à une enquête. Les coûts d’enquête sont à charge de l’aide sociale.
+<sup>2</sup> Ils sont en principe d’une portée cantonale mais peuvent être, si cela est justifié, d’une portée régionale.
 
-<sup>3</sup> Lorsque cela s’avère nécessaire, la commune par le CMS soumet la situation à la détection précoce de l’assurance-invalidité ou à l’autorité tutélaire.
+<sup>3</sup> Le département et les autorités d’aide sociale veilleront particulièrement à tenir compte de certaines catégories de la population plus à risque de souffrir de précarité et d’exclusion sociale, à savoir notamment les jeunes adultes sans formation et les personnes âgées de plus de 50 ans.
 
-<sup>4</sup> Les dispositions d’application de la convention de collaboration interinstitutionnelle (CII) font partie intégrante du présent règlement.
+<sup>4</sup> Le fonds cantonal pour l'intégration socio-professionnelle prévu à l’article 27 LIAS peut être utilisé pour des mesures et projets.
 
-### Section 7: Procédure devant l’autorité communale d’aide
-
-sociale
+## 6 Aide personnelle
 
 #### Art. 28
 
-**Demande d'aide sociale (art. 12 al. 1 LIAS)**
+**(art. 25 LIAS)**
 
-<sup>1</sup> La demande d’aide est considérée avoir été déposée le jour où elle a été formulée auprès du centre médico-social ou de la commune, sous forme d’appel téléphonique, ou d’entretien.
+<sup>1</sup> Les personnes qui ne sont pas en mesure de gérer seules une situation de vie éprouvante ont droit à une aide personnelle.
 
-<sup>2</sup> Le centre médico-social reçoit le demandeur d’aide sociale en entretien dans les jours qui suivent la prise de contact. Si la situation le nécessite, la personne peut demander en tout temps des mesures urgentes (art. 32).
+<sup>2</sup> L’aide personnelle est fournie d’entente avec la personne qui en fait la demande. Le centre médico-social la propose de sa propre initiative lorsqu’il en identifie le besoin.
 
-<sup>3</sup> Si la personne qui recourt à l'aide sociale dépose sa demande par l’intermédiaire d’un mandataire, les honoraires de ce dernier ne sont pas reconnus comme dépenses d'aide sociale.
+<sup>3</sup> L’aide personnelle n’est pas liée à une procédure spécifique ou au versement d’une aide matérielle.
+
+<sup>4</sup> Si la personne n’est pas en mesure de gérer ses revenus ou sa fortune et qu’une aide personnelle à cet effet s’avère insuffisante, le centre médico-social informe l’autorité de protection de l’enfant et de l’adulte.
+
+## 7 Mesures d'insertion socio-professionnelle
 
 #### Art. 29
 
-**Instruction de la demande d’aide (art. 12 al. 2 LIAS)**
+**Généralités (art. 26 LIAS)**
 
-<sup>1</sup> Le centre médico-social instruit la demande. Il procède à un bilan social écrit, portant sur tous les aspects de la situation des personnes concernées, à savoir la situation personnelle, familiale, médicale, professionnelle, financière.<sup>1</sup>
-
-<sup>2</sup> Il indique par écrit aux membres de l’unité familiale les documents nécessaires à l’examen de la situation et fixe un délai de transmission, en tenant compte du délai de 30 jours imposé à l’autorité d’aide sociale pour rendre sa décision. Il rend les personnes attentives aux conséquences prévues aux articles 19bis et ter de la loi, en cas de non respect du délai fixé.
-
-<sup>3</sup> Si, au terme de l’instruction de la demande, il s’avère qu’une aide sociale se justifie, ou si la personne requiert une décision de l’autorité d’aide sociale, le centre médico-social fait signer à tous les membres majeurs de l’unité familiale, ou à leur représentant légal, le formulaire de demande d’aide sociale, ainsi qu’un extrait des droits et devoirs des bénéficiaires. Le formulaire doit préciser la date à laquelle la demande d’aide a été déposée.
+<sup>1</sup> Les mesures d’insertion sociale ou professionnelle constituent l’un des principaux outils pour réaliser les objectifs fixés dans le contrat d’insertion.
 
 #### Art. 30
 
-**Changement de situation (art. 12 al. 3 LIAS)**
+**Directive (art. 26 al. 8 LIAS)**
 
-<sup>1</sup> En cas de changement de situation nécessitant une nouvelle décision, le centre médico-social réexamine la situation, d’office ou sur demande, puis soumet le dossier à l’autorité communale, qui rend une décision formelle au sens de l’article 13 de la loi.
+<sup>1</sup> Le département édicte une directive pour préciser le catalogue des mesures ainsi que les conditions et procédures liées aux mesures d’insertion.
 
-<sup>2</sup> La demande de réexamen peut être faite par le bénéficiaire de l’aide sociale, par oral ou par écrit.
+<sup>2</sup> La directive précise également les montants incitatifs qui sont versés au bénéficiaire, en complément de son budget, ainsi que les coûts d’encadrement.
 
 #### Art. 31
 
-**Décision de l’autorité communale (art. 13 al. 1 LIAS)**
+**Subsidiarité (art. 26 al. 5 LIAS)**
 
-<sup>1</sup> Lors de simples demandes de renseignements, l’autorité n’a pas l’obligation de rendre une décision formelle, sauf sur demande expresse du demandeur d’aide.
-
-<sup>2</sup> La commune communique sa décision à la personne intéressée, par écrit, dans les 30 jours qui suivent le dépôt de la demande d’aide (art. 28 al. 1) ou de réexamen de la situation (art. 30). Si elle ne statue pas dans ce délai, son silence est assimilé à une décision négative.
-
-<sup>3</sup> Si dans ce délai, la commune ne dispose pas de toutes les informations permettant d’établir un budget, sans qu’il y ait une faute du demandeur d’aide et que l’indigence est démontrée, elle rend une décision provisoire. Elle la notifie au demandeur en l’informant qu’une décision définitive interviendra dès qu’elle sera en possession de tous les documents et informations utiles. Au besoin, elle fixe un délai au demandeur pour transmettre les documents manquants.
-
-<sup>4</sup> Si un budget a été établi, il est notifié au demandeur avec la décision, afin de lui permettre de connaître le calcul ayant servi de base à la décision.
-
-<sup>5</sup> Lorsque les circonstances personnelles se modifient fréquemment, ou que le revenu est irrégulier, la décision peut se présenter sous forme de disposition-cadre et ne contenir que les principes de calcul. Le centre médico-social élabore ensuite les budgets mensuels, sur la base de la situation effective et les remet au bénéficiaire sur demande. L’article 16 al. 2 du présent règlement s’applique.
+<sup>1</sup> Les mesures mises en place en application de la LIAS sont subsidiaires notamment aux mesures de l’assurance-chômage, de l’assurance-accident et de l’assurance-invalidité.
 
 #### Art. 32
 
-Mesures urgentes (art. 4 al. 2 litt. b, art.7 al. 1 litt. e, art. 7 al. 2, art. 10, art. 14 al. 4, art. 19quater al. 5 LIAS)
+**Obligation de participer (art. 33 al. 1 let. f et 38 al. 1 let. c LIAS)**
 
-<sup>1</sup> A la demande de la personne, la commune rend une décision sur mesures urgentes sans délai, mais au plus tard dans les cinq jours qui suivent la demande. La commune peut déléguer la compétence décisionnelle au centre médico-social. Si l’autorité ne statue pas dans le délai, son silence est assimilé à un refus.
+<sup>1</sup> La personne qui sollicite une aide matérielle a l’obligation de participer aux mesures qui sont raisonnablement exigibles, à savoir susceptibles d’améliorer la capacité d’insertion sociale et/ou professionnelle, de favoriser le recouvrement partiel ou total de la capacité de travail ou d’offrir de nouvelles possibilités de gain adaptées à la situation.
 
-<sup>2</sup> Si les mesures urgentes sont refusées par l’autorité communale ou si le délai de 30 jours de l’article 13 de la loi est passé, le demandeur peut recourir auprès du Conseil d’Etat. Le service de l’action sociale est compétent pour prendre des mesures urgentes.
-
-<sup>3</sup> Le service de l’action sociale rend une décision formelle et la notifie aux parties. La commune applique la décision du service et avance notamment les montants d’urgence décidés, cas échéant par son centre médico-social. Elle n’a pas qualité pour contester la décision, faute de dommage irréparable.
-
-<sup>4</sup> L’aide d’urgence décidée par le centre médico-social, par la commune, ou le canton comprend:
-
-- a) la garantie de logement, pour autant que cela permette d’éviter une procédure d’expulsion; si la personne n’a pas de logement, la commune de domicile d’assistance doit assurer un hébergement provisoire, tel un hôtel ou une autre structure d’accueil;
-
-- b) l’acquisition de denrées alimentaires et d'articles d'hygiène de première nécessité.
-
-<sup>5</sup> Les frais liés aux prestations d’urgence reconnus par l’aide sociale sont soumis aux règles générales de répartition des frais d'aide sociale. Ceux qui ne sont pas reconnus sont entièrement à charge de l’instance qui les a décidés.
+<sup>2</sup> En cas de refus injustifié, les dispositions sur l’aide réduite s’appliquent.
 
 #### Art. 33
 
-**Recours (art. 14 LIAS)**
+**Bénéficiaires (art. 26 al. 6 LIAS)**
 
-<sup>1</sup> Si au terme du délai de 30 jours suivant la demande d’aide sociale, l’autorité compétente n’a pas notifié de décision, le demandeur d’aide peut recourir en tout temps auprès du Conseil d’Etat. Il doit agir dans un délai raisonnable, eu égard à sa situation d’indigence.
+<sup>1</sup> Le département définit par directive les mesures qui sont ouvertes aux personnes qui ne sont pas au bénéfice d’une aide matérielle.
 
-<sup>2</sup> Les frais du mandataire ne sont reconnus que restrictivement pour des situations particulièrement complexes.
-
-<sup>3</sup> Le service de l’action sociale instruit le recours et fait des propositions d’arrangement par écrit; il peut proposer une séance de conciliation. Si aucun accord n’est trouvé entre les parties, le recours suit la procédure ordinaire.
-
-### Section 8: Procédure en matière de frais de soins et de
-
-transport en urgence
+<sup>2</sup> Afin d’éviter une situation de précarité ou lorsque la situation particulière le justifie, le service peut décider d’autoriser à titre exceptionnel une personne qui n’est pas au bénéfice de l’aide matérielle à participer à une autre mesure.
 
 #### Art. 34
 
-Frais de soins et de transport en urgence (art. 10, 12bis, 13 al. 2 LIAS)
+**Procédure (art. 26 al. 8 LIAS)**
 
-<sup>1</sup> La prise en charge des frais de soins ou de transport en urgence est subordonnée aux dispositions de la loi fédérale sur l'assurance-maladie (LAMal).
+<sup>1</sup> Le centre médico-social détermine dans chaque dossier, au besoin à l’aide de la collaboration interinstitutionnelle, le type de mesure adaptée au bénéficiaire.
 
-<sup>2</sup> Elle est soumise au principe de subsidiarité et ne peut donc intervenir qu'après épuisement des possibilités légales de recouvrement de la créance, par voie de poursuite ou par une maison d'encaissement.
+<sup>2</sup> La proposition de mesure est soumise au service pour préavis. Seuls les frais liés à des mesures pour lesquelles un préavis positif a été émis sont admis à la répartition.
 
-<sup>3</sup> Ne sont pas considérés comme dépenses d'assistance et donc exclus de la prise en charge par l’aide sociale:
+<sup>3</sup> Avant le début de la mesure, un contrat est établi entre:
 
-- a) les frais de recherches infructueuses;
+- a) le bénéficiaire ou son représentant légal;
+- b) l’autorité d’aide sociale, et/ou
+- c) l'organisateur ou l'employeur.
 
-- b) les frais liés aux procédures de recouvrement de la créance par l’organe de soins ou de transport, notamment les intérêts, frais de rappel et de poursuite;
+<sup>4</sup> Ce contrat explicite les objectifs poursuivis par la mesure, sa durée, le taux d’activité, l’organisateur ou l’employeur, les éventuels frais et montants incitatifs ainsi que le financement.
 
-- c) les factures refusées pour défaut de diligence de l'entreprise de transport, de l'hôpital ou du médecin.
+<sup>5</sup> A l’échéance du contrat ou en cas d’interruption, une évaluation est transmise au service.
 
-<sup>4</sup> Les frais visés à l’alinéa 3 lettre a sont remboursés par l'OCVS et portés sur le compte des frais irrécupérables. Ceux visés à l’alinéa 3 lettres b et c restent exclusivement à charge des organes de soins ou de transport.
+<sup>6</sup> En cas de changement de domicile au sein du canton, les mesures en cours se poursuivent. Elles peuvent, si cela est justifié, être confiées à un autre organisateur.
 
-<sup>5</sup> En cas de défaut de diligence de la commune, les frais reconnus comme dépense d'assistance ne sont pas soumis à la répartition selon la loi sur l'harmonisation des régimes sociaux et d'insertion socioprofessionnelle et laissés entièrement à charge de ladite commune.<sup>1</sup>
+<sup>7</sup> En cas de suppression de l’aide matérielle, notamment en raison de la prise d’un emploi, les mesures en cours peuvent se poursuivre jusqu’au terme prévu pour le bénéficiaire et les autres membres de l’unité d’assistance, si cela est pertinent.
 
 #### Art. 35
 
-<sup>1</sup> Assurance maladie (art. 10, 12bis, 12ter, 13 al. 2 LIAS)
+**Développement (art. 26 al. 9 et 10 LIAS)**
 
-<sup>1</sup> L'obligation des communes concerne le contrôle de l'affiliation des personnes soumises à l'obligation d'assurance.
+<sup>1</sup> Le service veille à l’adéquation des mesures disponibles avec les besoins des bénéficiaires.
 
-<sup>2</sup> En cas de défaut de diligence du contrôle de l’affiliation ou du contrôle de l’habitant, les frais d’hospitalisation, de traitement, ou de transport qui n'ont pu être récupérés auprès des personnes non assujetties restent à charge exclusive de la commune.
-
-### Section 9: Répartition des charges (art. 4 al. 2 litt. f, art. 7,
-
-art.16 ss LIAS)
+<sup>2</sup> Le service peut mener des expériences pilotes.
 
 #### Art. 36
 
-**Avis d’aide sociale**
+**Fonds cantonal pour l’intégration socio-professionnelle (art. 27 LIAS)**
 
-<sup>1</sup> Le département détermine la forme et le contenu des avis d'aide sociale, des décomptes périodiques et des décomptes de frais de personnel, ainsi que les modalités d'application nécessaires.
+<sup>1</sup> Le fonds est géré par le service en charge de l’action sociale pour des mesures d’insertion socio-professionnelle en faveur de personnes relevant des domaines de compétence de ce service.
 
-<sup>2</sup> Il fixe les données statistiques qui doivent lui être transmises.
+<sup>2</sup> Les règles usuelles en matière de compétences financières sont applicables.
+
+<sup>3</sup> Tout paiement par le biais du fonds intervient sur la base d’une décision ou d'un mandat de prestations.
+
+<sup>4</sup> Le service remet à la fin de chaque année comptable les comptes du fonds à l'inspectorat cantonal des finances en qualité d'organe de contrôle.
+
+<sup>5</sup> Le Conseil d’Etat renonce à édicter un règlement sur le fonds, le domaine étant exhaustivement réglé par l’article 27 LIAS et le présent article.
+
+## 8 Aide matérielle
+
+### 8.1 Généralités
 
 #### Art. 37
 
-**Transmission de documents au département**
+**Généralités (art. 28 LIAS)**
 
-<sup>1</sup> Dans les 30 jours qui suivent la décision d'aide, l’autorité communale transmet au département des affaires sociales, par son service de l’action sociale, les documents nécessaires à l’ouverture du dossier, à la vérification et au suivi financier. Le service de l’action sociale détermine de quels documents il s’agit.
+<sup>1</sup> L'aide matérielle est incessible et insaisissable.
 
-<sup>2</sup> Dans les trois mois qui suivent la décision d’aide sociale, la commune transmet au département, par son service de l’action sociale, le rapport d’évaluation. Le contrat d’insertion est transmis dans les 30 jours qui suivent.
+<sup>2</sup> L’aide matérielle est fondée sur le principe de couverture des besoins. Elle se limite à fournir des prestations liées à une situation d'indigence concrète et actuelle. Elle ne verse pas de prestations rétroactives.
 
-<sup>3</sup> Les autorités communales transmettent au département un décompte semestriel aux 31 janvier et 31 juillet de chaque année. L’autorité y joint, pour chaque cas, un décompte individuel faisant état des dépenses et des recettes, accompagné des budgets mensuels.
-
-<sup>4</sup> Le département se charge de la répartition communale et régionale des frais et de l’établissement du décompte pour chaque commune, conformément aux dispositions de la loi sur l’harmonisation des régimes sociaux et d’insertion socioprofessionnelle.
+<sup>3</sup> Le département définit dans une directive les modalités d’établissement du budget, y compris pour les situations particulières et la fixation de la contribution financière de tiers, notamment dans les cas de concubinage et de communauté de vie, sous réserve des articles ci-dessous.
 
 #### Art. 38
 
-**Confédérés et étrangers**
+**Notion d'unité d'assistance (art. 29 LIAS)**
 
-<sup>1</sup> Le décompte des charges et des remboursements d'aide sociale pour les confédérés domiciliés en Valais depuis moins de deux ans, ainsi que pour les ressortissants étrangers ou de passage, doit être adressé au département dans les 30 jours qui suivent la fin d'un trimestre.
+<sup>1</sup> Les enfants compris dans l’unité d’assistance sont les enfants mineurs ainsi que les enfants majeurs de moins de 25 ans révolus, qui n'ont pas achevé de formation appropriée, font ménage commun avec le demandeur et ne sont pas autonomes financièrement.
 
-<sup>2</sup> Les frais non remboursés par d'autres cantons ou d'autres pays en raison d'un avis tardif restent à charge entière de la commune concernée.
+<sup>2</sup> Les enfants à charge qui sont momentanément absents du domicile du demandeur pour raisons d'études ou de formation sont considérés comme faisant ménage commun avec celui-ci. Le montant du forfait d’entretien est toutefois adapté en conséquence.
 
 #### Art. 39
 
-**Montants non soumis à la répartition**
+**Titulaire du dossier (art. 29 al. 3 LIAS)**
 
-Ne font pas l'objet de la répartition:
+<sup>1</sup> Lorsque l’unité d’assistance est composée de plusieurs personnes, le dossier est ouvert au nom d’un des membres majeurs.
 
-- a) les frais de sépulture (art. 17);
-
-- b) l'aide matérielle qui ne correspond pas aux conditions, directives, ou principes applicables dans le canton;
-
-- c) les prestations qui ont été allouées alors que les obligations en matière de vérification de la situation n'ont pas été observées par les autorités communales;
-
-- d) l'aide matérielle dont l'annonce au service par l'autorité d'aide sociale n'a pas respecté le délai ou la forme prévus par les dispositions d'application. Les exceptions font l’objet d’une décision du service de l’action sociale;
-
-- e) les frais administratifs des autorités d'aide sociale, sous réserve des frais expressément admis par le service de l’action sociale.
+<sup>2</sup> Le dossier est ouvert au nom d’un enfant mineur ou d’un jeune adulte en cas de placement et dans les cas prévus par les directives du département.
 
 #### Art. 40
 
-Procédure en cas de non-reconnaissance de montants d’aide sociale
+**Subsidiarité (art. 3 al. 1 let. b et 30 LIAS)**
 
-<sup>1</sup> Le service de l’action sociale détermine les dépenses soumises à répartition.
+<sup>1</sup> L’aide matérielle est subsidiaire notamment par rapport:
 
-<sup>2</sup> Il met à charge exclusive des communes les charges résultant de prestations allouées contrairement aux normes légales et réglementaires et aux directives cantonales, ainsi que le préjudice financier qui en résulte.
+- a) aux revenus de l’activité salariée, indépendante ou de toute autre activité;
+- b) aux prestations des assurances sociales et/ou privées;
+- c) aux bourses et prêts d’honneur;
+- d) aux autres prestations légales et contractuelles;
+- e) aux dons et à l’aide volontaire de tiers, en argent ou en nature;
+- f) aux contributions légales ou volontaires de la parenté;
+- g) aux avances de contributions d'entretien versées par l’Etat;
+- h) à la fortune mobilière ou immobilière, en Suisse ou à l’étranger.
 
-<sup>3</sup> En cas de désaccord entre le service et une commune, le litige peut faire l'objet d'un recours au Conseil d'Etat.
+<sup>2</sup> Si la personne dispose d’une autorisation de séjour accordée à la suite de la garantie financière d’un tiers, l’aide matérielle est subsidiaire à la participation, en argent ou en nature, de ce tiers.
 
-### Section 10: Sanctions dans les prestations d’aide sociale (art. 19bis à 19quinquies LIAS)
+<sup>3</sup> L’aide matérielle intervient lorsque la personne a démontré qu’elle ne peut subvenir à son entretien, d’une manière suffisante ou à temps, par ses propres moyens. Elle peut être octroyée, sous certaines conditions, dans l’attente de l’obtention d’une prestation financière, notamment d’une assurance sociale ou privée, de la réalisation d’un bien ou du partage d’une succession ou du régime matrimonial.
+
+<sup>4</sup> Le département précise par directive le calcul du budget d'aide matérielle, notamment le montant des ressources et de la fortune pris en compte, ainsi que le calcul de la contribution de la parenté aux frais d'aide matérielle et aux frais de placement.
+
+### 8.2 Obligations du bénéficiaire
 
 #### Art. 41
 
-**Motif de sanctions (art. 19bis et 19ter LIAS)**
+**Obligation de collaborer (art. 33 LIAS)**
 
-Une sanction dans les prestations d’aide sociale se justifie lorsque l’un des membres de l’unité familiale adopte un comportement fautif au sens des articles 19bis et 19ter de la loi, notamment en ne respectant pas ses obligations décrites aux articles 23 et 24 du présent règlement.
+<sup>1</sup> L’obligation prévue à l’article 33 LIAS implique entre autres pour le bénéficiaire de collaborer avec toutes les personnes ou organismes chargés de l’évaluation de leur situation ou de leur réinsertion sociale, professionnelle et économique à savoir notamment:
+
+- a) les autorités d'aide sociale;
+- b) les centres médico-sociaux;
+- c) les autorités du chômage;
+- d) toute autre assurance sociale ou privée ou autre organisme qui serait susceptible de fournir une aide financière ou une aide à l'insertion sociale ou professionnelle.
+
+<sup>2</sup> La collaboration avec les autorités du chômage signifie que le bénéficiaire doit s’inscrire comme demandeur d’emploi, même s’il n’a pas de droit à des prestations financières de l’assurance-chômage, pour autant qu’il dispose d’une capacité de travail.
+
+<sup>3</sup> Les autorités d'aide sociale peuvent lier l'aide matérielle à des conditions à remplir en vue du recouvrement de l'autonomie sociale et financière du bénéficiaire. La personne doit être préalablement informée des conséquences du non-respect des conditions de collaboration qui lui sont posées.
 
 #### Art. 42
 
-**Réduction de l’aide sociale (art. 19bis al. 6 LIAS)**
+**Obligation de renseigner (art. 34 LIAS)**
 
-<sup>1</sup> La sanction consiste en une réduction de l’aide sociale, qui peut revêtir plusieurs formes:
+<sup>1</sup> Les bénéficiaires doivent fournir toutes les indications sur leur fortune et leurs ressources financières. Toute aide économique, financière ou en nature, concédée par un tiers à l’unité d’assistance, doit être signalée sans délai à l’autorité d’aide sociale.
 
-- a) abrogé;<sup>1</sup>
+<sup>2</sup> Tous les membres de l’unité d’assistance sont tenus de signaler sans retard à l’autorité tout changement dans leur situation pouvant entraîner la modification ou la suppression du montant de l’aide, notamment:
 
-- b) la réduction de 15 pour cent du forfait d'entretien.<sup>1</sup>
+- a) une modification de la taille ou de la composition du ménage, des charges de l’unité d’assistance ou de l’état civil;
+- b) un changement de lieu de séjour ou de domicile;
+- c) une variation du revenu mensuel d’un membre de l’unité d’assistance;
+- d) l’obtention ponctuelle d’une somme d’argent (notamment capital ou indemnité d’une assurance sociale ou privée, héritage, gain de loterie, réalisation d’un bien mobilier ou immobilier, aide financière d’un tiers);
+- e) le dépôt d’une demande financière à un tiers (bourse, avance de pensions alimentaires, assurance sociale ou privée) ou une procédure en cours pour l’obtention d’une somme d’argent (liquidation successorale, procédure judiciaire ou extra-judiciaire).
 
-<sup>2</sup> La réduction n’est généralement appliquée qu’aux personnes ayant eu un comportement fautif.
+### 8.3 Aide ordinaire
 
 #### Art. 43
 
-Revenu et fortune hypothétiques (art. 2 al. 3, 19bis, 21bis al. 4 LIAS)
+**Généralités (art. 36 LIAS)**
 
-<sup>1</sup> Outre les sanctions prévues au précédent article, l’aide sociale peut être réduite à titre de sanction par la prise en compte d’un revenu ou d’une fortune hypothétique dans le budget d’aide sociale, notamment en cas de dessaisissement ou de renonciation, au sens des articles 2 alinéa 3 et 19bis alinéa 3 de la loi et des articles 1 alinéas 4 et 5 et article 2 du présent règlement. Ce type de réduction peut également être appliqué lorsque la personne ne fournit pas les éléments nécessaires à l’établissement du budget, dissimule des ressources financières, ou dans les cas visés aux articles 19bis alinéa 2 et 21bis alinéa 4 de la loi.
+<sup>1</sup> Le département édicte une directive qui précise le calcul du budget d’aide matérielle, les modalités d’octroi ainsi que les cas particuliers, sous réserve des dispositions ci-dessous.
 
-<sup>2</sup> Cas échéant, l’autorité estime le montant à intégrer au budget et la durée de la prise en compte. Elle rend une décision dûment motivée selon les circonstances du cas d’espèce.
-
-<sup>3</sup> Si en tenant compte du revenu hypothétique, le revenu déterminant dépasse les dépenses reconnues, l’aide sociale n’est plus octroyée, sous réserve de l’article 19bis alinéa 6 de la loi.
-
-<sup>4</sup> Cette sanction est à distinguer de la prise en compte d’un revenu hypothétique dans le cadre de l’octroi d’une aide sociale aux personnes exerçant un métier d’indépendant (art. 10).
+<sup>2</sup> La détermination du droit à l’aide matérielle se base sur la LIAS, la présente ordonnance, les directives du département et subsidiairement, sur les normes de la Conférence suisse des institutions d’action sociale (CSIAS).
 
 #### Art. 44
 
-Refus, suspension et suppression de l’aide sociale (art. 19bis alinéa 5 et 6, art. 19ter, art. 19quinquies LIAS)
+**Cas particuliers (art. 36 al. 4 LIAS) a) Jeunes adultes et personnes en formation**
 
-<sup>1</sup> Il peut y avoir refus, suspension ou suppression de l’aide sociale aux conditions suivantes:
+<sup>1</sup> Le forfait d’entretien des jeunes adultes est réduit. Les montants et exceptions sont fixés par le département dans une directive.
 
-- a) si les revenus effectivement constatés dépassent les dépenses reconnues;
+<sup>2</sup> L’acquisition d’une formation professionnelle de base doit être encouragée pour les adultes sans formation, âgés de moins de 35 ans révolus. La possibilité d’entreprendre une telle formation doit être systématiquement examinée dans ces cas.
 
-- b) si le comportement fautif ayant justifié une sanction basée sur les articles qui précèdent, perdure;
+<sup>3</sup> S'il ne souhaite pas effectuer une formation, il est soumis aux principes ordinaires de l’aide matérielle. S’il dispose d'une capacité de travail, il doit notamment s’inscrire au chômage et rechercher un emploi.
 
-- c) en cas d’abus de droit.
-
-<sup>2</sup> Dans les situations citées sous lettres b et c du précédent alinéa, l’autorité rend une décision formelle d’exclusion de l’aide sociale, pour une durée ne dépassant pas trois mois. Elle y fixe les conditions à réaliser pour que l’aide sociale ordinaire soit rétablie. En outre, si l’indigence est avérée, l’autorité accorde à l’unité familiale une aide d’urgence correspondant aux montants octroyés aux personnes requérantes d’asile. Au plus tard à la fin du délai fixé, l’autorité réexamine la situation.
-
-<sup>3</sup> Si, malgré la sanction prise, la personne ne remplit pas les conditions fixées, l’aide d’urgence peut être réduite à celle accordée aux requérants d’asile déboutés (RAD) et aux requérants d’asile ayant obtenu une décision de non entrée en matière (NEM). La situation des mineurs à charge de l’unité familiale doit être prise en considération. L’autorité compétente rend une décision formelle pour une durée ne dépassant pas trois mois, en fixant les conditions à réaliser pour que le montant du forfait d’entretien soit revu. Au plus tard à la fin du délai fixé, elle réexamine la situation.
-
-<sup>4</sup> Les sanctions pénales de l’article 19quinquies de la loi sont réservées.
+<sup>4</sup> Le département précise par directive les conditions, modalités et procédures de la prise en charge d’une formation, y compris pour les personnes de plus de 35 ans ou pour les secondes formations.
 
 #### Art. 45
 
-**Décision de sanction (art. 19quater LIAS)**
+**b) Indépendants**
 
-<sup>1</sup> Toutes les décisions de sanction doivent stipuler clairement le comportement fautif qui les a justifiées et quel est le comportement attendu.
+<sup>1</sup> Sont considérées comme exerçant une activité lucrative indépendante, les personnes qui sont affiliées en cette qualité auprès d'une caisse AVS ou celles qui pourraient l’être.
 
-<sup>2</sup> Elles sont notifiées par écrit, en indiquant la date d’entrée en vigueur et la durée de la sanction.
+<sup>2</sup> Il en va de même des personnes qui fixent les décisions que prend l’employeur – ou peuvent les influencer considérablement – en qualité d’associé, de membre d’un organe dirigeant de l’entreprise ou encore de détenteur d’une participation financière à l’entreprise.
 
-<sup>3</sup> Les décisions de réduction sont limitées à un maximum de six mois. Pour les décisions d’exclusion de l’aide sociale, la durée maximale est de trois mois. Au terme de ce délai, l’autorité analyse la situation et rend une nouvelle décision.
+<sup>3</sup> En principe, les indépendants n’ont pas droit à des prestations d’aide matérielle. Exceptionnellement, une aide limitée dans le temps peut leur être octroyée pour autant que leur activité paraisse viable au terme du délai fixé. Au besoin, le caractère viable peut être déterminé par un spécialiste neutre.
+
+<sup>4</sup> Les frais de fonctionnement liés à l’entreprise ne sont pas inclus dans le budget d’aide matérielle.
+
+<sup>5</sup> Le département précise par directive les exceptions, les conditions, les modalités ainsi que le calcul de cette aide.
 
 #### Art. 46
 
-**Sanctions pénales (art. 19quinquies LIAS)**
+**c) Etrangers**
 
-<sup>1</sup> L’autorité qui octroie l’aide sociale dénonce aux autorités pénales toute infraction à la loi.
+<sup>1</sup> L’aide matérielle versée aux étrangers, à l’exception de ceux ressortant du domaine de l’asile, est déterminée conformément aux dispositions de la législation fédérale ainsi que des accords et conventions internationaux concernant le droit à l’aide matérielle pour les étrangers. Au surplus, les dispositions ci-dessous sont applicables.
 
-<sup>2</sup> Elle peut toutefois renoncer à cette démarche si un accord écrit est trouvé avec la personne. Il doit être transmis au service de l’action sociale.
+<sup>2</sup> Les détenteurs d’une autorisation de courte durée (permis L) et les personnes dont ils ont la charge et faisant ménage commun ont droit à une aide ordinaire, s’ils exercent une activité lucrative sur le premier marché du travail ou s’ils remplissent d’autres conditions précisées dans une directive du département. A défaut, seule l'aide d'urgence stricte est allouée.
 
-### Section 11: Obligation d’entretien
+<sup>3</sup> Les étrangers non titulaires d’une autorisation de séjour valable doivent en principe quitter le territoire cantonal et n’ont pas le droit à une aide ordinaire ou réduite.
+
+<sup>4</sup> Le département précise par directive les montants et conditions d’octroi de l’aide matérielle aux étrangers.
+
+### 8.4 Aide réduite
 
 #### Art. 47
 
-Obligation d’entretien et dette alimentaire (art. 4 al. 2 lettre c; art. 16 al. 1 lettre b; art. 20 LIAS)
+**Sanction (art. 38 et 39 LIAS)**
 
-<sup>1</sup> La commune ne doit pas faire dépendre l’octroi de l’aide sociale de l’issue de la fixation de la contribution d’entretien de la famille. Si l’aide sociale est due, l’autorité verse l’aide, puis effectue les démarches nécessaires à la détermination du montant de contribution.
+<sup>1</sup> La sanction consiste soit:
 
-<sup>2</sup> Les bases de calcul de la contribution d’entretien sont établies par directive du département concerné.
+- a) en une réduction du forfait d’entretien;
+- b) au versement d’une aide d’urgence.
 
-### Section 12: Remboursement
+<sup>2</sup> La sanction n’est généralement appliquée qu’aux personnes ayant eu un comportement fautif.
+
+<sup>3</sup> Sous réserve des cas d’abus de droit, la personne doit disposer au minimum de l’aide d’urgence.
+
+<sup>4</sup> Le département précise par directive les modalités de l’aide réduite.
 
 #### Art. 48
 
-Prestations d’aide sociale ordinaires obtenues légalement (art. 21 LIAS)
+**Revenu hypothétique (art. 32, 40 et 41 LIAS)**
 
-<sup>1</sup> Le bénéficiaire qui a obtenu des prestations légalement n'est tenu au remboursement, total ou partiel, que s’il est revenu à meilleure fortune, au sens de la loi fédérale sur la poursuite pour dettes et la faillite (LP). Le département émet une directive sur le calcul du retour à meilleure fortune.
+<sup>1</sup> La renonciation est avérée notamment si l’un des membres de l’unité d’assistance:
 
-<sup>2</sup> Si le remboursement de l’aide sociale met la personne dans une situation financière difficile, elle peut demander par écrit, à la commune, une remise partielle ou totale. La commune rend une décision avec copie au service de l’action sociale.
+- a) a renoncé à des éléments de revenu ou de fortune sans y avoir été tenu juridiquement et sans avoir reçu en échange une contre-prestation adéquate;
+- b) ne permet pas, par son comportement, la détermination ou le versement d'une prestation financière à laquelle il pourrait prétendre de la part d'un tiers.
+
+<sup>2</sup> Si en tenant compte d’un revenu hypothétique, le revenu déterminant dépasse les dépenses reconnues, l’aide matérielle ne doit en principe plus être octroyée.
+
+<sup>3</sup> Le département détermine, dans une directive, les modalités de calcul et de prise en compte d’un tel revenu, en tenant notamment compte des bénéficiaires particulièrement vulnérables.
+
+### 8.5 Aide d'urgence
 
 #### Art. 49
 
-**Avances sur une prestation financière (art. 21bis LIAS)**
+**(art. 42 LIAS)**
 
-Lorsque les montants d'aide sociale ont été accordés dans l'attente d’une prestation financière d’un tiers, ils sont remboursés dès que le bénéficiaire entre en possession de la prestation, quelle que soit sa situation financière à cette période.
+<sup>1</sup> L’aide d’urgence ne peut pas être refusée à une personne même si celle-ci est personnellement responsable de son état, sous réserve des cas prévus à l’article 43 LIAS.
+
+<sup>2</sup> Elle comprend en principe:
+
+- a) une solution de logement, y compris, dans un hébergement collectif;
+- b) la remise de denrées alimentaires et d'articles d'hygiène;
+- c) les soins médicaux indispensables;
+- d) l'octroi, en cas de besoins établis, d'autres prestations de première nécessité.
+
+<sup>3</sup> Ces prestations peuvent être allouées en nature ou en espèce.
+
+### 8.6 Refus, suspension ou suppression de l'aide matérielle
 
 #### Art. 50
 
-Prestations versées au propriétaire d'un bien immobilier (art. 22 LIAS)
+**(art. 43 LIAS)**
 
-<sup>1</sup> Les propriétaires de biens immobiliers qui ne sont pas grevés de gage immobilier ou dont le montant des gages est inférieur à la valeur vénale, disposent d’une fortune, qui ne leur permet en principe pas de remplir les conditions d’octroi de l’aide sociale ordinaire.
+<sup>1</sup> Si les conditions de l’article 43 alinéa 1 LIAS sont remplies, la personne ne peut pas prétendre à une aide d’urgence au sens de l’article 42 LIAS.
 
-<sup>2</sup> Si la commune estime opportun de renoncer à la vente du bien, l’aide sociale peut être accordée, pour autant que la personne accepte d’inscrire un gage au registre foncier, au profit de la commune. Exceptionnellement, la commune peut renoncer à demander cette inscription, si l’aide sociale est ponctuelle ou si le montant du gage immobilier à inscrire est manifestement trop faible.
+<sup>2</sup> Le département précise par directive les cas dans lesquels une aide matérielle peut être versée à une personne qui ne se trouve pas ou plus sur le territoire cantonal.
 
-<sup>3</sup> Peuvent être grevés de ce gage les immeubles inscrits au registre foncier au nom de l’un des membres majeurs de l’unité familiale. Si le bien immobilier est en copropriété, l’inscription du gage se fait sur la part du bénéficiaire.
+<sup>3</sup> Lorsque l’aide est suspendue ou refusée car les ressources financières ou la fortune dépassent les dépenses ou les franchises reconnues, le centre médico-social ou l'autorité d'aide sociale informe par écrit la personne du nombre de mois durant lesquels elle doit être autonome et ne pourra plus prétendre à une aide matérielle ordinaire. Le département précise par directive les modalités de calcul.
 
-<sup>4</sup> La commune détermine la forme du gage immobilier, à savoir une hypothèque ou une cédule hypothécaire au sens des articles 824 et suivants du code civil suisse, ainsi que la personne du notaire. Elle fixe le montant à inscrire, en tenant compte de l’aide sociale déjà versée et de l’aide sociale prévisible sur les deux années à venir.
-
-<sup>5</sup> Le taux d’intérêt maximum inscrit sur le gage immobilier est fixé à cinq pour cent. Il s’applique uniquement en cas d’obtention frauduleuse de l’aide sociale.
-
-<sup>6</sup> En cas de réalisation du bien immobilier, la commune est remboursée immédiatement, quelle que soit la situation financière du propriétaire. Le remboursement des prestations est également exigible dès que le bénéficiaire remplit les conditions ordinaires prévues aux articles 21 à 21ter LIAS.
-
-<sup>7</sup> Si l’inscription d’un gage immobilier nécessite l’accord de tiers, notamment dans le cas d’une hoirie ou d’un logement familial de personnes séparées, la commune exige une cession et détermine s’il y a lieu de demander un partage de la succession ou une liquidation du régime matrimonial.
+### 8.7 Procédure
 
 #### Art. 51
 
-**Restitution des prestations versées indûment (art. 21ter LIAS)**
+**Demande d'aide matérielle**
 
-<sup>1</sup> En cas d’obtention frauduleuse de l’aide sociale au sens de l’article 21ter alinéa 1 de la loi, le remboursement est exigible immédiatement, avec un taux d’intérêt de cinq pour cent. Si la personne est encore au bénéfice de prestations de l’aide sociale, l’autorité procède à une compensation des montants indûment perçus avec les prestations futures, en ne laissant que le minimum vital incompressible. Ce minimum vital correspond à celui qui est octroyé aux personnes sans autorisation de séjour valable, par analogie avec l’article 19bis alinéa 6 de la loi.
+<sup>1</sup> Le centre médico-social reçoit le demandeur d’aide matérielle en entretien dans les jours qui suivent la prise de contact.
 
-<sup>2</sup> Si la personne était de bonne foi au sens de l’article 21ter alinéa 2 de la loi, l’autorité laisse le minimum vital, calculé sur la base de la loi fédérale sur la poursuite pour dettes et la faillite. Dans ces cas, une remise peut être accordée, d’office ou sur demande. Si la personne est encore au bénéfice de prestations de l’aide sociale, l’autorité procède à une compensation des montants indûment perçus avec les prestations futures, sans aller au-delà d’une réduction de 15 pour cent du forfait d’entretien.
+<sup>2</sup> Si la personne qui recourt à l'aide matérielle dépose sa demande par l’intermédiaire d’un mandataire, les honoraires de ce dernier ne sont pas reconnus comme dépenses d'aide sociale.
 
 #### Art. 52
 
-Procédure de remboursement (art. 4 al . 2 litt. d, art. 16 al. 1 litt. b et art. 24 LIAS)
+**Début et fin des prestations**
 
-<sup>1</sup> Si l’autorité d’aide sociale qui a octroyé l’aide constate que la situation financière d’un ancien bénéficiaire de l’aide sociale s’est améliorée, elle détermine si les conditions de remboursement sont remplies. Elle prend en compte l’entier de la dette d’assistance, avant répartition selon la loi sur l’harmonisation du financement des régimes sociaux et d’insertion socioprofessionnelle.
+<sup>1</sup> L’aide est octroyée dès le premier jour du mois lors duquel la demande d’aide est considérée comme déposée au sens de l’article 45 alinéa 2 LIAS.
 
-<sup>2</sup> L’autorité doit appliquer le principe du droit d’être entendu. A cette fin, elle convoque la personne ou ses héritiers pour un entretien, ou permet à la personne de se déterminer par écrit et de faire une demande écrite motivée de remise partielle, ou totale de la dette. La personne concernée doit fournir toutes les informations nécessaires à l’établissement de sa situation financière.
+<sup>2</sup> Afin d’établir sa situation d’indigence, le bénéficiaire doit remplir mensuellement un document faisant état de la situation financière et de la structure de l’unité d’assistance, indiquant tous les changements intervenus durant le mois.
 
-<sup>3</sup> Sur la base des informations récoltées, l’autorité propose par écrit un accord sur le montant à rembourser et ses modalités, et donne un délai à la personne pour se déterminer.
+<sup>3</sup> L’aide prend fin si l’une des conditions de l’article 43 LIAS est remplie.
 
-<sup>4</sup> Si aucun accord n’est trouvé, l’autorité rend une décision sur le montant à rembourser et ses modalités. La décision doit être dûment motivée et cas échéant, contenir le calcul du retour à meilleure fortune au sens de la loi fédérale sur la LP. La décision est susceptible de recours dans les 30 jours dès sa notification, auprès du Conseil d’Etat selon la procédure fixée par la LPJA.
-
-<sup>5</sup> La décision entrée en force est assimilée à un jugement exécutoire au sens de l'article 80 de la LP.
-
-<sup>6</sup> Les remboursements obtenus sont portés au crédit du compte d’assistance soumis à répartition entre le canton et les communes. Le taux applicable est celui en vigueur dans la loi sur l’harmonisation des régimes sociaux et d’insertion socioprofessionnelle au moment du remboursement.
-
-<sup>7</sup> Dans les cas d’abus d’assistance, les autorités d’aide sociale déterminent s’il y a lieu d’agir sur le plan pénal, au sens de l’article 4 alinéa 2 lettre d LIAS.
+<sup>4</sup> Elle prend également fin si le bénéficiaire ne s’adresse plus au centre médico-social ou s’il ne transmet pas les documents mensuels nécessaires à établir son indigence et son droit à une aide matérielle.
 
 #### Art. 53
 
-<sup>1</sup> Prescription (art. 24 al. 2 LIAS)
+**Instruction du dossier (art. 46 LIAS)**
 
-<sup>1</sup> L'obligation de remboursement se prescrit selon le délai fixé à l'article 24 LIAS à compter du jour où la dernière prestation a été versée.
+<sup>1</sup> Le centre médico-social indique par écrit aux membres de l’unité d’assistance les documents nécessaires à l’examen de la situation et fixe un délai de transmission, en tenant compte du délai de 30 jours imposé à l’autorité d’aide sociale pour rendre sa décision. Il rend les personnes attentives aux conséquences prévues en cas de remise tardive selon l’article 45 alinéa 2 LIAS.
 
-<sup>2</sup> A l'égard des héritiers de la personne aidée, l'obligation de remboursement se prescrit par deux ans dès la liquidation de la succession.
-
-<sup>3</sup> S'il s'agit d'une avance sur une prestation financière, la prescription est de cinq ans à partir du jour où l'autorité compétente a eu connaissance du fait qui ouvre le droit au remboursement, mais au plus tard dans le délai fixé à l'article 24 LIAS.
-
-<sup>4</sup> Lorsqu'un bénéficiaire a sciemment induit en erreur l'autorité compétente sur sa situation financière, le délai de prescription court dès que l'erreur a été découverte.
-
-<sup>5</sup> L’inscription d’un gage mobilier ou immobilier demeure, indépendamment de la prescription du remboursement.
-
-### Section 13: Autres mesures de prévoyance (art. 24bis à 35 LIAS)
+<sup>2</sup> S'il s’avère qu’une aide matérielle se justifie, le centre médico-social fait signer à tous les membres majeurs de l’unité d'assistance, les documents requis pour le dépôt de la demande.
 
 #### Art. 54
 
-**Conventions (art. 25 litt. b LIAS)**
+**Mesures urgentes (art. 46 al. 4 LIAS)**
 
-Les conventions prévues à l'article 25 lettre b de la loi, liant l'Etat à des institutions spécialisées reconnues d'utilité publique, prévoient notamment leur champ d'activité, leurs prestations, celles de l'Etat, les modalités de subventionnement et les exigences minimales en matière d'effectif et de qualification du personnel.
+<sup>1</sup> A la demande de la personne, l'autorité d'aide sociale rend une décision sur mesures urgentes sans délai, mais au plus tard dans les 5 jours qui suivent la demande.
+
+<sup>2</sup> Si les mesures urgentes sont refusées par l’autorité d’aide sociale ou si celle-ci ne statue pas dans le délai prévu à l’alinéa 1, le demandeur peut recourir auprès du Conseil d’Etat. Le service est compétent pour prendre des mesures urgentes.
+
+<sup>3</sup> Le service rend une décision formelle sur les mesures urgentes et la notifie aux parties. Le centre médico-social avance les montants décidés. L'autorité d'aide sociale n’a pas qualité pour contester la décision, faute de dommage irréparable.
 
 #### Art. 55
 
-**Subventions aux investissements (art. 27 à 30 LIAS)**
+**Décision de l'autorité d'aide sociale (art. 47 LIAS)**
 
-Les demandes de subvention pour l'achat, la construction, l'agrandissement, la rénovation, l'adaptation, la transformation et l'équipement des établissements, sont adressées au département.
+<sup>1</sup> Lors de simples demandes de renseignements, l’autorité n’a pas l’obligation de rendre une décision formelle, sauf demande expresse du demandeur d’aide.
+
+<sup>2</sup> Si elle ne statue pas dans le délai prévu à l’article 47 LIAS, son silence est assimilé à une décision de refus.
+
+<sup>3</sup> Si dans ce délai, l'autorité d'aide sociale ne dispose pas de toutes les informations permettant d’établir un budget, sans qu’il y ait une faute du demandeur d’aide et que l’indigence est démontrée, elle rend une décision provisoire. Elle la notifie au demandeur en l’informant qu’une décision définitive interviendra dès qu’elle sera en possession de tous les documents et informations utiles. Au besoin, elle fixe un délai au demandeur pour transmettre les documents manquants.
+
+<sup>4</sup> Si un budget a été établi, il est notifié au demandeur avec la décision, afin de lui permettre de connaître le calcul ayant servi de base à la décision.
+
+<sup>5</sup> Lorsque les circonstances personnelles se modifient fréquemment, ou que le revenu est irrégulier, la décision peut se présenter sous forme de décision-cadre et ne contenir que les principes de calcul. Le centre médico-social élabore ensuite les budgets mensuels, sur la base de la situation effective et les remet au bénéficiaire sur demande.
 
 #### Art. 56
 
-**Subventions à l'exploitation (art. 31 à 33 LIAS)**
+**Modification (art. 48 LIAS)**
 
-<sup>1</sup> Les subventions aux frais d'exploitation sont versées annuellement ou par acomptes. Elles sont calculées en fonction du déficit prévisionnel reconnu par l'Etat et peuvent être converties en subventions au pro rata de la journée d'accueil ou de l'heure de travail.
+<sup>1</sup> Si une décision doit être modifiée ou révoquée, l’autorité rend une nouvelle décision, d'office ou sur demande.
 
-<sup>2</sup> Les subventions d'exploitation peuvent également être établies sur la base d'un mandat de prestations et d'une subvention forfaitaire.
-
-<sup>3</sup> Les demandes de subvention sont adressées au département. Elles doivent être accompagnées notamment des comptes annuels, du bilan, du rapport d'exercice, du rapport des vérificateurs des comptes, d'un tableau récapitulatif annuel des salaires du personnel et d'une liste des personnes accueillies avec les journées de présence durant l'année. Les pièces justificatives sont à la disposition du département.
+<sup>2</sup> La demande de réexamen peut être faite par le bénéficiaire, par oral ou par écrit.
 
 #### Art. 57
 
-**Contrôle (art. 24bis à 33 LIAS)**
+**Recours (art. 49 LIAS)**
 
-Les institutions sociales spécialisées qui sont subventionnées sont soumises au contrôle de la gestion financière et administrative, conformément à la loi sur la gestion, le contrôle administratif et financier du canton du 24 juin 1980.
+<sup>1</sup> Si au terme du délai de 30 jours suivant la demande d’aide matérielle, l’autorité d’aide sociale n’a pas notifié de décision, le demandeur d’aide peut recourir en tout temps auprès du Conseil d’Etat. Il doit agir dans un délai raisonnable, eu égard à sa situation d’indigence.
+
+<sup>2</sup> Les frais du mandataire ne sont reconnus que restrictivement pour des situations particulièrement complexes.
 
 #### Art. 58
 
-**Aides financières (art. 34 LIAS)**
+**Procédure d'évaluation initiale (art. 51 LIAS)**
 
-Les aides financières destinées aux organisations qui visent à promouvoir l'entraide, l'intégration sociale et l'autonomie des personnes sont accordées sur demande accompagnée d'un rapport circonstancié et conforme à la loi sur les subventions. L'aide accordée tiendra compte de la situation financière de l'organisation.
+<sup>1</sup> L’évaluation initiale est obligatoire pour tous les membres de l’unité d’assistance âgés de plus de 16 ans.
+
+<sup>2</sup> Peuvent être exemptés de la procédure d’évaluation:
+
+- a) les personnes exerçant une activité professionnelle régulière à 80 pour cent au moins ou ayant exercé une telle activité dans les 6 mois précédant la demande;
+- b) les personnes en formation scolaire ou professionnelle;
+- c) les personnes dont l'incapacité de travail est attestée à plus de 50 pour cent par un certificat médical datant de moins d’un mois;
+- d) les personnes ayant seules la garde d'un enfant de moins de 4 mois;
+- e) les personnes ayant atteint l’âge de retraite anticipée selon la loi fédérale sur l'assurance-vieillesse et survivants (LAVS);
+- f) les personnes qui ont suivi une mesure d’au moins un mois auprès d’un organisateur reconnu durant les 6 mois précédant la demande;
+- g) d’autres personnes, moyennant une demande dûment motivée du centre médico-social, soumise à l’approbation du service.
+
+<sup>3</sup> Le centre médico-social informe le service de la procédure d’évaluation envisagée ou des motifs d’exemption.
+
+<sup>4</sup> Lorsque l’évaluation initiale a lieu sous la forme d’une mesure, les articles 27 LIAS et 29 et suivants de la présente ordonnance s’appliquent par analogie.
+
+<sup>5</sup> Dans les 3 mois suivant la décision d’aide matérielle, l’autorité d’aide sociale transmet au service le rapport d’évaluation initiale, indiquant:
+
+- a) les objectifs convenus au début de l’évaluation;
+- b) les mesures mises en œuvre durant l'évaluation;
+- c) l'évaluation de la capacité de travail ou de formation;
+- d) les recommandations utiles à l'élaboration du contrat d'insertion.
+
+<sup>6</sup> Lorsque le motif d’exemption disparaît, le centre médico-social détermine si une évaluation est nécessaire et, cas échéant, la met en œuvre.
 
 #### Art. 59
 
-**Facturation des prestations du centre médico-social (art. 35 LIAS)**
+**Ouverture du dossier (art. 50 LIAS)**
 
-<sup>1</sup> Les frais d’exploitation reconnus des centres médico-sociaux concernent uniquement les prestations liées à l’application de la loi cantonale sur l’intégration et l’aide sociale. Les frais liés à des prestations effectuées pour le compte d’autres organes, tels l’agence AVS ou le service des tutelles, ne sont pas reconnus.
+<sup>1</sup> Le service détermine les documents nécessaires à l’ouverture d’un dossier d’aide matérielle.
 
-<sup>2</sup> Les centres médico-sociaux doivent tenir une comptabilité analytique permettant l’identification des diverses prestations.
+<sup>2</sup> Ces documents doivent être transmis par l’autorité d’aide sociale au service dans les 30 jours qui suivent la décision d'aide matérielle.
 
 #### Art. 60
 
-**Voies de droit (art. 24bis à 35 LIAS)**
+**Modalités d'octroi de l'aide matérielle**
 
-<sup>1</sup> Les décisions de subventionnement peuvent faire l'objet d'une réclamation dans les 30 jours à compter de leur notification auprès de l’autorité qui a pris la décision.
+<sup>1</sup> L’aide matérielle doit en principe être versée les premiers jours du mois pour le mois en cours.
 
-<sup>2</sup> Les décisions prises sur réclamation peuvent faire l'objet d'un recours auprès du Conseil d'Etat. La loi sur la procédure et la juridiction administratives est, pour le surplus, applicable.
+<sup>2</sup> Lorsque le budget ne peut être établi par la faute du bénéficiaire, l’autorité peut douter de l’indigence de la personne. Elle peut conditionner l’octroi de l’aide matérielle à la transmission des pièces dans un délai fixé. Si les documents sont remis après le délai fixé, sans juste motif, l’autorité évalue si l’aide doit être versée uniquement pour les jours restants du mois en cours.
 
-### Section 14: Dispositions finales
+<sup>3</sup> En général, l’aide matérielle est octroyée en espèce, par versement sur un compte bancaire ou postal. Le centre médico-social vérifie mensuellement et avec diligence l’état de la situation financière et familiale du bénéficiaire, notamment l’utilisation des montants octroyés ou les rentrées d’argent extraordinaires.
+
+<sup>4</sup> Lorsque le bénéficiaire n’utilise pas les montants d'aide matérielle pour son entretien ou pour celui des personnes dont il a la charge, ou s'il est prouvé qu'il n'est pas capable de le faire, l’autorité peut prendre les dispositions nécessaires, notamment:
+
+- a) verser l'aide par acompte;
+- b) régler directement certaines factures, notamment le loyer, les frais médicaux, l'électricité, les primes d'assurances;
+- c) verser les prestations financières à un membre de l'unité d’assistance qui a de meilleures capacités de gestion;
+- d) octroyer certaines prestations en nature, dans des cas exceptionnels.
+
+<sup>5</sup> Ces modalités particulières doivent respecter le principe de proportionnalité et encourager la personne à recouvrer progressivement son autonomie dans la gestion de ses affaires. Elles font l’objet d’un accord entre les parties ou d’une décision dûment motivée.
+
+<sup>6</sup> Si les mesures prises ne sont pas suffisantes, le centre médico-social analyse l’opportunité de signaler le cas à l’autorité de protection de l’enfant et de l’adulte.
+
+### 8.8 Remboursement
 
 #### Art. 61
 
-**Abrogation**
+**Prestations d'aide sociale ordinaires obtenues légalement (art. 52 LIAS)**
 
-Le présent règlement abroge le règlement d’exécution de la loi sur l’intégration et l’aide sociale du 9 octobre 1996.
+<sup>1</sup> Dans les cas prévus à l’article 52 alinéa 1 lettres f et g LIAS, l’autorité d’aide sociale examine l’opportunité de demander le remboursement des prestations versées.
+
+<sup>2</sup> Le remboursement doit être demandé en application de l’article 52 alinéa 1 lettre b LIAS lorsque le bénéficiaire touche un montant qui dépasse les franchises prévues dans la loi fédérale sur les prestations complémentaires à l’assurance vieillesse, survivants et invalidité (LPC).
+
+<sup>3</sup> Le département édicte une directive sur les conditions, le calcul et les modalités des remboursements.
+
+<sup>4</sup> L’autorité d’aide sociale peut accorder une remise, d’office ou sur demande, après préavis du service.
 
 #### Art. 62
 
+**Délai de prescription (art. 53 LIAS)**
+
+<sup>1</sup> Lorsqu'un bénéficiaire a sciemment induit en erreur l'autorité compétente sur sa situation financière, le délai de prescription court dès que l'erreur a été découverte, si cette découverte est postérieure à la fin des versements d’aide matérielle.
+
+#### Art. 63
+
+**Restitution des prestations versées indûment (art. 54 LIAS)**
+
+<sup>1</sup> L’aide est versée à tort en raison du comportement du bénéficiaire, notamment:
+
+- a) lorsque celui-ci n’était pas de bonne foi;
+- b) lorsque les prestations ont été versées suite à des déclarations fausses ou incomplètes du bénéficiaire ou alors qu’il a passé des faits sous silence;
+- c) lorsque le bénéficiaire a induit en erreur les autorités d’aide sociale de toute autre manière ou les a confortées dans leur erreur.
+
+<sup>2</sup> Dans le cas visé par l’article 54 alinéa 2 LIAS, le remboursement est exigible immédiatement, avec un taux d’intérêt de 5 pour cent qui commence à courir dès le versement de la prestation indue.
+
+<sup>3</sup> Si la personne est encore au bénéfice de prestations de l’aide matérielle, l’autorité procède à une compensation des montants indûment perçus avec les prestations futures:
+
+- a) en garantissant au minimum l’aide d’urgence de l’article 42 de la loi dans le cas visé par l’article 54 alinéa 2 LIAS;
+- b) en réduisant au maximum de 15 pour cent le forfait d’entretien dans le cas visé par l’article 54 alinéa 3 LIAS.
+
+<sup>4</sup> Lorsque l’aide a été obtenue indûment d'une autorité d'aide sociale n’étant plus compétente pour le versement de l’aide matérielle, l'autorité d'aide sociale actuellement compétente récupère les montants indus conformément à l’alinéa 3 appliqué par analogie et reverse les montants retenus à l’autre autorité d'aide sociale.
+
+<sup>5</sup> Dans le cas visé par l’article 54 alinéa 3 LIAS, si le remboursement de l’aide sociale met la personne dans une situation financière difficile, l’autorité d’aide sociale peut accorder une remise, d’office ou sur demande, après préavis du service.
+
+#### Art. 64
+
+**Remboursement de l’aide couverte par une hypothèque volontaire ou une autre garantie (art. 55 LIAS)**
+
+<sup>1</sup> Le propriétaire d’un bien immobilier qui n’est pas grevé de gage immobilier ou dont le montant des gages est inférieur à la valeur vénale, dispose d’une fortune, qui ne lui permet en principe pas de remplir les conditions d’octroi de l’aide matérielle.
+
+<sup>2</sup> Il n'existe pas de droit de conserver un bien immobilier.
+
+<sup>3</sup> Si la vente est exigée, que toutes les démarches requises pour la vente sont effectuées et que la personne n’a pas de ressources disponibles à court terme et pour autant que le remboursement soit garanti au sens des alinéas 4 ou 5, l’aide matérielle peut être allouée à titre d’avance durant le temps nécessaire à la vente du bien, et devra être remboursée dès que la fortune immobilière aura été réalisée.
+
+<sup>4</sup> Si la personne souhaite obtenir une aide matérielle à titre d’avance, elle doit accepter d’inscrire un gage au registre foncier, au profit de l'autorité d'aide sociale, pour que celle-ci puisse récupérer les montants avancés.
+
+<sup>5</sup> Exceptionnellement, sur préavis du service, l'autorité d'aide sociale peut renoncer à demander cette inscription. Dans une telle situation, le bénéficiaire doit s’engager, par écrit, à rembourser les montants avancés dès la vente ou le transfert du bien. Cet engagement vaut reconnaissance de dette.
+
+<sup>6</sup> Peuvent être grevés d’un gage les immeubles inscrits au registre foncier au nom de l’un des membres majeurs de l’unité d’assistance. Si le bien immobilier est en copropriété, l’inscription du gage se fait sur la part du bénéficiaire.
+
+<sup>7</sup> Si l’inscription d’un gage immobilier nécessite l’accord d'un tiers et que celui-ci s’y oppose, notamment dans le cas d’une hoirie, l'autorité d'aide sociale détermine s’il y a lieu de demander au bénéficiaire de faire des démarches de réalisation du bien immobilier et exige qu’il s’engage, par écrit, à rembourser les montants avancés dès la vente ou le transfert du bien conformément à l'alinéa 3.
+
+<sup>8</sup> L'autorité d'aide sociale détermine la forme du gage immobilier, à savoir une hypothèque ou une cédule hypothécaire au sens des articles 793 et suivants du Code civil suisse, ainsi que le notaire. Elle fixe le montant à inscrire, en tenant compte de l’aide matérielle déjà versée et de l’aide prévisible sur les 2 années à venir.
+
+<sup>9</sup> Le taux d’intérêt maximum inscrit sur le gage immobilier est fixé à 5 pour cent. Il s’applique uniquement en cas d’obtention frauduleuse de l’aide matérielle.
+
+<sup>10</sup> En cas de réalisation du bien immobilier, l'autorité d'aide sociale est remboursée immédiatement, quelle que soit la situation financière du propriétaire. Le remboursement des prestations est également exigible dès que le bénéficiaire remplit les conditions ordinaires prévues à l’article 52 LIAS.
+
+<sup>11</sup> Le département précise les conditions liées au renoncement à la vente, à l’inscription ainsi que les exceptions aux principes susmentionnés.
+
+#### Art. 65
+
+**Bien immobilier à l'étranger (art. 55 LIAS)**
+
+<sup>1</sup> Si le bien immobilier est à l’étranger, il doit être vendu.
+
+<sup>2</sup> Le département précise les exceptions à ce principe dans une directive.
+
+<sup>3</sup> Dans tous les cas, le bénéficiaire doit s’engager, par écrit, à rembourser les montants avancés dès la vente ou le transfert du bien. Cet engagement vaut reconnaissance de dette.
+
+<sup>4</sup> Lorsque la vente est exigée mais n’a pas encore eu lieu, l’aide matérielle est versée de manière dégressive, pour autant que la personne prouve que toutes les démarches requises pour la vente sont en cours. Le département précise dans une directive les modalités de cette aide dégressive.
+
+<sup>5</sup> Si la personne refuse d’entreprendre ou de poursuivre les démarches nécessaires, l’aide matérielle est refusée ou supprimée.
+
+#### Art. 66
+
+**Bien mobilier (art. 55 al. 5 LIAS)**
+
+<sup>1</sup> Si le bénéficiaire est propriétaire d’un bien mobilier dont la valeur dépasse la franchise admise pour l’unité d’assistance, la vente doit en principe être exigée.
+
+<sup>2</sup> Si celle-ci ne peut pas avoir lieu dans un court délai et si la personne n’a pas d’autres ressources disponibles à court terme, l’aide matérielle peut être allouée à titre d’avance durant le temps nécessaire à la vente du bien et devra être remboursée dès que le bien aura été réalisé.
+
+<sup>3</sup> S’il est opportun de renoncer à la vente, l’octroi de l’aide matérielle doit en principe être conditionnée à un gage mobilier.
+
+<sup>4</sup> S’il n’est pas possible ou opportun de constituer un gage mobilier, le bénéficiaire doit s’engager, par écrit, à rembourser les montants avancés dès la vente ou le transfert du bien. Cet engagement vaut reconnaissance de dette.
+
+#### Art. 67
+
+**Remboursement de l’aide matérielle versée à titre d’avances sur une prestation financière (art. 56 LIAS)**
+
+<sup>1</sup> Lorsque l’aide matérielle est versée à titre d’avance sur une prestation, l’autorité d’aide sociale en informe sans délai le tiers concerné, en produisant au besoin la cession signée par le bénéficiaire.
+
+<sup>2</sup> Les avances octroyées sont remboursables dès réception de la prestation, quelle que soit la situation financière du bénéficiaire à ce moment-là.
+
+#### Art. 68
+
+**Procédure (art. 58 LIAS)**
+
+<sup>1</sup> Afin de calculer le montant à rembourser, l’autorité d’aide sociale prend en compte l’entier de la dette d’assistance, avant répartition selon la loi sur l’harmonisation.
+
+<sup>2</sup> Les remboursements obtenus sont portés au crédit du compte d’assistance soumis à répartition entre le canton et les communes. Le taux applicable est celui en vigueur dans la loi sur l’harmonisation au moment du remboursement.
+
+## 9 Soins et de transport en urgence
+
+#### Art. 69
+
+**Frais de soins et de transport en urgence (art. 59 LIAS)**
+
+<sup>1</sup> La prise en charge des frais de soins ou de transport en urgence est soumise au principe de subsidiarité et ne peut intervenir qu'après épuisement des possibilités légales de recouvrement de la créance, par voie de poursuite ou par une maison de recouvrement.
+
+<sup>2</sup> Ne sont pas considérés comme dépenses d'assistance et donc exclues de la prise en charge par l’aide sociale:
+
+- a) les frais de recherches infructueuses;
+- b) les frais engagés lorsqu'il n'y a pas de personne impliquée ou lorsque l'identité de la personne impliquée n'est pas connue;
+- c) les frais liés aux procédures de recouvrement de la créance par l'organe de soins ou de transport, notamment les intérêts, frais de rappel et de poursuite;
+- d) les factures refusées par le service pour défaut de diligence de l'entreprise de transport, de l'hôpital ou du médecin.
+
+<sup>3</sup> Les frais visés à l’alinéa 2 lettres a et b sont remboursés par l’Organisation cantonale valaisanne des secours. Ceux visés à l’alinéa 2 lettres c et d restent exclusivement à charge des organes de soins ou de transport.
+
+<sup>4</sup> En cas de défaut de diligence de la commune, les frais reconnus comme dépense d'assistance ne sont pas soumis à la répartition selon la loi sur l'harmonisation et laissés entièrement à charge de ladite commune.
+
+<sup>5</sup> En cas de refus de prise en charge ou de répartition des frais pour défaut de diligence, à la demande de l’organe de soins ou de transport ou de la commune, le service rend une décision.
+
+<sup>6</sup> Le département règle par directive les modalités et la procédure de prise en charge.
+
+## 10 Protection des données et échange d'informations
+
+#### Art. 70
+
+**Secret de fonction et obligation de garder le secret (art. 60 LIAS)**
+
+<sup>1</sup> Sont en particulier concernés par l’article 60 LIAS les collaborateurs des centres médico-sociaux, du service, des institutions et organisations privées qui travaillent à l’application de la loi, les membres des organes des associations de communes et des autorités communales.
+
+<sup>2</sup> Le secret de fonction et l’obligation de garder le secret perdurent après la fin des rapports de travail.
+
+<sup>3</sup> En application de l’article 35 de la loi fédérale sur la protection des données (LPD), la personne qui, intentionnellement, aura révélé d’une manière illicite des données personnelles secrètes et sensibles ou des profils de la personnalité, portés à sa connaissance dans l’exercice d’une profession qui requiert la connaissance de telles données, sera, sur plainte, punie de l’amende.
+
+#### Art. 71
+
+**Echange des données (art. 61 à 63 LIAS)**
+
+<sup>1</sup> Les données peuvent être transmises et obtenues, sur demande ou d’office, par oral, par écrit ou via le programme informatique.
+
+<sup>2</sup> La personne percevant ou sollicitant l’aide sociale doit être rendue attentive au fait que des renseignements peuvent être obtenus auprès des personnes et autorités citées à l'article 62 LIAS.
+
+<sup>3</sup> Les renseignements obtenus en application de l’article 62 LIAS font partie du dossier de la personne qui peut les consulter en tout temps, sur demande.
+
+#### Art. 72
+
+**Droit de renseigner (art. 63 LIAS)**
+
+<sup>1</sup> Les autorités mentionnées à l'article 63 alinéa 2 LIAS peuvent demander un accès en ligne au programme informatique afin d’obtenir les données personnelles, y compris les données sensibles et les profils de la personnalité, qui leur sont nécessaires pour savoir:
+
+- a) si la personne bénéficie ou a bénéficié de prestations de l'aide sociale ainsi que le montant de la dette d’aide sociale;
+- b) s'il existe une subrogation en faveur d'une autorité d'aide sociale.
+
+## 11 Inspection spécialisée
+
+#### Art. 73
+
+**Mandat d'inspection (art. 65 LIAS)**
+
+<sup>1</sup> Le mandat d'inspection est donné par le service en charge de l’action sociale, d’office ou sur demande, au service chargé de la protection des travailleurs et des relations du travail (SPT), par sa section en charge de l'inspection de l'emploi et de l'aide sociale.
+
+<sup>2</sup> Le mandat doit indiquer les faits motivant les soupçons et contenir les données nécessaires pour procéder à l’enquête.
+
+<sup>3</sup> Les inspecteurs sont assermentés et doivent disposer des connaissances juridiques et en la matière d'enquêtes nécessaires à la bonne exécution du mandat.
+
+#### Art. 74
+
+**Observation (art. 67 LIAS)**
+
+<sup>1</sup> La durée de l’observation doit demeurer proportionnée. Si des motifs suffisant le justifient, le chef de la section en charge de l’inspection peut requérir auprès du chef du département en charge des affaires sociales une prolongation du délai prévu à l’article 67 alinéa 4.
+
+<sup>2</sup> Est considéré comme un lieu accessible au public tout espace public ou privé dont il est généralement toléré que la collectivité y ait accès.
+
+<sup>3</sup> N’est pas considéré comme librement visible depuis un lieu accessible au public tout lieu relevant de la sphère privée de la personne à observer, en particulier:
+
+- a) l’intérieur d’un logement, y compris les pièces visibles de l’extérieur par une fenêtre;
+- b) les places, cours et jardins clos appartenant directement à une maison, qui ne sont ordinairement pas visibles de l’extérieur.
+
+#### Art. 75
+
+**Conservation, consultation et destruction du matériel recueilli (art. 69 al. 4 LIAS)**
+
+<sup>1</sup> Le matériel recueilli est conservé de manière sûre et appropriée, et de sorte qu’il ne puisse subir aucun dommage.
+
+<sup>2</sup> En dérogation à l’article 69 alinéa 2 LIAS, si l’enquête débouche sur une dénonciation pénale, il appartient à l’autorité pénale de statuer sur le droit du bénéficiaire d’avoir accès aux données recueillies.
+
+<sup>3</sup> Les données recueillies qui ne sont pas utilisées à titre de preuves ou qui ne sont pas utilisables doivent être détruites immédiatement.
+
+<sup>4</sup> Les données conservées par le SPT doivent être détruites au plus tard 5 ans après leur transmission aux autorités d'aide sociale. Les durées de conservation plus longues prévues par d’autres lois sont réservées.
+
+<sup>5</sup> Les données conservées par l’autorité d’aide sociale, le centre médico-social et le service suivent le sort du dossier d’aide sociale de la personne.
+
+## 12 Dispositions pénales
+
+#### Art. 76
+
+**Sanctions pénales (art. 70 LIAS)**
+
+<sup>1</sup> L’autorité qui octroie l’aide matérielle dénonce aux autorités pénales toute infraction poursuivie d'office qui n'aurait pas déjà été dénoncée par les inspecteurs.
+
+<sup>2</sup> En cas d'infraction poursuivie sur plainte, l'autorité peut renoncer à déposer plainte pour autant qu’un accord ait été conclu sur la restitution des montants indûment perçus ou non remboursés. L'accord, dont une copie doit être transmise au service pour information, vaut reconnaissance de dette au sens de la loi sur les poursuites et la faillite pour le montant indiqué.
+
+<sup>3</sup> En cas de violation du devoir de discrétion prévu à l’article 60 LIAS, l’autorité d’aide sociale et le service sont compétents pour déposer plainte.
+
+## 13 Organisations à caractère social
+
+#### Art. 77
+
+**Définition (art. 71 LIAS)**
+
+<sup>1</sup> Peuvent notamment être reconnues comme organisations à caractère social au sens de la LIAS:
+
+- a) les organisations chargées d'une mission spécifique dans le domaine de l'accompagnement social, de l'éducation, du désendettement ou de la prévention de l'exclusion;
+- b) les entreprises sociales s'occupant de bénéficiaires d'aide sociale;
+- c) les organisations chargées de l'insertion et du suivi de bénéficiaires d'aide sociale auprès d'employeurs privés ou publics;
+- d) les institutions chargées de l'hébergement et du soutien de personnes en situation de précarité.
+
+#### Art. 78
+
+**Reconnaissance d'utilité publique (art. 74 LIAS)**
+
+<sup>1</sup> Pour être reconnue d'utilité publique au sens de la LIAS, une organisation à caractère social:
+
+- a) doit être une personne morale;
+- b) ne doit pas poursuivre un but lucratif mais d’intérêt général dans le domaine social, et
+- c) doit affecter exclusivement et irrévocablement son patrimoine et ses revenus à la poursuite du but d’utilité publique.
+
+<sup>2</sup> Le département peut fixer, par directive, des conditions complémentaires.
+
+<sup>3</sup> Les organisations qui souhaitent être reconnues d’utilité publique doivent déposer une demande auprès du service qui préavise la demande et la transmet pour décision au département. Le service précise les documents nécessaires et peut demander, au besoin, des informations complémentaires à l’organisation.
+
+#### Art. 79
+
+**Aide financière (art. 73 et 75 LIAS)**
+
+<sup>1</sup> Les organisations qui souhaitent obtenir une aide financière doivent déposer une demande accompagnée d'un rapport circonstancié et conforme à la loi sur les subventions.
+
+<sup>2</sup> Le département précise, dans une directive, la forme des aides ainsi que les modalités d’octroi et de contrôle.
+
+#### Art. 80
+
+**Voies de droit (art. 71 à 76 LIAS)**
+
+<sup>1</sup> Les décisions relatives à l'attribution d'une aide, à sa révocation ou à son remboursement peuvent faire l'objet d'une réclamation dans les 30 jours à compter de leur notification auprès de l’autorité qui a pris la décision.
+
+<sup>2</sup> Les décisions prises sur réclamation peuvent faire l'objet d'un recours auprès du Conseil d'Etat.
+
+<sup>3</sup> La loi sur la procédure et la juridiction administratives (LPJA) s’applique pour le surplus.
+
+## 14 Répartition des frais
+
+#### Art. 81
+
+**Montants non soumis à la répartition (art. 77 al. 3 LIAS)**
+
+<sup>1</sup> Ne font pas l'objet de la répartition:
+
+- a) l'aide matérielle qui ne correspond pas aux conditions, directives ou principes applicables dans le canton;
+- b) les prestations qui ont été allouées alors que les obligations en matière de vérification de la situation n'ont pas été observées par les autorités communales ou les centres médico-sociaux;
+- c) les frais administratifs des autorités d'aide sociale, sous réserve des frais expressément admis par le service.
+
+<sup>2</sup> Les avances versées au propriétaire d’un bien immobilier sont admises à la répartition lorsque le gage est inscrit au registre foncier et qu’une copie de l’acte est transmise au service. S’il est renoncé à l’établissement d’une cédule hypothécaire sur préavis du service, elles sont admises lorsque la garantie écrite du bénéficiaire s’engageant à rembourser les montants avancés dès la vente ou le transfert du bien est remise au service.
+
+<sup>3</sup> Le service peut également refuser la répartition de l'aide matérielle versée par une commune ou un centre médico-social si les formes et les délais d'annonce et de transmission des documents prévus à l’article 12 alinéa 3 n’ont pas été respectés:
+
+- a) à l'ouverture du dossier (art. 59 al. 2);
+- b) lors du décompte semestriel (art. 78 al. 4 LIAS).
+
+<sup>4</sup> Les frais non admis restent à la charge de la commune concernée.
+
+#### Art. 82
+
+**Frais de sépulture (art. 77 al. 3 let. a LIAS)**
+
+<sup>1</sup> Les frais de sépulture ne sont pas considérés comme des prestations d’aide sociale et ne sont pas admis à la répartition.
+
+<sup>2</sup> Ces frais, dans la mesure où ils correspondent à un ensevelissement modeste, sont assumés par la commune de domicile d’assistance si, malgré la diligence du prestataire, ils ne peuvent pas être récupérés auprès des héritiers ou de la personne qui a commandé la prestation.
+
+<sup>3</sup> Si le défunt ne disposait d’aucun domicile d’assistance en Suisse, les frais sont pris en charge par la commune de séjour pour autant que le défunt y séjournait depuis plus de 30 jours et, à défaut, par l'Etat.
+
+<sup>4</sup> Le département peut préciser, dans une directive, les conditions et la procédure à respecter ainsi que les montants pouvant être pris en charge.
+
+#### Art. 83
+
+**Assurance maladie (art. 77 al. 3 let. e LIAS)**
+
+<sup>1</sup> L'obligation des communes concerne le contrôle de l'affiliation des personnes soumises à l'obligation d'assurance conformément à l’article 4 de la loi cantonale sur l’assurance maladie.
+
+<sup>2</sup> En cas de défaut de diligence de la commune, les frais d’hospitalisation, de traitement ou de transport qui n'ont pas pu être récupérés restent à charge exclusive de la commune.
+
+#### Art. 84
+
+**Procédure (art. 78 LIAS)**
+
+<sup>1</sup> Dans les délais fixés à l’article 78 alinéa 3 LIAS, l’autorité d’aide sociale transmet semestriellement au service un décompte détaillé faisant état pour chaque unité d’assistance des dépenses et des recettes.
+
+<sup>2</sup> Le service détermine les montants soumis à répartition.
+
+<sup>3</sup> Il laisse à charge exclusive des communes les montants non soumis à la répartition ainsi que le préjudice financier qui en résulte.
+
+<sup>4</sup> La décision rendue en application de l’article 77 alinéa 6 LIAS peut faire l'objet d'un recours au Conseil d'Etat.
+
+<sup>5</sup> Le service se charge de la répartition communale des montants admis et de l’établissement du décompte pour chaque commune, conformément aux dispositions de la loi sur l’harmonisation.
+
+#### Art. 85
+
+**Facturation des prestations du centre médico-social (art. 79 LIAS)**
+
+<sup>1</sup> Les frais d’exploitation reconnus des centres médico-sociaux concernent uniquement les prestations liées à l’application de la LIAS.
+
+<sup>2</sup> Ne sont pas reconnus les frais liés à d'autres prestations, notamment celles effectuées pour le compte d’autres organes, tels l’agence AVS ou le service des curatelles.
+
+<sup>3</sup> Les centres médico-sociaux doivent tenir une comptabilité analytique permettant l’identification des coûts des diverses prestations.
+
+## 15 Dispositions transitoires et finales
+
+#### Art. 87
+
+**Dispositions transitoires**
+
+<sup>1</sup> Le remboursement de l’aide sociale perçue selon l’ancien droit reste dû si un retour à meilleure fortune avait été établi formellement avant l’entrée en vigueur de la présente loi.
+
+#### Art. 88
+
 **Dispositions finales**
 
-<sup>1</sup> Le département veille à l'application du présent règlement.
+<sup>1</sup> Le département veille à l’application de la présente ordonnance et édicte les directives nécessaires.
 
-<sup>2</sup> Le présent règlement sera publié au Bulletin officiel et entrera en vigueur en même temps que la loi.
+<sup>2</sup> Le département édicte une directive concernant la prise en charge financière des personnes relevant du domaine de l’asile en s’appuyant notamment sur la loi fédérale sur l’asile et les conventions internationales.
 
-Ainsi adopté en Conseil d'Etat, à Sion, le 7 décembre 2011.
-
-Le président du Conseil d’Etat: Jacques Melly Le chancelier d’Etat: Philipp Spörri
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur
-
-**01.01.1997**
-
-### Règlement d'exécution de la loi sur
-
-l'intégration et l'aide sociale du 7 décembre
-
-### 2011
-
-## Autres notes
-
-- [1] Modification du 18 novembre 2015 BO No 48/2015 01.01.2016
+RCV RO/AGS 2021-047
