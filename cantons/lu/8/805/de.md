@@ -4,13 +4,13 @@ number: "805"
 title: Medizinalberufeverordnung
 short: MbV
 language: de
-version: 2021-02-01
-valid_until: 2021-06-30
-version_adopted: 2021-01-19
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-15
 adopted: 2009-04-28
 in_force: 2009-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/805"
-pdf: "https://srl.lu.ch/api/de/versions/3712/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3753/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3712/pdf_file"
 
 (MbV)
 
-vom 28.04.2009 (Stand 01.02.2021)
+vom 28.04.2009 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -244,6 +244,8 @@ beschliesst:
 
 <sup>3</sup> Erfolgt die Stellvertretung durch eine universitäre Medizinalperson, die im Kanton Luzern bereits eine entsprechende Berufsausübungsbewilligung besitzt, genügt eine Meldung mit den Angaben über die Personalien, den Umfang und die Zeitdauer der Stellvertretung.
 
+<sup>4</sup> Die zuständige Dienststelle kann einen Stellvertreter oder eine Stellvertreterin, der oder die die Praxis einer verstorbenen fachlich eigenverantwortlich tätigen universitären Medizinalperson vorübergehend fortführt, bewilligen.
+
 #### § 17
 
 **Assistenz**
@@ -258,7 +260,8 @@ beschliesst:
 <sup>3</sup> Die Bewilligung ist befristet:
 
 - a. bei Ärztinnen und Ärzten, Apothekerinnen und Apothekern sowie Chiropraktorinnen und Chiropraktoren längstens bis zum Erwerb des Weiterbildungstitels,
-- b. bei Zahnärztinnen und Zahnärzten für die nach Artikel 42 der eidgenössischen Verordnung über die Krankenversicherung (KVV) vom 27. Juni 1995[^17-1] erforderliche zweijährige praktische Weiterbildung nach Erwerb des Diploms oder für die praktische Weiterbildung im Hinblick auf den Erwerb eines eidgenössischen Weiterbildungstitels als Fachzahnarzt oder Fachzahnärztin.
+- b. bei Zahnärztinnen und Zahnärzten für die nach Artikel 42 der eidgenössischen Verordnung über die Krankenversicherung (KVV) vom 27. Juni 1995[^17-1] erforderliche zweijährige praktische Weiterbildung nach Erwerb des Diploms oder für die praktische Weiterbildung im Hinblick auf den Erwerb eines eidgenössischen Weiterbildungstitels als Fachzahnarzt oder Fachzahnärztin,
+- c. bei Tierärztinnen und Tierärzten für eine praktische Weiterbildung nach Erwerb des Diploms von maximal zwei Jahren.
 
 <sup>4</sup> Die Bewilligung ist für jeden Assistenten und für jede Assistentin einzeln zu beantragen. Bei einem Vollzeitpensum des Bewilligungsinhabers oder der -inhaberin werden Assistentinnen und Assistenten im Umfang von gesamthaft höchstens 200 Stellenprozenten bewilligt. Die zuständige Dienststelle gemäss § 3 Absatz 1 kann in begründeten Fällen Ausnahmen bewilligen.
 
@@ -287,7 +290,7 @@ beschliesst:
 <sup>1</sup> Eine Betriebsbewilligung der Dienststelle Gesundheit und Sport benötigen ambulante ärztliche, zahnärztliche und chiropraktische Praxen,
 
 - a. in denen mehrere fachlich eigenverantwortlich tätige universitäre Medizinalpersonen eine wirtschaftliche Abrechnungseinheit bilden (Gruppen- und Gemeinschaftspraxen) oder
-- b. die wirtschaftlich nicht den für sie fachlich eigenverantwortlich tätigen universitären Medizinalpersonen persönlich gehören.
+- b. die wirtschaftlich nicht der Medizinalperson oder den Medizinalpersonen persönlich gehören, die für die Praxis fachlich eigenverantwortlich tätig sind.
 
 <sup>2</sup> Nicht bewilligungspflichtig sind
 
