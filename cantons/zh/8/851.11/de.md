@@ -4,11 +4,11 @@ number: "851.11"
 title: Verordnung zum Sozialhilfegesetz (SHV)
 short: SHV
 language: de
-version: "2021-04-01"
-nachtrag: "112"
-valid_until: 2021-07-01
+version: "2021-07-01"
+nachtrag: "113"
+valid_until: 2023-01-01
 adopted: 1981-10-21
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_11-1981_10_21-1982_01_01-112.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_11-1981_10_21-1982_01_01-113.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ Besorgen Gemeinden Aufgaben der Sozialhilfe gemeinsam in einem Zweckverband, mü
 
 **1**
 
-- 1\. 4. 21 - 112 § 6. Stellen die Referenten Mängel fest, dringen sie auf Abhilfe. Nötigenfalls bewirken sie einen Beschluss des Bezirksrates, welcher der Sicherheitsdirektion<sup>11</sup> bekanntzugeben ist.
+- 1\. 7. 21 - 113 § 6. Stellen die Referenten Mängel fest, dringen sie auf Abhilfe. Nötigenfalls bewirken sie einen Beschluss des Bezirksrates, welcher der Sicherheitsdirektion<sup>11</sup> bekanntzugeben ist.
 
 #### § 7
 
@@ -150,7 +150,7 @@ Personen, die Hilfesuchende beraten und betreuen, müssen aufgrund ihrer Ausbild
 
 **3**
 
-- 1\. 4. 21 - 112
+- 1\. 7. 21 - 113
 
 ### C. Wirtschaftliche Hilfe
 
@@ -224,7 +224,7 @@ Mit der wirtschaftlichen Hilfe können insbesondere folgende Auflagen und Weisun
 
 **5**
 
-- 1\. 4. 21 - 112
+- 1\. 7. 21 - 113
 
 - b. ärztliche oder therapeutische Untersuchung oder Behandlung,
 
@@ -308,6 +308,24 @@ Mit der wirtschaftlichen Hilfe können insbesondere folgende Auflagen und Weisun
 
 Die Fürsorgebehörde führt für jeden Hilfsfall chronologisch geordnete Akten und ein individuelles Konto. Die Sicherheitsdirektion<sup>11</sup> regelt die Einzelheiten der Akten- und Rechnungsführung.
 
+**Observationsmaterial a. Einsicht**
+
+§ 32 a.<sup>23</sup> <sup>1</sup> Mit der Information gemäss § 48 a Abs. 5 oder der Anordnung gemäss § 48 a Abs. 6 des Sozialhilfegesetzes<sup>5</sup> teilt das Sozialhilfeorgan der betroffenen Person mit, dass sie Anspruch hat, auf a. Einsicht in das Observationsmaterial,
+
+- b. Erstellung und Zustellung von Kopien des Observationsmaterials.
+
+<sup>2</sup> Die Einsichtnahme und die Erstellung von Kopien sind unentgeltlich.
+
+**b. Aufbewahrung und Vernichtung**
+
+§ 32 b.<sup>23</sup> <sup>1</sup> Das Sozialhilfeorgan bewahrt das Observationsmaterial bis zur Information gemäss § 48 a Abs. 5 oder der Anordnung gemäss § 48 a Abs. 6 des Sozialhilfegesetzes getrennt vom Sozialhilfedossier auf.
+
+**7**
+
+- 1\. 7. 21 - 113
+
+<sup>2</sup> Bei Anordnungen von § 48 a Abs. 6 des Sozialhilfegesetzes wird das Observationsmaterial innerhalb von drei Monaten nach Rechtskraft der Anordnung vernichtet. Das Sozialhilfeorgan teilt der betroffenen Person die Vernichtung schriftlich mit.
+
 #### § 33
 
 **Überprüfung**
@@ -323,10 +341,6 @@ Die Fürsorgebehörde überprüft periodisch, mindestens einmal jährlich, alle 
 <sup>1</sup> Der Ersatz der Kosten nach §§ 42−44 des Gesetzes<sup>5</sup> und nach Bundesrecht wird mit schriftlicher Anzeige des Hilfsfalles an die zuständige Behörde geltend gemacht.
 
 <sup>2</sup> Die Aufenthaltsgemeinde zeigt den Hilfsfall so bald als möglich, die Wohngemeinde innert 30 Tagen seit der Beschlussfassung über die Hilfeleistung an. In begründeten Fällen und soweit dies die Bestimmungen über den interkantonalen Kostenersatz zulassen, läuft die Frist längstens ein Jahr. Für später gemeldete Unterstützungsfälle besteht kein Anspruch auf Kostenersatz.<sup>9</sup>
-
-**7**
-
-- 1\. 4. 21 - 112
 
 <sup>3</sup> Nimmt die Wohngemeinde ihre Hilfeleistung nach einem Unterbruch von weniger als einem Jahr wieder auf, ist keine neue Anzeige erforderlich.
 
@@ -360,9 +374,11 @@ Die Fürsorgebehörde überprüft periodisch, mindestens einmal jährlich, alle 
 
 <sup>3</sup> Nicht angerechnet werden Kosten, die Asylsuchende betreffen oder welche die Gemeinde wegen Nichtbeachtung von Bestimmungen über den Kostenersatz tragen muss.<sup>9</sup>
 
-§ 39.<sup>19</sup> § 40. Beitragsgesuche sind dem Kantonalen Sozialamt<sup>16</sup> innert sechs Monaten nach Ablauf des Rechnungsjahres einzureichen. Sie müssen die erforderlichen Angaben und Unterlagen enthalten, deren Umfang das Kantonale Sozialamt<sup>16</sup> bestimmt. Es kann Einblick in die Rechnungsführung der gesuchstellenden Fürsorgebehörde nehmen.
+§ 39.<sup>19</sup>
 
 **c. Beitragsgesuch18**
+
+§ 40. Beitragsgesuche sind dem Kantonalen Sozialamt<sup>16</sup> innert sechs Monaten nach Ablauf des Rechnungsjahres einzureichen. Sie müssen die erforderlichen Angaben und Unterlagen enthalten, deren Umfang das Kantonale Sozialamt<sup>16</sup> bestimmt. Es kann Einblick in die Rechnungsführung der gesuchstellenden Fürsorgebehörde nehmen.
 
 ### E. Schlussbestimmungen
 
@@ -384,6 +400,10 @@ Bestreitet eine Gemeinde, dass die Hilfepflicht oder Kostentragung für wirtscha
 
 <sup>1</sup> Die Rückerstattung von Unterstützungen, die aufgrund des Gesetzes über die Armenfürsorge<sup>7</sup> ausgerichtet worden sind, erfolgt nach neuem Recht, sofern das bisherige Recht für den Betroffenen nicht günstiger ist.
 
+**9**
+
+- 1\. 7. 21 - 113
+
 <sup>2</sup> Dasselbe gilt im Rekursverfahren für die Beurteilung von Art und Mass der Unterstützungen, die noch nach bisherigem Recht festgelegt worden sind.
 
 #### § 44
@@ -400,11 +420,11 @@ Die nachstehenden Verordnungen werden aufgehoben:
 
 - d. die Verordnung zur Einführung des Bundesgesetzes über die Zuständigkeit für die Unterstützung Bedürftiger vom 29. November 1978.
 
-**9**
-
-- 1\. 4. 21 - 112 § 45. Diese Verordnung tritt am 1. Januar 1982 in Kraft.
+#### § 45
 
 **Inkrafttreten**
+
+Diese Verordnung tritt am 1. Januar 1982 in Kraft.
 
 ### Übergangsbestimmungen zur Änderung vom 2. März 2005 (OS 60, 74)
 
@@ -450,6 +470,10 @@ Die Gemeinden wenden die Teuerungsanpassung spätestens nach vier Monaten nach I
 
 Die Gemeinden wenden die geänderten Bestimmungen der SKOS-Richtlinien spätestens ab dem 1. Mai 2021 an.
 
+**11**
+
+- 1\. 7. 21 - 113
+
 ### Übergangsbestimmungen zur Änderung vom 16. Dezember 2020
 
 (OS 76, 60)
@@ -465,7 +489,7 @@ Die Gemeinden wenden die Teuerungsanpassung spätestens drei Monate nach Inkraft
 - [4] LS 175.2.
 - [5] LS 851.1.
 - [6] SR 851.1.
-- [7] OS 33, 511; heute aufgehoben. 1. 4. 21 - 112 11
+- [7] OS 33, 511; heute aufgehoben.
 - [8] Fassung gemäss RRB vom 19. Dezember 1990 (OS 51, 384). In Kraft seit 1. Januar 1991.
 - [9] Fassung gemäss RRB vom 11. Februar 1998 (OS 54, 494). In Kraft seit 1. Januar 1998.
 - [10] Fassung gemäss RRB vom 2. März 2005 (OS 60, 74). In Kraft seit 1. April 2005.
@@ -481,3 +505,4 @@ Die Gemeinden wenden die Teuerungsanpassung spätestens drei Monate nach Inkraft
 - [20] Fassung gemäss RRB vom 7. November 2012 (OS 67, 619; ABl 2012-11-16). In Kraft seit 1. Januar 2013.
 - [21] Fassung gemäss RRB vom 4. Dezember 2012 (OS 68, 96; ABl 2012-12-14). In Kraft seit 1. April 2013.
 - [22] Fassung gemäss RRB vom 16. Dezember 2020 (OS 76, 60; ABl 2020-12-24). In Kraft seit 1. April 2021.
+- [23] Eingefügt durch RRB vom 14. April 2021 (OS 76, 230; ABl 2021-04-23). In Kraft seit 1. Juli 2021.
