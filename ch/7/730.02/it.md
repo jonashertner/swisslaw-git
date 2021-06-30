@@ -4,29 +4,32 @@ title: "Ordinanza del 1° novembre 2017 concernente le esigenze per l'efficienza
 short: OEEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: it
-version: 2021-05-01
+version: 2021-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza concernente le esigenze per l’efficienza energetica di impianti, veicoli e apparecchi prodotti in serie
+# Ordinanzaconcernente le esigenze per l’efficienza energetica di impianti, veicoli e apparecchi prodotti in serie
 
 (Ordinanza sull’efficienza energetica, OEEne)
 
-del 1° novembre 2017 (Stato 1° maggio 2021)
+del 1° novembre 2017 (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
-vista la legge del 30 settembre 2016[^ingress-1] sull’energia (LEne); in esecuzione della legge federale del 6 ottobre 1995[^ingress-2] sugli ostacoli tecnici al commercio (LOTC),
+vista la legge del 30 settembre 2016[^ingress-1] sull’energia (LEne); visto l’articolo 38 della legge del 15 dicembre 2000[^ingress-2] sui prodotti chimici; visti gli articoli 39 capoverso 1 e 40 della legge del 7 ottobre 1983[^ingress-3] sulla protezione dell’ambiente; in esecuzione della legge federale del 6 ottobre 1995[^ingress-4] sugli ostacoli tecnici al commercio,[^ingress-5]
 
 ordina:
 
 [^ingress-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-2]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
+[^ingress-3]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-4]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-5]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -102,8 +105,8 @@ Chi commercializza o cede impianti e apparecchi di cui al capoverso 1 deve provv
 
 <sup>4</sup> Nei documenti di vendita di cui al capoverso 3 lettera b, in alternativa la classe di efficienza energetica può essere indicata in bianco su una freccia di forma e colore corrispondente alla classe di efficienza energetica dell’impianto o dell’apparecchio come figura sull’etichettaEnergia; deve essere utilizzata la stessa dimensione di carattere impiegata per l’indicazione prezzo.
 
-[^6-1]: L’allegato 1.21 entra in vigore il 1° marzo 2021, l’allegato 1.22 il 1° settembre 2021 (RU **2020** 1438 1441).
-[^6-2]: L’allegato 3.1 è abrogato il 1° settembre 2021.
+[^6-1]: L’all. 1.21 entra in vigore il 1° mar. 2021, l’all. 1.22 il 1° set. 2021 (RU **2020** 1438 1441).
+[^6-2]: L’all. 3.1 è abrogato il 1° set. 2021.
 [^6-3]: Nuovo testo giusta il n. I dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 #### Art. 7
@@ -248,7 +251,8 @@ Chi importa, commercializza o cede in Svizzera pneumatici di classe C1, C2 o C3 
 Nell’ambito dell’attività di controllo può in particolare:
 
 - a. esigere da fabbricanti, importatori e commercianti l’accesso alla documentazione e alle informazioni necessarie per il controllo;
-- b. entrare nei fondi, negli edifici, nelle aziende, nei locali, negli impianti e nelle altre infrastrutture durante il normale orario di lavoro.
+- b. entrare nei fondi, negli edifici, nelle aziende, nei locali, negli impianti e nelle altre infrastrutture durante il normale orario di lavoro;
+- c.[^14-2] ordinare un’omologazione energetica (valutazione della conformità) per gli impianti e gli apparecchi; i fabbricanti, gli importatori e i commercianti devono mettere gratuitamente a disposizione dell’UFE gli impianti e gli apparecchi necessari a questo scopo.
 
 <sup>3</sup>
 
@@ -258,24 +262,17 @@ Se dal controllo risulta la violazione di prescrizioni della presente ordinanza,
 - b. disporre di rimediare alla violazione e ordinare il ritiro, il sequestro e la confisca di un impianto, di un veicolo o di un apparecchio o di un loro componente;
 - c. pubblicare le misure che ha adottato.
 
+<sup>4</sup> Se dal controllo risulta che gli impianti o gli apparecchi non soddisfano le esigenze della presente ordinanza, i costi insorti nell’ambito del controllo sono a carico della persona che ha commercializzato o ceduto tali impianti o apparecchi.[^14-3]
+
 [^14-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^14-2]: Introdotta dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
+[^14-3]: Introdotto dal n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
 
 #### Art. 15
 
-**Valutazioni della conformità presso impianti e apparecchi**[^15-1]
+[^15-1]
 
-<sup>1</sup>
-
-Nell’ambito dei controlli di cui all’articolo 14, l’UFE può ordinare un’omologazione energetica (valutazione della conformità), in particolare se:
-
-- a. la documentazione e le informazioni richieste non sono presentate o sono presentate solo in parte entro il termine stabilito dall’UFE;
-- b. dalla prova di cui agli articoli 7 e 8 non risulta abbastanza chiaramente che gli impianti o gli apparecchi soddisfano le esigenze della presente ordinanza;
-- c. esiste il dubbio che gli impianti o gli apparecchi corrispondano alla documentazione presentata oppure esistono ulteriori dubbi circa la correttezza della stessa.
-- [tab] <sup>2</sup> I fabbricanti, gli importatori e i commercianti devono mettere gratuitamente a disposizione dell’UFE gli impianti e gli apparecchi necessari a questo scopo.
-
-<sup>3</sup> Se dalla valutazione della conformità risulta che gli impianti o gli apparecchi non soddisfano le esigenze della presente ordinanza, i costi insorti nell’ambito della valutazione sono a carico della persona che ha commercializzato o ceduto tali impianti o apparecchi.
-
-[^15-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^15-1]: Abrogato dal n. I dell’O del 4 giu. 2021, con effetto dal 1° lug. 2021 ([RU 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
 
 ## Capitolo 4: Disposizioni penali
 
@@ -1377,58 +1374,49 @@ Allegato 2.6
 
 [^annex26-lvlu1-lvl4-1]: Cfr. nota a piè pagina relativa al n. 1.2.
 
-Allegato 2.7
+Allegato 2.7*[^t-21]*
 
 (art. 4 cpv. 1, 5 cpv. 1, 6 cpv. 1, 7 cpv. 1, 8 cpv. 1)
 
-## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di motori elettrici normalizzati con raccordo alla rete
+## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di motori e convertitori di frequenza
+
+[^t-21]: Nuovo testo giusta il n. II cpv. 2 dell’O del 22 apr. 2020, in vigore dal 1° lug. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
-- 1\.1
+- 1\.1 Il presente allegato si applica ai motori e ai convertitori di frequenza di cui all’articolo 2 paragrafo 1 del regolamento (UE) 2019/1781[^annex27-lvlu1-lvl1-1].
+- 1\.2 Dalle esigenze secondo l’allegato I articoli 1 e 2 numeri 1, 2, 5–11 e 13 sono esclusi gli apparecchi di cui all’articolo 2 paragrafi 2 e 3 del regolamento (UE) 2019/1781.
+- 1\.3 Si applicano le definizioni di cui all’articolo 3 del regolamento (UE) 2019/1781.
 
-  Il presente allegato si applica ai motori trifase a velocità costante da 50 Hz o ai motori a induzione con rotore a gabbia di scoiattolo (motori asincroni) da 50/60 Hz:
-
-  - a. destinati a un funzionamento continuo;
-  - b. con una tensione nominale ≤ 1000 V;
-  - c. con una potenza nominale tra 0,75 kW e 375 kW; e
-  - d. con 2, 4 o 6 poli.
-
-- 1\.2 Sono esclusi i motori elettrici di cui all’articolo 1 paragrafo 2 del regolamento (CE) n. 640/2009[^annex27-lvlu1-lvl1-1].
-- 1\.3 Si applicano le definizioni di cui all’articolo 2 del regolamento (CE) n. 640/2009.
-
-[^annex27-lvlu1-lvl1-1]: Regolamento (CE) n. 640/2009 della Commissione, del 22 luglio 2009, recante modalità di applicazione della direttiva 2005/32/CE del Parlamento europeo e del Consiglio in merito alle specifiche per la progettazione ecocompatibile dei motori elettrici, GU L 191 del 23.7.2009, pag. 26; modificato da ultimo dal regolamento (UE) 2016/2282, GU L 346 del 20.12.2016, pag. 51.
+[^annex27-lvlu1-lvl1-1]: Regolamento (UE) 2019/1781 della Commissione dell’1 ottobre 2019 che stabilisce specifiche per la progettazione ecocompatibile dei motori elettrici e dei variatori di velocità in applicazione della direttiva 2009/125/CE del Parlamento europeo e del Consiglio recante modifica del regolamento (CE) n. 641/2009 della Commissione per quanto riguarda le specifiche per la progettazione ecocompatibile dei circolatori senza premistoppa indipendenti e dei circolatori senza premistoppa integrati in prodotti e abroga il regolamento (CE) n. 640/2009 della Commissione, GU L 272 del 25.10.2019, pag. 74.
 
 ### 2 Esigenze per la commercializzazione e la cessione
 
-- I motori asincroni di cui al numero 1 possono essere commercializzati e ceduti se soddisfano le esigenze di cui all’articolo 3 e all’allegato I del regolamento (CE) n. 640/2009[^annex27-lvlu1-lvl2-1].
-
-[^annex27-lvlu1-lvl2-1]: Cfr. nota a piè pagina relativa al n. 1.2.
+- 2\.1 I motori di cui al numero 1 possono essere commercializzati e ceduti se soddisfano le esigenze di cui all’articolo 4 e all’allegato I numero 1 lettera a del regolamento (UE) 2019/1781.
+- 2\.2 I convertitori di frequenza di cui al numero 1 possono essere commercializzati e ceduti se soddisfano le esigenze di cui all’articolo 4 e all’allegato I numero 3 del regolamento (UE) 2019/1781.
+- 2\.3 Dal 1° luglio 2023 i motori devono inoltre soddisfare le esigenze definite nell’allegato I numero 1 lettera b del regolamento (UE) 2019/1781.
 
 ### 3 Procedura di valutazione della conformità
 
-- 3\.1 Nel quadro della valutazione della conformità, le caratteristiche di motori asincroni rilevanti sotto il profilo del consumo di energia di cui al numero 1 sono misurate e calcolate conformemente alle prescrizioni e ai metodi secondo gli allegati I e II del regolamento (CE) n. 640/2009[^annex27-lvlu1-lvl3-1]; i documenti tecnici devono contenere i risultati delle misurazioni e dei calcoli effettuati.
-- 3\.2 Nel quadro della verifica della conformità, l’organo di controllo testa un motore asincrono conformemente alle prescrizioni e ai metodi di cui al numero 3.1; i valori misurati devono soddisfare le esigenze secondo l’allegato III numero 2 del regolamento (CE) n. 640/2009.
-
-[^annex27-lvlu1-lvl3-1]: Cfr. nota a piè pagina relativa al n. 1.2.
+- 3\.1 Nel quadro della valutazione della conformità, le caratteristiche dei motori e dei convertitori di frequenza rilevanti sotto il profilo del consumo di energia di cui al numero 1 sono misurate e calcolate conformemente alle prescrizioni e ai metodi secondo gli allegati I e II del regolamento (UE) 2019/1781; i documenti tecnici devono contenere i risultati delle misurazioni e dei calcoli effettuati.
+- 3\.2 Nel quadro della verifica della conformità, l’organo di controllo testa un motore o un convertitore di frequenza conformemente alle prescrizioni e ai metodi di cui al numero 3.1; i valori misurati devono soddisfare le esigenze secondo l’allegato III numero 2 del regolamento (UE) 2019/1781.
 
 ### 4 Indicazione del consumo di energia
 
-- L’indicazione delle caratteristiche rilevanti sotto il profilo del consumo di energia e altre informazioni sul prodotto devono essere conformi all’allegato I numero 2 del regolamento (CE) n. 640/2009[^annex27-lvlu1-lvl4-1].
+- L’indicazione delle caratteristiche rilevanti sotto il profilo del consumo di energia e altre informazioni sul prodotto devono essere conformi all’allegato I numeri 2 e 4 del regolamento (UE) 2019/1781.
 
-[^annex27-lvlu1-lvl4-1]: Cfr. nota a piè pagina relativa al n. 1.2.
+### 5 Disposizioni transitorie
 
-### 5 Disposizione transitoria
+- 5\.1 I motori e i convertitori di frequenza che non soddisfano le esigenze valide non possono più essere commercializzati. Possono essere ceduti fino al 30 giugno 2022.
+- 5\.2 I motori che non soddisfano le esigenze valide dal 1° luglio 2023 non possono più essere commercializzati a partire da questa data. Possono essere ceduti fino al 30 giugno 2024.
 
-- I motori asincroni che non soddisfano le esigenze valide non possono più essere commercializzati. Possono essere ceduti fino al 31 dicembre 2018.
-
-Allegato 2.8*[^t-21]*
+Allegato 2.8*[^t-22]*
 
 (art. 4 cpv. 1, 5 cpv. 1, 6 cpv. 1, 7 cpv. 1, 8 cpv. 1)
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di circolatori senza premistoppa con raccordo alla rete
 
-[^t-21]: Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-22]: Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1490,13 +1478,13 @@ Allegato 2.9
 
 [^annex29-lvlu1-lvl4-1]: Cfr. nota a piè pagina relativa al n. 1.2.
 
-Allegato 2.10*[^t-22]*
+Allegato 2.10*[^t-23]*
 
 (art. 4 cpv. 1, 5 cpv. 1, 6 cpv. 1, 7 cpv. 1, 8 cpv. 1)
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di trasformatori di potenza
 
-[^t-22]: Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-23]: Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1534,13 +1522,13 @@ Allegato 2.10*[^t-22]*
 
 [^annex210-lvlu1-lvl5-1]: Cfr. nota a piè pagina relativa al n. 1.2.
 
-Allegato 2.11*[^t-23]*
+Allegato 2.11*[^t-24]*
 
 (art. 4 cpv. 1, 5 cpv. 1, 6 cpv. 1, 7 cpv. 1, 8 cpv. 1)
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di prodotti di riscaldamento dell’aria, prodotti di raffrescamento, chiller di processo ad alta temperatura e ventilconvettori
 
-[^t-23]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-24]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1567,13 +1555,13 @@ Allegato 2.11*[^t-23]*
 
 - 5\.1 I prodotti di riscaldamento dell’aria, i prodotti di raffrescamento, i chiller di processo ad alta temperatura e i ventilconvettori che non soddisfano le esigenze valide non possono più essere commercializzati. Possono essere ceduti fino al 31 dicembre 2021.
 
-Allegato 2.12*[^t-24]*
+Allegato 2.12*[^t-25]*
 
 (art. 4 cpv. 1, 5 cpv. 1, 6 cpv. 1, 7 cpv. 1, 8 cpv. 1)
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di server e prodotti di archiviazione dati
 
-[^t-24]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-25]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1604,13 +1592,13 @@ Allegato 2.12*[^t-24]*
 - 5\.2 I server e i prodotti di archiviazione dati online che non soddisfano le esigenze valide dal 1° marzo 2021 non possono più essere commercializzati a partire da questa data. Possono essere ceduti fino al 31 dicembre 2021.
 - 5\.3 I server e i prodotti di archiviazione dati online che non soddisfano le esigenze valide dal 1° gennaio 2023 non possono più essere commercializzati a partire da questa data. Possono essere ceduti fino al 31 dicembre 2023.
 
-Allegato 2.13*[^t-25]*
+Allegato 2.13*[^t-26]*
 
 (art. 4 cpv. 1, 5 cpv. 1, 6 cpv. 1, 7 cpv. 1, 8 cpv. 1)
 
 ## Esigenze per l’efficienza energetica, la commercializzazione e la cessione di apparecchiature di saldatura
 
-[^t-25]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-26]: Introdotto dal n. II cpv. 3 dell’O del 22 apr. 2020, in vigore dal 1° gen. 2021 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1670,13 +1658,13 @@ Allegato 3.1
 
 [^annex31-lvlu1-lvl2-1]: Cfr. nota a piè pagina relativa al n. 1.2.
 
-Allegato 3.2*[^t-26]*
+Allegato 3.2*[^t-27]*
 
 (art. 4 cpv. 1, 5 cpv. 1, 6 cpv. 1, 7 cpv. 1, 8 cpv. 1)
 
 ## Indicazione del consumo di energia e di altre caratteristiche delle macchine da caffè per uso domestico con raccordo alla rete
 
-[^t-26]: Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-27]: Aggiornato dal n. II cpv. 1 dell’O del 22 apr. 2020, in vigore dal 15 mag. 2020 ([RU 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Campo d’applicazione
 
@@ -1694,7 +1682,7 @@ Allegato 3.2*[^t-26]*
 
 - 3\.1 L’etichettaEnergia deve essere larga 60 mm e alta 120 mm almeno. Se l’etichettaEnergia è stampata in formato più grande, devono rimanere invariate le proporzioni delle suddette specifiche. Le proporzioni degli elementi grafici devono rimanere invariate. Lo sfondo è bianco.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210701/it/xml/image/image1.png)
 
 - A) Tratto del bordo: 3 pt – angoli arrotondati 2 mm – X-00-00-00
 - B) Logo CH: larghezza 8 mm, altezza 8 mm – angoli arrotondati: 2 mm – 00-X-X-00
@@ -1729,13 +1717,13 @@ Allegato 3.2*[^t-26]*
 
 - 3\.3 Per la vendita su Internet, inoltre, l’etichettaEnergia deve essere visualizzata integralmente al primo clic o al passaggio del mouse sull’immagine del prodotto o su quella della freccia che indica la classe di efficienza.
 
-Allegato 4.1*[^t-27]*
+Allegato 4.1*[^t-28]*
 
 (art. 10, 11 e 12*a*)
 
 ## Indicazione del consumo di energia e di altre caratteristiche di automobili, autofurgoni e trattori a sella leggeri
 
-[^t-27]: Nuovo testo giusta il n. II dell’O del 23 ott. 2019 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Aggiornato dal n. III dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009))
+[^t-28]: Nuovo testo giusta il n. II dell’O del 23 ott. 2019 ([RU 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Aggiornato dal n. III dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 ### 1 Disposizioni sul consumo di energia
 
@@ -1829,19 +1817,19 @@ Per l’anno 2020 si considerano tipi di veicolo attuali ai sensi del numero 3.3
 
 ### 10 Esempio della rappresentazione grafica dell’etichettaEnergia
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210701/it/xml/image/image2.png)
 
 ### 11 Esempio della rappresentazione grafica della scala relativa alle categorie di efficienza energetica
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210701/it/xml/image/image3.png)
 
-Allegato 4.2*[^t-28]*
+Allegato 4.2*[^t-29]*
 
 (art. 13)
 
 ## Indicazione della classe di efficienza del carburante e di altre caratteristiche degli pneumatici
 
-[^t-28]: Nuovo testo giusta il n. Il cpv. 2 dell’O del 25 nov. 2020, in vigore dal 1° mag. 2021 ([RU 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+[^t-29]: Nuovo testo giusta il n. Il cpv. 2 dell’O del 25 nov. 2020, in vigore dal 1° mag. 2021 ([RU 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
 
 ### 1 Campo d’applicazione
 

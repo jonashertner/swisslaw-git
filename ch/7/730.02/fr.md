@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives �
 short: OEEE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: fr
-version: 2021-05-01
+version: 2021-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210501/fr"
 
 (Ordonnance sur les exigences relatives à l’efficacité énergétique, OEEE)
 
-du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> mai 2021)
+du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
-vu la loi du 30 septembre 2016 sur l’énergie (LEne)[^ingress-1], et en application de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce (LETC)[^ingress-2],
+vu la loi du 30 septembre 2016 sur l’énergie (LEne)[^ingress-1], vu l’art. 38 de la loi du 15 décembre 2000 sur les produits chimiques[^ingress-2], vu les art. 39, al. 1, et 40 de la loi du 7 octobre 1983 sur la protection de l’environnement[^ingress-3], en exécution de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^ingress-4],[^ingress-5]
 
 arrête:
 
 [^ingress-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-2]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
+[^ingress-3]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-4]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-5]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -160,7 +163,7 @@ Les laboratoires d’essai et d’évaluation de la conformité qui établissent
 
 [^9-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
-### Section 2 Voitures de tourisme, voitures de livraison et tracteurs à sellette légers fabriqués en série et leurs composants fabriqués en série
+### Section 2 Voitures de tourisme, voitures de livraison et tracteurs à sellette légers fabriqués en série et leurs composants fabriqués en série****
 
 [^chap2-sec2-1]
 
@@ -247,7 +250,8 @@ Quiconque importe, met en circulation ou fournit en Suisse des pneumatiques des 
 Dans le cadre de ces contrôles, il peut notamment:
 
 - a. exiger des fabricants, des importateurs et des commerçants l’accès aux documents et informations nécessaires au contrôle;
-- b. accéder aux terrains, aux bâtiments, aux entreprises, aux locaux, aux installations et aux autres infrastructures durant les horaires de travail usuels.
+- b. accéder aux terrains, aux bâtiments, aux entreprises, aux locaux, aux installations et aux autres infrastructures durant les horaires de travail usuels;
+- c.[^14-2] ordonner une expertise énergétique d’installations et d’appareils (vérification de la conformité); les fabricants, les importateurs et les commerçants mettent gratuitement à disposition de l’OFEN les installations et appareils requis à cet effet.
 
 <sup>3</sup>
 
@@ -257,25 +261,17 @@ Lorsque le contrôle fait apparaître une infraction à la présente ordonnance,
 - b. ordonner qu’il soit remédié au manquement ou ordonner le retrait, la mise sous séquestre ou la confiscation de l’installation, du véhicule, de l’appareil ou du composant concernés;
 - c. publier les mesures qu’il a prises.
 
+<sup>4</sup> Si le contrôle révèle que les installations ou les appareils ne sont pas conformes aux exigences de la présente ordonnance, la personne qui a mis en circulation ou fourni l’objet en cause supporte les frais générés dans le cadre de l’expertise.[^14-3]
+
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^14-2]: Introduite par le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
+[^14-3]: Introduit par le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
 
 #### Art. 15
 
-**Vérifications de la conformité ordonnées sur des installations ou des appareils**[^15-1]
+[^15-1]
 
-<sup>1</sup>
-
-Dans le cadre des contrôles visés à l’art. 14, l’OFEN peut ordonner une expertise énergétique (vérification de la conformité), en particulier:
-
-- a. lorsqu’au terme du délai imparti par l’OFEN, les documents et informations exigés n’ont pas été fournis ou ne sont pas complets;
-- b. lorsque les attestations visées aux art. 7 et 8 ne font pas apparaître de manière suffisamment claire que les installations ou les appareils sont conformes aux exigences de la présente ordonnance;
-- c. lorsqu’il subsiste des doutes quant à savoir si les installations ou appareils correspondent à la documentation remise, ou quant à l’exactitude de celle-ci.
-
-<sup>2</sup> Les fabricants, les importateurs et les commerçants mettent gratuitement à disposition de l’OFEN les installations et appareils requis à cet effet.
-
-<sup>3</sup> Si la vérification de la conformité révèle que les installations ou appareils ne sont pas conformes aux exigences de la présente ordonnance, la personne qui a mis en circulation ou fourni l’objet en cause supporte les frais générés dans le cadre de l’expertise.
-
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^15-1]: Abrogé par le ch. I de l’O du 4 juin 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
 
 ## Chapitre 4 Dispositions pénales
 
@@ -597,7 +593,7 @@ Annexe 1.9
 
 - 1\.1 La présente annexe s’applique aux lampes domestiques non dirigées alimentées par le secteur (lampes à incandescence et lampes fluorescentes compactes à ballast intégré), même lorsqu’elles sont destinées à un usage non domestique, et aux autres technologies de lampes lorsqu’elles sont destinées à un usage domestique.
 - 1\.2 Elle ne s’applique pas aux lampes visées à l’art. 1, let. a à g, du règlement (CE) n<sup>o</sup> 244/2009[^annex19-lvlu1-lvl1-1].
-- 1\.3 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (CE) n<sup>o</sup> 244/ 2009 sont applicables.
+- 1\.3 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (CE) n<sup>o</sup> 244/2009 sont applicables.
 
 [^annex19-lvlu1-lvl1-1]: Règlement (CE) n<sup>o</sup> 244/2009 de la Commission du 18 mars 2009 mettant en œuvre la directive 2005/32/CE du Parlement européen et du Conseil en ce qui concerne les exigences relatives à l’écoconception des lampes à usage domestique non dirigées, JO L 76 du 24.3.2009, p. 3; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2015/1428, JO L 224 du 27.8.2015, p. 1.
 
@@ -1040,7 +1036,7 @@ Annexe 1.19*[^t-14]*
 
 - 1\.1 La présente annexe s’applique aux dispositifs de chauffage décentralisés à combustible solide d’une puissance thermique nominale inférieure ou égale à 50 kW.
 - 1\.2 Elle ne s’applique pas aux dispositifs de chauffage décentralisés à combustible solide visés à l’art. 1, ch. 2, du règlement (UE) n<sup>o</sup> 2015/1185[^annex119-lvlu1-lvl1-1].
-- 1\.3 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (UE) n<sup>o</sup> 2015/ 1185 sont applicables.
+- 1\.3 Les définitions figurant à l’art. 2 et à l’annexe I du règlement (UE) n<sup>o</sup> 2015/1185 sont applicables.
 
 [^annex119-lvlu1-lvl1-1]: Règlement (UE) n<sup>o</sup> 2015/1185 de la Commission du 24 avril 2015 portant application de la directive 2009/125/CE du Parlement européen et du Conseil en ce qui concerne les exigences d’écoconception applicables aux dispositifs de chauffage décentralisés à combustible solide, JO L 193 du 21.7.2015, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2016/2282, JO L 346 du 20.12.2016, p. 51.
 
@@ -1379,58 +1375,49 @@ Annexe 2.6
 
 [^annex26-lvlu1-lvl4-1]: Voir note de bas de page ad ch. 1.2.
 
-Annexe 2.7
+Annexe 2.7*[^t-21]*
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
-## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des moteurs électriques alimentés par le secteur
+## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des moteurs et des convertisseurs de fréquence
+
+[^t-21]: Nouvelle teneur selon le ch. II al. 2 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
-- 1\.1
+- 1\.1 La présente annexe s’applique aux moteurs et aux convertisseurs de fréquence visés à l’art. 2, al. 1, du règlement (UE) 2019/1781[^annex27-lvlu1-lvl1-1].
+- 1\.2 Les exigences fixées à l’annexe I, art. 1 et 2, ch. 1, 2, 5 à 11 et 13, ne s’appliquent pas aux appareils visés à l’art. 2, al. 2 et 3, du règlement (UE) 2019/1781.
+- 1\.3 Les définitions figurant à l’art. 3 du règlement (UE) 2019/1781 sont applicables.
 
-  La présente annexe s’applique aux moteurs électriques mono-vitesse triphasés à induction à cage d’écureuil (moteurs asynchrones) alimentés par le secteur et fonctionnant à 50 Hz ou à 50/60 Hz:
-
-  - a. conçus pour un mode de fonctionnement continu;
-  - b. affichant une tension nominale inférieure ou égale à 1000 V;
-  - c. affichant une puissance nominale comprise entre 0,75 kW et 375 kW, et
-  - d. disposant de 2, 4 ou 6 pôles.
-
-- 1\.2 Elle ne s’applique pas aux moteurs électriques visés à l’art. 1, al. 2, du règlement (CE) n<sup>o</sup> 640/2009[^annex27-lvlu1-lvl1-1].
-- 1\.3 Les définitions figurant à l’art. 2 du règlement (CE) n<sup>o</sup> 640/2009 sont applicables.
-
-[^annex27-lvlu1-lvl1-1]: Règlement (CE) n<sup>o</sup> 640/2009 de la Commission du 22 juillet 2009 portant application de la directive 2005/32/CE du Parlement européen et du Conseil concernant les exigences relatives à l’écoconception des moteurs électriques, JO L 191 du 23.7.2009, p. 26; modifié par le règlement (UE) n<sup>o</sup> 4/2014, JO L 2 du 7.1.2014, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2016/2282, JO L 346 du 20.12.2016, p. 51.
+[^annex27-lvlu1-lvl1-1]: Règlement (UE) 2019/1781 de la Commission du 1<sup>er</sup> octobre 2019 fixant des exigences en matière d’écoconception applicables aux moteurs électriques et aux variateurs de vitesse conformément à la directive 2009/125/CE du Parlement européen et du Conseil, et modifiant le règlement (CE) n<sup>o</sup> 641/2009 concernant les exigences d’écoconception applicables aux circulateurs sans presse-étoupe indépendants et aux circulateurs sans presse-étoupe intégrés dans des produits et abrogeant le règlement (CE) n<sup>o</sup> 640/2009 de la Commission, JO L 272 du 25.10.2019, p. 74.
 
 ### 2 Exigences applicables à la mise en circulation et à la fourniture
 
-- Les moteurs asynchrones visés au ch. 1 peuvent être mis en circulation ou fournis s’ils remplissent les exigences fixées à l’art. 3 et à l’annexe I du règlement (CE) n<sup>o</sup> 640/2009[^annex27-lvlu1-lvl2-1].
-
-[^annex27-lvlu1-lvl2-1]: Voir note de bas de page ad ch. 1.2.
+- 2\.1 Les moteurs visés au ch. 1 peuvent être mis en circulation ou fournis s’ils remplissent les exigences fixées à l’art. 4 et à l’annexe I, ch. 1, let. a, du règlement (UE) 2019/1781.
+- 2\.2 Les convertisseurs de fréquence visés au ch. 1 peuvent être mis en circulation ou fournis s’ils remplissent les exigences fixées à l’art. 4 et à l’annexe I, ch. 3 du règlement (UE) 2019/1781.
+- 2\.2 À compter du 1<sup>er</sup> juillet 2023, les moteurs doivent en sus satisfaire aux exigences fixées à l’annexe I, ch. 1, let. b, du règlement (UE) 2019/1781.
 
 ### 3 Procédure d’évaluation de la conformité
 
-- 3\.1 Les caractéristiques énergétiques des moteurs asynchrones visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes I et II du règlement (CE) n<sup>o</sup> 640/2009[^annex27-lvlu1-lvl3-1]; la documentation technique doit inclure les résultats des calculs et mesures.
-- 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un moteur asynchrone sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe III, ch. 2, du règlement (CE) n<sup>o</sup> 640/2009.
-
-[^annex27-lvlu1-lvl3-1]: Voir note de bas de page ad ch. 1.2.
+- 3\.1 Les caractéristiques énergétiques des moteurs et des convertisseurs de fréquence visés au ch. 1 sont mesurées et calculées dans le cadre de l’évaluation de la conformité, sur la base des directives et des méthodes visées aux annexes I et II du règlement (UE) 2019/1781; la documentation technique doit inclure les résultats des calculs et des mesures.
+- 3\.2 Dans le cadre de la vérification de la conformité, l’organe de contrôle teste un moteur ou un convertisseur de fréquence sur la base des directives et des méthodes visées au ch. 3.1; les valeurs mesurées doivent satisfaire aux exigences prévues à l’annexe III, ch. 2, du règlement (UE) 2019/1781.
 
 ### 4 Indication de la consommation d’énergie
 
-- L’indication des caractéristiques énergétiques et les autres informations relatives au produit doivent être conformes à l’annexe I, ch. 2, du règlement (CE) n<sup>o</sup> 640/2009[^annex27-lvlu1-lvl4-1].
+- L’indication des caractéristiques énergétiques et les autres informations relatives au produit doivent être conformes à l’annexe I, ch. 2 et 4, du règlement 2019/1781.
 
-[^annex27-lvlu1-lvl4-1]: Voir note de bas de page ad ch. 1.2.
+### 5 Dispositions transitoires
 
-### 5 Disposition transitoire
+- 5\.1 Les moteurs et les convertisseurs de fréquence qui ne satisfont pas aux exigences applicables ne peuvent plus être mis en circulation. Ils peuvent être fournis jusqu’au 30 juin 2022 au plus tard.
+- 5\.2 Les moteurs ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> juillet 2023 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 30 juin 2024 au plus tard.
 
-- Les moteurs asynchrones qui ne satisfont pas aux présentes exigences ne peuvent plus être mis en circulation. Ils peuvent être fournis jusqu’au 31 décembre 2018 au plus tard.
-
-Annexe 2.8*[^t-21]*
+Annexe 2.8*[^t-22]*
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique ainsi qu’à la mise en circulation et à la fourniture des circulateurs sans presse-étoupe
 
-[^t-21]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-22]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -1492,13 +1479,13 @@ Annexe 2.9
 
 [^annex29-lvlu1-lvl4-1]: Voir note de bas de page ad ch. 1.2.
 
-Annexe 2.10*[^t-22]*
+Annexe 2.10*[^t-23]*
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique et à la mise en circulation et à la fourniture des transformateurs
 
-[^t-22]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-23]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -1536,13 +1523,13 @@ Annexe 2.10*[^t-22]*
 
 [^annex210-lvlu1-lvl5-1]: Voir note de bas de page ad ch. 1.2.
 
-Annexe 2.11*[^t-23]*
+Annexe 2.11*[^t-24]*
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique et à la mise en circulation et à la fourniture des appareils de chauffage à air, des appareils de refroidissement, des refroidisseurs industriels haute température et des ventilo-convecteurs
 
-[^t-23]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-24]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -1569,13 +1556,13 @@ Annexe 2.11*[^t-23]*
 
 - 5\.1 Les appareils de chauffage à air, les appareils de refroidissement, les refroidisseurs industriels haute température et les ventilo-convecteurs qui ne satisfont pas aux exigences applicables ne peuvent plus être mis en circulation. Ils peuvent être fournis jusqu’au 31 décembre 2021 au plus tard.
 
-Annexe 2.12*[^t-24]*
+Annexe 2.12*[^t-25]*
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique et à la mise en circulation et à la fourniture des serveurs et des produits de stockage de données
 
-[^t-24]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-25]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -1606,13 +1593,13 @@ Annexe 2.12*[^t-24]*
 - 5\.2 Les serveurs et les produits de stockage de données en ligne ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> mars 2021 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2021 au plus tard.
 - 5\.3 Les serveurs et les produits de stockage de données en ligne ne satisfaisant pas aux exigences qui prennent effet le 1<sup>er</sup> janvier 2023 ne peuvent plus être mis en circulation à compter de cette date. Ils peuvent être fournis jusqu’au 31 décembre 2023 au plus tard.
 
-Annexe 2.13*[^t-25]*
+Annexe 2.13*[^t-26]*
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Exigences relatives à l’efficacité énergétique et à la mise en circulation et à la fourniture du matériel de soudage
 
-[^t-25]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-26]: Introduite par le ch. II al. 3 de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -1672,13 +1659,13 @@ Annexe 3.1
 
 [^annex31-lvlu1-lvl2-1]: Voir note de bas de page ad ch. 1.2.
 
-Annexe 3.2*[^t-26]*
+Annexe 3.2*[^t-27]*
 
 (art. 4, al. 1, 5, al. 1, 6, al. 1, 7, al. 1, et 8, al. 1)
 
 ## Indication de la consommation d’énergie et des autres caractéristiques des machines à café domestiques alimentées par le secteur
 
-[^t-26]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-27]: Mise à jour par le ch. II al. 1 de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Champ d’application
 
@@ -1696,7 +1683,7 @@ Annexe 3.2*[^t-26]*
 
 - 3\.1 L’étiquette-énergie doit avoir au minimum 60 mm de largeur et 120 mm de hauteur. Si elle est imprimée dans un format plus grand, les proportions doivent être conservées. L’étiquette-énergie a un fond blanc.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210701/fr/xml/image/image1.png)
 
 - A) Trait de l’encadré: 3 pt – angles arrondis 2 mm – X-00-00-00
 - B) Logo de la Suisse: 8 mm de large, 8 mm de haut – coins arrondis 2 mm – 00-X-X-00
@@ -1731,13 +1718,13 @@ Annexe 3.2*[^t-26]*
 
 - 3\.3 Pour la vente sur Internet, l’étiquette-énergie doit s’afficher en intégralité au premier clic ou au passage de la souris sur l’image du produit ou sur celle de la flèche indiquant la classe d’efficacité.
 
-Annexe 4.1*[^t-27]*
+Annexe 4.1*[^t-28]*
 
 (art. 10, 11 et 12*a*)
 
 ## Indication sur la consommation d’énergie et sur d’autres caractéristiques des voitures de tourisme, des voitures de livraison et des tracteurs à sellette légers
 
-[^t-27]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)). Mise à jour par le ch. III de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-28]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)). Mise à jour par le ch. III de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 ### 1 Dispositions relatives à la consommation d’énergie
 
@@ -1831,19 +1818,19 @@ On entend par types de véhicules actuels au sens du ch. 3.3 pour 2020 les voitu
 
 ### 10 Exemple de présentation d’une étiquette-énergie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210701/fr/xml/image/image2.png)
 
 ### 11 Exemple de présentation de l’échelle des catégories d’efficacité énergétique
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210701/fr/xml/image/image3.png)
 
-Annexe 4.2*[^t-28]*
+Annexe 4.2*[^t-29]*
 
 (art. 13)
 
 ## Indication de la classe d’efficacité en carburant et d’autres caractéristiques des pneumatiques
 
-[^t-28]: Nouvelle teneur selon le ch. II al. 2 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+[^t-29]: Nouvelle teneur selon le ch. II al. 2 de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
 
 ### 1 Champ d’application
 

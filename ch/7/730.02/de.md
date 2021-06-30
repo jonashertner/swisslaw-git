@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Anforderungen an die Energieef
 short: EnEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: de
-version: 2021-05-01
+version: 2021-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210501/de"
 
 (Energieeffizienzverordnung, EnEV)
 
-vom 1. November 2017 (Stand am 1. Mai 2021)
+vom 1. November 2017 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf das Energiegesetz vom 30. September 2016[^ingress-1] (EnG) und in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-2] über die technischen Handelshemmnisse (THG),
+gestützt auf das Energiegesetz vom 30. September 2016[^ingress-1] (EnG), auf Artikel 38 des Chemikaliengesetzes vom 15. Dezember 2000[^ingress-2] und auf die Artikel 39 Absatz 1 und 40 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-3], in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-4] über die technischen Handelshemmnisse,[^ingress-5]
 
 verordnet:
 
 [^ingress-1]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^ingress-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-2]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
+[^ingress-3]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-4]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-5]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -203,7 +206,7 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 - a. Es legt die Grenzen der Energieeffizienz-Kategorien fest.
 - b.[^12-2] Es legt den Durchschnitt der CO<sub>2</sub>-Emissionen aufgrund der erstmals immatrikulierten serienmässig hergestellten Personenwagen fest.
 - c. Es legt die Faktoren zur Berechnung der Benzinäquivalente und der Primärenergie-Benzinäquivalente sowie der CO<sub>2</sub>-Emissionen aus der Treibstoff- und der Strombereitstellung fest. Es berücksichtigt dabei die neuen Erkenntnisse der Wissenschaft und der Technik und die internationale Entwicklung.
-- d.[^12-3] …
+- d.[^12-3] ...
 
 <sup>2</sup> Es passt die Festlegungen nach Absatz 1 jährlich an. Die Anpassungen werden jeweils bis zum 31. Juli des laufenden Jahres bekannt gegeben und auf den 1. Januar des Folgejahres in Kraft gesetzt.
 
@@ -247,7 +250,8 @@ Wer Reifen der Klassen C1, C2 oder C3 gemäss der Verordnung (EU) 2020/740[^13-2
 Es kann im Rahmen der Kontrolltätigkeit insbesondere:
 
 - a. von den Herstellern, Importeuren und Händlern den Zugang zu den Unterlagen und Informationen verlangen, die für die Kontrolle erforderlich sind;
-- b. die Grundstücke, Gebäude, Betriebe, Räume, Anlagen und sonstige Infrastrukturen während der üblichen Arbeitszeit betreten.
+- b. die Grundstücke, Gebäude, Betriebe, Räume, Anlagen und sonstige Infrastrukturen während der üblichen Arbeitszeit betreten;
+- c.[^14-2] für Anlagen und Geräte eine energietechnische Überprüfung (Konformitätsüberprüfung) anordnen; die Hersteller, Importeure und Händler haben dem BFE die dazu erforderlichen Anlagen und Geräte unentgeltlich zur Verfügung zu stellen.
 
 <sup>3</sup>
 
@@ -257,24 +261,17 @@ Ergibt die Kontrolle, dass Vorschriften dieser Verordnung verletzt sind, so verf
 - b. die Behebung der Verletzung, den Rückruf, die Beschlagnahme und die Einziehung einer Anlage, eines Fahrzeugs oder eines Gerätes oder eines Bestandteils davon verfügen;
 - c. die von ihm getroffenen Massnahmen veröffentlichen.
 
+<sup>4</sup> Ergibt die Kontrolle, dass die Anlagen oder Geräte den Anforderungen dieser Verordnung nicht entsprechen, so trägt die Person, die diese in Verkehr gebracht oder abgegeben hat, die im Rahmen der Kontrolle entstandenen Kosten.[^14-3]
+
 [^14-1]: Fassung gemäss Ziff. I der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^14-2]: Eingefügt durch Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
+[^14-3]: Eingefügt durch Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
 
 #### Art. 15
 
-**Anordnung von Konformitätsüberprüfungen bei Anlagen und Geräten**[^15-1]
+[^15-1]
 
-<sup>1</sup>
-
-Das BFE kann im Rahmen der Kontrolle nach Artikel 14 eine energietechnische Überprüfung (Konformitätsüberprüfung) anordnen, insbesondere wenn:
-
-- a. die verlangten Unterlagen und Informationen innerhalb der vom BFE festgesetzten Frist nicht oder nicht vollständig vorliegen;
-- b. aus dem Nachweis nach den Artikeln 7 und 8 nicht hinreichend hervorgeht, dass die Anlagen oder Geräte den Anforderungen dieser Verordnung entsprechen;
-- c. Zweifel bestehen, ob die Anlagen oder Geräte mit den eingereichten Unterlagen übereinstimmen oder sonstige Zweifel an der Richtigkeit der eingereichten Unterlagen bestehen.
-- [tab] <sup>2</sup> Die Hersteller, Importeure und Händler müssen die dazu erforderlichen Anlagen und Geräte dem BFE unentgeltlich zur Verfügung stellen.
-
-<sup>3</sup> Ergibt die Konformitätsüberprüfung, dass die Anlagen oder Geräte den Anforderungen dieser Verordnung nicht entsprechen, so trägt die Person, die diese in Verkehr gebracht oder abgegeben hat, die im Rahmen der Überprüfung entstandenen Kosten.
-
-[^15-1]: Fassung gemäss Ziff. I der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^15-1]: Aufgehoben durch Ziff. I der V vom 4. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
 
 ## 4. Kapitel: Strafbestimmungen
 
@@ -554,6 +551,7 @@ Anhang 1.7*[^t-6]*
 
 - 5\.1 Haushaltsdunstabzugshauben, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht und abgegeben werden.
 - 5\.2 Haushaltsdunstabzugshauben, welche die Anforderungen an die Kennzeichnung gemäss Ziffer 4.2 nicht erfüllen, dürfen ab Datum der Inkraftsetzung der neuen Etiketten nicht mehr in Verkehr gebracht werden. Geräte mit bisherigen Etiketten dürfen ab diesem Datum noch während zwei Jahren abgegeben werden.
+- [tab]
 
 Anhang 1.8*[^t-7]*
 
@@ -1376,58 +1374,49 @@ Anhang 2.6
 
 [^annex26-lvlu1-lvl4-1]: Siehe Fussnote zu Ziff. 1.2.
 
-Anhang 2.7
+Anhang 2.7*[^t-21]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
-## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Elektromotoren
+## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Motoren und Frequenzumrichtern
+
+[^t-21]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020, in Kraft seit 1. Juli 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
-- 1\.1
+- 1\.1 Dieser Anhang gilt für Motoren und Frequenzumrichter gemäss Artikel 2 Absatz 1 der Verordnung (EU) 2019/1781[^annex27-lvlu1-lvl1-1].
+- 1\.2 Von den Anforderungen nach Anhang I Artikel 1 und 2 Ziffern 1, 2, 5–11, 13 ausgenommen sind die Geräte nach Artikel 2 Absätze 2 und 3 der Verordnung (EU) 2019/1781.
+- 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 3 der Verordnung (EU) 2019/1781.
 
-  Dieser Anhang gilt für netzbetriebene elektrische eintourige 3-Phasen-50-Hz- oder -50/60-Hz-Käfigläufer-Induktionsmotoren (Asynchronmotoren), die:
-
-  - a. für Dauerbetrieb ausgelegt sind;
-  - b. eine Nennspannung ≤ 1000 V aufweisen;
-  - c. eine Nennleistung zwischen 0,75 kW und 375 kW aufweisen; und
-  - d. über 2, 4 oder 6 Pole verfügen.
-
-- 1\.2 Ausgenommen sind Elektromotoren nach Artikel 1 Absatz 2 der Verordnung (EG) Nr. 640/2009[^annex27-lvlu1-lvl1-1].
-- 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 2 der Verordnung (EG) Nr. 640/2009.
-
-[^annex27-lvlu1-lvl1-1]: Verordnung (EG) Nr. 640/2009 der Kommission vom 22. Juli 2009 zur Durchführung der Richtlinie 2005/32/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Anforderungen an die umweltgerechte Gestaltung von Elektromotoren, ABl. L 191 vom 23.7.2009, S. 26; zuletzt geändert durch Verordnung (EU) Nr. 2016/2282, ABl. L 346 vom 20.12.2016, S. 51.
+[^annex27-lvlu1-lvl1-1]: Verordnung (EU) 2019/1781 der Kommission vom 1. Oktober 2019 zur Festlegung von Ökodesign-Anforderungen an Elektromotoren und Drehzahlregelungen gemäss der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates, zur Änderung der Verordnung (EG) Nr. 641/2009 im Hinblick auf die Festlegung von Anforderungen an die umweltgerechte Gestaltung von externen Nassläufer-Umwälzpumpen und in Produkte integrierten Nassläufer-Umwälzpumpen und zur Aufhebung der Verordnung (EG) Nr. 640/2009 der Kommission, ABl. L 272 vom 25.10.2019, S. 74.
 
 ### 2 Anforderungen an das Inverkehrbringen und Abgeben
 
-- Asynchronmotoren nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Artikel 3 und Anhang I der Verordnung (EG) Nr. 640/2009[^annex27-lvlu1-lvl2-1] erfüllen.
-
-[^annex27-lvlu1-lvl2-1]: Siehe Fussnote zu Ziff. 1.2.
+- 2\.1 Motoren nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Artikel 4 und Anhang I Ziffer 1 Buchstabe a der Verordnung (EU) 2019/1781 erfüllen.
+- 2\.2 Frequenzumrichter nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Artikel 4 und Anhang I Ziffer 3 der Verordnung (EU) 2019/1781 erfüllen.
+- 2\.2 Ab 1. Juli 2023 sind für Motoren zusätzlich die Anforderungen nach Anhang I Ziffer 1 Buchstabe b der Verordnung (EU) 2019/1781 zu erfüllen.
 
 ### 3 Konformitätsbewertungsverfahren
 
-- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Asynchronmotoren nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen I und II der Verordnung (EG) Nr. 640/2009[^annex27-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
-- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle einen Asynchronmotor anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang III Ziffer 2 der Verordnung (EG) Nr. 640/2009 erfüllen.
-
-[^annex27-lvlu1-lvl3-1]: Siehe Fussnote zu Ziff. 1.2.
+- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Motoren und Frequenzumrichter nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen I und II der Verordnung (EU) 2019/1781 gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
+- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle einen Motor oder Frequenzumrichter anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang III Ziffer 2 der Verordnung (EU) 2019/1781 erfüllen.
 
 ### 4 Angabe des Energieverbrauchs
 
-- Die Angabe der energieverbrauchsrelevanten Eigenschaften und weiterer Produktinformationen ist nach Anhang I Ziffer 2 der Verordnung (EG) Nr. 640/2009[^annex27-lvlu1-lvl4-1] vorzunehmen.
-
-[^annex27-lvlu1-lvl4-1]: Siehe Fussnote zu Ziff. 1.2.
+- Die Angabe der energieverbrauchsrelevanten Eigenschaften und weiterer Produktinformationen ist nach Anhang I Ziffern 2 und 4 der Verordnung (EU) 2019/1781 vorzunehmen.
 
 ### 5 Übergangsbestimmung
 
-- Asynchronmotoren, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2018 abgegeben werden.
+- 5\.1 Motoren und Frequenzumrichter, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 30. Juni 2022 abgegeben werden.
+- 5\.2 Motoren, welche die ab 1. Juli 2023 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 30. Juni 2024 abgegeben werden.
 
-Anhang 2.8*[^t-21]*
+Anhang 2.8*[^t-22]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Nassläufer-Umwälzpumpen
 
-[^t-21]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-22]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1445,7 +1434,7 @@ Anhang 2.8*[^t-21]*
 
 ### 3 Konformitätsbewertungsverfahren
 
-- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Nassläufer-Umwälzpumpen nach Ziffer 1 anhand der Vorgaben und Methoden nach Anhang II der Verordnung (EG) Nr. 641/ 2009[^annex28-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
+- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Nassläufer-Umwälzpumpen nach Ziffer 1 anhand der Vorgaben und Methoden nach Anhang II der Verordnung (EG) Nr. 641/2009[^annex28-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
 - 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle eine Nassläufer-Umwälzpumpe anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang III Ziffer 2 der Verordnung (EG) Nr. 641/2009 erfüllen.
 
 [^annex28-lvlu1-lvl3-1]: Siehe Fussnote zu Ziff. 1.2.
@@ -1489,13 +1478,13 @@ Anhang 2.9
 
 [^annex29-lvlu1-lvl4-1]: Siehe Fussnote zu Ziff. 1.2.
 
-Anhang 2.10*[^t-22]*
+Anhang 2.10*[^t-23]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Leistungstransformatoren
 
-[^t-22]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-23]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1533,13 +1522,13 @@ Anhang 2.10*[^t-22]*
 
 [^annex210-lvlu1-lvl5-1]: Siehe Fussnote zu Ziff. 1.2.
 
-Anhang 2.11*[^t-23]*
+Anhang 2.11*[^t-24]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Luftheizungsprodukten, Kühlungsprodukten, Prozesskühlern mit hoher Betriebstemperatur und Gebläsekonvektoren
 
-[^t-23]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-24]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1566,13 +1555,13 @@ Anhang 2.11*[^t-23]*
 
 - 5\.1 Luftheizungsprodukte, Kühlungsprodukte, Prozesskühler mit hoher Betriebstemperatur und Gebläsekonvektoren, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
 
-Anhang 2.12*[^t-24]*
+Anhang 2.12*[^t-25]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Servern und Datenspeicherprodukten
 
-[^t-24]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-25]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1603,13 +1592,13 @@ Anhang 2.12*[^t-24]*
 - 5\.2 Server und Online-Datenspeicherprodukte, welche die ab 1. März 2021 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
 - 5\.3 Server und Online-Datenspeicherprodukte, welche die ab 1. Januar 2023 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2023 abgegeben werden.
 
-Anhang 2.13*[^t-25]*
+Anhang 2.13*[^t-26]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Schweissgeräten
 
-[^t-25]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-26]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1669,13 +1658,13 @@ Anhang 3.1
 
 [^annex31-lvlu1-lvl2-1]: Siehe Fussnote zu Ziff. 1.2.
 
-Anhang 3.2*[^t-26]*
+Anhang 3.2*[^t-27]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Angabe des Energieverbrauchs und weiterer Eigenschaften netzbetriebener Haushaltskaffeemaschinen
 
-[^t-26]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-27]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1693,7 +1682,7 @@ Anhang 3.2*[^t-26]*
 
 - 3\.1 Die Energieetikette muss mindestens 60 mm breit und 120 mm hoch sein. Wird die Energieetikette in einem grösseren Format gedruckt, so müssen die Proportionen der Spezifikationen gewahrt bleiben. Die grafischen Elemente werden proportional skaliert. Der Hintergrund ist weiss.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210701/de/xml/image/image1.png)
 
 - A) Begrenzungslinie: 3 pt – abgerundete Ecken 2 mm – X-00-00-00
 - B) CH-Logo:Breite 8 mm, Höhe 8 mm – abgerundete Ecken 2 mm – 00‑X-X-00
@@ -1728,13 +1717,13 @@ Anhang 3.2*[^t-26]*
 
 - 3\.3 Zudem muss beim Internetverkauf mit dem ersten Mausklick respektive beim Rollover über das Produktebild oder den Pfeil mit der Energieeffizienzklasse die ganze Energieetikette erscheinen.
 
-Anhang 4.1*[^t-27]*
+Anhang 4.1*[^t-28]*
 
 (Art. 10, 11 und 12*a*)
 
 ## Angabe des Energieverbrauchs und weiterer Eigenschaften von Personenwagen, Lieferwagen und leichten Sattelschleppern
 
-[^t-27]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Bereinigt gemäss Ziff. III der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-28]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Bereinigt gemäss Ziff. III der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 ### 1 Bestimmungen zum Energieverbrauch
 
@@ -1828,19 +1817,19 @@ Für das Jahr 2020 gelten als aktuelle Fahrzeugtypen im Sinne von Ziffer 3.3 typ
 
 ### 10 Beispiel der Darstellung der Energieetikette
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210701/de/xml/image/image2.png)
 
 ### 11 Beispiel der Darstellung der Skala der Energieeffizienz-Kategorien
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210501/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210701/de/xml/image/image3.png)
 
-Anhang 4.2*[^t-28]*
+Anhang 4.2*[^t-29]*
 
 (Art. 13)
 
 ## Angabe der Treibstoffeffizienzklasse und weiterer Eigenschaften von Reifen
 
-[^t-28]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020, in Kraft seit 1. Mai 2021 ([AS 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+[^t-29]: Fassung gemäss Ziff. II Abs. 2 der V vom 25. Nov. 2020, in Kraft seit 1. Mai 2021 ([AS 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
 
 ### 1 Geltungsbereich
 
