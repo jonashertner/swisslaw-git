@@ -4,13 +4,13 @@ number: "153.113"
 title: Verordnung über die Delegation von Kompetenzen des Regierungsrats
 short: "Delegationsverordnung, DelV"
 language: de
-version: 2021-04-30
-valid_until: 2021-06-30
-version_adopted: 2021-03-17
+version: 2021-07-01
+valid_until: 2026-07-31
+version_adopted: 2021-05-26
 adopted: 2013-04-10
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/153.113"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3027/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3152/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3027/pdf_file"
 
 (Delegationsverordnung, DelV)
 
-Vom 10.04.2013 (Stand 30.04.2021)
+Vom 10.04.2013 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -105,7 +105,7 @@ beschliesst:
 - d) die Zusicherung von Beiträgen an Dritte gemäss § 7 des Dekrets zum Schutze des Landschaftsbildes der Lägern und des Geissberges (Lägernschutzdekret) vom 13. Dezember 1977[^5-3], § 10 des Dekrets über den Schutz der Reuss und ihrer Ufer unterhalb Bremgarten (Reussuferschutzdekret, RUD) vom 17. März 1966[^5-4], § 11 des Dekrets zum Schutze der Hallwilerseelandschaft (Hallwilerseeschutzdekret) vom 13. Mai 1986[^5-5] und § 13 des Dekrets über den Schutz des Mündungsgebietes Aare–Reuss–Limmat (Wasserschlossdekret, WSD) vom 28. Februar 1989[^5-6] bis zu einer Höhe von Fr. 10'000.–,
 - e) den Beschluss über Ausgaben für Einzelmassnahmen technischer Natur zu Gunsten des öffentlichen Verkehrs bis zum Betrag von Fr. 500'000.–,
 - f) die Bestimmung der Präsidentin oder des Präsidenten der Kommission für Landschafts- und Ortsbildschutz,
-- g) die Bewilligung von Verpflichtungskrediten bis Fr. 3 Mio. für Strassenbauvorhaben (Projektierung und Vorbereitung, Realisierung) und Unterhaltsmassnahmen im Sinne der Strassengesetzgebung; vorbehalten bleibt die Zuständigkeit des Grossen Rats gemäss § 2 des Gesetzes für die National- und Kantonsstrassen und ihre Finanzierung (Strassengesetz, StrG) vom 17. März 1969[^5-7],
+- g) die Bewilligung von Verpflichtungskrediten bis Fr. 3 Mio. für Strassenbauvorhaben (Projektierung und Vorbereitung, Realisierung) und Unterhaltsmassnahmen im Sinne der Strassengesetzgebung; vorbehalten bleibt die Zuständigkeit des Grossen Rats gemäss § 10 Abs. 1 des Gesetzes über das kantonale Strassenwesen (Strassengesetz, StrG) vom 15. Juni 2021[^5-7],
 - h) die Vertretung von 50 % der Stimmen des Kantons an den Generalversammlungen der AEW Energie AG und der Axpo Holding AG,
 - i) die Vertretung des Kantons im A-Welle-Rat des Tarifverbunds A-Welle, bezüglich der Abnahme der Jahresrechnung des Tarifverbunds A-Welle im Einvernehmen mit dem Departement Finanzen und Ressourcen,
 - j) die Vertretung des Kantons in der Konsortialversammlung der Sondermülldeponie Kölliken, bezüglich der Abnahme der Jahresrechnung der Sondermülldeponie Kölliken im Einvernehmen mit dem Departement Finanzen und Ressourcen,
@@ -117,7 +117,7 @@ beschliesst:
 [^5-4]: SAR [761.520](https://gesetzessammlungen.ag.ch/data/761.520/de)
 [^5-5]: SAR [787.350](https://gesetzessammlungen.ag.ch/data/787.350/de)
 [^5-6]: SAR [761.530](https://gesetzessammlungen.ag.ch/data/761.530/de)
-[^5-7]: SAR [751.100](https://gesetzessammlungen.ag.ch/data/751.100/de)
+[^5-7]: SAR [751.200](https://gesetzessammlungen.ag.ch/data/751.200/de)
 [^5-8]: SAR [713.100](https://gesetzessammlungen.ag.ch/data/713.100/de)
 
 #### § 6
@@ -164,18 +164,19 @@ beschliesst:
 
 <sup>1</sup> Das Departement Volkswirtschaft und Inneres ist zuständig für
 
-- a) Verwaltungs- und Gemeindebeschwerden gemäss § 109 des Gesetzes über die Einwohnergemeinden (Gemeindegesetz) vom 19. Dezember 1978[^10-1],
-- b) Beschwerden gegen die von den Gemeinden festgelegten Gebühren gemäss § 17 des Dekrets über Gebühren für Amtshandlungen der Gemeinden (Gemeindegebührendekret, GGebD) vom 28. Oktober 1975[^10-2],
+- a) Verwaltungs- und Gemeindebeschwerden gemäss § 109 des Gesetzes über die Einwohnergemeinden (Gemeindegesetz) vom 19. Dezember 1978[^10-1], ausgenommen Beschwerden gegen polizeiliche Massnahmen und polizeilichen Zwang gemäss dem Gesetz über die Gewährleistung der öffentlichen Sicherheit (Polizeigesetz PolG) vom 6. Dezember 2005[^10-2],
+- b) Beschwerden gegen die von den Gemeinden festgelegten Gebühren gemäss § 17 des Dekrets über Gebühren für Amtshandlungen der Gemeinden (Gemeindegebührendekret, GGebD) vom 28. Oktober 1975[^10-3],
 - c) Beschwerden gegen Entscheide der Grundbuchämter,
 - d) Beschwerden gegen Entscheide des Strassenverkehrsamts,
 - e) …
 - f) Stimmrechtsbeschwerden sowie Wahl- und Abstimmungsbeschwerden gemäss § 71 Abs. 2 GPR,
-- g) Beschwerden gegen erstinstanzliche Entscheide des Amts für Justizvollzug gemäss § 3 Abs. 1 und 2 der Verordnung über den Vollzug von Strafen und Massnahmen (Strafvollzugsverordnung, SMV) vom 23. September 2020[^10-3],
+- g) Beschwerden gegen erstinstanzliche Entscheide des Amts für Justizvollzug gemäss § 3 Abs. 1 und 2 der Verordnung über den Vollzug von Strafen und Massnahmen (Strafvollzugsverordnung, SMV) vom 23. September 2020[^10-4],
 - h) Beschwerden gegen Entscheide des Amts für Wirtschaft und Arbeit (AWA) im Bereich Industrie- und Gewerbeaufsicht, die nicht gestützt auf die Unfallversicherungsgesetzgebung ergangen sind.
 
 [^10-1]: SAR [171.100](https://gesetzessammlungen.ag.ch/data/171.100/de)
-[^10-2]: SAR [661.710](https://gesetzessammlungen.ag.ch/data/661.710/de)
-[^10-3]: SAR [253.112](https://gesetzessammlungen.ag.ch/data/253.112/de)
+[^10-2]: SAR [531.200](https://gesetzessammlungen.ag.ch/data/531.200/de)
+[^10-3]: SAR [661.710](https://gesetzessammlungen.ag.ch/data/661.710/de)
+[^10-4]: SAR [253.112](https://gesetzessammlungen.ag.ch/data/253.112/de)
 
 #### § 11
 
