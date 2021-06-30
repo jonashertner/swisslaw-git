@@ -4,13 +4,13 @@ number: "221.200"
 title: Einführungsgesetz zur Schweizerischen Zivilprozessordnung
 short: EG ZPO
 language: de
-version: 2020-04-01
-valid_until: 2021-06-30
-version_adopted: 2019-09-17
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-08
 adopted: 2010-03-23
 in_force: 2011-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/221.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2814/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2984/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2814/pdf_file"
 
 (EG ZPO)
 
-Vom 23.03.2010 (Stand 01.04.2020)
+Vom 23.03.2010 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -302,6 +302,12 @@ beschliesst:
 <sup>2</sup> Das Kind wird in der Regel durch ein einzelnes Mitglied des Gerichts angehört.
 
 <sup>3</sup> Verzichtet das Gericht entgegen dem Wunsch des Kindes auf die Anhörung, eröffnet es dies dem urteilsfähigen Kind in einem Entscheid.
+
+#### § 21b
+
+**Mitteilung an Dritte**
+
+<sup>1</sup> Das Gericht kann den rechtskräftigen Entscheid der sachverständigen Person zustellen, die im Rahmen des Verfahrens ein Gutachten gemäss den Art. 183–189 ZPO erstattet hat.
 
 ## 4. Kosten und Inkasso
 
