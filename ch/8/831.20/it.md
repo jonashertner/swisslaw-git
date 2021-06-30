@@ -4,20 +4,20 @@ title: Legge federale del 19 giugno 1959 sull’assicurazione per l’invalidit�
 short: LAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/827_857_845"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1959-06-19
 in_force: 1959-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale su l’assicurazione per l’invalidità
 
-(LAI)**[^t-1]**
+(LAI)[^t-1]
 
-del 19 giugno 1959 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 19 giugno 1959 (Stato 1° luglio 2021)
 
 [^t-1]: Abbreviazione introdotta dal n. II 1 della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -545,7 +545,7 @@ I provvedimenti sanitari comprendono:
 [^14bis-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^14bis-5]: Introdotto dall’all. n. 2 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
-### II<sup>bis</sup>.**** I provvedimenti di reinserimento per preparare all’integrazione professionale
+### II<sup>bis</sup>. I provvedimenti di reinserimento per preparare all’integrazione professionale
 
 [^part1-chap3-lvlC-lvlIIbis-1]
 
@@ -908,7 +908,7 @@ Sulle indennità giornaliere sono pagati contributi:
 
 [^25ter-1]: Introdotto dal n. I della LF del 9 ott. 1986 ([RU 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); FF **1986** I 17). Abrogato dal n. 1 della LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), con effetto dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 
-### VII. Diritto d’opzione dell’assicurato, collaborazione, tariffe e tribunali arbitrali****
+### VII. Diritto d’opzione dell’assicurato, collaborazione, tariffe e tribunali arbitrali
 
 [^part1-chap3-lvlC-lvlVII-1]
 
@@ -980,7 +980,7 @@ Sulle indennità giornaliere sono pagati contributi:
 
 [^part1-chap3-lvlD-1]: Originaria lett. C.
 
-### I. Il diritto****
+### I. Il diritto
 
 [^part1-chap3-lvlD-lvlI-1]
 
@@ -1559,7 +1559,13 @@ Il Consiglio federale può delegare all’Ufficio federale compiti d’esecuzion
 
 <sup>4</sup> La delega di compiti previsti dal diritto cantonale a un ufficio AI cantonale sottostà all’approvazione del Dipartimento federale dell’interno. L’autorizzazione può essere vincolata a condizioni e oneri.
 
+<sup>5</sup> I Cantoni possono delegare compiti previsti dal diritto federale a un ufficio AI cantonale. La delega sottostà all’approvazione del DFI; può essere vincolata a condizioni e oneri.[^54-2]
+
+<sup>6</sup> I Cantoni possono delegare compiti degli uffici AI cantonali di cui all’articolo 57 capoverso 1, inclusa la competenza di emanare decisioni, alle istituzioni pubbliche di cui all’articolo 68<sup>bis</sup> capoverso 1. La delega sottostà all’approvazione del DFI; può essere vincolata a condizioni e oneri.[^54-3]
+
 [^54-1]: Nuovo testo giusta il n. I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^54-2]: Introdotto dall’all. n. 2 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^54-3]: Introdotto dall’all. n. 2 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 55
 

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung (IVG)
 short: IVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/827_857_845"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1959-06-19
 in_force: 1959-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20210101/de"
 
 (IVG)**[^t-1]**
 
-vom 19. Juni 1959 (Stand am 1. Januar 2021)
+vom 19. Juni 1959 (Stand am 1. Juli 2021)
 
 [^t-1]: Abkürzung beigefügt gemäss Ziff. II 1 des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -1549,7 +1549,13 @@ Der Bundesrat kann dem Bundesamt Aufgaben der Durchführung übertragen in den B
 
 <sup>4</sup> Die Übertragung von Aufgaben nach kantonalem Recht auf eine kantonale IV‑Stelle bedarf der Genehmigung des Eidgenössischen Departements des Innern. Die Genehmigung kann an Bedingungen geknüpft und mit Auflagen verbunden werden.
 
+<sup>5</sup> Die Kantone können Aufgaben nach Bundesrecht auf eine kantonale IV-Stelle übertragen. Die Übertragung bedarf der Genehmigung des Eidgenössischen Departements des Innern; diese kann an Bedingungen geknüpft und mit Auflagen verbunden werden.[^54-2]
+
+<sup>6</sup> Die Kantone können Aufgaben kantonaler IV-Stellen nach Artikel 57 Absatz 1 einschliesslich der Kompetenz zum Erlass von Verfügungen auf öffentliche Institutionen nach Artikel 68<sup>bis</sup> Absatz 1 übertragen. Die Übertragung bedarf der Genehmigung des Eidgenössischen Departements des Innern; diese kann an Bedingungen geknüpft und mit Auflagen verbunden werden.[^54-3]
+
 [^54-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^54-2]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^54-3]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 55
 

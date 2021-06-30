@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 juin 1959 sur l'assurance-invalidité (LAI)"
 short: LAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/827_857_845"
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1959-06-19
 in_force: 1959-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20210101/fr"
 
 (LAI)**[^t-1]**
 
-du 19 juin 1959 (Etat le 1<sup>er</sup> janvier 2021)
+du 19 juin 1959 (Etat le 1<sup>er</sup> juillet 2021)
 
 [^t-1]: Abréviation introduite par le ch. II 1 de la LF du 24 juin 1977 (9<sup>e</sup> révision de l’AVS), en vigueur depuis le 1<sup>er</sup> janv. 1979 ([RO 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -1554,7 +1554,13 @@ Le Conseil fédéral peut déléguer à l’office des tâches d’exécution da
 
 <sup>4</sup> La délégation à un office AI cantonal de tâches prévues par le droit cantonal est soumise à l’autorisation du Département fédéral de l’intérieur. L’autorisation peut être soumise à des conditions et liée à des charges.
 
+<sup>5</sup> Les cantons peuvent confier à un office AI cantonal des tâches prévues par le droit fédéral. Cette délégation de tâches requiert l’approbation du DFI; elle peut être soumise à des conditions et liée à des charges.[^54-2]
+
+<sup>6</sup> Les cantons peuvent confier aux institutions publiques visées à l’art. 68<sup>bis</sup>, al. 1, les attributions des offices AI cantonaux énumérées à l’art. 57, al. 1, y compris la compétence de rendre des décisions. Cette délégation de tâches requiert l’approbation du DFI; elle peut être soumise à des conditions et liée à des charges.[^54-3]
+
 [^54-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 2006 (5<sup>e</sup> révision AI), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^54-2]: Introduit par l’annexe ch. 2 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 (RO 2021 **338**; [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581))
+[^54-3]: Introduit par l’annexe ch.2 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 (RO 2021 **338**; [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581))t
 
 #### Art. 55
 
