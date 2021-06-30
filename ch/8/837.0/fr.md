@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur l'assurance-chômage obligatoire et l
 short: LACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: fr
-version: 2021-03-20
+version: 2021-07-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20210320/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20210320-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210320/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20210701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210320/fr"
 
 (Loi sur l’assurance-chômage, LACI)
 
-du 25 juin 1982 (Etat le 20 mars 2021)
+du 25 juin 1982 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -286,11 +286,12 @@ Est réputé partiellement sans emploi celui qui:
 
 <sup>2bis</sup> N’est pas réputé partiellement sans emploi celui qui, en raison d’une réduction passagère de l’horaire de travail, n’est pas occupé normalement.[^10-1]
 
-<sup>3</sup> Celui qui cherche du travail n’est réputé sans emploi ou partiellement sans emploi que s’il s’est annoncé à l’office du travail de son lieu de domicile aux fins d’être placé.
+<sup>3</sup> Celui qui cherche du travail n’est réputé sans emploi ou partiellement sans emploi que s’il s’est inscrit aux fins d’être placé.[^10-2]
 
 <sup>4</sup> La suspension provisoire d’un rapport de service fondé sur le droit public est assimilée à du chômage, lorsqu’un recours avec effet suspensif contre la résiliation signifiée par l’employeur est pendant.
 
 [^10-1]: Introduit par le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 369](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
+[^10-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 11
 
@@ -443,26 +444,29 @@ N’est pas réputé convenable et, par conséquent, est exclu de l’obligation
 
 <sup>1</sup> L’assuré qui fait valoir des prestations d’assurance doit, avec l’assistance de l’office du travail compétent, entreprendre tout ce qu’on peut raisonnablement exiger de lui pour éviter le chômage ou l’abréger. Il lui incombe, en particulier, de chercher du travail, au besoin en dehors de la profession qu’il exerçait précédemment. Il doit pouvoir apporter la preuve des efforts qu’il a fournis.
 
-<sup>2</sup> En vue de son placement, l’assuré est tenu de se présenter à sa commune de domicile ou à l’autorité compétente aussitôt que possible, mais au plus tard le premier jour pour lequel il prétend à l’indemnité de chômage; il doit ensuite se conformer aux prescriptions de contrôle édictées par le Conseil fédéral.[^17-2]
+<sup>2</sup> En vue de son placement, l’assuré est tenu de s’inscrire personnellement aussitôt que possible, mais au plus tard le premier jour pour lequel il prétend à l’indemnité de chômage; il doit ensuite se conformer aux prescriptions de contrôle édictées par le Conseil fédéral.[^17-2]
+
+<sup>2bis</sup> L’inscription en vue du placement est traitée par les autorités compétentes selon les art. 85 et 85*b.*[^17-3]
 
 <sup>3</sup>
 
-L’assuré est tenu d’accepter tout travail convenable qui lui est proposé. Il a l’obligation, lorsque l’autorité compétente le lui enjoint, de participer:[^17-3]
+L’assuré est tenu d’accepter tout travail convenable qui lui est proposé. Il a l’obligation, lorsque l’autorité compétente le lui enjoint, de participer:[^17-4]
 
-- a.[^17-4] aux mesures relatives au marché du travail propres à améliorer son aptitude au placement;
-- b.[^17-5] aux entretiens de conseil, aux réunions d’information et aux consultations spécialisées visées à l’al. 5;
+- a.[^17-5] aux mesures relatives au marché du travail propres à améliorer son aptitude au placement;
+- b.[^17-6] aux entretiens de conseil, aux réunions d’information et aux consultations spécialisées visées à l’al. 5;
 - c. de fournir les documents permettant de juger s’il est apte au placement ou si le travail proposé est convenable.
 
 <sup>4</sup> Le Conseil fédéral peut partiellement libérer de leurs obligations les assurés âgés frappés par un chômage de longue durée.
 
-<sup>5</sup> L’office du travail peut, dans des cas particuliers, diriger les assurés sur des institutions publiques ou d’utilité publique adéquates pour des consultations d’ordre psycho-social, professionnel ou en rapport avec la migration pour autant que cette mesure se révèle utile après examen du cas. Ces institutions perçoivent une indemnité dont le montant est fixé par l’organe de compensation.[^17-6]
+<sup>5</sup> L’office du travail peut, dans des cas particuliers, diriger les assurés sur des institutions publiques ou d’utilité publique adéquates pour des consultations d’ordre psycho-social, professionnel ou en rapport avec la migration pour autant que cette mesure se révèle utile après examen du cas. Ces institutions perçoivent une indemnité dont le montant est fixé par l’organe de compensation.[^17-7]
 
 [^17-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
-[^17-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^17-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^17-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^17-3]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^17-4]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^17-5]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^17-6]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^17-6]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^17-7]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 ### Section 2 Indemnisation
 
@@ -883,16 +887,25 @@ Une perte de travail n’est pas prise en considération:
 
 <sup>1bis</sup> La perte de travail supérieure à 85 % de l’horaire normal de l’entreprise ne peut excéder quatre périodes de décompte.[^35-2]
 
-<sup>2</sup> En cas de chômage prononcé et persistant, le Conseil fédéral peut, de manière générale ou pour certaines régions ou branches économiques particulièrement touchées, prolonger de six périodes de décompte au plus la durée maximum de l’indemnisation.
+<sup>2</sup>
+
+Le Conseil fédéral peut prolonger temporairement de six périodes de décompte au plus la durée maximum de l’indemnisation, si les conditions suivantes sont réunies:
+
+- a. le nombre de préavis de réduction de l’horaire de travail est supérieur à celui de six mois auparavant, et
+- b. les prévisions du marché du travail de la Confédération pour les douze prochains mois ne laissent pas présager d’amélioration.[^35-3]
+
+<sup>3</sup> Pour une prolongation temporaire subséquente à une première prolongation selon l’al. 2, seule la condition de l’al. 2, let. b, est déterminante.[^35-4]
 
 [^35-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 369](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
 [^35-2]: Introduit par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273)294; [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^35-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-4]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 36
 
 **Préavis de réduction de l’horaire de travail et examen des conditions**
 
-<sup>1</sup> Lorsqu’un employeur a l’intention de requérir une indemnité en faveur de ses travailleurs, il est tenu d’en aviser l’autorité cantonale par écrit dix jours au moins avant le début de la réduction de l’horaire de travail. Le Conseil fédéral peut prévoir des délais plus courts dans des cas exceptionnels. Le préavis est renouvelé lorsque la réduction de l’horaire de travail dure plus de trois mois.[^36-1]
+<sup>1</sup> L’employeur qui a l’intention de requérir en faveur de ses travailleurs une indemnité en cas de réduction de l’horaire de travail est tenu d’annoncer la réduction dix jours au moins avant son début.[^36-1] Le Conseil fédéral peut prévoir des délais plus courts dans des cas exceptionnels. Le préavis est renouvelé lorsque la réduction de l’horaire de travail dure plus de trois mois.[^36-2]
 
 <sup>2</sup>
 
@@ -906,7 +919,11 @@ Dans le préavis, l’employeur doit indiquer:
 
 <sup>4</sup> Lorsque l’autorité cantonale estime qu’une ou plusieurs conditions dont dépend le droit à l’indemnité ne sont pas remplies, elle s’oppose par décision au versement de l’indemnité. Dans chaque cas, elle en informe l’employeur et la caisse qu’il a désignée.
 
-[^36-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+<sup>5</sup> Le Conseil fédéral règle la procédure de préavis.[^36-3]
+
+[^36-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^36-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^36-3]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 37
 
@@ -951,29 +968,24 @@ L’employeur remet à la caisse:
 
 #### Art. 40
 
-**Prescriptions de contrôle**[^40-1]
+[^40-1]
 
-<sup>1</sup> En règle générale, il n’est procédé à aucun contrôle par timbrage en cas de réduction de l’horaire de travail.
-
-<sup>2</sup> L’autorité cantonale peut toutefois ordonner un contrôle par timbrage.
-
-[^40-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^40-1]: Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 41
 
 **Occupation provisoire**
 
-<sup>1</sup> L’autorité cantonale peut assigner une occupation provisoire, adéquate et convenable (art. 16) aux travailleurs qui subissent une perte de travail portant sur des journées ou des demi-journées. Lorsque l’interruption dure plus d’un mois, les travailleurs s’efforceront en outre de chercher eux-mêmes une telle occupation.[^41-1]
-
-<sup>2</sup> Le travailleur qui accepte une occupation provisoire ne peut le faire qu’avec le consentement de son employeur. Celui-ci ne peut refuser son accord que si cette occupation provisoire risque d’empêcher le travailleur de s’acquitter de ses obligations contractuelles. Lorsque l’employeur refuse son accord de façon injustifiée, l’autorité cantonale décide de le déchoir de son droit au remboursement de l’indemnité pour le travailleur concerné.
+<sup>1</sup> et <sup>2</sup>...[^41-1]
 
 <sup>3</sup> Le travailleur doit déclarer à l’employeur le revenu qu’il tire d’une occupation provisoire ou d’une activité indépendante pendant la période où l’horaire de travail est réduit. L’employeur en informe la caisse.
 
 <sup>4</sup> Le Conseil fédéral détermine de quelle manière et dans quelle mesure le revenu tiré de l’occupation provisoire est pris en compte pour le calcul de la perte de gain à prendre en considération.
 
-<sup>5</sup> Lorsque le travailleur refuse l’occupation provisoire convenable qui lui a été assignée, qu’il ne s’efforce pas suffisamment d’en rechercher une ou qu’il l’abandonne sans motif valable, l’autorité cantonale décide de diminuer l’indemnité à laquelle il a droit de 100 francs au minimum et de 1000 francs au plus, selon la gravité de la faute.
+<sup>5</sup> ...[^41-2]
 
-[^41-1]: Nouvelle teneur de la dernière phrase selon le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 369](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
+[^41-1]: Abrogés par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^41-2]: Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 ### Chapitre 4 Indemnité en cas d’intempéries
 
@@ -1099,13 +1111,9 @@ L’employeur remet à la caisse:
 
 #### Art. 49
 
-**Prescriptions de contrôle**
+[^49-1]
 
-<sup>1</sup> Le Conseil fédéral édicte les prescriptions de contrôle applicables aux travailleurs qui subissent une interruption de travail en raison d’intempéries.
-
-<sup>2</sup> Dans certains cas, l’autorité cantonale peut ordonner des contrôles approfondis afin d’éviter les abus.[^49-1]
-
-[^49-1]: Introduit par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^49-1]: Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 50
 
@@ -1156,6 +1164,10 @@ Les travailleurs assujettis au paiement des cotisations, qui sont au service d�
 <sup>2</sup> En cas de saisie de l’employeur, le travailleur doit présenter sa demande d’indemnisation dans un délai de 60 jours à compter de la date de l’exécution de la saisie.
 
 <sup>3</sup> À l’expiration de ces délais, le droit à l’indemnité s’éteint.
+
+<sup>4</sup> Le Conseil fédéral règle la procédure de demande d’indemnisation.[^53-1]
+
+[^53-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 54
 
@@ -1855,17 +1867,27 @@ L’organe de compensation:
 - f.[^83-4] statue sur les demandes en réparation de la Confédération dirigées contre le fondateur, le canton, l’employeur ou la caisse de compensation AVS (art. 82, 85*d*, 88 et 89*a*);
 - g. attribue aux caisses les ressources nécessaires tirées du fonds de compensation en vertu des prescriptions de la présente loi et de l’ordonnance;
 - h.[^83-5] prend des mesures pour empêcher le versement de prestations injustifiées et engage à cet effet des inspecteurs extraordinaires en cas de chômage important et persistant;
-- i.[^83-6] gère des systèmes d’information servant à l’accomplissement des tâches légales ainsi qu’à l’établissement de statistiques;
+- i.[^83-6] ...
 - k.[^83-7] prend les décisions visées à l’art. 59*c*, al. 3, et verse les subventions prévues aux art. 62 et 64*b*;
 - l. surveille les décisions des autorités cantonales;
 - [tab] m.[^83-8] décide de la prise en compte des frais d’administration des caisses, des autorités cantonales, des offices régionaux de placement et des services de logistique des mesures relatives au marché du travail;
 - n. assure la coordination avec les autres assurances sociales;
 - [tab] n<sup>bis</sup>.[^83-9] assure avec les cantons la coordination au sein du réseau EURES (European Employment Services) en vertu de l’art. 11 de l’annexe I de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^83-10] (accord sur la libre circulation des personnes);
-- o.[^83-11] gère le centre informatique des caisses;
+- o.[^83-11] ...
 - p.[^83-12] coordonne l’exécution des mesures relatives au marché du travail et peut en préparer la conception;
 - q.[^83-13] prend des mesures pour appliquer l’art. 59*a*;
 - r.[^83-14] tranche, en dérogation à l’art. 35 LPGA[^83-15], les litiges en matière de compétence territoriale des autorités cantonales;
 - s.[^83-16] statue sur les cas visés à l’art. 31, al. 1<sup>bis</sup>, que lui soumettent les autorités cantonales.
+
+<sup>1bis</sup>
+
+Pour accomplir des tâches légales et établir des statistiques, l’organe de compensation gère des systèmes d’information servant:
+
+- a. au paiement des prestations de l’assurance-chômage;
+- b. au placement public (art. 35, al. 1, let. a, de la loi fédérale du 6 octobre 1989 sur le service de l’emploi et la location de services [LSE][^83-17]);
+- c. à l’analyse des données du marché du travail;
+- d. à l’exploitation de la plateforme d’accès aux services en ligne destinée aux personnes mentionnées à l’art. 96*c*, al. 1<sup>quater</sup>;
+- e. à l’exploitation de la plateforme du service public de l’emploi (art. 35, al. 1, let. b, LSE).[^83-18]
 
 <sup>2</sup>
 
@@ -1873,10 +1895,10 @@ L’organe de compensation soumet à la commission de surveillance:
 
 - a. le compte d’exploitation, le compte de la fortune du fonds de compensation et le rapport annuel qu’elle transmettra accompagnés de son préavis au Conseil fédéral;
 - b. d’autres décomptes périodiques;
-- c.[^83-17] des rapports périodiques concernant le contrôle de la gestion, la révision des paiements effectués par les caisses et les décisions des autorités cantonales en matière de mesures relatives au marché du travail;
-- d.[^83-18] les demandes de subventions visant à promouvoir la recherche en matière de marché de l’emploi (art. 73);
-- e.[^83-19] les rapports exigés à l’art. 59*c*, al. 3;
-- f.[^83-20] le budget et les comptes du centre informatique.
+- c.[^83-19] des rapports périodiques concernant le contrôle de la gestion, la révision des paiements effectués par les caisses et les décisions des autorités cantonales en matière de mesures relatives au marché du travail;
+- d.[^83-20] les demandes de subventions visant à promouvoir la recherche en matière de marché de l’emploi (art. 73);
+- e.[^83-21] les rapports exigés à l’art. 59*c*, al. 3;
+- f.[^83-22] le budget et les comptes du centre informatique.
 
 <sup>3</sup> L’organe de compensation est administré par le SECO.
 
@@ -1885,21 +1907,23 @@ L’organe de compensation soumet à la commission de surveillance:
 [^83-3]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [FF 2000 1588](https://fedlex.data.admin.ch/eli/fga/2000/339)).
 [^83-4]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^83-5]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
-[^83-6]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2772](https://fedlex.data.admin.ch/eli/oc/2000/467); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^83-6]: Abrogée par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^83-7]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^83-8]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^83-9]: Introduite par l’art. 2 ch. 15 de l’AF du 17 déc. 2004 (extension de l’Ac. sur la libre circulation des personnes aux nouveaux Etats membres de la CE et mesures d’accompagnement) ([RO 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5523](https://fedlex.data.admin.ch/eli/fga/2004/1081)[6187](https://fedlex.data.admin.ch/eli/fga/2004/1105)). Nouvelle teneur selon l’annexe ch. 10 de l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
 [^83-10]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^83-11]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^83-11]: Introduite par le ch. I de la LF du 23 juin 1995 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)). Abrogée par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^83-12]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^83-13]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^83-14]: Introduite par l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^83-15]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^83-16]: Introduite par le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^83-17]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^83-18]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^83-17]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^83-18]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^83-19]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^83-20]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^83-20]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^83-21]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^83-22]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 
 #### Art. 83a
 
@@ -2034,7 +2058,7 @@ Les autorités cantonales, les offices régionaux de placement, les services de 
 
 <sup>2</sup>
 
-En dérogation aux art. 32 et 33 LPGA[^85f-3], les organes mentionnés à l’al. 1, let. a à h, peuvent être autorisés cas par cas à consulter les dossiers nécessaires ainsi que les données enregistrées dans le système d’information prévu à l’art. 35*a*, al. 1, de la loi du 6 octobre 1989 sur le service de l’emploi et la location de services (LSE)[^85f-4] aux conditions suivantes:
+En dérogation aux art. 32 et 33 LPGA[^85f-3], les organes mentionnés à l’al. 1, let. a à h, peuvent être autorisés, selon les cas, à consulter les dossiers nécessaires ainsi que les données enregistrées dans les systèmes d’information prévu à l’art. 83, al. 1<sup>bis</sup>, let. a, de la présente loi et à l’art. 35*a*, al. 1, LSE[^85f-4] aux conditions suivantes:[^85f-5]
 
 - a. l’intéressé reçoit des prestations de l’organe concerné et donne sont accord;
 - b. l’organe concerné accorde la réciprocité aux organes d’exécution de l’assurance-chômage.
@@ -2057,6 +2081,7 @@ Les organes d’exécution de l’assurance-chômage et les services de l’assu
 [^85f-2]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 [^85f-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^85f-4]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
+[^85f-5]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 85g
 
@@ -2198,14 +2223,14 @@ L’assurance est financée par:
 
 <sup>1</sup> La participation visée à l’art. 90, let. b, s’élève à 0,159 % de la somme des salaires soumis à cotisation.
 
-<sup>2</sup> ...[^90a-2]
+<sup>2</sup> Afin de favoriser la réinsertion de la main-d’œuvre indigène, la participation de la Confédération est majorée de 69,5 millions de francs par an pour les années 2020 à 2022.[^90a-2]
 
 <sup>3</sup> La Confédération verse une participation extraordinaire au fonds de compensation en 2020 et en 2021. La somme totale des participations extraordinaires versées en 2020 et en 2021 est calculée sur la base des dépenses engagées pour l’indemnité en cas de réduction de l’horaire de travail pendant les périodes de décompte de chacune de ces années.[^90a-3]
 
 <sup>4</sup> S’il est prévisible que la dette du fonds de compensation dépassera, à la fin de l’année 2021, 2,5 % de la somme des salaires soumis à cotisation et si ce dépassement est lié à l’épidémie de COVID-19, la Confédération peut verser une participation extraordinaire au fonds de compensation.[^90a-4]
 
 [^90a-1]: Introduit par le ch. I de la LF du 22 mars 2002 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)). Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^90a-2]: Introduit par le ch. I 3 de la LF du 30 sept. 2011 sur les mesures visant à atténuer les effets du franc fort et à améliorer la compétitivité, en vigueur du 1<sup>er</sup> oct. 2011 au 30 sept. 2012 ([RO 2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624); [FF 2011 6217](https://fedlex.data.admin.ch/eli/fga/2011/1078)).
+[^90a-2]: Introduit par le ch. I 3 de la LF du 30 sept.2011 sur les mesures visant à atténuer les effets du franc fort et à améliorer la compétitivité ([RO 2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624); [FF 2011 6217](https://fedlex.data.admin.ch/eli/fga/2011/1078)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
 [^90a-3]: Introduit par le ch. I de la LF du 25 sept. 2020 (Financement additionnel de l’assurance-chômage) ([RO 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [FF 2020 6465](https://fedlex.data.admin.ch/eli/fga/2020/1729)). Nouvelle teneur selon le ch. I de la LF du 19 mars 2021 (Participation extraordinaire 2021 au fonds de compensation), en vigueur du 20 mars 2021 au 31 déc. 2021 ([RO 2021 154](https://fedlex.data.admin.ch/eli/oc/2021/154); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^90a-4]: Introduit par le ch. I de la LF du 25 sept. 2020 (Financement additionnel de l’assurance-chômage), en vigueur du 26 sept. 2020 au 31 déc. 2022 ([RO 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [FF 2020 6465](https://fedlex.data.admin.ch/eli/fga/2020/1729)).
 
@@ -2358,50 +2383,55 @@ Les organes chargés d’appliquer la présente loi, d’en contrôler ou survei
 
 #### Art. 96c
 
-**Accès en ligne[^96c-2]**[^96c-1]
+**Accès aux systèmes d’information gérés par l’organe de compensation [^96c-2]**[^96c-1]
 
-<sup>1</sup>
+<sup>1</sup> Les caisses de chômage ont accès au système d’information pour le paiement des prestations de l’assurance-chômage (art. 83, al. 1<sup>bis</sup>, let. a) afin d’effectuer le paiement, le décompte et la comptabilisation des prestations de l’assurance-chômage.[^96c-3]
 
-Les organes suivants peuvent accéder en ligne aux systèmes d’information gérés par l’organe de compensation (art. 83, al. 1, let. i) pour accomplir les tâches citées à l’al. 2:[^96c-3]
+<sup>1bis</sup> Les organes qui ont accès au système d’information du service public de l’emploi (art. 83, al. 1<sup>bis</sup>, let. b), ainsi que les organes et les personnes qui ont un accès sécurisé à la plateforme du service public de l’emploi (art. 83, al. 1<sup>bis</sup>, let. e), sont énumérés à l’art. 35, al. 3 et 3<sup>ter</sup>, LSE[^96c-4].[^96c-5]
 
-- a. l’organe de compensation de l’assurance-chômage;
-- b. les caisses de chômage;
-- c. les autorités chargées par les cantons d’appliquer la présente loi;
-- d. les offices régionaux de placement;
-- e. les services chargés de la logistique des mesures relatives au marché du travail.
+<sup>1ter</sup>
 
-<sup>2</sup>
+Les organes suivants ont accès au système d’information servant à l’analyse des données du marché du travail (art. 83, al. 1<sup>bis</sup>, let. c) afin d’obtenir les indicateurs de performance et de conduite qui leur sont nécessaires:
 
-Ils peuvent accéder aux données personnelles, y compris aux données sensibles et aux profils de la personnalité, qui leur sont nécessaires pour accomplir les tâches suivantes, que leur assigne la présente loi:
+- a. les autorités cantonales (art. 85);
+- b. les ORP (art. 85*b*);
+- c. les services de logistique des mesures relatives au marché du travail (art. 85*c*);
+- d. les caisses de chômage (art. 77 et 78).[^96c-6]
 
-- a. surveiller et contrôler l’exécution de la présente loi;
-- b. allouer les ressources nécessaires aux caisses;
-- c. fixer et rembourser les frais d’administration;
-- d. conseiller et placer les demandeurs d’emploi;
-- e. établir le droit aux prestations;
-- f. appliquer les prescriptions de contrôle;
-- g. calculer et verser les prestations;
-- h. prononcer les décisions prévues par la présente loi ou les dispositions de procédure administrative;
-- i. assurer que l’offre de mesures relatives au marché du travail est suffisante.
+<sup>1quater</sup>
 
-<sup>2bis</sup> L’échange de données personnelles, y compris les données sensibles et les profils de la personnalité, entre les systèmes d’information de l’assurance-chômage (art. 83, al. 1, let. i) et du service public de l’emploi (art. 35 LSE[^96c-4]) est autorisé dans la mesure où il est nécessaire à l’exécution de la présente loi et de la LSE.[^96c-5]
+Les personnes suivantes peuvent s’enregistrer sur la plateforme d’accès aux services en ligne (art. 83, al. 1<sup>bis</sup>, let. d):
 
-<sup>2ter</sup> Les organes de l’aide sociale peuvent accéder en ligne aux systèmes d’information gérés par l’organe de compensation (art. 83, al. 1, let. i). Le Conseil fédéral limite l’accès à ces systèmes et leur utilisation aux informations pertinentes pour la bonne gestion du dossier et pour la réinsertion professionnelle des chômeurs et anciens chômeurs faisant appel à l’aide sociale.[^96c-6]
+- a. les personnes assurées, en vue de l’inscription, de la demande de prestations et de l’accomplissement des devoirs mentionnés à l’art. 17;
+- b. les demandeurs d’emploi, en vue de l’inscription et du conseil par l’ORP;
+- c. les employeurs, en vue de la demande des prestations au sens des art. 31 et 42 ainsi qu’en vue de remplir leurs obligations au sens de l’art. 88, al. 1.[^96c-7]
+
+<sup>2</sup> ...[^96c-8]
+
+<sup>2bis</sup> L’échange de données personnelles, y compris de données sensibles et de profils de la personnalité, entre les systèmes d’information de l’assurance-chômage (art. 83, al. 1<sup>bis</sup>) et ceux du service public de l’emploi (art. 35 LSE) est autorisé dans la mesure où il est nécessaire à l’exécution de la présente loi et de la LSE.[^96c-9]
+
+<sup>2ter</sup> ...[^96c-10]
 
 <sup>3</sup> Le Conseil fédéral règle la responsabilité de la protection des données, les données à saisir, leur durée de conservation, l’accès aux données, l’organisation et l’exploitation des systèmes d’information, la collaboration entre les autorités désignées à l’al. 1 et la sécurité des données.
 
 [^96c-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2772](https://fedlex.data.admin.ch/eli/oc/2000/467); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^96c-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^96c-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^96c-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^96c-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^96c-4]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
-[^96c-5]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^96c-6]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^96c-5]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^96c-6]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^96c-7]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^96c-8]: Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^96c-9]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^96c-10]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 96d
 
-[^96d-1]
+**Accès au registre des habitants**[^96d-1]
 
-[^96d-1]: Introduit par le ch. I de la LF du 23 juin 2000 ([RO 2000 2772](https://fedlex.data.admin.ch/eli/oc/2000/467); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)). Abrogé par le ch. I de l’O de l’Ass. féd. du 21 juin 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+Les organes d’exécution mentionnés à l’art. 76, al. 1, let. a et c, peuvent accéder en ligne au registre des habitants pour vérifier le domicile de la personne assurée, dans la mesure où le droit cantonal les y autorise.
+
+[^96d-1]: Introduit par le ch. I de la LF du 23 juin 2000 ([RO 2000 2772](https://fedlex.data.admin.ch/eli/oc/2000/467); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 97
 
@@ -2418,13 +2448,15 @@ Ils peuvent accéder aux données personnelles, y compris aux données sensibles
 Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’application peuvent communiquer des données, en dérogation à l’art. 33 LPGA[^97a-2]:
 
 - a. à d’autres organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution, lorsqu’elles sont nécessaires à l’accomplissement des tâches que leur assigne la présente loi;
+- a<sup>bis</sup>.[^97a-3] aux organes d’exécution des lois cantonales relatives à l’aide aux chômeurs;
 - b. aux organes d’une autre assurance sociale, lorsque, en dérogation à l’art. 32, al. 2, LPGA, l’obligation de les communiquer résulte d’une loi fédérale;
-- [tab] b<sup>bis</sup>.[^97a-3] à des organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro d’assuré AVS;
-- b<sup>ter</sup>.[^97a-4] aux autorités compétentes en matière d’étrangers, conformément à l’art. 97, al. 3, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^97a-5];
-- c. aux autorités compétentes en matière d’impôt à la source, conformément aux art. 88 et 100 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^97a-6] et aux dispositions cantonales correspondantes;
-- d. aux organes de la statistique fédérale, conformément à la loi du 9 octobre 1992 sur la statistique fédérale[^97a-7];
+- [tab] b<sup>bis</sup>.[^97a-4]à des organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro d’assuré AVS;
+- b<sup>ter</sup>.[^97a-5] aux autorités compétentes en matière d’étrangers, conformément à l’art. 97, al. 3, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^97a-6];
+- c. aux autorités compétentes en matière d’impôt à la source, conformément aux art. 88 et 100 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^97a-7] et aux dispositions cantonales correspondantes;
+- c<sup>bis</sup>.[^97a-8] aux autorités fiscales cantonales, si la loi cantonale prévoit l’envoi de l’attestation des prestations directement à ces dernières;
+- d. aux organes de la statistique fédérale, conformément à la loi du 9 octobre 1992 sur la statistique fédérale[^97a-9];
 - e. aux autorités d’instruction pénale, lorsqu’il s’agit de dénoncer ou de prévenir un crime;
-- e<sup>bis</sup>.[^97a-8] au Service de renseignement de la Confédération ou aux organes de sûreté des cantons à son intention, lorsqu’il existe une menace concrète pour la sûreté intérieure ou extérieure au sens de l’art. 19, al. 2, de la loi fédérale du 25 septembre 2015 sur le renseignement[^97a-9];
+- e<sup>bis</sup>.[^97a-10] au Service de renseignement de la Confédération ou aux organes de sûreté des cantons à son intention, lorsqu’il existe une menace concrète pour la sûreté intérieure ou extérieure au sens de l’art. 19, al. 2, de la loi fédérale du 25 septembre 2015 sur le renseignement[^97a-11];
 - f.
 
   dans des cas d’espèce et sur demande écrite et motivée:
@@ -2432,21 +2464,21 @@ Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, les or
   - 1\. aux autorités compétentes en matière d’aide sociale, lorsqu’elles leur sont nécessaires pour fixer ou modifier des prestations, en exiger la restitution ou prévenir des versements indus,
   - 2\. aux tribunaux civils, lorsqu’elles leur sont nécessaires pour régler un litige relevant du droit de la famille ou des successions,
   - 3\. aux tribunaux pénaux et aux organes d’instruction pénale, lorsqu’elles leur sont nécessaires pour établir les faits en cas de crime ou de délit,
-  - 4\. aux offices des poursuites, conformément aux art. 91, 163 et 222 de la LP[^97a-10],
+  - 4\. aux offices des poursuites, conformément aux art. 91, 163 et 222 de la LP[^97a-12],
   - 5\. aux autorités fiscales, lorsqu’elles leur sont nécessaires pour appliquer les lois fiscales,
-  - 6\.[^97a-11] aux autorités de protection de l’enfant et de l’adulte visées à l’art. 448, al. 4, CC[^97a-12],
-  - 7\.[^97a-13] aux autorités chargées d’appliquer la LEI et l’accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^97a-14], y compris les annexes, les protocoles et les dispositions d’exécution suisses;
-  - 8\.[^97a-15] ...[^97a-16]
+  - 6\.[^97a-13] aux autorités de protection de l’enfant et de l’adulte visées à l’art. 448, al. 4, CC[^97a-14],
+  - 7\.[^97a-15] aux autorités chargées d’appliquer la LEI et l’accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^97a-16], y compris les annexes, les protocoles et les dispositions d’exécution suisses;
+  - 8\.[^97a-17] ...[^97a-18]
 
-<sup>2</sup> Les données nécessaires à la lutte contre le travail au noir peuvent être communiquées conformément aux art. 11 et 12 de la loi du 17 juin 2005 sur le travail au noir[^97a-17].[^97a-18]
+<sup>2</sup> Les données nécessaires à la lutte contre le travail au noir peuvent être communiquées conformément aux art. 11 et 12 de la loi du 17 juin 2005 sur le travail au noir[^97a-19].[^97a-20]
 
-<sup>2bis</sup> Les caisses de chômage publiques et privées peuvent communiquer aux organes visés à l’art. 7 de la loi du 8 octobre 1999 sur les travailleurs détachés[^97a-19] les données qui leur sont nécessaires pour contrôler le respect des conditions minimales de travail et de salaire.[^97a-20]
+<sup>2bis</sup> Les caisses de chômage publiques et privées peuvent communiquer aux organes visés à l’art. 7 de la loi du 8 octobre 1999 sur les travailleurs détachés[^97a-21] les données qui leur sont nécessaires pour contrôler le respect des conditions minimales de travail et de salaire.[^97a-22]
 
-<sup>3</sup> En dérogation à l’art. 33 LPGA, les données d’intérêt général qui se rapportent à l’application de la présente loi peuvent être publiées. L’anonymat des assurés doit être garanti.[^97a-21]
+<sup>3</sup> En dérogation à l’art. 33 LPGA, les données d’intérêt général qui se rapportent à l’application de la présente loi peuvent être publiées. L’anonymat des assurés doit être garanti.[^97a-23]
 
 <sup>4</sup>
 
-Dans les autres cas, des données peuvent être communiquées à des tiers, en dérogation à l’art. 33 LPGA:[^97a-22]
+Dans les autres cas, des données peuvent être communiquées à des tiers, en dérogation à l’art. 33 LPGA:[^97a-24]
 
 - a. s’agissant de données non personnelles, lorsqu’un intérêt prépondérant le justifie;
 - b. s’agissant de données personnelles, lorsque la personne concernée y a, en l’espèce, consenti par écrit ou, s’il n’est pas possible d’obtenir son consentement, lorsque les circonstances permettent de présumer qu’il en va de l’intérêt de l’assuré.
@@ -2457,28 +2489,33 @@ Dans les autres cas, des données peuvent être communiquées à des tiers, en d
 
 <sup>7</sup> Les données sont communiquées en principe par écrit et gratuitement. Le Conseil fédéral peut prévoir la perception d’émoluments pour les cas nécessitant des travaux particulièrement importants.
 
+<sup>8</sup> Les données peuvent être communiquées par voie électronique.[^97a-25]
+
 [^97a-1]: Introduit par le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2772](https://fedlex.data.admin.ch/eli/oc/2000/467); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^97a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^97a-3]: Introduite par l’annexe ch. 14 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^97a-4]: Introduite par l’annexe ch. 3 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^97a-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
-[^97a-6]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^97a-7]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^97a-8]: Introduite par l’annexe ch. 14 de la LF du 23 déc. 2011 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nouvelle teneur selon l’annexe ch. II 20 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^97a-9]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^97a-10]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^97a-11]: Introduit par l’annexe ch. 30 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^97a-12]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^97a-13]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^97a-14]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^97a-15]: Introduit par l’annexe ch. 14 de la LF du 23 déc. 2011 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogé par l’annexe ch. II 20 de la LF du 25 sept. 2015 sur le renseignement, avec effet au 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^97a-16]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^97a-17]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^97a-18]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 17 juin 2005 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3371](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^97a-19]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
-[^97a-20]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^97a-21]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^97a-22]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^97a-3]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^97a-4]: Introduite par l’annexe ch. 14 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^97a-5]: Introduite par l’annexe ch. 3 de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^97a-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^97a-7]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^97a-8]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^97a-9]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^97a-10]: Introduite par l’annexe ch. 14 de la LF du 23 déc. 2011 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nouvelle teneur selon l’annexe ch. II 20 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^97a-11]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^97a-12]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^97a-13]: Introduit par l’annexe ch. 30 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^97a-14]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^97a-15]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^97a-16]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^97a-17]: Introduit par l’annexe ch. 14 de la LF du 23 déc. 2011 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogé par l’annexe ch. II 20 de la LF du 25 sept. 2015 sur le renseignement, avec effet au 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^97a-18]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^97a-19]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^97a-20]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 17 juin 2005 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3371](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^97a-21]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+[^97a-22]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^97a-23]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^97a-24]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^97a-25]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 98
 
@@ -2848,8 +2885,4 @@ Une cotisation de 1 % est prélevée sur les tranches de salaires supérieures a
 
 [^u4-1]
 
-[^u4-1]: [RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)
-
-Les chômeurs, qui ont atteint l’âge de 60 ans jusqu’au 1<sup>er</sup> juillet 2021 et qui ont cotisé pendant au moins 20 ans à l’AVS, n’arrivent pas en fin de droit dans l’assurance-chômage à partir du 1<sup>er</sup> janvier 2021 jusqu’à l’entrée en vigueur de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^u4-2].
-
-[^u4-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373); [FF 2020 5357](https://fedlex.data.admin.ch/eli/fga/2020/1299)
+[^u4-1]: [RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285). En vigueur jusqu’au 30 juin 2021
