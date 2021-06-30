@@ -4,13 +4,13 @@ number: "171.100"
 title: Gesetz über die Einwohnergemeinden
 short: "Gemeindegesetz, GG"
 language: de
-version: 2019-01-01
-valid_until: 2021-06-30
-version_adopted: 2018-03-06
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-08
 adopted: 1978-12-19
 in_force: 1981-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/171.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2659/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2983/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2659/pdf_file"
 
 (Gemeindegesetz, GG)
 
-Vom 19.12.1978 (Stand 01.01.2019)
+Vom 19.12.1978 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -540,7 +540,7 @@ beschliesst:
 
 - a) sorgt für den Vollzug der von den Gemeindeorganen gefassten Beschlüsse,
 - b) erledigt die von den Aufsichtsbehörden erteilten Aufträge,
-- c) steht der örtlichen Polizei vor,
+- c) …
 - d) erlässt in dringlichen Fällen die erforderlichen Anordnungen und erstattet darüber dem Gemeinderat an der nächsten Sitzung Bericht.
 
 <sup>3</sup> …
