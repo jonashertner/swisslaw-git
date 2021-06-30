@@ -4,13 +4,13 @@ number: "111.11"
 title: Anmeldungs- und Registerverordnung
 short: ARV
 language: de
-version: 2021-06-01
-valid_until: 2021-06-30
-version_adopted: 2021-05-25
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-22
 adopted: 2014-05-13
 in_force: 2014-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/111.11"
-pdf: "https://bl.clex.ch/api/de/versions/3027/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3028/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3027/pdf_file"
 
 (ARV)
 
-Vom 13.05.2014 (Stand 01.06.2021)
+Vom 13.05.2014 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
