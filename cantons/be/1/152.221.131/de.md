@@ -4,13 +4,13 @@ number: "152.221.131"
 title: Verordnung über die Organisation und die Aufgaben der Direktion für Inneres und Justiz
 short: "Organisationsverordnung DIJ, OrV DIJ"
 language: de
-version: 2020-01-01
-valid_until: 2021-06-30
-version_adopted: 2019-10-23
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-24
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.131"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1724/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2269/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1724/pdf_file"
 
 (Organisationsverordnung DIJ, OrV DIJ)
 
-vom 18.10.1995 (Stand 01.01.2020)
+vom 18.10.1995 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -92,7 +92,7 @@ beschliesst:
 <sup>3</sup> Für die folgenden Sachgebiete werden dezentrale Organisationseinheiten gebildet:
 
 - a die Betreibungs- und Konkursämter,
-- b die Grundbuchämter.
+- b das kantonale Grundbuchamt mit regionalen Grundbuchämtern.
 - c …
 
 <sup>4</sup> Der Direktion administrativ angegliedert sind die Regierungsstatthalterämter sowie die Kindes- und Erwachsenenschutzbehörden.
@@ -195,7 +195,7 @@ beschliesst:
 
 #### Art. 10
 
-**Amt für Dienstleistungen und Ressourcen (ADR) 1. Direktionale Dienstleistungen**
+**Amt für Dienstleistungen und Ressourcen (ADR)**
 
 <sup>1</sup> Das Amt für Dienstleistungen und Ressourcen betreut und unterstützt die Ämter, das Generalsekretariat und die dezentrale Verwaltung in den Bereichen
 
@@ -212,9 +212,7 @@ beschliesst:
 
 #### Art. 11
 
-**2. Notariatswesen**
-
-<sup>1</sup> Das Amt für Dienstleistungen und Ressourcen betreut das Notariatswesen und bereitet in diesem Bereich die Gesetzgebung vor.
+**…**
 
 #### Art. 12
 
@@ -302,19 +300,20 @@ beschliesst:
 <sup>1</sup> Das Amt für Sozialversicherungen (ASV)
 
 - a–c …
-- d vollzieht das Versicherungsobligatorium in der Krankenversicherung nach Artikel 6 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung [SR 832.10] (KVG) und die Verbilligung von Krankenkassenprämien nach Artikel 65 KVG;[^16-1]
+- d vollzieht das Versicherungsobligatorium in der Krankenversicherung nach Artikel 6 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^16-1] und die Verbilligung von Krankenkassenprämien nach Artikel 65 KVG;[^16-2]
 - e …
-- f bereitet die Geschäfte im Bereich Sozialversicherung für die Direktion vor;[^16-2]
-- g bereitet die Gesetzgebung in seinem Aufgabenbereich vor;[^16-3]
-- h besorgt die Planung, den Vollzug und das Berichtswesen in seinem Bereich betreffend Aufgaben und Mittel;[^16-4]
-- i vollzieht die Aufgaben des Kantons im Bereich der Alters-, Hinterlassenen- und Invalidenversicherung, der Ergänzungsleistungen zur AHV und zur IV sowie der landwirtschaftlichen Familienzulagen, soweit die Aufgaben nicht durch die Gesetzgebung der Ausgleichskasse des Kantons Bern oder der IV-Stelle des Kantons Bern übertragen worden sind, und stellt die Mittel bereit, um der Ausgleichskasse des Kantons Bern die ihr übertragenen Aufgaben zu entschädigen;[^16-5]
+- f bereitet die Geschäfte im Bereich Sozialversicherung für die Direktion vor;[^16-3]
+- g bereitet die Gesetzgebung in seinem Aufgabenbereich vor;[^16-4]
+- h besorgt die Planung, den Vollzug und das Berichtswesen in seinem Bereich betreffend Aufgaben und Mittel;[^16-5]
+- i vollzieht die Aufgaben des Kantons im Bereich der Alters-, Hinterlassenen- und Invalidenversicherung, der Ergänzungsleistungen zur AHV und zur IV, der Überbrückungsleistungen für ältere Arbeitslose und der landwirtschaftlichen Familienzulagen, soweit diese Aufgaben nicht durch die Gesetzgebung der Ausgleichskasse des Kantons Bern oder der IV-Stelle des Kantons Bern übertragen worden sind, und stellt die Mittel bereit, um der Ausgleichskasse des Kantons Bern die ihr übertragenen Aufgaben zu entschädigen;[^16-6]
 - k führt das Lastenausgleichsverfahren zwischen den Familienausgleichskassen durch.
 
-[^16-1]: Die Buchstaben d bis i entsprechen den bisherigen Buchstaben c bis h
+[^16-1]: [SR 832.10](https://db.clex.ch/link/Bund/832.10/de)
 [^16-2]: Die Buchstaben d bis i entsprechen den bisherigen Buchstaben c bis h
 [^16-3]: Die Buchstaben d bis i entsprechen den bisherigen Buchstaben c bis h
 [^16-4]: Die Buchstaben d bis i entsprechen den bisherigen Buchstaben c bis h
 [^16-5]: Die Buchstaben d bis i entsprechen den bisherigen Buchstaben c bis h
+[^16-6]: Die Buchstaben d bis i entsprechen den bisherigen Buchstaben c bis h
 
 #### Art. 16a
 
@@ -364,7 +363,10 @@ beschliesst:
 - d sieben Amtsvorsteherinnen und Amtsvorsteher.
 - e–g …
 
-<sup>1a</sup> Sie verfügt über vier Vorsitzende der Geschäftsleitungen der dezentralen Verwaltung der Direktion.
+<sup>1a</sup> Sie verfügt über
+
+- a jeweils eine Vorsitzende oder einen Vorsitzenden der Geschäftsleitungen der Betreibungs- und Konkursämter, der KESB sowie der Regierungsstatthalterinnen und Regierungsstatthalter,
+- b eine Vorsteherin oder einen Vorsteher des kantonalen Grundbuchamts.
 
 <sup>2</sup> Die Geschäftsordnung bezeichnet die übrigen Kaderstellen.
 

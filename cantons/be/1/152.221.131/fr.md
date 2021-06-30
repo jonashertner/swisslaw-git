@@ -4,13 +4,13 @@ number: "152.221.131"
 title: "Ordonnance sur l'organisation et les tâches de la Direction de l'intérieur et de la justice *"
 short: "Ordonnance d'organisation DIJ, OO DIJ"
 language: fr
-version: 2020-01-01
-valid_until: 2021-06-30
-version_adopted: 2019-10-23
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-24
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.131"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1724/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2269/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1724/pdf_file"
 
 (Ordonnance d'organisation DIJ, OO DIJ)
 
-du 18.10.1995 (état au 01.01.2020)
+du 18.10.1995 (état au 01.07.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -92,7 +92,7 @@ arrête:
 <sup>3</sup> Les unités administratives décentralisées suivantes sont constituées:
 
 - a offices des poursuites et des faillites,
-- b bureaux du registre foncier.
+- b bureau cantonal et bureaux régionaux du registre foncier.
 - c …
 
 <sup>4</sup> Les préfectures ainsi que les autorités de protection de l’enfant et de l’adulte sont rattachées administrativement à la Direction.
@@ -195,7 +195,7 @@ arrête:
 
 #### Art. 10
 
-**Office des services et des ressources (OSR) 1. Prestations propres à la Direction**
+**Office des services et des ressources (OSR)**
 
 <sup>1</sup> L'Office des services et des ressources soutient les offices, le Secrétariat général et l’administration décentralisée dans les domaines
 
@@ -212,9 +212,7 @@ arrête:
 
 #### Art. 11
 
-**2. Notariat**
-
-<sup>1</sup> L’Office des services et des ressources encadre l’activité des notaires et prépare la législation relevant de ce domaine.
+**…**
 
 #### Art. 12
 
@@ -301,19 +299,20 @@ arrête:
 <sup>1</sup> L'Office des assurances sociales
 
 - a–c …
-- d met en œuvre le régime de l'assurance-maladie obligatoire selon l'article 6 de la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal) [RS 832.10] et la réduction des primes des caisses-maladie selon l'article 65 LAMal;[^16-1]
+- d met en œuvre le régime de l'assurance-maladie obligatoire selon l'article 6 de la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)[^16-1] et la réduction des primes des caisses-maladie selon l'article 65 LAMal;[^16-2]
 - e …
-- f prépare les affaires relevant des assurances sociales à l'intention de la Direction;[^16-2]
-- g prépare la législation dans son domaine;[^16-3]
-- h s'occupe, dans son domaine d'activité, de la planification des tâches et des ressources, de leur exécution et des rapports y relatifs;[^16-4]
-- i exécute les tâches du canton dans les domaines de l'assurance-vieillesse et survivants (AVS), de l'assurance-invalidité (AI), des prestations complémentaires à l'AVS et à l'AI ainsi que des allocations familiales dans l'agriculture pour autant que la législation ne confie pas ces tâches à la Caisse de compensation du canton de Berne ou à l'Office AI du canton de Berne, et met à disposition les moyens destinés à indemniser la Caisse de compensation du canton de Berne pour les tâches qui lui sont déléguées;[^16-5]
+- f prépare les affaires relevant des assurances sociales à l'intention de la Direction;[^16-3]
+- g prépare la législation dans son domaine;[^16-4]
+- h s'occupe, dans son domaine d'activité, de la planification des tâches et des ressources, de leur exécution et des rapports y relatifs;[^16-5]
+- i exécute les tâches du canton dans les domaines de l'assurance-vieillesse et survivants (AVS), de l'assurance-invalidité (AI), des prestations complémentaires à l'AVS et à l'AI, des prestations transitoires pour les chômeurs âgés et des allocations familiales dans l'agriculture pour autant que la législation ne confie pas ces tâches à la Caisse de compensation du canton de Berne ou à l'Office AI du canton de Berne, et met à disposition les moyens destinés à indemniser la Caisse de compensation du canton de Berne pour les tâches qui lui sont déléguées;[^16-6]
 - k mène la procédure de compensation des charges entre les caisses de compensation pour allocations familiales.
 
-[^16-1]: Ancienne lettre c
-[^16-2]: Anciennes lettres e à h
+[^16-1]: [RS 832.10](https://db.clex.ch/link/Bund/832.10/fr)
+[^16-2]: Ancienne lettre c
 [^16-3]: Anciennes lettres e à h
 [^16-4]: Anciennes lettres e à h
 [^16-5]: Anciennes lettres e à h
+[^16-6]: Anciennes lettres e à h
 
 #### Art. 16a
 
@@ -363,7 +362,10 @@ arrête:
 - d sept chefs et cheffes d'office,
 - e–g …
 
-<sup>1a</sup> Elle compte quatre présidents ou présidentes des directoires de l’administration décentralisée.
+<sup>1a</sup> Elle compte
+
+- a un président ou une présidente pour chacun des directoires des offices des poursuites et des faillites, des autorités de protection de l'enfant et de l'adulte et des préfectures,
+- b un directeur exécutif ou une directrice exécutive du bureau cantonal du registre foncier.
 
 <sup>2</sup> Le règlement de la Direction énumère les autres postes de cadre.
 
