@@ -4,13 +4,13 @@ number: "142.211"
 title: Besoldungsverordnung
 short: BVO
 language: de
-version: 2017-01-01
-valid_until: 2021-06-30
-version_adopted: 2016-09-26
+version: 2021-07-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-29
 adopted: 2006-10-30
 in_force: 2008-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.211"
-pdf: "https://ar.clex.ch/api/de/versions/1346/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1377/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1346/pdf_file"
 
 (BVO)
 
-vom 30.10.2006 (Stand 01.01.2017)
+vom 30.10.2006 (Stand 01.07.2021)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -282,6 +282,7 @@ beschliesst:
 <sup>1</sup> Die Polizeiangehörigen werden in folgende Gehaltsklassen eingeteilt:
 
 - a) Aspirantin/Aspirant — Klasse 4
+- a<sup>bis</sup>) Polizistin/Polizist in Ausbildung — Klasse 5
 - b) Polizistin/Polizist — Klasse 6
 - c) Gefreite — Klasse 7
 - d) Korporalin/Korporal — Klasse 8
