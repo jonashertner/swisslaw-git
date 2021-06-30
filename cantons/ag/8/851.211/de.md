@@ -4,13 +4,13 @@ number: "851.211"
 title: Sozialhilfe- und Präventionsverordnung
 short: SPV
 language: de
-version: 2020-03-01
-valid_until: 2021-06-30
-version_adopted: 2020-01-22
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-05-12
 adopted: 2002-08-28
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2823/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2993/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2823/pdf_file"
 
 (SPV)
 
-Vom 28.08.2002 (Stand 01.03.2020)
+Vom 28.08.2002 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -329,11 +329,11 @@ beschliesst:
   - 1\. für den Besuch von Beschäftigungsprogrammen,
   - 2\. für die vom Kanton angebotenen Deutschkurse,
   - 3\. zur Arbeitssuche und bei Erwerbstätigkeit für den Arbeitsweg.
-- c) eine Pauschale für allgemeine Erwerbsunkosten beziehungsweise eine Motivationsentschädigung:
-  - 1\. Die Pauschale für allgemeine Erwerbsunkosten wird nach Massgabe des Arbeitspensums gewährt. Sie beträgt bei einer Vollzeitbeschäftigung Fr. 300.– pro Monat.
-  - 2\. Die Pauschale für allgemeine Erwerbsunkosten von Lehrlingen sowie von Mittelschülerinnen und Mittelschülern beträgt Fr. 150.– pro Monat, sofern ein Unterstützungsbudget erstellt wird.
+- c) einen Einkommensfreibetrag beziehungsweise eine Motivationsentschädigung für Asylsuchende gemäss den folgenden Ansätzen:
+  - 1\. Der Einkommensfreibetrag wird nach Massgabe des Arbeitspensums gewährt. Er beträgt bei einer Vollzeitbeschäftigung Fr. 300.– pro Monat.
+  - 2\. Der Einkommensfreibetrag von Lehrlingen sowie von Mittelschülerinnen und Mittelschülern beträgt Fr. 150.– pro Monat, sofern ein Unterstützungsbudget erstellt wird.
   - 3\. Die Motivationsentschädigung für die Teilnahme an einem Beschäftigungsprogramm wird nach Massgabe des Arbeitspensums gewährt. Sie beträgt bei einer Vollzeitbeschäftigung Fr. 150.– pro Monat.
-  - 4\. Die Pauschale für allgemeine Erwerbsunkosten beziehungsweise die Motivationsentschädigung beträgt maximal Fr. 400.– pro Unterstützungseinheit. Sind Personen gemäss Ziffer 2 Teil der Unterstützungseinheit, beträgt die Pauschale beziehungsweise die Entschädigung maximal Fr. 500.– pro Unterstützungseinheit.
+  - 4\. Die Obergrenze der kumulierten Motivationsentschädigungen und Einkommensfreibeträge beträgt Fr. 400.– pro Unterstützungseinheit und Monat. Sind Personen gemäss Ziffer 2 Teil der Unterstützungseinheit, beträgt die Obergrenze Fr. 500.– pro Unterstützungseinheit und Monat.
 - d) einen Einkommensfreibetrag und eine Integrationszulage für vorläufig aufgenommene Ausländerinnen und Ausländer gemäss den Ansätzen der §§ 20a–20c.
 
 <sup>3</sup> Für weitere situationsbedingte Leistungen ist beim Kantonalen Sozialdienst vorgängig ein schriftliches Gesuch um Kostengutsprache einzureichen.
@@ -494,7 +494,7 @@ beschliesst:
 
 **Obergrenze der kumulierten Integrationszulagen und Einkommensfreibeträge**
 
-<sup>1</sup> Die Obergrenze der kumulierten Integrationszulagen und der Einkommensfreibeträge beträgt Fr. 550.– pro Unterstützungseinheit. Sind Personen gemäss § 20a Abs. 3 Teil der Unterstützungseinheit, beträgt die Obergrenze Fr. 650.– pro Unterstützungseinheit.
+<sup>1</sup> Die Obergrenze der kumulierten Integrationszulagen und Einkommensfreibeträge beträgt Fr. 550.– pro Unterstützungseinheit und Monat. Sind Personen gemäss § 20a Abs. 3 Teil der Unterstützungseinheit, beträgt die Obergrenze Fr. 650.– pro Unterstützungseinheit und Monat.
 
 #### § 21
 
