@@ -4,7 +4,7 @@ number: "832.05.1"
 title: "ARRÊTÉ du 28.03.2018 sur la limitation de l'admission des fournisseurs de prestations à pratiquer à la charge de l'assurance-maladie obligatoire (AVOLAF)"
 short: AVOLAF
 language: fr
-version: 2019-07-01
+version: 2021-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/832.05.1?id=063ec4a3-78c3-4859-a9fc-eac51d3fa9c5"
 ---
 
@@ -41,11 +41,10 @@ arrête
 
 <sup>1</sup> Les médecins visés à l'article 36 LAMal[^2-1] , les médecins qui exercent au sein des institutions de soins ambulatoires au sens de l'article 36a LAMal ainsi que dans le domaine ambulatoire des hôpitaux visé à l'article 39 LAMal sont soumis à la limitation de l'admission à pratiquer à charge de l'assurance-maladie obligatoire.
 
-<sup>2</sup> Le département augmente de manière adéquate les limites fixées à l'annexe 1 de l'OLAF[^2-2] . A cet effet, le département prend en compte l'ensemble des consultations ambulatoires effectuées au sein des hôpitaux visés à l'article 39 LAMal afin de déterminer le nombre de médecins qui exercent dans ce domaine.
+<sup>2</sup> Le département augmente de manière adéquate les limites fixées à l'annexe 1 de l'OLAF, dans sa version du 15 mai 2019. A cet effet, le département prend en compte l'ensemble des consultations ambulatoires effectuées au sein des hôpitaux visés à l'article 39 LAMal afin de déterminer le nombre de médecins qui exercent dans ce domaine.
 
 [^1-1]: Modif. 2 du 22.12.2021: Modification Al. 2; entrée en vigueur au 01.07.2021
 [^2-1]: Loi fédérale du 18.03.1994 sur l’assurance-maladie (RS 832.10)
-[^2-2]: Ordonnance du 03.07.2013 sur la limitation de l’admission des fournisseurs de prestations à pratiquer à la charge de l’assurance-maladie obligatoire (RS 832.103)
 
 #### Art. 3
 
@@ -68,7 +67,7 @@ arrête
 
 **Transmission de la demande [^4-1]**
 
-<sup>1</sup> Le requérant qui entend se prévaloir d'une admission particulière au sens de l'article 4 s'adresse au département par l'intermédiaire du Service de la santé publique (ci-après : le service).
+<sup>1</sup> Le requérant qui entend se prévaloir d'une admission particulière au sens de l'article 4 adresse sa demande au département par le service en charge de la santé (ci-après : le service).
 
 <sup>2</sup> Le requérant transmet au service une demande motivée ainsi que toutes les informations utiles au traitement de celle-ci.
 
@@ -78,10 +77,9 @@ arrête
 
 **Instruction [^5-1]**
 
-<sup>1</sup> Avant de se prononcer, le département demande le préavis du service qui examine les demandes, après consultation des partenaires concernés, notamment en vertu des critères mentionnés à l'article 5 OLAF[^6-1] .
+<sup>1</sup> Avant de se prononcer, le département demande le préavis du service qui examine les demandes, après consultation des partenaires concernés.
 
 [^5-1]: Modif. 2 du 22.12.2021: Modification Al. 1; entrée en vigueur au 01.07.2021
-[^6-1]: Ordonnance du 03.07.2013 sur la limitation de l’admission des fournisseurs de prestations à pratiquer à la charge de l’assurance-maladie obligatoire (RS 832.103)
 
 #### Art. 7
 
@@ -93,11 +91,11 @@ arrête
 
 #### Art. 8
 
-**Emolument [^7-1]**
+**Émolument [^7-1]**
 
-<sup>1</sup> L'octroi d'une autorisation de pratiquer à charge de l'assurance-maladie obligatoire donne lieu à la perception d'un émolument de CHF 565.-.
+<sup>1</sup> L'octroi d'une autorisation de pratiquer à charge de l'assurance-maladie obligatoire donne lieu à la perception d'un émolument, conformément à l'article 4g alinéa 1 lettre g du Règlement du 8 janvier 2001 fixant les émoluments en matière administrative (Re-Adm).
 
-<sup>2</sup> L'examen d'une demande d'exception au sens de l'article 4 donne lieu à la perception d'un émolument de CHF 300.-. Cas échéant, ce montant est imputé sur l'émolument perçu pour l'octroi de l'autorisation conformément à l'alinéa 1<sup>er</sup>.
+<sup>2</sup> ...
 
 [^7-1]: Modif. 2 du 22.12.2021: Modification tArt; entrée en vigueur au 01.07.2021; Modification Al. 1; entrée en vigueur au 01.07.2021; Abrogation Al. 2; entrée en vigueur au 01.07.2021
 
@@ -133,6 +131,6 @@ arrête
 
 **Entrée en vigueur [^11-1]**
 
-<sup>1</sup> Le Département de la santé et de l'action sociale est chargé de l'exécution du présent arrêté qui entre en vigueur le1er avril 2018 et échoit le 30 juin 2021.
+<sup>1</sup> Le Département de la santé et de l'action sociale est chargé de l'exécution du présent arrêté qui entre en vigueur le 1<sup>er</sup> avril 2018 et échoit au plus tard le 30 juin 2023.
 
 [^11-1]: Modif. 1 du 12.06.2019: Modification Al. 1; entrée en vigueur au 01.07.2019 · Modif. 2 du 22.12.2021: Modification Al. 1; entrée en vigueur au 01.07.2021
