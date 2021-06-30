@@ -4,11 +4,11 @@ title: Verordnung vom 2. Februar 2000 über das Plangenehmigungsverfahren für e
 short: VPeA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210101/de"
 
 (VPeA)
 
-vom 2. Februar 2000 (Stand am 1. Januar 2021)
+vom 2. Februar 2000 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -43,8 +43,8 @@ Diese Verordnung regelt:
   das Plangenehmigungsverfahren für die Erstellung und die Änderung von:
 
   - 1\. Hochspannungsanlagen,
-  - 2\. Energieerzeugungsanlagen mit einer Leistung von über 30 kVA, die mit einem Verteilnetz verbunden sind,
-  - 3\. Schwachstromanlagen, soweit diese nach Artikel 8*a* Absatz 1 der Schwachstromverordnung vom 30. März 1994[^1-1] der Genehmigungspflicht unterstellt sind.[^1-2]
+  - 2\.[^1-1] ...
+  - 3\. Schwachstromanlagen, soweit diese nach Artikel 8*a* Absatz 1 der Schwachstromverordnung vom 30. März 1994[^1-2] der Genehmigungspflicht unterstellt sind.[^1-3]
 
 <sup>2</sup> Sie gilt in vollem Umfang für die Erstellung und die Änderung von Niederspannungsverteilnetzen, soweit es sich um Anlagen in Schutzgebieten nach eidgenössischem oder kantonalem Recht handelt. Die übrigen Niederspannungsanlagen werden vom Eidgenössischen Starkstrominspektorat (Inspektorat) anlässlich der regelmässigen Inspektionen genehmigt. Die Betriebsinhaber führen zu diesem Zweck Pläne und Unterlagen dauernd nach.
 
@@ -52,18 +52,20 @@ Diese Verordnung regelt:
 
 Sie gilt nicht für die Erstellung und die Änderung von:
 
-- a. Installationen nach Artikel 2 der Niederspannungs-Installationsverordnung vom 6. September 1989[^1-3], soweit es sich nicht um Anlagen nach Absatz 1 Buchstabe b handelt;
-- b. Erzeugnisse nach Artikel 1 Absatz 1 der Verordnung vom 9. April 1997[^1-4] über elektrische Niederspannungserzeugnisse;
-- c. Erzeugnisse nach Artikel 1 Absatz 1 der Verordnung vom 2. März 1998[^1-5] über Geräte und Schutzsysteme zur Verwendung in explosionsgefährdeten Bereichen.
+- a.[^1-4] Installationen nach Artikel 2 der Niederspannungs-Installationsverordnung vom 7. November 2001[^1-5];
+- b. Erzeugnisse nach Artikel 1 Absatz 1 der Verordnung vom 9. April 1997[^1-6] über elektrische Niederspannungserzeugnisse;
+- c. Erzeugnisse nach Artikel 1 Absatz 1 der Verordnung vom 2. März 1998[^1-7] über Geräte und Schutzsysteme zur Verwendung in explosionsgefährdeten Bereichen.
 
-<sup>4</sup> Für elektrische Anlagen, die ganz oder überwiegend dem Eisenbahn- oder Trolleybusverkehr dienen, gilt die Verordnung vom 2. Februar 2000[^1-6] über das Plangenehmigungsverfahren für Eisenbahnanlagen.
+<sup>4</sup> Für elektrische Anlagen, die ganz oder überwiegend dem Eisenbahn- oder Trolleybusverkehr dienen, gilt die Verordnung vom 2. Februar 2000[^1-8] über das Plangenehmigungsverfahren für Eisenbahnanlagen.
 
-[^1-1]: [SR 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
-[^1-2]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1-3]: [[AS 1989 1834](https://fedlex.data.admin.ch/eli/oc/1989/1834_1834_1834), [1992 2499](https://fedlex.data.admin.ch/eli/oc/1992/2499_2499_2499)Art. 15 Ziff. 1, [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)Anhang Ziff. 3, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)Anhang Ziff. 4, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)Ziff. II 20, [2000 762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 4. [AS 2002 128](https://fedlex.data.admin.ch/eli/oc/2002/22)Art. 43]. Siehe heute: die V vom 7. Nov. 2001 ([SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)).
-[^1-4]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 4 Ziff. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2. [AS 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)Art. 29]. Siehe heute: die V vom 25. Nov. 2015 ([SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
-[^1-5]: [[AS 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 4]. Siehe heute: die V vom 25. Nov. 2015 ([SR 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
-[^1-6]: [SR 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
+[^1-1]: Aufgehoben durch Ziff. I der V vom 4. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
+[^1-2]: [SR 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
+[^1-3]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
+[^1-4]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
+[^1-5]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^1-6]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 4 Ziff. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2. [AS 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)Art. 29]. Siehe heute: die V vom 25. Nov. 2015 ([SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
+[^1-7]: [[AS 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 4]. Siehe heute: die V vom 25. Nov. 2015 ([SR 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
+[^1-8]: [SR 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
 
 ## 1*a*. Abschnitt:**** Sachplanverfahren
 
@@ -514,7 +516,7 @@ Die Gesuchstellerin trägt die Kosten für die Publikation des Gesuches. Sie sin
 
 Die Verordnung vom 26. Juni 1991[^18-1] über das Plangenehmigungsverfahren für Starkstromanlagen wird aufgehoben.
 
-[^18-1]: [[AS 1991 1476](https://fedlex.data.admin.ch/eli/oc/1991/1476_1476_1476), [1992 2499](https://fedlex.data.admin.ch/eli/oc/1992/2499_2499_2499)Art. 15 Ziff. 2, [1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)Anhang Ziff. 4, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54), Anhang Ziff. 3, **1999** Ziff. II 19 [754](https://fedlex.data.admin.ch/eli/oc/1998/754_754_754)Anhang Ziff. 2]
+[^18-1]: [[AS 1991 1476](https://fedlex.data.admin.ch/eli/oc/1991/1476_1476_1476); [1992 2499](https://fedlex.data.admin.ch/eli/oc/1992/2499_2499_2499)Art. 15 Ziff. 2; [1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)Anhang Ziff. 4; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)Anhang Ziff. 3; **1999** Ziff. II 19 [754](https://fedlex.data.admin.ch/eli/oc/1998/754_754_754)Anhang Ziff. 2]
 
 #### Art. 19
 

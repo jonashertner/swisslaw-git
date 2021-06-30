@@ -4,11 +4,11 @@ title: "Ordinanza del 2 febbraio 2000 sulla procedura d'approvazione dei piani d
 short: OPIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2000-123-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2000-123-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210101/it"
 
 (OPIE)
 
-del 2 febbraio 2000 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 2 febbraio 2000 (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -43,9 +43,9 @@ La presente ordinanza disciplina*:*
   la procedura d’approvazione dei piani per la costruzione e la modifica di:
 
   - 1\. impianti ad alta tensione,
-  - 2\. impianti di produzione di energia con una potenza superiore a 30 kVA collegati a una rete di distribuzione,
+  - 2\.[^1-1] ...
 
-- 3\. impianti a bassa tensione nella misura in cui sono sottoposti all’obbligo d’approvazione conformemente all’articolo 8*a* capoverso 1 dell’ordinanza del 30 marzo 1994[^1-1] sulla corrente debole.[^1-2]
+- 3\. impianti a bassa tensione nella misura in cui sono sottoposti all’obbligo d’approvazione conformemente all’articolo 8*a* capoverso 1 dell’ordinanza del 30 marzo 1994[^1-2] sulla corrente debole.[^1-3]
 
 <sup>2</sup> Essa è applicabile in tutta la sua estensione alla costruzione e alla modifica di reti di distribuzione a bassa tensione sempreché si tratti di impianti situati in zone protette secondo il diritto federale o cantonale. Gli altri impianti a bassa tensione sono autorizzati dall’Ispettorato degli impianti a corrente forte (Ispettorato) in occasione delle ispezioni periodiche. A questo scopo i proprietari aggiornano costantemente i piani e la documentazione.
 
@@ -53,18 +53,20 @@ La presente ordinanza disciplina*:*
 
 Essa non è applicabile ai piani che concernono la costruzione e la modifica di:
 
-- a. impianti definiti nell’articolo 2 dell’ordinanza del 6 settembre 1989[^1-3] concernente gli impianti elettrici a bassa tensione sempreché non si tratti di impianti di cui al capoverso 1 lettera b;
-- b. prodotti definiti nell’articolo 1 capoverso 1 dell’ordinanza del 9 aprile 1997[^1-4] sui prodotti elettrici a bassa tensione;
-- c. prodotti definiti nell’articolo 1 capoverso 1 dell’ordinanza del 2 marzo 1998[^1-5] sugli apparecchi e i sistemi di protezione utilizzati in ambienti esplosivi.
+- a.[^1-4] impianti secondo l’articolo 2 dell’ordinanza del 7 novembre 2001[^1-5] sugli impianti elettrici a bassa tensione;
+- b. prodotti definiti nell’articolo 1 capoverso 1 dell’ordinanza del 9 aprile 1997[^1-6] sui prodotti elettrici a bassa tensione;
+- c. prodotti definiti nell’articolo 1 capoverso 1 dell’ordinanza del 2 marzo 1998[^1-7] sugli apparecchi e i sistemi di protezione utilizzati in ambienti esplosivi.
 
-<sup>4</sup> Agli impianti elettrici che servono solo o principalmente i veicoli ferroviari o i filoveicoli si applica l’ordinanza del 2 febbraio 2000[^1-6] sulla procedura d’approvazione dei piani di impianti ferroviari.
+<sup>4</sup> Agli impianti elettrici che servono solo o principalmente i veicoli ferroviari o i filoveicoli si applica l’ordinanza del 2 febbraio 2000[^1-8] sulla procedura d’approvazione dei piani di impianti ferroviari.
 
-[^1-1]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
-[^1-2]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1-3]: [[RU 1989 1834](https://fedlex.data.admin.ch/eli/oc/1989/1834_1834_1834), [1992 2499](https://fedlex.data.admin.ch/eli/oc/1992/2499_2499_2499)art. 15 n. 1, [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)all. n.3, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)all. n. 4, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)n. II 20, [2000 762](https://fedlex.data.admin.ch/eli/oc/2000/127)n. I 4. [RU 2002 128](https://fedlex.data.admin.ch/eli/oc/2002/22)art. 43]. Vedi ora l’O del 7 nov. 2001 concernente gli impianti elettrici a bassa tensione ([RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)).
-[^1-4]: [[RU 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 n. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 12749, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653). [RU 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Vedi ora l’O del 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
-[^1-5]: [[RU 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 4. [RU 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Vedi ora l’O del 25 nov. 2015 sugli apparecchi e i sistemi di protezione destinati a essere utilizzati in atmosfera potenzialmente esplosiva ([RS 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
-[^1-6]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
+[^1-1]: Abrogato dal n. I dell’O del 4 giu. 2021, con effetto dal 1° lug. 2021 ([RU 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
+[^1-2]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
+[^1-3]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
+[^1-4]: Nuovo testo giusta il n. I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
+[^1-5]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^1-6]: [[RU 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 n. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 12749, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653). [RU 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Vedi ora l’O del 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
+[^1-7]: [[RU 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 4. [RU 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Vedi ora l’O del 25 nov. 2015 sugli apparecchi e i sistemi di protezione destinati a essere utilizzati in atmosfera potenzialmente esplosiva ([RS 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
+[^1-8]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
 
 ## Sezione 1*a*:**** Procedura del piano settoriale
 

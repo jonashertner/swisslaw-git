@@ -4,11 +4,11 @@ title: "Ordonnance du 2 février 2000 sur la procédure d'approbation des plans 
 short: OPIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20210101/fr"
 
 (OPIE)
 
-du 2 février 2000 (Etat le 1<sup>er</sup> janvier 2021)
+du 2 février 2000 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -43,8 +43,8 @@ La présente ordonnance régit:
   la procédure d’approbation des plans relative à l’établissement ou à la modification:
 
   - 1\. des installations à haute tension,
-  - 2\. des installations de production d’énergie d’une puissance supérieure à 30 kVA reliées à un réseau de distribution,
-  - 3\. des installations électriques à courant faible, pour autant qu’elles soient soumises à l’approbation obligatoire en vertu de l’art. 8*a*, al. 1, de l’ordonnance du 30 mars 1994 sur les installations électriques à courant faible[^1-1].[^1-2]
+  - 2\.[^1-1] ...
+  - 3\. des installations électriques à courant faible, pour autant qu’elles soient soumises à l’approbation obligatoire en vertu de l’art. 8*a*, al. 1, de l’ordonnance du 30 mars 1994 sur les installations électriques à courant faible[^1-2].[^1-3]
 
 <sup>2</sup> Elle est applicable dans son intégralité à l’établissement et à la modification des réseaux de distribution à basse tension situés dans des aires de protection au sens du droit fédéral ou cantonal. Les autres installations à basse tension sont approuvées par l’Inspection fédérale des installations à courant fort (inspection) lors des contrôles réguliers. À cet effet, les propriétaires mettent à jour continuellement les plans et les dossiers.
 
@@ -52,18 +52,20 @@ La présente ordonnance régit:
 
 Elle n’est pas applicable à l’établissement ou à la modification:
 
-- a. des installations définies à l’art. 2 de l’ordonnance du 6 septembre 1989 sur les installations électriques à basse tension[^1-3], pour autant qu’il ne s’agisse pas d’installations relevant de l’al. 1, let. b;
-- b. des matériels définis à l’art. 1, al. 1, de l’ordonnance du 9 avril 1997 sur les matériels électriques à basse tension[^1-4];
-- c. des matériels définis à l’art. 1, al. 1, de l’ordonnance du 2 mars 1998 sur les appareils et les systèmes de protection destinés à être utilisés en atmosphères explosibles[^1-5].
+- a.[^1-4] des installations définies à l’art. 2 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension[^1-5];
+- b. des matériels définis à l’art. 1, al. 1, de l’ordonnance du 9 avril 1997 sur les matériels électriques à basse tension[^1-6];
+- c. des matériels définis à l’art. 1, al. 1, de l’ordonnance du 2 mars 1998 sur les appareils et les systèmes de protection destinés à être utilisés en atmosphères explosibles[^1-7].
 
-<sup>4</sup> Les installations électriques destinées exclusivement ou principalement à l’exploitation de lignes de chemins de fer ou de trolleybus sont régies par l’ordonnance du 2 février 2000 sur la procédure d’approbation des plans des installations ferroviaires[^1-6].
+<sup>4</sup> Les installations électriques destinées exclusivement ou principalement à l’exploitation de lignes de chemins de fer ou de trolleybus sont régies par l’ordonnance du 2 février 2000 sur la procédure d’approbation des plans des installations ferroviaires[^1-8].
 
-[^1-1]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
-[^1-2]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1-3]: [[RO 1989 1834](https://fedlex.data.admin.ch/eli/oc/1989/1834_1834_1834), [1992 2499](https://fedlex.data.admin.ch/eli/oc/1992/2499_2499_2499)art. 15 ch. 1, [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)annexe ch. 3, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)annexe ch. 4, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 20, [2000 762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. I 4. [RO 2002 128](https://fedlex.data.admin.ch/eli/oc/2002/22)art. 43]. Voir actuellement l’O du 7 nov. 2001 ([RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)).
-[^1-4]: [[RO 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 ch. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 2. [RO 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
-[^1-5]: [[RO 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 4. [RO 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
-[^1-6]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
+[^1-1]: Abrogé par le ch. I de l’O du 4 juin 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
+[^1-2]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
+[^1-3]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
+[^1-5]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^1-6]: [[RO 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 ch. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 2. [RO 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
+[^1-7]: [[RO 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 4. [RO 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
+[^1-8]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
 
 ## Section 1*a***** Procédure de plan sectoriel
 
