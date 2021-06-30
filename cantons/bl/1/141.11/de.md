@@ -3,20 +3,19 @@ canton: BL
 number: "141.11"
 title: Geschäftsordnung des Regierungsrates
 language: de
-version: 2018-01-01
-valid_until: 2021-06-30
-version_adopted: 2017-12-19
+version: 2021-07-01
+version_adopted: 2021-06-22
 adopted: 1992-12-15
 in_force: 1993-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/141.11"
-pdf: "https://bl.clex.ch/api/de/versions/2095/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3021/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsordnung des Regierungsrates
 
-Vom 15.12.1992 (Stand 01.01.2018)
+Vom 15.12.1992 (Stand 01.07.2021)
 
 Der Regierungsrat,
 
@@ -105,6 +104,8 @@ beschliesst:
 **Publikation und Information**
 
 <sup>1</sup> Erlasse und Beschlüsse, die gemäss besonderen Vorschriften veröffentlicht werden müssen, sowie Beschlüsse über die Genehmigung von Gemeindebeschlüssen werden von der Landeskanzlei im Amtsblatt publiziert.
+
+<sup>1<sup>bis</sup></sup> Erlasse werden überdies von der Landeskanzlei in der Chronologischen Gesetzessammlung publiziert.
 
 <sup>2</sup> Über die Information der Öffentlichkeit und die Beziehungen des Regierungsrates zu den Medien erlässt der Regierungsrat separate Bestimmungen.[^9-1]
 
