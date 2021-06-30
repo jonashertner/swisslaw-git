@@ -4,13 +4,13 @@ number: "161.1"
 title: Gesetz über die Organisation der Gerichtsbehörden und der Staatsanwaltschaft
 short: GSOG
 language: de
-version: 2020-11-01
-valid_until: 2021-06-30
-version_adopted: 2020-09-02
+version: 2021-07-01
+valid_until: 2022-12-31
+version_adopted: 2020-09-09
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/161.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2006/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2215/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2006/pdf_file"
 
 (GSOG)
 
-vom 11.06.2009 (Stand 01.11.2020)
+vom 11.06.2009 (Stand 01.07.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -769,7 +769,7 @@ beschliesst:
 
 <sup>6</sup> Die Einzelrichterin oder der Einzelrichter kann eine Besetzung nach Artikel 56 verlangen, wenn die rechtlichen oder tatbeständlichen Verhältnisse es rechtfertigen.
 
-<sup>7</sup> In Streitigkeiten vor dem Schiedsgericht in Sozialversicherungsstreitigkeiten genehmigt die oder der neutrale Vorsitzende Vergleiche und behandelt Gesuche und Klagen, die zurückgezogen oder gegenstandslos geworden sind oder auf die offensichtlich nicht eingetreten werden kann.
+<sup>7</sup> In Streitigkeiten vor dem Schiedsgericht in Sozialversicherungsstreitigkeiten genehmigt die oder der neutrale Vorsitzende Vergleiche und behandelt Gesuche und Klagen, die zurückgezogen oder gegenstandslos geworden sind oder auf die offensichtlich nicht eingetreten werden kann. Sie oder er behandelt ferner all jene Geschäfte, bei denen die Parteien übereinstimmend Gutheissung beantragen.
 
 [^57-1]: SR 272
 [^57-2]: BSG [122.20](https://www.belex.sites.be.ch/data/122.20/de)

@@ -4,13 +4,13 @@ number: "161.1"
 title: "Loi sur l'organisation des autorités judiciaires et du Ministère public"
 short: LOJM
 language: fr
-version: 2020-11-01
-valid_until: 2021-06-30
-version_adopted: 2020-09-02
+version: 2021-07-01
+valid_until: 2022-12-31
+version_adopted: 2020-09-09
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/161.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2006/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2215/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2006/pdf_file"
 
 (LOJM)
 
-du 11.06.2009 (état au 01.11.2020)
+du 11.06.2009 (état au 01.07.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -769,7 +769,7 @@ arrête:
 
 <sup>6</sup> Le ou la juge unique peut demander que l'autorité appelée à statuer soit composée en application de l'article 56 lorsque les circonstances de droit ou de fait le justifient.
 
-<sup>7</sup> Lors de litiges portés devant le Tribunal arbitral des assurances sociales, le président ou la présidente neutre approuve les transactions et connaît des requêtes ou actions qui ont été retirées, sont devenues sans objet ou sont manifestement irrecevables.
+<sup>7</sup> Lors de litiges portés devant le Tribunal arbitral des assurances sociales, le président ou la présidente neutre approuve les transactions et connaît des requêtes ou actions qui ont été retirées, sont devenues sans objet ou sont manifestement irrecevables. Il ou elle connaît en outre des affaires pour lesquelles les parties concluent de façon concordante à l’admission du recours ou de la demande.
 
 [^57-1]: RS 272
 [^57-2]: RSB [122.20](https://www.belex.sites.be.ch/data/122.20/fr)
