@@ -4,20 +4,20 @@ title: "Ordinanza del 31 ottobre 1947 sull'assicurazione per la vecchiaia e per 
 short: OAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20210101/it/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20210701/it/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’assicurazione per la vecchiaia e per i superstiti
 
-(OAVS)[^t-1]
+(OAVS)**[^t-1]**
 
-del 31 ottobre 1947 (Stato 1° gennaio 2021)
+del 31 ottobre 1947 (Stato 1° luglio 2021)
 
 [^t-1]: Nuovo tit. giusta il n. I 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Secondo la medesima disp. i tit. marg. sono stati accentrati.
 
@@ -33,7 +33,7 @@ ordina:
 
 ## Capo primo: Persone assicurate
 
-### A. Assoggettamento
+### A.**** Assoggettamento
 
 [^chap1-lvlA-1]
 
@@ -59,7 +59,7 @@ Il Comitato internazionale della Croce Rossa è un’organizzazione internaziona
 [^1a-1]: Associazione Svizzera per lo scambio di persone nella cooperazione internazionale.
 [^1a-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
-### B. Esenzioni dall’assicurazione
+### B. Esenzioni dall’assicurazione****
 
 [^chap1-lvlB-1]
 
@@ -110,13 +110,13 @@ Per attività lucrativa esercitata per un periodo di tempo relativamente breve a
 
 [^4-1]: Abrogato dal n. I dell’O del 30 set. 2009, con effetto dal 1° gen. 2010 ([RU 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
 
-### C. Adesione all’assicurazione
+### C. Adesione all’assicurazione****
 
 [^chap1-lvlC-1]
 
 [^chap1-lvlC-1]: Originario tit. B. Nuovo testo giusta il n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### I. Persone occupate all’estero da un datore di lavoro in Svizzera
+### I.**** Persone occupate all’estero da un datore di lavoro in Svizzera
 
 [^chap1-lvlC-lvlI-1]
 
@@ -157,7 +157,7 @@ Per continuare l’assicurazione occorre presentare alla competente cassa di com
 
 [^5c-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4057](https://fedlex.data.admin.ch/eli/oc/2016/673)).
 
-### II. Persone domiciliate in Svizzera che non sono assicurate in base a una convenzione internazionale
+### II. Persone domiciliate in Svizzera che non sono assicurate in base a una convenzione internazionale****
 
 [^chap1-lvlC-lvlII-1]
 
@@ -189,7 +189,7 @@ Le persone domiciliate in Svizzera che non sono assicurate in base a una convenz
 
 [^5f-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2629](https://fedlex.data.admin.ch/eli/oc/2000/423)).
 
-### III. Studenti senza attività lucrativa domiciliati all’estero
+### III.**** Studenti senza attività lucrativa domiciliati all’estero
 
 [^chap1-lvlC-lvlIII-1]
 
@@ -217,7 +217,7 @@ Gli studenti senza attività lucrativa domiciliati all’estero possono continua
 
 <sup>2</sup> L’assicurato che non versa interamente il suo contributo annuo entro il 31 dicembre dell’anno civile è escluso con effetto retroattivo dall’assicurazione. Lo stesso vale per l’assicurato che non inoltra alla cassa di compensazione, entro il 31 dicembre successivo, i documenti giustificativi richiesti. Prima della scadenza del termine, la cassa di compensazione notifica per raccomandata all’assicurato una diffida con la comminatoria dell’esclusione.
 
-### IV. Persone senza attività lucrativa che accompagnano all’estero il loro coniuge assicurato
+### IV.**** Persone senza attività lucrativa che accompagnano all’estero il loro coniuge assicurato
 
 [^chap1-lvlC-lvlIV-1]
 
@@ -237,7 +237,7 @@ Gli studenti senza attività lucrativa domiciliati all’estero possono continua
 
 L’articolo 5*i* si applica per analogia alle persone senza attività lucrativa che accompagnano all’estero il loro coniuge assicurato.
 
-## Capo secondo: Contributi
+## Capo secondo: Contributi****
 
 [^chap2-1]
 
@@ -570,7 +570,7 @@ Se il reddito proveniente da attività indipendenti esercitate a titolo accessor
 
 [^21-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4605](https://fedlex.data.admin.ch/eli/oc/2020/818)).
 
-### 2. Fissazione e determinazione dei contributi
+### 2. Fissazione e determinazione dei contributi****
 
 [^chap2-lvlA-lvlII-lvl2-1]
 
@@ -665,7 +665,7 @@ Se il reddito proveniente da attività indipendenti esercitate a titolo accessor
 [^27-2]: Nuovo testo giusta il n. I dell’O del 19 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
 [^27-3]: Nuovo testo giusta il n. I dell’O del 24 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
-### B. Contributi delle persone che non esercitano un’attività lucrativa
+### B. Contributi delle persone che non esercitano un’attività lucrativa****
 
 [^chap2-lvlB-1]
 
@@ -695,7 +695,7 @@ Se il reddito proveniente da attività indipendenti esercitate a titolo accessor
 
 <sup>5</sup> I coniugi senza attività lucrativa, i cui contributi non sono considerati pagati (art. 3 cpv. 3 LAVS), devono annunciarsi presso la cassa di compensazione competente.[^28-7]
 
-<sup>6</sup> Gli assicurati che ricevono prestazioni in virtù della legge federale del 6 ottobre 2006[^28-8] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità versano il contributo minimo a meno che nel calcolo delle prestazioni complementari annue la presa in considerazione del contributo minimo non cagioni un’eccedenza di redditi.[^28-9]
+<sup>6</sup> Gli assicurati che ricevono prestazioni in virtù della legge federale del 6 ottobre 2006[^28-8] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità o della legge federale del 19 giugno 2020[^28-9] sulle prestazioni transitorie per i disoccupati anziani versano il contributo minimo.[^28-10]
 
 [^28-1]: Nuovo testo giusta il n. I dell’O del 17 giu. 1985, in vigore dal 1° gen. 1986 ([RU 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
 [^28-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
@@ -705,7 +705,8 @@ Se il reddito proveniente da attività indipendenti esercitate a titolo accessor
 [^28-6]: Introdotto dal n. I dell’O del 20 set. 2002 ([RU 2002 3337](https://fedlex.data.admin.ch/eli/oc/2002/500)). Abrogato dal n. I dell’O del 19 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)).
 [^28-7]: Introdotto dal n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^28-8]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^28-9]: Introdotto dal n. I dell’O del 24 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)).
+[^28-9]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^28-10]: Introdotto dal n. I dell’O del 24 set. 2010 ([RU 2010 4573](https://fedlex.data.admin.ch/eli/oc/2010/655)). Nuovo testo giusta l’all. n. 1 dell’O dell’11 giu. 2021 sulle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° lug. 2021 ([RU 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
 
 #### Art. 28<sup>bis</sup>
 
@@ -786,7 +787,7 @@ La riscossione dei contributi può essere affidata a un istituto scolastico se e
 [^30-2]: Correzione del 16 giu. 2020 ([RU 2020 2185](https://fedlex.data.admin.ch/eli/oc/2020/435)).
 [^30-3]: Abrogato dal n. I dell’O del 16 set. 1996, con effetto dal 1° gen. 1997 ([RU 1996 2758](https://fedlex.data.admin.ch/eli/oc/1996/2758_2758_2758)).
 
-### C. Riduzione e condono dei contributi delle persone che esercitano un’attività lucrativa indipendente e delle persone che non esercitano un’attività lucrativa
+### C. Riduzione e condono dei contributi delle persone che esercitano un’attività lucrativa indipendente e delle persone che non esercitano un’attività lucrativa****
 
 [^chap2-lvlC-1]
 
@@ -837,13 +838,13 @@ Non sono tenuti a pagare i contributi in qualità di datori di lavoro:
 [^33-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^33-4]: Nuovo testo giusta l’all. n. 14 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
-### E. Riscossione dei contributi
+### E. Riscossione dei contributi****
 
 [^chap2-lvlE-1]
 
 [^chap2-lvlE-1]: Nuovo testo giusta il n. I dell’O del 1° mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 
-### I. In generale
+### I. In generale****
 
 [^chap2-lvlE-lvlI-1]
 
@@ -905,7 +906,7 @@ Devono pagare i contributi alla cassa di compensazione:
 [^34c-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^34c-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2824](https://fedlex.data.admin.ch/eli/oc/2000/478)).
 
-### II. Contributi paritari
+### II. Contributi paritari****
 
 [^chap2-lvlE-lvlII-1]
 
@@ -993,7 +994,7 @@ I contributi devono essere versati in ogni caso:
 [^38-2]: Nuovo testo giusta il n. I dell’O del 1° mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 [^38-3]: Nuovo testo giusta il n. I dell’O del 1° mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 
-### III. Pagamento di contributi arretrati e restituzione di contributi
+### III. Pagamento di contributi arretrati e restituzione di contributi****
 
 [^chap2-lvlE-lvlIII-1]
 
@@ -1031,7 +1032,7 @@ Chi ha pagato contributi non dovuti può esigerne la restituzione dalla cassa di
 
 [^41-1]: Nuovo testo giusta il n. I 1 del DCF del 30 dic. 1953, in vigore dal 1° gen. 1954 (RU **1954** 110). Nuovo testo giusta il n. I del DCF del 30 dic. 1953 (RU **1954** 110).
 
-### IV. Interessi
+### IV. Interessi****
 
 [^chap2-lvlE-lvlIV-1]
 
@@ -1091,7 +1092,7 @@ Devono pagare gli interessi di mora:
 
 [^42-1]: Nuovo testo giusta il n. I dell’O del 1° mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
-### F. Garanzia degli eredi
+### F. Garanzia degli eredi****
 
 [^chap2-lvlF-1]
 
@@ -1106,7 +1107,7 @@ Se la persona tenuta a pagare i contributi muore, gli eredi rispondono solidalme
 [^43-1]: Abrogato dal n. I dell’O del 1° mar. 2000, con effetto dal 1° gen. 2001 ([RU 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226)).
 [^43-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
-## Capo terzo: Rendite e assegno per grandi invalidi
+## Capo terzo: Rendite e assegno per grandi invalidi****
 
 [^chap3-1]
 
@@ -1603,7 +1604,7 @@ Quando la persona deceduta ha compiuto l’età indicata qui sotto, l’aumento 
 [^54bis-1]: Introdotto dal n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^54bis-2]: Abrogato dal n. II 2 dell’O del 28 set. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5155](https://fedlex.data.admin.ch/eli/oc/2007/723)).
 
-### C. Rendite straordinarie
+### C. Rendite straordinarie**** ****
 
 [^chap3-lvlC-1][^chap3-lvlC-2]
 
@@ -1618,13 +1619,13 @@ La riduzione delle rendite straordinarie per figli e per orfani (art. 43 cpv. 3 
 
 [^55-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### D. Età flessibile per il godimento della rendita
+### D. Età flessibile per il godimento della rendita****
 
 [^chap3-lvlD-1]
 
 [^chap3-lvlD-1]: Introdotto dal n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### I. Rinvio della rendita
+### I. Rinvio della rendita****
 
 [^chap3-lvlD-lvlI-1]
 
@@ -1699,7 +1700,7 @@ Quando rendite di superstite succedono a una rendita di vecchiaia rinviata, l’
 [^55quater-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 [^55quater-4]: Abrogato dal n. I dell’O del 29 nov. 1995, con effetto dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### II. Anticipazione della rendita
+### II. Anticipazione della rendita****
 
 [^chap3-lvlD-lvlII-1]
 
@@ -1735,7 +1736,7 @@ Quando una rendita per superstiti succede a una rendita di vecchiaia anticipata,
 
 [^57-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 1995, in vigore dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### E. Calcolo anticipato della rendita
+### E. Calcolo anticipato della rendita****
 
 [^chap3-lvlE-1]
 
@@ -1784,7 +1785,7 @@ Il calcolo anticipato è effettuato dalla cassa di compensazione competente per 
 
 [^6166-1]: Abrogati dal n. I dell’O del 29 nov. 1995, con effetto dal 1° gen. 1997 ([RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)).
 
-### F. Assegno per grandi invalidi e mezzi ausiliari
+### F.**** Assegno per grandi invalidi e mezzi ausiliari
 
 [^chap3-lvlF-1]
 
@@ -1818,7 +1819,7 @@ Il calcolo anticipato è effettuato dalla cassa di compensazione competente per 
 [^66ter-2]: [RS 831.201](https://fedlex.data.admin.ch/eli/cc/1961/29_29_29)
 [^66ter-3]: Introdotto dal n. I dell’O del 5 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6483](https://fedlex.data.admin.ch/eli/oc/2008/882)).
 
-### G. Rapporto con l’assegno per grandi invalidi dell’assicurazione contro gli infortuni
+### G. Rapporto con l’assegno per grandi invalidi dell’assicurazione contro gli infortuni****
 
 [^chap3-lvlG-1]
 
@@ -1834,7 +1835,7 @@ Il calcolo anticipato è effettuato dalla cassa di compensazione competente per 
 
 [^66quater-1]: Introdotto dal n. I del DCF del 10 gen. 1969 ([RU 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Nuovo testo giusta l’art. 143 dell’O del 20 dic. 1982 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)).
 
-### H. Disposizioni varie
+### H. Disposizioni varie****
 
 [^chap3-lvlH-1]
 
@@ -2041,7 +2042,7 @@ Le casse di compensazione possono versare, contemporaneamente alla rendita dell�
 
 [^76bis-1]: Introdotto dal n. I del DCF del 10 gen. 1969 ([RU 1969 135](https://fedlex.data.admin.ch/eli/oc/1969/125_135_135)). Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
-### VI. Ricupero e impossibilità di restituzione
+### VI. Ricupero e impossibilità di restituzione****
 
 [^chap3-lvlH-lvlVI-1]
 
@@ -2703,13 +2704,13 @@ I Cantoni e le associazioni professionali fondatrici possono affidare alle casse
 [^132ter-1]: Introdotto dal n. I dell’O del 7 lug. 1982, in vigore dal 1° gen. 1983 ([RU 1982 1279](https://fedlex.data.admin.ch/eli/oc/1982/1279_1279_1279)).
 [^132ter-2]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
 
-### H. Numero d’assicurato
+### H. Numero d’assicurato****
 
 [^chap4-lvlH-1]
 
 [^chap4-lvlH-1]: Nuovo testo giusta il n. I dell’O del 7 nov. 2007, in vigore dal 1° dic. 2007 ([RU 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 
-### I. Caratteristiche e assegnazione
+### I. Caratteristiche e assegnazione****
 
 [^chap4-lvlH-lvlI-1]
 
@@ -2777,7 +2778,7 @@ L’UCC può esigere i dati seguenti:
 
 [^134-1]: Abrogato dal n. I dell’O del 7 nov. 2007, con effetto dal 1° lug. 2008 ([RU 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 
-### II. Utilizzazione sistematica del numero d’assicurato al di fuori dell’AVS
+### II. Utilizzazione sistematica del numero d’assicurato al di fuori dell’AVS****
 
 [^chap4-lvlH-lvlII-1]
 
@@ -2917,7 +2918,7 @@ Per quanto la presente ordinanza non preveda disposizioni particolari, sono appl
 [^134octies-1]: Introdotto dal n. I dell’O del 7 nov. 2007, in vigore dal 1° dic. 2007 ([RU 2007 5271](https://fedlex.data.admin.ch/eli/oc/2007/748)).
 [^134octies-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
-### H<sup>bis</sup>. Certificato di assicurazione e conto individuale
+### H<sup>bis</sup>. Certificato di assicurazione e conto individuale****
 
 [^chap4-lvlHbis-1]
 
@@ -3026,7 +3027,7 @@ La registrazione comprende:
 [^141-3]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 [^141-4]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
-### H<sup>ter</sup>. Sistemi d’informazione per l’esecuzione di convenzioni internazionali
+### H<sup>ter</sup>.**** Sistemi d’informazione per l’esecuzione di convenzioni internazionali
 
 [^chap4-lvlHter-1]
 
@@ -3450,7 +3451,7 @@ Quando essi hanno ragioni di dubitare che esista questa indipendenza, gli uffici
 
 [^170-1]: Introdotto dal n. I dell’O del 5 apr. 1978, in vigore dal 1° gen. 1979 ([RU 1978 420](https://fedlex.data.admin.ch/eli/oc/1978/420_420_420)).
 
-### IV. Revisioni complementari e controlli
+### IV. Revisioni complementari e controlli****
 
 [^chap4-lvlL-lvlIV-1]
 
@@ -3805,7 +3806,7 @@ L’Ufficio federale stenderà un rapporto su ogni anno di esercizio dell’assi
 
 [^214-1]: Nuovo testo giusta il n. I dell’O del 17 giu. 1985, in vigore dal 1° gen. 1986 ([RU 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
 
-## Capo ottavo: Sussidi di costruzione alle case e ad altre istituzioni per le persone anziane
+## Capo ottavo: Sussidi di costruzione alle case e ad altre istituzioni per le persone anziane****
 
 [^chap8-1]
 
@@ -3837,7 +3838,7 @@ L’Ufficio federale stenderà un rapporto su ogni anno di esercizio dell’assi
 [^221-2]: [RU 1975 900](https://fedlex.data.admin.ch/eli/oc/1975/__900)
 [^221-3]: Nuova denominazione giusta l’art. 1 del DCF del 23 apr. 1980 concernente l’adattamento delle disp. di diritto federale alle nuove denominazioni dei dipartimenti e uffici (non pubblicato).
 
-## Capo nono: Sussidi per il promovimento dell’aiuto alla vecchiaia
+## Capo nono:**** Sussidi per il promovimento dell’aiuto alla vecchiaia
 
 [^chap9-1]
 
@@ -3907,7 +3908,7 @@ Hanno diritto ai sussidi le organizzazioni attive a livello nazionale che:
 
 [^225-1]: Nuovo testo giusta il n. I 16 dell’O del 7 nov. 2007 sulla nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)). Vedi anche la disp. fin. di detta mod. alla fine del presente testo.
 
-## Capo decimo: Disposizioni finali
+## Capo decimo: Disposizioni finali****
 
 [^chap10-1]
 
@@ -3925,25 +3926,25 @@ Hanno diritto ai sussidi le organizzazioni attive a livello nazionale che:
 
 [^226-1]: Originario art. 222.
 
-## Disposizione finale della modifica del 17 giugno 1985
+## Disposizione finale della modifica del 17 giugno 1985****
 
 [^u1-1]
 
 [^u1-1]: [RU 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913). Abrogata dal n. IV 42 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizioni finali della modifica del 13 settembre 1995
+## Disposizioni finali della modifica del 13 settembre 1995****
 
 [^u2-1]
 
 [^u2-1]: [RU 1995 4376](https://fedlex.data.admin.ch/eli/oc/1995/4376_4376_4376). Abrogate dal n. IV 42 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizioni finali della modifica del 29 novembre 1995
+## Disposizioni finali della modifica del 29 novembre 1995****
 
 [^u3-1]
 
 [^u3-1]: [RU 1996 668](https://fedlex.data.admin.ch/eli/oc/1996/668_668_668)
 
-a. ...[^u3-2]
+a. ...**[^u3-2]**
 
 b. Conversione delle rendite in corso
 
@@ -3979,13 +3980,13 @@ d. Versamento della rendita da parte del datore di lavoro
 [^u3-2]: Abrogata dal n. IV 42 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^u3-3]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3710](https://fedlex.data.admin.ch/eli/oc/2002/570)).
 
-## Disposizioni finali della modifica del 16 settembre 1996
+## Disposizioni finali della modifica del 16 settembre 1996****
 
 [^u4-1]
 
 [^u4-1]: [RU 1996 2758](https://fedlex.data.admin.ch/eli/oc/1996/2758_2758_2758). Abrogate dal n. IV 42 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizioni finali della modifica del 27 aprile 1998
+## Disposizioni finali della modifica del 27 aprile 1998****
 
 [^u5-1]
 
@@ -3995,19 +3996,19 @@ d. Versamento della rendita da parte del datore di lavoro
 
 <sup>2</sup> Fino all’entrata in vigore dei contratti di prestazioni, al più tardi però entro la fine del 1999, le organizzazioni previste all’articolo 222 capoverso 1 lettera a ricevono sussidi secondo il diritto vigente.
 
-## Disposizione derogatoria per gli anni di contribuzione 2000 e 2001
+## Disposizione derogatoria per gli anni di contribuzione 2000 e 2001****
 
 [^u6-1]
 
 [^u6-1]: [RU 1999 3044](https://fedlex.data.admin.ch/eli/oc/1999/465). Abrogate dall’all. n. II 5 dell’O del 14 ago. 2013 sulle basi temporali dell’imposta federale diretta, con effetto dal 1° gen. 2014 ([RU 2013 2773](https://fedlex.data.admin.ch/eli/oc/2013/569)).
 
-## Disposizioni finali della modifica del 1° marzo 2000
+## Disposizioni finali della modifica del 1° marzo 2000****
 
 [^u7-1]
 
 [^u7-1]: [RU 2000 1441](https://fedlex.data.admin.ch/eli/oc/2000/226). Abrogate dall’all. n. II 5 dell’O del 14 ago. 2013 sulle basi temporali dell’imposta federale diretta, con effetto dal 1° gen. 2014 ([RU 2013 2773](https://fedlex.data.admin.ch/eli/oc/2013/569)).
 
-## Disposizione finale della modifica del 17 ottobre 2007
+## Disposizione finale della modifica del 17 ottobre 2007****
 
 [^u8-1]
 
@@ -4017,7 +4018,7 @@ d. Versamento della rendita da parte del datore di lavoro
 
 <sup>2</sup> Per la determinazione del reddito di un’attività lucrativa indipendente nell’anno di entrata in vigore della modifica dell’articolo 18 capoverso 1<sup>bis</sup>, possono essere dedotte soltanto le perdite commerciali subite e allibrate in quell’anno e nell’anno immediatamente precedente.
 
-## Disposizioni finali della modifica del 7 novembre 2007
+## Disposizioni finali della modifica del 7 novembre 2007****
 
 [^u9-1]
 
@@ -4041,7 +4042,7 @@ d. Versamento della rendita da parte del datore di lavoro
 [^u9-5]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 [^u9-6]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 
-## Disposizione finale della modifica del 7 novembre 2007
+## Disposizione finale della modifica del 7 novembre 2007****
 
 [^u10-1]
 
@@ -4049,7 +4050,7 @@ d. Versamento della rendita da parte del datore di lavoro
 
 La presente modifica degli articoli 222–225 è applicabile soltanto a formazioni e perfezionamenti iniziati successivamente alla sua entrata in vigore.
 
-## Disposizioni finali della modifica del 24 settembre 2010
+## Disposizioni finali della modifica del 24 settembre 2010****
 
 [^u11-1]
 
@@ -4064,7 +4065,7 @@ La presente modifica degli articoli 222–225 è applicabile soltanto a formazio
 - c. per le comunicazioni trasmesse nel 2013: 5 franchi;
 - d. per le comunicazioni trasmesse a partire dal 2014: 3 franchi.
 
-## Disposizione finale della modifica del 21 settembre 2012
+## Disposizione finale della modifica del 21 settembre 2012****
 
 [^u12-1]
 
