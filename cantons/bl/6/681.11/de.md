@@ -3,29 +3,29 @@ canton: BL
 number: "681.11"
 title: Verordnung für die Berufsbildung
 language: de
-version: 2020-08-01
-valid_until: 2021-06-30
-version_adopted: 2019-12-03
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-29
 adopted: 2009-03-17
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/681.11"
-pdf: "https://bl.clex.ch/api/de/versions/2701/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3061/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Berufsbildung
 
-Vom 17.03.2009 (Stand 01.08.2020)
+Vom 17.03.2009 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Absatz 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 88 Buchstabe f des Bildungsgesetzes vom 6. Juni 2002[^ingress-2],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 88 Abs. 1 Bst. f des Bildungsgesetzes vom 6. Juni 2002[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de)
-[^ingress-2]: GS 34.637, SGS [640](https://bl.clex.ch/data/640/de)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 640](https://bl.clex.ch/data/640/de/art88)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -35,7 +35,7 @@ beschliesst:
 
 <sup>1</sup> Die Verordnung regelt insbesondere:
 
-- a. den Vollzug des Bundesgesetzes vom 13. Dezember 2002[^1-1] über die Berufsbildung (BBG), der Verordnung vom 19. November 2003[^1-2] über die Berufsbildung (BBV) und der Verordnung vom 30. November 1998[^1-3] über die Berufsmaturität, soweit dieser nicht durch das Bildungsgesetz vom 6. Juni 2002 gewährleistet ist;
+- a. den Vollzug des Bundesgesetzes über die Berufsbildung (BBG) vom 13. Dezember 2002[^1-1], der Verordnung über die Berufsbildung (BBV) vom 19. November 2003[^1-2] und der Verordnung über die Berufsmaturität vom 30. November 1998[^1-3], soweit dieser nicht durch das Bildungsgesetz vom 6. Juni 2002 gewährleistet ist;
 - b. die beruflichen Ausbildungsverhältnisse, welche nicht dem Bundesgesetz unterstellt sind;
 - c. die Beziehungen zu den Berufsfachschulen von privatrechtlichen Organisationen mit einem Bildungsauftrag des Kantons, soweit diese nicht im Bundesgesetz über die Berufsbildung oder in speziellen Verträgen geregelt sind;
 - d. die Angebote, die auf die berufliche Grundbildung vorbereiten (Brückenangebote) und die nachhaltige Integration in die berufliche Grundbildung unterstützen (Berufsintegration);
@@ -45,9 +45,9 @@ beschliesst:
 
 <sup>2</sup> Für die Berufsfachschulen von privatrechtlichen Trägerschaften sind die mit dem Kanton abgeschlossenen Verträge massgebend.
 
-[^1-1]: SR [412.10](https://db.clex.ch/link/Bund/412.10/de)
-[^1-2]: SR [412.101](https://db.clex.ch/link/Bund/412.101/de)
-[^1-3]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
+[^1-1]: [SR 412.10](https://db.clex.ch/link/Bund/412.10/de)
+[^1-2]: [SR 412.101](https://db.clex.ch/link/Bund/412.101/de)
+[^1-3]: [SR 412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
 
 #### § 2
 
@@ -103,7 +103,7 @@ beschliesst:
 
 #### § 3c
 
-**Datenschutz (§ 4b [Bildungsgesetz](https://bl.clex.ch/data/640/de/art4b) vom 6. Juni 2002[^3c-1])**
+**Datenschutz (§ 4b Bildungsgesetz vom 6. Juni 2002[^3c-1])**
 
 <sup>1</sup> Im Rahmen der Berufsintegration werden ausschliesslich Daten erhoben, die zur Sicherung des Ausbildungserfolges notwendig sind. Namentlich werden Daten erhoben betreffend:
 
@@ -117,7 +117,7 @@ beschliesst:
 
 <sup>3</sup> Daten werden nur im Interesse und mit Einverständnis der betroffenen Person an externe Institutionen und amtliche Stellen weitergegeben. Daten von Minderjährigen werden nur mit Einverständnis der Erziehungsberechtigten weitergegeben.
 
-[^3c-1]: SGS 640
+[^3c-1]: [SGS 640](https://bl.clex.ch/data/640/de/art4b)
 
 ## 2 Ausbildung in Betrieben und Überbetrieblichen Kursen
 
@@ -142,6 +142,17 @@ beschliesst:
 <sup>1</sup> Vor Beginn des Ausbildungsverhältnisses schliessen die Lernenden, wenn sie noch nicht volljährig sind, gemeinsam mit den Erziehungsberechtigten, und der Lehrbetrieb einen Lehrvertrag ab, welcher dem Amt für Berufsbildung und Berufsberatung zur Genehmigung vorzulegen ist.
 
 <sup>2</sup> Die Genehmigung kann bei Wegfall der Genehmigungsvoraussetzungen widerrufen werden.
+
+<sup>3</sup> Das Amt für Berufsbildung und Berufsberatung führt ein Verzeichnis der Lehrvertragsdaten.
+
+<sup>4</sup> Die inner- und ausserkantonalen staatlichen oder staatlich anerkannten Berufsfachschulen, die Berufsbildungsämter anderer Kantone sowie die Anbieterinnen und Anbieter überbetrieblicher Kurse erhalten Zugang zu den für sie erforderlichen Lehrvertragsdaten. Dazu gehören:
+
+- a. die Stammdaten der Lernenden und, sofern sie noch nicht volljährig sind, von deren Erziehungsberechtigten;
+- b. die Angaben zum Lehrbetrieb;
+- c. die Angaben der verantwortlichen Berufsbildnerin oder des verantwortlichen Berufsbildners;
+- d. die Lehrvertragsart;
+- e. die Berufsbezeichnung;
+- f. die Bildungsdauer.
 
 #### § 6
 
@@ -218,19 +229,19 @@ beschliesst:
 
 <sup>1</sup> Der Kanton leistet Beiträge:
 
-- a. an die Kosten von überbetrieblichen Kursen durch um 100% erhöhte Pro-Kopf- und Kurstag-Beiträge gemäss den im Anhang der interkantonalen Berufsfachschulvereinbarung[^12-1] definierten Ansätzen.
+- a. an die Kosten von überbetrieblichen Kursen durch um 100 % erhöhte Pro-Kopf- und Kurstag-Beiträge gemäss den im Anhang der interkantonalen Berufsfachschulvereinbarung[^12-1] definierten Ansätzen.
 - b. …
 
 <sup>2</sup> Der Kanton kann zudem Beiträge leisten:
 
-- a. an die Kosten für die Erstellung, den Erwerb und den Umbau von Kurszentren: maximal 20% der anrechenbaren Aufwendungen gemäss Verordnung des WBF vom 23. November 2016[^12-2] über die Bauinvestitions- und Baunutzungsbeiträge für Hochschulbauten in der jeweils geltenden Version;
-- b. an die Kosten von Einrichtungen und ausserordentlichen Anschaffungen für die Überbetrieblichen Kurse: maximal 40% der durch schriftliche Abrechnung und Rechnungsbelege nachgewiesenen Kosten;
-- c. an die Kosten für Massnahmen, die der Qualitätssicherung und -entwicklung dienen: maximal 40% der schriftlich belegten Kosten.
+- a. an die Kosten für die Erstellung, den Erwerb und den Umbau von Kurszentren: maximal 20 % der anrechenbaren Aufwendungen gemäss Verordnung des WBF über die Bauinvestitions- und Baunutzungsbeiträge für Hochschulbauten vom 23. November 2016[^12-2] in der jeweils geltenden Version;
+- b. an die Kosten von Einrichtungen und ausserordentlichen Anschaffungen für die Überbetrieblichen Kurse: maximal 40 % der durch schriftliche Abrechnung und Rechnungsbelege nachgewiesenen Kosten;
+- c. an die Kosten für Massnahmen, die der Qualitätssicherung und -entwicklung dienen: maximal 40 % der schriftlich belegten Kosten.
 
 <sup>3</sup> Anträge betreffend Kostenbeiträge nach Abs. 2 sind vorgängig ans Amt für Berufsbildung und Berufsberatung zu richten.
 
-[^12-1]: GS 36.0854, SGS [681.22](https://bl.clex.ch/data/681.22/de)
-[^12-2]: SR [414.201.1](https://db.clex.ch/link/Bund/414.201.1/de)
+[^12-1]: [SGS 681.22](https://bl.clex.ch/data/681.22/de)
+[^12-2]: [SR 414.201.1](https://db.clex.ch/link/Bund/414.201.1/de)
 
 ### 2.4 Beurteilung und Qualifikationsverfahren
 
@@ -277,7 +288,7 @@ beschliesst:
 
 <sup>1</sup> Berufsbildnerinnen und Berufsbildner verfügen nebst einer qualifizierten fachlichen Bildung über eine berufspädagogische Qualifikation im Äquivalent von 100 Lernstunden oder über den Nachweis eines Ausbildungskurses für Berufsbildnerinnen und Berufsbildner im Umfang von 40 Kursstunden.
 
-<sup>2</sup> Für Berufsbildnerinnen und Berufsbildner, welche in ihrem Betrieb erstmals für berufliche Grundbildungen zuständig sind und noch über keine berufspädagogische Qualifikation nach Absatz 1 verfügen, führt das Amt für Berufsbildung und Berufsberatung obligatorische Ausbildungskurse durch. Der Ausbildungskurs ist in der Regel vor Einstellung der oder des ersten Lernenden, spätestens aber im ersten Jahr als Berufsbildnerin oder Berufsbildner zu absolvieren.
+<sup>2</sup> Für Berufsbildnerinnen und Berufsbildner, welche in ihrem Betrieb erstmals für berufliche Grundbildungen zuständig sind und noch über keine berufspädagogische Qualifikation nach Abs. 1 verfügen, führt das Amt für Berufsbildung und Berufsberatung obligatorische Ausbildungskurse durch. Der Ausbildungskurs ist in der Regel vor Einstellung der oder des ersten Lernenden, spätestens aber im 1. Jahr als Berufsbildnerin oder Berufsbildner zu absolvieren.
 
 <sup>3</sup> Das Amt für Berufsbildung und Berufsberatung kann Dritte mit der Durchführung von Ausbildungskursen für Berufsbildnerinnen und Berufsbildner beauftragen.
 
@@ -494,7 +505,7 @@ beschliesst:
 
 **Lernortübergreifende Qualitätssicherung und -entwicklung**
 
-<sup>1</sup> Die Berufsfachschulen, die Verantwortlichen für die Überbetrieblichen Kurse und die Organisationen der Arbeitswelt arbeiten am Qualitätssicherungs- und entwicklungskonzept des Amtes für Berufsbildung und Berufsberatung aktiv mit.
+<sup>1</sup> Die Berufsfachschulen, die Verantwortlichen für die Überbetrieblichen Kurse und die Organisationen der Arbeitswelt arbeiten am Qualitätssicherungs- und entwicklungskonzept des Amts für Berufsbildung und Berufsberatung aktiv mit.
 
 ### 3.7 Erweitertes Bildungsangebot
 
@@ -604,7 +615,7 @@ beschliesst:
 
 **Unterrichtsbesuche**
 
-<sup>1</sup> Die Berufsbildnerinnen und Berufsbildner können - in der Regel nach vorheriger Absprache mit der Lehrerin oder dem Lehrer - den Schulunterricht ihrer Lernenden besuchen.
+<sup>1</sup> Die Berufsbildnerinnen und Berufsbildner können – in der Regel nach vorheriger Absprache mit der Lehrerin oder dem Lehrer – den Schulunterricht ihrer Lernenden besuchen.
 
 ### 3.11 Lehrerinnen und Lehrer
 
@@ -620,10 +631,10 @@ beschliesst:
 
 <sup>1</sup> Der Lehrerinnen- und Lehrerkonvent hat insbesondere folgende Aufgaben:
 
-- a. Er nimmt zu Handen des Schulrates Stellung zur Organisation der Schulleitung;
-- b. er arbeitet unter der Federführung der Schulleitung das Schulprogramm und schulinterne Erlasse aus;
-- c. er wählt die Lehrerinnen- und Lehrervertretung im Schulrat;
-- d. er nimmt zu wichtigen Fragen der Schule und der Berufsbildung Stellung.
+- a. Er nimmt zuhanden des Schulrats Stellung zur Organisation der Schulleitung.
+- b. Er arbeitet unter der Federführung der Schulleitung das Schulprogramm und schulinterne Erlasse aus.
+- c. Er wählt die Lehrerinnen- und Lehrervertretung im Schulrat.
+- d. Er nimmt zu wichtigen Fragen der Schule und der Berufsbildung Stellung.
 
 #### § 46
 
@@ -655,11 +666,11 @@ beschliesst:
 
 <sup>1</sup> Die Schulleitungen haben folgenden Auftrag:
 
-- a. Sie sind für die pädagogischen, personellen, organisatorischen und administrativen Belange und die Unterrichtsqualität ihrer Schulen zuständig;
-- b. sie beteiligen die Lehrerinnen und Lehrer an wichtigen Entscheidungsprozessen ihrer Schulen;
-- c. sie sorgen für eine altersgemässe Mitwirkung der Lernenden an wichtigen Entscheidungsprozessen ihrer Schulen;
-- d. sie gewährleisten die Mitwirkung der Erziehungsberechtigten und der Lehrbetriebe am Entwicklungsprozess ihrer Schulen;
-- e. sie arbeiten mit den kommunalen und kantonalen Stellen und Behörden zusammen.
+- a. Sie sind für die pädagogischen, personellen, organisatorischen und administrativen Belange und die Unterrichtsqualität ihrer Schulen zuständig.
+- b. Sie beteiligen die Lehrerinnen und Lehrer an wichtigen Entscheidungsprozessen ihrer Schulen.
+- c. Sie sorgen für eine altersgemässe Mitwirkung der Lernenden an wichtigen Entscheidungsprozessen ihrer Schulen.
+- d. Sie gewährleisten die Mitwirkung der Erziehungsberechtigten und der Lehrbetriebe am Entwicklungsprozess ihrer Schulen.
+- e. Sie arbeiten mit den kommunalen und kantonalen Stellen und Behörden zusammen.
 
 <sup>2</sup> Die Schulleitungen sind gegenüber den Lehrerinnen und Lehrern und dem nicht unterrichtenden Schulpersonal in personellen, organisatorischen und administrativen Fragen weisungsbefugt.
 
@@ -683,23 +694,23 @@ beschliesst:
 
 <sup>1</sup> Das Pflichtenheft der Schulleitung umfasst folgende Aufgaben:
 
-- a. Sie teilt den Lehrerinnen und Lehrern die Klassen, Pensen und Räume zu;
-- b. sie genehmigt die Stundenpläne;
-- c. sie besucht die Lehrerinnen und Lehrer im Unterricht und beurteilt diesen;
-- d. sie führt die Mitarbeiterinnen- und Mitarbeitergespräche durch und führt die Personalakten;
-- e. sie sorgt in Konfliktfällen für einen korrekten Verfahrensablauf;
-- f. sie arbeitet zusammen mit dem Lehrerinnen- und Lehrerkonvent das Schulprogramm und schulinterne Erlasse aus und hat dabei die Federführung;
-- g. sie führt im Auftrag des Schulrates die interne Evaluation der Schule durch;
-- h. sie setzt im Auftrag des Schulrates die Ergebnisse der internen und externen Evaluation um;
-- i. sie zieht bei Bedarf Fachpersonen und ausgebildete Mentorinnen und Mentoren bei;
-- j. sie bewilligt Reisen, Lager, Schulverlegungen und weiteren Spezialunterricht nach Rücksprache mit dem Lehrbetrieb;
-- k. sie berät die Lernenden, die Erziehungsberechtigten und die Lehrbetriebe in Schulfragen;
-- l. sie sorgt zusammen mit den zuständigen Fachstellen für die Integration von Lernenden mit Beeinträchtigungen und Behinderungen;
-- m. sie sorgt in Absprache mit dem Lehrerinnen- und Lehrerkonvent für eine einheitliche Disziplinarpraxis gegenüber Lernenden;
-- n. sie gewährleistet in Zusammenarbeit mit den Sekundarschulen die Einhaltung der Anforderungen für den Übertritt in die Berufsmaturitätsschulen;
-- o. sie erstellt zuhanden der vorgesetzten Instanzen das Budget und die Abrechnung der Schule und führt die Budgetkontrolle;
-- p. sie leitet das Sekretariat der Schule;
-- q. sie beantragt dem Schulrat die Ermahnung oder das Aussprechen einer Busse gegenüber den Erziehungsberechtigten.
+- a. Sie teilt den Lehrerinnen und Lehrern die Klassen, Pensen und Räume zu.
+- b. Sie genehmigt die Stundenpläne.
+- c. Sie besucht die Lehrerinnen und Lehrer im Unterricht und beurteilt diesen.
+- d. Sie führt die Mitarbeiterinnen- und Mitarbeitergespräche durch und führt die Personalakten.
+- e. Sie sorgt in Konfliktfällen für einen korrekten Verfahrensablauf.
+- f. Sie arbeitet zusammen mit dem Lehrerinnen- und Lehrerkonvent das Schulprogramm und schulinterne Erlasse aus und hat dabei die Federführung.
+- g. Sie führt im Auftrag des Schulrates die interne Evaluation der Schule durch.
+- h. Sie setzt im Auftrag des Schulrates die Ergebnisse der internen und externen Evaluation um.
+- i. Sie zieht bei Bedarf Fachpersonen und ausgebildete Mentorinnen und Mentoren bei.
+- j. Sie bewilligt Reisen, Lager, Schulverlegungen und weiteren Spezialunterricht nach Rücksprache mit dem Lehrbetrieb.
+- k. Sie berät die Lernenden, die Erziehungsberechtigten und die Lehrbetriebe in Schulfragen.
+- l. Sie sorgt zusammen mit den zuständigen Fachstellen für die Integration von Lernenden mit Beeinträchtigungen und Behinderungen.
+- m. Sie sorgt in Absprache mit dem Lehrerinnen- und Lehrerkonvent für eine einheitliche Disziplinarpraxis gegenüber Lernenden.
+- n. Sie gewährleistet in Zusammenarbeit mit den Sekundarschulen die Einhaltung der Anforderungen für den Übertritt in die Berufsmaturitätsschulen.
+- o. Sie erstellt zuhanden der vorgesetzten Instanzen das Budget und die Abrechnung der Schule und führt die Budgetkontrolle.
+- p. Sie leitet das Sekretariat der Schule.
+- q. Sie beantragt dem Schulrat die Ermahnung oder das Aussprechen einer Busse gegenüber den Erziehungsberechtigten.
 
 <sup>2</sup> Der Aufgabenkatalog kann nach den Bedürfnissen der Schulen ergänzt werden.
 
@@ -711,13 +722,13 @@ beschliesst:
 
 <sup>2</sup> Die Konferenz hat insbesondere folgende Aufgaben:
 
-- a. Sie berät das Amt für Berufsbildung und Berufsberatung in allen wichtigen Fragen;
-- b. sie koordiniert alle schulübergreifenden Geschäfte;
-- c. sie dient der gegenseitigen Orientierung der Schulleitungen über geplante und laufende Aktivitäten an den einzelnen Berufsfachschulen.
+- a. Sie berät das Amt für Berufsbildung und Berufsberatung in allen wichtigen Fragen.
+- b. Sie koordiniert alle schulübergreifenden Geschäfte.
+- c. Sie dient der gegenseitigen Orientierung der Schulleitungen über geplante und laufende Aktivitäten an den einzelnen Berufsfachschulen.
 
 <sup>3</sup> Die Konferenz gibt sich eine Geschäftsordnung.
 
-<sup>4</sup> Die Konferenz untersteht der Leiterin oder dem Leiter des Amtes für Berufsbildung und Berufsberatung.
+<sup>4</sup> Die Konferenz untersteht der Leiterin oder dem Leiter des Amts für Berufsbildung und Berufsberatung.
 
 ### 4.1a Schulleitungskonferenz
 
@@ -725,7 +736,7 @@ beschliesst:
 
 **Schulleitungskonferenz der berufsbildenden Schulen des Kantons Basel-Landschaft**
 
-<sup>1</sup> Die Schulleitungen der dem Bundesgesetz vom 13. Dezember 2002[^51a-1] über die Berufsbildung unterstellten Berufsfachschulen und der Schulen des Bildungszentrums kvBL Muttenz sowie die Dienststellenleitung bilden zusammen die Schulleitungskonferenz der berufsbildenden Schulen (Schulleitungskonferenz).
+<sup>1</sup> Die Schulleitungen der dem Bundesgesetz über die Berufsbildung vom 13. Dezember 2002[^51a-1] unterstellten Berufsfachschulen und der Schulen des Bildungszentrums kvBL Muttenz sowie die Dienststellenleitung bilden zusammen die Schulleitungskonferenz der berufsbildenden Schulen (Schulleitungskonferenz).
 
 <sup>2</sup> Die Schulleitungskonferenz wird von der Hauptabteilungsleitung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen geleitet.
 
@@ -738,7 +749,7 @@ beschliesst:
 - e. die Erarbeitung von Stellungnahmen zur Berufsbildung bei Vernehmlassungen;
 - f. die Koordination und Durchführung der Berufsmaturitätsprüfungen.
 
-[^51a-1]: SR [412.10](https://db.clex.ch/link/Bund/412.10/de)
+[^51a-1]: [SR 412.10](https://db.clex.ch/link/Bund/412.10/de)
 
 ### 4.2 Schulrat
 
@@ -748,11 +759,11 @@ beschliesst:
 
 <sup>1</sup> Der Schulrat besteht aus 5–12 stimmberechtigten Mitgliedern. Vorbehalten bleiben abweichende vertragliche Regelungen mit den Trägerschaften privater Berufsfachschulen, die dem Bundesgesetz über die Berufsbildung unterstellt sind.
 
-<sup>2</sup> Der Schulrat setzt sich in der Regel aus paritätischen Vertretungen der Arbeitgeber- und Arbeitnehmerschaft, einer Vertretung des Amtes für Berufsbildung und Berufsberatung und einer Vertretung einer abnehmenden Schule zusammen.
+<sup>2</sup> Der Schulrat setzt sich in der Regel aus paritätischen Vertretungen der Arbeitgeber- und Arbeitnehmerschaft, einer Vertretung des Amts für Berufsbildung und Berufsberatung und einer Vertretung einer abnehmenden Schule zusammen.
 
 <sup>3</sup> Die Berufsorganisationen der Arbeitgeber- und Arbeitnehmerschaft können dem Regierungsrat Vorschläge für ihre Vertretung unterbreiten.
 
-<sup>4</sup> Je eine Vertretung der Schulleitung, der Lehrerinnen und Lehrer sowie der Lernenden gehören dem Schulrat mit beratender Stimme an.
+<sup>4</sup> Je 1 Vertretung der Schulleitung, der Lehrerinnen und Lehrer sowie der Lernenden gehören dem Schulrat mit beratender Stimme an.
 
 <sup>5</sup> Der Schulrat gibt sich ein Organisationsreglement, überprüft dieses periodisch und passt es gegebenenfalls an.
 
@@ -762,9 +773,9 @@ beschliesst:
 
 <sup>1</sup> Der Schulrat hat insbesondere folgende Aufgaben:
 
-- a. Er verabschiedet das Budget und die Abrechnung der Schule zuhanden des Amtes für Berufsbildung und Berufsberatung;
-- b. er legt auf Antrag der Schulleitung deren Organisation fest;
-- c. er unterstützt die Lehrkräfte in ihrem Auftrag.
+- a. Er verabschiedet das Budget und die Abrechnung der Schule zuhanden des Amtes für Berufsbildung und Berufsberatung.
+- b. Er legt auf Antrag der Schulleitung deren Organisation fest.
+- c. Er unterstützt die Lehrkräfte in ihrem Auftrag.
 
 <sup>2</sup> Vorbehalten bleiben abweichende vertragliche Regelungen mit den Trägerschaften privater Berufsfachschulen, die dem Bundesgesetz über die Berufsbildung unterstellt sind.
 
@@ -772,25 +783,25 @@ beschliesst:
 
 **Lehrerinnen- und Lehrervertretung**
 
-<sup>1</sup> Die Vertretung der Lehrerinnen und Lehrer im Schulrat besteht aus 1 bis 2 Personen, welche für eine Amtszeit von 2 Jahren gewählt wird. Eine Wiederwahl ist möglich.
+<sup>1</sup> Die Vertretung der Lehrerinnen und Lehrer im Schulrat besteht aus 1–2 Personen, welche für eine Amtszeit von 2 Jahren gewählt wird. Eine Wiederwahl ist möglich.
 
 #### § 55
 
 **Vertretung der Lernenden**
 
-<sup>1</sup> Die Vertretung der Lernenden im Schulrat besteht aus 1 bis 2 Personen, welche für eine Amtszeit von 2 Jahren gewählt wird. Eine Wiederwahl ist möglich.
+<sup>1</sup> Die Vertretung der Lernenden im Schulrat besteht aus 1–2 Personen, welche für eine Amtszeit von 2 Jahren gewählt wird. Eine Wiederwahl ist möglich.
 
 #### § 56
 
 **Unterrichtsbesuche**
 
-<sup>1</sup> Die Mitglieder des Schulrates können an ihrer Schule - in der Regel nach vorheriger Absprache - Unterrichtsbesuche durchführen.
+<sup>1</sup> Die Mitglieder des Schulrats können an ihrer Schule – in der Regel nach vorheriger Absprache -–Unterrichtsbesuche durchführen.
 
 #### § 57
 
 **Jährliche Finanzkompetenz**
 
-<sup>1</sup> Der Schulrat hat eine jährliche Finanzkompetenz von höchstens CHF 1'000 zulasten des Kantons.
+<sup>1</sup> Der Schulrat hat eine jährliche Finanzkompetenz von höchstens CHF 1'000.– zulasten des Kantons.
 
 ### 4.3 Amt für Berufsbildung und Berufsberatung
 
@@ -806,43 +817,24 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Berufsbildung und Berufsberatung hat in der Berufsbildung insbesondere folgende Aufgaben:
 
-- a. Es entwickelt Strategien und Konzepte zur nachhaltigen Sicherung des Lehrstellenangebots in Zusammenarbeit mit Organisationen der Wirtschaft;
-- b. es unterstützt und beaufsichtigt die Berufsfachschulen und Lehrwerkstätten;
-- c. es berät und beaufsichtigt die Lehrbetriebe und zieht dafür bei Bedarf Fachexpertinnen und Fachexperten bei;
-- d. es ist verantwortlich für die Koordination zwischen den an der beruflichen Grundbildung Beteiligten und für die lernortübergreifende Qualitätssicherung und entwicklung;
-- e. es sorgt für die Ausbildung der Berufsbildnerinnen und Berufsbildner und kann Weiterbildungskurse für sie anbieten;
-- f. es arbeitet mit den Arbeitgeber- und Arbeitnehmerorganisationen zusammen;
-- g. es organisiert und führt die Standortbestimmungen und Qualifikationsverfahren der beruflichen Grundbildung durch, soweit diese nicht kantonalen Berufsfachschulen oder privatrechtlichen Organisationen übertragen sind;
-- h. es ist zuständig für die berufsvorbereitenden Angebote für Jugendliche;
-- i. es ist zuständig für die Realisierung der fachkundigen individuellen Begleitung im Rahmen der Attestausbildung;
-- j. es unterstützt alle Bestrebungen zur Gleichstellung der Geschlechter.
+- a. Es entwickelt Strategien und Konzepte zur nachhaltigen Sicherung des Lehrstellenangebots in Zusammenarbeit mit Organisationen der Wirtschaft.
+- b. Es unterstützt und beaufsichtigt die Berufsfachschulen und Lehrwerkstätten.
+- c. Es berät und beaufsichtigt die Lehrbetriebe und zieht dafür bei Bedarf Fachexpertinnen und Fachexperten bei.
+- d. Es ist verantwortlich für die Koordination zwischen den an der beruflichen Grundbildung Beteiligten und für die lernortübergreifende Qualitätssicherung und entwicklung.
+- e. Es sorgt für die Ausbildung der Berufsbildnerinnen und Berufsbildner und kann Weiterbildungskurse für sie anbieten.
+- f. Es arbeitet mit den Arbeitgeber- und Arbeitnehmerorganisationen zusammen.
+- g. Es organisiert und führt die Standortbestimmungen und Qualifikationsverfahren der beruflichen Grundbildung durch, soweit diese nicht kantonalen Berufsfachschulen oder privatrechtlichen Organisationen übertragen sind.
+- h. Es ist zuständig für die berufsvorbereitenden Angebote für Jugendliche.
+- i. Es ist zuständig für die Realisierung der fachkundigen individuellen Begleitung im Rahmen der Attestausbildung.
+- j. Es unterstützt alle Bestrebungen zur Gleichstellung der Geschlechter.
 
 #### § 60
 
-**Aufgaben in der Berufs- und Studienberatung**
-
-<sup>1</sup> Das Amt für Berufsbildung und Berufsberatung hat in der Berufs- und Studienberatung insbesondere folgende Aufgaben:
-
-- a. Es ist für die Berufs-, Studien- und Laufbahnberatung von Schülerinnen und Schülern sowie von Erwachsenen zuständig, wobei die persönlichen Beratungen vertraulich sind;
-- b. es führt öffentliche Beratungs- und Informationszentren über Ausbildungen und Angebote der beruflichen und persönlichen Fort- und Weiterbildung, der Nachholbildung und - in Zusammenarbeit mit den jeweils zuständigen Organisationen der Arbeitswelt - zum Thema Anrechenbarkeit bereits erbrachter Bildungsleistungen;
-- c. es hilft bei der Suche nach einer Ausbildungsstelle;
-- d. es unterstützt, berät und informiert die Schulen in Bildungs- und Berufswahlfragen;
-- e. es informiert Erziehungsberechtigte, Behörden, Lehrerinnen und Lehrer, Berufsbildnerinnen und Berufsbildner sowie andere Interessierte in Fragen der Berufs- und Studienwahl;
-- f. es berät Erwerbslose in Zusammenarbeit mit dem Kantonalen Amt für Industrie, Gewerbe und Arbeit (KIGA);
-- g. es führt nach Bedarf zielgruppenspezifische Beratungsstellen und erweiterte Angebote;
-- h. es unterstützt alle Bestrebungen zur Gleichstellung der Geschlechter.
+**…**
 
 #### § 61
 
-**Aufgaben in der Ausrichtung von Ausbildungsbeiträgen**
-
-<sup>1</sup> Das Amt für Berufsbildung und Berufsberatung hat in der Ausrichtung von Ausbildungsbeiträgen insbesondere folgende Aufgaben:
-
-- a. Es informiert Interessierte über Möglichkeiten der Ausbildungsfinanzierung;
-- b. es klärt die Anspruchsberechtigung von Antragstellenden ab;
-- c. es richtet an Anspruchsberechtigte Ausbildungsbeiträge aus;
-- d. es sorgt für Anpassungen der staatlichen Ausbildungsförderung durch Ausbildungsbeiträge an sich ändernde Bedingungen;
-- e. es unterstützt alle Bestrebungen zur Gleichstellung der Geschlechter.
+**…**
 
 ## 5 Disziplinarwesen
 
@@ -897,7 +889,7 @@ beschliesst:
 
 **Rechtliches Gehör**
 
-<sup>1</sup> Jede und jeder Lernende, gegen die oder den eine Massnahme gemäss § 61 Absatz 1 Buchstaben d-h, § 62 und § 63 vorgesehen ist, hat Anspruch darauf, vorher angehört zu werden. Die Anhörung erfolgt in der Regel mündlich.
+<sup>1</sup> Jede und jeder Lernende, gegen die oder den eine Massnahme gemäss § 61 Abs. 1 Bst. d–h, § 62 und § 63 vorgesehen ist, hat Anspruch darauf, vorher angehört zu werden. Die Anhörung erfolgt in der Regel mündlich.
 
 <sup>2</sup> Vor der Verfügung von Disziplinarmassnahmen durch die Schulleitung und den Schulrat gemäss §§ 62 und 63 sind auch die Erziehungsberechtigten und der Lehrbetrieb anzuhören.
 
@@ -958,9 +950,9 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Verordnung vom 13. Mai 2003[^74-1] für die Berufsbildung wird aufgehoben.
+<sup>1</sup> Die Verordnung für die Berufsbildung vom 13. Mai 2003[^74-1] wird aufgehoben.
 
-[^74-1]: GS 34.999, SGS 681.11
+[^74-1]: GS 34.999
 
 #### § 75
 
