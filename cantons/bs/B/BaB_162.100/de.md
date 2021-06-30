@@ -2,15 +2,15 @@
 canton: BS
 number: BaB 162.100
 title: Ordnung betreffend die Anstellungsverhältnisse bei der Bürgergemeinde der Stadt Basel
-short: Anstellungsordnung
+short: "Anstellungsordnung, AO"
 language: de
-version: 2017-09-01
-valid_until: 2021-06-30
-version_adopted: 2017-03-28
+version: 2021-07-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-22
 adopted: 1998-04-28
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20162.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4212/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5310/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +19,17 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4212/pdf_file"
 
 Gemeindepersonal: Anstellungsordnung | Basel: Bürgergemeinde
 
-(Anstellungsordnung)
+(Anstellungsordnung, AO[^ingress-1])
 
-Vom 28. April 1998 (Stand 1. September 2017)
+Vom 28. April 1998 (Stand 1. Juli 2021)
 
 Der Bürgergemeinderat der Stadt Basel erlässt,
 
-gestützt auf § 9 Abs. 1 Ziff. 6 des Gemeindegesetzes vom 17. Oktober 1984[^ingress-1] und § 11 Ziff. 7 der Gemeindeordnung der Bürgergemeinde der Stadt Basel vom 22. Oktober 1985[^ingress-2], die folgende Ordnung:
+gestützt auf § 9 Abs. 1 Ziff. 6 des Gemeindegesetzes vom 17. Oktober 1984[^ingress-2] und § 11 Ziff. 7 der Gemeindeordnung der Bürgergemeinde der Stadt Basel vom 22. Oktober 1985[^ingress-3], die folgende Ordnung:
 
-[^ingress-1]: SG [170.100](https://www.gesetzessammlung.bs.ch/data/170.100/de).
-[^ingress-2]: [BaB 111.100](https://www.gesetzessammlung.bs.ch/data/BaB%20111.100/de).
+[^ingress-1]: Fassung vom 22. Juni 2021, in Kraft seit 1. Juli 2021 (KB 31.07.2021)
+[^ingress-2]: SG [170.100](https://www.gesetzessammlung.bs.ch/data/170.100/de).
+[^ingress-3]: [BaB 111.100](https://www.gesetzessammlung.bs.ch/data/BaB%20111.100/de).
 
 #### § 1
 
@@ -188,6 +189,14 @@ gestützt auf § 9 Abs. 1 Ziff. 6 des Gemeindegesetzes vom 17. Oktober 1984[^ing
 <sup>1</sup> Bei Mutterschaft besteht Anspruch auf einen bezahlten Schwangerschafts- und Mutterschaftsurlaub, dessen Dauer sechzehn Wochen beträgt.
 
 <sup>2</sup> Es besteht Anspruch auf einen bezahlten Vaterschaftsurlaub innerhalb des ersten Lebensjahres des Kindes oder innerhalb des ersten Jahres der Adoption. Im gleichen Rahmen gewährt die Bürgergemeinde einen bezahlten Adoptionsurlaub. Der Bürgerrat legt die Anzahl Tage und die Dauer fest.
+
+#### § 17a
+
+**Betreuungsurlaub**
+
+<sup>1</sup> Der Mitarbeiterin oder dem Mitarbeiter wird ein bezahlter Betreuungsurlaub von maximal 14 Wochen gewährt, wenn ihr oder sein minderjähriges Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist.
+
+<sup>2</sup> Die Anspruchsvoraussetzungen bestimmen sich nach den massgebenden Bestimmungen des Bundesgesetzes über den Erwerbsersatz für Dienstleistende, bei Mutterschaft und bei Vaterschaft (Erwerbsersatzgesetz, EOG) vom 25. September 1952.
 
 #### § 18
 
