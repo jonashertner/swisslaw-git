@@ -4,11 +4,11 @@ title: "Legge federale del 13 giugno 2008 sui sistemi d'informazione di polizia 
 short: LSIP
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/698"
 language: it
-version: 2019-03-01
+version: 2021-07-01
 adopted: 2008-06-13
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20190301/it/xml/fedlex-data-admin-ch-eli-cc-2008-698-20190301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20190301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2008-698-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -109,13 +109,13 @@ La cancellazione dei dati allo scadere della durata di conservazione è effettua
 - [tab] <sup>4</sup> Il Ministero pubblico della Confederazione fornisce le informazioni concernenti i dati trattati nel sistema d’informazione di cui all’articolo 10. Le restrizioni sono rette dall’articolo 108 del Codice di procedura penale del 5 ottobre 2007[^7-7] (CPP).[^7-8]
 
 [^7-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^7-2]: Nuovo testo dal n. II 8 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^7-2]: Nuovo testo giusta il n. II 8 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^7-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. è tenuto conto in tutto il presente testo.
 [^7-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^7-5]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
-[^7-6]: Nuovo testo giusta il n. 3 dell’all. alla LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^7-6]: Nuovo testo giusta l’all. n. 3 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^7-7]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^7-8]: Vedi il n. I 2 dell’all. 2, qui appresso.
+[^7-8]: Vedi l’all. 2 n. I 2, qui appresso.
 
 #### Art. 8
 
@@ -200,7 +200,7 @@ Hanno accesso a questi dati mediante procedura di richiamo (accesso online):
 <sup>5</sup> L’accesso ai dati concernenti un determinato procedimento penale può essere limitato per decisione del Ministero pubblico della Confederazione.
 
 [^10-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^10-2]: Vedi il n. I 2 dell’all. 2, qui appresso.
+[^10-2]: Vedi l’all. 2 n. I 2, qui appresso.
 [^10-3]: Nuovo testo giusta il n. I 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^10-4]: Nuovo testo giusta il n. I 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^10-5]: Nuova espr. giusta il n. I 5 dell’O del 4 dic. 2009 sull’adeguamento di disposizioni legali in seguito all’istituzione del Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)). Di detta mod. é tenuto conto in tutto il presente testo.
@@ -387,23 +387,23 @@ Nell’adempimento dei loro compiti, le autorità seguenti possono consultare i 
 
 <sup>5</sup> Il sistema di ricerca informatizzato di persone e oggetti può essere collegato con altri sistemi d’informazione per consentire agli utenti menzionati al capoverso 4 di consultare gli altri sistemi d’informazione con un’unica interrogazione, sempre che essi dispongano dei necessari diritti d’accesso.
 
-[^15-1]: Nuovo testo giusta il n. 16*a* dell’all. alla LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114), [2012 7501](https://fedlex.data.admin.ch/eli/oc/2012/901); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^15-2]: Nuovo testo giusta il n. 16*a* dell’all. alla LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114), [2012 7501](https://fedlex.data.admin.ch/eli/oc/2012/901); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^15-3]: Nuovo testo giusta il n. 8 dell’all. alla LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^15-1]: Nuovo testo giusta l’all. n. 16*a* della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114), [2012 7501](https://fedlex.data.admin.ch/eli/oc/2012/901); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^15-2]: Nuovo testo giusta l’all. n. 16*a* della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114), [2012 7501](https://fedlex.data.admin.ch/eli/oc/2012/901); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^15-3]: Nuovo testo giusta l’all. n. 8 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^15-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^15-5]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^15-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^15-7]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^15-8]: Introdotta dal n. 3 dell’all. alla LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^15-8]: Introdotta dall’all. n. 3 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^15-9]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^15-10]: Nuovo testo giusta il n. 16*a* dell’all. alla LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114), [2012 7501](https://fedlex.data.admin.ch/eli/oc/2012/901); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^15-10]: Nuovo testo giusta l’all. n. 16*a* della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114), [2012 7501](https://fedlex.data.admin.ch/eli/oc/2012/901); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^15-11]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^15-12]: [RS 0.211.230.02](https://fedlex.data.admin.ch/eli/cc/1983/1694_1694_1694)
 [^15-13]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^15-14]: Nuovo testo giusta il n. 3 dell’all. alla LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^15-15]: Introdotta dal n. II 7 dell’all. alla LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^15-14]: Nuovo testo giusta l’all. n. 3 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^15-15]: Introdotta dall’all. n. II 7 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^15-16]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
-[^15-17]: Nuovo testo giusta il n. II 7 dell’all. alla LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^15-17]: Nuovo testo giusta l’all. n. II 7 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^15-18]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 
 #### Art. 16
@@ -452,42 +452,49 @@ I seguenti uffici possono accedere, per mezzo di una procedura di richiamo, ai d
 - b<sup>bis</sup>.[^16-8] la SEM, in relazione all’adempimento dei compiti di cui al capoverso 2 lettera i;
 - c. gli uffici cantonali della circolazione stradale.
 
-<sup>6</sup> I dati del N-SIS possono essere richiamati tramite un’interfaccia in comune utilizzando altri sistemi d’informazione di polizia, nella misura in cui gli utenti dispongano delle autorizzazioni del caso.
+<sup>6</sup> Nella misura in cui il SIC tratti dati del N-SIS, si applica la legge del 28 settembre 2018[^16-9] sulla protezione dei dati in ambito Schengen.[^16-10]
 
-<sup>7</sup> Per quanto necessario, i dati contenuti nel sistema di ricerca informatizzato di polizia e nel sistema d’informazione centrale sulla migrazione di cui all’articolo 1 della legge federale del 20 giugno 2003[^16-9] sul sistema d’informazione per il settore degli stranieri e dell’asilo possono essere trasferiti nel N-SIS per via informatizzata.
+<sup>7</sup> I dati del N-SIS possono essere richiamati tramite un’interfaccia in comune utilizzando altri sistemi d’informazione, nella misura in cui gli utenti dispongano delle pertinenti autorizzazioni.[^16-11]
 
-<sup>8</sup>
+<sup>8</sup> Per quanto necessario, i dati contenuti nel sistema di ricerca informatizzato di polizia, nel sistema automatizzato d’identificazione delle impronte digitali di cui all’articolo 354 CP e nel sistema d’informazione centrale sulla migrazione di cui all’articolo 1 della legge federale del 20 giugno 2003[^16-12] sul sistema d’informazione per il settore degli stranieri e dell’asilo possono essere trasferiti nel N-SIS per via informatizzata.[^16-13]
 
-Basandosi sugli accordi di associazione alla normativa di Schengen, il Consiglio federale disciplina:
+<sup>9</sup>
+
+Basandosi sugli Accordi di associazione alla normativa di Schengen, il Consiglio federale disciplina:
 
 - a. il diritto d’accesso per il trattamento delle varie categorie di dati;
 - b. la durata di conservazione dei dati, la sicurezza dei dati e la collaborazione con altre autorità federali e i Cantoni;
 - c. le autorità di cui al capoverso 4 autorizzate a inserire direttamente nel N-SIS determinate categorie di dati;
 - d. le autorità e i terzi cui possono, in casi specifici, essere comunicati dati;
 - e. i diritti degli interessati, in particolare quello di ottenere informazioni nonché di poter consultare, far rettificare o distruggere i dati che li riguardano;
-- f.
+- f. l’obbligo di comunicare a posteriori agli interessati che le segnalazioni nel
 
-  l’obbligo di comunicare a posteriori agli interessati che le segnalazioni nel N-SIS giusta il capoverso 4 sono state distrutte, se:
+  N-SIS secondo il capoverso 4 sono state distrutte, se:
 
   - 1\. tali persone non hanno potuto rendersi conto dell’inserimento delle segnalazioni nel N-SIS,
   - 2\. non vi si oppongono interessi preponderanti inerenti al procedimento penale o di terzi, e
   - 3\. la comunicazione a posteriori non richiede mezzi sproporzionati;
 
-- g. la responsabilità degli organi federali e cantonali in materia di protezione dei dati.
+- g. la responsabilità degli organi federali e cantonali in materia di protezione dei dati.[^16-14]
 
-<sup>9</sup> Per quanto attiene ai diritti di cui al capoverso 8 lettere e ed f, sono fatti salvi l’articolo 8 della presente legge e gli articoli 63–66 LAIn[^16-10].[^16-11]
+<sup>10</sup> Per quanto attiene ai diritti di cui al capoverso 9 lettere e ed f, sono fatti salvi l’articolo 8 della presente legge e gli articoli 63–66 LAIn[^16-15].[^16-16]
 
-[^16-1]: Nuovo testo giusta il n. 3 dell’all. alla LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^16-1]: Nuovo testo giusta l’all. n. 3 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^16-2]: Acc. del 26 ott. 2004 tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen ([RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)); Acc. del 28 apr. 2005 tra la Confederazione Svizzera e il Regno di Danimarca sull’attuazione, l’applicazione e lo sviluppo delle parti dell’acquis di Schengen basate sulle disposizioni del titolo IV del Trattato che istituisce la Comunità europea ([RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)); Acc. del 17 dic. 2004 tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia ([RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)); Prot. del 28 feb. 2008 tra la Confederazione Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen ([RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)).
-[^16-3]: Nuovo testo giusta il n. 16*a* dell’all. alla LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114), [2012 7501](https://fedlex.data.admin.ch/eli/oc/2012/901); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^16-4]: Introdotta dal n. 3 dell’all. alla LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^16-3]: Nuovo testo giusta l’all. n. 16*a* della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114), [2012 7501](https://fedlex.data.admin.ch/eli/oc/2012/901); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^16-4]: Introdotta dall’all. n. 3 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^16-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^16-6]: Nuovo testo giusta il n. I 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^16-7]: Nuovo testo giusta il n. I 4 dell’O del 12 dic. 2008 sull’adeguamento delle disposizioni legali in seguito al trasferimento delle unità di informazioni del Servizio di analisi e prevenzione nel DDPS, in vigore dal 1° gen. 2009 ([RU 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
-[^16-8]: Introdotta dal n. 3 dell’all. alla LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^16-9]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^16-10]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^16-11]: Nuovo testo giusta il n. II 7 dell’all. alla LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^16-8]: Introdotta dall’all. n. 3 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^16-9]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^16-10]: Nuovo testo giusta l’all. 1 5 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 1° lug. 2021 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^16-11]: Nuovo testo giusta l’all. 1 5 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 1° lug. 2021 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^16-12]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^16-13]: Nuovo testo giusta l’all. 1 5 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 1° lug. 2021 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^16-14]: Introdotto dall’all. 1 5 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 1° lug. 2021 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^16-15]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^16-16]: Nuovo testo giusta l’all. 1 5 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 1° lug. 2021 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 17
 

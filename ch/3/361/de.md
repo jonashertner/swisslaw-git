@@ -4,11 +4,11 @@ title: Bundesgesetz vom 13. Juni 2008 über die polizeilichen Informationssystem
 short: BPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/698"
 language: de
-version: 2019-03-01
+version: 2021-07-01
 adopted: 2008-06-13
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20190301/de/xml/fedlex-data-admin-ch-eli-cc-2008-698-20190301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20190301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2008-698-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20190301/de"
 
 (BPI)
 
-vom 13. Juni 2008 (Stand am 1. März 2019)
+vom 13. Juni 2008 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -449,17 +449,19 @@ Die folgenden Stellen haben zur Erfüllung der Aufgaben nach Absatz 2 mittels Ab
 - b<sup>bis</sup>.[^16-8] das SEM zur Erfüllung der Aufgaben nach Absatz 2 Buchstabe i;
 - c. die Strassenverkehrsämter der Kantone.
 
-<sup>6</sup> Der Zugriff auf Daten des N-SIS kann über eine gemeinsame Schnittstelle von anderen polizeilichen Informationssystemen aus erfolgen, soweit die Benutzenden die entsprechenden Berechtigungen haben.
+<sup>6</sup> Soweit der NDB N-SIS-Daten bearbeitet, findet das Schengen-Datenschutzgesetz vom 28. September 2018[^16-9] Anwendung.[^16-10]
 
-<sup>7</sup> Daten aus dem automatisierten Polizeifahndungssystem und aus dem zentralen Migrationsinformationssystem nach Artikel 1 des Bundesgesetzes vom 20. Juni 2003[^16-9] über das Informationssystem für den Ausländer- und den Asylbereich dürfen, soweit erforderlich, in einem automatisierten Verfahren in das N-SIS überführt werden.
+<sup>7</sup> Der Zugriff auf Daten des N-SIS kann über eine gemeinsame Schnittstelle von anderen Informationssystemen aus erfolgen, soweit die Benutzenden die entsprechenden Berechtigungen haben.[^16-11]
 
-<sup>8</sup>
+<sup>8</sup> Daten aus dem automatisierten Polizeifahndungssystem, aus dem automatisierten Fingerabdruck-Identifikationssystem nach Artikel 354 StGB und aus dem zentralen Migrationsinformationssystem nach Artikel 1 des Bundesgesetzes vom 20. Juni 2003[^16-12] über das Informationssystem für den Ausländer- und den Asylbereich dürfen, soweit erforderlich, in einem automatisierten Verfahren in das N-SIS überführt werden.[^16-13]
+
+<sup>9</sup>
 
 Der Bundesrat regelt, gestützt auf die Schengen-Assoziierungsabkommen:
 
 - a. die Zugriffsberechtigung für die Bearbeitung der verschiedenen Datenkategorien;
 - b. die Aufbewahrungsdauer der Daten, die Datensicherheit und die Zusammenarbeit mit anderen Bundesbehörden und den Kantonen;
-- c. die Behörden nach Absatz 4, die Datenkategorien direkt in den N-SIS eingeben dürfen;
+- c. die Behörden nach Absatz 4, die Datenkategorien direkt in das N-SIS eingeben dürfen;
 - d. die Behörden und die Dritten, denen Daten im Einzelfall bekannt gegeben werden können;
 - e. die Rechte der betroffenen Personen, insbesondere das Recht auf Auskunftserteilung, Einsichtnahme, Berichtigung und Vernichtung der sie betreffenden Daten;
 - f.
@@ -467,12 +469,12 @@ Der Bundesrat regelt, gestützt auf die Schengen-Assoziierungsabkommen:
   die Pflicht, betroffene Personen über die Vernichtung von Ausschreibungen im N-SIS nach Absatz 4 nachträglich zu informieren, wenn:
 
   - 1\. die Aufnahme der Ausschreibung in das N-SIS für diese Personen nicht erkennbar war,
-  - 2\. nicht überwiegende Interessen der Strafverfolgung oder Dritter entstehen, und
+  - 2\. nicht überwiegende Interessen der Strafverfolgung oder Dritter entgegenstehen, und
   - 3\. die nachträgliche Mitteilung nicht mit einem unverhältnismässigen Aufwand verbunden ist;
 
-- g. die Verantwortung der Organe des Bundes und der Kantone für den Datenschutz.
+- g. die Verantwortung der Organe des Bundes und der Kantone für den Datenschutz.[^16-14]
 
-<sup>9</sup> Hinsichtlich der Rechte nach Absatz 8 Buchstaben e und f bleiben Artikel 8 dieses Gesetzes und die Artikel 63–66 NDG[^16-10] vorbehalten.[^16-11]
+<sup>10</sup> Hinsichtlich der Rechte nach Absatz 9 Buchstaben e und f bleiben Artikel 8 dieses Gesetzes und die Artikel 63–66 NDG[^16-15] vorbehalten.[^16-16]
 
 [^16-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^16-2]: Abk. vom 26. Okt. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands ([SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)); Abk. vom 28. April 2005 zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren ([SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)); Abk. vom 17. Dez. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstandes und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags ([SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)); Prot. vom 28. Febr. 2008 zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands ([SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)).
@@ -482,9 +484,14 @@ Der Bundesrat regelt, gestützt auf die Schengen-Assoziierungsabkommen:
 [^16-6]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008 über die Anpassung gesetzlicher Bestimmungen infolge Überführung der nachrichtendienstlichen Teile des Dienstes für Analyse und Prävention zum VBS, in Kraft seit 1. Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^16-7]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008 über die Anpassung gesetzlicher Bestimmungen infolge Überführung der nachrichtendienstlichen Teile des Dienstes für Analyse und Prävention zum VBS, in Kraft seit 1. Jan. 2009 ([AS 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^16-8]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^16-9]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^16-10]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^16-11]: Fassung gemäss Anhang Ziff. II 7 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^16-9]: [SR 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^16-10]: Fassung gemäss Anhang 1 Ziff. 5 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^16-11]: Fassung gemäss Anhang 1 Ziff. 5 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^16-12]: [SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^16-13]: Fassung gemäss Anhang 1 Ziff. 5 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^16-14]: Fassung gemäss Anhang 1 Ziff. 5 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^16-15]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^16-16]: Eingefügt durch Anhang 1 Ziff. 5 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 17
 
@@ -608,7 +615,7 @@ Anhang 1
 
 ## Änderung bisherigen Rechts
 
-…[^annex1-lvlu1-1]
+...[^annex1-lvlu1-1]
 
 [^annex1-lvlu1-1]: Die Änderungen können unter [AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698)konsultiert werden.
 
@@ -616,6 +623,6 @@ Anhang 2
 
 (Art. 21)
 
-…[^t-1]
+...[^t-1]
 
 [^t-1]: Die Koordinationsbestimmungen können unter [AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698)konsultiert werden.

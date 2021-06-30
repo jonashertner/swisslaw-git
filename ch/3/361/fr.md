@@ -4,11 +4,11 @@ title: "Loi fédérale du 13 juin 2008 sur les systèmes d'information de police
 short: LSIP
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/698"
 language: fr
-version: 2019-03-01
+version: 2021-07-01
 adopted: 2008-06-13
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20190301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-698-20190301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20190301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/698/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-698-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/698/20190301/fr"
 
 (LSIP)
 
-du 13 juin 2008 (Etat le 1<sup>er</sup> mars 2019)
+du 13 juin 2008 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -453,18 +453,20 @@ Les services suivants ont accès en ligne aux données figurant dans le N-SIS po
 - b<sup>bis</sup>.[^16-8] SEM, dans l’accomplissement des tâches visées à l’al. 2, let. i;
 - c. offices cantonaux de circulation routière.
 
-<sup>6</sup> Pour autant qu’ils y soient dûment habilités, les utilisateurs peuvent consulter les données du N-SIS par le biais d’une interface commune à d’autres systèmes d’information de police.
+<sup>6</sup> Dès lors que le SRC traite des données du N-SIS, la loi du 28 septembre 2018 sur la protection des données Schengen[^16-9] est applicable.[^16-10]
 
-<sup>7</sup> Les données contenues dans le système de recherches informatisées de police et le système d’information central sur la migration prévu à l’art. 1 de la loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines de l’étranger et de l’asile[^16-9] peuvent, si nécessaire, être transférées dans le N-SIS par une procédure informatisée.
+<sup>7</sup> Pour autant qu’ils y soient dûment habilités, les utilisateurs peuvent consulter les données du N-SIS par le biais d’une interface commune à d’autres systèmes d’information.[^16-11]
 
-<sup>8</sup>
+<sup>8</sup> Les données contenues dans le système de recherches informatisées de police, dans le système d’identification informatisé des empreintes digitale prévu à l’art. 354 CP et dans le système d’information central sur la migration prévu à l’art. 1 de la loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile[^16-12] peuvent, si nécessaire, être transférées dans le N-SIS par une procédure informatisée.[^16-13]
+
+<sup>9</sup>
 
 Le Conseil fédéral se fonde sur les accords d’association à Schengen pour régler les points suivants:
 
 - a. l’autorisation d’accès permettant le traitement des différentes catégories de données;
-- b. la durée de conservation et la sécurité des données ainsi que la collaboration avec d’autres autorités fédérales et cantonales;
+- b. la durée de conservation et la sécurité des données ainsi que la collaboration avec d’autres autorités fédérales et les cantons;
 - c. les autorités énumérées à l’al. 4 qui sont autorisées à saisir des catégories de données directement dans le N-SIS;
-- d. les autorités et les catégories de tiers auxquelles des données peuvent être communiquées dans des cas d’espèce;
+- d. les autorités et les tiers auxquelles des données peuvent être communiquées dans des cas d’espèce;
 - e. les droits des personnes concernées, notamment en matière de demandes de renseignements et de consultation, de rectification et de destruction de leurs données;
 - f.
 
@@ -474,9 +476,9 @@ Le Conseil fédéral se fonde sur les accords d’association à Schengen pour r
   - 2\. aucun intérêt prépondérant de la poursuite pénale ou de tiers ne s’y oppose,
   - 3\. il n’en résulte pas un surcroît de travail disproportionné;
 
-- g. la responsabilité des organes fédéraux et cantonaux chargés de la protection des données.
+- g. la responsabilité des organes fédéraux et cantonaux chargés de la protection des données.[^16-14]
 
-<sup>9</sup> S’agissant des droits visés à l’al. 8, let. e et f, l’art. 8 de la présente loi et les art. 63 à 66 LRens[^16-10] sont réservés.[^16-11]
+<sup>10</sup> S’agissant des droits visés à l’al. 9, let. e et f, l’art. 8 de la présente loi et les art. 63 à 66 LRens[^16-15] sont réservés.[^16-16]
 
 [^16-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
 [^16-2]: Ac. du 26 oct. 2004 entre la Suisse, l’UE et la CE sur l’association de la Suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen ([RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)); Ac. du 28 avril 2005 entre la Suisse et le Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les disp. du Titre IV du Traité instituant la CE ([RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)); Ac. du 17 déc. 2004 entre la Suisse, l’Islande et la Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’Etat responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège ([RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)); Prot. du 28 fév. 2008 entre la Suisse, l’UE, la CE, et le Liechtenstein sur l’adhésion du Liechtenstein à l’Ac. entre la Suisse, l’UE et la CE sur l’association de la Suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen ([RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)).
@@ -486,9 +488,14 @@ Le Conseil fédéral se fonde sur les accords d’association à Schengen pour r
 [^16-6]: Nouvelle teneur selon le ch. I 4 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^16-7]: Nouvelle teneur selon le ch. I 4 de l’O du 12 déc. 2008 sur l’adaptation des disp. légales suite au transfert des unités de renseignements du Service d’analyse et de prévention au DDPS, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6261](https://fedlex.data.admin.ch/eli/oc/2008/853)).
 [^16-8]: Introduite par le ch. 3 de l’annexe à la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^16-9]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
-[^16-10]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^16-11]: Nouvelle teneur selon le ch. II 7 de l’annexe à la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^16-9]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
+[^16-10]: Nouvelle teneur selon l’annexe 1 ch. 5 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^16-11]: Nouvelle teneur selon l’annexe 1 ch. 5 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^16-12]: [RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)
+[^16-13]: Nouvelle teneur selon l’annexe 1 ch. 5 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^16-14]: Nouvelle teneur selon l’annexe 1 ch. 5 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^16-15]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^16-16]: Introduit par l’annexe 1 ch. 5 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 17
 
