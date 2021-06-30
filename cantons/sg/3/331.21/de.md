@@ -3,20 +3,20 @@ canton: SG
 number: "331.21"
 title: Verordnung über die Pflegefinanzierung
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2021-02-09
+version: 2021-07-01
+valid_until: 2021-09-30
+version_adopted: 2021-05-25
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.21"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3109/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3197/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Pflegefinanzierung
 
-vom 14.12.2010 (Stand 01.01.2021)
+vom 14.12.2010 (Stand 01.07.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -35,9 +35,13 @@ als Verordnung:[^ingress-2]
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Bestimmungen des Gesetzes über die Pflegefinanzierung vom 13. Februar 2011[^1-1] und dieses Erlasses über die Finanzierung der stationären Pflege gelten für Pflegeheime sowie für zugelassene Tages- und Nachtstrukturen.
+<sup>1</sup> Die Bestimmungen des Gesetzes über die Pflegefinanzierung vom 13. Februar 2011[^1-1] und dieses Erlasses über die Finanzierung der stationären Pflege gelten für Leistungserbringer gemäss Art. 2 Abs. 1 Bst. a und b des Gesetzes über die Pflegefinanzierung vom 13. Februar 2011[^1-2].
+
+<sup>2</sup> Art. 4a bis Art. 10 sowie Art. 11 bis Art. 13 dieses Erlasses gelten nicht für Leistungserbringer, die als beitragsberechtigte Einrichtung nach Art. 14 des Gesetzes über die soziale Sicherung und Integration von Menschen mit Behinderung vom 7. August 2012[^1-3] anerkannt sind.
 
 [^1-1]: sGS [331.2](https://www.gesetzessammlung.sg.ch/data/331.2/de).
+[^1-2]: sGS [331.2](https://www.gesetzessammlung.sg.ch/data/331.2/de).
+[^1-3]: sGS [381.4](https://www.gesetzessammlung.sg.ch/data/381.4/de).
 
 #### Art. 2
 
@@ -191,10 +195,30 @@ als Verordnung:[^ingress-2]
 - b) Umlagen in Franken;
 - c) Kostenstellenrechnung;
 - d) Kostenträgerrechnung;
-- e) Taxordnung;
+- e) gültige Taxordnung des erfassten Rechnungszeitraums;
 - f) verrechnete Pflegetage je Pflegestufe;
 - g) Personalschlüssel;
-- h) Anzahl Bewohnende per Ende Jahr sowie Anzahl der Ein- und Austritte während des Jahres.
+- h) Anzahl Bewohnende per Ende Jahr sowie Anzahl der Ein- und Austritte während des Jahres;
+- i) Erfolgsrechnung;
+- j) Bilanz;
+- k) einen Bericht der zuständigen Kontrollstelle;
+- l) Anlagebuchhaltung.
+
+<sup>2</sup> Das Amt für Soziales kann weitere Unterlagen verlangen.
+
+#### Art. 10a
+
+**c) besondere Bestimmungen für Leistungserbringer nach Art. 14 des Gesetzes über die soziale Sicherung und Integration von Menschen mit Behinderung**
+
+<sup>1</sup> Leistungserbringer, die als beitragsberechtigte Einrichtungen nach Art. 14 des Gesetzes über die soziale Sicherung und Integration von Menschen mit Behinderung vom 7. August 2012[^10a-1] anerkannt sind, weisen die Pflegekosten jährlich aufgrund einer Kostenrechnung aus.
+
+<sup>2</sup> Sie wenden für die Führung und den Ausweis der Kostenrechnung die nach Art. 44 der Verordnung über die soziale Sicherung und Integration von Menschen mit Behinderung vom 11. Dezember 2012[^10a-2] durch das Departement des Innern erlassenen Richtlinien an.
+
+<sup>3</sup> Sie reichen dem Amt für Soziales bis 31. März des Folgejahres die Unterlagen gemäss Art. 27 der Verordnung über die soziale Sicherung und Integration von Menschen mit Behinderung vom 11. Dezember 2012[^10a-3] ein.
+
+[^10a-1]: sGS [381.4](https://www.gesetzessammlung.sg.ch/data/381.4/de).
+[^10a-2]: sGS [381.41](https://www.gesetzessammlung.sg.ch/data/381.41/de).
+[^10a-3]: sGS [381.41](https://www.gesetzessammlung.sg.ch/data/381.41/de).
 
 ## II. Ambulante Pflege
 
