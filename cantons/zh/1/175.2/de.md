@@ -4,11 +4,11 @@ number: "175.2"
 title: Verwaltungsrechtspflegegesetz (VRG)
 short: VRG
 language: de
-version: "2020-06-01"
-nachtrag: "109"
-valid_until: 2021-07-01
+version: "2012-09-26"
+nachtrag: "113"
+valid_until: 2022-10-01
 adopted: 1959-05-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-175_2-1959_05_24-1960_05_01-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-175_2-1959_05_24-1960_05_01-113.html"
 text: pdf
 ---
 
@@ -66,7 +66,7 @@ Besondere gesetzliche Bestimmungen, welche die Zuständigkeit anders ordnen, ble
 
 **1**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113
 
 <sup>2</sup> Eingaben an eine unzuständige Verwaltungsbehörde sind von Amtes wegen und in der Regel unter Benachrichtigung des Absenders an die zuständige Verwaltungsbehörde weiterzuleiten. Für die Einhaltung der Fristen ist der Zeitpunkt der Einreichung bei der unzuständigen Behörde massgebend.
 
@@ -137,7 +137,7 @@ Die Verwaltungsbehörde trifft die nötigen vorsorglichen Massnahmen. Bei Kolleg
 
 **3**
 
-- 1\. 7. 20 - 109 § 10.<sup>50</sup> <sup>1</sup> Schriftliche Anordnungen sind zu begründen und mit einer Rechtsmittelbelehrung zu versehen, die das zulässige ordentliche Rechtsmittel, die Rechtsmittelinstanz und die Rechtsmittelfrist bezeichnet.
+- 1\. 7. 21 - 113 § 10.<sup>50</sup> <sup>1</sup> Schriftliche Anordnungen sind zu begründen und mit einer Rechtsmittelbelehrung zu versehen, die das zulässige ordentliche Rechtsmittel, die Rechtsmittelinstanz und die Rechtsmittelfrist bezeichnet.
 
 **Erledigung a. Im Allgemeinen**
 
@@ -218,7 +218,7 @@ Die Verwaltungsbehörde trifft die nötigen vorsorglichen Massnahmen. Bei Kolleg
 
 **5**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113
 
 <sup>2</sup> Eine versäumte Frist kann wiederhergestellt werden, wenn dem Säumigen keine grobe Nachlässigkeit zur Last fällt und er innert zehn Tagen nach Wegfall des Grundes, der die Einhaltung der Frist verhindert hat, ein Gesuch um Wiederherstellung einreicht. Wird die Wiederherstellung gewährt, so beträgt die Frist zur Nachholung der versäumten Rechtshandlung zehn Tage.[^11-1]
 
@@ -290,7 +290,7 @@ a.[^15-1] wenn er in der Schweiz keinen Wohnsitz hat,
 
 **7**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113
 
 - d. Erlasse, ausgenommen die Kantonsverfassung und kantonale Gesetze.
 
@@ -382,7 +382,7 @@ a.[^15-1] wenn er in der Schweiz keinen Wohnsitz hat,
 
 **9**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113
 
 - c. bei der Erfüllung von gesetzlichen Aufgaben in ihren schutzwürdigen Interessen anderweitig verletzt sind, insbesondere bei einem wesentlichen Eingriff in ihr Finanz- oder Verwaltungsvermögen.
 
@@ -476,7 +476,7 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 **11**
 
-- 1\. 7. 20 - 109 § 27 a.<sup>50</sup> <sup>1</sup> Hält die Rekursinstanz eine Kündigung, eine Einstellung im Amt oder eine vorzeitige Entlassung für nicht gerechtfertigt, stellt sie dies fest und bestimmt von Amtes wegen die Entschädigung, die das Gemeinwesen zu entrichten hat.
+- 1\. 7. 21 - 113 § 27 a.<sup>50</sup> <sup>1</sup> Hält die Rekursinstanz eine Kündigung, eine Einstellung im Amt oder eine vorzeitige Entlassung für nicht gerechtfertigt, stellt sie dies fest und bestimmt von Amtes wegen die Entschädigung, die das Gemeinwesen zu entrichten hat.
 
 **b. Personalrechtliche Angelegenheiten**
 
@@ -553,7 +553,7 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 **13**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113
 
 ### Dritter Abschnitt: Die Verwaltungsgerichtsbarkeit
 
@@ -576,6 +576,8 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 <sup>2</sup> Die Amtsdauer beträgt sechs Jahre.
 
+<sup>3</sup> Das Gesamtgericht gemäss § 39 Abs. 1 kann den Beschäftigungsgrad einzelner Mitglieder mit deren Einverständnis im Rahmen der gesamten Stellenprozente verändern. Bei der Ersatzwahl eines betroffenen Mitglieds oder mit dem Ablauf der Amtsdauer erlischt die Veränderung.<sup>71</sup>
+
 **Unvereinbarkeit**
 
 § 34.[^33-1] <sup>1</sup> Das Amt eines vollamtlichen Mitglieds des Verwaltungsgerichts ist mit einer anderen hauptberuflichen Tätigkeit sowie mit der berufsmässigen Vertretung dritter Personen vor den Gerichten oder den Verwaltungsbehörden unvereinbar.
@@ -591,7 +593,7 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 § 34 a.<sup>53</sup> Für die Offenlegung von Interessenbindungen gilt § 7 GOG[^33-3].
 
 [^33-1]: Fassung gemäss G vom 8. Juni 1997 (OS 54, 268). In Kraft seit 1. Januar 1998 (OS 54, 290).
-[^33-2]: LS 161. 1. 7. 20 - 109 27
+[^33-2]: LS 161. 1. 7. 21 - 113 27
 [^33-3]: LS 211.1.
 
 #### § 35
@@ -600,11 +602,9 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 <sup>1</sup> In seiner richterlichen Tätigkeit ist das Verwaltungsgericht unabhängig und nur dem Gesetz unterworfen.
 
-<sup>2</sup> Das Verwaltungsgericht erstattet dem Kantonsrat jährlich Bericht über seine Tätigkeit. Dazu gehören statistische Angaben über den Personalbestand, die Geschäftslast und die Bearbeitungszeiten der Geschäfte, einschliesslich der einzelnen Verfahrensschritte.[^35-1]
+<sup>2</sup> Das Verwaltungsgericht erstattet dem Kantonsrat jährlich Bericht über seine Tätigkeit. Dazu gehören statistische Angaben über den Personalbestand, die Geschäftslast und die Bearbeitungszeiten der Geschäfte, einschliesslich der einzelnen Verfahrensschritte.[^35-1] § 36. <sup>1</sup> Das Verwaltungsgericht bezeichnet den Präsidenten und die erforderlichen Vizepräsidenten jeweils bei Beginn und auf Mitte einer Amtsperiode. Präsident und Vizepräsidenten sind in erster Linie aus der Zahl der vollamtlichen Richter zu wählen.
 
 **Vorsitz und Kanzlei**
-
-§ 36. <sup>1</sup> Das Verwaltungsgericht bezeichnet den Präsidenten und die erforderlichen Vizepräsidenten jeweils bei Beginn und auf Mitte einer Amtsperiode. Präsident und Vizepräsidenten sind in erster Linie aus der Zahl der vollamtlichen Richter zu wählen.
 
 <sup>2</sup> Das Verwaltungsgericht stellt den Generalsekretär, dessen Stellvertreter sowie das juristische und administrative Personal an.[^35-2]
 
@@ -652,13 +652,15 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 <sup>2</sup> In Fällen von grundsätzlicher Bedeutung kann die Entscheidung einer Kammer übertragen werden.
 
-<sup>3</sup> Sind Entscheide des Regierungsrates angefochten, ist die einzelrichterliche Beurteilung in den Fällen von Abs. 1 lit. c und d ausgeschlossen.
-
 **15**
 
-- 1\. 7. 20 - 109 § 39.[^35-5] <sup>1</sup> Das Gesamtgericht besteht aus den vollamtlichen und den teilamtlichen Mitgliedern. Dieses regelt organisatorische und personelle Angelegenheiten sowie Fragen der eigenen Verwaltung.
+- 1\. 7. 21 - 113
+
+<sup>3</sup> Sind Entscheide des Regierungsrates angefochten, ist die einzelrichterliche Beurteilung in den Fällen von Abs. 1 lit. c und d ausgeschlossen.
 
 **Gesamtgericht**
+
+§ 39.[^35-5] <sup>1</sup> Das Gesamtgericht besteht aus den vollamtlichen und den teilamtlichen Mitgliedern. Dieses regelt organisatorische und personelle Angelegenheiten sowie Fragen der eigenen Verwaltung.
 
 <sup>2</sup> Jedes Mitglied ist verpflichtet, seine Stimme abzugeben. Bei Stimmengleichheit zählt die Stimme des Vorsitzenden doppelt.
 
@@ -746,15 +748,15 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 - e. gegen Anordnungen des Verkehrsrates über die Ausgestaltung der Grundversorgung und die Festlegung der übrigen Verkehrsangebote,
 
+**17**
+
+- 1\. 7. 21 - 113
+
 - f. im Gesundheitsbereich gegen
 
 - 1\. Leistungsaufträge des Regierungsrates für das Universitätsspital Zürich und das Kantonsspital Winterthur,
 
 - 2\. Entscheide des Regierungsrates über Leistungsvereinbarungen seiner Direktion mit diesen Spitälern,
-
-**17**
-
-- 1\. 7. 20 - 109
 
 - 3\. Entscheide des Regierungsrates über Zusammenarbeitsverträge zwischen dem Universitätsspital und der Universität Zürich.
 
@@ -849,15 +851,11 @@ Die zur Abklärung des Sachverhaltes erforderlichen Beweise werden von Amtes weg
 
 Sind Beweise erhoben worden, so erhalten die am Beschwerdeverfahren Beteiligten Gelegenheit, sich hiezu mündlich vor dem Gericht oder schriftlich zu äussern.
 
-#### § 62
-
-**g. Öffentlichkeit**
-
-<sup>1</sup> Die Verhandlungen vor Verwaltungsgericht sind öffentlich. Die Beratungen des Gerichtes finden unter Ausschluss der Parteien und der Öffentlichkeit statt.
-
 **19**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113 § 62. <sup>1</sup> Die Verhandlungen vor Verwaltungsgericht sind öffentlich. Die Beratungen des Gerichtes finden unter Ausschluss der Parteien und der Öffentlichkeit statt.
+
+**g. Öffentlichkeit**
 
 <sup>2</sup> Das Verwaltungsgericht kann die Öffentlichkeit aus wichtigen Gründen von den Verhandlungen ausschliessen.
 
@@ -897,9 +895,11 @@ Sind Beweise erhoben worden, so erhalten die am Beschwerdeverfahren Beteiligten 
 
 <sup>2</sup> Im Übrigen richtet sich die Gebührenerhebung nach §§ 13–16 und nach der Verordnung des Verwaltungsgerichts[^63-2].
 
-<sup>3</sup> Bei personalrechtlichen Streitigkeiten mit einem Streitwert bis Fr. 30 000 werden keine Gebühren auferlegt. Vorbehalten bleibt die Kostenauflage an die unterliegende Partei, wenn sie durch ihre Prozessführung einen unangemessenen Aufwand verursacht hat. § 66.[^63-3] Entscheide des Verwaltungsgerichts sind mit Eintritt der Rechtskraft vollstreckbar.
+<sup>3</sup> Bei personalrechtlichen Streitigkeiten mit einem Streitwert bis Fr. 30 000 werden keine Gebühren auferlegt. Vorbehalten bleibt die Kostenauflage an die unterliegende Partei, wenn sie durch ihre Prozessführung einen unangemessenen Aufwand verursacht hat.
 
 **e. Vollstreckung**
+
+§ 66.[^63-3] Entscheide des Verwaltungsgerichts sind mit Eintritt der Rechtskraft vollstreckbar.
 
 §§ 67–69.[^63-4]
 
@@ -951,21 +951,23 @@ Das Verwaltungsgericht ist in Steuersachen letzte Rekurs- und Beschwerdeinstanz 
 
 - c. Streitigkeiten aus öffentlichem Recht, wenn ein anderes Gesetz deren erstinstanzliche Beurteilung durch ein Gericht vorschreibt.
 
-**Schiedsgericht**
-
-§ 82.<sup>51,</sup> <sup>60</sup> Der Kanton und die Gemeinden können für Streitigkeiten aus Verträgen, die Gemeinden verschiedener Kantone abgeschlossen haben, Schiedsgerichte vereinbaren.
-
 **21**
 
-- 1\. 7. 20 - 109 § 83. <sup>1</sup> Die Klageschrift ist dem Verwaltungsgericht in zweifacher Ausfertigung einzureichen. Sie muss einen Antrag und eine Begründung enthalten.
+- 1\. 7. 21 - 113 § 82.<sup>51,</sup> <sup>60</sup> Der Kanton und die Gemeinden können für Streitigkeiten aus Verträgen, die Gemeinden verschiedener Kantone abgeschlossen haben, Schiedsgerichte vereinbaren.
+
+#### § 83
+
+**Schiedsgericht**
 
 **Verfahren a. Klageschrift**
+
+<sup>1</sup> Die Klageschrift ist dem Verwaltungsgericht in zweifacher Ausfertigung einzureichen. Sie muss einen Antrag und eine Begründung enthalten.
 
 <sup>2</sup> Genügt die Klageschrift diesen Erfordernissen nicht, so setzt der Vorsitzende des Verwaltungsgerichtes dem Kläger eine kurze Frist zur Behebung des Mangels an unter der Androhung, dass sonst auf die Klage nicht eingetreten würde.
 
 <sup>3</sup> Die Beweismittel sollen genau bezeichnet und soweit möglich der Klageschrift beigelegt werden.<sup>50</sup>
 
-<sup>4</sup> . . .[^hDVerwaltungsrechtl-1]
+<sup>4</sup> . . .[^83-1]
 
 **b. Weitere Rechtsschriften; mündliche Verhandlung**
 
@@ -973,7 +975,7 @@ Das Verwaltungsgericht ist in Steuersachen letzte Rekurs- und Beschwerdeinstanz 
 
 <sup>2</sup> Es kann ein weiterer Schriftenwechsel angeordnet oder zu einer mündlichen Verhandlung vorgeladen werden.
 
-[^hDVerwaltungsrechtl-1]: Aufgehoben durch G vom 8. Juni 1997 (OS 54, 268). In Kraft seit 1. Januar 1998 (OS 54, 290).
+[^83-1]: Aufgehoben durch G vom 8. Juni 1997 (OS 54, 268). In Kraft seit 1. Januar 1998 (OS 54, 290).
 
 #### § 85
 
@@ -1052,7 +1054,7 @@ Das Verwaltungsgericht beurteilt die ihm vorgelegten Anträge in tatsächlicher 
 
 **23**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113
 
 <sup>2</sup> Die Ombudsperson[^88-1] bestellt ihre Kanzlei im Rahmen des vom Kantonsrat festzulegenden Stellenplans. Auf das Personal finden die Vorschriften für das Kanzleipersonal des Verwaltungsgerichts entsprechende Anwendung.
 
@@ -1147,7 +1149,7 @@ Die Ombudsperson[^92-1] ist nicht befugt, Anordnungen zu treffen. Aufgrund ihrer
 
 **25**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113
 
 [^94-1]: LS 211.1.
 [^94-2]: Fassung gemäss G vom 8. Juni 1997 (OS 54, 268). In Kraft seit 1. Januar 1998 (OS 54, 290).
@@ -1272,37 +1274,39 @@ G vom 30. August 2004 (OS 59, 409)
 
 **29**
 
-- 1\. 7. 20 - 109
+- 1\. 7. 21 - 113
 
-<sup>56</sup> Eingefügt durch Kantonsratsgesetz vom 17. Dezember 2012 (OS 68, 149; ABl 2012, 189). In Kraft seit 6. Mai 2013.
+<sup>5566</sup> EEiinnggeeffüüggtt dduurrcchh KKaannttoonnssrraattssggeesseettzz vvoomm 1177.. DDeezzeemmbbeerr 22001122 ((OOSS 6688,, 114499;; AABBll 22001122,, 118899)).. IInn KKrraafftt sseeiitt 66.. MMaaii 22001133..
 
-<sup>57</sup> Fassung gemäss Planungs- und Baugesetz vom 28. Oktober 2013 (OS 69, 262; ABl 2011, 1119). In Kraft seit 1. Juli 2014.
+<sup>5577</sup> FFaassssuunngg ggeemmäässss PPllaannuunnggss-- uunndd BBaauuggeesseettzz vvoomm 2288.. OOkkttoobbeerr 22001133 ((OOSS 6699,, 226622;; AABBll 22001111,, 11111199)).. IInn KKrraafftt sseeiitt 11.. JJuullii 22001144..
 
-<sup>58</sup> Aufgehoben durch Gesetz über das Meldewesen und die Einwohnerregister vom 11. Mai 2015 (OS 70, 407; ABl 2014-10-31). In Kraft seit 1. Januar 2016.
+<sup>5588</sup> AAuuffggeehhoobbeenn dduurrcchh GGeesseettzz üübbeerr ddaass MMeellddeewweesseenn uunndd ddiiee EEiinnwwoohhnneerrrreeggiisstteerr vvoomm 1111.. MMaaii 22001155 ((OOSS 7700,, 440077;; AABBll 22001144--1100--3311)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001166..
 
-<sup>59</sup> Fassung gemäss G vom 17. August 2015 (OS 71, 233; ABl 2015-01-23). In Kraft seit 1. Oktober 2016.
+<sup>5599</sup> FFaassssuunngg ggeemmäässss GG vvoomm 1177.. AAuugguusstt 22001155 ((OOSS 7711,, 223333;; AABBll 22001155--0011--2233)).. IInn KKrraafftt sseeiitt 11.. OOkkttoobbeerr 22001166..
 
-<sup>60</sup> Eingefügt durch Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018.
+<sup>6600</sup> EEiinnggeeffüüggtt dduurrcchh GGeemmeeiinnddeeggeesseettzz vvoomm 2200.. AApprriill 22001155 ((OOSS 7722,, 118833;; AABBll 22001133-- 0044--1199)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001188..
 
-<sup>61</sup> Fassung gemäss Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018.
+<sup>6611</sup> FFaassssuunngg ggeemmäässss GGeemmeeiinnddeeggeesseettzz vvoomm 2200.. AApprriill 22001155 ((OOSS 7722,, 118833;; AABBll 22001133-- 0044--1199)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001188..
 
-<sup>62</sup> Fassung gemäss Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018. Berichtigung vom 19. Juni 2017 (OS 72, 382).
+<sup>6622</sup> FFaassssuunngg ggeemmäässss GGeemmeeiinnddeeggeesseettzz vvoomm 2200.. AApprriill 22001155 ((OOSS 7722,, 118833;; AABBll 22001133-- 0044--1199)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001188.. BBeerriicchhttiigguunngg vvoomm 1199.. JJuunnii 22001177 ((OOSS 7722,, 338822))..
 
-<sup>63</sup> Eingefügt durch Publikationsgesetz vom 30. November 2015 (OS 72, 527; ABl 2014-11-07). In Kraft seit 1. Januar 2018.
+<sup>6633</sup> EEiinnggeeffüüggtt dduurrcchh PPuubblliikkaattiioonnssggeesseettzz vvoomm 3300.. NNoovveemmbbeerr 22001155 ((OOSS 7722,, 552277;; AABBll 22001144--1111--0077)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001188..
 
-<sup>64</sup> Fassung gemäss Publikationsgesetz vom 30. November 2015 (OS 72, 527; ABl 2014-11-07). In Kraft seit 1. Januar 2018.
+<sup>6644</sup> FFaassssuunngg ggeemmäässss PPuubblliikkaattiioonnssggeesseettzz vvoomm 3300.. NNoovveemmbbeerr 22001155 ((OOSS 7722,, 552277;; AABBll 22001144--1111--0077)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001188..
 
-<sup>65</sup> Eingefügt durch G über die politischen Rechte vom 28. August 2017 (OS 72, 523; ABl 2016-12-16). In Kraft seit 1. Januar 2018.
+<sup>6655</sup> EEiinnggeeffüüggtt dduurrcchh GG üübbeerr ddiiee ppoolliittiisscchheenn RReecchhttee vvoomm 2288.. AAuugguusstt 22001177 ((OOSS 7722,, 552233;; AABBll 22001166--1122--1166)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001188..
 
-<sup>66</sup> Fassung gemäss G vom 19. März 2018 (OS 73, 363; ABl 2016-07-15). In Kraft seit 1. Oktober 2018.
+<sup>6666</sup> FFaassssuunngg ggeemmäässss GG vvoomm 1199.. MMäärrzz 22001188 ((OOSS 7733,, 336633;; AABBll 22001166--0077--1155)).. IInn KKrraafftt sseeiitt 11.. OOkkttoobbeerr 22001188..
 
-<sup>67</sup> Fassung gemäss G vom 26. Februar 2018 (OS 73, 354; ABl 2017-04-28). In Kraft seit 1. Januar 2019.
+<sup>6677</sup> FFaassssuunngg ggeemmäässss GG vvoomm 2266.. FFeebbrruuaarr 22001188 ((OOSS 7733,, 335544;; AABBll 22001177--0044--2288)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001199..
 
-<sup>68</sup> Nummerierung gemäss G vom 26. Februar 2018 (OS 73, 354; ABl 2017-04-28). In Kraft seit 1. Januar 2019.
+<sup>6688</sup> NNuummmmeerriieerruunngg ggeemmäässss GG vvoomm 2266.. FFeebbrruuaarr 22001188 ((OOSS 7733,, 335544;; AABBll 22001177--0044--2288)).. IInn KKrraafftt sseeiitt 11.. JJaannuuaarr 22001199..
 
-<sup>69</sup> Fassung gemäss Kantonsratsgesetz vom 25. März 2019 (OS 74, 387). In Kraft seit 1. Mai 2020.
+<sup>6699</sup> FFaassssuunngg ggeemmäässss KKaannttoonnssrraattssggeesseettzz vvoomm 2255.. MMäärrzz 22001199 ((OOSS 7744,, 338877)).. IInn KKrraafftt sseeiitt 11.. MMaaii 22002200..
 
-<sup>70</sup> Fassung gemäss G über die Information und den Datenschutz vom 25. November 2019 (OS 75, 263; ABl 2018-07-13). In Kraft seit 1. Juni 2020.
+<sup>7700</sup> FFaassssuunngg ggeemmäässss GG üübbeerr ddiiee IInnffoorrmmaattiioonn uunndd ddeenn DDaatteennsscchhuuttzz vvoomm 2255.. NNoovveemm-- bbeerr 22001199 ((OOSS 7755,, 226633;; AABBll 22001188--0077--1133)).. IInn KKrraafftt sseeiitt 11.. JJuunnii 22002200..
+
+<sup>7711</sup> EEiinnggeeffüüggtt dduurrcchh GG vvoomm 3300.. NNoovveemmbbeerr 22002200 ((OOSS 7766,, 119988;; AABBll 22002200--0022--2288)).. IInn KKrraafftt sseeiitt 11.. JJuullii 22002211..
 
 ## Weitere Fussnoten
 
