@@ -4,11 +4,11 @@ number: "331.1"
 title: Justizvollzugsverordnung (JVV)
 short: JVV
 language: de
-version: "2020-04-01"
-nachtrag: "108"
-valid_until: 2021-07-01
+version: "2021-07-01"
+nachtrag: "113"
+valid_until: 2022-04-01
 adopted: 2006-12-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-331_1-2006_12_06-2007_01_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-331_1-2006_12_06-2007_01_01-113.html"
 text: pdf
 ---
 
@@ -16,23 +16,29 @@ text: pdf
 
 # Justizvollzugsverordnung (JVV)
 
-(vom 6. Dezember 2006)<sup>1</sup>
+(vom 6. Dezember 2006)[^t-1]
 
 Der Regierungsrat,
 
-gestützt auf §§ 14 Abs. 2, 15, 18 und 31 des Straf- und Justizvollzugsgesetzes vom 19. Juni 2006 (StJVG)<sup>3</sup>, Art. 235 f. und 445 StPO<sup>11</sup>, Art. 75 ff. und 124 Abs. 2 des Bundesgesetzes vom 16. Dezember 2005 über die Ausländerinnen und Ausländer (AuG)<sup>5</sup> und Art. 49 des Bundesgesetzes vom 20. März 1981 über internationale Rechtshilfe in Strafsachen (Rechtshilfegesetz, IRSG)<sup>12</sup>,<sup>16</sup>
+gestützt auf §§ 14 Abs. 2, 15, 18 und 31 des Straf- und Justizvollzugsgesetzes vom 19. Juni 2006 (StJVG)[^t-2], Art. 235 f. und 445 StPO[^t-3], Art. 75 ff. und 124 Abs. 2 des Bundesgesetzes vom 16. Dezember 2005 über die Ausländerinnen und Ausländer und über die Integration (AIG)[^t-4] und Art. 49 des Bundesgesetzes vom 20. März 1981 über internationale Rechtshilfe in Strafsachen (Rechtshilfegesetz)[^t-5],<sup>29</sup>
 
 beschliesst:
 
 **Gegenstand**
 
-§ 1.<sup>16</sup> Diese Verordnung regelt den Vollzug strafrechtlicher Sanktionen, die Durchführung der Untersuchungs-, Sicherheits- und Auslieferungshaft sowie der Vorbereitungs-, Ausschaffungs- und Durchsetzungshaft.
+§ 1.<sup>18</sup> Diese Verordnung regelt den Vollzug strafrechtlicher Sanktionen, die Durchführung der Untersuchungs-, Sicherheits- und Auslieferungshaft sowie der Vorbereitungs-, Ausschaffungs- und Durchsetzungshaft.
 
-### 1. Teil: Amt<sup>25</sup>
+[^t-1]: OS 61, 546; Begründung siehe ABl 2006, 1771.
+[^t-2]: LS 331.
+[^t-3]: SR 312.0.
+[^t-4]: SR 142.20.
+[^t-5]: SR 351.1. 1. 7. 21 - 113 43
+
+### 1. Teil: Amt<sup>27</sup>
 
 **Aufbau**
 
-§ 2.<sup>25</sup> <sup>1</sup> Für die Erfüllung der Aufgaben des Justizvollzugs besteht bei der Direktion der Justiz und des Innern ein Amt mit der Bezeichnung Justizvollzug und Wiedereingliederung.
+§ 2.<sup>27</sup> <sup>1</sup> Für die Erfüllung der Aufgaben des Justizvollzugs besteht bei der Direktion der Justiz und des Innern ein Amt mit der Bezeichnung Justizvollzug und Wiedereingliederung.
 
 <sup>2</sup> Das Amt setzt sich zusammen aus der Amtsleitung und aus folgenden Hauptabteilungen:
 
@@ -60,7 +66,7 @@ beschliesst:
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 7. 21 - 113
 
 <sup>3</sup> Die Geschäftsleitung besteht aus der Amtschefin oder dem Amtschef sowie den Leiterinnen und Leitern der Hauptabteilungen. Sie kann weitere Personen in die Geschäftsleitung aufnehmen.
 
@@ -70,27 +76,30 @@ beschliesst:
 
 **b. Führung der Hauptabteilungen**
 
-<sup>1</sup> Die Hauptabteilung wird von der Hauptabteilungsleiterin oder dem Hauptabteilungsleiter geführt. Die Leiterinnen oder Leiter der Justizvollzugsanstalt Pöschwies, des Massnahmenzentrums Uitikon, der Untersuchungsgefängnisse Zürich und der Vollzugseinrichtungen Zürich werden als Direktorinnen oder Direktoren bezeichnet.<sup>25</sup>
+<sup>1</sup> Die Hauptabteilung wird von der Hauptabteilungsleiterin oder dem Hauptabteilungsleiter geführt. Die Leiterinnen oder Leiter der Justizvollzugsanstalt Pöschwies, des Massnahmenzentrums Uitikon, der Untersuchungsgefängnisse Zürich und der Vollzugseinrichtungen Zürich werden als Direktorinnen oder Direktoren bezeichnet.<sup>27</sup>
 
 <sup>2</sup> Die Hauptabteilungsleitung legt zusammen mit der Amtschefin oder dem Amtschef die Organisation und die Fachkonzepte der Hauptabteilungen fest.
 
 **Aufträge a. Vollzug von Strafen und Massnahmen, Bewährungshilfe**
 
-§ 5.<sup>16</sup> Das Amt a.<sup>22</sup> vollzieht die von zürcherischen Gerichten und Strafverfolgungsbehörden ausgesprochenen sowie die vorzeitig angetretenen Freiheitsstrafen und Massnahmen,
+§ 5.<sup>18</sup> Das Amt a.<sup>24</sup> vollzieht die von zürcherischen Gerichten und Strafverfolgungsbehörden ausgesprochenen sowie die vorzeitig angetretenen Freiheitsstrafen und Massnahmen,
 
 - b. führt die Bewährungshilfe durch und kontrolliert die auferlegten Weisungen,
 
-- c. vollzieht im Auftrag der Jugendstrafbehörden Freiheitsentzüge und Massnahmen gemäss Art. 15 Abs. 2, Art. 16 Abs. 3 und Art. 25 JStG<sup>10</sup>,
+- c. vollzieht im Auftrag der Jugendstrafbehörden Freiheitsentzüge und Massnahmen gemäss Art. 15 Abs. 2, Art. 16 Abs. 3 und Art. 25 JStG[^4-1],
 
 - d. vollzieht die von Bundesstrafbehörden ausgesprochenen und dem Kanton Zürich zum Vollzug übertragenen Freiheitsstrafen und Massnahmen,
 
-- e. übernimmt den Vollzug ausserkantonaler Entscheide und überträgt den Vollzug zürcherischer Urteile und Strafbefehle an andere Kantone gemäss Verordnung zum Strafgesetzbuch und zum Militärstrafgesetzbuch vom 19. September 2006<sup>9</sup>,
+- e. übernimmt den Vollzug ausserkantonaler Entscheide und überträgt den Vollzug zürcherischer Urteile und Strafbefehle an andere Kantone gemäss Verordnung zum Strafgesetzbuch und zum Militärstrafgesetzbuch vom 19. September 2006[^4-2],
 
 - f. übernimmt den Vollzug ausländischer oder delegiert den Vollzug zürcherischer Entscheide gemäss den Regelungen des Rechtshilfegesetzes und der massgeblichen internationalen Übereinkommen.
 
 **b. Vollzug anderer Haftarten**
 
-§ 6.<sup>16</sup> Das Amt vollzieht zur Sicherung von Strafverfahren Untersuchungs-, Sicherheitshaft und Auslieferungshaft sowie zur Sicherung von ausländerrechtlichen Entscheiden und Verfahren Vorbereitungs-, Ausschaffungs- und Durchsetzungshaft.
+§ 6.<sup>18</sup> Das Amt vollzieht zur Sicherung von Strafverfahren Untersuchungs-, Sicherheitshaft und Auslieferungshaft sowie zur Sicherung von ausländerrechtlichen Entscheiden und Verfahren Vorbereitungs-, Ausschaffungs- und Durchsetzungshaft.
+
+[^4-1]: SR 311.1.
+[^4-2]: SR 311.01.
 
 #### § 7
 
@@ -98,7 +107,7 @@ beschliesst:
 
 Das Amt erbringt insbesondere folgende Leistungen: Es a. betreibt die für die Durchführung der Vollzüge notwendigen Anstalten, Gefängnisse, Massnahmenzentren und Dienste und erschliesst zur Behandlung und Betreuung von Straffälligen externe Ressourcen,
 
-- b. sorgt für die Durchführung und Entwicklung geeigneter Vollzugs-, Therapie-, Beratungs- und Behandlungsformen, c.<sup>25</sup> betätigt sich in der Analyse, Evaluation und Weiterbildung in den Tätigkeitsfeldern, die für die Erfüllung der Aufgaben im Justizvollzug und in der Wiedereingliederung von Bedeutung sind,
+- b. sorgt für die Durchführung und Entwicklung geeigneter Vollzugs-, Therapie-, Beratungs- und Behandlungsformen, c.<sup>27</sup> betätigt sich in der Analyse, Evaluation und Weiterbildung in den Tätigkeitsfeldern, die für die Erfüllung der Aufgaben im Justizvollzug und in der Wiedereingliederung von Bedeutung sind,
 
 - d. arbeitet mit anderen thematisch verwandten Behörden und Institutionen sowie mit der Forschung zusammen,
 
@@ -106,27 +115,39 @@ Das Amt erbringt insbesondere folgende Leistungen: Es a. betreibt die für die D
 
 **b. Bewährungs- und Vollzugsdienste**
 
-§ 8.<sup>22</sup> <sup>1</sup> Die Bewährungs- und Vollzugsdienste a. regeln die Vorbereitung, Durchführung und Beendigung der Aufträge gemäss § 5 lit. a, b, d, e und f,
+§ 8.<sup>29</sup> <sup>1</sup> Die Bewährungs- und Vollzugsdienste a. regeln die Vorbereitung, Durchführung und Beendigung der Aufträge gemäss § 5 lit. a, b, d, e und f,
 
-- b. betreiben das System und die technischen Geräte für die elektronische Überwachung im Sinne von Art. 79 b Abs. 1 Bst. a StGB<sup>8</sup>, c.<sup>16</sup> vermitteln Arbeitseinsätze im Rahmen der gemeinnützigen Arbeit und führen Lernprogramme durch,
+- b. betreiben die Vollzugs- und Fachstelle Electronic Monitoring sowie das System und die technischen Geräte für die elektronische Überwachung im Sinne von
 
-- d. führen Schuldensanierungen durch,
+- 1\. Art. 79 b Abs. 1 StGB[^7-1] (Electronic Monitoring [EM] Frontdoor und EM Backdoor),
+
+- 2\. Art. 237 Abs. 3 StPO (Ersatzmassnahmen),
+
+- 3\. Art. 26 ff. JStPO[^7-2] in Verbindung mit Art. 237 Abs. 3 StPO (Ersatzmassnahmen und Schutzmassnahmen im Jugendstrafverfahren),
+
+- 4\. Art. 67 b Abs. 3 StGB und Art. 16 a Abs. 4 JStG (Kontakt- und Rayonverbote), c.<sup>18</sup> vermitteln Arbeitseinsätze im Rahmen der gemeinnützigen Arbeit und führen Lernprogramme durch,
+
+- d. führen Schuldenberatungen und Schuldensanierungen durch,
 
 - e. erstellen zuhanden der Strafverfolgungsbehörden und Gerichte oder anderer Behörden Berichte,
 
 - f. rekrutieren, instruieren und begleiten freiwillige Mitarbeiterinnen und Mitarbeiter zur Betreuung verurteilter und inhaftierter Personen,
 
-- g. betreiben die kantonale Koordinationsstelle für das automatisierte Strafregister sowie diejenige gemäss Art. 4 Abs. 2 des Bundesgesetzes vom 18. Dezember 2015 zum Internationalen Übereinkommen zum Schutz aller Personen vor dem Verschwindenlassen<sup>6</sup>.
+- g. betreiben die kantonale Koordinationsstelle für das automatisierte Strafregister sowie diejenige gemäss Art. 4 Abs. 2 des Bundesgesetzes vom 18. Dezember 2015 zum Internationalen Übereinkommen zum Schutz aller Personen vor dem Verschwindenlassen[^7-3].
+
+**3**
+
+- 1\. 7. 21 - 113
 
 <sup>2</sup> In einzelnen Fällen können sie im Einverständnis mit der verurteilten Person Sozialberatungen und -betreuungen nach Beendigung des gesetzlichen Auftrags weiterführen, solange a. die Weiterführung die Resozialisierung sichert und b. keine andere Fachstelle zuständig ist.
 
 <sup>3</sup> Sie können einer verurteilten Person zur Überbrückung einer vorübergehenden Notlage finanzielle Unterstützung in geringem Umfang gewähren. Diese kann zurückgefordert werden.
 
-**3**
-
-- 1\. 4. 20 - 108 § 9.<sup>22</sup> <sup>1</sup> Dem Psychiatrisch-Psychologischen Dienst obliegt die psychiatrische und psychotherapeutische Normal- und Krisenversorgung der in den Vollzugseinrichtungen des Amts inhaftierten Personen. Er führt gerichtlich angeordnete Massnahmen und freiwillige deliktpräventive Therapien während und ausserhalb des Freiheitsentzugs durch.
+<sup>4</sup> Für die Schuldensanierungen steht ein Fonds für wohltätige Zwecke zur Verfügung.
 
 **c. Psychiatrisch-Psychologischer Dienst**
+
+§ 9.<sup>24</sup> <sup>1</sup> Dem Psychiatrisch-Psychologischen Dienst obliegt die psychiatrische und psychotherapeutische Normal- und Krisenversorgung der in den Vollzugseinrichtungen des Amts inhaftierten Personen. Er führt gerichtlich angeordnete Massnahmen und freiwillige deliktpräventive Therapien während und ausserhalb des Freiheitsentzugs durch.
 
 <sup>2</sup> Er stellt die Qualität der psychiatrischen und psychotherapeutischen Normal- und Krisenversorgung sowie der deliktpräventiven Behandlungen in den Vollzugseinrichtungen des Amts sicher.
 
@@ -134,11 +155,11 @@ Das Amt erbringt insbesondere folgende Leistungen: Es a. betreibt die für die D
 
 <sup>4</sup> Er kann im Auftrag von Strafverfolgungsbehörden, Gerichten oder anderer Behörden und Entscheidungsträger Fachberichte, Risikoabklärungen und Fachgutachten erstellen. Dabei wird das Gebot der personellen Trennung zwischen den Funktionen des Behandelnden und des Gutachters beachtet.
 
-<sup>5</sup> Er fördert insbesondere durch Weiterbildung und wissenschaftliche Aktivitäten die Entwicklung der forensischen Psychotherapie, Psychiatrie und Psychologie.<sup>25</sup>
+<sup>5</sup> Er fördert insbesondere durch Weiterbildung und wissenschaftliche Aktivitäten die Entwicklung der forensischen Psychotherapie, Psychiatrie und Psychologie.<sup>27</sup>
 
 **d. Forschung und Entwicklung**
 
-§ 9 a.<sup>24</sup> <sup>1</sup> Die Hauptabteilung Forschung und Entwicklung a. forscht zu den Themen, die für den Justizvollzug und die Wiedereingliederung von Bedeutung sind, insbesondere zu Anordnung und Vollzug von strafrechtlichen Sanktionen, zu strafprozessualen und polizeirechtlichen Interventionen, zu Rekrutierung, Ausbildung und Führung geeigneten Personals sowie zum Reputationsmanagement und zur Kommunikation,
+§ 9 a.<sup>26</sup> <sup>1</sup> Die Hauptabteilung Forschung und Entwicklung a. forscht zu den Themen, die für den Justizvollzug und die Wiedereingliederung von Bedeutung sind, insbesondere zu Anordnung und Vollzug von strafrechtlichen Sanktionen, zu strafprozessualen und polizeirechtlichen Interventionen, zu Rekrutierung, Ausbildung und Führung geeigneten Personals sowie zum Reputationsmanagement und zur Kommunikation,
 
 - b. entwickelt Instrumente, Konzepte und Prozesse zu den in lit. a genannten Themen,
 
@@ -148,15 +169,15 @@ Das Amt erbringt insbesondere folgende Leistungen: Es a. betreibt die für die D
 
 <sup>2</sup> Die Hauptabteilung Forschung und Entwicklung berät amtsinterne und aussenstehende Arbeitspartner und erbringt für diese Dienstleistungen. Sie betreibt das Reputationsmanagement und die Kommunikation des Amts.
 
-**e.25 Justizvollzugsanstalt Pöschwies**
+**e.27 Justizvollzugsanstalt Pöschwies**
 
-§ 10.<sup>16</sup> <sup>1</sup> In der Justizvollzugsanstalt Pöschwies werden Freiheitsstrafen und Verwahrungen sowie stationäre Massnahmen nach Art. 59 Abs. 3 StGB<sup>8</sup> im geschlossenen Haftregime an Männern vollzogen.
+§ 10.<sup>18</sup> <sup>1</sup> In der Justizvollzugsanstalt Pöschwies werden Freiheitsstrafen und Verwahrungen sowie stationäre Massnahmen nach Art. 59 Abs. 3 StGB[^7-1] im geschlossenen Haftregime an Männern vollzogen.
 
 <sup>2</sup> In die Justizvollzugsanstalt Pöschwies werden aufgenommen a. Verurteilte zum Vollzug einer Strafe oder Reststrafe von mindestens einem Jahr, wobei in der Regel weniger als sechs Monate vor dem Termin der bedingten Entlassung keine Aufnahme erfolgt,
 
 - b. zu Verwahrung Verurteilte,
 
-- c. zu einer stationären Massnahme nach Art. 59 StGB<sup>8</sup> Verurteilte, sofern und solange die Behandlung aus Sicherheitsgründen im geschlossenen Regime durchzuführen ist.
+- c. zu einer stationären Massnahme nach Art. 59 StGB[^7-1] Verurteilte, sofern und solange die Behandlung aus Sicherheitsgründen im geschlossenen Regime durchzuführen ist.
 
 <sup>3</sup> Das Amt kann in besonderen Fällen die Durchführung des Vollzugs von Untersuchungs- oder Sicherheitshaft sowie von kürzeren Freiheitsentzügen bewilligen.
 
@@ -166,13 +187,17 @@ Das Amt erbringt insbesondere folgende Leistungen: Es a. betreibt die für die D
 
 <sup>6</sup> Sie sorgt für die Sicherheit im Innern wie gegen aussen.
 
-**f.25 Untersuchungsgefängnisse Zürich**
+**f.27 Untersuchungsgefängnisse Zürich**
 
-§ 11.<sup>20</sup> <sup>1</sup> Die Hauptabteilung Untersuchungsgefängnisse Zürich umfasst die vom Amt bezeichneten Gefängnisse, in denen hauptsächlich Untersuchungs-, Sicherheits- und Auslieferungshaft vollzogen wird. Die einzelnen Gefängnisse werden je von einer Leiterin oder einem Leiter geführt.
+§ 11.<sup>22</sup> <sup>1</sup> Die Hauptabteilung Untersuchungsgefängnisse Zürich umfasst die vom Amt bezeichneten Gefängnisse, in denen hauptsächlich Untersuchungs-, Sicherheits- und Auslieferungshaft vollzogen wird. Die einzelnen Gefängnisse werden je von einer Leiterin oder einem Leiter geführt.
 
 <sup>2</sup> In diese Gefängnisse werden aufgenommen:
 
 - a. Untersuchungs- und Sicherheitsgefangene sowie Gefangene in Auslieferungshaft,
+
+**5**
+
+- 1\. 7. 21 - 113
 
 - b. Verurteilte bis zu ihrer Überführung in eine geeignete Vollzugseinrichtung,
 
@@ -182,19 +207,15 @@ Das Amt erbringt insbesondere folgende Leistungen: Es a. betreibt die für die D
 
 - 1\. zum Vollzug von Untersuchungs- und Sicherheitshaft, bei Jugendlichen unter 15 Jahren, wenn eine begründete Ausnahme vorliegt und
 
-- 2\. zum Freiheitsentzug gemäss Art. 25 JStG<sup>10</sup>.
-
-**5**
-
-- 1\. 4. 20 - 108
+- 2\. zum Freiheitsentzug gemäss Art. 25 JStG[^7-4].
 
 <sup>3</sup> Die Gefängnisse sorgen für die Betreuung der inhaftierten Personen und für eine genügende Beschäftigung. Sie organisieren die erforderliche Sozialberatung, ärztliche Versorgung und seelsorgerische Unterstützung.
 
 <sup>4</sup> Sie sorgen für die Sicherheit im Innern wie gegen aussen.
 
-**g.25 Vollzugseinrichtungen Zürich**
+**g.27 Vollzugseinrichtungen Zürich**
 
-§ 11 a.<sup>19</sup> <sup>1</sup> Die Hauptabteilung Vollzugseinrichtungen Zürich umfasst die vom Amt bezeichneten Gefängnisse und Vollzugseinrichtungen, in denen hauptsächlich kürzere Freiheitsstrafen im Normalvollzug oder in Halbgefangenschaft sowie ausländerrechtliche Haft vollzogen werden. Die einzelnen Gefängnisse und Vollzugseinrichtungen werden je von einer Leiterin oder einem Leiter geführt.
+§ 11 a.<sup>21</sup> <sup>1</sup> Die Hauptabteilung Vollzugseinrichtungen Zürich umfasst die vom Amt bezeichneten Gefängnisse und Vollzugseinrichtungen, in denen hauptsächlich kürzere Freiheitsstrafen im Normalvollzug oder in Halbgefangenschaft sowie ausländerrechtliche Haft vollzogen werden. Die einzelnen Gefängnisse und Vollzugseinrichtungen werden je von einer Leiterin oder einem Leiter geführt.
 
 <sup>2</sup> In diese Gefängnisse und Vollzugseinrichtungen werden aufgenommen:
 
@@ -210,23 +231,34 @@ Das Amt erbringt insbesondere folgende Leistungen: Es a. betreibt die für die D
 
 <sup>4</sup> Sie sorgen für die Sicherheit im Innern wie gegen aussen.
 
+[^7-1]: SR 311.0.
+[^7-2]: SR 312.1.
+[^7-3]: SR 150.2.
+[^7-4]: SR 311.1.
+
 #### § 12
 
-**h.25 Massnahmenzentrum Uitikon**
+**h.27 Massnahmenzentrum Uitikon**
 
-<sup>1</sup> In das Massnahmenzentrum Uitikon werden aufgenommen a. junge Erwachsene, die zu einer Massnahme gemäss Art. 61 StGB<sup>8</sup> verurteilt wurden,
+<sup>1</sup> In das Massnahmenzentrum Uitikon werden aufgenommen a. junge Erwachsene, die zu einer Massnahme gemäss Art. 61 StGB[^7-1] verurteilt wurden,
 
-- b. Jugendliche, die das 17. Altersjahr erreicht haben und zu einer Schutzmassnahme gemäss Art. 15 Abs. 1 in Verbindung mit Art. 16 Abs. 3 JStG<sup>10</sup> verurteilt wurden,
+- b. Jugendliche, die das 17. Altersjahr erreicht haben und zu einer Schutzmassnahme gemäss Art. 15 Abs. 1 in Verbindung mit Art. 16 Abs. 3 JStG[^12-1] verurteilt wurden,
 
 - c. Jugendliche, die das 16. Altersjahr erreicht haben, wenn sie verurteilt wurden zu:
 
-- 1\. einer Schutzmassnahme gemäss Art. 15 Abs. 2 JStG<sup>10</sup>,
+- 1\. einer Schutzmassnahme gemäss Art. 15 Abs. 2 JStG[^12-1],
 
-- 2\. Freiheitsentzug gemäss Art. 25 JStG<sup>10</sup>.
+- 2\. Freiheitsentzug gemäss Art. 25 JStG[^12-1].
 
-<sup>2</sup> Das Massnahmenzentrum sorgt für die notwendige berufliche und schulische Ausbildung, die sozialpädagogischen Förderungsmassnahmen, die therapeutische Abklärung und Behandlung sowie die Sozialberatung und die ärztliche und seelsorgerische Betreuung. § 13.<sup>16</sup> <sup>1</sup> Das Amt und seine Hauptabteilungen handeln bei ihrer Leistungserbringung nach folgenden Grundsätzen:
+<sup>2</sup> Das Massnahmenzentrum sorgt für die notwendige berufliche und schulische Ausbildung, die sozialpädagogischen Förderungsmassnahmen, die therapeutische Abklärung und Behandlung sowie die Sozialberatung und die ärztliche und seelsorgerische Betreuung.
+
+<sup>3</sup> Es sorgt für die Sicherheit im Innern wie gegen aussen.<sup>28</sup>
+
+<sup>4</sup> Es betreibt die Vollzugsstelle Electronic Monitoring für die elektronische Überwachung von Vollzugslockerungen und von weiteren jugendstrafrechtlichen Anordnungen beim Vollzug von Schutzmassnahmen.<sup>28</sup>
 
 **Grundsätze der Leistungserbringung**
+
+§ 13.<sup>29</sup> <sup>1</sup> Das Amt und seine Hauptabteilungen handeln bei ihrer Leistungserbringung nach folgenden Grundsätzen:
 
 - a. bei strafrechtlich inhaftierten und verurteilten Personen orientiert sich die Arbeit an deren Delikten, Risikopotenzial und Entwicklungsbedarf und zielt auf die Stärkung der Eigenverantwortung und Sicherung der sozialen Integration in der Schweiz oder im Heimatland,
 
@@ -236,33 +268,34 @@ Das Amt erbringt insbesondere folgende Leistungen: Es a. betreibt die für die D
 
 - d. bei Inhaftierten in Auslieferungshaft wird das Auslieferungsverfahren nach Massgabe der Anweisungen der Bundesbehörden sichergestellt.
 
-<sup>2</sup> Das Amt darf die Rechte verurteilter Personen nur so weit beschränken, als es der Vollzug der Sanktion erfordert.
+<sup>2</sup> Sie dürfen die Rechte verurteilter Personen nur so weit beschränken, als es der Vollzug der Sanktion erfordert.
 
-<sup>3</sup> Das Amt und seine Hauptabteilungen erbringen ihre Leistungen interdisziplinär sowie nach erprobten und anerkannten Qualitätsstandards.
+<sup>3</sup> Sie erbringen ihre Leistungen interdisziplinär sowie nach erprobten und anerkannten Qualitätsstandards.
 
-#### § 14
+<sup>4</sup> Sie wickeln die Vollzugsfälle nach dem Prozess des Risikoorientierten Sanktionenvollzugs ab. Der Prozess richtet sich nach den Richtlinien der Ostschweizerischen Strafvollzugskommission über den Risikoorientierten Sanktionenvollzug.
+
+**7**
+
+- 1\. 7. 21 - 113 § 14. Zur Durchsetzung und Erfüllung der Aufträge können im Rahmen der Amtshilfe Polizeiorgane beigezogen werden.
 
 **Beizug der Polizei**
 
-Zur Durchsetzung und Erfüllung der Aufträge können im Rahmen der Amtshilfe Polizeiorgane beigezogen werden.
-
 **Übertragung von Vollzugsaufgaben an Private**
 
-§ 15.<sup>16</sup> Das Amt legt die nötigen Anforderungen gemäss § 17 Abs. 2 StJVG<sup>3</sup> für die Aufgabenübertragung an Private fest und kann Leistungsvereinbarungen abschliessen.
+§ 15.<sup>18</sup> Das Amt legt die nötigen Anforderungen gemäss § 17 Abs. 2 StJVG[^12-2] für die Aufgabenübertragung an Private fest und kann Leistungsvereinbarungen abschliessen.
+
+[^12-1]: SR 311.1.
+[^12-2]: LS 331.
 
 #### § 16
 
 **Justizvollzugskommission**
 
-<sup>1</sup> Die Justizvollzugskommission gemäss § 19 StJVG<sup>3</sup> berät und unterstützt das Amt in wesentlichen Fragen des Vollzugswesens. Das Amt orientiert die Kommission über neue Entwicklungen und Planungen.
+<sup>1</sup> Die Justizvollzugskommission gemäss § 19 StJVG[^12-2] berät und unterstützt das Amt in wesentlichen Fragen des Vollzugswesens. Das Amt orientiert die Kommission über neue Entwicklungen und Planungen.
 
 <sup>2</sup> Die Justizvollzugskommission wird von der Vorsteherin oder dem Vorsteher der Direktion der Justiz und des Innern präsidiert und konstituiert sich und die erforderlichen fachlichen Ausschüsse selbst.
 
 <sup>3</sup> Die Kommissionsmitglieder sind berechtigt, die Vollzugseinrichtungen und Dienste zu besuchen und mit den Mitarbeitenden des Amts und seinen Klientinnen und Klienten ohne Anwesenheit Dritter zu sprechen. Die Kommissionsmitglieder unterstehen der Schweigepflicht; ihnen gegenüber sind die Mitarbeitenden von der Schweigepflicht entbunden.
-
-**7**
-
-- 1\. 4. 20 - 108
 
 ### 2. Teil: Vollzugsverfahren
 
@@ -270,51 +303,63 @@ Zur Durchsetzung und Erfüllung der Aufträge können im Rahmen der Amtshilfe Po
 
 **Zustellung der Entscheide an das Amt**
 
-§ 17.<sup>16</sup> Die Strafbehörden stellen die Entscheide im Sinne von § 25 StJVG<sup>3</sup> dem Amt zu.
-
-#### § 18
+§ 17.<sup>18</sup> Die Strafbehörden stellen die Entscheide im Sinne von § 25 StJVG[^h1AbschnittZustel-1] dem Amt zu.
 
 **Vorprüfung**
 
-<sup>1</sup> Das Amt prüft seine Zuständigkeit, die Vollstreckbarkeit und die Frage hängiger Vollzugsverfahren in anderen Kantonen und regelt die Vollzugsübernahme oder -abtretung.<sup>16</sup>
+§ 18.<sup>29</sup> <sup>1</sup> Das Amt prüft seine Zuständigkeit, die Vollstreckbarkeit und die Frage hängiger Vollzugsverfahren in anderen Kantonen und regelt die Vollzugsübernahme oder -abtretung.<sup>18</sup>
 
-<sup>2</sup> Es prüft, ob die Verbüssung in besonderen Vollzugsformen gemäss § 38 möglich ist.<sup>22</sup>
+<sup>2</sup> Die Abtretung der Vollzugskompetenzen an andere Kantone und der rechtshilfeweise Strafvollzug richten sich nach den Richtlinien der Ostschweizerischen Strafvollzugskommission über die Abtretung der Vollzugskompetenzen und den rechtshilfeweisen Strafvollzug.
 
-### 2. Abschnitt: Vorzeitiger Straf- und Massnahmenvollzug<sup>16</sup>
+<sup>3</sup> Das Amt prüft, ob die Verbüssung in besonderen Vollzugsformen gemäss § 38 möglich ist.
+
+[^h1AbschnittZustel-1]: LS 331.
+
+### 2. Abschnitt: Vorzeitiger Straf- und Massnahmenvollzug<sup>18</sup>
+
+[^h2AbschnittVorzei-1]: SR 312.0.
 
 #### § 19
 
 **Grundlagen**
 
-<sup>1</sup> Der vorzeitige Straf- und Massnahmenvollzug im Sinne von Art. 236 StPO<sup>11</sup> ist der Vollzug einer unbedingten Freiheitsstrafe oder des unbedingten Teils einer teilbedingten Freiheitsstrafe sowie einer therapeutischen Massnahme vor dem Vorliegen eines rechtskräftigen und vollstreckbaren Urteils.<sup>16</sup>
+<sup>1</sup> Der vorzeitige Straf- und Massnahmenvollzug im Sinne von Art. 236 StPO[^h2AbschnittVorzei-1] ist der Vollzug einer unbedingten Freiheitsstrafe oder des unbedingten Teils einer teilbedingten Freiheitsstrafe sowie einer therapeutischen Massnahme vor dem Vorliegen eines rechtskräftigen und vollstreckbaren Urteils.<sup>18</sup>
 
 <sup>2</sup> Mit dem Eintritt der Vollstreckbarkeit des Urteils beginnt der ordentliche Vollzug.
+
+[^19-1]: SR 312.0.
 
 #### § 20
 
 **Vorzeitiger Vollzug von Freiheitsstrafen und Verwahrungen**
 
-<sup>1</sup> Bewilligt die Verfahrensleitung gemäss Art. 236 StPO<sup>11</sup> den vorzeitigen Strafvollzug, sorgt das Amt für die Durchführung und die erforderlichen Vollzugsregelungen, wenn die Voraussetzungen dafür gegeben sind.<sup>16</sup>
+<sup>1</sup> Bewilligt die Verfahrensleitung gemäss Art. 61<sup>29</sup> StPO[^19-1] den vorzeitigen Strafvollzug, sorgt das Amt für die Durchführung und die erforderlichen Vollzugsregelungen, wenn die Voraussetzungen dafür gegeben sind.<sup>18</sup>
 
-<sup>2</sup> Der vorzeitige Antritt erfolgt in einer geschlossenen Vollzugseinrichtung nach den Regeln und Zuständigkeiten für den Vollzug rechtskräftiger Urteile. Vorbehalten bleiben besondere einschränkende Anordnungen der Verfahrensleitung gemäss Art. 236 StPO<sup>11</sup>. Vollzugslockerungen können gewährt werden, wenn die Verfahrensleitung nicht wegen strafprozessualen Haftgründen Einspruch erhebt.<sup>22</sup>
+<sup>2</sup> Der vorzeitige Antritt erfolgt in einer geschlossenen Vollzugseinrichtung nach den Regeln und Zuständigkeiten für den Vollzug rechtskräftiger Urteile. Vorbehalten bleiben besondere einschränkende Anordnungen der Verfahrensleitung gemäss Art. 61<sup>29</sup> StPO[^20-1]. Vollzugslockerungen können gewährt werden, wenn die Verfahrensleitung nicht wegen strafprozessualen Haftgründen Einspruch erhebt.<sup>24</sup>
 
-§ 21.<sup>17</sup>
+§ 21.<sup>19</sup>
 
 **Vorzeitiger Vollzug therapeutischer Massnahmen**
 
-§ 22.<sup>16</sup> <sup>1</sup> Die Verfahrensleitung gemäss Art. 236 StPO<sup>11</sup> stellt vor der Bewilligung des vorzeitigen Vollzugs von therapeutischen Massnahmen sicher, dass eine geeignete Vollzugseinrichtung zur Aufnahme oder eine Therapeutin oder ein Therapeut zur Durchführung bereit ist.
+§ 22. <sup>1</sup> Die Verfahrensleitung gemäss Art. 61 StPO stellt vor der Bewilligung des vorzeitigen Vollzugs von therapeutischen Massnahmen sicher, dass eine geeignete Vollzugseinrichtung zur Aufnahme oder eine Therapeutin oder ein Therapeut zur Durchführung bereit ist. Sie holt eine Stellungnahme des Amtes ein.<sup>29</sup>
 
 <sup>2</sup> Das Amt sorgt für die Durchführung des vorzeitigen Massnahmenvollzugs und die erforderlichen Vollzugsregelungen. Die Bestimmungen über den ordentlichen Massnahmenvollzug und die Regelungen der Vollzugseinrichtungen sind anwendbar.
 
-<sup>3</sup> Erweist sich eine Massnahme als nicht geeignet, stellt dies das Amt fest und regelt die Einstellung des vorzeitigen Vollzugs. Es beantragt der Verfahrensleitung gemäss Art. 236 StPO<sup>11</sup> die Aufhebung des vorzeitigen Vollzugs. Die Verfahrensleitung trifft die erforderlichen Sicherungsmassnahmen.
+<sup>3</sup> Erweist sich eine Massnahme als nicht geeignet, stellt dies das Amt fest und regelt die Einstellung des vorzeitigen Vollzugs. Es beantragt der Verfahrensleitung gemäss Art. 61 StPO die Aufhebung des vorzeitigen Vollzugs. Die Verfahrensleitung trifft die erforderlichen Sicherungsmassnahmen.<sup>29</sup>
 
 <sup>4</sup> Im Übrigen gelten die Bestimmungen über den vorzeitigen Strafvollzug.
 
 **Entlassung oder Unterbruch**
 
-§ 23.<sup>16</sup> <sup>1</sup> Die Verfahrensleitung gemäss Art. 236 StPO<sup>11</sup> entscheidet über Gesuche um Entlassung sowie um Straf- oder Massnahmenunterbruch.
+§ 23.<sup>18</sup> <sup>1</sup> Die Verfahrensleitung gemäss Art. 61<sup>29</sup> StPO[^20-1] entscheidet über Gesuche um Entlassung sowie um Straf- oder Massnahmenunterbruch.
+
+**9**
+
+- 1\. 7. 21 - 113
 
 <sup>2</sup> Über die bedingte Entlassung entscheidet das Amt nach Eintritt der Rechtskraft des Urteils.
+
+[^20-1]: SR 312.0.
 
 ### 3. Abschnitt: Geldstrafen und Bussen
 
@@ -342,41 +387,35 @@ Die von den Strafverfolgungsbehörden ausgesprochenen Geldstrafen und Bussen wer
 
 Der Bezug der von militärischen Gerichten ausgesprochenen Geldstrafen und Bussen und der auferlegten Kosten erfolgt durch das Obergericht.
 
-**Geldstrafen und Bussen bei Ersatzfreiheitsstrafen und gemeinnütziger Arbeit**
+**Geldstrafen und Bussen bei Ersatzfreiheitsstrafen**
 
-§ 28.<sup>22</sup> Ist an die Stelle einer Geldstrafe oder Busse die Ersatzfreiheitsstrafe getreten oder wird eine Geldstrafe oder Busse in Form von gemeinnütziger Arbeit vollzogen, fällt die Geldstrafe oder Busse bei Bezahlung dem Amt<sup>25</sup> zu.
+§ 28.<sup>29</sup> Ist an die Stelle einer Geldstrafe oder Busse die Ersatzfreiheitsstrafe getreten, fällt die Geldstrafe oder Busse bei Bezahlung dem Amt zu.
 
-§§ 29–37.<sup>23</sup>
+§§ 29–37.<sup>25</sup>
 
-**9**
-
-- 1\. 4. 20 - 108
-
-### 4.<sup>22</sup> Abschnitt: Freiheitsstrafen und Verwahrungen
+### 4.<sup>24</sup> Abschnitt: Freiheitsstrafen und Verwahrungen
 
 ### A. Vollzugsformen
 
 **Besondere Vollzugsformen**
 
-§ 38.<sup>22</sup> <sup>1</sup> Als besondere Vollzugsformen gelten a. die gemeinnützige Arbeit im Sinne von Art. 79 a StGB,
-
-- b. die elektronische Überwachung im Sinne von Art. 79 b Abs. 1 Bst. a StGB (Electronic Monitoring),
+§ 38.<sup>24</sup> <sup>1</sup> Als besondere Vollzugsformen gelten a. die gemeinnützige Arbeit im Sinne von Art. 79 a StGB, b.<sup>29</sup> die elektronische Überwachung im Sinne von Art. 79 b Abs. 1 Bst. a StGB (EM Frontdoor),
 
 - c. die Halbgefangenschaft im Sinne von Art. 77 b StGB.
 
-<sup>2</sup> Für Zulassung und Voraussetzungen, Vollzugsmodalitäten, Abbruch und Beendigung gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission für die besonderen Vollzugsformen (gemeinnützige Arbeit, elektronische Überwachung [electronic Monitoring, EM], Halbgefangenschaft)<sup>13</sup>.
+<sup>2</sup> Für Zulassung und Voraussetzungen, Vollzugsmodalitäten, Abbruch und Beendigung gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission für die besonderen Vollzugsformen (gemeinnützige Arbeit, elektronische Überwachung [electronic Monitoring, EM], Halbgefangenschaft)<sup>15</sup>.
 
-§§ 39–42.<sup>23</sup>
+§§ 39–42.<sup>25</sup>
 
 **Normalvollzug a. Offener Vollzug**
 
-§ 43. <sup>1</sup> Eine verurteilte Person verbüsst ihre Freiheitsstrafe ganz oder teilweise in einer offenen Anstalt, wenn<sup>22</sup> a. keine besondere Vollzugsform gemäss § 38 Abs. 1 infrage kommt und b. die beschränkten Aufsichts- und Kontrollmöglichkeiten zur Vermeidung einer Flucht, zur Verhinderung neuer Straftaten und insbesondere zum Schutz der Öffentlichkeit als ausreichend erscheinen.
+§ 43. <sup>1</sup> Eine verurteilte Person verbüsst ihre Freiheitsstrafe ganz oder teilweise in einer offenen Anstalt, wenn<sup>24</sup> a. keine besondere Vollzugsform gemäss § 38 Abs. 1 infrage kommt und b. die beschränkten Aufsichts- und Kontrollmöglichkeiten zur Vermeidung einer Flucht, zur Verhinderung neuer Straftaten und insbesondere zum Schutz der Öffentlichkeit als ausreichend erscheinen.
 
 <sup>2</sup> Unter denselben Voraussetzungen kann auch die Verwahrung teilweise in einer offenen Anstalt verbüsst werden.
 
 #### § 44
 
-**b.Geschlossener Vollzug**
+**b. Geschlossener Vollzug**
 
 Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund ihrer Beschaffenheit und ihres Betriebs geeignet sind, Fluchten oder Gefahren für Dritte zu verhindern. Kommen andere Vollzugsformen nicht infrage, werden Freiheitsstrafen und Verwahrungen geschlossen vollzogen.
 
@@ -386,21 +425,23 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 <sup>1</sup> Das Arbeits- und das Wohnexternat sind die Vorstufen der Entlassung aus einer Freiheitsstrafe oder Verwahrung. Sie dienen der schrittweisen Eingliederung der verurteilten Person durch Zulassung zu auswärtiger Arbeit oder Ausbildung sowie durch auswärtiges Wohnen.
 
-<sup>2</sup> Anstelle des Arbeitsexternats oder Arbeits- und Wohnexternats kann auf Gesuch die elektronische Überwachung für drei bis zwölf Monate bewilligt werden.<sup>21</sup>
+<sup>2</sup> Anstelle des Arbeitsexternats oder Arbeits- und Wohnexternats kann auf Gesuch die elektronische Überwachung für drei bis zwölf Monate bewilligt werden.<sup>23</sup>
 
 ### B. Einleitung des Vollzugs
 
 **Verurteilte in Freiheit a. Bewilligung einer besonderen Vollzugsform**
 
-§ 46.<sup>22</sup> <sup>1</sup> Das Amt teilt der verurteilten Person mit, dass die Verbüssung in besonderen Vollzugsformen gemäss § 38 möglich ist, und setzt ihr eine Frist zur Einreichung eines Gesuchs.
+§ 46.<sup>24</sup> <sup>1</sup> Das Amt teilt der verurteilten Person mit, dass die Verbüssung in besonderen Vollzugsformen gemäss § 38 möglich ist, und setzt ihr eine Frist zur Einreichung eines Gesuchs.
 
 <sup>2</sup> Das Amt entscheidet über das Gesuch und legt bei Gutheissung den Vollzugsbeginn, die Vollzugsform sowie Bedingungen und Auflagen fest.
 
 <sup>3</sup> Erfüllt die verurteilte Person die Voraussetzungen für die gewünschte Vollzugsform nicht, kann die Vollzugsbehörde ihr eine Frist ansetzen, um ein Gesuch um Bewilligung einer anderen besonderen Vollzugsform einzureichen.
 
-**b. Vollzugsregelung für gemeinnützige Arbeit**
+**11**
 
-§ 46 a.<sup>21</sup> <sup>1</sup> Das Amt regelt den Vollzug der gemeinnützigen Arbeit in der Vollzugsvereinbarung. Es bestimmt den Zeitraum, in dem die verurteilte Person die gemeinnützige Arbeit zu leisten hat. Die verurteilte Person leistet in der Regel mindestens acht Stunden gemeinnützige Arbeit pro Woche.
+- 1\. 7. 21 - 113 § 46 a.<sup>23</sup> <sup>1</sup> Das Amt regelt den Vollzug der gemeinnützigen Arbeit in der Vollzugsvereinbarung. Es bestimmt den Zeitraum, in dem die verurteilte Person die gemeinnützige Arbeit zu leisten hat. Die verurteilte Person leistet in der Regel mindestens acht Stunden gemeinnützige Arbeit pro Woche.
+
+**b. Vollzugsregelung für gemeinnützige Arbeit**
 
 <sup>2</sup> Das Amt schliesst mit der verurteilten Person und der arbeitgebenden Institution eine Arbeitsvereinbarung ab. Diese enthält insbesondere:
 
@@ -416,17 +457,13 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 **c. Vollzugsregelung für elektronische Überwachung**
 
-§ 46 b.<sup>21</sup> <sup>1</sup> Das Amt regelt den Vollzug der elektronischen Überwachung in einer Vollzugsvereinbarung und legt den Termin des Strafantritts fest.
+§ 46 b.<sup>23</sup> <sup>1</sup> Das Amt regelt den Vollzug der elektronischen Überwachung in einer Vollzugsvereinbarung und legt den Termin des Strafantritts fest.
 
 <sup>2</sup> Es erstellt mit der verurteilten Person den Vollzugsplan, der die persönlichen Verhältnisse berücksichtigt. Der Vollzugsplan enthält insbesondere:
 
 - a. die psychosoziale Beratung und Betreuung der verurteilten Person während des Vollzugs,
 
 - b. das Wochenprogramm, das die Arbeits- bzw. Ausbildungszeiten und weitere Verpflichtungen der verurteilten Person berücksichtigt,
-
-**11**
-
-- 1\. 4. 20 - 108
 
 - c. die Zeit, welche die verurteilte Person ausserhalb der Unterkunft verbringen darf, namentlich für Arbeit, Beschäftigung, Ausbildung, Behördengänge und Freizeit,
 
@@ -436,7 +473,7 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 **d. Vollzugsregelung für Halbgefangenschaft**
 
-§ 47.<sup>22</sup> <sup>1</sup> Das Amt regelt den Vollzug der Halbgefangenschaft in einer Vollzugsvereinbarung und legt den Termin des Strafantritts sowie den Vollzugsort fest. Es nimmt auf Wohn- und Arbeits- oder Ausbildungsort der verurteilten Person Rücksicht.
+§ 47.<sup>24</sup> <sup>1</sup> Das Amt regelt den Vollzug der Halbgefangenschaft in einer Vollzugsvereinbarung und legt den Termin des Strafantritts sowie den Vollzugsort fest. Es nimmt auf Wohn- und Arbeits- oder Ausbildungsort der verurteilten Person Rücksicht.
 
 <sup>2</sup> Die verurteilte Person verbringt die Ruhe- und Freizeit in der Vollzugseinrichtung. Sie muss wenigstens einen ganzen Tag pro Woche in der Vollzugseinrichtung verbringen.
 
@@ -454,23 +491,25 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 **e. Offener und geschlossener Vollzug**
 
-<sup>1</sup> Das Amt bietet die verurteilte Person, welche die Voraussetzungen für den Vollzug in einer besonderen Vollzugsform nicht erfüllt oder von dieser Vollzugsform keinen Gebrauch macht, zum offenen oder geschlossenen Vollzug der Freiheitsstrafe auf.<sup>22</sup>
+<sup>1</sup> Das Amt bietet die verurteilte Person, welche die Voraussetzungen für den Vollzug in einer besonderen Vollzugsform nicht erfüllt oder von dieser Vollzugsform keinen Gebrauch macht, zum offenen oder geschlossenen Vollzug der Freiheitsstrafe auf.<sup>24</sup>
 
 <sup>2</sup> Das Amt legt den Strafantrittstermin so fest, dass der verurteilten Person eine angemessene Zeit für die erforderliche Regelung beruflicher und privater Angelegenheiten verbleibt.
 
 <sup>3</sup> Es kann auf Gesuch der verurteilten Person den Strafantritt auf einen späteren Termin verschieben, wenn dadurch a. erhebliche Gesundheitsrisiken oder andere erhebliche, nicht wieder gutzumachende Nachteile vermieden werden und b. weder der Vollzug der Strafe infrage gestellt noch erhöhte Risiken für Dritte entstehen.
 
-<sup>4</sup> Das Gesuch um Verschiebung des Strafantrittstermins ist zu begründen, Beweismittel sind genau zu bezeichnen und soweit möglich vorzulegen. Das Gesuch ist sofort nach Kenntnis des Verschiebungsgrundes zu stellen.<sup>15</sup> § 49.<sup>22</sup> <sup>1</sup> Meldet sich die verurteilte Person innert der ihr gesetzten Frist nicht, erscheint sie nicht zum angeordneten Strafantritt oder ist sie unbekannten Aufenthalts, lässt das Amt sie zur Aufenthaltsnachforschung oder zur Verhaftung ausschreiben.
+<sup>4</sup> Das Gesuch um Verschiebung des Strafantrittstermins ist zu begründen, Beweismittel sind genau zu bezeichnen und soweit möglich vorzulegen. Das Gesuch ist sofort nach Kenntnis des Verschiebungsgrundes zu stellen.<sup>17</sup>
 
 **f. Aufenthaltsnachforschung und Verhaftung**
 
+§ 49.<sup>24</sup> <sup>1</sup> Meldet sich die verurteilte Person innert der ihr gesetzten Frist nicht, erscheint sie nicht zum angeordneten Strafantritt oder ist sie unbekannten Aufenthalts, lässt das Amt sie zur Aufenthaltsnachforschung oder zur Verhaftung ausschreiben.
+
 <sup>2</sup> Es entscheidet nach der Verhaftung umgehend, ob die verurteilte Person ihre Strafe im offenen oder geschlossenen Vollzug verbüssen muss. Der Vollzug der Strafe in einer besonderen Vollzugsform wird in der Regel nicht mehr bewilligt.
 
-#### § 50
+**13**
+
+- 1\. 7. 21 - 113 § 50. <sup>1</sup> Befindet sich die verurteilte Person in Haft, macht das Amt den Beginn des Vollzugs des rechtskräftigen Urteils aktenkundig. Es prüft, ob die verurteilte Person in eine offene Anstalt versetzt werden kann.
 
 **Inhaftierte verurteilte Personen**
-
-<sup>1</sup> Befindet sich die verurteilte Person in Haft, macht das Amt den Beginn des Vollzugs des rechtskräftigen Urteils aktenkundig. Es prüft, ob die verurteilte Person in eine offene Anstalt versetzt werden kann.
 
 <sup>2</sup> Verurteilte Personen, die zum Zeitpunkt des Eintritts der Rechtskraft ihres Urteils eine hohe Gefährdung für Dritte bedeuten oder fluchtgefährlich sind, verbleiben im geschlossenen Vollzug.
 
@@ -486,29 +525,27 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 **Gemeinnützige Arbeit a. Ermahnung**
 
-§ 52.<sup>22</sup> Das Amt ermahnt eine verurteilte Person, welche die Vollzugsvereinbarung oder die Arbeitsvereinbarung nicht einhält.
+§ 52.<sup>24</sup> Das Amt ermahnt eine verurteilte Person, welche die Vollzugsvereinbarung oder die Arbeitsvereinbarung nicht einhält.
 
 **b. Abbruch und Unterbruch**
 
-§ 53.<sup>22</sup> <sup>1</sup> Bleibt die Ermahnung erfolglos, bricht das Amt die gemeinnützige Arbeit ab.
+§ 53.<sup>24</sup> <sup>1</sup> Bleibt die Ermahnung erfolglos, bricht das Amt die gemeinnützige Arbeit ab.
 
 <sup>2</sup> Bei Dringlichkeit oder aus wichtigen Gründen kann es die gemeinnützige Arbeit ohne vorangehende Ermahnung abbrechen, insbesondere wenn a. der ordnungsgemässe Betrieb der arbeitgebenden Institution gefährdet ist oder b. aufgrund des Verhaltens der verurteilten Person ein ordentlicher Abschluss der gemeinnützigen Arbeit nicht erwartet werden kann.
 
 <sup>3</sup> Das Amt bricht die gemeinnützige Arbeit in der Regel ab, wenn die verurteilte Person zusätzlich eine Ersatzfreiheitsstrafe für eine Geldstrafe oder Busse verbüssen muss.
 
-**13**
-
-- 1\. 4. 20 - 108 § 53 a.<sup>21</sup> Die verurteilte Person trägt ihre persönlichen Aufwendungen zur Erbringung der gemeinnützigen Arbeit, insbesondere die Auslagen für Arbeitsweg und Verpflegung.
-
 **c. Persönliche Aufwendungen**
+
+§ 53 a.<sup>23</sup> Die verurteilte Person trägt ihre persönlichen Aufwendungen zur Erbringung der gemeinnützigen Arbeit, insbesondere die Auslagen für Arbeitsweg und Verpflegung.
 
 **Elektronische Überwachung a. Strafantritt**
 
-§ 54.<sup>22</sup> Die verurteilte Person muss bei Antritt ihrer Strafe belegen, dass sie die Voraussetzungen für die Bewilligung der elektronischen Überwachung noch erfüllt.
+§ 54.<sup>24</sup> Die verurteilte Person muss bei Antritt ihrer Strafe belegen, dass sie die Voraussetzungen für die Bewilligung der elektronischen Überwachung noch erfüllt.
 
 **b. Abbruch und Unterbruch**
 
-§ 54 a.<sup>21</sup> <sup>1</sup> Das Amt ermahnt eine verurteilte Person, welche die Vollzugsvereinbarung oder den Vollzugsplan nicht einhält. Bleibt die Ermahnung erfolglos, bricht das Amt die elektronische Überwachung ab. Es kann bei leichtem Verschulden auf den Abbruch verzichten und stattdessen die der verurteilten Person eingeräumte Freizeit einschränken.
+§ 54 a.<sup>23</sup> <sup>1</sup> Das Amt ermahnt eine verurteilte Person, welche die Vollzugsvereinbarung oder den Vollzugsplan nicht einhält. Bleibt die Ermahnung erfolglos, bricht das Amt die elektronische Überwachung ab. Es kann bei leichtem Verschulden auf den Abbruch verzichten und stattdessen die der verurteilten Person eingeräumte Freizeit einschränken.
 
 <sup>2</sup> Bei schweren oder wiederholten leichten Verstössen kann das Amt die elektronische Überwachung ohne vorangehende Ermahnung abbrechen.
 
@@ -518,23 +555,27 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 **Halbgefangenschaft a. Strafantritt**
 
-§ 55.<sup>22</sup> Die verurteilte Person muss bei Antritt ihrer Strafe belegen, dass sie die Voraussetzungen für die Bewilligung der Halbgefangenschaft noch erfüllt.
+§ 55.<sup>24</sup> Die verurteilte Person muss bei Antritt ihrer Strafe belegen, dass sie die Voraussetzungen für die Bewilligung der Halbgefangenschaft noch erfüllt.
 
 **b. Urlaub und Ausgang sowie weitere Vollzugsmodalitäten**
 
-§ 56.<sup>22</sup> Urlaub und Ausgang werden gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission für die besonderen Vollzugsformen (gemeinnützige Arbeit, elektronische Überwachung [electronic Monitoring, EM], Halbgefangenschaft) sowie gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission über die Ausgangs- und Urlaubsgewährung<sup>13</sup> bewilligt.
+§ 56.<sup>24</sup> Urlaub und Ausgang werden gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission für die besonderen Vollzugsformen (gemeinnützige Arbeit, elektronische Überwachung [electronic Monitoring, EM], Halbgefangenschaft) sowie gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission über die Ausgangs- und Urlaubsgewährung<sup>15</sup> bewilligt.
 
 **c. Abbruch und Unterbruch**
 
-§ 57.<sup>22</sup> <sup>1</sup> Das Amt ermahnt eine verurteilte Person, welche die Vollzugsvereinbarung oder den Vollzugsplan nicht einhält. Bleibt die Ermahnung erfolglos, bricht das Amt die Halbgefangenschaft ab und vollzieht die Strafe gemäss § 49 Abs. 2. Es kann bei leichtem Verschulden auf den Abbruch verzichten und die verurteilte Person erneut ermahnen. Vorbehalten bleibt die Anordnung von Disziplinarmassnahmen durch die Vollzugseinrichtung.
+§ 57.<sup>24</sup> <sup>1</sup> Das Amt ermahnt eine verurteilte Person, welche die Vollzugsvereinbarung oder den Vollzugsplan nicht einhält. Bleibt die Ermahnung erfolglos, bricht das Amt die Halbgefangenschaft ab und vollzieht die Strafe gemäss § 49 Abs. 2. Es kann bei leichtem Verschulden auf den Abbruch verzichten und die verurteilte Person erneut ermahnen. Vorbehalten bleibt die Anordnung von Disziplinarmassnahmen durch die Vollzugseinrichtung.
 
 <sup>2</sup> Bei schweren oder wiederholten leichten Verstössen kann das Amt die Halbgefangenschaft ohne vorangehende Ermahnung abbrechen.
 
 <sup>3</sup> Wird gegen die verurteilte Person eine Strafuntersuchung eingeleitet, kann der Vollzug der Halbgefangenschaft unterbrochen oder abgebrochen werden.
 
+**15**
+
+- 1\. 7. 21 - 113 § 57 a.<sup>23</sup> <sup>1</sup> Das Amt bricht den Vollzug in der bewilligten Vollzugsform ab, wenn
+
 **Gemeinsame Bestimmungen a. Änderung der Zulassungsvoraussetzungen**
 
-§ 57 a.<sup>21</sup> <sup>1</sup> Das Amt bricht den Vollzug in der bewilligten Vollzugsform ab, wenn a. eine oder mehrere weitere Strafen zu vollziehen sind und dadurch die zulässige Höchstdauer für die bewilligte Vollzugsform überschritten wird,
+- a. eine oder mehrere weitere Strafen zu vollziehen sind und dadurch die zulässige Höchstdauer für die bewilligte Vollzugsform überschritten wird,
 
 - b. die verurteilte Person die Voraussetzungen für die bewilligte Vollzugsform nicht mehr erfüllt,
 
@@ -544,7 +585,7 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 **b. Kostenbeteiligung**
 
-§ 57 b.<sup>21</sup> <sup>1</sup> Bei der elektronischen Überwachung und der Halbgefangenschaft entrichtet die verurteilte Person einen vom Amt festgelegten Beitrag an die Vollzugskosten und stellt diesen mit regelmässigen Vorschüssen sicher.
+§ 57 b.<sup>23</sup> <sup>1</sup> Bei der elektronischen Überwachung und der Halbgefangenschaft entrichtet die verurteilte Person einen vom Amt festgelegten Beitrag an die Vollzugskosten und stellt diesen mit regelmässigen Vorschüssen sicher.
 
 <sup>2</sup> Das Amt kann den Kostenbeitrag auf Gesuch ganz oder teilweise erlassen, wenn die verurteilte Person eine Notlage nachweist. Eine Notlage liegt insbesondere vor, wenn die Bezahlung des Kostenbeitrages die Erfüllung gesetzlicher Unterhalts- und Unterstützungspflichten beeinträchtigen würde.
 
@@ -562,11 +603,7 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 - d. zur Optimierung der Insassenzusammensetzung.
 
-<sup>2</sup> Aus Sicherheitsgründen kann vorübergehend eine Verlegung in eine für den Strafvollzug bezeichnete Vollzugseinrichtung oder in ein Gefängnis erfolgen.<sup>20</sup>
-
-**15**
-
-- 1\. 4. 20 - 108
+<sup>2</sup> Aus Sicherheitsgründen kann vorübergehend eine Verlegung in eine für den Strafvollzug bezeichnete Vollzugseinrichtung oder in ein Gefängnis erfolgen.<sup>22</sup>
 
 <sup>3</sup> Eine Verlegung kann auch erfolgen, wenn dies dem Kontakt mit der Familie oder anderen wichtigen Bezugspersonen dient und dadurch die Wiedereingliederung erleichtert wird. Die verurteilte Person hat keinen Rechtsanspruch auf Versetzung in eine Vollzugseinrichtung ihrer Wahl.
 
@@ -584,17 +621,19 @@ Eine Versetzung vom offenen in den geschlossenen Vollzug ist nur zulässig,
 
 - d. zur Verhinderung der Gefährdung Dritter.
 
+[^59-1]: SR 311.0.
+
 #### § 60
 
 **c. Versetzung vom geschlossenen in den offenen Vollzug**
 
-Eine verurteilte Person wird vom geschlossenen in den offenen Vollzug versetzt, wenn keine besonderen Umstände gemäss Art. 76 Abs. 2 StGB<sup>8</sup> mehr vorliegen und die Versetzung unter Berücksichtigung des verbleibenden Strafrests für die Wiedereingliederung sinnvoll ist.
+Eine verurteilte Person wird vom geschlossenen in den offenen Vollzug versetzt, wenn keine besonderen Umstände gemäss Art. 76 Abs. 2 StGB[^59-1] mehr vorliegen und die Versetzung unter Berücksichtigung des verbleibenden Strafrests für die Wiedereingliederung sinnvoll ist.
 
 #### § 61
 
 **d. Urlaub und Ausgang**
 
-<sup>1</sup> Urlaub und Ausgang werden gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission über die Ausgangs- und Urlaubsgewährung<sup>13</sup> bewilligt.
+<sup>1</sup> Urlaub und Ausgang werden gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission über die Ausgangs- und Urlaubsgewährung<sup>15</sup> bewilligt.
 
 <sup>2</sup> Mit der Urlaubsgewährung können Weisungen und Auflagen über Verhalten, Beschäftigung, Aufenthaltsort, Meldepflicht und Begleitung sowie Rahmenbedingungen für die Durchführung weiterer Urlaube verbunden werden.
 
@@ -608,21 +647,23 @@ Eine verurteilte Person wird vom geschlossenen in den offenen Vollzug versetzt, 
 
 <sup>1</sup> Gut qualifizierten Verurteilten können im Rahmen der Auftragsbearbeitung der internen Werkbetriebe temporäre Arbeitseinsätze unter Anleitung und Beaufsichtigung von Anstaltspersonal ausserhalb der Vollzugseinrichtung bewilligt werden. Für verurteilte Personen im geschlossenen Vollzug sind solche Arbeitseinsätze frühestens nach einem Drittel der Strafzeit möglich.
 
-<sup>2</sup> Für die externe Beschäftigung ohne Aufsicht von Anstaltspersonal gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission über die Gewährung des Arbeitsexternats und des Wohnexternats, die elektronische Überwachung anstelle des Arbeits- oder Wohnexternats (EM-Backdoor) sowie über die Beschäftigung von eingewiesenen Personen bei einem privaten Arbeitgeber<sup>13</sup>.<sup>22</sup>
+<sup>2</sup> Für die externe Beschäftigung ohne Aufsicht von Anstaltspersonal gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission über die Gewährung des Arbeitsexternats und des Wohnexternats, die elektronische Überwachung anstelle des Arbeits- oder Wohnexternats (EM-Backdoor) sowie über die Beschäftigung von eingewiesenen Personen bei einem privaten Arbeitgeber<sup>15</sup>.<sup>24</sup>
 
 <sup>3</sup> Fluchtgefährliche Personen dürfen nicht ausserhalb der Vollzugseinrichtungen beschäftigt werden.
 
-#### § 63
+**17**
+
+- 1\. 7. 21 - 113 § 63. Die Bewilligung des Strafunterbruchs gemäss Art. 92 StGB[^62-1] kann mit Auflagen über Verhalten, Beschäftigung, Aufenthaltsort, Meldepflicht sowie mit der Anordnung einer Beaufsichtigung oder Betreuung verbunden werden.
 
 **f. Strafunterbruch**
 
-Die Bewilligung des Strafunterbruchs gemäss Art. 92 StGB<sup>8</sup> kann mit Auflagen über Verhalten, Beschäftigung, Aufenthaltsort, Meldepflicht sowie mit der Anordnung einer Beaufsichtigung oder Betreuung verbunden werden.
-
 **Arbeitsexternat und Wohnexternat, elektronische Überwachung a. Zulassung und Rahmenbedingungen**
 
-§ 64.<sup>22</sup> <sup>1</sup> Für die Voraussetzungen, Entscheidungskompetenzen und Rahmenbedingungen des Arbeits- und des Wohnexternats sowie der elektronischen Überwachung anstelle der Externate gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission über die Gewährung des Arbeitsexternats und des Wohnexternats, die elektronische Überwachung anstelle des Arbeits- oder Wohnexternats (EM-Backdoor) sowie über die Beschäftigung von eingewiesenen Personen bei einem privaten Arbeitgeber<sup>13</sup>.
+§ 64.<sup>24</sup> <sup>1</sup> Für die Voraussetzungen, Entscheidungskompetenzen und Rahmenbedingungen des Arbeits- und des Wohnexternats sowie der elektronischen Überwachung anstelle der Externate gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission über die Gewährung des Arbeitsexternats und des Wohnexternats, die elektronische Überwachung anstelle des Arbeits- oder Wohnexternats (EM-Backdoor) sowie über die Beschäftigung von eingewiesenen Personen bei einem privaten Arbeitgeber<sup>15</sup>.
 
 <sup>2</sup> Persönliche, berufliche und rechtliche Angelegenheiten sind während der Arbeitszeit, des Urlaubs oder des Ausgangs bzw. der Freizeit zu regeln.
+
+[^62-1]: SR 311.0.
 
 #### § 65
 
@@ -634,7 +675,7 @@ Die Bewilligung des Strafunterbruchs gemäss Art. 92 StGB<sup>8</sup> kann mit A
 
 - c. die Zeit, die sie für die Arbeit ausserhalb der Vollzugseinrichtung verbringen darf, für andere Zwecke missbraucht,
 
-- d. ein Verhalten offenbart, das es nicht mehr erlaubt, ihr das erforderliche Vertrauen entgegenzubringen, oder e.<sup>16</sup> einen Disziplinartatbestand erfüllt und dadurch den sicheren oder ordnungsgemässen Betrieb der Vollzugseinrichtung erheblich oder wiederholt stört.
+- d. ein Verhalten offenbart, das es nicht mehr erlaubt, ihr das erforderliche Vertrauen entgegenzubringen, oder e.<sup>18</sup> einen Disziplinartatbestand erfüllt und dadurch den sicheren oder ordnungsgemässen Betrieb der Vollzugseinrichtung erheblich oder wiederholt stört.
 
 <sup>2</sup> Wird gegen die verurteilte Person eine Strafuntersuchung wegen eines Vergehens oder eines Verbrechens eingeleitet, kann die Zulassung zum Arbeits- oder Wohnexternat entzogen werden.
 
@@ -643,10 +684,6 @@ Die Bewilligung des Strafunterbruchs gemäss Art. 92 StGB<sup>8</sup> kann mit A
 **c. Kostgeld**
 
 <sup>1</sup> Die verurteilte Person hat ein Kostgeld zu entrichten. Das Amt legt dessen Höhe fest.
-
-**17**
-
-- 1\. 4. 20 - 108
 
 <sup>2</sup> Es kann die verurteilte Person auf Gesuch hin ganz oder teilweise von der Zahlung des Kostgelds befreien, wenn a. die dieser verbleibenden Einkünfte das Existenzminimum unterschreiten würden oder b. die Erfüllung gesetzlicher Unterstützungspflichten beeinträchtigt würde.
 
@@ -658,13 +695,13 @@ Die Bewilligung des Strafunterbruchs gemäss Art. 92 StGB<sup>8</sup> kann mit A
 
 <sup>2</sup> Verzichtet die verurteilte Person auf ein Gesuch um bedingte Entlassung, bestätigt sie dies schriftlich unter Angabe der Gründe.
 
-<sup>3</sup> Für die Gewährung der bedingten Entlassung gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission betreffend die bedingte Entlassung aus dem Strafvollzug<sup>13</sup>.
+<sup>3</sup> Für die Gewährung der bedingten Entlassung gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission betreffend die bedingte Entlassung aus dem Strafvollzug<sup>15</sup>.
 
 #### § 68
 
 **Bewährungshilfe bei bedingter Entlassung**
 
-Das Amt ordnet die Bewährungshilfe bei bedingter Entlassung gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission über die Bewährungshilfe bei bedingter Entlassung<sup>13</sup> an.
+Das Amt ordnet die Bewährungshilfe bei bedingter Entlassung gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission über die Bewährungshilfe bei bedingter Entlassung<sup>15</sup> an.
 
 #### § 69
 
@@ -672,9 +709,9 @@ Das Amt ordnet die Bewährungshilfe bei bedingter Entlassung gemäss den Richtli
 
 <sup>1</sup> Die Vollzugseinrichtungen können Anträge auf Änderung der Vollzugsmodalitäten stellen.
 
-<sup>2</sup> Im Zusammenhang mit Gesuchen um wesentliche Vollzugslockerungen verfassen sie Vollzugsberichte für die entscheidenden Behörden oder Gerichte.<sup>16</sup>
+<sup>2</sup> Im Zusammenhang mit Gesuchen um wesentliche Vollzugslockerungen verfassen sie Vollzugsberichte für die entscheidenden Behörden oder Gerichte.<sup>18</sup>
 
-<sup>3</sup> Die Vollzugsberichte geben Auskunft über:<sup>16</sup> a. das Verhalten,
+<sup>3</sup> Die Vollzugsberichte geben Auskunft über:<sup>18</sup> a. das Verhalten,
 
 - b. die Einhaltung von Abmachungen,
 
@@ -690,11 +727,15 @@ Das Amt ordnet die Bewährungshilfe bei bedingter Entlassung gemäss den Richtli
 
 **Gemeingefährliche Straftäter und Straftäterinnen**
 
-<sup>1</sup> Die Feststellung der Gemeingefährlichkeit von Straftätern und Straftäterinnen im Sinne von Art. 75 a Abs. 3 StGB oder von Veränderungen bei dieser Einstufung erfolgt gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission über den Vollzug von Freiheitsstrafen und freiheitsentziehenden Massnahmen bei potentiell gefährlichen Straftätern und Straftäterinnen<sup>13</sup>.<sup>22</sup>
+<sup>1</sup> Die Feststellung der Gemeingefährlichkeit von Straftätern und Straftäterinnen im Sinne von Art. 75 a Abs. 3 StGB oder von Veränderungen bei dieser Einstufung erfolgt gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission über den Vollzug von Freiheitsstrafen und freiheitsentziehenden Massnahmen bei potentiell gefährlichen Straftätern und Straftäterinnen<sup>15</sup>.<sup>24</sup>
 
 <sup>2</sup> Urlaub und andere Vollzugslockerungen werden solchen Verurteilten nur gewährt, wenn davon ausgegangen werden kann, dass a. sie nicht mehr gemeingefährlich sind oder b. Dritte vor einer verbleibenden Gefahr durch begleitende Massnahmen ausreichend geschützt werden können.
 
-### 5.<sup>22</sup> Abschnitt: Therapeutische Massnahmen
+**19**
+
+- 1\. 7. 21 - 113
+
+### 5.<sup>24</sup> Abschnitt: Therapeutische Massnahmen
 
 ### A. Einleitung des Vollzugs
 
@@ -702,7 +743,7 @@ Das Amt ordnet die Bewährungshilfe bei bedingter Entlassung gemäss den Richtli
 
 **Ambulante Massnahmen a. Vollzugsregelung**
 
-<sup>1</sup> Die Durchführung der ambulanten Behandlung mit Strafaufschub wird durch das Amt zusammen mit der verurteilten Person und der Therapeutin oder dem Therapeuten geregelt. Art. 63 Abs. 3 StGB<sup>8</sup> bleibt vorbehalten.
+<sup>1</sup> Die Durchführung der ambulanten Behandlung mit Strafaufschub wird durch das Amt zusammen mit der verurteilten Person und der durch das Amt bestimmten Therapeutin oder dem Therapeuten geregelt. Art. 63 Abs. 3 StGB bleibt vorbehalten.<sup>29</sup>
 
 <sup>2</sup> Die verurteilte Person verpflichtet sich mit der Vollzugsregelung zur Mitarbeit an der Erreichung der zusammen mit der Therapeutin oder dem Therapeuten im Behandlungsvertrag formulierten Therapieziele.
 
@@ -720,23 +761,27 @@ Das Amt ordnet die Bewährungshilfe bei bedingter Entlassung gemäss den Richtli
 
 <sup>2</sup> Dies gilt in der Regel auch für freiwillige, deliktpräventiv ausgerichtete Therapien während oder unabhängig von einem Freiheitsentzug.
 
-**19**
+[^72-1]: SR 311.0.
 
-- 1\. 4. 20 - 108 § 73. <sup>1</sup> Der Vollzug der stationären Massnahmen nach Art. 59 und Art. 60 StGB<sup>8</sup> erfolgt in staatlichen Kliniken und Therapieeinrichtungen oder anerkannten privaten Einrichtungen.
+#### § 73
 
 **Stationäre Massnahmen a. Vollzugseinrichtungen**
 
-<sup>2</sup> Besteht die Gefahr, dass die verurteilte Person flieht oder weitere Straftaten begeht, wird die Massnahme nach Art. 59 StGB<sup>8</sup> in einer geschlossenen Einrichtung der Psychiatrie oder des Massnahmenvollzugs oder einer geschlossenen Strafanstalt, die über ein entsprechendes Behandlungsangebot verfügt, vollzogen.
+<sup>1</sup> Der Vollzug der stationären Massnahmen nach Art. 59 und Art. 60 StGB[^72-1] erfolgt in staatlichen Kliniken und Therapieeinrichtungen oder anerkannten privaten Einrichtungen.
 
-<sup>3</sup> Massnahmen nach Art. 61 StGB<sup>8</sup> an jungen erwachsenen Männern werden in einem Massnahmenzentrum für junge Erwachsene vollzogen. Junge erwachsene Frauen werden für diese Massnahme in der Regel in die Anstalten in Hindelbank oder eine andere, dafür vorgesehene Massnahmenvollzugseinrichtung eingewiesen.
+<sup>2</sup> Besteht die Gefahr, dass die verurteilte Person flieht oder weitere Straftaten begeht, wird die Massnahme nach Art. 59 StGB[^73-1] in einer geschlossenen Einrichtung der Psychiatrie oder des Massnahmenvollzugs oder einer geschlossenen Strafanstalt, die über ein entsprechendes Behandlungsangebot verfügt, vollzogen.
+
+<sup>3</sup> Massnahmen nach Art. 61 StGB[^73-1] an jungen erwachsenen Männern werden in einem Massnahmenzentrum für junge Erwachsene vollzogen. Junge erwachsene Frauen werden für diese Massnahme in der Regel in die Anstalten in Hindelbank oder eine andere, dafür vorgesehene Massnahmenvollzugseinrichtung eingewiesen.
+
+[^73-1]: SR 311.0.
 
 #### § 74
 
 **b. Vollzugsregelung**
 
-<sup>1</sup> Das Amt regelt nach Absprache mit der Massnahmenvollzugseinrichtung die Durchführung der stationären Behandlung. Die Vollzugsregelung richtet sich nach dem Therapiekonzept der Einrichtung. Das Amt kann bei Vorliegen besonderer Gründe weitere Anweisungen geben.
+<sup>1</sup> Das Amt regelt nach Absprache mit der Massnahmenvollzugseinrichtung die Durchführung der stationären Behandlung. Die Vollzugsregelung richtet sich nach dem Therapiekonzept der Einrichtung. Das Amt kann bei Vorliegen besonderer Gründe weitere Anweisungen geben. Es stellt der Massnahmenvollzugseinrichtung den mit den wesentlichen Vollzugsdaten versehenen Vollzugsauftrag zur Verfügung.<sup>29</sup>
 
-<sup>2</sup> Der Vollzugsbeginn der stationären Behandlung richtet sich nach Art. 439 StPO<sup>11</sup>. Wenn besondere Umstände es rechtfertigen, kann ein Aufschub bewilligt werden.<sup>16</sup>
+<sup>2</sup> Der Vollzugsbeginn der stationären Behandlung richtet sich nach Art. 439 StPO[^74-1]. Wenn besondere Umstände es rechtfertigen, kann ein Aufschub bewilligt werden.<sup>18</sup>
 
 <sup>3</sup> Die Vollzugsregelung legt das Therapiekonzept für die verurteilte Person verbindlich fest. Diese muss die Betriebsordnung der Massnahmenvollzugseinrichtung einhalten.
 
@@ -750,11 +795,13 @@ Das Amt ordnet die Bewährungshilfe bei bedingter Entlassung gemäss den Richtli
 
 **Wirkungen des Behandlungsvertrags und der Vollzugsregelung**
 
-§ 75.<sup>22</sup> <sup>1</sup> Die Therapeutin oder der Therapeut oder die mit der Durchführung der stationären oder ambulanten Massnahme beauftragte Einrichtung informiert das Amt über die Durchführung der Massnahme.
+§ 75.<sup>24</sup> <sup>1</sup> Die Therapeutin oder der Therapeut oder die mit der Durchführung der stationären oder ambulanten Massnahme beauftragte Einrichtung informiert das Amt über die Durchführung der Massnahme.
 
 <sup>2</sup> Die mit der Durchführung der Massnahme betrauten Personen sind hinsichtlich der Frage der Erreichung der Behandlungsziele und des Behandlungsverlaufs von der beruflichen Schweigepflicht entbunden.
 
 <sup>3</sup> Die verurteilte Person nimmt mit der Unterzeichnung des Behandlungsvertrags bzw. der Orientierung über die Vollzugsregelung von der Informationspflicht und der Entbindung von der beruflichen Schweigepflicht Kenntnis.
+
+[^74-1]: SR 312.0.
 
 #### § 76
 
@@ -762,11 +809,11 @@ Das Amt ordnet die Bewährungshilfe bei bedingter Entlassung gemäss den Richtli
 
 Meldet sich die verurteilte Person innert der ihr gesetzten Frist nicht zum angeordneten Besprechungs- oder Massnahmeantrittstermin oder ist sie unbekannten Aufenthalts, kann das Amt sie zur Aufenthaltsnachforschung oder Verhaftung ausschreiben und polizeilich zuführen lassen.
 
-#### § 77
+**21**
+
+- 1\. 7. 21 - 113 § 77. Für die Durchführung und die Rahmenbedingungen von stationären Suchtbehandlungen gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission für den Vollzug von stationären Suchttherapien<sup>15</sup>.
 
 **Vollzug von stationären Suchtbehandlungen**
-
-Für die Durchführung und die Rahmenbedingungen von stationären Suchtbehandlungen gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission für den Vollzug von stationären Suchttherapien<sup>13</sup>.
 
 ### B. Durchführung und Beendigung
 
@@ -808,11 +855,13 @@ Ein Wechsel der Therapeutin oder des Therapeuten sowie der stationären Massnahm
 
 <sup>3</sup> Die Therapeutin oder der Therapeut sowie die Massnahmenvollzugseinrichtung können Änderungen der Vollzugsmodalitäten beantragen.
 
-**21**
+[^80-1]: LS 331.
 
-- 1\. 4. 20 - 108 § 81. <sup>1</sup> Die Kosten der ambulanten oder stationären Behandlung trägt das Amt, soweit sie nicht gemäss § 28 StJVG<sup>3</sup> von Dritten oder anderen staatlichen Stellen zu übernehmen sind oder bei günstigen wirtschaftlichen Verhältnissen der verurteilten Person auferlegt werden können.<sup>16</sup>
+#### § 81
 
 **Behandlungskosten**
+
+<sup>1</sup> Die Kosten der ambulanten oder stationären Behandlung trägt das Amt, soweit sie nicht gemäss § 28 StJVG[^80-1] von Dritten oder anderen staatlichen Stellen zu übernehmen sind oder bei günstigen wirtschaftlichen Verhältnissen der verurteilten Person auferlegt werden können.<sup>18</sup>
 
 <sup>2</sup> Muss eine verurteilte Person mit Wohnsitz im Kanton für die stationäre Behandlung in einer ausserkantonalen Einrichtung untergebracht werden, trägt die Gesundheitsdirektion die sich daraus ergebenden Mehrkosten.
 
@@ -820,13 +869,15 @@ Ein Wechsel der Therapeutin oder des Therapeuten sowie der stationären Massnahm
 
 **Urlaub und Ausgang, Arbeitsexternat und Wohnexternat, elektronische Überwachung**
 
-<sup>1</sup> Urlaub und Ausgang werden gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission über die Ausgangs- und Urlaubsgewährung<sup>13</sup> bewilligt.
+<sup>1</sup> Urlaub und Ausgang werden gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission über die Ausgangs- und Urlaubsgewährung<sup>15</sup> bewilligt.
 
-<sup>2</sup> Für Voraussetzungen, Entscheidungskompetenzen und Rahmenbedingungen des Arbeits- und des Wohnexternats während des stationären Massnahmenvollzugs sowie der elektronischen Überwachung anstelle der Externate gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission über die Gewährung des Arbeitsexternats und des Wohnexternats, die elektronische Überwachung anstelle des Arbeits- oder Wohnexternats (EM-Backdoor) sowie über die Beschäftigung von eingewiesenen Personen bei einem privaten Arbeitgeber<sup>13</sup>.<sup>22</sup>
+<sup>2</sup> Für Voraussetzungen, Entscheidungskompetenzen und Rahmenbedingungen des Arbeits- und des Wohnexternats während des stationären Massnahmenvollzugs sowie der elektronischen Überwachung anstelle der Externate gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission über die Gewährung des Arbeitsexternats und des Wohnexternats, die elektronische Überwachung anstelle des Arbeits- oder Wohnexternats (EM-Backdoor) sowie über die Beschäftigung von eingewiesenen Personen bei einem privaten Arbeitgeber<sup>15</sup>.<sup>24</sup>
 
 **Massnahmeunterbruch**
 
-§ 83. Die Bewilligung des Massnahmeunterbruchs gemäss Art. 92 StGB<sup>8</sup> kann mit Auflagen über Verhalten, weitere Behandlung, Aufenthaltsort, Meldepflicht und mit der Anordnung der Beaufsichtigung oder Betreuung verbunden werden.
+§ 83. Die Bewilligung des Massnahmeunterbruchs gemäss Art. 92 StGB[^82-1] kann mit Auflagen über Verhalten, weitere Behandlung, Aufenthaltsort, Meldepflicht und mit der Anordnung der Beaufsichtigung oder Betreuung verbunden werden.
+
+[^82-1]: SR 311.0.
 
 #### § 84
 
@@ -840,11 +891,13 @@ Die Feststellung der Gemeingefährlichkeit und das Vorgehen beim Vollzug richten
 
 Können die Therapeutin, der Therapeut oder die Massnahmenvollzugseinrichtung die Massnahme nicht nach ihrer Methode oder ihrem Konzept vollziehen, stellen sie die verurteilte Person dem Amt unter Angabe der Gründe und mit Empfehlungen für das weitere Vorgehen zur Verfügung.
 
+[^85-1]: LS 331.
+
 #### § 86
 
 **Verletzung der Mitwirkungspflicht**
 
-<sup>1</sup> Als Verletzung der Mitwirkungspflicht gemäss § 20 Abs. 3 StJVG<sup>3</sup> gilt es, wenn die verurteilte Person a. aufgrund ihres Verhaltens den Abschluss eines Behandlungsvertrags mit der Therapeutin oder dem Therapeuten verhindert,
+<sup>1</sup> Als Verletzung der Mitwirkungspflicht gemäss § 20 Abs. 3 StJVG[^85-1] gilt es, wenn die verurteilte Person a. aufgrund ihres Verhaltens den Abschluss eines Behandlungsvertrags mit der Therapeutin oder dem Therapeuten verhindert,
 
 - b. die Vollzugsregelung mit dem Amt nicht befolgt,
 
@@ -854,9 +907,19 @@ Können die Therapeutin, der Therapeut oder die Massnahmenvollzugseinrichtung di
 
 - e. die Behandlung verweigert.
 
-<sup>2</sup> In diesen Fällen wird der Vollzug der Massnahme nach vorgängiger Verwarnung eingestellt und die Massnahme im Sinne von Art. 62 c Abs. 1 StGB bzw. Art. 63 a Abs. 2 Bst. b StGB aufgehoben.<sup>22</sup>
+<sup>2</sup> In diesen Fällen wird der Vollzug der Massnahme nach vorgängiger Verwarnung eingestellt und die Massnahme im Sinne von Art. 62 c Abs. 1 StGB bzw. Art. 63 a Abs. 2 Bst. b StGB aufgehoben.<sup>24</sup>
 
-§§ 87 und 88.<sup>17</sup>
+**23**
+
+- 1\. 7. 21 - 113 § 87.<sup>19,</sup> <sup>28</sup> <sup>1</sup> Für die Versetzung vom offenen in den geschlossenen Vollzug gilt § 59 sinngemäss.
+
+**Versetzung und Abbruch**
+
+<sup>2</sup> Für den Abbruch des Wohn- und Arbeitsexternats und der elektronischen Überwachung gilt § 65 sinngemäss.
+
+### 6. Abschnitt: Bewährungshilfe und Weisungen<sup>28</sup>
+
+§ 88.<sup>19,</sup> <sup>28</sup> Meldet sich die verurteilte Person nicht zu einem angeordneten Besprechungstermin oder ist sie unbekannten Aufenthalts, kann das Amt sie zur Aufenthaltsnachforschung ausschreiben und polizeilich zuführen lassen.
 
 ### 3. Teil: Vollzug von Freiheitsstrafen und stationären Massnahmen
 
@@ -884,11 +947,13 @@ Frauen und Männer sowie Jugendliche und Erwachsene werden nach Massgabe des Bun
 
 <sup>2</sup> Es ist ihnen untersagt, mit den verurteilten Personen Rechtsgeschäfte abzuschliessen, insbesondere sich von diesen Arbeiten ausführen oder Dienstleistungen erbringen zu lassen.
 
+[^91-1]: LS 334.
+
 #### § 92
 
 **Zuständigkeit**
 
-Die Leitung der Vollzugseinrichtung erlässt Anordnungen über die Durchführung des Vollzugs. Vorbehalten bleiben besondere Anordnungen der einweisenden Stelle, wo es diese Verordnung, das Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen<sup>4</sup> oder Richtlinien der Ostschweizerischen Strafvollzugskommission vorsehen<sup>13</sup>.
+Die Leitung der Vollzugseinrichtung erlässt Anordnungen über die Durchführung des Vollzugs. Vorbehalten bleiben besondere Anordnungen der einweisenden Stelle, wo es diese Verordnung, das Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen[^91-1] oder Richtlinien der Ostschweizerischen Strafvollzugskommission vorsehen<sup>15</sup>.
 
 ### 2. Abschnitt: Vollzugsplan
 
@@ -898,17 +963,13 @@ Die Leitung der Vollzugseinrichtung erlässt Anordnungen über die Durchführung
 
 <sup>1</sup> Die Vollzugseinrichtung erstellt für die verurteilte Person einen Vollzugsplan.
 
-**23**
-
-- 1\. 4. 20 - 108
-
 <sup>2</sup> Der Vollzugsplan legt die Vollzugsziele fest und enthält Angaben über die Unterbringung und Betreuung in der Vollzugseinrichtung, die schulischen und beruflichen Aus- und Weiterbildungsmöglichkeiten, die Wiedergutmachung, die Beziehungen zur Aussenwelt sowie die Vorbereitung der Entlassung.
 
 #### § 94
 
 **Zuständigkeiten, Ziele und Verfahren**
 
-Für die Zuständigkeit und das Verfahren zum Erlass eines Vollzugsplanes sowie dessen Ausgestaltung gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission für die Vollzugsplanung<sup>13</sup>.
+Für die Zuständigkeit und das Verfahren zum Erlass eines Vollzugsplanes sowie dessen Ausgestaltung gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission für die Vollzugsplanung<sup>15</sup>.
 
 ### 3. Abschnitt: Durchführung des Vollzugs
 
@@ -932,11 +993,25 @@ Für die Zuständigkeit und das Verfahren zum Erlass eines Vollzugsplanes sowie 
 
 <sup>3</sup> Bestehen begründete Zweifel an der Richtigkeit des Arztzeugnisses, kann die Leitung der Vollzugseinrichtung medizinische Abklärungen durch eine Vertrauensärztin oder einen Vertrauensarzt anordnen.
 
+**Datenerfassung**
+
+§ 96 a.<sup>28</sup> <sup>1</sup> Beim Eintritt in eine Vollzugseinrichtung wird die verurteilte Person fotografiert, und es werden die erforderlichen Körpermerkmale festgehalten, namentlich Grösse, Gewicht und Augenfarbe.
+
+<sup>2</sup> Beim Eintritt oder im Laufe des Aufenthalts können für die interne Identifikation der verurteilten Person weitere biometrische Daten erfasst werden.
+
+**25**
+
+- 1\. 7. 21 - 113
+
+<sup>3</sup> Die Daten werden vernichtet, sobald sie nicht mehr benötigt werden, spätestens beim Austritt der verurteilten Person.
+
+[^96-1]: SR 311.0.
+
 #### § 97
 
 **Kontrollen und Untersuchungen**
 
-<sup>1</sup> Die verurteilten Personen legen alle Gegenstände vor, die sie mit sich führen. Die Durchführung der Kontrollen und Untersuchungen richtet sich nach Art. 85 Abs. 2 StGB<sup>8</sup>.
+<sup>1</sup> Die verurteilten Personen legen alle Gegenstände vor, die sie mit sich führen. Die Durchführung der Kontrollen und Untersuchungen richtet sich nach Art. 85 Abs. 2 StGB[^96-1].
 
 <sup>2</sup> Die persönlichen Effekten und die Unterkunft der verurteilten Person können während des Vollzugs durchsucht werden a. bei Verdacht auf schwere Disziplinarvergehen oder strafbare Handlungen,
 
@@ -982,10 +1057,6 @@ Für die Zuständigkeit und das Verfahren zum Erlass eines Vollzugsplanes sowie 
 
 <sup>1</sup> Wertsachen einer Person, die sich auf der Flucht befindet, werden fünf Jahre nach der Flucht, die übrigen Effekten ein Jahr nach der Flucht zu ihren Gunsten verwertet. Ist eine Verwertung nicht möglich, werden sie vernichtet.
 
-**25**
-
-- 1\. 4. 20 - 108
-
 <sup>2</sup> Zehn Jahre nach der Flucht wird die Gutschrift zusammen mit allfälligen Guthaben gemäss § 99 einem Fonds oder einer Stiftung zur Unterstützung von Gefangenen oder Entlassenen überwiesen.
 
 ### B. Arbeit und Ausbildung
@@ -1002,7 +1073,7 @@ Für die Zuständigkeit und das Verfahren zum Erlass eines Vollzugsplanes sowie 
 
 **Arbeitsentgelt im geschlossenen und offenen Vollzug**
 
-<sup>1</sup> Für Ansatz, Bemessung, Verwendung und Auszahlung des Arbeitsentgelts gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission über das Arbeitsentgelt in Strafvollzugsanstalten<sup>13</sup>.
+<sup>1</sup> Für Ansatz, Bemessung, Verwendung und Auszahlung des Arbeitsentgelts gelten die Richtlinien der Ostschweizerischen Strafvollzugskommission über das Arbeitsentgelt in Strafvollzugsanstalten<sup>15</sup>.
 
 <sup>2</sup> Für verurteilte Personen, die den Vollzugseinrichtungen nur während eines Teils der Arbeitszeit zur Verfügung stehen, wird das Arbeitsentgelt angemessen gekürzt. Bei genügender Qualifikation wird wenigstens der Mindestansatz ausgerichtet.
 
@@ -1010,11 +1081,11 @@ Für die Zuständigkeit und das Verfahren zum Erlass eines Vollzugsplanes sowie 
 
 <sup>4</sup> Für die verurteilten Personen im Massnahmenzentrum Uitikon werden vom Amt besondere Vorschriften erlassen. Diese sind von der Vorsteherin oder dem Vorsteher der Direktion der Justiz und des Innern zu genehmigen.
 
-#### § 105
+**27**
+
+- 1\. 7. 21 - 113 § 105. <sup>1</sup> Stirbt die verurteilte Person während des Strafvollzugs, so fliesst ein dem Kanton zufallender Teil der Erbschaft in einen Fonds oder eine Stiftung zur Unterstützung von Gefangenen oder Entlassenen.
 
 **Verwendung des Guthabens bei Flucht oder Tod**
-
-<sup>1</sup> Stirbt die verurteilte Person während des Strafvollzugs, so fliesst ein dem Kanton zufallender Teil der Erbschaft in einen Fonds oder eine Stiftung zur Unterstützung von Gefangenen oder Entlassenen.
 
 <sup>2</sup> Gutgeschriebenes Arbeitsentgelt flüchtiger Personen fällt nach Ablauf von fünf Jahren den in Abs. 1 genannten Einrichtungen zu.
 
@@ -1052,11 +1123,7 @@ Die verurteilten Personen erhalten täglich Gelegenheit zu einem mindestens eins
 
 <sup>2</sup> Die verurteilten Personen haben sich den ärztlichen Anweisungen zu unterziehen. Die Leitung der Vollzugseinrichtung kann Abklärungen durch eine Vertrauensärztin oder einen Vertrauensarzt anordnen.
 
-<sup>3</sup> Die zahnärztliche Behandlung der verurteilten Personen im Normalvollzug erfolgt nur in dringenden Fällen. Eine weiter gehende Behandlung kann auf Kosten der verurteilten Person oder nach Vorliegen einer Kostengutsprache durch ihre Krankenversicherung oder der fürsorgerechtlich zuständigen Behörde bewilligt werden. Die Vollzugseinrichtung bezeichnet die Zahnärztin oder den Zahnarzt.<sup>16</sup>
-
-**27**
-
-- 1\. 4. 20 - 108
+<sup>3</sup> Die zahnärztliche Behandlung der verurteilten Personen im Normalvollzug erfolgt nur in dringenden Fällen. Eine weiter gehende Behandlung kann auf Kosten der verurteilten Person oder nach Vorliegen einer Kostengutsprache durch ihre Krankenversicherung oder der fürsorgerechtlich zuständigen Behörde bewilligt werden. Die Vollzugseinrichtung bezeichnet die Zahnärztin oder den Zahnarzt.<sup>18</sup>
 
 <sup>4</sup> Verurteilten Personen, die ihre Strafe in Halbgefangenschaft oder im Arbeitsexternat verbüssen, steht die Möglichkeit offen, auf eigene Kosten selbst eine Ärztin oder einen Arzt aufzusuchen.
 
@@ -1070,7 +1137,7 @@ Die verurteilten Personen erhalten täglich Gelegenheit zu einem mindestens eins
 
 **Kostentragung**
 
-§ 111.<sup>16</sup> <sup>1</sup> Fallen im Zusammenhang mit einer notwendigen ambulanten oder stationären Behandlung vollzugsbedingte Kosten an, trägt diese die Vollzugseinrichtung. Zu den vollzugsbedingten Kosten gehören insbesondere:
+§ 111.<sup>18</sup> <sup>1</sup> Fallen im Zusammenhang mit einer notwendigen ambulanten oder stationären Behandlung vollzugsbedingte Kosten an, trägt diese die Vollzugseinrichtung. Zu den vollzugsbedingten Kosten gehören insbesondere:
 
 - a. Kosten für eine Bewachung nach § 110 Abs. 2,
 
@@ -1079,6 +1146,10 @@ Die verurteilten Personen erhalten täglich Gelegenheit zu einem mindestens eins
 <sup>2</sup> Die Kosten für die notwendige ambulante oder stationäre Behandlung als solche trägt, soweit für die Behandlungskosten nicht die Krankenversicherung oder die Unfallversicherung der verurteilten Person aufkommt, die verurteilte Person oder die fürsorgerechtlich zuständige Behörde.
 
 <sup>3</sup> Weiter gehende medizinische Behandlungen sowie die Beschaffung von Brillen, Prothesen und dergleichen erfolgen nur, wenn die verurteilte Person die Kosten übernimmt oder eine Kostengutsprache ihrer Krankenversicherung oder der fürsorgerechtlich zuständigen Behörde vorliegt.
+
+**29**
+
+- 1\. 7. 21 - 113
 
 <sup>4</sup> Die erforderlichen Kostengutsprachen sind von der Vollzugseinrichtung oder der behandelnden Einrichtung vorgängig bei der Krankenversicherung der verurteilten Person und bei der fürsorgerechtlich zuständigen Behörde oder, wenn die verurteilte Person von einem anderen Kanton eingewiesen wurde, bei der einweisenden Behörde einzuholen. In dringenden Fällen wird die Behandlung ohne Kostengutsprache angeordnet. Die nachträgliche Kostengutsprache ist so rasch wie möglich einzuholen.
 
@@ -1122,11 +1193,11 @@ Pro behandeltem Krankheitsfall und pro zahnärztliche Behandlung entrichtet die 
 
 <sup>4</sup> Die Vollzugseinrichtung entscheidet über Zulassung und Anzahl elektronischer Geräte. Sie kann die Benutzung von Fernsehgeräten auf Gemeinschaftsräume beschränken.
 
-**29**
-
-- 1\. 4. 20 - 108 § 115. <sup>1</sup> Der Empfang und Versand von Briefen und anderen Sendungen ist nicht beschränkt, soweit nicht durch Zahl, Umfang oder Sprache die notwendige Kontrolle erheblich erschwert oder verunmöglicht wird.
+#### § 115
 
 **Briefverkehr**
+
+<sup>1</sup> Der Empfang und Versand von Briefen und anderen Sendungen ist nicht beschränkt, soweit nicht durch Zahl, Umfang oder Sprache die notwendige Kontrolle erheblich erschwert oder verunmöglicht wird.
 
 <sup>2</sup> Briefe und andere Sendungen, deren Inhalt gegen gesetzliche Bestimmungen verstösst oder die den Vollzugszweck oder die Sicherheit gefährden, werden nicht weiter geleitet; der Absender wird darüber informiert.
 
@@ -1136,7 +1207,7 @@ Pro behandeltem Krankheitsfall und pro zahnärztliche Behandlung entrichtet die 
 
 **Telefon**
 
-<sup>1</sup> Den verurteilten Personen kann die Benützung des Telefons auf eigene Kosten gestattet werden. Den Vollzugseinrichtungen gewährte Mengenrabatte auf Telefonate von Verurteilten können einem Fonds oder einer Stiftung zur Unterstützung von Gefangenen oder Entlassenen gutgeschrieben werden.<sup>20</sup>
+<sup>1</sup> Den verurteilten Personen kann die Benützung des Telefons auf eigene Kosten gestattet werden. Den Vollzugseinrichtungen gewährte Mengenrabatte auf Telefonate von Verurteilten können einem Fonds oder einer Stiftung zur Unterstützung von Gefangenen oder Entlassenen gutgeschrieben werden.<sup>22</sup>
 
 <sup>2</sup> Die Telefongespräche können überwacht oder aufgezeichnet werden.
 
@@ -1149,6 +1220,10 @@ Pro behandeltem Krankheitsfall und pro zahnärztliche Behandlung entrichtet die 
 <sup>1</sup> Die verurteilte Person kann während mindestens einer Stunde pro Woche besucht werden. Dieser Kontakt kann auf zwei Besuche pro Monat beschränkt werden, wenn die Besuchszeit entsprechend verlängert wird.
 
 <sup>2</sup> Zur Unterstützung der Resozialisierung oder der erzieherischen Entwicklung der verurteilten Person können zusätzliche Besuche gestattet werden.
+
+**31**
+
+- 1\. 7. 21 - 113
 
 <sup>3</sup> Ehegatten, eingetragene Partnerinnen oder Partner, Lebenspartnerinnen oder -partner sowie Kinder können für längere Besuche zugelassen werden, wenn:
 
@@ -1186,9 +1261,9 @@ Verurteilte Personen in Halbgefangenschaft oder im Arbeitsexternat können in de
 
 **Privilegierte Kontakte**
 
-<sup>1</sup> Unter Beachtung der Anstaltsordnung ist der freie Verkehr mit den verurteilten Personen zu gewähren:<sup>18</sup> a. der Vormundin oder dem Vormund,
+<sup>1</sup> Unter Beachtung der Anstaltsordnung ist der freie Verkehr mit den verurteilten Personen zu gewähren:<sup>20</sup> a. der Vormundin oder dem Vormund,
 
-- b. der Beiständin oder dem Beistand gemäss Art. 398 ZGB<sup>7</sup>,
+- b. der Beiständin oder dem Beistand gemäss Art. 398 ZGB[^121-1],
 
 - c. der durch einem wirksam gewordenen Vorsorgeauftrag beauftragten Person,
 
@@ -1202,11 +1277,9 @@ Verurteilte Personen in Halbgefangenschaft oder im Arbeitsexternat können in de
 
 <sup>3</sup> Eine inhaltliche Überprüfung der Korrespondenz mit der Rechtsvertreterin oder dem Rechtsvertreter oder der Aufsichtsbehörde ist nicht gestattet. Gespräche oder telefonische Kontakte mit der Rechtsvertreterin oder dem Rechtsvertreter oder der Aufsichtsbehörde dürfen nicht mitgehört werden.
 
-**31**
-
-- 1\. 4. 20 - 108
-
 <sup>4</sup> Wenn die Kontaktprivilegien gemäss Abs. 1–3 missbraucht wurden oder wenn konkrete Anhaltspunkte für einen künftigen Missbrauch vorliegen, kann die Vollzugseinrichtung a. eine Kontrolle des Kontakts anordnen oder b. die betreffende privilegierte Person vorübergehend oder auf Dauer von Kontakten mit verurteilten Personen ausschliessen oder c. dem drohenden oder weiteren Missbrauch mit anderen verhältnismässigen Massnahmen entgegentreten.
+
+[^121-1]: SR 210.
 
 ### E. Sicherheit
 
@@ -1228,11 +1301,11 @@ Verurteilte Personen in Halbgefangenschaft oder im Arbeitsexternat können in de
 
 <sup>4</sup> Solche Einschränkungen werden von der Direktorin oder dem Direktor der Vollzugseinrichtung in Absprache mit der Amtsleiterin oder dem Amtsleiter getroffen.
 
-#### § 123
+**33**
+
+- 1\. 7. 21 - 113 § 123. <sup>1</sup> Die Direktorin oder der Direktor einer geschlossenen Vollzugseinrichtung kann anordnen, dass geeignete und ausgebildete betriebseigene Sicherheitskräfte im Einzelfall bei besonderen dienstlichen Verrichtungen eine Waffe tragen.
 
 **Waffen**
-
-<sup>1</sup> Die Direktorin oder der Direktor einer geschlossenen Vollzugseinrichtung kann anordnen, dass geeignete und ausgebildete betriebseigene Sicherheitskräfte im Einzelfall bei besonderen dienstlichen Verrichtungen eine Waffe tragen.
 
 <sup>2</sup> Anderen Personen ist das Mitführen und Aufbewahren von Waffen auf dem Areal der Vollzugseinrichtung untersagt. Sonderregelungen für Angehörige der Polizei bleiben vorbehalten.
 
@@ -1242,7 +1315,7 @@ Verurteilte Personen in Halbgefangenschaft oder im Arbeitsexternat können in de
 
 Die Direktorin oder der Direktor einer geschlossenen Vollzugseinrichtung kann den Gebrauch von Mobiltelefonen auf dem Areal der Vollzugseinrichtung aus Sicherheitsgründen allgemein untersagen oder einschränken.
 
-§ 125.<sup>17</sup>
+§ 125.<sup>18</sup>
 
 ### F. Hausordnungen
 
@@ -1288,10 +1361,6 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 - o. das Verlassen der Institution für eine externe Beschäftigung und die Verwendung des Arbeitsentgelts.
 
-**33**
-
-- 1\. 4. 20 - 108
-
 ### 4. Teil: Untersuchungs- und Sicherheitshaft sowie Auslieferungshaft
 
 #### § 128
@@ -1306,7 +1375,7 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 **Aufnahme und Entlassung**
 
-<sup>1</sup> Die Aufnahme in den Vollzug von Untersuchungs- und Sicherheitshaft sowie die Entlassung erfolgen auf Anordnung<sup>22</sup> a. der Verfahrensleitung gemäss Art. 236 StPO,
+<sup>1</sup> Die Aufnahme in den Vollzug von Untersuchungs- und Sicherheitshaft sowie die Entlassung erfolgen auf Anordnung<sup>24</sup> a. der Verfahrensleitung gemäss Art. 61<sup>29</sup> StPO,
 
 - b. des Zwangsmassnahmengerichts,
 
@@ -1318,7 +1387,7 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 **Unterbringung in Einzelhaft**
 
-<sup>1</sup> Die Verfahrensleitung gemäss Art. 236 StPO kann die Unterbringung in Einzelhaft anordnen, wenn der Untersuchungszweck dies erfordert.<sup>22</sup>
+<sup>1</sup> Die Verfahrensleitung gemäss Art. 61<sup>29</sup> StPO kann die Unterbringung in Einzelhaft anordnen, wenn der Untersuchungszweck dies erfordert.<sup>24</sup>
 
 <sup>2</sup> In Einzelhaft arbeiten die inhaftierten Personen alleine und verbringen ihre Freizeit in der Zelle. Beim Aufenthalt im Freien ist ihnen die Kontaktaufnahme mit anderen Inhaftierten untersagt.
 
@@ -1328,9 +1397,13 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 <sup>1</sup> Die inhaftierten Personen sind nicht zur Arbeit verpflichtet. Sie können sich selbst beschäftigen, wenn sie diese Tätigkeit in der Zelle verrichten. Die Selbstbeschäftigung gibt keinen Anspruch auf zusätzliche Kontakte mit Personen innerhalb und ausserhalb des Gefängnisses.
 
-<sup>2</sup> Die inhaftierten Personen erhalten für die zugewiesene Arbeit ein Arbeitsentgelt gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission über das Arbeitsentgelt in Strafvollzugsanstalten<sup>13</sup>.
+<sup>2</sup> Die inhaftierten Personen erhalten für die zugewiesene Arbeit ein Arbeitsentgelt gemäss den Richtlinien der Ostschweizerischen Strafvollzugskommission über das Arbeitsentgelt in Strafvollzugsanstalten<sup>15</sup>.
 
-<sup>3</sup> Kann eine inhaftierte arbeitswillige Person aus gesundheitlichen Gründen oder infolge Arbeitsmangel nicht arbeiten, wird ihr der von den Richtlinien<sup>13</sup> festgelegte Mindestansatz, jedoch nicht mehr, als sie vorher erhalten hat, ausgerichtet.
+**35**
+
+- 1\. 7. 21 - 113
+
+<sup>3</sup> Kann eine inhaftierte arbeitswillige Person aus gesundheitlichen Gründen oder infolge Arbeitsmangel nicht arbeiten, wird ihr der von den Richtlinien<sup>15</sup> festgelegte Mindestansatz, jedoch nicht mehr, als sie vorher erhalten hat, ausgerichtet.
 
 #### § 132
 
@@ -1342,11 +1415,11 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 **Sozialberatung**
 
-§ 133.<sup>22</sup> <sup>1</sup> Die inhaftierten Personen können zur Behandlung persönlicher Probleme im Zusammenhang mit der Haft oder der Vorbereitung der Entlassung Sozialberatung beantragen.
+§ 133.<sup>24</sup> <sup>1</sup> Die inhaftierten Personen können zur Behandlung persönlicher Probleme im Zusammenhang mit der Haft oder der Vorbereitung der Entlassung Sozialberatung beantragen.
 
-<sup>2</sup> Kontakte im Rahmen der Sozialberatung erfolgen unter Vorbehalt von § 121 Abs. 4 unbeaufsichtigt. Sollen Kontakte zwischen der inhaftierten Person und Dritten hergestellt werden, ist die Zustimmung der Verfahrensleitung gemäss Art. 236 StPO einzuholen. Besondere Anordnungen der Verfahrensleitung bleiben vorbehalten.
+<sup>2</sup> Kontakte im Rahmen der Sozialberatung erfolgen unter Vorbehalt von § 121 Abs. 4 unbeaufsichtigt. Sollen Kontakte zwischen der inhaftierten Person und Dritten hergestellt werden, ist die Zustimmung der Verfahrensleitung gemäss Art. 61<sup>29</sup> StPO einzuholen. Besondere Anordnungen der Verfahrensleitung bleiben vorbehalten.
 
-<sup>3</sup> Die zuständige Strafverfolgungsbehörde und die Verfahrensleitung des Gerichts gemäss Art. 236 StPO erteilen Auskünfte über wichtige soziale Probleme.
+<sup>3</sup> Die zuständige Strafverfolgungsbehörde und die Verfahrensleitung des Gerichts gemäss Art. 61<sup>29</sup> StPO erteilen Auskünfte über wichtige soziale Probleme.
 
 #### § 134
 
@@ -1354,27 +1427,25 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 <sup>1</sup> Die Strafverfolgungsbehörde kontrolliert die Korrespondenz und andere Sendungen. Sie kann zur Sicherung des Untersuchungszwecks einschränkende Anordnungen erlassen oder die Korrespondenz mit bestimmten Personen, nahe Angehörige ausgenommen, vollständig untersagen. Die Strafverfolgungsbehörde kann die Kontrolle ganz oder teilweise an das Gefängnis delegieren.
 
-<sup>2</sup> Den inhaftierten Personen ist der telefonische Verkehr in der Vollzugseinrichtung nicht gestattet. Das Amt kann in bestimmten Vollzugseinrichtungen oder Abteilungen davon den telefonischen Verkehr gestatten.<sup>22</sup>
+<sup>2</sup> Den inhaftierten Personen ist der telefonische Verkehr in der Vollzugseinrichtung nicht gestattet. Das Amt kann in bestimmten Vollzugseinrichtungen oder Abteilungen davon den telefonischen Verkehr gestatten.<sup>24</sup>
 
 **b. Besuche**
 
 § 135. <sup>1</sup> Die inhaftierten Personen können mindestens einmal pro Woche besucht werden.
 
-<sup>2</sup> Besuche sind nur mit Bewilligung der Verfahrensleitung gemäss Art. 236 StPO zulässig. Diese kann bei Kollusionsgefahr Auflagen erlassen, die Überwachung oder Aufzeichnung der Gespräche anordnen und bestimmte Personen vom Besuch ausschliessen.<sup>22</sup>
+<sup>2</sup> Besuche sind nur mit Bewilligung der Verfahrensleitung gemäss Art. 61<sup>29</sup> StPO zulässig. Diese kann bei Kollusionsgefahr Auflagen erlassen, die Überwachung oder Aufzeichnung der Gespräche anordnen und bestimmte Personen vom Besuch ausschliessen.<sup>24</sup>
 
 <sup>3</sup> Ehegatten, eingetragene Partnerinnen oder Partner, Lebenspartnerinnen oder -partner, Kinder, Eltern oder Geschwister dürfen nicht dauerhaft vom Besuch ausgeschlossen werden.
 
-**35**
-
-- 1\. 4. 20 - 108 § 136.<sup>18</sup> Das Recht auf privilegierte Kontakte und Besuche ohne Überwachung gemäss § 121 steht nur zu:
-
 **c. Privilegierte Kontakte**
+
+§ 136.<sup>20</sup> Das Recht auf privilegierte Kontakte und Besuche ohne Überwachung gemäss § 121 steht nur zu:
 
 - a. der zugelassenen Rechtsvertreterin oder dem zugelassenen Rechtsvertreter,
 
 - b. der Vormundin oder dem Vormund,
 
-- c. der Beiständin oder dem Beistand gemäss Art. 398 ZGB<sup>7</sup>,
+- c. der Beiständin oder dem Beistand gemäss Art. 398 ZGB[^134-1],
 
 - d. der durch einen wirksam gewordenen Vorsorgeauftrag beauftragten Person,
 
@@ -1382,27 +1453,31 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 - f. konsularischen Vertretungen.
 
-### 5. Teil: Vorbereitungs-, Ausschaffungs- und Durchsetzungshaft<sup>16</sup>
+[^134-1]: SR 210.
+
+### 5. Teil: Vorbereitungs-, Ausschaffungs- und Durchsetzungshaft<sup>18</sup>
 
 **Anwendbare Bestimmungen**
 
-§ 137.<sup>16</sup> Die Durchführung der Vorbereitungs-, Ausschaffungs- und Durchsetzungshaft erfolgt nach den Bestimmungen des 3. Teils, Abschnitte 1 und 3, soweit nachfolgend nicht abweichende Regelungen getroffen werden.
+§ 137.<sup>18</sup> Die Durchführung der Vorbereitungs-, Ausschaffungs- und Durchsetzungshaft erfolgt nach den Bestimmungen des 3. Teils, Abschnitte 1 und 3, soweit nachfolgend nicht abweichende Regelungen getroffen werden.
 
 **Aufnahme und Entlassung**
 
-§ 138.<sup>16</sup> Die Aufnahme in die Vollzugseinrichtung und die Entlassung erfolgen auf schriftliche Anordnung der gemäss dem AuG<sup>5</sup> und den kantonalen Vorschriften dafür zuständigen Stelle.
+§ 138.<sup>29</sup> Die Aufnahme in die Vollzugseinrichtung und die Entlassung erfolgen auf schriftliche Anordnung der gemäss dem AIG und den kantonalen Vorschriften dafür zuständigen Stelle.
 
 **Trennung von anderen Haftarten**
 
-§ 139.<sup>22</sup> Die Durchführung erfolgt getrennt von der Untersuchungs-, Sicherheits- und Auslieferungshaft und dem Vollzug von Freiheitsstrafen oder Massnahmen. Vorbehalten bleibt Art. 81 Abs. 2 Satz 2 AuG<sup>5</sup>.
-
-#### § 140
+§ 139.<sup>29</sup> Die Durchführung erfolgt getrennt von der Untersuchungs-, Sicherheits- und Auslieferungshaft und dem Vollzug von Freiheitsstrafen oder Massnahmen. Vorbehalten bleibt Art. 81 Abs. 2 Satz 2 AIG.
 
 **Unterbringung**
 
-<sup>1</sup> Den inhaftierten Personen wird nach Möglichkeit eine Einzelzelle zugewiesen. Vorbehalten bleibt die gemeinsame Unterbringung von Säuglingen und Kleinkindern mit ihren Müttern oder Vätern und von Familienangehörigen gleichen Geschlechts.
+§ 140.<sup>29</sup> <sup>1</sup> Den inhaftierten Personen wird nach Möglichkeit eine Einzelzelle zugewiesen. Vorbehalten bleibt die gemeinsame Unterbringung von Säuglingen und Kleinkindern mit ihren Müttern oder Vätern, von Familienangehörigen gleichen Geschlechts, von Ehegatten, von eingetragenen Partnerinnen und Partnern sowie von Lebenspartnerinnen und -partnern.
 
-<sup>2</sup> Frauen und Männer werden getrennt untergebracht. Die Hausordnung regelt, in welchem Umfang weibliche und männliche Angehörige der gleichen Familie die Freizeit gemeinsam verbringen dürfen.
+**37**
+
+- 1\. 7. 21 - 113
+
+<sup>2</sup> Ansonsten werden Frauen und Männer getrennt untergebracht. Die Hausordnung regelt, in welchem Umfang weibliche und männliche Angehörige der gleichen Familie die Freizeit gemeinsam verbringen dürfen.
 
 #### § 141
 
@@ -1450,11 +1525,11 @@ Die inhaftierten Personen sind berechtigt, sich selbst zu beschäftigen. Die sel
 
 <sup>2</sup> Müssen inhaftierte Personen mit Wohnsitz im Kanton in einer ausserkantonalen Klinik untergebracht werden, trägt die Gesundheitsdirektion die deswegen anfallenden Mehrkosten.
 
-**37**
-
-- 1\. 4. 20 - 108 § 146. <sup>1</sup> Die inhaftierten Personen können sich durch Ärztinnen und Ärzte betreuen lassen, bei denen sie vor der Haft in Behandlung standen, wenn deren Bezahlung sichergestellt ist.
+#### § 146
 
 **Ärztliche Betreuung**
+
+<sup>1</sup> Die inhaftierten Personen können sich durch Ärztinnen und Ärzte betreuen lassen, bei denen sie vor der Haft in Behandlung standen, wenn deren Bezahlung sichergestellt ist.
 
 <sup>2</sup> Die Behandlung erfolgt in der Vollzugseinrichtung.
 
@@ -1486,19 +1561,25 @@ Die inhaftierten Personen sind berechtigt, sich selbst zu beschäftigen. Die sel
 
 <sup>2</sup> Bestehen konkrete Hinweise, dass Telefongespräche die Sicherheit oder den Haftzweck gefährden oder zur Fluchthilfe missbraucht werden, kann vorübergehend der Telefonverkehr mit bestimmten Personen ausgeschlossen oder auf bestimmte Personen beschränkt werden.
 
-#### § 150
+**39**
+
+- 1\. 7. 21 - 113 § 150. <sup>1</sup> Die inhaftierten Personen können entsprechend der Verfügbarkeit der Besuchsräumlichkeiten besucht werden. Die Besuchszeit beträgt mindestens eine Stunde pro Woche.
 
 **c. Besuche**
-
-<sup>1</sup> Die inhaftierten Personen können entsprechend der Verfügbarkeit der Besuchsräumlichkeiten besucht werden. Die Besuchszeit beträgt mindestens eine Stunde pro Woche.
 
 <sup>2</sup> Besucherinnen und Besucher haben bei der Gefängnisleitung eine Besuchsbewilligung einzuholen. Diese kann allgemein erteilt werden.
 
 <sup>3</sup> Besuche werden nicht überwacht. Die Identität der Besucherinnen und Besucher wird festgehalten.
 
+**d. Privilegierte Kontakte**
+
+§ 150 a.<sup>28</sup> Zusätzlich zu § 121 Abs. 1 sind auch die Kontakte mit nichtanwaltlichen Rechtsvertreterinnen und Rechtsvertretern im Sinne von Art. 81 Abs. 1 Satz 2 AIG in Verbindung mit § 6 Abs. 1 und 2 der Verordnung über den Vollzug der Zwangsmassnahmen im Ausländerrecht vom 4. Dezember 1996[^149-1] mit den inhaftierten Personen privilegiert. § 121 Abs. 1, 2 und 4 sind anwendbar.
+
+[^149-1]: LS 211.56.
+
 #### § 151
 
-**d. Vorführung**
+**e. Vorführung29**
 
 <sup>1</sup> Die einweisende Stelle kann das Verlassen der Vollzugseinrichtung bewilligen für:
 
@@ -1518,19 +1599,17 @@ Die inhaftierten Personen sind berechtigt, sich selbst zu beschäftigen. Die sel
 
 Das Disziplinarwesen dient zur Aufrechterhaltung der Ordnung und Sicherheit in den Vollzugseinrichtungen.
 
-§§ 153–155.<sup>17</sup>
+§§ 153–155.<sup>19</sup>
 
 **Sicherstellung und Beschlagnahmung**
 
 § 156. <sup>1</sup> Gegenstände, die bei der Begehung von Disziplinarverstössen verwendet wurden, werden sichergestellt. Sie werden zu den Effekten gelegt, wenn das Eigentum festgestellt werden kann.
 
-<sup>2</sup> Ist die Feststellung des Eigentums nicht möglich, werden die Gegenstände zugunsten eines Fonds zur Unterstützung von Gefangenen oder Entlassenen verwertet. Ist eine Verwertung nicht möglich oder eignen sich die Gegenstände nur zu einem rechtswidrigen Gebrauch, werden sie vernichtet.
+<sup>2</sup> Ist die Feststellung des Eigentums nicht möglich oder gefährden die Gegenstände die Sicherheit und Ordnung der Vollzugseinrichtung, werden sie verwertet oder vernichtet. Der Verwertungserlös fliesst einem Fonds zur Unterstützung von Gefangenen oder Entlassenen zu.<sup>29</sup>
 
-§§ 157 und 158.<sup>17</sup>
+§§ 157 und 158.<sup>19</sup> § 159. Bei Disziplinarvergehen, die den sicheren oder ordnungsgemässen Betrieb der Vollzugseinrichtung erheblich oder wiederholt stören, kann in dringenden Fällen mit dem Disziplinarentscheid eine vorsorgliche Versetzung bis zum Entscheid der einweisenden Behörde im Sinne der §§ 54, 57, 59 oder 65 angeordnet werden, und zwar<sup>18</sup> a. vom offenen Vollzug in den geschlossenen Vollzug,
 
 **Vorsorgliche Versetzung**
-
-§ 159. Bei Disziplinarvergehen, die den sicheren oder ordnungsgemässen Betrieb der Vollzugseinrichtung erheblich oder wiederholt stören, kann in dringenden Fällen mit dem Disziplinarentscheid eine vorsorgliche Versetzung bis zum Entscheid der einweisenden Behörde im Sinne der §§ 54, 57, 59 oder 65 angeordnet werden, und zwar<sup>16</sup> a. vom offenen Vollzug in den geschlossenen Vollzug,
 
 - b. von der Halbgefangenschaft oder dem Arbeitsexternat in den offenen oder geschlossenen Vollzug.
 
@@ -1540,10 +1619,6 @@ Das Disziplinarwesen dient zur Aufrechterhaltung der Ordnung und Sicherheit in d
 
 <sup>1</sup> Die Busse wird bei inhaftierten Personen im offenen oder geschlossenen Vollzug von dem für die Barauszahlung oder den Einkauf vorgesehenen Teil des Arbeitsentgelts bezogen. Bis zu ihrer vollständigen Bezahlung wird der verurteilten Person kein Bargeldbetrag ausbezahlt, unter Vorbehalt des notwendigen Mindestbetrags für die Deckung unumgänglicher Auslagen und den Einkauf dringend erforderlicher Artikel.
 
-**39**
-
-- 1\. 4. 20 - 108
-
 <sup>2</sup> Die Disziplinarbussen fallen einem Fonds zur Unterstützung von Gefangenen oder Entlassenen zu.
 
 #### § 161
@@ -1552,7 +1627,7 @@ Das Disziplinarwesen dient zur Aufrechterhaltung der Ordnung und Sicherheit in d
 
 <sup>1</sup> Der Arrest wird in den dafür bestimmten Zellen der Vollzugseinrichtung vollzogen, in denen sich nur eine Liegegelegenheit und die für die Hygiene unumgänglichen Einrichtungsgegenstände befinden. Die Zelle darf nur für den Aufenthalt im Freien verlassen werden.
 
-<sup>2</sup> Während des Arrests bleibt die inhaftierte Person von Arbeit, Freizeitbeschäftigung, Veranstaltungen und Einkauf ausgeschlossen. Sie darf in der Zelle nicht rauchen und erhält weder Besuch noch Urlaub. Sie erhält eine beschränkte Auswahl von Lesestoff und darf weder Briefe schreiben noch empfangen. Vorbehalten bleibt der Verkehr mit Behörden und der Rechtsvertreterin oder dem Rechtsvertreter.<sup>16</sup>
+<sup>2</sup> Während des Arrests bleibt die inhaftierte Person von Arbeit, Freizeitbeschäftigung, Veranstaltungen und Einkauf ausgeschlossen. Sie darf in der Zelle nicht rauchen und erhält weder Besuch noch Urlaub. Sie erhält eine beschränkte Auswahl von Lesestoff und darf weder Briefe schreiben noch empfangen. Vorbehalten bleibt der Verkehr mit Behörden und der Rechtsvertreterin oder dem Rechtsvertreter.<sup>18</sup>
 
 <sup>3</sup> Die Leitung der Vollzugseinrichtung kann Erleichterungen beim Vollzug des Arrests vorsehen. Wenn besondere Gründe, insbesondere gesundheitlicher Natur, dies erfordern, kann der Arrest in einer Normalzelle mit reduzierter Ausrüstung vollzogen werden.
 
@@ -1570,6 +1645,10 @@ Für den Vollzug des Arrests können verurteilte Personen in Halbgefangenschaft,
 
 <sup>2</sup> Arrest von mehr als fünf Tagen und die vorsorgliche Versetzung gemäss § 159 werden von der für die Vollzugseinrichtung zuständigen Hauptabteilungsleitung angeordnet.
 
+**41**
+
+- 1\. 7. 21 - 113
+
 <sup>3</sup> Liegt Gefahr im Verzug, kann die Leitung der Vollzugseinrichtung die vorsorgliche Versetzung gemäss § 159 anordnen. Sie holt umgehend die Zustimmung der zuständigen Hauptabteilungsleitung ein.
 
 #### § 164
@@ -1582,13 +1661,15 @@ Für den Vollzug des Arrests können verurteilte Personen in Halbgefangenschaft,
 
 <sup>3</sup> Der Disziplinarentscheid wird mit kurzer Begründung und Rechtsmittelbelehrung schriftlich mitgeteilt und der inhaftierten Person in einer verständlichen Sprache erläutert. Bei zeitlicher Dringlichkeit wird der Entscheid mündlich eröffnet und sobald als möglich schriftlich bestätigt.
 
-<sup>4</sup> Mit Ausnahme von leichten Fällen im Sinne von § 23 b Abs. 4 StJVG<sup>3</sup> wird die einweisende Behörde über Disziplinarvergehen benachrichtigt.<sup>16</sup>
+<sup>4</sup> Mit Ausnahme von leichten Fällen im Sinne von § 23 b Abs. 4 StJVG[^164-1] wird die einweisende Behörde über Disziplinarvergehen benachrichtigt.<sup>18</sup>
 
 **Anwendbares Recht**
 
 § 165. <sup>1</sup> Bei der Beurteilung von Disziplinarvergehen werden die Bestimmungen des Allgemeinen Teils des Strafgesetzbuches sinngemäss angewendet.
 
-<sup>2</sup> Soweit in den Bestimmungen dieses Abschnitts keine abweichenden Regelungen getroffen werden, werden die Richtlinien der Ostschweizerischen Strafvollzugskommission für das Disziplinarrecht in den Konkordatsanstalten<sup>13</sup> angewendet.
+<sup>2</sup> Soweit in den Bestimmungen dieses Abschnitts keine abweichenden Regelungen getroffen werden, werden die Richtlinien der Ostschweizerischen Strafvollzugskommission für das Disziplinarrecht in den Konkordatsanstalten<sup>15</sup> angewendet.
+
+[^164-1]: LS 331.
 
 #### § 166
 
@@ -1604,7 +1685,9 @@ Für den Vollzug des Arrests können verurteilte Personen in Halbgefangenschaft,
 
 **Rekurs**
 
-§ 167.<sup>14</sup> Die Anordnungen des Amts<sup>25</sup> und seiner Hauptabteilungen können mit Rekurs nach §§ 19 ff. des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959<sup>2</sup> angefochten werden.
+§ 167.<sup>16</sup> Die Anordnungen des Amts<sup>27</sup> und seiner Hauptabteilungen können mit Rekurs nach §§ 19 ff. des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^h7TeilRechtsmitte-1] angefochten werden.
+
+[^h7TeilRechtsmitte-1]: LS 175.2.
 
 #### § 168
 
@@ -1612,60 +1695,38 @@ Für den Vollzug des Arrests können verurteilte Personen in Halbgefangenschaft,
 
 Für die Erprobung neuer Vollzugsformen und für Versuche zur Weiterentwicklung des Justizvollzugs kann die Direktion der Justiz und des Innern zeitlich beschränkte Abweichungen von dieser Verordnung bewilligen. Die Rechte der verurteilten oder inhaftierten Personen dürfen dabei nicht über die in dieser Verordnung bereits formulierten Beschränkungen hinaus beschnitten werden.
 
-§ 169.<sup>23</sup>
-
-**41**
-
-- 1\. 4. 20 - 108 § 170. Diese Verordnung tritt am 1. Januar 2007 in Kraft.
+§ 169.<sup>25</sup>
 
 **Inkrafttreten**
 
-<sup>1</sup> OS 61, 546; Begründung siehe ABl 2006, 1771.
+§ 170. Diese Verordnung tritt am 1. Januar 2007 in Kraft.
 
-<sup>2</sup> LS 175.2.
+<sup>15</sup> Einsichtnahme in die Richtlinien unter www. justizvollzug.zh.ch.
 
-<sup>3</sup> LS 331.
+<sup>16</sup> Fassung gemäss RRB vom 26. Mai 2010 (OS 65, 342; ABl 2010, 1187). In Kraft seit 1. Juli 2010.
 
-<sup>4</sup> LS 334.
+<sup>17</sup> Eingefügt durch RRB vom 3. November 2010 (OS 65, 789; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
 
-<sup>5</sup> SR 142.20.
+<sup>18</sup> Fassung gemäss RRB vom 3. November 2010 (OS 65, 789; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
 
-<sup>6</sup> SR 150.2.
+<sup>19</sup> Aufgehoben durch RRB vom 3. November 2010 (OS 65, 789; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
 
-<sup>7</sup> SR 210.
+<sup>20</sup> Fassung gemäss RRB vom 7. November 2012 (OS 67, 603; ABl 2012-11-16). In Kraft seit 1. Januar 2013.
 
-<sup>8</sup> SR 311.0.
+<sup>21</sup> Eingefügt durch RRB vom 19. März 2014 (OS 69, 123; ABl 2014-03-28). In Kraft seit 1. April 2014.
 
-<sup>9</sup> SR 311.01.
+<sup>22</sup> Fassung gemäss RRB vom 19. März 2014 (OS 69, 123; ABl 2014-03-28). In Kraft seit 1. April 2014.
 
-<sup>10</sup> SR 311.1.
+<sup>23</sup> Eingefügt durch RRB vom 6. Dezember 2017 (OS 72, 682; ABl 2017-12-15). In Kraft seit 1. Januar 2018.
 
-<sup>11</sup> SR 312.0.
+<sup>24</sup> Fassung gemäss RRB vom 6. Dezember 2017 (OS 72, 682; ABl 2017-12-15). In Kraft seit 1. Januar 2018.
 
-<sup>12</sup> SR 351.1.
+<sup>25</sup> Aufgehoben durch RRB vom 6. Dezember 2017 (OS 72, 682; ABl 2017-12- 15). In Kraft seit 1. Januar 2018.
 
-<sup>13</sup> Einsichtnahme in die Richtlinien unter www. justizvollzug.zh.ch.
+<sup>26</sup> Eingefügt durch RRB vom 12. Februar 2020 (OS 75, 78; ABl 2020-02-21). In Kraft seit 1. April 2020.
 
-<sup>14</sup> Fassung gemäss RRB vom 26. Mai 2010 (OS 65, 342; ABl 2010, 1187). In Kraft seit 1. Juli 2010.
+<sup>27</sup> Fassung gemäss RRB vom 12. Februar 2020 (OS 75, 78; ABl 2020-02-21). In Kraft seit 1. April 2020.
 
-<sup>15</sup> Eingefügt durch RRB vom 3. November 2010 (OS 65, 789; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
+<sup>28</sup> Eingefügt durch RRB vom 21. April 2021 (OS 76, 201; ABl 2021-04-30). In Kraft seit 1. Juli 2021.
 
-<sup>16</sup> Fassung gemäss RRB vom 3. November 2010 (OS 65, 789; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
-
-<sup>17</sup> Aufgehoben durch RRB vom 3. November 2010 (OS 65, 789; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
-
-<sup>18</sup> Fassung gemäss RRB vom 7. November 2012 (OS 67, 603; ABl 2012-11-16). In Kraft seit 1. Januar 2013.
-
-<sup>19</sup> Eingefügt durch RRB vom 19. März 2014 (OS 69, 123; ABl 2014-03-28). In Kraft seit 1. April 2014.
-
-<sup>20</sup> Fassung gemäss RRB vom 19. März 2014 (OS 69, 123; ABl 2014-03-28). In Kraft seit 1. April 2014.
-
-<sup>21</sup> Eingefügt durch RRB vom 6. Dezember 2017 (OS 72, 682; ABl 2017-12-15). In Kraft seit 1. Januar 2018.
-
-<sup>22</sup> Fassung gemäss RRB vom 6. Dezember 2017 (OS 72, 682; ABl 2017-12-15). In Kraft seit 1. Januar 2018.
-
-<sup>23</sup> Aufgehoben durch RRB vom 6. Dezember 2017 (OS 72, 682; ABl 2017-12- 15). In Kraft seit 1. Januar 2018.
-
-<sup>24</sup> Eingefügt durch RRB vom 12. Februar 2020 (OS 75, 78; ABl 2020-02-21). In Kraft seit 1. April 2020.
-
-<sup>25</sup> Fassung gemäss RRB vom 12. Februar 2020 (OS 75, 78; ABl 2020-02-21). In Kraft seit 1. April 2020.
+<sup>29</sup> Fassung gemäss RRB vom 21. April 2021 (OS 76, 201; ABl 2021-04-30). In Kraft seit 1. Juli 2021.
