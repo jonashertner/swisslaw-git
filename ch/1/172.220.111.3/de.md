@@ -4,11 +4,11 @@ title: Bundespersonalverordnung vom 3. Juli 2001 (BPV)
 short: BPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210101/de"
 
 (BPV)
 
-vom 3. Juli 2001 (Stand am 1. Januar 2021)
+vom 3. Juli 2001 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -303,6 +303,22 @@ Die Arbeit ist durch Pausen von folgender Mindestdauer zu unterbrechen:
 
 [^10b-1]: Eingefügt durch Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^10b-2]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+
+#### Art. 10c
+
+**Gesundheitsschutz bei mobilem Arbeiten**[^10c-1]
+
+### (Art. 32 Bst. d BPG)
+
+<sup>1</sup> Bei mobilem Arbeiten stellt der Arbeitgeber sicher, dass der Arbeitsplatz und die Arbeitsbedingungen der Angestellten den Vorschriften des Bundesgesetzes vom 20. März 1981[^10c-2] über die Unfallversicherung, des Arbeitsgesetzes vom 13. März 1964[^10c-3] und seinen Ausführungsbestimmungen über den Gesundheitsschutz entsprechen. Er überprüft die Einhaltung der Vorschriften regelmässig.
+
+<sup>2</sup> Die Angestellten sind verpflichtet, bei der Überprüfung des Arbeitsplatzes bei mobilem Arbeiten mitzuwirken und die Vorgaben des Arbeitgebers betreffend den Gesundheitsschutz zu befolgen.
+
+<sup>3</sup> Unter mobilem Arbeiten versteht man die Erbringung der Arbeitsleistung an einem anderen Ort als in den Räumlichkeiten, die vom Arbeitgeber am Arbeitsort nach Artikel 25 Absatz 2 Buchstabe c zur Verfügung gestellt werden.
+
+[^10c-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^10c-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^10c-3]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
 #### Art. 11
 
@@ -1512,6 +1528,35 @@ Bei Krankheit oder Unfall während Dienstreisen im Ausland übernimmt der Arbeit
 [^60a-4]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^60a-5]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
+#### Art. 60b
+
+[^60b-1]
+
+[^60b-1]: Tritt am 1. Jan. 2022 in Kraft ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+
+#### Art. 60c
+
+**Urlaub für die Betreuung von gesundheitlich schwer beeinträchtigten Kindern**[^60c-1]
+
+### (Art. 17*a* BPG)
+
+<sup>1</sup> Bei Arbeitsaussetzung wegen Betreuung von infolge Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindern werden den Angestellten während höchstens 14 Wochen der volle Lohn und die Sozialzulagen ausgerichtet.
+
+<sup>2</sup>
+
+Ein Kind ist gesundheitlich schwer beeinträchtigt, wenn:
+
+- a. eine einschneidende Veränderung seines körperlichen oder psychischen Zustandes eingetreten ist;
+- b. der Verlauf oder der Ausgang dieser Veränderung schwer vorhersehbar ist oder mit einer bleibenden oder zunehmenden Beeinträchtigung oder dem Tod zu rechnen ist;
+- c. ein erhöhter Bedarf an Betreuung durch die Eltern besteht; und
+- d. mindestens ein Elternteil die Erwerbstätigkeit für die Betreuung des Kindes unterbrechen muss.
+
+<sup>3</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem ersten Tag der Arbeitsaussetzung gemäss Absatz 1.
+
+<sup>4</sup> Pro Krankheitsfall oder Unfall entsteht nur ein Anspruch. Ein Rückfall, der nach einer längeren beschwerdefreien Zeit eintritt, gilt als neues Ereignis.
+
+[^60c-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+
 #### Art. 61
 
 **Lohnfortzahlung bei Adoption**
@@ -1580,7 +1625,19 @@ Das EFD hat folgende Aufgaben:
 
 #### Art. 64a
 
-**Arbeitszeitmodelle**[^64a-1]
+**Flexible Arbeitsformen**[^64a-1]
+
+### (Art. 17*a* BPG)
+
+<sup>1</sup> Soweit es betrieblich möglich ist, fördern die Vorgesetzten die flexiblen Arbeitsformen in Bezug auf die Arbeitszeit und den Arbeitsort.
+
+<sup>2</sup> Die Vorgesetzten vereinbaren mit den Angestellten die Orte, an denen die Arbeitsleistung erbracht wird. Sie gewähren den Angestellten unter Berücksichtigung der betrieblichen Interessen eine möglichst grosse Wahlfreiheit.
+
+[^64a-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+
+#### Art. 64a<sup>bis</sup>
+
+**Arbeitszeitmodelle**[^64abis-1]
 
 ### (Art. 17*a* BPG)
 
@@ -1594,7 +1651,7 @@ Das EFD hat folgende Aufgaben:
 
 <sup>5</sup> Die zuständige Stelle nach Artikel 2 kann das Arbeitszeitmodell vor Ablauf der vereinbarten Dauer aus sachlichen Gründen und unter Einhaltung der Fristen nach Artikel 30*a* Absatz 2 einseitig anpassen. Krankheit und Unfall stellen keine sachlichen Gründe dar.
 
-[^64a-1]: Eingefügt durch Ziff. I der V vom 24. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
+[^64abis-1]: Ursprünglich: Art. 64*a*. Eingefügt durch Ziff. I der V vom 24. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
 
 #### Art. 64b
 
@@ -1608,19 +1665,20 @@ Das EFD hat folgende Aufgaben:
 
 <sup>2</sup> Für Angestellte der Lohnklassen 30–38 ist Vertrauensarbeitszeit obligatorisch.
 
-<sup>3</sup> Angestellte der Lohnklassen 24–29 können Vertrauensarbeitszeit mit ihren Vorgesetzten vereinbaren.
+<sup>3</sup> Angestellte der Lohnklassen 18–29 können Vertrauensarbeitszeit mit ihren Vorgesetzten vereinbaren.[^64b-3]
 
-<sup>4</sup> Angestellte der Lohnklassen 1–23 sowie Angestellte, die vom Arbeitgeber zusätzliche Beiträge nach Artikel 3 Absatz 2 Buchstabe a oder b der Verordnung vom 20. Februar 2013[^64b-3] über die Pensionierung von Angehörigen der besonderen Personalkategorien erhalten, sind von der Vertrauensarbeitszeit ausgeschlossen.[^64b-4]
+<sup>4</sup> Angestellte der Lohnklassen 1–17 sowie Angestellte, die vom Arbeitgeber zusätzliche Beiträge nach Artikel 3 Absatz 2 Buchstabe a oder b der Verordnung vom 20. Februar 2013[^64b-4] über die Pensionierung von Angehörigen der besonderen Personalkategorien erhalten, sind von der Vertrauensarbeitszeit ausgeschlossen.[^64b-5]
 
-<sup>5</sup> Anstelle der Kompensation für Mehrarbeit, Überzeit und Gleitzeit erhalten Angestellte mit Vertrauensarbeitszeit eine jährliche Entschädigung in Form einer Barvergütung von 6 Prozent des Jahreslohnes. Die Angestellten können sich im Einvernehmen mit den Vorgesetzten anstelle der Barvergütung ausnahmsweise zehn Ausgleichstage oder 100 Stunden auf ein Sabbaticalkonto gutschreiben lassen.[^64b-5]
+<sup>5</sup> Anstelle der Kompensation für Mehrarbeit, Überzeit und Gleitzeit erhalten Angestellte mit Vertrauensarbeitszeit eine jährliche Entschädigung in Form einer Barvergütung von 6 Prozent des Jahreslohnes. Die Angestellten können sich im Einvernehmen mit den Vorgesetzten anstelle der Barvergütung ausnahmsweise zehn Ausgleichstage oder 100 Stunden auf ein Sabbaticalkonto gutschreiben lassen.[^64b-6]
 
 <sup>6</sup> Die Ausgleichstage sind in dem Kalenderjahr zu beziehen, in welchem der Anspruch entsteht. Ist dies wegen Krankheit, Unfall oder Mutterschaftsurlaub nicht möglich, so sind sie im Folgejahr zu beziehen. Werden die Ausgleichstage aus anderen Gründen nicht bezogen, verfallen sie entschädigungslos.
 
 [^64b-1]: Ursprünglich Art. 64*a*. Eingefügt durch Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)).
 [^64b-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^64b-3]: [SR 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
-[^64b-4]: Fassung gemäss Ziff. I der V vom 24. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^64b-5]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^64b-3]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^64b-4]: [SR 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
+[^64b-5]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^64b-6]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
 #### Art. 65
 
@@ -1751,9 +1809,11 @@ Ferien werden im Verhältnis zur Dauer der Abwesenheit gekürzt, wenn die angest
 
 <sup>2</sup> Verwenden Angestellte im Einvernehmen mit dem Arbeitgeber eigene Arbeitsgeräte und Materialien, so kann ihnen dafür eine Vergütung ausgerichtet werden.
 
-<sup>3</sup> Die Bestimmungen nach den Absätzen 1 und 2 gelten auch für Angestellte, die im Einvernehmen mit dem Arbeitgeber voll- oder teilzeitlich an ihrem Wohnort arbeiten. Nicht vergütet wird die Miete der zu Arbeitszwecken benutzten privaten Räumlichkeiten. Aus wichtigen Gründen kann die zuständige Stelle nach Artikel 2 ausnahmsweise Mieten vergüten.
+<sup>3</sup> Der Arbeitgeber stellt Angestellten, die an den vereinbarten Orten nach Artikel 64*a* Absatz 2 arbeiten, die notwendige technische Infrastruktur und das für die Aufgabenerfüllung benötigte Material zur Verfügung.[^69-1]
 
 <sup>4</sup> Die Departemente regeln die Einzelheiten für ihre Bereiche. Insbesondere bestimmen sie über die Notwendigkeit der zu verwendenden Arbeitsgeräte und Materialien.
+
+[^69-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 70
 
@@ -1805,9 +1865,11 @@ Das EFD regelt die Vergütungen für:
 - b. Dienstreisen ins Ausland;
 - c. die Teilnahme an internationalen Konferenzen;
 - d. den Umzug aus dienstlichen Gründen;
-- e. Repräsentationsauslagen.
+- e. Repräsentationsauslagen;
+- f.[^72-2] Auslagen für mobiles Arbeiten.
 
 [^72-1]: Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^72-2]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 73
 

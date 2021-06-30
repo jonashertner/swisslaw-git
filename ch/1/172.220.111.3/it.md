@@ -4,11 +4,11 @@ title: Ordinanza del 3 luglio 2001 sul personale federale (OPers)
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210101/it"
 
 (OPers)
 
-del 3 luglio 2001 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 3 luglio 2001 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -303,6 +303,22 @@ Il lavoro giornaliero deve essere interrotto con pause di almeno:
 
 [^10b-1]: Introdotto dal n. I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^10b-2]: Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+
+#### Art. 10c
+
+**Tutela della salute nel lavoro mobile**[^10c-1]
+
+### (art. 32 lett. d LPers)
+
+<sup>1</sup> In caso di lavoro mobilie il datore di lavoro garantisce che il posto e le condizioni di lavoro degli impiegati soddisfino le disposizioni della legge federale del 20 marzo 1981[^10c-2] sull’assicurazione contro gli infortuni, della legge del 13 marzo 1964[^10c-3] sul lavoro e le relative disposizioni esecutive sulla tutela della salute. Esso verifica periodicamente il rispetto delle disposizioni.
+
+<sup>2</sup> Gli impiegati sono tenuti a collaborare alla verifica del posto di lavoro mobile e a osservare le direttive del datore di lavoro relative alla tutela della salute.
+
+<sup>3</sup> Per lavoro mobile si intende la prestazione lavorativa fornita in un luogo diverso dai locali messi a disposizione dal datore di lavoro nel luogo di lavoro di cui all’articolo 25 capoverso 2 lettera c.
+
+[^10c-1]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^10c-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^10c-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
 #### Art. 11
 
@@ -1508,6 +1524,35 @@ In caso di malattia o infortunio durante i viaggi di servizio all’estero, il d
 [^60a-4]: Introdotto dal n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^60a-5]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
+#### Art. 60b
+
+[^60b-1]
+
+[^60b-1]: In vigore dal 1° gen. 2022 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+
+#### Art. 60c
+
+**Congedo di assistenza a figli con gravi problemi di salute**[^60c-1]
+
+### (art. 17*a* LPers)
+
+<sup>1</sup> In caso di interruzione del lavoro a causa dell’assistenza prestata a figli con gravi problemi di salute dovuti a malattia o infortunio, lo stipendio integrale e gli assegni sociali sono versati all’impiegato durante 14 settimane al massimo.
+
+<sup>2</sup>
+
+Un figlio ha gravi problemi di salute, se:
+
+- a. si è verificato un cambiamento radicale del suo stato di salute fisica o psichica;
+- b. il decorso o l’esito di questo cambiamento è difficilmente prevedibile oppure va considerata l’eventualità di un danno permanente o crescente oppure del decesso;
+- c. sussiste un bisogno particolarmente elevato di assistenza da parte dei genitori; e
+- d. almeno un genitore deve interrompere l’attività lucrativa per assistere il figlio.
+
+<sup>3</sup> Il congedo di assistenza deve essere fruito entro un termine quadro di 18 mesi. Il termine quadro decorre dal primo giorno dell’interruzione del lavoro di cui al capoverso 1.
+
+<sup>4</sup> Per ogni caso di malattia o infortunio sussiste un solo diritto. Una ricaduta, che si verifica dopo un periodo prolungato senza disturbi, è considerata un nuovo evento.
+
+[^60c-1]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+
 #### Art. 61
 
 **Continuazione del pagamento dello stipendio in caso di adozione**
@@ -1576,7 +1621,19 @@ Il DFF ha i compiti seguenti:
 
 #### Art. 64a
 
-**Modelli di orario di lavoro**[^64a-1]
+**Forme di lavoro flessibili**[^64a-1]
+
+### (art. 17*a* LPers)
+
+<sup>1</sup> Se l’esercizio lo permette, i superiori promuovono le forme di lavoro flessibili per quanto attiene al tempo e al luogo di lavoro.
+
+<sup>2</sup> I superiori convengono con gli impiegati i luoghi in cui è fornita la prestazione lavorativa. A tal fine accordano la massima libertà di scelta possibile nel rispetto degli interessi aziendali.
+
+[^64a-1]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+
+#### Art. 64a<sup>bis</sup>
+
+**Modelli di orario di lavoro**[^64abis-1]
 
 ### (art. 17*a* LPers)
 
@@ -1590,7 +1647,7 @@ Il DFF ha i compiti seguenti:
 
 <sup>5</sup> L’autorità competente di cui all’articolo 2 può adeguare in modo unilaterale il modello di orario di lavoro prima della scadenza della durata convenuta per motivi oggettivi e nel rispetto dei termini di cui all’articolo 30*a* capoverso 2. Malattie e infortuni non costituiscono motivi oggettivi.
 
-[^64a-1]: Introdotto dal n. I dell’O del 24 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
+[^64abis-1]: Originario art. 64*a*. Introdotto dal n. I dell’O del 24 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
 
 #### Art. 64b
 
@@ -1604,19 +1661,20 @@ Il DFF ha i compiti seguenti:
 
 <sup>2</sup> Per gli impiegati assegnati alle classi di stipendio 30–38 l’orario di lavoro basato sulla fiducia è obbligatorio.
 
-<sup>3</sup> Gli impiegati assegnati alle classi di stipendio 24–29 possono convenire con il loro superiore l’orario di lavoro basato sulla fiducia.
+<sup>3</sup> Gli impiegati assegnati alle classi di stipendio 18–29 possono convenire con il loro superiore l’orario di lavoro basato sulla fiducia.[^64b-3]
 
-<sup>4</sup> Gli impiegati assegnati alle classi di stipendio 1–23 e gli impiegati che ricevono dal datore di lavoro contributi supplementari ai sensi dell’articolo 3 capoverso 2 lettera a o b dell’ordinanza del 20 febbraio 2013[^64b-3] concernente il pensionamento in particolari categorie di personale non possono convenire l’orario di lavoro basato sulla fiducia.[^64b-4]
+<sup>4</sup> Gli impiegati assegnati alle classi di stipendio 1–17 e gli impiegati che ricevono dal datore di lavoro contributi supplementari ai sensi dell’articolo 3 capoverso 2 lettera a o b dell’ordinanza del 20 febbraio 2013[^64b-4] concernente il pensionamento in particolari categorie di personale non possono convenire l’orario di lavoro basato sulla fiducia.[^64b-5]
 
-<sup>5</sup> In luogo della compensazione per lavoro aggiuntivo, lavoro straordinario e saldi attivi dell’orario flessibile, gli impiegati che hanno convenuto l’orario di lavoro basato sulla fiducia ricevono una compensazione annua sotto forma di indennità in contanti pari al 6 per cento del salario annuo. In luogo dell’indennità in contanti e d’intesa con il superiore, a titolo eccezionale gli impiegati possono prendere dieci giorni di compensazione oppure chiedere l’accreditamento di 100 ore su un conto di congedo sabbatico.[^64b-5]
+<sup>5</sup> In luogo della compensazione per lavoro aggiuntivo, lavoro straordinario e saldi attivi dell’orario flessibile, gli impiegati che hanno convenuto l’orario di lavoro basato sulla fiducia ricevono una compensazione annua sotto forma di indennità in contanti pari al 6 per cento del salario annuo. In luogo dell’indennità in contanti e d’intesa con il superiore, a titolo eccezionale gli impiegati possono prendere dieci giorni di compensazione oppure chiedere l’accreditamento di 100 ore su un conto di congedo sabbatico.[^64b-6]
 
 <sup>6</sup> I giorni di compensazione devono essere presi nel corso dell’anno civile in cui nasce il diritto agli stessi. Ove ciò non fosse possibile per ragioni di malattia, infortunio o congedo di maternità, essi devono essere presi nel corso dell’anno successivo. I giorni di compensazione non presi per qualsiasi altro motivo decadono senza indennità.
 
 [^64b-1]: Originario art. 64*a*. Introdotto dal n. I dell’O del 5 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)).
 [^64b-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^64b-3]: [RS 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
-[^64b-4]: Nuovo testo giusta il n. I dell’O del 24 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^64b-5]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^64b-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^64b-4]: [RS 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
+[^64b-5]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^64b-6]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
 #### Art. 65
 
@@ -1747,9 +1805,11 @@ Le vacanze sono ridotte in proporzione alla durata delle assenze se nel corso di
 
 <sup>2</sup> Può essere corrisposta un’indennità agli impiegati che, d’accordo con il datore di lavoro, utilizzano apparecchi di lavoro e materiale propri.
 
-<sup>3</sup> Le disposizioni di cui ai capoversi 1 e 2 si applicano anche agli impiegati che, d’accordo con il datore di lavoro, lavorano a tempo pieno o parziale al proprio domicilio. La pigione di locali privati utilizzati a fini lavorativi non è rimborsata. L’autorità competente ai sensi dell’articolo 2 può, per ragioni importanti, rimborsare in via eccezionale la pigione.
+<sup>3</sup> Il datore di lavoro mette a disposizione degli impiegati che lavorano nei luoghi convenuti conformemente all’articolo 64*a* capoverso 2 l’infrastruttura tecnica necessaria e il materiale indispensabile per l’esecuzione dei compiti.[^69-1]
 
 <sup>4</sup> I Dipartimenti disciplinano i particolari per i loro settori. Essi determinano in particolare se esiste la necessità di disporre degli strumenti e dei materiali da utilizzare.
+
+[^69-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 70
 
@@ -1801,9 +1861,11 @@ Il DFF disciplina i rimborsi per:
 - b. i viaggi di servizio all’estero;
 - c. la partecipazione a conferenze internazionali;
 - d. il trasloco per motivi di servizio;
-- e. le spese di rappresentanza.
+- e. le spese di rappresentanza;
+- f.[^72-2] le spese relative al lavoro mobile.
 
 [^72-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^72-2]: Introdotta dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 73
 

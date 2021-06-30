@@ -4,11 +4,11 @@ title: Ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPer
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210101/fr"
 
 (OPers)
 
-du 3 juillet 2001 (Etat le 1<sup>er</sup> janvier 2021)
+du 3 juillet 2001 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -302,6 +302,22 @@ Le travail est interrompu par des pauses d’au moins:
 <sup>8</sup> Les départements sont compétents pour autoriser les engagements effectués dans le cadre de plans de service fixes et approuver les plans correspondants. À titre exceptionnel, ils peuvent prévoir dans les autorisations des dérogations aux al. 1 à 5, dûment justifiées, lorsque l’application de ces prescriptions entraînerait des difficultés extraordinaires et que la majorité des employés intéressés consentent à ces dérogations.
 
 [^10b-1]: Introduit par le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+
+#### Art. 10c
+
+**Protection de la santé dans le cadre du travail mobile**[^10c-1]
+
+### (art. 32, let. d, LPers)
+
+<sup>1</sup> L’employeur s’assure que le lieu et les conditions de travail des employés travaillant dans le cadre du travail mobile sont conformes aux prescriptions de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^10c-2] et de la loi du 13 mars 1964 sur le travail[^10c-3], ainsi qu’aux dispositions d’exécution de cette dernière relatives à la protection de la santé. Il vérifie régulièrement le respect des prescriptions.
+
+<sup>2</sup> Les employés sont tenus de collaborer lors de l’examen de la conformité du lieu de travail qu’ils utilisent dans le cadre du travail mobile et d’appliquer les directives de l’employeur relatives à la protection de la santé.
+
+<sup>3</sup> Le travail mobile consiste à travailler à un autre endroit que dans les locaux mis à disposition par l’employeur sur le lieu de travail visé à l’art. 25, al. 2, let. c.
+
+[^10c-1]: Introduit par le ch.I de l’O du 12 mai 2021 ,en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^10c-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^10c-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
 #### Art. 11
 
@@ -1512,6 +1528,35 @@ L’employeur prend en charge les frais non couverts par les assurances privées
 [^60a-4]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^60a-5]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
+#### Art. 60b
+
+[^60b-1]
+
+[^60b-1]: Entre en vigueur au 1<sup>er</sup> janv. 2022 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+
+#### Art. 60c
+
+**Congé pour la prise en charge d’enfants gravement atteints dans leur santé**[^60c-1]
+
+### (art. 17*a* LPers)
+
+<sup>1</sup> En cas d’absence pour cause de prise en charge d’enfants gravement atteints dans leur santé en raison d’une maladie ou d’un accident, le salaire intégral et les allocations sociales sont versés aux employés pendant 14 semaines au plus.
+
+<sup>2</sup>
+
+L’enfant est réputé gravement atteint dans sa santé:
+
+- a. s’il a subi un changement majeur de son état physique ou psychique;
+- b. si l’évolution ou l’issue de ce changement est difficilement prévisible ou s’il faut s’attendre à ce qu’il conduise à une atteinte durable ou croissante à l’état de santé ou au décès;
+- c. si l’enfant présente un besoin accru de prise en charge de la part des parents, et
+- d. si au moins un des deux parents doit interrompre son activité lucrative pour s’occuper de l’enfant.
+
+<sup>3</sup> Le congé de prise en charge doit être pris dans un délai-cadre de 18 mois. Le délai-cadre commence à courir le premier jour de l’absence visée à l’al. 1.
+
+<sup>4</sup> Chaque cas de maladie ou d’accident ne donne droit qu’à un congé. Une rechute qui survient après une longue période sans symptôme est reconnue comme un nouveau cas.
+
+[^60c-1]: Introduit par le ch.I de l’O du 12 mai 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)), en vigueur depuis le 1<sup>er</sup> juil. 2021.
+
 #### Art. 61
 
 **Versement du salaire en cas d’adoption**
@@ -1580,7 +1625,19 @@ Le DFF a les tâches suivantes:
 
 #### Art. 64a
 
-**Modèles de temps de travail**[^64a-1]
+**Formes de travail flexibles**[^64a-1]
+
+### (art. 17*a* LPers)
+
+<sup>1</sup> Les supérieurs hiérarchiques promeuvent les formes de travail flexibles en matière d’horaire et de lieu de travail si le fonctionnement du service le permet.
+
+<sup>2</sup> Ils conviennent avec les employés des lieux où la prestation de travail est fournie. Ils accordent la plus grande liberté de choix possible aux employés en tenant compte des intérêts du service.
+
+[^64a-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+
+#### Art. 64a<sup>bis</sup>
+
+**Modèles de temps de travail**[^64abis-1]
 
 ### (art. 17*a* LPers)
 
@@ -1594,7 +1651,7 @@ Le DFF a les tâches suivantes:
 
 <sup>5</sup> Le service compétent visé à l’art. 2 peut modifier de manière unilatérale le modèle de temps de travail avant l’échéance convenue pour des raisons objectives et en respectant les délais indiqués à l’art. 30*a*, al. 2. Les maladies et les accidents ne constituent pas des raisons objectives.
 
-[^64a-1]: Introduit par le ch. I de l’O du 24 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
+[^64abis-1]: Anciennement art. 64*a*. Introduit par le ch. I de l’O du 24 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
 
 #### Art. 64b
 
@@ -1608,19 +1665,20 @@ Le DFF a les tâches suivantes:
 
 <sup>2</sup> L’horaire de travail fondé sur la confiance est obligatoire pour les employés rangés dans les classes de salaire 30 à 38.
 
-<sup>3</sup> Les employés rangés dans les classes de salaire 24 à 29 peuvent, en accord avec leur supérieur hiérarchique, appliquer l’horaire de travail fondé sur la confiance.
+<sup>3</sup> Les employés rangés dans les classes de salaire 18 à 29 peuvent, en accord avec leur supérieur hiérarchique, appliquer l’horaire de travail fondé sur la confiance.[^64b-3]
 
-<sup>4</sup> Les employés rangés dans les classes de salaire 1 à 23 et les employés qui perçoivent des cotisations supplémentaires de l’employeur au sens de l’art. 3, al. 2, let. a ou b, de l’ordonnance du 20 février 2013 sur la retraite des membres des catégories particulières de personnel[^64b-3] ne peuvent pas appliquer l’horaire de travail fondé sur la confiance.[^64b-4]
+<sup>4</sup> Les employés rangés dans les classes de salaire 1 à 17 et les employés qui perçoivent des cotisations supplémentaires de l’employeur au sens de l’art. 3, al. 2, let. a ou b, de l’ordonnance du 20 février 2013 sur la retraite des membres des catégories particulières de personnel[^64b-4] ne peuvent pas appliquer l’horaire de travail fondé sur la confiance.[^64b-5]
 
-<sup>5</sup> Les employés appliquant l’horaire de travail fondé sur la confiance reçoivent une compensation annuelle sous la forme d’une indemnité en espèces représentant 6 % du salaire annuel, qui remplace la compensation des heures d’appoint, des heures supplémentaires ou du solde positif de l’horaire mobile. L’indemnité en espèces peut, à titre exceptionnel et en accord avec le supérieur hiérarchique, être remplacée par 10 jours de compensation ou par une bonification de 100 heures sur un compte pour congé sabbatique.[^64b-5]
+<sup>5</sup> Les employés appliquant l’horaire de travail fondé sur la confiance reçoivent une compensation annuelle sous la forme d’une indemnité en espèces représentant 6 % du salaire annuel, qui remplace la compensation des heures d’appoint, des heures supplémentaires ou du solde positif de l’horaire mobile. L’indemnité en espèces peut, à titre exceptionnel et en accord avec le supérieur hiérarchique, être remplacée par 10 jours de compensation ou par une bonification de 100 heures sur un compte pour congé sabbatique.[^64b-6]
 
 <sup>6</sup> Les jours de compensation doivent être pris durant l’année où naît le droit à ces jours. S’ils ne peuvent l’être pour cause de maladie, d’accident ou de maternité, ils sont pris l’année suivante. S’ils ne sont pas pris pour d’autres raisons, ils sont perdus sans donner droit à un dédommagement.
 
 [^64b-1]: Anciennement art. 64*a*. Introduit par le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)).
 [^64b-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^64b-3]: [RS 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
-[^64b-4]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^64b-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^64b-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^64b-4]: [RS 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
+[^64b-5]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^64b-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
 #### Art. 65
 
@@ -1751,9 +1809,11 @@ Les vacances sont réduites en proportion de la durée de l’absence si, au cou
 
 <sup>2</sup> Si l’employé utilise, après entente avec l’employeur, des instruments de travail et du matériel lui appartenant, une indemnité peut lui être versée.
 
-<sup>3</sup> Les dispositions des al. 1 et 2 s’appliquent également aux employés qui, après entente avec leur employeur, travaillent à domicile à plein temps ou à temps partiel. Il n’est pas versé d’indemnité pour la location de locaux privés à des fins professionnelles. Exceptionnellement, l’autorité compétente en vertu de l’art. 2 peut, pour de justes motifs, verser une indemnité pour la location de ces locaux.
+<sup>3</sup> L’employeur fournit aux employés qui travaillent aux lieux convenus conformément à l’art. 64*a*, al. 2, le matériel et l’infrastructure technique nécessaires à l’exécution des tâches.[^69-1]
 
 <sup>4</sup> Les départements fixent les modalités dans leur domaine d’activité. Ils déterminent notamment s’il y a nécessité d’utiliser des instruments de travail et du matériel.
+
+[^69-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 70
 
@@ -1806,8 +1866,10 @@ Le DFF fixe les indemnités versées pour:
 - c. la participation à des conférences internationales;
 - d. le déménagement pour des raisons de service;
 - e. les frais de représentation.
+- f.[^72-2] les frais liés au travail mobile.
 
 [^72-1]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^72-2]: Introduite par le ch. I de l’O du 12 mai 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)), en vigueur depuis le 1er juil. 2021.t
 
 #### Art. 73
 
