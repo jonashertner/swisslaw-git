@@ -3,11 +3,11 @@ sr: "362.0"
 title: Verordnung vom 8. März 2013 über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro (N-SIS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: de
-version: 2021-04-01
+version: 2021-07-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210401/de"
 
 (N-SIS-Verordnung)
 
-vom 8. März 2013 (Stand am 1. April 2021)
+vom 8. März 2013 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -80,9 +80,13 @@ Für diese Verordnung gelten folgende Begriffe:
 - e. *ergänzende Daten:* im SIS gespeicherte und mit SIS-Ausschreibungen verknüpfte Daten;
 - f. *Drittstaat:* jeder Staat, der nicht Mitgliedstaat der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) ist;
 - g. *Kennzeichnung:* Markierung einer Ausschreibung, die zur Folge hat, dass die mit der Ausschreibung verlangte Massnahme von einem bestimmten Schengen-Staat nicht vollzogen wird oder dass dieser Staat stattdessen eine subsidiäre Massnahme vollzieht;
-- h. *SIRENE:* Anträge auf Zusatzinformationen bei der nationalen Anlauf- und Verbindungsstelle(**S**upplementary **I**nformation **RE**quest at the **N**ational **E**ntry).
+- h. *SIRENE:* Anträge auf Zusatzinformationen bei der nationalen Anlauf- und Verbindungsstelle(**S**upplementary **I**nformation **RE**quest at the **N**ational **E**ntry);
+- i.[^2-2] *terroristische Straftaten*: die in Anhang 1*a* aufgeführten Straftaten;
+- j.[^2-3] *sonstige* *schwere Straftaten*: die in Anhang 1*b* aufgeführten Straftaten.
 
 [^2-1]: Diese Abk. sind in Anhang 1 aufgeführt.
+[^2-2]: Eingefügt durch Ziff. I der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^2-3]: Eingefügt durch Ziff. I der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
 
 ## 2. Kapitel: Systemverantwortung, Systemarchitektur sowie Geschäfts- und Aktenverwaltungssystem des SIRENE-Büros
 
@@ -369,6 +373,17 @@ Bei Personenausschreibungen sind alle Daten nach Anhang 3 Kapitel 2 Ziffer 2.1 z
 
 [^11-1]: Eingefügt durch Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^11-2]: Fassung gemäss Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+
+#### Art. 11a
+
+**Abfrage anhand daktyloskopischer Daten**[^11a-1]
+
+Eine Abfrage nur anhand daktyloskopischer Daten darf erfolgen:
+
+- a. zu Identifikationszwecken, wenn die Identität der Person nicht anhand von Daten zu deren Identität festgestellt werden kann; oder
+- b. wenn diese an Tatorten terroristischer oder sonstiger schwerer Straftaten aufgefunden wurden, sie mit hoher Wahrscheinlichkeit einem Täter oder einer Täterin zuzuordnen sind und die Abfrage gleichzeitig im AFIS erfolgt.
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
 
 #### Art. 12
 
@@ -942,11 +957,14 @@ Das SIRENE-Büro erstellt jährlich anonymisierte Statistiken mit Angaben über 
 - c. Zugriffe auf das SIS;
 - d. Ausschreibungen, deren Erfassungsdauer verlängert worden ist.
 
+<sup>1bis</sup> Es erstellt separate Statistiken über den Informationsaustausch mit Europol.[^49-1]
+
 <sup>2</sup> Das SEM und die Sektion N-SIS und internationale Anwendungen liefern dem SIRENE-Büro die für die Erstellung der Statistiken benötigten Daten.
 
-<sup>3</sup> Im Rahmen der Meldepflichten nach den Schengen-Assoziierungsabkommen[^49-1] können die Statistiken den Organen der EU bekannt gegeben werden.
+<sup>3</sup> Im Rahmen der Meldepflichten nach den Schengen-Assoziierungsabkommen[^49-2] können die Statistiken den Organen der EU bekannt gegeben werden.
 
-[^49-1]: Diese Abk. sind in Anhang 1 aufgeführt.
+[^49-1]: Eingefügt durch Ziff. I der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^49-2]: Diese Abk. sind in Anhang 1 aufgeführt.
 
 ### 2. Abschnitt: Rechte der Betroffenen
 
@@ -1080,6 +1098,110 @@ Die Schengen-Assoziierungsabkommen umfassen:
 [^annex1-lvlu1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex1-lvlu1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
+Anhang 1a*[^t-1]*
+
+(Art. 2 Bst. i)
+
+## Straftaten nach schweizerischem Recht, die denjenigen der Richtlinie (EU) 2017/541**** entsprechen oder gleichwertig sind (terroristische Straftaten)
+
+[^annex1a-lvlu1-1]
+
+[^t-1]: Eingefügt durch Ziff. II der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^annex1a-lvlu1-1]: Richtlinie (EU) 2017/541 des Europäischen Parlaments und des Rates vom 15. März 2017 zur Terrorismusbekämpfung und zur Ersetzung des Rahmenbeschlusses 2002/475/JI des Rates und zur Änderung des Beschlusses 2005/671/JI des Rates, Fassung gemäss ABl. L 88 vom 31.3.2017, S. 6.
+
+- 1\. Schreckung der Bevölkerung (Art. 258 StGB[^annex1a-lvlu1-2]);
+- 2\. öffentliche Aufforderung zu Verbrechen oder zur Gewalttätigkeit (Art. 259 StGB);
+- 3\. Landfriedensbruch (Art. 260 StGB);
+- 4\. strafbare Vorbereitungshandlungen (Art. 260<sup>bis</sup> StGB);
+- 5\. kriminelle und terroristische Organisation (Art. 260<sup>ter</sup> StGB);
+- 6\. Gefährdung der öffentlichen Sicherheit mit Waffen (Art. 260<sup>quater</sup> StGB);
+- 7\. Finanzierung des Terrorismus (Art. 260<sup>quinquies</sup> StGB);
+- 8\. Anwerbung, Ausbildung und Reisen im Hinblick auf eine terroristische Straftat (Art. 260<sup>sexies</sup> StGB);
+- 9\. rechtswidrige Vereinigung (Art. 275<sup>ter</sup> StGB);
+- 10\. Organisationsverbot (Art. 74 NDG[^annex1a-lvlu1-3]);
+- 11\. Strafbestimmungen nach Artikel 2 des Bundesgesetzes vom 12. Dezember 2014[^annex1a-lvlu1-4] über das Verbot der Gruppierungen «Al-Qaïda» und «Islamischer Staat» sowie verwandter Organisationen; sowie
+- 12\. Gewaltverbrechen, mit dem die Bevölkerung eingeschüchtert oder ein Staat oder eine internationale Organisation zu einem Tun oder Unterlassen genötigt werden soll.
+
+[^annex1a-lvlu1-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^annex1a-lvlu1-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^annex1a-lvlu1-4]: [SR 122](https://fedlex.data.admin.ch/eli/cc/2014/764)
+
+Anhang 1b*[^t-2]*
+
+(Art. 2 Bst. j)
+
+## Straftaten nach schweizerischem Recht, die denjenigen des Rahmenbeschlusses 2002/584/JI**** entsprechen oder gleichwertig sind
+
+[^annex1b-lvlu1-1]
+
+[^t-2]: Eingefügt durch Ziff. II der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^annex1b-lvlu1-1]: Rahmenbeschluss des Rates vom 13. Juni 2002 über den Europäischen Haftbefehl und die Übergabeverfahren zwischen den Mitgliedstaaten, Fassung gemäss ABl. L 190 vom 18.7.2002, S. 1.
+
+<table>
+<tr><th>Rahmenbeschluss 2002/584/JAI</th><th>Straftaten nach schweizerischem Recht</th></tr>
+<tr><td>1. Vorsätzliche Tötung, schwere Körperverletzung</td><td>Tötung (vorsätzliche Tötung, Mord, Totschlag, Tötung auf Verlangen, Kindestötung), schwere Körperverletzung, Verstümmelung weiblicher Genitalien (Art. 111–114, 116, 122 und 124 StGB[^annex1b-lvlu1-2])</td></tr>
+<tr><td>2. Diebstahl in organisierter Form oder mit Waffen</td><td>Diebstahl und Raub (Art. 139 Ziff. 3 und 140 StGB)</td></tr>
+<tr><td>3. Cyberkriminalität</td><td>Unbefugte Datenbeschaffung, unbefugtes Eindringen in ein Datenverarbeitungssystem, Datenbeschädigung, betrügerischer Missbrauch einer Datenverarbeitungsanlage, Erschleichen einer Leistung (Art. 143, 143<sup>bis</sup>, 144<sup>bis</sup>, 147 Abs. 1 und 2 sowie 150 StGB)</td></tr>
+<tr><td>4. Sabotage</td><td>Sachbeschädigung, Brandstiftung, Verursachung einer Explosion, Gefährdung durch Sprengstoffe und giftige Gase in verbrecherischer Absicht, Herstellen, Verbergen, Weiterschaffen von Sprengstoffen und giftigen Gasen, Verursachen einer Überschwemmung oder eines Einsturzes, Beschädigung von elektrischen Anlagen, Wasserbauten und Schutzvorrichtungen (Art. 144, 221, 223, 224, 226, 227 und 228 StGB)</td></tr>
+<tr><td>5. Betrug</td><td>Betrug (Art. 146 Abs. 1 und 2 StGB)</td></tr>
+<tr><td>6. Betrugsdelikte, einschliesslich Betrug zum Nachteil der finanziellen Interessen der Europäischen Gemeinschaften im Sinne des Übereinkommens vom 26. Juli 1995[^annex1b-lvlu1-3] aufgrund von Artikel K3 des Vertrags über die Europäische Union über den Schutz der finanziellen Interessen der Europäischen Gemeinschaften</td><td>Betrügerischer Missbrauch einer Datenverarbeitungsanlage, Check- und Kreditkartenmissbrauch, Zechprellerei, Erschleichen einer Leistung, arglistige Vermögensschädigung, unwahre Angaben über kaufmännische Gewerbe, unwahre Angaben gegenüber Handelsregisterbehörden, Warenfälschung, betrügerischer Konkurs und Pfändungsbetrug, Erschleichung eines gerichtlichen Nachlassvertrages (Art. 147–150, 151–155, 163 und 170 StGB) Leistungs- und Abgabebetrug, Urkundenfälschung; Erschleichen einer falschen Beurkundung, Unterdrückung von Urkunden (Art. 14 Abs. 1 und 4, 15, 16 Abs. 1 und 3 des Bundesgesetzes vom 22. März 1974[^annex1b-lvlu1-4] über das Verwaltungsstrafrecht) Steuerbetrug, Veruntreuung von Quellensteuern (Art. 186 Abs. 1, 187 Abs. 1 des Bundesgesetzes vom 14. Dezember 1990[^annex1b-lvlu1-5] über die direkte Bundessteuer) Steuerbetrug (Art. 59 Abs. 1 des Steuerharmonisierungsgesetzes vom 14. Dezember 1990[^annex1b-lvlu1-6]) Verbrechen und Vergehen (Art. 148 Abs. 1 des Kollektivanlagengesetzes vom 23. Juni 2006[^annex1b-lvlu1-7]) Fälschung, Falschbeurkundungen, Erschleichen falscher Beurkundungen, Gebrauch von unechten oder unwahren Bescheinigungen, Ausländische Urkunden, unberechtigtes Ausstellen von Konformitätserklärungen, unberechtigtes Anbringen und Verwenden von Konformitätszeichen (Art. 23–28 des Bundesgesetzes vom 6. Oktober 1995[^annex1b-lvlu1-8] über die technischen Handelshemmnisse)</td></tr>
+<tr><td>7. Nachahmung und Produktpiraterie</td><td>Warenfälschung (Art. 155 StGB) Markenrechtsverletzung, betrügerischer Markengebrauch, reglementswidriger Gebrauch einer Garantie- oder Kollektivmarke, Gebrauch unzutreffender Herkunftsangaben (Art. 61 Abs. 3, 62 Abs. 2, 63 Abs. 4 sowie 64 Abs. 2 des Markenschutzgesetzes vom 28. August 1992[^annex1b-lvlu1-9]) Designrechtsverletzung (Art. 41 Abs. 2 des Designgesetzes vom 5. Oktober 2001[^annex1b-lvlu1-10]) Urheberrechtsverletzung, Verletzung von verwandten Schutzrechten (Art. 67 Abs. 2 und 69 Abs. 2 des Urheberrechtsgesetzes vom 9. Oktober 1992[^annex1b-lvlu1-11]) Patentverletzung (Art. 81, Abs. 3 des Patentgesetzes vom 25. Juni 1954[^annex1b-lvlu1-12])</td></tr>
+<tr><td>8. Erpressung und Schutzgelderpressung</td><td>Erpressung (Art. 156 StGB)</td></tr>
+<tr><td>9. Flugzeug- und Schiffsentführung</td><td>Erpressung, Nötigung, Freiheitsberaubung und Entführung, Geiselnahme (Art. 156, 181 und 183–185 StGB)</td></tr>
+<tr><td>10. Handel mit gestohlenen Kraftfahrzeugen</td><td>Hehlerei (Art. 160 StGB)</td></tr>
+<tr><td>11. Menschenhandel</td><td>Zwangsheirat, erzwungene eingetragene Partnerschaft, Menschenhandel (Art. 181*a*, 182 Abs. 1, 2 und 4 StGB)</td></tr>
+<tr><td>12. Entführung, Freiheitsberaubung und Geiselnahme</td><td>Freiheitsberaubung und Entführung, erschwerende Umstände, Geiselnahme (Art. 183–185 StGB) Verbotene Handlungen für einen fremden Staat (Art. 271 Ziff. 2 StGB)</td></tr>
+<tr><td>13. Sexuelle Ausbeutung von Kindern und Kinderpornografie</td><td>Gefährdung der Entwicklung von Unmündigen: sexuelle Handlungen mit Kindern, Pornografie (Art. 187, 189, 191, 195 Bst. a, 196, 197 Abs. 1,3, 4 und 5 StGB)</td></tr>
+<tr><td>14. Vergewaltigung</td><td>Vergewaltigung (Art. 190 StGB)</td></tr>
+<tr><td>15. Brandstiftung</td><td>Brandstiftung (Art. 221 StGB)</td></tr>
+<tr><td>16. Illegaler Handel mit nuklearen und radioaktiven Substanzen</td><td>Gefährdung durch Kernenergie, Radioaktivität und ionisierende Strahlen, strafbare Vorbereitungshandlungen (Art. 226<sup>bis</sup> und 226<sup>ter</sup> StGB) Missachtung von Sicherheits- und Sicherungsmassnahmen des Kernenergiegesetzes (Art. 88 bis 91 des Kernenergiegesetzes vom 21. März 2003[^annex1b-lvlu1-13])</td></tr>
+<tr><td>17. Geldfälschung, einschliesslich der Euro-Fälschung</td><td>Geldfälschung, Geldverfälschung (Art. 240 und 241 StGB)</td></tr>
+<tr><td>18. Geldfälschung, einschliesslich der Euro-Fälschung</td><td>Geldfälschung, Geldverfälschung, in Umlaufsetzen falschen Geldes, Nachmachen von Banknoten, Münzen oder amtlichen Wertzeichen ohne Fälschungsabsicht, Einführen, Erwerben, Lagern falschen Geldes (Art. 240–244 StGB)</td></tr>
+<tr><td>19. Fälschung von amtlichen Dokumenten und Handel damit</td><td>Fälschung amtlicher Wertzeichen, Fälschung amtlicher Zeichen, Fälschung von Mass und Gewicht, Urkundenfälschung, Fälschung von Ausweisen, Erschleichung einer falschen Beurkundung, Urkundenfälschung im Amt (Art. 245, 246, 248, 251 bis 253 und Art. 317 Ziff. 1 StGB)</td></tr>
+<tr><td>20. Beteiligung an einer kriminellen Vereinigung</td><td>Kriminelle Organisation, rechtswidrige Vereinigung (Art. 260<sup>ter</sup> und 275<sup>ter</sup> StGB)</td></tr>
+<tr><td>21. Illegaler Handel mit Waffen, Munition und Sprengstoffen</td><td>Gefährdung der öffentlichen Sicherheit mit Waffen (Art. 260<sup>quater</sup> StGB) Vergehen (Artikel 33 Absätze 1 und 3 des Waffengesetzes vom 20. Juni 1997[^annex1b-lvlu1-14])</td></tr>
+<tr><td>22. Terrorismus</td><td>Schreckung der Bevölkerung, öffentliche Aufforderung zu Verbrechen oder zur Gewalttätigkeit, Landfriedensbruch, strafbare Vorbereitungshandlungen, kriminelle und terroristische Organisationen, Gefährdung der öffentlichen Sicherheit mit Waffen, Finanzierung des Terrorismus, Anwerbung, Ausbildung und Reisen im Hinblick auf eine terroristische Straftat, rechtswidrige Vereinigung (Art. 258 bis 260<sup>bis</sup>, 260<sup>ter</sup>, 260<sup>quater</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 275<sup>ter</sup> StGB) Organisationsverbot (Art. 74 NDG[^annex1b-lvlu1-15]) Strafbestimmungen nach Artikel 2 des Bundesgesetzes vom 12. Dezember 2014[^annex1b-lvlu1-16] über das Verbot der Gruppierungen «Al-Qaïda» und «Islamischer Staat» sowie verwandter Organisationen)</td></tr>
+<tr><td>23. Rassismus und Fremdenfeindlichkeit</td><td>Diskriminierung und Aufruf zu Hass (Art. 261<sup>bis</sup> StGB)</td></tr>
+<tr><td>24. Verbrechen, die in die Zuständigkeit des Internationalen Strafgerichtshofs fallen</td><td>Völkermord, Verbrechen gegen die Menschlichkeit, schwere Verletzungen der Genfer Konventionen, andere Kriegsverbrechen, Angriffe gegen zivile Personen und Objekte, ungerechtfertigte medizinische Behandlung, Verletzung der sexuellen Selbstbestimmung und der Menschenwürde, Rekrutierung und Verwendung von Kindersoldaten, verbotene Methoden der Kriegführung, Einsatz verbotener Waffen, Bruch eines Waffenstillstandes oder des Friedens. Vergehen gegen einen Parlamentär, verzögerte Heimschaffung von Kriegsgefangenen, andere Verstösse gegen das humanitäre Völkerrecht (Art. 264, 264*a*, 264*c*–264*j* StGB)</td></tr>
+<tr><td>25. Wäsche von Erträgen aus Straftaten</td><td>Geldwäscherei (Art. 305bis StGB)</td></tr>
+<tr><td>26. Korruption</td><td>Bestechung schweizerischer Amtsträger (Bestechen, sich bestechen lassen, Vorteilsgewährung, Vorteilsannahme), Bestechung fremder Amtsträger (Art. 322<sup>ter</sup> –322<sup>septies</sup> StGB)</td></tr>
+<tr><td>27. Beihilfe zur illegalen Einreise und zum illegalen Aufenthalt</td><td>Förderung der rechtswidrigen Ein- und Ausreise sowie des rechtswidrigen Aufenthalts (Art. 116 Abs. 1 Bst. a, a<sup>bis</sup> und c in Verbindung mit Abs. 3 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^annex1b-lvlu1-17])</td></tr>
+<tr><td>28. Illegaler Handel mit Hormonen und anderen Wachstumsförderern</td><td>Strafbestimmung (Art. 22 des Sportförderungsgesetzes vom 17. Juni 2011[^annex1b-lvlu1-18]) Vergehen und Verbrechen (Art. 63 des Lebensmittelgesetzes vom 20. Juni 2014[^annex1b-lvlu1-19]) Vergehen und Verbrechen (Art. 86 Abs. 1, 2 und 3 des Heilmittelgesetzes vom 15. Dezember 2000[^annex1b-lvlu1-20])</td></tr>
+<tr><td>29. Illegaler Handel mit Kulturgütern, einschliesslich Antiquitäten und Kunstgegenstände</td><td>Strafbestimmungen (Art. 24–29 des Kulturgütertransfergesetzes vom 20. Juni 2003[^annex1b-lvlu1-21])</td></tr>
+<tr><td>30. Illegaler Handel mit Organen und menschlichem Gewebe</td><td>Vergehen (Art. 24 Abs. 1–3 des Stammzellenforschungsgesetzes vom 19. Dezember 2003[^annex1b-lvlu1-22]) Missbrauch von Keimgut und Handeln ohne Einwilligung oder Bewilligung (Art. 32 und 34 des Fortpflanzungsmedizingesetzes vom 18. Dezember 1998[^annex1b-lvlu1-23]) Vergehen (Art. 69 Abs. 1 und 2 des Transplantationsgesetzes vom 8. Oktober 2004[^annex1b-lvlu1-24])</td></tr>
+<tr><td>31. Illegaler Handel mit Drogen und psychotropen Stoffen</td><td>Strafbestimmungen (Art. 19 Abs. 1 und 2, 19<sup>bis</sup>, 20 und 21 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^annex1b-lvlu1-25])</td></tr>
+<tr><td>32. Umweltkriminalität, einschliesslich des illegalen Handels mit bedrohten Tierarten oder mit bedrohten Pflanzen- und Baumarten</td><td>Vergehen (Art. 60 Abs. 1 des Umweltschutzgesetzes vom 7. Oktober 1983[^annex1b-lvlu1-26]) Vergehen (Art. 70 Abs. 1 des Gewässerschutzgesetzes vom 24. Januar 1991[^annex1b-lvlu1-27]) Strafbestimmungen (Art. 43 und 43*a* Abs. 1 des Strahlenschutzgesetzes vom 22. März 1991[^annex1b-lvlu1-28]) Strafbestimmungen (Art. 35 Abs. 1 des Gentechnikgesetzes vom 21. März 2003[^annex1b-lvlu1-29])</td></tr>
+</table>
+
+[^annex1b-lvlu1-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^annex1b-lvlu1-3]: ABl. C 316 vom 27.11.1995, S. 49
+[^annex1b-lvlu1-4]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^annex1b-lvlu1-5]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^annex1b-lvlu1-6]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^annex1b-lvlu1-7]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^annex1b-lvlu1-8]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^annex1b-lvlu1-9]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^annex1b-lvlu1-10]: [SR 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
+[^annex1b-lvlu1-11]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+[^annex1b-lvlu1-12]: [SR 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^annex1b-lvlu1-13]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^annex1b-lvlu1-14]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^annex1b-lvlu1-15]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^annex1b-lvlu1-16]: [SR 122](https://fedlex.data.admin.ch/eli/cc/2014/764)
+[^annex1b-lvlu1-17]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^annex1b-lvlu1-18]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^annex1b-lvlu1-19]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^annex1b-lvlu1-20]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^annex1b-lvlu1-21]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^annex1b-lvlu1-22]: [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
+[^annex1b-lvlu1-23]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^annex1b-lvlu1-24]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^annex1b-lvlu1-25]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^annex1b-lvlu1-26]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^annex1b-lvlu1-27]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^annex1b-lvlu1-28]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex1b-lvlu1-29]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+
 Anhang 2
 
 (Art. 5 Abs. 5)
@@ -1110,13 +1232,13 @@ Anhang 2
 <tr><td>f. Sachausschreibungen</td><td>A</td><td>B (A)</td><td></td><td></td></tr>
 </table>
 
-Anhang 3*[^t-1]*
+Anhang 3*[^t-3]*
 
 (Art. 7 Abs. 2 und 11 Abs. 1)
 
 ## 1 Zugriffs- und Bearbeitungsrechte in Bezug auf die im SIS gespeicherten Daten
 
-[^t-1]: Bereinigt gemäss Anhang Ziff. 2 der V vom 2. Sept. 2015 ([AS 2015 3035](https://fedlex.data.admin.ch/eli/oc/2015/571)), Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)), Ziff. II der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)) und Ziff. I 3 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS, in Kraft seit 6. Mai 2019 ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^t-3]: Bereinigt gemäss Anhang Ziff. 2 der V vom 2. Sept. 2015 ([AS 2015 3035](https://fedlex.data.admin.ch/eli/oc/2015/571)), Ziff. I 13 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)), Ziff. II der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)) und Ziff. I 3 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS, in Kraft seit 6. Mai 2019 ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
 
 Zugriffsstufen
 

@@ -3,11 +3,11 @@ sr: "362.0"
 title: "Ordonnance du 8 mars 2013 sur la partie nationale du Système d'information Schengen (N-SIS) et sur le bureau SIRENE (Ordonnance N-SIS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: fr
-version: 2021-04-01
+version: 2021-07-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210401/fr"
 
 (Ordonnance N-SIS)
 
-du 8 mars 2013 (Etat le 1<sup>er</sup> avril 2021)
+du 8 mars 2013 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -80,9 +80,13 @@ Dans la présente ordonnance, on entend par:
 - e. *données complémentaires,* les données enregistrées dans le SIS et en rapport avec des signalements introduits dans le SIS;
 - f. *État tiers,* tout État non-membre de l’Union européenne (UE) ou de l’Association européenne de libre échange (AELE);
 - g. *apposition d’un* *indicateur de validité,* le marquage d’un signalement tendant à ce que la mesure liée au signalement ne soit pas exécutée sur le territoire de l’État auteur du marquage, ou que cet État mette en œuvre une mesure subsidiaire;
-- h. *SIRENE*, demande d’informations supplémentaires requises à l’entrée nationale(**S**upplementary **I**nformation **RE**quest at the **N**ational **E**ntry).
+- h. *SIRENE*, demande d’informations supplémentaires requises à l’entrée nationale(**S**upplementary **I**nformation **RE**quest at the **N**ational **E**ntry);
+- i.[^2-2] *infractions terroristes*: les infractions énumérées à l’annexe 1*a*;
+- j.[^2-3] *autres infractions graves*: les infractions énumérées à l’annexe 1*b*.
 
 [^2-1]: Ces Ac. sont mentionnés à l’annexe 1.
+[^2-2]: Introduite par le ch. I de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^2-3]: Introduite par le ch. I de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
 
 ## Chapitre 2 Responsabilité, architecture du système et gestion des affaires et des dossiers du bureau SIRENE
 
@@ -368,6 +372,17 @@ Pour les signalements de personnes, il convient de saisir toutes les données co
 
 [^11-1]: Introduite par le ch. I 13 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^11-2]: Nouvelle teneur selon le ch. I 13 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+
+#### Art. 11a
+
+**Consultation de données dactyloscopiques**[^11a-1]
+
+Une consultation basée exclusivement sur des données dactyloscopiques est autorisée:
+
+- a. à des fins d’identification, si l’identité de la personne ne peut être établie sur la base des données d’identité;
+- b. si elles ont été relevées sur des lieux où des infractions terroristes ou d’autres infractions graves ont été commises, s’il est fort probable qu’elles appartiennent à l’auteur de l’infraction et si la recherche est menée simultanément dans le système d’information AFIS.
+
+[^11a-1]: Introduit par le ch. I de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
 
 #### Art. 12
 
@@ -939,11 +954,14 @@ Le bureau SIRENE établit chaque année des statistiques rendues anonymes indiqu
 - c. d’accès au SIS;
 - d. de signalements dont la durée de saisie a été prolongée.
 
+<sup>1bis</sup> Il établit des statistiques distinctes sur l’échange d’informations avec Europol.[^49-1]
+
 <sup>2</sup> Le SEM et la Section N-SIS et applications internationales fournissent au bureau SIRENE les données nécessaires à l’établissement des statistiques.
 
-<sup>3</sup> Les statistiques peuvent être communiquées aux organes de l’UE dans le cadre des devoirs de communication découlant des accords d’association à Schengen[^49-1].
+<sup>3</sup> Les statistiques peuvent être communiquées aux organes de l’UE dans le cadre des devoirs de communication découlant des accords d’association à Schengen[^49-2].
 
-[^49-1]: Ces accords sont mentionnés à l’annexe 1.
+[^49-1]: Introduit par le ch. I de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^49-2]: Ces accords sont mentionnés à l’annexe 1.
 
 ### Section 2 Droits des personnes concernées
 
@@ -1077,6 +1095,113 @@ Les accords d’association à Schengen comprennent les accords suivants:
 [^annex1-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex1-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
+Annexe 1a*[^t-1]*
+
+(art. 2, let. i)
+
+## Infractions selon le droit suisse qui correspondent ou sont équivalentes à celles prévues par la directive (UE) 2017/541**** (infractions terroristes)
+
+[^annex1a-lvlu1-1]
+
+[^t-1]: Introduite par le ch. II de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^annex1a-lvlu1-1]: Directive (UE) 2017/541 du Parlement européen et du Conseil du 15 mars 2017 relative à la lutte contre le terrorisme et remplaçant la décision-cadre 2002/475/JAI du Conseil et modifiant la décision 2005/671/JAI du Conseil, JO L 88 du 31.3.2017, p. 6.
+
+- 1\. Menaces alarmant la population (art. 258 du code pénal [CP][^annex1a-lvlu1-2])
+- 2\. Provocation publique au crime ou à la violence (art. 259 CP)
+- 3\. Émeute (art. 260 CP)
+- 4\. Actes préparatoires délictueux (art. 260<sup>bis</sup> CP)
+- 5\. Organisations criminelles et terroristes (art. 260<sup>ter</sup> CP)
+- 6\. Mise en danger de la sécurité publique au moyen d’armes (art. 260<sup>quater</sup> CP)
+- 7\. Financement du terrorisme (art. 260<sup>quinquies</sup> CP)
+- 8\. Recrutement, formation et voyage en vue d’un acte terroriste (art. 260<sup>sexies</sup> CP)
+- 9\. Groupements illicites (art. 275<sup>ter</sup> CP)
+- 10\. Interdiction d’organisations (art. 74 LRens[^annex1a-lvlu1-3])
+- 11\. Dispositions pénales selon l’art. 2 de la loi fédérale du 12 décembre 2014 interdisant les groupes «Al-Qaïda» et «État islamique» et les organisations apparentées[^annex1a-lvlu1-4]
+- 12\. Crimes violents visant à intimider la population ou à contraindre un État ou une organisation internationale à faire ou à ne pas faire quelque chose
+
+[^annex1a-lvlu1-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^annex1a-lvlu1-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^annex1a-lvlu1-4]: [RS 122](https://fedlex.data.admin.ch/eli/cc/2014/764)
+
+Annexe 1b*[^t-2]*
+
+(art. 2, let. j)
+
+## Infractions selon le droit suisse qui correspondent ou sont équivalentes à celles prévues par la décision-cadre 2002/584/JAI****
+
+[^annex1b-lvlu1-1]
+
+[^t-2]: Introduite par le ch. II de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^annex1b-lvlu1-1]: Décision-cadre du Conseil du 13 juin 2002 relative au mandat d’arrêt européen et aux procédures de remise entre États membres, version du JO L 190 du 18.7.2002, p. 1.
+
+<table>
+<tr><th>Décision-cadre 2002/584/JAI</th><th>Infractions selon le droit suisse</th></tr>
+<tr><td>1. Homicide volontaire, coups et blessures graves</td><td>Homicide, meurtre, assassinat, meurtre passionnel, meurtre sur la demande de la victime, infanticide, lésions corporelles graves, mutilation d’organes génitaux féminins (art. 111 à 114, 116, 122 et 124 CP[^annex1b-lvlu1-2])</td></tr>
+<tr><td>2. Vols organisés ou avec arme</td><td>Vol et brigandage (art. 139, ch. 3, et 140 CP)</td></tr>
+<tr><td>3. Cybercriminalité</td><td>Soustraction de données, accès indu à un système informatique, détérioration de données, utilisation frauduleuse d’un ordinateur, obtention frauduleuse d’une prestation (art. 143, 143<sup>bis</sup>, 144<sup>bis</sup>, 147, al. 1 et 2, et 150 CP)</td></tr>
+<tr><td>4. Sabotage</td><td>Dommage à la propriété, incendie intentionnel, explosion, emploi, avec dessein délictueux, d’explosifs ou de gaz toxiques, fabriquer, dissimuler et transporter des explosifs ou des gaz toxiques, inondation, écroulement), dommages aux installations électriques, travaux hydrauliques et ouvrages de protection) (art. 144, 221, 223, 224, 226, 227 et 228 CP)</td></tr>
+<tr><td>5. Escroquerie</td><td>Escroquerie (art. 146, al. 1 et 2, CP)</td></tr>
+<tr><td>6. Fraude, y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du 26 juillet 1995[^annex1b-lvlu1-3] relative à la protection des intérêts financiers des Communautés européennes</td><td>Utilisation frauduleuse d’un ordinateur, abus de cartes-chèques et de cartes de crédit, filouterie d’auberge, obtention frauduleuse d’une prestation, atteinte astucieuse aux intérêts pécuniaires d’autrui, faux renseignements sur des entreprises commerciales, fausses communications aux autorités chargées du registre du commerce, falsification de marchandises, banqueroute frauduleuse et fraude dans la saisie, obtention frauduleuse d’un concordat judiciaire, (art. 147, 148, 149, 150, 151 à 155, 163 et 170 CP) Escroquerie en matière de prestations et de contributions, faux dans les titres, obtention frauduleuse d’une constatation fausse (art. 14, al. 1 et 4, 15 et 16, al. 1 et 3, de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^annex1b-lvlu1-4]) Usage de faux, détournement de l’impôt à la source (art. 186, al. 1, et 187, al. 1, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^annex1b-lvlu1-5]) Fraude fiscale (art. 59, al. 1, de la loi fédérale du 14 décembre 1990 sur l’harmonisation des impôts directs des cantons et des communes[^annex1b-lvlu1-6]) Crimes et délits (art. 148, al. 1, de la loi du 23 juin 2006 sur les placements collectifs[^annex1b-lvlu1-7]) Faux, constatation fausse, obtention frauduleuse d’une constatation fausse, utilisation d’attestations fausses ou inexactes, titres étrangers, établissement non autorisé de déclarations de conformité, apposition et utilisation non autorisées de signes de conformité (art. 23 à 28 de la loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^annex1b-lvlu1-8])</td></tr>
+<tr><td>7. Contrefaçon et piratage de produits</td><td>Falsification de marchandises (art. 155 CP) Violation du droit à la marque, usage frauduleux, usage d’une marque de garantie ou d’une marque collective contraire au règlement, usage d’indications de provenance inexactes (art. 61, al. 3, 62, al. 2, 63, al. 4, et 64, al. 2, de la loi du 28 août 1992 sur la protection des marques[^annex1b-lvlu1-9]) Violation du droit sur un design (art. 41, al. 2, de la loi du 5 octobre 2001 sur les designs[^annex1b-lvlu1-10]) Violation du droit d’auteur, violation de droits voisins (art. 67, al. 2, et 69, al. 2, de la loi du 9 octobre 1992 sur le droit d’auteur[^annex1b-lvlu1-11]) Violation du brevet (art. 81, al. 3, de la loi du 25 juin 1954 sur les brevets[^annex1b-lvlu1-12])</td></tr>
+<tr><td>8. Racket et extorsion de fonds</td><td>Extorsion et chantage (art. 156 CP)</td></tr>
+<tr><td>9. Détournement d’avion/navire</td><td>Extorsion et chantage, contrainte, séquestration et enlèvement, prise d’otage (art. 156, 181 et 183 à 185 CP)</td></tr>
+<tr><td>10. Trafic de véhicules volés</td><td>Recel (art. 160 CP)</td></tr>
+<tr><td>11. Traite des êtres humains</td><td>Mariage forcé, partenariat forcé, traite d’êtres humains (art. 181*a* et 182, al. 1, 2 et 4, CP)</td></tr>
+<tr><td>12. Enlèvement, séquestration et prise d’otage</td><td>Séquestration et enlèvement, circonstances aggravantes, prise d’otage (art. 183 à 185 CP) Actes exécutés sans droit pour un Etat étranger (art. 271, ch. 2, CP)</td></tr>
+<tr><td>13. Exploitation sexuelle des enfants et pédopornographie</td><td>Mise en danger du développement de mineurs: actes d’ordre sexuel avec des enfants, pornographie (art. 187, 189, 191, 195, let. a, 196 et 197, al. 1, 3, 4 et 5, CP)</td></tr>
+<tr><td>14. Viol</td><td>Viol (art. 190 CP)</td></tr>
+<tr><td>15. Incendie volontaire</td><td>Incendie intentionnel (art. 221 CP)</td></tr>
+<tr><td>16. Trafic illicite de matières nucléaires et radioactives</td><td>Danger imputable à l’énergie nucléaire, à la radioactivité et aux rayonnements ionisants, actes préparatoires punissables (art. 226<sup>bis</sup> et 226<sup>ter</sup> CP) Infractions aux mesures de sécurité et de sûreté (art. 88 à 91 de la loi du 21 mars 2003 sur l’énergie nucléaire[^annex1b-lvlu1-13])</td></tr>
+<tr><td>17. Faux monnayage, y compris la contrefaçon de l’euro</td><td>Fabrication de fausse monnaie, falsification de la monnaie (art. 240 et 241 CP)</td></tr>
+<tr><td>18. Falsification de moyens de paiement</td><td>Fabrication de fausse monnaie, falsification de la monnaie, mise en circulation de fausse monnaie, imitation de billets de banque, de pièces de monnaie ou de timbres officiels de valeur sans dessein de faux, importation, acquisition et prise en dépôt de fausse monnaie (art. 240 à 244 CP)</td></tr>
+<tr><td>19. Falsification de documents administratifs et trafic de faux</td><td>Falsification des timbres officiels de valeur, falsification de marques officielles, falsification des poids et des mesures, faux dans les titres, faux dans les certificats, obtention frauduleuse d’une constatation fausse, titres étrangers, faux dans les titres commis dans l’exercice de fonctions publiques (art. 245, 246, 248, 251 à 253, 255 et 317, ch. 1, CP)</td></tr>
+<tr><td>20. Participation à une organisation criminelle</td><td>Organisation criminelle, groupements illicites (art. 260<sup>ter</sup> et 275<sup>ter</sup> CP)</td></tr>
+<tr><td>21. Trafic illicite d’armes, de munitions et d’explosifs</td><td>Mise en danger de la sécurité publique au moyen d’armes (art. 260<sup>quater</sup> CP) Délits (art. 33, al. 1 et 3, de la loi du 20 juin 1997 sur les armes[^annex1b-lvlu1-14])</td></tr>
+<tr><td>22. Terrorisme</td><td>Menaces alarmant la population, provocation publique au crime ou à la violence, émeute, actes préparatoires délictueux, organisations criminelles et terroristes, mise en danger de la sécurité publique au moyen d’armes, financement du terrorisme, recrutement, formation et voyage en vue d’un acte terroriste, groupements illicites (art. 258 à 260<sup>bis</sup>, 260<sup>ter</sup>, 260<sup>quater</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup> et 275<sup>ter</sup> CP) Interdiction d’organisations (art. 74 LRens[^annex1b-lvlu1-15]) Dispositions pénales (art. 2 de la loi fédérale du 12 décembre 2014 interdisant les groupes «Al-Qaïda» et «État islamique» et les organisations apparentées[^annex1b-lvlu1-16])</td></tr>
+<tr><td>23. Racisme et xénophobie</td><td>Discrimination et incitation à la haine (art. 261<sup>bis</sup> CP)</td></tr>
+<tr><td>24. Crimes relevant de la juridiction de la Cour pénale internationale</td><td>Génocide, crimes contre l’humanité, infractions graves aux Convention de Genève, autres crimes de guerre, attaque contre des civils ou des biens de caractère civil, traitement médical immotivé, atteinte au droit à l’autodétermination sexuelle ou à la dignité de la personne, recrutement ou utilisation d’enfants soldats, méthodes de guerre prohibées, utilisation d’armes prohibées, rupture d’un armistice ou de la paix, délit contre un parlementaire, retardement du rapatriement de prisonniers de guerre, autres infractions au droit international humanitaire (art. 264, 264*a* et 264*c* à 264*j* CP)</td></tr>
+<tr><td>25. Blanchiment du produit du crime</td><td>Blanchiment d’argent (art. 305<sup>bis</sup> CP)</td></tr>
+<tr><td>26. Corruption</td><td>Corruption d’agents publics suisses (corruption active, corruption passive, octroi d’un avantage, acceptation d’un avantage), corruption d’agents publics étrangers (art. 322<sup>ter</sup> à 322<sup>septies</sup> CP)</td></tr>
+<tr><td>27. Aide à l’entrée et au séjour irréguliers</td><td>Incitation à l’entrée, à la sortie ou au séjour illégaux (art. 116, al. 1, let. a, a<sup>bis</sup> et c, en relation avec l’al. 3, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^annex1b-lvlu1-17])</td></tr>
+<tr><td>28. Trafic illicite de substances hormonales et autres facteurs de croissance</td><td>Disposition pénale (art. 22 de la loi du 17 juin 2011 sur l’encouragement du sport[^annex1b-lvlu1-18]) Délits et crimes (art. 63 de la loi du 20 juin 2014 sur les denrées alimentaires[^annex1b-lvlu1-19]) Délits et crimes (art. 86, al. 1, 2 et 3, de la loi du 15 décembre 2000 sur les produits thérapeutiques[^annex1b-lvlu1-20])</td></tr>
+<tr><td>29. Trafic illicite de biens culturels, y compris antiquités et œuvres d’art.</td><td>Dispositions pénales (art. 24 à 29 de la loi du 20 juin 2003 sur le transfert des biens culturels[^annex1b-lvlu1-21])</td></tr>
+<tr><td>30. Trafic illicite d’organes et de tissus humains</td><td>Délits (art. 24, al. 1 à 3, de la loi du 19 décembre 2003 relative à la recherche sur les cellules souches[^annex1b-lvlu1-22]) Utilisation abusive du patrimoine germinal, défaut de consentement ou d’autorisation (art. 32 et 34 de la loi fédérale du 18 décembre 1998 sur la procréation médicalement assistée[^annex1b-lvlu1-23]) Délits (art. 69, al. 1 et 2, de la loi du 8 octobre 2004 sur la transplantation[^annex1b-lvlu1-24])</td></tr>
+<tr><td>31. Trafic illicite de stupéfiants et de substances psychotropes</td><td>Dispositions pénales (art. 19, al. 1 et 2, 19<sup>bis</sup>, 20 et 21 de la loi du 3 octobre 1951 sur les stupéfiants[^annex1b-lvlu1-25])</td></tr>
+<tr><td>32. Crimes contre l’environnement, y compris le trafic illicite d’espèces animales menacées et le trafic illicite d’espèces et d’essences végétales menacées</td><td>Délits (art. 60, al. 1, de la loi du 7 octobre 1983 sur la protection de l’environnement[^annex1b-lvlu1-26])</td></tr>
+<tr><td>[tab]</td><td>Délits (art. 70, al. 1, de la loi fédérale du 24 janvier 1991 sur la protection des eaux[^annex1b-lvlu1-27])</td></tr>
+<tr><td>[tab]</td><td>Dispositions pénales (art. 43 et 43*a*, al. 1, de la loi du 22 mars 1991 sur la radioprotection[^annex1b-lvlu1-28])</td></tr>
+<tr><td>[tab]</td><td>Dispositions pénales (art. 35, al. 1, de la loi du 21 mars 2003 sur le génie génétique[^annex1b-lvlu1-29])</td></tr>
+</table>
+
+[^annex1b-lvlu1-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^annex1b-lvlu1-3]: JO n<sup>o</sup> C 316 du 27.11.1995, p. 49
+[^annex1b-lvlu1-4]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^annex1b-lvlu1-5]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^annex1b-lvlu1-6]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^annex1b-lvlu1-7]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^annex1b-lvlu1-8]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^annex1b-lvlu1-9]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^annex1b-lvlu1-10]: [RS 232.12](https://fedlex.data.admin.ch/eli/cc/2002/226)
+[^annex1b-lvlu1-11]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
+[^annex1b-lvlu1-12]: [RS 232.14](https://fedlex.data.admin.ch/eli/cc/1955/871_893_899)
+[^annex1b-lvlu1-13]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^annex1b-lvlu1-14]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^annex1b-lvlu1-15]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^annex1b-lvlu1-16]: [RS 122](https://fedlex.data.admin.ch/eli/cc/2014/764)
+[^annex1b-lvlu1-17]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^annex1b-lvlu1-18]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^annex1b-lvlu1-19]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^annex1b-lvlu1-20]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^annex1b-lvlu1-21]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^annex1b-lvlu1-22]: [RS 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
+[^annex1b-lvlu1-23]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^annex1b-lvlu1-24]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
+[^annex1b-lvlu1-25]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^annex1b-lvlu1-26]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^annex1b-lvlu1-27]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^annex1b-lvlu1-28]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex1b-lvlu1-29]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+
 Annexe 2
 
 (art. 5, al. 5)
@@ -1107,13 +1232,13 @@ Abréviations des autorités
 <tr><td>f. Signalement d’objets</td><td>A</td><td>B (A)</td><td></td><td></td></tr>
 </table>
 
-Annexe 3*[^t-1]*
+Annexe 3*[^t-3]*
 
 (art. 7, al. 2, et 11, al. 1)
 
 ## 1. Droits d’accès et de traitement concernant les données enregistrées dans le SIS
 
-[^t-1]: Mise à jour par l’annexe ch. 2 de l’O du 2 sept. 2015 ([RO 2015 3035](https://fedlex.data.admin.ch/eli/oc/2015/571)), le ch. I 13 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)), le ch. II de l’O du 21 nov. 2018 ([RO 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)) et le ch. I 3 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^t-3]: Mise à jour par l’annexe ch. 2 de l’O du 2 sept. 2015 ([RO 2015 3035](https://fedlex.data.admin.ch/eli/oc/2015/571)), le ch. I 13 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)), le ch. II de l’O du 21 nov. 2018 ([RO 2018 4615](https://fedlex.data.admin.ch/eli/oc/2018/726)) et le ch. I 3 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
 
 Niveaux d’accès
 
