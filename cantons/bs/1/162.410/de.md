@@ -4,13 +4,13 @@ number: "162.410"
 title: Verordnung betreffend Ferien und Urlaub der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
 short: "Ferien- und Urlaubsverordnung, FUV"
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2020-12-15
+version: 2021-07-01
+valid_until: 2021-07-31
+version_adopted: 2021-06-22
 adopted: 2004-07-06
 in_force: 2005-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/162.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5087/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5290/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Ferien- und Urlaubsverordnung |Staatspersonal: Dienstverhältnis
 
 (Ferien- und Urlaubsverordnung, FUV)
 
-Vom 6. Juli 2004 (Stand 1. Januar 2021)
+Vom 6. Juli 2004 (Stand 1. Juli 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
@@ -220,6 +220,20 @@ beschliesst:
 <sup>2</sup> Als nahe Angehörige im Sinne dieser Verordnung gelten alle im gleichen Haushalt wohnenden Personen sowie die Ehegattin bzw. der Ehegatte, die eingetragene Partnerin bzw. der eingetragene Partner und die Person, mit welcher eine faktische Lebensgemeinschaft geführt wird, die Kinder, die Eltern, die Geschwister, Stiefeltern und Stiefgeschwister sowie die Eltern und Kinder der Ehegattin bzw. des Ehegatten, der eingetragenen Partnerin bzw. des eingetragenen Partners und der Person, mit welcher eine faktische Lebensgemeinschaft geführt wird.
 
 <sup>3</sup> In begründeten Fällen kann die Anstellungsbehörde ausnahmsweise von der Mitarbeiterin bzw. dem Mitarbeiter einen Nachweis für den Urlaubsgrund verlangen.
+
+#### § 18bis
+
+**Bezahlter Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes**
+
+<sup>1</sup> Den Mitarbeitenden wird für die Betreuung ihres wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten minderjährigen Kindes bezahlter Urlaub gewährt, soweit sie für diese Periode Anspruch auf eine Betreuungsentschädigung gemäss Art. 16n-16s des Erwerbsersatzgesetzes haben.
+
+<sup>2</sup> Der Betreuungsurlaub dauert höchstens 14 Wochen und ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
+
+<sup>3</sup> Stehen beide Eltern in einem Arbeitsverhältnis, so hat jeder Elternteil Anspruch auf einen Betreuungsurlaub von sieben Wochen. Die Eltern können eine davon abweichende Aufteilung des Urlaubs vereinbaren.
+
+<sup>4</sup> Der Urlaub kann am Stück oder tageweise bezogen werden.
+
+<sup>5</sup> Die oder der Vorgesetzte ist über die Modalitäten des Urlaubsbezugs sowie über Änderungen unverzüglich zu informieren.
 
 #### § 18a
 
