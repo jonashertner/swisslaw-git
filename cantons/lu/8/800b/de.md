@@ -3,20 +3,20 @@ canton: LU
 number: 800b
 title: Verordnung zum Spitalgesetz
 language: de
-version: 2019-01-01
-valid_until: 2021-06-30
-version_adopted: 2018-11-06
+version: 2021-07-01
+valid_until: 2022-06-30
+version_adopted: 2021-06-15
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/800b"
-pdf: "https://srl.lu.ch/api/de/versions/3333/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3761/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Spitalgesetz
 
-vom 22.11.2011 (Stand 01.01.2019)
+vom 22.11.2011 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -154,13 +154,13 @@ beschliesst:
 
 ## 3 Kantonale Spitäler
 
-### 3.1 Spitalräte
+### 3.1 Spitalrat der Luzerner Psychiatrie
 
 #### § 13
 
 **Wahl und Abberufung**
 
-<sup>1</sup> Der Regierungsrat wählt für die beiden Unternehmen «Luzerner Kantonsspital» und «Luzerner Psychiatrie» je einen Spitalrat und aus deren Mitte den Präsidenten oder die Präsidentin. Im Übrigen konstituieren sich die Spitalräte selbst.
+<sup>1</sup> Der Regierungsrat wählt für die Luzerner Psychiatrie einen Spitalrat und aus dessen Mitte den Präsidenten oder die Präsidentin. Im Übrigen konstituiert sich der Spitalrat selbst.
 
 <sup>2</sup> Aus wichtigen Gründen kann der Regierungsrat einzelne Mitglieder oder den ganzen Spitalrat vorzeitig abberufen.
 
@@ -179,8 +179,8 @@ beschliesst:
 <sup>1</sup> Die jährliche Grundentschädigung beträgt:
 
 - a. für Mitglieder 8500 bis 20 000 Franken;
-- b. für den Präsidenten oder die Präsidentin 20 000 bis 50 000 Franken zuzüglich einer pauschalen Entschädigung für Reisespesen bis maximal 3000 Franken;
-- c. für den Vizepräsidenten oder die Vizepräsidentin des Spitalrates des Luzerner Kantonsspitals 22 000 Franken.
+- b. für den Präsidenten oder die Präsidentin 20 000 bis 50 000 Franken zuzüglich einer pauschalen Entschädigung für Reisespesen bis maximal 3000 Franken.
+- c. …
 
 <sup>2</sup> Den Mitgliedern des Spitalrates werden zusätzlich ausgerichtet:
 
