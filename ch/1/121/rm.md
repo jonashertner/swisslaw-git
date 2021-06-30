@@ -4,31 +4,32 @@ title: "Lescha federala dals 25 da settember 2015 davart il servetsch d'infurmaz
 short: LSI
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: rm
-version: 2020-03-24
+version: 2021-07-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20200324/rm/xml/fedlex-data-admin-ch-eli-cc-2017-494-20200324-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20200324/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20210701/rm/xml/fedlex-data-admin-ch-eli-cc-2017-494-20210701-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20210701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Lescha federala davart il servetsch d’infurmaziun
 
-Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun,numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
+Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
 (LSI)
 
-dals 25 da settember 2015 (versiun dal 24 da mars 2020)
+dals 25 da settember 2015 (versiun dal 1. da fanadur 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
-sa basond sin ils artitgels 54 alinea 1 e 173 alinea 2 da la Constituziun federala[^ingress-1], suenter avair gì invista da la missiva dal Cussegl federal dals 19 da favrer 2014[^ingress-2],
+sa basond sin ils artitgels 54 alinea 1, 123 alinea 1 e 173 alinea 2 da la Constituziun federala[^ingress-1],[^ingress-2] suenter avair gì invista da la missiva dal Cussegl federal dals 19 da favrer 2014[^ingress-3],
 
 concluda:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)
+[^ingress-2]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^ingress-3]: [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)
 
 ## 1. chapitel Disposiziuns generalas e princips da la procuraziun d’infurmaziuns
 
@@ -283,7 +284,7 @@ La publicaziun d’in signalament d’ina persuna u d’in vehichel è mo admess
 - c. il vehichel vegn duvrà per in’autra smanatscha concreta per la segirezza interna u externa tenor l’artitgel 6 alinea 1 litera a;
 - d. igl è necessari da determinar il lieu, nua ch’ina persuna u in vehichel sa chatta per proteger ulteriurs interess impurtants da la Svizra tenor l’artitgel 3.
 
-<sup>3</sup> Il signalament na dastga betg vegnir publitgà per survegliar il vehichel d’ina persuna che appartegna ad ina da las gruppas professiunalas menziunadas en ils artitgels 171–173 dal Cudesch da procedura penala svizzer (CPP) [^16-2].
+<sup>3</sup> Il signalament na dastga betg vegnir publitgà per survegliar il vehichel d’ina persuna che appartegna ad ina da las gruppas professiunalas menziunadas en ils artitgels 171–173 dal Cudesch da procedura penala svizzer (CPP)[^16-2].
 
 [^16-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 [^16-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
@@ -388,7 +389,7 @@ Las suandantas autoritads èn obligadas da dar infurmaziuns al SIC per che quel 
 <sup>4</sup> Il Cussegl federal fixescha en ina glista betg publica, tge andaments e tge constataziuns che ston vegnir communitgads al SIC senza intimaziun da sia vart. El circumscriva la dimensiun da l’obligaziun d’annunzia e la procedura d’al dar infurmaziuns.
 
 [^20-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^20-2]: La rectificaziun da la Cumissiun da redacziun da la AF dals 12 da mars 2020, publitgada ils 24 da mars 2020, concerna mo il text franzos ([AS 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
+[^20-2]: La rectificaziun da la Cumissiun da redacziun da l’AF dals 12 da mars 2020, publitgada ils 24 da mars 2020, concerna mo il text franzos ([AS 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
 
 #### Art. 21
 
@@ -524,7 +525,7 @@ Sch’il SIC ha l’intenziun d’ordinar ina mesira da procuraziun suttamessa a
 
 <sup>7</sup> Sch’ina prolungaziun è necessaria, fa il SIC ina dumonda da prolungaziun motivada tenor l’alinea 1 avant che la durada permessa è scadida.
 
-<sup>8</sup> Il president da la partiziun cumpetenta dal Tribunal administrativ federal fa mintga onn in rapport da lavur per mauns da la Delegaziun da las Cumissiuns da gestiun (DelCG).
+<sup>8</sup> Il president da la partiziun cumpetenta dal Tribunal administrativ federal fa mintga onn in rapport da lavur per mauns da la Delegaziun da las Cumissiuns da gestiun (DelCdG).
 
 #### Art. 30
 
@@ -988,7 +989,7 @@ Il Cussegl federal regla:
 - d. la segirezza da las datas.
 
 [^58-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^58-2]: Rectifitgà da la Cumissiun da redacziun da l’Assamblea federala (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^58-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; SR **171****.****10**).
 
 ### 4. secziun Disposiziuns spezialas davart la protecziun da datas
 
@@ -1160,7 +1161,7 @@ Sch’igl exista in interess d’infurmaziun u in auter interess public, po il S
 Il Cussegl federal procura per la direcziun politica dal SIC ed ademplescha en quest connex en spezial las suandantas incumbensas:
 
 - a. conceder al SIC l’incarica da basa e renovar tala almain mintga 4 onns; l’incarica da basa è secreta;
-- b. approvar annualmain la glista d’observaziun tenor l’artitgel 72 e trametter questa glista a la DelCG; la glista d’observaziun è confidenziala;
+- b. approvar annualmain la glista d’observaziun tenor l’artitgel 72 e trametter questa glista a la DelCdG; la glista d’observaziun è confidenziala;
 - c. determinar annualmain las gruppaziuns che ston vegnir consideradas sco extremisticas violentas e prender enconuschientscha dal dumber d’extremists violents che na pon anc vegnir attribuidas a naginas gruppaziuns enconuschentas;
 - d. giuditgar annualmain e – sche necessari – en cas d’eveniments spezials la situaziun da smanatscha ed infurmar las Chombras federalas e la publicitad;
 - e. ordinar las mesiras necessarias en cas da situaziuns da smanatscha spezialas;
@@ -1180,7 +1181,7 @@ Il Cussegl federal procura per la direcziun politica dal SIC ed ademplescha en q
 
 <sup>3</sup> En cas da mesiras da procuraziun suttamessas ad in’autorisaziun sto vegnir observada la procedura d’approvaziun tenor ils artitgels 26–33.
 
-<sup>4</sup> Sch’il Cussegl federal dat ina incumbensa tenor l’alinea 1, infurmescha el entaifer 24 uras la DelCG en chaussa.
+<sup>4</sup> Sch’il Cussegl federal dat ina incumbensa tenor l’alinea 1, infurmescha el entaifer 24 uras la DelCdG en chaussa.
 
 #### Art. 72
 
@@ -1215,19 +1216,26 @@ In’organisaziun u gruppaziun vegn stritgada da la glista d’observaziun, sche
 
 <sup>1</sup> Il Cussegl federal po scumandar in’organisaziun u ina gruppaziun che propaghescha, sustegna e promova en autra moda directamain u indirectamain activitads terroristicas u l’extremissem violent e periclitescha uschia concretamain la segirezza interna u externa.
 
-<sup>2</sup> In scumond sa basa sin in conclus correspundent da las Naziuns Unidas u da l’Organisaziun per la segirezza e la collavuraziun en l’Europa; il Cussegl federal consultescha las cumissiuns ch’èn cumpetentas per la politica da segirezza.
+<sup>2</sup> In scumond sa basa sin in conclus da scumond u da sancziun che las Naziuns Unidas han pronunzià per l’organisaziun u per la gruppaziun respectiva; il Cussegl federal consultescha las cumissiuns ch’èn cumpetentas per la politica da segirezza.[^74-1]
 
 <sup>3</sup> In scumond po vegnir pronunzià per maximalmain 5 onns. Sche las premissas èn anc adina ademplidas suenter la scadenza da quest temp, po il scumond vegnir prolungà per maximalmain 5 ulteriurs onns.
 
-<sup>4</sup> Tgi che – sin territori svizzer – sa participescha ad ina gruppaziun u ad in’organisaziun ch’è scumandada tenor l’alinea 1, la sustegna persunalmain u materialmain, organisescha per ella u per sias finamiras acziuns da propaganda, recrutescha per ella u promova sias activitads en autra moda e maniera, vegn, nun ch’i vegnian applitgadas disposiziuns penalas pli severas, chastià cun in chasti d’empraschunament fin a 3 onns u cun in chasti pecuniar.
+<sup>4</sup> Tgi che sa participescha – sin territori svizzer – ad in’organisaziun u ad ina gruppaziun ch’è scumandada tenor l’alinea 1, la sustegna persunalmain u materialmain, organisescha per ella u per sias finamiras acziuns da propaganda, recrutescha per ella u promova sias activitads en autra moda e maniera, vegn chastià cun in chasti da detenziun fin 5 onns u cun in chasti pecuniar.[^74-2]
 
-<sup>5</sup> Chastiabel è er tgi che commetta il malfatg a l’exteriur, sch’el vegn arrestà en Svizra e sch’el na vegn betg extradì. L’artitgel 7 alineas 4 e 5 CP[^74-1] è applitgabel.
+<sup>4bis</sup> La dretgira po diminuir il chasti tenor l’alinea 4 (art. 48*a* CP[^74-3]), sch’il delinquent sa stenta d’impedir ulteriuras activitads da l’organisaziun u da la gruppaziun.[^74-4]
 
-<sup>6</sup> Las disposiziuns generalas dal Cudesch penal davart la confiscaziun da valurs, en spezial ils artitgels 70 alinea 5 e 72 èn applitgablas.
+<sup>5</sup> Chastiabel è er tgi che commetta il malfatg a l’exteriur, sch’el vegn arrestà en Svizra e sch’el na vegn betg extradì. L’artitgel 7 alineas 4 e 5 CP è applitgabel.
 
-<sup>7</sup> Las autoritads cumpetentas communitgeschan tut las sentenzias, tut las decisiuns penalas e tut ils conclus da sistida immediatamain, gratuitamain e cumplettamain a la procura publica federala, al SIC ed a l’Uffizi federal da polizia.
+<sup>6</sup> La persecuziun ed il giudicament da las acziuns tenor ils alineas 4 e 5 suttastattan a la giurisdicziun federala.[^74-5]
 
-[^74-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+<sup>7</sup> Las autoritads cumpetentas communitgeschan tut las sentenzias, tut las decisiuns penalas e tut ils conclus da sistida immediatamain, gratuitamain e cumplettamain al SIC.[^74-6]
+
+[^74-1]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-2]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-4]: Integrà tras la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-5]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-6]: Versiun tenor la cifra II 1 da l’agiunta dal COF dals 25 da sett. 2020 davart l’approvaziun e la realisaziun da la Convenziun dal Cussegl da l’Europa per la prevenziun dal terrorissem e da ses protocol supplementar sco er davart il rinforzament da l’instrumentari penal cunter il terrorissem e la criminalitad organisada, en vigur dapi il 1. da fan. 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ### 2. secziun Controlla e surveglianza dal SIC
 
@@ -1268,8 +1276,8 @@ El po vegnir suspendì dal Cussegl federal da ses uffizi avant la scadenza da la
 
 <sup>4</sup> La relaziun da lavur dal manader sco er dal persunal da l’autoritad independenta da surveglianza sa drizza tenor la Lescha dals 24 da mars 2000[^77-1] davart il persunal da la Confederaziun. Il manader n’è betg suttamess al sistem da giudicat tenor l’artitgel 4 alinea 3 da la Lescha davart il persunal da la Confederaziun.[^77-2]
 
-[^77-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^77-2]: La rectificaziun da la Cumissiun da redacziun da la AF dals 12 da mars 2020, publitgada ils 24 da mars 2020, concerna mo il text franzos ([AS 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
+[^77-1]: SR **172.2****20.1**
+[^77-2]: La rectificaziun da la Cumissiun da redacziun da l’AF dals 12 da mars 2020, publitgada ils 24 da mars 2020, concerna mo il text franzos ([AS 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
 
 #### Art. 78
 
@@ -1316,15 +1324,15 @@ Il Cussegl federal regla:
 
 <sup>3</sup> Cunvegnas administrativas internaziunalas che vegnan fatgas dal SIC, che cumpiglian ina perioda pli lunga, che han consequenzas finanzialas substanzialas u da las qualas il Cussegl federal stuess avair enconuschientscha per motivs giuridics u politics, ston vegnir approvadas dal Cussegl federal. La resalva d’approvaziun vala er per cunvegnas che na vegnan betg fixadas en scrit. Las cunvegnas dastgan vegnir exequidas pir suenter ch’ellas èn vegnidas approvadas.
 
-<sup>4</sup> Il DDPS orientescha il Cussegl federal e la DelCG annualmain u tenor basegn davart l’intent ed il dumber da las identitads da finta che vegnan applitgadas dals collavuraturs dal SIC u dals organs da segirezza dals chantuns. Il dumber dals documents d’identitad emess da nov sto vegnir cumprovà separadamain.
+<sup>4</sup> Il DDPS orientescha il Cussegl federal e la DelCdG annualmain u tenor basegn davart l’intent ed il dumber da las identitads da finta che vegnan applitgadas dals collavuraturs dal SIC u dals organs da segirezza dals chantuns. Il dumber dals documents d’identitad emess da nov sto vegnir cumprovà separadamain.
 
-<sup>5</sup> Il Cussegl federal orientescha la DelCG annualmain e tenor basegn davart scumonds d’activitads e davart ils resultats da la controlla regulara tenor l’artitgel 73 alinea 3 sco er davart scumonds d’organisaziuns.
+<sup>5</sup> Il Cussegl federal orientescha la DelCdG annualmain e tenor basegn davart scumonds d’activitads e davart ils resultats da la controlla regulara tenor l’artitgel 73 alinea 3 sco er davart scumonds d’organisaziuns.
 
 #### Art. 81
 
 **Surveglianza suprema parlamentara**
 
-<sup>1</sup> La surveglianza suprema parlamentara da l’activitad dal SIC e dals organs executivs dals chantuns che ageschan per incumbensa da la Confederaziun per exequir questa lescha è – tut tenor ils secturs da cumpetenza respectivs – chaussa da la DelCG e da la Delegaziun da finanzas a norma da la Lescha dal parlament dals 13 da december 2002[^81-1].
+<sup>1</sup> La surveglianza suprema parlamentara da l’activitad dal SIC e dals organs executivs dals chantuns che ageschan per incumbensa da la Confederaziun per exequir questa lescha è – tut tenor ils secturs da cumpetenza respectivs – chaussa da la DelCdG e da la Delegaziun da finanzas a norma da la Lescha dal parlament dals 13 da december 2002[^81-1].
 
 <sup>2</sup> Ils organs da surveglianza parlamentars chantunals pon controllar l’execuziun tenor l’artitgel 85 alinea 1.
 
@@ -1402,7 +1410,7 @@ L’aboliziun e la midada d’auters decrets vegnan regladas en l’agiunta.
 
 ...[^87-1]
 
-[^87-1]: La disposiziun da coordinaziun po vegnir consultada en la [AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494).
+[^87-1]: La disposiziun da coordinaziun po vegnir consultada en la AS **20****17** 4095.
 
 #### Art. 88
 
@@ -1433,4 +1441,4 @@ Ils decrets qua sutvart vegnan midads sco suonda:
 ...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809), [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)agiunta cifra 1 [5525](https://fedlex.data.admin.ch/eli/oc/2012/637), [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553)]
-[^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la [AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494).
+[^annexu1-lvlu1-2]: Las midadas pon vegnir consultadas en la [AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)..

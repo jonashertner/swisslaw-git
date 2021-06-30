@@ -4,11 +4,11 @@ title: Loi fédérale du 25 septembre 2015 sur le renseignement (LRens)
 short: LRens
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: fr
-version: 2020-03-24
+version: 2021-07-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20200324/fr/xml/fedlex-data-admin-ch-eli-cc-2017-494-20200324-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20200324/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-494-20210701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20200324/fr"
 
 (LRens)[^t-1]
 
-du 25 septembre 2015 (Etat le 24 mars 2020)
+du 25 septembre 2015 (Etat le 1<sup>er</sup> juillet 2021)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 54, al. 1, et 173, al. 2, de la Constitution[^ingress-1], vu le message du Conseil fédéral du 19 février 2014[^ingress-2],
+vu les art. 54, al. 1, 123, al. 1, et 173, al. 2, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 19 février 2014[^ingress-3],
 
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^ingress-3]: [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)
 
 ## Chapitre 1 Dispositions générales et principes applicables à la recherche d’informations
 
@@ -1216,19 +1217,26 @@ Les organisations et les groupements sont radiés de la liste d’observation da
 
 <sup>1</sup> Le Conseil fédéral peut interdire une organisation ou un groupement qui, directement ou indirectement, propage, soutient ou promeut d’une autre manière des activités terroristes ou l’extrémisme violent, menaçant ainsi concrètement la sûreté intérieure ou extérieure.
 
-<sup>2</sup> L’interdiction se fonde sur une décision des Nations Unies ou de l’Organisation pour la sécurité et la coopération en Europe; le Conseil fédéral consulte les commissions compétentes en matière de politique de sécurité.
+<sup>2</sup> L’interdiction se fonde sur une interdiction ou des sanctions prononcées par les Nations Unies à l’encontre de l’organisation ou du groupement; le Conseil fédéral consulte les commissions compétentes en matière de politique de sécurité.[^74-1]
 
 <sup>3</sup> L’interdiction peut être prononcée pour cinq ans au plus. À l’expiration de ce délai, elle peut être prolongée à plusieurs reprises de cinq nouvelles années au plus si les conditions justifiant l’interdiction continuent d’être remplies.
 
-<sup>4</sup> Quiconque s’associe sur le territoire suisse à une organisation ou à un groupement interdits visé à l’al. 1, met à sa disposition des ressources humaines ou matérielles, organise des actions de propagande en sa faveur ou en faveur de ses objectifs, recrute des adeptes ou encourage ses activités de toute autre manière est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire, sous réserve de dispositions pénales plus sévères.
+<sup>4</sup> Quiconque s’associe sur le territoire suisse à une organisation ou à un groupement interdit visé à l’al. 1, met à sa disposition des ressources humaines ou matérielles, organise des actions de propagande en sa faveur ou en faveur de ses objectifs, recrute des adeptes ou encourage ses activités de toute autre manière est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.[^74-2]
 
-<sup>5</sup> Est aussi punissable quiconque commet l’infraction à l’étranger, s’il est arrêté en Suisse et n’est pas extradé. L’art. 7, al. 4 et 5, CP[^74-1] est applicable.
+<sup>4bis</sup> Le juge peut atténuer la peine visée à l’al. 4 (art. 48a CP ) si l’auteur s’efforce d’empêcher la poursuite de l’activité de l’organisation ou du groupement.[^74-3]
 
-<sup>6</sup> Les dispositions générales du CP relatives à la confiscation de valeurs patrimoniales, en particulier les art. 70, al. 5, et 72 CP, sont applicables.
+<sup>5</sup> Est aussi punissable quiconque commet l’infraction à l’étranger, s’il est arrêté en Suisse et n’est pas extradé. L’art. 7, al. 4 et 5, CP[^74-4] est applicable.
 
-<sup>7</sup> Les autorités compétentes communiquent immédiatement et sans frais au Ministère public de la Confédération, au SRC et à l’Office fédéral de la police tous les jugements, mandats de répression et ordonnances de non-lieu en version intégrale.
+<sup>6</sup> La poursuite et le jugement des infractions au sens des al. 4 et 5 relèvent de la juri-diction fédérale.[^74-5]
 
-[^74-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+<sup>7</sup> Les autorités compétentes communiquent immédiatement et sans frais au SRC tous les jugements, mandats de répression et ordonnances de non-lieu en version intégrale.[^74-6]
+
+[^74-1]: Nouvelle teneur selon l’annexe ch. II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-2]: Nouvelle teneur selon l’annexe ch. II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-3]: Introduit par l’annexe ch. II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-5]: Nouvelle teneur selon l’annexe ch. II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-6]: Nouvelle teneur selon l’annexe ch. II 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ### Section 2 Contrôle et surveillance du SRC
 
@@ -1267,7 +1275,7 @@ Le Conseil fédéral peut révoquer le chef de l’autorité de surveillance ind
 
 <sup>3</sup> Elle se constitue elle-même. Elle fixe son organisation et ses méthodes de travail dans un règlement.
 
-<sup>4</sup> Les rapports de travail du chef de l’autorité de surveillance indépendante et du personnel sont régis par la loi du 24 mars 2000 sur le personnel de la Confédéra-tion[^77-1]. Le chef de l’autorité de surveillance indépendante n’est pas soumis au système d’évaluation prévu à l’art. 4, al. 3, de ladite loi.[^77-2]
+<sup>4</sup> Les rapports de travail du chef de l’autorité de surveillance indépendante et du personnel sont régis par la loi du 24 mars 2000 sur le personnel de la Confédération[^77-1]. Le chef de l’autorité de surveillance indépendante n’est pas soumis au système d’évaluation prévu à l’art. 4, al. 3, de ladite loi.[^77-2]
 
 [^77-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 [^77-2]: Erratum de la CdR de l’Ass. féd. du 12 mars 2020, publié le 24 mars 2020 ([RO 2020 1057](https://fedlex.data.admin.ch/eli/oc/2020/187)).
@@ -1401,7 +1409,7 @@ L’abrogation et la modification d’autres actes sont réglées en annexe.
 
 **Coordination avec la modification du 25 septembre 2015 de la loi fédérale sur le service civil**[^87-1]
 
-...
+…
 
 [^87-1]: La disp. de coordination peut être consultée au [RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494).
 
@@ -1431,7 +1439,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RO 2009 6565](https://fedlex.data.admin.ch/eli/oc/2009/809), [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)annexe ch. 1 [5525](https://fedlex.data.admin.ch/eli/oc/2012/637), [2014 3223](https://fedlex.data.admin.ch/eli/oc/2014/553)]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494).

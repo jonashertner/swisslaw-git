@@ -4,11 +4,11 @@ title: Legge federale del 25 settembre 2015 sulle attività informative (LAIn)
 short: LAIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: it
-version: 2020-03-24
+version: 2021-07-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20200324/it/xml/fedlex-data-admin-ch-eli-cc-2017-494-20200324-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20200324/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2017-494-20210701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20200324/it"
 
 (LAIn)
 
-del 25 settembre 2015 (Stato 24 marzo 2020) (Stato 24 marzo 2020)
+del 25 settembre 2015 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 54 capoverso 1 e 173 capoverso 2 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 19 febbraio 2014[^ingress-2],
+visti gli articoli 54 capoverso 1, 123 capoverso 1 e 173 capoverso 2 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 19 febbraio 2014[^ingress-3],
 
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)
+[^ingress-2]: Nuovo testo giusta l’all. n. II 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^ingress-3]: [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)
 
 ## Capitolo 1: Disposizioni generali e principi dell’acquisizione di informazioni
 
@@ -47,7 +48,7 @@ La presente legge disciplina:
 La presente legge ha lo scopo di tutelare interessi nazionali importanti; intende:
 
 - a. contribuire a garantire i fondamenti della democrazia e dello Stato di diritto della Svizzera e a proteggere i diritti di libertà della sua popolazione;
-- b. accrescere la sicurezza della popolazione della Svizzera e degli Svizzeri all’estero;
+- b. accrescere la sicurezza della popolazione della Svizzera e degli Svizzeri all’estero; (Stato 1° luglio 2021)
 - c. sostenere la capacità d’azione della Svizzera;
 - d. contribuire a tutelare gli interessi internazionali in materia di sicurezza.
 
@@ -1213,19 +1214,27 @@ Le organizzazioni e i gruppi sono stralciati dalla lista d’osservazione quando
 
 <sup>1</sup> Il Consiglio federale può vietare un’organizzazione o un gruppo che direttamente o indirettamente propaga, sostiene o favorisce in altro modo attività terroristiche o di estremismo violento e che in questo modo minaccia concretamente la sicurezza interna o esterna.
 
-<sup>2</sup> Il divieto si fonda su una decisione delle Nazioni Unite o dell’Organizzazione per la sicurezza e la cooperazione in Europa; il Consiglio federale consulta le commissioni competenti in materia di politica di sicurezza.
+<sup>2</sup> Il divieto si fonda su una decisione delle Nazioni Unite che sancisce un divieto o sanzioni nei confronti dell’organizzazione o del gruppo; il Consiglio federale consulta le commissioni competenti in materia di politica di sicurezza.[^74-1]
 
 <sup>3</sup> Il divieto è pronunciato per cinque anni al massimo. Se allo scadere del termine le condizioni continuano a essere adempiute, il divieto può essere prorogato di volta in volta di cinque anni al massimo.
 
-<sup>4</sup> Chiunque partecipa sul territorio svizzero a uno dei gruppi o a una delle organizzazioni vietati secondo il capoverso 1, mette a disposizione risorse umane o materiale, organizza azioni propagandistiche a sostegno dei suoi obiettivi, recluta adepti o promuove in altro modo le sue attività, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria, nella misura in cui non siano applicabili disposizioni penali più severe.
+<sup>4</sup> Chiunque partecipa sul territorio svizzero a una delle organizzazioni o a uno dei gruppi vietati secondo il capoverso 1, mette a disposizione risorse umane o materiale, organizza azioni propagandistiche in suo favore o a sostegno dei suoi obiettivi, recluta adepti o promuove in altro modo le sue attività, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.[^74-2]
 
-<sup>5</sup> È punibile anche chi commette il reato all’estero, se è arrestato in Svizzera e non è estradato. È applicabile l’articolo 7 capoversi 4 e 5 CP[^74-1].
+<sup>4bis</sup> Il giudice può attenuare la pena di cui al capoverso 4 (art. 48*a* CP[^74-3]), se l’autore si sforza d’impedire la prosecuzione dell’attività dell’organizzazione o del gruppo.[^74-4]
 
-<sup>6</sup> Sono applicabili le disposizioni generali del CP relative alla confisca di valori patrimoniali, segnatamente gli articoli 70 capoverso 5 e 72.
+<sup>5</sup> È punibile anche chi commette il reato all’estero, se è arrestato in Svizzera e non è estradato. È applicabile l’articolo 7 capoversi 4 e 5 CP[^74-5].
 
-<sup>7</sup> Le autorità competenti comunicano senza indugio e gratuitamente al Ministero pubblico della Confederazione, al SIC e all’Ufficio federale di polizia tutte le sentenze, i decreti penali e le decisioni di abbandono nella loro versione integrale.
+<sup>6</sup> Il perseguimento e il giudizio dei reati di cui ai capoversi 4 e 5 sottostanno alla giurisdizione federale.[^74-6]
 
-[^74-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+<sup>7</sup> Le autorità competenti comunicano senza indugio e gratuitamente al SIC tutte le sentenze, i decreti penali e le decisioni di abbandono nella loro versione integrale.[^74-7]
+
+[^74-1]: Nuovo testo giusta l’all. n. II 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-2]: Nuovo testo giusta l’all. n. II 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-4]: Introdotto dall’all. n. II 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-6]: Nuovo testo giusta l’all. n. II 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-7]: Nuovo testo giusta l’all. n. II 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ### Sezione 2: Controllo e vigilanza del SIC
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 2015 über den Nachrichtendienst (Nachric
 short: NDG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: de
-version: 2020-03-24
+version: 2021-07-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20200324/de/xml/fedlex-data-admin-ch-eli-cc-2017-494-20200324-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20200324/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2017-494-20210701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20200324/de"
 
 (Nachrichtendienstgesetz, NDG)
 
-vom 25. September 2015 (Stand am 24. März 2020)
+vom 25. September 2015 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 54 Absatz 1 und 173 Absatz 2 der Bundesverfassung[^ingress-1], nach Einsicht in die Botschaft des Bundesrates vom 19. Februar 2014[^ingress-2],
+gestützt auf die Artikel 54 Absatz 1, 123 Absatz 1 und 173 Absatz 2 der Bundesverfassung[^ingress-1],[^ingress-2]
+
+nach Einsicht in die Botschaft des Bundesrates vom 19. Februar 2014[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)
+[^ingress-2]: Fassung gemäss Anhang Ziff. II 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^ingress-3]: [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)
 
 ## 1. Kapitel: Allgemeine Bestimmungen und Grundsätze der Informationsbeschaffung
 
@@ -1213,19 +1216,27 @@ Eine Organisation oder Gruppierung wird von der Beobachtungsliste gestrichen, we
 
 <sup>1</sup> Der Bundesrat kann eine Organisation oder Gruppierung verbieten, welche mittelbar oder unmittelbar terroristische oder gewalttätig-extremistische Aktivitäten propagiert, unterstützt oder in anderer Weise fördert und damit die innere oder äussere Sicherheit konkret bedroht.
 
-<sup>2</sup> Ein Verbot stützt sich auf einen entsprechenden Beschluss der Vereinten Nationen oder der Organisation für Sicherheit und Zusammenarbeit in Europa; der Bundesrat konsultiert die für die Sicherheitspolitik zuständigen Kommissionen.
+<sup>2</sup> Ein Verbot stützt sich auf einen die Organisation oder Gruppierung betreffenden Verbots- oder Sanktionsbeschluss der Vereinten Nationen; der Bundesrat konsultiert die für die Sicherheitspolitik zuständigen Kommissionen.[^74-1]
 
 <sup>3</sup> Ein Verbot ist auf höchstens fünf Jahre zu befristen. Sind die Voraussetzungen nach Ablauf der Frist weiterhin erfüllt, so kann es jeweils um höchstens weitere fünf Jahre verlängert werden.
 
-<sup>4</sup> Wer sich auf dem Gebiet der Schweiz an einer nach Absatz 1 verbotenen Gruppierung oder Organisation beteiligt, sie personell oder materiell unterstützt, für sie oder ihre Ziele Propagandaaktionen organisiert, für sie anwirbt oder ihre Aktivitäten auf andere Weise fördert, wird, sofern nicht strengere Strafbestimmungen zur Anwendung kommen, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+<sup>4</sup> Wer sich auf dem Gebiet der Schweiz an einer nach Absatz 1 verbotenen Organisation oder Gruppierung beteiligt, sie personell oder materiell unterstützt, für sie oder ihre Ziele Propagandaaktionen organisiert, für sie anwirbt oder ihre Aktivitäten auf andere Weise fördert, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.[^74-2]
 
-<sup>5</sup> Strafbar ist auch, wer die Tat im Ausland begeht, wenn er in der Schweiz verhaftet und nicht ausgeliefert wird. Artikel 7 Absätze 4 und 5 StGB[^74-1] ist anwendbar.
+<sup>4bis</sup> Das Gericht kann die Strafe nach Absatz 4 mildern (Art. 48*a* StGB[^74-3]), wenn die Täterin oder der Täter sich bemüht, die weitere Tätigkeit der Organisation oder Gruppierung zu verhindern.[^74-4]
 
-<sup>6</sup> Die allgemeinen Bestimmungen des Strafgesetzbuches zur Einziehung von Vermögenswerten, insbesondere die Artikel 70 Absatz 5 und 72, sind anwendbar.
+<sup>5</sup> Strafbar ist auch, wer die Tat im Ausland begeht, wenn er in der Schweiz verhaftet und nicht ausgeliefert wird. Artikel 7 Absätze 4 und 5 StGB[^74-5] ist anwendbar.
 
-<sup>7</sup> Die zuständigen Behörden teilen sämtliche Urteile, Strafbescheide und Einstellungsbeschlüsse unverzüglich und unentgeltlich in vollständiger Ausfertigung der Bundesanwaltschaft, dem NDB und dem Bundesamt für Polizei mit.
+<sup>6</sup> Die Verfolgung und die Beurteilung der Handlungen nach den Absätzen 4 und 5 unterstehen der Bundesgerichtsbarkeit.[^74-6]
 
-[^74-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+<sup>7</sup> Die zuständigen Behörden teilen dem NDB sämtliche Urteile, Strafbescheide und Einstellungsbeschlüsse unverzüglich, unentgeltlich und in vollständiger Ausfertigung mit.[^74-7]
+
+[^74-1]: Fassung gemäss Anhang Ziff. II 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-2]: Fassung gemäss Anhang Ziff. II 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-4]: Eingefügt durch Anhang Ziff. II 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-6]: Fassung gemäss Anhang Ziff. II 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-7]: Fassung gemäss Anhang Ziff. II 1 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ### 2. Abschnitt: Kontrolle und Aufsicht des NDB
 

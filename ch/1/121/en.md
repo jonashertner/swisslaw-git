@@ -4,11 +4,11 @@ title: "Federal Act of 25 September 2015 on the Intelligence Service (Intelligen
 short: IntelSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/494"
 language: en
-version: 2020-03-24
+version: 2021-07-01
 adopted: 2015-09-25
 in_force: 2017-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20200324/en/xml/fedlex-data-admin-ch-eli-cc-2017-494-20200324-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20200324/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/494/20210701/en/xml/fedlex-data-admin-ch-eli-cc-2017-494-20210701-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/494/20210701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,16 +19,17 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Intelligence Service Act, IntelSA)
 
-of 25 September 2015 (Status as of 24 March 2020)
+of 25 September 2015 (Status as of 1 July 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
-on the basis of Articles 54 paragraph 1 and 173 paragraph 2 of the Federal Constitution[^ingress-1], and having considered the Federal Council Dispatch dated 19 February 2014[^ingress-2],
+on the basis of Articles 54 paragraph 1, 123 paragraph 1 and 173 paragraph 2 of the Federal Constitution[^ingress-1],[^ingress-2] and having considered the Federal Council Dispatch dated 19 February 2014[^ingress-3],
 
 decrees:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)
+[^ingress-2]: Amended by Annex No II 1 of the FA of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^ingress-3]: [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)
 
 ## Chapter 1 General Provisions and Principles governing Information Gathering
 
@@ -1215,19 +1216,27 @@ An organisation or group shall be removed from the watch list if:
 
 <sup>1</sup> The Federal Council may ban an organisation or group that directly or indirectly propagates, supports or otherwise promotes terrorist or violent-extremist activities and thus poses a specific threat to internal or external security.
 
-<sup>2</sup> A ban shall be based on a corresponding resolution from the United Nations or the Organisation for Security and Cooperation in Europe; the Federal Council shall consult the committees responsible for security policy.
+<sup>2</sup> A ban shall be based on a United Nations resolution on a ban or on sanctions; the Federal Council shall consult the committees responsible for security policy.[^74-1]
 
 <sup>3</sup> A ban may be imposed for a maximum of five years. If the requirements are still met on expiry of this period, the ban may be extended for a maximum of five further years.
 
-<sup>4</sup> Any person who on Swiss territory participates in a group or organisation banned under paragraph 1, supports it by providing human or other resources, organises propaganda campaigns for its aims, recruits for it or in any other way promotes its activities shall, unless more stringent criminal provisions apply, be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>4</sup> Any person who on Swiss territory participates in an organisation or group banned under paragraph 1, supports it by providing human or other resources, organises propaganda campaigns for its aims, recruits for it or in any other way promotes its activities shall, be liable to a custodial sentence not exceeding five years or to a monetary penalty.[^74-2]
 
-<sup>5</sup> It is an offence for any person to commit the foregoing offence outside Switzerland if that person is arrested in Switzerland and not extradited. Article 7 paragraphs 4 and 5 SCC[^74-1] applies.
+<sup>4bis</sup> The court may reduce the penalty in accordance with paragraph 4 (Art. 48*a* SCC[^74-3]) if the offender makes an effort to foil the further activities of the organisation or group.[^74-4]
 
-<sup>6</sup> The general provisions of the Criminal Code on the forfeiture of assets, in particular Articles 70 paragraphs 5 and 72, apply.
+<sup>5</sup> It is an offence for any person to commit the foregoing offence outside Switzerland if that person is arrested in Switzerland and not extradited. Article 7 paragraphs 4 and 5 SCC[^74-5] applies.
 
-<sup>7</sup> The responsible authorities shall notify the Office of the Attorney General of Switzerland, the FIS and the Federal Office of Police of any judgments, penalty orders and decisions to dismiss proceedings immediately and free of charge, providing copies of all related documents.
+<sup>6</sup> The prosecution and adjudication of acts under paragraphs 4 and 5 are subject to federal jurisdiction.[^74-6]
 
-[^74-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+<sup>7</sup> The responsible authorities shall notify the FIS of any judgments, penalty orders and decisions to dismiss proceedings immediately and free of charge, providing copies of all related documents.[^74-7]
+
+[^74-1]: Amended by Annex No II 1 of the FA of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-2]: Amended by Annex No II 1 of the FA of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-4]: Inserted by Annex No II 1 of the FA of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^74-6]: Amended by Annex No II 1 of the FA of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^74-7]: Amended by Annex No II 1 of the FA of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ### Section 2 Control and Supervision of the FIS
 
