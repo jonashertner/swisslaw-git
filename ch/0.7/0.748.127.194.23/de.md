@@ -3,11 +3,11 @@ sr: "0.748.127.194.23"
 title: Abkommen vom 2. Mai 2001 zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Indien über den Luftlinienverkehr (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/13"
 language: de
-version: 2020-03-11
+version: 2021-07-01
 adopted: 2001-05-02
 in_force: 2002-01-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/13/20200311/de/xml/fedlex-data-admin-ch-eli-cc-2005-13-20200311-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/13/20200311/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/13/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2005-13-20210701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/13/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 2. Mai 2001
 
 In Kraft getreten durch Notenaustausch am 11. Januar 2002
 
-(Stand am 11. März 2020)
+(Stand am 1. Juli 2021)
 
 Da die Schweizerische Eidgenossenschaft und die Republik Indien
 
@@ -110,7 +110,7 @@ Bei Erhalt der Notifikation einer solchen Bezeichnung erteilt die andere Vertrag
 
 <sup>3.</sup> Nach Empfang der in Absatz 2 dieses Artikels vorgesehenen Betriebsbewilligung kann das bezeichnete Luftfahrtunternehmen jederzeit die vereinbarten Linien betreiben, vorausgesetzt, dass die Tarife in Übereinstimmung mit den Bestimmungen des Artikels 13 festgesetzt und die Flugpläne nach den Weisungen des Artikel 14 dieses Abkommens genehmigt wurden.
 
-[^3-1]: Fassung gemäss Art. 1 des Prot. vom 11. März 2020, provisorisch angewendet seit 11. März 2020 ([AS 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^3-1]: Fassung gemäss Art. 1 des Prot. vom 11. März 2020, in Kraft seit 1. Juli 2021 ([AS 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 4
 
@@ -145,7 +145,7 @@ Jede Vertragspartei ist berechtigt, die Betriebsbewilligung oder technische Gene
 
 <sup>3.</sup> Dieser Artikel beschränkt nicht die Rechte beider Vertragsparteien, die Betriebsbewilligung oder technischen Genehmigungen eines oder mehrerer Luftfahrtunternehmen(s) der anderen Vertragspartei nach den Bestimmungen in Artikel 7 (Sicherheit der Luftfahrt) dieses Abkommens zu verweigern, zu widerrufen, einzuschränken oder Bedingungen aufzuerlegen.
 
-[^4-1]: Fassung gemäss Art. 2 des Prot. vom 11. März 2020, provisorisch angewendet seit 11. März 2020 ([AS 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^4-1]: Fassung gemäss Art. 2 des Prot. vom 11. März 2020, in Kraft seit 1. Juli 2021 ([AS 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 5
 
@@ -197,7 +197,7 @@ Das Beförderungsangebot für Fluggäste, Gepäck und Fracht sowie Postsendungen
 
 <sup>7.</sup> Hat eine Vertragspartei berechtigte Gründe zu der Annahme, dass die andere Vertragspartei von den Luftsicherheitsbestimmungen dieses Artikels abweicht, können die Luftfahrtbehörden dieser Vertragspartei sofortige Konsultationen mit den Luftfahrtbehörden der anderen Vertragspartei verlangen. Wird innerhalb von 15 Tagen nach Eingang dieses Ersuchens keine zufrieden stellende Einigung erzielt, so stellt dies einen Grund dafür dar, die Betriebsbewilligung und die technischen Genehmigungen einer oder der Luftfahrtunternehmen dieser Vertragspartei zu verweigern, zu widerrufen, einzuschränken oder mit Auflagen zu versehen. Wenn eine Notlage dies erfordert, kann eine Vertragspartei vor Ablauf von fünfzehn 15 Tagen vorläufige Massnahmen ergreifen.
 
-[^7-1]: Fassung gemäss Art. 3 des Prot. vom 11. März 2020, provisorisch angewendet seit 11. März 2020 ([AS 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^7-1]: Fassung gemäss Art. 3 des Prot. vom 11. März 2020, in Kraft seit 1. Juli 2021 ([AS 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 [^7-2]: [SR 0.748.710.1](https://fedlex.data.admin.ch/eli/cc/1971/312_316_316)
 [^7-3]: [SR 0.748.710.2](https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509)
 [^7-4]: [SR 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
@@ -221,7 +221,7 @@ Das Beförderungsangebot für Fluggäste, Gepäck und Fracht sowie Postsendungen
 
 <sup>7.</sup> Jede in Übereinstimmung mit Absatz 6 von einer Vertragspartei getroffene Massnahme wird aufgehoben, sobald die Gründe, welche diese Massnahme ausgelöst haben, nicht mehr gegeben sind.
 
-[^8-1]: Fassung gemäss Art. 4 des Prot. vom 11. März 2020, provisorisch angewendet seit 11. März 2020 ([AS 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^8-1]: Fassung gemäss Art. 4 des Prot. vom 11. März 2020, in Kraft seit 1. Juli 2021 ([AS 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 8<sup>bis</sup>
 
@@ -231,7 +231,7 @@ Das Beförderungsangebot für Fluggäste, Gepäck und Fracht sowie Postsendungen
 
 <sup>2.</sup> Unter Vorbehalt von Absatz 1 vorstehend können die bezeichneten Luftfahrtunternehmen jeder Vertragspartei Luftfahrzeuge (oder Luftfahrzeug und Besatzung) von jedem Unternehmen, einschliesslich von anderen Luftfahrtunternehmen, leasen, vorausgesetzt, dass dies nicht dazu führt, dass das Luftfahrtunternehmen, welches das Luftfahrzeug verleast, Verkehrsrechte ausübt, welche ihm nicht zustehen.
 
-[^8bis-1]: Eingefügt durch Art. 5 des Prot. vom 11. März 2020, provisorisch angewendet seit 11. März 2020 ([AS 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^8bis-1]: Eingefügt durch Art. 5 des Prot. vom 11. März 2020, in Kraft seit 1. Juli 2021 ([AS 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 9
 
@@ -293,7 +293,7 @@ Jede Vertragspartei gestattet es, dass die Tarife für Luftverkehrslinien von je
 
 <sup>2.</sup> Tarife für internationale Luftverkehrslinien zwischen den Gebieten der Vertragsparteien können zur Einreichung aufgefordert werden oder auch nicht. Ungeachtet dessen gewähren die bezeichneten Luftfahrtunternehmen der Vertragsparteien den Luftfahrtbehörden der Vertragsparteien auf Anfrage Zugang zu Informationen über historische, bestehende und vorgeschlagene Tarife in einer für diese Luftfahrtbehörden akzeptablen Weise und Form innerhalb einer angemessenen Frist.
 
-[^13-1]: Fassung gemäss Art. 6 des Prot. vom 11. März 2020, provisorisch angewendet seit 11. März 2020 ([AS 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^13-1]: Fassung gemäss Art. 6 des Prot. vom 11. März 2020, in Kraft seit 1. Juli 2021 ([AS 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 14
 

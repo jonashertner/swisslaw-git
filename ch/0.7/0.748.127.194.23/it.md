@@ -3,11 +3,11 @@ sr: "0.748.127.194.23"
 title: "Accordo del 2 maggio 2001 tra il Consiglio federale svizzero e il Governo della Repubblica dell'India concernente il traffico aereo di linea (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/13"
 language: it
-version: 2020-03-11
+version: 2021-07-01
 adopted: 2001-05-02
 in_force: 2002-01-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/13/20200311/it/xml/fedlex-data-admin-ch-eli-cc-2005-13-20200311-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/13/20200311/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/13/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2005-13-20210701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/13/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,11 +18,9 @@ RU **2005** 59
 
 Traduzione
 
-Concluso il 2 maggio 2001
+Concluso il 2 maggio 2001 Entrato in vigore mediante scambio di note l’11 gennaio 2002
 
-Entrato in vigore mediante scambio di note l’11 gennaio 2002
-
-(Stato 11 marzo 2020)
+(Stato 1° luglio 2021)
 
 Considerando che la Confederazione Svizzera e la Repubblica dell’India,
 
@@ -110,7 +108,7 @@ L’altra Parte, dopo il ricevimento di una tale notificazione, rilascia senza i
 
 <sup>3.</sup> Dopo aver ricevuto l’autorizzazione d’esercizio di cui al numero 2 del presente articolo, l’impresa designata può, in ogni momento, cominciare a esercitare i servizi convenuti, a condizione che le tariffe in vigore siano state stabilite conformemente alle disposizioni dell’articolo 13 del presente Accordo e che gli orari siano stati approvati conformemente alle disposizioni dell’articolo 14 del presente Accordo.
 
-[^3-1]: Nuovo testo giusta l’art. 1 del Prot. dell’11 mar. 2020, applicato provvisoriamente dall’11 mar. 2020 ([RU 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^3-1]: Nuovo testo giusta l’art. 1 del Prot. dell’11 mar. 2020, in vigore mediante scambio di note dal 1° lug. 2021 ([RU 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 4
 
@@ -145,7 +143,7 @@ Ciascuna Parte ha il diritto di rifiutare, revocare, sospendere o limitare le au
 
 <sup>3.</sup> Il presente articolo non limita i diritti delle due Parti di rifiutare, revocare, limitare le autorizzazioni di esercizio o le omologazioni tecniche di una o di più imprese di trasporti aerei dell’altra Parte o di vincolarle a oneri, conformemente alle disposizioni di cui all’articolo 7 del presente Accordo.
 
-[^4-1]: Nuovo testo giusta l’art. 2 del Prot. dell’11 mar. 2020, applicato provvisoriamente dall’11 mar. 2020 ([RU 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^4-1]: Nuovo testo giusta l’art. 2 del Prot. dell’11 mar. 2020, in vigore mediante scambio di note dal 1° lug. 2021 ([RU 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 5
 
@@ -197,7 +195,7 @@ La capacità offerta per il trasporto di passeggeri, di bagagli, di merci e di i
 
 <sup>7.</sup> Se una Parte ha motivi fondati di credere che l’altra Parte non rispetti le disposizioni relative alla sicurezza dell’aviazione di cui al presente articolo, le autorità aeronautiche di questa Parte possono chiedere consultazioni immediate con le autorità aeronautiche dell’altra Parte. Se non pervengono a un’intesa soddisfacente entro quindici giorni dal ricevimento di tale domanda, è dato motivo per rifiutare, revocare o limitare l’autorizzazione di esercizio e l’omologazione tecnica di una o più imprese dell’altra Parte o di vincolarle a oneri. Se una situazione d’emergenza lo esige, una Parte può prendere provvedimenti provvisori prima che siano trascorsi quindici giorni.
 
-[^7-1]: Nuovo testo giusta l’art. 3 del Prot. dell’11 mar. 2020, applicato provvisoriamente dall’11 mar. 2020 ([RU 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^7-1]: Nuovo testo giusta l’art. 3 del Prot. dell’11 mar. 2020, in vigore mediante scambio di note dal 1° lug. 2021 ([RU 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 [^7-2]: [RS 0.748.710.1](https://fedlex.data.admin.ch/eli/cc/1971/312_316_316)
 [^7-3]: [RS 0.748.710.2](https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509)
 [^7-4]: [RS 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
@@ -221,7 +219,7 @@ La capacità offerta per il trasporto di passeggeri, di bagagli, di merci e di i
 
 <sup>7.</sup> Tutte le misure adottate da una Parte conformemente al numero 6 sono revocate non appena vengono a mancare i motivi che ne hanno richiesto l’adozione.
 
-[^8-1]: Nuovo testo giusta l’art. 4 del Prot. dell’11 mar. 2020, applicato provvisoriamente dall’11 mar. 2020 ([RU 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^8-1]: Nuovo testo giusta l’art. 4 del Prot. dell’11 mar. 2020, in vigore mediante scambio di note dal 1° lug. 2021 ([RU 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 8<sup>bis</sup>
 
@@ -231,7 +229,7 @@ La capacità offerta per il trasporto di passeggeri, di bagagli, di merci e di i
 
 <sup>2.</sup> Fatto salvo il numero 1 del presente articolo, le imprese designate da ciascuna Parte possono prendere in leasing aeromobili (oppure aeromobili ed equipaggi) da qualsiasi impresa, incluse altre imprese di trasporti aerei, a condizione che ciò non permetta all’impresa che concede gli aeromobili in leasing di esercitare diritti di traffico che non le spettano.
 
-[^8bis-1]: Introdotto dall’art. 5 del Prot. dell’11 mar. 2020, applicato provvisoriamente dall’11 mar. 2020 ([RU 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^8bis-1]: Introdotto dall’art. 5 del Prot. dell’11 mar. 2020, in vigore mediante scambio di note dal 1° lug. 2021 ([RU 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 9
 
@@ -293,7 +291,7 @@ Ciascuna Parte permette a ciascuna impresa designata di fissare le tariffe dei r
 
 <sup>2.</sup> Può essere chiesta la presentazione delle tariffe dei servizi aerei internazionali tra i territori delle Parti. A prescindere da ciò, le imprese designate dalle Parti forniscono, su richiesta, alle autorità aeronautiche delle Parti accesso alle informazioni sulle tariffe passate, in vigore e proposte in un
 
-[^13-1]: Nuovo testo giusta l’art. 6 del Prot. dell’11 mar. 2020, applicato provvisoriamente dall’11 mar. 2020 ([RU 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^13-1]: Nuovo testo giusta l’art. 6 del Prot. dell’11 mar. 2020, in vigore mediante scambio di note dal 1° lug. 2021 ([RU 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 14
 

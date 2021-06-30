@@ -3,11 +3,11 @@ sr: "0.748.127.194.23"
 title: "Accord du 2 mai 2001 entre le Conseil fédéral suisse et le Gouvernement de la République de l'Inde relatif au trafic aérien de lignes (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/13"
 language: fr
-version: 2020-03-11
+version: 2021-07-01
 adopted: 2001-05-02
 in_force: 2002-01-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/13/20200311/fr/xml/fedlex-data-admin-ch-eli-cc-2005-13-20200311-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/13/20200311/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/13/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-13-20210701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/13/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Conclu le 2 mai 2001
 
 Entré en vigueur par échange de notes le 11 janvier 2002
 
-(Etat le 11 mars 2020)
+(Etat le 1<sup>er</sup> juillet 2021)
 
 La Confédération suisse et la République de l’Inde,
 
@@ -108,7 +108,7 @@ Sous réserve des dispositions du présent Accord, l’entreprise désignée de 
 
 <sup>3.</sup> À la réception de l’autorisation d’exploitation visée à l’al. 2 du présent article, l’entreprise désignée peut en tout temps commencer à exploiter les services convenus à condition que les tarifs aient été établis conformément aux dispositions de l’art. 13 et que les horaires aient été approuvés conformément à l’art. 14 du présent Accord.
 
-[^3-1]: Nouvelle teneur selon l’art. 1 du Prot. du 11 mars 2020, appliqué provisoirement dès le 11 mars 2020 ([RO 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^3-1]: Nouvelle teneur selon l’art. 1 du Prot. du 11 mars 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 4
 
@@ -143,7 +143,7 @@ Chaque Partie contractante peut refuser, révoquer, suspendre ou limiter les aut
 
 <sup>3.</sup> Le présent article ne limite pas les droits de l’une ou l’autre Partie contractante de refuser, révoquer, limiter ou soumettre à des conditions les autorisations d’exploitation ou permis techniques d’une ou de plusieurs entreprises de transport aérien de l’autre Partie contractante conformément aux dispositions de l’art. 7 (Sûreté de l’aviation) du présent Accord.
 
-[^4-1]: Nouvelle teneur selon l’art. 2 du Prot. du 11 mars 2020, appliqué provisoirement dès le 11 mars 2020 ([RO 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^4-1]: Nouvelle teneur selon l’art. 2 du Prot. du 11 mars 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 5
 
@@ -157,7 +157,7 @@ Chaque Partie contractante peut refuser, révoquer, suspendre ou limiter les aut
 
 <sup>4.</sup>
 
-La capacité offerte pour le transport de passagers, de bagages, de marchandises et d’envois postaux qui seront embarqués ou débarqués aux points sur les routes spécifiées sur le territoire d’Etats qui n’ont pas désigné l’entreprise devra être fixée conformément aux principes généraux selon lesquels cette capacité est adaptée:
+La capacité offerte pour le transport de passagers, de bagages, de marchandises et d’envois postaux qui seront embarqués ou débarqués aux points sur les routes spécifiées sur le territoire d’États qui n’ont pas désigné l’entreprise devra être fixée conformément aux principes généraux selon lesquels cette capacité est adaptée:
 
 - a. à la demande de trafic en provenance et à destination du territoire de la Partie contractante qui a désigné l’entreprise;
 - b. à la demande de trafic des régions traversées par les services convenus, compte tenu des autres prestations de transport fournies par des entreprises d’états compris dans cette région, et
@@ -195,7 +195,7 @@ La capacité offerte pour le transport de passagers, de bagages, de marchandises
 
 <sup>7.</sup> Lorsqu’une Partie contractante a des motifs raisonnables de croire que l’autre Partie contractante déroge aux dispositions du présent article, ses autorités aéronautiques peuvent demander l’engagement immédiat de négociations avec les autorités aéronautiques de l’autre Partie contractante. L’absence d’accord satisfaisant dans les quinze (15) jours suivant la date de cette demande constituera un motif pour refuser, révoquer, limiter ou soumettre à conditions les autorisations et permis techniques d’une ou de plusieurs entreprises de transport aérien de cette Partie contractante. Si une urgence l’exige, une Partie contractante peut prendre toute mesure provisoire avant l’échéance de quinze (15) jours.
 
-[^7-1]: Nouvelle teneur selon l’art. 3 du Prot. du 11 mars 2020, appliqué provisoirement dès le 11 mars 2020 ([RO 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^7-1]: Nouvelle teneur selon l’art. 3 du Prot. du 11 mars 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 [^7-2]: [RS 0.748.710.1](https://fedlex.data.admin.ch/eli/cc/1971/312_316_316)
 [^7-3]: [RS 0.748.710.2](https://fedlex.data.admin.ch/eli/cc/1971/1513_1508_1509)
 [^7-4]: [RS 0.748.710.3](https://fedlex.data.admin.ch/eli/cc/1978/462_462_462)
@@ -219,7 +219,7 @@ La capacité offerte pour le transport de passagers, de bagages, de marchandises
 
 <sup>7.</sup> Toute mesure appliquée par une Partie contractante en conformité avec l’al. 6 sera rapportée dès que la cause à la base de cette mesure aura cessé d’exister.
 
-[^8-1]: Nouvelle teneur selon l’art. 4 du Prot. du 11 mars 2020, appliqué provisoirement dès le 11 mars 2020 ([RO 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^8-1]: Nouvelle teneur selon l’art. 4 du Prot. du 11 mars 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 8<sup>bis</sup>
 
@@ -229,7 +229,7 @@ La capacité offerte pour le transport de passagers, de bagages, de marchandises
 
 <sup>2.</sup> Sous réserve de l’al. 1 ci-dessus, les entreprises désignées de chaque Partie contractante peuvent utiliser des aéronefs (ou des aéronefs avec équipage) loués auprès de n’importe quelle société, y compris d’autres entreprises de transport aérien, à condition qu’il n’en résulte pas qu’une entreprise de transport aérien qui donne les aéronefs en location exerce des droits de trafic qu’elle n’a pas.
 
-[^8bis-1]: Introduit par l’art. 5 du Prot. du 11 mars 2020, appliqué provisoirement dès le 11 mars 2020 ([RO 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^8bis-1]: Introduit par l’art. 5 du Prot. du 11 mars 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 9
 
@@ -289,7 +289,7 @@ Conformément aux réglementations, et sous réserve de celles-ci, sur le cours 
 
 <sup>2.</sup> Le dépôt des tarifs des services aériens internationaux entre les territoires des Parties contractantes peut être exigé ou non. Nonobstant ce qui précède, les entreprises désignées par les Parties contractantes donnent sur demande aux autorités aéronautiques des Parties contractantes, d’une manière et sous une forme acceptable par ces autorités, accès dans un délai raisonnable aux renseignements sur les tarifs passés, existants et proposés.
 
-[^13-1]: Nouvelle teneur selon l’art. 6 du Prot. du 11 mars 2020, appliqué provisoirement dès le 11 mars 2020 ([RO 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521)).
+[^13-1]: Nouvelle teneur selon l’art. 6 du Prot. du 11 mars 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 521](https://fedlex.data.admin.ch/eli/oc/2021/521); [2022 271](https://fedlex.data.admin.ch/eli/oc/2022/271)).
 
 #### Art. 14
 
@@ -325,7 +325,7 @@ Chaque Partie contractante pourra, à tout moment, demander des consultations co
 
 <sup>1.</sup> Tout différend survenant à propos de l’interprétation ou de l’application du présent Accord, qui ne pourrait être réglé par la voie de négociations directes ou par la voie diplomatique, sera soumis, à la requête de l’une des Parties contractantes, à un tribunal arbitral[^18-1].
 
-<sup>2.</sup> Dans un tel cas, chaque Partie contractante désignera un arbitre et les deux arbitres désigneront un président qui sera ressortissant d’un Etat tiers. Si, dans un délai de deux mois après que l’une des Parties contractantes a désigné son arbitre, l’autre Partie contractante ne désigne pas le sien, ou si, au cours du mois suivant la désignation du deuxième arbitre, les deux arbitres ne se mettent pas d’accord sur le choix du président, il sera demandé au président du Conseil de l’Organisation de l’aviation civile internationale de procéder aux désignations nécessaires. Au cas où le président du Conseil serait ressortissant de l’une des Parties contractantes, l’un des vice-présidents du Conseil qui est ressortissant d’un Etat tiers peut être sollicité pour procéder aux nominations nécessaires.
+<sup>2.</sup> Dans un tel cas, chaque Partie contractante désignera un arbitre et les deux arbitres désigneront un président qui sera ressortissant d’un État tiers. Si, dans un délai de deux mois après que l’une des Parties contractantes a désigné son arbitre, l’autre Partie contractante ne désigne pas le sien, ou si, au cours du mois suivant la désignation du deuxième arbitre, les deux arbitres ne se mettent pas d’accord sur le choix du président, il sera demandé au président du Conseil de l’Organisation de l’aviation civile internationale de procéder aux désignations nécessaires. Au cas où le président du Conseil serait ressortissant de l’une des Parties contractantes, l’un des vice-présidents du Conseil qui est ressortissant d’un État tiers peut être sollicité pour procéder aux nominations nécessaires.
 
 <sup>3.</sup> Le tribunal arbitral déterminera sa propre procédure et décidera de la répartition des frais résultant de celle-ci[^18-2].
 
@@ -342,7 +342,7 @@ Chaque Partie contractante pourra, à tout moment, demander des consultations co
 
 <sup>2.</sup> L’accord prendra fin douze mois après la réception de la notification, à moins que la dénonciation ne soit retirée d’un commun accord avant la fin de cette période.
 
-<sup>3.</sup> A défaut d’accusé de réception de la part de l’autre Partie contractante, la notification sera réputée lui être parvenue quatorze jours après la date à laquelle l’Organisation de l’aviation civile internationale en aura reçu communication.
+<sup>3.</sup> À défaut d’accusé de réception de la part de l’autre Partie contractante, la notification sera réputée lui être parvenue quatorze jours après la date à laquelle l’Organisation de l’aviation civile internationale en aura reçu communication.
 
 #### Art. 20
 
@@ -356,13 +356,13 @@ Le présent Accord et tout amendement ultérieur seront enregistrés auprès de 
 
 Le présent Accord sera appliqué provisoirement dès le jour de sa signature et il remplace l’application de l’accord provisoire du 24 juin 1949 relatif aux services aériens[^21-1] entre les deux Parties contractantes. Il entrera en vigueur lorsque les Parties contractantes se seront notifié l’accomplissement de leurs formalités constitutionnelles qui permettent la conclusion et l’entrée en vigueur des accords internationaux.
 
-A son entrée en vigueur, le présent accord remplacera l’accord provisoire du 24 juin 1949 relatif aux services aériens entre les deux Parties contractantes.
+À son entrée en vigueur, le présent accord remplacera l’accord provisoire du 24 juin 1949 relatif aux services aériens entre les deux Parties contractantes.
 
 [^21-1]: [[RO 1949 1682](https://fedlex.data.admin.ch/eli/oc/1949/1579_1682_1612); [1987 581](https://fedlex.data.admin.ch/eli/oc/1987/581_581_581)]
 
 *En foi de quoi,* les soussignés, dûment autorisées à cet effet par leurs Gouvernements respectifs, ont signé le présent Accord. Fait à Berne, le 2 mai 2001 en double exemplaire, en langues française, hindi et anglaise, les textes font également foi. En cas de divergence de réalisation, d’interprétation ou d’application, le texte anglais prévaut. Pour le Conseil fédéral suisse: Otto Arregger Pour le Gouvernement de la République de l’Inde: Niranjan Desai
 
-Annexe[^t-1]
+Annexe*[^t-1]*
 
 ## Section I
 
@@ -374,7 +374,7 @@ Route 1
 
 <table>
 <tr><td>Points d’origine:</td><td>Points intermédiaires:</td><td>Points de destination:</td><td>Points au-delà:</td></tr>
-<tr><td>Points en Inde</td><td>Pakistan, Afghanistan, Oman, Sharjah, Dubai, Abu Dhabi, Qatar, Bahrain, Koweït, Arabie Saoudite, Iran, Irak, Jordanie, Syrie, Liban, Egypte, Israël, Chypre, Grèce, Turquie, Moscou, Bulgarie, Roumanie, Hongrie, Italie, Autriche, France</td><td>Genève ou Zurich</td><td>Madrid, République tchèque, République slovaque, France, Belgique, Pays-Bas, Allemagne, Norvège, Danemark, Suède, Grande-Bretagne, Irlande, Canada, Etats-Unis d’Amérique, deux points en Amérique du Sud ou Centrale</td></tr>
+<tr><td>Points en Inde</td><td>Pakistan, Afghanistan, Oman, Sharjah, Dubai, Abu Dhabi, Qatar, Bahrain, Koweït, Arabie Saoudite, Iran, Irak, Jordanie, Syrie, Liban, Égypte, Israël, Chypre, Grèce, Turquie, Moscou, Bulgarie, Roumanie, Hongrie, Italie, Autriche, France</td><td>Genève ou Zurich</td><td>Madrid, République tchèque, République slovaque, France, Belgique, Pays-Bas, Allemagne, Norvège, Danemark, Suède, Grande-Bretagne, Irlande, Canada, États-Unis d’Amérique, deux points en Amérique du Sud ou Centrale</td></tr>
 </table>
 
 Route 2
@@ -399,7 +399,7 @@ Route 1
 
 <table>
 <tr><td>Points d’origine:</td><td>Points intermédiaires:</td><td>Points de destination:</td><td>Points au-delà:</td></tr>
-<tr><td>Points en Suisse</td><td>Autriche, Italie, Hongrie, Roumanie, Bulgarie, Turquie, Grèce, Chypre, Egypte, Israël, Liban, Syrie, Jordanie, Irak, Iran, Arabie saoudite, Koweït, Bahrain, Afghanistan, Pakistan</td><td>Bombay ou Delhi</td><td>(a) Myanmar, Thaïlande, Vietnam, Hong Kong, Philippines, deux points en Chine, Séoul, Japon; (b) Myanmar ou Sri Lanka, Indonésie, Nouvelle Guinée, Thaïlande, Australie, Singapore, Malaysie</td></tr>
+<tr><td>Points en Suisse</td><td>Autriche, Italie, Hongrie, Roumanie, Bulgarie, Turquie, Grèce, Chypre, Égypte, Israël, Liban, Syrie, Jordanie, Irak, Iran, Arabie saoudite, Koweït, Bahrain, Afghanistan, Pakistan</td><td>Bombay ou Delhi</td><td>(a) Myanmar, Thaïlande, Vietnam, Hong Kong, Philippines, deux points en Chine, Séoul, Japon; (b) Myanmar ou Sri Lanka, Indonésie, Nouvelle Guinée, Thaïlande, Australie, Singapore, Malaysie</td></tr>
 </table>
 
 Route 2
