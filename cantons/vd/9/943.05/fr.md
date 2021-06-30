@@ -4,7 +4,7 @@ number: "943.05"
 title: "LOI du 30.03.2004 sur l'exercice de la prostitution (LPros)"
 short: LPros
 language: fr
-version: 2016-07-01
+version: 2021-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/943.05?id=cb55efbe-c772-4244-8200-c54c6106f8f4"
 ---
 
@@ -18,15 +18,16 @@ du 30 mars 2004
 
 LE GRAND CONSEIL DU CANTON DE VAUD
 
-vu les articles 189, 193, 195 et 199 du Code pénal suisse du 21 décembre 1937
+vu les articles 189, 193, 195 et 199 du Code pénal suisse du 21 décembre 1937 [^ingress-1]
 
-vu la loi du 29 mai 1985 sur la santé publique [^ingress-1]
+vu la loi du 29 mai 1985 sur la santé publique [^ingress-2]
 
 vu le projet de loi présenté par le Conseil d'Etat
 
 décrète
 
-[^ingress-1]: Loi du 29.05.1985 sur la santé publique ([BLV 800.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.01?id=258cb2db-b772-411c-b0c5-6ed80967c762))
+[^ingress-1]: [Code pénal suisse du 21.12.1937, RS 311.0](https://www.admin.ch/opc/fr/classified-compilation/19370083/index.html)
+[^ingress-2]: Loi du 29.05.1985 sur la santé publique ([BLV 800.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.01?id=258cb2db-b772-411c-b0c5-6ed80967c762))
 
 ## Chapitre I Définition, but et champ d'application
 
@@ -59,7 +60,7 @@ décrète
 [^3-3]: Loi du 29.05.1985 sur la santé publique ([BLV 800.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.01?id=258cb2db-b772-411c-b0c5-6ed80967c762))
 [^3-4]: Modif. 3 du 01.10.2019: Modification ; entrée en vigueur au 01.07.2021
 
-## Chapitre II Recensement
+## Chapitre II Obligation d'information et d'annonce
 
 [^3-4]
 
@@ -67,11 +68,21 @@ décrète
 
 **Principe [^chapterChapitreII-1]**
 
-<sup>1</sup> La police cantonale procède à un recensement des personnes exerçant la prostitution. L'annonce volontaire et personnelle est possible en tout temps.
+<sup>1</sup> Toute personne exerçant ou qui souhaite exercer la prostitution ou la profession d'escorte s'annonce personnellement, en principe avant le début de son activité, à la Police cantonale. La personne reçoit à cette occasion des informations juridiques (droits et devoirs) ainsi que des recommandations permettant de limiter les risques liés à l'exercice de la prostitution. La Police cantonale s'assure, de même, qu'il n'est pas porté atteinte à la liberté d'action des personnes qui se prostituent et les informe que leurs papiers d'identité ne peuvent leur être retirés ou séquestrés autrement qu'en application de la législation applicable.
 
-<sup>2</sup> Si la personne est mineure, la Police cantonale informe le ou les détenteurs de l'autorité parentale et procède à un signalement simultanément à l'autorité de protection de l'enfant et au service en charge de la protection des mineurs.
+<sup>2</sup> L'annonce est reconnue complète lorsque la personne a reçu les informations dispensées par les services, respectivement les associations, au sens des articles 21 et 23 de la présente loi.
 
-[^chapterChapitreII-1]: Modif. 1 du 05.03.2013: Introduction Al. 2; entrée en vigueur au 01.05.2013 · Modif. 2 du 01.03.2016: Modification Al. 2; entrée en vigueur au 01.07.2016 · Modif. 3 du 01.10.2019: Modification Al. 1-2; entrée en vigueur au 01.07.2021; Introduction Al. 3-5; entrée en vigueur au 01.07.2021; Introduction Art. 5a; entrée en vigueur au 01.07.2021; Introduction Art. 9, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 9a; entrée en vigueur au 01.07.2021; Introduction Art. 9b; entrée en vigueur au 01.07.2021; Introduction Art. 9c; entrée en vigueur au 01.07.2021; Introduction Art. 9d; entrée en vigueur au 01.07.2021; Introduction Art. 9e; entrée en vigueur au 01.07.2021; Introduction Art. 9f; entrée en vigueur au 01.07.2021; Introduction Art. 9g; entrée en vigueur au 01.07.2021; Introduction Art. 9h; entrée en vigueur au 01.07.2021; Introduction Art. 15, Al. 1, e; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 1, c; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 16a; entrée en vigueur au 01.07.2021; Introduction Art. 16b; entrée en vigueur au 01.07.2021; Introduction Art. 17a; entrée en vigueur au 01.07.2021; Introduction Art. 18, Al. 2-3; entrée en vigueur au 01.07.2021; Introduction Art. 22a; entrée en vigueur au 01.07.2021; Introduction Art. 23a; entrée en vigueur au 01.07.2021; Introduction Art. 27, Al. 3; entrée en vigueur au 01.07.2021; Introduction Art. 27a; entrée en vigueur au 01.07.2021; Introduction Art.16c; entrée en vigueur au 01.07.2021
+<sup>3</sup> Le Conseil d'Etat fixe, par voie réglementaire, les modalités générales de mise en oeuvre du présent article, notamment les données relevées lors de l'annonce. Il peut déléguer la définition de modalités particulières à la commission instituée par l'article 18 de la présente loi.
+
+<sup>4</sup> La Police cantonale recueille les données suivantes concernant toute personne exerçant la prostitution :
+
+- a. identité ;
+- b. photographie ;
+- c. lieu où cette personne exerce la prostitution.
+
+<sup>5</sup> Par identité au sens de l'alinéa premier, lettre a ci-dessus, on entend : nom ; prénoms ; nom et prénoms du père ; nom de mariage, nom de jeune fille et prénoms de la mère ; date et lieu de naissance ; état-civil ; domicile.
+
+[^chapterChapitreII-1]: Modif. 1 du 05.03.2013: Introduction Al. 2; entrée en vigueur au 01.05.2013 · Modif. 2 du 01.03.2016: Modification Al. 2; entrée en vigueur au 01.07.2016 · Modif. 3 du 01.10.2019: Modification Al. 1-2; entrée en vigueur au 01.07.2021; Introduction Al. 3-5; entrée en vigueur au 01.07.2021
 
 #### Art. 5
 
@@ -86,6 +97,14 @@ décrète
 <sup>4</sup> Les données récoltées en vertu de la présente loi ne sont utilisables que dans le cadre de l'accomplissement des buts de la présente loi.
 
 [^5-1]: Loi du 01.12.1980 sur les dossiers de police judiciaire ([BLV 133.17](https://prestations.vd.ch/pub/blv-publication/actes/consolide/133.17?id=d0c8d8b2-e486-4e7c-a579-108991ea9394))
+
+#### Art. 5a
+
+**Mineurs [^5-2]**
+
+<sup>1</sup> Si la personne est mineure, la Police cantonale informe le ou les détenteurs de l'autorité parentale et procède à un signalement simultanément à l'autorité de protection de l'enfant et au service en charge de la protection des mineurs.
+
+[^5-2]: Modif. 3 du 01.10.2019: Introduction tArt; entrée en vigueur au 01.07.2021; Introduction Al. 1; entrée en vigueur au 01.07.2021; Introduction Art. 5a; entrée en vigueur au 01.07.2021
 
 ## Chapitre III Exercice de la prostitution sur le domaine public, sur des lieux accessibles au public ou exposés à la vue du public
 
@@ -105,7 +124,7 @@ décrète
 
 [^7-1]: Modif. 3 du 01.10.2019: Modification ; entrée en vigueur au 01.07.2021
 
-## Chapitre IV Prostitution de salon
+## Chapitre IV Autorisation d'exploiter un salon
 
 [^7-1]
 
@@ -123,11 +142,112 @@ décrète
 
 #### Art. 9
 
-**Déclaration [^8-2]**
+**Principe [^8-2]**
 
-<sup>1</sup> Tout salon doit faire l'objet d'une déclaration à l'autorité compétente. Dite déclaration précise le lieu et les horaires de l'exploitation ainsi que, le cas échéant, le nombre de personnes occupées.
+<sup>1</sup> L'exploitation d'un salon au sens de la présente loi nécessite l'obtention préalable auprès de la Police cantonale du commerce d'une autorisation.
 
-[^8-2]: Modif. 3 du 01.10.2019: Introduction Art. 4, Al. 3-5; entrée en vigueur au 01.07.2021; Introduction Art. 5a; entrée en vigueur au 01.07.2021; Modification tArt; entrée en vigueur au 01.07.2021; Modification Al. 1; entrée en vigueur au 01.07.2021; Introduction Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 9a; entrée en vigueur au 01.07.2021; Introduction Art. 9b; entrée en vigueur au 01.07.2021; Introduction Art. 9c; entrée en vigueur au 01.07.2021; Introduction Art. 9d; entrée en vigueur au 01.07.2021; Introduction Art. 9e; entrée en vigueur au 01.07.2021; Introduction Art. 9f; entrée en vigueur au 01.07.2021; Introduction Art. 9g; entrée en vigueur au 01.07.2021; Introduction Art. 9h; entrée en vigueur au 01.07.2021; Introduction Art. 15, Al. 1, e; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 1, c; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 16a; entrée en vigueur au 01.07.2021; Introduction Art. 16b; entrée en vigueur au 01.07.2021; Introduction Art. 17a; entrée en vigueur au 01.07.2021; Introduction Art. 18, Al. 2-3; entrée en vigueur au 01.07.2021; Introduction Art. 22a; entrée en vigueur au 01.07.2021; Introduction Art. 23a; entrée en vigueur au 01.07.2021; Introduction Art. 27, Al. 3; entrée en vigueur au 01.07.2021; Introduction Art. 27a; entrée en vigueur au 01.07.2021; Introduction Art.16c; entrée en vigueur au 01.07.2021
+<sup>2</sup> L'autorisation est délivrée à la personne responsable du salon.
+
+[^8-2]: Modif. 3 du 01.10.2019: Modification tArt; entrée en vigueur au 01.07.2021; Modification Al. 1; entrée en vigueur au 01.07.2021; Introduction Al. 2; entrée en vigueur au 01.07.2021
+
+#### Art. 9a
+
+**Responsable de salon [^9-1]**
+
+<sup>1</sup> Tout salon est pourvu d'une personne responsable.
+
+<sup>2</sup> La personne responsable de salon répond en fait et en droit de la direction du salon, qu'il assure en toute indépendance.
+
+<sup>3</sup> La personne responsable d'un salon exploité par une personne morale doit détenir un pouvoir décisionnel déterminant au sein de celle-ci.
+
+<sup>4</sup> Est notamment considérée comme ayant un pouvoir décisionnel déterminant toute personne inscrite au registre du commerce en qualité d'administrateur d'une société anonyme, ou comme associé gérant au sein d'une société à responsabilité limitée.
+
+<sup>5</sup> Le Conseil d'Etat fixe, par voie réglementaire, les conditions auxquelles une personne peut être responsable de plusieurs salons, celles auxquelles plusieurs personnes exerçant la prostitution peuvent exploiter solidairement un salon et celles auxquelles une personne morale de droit public peut exploiter un salon.
+
+[^9-1]: Modif. 3 du 01.10.2019: Introduction tArt; entrée en vigueur au 01.07.2021; Introduction Al. 1-5; entrée en vigueur au 01.07.2021; Introduction Art. 9a; entrée en vigueur au 01.07.2021
+
+#### Art. 9b
+
+**Conditions d'octroi [^9a-1]**
+
+<sup>1</sup> L'autorisation d'exploiter un salon ne peut être accordée que si la personne responsable :
+
+- a. est de nationalité suisse ou remplit les conditions nécessaires à l'exercice d'une activité indépendante en Suisse ;
+- b. est domicilié en Suisse ;
+- c. a l'exercice des droits civils ;
+- d. offre, par ses antécédents et son comportement, toute garantie d'honorabilité et de solvabilité concernant la sphère d'activité envisagée ;
+- e. n'est pas sous le coup d'une interdiction de présence dans les salons au sens de l'article 17 de la présente loi.
+
+<sup>2</sup> L'autorisation d'exploiter un salon ne peut être accordée que si les locaux répondent aux exigences en matière de police des constructions, de protection de l'environnement, de police du feu ainsi qu'en matière sanitaire et d'hygiène.
+
+[^9a-1]: Modif. 3 du 01.10.2019: Introduction tArt; entrée en vigueur au 01.07.2021; Introduction Al. 1-2; entrée en vigueur au 01.07.2021; Introduction Art. 9b; entrée en vigueur au 01.07.2021
+
+#### Art. 9c
+
+**Obligations de la personne responsable de salon En général [^9b-1]**
+
+<sup>1</sup> La personne responsable du salon a notamment l'obligation :
+
+- a. de garantir que les conditions d'exercice de la prostitution y sont conformes à la législation, soit notamment :
+- 1\. qu'il n'est pas porté atteinte à la liberté d'action des personnes qui se prostituent,
+- 2\. que celles-ci ont accès aux informations nécessaires au sens de l'article 4 de la présente loi,
+- 3\. qu'elles ne sont pas victimes de menaces, de violences ou de pressions ou que l'on ne profite pas de leur détresse ou de leur dépendance pour les déterminer à se livrer à un acte sexuel ou d'ordre sexuel ;
+- b. de connaître l'identité des personnes y exerçant la prostitution ;
+- c. de s'assurer qu'aucune infraction ne se commet dans le salon et notamment qu'aucun mineur ne s'y trouve ;
+- d. d'y empêcher toute atteinte à l'ordre, à la tranquillité et à la salubrité publics ;
+- e. de distribuer gratuitement aux personnes qui y exercent la prostitution le matériel de prévention élaboré par les autorités et associations mentionnées par la présente loi ;
+- f. de mettre gratuitement à disposition dans ses locaux, les moyens permettant d'éviter la propagation d'infections sexuellement transmissibles ;
+- g. de collaborer aux mesures de prévention et d'encadrement sanitaires et sociales prévues par la présente loi et par son règlement d'application.
+
+<sup>2</sup> Il tient le registre défini par la présente loi.
+
+<sup>3</sup> Le Conseil d'Etat définit les modalités de présence de la personne responsable.
+
+[^9b-1]: Modif. 3 du 01.10.2019: Introduction tArt; entrée en vigueur au 01.07.2021; Introduction Al. 1-3; entrée en vigueur au 01.07.2021; Introduction Art. 9c; entrée en vigueur au 01.07.2021
+
+#### Art. 9d
+
+**Obligations de la personne responsable de salon En matière de bail [^9c-1]**
+
+<sup>1</sup> La personne responsable du salon ne peut librement louer ou sous-louer les locaux du salon qu'à des personnes annoncées comme exerçant la prostitution et aux fins de permettre à ces dernières d'exercer personnellement la prostitution. Tout autre type de location ou sous-location est soumis à l'accord préalable de la Police cantonale du commerce, qui s'assurera qu'il n'en découle pas des risques au regard des objectifs prévus par la présente loi.
+
+<sup>2</sup> La personne responsable du salon doit tenir un registre des contrats de bail qu'il a conclus, indiquant notamment l'identité du locataire, la date de début et d'échéance, le préavis de résiliation et le loyer. Le Conseil d'Etat peut préciser, par voie réglementaire, le contenu de ce registre.
+
+[^9c-1]: Modif. 3 du 01.10.2019: Introduction Art. 9d; entrée en vigueur au 01.07.2021
+
+#### Art. 9e
+
+**Début de l'exploitation [^9d-1]**
+
+<sup>1</sup> Un salon ne peut être exploité qu'à partir du moment où l'autorisation est délivrée à l'intéressé. La Police cantonale du commerce veille à ce que le salon ne soit pas ouvert ou exploité auparavant. Elle peut déléguer cette compétence à la Police cantonale, la Municipalité ou la Police communale selon convention établie entre le Conseil d'Etat et la Commune concernée.
+
+[^9d-1]: Modif. 3 du 01.10.2019: Introduction Art. 9e; entrée en vigueur au 01.07.2021
+
+#### Art. 9f
+
+**Nature de l'autorisation [^9e-1]**
+
+<sup>1</sup> L'autorisation est personnelle et incessible.
+
+<sup>2</sup> Toute forme de prêt ou de location de l'autorisation est prohibée.
+
+[^9e-1]: Modif. 3 du 01.10.2019: Introduction tArt; entrée en vigueur au 01.07.2021; Introduction Al. 1-2; entrée en vigueur au 01.07.2021; Introduction Art. 9f; entrée en vigueur au 01.07.2021
+
+#### Art. 9g
+
+**Validité, durée et renouvellement [^9f-1]**
+
+<sup>1</sup> Le Conseil d'Etat fixe, par voie réglementaire, la durée générale de validité des autorisations de salons et les conditions de renouvellement.
+
+[^9f-1]: Modif. 3 du 01.10.2019: Introduction tArt; entrée en vigueur au 01.07.2021; Introduction Al. 1; entrée en vigueur au 01.07.2021; Introduction Art. 9g; entrée en vigueur au 01.07.2021
+
+#### Art. 9h
+
+**Création, transformation, changement d'affectation [^9g-1]**
+
+<sup>1</sup> Toute création, transformation ou changement d'affectation d'un salon est soumise à l'autorisation spéciale de la Police cantonale du commerce. Les dispositions de la loi sur l'aménagement du territoire et les constructions sont réservées.
+
+[^9g-1]: Modif. 3 du 01.10.2019: Introduction Art. 9h; entrée en vigueur au 01.07.2021
 
 #### Art. 10
 
@@ -167,38 +287,63 @@ décrète
 
 #### Art. 15
 
-**Fermeture d'un salon [^14-1]**
+**Fermeture urgente d'un salon [^14-1]**
 
-*a) immédiate*
+<sup>1</sup> La Police cantonale ou la Police cantonale du commerce ordonne immédiatement la fermeture d'un salon :
 
-<sup>1</sup> La police cantonale peut procéder immédiatement à la fermeture d'un salon, pour trois mois au moins, lorsque celui-ci :
+- a. exploité sans autorisation ;
+- b. dont la personne responsable ne remplit pas ou ne remplit plus les conditions d'octroi de l'autorisation d'exploiter, lorsqu'un motif de retrait de cette autorisation est réalisé ou lorsque la personne responsable viole ses obligations telles que prévues ou rappelées par la présente loi et par son règlement d'application ;
+- c. dont l'autorisation repose sur des informations manifestement erronées sur la personne responsable, le lieu, les horaires d'exploitation ou les personnes qui y exercent ;
+- d. dont les locaux ne répondent pas ou plus aux conditions d'octroi de l'autorisation telles que définies par la présente loi et par son règlement d'application ;
+- e. qui, sans autorisation, a été transformé ou dont l'affectation a été modifiée ou l'exploitation transférée dans de nouveaux locaux.
 
-- a. n'a pas été annoncé;
-- b. a fait l'objet d'une annonce concernant des informations manifestement erronées sur le lieu, les horaires d'exploitation ou les personnes qui y exercent;
-- c. n'offre pas des conditions satisfaisantes, notamment en matière d'hygiène, de sécurité et d'ordre public. Un règlement d'application de la présente loi[^15-1] fixe ces conditions;
-- d. ne bénéficie pas de l'accord écrit du propriétaire ou des copropriétaires de l'immeuble pour exercer cette activité.
+<sup>2</sup> Dans les cas où la Police cantonale procède à la fermeture, elle transmet de suite le cas à la Police cantonale du commerce comme objet de sa compétence.
 
-<sup>2</sup> Après qu'il a été procédé à la fermeture, le cas doit être transmis de suite à la police cantonale du commerce comme objet de sa compétence.
-
-[^14-1]: Modif. 3 du 01.10.2019: Introduction Art. 4, Al. 3-5; entrée en vigueur au 01.07.2021; Introduction Art. 5a; entrée en vigueur au 01.07.2021; Introduction Art. 9, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 9a; entrée en vigueur au 01.07.2021; Introduction Art. 9b; entrée en vigueur au 01.07.2021; Introduction Art. 9c; entrée en vigueur au 01.07.2021; Introduction Art. 9d; entrée en vigueur au 01.07.2021; Introduction Art. 9e; entrée en vigueur au 01.07.2021; Introduction Art. 9f; entrée en vigueur au 01.07.2021; Introduction Art. 9g; entrée en vigueur au 01.07.2021; Introduction Art. 9h; entrée en vigueur au 01.07.2021; Modification tArt; entrée en vigueur au 01.07.2021; Modification Al. 1; entrée en vigueur au 01.07.2021; Modification Al. 1, a-d; entrée en vigueur au 01.07.2021; Introduction Al. 1, e; entrée en vigueur au 01.07.2021; Modification Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 1, c; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 16a; entrée en vigueur au 01.07.2021; Introduction Art. 16b; entrée en vigueur au 01.07.2021; Introduction Art. 17a; entrée en vigueur au 01.07.2021; Introduction Art. 18, Al. 2-3; entrée en vigueur au 01.07.2021; Introduction Art. 22a; entrée en vigueur au 01.07.2021; Introduction Art. 23a; entrée en vigueur au 01.07.2021; Introduction Art. 27, Al. 3; entrée en vigueur au 01.07.2021; Introduction Art. 27a; entrée en vigueur au 01.07.2021; Introduction Art.16c; entrée en vigueur au 01.07.2021
-[^15-1]: RÈGLEMENT du 01.09.2004 d'application de la loi du 30 mars 2004 sur l'exercice de la prostitution [(BLV 943.05.1)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/943.05.1?id=ee8e8002-e65a-4c85-bc99-de591f41b222)
+[^14-1]: Modif. 3 du 01.10.2019: Modification tArt; entrée en vigueur au 01.07.2021; Modification Al. 1; entrée en vigueur au 01.07.2021; Modification Al. 1, a-d; entrée en vigueur au 01.07.2021; Introduction Al. 1, e; entrée en vigueur au 01.07.2021; Modification Al. 2; entrée en vigueur au 01.07.2021
 
 #### Art. 16
 
-**b) définitive [^15-2]**
+**Fermeture définitive d'un salon [^15-1]**
 
-<sup>1</sup> La police cantonale du commerce peut prononcer la fermeture définitive d'un salon :
+<sup>1</sup> La Police cantonale du commerce ordonne la fermeture définitive d'un salon lorsqu'un ou plusieurs des motifs suivants est réalisé :
 
 - a. lorsque, dans celui-ci, se produit une atteinte majeure à l'ordre, à la tranquillité et à la salubrité publics, la commission d'un crime, de délits ou de contraventions répétés, des violations réitérées de la législation, ou lorsque s'y trouve un mineur;
 - b. lorsque, dans celui-ci, les conditions d'exercice de la prostitution ne sont pas conformes à la législation, soit notamment lorsqu'il y est porté atteinte à la liberté d'action des personnes qui se prostituent, si celles-ci sont privées de leurs pièces d'identité, si elles sont victimes de menaces, de violences, de brigandage, d'usure ou de pressions ou si l'on profite de leur détresse ou de leur dépendance pour les déterminer à se livrer à un acte d'ordre sexuel.
+- c. lorsque les circonstances ayant motivé la fermeture urgente du salon perdurent.
 
-[^15-2]: Modif. 3 du 01.10.2019: Introduction Art. 4, Al. 3-5; entrée en vigueur au 01.07.2021; Introduction Art. 5a; entrée en vigueur au 01.07.2021; Introduction Art. 9, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 9a; entrée en vigueur au 01.07.2021; Introduction Art. 9b; entrée en vigueur au 01.07.2021; Introduction Art. 9c; entrée en vigueur au 01.07.2021; Introduction Art. 9d; entrée en vigueur au 01.07.2021; Introduction Art. 9e; entrée en vigueur au 01.07.2021; Introduction Art. 9f; entrée en vigueur au 01.07.2021; Introduction Art. 9g; entrée en vigueur au 01.07.2021; Introduction Art. 9h; entrée en vigueur au 01.07.2021; Introduction Art. 15, Al. 1, e; entrée en vigueur au 01.07.2021; Modification tArt; entrée en vigueur au 01.07.2021; Modification Al. 1; entrée en vigueur au 01.07.2021; Introduction Al. 1, c; entrée en vigueur au 01.07.2021; Introduction Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 16a; entrée en vigueur au 01.07.2021; Introduction Art. 16b; entrée en vigueur au 01.07.2021; Introduction Art. 17a; entrée en vigueur au 01.07.2021; Introduction Art. 18, Al. 2-3; entrée en vigueur au 01.07.2021; Introduction Art. 22a; entrée en vigueur au 01.07.2021; Introduction Art. 23a; entrée en vigueur au 01.07.2021; Introduction Art. 27, Al. 3; entrée en vigueur au 01.07.2021; Introduction Art. 27a; entrée en vigueur au 01.07.2021; Introduction Art.16c; entrée en vigueur au 01.07.2021
+<sup>2</sup> La fermeture définitive est possible même sans fermeture urgente préalable.
+
+[^15-1]: Modif. 3 du 01.10.2019: Modification tArt; entrée en vigueur au 01.07.2021; Modification Al. 1; entrée en vigueur au 01.07.2021; Introduction Al. 1, c; entrée en vigueur au 01.07.2021; Introduction Al. 2; entrée en vigueur au 01.07.2021
+
+#### Art. 16a
+
+**Retrait de l'autorisation d'exploiter un salon [^16-1]**
+
+<sup>1</sup> La Police cantonale du commerce retire l'autorisation d'exploiter un salon lorsqu'un motif prévu à l'article 16 de la présente loi est réalisé.
+
+[^16-1]: Modif. 3 du 01.10.2019: Introduction tArt; entrée en vigueur au 01.07.2021; Introduction Al. 1; entrée en vigueur au 01.07.2021; Introduction Art. 16a; entrée en vigueur au 01.07.2021
+
+#### Art. 16b
+
+**Annulation de l'autorisation [^16a-1]**
+
+<sup>1</sup> La Police cantonale du commerce annule une autorisation, soit à la demande écrite de son titulaire, soit d'office, lorsqu'elle n'est pas ou plus effectivement utilisée.
+
+[^16a-1]: Modif. 3 du 01.10.2019: Introduction Art. 16b; entrée en vigueur au 01.07.2021
+
+#### Art.16c
+
+**Changement de personne responsable [^16b-1]**
+
+<sup>1</sup> Une personne souhaitant tre responsable d'un salon ne peut débuter son activité qu'une fois l'autorisation accordée par la Police cantonale du commerce.
+
+[^16b-1]: Modif. 3 du 01.10.2019: Introduction Art.16c; entrée en vigueur au 01.07.2021
 
 #### Art. 17
 
-**Interdiction de fréquenter les salons [^16-1]**
+**Interdiction de présence dans les salons [^16c-1]**
 
-<sup>1</sup> Si la responsabilité d'un motif prévu aux articles 15 et 16 de la présente loi peut être attribuée en particulier à une ou plusieurs personnes, il est prononcé à leur encontre une interdiction de fréquenter les salons.
+<sup>1</sup> Si la responsabilité d'un motif prévu aux articles 15 ou 16 de la présente loi peut être attribuée en particulier à une ou plusieurs personnes, il est prononcé à leur encontre une interdiction de présence dans les salons.
 
 <sup>2</sup> La police cantonale du commerce fixera selon les circonstances la durée de cette interdiction; cependant elle sera :
 
@@ -211,7 +356,22 @@ décrète
 
 <sup>5</sup> Lorsqu'une interdiction a été prononcée pour une longue période, elle peut être levée conditionnellement à l'échéance d'au moins douze mois, si l'on peut admettre que la mesure a atteint son but.
 
-[^16-1]: Modif. 3 du 01.10.2019: Introduction Art. 4, Al. 3-5; entrée en vigueur au 01.07.2021; Introduction Art. 5a; entrée en vigueur au 01.07.2021; Introduction Art. 9, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 9a; entrée en vigueur au 01.07.2021; Introduction Art. 9b; entrée en vigueur au 01.07.2021; Introduction Art. 9c; entrée en vigueur au 01.07.2021; Introduction Art. 9d; entrée en vigueur au 01.07.2021; Introduction Art. 9e; entrée en vigueur au 01.07.2021; Introduction Art. 9f; entrée en vigueur au 01.07.2021; Introduction Art. 9g; entrée en vigueur au 01.07.2021; Introduction Art. 9h; entrée en vigueur au 01.07.2021; Introduction Art. 15, Al. 1, e; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 1, c; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 16a; entrée en vigueur au 01.07.2021; Introduction Art. 16b; entrée en vigueur au 01.07.2021; Modification tArt; entrée en vigueur au 01.07.2021; Modification Al. 1; entrée en vigueur au 01.07.2021; Introduction Art. 17a; entrée en vigueur au 01.07.2021; Introduction Art. 18, Al. 2-3; entrée en vigueur au 01.07.2021; Introduction Art. 22a; entrée en vigueur au 01.07.2021; Introduction Art. 23a; entrée en vigueur au 01.07.2021; Introduction Art. 27, Al. 3; entrée en vigueur au 01.07.2021; Introduction Art. 27a; entrée en vigueur au 01.07.2021; Introduction Art.16c; entrée en vigueur au 01.07.2021
+[^16c-1]: Modif. 3 du 01.10.2019: Modification tArt; entrée en vigueur au 01.07.2021; Modification Al. 1; entrée en vigueur au 01.07.2021
+[^17-1]: Modif. 3 du 01.10.2019: Introduction ; entrée en vigueur au 01.07.2021
+
+## Chapitre IVbis Agences d'escorte
+
+[^17-1]
+
+#### Art. 17a
+
+**[^chapterChapitreIVbis-1]**
+
+<sup>1</sup> Est réputée agence d'escorte au sens de la présente loi toute personne ou entreprise qui, contre rémunération, met en contact des clients potentiels avec des personnes qui exercent la prostitution.
+
+<sup>2</sup> Les dispositions du chapitre IV de la présente loi s'appliquent aux agences d'escorte, notamment en ce qui concerne le régime d'autorisation et l'obligation de tenir un registre.
+
+[^chapterChapitreIVbis-1]: Modif. 3 du 01.10.2019: Introduction Art. 17a; entrée en vigueur au 01.07.2021
 
 ## Chapitre V Prévention
 
@@ -219,17 +379,23 @@ décrète
 
 **Coordination [^chapterChapitreV-1]**
 
-<sup>1</sup> L'Etat veille à coordonner l'intervention des différents acteurs impliqués dans la lutte contre la prostitution contrainte, notamment par la création d'une commission cantonale consultative pluridisciplinaire chargée de la coordonner.
+<sup>1</sup> L'Etat veille à coordonner l'intervention des différents acteurs impliqués dans la réalisation des buts de la présente loi, notamment par la création d'une commission cantonale pluridisciplinaire chargée de coordonner son application.
 
-[^chapterChapitreV-1]: Modif. 3 du 01.10.2019: Introduction Art. 4, Al. 3-5; entrée en vigueur au 01.07.2021; Introduction Art. 5a; entrée en vigueur au 01.07.2021; Introduction Art. 9, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 9a; entrée en vigueur au 01.07.2021; Introduction Art. 9b; entrée en vigueur au 01.07.2021; Introduction Art. 9c; entrée en vigueur au 01.07.2021; Introduction Art. 9d; entrée en vigueur au 01.07.2021; Introduction Art. 9e; entrée en vigueur au 01.07.2021; Introduction Art. 9f; entrée en vigueur au 01.07.2021; Introduction Art. 9g; entrée en vigueur au 01.07.2021; Introduction Art. 9h; entrée en vigueur au 01.07.2021; Introduction Art. 15, Al. 1, e; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 1, c; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 16a; entrée en vigueur au 01.07.2021; Introduction Art. 16b; entrée en vigueur au 01.07.2021; Introduction Art. 17a; entrée en vigueur au 01.07.2021; Modification Al. 1; entrée en vigueur au 01.07.2021; Introduction Al. 2-3; entrée en vigueur au 01.07.2021; Introduction Art. 22a; entrée en vigueur au 01.07.2021; Introduction Art. 23a; entrée en vigueur au 01.07.2021; Introduction Art. 27, Al. 3; entrée en vigueur au 01.07.2021; Introduction Art. 27a; entrée en vigueur au 01.07.2021; Introduction Art.16c; entrée en vigueur au 01.07.2021
+<sup>2</sup> A cet effet, la commission peut proposer au Conseil d'Etat de nouvelles dispositions ou lui adresser des recommandations concernant les améliorations à apporter aux règles existantes. Elle peut informer les administrés sur les questions liées à l'application de celles-ci. Elle procède à l'évaluation permanente de la présente loi.
+
+<sup>3</sup> La commission définit la formation obligatoire destinée aux professionnels impliqués dans l'application de la loi.
+
+[^chapterChapitreV-1]: Modif. 3 du 01.10.2019: Modification Al. 1; entrée en vigueur au 01.07.2021; Introduction Al. 2-3; entrée en vigueur au 01.07.2021
 
 #### Art. 19
 
 **Aide aux victimes**
 
-<sup>1</sup> L'autorité compétente organise l'aide aux victimes des délits commis en infraction des articles 195 ou 196 du code pénal suisse du 21 décembre 1937 . Elle leur accorde la protection nécessaire contre toute nouvelle atteinte à leur dignité.
+<sup>1</sup> L'autorité compétente organise l'aide aux victimes des délits commis en infraction des articles 195 ou 196 du code pénal suisse du 21 décembre 1937 [^19-1] . Elle leur accorde la protection nécessaire contre toute nouvelle atteinte à leur dignité.
 
 <sup>2</sup> Lorsque les victimes coopèrent activement avec la justice, en qualité de plaignantes ou de témoins, et se mettent ainsi en situation de grand danger, se plaçant en situation de détresse, l'autorité sollicite à leur attention une autorisation de séjour auprès de la Confédération ou, si elles le souhaitent, leur accorde une aide au départ. La décision de la Confédération demeure réservée.
+
+[^19-1]: [Code pénal suisse du 21.12.1937, RS 311.0](https://www.admin.ch/opc/fr/classified-compilation/19370083/index.html)
 
 #### Art. 20
 
@@ -257,6 +423,18 @@ décrète
 
 [^22-1]: Loi du 29.05.1985 sur la santé publique ([BLV 800.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.01?id=258cb2db-b772-411c-b0c5-6ed80967c762))
 
+#### Art. 22a
+
+**Subvention spéciale [^22-2]**
+
+<sup>1</sup> Le département dont relève la santé publique octroie une subvention spéciale, aux associations désignées comme compétentes pour dispenser les informations prévues à l'article 4, alinéa 1, de la présente loi, en couverture des frais occasionnés par cette activité.
+
+<sup>2</sup> Les modalités d'octroi et le montant de la subvention sont fixés dans une convention conclue entre l'association concernée et le département en charge de la santé publique, à défaut par une décision de ce département.
+
+<sup>3</sup> Sont réservées les subventions octroyées en sus conformément à l'article 22, alinéa 2 de la présente loi.
+
+[^22-2]: Modif. 3 du 01.10.2019: Introduction tArt; entrée en vigueur au 01.07.2021; Introduction Al. 1-3; entrée en vigueur au 01.07.2021; Introduction Art. 22a; entrée en vigueur au 01.07.2021
+
 ## Chapitre VI Dispositions diverses
 
 #### Art. 23
@@ -272,6 +450,14 @@ décrète
 <sup>4</sup> La police peut être requise par les autres autorités en cas de besoin.
 
 <sup>5</sup> Les autorités compétentes au sens de la présente loi se communiquent tout fait pouvant entraîner une mesure administrative ainsi que toute autre décision prise en application de la présente loi.
+
+#### Art. 23a
+
+**Effet suspensif [^23-1]**
+
+<sup>1</sup> Les sanctions administratives prises en application de la présente loi sont directement exécutoires. Les recours n'ont pas d'effet suspensif, sauf décision contraire de l'autorité de recours, sur requête de la partie recourante.
+
+[^23-1]: Modif. 3 du 01.10.2019: Introduction tArt; entrée en vigueur au 01.07.2021; Introduction Al. 1; entrée en vigueur au 01.07.2021; Introduction Art. 23a; entrée en vigueur au 01.07.2021
 
 #### Art. 24
 
@@ -293,12 +479,13 @@ décrète
 
 **Infractions à la présente loi et à ses dispositions d'application [^25-1]**
 
-<sup>1</sup> Est passible des peines prévues par l'article 199 du code pénal suisse du 21 décembre 1937 celui qui :
+<sup>1</sup> Est passible des peines prévues par l'article 199 du code pénal suisse du 21 décembre 1937 [^26-1] celui qui :
 
 - a. exploite un salon au sens de l'article 8 de la présente loi sans respecter les conditions légales et réglementaires ;
-- b. contrevient aux articles 7, 9, 13, 14, 15, 16, 17, 24 et 25 de la présente loi.
+- b. contrevient aux articles 4, 7, 9 à 9h, 13, 14, 15, 16, 17, 17a, 24 et 25 de la présente loi.
 
-[^25-1]: Modif. 3 du 01.10.2019: Introduction Art. 4, Al. 3-5; entrée en vigueur au 01.07.2021; Introduction Art. 5a; entrée en vigueur au 01.07.2021; Introduction Art. 9, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 9a; entrée en vigueur au 01.07.2021; Introduction Art. 9b; entrée en vigueur au 01.07.2021; Introduction Art. 9c; entrée en vigueur au 01.07.2021; Introduction Art. 9d; entrée en vigueur au 01.07.2021; Introduction Art. 9e; entrée en vigueur au 01.07.2021; Introduction Art. 9f; entrée en vigueur au 01.07.2021; Introduction Art. 9g; entrée en vigueur au 01.07.2021; Introduction Art. 9h; entrée en vigueur au 01.07.2021; Introduction Art. 15, Al. 1, e; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 1, c; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 16a; entrée en vigueur au 01.07.2021; Introduction Art. 16b; entrée en vigueur au 01.07.2021; Introduction Art. 17a; entrée en vigueur au 01.07.2021; Introduction Art. 18, Al. 2-3; entrée en vigueur au 01.07.2021; Introduction Art. 22a; entrée en vigueur au 01.07.2021; Introduction Art. 23a; entrée en vigueur au 01.07.2021; Modification Al. 1, b; entrée en vigueur au 01.07.2021; Introduction Art. 27, Al. 3; entrée en vigueur au 01.07.2021; Introduction Art. 27a; entrée en vigueur au 01.07.2021; Introduction Art.16c; entrée en vigueur au 01.07.2021
+[^25-1]: Modif. 3 du 01.10.2019: Modification Al. 1, b; entrée en vigueur au 01.07.2021
+[^26-1]: [Code pénal suisse du 21.12.1937, RS 311.0](https://www.admin.ch/opc/fr/classified-compilation/19370083/index.html)
 
 ## Chapitre VII Dispositions finales
 
@@ -310,4 +497,16 @@ décrète
 
 <sup>2</sup> Le Conseil d'Etat est chargé de son exécution. Il en publiera le texte conformément à l'article 84, alinéa 1, lettre a) de la Constitution cantonale et la mettra en vigueur, par voie d'arrêté, conformément à l'alinéa ci-dessus.
 
-[^chapterChapitreVII-1]: Modif. 3 du 01.10.2019: Introduction Art. 4, Al. 3-5; entrée en vigueur au 01.07.2021; Introduction Art. 5a; entrée en vigueur au 01.07.2021; Introduction Art. 9, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 9a; entrée en vigueur au 01.07.2021; Introduction Art. 9b; entrée en vigueur au 01.07.2021; Introduction Art. 9c; entrée en vigueur au 01.07.2021; Introduction Art. 9d; entrée en vigueur au 01.07.2021; Introduction Art. 9e; entrée en vigueur au 01.07.2021; Introduction Art. 9f; entrée en vigueur au 01.07.2021; Introduction Art. 9g; entrée en vigueur au 01.07.2021; Introduction Art. 9h; entrée en vigueur au 01.07.2021; Introduction Art. 15, Al. 1, e; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 1, c; entrée en vigueur au 01.07.2021; Introduction Art. 16, Al. 2; entrée en vigueur au 01.07.2021; Introduction Art. 16a; entrée en vigueur au 01.07.2021; Introduction Art. 16b; entrée en vigueur au 01.07.2021; Introduction Art. 17a; entrée en vigueur au 01.07.2021; Introduction Art. 18, Al. 2-3; entrée en vigueur au 01.07.2021; Introduction Art. 22a; entrée en vigueur au 01.07.2021; Introduction Art. 23a; entrée en vigueur au 01.07.2021; Modification tArt; entrée en vigueur au 01.07.2021; Introduction Al. 3; entrée en vigueur au 01.07.2021; Introduction Art. 27a; entrée en vigueur au 01.07.2021; Introduction Art.16c; entrée en vigueur au 01.07.2021
+<sup>3</sup> Le Conseil d'Etat fixe la date d'entrée en vigueur des modifications de la présente loi.
+
+[^chapterChapitreVII-1]: Modif. 3 du 01.10.2019: Modification tArt; entrée en vigueur au 01.07.2021; Introduction Al. 3; entrée en vigueur au 01.07.2021
+
+#### Art. 27a
+
+**Délai de mise en conformité [^27-1]**
+
+<sup>1</sup> Le Conseil d'Etat fixe le délai imposable aux personnes soumises à la présente loi, à partir de l'entrée en vigueur de ses modifications, pour qu'elles se conforment à ses nouvelles dispositions, notamment aux obligations et autorisations prévues.
+
+<sup>2</sup> Les personnes exerçant la prostitution qui se sont déjà annoncées personnellement à la police cantonale avant la date d'entrée en vigueur de l'obligation prévue par l'article 4, alinéa 2 de la présente loi sont dispensées de le faire à nouveau.
+
+[^27-1]: Modif. 3 du 01.10.2019: Introduction tArt; entrée en vigueur au 01.07.2021; Introduction Al. 1-2; entrée en vigueur au 01.07.2021; Introduction Art. 27a; entrée en vigueur au 01.07.2021
