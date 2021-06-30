@@ -3,13 +3,12 @@ canton: BS
 number: BeE 680.200
 title: Reglement betreffend die ausserschulische Nutzung der Schulanlagen Bettingen
 language: de
-version: 2020-02-03
-valid_until: 2021-06-30
-version_adopted: 2020-01-20
+version: 2021-07-01
+version_adopted: 2021-05-31
 adopted: 2019-06-03
 in_force: 2019-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20680.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4802/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5282/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4802/pdf_file"
 
 Ausserschulische Nutzung der Schulanlagen: Reglement | Bettingen: Einwohnergemeinde
 
-Vom 3. Juni 2019 (Stand 3. Februar 2020)
+Vom 3. Juni 2019 (Stand 1. Juli 2021)
 
 Der Gemeinderat Bettingen,
 
@@ -170,6 +169,8 @@ beschliesst:
 <sup>1</sup> Für die Durchführung von Trainings, Kursen und weiteren Veranstaltungen für Kinder und Jugendliche werden keine Nutzungsgebühren erhoben, wenn die Nutzung durch gemeinnützige Organisationen mit Sitz im Kanton Basel-Stadt erfolgt und mindestens 80% der Kinder und Jugendlichen das 20. Altersjahr noch nicht vollendet haben.
 
 <sup>2</sup> Davon ausgenommen sind die Hauswartsentschädigung und der ausserordentliche Aufwand infolge Verschmutzungen oder Änderungen der Bestuhlung.
+
+<sup>3</sup> Der Gemeinderat entscheidet alle vier Jahre im Rahmen der Strategie über einen allgemeinen Gebührenerlass für ortsansässige Vereine und Einwohnende für Nutzungen zu einem fördernswerten Zweck, insbesondere in den Bereichen Bildung, Soziales, Musik und Sport.
 
 #### § 15
 
