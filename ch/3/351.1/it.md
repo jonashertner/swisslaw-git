@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 1981 sull'assistenza internazionale in mater
 short: AIMP
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: it
-version: 2021-06-01
+version: 2021-07-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210601/it/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210601/it"
 
 (Assistenza in materia penale, AIMP)
 
-del 20 marzo 1981 (Stato 1° giugno 2021)
+del 20 marzo 1981 (Stato 1° luglio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1556,6 +1556,142 @@ I diritti giusta il capoverso 1 possono essere limitati soltanto nei seguenti ca
 **Chiusura della procedura d’assistenza**
 
 L’autorità d’esecuzione, qualora ritenga ultimato il disbrigo parziale o totale della domanda, emana una decisione motivata concernente la concessione e la portata dell’assistenza giudiziaria.
+
+#### Art. 80d<sup>bis</sup>
+
+**Trasmissione anticipata di informazioni e mezzi di prova**[^80dbis-1]
+
+<sup>1</sup>
+
+Prima di emanare la decisione di chiusura, la competente autorità cantonale o federale può disporre eccezionalmente la trasmissione anticipata di informazioni o mezzi di prova raccolti:
+
+- a. se senza questa misura di assistenza giudiziaria le indagini all’estero in casi di criminalità organizzata o terrorismo risulterebbero eccessivamente difficili, in particolare per il rischio di collusione o perché la natura confidenziale del procedimento deve essere tutelata; o
+- b. per evitare un pericolo serio e immediato, in particolare la commissione di un atto terroristico.
+
+<sup>2</sup> Le informazioni o i mezzi di prova devono essere in relazione con la prevenzione o il perseguimento di un reato che può dar luogo a estradizione.
+
+<sup>3</sup> La trasmissione anticipata può essere spontanea o su domanda. Se è spontanea, l’autorità federale o cantonale competente trasmette soltanto i dati non personali necessari alla valutazione della situazione, fino a quando non avrà ottenuto le garanzie di cui al capoverso 4.
+
+<sup>4</sup>
+
+La trasmissione anticipata presuppone che l’autorità richiedente si impegni previamente a:
+
+- a. utilizzare le informazioni o i mezzi di prova soltanto per fini investigativi, ma in nessun caso per chiedere, motivare o pronunciare una decisione finale;
+- b. informare la competente autorità cantonale o federale, non appena lo permette il procedimento all’estero, che la trasmissione anticipata può essere resa nota all’interessato secondo l’articolo 80*m*, affinché possa prendere posizione prima che venga emanata la decisione di chiusura;
+- c. eliminare dagli atti del procedimento all’estero le informazioni o i mezzi di prova ottenuti mediante trasmissione anticipata, se l’assistenza giudiziaria è negata.
+
+<sup>5</sup> La comunicazione all’interessato è rimandata.
+
+<sup>6</sup> La decisione incidentale secondo il capoverso 1 è comunicata senza indugio all’Ufficio federale prima della trasmissione anticipata. Non è impugnabile a titolo indipendente.
+
+[^80dbis-1]: Introdotto dall’all. n. II 5 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+
+### Sezione 2*a*:**** Squadra investigativa comune
+
+[^part3-chap2-sec2a-1]
+
+[^part3-chap2-sec2a-1]: Introdotta dall’all. n. II 5 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+
+#### Art. 80d<sup>ter</sup>
+
+**Costituzione della squadra investigativa comune**
+
+<sup>1</sup> L’autorità cantonale o federale di assistenza giudiziaria può costituire per uno scopo determinato, d’intesa con la competente autorità giudiziaria straniera, una squadra investigativa comune (SInC), incaricata di svolgere o sostenere lo svolgimento di un’istruzione penale in uno Stato parte alla SInC.
+
+<sup>2</sup> Una SInC può essere costituita in particolare nel quadro di un’istruzione penale difficile o complessa che riguarda uno o più altri Stati e richiede l’impiego di mezzi ingenti nonché un’azione coordinata e concertata.
+
+<sup>3</sup> Può essere costituita soltanto in presenza di una domanda di assistenza di un’autorità giudiziaria.
+
+<sup>4</sup> L’impiego della SInC è limitato nel tempo. Se necessario può essere prorogato.
+
+<sup>5</sup> L’autorità competente nomina il responsabile e i membri della SInC per il proprio Stato. Se necessario, la SInC può far capo a esperti e ausiliari.
+
+<sup>6</sup> L’atto di costituzione è comunicato all’Ufficio federale in forma scritta.
+
+#### Art. 80d<sup>quater</sup>
+
+**Diritto applicabile**
+
+L’attività della SInC è retta dal diritto dello Stato nel quale si svolge l’istruzione.
+
+#### Art. 80d<sup>quinquies</sup>
+
+**Responsabilità**
+
+Il rappresentante dell’autorità penale o dell’autorità preposta all’assistenza giudiziaria dello Stato nel quale si svolgono gli atti d’istruzione si assume la responsabilità per questi ultimi.
+
+#### Art. 80d<sup>sexies</sup>
+
+**Responsabilità penale e civile**
+
+Durante gli interventi sul territorio svizzero, il responsabile e i membri stranieri della SInC nonché gli esperti e gli ausiliari stranieri di cui all’articolo 80*d*<sup>ter</sup> capoverso 5 sono equiparati al responsabile e ai membri svizzeri della SInC per quanto concerne i reati commessi da loro o nei loro confronti. Sono loro equiparati anche per quanto concerne gli eventuali danni che causano durante il loro intervento.
+
+#### Art. 80d<sup>septies</sup>
+
+**Accesso a documenti, informazioni e mezzi di prova**
+
+<sup>1</sup>
+
+I responsabili e i membri della SInC hanno accesso:
+
+- a. ai documenti e alle informazioni in relazione con l’istruzione penale in questione;
+- b. ai mezzi di prova raccolti nel quadro dell’istruzione penale in questione.
+
+<sup>2</sup> Non hanno accesso a documenti, informazioni e mezzi di prova se così disposto da un responsabile della SInC, da un’autorità penale o da un’autorità preposta all’assistenza giudiziaria. Lo stesso vale nel caso in cui i documenti, le informazioni o i mezzi di prova sono stati raccolti prima della costituzione della SInC.
+
+<sup>3</sup> Gli esperti e gli ausiliari di cui all’articolo 80*d*<sup>ter</sup> capoverso 5 hanno accesso soltanto ai documenti, alle informazioni e ai mezzi di prova necessari all’adempimento dei loro compiti.
+
+#### Art. 80d<sup>octies</sup>
+
+**Trasmissione anticipata**
+
+La trasmissione anticipata di documenti, informazioni e mezzi di prova che si trovano sul territorio svizzero è retta dall’articolo 80*d*<sup>bis</sup>.
+
+#### Art. 80d<sup>novies</sup>
+
+**Confidenzialità e protezione dei dati**
+
+<sup>1</sup> La confidenzialità delle informazioni, compreso il segreto istruttorio, è garantita.
+
+<sup>2</sup> La protezione dei dati personali è retta dal diritto dello Stato nel quale si svolge l’atto d’istruzione.
+
+#### Art. 80d<sup>decies</sup>
+
+**Contatti con i media**
+
+L’autorità penale o l’autorità preposta all’assistenza giudiziaria svizzera e la sua omologa straniera si accordano previamente sul contenuto dei comunicati stampa che i competenti servizi delle autorità giudiziarie coinvolte intendono pubblicare.
+
+#### Art. 80d<sup>undecies</sup>
+
+**Assunzione delle spese**
+
+<sup>1</sup> Le spese per gli atti d’istruzione sono assunte dallo Stato nel quale si svolge il rispettivo atto.
+
+<sup>2</sup> Le spese per il soggiorno, l’alloggio e i viaggi dei responsabili e dei membri della SInC sono assunte dal rispettivo Stato di provenienza.
+
+<sup>3</sup> I locali e i mezzi tecnici necessari per svolgere gli atti d’istruzione, quali gli uffici, i mezzi di comunicazione o le attrezzature speciali, sono messi a disposizione dallo Stato nel quale si svolge il rispettivo atto.
+
+#### Art. 80d<sup>duodecies</sup>
+
+**Atto di costituzione**
+
+<sup>1</sup>
+
+L’atto di costituzione indica:
+
+- a. lo scopo della SInC;
+- b. i nomi dell’autorità penale o dell’autorità preposta all’assistenza giudiziaria svizzera ed estera;
+- c. i nomi e le funzioni del responsabile e degli altri membri della SInC di ciascuno Stato che partecipa alla SInC;
+- d. l’istruzione penale, compresi i fatti oggetto dell’istruzione penale e i reati perseguiti;
+- e. gli Stati sul cui territorio la SInC investiga secondo il relativo diritto nazionale;
+- f. la durata dell’impiego della SInC e la data del suo scioglimento;
+- g. i nomi di eventuali esperti e ausiliari che non sono membri della SInC, segnatamente coloro che provengono da altri servizi o unità amministrative degli Stati partecipanti e i nomi di eventuali esperti e ausiliari di Eurojust ed Europol;
+- h. la prassi nei contatti con i media;
+- i. l’assunzione delle spese per l’istruzione penale e per gli atti d’istruzione;
+- j. l’assunzione delle spese per il soggiorno, l’alloggio e i viaggi dei responsabili, degli altri membri della SInC nonché degli esperti e ausiliari;
+- k. i mezzi tecnici necessari per svolgere gli interventi.
+
+<sup>2</sup> Se le indagini lo richiedono, l’atto di costituzione può essere adeguato. È possibile, in particolare, aggiungere membri alla SInC o prorogare la durata del suo impiego.
 
 ### Sezione 3:**** Ricorso
 

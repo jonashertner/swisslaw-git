@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 mars 1981 sur l'entraide internationale en matière
 short: EIMP
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: fr
-version: 2021-06-01
+version: 2021-07-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210601/fr"
 
 (Loi sur l’entraide pénale internationale, EIMP)
 
-du 20 mars 1981 (Etat le 1<sup>er</sup> juin 2021)
+du 20 mars 1981 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -26,7 +26,7 @@ vu les art. 54, al. 1, 123, al. 1, et 173, al. 2, de la Constitution[^ingress-1]
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur au 1<sup>er</sup> juin 2021 ([RO 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 7007](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
+[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 7007](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
 [^ingress-3]: [FF 1976 II 430](https://fedlex.data.admin.ch/eli/fga/1976/2_444_430_443)
 
 ## Première partie Dispositions générales
@@ -41,7 +41,7 @@ arrête:
 
 <sup>1</sup>
 
-A moins que d’autres lois ou des accords internationaux n’en disposent autrement, la présente loi règle toutes les procédures relatives à la coopération internationale en matière pénale, soit principalement:[^1-1]
+À moins que d’autres lois ou des accords internationaux n’en disposent autrement, la présente loi règle toutes les procédures relatives à la coopération internationale en matière pénale, soit principalement:[^1-1]
 
 - a. l’extradition de personnes poursuivies ou condamnées pénalement (deuxième partie);
 - b. l’entraide en faveur d’une procédure pénale étrangère (troisième partie);
@@ -50,11 +50,11 @@ A moins que d’autres lois ou des accords internationaux n’en disposent autre
 
 <sup>2</sup> …[^1-2]
 
-<sup>3</sup> La présente loi ne s’applique qu’aux affaires pénales dans lesquelles le droit de l’Etat requérant permet de faire appel au juge.
+<sup>3</sup> La présente loi ne s’applique qu’aux affaires pénales dans lesquelles le droit de l’État requérant permet de faire appel au juge.
 
 <sup>3bis</sup>
 
-A moins que d’autres lois ou des accords internationaux n’en disposent autrement, la présente loi s’applique par analogie aux procédures relatives à la coopération en matière pénale avec des tribunaux internationaux ou d’autres institutions interétatiques ou supranationales exerçant des fonctions d’autorités pénales si ces procédures concernent:
+À moins que d’autres lois ou des accords internationaux n’en disposent autrement, la présente loi s’applique par analogie aux procédures relatives à la coopération en matière pénale avec des tribunaux internationaux ou d’autres institutions interétatiques ou supranationales exerçant des fonctions d’autorités pénales si ces procédures concernent:
 
 - a. des infractions relevant des titres 12<sup>bis</sup>, 12<sup>ter</sup> ou 12<sup>quater</sup> du code pénal[^1-3], ou
 - b. des infractions relevant d’autres domaines du droit pénal, lorsque le tribunal ou l’institution se fonde sur une résolution des Nations Unies contraignante pour la Suisse ou soutenue par la Suisse.[^1-4]
@@ -64,7 +64,7 @@ A moins que d’autres lois ou des accords internationaux n’en disposent autre
 Le Conseil fédéral peut arrêter dans une ordonnance que la présente loi s’applique par analogie aux procédures relatives à la coopération en matière pénale avec d’autres tribunaux internationaux ou d’autres institutions interétatiques ou supranationales exerçant des fonctions d’autorités pénales aux conditions suivantes:
 
 - a. la constitution du tribunal ou de l’institution se fonde sur une base juridique réglant expressément ses compétences en matière de droit pénal et de procédure pénale;
-- b. la procédure devant ce tribunal ou devant cette institution garantit le respect des principes de l’Etat de droit;
+- b. la procédure devant ce tribunal ou devant cette institution garantit le respect des principes de l’État de droit;
 - c. la coopération contribue à la sauvegarde des intérêts de la Suisse.[^1-5]
 
 <sup>4</sup> La présente loi ne confère pas le droit d’exiger une coopération en matière pénale.[^1-6]
@@ -72,9 +72,9 @@ Le Conseil fédéral peut arrêter dans une ordonnance que la présente loi s’
 [^1-1]: Nouvelle teneur selon l’art. 59 ch. 1 de la LF du 22 juin 2001 sur la coopération avec la Cour pénale internationale, en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1493](https://fedlex.data.admin.ch/eli/oc/2002/237); [FF 2001 359](https://fedlex.data.admin.ch/eli/fga/2001/133)).
 [^1-2]: Abrogé par le ch. I de la LF du 4 oct. 1996, avec effet au 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^1-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^1-4]: Introduit par le ch. I de l’O du 18 décembre 2020, en vigueur le 1<sup>er</sup> juin 2021 ([RO 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 7007](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
-[^1-5]: Introduit par le ch. I de l’O du 18 décembre 2020, en vigueur le 1<sup>er</sup> juin 2021 ([RO 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 7007](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
-[^1-6]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur au 1<sup>er</sup> juin 2021 ([RO 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 7007](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
+[^1-4]: Introduit par le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 7007](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
+[^1-5]: Introduit par le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 7007](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
+[^1-6]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [FF 2019 7007](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
 
 #### Art. 1a
 
@@ -107,7 +107,7 @@ La demande de coopération en matière pénale est irrecevable s’il y a lieu d
 
 **Nature de l’infraction**
 
-<sup>1</sup> La demande est irrecevable si la procédure vise un acte qui, selon les conceptions suisses, revêt un caractère politique prépondérant, constitue une violation des obligations militaires ou d’obligations similaires, ou paraît dirigé contre la défense nationale ou la puissance défensive de l’Etat requérant.
+<sup>1</sup> La demande est irrecevable si la procédure vise un acte qui, selon les conceptions suisses, revêt un caractère politique prépondérant, constitue une violation des obligations militaires ou d’obligations similaires, ou paraît dirigé contre la défense nationale ou la puissance défensive de l’État requérant.
 
 <sup>2</sup>
 
@@ -147,27 +147,27 @@ La demande est irrecevable:
 
 - a.[^5-1]
 
-  si, en Suisse ou dans l’Etat où l’infraction a été commise, le juge:
+  si, en Suisse ou dans l’État où l’infraction a été commise, le juge:
 
   - 1 a prononcé, statuant au fond, un acquittement ou un non-lieu, ou
   - 2 a renoncé à infliger une sanction ou s’est abstenu provisoirement de la prononcer;
 
-- b.[^5-2] si la sanction a été exécutée ou ne peut l’être selon le droit de l’Etat qui a statué; ou
+- b.[^5-2] si la sanction a été exécutée ou ne peut l’être selon le droit de l’État qui a statué; ou
 - c.[^5-3] si l’exécution de la demande implique des mesures de contrainte et que la prescription absolue empêche, en droit suisse, d’ouvrir une action pénale ou d’exécuter une sanction.
 
-<sup>2</sup> L’al. 1, let. a et b, n’est pas applicable si l’Etat requérant invoque des motifs de nature à entraîner la révision d’un jugement exécutoire, au sens de l’art. 410 du code de procédure pénale du 5 octobre 2007 (CPP)[^5-4].[^5-5]
+<sup>2</sup> L’al. 1, let. a et b, n’est pas applicable si l’État requérant invoque des motifs de nature à entraîner la révision d’un jugement exécutoire, au sens de l’art. 410 du code de procédure pénale du 5 octobre 2007 (CPP)[^5-4].[^5-5]
 
 [^5-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^5-2]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^5-3]: La teneur des art. 97 ss CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) contient un nouveau système de prescription ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 [^5-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^5-5]: Nouvelle teneur selon le ch. II 13 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^5-5]: Nouvelle teneur selon l’annexe 1 ch. II 13 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 6
 
 **Concours de l’irrecevabilité et de l’admissibilité de la coopération**
 
-<sup>1</sup> Si l’acte imputé à la personne poursuivie tombe sous le coup de plusieurs dispositions du droit pénal suisse, il ne peut être donné suite à la demande qu’en ce qui concerne les infractions pour lesquelles il n’existe aucune cause d’irrecevabilité et si l’Etat requérant garantit le respect des conditions fixées.
+<sup>1</sup> Si l’acte imputé à la personne poursuivie tombe sous le coup de plusieurs dispositions du droit pénal suisse, il ne peut être donné suite à la demande qu’en ce qui concerne les infractions pour lesquelles il n’existe aucune cause d’irrecevabilité et si l’État requérant garantit le respect des conditions fixées.
 
 <sup>2</sup> La coopération est exclue si la procédure vise un acte qui tombe sous le coup de plusieurs dispositions du droit pénal suisse ou étranger et qu’il ne puisse être donné suite à la demande en raison d’une disposition touchant l’acte sous tous ses aspects.
 
@@ -177,15 +177,15 @@ La demande est irrecevable:
 
 **Citoyens suisses**
 
-<sup>1</sup> Aucun citoyen suisse ne peut être extradé ou remis sans son consentement écrit à un Etat étranger pour y faire l’objet d’une poursuite pénale ou d’une mesure d’exécution. Le consentement est révocable tant que la remise n’a pas été ordonnée.
+<sup>1</sup> Aucun citoyen suisse ne peut être extradé ou remis sans son consentement écrit à un État étranger pour y faire l’objet d’une poursuite pénale ou d’une mesure d’exécution. Le consentement est révocable tant que la remise n’a pas été ordonnée.
 
-<sup>2</sup> L’al. 1 ne s’applique pas au transit et à la restitution d’un citoyen suisse remis temporairement à la disposition des autorités suisses par un autre Etat.
+<sup>2</sup> L’al. 1 ne s’applique pas au transit et à la restitution d’un citoyen suisse remis temporairement à la disposition des autorités suisses par un autre État.
 
 #### Art. 8
 
 **Réciprocité**
 
-<sup>1</sup> En règle générale, il n’est donné suite à une demande que si l’Etat requérant assure la réciprocité. L’Office de la justice[^8-1] du Département fédéral de justice et police (office fédéral) requiert une garantie de réciprocité si les circonstances l’exigent.
+<sup>1</sup> En règle générale, il n’est donné suite à une demande que si l’État requérant assure la réciprocité. L’Office de la justice[^8-1] du Département fédéral de justice et police (office fédéral) requiert une garantie de réciprocité si les circonstances l’exigent.
 
 <sup>2</sup>
 
@@ -195,7 +195,7 @@ La réciprocité n’est pas nécessaire, en particulier, lorsqu’il s’agit d
 - b.[^8-2] est propre à améliorer la situation de la personne poursuivie ou ses chances de reclassement social; ou
 - c. sert à élucider un acte dirigé contre un citoyen suisse.
 
-<sup>3</sup> Le Conseil fédéral peut garantir la réciprocité à d’autres Etats dans les limites de la présente loi.
+<sup>3</sup> Le Conseil fédéral peut garantir la réciprocité à d’autres États dans les limites de la présente loi.
 
 [^8-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^8-2]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
@@ -204,7 +204,7 @@ La réciprocité n’est pas nécessaire, en particulier, lorsqu’il s’agit d
 
 **Accords bilatéraux**[^8a-1]
 
-Le Conseil fédéral peut conclure avec des Etats étrangers des accords bilatéraux sur le transfèrement des personnes condamnées qui s’inspirent des principes établis dans la Convention du Conseil de l’Europe du 21 mars 1983 sur le transfèrement des personnes condamnées[^8a-2].
+Le Conseil fédéral peut conclure avec des États étrangers des accords bilatéraux sur le transfèrement des personnes condamnées qui s’inspirent des principes établis dans la Convention du Conseil de l’Europe du 21 mars 1983 sur le transfèrement des personnes condamnées[^8a-2].
 
 [^8a-1]: Introduit par le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> nov. 2002 ([RO 2002 3333](https://fedlex.data.admin.ch/eli/oc/2002/498); [FF 2001 4479](https://fedlex.data.admin.ch/eli/fga/2001/762)).
 [^8a-2]: [RS 0.343](https://fedlex.data.admin.ch/eli/cc/1988/761_761_761)
@@ -216,7 +216,7 @@ Le Conseil fédéral peut conclure avec des Etats étrangers des accords bilaté
 Lors de l’exécution de la demande, la protection du domaine secret est réglée conformément aux dispositions sur le droit de refuser de témoigner. Les art. 246 à 248, CPP[^9-1] s’appliquent par analogie à la perquisition de documents et à leur mise sous scellés. [^9-2]
 
 [^9-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^9-2]: Nouvelle teneur de la phrase selon le ch. II 13 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^9-2]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 13 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 10
 
@@ -236,7 +236,7 @@ Lors de l’exécution de la demande, la protection du domaine secret est régl�
 
 [^part1-chap1a-1]
 
-[^part1-chap1a-1]: Introduit par le ch. 7 de l’annexe 1 à la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^part1-chap1a-1]: Introduit par l’annexe 1 ch. 7 de la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 #### Art. 11a
 
@@ -258,7 +258,7 @@ En vue de poursuivre les buts énoncés à l’al. 1, le système contient:
 - b. les données nécessaires à la localisation et à la gestion correcte des dossiers;
 - c. les documents relatifs aux affaires enregistrés électroniquement et aux entrées électroniques.
 
-<sup>3</sup> L’Office fédéral de la police, le Secrétariat d’Etat aux migrations[^11a-1] et les unités compétentes du Service de renseignement de la Confédération pour l’exécution de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^11a-2], ont accès en ligne aux données mentionnées à l’al. 2, let. a.[^11a-3] L’Office fédéral de la police a également accès en ligne aux données mentionnées à l’al. 2, let. b, lorsqu’il accomplit des tâches de l’Office fédéral de la justice prévues par la présente loi.
+<sup>3</sup> L’Office fédéral de la police, le Secrétariat d’État aux migrations[^11a-1] et les unités compétentes du Service de renseignement de la Confédération pour l’exécution de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^11a-2], ont accès en ligne aux données mentionnées à l’al. 2, let. a.[^11a-3] L’Office fédéral de la police a également accès en ligne aux données mentionnées à l’al. 2, let. b, lorsqu’il accomplit des tâches de l’Office fédéral de la justice prévues par la présente loi.
 
 <sup>4</sup>
 
@@ -304,7 +304,7 @@ L’autorité compétente peut refuser, restreindre ou différer la communicatio
 
 **Restriction du droit d’accès applicable aux demandes d’arrestation aux fins d’extradition**
 
-<sup>1</sup> Toute personne peut demander si un Etat étranger a adressé à la Suisse une demande d’arrestation aux fins d’extradition à son encontre. Ce droit est exercé auprès de l’office fédéral. Si la demande est adressée à une autre autorité, celle-ci transmet sans délai l’affaire à l’office fédéral.
+<sup>1</sup> Toute personne peut demander si un État étranger a adressé à la Suisse une demande d’arrestation aux fins d’extradition à son encontre. Ce droit est exercé auprès de l’office fédéral. Si la demande est adressée à une autre autorité, celle-ci transmet sans délai l’affaire à l’office fédéral.
 
 <sup>2</sup> Lorsqu’une personne demande à l’office fédéral s’il a reçu une demande d’arrestation aux fins d’extradition, ce dernier l’informe qu’aucune donnée la concernant n’est traitée illicitement et qu’elle peut demander au Préposé fédéral à la protection des données et à la transparence (préposé) de vérifier si les éventuelles données la concernant sont traitées licitement.
 
@@ -316,7 +316,7 @@ L’autorité compétente peut refuser, restreindre ou différer la communicatio
 
 <sup>6</sup> La communication visée à l’al. 3 n’est pas sujette à recours.
 
-<sup>7</sup> En dérogation à l’al. 2, l’office fédéral est habilité à fournir à la personne concernée les renseignements demandés avec l’accord préalable de l’Etat requérant.
+<sup>7</sup> En dérogation à l’al. 2, l’office fédéral est habilité à fournir à la personne concernée les renseignements demandés avec l’accord préalable de l’État requérant.
 
 [^11c-1]: [RS 235.3](https://fedlex.data.admin.ch/eli/cc/2019/112)
 
@@ -340,55 +340,55 @@ Au lieu de procéder à l’effacement, l’autorité compétente limite le trai
 
 #### Art. 11e
 
-**Egalité de traitement**
+**Égalité de traitement**
 
-<sup>1</sup> La communication de données personnelles aux autorités compétentes des Etats qui sont liés à la Suisse par l’un des accords d’association à Schengen (Etats Schengen) ne doit pas être soumise à des règles de protection des données personnelles plus strictes que celles prévues pour la communication aux autorités pénales suisses.
+<sup>1</sup> La communication de données personnelles aux autorités compétentes des États qui sont liés à la Suisse par l’un des accords d’association à Schengen (États Schengen) ne doit pas être soumise à des règles de protection des données personnelles plus strictes que celles prévues pour la communication aux autorités pénales suisses.
 
-<sup>2</sup> Les lois spéciales qui prévoient des règles de protection des données personnelles plus strictes pour la communication de données personnelles aux autorités compétentes étrangères ne s’appliquent pas à la communication aux autorités compétentes des Etats Schengen.
+<sup>2</sup> Les lois spéciales qui prévoient des règles de protection des données personnelles plus strictes pour la communication de données personnelles aux autorités compétentes étrangères ne s’appliquent pas à la communication aux autorités compétentes des États Schengen.
 
 #### Art. 11f
 
-**Communication de données personnelles à un Etat tiers ou à un organisme international**
+**Communication de données personnelles à un État tiers ou à un organisme international**
 
-<sup>1</sup> Aucune donnée personnelle ne peut être communiquée à l’autorité compétente d’un Etat qui n’est pas lié à la Suisse par l’un des accords d’association à Schengen (Etat tiers) ou à un organisme international si la personnalité de la personne concernée devait s’en trouver gravement menacée, notamment du fait de l’absence d’un niveau de protection adéquat.
+<sup>1</sup> Aucune donnée personnelle ne peut être communiquée à l’autorité compétente d’un État qui n’est pas lié à la Suisse par l’un des accords d’association à Schengen (État tiers) ou à un organisme international si la personnalité de la personne concernée devait s’en trouver gravement menacée, notamment du fait de l’absence d’un niveau de protection adéquat.
 
 <sup>2</sup>
 
 Un niveau de protection adéquat est assuré par:
 
-- a. la législation de l’Etat tiers lorsque l’Union européenne l’a constaté par voie de décision;
+- a. la législation de l’État tiers lorsque l’Union européenne l’a constaté par voie de décision;
 - b. un traité international;
 - c. des garanties spécifiques.
 
 <sup>3</sup>
 
-En dérogation à l’al. 1, des données personnelles peuvent être communiquées à une autorité compétente d’un Etat tiers ou à un organisme international si la communication est, en l’espèce, nécessaire:
+En dérogation à l’al. 1, des données personnelles peuvent être communiquées à une autorité compétente d’un État tiers ou à un organisme international si la communication est, en l’espèce, nécessaire:
 
 - a. pour protéger la vie ou l’intégrité corporelle de la personne concernée ou d’un tiers;
-- b. pour prévenir un danger immédiat et sérieux pour la sécurité publique d’un Etat Schengen ou d’un Etat tiers;
+- b. pour prévenir un danger immédiat et sérieux pour la sécurité publique d’un État Schengen ou d’un État tiers;
 - c. pour prévenir, constater ou poursuivre une infraction ou pour exécuter une décision pénale pour autant qu’aucun intérêt digne de protection prépondérant de la personne concernée ne s’oppose à la communication;
 - d. à l’exercice ou à la défense d’un droit devant une autorité compétente pour prévenir, constater ou poursuivre une infraction ou pour exécuter une décision pénale, pour autant qu’aucun intérêt digne de protection prépondérant de la personne concernée ne s’oppose à la communication.
 
 #### Art. 11g
 
-**Communication de données personnelles provenant d’un Etat Schengen à un Etat tiers ou à un organisme international**
+**Communication de données personnelles provenant d’un État Schengen à un État tiers ou à un organisme international**
 
 <sup>1</sup>
 
-Les données personnelles transmises ou mises à disposition par un Etat Schengen ne peuvent être communiquées à l’autorité compétente d’un Etat tiers ou à un organisme international que si les conditions suivantes sont réunies:
+Les données personnelles transmises ou mises à disposition par un État Schengen ne peuvent être communiquées à l’autorité compétente d’un État tiers ou à un organisme international que si les conditions suivantes sont réunies:
 
 - a. la communication est nécessaire pour prévenir, constater ou poursuivre une infraction ou pour exécuter une décision pénale;
-- b. l’Etat Schengen qui a transmis ou mis à disposition les données personnelles a donné son accord préalable;
+- b. l’État Schengen qui a transmis ou mis à disposition les données personnelles a donné son accord préalable;
 - c. les conditions prévues à l’art. 11*f* sont respectées.
 
 <sup>2</sup>
 
 En dérogation à l’al. 1, let. b, des données personnelles peuvent être communiquées si, dans le cas d’espèce, les conditions suivantes sont réunies:
 
-- a. l’accord préalable de l’Etat Schengen ne peut pas être obtenu en temps utile;
-- b. la communication est indispensable pour prévenir un danger immédiat et sérieux pour la sécurité publique d’un Etat Schengen ou d’un Etat tiers ou pour protéger les intérêts essentiels d’un Etat Schengen.
+- a. l’accord préalable de l’État Schengen ne peut pas être obtenu en temps utile;
+- b. la communication est indispensable pour prévenir un danger immédiat et sérieux pour la sécurité publique d’un État Schengen ou d’un État tiers ou pour protéger les intérêts essentiels d’un État Schengen.
 
-<sup>3</sup> L’Etat Schengen est informé sans délai des communications de données personnelles effectuées en vertu de l’al. 2.
+<sup>3</sup> L’État Schengen est informé sans délai des communications de données personnelles effectuées en vertu de l’al. 2.
 
 #### Art. 11h
 
@@ -426,7 +426,7 @@ Elle communique en outre au destinataire toute information permettant de disting
 
 Sont réputés produire leurs effets en Suisse, dans les procédures prévues par la présente loi:
 
-- a. les actes interruptifs de prescription selon le droit de l’Etat requérant;
+- a. les actes interruptifs de prescription selon le droit de l’État requérant;
 - b. la plainte déposée en temps utile auprès d’une autorité étrangère, lorsqu’elle est également exigée en droit suisse.
 
 <sup>2</sup> Si seul le droit suisse exige une plainte, aucune sanction ne peut être infligée ou exécutée en Suisse en cas d’opposition du lésé.
@@ -453,15 +453,15 @@ La détention préventive subie à l’étranger ou la détention provoquée à 
 
 <sup>4</sup>
 
-L’indemnité pour détention injustifiée en Suisse peut aussi être réduite ou refusée si l’Etat requérant:
+L’indemnité pour détention injustifiée en Suisse peut aussi être réduite ou refusée si l’État requérant:
 
 - a. retire la demande de recherche et d’arrestation aux fins d’extradition, ou
 - b. ne présente pas la demande d’extradition et ses annexes dans les délais prévus.[^15-4]
 
-<sup>5</sup> Lorsqu’elle décide de la réduction ou du refus de l’indemnité visée à l’al. 4, l’autorité concernée tient compte des chances qu’a le lésé d’obtenir réparation dans l’Etat étranger.[^15-5]
+<sup>5</sup> Lorsqu’elle décide de la réduction ou du refus de l’indemnité visée à l’al. 4, l’autorité concernée tient compte des chances qu’a le lésé d’obtenir réparation dans l’État étranger.[^15-5]
 
 [^15-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^15-2]: Nouvelle teneur selon le ch. II 13 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^15-2]: Nouvelle teneur selon l’annexe 1 ch. II 13 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^15-3]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^15-4]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^15-5]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
@@ -478,7 +478,7 @@ L’indemnité pour détention injustifiée en Suisse peut aussi être réduite 
 
 <sup>2</sup> …[^16-1]
 
-[^16-1]: Abrogé par le ch. II 13 de l’annexe 1 au CPP du 5 oct. 2007, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^16-1]: Abrogé par l’annexe 1 ch. II 13 du CPP du 5 oct. 2007, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 17
 
@@ -501,9 +501,9 @@ Il statue dans les cas suivants:
 <sup>5</sup> Il peut aussi décider de l’admissibilité de l’entraide et de l’exécution conformément à l’art. 79*a*.[^17-4]
 
 [^17-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
-[^17-2]: Phrase introduite par le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^17-2]: Phrase introduite par l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^17-3]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
-[^17-4]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)). Nouvelle teneur selon le ch. II 13 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^17-4]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)). Nouvelle teneur selon l’annexe 1 ch. II 13 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 17a
 
@@ -511,7 +511,7 @@ Il statue dans les cas suivants:
 
 <sup>1</sup> L’autorité compétente traite les demandes avec célérité. Elle statue sans délai.
 
-<sup>2</sup> A la requête de l’office fédéral, elle l’informe sur l’état de la procédure, les raisons d’un éventuel retard et les mesures envisagées. En cas de retard injustifié, l’office fédéral peut intervenir auprès de l’autorité de surveillance compétente.
+<sup>2</sup> À la requête de l’office fédéral, elle l’informe sur l’état de la procédure, les raisons d’un éventuel retard et les mesures envisagées. En cas de retard injustifié, l’office fédéral peut intervenir auprès de l’autorité de surveillance compétente.
 
 <sup>3</sup> Lorsque l’autorité compétente, sans motif, refuse de statuer ou tarde à se prononcer, son attitude est assimilée à une décision négative sujette à recours.
 
@@ -521,9 +521,9 @@ Il statue dans les cas suivants:
 
 **Mesures provisoires**[^18-1]
 
-<sup>1</sup> Si un Etat étranger le demande expressément et qu’une procédure prévue par la présente loi ne semble pas manifestement inadmissible ou inopportune, l’autorité compétente peut ordonner des mesures provisoires en vue de maintenir une situation existante, de protéger des intérêts juridiques menacés ou de préserver des moyens de preuve.
+<sup>1</sup> Si un État étranger le demande expressément et qu’une procédure prévue par la présente loi ne semble pas manifestement inadmissible ou inopportune, l’autorité compétente peut ordonner des mesures provisoires en vue de maintenir une situation existante, de protéger des intérêts juridiques menacés ou de préserver des moyens de preuve.
 
-<sup>2</sup> Lorsqu’il y a péril en la demeure et que les renseignements fournis permettent d’examiner si toutes les conditions sont remplies, l’office fédéral peut lui aussi ordonner ces mesures dès l’annonce d’une demande. Ces mesures sont levées si l’Etat étranger ne dépose pas la demande dans le délai imparti à cet effet.
+<sup>2</sup> Lorsqu’il y a péril en la demeure et que les renseignements fournis permettent d’examiner si toutes les conditions sont remplies, l’office fédéral peut lui aussi ordonner ces mesures dès l’annonce d’une demande. Ces mesures sont levées si l’État étranger ne dépose pas la demande dans le délai imparti à cet effet.
 
 <sup>3</sup> Les recours formés contre les décisions prises en vertu du présent article n’ont pas d’effet suspensif.
 
@@ -533,7 +533,7 @@ Il statue dans les cas suivants:
 
 **Surveillance de la correspondance par poste et télécommunication**[^18a-1]
 
-<sup>1</sup> Si un Etat étranger le demande expressément, l’office fédéral peut, dans les cas d’extradition, ordonner une surveillance de la correspondance par poste et télécommunication pour déterminer le lieu de séjour d’une personne poursuivie.
+<sup>1</sup> Si un État étranger le demande expressément, l’office fédéral peut, dans les cas d’extradition, ordonner une surveillance de la correspondance par poste et télécommunication pour déterminer le lieu de séjour d’une personne poursuivie.
 
 <sup>2</sup>
 
@@ -551,7 +551,7 @@ L’ordre de surveillance doit être soumis à l’approbation des autorités su
 
 <sup>4</sup> Au surplus, les conditions de la surveillance et la procédure sont régies par les art. 269 à 279 CPP[^18a-2] et par la loi fédérale du 6 octobre 2000 concernant la surveillance de la correspondance par poste et télécommunication[^18a-3].
 
-[^18a-1]: Introduit par le ch. 4 de l’annexe à la LF du 6 oct. 2000 sur la surveillance de la correspondance par poste et télécommunication ([RO 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); FF **1998** 3689). Nouvelle teneur selon le ch. II 13 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^18a-1]: Introduit par l’annexe ch. 4 de la LF du 6 oct. 2000 sur la surveillance de la correspondance par poste et télécommunication ([RO 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); FF **1998** 3689). Nouvelle teneur selon l’annexe 1 ch. II 13 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^18a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 [^18a-3]: [[RO 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467), [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)ch. I 2, [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511), [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)annexe ch. 3, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)anexe [1](https://fedlex.data.admin.ch/eli/oc/2010/1)ch. II 26 [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)annexe ch. II 14, **2017** 40195 annexe ch. II 12. [RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
 
@@ -577,7 +577,7 @@ L’autorité fédérale ou cantonale chargée de traiter une demande d’entrai
 
 **Choix de la procédure**
 
-Si la personne poursuivie est à l’étranger et que la loi de l’Etat auquel la demande doit être adressée offre le choix entre plusieurs procédures, préférence sera donnée à celle qui paraît assurer le meilleur reclassement social.
+Si la personne poursuivie est à l’étranger et que la loi de l’État auquel la demande doit être adressée offre le choix entre plusieurs procédures, préférence sera donnée à celle qui paraît assurer le meilleur reclassement social.
 
 #### Art. 20
 
@@ -596,14 +596,14 @@ Sur proposition de l’office fédéral, l’autorité compétente peut suspendr
 
 **Transit**[^20a-1]
 
-<sup>1</sup> Le transit d’un détenu qui fait l’objet, dans un autre Etat, d’une procédure admise au sens de la présente loi, ainsi que les mesures nécessaires à cet effet, peuvent être autorisés par l’office fédéral sur requête de cet Etat ou d’un Etat tiers et sans audition de l’intéressé. La décision et les mesures s’y rapportant ne sont pas sujettes à recours. Elles ne sont communiquées qu’à l’Etat requérant.
+<sup>1</sup> Le transit d’un détenu qui fait l’objet, dans un autre État, d’une procédure admise au sens de la présente loi, ainsi que les mesures nécessaires à cet effet, peuvent être autorisés par l’office fédéral sur requête de cet État ou d’un État tiers et sans audition de l’intéressé. La décision et les mesures s’y rapportant ne sont pas sujettes à recours. Elles ne sont communiquées qu’à l’État requérant.
 
 <sup>2</sup>
 
 Le transport par air sans escale en Suisse n’est pas soumis à autorisation. En cas d’atterrissage imprévu, la détention n’est maintenue que:
 
 - a. si les conditions d’arrestation prévues par l’art. 44 sont remplies, ou
-- b. si l’Etat qui a ordonné le transport en a informé préalablement l’office fédéral, en indiquant les motifs de la remise et l’infraction qui la justifie.
+- b. si l’État qui a ordonné le transport en a informé préalablement l’office fédéral, en indiquant les motifs de la remise et l’infraction qui la justifie.
 
 <sup>3</sup> L’office fédéral est seul compétent pour interrompre le transit aux fins de poursuite pénale ou d’exécution en Suisse.
 
@@ -644,7 +644,7 @@ Les décisions et prononcés rendus par les autorités fédérales et cantonales
 
 [^23-1]
 
-[^23-1]: Abrogé par le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^23-1]: Abrogé par l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 24
 
@@ -658,9 +658,9 @@ Les décisions et prononcés rendus par les autorités fédérales et cantonales
 
 <sup>1</sup> Les décisions rendues en première instance par les autorités cantonales et fédérales peuvent directement faire l’objet d’un recours devant la cour des plaintes du Tribunal pénal fédéral, à moins que la présente loi n’en dispose autrement.[^25-2]
 
-<sup>2</sup> Le recours n’est recevable contre une demande suisse adressée à un Etat étranger que si elle est présentée aux fins de lui faire assumer la poursuite pénale ou l’exécution d’un jugement. Dans ce cas, seule la personne poursuivie qui a sa résidence habituelle en Suisse a le droit de recourir.[^25-3]
+<sup>2</sup> Le recours n’est recevable contre une demande suisse adressée à un État étranger que si elle est présentée aux fins de lui faire assumer la poursuite pénale ou l’exécution d’un jugement. Dans ce cas, seule la personne poursuivie qui a sa résidence habituelle en Suisse a le droit de recourir.[^25-3]
 
-<sup>2bis</sup> Le recours est recevable contre une demande suisse tendant à obtenir d’un Etat étranger qu’il assume l’exécution d’une décision pénale en relation avec une remise au sens de l’art. 101, al. 2.[^25-4]
+<sup>2bis</sup> Le recours est recevable contre une demande suisse tendant à obtenir d’un État étranger qu’il assume l’exécution d’une décision pénale en relation avec une remise au sens de l’art. 101, al. 2.[^25-4]
 
 <sup>3</sup> L’office fédéral a qualité pour recourir contre les décisions des autorités cantonales ainsi que contre les décisions du Tribunal pénal fédéral. L’autorité cantonale peut recourir contre la décision de l’office fédéral de ne pas présenter une demande.[^25-5]
 
@@ -670,13 +670,13 @@ Les décisions et prononcés rendus par les autorités fédérales et cantonales
 
 <sup>6</sup> La cour des plaintes du Tribunal pénal fédéral n’est pas liée par les conclusions des parties.[^25-7]
 
-[^25-1]: Nouvelle teneur selon le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^25-2]: Nouvelle teneur selon le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25-1]: Nouvelle teneur selon l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25-2]: Nouvelle teneur selon l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^25-3]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^25-4]: Introduit par l’art. 2 de l’AF du 19 déc. 2003, en vigueur depuis le 1<sup>er</sup> oct. 2004 ([RO 2004 4161](https://fedlex.data.admin.ch/eli/oc/2004/621); [FF 2002 4036](https://fedlex.data.admin.ch/eli/fga/2002/672)).
-[^25-5]: Nouvelle teneur selon le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25-5]: Nouvelle teneur selon l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^25-6]: Abrogé par le ch. I de la LF du 4 oct. 1996, avec effet au 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
-[^25-7]: Nouvelle teneur selon le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^25-7]: Nouvelle teneur selon l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 26
 
@@ -685,9 +685,9 @@ Les décisions et prononcés rendus par les autorités fédérales et cantonales
 Les décisions du département, au sens de l’art. 17, al. 1, peuvent faire l’objet d’un recours devant le Conseil fédéral. …[^26-2]
 
 [^26-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
-[^26-2]: Phrase abrogée par le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^26-2]: Phrase abrogée par l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Chapitre 4 Procédure entre Etats
+### Chapitre 4 Procédure entre États
 
 #### Art. 27
 
@@ -695,7 +695,7 @@ Les décisions du département, au sens de l’art. 17, al. 1, peuvent faire l�
 
 <sup>1</sup> Les art. 27 à 31 s’appliquent à toutes les procédures visées par la présente loi. Les dispositions particulières de procédure prévues dans les autres parties de la présente loi sont réservées.[^27-1]
 
-<sup>2</sup> Les demandes d’un Etat étranger sont adressées directement à l’office fédéral.
+<sup>2</sup> Les demandes d’un État étranger sont adressées directement à l’office fédéral.
 
 <sup>3</sup> Les demandes mal adressées sont transmises d’office à l’autorité compétente. L’autorité requérante en est avisée.
 
@@ -729,7 +729,7 @@ Pour permettre de déterminer la nature juridique de l’infraction, il y a lieu
 
 <sup>4</sup> Les documents officiels étrangers ne sont pas soumis à légalisation.
 
-<sup>5</sup> Les demandes émanant d’un Etat étranger et leurs annexes doivent être présentées en allemand, en français ou en italien, ou seront accompagnées d’une traduction dans l’une de ces langues. Les traductions doivent être officiellement certifiées conformes.
+<sup>5</sup> Les demandes émanant d’un État étranger et leurs annexes doivent être présentées en allemand, en français ou en italien, ou seront accompagnées d’une traduction dans l’une de ces langues. Les traductions doivent être officiellement certifiées conformes.
 
 <sup>6</sup> L’autorité compétente peut exiger qu’une demande irrégulière en la forme soit modifiée ou complétée; l’adoption de mesures provisoires n’en est pas touchée pour autant.
 
@@ -739,7 +739,7 @@ Pour permettre de déterminer la nature juridique de l’infraction, il y a lieu
 
 **Acheminement**
 
-<sup>1</sup> L’office fédéral peut recevoir les demandes directement du ministère de la justice de l’Etat requérant.
+<sup>1</sup> L’office fédéral peut recevoir les demandes directement du ministère de la justice de l’État requérant.
 
 <sup>2</sup> Lorsqu’il s’agit de mesures provisoires ou en cas d’urgence, il est possible de recourir à l’entremise de l’Organisation internationale de police criminelle (OIPC-Interpol) ou de s’adresser directement à l’autorité d’exécution compétente en lui envoyant une copie de la demande.
 
@@ -747,11 +747,11 @@ Pour permettre de déterminer la nature juridique de l’infraction, il y a lieu
 
 **Demandes suisses**
 
-<sup>1</sup> Les autorités suisses ne peuvent adresser à un Etat étranger une demande à laquelle elles ne pourraient pas donner suite en vertu de la présente loi.
+<sup>1</sup> Les autorités suisses ne peuvent adresser à un État étranger une demande à laquelle elles ne pourraient pas donner suite en vertu de la présente loi.
 
 <sup>2</sup> La demande d’extradition, de délégation de poursuite pénale ou d’exécution ressortit à l’office fédéral, qui agit sur requête de l’autorité cantonale.
 
-<sup>3</sup> Les autorités suisses sont tenues d’observer les conditions mises par l’Etat requis à l’exécution de la demande.
+<sup>3</sup> Les autorités suisses sont tenues d’observer les conditions mises par l’État requis à l’exécution de la demande.
 
 <sup>4</sup> L’office fédéral peut refuser de transmettre une demande si l’importance de l’infraction ne justifie pas la procédure.
 
@@ -761,9 +761,9 @@ Pour permettre de déterminer la nature juridique de l’infraction, il y a lieu
 
 <sup>1</sup> En règle générale, les demandes étrangères sont exécutées gratuitement.
 
-<sup>2</sup> Le Conseil fédéral fixe les conditions auxquelles les frais peuvent être mis, en tout ou en partie, à la charge de l’Etat requérant.
+<sup>2</sup> Le Conseil fédéral fixe les conditions auxquelles les frais peuvent être mis, en tout ou en partie, à la charge de l’État requérant.
 
-<sup>3</sup> Les frais d’une demande suisse remboursés à un Etat étranger sont ajoutés à ceux de la cause qui a provoqué la demande.
+<sup>3</sup> Les frais d’une demande suisse remboursés à un État étranger sont ajoutés à ceux de la cause qui a provoqué la demande.
 
 <sup>4</sup> Le Conseil fédéral fixe la répartition des frais entre la Confédération et les cantons.
 
@@ -775,7 +775,7 @@ Pour permettre de déterminer la nature juridique de l’infraction, il y a lieu
 
 **Ressortissants étrangers**
 
-Tout étranger peut être remis aux fins de poursuite pénale ou d’exécution d’une sanction privative de liberté à l’Etat qui a le droit de connaître de l’infraction et qui demande l’extradition ou qui accepte, à la demande de la Suisse, une délégation de poursuite pénale ou d’exécution.
+Tout étranger peut être remis aux fins de poursuite pénale ou d’exécution d’une sanction privative de liberté à l’État qui a le droit de connaître de l’infraction et qui demande l’extradition ou qui accepte, à la demande de la Suisse, une délégation de poursuite pénale ou d’exécution.
 
 #### Art. 33
 
@@ -801,7 +801,7 @@ Tout étranger peut être remis aux fins de poursuite pénale ou d’exécution 
 
 L’extradition peut être accordée s’il ressort des pièces jointes à la demande que l’infraction:
 
-- a. est frappée d’une sanction privative de liberté d’un maximum d’au moins un an ou d’une sanction plus sévère, aux termes du droit suisse et du droit de l’Etat requérant; et
+- a. est frappée d’une sanction privative de liberté d’un maximum d’au moins un an ou d’une sanction plus sévère, aux termes du droit suisse et du droit de l’État requérant; et
 - b. ne relève pas de la juridiction suisse.
 
 <sup>2</sup>
@@ -827,11 +827,11 @@ Pour déterminer si un acte est punissable en droit suisse, il n’est pas tenu 
 
 **Refus**
 
-<sup>1</sup> L’extradition peut être refusée si la Suisse est en mesure d’assumer la poursuite de l’infraction ou l’exécution du jugement rendu dans l’Etat requérant et que le reclassement social de la personne poursuivie le justifie.
+<sup>1</sup> L’extradition peut être refusée si la Suisse est en mesure d’assumer la poursuite de l’infraction ou l’exécution du jugement rendu dans l’État requérant et que le reclassement social de la personne poursuivie le justifie.
 
-<sup>2</sup> L’extradition est refusée si la demande se fonde sur une sanction prononcée par défaut et que la procédure de jugement n’a pas satisfait aux droits minimums de la défense reconnus à toute personne accusée d’une infraction, à moins que l’Etat requérant ne donne des assurances jugées suffisantes pour garantir à la personne poursuivie le droit à une nouvelle procédure de jugement qui sauvegarde les droits de la défense.[^37-1]
+<sup>2</sup> L’extradition est refusée si la demande se fonde sur une sanction prononcée par défaut et que la procédure de jugement n’a pas satisfait aux droits minimums de la défense reconnus à toute personne accusée d’une infraction, à moins que l’État requérant ne donne des assurances jugées suffisantes pour garantir à la personne poursuivie le droit à une nouvelle procédure de jugement qui sauvegarde les droits de la défense.[^37-1]
 
-<sup>3</sup> L’extradition est également refusée si l’Etat requérant ne donne pas la garantie que la personne poursuivie ne sera pas condamnée à mort ou, si une telle condamnation a été prononcée, qu’elle ne sera pas exécutée, ou que la personne poursuivie ne sera pas soumise à un traitement portant atteinte à son intégrité corporelle.[^37-2]
+<sup>3</sup> L’extradition est également refusée si l’État requérant ne donne pas la garantie que la personne poursuivie ne sera pas condamnée à mort ou, si une telle condamnation a été prononcée, qu’elle ne sera pas exécutée, ou que la personne poursuivie ne sera pas soumise à un traitement portant atteinte à son intégrité corporelle.[^37-2]
 
 [^37-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^37-2]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
@@ -842,9 +842,9 @@ Pour déterminer si un acte est punissable en droit suisse, il n’est pas tenu 
 
 <sup>1</sup>
 
-La personne poursuivie ne peut être extradée à l’Etat requérant qu’aux conditions suivantes:
+La personne poursuivie ne peut être extradée à l’État requérant qu’aux conditions suivantes:
 
-- a. aucun acte commis antérieurement à la remise et pour lequel l’extradition n’a pas été consentie ne peut donner lieu à poursuite, à condamnation ou à réextradition à un Etat tiers;
+- a. aucun acte commis antérieurement à la remise et pour lequel l’extradition n’a pas été consentie ne peut donner lieu à poursuite, à condamnation ou à réextradition à un État tiers;
 - b. aucun autre motif antérieur à l’extradition ne peut entraîner une restriction de sa liberté individuelle;
 - c. aucun tribunal d’exception ne peut être saisi;
 - d. sur demande des autorités suisses, une copie officiellement certifiée conforme de la décision mettant fin au procès leur sera communiquée.
@@ -858,8 +858,8 @@ Les restrictions prévues à l’al. 1, let. a et b, tombent:
 
   si la personne extradée:
 
-  - 1\. après avoir été instruite des conséquences, n’a pas quitté le territoire de l’Etat requérant dans un délai de 45 jours après sa libération conditionnelle ou définitive, alors qu’elle en avait la possibilité, ou y est retournée, ou
-  - 2\. y a été ramenée par un Etat tiers.[^38-1]
+  - 1\. après avoir été instruite des conséquences, n’a pas quitté le territoire de l’État requérant dans un délai de 45 jours après sa libération conditionnelle ou définitive, alors qu’elle en avait la possibilité, ou y est retournée, ou
+  - 2\. y a été ramenée par un État tiers.[^38-1]
 
 [^38-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -867,15 +867,15 @@ Les restrictions prévues à l’al. 1, let. a et b, tombent:
 
 **Extension**
 
-L’Etat qui a obtenu l’extradition d’une personne à laquelle d’autres infractions sont imputées peut en connaître après y avoir été autorisé à la suite d’une nouvelle demande.
+L’État qui a obtenu l’extradition d’une personne à laquelle d’autres infractions sont imputées peut en connaître après y avoir été autorisé à la suite d’une nouvelle demande.
 
 #### Art. 40
 
-**Demandes de plusieurs Etats**
+**Demandes de plusieurs États**
 
-<sup>1</sup> L’extradition demandée en raison du même fait par plusieurs Etats est accordée, en règle générale, à celui sur le territoire duquel l’infraction a été commise ou principalement perpétrée.
+<sup>1</sup> L’extradition demandée en raison du même fait par plusieurs États est accordée, en règle générale, à celui sur le territoire duquel l’infraction a été commise ou principalement perpétrée.
 
-<sup>2</sup> L’extradition demandée par plusieurs Etats en raison de faits différents est accordée compte tenu de l’ensemble des circonstances, notamment de la gravité des infractions, du lieu où elles ont été commises, de l’ordre chronologique des demandes, de la nationalité de la personne poursuivie, des perspectives de reclassement social et de la possibilité d’extrader à un autre Etat.
+<sup>2</sup> L’extradition demandée par plusieurs États en raison de faits différents est accordée compte tenu de l’ensemble des circonstances, notamment de la gravité des infractions, du lieu où elles ont été commises, de l’ordre chronologique des demandes, de la nationalité de la personne poursuivie, des perspectives de reclassement social et de la possibilité d’extrader à un autre État.
 
 ### Chapitre 2 Procédure
 
@@ -885,7 +885,7 @@ L’Etat qui a obtenu l’extradition d’une personne à laquelle d’autres in
 
 **Pièces à l’appui**
 
-Outre les annexes prévues par l’art. 28, al. 3, il sera produit à l’appui de la demande: l’original ou la copie officiellement certifiée conforme d’une décision de condamnation exécutoire, d’un mandat d’arrêt ou de tout autre acte ayant la même force, délivré dans les formes prescrites par la loi de l’Etat requérant.
+Outre les annexes prévues par l’art. 28, al. 3, il sera produit à l’appui de la demande: l’original ou la copie officiellement certifiée conforme d’une décision de condamnation exécutoire, d’un mandat d’arrêt ou de tout autre acte ayant la même force, délivré dans les formes prescrites par la loi de l’État requérant.
 
 #### Art. 42
 
@@ -908,7 +908,7 @@ L’office fédéral décide s’il y a lieu d’entrer en matière sur la deman
 
 **Arrestation**
 
-Tout étranger peut être arrêté aux fins d’extradition, soit en vertu d’une demande émanant d’un bureau central national d’Interpol ou du ministère de la justice d’un autre Etat, soit en vertu d’un signalement international dans un système de recherche.[^44-1] L’art. 52, al. 1 et 2, est applicable par analogie.
+Tout étranger peut être arrêté aux fins d’extradition, soit en vertu d’une demande émanant d’un bureau central national d’Interpol ou du ministère de la justice d’un autre État, soit en vertu d’un signalement international dans un système de recherche.[^44-1] L’art. 52, al. 1 et 2, est applicable par analogie.
 
 [^44-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -961,7 +961,7 @@ Les décisions prises en vertu de l’art. 47 contiennent:
 <sup>2</sup> La personne poursuivie peut interjeter un recours devant la cour des plaintes du Tribunal pénal fédéral dans un délai de dix jours à compter de la notification écrite du mandat d’arrêt. Les art. 379 à 397 CPP[^48-1] s’appliquent par analogie à la procédure de recours.[^48-2]
 
 [^48-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^48-2]: Nouvelle teneur selon le ch. II 13 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^48-2]: Nouvelle teneur selon l’annexe 1 ch. II 13 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 49
 
@@ -977,7 +977,7 @@ Les décisions prises en vertu de l’art. 47 contiennent:
 
 #### Art. 50
 
-**Elargissement**
+**Élargissement**
 
 <sup>1</sup> Dix-huit jours après l’arrestation, l’office fédéral ordonne l’élargissement, si la demande d’extradition et ses annexes ne lui sont pas parvenues. Si des raisons particulières le justifient, ce délai peut être porté à quarante jours.
 
@@ -988,7 +988,7 @@ Les décisions prises en vertu de l’art. 47 contiennent:
 <sup>4</sup> Au surplus, les art. 238 à 240 CPP[^50-1] s’appliquent par analogie à l’élargissement. [^50-2]
 
 [^50-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^50-2]: Nouvelle teneur selon le ch. II 13 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^50-2]: Nouvelle teneur selon l’annexe 1 ch. II 13 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 51
 
@@ -1006,9 +1006,9 @@ Les décisions prises en vertu de l’art. 47 contiennent:
 
 <sup>1</sup> La demande et les pièces à l’appui sont présentées à la personne poursuivie et à son mandataire. En notifiant le mandat d’arrêt aux fins d’extradition, l’autorité cantonale vérifie si l’identité de la personne poursuivie correspond à celle qui est désignée dans la demande. Elle l’informe des conditions de l’extradition et de l’extradition simplifiée, ainsi que de ses droits de recours et de ses droits d’obtenir l’assistance judiciaire et de se faire assister par un mandataire.[^52-1]
 
-<sup>2</sup> La personne poursuivie est brièvement entendue sur sa situation personnelle, en particulier sur sa nationalité et ses rapports avec l’Etat requérant, ainsi que sur ses objections éventuelles au mandat d’arrêt ou à l’extradition. Son mandataire peut participer à cette audition.
+<sup>2</sup> La personne poursuivie est brièvement entendue sur sa situation personnelle, en particulier sur sa nationalité et ses rapports avec l’État requérant, ainsi que sur ses objections éventuelles au mandat d’arrêt ou à l’extradition. Son mandataire peut participer à cette audition.
 
-<sup>3</sup> Si la personne extradée doit être poursuivie pour d’autres infractions ou livrée à un Etat tiers, l’office fédéral demande qu’elle soit entendue, conformément à l’al. 2, par une autorité de justice de l’Etat requérant et qu’un procès-verbal de cette audition soit établi.
+<sup>3</sup> Si la personne extradée doit être poursuivie pour d’autres infractions ou livrée à un État tiers, l’office fédéral demande qu’elle soit entendue, conformément à l’al. 2, par une autorité de justice de l’État requérant et qu’un procès-verbal de cette audition soit établi.
 
 [^52-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -1018,17 +1018,17 @@ Les décisions prises en vertu de l’art. 47 contiennent:
 
 <sup>1</sup> Si la personne poursuivie affirme qu’elle est en mesure de fournir un alibi, l’office fédéral procède aux vérifications nécessaires.
 
-<sup>2</sup> Il refuse l’extradition si le fait invoqué est évident. A défaut, il communique les preuves à décharge à l’Etat requérant et l’invite à se prononcer à bref délai sur le maintien de la demande.
+<sup>2</sup> Il refuse l’extradition si le fait invoqué est évident. À défaut, il communique les preuves à décharge à l’État requérant et l’invite à se prononcer à bref délai sur le maintien de la demande.
 
 #### Art. 54
 
 **Extradition simplifiée**[^54-1]
 
-<sup>1</sup> A moins que des considérations particulières ne s’y opposent, l’office fédéral autorise la remise si la personne poursuivie accepte de renoncer à la procédure d’extradition, selon procès-verbal dressé par une autorité judiciaire.
+<sup>1</sup> À moins que des considérations particulières ne s’y opposent, l’office fédéral autorise la remise si la personne poursuivie accepte de renoncer à la procédure d’extradition, selon procès-verbal dressé par une autorité judiciaire.
 
 <sup>2</sup> La renonciation peut être révoquée tant que l’office fédéral n’a pas autorisé la remise.
 
-<sup>3</sup> L’extradition simplifiée a les mêmes effets que l’extradition et est soumise aux mêmes restrictions. L’Etat requérant doit y être rendu attentif.
+<sup>3</sup> L’extradition simplifiée a les mêmes effets que l’extradition et est soumise aux mêmes restrictions. L’État requérant doit y être rendu attentif.
 
 [^54-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -1045,8 +1045,8 @@ Les décisions prises en vertu de l’art. 47 contiennent:
 <sup>3</sup> La procédure prévue à l’art. 25 en matière de recours est applicable par analogie.[^55-3]
 
 [^55-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
-[^55-2]: Nouvelle teneur selon le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^55-3]: Nouvelle teneur selon le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^55-2]: Nouvelle teneur selon l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^55-3]: Nouvelle teneur selon l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 55a
 
@@ -1078,7 +1078,7 @@ L’extradition est exécutoire:
 
 <sup>1</sup> L’office fédéral ordonne les mesures nécessaires avec l’accord des autorités cantonales.
 
-<sup>2</sup> Il communique la décision à l’Etat requérant et lui fait connaître le temps et le lieu de l’exécution.
+<sup>2</sup> Il communique la décision à l’État requérant et lui fait connaître le temps et le lieu de l’exécution.
 
 #### Art. 58
 
@@ -1091,7 +1091,7 @@ L’extradition est exécutoire:
 Toutefois, la remise temporaire peut être accordée:
 
 - a. si elle ne nuit pas à une procédure pénale en Suisse et
-- b. si l’Etat requérant a donné l’assurance que la personne poursuivie sera détenue pendant son séjour dans cet Etat et sera restituée sans égard à sa nationalité.
+- b. si l’État requérant a donné l’assurance que la personne poursuivie sera détenue pendant son séjour dans cet État et sera restituée sans égard à sa nationalité.
 
 #### Art. 59
 
@@ -1104,7 +1104,7 @@ Si les conditions d’extradition sont remplies, doivent également être remis 
 - a. qui peuvent servir de moyens de preuve, ou
 - b. qui sont le produit de l’infraction.
 
-<sup>2</sup> Si un tiers acquéreur de bonne foi, une autorité ou le lésé qui habite la Suisse font valoir des droits sur les objets ou valeurs qui peuvent servir de moyens de preuve, leur remise peut être subordonnée à la condition que l’Etat requérant donne la garantie de les restituer gratuitement au terme de sa procédure.
+<sup>2</sup> Si un tiers acquéreur de bonne foi, une autorité ou le lésé qui habite la Suisse font valoir des droits sur les objets ou valeurs qui peuvent servir de moyens de preuve, leur remise peut être subordonnée à la condition que l’État requérant donne la garantie de les restituer gratuitement au terme de sa procédure.
 
 <sup>3</sup>
 
@@ -1120,15 +1120,15 @@ Les objets ou valeurs qui sont le produit de l’infraction peuvent être retenu
 
 - a. si le lésé a sa résidence habituelle en Suisse et qu’ils doivent lui être restitués;
 - b. si une autorité fait valoir des droits sur eux, ou
-- c. si une personne étrangère à l’infraction et dont les prétentions ne sont pas garanties par l’Etat requérant rend vraisemblable qu’elle a acquis de bonne foi en Suisse des droits sur ces objets ou valeurs ou si, résidant habituellement en Suisse, elle rend vraisemblable qu’elle a acquis de bonne foi des droits sur eux à l’étranger.
+- c. si une personne étrangère à l’infraction et dont les prétentions ne sont pas garanties par l’État requérant rend vraisemblable qu’elle a acquis de bonne foi en Suisse des droits sur ces objets ou valeurs ou si, résidant habituellement en Suisse, elle rend vraisemblable qu’elle a acquis de bonne foi des droits sur eux à l’étranger.
 
 <sup>5</sup> Peuvent également être retenus en Suisse les objets ou valeurs visés à l’al. 1 et qui sont nécessaires à une procédure pénale pendante en Suisse.
 
 <sup>6</sup>
 
-Les prétentions élevées par un ayant droit sur des objets ou valeurs au sens de l’al. 4 entraînent la suspension de leur remise à l’Etat requérant jusqu’à droit connu. Les objets ou valeurs litigieux ne sont délivrés à l’ayant droit que:
+Les prétentions élevées par un ayant droit sur des objets ou valeurs au sens de l’al. 4 entraînent la suspension de leur remise à l’État requérant jusqu’à droit connu. Les objets ou valeurs litigieux ne sont délivrés à l’ayant droit que:
 
-- a. si l’Etat requérant y consent,
+- a. si l’État requérant y consent,
 - b. si, dans le cas de l’al. 4, let. b, l’autorité y consent, ou
 - c. si le bien-fondé de la prétention est reconnu par une autorité judiciaire suisse.
 
@@ -1152,15 +1152,15 @@ Les prétentions élevées par un ayant droit sur des objets ou valeurs au sens 
 
 **Délai de prise en charge**
 
-La personne poursuivie est remise en liberté si, dans les dix jours qui suivent la réception de l’avis relatif à l’exécution de l’extradition, l’Etat requérant n’a pas fait le nécessaire pour la prendre en charge. Ce délai peut toutefois être porté à trente jours sur demande motivée de l’Etat requérant.
+La personne poursuivie est remise en liberté si, dans les dix jours qui suivent la réception de l’avis relatif à l’exécution de l’extradition, l’État requérant n’a pas fait le nécessaire pour la prendre en charge. Ce délai peut toutefois être porté à trente jours sur demande motivée de l’État requérant.
 
 #### Art. 62
 
 **Frais**
 
-<sup>1</sup> La Confédération assume les frais de détention et de transport en matière d’extradition à l’étranger, en tant qu’ils incombent à l’Etat requis selon les usages consacrés dans les rapports internationaux.
+<sup>1</sup> La Confédération assume les frais de détention et de transport en matière d’extradition à l’étranger, en tant qu’ils incombent à l’État requis selon les usages consacrés dans les rapports internationaux.
 
-<sup>2</sup> Les biens de la personne poursuivie peuvent être affectés à la couverture des frais, à moins qu’ils ne doivent être remis à l’Etat requérant.
+<sup>2</sup> Les biens de la personne poursuivie peuvent être affectés à la couverture des frais, à moins qu’ils ne doivent être remis à l’État requérant.
 
 ## Troisième partie Autres actes d’entraide
 
@@ -1213,7 +1213,7 @@ Les mesures visées à l’art. 63 et qui impliquent la contrainte prévue par l
 - a. à disculper la personne poursuivie;
 - b. à poursuivre un acte d’ordre sexuel avec des mineurs.[^64-1]
 
-[^64-1]: Nouvelle teneur selon le ch. 4 de l’annexe à la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^64-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 #### Art. 65
 
@@ -1221,14 +1221,14 @@ Les mesures visées à l’art. 63 et qui impliquent la contrainte prévue par l
 
 <sup>1</sup>
 
-Sur demande expresse de l’Etat requérant:
+Sur demande expresse de l’État requérant:
 
-- a. les déclarations des témoins et experts sont confirmées dans la forme prévue par le droit de l’Etat requérant, même si le droit suisse applicable ne prévoit pas une telle confirmation;
+- a. les déclarations des témoins et experts sont confirmées dans la forme prévue par le droit de l’État requérant, même si le droit suisse applicable ne prévoit pas une telle confirmation;
 - b. la forme requise pour rendre d’autres moyens de preuve admissibles devant un tribunal peut être prise en considération.
 
 <sup>2</sup> La forme applicable à la confirmation de dépositions et à l’obtention de moyens de preuve, conformément à l’al. 1, doit être compatible avec le droit suisse et ne pas causer de graves préjudices aux personnes qui participent à la procédure.
 
-<sup>3</sup> Le droit de refuser de déposer est également admis si la législation de l’Etat requérant le prévoit ou que le fait de déposer puisse entraîner des sanctions pénales ou disciplinaires dans cet Etat ou dans l’Etat de résidence de la personne entendue.
+<sup>3</sup> Le droit de refuser de déposer est également admis si la législation de l’État requérant le prévoit ou que le fait de déposer puisse entraîner des sanctions pénales ou disciplinaires dans cet État ou dans l’État de résidence de la personne entendue.
 
 [^65-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -1236,7 +1236,7 @@ Sur demande expresse de l’Etat requérant:
 
 **Présence de personnes qui participent à la procédure à l’étranger**[^65a-1]
 
-<sup>1</sup> Lorsque l’Etat requérant le demande en vertu de son propre droit, les personnes qui participent à la procédure à l’étranger peuvent être autorisées à assister aux actes d’entraide et à consulter le dossier.
+<sup>1</sup> Lorsque l’État requérant le demande en vertu de son propre droit, les personnes qui participent à la procédure à l’étranger peuvent être autorisées à assister aux actes d’entraide et à consulter le dossier.
 
 <sup>2</sup> Cette présence peut également être admise si elle permet de faciliter considérablement l’exécution de la demande ou la procédure pénale étrangère.
 
@@ -1259,7 +1259,7 @@ Sur demande expresse de l’Etat requérant:
 
 **Règle de la spécialité**[^67-1]
 
-<sup>1</sup> Les renseignements et les documents obtenus par voie d’entraide ne peuvent, dans l’Etat requérant, ni être utilisés aux fins d’investigations ni être produits comme moyens de preuve dans une procédure pénale visant une infraction pour laquelle l’entraide est exclue.
+<sup>1</sup> Les renseignements et les documents obtenus par voie d’entraide ne peuvent, dans l’État requérant, ni être utilisés aux fins d’investigations ni être produits comme moyens de preuve dans une procédure pénale visant une infraction pour laquelle l’entraide est exclue.
 
 <sup>2</sup>
 
@@ -1285,7 +1285,7 @@ L’autorité de poursuite pénale peut transmettre spontanément à une autorit
 
 <sup>2</sup> La transmission prévue à l’al. 1 n’a aucun effet sur la procédure pénale en cours en Suisse.
 
-<sup>3</sup> La transmission d’un moyen de preuve à un Etat avec lequel la Suisse n’est pas liée par un accord international requiert l’autorisation de l’office fédéral.
+<sup>3</sup> La transmission d’un moyen de preuve à un État avec lequel la Suisse n’est pas liée par un accord international requiert l’autorisation de l’office fédéral.
 
 <sup>4</sup> Les al. 1 et 2 ne s’appliquent pas aux moyens de preuve qui touchent au domaine secret.
 
@@ -1315,7 +1315,7 @@ L’autorité de poursuite pénale peut transmettre spontanément à une autorit
 
 <sup>2</sup> Les citations qui contiennent des menaces de sanctions ne sont pas notifiées.
 
-<sup>3</sup> La notification d’une citation peut être subordonnée à la condition que le destinataire soit assuré d’obtenir un sauf-conduit pendant un laps de temps raisonnable et qu’il ne soit pas empêché de quitter librement le territoire de l’Etat requérant. Si le destinataire le demande, l’autorité qui procède à la notification demande à l’Etat requérant, avant de lui transmettre la preuve de la notification, de lui fournir une assurance écrite dans ce sens.
+<sup>3</sup> La notification d’une citation peut être subordonnée à la condition que le destinataire soit assuré d’obtenir un sauf-conduit pendant un laps de temps raisonnable et qu’il ne soit pas empêché de quitter librement le territoire de l’État requérant. Si le destinataire le demande, l’autorité qui procède à la notification demande à l’État requérant, avant de lui transmettre la preuve de la notification, de lui fournir une assurance écrite dans ce sens.
 
 #### Art. 70
 
@@ -1357,7 +1357,7 @@ L’autorité de poursuite pénale peut transmettre spontanément à une autorit
 
 <sup>1</sup> Sur demande de l’autorité étrangère compétente, les objets, documents ou valeurs saisis à titre probatoire, ainsi que les dossiers et décisions, lui sont remis au terme de la procédure d’entraide (art. 80*d*).
 
-<sup>2</sup> Si un tiers acquéreur de bonne foi, une autorité ou le lésé qui a sa résidence habituelle en Suisse font valoir des droits sur les objets, documents ou valeurs visés à l’al. 1, leur remise est subordonnée à la condition que l’Etat requérant donne la garantie de les restituer gratuitement au terme de sa procédure.
+<sup>2</sup> Si un tiers acquéreur de bonne foi, une autorité ou le lésé qui a sa résidence habituelle en Suisse font valoir des droits sur les objets, documents ou valeurs visés à l’al. 1, leur remise est subordonnée à la condition que l’État requérant donne la garantie de les restituer gratuitement au terme de sa procédure.
 
 <sup>3</sup> La remise peut être reportée si les objets, documents ou valeurs sont nécessaires à une procédure pénale pendante en Suisse.
 
@@ -1379,7 +1379,7 @@ Les objets ou valeurs visés à l’al. 1 comprennent:
 - b. le produit ou le résultat de l’infraction, la valeur de remplacement et l’avantage illicite;
 - c. les dons et autres avantages ayant servi ou qui devaient servir à décider ou à récompenser l’auteur de l’infraction, ainsi que la valeur de remplacement.
 
-<sup>3</sup> La remise peut intervenir à tous les stades de la procédure étrangère, en règle générale sur décision définitive et exécutoire de l’Etat requérant.
+<sup>3</sup> La remise peut intervenir à tous les stades de la procédure étrangère, en règle générale sur décision définitive et exécutoire de l’État requérant.
 
 <sup>4</sup>
 
@@ -1387,14 +1387,14 @@ Les objets ou valeurs peuvent cependant être retenus en Suisse:
 
 - a. si le lésé a sa résidence habituelle en Suisse et qu’ils doivent lui être restitués;
 - b. si une autorité fait valoir des droits sur eux;
-- c. si une personne étrangère à l’infraction et dont les prétentions ne sont pas garanties par l’Etat requérant rend vraisemblable qu’elle a acquis de bonne foi en Suisse des droits sur ces objets ou valeurs, ou si, résidant habituellement en Suisse, elle rend vraisemblable qu’elle a acquis de bonne foi des droits sur eux à l’étranger, ou
+- c. si une personne étrangère à l’infraction et dont les prétentions ne sont pas garanties par l’État requérant rend vraisemblable qu’elle a acquis de bonne foi en Suisse des droits sur ces objets ou valeurs, ou si, résidant habituellement en Suisse, elle rend vraisemblable qu’elle a acquis de bonne foi des droits sur eux à l’étranger, ou
 - d. si les objets ou valeurs sont nécessaires à une procédure pénale pendante en Suisse ou sont susceptibles d’être confisqués en Suisse.
 
 <sup>5</sup>
 
-Les prétentions élevées par un ayant droit sur des objets ou valeurs au sens de l’al. 4 entraînent la suspension de leur remise à l’Etat requérant jusqu’à droit connu. Les objets ou valeurs litigieux ne sont délivrés à l’ayant droit que:
+Les prétentions élevées par un ayant droit sur des objets ou valeurs au sens de l’al. 4 entraînent la suspension de leur remise à l’État requérant jusqu’à droit connu. Les objets ou valeurs litigieux ne sont délivrés à l’ayant droit que:
 
-- a. si l’Etat requérant y consent;
+- a. si l’État requérant y consent;
 - b. si, dans le cas de l’al. 4, let. b, l’autorité y consent, ou
 - c. si le bien-fondé de la prétention est reconnu par une autorité judiciaire suisse.
 
@@ -1404,7 +1404,7 @@ Les prétentions élevées par un ayant droit sur des objets ou valeurs au sens 
 
 [^74a-1]: Introduit par le ch. I de la LF du 4 oct. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 [^74a-2]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
-[^74a-3]: Introduit par le ch. 2 de l’annexe à la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^74a-3]: Introduit par l’annexe ch. 2 de la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
 ### Chapitre 2 Procédure
 
@@ -1416,7 +1416,7 @@ Les prétentions élevées par un ayant droit sur des objets ou valeurs au sens 
 
 <sup>1</sup> Peuvent requérir l’entraide les autorités appelées à poursuivre une infraction ou à se prononcer dans d’autres procédures auxquelles la présente loi est applicable.
 
-<sup>2</sup> Si le droit de l’Etat requérant donne aux parties la compétence d’accomplir des actes de procédure, les autorités suisses peuvent également donner suite à leurs requêtes.
+<sup>2</sup> Si le droit de l’État requérant donne aux parties la compétence d’accomplir des actes de procédure, les autorités suisses peuvent également donner suite à leurs requêtes.
 
 <sup>3</sup> L’office fédéral requiert l’entraide à prêter en dehors d’une cause pénale.[^75-2]
 
@@ -1447,7 +1447,7 @@ En sus des indications et documents prévus par l’art. 28, il convient d’ajo
 
 - a. aux demandes de notification, les noms et adresse du destinataire, sa qualité dans la cause, ainsi que la nature du document à notifier;
 - b. aux demandes de transit, un des titres mentionnés à l’art. 41;
-- c. aux réquisitions de fouille, perquisition, saisie et remise d’objets, une attestation établissant leur licéité dans l’Etat requérant.
+- c. aux réquisitions de fouille, perquisition, saisie et remise d’objets, une attestation établissant leur licéité dans l’État requérant.
 
 #### Art. 77
 
@@ -1474,7 +1474,7 @@ En sus des indications et documents prévus par l’art. 28, il convient d’ajo
 
 <sup>2</sup> Il examine sommairement la recevabilité de la demande quant à la forme et transmet celle-ci à l’autorité d’exécution compétente, à moins que la requête ne paraisse manifestement irrecevable.
 
-<sup>3</sup> Il retourne au besoin la requête à l’Etat requérant afin que celle-ci soit modifiée ou complétée.
+<sup>3</sup> Il retourne au besoin la requête à l’État requérant afin que celle-ci soit modifiée ou complétée.
 
 <sup>4</sup> La réception et la transmission de la demande à l’autorité compétente ne peuvent faire l’objet d’un recours.
 
@@ -1493,7 +1493,7 @@ En sus des indications et documents prévus par l’art. 28, il convient d’ajo
 <sup>4</sup> La désignation de l’autorité fédérale ou cantonale chargée de conduire la procédure ne peut faire l’objet d’un recours.
 
 [^79-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^79-2]: Nouvelle teneur de la phrase selon le ch. II 13 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^79-2]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 13 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 79a
 
@@ -1532,7 +1532,7 @@ L’office fédéral peut statuer sur l’admissibilité de l’entraide et dél
 Les droits prévus à al. 1 ne peuvent être limités que si l’exigent:
 
 - a. l’intérêt de la procédure conduite à l’étranger;
-- b. la protection d’un intérêt juridique important, si l’Etat requérant le demande;
+- b. la protection d’un intérêt juridique important, si l’État requérant le demande;
 - c. la nature ou l’urgence des mesures à prendre;
 - d. la protection d’intérêts privés importants;
 - e. l’intérêt d’une procédure conduite en Suisse.
@@ -1555,6 +1555,142 @@ Les droits prévus à al. 1 ne peuvent être limités que si l’exigent:
 
 Lorsque l’autorité d’exécution estime avoir traité la demande en totalité ou en partie, elle rend une décision motivée sur l’octroi et l’étendue de l’entraide.
 
+#### Art. 80d<sup>bis</sup>
+
+**Transmission anticipée d’informations et de moyens de preuve**[^80dbis-1]
+
+<sup>1</sup>
+
+Avant de rendre la décision de clôture, l’autorité fédérale ou cantonale compétente peut, à titre exceptionnel, décider de transmettre de manière anticipée des informations ou des moyens de preuve recueillis:
+
+- a. lorsque les enquêtes étrangères portant sur des affaires de criminalité organisée ou de terrorisme seraient excessivement difficiles sans cette mesure d’entraide judiciaire, notamment en raison du risque de collusion, ou parce que la confidentialité de la procédure doit être préservée, ou
+- b. afin de prévenir un danger grave et imminent, notamment la commission d’un acte terroriste.
+
+<sup>2</sup> Les informations ou moyens de preuve concernés doivent être en relation avec la prévention ou la poursuite d’infractions donnant lieu à extradition.
+
+<sup>3</sup> La transmission anticipée peut avoir lieu de manière spontanée ou sur requête. Si elle a lieu de manière spontanée, l’autorité fédérale ou cantonale compétente se limite à communiquer les données non personnelles nécessaires à l’appréciation de la situation jusqu’à ce qu’elle ait reçu les garanties prévues à l’al. 4.
+
+<sup>4</sup>
+
+Avant la transmission anticipée, l’autorité requérante doit s’être préalablement engagée:
+
+- a. à n’utiliser les informations ou moyens de preuve qu’à des fins d’investigations et en aucun cas pour requérir, motiver ou prononcer une décision finale;
+- b. à informer l’autorité fédérale ou cantonale compétente, dès que la procédure étrangère le permet, du fait que la transmission anticipée peut être portée, conformément à l’art. 80*m*, à la connaissance de la personne concernée, afin qu’elle puisse prendre position avant que la décision de clôture ne soit rendue;
+- c. à retirer du dossier de la procédure étrangère, si l’entraide est refusée, les informations ou moyens de preuve remis de manière anticipée.
+
+<sup>5</sup> L’information de la personne concernée est différée.
+
+<sup>6</sup> Avant toute transmission anticipée, la décision incidente visée à l’al. 1 est communiquée immédiatement à l’office fédéral. Elle ne peut faire l’objet d’un recours séparé.
+
+[^80dbis-1]: Introduit par l’annexe ch. II 5 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+
+### Section 2*a***** Équipe commune d’enquête
+
+[^part3-chap2-sec2a-1]
+
+[^part3-chap2-sec2a-1]: Introduite par l’annexe ch. II 5 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+
+#### Art. 80d<sup>ter</sup>
+
+**Institution de l’équipe commune d’enquête**
+
+<sup>1</sup> L’autorité d’entraide fédérale ou cantonale peut, après entente avec l’autorité judiciaire étrangère compétente, instituer une équipe commune d’enquête (ECE) poursuivant un objectif clairement défini qui sera chargée de réaliser une enquête pénale dans un des États participant à l’ECE ou de soutenir la réalisation de cette enquête.
+
+<sup>2</sup> Une ECE peut notamment être instituée dans le cadre d’une enquête pénale difficile ou complexe qui concerne un ou plusieurs autres États et qui exige la mobilisation de moyens importants, ainsi qu’une action coordonnée et concertée.
+
+<sup>3</sup> L’institution d’une ECE présuppose une demande d’entraide d’une autorité judiciaire.
+
+<sup>4</sup> La mission de l’ECE est limitée dans le temps. Elle peut au besoin être prolongée.
+
+<sup>5</sup> L’autorité compétente nomme le responsable et les membres de l’ECE pour son État. L’ECE peut au besoin recourir à des experts et des auxiliaires.
+
+<sup>6</sup> L’acte d’institution est porté à la connaissance de l’office fédéral en la forme écrite.
+
+#### Art. 80d<sup>quater</sup>
+
+**Droit applicable**
+
+L’activité de l’ECE est régie par le droit de l’État sur le territoire duquel se déroule l’enquête.
+
+#### Art. 80d<sup>quinquies</sup>
+
+**Responsabilité**
+
+Le représentant de l’autorité pénale ou de l’autorité d’entraide de l’État sur le territoire duquel se déroule l’enquête en assume la responsabilité.
+
+#### Art. 80d<sup>sexies</sup>
+
+**Statut en droit pénal et en droit de la responsabilité civile**
+
+Pendant le déroulement d’une mission sur le territoire suisse, le responsable et les membres étrangers de l’ECE, ainsi que les experts ou auxiliaires étrangers visés à l’art. 80*d*<sup>ter</sup>, al. 5, sont assimilés au responsable et aux membres suisses de l’ECE en ce qui concerne les infractions dont ils sont victimes ou qu’ils commettent. Ils leur sont également assimilés en ce qui concerne les dommages qu’ils causent pendant le déroulement de la mission.
+
+#### Art. 80d<sup>septie</sup><sup>s</sup>
+
+**Accès aux pièces, informations et moyens de preuve**
+
+<sup>1</sup>
+
+Les responsables et les membres de l’ECE ont accès:
+
+- a. aux pièces et aux informations en lien avec l’enquête;
+- b. aux moyens de preuve obtenus dans le cadre de l’enquête.
+
+<sup>2</sup> Ils n’ont pas accès aux pièces, informations et moyens de preuve si une décision d’un responsable de l’ECE ou d’une autorité pénale ou une autorité d’entraide en dispose ainsi. Tel est le cas même si les pièces, les informations ou les moyens de preuve ont été obtenus avant l’institution de l’ECE.
+
+<sup>3</sup> Les experts et auxiliaires visés à l’art. 80*d*<sup>ter</sup>, al. 5, n’ont accès qu’aux pièces, informations et moyens de preuve nécessaires à l’accomplissement des tâches qui leur ont été déléguées.
+
+#### Art. 80d<sup>octies</sup>
+
+**Transmission anticipée**
+
+La transmission anticipée de pièces, d’informations et de moyens de preuve se trouvant sur le territoire suisse est régie par l’art. 80*d*<sup>bis</sup>.
+
+#### Art. 80d
+
+**<sup>novie</sup>**<sup>s</sup>**Confidentialité et protection des données**
+
+<sup>1</sup> La confidentialité des informations, y compris le secret de l’instruction, est garantie.
+
+<sup>2</sup> La protection des données personnelles est régie par le droit de l’État sur le territoire duquel l’acte d’enquête est accompli.
+
+#### Art. 80d<sup>decies</sup>
+
+**Contacts avec les médias**
+
+Lorsque les services des autorités judiciaires habituellement chargés des communications aux médias prévoient de publier un communiqué, l’autorité pénale ou l’autorité d’entraide suisse et l’autorité homologue étrangère s’accordent préalablement sur son contenu.
+
+#### Art. 80d<sup>undecies</sup>
+
+**Prise en charge des coûts**
+
+<sup>1</sup> Le coût des actes d’enquête est supporté par l’État dans lequel ils sont accomplis.
+
+<sup>2</sup> Les frais relatifs au séjour, à l’hébergement et au transport des responsables et des autres membres de l’ECE sont supportés par l’État auquel ils sont rattachés.
+
+<sup>3</sup> Les locaux et les moyens techniques nécessaires à l’accomplissement des actes d’enquête tels que les bureaux, les appareils de télécommunication ou le matériel spécialisé sont fournis par l’État dans lequel les actes sont accomplis.
+
+#### Art. 80d<sup>duodecies</sup>
+
+**Acte d’institution**
+
+<sup>1</sup>
+
+L’acte d’institution fournit des indications sur les éléments suivants:
+
+- a. but de l’ECE;
+- b. nom de l’autorité pénale ou de l’autorité d’entraide suisse et de l’autorité homologue étrangère;
+- c. nom et fonctions du responsable et des autres membres de l’ECE pour chacun des États qui y participent;
+- d. enquête pénale, y compris les faits qui font l’objet de cette enquête et les infractions concernées;
+- e. États sur le territoire desquels l’ECE enquête en application du droit national;
+- f. durée de la mission de l’ECE et date d’expiration de cette mission;
+- g. noms d’éventuels experts et auxiliaires n’entrant pas dans la composition de l’ECE et provenant notamment d’autres services ou unités administratives des États participants et noms d’éventuels experts et auxiliaires d’Eurojust ou d’Europol;
+- h. comportement à adopter dans les contacts avec les médias;
+- i. répartition des coûts de l’enquête pénale et des actes d’enquête;
+- j. répartition des frais de séjour, d’hébergement et de transport des responsables, des autres membres de l’ECE et des experts et auxiliaires;
+- k. moyens techniques nécessaires à l’accomplissement des missions.
+
+<sup>2</sup> L’acte d’institution peut être adapté lorsque l’enquête l’exige. Des membres supplémentaires peuvent, en particulier, être adjoints à l’ECE ou sa date d’expiration prolongée.
+
 ### Section 3**** Voies de recours
 
 [^part3-chap2-sec3-1]
@@ -1576,13 +1712,13 @@ Les décisions incidentes antérieures à la décision de clôture peuvent faire
 
 <sup>3</sup> L’art. 80*l*, al. 2 et 3, est applicable par analogie.
 
-[^80e-1]: Nouvelle teneur selon le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80e-1]: Nouvelle teneur selon l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 80f et 80g
 
 [^80f80g-1]
 
-[^80f80g-1]: Abrogés par le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80f80g-1]: Abrogés par l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 80h
 
@@ -1606,7 +1742,7 @@ Le recours peut être formé:
 
 <sup>2</sup> …[^80i-1]
 
-[^80i-1]: Abrogé par le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80i-1]: Abrogé par l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 80k
 
@@ -1624,8 +1760,8 @@ Le délai de recours contre la décision de clôture est de 30 jours dès la com
 
 <sup>3</sup> La cour des plaintes du Tribunal pénal fédéral peut accorder l’effet suspensif à la décision prévue à l’al. 2 si l’ayant droit rend vraisemblable que le préjudice est immédiat et irréparable au sens de l’art. 80*e*, al. 2.[^80l-2]
 
-[^80l-1]: Nouvelle teneur selon le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^80l-2]: Nouvelle teneur selon le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80l-1]: Nouvelle teneur selon l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80l-2]: Nouvelle teneur selon l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Section 4**** Dispositions particulières
 
@@ -1656,13 +1792,13 @@ L’autorité d’exécution et l’autorité de recours notifient leurs décisi
 
 #### Art. 80o
 
-**Interpellation de l’Etat requérant**
+**Interpellation de l’État requérant**
 
-<sup>1</sup> Si des informations complémentaires sont nécessaires, l’autorité d’exécution ou l’autorité de recours invitent l’office fédéral à les demander à l’Etat requérant.
+<sup>1</sup> Si des informations complémentaires sont nécessaires, l’autorité d’exécution ou l’autorité de recours invitent l’office fédéral à les demander à l’État requérant.
 
 <sup>2</sup> Le cas échéant, l’autorité compétente suspend en totalité ou en partie le traitement de la demande et statue sur les points qui peuvent être tranchés en l’état du dossier.
 
-<sup>3</sup> L’office fédéral impartit à l’Etat requérant un délai de réponse approprié. Si le délai imparti n’est pas respecté, la demande d’entraide est examinée en l’état du dossier.
+<sup>3</sup> L’office fédéral impartit à l’État requérant un délai de réponse approprié. Si le délai imparti n’est pas respecté, la demande d’entraide est examinée en l’état du dossier.
 
 #### Art. 80p
 
@@ -1670,19 +1806,19 @@ L’autorité d’exécution et l’autorité de recours notifient leurs décisi
 
 <sup>1</sup> L’autorité d’exécution et l’autorité de recours, de même que l’office fédéral, peuvent subordonner, en totalité ou en partie, l’octroi de l’entraide à des conditions.
 
-<sup>2</sup> L’office fédéral communique les conditions à l’Etat requérant lorsque la décision relative à l’octroi et à l’étendue de l’entraide est devenue exécutoire, et il lui impartit un délai approprié pour déclarer s’il les accepte ou s’il les refuse. Si le délai imparti n’est pas respecté, l’entraide peut être octroyée sur les points ne faisant pas l’objet de conditions.
+<sup>2</sup> L’office fédéral communique les conditions à l’État requérant lorsque la décision relative à l’octroi et à l’étendue de l’entraide est devenue exécutoire, et il lui impartit un délai approprié pour déclarer s’il les accepte ou s’il les refuse. Si le délai imparti n’est pas respecté, l’entraide peut être octroyée sur les points ne faisant pas l’objet de conditions.
 
-<sup>3</sup> L’office fédéral examine si la réponse de l’Etat requérant constitue un engagement suffisant au regard des conditions fixées.
+<sup>3</sup> L’office fédéral examine si la réponse de l’État requérant constitue un engagement suffisant au regard des conditions fixées.
 
 <sup>4</sup> La décision de l’office fédéral peut faire l’objet d’un recours devant la cour des plaintes du Tribunal pénal fédéral dans un délai de dix jours à compter de sa communication écrite. La décision de la cour des plaintes est définitive.[^80p-1]
 
-[^80p-1]: Nouvelle teneur selon le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^80p-1]: Nouvelle teneur selon l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 80q
 
 **Frais**
 
-Sont à la charge de l’Etat requérant:
+Sont à la charge de l’État requérant:
 
 - a. la rémunération des experts;
 - b. les frais de la remise d’objets ou de valeurs aux fins de restitution à l’ayant droit.
@@ -1705,11 +1841,11 @@ Sont à la charge de l’Etat requérant:
 
 <sup>1</sup>
 
-A la demande de l’Etat où l’infraction a eu lieu, la Suisse peut réprimer à sa place un acte commis à l’étranger:
+À la demande de l’État où l’infraction a eu lieu, la Suisse peut réprimer à sa place un acte commis à l’étranger:
 
 - a. si l’extradition est exclue;
 - b. si la personne poursuivie doit répondre en Suisse d’autres infractions plus graves et
-- c. si l’Etat requérant donne la garantie de ne plus la poursuivre pour le même acte après qu’elle aura été acquittée ou qu’elle aura subi une sanction en Suisse.
+- c. si l’État requérant donne la garantie de ne plus la poursuivre pour le même acte après qu’elle aura été acquittée ou qu’elle aura subi une sanction en Suisse.
 
 <sup>2</sup> La poursuite pénale d’un étranger qui réside habituellement en Suisse peut aussi être acceptée si son extradition ne se justifie pas et que l’acceptation de la poursuite semble opportune en raison de sa situation personnelle et de son reclassement social.
 
@@ -1729,9 +1865,9 @@ A la demande de l’Etat où l’infraction a eu lieu, la Suisse peut réprimer 
 
 **For**[^87-1]
 
-A moins qu’un for suisse ne soit déjà constitué, il est désigné conformément à l’art. 32 CPP[^87-2].
+À moins qu’un for suisse ne soit déjà constitué, il est désigné conformément à l’art. 32 CPP[^87-2].
 
-[^87-1]: Nouvelle teneur selon le ch. II 13 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^87-1]: Nouvelle teneur selon l’annexe 1 ch. II 13 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^87-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 ### Section 2 Délégation à l’étranger
@@ -1740,10 +1876,10 @@ A moins qu’un for suisse ne soit déjà constitué, il est désigné conformé
 
 **Conditions**
 
-Un Etat étranger peut être invité à assumer la poursuite pénale d’une infraction relevant de la juridiction suisse si sa législation permet de poursuivre et de réprimer judiciairement cette infraction et si la personne poursuivie:
+Un État étranger peut être invité à assumer la poursuite pénale d’une infraction relevant de la juridiction suisse si sa législation permet de poursuivre et de réprimer judiciairement cette infraction et si la personne poursuivie:
 
-- a. réside dans cet Etat, son extradition à la Suisse étant inopportune ou exclue, ou
-- b. est extradée à cet Etat et que le transfert de la poursuite pénale permette d’escompter un meilleur reclassement social.
+- a. réside dans cet État, son extradition à la Suisse étant inopportune ou exclue, ou
+- b. est extradée à cet État et que le transfert de la poursuite pénale permette d’escompter un meilleur reclassement social.
 
 #### Art. 89
 
@@ -1751,14 +1887,14 @@ Un Etat étranger peut être invité à assumer la poursuite pénale d’une inf
 
 <sup>1</sup>
 
-Lorsqu’un Etat étranger accepte la poursuite pénale, les autorités suisses s’abstiennent de toute autre mesure à raison du même fait contre la personne poursuivie:
+Lorsqu’un État étranger accepte la poursuite pénale, les autorités suisses s’abstiennent de toute autre mesure à raison du même fait contre la personne poursuivie:
 
-- a. tant que l’Etat requis n’a pas fait connaître qu’il lui est impossible de mener la procédure pénale à chef ou
-- b. s’il ressort de la décision rendue dans cet Etat que les conditions de l’art. 5, let. a ou b, sont remplies.
+- a. tant que l’État requis n’a pas fait connaître qu’il lui est impossible de mener la procédure pénale à chef ou
+- b. s’il ressort de la décision rendue dans cet État que les conditions de l’art. 5, let. a ou b, sont remplies.
 
-<sup>2</sup> La prescription selon le droit suisse est suspendue tant que l’Etat requis n’a pas mis fin à la cause, exécution comprise.[^89-1]
+<sup>2</sup> La prescription selon le droit suisse est suspendue tant que l’État requis n’a pas mis fin à la cause, exécution comprise.[^89-1]
 
-<sup>3</sup> Si la personne poursuivie a été extradée pour d’autres faits à l’Etat requis, celui-ci n’est pas tenu d’observer les restrictions prévues à l’art. 38, dans la mesure où il donne suite à la demande de poursuite.
+<sup>3</sup> Si la personne poursuivie a été extradée pour d’autres faits à l’État requis, celui-ci n’est pas tenu d’observer les restrictions prévues à l’art. 38, dans la mesure où il donne suite à la demande de poursuite.
 
 [^89-1]: La suspension de la prescription est abrogée par les art. 97 ss CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) et remplacée lors de la prescription de la peine par une prolongation du délai ordinaire ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
@@ -1776,7 +1912,7 @@ En sus des documents visés à l’art. 28, al. 3, la demande est accompagnée d
 
 <sup>1</sup> L’office fédéral, après avoir conféré avec l’autorité de poursuite pénale, statue sur l’acceptation de la demande étrangère.
 
-<sup>2</sup> Dans l’affirmative, il transmet le dossier à l’autorité de poursuite pénale et en informe l’Etat requérant, ainsi que l’intéressé.
+<sup>2</sup> Dans l’affirmative, il transmet le dossier à l’autorité de poursuite pénale et en informe l’État requérant, ainsi que l’intéressé.
 
 <sup>3</sup> La décision n’oblige pas à ouvrir une action pénale.
 
@@ -1786,20 +1922,20 @@ En sus des documents visés à l’art. 28, al. 3, la demande est accompagnée d
 
 **Actes d’instruction opérés à l’étranger**
 
-Tout acte d’instruction légalement accompli par les autorités de l’Etat requérant est assimilé à un acte de même nature accompli en Suisse.
+Tout acte d’instruction légalement accompli par les autorités de l’État requérant est assimilé à un acte de même nature accompli en Suisse.
 
 #### Art. 93
 
 **Frais**
 
-<sup>1</sup> Les frais de procédure engagés par l’Etat requérant sont ajoutés à ceux de la procédure en Suisse et recouvrés. Ils ne sont pas remboursés à l’Etat requérant.
+<sup>1</sup> Les frais de procédure engagés par l’État requérant sont ajoutés à ceux de la procédure en Suisse et recouvrés. Ils ne sont pas remboursés à l’État requérant.
 
 <sup>2</sup> Les cantons disposent du produit des amendes et, sous réserve de l’application de la loi fédérale du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées[^93-1], du produit des confiscations.[^93-2]
 
-<sup>3</sup> L’Etat requis est informé des frais de procédure causés en Suisse jusqu’au moment où il a assumé la poursuite. Leur remboursement n’est pas exigé.
+<sup>3</sup> L’État requis est informé des frais de procédure causés en Suisse jusqu’au moment où il a assumé la poursuite. Leur remboursement n’est pas exigé.
 
 [^93-1]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
-[^93-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
+[^93-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
 ## Cinquième partie Exécution des décisions
 
@@ -1813,17 +1949,17 @@ Tout acte d’instruction légalement accompli par les autorités de l’Etat re
 
 <sup>1</sup>
 
-Une décision définitive et exécutoire d’un Etat étranger peut être exécutée, sur sa demande, si:
+Une décision définitive et exécutoire d’un État étranger peut être exécutée, sur sa demande, si:
 
 - a. le condamné réside habituellement en Suisse ou doit y répondre d’une infraction grave;
 - b. la condamnation a trait à une infraction perpétrée à l’étranger et qui, commise en Suisse, y serait punissable et si
-- c. l’exécution paraît, soit opportune en Suisse, en particulier pour l’une des causes visées à l’art. 85, al. 1 et 2, soit exclue dans l’Etat requérant.
+- c. l’exécution paraît, soit opportune en Suisse, en particulier pour l’une des causes visées à l’art. 85, al. 1 et 2, soit exclue dans l’État requérant.
 
 <sup>2</sup> La sanction prononcée à l’étranger est exécutée dans la mesure où elle ne dépasse pas le maximum de la peine prévue par le droit suisse pour une infraction du même genre. La sanction peut être exécutée même si elle n’atteint pas le minimum prévu par le droit suisse.
 
 <sup>3</sup> …[^94-1]
 
-<sup>4</sup> Les amendes, ainsi que les frais des procédures prévues par l’art. 63, peuvent aussi être recouvrés si le condamné réside habituellement à l’étranger, mais possède des biens en Suisse, et si l’Etat requérant accorde la réciprocité.
+<sup>4</sup> Les amendes, ainsi que les frais des procédures prévues par l’art. 63, peuvent aussi être recouvrés si le condamné réside habituellement à l’étranger, mais possède des biens en Suisse, et si l’État requérant accorde la réciprocité.
 
 [^94-1]: Abrogé par le ch. I de la LF du 4 oct. 1996, avec effet au 1<sup>er</sup> fév. 1997 ([RO 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [FF 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
@@ -1839,7 +1975,7 @@ Le juge doit refuser l’exequatur au cas où:
 - b. la sanction serait prescrite selon le droit suisse, à supposer qu’une autorité suisse l’eût prononcée au même moment, ou que
 - c. l’infraction relève également de la juridiction suisse mais n’est passible d’aucune sanction, compte tenu d’autres motifs prévus par le droit suisse.
 
-<sup>2</sup> La condamnation aux frais n’est déclarée exécutoire que s’ils sont dus à l’Etat.
+<sup>2</sup> La condamnation aux frais n’est déclarée exécutoire que s’ils sont dus à l’État.
 
 [^95-1]: La teneur des art. 97 ss CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) contient un nouveau système de prescription ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
@@ -1851,7 +1987,7 @@ Le juge refuse l’exequatur en totalité ou en partie au cas où:
 
 - a. le condamné encourt en Suisse une sanction privative de liberté pour d’autres infractions et que l’exécution requise entraînerait manifestement une punition plus sévère que celle qui aurait été infligée en Suisse pour toutes les infractions, ou
 - b. l’application en Suisse des effets accessoires de la condamnation est exclue, ou
-- c. il estime que le condamné a de bonnes raisons de s’opposer à l’exécution d’une décision ou d’une ordonnance pénale rendue par défaut qui n’est plus susceptible de recours ou d’opposition selon le droit de l’Etat requérant.
+- c. il estime que le condamné a de bonnes raisons de s’opposer à l’exécution d’une décision ou d’une ordonnance pénale rendue par défaut qui n’est plus susceptible de recours ou d’opposition selon le droit de l’État requérant.
 
 #### Art. 97
 
@@ -1869,11 +2005,11 @@ Si la Suisse assume l’exécution, aucune poursuite pénale ne peut, à raison 
 
 **Utilisation d’établissements suisses par l’étranger**
 
-<sup>1</sup> Lorsque les conditions prévues à l’art. 94, al. 1, ne sont pas remplies, une sanction privative de liberté infligée par un autre Etat à une personne qui n’est pas de nationalité suisse peut être exécutée en Suisse, conformément au droit suisse, si elle ne peut l’être dans l’autre Etat.
+<sup>1</sup> Lorsque les conditions prévues à l’art. 94, al. 1, ne sont pas remplies, une sanction privative de liberté infligée par un autre État à une personne qui n’est pas de nationalité suisse peut être exécutée en Suisse, conformément au droit suisse, si elle ne peut l’être dans l’autre État.
 
 <sup>2</sup> Dans ce cas, la base juridique sur laquelle se fonde la restriction de la liberté individuelle du condamné est la décision définitive et exécutoire prononcée à l’étranger.
 
-<sup>3</sup> La personne remise à la Suisse conformément à l’al. 1 ne peut pas, sauf accords contraires conclus avec les autorités compétentes de l’Etat qui l’a remise, être poursuivie, punie ou extradée à un Etat tiers par les autorités suisses, pour des actes commis avant sa remise et non visés par le jugement. Ces effets cessent dix jours après la libération conditionnelle ou l’élargissement définitif du condamné.
+<sup>3</sup> La personne remise à la Suisse conformément à l’al. 1 ne peut pas, sauf accords contraires conclus avec les autorités compétentes de l’État qui l’a remise, être poursuivie, punie ou extradée à un État tiers par les autorités suisses, pour des actes commis avant sa remise et non visés par le jugement. Ces effets cessent dix jours après la libération conditionnelle ou l’élargissement définitif du condamné.
 
 <sup>4</sup> Le Conseil fédéral règle les modalités.
 
@@ -1883,7 +2019,7 @@ Si la Suisse assume l’exécution, aucune poursuite pénale ne peut, à raison 
 
 **Principe**
 
-L’exécution d’une décision pénale suisse peut être déléguée à un Etat étranger:
+L’exécution d’une décision pénale suisse peut être déléguée à un État étranger:
 
 - a. si le respect de la force obligatoire de la décision, au sens de l’art. 97, est garanti et
 - b. si la délégation permet d’escompter un meilleur reclassement social du condamné ou que la Suisse ne puisse obtenir l’extradition.
@@ -1892,7 +2028,7 @@ L’exécution d’une décision pénale suisse peut être déléguée à un Eta
 
 **Conditions de la remise**
 
-<sup>1</sup> La remise du condamné détenu en Suisse, aux fins de l’exécution prévue par l’art. 100, exige qu’il y consente et que, selon toute attente, les conditions fixées par l’office fédéral seront observées dans l’Etat requis.
+<sup>1</sup> La remise du condamné détenu en Suisse, aux fins de l’exécution prévue par l’art. 100, exige qu’il y consente et que, selon toute attente, les conditions fixées par l’office fédéral seront observées dans l’État requis.
 
 <sup>2</sup> La remise peut avoir lieu sans le consentement du condamné, à condition qu’un accord international ratifié par la Suisse le prévoie. Dans ce cas, les conditions et les effets de la remise sont régis exclusivement par l’accord en question.[^101-1]
 
@@ -1902,7 +2038,7 @@ L’exécution d’une décision pénale suisse peut être déléguée à un Eta
 
 **Effets de la délégation**
 
-<sup>1</sup> Lorsqu’un Etat étranger accepte d’exécuter une décision, l’autorité suisse s’abstient de toute exécution, tant que l’Etat requis n’a pas fait savoir qu’il ne la mènerait pas à chef.
+<sup>1</sup> Lorsqu’un État étranger accepte d’exécuter une décision, l’autorité suisse s’abstient de toute exécution, tant que l’État requis n’a pas fait savoir qu’il ne la mènerait pas à chef.
 
 <sup>2</sup> Le condamné peut être incarcéré en vue de son transfert.
 
@@ -1919,16 +2055,16 @@ L’exécution d’une décision pénale suisse peut être déléguée à un Eta
 Sont joints à la demande, outre les documents prévus par l’art. 28, al. 3:
 
 - a. l’original ou la copie officiellement certifiée conforme de la décision, avec attestation de la force exécutoire;
-- b. une attestation relative à la durée de la détention subie dans l’Etat requérant;
-- c. l’original ou la copie officiellement certifiée conforme du dossier pénal, si l’Etat requis le demande.
+- b. une attestation relative à la durée de la détention subie dans l’État requérant;
+- c. l’original ou la copie officiellement certifiée conforme du dossier pénal, si l’État requis le demande.
 
 #### Art. 104
 
 **Décisions sur la demande**
 
-<sup>1</sup> L’office fédéral, après avoir conféré avec l’autorité d’exécution, statue sur l’acceptation de la demande étrangère. S’il l’admet, il transmet le dossier avec son avis à l’autorité d’exécution et en informe l’Etat requérant. L’art. 91, al. 4, est applicable par analogie.
+<sup>1</sup> L’office fédéral, après avoir conféré avec l’autorité d’exécution, statue sur l’acceptation de la demande étrangère. S’il l’admet, il transmet le dossier avec son avis à l’autorité d’exécution et en informe l’État requérant. L’art. 91, al. 4, est applicable par analogie.
 
-<sup>2</sup> Si l’infraction relève de la juridiction suisse et que la sanction prononcée à l’étranger soit plus rigoureuse que celle qui est prévue en droit suisse, la poursuite peut être substituée à l’exécution sur demande de l’Etat requérant.
+<sup>2</sup> Si l’infraction relève de la juridiction suisse et que la sanction prononcée à l’étranger soit plus rigoureuse que celle qui est prévue en droit suisse, la poursuite peut être substituée à l’exécution sur demande de l’État requérant.
 
 ### Section 2 Procédure d’exequatur
 
@@ -1938,7 +2074,7 @@ Sont joints à la demande, outre les documents prévus par l’art. 28, al. 3:
 
 Le juge compétent selon l’art. 32 CPP[^105-2] renseigne le condamné sur la procédure, l’entend sur l’affaire en présence de son mandataire, puis statue sur l’exécution.
 
-[^105-1]: Nouvelle teneur selon le ch. II 13 de l’annexe 1 au CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^105-1]: Nouvelle teneur selon l’annexe 1 ch. II 13 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^105-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 106
@@ -1959,9 +2095,9 @@ Le juge compétent selon l’art. 32 CPP[^105-2] renseigne le condamné sur la p
 
 <sup>1</sup> La sanction fixée par le juge est exécutée conformément au droit suisse.
 
-<sup>2</sup> L’exécution prend fin si la décision n’est plus exécutable dans l’Etat requérant.
+<sup>2</sup> L’exécution prend fin si la décision n’est plus exécutable dans l’État requérant.
 
-<sup>3</sup> Si l’exécution ne concerne que les frais, les montants recouvrés, déduction faite des débours, sont remis à l’Etat requérant sous réserve de réciprocité.
+<sup>3</sup> Si l’exécution ne concerne que les frais, les montants recouvrés, déduction faite des débours, sont remis à l’État requérant sous réserve de réciprocité.
 
 #### Art. 108
 
@@ -1975,7 +2111,7 @@ Les frais au sens de l’art. 31 comprennent, outre les frais d’exécution de 
 
 **Abrogation et modification du droit en vigueur**
 
-<sup>1</sup> La loi fédérale du 22 janvier 1892[^109-1] sur l’extradition aux Etats étrangers est abrogée.
+<sup>1</sup> La loi fédérale du 22 janvier 1892[^109-1] sur l’extradition aux États étrangers est abrogée.
 
 <sup>2</sup> et <sup>3</sup> …[^109-2]
 
@@ -1986,7 +2122,7 @@ Les frais au sens de l’art. 31 comprennent, outre les frais d’exécution de 
 
 **Dispositions transitoires**
 
-<sup>1</sup> Les dispositions de procédures de la loi fédérale du 22 janvier 1892 sur l’extradition aux Etats étrangers[^110-1] restent applicables aux procédures d’extradition en cours lors de l’entrée en vigueur de la présente loi.
+<sup>1</sup> Les dispositions de procédures de la loi fédérale du 22 janvier 1892 sur l’extradition aux États étrangers[^110-1] restent applicables aux procédures d’extradition en cours lors de l’entrée en vigueur de la présente loi.
 
 <sup>2</sup> La poursuite et l’exécution de décisions, au sens des quatrième et cinquième parties de la présente loi, ne peuvent être assumées que si la demande concerne une infraction commise postérieurement à son entrée en vigueur.
 
@@ -2011,7 +2147,7 @@ Les dispositions de la modification du 4 octobre 1996 concernant la présente lo
 
 Les procédures de recours contre les décisions rendues en première instance avant l’entrée en vigueur de la présente modification sont régies par l’ancien droit.
 
-[^110b-1]: Introduit par le ch. 30 de l’annexe à la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^110b-1]: Introduit par l’annexe ch. 36 de la L du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 111
 

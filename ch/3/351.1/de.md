@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. März 1981 über internationale Rechtshilfe in Stra
 short: IRSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: de
-version: 2021-06-01
+version: 2021-07-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210601/de/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210601/de"
 
 (Rechtshilfegesetz, IRSG)
 
-vom 20. März 1981 (Stand am 1. Juni 2021)
+vom 20. März 1981 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1558,6 +1558,142 @@ Die Rechte nach Absatz 1 können nur eingeschränkt werden:
 **Abschluss des Rechtshilfeverfahrens**
 
 Erachtet die ausführende Behörde das Ersuchen als ganz oder teilweise erledigt, so erlässt sie eine begründete Verfügung über die Gewährung und den Umfang der Rechtshilfe.
+
+#### Art. 80d<sup>bis</sup>
+
+**Vorzeitige Übermittlung von Informationen und Beweismitteln**[^80dbis-1]
+
+<sup>1</sup>
+
+Die zuständige kantonale oder eidgenössische Behörde kann ausnahmsweise vor dem Erlass der Schlussverfügung die vorzeitige Übermittlung von Informationen oder erhobenen Beweismitteln verfügen:
+
+- a. wenn die ausländischen Ermittlungen in Fällen von organisierter Kriminalität oder Terrorismus ohne diese Rechtshilfemassnahme unverhältnismässig erschwert würden, insbesondere bei Kollusionsgefahr oder zu wahrender Vertraulichkeit des Verfahrens; oder
+- b. um eine schwere und unmittelbare Gefahr, insbesondere die Begehung einer terroristischen Straftat, abzuwehren.
+
+<sup>2</sup> Die betreffenden Informationen oder Beweismittel müssen im Zusammenhang mit der Verhinderung oder der Verfolgung einer auslieferungsfähigen strafbaren Handlung stehen.
+
+<sup>3</sup> Die vorzeitige Übermittlung kann unaufgefordert oder auf Ersuchen erfolgen. Findet sie unaufgefordert statt, so übermittelt die zuständige kantonale oder eidgenössische Behörde nur die zur Lagebeurteilung notwendigen nicht personenbezogenen Daten, bis sie die in Absatz 4 vorgesehenen Garantien erhalten hat.
+
+<sup>4</sup>
+
+Die vorzeitige Übermittlung setzt voraus, dass sich die ersuchende Behörde vorgängig verpflichtet:
+
+- a. die Informationen oder Beweismittel nur zu Ermittlungszwecken, keinesfalls aber zum Zweck des Beantragens, Begründens oder Aussprechens eines Endentscheids zu verwenden;
+- b. die zuständige kantonale oder eidgenössische Behörde, sobald es das ausländische Verfahren erlaubt, darüber zu informieren, dass die vorzeitige Übermittlung der betroffenen Person nach Artikel 80*m* zur Kenntnis gebracht werden kann, damit diese vor dem Erlass der Schlussverfügung Stellung nehmen kann;
+- c. die durch die vorzeitige Übermittlung erlangten Informationen oder Beweismittel aus den Akten des ausländischen Verfahrens zu entfernen, wenn die Rechtshilfe verweigert wird.
+
+<sup>5</sup> Die Mitteilung an die betroffene Person wird aufgeschoben.
+
+<sup>6</sup> Die nach Absatz 1 vorgesehene Zwischenverfügung wird dem Bundesamt unverzüglich und vor der vorzeitigen Übermittlung mitgeteilt. Sie ist nicht selbstständig anfechtbar.
+
+[^80dbis-1]: Eingefügt durch Anhang Ziff. II 5 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+
+### 2*a*. Abschnitt:**** Gemeinsame Ermittlungsgruppe
+
+[^part3-chap2-sec2a-1]
+
+[^part3-chap2-sec2a-1]: Eingefügt durch Anhang Ziff. II 5 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+
+#### Art. 80d<sup>ter</sup>
+
+**Einsetzung der gemeinsamen Ermittlungsgruppe**
+
+<sup>1</sup> Die kantonale oder eidgenössische Rechtshilfebehörde kann zur Verfolgung eines bestimmten Zwecks in Absprache mit der zuständigen ausländischen Justizbehörde eine gemeinsame Ermittlungsgruppe (GEG) einsetzen, die in einem an der GEG teilnehmenden Staat eine Strafuntersuchung durchführt oder die Durchführung unterstützt.
+
+<sup>2</sup> Eine GEG kann insbesondere im Rahmen einer schwierigen oder komplexen Strafuntersuchung eingesetzt werden, die einen oder mehrere andere Staaten betrifft und erhebliche Mittel sowie koordiniertes und konzertiertes Handeln erfordert.
+
+<sup>3</sup> Sie kann ausschliesslich eingesetzt werden, wenn ein Rechtshilfeersuchen einer Justizbehörde vorliegt.
+
+<sup>4</sup> Die Einsatzdauer der GEG ist zu befristen. Der Einsatz kann bei Bedarf verlängert werden.
+
+<sup>5</sup> Die zuständige Behörde legt für ihren Staat den Verantwortlichen und die Mitglieder der GEG fest. Die GEG kann bei Bedarf Experten und Hilfspersonen beiziehen.
+
+<sup>6</sup> Der Einsetzungsakt wird dem Bundesamt in schriftlicher Form zur Kenntnis gebracht.
+
+#### Art. 80d<sup>quater</sup>
+
+**Massgebliches Recht**
+
+Die Tätigkeit der GEG richtet sich nach dem Recht des Staates, in dem die Untersuchung durchgeführt wird.
+
+#### Art. 80d<sup>quinquies</sup>
+
+**Verantwortlichkeit**
+
+Für die einzelnen Untersuchungshandlungen ist jeweils der Vertreter der Straf- oder Rechtshilfebehörde verantwortlich, in deren Staat die Untersuchungshandlung durchgeführt wird.
+
+#### Art. 80d<sup>sexies</sup>
+
+**Straf- und haftungsrechtliche Stellung**
+
+Der ausländische Verantwortliche und die ausländischen Mitglieder der GEG sowie die ausländischen Experten und Hilfspersonen nach Artikel 80*d*<sup>ter</sup> Absatz 5 sind während eines Einsatzes auf Schweizer Staatsgebiet in Bezug auf allfällige Straftaten, die gegen sie begangen werden oder die sie selbst begehen, dem Schweizer Verantwortlichen und den Schweizer Mitgliedern der GEG gleichgestellt. Sie sind ihnen ebenfalls gleichgestellt in Bezug auf allfällige Schäden, die sie während ihres Einsatzes verursachen.
+
+#### Art. 80d<sup>septies</sup>
+
+**Zugang zu Unterlagen, Informationen und Beweismitteln**
+
+<sup>1</sup>
+
+Die Verantwortlichen und Mitglieder der GEG haben Zugang zu:
+
+- a. Unterlagen und Informationen, die mit der betreffenden Strafuntersuchung zusammenhängen;
+- b. Beweismitteln, die im Rahmen der betreffenden Strafuntersuchung erhoben wurden.
+
+<sup>2</sup> Sie haben keinen Zugang zu Unterlagen, Informationen und Beweismitteln, sofern ein entsprechender Entscheid eines Verantwortlichen der GEG oder einer Straf- oder Rechtshilfebehörde vorliegt. Dies gilt auch, wenn die Unterlagen, Informationen oder Beweismittel vor der Einsetzung der GEG erhoben wurden.
+
+<sup>3</sup> Die Experten und Hilfspersonen nach Artikel 80*d*<sup>ter</sup> Absatz 5 haben nur Zugang zu Unterlagen, Informationen und Beweismitteln, die für die Erfüllung der ihnen übertragenen Aufgaben notwendig sind.
+
+#### Art. 80d<sup>octies</sup>
+
+**Vorzeitige Übermittlung**
+
+Die vorzeitige Übermittlung von Unterlagen, Informationen und Beweismitteln, die sich im Hoheitsgebiet der Schweiz befinden, richtet sich nach Artikel 80*d*<sup>bis</sup>.
+
+#### Art. 80d<sup>novies</sup>
+
+**Vertraulichkeit und Datenschutz**
+
+<sup>1</sup> Die Vertraulichkeit der Informationen, einschliesslich des Untersuchungsgeheimnisses, muss gewahrt werden.
+
+<sup>2</sup> Der Schutz von Personendaten richtet sich nach dem Recht des Staates, in dem die Untersuchungshandlung durchgeführt wird.
+
+#### Art. 80d<sup>decies</sup>
+
+**Medienkontakte**
+
+Beabsichtigen die üblicherweise für eine Medienmitteilung zuständigen Stellen der betroffenen Justizbehörden, eine Mitteilung zu veröffentlichen, so sprechen sich die schweizerische Straf- oder Rechtshilfebehörde und die ausländische Partnerbehörde über den Inhalt vorgängig ab.
+
+#### Art. 80d<sup>undecies</sup>
+
+**Kostentragung**
+
+<sup>1</sup> Die Kosten der Untersuchungshandlungen werden von dem Staat getragen, in dem die jeweilige Handlung durchgeführt wird.
+
+<sup>2</sup> Die Kosten für Aufenthalt, Unterkunft und Reisen der Verantwortlichen und der weiteren Mitglieder der GEG werden vom jeweiligen Herkunftsstaat getragen.
+
+<sup>3</sup> Die Räumlichkeiten und die technischen Mittel zur Durchführung der Untersuchungshandlungen, wie Büros, Kommunikationsmittel oder besondere Gerätschaften, werden von dem Staat zur Verfügung gestellt, in dem die jeweilige Handlung durchgeführt wird.
+
+#### Art. 80d<sup>duodecies</sup>
+
+**Einsetzungsakt**
+
+<sup>1</sup>
+
+Der Einsetzungsakt muss folgende Angaben enthalten:
+
+- a. den Zweck der GEG;
+- b. die Namen der schweizerischen und der ausländischen Straf- oder Rechtshilfebehörde;
+- c. den Namen des Verantwortlichen für jeden an der GEG teilnehmenden Staat sowie die Namen der weiteren Mitglieder der GEG und deren Funktionen;
+- d. die Strafuntersuchung, einschliesslich der Sachverhalte, die Gegenstand der Strafuntersuchung sind, sowie der verfolgten Straftaten;
+- e. die Staaten, auf deren Gebiet die GEG gemäss dem jeweiligen nationalen Recht ermittelt;
+- f. die Dauer der GEG mit dem Datum der Befristung;
+- g. die Namen allfälliger Experten und Hilfspersonen, die nicht Mitglied der GEG sind, namentlich von solchen, die aus anderen Diensten oder Verwaltungseinheiten der teilnehmenden Staaten stammen, sowie die Namen allfälliger Experten und Hilfspersonen von Eurojust und Europol;
+- h. das Vorgehen bei Kontakten mit Medien;
+- i. die Kostentragung für die Strafuntersuchung und Untersuchungshandlungen;
+- j. die Kostentragung für Aufenthalt, Unterkunft und Reisen der Verantwortlichen, der weiteren Mitglieder der GEG sowie der Experten und Hilfspersonen;
+- k. die technischen Mittel, die zur Durchführung der Einsätze erforderlich sind.
+
+<sup>2</sup> Der Einsetzungsakt kann angepasst werden, wenn die Ermittlungen dies erfordern. Insbesondere können der GEG weitere Mitglieder hinzugefügt werden oder kann die Befristung verlängert werden.
 
 ### 3. Abschnitt:**** Beschwerde
 

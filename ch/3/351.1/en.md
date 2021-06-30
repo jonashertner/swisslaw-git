@@ -4,11 +4,11 @@ title: "Federal Act of 20 March 1981 on International Mutual Assistance in Crimi
 short: IMAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/846_846_846"
 language: en
-version: 2021-06-01
+version: 2021-07-01
 adopted: 1981-03-20
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210601/en/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210601-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/846_846_846/20210701/en/xml/fedlex-data-admin-ch-eli-cc-1982-846_846_846-20210701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/846_846_846/20210701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Mutual Assistance Act, IMAC)
 
-of 20 March 1981 (Status as of 1 June 2021)
+of 20 March 1981 (Status as of 1 July 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -28,7 +28,7 @@ based on Articles 54 paragraph 1, 123 paragraph 1 and 173 paragraph 2 of the Fed
 decrees:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Amended by No I of the FA of 18 Dec. 2020, in force since 1 June 2021 ([AS 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [BBl 2019 7413](https://fedlex.data.admin.ch/eli/fga/2019/2683)).
+[^ingress-2]: Amended by No I of the FA of 18 Dec. 2020, in force since 1 June 2021 ([AS 2021 233](https://fedlex.data.admin.ch/eli/oc/2021/233); [BBl 2019 7413](https://fedlex.data.admin.ch/eli/fga/2019/2683)). 351.1
 [^ingress-3]: [BBl 1976 II 444](https://fedlex.data.admin.ch/eli/fga/1976/2_444_430_443)
 
 ## Part One General Provisions
@@ -1558,6 +1558,142 @@ The rights provided for in paragraph 1 may be limited only:
 
 When the executing authority determines that the request is completely or partially executed, it shall issue a ruling giving reasons on whether mutual assistance is granted and to what extent.
 
+#### Art. 80d<sup>bis</sup>
+
+**Early transmission of information and evidence**[^80dbis-1]
+
+<sup>1</sup>
+
+The competent cantonal or federal authority may by way of exception order the early transmission of information or evidence gathered before the final ruling is issued:
+
+- a. if foreign investigations in cases relating to organised crime or terrorism would be made disproportionately difficult without this mutual assistance measure, in particular where there is a risk of collusion or in order to safeguard the confidentiality of the proceedings; or
+- b. in order to avert a serious and immediate danger, and in particular the commission of a terrorist offence.
+
+<sup>2</sup> The information or evidence concerned must be connected with the prevention or the prosecution of an extraditable criminal offence.
+
+<sup>3</sup> Early transmission may be ordered with or without a request being received. If it is ordered in the absence of a request, the competent cantonal or federal authority shall transmit only the non-personal data required to assess the position, subject to receiving the undertakings specified in paragraph 4.
+
+<sup>4</sup>
+
+Early transmission is conditional on the requesting authority providing an undertaking in advance that:
+
+- a. the information or evidence will be used solely to assist with investigations, and under no circumstances for the purpose of requesting, justifying or issuing a final decision;
+- b. it will inform the competent cantonal or federal authority as soon as the foreign proceedings permit that the person concerned may be notified of the early transmission under Article 80*m* so that he or she can respond before the final ruling is issued;
+- c. it will remove the information or evidence obtained through early transmission from the files for the foreign proceedings if mutual assistance is refused.
+
+<sup>5</sup> Notification of the person concerned shall be deferred.
+
+<sup>6</sup> Notice of the interim ruling in accordance with paragraph 1 shall be given to the Federal Office without delay and before the early transmission. It is not in itself contestable.
+
+[^80dbis-1]: Inserted by Annex No II 5 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+
+### Section 2*a***** Joint Investigation Team
+
+[^part3-chap2-sec2a-1]
+
+[^part3-chap2-sec2a-1]: Inserted by Annex No II 5 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+
+#### Art. 80d<sup>ter</sup>
+
+**Appointment of a joint investigation team**
+
+<sup>1</sup> The cantonal or federal mutual assistance authority may for a specific purpose and in consultation with the competent foreign judicial authority appoint a joint investigation team (JIT) to conduct or support the conduct of a criminal investigation in a state participating in the JIT.
+
+<sup>2</sup> A JIT may in particular be appointed in a difficult or complex criminal investigation that involves one or more other states and which requires considerable resources as well as coordinated and concerted action.
+
+<sup>3</sup> It may only be appointed if a request for mutual assistance has been submitted by a judicial authority.
+
+<sup>4</sup> The JIT must be appointed for a limited duration. The appointment may be extended as required.
+
+<sup>5</sup> The competent authority shall designate the persons responsible and the members of the JIT for its state. The JIT may call on the services of experts and auxiliary personnel as required.
+
+<sup>6</sup> Notice of the act of appointment shall be given to the Federal Office in writing.
+
+#### Art. 80d<sup>quater</sup>
+
+**Applicable law**
+
+The JIT’s activities are governed by the law of the state in which the investigation is conducted.
+
+#### Art. 80d<sup>quinquies</sup>
+
+**Accountability**
+
+The representative of the criminal or mutual assistance authority in whose state an investigative measure is carried out is responsible for that investigative measure.
+
+#### Art. 80d<sup>sexies</sup>
+
+**Status in relation to criminal and civil liability**
+
+The foreign person responsible and the foreign members of the JIT, as well as the foreign experts and auxiliary personnel under Article 80*d*<sup>ter</sup> paragraph 5 are deemed equivalent to the Swiss person responsible and the Swiss members of the JIT during an operation on Swiss national territory in relation to any offences committed against them or that they themselves commit. They are also deemed equivalent to them in relation to any injury, loss or damage that they cause during their operation.
+
+#### Art. 80d<sup>septies</sup>
+
+**Access to documents, information and evidence**
+
+<sup>1</sup>
+
+The persons responsible and members of the JIT shall have access to:
+
+- a. documents and information that are related to the relevant criminal investigation;
+- b. evidence that has been gathered in the course of the relevant criminal investigation.
+
+<sup>2</sup> They shall be denied access to documents, information and evidence if a decision to that effect has been taken by a person responsible for the JIT or by a criminal or mutual assistance authority. The foregoing also applies if the documents, information or evidence were obtained before the JIT was appointed.
+
+<sup>3</sup> The experts and auxiliary personnel under Article 80*d*<sup>ter</sup> paragraph 5 shall have access only to documents, information and evidence that are required for them to fulfil the tasks assigned to them.
+
+#### Art. 80d<sup>octies</sup>
+
+**Early transmission**
+
+The early transmission of documents, information and evidence that are to located on Swiss sovereign territory is governed by Article 80*d*<sup>bis</sup>.
+
+#### Art. 80d<sup>novies</sup>
+
+**Confidentiality and data protection**
+
+<sup>1</sup> The confidentiality of the information, including the confidentiality of the investigation, must be preserved.
+
+<sup>2</sup> The protection of personal data is governed by the law of the state in which the investigative measure is carried out.
+
+#### Art. 80d<sup>decies</sup>
+
+**Dealings with the media**
+
+If the bodies normally competent to do so in the judicial authorities concerned intend to issue a press release, the Swiss criminal or mutual assistance authority and its foreign partner authority shall discuss the content beforehand.
+
+#### Art. 80d<sup>undecies</sup>
+
+**Costs**
+
+<sup>1</sup> The costs of the investigative activities shall be borne by the state in which the act concerned is carried out.
+
+<sup>2</sup> The costs related to time spent in the other country, travel and accommodation for the persons responsible and the other members of the JIT shall be borne by their own country.
+
+<sup>3</sup> The rooms and the technical resources required to conduct the investigative activities, such as office space, communication media or special equipment, shall be provided by the state in which the activity concerned is carried out.
+
+#### Art. 80d<sup>duodecies</sup>
+
+**Act of appointment**
+
+<sup>1</sup>
+
+The act of appointment must include the following information:
+
+- a. the purpose of the JIT;
+- b. the names of the Swiss and the foreign criminal or mutual assistance authorities;
+- c. the names of the persons responsible for each state participating in the JIT and the names of the other members of the JIT and their functions;
+- d. the criminal investigation, including the factual circumstances, that is the subject matter of the criminal investigation, and the offences under investigation;
+- e. the states on whose territory the JIT will conduct investigations in accordance with the relevant national law;
+- f. the duration for which the JIT is appointed, with the date on which this period ends;
+- g. the names of any experts and auxiliary personnel who are not members of the JIT, in particular of those who come from other services or administrative units in the participating states, as well as the names of any experts and auxiliary personnel from Eurojust and Europol;
+- h. the procedure for dealings with the media;
+- i. the arrangements for bearing the costs of the criminal investigation and investigative activities;
+- j. the arrangements for bearing the costs of time spent in the other country, travel and accommodation for the persons responsible, the other members of the JIT and the experts and auxiliary personnel;
+- k. the technical resources required to conduct the operations.
+
+<sup>2</sup> The act of appointment may be amended if the investigations so require. In particular, further members may be added to the JIT or the time limit may be extended.
+
 ### Section 3**** Appeal
 
 [^part3-chap2-sec3-1]
@@ -1692,11 +1828,11 @@ The requesting State shall be charged for:
 - a. the remuneration of experts;
 - b. the return of objects or assets for the purpose of restitution to the person entitled.
 
-#### Art. 8–84
+#### Art. 81–84
 
-[^884-1]
+[^8184-1]
 
-[^884-1]: Repealed by No I of the FA of 4 Oct. 1996, with effect from 1 Feb. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
+[^8184-1]: Repealed by No I of the FA of 4 Oct. 1996, with effect from 1 Feb. 1997 ([AS 1997 114](https://fedlex.data.admin.ch/eli/oc/1997/114_114_114); [BBl 1995 III 1](https://fedlex.data.admin.ch/eli/fga/1995/3_1_1_1)).
 
 ## Part Four Transfer of Proceedings
 
