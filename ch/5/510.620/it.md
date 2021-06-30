@@ -4,11 +4,11 @@ title: Ordinanza del 21 maggio 2008 sulla geoinformazione (OGI)
 short: OGI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: it
-version: 2021-03-01
+version: 2021-07-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2008-389-20210301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2008-389-20210701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210301/it"
 
 (OGI)
 
-del 21 maggio 2008 (Stato 1° marzo 2021) (Stato 1° marzo 2021)
+del 21 maggio 2008 (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -757,13 +757,13 @@ Per il passaggio del sistema e del quadro di riferimento planimetrici da CH1903/
 
 La presente ordinanza entra in vigore il 1° luglio 2008.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1 cpv. 2)
 
 ## Catalogo dei geodati di base del diritto federale
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 28 mar. 2012 ([RU 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)[5523](https://fedlex.data.admin.ch/eli/oc/2012/636)). Aggiornato dal n. II 2 dell’O del 27 giu. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), dall’art. 30 n. 2 dell’O del 23 ott. 2013 sui sistemi d’informazione nel campo dell’agricoltura ([RU 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)) e dall’all. n. II 2 dell’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), dal n. III dell’O del 28 ott. 2015 ([RU 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), dall’all. 6 n. 1 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’all. n. II 1 dell’O del 17 ago. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), dall’all. 2 n. II 2 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. II dell’O del 15 nov. 2017 ([RU 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), dall’all. 8 n. 2 dell’O del 31 ott. 2018 sulla sulla salute dei vegetali ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), dal n. I dell’O del 3 apr. 2019 ([RU 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), del 16 ott. 2019 ([RU 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), dal n. III dell’O del 17 ott. 2018 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)) e dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 28 mar. 2012 ([RU 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)[5523](https://fedlex.data.admin.ch/eli/oc/2012/636)). Aggiornato dal n. II 2 dell’O del 27 giu. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), dall’art. 30 n. 2 dell’O del 23 ott. 2013 sui sistemi d’informazione nel campo dell’agricoltura ([RU 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)) e dall’all. n. II 2 dell’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), dal n. III dell’O del 28 ott. 2015 ([RU 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), dall’all. 6 n. 1 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’all. n. II 1 dell’O del 17 ago. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), dall’all. 2 n. II 2 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. II dell’O del 15 nov. 2017 ([RU 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), dall’all. 8 n. 2 dell’O del 31 ott. 2018 sulla sulla salute dei vegetali ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), dal n. I dell’O del 3 apr. 2019 ([RU 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), del 16 ott. 2019 ([RU 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), dal n. III dell’O del 17 ott. 2018 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), dal n. I dell’O del 25 nov. 2020 ([RU 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)) e dall’all. 2 n. 1 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, in vigore dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 <table>
 <tr><th>Denominazione</th><th>Base giuridica</th><th>Servizio competente (RS *510.62* art. 8 cpv. 1) [servizio specializzato della Confederazione]</th><th>Geodati di riferimento</th><th>Catasto delle restrizioni di diritto pubblico della proprietà</th><th>Livello di autorizzazione all'accesso</th><th>Servizio di telecaricamento</th><th>Identificatore</th></tr>
@@ -969,6 +969,10 @@ Allegato 1*[^t-1]*
 <tr><td>Impianti elettrici con una tensione nominale superiore a 36 kV</td><td>RS *734.0* art. 26*a*</td><td>Gestori degli impianti [UFE]</td><td></td><td></td><td>A</td><td>X</td><td>219</td></tr>
 <tr><td>Mappe di inondazione per impianti di accumulazione sottoposti a vigilanza federale</td><td>RS *721.101* art. 2, 3 cpv. 2, 10, 22, 24 RS *721.101.1* art. 25 cpv. 1 lett. a</td><td>Gestori degli impianti [UFE]</td><td></td><td></td><td>B</td><td></td><td>220</td></tr>
 <tr><td>Impianti di produzione dell’elettricità</td><td>RS *730.0* art. 56 cpv. 1 lett. h RS *730.01* art. 69*a*</td><td>UFE</td><td></td><td></td><td>A</td><td>X</td><td>221</td></tr>
+<tr><td>Impianti di trasporto in condotta</td><td>RS *746.12* art. 45</td><td>Esercente [UFE]</td><td></td><td></td><td>A</td><td>X</td><td>222</td></tr>
+<tr><td>Impianti di trasporto in condotta: perimetri di protezione</td><td>RS *746.12* art. 44</td><td>Esercente [UFE]</td><td></td><td></td><td>A</td><td>X</td><td>223</td></tr>
+<tr><td>Posizione e perimetri di protezione degli impianti di trasporto in condotta nel settore delle opere militari</td><td>RS *746.12* art. 44, 45</td><td>DDPS [UFE]</td><td></td><td></td><td>B</td><td></td><td>224</td></tr>
+<tr><td>Posizione e perimetri di protezione degli impianti di trasporto in condotta nel settore delle opere militari protette ai sensi della legge federale concernente la protezione delle opere militari</td><td>RS *510.518* art. 1 RS *746.12* art. 44, 45</td><td>DDPS [UFE]</td><td></td><td></td><td>C</td><td></td><td>225</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [[RU 1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101), [2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)art. 26 lett. c].

@@ -4,11 +4,11 @@ title: Ordonnance du 21 mai 2008 sur la géoinformation (OGéo)
 short: OGéo
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: fr
-version: 2021-03-01
+version: 2021-07-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-389-20210301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-389-20210701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210301/fr"
 
 (OGéo)
 
-du 21 mai 2008 (Etat le 1<sup>er</sup> mars 2021)
+du 21 mai 2008 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -762,13 +762,13 @@ Annexe 1[^t-1]
 
 ## Catalogue des géodonnées de base relevant du droit fédéral
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 mars 2012 ([RO 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Mise à jour par le ch. II de l’O du 27 juin 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), l’art. 30 ch. 2 de l’O du 23 oct. 2013 sur les systèmes d’information dans le domaine de l’agriculture ([RO 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), l’annexe ch. II 2 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), le ch. III de l’O du 28 oct. 2015 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), l’annexe 6 ch. 1 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), l’annexe ch. II 1 de l’O du 17 août 2016 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), l’annexe 2 ch. II 2 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. II de l’O du 15 nov. 2017 ([RO 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), l’annexe 8 ch. 2 de l’O du 31 oct. 2018 sur la santé des végétaux ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), le ch. I des O du 3 avril 2019 ([RO 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)) et du 16 oct. 2019 ([RO 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), le ch. III de l’O du 17 oct. 2018 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)) et le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 mars 2012 ([RO 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Mise à jour par le ch. II de l’O du 27 juin 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), l’art. 30 ch. 2 de l’O du 23 oct. 2013 sur les systèmes d’information dans le domaine de l’agriculture ([RO 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), l’annexe ch. II 2 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), le ch. III de l’O du 28 oct. 2015 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), l’annexe 6 ch. 1 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), l’annexe ch. II 1 de l’O du 17 août 2016 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), l’annexe 2 ch. II 2 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. II de l’O du 15 nov. 2017 ([RO 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), l’annexe 8 ch. 2 de l’O du 31 oct. 2018 sur la santé des végétaux ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), le ch. I des O du 3 avril 2019 ([RO 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)) et du 16 oct. 2019 ([RO 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), le ch. III de l’O du 17 oct. 2018 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), le ch. I de l’O du 25 nov. 2020 ([RO 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)) et l’annexe 2 ch. 1 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 
 <table>
 <tr><th>Désignation</th><th>Base légale</th><th>Service compétent (RS *510.62*, art. 8, al. 1) [Service spécialisé de la Confédération]</th><th>Géodonnées de référence</th><th>Cadastre RDPPF</th><th>Niveau d'autorisation d'accès</th><th>Service de télé-chargement</th><th>Identificateur</th></tr>
 <tr><td>Convention pour la protection du patrimoine mondial culturel et naturel (UNESCO sites naturels)</td><td>RS *0.451.41*</td><td>OFEV</td><td></td><td></td><td>A</td><td>X</td><td>1</td></tr>
 <tr><td>Convention relative aux zones humides d’importance internationale, particulièrement comme habitats des oiseaux d’eau (Convention de Ramsar)</td><td>RS *0.451.45*</td><td>OFEV</td><td></td><td></td><td>A</td><td>X</td><td>2</td></tr>
-<tr><td>Convention des Alpes</td><td>RS 0.700.1</td><td>ARE</td><td></td><td></td><td>A</td><td>X</td><td>3</td></tr>
+<tr><td>Convention des Alpes</td><td>RS *0.700.1*</td><td>ARE</td><td></td><td></td><td>A</td><td>X</td><td>3</td></tr>
 <tr><td>Cartes conformes au droit de la navigation aérienne (Cartes et plans aéronautiques)</td><td>RS *0.748.0* art. 37 RS *510.626.1* art. 10</td><td>swisstopo [OFAC]</td><td></td><td></td><td>A</td><td></td><td>4</td></tr>
 <tr><td>Données aéronautiques</td><td>RS *0.748.0* art. 37, annexes 4, 11, 14 et 15</td><td>OFAC</td><td></td><td></td><td>A</td><td></td><td>5</td></tr>
 <tr><td>Registre foncier: désignation de l’immeuble, descriptif de l’immeuble, propriétaire, forme de propriété, date d’acquisition</td><td>RS *210* art. 949*a*, al. 3, 970, al. 2 RS *211.432.1* art. 26, al. 1, let. a, 27</td><td>Cantons [OFJ]</td><td></td><td></td><td>A</td><td></td><td>7</td></tr>
@@ -968,6 +968,10 @@ Annexe 1[^t-1]
 <tr><td>Installations électriques d’une tension nominale supérieure à 36 kV</td><td>RS *734.0* art. 26*a*</td><td>Exploitants de réseaux [OFEN]</td><td></td><td></td><td>A</td><td>X</td><td>219</td></tr>
 <tr><td>Cartes d’inondation concernant les barrages sous surveillance de la Confédération</td><td>RS *721.101* art. 2, 3, al. 2, 10, 22, 24 RS *721.101.1* art. 25, al. 1, let. a</td><td>Exploitants de réseaux [OFEN]</td><td></td><td></td><td>B</td><td></td><td>220</td></tr>
 <tr><td>Installations de production d’électricité</td><td>RS *730.0* art. 56, al. 1, let. h RS *730.01* art. 69*a*</td><td>OFEN</td><td></td><td></td><td>A</td><td>X</td><td>221</td></tr>
+<tr><td>Installations de transport par conduites</td><td>RS *746.12* art. 45</td><td>Exploitant d’installation [OFEN]</td><td></td><td></td><td>A</td><td>X</td><td>222</td></tr>
+<tr><td>Installations de transport par conduites: périmètres de protection</td><td>RS *746.12* art. 44</td><td>Exploitant d’installation [OFEN]</td><td></td><td></td><td>A</td><td>X</td><td>223</td></tr>
+<tr><td>Emplacement et périmètres de protection des installations de transport par conduites – domaine des installations militaires</td><td>RS *746.12* art. 44, 45</td><td>DDPS [OFEN]</td><td></td><td></td><td>B</td><td></td><td>224</td></tr>
+<tr><td>Emplacement et périmètres de protection des installations de transport par conduites – domaine des installations militaires protégées au sens de la loi fédérale concernant la protection des ouvrages militaires</td><td>RS *510.518* art. 1 RS *746.12* art. 44, 45</td><td>DDPS [OFEN]</td><td></td><td></td><td>C</td><td></td><td>225</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [[RO 1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101), [2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732), art. 26, let. c].
