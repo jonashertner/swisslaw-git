@@ -3,11 +3,11 @@ sr: "0.632.316.821"
 title: "Accordo di libero scambio del 17 dicembre 2009 tra gli Stati dell'AELS e la Repubblica di Serbia (con allegati, protocolli e dich.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/605"
 language: it
-version: 2020-01-01
+version: 2021-07-01
 adopted: 2009-12-17
 in_force: 2010-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/605/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2010-605-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/605/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/605/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2010-605-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/605/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,9 +18,15 @@ RU **2010** 4137; FF **2010** 393
 
 Traduzione
 
-Concluso a Ginevra il 17 dicembre 2009 Approvato dall’Assemblea federale il 15 marzo 2010[^t-1] Ratificato con strumenti depositati dalla Svizzera il 15 aprile 2010 Entrato in vigore per la Svizzera il 1°ottobre 2010
+Concluso a Ginevra il 17 dicembre 2009
 
-(Stato 1° gennaio 2020)
+Approvato dall’Assemblea federale il 15 marzo 2010[^t-1]
+
+Ratificato con strumenti depositati dalla Svizzera il 15 aprile 2010
+
+Entrato in vigore per la Svizzera il 1°ottobre 2010
+
+(Stato 1° luglio 2021)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 15 mar. 2010 ([RU 2010 4135](https://fedlex.data.admin.ch/eli/oc/2010/604)).
 
@@ -854,7 +860,7 @@ Art. 55 Depositario
 
 [^annexu1-lvlu2-1]
 
-[^annexu1-lvlu2-1]: Non pubblicati nella RU ([RU 2019 5057](https://fedlex.data.admin.ch/eli/oc/2019/799)). Disponibili solo in inglese e possono essere consultati sul sito Internet dell’AELS, all’indirizzo seguente: http://www.efta.int/free-trade/free-trade-agreements/serbia/.
+[^annexu1-lvlu2-1]: Non pubblicati nella RU ([RU 2019 5057](https://fedlex.data.admin.ch/eli/oc/2019/799); [2021 335](https://fedlex.data.admin.ch/eli/oc/2021/335)). Possono essere ottenute in versione originale inglese presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni, 3003 Berna. È inoltre disponibile sul sito Internet del Segretariato dell’AELS: www.efta.int/free-trade/Free-Trade-Agreement/Serbia.
 
 <table>
 <tr><td>**Annex I**</td><td colspan="2">Referred to in Subparagraph 1 (a) of Article 6 – Excluded products</td></tr>
@@ -879,5 +885,7 @@ Art. 55 Depositario
 <tr><td></td><td colspan="2">Appendix 4B to Protocol B – Text of the invoice declaration EUR-MED</td></tr>
 <tr><td></td><td colspan="2">Appendix 5 to Protocol B – List of countries or territories participating in the Euro-Mediterranean Partnership based on the Barcelona Declaration</td></tr>
 <tr><td colspan="2">***Joint Committee Decisions***</td><td></td></tr>
+<tr><td colspan="2">No 2-18</td><td>Amending Annex IV</td></tr>
+<tr><td colspan="2">No 1-18</td><td>Amending Protocol B</td></tr>
 <tr><td colspan="2">No 1-12</td><td>Rules of Procedure</td></tr>
 </table>

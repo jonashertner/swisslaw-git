@@ -3,11 +3,11 @@ sr: "0.632.316.821"
 title: "Freihandelsabkommen vom 17. Dezember 2009 zwischen den EFTA-Staaten und der Republik Serbien (mit Anhängen, Prot. und Erkl.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/605"
 language: de
-version: 2020-01-01
+version: 2021-07-01
 adopted: 2009-12-17
 in_force: 2010-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/605/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2010-605-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/605/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/605/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2010-605-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/605/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen in Genf am 17. Dezember 2009 Von der Bundesversammlung genehmigt a
 
 Schweizerische Ratifikationsurkunde hinterlegt am 15. April 2010 Für die Schweiz in Kraft getreten am 1. Oktober 2010
 
-(Stand am 1. Januar 2020)
+(Stand am 1. Juli 2021)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 15. März 2010 ([AS 2010 4135](https://fedlex.data.admin.ch/eli/oc/2010/604))
 
@@ -432,7 +432,7 @@ Bei bestehenden oder drohenden schwerwiegenden Zahlungsbilanzschwierigkeiten ein
 
 Es herrscht Einvernehmen darüber, dass die Pflichten nach diesem Kapitel die gerechte, nichtdiskriminierende und nach Treu und Glauben erfolgte Anwendung von Massnahmen gemäss Gerichtsbeschlüssen oder -urteilen und Verwaltungsverfahren nicht berühren. Ebenso herrscht Einvernehmen darüber, dass das Recht eines Investors, Beträge im Zusammenhang mit seiner Investition frei zu transferieren, die Steuerpflicht eines solchen Investors unberührt lässt.
 
-## 6. Kapitel:**** Handel und nachhaltige Entwicklung
+## 6. Kapitel: Handel und nachhaltige Entwicklung
 
 [^chap6-1]
 
@@ -538,7 +538,7 @@ Die Vertragsparteien sind bestrebt, ihre Zusammenarbeit hinsichtlich handels- un
 
 Die Vertragsparteien überprüfen im Gemischten Ausschuss regelmässig den Fortschritt, der bei der Verfolgung der in diesem Kapitel aufgeführten Ziele erreicht wurde, und tragen entsprechenden internationalen Entwicklungen Rechnung, um Bereiche zu ermitteln, in denen weitere Massnahmen diese Ziele fördern könnten.
 
-## 7. Kapitel:**** Institutionelle Bestimmungen
+## 7. Kapitel: Institutionelle Bestimmungen
 
 [^chap7-1]
 
@@ -847,7 +847,7 @@ Art. 55 Depositar
 
 [^annexu1-lvlu2-1]
 
-[^annexu1-lvlu2-1]: Diese Dokumente sind in der AS nicht veröffentlicht ([AS 2019 5057](https://fedlex.data.admin.ch/eli/oc/2019/799)). Sie sind nur in englischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: http://www.efta.int/free-trade/free-trade-agreements/serbia/
+[^annexu1-lvlu2-1]: Diese Dokumente sind in der AS nicht veröffentlicht ([AS 2019 5057](https://fedlex.data.admin.ch/eli/oc/2019/799); [2021 335](https://fedlex.data.admin.ch/eli/oc/2021/335)). Sie sind nur in englischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int/free-trade/free-trade-agreements/serbia/
 
 <table>
 <tr><td>**Annex I**</td><td>Referred to in Subparagraph 1 (a) of Article 6 – Excluded products</td></tr>
@@ -871,7 +871,8 @@ Art. 55 Depositar
 <tr><td></td><td>Appendix 4A to Protocol B – Text of the invoice declaration</td></tr>
 <tr><td></td><td>Appendix 4B to Protocol B – Text of the invoice declaration EUR-MED</td></tr>
 <tr><td></td><td>Appendix 5 to Protocol B – List of countries or territories participating in the Euro-Mediterranean Partnership based on the Barcelona Declaration</td></tr>
-<tr><td>***Joint Commi******t******tee Decisions***</td><td></td></tr>
+<tr><td>***Joint Committee Decisions***</td><td></td></tr>
+<tr><td>No 2-18</td><td>Amending Annex IV</td></tr>
 <tr><td>No 1-18</td><td>Amending Protocol B</td></tr>
 <tr><td>No 1-12</td><td>Rules of Procedure</td></tr>
 </table>
