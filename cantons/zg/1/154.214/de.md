@@ -4,13 +4,13 @@ number: "154.214"
 title: Verordnung über die Arbeitszeit
 short: Arbeitszeitverordnung
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
+version: 2021-07-01
+valid_until: 2023-12-31
 version_adopted: 2020-12-15
 adopted: 2011-10-04
 in_force: 2012-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.214"
-pdf: "https://bgs.zg.ch/api/de/versions/2201/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2241/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2201/pdf_file"
 
 (Arbeitszeitverordnung)
 
-Vom 4. Oktober 2011 (Stand 1. Januar 2021)
+Vom 4. Oktober 2011 (Stand 1. Juli 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -251,7 +251,8 @@ beschliesst:
 
 - a) obligatorische Dienstleistungen und Beförderungsdienste;
 - b) Mutterschaftsurlaub;
-- c) Vaterschaftsurlaub.
+- c) Vaterschaftsurlaub;
+- d) Betreuungsurlaub.
 
 #### § 21
 
@@ -305,6 +306,24 @@ beschliesst:
 <sup>2</sup> Der Vaterschaftsurlaub muss innert sechs Monaten nach der Geburt des Kindes bezogen werden.
 
 <sup>3</sup> Er kann wochen- oder tageweise bezogen werden.
+
+#### § 24b
+
+**Urlaub für die Betreuung eines gesundheitlich schwer beeinträchtigten Kindes**
+
+<sup>1</sup> Hat die Mitarbeiterin oder der Mitarbeiter Anspruch auf eine Betreuungsentschädigung nach den Art. 16n–16s EOG[^24b-1], weil ihr oder sein Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, so hat sie oder er Anspruch auf einen bezahlten Betreuungsurlaub von höchstens 14 Wochen.
+
+<sup>2</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
+
+<sup>3</sup> Haben beide Eltern Anspruch auf die Betreuungsentschädigung, so hat jeder Elternteil Anspruch auf einen Betreuungsurlaub von höchstens sieben Wochen. Sie können eine abweichende Aufteilung des Urlaubs wählen.
+
+<sup>4</sup> Der Urlaub kann am Stück oder tageweise bezogen werden.
+
+<sup>5</sup> Die vorgesetzte Stelle ist über die Modalitäten des Urlaubsbezugs sowie über Änderungen unverzüglich zu informieren.
+
+<sup>6</sup> Nach Ablauf der Probezeit darf der Kanton das Arbeitsverhältnis nicht kündigen, solange der Anspruch auf Betreuungsurlaub besteht, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt. Die Kündigung, die während dieser Sperrfrist erklärt wird, ist nichtig; ist dagegen die Kündigung vor Beginn einer solchen Frist erfolgt, aber die Kündigungsfrist bis dahin noch nicht abgelaufen, so wird deren Ablauf unterbrochen und erst nach Beendigung der Sperrfrist fortgesetzt.
+
+[^24b-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
 #### § 25
 
