@@ -4,11 +4,11 @@ title: Ordonnance du 24 novembre 2004 sur les allocations pour perte de gain (OA
 short: OAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20210101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20210701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20210101/fr"
 
 (RAPG)
 
-du 24 novembre 2004 (Etat le 1<sup>er</sup> janvier 2021)
+du 24 novembre 2004 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -74,20 +74,24 @@ L’Office fédéral du sport désigne les cours qui, conformément à l’art. 
 
 <sup>1</sup>
 
-L’allocation est calculée sur la base du dernier salaire déterminant acquis avant l’entrée en service et converti en gain journalier moyen. Ne sont pas pris en compte dans la détermination du gain les jours pour lesquels une personne n’a pas pu obtenir un salaire ou dont le salaire a été diminué en raison:
+L’allocation des salariés est calculée sur la base du dernier salaire déterminant acquis avant l’entrée en service et converti en gain journalier moyen. Ne sont pas pris en compte dans la détermination du gain les jours pour lesquels une personne n’a pas perçu de salaire ou dont le salaire a été diminué en raison:[^4-1]
 
 - a. d’une maladie;
 - b. d’un accident;
 - c. d’une période de chômage;
 - d. d’une période de service au sens de l’art. 1*a* LAPG;
 - e. d’une période de maternité;
-- f. d’autres motifs n’impliquant aucune faute de sa part.
+- f. [^4-2] de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art.16*o* LAPG;
+- g. [^4-3] d’autres motifs n’impliquant aucune faute de sa part.
 
 <sup>2</sup> Pour les personnes qui rendent vraisemblable que, durant le service, elles auraient entrepris une activité salariée de longue durée ou gagné sensiblement plus qu’avant d’entrer en service, l’allocation est calculée d’après le revenu qu’elles ont perdu. Pour les personnes qui ont achevé leur formation professionnelle immédiatement avant d’entrer en service et pour celles qui l’auraient achevée pendant la période où elles effectuent leur service, l’allocation est calculée sur la base du salaire initial versé selon l’usage local dans la profession concernée.
 
-<sup>3</sup> Pour les membres de la famille qui travaillent avec l’exploitant sans recevoir de salaire en espèces et qui accomplissent un service avant le 1<sup>er</sup> janvier de l’année suivant celle au cours de laquelle ils ont atteint l’âge de 20 ans, l’allocation est calculée d’après le salaire global déterminé selon l’art. 14, al. 3, du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^4-1].
+<sup>3</sup> Pour les membres de la famille qui travaillent avec l’exploitant sans recevoir de salaire en espèces et qui accomplissent un service avant le 1<sup>er</sup> janvier de l’année suivant celle au cours de laquelle ils ont atteint l’âge de 20 ans, l’allocation est calculée d’après le salaire global déterminé selon l’art. 14, al. 3, du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^4-4].
 
-[^4-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-3]: Introduite par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 5
 
@@ -130,13 +134,25 @@ Le gain journalier moyen acquis avant le service est déterminé de la façon su
 
 ### (art. 11 LAPG)
 
-<sup>1</sup> Pour les personnes exerçant une activité indépendante, l’allocation est calculée d’après le revenu, converti en revenu moyen, qui a servi de base à la dernière décision de cotisations à l’AVS rendue avant l’entrée en service. L’allocation est ajustée sur demande si, par la suite, une nouvelle décision de cotisation est prise pour l’année pendant laquelle le service a été accompli.
+<sup>1</sup>
+
+L’allocation des personnes exerçant une activité indépendante est calculée d’après le revenu, converti en revenu moyen, qui a servi de base à la dernière décision de cotisations à l’AVS rendue avant l’entrée en service. Ne sont pas prises en compte dans la détermination du gain les périodes pour lesquelles une personne n’a pas perçu de revenu ou dont le revenu a été diminué en raison:
+
+- a. d’une maladie;
+- b. d’un accident;
+- c. d’une période de service au sens de l’art. 1*a* LAPG;
+- d. d’une période de maternité;
+- e. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16*o* LAPG. [^7-1]
+
+<sup>1bis</sup> L’allocation est ajustée sur demande si, par la suite, une nouvelle décision de cotisation est prise pour l’année pendant laquelle le service a été accompli.[^7-2]
 
 <sup>2</sup> Pour les personnes qui rendent vraisemblable qu’elles auraient entrepris une activité indépendante de longue durée pendant la période du service, l’allocation est calculée d’après le revenu qu’elles auraient pu obtenir.
 
-<sup>3</sup> Si une personne exerçant une activité indépendante n’est pas astreinte à payer des cotisations en vertu de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^7-1],son allocation est calculée d’après le revenu acquis au cours de l’année précédant celle de l’entrée en service.
+<sup>3</sup> Si une personne exerçant une activité indépendante n’est pas astreinte à payer des cotisations en vertu de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^7-3],son allocation est calculée d’après le revenu acquis au cours de l’année précédant celle de l’entrée en service.
 
-[^7-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-2]: Introduit par le ch.I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 8
 
@@ -355,24 +371,13 @@ La caisse de compensation compétente pour le dépôt de la demande, pour la fix
 
 #### Art. 24
 
-**Report de l’allocation de la mère en cas d’hospitalisation prolongée du nouveau-né**
+**Durée du versement de l’allocation de maternité en cas d’hospitalisation prolongée du nouveau-né**[^24-1]
 
-### (art. 16*c*, al. 2, LAPG)
+### (art. 16*c*, al. 3 LAPG)
 
-[^24-1]
+La preuve que le nouveau-né doit rester en milieu hospitalier de manière ininterrompue durant deux semaines au moins suivant immédiatement la naissance doit être fournie au moyen d’un certificat médical.
 
-<sup>1</sup>
-
-Le début du droit de la mère à l’allocation est reporté:[^24-2]
-
-- a.[^24-3] si elle en fait la demande selon l’art. 16*c*, al. 2, LAPG, et
-- b. s’il est attesté par un certificat médical que le nouveau-né doit rester en milieu hospitalier durant trois semaines au moins suivant immédiatement la naissance.
-
-<sup>2</sup> Le report du droit prend effet au jour de la naissance et prend fin lorsque le nouveau-né retourne auprès de sa mère ou décède.
-
-[^24-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^24-2]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^24-3]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^24-1]: Nouvelle teneur selon le ch.I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
 #### Art. 25
 
@@ -463,16 +468,24 @@ La mère qui est au chômage au moment de l’accouchement ou qui, en raison d�
 - a. si elle a perçu des indemnités de l’assurance-chômage jusqu’à l’accouchement, ou
 - b. si elle remplissait la condition de la période de cotisation nécessaire prévue par la loi fédérale du 25 juin 1982 sur l’assurance-chômage[^29-2] pour percevoir des indemnités au moment de l’accouchement.
 
+<sup>1bis</sup>
+
+La mère selon l’al. 1, let. a, a droit à une prolongation du versement de l’allocation de maternité (art. 16*c*, al. 3 LAPG):
+
+- a. si elle n’a pas perçu la totalité des indemnités journalières de l’assurance-chômage avant l’accouchement et que le délai-cadre d’indemnisation court encore le jour suivant la fin du congé de maternité, et
+- b. si elle présente un certificat médical selon l’art. 24.[^29-3]
+
 <sup>2</sup>
 
 Le père qui est au chômage au moment de la naissance de l’enfant ou qui, en raison d’une période de chômage, ne remplit pas la condition de la durée d’activité lucrative minimale prévue par l’art. 16*i*, al. 1, let. c, LAPG a droit à l’allocation:
 
 - a. s’il a perçu des indemnités de l’assurance-chômage jusqu’à la naissance de l’enfant, ou
-- b. si, le jour de la naissance de l’enfant, il effectuait un service au sens de l’art. 1*a* LAPG et remplissait la condition de la période de cotisation nécessaire prévue par la loi sur l’assurance-chômage pour percevoir des indemnités.[^29-3]
+- b. si, le jour de la naissance de l’enfant, il effectuait un service au sens de l’art. 1*a* LAPG et remplissait la condition de la période de cotisation nécessaire prévue par la loi sur l’assurance-chômage pour percevoir des indemnités.[^29-4]
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^29-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^29-3]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^29-3]: Introduit par le ch.I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^29-4]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
 #### Art. 30
 
@@ -592,6 +605,146 @@ La caisse de compensation compétente pour le dépôt de la demande et pour la f
 [^35-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^35-4]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^35-5]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+
+## Chapitre 2*a***** Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident
+
+[^chap3-1]
+
+[^chap3-1]: Introduit par le ch.I de l’O du 12 mai 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)), en vigueur depuis le 1<sup>er</sup> juil. 2021.
+
+### Section 1 Droit des parents nourriciers, des beaux-parents et des mères ou pères au chômage ou en incapacité de travail
+
+#### Art. 35a
+
+**Parents nourriciers**
+
+### (art. 16*n* LAPG)
+
+<sup>1</sup> Les parents nourriciers qui ont recueilli l’enfant de manière durable à des fins d’entretien et d’éducation ont droit à l’allocation selon l’art. 16*n*, al. 1 et 2, LAPG.
+
+<sup>2</sup> Le droit des parents nourriciers s’éteint si l’enfant retourne chez l’un de ses parents.
+
+#### Art. 35b
+
+**Beaux-parents**
+
+### (art. 16*n* LAPG)
+
+La belle-mère ou le beau-père a droit à l’allocation selon l’art. 16*n*, al. 1 et 2, LAPG:
+
+- a. si elle ou il fait ménage commun avec l’autre parent, qui a l’autorité parentale et la garde de l’enfant, et contribue de façon appropriée à l’entretien et à l’éducation de l’enfant, et
+- b. si un des parents renonce complètement à son droit, pour autant qu’un lien de filiation existe envers les deux parents.
+
+#### Art. 35c
+
+**Mères ou pères au chômage**
+
+### (art. 16*n* LAPG)
+
+Le droit à l’allocation de la mère ou du père au chômage est régi par l’art. 16*n*, al. 1 et 2, LAPG lorsque la prise en charge de l’enfant requiert sa présence et qu’elle ou il a perçu une indemnité journalière de l’assurance-chômage jusqu’au début de son droit à l’allocation.
+
+#### Art. 35d
+
+**Mères ou pères en incapacité de travail**
+
+### (art. 16*n* LAPG)
+
+<sup>1</sup>
+
+Le droit à l’allocation de la mère ou du père en incapacité de travail est régit par l’art. 16*n*, al. 1 et 2, LAPG lorsque la prise en charge de l’enfant requiert sa présence et:
+
+- a. qu’elle ou il a perçu, jusqu’au début du droit à l’allocation, des indemnités journalières de l’assurance-invalidité ou une allocation pour perte de gain en cas de maladie ou d’accident d’une assurance sociale ou privée, ou
+- b. qu’au début du droit à l’allocation, elle ou il était partie à un rapport de travail encore valable et avait précédemment épuisé son droit au salaire.
+
+### Section 2 Calcul de l’allocation
+
+#### Art. 35e
+
+**Répartition entre les parents**
+
+### (art. 16*q*, al. 4, LAPG)
+
+Si le congé de prise en charge est réparti entre les parents, les allocations sont calculées séparément pour chaque parent.
+
+#### Art. 35f
+
+**Allocation des salariés**
+
+### (art. 16*r* LAPG)
+
+<sup>1</sup>
+
+L’allocation est calculée sur la base du dernier salaire déterminant acquis avant la perception des jours de congé correspondants et converti en gain journalier moyen. Ne sont pas pris en compte dans la détermination du gain les jours pour lesquels l’ayant droit n’a pas perçu de salaire ou dont le salaire a été diminué en raison:
+
+- a. d’une maladie;
+- b. d’un accident;
+- c. d’une période de chômage;
+- d. d’une période de service au sens de l’art. 1*a* LAPG;
+- e. d’une période de maternité;
+- f. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’’art. 16*o* LAPG;
+- g. d’autres motifs n’impliquant aucune faute de sa part.
+
+<sup>2</sup> L’indemnité journalière est recalcuée s’il y a un changement du salaire déterminant durant les jours de congé.
+
+<sup>3</sup> Les art. 5 et 6 s’appliquent par analogie.
+
+#### Art. 35g
+
+**Allocation des personnes exerçant une activité indépendante**
+
+### (art. 16*r* LAPG)
+
+L’art. 7, al. 1, s’applique par analogie au calcul de l’allocation revenant à la personne qui exerce une activité indépendante.
+
+#### Art. 35h
+
+**Allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante**
+
+### (art. 16*r* LAPG)
+
+L’allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante est calculée d’après la somme des revenus provenant de l’activité salariée, déterminés selon l’art. 35*f,* et de l’activité indépendante, déterminés selon l’art. 7, al. 1.
+
+### Section 3 Exercice du droit, fixation et paiement de l’allocation
+
+#### Art. 35i
+
+**Caisse de compensation compétente**
+
+### (art. 17 à 19 LAPG)
+
+<sup>1</sup> La caisse de compensation compétente pour le dépôt de la demande, pour la fixation et le paiement des allocations est celle qui perçoit les cotisations au début du droit à l’allocation.
+
+<sup>2</sup> Si le congé de prise en charge est réparti entre les parents, la caisse de compensation compétente au début du droit à l’allocation le demeure pendant toute la durée du délai-cadre pour les deux parents.
+
+<sup>3</sup> Pour le dépôt de la demande, les salariés doivent agir par l’intermédiaire de leur employeur.
+
+#### Art. 35j
+
+**Attestations**
+
+### (art. 17 à 19 LAPG)
+
+<sup>1</sup> Pour les ayants droit qui exercent une activité salariée au moment de la naissance du droit à l’allocation, l’employeur atteste le montant du salaire déterminant pour le calcul de l’allocation, le montant du salaire versé durant la période d’indemnisation et la durée d’occupation.
+
+<sup>2</sup> Pour les ayants droit selon les art. 35*c* ou 35*d* qui exerçaient une activité avant la période de chômage ou d’incapacité de travail, le dernier employeur atteste le montant du salaire déterminant pour le calcul de l’allocation et la durée d’occupation.
+
+<sup>3</sup> L’employeur ou l’organe d’exécution de l’assurance-chômage atteste à la fin de chaque mois les jours de congé de prise en charge qui ont été pris.
+
+#### Art. 35k
+
+**Fixation et paiement de l’allocation**
+
+### (art. 17 à 19 LAPG)
+
+<sup>1</sup> L’art. 22 s’applique par analogie à la fixation de l’allocation.
+
+<sup>2</sup> L’allocation est payée mensuellement à terme échu. La compensation au sens de l’art. 19, al. 2, LPGA ou de l’art. 20, al. 2, LAVS[^35k-1] est réservée.
+
+<sup>3</sup> L’allocation est versée sur un compte bancaire ou postal.
+
+<sup>4</sup> Constituent des preuves du paiement les justificatifs internes des caisses, l’attestation d’exécution de Postfinance ou l’avis de débit de la banque.
+
+[^35k-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ## Chapitre 3 Dispositions communes
 

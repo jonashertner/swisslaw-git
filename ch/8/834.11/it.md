@@ -4,11 +4,11 @@ title: Ordinanza del 24 novembre 2004 sulle indennità di perdita di guadagno (O
 short: OIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20210101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20210701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20210101/it"
 
 (OIPG)
 
-del 24 novembre 2004 (Stato 1° gennaio 2021)
+del 24 novembre 2004 (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -74,20 +74,24 @@ L’Ufficio federale dello sport definisce quali sono i corsi che danno diritto 
 
 <sup>1</sup>
 
-L’indennità è calcolata sulla base dell’ultimo salario indicativo percepito prima dell’entrata in servizio, convertito in salario giornaliero medio. Per la conversione non si tiene conto dei giorni in cui la persona non ha percepito o ha percepito solo parzialmente un salario a causa di:
+L’indennità per lavoratori salariati è calcolata sulla base dell’ultimo salario determinante percepito prima dell’entrata in servizio, convertito in salario giornaliero medio. Per la conversione non si tiene conto dei giorni in cui la persona non ha percepito o ha percepito solo parzialmente un salario a causa di:[^4-1]
 
 - a. malattia;
 - b. infortunio;
 - c. disoccupazione;
 - d. servizio ai sensi dell’articolo 1*a* LIPG;
 - e. maternità;
-- f. altri motivi indipendenti dalla sua volontà.
+- f.[^4-2] assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
+- g.[^4-3] altri motivi indipendenti dalla sua volontà.
 
 <sup>2</sup> Per la persona che prova che nel corso del servizio avrebbe intrapreso un’attività lucrativa dipendente per un periodo più lungo o che avrebbe percepito un salario significativamente superiore a quello percepito prima dell’entrata in servizio, l’indennità è calcolata sulla base del salario che essa avrebbe potuto percepire. Se ha portato a termine la sua formazione subito prima dell’entrata in servizio o l’avrebbe conclusa durante il medesimo, l’indennità è calcolata sulla base del salario iniziale percepito di norma per la professione in questione nella regione in cui sarebbe stata esercitata.
 
-<sup>3</sup> Per chi collabora ad un’azienda della propria famiglia senza essere retribuito in termini monetari e presta servizio prima del 1° gennaio dell’anno successivo a quello in cui ha compiuto vent’anni, l’indennità è calcolata sulla base del salario mensile globale ai sensi dell’articolo 14 capoverso 3 dell’ordinanza del 31 ottobre 1947[^4-1] sull’assicurazione per la vecchiaia e per i superstiti (OAVS).
+<sup>3</sup> Per chi collabora ad un’azienda della propria famiglia senza essere retribuito in termini monetari e presta servizio prima del 1° gennaio dell’anno successivo a quello in cui ha compiuto vent’anni, l’indennità è calcolata sulla base del salario mensile globale ai sensi dell’articolo 14 capoverso 3 dell’ordinanza del 31 ottobre 1947[^4-4] sull’assicurazione per la vecchiaia e per i superstiti (OAVS).
 
-[^4-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^4-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-3]: Introdotta dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 5
 
@@ -130,13 +134,25 @@ Il reddito giornaliero medio percepito prima dell’entrata in servizio è calco
 
 ### (art. 11 LIPG)
 
-<sup>1</sup> L’indennità è calcolata sulla base del reddito determinante per l’ultimo contributo AVS prima dell’entrata in servizio, convertito in salario giornaliero medio. Se in seguito viene stabilito un altro contributo AVS per l’anno del servizio, può essere richiesto un nuovo calcolo dell’indennità.
+<sup>1</sup>
+
+L’indennità per lavoratori indipendenti è calcolata sulla base del reddito determinante per l’ultimo contributo AVS prima dell’entrata in servizio, convertito in salario giornaliero medio. Per la conversione non si tiene conto dei periodi in cui la persona non ha percepito o ha percepito solo parzialmente un reddito a causa di:
+
+- a. malattia;
+- b. infortunio;
+- c. servizio ai sensi dell’articolo 1*a* LIPG;
+- d. maternità;
+- e. assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG.[^7-1]
+
+<sup>1bis</sup> Se in seguito viene stabilito un altro contributo AVS per l’anno del servizio, può essere richiesto un nuovo calcolo dell’indennità.[^7-2]
 
 <sup>2</sup> Per la persona che prova che nel corso del servizio avrebbe intrapreso un’attività indipendente per un periodo più lungo, l’indennità è calcolata sulla base del reddito che avrebbe potuto conseguire.
 
-<sup>3</sup> Nel caso di un lavoratore indipendente che non è tenuto a pagare prima dell’entrata in servizio i contributi previsti dalla legge federale del 20 dicembre 1946[^7-1] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), l’indennità è calcolata sulla base del reddito conseguito durante l’anno precedente l’entrata in servizio.
+<sup>3</sup> Nel caso di un lavoratore indipendente che non è tenuto a pagare prima dell’entrata in servizio i contributi previsti dalla legge federale del 20 dicembre 1946[^7-3] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), l’indennità è calcolata sulla base del reddito conseguito durante l’anno precedente l’entrata in servizio.
 
-[^7-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-2]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 8
 
@@ -333,7 +349,7 @@ Competente per ricevere i formulari, fissare e pagare le indennità è:
 
 [^22-1]: [RS 831.111](https://fedlex.data.admin.ch/eli/cc/1961/419_429_439)
 
-## Capitolo 2: Indennità in caso di maternità e di paternità****
+## Capitolo 2: Indennità in caso di maternità e di paternità
 
 [^chap2-1]
 
@@ -355,23 +371,13 @@ Competente per ricevere i formulari, fissare e pagare le indennità è:
 
 #### Art. 24
 
-**Proroga del diritto all’indennità di maternità in caso di soggiorno ospedaliero prolungato del neonato**
+**Durata del versamento dell’indennità di maternità in caso di degenza ospedaliera prolungata del neonato**[^24-1]
 
-### (art. 16*c* cpv. 2 LIPG)
+### (art. 16*c* cpv. 3 LIPG)
 
-[^24-1]
+La prova che il neonato deve restare in ospedale per almeno due settimane consecutive immediatamente dopo la nascita deve essere fornita mediante un attestato medico.
 
-<sup>1</sup>
-
-L’inizio del diritto all’indennità di maternità è prorogato se:[^24-2]
-
-- a. la madre ne fa richiesta ai sensi dell’articolo 16*c* capoverso 2 LIPG; e
-- b. mediante un attestato medico si dimostra che il neonato, nel periodo immediatamente seguente al parto, deve essere ospitalizzato durante almeno tre settimane.
-
-<sup>2</sup> La proroga inizia il giorno della nascita e finisce il giorno in cui il neonato torna dalla madre o muore.
-
-[^24-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^24-2]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^24-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
 #### Art. 25
 
@@ -462,16 +468,24 @@ La madre che, al momento del parto, è disoccupata, oppure che, a causa di un pe
 - a. fino al parto ha beneficiato di un’indennità giornaliera dell’assicurazione contro la disoccupazione; oppure
 - b. il giorno del parto adempie il periodo di contribuzione necessario per beneficiare di un’indennità giornaliera ai sensi della legge federale del 25 giugno 1982[^29-2] sull’assicurazione contro la disoccupazione.
 
+<sup>1bis</sup>
+
+Una madre secondo il capoverso 1 lettera a ha diritto al versamento dell’indennità di maternità di durata prolungata (art. 16*c* cpv. 3 LIPG), se:
+
+- a. non ha esaurito le indennità giornaliere dell’assicurazione contro la disoccupazione prima del parto e il termine quadro per la riscossione delle prestazioni è ancora aperto il giorno dopo la fine del congedo di maternità; e
+- b. è disponibile un attestato medico secondo l’articolo 24.[^29-3]
+
 <sup>2</sup>
 
 Il padre che, al momento della nascita del figlio, è disoccupato, oppure che, a causa di un periodo di disoccupazione, non adempie le condizioni di cui all’articolo 16*i* capoverso 1 lettera c LIPG, ha diritto all’indennità se:
 
 - a. fino alla nascita del figlio ha beneficiato di un’indennità giornaliera dell’assicurazione contro la disoccupazione; o
-- b. il giorno della nascita del figlio presta servizio ai sensi dell’articolo 1*a* LIPG e quel giorno adempie il periodo di contribuzione necessario per beneficiare di un’indennità giornaliera ai sensi della legge federale sull’assicurazione contro la disoccupazione.[^29-3]
+- b. il giorno della nascita del figlio presta servizio ai sensi dell’articolo 1*a* LIPG e quel giorno adempie il periodo di contribuzione necessario per beneficiare di un’indennità giornaliera ai sensi della legge federale sull’assicurazione contro la disoccupazione.[^29-4]
 
 [^29-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^29-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^29-3]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^29-3]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^29-4]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
 #### Art. 30
 
@@ -590,6 +604,144 @@ Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 [^35-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^35-4]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^35-5]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+
+## Capitolo 2*a*: Indennità di assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio
+
+[^chap2a-1]
+
+[^chap2a-1]: Introdotto dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+
+### Sezione 1: Diritto di genitori affilianti, matrigne e patrigni nonché madri e padri disoccupati o incapaci al lavoro
+
+#### Art. 35a
+
+**Genitori affilianti**
+
+### (art. 16*n* LIPG)
+
+<sup>1</sup> Il diritto dei genitori affilianti che si sono assunti durevolmente le spese di mantenimento e di educazione del figlio è retto dall’articolo 16*n* capoversi 1 e 2 LIPG.
+
+<sup>2</sup> Il diritto dei genitori affilianti si estingue se il figlio ritorna presso uno dei suoi genitori.
+
+#### Art. 35b
+
+**Matrigne e patrigni**
+
+### (art. 16*n* LIPG)
+
+Una matrigna o un patrigno ha diritto secondo l’articolo 16*n* capoversi 1 e 2 LIPG, se:
+
+- a. vive nella medesima economia domestica con il genitore che detiene l’autorità parentale e la custodia del figlio e lo assiste adeguatamente nel mantenimento e nell’educazione del figlio; e
+- b. un genitore rinuncia completamente al suo diritto, a condizione che sussista un rapporto di filiazione con entrambi i genitori.
+
+#### Art. 35c
+
+**Madri e padri disoccupati**
+
+### (art. 16*n* LIPG)
+
+- [tab] Il diritto della madre disoccupata o del padre disoccupato è retto dall’articolo 16*n* capoversi 1 e 2 LIPG, se l’assistenza al figlio necessita della presenza della madre o del padre e fino all’inizio del diritto la madre o il padre ha percepito un’indennità giornaliera dell’assicurazione contro la disoccupazione.
+
+#### Art. 35d
+
+**Madri e padri incapaci al lavoro**
+
+### (art. 16*n* LIPG)
+
+Il diritto della madre o del padre incapace al lavoro è retto dall’articolo 16*n* capoversi 1 e 2 LIPG, se l’assistenza al figlio necessita della presenza della madre o del padre e:
+
+- a. fino all’inizio del diritto, la madre o il padre incapace al lavoro ha percepito indennità giornaliere dell’assicurazione per l’invalidità o un’indennità per perdita di guadagno dovuta a malattia o infortunio versata da un’altra assicurazione sociale o da un’assicurazione privata; o
+- b. all’inizio del diritto, pur avendo già perso il diritto a percepire il salario, ha un rapporto di lavoro ancora valido.
+
+### Sezione 2: Calcolo dell’indennità
+
+#### Art. 35e
+
+**Ripartizione tra i genitori**
+
+### (art. 16*q* cpv. 4 LIPG)
+
+Se il congedo di assistenza è ripartito tra i genitori, le indennità sono calcolate separatamente per ciascun genitore.
+
+#### Art. 35f
+
+**Indennità per lavoratori salariati**
+
+### (art. 16*r* LIPG)
+
+<sup>1</sup>
+
+L’indennità è calcolata sulla base dell’ultimo salario determinante percepito prima della fruizione dei giorni di congedo corrispondenti, convertito in salario giornaliero medio. Per la conversione non si tiene conto dei giorni in cui l’avente diritto non ha percepito o ha percepito solo parzialmente un salario a causa di:
+
+- a. malattia;
+- b. infortunio;
+- c. disoccupazione;
+- d. servizio ai sensi dell’articolo 1*a* LIPG;
+- e. maternità;
+- f. assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
+- g. altri motivi indipendenti dalla sua volontà.
+
+<sup>2</sup> L’indennità giornaliera è ricalcolata se il salario determinante cambia durante la fruizione dei giorni di congedo.
+
+<sup>3</sup> Gli articoli 5 e 6 si applicano per analogia.
+
+#### Art. 35g
+
+**Indennità per lavoratori indipendenti**
+
+### (art. 16*r* LIPG)
+
+Ai lavoratori indipendenti aventi diritto si applica per analogia l’articolo 7 capoverso 1.
+
+#### Art. 35h
+
+**Indennità per aventi diritto che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente**
+
+### (art. 16*r* LIPG)
+
+L’indennità per gli aventi diritto che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente è calcolata sommando i redditi da attività lucrativa dipendente e quelli da attività lucrativa indipendente, accertati in base agli articoli 7 capoverso 1 e 35*f*.
+
+### Sezione 3: Esercizio del diritto, fissazione e pagamento dell’indennità
+
+#### Art. 35i
+
+**Cassa di compensazione competente**
+
+### (art. 17–19 LIPG)
+
+<sup>1</sup> Competente per ricevere la domanda nonché fissare e pagare le indennità è la cassa di compensazione competente per la riscossione dei contributi all’inizio del periodo di diritto all’indennità.
+
+<sup>2</sup> Se il congedo di assistenza è ripartito tra i genitori, la cassa di compensazione competente all’inizio del periodo di diritto all’indennità resta competente per entrambi i genitori durante l’intero termine quadro.
+
+<sup>3</sup> La domanda del lavoratore salariato deve pervenire per il tramite del suo datore di lavoro.
+
+#### Art. 35j
+
+**Attestati**
+
+### (art. 17–19 LIPG)
+
+<sup>1</sup> Per gli aventi diritto che all’inizio del periodo di diritto all’indennità esercitano un’attività lucrativa dipendente, il datore di lavoro attesta il salario determinante per il calcolo dell’indennità, il salario versato durante il periodo di diritto all’indennità nonché la durata dell’impiego.
+
+<sup>2</sup> Per gli aventi diritto di cui all’articolo 35*c* o 35*d* che prima del periodo di disoccupazione o di incapacità al lavoro hanno esercitato un’attività lucrativa, l’ultimo datore di lavoro attesta il salario determinante per il calcolo dell’indennità nonché la durata dell’impiego.
+
+<sup>3</sup> Il datore di lavoro o gli organi di esecuzione dell’assicurazione contro la disoccupazione attestano alla fine di ogni mese i giorni di congedo di assistenza fruiti.
+
+#### Art. 35k
+
+**Fissazione e pagamento dell’indennità**
+
+### (art. 17–19 LIPG)
+
+<sup>1</sup> Per la fissazione dell’indennità si applica per analogia l’articolo 22.
+
+<sup>2</sup> L’indennità è versata mensilmente e posticipatamente. È fatta salva la compensazione di cui all’articolo 19 capoverso 2 LPGA oppure all’articolo 20 capoverso 2 LAVS[^35k-1].
+
+<sup>3</sup> Le indennità sono versate su un conto corrente bancario o postale.
+
+<sup>4</sup> Come ricevute valgono i giustificativi interni delle casse, le attestazioni di conteggio di Postfinance e le distinte del conto bancario.
+
+[^35k-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ## Capitolo 3: Disposizioni comuni
 

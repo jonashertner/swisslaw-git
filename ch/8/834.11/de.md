@@ -4,20 +4,22 @@ title: Erwerbsersatzverordnung vom 24. November 2004 (EOV)
 short: EOV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20210101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20210701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung zum Erwerbsersatzgesetz
+# Erwerbsersatzverordnung****
 
-(EOV)
+(EOV)[^t-1]
 
-vom 24. November 2004 (Stand am 1. Januar 2021)
+vom 24. November 2004 (Stand am 1. Juli 2021)
+
+[^t-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
 Der Schweizerische Bundesrat,
 
@@ -74,20 +76,24 @@ Das Bundesamt für Sport bestimmt die Kurse, die nach Artikel 1*a* Absatz 4 EOG 
 
 <sup>1</sup>
 
-Die Entschädigung wird auf Grund des letzten vor dem Einrücken erzielten und auf den Tag umgerechneten massgebenden Lohns berechnet. Für die Umrechnung werden Tage nicht berücksichtigt, an denen eine Person kein oder nur ein vermindertes Erwerbseinkommen erzielt hat wegen:
+Die Entschädigung für Arbeitnehmerinnen und Arbeitnehmer wird aufgrund des letzten vor dem Einrücken erzielten und auf den Tag umgerechneten massgebenden Lohns berechnet. Für die Umrechnung werden Tage nicht berücksichtigt, an denen eine Person kein oder nur ein vermindertes Erwerbseinkommen erzielt hat wegen:[^4-1]
 
 - a. Krankheit;
 - b. Unfall;
 - c. Arbeitslosigkeit;
 - d. Dienst im Sinne von Artikel 1*a* EOG;
 - e. Mutterschaft;
-- f. anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
+- f.[^4-2] Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG;
+- g.[^4-3] anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
 
 <sup>2</sup> Für Personen, die glaubhaft machen, dass sie während des Dienstes eine unselbstständige Erwerbstätigkeit von längerer Dauer aufgenommen hätten oder einen wesentlich höheren Lohn als vor dem Einrücken erzielt hätten, wird die Entschädigung auf Grund des Lohns berechnet, der ihnen entgangen ist. Haben sie unmittelbar vor dem Einrücken ihre Ausbildung abgeschlossen oder hätten sie diese während des Dienstes beendet, so wird die Entschädigung auf Grund des ortsüblichen Anfangslohns im betreffenden Beruf berechnet.
 
-<sup>3</sup> Für mitarbeitende Familienmitglieder ohne Barlohn, die vor dem 1. Januar nach Vollendung ihres 20. Altersjahres Dienst leisten, wird die Entschädigung auf Grund des Globallohns nach Artikel 14 Absatz 3 der Verordnung vom 31. Oktober 1947[^4-1] über die Alters- und Hinterlassenenversicherung (AHVV) berechnet.
+<sup>3</sup> Für mitarbeitende Familienmitglieder ohne Barlohn, die vor dem 1. Januar nach Vollendung ihres 20. Altersjahres Dienst leisten, wird die Entschädigung auf Grund des Globallohns nach Artikel 14 Absatz 3 der Verordnung vom 31. Oktober 1947[^4-4] über die Alters- und Hinterlassenenversicherung (AHVV) berechnet.
 
-[^4-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^4-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-3]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-4]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 5
 
@@ -130,13 +136,25 @@ Das pro Tag erzielte vordienstliche Durchschnittseinkommen wird wie folgt ermitt
 
 ### (Art. 11 EOG)
 
-<sup>1</sup> Die Entschädigung wird auf Grund des auf den Tag umgerechneten Erwerbseinkommens berechnet, das für den letzten vor dem Einrücken verfügten AHV-Beitrag massgebend war. Wird für das Jahr der Dienstleistung später ein anderer AHV-Beitrag verfügt, so kann die Neuberechnung der Entschädigung verlangt werden.
+<sup>1</sup>
+
+Die Entschädigung für Selbstständigerwerbende wird aufgrund des auf den Tag umgerechneten Erwerbseinkommens berechnet, das für den letzten vor dem Einrücken verfügten AHV-Beitrag massgebend war. Für die Umrechnung werden Perioden nicht berücksichtigt, in denen eine Person kein oder nur ein vermindertes Erwerbseinkommen erzielt hat wegen:
+
+- a. Krankheit;
+- b. Unfall;
+- c. Dienst im Sinne von Artikel 1*a* EOG;
+- d. Mutterschaft;
+- e. Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG.[^7-1]
+
+<sup>1bis</sup> Wird für das Jahr der Dienstleistung später ein anderer AHV-Beitrag verfügt, so kann die Neuberechnung der Entschädigung verlangt werden.[^7-2]
 
 <sup>2</sup> Für Personen, die glaubhaft machen, dass sie während der Zeit des Dienstes eine selbstständige Erwerbstätigkeit von längerer Dauer aufgenommen hätten, wird die Entschädigung auf Grund des Erwerbseinkommens berechnet, das sie verdient hätten.
 
-<sup>3</sup> War eine selbstständig erwerbende Person nach dem Bundesgesetz vom 20. Dezember 1946[^7-1] über die Alters- und Hinterlassenenversicherung (AHVG) nicht beitragspflichtig, so wird die Entschädigung auf Grund des Erwerbseinkommens berechnet, das sie während des Jahres erzielt hat, das dem Einrücken vorangegangen ist.
+<sup>3</sup> War eine selbstständig erwerbende Person nach dem Bundesgesetz vom 20. Dezember 1946[^7-3] über die Alters- und Hinterlassenenversicherung (AHVG) nicht beitragspflichtig, so wird die Entschädigung auf Grund des Erwerbseinkommens berechnet, das sie während des Jahres erzielt hat, das dem Einrücken vorangegangen ist.
 
-[^7-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-2]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 8
 
@@ -356,24 +374,13 @@ Zuständig für die Entgegennahme der Anmeldung, die Festsetzung und die Ausrich
 
 #### Art. 24
 
-**Aufschub des Entschädigungsanspruchs der Mutter bei längerem Spitalaufenthalt des Neugeborenen**
+**Dauer der Ausrichtung der Mutterschaftsentschädigung bei längerem Spitalaufenthalt des Neugeborenen**[^24-1]
 
-### (Art. 16*c* Abs. 2 EOG)
+### (Art. 16*c* Abs. 3 EOG)
 
-[^24-1]
+Der Nachweis, dass das Neugeborene unmittelbar nach der Geburt ununterbrochen während mindestens zwei Wochen im Spital verbleiben muss, ist durch ein Arztzeugnis zu erbringen.
 
-<sup>1</sup>
-
-Der Beginn des Entschädigungsanspruchs der Mutter wird aufgeschoben, wenn:[^24-2]
-
-- a.[^24-3] sie den Antrag nach Artikel 16*c* Absatz 2 EOG stellt; und
-- b. durch ein Arztzeugnis nachgewiesen wird, dass das Neugeborene kurz nach der Geburt mindestens drei Wochen im Spital verbleiben muss.
-
-<sup>2</sup> Der Aufschub beginnt mit dem Tag der Geburt und endet am Tag, an welchem das Neugeborene zur Mutter zurückkehrt oder stirbt.
-
-[^24-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^24-2]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^24-3]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^24-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
 #### Art. 25
 
@@ -464,16 +471,24 @@ Eine Mutter, die im Zeitpunkt der Geburt arbeitslos ist oder infolge Arbeitslosi
 - a. bis zur Geburt ein Taggeld der Arbeitslosenversicherung bezog; oder
 - b. am Tag der Geburt die für den Bezug eines Taggeldes nach dem Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^29-2] erforderliche Beitragsdauer erfüllt.
 
+<sup>1bis</sup>
+
+Eine Mutter nach Absatz 1 Buchstabe a hat Anspruch auf die länger dauernde Ausrichtung der Mutterschaftsentschädigung (Art. 16*c* Abs. 3 EOG), wenn sie:
+
+- a. die Taggelder der Arbeitslosenversicherung vor der Geburt nicht ausgeschöpft hat und die Rahmenfrist für den Leistungsbezug am Tag nach Ende des Mutterschaftsurlaubs noch offen ist; und
+- b. ein Arztzeugnis nach Artikel 24 vorlegt.[^29-3]
+
 <sup>2</sup>
 
 Ein Vater, der im Zeitpunkt der Geburt arbeitslos ist oder infolge Arbeitslosigkeit die erforderliche Mindesterwerbsdauer nach Artikel 16*i* Absatz 1 Buchstabe c EOG nicht erfüllt, hat Anspruch auf die Entschädigung, wenn er:
 
 - a. bis zur Geburt ein Taggeld der Arbeitslosenversicherung bezog; oder
-- b. am Tag der Geburt Dienst im Sinne von Artikel 1*a* EOG leistet und an diesem Tag die für den Bezug eines Taggeldes nach dem Arbeitslosenversicherungsgesetz erforderliche Beitragsdauer erfüllt.[^29-3]
+- b. am Tag der Geburt Dienst im Sinne von Artikel 1*a* EOG leistet und an diesem Tag die für den Bezug eines Taggeldes nach dem Arbeitslosenversicherungsgesetz erforderliche Beitragsdauer erfüllt.[^29-4]
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^29-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^29-3]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^29-3]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^29-4]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
 #### Art. 30
 
@@ -593,6 +608,144 @@ Zuständig für die Entgegennahme der Anmeldung sowie die Festsetzung und Auszah
 [^35-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^35-4]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^35-5]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+
+## 2*a*. Kapitel:**** Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes
+
+[^chap2a-1]
+
+[^chap2a-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+
+### 1. Abschnitt: Anspruch von Pflegeeltern, Stiefeltern sowie arbeitslosen oder arbeitsunfähigen Müttern oder Vätern
+
+#### Art. 35a
+
+**Pflegeeltern**
+
+### (Art. 16*n* EOG)
+
+<sup>1</sup> Die Anspruchsberechtigung von Pflegeeltern, die das Kind zu dauernder Pflege und Erziehung aufgenommen haben, richtet sich nach Artikel 16*n* Absätze 1 und 2 EOG.
+
+<sup>2</sup> Der Anspruch der Pflegeeltern erlischt, wenn das Kind zu einem Elternteil zurückkehrt.
+
+#### Art. 35b
+
+**Stiefeltern**
+
+### (Art. 16*n* EOG)
+
+Eine Stiefmutter oder ein Stiefvater ist nach Artikel 16*n* Absätze 1 und 2 EOG anspruchsberechtigt, wenn:
+
+- a. sie oder er mit dem Elternteil, unter dessen elterlicher Sorge und Obhut sich das Kind befindet, einen gemeinsamen Haushalt führt und ihm bei der Pflege und Erziehung des Kindes in angemessener Weise beisteht; und
+- b. ein Elternteil vollständig auf seinen Anspruch verzichtet, sofern das Kindesverhältnis zu beiden Elternteilen besteht.
+
+#### Art. 35c
+
+**Arbeitslose Mütter oder Väter**
+
+### (Art. 16*n* EOG)
+
+Die Anspruchsberechtigung der arbeitslosen Mutter oder des arbeitslosen Vaters des Kindes richtet sich nach Artikel 16*n* Absätze 1 und 2 EOG, wenn die Betreuung des Kindes ihre oder seine Anwesenheit erfordert und sie oder er bis zum Beginn des Anspruchs ein Taggeld der Arbeitslosenversicherung bezogen hat.
+
+#### Art. 35d
+
+**Arbeitsunfähige Mütter oder Väter**
+
+### (Art. 16*n* EOG)
+
+Die Anspruchsberechtigung der arbeitsunfähigen Mutter oder des arbeitsunfähigen Vaters des Kindes richtet sich nach Artikel 16*n* Absätze 1 und 2 EOG, wenn die Betreuung des Kindes ihre oder seine Anwesenheit erfordert und:
+
+- a. sie oder er bis zum Beginn des Anspruchs Taggelder der Invalidenversicherung oder von einer Sozial- oder Privatversicherung eine Entschädigung für Erwerbsausfall bei Krankheit oder Unfall bezogen hat; oder
+- b. bei Beginn des Anspruchs noch ein gültiges Arbeitsverhältnis besteht, der Anspruch auf Lohnfortzahlung jedoch vor diesem Zeitpunkt schon erschöpft war.
+
+### 2. Abschnitt: Berechnung der Entschädigung
+
+#### Art. 35e
+
+**Aufteilung unter den Eltern**
+
+### (Art. 16*q* Abs. 4 EOG)
+
+Wird der Betreuungsurlaub unter den Eltern aufgeteilt, so werden die Entschädigungen für jeden Elternteil gesondert berechnet.
+
+#### Art. 35f
+
+**Entschädigung für Arbeitnehmerinnen und Arbeitnehmer**
+
+### (Art. 16*r* EOG)
+
+<sup>1</sup>
+
+Die Entschädigung wird aufgrund des letzten vor dem Bezug der jeweiligen Urlaubstage erzielten und auf den Tag umgerechneten massgebenden Lohns berechnet. Für die Umrechnung werden Tage nicht berücksichtigt, an denen die anspruchsberechtigte Person kein oder nur ein vermindertes Einkommen erzielt hat wegen:
+
+- a. Krankheit;
+- b. Unfall;
+- c. Arbeitslosigkeit;
+- d. Dienst im Sinne von Artikel 1*a* EOG;
+- e. Mutterschaft;
+- f. Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG;
+- g. anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
+
+<sup>2</sup> Das Taggeld wird neu berechnet, wenn sich das massgebende Einkommen während des Bezugs der Urlaubstage verändert.
+
+<sup>3</sup> Die Artikel 5 und 6 sind sinngemäss anwendbar.
+
+#### Art. 35g
+
+**Entschädigung für Selbstständigerwerbende**
+
+### (Art. 16*r* EOG)
+
+Für selbstständigerwerbende Anspruchsberechtigte ist Artikel 7 Absatz 1 sinngemäss anwendbar.
+
+#### Art. 35h
+
+**Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind**
+
+### (Art. 16*r* EOG)
+
+Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind, wird berechnet, indem das nach Artikel 35*f* ermittelte Einkommen aus unselbstständiger Erwerbstätigkeit und das nach Artikel 7 Absatz 1 ermittelte Einkommen aus selbstständiger Erwerbstätigkeit zusammengezählt werden.
+
+### 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung
+
+#### Art. 35i
+
+**Zuständige Ausgleichskasse**
+
+### (Art. 17–19 EOG)
+
+<sup>1</sup> Zuständig für die Entgegennahme der Anmeldung sowie die Festsetzung und Ausrichtung der Entschädigung ist die Ausgleichskasse, die bei Beginn des Entschädigungsanspruchs für den Beitragsbezug zuständig ist.
+
+<sup>2</sup> Wird der Betreuungsurlaub unter den Eltern aufgeteilt, so bleibt die bei Beginn des Entschädigungsanspruchs zuständige Ausgleichskasse während der gesamten Rahmenfrist für beide Elternteile zuständig.
+
+<sup>3</sup> Die Anmeldung von Arbeitnehmerinnen und Arbeitnehmern ist über deren Arbeitgeber einzureichen.
+
+#### Art. 35j
+
+**Bescheinigungen**
+
+### (Art. 17–19 EOG)
+
+<sup>1</sup> Für Anspruchsberechtigte, die bei Beginn des Entschädigungsanspruchs unselbstständig erwerbstätig sind, bescheinigt der Arbeitgeber den für die Berechnung der Entschädigung massgebenden Lohn, den während des Entschädigungsanspruchs ausbezahlten Lohn sowie die Dauer der Beschäftigung.
+
+<sup>2</sup> Für Anspruchsberechtigte nach Artikel 35*c* oder 35*d*, die vor der Arbeitslosigkeit oder Arbeitsunfähigkeit eine Erwerbstätigkeit ausgeübt haben, bescheinigt der letzte Arbeitgeber den für die Berechnung der Entschädigung massgebenden Lohn sowie die Dauer der Beschäftigung.
+
+<sup>3</sup> Der Arbeitgeber oder die Durchführungsorgane der Arbeitslosenversicherung bescheinigen am Ende jeden Monats die Tage, für die Betreuungsurlaub bezogen wurde.
+
+#### Art. 35k
+
+**Festsetzung und Auszahlung der Entschädigung**
+
+### (Art. 17–19 EOG)
+
+<sup>1</sup> Für die Festsetzung der Entschädigung ist Artikel 22 sinngemäss anwendbar.
+
+<sup>2</sup> Die Entschädigung wird monatlich nachschüssig ausgerichtet. Vorbehalten bleibt die Verrechnung nach Artikel 19 Absatz 2 ATSG oder Artikel 20 Absatz 2 AHVG[^35k-1].
+
+<sup>3</sup> Die Entschädigungen werden auf ein Bank- oder Postkonto ausbezahlt.
+
+<sup>4</sup> Als Zahlungsnachweise gelten die kasseninternen Belege, Verrechnungsausweise der Postfinance oder Belastungsanzeigen der Bank.
+
+[^35k-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ## 3. Kapitel: Gemeinsame Bestimmungen
 
@@ -725,7 +878,7 @@ Folgende Verordnungen werden aufgehoben:
 - 1\. Verordnung vom 24. Dezember 1959[^44-1] zur Erwerbsersatzordnung (EOV)
 - 2\. Verordnung vom 31. Juli 1972[^44-2] über die Erwerbsausfallentschädigung an Teilnehmer der Leiterkurse von «Jugend und Sport»
 
-[^44-1]: [[AS 1959 2143](https://fedlex.data.admin.ch/eli/oc/1959/2143_2209_2240), [1964 337](https://fedlex.data.admin.ch/eli/oc/1964/337_329_332), [1969 315](https://fedlex.data.admin.ch/eli/oc/1969/315_323_324), [1973 2153](https://fedlex.data.admin.ch/eli/oc/1973/2153_2153_2153), [1976 63](https://fedlex.data.admin.ch/eli/oc/1976/63_63_63), [1981 1020](https://fedlex.data.admin.ch/eli/oc/1981/1020_1020_1020)Art. 5, [1983 919](https://fedlex.data.admin.ch/eli/oc/1983/919_919_919)Art. 5, [1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397), [1992 1842](https://fedlex.data.admin.ch/eli/oc/1992/1842_1842_1842), [1994 2177](https://fedlex.data.admin.ch/eli/oc/1994/2177_2177_2177), [1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)Anhang 3 Ziff. 9, [1999 1854](https://fedlex.data.admin.ch/eli/oc/1999/305), [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)Anhang 2 Ziff. 8 [3350](https://fedlex.data.admin.ch/eli/oc/2002/506)[3942](https://fedlex.data.admin.ch/eli/oc/2002/618), [2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)Ziff. II, [2004 4377](https://fedlex.data.admin.ch/eli/oc/2004/667)]
+[^44-1]: [[AS 1959 2143](https://fedlex.data.admin.ch/eli/oc/1959/2143_2209_2240); [1964 337](https://fedlex.data.admin.ch/eli/oc/1964/337_329_332); [1969 315](https://fedlex.data.admin.ch/eli/oc/1969/315_323_324); [1973 2153](https://fedlex.data.admin.ch/eli/oc/1973/2153_2153_2153); [1976 63](https://fedlex.data.admin.ch/eli/oc/1976/63_63_63); [1981 1020](https://fedlex.data.admin.ch/eli/oc/1981/1020_1020_1020)Art. 5; [1983 919](https://fedlex.data.admin.ch/eli/oc/1983/919_919_919)Art. 5; [1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397); [1992 1842](https://fedlex.data.admin.ch/eli/oc/1992/1842_1842_1842); [1994 2177](https://fedlex.data.admin.ch/eli/oc/1994/2177_2177_2177); [1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)Anhang 3 Ziff. 9; [1999 1854](https://fedlex.data.admin.ch/eli/oc/1999/305); [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)Anhang 2 Ziff. 8, [3350](https://fedlex.data.admin.ch/eli/oc/2002/506), [3942](https://fedlex.data.admin.ch/eli/oc/2002/618); [2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)Ziff. II; [2004 4377](https://fedlex.data.admin.ch/eli/oc/2004/667)]
 [^44-2]: [[AS 1972 1750](https://fedlex.data.admin.ch/eli/oc/1972/1750_1774_1954)]
 
 #### Art. 45
