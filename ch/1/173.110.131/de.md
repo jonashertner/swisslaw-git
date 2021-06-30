@@ -4,11 +4,11 @@ title: Reglement vom 20. November 2006 für das Bundesgericht (BGerR)
 short: BGerR
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: de
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210101/de"
 
 (BGerR)
 
-vom 20. November 2006 (Stand am 1. Januar 2021)
+vom 20. November 2006 (Stand am 1. Juli 2021)
 
 Das Bundesgericht,
 
@@ -397,11 +397,15 @@ Das Bundesgericht besteht aus folgenden sieben Abteilungen:
 
 #### Art. 27
 
-**Organisation**
+**Organisation**[^27-1]
 
-### (Art. 18 BGG)
+### (Art. 18 und 19 BGG)
 
-Die Abteilungen organisieren sich selbst, soweit die Organisation nicht durch das BGG und durch dieses Reglement vorgegeben ist.
+<sup>1</sup> Die Abteilungen organisieren sich selbst, soweit die Organisation nicht durch das BGG und durch dieses Reglement vorgegeben ist.
+
+<sup>2</sup> Der Präsident oder die Präsidentin der Abteilung kann im Einverständnis mit der Abteilung und dem betroffenen Richter oder der betroffenen Richterin diesem oder dieser die Behandlung von bestimmten Materien in der Eigenschaft als Vorsitzender oder Vorsitzende des Spruchkörpers (präsidierendes Mitglied) übertragen.
+
+[^27-1]: Fassung gemäss Ziff. I der V des BGer vom 6. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
 
 #### Art. 28
 
@@ -718,11 +722,11 @@ Die Gerichtsschreiber und Gerichtsschreiberinnen können ihre beratende Stimme a
 
 ### (Art. 20 und 22 BGG)
 
-<sup>1</sup> Der Spruchkörper wird vom Präsidenten oder der Präsidentin der zuständigen Abteilung gebildet.
+<sup>1</sup> Der Spruchkörper wird vom Präsidenten oder der Präsidentin der zuständigen Abteilung oder durch das präsidierende Mitglied im Sinne von Artikel 27 Absatz 2 dieses Reglements gebildet.[^40-1]
 
 <sup>2</sup>
 
-Er oder sie berücksichtigt neben den zwingenden gesetzlichen Bestimmungen namentlich folgende Kriterien und Umstände:
+Der Präsident oder die Präsidentin oder das präsidierende Mitglied berücksichtigt neben den zwingenden Bestimmungen namentlich folgende Kriterien und Umstände:[^40-2]
 
 - a. Ausgewogenheit der Belastung der Richter und Richterinnen; dabei ist den funktionsbedingten Zusatzbelastungen (z. B. Bundesgerichtspräsidium) Rechnung zu tragen;
 - b. Sprache; dabei soll soweit möglich die Muttersprache des Referenten oder der Referentin der Verfahrenssprache entsprechen;
@@ -731,13 +735,15 @@ Er oder sie berücksichtigt neben den zwingenden gesetzlichen Bestimmungen namen
 - e. Mitwirkung an früheren Entscheiden im gleichen Sachgebiet;
 - f. Abwesenheiten, insbesondere Krankheit, Ferien usw.
 
-<sup>3</sup> ...[^40-1]
+<sup>3</sup> Entscheidet die Abteilung in Fünferbesetzung, so hat der Präsident oder die Präsidentin der Abteilung den Vorsitz. Artikel 19 Absatz 2 BGG bleibt vorbehalten.[^40-3]
 
 <sup>4</sup> Konnexe Fälle werden in der Regel vom gleichen Spruchkörper beurteilt.
 
 <sup>5</sup> Hat ein Mitglied einer anderen Abteilung mitzuwirken, so bezeichnet der Präsident oder die Präsidentin der urteilenden Abteilung dieses Mitglied nach dessen Anhörung und im Einverständnis mit dem Präsidenten oder der Präsidenten der Abteilung, der es angehört.
 
-[^40-1]: Aufgehoben durch Ziff. I der V des BGer vom 4. März 2013, mit Wirkung seit 1. Mai 2013 ([AS 2013 1043](https://fedlex.data.admin.ch/eli/oc/2013/228)).
+[^40-1]: Fassung gemäss Ziff. I der V des BGer vom 6. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
+[^40-2]: Fassung gemäss Ziff. I der V des BGer vom 6. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
+[^40-3]: Fassung gemäss Ziff. I der V des BGer vom 6. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
 
 #### Art. 41
 

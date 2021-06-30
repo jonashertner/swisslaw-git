@@ -4,11 +4,11 @@ title: Règlement du 20 novembre 2006 du Tribunal fédéral (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: fr
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210101/fr"
 
 (RTF)
 
-du 20 novembre 2006 (Etat le 1<sup>er</sup> janvier 2021)
+du 20 novembre 2006 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Tribunal fédéral,
 
@@ -401,11 +401,15 @@ Le Tribunal fédéral se compose des sept cours suivantes:
 
 #### Art. 27
 
-**Organisation**
+**Organisation**[^27-1]
 
 ### (art. 18 LTF)
 
-Les cours s’organisent elles-mêmes pour autant que la LTF ou le présent règlement n’en disposent pas autrement.
+<sup>1</sup> Les cours s’organisent elles-mêmes pour autant que la LTF ou le présent règlement n’en disposent autrement.
+
+<sup>2</sup> Avec l’accord de la cour et celui du juge concerné, le président de la cour peut confier à ce dernier le traitement de matières déterminées en qualité de président de la composition (juge présidant).
+
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du TF du 6 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
 
 #### Art. 28
 
@@ -720,11 +724,11 @@ Les greffiers peuvent exprimer leur voix consultative:
 
 ### (art. 20 et 22 LTF)
 
-<sup>1</sup> La cour appelée à statuer est constituée par le président de la cour compétente.
+<sup>1</sup> La cour appelée à statuer est constituée par le président de la cour compétente ou par le juge présidant au sens de l’art. 27, al. 2, du présent règlement.[^40-1]
 
 <sup>2</sup>
 
-Il tient compte, en plus des dispositions légales impératives, notamment des critères et circonstances suivants:
+Le président de la cour ou le juge présidant tiennent compte, en plus des dispositions légales impératives, notamment des critères et circonstances suivants:[^40-2]
 
 - a. équilibre de la charge de travail des juges; à cet égard, le surcroît de travail résultant d’autres fonctions est pris en considération (par exemple la présidence du Tribunal fédéral);
 - b. langue; la langue du juge rapporteur doit si possible correspondre à celle du procès;
@@ -733,13 +737,15 @@ Il tient compte, en plus des dispositions légales impératives, notamment des c
 - e. participation d’un juge à des décisions antérieures dans la même matière;
 - f. absences dues notamment à la maladie, aux vacances, etc.
 
-<sup>3</sup> …[^40-1]
+<sup>3</sup> Lorsque la cour statue à cinq juges, elle est présidée par le président de la cour. L’art. 19, al. 2, LTF est réservé.[^40-3]
 
 <sup>4</sup> En règle générale, la cour appelée à statuer tranche les affaires connexes.
 
 <sup>5</sup> Si un membre d’une cour doit siéger dans une autre cour, le président de celle-ci le désigne après l’avoir entendu, cela en accord avec le président de la cour à laquelle il appartient.
 
-[^40-1]: Abrogé par le ch. I de l’O du TF du 4 mars 2013, avec effet au 1<sup>er</sup> mai 2013 ([RO 2013 1043](https://fedlex.data.admin.ch/eli/oc/2013/228)).
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du TF du 6 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
+[^40-2]: Nouvelle teneur selon le ch. I de l’O du TF du 6 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
+[^40-3]: Nouvelle teneur selon le ch. I de l’O du TF du 6 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
 
 #### Art. 41
 

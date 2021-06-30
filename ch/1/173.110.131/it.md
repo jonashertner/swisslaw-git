@@ -4,11 +4,11 @@ title: Regolamento del 20 novembre 2006 del Tribunale federale (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: it
-version: 2021-01-01
+version: 2021-07-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20210101/it"
 
 (RTF)
 
-del 20 novembre 2006 (Stato 1° gennaio 2021)
+del 20 novembre 2006 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 Il Tribunale federale,
 
@@ -397,11 +397,15 @@ Il Tribunale federale è composto delle seguenti sette corti:
 
 #### Art. 27
 
-**Organizzazione**
+**Organizzazione**[^27-1]
 
-### (art. 18 LTF)
+### (art. 18 e 19 LTF)
 
-Le corti si organizzano autonomamente, nella misura in cui l’organizzazione non è data dalla LTF e da questo regolamento.
+<sup>1</sup> Le corti si organizzano autonomamente, nella misura in cui l’organizzazione non è data dalla LTF e da questo regolamento.
+
+<sup>2</sup> Con l’accordo della corte e del giudice interessato, il presidente della corte può assegnare a quest’ultimo la trattazione di determinate materie in qualità di presidente del collegio giudicante (giudice presidente).
+
+[^27-1]: Nuovo testo giusta il n. I del R del TF del 6 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
 
 #### Art. 28
 
@@ -716,11 +720,11 @@ I cancellieri possono esprimere il loro voto consultivo:
 
 ### (art. 20, 22 LTF)
 
-<sup>1</sup> Il presidente della corte competente compone il collegio giudicante.
+<sup>1</sup> Il presidente della corte competente o il giudice presidente ai sensi dell’articolo 27 capoverso 2 di questo regolamento compone il collegio giudicante.[^40-1]
 
 <sup>2</sup>
 
-Egli tiene conto, oltre che delle disposizioni legali imperative, in particolare dei seguenti criteri e circostanze:
+Il presidente della corte o il giudice presidente tiene conto, oltre che delle disposizioni legali imperative, in particolare dei seguenti criteri e circostanze:[^40-2]
 
 - a. equilibrio del carico di lavoro dei giudici; a tal proposito prende in considerazione il carico di lavoro causato da altre funzioni (per esempio presidenza del Tribunale federale);
 - b. lingua; nella misura del possibile, la lingua materna del relatore corrisponde alla lingua del procedimento;
@@ -729,13 +733,15 @@ Egli tiene conto, oltre che delle disposizioni legali imperative, in particolare
 - e. partecipazione a precedenti decisioni nella medesima materia;
 - f. assenze, in particolare malattia, vacanze, ecc.
 
-<sup>3</sup> ...[^40-1]
+<sup>3</sup> Quando la corte giudica nella composizione di cinque giudici, è presieduta dal presidente della corte. È fatto salvo l’articolo 19 capoverso 2 LTF.[^40-3]
 
 <sup>4</sup> Cause connesse vengono di regola decise dal medesimo collegio giudicante.
 
 <sup>5</sup> Se un membro di una corte deve sedere con un’altra corte, il presidente di quest’ultima designa tale membro dopo averlo sentito e con l’accordo del presidente della corte a cui appartiene.
 
-[^40-1]: Abrogato dal n. I del R del TF del 4 mar. 2013, con effetto dal 1° mag. 2013 ([RU 2013 1043](https://fedlex.data.admin.ch/eli/oc/2013/228)).
+[^40-1]: Nuovo testo giusta il n. I del R del TF del 6 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
+[^40-2]: Nuovo testo giusta il n. I del R del TF del 6 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
+[^40-3]: Nuovo testo giusta il n. I del R del TF del 6 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
 
 #### Art. 41
 
