@@ -4,13 +4,13 @@ number: "806"
 title: Gesundheitsberufeverordnung
 short: GbV
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2021-01-05
+version: 2021-07-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-15
 adopted: 2009-04-28
 in_force: 2009-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/806"
-pdf: "https://srl.lu.ch/api/de/versions/3706/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3754/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3706/pdf_file"
 
 (GbV)
 
-vom 28.04.2009 (Stand 01.01.2021)
+vom 28.04.2009 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -70,7 +70,7 @@ beschliesst:
 
 <sup>3</sup> Sie haben bei anderen festgestellten Krankheiten, die einer ärztlichen, zahnärztlichen oder tierärztlichen Behandlung bedürfen, die Personen, die sie aufsuchen, an einen Arzt oder eine Ärztin, an einen Zahnarzt oder eine Zahnärztin oder einen Tierarzt oder eine Tierärztin zu verweisen.
 
-<sup>3<sup>bis</sup></sup> Inhaberinnen und Inhaber einer Bewilligung gemäss dem Gesundheitsberufegesetz des Bundes eines anderen Kantons, die ihren Gesundheitsberuf während längstens 90 Tagen pro Kalenderjahr im Kanton Luzern in eigener fachlicher Verantwortung ausüben wollen, haben dies der Dienststelle Gesundheit und Sport schriftlich zu melden. Mit der Meldung ist die Kopie der Berufsausübungsbewilligung des anderen Kantons und eine Unbedenklichkeitsbescheinigung der Behörde einzureichen, welche diese Bewilligung erteilt hat. Sie dürfen ihren Beruf erst ausüben, wenn die Dienststelle Gesundheit und Sport die Erfüllung der entsprechenden Voraussetzungen bestätigt hat.
+<sup>3<sup>bis</sup></sup> Inhaberinnen und Inhaber einer Bewilligung gemäss dem Gesundheitsberufegesetz des Bundes eines anderen Kantons, die ihren Gesundheitsberuf während längstens 90 Tagen pro Kalenderjahr im Kanton Luzern in eigener fachlicher Verantwortung ausüben wollen, haben dies der nach § 11 zuständigen Dienststelle schriftlich zu melden. Mit der Meldung ist die Kopie der Berufsausübungsbewilligung des anderen Kantons und eine Unbedenklichkeitsbescheinigung der Behörde einzureichen, welche diese Bewilligung erteilt hat. Sie dürfen ihren Beruf erst ausüben, wenn die zuständige Dienststelle die Erfüllung der entsprechenden Voraussetzungen bestätigt hat.
 
 <sup>4</sup> Angehörige ausländischer Staaten, die aufgrund staatsvertraglicher Bestimmungen während längstens 90 Tagen pro Kalenderjahr einen anderen bewilligungspflichtigen Beruf im Gesundheitswesen in der Schweiz ohne Bewilligung fachlich eigenverantwortlich ausüben dürfen, müssen sich gemäss dem Verfahren melden, das im Bundesgesetz über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und -erbringern in reglementierten Berufen vom 14. Dezember 2012[^3-3] festgelegt ist. Sie dürfen ihren Beruf erst ausüben, wenn die nach § 11 zuständige Dienststelle die Erfüllung der entsprechenden Voraussetzungen bestätigt hat.
 
@@ -166,7 +166,7 @@ beschliesst:
 - o. Zahntechniker oder -technikerin,
 - p. Naturheilpraktiker oder -praktikerin.
 
-<sup>1<sup>bis</sup></sup> Eine Berufsausübungsbewilligung des Veterinärdienstes benötigt, wer die Naturheilpraktik und die Physiotherapie bei Tieren fachlich eigenverantwortlich ausübt.
+<sup>1<sup>bis</sup></sup> Eine Berufsausübungsbewilligung des Veterinärdienstes benötigt, wer die Akupunktur und die Physiotherapie bei Tieren fachlich eigenverantwortlich ausübt.
 
 <sup>1<sup>ter</sup></sup> Die Beschäftigung von Berufsleuten gemäss den Absätzen 1 und 1<sup>bis</sup> unter fachlicher Kontrolle bedarf keiner Bewilligung. Der Bewilligungsinhaber oder die Bewilligungsinhaberin sorgt für eine den Fähigkeiten des Assistenten oder der Assistentin angemessene fachliche Kontrolle. Er oder sie hat in der Regel anwesend zu sein.
 
@@ -457,6 +457,8 @@ beschliesst:
 
 <sup>1</sup> Die Bewilligung berechtigt dazu, osteopathische Diagnosen zu stellen sowie Patientinnen und Patienten im Fachgebiet selbständig oder auf ärztliche Überweisung hin zu behandeln.
 
+<sup>2</sup> Die Dienststelle Gesundheit und Sport kann Osteopathinnen und Osteopathen mit den entsprechenden Fachkenntnissen die Anwendung der Dry-Needling-Methode bewilligen.
+
 ### 2.12 Pflegefachmann oder -fachfrau
 
 #### § 36
@@ -525,7 +527,7 @@ beschliesst:
 <sup>1</sup> Eine Bewilligung als Podologe oder Podologin erhält,
 
 - a. wer das eidgenössische Fähigkeitszeugnis als Podologe oder als Podologin oder einen vom Schweizerischen Roten Kreuz als gleichwertig anerkannten ausländischen Fähigkeitsausweis erworben hat und eine zweijährige praktische Tätigkeit bei einem Podologen oder einer Podologin mit Berufsausübungsbewilligung nachweist oder
-- b. wer über den eidgenössischen Fähigkeitsausweis als «diplomierter Podologe HF» oder als «diplomierte Podologin HF» oder einen vom Schweizerischen Roten Kreuz als gleichwertig anerkannten ausländischen Fähigkeitsausweis verfügt.
+- b. wer über den eidgenössischen Fähigkeitsausweis als «diplomierter Podologe HF» oder als «diplomierte Podologin HF», ein vom Schweizerischen Podologen-Verband anerkanntes Diplom oder einen vom Schweizerischen Roten Kreuz als gleichwertig anerkannten ausländischen Fähigkeitsausweis verfügt.
 
 #### § 41
 
@@ -541,7 +543,7 @@ beschliesst:
 
 <sup>3</sup> Chirurgische Eingriffe sind untersagt.
 
-<sup>4</sup> Das selbständige Erbringen von Leistungen für Risikogruppen, das Erstellen von fachlich komplexen Behandlungsplänen und die Interpretation von fachlich komplexen ärztlichen Diagnosen und Verordnungen ist Bewilligungsinhaberinnen und -inhabern vorbehalten, welche über den eidgenössischen Fähigkeitsausweis als diplomierter Podologe HF oder als diplomierte Podologin HF oder einen vom Schweizerischen Roten Kreuz als gleichwertig anerkannten ausländischen Fähigkeitsausweis verfügen. Der Begriff «Risikogruppen» richtet sich nach der Definition der Risikogruppen des Schweizerischen Podologen-Verbands.
+<sup>4</sup> Das selbständige Erbringen von Leistungen für Risikogruppen, das Erstellen von fachlich komplexen Behandlungsplänen und die Interpretation von fachlich komplexen ärztlichen Diagnosen und Verordnungen ist Bewilligungsinhaberinnen und -inhabern vorbehalten, welche die Anforderungen gemäss § 40 Absatz 1b erfüllen. Der Begriff «Risikogruppen» richtet sich nach der Definition der Risikogruppen des Schweizerischen Podologen-Verbands.
 
 ### 2.15 Rettungssanitäter oder -sanitäterin
 
