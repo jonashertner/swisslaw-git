@@ -3,11 +3,11 @@ sr: "818.102"
 title: Federal Act of 25 September 2020 on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic (COVID-19 Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: en
-version: 2021-06-19
+version: 2021-07-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210619/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210619-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210619/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210701/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210701-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Act)
 
-of 25 September 2020 (Status as of 19 June 2021)
+of 25 September 2020 (Status as of 1 July 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -480,8 +480,8 @@ The Federal Council shall take the following measures in the media industry:
 
   The Federal Office of Communications may in response to an application make payments from radio and television fee revenues to the following private radio and television companies:
 
-  - 1\. commercial radio stations with a valid FM licence,
-  - 2\. complementary radio stations with a licence,
+  - 1\. commercial radio stations with a valid FM licence;
+  - 2\. complementary radio stations with a licence;
   - 3\. licensed regional TV stations.
 
 <sup>1bis</sup> The payments under paragraph 1 letter d shall be made on the basis of the documented fall in revenues from advertising and sponsorship between 2019 and 2021, whereby a maximum of 20 million francs may be paid. The provision of this assistance is conditional on the recipient providing a written assurance to the Federal Office of Communications that it will repay the money received if it pays a dividend for 2021.[^14-3]
@@ -575,7 +575,7 @@ In derogation from the UIA[^17a-2], short-time work compensation is calculated a
 
 - b. in the case of part-time work, the income and the minimum amount for the short-time work compensation in accordance with letter a is calculated in proportion to the full-time equivalent.
 
-[^17a-1]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 1 Dec. 2020 to 31 June 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^17a-1]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 1 Dec. 2020 to 31 Dic 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153)[354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)[1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
 [^17a-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 17b
@@ -588,7 +588,7 @@ In derogation from the UIA[^17a-2], short-time work compensation is calculated a
 
 <sup>3</sup> In derogation from Article 38 paragraph 1 UIA, rights to payment that have been newly created paragraphs 1 and 2 must be claimed by 30 April 2021 from the responsible unemployment insurance fund.
 
-[^17b-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2021, Abs. 1 in force from 1 Sept. 2020 to 31 Dec. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 28](https://fedlex.data.admin.ch/eli/fga/2021/28). [2021 1935](https://fedlex.data.admin.ch/eli/fga/2021/1935)).
+[^17b-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2021, para. 1 in force from 1 Sept. 2020 to 31 Dec. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285). [2021 1935](https://fedlex.data.admin.ch/eli/fga/2021/1935)).
 [^17b-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 17c

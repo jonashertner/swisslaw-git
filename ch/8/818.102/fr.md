@@ -3,11 +3,11 @@ sr: "818.102"
 title: "Loi fédérale du 25 septembre 2020 sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l'épidémie de COVID-19 (Loi COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: fr
-version: 2021-06-19
+version: 2021-07-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210619/fr/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210619-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210619/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210619/fr"
 
 (Loi COVID-19)
 
-du 25 septembre 2020 (Etat le 19 juin 2021)
+du 25 septembre 2020 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -117,7 +117,7 @@ La Confédération prend les mesures suivantes, en étroite collaboration avec l
 
 #### Art. 3a
 
-**Personnes vaccinée**[^3a-1]
+**Personnes vaccinées**[^3a-1]
 
 <sup>1</sup> Les personnes vaccinées contre le COVID-19 au moyen d’un vaccin autorisé dont il est prouvé qu’il prévient la transmission du virus ne sont soumises à aucune quarantaine.
 

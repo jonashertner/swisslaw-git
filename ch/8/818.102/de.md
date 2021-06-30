@@ -3,11 +3,11 @@ sr: "818.102"
 title: Bundesgesetz vom 25. September 2020 über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: de
-version: 2021-06-19
+version: 2021-07-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210619/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210619-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210619/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210619/de"
 
 (Covid-19-Gesetz)
 
-vom 25. September 2020 (Stand am 19. Juni 2021)
+vom 25. September 2020 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 

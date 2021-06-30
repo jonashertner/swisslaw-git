@@ -3,11 +3,11 @@ sr: "818.102"
 title: "Legge federale del 25 settembre 2020 sulle basi legali delle ordinanze del Consiglio federale volte a far fronte all'epidemia di COVID-19 (Legge COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: it
-version: 2021-06-19
+version: 2021-07-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210619/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210619-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210619/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210619/it"
 
 (Legge COVID-19)
 
-del 25 settembre 2020 (Stato 19 giugno 2021)
+del 25 settembre 2020 (Stato 1° luglio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
