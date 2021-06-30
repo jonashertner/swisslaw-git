@@ -4,13 +4,13 @@ number: "732.1.1"
 title: "Gesetz über die Gebäudeversicherung, die Prävention und die Hilfeleistungen bei Brand und Elementarschäden"
 short: KGVG
 language: de
-version: 2018-07-01
-valid_until: 2021-06-30
-version_adopted: 2016-09-09
+version: 2021-07-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-26
 adopted: 2016-09-09
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/732.1.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/5755/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6834/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gebäudeversicherung, Prävention und Hilfeleistungen bei Brand – G
 
 (KGVG)
 
-vom 09.09.2016 (Fassung in Kraft getreten am 01.07.2018)
+vom 09.09.2016 (Fassung in Kraft getreten am 01.07.2021)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -114,7 +114,7 @@ beschliesst:
 - g) Er nimmt die weiteren Ernennungen gemäss Ausführungsverordnung vor.
 - h) Er schlägt dem Staatsrat die Revisionsstelle vor.
 - i) Er entscheidet über die Fälle von Versicherungsausschluss.
-- j) Er entscheidet über die Einsprachen gegen Entscheide der KGV.
+- j) Er übt die Aufsicht über die Behandlung von Einsprachen und Beschwerden gegen Entscheide der KGV aus und gibt der Direktion gegebenenfalls Anweisungen.
 - k) Er übt weitere Befugnisse aus, die ihm die Ausführungsgesetzgebung und die Reglemente der KGV zuteilen.
 
 ### 2.1.3 Direktion
@@ -414,6 +414,8 @@ beschliesst:
 
 <sup>3</sup> In der Ausführungsgesetzgebung werden die Zuständigkeiten und die Häufigkeit der Kontrollen festgelegt.
 
+<sup>4</sup> Die Gemeinden können im Bereich der Gebäudekontrolle und weiterer Tätigkeiten für die Sicherheit im Sinne dieser Gesetzgebung Gebühren erheben; dazu braucht es als Grundlage ein Reglement, das gemäss der Gesetzgebung über die Gemeinden erlassen wird.
+
 ### 4.2 Allgemeine Präventionsmassnahmen
 
 #### Art. 43
@@ -494,7 +496,15 @@ beschliesst:
 
 **Organisation der Kaminreinigung**
 
-<sup>1</sup> Die Organisation der Kaminreinigung, insbesondere die Konzession, die Häufigkeit und die Tarife werden in der Ausführungsgesetzgebung festgelegt.
+<sup>1</sup> Die Organisation der Kaminreinigung, insbesondere die Konzession, die Häufigkeit und die Tarife werden nach den in der Ausführungsgesetzgebung festgelegten Grundsätzen von der KGV geregelt.
+
+<sup>2</sup> Der Tarif für die Kontrolle und Reinigung der Wärmeanlagen ist im gesamten Kanton einheitlich. Er wird unter Berücksichtigung der technischen Empfehlungen und der branchenüblichen Löhne sowie einer Referenzarbeitszeit und eines Referenzstundensatzes erstellt. Er umfasst:
+
+- a) eine Grundtaxe zur Deckung der allgemeinen Kosten, das heisst der Kosten, die nicht direkt einem Objekt angerechnet werden können;
+- b) eine Objekttaxe, deren Berechnung auf einer Zeitpauschale basiert, die je nach Wärmeanlage für die Arbeit erforderlich ist;
+- c) besondere Fälle wie Kontrollarbeiten oder Reinigungen mit alkalischen Produkten.
+
+<sup>3</sup> Auf der Grundlage dieses Tarifs erheben die Kaminfegerinnen und Kaminfeger bei der Eigentümerin oder beim Eigentümer der Wärmeanlage eine Gebühr für deren Kontrolle und Reinigung. Gegen diesen Entscheid kann innert 30 Tagen bei der Kaminfegerin oder beim Kaminfeger Einsprache erhoben werden und dann gemäss dem Gesetz über die Verwaltungsrechtspflege Beschwerde beim Kantonsgericht eingereicht werden.
 
 ### 4.3.3 Brandschutzausrüstung
 
@@ -982,6 +992,8 @@ beschliesst:
 
 <sup>1</sup> Am Ende des Verfahrens zur Schätzung der Schäden erlässt die KGV ihren Entschädigungsentscheid, der die gesamten Umstände und möglichen Abzugsfaktoren berücksichtigt.
 
+<sup>2</sup> Bei Elementarschäden und wenn keine Kürzungsfaktoren vorliegen, gilt das Protokoll der Schadenschätzung als Entschädigungsentscheid. Die KGV regelt die Einzelheiten.
+
 #### Art. 108
 
 **Totalzerstörung**
@@ -998,7 +1010,7 @@ beschliesst:
 
 **Teilzerstörung – Entschädigung der Wertminderung**
 
-<sup>1</sup> Eine angemessene Entschädigung der Wertminderung kann gewährt werden für Schäden, die nicht repariert werden können oder deren Reparaturkosten offensichtlich unverhältnismässig sind, beispielsweise für Mauerrisse oder einfache ästhetische Mängel.
+<sup>1</sup> Eine angemessene Entschädigung der Wertminderung kann gewährt werden für Schäden, die nicht repariert werden können oder deren Reparaturkosten offensichtlich unverhältnismässig sind, beispielsweise für Mauerrisse oder für ästhetische Schäden.
 
 #### Art. 111
 
@@ -1161,7 +1173,7 @@ beschliesst:
 
 <sup>1</sup> Gegen Entscheide der Direktion und der Dienste kann jedoch zunächst Einsprache im Sinne von Artikel 103 des Gesetzes vom 23. Mai 1991 über die Verwaltungsrechtspflege (VRG) erhoben werden.
 
-<sup>2</sup> Zuständig für die Entscheide über Einsprachen ist der Verwaltungsrat.
+<sup>2</sup> Zuständig für die Behandlung von Einsprachen ist die Direktion.
 
 <sup>3</sup> Das Einspracheverfahren läuft gemäss Artikel 103 Abs. 3 VRG ab.
 

@@ -4,13 +4,13 @@ number: "732.1.1"
 title: "Loi sur l'assurance immobilière, la prévention et les secours en matière de feu et d'éléments naturels"
 short: LECAB
 language: fr
-version: 2018-07-01
-valid_until: 2021-06-30
-version_adopted: 2016-09-09
+version: 2021-07-01
+valid_until: 2022-12-31
+version_adopted: 2021-03-26
 adopted: 2016-09-09
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/732.1.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5755/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6834/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Assurance immobilière, prévention et secours en matière de feu – L
 
 (LECAB)
 
-du 09.09.2016 (version entrée en vigueur le 01.07.2018)
+du 09.09.2016 (version entrée en vigueur le 01.07.2021)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -114,7 +114,7 @@ Décrète:
 - g) il procède aux autres nominations selon le règlement d'exécution;
 - h) il propose l'organe de révision au Conseil d'Etat;
 - i) il prononce les cas d'exclusion de l'assurance;
-- j) il statue sur les réclamations contre les décisions de l'Etablissement;
+- j) il exerce la surveillance du traitement des réclamations et des recours contre les décisions de l'Etablissement et, le cas échéant, adresse des instructions à la direction;
 - k) il exerce les autres compétences que lui attribuent la législation d'exécution et les règlements de l'Etablissement.
 
 ### 2.1.3 Direction
@@ -414,6 +414,8 @@ Décrète:
 
 <sup>3</sup> La réglementation d'exécution définit les compétences et le rythme des contrôles.
 
+<sup>4</sup> Les communes peuvent, sur la base d'un règlement adopté conformément à la législation sur les communes, prélever des émoluments en matière de contrôle des bâtiments et autres activités de sécurité au sens de la présente législation.
+
 ### 4.2 Mesures générales de prévention
 
 #### Art. 43
@@ -494,7 +496,15 @@ Décrète:
 
 **Organisation du ramonage**
 
-<sup>1</sup> L'organisation du ramonage, en particulier la concession, les fréquences et les tarifs sont réglés dans la législation d'exécution.
+<sup>1</sup> L'organisation du ramonage, en particulier la concession, les fréquences et les tarifs sont réglés par l'Etablissement selon les principes fixés dans la législation d'exécution.
+
+<sup>2</sup> Le tarif des prestations de contrôle et de ramonage des installations thermiques est uniforme sur l'ensemble du canton de Fribourg. Il est établi compte tenu des recommandations techniques en la matière et des salaires de la branche ainsi que d'un temps de travail et d'un tarif horaire de référence. Il comprend:
+
+- a) une taxe de base servant à couvrir les frais généraux, soit les frais qui ne peuvent être directement imputés à chaque objet;
+- b) une taxe d'objet, calculée selon un temps forfaitaire imparti pour effectuer le travail en fonction de l'installation thermique;
+- c) des cas particuliers tels que les travaux de contrôle ou les nettoyages avec produits alcalins.
+
+<sup>3</sup> Sur la base de ce tarif, les ramoneurs et ramoneuses perçoivent un émolument auprès du ou de la propriétaire de l'installation thermique pour les activités de contrôle et de ramonage de celle-ci. Cette décision est sujette à réclamation dans les trente jours devant le ramoneur ou la ramoneuse, puis peut faire l'objet d'un recours au Tribunal cantonal conformément au code de procédure et de juridiction administrative.
 
 ### 4.3.3 Equipements de protection incendie
 
@@ -982,6 +992,8 @@ Décrète:
 
 <sup>1</sup> Au terme de la procédure d'estimation des dommages, l'Etablissement rend sa décision d'indemnité, laquelle prend en compte l'ensemble des circonstances et des facteurs de réduction possibles.
 
+<sup>2</sup> En cas de sinistre causé par les éléments naturels et en l'absence de facteurs de réduction, le procès-verbal de l'estimation du dommage vaut décision d'indemnité. L'Etablissement règle les détails.
+
 #### Art. 108
 
 **Destruction totale**
@@ -998,7 +1010,7 @@ Décrète:
 
 **Destruction partielle – Indemnité de moins-value**
 
-<sup>1</sup> Une indemnité équitable de dépréciation peut être accordée pour des dégâts qui ne peuvent pas être réparés ou dont les frais de réparation sont manifestement disproportionnés, par exemple pour des fissures ou de simples défauts esthétiques.
+<sup>1</sup> Une indemnité équitable de dépréciation peut être accordée pour des dégâts qui ne peuvent pas être réparés ou dont les frais de réparation sont manifestement disproportionnés, par exemple pour des fissures, ou en cas de dommages esthétiques.
 
 #### Art. 111
 
@@ -1161,7 +1173,7 @@ Décrète:
 
 <sup>1</sup> Toutefois, les décisions de la direction et des services sont d'abord sujettes à réclamation au sens de l'article 103 du code du 23 mai 1991 de procédure et de juridiction administrative (CPJA).
 
-<sup>2</sup> L'autorité compétente pour connaître de la réclamation est le conseil d'administration.
+<sup>2</sup> La direction est l'autorité compétente pour traiter des réclamations.
 
 <sup>3</sup> La procédure de réclamation est régie par l'article 103 al. 3 CPJA.
 
