@@ -4,20 +4,22 @@ number: "411.011"
 title: Standeskommissionsbeschluss zum Schulgesetz
 short: StKB SchG
 language: de
-version: 2018-08-01
-corrected: 2020-05-11
-version_adopted: 2018-09-18
+version: 2021-07-01
+valid_until: 2021-07-31
+version_adopted: 2021-02-16
 adopted: 2005-08-16
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.011"
-pdf: "https://ai.clex.ch/api/de/versions/1630/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2208/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss zum Schulgesetz
 
-vom 16.08.2005 (Stand 01.08.2018)
+(StKB SchG)
+
+vom 16.08.2005 (Stand 01.07.2021)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -31,7 +33,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieser Beschluss gilt für die Besoldung der Lehrpersonen des Kindergartens, der Vorschulklassen, der Einführungsklassen, des textilen Werkens und der Hauswirtschaft, des Deutschunterrichts als Zweitsprache, der Primarschule, der Sekundarstufe l, der Kleinklassen, der schulischen Heilpädagogik und des Sports.
+<sup>1</sup> Dieser Beschluss gilt für die Besoldung der Lehrpersonen des Kindergartens, der Primarschule, der Sekundarstufe l, der Kleinklassen, der Vorschul- und Einführungsklassen, des Textilen und Technischen Gestaltens, des Faches Deutsch als Zweitsprache sowie der schulischen Heilpädagogik und des Sports.
 
 <sup>2</sup> Für die Lehrpersonen des Gymnasiums gelten die Bestimmungen der Gymnasialverordnung sowie der ergänzenden Standeskommissionsbeschlüsse.
 
@@ -41,15 +43,13 @@ beschliesst:
 
 **Besoldung**
 
-<sup>1</sup> Für die Lehrpersonen gelten nach Kategorie und Stufen unterteilte Besoldungsskalen. Bei der Festlegung der Besoldungsskalen werden das Ausbildungsniveau, die Ausbildungsdauer, das Verhältnis von Unterrichtszeit und unterrichtsfreier Arbeitszeit sowie die Verhältnisse in den übrigen, namentlich in den benachbarten Kantonen, berücksichtigt.
+<sup>1</sup> Für die Lehrpersonen gilt die nach Kategorie und Stufen unterteilte Besoldungstabelle. Bei der Festlegung der Besoldungstabelle werden insbesondere das Ausbildungsniveau, die Ausbildungsdauer, das Verhältnis von Unterrichtszeit und unterrichtsfreier Arbeitszeit sowie die Besoldungsverhältnisse in den benachbarten Kantonen berücksichtigt.
 
 <sup>2</sup> Für die Turn- und Sportlehrpersonen mit Fachdiplom ETH, Universität oder Fachhochschule gilt die Besoldung der Sekundarstufe l.
 
-<sup>3</sup> Fachlehrpersonen, welche die nötige Qualifikation zum Unterrichten der entsprechenden Stufe vorweisen, erhalten das Gehalt der Stufe, in welcher sie unterrichten. Das Schulamt stellt die Qualifikation in der Regel anhand der Ausbildungsabschlüsse bzw. der Diplome fest.
+<sup>3</sup> Fachlehrpersonen, welche die nötige Qualifikation zum Unterrichten auf der entsprechenden Stufe vorweisen, erhalten das Gehalt der Stufe, in welcher sie unterrichten. Das Volksschulamt stellt die Qualifikation anhand der Ausbildungsabschlüsse und den bisherigen beruflichen Tätigkeiten fest.
 
-<sup>4</sup> Die Hausaufgabenhilfen sowie die Lehrpersonen für den Deutschunterricht für Fremdsprachige werden nach den Ansätzen gemäss Tabelle entschädigt. Die Schulgemeinden können weitere Punkte mittels Arbeitsvertrag regeln. Die Ansätze für Förderlehrpersonen und die Legasthenietherapeuten[^2-1] werden im Arbeitsvertrag geregelt.
-
-[^2-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
+<sup>4</sup> Die Hausaufgabenhilfen sowie die Lehrpersonen für den Unterricht in Deutsch als Zweitsprache werden nach den Ansätzen gemäss der Besoldungstabelle entschädigt. Die Schulgemeinden können weitere Punkte im Arbeitsvertrag regeln.
 
 #### Art. 3
 
@@ -65,9 +65,11 @@ beschliesst:
 
 #### Art. 5
 
-**Entschädigung bei drei Klassen**
+**Entschädigung bei Mehrklassen**
 
-<sup>1</sup> Lehrpersonen, die drei nicht parallele Klassen mit mindestens 16 Schülern unterrichten, erhalten eine Zulage in der Höhe einer zusätzlichen Lektion, sofern die Unterrichtszeit nach Art. 23 dieses Beschlusses eingehalten wird.
+<sup>1</sup> Für den Unterricht von Mehrklassen der ersten bis sechsten Primarklassen, welche aus mindestens zwei Klassenzügen bestehen und bei Schuljahresbeginn mindestens 18 Schüler umfassen, wird der zusätzliche Aufwand der Lehrperson mit einer Lektion abgegolten, sofern die Unterrichtszeit nach Art. 23 dieses Beschlusses eingehalten wird.
+
+<sup>2</sup> Der Anspruch gilt für das gesamte Schuljahr.
 
 #### Art. 6
 
@@ -79,16 +81,18 @@ beschliesst:
 
 **Anrechnung der Dienstjahre**
 
-<sup>1</sup> Für die Einstufung in die Gehaltsskalen zählen die Jahre der Lehrtätigkeit. Bei Dienstantritt im ersten Schulsemester wird das betreffende Schuljahr voll als Dienstjahr angerechnet. Bei Dienstantritt während des 2. Schulsemesters wird der Rest dieses Schuljahres nicht mehr als Dienstjahr angerechnet. Erst das nachfolgende Schuljahr gilt als 1. Dienstjahr.
+<sup>1</sup> Für die Einstufung in die Besoldungstabelle zählen die Jahre der Lehrtätigkeit. Bei Dienstantritt im ersten Schulsemester wird das betreffende Schuljahr voll als Dienstjahr angerechnet. Bei Dienstantritt während des zweiten Schulsemesters wird der Rest dieses Schuljahres nicht mehr als Dienstjahr angerechnet; erst das nachfolgende Schuljahr gilt als erstes Dienstjahr.
 
 <sup>2</sup> Die Stufenerhöhung wird gewährt:
 
 - a) bei einem Pflichtpensum von 31 Lektionen ab 15 Lektionen
 - b) bei einem Pflichtpensum von 29 Lektionen ab 14 Lektionen
 
-<sup>3</sup> Bei Neuanstellungen werden in der Regel nur Tätigkeiten im Schulbereich voll als Dienstjahre angerechnet. Ausnahmsweise kann der Schulrat mit Einverständnis des Schulamtes Tätigkeiten im erzieherischen Bereich oder in Bereichen, die in besonderem Masse für die Schule dienlich sein können (z.B. Kindererziehung), zu 25% an den Dienstjahren anrechnen.
+<sup>3</sup> Bei Neuanstellungen werden geleistete Lehrtätigkeiten den Pensen und der Dauer entsprechend als Dienstjahre angerechnet.
 
-<sup>4</sup> Sind die Leistungen einer Lehrperson ungenügend, kann der Schulrat nach Rücksprache mit dem Schulamt bzw. auf dessen Antrag eine Stufenerhöhung verweigern.
+<sup>4</sup> Die Erziehung von Kindern bis zum vollendeten 18. Altersjahr in der Familie und Tätigkeiten in anderen Berufen nach Abschluss der Erstausbildung werden zur Hälfte angerechnet. Die beiden Tätigkeiten sind nicht kumulierbar.
+
+<sup>5</sup> Sind die Leistungen einer Lehrperson ungenügend, kann der Schulrat nach Rücksprache mit dem Volksschulamt eine vorgesehene Stufenerhöhung verweigern. In den geleiteten Schulen entscheidet der Schulrat auf Antrag der Schulleitung.
 
 #### Art. 8
 
@@ -108,7 +112,7 @@ beschliesst:
 
 **Bezug der Treueprämie**
 
-<sup>1</sup> Die Treueprämie kann mit Einwilligung des Schulrats höchstens zur Hälfte in Ferien umgewandelt werden, wobei eine Ferienwoche einem Viertel eines Monatsgehalts entspricht. Eine Umwandlung ist nur mit ganzen Ferienwochen möglich.
+<sup>1</sup> Die Treueprämie kann mit Einwilligung des Schulrates ganz oder teilweise in Ferien umgewandelt werden, wobei eine Ferienwoche einem Viertel eines Monatsgehaltes entspricht. Eine Umwandlung ist nur mit ganzen Ferienwochen möglich.
 
 <sup>2</sup> Ein Gesuch um Bezug in Ferien ist dem Schulrat ein halbes Jahr im Voraus einzureichen.
 
@@ -122,7 +126,7 @@ beschliesst:
 
 <sup>1</sup> Lehrpersonen mit stufenentsprechender Ausbildung erhalten für Stellvertretungen den ihren Dienstjahren entsprechenden Lohn der unterrichteten Stufe inkl. 13. Monatsgehalt.
 
-<sup>2</sup> Lehrpersonen ohne entsprechende Ausbildung erhalten für Stellvertretungen das Gehalt der 1. Stufe der entsprechenden Klasse ohne 13. Monatsgehalt; der Schulrat kann Ausnahmen vorsehen.
+<sup>2</sup> Lehrpersonen ohne entsprechende Ausbildung erhalten für Stellvertretungen den Lohn entsprechend der ersten Stufe gemäss Besoldungstabelle ohne 13. Monatsge-halt; der Schulrat kann Ausnahmen vorsehen.
 
 #### Art. 11
 
@@ -173,13 +177,21 @@ beschliesst:
 
 **Vaterschaftsurlaub**
 
-<sup>1</sup> Den Lehrern wird bei Vaterschaft eine Woche bezahlter Urlaub gewährt.
+<sup>1</sup> Den Lehrern wird bei Vaterschaft zwei Wochen bezahlter Urlaub gewährt.
+
+#### Art. 14b
+
+**Betreuungsurlaub**
+
+<sup>1</sup> Lehrpersonen haben für die Zeit, die zur Betreuung eines Familienmitglieds, der Lebenspartnerin oder des Lebenspartners mit gesundheitlichen Beeinträchtigung notwendig ist, Anspruch auf einen bezahlten Urlaub, höchstens aber drei Tage pro Ereignis und zehn Tage pro Jahr.
+
+<sup>2</sup> Lehrpersonen, deren Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist und die deshalb Anspruch auf eine Betreuungsentschädigung gemäss dem Erwerbsersatzgesetz des Bundes haben, haben Anspruch auf einen bezahlten Betreuungsurlaub von höchstens 14 Wochen.
 
 #### Art. 15
 
-**Lohnfortzahlung bei Intensivweiterbildung**
+**Lohn bei Langzeitweiterbildung**
 
-<sup>1</sup> Während des Besuchs der Intensivfortbildungskurse wird der Lohn ausbezahlt, der dem durchschnittlichen Pensum der letzten fünf Jahre entspricht, maximal das Gehalt eines Vollpensums.
+<sup>1</sup> Während des Besuches der Langzeitweiterbildung wird der Lohn ausbezahlt, der dem durchschnittlichen Pensum der letzten fünf Jahre entspricht, maximal das Gehalt eines Vollpensums.
 
 #### Art. 16
 
@@ -264,7 +276,7 @@ beschliesst:
 - f) Lehrpersonen der Sekundarstufe I: 29 Lektionen à 45 Minuten resp. 28 Lektionen + 1 Lektion für Funktion als Klassenlehrperson
 - g) Lehrpersonen für Kleinklassen: gemäss der entsprechenden Stufe
 - h) Schulische Heilpädagogen: 29 Lektionen à 45 Minuten
-- i) Lehrpersonen des Sports: 29 Lektionen à 45 Minuten
+- i) Lehrpersonen für Bewegung und Sport: 29 Lektionen à 45 Minuten
 
 <sup>2</sup> Die Überwachung der Einhaltung der Unterrichtszeit obliegt dem Schulrat. Er befindet über die Kompensation ausgefallener Lektionen.
 
@@ -281,7 +293,7 @@ beschliesst:
 - e) Administrative Aufgaben, Erstellen von Zeugnissen und Schulberichten etc.;
 - f) Gemeinschaftsaufgaben: Stufenkonferenzen, Teamsitzungen, Mitarbeit in Arbeitsgruppen;
 - g) Die für die jeweilige Stufe notwendige Präsenz in den Pausen, vor und nach der Unterrichtszeit;
-- h) Die durch das Schulamt organisierte, obligatorische Weiterbildung.
+- h) Die durch das Volksschulamt organisierte obligatorische Weiterbildung.
 
 <sup>2</sup> Die unterrichtsfreie Arbeitszeit kann dort, wo es sich um individuelle und klassenbezogene Aufgaben handelt, im Rahmen des Berufsethos in eigener Verantwortung individuell frei gestaltet werden.
 
@@ -307,19 +319,19 @@ beschliesst:
 
 **Praktikumsleitung**
 
-<sup>1</sup> Wer Studenten in der Lehrerausbildung für ein Praktikum betreut, bedarf hiezu der vorgängigen Erlaubnis des Schulamtes. Der Kanton übernimmt keine Entschädigungen.
+<sup>1</sup> Wer Studenten in der Lehrerausbildung für ein Praktikum betreut, bedarf der vorgängigen Erlaubnis des Volksschulamtes. Der Kanton übernimmt keine Entschädigungen.
 
 ## C. Pensionierung
 
 #### Art. 27
 
-**Altersrücktritt**
+**Pensionierung**
 
 <sup>1</sup> Das Arbeitsverhältnis gilt mit Ablauf des Schulsemesters, in dem das AHV-Rentenalter erreicht wird, als aufgelöst. In Ausnahmefällen kann der Schulrat das Arbeitsverhältnis um höchstens zwei Jahre verlängern.
 
-<sup>2</sup> Mit Bewilligung des Schulrates kann ab dem vollendeten 60. Altersjahr ein Altersrücktritt vorgenommen werden, gegebenenfalls mit einem gestaffelt abnehmenden Anstellungsumfang.
+<sup>2</sup> Unter Wahrung der Kündigungsfrist und der Formalien für eine Kündigung kann ab dem vollendeten 60. Altersjahr eine vorzeitige Pensionierung vorgenommen werden; die Meldung wirkt wie ein Kündigung. Der Schulrat kann bei einer vorzeitigen Pensionierung eine Einlage in die Versicherungskasse leisten.
 
-<sup>3</sup> Der Schulrat kann im Falle einer Frühpensionierung eine Einlage in die Versicherungskasse leisten.
+<sup>3</sup> Er kann ab dem vollendeten 60. Altersjahr eine Teilpensionierung mit einem gestaffelt abnehmenden Anstellungsumfang bewilligen.
 
 <sup>4</sup> Die Rentenleistungen werden durch die Kantonale Versicherungskasse geregelt.
 
