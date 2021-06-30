@@ -4,11 +4,11 @@ title: "Verordnung vom 6. März 2000 über eine leistungsabhängige Schwerverkeh
 short: SVAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/192"
 language: de
-version: 2019-02-01
+version: 2021-07-01
 adopted: 2000-03-06
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20190201/de/xml/fedlex-data-admin-ch-eli-cc-2000-192-20190201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20190201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2000-192-20210701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20190201/de"
 
 (Schwerverkehrsabgabeverordnung, SVAV)
 
-vom 6. März 2000 (Stand am 1. Februar 2019)
+vom 6. März 2000 (Stand am 1. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -121,9 +121,10 @@ Von der Abgabepflicht ausgenommen sind:[^3-1]
 <tr><td>b. Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 3,5 t bis höchstens 8,5 t</td><td>2200</td></tr>
 <tr><td>c.[^4-3] Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 8,5 t bis höchstens 19,5 t</td><td>3300</td></tr>
 <tr><td>d.[^4-4] Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 19,5 t bis höchstens 26 t</td><td>4400</td></tr>
-<tr><td>e. Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 26 t</td><td>5000</td></tr>
-<tr><td>f. Motorkarren, Traktoren, Motorfahrzeuge für den Sachentransport mit einer Höchstgeschwindigkeitbis 45 km/h pro 100 kg Gesamtgewicht</td><td>11</td></tr>
-<tr><td>g. Motorfahrzeuge des Schausteller- und Zirkusgewerbes, die ausschliesslich Schausteller- oder Zirkusmaterial transportieren oder der Abgabe nicht unterliegende Anhänger ziehen, pro 100 kg Gesamtgewicht</td><td>8.[^4-5]</td></tr>
+<tr><td></td><td>Franken</td></tr>
+<tr><th>e. Gesellschaftswagen und Gelenkbusse mit einem Gesamtgewicht von über 26 t</th><th>5000</th></tr>
+<tr><th>f. Motorkarren, Traktoren, Motorfahrzeuge für den Sachentransport mit einer Höchstgeschwindigkeitbis 45 km/h pro 100 kg Gesamtgewicht</th><th>11</th></tr>
+<tr><th>g. Motorfahrzeuge des Schausteller- und Zirkusgewerbes, die ausschliesslich Schausteller- oder Zirkusmaterial transportieren oder der Abgabe nicht unterliegende Anhänger ziehen, pro 100 kg Gesamtgewicht</th><th>8.[^4-5]</th></tr>
 </table>
 
 <sup>2</sup> Für der Abgabe unterliegende Anhänger, die von Motorfahrzeugen gezogen werden, die keiner Abgabe bzw. der pauschalen Abgabeerhebung unterliegen, wird die Abgabe in Form einer Pauschalen auf dem Zugfahrzeug erhoben. Sie beträgt jährlich für:
@@ -222,7 +223,7 @@ Fahrzeuge, die der Abgabe unterliegen, haben die von der EZV bezeichneten Grenz�
 
 <sup>1</sup> Fahrten im Vor- und Nachlauf des UKV sind solche, die von Strassenfahrzeugen mit Ladebehältern (Container, Wechselaufbauten) oder mit Sattelanhängern zwischen dem Verlade- oder Entladeort und einem Umschlagsbahnhof oder Rheinhafen ausgeführt werden, ohne dass das Ladegut beim Übergang vom einen zum anderen Verkehrsträger das Transportgefäss wechselt.
 
-<sup>2</sup> …[^9-1]
+<sup>2</sup> ...[^9-1]
 
 [^9-1]: Aufgehoben durch Anhang Ziff. II 2 der Gütertransportverordnung vom 25. Mai 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 
@@ -247,7 +248,7 @@ Das Eidgenössische Finanzdepartement (EFD) regelt im Zusammenhang mit den Fahrt
 
 **Transport von Rohholz**
 
-<sup>1</sup> Für Fahrzeuge, mit denen ausschliesslich Rohholz transportiert wird, beträgt die Abgabe 75 Prozent der Ansätze nach den Artikeln 4 Absätze 1 Buchstabe f und 2 Buchstabe a und b, 14 Absatz 1 und 14*a* Absatz 1.[^11-1]
+<sup>1</sup> Für Fahrzeuge, mit denen ausschliesslich Rohholz transportiert wird, beträgt die Abgabe 75 Prozent der Ansätze nach den Artikeln 4 Absätze 1 Buchstabe f und 2 Buchstaben a und b sowie 14 Absatz 1.[^11-1]
 
 <sup>2</sup> Für Fahrzeuge, mit denen nicht ausschliesslich Rohholz transportiert wird, gewährt die EZV auf Antrag eine Rückerstattung von 2.10 Franken pro m<sup>3</sup> transportiertes Rohholz. Der Rückerstattungsbetrag darf höchstens 25 Prozent der gesamten Abgabe pro Fahrzeug und Periode betragen.
 
@@ -260,18 +261,19 @@ Das EFD regelt für Fahrzeuge nach Absatz 2:
 - a. die Pflichten der Halterinnen und Halter, insbesondere den Nachweis der Fahrten;
 - b. das Rückerstattungsverfahren.
 
-[^11-1]: Fassung gemäss Ziff. I der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. Juli 2021 ([AS 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
 #### Art. 12
 
 **Transporte von offener Milch und landwirtschaftlichen Nutztieren**[^12-1]
 
-Für die folgenden Fahrzeuge beträgt die Abgabe 75 Prozent der Ansätze nach den Artikeln 14 Absatz 1 und 14*a* Absatz 1:
+Für die folgenden Fahrzeuge beträgt die Abgabe 75 Prozent der Ansätze nach Artikel 14 Absatz 1:[^12-2]
 
 - a. Milch-Transportfahrzeuge, mit denen ausschliesslich offene Milch transportiert wird;
 - b. Viehtransportfahrzeuge, ausgenommen Pferdetransportfahrzeuge, mit denen ausschliesslich landwirtschaftliche Nutztiere transportiert werden.
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. Juli 2021 ([AS 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
 #### Art. 12a
 
@@ -356,14 +358,9 @@ Für Fahrzeuge, die der leistungsabhängigen Abgabe unterliegen, beträgt die Ab
 
 #### Art. 14a
 
-**Rabatt für mit Partikelfiltersystem nachgerüstete Fahrzeuge**[^14a-1]
+[^14a-1]
 
-<sup>1</sup> Für schwere und leichte Motorwagen der Emissionsklassen EURO II/EURO 2 und EURO III/EURO 3, die nachweislich mit einem Partikelfiltersystem nachgerüstet worden sind und zusätzlich die Anforderungen nach Anhang 1*a* erfüllen, beträgt die Abgabe pro gefahrenen Kilometer und Tonne massgebendes Gewicht 2,79 Rappen.[^14a-2]
-
-<sup>2</sup> Die EZV kann die Einhaltung des Partikelgrenzwertes bei Fahrzeugen nach Absatz 1 überprüfen.
-
-[^14a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5947](https://fedlex.data.admin.ch/eli/oc/2011/823)).
-[^14a-2]: Fassung gemäss Ziff. I der V vom 23. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3275](https://fedlex.data.admin.ch/eli/oc/2016/557)).
+[^14a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2011 ([AS 2011 5947](https://fedlex.data.admin.ch/eli/oc/2011/823)). Aufgehoben durch Ziff. I der V vom 20. Jan. 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
 #### Art. 14b
 
@@ -396,7 +393,7 @@ Mit dem Erfassungsgerät sind auf Kosten der Halterin oder des Halters folgende 
 
 <sup>5</sup> Die EZV kann weitere Motorfahrzeuge vom Erfassungsgeräteobligatorium ausnehmen.
 
-<sup>6</sup> und <sup>7</sup> …[^15-4]
+<sup>6</sup> und <sup>7</sup> ...[^15-4]
 
 [^15-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 2016, in Kraft seit 1. März 2016 ([AS 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 [^15-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
@@ -429,7 +426,7 @@ Mit dem Erfassungsgerät sind auf Kosten der Halterin oder des Halters folgende 
 
 <sup>3</sup> Die Halterin oder der Halter muss das Erfassungsgerät mit einer von der EZV abgegebenen Chipkarte initialisieren oder initialisieren lassen.
 
-<sup>4</sup> …[^16-2]
+<sup>4</sup> ...[^16-2]
 
 <sup>5</sup> Wird ein der Einbaupflicht unterliegendes Motorfahrzeug nicht mit einem Erfassungsgerät ausgerüstet, so verweigert die kantonale Vollzugsbehörde die Zulassung des betreffenden Motorfahrzeugs.
 
@@ -542,7 +539,7 @@ Die Fahrzeugführerin oder der Fahrzeugführer muss bei der korrekten Ermittlung
 
 <sup>3</sup> Bei der Ausserverkehrsetzung des Fahrzeugs endet die Abgabeperiode am Tag der Annullierung des Fahrzeugausweises.
 
-<sup>4</sup> …[^24-3]
+<sup>4</sup> ...[^24-3]
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 9. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 [^24-2]: Fassung gemäss Ziff. I der V vom 7. März 2008, in Kraft seit 1. April 2008 ([AS 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
@@ -715,7 +712,7 @@ Die EZV stellt dem EETS-Anbieter die Summe aller Abgaben in Rechnung, die für d
 
 <sup>2</sup> Wird während des Aufenthalts im Inland ein Anhänger an-, ab- oder umgekuppelt, so ist dies vor der Weiterfahrt auf dem entsprechenden Aufzeichnungsformular zu deklarieren. Als Bemessungsgrundlage gilt das höchste während des Aufenthalts im Inland erreichte Gesamtgewicht der Fahrzeugkombination.
 
-<sup>3</sup> …[^28-1]
+<sup>3</sup> ...[^28-1]
 
 [^28-1]: Aufgehoben durch Ziff. I der V vom 9. März 2018, mit Wirkung seit 1. Mai 2018 ([AS 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 
@@ -912,7 +909,7 @@ Als Reinertrag gilt der Ertrag nach Abzug der Aufwandentschädigung nach Artikel
 
 <sup>3</sup> Die verbleibenden 76,5 Prozent des Kantonsanteils werden nach dem Verteilungsschlüssel in Artikel 40 auf alle Kantone verteilt.[^38-4]
 
-<sup>4</sup> …[^38-5]
+<sup>4</sup> ...[^38-5]
 
 [^38-1]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 [^38-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6789](https://fedlex.data.admin.ch/eli/oc/2017/758)).
@@ -1135,7 +1132,7 @@ Für die Behandlung von Erlassgesuchen sind zuständig:
 
 - a. die kantonalen Vollzugsbehörden für die von ihnen veranlagten Fahrzeuge;
 - b.[^52-1] die EZV für die von ihr veranlagten inländischen und ausländischen Fahrzeuge;
-- c.[^52-2] …
+- c.[^52-2] ...
 
 <sup>3</sup> Es können nur rechtskräftig festgesetzte Abgabenbeträge erlassen werden.
 
@@ -1200,7 +1197,7 @@ Es werden aufgehoben:
 
 **Änderung bisherigen Rechts**
 
-…[^59-1]
+...[^59-1]
 
 [^59-1]: Die Änderungen können unter [AS 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192)konsultiert werden.
 
@@ -1254,9 +1251,9 @@ Anhang 1*[^t-1]*
 
 ## Abgabekategorien
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 23. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3275](https://fedlex.data.admin.ch/eli/oc/2016/557)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 20. Jan. 2021, in Kraft seit 1. Juli 2021 ([AS 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
-Die vollständigen Titel und Fundstellen der Rechtsvorschriften der EU sowie die Titel der UNECE-Reglemente und ihre Ergänzungen sind in Anhang 2 VTS[^annex1-lvlu1-1] aufgelistet.
+Die vollständigen Titel und Fundstellen der Rechtsvorschriften der EU, die in Kraft sind, sowie die Titel der UNECE-Reglemente und ihre Ergänzungen sind in Anhang 2 VTS[^annex1-lvlu1-1] aufgelistet.
 
 Die Stelle, bei der die UNECE-Reglemente eingesehen und bezogen werden können, ist in Artikel 3*a* Absatz 2 VTS genannt.
 
@@ -1268,54 +1265,62 @@ Die Stelle, bei der die UNECE-Reglemente eingesehen und bezogen werden können, 
 
 - – EURO I / EURO 1, EURO 0 oder vorher
 - – EURO II / EURO 2
+-
+
+  Die folgenden Abgasvorschriften sind massgebend:
+
+  - – Richtlinie 88/77/EWG in der Fassung der Richtlinie 91/542/EWG Grenzwerte Zeile B oder in der Fassung der Richtlinie 96/1/EG
+  - – Richtlinie 70/220/EWG in der Fassung der Richtlinie 96/69/EG
+  - – UNECE-Reglement Nr. 49 Änderung 02 Grenzwerte Zeile B
+  - – UNECE-Reglement Nr. 83 Änderung 04
+
 - – EURO III / EURO 3
 -
 
-  Die massgebenden Abgasvorschriften sind nachfolgend aufgelistet:
+  Die folgenden Abgasvorschriften sind massgebend:
 
-  - – Norm A (FAV 2[^annex1-lvlu1-lvl1-lvl11-1] ab 1.10.1993) mit nachstehenden Grenzwerten: CO ≤ 4,0 / HC ≤ 1,1 / NOx ≤ 7,0 g/kWh / Partikel ≤ 0,15 / Partikel ≤ 0,25 g/kWh für Motoren ≤ 0,7 l/Zyl. und &gt; 3000/min
-  - – Richtlinie 88/77/EWG in der Fassung der Richtlinie 91/542/EWG Grenzwerte Zeile B oder in der Fassung der Richtlinie 96/1/EG
-  - – Richtlinie 70/220/EWG in der Fassung der Richtlinie 96/69/EG
   - – Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile A oder in der Fassung der Richtlinie 2001/27/EG Grenzwerte Zeile A (inkl. Gasmotoren)
   - – Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/69/EG Grenzwerte Zeile A
-  - – UNECE-Reglement Nr. 49 Änderung 02 Grenzwerte Zeile B
-  - – UNECE-Reglement Nr. 83 Änderung 04
   - – UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile A oder Änderung 04 Grenzwerte Zeile A (inkl. Gasmotoren)
   - – UNECE-Reglement Nr. 83 Änderung 05 Grenzwerte Zeile A
 
-- Die Abgabekategorie 1 gilt für Fahrzeuge, die weder die Kriterien der Abgabekategorie 2 noch diejenigen der Abgabekategorie 3 erfüllen.
-
-[^annex1-lvlu1-lvl1-lvl11-1]: Verordnung vom 22. Okt. 1986 über die Abgasemissionen schwerer Motorwagen ([AS 1986 1866](https://fedlex.data.admin.ch/eli/oc/1986/1866_1866_1866), [1987 223](https://fedlex.data.admin.ch/eli/oc/1987/223_223_223), [1989 496](https://fedlex.data.admin.ch/eli/oc/1989/496_496_496), [1993 240](https://fedlex.data.admin.ch/eli/oc/1993/240_240_240), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167), [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425))
-
-### 1.2 Abgabekategorie 2
-
 - – EURO IV / EURO 4
+-
+
+  Die folgenden Abgasvorschriften sind massgebend:
+
+  - – Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile B1 oder in der Fassung der Richtlinie 2001/27/EG Grenzwerte Zeile B1 (inkl. Gasmotoren)
+  - – Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/69/EG Grenzwerte Zeile B
+  - – Richtlinie 2005/55/EG in der Fassung der Richtlinie 2005/78/EG Grenzwerte Zeile B1 oder in der Fassung der Richtlinie 2006/51/EG Grenzwerte Zeile B1
+  - – UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile B1 oder Änderung 04 Grenzwerte Zeile B1 (inkl. Gasmotoren) oder Änderung 05 Grenzwerte Zeile B1
+  - – UNECE-Reglement Nr. 83 Änderung 05 Grenzwerte Zeile B
+
 - – EURO V / EURO 5
 -
 
-  Die massgebenden Abgasvorschriften sind nachfolgend aufgelistet:
+  Die folgenden Abgasvorschriften sind massgebend:
 
-  - – Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile B1 und folgende oder in der Fassung der Richtlinie 2001/27/EG Grenzwerte Zeile B1 (inkl. Gasmotoren) und folgende
-  - – Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/69/EG Grenzwerte Zeile B
-  - – Richtlinie 2005/55/EG in der ursprünglichen Fassung
+  - – Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile B2 und folgende oder in der Fassung der Richtlinie 2001/27/EG Grenzwerte Zeile B2 und folgende (inkl. Gasmotoren)
+  - – Richtlinie 2005/55/EG in der Fassung der Richtlinie 2005/78/EG Grenzwerte Zeile B2 und folgende oder in der Fassung der Richtlinie 2006/51/EG Grenzwerte Zeile B2 und folgende
   - – Verordnung (EG) Nr. 715/2007 in der Fassung der Verordnung (EG) Nr. 692/2008 Grenzwerte Tabelle 1
-  - – UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile B1 und folgende oder Änderung 04 Grenzwerte Zeile B1 (inkl. Gasmotoren) oder Änderung 05 Grenzwerte Zeile B1
-  - – UNECE-Reglement Nr. 83 Änderung 05 Grenzwerte Zeile B
+  - – UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile B2 und folgende oder Änderung 04 Grenzwerte Zeile B2 und folgende (inkl. Gasmotoren) oder Änderung 05 Grenzwerte Zeile B2 und folgende (inkl. Gasmotoren)
   - – UNECE-Reglement Nr. 83 Änderung 06
+
+### 1.2 Abgabekategorie 2
+
+- [tab] –
 
 ### 1.3 Abgabekategorie 3
 
 - – EURO VI / EURO 6 oder später
 -
 
-  Die massgebenden Abgasvorschriften sind nachfolgend aufgelistet:
+  Die folgenden Abgasvorschriften sind massgebend:
 
   - – Verordnung (EG) Nr. 595/2009 in der Fassung der Verordnung (EU) Nr. 582/2011
   - – Verordnung (EG) Nr. 715/2007 in der Fassung der Verordnung (EG) Nr. 692/2008 Grenzwerte Tabelle 2
   - – UNECE-Reglement Nr. 49 Änderung 06
   - – UNECE-Reglement Nr. 83 Änderung 07
-
-- Die Emissionsklasse EURO VI / EURO 6 bleibt mindestens bis 31. Dezember 2020 in der Abgabekategorie 3 eingereiht.
 
 ### 2 Leichte Motorwagen (Gesamtgewicht 3 ≤ 3,5 t)
 
@@ -1323,70 +1328,66 @@ Die Stelle, bei der die UNECE-Reglemente eingesehen und bezogen werden können, 
 
 - – EURO I / EURO 1, EURO 0 oder vorher
 - – EURO II / EURO 2
-- – EURO III / EURO 3
 -
 
-  Die massgebenden Abgasvorschriften sind nachfolgend aufgelistet:
+  Die folgenden Abgasvorschriften sind massgebend:
 
   - – Richtlinie 70/220/EWG in der Fassung der Richtlinie 96/69/EG
   - – Richtlinie 88/77/EWG in der Fassung der Richtlinie 91/542/EWG Grenzwerte Zeile B oder in der Fassung der Richtlinie 96/1/EG
   - – UNECE-Reglement Nr. 83 Änderung 04
   - – UNECE-Reglement Nr. 49 Änderung 02 Grenzwerte Zeile B
+
+- – EURO III / EURO 3
+-
+
+  Die folgenden Abgasvorschriften sind massgebend:
+
   - – Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/69/EG Grenzwerte Zeile A
   - – Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile A oder in der Fassung der Richtlinie 2001/27/EG Grenzwerte Zeile A
-  - – UNECE-Reglement Nr. 83 Änderung 05 Grenzwerte Zeile A
   - – UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile A oder Änderung 04 Grenzwerte Zeile A
-
-- Die Abgabekategorie 1 gilt für Fahrzeuge, die weder die Kriterien der Abgabekategorie 2 noch diejenigen der Abgabekategorie 3 erfüllen.
-
-### 2.2 Abgabekategorie 2
+  - – UNECE-Reglement Nr. 83 Änderung 05 Grenzwerte Zeile A
 
 - – EURO IV / EURO 4
+-
+
+  Die folgenden Abgasvorschriften sind massgebend:
+
+  - – Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/69/EG Grenzwerte Zeile B
+  - – Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile B1 oder in der Fassung der Richtlinie 2001/27/EG Grenzwerte Zeile B1
+  - – Richtlinie 2005/55/EG in der Fassung der Richtlinie 2005/78/EG Grenzwerte Zeile B1 oder in der Fassung der Richtlinie 2006/51/EG Grenzwerte Zeile B1
+  - – UNECE-Reglement Nr. 83 Änderung 05 Grenzwerte Zeile B
+  - – UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile B1 oder Änderung 04 Grenzwerte Zeile B1 oder Änderung 05 Grenzwerte Zeile B1
+
 - – EURO V / EURO 5
 -
 
-  Die massgebenden Abgasvorschriften sind nachfolgend aufgelistet:
+  Die folgenden Abgasvorschriften sind massgebend:
 
-  - – Richtlinie 70/220/EWG in der Fassung der Richtlinie 98/69/EG Grenzwerte Zeile B
-  - – Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile B1 und folgende oder in der Fassung der Richtlinie 2001/27/EG Grenzwerte Zeile B1 und folgende
-  - – Richtlinie 2005/55/EG in der ursprünglichen Fassung
   - – Verordnung (EG) Nr. 715/2007 in der Fassung der Verordnung (EG) Nr. 692/2008 Grenzwerte Tabelle 1
-  - – UNECE-Reglement Nr. 83 Änderung 05 Grenzwerte Zeile B
+  - – Richtlinie 88/77/EWG in der Fassung der Richtlinie 1999/96/EG Grenzwerte Zeile B2 und folgende oder in der Fassung der Richtlinie 2001/27/EG Grenzwerte Zeile B2 und folgende
+  - – Richtlinie 2005/55/EG in der Fassung der Richtlinie 2005/78/EG Grenzwerte Zeile B2 und folgende oder in der Fassung der Richtlinie 2006/51/EG Grenzwerte Zeile B2 und folgende
   - – UNECE-Reglement Nr. 83 Änderung 06
-  - – UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile B1 und folgende oder Änderung 04 Grenzwerte Zeile B1 und folgende oder Änderung 05 Grenzwerte Zeile B1
+  - – UNECE-Reglement Nr. 49 Änderung 03 Grenzwerte Zeile B2 und folgende oder Änderung 04 Grenzwerte Zeile B2 und folgende oder Änderung 05 Grenzwerte Zeile B2 und folgende
+
+### 2.2 Abgabekategorie 2
+
+- [tab] –
 
 ### 2.3 Abgabekategorie 3
 
 - – EURO VI / EURO 6 oder später
 -
 
-  Die massgebenden Abgasvorschriften sind nachfolgend aufgelistet:
+  Die folgenden Abgasvorschriften sind massgebend:
 
   - – Verordnung (EG) Nr. 715/2007 in der Fassung der Verordnung (EG) Nr. 692/2008 Grenzwerte Tabelle 2
   - – Verordnung (EG) Nr. 595/2009 in der Fassung der Verordnung (EU) Nr. 582/2011
   - – UNECE-Reglement Nr. 83 Änderung 07
   - – UNECE-Reglement Nr. 49 Änderung 06
 
-- Die Emissionsklasse EURO VI / EURO 6 bleibt mindestens bis 31. Dezember 2020 in der Abgabekategorie 3 eingeteilt.
-
 Anhang 1a*[^t-2]*
 
-(Art. 14*a*)
-
-## Anforderungen an Motorwagen, die mit Partikelfiltersystem nachgerüstet worden sind
-
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 23. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5947](https://fedlex.data.admin.ch/eli/oc/2011/823)).
-
-Damit der Rabatt nach Artikel 14*a* gewährt wird, müssen folgende Voraussetzungen erfüllt sein:
-
-- a. Die Motorwagen müssen die Voraussetzungen der Emissionsklassen EURO II / EURO 2 oder EURO III / EURO 3 nach Anhang 1 erfüllen.
-- b. Bei inländischen Motorwagen der Emissionsklassen EURO II / EURO 2 und EURO III / EURO 3 muss das nachträglich eingebaute Partikelfiltersystem mindestens die Partikelgrenzwerte von Motorwagen der Emissionsklasse EURO IV / EURO 4 erreichen.
-- Zudem sind die Filterliste[^annex1a-lvlu1-1] des Bundesamts für Umwelt und das Merkblatt des Bundesamts für Strassen betreffend den nachträglichen Einbau von Partikelfiltern[^annex1a-lvlu1-2] zu berücksichtigen.
-- Bei ausländischen Motorwagen der Emissionsklassen EURO II / EURO 2 und EURO III / EURO 3 muss das eingebaute Partikelfiltersystem dasselbe Niveau der Partikelminderung wie bei inländischen Motorwagen erreichen.
-- c. Es ist nachzuweisen, dass das Partikelfiltersystem die Anforderungen nach Buchstabe b erfüllt. Der Nachweis wird erbracht durch einen entsprechenden Eintrag im Fahrzeugausweis oder in der Zulassungsbescheinigung beziehungsweise durch eine andere gleichwertige, von den nationalen Verkehrszulassungsbehörden ausgestellte Bestätigung. Der Nachweis ist im Motorfahrzeug mitzuführen.
-
-[^annex1a-lvlu1-1]: www.bafu.admin.ch/partikelfilterliste/index.html
-[^annex1a-lvlu1-2]: Merkblatt betreffend den nachträglichen Einbau von Partikelfiltern vom 4. April 2006.
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 23. Nov. 2011 ([AS 2011 5947](https://fedlex.data.admin.ch/eli/oc/2011/823)). Aufgehoben durch Ziff. II Abs. 2 der V vom 20. Jan. 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
 Anhang 2*[^t-3]*
 

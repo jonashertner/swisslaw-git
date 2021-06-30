@@ -4,11 +4,11 @@ title: "Ordinanza del 6 marzo 2000 concernente una tassa sul traffico pesante co
 short: OTTP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/192"
 language: it
-version: 2019-02-01
+version: 2021-07-01
 adopted: 2000-03-06
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20190201/it/xml/fedlex-data-admin-ch-eli-cc-2000-192-20190201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20190201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2000-192-20210701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20190201/it"
 
 (Ordinanza sul traffico pesante, OTTP)
 
-del 6 marzo 2000 (Stato 1° febbraio 2019) (Stato 1° febbraio 2019)
+del 6 marzo 2000 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -120,6 +120,10 @@ Sono esentati dall’obbligo della tassa:[^3-1]
 <tr><td>a.[^4-2] nel caso di autoveicoli pesanti per il trasporto di persone, di automobili pesanti nonché di rimorchi abitabili e per il trasporto di persone ciascuno d’un peso totale eccedente 3,5 t</td><td>650</td></tr>
 <tr><td>b. nel caso di autobus e autosnodati d’un peso totale eccedente 3,5 t ma non superiore a 8,5 t</td><td>2200</td></tr>
 <tr><td>c.[^4-3] nel caso di autobus e autosnodati d’un peso totale eccedente 8,5 t ma non superiore a 19,5 t</td><td>3300</td></tr>
+</table>
+
+<table>
+<tr><th></th><th>franchi</th></tr>
 <tr><td>d.[^4-4] nel caso di autobus e autosnodati d’un peso totale eccedente 19,5 t ma non superiore a 26 t</td><td>4400</td></tr>
 <tr><td>e. nel caso di autobus e autosnodati d’un peso totale eccedente 26 t</td><td>5000</td></tr>
 <tr><td>f. per 100 kg peso totale, nel caso di carri con motore, trattori e veicoli a motore per il trasporto di cose che non oltrepassano la velocità massima di 45 km/h</td><td>11</td></tr>
@@ -211,7 +215,7 @@ I veicoli assoggettati alla tassa devono varcare il confine presso i posti di co
 
 <sup>4</sup> Per ogni periodo fiscale l’importo della restituzione non può superare la tassa totale computata per i veicoli del richiedente impiegati nel TCNA.[^8-2]
 
-[^8-1]: Nuovo testo giusta il n. II 2 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° gen. 2017 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^8-1]: Nuovo testo giusta l’all. n. II 2 dell’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° gen. 2017 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 [^8-2]: Introdotto dal n. I dell’O del 15 set. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4525](https://fedlex.data.admin.ch/eli/oc/2004/686)).
 
 #### Art. 9
@@ -222,7 +226,7 @@ I veicoli assoggettati alla tassa devono varcare il confine presso i posti di co
 
 <sup>2</sup> …[^9-1]
 
-[^9-1]: Abrogato dal n. II 2 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, con effetto dal 1° gen. 2017 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^9-1]: Abrogato dall’all. n. II 2 dell’O del 25 mag. 2016 sul trasporto di merci, con effetto dal 1° gen. 2017 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 
 #### Art. 10
 
@@ -245,7 +249,7 @@ In relazione alle corse iniziali e finali nel TCNA, il Dipartimento federale del
 
 **Trasporti di legname greggio**
 
-<sup>1</sup> Per i veicoli con i quali viene trasportato esclusivamente legname greggio la tassa ammonta al 75 per cento delle aliquote di cui agli articoli 4 capoversi 1 lettera f e 2 lettere a e b, 14 capoverso 1 e 14*a* capoverso 1.[^11-1]
+<sup>1</sup> Per i veicoli con i quali viene trasportato esclusivamente legname greggio la tassa ammonta al 75 per cento delle aliquote di cui agli articoli 4 capoversi 1 lettera f e 2 lettere a e b e 14 capoverso 1.[^11-1]
 
 <sup>2</sup> Per i veicoli che non trasportano esclusivamente legname greggio l’AFD concede, su richiesta, una restituzione di franchi 2,10 per m<sup>3</sup> di legname greggio trasportato. L’importo della restituzione può ammontare al massimo al 25 per cento dell’importo complessivo della tassa riscossa per veicolo e periodo.
 
@@ -258,18 +262,19 @@ Per i veicoli di cui al capoverso 2 il DFF disciplina:
 - a. gli obblighi dei detentori, in particolare la prova delle corse;
 - b. la procedura di restituzione.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^11-1]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° lug. 2021 ([RU 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
 #### Art. 12
 
 **Trasporti di latte alla rinfusa e di animali da reddito**[^12-1]
 
-Per i seguenti veicoli la tassa ammonta al 75 per cento delle aliquote di cui agli articoli 14 capoverso 1 e 14*a* capoverso 1:
+Per i seguenti veicoli la tassa ammonta al 75 per cento delle aliquote di cui al articolo 14 capoverso 1:[^12-2]
 
 - a. veicoli per il trasporto di latte con i quali viene trasportato esclusivamente latte alla rinfusa;
 - b. veicoli per il trasporto di bestiame, ad eccezione di quelli per il trasporto di cavalli, utilizzati esclusivamente per il trasporto di animali da reddito.
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° lug. 2021 ([RU 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
 #### Art. 12a
 
@@ -355,14 +360,9 @@ Per i veicoli assoggettati, la tassa per chilometro percorso e per tonnellata de
 
 #### Art. 14a
 
-**Sconto per i veicoli equipaggiati a posteriori con un sistema di filtro antiparticolato**[^14a-1]
+[^14a-1]
 
-<sup>1</sup> Per gli autoveicoli pesanti e quelli leggeri delle categorie di norme sulle emissioni EURO II / EURO 2 ed EURO III / EURO 3, comprovatamente equipaggiati a posteriori con un sistema di filtro antiparticolato e che soddisfano inoltre i requisiti di cui allʼallegato 1*a*, la tassa per chilometro percorso e per tonnellata determinante ammonta a 2,79 centesimi.[^14a-2]
-
-<sup>2</sup> L’AFD può controllare il rispetto del valore limite di emissione di particolato nei veicoli di cui al capoverso 1.
-
-[^14a-1]: Introdotto dal n. I dell’O del 23 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5947](https://fedlex.data.admin.ch/eli/oc/2011/823)).
-[^14a-2]: Nuovo testo giusta il n. I dell’O del 23 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3275](https://fedlex.data.admin.ch/eli/oc/2016/557)).
+[^14a-1]: Introdotto dal n. I dell’O del 23 nov. 2011 ([RU 2011 5947](https://fedlex.data.admin.ch/eli/oc/2011/823)). Abrogato dal n. I dell’O del 20 gen. 2021, con effetto dal 1° lug. 2021 ([RU 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
 #### Art. 14b
 
@@ -465,7 +465,7 @@ Il DFF disciplina:
 
 <sup>2</sup> In caso di funzionamento difettoso o di guasto il detentore del veicolo deve far riparare o sostituire senza indugio l’apparecchio da un’officina di montaggio.[^18-1]
 
-<sup>3</sup> Se si sospetta una disfunzione dell’apparecchio bisogna farlo verificare da un’officina di montaggio. [^18-2]
+<sup>3</sup> Se si sospetta una disfunzione dell’apparecchio bisogna farlo verificare da un’officina di montaggio.[^18-2]
 
 <sup>4</sup> Se l’apparecchio di misurazione difettoso non viene riparato entro il termine fissato dall’AFD, l’autorità d’esecuzione cantonale revoca la licenza di circolazione e le targhe di controllo del rispettivo veicolo. Le targhe intercambiabili possono essere utilizzate ulteriormente per i veicoli non toccati dal provvedimento.
 
@@ -917,7 +917,7 @@ Il provento netto è il provento dopo deduzione delle spese secondo l’articolo
 [^38-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6789](https://fedlex.data.admin.ch/eli/oc/2017/758)).
 [^38-3]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4333](https://fedlex.data.admin.ch/eli/oc/2009/528)).
 [^38-4]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4333](https://fedlex.data.admin.ch/eli/oc/2009/528)).
-[^38-5]: Introdotto dal il n. I dell’O del 12 set. 2007 ([RU 2007 4695](https://fedlex.data.admin.ch/eli/oc/2007/670)). Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6789](https://fedlex.data.admin.ch/eli/oc/2017/758)).
+[^38-5]: Introdotto dal n. I dell’O del 12 set. 2007 ([RU 2007 4695](https://fedlex.data.admin.ch/eli/oc/2007/670)). Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6789](https://fedlex.data.admin.ch/eli/oc/2017/758)).
 
 #### Art. 39
 
@@ -1231,7 +1231,7 @@ Gli apparecchi di rilevazione consegnati gratuitamente dall’AFD non possono es
 
 Fino al 31 dicembre 2008 i veicoli della categoria di tassa 2 (EURO 3) sono tassati secondo l’aliquota della categoria di tassa 3.
 
-[^62a-1]: Introdotto dal il n. I dell’O del 12 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4695](https://fedlex.data.admin.ch/eli/oc/2007/670), [2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
+[^62a-1]: Introdotto dal n. I dell’O del 12 set. 2007, in vigore dal 1° gen. 2008 ([RU 2007 4695](https://fedlex.data.admin.ch/eli/oc/2007/670), [2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
 
 #### Art. 62b
 
@@ -1253,7 +1253,7 @@ Allegato 1*[^t-1]*
 
 ## Categorie di tassa
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 23 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3275](https://fedlex.data.admin.ch/eli/oc/2016/557)).
+[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 20 gen. 2021, in vigore dal 1° lug. 2021 ([RU 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
 I titoli e i riferimenti completi delle disposizioni legali dellʼUE nonché i titoli dei regolamenti UNECE e i loro complementi sono elencati nell’allegato 2 OETV[^annex1-lvlu1-1].
 
@@ -1267,40 +1267,46 @@ I regolamenti UNECE possono essere consultati e ottenuti presso lʼufficio indic
 
 - – EURO I / EURO 1, EURO 0 o precedenti
 - – EURO II / EURO 2
+-
+
+  Le prescrizioni determinanti sui gas di scarico sono elencate di seguito:
+
+  - – Direttiva 88/77/CEE nella versione della direttiva 91/542/CEE, valori limite fissati alla riga B o nella versione della direttiva 96/1/CE
+  - – Direttiva 70/220/CEE nella versione della direttiva 96/69/CE
+  - – Regolamento UNECE n. 49, emendamento 02, valori limite fissati alla riga B
+  - – Regolamento UNECE n. 83, emendamento 04
+
 - – EURO III / EURO 3
 -
 
   Le prescrizioni determinanti sui gas di scarico sono elencate di seguito:
 
-  - – Norma A (OEA 2[^annex1-lvlu1-lvl1-lvl11-1] dall’1.10.1993) con i seguenti valori limite: CO ≤ 4,0 / HC ≤ 1,1 / NOx ≤ 7,0 g/kWh particolato ≤ 0,15 / particolato ≤ 0,25 g/kWh per motori ≤ 0,7 l/cil. e &gt; 3000/min
-  - – Direttiva 88/77/CEE nella versione della direttiva 91/542/CEE, valori limite fissati alla riga B o nella versione della direttiva 96/1/CE
-  - – Direttiva 70/220/CEE nella versione della direttiva 96/69/CE
   - – Direttiva 88/77/CEE nella versione della direttiva 1999/96/CE, valori limite fissati alla riga A o nella versione della direttiva 2001/27/CE, valori limite fissati alla riga A (compresi motori a gas)
   - – Direttiva 70/220/CEE nella versione della direttiva 98/69/CE, valori limite fissati alla riga A
-  - – Regolamento UNECE n. 49, emendamento 02, valori limite fissati alla riga B
-  - – Regolamento UNECE n. 83, emendamento 04
   - – Regolamento UNECE n. 49, emendamento 03, valori limite fissati alla riga A o emendamento 04, valori limite fissati alla riga A (compresi motori a gas)
   - – Regolamento UNECE n. 83, emendamento 05, valori limite fissati alla riga A
 
-- La categoria di tassa 1 è valida per i veicoli che non adempiono i criteri delle categorie di tassa 2 e 3.
-
-[^annex1-lvlu1-lvl1-lvl11-1]: O del 22 ott. 1986 sui gas di scarico degli autoveicoli pesanti ([RU 1986 1866](https://fedlex.data.admin.ch/eli/oc/1986/1866_1866_1866), [1987 223](https://fedlex.data.admin.ch/eli/oc/1987/223_223_223), [1989 496](https://fedlex.data.admin.ch/eli/oc/1989/496_496_496), [1993 240](https://fedlex.data.admin.ch/eli/oc/1993/240_240_240), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167), [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-
-### 1.2 Categoria di tassa 2
-
 - – EURO IV / EURO 4
+- Le prescrizioni determinanti sui gas di scarico sono elencate di seguito:
+- – Direttiva 88/77/CEE nella versione della direttiva 1999/96/CE, valori limite fissati alla riga B1 o nella versione della direttiva 2001/27/CE, valori limite fissati alla riga B1 (compresi motori a gas)
+- – Direttiva 70/220/CEE nella versione della direttiva 98/69/CE, valori limite fissati alla riga B
+- – Direttiva 2005/55/CE nella versione della direttiva 2005/78/CE, valori limite fissati alla riga B1 o nella versione della direttiva 2006/51/CE, valori limite fissati alla riga B1
+- – Regolamento UNECE n. 49, emendamento 03, valori limite fissati alla riga B1 o emendamento 04, valori limite fissati alla riga B1 (compresi motori a gas) o emendamento 05, valori limite fissati alla riga B1
+- – Regolamento UNECE n. 83, emendamento 05, valori limite fissati alla riga B
 - – EURO V / EURO 5
 -
 
   Le prescrizioni determinanti sui gas di scarico sono elencate di seguito:
 
-  - – Direttiva 88/77/CEE nella versione della direttiva 1999/96/CE, valori limite fissati alla riga B1 e seguenti o nella versione della direttiva 2001/27/CE, valori limite fissati alla riga B1 (compresi motori a gas) e seguenti
-  - – Direttiva 70/220/CEE nella versione della direttiva 98/69/CE, valori limite fissati alla riga B
-  - – Direttiva 2005/55/CE nella versione originale
+  - – Direttiva 88/77/CEE nella versione della direttiva 1999/96/CE, valori limite fissati alla riga B2 e seguenti o nella versione della direttiva 2001/27/CE, valori limite fissati alla riga B2 (compresi motori a gas) e seguenti
+  - – Direttiva 2005/55/CE nella versione della direttiva 2005/78/CE, valori limite fissati alla riga B2 e seguenti o nella versione della direttiva 2006/51/CE, valori limite fissati alla riga B2 e seguenti
   - – Regolamento (CE) n. 715/2007 nella versione del regolamento (CE) n. 692/2008, valori limite fissati nella tabella 1
-  - – Regolamento UNECE n. 49, emendamento 03, valori limite fissati alla riga B1 e seguenti o emendamento 04, valori limite fissati alla riga B1 (compresi motori a gas) o emendamento 05, valori limite fissati alla riga B1
-  - – Regolamento UNECE n. 83, emendamento 05, valori limite fissati alla riga B
+  - – Regolamento UNECE n. 49, emendamento 03, valori limite fissati alla riga B2 e seguenti o emendamento 04, valori limite fissati alla riga B2 e seguenti (compresi motori a gas) o emendamento 05, valori limite fissati alla riga B2 e seguenti (compresi motori a gas)
   - – Regolamento UNECE n. 83, emendamento 06
+
+### 1.2 Categoria di tassa 2
+
+- [tab] –
 
 ### 1.3 Categoria di tassa 3
 
@@ -1314,15 +1320,12 @@ I regolamenti UNECE possono essere consultati e ottenuti presso lʼufficio indic
   - – Regolamento UNECE n. 49, emendamento 06
   - – Regolamento UNECE n. 83, emendamento 07
 
-- La categoria di norme sulle emissioni EURO VI / EURO 6 rimane classificata nella categoria di tassa 3 almeno fino al 31 dicembre 2020.
-
 ### 2 Autoveicoli leggeri (peso totale 3 ≤ 3,5 t)
 
 ### 2.1 Categoria di tassa 1
 
 - – EURO I / EURO 1, EURO 0 o precedenti
 - – EURO II / EURO 2
-- – EURO III / EURO 3
 -
 
   Le prescrizioni determinanti sui gas di scarico sono elencate di seguito:
@@ -1331,28 +1334,38 @@ I regolamenti UNECE possono essere consultati e ottenuti presso lʼufficio indic
   - – Direttiva 88/77/CEE nella versione della direttiva 91/542/CEE, valori limite fissati alla riga B o nella versione della direttiva 96/1/CE
   - – Regolamento UNECE n. 83, emendamento 04
   - – Regolamento UNECE n. 49, emendamento 02, valori limite fissati alla riga B
+
+- – EURO III / EURO 3
+-
+
+  Le prescrizioni determinanti sui gas di scarico sono elencate di seguito:
+
   - – Direttiva 70/220/CEE nella versione della direttiva 98/69/CE, valori limite fissati alla riga A
   - – Direttiva 88/77/CEE nella versione della direttiva 1999/96/CE, valori limite fissati alla riga A o nella versione della direttiva 2001/27/CE, valori limite fissati alla riga A
-  - – Regolamento UNECE n. 83, emendamento 05, valori limite fissati alla riga A
   - – Regolamento UNECE n. 49, emendamento 03, valori limite fissati alla riga A o emendamento 04, valori limite fissati alla riga A
-
-- La categoria di tassa 1 è valida per i veicoli che non adempiono i criteri delle categorie di tassa 2 e 3.
-
-### 2.2 Categoria di tassa 2
+  - – Regolamento UNECE n. 83, emendamento 05, valori limite fissati alla riga A
 
 - – EURO IV / EURO 4
+- Le prescrizioni determinanti sui gas di scarico sono elencate di seguito:
+- – Direttiva 70/220/CEE nella versione della direttiva 98/69/CE, valori limite fissati alla riga B
+- – Direttiva 88/77/CEE nella versione della direttiva 1999/96/CE, valori limite fissati alla riga B1 o nella versione della direttiva 2001/27/CE, valori limite fissati alla riga B1
+- – Direttiva 2005/55/CE nella versione della direttiva 2005/78/CE, valori limite fissati alla riga B1 o nella versione della direttiva 2006/51/CE, valori limite fissati alla riga B1
+- – Regolamento UNECE n. 83, emendamento 05, valori limite fissati alla riga B
+- – Regolamento UNECE n. 49, emendamento 03, valori limite fissati alla riga B1 o emendamento 04, valori limite fissati alla riga B1 o emendamento 05, valori limite fissati alla riga B1
 - – EURO V / EURO 5
 -
 
   Le prescrizioni determinanti sui gas di scarico sono elencate di seguito:
 
-  - – Direttiva 70/220/CEE nella versione della direttiva 98/69/CE, valori limite fissati alla riga B
-  - – Direttiva 88/77/CEE nella versione della direttiva 1999/96/CE, valori limite fissati alla riga B1 e seguenti o nella versione della direttiva 2001/27/CE, valori limite fissati alla riga B1 e seguenti
-  - – Direttiva 2005/55/CE nella versione originale
   - – Regolamento (CE) n. 715/2007 nella versione del regolamento (CE) n. 692/2008, valori limite fissati nella tabella 1
-  - – Regolamento UNECE n. 83, emendamento 05, valori limite fissati alla riga B
+  - – Direttiva 88/77/CEE nella versione della direttiva 1999/96/CE, valori limite fissati alla riga B2 e seguenti o nella versione della direttiva 2001/27/CE, valori limite fissati alla riga B2 e seguenti
+  - – Direttiva 2005/55/CE nella versione della direttiva 2005/78/CE, valori limite fissati alla riga B2 e seguenti o nella versione della direttiva 2006/51/CE, valori limite fissati alla riga B2 e seguenti
   - – Regolamento UNECE n. 83, emendamento 06
-  - – Regolamento UNECE n. 49, emendamento 03, valori limite fissati alla riga B1 e seguenti o emendamento 04, valori limite fissati alla riga B1 e seguenti o emendamento 05, valori limite fissati alla riga B1
+  - – Regolamento UNECE n. 49, emendamento 03, valori limite fissati alla riga B2 e seguenti o emendamento 04, valori limite fissati alla riga B2 e seguenti o emendamento 05, valori limite fissati alla riga B2 e seguenti
+
+### 2.2 Categoria di tassa 2
+
+- [tab] –
 
 ### 2.3 Categoria di tassa 3
 
@@ -1366,26 +1379,9 @@ I regolamenti UNECE possono essere consultati e ottenuti presso lʼufficio indic
   - – Regolamento UNECE n. 83, emendamento 07
   - – Regolamento UNECE n. 49, emendamento 06
 
-- La categoria di norme sulle emissioni EURO VI / EURO 6 rimane classificata nella categoria di tassa 3 almeno fino al 31 dicembre 2020.
-
 Allegato 1a*[^t-2]*
 
-(art. 14*a*)
-
-## Requisiti per gli autoveicoli equipaggiati a posteriori con un sistema di filtro antiparticolato
-
-[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 23 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5947](https://fedlex.data.admin.ch/eli/oc/2011/823)).
-
-Affinché possa essere concesso lo sconto ai sensi dell’articolo 14*a*, devono essere adempiute le seguenti condizioni:
-
-- a. gli autoveicoli devono soddisfare i requisiti relativi alle categorie di norme sulle emissioni EURO II / EURO 2 o EURO III / EURO 3 secondo l’allegato 1;
-- b. negli autoveicoli svizzeri delle categorie di norme sulle emissioni EURO II / EURO 2 ed EURO III / EURO 3, il sistema di filtro antiparticolato montato a posteriori deve raggiungere almeno il valore limite per il particolato degli autoveicoli della categoria di norme EURO IV / EURO 4.
-- Occorre inoltre tenere conto dell’elenco dei filtri[^annex1a-lvlu1-1] dell’Ufficio federale dell’ambiente e del promemoria dell’Ufficio federale delle strade concernente l’equipaggiamento a posteriori di filtri antiparticolati[^annex1a-lvlu1-2].
-- Il sistema di filtro antiparticolato montato sugli autoveicoli esteri delle categorie di norme sulle emissioni EURO II / EURO 2 ed EURO III / EURO 3 deve raggiungere lo stesso livello di riduzione delle emissioni di particolato degli autoveicoli svizzeri;
-- c. occorre comprovare che il sistema di filtro antiparticolato soddisfa i requisiti di cui alla lettera b. La prova è fornita mediante un’iscrizione nella licenza di circolazione o nel certificato di immatricolazione oppure tramite un’attestazione equivalente rilasciata dalle autorità per la messa in circolazione. La prova deve essere trasportata all’interno dell’autoveicolo.
-
-[^annex1a-lvlu1-1]: www.bafu.admin.ch/partikelfilterliste/index.html?lang=it.
-[^annex1a-lvlu1-2]: *Merkblatt betreffend den nachträglichen Einbau von Partikelfiltern* del 4 apr. 2006.
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 23 nov. 2011 ([RU 2011 5947](https://fedlex.data.admin.ch/eli/oc/2011/823)). Abrogato dal n. II cpv. 2 dell’O del 20 gen. 2021, con effetto dal 1° lug. 2021 ([RU 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
 Allegato 2*[^t-3]*
 

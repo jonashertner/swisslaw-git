@@ -4,11 +4,11 @@ title: "Ordonnance du 6 mars 2000 concernant une redevance sur le trafic des poi
 short: ORPL
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/192"
 language: fr
-version: 2019-02-01
+version: 2021-07-01
 adopted: 2000-03-06
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20190201/fr/xml/fedlex-data-admin-ch-eli-cc-2000-192-20190201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20190201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/192/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-192-20210701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/192/20190201/fr"
 
 (Ordonnance relative à une redevance sur le trafic des poids lourds, ORPL)
 
-du 6 mars 2000 (Etat le 1<sup>er</sup> février 2019)
+du 6 mars 2000 (Etat le 1<sup>er</sup> juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -220,7 +220,7 @@ Les véhicules soumis à la redevance doivent utiliser les bureaux de passage fr
 
 <sup>1</sup> Sont considérés comme parcours initiaux et terminaux du TCNA les parcours que des véhicules routiers chargés d’unités de chargement (conteneurs, caisses mobiles) ou tractant des semi-remorques effectuent entre le lieu de chargement ou de déchargement et une gare de transbordement ou un port rhénan, sans que la marchandise transportée change de contenant lors du passage d’un mode de transport à l’autre.
 
-<sup>2</sup> …[^9-1]
+<sup>2</sup> ...[^9-1]
 
 [^9-1]: Abrogé par le ch. II 2 de l’annexe à l’O du 25 mai 2016 sur le transport de marchandises, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 
@@ -245,7 +245,7 @@ Le Département fédéral des finances (DFF) règle, en relation avec les parcou
 
 **Transport de bois brut**
 
-<sup>1</sup> Pour les véhicules servant uniquement au transport de bois brut, la redevance se monte à 75 % des taux figurant aux art. 4, al. 1, let. f, et 2, let. a et b, 14, al. 1, et 14a, al. 1.[^11-1]
+<sup>1</sup> Pour les véhicules servant uniquement au transport de bois brut, la redevance se monte à 75 % des taux figurant aux art. 4, al. 1, let. f, et 2, let. a et b, et 14, al. 1.[^11-1]
 
 <sup>2</sup> L’AFD accorde, sur demande, un remboursement de 2 fr. 10 par m<sup>3</sup> de bois brut transporté pour les véhicules ne servant pas uniquement au transport de bois brut. Le montant remboursé peut atteindre 25 % au maximum de la redevance totale par véhicule et par période.
 
@@ -258,18 +258,19 @@ Pour les véhicules visés à l’al. 2, le DFF règle:
 - a. les devoirs des détenteurs de véhicules, en particulier la façon dont ils doivent apporter la preuve des courses effectuées;
 - b. la procédure de remboursement.
 
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du 9 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
 #### Art. 12
 
 **Transports de lait en vrac et d’animaux de rente**[^12-1]
 
-Pour les véhicules suivants, la redevance se monte à 75 % des taux énoncés aux art. 14, al. 1, et 14*a*, al. 1:
+Pour les véhicules suivants, la redevance se monte à 75 % des taux énoncés à l’art. 14, al. 1:[^12-2]
 
 - a. les véhicules servant uniquement au transport de lait en vrac;
 - b. les véhicules de transport d’animaux, à l’exclusion des véhicules de transport de chevaux, servant uniquement au transport d’animaux de rente.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 9 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
 #### Art. 12a
 
@@ -354,14 +355,9 @@ Pour les véhicules soumis à la redevance liée aux prestations, la redevance, 
 
 #### Art. 14a
 
-**Rabais accordé aux véhicules équipés a posteriori d’un système de filtre à particules**[^14a-1]
+[^14a-1]
 
-<sup>1</sup> Pour les voitures automobiles lourdes et légères des classes d’émission EURO II / EURO 2 et EURO III / EURO 3 dont il est prouvé qu’elles ont été équipées *a pos**teriori* d’un système de filtre à particules et qu’elles satisfont par ailleurs aux exigences définies à l’annexe 1*a*, la redevance se monte, par kilomètre parcouru et par tonne de poids déterminant, à 2,79 centimes.[^14a-2]
-
-<sup>2</sup> L’AFD peut contrôler le respect de la valeur limite d’émission de particules sur les véhicules visés à l’al. 1.
-
-[^14a-1]: Introduit par le ch. I de l’O du 23 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5947](https://fedlex.data.admin.ch/eli/oc/2011/823)).
-[^14a-2]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3275](https://fedlex.data.admin.ch/eli/oc/2016/557)).
+[^14a-1]: Introduit par le ch. I de l’O du 23 nov. 2011 ([RO 2011 5947](https://fedlex.data.admin.ch/eli/oc/2011/823)). Abrogé par le ch. I de l’O du 20 janv. 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
 #### Art. 14b
 
@@ -377,7 +373,7 @@ Pour les véhicules soumis à la redevance liée aux prestations, la redevance, 
 
 #### Art. 15
 
-**Equipement**
+**Équipement**
 
 <sup>1</sup> La redevance est déterminée au moyen d’un dispositif de mesure électronique agréé par l’AFD. Ce dispositif se compose du tachygraphe monté dans le véhicule ou de l’enregistreur d’impulsions destiné à déterminer la distance parcourue, ainsi que d’un appareil de saisie qui compte et enregistre le kilométrage parcouru déterminant.[^15-1]
 
@@ -394,7 +390,7 @@ Le détenteur doit équiper à ses frais les véhicules à moteur suivants immat
 
 <sup>5</sup> L’AFD peut dispenser d’autres véhicules automobiles de l’obligation de monter l’appareil de saisie.
 
-<sup>6</sup> et <sup>7</sup> …[^15-4]
+<sup>6</sup> et <sup>7</sup> ...[^15-4]
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2016, en vigueur depuis le 1<sup>er</sup> mars 2016 ([RO 2016 513](https://fedlex.data.admin.ch/eli/oc/2016/93)).
 [^15-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
@@ -427,7 +423,7 @@ Le détenteur doit équiper à ses frais les véhicules à moteur suivants immat
 
 <sup>3</sup> Le détenteur du véhicule doit initialiser ou faire initialiser l’appareil de saisie au moyen d’une carte à puce remise par l’AFD.
 
-<sup>4</sup> …[^16-2]
+<sup>4</sup> ...[^16-2]
 
 <sup>5</sup> Si un véhicule automobile soumis au montage obligatoire de l’appareil de saisie n’est pas équipé d’un tel appareil, l’autorité cantonale d’exécution refuse la mise en circulation du véhicule automobile concerné.
 
@@ -540,7 +536,7 @@ Le conducteur doit collaborer à l’établissement correct du kilométrage. Il 
 
 <sup>3</sup> Lors du retrait du véhicule de la circulation, la période fiscale se termine le jour de l’annulation du permis de circulation.
 
-<sup>4</sup> …[^24-3]
+<sup>4</sup> ...[^24-3]
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 9 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 [^24-2]: Nouvelle teneur selon le ch. I de l’O du 7 mars 2008, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
@@ -713,7 +709,7 @@ L’AFD facture périodiquement au prestataire du SET la somme des redevances du
 
 <sup>2</sup> Si une remorque est attelée, dételée ou échangée pendant le séjour en Suisse, ce changement doit être déclaré sur le formulaire d’enregistrement avant la poursuite de la course. La base de calcul est constituée par le poids total le plus élevé atteint par la combinaison de véhicules lors du séjour en Suisse.
 
-<sup>3</sup> …[^28-1]
+<sup>3</sup> ...[^28-1]
 
 [^28-1]: Abrogé par le ch. I de l’O du 9 mars 2018, avec effet au 1<sup>er</sup> mai 2018 ([RO 2018 1521](https://fedlex.data.admin.ch/eli/oc/2018/230)).
 
@@ -869,7 +865,7 @@ Outre le détenteur, sont solidairement responsables de la redevance sur le traf
 - [tab] <sup>1</sup> La personne solidairement responsable au sens de l’art. 36, al. 1<sup>bis</sup>, qui désire remettre un véhicule tracteur ou une remorque (véhicule) à un tiers pour utilisation peut, dans le cadre de la conclusion du contrat, demander à l’AFD si le tiers (partie contractante), ou le détenteur du véhicule s’il ne s’agit pas de la même personne, est insolvable ou a été mis en demeure sans effet.[^36a-2]
 - [tab] <sup>2</sup> La demande doit comporter:
 - a. l’identité et l’adresse de la partie contractante ainsi que, le cas échéant, du détenteur;
-- b. les indications relatives au véhicule; et
+- b. les indications relatives au véhicule, et
 - c. une déclaration écrite de la partie contractante et, le cas échéant, du détenteur autorisant l’AFD à donner les renseignements demandés.
 - [tab] <sup>3</sup> Si la partie contractante ou, le cas échéant, le détenteur est insolvable ou a été mis en demeure sans effet, l’AFD, dans sa réponse, attire l’attention du requérant sur le fait que celui-ci, du fait de la conclusion du contrat et pour le véhicule concerné, devient solidairement responsable du paiement des redevances dues à partir de ce moment ainsi que des intérêts et émoluments éventuels.
 
@@ -882,7 +878,7 @@ Outre le détenteur, sont solidairement responsables de la redevance sur le traf
 
 Si l’AFD constate, après la mise en circulation du véhicule visé à l’art. 36*a*, al. 2, let. b, que le détenteur est insolvable ou a été mis en demeure sans effet et qu’elle envisage d’actionner la personne solidairement responsable au sens de l’art. 36, al. 1<sup>bis</sup>, elle informe cette personne par écrit que celle-ci est solidairement responsable du paiement des redevances futures ainsi que des intérêts et émoluments éventuels concernant ce véhicule:
 
-- a. si elle ne résilie pas le contrat dans un délai de 60 jours; ou
+- a. si elle ne résilie pas le contrat dans un délai de 60 jours, ou
 - b. si toutes les redevances dues pour ce véhicule ainsi que les intérêts et émoluments éventuels ne sont pas payés intégralement dans les 60 jours.
 
 [^36b-1]: Introduit par le ch. I de l’O du 7 mars 2008, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)).
@@ -905,7 +901,7 @@ Le produit net correspond au produit après déduction de l’indemnisation selo
 
 <sup>3</sup> Les 76,5 % restants de la part des cantons sont répartis entre tous les cantons selon la clé de répartition de l’art. 40.[^38-4]
 
-<sup>4</sup> …[^38-5]
+<sup>4</sup> ...[^38-5]
 
 [^38-1]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
 [^38-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6789](https://fedlex.data.admin.ch/eli/oc/2017/758)).
@@ -1126,7 +1122,7 @@ La révision de décisions et de décisions sur recours s’opère conformément
 
 - a. des autorités cantonales d’exécution pour les véhicules qu’elles ont imposés;
 - b.[^52-1] de l’AFD pour les véhicules suisses et étrangers qu’elle a taxés;
-- c.[^52-2] …
+- c.[^52-2] ...
 
 <sup>3</sup> Seuls les montants de redevance entrés en force peuvent faire l’objet d’une remise.
 
@@ -1191,7 +1187,7 @@ Sont abrogées:
 
 **Modification du droit en vigueur**
 
-…[^59-1]
+...[^59-1]
 
 [^59-1]: Les mod. peuvent être consultées au [RO 2000 1170](https://fedlex.data.admin.ch/eli/oc/2000/192).
 
@@ -1245,9 +1241,9 @@ Annexe 1*[^t-1]*
 
 ## Catégories de redevances
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 23 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3275](https://fedlex.data.admin.ch/eli/oc/2016/557)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
-Les titres complets et les références du droit de l’UE ainsi que les titres des règlements UNECE et leurs compléments sont mentionnés à l’annexe 2 OETV[^annex1-lvlu1-1].
+Les titres complets et les références du droit de l’UE en vigueur ainsi que les titres des règlements UNECE et leurs compléments sont mentionnés à l’annexe 2 OETV[^annex1-lvlu1-1].
 
 Le service où peuvent être consultés et obtenus les règlements de l’UNECE est mentionné à l’art. 3*a*, al. 2, OETV.
 
@@ -1259,54 +1255,55 @@ Le service où peuvent être consultés et obtenus les règlements de l’UNECE 
 
 - – EURO I / EURO 1, EURO 0 et antérieur
 - – EURO II / EURO 2
+- [tab] Les prescriptions sur les gaz d’échappement énumérées ci-après sont déterminantes:
+- – directive 88/77/CEE dans la version de la directive 91/542/CEE, valeurs limites fixées à la ligne B ou dans la version de la directive 96/1/CE
+- – directive 70/220/CEE dans la version de la directive 96/69/CE
+  - – règlement UNECE n<sup>o</sup> 49, amendement 02, valeurs limites fixées à la ligne B
+
+- – règlement UNECE n<sup>o</sup> 83, amendement 04
 - – EURO III / EURO 3
 -
 
-  Les prescriptions sur les gaz d’échappement déterminantes sont énumérées ci-après:
+  Les prescriptions sur les gaz d’échappement énumérées ci-après sont déterminantes:
 
-  - – norme A (OEV 2[^annex1-lvlu1-lvl1-lvl11-1] à partir du 1.10.1993) avec les valeurs limites ci-après: CO ≤ 4,0 / HC ≤ 1,1 / NOx ≤ 7,0 g/kWh / particules ≤ 0,15 / particules ≤ 0,25 g/kWh pour les moteurs ≤ 0,7 l/cyl. et &gt; 3000/min
-  - – directive 88/77/CEE dans la version de la directive 91/542/CEE, valeurs limites fixées à la ligne B ou dans la version de la directive 96/1/CE
-  - – directive 70/220/CEE dans la version de la directive 96/69/CE
   - – directive 88/77/CEE dans la version de la directive 1999/96/CE, valeurs limites fixées à la ligne A ou dans la version de la directive 2001/27/CE, valeurs limites fixées à la ligne A (y compris les moteurs à gaz)
   - – directive 70/220/CEE dans la version de la directive 98/69/CE, valeurs limites fixées à la ligne A
-  - – règlement UNECE n<sup>o</sup> 49, amendement 02, valeurs limites fixées à la ligne B
-  - – règlement UNECE n<sup>o</sup> 83, amendement 04
   - – règlement UNECE n<sup>o</sup> 49, amendement 03, valeurs limites fixées à la ligne A ou amendement 04, valeurs limites fixées à la ligne A (y compris les moteurs à gaz)
   - – règlement UNECE n<sup>o</sup> 83, amendement 05, valeurs limites fixées à la ligne A
 
-- La catégorie de redevance 1 s’applique aux véhicules qui ne remplissent pas les critères de la catégorie de redevance 2 ni ceux de la catégorie de redevance 3.
-
-[^annex1-lvlu1-lvl1-lvl11-1]: O du 22 oct. l986 sur les émissions de gaz d’échappement des voitures automobiles lourdes ([RO 1986 1866](https://fedlex.data.admin.ch/eli/oc/1986/1866_1866_1866), [1987 223](https://fedlex.data.admin.ch/eli/oc/1987/223_223_223), [1989 496](https://fedlex.data.admin.ch/eli/oc/1989/496_496_496), [1993 240](https://fedlex.data.admin.ch/eli/oc/1993/240_240_240), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167), [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-
-### 1.2 Catégorie de redevance 2
-
 - – EURO IV / EURO 4
+- [tab] Les prescriptions sur les gaz d’échappement énumérées ci-après sont déterminantes:
+- – directive 88/77/CEE dans la version de la directive 1999/96/CE, valeurs limites fixées à la ligne B1 ou dans la version de la directive 2001/27/CE, valeurs limites fixées à la ligne B1 (y compris les moteurs à gaz)
+- – directive 70/220/CEE dans la version de la directive 98/69/CE, valeurs limites fixées à la ligne B
+- – directive 2005/55/CE dans la version de la directive 2005/78/CE, valeurs limites fixées à la ligne B1 ou dans la version de la directive 2006/51/CE, valeurs limites fixées à la ligne B1
+- – règlement UNECE n<sup>o</sup> 49, amendement 03, valeurs limites fixées à la ligne B1 ou amendement 04, valeurs limites fixées à la ligne B1 (y compris les moteurs à gaz) ou amendement 05, valeurs limites fixées à la ligne B1
+- – règlement UNECE n<sup>o</sup> 83, amendement 05, valeurs limites fixées à la ligne B
 - – EURO V / EURO 5
 -
 
-  Les prescriptions sur les gaz d’échappement déterminantes sont énumérées ci-après:
+  Les prescriptions sur les gaz d’échappement énumérées ci-après sont déterminantes:
 
-  - – directive 88/77/CEE dans la version de la directive 1999/96/CE, valeurs limites fixées à la ligne B1 et suivantes ou dans la version de la directive 2001/27/CE, valeurs limites fixées à la ligne B1 (y compris les moteurs à gaz) et suivantes
-  - – directive 70/220/CEE dans la version de la directive 98/69/CE, valeurs limites fixées à la ligne B
-  - – Directive 2005/55/CE dans sa version d’origine
-  - – règlement (CE) n<sup>o</sup> 715/2007 dans la version du règlement (CE) no 692/2008, valeurs limites fixées au tableau 1
-  - – règlement UNECE n<sup>o</sup> 49, amendement 03, valeurs limites fixées à la ligne B1 et suivantes ou amendement 04, valeurs limites fixées à la ligne B1 (y compris les moteurs à gaz) ou amendement 05, valeurs limites fixées à la ligne B1
-  - – règlement UNECE n<sup>o</sup> 83, amendement 05, valeurs limites fixées à la ligne B
+  - – directive 88/77/CEE dans la version de la directive 1999/96/CE, valeurs limites fixées à la ligne B2 et suivantes ou dans la version de la directive 2001/27/CE, valeurs limites fixées à la ligne B2 et suivantes (y compris les moteurs à gaz)
+  - – directive 2005/55/CE dans la version de la directive 2005/78/CE, valeurs limites fixées à la ligne B2 et suivantes ou dans la version de la directive 2006/51/CE, valeurs limites fixées à la ligne B2 et suivantes
+  - – règlement (CE) n<sup>o</sup> 715/2007 dans la version du règlement (CE) n° 692/2008, valeurs limites fixées au tableau 1
+  - – règlement UNECE n<sup>o</sup> 49, amendement 03, valeurs limites fixées à la ligne B2 et suivantes ou amendement 04, valeurs limites fixées à la ligne B2 et suivantes (y compris les moteurs à gaz) ou amendement 05, valeurs limites fixées à la ligne B2 et suivantes (y compris les moteurs à gaz)
   - – règlement UNECE n<sup>o</sup> 83, amendement 06
+
+### 1.2 Catégorie de redevance 2
+
+- [tab] –
 
 ### 1.3 Catégorie de redevance 3
 
 - – EURO VI / EURO 6 et ultérieur
 -
 
-  Les prescriptions sur les gaz d’échappement déterminantes sont énumérées ci-après:
+  Les prescriptions sur les gaz d’échappement énumérées ci-après sont déterminantes:
 
   - – règlement (CE) n<sup>o</sup> 595/2009 dans la version du règlement (UE) n<sup>o</sup> 582/2011
   - – règlement (CE) n<sup>o</sup> 715/2007 dans la version du règlement (CE) n<sup>o</sup> 692/2008, valeurs limites fixées au tableau 2
   - – règlement UNECE n<sup>o</sup> 49, amendement 06
   - – règlement UNECE n<sup>o</sup> 83, amendement 07
-
-- La classe d’émission EURO VI / EURO 6 reste classée dans la catégorie de redevance 3 au moins jusqu’au 31 décembre 2020.
 
 ### 2 Voitures automobiles légères (poids total 3 ≤ 3,5 t)
 
@@ -1314,70 +1311,62 @@ Le service où peuvent être consultés et obtenus les règlements de l’UNECE 
 
 - – EURO I / EURO 1, EURO 0 et antérieur
 - – EURO II / EURO 2
+- [tab] Les prescriptions sur les gaz d’échappement énumérées ci-après sont déterminantes:
+- – directive 70/220/CEE dans la version de la directive 96/69/CE
+  - – directive 88/77/CEE dans la version de la directive 91/542/CEE, valeurs limites fixées à la ligne B ou dans la version de la directive 96/1/CE
+
+- – règlement UNECE n<sup>o</sup> 83, amendement 04
+  - – règlement UNECE n<sup>o</sup> 49, amendement 02, valeurs limites fixées à la ligne B
+
 - – EURO III / EURO 3
 -
 
-  Les prescriptions sur les gaz d’échappement déterminantes sont énumérées ci-après:
+  Les prescriptions sur les gaz d’échappement énumérées ci-après sont déterminantes:
 
-  - – directive 70/220/CEE dans la version de la directive 96/69/CE
-  - – directive 88/77/CEE dans la version de la directive 91/542/CEE, valeurs limites fixées à la ligne B ou dans la version de la directive 96/1/CE
-  - – règlement UNECE n<sup>o</sup> 83, amendement 04
-  - – règlement UNECE n<sup>o</sup> 49, amendement 02, valeurs limites fixées à la ligne B
   - – directive 70/220/CEE dans la version de la directive 98/69/CE, valeurs limites fixées à la ligne A
   - – directive 88/77/CEE dans la version de la directive 1999/96/CE, valeurs limites fixées à la ligne A ou dans la version de la directive 2001/27/CE, valeurs limites fixées à la ligne A
-  - – règlement UNECE n<sup>o</sup> 83, amendement 05, valeurs limites fixées à la ligne A
   - – règlement UNECE n<sup>o</sup> 49, amendement 03, valeurs limites fixées à la ligne A ou amendement 04, valeurs limites fixées à la ligne A
-
-- La catégorie de redevance 1 s’applique aux véhicules qui ne remplissent pas les critères de la catégorie de redevance 2 ni ceux de la catégorie de redevance 3.
-
-### 2.2 Catégorie de redevance 2
+  - – règlement UNECE n<sup>o</sup> 83, amendement 05, valeurs limites fixées à la ligne A
 
 - – EURO IV / EURO 4
+- [tab] Les prescriptions sur les gaz d’échappement énumérées ci-après sont déterminantes:
+- – directive 70/220/CEE dans la version de la directive 98/69/CE, valeurs limites fixées à la ligne B
+- – directive 88/77/CEE dans la version de la directive 1999/96/CE, valeurs limites fixées à la ligne B1 ou dans la version de la directive 2001/27/CE, valeurs limites fixées à la ligne B1
+- – directive 2005/55/CE dans la version de la directive 2005/78/CE, valeurs limites fixées à la ligne B1 ou dans la version de la directive 2006/51/CE, valeurs limites fixées à la ligne B1
+- – règlement UNECE n<sup>o</sup> 83, amendement 05, valeurs limites fixées à la ligne B
+- – règlement UNECE n<sup>o</sup> 49, amendement 03, valeurs limites fixées à la ligne B1 ou amendement 04, valeurs limites fixées à la ligne B1 ou amendement 05, valeurs limites fixées à la ligne B1
 - – EURO V / EURO 5
 -
 
-  Les prescriptions sur les gaz d’échappement déterminantes sont énumérées ci-après:
+  Les prescriptions sur les gaz d’échappement énumérées ci-après sont déterminantes:
 
-  - – directive 70/220/CEE dans la version de la directive 98/69/CE, valeurs limites fixées à la ligne B
-  - – directive 88/77/CEE dans la version de la directive 1999/96/CE, valeurs limites fixées à la ligne B1 et suivantes ou dans la version de la directive 2001/27/CE, valeurs limites fixées à la ligne B1 et suivantes
-  - – directive 2005/55/CE dans sa version d’origine
   - – règlement (CE) n<sup>o</sup> 715/2007 dans la version du règlement (CE) n<sup>o</sup> 692/2008, valeurs limites fixées au tableau 1
-  - – règlement UNECE n<sup>o</sup> 83, amendement 05, valeurs limites fixées à la ligne B
+  - – directive 88/77/CEE dans la version de la directive 1999/96/CE, valeurs limites fixées à la ligne B2 et suivantes ou dans la version de la directive 2001/27/CE, valeurs limites fixées à la ligne B2 et suivantes
+  - – directive 2005/55/CE dans la version de la directive 2005/78/CE, valeurs limites fixées à la ligne B2 et suivantes ou dans la version de la directive 2006/51/CE, valeurs limites fixées à la ligne B2 et suivantes
   - – règlement UNECE n<sup>o</sup> 83, amendement 06
-  - – règlement UNECE n<sup>o</sup> 49, amendement 03, valeurs limites fixées à la ligne B1 et suivantes ou amendement 04, valeurs limites fixées à la ligne B1 et suivantes ou amendement 05, valeurs limites fixées à la ligne B1
+  - – règlement UNECE n<sup>o</sup> 49, amendement 03, valeurs limites fixées à la ligne B2 et suivantes ou amendement 04, valeurs limites fixées à la ligne B2 et suivantes ou amendement 05, valeurs limites fixées à la ligne B2 et suivantes
+
+### 2.2 Catégorie de redevance 2
+
+- [tab] –
 
 ### 2.3 Catégorie de redevance 3
 
 - – EURO VI / EURO 6 et ultérieur
 -
 
-  Les prescriptions sur les gaz d’échappement déterminantes sont énumérées ci-après:
+  Les prescriptions sur les gaz d’échappement énumérées ci-après sont déterminantes:
 
   - – règlement (CE) n<sup>o</sup> 715/2007 dans la version du règlement (CE) n<sup>o</sup> 692/2008, valeurs limites fixées au tableau 2
   - – règlement (CE) n<sup>o</sup> 595/2009 dans la version du règlement (UE) n<sup>o</sup> 582/2011
   - – règlement UNECE n<sup>o</sup> 83, amendement 07
   - – règlement UNECE n<sup>o</sup> 49, amendement 06
 
-- La classe d’émission EURO IV / EURO 6 reste classée dans la catégorie de redevance 3 au moins jusqu’au 31 décembre 2020.
-
 Annexe 1a*[^t-2]*
 
-(art. 14*a*)
+- [tab]
 
-## Exigences requises pour les voitures automobiles équipées a posteriori d’un système de filtre à particules
-
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 23 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5947](https://fedlex.data.admin.ch/eli/oc/2011/823)).
-
-Les conditions suivantes doivent être remplies pour que le rabais visé à l’art. 14*a* puisse être accordé:
-
-- a. Les voitures automobiles doivent remplir les conditions des classes d’émission EURO II/EURO 2 ou EURO III/EURO 3 définies à l’annexe 1.
-- b. Les particules émises par les voitures automobiles immatriculées en Suisse des classes d’émission EURO II/EURO 2 et EURO III/EURO 3 qui ont été équipées a posteriori d’un système de filtre à particules doivent respecter les valeurs limites d’émission de particules des voitures automobiles de la classe d’émission EURO IV/EURO 4.
-- La liste des filtres[^annex1a-lvlu1-1] de l’Office fédéral de l’environnement et l’aide-mémoire de l’Office fédéral des routes concernant le montage subséquent de filtres à particules[^annex1a-lvlu1-2] doivent par ailleurs être pris en considération.
-- Les systèmes de filtre à particules montés dans les voitures automobiles immatriculées à l’étranger des classes d’émission EURO II/EURO 2 et EURO III/EURO 3 doivent atteindre le même niveau de réduction des émissions de particules que les systèmes de filtre à particules montés dans les voitures automobiles immatriculées en Suisse.
-- c. Il faut prouver que le système de filtre à particules satisfait aux exigences définies à la let. b. Cette preuve est apportée par une inscription dans le permis de circulation ou dans le certificat d’immatriculation ou par une autre attestation équivalente délivrée par les autorités nationales responsables de l’admission à la circulation. Cette preuve doit se trouver à l’intérieur du véhicule à moteur auquel elle se rapporte.
-
-[^annex1a-lvlu1-1]: www.bafu.admin.ch/partikelfilterliste/index.html?lang=fr
-[^annex1a-lvlu1-2]: Aide-mémoire du 4 avr. 2006 concernant le montage subséquent de filtres à particules
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 23 nov. 2011 ([RO 2011 5947](https://fedlex.data.admin.ch/eli/oc/2011/823)). Abrogée par le ch. II al. 2 de l’O du 20 janv. 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 55](https://fedlex.data.admin.ch/eli/oc/2021/55)).
 
 Annexe 2*[^t-3]*
 
