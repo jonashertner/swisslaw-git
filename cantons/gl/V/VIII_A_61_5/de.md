@@ -4,13 +4,13 @@ number: VIII A/61/5
 title: Verordnung zum Spezialfonds Härtefallunterstützungen für Unternehmen im Zusammenhang mit der Covid-19-Pandemie
 short: "kantonale Härtefallverordnung, kHFV"
 language: de
-version: 2021-04-27
-valid_until: 2021-06-30
-version_adopted: 2021-04-27
+version: 2021-07-01
+valid_until: 2021-12-20
+version_adopted: 2021-06-29
 adopted: 2022-03-15
 in_force: 2022-04-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.61.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/2233/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2243/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2233/pdf_file"
 
 (kantonale Härtefallverordnung, kHFV)
 
-Vom 22.12.2020 (Stand 27.04.2021)
+Vom 22.12.2020 (Stand 01.07.2021)
 
 Der Regierungsrat,
 
@@ -27,7 +27,7 @@ gestützt auf die Covid-19-Härtefallverordnung[^ingress-1],
 
 erlässt:
 
-[^ingress-1]: [SR 951.262](https://db.clex.ch/link/Bund/SR%20951.262/de)
+[^ingress-1]: SR 951.262
 
 #### Art. 1
 
@@ -65,6 +65,10 @@ H = 0.025 (A1 + A2) ≤ 1 000 000 ≤ 40 000 pro VZÄ
 
 <sup>2b</sup> …
 
+<sup>2c</sup> Ist der Umsatz des Unternehmens im Vergleich zum durchschnittlichen der Jahre 2018 und 2019 um mehr als 70 Prozent zurückgegangen, berechnet sich der individuelle Härtefallbeitrag (H) nach folgender Formel (in Franken), wobei die Fixkostenmaximierung nach Absatz 1 diesfalls nicht gilt und höchstens der jeweils tiefste Betrag zur Auszahlung gelangt:
+
+H = 0.5 (A1 + A2) - B - C - D - E ≤ 0.15 (A1 + A2) ≤ 1 500 000 ≤ 120 000 pro VZÄ
+
 <sup>3</sup> Für die Formeln in den Absätzen 2 und 2a gilt:
 
 - A1: Jahresumsatz 2018;
@@ -75,6 +79,12 @@ H = 0.025 (A1 + A2) ≤ 1 000 000 ≤ 40 000 pro VZÄ
 - E: Beiträge aus dem kantonalen Fonds zur vorübergehenden Unterstützung von Selbstständigerwerbenden;
 - F: …
 - VZÄ: Vollzeitäquivalent.
+
+<sup>3a</sup> Die VZÄ werden auf ganze Zahlen aufgerundet.
+
+<sup>3b</sup> Der eigene Aufwand für externes Personal im Durchschnitt der Jahre 2018 und 2019 im Umfang von 100 000 Franken entspricht im vorliegenden Zusammenhang einem VZÄ.
+
+<sup>3c</sup> Bei unentgeltlicher Tätigkeit entfällt die Beitragsbeschränkung anhand der VZÄ.
 
 <sup>4</sup> …
 
@@ -92,11 +102,19 @@ H = 0.025 (A1 + A2) ≤ 1 000 000 ≤ 40 000 pro VZÄ
 - b. fällt der damit errechnete Beitrag tiefer aus als der errechnete Beitrag gemäss Artikel 3 Absatz 2, gelangt letztere Berechnung (mit Ausnahme des Maximalbeitrags) zur Anwendung;
 - c. in jedem Fall erhält ein Unternehmen maximal den bundesrechtlich festgelegten Beitrag gemäss Artikel 8b–8d Covid-19-Härtefallverordnung.
 
+#### Art. 3b
+
+**Unterstützungsbeiträge für individuelle kantonale Härtefälle**
+
+<sup>1</sup> Ergänzend zu bereits erbrachten kantonalen Leistungen zur Abfederung der Folgen der Covid-19-Pandemie, können die Härtefallbeiträge nach Artikel 3 und 3a für Unternehmen der Tourismus- oder Eventbranche im Rahmen und unter den Voraussetzungen von Artikel 15 Covid-19-Härtefallverordnung maximal verdreifacht werden.
+
+<sup>2</sup> Unternehmen, deren branchenspezifische Covid-19-Finanzhilfe geringer ausgefallen ist als eine Härtefallhilfe nach bisherigem Recht ausfallen würde, kann der Differenzbetrag gestützt auf und im Rahmen von Artikel 15 Covid-19-Härtefallverordnung ausbezahlt werden.
+
 #### Art. 4
 
 **Beitragsgesuche**
 
-<sup>1</sup> Beitragsgesuche sind bis spätestens am 31. Dezember 2021 bei der Kontaktstelle für Wirtschaft einzureichen.
+<sup>1</sup> Beitragsgesuche sind bis spätestens am 30. September 2021 bei der Kontaktstelle für Wirtschaft einzureichen.
 
 <sup>2</sup> Die Gesuche sind digital einzureichen. Es werden keine Einzelberatungen angeboten.
 
