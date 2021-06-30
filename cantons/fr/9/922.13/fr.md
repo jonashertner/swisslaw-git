@@ -4,13 +4,13 @@ number: "922.13"
 title: "Ordonnance concernant la protection des mammifères, des oiseaux sauvages et de leurs biotopes"
 short: OProt
 language: fr
-version: 2019-06-01
-valid_until: 2021-06-30
-version_adopted: 2019-05-14
+version: 2021-07-01
+valid_until: 2022-07-07
+version_adopted: 2021-05-26
 adopted: 2016-06-21
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6409/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6847/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Protection des mammifères, des oiseaux sauvages et de leurs biotopes – O
 
 (OProt)
 
-du 21.06.2016 (version entrée en vigueur le 01.06.2019)
+du 21.06.2016 (version entrée en vigueur le 01.07.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -129,6 +129,8 @@ Arrête:
 <sup>1</sup> La prise de vues photographiques ou cinématographiques ne doit pas porter atteinte à la vie des animaux ni perturber leur reproduction ou les biotopes.
 
 <sup>2</sup> Elle peut localement et momentanément faire l'objet de restrictions ou d'interdictions décidées par le Service.
+
+<sup>3</sup> L'utilisation de pièges photographiques est soumise à l'autorisation du Service.
 
 #### Art. 9
 
@@ -255,7 +257,7 @@ Arrête:
 
 <sup>1</sup> L'autorisation requise pour la capture et la détention d'animaux sauvages à des fins scientifiques ou didactiques est délivrée à condition que la demande émane d'un établissement de recherche ou d'enseignement reconnu, qu'elle soit justifiée et que la capture ne mette pas en péril la survie de l'espèce à l'état sauvage.
 
-<sup>2</sup> L'autorisation requise pour l'élevage d'oiseaux protégés est délivrée contre paiement d'un émolument de 50 francs par espèce, à condition:
+<sup>2</sup> L'autorisation requise pour l'élevage d'oiseaux protégés est délivrée contre paiement d'un émolument de 100 francs, à condition:
 
 - a) qu'il s'agisse d'oiseaux nés en captivité;
 - b) qu'ils soient munis d'une bague;
@@ -361,7 +363,7 @@ Arrête:
 
 **Prévention – Mesures individuelles (art. 32 LCha)**
 
-<sup>1</sup> Les espèces d'animaux pouvant être chassées contre lesquelles des mesures individuelles peuvent être autorisées par le Service sont: le renard, le blaireau, la fouine, la corneille noire, la pie, le geai, la tourterelle turque et le pigeon domestique retourné à l'état sauvage.
+<sup>1</sup> Les espèces d'animaux pouvant être chassées contre lesquelles des mesures individuelles peuvent être autorisées par le Service sont: le renard, le blaireau, la fouine, la corneille noire, le corbeau freux, la pie, la tourterelle turque et le pigeon domestique retourné à l'état sauvage.
 
 <sup>2</sup> Les espèces d'animaux protégées contre lesquelles des mesures individuelles peuvent être autorisées par le Service sont celles qui sont désignées par l'ordonnance fédérale sur la chasse. Les décisions y relatives sont publiées dans la Feuille officielle.
 
@@ -667,5 +669,243 @@ Arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2016.
+
+## A1 ANNEXE 1 – Territoires protégés (art. 29)
+
+## A1-1 Districts francs fédéraux
+
+#### Art. A1-1
+
+<sup>1</sup> Les limites du **district franc fédéral de Hochmatt–Motélon** sont les suivantes: le rio du Petit-Mont, depuis la route cantonale à Im Fang jusqu'au pont du Schänis (pt 1390); puis la route jusqu'à la bifurcation pour Fregima-à-Tena (pt 1544); puis le rio jusqu'au pont du Lapé; puis la route jusqu'à La Gueyre (pt 1725); de là, le ruisseau de la Féguelena jusqu'au rio du Gros-Mont et celui-ci jusqu'au pont de Notre-Dame; puis l'arête du Vanil-de-l'Ardille, Vanil-du-Croset, Dent-de-Brenleire (pt 2353); de là, une ligne droite passant par les ruines du chalet de la Chaux-de-Brenleire jusqu'au pont à l'entrée du vallon des Mortheys; puis la limite cantonale, en passant par la Dent-des-Bimis, jusqu'au Vanil-Noir, ensuite, l'arête jusqu'à la Tête-de-l'Herbette; de là, le col de Bounavalette et Tsermon (pt 2140); ensuite, l'arête passant par le Petit-Tsermon (pt 1865) et une ligne droite jusqu'au chalet de la Curarda; puis le chemin jusqu'au chalet du Patchalet-d'en-Bas; de là, la route forestière jusqu'au pont de la Vonderweire; de là, le couloir délimité par la lisière gauche de la forêt en regardant vers le haut, jusqu'à l'arête du sommet des Noires-Joux; puis l'arête des Noires-Joux et du Folliu (pt 1751,5) jusqu'au chalet du Pra; puis le ruisseau de Fin-Hugon jusqu'au rio du Gros-Mont; ce dernier jusqu'à la route cantonale à Pra-Jean (pt 890) et cette route jusqu'à Im Fang.
+
+#### Art. A1-2
+
+<sup>1</sup> Les limites du **district franc fédéral de la Dent-de-Lys** sont les suivantes: la route alpestre depuis la chapelle d'Albeuve jusqu'au pont de Beaucu; le ruisseau de Beaucu jusqu'au pont de Pra-Nicod; puis la route des Prés, le sentier de Lys jusqu'au col; ensuite, la crête jusqu'au sommet de la Dent-de-Lys; puis, vers le nord, la raie jusqu'au ruisseau de la Marivue; ensuite, ce ruisseau jusqu'à la chapelle d'Albeuve.
+
+## A1-2 Réserves d'oiseaux d'eau et de migrateurs d'importance internationale et nationale
+
+#### Art. A1-3
+
+<sup>1</sup> Les limites de la **réserve du Fanel–Chablais-de-Cudrefin–Pointe-de-Marin** sont les suivantes: depuis Cudrefin, la route jusqu'à La Sauge; à La Sauge le long de la rive droite du canal de la Broye, au lieu dit Le Rondet retour jusqu'à la route en direction de Gampelen, le ruisseau du Schwarzgrabe, la route contournant l'étang de Glungge et retour à la route en direction de Gampelen jusqu'à la gare de Gampelen; puis l'Islerenkanal jusqu'au canal de la Thielle; ce canal jusqu'à l'extrémité du môle nord; de là, une ligne droite jusqu'à l'extrémité du môle du canal de la Broye et jusqu'à Cudrefin (camping)
+
+<sup>2</sup> Dans le nouveau périmètre IIIb, seule la chasse à l'affût est autorisée pour la chasse du chevreuil, de même que la chasse du sanglier et des prédateurs (renards, blaireaux, fouines, chats harets, à l'exception du chat tigré) durant la chasse du chevreuil et jusqu'au 31 décembre. L'emploi de chiens est interdit.
+
+#### Art. A1-4
+
+<sup>1</sup> Les limites de la **réserve de Chevroux–Portalban** sont les suivantes: depuis l'extrémité du môle est du port de Chevroux; ce môle; puis la route du port jusqu'à la lisière nord-ouest de la forêt des Grèves; cette lisière jusqu'au chenal de Gletterens parallèle à la rive du lac; puis le chemin des Grèves jusqu'aux premières maisons de Portalban; de là, en suivant la limite entre la cariçaie et la forêt, une ligne droite jusqu'au pont; puis la route jusqu'à l'embouchure du ruisseau de Portalban dans le lac et son prolongement jusqu'à 500 mètres au large; de là, une ligne droite jusqu'à 300 mètres au large du chenal de Gletterens; puis une ligne droite jusqu'à l'extrémité du môle est du port de Chevroux.
+
+<sup>2</sup> Dans cette réserve, seule la chasse du sanglier est autorisée selon les conditions mentionnées dans l'ordonnance concernant la chasse et dans l'ordonnance annuelle concernant la planification de la chasse.
+
+#### Art. A1-5
+
+<sup>1</sup> Les limites de la **réserve d'Yvonand–Cheyres** sont les suivantes: la route cantonale Yvonand–Cheyres jusqu'à la limite cantonale; puis la lisière de la forêt, le bord de la terre ferme devant les chalets à Crevel et la lisière de la forêt de la Rochette; puis en contournant par l'ouest les maisons de vacances jusqu'au chenal; de l'embouchure de ce dernier en ligne droite jusqu'à environ 200 mètres au large de l'embouchure de la Mentue; puis cette rivière, la lisière sud de la forêt des Grèves jusqu'à la route cantonale à l'entrée est d'Yvonand et cette route en direction de Cheyres.
+
+<sup>2</sup> Dans cette réserve, la chasse du sanglier est autorisée selon les conditions mentionnées dans l'ordonnance concernant la chasse et dans l'ordonnance annuelle concernant la planification de la chasse.
+
+#### Art. A1-6
+
+<sup>1</sup> Les limites de la **réserve du Chablais (lac de Morat)** sont les suivantes: depuis Muntelier sur le chemin pédestre jusqu'à Vor Moos en longeant la lisière jusqu'au dernier canal transversal devant Sugiez; ce canal à travers la forêt jusqu'au canal de la Broye et en ligne droite jusqu'à Muntelier.
+
+<sup>2</sup> Seule la chasse à l'affût est autorisée pour la chasse du chevreuil, de même que pour la chasse du sanglier et des prédateurs (renards, blaireaux, fouines, chats harets, à l'exception du chat tigré) durant la chasse du chevreuil et jusqu'au 31 décembre. L'emploi de chiens est interdit.
+
+#### Art. A1-7
+
+<sup>1</sup> Les limites de la **réserve du lac de la Gruyère, à Broc,** sont les suivantes: la rive du lac de la Gruyère depuis le Bois-des-Crêts (cette forêt exclue) jusqu'au pont de la route Morlon–Broc sur la Sarine; cette route jusqu'au carrefour de la route Broc–Broc-Fabrique, puis la route jusqu'à l'usine électrique; de là, la lisière inférieure de la forêt, puis le bas du talus jusqu'au bord du lac; ensuite, la rive du lac jusqu'à l'embouchure du ruisseau en dessous de Botterens; de là, une ligne droite à travers le lac jusqu'au Bois-des-Crêts.
+
+#### Art. A1-8
+
+<sup>1</sup> Les limites de la **réserve du lac de Pérolles** sont les suivantes: depuis le Creux-du-Loup jusqu'au barrage. Cette réserve est entièrement comprise dans la réserve cantonale de faune de Fribourg.
+
+#### Art. A1-9
+
+<sup>1</sup> La **réserve de Grandson–Champ-Pittet** ne touche pas le territoire fribourgeois et ne concerne que les titulaires du permis de chasse F.
+
+#### Art. A1-10
+
+<sup>1</sup> La **réserve de Salavaux** ne touche pas le territoire fribourgeois et ne concerne que les titulaires du permis de chasse G.
+
+## A1-3 Réserves cantonales de faune en montagne
+
+#### Art. A1-11
+
+<sup>1</sup> Les limites de la **réserve des Raveires** sont les suivantes: depuis le pont de la carrière du Brésil, l'arête des Vanils-des-Raveires jusqu'au Maischüpfenspitz; de là, l'arête et le couloir du Schoresberg jusqu'à la route cantonale Jaun–Charmey–Türleni; ensuite, cette route jusqu'au pont de la carrière du Brésil.
+
+<sup>2</sup> Dans cette réserve, les chasses du cerf et du chamois sont autorisées selon les conditions mentionnées dans l'ordonnance concernant la chasse et dans l'ordonnance annuelle concernant la planification de la chasse.
+
+#### Art. A1-12
+
+<sup>1</sup> Les limites de la **réserve des Dents-Vertes** sont les suivantes: depuis le carrefour du chemin du Gros-Mont à Pra-Jean, une ligne droite jusqu'à la ferme des Gros-Fornis; puis le chemin des Orseires par Planfretz, Orseire-Dessous et le chalet de Férédetse; de ce chalet, en ligne droite, le sentier d'Arpille et le couloir jusque sur l'arête (pt 1957); puis l'arête jusqu'au sentier (pt 1847); le sentier par Balachaux, Gros-Morvaux, La Gitetta; puis le sentier pour Tissinèva-Derrey jusqu'au ruisseau; puis une ligne droite jusqu'à l'arête des Morvaux (pt 1713); ensuite, l'arête des Dents-Vertes jusqu'au pont de la gravière de Sous-les-Vanils; puis la route cantonale jusqu'au carrefour du chemin du Gros-Mont à Pra-Jean.
+
+<sup>2</sup> Dans cette réserve, la chasse du chamois est autorisée selon les conditions mentionnées dans l'ordonnance concernant la chasse et dans l'ordonnance annuelle concernant la planification de la chasse.
+
+#### Art. A1-13
+
+<sup>1</sup> Les limites de la **réserve de la Weisse Fluh–Hohberg** sont les suivantes: le chemin du Gantrisch depuis la bifurcation Schönenboden–Gantrisch (Spitz) jusqu'aux chalets Chänel Gantrisch (pt 1509) et Steinig Gantrisch; de ce chalet, en ligne droite jusqu'au sommet du Widdergalm; puis la crête jusqu'au point 2096; de là, l'arête de Ziebegg-Schönenbodenegg jusqu'à la place de parc de Schönenboden (pt 1322); ensuite, le chemin jusqu'au chalet de Steiners Hohberg; puis la route par Unter Hohberg jusqu'à la route de l'Ättenberg; cette route; puis le sentier par le chalet Chli Ättenberg et la cabane forestière Oberer St. Ursenvorsatz jusqu'au pont de la route des Muscheren (pt 1133); de là, cette route jusqu'à la bifurcation Schönenboden–Gantrisch.
+
+<sup>2</sup> Dans cette réserve, la chasse du chamois est autorisée selon les conditions mentionnées dans l'ordonnance concernant la chasse et dans l'ordonnance annuelle concernant la planification de la chasse.
+
+#### Art. A1-14
+
+<sup>1</sup> Les limites de la **réserve du Breccaschlund** sont les suivantes: depuis l'entrée de Wälschi Rippa (pt 1210), en ligne droite jusqu'au point 1489; de là, les crêtes des Recardets, Patraflon (pt 1916), Pointe-de-Balachaux, Gros-Brun (Schopfenspitz, pt 2104), Combiflue, Chörblispitz, Fochsenflue, Spitzflue (pt 1954); de là, l'arête jusqu'au Bärenloch; puis le sentier par Rippetli, Stierenberg, Unterer Stierenberg et Wälschi Rippa jusqu'à l'entrée de Wälschi Rippa (pt 1210).
+
+<sup>2</sup> Dans cette réserve, la chasse du chamois est autorisée selon les conditions mentionnées dans l'ordonnance concernant la chasse et dans l'ordonnance annuelle concernant la planification de la chasse.
+
+#### Art. A1-15
+
+<sup>1</sup> Les limites de la **réserve de la Dent-du-Chamois** sont les suivantes: depuis le pont de Mausault, l'arête de la Dent-de-Broc et son sommet (pt 1829) jusqu'au point 1096 près du sentier de Beauregard; ce sentier jusqu'au chalet du Rotsé; puis le chemin jusqu'au pont sur le ruisseau de Maumochy; ce ruisseau jusqu'à l'extrémité de la route alpestre d'Estavannens; de là, le sentier du col de la Forcla jusqu'au chalet des Plans (pt 1565); puis le ruisseau de la Draillarda jusqu'au rio du Motélon et ce dernier jusqu'au pont de Mausault.
+
+<sup>2</sup> Dans cette réserve, les chasses du cerf et du chamois sont autorisées selon les conditions mentionnées dans l'ordonnance concernant la chasse et dans l'ordonnance annuelle concernant la planification de la chasse.
+
+## A1-4 Réserves cantonales de faune en plaine
+
+#### Art. A1-16
+
+<sup>1</sup> Les limites de la **réserve de Fribourg** sont les suivantes: depuis Bourguillon, la route cantonale par La Schurra, Marly, Le Port; de là, le chemin jusqu'à Chésalles; puis la route par Hauterive et Grangeneuve jusqu'à la route cantonale; cette route jusqu'au carrefour de la route du Moulin-Neuf; cette route par Moulin-Neuf et Matran jusqu'à Avry-sur-Matran; ensuite, la route cantonale jusqu'au Bugnon et la route par Corminbœuf jusqu'à Belfaux; de là, la route par Formangueires; puis la route des Maçons jusqu'à la route des Chenevières; cette route jusqu'au rond-point des Portes-de-Fribourg; de là, la route cantonale jusqu'au pont sur l'autoroute; cette dernière jusqu'au lac de Schiffenen; puis la rive sud de ce lac jusqu'au viaduc de Grandfey; ce viaduc jusqu'à la rive nord du lac, cette rive jusqu'à l'embouchure du ruisseau du Grabenholz et ce ruisseau jusqu'au hameau de Chastels; de là, la route cantonale; puis le chemin par Vorder Bruch et Uebewil jusqu'à la route cantonale; cette route par Bierhus, Tafers, Ameismühle, Tasberg et Römerswil jusqu'à Bourguillon.
+
+<sup>2</sup> Dans cette réserve, les titulaires du permis E peuvent chasser le cormoran sur les rives de la Sarine en amont de l'embouchure de la Gérine, de même que sur les rives de la Glâne en amont de son embouchure dans la Sarine.
+
+#### Art. A1-17
+
+<sup>1</sup> Les limites de la **réserve de la Petite-Sarine** sont les suivantes: depuis le barrage de Rossens, la route par Rossens (pt 708), Illens, Corpataux, le pont de la Tuffière, Arconciel, Sur-le-Moulin et Treyvaux jusqu'au barrage de Rossens.
+
+#### Art. A1-18
+
+<sup>1</sup> Les limites de la **réserve de la Halta** sont les suivantes: la route Le Mouret–Ferpicloz jusqu'au carrefour de Senèdes; le chemin par Genevret, Vers-la-Grange, Betschland, Les Planchettes, Essert (pt 818) et Fin-d'Avau jusqu'à la route cantonale; cette dernière jusqu'au Mouret.
+
+#### Art. A1-19
+
+<sup>1</sup> Les limites de la **réserve de Seedorf** sont les suivantes: depuis Noréaz, la route passant par Seedorf jusqu'au pont sur la Sonnaz; cette rivière jusqu'au pont du chemin Seedorf–Maison-Rouge; ce chemin jusqu'à Maison-Rouge; de là, la route cantonale jusqu'au café de Prez-vers-Noréaz; puis le chemin par La Varna et La Goillette jusqu'à Noréaz.
+
+#### Art. A1-20
+
+<sup>1</sup> Les limites de la **réserve du Schwandholz** sont les suivantes: depuis le village de St. Ursen, la route cantonale passant par Engertswil jusqu'au carrefour de la route d'Obertasberg; cette route par Obertasberg; puis le chemin jusqu'à Hermisberg; puis la route passant par Röschiwil jusqu'à la route cantonale près d'Etiwil; de là, cette route jusqu'à St. Ursen.
+
+#### Art. A1-21
+
+<sup>1</sup> Les limites de la **réserve du Rotmoos–Entenmoos** sont les suivantes: depuis Herrenschür, la route jusqu'à Grau Stein; puis le chemin jusqu'à Chäppeli et la route par Entenmoos, Saga, Rotkrüz; ensuite, le chemin et le sentier autour du Rotmoos jusqu'à Herrenschür.
+
+#### Art. A1-22
+
+<sup>1</sup> Les limites de la **réserve du Fragnièremoos** sont les suivantes: depuis Ried, la route cantonale jusqu'au carrefour de la route de Bäriswil; cette route jusqu'à Gassacher; de là, une ligne droite jusqu'à Hohi Zelg; puis le chemin jusqu'à Ried.
+
+#### Art. A1-23
+
+<sup>1</sup> Les limites de la **réserve des marais de Düdingen** sont les suivantes: depuis le hameau d'Ottisberg, la route par Waldegg, le pont sur l'autoroute; puis le chemin le long de Chiemiwald jusqu'à la route Räsch–Düdingen; cette route jusqu'au pont sur la voie ferrée; puis la route par Untere Zelg et le pont jusqu'à Ottisberg.
+
+#### Art. A1-24
+
+<sup>1</sup> Les limites de la **réserve du Frachy** sont les suivantes: depuis le pont de la Savoleyre (route Cerniat–La Valsainte), le ruisseau des Botteys jusqu'au chalet des Botteys; ensuite, la route forestière jusqu'au début du chemin de la Bergmanda; ce chemin jusqu'au Riau-de-la-Tioleyre; ensuite, ce ruisseau jusqu'au pont en amont de la Chartreuse de la Valsainte; puis la route La Valsainte–Cerniat jusqu'au pont de la Savoleyre.
+
+#### Art. A1-25
+
+<sup>1</sup> Les limites de la **réserve de Bouleyres** sont les suivantes: depuis Bulle, la rue de Gruyères et la rue de l'Ancien-Comté; puis la route cantonale jusqu'au pont sur la Sarine, à Broc (La Salette); de là, la Sarine jusqu'à la passerelle de Morlon; puis la route communale jusqu'à Morlon; puis la route de Morlon à Bulle et la rue de la Condémine.
+
+#### Art. A1-26
+
+<sup>1</sup> Les limites de la **réserve de Kleinbösingen (Auried)** sont les suivantes: depuis la Sarine, la limite cantonale par Bruggeren jusqu'à la route Kriechenwil–Kleingurmels; puis cette route à travers le village de Kleinbösingen jusqu'à la Sarine; cette rivière jusqu'à la limite cantonale.
+
+#### Art. A1-27
+
+<sup>1</sup> Les limites de la **réserve de Greng–Muntelier** sont les suivantes: la rive du lac de Morat depuis la limite cantonale à Greng jusqu'au premier canal transversal du Chablais (côté Löwenberg); ce canal jusqu'à la voie ferrée et cette dernière par Morat et Meyriez jusqu'à la limite cantonale à Greng.
+
+#### Art. A1-28
+
+<sup>1</sup> Les limites de la **réserve de Pré-du-Bœuf–Krümmi** sont les suivantes: depuis la voie ferrée Kerzers–Ins, un tronçon d'environ 2300 mètres du Grand-Canal (ce canal et ses deux rives sont compris dans la réserve); puis le chemin perpendiculaire jusqu'à la limite cantonale à l'angle sud-est de la forêt cantonale bernoise; de là, la limite cantonale jusqu'à la voie ferrée Kerzers–Ins et celle-ci jusqu'au pont sur le Grand-Canal.
+
+#### Art. A1-29
+
+<sup>1</sup> Les limites de la **réserve de Perretengraben (Brand)** sont les suivantes: des panneaux délimitent cette réserve; le tronçon d'environ 800 mètres de la voie ferrée Morat–Kerzers qui forme le côté sud-est de la réserve fait partie de celle-ci, de même que le rideau-abri qui en forme le côté sud-ouest.
+
+#### Art. A1-30
+
+<sup>1</sup> Les limites de la **réserve de l'Ochère** sont les suivantes: depuis le passage sous voie de la route Villaraboud–Vuisternens-devant-Romont, cette route jusqu'à la route cantonale Vuisternens-devant-Romont–Mézières; puis cette route jusqu'au carrefour (pt 764) de la route Mézières–Villaraboud; puis cette route jusqu'au passage à niveau de la voie ferrée Bulle–Romont; puis cette voie ferrée jusqu'au passage sous voie de la route Villaraboud–Vuisternens-devant-Romont.
+
+#### Art. A1-31
+
+<sup>1</sup> Les limites de la **réserve de Bellechasse** sont les suivantes: de la pointe du Grand-Canal direction Sugiez à l'angle sud du Pré-au-Bœuf; à l'angle du Pré-au-Bœuf direction Kerzers; à la première intersection direction Sugiez jusqu'à l'entrée du pénitencier; direction Ins jusqu'à la pointe du Grand-Canal.
+
+#### Art. A1-32
+
+<sup>1</sup> Les limites de la **réserve du Biberkanal** sont les suivantes: de l'angle sud du Pré-au-Bœuf à la haie; ensuite, suivre la haie et la lisière de la Murten-Erle jusqu'au canal de la Bibera; longer le canal de la Bibera direction Ins jusqu'à la clôture du pénitencier pour reprendre la direction nord-est, le long de cette clôture, jusqu'à l'angle sud du Pré-au-Bœuf.
+
+<sup>2</sup> Dans cette réserve, la chasse est ouverte à partir du lundi du Jeûne fédéral.
+
+#### Art. A1-33
+
+<sup>1</sup> Les limites de la **réserve de Cheyres** sont les suivantes: le bord de la roselière (côté lac), du camping-caravaning de Cheyres jusqu'à l'embouchure du ruisseau de Coppet près des premières maisons de vacances de Font; ce ruisseau jusqu'au carrefour de la route goudronnée et de la piste cyclable (pt 432); de là, la piste cyclable jusqu'au passage sous voie des CFF; ensuite, de là, la voie CFF faisant limite jusqu'au passage à niveau au lieu dit Vers-le-Moulin; de là, jusqu'aux premières maisons de vacances de Cheyres; puis une ligne droite perpendiculaire jusqu'à la roselière située devant ces maisons; ensuite, le bord de la roselière (côté terre) jusqu'au bord du lac devant le camping-caravaning.
+
+<sup>2</sup> Dans cette réserve, la chasse du sanglier est autorisée selon les conditions mentionnées dans l'ordonnance concernant la chasse et dans l'ordonnance annuelle concernant la planification de la chasse.
+
+#### Art. A1-34
+
+<sup>1</sup> Les limites de la **réserve des Grèves de La Corbière** sont les suivantes:
+
+- a) limites de la partie ouest: la rive du lac et le bord de la roselière (côté lac) depuis le canal de la Sicel, par la plage d'Estavayer-le-Lac jusqu'au chenal du Saut-de-la-Pucelle; de là, une ligne droite jusqu'au chemin et celui-ci jusqu'à la route près de la Grande-Gouille; ensuite, cette route jusqu'au canal de la Sicel;
+- b) limites de la partie médiane: la rive du lac et le bord de la roselière (côté lac) depuis la limite est du groupe de maisons au Saut-de-la-Pucelle jusqu'au chemin en dessous d'Autavaux; ce chemin jusqu'au carrefour (pt 432) et jusqu'aux maisons au Saut-de-la-Pucelle; de là, la lisière de la forêt jusqu'au bord du lac;
+- c) limites de la partie est: les bouées délimitant la place de tir de Forel jusqu'à la jetée de cette place de tir; de là, le bord de la roselière jusqu'à la limite cantonale; cette limite jusqu'au chemin de Chevroux; ce chemin jusqu'aux bâtiments de la place de tir; puis la rive du lac jusqu'à la limite ouest de la place de tir.
+
+<sup>2</sup> Dans cette réserve, la chasse du sanglier est autorisée selon les conditions mentionnées dans l'ordonnance concernant la chasse et dans l'ordonnance annuelle concernant la planification de la chasse.
+
+#### Art. A1-35
+
+<sup>1</sup> Les limites de la **réserve de la Mosse-d'en-Bas** sont les suivantes: depuis le carrefour de la route cantonale au Crêt, la route par Bremudens et Sur-le-Gendre jusqu'à Montborget et à la route cantonale; cette route jusqu'au carrefour du Crêt.
+
+## A1-5 Réserves ornithologiques
+
+#### Art. A1-36
+
+<sup>1</sup> Les limites de la **réserve ornithologique du Chablais–Praz–Guévaux** sont les suivantes: la rive du lac de Morat depuis le début du canal de la Broye à Sugiez jusqu'à la limite cantonale à Guévaux; de là, la route cantonale par Praz et Sugiez jusqu'au giratoire de la route cantonale Ins–Morat; de là, jusqu'à la voie ferrée Kerzers–Morat; cette dernière jusqu'à l'embranchement de la voie ferrée Morat–Sugiez; de là, la voie ferrée en direction de Sugiez jusqu'au premier point 432, le chemin pédestre jusqu'à Vor Moos, la lisière jusqu'au dernier canal transversal juste devant Sugiez, ce canal à travers la forêt jusqu'au canal de la Broye.
+
+<sup>2</sup> La chasse de tout gibier à plumes est interdite dans cette réserve.
+
+## A1-6 Réserves partielles
+
+#### Art. A1-37
+
+<sup>1</sup> Les limites de la **réserve partielle du Cousimbert** sont les suivantes: depuis le carrefour de la route du Crau (Sur Martou, pt 1118), la route forestière de la division 9 jusqu'à son extrémité; de là, une ligne droite jusqu'à la Lienne (pt 1077); de la ferme de la Lienne, une ligne droite jusqu'à la croix du sommet du Cousimbert; de là, l'arête jusqu'au chalet de la Brunisholzena; puis une ligne droite jusqu'au chalet de Rigeli; de là, le chemin par la Wusta; puis la route jusqu'au Crau (pt 1322); de là, la route asphaltée jusqu'à Sur Martou (pt 1118).
+
+<sup>2</sup> Dans cette réserve partielle, toute chasse est interdite du 1<sup>er</sup> novembre au 31 août, à l'exception de la chasse du sanglier. Dès le 1<sup>er</sup> novembre, pour la chasse du sanglier, seuls les chiens de pied tenus en laisse sont autorisés. Les chiens de rouge pour la recherche du gibier blessé sont autorisés. Les essais de chiens y sont interdits.
+
+#### Art. A1-38
+
+<sup>1</sup> Les limites de la **réserve partielle de Bounavaux** sont les suivantes: depuis le panneau de la réserve naturelle situé en amont du chalet de Coudré, le sentier jusqu'à la barrière du pâturage de Bounavaux; puis une ligne droite jusqu'au rocher situé en dessus de la cascade; de là, les arêtes passant par le sommet du Curtillet (pt 2013,6) et le col de Petsernetse jusqu'au sommet du Vanil-de-l'Ecri; ensuite, la limite cantonale jusqu'au sommet du Vanil-Noir; de là, la limite cantonale jusqu'à la Tête-de-l'Herbette (pt 2261); puis une ligne droite jusqu'au col de Bounavalette; de là, l'arête jusqu'au sommet de Tsermon; puis une ligne droite jusqu'au point 1822; de ce point, l'arête jusqu'au panneau de la réserve naturelle situé en amont du chalet de Coudré.
+
+<sup>2</sup> Dans cette réserve partielle, la chasse des marmottes est interdite.
+
+#### Art. A1-39
+
+<sup>1</sup> Les limites de la **réserve partielle de la vallée de la Trême** sont les suivantes: du chalet des Alpettes, le chemin pédestre par la croix des Alpettes, le chalet de la Queue-des-Alpettes et la cabane forestière dite du Poil-de-Chien; puis une ligne droite par le chemin en terre et les chalets du Pâquier-d'Amont et du Pâquier-d'Avau; puis la route forestière jusqu'à l'abri d'Inson; de là, le ruisseau d'Inson et la Trême jusqu'au confluent du ruisseau de Crève-Cœur (pt 950); ce ruisseau jusqu'à la route forestière de la rive droite de la Trême; cette route jusqu'au chalet de la Chia; puis le chemin pédestre de la crête jusqu'au chalet de Chalamala en passant par les Maulatreys; de là, le chemin puis la route forestière par le Gros-Plané jusqu'au chalet Le Villard; puis le ruisseau du Mormotey jusqu'au passage à gué de la Raisse; puis la route par Rathvel jusqu'au téléski du Niremont; ce téléski jusqu'à sa station supérieure; puis le sentier par la croix du sommet du Niremont jusqu'au chalet des Prévondes; de là, la route forestière jusqu'au chalet des Alpettes.
+
+<sup>2</sup> Dans cette réserve partielle, la chasse du gibier à plumes est interdite. Toute chasse est interdite du 1<sup>er</sup> décembre au 31 août. Les essais de chiens y sont interdits.
+
+#### Art. A1-40
+
+<sup>1</sup> Les limites de la **réserve partielle du Höllbach** sont les suivantes: depuis le Parbock, la route par le pont couvert du Höllbach jusqu'au carrefour; puis la route du Höllbach par Hölli et Luggeli et le chemin en direction du Fuchses Schwyberg; puis la lisière de la forêt et le sentier par La Patta (pt 1616) jusqu'au chalet de l'Auta-Chia; de là, le sentier jusqu'à la route forestière et celle-ci jusqu'à Gaussmattli (pt 1347); de là, le sentier jusqu'à la lisière de la forêt, puis la lisière et la route jusqu'au Parbock.
+
+<sup>2</sup> Dans cette réserve partielle, seule la chasse du sanglier est autorisée. Seuls les chiens de rouge pour la recherche du gibier blessé et les chiens de pied tenus en laisse sont autorisés. Les essais de chiens y sont interdits.
+
+#### Art. A1-41
+
+<sup>1</sup> Les limites de la **réserve partielle du Canada** sont les suivantes: depuis la limite est de la zone touristique de Gletterens, le chemin jusqu'aux premières maisons de Portalban; de là, la lisière de la forêt et une ligne droite jusqu'au-dessus de la falaise; puis la lisière de la forêt, coupant en ligne droite le ruisseau du Champ-du-Mez, jusqu'au-dessus de la zone touristique de Gletterens et la limite est de cette dernière.
+
+<sup>2</sup> Dans cette réserve partielle, seule la chasse du sanglier est autorisée selon les conditions mentionnées dans l'ordonnance concernant la chasse et dans l'ordonnance annuelle concernant la planification de la chasse. L'emploi de chiens de chasse est interdit, sauf celui de chiens de rouge pour la recherche du gibier blessé. Les essais de chiens y sont interdits.
+
+#### Art. A1-42
+
+<sup>1</sup> Les limites de la **réserve partielle de Châbles–Estavayer-le-Lac** sont les suivantes: la route cantonale Cheyres–Estavayer-le-Lac depuis Le Moulin (Cheyres) jusqu'au sentier conduisant à l'église de Font; ce sentier, la lisière de la forêt jusqu'à la voie ferrée et celle-ci jusqu'au-dessus de la STEP; de là, la lisière de la forêt jusqu'au Ruz-des-Vua et à la route goudronnée; cette route jusqu'aux dernières maisons de vacances à l'ouest de la plage d'Estavayer-le-Lac; de là, la rive du lac jusqu'au ruisseau de Coppet, à Font; de là, la piste cyclable jusqu'au passage sous voie des CFF; ensuite, de là, la voie CFF faisant limite jusqu'au passage à niveau au lieu dit Vers-le-Moulin (Cheyres); ensuite, la route jusqu'à la route cantonale.
+
+<sup>2</sup> Dans cette réserve partielle, seule la chasse du sanglier est autorisée selon les conditions mentionnées dans l'ordonnance concernant la chasse et dans l'ordonnance annuelle concernant la planification de la chasse. L'emploi de chiens de chasse est interdit, sauf celui de chiens de rouge pour la recherche du gibier blessé. En dehors des périodes de chasse, les chiens de pied ne peuvent pas pénétrer dans la réserve. Les essais de chiens y sont interdits.
+
+#### Art. A1-43
+
+<sup>1</sup> Les limites de la **réserve partielle des Grèves de La Corbière** sont les suivantes: le chemin depuis les maisons au Saut-de-la-Pucelle jusqu'au carrefour du chemin conduisant au bord du lac (pt 432); ce chemin, puis le bord du lac jusqu'aux bâtiments de la place de tir; de là, le chemin jusqu'à la limite cantonale; celle-ci jusqu'à la lisière sud-est de la forêt; cette lisière jusqu'au ruisseau d'Autavaux, coupant en ligne droite le ruisseau de Forel, puis le sentier jusqu'à La Motta; ensuite la lisière de la forêt jusqu'aux maisons du Saut-de-la-Pucelle.
+
+<sup>2</sup> Dans cette réserve partielle, seule la chasse du sanglier est autorisée selon les conditions mentionnées dans l'ordonnance concernant la chasse et dans l'ordonnance annuelle concernant la planification de la chasse. L'emploi de chiens de chasse est interdit, sauf celui de chiens de rouge pour la recherche du gibier blessé. En dehors de ces périodes, les chiens de pied ne peuvent pas pénétrer dans la réserve. Les essais de chiens y sont interdits.
+
+#### Art. A1-44
+
+<sup>1</sup> Les limites de la **réserve partielle des Grèves de La Motte** sont les suivantes: la rive du lac et le bord de la roselière (côté lac) à l'est du port de petite batellerie de Delley jusqu'à la limite cantonale; cette limite sur une longueur d'environ 400 mètres jusqu'au chemin; ce chemin, puis la route jusqu'à La Râpé; puis la lisière de la forêt jusqu'au ruisseau de la Contentenette; ce ruisseau jusqu'au lac; puis le bord du lac; ensuite la limite des installations portuaires jusqu'au bord du lac.
+
+<sup>2</sup> Dans cette réserve partielle, seule la chasse du sanglier est autorisée selon les conditions mentionnées dans l'ordonnance concernant la chasse et dans l'ordonnance annuelle concernant la planification de la chasse. L'emploi de chiens de chasse est interdit, sauf celui de chiens de rouge pour la recherche du gibier blessé. En dehors des périodes de chasse, les chiens de pied ne peuvent pas pénétrer dans la réserve. Les essais de chiens y sont interdits.
 
 2016\_088

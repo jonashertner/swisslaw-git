@@ -4,13 +4,13 @@ number: "922.13"
 title: Verordnung über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume
 short: SchutzV
 language: de
-version: 2019-06-01
-valid_until: 2021-06-30
-version_adopted: 2019-05-14
+version: 2021-07-01
+valid_until: 2022-07-07
+version_adopted: 2021-05-26
 adopted: 2016-06-21
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/6409/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6847/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume – V
 
 (SchutzV)
 
-vom 21.06.2016 (Fassung in Kraft getreten am 01.06.2019)
+vom 21.06.2016 (Fassung in Kraft getreten am 01.07.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -129,6 +129,8 @@ beschliesst:
 <sup>1</sup> Das Fotografieren und Filmen darf das Leben der Tiere nicht gefährden sowie ihre Fortpflanzung und die Lebensräume nicht beeinträchtigen.
 
 <sup>2</sup> Das Amt kann vorübergehend örtliche Einschränkungen oder Verbote erlassen.
+
+<sup>3</sup> Die Verwendung von Fotofallen muss vom Amt bewilligt werden.
 
 #### Art. 9
 
@@ -255,7 +257,7 @@ beschliesst:
 
 <sup>1</sup> Das Einfangen und Halten von wildlebenden Tieren zu wissenschaftlichen oder didaktischen Zwecken wird bewilligt, sofern das Gesuch von einer anerkannten Forschungs- oder Bildungsanstalt gestellt wird und es begründet ist und wenn das Überleben der Art in freier Wildbahn durch das Einfangen nicht gefährdet wird.
 
-<sup>2</sup> Die für das Züchten geschützter Vögel erforderliche Bewilligung wird gegen Entrichtung einer Gebühr von 50 Franken pro Tierart erteilt, wenn:
+<sup>2</sup> Die für das Züchten geschützter Vögel erforderliche Bewilligung wird gegen Entrichtung einer Gebühr von 100 Franken erteilt, wenn:
 
 - a) es sich um Vögel handelt, die in Gefangenschaft geboren wurden;
 - b) sie mit einem Ring gekennzeichnet sind;
@@ -361,7 +363,7 @@ beschliesst:
 
 **Verhütung – Selbsthilfemassnahmen (Art. 32 JaG)**
 
-<sup>1</sup> Die jagdbaren Tierarten, gegen die mit einer Bewilligung des Amts Selbsthilfemassnahmen ergriffen werden dürfen, sind: Fuchs, Dachs, Steinmarder, Rabenkrähe, Elster, Eichelhäher, Türkentaube und verwilderte Haustaube.
+<sup>1</sup> Die jagdbaren Tierarten, gegen die mit einer Bewilligung des Amts Selbsthilfemassnahmen ergriffen werden dürfen, sind: Fuchs, Dachs, Steinmarder, Raben- und Saatkrähe, Elster, Türkentaube und verwilderte Haustaube.
 
 <sup>2</sup> Die geschützten Tierarten, gegen die mit einer Bewilligung des Amts Selbsthilfemassnahmen ergriffen werden dürfen, werden in der Jagdverordnung des Bundes aufgeführt. Entsprechende Entscheide werden im Amtsblatt veröffentlicht.
 
@@ -667,5 +669,243 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Juli 2016 in Kraft.
+
+## A1 ANHANG 1 – Schutzgebiete (Art. 29)
+
+## A1-1 Eidgenössische Jagdbanngebiete
+
+#### Art. A1-1
+
+<sup>1</sup> Das **eidgenössische Jagdbanngebiet Hochmatt–Motélon** hat folgende Grenzen: der Rio du Petit-Mont (Klein-Montbach) von der Kantonsstrasse bei Im Fang bis zur Schänisbrücke (Pkt. 1390) dann die Strasse bis zur Abzweigung nach Fregima-à-Tena (Pkt. 1544); dann der Rio bis zur Brücke Le Lapé; dann die Strasse bis La Gueyre (Pkt. 1725); von da der Féguelenabach bis zum Rio du Gros-Mont; diesem Bach entlang bis zur Brücke Notre-Dame; dann der Grat des Vanil-de-l'Ardille, Vanil-du-Croset, Dent-de-Brenleires (Pkt. 2353); von da eine gerade Linie über die Ruinen der Alphütte Chaux-de-Brenleires bis zur Brücke beim Eingang des Mortheys-Tales; dann die Kantonsgrenze über die Dent-de-Bimis bis zum Vanil-Noir; dann der Grat bis zur Tête-de-l'Herbette; von da der Pass von Bounavalette, Tsermon (Pkt. 2140); dann der Grat über den Petit-Tsermon (Pkt. 1865) und eine gerade Linie bis zur Alphütte Curarda; dann der Weg bis zur Alphütte Patchalet-d'en-Bas; von da die Forststrasse zur Brücke der Vonderweire; von da der Zug begrenzt durch den linken Waldrand bergwärts gesehen, bis zum Grat des Gipfels der Noires-Joux, dann der Grat der Noires-Joux und des Folliu (Pkt. 1751.5) bis zur Alphütte Pra; dann der Bach von Fin-Hugon bis zum Rio du Gros-Mont; diesen Bach entlang bis zur Kantonsstrasse bei Pra-Jean (Pkt. 890) und diese Strasse bis Im Fang.
+
+#### Art. A1-2
+
+<sup>1</sup> Das **eidgenössische Jagdbanngebiet Dent-de-Lys** hat folgende Grenzen: die Alpstrasse von der Kapelle in Albeuve bis zur Brücke von Beaucu; der Beaucubach bis zur Brücke von Pra-Nicod, dann die Strasse nach Les Prés, der Fussweg nach Lys bis auf den Pass; dann der Grat bis zum Gipfel der Dent-de-Lys; dann in Richtung Norden, der Zug bis zum Marivuebach; dann dieser Bach bis zur Kapelle von Albeuve.
+
+## A1-2 Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung
+
+#### Art. A1-3
+
+<sup>1</sup> Das **Reservat Fanel–Chablais-de-Cudrefin–Pointe-de-Marin** hat folgende Grenzen: von Cudrefin, die Strasse bis La Sauge, dem rechten Broyeufer entlang bis zu Le Rondet, der Kantonsgrenze entlang bis zur Strasse Richtung Gampelen, den Bach Schwarzgrabe entlang, die Strasse, die den Weiher Glungge umfährt, und zurück zur Strasse Richtung Gampelen bis zum Bahnhof Gampelen; dann der Islerenkanal bis zum Zihlkanal; diesem Kanal entlang bis zum Ende der Nord-Mole; von da in gerader Linie zum Ende der Mole des Broyekanals und bis Cudrefin (Camping).
+
+<sup>2</sup> Im neuen Teilgebiet IIIb ist die Ansitzjagd auf Reh, Wildschwein, Fuchs, Dachs, Steinmarder und verwilderte Hauskatzen (mit Ausnahme der getigerten Katze) im Rahmen der allgemeinen Jagdvorschriften während der Rehjagd und bis zum 31. Dezember gestattet. Die Jagd mit Hunden ist untersagt.
+
+#### Art. A1-4
+
+<sup>1</sup> Das **Reservat Chevroux–Portalban** hat folgende Grenzen: vom Ende der Ost-Mole des Hafens von Chevroux, diese Mole, dann die Strasse des Hafens bis zum nordwestlichen Rand des Strandwaldes; diesem Waldrand entlang bis zum Kanal von Gletterens, der parallel zum Seeufer verläuft; dann dem Strandweg entlang bis zu den ersten Häusern von Portalban; dann entlang der Grenze zwischen dem Seggenbestand und dem Wald in gerader Linie bis zur Brücke, dann die Strasse bis zur Einmündung des Baches von Portalban in den See und seine Verlängerung auf einer Länge von 500 m in den See hinaus; von da in gerader Linie bis 300 m vom Ufer entfernt vor dem Kanal von Gletterens; dann in gerader Linie bis zum Ende der Ost-Mole des Hafens von Chevroux.
+
+<sup>2</sup> In diesem Reservat ist ausschliesslich die Jagd auf Wildschweine gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt.
+
+#### Art. A1-5
+
+<sup>1</sup> Das **Reservat Yvonand–Cheyres** hat folgende Grenzen: die Kantonsstrasse Yvonand–Cheyres bis zur Kantonsgrenze; dann der Waldrand, der Rand des Festlands vor den Chalets in Crevel und der Rand des Waldes La Rochette; dann die Ferienhäuser im Westen umfahrend bis zum Kanal; von der Einmündung dieses Kanals in gerader Linie bis ungefähr 200 m in den See hinaus vor der Einmündung der Mentue, dann diesem Fluss entlang, der südliche Waldrand bis zur Kantonsstrasse am Ost-Eingang von Yvonand und diese Strasse nach Cheyres.
+
+<sup>2</sup> In diesem Reservat ist die Jagd auf Wildschweine gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt.
+
+#### Art. A1-6
+
+<sup>1</sup> Das **Reservat Chablais (Murtensee)** hat folgende Grenzen: von Muntelier auf dem Wanderweg bis Vor Moos, dem Waldrand entlang bis zum letzten Kanal vor Sugiez, diesen Kanal entlang durch den Wald bis zum Broyekanal und in gerader Linie zurück nach Muntelier.
+
+<sup>2</sup> Die Ansitzjagd auf Reh, Wildschwein, Fuchs, Dachs, Steinmarder und verwilderte Hauskatzen (mit Ausnahme der getigerten Katze) ist während der Rehjagd und bis zum 31. Dezember gestattet. Die Jagd mit Hunden ist untersagt.
+
+#### Art. A1-7
+
+<sup>1</sup> Das **Reservat Greyerzersee bei Broc** hat folgende Grenzen: das Greyerzersee-Ufer von Bois-des-Crêts (dieser Wald ausgeschlossen) bis zur Brücke der Strasse Morlon–Broc über die Saane; diese Strasse bis zur Kreuzung der Strasse Broc–Broc-Fabrique, dann die Strasse bis zum Elektrizitätswerk; von da der untere Waldrand, dann der Fuss der Böschung bis zum See; dann das Seeufer bis zur Einmündung des Bachs unterhalb Botterens; von da in gerader Linie durch den See bis zum Bois-des-Crêts.
+
+#### Art. A1-8
+
+<sup>1</sup> Das **Reservat Pérolles-See** hat folgende Grenzen: von Creux-du-Loup bis zur Staumauer. Das Reservat befindet sich vollständig innerhalb des kantonalen Wildschutzgebietes Freiburg.
+
+#### Art. A1-9
+
+<sup>1</sup> Das **Reservat Grandson–Champ-Pittet** berührt das Freiburger Gebiet nicht und betrifft nur die Inhaber des Jagdpatentes F.
+
+#### Art. A1-10
+
+<sup>1</sup> Das **Reservat Salavaux** berührt das Freiburger Gebiet nicht und betrifft nur die Inhaber des Jagdpatentes G.
+
+## A1-3 Kantonale Wildschutzgebiete im Gebirge
+
+#### Art. A1-11
+
+<sup>1</sup> Das **Wildschutzgebiet Raveires** hat folgende Grenzen: von der Brücke des Steinbruchs Brésil der Kamm der Vanils-des-Raveires bis zum Maischüpfenspitz; von da der Kamm und der Schoresberg-Zug bis zur Kantonsstrasse Jaun–Charmey–Türleni; dann diese Strasse bis zur Brücke des Steinbruchs Brésil.
+
+<sup>2</sup> In diesem Reservat sind die Hirsch- und die Gamsjagd gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt.
+
+#### Art. A1-12
+
+<sup>1</sup> Das **Wildschutzgebiet Dents-Vertes** hat folgende Grenzen: von der Wegkreuzung des Gros-Mont bei Pra-Jean eine gerade Linie bis zum Bauernhaus Gros-Fornis, dann der Weg über Planfretz nach Orseire-Dessous und Férédetse-Hütte; von dieser Alphütte in gerader Linie bis zum Fussweg nach Arpille, der Zug bis auf den Grat (Pkt. 1957); dann der Grat bis zum Fussweg (Pkt. 1847); der Fussweg über Balachaux, Gros-Morvaux, La Gitetta; dann der Weg nach Tissinèva-Derrey bis zum Bach, dann eine gerade Linie bis zum Grat der Morvaux (Pkt. 1713); dann der Grat der Dents-Vertes bis zur Brücke des Kieswerkes in Sous-les-Vanils; dann die Kantonsstrasse bis zur Wegkreuzung des Gros-Mont bei Pra-Jean.
+
+<sup>2</sup> In diesem Reservat ist die Gamsjagd gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt.
+
+#### Art. A1-13
+
+<sup>1</sup> Das **Wildschutzgebiet Weisse Fluh–Hohberg** hat folgende Grenzen: der Gantrischweg von der Abzweigung Schönenboden-Gantrisch (Spitz) bis zu den Alphütten Känel (Pkt. 1509) und Steinig Gantrisch; von dieser Alphütte in gerader Linie bis zum Widergalmgipfel; dann die Kämme bis zum Punkt 2096; von da der Ziebegg- und Schönenbodenegg-Grat bis Parkplatz Schönenboden (Pkt. 1322); dann der Weg bis zur Alphütte Steiners Hohberg und die Strasse über Unter Hohberg bis zur Ättenbergstrasse; diese Strasse und der Fussweg über die Alphütte Chli Ättenberg und die Forsthütte Oberer St. Ursenvorsatz bis zur Muscherenstrasse (Punkt 1133); von da diese Strasse bis zur Abzweigung Schönenboden-Gantrisch.
+
+<sup>2</sup> In diesem Reservat ist die Gamsjagd gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt.
+
+#### Art. A1-14
+
+<sup>1</sup> Das **Wildschutzgebiet Breccaschlund** hat folgende Grenzen: vom Eingang von Wälschi Rippa (Pkt. 1210) in gerader Linie zum Punkt 1489; von da die Kämme der Recardets, Patraflon (Pkt. 1916), Balachauxspitz, Schopfenspitz (Pkt. 2104), Combiflue, Chörblispitz, Fochsenflue, Spitzflue (Pkt. 1954); von da über den Kamm bis zum Bärenloch; dann der Wanderweg über Rippetli, Stierenberg, Unterer Stierenberg und Wälschi Rippa bis zum Eingang von Wälschi Rippa (Pkt. 1210).
+
+<sup>2</sup> In diesem Reservat ist die Gamsjagd gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt.
+
+#### Art. A1-15
+
+<sup>1</sup> Das **Wildschutzgebiet Dent-du-Chamois** hat folgende Grenzen: von der Brücke von Mausault über den Grat des Dent-de-Broc und seinen Gipfel (Pkt. 1829) bis zum Punkt 1096 beim Fussweg nach Beauregard; der Fussweg zur Rotséhütte, der Weg bis zur Brücke über den Maumochybach; diesem Bach entlang bis zum Ende der Alpstrasse nach Estavannens; von da der Fussweg zum Forclapass (Pkt. 1565) bis zur Alphütte Les Plans; dann der Draillardabach bis zum Rio du Motélon und diesem Bach entlang bis zur Brücke von Mausault.
+
+<sup>2</sup> In diesem Reservat sind die Hirsch- und die Gamsjagd gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt.
+
+## A1-4 Kantonale Wildschutzgebiete im Flachland
+
+#### Art. A1-16
+
+<sup>1</sup> Das **Wildschutzgebiet Freiburg** hat folgende Grenzen: von Bürglen die Strasse nach La Schürra, Marly, Le Port; von da der Weg bis Chésalles; dann die Strasse über Hauterive und Grangeneuve bis zur Kantonsstrasse; diese Strasse bis zur Kreuzung der Strasse nach Moulin-Neuf; diese Strasse über Moulin-Neuf und Matran bis Avry-sur-Matran; die Kantonsstrasse bis Le Bugnon und die Strasse über Corminbœuf bis Belfaux; die Strasse über Formangueires; dann die Route des Maçons bis zur Route des Chenevières; diese Strasse bis zum Kreisel der Portes-de-Fribourg; die Kantonsstrasse bis zur Brücke über die Autobahn; diese Autobahn bis zum Schiffenensee; dann das Südufer dieses Sees bis zur Eisenbahnbrücke Grandfey; diese Brücke bis zum Nordufer des Sees; dieses Ufer bis zur Einmündung des Grabenholzbaches und dieser Bach bis zum Weiler Chastels; von da die Kantonsstrasse und dann der Weg über Vorder Bruch nach Uebewil bis zur Kantonsstrasse; diese Strasse über Bierhus, Tafers, Ameismühle, Tasberg und Römerswil bis Bürglen.
+
+<sup>2</sup> In diesem Wildschutzgebiet dürfen die Inhaber des Patentes E den Kormoran an den Ufern der Saane oberhalb der Einmündung der Aergera sowie an den Ufern der Glane oberhalb ihrer Einmündung in die Saane jagen.
+
+#### Art. A1-17
+
+<sup>1</sup> Das **Wildschutzgebiet der Kleinen Saane** hat folgende Grenzen: vom Stauwehr von Rossens die Strasse über Rossens (Pkt. 708), Illens, Corpataux, die Tuffièrebrücke, Arconciel, Sur-le-Moulin und Treyvaux bis zum Stauwehr von Rossens.
+
+#### Art. A1-18
+
+<sup>1</sup> Das **Wildschutzgebiet Halta** hat folgende Grenzen: die Strasse Le Mouret–Ferpicloz bis zur Kreuzung von Senèdes; der Weg über Genevret, Vers-la-Grange, Betschland, Les Planchettes, Essert (Pkt. 818) und Fin-d'Avau bis zur Kantonsstrasse; dieser Strasse entlang bis Le Mouret.
+
+#### Art. A1-19
+
+<sup>1</sup> Das **Wildschutzgebiet Seedorf** hat folgende Grenzen: von Noréaz die Strasse über Seedorf bis zur Brücke über die Sonnaz; dieser Bach bis zur Brücke des Weges Seedorf–Maison-Rouge; dieser Weg bis Maison-Rouge; von da die Kantonsstrasse bis zum Gasthaus in Prez-vers-Noréaz; dann der Weg über La Varna und La Goillette bis Noréaz.
+
+#### Art. A1-20
+
+<sup>1</sup> Das **Wildschutzgebiet von Schwandholz** hat folgende Grenzen: die Kantonsstrasse vom Dorf St. Ursen über Engertswil bis zur Kreuzung der Strasse von Obertasberg, diese Strasse über Obertasberg; dann der Weg bis Hermisberg; dann die Strasse über Röschiwil bis zur Kantonsstrasse bei Etiwil; von da diese Strasse bis St. Ursen.
+
+#### Art. A1-21
+
+<sup>1</sup> Das **Wildschutzgebiet Rotmoos–Entenmoos** hat folgende Grenzen: von Herenschür die Strasse nach Grau Stein, dann der Weg bis Chäppeli und die Strasse über Entenmoos, Saga, Rotkrüz; dann der Weg und der Fussweg um das Rotmoos herum bis Herenschür.
+
+#### Art. A1-22
+
+<sup>1</sup> Das **Wildschutzgebiet Fragnièremoos** hat folgende Grenzen: von Ried die Kantonsstrasse bis zur Abzweigung der Strasse nach Bäriswil; dieser Strasse entlang bis Gassacher; von da in gerader Linie zur Hohi Zelg, dann der Weg nach Ried.
+
+#### Art. A1-23
+
+<sup>1</sup> Das **Wildschutzgebiet Düdinger Moos** hat folgende Grenzen: die Strasse vom Weiler Ottisberg über Waldegg, die Brücke über die Autobahn, dann der Weg dem Chiemiwald entlang bis zur Strasse Räsch–Düdingen; diese Strasse bis zur Brücke über die Eisenbahnlinie, dann die Strasse über Untere Zelg und die Brücke über die Autobahn bis Ottisberg.
+
+#### Art. A1-24
+
+<sup>1</sup> Das **Wildschutzgebiet Frachy** hat folgende Grenzen: von der Brücke der Savoleyre (Strasse Cerniat–La Valsainte), der Botteys-Bach bis zur Alphütte Les Botteys; dann die Forststrasse bis zum Beginn des Wegs der Bergmanda, dieser Weg bis zum Riau de la Tioleyre; dann dieser Bach bis zur Brücke oberhalb des Kartäuserklosters La Valsainte; die Strasse La Valsainte–Cerniat bis zur Brücke der Savoleyre.
+
+#### Art. A1-25
+
+<sup>1</sup> Das **Wildschutzgebiet Bouleyres** hat folgende Grenzen: von Bulle die Rue de Gruyères und die Rue de l'Ancien-Comté; dann die Kantonsstrasse bis zur Brücke über die Saane in Broc (La Salette); von da die Saane entlang bis zur Brücke bei Morlon; dann über die Gemeindestrasse bis Morlon; von da die Strasse Morlon–Bulle entlang bis zur Rue de la Condémine.
+
+#### Art. A1-26
+
+<sup>1</sup> Das **Wildschutzgebiet Kleinbösingen (Auried)** hat folgende Grenzen: Kantonsgrenze von der Saane über Bruggeren bis zur Strasse Kriechenwil–Kleingurmels; dann die Strasse entlang durch das Dorf Kleinbösingen und bis zur Saane; den Fluss entlang bis zur Kantonsgrenze.
+
+#### Art. A1-27
+
+<sup>1</sup> Das **Wildschutzgebiet Greng–Muntelier** hat folgende Grenzen: das Murtenseeufer von der Kantonsgrenze in Greng bis zum ersten Kanal im Chablaiswald (Seite Löwenberg), dieser Kanal bis zur Eisenbahnlinie und diese über Murten und Meyriez bis zur Kantonsgrenze bei Greng.
+
+#### Art. A1-28
+
+<sup>1</sup> Das **Wildschutzgebiet Pré-du-Bœuf–Krümmi** hat folgende Grenzen: von der Eisenbahnlinie Kerzers–Ins, ein ca. 2300 m langer Abschnitt des Grossen Kanals (dieser Kanal und seine beiden Ufer sind im Wildschutzgebiet inbegriffen); dann der Weg senkrecht bis zur Kantonsgrenze an der südöstlichen Ecke des Berner Staatswaldes; von da die Kantonsstrasse bis zur Eisenbahnlinie Kerzers–Ins und diese bis zur Brücke über den Grossen Kanal.
+
+#### Art. A1-29
+
+<sup>1</sup> Das **Wildschutzgebiet Perretengraben (Brand)** hat folgende Grenzen: Dieses Schutzgebiet wird durch Tafeln gekennzeichnet; dazu gehören die ca. 800 m lange Strecke der Eisenbahnlinie Murten–Kerzers, welche die südöstliche Grenze des Schutzgebietes bildet, und ebenso der Windschutzstreifen, der das Schutzgebiet gegen Südwesten abgrenzt.
+
+#### Art. A1-30
+
+<sup>1</sup> Das **Wildschutzgebiet l'Ochère** hat folgende Grenzen: von der Bahnunterführung der Strasse Villaraboud–Vuisternens-devant-Romont diese Strasse bis zur Kantonsstrasse Vuisternens-devant-Romont–Mézières; dann diese Strasse bis zur Kreuzung (Pkt. 764) der Strasse Mézières–Villaraboud; dann diese Strasse bis zum Bahnübergang der Eisenbahnlinie Bulle–Romont; dann diese Eisenbahnlinie bis zur Bahnunterführung der Strasse Villaraboud–Vuisternens-devant-Romont.
+
+#### Art. A1-31
+
+<sup>1</sup> Das **Wildschutzgebiet Bellechasse** hat folgende Grenzen: von der Spitze des Grand-Canal in Richtung Sugiez bis zur südlichen Ecke der Pré-au-Bœuf; von der Ecke der Pré-au-Bœuf in Richtung Kerzers; von der ersten Kreuzung in Richtung Sugiez bis zum Eingang der Strafanstalt; in Richtung Ins bis zur Spitze des Grand-Canal.
+
+#### Art. A1-32
+
+<sup>1</sup> Das **Wildschutzgebiet Biberakanal** hat folgende Grenzen: von der südlichen Ecke der Pré-au-Bœuf bis zur Hecke, danach der Hecke und dem Waldrand der Murten-Erle entlang bis zum Biberakanal, entlang dem Biberakanal in Richtung Ins bis zum Zaun der Strafanstalt und dann in nord-östlicher Richtung diesem Zaun entlang bis zur südlichen Ecke der Pré-au-Bœuf.
+
+<sup>2</sup> In diesem Wildschutzgebiet ist die Jagd ab dem Montag des eidgenössischen Buss- und Bettages offen.
+
+#### Art. A1-33
+
+<sup>1</sup> Das **Wildschutzgebiet Cheyres** hat folgende Grenzen: der Rand des Schilfbestandes (Seeseite) vom Camping-Caravaning Cheyres bis zur Einmündung des Coppetbaches in der Nähe der ersten Ferienhäuser in Font; diesen Bach entlang bis zur Kreuzung der geteerten Strasse und des Radfahrweges (Pkt. 432); von da den Radfahrweg entlang bis zur SBB-Unterführung; dann die Bahnlinie entlang bis zum Bahnübergang bei Vers-le-Moulin; von da an bis zu den ersten Ferienhäusern bei Cheyres; dann senkrecht entlang einer geraden Linie bis zum Schilfbestand vor diesen Häusern; dann den Rand des Schilfbestandes (Landseite) entlang bis zum Seeufer vor dem Camping-Caravaning.
+
+<sup>2</sup> In diesem Reservat ist die Jagd auf Wildschweine gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt.
+
+#### Art. A1-34
+
+<sup>1</sup> Das **Wildschutzgebiet Grèves de La Corbière** hat folgende Grenzen:
+
+- a) Grenzen des westlichen Teils: das Seeufer und der Rand des Schilfbestandes (Seeseite) vom Sicel-Kanal über den Strand von Estavayer-le-Lac bis zum Kanal in Saut-de-la-Pucelle; von da in gerader Linie bis zum Weg und dieser bis zur Strasse bei der Grande-Gouille; dann diese Strasse bis zum Sicel-Kanal.
+- b) Grenzen des Mittelteils: das Seeufer und der Rand des Schilfbestandes (Seeseite) von der östlichen Grenze der Gruppe von Häusern in Saut-de-la-Pucelle bis zum Weg unterhalb Autavaux; dieser Weg bis zur Kreuzung (Pkt. 432) und zu den Häusern in Saut-de-la-Pucelle; von da der Waldrand bis zum Seeufer.
+- c) Grenzen des östlichen Teils: die Bojen, die den Schiessplatz Forel begrenzen bis zur Mole dieses Schiessplatzes; von da der Rand des Schilfbestandes bis zur Kantonsgrenze; diese Grenze bis zum Weg nach Chevroux; dieser Weg bis zu den Gebäuden des Schiessplatzes; dann das Seeufer bis zur westlichen Grenze des Schiessplatzes.
+
+<sup>2</sup> In diesem Reservat ist die Jagd auf Wildschweine gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt.
+
+#### Art. A1-35
+
+<sup>1</sup> Das **Wildschutzgebiet La Mosse-d'en-Bas** hat folgende Grenzen: von der Kreuzung der Kantonsstrasse in Le Crêt die Strasse über Bremudens und Sur-le-Gendre bis Montborget und zur Kantonsstrasse; diese Strasse bis zur Kreuzung in Le Crêt.
+
+## A1-5 Vogelschutzgebiete
+
+#### Art. A1-36
+
+<sup>1</sup> Das **Vogelschutzgebiet Chablais–Praz–Guévaux** hat folgende Grenzen: das Murtenseeufer vom Beginn des Broyekanals in Sugiez bis zur Kantonsgrenze in Guévaux; von da die Kantonsstrasse über Praz und Sugiez entlang bis zum Kreisverkehr der Kantonsstrasse Ins–Murten; von da bis zur Eisenbahnlinie Kerzers–Murten; dieser entlang bis zur Abzweigung der Eisenbahnlinie Murten–Sugiez; von da entlang der Eisenbahnlinie Richtung Sugiez bis zum ersten Punkt 432, den Wanderweg bis Vor Moos, dem Waldrand entlang bis zum letzten Kanal vor Sugiez, diesen Kanal entlang durch den Wald bis zum Broyekanal.
+
+<sup>2</sup> In diesem Vogelschutzgebiet ist die Jagd auf jegliches Federwild verboten.
+
+## A1-6 Teilschutzgebiete
+
+#### Art. A1-37
+
+<sup>1</sup> Das **Teilschutzgebiet Cousimbert** hat folgende Grenzen: von der Kreuzung der Craustrasse (Sur Martou, Pkt. 1118) die Forststrasse der Abteilung 9 bis zu ihrem Ende; von da eine gerade Linie bis zur Lienne (Pkt. 1077); vom Bauernhof Lienne eine gerade Linie bis zum Gipfelkreuz des Cousimbert; von da der Grat bis zur Alphütte Brünisholzena, dann eine gerade Linie bis zur Alphütte Rigeli; von da der Weg über die Wusta, dann die Strasse bis zum Crau (Pkt. 1322); von da die asphaltierte Strasse bis Sur Martou (Pkt. 1118).
+
+<sup>2</sup> In diesem Teilschutzgebiet ist die Jagd vom 1. November bis 31. August, mit Ausnahme der Jagd auf Wildschweine, verboten. Ab dem 1. November dürfen für die Jagd auf Wildschweine Fährtenhunde an der Leine eingesetzt werden. Schweisshunde für die Nachsuche von angeschossenem Wild sind erlaubt. Hundeproben sind verboten.
+
+#### Art. A1-38
+
+<sup>1</sup> Das **Teilschutzgebiet Bounavaux** hat folgende Grenzen: von der Tafel des Naturschutzgebietes oberhalb der Alphütte Coudré der Fussweg bis zum Zaun der Weide Bounavaux; dann eine gerade Linie bis zum Felsen oberhalb des Wasserfalls; von da die Kämme über den Curtilletgipfel (Pkt. 2013,6) und den Petsernetsepass bis zum Gipfel des Vanil-de-l'Ecri, dann die Kantonsgrenze bis zum Gipfel des Vanil-Noir; von da die Kantonsgrenze bis zur Tête-de-l'Herbette (Pkt. 2261); dann eine gerade Linie bis zum Bounavalettepass; von da der Kamm bis zum Tsermongipfel; dann eine gerade Linie bis zum Punkt 1822; von diesem Punkt der Kamm bis zur Tafel des Naturschutzgebietes oberhalb der Alphütte Coudré.
+
+<sup>2</sup> In diesem Teilschutzgebiet ist die Murmeltierjagd verboten.
+
+#### Art. A1-39
+
+<sup>1</sup> Das **Teilschutzgebiet Vallée de la Trême** hat folgende Grenzen: vom Chalet Les Alpettes den Fussweg über das Kreuz von Les Alpettes zum Chalet bei Queue-des-Alpettes und zum Forsthaus Poil-de-Chien, in einer geraden Linie zu den Chalets bei Pâquier-d'Amont und Pâquier-d'Avau; dann die Forststrasse bis Inson; den Bach bei Inson und die Trême entlang bis zum Zusammenfluss mit dem Bach Crève-Cœur (Pkt. 950); diesem Bach folgend bis zur Waldstrasse auf der rechten Seite der Trême; der Strasse folgend bis zum Chalet de la Chia; dann den Fussweg über die Krete entlang bis zum Chalet Chalamala und über Les Maulatreys; von da den Weg und die Forststrasse entlang bis Gros-Plané und zum Chalet Le Villard; den Bach Mormotey entlang bis zur Furt bei La Raisse; dann die Strasse bis Rathvel entlang bis zum Skilift von Niremont und weiter den Skilift entlang bis zur Bergstation; dann den Weg über das Niremont-Gipfelkreuz bis zum Chalet Les Prévondes; von da über die Forststrasse zurück zum Chalet des Alpettes.
+
+<sup>2</sup> In diesem Teilschutzgebiet ist die Jagd auf Federwild verboten. Vom 1. Dezember bis 31. August ist die Jagd verboten. Hundeproben sind verboten.
+
+#### Art. A1-40
+
+<sup>1</sup> Das **Teilschutzgebiet Höllbach** hat folgende Grenzen: vom Parbock die Strasse über die gedeckte Höllbachbrücke bis zur Kreuzung; dann die Höllbachstrasse über Hölli und Luggeli und der Weg Richtung Fuchses Schwyberg; dann der Waldrand und der Fussweg über La Patta (Pkt. 1616) bis zur Alphütte Auta Chia; von da der Weg bis zur Forststrasse und diese bis Gaussmattli (Pkt. 1347); von da den Weg entlang bis zum Waldrand und dann den Waldrand und die Strasse entlang bis Parbock.
+
+<sup>2</sup> In diesem Teilschutzgebiet ist nur die Jagd auf Wildschweine erlaubt. Nur Schweisshunde für die Nachsuche von angeschossenem Wild und Fährtenhunde an der Leine sind erlaubt. Hundeproben sind verboten.
+
+#### Art. A1-41
+
+<sup>1</sup> Das **Teilschutzgebiet Canada** hat folgende Grenzen: Grenzen: von der östlichen Grenze der touristischen Zone von Gletterens, den Weg entlang bis zu den ersten Häusern von Portalban; von da den Waldrand entlang und eine gerade Linie bis oberhalb der Felswand; dann den Waldrand entlang in gerader Linie den Bach Champ-du-Mez querend bis oberhalb der touristischen Zone von Gletterens und die östliche Grenze dieser Zone.
+
+<sup>2</sup> In diesem Teilschutzgebiet ist ausschliesslich die Jagd auf Wildschweine gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt. Der Einsatz von Jagdhunden ist verboten; ausgenommen sind Schweisshunde für die Nachsuche von angeschossenem Wild. Hundeproben sind verboten.
+
+#### Art. A1-42
+
+<sup>1</sup> Das **Teilschutzgebiet Châbles–Estavayer-le-Lac** hat folgende Grenzen: die Kantonsstrasse Cheyres–Estavayer-le-Lac von Le Moulin (Cheyres) bis zum Fussweg zur Kirche Font; dieser Fussweg, dann der Waldrand bis zur Eisenbahnlinie und diese bis oberhalb der ARA; von da der Waldrand bis zum Ruz-des-Vua und zur geteerten Strasse; diese Strasse bis zu den letzten Ferienhäusern westlich des Strandes in Estavayer-le-Lac; von da das Seeufer entlang bis zum Coppetbach bei Font; von da den Radfahrweg entlang bis zur SBB-Unterführung; dann die Bahnlinie (macht die Grenze) entlang bis zum Bahnübergang bei Vers-le-Moulin (Cheyres); dann die Strasse bis zur Kantonsstrasse.
+
+<sup>2</sup> In diesem Teilschutzgebiet ist ausschliesslich die Jagd auf Wildschweine gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt. Der Einsatz von Jagdhunden ist verboten; ausgenommen sind Schweisshunde für die Nachsuche von angeschossenem Wild. Ausserhalb der Jagdzeiten dürfen sich Fährtenhunde nicht im Teilschutzgebiet aufhalten. Hundeproben sind verboten.
+
+#### Art. A1-43
+
+<sup>1</sup> Das **Teilschutzgebiet Grèves de La Corbière** hat folgende Grenzen: der Weg von den Häusern in Saut-de-la-Pucelle bis zur Kreuzung des Weges zum Seeufer (Pkt. 432); dieser Weg und dann das Seeufer bis zu den Gebäuden des Schiessplatzes; von da der Weg bis zur Kantonsgrenze; diese Grenze bis zum südöstlichen Waldrand; dieser Waldrand bis zum Autavaux-Bach, geradeaus den Forel-Bach querend dann der Weg bis La Motta; dann den Waldrand entlang bis zu den Häusern von Saut-de-la-Pucelle.
+
+<sup>2</sup> In diesem Teilschutzgebiet ist ausschliesslich die Jagd auf Wildschweine gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt. Der Einsatz von Jagdhunden ist verboten; ausgenommen sind Schweisshunde für die Nachsuche von angeschossenem Wild. Ausserhalb dieser Zeiten dürfen sich Fährtenhunde nicht im Teilschutzgebiet aufhalten. Hundeproben sind verboten.
+
+#### Art. A1-44
+
+<sup>1</sup> Das **Teilschutzgebiet Grèves de La Motte** hat folgende Grenzen: das Seeufer und der Rand des Schilfbestandes (Seeseite) östlich der Hafenanlage in Delley bis zur Kantonsgrenze; diese Grenze auf einer Länge von ca. 400 m bis zum Weg; dieser Weg und dann die Strasse bis La Râpé; dann der Waldrand bis zum Contentenette-Bach; dieser Bach bis zum See; dann das Seeufer; dann die Grenze der Hafenanlage bis zum Seeufer.
+
+<sup>2</sup> In diesem Teilschutzgebiet ist ausschliesslich die Jagd auf Wildschweine gemäss der Jagdverordnung und der jährlichen Verordnung über die Planung der Jagd erlaubt. Der Einsatz von Jagdhunden ist verboten; ausgenommen sind Schweisshunde für die Nachsuche von angeschossenem Wild. Ausserhalb der Jagdzeiten dürfen sich Fährtenhunde nicht im Teilschutzgebiet aufhalten. Hundeproben sind verboten.
 
 2016\_088
