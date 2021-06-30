@@ -4,13 +4,13 @@ number: "930.11"
 title: Verordnung über Handel und Gewerbe
 short: HGV
 language: de
-version: 2021-04-01
-valid_until: 2021-06-30
-version_adopted: 2021-02-17
+version: 2021-07-01
+valid_until: 2022-03-31
+version_adopted: 2021-05-19
 adopted: 2007-01-24
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/930.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2208/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2292/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2208/pdf_file"
 
 (HGV)
 
-vom 24.01.2007 (Stand 01.04.2021)
+vom 24.01.2007 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -118,7 +118,7 @@ beschliesst:
 - 38\. Wilderswil und
 - 39\. Zweisimmen.
 
-## 3 Beschränkungen des Handels mit Tabak und mit alkoholischen Getränken
+## 3 Beschränkungen des Handels mit Tabakprodukten, pflanzlichen Rauchprodukten, elektronischen Zigaretten und alkoholischen Getränken
 
 #### Art. 6
 
@@ -140,9 +140,9 @@ beschliesst:
 
 #### Art. 9
 
-**Verkauf von Tabak**
+**Verkauf und Abgabe von Tabakprodukten, pflanzlichen Rauchprodukten und elektronischen Zigaretten**
 
-<sup>1</sup> Am Verkaufspunkt ist ein gut sichtbares Schild anzubringen, auf dem in gut lesbarer Schrift darauf hingewiesen wird, dass der Verkauf und die Abgabe von Tabak an Kinder und Jugendliche unter 18 Jahren verboten sind.
+<sup>1</sup> Am Verkaufspunkt ist ein gut sichtbares Schild anzubringen, auf dem in gut lesbarer Schrift darauf hingewiesen wird, dass der Verkauf und die Abgabe von Tabakprodukten, pflanzlichen Rauchprodukten und elektronischen Zigaretten an Kinder und Jugendliche unter 18 Jahren verboten sind.
 
 ## 4
 
@@ -290,6 +290,12 @@ beschliesst:
 
 - a den Bestimmungen gemäss den Artikeln 14b bis 14e genügen und
 - b diese spätestens ab dem 1. Juli 2019 gelten.
+
+## T2 Übergangsbestimmung der Änderung vom 19.05.2021
+
+#### Art. T2-1
+
+<sup>1</sup> Die Schilder gemäss Artikel 9 sind bis zum 1. Januar 2022 anzupassen.
 
 Bern, 24. Januar 2007
 

@@ -4,13 +4,13 @@ number: "930.11"
 title: "Ordonnance sur le commerce et l'industrie"
 short: OCI
 language: fr
-version: 2021-04-01
-valid_until: 2021-06-30
-version_adopted: 2021-02-17
+version: 2021-07-01
+valid_until: 2022-03-31
+version_adopted: 2021-05-19
 adopted: 2007-01-24
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/930.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2208/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2292/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2208/pdf_file"
 
 (OCI)
 
-du 24.01.2007 (état au 01.04.2021)
+du 24.01.2007 (état au 01.07.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -116,7 +116,7 @@ arrête:
 - 38\. Wilderswil et
 - 39\. Zweisimmen.
 
-## 3 Restrictions au commerce du tabac et des boissons alcoolisées
+## 3 Restrictions au commerce des produits du tabac, des produits à fumer à base de plantes, des cigarettes électroniques et des boissons alcoolisées
 
 #### Art. 6
 
@@ -138,9 +138,9 @@ arrête:
 
 #### Art. 9
 
-**Vente de tabac**
+**Vente et remise de produits du tabac, de produits à fumer à base de plantes et de cigarettes électroniques**
 
-<sup>1</sup> Un panneau doit être placé en évidence dans les points de vente et attirer l’attention, par des caractères très lisibles, sur le fait que la remise et la vente de tabac aux enfants et aux jeunes de moins de 18 ans sont interdites.
+<sup>1</sup> Un panneau doit être placé en évidence dans les points de vente et attirer l’attention, par des caractères très lisibles, sur le fait que la remise et la vente aux enfants et aux jeunes de moins de 18 ans de produits du tabac, de produits à fumer à base de plantes et de cigarettes électroniques sont interdites.
 
 ## 4
 
@@ -288,6 +288,12 @@ arrête:
 
 - a s'ils satisfont aux dispositions des articles 14b à 14e et
 - b s'ils sont appliqués au plus tard à compter du 1<sup>er</sup> juillet 2019.
+
+## T2 Disposition transitoire de la modification du 19.05.2021
+
+#### Art. T2-1
+
+<sup>1</sup> Les panneaux visés à l'article 9 doivent avoir été adaptés d'ici au 1<sup>er</sup> janvier 2022.
 
 Berne, le 24 janvier 2007
 
