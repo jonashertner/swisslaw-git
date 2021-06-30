@@ -4,20 +4,20 @@ number: 539c
 title: Statut der Universität Luzern
 short: Universitätsstatut
 language: de
-version: 2021-05-01
-valid_until: 2021-06-30
-version_adopted: 2021-03-24
+version: 2021-07-01
+valid_until: 2022-07-31
+version_adopted: 2021-06-23
 adopted: 2023-12-13
 in_force: 2024-02-01
 url: "https://srl.lu.ch/app/de/texts_of_law/539c"
-pdf: "https://srl.lu.ch/api/de/versions/3745/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3765/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Statut der Universität Luzern
 
-vom 12.12.2001 (Stand 01.05.2021)
+vom 12.12.2001 (Stand 01.07.2021)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -432,17 +432,7 @@ Es bestehen folgende Zuständigkeiten:
 
 #### § 23a
 
-**Forschungskommission SNF**
-
-<sup>1</sup> Die Forschungskommission des Schweizerischen Nationalfonds an der Universität Luzern (Forschungskommission SNF) ist für die Zusprache von Forschungsstipendien an angehende Forscherinnen und Forscher der Universität Luzern zuständig.
-
-<sup>2</sup> Sie nimmt Stellung zu den aus der Universität Luzern beim Schweizerischen Nationalfonds eingereichten Gesuchen für Forschungsstipendien an fortgeschrittene Forscherinnen und Forscher.
-
-<sup>3</sup> Die Forschungskommission SNF besteht aus mindestens zwölf Mitgliedern, wobei die Fakultäten angemessen vertreten sind. Sie setzt sich ausschliesslich aus Vertreterinnen und Vertretern des professoralen Lehrkörpers zusammen.
-
-<sup>4</sup> Der Senat wählt die Mitglieder der Forschungskommission SNF auf Vorschlag der Fakultäten für eine Amtsdauer von zwei Jahren. Wiederwahl ist möglich. Die gesamte Amtszeit eines Mitgliedes der Forschungskommission SNF darf die Dauer von acht Jahren nicht überschreiten.
-
-<sup>5</sup> Die zuständige Prorektorin oder der zuständige Prorektor leitet die Forschungskommission SNF. Vorbehalten bleibt die Bestätigung durch den Nationalen Forschungsrat des Schweizerischen Nationalfonds.
+**…**
 
 #### § 24
 
