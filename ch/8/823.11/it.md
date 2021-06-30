@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 1989 sul collocamento e il personale a pres
 short: LC
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/392_392_392"
 language: it
-version: 2020-01-01
+version: 2021-07-01
 adopted: 1989-10-06
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20200101/it/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20210701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20200101/it"
 
 (Legge sul collocamento, LC)
 
-del 6 ottobre 1989 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 6 ottobre 1989 (Stato 1° luglio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -388,18 +388,18 @@ Il prestatore deve concludere con l’impresa acquisitrice un contratto scritto.
 
 **Collocamento in relazione con l’estero**
 
-<sup>1</sup> Il Dipartimento federale degli affari esteri (DFAE) gestisce un servizio di consulenza che fornisce, senza garanzia di esattezza, informazioni sulle prescrizioni d’entrata, le possibilità di lavoro e le condizioni di vita nei Paesi esteri e le trasmette a persone che desiderano esercitare un’attività lucrativa all’estero.[^25-1]
+<sup>1</sup> La Direzione consolare del Dipartimento federale degli affari esteri (DFAE) gestisce un servizio di consulenza che fornisce, senza garanzia di esattezza, informazioni sulle prescrizioni d’entrata, le possibilità di lavoro e le condizioni di vita nei Paesi esteri e le trasmette a persone che desiderano esercitare un’attività lucrativa all’estero.[^25-1]
 
-<sup>2</sup> La SECO sostiene nella ricerca di un posto di lavoro i cittadini svizzeri che desiderano rimpatriare e coordina gli sforzi degli uffici del lavoro per il collocamento degli Svizzeri rimpatriati.[^25-2]
+<sup>2</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione sostiene nella ricerca di un posto di lavoro i cittadini svizzeri che desiderano rimpatriare e coordina gli sforzi degli uffici del lavoro per il loro collocamento.[^25-2]
 
 <sup>2bis</sup> La Confederazione può sostenere la ricerca di posti di lavoro all’estero con altri provvedimenti.[^25-3]
 
-<sup>3</sup> La Segreteria di Stato della migrazione (SEM)[^25-4] colloca praticanti stranieri e svizzeri sul fondamento degli accordi interstatali sullo scambio di praticanti. A tal fine, può chiedere la cooperazione degli uffici del lavoro.
+<sup>3</sup> ...[^25-4]
 
-[^25-1]: Nuovo testo giusta l’all. n. III 5 della L del 26 set. 2014 sugli Svizzeri all’estero, in vigore dal 1° nov. 2015 ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^25-2]: Nuovo testo giusta l’all. n. III 5 della L del 26 set. 2014 sugli Svizzeri all’estero, in vigore dal 1° nov. 2015 ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)).
+[^25-1]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^25-2]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^25-3]: Introdotto dall’all. n. III 5 della L del 26 set. 2014 sugli Svizzeri all’estero, in vigore dal 1° nov. 2015 ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^25-4]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. è tenuto conto in tutto il presente testo.
+[^25-4]: Abrogato dall’all. n. 1 della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 26
 
@@ -582,37 +582,62 @@ Purché rimangano tutelati interessi preponderanti, possono consultare gli atti:
 
 #### Art. 35
 
-**Sistema d’informazione**[^35-1]
+**Sistemi d’informazione[^35-2]**[^35-1]
 
 <sup>1</sup>
 
-La SECO gestisce un sistema d’informazione che serve a:
+L’ufficio di compensazione dell’assicurazione contro la disoccupazione (art. 83 cpv. 3 della legge del 25 giugno 1982[^35-3] sull’assicurazione contro la disoccupazione [LADI]) gestisce sistemi d’informazione che servono:
 
-- a. facilitare il collocamento;
-- b. rendere esecutiva la legge federale del 25 giugno 1982[^35-2] sull’assicurazione contro la disoccupazione;
-- c. osservare il mercato del lavoro;
-- d. agevolare la collaborazione fra gli organi del servizio pubblico di collocamento, dell’assicurazione contro la disoccupazione, dell’assicurazione per l’invalidità e dell’orientamento professionale;
-- e.[^35-3] agevolare la collaborazione fra gli organi dell’assicurazione contro la disoccupazione, il servizio pubblico di collocamento, i collocatori privati e i datori di lavoro.
+- a.
 
-<sup>2</sup> Il sistema d’informazione può trattare dati personali, compresi quelli degni di particolare protezione conformemente all’articolo 33*a* capoverso 2, e profili della personalità.
+  al collocamento pubblico (art. 83 cpv. 1<sup>bis</sup> lett. b LADI), per:
+
+  - 1\. facilitare il collocamento,
+  - 2\. rendere esecutiva la LADI,
+  - 3\. osservare il mercato del lavoro,
+  - 4\. agevolare la collaborazione fra gli organi del servizio pubblico di collocamento, dell’assicurazione contro la disoccupazione e dell’assicurazione per l’invalidità,
+  - 5\. agevolare la collaborazione fra gli organi dell’assicurazione contro la disoccupazione, il servizio pubblico di collocamento, i collocatori privati e i datori di lavoro;
+
+- b.
+
+  alla gestione della piattaforma del servizio pubblico di collocamento (art. 83 cpv. 1<sup>bis</sup> lett. e LADI), per:
+
+  - 1\. consultare i posti vacanti,
+  - 2\. consultare i posti vacanti soggetti all’obbligo di annuncio,
+  - 3\. annunciare i posti vacanti,
+  - 4\. contattare le persone in cerca d’impiego,
+  - 5\. gestire i posti vacanti.[^35-4]
+
+<sup>2</sup> Il sistema d’informazione di cui al capoverso 1 lettera a può trattare dati personali, compresi quelli degni di particolare protezione conformemente all’articolo 33*a* capoverso 2, e profili della personalità.[^35-5]
 
 <sup>3</sup>
 
-I seguenti uffici possono accedere al sistema d’informazione mediante procedura di richiamo al fine di adempiere i loro compiti legali:
+I seguenti uffici e organi hanno accesso al sistema del servizio pubblico di collocamento e possono trattare dati:[^35-6]
 
-- a. la SECO;
-- b. la SEM;
-- c. gli uffici cantonali del lavoro;
-- d. i servizi di logistica per provvedimenti relativi al mercato del lavoro;
-- e. gli uffici regionali di collocamento;
-- f. le casse di disoccupazione;
-- g. gli organi dell’assicurazione per l’invalidità;
-- h. gli organi dell’orientamento professionale;
-- i. l’Ufficio svizzero del lavoro a domicilio;
-- j.[^35-4] il DFAE;
-- k.[^35-5] le autorità incaricate dai Cantoni di controllare l’adempimento dell’obbligo di annunciare i posti vacanti di cui all’articolo 21*a* capoversi 3 e 4 della legge federale del 16 dicembre 2005[^35-6] sugli stranieri e la loro integrazione.
+- [tab] a. e b.[^35-7] ...
+- c.[^35-8] gli uffici cantonali del lavoro (art. 32 cpv. 2), per adempiere i compiti loro assegnati dalla legge (art. 85 LADI);
+- d.[^35-9] i servizi logistici per l’approntamento di provvedimenti inerenti al mercato del lavoro, per adempiere i compiti loro assegnati dalla legge (art. 85*c* LADI);
+- e.[^35-10] gli uffici regionali di collocamento (URC), per adempiere i compiti loro assegnati dalla legge (art. 85*b* LADI);
+- f.[^35-11] ...
+- g.[^35-12] gli organi dell’assicurazione per l’invalidità, ai fini della reintegrazione professionale delle persone nel quadro della collaborazione interistituzionale di cui all’articolo 35*a*;
+- h. e i.[^35-13] ...
+- j.[^35-14] ...
+- [tab] j<sup>bis</sup>.[^35-15]gli organi dell’assistenza sociale, ai fini della reintegrazione professionale delle persone nel quadro della collaborazione interistituzionale di cui all’articolo 35*a;*
+- k.[^35-16] le autorità incaricate dai Cantoni di controllare l’adempimento dell’obbligo di annunciare i posti vacanti di cui all’articolo 21*a* capoversi 3 e 4 della legge federale del 16 dicembre 2005[^35-17] sugli stranieri e la loro integrazione.
 
-<sup>3bis</sup> Se necessario all’esecuzione della presente legge e della legge federale del 25 giugno 1982[^35-7] sull’assicurazione contro la disoccupazione, lo scambio di dati personali, compresi quelli degni di particolare protezione e profili della personalità, tra i sistemi d’informazione del servizio pubblico di collocamento e dell’assicurazione contro la disoccupazione (art. 83 cpv. 1 lett. i della LF del 25 giu. 1982 sull’assicurazione contro la disoccupazione) è autorizzato.<sup>4</sup> La Confederazione partecipa alle spese, nella misura in cui siano dovute all’adempimento di compiti federali.[^35-8]
+<sup>3bis</sup> Se necessario all’esecuzione della presente legge e della LADI, lo scambio di dati personali, compresi quelli degni di particolare protezione e profili della personalità, tra i sistemi d’informazione del servizio pubblico di collocamento e dell’assicurazione contro la disoccupazione è autorizzato.[^35-18]
+
+<sup>3ter</sup>
+
+Le seguenti persone e i seguenti uffici hanno un accesso protetto alla piattaforma del servizio pubblico di collocamento:
+
+- a. le persone in cerca d’impiego registrate all’URC, per accedere alle informazioni sui posti vacanti annunciati;
+- b. i datori di lavoro, per annunciare i posti vacanti e contattare le persone in cerca d’impiego;
+- c. i collocatori privati che dispongono di un’autorizzazione di collocamento, per consultare in forma non anonimizzata i profili delle persone in cerca d’impiego;
+- d. gli URC, per gestire gli annunci di posti vacanti;
+- e. la Direzione consolare del DFAE, per adempiere i compiti di cui all’articolo 25 capoverso 1.[^35-19]
+
+<sup>4</sup> La Confederazione partecipa alle spese, nella misura in cui siano dovute all’adempimento di compiti federali.
 
 <sup>5</sup>
 
@@ -621,19 +646,31 @@ Il Consiglio federale disciplina:
 - a. la responsabilità per la protezione dei dati;
 - b. i dati da raccogliere;
 - c. il termine di conservazione dei dati;
-- d. l’accesso ai dati, segnatamente stabilendo quali utenti del sistema d’informazione possono trattare dati personali degni di particolare protezione e profili della personalità;
+- d.[^35-20] la portata dei diritti di accesso e di trattamento dei dati personali, compresi i dati degni di particolare protezione e i profili della personalità, accordati alle persone, agli uffici e agli organi di cui ai capoversi 3 e 3<sup>ter</sup>;
 - e. l’organizzazione e la gestione del sistema d’informazione;
 - f. la collaborazione fra le autorità interessate;
 - g. la sicurezza dei dati.
 
 [^35-1]: Nuovo testo giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^35-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^35-3]: Introdotta dal n. II 1 della LF del 19 mar. 2010 sull’assicurazione contro la disoccupazione, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^35-4]: Introdotta dall’all. n. III 5 della L del 26 set. 2014 sugli Svizzeri all’estero, in vigore dal 1° nov. 2015 ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^35-5]: Introdotta dall’art. 4 n. 2 della LF del 27 set. 2019 sulla partecipazione ai costi dei Cantoni per i controlli concernenti l’obbligo di annunciare i posti vacanti, in vigore dal 1° gen. 2020 al 31 dic. 2023 ([RU 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [FF 2019 2341](https://fedlex.data.admin.ch/eli/fga/2019/785)).
-[^35-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^35-7]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^35-8]: Introdotta dal n. II 1 della LF del 19 mar. 2010 sull’assicurazione contro la disoccupazione, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^35-2]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^35-4]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-5]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-6]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-7]: Abrogate dall’all. n. 1 della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-8]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-9]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-10]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-11]: Abrogata dall’all. n. 1 della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-12]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-13]: Abrogate dall’all. n. 1 della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-14]: Introdotta dall’all. n. III 5 della L del 26 set. 2014 sugli Svizzeri all’estero ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)). Abrogata dall’all. n. 1 della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-15]: Introdotta dall’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-16]: Introdotta dall’art. 4 n. 2 della LF del 27 set. 2019 sulla partecipazione ai costi dei Cantoni per i controlli concernenti l’obbligo di annunciare i posti vacanti, in vigore dal 1° gen. 2020 al 31 dic. 2023 ([RU 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [FF 2019 2341](https://fedlex.data.admin.ch/eli/fga/2019/785)).
+[^35-17]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^35-18]: Introdotta dal n. II 1 della LF del 19 mar. 2010 sull’assicurazione contro la disoccupazione ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-19]: Introdotto dall’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-20]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 35a
 

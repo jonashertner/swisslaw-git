@@ -4,11 +4,11 @@ title: "Loi fédérale du 6 octobre 1989 sur le service de l'emploi et la locati
 short: LSE
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/392_392_392"
 language: fr
-version: 2020-01-01
+version: 2021-07-01
 adopted: 1989-10-06
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20210701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20210701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20200101/fr"
 
 (LSE)
 
-du 6 octobre 1989 (Etat le 1<sup>er</sup> janvier 2020)
+du 6 octobre 1989 (Etat le 1<sup>er</sup> juillet 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -258,9 +258,7 @@ L’autorisation est retirée lorsque le bailleur de services:
 
 <sup>2</sup> Lorsqu’il y a présomption sérieuse qu’une personne procure professionnellement les services de travailleurs à des tiers sans autorisation, l’autorité qui délivre les autorisations peut également exiger des renseignements de toutes les personnes et entreprises intéressées.
 
-<sup>3</sup> Dans les domaines régis par une convention collective de travail étendue, le bailleur de services doit présenter à l’organe paritaire compétent tous les documents permettant de vérifier que les conditions de travail sont conformes à l’usage local.
-
-Dans les domaines non régis par une convention collective de travail étendue, les renseignements doivent être fournis à la commission cantonale tripartite compétente.[^17-1]
+<sup>3</sup> Dans les domaines régis par une convention collective de travail étendue, le bailleur de services doit présenter à l’organe paritaire compétent tous les documents permettant de vérifier que les conditions de travail sont conformes à l’usage local. Dans les domaines non régis par une convention collective de travail étendue, les renseignements doivent être fournis à la commission cantonale tripartite compétente.[^17-1]
 
 [^17-1]: Introduit par l’art. 2 ch. 4 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre du prot. relatif à l’extension de l’ac. entre la Confédération suisse, d’une part, et la CE et ses États membres, d’autre part, sur la libre circulation des personnes aux nouveaux États membres de la CE et portant approbation de la révision des mesures d’accompagnement concernant la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [FF 2004 5523](https://fedlex.data.admin.ch/eli/fga/2004/1081)[6187](https://fedlex.data.admin.ch/eli/fga/2004/1105)).
 
@@ -388,18 +386,18 @@ Le bailleur de services doit conclure un contrat écrit avec l’entreprise loca
 
 **Placement intéressant l’étranger**
 
-<sup>1</sup> Le Département fédéral des affaires étrangères (DFAE) assure un service d’information et de conseil qui renseigne les personnes désireuses d’exercer une activité lucrative à l’étranger sur les prescriptions d’entrée, les possibilités de travail et les conditions d’existence dans les pays étrangers, sans garantie quant à l’exactitude des informations fournies.[^25-1]
+<sup>1</sup> La Direction consulaire du Département fédéral des affaires étrangères (DFAE) assure un service d’information et de conseil qui renseigne les personnes désireuses d’exercer une activité lucrative à l’étranger sur les prescriptions d’entrée, les possibilités de travail et les conditions d’existence dans les pays étrangers, sans garantie quant à l’exactitude des informations fournies.[^25-1]
 
-<sup>2</sup> Le SECO soutient les ressortissants suisses voulant rentrer au pays dans leurs recherches d’emploi et coordonne les efforts des offices du travail tendant au placement des émigrés suisses rentrant au pays.[^25-2]
+<sup>2</sup> L’organe de compensation de l’assurance-chômage soutient dans leurs recherches d’emploi les ressortissants suisses voulant rentrer au pays et coordonne les efforts des offices du travail tendant à leur placement.[^25-2]
 
 <sup>2bis</sup> La Confédération peut appuyer, par d’autres mesures, la recherche d’emploi à l’étranger.[^25-3]
 
-<sup>3</sup> Le Secrétariat d’État aux migrations (SEM)[^25-4] place des stagiaires étrangers et suisses en application des arrangements, bilatéraux ou multilatéraux sur l’échange de stagiaires. Il peut demander le concours des offices du travail pour le placement de stagiaires étrangers.
+<sup>3</sup> …[^25-4]
 
-[^25-1]: Nouvelle teneur selon l’annexe ch. III 5 de la L du 26 sept. 2014 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1851](https://fedlex.data.admin.ch/eli/fga/2014/363)[2541](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^25-2]: Nouvelle teneur selon l’annexe ch. III 5 de la L du 26 sept. 2014 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1851](https://fedlex.data.admin.ch/eli/fga/2014/363)[2541](https://fedlex.data.admin.ch/eli/fga/2014/452)).
+[^25-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^25-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^25-3]: Introduit par l’annexe ch. III 5 de la L du 26 sept. 2014 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1851](https://fedlex.data.admin.ch/eli/fga/2014/363)[2541](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^25-4]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l'art. 16 al. 3 de l'O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^25-4]: Abrogé par l’annexe ch. 1 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 26
 
@@ -582,37 +580,60 @@ Ont le droit de consulter le dossier, dans la mesure où les intérêts privés 
 
 #### Art. 35
 
-**Système d’information**[^35-1]
+**Systèmes d’information[^35-2]**[^35-1]
 
 <sup>1</sup>
 
-Le SECO gère un système d’information qui sert à:
+L’organe de compensation de l’assurance-chômage (art. 83, al. 3, de la loi du 25 juin 1982 sur l’assurance-chômage [LACI][^35-3]) gère des systèmes d’information servant:
 
-- a. faciliter le placement;
-- b. assurer l’exécution de la loi du 25 juin 1982 sur l’assurance-chômage[^35-2];
-- c. observer le marché du travail;
-- d. faciliter la collaboration entre les organes du service public de l’emploi, de l’assurance-chômage, de l’assurance-invalidité et les services d’orientation professionnelle;
-- e.[^35-3] faciliter la collaboration entre les organes de l’assurance-chômage, le service public de l’emploi, le placement privé et les employeurs.
+- a.
 
-<sup>2</sup> Ce système d’information peut contenir des données personnelles, y compris des données sensibles au sens de l’art. 33*a*, al. 2, et des profils de la personnalité.
+  au placement public (art. 83, al. 1<sup>bis</sup>, let. b, LACI) aux fins:
+
+  - 1\. de faciliter le placement,
+  - 2\. d’assurer l’exécution de la LACI,
+  - 3\. d’observer le marché du travail,
+  - 4\. de faciliter la collaboration entre les organes du service public de l’emploi, de l’assurance-chômage et de l’assurance-invalidité,
+  - 5\. de faciliter la collaboration entre les organes de l’assurance-chômage, le service public de l’emploi, le placement privé et les employeurs;
+
+- b.
+
+  à l’exploitation de la plateforme du service public de l’emploi (art. 83, al. 1<sup>bis</sup>, let. e, LACI) aux fins:
+
+  - 1\. de consulter les postes vacants,
+  - 2\. de consulter les postes vacants soumis à l’obligation d’annonce,
+  - 3\. d’annoncer les postes vacants,
+  - 4\. de contacter les demandeurs d’emploi,
+  - 5\. de gérer les postes vacants.[^35-4]
+
+<sup>2</sup> Des données personnelles, y compris des données sensibles au sens de l’art. 33*a*, al. 2, et des profils de la personnalité, peuvent être traitées dans le système d’information visé à l’al. 1, let. a.[^35-5]
 
 <sup>3</sup>
 
-Les organes suivants peuvent accéder en ligne au système d’information dans l’accomplissement de leurs tâches légales:[^35-4]
+Les organes suivants ont le droit d’accéder au système servant au placement public et d’y traiter des données:[^35-6]
 
-- a. le SECO;
-- b. le SEM;
-- c. les offices cantonaux du travail;
-- d. les services chargés de la logistique des mesures relatives au marché du travail;
-- e. les offices régionaux de placement;
-- f. les caisses de chômage;
-- g. les organes de l’assurance-invalidité;
-- h. les services d’orientation professionnelle;
-- i. la Centrale suisse pour le travail à domicile;
-- j.[^35-5] le DFAE;
-- k.[^35-6] les autorités chargées par les cantons de contrôler le respect de l’obligation d’annoncer les postes vacants prévue à l’art. 21*a,* al. 3 et 4, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^35-7].
+- a. et b.[^35-7] …
+- c.[^35-8] les offices cantonaux du travail (art. 32, al. 2), pour l’accomplissement de leurs tâches légales (art. 85 LACI);
+- d.[^35-9] les services de logistique des mesures relatives au marché du travail, pour l’accomplissement de leurs tâches légales (art. 85*c* LACI);
+- e.[^35-10] les offices régionaux de placement (ORP), pour l’accomplissement de leurs tâches légales (art. 85*b* LACI);
+- f.[^35-11] …
+- g.[^35-12] les organes de l’assurance-invalidité, en vue de la réinsertion professionnelle des personnes dans le cadre de la collaboration interinstitutionnelle prévue à l’art. 35*a*;
+- h. et i.[^35-13] …
+- j.[^35-14] …
+- j<sup>bis</sup>.[^35-15] les organes de l’aide sociale, en vue de la réinsertion professionnelle des personnes dans le cadre de la collaboration interinstitutionnelle prévue à l’art. 35*a*;
+- k.[^35-16] les autorités chargées par les cantons de contrôler le respect de l’obligation d’annoncer les postes vacants prévue à l’art. 21*a,* al. 3 et 4, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^35-17].
 
-<sup>3bis</sup> L’échange de données personnelles, y compris les données sensibles et les profils de la personnalité, entre les systèmes d’information du service public de l’emploi et ceux de l’assurance-chômage (art. 83, al. 1, let. i, de la loi du 25 juin 1982 sur l’assurance-chômage[^35-8]) est autorisé dans la mesure où il est nécessaire à l’exécution de la présente loi et de la loi du 25 juin 1982 sur l’assurance-chômage.[^35-9]
+<sup>3bis</sup> L’échange de données personnelles, y compris de données sensibles et de profils de la personnalité, entre les systèmes d’information du service public de l’emploi et ceux de l’assurance-chômage est autorisé dans la mesure où il est nécessaire à l’exécution de la présente loi et de la LACI.[^35-18]
+
+<sup>3ter</sup>
+
+Les personnes et les organes suivants disposent d’un accès sécurisé à la plateforme du service public de l’emploi:
+
+- a. les personnes enregistrées en tant que demandeurs d’emploi auprès de l’ORP, pour accéder aux annonces de postes vacants;
+- b. les employeurs, pour annoncer les postes vacants et contacter les demandeurs d’emploi;
+- c. les placeurs privés qui possèdent une autorisation, pour consulter les profils non anonymisés des demandeurs d’emploi;
+- d. les ORP, pour gérer les annonces;
+- e. la Direction consulaire du DFAE, pour accomplir les tâches prévues par l’art. 25, al. 1.[^35-19]
 
 <sup>4</sup> La Confédération participe aux frais dans la mesure où ceux-ci sont occasionnés par l’accomplissement de tâches qui lui incombent.
 
@@ -623,20 +644,31 @@ Le Conseil fédéral règle:
 - a. la responsabilité de la protection des données;
 - b. les données à saisir;
 - c. la durée de conservation des données;
-- d. l’accès aux données, notamment en déterminant les utilisateurs du système autorisés à traiter des données sensibles et des profils de la personnalité;
+- d.[^35-20] l’étendue des droits d’accès et de traitement de données personnelles, y compris des données sensibles et des profils de la personnalité, octroyés aux personnes, aux services et aux organes mentionnés aux al. 3 et 3<sup>ter</sup>;
 - e. l’organisation et l’exploitation du système d’information;
 - f. la collaboration entre les autorités concernées;
 - g. la sécurité des données.
 
 [^35-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^35-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^35-3]: Introduite par le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^35-4]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^35-5]: Introduite par l’annexe ch. III 5 de la L du 26 sept. 2014 sur les Suisses de l’étranger, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1851](https://fedlex.data.admin.ch/eli/fga/2014/363)[2541](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^35-6]: Introduite par l’art. 4 ch. 2 de la LF du 27 sept. 2019 sur la participation aux frais des cantons pour les contrôles relatifs à l’obligation d’annoncer les postes vacants, en vigueur du 1<sup>er</sup> janv. 2020 au 31 déc. 2023 ([RO 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [FF 2019 2671](https://fedlex.data.admin.ch/eli/fga/2019/785)).
-[^35-7]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^35-8]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^35-9]: Introduit par le ch. II 1 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^35-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^35-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-5]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-6]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-7]: Abrogées par l’annexe ch. 1 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-8]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-9]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-10]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-11]: Abrogée par l’annexe ch. 1 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-12]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-13]: Abrogées par l’annexe ch. 1 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-14]: Introduite par l’annexe ch. III 5 de la L du 26 sept. 2014 sur les Suisses de l’étranger ([RO 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1851](https://fedlex.data.admin.ch/eli/fga/2014/363)[2541](https://fedlex.data.admin.ch/eli/fga/2014/452)). Abrogée par l’annexe ch. 1 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-15]: Introduite par l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-16]: Introduite par l’art. 4 ch. 2 de la LF du 27 sept. 2019 sur la participation aux frais des cantons pour les contrôles relatifs à l’obligation d’annoncer les postes vacants, en vigueur du 1<sup>er</sup> janv. 2020 au 31 déc. 2023 ([RO 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [FF 2019 2671](https://fedlex.data.admin.ch/eli/fga/2019/785)).
+[^35-17]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^35-18]: Introduit par le ch. II 1 de la LF du 19 mars 2010 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-19]: Introduit par l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-20]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 35a
 

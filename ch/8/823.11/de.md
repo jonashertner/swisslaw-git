@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 1989 über die Arbeitsvermittlung und den Pe
 short: AVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/392_392_392"
 language: de
-version: 2020-01-01
+version: 2021-07-01
 adopted: 1989-10-06
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20200101/de/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20210701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20200101/de"
 
 (Arbeitsvermittlungsgesetz, AVG)
 
-vom 6. Oktober 1989 (Stand am 1. Januar 2020)
+vom 6. Oktober 1989 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -384,18 +384,18 @@ Der Verleiher muss den Vertrag mit dem Einsatzbetrieb schriftlich abschliessen. 
 
 **Auslandsvermittlung**
 
-<sup>1</sup> Das Eidgenössische Departement für auswärtige Angelegenheiten (EDA) unterhält einen Beratungsdienst, der ohne Gewähr Informationen über Einreise, Arbeitsmöglichkeiten und Lebensbedingungen in ausländischen Staaten beschafft und an Personen weitergibt, die im Ausland eine Erwerbstätigkeit ausüben wollen.[^25-1]
+<sup>1</sup> Die Konsularische Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) unterhält einen Beratungsdienst, der ohne Gewähr Informationen über Einreise, Arbeitsmöglichkeiten und Lebensbedingungen in ausländischen Staaten beschafft und an Personen weitergibt, die im Ausland eine Erwerbstätigkeit ausüben wollen.[^25-1]
 
-<sup>2</sup> Das SECO unterstützt die rückwanderungswilligen Schweizer Staatsangehörigen bei ihrer Arbeitssuche und koordiniert die Bemühungen der Arbeitsämter bei der Vermittlung schweizerischer Rückwanderer aus dem Ausland.[^25-2]
+<sup>2</sup> Die Ausgleichsstelle der Arbeitslosenversicherung unterstützt die rückwanderungswilligen Schweizer Staatsangehörigen bei ihrer Arbeitssuche und koordiniert die Bemühungen der Arbeitsämter bei deren Vermittlung.[^25-2]
 
 <sup>2bis</sup> Der Bund kann die Suche nach Auslandstellen mit weiteren Massnahmen unterstützen.[^25-3]
 
-<sup>3</sup> Das Staatssekretariat für Migration (SEM)[^25-4] vermittelt ausländische und schweizerische Stagiaires aufgrund der zwischenstaatlichen Vereinbarungen über den Austausch von Stagiaires. Für die Vermittlung kann es die Arbeitsämter zur Mitwirkung heranziehen.
+<sup>3</sup> ...[^25-4]
 
-[^25-1]: Fassung gemäss Anhang Ziff. III 5 des Auslandschweizergesetzes vom 26. Sept. 2014, in Kraft seit 1. Nov. 2015 ([AS 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [BBl 2014 1915](https://fedlex.data.admin.ch/eli/fga/2014/363)[2617](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^25-2]: Fassung gemäss Anhang Ziff. III 5 des Auslandschweizergesetzes vom 26. Sept. 2014, in Kraft seit 1. Nov. 2015 ([AS 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [BBl 2014 1915](https://fedlex.data.admin.ch/eli/fga/2014/363)[2617](https://fedlex.data.admin.ch/eli/fga/2014/452)).
+[^25-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^25-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^25-3]: Eingefügt durch Anhang Ziff. III 5 des Auslandschweizergesetzes vom 26. Sept. 2014, in Kraft seit 1. Nov. 2015 ([AS 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [BBl 2014 1915](https://fedlex.data.admin.ch/eli/fga/2014/363)[2617](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^25-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^25-4]: Aufgehoben durch Anhang Ziff. 1 des BG vom 19. Juni 2020, mit Wirkung seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 26
 
@@ -576,37 +576,60 @@ Sofern überwiegende Privatinteressen gewahrt bleiben, steht die Akteneinsicht z
 
 #### Art. 35
 
-**Informationssystem**[^35-1]
+**Informationssysteme[^35-2]**[^35-1]
 
 <sup>1</sup>
 
-Das SECO betreibt ein Informationssystem zur Unterstützung:
+Die Ausgleichsstelle der Arbeitslosenversicherung (Art. 83 Abs. 3 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^35-3] [AVIG]) betreibt Informationssysteme für Dienstleistungen:
 
-- a. der Arbeitsvermittlung;
-- b. des Vollzugs des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^35-2];
-- c. der Arbeitsmarktbeobachtung;
-- d. der Zusammenarbeit zwischen den Organen der Arbeitsvermittlung, Arbeitslosenversicherung, Invalidenversicherung und Berufsberatung;
-- e.[^35-3] der Zusammenarbeit zwischen den Organen der Arbeitslosenversicherung, der öffentlichen und privaten Arbeitsvermittlung und den Arbeitgebern.
+- a.
 
-<sup>2</sup> In diesem Informationssystem dürfen Personendaten, einschliesslich besonders schützenswerter Personendaten nach Artikel 33*a* Absatz 2 und Persönlichkeitsprofile bearbeitet werden.
+  der öffentlichen Arbeitsvermittlung (Art. 83 Abs. 1<sup>bis</sup> Bst. b AVIG), um:
+
+  - 1\. die Arbeitsvermittlung zu erleichtern,
+  - 2\. den Vollzug des AVIG zu gewährleisten,
+  - 3\. den Arbeitsmarkt zu beobachten,
+  - 4\. die Zusammenarbeit zwischen den Organen der Arbeitsvermittlung, Arbeitslosenversicherung und der Invalidenversicherung zu erleichtern,
+  - 5\. die Zusammenarbeit zwischen den Organen der Arbeitslosenversicherung, der öffentlichen und privaten Arbeitsvermittlung und den Arbeitgebern zu erleichtern;
+
+- b.
+
+  auf der Plattform der öffentlichen Arbeitsvermittlung (Art. 83 Abs. 1<sup>bis</sup> Bst. e AVIG), um:
+
+  - 1\. Einsicht in die offenen Stellen zu haben,
+  - 2\. Einsicht in die meldepflichtigen Stellen zu haben,
+  - 3\. offene Stellen zu melden,
+  - 4\. Stellensuchende zu kontaktieren,
+  - 5\. die offenen Stellen zu bewirtschaften.[^35-4]
+
+<sup>2</sup> Im Informationssystem nach Absatz 1 Buchstabe a dürfen Personendaten, einschliesslich besonders schützenswerter Personendaten nach Artikel 33*a* Absatz 2 und Persönlichkeitsprofile, bearbeitet werden.[^35-5]
 
 <sup>3</sup>
 
-Folgende Stellen dürfen mittels Abrufverfahren zur Erfüllung ihrer gesetzlichen Aufgaben auf das Informationssystem zugreifen:
+Folgende Stellen und Organe haben Zugriff auf das System der öffentlichen Arbeitsvermittlung und können Daten bearbeiten:
 
-- a. das SECO;
-- b. das SEM;
-- c. die kantonalen Arbeitsämter;
-- d. die Logistikstellen für arbeitsmarktliche Massnahmen;
-- e. die Regionalen Arbeitsvermittlungszentren;
-- f. die Arbeitslosenkassen;
-- g. die Organe der Invalidenversicherung;
-- h. die Berufsberatungsstellen;
-- i. die schweizerische Zentralstelle für Heimarbeit;
-- j.[^35-4] das EDA;
-- k.[^35-5] die von den Kantonen eingesetzten Behörden zur Kontrolle der Einhaltung der Stellenmeldepflicht nach Artikel 21*a* Absätze 3 und 4 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^35-6].
+- a. und b.[^35-6] ...
+- c.[^35-7] die kantonalen Arbeitsämter (Art. 32 Abs. 2) zur Erfüllung ihrer gesetzlichen Aufgaben (Art. 85 AVIG);
+- d.[^35-8] die Logistikstellen für arbeitsmarktliche Massnahmen zur Erfüllung ihrer gesetzlichen Aufgaben (Art. 85*c* AVIG);
+- e.[^35-9] die Regionalen Arbeitsvermittlungszentren (RAV) zur Erfüllung ihrer gesetzlichen Aufgaben (Art. 85*b* AVIG);
+- f.[^35-10] *...*
+- g.[^35-11] die Organe der Invalidenversicherung im Hinblick auf die berufliche Wiedereingliederung von Personen im Rahmen der interinstitutionellen Zusammenarbeit nach Artikel 35*a*;
+- [tab] h. und i.[^35-12] ...
+- j. [^35-13] ...
+- j<sup>bis</sup>.[^35-14] die Organe der Sozialhilfe im Hinblick auf die berufliche Wiedereingliederung von Personen im Rahmen der interinstitutionellen Zusammenarbeit nach Artikel 35*a*;
+- k.[^35-15] die von den Kantonen eingesetzten Behörden zur Kontrolle der Einhaltung der Stellenmeldepflicht nach Artikel 21*a* Absätze 3 und 4 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^35-16].
 
-<sup>3bis</sup> Soweit es für den Vollzug dieses Gesetzes und des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^35-7] (AVIG) notwendig ist, dürfen Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zwischen den Informationssystemen der öffentlichen Arbeitsvermittlung und den Informationssystemen der Arbeitslosenversicherung (Art. 83 Abs. 1 Bst. i AVIG) ausgetauscht werden.[^35-8]
+<sup>3bis</sup> Soweit es für den Vollzug dieses Gesetzes und des AVIG notwendig ist, dürfen Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile, zwischen den Informationssystemen der öffentlichen Arbeitsvermittlung und den Informationssystemen der Arbeitslosenversicherung ausgetauscht werden.[^35-17]
+
+<sup>3ter</sup>
+
+Folgende Personen und Stellen haben einen gesicherten Zugriff auf die Plattform der öffentlichen Arbeitsvermittlung:
+
+- a. die bei einem RAV erfassten Stellensuchenden für den Zugriff auf die gemeldeten Stelleninformationen;
+- b. die Arbeitgeber, zur Meldung von offenen Stellen und zur Kontaktaufnahme mit Stellensuchenden;
+- c. die privaten Arbeitsvermittler, die eine Vermittlungsbewilligung haben, zur Einsichtnahme in nicht anonymisierte Profile von Stellensuchenden;
+- d. die RAV für die Bewirtschaftung der Stellenanzeigen;
+- e. die konsularische Direktion des EDA für die Erfüllung ihrer Aufgaben nach Artikel 25 Absatz 1.[^35-18]
 
 <sup>4</sup> Der Bund beteiligt sich an den Kosten, soweit diese durch Bundesaufgaben bedingt sind.
 
@@ -617,19 +640,30 @@ Der Bundesrat regelt:
 - a. die Verantwortung für den Datenschutz;
 - b. die zu erfassenden Daten;
 - c. die Aufbewahrungsfrist;
-- d. den Zugriff auf die Daten, namentlich, welche Benutzer des Informationssystems befugt sind, besonders schützenswerte Personendaten und Persönlichkeitsprofile zu bearbeiten;
+- d.[^35-19] den Umfang der Zugriffs- und Bearbeitungsrechte für Personendaten, einschliesslich besonders schützenswerter Daten und Persönlichkeitsprofile der genannten Personen, Stellen und Organe nach den Absätzen 3 und 3<sup>ter</sup>;
 - e. die Organisation und den Betrieb des Informationssystems;
 - f. die Zusammenarbeit zwischen den beteiligten Behörden;
 - g. die Datensicherheit.
 
 [^35-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^35-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^35-3]: Eingefügt durch Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^35-4]: Eingefügt durch Anhang Ziff. III 5 des Auslandschweizergesetzes vom 26. Sept. 2014, in Kraft seit 1. Nov. 2015 ([AS 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [BBl 2014 1915](https://fedlex.data.admin.ch/eli/fga/2014/363)[2617](https://fedlex.data.admin.ch/eli/fga/2014/452)).
-[^35-5]: Eingefügt durch Art. 4 Ziff. 2 des BG vom 27. Sept. 2019 über die Beiträge an die Kosten der Kantone für die Kontrolle der Einhaltung der Stellenmeldepflicht, in Kraft vom 1. Jan. 2020 bis zum 31. Dez. 2023 ([AS 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [BBl 2019 2711](https://fedlex.data.admin.ch/eli/fga/2019/785)).
-[^35-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^35-7]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^35-8]: Eingefügt durch Ziff. II 1 des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^35-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-3]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^35-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-5]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-6]: Aufgehoben durch Anhang Ziff. 1 des BG vom 19. Juni 2020, mit Wirkung seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-7]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-8]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-9]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-10]: Aufgehoben durch Anhang Ziff. 1 des BG vom 19. Juni 2020, mit Wirkung seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-11]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-12]: Aufgehoben durch Anhang Ziff. 1 des BG vom 19. Juni 2020, mit Wirkung seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-13]: Eingefügt durch Anhang Ziff. III 5 des Auslandschweizergesetzes vom 26. Sept. 2014 ([AS 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [BBl 2014 1915](https://fedlex.data.admin.ch/eli/fga/2014/363)[2617](https://fedlex.data.admin.ch/eli/fga/2014/452)). Aufgehoben durch Anhang Ziff. 1 des BG vom 19. Juni 2020, mit Wirkung seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-14]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-15]: Eingefügt durch Art. 4 Ziff. 2 des BG vom 27. Sept. 2019 über die Beiträge an die Kosten der Kantone für die Kontrolle der Einhaltung der Stellenmeldepflicht, in Kraft vom 1. Jan. 2020 bis zum 31. Dez. 2023 ([AS 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [BBl 2019 2711](https://fedlex.data.admin.ch/eli/fga/2019/785)).
+[^35-16]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^35-17]: Eingefügt durch Ziff. II 1 des BG vom 19. März 2010 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-18]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-19]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 35a
 
@@ -751,7 +785,7 @@ Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>6</sup> Die Strafverfolgung ist Sache der Kantone.
 
-[^39-1]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das BG vom 16. Dez. 2005 über die Ausländerinnen und Ausländer ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^39-1]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das BG vom 16. Dez. 2005 über die Ausländerinnen und Ausländer und über die Integration ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 [^39-2]: Fassung gemäss Art. 333 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 [^39-3]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
