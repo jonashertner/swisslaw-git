@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2020-07-01
+version: 2021-07-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20200701/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20210701/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20210701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20210701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 1. Juli 2020)
+vom 21. Dezember 1937 (Stand am 1. Juli 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -374,9 +374,9 @@ Besondere persönliche Verhältnisse, Eigenschaften und Umstände, welche die St
 Absatz 1 gilt nicht, wenn der Richter feststellt, dass:
 
 - a. das Zeugnis erforderlich ist, um eine Person aus einer unmittelbaren Gefahr für Leib und Leben zu retten; oder
-- b.[^28a-1] ohne das Zeugnis ein Tötungsdelikt im Sinne der Artikel 111–113 oder ein anderes Verbrechen, das mit einer Mindeststrafe von drei Jahren Freiheitsstrafe bedroht ist, oder eine Straftat nach den Artikeln 187, 189–191, 197 Absatz 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> und 322<sup>ter</sup>–322<sup>septies</sup> des vorliegenden Gesetzes sowie nach Artikel 19 Absatz 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^28a-2] nicht aufgeklärt werden oder der einer solchen Tat Beschuldigte nicht ergriffen werden kann.
+- b.[^28a-1] ohne das Zeugnis ein Tötungsdelikt im Sinne der Artikel 111–113 oder ein anderes Verbrechen, das mit einer Mindeststrafe von drei Jahren Freiheitsstrafe bedroht ist, oder eine Straftat nach den Artikeln 187, 189–191, 197 Absatz 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> und 322<sup>ter</sup>–322<sup>septies</sup> des vorliegenden Gesetzes oder nach Artikel 19 Absatz 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^28a-2] nicht aufgeklärt werden oder der einer solchen Tat Beschuldigte nicht ergriffen werden kann.
 
-[^28a-1]: Fassung gemäss Anhang Ziff. 1 des BB vom 27. Sept. 2013 (Lanzarote-Konvention), in Kraft seit 1. Juli 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^28a-1]: Fassung gemäss Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^28a-2]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 ### 7. Vertretungsverhältnisse
@@ -483,11 +483,11 @@ Stellt eine antragsberechtigte Person gegen einen an der Tat Beteiligten Strafan
 
 <sup>2</sup> Wurde die Geldstrafe durch eine Verwaltungsbehörde verhängt, so entscheidet das Gericht über die Ersatzfreiheitsstrafe.
 
-<sup>3–5</sup> …[^36-1]
+<sup>3–5</sup> ...[^36-1]
 
 [^36-1]: Aufgehoben durch Ziff. I 1 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), mit Wirkung seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### 2. …
+### 2. ...
 
 #### Art. 37–39
 
@@ -816,7 +816,7 @@ Das Gericht stützt sich beim Entscheid über die Anordnung einer Massnahme nach
 
 #### Art. 58
 
-<sup>1</sup> …[^58-1]
+<sup>1</sup> ...[^58-1]
 
 <sup>2</sup> Die therapeutischen Einrichtungen im Sinne der Artikel 59–61 sind vom Strafvollzug getrennt zu führen.
 
@@ -1163,10 +1163,11 @@ Das Gericht verweist den Ausländer, der wegen einer der folgenden strafbaren Ha
 - i. Brandstiftung (Art. 221 Abs. 1 und 2), vorsätzliche Verursachung einer Explosion (Art. 223 Ziff. 1 Abs. 1), Gefährdung durch Sprengstoffe und giftige Gase in verbrecherischer Absicht (Art. 224 Abs. 1), vorsätzliche Gefährdung ohne verbrecherische Absicht (Art. 225 Abs. 1), Herstellen, Verbergen, Weiterschaffen von Sprengstoffen und giftigen Gasen (Art. 226), Gefährdung durch Kernenergie, Radioaktivität und ionisierende Strahlen (Art. 226<sup>bis</sup>), strafbare Vorbereitungshandlungen (Art. 226<sup>ter</sup>), vorsätzliches Verursachen einer Überschwemmung oder eines Einsturzes (Art. 227 Ziff. 1 Abs. 1), vorsätzliche Beschädigung von elektrischen Anlagen, Wasserbauten und Schutzvorrichtungen (Art. 228 Ziff. 1 Abs. 1);
 - j. vorsätzliche Gefährdung durch gentechnisch veränderte oder pathogene Organismen (Art. 230<sup>bis</sup> Abs. 1), vorsätzliches Verbreiten menschlicher Krankheiten (Art. 231 Ziff. 1), vorsätzliche Trinkwasserverunreinigung (Art. 234 Abs. 1);
 - k. qualifizierte Störung des öffentlichen Verkehrs (Art. 237 Ziff. 1 Abs. 2), vorsätzliche Störung des Eisenbahnverkehrs (Art. 238 Abs. 1);
-- l. strafbare Vorbereitungshandlungen (Art. 260<sup>bis</sup> Abs. 1 und 3), Beteiligung an oder Unterstützung einer kriminellen Organisation (Art. 260<sup>ter</sup>), Gefährdung der öffentlichen Sicherheit mit Waffen (Art. 260<sup>quater</sup>), Finanzierung des Terrorismus (Art. 260<sup>quinquies</sup>);
-- m. Völkermord (Art. 264), Verbrechen gegen die Menschlichkeit (Art. 264*a*), schwere Verletzungen der Genfer Konventionen vom 12. August 1949[^66a-4] (Art. 264*c*), andere Kriegsverbrechen (Art. 264*d*–264*h*);
-- n. vorsätzliche Widerhandlung gegen Artikel 116 Absatz 3 oder Artikel 118 Absatz 3 des Ausländergesetzes vom 16. Dezember 2005[^66a-5];
-- o. Widerhandlung gegen Artikel 19 Absatz 2 oder 20 Absatz 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^66a-6] (BetmG).
+- l.[^66a-4] strafbare Vorbereitungshandlungen (Art. 260<sup>bis</sup> Abs. 1 und 3), Beteiligung an oder Unterstützung einer kriminellen oder terroristischen Organisation (Art. 260<sup>ter</sup>), Gefährdung der öffentlichen Sicherheit mit Waffen (Art. 260<sup>quater</sup>), Finanzierung des Terrorismus (Art. 260<sup>quinquies</sup>), Anwerbung, Ausbildung und Reisen im Hinblick auf eine terroristische Straftat (Art. 260<sup>sexies</sup>);
+- m. Völkermord (Art. 264), Verbrechen gegen die Menschlichkeit (Art. 264*a*), schwere Verletzungen der Genfer Konventionen vom 12. August 1949[^66a-5] (Art. 264*c*), andere Kriegsverbrechen (Art. 264*d*–264*h*);
+- n. vorsätzliche Widerhandlung gegen Artikel 116 Absatz 3 oder Artikel 118 Absatz 3 des Ausländergesetzes vom 16. Dezember 2005[^66a-6];
+- o. Widerhandlung gegen Artikel 19 Absatz 2 oder 20 Absatz 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^66a-7] (BetmG);
+- p.[^66a-8] Widerhandlung nach Artikel 74 Absatz 4 des Nachrichtendienstgesetzes vom 25. September 2015[^66a-9] (NDG).
 
 <sup>2</sup> Das Gericht kann ausnahmsweise von einer Landesverweisung absehen, wenn diese für den Ausländer einen schweren persönlichen Härtefall bewirken würde und die öffentlichen Interessen an der Landesverweisung gegenüber den privaten Interessen des Ausländers am Verbleib in der Schweiz nicht überwiegen. Dabei ist der besonderen Situation von Ausländern Rechnung zu tragen, die in der Schweiz geboren oder aufgewachsen sind.
 
@@ -1175,9 +1176,12 @@ Das Gericht verweist den Ausländer, der wegen einer der folgenden strafbaren Ha
 [^66a-1]: Eingefügt durch Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^66a-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^66a-3]: Die Berichtigung der BVers vom 28. Nov. 2017, publiziert am 12. Dez. 2017 betrifft nur den französichen Text ([AS 2017 7257](https://fedlex.data.admin.ch/eli/oc/2017/786)).
-[^66a-4]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^66a-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^66a-6]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^66a-4]: Fassung gemäss Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^66a-5]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^66a-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^66a-7]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^66a-8]: Eingefügt durch Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^66a-9]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 
 ### b. Nicht obligatorische Landesverweisung
 
@@ -1295,7 +1299,7 @@ Das Gericht kann in besonders leichten Fällen ausnahmsweise von der Anordnung e
 
 <sup>6</sup> Das Gericht kann für die Dauer der Verbote Bewährungshilfe anordnen.[^67-8]
 
-<sup>7</sup> …[^67-9]
+<sup>7</sup> ...[^67-9]
 
 [^67-1]: Fassung gemäss Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^67-2]: Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
@@ -1393,7 +1397,7 @@ Der Täter kann bei der zuständigen Behörde um eine inhaltliche oder zeitliche
 
 - a. bei einem Verbot nach Artikel 67 Absatz 1 oder nach Artikel 67*b*: nach zwei Jahren des Vollzugs;
 - b. bei einem befristeten Verbot nach Artikel 67 Absatz 2: nach der Hälfte der Verbotsdauer, jedoch frühestens nach drei Jahren des Vollzugs;
-- c.[^67c-2] …
+- c.[^67c-2] ...
 - d.[^67c-3] bei einem lebenslänglichen Verbot nach Artikel 67 Absatz 2<sup>bis</sup>: nach zehn Jahren des Vollzugs.
 
 <sup>6</sup> Ist nicht mehr zu befürchten, dass der Täter eine Tätigkeit zur Begehung weiterer Verbrechen oder Vergehen missbraucht oder bei einem Kontakt zu bestimmten Personen oder Personen einer bestimmten Gruppe weitere Verbrechen oder Vergehen begeht und hat er den von ihm verursachten Schaden soweit zumutbar ersetzt, so hebt die zuständige Behörde das Verbot in den Fällen nach Absatz 4 oder 5 auf.
@@ -1490,11 +1494,15 @@ Hat der Täter ein Motorfahrzeug zur Begehung eines Verbrechens oder Vergehens v
 
 <sup>3</sup> Die Untersuchungsbehörde kann im Hinblick auf die Durchsetzung der Ersatzforderung Vermögenswerte des Betroffenen mit Beschlag belegen. Die Beschlagnahme begründet bei der Zwangsvollstreckung der Ersatzforderung kein Vorzugsrecht zu Gunsten des Staates.
 
-### Einziehung von Vermögenswerten einer kriminellen Organisation
+### Einziehung von Vermögenswerten einer kriminellen oder terroristischen Organisation
 
 #### Art. 72
 
-Das Gericht verfügt die Einziehung aller Vermögenswerte, welche der Verfügungsmacht einer kriminellen Organisation unterliegen. Bei Vermögenswerten einer Person, die sich an einer kriminellen Organisation beteiligt oder sie unterstützt hat (Art. 260<sup>ter</sup>), wird die Verfügungsmacht der Organisation bis zum Beweis des Gegenteils vermutet.
+[^72-1]
+
+Das Gericht verfügt die Einziehung aller Vermögenswerte, welche der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen. Bei Vermögenswerten einer Person, die sich an einer solchen Organisation beteiligt oder sie unterstützt hat (Art. 260<sup>ter</sup>), wird die Verfügungsmacht der Organisation bis zum Beweis des Gegenteils vermutet.
+
+[^72-1]: Fassung gemäss Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ### 6. Verwendung zu Gunsten des Geschädigten
 
@@ -1529,7 +1537,7 @@ Die Menschenwürde des Gefangenen oder des Eingewiesenen ist zu achten. Seine Re
 
 <sup>1</sup> Der Strafvollzug hat das soziale Verhalten des Gefangenen zu fördern, insbesondere die Fähigkeit, straffrei zu leben. Der Strafvollzug hat den allgemeinen Lebensverhältnissen so weit als möglich zu entsprechen, die Betreuung des Gefangenen zu gewährleisten, schädlichen Folgen des Freiheitsentzugs entgegenzuwirken und dem Schutz der Allgemeinheit, des Vollzugspersonals und der Mitgefangenen angemessen Rechnung zu tragen.
 
-<sup>2</sup> …[^75-1]
+<sup>2</sup> ...[^75-1]
 
 <sup>3</sup> Die Anstaltsordnung sieht vor, dass zusammen mit dem Gefangenen ein Vollzugsplan erstellt wird. Dieser enthält namentlich Angaben über die angebotene Betreuung, die Arbeits- sowie die Aus- und Weiterbildungsmöglichkeiten, die Wiedergutmachung, die Beziehungen zur Aussenwelt und die Vorbereitung der Entlassung.
 
@@ -2924,7 +2932,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 ### 4. Allgemeine Bestimmungen.
 
-### …
+### ...
 
 #### Art. 172
 
@@ -3321,9 +3329,9 @@ wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
 <sup>4.</sup> Handelte der Täter in der irrigen Vorstellung, das Kind sei mindestens 16 Jahre alt, hätte er jedoch bei pflichtgemässer Vorsicht den Irrtum vermeiden können, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-<sup>5.</sup> …[^187-2]
+<sup>5.</sup> ...[^187-2]
 
-<sup>6.</sup> …[^187-3]
+<sup>6.</sup> ...[^187-3]
 
 [^187-1]: Fassung gemäss Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^187-2]: Aufgehoben durch Ziff. I des BG vom 21. März 1997, mit Wirkung seit 1. Sept. 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322).
@@ -3351,7 +3359,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 <sup>1</sup> Wer eine Person zur Duldung einer beischlafsähnlichen oder einer anderen sexuellen Handlung nötigt, namentlich indem er sie bedroht, Gewalt anwendet, sie unter psychischen Druck setzt oder zum Widerstand unfähig macht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
 
-<sup>2</sup> …[^189-1]
+<sup>2</sup> ...[^189-1]
 
 <sup>3</sup> Handelt der Täter grausam, verwendet er namentlich eine gefährliche Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe Freiheitsstrafe nicht unter drei Jahren.[^189-2]
 
@@ -3364,7 +3372,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 <sup>1</sup> Wer eine Person weiblichen Geschlechts zur Duldung des Beischlafs nötigt, namentlich indem er sie bedroht, Gewalt anwendet, sie unter psychischen Druck setzt oder zum Widerstand unfähig macht, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
 
-<sup>2</sup> …[^190-1]
+<sup>2</sup> ...[^190-1]
 
 <sup>3</sup> Handelt der Täter grausam, verwendet er namentlich eine gefährliche Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe Freiheitsstrafe nicht unter drei Jahren.[^190-2]
 
@@ -3502,7 +3510,7 @@ Wird eine strafbare Handlung dieses Titels gemeinsam von mehreren Personen ausge
 
 <sup>2</sup> Minderjährige bleiben straflos, wenn sie verführt worden sind.
 
-<sup>3</sup> …[^213-2]
+<sup>3</sup> ...[^213-2]
 
 [^213-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 1989, in Kraft seit 1. Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^213-2]: Aufgehoben durch Ziff. I des BG vom 5. Okt. 2001 (Verjährung der Strafverfolgung im allgemeinen und bei Sexualdelikten an Kindern), mit Wirkung seit 1. Okt. 2002 ([AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [BBl 2000 2943](https://fedlex.data.admin.ch/eli/fga/2000/612)).
@@ -4088,25 +4096,35 @@ Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird bestraft, wer planm
 [^260bis-4]: Fassung gemäss Ziff. I 1 des BG vom 18. Juni 2010 über die Änderung von Bundesgesetzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 [^260bis-5]: Fassung des Satzes gemäss Ziff. II 2 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
-### Kriminelle Organisation
+### Kriminelle und terroristische Organisationen
 
 #### Art. 260<sup>ter</sup>
 
 [^260ter-1]
 
-<sup>1.</sup> Wer sich an einer Organisation beteiligt, die ihren Aufbau und ihre personelle Zusammensetzung geheim hält und die den Zweck verfolgt, Gewaltverbrechen zu begehen oder sich mit verbrecherischen Mitteln zu bereichern,
+<sup>1</sup>
 
-wer eine solche Organisation in ihrer verbrecherischen Tätigkeit unterstützt,
+Mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe wird bestraft, wer:
 
-wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+- a.
 
-<sup>2.</sup> Der Richter kann die Strafe mildern (Art. 48*a*),[^260ter-2] wenn der Täter sich bemüht, die weitere verbrecherische Tätigkeit der Organisation zu verhindern.
+  sich an einer Organisation beteiligt, die den Zweck verfolgt:
 
-<sup>3.</sup> Strafbar ist auch, wer die Tat im Ausland begeht, wenn die Organisation ihre verbrecherische Tätigkeit ganz oder teilweise in der Schweiz ausübt oder auszuüben beabsichtigt. Artikel 3 Absatz 2 ist anwendbar.[^260ter-3]
+  - 1\. Gewaltverbrechen zu begehen oder sich mit verbrecherischen Mitteln zu bereichern, oder
+  - 2\. Gewaltverbrechen zu begehen, mit denen die Bevölkerung eingeschüchtert oder ein Staat oder eine internationale Organisation zu einem Tun oder Unterlassen genötigt werden soll; oder
 
-[^260ter-1]: Eingefügt durch Ziff. I des BG vom 18. März 1994, in Kraft seit 1. Aug. 1994 ([AS 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614); [BBl 1993 III 277](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)).
-[^260ter-2]: Fassung des ersten Halbsatzes gemäss Ziff. II 2 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^260ter-3]: Fassung des Satzes gemäss Ziff. II 2 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+- b. eine solche Organisation in ihrer Tätigkeit unterstützt.
+
+<sup>2</sup> Absatz 1 Buchstabe b findet keine Anwendung auf humanitäre Dienste, die von einer unparteiischen humanitären Organisation, wie dem Internationalen Komitee vom Roten Kreuz, in Übereinstimmung mit dem gemeinsamen Artikel 3 der Genfer Abkommen vom 12. August 1949[^260ter-2] erbracht werden.
+
+<sup>3</sup> Übt der Täter einen bestimmenden Einfluss in der Organisation aus, so wird er mit Freiheitsstrafe nicht unter drei Jahren bestraft.
+
+<sup>4</sup> Das Gericht kann die Strafe mildern (Art. 48*a*), wenn der Täter sich bemüht, die weitere Tätigkeit der Organisation zu verhindern.
+
+<sup>5</sup> Strafbar ist auch, wer die Tat im Ausland begeht, wenn die Organisation ihre verbrecherische Tätigkeit ganz oder teilweise in der Schweiz ausübt oder auszuüben beabsichtigt. Artikel 7 Absätze 4 und 5 sind anwendbar.
+
+[^260ter-1]: Eingefügt durch Ziff. I des BG vom 18. März 1994 ([AS 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614); [BBl 1993 III 277](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)). Fassung gemäss Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^260ter-2]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
 
 ### Gefährdung der öffentlichen Sicherheit mit Waffen
 
@@ -4134,6 +4152,26 @@ Wer jemandem Schusswaffen, gesetzlich verbotene Waffen, wesentliche Waffenbestan
 <sup>4</sup> Absatz 1 findet keine Anwendung, wenn mit der Finanzierung Handlungen unterstützt werden sollen, die nicht im Widerspruch mit den in bewaffneten Konflikten anwendbaren Regeln des Völkerrechts stehen.
 
 [^260quinquies-1]: Eingefügt durch Ziff. I 1 des BG vom 21. März 2003 (Finanzierung des Terrorismus), in Kraft seit 1. Okt. 2003 ([AS 2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417); [BBl 2002 5390](https://fedlex.data.admin.ch/eli/fga/2002/841)).
+
+### Anwerbung, Ausbildung und Reisen im Hinblick auf eine terroristische Straftat
+
+#### Art. 260<sup>sexies</sup>
+
+[^260sexies-1]
+
+<sup>1</sup>
+
+Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird bestraft, wer im Hinblick auf die Verübung eines Gewaltverbrechens, mit dem die Bevölkerung eingeschüchtert oder ein Staat oder eine internationale Organisation zu einem Tun oder Unterlassen genötigt werden soll:
+
+- a. jemanden für die Begehung einer solchen Straftat oder die Teilnahme daran anwirbt;
+- b. sich für die Begehung einer solchen Straftat oder die Teilnahme daran anleiten lässt zum Herstellen oder Gebrauch von Waffen, Sprengstoffen, radioaktiven Materialien, giftigen Gasen oder anderen Vorrichtungen oder gefährlichen Stoffen oder jemanden hierzu anleitet; oder
+- c. eine grenzüberschreitende Reise unternimmt in der Absicht, eine solche Straftat zu begehen, sich daran zu beteiligen oder sich dafür ausbilden zu lassen.
+
+<sup>2</sup> Mit der gleichen Strafe wird belegt, wer in der Absicht, eine Reise nach Absatz 1 Buchstabe c zu finanzieren, Vermögenswerte sammelt oder zur Verfügung stellt, oder wer eine solche Reise organisiert oder dafür anwirbt.
+
+<sup>3</sup> Strafbar ist auch, wer die Tat im Ausland begeht, wenn er sich in der Schweiz befindet und nicht ausgeliefert wird oder wenn die terroristische Straftat in der Schweiz oder gegen die Schweiz verübt werden soll. Artikel 7 Absätze 4 und 5 ist anwendbar.
+
+[^260sexies-1]: Eingefügt durch Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ### Störung der Glaubens- und Kultusfreiheit
 
@@ -4593,7 +4631,7 @@ Wer ein Fabrikations- oder Geschäftsgeheimnis auskundschaftet, um es einer frem
 
 wer ein Fabrikations- oder Geschäftsgeheimnis einer fremden amtlichen Stelle oder einer ausländischen Organisation oder privaten Unternehmung oder ihren Agenten zugänglich macht,
 
-wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe, in schweren Fällen mit Freiheitsstrafe nicht unter einem Jahr bestraft. Mit der Freiheitsstrafe kann Geldstrafe verbunden werden.[^273-1]
+wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe, in schweren Fällen mit Freiheitsstrafe nicht unter einem Jahr bestraft. Mit der Freiheitsstrafe kann eine Geldstrafe verbunden werden.[^273-1]
 
 [^273-1]: Strafdrohungen neu umschrieben gemäss Ziff. II 1 Abs. 16 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
@@ -5005,11 +5043,11 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 Ein schwerer Fall liegt insbesondere vor, wenn der Täter:
 
-- a. als Mitglied einer Verbrechensorganisation handelt;
+- a.[^305bis-7] als Mitglied einer kriminellen oder terroristischen Organisation (Art. 260<sup>ter</sup>) handelt;
 - b. als Mitglied einer Bande handelt, die sich zur fortgesetzten Ausübung der Geldwäscherei zusammengefunden hat;
 - c. durch gewerbsmässige Geldwäscherei einen grossen Umsatz oder einen erheblichen Gewinn erzielt.
 
-<sup>3.</sup> Der Täter wird auch bestraft, wenn die Haupttat im Ausland begangen wurde und diese auch am Begehungsort strafbar ist.[^305bis-7]
+<sup>3.</sup> Der Täter wird auch bestraft, wenn die Haupttat im Ausland begangen wurde und diese auch am Begehungsort strafbar ist.[^305bis-8]
 
 [^305bis-1]: Eingefügt durch Ziff. I des BG vom 23. März 1990, in Kraft seit 1. Aug. 1990 ([AS 1990 1077](https://fedlex.data.admin.ch/eli/oc/1990/1077_1077_1077); [BBl 1989 II 1061](https://fedlex.data.admin.ch/eli/fga/1989/2_1061_961_837)).
 [^305bis-2]: Fassung gemäss Ziff. I 4 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
@@ -5017,7 +5055,8 @@ Ein schwerer Fall liegt insbesondere vor, wenn der Täter:
 [^305bis-4]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 [^305bis-5]: Eingefügt durch Ziff. I 4 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^305bis-6]: Strafdrohungen neu umschrieben gemäss Ziff. II 1 Abs. 16 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
-[^305bis-7]: Berichtigt von der Redaktionskommission der BVers (Art. 33 GVG – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^305bis-7]: Fassung gemäss Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^305bis-8]: Berichtigt von der Redaktionskommission der BVers (Art. 33 GVG – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 ### Mangelnde Sorgfalt bei Finanzgeschäften und Melderecht
 
@@ -5168,7 +5207,7 @@ werden mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
 [^317bis-1]
 
-<sup>1</sup> Wer mit richterlicher Genehmigung im Rahmen einer verdeckten Ermittlung zum Aufbau oder zur Aufrechterhaltung seiner Legende oder mit Ermächtigung des Nachrichtendienstes des Bundes (NDB) nach Artikel 17 des Nachrichtendienstgesetzes vom 25. September 2015[^317bis-2] (NDG) oder mit Ermächtigung der Vorsteherin oder des Vorstehers des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport nach Artikel 18 NDG zur Schaffung oder Aufrechterhaltung seiner nachrichtendienstlichen Legende oder Tarnidentität Urkunden herstellt, verändert oder gebraucht, ist nicht nach den Artikeln 251, 252, 255 und 317 strafbar.[^317bis-3]
+<sup>1</sup> Wer mit richterlicher Genehmigung im Rahmen einer verdeckten Ermittlung zum Aufbau oder zur Aufrechterhaltung seiner Legende oder mit Ermächtigung des Nachrichtendienstes des Bundes (NDB) nach Artikel 17 NDG[^317bis-2] oder mit Ermächtigung der Vorsteherin oder des Vorstehers des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport nach Artikel 18 NDG zur Schaffung oder Aufrechterhaltung seiner nachrichtendienstlichen Legende oder Tarnidentität Urkunden herstellt, verändert oder gebraucht, ist nicht nach den Artikeln 251, 252, 255 und 317 strafbar.[^317bis-3]
 
 <sup>2</sup> Wer mit Bewilligung für eine verdeckte Ermittlung oder im Auftrag der zuständigen Behörde nach Artikel 17 oder 18 NDG Urkunden für Legenden oder Tarnidentitäten herstellt oder verändert, ist nicht nach den Artikeln 251, 252, 255 und 317 strafbar.[^317bis-4]
 
@@ -5176,7 +5215,7 @@ werden mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
 [^317bis-1]: Eingefügt durch Art. 24 Ziff. 1 des BG vom 20. Juni 2003 über die verdeckte Ermittlung ([AS 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); BBl **1998** 4241). Fassung gemäss Anhang Ziff. 3 des BG vom 23. Dez. 2011, in Kraft seit 16. Juli 2012 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^317bis-2]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^317bis-3]: Fassung gemäss Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^317bis-3]: Fassung gemäss Anhang Ziff. II 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^317bis-4]: Fassung gemäss Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^317bis-5]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
 [^317bis-6]: Eingefügt durch Anhang Ziff. 3 des BG vom 23. Dez. 2011 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
@@ -5466,7 +5505,7 @@ wird auf Antrag des Mieters mit Busse bestraft.
 
 [^book2-tit20-lvlu5-1]: Heute: Einzelunternehmen.
 
-### 1. …
+### 1. ...
 
 #### Art. 326
 
@@ -5579,7 +5618,7 @@ Wer Gegenstände, die von der Heeresverwaltung zum Zwecke der Landesverteidigung
 
 [^330-1]: Strafdrohungen neu umschrieben gemäss Ziff. II 1 Abs. 16 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
-### Unbefugtes Tragen der mili‑ tärischen Uniform
+### Unbefugtes Tragen der militärischen Uniform
 
 #### Art. 331
 
@@ -5655,7 +5694,7 @@ Wird in Bundesvorschriften auf Bestimmungen verwiesen, die durch dieses Gesetz g
 
 <sup>2</sup> Die Kantone sind befugt, die Widerhandlungen gegen das kantonale Verwaltungs- und Prozessrecht mit Sanktionen zu bedrohen.
 
-### Zweiter Titel: …
+### Zweiter Titel: ...
 
 #### Art. 336–338
 
@@ -5663,7 +5702,7 @@ Wird in Bundesvorschriften auf Bestimmungen verwiesen, die durch dieses Gesetz g
 
 [^336338-1]: Aufgehoben durch Anhang 1 Ziff. II 8 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-### Dritter Titel: …
+### Dritter Titel: ...
 
 #### Art. 339–348
 
@@ -5942,13 +5981,16 @@ Der Bundesrat:
 - b. bestimmt die Behörden, welche Personendaten im Abrufverfahren eingeben und abfragen oder denen Personendaten im Einzelfall bekannt gegeben werden können;
 - c. regelt die Verfahrensrechte der betroffenen Personen, insbesondere die Einsicht in ihre Daten sowie deren Berichtigung, Archivierung und Vernichtung.
 
+<sup>5</sup> Das SEM oder das Bundesamt für Polizei (fedpol) können die Daten zwecks SIS-Ausschreibungen im Schengener Informationssystem (SIS) in einem automatisierten Verfahren in den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIS überführen.[^354-6]
+
 [^354-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 [^354-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^354-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^354-4]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 [^354-5]: Fassung gemäss Anhang 1 Ziff. 5 des BG vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^354-6]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
-### 4. …
+### 4. ...
 
 #### Art. 355
 
@@ -6009,7 +6051,7 @@ Die Polizeiorgane des Bundes und der Kantone vollziehen die Bestimmungen der Sch
 [^355c-1]: Eingefügt durch Art. 3 Ziff. 4 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und an Dublin, in Kraft seit 1. Juni 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[2179](https://fedlex.data.admin.ch/eli/oc/2008/318)[2227](https://fedlex.data.admin.ch/eli/oc/2008/324); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^355c-2]: Abk. vom 26. Okt. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Europäi-schen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands ([SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)); Abk. vom 28. April 2005 zwischen der Schweizerischen Eidgenossenschaft und dem Kö-nigreich Dänemark über die Begründung von Rechten und Pflichten zwischen diesen bei-den Staaten hinsichtlich der Schengener Zusammenarbeit ([SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)); Übereink. vom 17. Dez. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zustän- digen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags ([SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)); Prot. vom 28. Febr. 2008 zwischen der Schweizerischen Eid-genossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Für-stentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Euro-päischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands ([SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)).
 
-### 5<sup>ter</sup>. …
+### 5<sup>ter</sup>. ...
 
 #### Art. 355d
 
@@ -6052,7 +6094,7 @@ Stellt eine Untersuchungsbehörde fest, dass pornografische Gegenstände (Art. 1
 
 [^362-1]: Fassung gemäss Anhang Ziff. 1 des BB vom 27. Sept. 2013 (Lanzarote-Konvention), in Kraft seit 1. Juli 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 
-### Fünfter Titel: …
+### Fünfter Titel: ...
 
 #### Art. 363
 
@@ -6177,7 +6219,7 @@ Folgende Behörden dürfen durch ein Abrufverfahren Einsicht in die Personendate
 - c. das Bundesamt für Polizei im Rahmen von gerichtspolizeilichen Ermittlungsverfahren;
 - d. die Gruppe Verteidigung[^367-3];
 - [tab] e.[^367-4] das Staatssekretariat für Migration[^367-5];
-- f.[^367-6] …
+- f.[^367-6] ...
 - g. die kantonalen Fremdenpolizeibehörden;
 - h. die für den Strassenverkehr zuständigen Behörden der Kantone;
 - i.[^367-7] die Bundesbehörden, die zuständig sind für die Durchführung von Personensicherheitsprüfungen im Sinne von Artikel 2 Absatz 2 Buchstabe a des Bundesgesetzes vom 21. März 1997[^367-8] über Massnahmen zur Wahrung der inneren Sicherheit;
@@ -6216,7 +6258,7 @@ Die für das Register zuständige Stelle des Bundes meldet der Gruppe Verteidigu
 
 <sup>4</sup> Personendaten über hängige Strafverfahren dürfen nur durch die Behörden nach Absatz 2 Buchstaben a–e, j, l und m bearbeitet werden.[^367-26]
 
-<sup>4bis</sup> …[^367-27]
+<sup>4bis</sup> ...[^367-27]
 
 <sup>4ter</sup> Das Bundesamt für Sport kann zum Zwecke der Leumundsprüfung im Hinblick auf die Erteilung oder die Sistierung einer Anerkennung als «Jugend und Sport»-Kader auf schriftliches Gesuch Einsicht in Personendaten über hängige Strafverfahren nehmen.[^367-28]
 

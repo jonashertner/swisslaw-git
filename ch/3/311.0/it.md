@@ -4,18 +4,18 @@ title: Codice penale svizzero del 21 dicembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: it
-version: 2020-07-01
+version: 2021-07-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20200701/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20200701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20210701/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20210701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20210701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale svizzero
 
-del 21 dicembre 1937 (Stato 1° luglio 2020)
+del 21 dicembre 1937 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -370,9 +370,9 @@ Si tiene conto delle speciali relazioni, qualità e circostanze personali che ag
 Il capoverso 1 non si applica se il giudica accerta che:
 
 - a. la testimonianza è necessaria per preservare da un pericolo imminente la vita o l’integrità fisica di una persona; oppure
-- b.[^28a-1] senza testimonianza non è possibile far luce su un omicidio ai sensi degli articoli 111–113 o su un altro crimine punito con una pena detentiva non inferiore a tre anni, oppure su un reato ai sensi degli articoli 187, 189–191, 197 capoverso 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> del presente Codice, come pure ai sensi dell’articolo 19 capoverso 2 della legge del 3 ottobre 1951[^28a-2] sugli stupefacenti, o non è possibile catturare il colpevole di un simile reato.
+- b.[^28a-1] senza testimonianza non è possibile far luce su un omicidio ai sensi degli articoli 111–113 o su un altro crimine punito con una pena detentiva non inferiore a tre anni, oppure su un reato ai sensi degli articoli 187, 189–191, 197 capoverso 4, 260<sup>ter</sup>, 260<sup>quinquies</sup>, 260<sup>sexies</sup>, 305<sup>bis</sup>, 305<sup>ter</sup> e 322<sup>ter</sup>–322<sup>septies</sup> del presente Codice, o ai sensi dell’articolo 19 capoverso 2 della legge del 3 ottobre 1951[^28a-2] sugli stupefacenti, o non è possibile catturare il colpevole di un simile reato.
 
-[^28a-1]: Nuovo testo giusta l’all. n. 1 del DF del 27 set. 2013 (Convenzione di Lanzarote), in vigore dal 1° lug. 2014 ([RU 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [FF 2012 6761](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^28a-1]: Nuovo testo giusta l’all. n. II 2 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^28a-2]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 ### 7. Rapporti di rappresentanza
@@ -1161,10 +1161,11 @@ Il giudice espelle dal territorio svizzero per un tempo da cinque a quindici ann
 - i. incendio intenzionale (art. 221 cpv. 1 e 2), esplosione intenzionale (art. 223 n. 1, primo comma), uso delittuoso di materie esplosive o gas velenosi (art. 224 cpv. 1), uso intenzionale senza fine delittuoso di materie esplosive o gas velenosi (art. 225 cpv. 1), fabbricazione, occultamento e trasporto di materie esplosive o gas velenosi (art. 226), pericolo dovuto all’energia nucleare, alla radioattività e a raggi ionizzanti (art. 226<sup>bis</sup>), atti preparatori punibili (art. 226<sup>ter</sup>), inondazione, franamento cagionati intenzionalmente (art. 227 n. 1, primo comma), danneggiamento intenzionale d’impianti elettrici, di opere idrauliche e di opere di premunizione (art. 228 n. 1, primo comma);
 - j. pericoli causati intenzionalmente da organismi geneticamente modificati o patogeni (art. 230<sup>bis</sup> cpv. 1), propagazione intenzionale di malattie dell’uomo (art. 231 n. 1), inquinamento intenzionale di acque potabili (art. 234 cpv. 1);
 - k. perturbamento qualificato della circolazione pubblica (art. 237 n. 1, secondo comma), perturbamento intenzionale del servizio ferroviario (art. 238 cpv. 1);
-- l. atti preparatori punibili (art. 260<sup>bis</sup> cpv. 1 e 3), partecipazione o sostegno a un’organizzazione criminale (art. 260<sup>ter</sup> ter), messa in pericolo della sicurezza pubblica con armi (art. 260<sup>quater</sup>), finanziamento del terrorismo (art. 260<sup>quinquies</sup>);
-- m. genocidio (art. 264), crimini contro l’umanità (art. 264*a*), gravi violazioni delle Convenzioni di Ginevra del 12 agosto 1949[^66a-4] (art. 264*c*), altri crimini di guerra (art. 264*d*–264*h*);
-- n. infrazione intenzionale all’articolo 116 capoverso 3 o 118 capoverso 3 della legge federale del 16 dicembre 2005[^66a-5] sugli stranieri;
-- o. infrazione all’articolo 19 capoverso 2 o 20 capoverso 2 della legge del 3 ottobre 1951[^66a-6] sugli stupefacenti (LStup).
+- l.[^66a-4] atti preparatori punibili (art. 260<sup>bis</sup> cpv. 1 e 3), partecipazione o sostegno a un’organizzazione criminale o terroristica (art. 260<sup>ter</sup>), messa in pericolo della sicurezza pubblica con armi (art. 260<sup>quater</sup>), finanziamento del terrorismo (art. 260<sup>quinquies</sup>), reclutamento, addestramento e viaggi finalizzati alla commissione di un reato di terrorismo (art. 260<sup>sexies</sup>);
+- m. genocidio (art. 264), crimini contro l’umanità (art. 264*a*), gravi violazioni delle Convenzioni di Ginevra del 12 agosto 1949[^66a-5] (art. 264*c*), altri crimini di guerra (art. 264*d*–264*h*);
+- n. infrazione intenzionale all’articolo 116 capoverso 3 o 118 capoverso 3 della legge federale del 16 dicembre 2005[^66a-6] sugli stranieri;
+- o. infrazione all’articolo 19 capoverso 2 o 20 capoverso 2 della legge del 3 ottobre 1951[^66a-7] sugli stupefacenti (LStup);
+- p.[^66a-8] infrazione secondo l’articolo 74 capoverso 4 della legge federale del 25 settembre 2015[^66a-9] sulle attività informative (LAIn).
 
 <sup>2</sup> Il giudice può rinunciare eccezionalmente a pronunciare l’espulsione se questa costituirebbe per lo straniero un grave caso di rigore personale e l’interesse pubblico all’espulsione non prevale sull’interesse privato dello straniero a rimanere in Svizzera. Tiene in ogni modo conto della situazione particolare dello straniero nato o cresciuto in Svizzera.
 
@@ -1173,9 +1174,12 @@ Il giudice espelle dal territorio svizzero per un tempo da cinque a quindici ann
 [^66a-1]: Introdotto dal n. I 1 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^66a-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 [^66a-3]: Correzione della CdR dell’AF del 28 nov. 2017, pubblicata il 12 dic. 2017, concerne soltanto il testo francese ([RU 2017 7257](https://fedlex.data.admin.ch/eli/oc/2017/786)).
-[^66a-4]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^66a-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^66a-6]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^66a-4]: Nuovo testo giusta l’all. n. II 2 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^66a-5]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^66a-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^66a-7]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
+[^66a-8]: Introdotta dall’all. n. II 2 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^66a-9]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 
 ### b. Espulsione non obbligatoria
 
@@ -1491,11 +1495,15 @@ Se l’autore ha utilizzato un veicolo a motore per commettere un crimine o un d
 
 <sup>3</sup> In vista dell’esecuzione del risarcimento, l’autorità inquirente può sottoporre a sequestro valori patrimoniali dell’interessato. Il sequestro non fonda alcuna pretesa privilegiata in favore dello Stato nell’ambito dell’esecuzione forzata.
 
-### Confisca di valori patrimoniali di una organizzazione criminale
+### Confisca di valori patrimoniali di un’organizzazione criminale o terroristica
 
 #### Art. 72
 
-Il giudice ordina la confisca di tutti i valori patrimoniali di cui un’organizzazione criminale ha facoltà di disporre. I valori appartenenti a una persona che abbia partecipato o sostenuto un’organizzazione criminale (art. 260<sup>ter</sup>) sono presunti sottoposti, fino a prova del contrario, alla facoltà di disporre dell’organizzazione.
+[^72-1]
+
+Il giudice ordina la confisca di tutti i valori patrimoniali di cui un’organizzazione criminale o terroristica ha facoltà di disporre. I valori appartenenti a una persona che abbia partecipato a una simile organizzazione o l’abbia sostenuta (art. 260<sup>ter</sup>) sono presunti sottoposti, fino a prova del contrario, alla facoltà di disporre dell’organizzazione.
+
+[^72-1]: Nuovo testo giusta l’all. n. II 2 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ### 6. Assegnamenti al danneggiato
 
@@ -4067,25 +4075,35 @@ Chiunque diffonde lo spavento nella popolazione con la minaccia o con il falso a
 [^260bis-4]: Nuovo testo giusta il n. I 1 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 [^260bis-5]: Nuovo testo del per. giusta il n. II 2 della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 
-### Organizzazione criminale
+### Organizzazioni criminali e terroristiche
 
 #### Art. 260<sup>ter</sup>
 
 [^260ter-1]
 
-<sup>1.</sup> Chiunque partecipa a un’organizzazione che tiene segreti la struttura e i suoi componenti e che ha lo scopo di commettere atti di violenza criminali o di arricchirsi con mezzi criminali,
+<sup>1</sup>
 
-chiunque sostiene una tale organizzazione nella sua attività criminale,
+È punito con una pena detentiva sino a dieci anni o con una pena pecuniaria chiunque:
 
-è punito una pena detentiva sino a cinque anni o con una pena pecuniaria.
+- a.
 
-<sup>2.</sup> Il giudice può attenuare la pena (art. 48*a*)[^260ter-2] se l’agente si sforza d’impedire la prosecuzione dell’attività criminale dell’organizzazione.
+  partecipa a un’organizzazione che ha lo scopo di:
 
-<sup>3.</sup> È punibile anche chi commette il reato all’estero, se l’organizzazione esercita o intende esercitare l’attività criminale in tutto o in parte in Svizzera. L’articolo 3 capoverso 2 è applicabile.[^260ter-3]
+  - 1\. commettere atti di violenza criminali o di arricchirsi con mezzi criminali, o
+  - 2\. commettere atti di violenza criminali volti a intimidire la popolazione o a costringere uno Stato o un’organizzazione internazionale a fare o ad omettere un atto; o
 
-[^260ter-1]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 1° ago 1994 ([RU 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614); [FF 1993 III 193](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)).
-[^260ter-2]: Nuovo testo di parte del per. giusta il n. II 2 della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
-[^260ter-3]: Nuovo testo del per. giusta il n. II 2 della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+- b. sostiene una tale organizzazione nella sua attività.
+
+<sup>2</sup> Il capoverso 1 lettera b non si applica ai servizi umanitari forniti da un’organizzazione umanitaria imparziale, quale il Comitato internazionale della Croce Rossa, conformemente all’articolo 3 comune alle Convenzioni di Ginevra del 12 agosto 1949[^260ter-2].
+
+<sup>3</sup> Se esercita un’influenza determinante all’interno dell’organizzazione, l’autore è punito con una pena detentiva non inferiore a tre anni.
+
+<sup>4</sup> Il giudice può attenuare la pena (art. 48*a*) se l’autore si sforza di impedire la prosecuzione dell’attività dell’organizzazione.
+
+<sup>5</sup> È punibile anche chi commette il reato all’estero, se l’organizzazione esercita o intende esercitare l’attività criminale in tutto o in parte in Svizzera. L’articolo 7 capoversi 4 e 5 è applicabile.
+
+[^260ter-1]: Introdotto dal n. I della LF del 18 mar. 1994 ([RU 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614); [FF 1993 III 193](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)). Nuovo testo giusta l’all. n. II 2 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^260ter-2]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
 
 ### Messa in pericolo della sicurezza pubblica con armi
 
@@ -4113,6 +4131,24 @@ Chiunque vende, loca, dona, lascia a disposizione di terzi o procura per mediazi
 <sup>4</sup> Il capoverso 1 non è applicabile se il finanziamento è destinato a sostenere atti che non contraddicono alle norme del diritto internazionale applicabili nei conflitti armati.
 
 [^260quinquies-1]: Introdotto dal n. I 1 della LF del 21 mar. 2003 (Finanziamento del terrorismo), in vigore dal 1° ott. 2003 ([RU 2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417); [FF 2002 4815](https://fedlex.data.admin.ch/eli/fga/2002/841)).
+
+### Reclutamento, addestramento e viaggi finalizzati alla commissione di un reato di terrorismo
+
+#### Art. 260<sup>sexie</sup><sup>s</sup>
+
+[^260sexies-1]
+
+È punito con una pena detentiva sino a cinque anni o con una pena pecuniaria chiunque, per commettere un atto di violenza criminale volto a intimidire la popolazione o a costringere uno Stato o un’organizzazione internazionale a fare o ad omettere un atto:
+
+- a. recluta adepti per commettere un simile reato o per parteciparvi;
+- b. si fa istruire o istruisce sulla fabbricazione o l’utilizzo di armi, materie esplosive, materiali radioattivi, gas velenosi o altri apparecchi o sostanze pericolose al fine di commettere un simile reato o di parteciparvi; o
+- c. intraprende un viaggio all’estero nell’intento di commettere un simile reato, di parteciparvi o di farsi addestrare a tale scopo.
+
+<sup>2</sup> È punito con la stessa pena chiunque raccoglie o mette a disposizione valori patrimoniali nell’intento di finanziare un viaggio secondo il capoverso 1 lettera c, o chiunque organizza un simile viaggio o recluta adepti per un simile viaggio.
+
+<sup>3</sup> È punibile anche chi commette il reato all’estero, se si trova in Svizzera e non è estradato o se il reato di terrorismo deve essere commesso in Svizzera o contro la Svizzera. L’articolo 7 capoversi 4 e 5 è applicabile.
+
+[^260sexies-1]: Introdotto dall’all. n. II 2 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ### Perturbamento della libertà di credenza e di culto
 
@@ -4988,7 +5024,7 @@ chiunque falsamente incolpa, presso l’autorità, sé medesimo di un atto punib
 
 Vi è caso grave segnatamente se l’autore:
 
-- a. agisce come membro di un’organizzazione criminale;
+- a.[^305bis-7] agisce come membro di un’organizzazione criminale o terroristica (art. 260<sup>ter</sup>);
 - b. agisce come membro di una banda costituitasi per esercitare sistematicamente il riciclaggio;
 - c. realizza una grossa cifra d’affari o un guadagno considerevole facendo mestiere del riciclaggio.
 
@@ -5000,6 +5036,7 @@ Vi è caso grave segnatamente se l’autore:
 [^305bis-4]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
 [^305bis-5]: Introdotto dal n. I 4 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)). Vedi anche le dis. trans. di detta mod. alla fine del presente testo.
 [^305bis-6]: Nuovo testo dei per. giusta il n. II 1 cpv. 16 della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^305bis-7]: Nuovo testo giusta l’all. n. II 2 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
 ### Carente diligenza in operazioni finanziarie e diritto di comunicazione
 
@@ -5150,7 +5187,7 @@ sono puniti con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
 [^317bis-1]
 
-<sup>1</sup> Non è punibile giusta gli articoli 251, 252, 255 e 317 colui che allestisce, altera o utilizza documenti atti a costituire o conservare la sua identità fittizia, sempre che vi sia stato autorizzato dal giudice nell’ambito di un’inchiesta mascherata, oppure allestisce, altera o utilizza documenti atti a costituire o conservare la sua copertura o identità fittizia in ambito informativo, sempre che vi sia stato autorizzato dal Servizio delle attività informative della Confederazione (SIC) secondo l’articolo 17 della legge federale del 25 settembre 2015[^317bis-2] sulle attività informative (LAIn) o dal capo del Dipartimento federale della difesa, della protezione della popolazione e dello sport secondo l’articolo 18 LAIn.[^317bis-3]
+<sup>1</sup> Non è punibile giusta gli articoli 251, 252, 255 e 317 colui che allestisce, altera o utilizza documenti atti a costituire o conservare la sua identità fittizia, sempre che vi sia stato autorizzato dal giudice nell’ambito di un’inchiesta mascherata, oppure allestisce, altera o utilizza documenti atti a costituire o conservare la sua copertura o identità fittizia in ambito informativo, sempre che vi sia stato autorizzato dal Servizio delle attività informative della Confederazione (SIC) secondo l’articolo 17 LAIn[^317bis-2] o dal capo del Dipartimento federale della difesa, della protezione della popolazione e dello sport secondo l’articolo 18 LAIn.[^317bis-3]
 
 <sup>2</sup> Non è punibile giusta gli articoli 251, 252, 255 e 317 colui che allestisce o altera documenti per coperture o identità fittizie, sempre che vi sia stato autorizzato ai fini di un’inchiesta mascherata o agisca su mandato dell’autorità competente secondo l’articolo 17 o 18 LAIn.[^317bis-4]
 
@@ -5158,7 +5195,7 @@ sono puniti con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
 [^317bis-1]: Introdotto dall’art. 24 n. 1 della LF del 20 giu. 2003 sull’inchiesta mascherata ([RU 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); FF **1998** 3319). Nuovo testo giusta l’all. n. 3 della LF del 23 dic. 2011, in vigore dal 16 lug. 2012 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^317bis-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^317bis-3]: Nuovo testo giusta l’all. n. II 5 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^317bis-3]: Nuovo testo giusta l’all. n. II 2 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa per la prevenzione del terrorismo e il relativo Protocollo addizionale e potenzia il dispositivo penale contro il terrorismo e la criminalità organizzata, in vigore dal 1° lug. 2021 ([RU 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 5439](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^317bis-4]: Nuovo testo giusta l’all. n. II 5 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^317bis-5]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
 [^317bis-6]: Introdotto dall’all. n. 3 della LF del 23 dic. 2011 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
@@ -5919,11 +5956,14 @@ Il Consiglio federale:
 - b. designa le autorità che mediante procedura di richiamo possono immettere direttamente dati personali nel sistema, quelle che possono consultarli direttamente e quelle cui i dati personali possono essere comunicati nel singolo caso;
 - c. disciplina i diritti procedurali delle persone interessate, segnatamente la consultazione, la rettifica, l’archiviazione e la distruzione dei dati che le concernono.
 
+<sup>5</sup> Ai fini delle segnalazioni nel sistema d’informazione Schengen (SIS) la SEM o l’Ufficio federale di polizia (fedpol) può trasferire i dati nella parte nazionale del Sistema d’informazione di Schengen (N-SIS) e nel SIS mediante procedura automatizzata.[^354-6]
+
 [^354-1]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 [^354-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^354-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^354-4]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 [^354-5]: Nuovo testo giusta l’all. 1 n. 5 della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^354-6]: Introdotto dall’all. 1 n. 4 del DF del 18 dic. 2020 approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 1° lug. 2021 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. ...
 
