@@ -4,13 +4,12 @@ number: 806b
 title: Verordnung über nicht bewilligungspflichtige Tätigkeiten im Gesundheitswesen
 short: NBTV
 language: de
-version: 2021-01-01
-valid_until: 2021-06-30
-version_adopted: 2021-01-05
+version: 2021-07-01
+version_adopted: 2021-06-15
 adopted: 2008-12-16
 in_force: 2009-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/806b"
-pdf: "https://srl.lu.ch/api/de/versions/3707/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3756/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3707/pdf_file"
 
 (NBTV)
 
-vom 16.12.2008 (Stand 01.01.2021)
+vom 16.12.2008 (Stand 01.07.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -143,7 +142,7 @@ beschliesst:
 
 **Berufsverbot**
 
-<sup>1</sup> Die Dienststelle Gesundheit und Sport beziehungsweise der Veterinärdienst verbietet die Ausübung von nicht bewilligungspflichtigen Tätigkeiten, wenn diese Leib und Leben von Mensch oder Tier gefährden.
+<sup>1</sup> Die Dienststelle Gesundheit und Sport beziehungsweise der Veterinärdienst kann Personen die Ausübung einer nicht bewilligungspflichtigen Tätigkeit verbieten, wenn diese Leib und Leben von Mensch oder Tier gefährden.
 
 ## 4 Schlussbestimmungen
 
