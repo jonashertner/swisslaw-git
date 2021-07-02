@@ -3,11 +3,11 @@ canton: ZH
 number: "182.10"
 title: Kirchenordnung der Römisch-katholischen Körperschaft des Kantons Zürich
 language: de
-version: "2020-01-01"
-nachtrag: "107"
-valid_until: 2021-07-02
+version: "2021-07-02"
+nachtrag: "108"
+valid_until: 2023-01-26
 adopted: 2009-01-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_10-2009_01_29-2010_01_01-107.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_10-2009_01_29-2010_01_01-108.html"
 text: pdf
 ---
 
@@ -1058,11 +1058,11 @@ Herrliberg Herrliberg Hinwil Hinwil Hombrechtikon[^hGemeindenoderGemei-5] Bubiko
 
 Männedorf-Uetikon a. S. Männedorf, Uetikon a. S.
 
-Meilen Meilen Oberengstringen Oberengstringen, Unterengstringen Oberrieden Oberrieden Opfikon Opfikon Pfäffikon Fehraltorf, Hittnau, Pfäffikon, Russikon Pfungen Berg a. I., Buch a. I., Dättlikon, Dorf, Flaach, Henggart, Neftenbach, Pfungen, Volken Regensdorf Boppelsen, Buchs, Dällikon, Dänikon, Hüttikon, Otelfingen, Regensdorf Rheinau Rheinau Richterswil Richterswil Rickenbach-Seuzach[^hGemeindenoderGemei-8] Altikon, Dägerlen, Dinhard, Ellikon a. d. Th., Elsau, Hettlingen, Rickenbach, Seuzach, Thalheim a. d. Th., Wiesen-
+Meilen Meilen Oberengstringen Oberengstringen, Unterengstringen Oberrieden Oberrieden Opfikon Opfikon Pfäffikon Fehraltorf, Hittnau, Pfäffikon, Russikon Regensdorf Boppelsen, Buchs, Dällikon, Dänikon, Hüttikon, Otelfingen, Regensdorf Rheinau Rheinau Richterswil Richterswil Rickenbach-Seuzach[^hGemeindenoderGemei-8] Altikon, Dägerlen, Dinhard, Ellikon a. d. Th., Elsau, Hettlingen, Rickenbach, Seuzach, Thalheim a. d. Th., Wiesen-
 
 dangen
 
-Rümlang Rümlang Rüti[^hGemeindenoderGemei-5] Bubikon (Gemeindeteil Bubikon), Dürnten, Rüti Schlieren Schlieren St. Petrus Embrachertal[^hGemeindenoderGemei-9] Embrach,Freienstein-Teufen,Lufingen, Oberembrach, Rorbas Stäfa Stäfa Thalwil-Rüschlikon Rüschlikon, Thalwil Turbenthal Turbenthal, Wila, Wildberg
+Rümlang Rümlang Rüti[^hGemeindenoderGemei-5] Bubikon (Gemeindeteil Bubikon), Dürnten, Rüti Schlieren Schlieren St. Petrus Embrachertal[^hGemeindenoderGemei-9] Embrach, Freienstein-Teufen, Lufingen, Oberembrach, Rorbas St. Pirminius Pfungen[^hGemeindenoderGemei-10] Berg a. I., Buch a. I., Dättlikon, Dorf, Flaach, Henggart, Neftenbach, Pfungen, Volken Stäfa Stäfa Thalwil-Rüschlikon Rüschlikon, Thalwil Turbenthal Turbenthal, Wila, Wildberg
 
 **21**
 
@@ -1092,7 +1092,7 @@ Rümlang Rümlang Rüti[^hGemeindenoderGemei-5] Bubikon (Gemeindeteil Bubikon), 
 
 **23**
 
-- 1\. 1. 20 - 107 Urdorf Uster Wädenswil[^hGemeindenoderGemei-10],[^hGemeindenoderGemei-11] Wald Wallisellen Wangen-Brüttisellen Wetzikon Winterthur Zell[^hGemeindenoderGemei-7] Kyburg), Schlatt, Weisslingen, Zell Zollikon-Zumikon[^hGemeindenoderGemei-12] Zürich-Allerheiligen Seebach, Oerlikon und Unterstrass) Zürich-Bruder Klaus und Unterstrass) Zürich-Dreikönigen Zürich-Erlöser Zürich-Guthirt Zürich-Heilig Geist Zürich-Heilig Kreuz Zürich-Oerlikon (Hauptteil des Quartiers Oerlikon) Zürich-Wiedikon (Hauptteil des Quartiers Wiedikon) Zürich-Liebfrauen (Quartier Altstadt rechts der Limmat sowie Hauptteile der Quartiere Oberstrass und Unterstrass) Zürich-Witikon Zürich-Maria-Hilf Zürich-Maria Lourdes (Hauptteil des Quartiers Seebach) Zürich-St. Anton (Quartier Hirslanden sowie Hauptteil des Quartiers Hottingen) Zürich-St. Felix und Regula Zürich (äusserer Teil des Quartiers Aussersihl) Zürich-St. Franziskus Zürich-St. Gallus Zürich-St. Josef Zürich-St. Katharina (Hauptteil des Quartiers Affoltern) Zürich-St. Konrad Zürich-St. Martin (Hauptteil des Quartiers Fluntern und Teil des Quartiers Hottingen) Zürich-St. Peter und Paul Zürich (Quartier Altstadt links der Limmat und Hauptteil des Quartiers Aussersihl) Zürich-St. Theresia
+- 1\. 1. 20 - 107 Urdorf Uster Wädenswil[^hGemeindenoderGemei-11],[^hGemeindenoderGemei-12] Wald Wallisellen Wangen-Brüttisellen Wetzikon Winterthur Zell[^hGemeindenoderGemei-7] Kyburg), Schlatt, Weisslingen, Zell Zollikon-Zumikon[^hGemeindenoderGemei-13] Zürich-Allerheiligen Seebach, Oerlikon und Unterstrass) Zürich-Bruder Klaus und Unterstrass) Zürich-Dreikönigen Zürich-Erlöser Zürich-Guthirt Zürich-Heilig Geist Zürich-Heilig Kreuz Zürich-Oerlikon (Hauptteil des Quartiers Oerlikon) Zürich-Wiedikon (Hauptteil des Quartiers Wiedikon) Zürich-Liebfrauen (Quartier Altstadt rechts der Limmat sowie Hauptteile der Quartiere Oberstrass und Unterstrass) Zürich-Witikon Zürich-Maria-Hilf Zürich-Maria Lourdes (Hauptteil des Quartiers Seebach) Zürich-St. Anton (Quartier Hirslanden sowie Hauptteil des Quartiers Hottingen) Zürich-St. Felix und Regula Zürich (äusserer Teil des Quartiers Aussersihl) Zürich-St. Franziskus Zürich-St. Gallus Zürich-St. Josef Zürich-St. Katharina (Hauptteil des Quartiers Affoltern) Zürich-St. Konrad Zürich-St. Martin (Hauptteil des Quartiers Fluntern und Teil des Quartiers Hottingen) Zürich-St. Peter und Paul Zürich (Quartier Altstadt links der Limmat und Hauptteil des Quartiers Aussersihl) Zürich-St. Theresia
 
 - 1\. 1. 20 - 107
 
@@ -1105,9 +1105,10 @@ Rümlang Rümlang Rüti[^hGemeindenoderGemei-5] Bubikon (Gemeindeteil Bubikon), 
 [^hGemeindenoderGemei-7]: Fassung gemäss B vom 23. Mai 2016 (OS 71, 455; ABl 2016-06-10). In Kraft seit 26. Oktober 2016.
 [^hGemeindenoderGemei-8]: Die Gemeinde Bertschikon wurde nach dem Zusammenschluss mit der Gemeinde Wiesendangen auf 1. Januar 2014 aus der Liste entfernt.
 [^hGemeindenoderGemei-9]: Fassung gemäss B vom 5. November 2015 (OS 71, 116). In Kraft seit 1. Juli 2016.
-[^hGemeindenoderGemei-10]: Die Gemeinden Schönenberg und Hütten wurden nach dem Zusammenschluss mit der Gemeinde Wädenswil auf 1. Januar 2019 aus der Liste entfernt.
-[^hGemeindenoderGemei-11]: Die Kirchgemeinde Hirzel-Schönenberg-Hütten wurde nach dem Zusammenschluss der Politischen Gemeinden Horgen bzw. Wädenswil auf den 1. Januar 2020 aufgelöst und der entsprechenden Kirchgemeinde zugeordnet (OS 74, 565; ABl 2019-10-11). In Kraft seit 1. Januar 2020. 1. 1. 20 - 107 19
-[^hGemeindenoderGemei-12]: Fassung gemäss B vom 16. Juni 2011 (OS 67, 398). In Kraft seit 1. Oktober 2012.
+[^hGemeindenoderGemei-10]: Fassung gemäss B vom 17. Juni 2021 (ABl 2021-07-02). In Kraft seit 2. Juli 2021. 1. 1. 20 - 107 19
+[^hGemeindenoderGemei-11]: Die Gemeinden Schönenberg und Hütten wurden nach dem Zusammenschluss mit der Gemeinde Wädenswil auf 1. Januar 2019 aus der Liste entfernt.
+[^hGemeindenoderGemei-12]: Die Kirchgemeinde Hirzel-Schönenberg-Hütten wurde nach dem Zusammenschluss der Politischen Gemeinden Horgen bzw. Wädenswil auf den 1. Januar 2020 aufgelöst und der entsprechenden Kirchgemeinde zugeordnet (OS 74, 565; ABl 2019-10-11). In Kraft seit 1. Januar 2020.
+[^hGemeindenoderGemei-13]: Fassung gemäss B vom 16. Juni 2011 (OS 67, 398). In Kraft seit 1. Oktober 2012.
 
 ## Weitere Fussnoten
 
