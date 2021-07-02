@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2021-06-26
+version: 2021-07-03
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210626/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210626-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210626/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210703/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210703-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210703/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210626/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 26 juin 2021)
+du 4 juin 2021 (Etat le 3 juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -84,6 +84,10 @@ L’émetteur informe le demandeur concernant:
 <sup>2</sup> Il est responsable du respect de la protection des données lors de la transmission ou de la remise. En particulier, il doit s’assurer que des tiers ne peuvent pas prendre connaissance des informations que le certificat contient.
 
 <sup>3</sup> La Confédération peut proposer aux cantons de se charger de l’impression sur papier et de la transmission des certificats au demandeur.
+
+<sup>4</sup> Elle facture aux cantons l’impression et la transmission des certificats de vaccination COVID-19 des personnes qui auront été vaccinées à partir du 15 juillet 2021.[^5-1]
+
+[^5-1]: Introduit par le ch.I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 6
 
@@ -225,7 +229,9 @@ Un certificat de vaccination COVID-19 est établi pour chaque dose:
 
 **Contenu**
 
-Les certificats de vaccination COVID-19 contiennent, en plus du contenu général de tous les certificats COVID-19, les indications visées à l’annexe 2 concernant le vaccin COVID-19 administré, notamment celle précisant si la vaccination a été entièrement administrée selon les recommandations de l’OFSP.
+Les certificats de vaccination COVID-19 contiennent, en plus du contenu général de tous les certificats COVID-19, les indications visées à l’annexe 2 concernant le vaccin COVID-19 administré, notamment celle précisant si la vaccination a été entièrement administrée.[^14-1]
+
+[^14-1]: Nouvelle teneur selon le ch.I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 15
 
@@ -233,7 +239,9 @@ Les certificats de vaccination COVID-19 contiennent, en plus du contenu généra
 
 <sup>1</sup> Le début et la durée de validité des certificats de vaccination COVID-19 sont régis par l’annexe 2.
 
-<sup>2</sup> La période de validité commence au plus tôt le jour où la dernière dose est administrée, pour autant que le vaccin ait été administré entièrement selon les recommandations de l’OFSP.
+<sup>2</sup> La période de validité commence au plus tôt le jour où la dernière dose est administrée, pour autant que le vaccin ait été administré entièrement conformément aux exigences visées à l’annexe 2.[^15-1]
+
+[^15-1]: Nouvelle teneur selon le ch.I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ## Section 5 Certificats de guérison COVID-19
 
@@ -268,9 +276,15 @@ Les certificats de guérison COVID-19 contiennent, en plus du contenu général 
 Un certificat de test COVID-19 est établi lors du résultat négatif:
 
 - a. d’une analyse de biologie moléculaire pour le SARS-CoV-2;
-- b. d’un test rapide SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic».
+- b.[^19-1] d’un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a* de l’ordonnance 3 COVID-19 du 19 juin 2020[^19-2], à condition que le test soit autorisé dans l’UE pour la délivrance d’un «certificat COVID numérique de l’UE».
+- [tab] <sup>1bis</sup> L’OFSP tient à jour une liste des tests rapides SARS-CoV-2 visés à l’al. 1, let. b, et la publie sur son site Internet[^19-3].[^19-4]
 
 <sup>2</sup> Les demandes d’établissement de certificats de test peuvent être présentées au plus tard lors du prélèvement de l’échantillon.
+
+[^19-1]: Nouvelle teneur selon le ch.I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^19-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^19-3]: www.bag.admin.ch &gt; Maladies &gt; Maladies infectieuses: flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Informations techniques sur les tests COVID-19
+[^19-4]: Introduit par le ch.I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 20
 
@@ -442,20 +456,22 @@ Le DFI est compétent pour conclure des traités internationaux concernant l’a
 
 La présente ordonnance entre en vigueur le 7 juin 2021 à 0 h 00 et a effet jusqu’au 31 décembre 2022.
 
-Annexe 1
+Annexe 1*[^t-1]*
 
 (art. 12, 29, al. 2, let. c, ch. 2, et 33)
 
 ## Contenu général des certificats COVID-19
+
+[^t-1]: Mise à jour selon le ch.II de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ### 1 Indications concernant le titulaire
 
 - a. Nom et prénom (dans cet ordre)
 - b. Date de naissance
 
-### 2 Indications concernant l’éditeur
+### 2 Indications concernant le pays dans lequel le vaccin a été administré ou dans lequel le test a été effectué, et indications sur l’émetteur
 
-- a. Pays émetteur («Suisse»)
+- a. Pays dans lequel le vaccin a été administré ou dans lequel le test a été effectué
 - b. Éditeur («Office fédéral de la santé publique»)
 
 ### 3 Remarque à faire figurer sur les certificats COVID-19 lisibles par l’homme
@@ -468,13 +484,13 @@ Les preuves scientifiques relatives à la vaccination, aux tests et à la guéri
 
 Avant de voyager, veuillez vérifier les mesures de santé publique et les restrictions connexes en vigueur sur le lieu de destination».
 
-Annexe 2*[^t-1]*
+Annexe 2*[^t-2]*
 
-(art. 14, 15, al. 1, et 33)
+(art. 14, 15, et 33)
 
 ## Dispositions particulières applicables aux certificats de vaccination COVID-19
 
-[^t-1]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière, en vigueur depuis le 26 juin 2021 ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
+[^t-2]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière, ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et par le ch.II de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ### 1 Début de la validité et durée de validité maximale
 
@@ -482,8 +498,14 @@ Annexe 2*[^t-1]*
 
   Début de la validité:
 
-  - a. pour la vaccination avec deux doses d’un vaccin à ARNm autorisé en Suisse: le jour de l’administration de la seconde dose;
-  - b. pour les personnes ayant contracté le SARS-CoV-2 de manière attestée: le jour de l’administration de la dose unique d’un vaccin à ARNm autorisé en Suisse.
+  - a. pour la vaccination avec deux doses (Comirnaty®, COVID-19 Vaccine Moderna, AstraZeneca, Sinopharm BIBP, Sinovac, Covishield™): le jour de l’administration de la seconde dose;
+  - b. pour la vaccination avec une seule dose (Janssen): le 22<sup>e</sup> jour après l’administration de la dose;
+  - c.
+
+    pour les personnes ayant contracté le SARS-CoV-2 de manière attestée:
+
+    - 1\. le jour de l’administration de la dose unique d’un vaccin visé à la let. a;
+    - 2\. le 22<sup>e</sup> jour après l’administration de la dose unique de vaccin conformément à la let. b.
 
 - 1\.2 Durée de validité: 365 jours à partir de l’administration de la dernière dose.
 
@@ -494,7 +516,7 @@ Annexe 2*[^t-1]*
 - c. Médicament immunologique (nom du vaccin/nom du produit)
 - d. Titulaire de l’autorisation de mise sur le marché du vaccin ou, à défaut, informations sur le fabricant
 - e. Nombre dans une série de vaccins et nombre total de doses administrées
-- f. Date de la vaccination et date de la dose reçue précédemment
+- f. Date de l’administration de la dernière dose
 
 Annexe 3
 
@@ -514,25 +536,22 @@ Annexe 3
 - c. Début de la validité
 - d. Fin de la validité
 
-Annexe 4*[^t-2]*
+Annexe 4*[^t-3]*
 
 (art. 20, 21, al. 2, et 33)
 
-## Exigences particulières applicables aux certificats de test COVID-19
+## Dispositions particulières applicables aux certificats de test COVID-19
 
-[^t-2]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière, en vigueur depuis le 26 juin 2021 ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
+[^t-3]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et par le ch.II de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
-### 1 Liste des tests reconnus
-
-- a. Test PCR SARS-CoV-2
-- b. Test rapide SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic»
+### 1 ...
 
 ### 2 Durée de validité
 
 La durée de validité, calculée à partir du prélèvement de l’échantillon, est de:
 
 - a. 72 heures pour le test PCR;
-- b. 48 heures pour le test rapide SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic».
+- b. 48 heures pour le test rapide SARS-CoV-2 avec application par un professionnel.
 
 ### 3 Indications concernant le test effectué
 
@@ -542,7 +561,7 @@ La durée de validité, calculée à partir du prélèvement de l’échantillon
 - d. Fabricant du test (pour le test rapide SARS-CoV-2)
 - e. Date et heure du prélèvement de l’échantillon
 - f. Résultat du test («négatif»)
-- g. Centre de test ou institution où le test a été effectué (pour le test PCR pour le SARS-CoV-2)
+- g. Centre de test ou institution où le test a été effectué
 
 Annexe 5
 

@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-06-26
+version: 2021-07-03
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210626/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210626-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210626/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210703/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210703-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210703/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210626/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 26. Juni 2021)
+vom 4. Juni 2021 (Stand am 3. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -84,6 +84,10 @@ Die Ausstellerin oder der Aussteller informiert die antragstellende Person über
 <sup>2</sup> Sie oder er ist verantwortlich für die Einhaltung des Datenschutzes bei der Übermittlung oder Aushändigung. Insbesondere muss sichergestellt sein, dass Dritte keine Kenntnis der darin enthaltenen Informationen erhalten können.
 
 <sup>3</sup> Der Bund kann den Kantonen anbieten, den Druck der Zertifikate in Papierform sowie die Übermittlung von Zertifikaten an die antragstellende Person zu übernehmen.
+
+<sup>4</sup> Er stellt den Kantonen die Kosten für den Druck und die Übermittlung von Covid-19-Impfzertifikaten von Personen, die sich ab dem 15. Juli 2021 impfen lassen, in Rechnung.[^5-1]
+
+[^5-1]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 6
 
@@ -223,9 +227,11 @@ Ein Covid-19-Impfzertifikat wird für jede Dosis ausgestellt:
 
 #### Art. 14
 
-**Inhalt**
+**Inhalt**[^14-1]
 
-Covid-19-Impfzertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Zertifikate die Angaben nach Anhang 2 zur vorgenommenen Covid-19-Impfung, namentlich die Angabe, ob die Impfung nach den Empfehlungen des BAG vollständig erfolgt ist.
+Covid-19-Impfzertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Zertifikate die Angaben nach Anhang 2 zur vorgenommenen Covid-19-Impfung, namentlich die Angabe, ob die Impfung vollständig erfolgt ist.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 15
 
@@ -233,7 +239,9 @@ Covid-19-Impfzertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Z
 
 <sup>1</sup> Beginn und Dauer der Gültigkeit von Covid-19-Impfzertifikaten richten sich nach Anhang 2.
 
-<sup>2</sup> Die Gültigkeit beginnt frühestens am Tag der Verabreichung der letzten Dosis, sofern der Impfstoff gemäss den Empfehlungen des BAG vollständig verimpft wird.
+<sup>2</sup> Die Gültigkeit beginnt frühestens am Tag der Verabreichung der letzten Dosis, sofern der Impfstoff nach den Anforderungen von Anhang 2 vollständig verimpft wird.[^15-1]
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ## 5. Abschnitt: Covid-19-Genesungszertifikate
 
@@ -268,9 +276,16 @@ Covid-19-Genesungszertifikate enthalten neben dem allgemeinen Inhalt aller Covid
 Ein Covid-19-Testzertifikat wird ausgestellt bei einem negativen Ergebnis:
 
 - a. einer molekularbiologischen Analyse auf Sars-CoV-2;
-- b. eines Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard.
+- b.[^19-1] eines Sars-CoV-2-Schnelltests zur Fachanwendung nach Artikel 24*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^19-2], sofern dieser in der EU für die Ausstellung eines digitalen COVID-Zertifikats der EU zugelassen ist.
+
+<sup>1bis</sup> Das BAG führt eine aktualisierte Liste der Sars-CoV-2-Schnelltests nach Absatz 1 Buchstabe b und veröffentlicht sie auf seiner Website[^19-3].[^19-4]
 
 <sup>2</sup> Anträge auf Ausstellung von Testzertifikaten können spätestens anlässlich der Probeentnahme gestellt werden.
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^19-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^19-3]: www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Fachinformationen über die Covid-19-Testung.
+[^19-4]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 20
 
@@ -442,39 +457,41 @@ Das EDI ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 
 Diese Verordnung tritt am 7. Juni 2021 um 00.00 Uhr in Kraft und gilt bis zum 31. Dezember 2022.
 
-Anhang 1
+Anhang 1*[^t-1]*
 
 (Art. 12, 29 Abs. 2 Bst. c Ziff. 2 und 33)
 
 ## Allgemeiner Inhalt der Covid-19-Zertifikate
+
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ### 1 Angaben zur Inhaberin oder zum Inhaber
 
 - a. Name und Vorname (in dieser Reihenfolge)
 - b. Geburtsdatum
 
-### 2 Angaben zum Herausgeber
+### 2 Angaben zum Land, in dem der Impfstoff verabreicht oder der Test durchgeführt wurde, sowie Angaben zum Herausgeber
 
-- a. Ausstellungsland («Schweiz»)
+- a. Land, in dem der Impfstoff verabreicht oder der Test durchgeführt wurde
 - b. Herausgeber («Bundesamt für Gesundheit»)
 
 ### 3 Hinweis bei menschenlesbaren Covid-19-Zertifikaten
 
 Covid-19-Zertifikate in menschenlesbarer Form müssen folgenden Hinweis enthalten:
 
-«Diese Bescheinigung ist kein Reisedokument.
+«Dieses Zertifikat ist kein Reisedokument.
 
-Die wissenschaftlichen Erkenntnisse über Covid-19-Impfungen, -Genesungen und -Tests entwickeln sich weiter, auch im Hinblick auf neue bedenkliche Varianten des Virus.
+Die wissenschaftlichen Erkenntnisse über Covid-19-Impfungen und -Tests sowie über die Genesung von einer Covid-19-Infektion entwickeln sich ständig weiter, auch im Hinblick auf neue besorgniserregende Virusvarianten.
 
-Bitte informieren Sie sich vor der Reise über die geltenden Gesundheitsmassnahmen und die damit verbundenen Einschränkungen am Zielort.»
+Bitte informieren Sie sich vor der Reise über die am Zielort geltenden Gesundheitsmassnahmen und die damit verbundenen Beschränkungen.»
 
-Anhang 2*[^t-1]*
+Anhang 2*[^t-2]*
 
-(Art. 14, 15 Abs. 1 und 33)
+(Art. 14, 15 und 33)
 
 ## Besondere Bestimmungen über Covid-19-Impfzertifikate
 
-[^t-1]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
+[^t-2]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) und Ziff. II der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
@@ -482,8 +499,14 @@ Anhang 2*[^t-1]*
 
   Beginn der Gültigkeit:
 
-  - a. für eine Impfung mit zwei Dosen eines in der Schweiz zugelassenen mRNA-Impfstoffs: am Tag der Verabreichung der zweiten Dosis;
-  - b. für Personen mit einer zurückliegenden bestätigten Sars-CoV-2-Infektion: am Tag der Verabreichung der einzigen Dosis eines in der Schweiz zugelassenen mRNA-Impfstoffs.
+  - a. für eine Impfung mit zwei Dosen (Comirnaty®, COVID-19 Vaccine Moderna, AstraZeneca, Sinopharm BIBP, Sinovac, Covishield™): am Tag der Verabreichung der zweiten Dosis;
+  - b. für eine Impfung mit einer Dosis (Janssen): am 22. Tag nach Verabreichung der Dosis;
+  - c.
+
+    für Personen mit einer zurückliegenden bestätigten Sars-CoV-2-Infektion:
+
+    - 1\. am Tag der Verabreichung der einzigen Dosis einer Impfung nach Buchstabe a,
+    - 2\. am 22. Tag nach der Verabreichung der einzigen Dosis einer Impfung nach Buchstabe b.
 
 - 1\.2 Gültigkeitsdauer: 365 Tage ab Verabreichung der letzten Dosis.
 
@@ -494,7 +517,7 @@ Anhang 2*[^t-1]*
 - c. Immunmittel (Name des Impfstoffs / Produktname)
 - d. Inhaber der Zulassung des Impfstoffs oder, falls bei im Ausland verabreichten Impfdosen nicht gegeben, Angabe zum Hersteller
 - e. Anzahl der verabreichten Impfdosen in einer Serie und die Gesamtzahl der Impfdosen
-- f. Datum der Impfung sowie Angabe des Datums für die zuvor erhaltene Dosis
+- f. Datum, an dem die letzte Dosis verabreicht wurde
 
 Anhang 3
 
@@ -514,18 +537,15 @@ Anhang 3
 - c. Beginn der Gültigkeit
 - d. Ende der Gültigkeit
 
-Anhang 4*[^t-2]*
+Anhang 4*[^t-3]*
 
 (Art. 20, 21 Abs. 2 und 33)
 
-## Besondere Anforderungen an Covid-19-Testzertifikate
+## Besondere Bestimmungen über Covid-19-Testzertifikate
 
-[^t-2]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)).
+[^t-3]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) und Ziff. II der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
-### 1 Liste der anerkannten Tests
-
-- a. PCR-Test auf Sars-CoV-2
-- b. Sars-CoV-2-Schnelltest zur Fachanwendung gemäss diagnostischem Standard
+### 1 ...
 
 ### 2 Dauer der Gültigkeit
 
@@ -534,7 +554,7 @@ Anhang 4*[^t-2]*
   Die Dauer wird ab der Probeentnahme berechnet und beträgt:
 
   - a. für PCR-Tests: 72 Stunden;
-  - b. für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard: 48 Stunden.
+  - b. für Sars-CoV-2-Schnelltests zur Fachanwendung: 48 Stunden.
 
 ### 3 Angaben zum durchgeführten Test
 
@@ -544,7 +564,7 @@ Anhang 4*[^t-2]*
 - d. Hersteller des Tests (sofern Sars-CoV-2-Schnelltest)
 - e. Datum und Uhrzeit der Entnahme der Testprobe
 - f. Testergebnis («negativ»)
-- g. Testzentrum oder Institution, wo der Test durchgeführt wurde (sofern PCR-Test auf Sars-CoV-2)
+- g. Testzentrum oder Institution, wo der Test durchgeführt wurde
 
 Anhang 5
 
