@@ -3,20 +3,20 @@ canton: ZG
 number: 413.116-A1
 title: "Verordnung über die Erhebung von Gebühren im Amt für Berufsberatung (Anhang 1: Tarifliste)"
 language: de
-version: 2018-09-15
-valid_until: 2021-07-02
-version_adopted: 2018-08-30
+version: 2021-07-03
+valid_until: 2023-12-31
+version_adopted: 2021-06-28
 adopted: 2018-03-27
 in_force: 2018-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.116-A1"
-pdf: "https://bgs.zg.ch/api/de/versions/1837/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2248/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Erhebung von Gebühren im Amt für Berufsberatung (Anhang 1: Tarifliste)
 
-Vom 27. März 2018 (Stand 15. September 2018)
+Vom 27. März 2018 (Stand 3. Juli 2021)
 
 Das Amt für Berufsberatung des Kantons Zug,
 
@@ -33,6 +33,8 @@ verfügt:
 <sup>1</sup> Für Dienstleistungen im Bereich des erweiterten Angebots werden die nachfolgend aufgeführten Beiträge erhoben.
 
 <sup>2</sup> Die in § 3 der Verordnung über die Erhebung von Gebühren im Amt für Berufsberatung[^1-1] aufgeführten Personen sind von der Beitragspflicht befreit.
+
+<sup>3</sup> Personen mit Wohnsitz im Kanton Zug, welche eine Infoberatung in Anspruch nehmen, um einen Berufsabschluss für Erwachsene (BAE) zu erwerben, werden von der Beitragspflicht befreit, sofern sie Arbeitserfahrung im entsprechenden Berufsfeld vorweisen können.
 
 [^1-1]: BGS [413.116](https://bgs.zg.ch/data/413.116/de)
 
