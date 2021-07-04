@@ -3,11 +3,11 @@ sr: "0.972.6"
 title: Übereinkommen vom 29. Juni 2015 Asiatische Infrastruktur-Investitionsbank (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/389"
 language: de
-version: 2020-05-11
+version: 2021-07-05
 adopted: 2015-06-29
 in_force: 2016-04-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/389/20200511/de/xml/fedlex-data-admin-ch-eli-cc-2016-389-20200511-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/389/20200511/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/389/20210705/de/xml/fedlex-data-admin-ch-eli-cc-2016-389-20210705-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/389/20210705/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 25. April 2016
 
 In Kraft getreten für die Schweiz am 25. April 2016
 
-(Stand am 11. Mai 2020)
+(Stand am 5. Juli 2021)
 
 [^t-1]: [AS 2016 2389](https://fedlex.data.admin.ch/eli/oc/2016/388)
 
@@ -895,13 +895,14 @@ Der Gouverneursrat legt nach Massgabe der folgenden Bestimmungen Vorschriften f�
 
 \10. *Vorrecht der Gründungsmitglieder.* Die Verfahren zur Kandidatenaufstellung und Abstimmung durch die Gouverneure bei der Direktorenwahl und zur Ernennung Stellvertretender Direktoren durch die Direktoren gelten vorbehaltlich des Grundsatzes, dass jedes Gründungsmitglied das Vorrecht besitzt, den Direktor beziehungsweise Stellvertretenden Direktor in seiner Stimmrechtsgruppe dauerhaft oder rotierend zu bestimmen.
 
-Geltungsbereich am 11. Mai 2020**[^t-2]**
+Geltungsbereich am 5. Juli 2021**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>13. Oktober</td><td>2017 B</td><td>13. Oktober</td><td>2017</td></tr>
 <tr><td>Ägypten</td><td>4. August</td><td>2016</td><td>4. August</td><td>2016</td></tr>
 <tr><td>Algerien</td><td>27. Dezember</td><td>2019 B</td><td>27. Dezember</td><td>2019</td></tr>
+<tr><td>Argentinien</td><td>30. März</td><td>2021 B</td><td>30. März</td><td>2021</td></tr>
 <tr><td>Aserbaidschan</td><td>24. Juni</td><td>2016</td><td>24. Juni</td><td>2016</td></tr>
 <tr><td>Äthiopien</td><td>13. Mai</td><td>2017 B</td><td>13. Mai</td><td>2017</td></tr>
 <tr><td>Australien</td><td>10. November</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
@@ -909,18 +910,23 @@ Geltungsbereich am 11. Mai 2020**[^t-2]**
 <tr><td>Bangladesch</td><td>22. März</td><td>2016</td><td>22. März</td><td>2016</td></tr>
 <tr><td>Belarus</td><td>17. Januar</td><td>2019 B</td><td>17. Januar</td><td>2019</td></tr>
 <tr><td>Belgien</td><td>10. Juli</td><td>2019 B</td><td>10. Juli</td><td>2019</td></tr>
+<tr><td>Benin</td><td>27. Mai</td><td>2020 B</td><td>27. Mai</td><td>2020</td></tr>
+<tr><td>Brasilien</td><td>2. November</td><td>2020</td><td>2. November</td><td>2020</td></tr>
 <tr><td>Brunei</td><td>12. Oktober</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
 <tr><td>China</td><td>26. November</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
 <tr><td>Hongkong</td><td>2. Dezember</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
+<tr><td>Cook-Inseln</td><td>1. Juni</td><td>2020 B</td><td>1. Juni</td><td>2020</td></tr>
 <tr><td>Côte d’Ivoire</td><td>26. Februar</td><td>2020 B</td><td>26. Februar</td><td>2020</td></tr>
 <tr><td>Deutschland\*</td><td>21. Dezember</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
 <tr><td>Dänemark</td><td>15. Januar</td><td>2016</td><td>15. Januar</td><td>2016</td></tr>
 <tr><td>Ecuador</td><td>1. November</td><td>2019 B</td><td>1. November</td><td>2019</td></tr>
 <tr><td>Fidschi</td><td>11. Dezember</td><td>2017 B</td><td>11. Dezember</td><td>2017</td></tr>
 <tr><td>Finnland</td><td>7. Januar</td><td>2016</td><td>7. Januar</td><td>2016</td></tr>
+<tr><td>Frankreich</td><td>16. Juni</td><td>2016</td><td>16. Juni</td><td>2016</td></tr>
 <tr><td>Georgien</td><td>14. Dezember</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
 <tr><td>Ghana</td><td>21. Februar</td><td>2020 B</td><td>21. Februar</td><td>2020</td></tr>
 <tr><td>Griechenland</td><td>20. August</td><td>2019 B</td><td>20. August</td><td>2019</td></tr>
+<tr><td>Guinea</td><td>12. Juli</td><td>2019 B</td><td>12. Juli</td><td>2019</td></tr>
 <tr><td>Indien</td><td>11. Januar</td><td>2016</td><td>11. Januar</td><td>2016</td></tr>
 <tr><td>Indonesien</td><td>14. Januar</td><td>2016</td><td>14. Januar</td><td>2016</td></tr>
 <tr><td>Iran</td><td>16. Januar</td><td>2017</td><td>16. Januar</td><td>2017</td></tr>
@@ -936,6 +942,7 @@ Geltungsbereich am 11. Mai 2020**[^t-2]**
 <tr><td>Kirgisistan</td><td>11. April</td><td>2016</td><td>11. April</td><td>2016</td></tr>
 <tr><td>Korea (Süd-)</td><td>11. Dezember</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
 <tr><td>Laos</td><td>15. Januar</td><td>2016</td><td>15. Januar</td><td>2016</td></tr>
+<tr><td>Liberia</td><td>4. Januar</td><td>2021 B</td><td>4. Januar</td><td>2021</td></tr>
 <tr><td>Luxemburg</td><td>8. Dezember</td><td>2015</td><td>25. Dezember</td><td>2015</td></tr>
 <tr><td>Madagaskar</td><td>25. Juni</td><td>2018 B</td><td>25. Juni</td><td>2018</td></tr>
 <tr><td>Malaysia</td><td>27. März</td><td>2017 B</td><td>27. März</td><td>2017</td></tr>
@@ -968,6 +975,7 @@ Geltungsbereich am 11. Mai 2020**[^t-2]**
 <tr><td>Tadschikistan</td><td>16. Januar</td><td>2016</td><td>16. Januar</td><td>2016</td></tr>
 <tr><td>Thailand\*</td><td>20. Juni</td><td>2016</td><td>20. Juni</td><td>2016</td></tr>
 <tr><td>Timor-Leste</td><td>22. November</td><td>2017 B</td><td>22. November</td><td>2017</td></tr>
+<tr><td>Tonga</td><td>5. Januar</td><td>2021 B</td><td>5. Januar</td><td>2021</td></tr>
 <tr><td>Türkei</td><td>15. Januar</td><td>2016</td><td>15. Januar</td><td>2016</td></tr>
 <tr><td>Ungarn</td><td>16. Juni</td><td>2017 B</td><td>16. Juni</td><td>2017</td></tr>
 <tr><td>Uruguay</td><td>28. April</td><td>2020 B</td><td>28. April</td><td>2020</td></tr>
@@ -980,7 +988,7 @@ Geltungsbereich am 11. Mai 2020**[^t-2]**
 <tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2016 2391](https://fedlex.data.admin.ch/eli/oc/2016/389), [2018 35](https://fedlex.data.admin.ch/eli/oc/2018/16)[2789](https://fedlex.data.admin.ch/eli/oc/2018/418), [2020 1881](https://fedlex.data.admin.ch/eli/oc/2020/389). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2016 2391](https://fedlex.data.admin.ch/eli/oc/2016/389); [2018 35](https://fedlex.data.admin.ch/eli/oc/2018/16), [2789](https://fedlex.data.admin.ch/eli/oc/2018/418); [2020 1881](https://fedlex.data.admin.ch/eli/oc/2020/389)und [2021 444](https://fedlex.data.admin.ch/eli/oc/2021/444). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalt
 

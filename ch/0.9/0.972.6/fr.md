@@ -3,11 +3,11 @@ sr: "0.972.6"
 title: "Statuts du 29 juin 2015 de la Banque asiatique d'investissement dans les infrastructures (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/389"
 language: fr
-version: 2020-05-11
+version: 2021-07-05
 adopted: 2015-06-29
 in_force: 2016-04-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/389/20200511/fr/xml/fedlex-data-admin-ch-eli-cc-2016-389-20200511-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/389/20200511/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/389/20210705/fr/xml/fedlex-data-admin-ch-eli-cc-2016-389-20210705-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/389/20210705/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 25 avril 2016
 
 Entrés en vigueur pour la Suisse le 25 avril 2016
 
-(Etat le 11 mai 2020)
+(Etat le 5 juillet 2021)
 
 [^t-1]: [RO 2016 2389](https://fedlex.data.admin.ch/eli/oc/2016/388)
 
@@ -895,7 +895,7 @@ Le Conseil des gouverneurs définit les règles d’organisation de chaque élec
 
 \10. *Privilèges de membre fondateur.* La désignation et le vote des gouverneurs au profit des administrateurs, ainsi que la désignation des administrateurs suppléants par les administrateurs, respectent le principe selon lequel chaque membre fondateur a le privilège de désigner l’administrateur ou un administrateur suppléant de sa circonscription à titre permanent ou sur une base tournante.
 
-Champ d’application le 11 mai 2020**[^t-2]**
+Champ d’application le 5 juillet 2021**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -903,6 +903,7 @@ Champ d’application le 11 mai 2020**[^t-2]**
 <tr><td>Algérie</td><td>27 décembre</td><td>2019 A</td><td>27 décembre</td><td>2019</td></tr>
 <tr><td>Allemagne\*</td><td>21 décembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Arabie Saoudite</td><td>19 février</td><td>2016</td><td>19 février</td><td>2016</td></tr>
+<tr><td>Argentine</td><td>30 mars</td><td>2021 A</td><td>30 mars</td><td>2021</td></tr>
 <tr><td>Australie</td><td>10 novembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Autriche</td><td>3 décembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Azerbaïdjan</td><td>24 juin</td><td>2016</td><td>24 juin</td><td>2016</td></tr>
@@ -910,6 +911,8 @@ Champ d’application le 11 mai 2020**[^t-2]**
 <tr><td>Bangladesh</td><td>22 mars</td><td>2016</td><td>22 mars</td><td>2016</td></tr>
 <tr><td>Bélarus</td><td>17 janvier</td><td>2019 A</td><td>17 janvier</td><td>2019</td></tr>
 <tr><td>Belgique</td><td>10 juillet</td><td>2019 A</td><td>10 juillet</td><td>2019</td></tr>
+<tr><td>Bénin</td><td>27 mai</td><td>2020 A</td><td>27 mai</td><td>2020</td></tr>
+<tr><td>Brésil</td><td>2 novembre</td><td>2020</td><td>2 novembre</td><td>2020</td></tr>
 <tr><td>Brunéi</td><td>12 octobre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Cambodge</td><td>17 mai</td><td>2016</td><td>17 mai</td><td>2016</td></tr>
 <tr><td>Canada</td><td>19 mars</td><td>2018 A</td><td>19 mars</td><td>2018</td></tr>
@@ -925,11 +928,14 @@ Champ d’application le 11 mai 2020**[^t-2]**
 <tr><td>Espagne</td><td>19 décembre</td><td>2017</td><td>19 décembre</td><td>2017</td></tr>
 <tr><td>Éthiopie</td><td>13 mai</td><td>2017 A</td><td>13 mai</td><td>2017</td></tr>
 <tr><td>Fidji</td><td>11 décembre</td><td>2017 A</td><td>11 décembre</td><td>2017</td></tr>
+<tr><td>France</td><td>16 juin</td><td>2016</td><td>16 juin</td><td>2016</td></tr>
 <tr><td>Finlande</td><td>7 janvier</td><td>2016</td><td>7 janvier</td><td>2016</td></tr>
 <tr><td>Géorgie</td><td>14 décembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Ghana</td><td>21 février</td><td>2020 A</td><td>21 février</td><td>2020</td></tr>
 <tr><td>Grèce</td><td>20 août</td><td>2019 A</td><td>20 août</td><td>2019</td></tr>
+<tr><td>Guinée</td><td>12 juillet</td><td>2019 A</td><td>12 juillet</td><td>2019</td></tr>
 <tr><td>Hongrie</td><td>16 juin</td><td>2017 A</td><td>16 juin</td><td>2017</td></tr>
+<tr><td>Ìles Cook</td><td>1<sup>er</sup> juin</td><td>2020 A</td><td>1<sup>er</sup> juin</td><td>2020</td></tr>
 <tr><td>Inde</td><td>11 janvier</td><td>2016</td><td>11 janvier</td><td>2016</td></tr>
 <tr><td>Indonésie</td><td>14 janvier</td><td>2016</td><td>14 janvier</td><td>2016</td></tr>
 <tr><td>Iran</td><td>16 janvier</td><td>2017</td><td>16 janvier</td><td>2017</td></tr>
@@ -941,6 +947,7 @@ Champ d’application le 11 mai 2020**[^t-2]**
 <tr><td>Kazakhstan</td><td>18 avril</td><td>2016</td><td>18 avril</td><td>2016</td></tr>
 <tr><td>Kirghizistan</td><td>11 avril</td><td>2016</td><td>11 avril</td><td>2016</td></tr>
 <tr><td>Laos</td><td>15 janvier</td><td>2016</td><td>15 janvier</td><td>2016</td></tr>
+<tr><td>Libéria</td><td>4 janvier</td><td>2021 A</td><td>4 janvier</td><td>2021</td></tr>
 <tr><td>Luxembourg</td><td>8 décembre</td><td>2015</td><td>25 décembre</td><td>2015</td></tr>
 <tr><td>Madagascar</td><td>25 juin</td><td>2018 A</td><td>25 juin</td><td>2018</td></tr>
 <tr><td>Malaisie</td><td>27 mars</td><td>2017 A</td><td>27 mars</td><td>2017</td></tr>
@@ -971,6 +978,7 @@ Champ d’application le 11 mai 2020**[^t-2]**
 <tr><td>Suède\*</td><td>23 juin</td><td>2016</td><td>23 juin</td><td>2016</td></tr>
 <tr><td>Suisse\*</td><td>25 avril</td><td>2016</td><td>25 avril</td><td>2016</td></tr>
 <tr><td>Tadjikistan</td><td>16 janvier</td><td>2016</td><td>16 janvier</td><td>2016</td></tr>
+<tr><td>Tonga</td><td>5 janveir</td><td>2021 A</td><td>5 janvier</td><td>2021</td></tr>
 <tr><td>Turquie</td><td>15 janvier</td><td>2016</td><td>15 janvier</td><td>2016</td></tr>
 <tr><td>Thaïlande\*</td><td>20 juin</td><td>2016</td><td>20 juin</td><td>2016</td></tr>
 <tr><td>Timor-Leste</td><td>22 novembre</td><td>2017 A</td><td>22 novembre</td><td>2017</td></tr>
@@ -980,7 +988,7 @@ Champ d’application le 11 mai 2020**[^t-2]**
 <tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2016 2391](https://fedlex.data.admin.ch/eli/oc/2016/389), [2018 35](https://fedlex.data.admin.ch/eli/oc/2018/16)[2789](https://fedlex.data.admin.ch/eli/oc/2018/418), [2020 1881](https://fedlex.data.admin.ch/eli/oc/2020/389). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2016 2391](https://fedlex.data.admin.ch/eli/oc/2016/389), [2018 35](https://fedlex.data.admin.ch/eli/oc/2018/16)[2789](https://fedlex.data.admin.ch/eli/oc/2018/418), [2020 1881](https://fedlex.data.admin.ch/eli/oc/2020/389), [2021 444](https://fedlex.data.admin.ch/eli/oc/2021/444). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: (https://www.fedlex.admin.ch/fr/treaty).
 
 Réserve
 
