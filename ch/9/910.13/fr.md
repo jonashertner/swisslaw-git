@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les paiements directs versés dans l'a
 short: OPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: fr
-version: 2021-01-01
+version: 2021-07-05
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20210101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20210705/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20210705-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210705/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210101/fr"
 
 (Ordonnance sur les paiements directs, OPD)
 
-du 23 octobre 2013 (Etat le 1<sup>er</sup> janvier 2021)
+du 23 octobre 2013 (Etat le 5 juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -2436,7 +2436,7 @@ Annexe 1*[^t-1]*
 <table>
 <tr><td colspan="2">**a.** **Semences de céréales**</td></tr>
 <tr><td>– Pause entre les cultures</td><td>Semences de multiplication des étapes prébase, base et R1: au maximum deux années de culture consécutives.</td></tr>
-<tr><td colspan="2">**b.** **Plants de po****m****mes de terre**</td></tr>
+<tr><td colspan="2">**b.** **Plants de pommes de terre**</td></tr>
 <tr><td>– Protection phytosanitaire</td><td>Utilisation d’aphicides (seulement pour les cultures sous tunnel) et d’huiles autorisée dans les étapes prébase et base, y compris pour la production de plants certifiés de la classe A. Le traitement avec des aphicides (excepté pour les cultures sous tunnel) n’est possible qu’avec une autorisation spéciale délivrée par Agroscope.</td></tr>
 <tr><td colspan="2">**c.** **Semences de maïs**</td></tr>
 <tr><td>– Pause entre les cultures</td><td>Pour les semis sous litière, sous-semis ou prairies à maïs: au maximum cinq années de culture consécutives, ensuite pause de trois ans sans maïs. Autres procédés culturaux: au maximum trois années de culture consécutives, ensuite pause de deux ans sans maïs.</td></tr>
@@ -3046,7 +3046,7 @@ Annexe 6*[^t-5]*
 
 ## Exigences spécifiques relatives aux contributions pour le bien‑être des animaux
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 2 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)[7789](https://fedlex.data.admin.ch/eli/oc/2017/891)). Mise à jour par le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^t-5]: Nouvelle teneur selon le ch. II al. 2 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)[7789](https://fedlex.data.admin.ch/eli/oc/2017/891)). Mise à jour par le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)). Erratum du 5 juil. 2021, ne concerne que le texte italien ([RO 2021 416](https://fedlex.data.admin.ch/eli/oc/2021/416)).
 
 ### A Exigences relatives aux contributions SST
 
@@ -3625,7 +3625,7 @@ Annexe 7*[^t-7]*
 <tr><td>*10.* *Surfaces viticoles présentant une biodiversité naturelle*</td><td>–</td><td colspan="2">1100</td></tr>
 <tr><td>*11.* *Prairies riveraines d’un cours d’eau*</td><td>450</td><td colspan="2"></td></tr>
 <tr><td>*12.* *Surfaces herbagères et surfaces à litière riches en espèces dans la région d’estivage*</td><td>–</td><td colspan="2">150, mais au max 300 par PN</td></tr>
-<tr><td>*13.* *Surface de promotion de la biodiversité spécif**i**que de la région*</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>*13.* *Surface de promotion de la biodiversité spécifique de la région*</td><td>–</td><td colspan="2">–</td></tr>
 <tr><td>*14.* *Bandes fleuries pour les pollinisateurs et les autres organismes utiles*</td><td>2500</td><td colspan="2"></td></tr>
 </table>
 

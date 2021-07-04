@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Oktober 2013 über die Direktzahlungen an die Landwir
 short: DZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: de
-version: 2021-01-01
+version: 2021-07-05
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20210101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20210705/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20210705-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210705/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210101/de"
 
 (Direktzahlungsverordnung, DZV)
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2021) (Stand am 1. Januar 2021)
+vom 23. Oktober 2013 (Stand am 5. Juli 2021) (Stand am 5. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -329,7 +329,7 @@ Verbindlich ausgeschieden sind Flächen, wenn:
 
 <sup>5</sup> Von den Anwendungsvorschriften nach Anhang 1 Ziffern 6.2 und 6.3 ausgenommen sind Flächen, die zu Versuchszwecken angebaut werden. Der Gesuchsteller oder Gesuchstellerin muss eine schriftliche Vereinbarung mit dem Bewirtschafter oder der Bewirtschafterin abschliessen und diese zusammen mit dem Versuchsbeschrieb der kantonalen Fachstelle für Pflanzenschutz zustellen.
 
-[^18-1]: SR **916****.****161**
+[^18-1]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
 
 #### Art. 19
 
@@ -836,9 +836,9 @@ Biodiversitätsbeiträge werden pro Hektare für folgende eigene oder gepachtete
 - p. regionsspezifische Biodiversitätsförderflächen;
 - q.[^55-4] Blühstreifen für Bestäuber und andere Nützlinge.
 
-<sup>1bis</sup>
+<sup>1b</sup>
 
-Biodiversitätsbeiträge werden pro Baum für folgende eigene oder gepachtete Bäume gewährt:[^55-5]
+<sup>is</sup> Biodiversitätsbeiträge werden pro Baum für folgende eigene oder gepachtete Bäume gewährt:[^55-5]
 
 - a. Hochstamm-Feldobstbäume;
 - b. einheimische standortgerechte Einzelbäume und Alleen.[^55-6]
@@ -872,7 +872,7 @@ Für folgende Flächen werden die Beiträge nur in folgenden Zonen oder Gebieten
 [^55-7]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 [^55-8]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 [^55-9]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^55-10]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 (AS **2****017** 6033).
+[^55-10]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 [^55-11]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 
 ### 2. Abschnitt: Qualitätsbeitrag für die Biodiversität
@@ -1154,7 +1154,7 @@ Die Anforderungen nach Absatz 1 sind pro Kultur auf dem Betrieb gesamthaft zu er
 [^69-3]: Aufgehoben durch Ziff. I der V vom 16. Sept. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 [^69-4]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
 [^69-5]: Die Liste ist einsehbar unter www.swissgranum.ch.
-[^69-6]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 (AS **20****16** 3291).
+[^69-6]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 [^69-7]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
 [^69-8]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 
@@ -1322,7 +1322,7 @@ Als besonders tierfreundliche Stallhaltungssysteme gelten ganz oder teilweise ge
 <sup>4</sup> Für die Tierkategorie nach Artikel 73 Buchstabe g Ziffer 4 wird der RAUS-Beitrag nur ausgerichtet, wenn alle Tiere während mindestens 56 Tagen gemästet werden.
 
 [^75-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^75-2]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 (AS **201****8** 4149).
+[^75-2]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
 
 #### Art. 76
 
@@ -1519,7 +1519,7 @@ Für die Ausrüstung von vorhandenen und neu angeschafften Feld- und Gebläsespr
 <sup>2</sup> Die Beiträge werden bis 2022 ausgerichtet.[^82b-2]
 
 [^82b-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^82b-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 (AS **2****020** 5449).
+[^82b-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 
 #### Art. 82c
 
@@ -1562,7 +1562,7 @@ Der Beitrag für die Reduktion von Pflanzenschutzmitteln im Rebbau wird ausgeric
 
 <sup>4</sup> Die Beiträge werden bis 2022 ausgerichtet.[^82d-2]
 
-[^82d-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^82d-1]: SR **91****0.91**
 [^82d-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 
 #### Art. 82e
@@ -1901,7 +1901,7 @@ Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahl
 <sup>3</sup> und <sup>4 ...</sup> [^102-2]
 
 [^102-1]: [SR 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
-[^102-2]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 (AS **201****8** 4149).
+[^102-2]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
 
 #### Art. 103
 
@@ -1951,7 +1951,7 @@ Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahl
 <sup>2</sup> ...[^105-2]
 
 [^105-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^105-2]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 (AS **20****15** 4497).
+[^105-2]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 
 #### Art. 106
 
@@ -2112,9 +2112,9 @@ Die Kantone erfassen die Flächen und deren Nutzung sowie die übrigen notwendig
 
 <sup>17</sup> Solange ein Bewirtschafter oder eine Bewirtschafterin, Direktzahlungen im Rahmen eines Ressourcenprogrammes nach den Artikeln Artikel 77*a* und 77*b* LwG erhält, werden für dieselbe Massnahme keine Ressourceneffizienzbeiträge nach den Artikeln 77–81 ausgerichtet.
 
-[^115-1]: [[AS 1999 229](https://fedlex.data.admin.ch/eli/oc/1999/29), [2000 1105](https://fedlex.data.admin.ch/eli/oc/2000/175)Art. 20 Ziff. 2, [2001 232](https://fedlex.data.admin.ch/eli/oc/2001/48)[1310](https://fedlex.data.admin.ch/eli/oc/2001/179)Art. 22 Ziff. 1 [3539](https://fedlex.data.admin.ch/eli/oc/2001/525), [2003 1998](https://fedlex.data.admin.ch/eli/oc/2003/301)[5321](https://fedlex.data.admin.ch/eli/oc/2003/777), [2006 883](https://fedlex.data.admin.ch/eli/oc/2006/153)[4827](https://fedlex.data.admin.ch/eli/oc/2006/744), [2007 6117](https://fedlex.data.admin.ch/eli/oc/2007/817), [2008 3777](https://fedlex.data.admin.ch/eli/oc/2008/511)[5819](https://fedlex.data.admin.ch/eli/oc/2008/800), [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)[6091](https://fedlex.data.admin.ch/eli/oc/2009/745), [2010 2319](https://fedlex.data.admin.ch/eli/oc/2010/335)[5855](https://fedlex.data.admin.ch/eli/oc/2010/835), **201****1** 2361 5295 5297 Anhang 2 Ziff. 3 5453 Anhang 2 Ziff. 3, [2013 1729](https://fedlex.data.admin.ch/eli/oc/2013/394)]
+[^115-1]: [[AS 1999 229](https://fedlex.data.admin.ch/eli/oc/1999/29), [2000 1105](https://fedlex.data.admin.ch/eli/oc/2000/175)Art. 20 Ziff. 2, [2001 232](https://fedlex.data.admin.ch/eli/oc/2001/48)[1310](https://fedlex.data.admin.ch/eli/oc/2001/179)Art. 22 Ziff. 1 [3539](https://fedlex.data.admin.ch/eli/oc/2001/525), **2****003** 1998 5321, [2006 883](https://fedlex.data.admin.ch/eli/oc/2006/153)[4827](https://fedlex.data.admin.ch/eli/oc/2006/744), [2007 6117](https://fedlex.data.admin.ch/eli/oc/2007/817), [2008 3777](https://fedlex.data.admin.ch/eli/oc/2008/511)[5819](https://fedlex.data.admin.ch/eli/oc/2008/800), [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)[6091](https://fedlex.data.admin.ch/eli/oc/2009/745), [2010 2319](https://fedlex.data.admin.ch/eli/oc/2010/335)[5855](https://fedlex.data.admin.ch/eli/oc/2010/835), [2011 2361](https://fedlex.data.admin.ch/eli/oc/2011/337)[5295](https://fedlex.data.admin.ch/eli/oc/2011/765)[5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 3 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. 3, [2013 1729](https://fedlex.data.admin.ch/eli/oc/2013/394)]
 [^115-2]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^115-3]: Aufgehoben durch Ziff. I der V vom 16. Sept. 2016, mit Wirkung seit 1. Jan. 2017 (AS **2****016** 3291).
+[^115-3]: Aufgehoben durch Ziff. I der V vom 16. Sept. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 
 #### Art. 115a
 
@@ -2155,7 +2155,7 @@ Für die Berechnung der linearen Korrektur gemäss Zusatzmodul 6 und der Import/
 <sup>5</sup> In den Jahren 2018 und 2019 kann der Bewirtschafter oder die Bewirtschafterin bei der vom zuständigen Kanton bezeichneten Stelle jeweils bis zum 1. Mai, beim Sömmerungs- oder Gemeinschaftsweidebetrieb bis zum 15. November, schriftlich oder elektronisch melden, wenn der effektiv auf dem Betrieb gehaltene massgebende Bestand an Tieren der Pferdegattung von dem nach Artikel 36 Absätze 2 Buchstabe a und 3 erhobenen Bestand abweicht. Die vom zuständigen Kanton bezeichnete Stelle korrigiert den Bestand entsprechend der Meldung oder stellt eine elektronische Korrekturmöglichkeit zur Verfügung.
 
 [^115c-1]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017, Abs. 5 in Kraft seit 1. Jan. 2018 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^115c-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^115c-2]: SR **510****.****620**
 
 #### Art. 115d
 
@@ -2233,7 +2233,7 @@ Anhang 1*[^t-1]*
 
 ## Ökologischer Leistungsnachweis
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) und vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 (AS **2****017** 6033), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) und vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 
 ### 1 Aufzeichnungen
 
@@ -2749,7 +2749,7 @@ Anhang 4*[^t-3]*
 - 9\.1.3 Die Rotationsbrache darf nur zwischen dem 1. Oktober und dem 15. März geschnitten werden. Bei Flächen im Zuströmbereich Z nach Artikel 29 GSchV[^annex4-lvlu1-lvl9-lvl91-1] kann der Kanton einen zusätzlichen Schnitt nach dem 1. Juli bewilligen.
 - 9\.1.4 Die gleiche Parzelle darf nach einer Brache frühestens in der vierten Vegetationsperiode wieder mit einer Brache belegt werden.
 
-[^annex4-lvlu1-lvl9-lvl91-1]: SR **814****.****201**
+[^annex4-lvlu1-lvl9-lvl91-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
 ### 10 Ackerschonstreifen
 
@@ -3050,7 +3050,7 @@ Anhang 6*[^t-5]*
 
 ## Spezifische Anforderungen der Tierwohlbeiträge
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Bereinigt gemäss Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) und vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Bereinigt gemäss Ziff. II der V vom 31. Okt. 2018 (AS **20****18** 4149) und vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)). Die Berichtigung vom 5. Juli 2021 betrifft nur den italienischen Text ([AS 2021 416](https://fedlex.data.admin.ch/eli/oc/2021/416)).
 
 ### A Anforderungen für BTS-Beiträge
 
@@ -3629,7 +3629,7 @@ Anhang 7*[^t-7]*
 <tr><td colspan="2">*4.* *Extensive Weiden und Waldweiden*</td><td>450</td><td colspan="2">700</td></tr>
 <tr><td colspan="2">*5.* *Hecken, Feld- und Ufergehölze*</td><td>2160</td><td colspan="2">2840</td></tr>
 <tr><td colspan="2">*6.* *Buntbrache*</td><td>3800</td><td colspan="2"></td></tr>
-<tr><td colspan="2">*7.* *Rotationsbrache*</td><td>3300</td><td colspan="2"></td></tr>
+<tr><td colspan="2">*7.* *Rotati**onsbrache*</td><td>3300</td><td colspan="2"></td></tr>
 <tr><td colspan="2">*8.* *Ackerschonstreifen*</td><td>2300</td><td colspan="2"></td></tr>
 <tr><td colspan="2">*9.* *Saum auf Ackerfläche*</td><td>3300</td><td colspan="2"></td></tr>
 <tr><td colspan="2">*10.* *Rebflächen mit natürlicher Artenvie**l**falt*</td><td>–</td><td colspan="2">1100</td></tr>
@@ -3837,7 +3837,7 @@ Anhang 8*[^t-8]*
 
 ## Kürzungen der Direktzahlungen
 
-[^t-8]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)) und Ziff. II der V vom 31. Okt. 2018 (AS **2****018** 4149) und vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^t-8]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)) und Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) und vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 
 ### 1 Allgemeines
 

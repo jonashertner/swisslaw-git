@@ -4,11 +4,11 @@ title: "Ordinanza del 23 ottobre 2013 concernente i pagamenti diretti all'agrico
 short: OPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: it
-version: 2021-01-01
+version: 2021-07-05
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2013-765-20210101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20210705/it/xml/fedlex-data-admin-ch-eli-cc-2013-765-20210705-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210705/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20210101/it"
 
 (Ordinanza sui pagamenti diretti, OPD)
 
-del 23 ottobre 2013 (Stato 1° gennaio 2021)
+del 23 ottobre 2013 (Stato 5 luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -3041,7 +3041,7 @@ Allegato 6*[^t-5]*
 
 ## Esigenze specifiche dei contributi per il benessere degli animali
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Aggiornato dai n. II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) e dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Aggiornato dai n. II delle O del 31 ott. 2018 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)). Correzione del 5 lug. 2021 ([RU 2021 416](https://fedlex.data.admin.ch/eli/oc/2021/416)).
 
 ### A Esigenze dei contributi SSRA
 
@@ -3281,7 +3281,7 @@ Allegato 6*[^t-5]*
   - a. dal 1° maggio al 31 ottobre: almeno 26 uscite mensili al pascolo;
   - b. dal 1° novembre al 30 aprile: almeno 13 uscite mensili su una superficie di uscita o al pascolo.
 
-- 2\.2 Agli animali della specie bovina e ai bufali, esclusi le vacche da latte, le altre vacche e gli animali da ingrasso di sesso femminile di età superiore a 160 giorni, in alternativa al numero 2.1 può essere concesso in permanenza un accesso a una superficie di uscita durante tutto l’anno.
+- 2\.2 Agli animali della specie bovina e ai bufali, esclusi le vacche da latte, le altre vacche e gli animali da allevamento di sesso femminile di età superiore a 160 giorni, in alternativa al numero 2.1 può essere concesso in permanenza un accesso a una superficie di uscita durante tutto l’anno.
 - 2\.3
 
   L’accesso al pascolo o alla superficie di uscita può essere limitato nelle seguenti situazioni:
@@ -3497,7 +3497,7 @@ Allegato 7*[^t-7]*
 
 ## Aliquote dei contributi
 
-[^t-7]: Aggiornato dal n. II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), dai n. II delle O del 20 mag. 2015 ([RU 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. I dell’O del 15 feb. 2017 ([RU 2017 691](https://fedlex.data.admin.ch/eli/oc/2017/126)), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)) e dal n. II dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^t-7]: Aggiornato dal n. II cpv. 1 dell’O del 29 ott. 2014 ([RU 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), dai n. II delle O del 20 mag. 2015 ([RU 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), del 28 ott. 2015 ([RU 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), del 16 set. 2016 ([RU 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), dal n. I dell’O del 15 feb. 2017 (RU **2****017** 691), dal n. II cpv. 1 dell’O del 18 ott. 2017 ([RU 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)) e dal n. II dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
 
 ### 1 Contributi per il paesaggio rurale
 
