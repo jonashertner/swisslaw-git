@@ -3,11 +3,11 @@ sr: "0.172.030.4"
 title: "Convention du 5 octobre 1961 supprimant l'exigence de la légalisation des actes publics étrangers (avec annexe et listes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/348_347_349"
 language: fr
-version: 2019-03-31
+version: 2021-07-06
 adopted: 1961-10-05
 in_force: 1973-03-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/348_347_349/20190331/fr/xml/fedlex-data-admin-ch-eli-cc-1973-348_347_349-20190331-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/348_347_349/20190331/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/348_347_349/20210706/fr/xml/fedlex-data-admin-ch-eli-cc-1973-348_347_349-20210706-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/348_347_349/20210706/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 10 janvier 1973
 
 Entrée en vigueur pour la Suisse le 11 mars 1973
 
-(Etat le 31 mars 2019)
+(Etat le 6 juillet 2021)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 27 avr. 1972 ([RO 1973 346](https://fedlex.data.admin.ch/eli/oc/1973/347_346_348))
 
@@ -207,7 +207,7 @@ www.bk.admin.ch/bk/fr/home/Service/legalisations.html
 
 [^annexu1-lvlu3-1]: Cette liste n’est pas publiée au RO ([RO 2011 4609](https://fedlex.data.admin.ch/eli/oc/2011/657)). Consultation en français et en anglais: site Internet de la Conférence de la Haye: http://hcch.e-vision.nl/index\_fr.php?act=conventions.authorities&cid=41. Commande: Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.
 
-Champ d’application le 31 mars 2019**[^t-2]**
+Champ d’application le 6 juillet 2021**[^t-2]**
 
 <table>
 <tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -249,7 +249,7 @@ Champ d’application le 31 mars 2019**[^t-2]**
 <tr><td>El Salvador</td><td>14 septembre</td><td>1995 A</td><td>31 mai</td><td>1996</td></tr>
 <tr><td>Equateur\*</td><td>2 juillet</td><td>2004 A</td><td>2 avril</td><td>2005</td></tr>
 <tr><td>Espagne\*</td><td>27 juillet</td><td>1978</td><td>25 septembre</td><td>1978</td></tr>
-<tr><td>Estonie</td><td>11 décembre</td><td>2000 A</td><td>30 septembre</td><td>2001</td></tr>
+<tr><td>Estonie\*</td><td>11 décembre</td><td>2000 A</td><td>30 septembre</td><td>2001</td></tr>
 <tr><td>Eswatini</td><td>17 juillet</td><td>1978 S</td><td>6 septembre</td><td>1968</td></tr>
 <tr><td>Etats-Unis\*</td><td>24 décembre</td><td>1980 A</td><td>15 octobre</td><td>1981</td></tr>
 <tr><td>Fidji</td><td>29 mars</td><td>1971 S</td><td>10 octobre</td><td>1970</td></tr>
@@ -273,6 +273,7 @@ Champ d’application le 31 mars 2019**[^t-2]**
 <tr><td>Grèce</td><td>19 mars</td><td>1985</td><td>18 mai</td><td>1985</td></tr>
 <tr><td>Grenade</td><td>17 juillet</td><td>2001 A</td><td>7 avril</td><td>2002</td></tr>
 <tr><td>Guatemala\*</td><td>19 janvier</td><td>2017 A</td><td>18 septembre</td><td>2017</td></tr>
+<tr><td>Guyana</td><td>30 juillet</td><td>2018 A</td><td>18 avril</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>20 janvier</td><td>2004 A</td><td>30 septembre</td><td>2004</td></tr>
 <tr><td>Hongrie\*</td><td>18 avril</td><td>1972 A</td><td>18 janvier</td><td>1973</td></tr>
 <tr><td>Iles Cook</td><td>13 juillet</td><td>2004 A</td><td>30 avril</td><td>2005</td></tr>
@@ -282,6 +283,7 @@ Champ d’application le 31 mars 2019**[^t-2]**
 <tr><td>Islande</td><td>28 septembre</td><td>2004</td><td>27 novembre</td><td>2004</td></tr>
 <tr><td>Israël</td><td>11 novembre</td><td>1977 A</td><td>14 août</td><td>1978</td></tr>
 <tr><td>Italie</td><td>13 décembre</td><td>1977</td><td>11 février</td><td>1978</td></tr>
+<tr><td>Jamaïque</td><td>2 novembre</td><td>2020 A</td><td>3 juillet</td><td>2021</td></tr>
 <tr><td>Japon</td><td>28 mai</td><td>1970</td><td>27 juillet</td><td>1970</td></tr>
 <tr><td>Kazakhstan\*</td><td>5 avril</td><td>2000 A</td><td>30 janvier</td><td>2001</td></tr>
 <tr><td>Kirghizistan <sup>i</sup></td><td>15 novembre</td><td>2010 A</td><td>31 juillet</td><td>2011</td></tr>
@@ -290,7 +292,7 @@ Champ d’application le 31 mars 2019**[^t-2]**
 <tr><td>Lettonie</td><td>11 mai</td><td>1995 A</td><td>30 janvier</td><td>1996</td></tr>
 <tr><td>Libéria <sup>k</sup></td><td>24 mai</td><td>1995 A</td><td>8 février</td><td>1996</td></tr>
 <tr><td>Liechtenstein</td><td>19 juillet</td><td>1972</td><td>17 septembre</td><td>1972</td></tr>
-<tr><td>Lituanie</td><td>5 novembre</td><td>1996 A</td><td>19 juillet</td><td>1997</td></tr>
+<tr><td>Lituanie\*</td><td>5 novembre</td><td>1996 A</td><td>19 juillet</td><td>1997</td></tr>
 <tr><td>Luxembourg</td><td>4 avril</td><td>1979</td><td>3 juin</td><td>1979</td></tr>
 <tr><td>Macédoine du Nord</td><td>23 septembre</td><td>1993 S</td><td>17 septembre</td><td>1991</td></tr>
 <tr><td>Malawi</td><td>24 février</td><td>1967 A</td><td>2 décembre</td><td>1967</td></tr>
@@ -307,8 +309,9 @@ Champ d’application le 31 mars 2019**[^t-2]**
 <tr><td>Nioué</td><td>10 juin</td><td>1998 A</td><td>2 mars</td><td>1999</td></tr>
 <tr><td>Norvège</td><td>30 mai</td><td>1983</td><td>29 juillet</td><td>1983</td></tr>
 <tr><td>Nouvelle-Zélande\*</td><td>7 février</td><td>2001 A</td><td>22 novembre</td><td>2001</td></tr>
-<tr><td>Oman</td><td>12 mai</td><td>2011 A</td><td>30 janvier</td><td>2012</td></tr>
+<tr><td>Oman\*</td><td>12 mai</td><td>2011 A</td><td>30 janvier</td><td>2012</td></tr>
 <tr><td>Ouzbékistan <sup>o</sup></td><td>25 juillet</td><td>2011 A</td><td>15 avril</td><td>2012</td></tr>
+<tr><td>Palaos</td><td>17 octobre</td><td>2019 A</td><td>23 juin</td><td>2020</td></tr>
 <tr><td>Panama</td><td>30 octobre</td><td>1990 A</td><td>4 août</td><td>1991</td></tr>
 <tr><td>Paraguay <sup>p</sup></td><td>10 décembre</td><td>2013 A</td><td>30 août</td><td>2014</td></tr>
 <tr><td>Pays-Bas</td><td>9 août</td><td>1965</td><td>8 octobre</td><td>1965</td></tr>
@@ -390,7 +393,7 @@ Champ d’application le 31 mars 2019**[^t-2]**
 <tr><td colspan="5"><sup>v</sup> L’adhésion des Philippines n’a pas été acceptée par l’Allemagne, l’Autriche, la Finlande et la Grèce</td></tr>
 </table>
 
-[^t-2]: RO **1973** 352, [1976 477](https://fedlex.data.admin.ch/eli/oc/1976/477_477_477),[1977 765](https://fedlex.data.admin.ch/eli/oc/1977/765_765_765), [1978 210](https://fedlex.data.admin.ch/eli/oc/1978/210_210_210)[1718](https://fedlex.data.admin.ch/eli/oc/1978/1718_1718_1718), [1980 669](https://fedlex.data.admin.ch/eli/oc/1980/669_669_669), [1982 154](https://fedlex.data.admin.ch/eli/oc/1982/154_154_154), [1983 1175](https://fedlex.data.admin.ch/eli/oc/1983/1175_1175_1175), [1986 175](https://fedlex.data.admin.ch/eli/oc/1986/175_175_175), [1987 317](https://fedlex.data.admin.ch/eli/oc/1987/317_317_317), [1988 1177](https://fedlex.data.admin.ch/eli/oc/1988/1177_1177_1177), [1993 973](https://fedlex.data.admin.ch/eli/oc/1993/973_973_973), [1998 2318](https://fedlex.data.admin.ch/eli/oc/1998/2318_2318_2318), [2003 2401](https://fedlex.data.admin.ch/eli/oc/2003/346), [2006 619](https://fedlex.data.admin.ch/eli/oc/2006/87), [2007 3345](https://fedlex.data.admin.ch/eli/oc/2007/404), [2010 783](https://fedlex.data.admin.ch/eli/oc/2010/119), [2011 4609](https://fedlex.data.admin.ch/eli/oc/2011/657)**,** [2013 1235](https://fedlex.data.admin.ch/eli/oc/2013/271), [2015 2121](https://fedlex.data.admin.ch/eli/oc/2015/391), [2016 2615](https://fedlex.data.admin.ch/eli/oc/2016/410), [2018 1257](https://fedlex.data.admin.ch/eli/oc/2018/205), [2019 1135](https://fedlex.data.admin.ch/eli/oc/2019/215). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: La présente publication complète celles qui figurent au [RO 1973 347](https://fedlex.data.admin.ch/eli/oc/1973/348_347_349); [1976 477](https://fedlex.data.admin.ch/eli/oc/1976/477_477_477); [1977 765](https://fedlex.data.admin.ch/eli/oc/1977/765_765_765); [1978 210](https://fedlex.data.admin.ch/eli/oc/1978/210_210_210), [1718](https://fedlex.data.admin.ch/eli/oc/1978/1718_1718_1718); [1980 669](https://fedlex.data.admin.ch/eli/oc/1980/669_669_669); [1982 154](https://fedlex.data.admin.ch/eli/oc/1982/154_154_154); [1983 1175](https://fedlex.data.admin.ch/eli/oc/1983/1175_1175_1175); [1986 175](https://fedlex.data.admin.ch/eli/oc/1986/175_175_175); [1987 317](https://fedlex.data.admin.ch/eli/oc/1987/317_317_317); [1988 1177](https://fedlex.data.admin.ch/eli/oc/1988/1177_1177_1177); [1993 973](https://fedlex.data.admin.ch/eli/oc/1993/973_973_973); [1998 2318](https://fedlex.data.admin.ch/eli/oc/1998/2318_2318_2318); [2003 2401](https://fedlex.data.admin.ch/eli/oc/2003/346); [2006 619](https://fedlex.data.admin.ch/eli/oc/2006/87); [2007 3345](https://fedlex.data.admin.ch/eli/oc/2007/404); [2010 783](https://fedlex.data.admin.ch/eli/oc/2010/119); [2011 4609](https://fedlex.data.admin.ch/eli/oc/2011/657); [2013 1235](https://fedlex.data.admin.ch/eli/oc/2013/271); [2015 2121](https://fedlex.data.admin.ch/eli/oc/2015/391); [2016 2615](https://fedlex.data.admin.ch/eli/oc/2016/410); [2018 1257](https://fedlex.data.admin.ch/eli/oc/2018/205); [2019 1135](https://fedlex.data.admin.ch/eli/oc/2019/215); [2021 443](https://fedlex.data.admin.ch/eli/oc/2021/443). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty.
 
 Déclaration
 

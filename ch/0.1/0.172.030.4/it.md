@@ -3,11 +3,11 @@ sr: "0.172.030.4"
 title: Convenzione del 5 ottobre 1961 che sopprime la legalizzazione degli atti pubblici esteri (con. all. e elenchi)
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/348_347_349"
 language: it
-version: 2019-03-31
+version: 2021-07-06
 adopted: 1961-10-05
 in_force: 1973-03-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/348_347_349/20190331/it/xml/fedlex-data-admin-ch-eli-cc-1973-348_347_349-20190331-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/348_347_349/20190331/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/348_347_349/20210706/it/xml/fedlex-data-admin-ch-eli-cc-1973-348_347_349-20210706-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/348_347_349/20210706/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **197**3 349; FF **1971** II 163
 
 Traduzione
 
-Conchiusa all’Aia il 5 ottobre 1961
+Conchiusa all’Aia il 5 ottobre 1961 Approvata dall’Assemblea federale il 27 aprile 1972[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 10 gennaio 1973 Entrata in vigore per la Svizzera l’11 marzo 1973
 
-Approvata dall’Assemblea federale il 27 aprile 1972[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 10 gennaio 1973
-
-Entrata in vigore per la Svizzera l’11 marzo 1973
-
-(Stato 31 marzo 2019)
+(Stato 6 luglio 2021)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 27 apr. 1972 ([RU 1973 348](https://fedlex.data.admin.ch/eli/oc/1973/347_346_348)).
 
@@ -113,7 +107,7 @@ La Convenzione entrerà in vigore, per ogni Stato firmatario che posteriormente 
 
 #### Art. 12
 
-Ogni Stato non indicato dall’articolo lo potrà aderire alla presente Convenzione dopo la sua entrata in vigore in virtù dell’articolo 11 capoverso 1; lo strumento d’adesione dovrà essere depositato presso il Ministero degli Affari Esteri dei Paesi Bassi.
+Ogni Stato non indicato dall’articolo 10 potrà aderire alla presente Convenzione dopo la sua entrata in vigore in virtù dell’articolo 11 capoverso 1; lo strumento d’adesione dovrà essere depositato presso il Ministero degli Affari Esteri dei Paesi Bassi.
 
 Nondimeno l’adesione avrà effetto solo rispetto agli Stati contraenti che non l’avranno impugnata entro sei mesi dalla ricezione della notifica prevista nell’articolo 15 lettera d). Una tale impugnazione dovrà essere notificata al Ministero degli Affari Esteri dei Paesi Bassi. La Convenzione entrerà in vigore, tra lo Stato aderente e gli Stati che non avranno impugnato l’adesione, il sessantesimo giorno dopo lo scadere dei sei mesi menzionati nel capoverso precedente.
 
@@ -148,7 +142,7 @@ Il Ministero degli Affari Esteri dei Paesi Bassi notificherà agli Stati di cui 
 - e) le estensioni di cui all’articolo 13 e la data dell’effetto;
 - f) le disdette di cui all’articolo 14 capoverso 3.
 
-*In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto all’Aia, il 5 ottobre 1961 in francese ed inglese, il testo francese essendo poziore per le divergenze, in un solo esemplare che sarà depositato presso gli archivi del Governo dei Paesi Bassi e di cui una copia, certificata conforme, sarà consegnata per via diplomatica a ciascuno degli Stati rappresentati alla Nona sessione della Conferenza dell’Aia di diritto internazionale privato, nonché all’Irlanda, all’Islanda, al Liechtenstein e alla Turchia. (Seguono le firme)
+*In fede di ch**e*, i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto all’Aia, il 5 ottobre 1961 in francese ed inglese, il testo francese essendo poziore per le divergenze, in un solo esemplare che sarà depositato presso gli archivi del Governo dei Paesi Bassi e di cui una copia, certificata conforme, sarà consegnata per via diplomatica a ciascuno degli Stati rappresentati alla Nona sessione della Conferenza dell’Aia di diritto internazionale privato, nonché all’Irlanda, all’Islanda, al Liechtenstein e alla Turchia. (Seguono le firme)
 
 Allegato
 
@@ -200,7 +194,7 @@ www.bk.admin.ch/bk/it/home/service/legalizzazioni.html
 
 [^annexu1-lvlu2-lvlB-lvlu1-1]: L’elenco delle autorità estere non è pubblicato nella RU ([RU 2011 4609](https://fedlex.data.admin.ch/eli/oc/2011/657)). Gli elenchi in francese ed inglese si possono consultare sul sito Internet della Conferenza dell’Aja: http://hcch.e-vision.nl/index\_fr.php?act=conventions.authorities&cid=41 od ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.
 
-Campo d’applicazione il 31 marzo 2019**[^t-2]**
+Campo d’applicazione il 6 luglio 2021**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -241,7 +235,7 @@ Campo d’applicazione il 31 marzo 2019**[^t-2]**
 <tr><td>Dominicana, Repubblica <sup>g</sup></td><td>12 dicembre</td><td>2008 A</td><td>30 agosto</td><td>2009</td></tr>
 <tr><td>Ecuador<sup>\*</sup></td><td>2 luglio</td><td>2004 A</td><td>2 aprile</td><td>2005</td></tr>
 <tr><td>El Salvador</td><td>14 settembre</td><td>1995 A</td><td>31 maggio</td><td>1996</td></tr>
-<tr><td>Estonia</td><td>11 dicembre</td><td>2000 A</td><td>30 settembre</td><td>2001</td></tr>
+<tr><td>Estonia\*</td><td>11 dicembre</td><td>2000 A</td><td>30 settembre</td><td>2001</td></tr>
 <tr><td>Eswatini</td><td>17 luglio</td><td>1978 S</td><td>6 settembre</td><td>1968</td></tr>
 <tr><td>Figi</td><td>29 marzo</td><td>1971 S</td><td>10 ottobre</td><td>1970</td></tr>
 <tr><td>Filippine <sup>h</sup> <sup>\*</sup></td><td>12 settembre</td><td>2018 A</td><td>14 maggio</td><td>2019</td></tr>
@@ -263,10 +257,12 @@ Campo d’applicazione il 31 marzo 2019**[^t-2]**
 <tr><td>Territori della Costa francese dei Somali (anche territori francesi degli Afari e degli Issa o Gibuti) <sup>i</sup></td><td>25 novembre</td><td>1964 A</td><td>24 gennaio</td><td>1965</td></tr>
 <tr><td>Georgia<sup>\*</sup></td><td>21 agosto</td><td>2006 A</td><td>14 maggio</td><td>2007</td></tr>
 <tr><td>Germania<sup>\*</sup></td><td>15 dicembre</td><td>1965</td><td>13 febbraio</td><td>1966</td></tr>
+<tr><td>Giamaica</td><td>2 novembre</td><td>2020 A</td><td>3 luglio</td><td>2021</td></tr>
 <tr><td>Giappone</td><td>28 maggio</td><td>1970</td><td>27 luglio</td><td>1970</td></tr>
 <tr><td>Grecia</td><td>19 marzo</td><td>1985</td><td>18 maggio</td><td>1985</td></tr>
 <tr><td>Grenada</td><td>17 luglio</td><td>2001 A</td><td>7 aprile</td><td>2002</td></tr>
 <tr><td>Guatemala<sup>\*</sup></td><td>19 gennaio</td><td>2017 A</td><td>18 settembre</td><td>2017</td></tr>
+<tr><td>Guyana</td><td>30 luglio</td><td>2018 A</td><td>18 aprile</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>20 gennaio</td><td>2004 A</td><td>30 settembre</td><td>2004</td></tr>
 <tr><td>India <sup>j</sup></td><td>26 ottobre</td><td>2004 A</td><td>14 luglio</td><td>2005</td></tr>
 <tr><td>Irlanda</td><td>8 gennaio</td><td>1999</td><td>9 marzo</td><td>1999</td></tr>
@@ -282,7 +278,7 @@ Campo d’applicazione il 31 marzo 2019**[^t-2]**
 <tr><td>Lettonia</td><td>11 maggio</td><td>1995 A</td><td>30 gennaio</td><td>1996</td></tr>
 <tr><td>Liberia <sup>m</sup></td><td>24 maggio</td><td>1995 A</td><td>8 febbraio</td><td>1996</td></tr>
 <tr><td>Liechtenstein</td><td>19 luglio</td><td>1972</td><td>17 settembre</td><td>1972</td></tr>
-<tr><td>Lituania</td><td>5 novembre</td><td>1996 A</td><td>19 luglio</td><td>1997</td></tr>
+<tr><td>Lituania\*</td><td>5 novembre</td><td>1996 A</td><td>19 luglio</td><td>1997</td></tr>
 <tr><td>Lussemburgo</td><td>4 aprile</td><td>1979</td><td>3 giugno</td><td>1979</td></tr>
 <tr><td>Macedonia del Nord</td><td>23 settembre</td><td>1993 S</td><td>17 settembre</td><td>1991</td></tr>
 <tr><td>Malawi</td><td>24 febbraio</td><td>1967 A</td><td>2 dicembre</td><td>1967</td></tr>
@@ -299,12 +295,13 @@ Campo d’applicazione il 31 marzo 2019**[^t-2]**
 <tr><td>Niue</td><td>10 giugno</td><td>1998 A</td><td>2 marzo</td><td>1999</td></tr>
 <tr><td>Norvegia</td><td>30 maggio</td><td>1983</td><td>29 luglio</td><td>1983</td></tr>
 <tr><td>Nuova Zelanda<sup>\*</sup></td><td>7 febbraio</td><td>2001 A</td><td>22 novembre</td><td>2001</td></tr>
-<tr><td>Oman</td><td>12 maggio</td><td>2011 A</td><td>30 gennaio</td><td>2012</td></tr>
+<tr><td>Oman\*</td><td>12 maggio</td><td>2011 A</td><td>30 gennaio</td><td>2012</td></tr>
 <tr><td>Paesi Bassi</td><td>9 agosto</td><td>1965</td><td>8 ottobre</td><td>1965</td></tr>
 <tr><td>Aruba</td><td>1° marzo</td><td>1967 A</td><td>30 aprile</td><td>1967</td></tr>
 <tr><td>Curaçao</td><td>1° marzo</td><td>1967 A</td><td>30 aprile</td><td>1967</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>1° marzo</td><td>1967 A</td><td>30 aprile</td><td>1967</td></tr>
 <tr><td>Sint Maarten</td><td>1° marzo</td><td>1967 A</td><td>30 aprile</td><td>1967</td></tr>
+<tr><td>Palau</td><td>17 ottobre</td><td>2019 A</td><td>23 giugno</td><td>2020</td></tr>
 <tr><td>Panama</td><td>30 ottobre</td><td>1990 A</td><td>4 agosto</td><td>1991</td></tr>
 <tr><td>Paraguay <sup>q</sup></td><td>10 dicembre</td><td>2013 A</td><td>30 agosto</td><td>2014</td></tr>
 <tr><td>Perù <sup>r</sup></td><td>13 gennaio</td><td>2010 A</td><td>30 settembre</td><td>2010</td></tr>
@@ -358,7 +355,7 @@ Campo d’applicazione il 31 marzo 2019**[^t-2]**
 <tr><td>Uzbekistan <sup>v</sup></td><td>25 luglio</td><td>2011 A</td><td>15 aprile</td><td>2012</td></tr>
 <tr><td>Vanuatu</td><td>1° agosto</td><td>2008 S</td><td>30 luglio</td><td>1980</td></tr>
 <tr><td>Venezuela</td><td>1° luglio</td><td>1998 A</td><td>16 marzo</td><td>1999</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazione, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet della Conferenza dell’Aja www.hcch.net/fr/instruments/conventions oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet https://www.hcch.net/fr/instruments/conventions oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> L’adesione dell’Albania non è stata accettata dalla Grecia.</td></tr>
 <tr><td colspan="5"><sup>b</sup> L’adesione dell’Azerbaigian non è stata accettata dalla Germania.</td></tr>
 <tr><td colspan="5"><sup>c</sup> L’adesione del Burundi non è stata accettata dalla Germania, dall’Austria, dalla Polonia e dalla Repubblica Ceca.</td></tr>
@@ -383,7 +380,7 @@ Campo d’applicazione il 31 marzo 2019**[^t-2]**
 <tr><td colspan="5"><sup>v</sup> L’adesione dell’Uzbekistan non è stata accettata dal Belgio, dalla Germania, dall’Austria e dalla Grecia.</td></tr>
 </table>
 
-[^t-2]: [RU 1973 349](https://fedlex.data.admin.ch/eli/oc/1973/348_347_349), [1976 477](https://fedlex.data.admin.ch/eli/oc/1976/477_477_477), [1977 765](https://fedlex.data.admin.ch/eli/oc/1977/765_765_765), [1978 210](https://fedlex.data.admin.ch/eli/oc/1978/210_210_210)[1718](https://fedlex.data.admin.ch/eli/oc/1978/1718_1718_1718), [1980 669](https://fedlex.data.admin.ch/eli/oc/1980/669_669_669), [1982 154](https://fedlex.data.admin.ch/eli/oc/1982/154_154_154), [1983 1175](https://fedlex.data.admin.ch/eli/oc/1983/1175_1175_1175), [1986 175](https://fedlex.data.admin.ch/eli/oc/1986/175_175_175), [1987 317](https://fedlex.data.admin.ch/eli/oc/1987/317_317_317), [1988 1177](https://fedlex.data.admin.ch/eli/oc/1988/1177_1177_1177), [1993 973](https://fedlex.data.admin.ch/eli/oc/1993/973_973_973), [1998 2318](https://fedlex.data.admin.ch/eli/oc/1998/2318_2318_2318), [2003 2401](https://fedlex.data.admin.ch/eli/oc/2003/346), [2006 619](https://fedlex.data.admin.ch/eli/oc/2006/87), [2007 3345](https://fedlex.data.admin.ch/eli/oc/2007/404), [2010 783](https://fedlex.data.admin.ch/eli/oc/2010/119), [2011 4609](https://fedlex.data.admin.ch/eli/oc/2011/657), [2013 1235](https://fedlex.data.admin.ch/eli/oc/2013/271), [2015 2121](https://fedlex.data.admin.ch/eli/oc/2015/391), [2016 2615](https://fedlex.data.admin.ch/eli/oc/2016/410), [2018 1257](https://fedlex.data.admin.ch/eli/oc/2018/205), [2019 1135](https://fedlex.data.admin.ch/eli/oc/2019/215). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1973 349](https://fedlex.data.admin.ch/eli/oc/1973/348_347_349); [1976 477](https://fedlex.data.admin.ch/eli/oc/1976/477_477_477); [1977 765](https://fedlex.data.admin.ch/eli/oc/1977/765_765_765); [1978 210](https://fedlex.data.admin.ch/eli/oc/1978/210_210_210), [1718](https://fedlex.data.admin.ch/eli/oc/1978/1718_1718_1718); [1980 669](https://fedlex.data.admin.ch/eli/oc/1980/669_669_669); [1982 154](https://fedlex.data.admin.ch/eli/oc/1982/154_154_154); [1983 1175](https://fedlex.data.admin.ch/eli/oc/1983/1175_1175_1175); [1986 175](https://fedlex.data.admin.ch/eli/oc/1986/175_175_175); [1987 317](https://fedlex.data.admin.ch/eli/oc/1987/317_317_317); [1988 1177](https://fedlex.data.admin.ch/eli/oc/1988/1177_1177_1177); **1****993** 973; [1998 2318](https://fedlex.data.admin.ch/eli/oc/1998/2318_2318_2318); [2003 2401](https://fedlex.data.admin.ch/eli/oc/2003/346); [2006 619](https://fedlex.data.admin.ch/eli/oc/2006/87); [2007 3345](https://fedlex.data.admin.ch/eli/oc/2007/404); [2010 783](https://fedlex.data.admin.ch/eli/oc/2010/119); [2011 4609](https://fedlex.data.admin.ch/eli/oc/2011/657); [2013 1235](https://fedlex.data.admin.ch/eli/oc/2013/271); [2015 2121](https://fedlex.data.admin.ch/eli/oc/2015/391); [2016 2615](https://fedlex.data.admin.ch/eli/oc/2016/410); [2018 1257](https://fedlex.data.admin.ch/eli/oc/2018/205); [2019 1135](https://fedlex.data.admin.ch/eli/oc/2019/215)e [2021 443](https://fedlex.data.admin.ch/eli/oc/2021/443). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.
 
 Dichiarazione
 

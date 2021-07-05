@@ -3,11 +3,11 @@ sr: "0.172.030.4"
 title: Übereinkommen vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Beglaubigung (mit Anlage und Verzeichnissen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/348_347_349"
 language: de
-version: 2019-03-31
+version: 2021-07-06
 adopted: 1961-10-05
 in_force: 1973-03-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/348_347_349/20190331/de/xml/fedlex-data-admin-ch-eli-cc-1973-348_347_349-20190331-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/348_347_349/20190331/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/348_347_349/20210706/de/xml/fedlex-data-admin-ch-eli-cc-1973-348_347_349-20210706-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/348_347_349/20210706/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1973** 348; BBl **1971** II 405
 
 Abgeschlossen in Den Haag am 5. Oktober 1961 Von der Bundesversammlung genehmigt am 27. April 1972[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 10. Januar 1973 In Kraft getreten für die Schweiz am 11. März 1973
 
-(Stand am 31. März 2019)
+(Stand am 6. Juli 2021)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 27. April 1972 ([AS 1973 347](https://fedlex.data.admin.ch/eli/oc/1973/347_346_348))
 
@@ -197,7 +197,7 @@ www.bk.admin.ch/bk/de/home/service/legalisationen.html
 
 [^annexu1-lvlu3-1]: Die Übersicht über die ausländischen Behörden wird weder in der AS noch der SR veröffentlicht (s. [AS 2011 4609](https://fedlex.data.admin.ch/eli/oc/2011/657)). Die französische und englische Übersicht kann auf der Internetseite der Haager Konferenz: http://hcch.e-vision.nl/index\_fr.php?act=conventions.authorities&cid=41 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.
 
-Geltungsbereich am 31. März 2019**[^t-2]**
+Geltungsbereich am 6. Juli 2021**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -233,7 +233,7 @@ Geltungsbereich am 31. März 2019**[^t-2]**
 <tr><td>Dominikanische Republik <sup>g</sup></td><td>12. Dezember</td><td>2008 B</td><td>30. August</td><td>2009</td></tr>
 <tr><td>Ecuador\*</td><td>2. Juli</td><td>2004 B</td><td>2. April</td><td>2005</td></tr>
 <tr><td>El Salvador</td><td>14. September</td><td>1995 B</td><td>31. Mai</td><td>1996</td></tr>
-<tr><td>Estland</td><td>11. Dezember</td><td>2000 B</td><td>30. September</td><td>2001</td></tr>
+<tr><td>Estland\*</td><td>11. Dezember</td><td>2000 B</td><td>30. September</td><td>2001</td></tr>
 <tr><td>Eswatini</td><td>17. Juli</td><td>1978 N</td><td>6. September</td><td>1968</td></tr>
 <tr><td>Fidschi</td><td>29. März</td><td>1971 N</td><td>10. Oktober</td><td>1970</td></tr>
 <tr><td>Finnland\*</td><td>27. Juni</td><td>1985</td><td>26. August</td><td>1985</td></tr>
@@ -256,12 +256,14 @@ Geltungsbereich am 31. März 2019**[^t-2]**
 <tr><td>Grenada</td><td>17. Juli</td><td>2001 B</td><td>7. April</td><td>2002</td></tr>
 <tr><td>Griechenland</td><td>19. März</td><td>1985</td><td>18. Mai</td><td>1985</td></tr>
 <tr><td>Guatemala\*</td><td>19. Januar</td><td>2017 B</td><td>18. September</td><td>2017</td></tr>
+<tr><td>Guyana</td><td>30. Juli</td><td>2018 B</td><td>18. April</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>20. Januar</td><td>2004 B</td><td>30. September</td><td>2004</td></tr>
 <tr><td>Indien <sup>i</sup></td><td>26. Oktober</td><td>2004 B</td><td>14. Juli</td><td>2005</td></tr>
 <tr><td>Irland</td><td>8. Januar</td><td>1999</td><td>9. März</td><td>1999</td></tr>
 <tr><td>Island</td><td>28. September</td><td>2004</td><td>27. November</td><td>2004</td></tr>
 <tr><td>Israel</td><td>11. November</td><td>1977 B</td><td>14. August</td><td>1978</td></tr>
 <tr><td>Italien</td><td>13. Dezember</td><td>1977</td><td>11. Februar</td><td>1978</td></tr>
+<tr><td>Jamaika</td><td>2. November</td><td>2020 B</td><td>3. Juli</td><td>2021</td></tr>
 <tr><td>Japan</td><td>28. Mai</td><td>1970</td><td>27. Juli</td><td>1970</td></tr>
 <tr><td>Kap Verde</td><td>7. Mai</td><td>2009 B</td><td>13. Februar</td><td>2010</td></tr>
 <tr><td>Kasachstan\*</td><td>5. April</td><td>2000 B</td><td>30. Januar</td><td>2001</td></tr>
@@ -274,7 +276,7 @@ Geltungsbereich am 31. März 2019**[^t-2]**
 <tr><td>Lettland</td><td>11. Mai</td><td>1995 B</td><td>30. Januar</td><td>1996</td></tr>
 <tr><td>Liberia <sup>l</sup></td><td>24. Mai</td><td>1995 B</td><td>8. Februar</td><td>1996</td></tr>
 <tr><td>Liechtenstein</td><td>19. Juli</td><td>1972</td><td>17. September</td><td>1972</td></tr>
-<tr><td>Litauen</td><td>5. November</td><td>1996 B</td><td>19. Juli</td><td>1997</td></tr>
+<tr><td>Litauen\*</td><td>5. November</td><td>1996 B</td><td>19. Juli</td><td>1997</td></tr>
 <tr><td>Luxemburg</td><td>4. April</td><td>1979</td><td>3. Juni</td><td>1979</td></tr>
 <tr><td>Malawi</td><td>24. Februar</td><td>1967 B</td><td>2. Dezember</td><td>1967</td></tr>
 <tr><td>Malta</td><td>12. Juni</td><td>1967 B</td><td>3. März</td><td>1968</td></tr>
@@ -297,8 +299,9 @@ Geltungsbereich am 31. März 2019**[^t-2]**
 <tr><td>Niue</td><td>10. Juni</td><td>1998 B</td><td>2. März</td><td>1999</td></tr>
 <tr><td>Nordmazedonien</td><td>23. September</td><td>1993 N</td><td>17. September</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>30. Mai</td><td>1983</td><td>29. Juli</td><td>1983</td></tr>
-<tr><td>Oman</td><td>12. Mai</td><td>2011 B</td><td>30. Januar</td><td>2012</td></tr>
+<tr><td>Oman\*</td><td>12. Mai</td><td>2011 B</td><td>30. Januar</td><td>2012</td></tr>
 <tr><td>Österreich\*</td><td>14. November</td><td>1967</td><td>13. Januar</td><td>1968</td></tr>
+<tr><td>Palau</td><td>17. Oktober</td><td>2019 B</td><td>23. Juni</td><td>2020</td></tr>
 <tr><td>Panama</td><td>30. Oktober</td><td>1990 B</td><td>4. August</td><td>1991</td></tr>
 <tr><td>Paraguay <sup>p</sup></td><td>10. Dezember</td><td>2013 B</td><td>30. August</td><td>2014</td></tr>
 <tr><td>Peru <sup>q</sup></td><td>13. Januar</td><td>2010 B</td><td>30. September</td><td>2010</td></tr>
@@ -361,7 +364,7 @@ Geltungsbereich am 31. März 2019**[^t-2]**
 <tr><td colspan="5"><sup>i</sup> Der Beitritt Indiens wurde durch Deutschland nicht angenommen. <sup>j</sup> Der Beitritt Kirgisistans wurde durch Belgien, Deutschland, Österreich und Griechenland nicht angenommen. <sup>k</sup> Der Beitritt Kosovos wurde durch Deutschland, Argentinien, Armenien, Österreich, Aserbaidschan, Belarus, Brasilien, Chile, China (Hong Kong und Macao), Zypern, Georgien, Griechenland, Indien, Israel, Mauritius, Mexiko, Moldau, Namibia, Nicaragua, Usbekistan, Paraguay, Peru, Polen, Rumänien, Serbien, Slowakei, Ukraine, Venezuela und Vereinigte Staaten nicht angenommen. <sup>l</sup> Der Beitritt Liberias wurde durch Belgien und Deutschland nicht angenommen. <sup>m</sup> Der Beitritt Marokkos wurde durch Deutschland nicht angenommen. <sup>n</sup> Der Beitritt Moldaus wurde durch Deutschland nicht angenommen. <sup>o</sup> Der Beitritt der Mongolei wurde durch Österreich, Belgien, Deutschland, Finnland und Griechenland nicht angenommen. <sup>p</sup> Der Beitritt Paraguays wurde durch Deutschland nicht angenommen. <sup>q</sup> Der Beitritt Perus wurde durch Griechenland nicht angenommen. <sup>r</sup> Der Beitritt der Philippinen wurde durch Österreich, Deutschland, Finnland und Griechenland nicht angenommen. <sup>s</sup> Der Beitritt Tadschikistans wurde durch Österreich, Belgien und Deutschland nicht angenommen. <sup>t</sup> Der Beitritt Tunesiens wurde durch Belgien, Deutschland, Griechenland und Österreich nicht angenommen. <sup>u</sup> Der Beitritt Usbekistans wurde durch Belgien, Deutschland, Österreich und Griechenland nicht angenommen. <sup>v</sup> Der Beitritt Gibraltars wurde durch Spanien nicht angenommen.</td></tr>
 </table>
 
-[^t-2]: [AS 1973 348](https://fedlex.data.admin.ch/eli/oc/1973/348_347_349), [1976 477](https://fedlex.data.admin.ch/eli/oc/1976/477_477_477), [1977 765](https://fedlex.data.admin.ch/eli/oc/1977/765_765_765), [1978 210](https://fedlex.data.admin.ch/eli/oc/1978/210_210_210)[1718](https://fedlex.data.admin.ch/eli/oc/1978/1718_1718_1718), [1980 669](https://fedlex.data.admin.ch/eli/oc/1980/669_669_669), [1982 154](https://fedlex.data.admin.ch/eli/oc/1982/154_154_154), [1983 1175](https://fedlex.data.admin.ch/eli/oc/1983/1175_1175_1175), [1986 175](https://fedlex.data.admin.ch/eli/oc/1986/175_175_175), [1987 317](https://fedlex.data.admin.ch/eli/oc/1987/317_317_317), [1988 1177](https://fedlex.data.admin.ch/eli/oc/1988/1177_1177_1177), [1993 973](https://fedlex.data.admin.ch/eli/oc/1993/973_973_973), [1998 2318](https://fedlex.data.admin.ch/eli/oc/1998/2318_2318_2318), [2003 2401](https://fedlex.data.admin.ch/eli/oc/2003/346), [2006 619](https://fedlex.data.admin.ch/eli/oc/2006/87), [2007 3345](https://fedlex.data.admin.ch/eli/oc/2007/404), [2010 783](https://fedlex.data.admin.ch/eli/oc/2010/119), [2011 4609](https://fedlex.data.admin.ch/eli/oc/2011/657), [2013 1235](https://fedlex.data.admin.ch/eli/oc/2013/271), [2015 2121](https://fedlex.data.admin.ch/eli/oc/2015/391), [2016 2615](https://fedlex.data.admin.ch/eli/oc/2016/410), [2018 1257](https://fedlex.data.admin.ch/eli/oc/2018/205), [2019 1135](https://fedlex.data.admin.ch/eli/oc/2019/215). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1973 348](https://fedlex.data.admin.ch/eli/oc/1973/348_347_349); [1976 477](https://fedlex.data.admin.ch/eli/oc/1976/477_477_477); [1977 765](https://fedlex.data.admin.ch/eli/oc/1977/765_765_765); [1978 210](https://fedlex.data.admin.ch/eli/oc/1978/210_210_210), [1718](https://fedlex.data.admin.ch/eli/oc/1978/1718_1718_1718); [1980 669](https://fedlex.data.admin.ch/eli/oc/1980/669_669_669); [1982 154](https://fedlex.data.admin.ch/eli/oc/1982/154_154_154); [1983 1175](https://fedlex.data.admin.ch/eli/oc/1983/1175_1175_1175); [1986 175](https://fedlex.data.admin.ch/eli/oc/1986/175_175_175); [1987 317](https://fedlex.data.admin.ch/eli/oc/1987/317_317_317); [1988 1177](https://fedlex.data.admin.ch/eli/oc/1988/1177_1177_1177); [1993 973](https://fedlex.data.admin.ch/eli/oc/1993/973_973_973); [1998 2318](https://fedlex.data.admin.ch/eli/oc/1998/2318_2318_2318); [2003 2401](https://fedlex.data.admin.ch/eli/oc/2003/346); [2006 619](https://fedlex.data.admin.ch/eli/oc/2006/87); [2007 3345](https://fedlex.data.admin.ch/eli/oc/2007/404); [2010 783](https://fedlex.data.admin.ch/eli/oc/2010/119); [2011 4609](https://fedlex.data.admin.ch/eli/oc/2011/657); [2013 1235](https://fedlex.data.admin.ch/eli/oc/2013/271); [2015 2121](https://fedlex.data.admin.ch/eli/oc/2015/391); [2016 2615](https://fedlex.data.admin.ch/eli/oc/2016/410); [2018 1257](https://fedlex.data.admin.ch/eli/oc/2018/205); [2019 1135](https://fedlex.data.admin.ch/eli/oc/2019/215)und [2021 443](https://fedlex.data.admin.ch/eli/oc/2021/443). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://www.fedlex.admin.ch/de/treaty).
 
 Erklärung
 
