@@ -4,13 +4,13 @@ number: "911.2"
 title: Vorläufige Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: kantonale Covid-19-Härtefallverordnung
 language: de
-version: 2021-03-16
-valid_until: 2021-07-05
-version_adopted: 2021-03-16
+version: 2021-07-06
+valid_until: 2022-01-24
+version_adopted: 2021-07-06
 adopted: 2021-01-19
 in_force: 2021-02-01
 url: "https://ar.clex.ch/app/de/texts_of_law/911.2"
-pdf: "https://ar.clex.ch/api/de/versions/1432/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1433/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1432/pdf_file"
 
 (kantonale Covid-19-Härtefallverordnung)
 
-vom 19.01.2021 (Stand 16.03.2021)
+vom 19.01.2021 (Stand 06.07.2021)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -55,11 +55,18 @@ verordnet:
 <sup>1</sup> Der Kanton kann Härtefallmassnahmen gewähren, wenn das Unternehmen:
 
 - a) die Anforderungen nach Art. 2–6 der Covid-19-Härtefallverordnung erfüllt;
-- b) per 1. Oktober 2020 seinen Sitz im Kanton hat, eine operative Geschäftstätigkeit mit Geschäftsräumlichkeiten im Kanton ausübt und eigenes Personal im Kanton beschäftigt;
-- c) sich am 15. März 2020 nicht in einem Betreibungsverfahren für steuerrechtliche Forderungen befindet, es sei denn, dass zum Zeitpunkt der Einreichung des Gesuchs eine vereinbarte Zahlungsplanung vorliegt oder das Verfahren durch Zahlung abgeschlossen ist;
-- d) keinen Anspruch auf andere Covid-19-Finanzhilfen des Bundes und des Kantons in den Bereichen Kultur, Sport, öffentlicher Verkehr oder Medien hat; davon ausgenommen sind Unternehmen, deren Tätigkeitsbereiche mittels Spartenrechnung klar abgegrenzt werden können.
+- b) am 1. Oktober 2020 seinen Sitz im Kanton hatte.
+- c)–d) …
 
-<sup>2</sup> Härtefallmassnahmen sind ausgeschlossen für Unternehmen, an deren Kapital Bund, Kanton oder Gemeinden insgesamt zu mehr als 10 Prozent beteiligt sind.
+<sup>2</sup> Für Unternehmen mit einem Jahresumsatz bis 5 Mio. Franken gelten zusätzlich folgende Anforderungen:
+
+- a) das Unternehmen befindet sich am 15. März 2020 nicht in einem Betreibungsverfahren für steuerrechtliche Forderungen, es sei denn, dass zum Zeitpunkt der Einreichung des Gesuchs eine vereinbarte Zahlungsplanung vorliegt oder das Verfahren durch Zahlung abgeschlossen ist;
+- b) das Unternehmen hat keinen Anspruch auf branchenspezifische Covid-19-Finanzhilfen des Bundes oder des Kantons in den Bereichen Kultur, Sport, öffentlicher Verkehr oder Medien.
+
+<sup>3</sup> Härtefallmassnahmen sind ausgeschlossen für Unternehmen:
+
+- a) an deren Kapital Bund, Kanton oder Gemeinden insgesamt zu mehr als 10 Prozent beteiligt sind;
+- b) die in der Schweiz weder eine Geschäftstätigkeit ausüben noch eigenes Personal beschäftigen.
 
 #### Art. 4
 
@@ -75,7 +82,7 @@ verordnet:
 
 **Formen der Härtefallmassnahmen**
 
-<sup>1</sup> Härtefallmassnahmen können im Rahmen der Höchstgrenzen nach Art. 6 gewährt werden in Form von:
+<sup>1</sup> Härtefallmassnahmen können im Rahmen der bundesrechtlichen Höchstgrenzen gewährt werden in Form von:
 
 - a) Solidarbürgschaften;
 - b) nicht rückzahlbaren Beiträgen (A-fonds-perdu-Beiträge);
@@ -85,13 +92,7 @@ verordnet:
 
 #### Art. 6
 
-**Höchstgrenzen**
-
-<sup>1</sup> Die Solidarbürgschaften für Bankkredite belaufen sich auf höchstens 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und auf höchstens 500‘000 Franken pro Unternehmen.
-
-<sup>2</sup> Die nicht rückzahlbaren Beiträge belaufen sich auf höchstens 20 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und auf höchstens 300‘000 Franken pro Unternehmen.
-
-<sup>3</sup> Werden einem Unternehmen sowohl Solidarbürgschaften für Bankkredite als auch nicht rückzahlbare Beiträge gewährt, so dürfen diese gesamthaft 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und 500‘000 Franken pro Unternehmen nicht überschreiten.
+**…**
 
 #### Art. 7
 
@@ -125,7 +126,7 @@ verordnet:
 
 **Gesuchsverfahren**
 
-<sup>1</sup> Härtefallmassnahmen werden auf Gesuch hin gewährt. Gesuche können einmalig ab 1. Februar 2021 bis zum 30. September 2021 ausschliesslich elektronisch mittels des bereitgestellten Formulars beim Kanton eingereicht werden.
+<sup>1</sup> Härtefallmassnahmen werden auf Gesuch hin gewährt. Gesuche können ab 1. Februar 2021 bis zum 31. Oktober 2021 ausschliesslich elektronisch mittels des bereitgestellten Formulars beim Kanton eingereicht werden.
 
 <sup>2</sup> Das Unternehmen hat in geeigneter Form zu bestätigen, dass alle Angaben im eingereichten Formular vollständig und wahr sind.
 
@@ -187,9 +188,9 @@ verordnet:
 
 #### Art. 16
 
-**Übergangsbestimmung zur Teilrevision vom 16. März 2021**
+**Übergangsbestimmung zur Teilrevision vom 6. Juli 2021**
 
-<sup>1</sup> Die Änderung von Art. 6 Abs. 2 wird rückwirkend auf den 1. Februar 2021 angewendet.
+<sup>1</sup> Die Änderungen werden rückwirkend auf den 1. Februar 2021 angewendet.
 
 <sup>2</sup> Gesuchsverfahren, die vor dem Inkrafttreten der Teilrevision rechtskräftig erledigt wurden, werden auf Gesuch hin wiederaufgenommen.
 
