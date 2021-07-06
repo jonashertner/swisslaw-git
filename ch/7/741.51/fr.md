@@ -4,11 +4,11 @@ title: "Ordonnance du 27 octobre 1976 réglant l'admission des personnes et des 
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: fr
-version: 2021-01-01
+version: 2021-07-07
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20210707/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20210707-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20210707/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20210101/fr"
 
 (Ordonnance réglant l’admission à la circulation routière,**[^t-1]** OAC)
 
-du 27 octobre 1976 (Etat le 1<sup>er</sup> janvier 2021)
+du 27 octobre 1976 (Etat le 7 juillet 2021)
 
 [^t-1]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -716,21 +716,22 @@ Avant de délivrer le permis d’élève conducteur ou un permis de conduire des
 Le permis d’élève conducteur de la catégorie A est limité aux motocycles, y compris ceux avec side-car, dont la puissance du moteur n’excède pas 35 kW et dont le rapport entre la puissance du moteur et le poids à vide n’excède pas 0,20 kW/kg. La limitation de puissance n’est pas appliquée aux:
 
 - a. personnes qui suivent la formation professionnelle initiale de «Mécanicien/ Mécanicienne en motocycles CFC» et sont formées par un moniteur de conduite de la catégorie A;
-- b. personnes qui sont formées à la conduite de motocycles dans le cadre de cours dispensés par la police;
-- c. experts de la circulation dans le cadre de leur formation ou de leur perfectionnement.[^15-1]
+- b.[^15-1] personnes formées à la conduite de motocycles dans le cadre de cours de la police;
+- c. experts de la circulation dans le cadre de leur formation ou de leur perfectionnement.[^15-2]
 
-<sup>2bis</sup> Le permis d’élève conducteur de la catégorie A sans limitation de puissance est délivré aux personnes qui sont titulaires du permis de conduire de la catégorie A avec limitation de puissance depuis au moins deux ans et qui peuvent justifier d’une pratique de la conduite irréprochable au sens de l’art. 8, al. 6.[^15-2]
+<sup>2bis</sup> Le permis d’élève conducteur de la catégorie A sans limitation de puissance est délivré aux personnes qui sont titulaires du permis de conduire de la catégorie A avec limitation de puissance depuis au moins deux ans et qui peuvent justifier d’une pratique de la conduite irréprochable au sens de l’art. 8, al. 6.[^15-3]
 
-<sup>3</sup> Le permis d’élève conducteur peut faire l’objet des mêmes conditions, restrictions et indications supplémentaires que le permis de conduire.[^15-3]
+<sup>3</sup> Le permis d’élève conducteur peut faire l’objet des mêmes conditions, restrictions et indications supplémentaires que le permis de conduire.[^15-4]
 
 <sup>4</sup> Les titulaires sont tenus d’annoncer dans les quatorze jours à l’autorité compétente, en présentant leur permis d’élève conducteur, toute circonstance qui nécessite une modification ou un remplacement du permis.
 
-<sup>5</sup> Le maître d’apprentissage est tenu d’annoncer sans délai à l’autorité d’admission ayant délivré le permis d’élève conducteur qu’une résiliation du contrat d’apprentissage avec l’apprenti mécanicien en motocycles est survenue pendant la durée de validité du permis d’élève conducteur de la catégorie A. L’autorité compétente invite le titulaire du permis à déposer son permis d’élève conducteur et lui délivre, pour la période de validité restante, un permis d’élève conducteur de la catégorie A limitée aux motocycles dont la puissance du moteur n’excède pas 35 kW et dont le rapport entre la puissance du moteur et le poids à vide n’excède pas 0,20 kW/kg.[^15-4]
+<sup>5</sup> Le maître d’apprentissage est tenu d’annoncer sans délai à l’autorité d’admission ayant délivré le permis d’élève conducteur qu’une résiliation du contrat d’apprentissage avec l’apprenti mécanicien en motocycles est survenue pendant la durée de validité du permis d’élève conducteur de la catégorie A. L’autorité compétente invite le titulaire du permis à déposer son permis d’élève conducteur et lui délivre, pour la période de validité restante, un permis d’élève conducteur de la catégorie A limitée aux motocycles dont la puissance du moteur n’excède pas 35 kW et dont le rapport entre la puissance du moteur et le poids à vide n’excède pas 0,20 kW/kg.[^15-5]
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^15-2]: Introduit par le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^15-3]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
-[^15-4]: Introduit par le ch. I de l’O du 27 oct. 2004 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nouvelle teneur selon le ch. I de l’O du 18 déc. 2015, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)).
+[^15-1]: Erratum du 7 juil. 2021 ([RO 2021 419](https://fedlex.data.admin.ch/eli/oc/2021/419)).
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^15-3]: Introduit par le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^15-4]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
+[^15-5]: Introduit par le ch. I de l’O du 27 oct. 2004 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nouvelle teneur selon le ch. I de l’O du 18 déc. 2015, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)).
 
 #### Art. 16
 

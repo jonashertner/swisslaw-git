@@ -4,11 +4,11 @@ title: "Ordinanza del 27 ottobre 1976 sull'ammissione alla circolazione di perso
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: it
-version: 2021-01-01
+version: 2021-07-07
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20210707/it/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20210707-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20210707/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20210101/it"
 
 (Ordinanza sull’ammissione alla circolazione, OAC)**[^t-1]**
 
-del 27 ottobre 1976 (Stato 1° gennaio 2021)
+del 27 ottobre 1976 (Stato 7 luglio 2021)
 
 [^t-1]: Introdotto dal n. I dell’O del 3 lug. 2002, in vigore dal 1° apr. 2003 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -715,21 +715,22 @@ Prima del rilascio della licenza per allievo conducente o di una licenza di cond
 La licenza per allievo conducente della categoria A è rilasciata per motoveicoli, compresi quelli con carrozzino laterale, con una potenza del motore non superiore a 35 kW e un rapporto tra potenza del motore e peso a vuoto non superiore a 0,20 kW/kg. Tale limitazione non si applica a:
 
 - a. apprendisti che seguono la formazione professionale di base di «meccanico di motoveicoli AFC» e sono formati da un maestro conducente della categoria A;
-- b. persone formate su motoveicoli durante corsi di polizia;
-- c. esperti della circolazione durante la propria formazione e perfezionamento.[^15-1]
+- b.[^15-1] persone formate su motoveicoli durante corsi di polizia;
+- c. esperti della circolazione durante la propria formazione e perfezionamento.[^15-2]
 
-<sup>2bis</sup> La licenza per allievo conducente della categoria A senza limitazione della potenza è rilasciata a chi è in possesso da almeno due anni della licenza di condurre della categoria A con limitazione della potenza e può dimostrare una pratica di guida ineccepibile ai sensi dell’articolo 8 capoverso 6.[^15-2]
+<sup>2bis</sup> La licenza per allievo conducente della categoria A senza limitazione della potenza è rilasciata a chi è in possesso da almeno due anni della licenza di condurre della categoria A con limitazione della potenza e può dimostrare una pratica di guida ineccepibile ai sensi dell’articolo 8 capoverso 6.[^15-3]
 
-<sup>3</sup> Nella licenza per allievo conducente possono essere iscritte le stesse condizioni, restrizioni e indicazioni supplementari come nella licenza di condurre.[^15-3]
+<sup>3</sup> Nella licenza per allievo conducente possono essere iscritte le stesse condizioni, restrizioni e indicazioni supplementari come nella licenza di condurre.[^15-4]
 
 <sup>4</sup> I titolari devono annunciare entro 14 giorni all’autorità, presentando la loro licenza per allievo conducente, ogni circostanza che richiede una modifica o una sostituzione della licenza.
 
-<sup>5</sup> Il maestro di tirocinio è tenuto ad annunciare tempestivamente all’autorità d’ammissione che ha rilasciato la licenza per allievo conducente l’interruzione del tirocinio con l’apprendista meccanico di motoveicoli durante la durata di validità della licenza per allievo conducente. L’autorità invita il titolare della licenza a depositarla e gli rilascia, per il rimanente periodo di validità, una licenza per allievo conducente della categoria A per motoveicoli con una potenza del motore non superiore a 35 kW e un rapporto tra potenza del motore e peso a vuoto non superiore a 0,20 kW/kg.[^15-4]
+<sup>5</sup> Il maestro di tirocinio è tenuto ad annunciare tempestivamente all’autorità d’ammissione che ha rilasciato la licenza per allievo conducente l’interruzione del tirocinio con l’apprendista meccanico di motoveicoli durante la durata di validità della licenza per allievo conducente. L’autorità invita il titolare della licenza a depositarla e gli rilascia, per il rimanente periodo di validità, una licenza per allievo conducente della categoria A per motoveicoli con una potenza del motore non superiore a 35 kW e un rapporto tra potenza del motore e peso a vuoto non superiore a 0,20 kW/kg.[^15-5]
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^15-2]: Introdotto dal n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^15-3]: Nuovo testo giusta il n. I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
-[^15-4]: Introdotto dal n. I dell’O del 27 ott. 2004 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nuovo testo giusta il n. I dell’O del 18 dic. 2015, in vigore dal 1° apr. 2016 ([RU 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)).
+[^15-1]: La correzione del 7 lug. 2021 concerne soltanto il testo francese ([RU 2021 419](https://fedlex.data.admin.ch/eli/oc/2021/419)).
+[^15-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^15-3]: Introdotto dal n. I dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^15-4]: Nuovo testo giusta il n. I dell’O del 28 apr. 2004, in vigore dal 1° gen. 2005 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
+[^15-5]: Introdotto dal n. I dell’O del 27 ott. 2004 ([RU 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Nuovo testo giusta il n. I dell’O del 18 dic. 2015, in vigore dal 1° apr. 2016 ([RU 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)).
 
 #### Art. 16
 
@@ -3912,7 +3913,7 @@ Allegato 11*[^t-14]*
 
 ## Verifica delle conoscenze teoriche
 
-[^t-14]: Introdotto dal n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)) e dal n. II cpv. 2 dell’O del 15 giu. 2007, in vigore dal 1° set. 2009 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)).
+[^t-14]: Introdotto dal n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), dal n. II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)) e dal n. I dell’O del 21 nov. 2018 in vigore dal 1° feb. 2019 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 
 ### I. C Conoscenze
 
@@ -3969,7 +3970,7 @@ in particolare la segnaletica, compresi demarcazioni e segnali luminosi, le rego
 
 ### 2 Esame teorico complementare (art. 21)
 
-- 2\.1 campo d’applicazione dell’ordinanza sulla durata del lavoro e del riposo, compreso l’impiego dell’odocronografo per trasporti per i quali esso è prescritto;
+- 2\.1 campo d’applicazione dell’ordinanza sulla durata del lavoro e del riposo, compreso l’impiego del tachigrafo per trasporti per i quali esso è prescritto;
 - 2\.2 prescrizioni generali sul trasporto di merci e persone;
 - 2\.3 comportamento in caso di incidente; conoscenza delle misure da adottare in caso di incidente o situazioni simili, compresi gli interventi di emergenza quali l’evacuazione dei passeggeri e degli aiuto conducenti;
 - 2\.4 prescrizioni da adottare in caso di rimozione e sostituzione delle ruote;
@@ -3990,7 +3991,7 @@ Allegato 12*[^t-15]*
 
 ## Esame pratico di conducente
 
-[^t-15]: Introdotto dal n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529), [2011 1937](https://fedlex.data.admin.ch/eli/oc/2011/283)), dal n. II 2 dell’O del 28 apr. 2004 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), dal n. II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)) e dai n. II delle O del 29 nov. 2013 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)) e del 18 dic. 2015 ([RU 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)) e dal n. II cpv. 3 dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29))
+[^t-15]: Introdotto dal n. II dell’O del 3 lug. 2002 ([RU 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Aggiornato dal n. II dell’O del 26 set. 2003 ([RU 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529), [2011 1937](https://fedlex.data.admin.ch/eli/oc/2011/283)), dal n. II 2 dell’O del 28 apr. 2004 ([RU 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), dal n. II cpv. 2 dell’O del 15 giu. 2007 ([RU 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)) e dai n. II delle O del 29 nov. 2013 ([RU 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)) e del 18 dic. 2015 ([RU 2016 405](https://fedlex.data.admin.ch/eli/oc/2016/62)), dal n. I dell’O del 21 nov. 2018 ([RU 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)) e dal n. II cpv. 3 dell’O del 14 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29))
 
 ### I. R Requisiti d’ammissione
 
@@ -4127,7 +4128,7 @@ Preparazione e controllo tecnico del veicolo ai fini della sicurezza stradale:
 
 1 Preparazione e controllo tecnico del veicolo ai fini della sicurezza stradale:
 
-- 1\.1 controllo del servofreno e del servosterzo, delle condizioni di ruote e relativi bulloni, parafanghi, parabrezza, finestrini, tergicristalli e dei livelli (olio del motore, liquido di raffreddamento, liquido lavavetri, ecc.); controllo e impiego della strumentazione installata, compreso l’odocronografo,
+- 1\.1 controllo del servofreno e del servosterzo, delle condizioni di ruote e relativi bulloni, parafanghi, parabrezza, finestrini, tergicristalli e dei livelli (olio del motore, liquido di raffreddamento, liquido lavavetri, ecc.); controllo e impiego della strumentazione installata, compreso il tachigrafo,
 - 1\.2 controllo della pressione dell’aria, del serbatoio dell’aria compressa e delle sospensioni,
 - 1\.3 controllo dei fattori di sicurezza del carico: carrozzeria del veicolo, teli di copertura, chiusura del compartimento merci (se del caso) e della cabina, metodi di carico, fissaggio del carico,
 - 1\.4 controllo di frizione e freno nonché dei collegamenti elettrici (soltanto per le categorie CE e DE e le sottocategorie C1E e D1E),
@@ -4147,7 +4148,7 @@ L’esame deve tener conto delle peculiarità di questa categoria speciale, in p
 
 - – preparazione prima della partenza (dispositivo d’illuminazione, specchio retrovisore, dispositivo di protezione, ecc.),
 - – controlli generali: licenza di circolazione, dispositivo d’illuminazione, specchio retrovisore, catarifrangenti, indicatori di direzione lampeggianti, pneumatici e cerchioni, carico (tipo, baricentro, sicurezza ed equipaggiamento complementare, ad es. gru), sponde, copertura con telone (ghiaccio, neve), controllo sotto il veicolo, scarico dell’acqua condensata dai serbatoi dell’aria compressa,
-- – controlli funzionali: posizionamento dello specchio retrovisore, indicatori di direzione lampeggianti, dispositivo di avvertimento, cruscotto, controllo dei freni (pressione di riserva, spia del sistema di freno a doppio circuito, fuga d’aria), avviamento, odocronografo,
+- – controlli funzionali: posizionamento dello specchio retrovisore, indicatori di direzione lampeggianti, dispositivo di avvertimento, cruscotto, controllo dei freni (pressione di riserva, spia del sistema di freno a doppio circuito, fuga d’aria), avviamento, tachigrafo,
 - – tenere particolarmente conto del peso e delle dimensioni del veicolo che serve agli esami e delle velocità massime, evitare impedimenti alla circolazione e la formazione di colonne,
 - – attenzione alla buona visibilità,
 - – assicurare il veicolo in salita e in discesa (provvedimenti in caso di assenza del bloccaggio di marcia),
