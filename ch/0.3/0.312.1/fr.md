@@ -3,16 +3,16 @@ sr: "0.312.1"
 title: Statut de Rome de la Cour pénale internationale du 17 juillet 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: fr
-version: 2018-08-02
+version: 2021-07-07
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20180802/fr/xml/fedlex-data-admin-ch-eli-cc-2002-586-20180802-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20180802/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20210707/fr/xml/fedlex-data-admin-ch-eli-cc-2002-586-20210707-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20210707/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Statut de Rome de la Cour pénale internationale
+# Statut de Rome de la Cour pénale internationale****
 
 RO **2002** 3743; FF **2001** 359[^t-1]
 
@@ -26,14 +26,14 @@ Instrument de ratification déposé par la Suisse le 12 octobre 2001
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 2002
 
-(Etat le 2 août 2018)
+(Etat le 7 juillet 2021)
 
 [^t-1]: Les Am. du 10 juin 2010 ([RS 0.312.12](https://fedlex.data.admin.ch/eli/cc/2015/645); [RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) et du 11 juin 2010 ([RS [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[RO 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sont insérés dans ce texte, mais ils sont applicables uniquement aux Etats les ayant ratifiés. Voir en conséquence leur propre champ d’application.
 [^t-2]: Art. 1 al. 1 de l’AF du 22 juin 2001 ([RO 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585))
 
 *Préambule*
 
-Les Etats Parties au présent Statut,
+Les États Parties au présent Statut,
 
 conscients que tous les peuples sont unis par des liens étroits et que leurs cultures forment un patrimoine commun, et soucieux du fait que cette mosaïque délicate puisse être brisée à tout moment,
 
@@ -45,11 +45,11 @@ affirmant que les crimes les plus graves qui touchent l’ensemble de la communa
 
 déterminés à mettre un terme à l’impunité des auteurs de ces crimes et à concourir ainsi à la prévention de nouveaux crimes,
 
-rappelant qu’il est du devoir de chaque Etat de soumettre à sa juridiction criminelle les responsables de crimes internationaux,
+rappelant qu’il est du devoir de chaque État de soumettre à sa juridiction criminelle les responsables de crimes internationaux,
 
-réaffirmant les buts et principes de la Charte des Nations Unies[^ingress-1] et, en particulier, que tous les Etats doivent s’abstenir de recourir à la menace ou à l’emploi de la force, soit contre l’intégrité territoriale ou l’indépendance politique de tout Etat, soit de toute autre manière incompatible avec les buts des Nations Unies,
+réaffirmant les buts et principes de la Charte des Nations Unies[^ingress-1] et, en particulier, que tous les États doivent s’abstenir de recourir à la menace ou à l’emploi de la force, soit contre l’intégrité territoriale ou l’indépendance politique de tout État, soit de toute autre manière incompatible avec les buts des Nations Unies,
 
-soulignant à cet égard que rien dans le présent Statut ne peut être interprété comme autorisant un Etat Partie à intervenir dans un conflit armé ou dans les affaires intérieures d’un autre Etat,
+soulignant à cet égard que rien dans le présent Statut ne peut être interprété comme autorisant un État Partie à intervenir dans un conflit armé ou dans les affaires intérieures d’un autre État,
 
 déterminés, à ces fins et dans l’intérêt des générations présentes et futures, à créer une cour pénale internationale permanente et indépendante reliée au système des Nations Unies, ayant compétence à l’égard des crimes les plus graves qui touchent l’ensemble de la communauté internationale,
 
@@ -73,15 +73,15 @@ Il est créé une Cour pénale internationale («la Cour») en tant qu’institu
 
 **Lien de la Cour avec les Nations Unies**
 
-La Cour est liée aux Nations Unies par un accord qui doit être approuvé par l’Assemblée des Etats Parties au présent Statut, puis conclu par le Président de la Cour au nom de celle-ci.
+La Cour est liée aux Nations Unies par un accord qui doit être approuvé par l’Assemblée des États Parties au présent Statut, puis conclu par le Président de la Cour au nom de celle-ci.
 
 #### Art. 3
 
 **Siège de la Cour**
 
-<sup>1.</sup> La Cour a son siège à La Haye, aux Pays-Bas («l’Etat hôte»).
+<sup>1.</sup> La Cour a son siège à La Haye, aux Pays-Bas («l’État hôte»).
 
-<sup>2.</sup> La Cour et l’Etat hôte conviennent d’un accord de siège qui doit être approuvé par l’Assemblée des Etats Parties, puis conclu par le Président de la Cour au nom de celle-ci.
+<sup>2.</sup> La Cour et l’État hôte conviennent d’un accord de siège qui doit être approuvé par l’Assemblée des États Parties, puis conclu par le Président de la Cour au nom de celle-ci.
 
 <sup>3.</sup> Si elle le juge souhaitable, la Cour peut siéger ailleurs selon les dispositions du présent Statut.
 
@@ -91,7 +91,7 @@ La Cour est liée aux Nations Unies par un accord qui doit être approuvé par l
 
 <sup>1.</sup> La Cour a la personnalité juridique internationale. Elle a aussi la capacité juridique qui lui est nécessaire pour exercer ses fonctions et accomplir sa mission.
 
-<sup>2.</sup> La Cour peut exercer ses fonctions et ses pouvoirs, comme prévu dans le présent Statut, sur le territoire de tout Etat Partie et, par une convention à cet effet, sur le territoire de tout autre Etat.
+<sup>2.</sup> La Cour peut exercer ses fonctions et ses pouvoirs, comme prévu dans le présent Statut, sur le territoire de tout État Partie et, par une convention à cet effet, sur le territoire de tout autre État.
 
 ## Chapitre II Compétence, recevabilité et droit applicable
 
@@ -148,7 +148,7 @@ Aux fins du présent Statut, on entend par crime contre l’humanité l’un que
 
 Aux fins du par. 1:
 
-- a) par «attaque lancée contre une population civile», on entend le comportement qui consiste en la commission multiple d’actes visés au par. 1 à l’encontre d’une population civile quelconque, en application ou dans la poursuite de la politique d’un Etat ou d’une organisation ayant pour but une telle attaque;
+- a) par «attaque lancée contre une population civile», on entend le comportement qui consiste en la commission multiple d’actes visés au par. 1 à l’encontre d’une population civile quelconque, en application ou dans la poursuite de la politique d’un État ou d’une organisation ayant pour but une telle attaque;
 - b) par «extermination», on entend notamment le fait d’imposer intentionnellement des conditions de vie, telles que la privation d’accès à la nourriture et aux médicaments, calculées pour entraîner la destruction d’une partie de la population;
 - c) par «réduction en esclavage», on entend le fait d’exercer sur une personne l’un quelconque ou l’ensemble des pouvoirs liés au droit de propriété, y compris dans le cadre de la traite des être humains, en particulier des femmes et des enfants;
 - d) par «déportation ou transfert forcé de population», on entend le fait de déplacer de force des personnes, en les expulsant ou par d’autres moyens coercitifs, de la région où elles se trouvent légalement, sans motifs admis en droit international;
@@ -156,7 +156,7 @@ Aux fins du par. 1:
 - f) par «grossesse forcée», on entend la détention illégale d’une femme mise enceinte de force, dans l’intention de modifier la composition ethnique d’une population ou de commettre d’autres violations graves du droit international. Cette définition ne peut en aucune manière s’interpréter comme ayant une incidence sur les lois nationales relatives à la grossesse;
 - g) par «persécution», on entend le déni intentionnel et grave de droits fondamentaux en violation du droit international, pour des motifs liés à l’identité du groupe ou de la collectivité qui en fait l’objet;
 - h) par «crime d’apartheid», on entend des actes inhumains analogues à ceux que vise le par. 1, commis dans le cadre d’un régime institutionnalisé d’oppression systématique et de domination d’un groupe racial sur tout autre groupe racial ou tous autres groupes raciaux et dans l’intention de maintenir ce régime;
-- i) par «disparitions forcées de personnes», on entend les cas où des personnes sont arrêtées, détenues ou enlevées par un Etat ou une organisation politique ou avec l’autorisation, l’appui ou l’assentiment de cet Etat ou de cette organisation, qui refuse ensuite d’admettre que ces personnes sont privées de liberté ou de révéler le sort qui leur est réservé ou l’endroit où elles se trouvent, dans l’intention de les soustraire à la protection de la loi pendant une période prolongée.
+- i) par «disparitions forcées de personnes», on entend les cas où des personnes sont arrêtées, détenues ou enlevées par un État ou une organisation politique ou avec l’autorisation, l’appui ou l’assentiment de cet État ou de cette organisation, qui refuse ensuite d’admettre que ces personnes sont privées de liberté ou de révéler le sort qui leur est réservé ou l’endroit où elles se trouvent, dans l’intention de les soustraire à la protection de la loi pendant une période prolongée.
 
 <sup>3.</sup> Aux fins du présent Statut, le terme «sexe» s’entend de l’un et l’autre sexes, masculin et féminin, suivant le contexte de la société. Il n’implique aucun autre sens.
 
@@ -213,6 +213,9 @@ Aux fins du Statut, on entend par «crimes de guerre»:
   - xxiv) le fait de diriger intentionnellement des attaques contre les bâtiments, le matériel, les unités et les moyens de transport sanitaires, et le personnel utilisant, conformément au droit international, les signes distinctifs prévus par les Conventions de Genève;
   - xxv) le fait d’affamer délibérément des civils comme méthode de guerre, en les privant de biens indispensables à leur survie, y compris en empêchant intentionnellement l’envoi des secours prévus par les Conventions de Genève;
   - xxvi) le fait de procéder à la conscription ou à l’enrôlement d’enfants de moins de 15 ans dans les forces armées nationales ou de les faire participer activement à des hostilités;
+  - [tab] xxvii)[^8-2] le fait d’utiliser des armes qui utilisent des agents microbiens ou autres agents biologiques, ainsi que des toxines, quels qu’en soient l’origine ou le mode de production;
+  - [tab] xxviii)[^8-3] le fait d’utiliser des armes ayant comme principal effet de blesser par des éclats qui ne sont pas localisables par rayons X dans le corps humain;
+  - [tab] xxix)[^8-4] le fait d’utiliser des armes à laser spécifiquement conçues de telle façon que leur seule fonction de combat ou une de leurs fonctions de combat fût de provoquer la cécité permanente chez des personnes dont la vision est non améliorée, c’est-à-dire qui regardent à l’œil nu ou qui portent des dispositifs de correction de la vue;
 
 - c)
 
@@ -240,51 +243,60 @@ Aux fins du Statut, on entend par «crimes de guerre»:
   - x) le fait de déclarer qu’il ne sera pas fait de quartier;
   - xi) le fait de soumettre des personnes d’une autre partie au conflit tombées en son pouvoir à des mutilations ou à des expériences médicales ou scientifiques quelles qu’elles soient qui ne sont ni motivées par un traitement médical, dentaire ou hospitalier, ni effectuées dans l’intérêt de ces personnes, et qui entraînent la mort de celles‑ci ou mettent sérieusement en danger leur santé;
   - xii) le fait de détruire ou de saisir les biens d’un adversaire, sauf si ces destructions ou saisies sont impérieusement commandées par les nécessités du conflit;
-  - xiii)[^8-2] Le fait d’employer du poison ou des armes empoisonnées;
-  - xiv)[^8-3] Le fait d’employer des gaz asphyxiants, toxiques ou similaires, ainsi que tous liquides, matières ou procédés analogues;
-  - xv)[^8-4] Le fait d’utiliser des balles qui s’épanouissent ou s’aplatissent facilement dans le corps humain, telles que des balles dont l’enveloppe dure ne recouvre pas entièrement le centre ou est percée d’entailles.
+  - xiii)[^8-5] Le fait d’employer du poison ou des armes empoisonnées;
+  - xiv)[^8-6] Le fait d’employer des gaz asphyxiants, toxiques ou similaires, ainsi que tous liquides, matières ou procédés analogues;
+  - xv)[^8-7] Le fait d’utiliser des balles qui s’épanouissent ou s’aplatissent facilement dans le corps humain, telles que des balles dont l’enveloppe dure ne recouvre pas entièrement le centre ou est percée d’entailles;
+  - [tab] xvi)[^8-8] le fait d’utiliser des armes qui utilisent des agents microbiens ou autres agents biologiques, ainsi que des toxines, quels qu’en soient l’origine ou le mode de production;
+  - [tab] xvii)[^8-9] le fait d’utiliser des armes ayant comme principal effet de blesser par des éclats qui ne sont pas localisables par rayons X dans le corps humain;
+  - [tab] xviii)[^8-10] le fait d’utiliser des armes à laser spécifiquement conçues de telle façon que leur seule fonction de combat ou une de leurs fonctions de combat fût de provoquer la cécité permanente chez des personnes dont la vision est non améliorée, c’est-à-dire qui regardent à l’œil nu ou qui portent des dispositifs de correction de la vue;
 
-- f) l’al. e) du par. 2 s’applique aux conflits armés ne présentant pas un caractère international et ne s’applique donc pas aux situations de troubles et tensions internes telles que les émeutes, les actes isolés et sporadiques de violence ou les actes de nature similaire. Il s’applique aux conflits armés qui opposent de manière prolongée sur le territoire d’un Etat les autorités du gouvernement de cet Etat et des groupes armés organisés ou des groupes armés organisés entre eux.
+- f) l’al. e) du par. 2 s’applique aux conflits armés ne présentant pas un caractère international et ne s’applique donc pas aux situations de troubles et tensions internes telles que les émeutes, les actes isolés et sporadiques de violence ou les actes de nature similaire. Il s’applique aux conflits armés qui opposent de manière prolongée sur le territoire d’un État les autorités du gouvernement de cet État et des groupes armés organisés ou des groupes armés organisés entre eux.
 
-<sup>3.</sup> Rien dans le par. 2, al. c) et e), n’affecte la responsabilité d’un gouvernement de maintenir ou rétablir l’ordre public dans l’Etat ou de défendre l’unité et l’intégrité territoriale de l’Etat par tous les moyens légitimes.
+<sup>3.</sup> Rien dans le par. 2, al. c) et e), n’affecte la responsabilité d’un gouvernement de maintenir ou rétablir l’ordre public dans l’État ou de défendre l’unité et l’intégrité territoriale de l’État par tous les moyens légitimes.
 
 [^8-1]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [RS 0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [RS 0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [RS 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^8-2]: Introduit par l’annexe I des Am. du 10 juin 2010 relatifs aux crimes de guerre, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8-3]: Introduit par l’annexe I I des Am. du 10 juin 2010 relatifs aux crimes de guerre, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8-4]: Introduit par l’annexe I I des Am. du 10 juin 2010 relatifs aux crimes de guerre, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-2]: Introduit par l’annexe I des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-3]: Introduit par l’annexe II des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-4]: Introduit par l’annexe III des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-5]: Introduit par l’annexe I des Am. du 10 juin 2010 relatifs aux crimes de guerre, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-6]: Introduit par l’annexe I I des Am. du 10 juin 2010 relatifs aux crimes de guerre, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-7]: Introduit par l’annexe I I des Am. du 10 juin 2010 relatifs aux crimes de guerre, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-8]: Introduit par l’annexe I des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-9]: Introduit par l’annexe II des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-10]: Introduit par l’annexe III des Am. du 14 déc. 2017, approuvés par l’Ass. féd. le 20 déc. 2019, en vigueur pour la Suisse depuis le 7 juil. 2021 ([RO 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3781](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
 
 #### Art. 8<sup>bis</sup>
 
 **Crime d’agression**[^8bis-1]
 
-<sup>1.</sup> Aux fins du présent Statut, on entend par «crime d’agression» la planification, la préparation, le lancement ou l’exécution par une personne effectivement en mesure de contrôler ou de diriger l’action politique ou militaire d’un Etat, d’un acte d’agression qui, par sa nature, sa gravité et son ampleur, constitue une violation manifeste de la Charte des Nations Unies du 26 juin 1945[^8bis-2].
+<sup>1.</sup> Aux fins du présent Statut, on entend par «crime d’agression» la planification, la préparation, le lancement ou l’exécution par une personne effectivement en mesure de contrôler ou de diriger l’action politique ou militaire d’un État, d’un acte d’agression qui, par sa nature, sa gravité et son ampleur, constitue une violation manifeste de la Charte des Nations Unies du 26 juin 1945[^8bis-2].
 
 <sup>2.</sup>
 
-Aux fins du par. 1, on entend par «acte d’agression» l’emploi par un Etat de la force armée contre la souveraineté, l’intégrité territoriale ou l’indépendance politique d’un autre Etat, ou de toute autre manière incompatible avec la Charte des Nations Unies. Qu’il y ait ou non déclaration de guerre, les actes suivants sont des actes d’agression au regard de la résolution 3314 (XXIX) de l’Assemblée générale des Nations Unies en date du 14 décembre 1974:
+Aux fins du par. 1, on entend par «acte d’agression» l’emploi par un État de la force armée contre la souveraineté, l’intégrité territoriale ou l’indépendance politique d’un autre État, ou de toute autre manière incompatible avec la Charte des Nations Unies. Qu’il y ait ou non déclaration de guerre, les actes suivants sont des actes d’agression au regard de la résolution 3314 (XXIX) de l’Assemblée générale des Nations Unies en date du 14 décembre 1974:
 
-- a) l’invasion ou l’attaque par les forces armées d’un Etat du territoire d’un autre Etat ou l’occupation militaire, même temporaire, résultant d’une telle invasion ou d’une telle attaque, ou l’annexion par la force de la totalité ou d’une partie du territoire d’un autre Etat;
-- b) le bombardement par les forces armées d’un Etat du territoire d’un autre Etat, ou l’utilisation d’une arme quelconque par un Etat contre le territoire d’un autre Etat;
-- c) le blocus des ports ou des côtes d’un Etat par les forces armées d’un autre Etat;
-- d) l’attaque par les forces armées d’un Etat des forces terrestres, maritimes ou aériennes, ou des flottes aériennes et maritimes d’un autre Etat;
-- e) l’emploi des forces armées d’un Etat qui se trouvent dans le territoire d’un autre Etat avec l’agrément de celui-ci en contravention avec les conditions fixées dans l’accord pertinent, ou la prolongation de la présence de ces forces sur ce territoire après l’échéance de l’accord pertinent;
-- f) le fait pour un Etat de permettre que son territoire, qu’il a mis à la disposition d’un autre Etat, serve à la commission par cet autre Etat d’un acte d’agression contre un Etat tiers;
-- g) l’envoi par un Etat ou au nom d’un Etat de bandes, groupes, troupes irrégulières ou mercenaires armés qui exécutent contre un autre Etat des actes assimilables à ceux de forces armées d’une gravité égale à celle des actes énumérés ci-dessus, ou qui apportent un concours substantiel à de tels actes.
+- a) l’invasion ou l’attaque par les forces armées d’un État du territoire d’un autre État ou l’occupation militaire, même temporaire, résultant d’une telle invasion ou d’une telle attaque, ou l’annexion par la force de la totalité ou d’une partie du territoire d’un autre État;
+- b) le bombardement par les forces armées d’un État du territoire d’un autre État, ou l’utilisation d’une arme quelconque par un État contre le territoire d’un autre État;
+- c) le blocus des ports ou des côtes d’un État par les forces armées d’un autre État;
+- d) l’attaque par les forces armées d’un État des forces terrestres, maritimes ou aériennes, ou des flottes aériennes et maritimes d’un autre État;
+- e) l’emploi des forces armées d’un État qui se trouvent dans le territoire d’un autre État avec l’agrément de celui-ci en contravention avec les conditions fixées dans l’accord pertinent, ou la prolongation de la présence de ces forces sur ce territoire après l’échéance de l’accord pertinent;
+- f) le fait pour un État de permettre que son territoire, qu’il a mis à la disposition d’un autre État, serve à la commission par cet autre État d’un acte d’agression contre un État tiers;
+- g) l’envoi par un État ou au nom d’un État de bandes, groupes, troupes irrégulières ou mercenaires armés qui exécutent contre un autre État des actes assimilables à ceux de forces armées d’une gravité égale à celle des actes énumérés ci-dessus, ou qui apportent un concours substantiel à de tels actes.
 
 [^8bis-1]: Introduit par le ch. 2 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 [^8bis-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
 #### Art. 9
 
-**Eléments des crimes**
+**Éléments des crimes**
 
-<sup>1.</sup> Les éléments des crimes aident la Cour à interpréter et appliquer les art. 6, 7, 8 et 8<sup>bis</sup>.[^9-1] Ils doivent être adoptés à la majorité des deux tiers des membres de l’Assemblée des Etats Parties.
+<sup>1.</sup> Les éléments des crimes aident la Cour à interpréter et appliquer les art. 6, 7, 8 et 8<sup>bis</sup>.[^9-1] Ils doivent être adoptés à la majorité des deux tiers des membres de l’Assemblée des États Parties.
 
-<sup>2.</sup> Les amendements doivent être adoptés à la majorité des deux tiers des membres de l’Assemblée des Etats Parties.
+<sup>2.</sup> Les amendements doivent être adoptés à la majorité des deux tiers des membres de l’Assemblée des États Parties.
 
 Des amendements aux éléments des crimes peuvent être proposés par:
 
-- a) tout Etat Partie;
+- a) tout État Partie;
 - b) les juges, statuant à la majorité absolue;
 - c) le Procureur.
 
@@ -302,22 +314,22 @@ Aucune disposition du présent chapitre ne doit être interprétée comme limita
 
 <sup>1.</sup> La Cour n’a compétence qu’à l’égard des crimes relevant de sa compétence commis après l’entrée en vigueur du présent Statut.
 
-<sup>2.</sup> Si un Etat devient Partie au présent Statut après l’entrée en vigueur de celui-ci, la Cour ne peut exercer sa compétence qu’à l’égard des crimes commis après l’entrée en vigueur du Statut pour cet Etat, sauf si ledit Etat fait la déclaration prévue à l’art. 12, par. 3.
+<sup>2.</sup> Si un État devient Partie au présent Statut après l’entrée en vigueur de celui-ci, la Cour ne peut exercer sa compétence qu’à l’égard des crimes commis après l’entrée en vigueur du Statut pour cet État, sauf si ledit État fait la déclaration prévue à l’art. 12, par. 3.
 
 #### Art. 12
 
 **Conditions préalables à l’exercice de la compétence**
 
-<sup>1.</sup> Un Etat qui devient Partie au Statut accepte par là même la compétence de la Cour à l’égard des crimes visés à l’art. 5.
+<sup>1.</sup> Un État qui devient Partie au Statut accepte par là même la compétence de la Cour à l’égard des crimes visés à l’art. 5.
 
 <sup>2.</sup>
 
-Dans les cas visés à l’art. 13, par. a) ou c), la Cour peut exercer sa compétence si l’un des Etats suivants ou les deux sont Parties au présent Statut ou ont accepté la compétence de la Cour conformément au par. 3:
+Dans les cas visés à l’art. 13, par. a) ou c), la Cour peut exercer sa compétence si l’un des États suivants ou les deux sont Parties au présent Statut ou ont accepté la compétence de la Cour conformément au par. 3:
 
-- a) l’Etat sur le territoire duquel le comportement en cause a eu lieu ou, si le crime a été commis à bord d’un navire ou d’un aéronef, l’Etat du pavillon ou l’Etat d’immatriculation;
-- b) l’Etat dont la personne accusée du crime est un ressortissant.
+- a) l’État sur le territoire duquel le comportement en cause a eu lieu ou, si le crime a été commis à bord d’un navire ou d’un aéronef, l’État du pavillon ou l’État d’immatriculation;
+- b) l’État dont la personne accusée du crime est un ressortissant.
 
-<sup>3.</sup> Si l’acceptation de la compétence de la Cour par un Etat qui n’est pas Partie au présent Statut est nécessaire aux fins du par. 2, cet Etat peut, par déclaration déposée auprès du Greffier, consentir à ce que la Cour exerce sa compétence à l’égard du crime dont il s’agit. L’Etat ayant accepté la compétence de la Cour coopère avec celle-ci sans retard et sans exception conformément au chap. IX.
+<sup>3.</sup> Si l’acceptation de la compétence de la Cour par un État qui n’est pas Partie au présent Statut est nécessaire aux fins du par. 2, cet État peut, par déclaration déposée auprès du Greffier, consentir à ce que la Cour exerce sa compétence à l’égard du crime dont il s’agit. L’État ayant accepté la compétence de la Cour coopère avec celle-ci sans retard et sans exception conformément au chap. IX.
 
 #### Art. 13
 
@@ -325,17 +337,17 @@ Dans les cas visés à l’art. 13, par. a) ou c), la Cour peut exercer sa comp�
 
 La Cour peut exercer sa compétence à l’égard d’un crime visé à l’art. 5, conformément aux dispositions du présent Statut:
 
-- a) si une situation dans laquelle un ou plusieurs de ces crimes paraissent avoir été commis est déférée au Procureur par un Etat Partie, comme prévu à l’art. 14;
-- b) si une situation dans laquelle un ou plusieurs de ces crimes paraissent avoir été commis est déférée au Procureur par le Conseil de sécurité agissant en vertu du chap. VII de la Charte des Nations Unies; ou
+- a) si une situation dans laquelle un ou plusieurs de ces crimes paraissent avoir été commis est déférée au Procureur par un État Partie, comme prévu à l’art. 14;
+- b) si une situation dans laquelle un ou plusieurs de ces crimes paraissent avoir été commis est déférée au Procureur par le Conseil de sécurité agissant en vertu du chap. VII de la Charte des Nations Unies, ou
 - c) si le Procureur a ouvert une enquête sur le crime en question en vertu de l’art. 15.
 
 #### Art. 14
 
-**Renvoi d’une situation par un Etat Partie**
+**Renvoi d’une situation par un État Partie**
 
-<sup>1.</sup> Tout Etat Partie peut déférer au Procureur une situation dans laquelle un ou plusieurs des crimes relevant de la compétence de la Cour paraissent avoir été commis, et prier le Procureur d’enquêter sur cette situation en vue de déterminer si une ou plusieurs personnes identifiées devraient être accusées de ces crimes.
+<sup>1.</sup> Tout État Partie peut déférer au Procureur une situation dans laquelle un ou plusieurs des crimes relevant de la compétence de la Cour paraissent avoir été commis, et prier le Procureur d’enquêter sur cette situation en vue de déterminer si une ou plusieurs personnes identifiées devraient être accusées de ces crimes.
 
-<sup>2.</sup> L’Etat qui procède au renvoi indique autant que possible les circonstances pertinentes de l’affaire et produit les pièces à l’appui dont il dispose.
+<sup>2.</sup> L’État qui procède au renvoi indique autant que possible les circonstances pertinentes de l’affaire et produit les pièces à l’appui dont il dispose.
 
 #### Art. 15
 
@@ -343,7 +355,7 @@ La Cour peut exercer sa compétence à l’égard d’un crime visé à l’art.
 
 <sup>1.</sup> Le Procureur peut ouvrir une enquête de sa propre initiative au vu de renseignements concernant des crimes relevant de la compétence de la Cour.
 
-<sup>2.</sup> Le Procureur vérifie le sérieux des renseignements reçus. À cette fin, il peut rechercher des renseignements supplémentaires auprès d’Etats, d’organes de l’Organisation des Nations Unies, d’organisations intergouvernementales et non gouvernementales, ou d’autres sources dignes de foi qu’il juge appropriées, et recueillir des dépositions écrites ou orales au siège de la Cour.
+<sup>2.</sup> Le Procureur vérifie le sérieux des renseignements reçus. À cette fin, il peut rechercher des renseignements supplémentaires auprès d’États, d’organes de l’Organisation des Nations Unies, d’organisations intergouvernementales et non gouvernementales, ou d’autres sources dignes de foi qu’il juge appropriées, et recueillir des dépositions écrites ou orales au siège de la Cour.
 
 <sup>3.</sup> S’il conclut qu’il y a une base raisonnable pour ouvrir une enquête, le Procureur présente à la Chambre préliminaire une demande d’autorisation en ce sens, accompagnée de tout élément justificatif recueilli. Les victimes peuvent adresser des représentations à la Chambre préliminaire, conformément au Règlement de procédure et de preuve.
 
@@ -355,19 +367,19 @@ La Cour peut exercer sa compétence à l’égard d’un crime visé à l’art.
 
 #### Art. 15<sup>bis</sup>
 
-**Exercice de la compétence à l’égard du crime d’agression (Renvoi par un Etat, de sa propre initiative)**[^15bis-1]
+**Exercice de la compétence à l’égard du crime d’agression (Renvoi par un État, de sa propre initiative)**[^15bis-1]
 
 <sup>1.</sup> La Cour peut exercer sa compétence à l’égard du crime d’agression conformément aux par. a) et c) de l’art. 13, sous réserve des dispositions qui suivent.
 
-<sup>2.</sup> La Cour peut exercer sa compétence uniquement à l’égard de crimes d’agression commis un an après la ratification ou l’acceptation des amendements par 30 Etats Parties.
+<sup>2.</sup> La Cour peut exercer sa compétence uniquement à l’égard de crimes d’agression commis un an après la ratification ou l’acceptation des amendements par 30 États Parties.
 
-<sup>3.</sup> La Cour exerce sa compétence à l’égard du crime d’agression conformément à cet article, sous réserve d’une décision qui sera prise après le 1<sup>er</sup> janvier 2017 par la même majorité d’Etats Parties que celle requise pour l’adoption d’un amendement au Statut.
+<sup>3.</sup> La Cour exerce sa compétence à l’égard du crime d’agression conformément à cet article, sous réserve d’une décision qui sera prise après le 1<sup>er</sup> janvier 2017 par la même majorité d’États Parties que celle requise pour l’adoption d’un amendement au Statut.
 
-<sup>4.</sup> La Cour peut, conformément à l’art. 12, exercer sa compétence à l’égard d’un crime d’agression résultant d’un acte d’agression commis par un Etat Partie à moins que cet Etat Partie n’ait préalablement déclaré qu’il n’acceptait pas une telle compétence en déposant une déclaration auprès du Greffier. Le retrait d’une telle déclaration peut être effectué à tout moment et sera envisagé par l’Etat Partie dans un délai de trois ans.
+<sup>4.</sup> La Cour peut, conformément à l’art. 12, exercer sa compétence à l’égard d’un crime d’agression résultant d’un acte d’agression commis par un État Partie à moins que cet État Partie n’ait préalablement déclaré qu’il n’acceptait pas une telle compétence en déposant une déclaration auprès du Greffier. Le retrait d’une telle déclaration peut être effectué à tout moment et sera envisagé par l’État Partie dans un délai de trois ans.
 
-<sup>5.</sup> En ce qui concerne un Etat qui n’est pas Partie au présent Statut, la Cour n’exerce pas sa compétence à l’égard du crime d’agression quand celui-ci est commis par des ressortissants de cet Etat ou sur son territoire.
+<sup>5.</sup> En ce qui concerne un État qui n’est pas Partie au présent Statut, la Cour n’exerce pas sa compétence à l’égard du crime d’agression quand celui-ci est commis par des ressortissants de cet État ou sur son territoire.
 
-<sup>6.</sup> Lorsque le Procureur conclut qu’il y a une base raisonnable pour mener une enquête pour crime d’agression, il s’assure d’abord que le Conseil de sécurité a constaté qu’un acte d’agression avait été commis par l’Etat en cause. Il avise le Secrétaire général de l’Organisation des Nations Unies de la situation portée devant la Cour et lui communique toute information et tout document utiles.
+<sup>6.</sup> Lorsque le Procureur conclut qu’il y a une base raisonnable pour mener une enquête pour crime d’agression, il s’assure d’abord que le Conseil de sécurité a constaté qu’un acte d’agression avait été commis par l’État en cause. Il avise le Secrétaire général de l’Organisation des Nations Unies de la situation portée devant la Cour et lui communique toute information et tout document utiles.
 
 <sup>7.</sup> Lorsque le Conseil de sécurité a constaté un acte d’agression, le Procureur peut mener l’enquête sur ce crime.
 
@@ -385,9 +397,9 @@ La Cour peut exercer sa compétence à l’égard d’un crime visé à l’art.
 
 <sup>1.</sup> La Cour peut exercer sa compétence à l’égard du crime d’agression conformément au par. b) de l’art. 13, sous réserve des dispositions qui suivent.
 
-<sup>2.</sup> La Cour peut exercer sa compétence uniquement à l’égard de crimes d’agression commis un an après la ratification ou l’acceptation des amendements par 30 Etats Parties.
+<sup>2.</sup> La Cour peut exercer sa compétence uniquement à l’égard de crimes d’agression commis un an après la ratification ou l’acceptation des amendements par 30 États Parties.
 
-<sup>3.</sup> La Cour exerce sa compétence à l’égard du crime d’agression conformément à cet article, sous réserve d’une décision qui sera prise après le 1<sup>er</sup> janvier 2017 par la même majorité d’Etats Parties que celle requise pour l’adoption d’un amendement au Statut.
+<sup>3.</sup> La Cour exerce sa compétence à l’égard du crime d’agression conformément à cet article, sous réserve d’une décision qui sera prise après le 1<sup>er</sup> janvier 2017 par la même majorité d’États Parties que celle requise pour l’adoption d’un amendement au Statut.
 
 <sup>4.</sup> Le constat d’un acte d’agression par un organe extérieur à la Cour est sans préjudice des constatations que fait la Cour elle-même en vertu du présent Statut.
 
@@ -409,38 +421,38 @@ Aucune enquête ni aucune poursuite ne peuvent être engagées ni menées en ver
 
 Eu égard à al. 10 du préambule et à l’art. 1, une affaire est jugée irrecevable par la Cour lorsque:
 
-- a) l’affaire fait l’objet d’une enquête ou de poursuites de la part d’un Etat ayant compétence en l’espèce, à moins que cet Etat n’ait pas la volonté ou soit dans l’incapacité de mener véritablement à bien l’enquête ou les poursuites;
-- b) l’affaire a fait l’objet d’une enquête de la part d’un Etat ayant compétence en l’espèce et que cet Etat a décidé de ne pas poursuivre la personne concernée, à moins que cette décision ne soit l’effet du manque de volonté ou de l’incapacité de l’Etat de mener véritablement à bien des poursuites;
+- a) l’affaire fait l’objet d’une enquête ou de poursuites de la part d’un État ayant compétence en l’espèce, à moins que cet État n’ait pas la volonté ou soit dans l’incapacité de mener véritablement à bien l’enquête ou les poursuites;
+- b) l’affaire a fait l’objet d’une enquête de la part d’un État ayant compétence en l’espèce et que cet État a décidé de ne pas poursuivre la personne concernée, à moins que cette décision ne soit l’effet du manque de volonté ou de l’incapacité de l’État de mener véritablement à bien des poursuites;
 - c) la personne concernée a déjà été jugée pour le comportement faisant l’objet de la plainte, et qu’elle ne peut être jugée par la Cour en vertu de l’art. 20, par. 3;
 - d) l’affaire n’est pas suffisamment grave pour que la Cour y donne suite.
 
 <sup>2.</sup>
 
-Pour déterminer s’il y a manque de volonté de l’Etat dans un cas d’espèce, la Cour considère l’existence, eu égard aux garanties d’un procès équitable reconnues par le droit international, de l’une ou de plusieurs des circonstances suivantes:
+Pour déterminer s’il y a manque de volonté de l’État dans un cas d’espèce, la Cour considère l’existence, eu égard aux garanties d’un procès équitable reconnues par le droit international, de l’une ou de plusieurs des circonstances suivantes:
 
-- a) la procédure a été ou est engagée ou la décision de l’Etat a été prise dans le dessein de soustraire la personne concernée à sa responsabilité pénale pour les crimes relevant de la compétence de la Cour visés à l’art. 5;
+- a) la procédure a été ou est engagée ou la décision de l’État a été prise dans le dessein de soustraire la personne concernée à sa responsabilité pénale pour les crimes relevant de la compétence de la Cour visés à l’art. 5;
 - b) la procédure a subi un retard injustifié qui, dans les circonstances, est incompatible avec l’intention de traduire en justice la personne concernée;
 - c) la procédure n’a pas été ou n’est pas menée de manière indépendante ou impartiale mais d’une manière qui, dans les circonstances, est incompatible avec l’intention de traduire en justice la personne concernée.
 
-<sup>3.</sup> Pour déterminer s’il y a incapacité de l’Etat dans un cas d’espèce, la Cour considère si l’Etat est incapable, en raison de l’effondrement de la totalité ou d’une partie substantielle de son propre appareil judiciaire ou de l’indisponibilité de celui-ci, de se saisir de l’accusé, de réunir les éléments de preuve et les témoignages nécessaires ou de mener autrement à bien la procédure.
+<sup>3.</sup> Pour déterminer s’il y a incapacité de l’État dans un cas d’espèce, la Cour considère si l’État est incapable, en raison de l’effondrement de la totalité ou d’une partie substantielle de son propre appareil judiciaire ou de l’indisponibilité de celui-ci, de se saisir de l’accusé, de réunir les éléments de preuve et les témoignages nécessaires ou de mener autrement à bien la procédure.
 
 #### Art. 18
 
 **Décision préliminaire sur la recevabilité**
 
-<sup>1.</sup> Lorsqu’une situation a été déférée à la Cour comme le prévoit l’art. 13, al. a), et que le Procureur a déterminé qu’il y aurait une base raisonnable pour ouvrir une enquête, ou lorsque le Procureur a ouvert une enquête au titre des art. 13, par. c), et 15, le Procureur le notifie à tous les Etats Parties et aux Etats qui, selon les renseignements disponibles, auraient normalement compétence à l’égard des crimes dont il s’agit. Il peut le faire à titre confidentiel et, quand il juge que cela est nécessaire pour protéger des personnes, prévenir la destruction d’éléments de preuve ou empêcher la fuite de personnes, il peut restreindre l’étendue des renseignements qu’il communique aux Etats.
+<sup>1.</sup> Lorsqu’une situation a été déférée à la Cour comme le prévoit l’art. 13, al. a), et que le Procureur a déterminé qu’il y aurait une base raisonnable pour ouvrir une enquête, ou lorsque le Procureur a ouvert une enquête au titre des art. 13, par. c), et 15, le Procureur le notifie à tous les États Parties et aux États qui, selon les renseignements disponibles, auraient normalement compétence à l’égard des crimes dont il s’agit. Il peut le faire à titre confidentiel et, quand il juge que cela est nécessaire pour protéger des personnes, prévenir la destruction d’éléments de preuve ou empêcher la fuite de personnes, il peut restreindre l’étendue des renseignements qu’il communique aux États.
 
-<sup>2.</sup> Dans le mois qui suit la réception de cette notification, un Etat peut informer la Cour qu’il ouvre ou a ouvert une enquête sur ses ressortissants ou d’autres personnes sous sa juridiction pour des actes criminels qui pourraient être constitutifs des crimes visés à l’art. 5 et qui ont un rapport avec les renseignements notifiés aux Etats. Si l’Etat le lui demande, le Procureur lui défère le soin de l’enquête sur ces personnes, à moins que la Chambre préliminaire ne l’autorise, sur sa demande, à faire enquête lui-même.
+<sup>2.</sup> Dans le mois qui suit la réception de cette notification, un État peut informer la Cour qu’il ouvre ou a ouvert une enquête sur ses ressortissants ou d’autres personnes sous sa juridiction pour des actes criminels qui pourraient être constitutifs des crimes visés à l’art. 5 et qui ont un rapport avec les renseignements notifiés aux États. Si l’Etat le lui demande, le Procureur lui défère le soin de l’enquête sur ces personnes, à moins que la Chambre préliminaire ne l’autorise, sur sa demande, à faire enquête lui-même.
 
-<sup>3.</sup> Ce sursis à enquêter peut être réexaminé par le Procureur six mois après avoir été décidé, ou à tout moment où il se sera produit un changement notable de circonstances découlant du manque de volonté ou de l’incapacité de l’Etat de mener véritablement à bien l’enquête.
+<sup>3.</sup> Ce sursis à enquêter peut être réexaminé par le Procureur six mois après avoir été décidé, ou à tout moment où il se sera produit un changement notable de circonstances découlant du manque de volonté ou de l’incapacité de l’État de mener véritablement à bien l’enquête.
 
-<sup>4.</sup> L’Etat intéressé ou le Procureur peut relever appel devant la Chambre d’appel de la décision de la Chambre préliminaire, comme le prévoit l’art. 82. Cet appel peut être examiné selon une procédure accélérée.
+<sup>4.</sup> L’État intéressé ou le Procureur peut relever appel devant la Chambre d’appel de la décision de la Chambre préliminaire, comme le prévoit l’art. 82. Cet appel peut être examiné selon une procédure accélérée.
 
-<sup>5.</sup> Lorsqu’il sursoit à enquêter comme prévu au par. 2, le Procureur peut demander à l’Etat concerné de lui rendre régulièrement compte des progrès de son enquête et, le cas échéant, des poursuites engagées par la suite. Les Etats Parties répondent à ces demandes sans retard injustifié.
+<sup>5.</sup> Lorsqu’il sursoit à enquêter comme prévu au par. 2, le Procureur peut demander à l’État concerné de lui rendre régulièrement compte des progrès de son enquête et, le cas échéant, des poursuites engagées par la suite. Les États Parties répondent à ces demandes sans retard injustifié.
 
 <sup>6.</sup> En attendant la décision de la Chambre préliminaire, ou à tout moment après avoir décidé de surseoir à son enquête comme le prévoit le présent article, le Procureur peut, à titre exceptionnel, demander à la Chambre préliminaire l’autorisation de prendre les mesures d’enquête nécessaires pour préserver des éléments de preuve dans le cas où l’occasion de recueillir des éléments de preuve importants ne se représentera pas ou s’il y a un risque appréciable que ces éléments de preuve ne soient plus disponibles par la suite.
 
-<sup>7.</sup> L’Etat qui a contesté une décision de la Chambre préliminaire en vertu du présent article peut contester la recevabilité d’une affaire au regard de l’art. 19 en invoquant des faits nouveaux ou un changement de circonstances notables.
+<sup>7.</sup> L’État qui a contesté une décision de la Chambre préliminaire en vertu du présent article peut contester la recevabilité d’une affaire au regard de l’art. 19 en invoquant des faits nouveaux ou un changement de circonstances notables.
 
 #### Art. 19
 
@@ -453,18 +465,18 @@ Pour déterminer s’il y a manque de volonté de l’Etat dans un cas d’espè
 Peuvent contester la recevabilité de l’affaire pour les motifs indiqués à l’art. 17 ou contester la compétence de la Cour:
 
 - a) l’accusé ou la personne à l’encontre de laquelle a été délivré un mandat d’arrêt ou une citation à comparaître en vertu de l’art. 58;
-- b) l’Etat qui est compétent à l’égard du crime considéré du fait qu’il mène ou a mené une enquête, ou qu’il exerce ou a exercé des poursuites en l’espèce; ou
-- c) l’Etat qui doit avoir accepté la compétence de la Cour selon l’art. 12.
+- b) l’État qui est compétent à l’égard du crime considéré du fait qu’il mène ou a mené une enquête, ou qu’il exerce ou a exercé des poursuites en l’espèce, ou
+- c) l’État qui doit avoir accepté la compétence de la Cour selon l’art. 12.
 
 <sup>3.</sup> Le Procureur peut demander à la Cour de se prononcer sur une question de compétence ou de recevabilité. Dans les procédures portant sur la compétence ou la recevabilité, ceux qui ont déféré une situation en application de l’art. 13, ainsi que les victimes, peuvent également soumettre des observations à la Cour.
 
-<sup>4.</sup> La recevabilité d’une affaire ou la compétence de la Cour ne peut être contestée qu’une fois par les personnes ou les Etats visés au par. 2. L’exception doit être soulevée avant l’ouverture ou à l’ouverture du procès. Dans des circonstances exceptionnelles, la Cour peut autoriser qu’une exception soit soulevée plus d’une fois ou à une phase ultérieure du procès. Les exceptions d’irrecevabilité soulevées à l’ouverture du procès, ou par la suite avec l’autorisation de la Cour, ne peuvent être fondées que sur les dispositions de l’art. 17, par. 1, al. c).
+<sup>4.</sup> La recevabilité d’une affaire ou la compétence de la Cour ne peut être contestée qu’une fois par les personnes ou les États visés au par. 2. L’exception doit être soulevée avant l’ouverture ou à l’ouverture du procès. Dans des circonstances exceptionnelles, la Cour peut autoriser qu’une exception soit soulevée plus d’une fois ou à une phase ultérieure du procès. Les exceptions d’irrecevabilité soulevées à l’ouverture du procès, ou par la suite avec l’autorisation de la Cour, ne peuvent être fondées que sur les dispositions de l’art. 17, par. 1, al. c).
 
-<sup>5.</sup> Les Etats visés au par. 2, al. b) et c), soulèvent leur exception le plus tôt possible.
+<sup>5.</sup> Les États visés au par. 2, al. b) et c), soulèvent leur exception le plus tôt possible.
 
 <sup>6.</sup> Avant la confirmation des charges, les exceptions d’irrecevabilité ou d’incompétence sont renvoyées à la Chambre préliminaire. Après la confirmation des charges, elles sont renvoyées à la Chambre de première instance. Il peut être fait appel des décisions portant sur la compétence ou la recevabilité devant la Chambre d’appel conformément à l’art. 82.
 
-<sup>7.</sup> Si l’exception est soulevée par l’Etat visé au par. 2, al. b) ou c), le Procureur sursoit à enquêter jusqu’à ce que la Cour ait pris la décision prévue à l’art. 17.
+<sup>7.</sup> Si l’exception est soulevée par l’État visé au par. 2, al. b) ou c), le Procureur sursoit à enquêter jusqu’à ce que la Cour ait pris la décision prévue à l’art. 17.
 
 <sup>8.</sup>
 
@@ -472,13 +484,13 @@ En attendant qu’elle statue, le Procureur peut demander à la Cour l’autoris
 
 - a) de prendre les mesures d’enquête visées à l’art. 18, par. 6;
 - b) de recueillir la déposition ou le témoignage d’un témoin ou de mener à bien les opérations de rassemblement et d’examen des éléments de preuve commencées avant que l’exception ait été soulevée;
-- c) d’empêcher, en coopération avec les Etats concernés, la fuite des personnes contre lesquelles le Procureur a déjà requis un mandat d’arrêt conformément à l’art. 58.
+- c) d’empêcher, en coopération avec les États concernés, la fuite des personnes contre lesquelles le Procureur a déjà requis un mandat d’arrêt conformément à l’art. 58.
 
 <sup>9.</sup> Une exception n’entache en rien la validité de toute action du Procureur ou de toute ordonnance rendue ou de tout mandat délivré par la Cour avant que l’exception ait été soulevée.
 
 <sup>10.</sup> Quand la Cour a jugé une affaire irrecevable au regard de l’art. 17, le Procureur peut lui demander de reconsidérer sa décision s’il est certain que des faits nouvellement apparus infirment les raisons pour lesquelles l’affaire avait été jugée irrecevable en vertu de l’art. 17.
 
-<sup>11.</sup> Si, eu égard aux questions visées à l’art. 17, le Procureur sursoit à enquêter, il peut demander à l’Etat intéressé de lui communiquer des renseignements sur le déroulement de la procédure. Ces renseignements sont tenus confidentiels si l’Etat le demande. Si le Procureur décide par la suite d’ouvrir une enquête, il notifie sa décision à l’Etat dont la procédure était à l’origine du sursis.
+<sup>11.</sup> Si, eu égard aux questions visées à l’art. 17, le Procureur sursoit à enquêter, il peut demander à l’État intéressé de lui communiquer des renseignements sur le déroulement de la procédure. Ces renseignements sont tenus confidentiels si l’Etat le demande. Si le Procureur décide par la suite d’ouvrir une enquête, il notifie sa décision à l’État dont la procédure était à l’origine du sursis.
 
 #### Art. 20
 
@@ -492,7 +504,7 @@ En attendant qu’elle statue, le Procureur peut demander à la Cour l’autoris
 
 Quiconque a été jugé par une autre juridiction pour un comportement tombant aussi sous le coup des art. 6, 7, 8 ou 8<sup>bis</sup> ne peut être jugé par la Cour pour les mêmes faits que si la procédure devant l’autre juridiction:[^20-1]
 
-- a) avait pour but de soustraire la personne concernée à sa responsabilité pénale pour des crimes relevant de la compétence de la Cour; ou
+- a) avait pour but de soustraire la personne concernée à sa responsabilité pénale pour des crimes relevant de la compétence de la Cour, ou
 - b) n’a pas été au demeurant menée de manière indépendante ou impartiale, dans le respect des garanties d’un procès équitable prévues par le droit international, mais d’une manière qui, dans les circonstances, était incompatible avec l’intention de traduire l’intéressé en justice.
 
 [^20-1]: Nouvelle teneur selon le ch. 7 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
@@ -507,7 +519,7 @@ La Cour applique:
 
 - a) en premier lieu, le présent Statut, les éléments des crimes et le Règlement de procédure et de preuve;
 - b) en second lieu, selon qu’il convient, les traités applicables et les principes et règles du droit international, y compris les principes établis du droit international des conflits armés;
-- c) à défaut, les principes généraux du droit dégagés par la Cour à partir des lois nationales représentant les différents systèmes juridiques du monde, y compris, selon qu’il convient, les lois nationales des Etats sous la juridiction desquels tomberait normalement le crime, si ces principes ne sont pas incompatibles avec le présent Statut ni avec le droit international et les règles et normes internationales reconnues.
+- c) à défaut, les principes généraux du droit dégagés par la Cour à partir des lois nationales représentant les différents systèmes juridiques du monde, y compris, selon qu’il convient, les lois nationales des États sous la juridiction desquels tomberait normalement le crime, si ces principes ne sont pas incompatibles avec le présent Statut ni avec le droit international et les règles et normes internationales reconnues.
 
 <sup>2.</sup> La Cour peut appliquer les principes et règles de droit tels qu’elle les a interprétés dans ses décisions antérieures.
 
@@ -547,7 +559,7 @@ Une personne qui a été condamnée par la Cour ne peut être punie que conform�
 
 <sup>2.</sup> Quiconque commet un crime relevant de la compétence de la Cour est individuellement responsable et peut être puni conformément au présent Statut.
 
-<sup>3.</sup> 3<sup>bis</sup>. S’agissant du crime d’agression, les dispositions du présent article ne s’appliquent qu’aux personnes effectivement en mesure de contrôler ou de diriger l’action politique ou militaire d’un Etat.[^25-1]
+<sup>3.</sup> 3<sup>bis</sup>. S’agissant du crime d’agression, les dispositions du présent article ne s’appliquent qu’aux personnes effectivement en mesure de contrôler ou de diriger l’action politique ou militaire d’un État.[^25-1]
 
 Aux termes du présent Statut, une personne est pénalement responsable et peut être punie pour un crime relevant de la compétence de la Cour si:
 
@@ -558,13 +570,13 @@ Aux termes du présent Statut, une personne est pénalement responsable et peut 
 
   elle contribue de toute autre manière à la commission ou à la tentative de commission d’un tel crime par un groupe de personnes agissant de concert. Cette contribution doit être intentionnelle et, selon le cas:
 
-  - i) viser à faciliter l’activité criminelle ou le dessein criminel du groupe, si cette activité ou ce dessein comporte l’exécution d’un crime relevant de la compétence de la Cour; ou
+  - i) viser à faciliter l’activité criminelle ou le dessein criminel du groupe, si cette activité ou ce dessein comporte l’exécution d’un crime relevant de la compétence de la Cour, ou
   - ii) être faite en pleine connaissance de l’intention du groupe de commettre ce crime;
 
 - e) s’agissant du crime de génocide, elle incite directement et publiquement autrui à le commettre;
 - f) elle tente de commettre un tel crime par des actes qui, par leur caractère substantiel, constituent un commencement d’exécution mais sans que le crime soit accompli en raison de circonstances indépendantes de sa volonté. Toutefois, la personne qui abandonne l’effort tendant à commettre le crime ou en empêche de quelque autre façon l’achèvement ne peut être punie en vertu du présent Statut pour sa tentative si elle a complètement et volontairement renoncé au dessein criminel.
 
-<sup>4.</sup> Aucune disposition du présent Statut relative à la responsabilité pénale des individus n’affecte la responsabilité des Etats en droit international.
+<sup>4.</sup> Aucune disposition du présent Statut relative à la responsabilité pénale des individus n’affecte la responsabilité des États en droit international.
 
 [^25-1]: Introduit par le ch. 5 de l’annexe I des Am. du 11 juin 2010 relatifs au crime d’agression, approuvés par l’Ass. féd. le 20 mars 2015, en vigueur pour la Suisse depuis le 10 sept. 2016 ([RO 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1973](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
@@ -578,7 +590,7 @@ La Cour n’a pas compétence à l’égard d’une personne qui était âgée d
 
 **Défaut de pertinence de la qualité officielle**
 
-<sup>1.</sup> Le présent Statut s’applique à tous de manière égale, sans aucune distinction fondée sur la qualité officielle. En particulier, la qualité officielle de chef d’Etat ou de gouvernement, de membre d’un gouvernement ou d’un parlement, de représentant élu ou d’agent d’un Etat, n’exonère en aucun cas de la responsabilité pénale au regard du présent Statut, pas plus qu’elle ne constitue en tant que telle un motif de réduction de la peine.
+<sup>1.</sup> Le présent Statut s’applique à tous de manière égale, sans aucune distinction fondée sur la qualité officielle. En particulier, la qualité officielle de chef d’État ou de gouvernement, de membre d’un gouvernement ou d’un parlement, de représentant élu ou d’agent d’un État, n’exonère en aucun cas de la responsabilité pénale au regard du présent Statut, pas plus qu’elle ne constitue en tant que telle un motif de réduction de la peine.
 
 <sup>2.</sup> Les immunités ou règles de procédure spéciales qui peuvent s’attacher à la qualité officielle d’une personne, en vertu du droit interne ou du droit international, n’empêchent pas la Cour d’exercer sa compétence à l’égard de cette personne.
 
@@ -592,7 +604,7 @@ Outre les autres motifs de responsabilité pénale au regard du présent Statut 
 
   un chef militaire ou une personne faisant effectivement fonction de chef militaire est pénalement responsable des crimes relevant de la compétence de la Cour commis par des forces placées sous son commandement et son contrôle effectifs, ou sous son autorité et son contrôle effectifs, selon le cas, lorsqu’il ou elle n’a pas exercé le contrôle qui convenait sur ces forces dans les cas où:
 
-  - i) ce chef militaire ou cette personne savait, ou, en raison des circonstances, aurait dû savoir, que ces forces commettaient ou allaient commettre ces crimes; et
+  - i) ce chef militaire ou cette personne savait, ou, en raison des circonstances, aurait dû savoir, que ces forces commettaient ou allaient commettre ces crimes, et
   - ii) ce chef militaire ou cette personne n’a pas pris toutes les mesures nécessaires et raisonnables qui étaient en son pouvoir pour en empêcher ou en réprimer l’exécution ou pour en référer aux autorités compétentes aux fins d’enquête et de poursuites;
 
 - b)
@@ -600,7 +612,7 @@ Outre les autres motifs de responsabilité pénale au regard du présent Statut 
   en ce qui concerne les relations entre supérieur hiérarchique et subordonnés non décrites au par. a), le supérieur hiérarchique est pénalement responsable des crimes relevant de la compétence de la Cour commis par des subordonnés placés sous son autorité et son contrôle effectifs, lorsqu’il ou elle n’a pas exercé le contrôle qui convenait sur ces subordonnés dans les cas où:
 
   - i) le supérieur hiérarchique savait que ces subordonnés commettaient ou allaient commettre ces crimes ou a délibérément négligé de tenir compte d’informations qui l’indiquaient clairement;
-  - ii) ces crimes étaient liés à des activités relevant de sa responsabilité et de son contrôle effectifs; et
+  - ii) ces crimes étaient liés à des activités relevant de sa responsabilité et de son contrôle effectifs, et
   - iii) le supérieur hiérarchique n’a pas pris toutes les mesures nécessaires et raisonnables qui étaient en son pouvoir pour en empêcher ou en réprimer l’exécution ou pour en référer aux autorités compétentes aux fins d’enquête et de poursuites.
 
 #### Art. 29
@@ -611,7 +623,7 @@ Les crimes relevant de la compétence de la Cour ne se prescrivent pas.
 
 #### Art. 30
 
-**Elément psychologique**
+**Élément psychologique**
 
 <sup>1.</sup> Sauf disposition contraire, nul n’est pénalement responsable et ne peut être puni à raison d’un crime relevant de la compétence de la Cour que si l’élément matériel du crime est commis avec intention et connaissance.
 
@@ -663,7 +675,7 @@ Outre les autres motifs d’exonération de la responsabilité pénale prévus p
 Le fait qu’un crime relevant de la compétence de la Cour a été commis sur ordre d’un gouvernement ou d’un supérieur, militaire ou civil, n’exonère pas la personne qui l’a commis de sa responsabilité pénale, à moins que:
 
 - a) cette personne n’ait eu l’obligation légale d’obéir aux ordres du gouvernement ou du supérieur en question;
-- b) cette personne n’ait pas su que l’ordre était illégal; et
+- b) cette personne n’ait pas su que l’ordre était illégal, et
 - c) l’ordre n’ait pas été manifestement illégal.
 
 <sup>2.</sup> Aux fins du présent article, l’ordre de commettre un génocide ou un crime contre l’humanité est manifestement illégal.
@@ -699,54 +711,54 @@ Les organes de la Cour sont les suivants:
 
 <sup>1.</sup> Sous réserve du par. 2, la Cour se compose de 18 juges.
 
-- 2\. a) La Présidence peut au nom de la Cour proposer d’augmenter le nombre des juges fixé au par. 1, en motivant dûment sa proposition. Celle-ci est communiquée sans délai à tous les Etats Parties par le Greffier.
-- b) La proposition est ensuite examinée lors d’une réunion de l’Assemblée des Etats Parties convoquée conformément à l’art. 112. Elle est considérée comme adoptée si elle est approuvée à cette réunion à la majorité des deux tiers des membres de l’Assemblée des Etats Parties. Elle devient effective à la date que fixe l’Assemblée des Etats Parties.
-- c) i) Quand la proposition d’augmenter le nombre des juges a été adoptée conformément à l’al. b), l’élection des juges supplémentaires a lieu à la réunion suivante de l’Assemblée des Etats Parties, conformément aux par. 3 à 8, et à l’art. 37, par. 2;
+- 2\. a) La Présidence peut au nom de la Cour proposer d’augmenter le nombre des juges fixé au par. 1, en motivant dûment sa proposition. Celle-ci est communiquée sans délai à tous les États Parties par le Greffier.
+- b) La proposition est ensuite examinée lors d’une réunion de l’Assemblée des États Parties convoquée conformément à l’art. 112. Elle est considérée comme adoptée si elle est approuvée à cette réunion à la majorité des deux tiers des membres de l’Assemblée des États Parties. Elle devient effective à la date que fixe l’Assemblée des États Parties.
+- c) i) Quand la proposition d’augmenter le nombre des juges a été adoptée conformément à l’al. b), l’élection des juges supplémentaires a lieu à la réunion suivante de l’Assemblée des États Parties, conformément aux par. 3 à 8, et à l’art. 37, par. 2;
   - ii) Quand la proposition d’augmenter le nombre des juges a été adoptée et est devenue effective conformément aux al. b) et c), sous-al. i), la Présidence peut proposer à tout moment par la suite, si le travail de la Cour le justifie, de réduire le nombre des juges, mais pas en deçà du nombre fixé au par. 1. La proposition est examinée selon la procédure établie aux al. a) et b). Si elle est adoptée, le nombre des juges diminue progressivement à mesure que le mandat des juges en exercice vient à expiration, et ainsi jusqu’à ce que le nombre prévu soit atteint.
 
-- 3\. a) Les juges sont choisis parmi des personnes jouissant d’une haute considération morale, connues pour leur impartialité et leur intégrité et réunissant les conditions requises dans leurs Etats respectifs pour l’exercice des plus hautes fonctions judiciaires.
+- 3\. a) Les juges sont choisis parmi des personnes jouissant d’une haute considération morale, connues pour leur impartialité et leur intégrité et réunissant les conditions requises dans leurs États respectifs pour l’exercice des plus hautes fonctions judiciaires.
 - b)
 
   Tout candidat à un siège à la Cour doit:
 
-  - i) avoir une compétence reconnue dans les domaines du droit pénal et de la procédure pénale ainsi que l’expérience nécessaire du procès pénal, que ce soit en qualité de juge, de procureur ou d’avocat, ou en toute autre qualité similaire; ou
+  - i) avoir une compétence reconnue dans les domaines du droit pénal et de la procédure pénale ainsi que l’expérience nécessaire du procès pénal, que ce soit en qualité de juge, de procureur ou d’avocat, ou en toute autre qualité similaire, ou
   - ii) avoir une compétence reconnue dans des domaines pertinents du droit international, tels que le droit international humanitaire et les droits de l’homme, ainsi qu’une grande expérience dans une profession juridique qui présente un intérêt pour le travail judiciaire de la Cour.
 
 - c) Tout candidat à un siège à la Cour doit avoir une excellente connaissance et une pratique courante d’au moins une des langues de travail de la Cour.
 - 4\. a)
 
-  Les candidats à un siège à la Cour peuvent être présentés par tout Etat Partie au présent Statut:
+  Les candidats à un siège à la Cour peuvent être présentés par tout État Partie au présent Statut:
 
-  - i) selon la procédure de présentation de candidatures aux plus hautes fonctions judiciaires dans l’Etat en question; ou
+  - i) selon la procédure de présentation de candidatures aux plus hautes fonctions judiciaires dans l’État en question, ou
   - ii) selon la procédure de présentation de candidatures à la Cour internationale de Justice prévue dans le Statut de celle-ci.
 
 - Les candidatures sont accompagnées d’un document détaillé montrant que le candidat présente les qualités prévues au par. 3.
-- b) Chaque Etat Partie peut présenter la candidature d’une personne à une élection donnée. Cette personne n’a pas nécessairement sa nationalité mais doit avoir celle d’un Etat Partie.
-- c) L’Assemblée des Etats Parties peut décider de constituer, selon qu’il convient, une commission consultative pour l’examen des candidatures. Dans ce cas, la composition et le mandat de cette commission sont définis par l’Assemblée des Etats Parties.
+- b) Chaque État Partie peut présenter la candidature d’une personne à une élection donnée. Cette personne n’a pas nécessairement sa nationalité mais doit avoir celle d’un État Partie.
+- c) L’Assemblée des États Parties peut décider de constituer, selon qu’il convient, une commission consultative pour l’examen des candidatures. Dans ce cas, la composition et le mandat de cette commission sont définis par l’Assemblée des États Parties.
 
-<sup>5.</sup> Tout candidat possédant les compétences requises pour figurer sur les deux listes peut choisir celle sur laquelle il se présente. A la première élection, neuf juges au moins sont élus parmi les candidats de la liste A et cinq juges au moins parmi ceux de la liste B. Les élections suivantes sont organisées de manière à maintenir la même proportion entre les juges élus sur l’une et l’autre listes.
+<sup>5.</sup> Tout candidat possédant les compétences requises pour figurer sur les deux listes peut choisir celle sur laquelle il se présente. À la première élection, neuf juges au moins sont élus parmi les candidats de la liste A et cinq juges au moins parmi ceux de la liste B. Les élections suivantes sont organisées de manière à maintenir la même proportion entre les juges élus sur l’une et l’autre listes.
 
 Aux fins de l’élection, il est établi deux listes de candidats:
 
 - – la liste A, qui contient les noms des candidats possédant les compétences visées au par. 3, al. b), sous-al. i);
 - – la liste B, qui contient les noms des candidats possédant les compétences visées au par. 3, al. b), sous-al. ii).
 
-- 6\. a) Les juges sont élus au scrutin secret lors d’une réunion de l’Assemblée des Etats Parties convoquée à cet effet en vertu de l’art. 112. Sous réserve du par. 7, sont élus les 18 candidats ayant obtenu le nombre de voix le plus élevé et la majorité des deux tiers des Etats Parties présents et votants.
+- 6\. a) Les juges sont élus au scrutin secret lors d’une réunion de l’Assemblée des États Parties convoquée à cet effet en vertu de l’art. 112. Sous réserve du par. 7, sont élus les 18 candidats ayant obtenu le nombre de voix le plus élevé et la majorité des deux tiers des États Parties présents et votants.
 - b) S’il reste des sièges à pourvoir à l’issue du premier tour de scrutin, il est procédé à des scrutins successifs conformément à la procédure établie à l’al. a) jusqu’à ce que les sièges restants aient été pourvus.
 
-<sup>7.</sup> La Cour ne peut comprendre plus d’un ressortissant du même Etat. A cet égard, celui qui peut être considéré comme le ressortissant de plus d’un Etat est censé être ressortissant de l’Etat où il exerce habituellement ses droits civils et politiques.
+<sup>7.</sup> La Cour ne peut comprendre plus d’un ressortissant du même État. À cet égard, celui qui peut être considéré comme le ressortissant de plus d’un État est censé être ressortissant de l’État où il exerce habituellement ses droits civils et politiques.
 
 - 8\. a)
 
-  Dans le choix des juges, les Etats Parties tiennent compte de la nécessité d’assurer, dans la composition de la Cour:
+  Dans le choix des juges, les États Parties tiennent compte de la nécessité d’assurer, dans la composition de la Cour:
 
   - i) la représentation des principaux systèmes juridiques du monde;
-  - ii) une représentation géographique équitable; et
+  - ii) une représentation géographique équitable, et
   - iii) une représentation équitable des hommes et des femmes.
 
-- b) Les Etats Parties tiennent également compte de la nécessité d’assurer la présence de juges spécialisés dans certaines matières, y compris, mais sans s’y limiter, les questions liées à la violence contre les femmes ou les enfants.
+- b) Les États Parties tiennent également compte de la nécessité d’assurer la présence de juges spécialisés dans certaines matières, y compris, mais sans s’y limiter, les questions liées à la violence contre les femmes ou les enfants.
 - 9\. a) Sous réserve de l’al. b), les juges sont élus pour un mandat de neuf ans et, sous réserve de l’al. c) et de l’art. 37, par. 2, ils ne sont pas rééligibles.
-- b) A la première élection, un tiers des juges élus, désignés par tirage au sort, sont nommés pour un mandat de trois ans; un tiers des juges élus, désignés par tirage au sort, sont nommés pour un mandat de six ans; les autres juges sont nommés pour un mandat de neuf ans.
+- b) À la première élection, un tiers des juges élus, désignés par tirage au sort, sont nommés pour un mandat de trois ans; un tiers des juges élus, désignés par tirage au sort, sont nommés pour un mandat de six ans; les autres juges sont nommés pour un mandat de neuf ans.
 - c) Un juge nommé pour un mandat de trois ans en application de l’al. b) est rééligible pour un mandat complet.
 
 <sup>10.</sup> Nonobstant les dispositions du par. 9, un juge affecté à une Chambre de première instance ou d’appel conformément à l’art. 39, qui a commencé à connaître devant cette chambre d’une affaire en première instance ou en appel, reste en fonctions jusqu’à la conclusion de cette affaire.
@@ -771,7 +783,7 @@ Aux fins de l’élection, il est établi deux listes de candidats:
 
 Le Président, le Premier Vice-Président et le Second Vice-Président composent la Présidence, laquelle est chargée:
 
-- a) de la bonne administration de la Cour, à l’exception du Bureau du Procureur; et
+- a) de la bonne administration de la Cour, à l’exception du Bureau du Procureur, et
 - b) des autres fonctions qui lui sont conférées conformément au présent Statut.
 
 <sup>4.</sup> Dans l’exercice des attributions visées au par. 3, al. a), la Présidence agit en coordination avec le Procureur, dont elle recherche l’accord pour toutes les questions d’intérêt commun.
@@ -825,7 +837,7 @@ Le Président, le Premier Vice-Président et le Second Vice-Président composent
 
 <sup>3.</sup> Le Procureur et les procureurs adjoints doivent jouir d’une haute considération morale et avoir de solides compétences et une grande expérience pratique en matière de poursuites ou de procès dans des affaires pénales. Ils doivent avoir une excellente connaissance et une pratique courante d’au moins une des langues de travail de la Cour.
 
-<sup>4.</sup> Le Procureur est élu au scrutin secret par l’Assemblée des Etats Parties, à la majorité absolue des membres de celle-ci. Les procureurs adjoints sont élus de la même façon sur une liste de candidats présentée par le Procureur. Le Procureur présente trois candidats pour chaque poste de procureur adjoint à pourvoir. À moins qu’il ne soit décidé d’un mandat plus court au moment de leur élection, le Procureur et les procureurs adjoints exercent leurs fonctions pendant neuf ans et ne sont pas rééligibles.
+<sup>4.</sup> Le Procureur est élu au scrutin secret par l’Assemblée des États Parties, à la majorité absolue des membres de celle-ci. Les procureurs adjoints sont élus de la même façon sur une liste de candidats présentée par le Procureur. Le Procureur présente trois candidats pour chaque poste de procureur adjoint à pourvoir. À moins qu’il ne soit décidé d’un mandat plus court au moment de leur élection, le Procureur et les procureurs adjoints exercent leurs fonctions pendant neuf ans et ne sont pas rééligibles.
 
 <sup>5.</sup> Ni le Procureur ni les procureurs adjoints n’exercent d’activité risquant d’être incompatible avec leurs fonctions en matière de poursuites ou de faire douter de leur indépendance. Ils ne se livrent à aucune autre activité de caractère professionnel.
 
@@ -850,7 +862,7 @@ Le Président, le Premier Vice-Président et le Second Vice-Président composent
 
 <sup>3.</sup> Le Greffier et le Greffier adjoint doivent être des personnes d’une haute moralité et d’une grande compétence, ayant une excellente connaissance et une pratique courante d’au moins une des langues de travail de la Cour.
 
-<sup>4.</sup> Les juges élisent le Greffier à la majorité absolue et au scrutin secret, en tenant compte des recommandations éventuelles de l’Assemblée des Etats Parties. Si le besoin s’en fait sentir, ils élisent de la même manière un greffier adjoint sur recommandation du Greffier.
+<sup>4.</sup> Les juges élisent le Greffier à la majorité absolue et au scrutin secret, en tenant compte des recommandations éventuelles de l’Assemblée des États Parties. Si le besoin s’en fait sentir, ils élisent de la même manière un greffier adjoint sur recommandation du Greffier.
 
 <sup>5.</sup> Le Greffier est élu pour cinq ans, est rééligible une fois et exerce ses fonctions à plein temps. Le Greffier adjoint est élu pour cinq ans ou pour un mandat plus court, selon ce qui peut être décidé à la majorité absolue des juges; il est appelé à exercer ses fonctions selon les exigences du service.
 
@@ -864,9 +876,9 @@ Le Président, le Premier Vice-Président et le Second Vice-Président composent
 
 <sup>2.</sup> Lorsqu’ils recrutent le personnel, le Procureur et le Greffier veillent à s’assurer les services de personnes possédant les plus hautes qualités d’efficacité, de compétence et d’intégrité, en tenant compte, *mutatis mutandis*, des critères énoncés à l’art. 36, par. 8.
 
-<sup>3.</sup> Le Greffier, en accord avec la Présidence et le Procureur, propose le Statut du personnel, qui comprend les conditions de nomination, de rémunération et de cessation de fonctions. Le Statut du personnel est approuvé par l’Assemblée des Etats Parties.
+<sup>3.</sup> Le Greffier, en accord avec la Présidence et le Procureur, propose le Statut du personnel, qui comprend les conditions de nomination, de rémunération et de cessation de fonctions. Le Statut du personnel est approuvé par l’Assemblée des États Parties.
 
-<sup>4.</sup> La Cour peut, dans des circonstances exceptionnelles, avoir recours à l’expertise de personnel mis à sa disposition à titre gracieux par des Etats Parties, des organisations intergouvernementales ou des organisations non gouvernementales pour aider tout organe de la Cour dans ses travaux. Le Procureur peut accepter un tel personnel pour le Bureau du Procureur. Les personnes mises à disposition à titre gracieux sont employées conformément aux directives qui seront établies par l’Assemblée des Etats Parties.
+<sup>4.</sup> La Cour peut, dans des circonstances exceptionnelles, avoir recours à l’expertise de personnel mis à sa disposition à titre gracieux par des États Parties, des organisations intergouvernementales ou des organisations non gouvernementales pour aider tout organe de la Cour dans ses travaux. Le Procureur peut accepter un tel personnel pour le Bureau du Procureur. Les personnes mises à disposition à titre gracieux sont employées conformément aux directives qui seront établies par l’Assemblée des États Parties.
 
 #### Art. 45
 
@@ -882,16 +894,16 @@ Avant de prendre les fonctions que prévoit le présent Statut, les juges, le Pr
 
 Un juge, le Procureur, un procureur adjoint, le Greffier ou le Greffier adjoint est relevé de ses fonctions sur décision prise conformément au par. 2, dans les cas où:
 
-- a) il est établi qu’il a commis une faute lourde ou un manquement grave aux devoirs que lui impose le présent Statut, selon ce qui est prévu dans le Règlement de procédure et de preuve; ou
+- a) il est établi qu’il a commis une faute lourde ou un manquement grave aux devoirs que lui impose le présent Statut, selon ce qui est prévu dans le Règlement de procédure et de preuve, ou
 - b) il se trouve dans l’incapacité d’exercer ses fonctions, telles que les définit le présent Statut.
 
 <sup>2.</sup>
 
-La décision concernant la perte de fonctions d’un juge, du Procureur ou d’un procureur adjoint en application du par. 1 est prise par l’Assemblée des Etats Parties au scrutin secret:
+La décision concernant la perte de fonctions d’un juge, du Procureur ou d’un procureur adjoint en application du par. 1 est prise par l’Assemblée des États Parties au scrutin secret:
 
-- a) dans le cas d’un juge, à la majorité des deux tiers des Etats Parties sur recommandation adoptée à la majorité des deux tiers des autres juges;
-- b) dans le cas du Procureur, à la majorité absolue des Etats Parties;
-- c) dans le cas d’un procureur adjoint, à la majorité absolue des Etats Parties sur recommandation du Procureur.
+- a) dans le cas d’un juge, à la majorité des deux tiers des États Parties sur recommandation adoptée à la majorité des deux tiers des autres juges;
+- b) dans le cas du Procureur, à la majorité absolue des États Parties;
+- c) dans le cas d’un procureur adjoint, à la majorité absolue des États Parties sur recommandation du Procureur.
 
 <sup>3.</sup> La décision concernant la perte de fonctions du Greffier ou du Greffier adjoint est prise à la majorité absolue des juges.
 
@@ -907,7 +919,7 @@ Un juge, un procureur, un procureur adjoint, un greffier ou un greffier adjoint 
 
 **Privilèges et immunités**
 
-<sup>1.</sup> La Cour jouit sur le territoire des Etats Parties des privilèges et immunités nécessaires à l’accomplissement de sa mission.
+<sup>1.</sup> La Cour jouit sur le territoire des États Parties des privilèges et immunités nécessaires à l’accomplissement de sa mission.
 
 \2. Les juges, le Procureur, les procureurs adjoints et le Greffier jouissent, dans l’exercice de leurs fonctions ou relativement à ces fonctions, des privilèges et immunités accordés aux chefs de missions diplomatiques. Après l’expiration de leur mandat, ils continuent à jouir de l’immunité contre toute procédure légale pour les paroles, les écrits et les actes qui relèvent de l’exercice de leurs fonctions officielles.
 
@@ -928,7 +940,7 @@ Les privilèges et immunités peuvent être levés:
 
 **Traitements, indemnités et remboursement de frais**
 
-Les juges, le Procureur, les procureurs adjoints, le Greffier et le Greffier adjoint perçoivent les traitements, indemnités et remboursements arrêtés par l’Assemblée des Etats Parties. Ces traitements et indemnités ne sont pas réduits en cours de mandat.
+Les juges, le Procureur, les procureurs adjoints, le Greffier et le Greffier adjoint perçoivent les traitements, indemnités et remboursements arrêtés par l’Assemblée des États Parties. Ces traitements et indemnités ne sont pas réduits en cours de mandat.
 
 #### Art. 50
 
@@ -938,23 +950,23 @@ Les juges, le Procureur, les procureurs adjoints, le Greffier et le Greffier adj
 
 <sup>2.</sup> Les langues de travail de la Cour sont l’anglais et le français. Le Règlement de procédure et de preuve définit les cas dans lesquels d’autres langues officielles peuvent être employées comme langues de travail.
 
-<sup>3.</sup> A la demande d’une partie à une procédure ou d’un Etat autorisé à intervenir dans une procédure, la Cour autorise l’emploi par cette partie ou cet Etat d’une langue autre que l’anglais ou le français si elle l’estime justifié.
+<sup>3.</sup> À la demande d’une partie à une procédure ou d’un État autorisé à intervenir dans une procédure, la Cour autorise l’emploi par cette partie ou cet État d’une langue autre que l’anglais ou le français si elle l’estime justifié.
 
 #### Art. 51
 
 **Règlement de procédure et de preuve**
 
-<sup>1.</sup> Le Règlement de procédure et de preuve entre en vigueur dès son adoption par l’Assemblée des Etats Parties à la majorité des deux tiers de ses membres.
+<sup>1.</sup> Le Règlement de procédure et de preuve entre en vigueur dès son adoption par l’Assemblée des États Parties à la majorité des deux tiers de ses membres.
 
-<sup>2.</sup> Ces amendements entrent en vigueur dès leur adoption à la majorité des deux tiers des membres de l’Assemblée des Etats Parties.
+<sup>2.</sup> Ces amendements entrent en vigueur dès leur adoption à la majorité des deux tiers des membres de l’Assemblée des États Parties.
 
 Des amendements au Règlement de procédure et de preuve peuvent être proposés par:
 
-- a) tout Etat Partie;
+- a) tout État Partie;
 - b) les juges agissant à la majorité absolue;
 - c) le Procureur.
 
-<sup>3.</sup> Après l’adoption du Règlement de procédure et de preuve, dans les cas urgents où la situation particulière portée devant la Cour n’est pas prévue par le Règlement, les juges peuvent, à la majorité des deux tiers, établir des règles provisoires qui s’appliquent jusqu’à ce que l’Assemblée des Etats Parties, à sa réunion ordinaire ou extraordinaire suivante, les adopte, les modifie ou les rejette.
+<sup>3.</sup> Après l’adoption du Règlement de procédure et de preuve, dans les cas urgents où la situation particulière portée devant la Cour n’est pas prévue par le Règlement, les juges peuvent, à la majorité des deux tiers, établir des règles provisoires qui s’appliquent jusqu’à ce que l’Assemblée des États Parties, à sa réunion ordinaire ou extraordinaire suivante, les adopte, les modifie ou les rejette.
 
 <sup>4.</sup> Le Règlement de procédure et de preuve, les amendements s’y rapportant et les règles provisoires sont conformes aux dispositions du présent Statut. Les amendements au Règlement de procédure et de preuve ainsi que les règles provisoires ne s’appliquent pas rétroactivement au préjudice de la personne qui fait l’objet d’une enquête, de poursuites ou d’une condamnation.
 
@@ -968,7 +980,7 @@ Des amendements au Règlement de procédure et de preuve peuvent être proposés
 
 <sup>2.</sup> Le Procureur et le Greffier sont consultés pour l’élaboration du Règlement de la Cour et de tout amendement s’y rapportant.
 
-<sup>3.</sup> Le Règlement de la Cour et tout amendement s’y rapportant prennent effet dès leur adoption, à moins que les juges n’en décident autrement. Ils sont communiqués immédiatement après leur adoption aux Etats Parties, pour observation. Ils restent en vigueur si la majorité des Etats Parties n’y fait pas objection dans les six mois.
+<sup>3.</sup> Le Règlement de la Cour et tout amendement s’y rapportant prennent effet dès leur adoption, à moins que les juges n’en décident autrement. Ils sont communiqués immédiatement après leur adoption aux États Parties, pour observation. Ils restent en vigueur si la majorité des États Parties n’y fait pas objection dans les six mois.
 
 ## Chapitre V Enquête et poursuites
 
@@ -981,18 +993,18 @@ Des amendements au Règlement de procédure et de preuve peuvent être proposés
 Le Procureur, après avoir évalué les renseignements portés à sa connaissance, ouvre une enquête, à moins qu’il ne conclue qu’il n’y a pas de base raisonnable pour poursuivre en vertu du présent Statut. Pour prendre sa décision, le Procureur examine:
 
 - a) si les renseignements en sa possession fournissent une base raisonnable pour croire qu’un crime relevant de la compétence de la Cour a été ou est en voie d’être commis;
-- b) si l’affaire est ou serait recevable au regard de l’art. 17; et
+- b) si l’affaire est ou serait recevable au regard de l’art. 17, et
 - c) s’il y a des raisons sérieuses de penser, compte tenu de la gravité du crime et des intérêts des victimes, qu’une enquête ne servirait pas les intérêts de la justice.
 
-<sup>2.</sup> il ou elle informe de sa conclusion et des raisons qui l’ont motivée la Chambre préliminaire et l’Etat qui lui a déféré la situation conformément à l’art. 14, ou le Conseil de sécurité s’il s’agit d’une situation visée à l’art. 13, par. b).
+<sup>2.</sup> il ou elle informe de sa conclusion et des raisons qui l’ont motivée la Chambre préliminaire et l’État qui lui a déféré la situation conformément à l’art. 14, ou le Conseil de sécurité s’il s’agit d’une situation visée à l’art. 13, par. b).
 
 Si, après enquête, le Procureur conclut qu’il n’y a pas de base suffisante pour engager des poursuites:
 
 - a) parce qu’il n’y a pas de base suffisante, en droit ou en fait, pour demander un mandat d’arrêt ou une citation à comparaître en application de l’art. 58;
-- b) parce que l’affaire est irrecevable au regard de l’art. 17; ou
+- b) parce que l’affaire est irrecevable au regard de l’art. 17, ou
 - c) parce que poursuivre ne servirait pas les intérêts de la justice, compte tenu de toutes les circonstances, y compris la gravité du crime, les intérêts des victimes, l’âge ou le handicap de l’auteur présumé et son rôle dans le crime allégué;
 
-- 3\. a) A la demande de l’Etat qui a déféré la situation conformément à l’art. 14, ou du Conseil de sécurité s’il s’agit d’une situation visée à l’art. 13, par. b) la Chambre préliminaire peut examiner la décision de ne pas poursuivre prise par le Procureur en vertu des par. 1 ou 2 et demander au Procureur de la reconsidérer.
+- 3\. a) À la demande de l’État qui a déféré la situation conformément à l’art. 14, ou du Conseil de sécurité s’il s’agit d’une situation visée à l’art. 13, par. b) la Chambre préliminaire peut examiner la décision de ne pas poursuivre prise par le Procureur en vertu des par. 1 ou 2 et demander au Procureur de la reconsidérer.
 - b) De plus, la Chambre préliminaire peut, de sa propre initiative, examiner la décision du Procureur de ne pas poursuivre si cette décision est fondée exclusivement sur les considérations visées au par. 1, al. c) et au par. 2, al. c). En tel cas, la décision du Procureur n’a d’effet que si elle est confirmée par la Chambre préliminaire.
 
 <sup>4.</sup> Le Procureur peut à tout moment reconsidérer sa décision d’ouvrir ou non une enquête ou d’engager ou non des poursuites à la lumière de faits ou de renseignements nouveaux.
@@ -1006,14 +1018,14 @@ Si, après enquête, le Procureur conclut qu’il n’y a pas de base suffisante
 Le Procureur:
 
 - a) pour établir la vérité, étend l’enquête à tous les faits et éléments de preuve qui peuvent être utiles pour déterminer s’il y a responsabilité pénale au regard du présent Statut et, ce faisant, enquête tant à charge qu’à décharge;
-- b) prend les mesures propres à assurer l’efficacité des enquêtes et des poursuites visant des crimes relevant de la compétence de la Cour. Ce faisant, il a égard aux intérêts et à la situation personnelle des victimes et des témoins, y compris leur âge, leur sexe, tel que défini à l’art. 7, par. 3, et leur état de santé; il tient également compte de la nature du crime, en particulier lorsque celui-ci comporte des violences sexuelles, des violences à caractère sexiste ou des violences contre des enfants; et
+- b) prend les mesures propres à assurer l’efficacité des enquêtes et des poursuites visant des crimes relevant de la compétence de la Cour. Ce faisant, il a égard aux intérêts et à la situation personnelle des victimes et des témoins, y compris leur âge, leur sexe, tel que défini à l’art. 7, par. 3, et leur état de santé; il tient également compte de la nature du crime, en particulier lorsque celui-ci comporte des violences sexuelles, des violences à caractère sexiste ou des violences contre des enfants, et
 - c) respecte pleinement les droits des personnes énoncés dans le présent Statut.
 
 <sup>2.</sup>
 
-Le Procureur peut enquêter sur le territoire d’un Etat:
+Le Procureur peut enquêter sur le territoire d’un État:
 
-- a) conformément aux dispositions du chap. IX; ou
+- a) conformément aux dispositions du chap. IX, ou
 - b) avec l’autorisation de la Chambre préliminaire en vertu de l’art. 57, par. 3, al. d).
 
 <sup>3.</sup>
@@ -1022,9 +1034,9 @@ Le Procureur peut:
 
 - a) recueillir et examiner des éléments de preuve;
 - b) convoquer et interroger des personnes faisant l’objet d’une enquête, des victimes et des témoins;
-- c) rechercher la coopération de tout Etat ou organisation intergouvernementale ou accord intergouvernemental conformément à leurs compétences ou à leur mandat respectifs;
-- d) conclure tous arrangements ou accords qui ne sont pas contraires aux dispositions du présent Statut et qui peuvent être nécessaires pour faciliter la coopération d’un Etat, d’une organisation intergouvernementale ou d’une personne;
-- e) s’engager à ne divulguer à aucun stade de la procédure les documents ou renseignements qu’il a obtenus sous la condition qu’ils demeurent confidentiels et ne servent qu’à obtenir de nouveaux éléments de preuve, à moins que celui qui a fourni l’information ne consente à leur divulgation; et
+- c) rechercher la coopération de tout État ou organisation intergouvernementale ou accord intergouvernemental conformément à leurs compétences ou à leur mandat respectifs;
+- d) conclure tous arrangements ou accords qui ne sont pas contraires aux dispositions du présent Statut et qui peuvent être nécessaires pour faciliter la coopération d’un État, d’une organisation intergouvernementale ou d’une personne;
+- e) s’engager à ne divulguer à aucun stade de la procédure les documents ou renseignements qu’il a obtenus sous la condition qu’ils demeurent confidentiels et ne servent qu’à obtenir de nouveaux éléments de preuve, à moins que celui qui a fourni l’information ne consente à leur divulgation, et
 - f) prendre, ou demander que soient prises, des mesures nécessaires pour assurer la confidentialité des renseignements recueillis, la protection des personnes ou la préservation des éléments de preuve.
 
 #### Art. 55
@@ -1037,7 +1049,7 @@ Dans une enquête ouverte en vertu du présent Statut, une personne:
 
 - a) n’est pas obligée de témoigner contre elle-même ni de s’avouer coupable;
 - b) n’est soumise à aucune forme de coercition, de contrainte ou de menace, ni à la torture ni à aucune autre forme de peine ou traitement cruel, inhumain ou dégradant;
-- c) bénéficie gratuitement, si elle n’est pas interrogée dans une langue qu’elle comprend et parle parfaitement, de l’aide d’un interprète compétent et de toutes traductions que rendent nécessaires les exigences de l’équité; et
+- c) bénéficie gratuitement, si elle n’est pas interrogée dans une langue qu’elle comprend et parle parfaitement, de l’aide d’un interprète compétent et de toutes traductions que rendent nécessaires les exigences de l’équité, et
 - d) ne peut être arrêtée ou détenue arbitrairement; elle ne peut être privée de sa liberté si ce n’est pour les motifs et selon les procédures prévus dans le présent Statut.
 
 <sup>2.</sup>
@@ -1046,7 +1058,7 @@ Lorsqu’il y a des motifs de croire qu’une personne a commis un crime relevan
 
 - a) être informée avant d’être interrogée qu’il y a des raisons de croire qu’elle a commis un crime relevant de la compétence de la Cour;
 - b) garder le silence, sans que ce silence soit pris en considération pour la détermination de sa culpabilité ou de son innocence;
-- c) être assistée par le défenseur de son choix ou, si elle n’en a pas, par un défenseur commis d’office chaque fois que les intérêts de la justice l’exigent, sans avoir dans ce cas à verser de rémunération si elle n’en a pas les moyens; et
+- c) être assistée par le défenseur de son choix ou, si elle n’en a pas, par un défenseur commis d’office chaque fois que les intérêts de la justice l’exigent, sans avoir dans ce cas à verser de rémunération si elle n’en a pas les moyens, et
 - d) être interrogée en présence de son conseil, à moins qu’elle n’ait renoncé volontairement à son droit d’être assistée d’un conseil.
 
 #### Art. 56
@@ -1076,7 +1088,7 @@ Les mesures visées au par. 1, al. b), peuvent consister:
 
 **Fonctions et pouvoirs de la Chambre préliminaire**
 
-<sup>1.</sup> A moins que le présent Statut n’en dispose autrement, la Chambre préliminaire exerce ses fonctions conformément aux dispositions du présent article.
+<sup>1.</sup> À moins que le présent Statut n’en dispose autrement, la Chambre préliminaire exerce ses fonctions conformément aux dispositions du présent article.
 
 - 2\. a) Les décisions rendues par la Chambre préliminaire en vertu des art. 15, 18, 19, 54, par. 2, 61, par. 7, et 72 sont prises à la majorité des juges qui la composent.
 - b) Dans tous les autres cas, un seul juge de la Chambre préliminaire peut exercer les fonctions prévues dans le présent Statut, sauf disposition contraire du Règlement de procédure et de preuve ou décision contraire de la Chambre préliminaire prise à la majorité.
@@ -1088,8 +1100,8 @@ Indépendamment des autres fonctions qui lui sont conférées en vertu du prése
 - a) sur requête du Procureur, rendre les ordonnances et délivrer les mandats qui peuvent être nécessaires aux fins d’une enquête;
 - b) à la demande d’une personne qui a été arrêtée ou a comparu sur citation conformément à l’art. 58, rendre toute ordonnance, y compris des mesures telles que visées à l’art. 56, ou solliciter tout concours au titre du chap. IX qui peuvent être nécessaires pour aider la personne à préparer sa défense;
 - c) en cas de besoin, assurer la protection et le respect de la vie privée des victimes et des témoins, la préservation des preuves, la protection des personnes qui ont été arrêtées ou ont comparu sur citation, ainsi que la protection des renseignements touchant la sécurité nationale;
-- d) autoriser le Procureur à prendre certaines mesures d’enquête sur le territoire d’un Etat Partie sans s’être assuré de la coopération de cet Etat au titre du chap. IX si, ayant tenu compte dans la mesure du possible des vues de cet Etat, elle a déterminé qu’en l’espèce celui-ci est manifestement incapable de donner suite à une demande de coopération parce qu’aucune autorité ou composante compétente de son appareil judiciaire national n’est disponible pour donner suite à une demande de coopération au titre du chap. IX;
-- e) lorsqu’un mandat d’arrêt ou une citation à comparaître a été délivré en vertu de l’art. 58, solliciter la coopération des Etats en vertu de l’art. 93, par. 1, al. k), en tenant dûment compte de la force des éléments de preuve et des droits des parties concernées, comme prévu dans le présent Statut et dans le Règlement de procédure et de preuve, pour qu’ils prennent des mesures conservatoires aux fins de confiscation, en particulier dans l’intérêt supérieur des victimes.
+- d) autoriser le Procureur à prendre certaines mesures d’enquête sur le territoire d’un État Partie sans s’être assuré de la coopération de cet État au titre du chap. IX si, ayant tenu compte dans la mesure du possible des vues de cet État, elle a déterminé qu’en l’espèce celui-ci est manifestement incapable de donner suite à une demande de coopération parce qu’aucune autorité ou composante compétente de son appareil judiciaire national n’est disponible pour donner suite à une demande de coopération au titre du chap. IX;
+- e) lorsqu’un mandat d’arrêt ou une citation à comparaître a été délivré en vertu de l’art. 58, solliciter la coopération des États en vertu de l’art. 93, par. 1, al. k), en tenant dûment compte de la force des éléments de preuve et des droits des parties concernées, comme prévu dans le présent Statut et dans le Règlement de procédure et de preuve, pour qu’ils prennent des mesures conservatoires aux fins de confiscation, en particulier dans l’intérêt supérieur des victimes.
 
 #### Art. 58
 
@@ -1097,15 +1109,15 @@ Indépendamment des autres fonctions qui lui sont conférées en vertu du prése
 
 <sup>1.</sup>
 
-A tout moment après l’ouverture d’une enquête, la Chambre préliminaire délivre, sur requête du Procureur, un mandat d’arrêt contre une personne si, après examen de la requête et des éléments de preuve ou autres renseignements fournis par le Procureur, elle est convaincue:
+À tout moment après l’ouverture d’une enquête, la Chambre préliminaire délivre, sur requête du Procureur, un mandat d’arrêt contre une personne si, après examen de la requête et des éléments de preuve ou autres renseignements fournis par le Procureur, elle est convaincue:
 
-- a) qu’il y a des motifs raisonnables de croire que cette personne a commis un crime relevant de la compétence de la Cour; et
+- a) qu’il y a des motifs raisonnables de croire que cette personne a commis un crime relevant de la compétence de la Cour, et
 - b)
 
   que l’arrestation de cette personne apparaît nécessaire pour garantir:
 
   - i) que la personne comparaîtra;
-  - ii) qu’elle ne fera pas obstacle à l’enquête ou à la procédure devant la Cour, ni n’en compromettra le déroulement; ou
+  - ii) qu’elle ne fera pas obstacle à l’enquête ou à la procédure devant la Cour, ni n’en compromettra le déroulement, ou
   - iii) le cas échéant, qu’elle ne poursuivra pas l’exécution du crime dont il s’agit ou d’un crime connexe relevant de la compétence de la Cour et se produisant dans les mêmes circonstances.
 
 <sup>2.</sup>
@@ -1115,7 +1127,7 @@ La requête du Procureur contient les éléments suivants:
 - a) le nom de la personne visée et tous autres éléments utiles d’identification;
 - b) une référence précise au crime relevant de la compétence de la Cour que la personne est censée avoir commis;
 - c) l’exposé succinct des faits dont il est allégué qu’ils constituent ce crime;
-- d) un résumé des éléments de preuve qui donnent des motifs raisonnables de croire que la personne a commis ce crime; et
+- d) un résumé des éléments de preuve qui donnent des motifs raisonnables de croire que la personne a commis ce crime, et
 - e) les raisons pour lesquelles le Procureur estime qu’il est nécessaire de procéder à l’arrestation de cette personne.
 
 <sup>3.</sup>
@@ -1123,7 +1135,7 @@ La requête du Procureur contient les éléments suivants:
 Le mandat d’arrêt contient les éléments suivants:
 
 - a) le nom de la personne visée et tous autres éléments utiles d’identification;
-- b) une référence précise au crime relevant de la compétence de la Cour qui justifie l’arrestation; et
+- b) une référence précise au crime relevant de la compétence de la Cour qui justifie l’arrestation, et
 - c) l’exposé succinct des faits dont il est allégué qu’ils constituent ce crime.
 
 <sup>4.</sup> Le mandat d’arrêt reste en vigueur tant que la Cour n’en a pas décidé autrement.
@@ -1138,32 +1150,32 @@ Le Procureur peut demander à la Chambre préliminaire de délivrer une citation
 
 - a) le nom de la personne visée et tous autres éléments utiles d’identification;
 - b) la date de comparution;
-- c) une référence précise au crime relevant de la compétence de la Cour que la personne est censée avoir commis; et
+- c) une référence précise au crime relevant de la compétence de la Cour que la personne est censée avoir commis, et
 - d) l’exposé succinct des faits dont il est allégué qu’ils constituent le crime.
 
 #### Art. 59
 
-**Procédure d’arrestation dans l’Etat de détention**
+**Procédure d’arrestation dans l’État de détention**
 
-<sup>1.</sup> L’Etat Partie qui a reçu une demande d’arrestation provisoire ou d’arrestation et de remise prend immédiatement des mesures pour faire arrêter la personne dont il s’agit conformément à sa législation et aux dispositions du chap. IX.
+<sup>1.</sup> L’État Partie qui a reçu une demande d’arrestation provisoire ou d’arrestation et de remise prend immédiatement des mesures pour faire arrêter la personne dont il s’agit conformément à sa législation et aux dispositions du chap. IX.
 
 <sup>2.</sup>
 
-Toute personne arrêtée est déférée aussitôt à l’autorité judiciaire compétente de l’Etat de détention qui vérifie, conformément à la législation de cet Etat:
+Toute personne arrêtée est déférée aussitôt à l’autorité judiciaire compétente de l’État de détention qui vérifie, conformément à la législation de cet État:
 
 - a) que le mandat vise bien cette personne;
-- b) que celle‑ci a été arrêtée selon la procédure régulière; et
+- b) que celle‑ci a été arrêtée selon la procédure régulière, et
 - c) que ses droits ont été respectés.
 
-<sup>3.</sup> La personne arrêtée a le droit de demander à l’autorité compétente de l’Etat de détention sa mise en liberté provisoire en attendant sa remise.
+<sup>3.</sup> La personne arrêtée a le droit de demander à l’autorité compétente de l’État de détention sa mise en liberté provisoire en attendant sa remise.
 
-<sup>4.</sup> Lorsqu’elle se prononce sur cette demande, l’autorité compétente de l’Etat de détention examine si, eu égard à la gravité des crimes allégués, l’urgence et des circonstances exceptionnelles justifient la mise en liberté provisoire et si les garanties voulues assurent que l’Etat de détention peut s’acquitter de son obligation de remettre la personne à la Cour. L’autorité compétente de l’Etat de détention ne peut pas examiner si le mandat d’arrêt a été régulièrement délivré au regard de l’art. 58, par. 1, al. a) et b).
+<sup>4.</sup> Lorsqu’elle se prononce sur cette demande, l’autorité compétente de l’État de détention examine si, eu égard à la gravité des crimes allégués, l’urgence et des circonstances exceptionnelles justifient la mise en liberté provisoire et si les garanties voulues assurent que l’État de détention peut s’acquitter de son obligation de remettre la personne à la Cour. L’autorité compétente de l’État de détention ne peut pas examiner si le mandat d’arrêt a été régulièrement délivré au regard de l’art. 58, par. 1, al. a) et b).
 
-<sup>5.</sup> La Chambre préliminaire est avisée de toute demande de mise en liberté provisoire et fait des recommandations à l’autorité compétente de l’Etat de détention. Avant de rendre sa décision, celle-ci prend pleinement en considération ces recommandations, y compris éventuellement celles qui portent sur les mesures propres à empêcher l’évasion de la personne.
+<sup>5.</sup> La Chambre préliminaire est avisée de toute demande de mise en liberté provisoire et fait des recommandations à l’autorité compétente de l’État de détention. Avant de rendre sa décision, celle-ci prend pleinement en considération ces recommandations, y compris éventuellement celles qui portent sur les mesures propres à empêcher l’évasion de la personne.
 
 <sup>6.</sup> Si la mise en liberté provisoire est accordée, la Chambre préliminaire peut demander des rapports périodiques sur le régime de la liberté provisoire.
 
-<sup>7.</sup> Une fois ordonnée la remise par l’Etat de détention, la personne est livrée à la Cour aussitôt que possible.
+<sup>7.</sup> Une fois ordonnée la remise par l’État de détention, la personne est livrée à la Cour aussitôt que possible.
 
 #### Art. 60
 
@@ -1189,31 +1201,31 @@ Toute personne arrêtée est déférée aussitôt à l’autorité judiciaire co
 
 La Chambre préliminaire peut, à la demande du Procureur ou de sa propre initiative, tenir une audience en l’absence de l’intéressé pour confirmer les charges sur lesquelles le Procureur entend se fonder pour requérir le renvoi en jugement lorsque la personne:
 
-- a) a renoncé à son droit d’être présente; ou
+- a) a renoncé à son droit d’être présente, ou
 - b) a pris la fuite ou est introuvable, et que tout ce qui était raisonnablement possible a été fait pour garantir sa comparution devant la Cour et l’informer des charges qui pèsent contre elle et de la tenue prochaine d’une audience pour confirmer ces charges.
 
 <sup>3.</sup> La Chambre préliminaire peut rendre des ordonnances concernant la divulgation de renseignements aux fins de l’audience.
 
 Dans un délai raisonnable avant l’audience, la personne:
 
-- a) reçoit notification écrite des charges sur lesquelles le Procureur entend se fonder pour requérir le renvoi en jugement; et
+- a) reçoit notification écrite des charges sur lesquelles le Procureur entend se fonder pour requérir le renvoi en jugement, et
 - b) est informée des éléments de preuve sur lesquels le Procureur entend se fonder à l’audience.
 
 <sup>4.</sup> Avant l’audience, le Procureur peut poursuivre l’enquête et peut modifier ou retirer des charges. La personne visée reçoit notification de tout amendement ou retrait de charges dans un délai raisonnable avant l’audience. En cas de retrait de charges, le Procureur informe la Chambre préliminaire des motifs de ce retrait.
 
-<sup>5.</sup> A l’audience, le Procureur étaye chacune des charges avec des éléments de preuve suffisants pour établir l’existence de motifs substantiels de croire que la personne a commis le crime qui lui est imputé. Il peut se fonder sur des éléments de preuve sous forme de documents ou de résumés et n’est pas tenu de faire comparaître les témoins qui doivent déposer au procès.
+<sup>5.</sup> À l’audience, le Procureur étaye chacune des charges avec des éléments de preuve suffisants pour établir l’existence de motifs substantiels de croire que la personne a commis le crime qui lui est imputé. Il peut se fonder sur des éléments de preuve sous forme de documents ou de résumés et n’est pas tenu de faire comparaître les témoins qui doivent déposer au procès.
 
 <sup>6.</sup>
 
-A l’audience, la personne peut:
+À l’audience, la personne peut:
 
 - a) contester les charges;
-- b) contester les éléments de preuve produits par le Procureur; et
+- b) contester les éléments de preuve produits par le Procureur, et
 - c) présenter des éléments de preuve.
 
 <sup>7.</sup>
 
-A l’issue de l’audience, la Chambre préliminaire détermine s’il existe des preuves suffisantes donnant des motifs substantiels de croire que la personne a commis chacun des crimes qui lui sont imputés. Selon ce qu’elle a déterminé, la Chambre préliminaire:
+À l’issue de l’audience, la Chambre préliminaire détermine s’il existe des preuves suffisantes donnant des motifs substantiels de croire que la personne a commis chacun des crimes qui lui sont imputés. Selon ce qu’elle a déterminé, la Chambre préliminaire:
 
 - a) confirme les charges pour lesquelles elle a conclu qu’il y avait des preuves suffisantes et renvoie la personne devant une chambre de première instance pour y être jugée sur la base des charges confirmées;
 - b) ne confirme pas les charges pour lesquelles elle a conclu qu’il n’y avait pas de preuves suffisantes;
@@ -1221,7 +1233,7 @@ A l’issue de l’audience, la Chambre préliminaire détermine s’il existe d
 
   ajourne l’audience et demande au Procureur d’envisager:
 
-  - i) d’apporter des éléments de preuve supplémentaires ou de procéder à de nouvelles enquêtes relativement à une charge particulière; ou
+  - i) d’apporter des éléments de preuve supplémentaires ou de procéder à de nouvelles enquêtes relativement à une charge particulière, ou
   - ii) de modifier une charge si les éléments de preuve produits semblent établir qu’un crime différent, relevant de la compétence de la Cour, a été commis.
 
 <sup>8.</sup> Lorsque la Chambre préliminaire ne confirme pas une charge, il n’est pas interdit au Procureur de demander ultérieurement la confirmation de cette charge s’il étaye sa demande d’éléments de preuve supplémentaires.
@@ -1261,7 +1273,7 @@ Sauf s’il en est décidé autrement, le procès se tient au siège de la Cour.
 Lorsqu’une affaire est renvoyée en jugement conformément au présent Statut, la Chambre de première instance à laquelle elle est attribuée:
 
 - a) consulte les parties et adopte toutes procédures utiles à la conduite équitable et diligente de l’instance;
-- b) détermine la langue ou les langues du procès; et
+- b) détermine la langue ou les langues du procès, et
 - c) sous réserve de toutes autres dispositions applicables du présent Statut, assure la divulgation de documents ou de renseignements encore non divulgués, suffisamment tôt avant l’ouverture du procès pour permettre une préparation suffisante de celui-ci.
 
 <sup>4.</sup> La Chambre de première instance peut, si cela est nécessaire pour assurer son fonctionnement efficace et équitable, soumettre des questions préliminaires à la Chambre préliminaire ou, au besoin, à un autre juge disponible de la Section préliminaire.
@@ -1273,22 +1285,22 @@ Lorsqu’une affaire est renvoyée en jugement conformément au présent Statut,
 Dans l’exercice de ses fonctions avant ou pendant un procès, la Chambre de première instance peut, si besoin est:
 
 - a) assumer toutes les fonctions de la Chambre préliminaire visées à l’art. 61, par. 11;
-- b) ordonner la comparution des témoins et leur audition ainsi que la production de documents et d’autres éléments de preuve, en obtenant au besoin l’aide des Etats selon les dispositions du présent Statut;
+- b) ordonner la comparution des témoins et leur audition ainsi que la production de documents et d’autres éléments de preuve, en obtenant au besoin l’aide des États selon les dispositions du présent Statut;
 - c) assurer la protection des renseignements confidentiels;
 - d) ordonner la production d’éléments de preuve en complément de ceux qui ont été recueillis avant le procès ou présentés au procès par les parties;
-- e) assurer la protection de l’accusé, des témoins et des victimes; et
+- e) assurer la protection de l’accusé, des témoins et des victimes, et
 - f) statuer sur toute autre question pertinente.
 
 <sup>7.</sup> Le procès est public. Toutefois, la Chambre de première instance peut, en raison de circonstances particulières, prononcer le huis clos pour certaines audiences aux fins énoncées à l’art. 68 ou en vue de protéger des renseignements confidentiels ou sensibles donnés dans les dépositions.
 
-- 8\. a) A l’ouverture du procès, la Chambre de première instance fait donner lecture à l’accusé des charges préalablement confirmées par la Chambre préliminaire. La Chambre de première instance s’assure que l’accusé comprend la nature des charges. Elle donne à l’accusé la possibilité de plaider coupable selon ce qui est prévu à l’art. 65, ou de plaider non coupable.
+- 8\. a) À l’ouverture du procès, la Chambre de première instance fait donner lecture à l’accusé des charges préalablement confirmées par la Chambre préliminaire. La Chambre de première instance s’assure que l’accusé comprend la nature des charges. Elle donne à l’accusé la possibilité de plaider coupable selon ce qui est prévu à l’art. 65, ou de plaider non coupable.
 - b) Lors du procès, le Président peut donner des instructions pour la conduite de la procédure, notamment pour qu’elle soit conduite d’une manière équitable et impartiale. Sous réserve de toute instruction du Président, les parties peuvent produire des éléments de preuve conformément aux dispositions du présent Statut.
 
 <sup>9.</sup>
 
 La Chambre de première instance peut notamment, à la requête d’une partie ou d’office:
 
-- a) statuer sur la recevabilité ou la pertinence des preuves; et
+- a) statuer sur la recevabilité ou la pertinence des preuves, et
 - b) prendre toute mesure nécessaire pour assurer l’ordre à l’audience.
 
 <sup>10.</sup> La Chambre de première instance veille à ce que le Greffier établisse et conserve un procès-verbal intégral du procès relatant fidèlement les débats.
@@ -1302,13 +1314,13 @@ La Chambre de première instance peut notamment, à la requête d’une partie o
 Lorsque l’accusé reconnaît sa culpabilité comme le prévoit l’art. 64, par. 8, al. a), la Chambre de première instance détermine:
 
 - a) si l’accusé comprend la nature et les conséquences de son aveu de culpabilité;
-- b) si l’aveu de culpabilité a été fait volontairement après consultation suffisante avec le défenseur de l’accusé; et
+- b) si l’aveu de culpabilité a été fait volontairement après consultation suffisante avec le défenseur de l’accusé, et
 - c)
 
   si l’aveu de culpabilité est étayé par les faits de la cause tels qu’ils ressortent:
 
   - i) des charges présentées par le Procureur et admises par l’accusé;
-  - ii) de toutes pièces présentées par le Procureur qui accompagnent les charges et que l’accusé accepte; et
+  - ii) de toutes pièces présentées par le Procureur qui accompagnent les charges et que l’accusé accepte, et
   - iii) de tous autres éléments de preuve, tels que les témoignages, présentés par le Procureur ou l’accusé.
 
 <sup>2.</sup> Si la Chambre de première instance est convaincue que les conditions visées au par. 1 sont réunies, elle considère que l’aveu de culpabilité, accompagné de toutes les preuves complémentaires présentées, établit tous les éléments constitutifs du crime sur lequel il porte, et elle peut reconnaître l’accusé coupable de ce crime.
@@ -1319,7 +1331,7 @@ Lorsque l’accusé reconnaît sa culpabilité comme le prévoit l’art. 64, pa
 
 Si la Chambre de première instance est convaincue qu’une présentation plus complète des faits de la cause serait dans l’intérêt de la justice, en particulier dans l’intérêt des victimes, elle peut:
 
-- a) demander au Procureur de présenter des éléments de preuve supplémentaires, y compris des dépositions de témoins; ou
+- a) demander au Procureur de présenter des éléments de preuve supplémentaires, y compris des dépositions de témoins, ou
 - b) ordonner que le procès se poursuive selon les procédures normales prévues par le présent Statut, auquel cas elle considère qu’il n’y a pas eu aveu de culpabilité et peut renvoyer l’affaire à une autre chambre de première instance.
 
 <sup>5.</sup> Toute discussion entre le Procureur et la défense relative à la modification des chefs d’accusation, à l’aveu de culpabilité ou à la peine à prononcer n’engage pas la Cour.
@@ -1349,7 +1361,7 @@ Lors de l’examen des charges portées contre lui, l’accusé a droit à ce qu
 - e) interroger ou faire interroger les témoins à charge et obtenir la comparution et l’interrogatoire des témoins à décharge dans les mêmes conditions que les témoins à charge. L’accusé a également le droit de faire valoir des moyens de défense et de présenter d’autres éléments de preuve admissibles en vertu du présent Statut;
 - f) se faire assister gratuitement d’un interprète compétent et bénéficier des traductions nécessaires pour satisfaire aux exigences de l’équité, si la langue employée dans toute procédure suivie devant la Cour ou dans tout document présenté à la Cour n’est pas une langue qu’il comprend et parle parfaitement;
 - g) ne pas être forcé de témoigner contre lui-même ou de s’avouer coupable, et garder le silence sans que ce silence soit pris en considération pour déterminer sa culpabilité ou son innocence;
-- h) faire, sans prêter serment, une déclaration écrite ou orale pour sa défense; et
+- h) faire, sans prêter serment, une déclaration écrite ou orale pour sa défense, et
 - i) ne pas se voir imposer le renversement du fardeau de la preuve ni la charge de la réfutation.
 
 <sup>2.</sup> Outre toute autre communication prévue par le présent Statut, le Procureur communique à la défense, dès que cela est possible, les éléments de preuve en sa possession ou à sa disposition dont il estime qu’ils disculpent l’accusé ou tendent à le disculper ou à atténuer sa culpabilité, ou sont de nature à entamer la crédibilité des éléments de preuve à charge. En cas de doute quant à l’application du présent paragraphe, la Cour tranche.
@@ -1368,7 +1380,7 @@ Lors de l’examen des charges portées contre lui, l’accusé a droit à ce qu
 
 <sup>5.</sup> Lorsque la divulgation d’éléments de preuve et de renseignements en vertu du présent Statut risque de mettre gravement en danger un témoin ou les membres de sa famille, le Procureur peut, dans toute procédure engagée avant l’ouverture du procès, s’abstenir de divulguer ces éléments de preuve ou renseignements et en présenter un résumé. De telles mesures doivent être appliquées d’une manière qui n’est ni préjudiciable ni contraire aux droits de la défense et aux exigences d’un procès équitable et impartial.
 
-<sup>6.</sup> Un Etat peut demander que soient prises les mesures nécessaires pour assurer la protection de ses fonctionnaires ou agents et la protection d’informations confidentielles ou sensibles.
+<sup>6.</sup> Un État peut demander que soient prises les mesures nécessaires pour assurer la protection de ses fonctionnaires ou agents et la protection d’informations confidentielles ou sensibles.
 
 #### Art. 69
 
@@ -1390,10 +1402,10 @@ Lors de l’examen des charges portées contre lui, l’accusé a droit à ce qu
 
 Les éléments de preuve obtenus par un moyen violant le présent Statut ou les droits de l’homme internationalement reconnus ne sont pas admissibles:
 
-- a) si la violation met sérieusement en question la crédibilité des éléments de preuve; ou
+- a) si la violation met sérieusement en question la crédibilité des éléments de preuve, ou
 - b) si l’admission de ces éléments de preuve serait de nature à compromettre la procédure et à porter gravement atteinte à son intégrité.
 
-<sup>8.</sup> Lorsqu’elle se prononce sur la pertinence ou l’admissibilité d’éléments de preuve réunis par un Etat, la Cour ne se prononce pas sur l’application de la législation nationale de cet Etat.
+<sup>8.</sup> Lorsqu’elle se prononce sur la pertinence ou l’admissibilité d’éléments de preuve réunis par un État, la Cour ne se prononce pas sur l’application de la législation nationale de cet État.
 
 #### Art. 70
 
@@ -1410,12 +1422,12 @@ La Cour a compétence pour connaître des atteintes suivantes à son administrat
 - e) représailles contre un membre ou un agent de la Cour en raison des fonctions exercées par celui-ci ou par un autre membre ou agent;
 - f) sollicitation ou acceptation d’une rétribution illégale par un membre ou un agent de la Cour dans le cadre de ses fonctions officielles.
 
-<sup>2.</sup> Les principes et les procédures régissant l’exercice par la Cour de sa compétence à l’égard des atteintes à l’administration de la justice en vertu du présent article sont énoncés dans le Règlement de procédure et de preuve. Les modalités de la coopération internationale avec la Cour dans la mise en œuvre des dispositions du présent article sont régies par la législation nationale de l’Etat requis.
+<sup>2.</sup> Les principes et les procédures régissant l’exercice par la Cour de sa compétence à l’égard des atteintes à l’administration de la justice en vertu du présent article sont énoncés dans le Règlement de procédure et de preuve. Les modalités de la coopération internationale avec la Cour dans la mise en œuvre des dispositions du présent article sont régies par la législation nationale de l’État requis.
 
 <sup>3.</sup> En cas de condamnation, la Cour peut imposer une peine d’emprisonnement ne pouvant excéder cinq années, ou une amende prévue dans le Règlement de procédure et de preuve, ou les deux.
 
-- 4\. a) Les Etats Parties étendent les dispositions de leur droit pénal qui répriment les atteintes à l’intégrité de leurs procédures d’enquête ou de leur système judiciaire aux atteintes à l’administration de la justice en vertu du présent article commises sur leur territoire, ou par l’un de leurs ressortissants.
-- b) A la demande de la Cour, un Etat Partie saisit ses autorités compétentes aux fins de poursuites chaque fois qu’il le juge approprié. Ces autorités traitent les dossiers dont il s’agit avec diligence, en y consacrant les moyens nécessaires à une action efficace.
+- 4\. a) Les États Parties étendent les dispositions de leur droit pénal qui répriment les atteintes à l’intégrité de leurs procédures d’enquête ou de leur système judiciaire aux atteintes à l’administration de la justice en vertu du présent article commises sur leur territoire, ou par l’un de leurs ressortissants.
+- b) À la demande de la Cour, un État Partie saisit ses autorités compétentes aux fins de poursuites chaque fois qu’il le juge approprié. Ces autorités traitent les dossiers dont il s’agit avec diligence, en y consacrant les moyens nécessaires à une action efficace.
 
 #### Art. 71
 
@@ -1429,24 +1441,24 @@ La Cour a compétence pour connaître des atteintes suivantes à son administrat
 
 **Protection de renseignements touchant à la sécurité nationale**
 
-<sup>1.</sup> Le présent article s’applique dans tous les cas où la divulgation de renseignements ou de documents d’un Etat porterait atteinte, de l’avis de cet Etat, aux intérêts de sa sécurité nationale. Ces cas sont, en particulier, ceux qui relèvent de l’art. 56, par. 2 et 3, de l’art. 61, par. 3, de l’art. 64, par. 3, de l’art. 67, par. 2, de l’art. 68, par. 6, de l’art. 87, par. 6, et de l’art. 93, ainsi que les cas, à tout autre stade de la procédure, où une telle divulgation peut être en cause.
+<sup>1.</sup> Le présent article s’applique dans tous les cas où la divulgation de renseignements ou de documents d’un État porterait atteinte, de l’avis de cet État, aux intérêts de sa sécurité nationale. Ces cas sont, en particulier, ceux qui relèvent de l’art. 56, par. 2 et 3, de l’art. 61, par. 3, de l’art. 64, par. 3, de l’art. 67, par. 2, de l’art. 68, par. 6, de l’art. 87, par. 6, et de l’art. 93, ainsi que les cas, à tout autre stade de la procédure, où une telle divulgation peut être en cause.
 
-<sup>2.</sup> Le présent article s’applique également lorsqu’une personne qui a été invitée à fournir des renseignements ou des éléments de preuve a refusé de le faire ou en a référé à l’Etat au motif que leur divulgation porterait atteinte aux intérêts d’un Etat en matière de sécurité nationale et lorsque cet Etat confirme qu’à son avis la divulgation de ces renseignements porterait atteinte aux intérêts de sa sécurité nationale.
+<sup>2.</sup> Le présent article s’applique également lorsqu’une personne qui a été invitée à fournir des renseignements ou des éléments de preuve a refusé de le faire ou en a référé à l’État au motif que leur divulgation porterait atteinte aux intérêts d’un État en matière de sécurité nationale et lorsque cet État confirme qu’à son avis la divulgation de ces renseignements porterait atteinte aux intérêts de sa sécurité nationale.
 
 <sup>3.</sup> Aucune disposition du présent article ne porte atteinte aux normes de confidentialité applicables en vertu de l’art. 54, par. 3, al. e) et f), ni à l’application de l’art. 73.
 
-<sup>4.</sup> Si un Etat apprend que des renseignements ou des documents de l’Etat sont ou seront probablement divulgués à un stade quelconque de la procédure, et s’il estime qu’une telle divulgation porterait atteinte aux intérêts de sa sécurité nationale, cet Etat a le droit d’intervenir en vue d’obtenir le règlement de la question selon les dispositions du présent article.
+<sup>4.</sup> Si un État apprend que des renseignements ou des documents de l’État sont ou seront probablement divulgués à un stade quelconque de la procédure, et s’il estime qu’une telle divulgation porterait atteinte aux intérêts de sa sécurité nationale, cet État a le droit d’intervenir en vue d’obtenir le règlement de la question selon les dispositions du présent article.
 
 <sup>5.</sup>
 
-Lorsqu’un Etat estime que la divulgation de renseignements porterait atteinte aux intérêts de sa sécurité nationale, il prend, en liaison avec le Procureur, la défense, la Chambre préliminaire ou la Chambre de première instance, selon le cas, toutes les mesures raisonnablement possibles pour trouver une solution par la concertation. Ces mesures peuvent notamment consister à:
+Lorsqu’un État estime que la divulgation de renseignements porterait atteinte aux intérêts de sa sécurité nationale, il prend, en liaison avec le Procureur, la défense, la Chambre préliminaire ou la Chambre de première instance, selon le cas, toutes les mesures raisonnablement possibles pour trouver une solution par la concertation. Ces mesures peuvent notamment consister à:
 
 - a) modifier ou préciser la demande;
-- b) faire trancher par la Cour la question de la pertinence des renseignements ou éléments de preuve demandés, ou la question de savoir si les éléments de preuve, quoique pertinents, pourraient être ou ont été obtenus d’une source autre que l’Etat requis;
-- c) obtenir les renseignements ou éléments de preuve d’une autre source ou sous une forme différente; ou
+- b) faire trancher par la Cour la question de la pertinence des renseignements ou éléments de preuve demandés, ou la question de savoir si les éléments de preuve, quoique pertinents, pourraient être ou ont été obtenus d’une source autre que l’État requis;
+- c) obtenir les renseignements ou éléments de preuve d’une autre source ou sous une forme différente, ou
 - d) trouver un accord sur les conditions auxquelles l’assistance pourrait être fournie, notamment par la communication de résumés ou de versions corrigées, l’imposition de restrictions à la divulgation, le recours à une procédure à huis clos ou *ex parte*, ou l’application d’autres mesures de protection autorisées par le Statut ou le Règlement de procédure et de preuve.
 
-<sup>6.</sup> Lorsque toutes les mesures raisonnablement possibles ont été prises pour régler la question par la concertation et que l’Etat estime qu’il n’existe ni moyens ni conditions qui lui permettraient de communiquer ou de divulguer les renseignements ou les documents sans porter atteinte aux intérêts de sa sécurité nationale, il en avise le Procureur ou la Cour en indiquant les raisons précises qui l’ont conduit à cette conclusion, à moins qu’un énoncé précis de ces raisons ne porte nécessairement en soi atteinte aux intérêts de l’Etat en matière de sécurité nationale.
+<sup>6.</sup> Lorsque toutes les mesures raisonnablement possibles ont été prises pour régler la question par la concertation et que l’État estime qu’il n’existe ni moyens ni conditions qui lui permettraient de communiquer ou de divulguer les renseignements ou les documents sans porter atteinte aux intérêts de sa sécurité nationale, il en avise le Procureur ou la Cour en indiquant les raisons précises qui l’ont conduit à cette conclusion, à moins qu’un énoncé précis de ces raisons ne porte nécessairement en soi atteinte aux intérêts de l’État en matière de sécurité nationale.
 
 <sup>7.</sup>
 
@@ -1454,24 +1466,24 @@ Par la suite, si la Cour détermine que les éléments de preuve sont pertinents
 
 - a)
 
-  lorsque la divulgation des renseignements ou du document est sollicitée dans le cadre d’une demande de coopération au titre du chap. IX ou dans les circonstances décrites au par. 2, et que l’Etat a invoqué le motif de refus visé à l’art. 93, par. 4:
+  lorsque la divulgation des renseignements ou du document est sollicitée dans le cadre d’une demande de coopération au titre du chap. IX ou dans les circonstances décrites au par. 2, et que l’État a invoqué le motif de refus visé à l’art. 93, par. 4:
 
-  - i) la Cour peut, avant de tirer la conclusion visée au par. 7, al. a) ii), demander la tenue de consultations supplémentaires aux fins d’examiner les observations de l’Etat, y compris, le cas échéant, la tenue d’audiences à huis clos et *ex parte*;
-  - ii) si la Cour conclut qu’en invoquant le motif de refus énoncé à l’art. 93, par. 4, dans les circonstances de l’espèce, l’Etat requis n’agit pas conformément aux obligations qui lui incombent en vertu du présent Statut, elle peut renvoyer l’affaire conformément à l’art. 87, par. 7, en précisant les raisons qui motivent sa conclusion; et
-  - iii) la Cour peut tirer toute conclusion qu’elle estime appropriée en l’espèce, lorsqu’elle juge l’accusé, quant à l’existence ou la non-existence d’un fait; ou
+  - i) la Cour peut, avant de tirer la conclusion visée au par. 7, al. a) ii), demander la tenue de consultations supplémentaires aux fins d’examiner les observations de l’État, y compris, le cas échéant, la tenue d’audiences à huis clos et *ex parte*;
+  - ii) si la Cour conclut qu’en invoquant le motif de refus énoncé à l’art. 93, par. 4, dans les circonstances de l’espèce, l’État requis n’agit pas conformément aux obligations qui lui incombent en vertu du présent Statut, elle peut renvoyer l’affaire conformément à l’art. 87, par. 7, en précisant les raisons qui motivent sa conclusion, et
+  - iii) la Cour peut tirer toute conclusion qu’elle estime appropriée en l’espèce, lorsqu’elle juge l’accusé, quant à l’existence ou la non-existence d’un fait, ou
 
 - b)
 
   Dans toutes les autres circonstances:
 
-  - i) ordonner la divulgation; ou
+  - i) ordonner la divulgation, ou
   - ii) dans la mesure où elle n’ordonne pas la divulgation, tirer toute conclusion qu’elle estime appropriée en l’espèce, lorsqu’elle juge l’accusé, quant à l’existence ou la non-existence d’un fait.
 
 #### Art. 73
 
 **Renseignements ou documents émanant de tiers**
 
-Si un Etat Partie est requis par la Cour de fournir un document ou un renseignement en sa possession, sous sa garde ou sous son contrôle qui lui a été communiqué à titre confidentiel par un Etat, une organisation intergouvernementale ou une organisation internationale, il demande à celui dont il tient le renseignement ou le document l’autorisation de le divulguer. Si celui qui a communiqué le renseignement ou le document est un Etat Partie, il consent à la divulgation du renseignement ou du document, ou s’efforce de régler la question avec la Cour, sous réserve des dispositions de l’art. 72. Si celui qui a communiqué le renseignement ou le document n’est pas un Etat Partie et refuse de consentir à la divulgation, l’Etat requis informe la Cour qu’il n’est pas en mesure de fournir le document ou le renseignement en raison d’une obligation préexistante de confidentialité à l’égard de celui dont il le tient.
+Si un État Partie est requis par la Cour de fournir un document ou un renseignement en sa possession, sous sa garde ou sous son contrôle qui lui a été communiqué à titre confidentiel par un État, une organisation intergouvernementale ou une organisation internationale, il demande à celui dont il tient le renseignement ou le document l’autorisation de le divulguer. Si celui qui a communiqué le renseignement ou le document est un État Partie, il consent à la divulgation du renseignement ou du document, ou s’efforce de régler la question avec la Cour, sous réserve des dispositions de l’art. 72. Si celui qui a communiqué le renseignement ou le document n’est pas un État Partie et refuse de consentir à la divulgation, l’État requis informe la Cour qu’il n’est pas en mesure de fournir le document ou le renseignement en raison d’une obligation préexistante de confidentialité à l’égard de celui dont il le tient.
 
 #### Art. 74
 
@@ -1497,11 +1509,11 @@ Si un Etat Partie est requis par la Cour de fournir un document ou un renseignem
 
 Le cas échéant, la Cour peut décider que l’indemnité accordée à titre de réparation est versée par l’intermédiaire du fonds visé à l’art. 79.
 
-<sup>3.</sup> Avant de rendre une ordonnance en vertu du présent article, la Cour peut solliciter, et prend en considération, les observations de la personne condamnée, des victimes, des autres personnes intéressées ou des Etats intéressés, et les observations formulées au nom de ces personnes ou de ces Etats.
+<sup>3.</sup> Avant de rendre une ordonnance en vertu du présent article, la Cour peut solliciter, et prend en considération, les observations de la personne condamnée, des victimes, des autres personnes intéressées ou des États intéressés, et les observations formulées au nom de ces personnes ou de ces États.
 
 <sup>4.</sup> Lorsqu’elle exerce le pouvoir que lui confère le présent article et après qu’une personne a été reconnue coupable d’un crime relevant de sa compétence, la Cour peut déterminer s’il est nécessaire, pour donner effet aux ordonnances qu’elle rend en vertu du présent article, de demander des mesures au titre de l’art. 93, par. 1.
 
-<sup>5.</sup> Les Etats Parties font appliquer les décisions prises en vertu du présent article comme si les dispositions de l’art. 109 étaient applicables au présent article.
+<sup>5.</sup> Les États Parties font appliquer les décisions prises en vertu du présent article comme si les dispositions de l’art. 109 étaient applicables au présent article.
 
 <sup>6.</sup> Les dispositions du présent article s’entendent sans préjudice des droits que le droit interne ou le droit international reconnaissent aux victimes.
 
@@ -1527,12 +1539,12 @@ Le cas échéant, la Cour peut décider que l’indemnité accordée à titre de
 
 Sous réserve de l’art. 110, la Cour peut prononcer contre une personne déclarée coupable d’un crime visé à l’art. 5 du présent Statut l’une des peines suivantes:
 
-- a) une peine d’emprisonnement à temps de 30 ans au plus; ou
+- a) une peine d’emprisonnement à temps de 30 ans au plus, ou
 - b) une peine d’emprisonnement à perpétuité, si l’extrême gravité du crime et la situation personnelle du condamné le justifient.
 
 <sup>2.</sup>
 
-A la peine d’emprisonnement, la Cour peut ajouter:
+À la peine d’emprisonnement, la Cour peut ajouter:
 
 - a) une amende fixée selon les critères prévus par le Règlement de procédure et de preuve;
 - b) la confiscation des profits, biens et avoirs tirés directement ou indirectement du crime, sans préjudice des droits des tiers de bonne foi.
@@ -1551,17 +1563,17 @@ A la peine d’emprisonnement, la Cour peut ajouter:
 
 **Fonds au profit des victimes**
 
-<sup>1.</sup> Un fonds est créé, sur décision de l’Assemblée des Etats Parties, au profit des victimes de crimes relevant de la compétence de la Cour et de leurs familles.
+<sup>1.</sup> Un fonds est créé, sur décision de l’Assemblée des États Parties, au profit des victimes de crimes relevant de la compétence de la Cour et de leurs familles.
 
 <sup>2.</sup> La Cour peut ordonner que le produit des amendes et tout autre bien confisqué soient versés au fonds.
 
-<sup>3.</sup> Le fonds est géré selon les principes fixés par l’Assemblée des Etats Parties.
+<sup>3.</sup> Le fonds est géré selon les principes fixés par l’Assemblée des États Parties.
 
 #### Art. 80
 
-**Le Statut, l’application des peines par les Etats et le droit national**
+**Le Statut, l’application des peines par les États et le droit national**
 
-Rien dans le présent chapitre n’affecte l’application par les Etats des peines que prévoit leur droit interne, ni l’application du droit des Etats qui ne prévoient pas les peines prévues dans le présent chapitre.
+Rien dans le présent chapitre n’affecte l’application par les États des peines que prévoit leur droit interne, ni l’application du droit des États qui ne prévoient pas les peines prévues dans le présent chapitre.
 
 ## Chapitre VIII A Appel et révision
 
@@ -1593,7 +1605,7 @@ Il peut être fait appel, conformément au Règlement de procédure et de preuve
 - 2\. a) Le Procureur ou le condamné peut, conformément au Règlement de procédure et de preuve, interjeter appel de la peine prononcée au motif d’une disproportion entre celle-ci et le crime.
 - b) Si, à l’occasion d’un appel contre la peine prononcée, la Cour estime qu’il existe des motifs qui pourraient justifier l’annulation de tout ou partie de la décision sur la culpabilité, elle peut inviter le Procureur et le condamné à invoquer les motifs énoncés à l’art. 81, par. 1, al. a) ou b), et se prononcer sur la décision sur la culpabilité conformément à l’art. 83.
 - c) La même procédure s’applique si, à l’occasion d’un appel concernant uniquement la décision sur la culpabilité, la Cour estime qu’il existe des motifs justifiant une réduction de la peine en vertu du par. 2, al. a).
-- 3\. a) A moins que la Chambre de première instance n’en décide autrement, la personne reconnue coupable reste détenue pendant la procédure d’appel.
+- 3\. a) À moins que la Chambre de première instance n’en décide autrement, la personne reconnue coupable reste détenue pendant la procédure d’appel.
 - b) Lorsque la durée de la détention dépasse la durée de la peine prononcée, la personne reconnue coupable est mise en liberté; toutefois, si le Procureur fait également appel, la libération peut être subordonnée aux conditions énoncées à l’al. c) ci-après.
 - c)
 
@@ -1617,7 +1629,7 @@ L’une ou l’autre partie peut faire appel, conformément au Règlement de pro
 - c) décision de la Chambre préliminaire d’agir de sa propre initiative en vertu de l’art. 56, par. 3;
 - d) décision soulevant une question de nature à affecter de manière appréciable le déroulement équitable et rapide de la procédure ou l’issue du procès, et dont le règlement immédiat par la Chambre d’appel pourrait, de l’avis de la Chambre préliminaire ou de la Chambre de première instance, faire sensiblement progresser la procédure.
 
-<sup>2.</sup> La décision de la Chambre préliminaire visée à l’art. 57, par. 3, al. d), est susceptible d’appel de la part de l’Etat concerné ou du Procureur, avec l’autorisation de la Chambre préliminaire. Cet appel est examiné selon une procédure accélérée.
+<sup>2.</sup> La décision de la Chambre préliminaire visée à l’art. 57, par. 3, al. d), est susceptible d’appel de la part de l’État concerné ou du Procureur, avec l’autorisation de la Chambre préliminaire. Cet appel est examiné selon une procédure accélérée.
 
 <sup>3.</sup> L’appel n’a d’effet suspensif que si la Chambre d’appel l’ordonne sur requête présentée conformément au Règlement de procédure et de preuve.
 
@@ -1629,11 +1641,11 @@ L’une ou l’autre partie peut faire appel, conformément au Règlement de pro
 
 <sup>1.</sup> Aux fins des procédures visées à l’art. 81 et au présent article, la Chambre d’appel a tous les pouvoirs de la Chambre de première instance.
 
-<sup>2.</sup> A ces fins, la Chambre d’appel peut renvoyer une question de fait devant la Chambre de première instance initialement saisie afin que celle-ci tranche la question et lui fasse rapport, ou elle peut elle-même demander des éléments de preuve afin de trancher. Lorsque seule la personne condamnée, ou le Procureur en son nom, a interjeté appel de la décision ou de la condamnation, celle-ci ne peut être modifiée à son détriment.
+<sup>2.</sup> À ces fins, la Chambre d’appel peut renvoyer une question de fait devant la Chambre de première instance initialement saisie afin que celle-ci tranche la question et lui fasse rapport, ou elle peut elle-même demander des éléments de preuve afin de trancher. Lorsque seule la personne condamnée, ou le Procureur en son nom, a interjeté appel de la décision ou de la condamnation, celle-ci ne peut être modifiée à son détriment.
 
 Si la Chambre d’appel conclut que la procédure faisant l’objet de l’appel est viciée au point de porter atteinte à la régularité de la décision ou de la condamnation, ou que la décision ou la condamnation faisant l’objet de l’appel est sérieusement entachée d’une erreur de fait ou de droit, elle peut:
 
-- a) annuler ou modifier la décision ou la condamnation; ou
+- a) annuler ou modifier la décision ou la condamnation, ou
 - b) ordonner un nouveau procès devant une chambre de première instance différente.
 
 <sup>3.</sup> Si, dans le cadre de l’appel d’une condamnation, la Chambre d’appel constate que la peine est disproportionnée par rapport au crime, elle peut la modifier conformément au chap. VII.
@@ -1654,7 +1666,7 @@ La personne déclarée coupable ou, si elle est décédée, son conjoint, ses en
 
   il a été découvert un fait nouveau qui:
 
-  - i) n’était pas connu au moment du procès sans que cette circonstance puisse être imputée, en totalité ou en partie, au requérant; et
+  - i) n’était pas connu au moment du procès sans que cette circonstance puisse être imputée, en totalité ou en partie, au requérant, et
   - ii) s’il avait été établi lors du procès, aurait vraisemblablement entraîné un verdict différent;
 
 - b) il a été découvert qu’un élément de preuve décisif, retenu lors du procès et sur la base duquel la culpabilité a été établie, était faux, contrefait ou falsifié;
@@ -1665,7 +1677,7 @@ La personne déclarée coupable ou, si elle est décédée, son conjoint, ses en
 La Chambre d’appel rejette la requête si elle la juge infondée. Si elle estime que la requête est fondée sur des motifs valables, elle peut, selon ce qui convient:
 
 - a) réunir à nouveau la Chambre de première instance qui a rendu le jugement initial;
-- b) constituer une nouvelle chambre de première instance; ou
+- b) constituer une nouvelle chambre de première instance, ou
 - c) rester saisie de l’affaire,
 
 #### Art. 85
@@ -1684,94 +1696,94 @@ La Chambre d’appel rejette la requête si elle la juge infondée. Si elle esti
 
 **Obligation générale de coopérer**
 
-Conformément aux dispositions du présent Statut, les Etats Parties coopèrent pleinement avec la Cour dans les enquêtes et poursuites qu’elle mène pour les crimes relevant de sa compétence.
+Conformément aux dispositions du présent Statut, les États Parties coopèrent pleinement avec la Cour dans les enquêtes et poursuites qu’elle mène pour les crimes relevant de sa compétence.
 
 #### Art. 87
 
 **Demandes de coopération: dispositions générales**
 
-- 1\. a) La Cour est habilitée à adresser des demandes de coopération aux Etats Parties. Ces demandes sont transmises par la voie diplomatique ou toute autre voie appropriée que chaque Etat Partie choisit au moment de la ratification, de l’acceptation ou de l’approbation du présent Statut ou de l’adhésion à celui-ci.
-- Toute modification ultérieure du choix de la voie de transmission est faite par chaque Etat Partie conformément au Règlement de procédure et de preuve.
+- 1\. a) La Cour est habilitée à adresser des demandes de coopération aux États Parties. Ces demandes sont transmises par la voie diplomatique ou toute autre voie appropriée que chaque État Partie choisit au moment de la ratification, de l’acceptation ou de l’approbation du présent Statut ou de l’adhésion à celui-ci.
+- Toute modification ultérieure du choix de la voie de transmission est faite par chaque État Partie conformément au Règlement de procédure et de preuve.
 - b) S’il y a lieu, et sans préjudice des dispositions de l’al. a), les demandes peuvent être également transmises par l’Organisation internationale de police criminelle (INTERPOL) ou par toute organisation régionale compétente.
 
-<sup>2.</sup> Les demandes de coopération et les pièces justificatives y afférentes sont soit rédigées dans une langue officielle de l’Etat requis ou accompagnées d’une traduction dans cette langue, soit rédigées dans l’une des langues de travail de la Cour ou accompagnées d’une traduction dans l’une de ces langues, selon le choix fait par l’Etat requis au moment de la ratification, de l’acceptation ou de l’approbation du présent Statut ou de l’adhésion à celui-ci.
+<sup>2.</sup> Les demandes de coopération et les pièces justificatives y afférentes sont soit rédigées dans une langue officielle de l’État requis ou accompagnées d’une traduction dans cette langue, soit rédigées dans l’une des langues de travail de la Cour ou accompagnées d’une traduction dans l’une de ces langues, selon le choix fait par l’État requis au moment de la ratification, de l’acceptation ou de l’approbation du présent Statut ou de l’adhésion à celui-ci.
 
 Toute modification ultérieure de ce choix est faite conformément au Règlement de procédure et de preuve.
 
-<sup>3.</sup> L’Etat requis respecte le caractère confidentiel des demandes de coopération et des pièces justificatives y afférentes, sauf dans la mesure où leur divulgation est nécessaire pour donner suite à la demande.
+<sup>3.</sup> L’État requis respecte le caractère confidentiel des demandes de coopération et des pièces justificatives y afférentes, sauf dans la mesure où leur divulgation est nécessaire pour donner suite à la demande.
 
 <sup>4.</sup> En ce qui concerne les demandes d’assistance présentées au titre du présent chapitre, la Cour peut prendre, notamment en matière de protection des renseignements, les mesures qui peuvent être nécessaires pour garantir la sécurité et le bien-être physique ou psychologique des victimes, des témoins potentiels et des membres de leur famille. La Cour peut demander que tout renseignement fourni au titre du présent chapitre soit communiqué et traité de telle sorte que soient préservés la sécurité et le bien-être physique ou psychologique des victimes, des témoins potentiels et des membres de leur famille.
 
-- 5\. a) La Cour peut inviter tout Etat non partie au présent Statut à prêter son assistance au titre du présent chapitre sur la base d’un arrangement *ad hoc* ou d’un accord conclu avec cet Etat ou sur toute autre base appropriée.
-- b) Si, ayant conclu avec la Cour un arrangement *ad hoc* ou un accord, un Etat non partie au présent Statut n’apporte pas l’assistance qui lui est demandée en vertu de cet arrangement ou de cet accord, la Cour peut en informer l’Assemblée des Etats Parties, ou le Conseil de sécurité lorsque c’est celui-ci qui l’a saisie.
+- 5\. a) La Cour peut inviter tout État non partie au présent Statut à prêter son assistance au titre du présent chapitre sur la base d’un arrangement *ad hoc* ou d’un accord conclu avec cet État ou sur toute autre base appropriée.
+- b) Si, ayant conclu avec la Cour un arrangement *ad hoc* ou un accord, un État non partie au présent Statut n’apporte pas l’assistance qui lui est demandée en vertu de cet arrangement ou de cet accord, la Cour peut en informer l’Assemblée des États Parties, ou le Conseil de sécurité lorsque c’est celui-ci qui l’a saisie.
 
 <sup>6.</sup> La Cour peut demander des renseignements ou des documents à toute organisation intergouvernementale. Elle peut également solliciter d’autres formes de coopération et d’assistance dont elle est convenue avec une organisation intergouvernementale et qui sont conformes aux compétences ou au mandat de celle-ci.
 
-<sup>7.</sup> Si un Etat Partie n’accède pas à une demande de coopération de la Cour contrairement à ce que prévoit le présent Statut, et l’empêche ainsi d’exercer les fonctions et les pouvoirs que lui confère le présent Statut, la Cour peut en prendre acte et en référer à l’Assemblée des Etats Parties ou au Conseil de sécurité lorsque c’est celui-ci qui l’a saisie.
+<sup>7.</sup> Si un État Partie n’accède pas à une demande de coopération de la Cour contrairement à ce que prévoit le présent Statut, et l’empêche ainsi d’exercer les fonctions et les pouvoirs que lui confère le présent Statut, la Cour peut en prendre acte et en référer à l’Assemblée des États Parties ou au Conseil de sécurité lorsque c’est celui-ci qui l’a saisie.
 
 #### Art. 88
 
 **Procédures disponibles selon la législation nationale**
 
-Les Etats Parties veillent à prévoir dans leur législation nationale les procédures qui permettent la réalisation de toutes les formes de coopération visées dans le présent chapitre.
+Les États Parties veillent à prévoir dans leur législation nationale les procédures qui permettent la réalisation de toutes les formes de coopération visées dans le présent chapitre.
 
 #### Art. 89
 
 **Remise de certaines personnes à la Cour**
 
-<sup>1.</sup> La Cour peut présenter à tout Etat sur le territoire duquel une personne est susceptible de se trouver une demande, accompagnée des pièces justificatives indiquées à l’art. 91, tendant à ce que cette personne soit arrêtée et lui soit remise, et sollicite la coopération de cet Etat pour l’arrestation et la remise de la personne. Les Etats Parties répondent à toute demande d’arrestation et de remise conformément aux dispositions du présent chapitre et aux procédures prévues par leur législation nationale.
+<sup>1.</sup> La Cour peut présenter à tout État sur le territoire duquel une personne est susceptible de se trouver une demande, accompagnée des pièces justificatives indiquées à l’art. 91, tendant à ce que cette personne soit arrêtée et lui soit remise, et sollicite la coopération de cet État pour l’arrestation et la remise de la personne. Les États Parties répondent à toute demande d’arrestation et de remise conformément aux dispositions du présent chapitre et aux procédures prévues par leur législation nationale.
 
-<sup>2.</sup> Lorsque la personne dont la remise est sollicitée saisit une juridiction nationale d’une contestation fondée sur le principe *ne bis in idem*, comme prévu à l’art. 20, l’Etat requis consulte immédiatement la Cour pour savoir s’il y a eu en l’espèce une décision sur la recevabilité. S’il a été décidé que l’affaire est recevable, l’Etat requis donne suite à la demande. Si la décision sur la recevabilité est pendante, l’Etat requis peut différer l’exécution de la demande jusqu’à ce que la Cour ait statué.
+<sup>2.</sup> Lorsque la personne dont la remise est sollicitée saisit une juridiction nationale d’une contestation fondée sur le principe *ne bis in idem*, comme prévu à l’art. 20, l’État requis consulte immédiatement la Cour pour savoir s’il y a eu en l’espèce une décision sur la recevabilité. S’il a été décidé que l’affaire est recevable, l’État requis donne suite à la demande. Si la décision sur la recevabilité est pendante, l’État requis peut différer l’exécution de la demande jusqu’à ce que la Cour ait statué.
 
-- 3\. a) Les Etats Parties autorisent le transport à travers leur territoire, conformément aux procédures prévues par leur législation nationale, de toute personne transférée à la Cour par un autre Etat, sauf dans le cas où le transit par leur territoire gênerait ou retarderait la remise.
+- 3\. a) Les États Parties autorisent le transport à travers leur territoire, conformément aux procédures prévues par leur législation nationale, de toute personne transférée à la Cour par un autre État, sauf dans le cas où le transit par leur territoire gênerait ou retarderait la remise.
 - b)
 
   Une demande de transit est transmise par la Cour conformément à l’art. 87. Elle contient:
 
   - i) le signalement de la personne transportée;
-  - ii) un bref exposé des faits et de leur qualification juridique; et
+  - ii) un bref exposé des faits et de leur qualification juridique, et
   - iii) le mandat d’arrêt et de remise.
 
 - c) La personne transportée reste détenue pendant le transit.
-- d) Aucune autorisation n’est nécessaire si la personne est transportée par voie aérienne et si aucun atterrissage n’est prévu sur le territoire de l’Etat de transit.
-- e) Si un atterrissage imprévu a lieu sur le territoire de l’Etat de transit, celui-ci peut exiger de la Cour la présentation d’une demande de transit dans les formes prescrites à l’al. b). L’Etat de transit place la personne transportée en détention jusqu’à la réception de la demande de transit et l’accomplissement effectif du transit. Toutefois, la détention au titre du présent alinéa ne peut se prolonger au-delà de 96 heures après l’atterrissage imprévu si la demande n’est pas reçue dans ce délai.
+- d) Aucune autorisation n’est nécessaire si la personne est transportée par voie aérienne et si aucun atterrissage n’est prévu sur le territoire de l’État de transit.
+- e) Si un atterrissage imprévu a lieu sur le territoire de l’État de transit, celui-ci peut exiger de la Cour la présentation d’une demande de transit dans les formes prescrites à l’al. b). L’État de transit place la personne transportée en détention jusqu’à la réception de la demande de transit et l’accomplissement effectif du transit. Toutefois, la détention au titre du présent alinéa ne peut se prolonger au-delà de 96 heures après l’atterrissage imprévu si la demande n’est pas reçue dans ce délai.
 
-<sup>4.</sup> Si la personne réclamée fait l’objet de poursuites ou exécute une peine dans l’Etat requis pour un crime différent de celui pour lequel sa remise à la Cour est demandée, cet Etat, après avoir décidé d’accéder à la demande de la Cour, consulte celle-ci.
+<sup>4.</sup> Si la personne réclamée fait l’objet de poursuites ou exécute une peine dans l’État requis pour un crime différent de celui pour lequel sa remise à la Cour est demandée, cet État, après avoir décidé d’accéder à la demande de la Cour, consulte celle-ci.
 
 #### Art. 90
 
 **Demandes concurrentes**
 
-<sup>1.</sup> Si un Etat Partie reçoit de la Cour, conformément à l’art. 89, une demande de remise et reçoit par ailleurs de tout autre Etat une demande d’extradition de la même personne pour le même comportement, qui constitue la base du crime pour lequel la Cour demande la remise de cette personne, il en avise la Cour et l’Etat requérant.
+<sup>1.</sup> Si un État Partie reçoit de la Cour, conformément à l’art. 89, une demande de remise et reçoit par ailleurs de tout autre État une demande d’extradition de la même personne pour le même comportement, qui constitue la base du crime pour lequel la Cour demande la remise de cette personne, il en avise la Cour et l’État requérant.
 
 <sup>2.</sup>
 
-Lorsque l’Etat requérant est un Etat Partie, l’Etat requis donne la priorité à la demande de la Cour:
+Lorsque l’État requérant est un État Partie, l’État requis donne la priorité à la demande de la Cour:
 
-- a) si la Cour a décidé, en application des art. 18 ou 19, que l’affaire que concerne la demande de remise est recevable en tenant compte de l’enquête menée ou des poursuites engagées par l’Etat requérant en relation avec la demande d’extradition de celui-ci; ou
-- b) si la Cour prend la décision visée à l’al. a) à la suite de la notification faite par l’Etat requis en application du par. 1.
+- a) si la Cour a décidé, en application des art. 18 ou 19, que l’affaire que concerne la demande de remise est recevable en tenant compte de l’enquête menée ou des poursuites engagées par l’État requérant en relation avec la demande d’extradition de celui-ci, ou
+- b) si la Cour prend la décision visée à l’al. a) à la suite de la notification faite par l’État requis en application du par. 1.
 
-<sup>3.</sup> Lorsque la Cour n’a pas pris la décision visée au par. 2, al. a), l’Etat requis peut, s’il le souhaite, commencer à instruire la demande d’extradition de l’Etat requérant en attendant que la Cour se prononce comme prévu à l’al. b). Il n’extrade pas la personne tant que la Cour n’a pas jugé l’affaire irrecevable. La Cour se prononce selon une procédure accélérée.
+<sup>3.</sup> Lorsque la Cour n’a pas pris la décision visée au par. 2, al. a), l’État requis peut, s’il le souhaite, commencer à instruire la demande d’extradition de l’État requérant en attendant que la Cour se prononce comme prévu à l’al. b). Il n’extrade pas la personne tant que la Cour n’a pas jugé l’affaire irrecevable. La Cour se prononce selon une procédure accélérée.
 
-<sup>4.</sup> Si l’Etat requérant est un Etat non partie au présent Statut, l’Etat requis, s’il n’est pas tenu par une obligation internationale d’extrader l’intéressé vers l’Etat requérant, donne la priorité à la demande de remise de la Cour, si celle-ci a jugé que l’affaire était recevable.
+<sup>4.</sup> Si l’État requérant est un État non partie au présent Statut, l’État requis, s’il n’est pas tenu par une obligation internationale d’extrader l’intéressé vers l’État requérant, donne la priorité à la demande de remise de la Cour, si celle-ci a jugé que l’affaire était recevable.
 
-<sup>5.</sup> Quand une affaire relevant du par. 4 n’a pas été jugée recevable par la Cour, l’Etat requis peut, s’il le souhaite, commencer à instruire la demande d’extradition de l’Etat requérant.
+<sup>5.</sup> Quand une affaire relevant du par. 4 n’a pas été jugée recevable par la Cour, l’État requis peut, s’il le souhaite, commencer à instruire la demande d’extradition de l’État requérant.
 
 <sup>6.</sup>
 
-Dans les cas où le par. 4 s’applique mais que l’Etat requis est tenu par une obligation internationale d’extrader la personne vers l’Etat non partie requérant, l’Etat requis détermine s’il y a lieu de remettre la personne à la Cour ou de l’extrader vers l’Etat requérant. Dans sa décision, il tient compte de toutes les considérations pertinentes, notamment:
+Dans les cas où le par. 4 s’applique mais que l’État requis est tenu par une obligation internationale d’extrader la personne vers l’État non partie requérant, l’État requis détermine s’il y a lieu de remettre la personne à la Cour ou de l’extrader vers l’État requérant. Dans sa décision, il tient compte de toutes les considérations pertinentes, notamment:
 
 - a) l’ordre chronologique des demandes;
-- b) les intérêts de l’Etat requérant, en particulier, le cas échéant, le fait que le crime a été commis sur son territoire et la nationalité des victimes et de la personne réclamée; et
-- c) la possibilité que la Cour et l’Etat requérant parviennent ultérieurement à un accord concernant la remise de cette personne.
+- b) les intérêts de l’État requérant, en particulier, le cas échéant, le fait que le crime a été commis sur son territoire et la nationalité des victimes et de la personne réclamée, et
+- c) la possibilité que la Cour et l’État requérant parviennent ultérieurement à un accord concernant la remise de cette personne.
 
-<sup>7.</sup> Si un Etat Partie reçoit de la Cour une demande de remise et reçoit par ailleurs d’un autre Etat une demande d’extradition de la même personne pour un comportement différent de celui qui constitue le crime pour lequel la Cour demande la remise:
+<sup>7.</sup> Si un État Partie reçoit de la Cour une demande de remise et reçoit par ailleurs d’un autre État une demande d’extradition de la même personne pour un comportement différent de celui qui constitue le crime pour lequel la Cour demande la remise:
 
-a) l’Etat requis donne la priorité à la demande de la Cour s’il n’est pas tenu par une obligation internationale d’extrader la personne vers l’Etat requérant;
+a) l’État requis donne la priorité à la demande de la Cour s’il n’est pas tenu par une obligation internationale d’extrader la personne vers l’État requérant;
 
-b) s’il est tenu par une obligation internationale d’extrader la personne vers l’Etat requérant, l’Etat requis soit remet cette personne à la Cour soit l’extrade vers l’Etat requérant. Dans son choix, il tient compte de toutes les considérations pertinentes, notamment celles qui sont énoncées au par. 6, mais accorde une importance particulière à la nature et à la gravité relative du comportement en cause.
+b) s’il est tenu par une obligation internationale d’extrader la personne vers l’État requérant, l’État requis soit remet cette personne à la Cour soit l’extrade vers l’État requérant. Dans son choix, il tient compte de toutes les considérations pertinentes, notamment celles qui sont énoncées au par. 6, mais accorde une importance particulière à la nature et à la gravité relative du comportement en cause.
 
-<sup>8.</sup> Lorsqu’à la suite d’une notification reçue en application du présent article, la Cour a jugé une affaire irrecevable et que l’extradition vers l’Etat requérant est ultérieurement refusée, l’Etat requis avise la Cour de cette décision.
+<sup>8.</sup> Lorsqu’à la suite d’une notification reçue en application du présent article, la Cour a jugé une affaire irrecevable et que l’extradition vers l’État requérant est ultérieurement refusée, l’État requis avise la Cour de cette décision.
 
 #### Art. 91
 
@@ -1784,8 +1796,8 @@ b) s’il est tenu par une obligation internationale d’extrader la personne ve
 Si la demande concerne l’arrestation et la remise d’une personne faisant l’objet d’un mandat d’arrêt délivré par la Chambre préliminaire en vertu de l’art. 58, elle contient ou est accompagnée d’un dossier contenant les pièces justificatives suivantes:
 
 - a) le signalement de la personne recherchée, suffisant pour l’identifier, et des renseignements sur le lieu où elle se trouve probablement;
-- b) une copie du mandat d’arrêt; et
-- c) les documents, déclarations et renseignements qui peuvent être exigés dans l’Etat requis pour procéder à la remise; toutefois, les exigences de l’Etat requis ne doivent pas être plus lourdes dans ce cas que dans celui des demandes d’extradition présentées en application de traités ou arrangements conclus entre l’Etat requis et d’autres Etats et devraient même, si possible, l’être moins, eu égard au caractère particulier de la Cour.
+- b) une copie du mandat d’arrêt, et
+- c) les documents, déclarations et renseignements qui peuvent être exigés dans l’État requis pour procéder à la remise; toutefois, les exigences de l’État requis ne doivent pas être plus lourdes dans ce cas que dans celui des demandes d’extradition présentées en application de traités ou arrangements conclus entre l’État requis et d’autres États et devraient même, si possible, l’être moins, eu égard au caractère particulier de la Cour.
 
 <sup>3.</sup>
 
@@ -1793,10 +1805,10 @@ Si la demande concerne l’arrestation et la remise d’une personne qui a déj�
 
 - a) une copie de tout mandat d’arrêt visant cette personne;
 - b) une copie du jugement;
-- c) des renseignements attestant que la personne recherchée est bien celle visée par le jugement; et
+- c) des renseignements attestant que la personne recherchée est bien celle visée par le jugement, et
 - d) si la personne recherchée a été condamnée à une peine, une copie de la condamnation, avec, dans le cas d’une peine d’emprisonnement, indication du temps déjà accompli et du temps restant à accomplir.
 
-<sup>4.</sup> A la demande de la Cour, un Etat Partie tient avec celle-ci, soit d’une manière générale, soit à propos d’une question particulière, des consultations sur les conditions prévues par sa législation interne qui pourraient s’appliquer selon le par. 2, al. c). Lors de ces consultations, l’Etat Partie informe la Cour des exigences particulières de sa législation.
+<sup>4.</sup> À la demande de la Cour, un État Partie tient avec celle-ci, soit d’une manière générale, soit à propos d’une question particulière, des consultations sur les conditions prévues par sa législation interne qui pourraient s’appliquer selon le par. 2, al. c). Lors de ces consultations, l’État Partie informe la Cour des exigences particulières de sa législation.
 
 #### Art. 92
 
@@ -1810,10 +1822,10 @@ La demande d’arrestation provisoire est faite par tout moyen laissant une trac
 
 - a) le signalement de la personne recherchée, suffisant pour l’identifier, et des renseignements sur le lieu où elle se trouve probablement;
 - b) l’exposé succinct des crimes pour lesquels la personne est recherchée et des faits qui seraient constitutifs de ces crimes, y compris, si possible, la date et le lieu où ils se seraient produits;
-- c) une déclaration affirmant l’existence à l’encontre de la personne recherchée d’un mandat d’arrêt ou d’un jugement établissant sa culpabilité; et
+- c) une déclaration affirmant l’existence à l’encontre de la personne recherchée d’un mandat d’arrêt ou d’un jugement établissant sa culpabilité, et
 - d) une déclaration indiquant qu’une demande de remise de la personne recherchée suivra.
 
-<sup>3.</sup> Une personne provisoirement arrêtée peut être remise en liberté si l’Etat requis n’a pas reçu la demande de remise et les pièces justificatives visées à l’art. 91 dans le délai prescrit par le Règlement de procédure et de preuve. Toutefois, cette personne peut consentir à être remise avant l’expiration de ce délai si la législation de l’Etat requis le permet. Dans ce cas, l’Etat requis procède aussitôt que possible à sa remise à la Cour.
+<sup>3.</sup> Une personne provisoirement arrêtée peut être remise en liberté si l’État requis n’a pas reçu la demande de remise et les pièces justificatives visées à l’art. 91 dans le délai prescrit par le Règlement de procédure et de preuve. Toutefois, cette personne peut consentir à être remise avant l’expiration de ce délai si la législation de l’État requis le permet. Dans ce cas, l’État requis procède aussitôt que possible à sa remise à la Cour.
 
 <sup>4.</sup> La mise en liberté de la personne recherchée prévu au par. 3, est sans préjudice de son arrestation ultérieure et de sa remise si la demande de remise accompagnée des pièces justificatives est présentée par la suite.
 
@@ -1823,7 +1835,7 @@ La demande d’arrestation provisoire est faite par tout moyen laissant une trac
 
 <sup>1.</sup>
 
-Les Etats Parties font droit, conformément aux dispositions du présent chapitre et aux procédures prévues par leur législation nationale, aux demandes d’assistance de la Cour liées à une enquête ou à des poursuites et concernant:
+Les États Parties font droit, conformément aux dispositions du présent chapitre et aux procédures prévues par leur législation nationale, aux demandes d’assistance de la Cour liées à une enquête ou à des poursuites et concernant:
 
 - a) l’identification d’une personne, le lieu où elle se trouve ou la localisation de biens;
 - b) le rassemblement d’éléments de preuve, y compris les dépositions faites sous serment, et la production d’éléments de preuve, y compris les expertises et les rapports dont la Cour a besoin;
@@ -1835,56 +1847,56 @@ Les Etats Parties font droit, conformément aux dispositions du présent chapitr
 - h) l’exécution de perquisitions et de saisies;
 - i) la transmission de dossiers et de documents, y compris les dossiers et les documents officiels;
 - j) la protection des victimes et des témoins et la préservation des éléments de preuve;
-- k) l’identification, la localisation, le gel ou la saisie du produit des crimes, des biens, des avoirs et des instruments qui sont liés aux crimes, aux fins de leur confiscation éventuelle, sans préjudice des droits des tiers de bonne foi; et
-- l) toute autre forme d’assistance non interdite par la législation de l’Etat requis propre à faciliter l’enquête et les poursuites relatives aux crimes relevant de la compétence de la Cour.
+- k) l’identification, la localisation, le gel ou la saisie du produit des crimes, des biens, des avoirs et des instruments qui sont liés aux crimes, aux fins de leur confiscation éventuelle, sans préjudice des droits des tiers de bonne foi, et
+- l) toute autre forme d’assistance non interdite par la législation de l’État requis propre à faciliter l’enquête et les poursuites relatives aux crimes relevant de la compétence de la Cour.
 
-<sup>2.</sup> La Cour est habilitée à fournir à un témoin ou à un expert comparaissant devant elle l’assurance qu’il ne sera ni poursuivi, ni détenu, ni soumis par elle à une restriction quelconque de sa liberté personnelle pour un acte ou une omission antérieurs à son départ de l’Etat requis.
+<sup>2.</sup> La Cour est habilitée à fournir à un témoin ou à un expert comparaissant devant elle l’assurance qu’il ne sera ni poursuivi, ni détenu, ni soumis par elle à une restriction quelconque de sa liberté personnelle pour un acte ou une omission antérieurs à son départ de l’État requis.
 
-<sup>3.</sup> Si l’exécution d’une mesure particulière d’assistance décrite dans une demande présentée en vertu du par. 1 est interdite dans l’Etat requis en vertu d’un principe juridique fondamental d’application générale, ledit Etat engage sans tarder des consultations avec la Cour pour tenter de régler la question. Au cours de ces consultations, il est envisagé d’apporter l’assistance demandée sous une autre forme ou sous certaines conditions. Si la question n’est pas réglée à l’issue des consultations, la Cour modifie la demande.
+<sup>3.</sup> Si l’exécution d’une mesure particulière d’assistance décrite dans une demande présentée en vertu du par. 1 est interdite dans l’État requis en vertu d’un principe juridique fondamental d’application générale, ledit État engage sans tarder des consultations avec la Cour pour tenter de régler la question. Au cours de ces consultations, il est envisagé d’apporter l’assistance demandée sous une autre forme ou sous certaines conditions. Si la question n’est pas réglée à l’issue des consultations, la Cour modifie la demande.
 
-<sup>4.</sup> Conformément à l’art. 72, un Etat Partie ne peut rejeter, totalement ou partiellement, une demande d’assistance de la Cour que si cette demande a pour objet la production de documents ou la divulgation d’éléments de preuve qui touchent à sa sécurité nationale.
+<sup>4.</sup> Conformément à l’art. 72, un État Partie ne peut rejeter, totalement ou partiellement, une demande d’assistance de la Cour que si cette demande a pour objet la production de documents ou la divulgation d’éléments de preuve qui touchent à sa sécurité nationale.
 
-<sup>5.</sup> Avant de rejeter une demande d’assistance visée au par. 1, al. l), l’Etat requis détermine si l’assistance peut être fournie sous certaines conditions, ou pourrait l’être ultérieurement ou sous une autre forme, étant entendu que si la Cour ou le Procureur acceptent ces conditions, ils sont tenus de les observer.
+<sup>5.</sup> Avant de rejeter une demande d’assistance visée au par. 1, al. l), l’État requis détermine si l’assistance peut être fournie sous certaines conditions, ou pourrait l’être ultérieurement ou sous une autre forme, étant entendu que si la Cour ou le Procureur acceptent ces conditions, ils sont tenus de les observer.
 
-<sup>6.</sup> L’Etat requis qui rejette une demande d’assistance fait connaître sans retard ses raisons à la Cour ou au Procureur.
+<sup>6.</sup> L’État requis qui rejette une demande d’assistance fait connaître sans retard ses raisons à la Cour ou au Procureur.
 
 - 7\. a)
 
   La Cour peut demander le transfèrement temporaire d’une personne détenue aux fins d’identification ou pour obtenir un témoignage ou d’autres formes d’assistance. Cette personne peut être transférée si les conditions suivantes sont remplies:
 
-  - i) la personne donne librement et en connaissance de cause son consentement au transfèrement; et
-  - ii) l’Etat requis donne son accord au transfèrement, sous réserve des conditions dont cet Etat et la Cour peuvent convenir.
+  - i) la personne donne librement et en connaissance de cause son consentement au transfèrement, et
+  - ii) l’État requis donne son accord au transfèrement, sous réserve des conditions dont cet État et la Cour peuvent convenir.
 
-- b) La personne transférée reste détenue. Une fois l’objectif du transfèrement atteint, la Cour renvoie sans délai cette personne dans l’Etat requis.
+- b) La personne transférée reste détenue. Une fois l’objectif du transfèrement atteint, la Cour renvoie sans délai cette personne dans l’État requis.
 - 8\. a) La Cour préserve le caractère confidentiel des pièces et renseignements recueillis, sauf dans la mesure nécessaire à l’enquête et aux procédures décrites dans la demande.
-- b) L’Etat requis peut au besoin communiquer des documents ou des renseignements au Procureur à titre confidentiel. Le Procureur ne peut alors les utiliser que pour recueillir des éléments de preuve nouveaux.
-- c) L’Etat requis peut, soit d’office, soit à la demande du Procureur, autoriser par la suite la divulgation de ces documents ou renseignements. Ceux-ci peuvent alors être utilisés comme moyen de preuve conformément aux dispositions des chap. V et VI et au Règlement de procédure et de preuve.
-- 9\. a) i) Si un Etat Partie reçoit, d’une part, de la Cour et, d’autre part, d’un autre Etat dans le cadre d’une obligation internationale, des demandes concurrentes ayant un autre objet que la remise ou l’extradition, il s’efforce, en consultation avec la Cour et cet autre Etat, de faire droit aux deux demandes, au besoin en différant l’une ou l’autre ou en la subordonnant à certaines conditions.
-  - ii) A défaut, la concurrence des demandes est résolue conformément aux principes établis à l’art. 90.
+- b) L’État requis peut au besoin communiquer des documents ou des renseignements au Procureur à titre confidentiel. Le Procureur ne peut alors les utiliser que pour recueillir des éléments de preuve nouveaux.
+- c) L’État requis peut, soit d’office, soit à la demande du Procureur, autoriser par la suite la divulgation de ces documents ou renseignements. Ceux-ci peuvent alors être utilisés comme moyen de preuve conformément aux dispositions des chap. V et VI et au Règlement de procédure et de preuve.
+- 9\. a) i) Si un État Partie reçoit, d’une part, de la Cour et, d’autre part, d’un autre État dans le cadre d’une obligation internationale, des demandes concurrentes ayant un autre objet que la remise ou l’extradition, il s’efforce, en consultation avec la Cour et cet autre État, de faire droit aux deux demandes, au besoin en différant l’une ou l’autre ou en la subordonnant à certaines conditions.
+  - ii) À défaut, la concurrence des demandes est résolue conformément aux principes établis à l’art. 90.
 
-- b) Toutefois, lorsque la demande de la Cour concerne des renseignements, des biens ou des personnes qui se trouvent sous l’autorité d’un Etat tiers ou d’une organisation internationale en vertu d’un accord international, l’Etat requis en informe la Cour et celle-ci adresse sa demande à l’Etat tiers ou à l’organisation internationale.
-- 10\. a) Si elle reçoit une demande en ce sens, la Cour peut coopérer avec l’Etat Partie qui mène une enquête ou un procès concernant un comportement qui constitue un crime relevant de la compétence de la Cour ou un crime grave au regard du droit interne de cet Etat, et prêter assistance à cet Etat.
+- b) Toutefois, lorsque la demande de la Cour concerne des renseignements, des biens ou des personnes qui se trouvent sous l’autorité d’un État tiers ou d’une organisation internationale en vertu d’un accord international, l’État requis en informe la Cour et celle-ci adresse sa demande à l’État tiers ou à l’organisation internationale.
+- 10\. a) Si elle reçoit une demande en ce sens, la Cour peut coopérer avec l’État Partie qui mène une enquête ou un procès concernant un comportement qui constitue un crime relevant de la compétence de la Cour ou un crime grave au regard du droit interne de cet État, et prêter assistance à cet État.
 - b) i)
 
   Cette assistance comprend notamment:
 
-- a. la transmission de dépositions, documents et autres éléments de preuve recueillis au cours d’une enquête ou d’un procès menés par la Cour; et
+- a. la transmission de dépositions, documents et autres éléments de preuve recueillis au cours d’une enquête ou d’un procès menés par la Cour, et
 - b. l’interrogatoire de toute personne détenue par ordre de la Cour.
 
   - ii)
 
     Dans le cas visé au point a. du sous-al. b), i):
 
-    - a. la transmission des documents et autres éléments de preuve obtenus avec l’assistance d’un Etat requiert le consentement de cet Etat;
+    - a. la transmission des documents et autres éléments de preuve obtenus avec l’assistance d’un État requiert le consentement de cet État;
     - b. la transmission des dépositions, documents et autres éléments de preuve fournis par un témoin ou par un expert se fait conformément aux dispositions de l’art. 68.
 
-- c) La Cour peut, dans les conditions énoncées au présent paragraphe, faire droit à une demande d’assistance émanant d’un Etat qui n’est pas partie au présent Statut.
+- c) La Cour peut, dans les conditions énoncées au présent paragraphe, faire droit à une demande d’assistance émanant d’un État qui n’est pas partie au présent Statut.
 
 #### Art. 94
 
 **Sursis à l’exécution d’une demande à raison d’une enquête ou de poursuites en cours**
 
-<sup>1.</sup> Si l’exécution immédiate d’une demande devait nuire au bon déroulement de l’enquête ou des poursuites en cours dans une affaire différente de celle à laquelle se rapporte la demande, l’Etat requis peut surseoir à l’exécution de celle-ci pendant un temps fixé d’un commun accord avec la Cour. Toutefois, ce sursis ne dure pas plus qu’il n’est nécessaire pour mener à bien l’enquête ou les poursuites en question dans l’Etat requis. Avant de décider de surseoir à l’exécution de la demande, l’Etat requis examine si l’assistance peut être fournie immédiatement sous certaines conditions.
+<sup>1.</sup> Si l’exécution immédiate d’une demande devait nuire au bon déroulement de l’enquête ou des poursuites en cours dans une affaire différente de celle à laquelle se rapporte la demande, l’État requis peut surseoir à l’exécution de celle-ci pendant un temps fixé d’un commun accord avec la Cour. Toutefois, ce sursis ne dure pas plus qu’il n’est nécessaire pour mener à bien l’enquête ou les poursuites en question dans l’État requis. Avant de décider de surseoir à l’exécution de la demande, l’État requis examine si l’assistance peut être fournie immédiatement sous certaines conditions.
 
 <sup>2.</sup> Si la décision est prise de surseoir à l’exécution de la demande en application du par. 1, le Procureur peut toutefois demander l’adoption de mesures pour préserver les éléments de preuve en vertu de l’art. 93, par. 1, al. j).
 
@@ -1892,7 +1904,7 @@ Les Etats Parties font droit, conformément aux dispositions du présent chapitr
 
 **Sursis à l’exécution d’une demande en raison d’une exception d’irrecevabilité**
 
-Lorsque la Cour examine une exception d’irrecevabilité conformément aux art. 18 ou 19, l’Etat requis peut surseoir à l’exécution d’une demande faite au titre du présent chapitre en attendant que la Cour ait statué, à moins que la Cour n’ait expressément décidé que le Procureur pouvait continuer de rassembler des éléments de preuve en application des art. 18 ou 19.
+Lorsque la Cour examine une exception d’irrecevabilité conformément aux art. 18 ou 19, l’État requis peut surseoir à l’exécution d’une demande faite au titre du présent chapitre en attendant que la Cour ait statué, à moins que la Cour n’ait expressément décidé que le Procureur pouvait continuer de rassembler des éléments de preuve en application des art. 18 ou 19.
 
 #### Art. 96
 
@@ -1908,10 +1920,10 @@ La demande contient ou est accompagnée d’un dossier contenant les éléments 
 - b) des renseignements aussi détaillés que possible sur la personne ou le lieu qui doivent être identifiés ou localisés, de manière que l’assistance demandée puisse être fournie;
 - c) l’exposé succinct des faits essentiels qui justifient la demande;
 - d) l’exposé des motifs et l’explication détaillée des procédures ou des conditions à respecter;
-- e) tout renseignement que peut exiger la législation de l’Etat requis pour qu’il soit donné suite à la demande; et
+- e) tout renseignement que peut exiger la législation de l’État requis pour qu’il soit donné suite à la demande, et
 - f) tout autre renseignement utile pour que l’assistance demandée puisse être fournie.
 
-<sup>3.</sup> A la demande de la Cour, un Etat Partie tient avec celle-ci, soit d’une manière générale, soit à propos d’une question particulière, des consultations sur les conditions prévues par sa législation qui pourraient s’appliquer comme prévu au par. 2, al. e). Lors de ces consultations, l’Etat Partie informe la Cour des exigences particulières de sa législation.
+<sup>3.</sup> À la demande de la Cour, un État Partie tient avec celle-ci, soit d’une manière générale, soit à propos d’une question particulière, des consultations sur les conditions prévues par sa législation qui pourraient s’appliquer comme prévu au par. 2, al. e). Lors de ces consultations, l’État Partie informe la Cour des exigences particulières de sa législation.
 
 <sup>4.</sup> Les dispositions du présent article s’appliquent aussi, le cas échéant, à une demande d’assistance adressée à la Cour.
 
@@ -1919,36 +1931,36 @@ La demande contient ou est accompagnée d’un dossier contenant les éléments 
 
 **Consultations**
 
-Lorsqu’un Etat Partie est saisi d’une demande au titre du présent chapitre et constate qu’elle soulève des difficultés qui pourraient en gêner ou en empêcher l’exécution, il consulte la Cour sans tarder en vue de régler la question. Ces difficultés peuvent prendre notamment les formes suivantes:
+Lorsqu’un État Partie est saisi d’une demande au titre du présent chapitre et constate qu’elle soulève des difficultés qui pourraient en gêner ou en empêcher l’exécution, il consulte la Cour sans tarder en vue de régler la question. Ces difficultés peuvent prendre notamment les formes suivantes:
 
 - a) les informations ne sont pas suffisantes pour donner suite à la demande;
-- b) dans le cas d’une demande de remise, la personne réclamée reste introuvable en dépit de tous les efforts, ou les recherches ont permis d’établir que la personne se trouvant dans l’Etat requis n’est manifestement pas celle que vise le mandat; ou
-- c) l’Etat requis serait contraint, pour donner suite à la demande sous sa forme actuelle, de violer une obligation conventionnelle qu’il a déjà à l’égard d’un autre Etat.
+- b) dans le cas d’une demande de remise, la personne réclamée reste introuvable en dépit de tous les efforts, ou les recherches ont permis d’établir que la personne se trouvant dans l’État requis n’est manifestement pas celle que vise le mandat, ou
+- c) l’État requis serait contraint, pour donner suite à la demande sous sa forme actuelle, de violer une obligation conventionnelle qu’il a déjà à l’égard d’un autre État.
 
 #### Art. 98
 
 **Coopération en relation avec la renonciation à l’immunité et le consentement à la remise**
 
-<sup>1.</sup> La Cour ne peut poursuivre l’exécution d’une demande de remise ou d’assistance qui contraindrait l’Etat requis à agir de façon incompatible avec les obligations qui lui incombent en droit international en matière d’immunité des Etats ou d’immunité diplomatique d’une personne ou de biens d’un Etat tiers, à moins d’obtenir au préalable la coopération de cet Etat tiers en vue de la levée de l’immunité.
+<sup>1.</sup> La Cour ne peut poursuivre l’exécution d’une demande de remise ou d’assistance qui contraindrait l’État requis à agir de façon incompatible avec les obligations qui lui incombent en droit international en matière d’immunité des États ou d’immunité diplomatique d’une personne ou de biens d’un État tiers, à moins d’obtenir au préalable la coopération de cet État tiers en vue de la levée de l’immunité.
 
-<sup>2.</sup> La Cour ne peut poursuivre l’exécution d’une demande de remise qui contraindrait l’Etat requis à agir de façon incompatible avec les obligations qui lui incombent en vertu d’accords internationaux selon lesquels le consentement de l’Etat d’envoi est nécessaire pour que soit remise à la Cour une personne relevant de cet Etat, à moins que la Cour ne puisse au préalable obtenir la coopération de l’Etat d’envoi pour qu’il consente à la remise.
+<sup>2.</sup> La Cour ne peut poursuivre l’exécution d’une demande de remise qui contraindrait l’État requis à agir de façon incompatible avec les obligations qui lui incombent en vertu d’accords internationaux selon lesquels le consentement de l’État d’envoi est nécessaire pour que soit remise à la Cour une personne relevant de cet État, à moins que la Cour ne puisse au préalable obtenir la coopération de l’État d’envoi pour qu’il consente à la remise.
 
 #### Art. 99
 
 **Exécution des demandes présentées au titre des art. 93 et 96**
 
-<sup>1.</sup> L’Etat requis donne suite aux demandes d’assistance conformément à la procédure prévue par sa législation et, à moins que cette législation ne l’interdise, de la manière précisée dans la demande, y compris en appliquant toute procédure indiquée dans celle-ci ou en autorisant les personnes qu’elle précise à être présentes et à participer à l’exécution de la demande.
+<sup>1.</sup> L’État requis donne suite aux demandes d’assistance conformément à la procédure prévue par sa législation et, à moins que cette législation ne l’interdise, de la manière précisée dans la demande, y compris en appliquant toute procédure indiquée dans celle-ci ou en autorisant les personnes qu’elle précise à être présentes et à participer à l’exécution de la demande.
 
 <sup>2.</sup> En cas de demande urgente, les documents ou éléments de preuve produits pour y répondre sont, à la requête de la Cour, envoyés d’urgence.
 
-<sup>3.</sup> Les réponses de l’Etat requis sont communiquées dans leur langue et sous leur forme originales.
+<sup>3.</sup> Les réponses de l’État requis sont communiquées dans leur langue et sous leur forme originales.
 
 <sup>4.</sup>
 
-Sans préjudice des autres articles du présent chapitre, lorsque cela est nécessaire pour exécuter efficacement une demande à laquelle il peut être donné suite sans recourir à des mesures de contrainte, notamment lorsqu’il s’agit d’entendre ou de faire déposer une personne agissant de son plein gré, y compris hors de la présence des autorités de l’Etat partie requis quand cela est déterminant pour la bonne exécution de la demande, ou lorsqu’il s’agit d’inspecter un site public ou un autre lieu public sans le modifier, le Procureur peut réaliser l’objet de la demande directement sur le territoire de l’Etat, selon les modalités suivantes:
+Sans préjudice des autres articles du présent chapitre, lorsque cela est nécessaire pour exécuter efficacement une demande à laquelle il peut être donné suite sans recourir à des mesures de contrainte, notamment lorsqu’il s’agit d’entendre ou de faire déposer une personne agissant de son plein gré, y compris hors de la présence des autorités de l’État partie requis quand cela est déterminant pour la bonne exécution de la demande, ou lorsqu’il s’agit d’inspecter un site public ou un autre lieu public sans le modifier, le Procureur peut réaliser l’objet de la demande directement sur le territoire de l’État, selon les modalités suivantes:
 
-- a) lorsque l’Etat requis est l’Etat sur le territoire duquel il est allégué que le crime a été commis et qu’il y a eu une décision sur la recevabilité comme prévu aux art. 18 ou 19, le Procureur peut exécuter directement la demande, après avoir mené avec l’Etat requis des consultations aussi étendues que possible;
-- b) dans les autres cas, le Procureur peut exécuter la demande après consultations avec l’Etat Partie requis et eu égard aux conditions ou préoccupations raisonnables que cet Etat a éventuellement fait valoir. Lorsque l’Etat requis constate que l’exécution d’une demande relevant du présent alinéa soulève des difficultés, il consulte aussitôt la Cour en vue d’y remédier.
+- a) lorsque l’État requis est l’État sur le territoire duquel il est allégué que le crime a été commis et qu’il y a eu une décision sur la recevabilité comme prévu aux art. 18 ou 19, le Procureur peut exécuter directement la demande, après avoir mené avec l’État requis des consultations aussi étendues que possible;
+- b) dans les autres cas, le Procureur peut exécuter la demande après consultations avec l’État Partie requis et eu égard aux conditions ou préoccupations raisonnables que cet État a éventuellement fait valoir. Lorsque l’État requis constate que l’exécution d’une demande relevant du présent alinéa soulève des difficultés, il consulte aussitôt la Cour en vue d’y remédier.
 
 <sup>5.</sup> Les dispositions autorisant la personne entendue ou interrogée par la Cour au titre de l’art. 72 à invoquer les restrictions prévues pour empêcher la divulgation d’informations confidentielles touchant à la sécurité nationale s’appliquent également à l’exécution des demandes d’assistance relevant du présent article.
 
@@ -1958,16 +1970,16 @@ Sans préjudice des autres articles du présent chapitre, lorsque cela est néce
 
 <sup>1.</sup>
 
-Les dépenses ordinaires afférentes à l’exécution des demandes sur le territoire de l’Etat requis sont à la charge de cet Etat, à l’exception des frais suivants, qui sont à la charge de la Cour:
+Les dépenses ordinaires afférentes à l’exécution des demandes sur le territoire de l’État requis sont à la charge de cet État, à l’exception des frais suivants, qui sont à la charge de la Cour:
 
 - a) frais liés aux voyages et à la protection des témoins et des experts ou au transfèrement des détenus en vertu de l’art. 93;
 - b) frais de traduction, d’interprétation et de transcription;
 - c) frais de déplacement et de séjour des juges, du Procureur, des procureurs adjoints, du Greffier, du Greffier adjoint et des membres du personnel de tous les organes de la Cour;
 - d) coût des expertises ou rapports demandés par la Cour;
-- e) frais liés au transport des personnes remises à la Cour par l’Etat de détention; et
+- e) frais liés au transport des personnes remises à la Cour par l’État de détention, et
 - f) après consultation, tous frais extraordinaires que peut entraîner l’exécution d’une demande.
 
-<sup>2.</sup> Les dispositions du par. 1 s’appliquent, selon qu’il convient, aux demandes adressées à la Cour par les Etats Parties. Dans ce cas, la Cour prend à sa charge les frais ordinaires de l’exécution.
+<sup>2.</sup> Les dispositions du par. 1 s’appliquent, selon qu’il convient, aux demandes adressées à la Cour par les États Parties. Dans ce cas, la Cour prend à sa charge les frais ordinaires de l’exécution.
 
 #### Art. 101
 
@@ -1975,7 +1987,7 @@ Les dépenses ordinaires afférentes à l’exécution des demandes sur le terri
 
 <sup>1.</sup> Une personne remise à la Cour en application du présent Statut ne peut être poursuivie, punie ou détenue à raison de comportements antérieurs à sa remise, à moins que ceux-ci ne soient constitutifs des crimes pour lesquels elle a été remise.
 
-<sup>2.</sup> La Cour peut solliciter de l’Etat qui lui a remis une personne une dérogation aux conditions posées au par. 1. Elle fournit au besoin des renseignements supplémentaires conformément à l’art. 91. Les Etats Parties sont habilités à accorder une dérogation à la Cour et doivent s’efforcer de le faire.
+<sup>2.</sup> La Cour peut solliciter de l’État qui lui a remis une personne une dérogation aux conditions posées au par. 1. Elle fournit au besoin des renseignements supplémentaires conformément à l’art. 91. Les États Parties sont habilités à accorder une dérogation à la Cour et doivent s’efforcer de le faire.
 
 #### Art. 102
 
@@ -1983,51 +1995,51 @@ Les dépenses ordinaires afférentes à l’exécution des demandes sur le terri
 
 Aux fins du présent Statut:
 
-- a) on entend par «remise» le fait pour un Etat de livrer une personne à la Cour en application du présent Statut.
-- b) on entend par «extradition» le fait pour un Etat de livrer une personne à un autre Etat en application d’un traité, d’une convention ou de la législation nationale.
+- a) on entend par «remise» le fait pour un État de livrer une personne à la Cour en application du présent Statut.
+- b) on entend par «extradition» le fait pour un État de livrer une personne à un autre État en application d’un traité, d’une convention ou de la législation nationale.
 
 ## Chapitre X Exécution
 
 #### Art. 103
 
-**Rôle des Etats dans l’exécution des peines d’emprisonnement**
+**Rôle des États dans l’exécution des peines d’emprisonnement**
 
-b) Lorsqu’il déclare qu’il est disposé à recevoir des condamnés, un Etat peut assortir son acceptation de conditions qui doivent être agréées par la Cour et être conformes aux dispositions du présent chapitre.
+b) Lorsqu’il déclare qu’il est disposé à recevoir des condamnés, un État peut assortir son acceptation de conditions qui doivent être agréées par la Cour et être conformes aux dispositions du présent chapitre.
 
-c) L’Etat désigné dans une affaire donnée fait savoir promptement à la Cour s’il accepte ou non sa désignation.
+c) L’État désigné dans une affaire donnée fait savoir promptement à la Cour s’il accepte ou non sa désignation.
 
-- 1\. a) Les peines d’emprisonnement sont accomplies dans un Etat désigné par la Cour sur la liste des Etats qui lui ont fait savoir qu’ils étaient disposés à recevoir des condamnés.
+- 1\. a) Les peines d’emprisonnement sont accomplies dans un État désigné par la Cour sur la liste des États qui lui ont fait savoir qu’ils étaient disposés à recevoir des condamnés.
 
-- 2\. a) L’Etat chargé de l’exécution avise la Cour de toute circonstance, y compris la réalisation de toute condition convenue en application du par. 1, qui serait de nature à modifier sensiblement les conditions ou la durée de la détention. La Cour est avisée au moins 45 jours à l’avance de toute circonstance de ce type connue ou prévisible. Pendant ce délai, l’Etat chargé de l’exécution ne prend aucune mesure qui pourrait être contraire à ses obligations en vertu de l’art. 110.
-- b) Si la Cour ne peut accepter les circonstances visées à l’al. a), elle en avise l’Etat chargé de l’exécution et procède conformément à l’art. 104, par. 1.
+- 2\. a) L’État chargé de l’exécution avise la Cour de toute circonstance, y compris la réalisation de toute condition convenue en application du par. 1, qui serait de nature à modifier sensiblement les conditions ou la durée de la détention. La Cour est avisée au moins 45 jours à l’avance de toute circonstance de ce type connue ou prévisible. Pendant ce délai, l’État chargé de l’exécution ne prend aucune mesure qui pourrait être contraire à ses obligations en vertu de l’art. 110.
+- b) Si la Cour ne peut accepter les circonstances visées à l’al. a), elle en avise l’État chargé de l’exécution et procède conformément à l’art. 104, par. 1.
 
 <sup>3.</sup>
 
 Quand elle exerce son pouvoir de désignation conformément au par. 1, la Cour prend en considération:
 
-- a) le principe selon lequel les Etats Parties doivent partager la responsabilité de l’exécution des peines d’emprisonnement conformément aux principes de répartition équitable énoncés dans le Règlement de procédure et de preuve;
+- a) le principe selon lequel les États Parties doivent partager la responsabilité de l’exécution des peines d’emprisonnement conformément aux principes de répartition équitable énoncés dans le Règlement de procédure et de preuve;
 - b) les règles conventionnelles du droit international généralement acceptées qui régissent le traitement des détenus;
 - c) les vues de la personne condamnée;
 - d) la nationalité de la personne condamnée;
-- e) toute autre circonstance relative au crime, à la situation de la personne condamnée ou à l’exécution effective de la peine, susceptible de guider le choix de l’Etat chargé de l’exécution.
+- e) toute autre circonstance relative au crime, à la situation de la personne condamnée ou à l’exécution effective de la peine, susceptible de guider le choix de l’État chargé de l’exécution.
 
-<sup>4.</sup> Si aucun Etat n’est désigné comme prévu au par. 1, la peine d’emprisonnement est accomplie dans un établissement pénitentiaire fourni par l’Etat hôte, dans les conditions définies par l’accord de siège visé à l’art. 3, par. 2. Dans ce cas, les dépenses afférentes à l’exécution de la peine sont à la charge de la Cour.
+<sup>4.</sup> Si aucun État n’est désigné comme prévu au par. 1, la peine d’emprisonnement est accomplie dans un établissement pénitentiaire fourni par l’État hôte, dans les conditions définies par l’accord de siège visé à l’art. 3, par. 2. Dans ce cas, les dépenses afférentes à l’exécution de la peine sont à la charge de la Cour.
 
 #### Art. 104
 
-**Modification de la désignation de l’Etat chargé de l’exécution**
+**Modification de la désignation de l’État chargé de l’exécution**
 
-<sup>1.</sup> La Cour peut décider à tout moment de transférer un condamné dans une prison d’un autre Etat.
+<sup>1.</sup> La Cour peut décider à tout moment de transférer un condamné dans une prison d’un autre État.
 
-<sup>2.</sup> La personne condamnée par la Cour peut à tout moment demander à celle-ci son transfert hors de l’Etat chargé de l’exécution.
+<sup>2.</sup> La personne condamnée par la Cour peut à tout moment demander à celle-ci son transfert hors de l’État chargé de l’exécution.
 
 #### Art. 105
 
 **Exécution de la peine**
 
-<sup>1.</sup> Sous réserve des conditions qu’un Etat a éventuellement formulées comme le prévoit l’art. 103, par. 1, al. b), la peine d’emprisonnement est exécutoire pour les Etats Parties, qui ne peuvent en aucun cas la modifier.
+<sup>1.</sup> Sous réserve des conditions qu’un État a éventuellement formulées comme le prévoit l’art. 103, par. 1, al. b), la peine d’emprisonnement est exécutoire pour les États Parties, qui ne peuvent en aucun cas la modifier.
 
-<sup>2.</sup> La Cour a seule le droit de se prononcer sur une demande de révision de sa décision sur la culpabilité ou la peine. L’Etat chargé de l’exécution n’empêche pas le condamné de présenter une telle demande.
+<sup>2.</sup> La Cour a seule le droit de se prononcer sur une demande de révision de sa décision sur la culpabilité ou la peine. L’État chargé de l’exécution n’empêche pas le condamné de présenter une telle demande.
 
 #### Art. 106
 
@@ -2035,7 +2047,7 @@ Quand elle exerce son pouvoir de désignation conformément au par. 1, la Cour p
 
 <sup>1.</sup> L’exécution d’une peine d’emprisonnement est soumise au contrôle de la Cour. Elle est conforme aux règles conventionnelles internationales largement acceptées en matière de traitement des détenus.
 
-<sup>2.</sup> Les conditions de détention sont régies par la législation de l’Etat chargé de l’exécution. Elles sont conformes aux règles conventionnelles internationales largement acceptées en matière de traitement des détenus. Elles ne peuvent en aucun cas être ni plus ni moins favorables que celles que l’Etat chargé de l’exécution réserve aux détenus condamnés pour des infractions similaires.
+<sup>2.</sup> Les conditions de détention sont régies par la législation de l’État chargé de l’exécution. Elles sont conformes aux règles conventionnelles internationales largement acceptées en matière de traitement des détenus. Elles ne peuvent en aucun cas être ni plus ni moins favorables que celles que l’État chargé de l’exécution réserve aux détenus condamnés pour des infractions similaires.
 
 <sup>3.</sup> Les communications entre le condamné et la Cour sont libres et confidentielles.
 
@@ -2043,37 +2055,37 @@ Quand elle exerce son pouvoir de désignation conformément au par. 1, la Cour p
 
 **Transfèrement du condamné qui a accompli sa peine**
 
-<sup>1.</sup> Une fois sa peine purgée, une personne qui n’est pas un ressortissant de l’Etat chargé de l’exécution peut être transférée, conformément à la législation de l’Etat chargé de l’exécution, dans un autre Etat qui accepte ou est tenu de l’accueillir ou dans un autre Etat qui accepte de l’accueillir en réponse au souhait qu’elle a formulé d’être transférée dans cet Etat, à moins que l’Etat chargé de l’exécution n’autorise cette personne à demeurer sur son territoire.
+<sup>1.</sup> Une fois sa peine purgée, une personne qui n’est pas un ressortissant de l’État chargé de l’exécution peut être transférée, conformément à la législation de l’État chargé de l’exécution, dans un autre État qui accepte ou est tenu de l’accueillir ou dans un autre État qui accepte de l’accueillir en réponse au souhait qu’elle a formulé d’être transférée dans cet État, à moins que l’État chargé de l’exécution n’autorise cette personne à demeurer sur son territoire.
 
-<sup>2.</sup> Les dépenses afférentes au transfèrement du condamné dans un autre Etat en application du par. 1 sont supportées par la Cour si aucun Etat ne les prend à sa charge.
+<sup>2.</sup> Les dépenses afférentes au transfèrement du condamné dans un autre État en application du par. 1 sont supportées par la Cour si aucun État ne les prend à sa charge.
 
-<sup>3.</sup> Sous réserve des dispositions de l’art. 108, l’Etat de détention peut également, en application de sa législation, extrader ou remettre de quelque autre manière la personne à un Etat qui a demandé son extradition ou sa remise aux fins de jugement ou d’exécution d’une peine.
+<sup>3.</sup> Sous réserve des dispositions de l’art. 108, l’État de détention peut également, en application de sa législation, extrader ou remettre de quelque autre manière la personne à un État qui a demandé son extradition ou sa remise aux fins de jugement ou d’exécution d’une peine.
 
 #### Art. 108
 
 **Limites en matière de poursuites ou de condamnations pour d’autres infractions**
 
-<sup>1.</sup> Le condamné détenu par l’Etat chargé de l’exécution ne peut être poursuivi, condamné ou extradé vers un Etat tiers pour un comportement antérieur à son transfèrement dans l’Etat chargé de l’exécution, à moins que la Cour n’ait approuvé ces poursuites, cette condamnation ou cette extradition à la demande de l’Etat chargé de l’exécution.
+<sup>1.</sup> Le condamné détenu par l’État chargé de l’exécution ne peut être poursuivi, condamné ou extradé vers un État tiers pour un comportement antérieur à son transfèrement dans l’État chargé de l’exécution, à moins que la Cour n’ait approuvé ces poursuites, cette condamnation ou cette extradition à la demande de l’État chargé de l’exécution.
 
 <sup>2.</sup> La Cour statue sur la question après avoir entendu le condamné.
 
-<sup>3.</sup> Le par. 1 cesse de s’appliquer si le condamné demeure volontairement plus de 30 jours sur le territoire de l’Etat chargé de l’exécution après avoir accompli la totalité de la peine prononcée par la Cour, ou s’il retourne sur le territoire de cet Etat après l’avoir quitté.
+<sup>3.</sup> Le par. 1 cesse de s’appliquer si le condamné demeure volontairement plus de 30 jours sur le territoire de l’État chargé de l’exécution après avoir accompli la totalité de la peine prononcée par la Cour, ou s’il retourne sur le territoire de cet État après l’avoir quitté.
 
 #### Art. 109
 
 **Exécution des peines d’amende et des mesures de confiscation**
 
-<sup>1.</sup> Les Etats Parties font exécuter les peines d’amende et les mesures de confiscation ordonnées par la Cour en vertu du chap. VII, sans préjudice des droits des tiers de bonne foi et conformément à la procédure prévue par leur législation interne.
+<sup>1.</sup> Les États Parties font exécuter les peines d’amende et les mesures de confiscation ordonnées par la Cour en vertu du chap. VII, sans préjudice des droits des tiers de bonne foi et conformément à la procédure prévue par leur législation interne.
 
-<sup>2.</sup> Lorsqu’un Etat Partie n’est pas en mesure de donner effet à l’ordonnance de confiscation, il prend des mesures pour récupérer la valeur du produit, des biens ou des avoirs dont la Cour a ordonné la confiscation, sans préjudice des droits des tiers de bonne foi.
+<sup>2.</sup> Lorsqu’un État Partie n’est pas en mesure de donner effet à l’ordonnance de confiscation, il prend des mesures pour récupérer la valeur du produit, des biens ou des avoirs dont la Cour a ordonné la confiscation, sans préjudice des droits des tiers de bonne foi.
 
-<sup>3.</sup> Les biens, ou le produit de la vente de biens immobiliers ou, le cas échéant, d’autres biens, obtenus par un Etat Partie en exécution d’un arrêt de la Cour sont transférés à la Cour.
+<sup>3.</sup> Les biens, ou le produit de la vente de biens immobiliers ou, le cas échéant, d’autres biens, obtenus par un État Partie en exécution d’un arrêt de la Cour sont transférés à la Cour.
 
 #### Art. 110
 
 **Examen par la Cour de la question d’une réduction de peine**
 
-<sup>1.</sup> L’Etat chargé de l’exécution ne peut libérer la personne détenue avant la fin de la peine prononcée par la Cour.
+<sup>1.</sup> L’État chargé de l’exécution ne peut libérer la personne détenue avant la fin de la peine prononcée par la Cour.
 
 <sup>2.</sup> La Cour a seule le droit de décider d’une réduction de peine. Elle se prononce après avoir entendu le condamné.
 
@@ -2084,24 +2096,24 @@ Quand elle exerce son pouvoir de désignation conformément au par. 1, la Cour p
 Lors du réexamen prévu au par. 3, la Cour peut réduire la peine si elle constate qu’une ou plusieurs des conditions suivantes sont réalisées:
 
 - a) la personne a, dès le début et de façon continue, manifesté sa volonté de coopérer avec la Cour dans les enquêtes et poursuites de celle-ci;
-- b) la personne a facilité spontanément l’exécution des décisions et ordonnances de la Cour dans d’autres cas, en particulier en l’aidant à localiser des avoirs faisant l’objet de décisions ordonnant leur confiscation, le versement d’une amende ou une réparation et pouvant être employés au profit des victimes; ou
+- b) la personne a facilité spontanément l’exécution des décisions et ordonnances de la Cour dans d’autres cas, en particulier en l’aidant à localiser des avoirs faisant l’objet de décisions ordonnant leur confiscation, le versement d’une amende ou une réparation et pouvant être employés au profit des victimes, ou
 - c) d’autres facteurs prévus dans le Règlement de procédure et de preuve attestent un changement de circonstances manifeste aux conséquences appréciables de nature à justifier la réduction de la peine.
 
 <sup>5.</sup> Si, lors du réexamen prévu au par. 3, la Cour détermine qu’il n’y a pas lieu de réduire la peine, elle réexamine par la suite la question de la réduction de peine aux intervalles prévus dans le Règlement de procédure et de preuve et en appliquant les critères qui y sont énoncés.
 
 #### Art. 111
 
-**Evasion**
+**Évasion**
 
-Si un condamné s’évade de son lieu de détention et fuit l’Etat chargé de l’exécution de la peine, cet Etat peut, après avoir consulté la Cour, demander à l’Etat dans lequel se trouve le condamné de le lui remettre en application des accords bilatéraux ou multilatéraux en vigueur, ou demander à la Cour de solliciter la remise de cette personne au titre du chap. IX. Lorsque la Cour sollicite la remise d’une personne, elle peut demander que cette personne soit livrée à l’Etat dans lequel elle accomplissait sa peine ou à un autre Etat qu’elle désigne.
+Si un condamné s’évade de son lieu de détention et fuit l’État chargé de l’exécution de la peine, cet État peut, après avoir consulté la Cour, demander à l’État dans lequel se trouve le condamné de le lui remettre en application des accords bilatéraux ou multilatéraux en vigueur, ou demander à la Cour de solliciter la remise de cette personne au titre du chap. IX. Lorsque la Cour sollicite la remise d’une personne, elle peut demander que cette personne soit livrée à l’État dans lequel elle accomplissait sa peine ou à un autre État qu’elle désigne.
 
-## Chapitre XI Assemblée des Etats Parties
+## Chapitre XI Assemblée des États Parties
 
 #### Art. 112
 
-**Assemblée des Etats Parties**
+**Assemblée des États Parties**
 
-<sup>1.</sup> Il est constitué une Assemblée des Etats Parties au présent Statut. Chaque Etat Partie y dispose d’un représentant, qui peut être secondé par des suppléants et des conseillers. Les autres Etats qui ont signé le présent Statut ou l’Acte final peuvent y siéger à titre d’observateurs.
+<sup>1.</sup> Il est constitué une Assemblée des États Parties au présent Statut. Chaque État Partie y dispose d’un représentant, qui peut être secondé par des suppléants et des conseillers. Les autres États qui ont signé le présent Statut ou l’Acte final peuvent y siéger à titre d’observateurs.
 
 <sup>2.</sup>
 
@@ -2112,7 +2124,7 @@ L’Assemblée:
 - c) examine les rapports et les activités du Bureau établi en vertu du par. 3 et prend les mesures qu’ils appellent;
 - d) examine et arrête le budget de la Cour;
 - e) décide s’il y a lieu, conformément à l’art. 36, de modifier le nombre des juges;
-- f) examine, conformément à l’art. 87, par. 5 et 7, toute question relative à la non-coopération des Etats;
+- f) examine, conformément à l’art. 87, par. 5 et 7, toute question relative à la non-coopération des États;
 - g) s’acquitte de toute autre fonction compatible avec les dispositions du présent Statut et du Règlement de procédure et de preuve.
 - 3\. a) l’Assemblée est dotée d’un bureau, composé d’un président, de deux vice-présidents et de 18 membres élus par elle pour trois ans.
 - b) le Bureau a un caractère représentatif, eu égard, en particulier, au principe de la répartition géographique équitable et à la nécessité d’assurer une représentation adéquate des principaux systèmes juridiques du monde.
@@ -2122,20 +2134,20 @@ L’Assemblée:
 
 <sup>5.</sup> Le Président de la Cour, le Procureur et le Greffier ou leurs représentants participent, selon qu’il convient, aux réunions de l’Assemblée et du Bureau.
 
-<sup>6.</sup> L’Assemblée se réunit une fois par an et, lorsque les circonstances l’y engagent, elle tient des sessions extraordinaires, au siège de la Cour ou au Siège de l’Organisation des Nations Unies. A moins que le présent Statut n’en dispose autrement, les sessions extraordinaires sont convoquées par le Bureau soit d’office soit à la demande du tiers des Etats Parties.
+<sup>6.</sup> L’Assemblée se réunit une fois par an et, lorsque les circonstances l’y engagent, elle tient des sessions extraordinaires, au siège de la Cour ou au Siège de l’Organisation des Nations Unies. À moins que le présent Statut n’en dispose autrement, les sessions extraordinaires sont convoquées par le Bureau soit d’office soit à la demande du tiers des États Parties.
 
 <sup>7.</sup>
 
-Chaque Etat Partie dispose d’une voix. L’Assemblée et le Bureau s’efforcent dans toute la mesure possible d’adopter leurs décisions par consensus. Si le consensus n’est pas possible, et à moins que le Statut n’en dispose autrement:
+Chaque État Partie dispose d’une voix. L’Assemblée et le Bureau s’efforcent dans toute la mesure possible d’adopter leurs décisions par consensus. Si le consensus n’est pas possible, et à moins que le Statut n’en dispose autrement:
 
-- a) les décisions sur les questions de fond sont prises à la majorité des deux tiers des présents et votants, la majorité absolue des Etats Parties constituant le quorum pour le scrutin;
-- b) les décisions sur les questions de procédure sont prises à la majorité simple des Etats Parties présents et votants.
+- a) les décisions sur les questions de fond sont prises à la majorité des deux tiers des présents et votants, la majorité absolue des États Parties constituant le quorum pour le scrutin;
+- b) les décisions sur les questions de procédure sont prises à la majorité simple des États Parties présents et votants.
 
-<sup>8.</sup> Un Etat Partie en retard dans le paiement de sa contribution aux dépenses de la Cour ne peut participer au vote ni à l’Assemblée ni au Bureau si le montant de ses arriérés est égal ou supérieur à la contribution dont il est redevable pour les deux années complètes écoulées. L’Assemblée peut néanmoins autoriser cet Etat à participer au vote à l’Assemblée et au Bureau si elle constate que son manquement est dû à des circonstances indépendantes de sa volonté.
+<sup>8.</sup> Un État Partie en retard dans le paiement de sa contribution aux dépenses de la Cour ne peut participer au vote ni à l’Assemblée ni au Bureau si le montant de ses arriérés est égal ou supérieur à la contribution dont il est redevable pour les deux années complètes écoulées. L’Assemblée peut néanmoins autoriser cet État à participer au vote à l’Assemblée et au Bureau si elle constate que son manquement est dû à des circonstances indépendantes de sa volonté.
 
 <sup>9.</sup> L’Assemblée adopte son propre règlement intérieur.
 
-<sup>10.</sup> Les langues officielles et les langues de travail de l’Assemblée des Etats Parties sont celles de l’Assemblée générale des Nations Unies.
+<sup>10.</sup> Les langues officielles et les langues de travail de l’Assemblée des États Parties sont celles de l’Assemblée générale des Nations Unies.
 
 ## Chapitre XII F Financement
 
@@ -2143,34 +2155,34 @@ Chaque Etat Partie dispose d’une voix. L’Assemblée et le Bureau s’efforce
 
 **Règlement financier et règle de gestion financière**
 
-Sauf disposition contraire expresse, toutes les questions financières qui se rapportent à la Cour et aux réunions de l’Assemblée des Etats Parties, y compris le Bureau et les organes subsidiaires de celle-ci, sont régis par le présent Statut, le Règlement financier et règles de gestion financière adoptés par l’Assemblée des Etats Parties.
+Sauf disposition contraire expresse, toutes les questions financières qui se rapportent à la Cour et aux réunions de l’Assemblée des États Parties, y compris le Bureau et les organes subsidiaires de celle-ci, sont régis par le présent Statut, le Règlement financier et règles de gestion financière adoptés par l’Assemblée des États Parties.
 
 #### Art. 114
 
 **Règlement des dépenses**
 
-Les dépenses de la Cour et de l’Assemblée des Etats Parties, y compris le Bureau et les organes subsidiaires de celle-ci, sont réglées par prélèvement sur les ressources financières de la Cour.
+Les dépenses de la Cour et de l’Assemblée des États Parties, y compris le Bureau et les organes subsidiaires de celle-ci, sont réglées par prélèvement sur les ressources financières de la Cour.
 
 #### Art. 115
 
-**Ressources financières de la Cour et de l’Assemblée des Etats Parties**
+**Ressources financières de la Cour et de l’Assemblée des États Parties**
 
-Les dépenses de la Cour et de l’Assemblée des Etats Parties, y compris le Bureau et les organes subsidiaires de celle-ci, inscrites au budget arrêté par l’Assemblée des Etats Parties, sont financées par les sources suivantes:
+Les dépenses de la Cour et de l’Assemblée des États Parties, y compris le Bureau et les organes subsidiaires de celle-ci, inscrites au budget arrêté par l’Assemblée des États Parties, sont financées par les sources suivantes:
 
-- a) les contributions des Etats Parties;
+- a) les contributions des États Parties;
 - b) les ressources financières fournies par l’Organisation des Nations Unies, sous réserve de l’approbation de l’Assemblée générale, en particulier dans le cas des dépenses liées à la saisine de la Cour par le Conseil de sécurité.
 
 #### Art. 116
 
 **Contributions volontaires**
 
-Sans préjudice de l’art. 115, la Cour peut recevoir et utiliser à titre de ressources financières supplémentaires les contributions volontaires des gouvernements, des organisations internationales, des particuliers, des entreprises et d’autres entités, selon les critères fixés en la matière par l’Assemblée des Etats Parties.
+Sans préjudice de l’art. 115, la Cour peut recevoir et utiliser à titre de ressources financières supplémentaires les contributions volontaires des gouvernements, des organisations internationales, des particuliers, des entreprises et d’autres entités, selon les critères fixés en la matière par l’Assemblée des États Parties.
 
 #### Art. 117
 
 **Calcul des contributions**
 
-Les contributions des Etats Parties sont calculées selon un barème des quotes-parts convenu, fondé sur le barème adopté par l’Organisation des Nations Unies pour son budget ordinaire, et adapté conformément aux principes sur lesquels ce barème est fondé.
+Les contributions des États Parties sont calculées selon un barème des quotes-parts convenu, fondé sur le barème adopté par l’Organisation des Nations Unies pour son budget ordinaire, et adapté conformément aux principes sur lesquels ce barème est fondé.
 
 #### Art. 118
 
@@ -2186,7 +2198,7 @@ Les rapports, livres et comptes de la Cour, y compris ses états financiers annu
 
 <sup>1.</sup> Tout différend relatif aux fonctions judiciaires de la Cour est réglé par décision de la Cour.
 
-<sup>2.</sup> Tout autre différend entre deux ou plusieurs Etats Parties concernant l’interprétation ou l’application du présent Statut qui n’est pas résolu par la voie de négociations dans les trois mois après le début de celles-ci est renvoyé à l’Assemblée des Etats Parties. L’Assemblée peut chercher à résoudre elle-même le différend ou faire des recommandations sur d’autres moyens de le régler, y compris le renvoi à la Cour internationale de Justice en conformité avec le Statut de celle-ci.
+<sup>2.</sup> Tout autre différend entre deux ou plusieurs États Parties concernant l’interprétation ou l’application du présent Statut qui n’est pas résolu par la voie de négociations dans les trois mois après le début de celles-ci est renvoyé à l’Assemblée des États Parties. L’Assemblée peut chercher à résoudre elle-même le différend ou faire des recommandations sur d’autres moyens de le régler, y compris le renvoi à la Cour internationale de Justice en conformité avec le Statut de celle-ci.
 
 #### Art. 120
 
@@ -2198,35 +2210,35 @@ Le présent Statut n’admet aucune réserve.
 
 **Amendements**
 
-<sup>1.</sup> A l’expiration d’une période de sept ans commençant à la date d’entrée en vigueur du présent Statut, tout Etat Partie peut proposer des amendements à celui-ci. Le texte des propositions d’amendement est soumis au Secrétaire général de l’Organisation des Nations Unies, qui le communique sans retard à tous les Etats Parties.
+<sup>1.</sup> À l’expiration d’une période de sept ans commençant à la date d’entrée en vigueur du présent Statut, tout État Partie peut proposer des amendements à celui-ci. Le texte des propositions d’amendement est soumis au Secrétaire général de l’Organisation des Nations Unies, qui le communique sans retard à tous les États Parties.
 
-<sup>2.</sup> Trois mois au plus tôt après la date de cette communication, l’Assemblée des Etats Parties, à la réunion suivante, décide, à la majorité de ses membres présents et votants, de se saisir ou non de la proposition. L’Assemblée peut traiter cette proposition elle-même ou convoquer une conférence de révision si la question soulevée le justifie.
+<sup>2.</sup> Trois mois au plus tôt après la date de cette communication, l’Assemblée des États Parties, à la réunion suivante, décide, à la majorité de ses membres présents et votants, de se saisir ou non de la proposition. L’Assemblée peut traiter cette proposition elle-même ou convoquer une conférence de révision si la question soulevée le justifie.
 
-<sup>3.</sup> L’adoption d’un amendement lors d’une réunion de l’Assemblée des Etats Parties ou d’une conférence de révision requiert, s’il n’est pas possible de parvenir à un consensus, la majorité des deux tiers des Etats Parties.
+<sup>3.</sup> L’adoption d’un amendement lors d’une réunion de l’Assemblée des États Parties ou d’une conférence de révision requiert, s’il n’est pas possible de parvenir à un consensus, la majorité des deux tiers des États Parties.
 
-<sup>4.</sup> Sous réserve des dispositions du par. 5, un amendement entre en vigueur à l’égard de tous les Etats Parties un an après que les sept huitièmes d’entre eux ont déposé leurs instruments de ratification ou d’acceptation auprès du Secrétaire général de l’Organisation des Nations Unies.
+<sup>4.</sup> Sous réserve des dispositions du par. 5, un amendement entre en vigueur à l’égard de tous les États Parties un an après que les sept huitièmes d’entre eux ont déposé leurs instruments de ratification ou d’acceptation auprès du Secrétaire général de l’Organisation des Nations Unies.
 
-<sup>5.</sup> Un amendement aux art. 5, 6, 7 et 8 du présent Statut entre en vigueur à l’égard des Etats Parties qui l’ont accepté un an après le dépôt de leurs instruments de ratification ou d’acceptation. La Cour n’exerce pas sa compétence à l’égard d’un crime faisant l’objet de cet amendement lorsque ce crime a été commis par un ressortissant d’un Etat Partie qui n’a pas accepté l’amendement ou sur le territoire de cet Etat.
+<sup>5.</sup> Un amendement aux art. 5, 6, 7 et 8 du présent Statut entre en vigueur à l’égard des États Parties qui l’ont accepté un an après le dépôt de leurs instruments de ratification ou d’acceptation. La Cour n’exerce pas sa compétence à l’égard d’un crime faisant l’objet de cet amendement lorsque ce crime a été commis par un ressortissant d’un État Partie qui n’a pas accepté l’amendement ou sur le territoire de cet État.
 
-<sup>6.</sup> Si un amendement a été accepté par les sept huitièmes des Etats Parties conformément au par. 4, tout Etat Partie qui ne l’a pas accepté peut se retirer du présent Statut avec effet immédiat, nonobstant l’art. 127, par. 1, mais sous réserve de l’art. 127, par. 2, en donnant notification de son retrait au plus tard un an après l’entrée en vigueur de cet amendement.
+<sup>6.</sup> Si un amendement a été accepté par les sept huitièmes des États Parties conformément au par. 4, tout État Partie qui ne l’a pas accepté peut se retirer du présent Statut avec effet immédiat, nonobstant l’art. 127, par. 1, mais sous réserve de l’art. 127, par. 2, en donnant notification de son retrait au plus tard un an après l’entrée en vigueur de cet amendement.
 
-<sup>7.</sup> Le Secrétaire général de l’Organisation des Nations Unies communique à tous les Etats Parties les amendements adoptés lors d’une réunion de l’Assemblée des Etats Parties ou d’une conférence de révision.
+<sup>7.</sup> Le Secrétaire général de l’Organisation des Nations Unies communique à tous les États Parties les amendements adoptés lors d’une réunion de l’Assemblée des États Parties ou d’une conférence de révision.
 
 #### Art. 122
 
 **Amendements aux dispositions de caractère institutionnel**
 
-<sup>1.</sup> Tout Etat Partie peut proposer, nonobstant l’art. 121, par. 1, des amendements aux dispositions du présent Statut de caractère exclusivement institutionnel, à savoir les art. 35, 36, par. 8 et 9, 37, 38, 39, par. 1 (deux premières phrases), 2 et 4, 42, par. 4 à 9, 43, par. 2 et 3, 44, 46, 47 et 49. Le texte de tout amendement proposé est soumis au Secrétaire général de l’Organisation des Nations Unies ou à toute autre personne désignée par l’Assemblée des Etats Parties, qui le communique sans retard à tous les Etats Parties et aux autres participants à l’Assemblée.
+<sup>1.</sup> Tout État Partie peut proposer, nonobstant l’art. 121, par. 1, des amendements aux dispositions du présent Statut de caractère exclusivement institutionnel, à savoir les art. 35, 36, par. 8 et 9, 37, 38, 39, par. 1 (deux premières phrases), 2 et 4, 42, par. 4 à 9, 43, par. 2 et 3, 44, 46, 47 et 49. Le texte de tout amendement proposé est soumis au Secrétaire général de l’Organisation des Nations Unies ou à toute autre personne désignée par l’Assemblée des États Parties, qui le communique sans retard à tous les États Parties et aux autres participants à l’Assemblée.
 
-<sup>2.</sup> Les amendements relevant du présent article pour lesquels il n’est pas possible de parvenir à un consensus sont adoptés par l’Assemblée des Etats Parties ou par une conférence de révision à la majorité des deux tiers des Etats Parties. Ils entrent en vigueur à l’égard de tous les Etats Parties six mois après leur adoption par l’Assemblée ou, selon le cas, par la conférence de révision.
+<sup>2.</sup> Les amendements relevant du présent article pour lesquels il n’est pas possible de parvenir à un consensus sont adoptés par l’Assemblée des États Parties ou par une conférence de révision à la majorité des deux tiers des États Parties. Ils entrent en vigueur à l’égard de tous les États Parties six mois après leur adoption par l’Assemblée ou, selon le cas, par la conférence de révision.
 
 #### Art. 123
 
 **Révision du Statut**
 
-<sup>1.</sup> Sept ans après l’entrée en vigueur du présent Statut, le Secrétaire général de l’Organisation des Nations Unies convoquera une conférence de révision pour examiner tout amendement au présent Statut. L’examen pourra porter notamment, mais pas exclusivement, sur la liste des crimes figurant à l’art. 5. La conférence sera ouverte aux participants à l’Assemblée des Etats Parties, selon les mêmes conditions.
+<sup>1.</sup> Sept ans après l’entrée en vigueur du présent Statut, le Secrétaire général de l’Organisation des Nations Unies convoquera une conférence de révision pour examiner tout amendement au présent Statut. L’examen pourra porter notamment, mais pas exclusivement, sur la liste des crimes figurant à l’art. 5. La conférence sera ouverte aux participants à l’Assemblée des États Parties, selon les mêmes conditions.
 
-<sup>2.</sup> A tout moment par la suite, à la demande d’un Etat Partie et aux fins énoncées au par. 1, le Secrétaire général de l’Organisation des Nations Unies, avec l’approbation de la majorité des Etats Parties, convoque une conférence de révision.
+<sup>2.</sup> À tout moment par la suite, à la demande d’un État Partie et aux fins énoncées au par. 1, le Secrétaire général de l’Organisation des Nations Unies, avec l’approbation de la majorité des États Parties, convoque une conférence de révision.
 
 <sup>3.</sup> L’adoption et l’entrée en vigueur de tout amendement au Statut examiné lors d’une conférence de révision sont régies par les dispositions de l’art. 121, par. 3 à 7.
 
@@ -2234,17 +2246,17 @@ Le présent Statut n’admet aucune réserve.
 
 **Disposition transitoire**
 
-Nonobstant les dispositions de l’art. 12, par. 1 et 2, un Etat qui devient partie au présent Statut peut déclarer que, pour une période de sept ans à partir de l’entrée en vigueur du Statut à son égard, il n’accepte pas la compétence de la Cour en ce qui concerne la catégorie de crimes visée à l’art. 8 lorsqu’il est allégué qu’un crime a été commis sur son territoire ou par ses ressortissants. Il peut à tout moment retirer cette déclaration. Les dispositions du présent article seront réexaminées à la conférence de révision convoquée conformément à l’art. 123, par. 1.
+Nonobstant les dispositions de l’art. 12, par. 1 et 2, un État qui devient partie au présent Statut peut déclarer que, pour une période de sept ans à partir de l’entrée en vigueur du Statut à son égard, il n’accepte pas la compétence de la Cour en ce qui concerne la catégorie de crimes visée à l’art. 8 lorsqu’il est allégué qu’un crime a été commis sur son territoire ou par ses ressortissants. Il peut à tout moment retirer cette déclaration. Les dispositions du présent article seront réexaminées à la conférence de révision convoquée conformément à l’art. 123, par. 1.
 
 #### Art. 125
 
 **Signature, ratification, acceptation, approbation ou adhésion**
 
-<sup>1.</sup> Le présent Statut est ouvert à la signature de tous les Etats le 17 juillet 1998, au siège de l’Organisation des Nations Unies pour l’alimentation et l’agriculture, à Rome. Il reste ouvert à la signature jusqu’au 17 octobre 1998, au Ministère des affaires étrangères de l’Italie, à Rome, et, après cette date, jusqu’au 31 décembre 2000, au Siège de l’Organisation des Nations Unies, à New York.
+<sup>1.</sup> Le présent Statut est ouvert à la signature de tous les États le 17 juillet 1998, au siège de l’Organisation des Nations Unies pour l’alimentation et l’agriculture, à Rome. Il reste ouvert à la signature jusqu’au 17 octobre 1998, au Ministère des affaires étrangères de l’Italie, à Rome, et, après cette date, jusqu’au 31 décembre 2000, au Siège de l’Organisation des Nations Unies, à New York.
 
-<sup>2.</sup> Le présent Statut est soumis à ratification, acceptation ou approbation par les Etats signataires. Les instruments de ratification, d’acceptation ou d’approbation seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
+<sup>2.</sup> Le présent Statut est soumis à ratification, acceptation ou approbation par les États signataires. Les instruments de ratification, d’acceptation ou d’approbation seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
 
-<sup>3.</sup> Le présent Statut est ouvert à l’adhésion de tous les Etats. Les instruments d’adhésion seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
+<sup>3.</sup> Le présent Statut est ouvert à l’adhésion de tous les États. Les instruments d’adhésion seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
 
 #### Art. 126
 
@@ -2252,28 +2264,28 @@ Nonobstant les dispositions de l’art. 12, par. 1 et 2, un Etat qui devient par
 
 <sup>1.</sup> Le présent Statut entrera en vigueur le premier jour du mois suivant le soixantième jour après la date de dépôt du soixantième instrument de ratification, d’acceptation, d’approbation ou d’adhésion auprès du Secrétaire général de l’Organisation des Nations Unies.
 
-<sup>2.</sup> A l’égard de chaque Etat qui ratifie, accepte ou approuve le présent Statut ou y adhère après le dépôt du soixantième instrument de ratification, d’acceptation, d’approbation ou d’adhésion, le Statut entre en vigueur le premier jour du mois suivant le soixantième jour après le dépôt par cet Etat de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
+<sup>2.</sup> À l’égard de chaque État qui ratifie, accepte ou approuve le présent Statut ou y adhère après le dépôt du soixantième instrument de ratification, d’acceptation, d’approbation ou d’adhésion, le Statut entre en vigueur le premier jour du mois suivant le soixantième jour après le dépôt par cet État de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
 #### Art. 127
 
 **Retrait**
 
-<sup>1.</sup> Tout Etat Partie peut, par voie de notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies, se retirer du présent Statut. Le retrait prend effet un an après la date à laquelle la notification a été reçue, à moins que celle‑ci ne prévoie une date postérieure.
+<sup>1.</sup> Tout État Partie peut, par voie de notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies, se retirer du présent Statut. Le retrait prend effet un an après la date à laquelle la notification a été reçue, à moins que celle‑ci ne prévoie une date postérieure.
 
-<sup>2.</sup> Son retrait ne dégage pas l’Etat des obligations mises à sa charge par le présent Statut alors qu’il y était Partie, y compris les obligations financières encourues, et n’affecte pas non plus la coopération établie avec la Cour à l’occasion des enquêtes et procédures pénales à l’égard desquelles l’Etat avait le devoir de coopérer et qui ont été commencées avant la date à laquelle le retrait a pris effet; le retrait n’affecte en rien la poursuite de l’examen des affaires que la Cour avait déjà commencé à examiner avant la date à laquelle il a pris effet.
+<sup>2.</sup> Son retrait ne dégage pas l’État des obligations mises à sa charge par le présent Statut alors qu’il y était Partie, y compris les obligations financières encourues, et n’affecte pas non plus la coopération établie avec la Cour à l’occasion des enquêtes et procédures pénales à l’égard desquelles l’État avait le devoir de coopérer et qui ont été commencées avant la date à laquelle le retrait a pris effet; le retrait n’affecte en rien la poursuite de l’examen des affaires que la Cour avait déjà commencé à examiner avant la date à laquelle il a pris effet.
 
 #### Art. 128
 
 **Textes faisant foi**
 
-L’original du présent Statut, dont les textes anglais, arabe, chinois, espagnol, français et russe font également foi, sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en fera tenir copie certifiée conforme à tous les Etats.
+L’original du présent Statut, dont les textes anglais, arabe, chinois, espagnol, français et russe font également foi, sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en fera tenir copie certifiée conforme à tous les États.
 
 *En foi de quoi,* les soussignés, à ce dûment autorisés par leur gouvernement respectif, ont signé le présent Statut. Fait à Rome ce dix-septième jour de juillet de l’an mil neuf cent quatre-vingt-dix-huit. *(Suivent les signatures)*
 
 Champ d’application le 2 août 2018**[^t-3]**
 
 <table>
-<tr><th colspan="3">Etats parties</th><th colspan="2">Ratification Adhésion (A) Succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th colspan="3">États parties</th><th colspan="2">Ratification Adhésion (A) Succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td colspan="3">Afghanistan</td><td colspan="2">10 février</td><td colspan="2">2003 A</td><td>1<sup>er</sup> mai</td><td>2003</td></tr>
 <tr><td colspan="3">Afrique du Sud</td><td colspan="2">27 novembre</td><td colspan="2">2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Albanie\*</td><td colspan="2">31 janvier</td><td colspan="2">2003</td><td>1<sup>er</sup> mai</td><td>2003</td></tr>
@@ -2308,11 +2320,11 @@ Champ d’application le 2 août 2018**[^t-3]**
 <tr><td colspan="4">Côte d’Ivoire\*</td><td colspan="2">15 février</td><td>2013</td><td>1<sup>er</sup> mai</td><td>2013</td></tr>
 <tr><td colspan="3">Croatie\*</td><td colspan="2">21 mai</td><td colspan="2">2001</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Danemark\*</td><td colspan="2">21 juin</td><td colspan="2">2001</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
-<tr><td colspan="3">Iles Féroé</td><td colspan="2">20 novembre</td><td colspan="2">2006</td><td>20 novembre</td><td>2006</td></tr>
+<tr><td colspan="3">Îles Féroé</td><td colspan="2">20 novembre</td><td colspan="2">2006</td><td>20 novembre</td><td>2006</td></tr>
 <tr><td colspan="3">Groenland</td><td colspan="2">17 novembre</td><td colspan="2">2004</td><td>1<sup>er</sup> octobre</td><td>2004</td></tr>
 <tr><td colspan="3">Djibouti</td><td colspan="2">5 novembre</td><td colspan="2">2002</td><td>1<sup>er</sup> février</td><td>2003</td></tr>
 <tr><td colspan="3">Dominique</td><td colspan="2">12 février</td><td colspan="2">2001 A</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
-<tr><td colspan="3">Equateur</td><td colspan="2">5 février</td><td colspan="2">2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
+<tr><td colspan="3">Équateur</td><td colspan="2">5 février</td><td colspan="2">2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">El Salvador\*</td><td colspan="2">3 mars</td><td colspan="2">2016 A</td><td>1<sup>er</sup> juin</td><td>2016</td></tr>
 <tr><td colspan="3">Espagne\*</td><td colspan="2">24 octobre</td><td colspan="2">2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Estonie\*</td><td colspan="2">30 janvier</td><td colspan="2">2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
@@ -2330,8 +2342,8 @@ Champ d’application le 2 août 2018**[^t-3]**
 <tr><td colspan="3">Guyana</td><td colspan="2">24 septembre</td><td colspan="2">2004</td><td>1<sup>er</sup> décembre</td><td>2004</td></tr>
 <tr><td colspan="3">Honduras\*</td><td colspan="2">1<sup>er</sup> juillet</td><td colspan="2">2002</td><td>1<sup>er</sup> septembre</td><td>2002</td></tr>
 <tr><td colspan="3">Hongrie\*</td><td colspan="2">30 novembre</td><td colspan="2">2001</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
-<tr><td colspan="3">Iles Cook</td><td colspan="2">18 juillet</td><td colspan="2">2008 A</td><td>1<sup>er</sup> octobre</td><td>2008</td></tr>
-<tr><td colspan="3">Iles Marshall\*</td><td colspan="2">7 décembre</td><td colspan="2">2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
+<tr><td colspan="3">Îles Cook</td><td colspan="2">18 juillet</td><td colspan="2">2008 A</td><td>1<sup>er</sup> octobre</td><td>2008</td></tr>
+<tr><td colspan="3">Îles Marshall\*</td><td colspan="2">7 décembre</td><td colspan="2">2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Irlande</td><td colspan="2">11 avril</td><td colspan="2">2002</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Islande\*</td><td colspan="2">25 mai</td><td colspan="2">2000</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
 <tr><td colspan="3">Italie\*</td><td colspan="2">26 juillet</td><td colspan="2">1999</td><td>1<sup>er</sup> juillet</td><td>2002</td></tr>
@@ -2383,12 +2395,12 @@ Champ d’application le 2 août 2018**[^t-3]**
 <tr><td>Anguilla</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
 <tr><td>Bermudes</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
 <tr><td colspan="4">Gibraltar</td><td colspan="2">20 avril</td><td>2015</td><td>20 avril</td><td>2015</td></tr>
-<tr><td>Iles Cayman</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
-<tr><td colspan="4">Ile de Man</td><td colspan="2">28 novembre</td><td>2012</td><td>1<sup>er</sup> février</td><td>2013</td></tr>
-<tr><td>Iles Falkland</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
-<tr><td>Iles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
-<tr><td>Iles Turques et Caïques</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
-<tr><td>Iles Vierges britanniques</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
+<tr><td>Îles Cayman</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
+<tr><td colspan="4">Île de Man</td><td colspan="2">28 novembre</td><td>2012</td><td>1<sup>er</sup> février</td><td>2013</td></tr>
+<tr><td>Îles Falkland</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
+<tr><td>Îles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
+<tr><td>Îles Turques et Caïques</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
+<tr><td>Îles Vierges britanniques</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
 <tr><td>Montserrat</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td colspan="4">11 mars</td><td colspan="2">2010</td><td>11 mars</td><td>2010</td></tr>
 <tr><td colspan="3">Saint-Kitts-et-Nevis</td><td colspan="2">22 août</td><td colspan="2">2006 A</td><td>1<sup>er</sup> novembre</td><td>2006</td></tr>

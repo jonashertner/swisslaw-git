@@ -3,16 +3,16 @@ sr: "0.312.1"
 title: Römer Statut des Internationalen Strafgerichtshofs vom 17. Juli 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: de
-version: 2018-08-02
+version: 2021-07-07
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20180802/de/xml/fedlex-data-admin-ch-eli-cc-2002-586-20180802-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20180802/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20210707/de/xml/fedlex-data-admin-ch-eli-cc-2002-586-20210707-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20210707/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Römer Statut des Internationalen Strafgerichtshofs**** ****
+# Römer Statut des Internationalen Strafgerichtshofs
 
 AS **2002** 3743; BBl **2001** 391[^t-1][^t-2]
 
@@ -20,7 +20,7 @@ AS **2002** 3743; BBl **2001** 391[^t-1][^t-2]
 
 Abgeschlossen in Rom am 17. Juli 1998 Von der Bundesversammlung genehmigt am 22. Juni 2001[^t-3] Ratifikationsurkunde durch die Schweiz hinterlegt am 12. Oktober 2001 In Kraft getreten für die Schweiz am 1. Juli 2002
 
-(Stand am 2. August 2018)
+(Stand am 7. Juli 2021)
 
 [^t-1]: Der Titel der abgestimmten deutschen Übersetzung dieses Vertrags lautet: «Römisches Statut des Internationalen Strafgerichtshofs». Es wurde Einvernehmen unter den Beteiligten erzielt, dass jede Seite in innerstaatlichen Dokumenten die Bezeichnung «Römer Statut des Internationalen Strafgerichtshofs» verwenden kann.
 [^t-2]: Die Änd. vom 10. Juni 2010 ([SR [0.312.12](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/645); [[AS 2015](http://www.admin.ch/ch/d/as/2002/3130.pdf)3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) und 11. Juni 2010 ([SR [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[AS 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe die entsprechenden Geltungsbereiche.
@@ -103,7 +103,7 @@ Die Gerichtsbarkeit des Gerichtshofs ist auf die schwersten Verbrechen beschrän
 - c) Kriegsverbrechen;
 - d) das Verbrechen der Aggression.
 
-<sup>2.</sup> …[^5-1]
+<sup>2.</sup> ...[^5-1]
 
 [^5-1]: Aufgehoben durch Anhang I Ziff. 1 der Änderungen betreffend das Verbrechen der Aggression vom 11. Juni 2010, von der BVers genehmigt am 20. März 2015 und mit Wirkung für die Schweiz am 10. Sept. 2016 ([AS 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
@@ -212,6 +212,9 @@ Im Sinne dieses Statuts bedeutet «Verbrechen gegen die Menschlichkeit» jede de
   - xxiv) vorsätzliche Angriffe auf Gebäude, Material, Sanitätseinheiten, Sanitätstransportmittel und Personal, die in Übereinstimmung mit dem Völkerrecht mit den Schutzzeichen der Genfer Abkommen versehen sind;
   - xxv) das vorsätzliche Aushungern von Zivilpersonen als Methode der Kriegführung durch das Vorenthalten der für sie lebensnotwendigen Gegenstände, einschliesslich der vorsätzlichen Behinderung von Hilfslieferungen, wie sie nach den Genfer Abkommen vorgesehen sind;
   - xxvi) die Zwangsverpflichtung oder Eingliederung von Kindern unter fünfzehn Jahren in die nationalen Streitkräfte oder ihre Verwendung zur aktiven Teilnahme an Feindseligkeiten;
+  - [tab] xxvii)[^8-5] die Verwendung von Waffen, die mikrobielle oder andere biologische Agenzien oder Toxine verwenden, ungeachtet ihres Ursprungs oder ihrer Herstellungsmethode;
+  - [tab] xxviii)[^8-6] die Verwendung von Waffen, deren Hauptwirkung darin besteht, durch Splitter zu verletzen, die im menschlichen Körper durch Röntgenstrahlen nicht entdeckt werden können;
+  - [tab] xxix)[^8-7] die Verwendung von Laserwaffen, die eigens dazu entworfen sind, sei es als ihre einzige Kampfaufgabe oder als eine ihrer Kampfaufgaben, die dauerhafte Erblindung des unbewehrten Auges, das heisst des blossen Auges oder des Auges mit Sehhilfe, zu verursachen;
 
 - c)
 
@@ -238,10 +241,13 @@ Im Sinne dieses Statuts bedeutet «Verbrechen gegen die Menschlichkeit» jede de
   - ix) die meuchlerische Tötung oder Verwundung eines gegnerischen Kombattanten;
   - x) die Erklärung, dass kein Pardon gegeben wird;
   - xi) die körperliche Verstümmelung von Personen, die sich in der Gewalt einer anderen Konfliktpartei befinden, oder die Vornahme medizinischer oder wissenschaftlicher Versuche jeder Art an diesen Personen, die nicht durch deren ärztliche, zahnärztliche oder Krankenhausbehandlung gerechtfertigt sind oder in ihrem Interesse durchgeführt werden und die zu ihrem Tod führen oder ihre Gesundheit ernsthaft gefährden;
-  - xii) die Zerstörung oder Beschlagnahme gegnerischen Guts[^8-5], sofern diese nicht durch die Erfordernisse des Konflikts zwingend geboten ist;
-  - xiii)[^8-6] die Verwendung von Gift oder vergifteten Waffen;
-  - xiv)[^8-7] die Verwendung erstickender, giftiger oder gleichartiger Gase sowie aller ähnlichen Flüssigkeiten, Stoffe oder Vorrichtungen;
-  - [tab] xv)[^8-8] die Verwendung von Geschossen, die sich im Körper des Menschen leicht ausdehnen oder flachdrücken, beispielsweise Geschosse mit einem harten Mantel, der den Kern nicht ganz umschliesst oder mit Einschnitten versehen ist.
+  - xii) die Zerstörung oder Beschlagnahme gegnerischen Guts[^8-8], sofern diese nicht durch die Erfordernisse des Konflikts zwingend geboten ist;
+  - xiii)[^8-9] die Verwendung von Gift oder vergifteten Waffen;
+  - xiv)[^8-10] die Verwendung erstickender, giftiger oder gleichartiger Gase sowie aller ähnlichen Flüssigkeiten, Stoffe oder Vorrichtungen;
+  - [tab] xv)[^8-11] die Verwendung von Geschossen, die sich im Körper des Menschen leicht ausdehnen oder flachdrücken, beispielsweise Geschosse mit einem harten Mantel, der den Kern nicht ganz umschliesst oder mit Einschnitten versehen ist;
+  - xvi)[^8-12] die Verwendung von Waffen, die mikrobielle oder andere biologische Agenzien oder Toxine verwenden, ungeachtet ihres Ursprungs oder ihrer Herstellungsmethode;
+  - [tab] xvii)[^8-13] die Verwendung von Waffen, deren Hauptwirkung darin besteht, durch Splitter zu verletzen, die im menschlichen Körper durch Röntgenstrahlen nicht entdeckt werden können;
+  - [tab] xviii)[^8-14] die Verwendung von Laserwaffen, die eigens dazu entworfen sind, sei es als ihre einzige Kampfaufgabe oder als eine ihrer Kampfaufgaben, die dauerhafte Erblindung des unbewehrten Auges, das heisst des blossen Auges oder des Auges mit Sehhilfe, zu verursachen;
 
 - f) Absatz 2 Buchstabe e findet Anwendung auf bewaffnete Konflikte, die keinen internationalen Charakter haben, und somit nicht auf Fälle innerer Unruhen und Spannungen wie Tumulte, vereinzelt auftretende Gewalttaten oder andere ähnliche Handlungen. Er findet Anwendung auf bewaffnete Konflikte, die im Hoheitsgebiet eines Staates stattfinden, wenn zwischen den staatlichen Behörden und organisierten bewaffneten Gruppen oder zwischen solchen Gruppen ein lang anhaltender bewaffneter Konflikt besteht.
 
@@ -251,10 +257,16 @@ Im Sinne dieses Statuts bedeutet «Verbrechen gegen die Menschlichkeit» jede de
 [^8-2]: D, A: Eigentum
 [^8-3]: A: Verschleppung oder Versetzung
 [^8-4]: D, A: Eigentums
-[^8-5]: D, A: Eigentums
-[^8-6]: Eingefügt durch Anhang 1 der Änderungen betreffend die Kriegsverbrechen vom 10. Juni 2010, von der BVers genehmigt am 20. März 2015 und in Kraft getreten für die Schweiz am 10. Sept. 2016 ([AS 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8-7]: Eingefügt durch Anhang 1 der Änderungen betreffend die Kriegsverbrechen vom 10. Juni 2010, von der BVers genehmigt am 20. März 2015 und in Kraft getreten für die Schweiz am 10. Sept. 2016 ([AS 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8-8]: Eingefügt durch Anhang 1 der Änderungen betreffend die Kriegsverbrechen vom 10. Juni 2010, von der BVers genehmigt am 20. März 2015 und in Kraft getreten für die Schweiz am 10. Sept. 2016 ([AS 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-5]: Eingefügt durch Anhang I der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-6]: Eingefügt durch Anhang II der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-7]: Eingefügt durch Anhang III der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-8]: D, A: Eigentums
+[^8-9]: Eingefügt durch Anhang 1 der Änderungen betreffend die Kriegsverbrechen vom 10. Juni 2010, von der BVers genehmigt am 20. März 2015 und in Kraft getreten für die Schweiz am 10. Sept. 2016 ([AS 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-10]: Eingefügt durch Anhang 1 der Änderungen betreffend die Kriegsverbrechen vom 10. Juni 2010, von der BVers genehmigt am 20. März 2015 und in Kraft getreten für die Schweiz am 10. Sept. 2016 ([AS 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-11]: Eingefügt durch Anhang 1 der Änderungen betreffend die Kriegsverbrechen vom 10. Juni 2010, von der BVers genehmigt am 20. März 2015 und in Kraft getreten für die Schweiz am 10. Sept. 2016 ([AS 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-12]: Eingefügt durch Anhang I der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-13]: Eingefügt durch Anhang II der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-14]: Eingefügt durch Anhang III der Änd. vom 14. Dez. 2017, von der BVers genehmigt am 20. Dez. 2019 und in Kraft getreten für die Schweiz am 7. Juli 2021 ([AS 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [BBl 2019 3909](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
 
 #### Art. 8<sup>bis</sup>
 
@@ -2205,7 +2217,7 @@ Die Urschrift dieses Statuts, dessen arabischer, chinesischer, englischer, franz
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Statut unterschrieben. Geschehen zu Rom am 17. Juli 1998. (Es folgen die Unterschriften)
 
-Geltungsbereich am 2. August 2018**[^t-4]**
+Geltungsbereich am 2. August 2018[^t-4]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2281,7 +2293,6 @@ Geltungsbereich am 2. August 2018**[^t-4]**
 <tr><td colspan="2">Malta<sup>\*</sup></td><td>29. November</td><td>2002</td><td>1. Februar</td><td>2003</td></tr>
 <tr><td colspan="2">Marshallinseln<sup>\*</sup></td><td>7. Dezember</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Mauritius</td><td>5. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Mazedonien<sup>\*</sup></td><td>6. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Mexiko\*</td><td>28. Oktober</td><td>2005</td><td>1. Januar</td><td>2006</td></tr>
 <tr><td>Moldau\*</td><td colspan="2">12. Oktober</td><td>2010</td><td>1. Januar</td><td>2011</td></tr>
 <tr><td colspan="2">Mongolei</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
@@ -2296,6 +2307,7 @@ Geltungsbereich am 2. August 2018**[^t-4]**
 <tr><td>Sint Maarten</td><td colspan="2">17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Niger</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Nigeria</td><td>27. September</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td colspan="2">Nordmazedonien<sup>\*</sup></td><td>6. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Norwegen<sup>\*</sup></td><td>16. Februar</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Österreich<sup>\*</sup></td><td>28. Dezember</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
 <tr><td colspan="2">Palästina</td><td>2. Januar</td><td>2015 B</td><td>1. April</td><td>2015</td></tr>
@@ -2353,7 +2365,7 @@ Geltungsbereich am 2. August 2018**[^t-4]**
 <tr><td colspan="6">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Statut gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-4]: [AS 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586), [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543), [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681), [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5), [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598), [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236), [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13), [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741), [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-4]: [AS 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
 [^t-5]: Rücktritt vom Statut gemäss Art. 127 Abs. 1 mit Wirkung per 17. März 2019
 
 Vorbehalte und Erklärungen

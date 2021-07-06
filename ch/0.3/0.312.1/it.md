@@ -3,16 +3,16 @@ sr: "0.312.1"
 title: Statuto di Roma della Corte penale internazionale del 17 luglio 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: it
-version: 2018-08-02
+version: 2021-07-07
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20180802/it/xml/fedlex-data-admin-ch-eli-cc-2002-586-20180802-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20180802/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20210707/it/xml/fedlex-data-admin-ch-eli-cc-2002-586-20210707-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20210707/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Statuto di Roma della Corte penale internazionale****
+# Statuto di Roma della Corte penale internazionale
 
 RU **2002** 3743; FF **2001** 311[^t-1]
 
@@ -26,7 +26,7 @@ Ratificato con strumenti depositati dalla Svizzera il 12 ottobre 2001
 
 Entrato in vigore per la Svizzera il 1° luglio 2002
 
-(Stato 2 agosto 2018)
+(Stato 7 luglio 2021)
 
 [^t-1]: Le mod. del 10 giu. 2010 ([RS [0.312.12](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/645); [[RU 2015](http://www.admin.ch/ch/d/as/2002/3130.pdf)3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) e dell’11 giu. 2010 ([RS [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[RU 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sono introdotte nel presente testo. Le stesse valgono comunque unicamente nei rapporti con gli Stati parte. Vedi pertanto il loro specifico campo d’applicazione.
 [^t-2]: Art. 1 cpv. 1 del DF del 22 giu. 2001 ([RU 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585)).
@@ -110,7 +110,7 @@ La competenza della Corte è limitata ai crimini più gravi, motivo di allarme p
 
 <sup>2.</sup> ...[^5-1]
 
-[^5-1]: Abrogato dal n. 1 dell’all. I degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 e con effetto per la Svizzera dal 10 set. 2016 ([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^5-1]: Abrogato dall’all. I n. 1 degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 e con effetto per la Svizzera dal 10 set. 2016 ([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
 #### Art. 6
 
@@ -212,7 +212,10 @@ Agli effetti dello Statuto, si intende per «crimini di guerra»:
   - xxiii) utilizzare la presenza di un civile o di altra persona protetta per evitare che taluni siti, zone o forze militari divengano il bersaglio di operazioni militari;
   - xxiv) dirigere intenzionalmente attacchi contro edifici, materiali, personale ed unità e mezzi di trasporto sanitari che usino, in conformità con il diritto internazionale, gli emblemi distintivi previsti dalle Convenzioni di Ginevra;
   - xxv) affamare intenzionalmente, come metodo di guerra, i civili privandoli dei beni indispensabili alla loro sopravvivenza, compreso il fatto di impedire volontariamente l’invio dei soccorsi previsti dalle Convenzioni di Ginevra;
-  - xxvi) reclutare o arruolare fanciulli di età inferiore ai quindici anni nelle forze armate nazionali o farli partecipare attivamente alle ostilità.
+  - xxvi) reclutare o arruolare fanciulli di età inferiore ai quindici anni nelle forze armate nazionali o farli partecipare attivamente alle ostilità;
+  - xxvii)[^8-2] utilizzare armi che impiegano agenti microbici o altri agenti biologici o tossine, qualunque ne sia l’origine o il modo di produzione;
+  - xxviii)[^8-3] utilizzare armi il cui effetto principale sia di ferire mediante schegge che non siano localizzabili nel corpo umano con i raggi X;
+  - xxix)[^8-4] utilizzare armi laser specificamente concepite in modo tale che la loro unica funzione di combattimento o una delle loro funzioni di combattimento sia di provocare la cecità permanente delle persone la cui vista non è protetta, ossia che guardano a occhio nudo o che portano lenti correttrici.
 
 - c)
 
@@ -240,18 +243,27 @@ Agli effetti dello Statuto, si intende per «crimini di guerra»:
   - x) dichiarare che nessuno avrà salva la vita;
   - xi) assoggettare coloro che si trovano in potere dell’avversario a mutilazioni fisiche o ad esperimenti medici o scientifici di qualsiasi tipo, non giustificati da trattamenti medici, dentari o ospedalieri delle persone interessate né compiuti nel loro interesse, che cagionano la morte di tali persone o ne danneggiano gravemente la salute;
   - xii) distruggere o confiscare beni dell’avversario, a meno che la confisca o la distruzione non siano imperativamente richieste dalle necessità del conflitto;
-  - [tab] xiii)[^8-2] utilizzare veleno o armi velenose;
-  - [tab] xiv)[^8-3] utilizzare gas asfissianti, gas tossici o gas simili nonché tutti i liquidi, le materie o i procedimenti analoghi;
-  - xv)[^8-4] utilizzare proiettili che si espandono o si appiattiscono facilmente all’interno del corpo umano, quali i proiettili con l’involucro duro che non ricopre interamente la parte centrale o quelli perforati ad in taglio.
+  - [tab] xiii)[^8-5] utilizzare veleno o armi velenose;
+  - [tab] xiv)[^8-6] utilizzare gas asfissianti, gas tossici o gas simili nonché tutti i liquidi, le materie o i procedimenti analoghi;
+  - xv)[^8-7] utilizzare proiettili che si espandono o si appiattiscono facilmente all’interno del corpo umano, quali i proiettili con l’involucro duro che non ricopre interamente la parte centrale o quelli perforati ad in taglio;
+  - [tab] xvi)[^8-8] utilizzare armi che impiegano agenti microbici o altri agenti biologici o tossine, qualunque ne sia l’origine o il modo di produzione;
+  - [tab] xvii)[^8-9] utilizzare armi il cui effetto principale sia di ferire mediante schegge che non siano localizzabili nel corpo umano con i raggi X;
+  - [tab] xviii)[^8-10] utilizzare armi laser specificamente concepite in modo tale che la loro unica funzione di combattimento o una delle loro funzioni di combattimento sia di provocare la cecità permanente delle persone la cui vista non è protetta, ossia che guardano a occhio nudo o che portano lenti correttrici.
 
 - f) Il capoverso e) del paragrafo 2 si applica ai conflitti armati non di carattere internazionale e pertanto non si applica alle situazioni interne di disordine e tensione quali sommosse, atti di violenza sporadici e isolati o atti di natura analoga. Si applica ai conflitti armati che si verificano nel territorio di uno Stato ove si svolga un prolungato conflitto armato tra le forze armate governative e gruppi armati organizzati, o tra altri gruppi.
 
 <sup>3.</sup> Nulla di quanto contenuto nelle disposizioni del paragrafo 2, capoversi c) ed e) può avere incidenza sulle responsabilità dei governi di mantenere o ristabilire l’ordine pubblico all’interno dello Stato o di difendere l’unità e l’integrità territoriale dello Stato con ogni mezzo legittimo.
 
 [^8-1]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
-[^8-2]: Introdotto dall’all. I degli emendamenti del 10 giu. 2010 relativi ai crimini di guerra, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8-3]: Introdotto dall’all. I degli emendamenti del 10 giu. 2010 relativi ai crimini di guerra, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8-4]: Introdotto dall’all. I degli emendamenti del 10 giu. 2010 relativi ai crimini di guerra, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-2]: Introdotto dall’all. I degli emendamenti del 14 dic. 2017, accettati dall’AF il 20 dic. 2019 ed in vigore per la Svizzera dal 7 lug. 2021 ([RU 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3231](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-3]: Introdotto dall’all. II degli emendamenti del 14 dic. 2017, accettati dall’AF il 20 dic. 2019 ed in vigore per la Svizzera dal 7 lug. 2021 ([RU 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3231](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-4]: Introdotto dall’all. III degli emendamenti del 14 dic. 2017, accettati dall’AF il 20 dic. 2019 ed in vigore per la Svizzera dal 7 lug. 2021 ([RU 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3231](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-5]: Introdotto dall’all. I degli emendamenti del 10 giu. 2010 relativi ai crimini di guerra, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-6]: Introdotto dall’all. I degli emendamenti del 10 giu. 2010 relativi ai crimini di guerra, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-7]: Introdotto dall’all. I degli emendamenti del 10 giu. 2010 relativi ai crimini di guerra, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3833](https://fedlex.data.admin.ch/eli/oc/2015/645); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^8-8]: Introdotto dall’all. I degli emendamenti del 14 dic. 2017, accettati dall’AF il 20 dic. 2019 ed in vigore per la Svizzera dal 7 lug. 2021 ([RU 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3231](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-9]: Introdotto dall’all. II degli emendamenti del 14 dic. 2017, accettati dall’AF il 20 dic. 2019 ed in vigore per la Svizzera dal 7 lug. 2021 ([RU 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3231](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
+[^8-10]: Introdotto dall’all. III degli emendamenti del 14 dic. 2017, accettati dall’AF il 20 dic. 2019 ed in vigore per la Svizzera dal 7 lug. 2021 ([RU 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334); [FF 2019 3231](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
 
 #### Art. 8<sup>bis</sup>
 
@@ -290,7 +302,7 @@ Modifiche agli elementi dei crimini possono essere proposte da:
 
 <sup>3.</sup> Gli elementi dei crimini e le relative modifiche devono essere compatibili con il presente Statuto.
 
-[^9-1]: Nuovo testo giusta il n. 6 dell’all. I degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^9-1]: Nuovo testo giusta l’all. I n. 6 degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
 #### Art. 10
 
@@ -377,7 +389,7 @@ La Corte può esercitare il proprio potere giurisdizionale su uno dei crimini di
 
 <sup>10.</sup> Il presente articolo non pregiudica le disposizioni relative all’esercizio del potere giurisdizionale in relazione agli altri crimini elencati all’articolo 5.
 
-[^15bis-1]: Introdotto dal n. 3 dell’all. I degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^15bis-1]: Introdotto dall’all. I n. 3 degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
 #### Art. 15<sup>ter</sup>
 
@@ -393,7 +405,7 @@ La Corte può esercitare il proprio potere giurisdizionale su uno dei crimini di
 
 <sup>5.</sup> Il presente articolo non pregiudica le disposizioni relative all’esercizio del potere giurisdizionale in relazione agli altri crimini elencati all’articolo 5.
 
-[^15ter-1]: Introdotto dal n. 4 dell’all. I degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2015 6([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^15ter-1]: Introdotto dall’all. I n. 4 degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2015 6([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
 #### Art. 16
 
@@ -497,7 +509,7 @@ Chiunque sia stato precedentemente giudicato da una diversa giurisdizione per co
 - a) mirava a sottrarre la persona interessata alla sua responsabilità penale per crimini di competenza della Corte; o
 - b) in ogni caso non era stato condotto in modo indipendente ed imparziale, nel rispetto delle garanzie di un processo equo previste dal diritto internazionale, ma era stato condotto in modo da essere incompatibile, date le circostanze, con il fine di assicurare la persona interessata alla giustizia.
 
-[^20-1]: Nuovo testo giusta il n. 7 dell’all. I degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^20-1]: Nuovo testo giusta l’all. I n. 7 degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
 #### Art. 21
 
@@ -568,7 +580,7 @@ In conformità del presente Statuto, una persona è penalmente responsabile e pu
 
 <sup>4.</sup> Nessuna disposizione del presente Statuto relativa alla responsabilità penale degli individui pregiudica la responsabilità degli Stati nel diritto internazionale.
 
-[^25-1]: Introdotto dal n. 5 dell’all. I degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
+[^25-1]: Introdotto dall’all. I n. 5 degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
 #### Art. 26
 
@@ -2272,7 +2284,7 @@ L’originale del presente Statuto, i cui testi in arabo, cinese, francese, ingl
 
 (Seguono le firme)
 
-Campo d’applicazione il 2 agosto 2018**[^t-3]**
+Campo d’applicazione il 2 agosto 2018[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
