@@ -3,7 +3,7 @@ canton: VD
 number: "900.05.021220.5"
 title: "ARRÊTÉ du 02.12.2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus (COVID-19) par un soutien aux entreprises, dans des cas de rigueur"
 language: fr
-version: 2021-05-19
+version: 2021-07-07
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05.021220.5?id=4efca371-136f-4b0b-88a1-b997e7119b7b"
 ---
 
@@ -19,9 +19,9 @@ vu l'ordonnance du 25 novembre 2020 concernant les mesures pour les cas de rigue
 
 vu l'ordonnance du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière) [^ingress-2]
 
-vu l'article 125 de la Constitution du Canton de Vaud
+vu l'article 125 de la Constitution du Canton de Vaud [^ingress-3]
 
-vu l'article 26a de la loi du 11 février 1970 sur l'organisation du Conseil d'Etat [^ingress-3]
+vu l'article 26a de la loi du 11 février 1970 sur l'organisation du Conseil d'Etat [^ingress-4]
 
 vu le préavis du Département de l'économie, de l'innovation et du sport (ci-après : le département)
 
@@ -29,7 +29,8 @@ arrête
 
 [^ingress-1]: Ordonnance du 25.11.2020 concernant les mesures pour les cas de rigueur destinées aux entreprises en lien avec l’épidémie de COVID-19 (RS 951.262)
 [^ingress-2]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
-[^ingress-3]: Loi du 11.02.1970 sur l'organisation du Conseil d’Etat ([BLV 172.115](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.115?id=b63d64be-09d4-46f7-8454-c0dbbd3a5c48))
+[^ingress-3]: Constitution du Canton de Vaud du 14.04.2003 ([BLV 101.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277))
+[^ingress-4]: Loi du 11.02.1970 sur l'organisation du Conseil d’Etat ([BLV 172.115](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.115?id=b63d64be-09d4-46f7-8454-c0dbbd3a5c48))
 
 ## Section I Dispositions générales
 
@@ -85,9 +86,13 @@ arrête
 
 <sup>2ter</sup> Lorsque la perte de chiffre d'affaires reconnue selon l'alinéa 2bis du présent article se poursuit durant les deux premiers trimestres 2021, celle-ci se calcule en comparant le chiffre d'affaires réalisé durant le trimestre 2021 concerné au quart du chiffre d'affaires annuel moyen de référence au sens de l'article 5 alinéa 1 lettre b ou alinéa 3. La présente disposition s'applique par analogie à l'article 4a.
 
+<sup>2quater</sup> Les entreprises ayant un chiffre d'affaires inférieur ou égal à 5 millions de francs, relevant exclusivement des secteurs de l'hôtellerie et de l'événementiel, et dont la perte de chiffre d'affaires est supérieure à 40% durant les troisième et quatrième trimestres 2021 peuvent se voir allouer une aide supplémentaire au titre des cas de rigueur. Celle-ci se calcule en comparant le chiffre d'affaires réalisé durant le trimestre 2021 concerné au quart du chiffre d'affaires annuel moyen de référence au sens de l'article 5, alinéa 1, lettre b ou alinéa 3.
+
+<sup>2quinquies</sup> A titre exceptionnel et conformément à l'alinéa 2quater, le Conseil d'Etat peut décider d'allouer un tel complément d'aide à une entreprise relevant d'un autre secteur d'activité.
+
 <sup>3</sup> Le chiffre d'affaires déterminant pour la perte de chiffre d'affaires est calculé sur la base de la valeur des biens vendus et des services fournis durant l'année civile 2020, respectivement durant les 12 mois concernés en cas d'application de l'alinéa 2bis. Il se réfère au compte individuel de l'entreprise requérante.
 
-[^3-1]: Modif. 1 du 20.01.2021: Introduction Al. 2bis; entrée en vigueur au 20.01.2021; Modification Al. 3; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 2; entrée en vigueur au 19.05.2021; Introduction Al. 2ter; entrée en vigueur au 19.05.2021; Modification Al. 3; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Introduction Al. 2quater,2quinquies; entrée en vigueur au 07.07.2021; Introduction Art. 5, Al. 1bis; entrée en vigueur au 07.07.2021; Introduction Art. 5, Al. 3, c, 2; entrée en vigueur au 07.07.2021; Introduction Art. 5, Al. 3, d; entrée en vigueur au 07.07.2021; Introduction Art. 11bis; entrée en vigueur au 07.07.2021; Introduction Art. 13, Al. 2ter; entrée en vigueur au 07.07.2021 · Modif. 4 du 24.11.2021: Modification Al. 1,2quater; entrée en vigueur au 03.12.2021; Abrogation Al. 2quinquies; entrée en vigueur au 03.12.2021; Modification Al. 3; entrée en vigueur au 03.12.2021; Introduction Art. 4c; entrée en vigueur au 03.12.2021; Introduction Art. 11, Al. 1bis; entrée en vigueur au 03.12.2021; Introduction Art. 11bis, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12a, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12b, Al. 2-3; entrée en vigueur au 03.12.2021; Introduction Art. 13a; entrée en vigueur au 03.12.2021; Introduction Art. 14, Al. 2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Modification Al. 2bis,2ter; entrée en vigueur au 01.02.2022; Introduction Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Modification Al. 2ter; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+[^3-1]: Modif. 1 du 20.01.2021: Introduction Al. 2bis; entrée en vigueur au 20.01.2021; Modification Al. 3; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 2; entrée en vigueur au 19.05.2021; Introduction Al. 2ter; entrée en vigueur au 19.05.2021; Modification Al. 3; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Introduction Al. 2quater,2quinquies; entrée en vigueur au 07.07.2021 · Modif. 4 du 24.11.2021: Modification Al. 1,2quater; entrée en vigueur au 03.12.2021; Abrogation Al. 2quinquies; entrée en vigueur au 03.12.2021; Modification Al. 3; entrée en vigueur au 03.12.2021; Introduction Art. 4c; entrée en vigueur au 03.12.2021; Introduction Art. 11, Al. 1bis; entrée en vigueur au 03.12.2021; Introduction Art. 11bis, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12a, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12b, Al. 2-3; entrée en vigueur au 03.12.2021; Introduction Art. 13a; entrée en vigueur au 03.12.2021; Introduction Art. 14, Al. 2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Modification Al. 2bis,2ter; entrée en vigueur au 01.02.2022; Introduction Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Modification Al. 2ter; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
 
 #### Art. 4a
 
@@ -120,6 +125,8 @@ arrête
 - c. elle a son siège dans le canton de Vaud au 1er octobre 2020;
 - d. elle exerce son activité commerciale en Suisse et depuis la Suisse ou y emploie du personnel auquel est lié la plus grande partie de ses charges salariales.
 
+<sup>1bis</sup> L'entreprise fermée plus de 40 jours sur décision d'autorité entre le 1er novembre 2020 et le 30 juin 2021 doit avoir été inscrite au registre du commerce du canton de Vaud, ou en cas de défaut de cette inscription, doit avoir été créée avant le 31 mars 2021.
+
 <sup>2</sup> Elle dispose d'un numéro d'identification d'entreprise (IDE) actif au moment du dépôt de la demande.
 
 <sup>3</sup> Par chiffre d'affaires annuel moyen au sens de l'alinéa 1 lettre b, on entend :
@@ -130,10 +137,13 @@ arrête
 - b. Pour une entreprise créée ou qui a commencé son activité commerciale entre le 1er septembre 2019 et le 29 février 2020, le plus élevé entre :
 - 1\. le chiffre d'affaires réalisé lors du trimestre 2019 ou 2020 qui a généré le plus gros chiffre d'affaires, extrapolé sur 12 mois; ou
 - 2\. le chiffre d'affaires selon les calculs indiqués à la let. a.
-- c. Pour une entreprise créée ou qui a commencé son activité commerciale entre le 1er mars 2020 et le 30 septembre 2020 :
-- 1\. le chiffre d'affaires moyen qui a été réalisé entre la création de l'entreprise et le 31 décembre 2020, calculé sur 12 mois.
+- c. Pour une entreprise créée ou qui a commencé son activité commerciale entre le 1er mars 2020 et le 30 septembre 2020, le plus élevé entre:
+- 1\. le chiffre d'affaires moyen qui a été réalisé entre la création de l'entreprise et le 31 décembre 2020, calculé sur 12 mois, ou
+- 2\. le chiffre d'affaires réalisé lors du trimestre 2019 ou 2020 qui a généré le plus gros chiffre d'affaires, extrapolé sur 12 mois;
+- d. Pour une entreprise fermée plus de 40 jours sur décision d'autorité au sens de l'article 4a, créée ou qui a commencé son activité commerciale entre le 1er octobre 2020 et le 31 mars 2021:
+- 1\. le chiffre d'affaires mensuel le plus élevé réalisé entre le début de l'activité commerciale et le 30 juin 2021.
 
-[^sectionSectionII-1]: Modif. 1 du 20.01.2021: Modification Al. 1, b-c; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 1, a-c; entrée en vigueur au 19.05.2021; Introduction Al. 1, d; entrée en vigueur au 19.05.2021; Modification Al. 2-3; entrée en vigueur au 19.05.2021; Introduction Al. 3, a-c; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Introduction Art. 4, Al. 2quater,2quinquies; entrée en vigueur au 07.07.2021; Introduction Al. 1bis; entrée en vigueur au 07.07.2021; Modification Al. 3, c; entrée en vigueur au 07.07.2021; Modification Al. 3, c, 1; entrée en vigueur au 07.07.2021; Introduction Al. 3, c, 2; entrée en vigueur au 07.07.2021; Introduction Al. 3, d; entrée en vigueur au 07.07.2021; Introduction Art. 11bis; entrée en vigueur au 07.07.2021; Introduction Art. 13, Al. 2ter; entrée en vigueur au 07.07.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Modification Al. 3, c, 2; entrée en vigueur au 01.02.2022; Modification Al. 3, d, 1; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Modification Al. 2; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+[^sectionSectionII-1]: Modif. 1 du 20.01.2021: Modification Al. 1, b-c; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 1, a-c; entrée en vigueur au 19.05.2021; Introduction Al. 1, d; entrée en vigueur au 19.05.2021; Modification Al. 2-3; entrée en vigueur au 19.05.2021; Introduction Al. 3, a-c; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Introduction Al. 1bis; entrée en vigueur au 07.07.2021; Modification Al. 3, c; entrée en vigueur au 07.07.2021; Modification Al. 3, c, 1; entrée en vigueur au 07.07.2021; Introduction Al. 3, c, 2; entrée en vigueur au 07.07.2021; Introduction Al. 3, d; entrée en vigueur au 07.07.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Modification Al. 3, c, 2; entrée en vigueur au 01.02.2022; Modification Al. 3, d, 1; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Modification Al. 2; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
 
 #### Art. 6
 
@@ -225,17 +235,18 @@ arrête
 - c. les autres charges d'exploitation, en particulier l'électricité, le chauffage et les assurances;
 - d. les intérêts sur prêts bancaires ou fournisseurs.
 
-<sup>1bis</sup> Le département en charge de l'économie a la possibilité, pour simplifier le calcul des charges fixes d'exploitation, d'utiliser un montant de charges fixes forfaitaire correspondant, pour le secteur concerné, au pourcentage des charges fixes par rapport au chiffre d'affaires annuel de référence.
+<sup>1bis</sup> Le département en charge de l'économie[^10-1] a la possibilité, pour simplifier le calcul des charges fixes d'exploitation, d'utiliser un montant de charges fixes forfaitaire correspondant, pour le secteur concerné, au pourcentage des charges fixes par rapport au chiffre d'affaires annuel de référence.
 
 <sup>1ter</sup> Lorsqu'il est constaté que la part des charges fixes d'exploitation calculée sur la base d'un forfait est surévaluée par rapport au montant des charges effectives, le Département en charge de l'économie peut renoncer à l'application du forfait au profit du montant des charges d'exploitation effectives.
 
 <sup>2</sup> Sont prises en compte les charges correspondant à la période considérée pour le calcul de la baisse de chiffre d'affaires conformément à l'article 4.
 
 [^9-2]: Modif. 1 du 20.01.2021: Modification tArt; entrée en vigueur au 20.01.2021; Modification Al. 1; entrée en vigueur au 20.01.2021; Modification Al. 1, a-c; entrée en vigueur au 20.01.2021; Introduction Al. 1, d; entrée en vigueur au 20.01.2021; Introduction Al. 1bis; entrée en vigueur au 20.01.2021; Modification Al. 2; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Introduction Al. 1ter; entrée en vigueur au 19.05.2021
+[^10-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 11
 
-**Montants maximaux et durée [^10-1]**
+**Montants maximaux et durée [^10-2]**
 
 <sup>1</sup> Le montant de l'aide pour cas de rigueur par entreprise est plafonné, pour l'entier de la période considérée au sens de l'article 12a :
 
@@ -246,11 +257,19 @@ arrête
 
 <sup>3</sup> L'aide peut être échelonnée.
 
-[^10-1]: Modif. 1 du 20.01.2021: Modification Al. 1, a; entrée en vigueur au 20.01.2021; Introduction Al. 3; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 1; entrée en vigueur au 19.05.2021; Modification Al. 1, a; entrée en vigueur au 19.05.2021 · Modif. 4 du 24.11.2021: Introduction Art. 4c; entrée en vigueur au 03.12.2021; Modification Al. 1; entrée en vigueur au 03.12.2021; Modification Al. 1, b; entrée en vigueur au 03.12.2021; Modification Al. 2; entrée en vigueur au 03.12.2021; Introduction Al. 1bis; entrée en vigueur au 03.12.2021; Modification Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 11bis, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12a, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12b, Al. 2-3; entrée en vigueur au 03.12.2021; Introduction Art. 13a; entrée en vigueur au 03.12.2021; Introduction Art. 14, Al. 2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Modification Al. 1bis; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Modification Al. 1; entrée en vigueur au 06.07.2022; Introduction Al. 2bis; entrée en vigueur au 06.07.2022; Abrogation Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+[^10-2]: Modif. 1 du 20.01.2021: Modification Al. 1, a; entrée en vigueur au 20.01.2021; Introduction Al. 3; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 1; entrée en vigueur au 19.05.2021; Modification Al. 1, a; entrée en vigueur au 19.05.2021 · Modif. 4 du 24.11.2021: Introduction Art. 4c; entrée en vigueur au 03.12.2021; Modification Al. 1; entrée en vigueur au 03.12.2021; Modification Al. 1, b; entrée en vigueur au 03.12.2021; Modification Al. 2; entrée en vigueur au 03.12.2021; Introduction Al. 1bis; entrée en vigueur au 03.12.2021; Modification Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 11bis, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12a, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12b, Al. 2-3; entrée en vigueur au 03.12.2021; Introduction Art. 13a; entrée en vigueur au 03.12.2021; Introduction Art. 14, Al. 2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Modification Al. 1bis; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Modification Al. 1; entrée en vigueur au 06.07.2022; Introduction Al. 2bis; entrée en vigueur au 06.07.2022; Abrogation Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+
+#### Art. 11a
+
+**Exception aux montants maximaux [^11-1]**
+
+<sup>1</sup> Pour les entreprises dont la perte de chiffre d'affaires 2020 ou sur 12 mois est supérieure à 70%, le montant de l'aide à fonds perdu par entreprise est plafonné, pour l'entier de la période considérée au sens de l'article 12a, à 30% du chiffre d'affaires de référence, mais au maximum à 1,5 million de francs.
+
+[^11-1]: Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Modification Al. 2; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
 
 #### Art. 12
 
-**Bénéfice [^11-1]**
+**Bénéfice [^11a-1]**
 
 <sup>1</sup> Une entreprise dont le chiffre d'affaires annuel de référence est inférieur ou égal à 5 millions de francs peut se voir allouer une aide pour cas de rigueur quand bien même les comptes de l'entreprise pour la période considérée affichent un bénéfice, cas échéant avant prélèvement privé de l'exploitant.
 
@@ -264,7 +283,7 @@ arrête
 
 <sup>4</sup> Les éventuelles aides pour RHT ou APG sont à considérer comme un revenu de l'entreprise individuelle ou de la société en nom collectif.
 
-[^11-1]: Modif. 2 du 19.05.2021: Modification tArt; entrée en vigueur au 19.05.2021; Modification Al. 1; entrée en vigueur au 19.05.2021; Introduction Al. 2-4; entrée en vigueur au 19.05.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Modification Al. 2-3; entrée en vigueur au 01.02.2022; Introduction Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022
+[^11a-1]: Modif. 2 du 19.05.2021: Modification tArt; entrée en vigueur au 19.05.2021; Modification Al. 1; entrée en vigueur au 19.05.2021; Introduction Al. 2-4; entrée en vigueur au 19.05.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Modification Al. 2-3; entrée en vigueur au 01.02.2022; Introduction Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022
 
 #### Art. 12a
 
@@ -293,7 +312,7 @@ arrête
 
 **Demandes [^sectionSectionIV-1]**
 
-<sup>1</sup> L'entreprise qui s'estime éligible à la mesure de soutien dans des cas de rigueur dépose sa demande auprès du Service de la promotion de l'économie et de l'innovation (ci-après: "le Service") au moyen du formulaire en ligne dédié.
+<sup>1</sup> L'entreprise qui s'estime éligible à la mesure de soutien dans des cas de rigueur dépose sa demande auprès du Service de la promotion de l'économie et de l'innovation (ci-après: "le Service")[^13-1] au moyen du formulaire en ligne dédié.
 
 <sup>2</sup> L'entreprise dont le chiffre d'affaires annuel de référence est inférieur ou égal à 5 millions de francs annexe à sa demande :
 
@@ -305,7 +324,9 @@ arrête
 - c. un extrait du registre des poursuites datant de moins de 10 jours;
 - d. ...
 
-<sup>2bis</sup> L'entreprise dont le chiffre d'affaires annuel de référence est supérieur à 5 millions de francs annexe les justificatifs fixés par l'article 8f de l'Ordonnance COVID-19 cas de rigueur.
+<sup>2bis</sup> Les comptes 2020 audités, à tout le moins définitifs, doivent être annexés à la demande pour cas de rigueur relative au second trimestre 2021.
+
+<sup>2ter</sup> L'entreprise dont le chiffre d'affaires annuel de référence est supérieur à 5 millions de francs annexe les justificatifs fixés par l'article 8f de l'Ordonnance COVID-19 cas de rigueur.
 
 <sup>3</sup> L'entreprise qui dépose une demande au moyen du formulaire en ligne dédié :
 
@@ -319,15 +340,16 @@ arrête
 
 <sup>6</sup> Le Service peut s'adjoindre les services de tiers mandatés afin de traiter les demandes.
 
-[^sectionSectionIV-1]: Modif. 1 du 20.01.2021: Modification Al. 2, b, 1-2; entrée en vigueur au 20.01.2021; Abrogation Al. 2, b, 3; entrée en vigueur au 20.01.2021; Abrogation Al. 2, d; entrée en vigueur au 20.01.2021; Introduction Al. 3, abis; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 2; entrée en vigueur au 19.05.2021; Modification Al. 2, b, 2; entrée en vigueur au 19.05.2021; Introduction Al. 2bis; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Introduction Art. 4, Al. 2quater,2quinquies; entrée en vigueur au 07.07.2021; Introduction Art. 5, Al. 1bis; entrée en vigueur au 07.07.2021; Introduction Art. 5, Al. 3, c, 2; entrée en vigueur au 07.07.2021; Introduction Art. 5, Al. 3, d; entrée en vigueur au 07.07.2021; Introduction Art. 11bis; entrée en vigueur au 07.07.2021; Modification Al. 2bis; entrée en vigueur au 07.07.2021; Introduction Al. 2ter; entrée en vigueur au 07.07.2021 · Modif. 4 du 24.11.2021: Introduction Art. 4c; entrée en vigueur au 03.12.2021; Introduction Art. 11, Al. 1bis; entrée en vigueur au 03.12.2021; Introduction Art. 11bis, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12a, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12b, Al. 2-3; entrée en vigueur au 03.12.2021; Modification Al. 1; entrée en vigueur au 03.12.2021; Introduction Art. 13a; entrée en vigueur au 03.12.2021; Introduction Art. 14, Al. 2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Modification tArt; entrée en vigueur au 01.02.2022; Modification Al. 1; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+[^sectionSectionIV-1]: Modif. 1 du 20.01.2021: Modification Al. 2, b, 1-2; entrée en vigueur au 20.01.2021; Abrogation Al. 2, b, 3; entrée en vigueur au 20.01.2021; Abrogation Al. 2, d; entrée en vigueur au 20.01.2021; Introduction Al. 3, abis; entrée en vigueur au 20.01.2021 · Modif. 2 du 19.05.2021: Modification Al. 2; entrée en vigueur au 19.05.2021; Modification Al. 2, b, 2; entrée en vigueur au 19.05.2021; Introduction Al. 2bis; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Modification Al. 2bis; entrée en vigueur au 07.07.2021; Introduction Al. 2ter; entrée en vigueur au 07.07.2021 · Modif. 4 du 24.11.2021: Introduction Art. 4c; entrée en vigueur au 03.12.2021; Introduction Art. 11, Al. 1bis; entrée en vigueur au 03.12.2021; Introduction Art. 11bis, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12a, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12b, Al. 2-3; entrée en vigueur au 03.12.2021; Modification Al. 1; entrée en vigueur au 03.12.2021; Introduction Art. 13a; entrée en vigueur au 03.12.2021; Introduction Art. 14, Al. 2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Modification tArt; entrée en vigueur au 01.02.2022; Modification Al. 1; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Introduction Art. 14, Al. 3-4; entrée en vigueur au 01.02.2022 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 17, Al. 2bis; entrée en vigueur au 06.07.2022
+[^13-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 14
 
-**Délai de dépôt des demandes [^13-1]**
+**Délai de dépôt des demandes [^13-2]**
 
 <sup>1</sup> Les demandes d'aides pour cas de rigueur peuvent être déposées jusqu'au 31 août 2021.
 
-[^13-1]: Modif. 2 du 19.05.2021: Modification Al. 1; entrée en vigueur au 19.05.2021 · Modif. 4 du 24.11.2021: Introduction Art. 4c; entrée en vigueur au 03.12.2021; Introduction Art. 11, Al. 1bis; entrée en vigueur au 03.12.2021; Introduction Art. 11bis, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12a, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12b, Al. 2-3; entrée en vigueur au 03.12.2021; Introduction Art. 13a; entrée en vigueur au 03.12.2021; Introduction Al. 2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Modification Al. 1; entrée en vigueur au 01.02.2022; Introduction Al. 3-4; entrée en vigueur au 01.02.2022
+[^13-2]: Modif. 2 du 19.05.2021: Modification Al. 1; entrée en vigueur au 19.05.2021 · Modif. 4 du 24.11.2021: Introduction Art. 4c; entrée en vigueur au 03.12.2021; Introduction Art. 11, Al. 1bis; entrée en vigueur au 03.12.2021; Introduction Art. 11bis, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12a, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12b, Al. 2-3; entrée en vigueur au 03.12.2021; Introduction Art. 13a; entrée en vigueur au 03.12.2021; Introduction Al. 2; entrée en vigueur au 03.12.2021 · Modif. 5 du 26.01.2022: Introduction Art. 4, Al. 2sexies; entrée en vigueur au 01.02.2022; Introduction Art. 4d; entrée en vigueur au 01.02.2022; Introduction Art. 12, Al. 3, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 12a, Al. 2, a-b; entrée en vigueur au 01.02.2022; Introduction Art. 13b; entrée en vigueur au 01.02.2022; Modification Al. 1; entrée en vigueur au 01.02.2022; Introduction Al. 3-4; entrée en vigueur au 01.02.2022
 
 #### Art. 14a
 
@@ -338,9 +360,9 @@ arrête
 - a. pour les décisions d'octroi, par voie électronique, par le biais de la plateforme informatique utilisée à cette fin par le Département en charge de l'économie;
 - b. pour les décisions de refus, par écrit sous pli recommandé.
 
-<sup>2</sup> Une décision d'octroi au sens de l'alinéa 1 lettre a est considéré comme notifiée à la date de l'envoi de la décision par voie électronique. Elle est dispensée de la signature olographe prévue à l'article 42 LPA-VD, la signature numérique apposée sur les décisions faisant foi.
+<sup>2</sup> Une décision d'octroi au sens de l'alinéa 1 lettre a est considérée comme notifiée à la date de l'envoi de la décision par voie électronique. Elle est dispensée de la signature olographe prévue à l'article 42 LPA-VD, la signature numérique apposée sur les décisions faisant foi.
 
-[^14-1]: Modif. 2 du 19.05.2021: Introduction tArt; entrée en vigueur au 19.05.2021; Introduction Al. 1-2; entrée en vigueur au 19.05.2021; Introduction Art. 14a; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Introduction Art. 4, Al. 2quater,2quinquies; entrée en vigueur au 07.07.2021; Introduction Art. 5, Al. 1bis; entrée en vigueur au 07.07.2021; Introduction Art. 5, Al. 3, c, 2; entrée en vigueur au 07.07.2021; Introduction Art. 5, Al. 3, d; entrée en vigueur au 07.07.2021; Introduction Art. 11bis; entrée en vigueur au 07.07.2021; Introduction Art. 13, Al. 2ter; entrée en vigueur au 07.07.2021; Modification Al. 2; entrée en vigueur au 07.07.2021
+[^14-1]: Modif. 2 du 19.05.2021: Introduction tArt; entrée en vigueur au 19.05.2021; Introduction Al. 1-2; entrée en vigueur au 19.05.2021; Introduction Art. 14a; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Modification Al. 2; entrée en vigueur au 07.07.2021
 
 #### Art. 15
 
@@ -368,11 +390,11 @@ arrête
 
 <sup>1</sup> Le Département est chargé du suivi et du contrôle des aides.
 
-<sup>2</sup> Les bénéficiaires d'aide sont tenus de lui présenter toutes informations et toutes pièces nécessaires au suivi et au contrôle des aides, notamment leurs pièces comptables et tout autre document jugé pertinent.
+<sup>2</sup> Les bénéficiaires d'aide sont tenus de lui présenter toutes informations et toutes pièces nécessaires au suivi et au contrôle des aides, notamment leurs pièces comptables et tout autre document jugé pertinent. A cet égard, il est expressément renvoyé à l'article 9 du règlement d'application de la loi du 22 février 2005 sur les subventions (tenue de la comptabilité et révision des comptes du bénéficiaire).
 
 <sup>3</sup> Au surplus, les dispositions de la loi du 22 février 2005 sur les subventions[^17-1] relatives à leur suivi, leur contrôle et leur révocation, ainsi qu'à la prescription et aux dispositions pénales, sont applicables par analogie aux aides octroyées en application du présent arrêté.
 
-[^16-1]: Modif. 2 du 19.05.2021: Modification Al. 2; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Introduction Art. 4, Al. 2quater,2quinquies; entrée en vigueur au 07.07.2021; Introduction Art. 5, Al. 1bis; entrée en vigueur au 07.07.2021; Introduction Art. 5, Al. 3, c, 2; entrée en vigueur au 07.07.2021; Introduction Art. 5, Al. 3, d; entrée en vigueur au 07.07.2021; Introduction Art. 11bis; entrée en vigueur au 07.07.2021; Introduction Art. 13, Al. 2ter; entrée en vigueur au 07.07.2021; Modification Al. 2; entrée en vigueur au 07.07.2021 · Modif. 4 du 24.11.2021: Introduction Art. 4c; entrée en vigueur au 03.12.2021; Introduction Art. 11, Al. 1bis; entrée en vigueur au 03.12.2021; Introduction Art. 11bis, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12a, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12b, Al. 2-3; entrée en vigueur au 03.12.2021; Introduction Art. 13a; entrée en vigueur au 03.12.2021; Introduction Art. 14, Al. 2; entrée en vigueur au 03.12.2021; Modification Al. 1; entrée en vigueur au 03.12.2021 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Modification Al. 2; entrée en vigueur au 06.07.2022; Introduction Al. 2bis; entrée en vigueur au 06.07.2022
+[^16-1]: Modif. 2 du 19.05.2021: Modification Al. 2; entrée en vigueur au 19.05.2021 · Modif. 3 du 07.07.2021: Modification Al. 2; entrée en vigueur au 07.07.2021 · Modif. 4 du 24.11.2021: Introduction Art. 4c; entrée en vigueur au 03.12.2021; Introduction Art. 11, Al. 1bis; entrée en vigueur au 03.12.2021; Introduction Art. 11bis, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12a, Al. 2; entrée en vigueur au 03.12.2021; Introduction Art. 12b, Al. 2-3; entrée en vigueur au 03.12.2021; Introduction Art. 13a; entrée en vigueur au 03.12.2021; Introduction Art. 14, Al. 2; entrée en vigueur au 03.12.2021; Modification Al. 1; entrée en vigueur au 03.12.2021 · Modif. 6 du 06.07.2022: Introduction Art. 1, Al. 1bis; entrée en vigueur au 06.07.2022; Introduction Art. 4d, Al. 4; entrée en vigueur au 06.07.2022; Introduction Art. 8bis; entrée en vigueur au 06.07.2022; Introduction Art. 11, Al. 2bis; entrée en vigueur au 06.07.2022; Introduction Art. 13, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13a, Al. 5bis; entrée en vigueur au 06.07.2022; Introduction Art. 13b, Al. 5bis; entrée en vigueur au 06.07.2022; Modification Al. 2; entrée en vigueur au 06.07.2022; Introduction Al. 2bis; entrée en vigueur au 06.07.2022
 [^17-1]: Loi du 22.02.2005 sur les subventions ([BLV 610.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/610.15?id=83269e93-101d-4436-b84c-6232d5f7c73f))
 
 #### Art. 18
