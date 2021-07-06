@@ -4,20 +4,22 @@ number: "711.61"
 title: Kantonale Bauverordnung
 short: KBV
 language: de
-version: 2018-06-01
-valid_until: 2021-07-06
-version_adopted: 2018-05-08
+version: 2021-07-07
+valid_until: 2024-09-30
+version_adopted: 2021-07-07
 adopted: 1978-07-03
 in_force: 1979-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/711.61"
-pdf: "https://bgs.so.ch/api/de/versions/4748/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5435/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Bauverordnung
 
-Vom 03.07.1978 (Stand 01.06.2018)
+(KBV)
+
+Vom 03.07.1978 (Stand 07.07.2021)
 
 Der Kantonsrat von Solothurn
 
@@ -206,7 +208,7 @@ beschliesst:
 
 **Geltungsdauer der Baubewilligung**
 
-<sup>1</sup> Die Baubewilligung erlischt mit dem Ablauf eines Jahres ab Rechtskraft des Entscheides, wenn innert dieser Frist mit den Bauarbeiten nicht begonnen worden ist oder wenn ein begonnener Bau nicht innert zumutbarer Frist vollendet wird. Die blosse Ausführung von Grabarbeiten gilt nicht als Baubeginn. Ist im Zusammenhang mit dem Bauvorhaben beim Zivilrichter Klage erhoben (§ 9 Abs. 3) und hat dieser ein Bauverbot erlassen, so fällt die Zeit, in weIcher das Verbot gilt, nicht in Berechnung. Dies gilt auch bei Baueinstellung durch die Baubehörde.
+<sup>1</sup> Die Baubewilligung erlischt mit Ablauf von zwei Jahren ab Rechtskraft des Entscheides, wenn innert dieser Frist mit den Bauarbeiten nicht begonnen worden ist oder wenn ein begonnener Bau nicht innert zumutbarer Frist vollendet wird. Die blosse Ausführung von Grabarbeiten gilt nicht als Baubeginn. Ist im Zusammenhang mit dem Bauvorhaben beim Zivilrichter Klage erhoben (§ 9 Abs. 3) und hat dieser ein Bauverbot erlassen, so fällt die Zeit, in weIcher das Verbot gilt, nicht in Berechnung. Dies gilt auch bei Baueinstellung durch die Baubehörde.
 
 <sup>2</sup> Die Baubehörde kann die Geltungsdauer der Baubewilligung auf Gesuch hin um höchstens ein Jahr verlängern.
 
@@ -993,6 +995,8 @@ BMZ = BVm/aGSF
 **Hängige Fälle**
 
 <sup>1</sup> Ist bei Inkrafttreten dieser Verordnung eine Baubewilligung rechtskräftig, so gilt sie weiterhin, auch wenn die bewilligte Baute oder Anlage den Vorschriften dieser Verordnung nicht entspricht.
+
+<sup>1<sup>bis</sup></sup> § 10 Absatz 1 dieser Verordnung ist anwendbar auf Baubewilligungen, welche im Zeitpunkt der Inkraftsetzung vom 7. Juli 2021 erteilt, aber gemäss § 10 Absatz 1 und 2 KBV in der Fassung vom 1. Juni 2018 noch nicht verwirkt waren.
 
 <sup>2</sup> Ist bei Inkrafttreten dieser Verordnung über ein Baugesuch nicht rechtskräftig entschieden, so sind die Vorschriften dieser Verordnung anwendbar.
 
