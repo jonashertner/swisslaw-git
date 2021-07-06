@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/932"
 language: it
-version: 2021-03-22
+version: 2021-07-07
 adopted: 2020-12-11
 in_force: 2020-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/932/20210322/it/xml/fedlex-data-admin-ch-eli-cc-2020-932-20210322-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/932/20210322/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/932/20210707/it/xml/fedlex-data-admin-ch-eli-cc-2020-932-20210707-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/932/20210707/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 11 dicembre 2020 (Stato 22 marzo 2021)
+del 11 dicembre 2020 (Stato 7 luglio 2021) (Stato 7 luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -171,7 +171,10 @@ Allegato 1*[^t-1]*
 
 ## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito; imprese e organizzazioni soggette alle sanzioni finanziarie
 
-[^t-1]: Il testo dell’all. non è pubblicato nella RU ([RU 2020 5381](https://fedlex.data.admin.ch/eli/oc/2020/932); [2021 158](https://fedlex.data.admin.ch/eli/oc/2021/158)). È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^annex1-lvlu1-1]
+
+[^t-1]: Aggiornato dal n. I dell’O del DEFR del 19 mar. 2021 ([RU 2021 158](https://fedlex.data.admin.ch/eli/oc/2021/158)) e del 6 lug. 2021 ([RU 2021 422](https://fedlex.data.admin.ch/eli/oc/2021/422)).
+[^annex1-lvlu1-1]: Il testo dell’all. non è pubblicato nella RU. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
 Allegato 2
 
