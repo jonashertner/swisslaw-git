@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision des Gaststaatgesetzes
 document: Vernehmlassungsvorlage
 language: de
