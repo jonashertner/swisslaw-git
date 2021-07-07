@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 1998 sull'organizzazione del Governo e dell'Am
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: it
-version: 2021-04-01
+version: 2021-07-08
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20210708/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20210708-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210708/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210401/it"
 
 (OLOGA)
 
-del 25 novembre 1998 (Stato 1° aprile 2021)
+del 25 novembre 1998 (Stato 8 luglio 2021) (Stato 8 luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -1409,7 +1409,7 @@ Allegato 1*[^t-1]*
 
 ## Elenco delle unità amministrative dell’Amministrazione federale
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 30 giu. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Aggiornato dal n. I dell’O del 27 ott. 2010 ([RU 2010 5047](https://fedlex.data.admin.ch/eli/oc/2010/721)), dall’art. 15 dell’O del 20 apr. 2011 sull’organizzazione del DFAE ([RU 2011 1631](https://fedlex.data.admin.ch/eli/oc/2011/248)), dal n. II dell’O del 17 ago. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)), dall’all. n. 1 dell’O del 23 mar. 2011 sull’organizzazione del SISI ([RU 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652)), dal n. I dell’O del 30 nov. 2011 ([RU 2011 6091](https://fedlex.data.admin.ch/eli/oc/2011/843)), dall’all. n. 1 dell’O del 9 dic. 2011 sull’informatica nell’Amministrazione federale ([RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)), dall’all. n. 2 dell’O del 21 nov. 2012 sull’Istituto federale di metrologia ([RU 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)), dal n. I 2 cpv. 1 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), dalla correzione del 28 dic. 2012 ([RU 2012 7499](https://fedlex.data.admin.ch/eli/oc/2012/900)), dalla correzione del 15 gen. 2013 ([RU 2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)), dai n. II delle O dell’8 mag. 2013 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)), del 28 nov. 2014 ([RU 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)), del 28 gen. 2015 ([RU 2015 423](https://fedlex.data.admin.ch/eli/oc/2015/62)), dal n. I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)), dall’all. 2 n. II 1 dell’O del 29 mar. 2017 sulle strutture dell’esercito ([RU 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)), dall’all. n. 2 dell’O del 16 ago. 2017 concernente la vigilanza sulle attività informative ([RU 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), dall’all. 2 n. II 2 dell’O del 15 set. 2017 sull’alcol ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)), dall’all. n. 1 dell’O del 15 nov. 2017 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), dall’all. 6 n. II 1 dell’O del 21 set. 2018 sui medicamenti ([RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)), dal n. II dell’O del 7 nov. 2018 ([RU 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)), dal n. I dell’O del 30 nov. 2018 ([RU 2018 4737](https://fedlex.data.admin.ch/eli/oc/2018/751)), dal n. I 1 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)) e dall’all. n. 2 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 30 giu. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Aggiornato dal n. I dell’O del 27 ott. 2010 ([RU 2010 5047](https://fedlex.data.admin.ch/eli/oc/2010/721)), dall’art. 15 dell’O del 20 apr. 2011 sull’organizzazione del DFAE ([RU 2011 1631](https://fedlex.data.admin.ch/eli/oc/2011/248)), dal n. II dell’O del 17 ago. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)), dall’all. n. 1 dell’O del 23 mar. 2011 sull’organizzazione del SISI ([RU 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652)), dal n. I dell’O del 30 nov. 2011 ([RU 2011 6091](https://fedlex.data.admin.ch/eli/oc/2011/843)), dall’all. n. 1 dell’O del 9 dic. 2011 sull’informatica nell’Amministrazione federale ([RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)), dall’all. n. 2 dell’O del 21 nov. 2012 sull’Istituto federale di metrologia ([RU 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)), dal n. I 2 cpv. 1 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), dalla correzione del 28 dic. 2012 ([RU 2012 7499](https://fedlex.data.admin.ch/eli/oc/2012/900)), dalla correzione del 15 gen. 2013 ([RU 2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)), dai n. II delle O dell’8 mag. 2013 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)), del 28 nov. 2014 ([RU 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)), del 28 gen. 2015 ([RU 2015 423](https://fedlex.data.admin.ch/eli/oc/2015/62)), dal n. I dell’O del 7 ott. 2015 ([RU 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)), dall’all. 2 n. II 1 dell’O del 29 mar. 2017 sulle strutture dell’esercito ([RU 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)), dall’all. n. 2 dell’O del 16 ago. 2017 concernente la vigilanza sulle attività informative ([RU 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), dall’all. 2 n. II 2 dell’O del 15 set. 2017 sull’alcol ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)), dall’all. n. 1 dell’O del 15 nov. 2017 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), dall’all. 6 n. II 1 dell’O del 21 set. 2018 sui medicamenti ([RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)), dal n. II dell’O del 7 nov. 2018 ([RU 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)), dal n. I dell’O del 30 nov. 2018 ([RU 2018 4737](https://fedlex.data.admin.ch/eli/oc/2018/751)), dal n. I 1 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)),e dall’all. n. 2 dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)) e dalla correzione dell’8 lug. 2021 ([RU 2021 429](https://fedlex.data.admin.ch/eli/oc/2021/429)).
 
 L’Amministrazione federale consta delle seguenti unità amministrative:
 
@@ -1428,11 +1428,11 @@ L’Amministrazione federale consta delle seguenti unità amministrative:
 <tr><td></td><td colspan="2">I.</td><td colspan="7">Eidgenössisches Departement für auswärtige Angelegenheiten (EDA) Département fédéral des affaires étrangères (DFAE) Dipartimento federale degli affari esteri (DFAE) Departament federal d'affars exteriurs (DFAE)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2">**1.**</td><td colspan="5">**Unità amministrative dell’Amministrazione federale** centrale**:**</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.1</td><td colspan="4">Generalsekretariat (GS-EDA) Secrétariat général (SG-DFAE) Segreteria generale (SG-DFAE) Secretariat general (SG-DFAE)</td></tr>
-<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.2</td><td colspan="4">Staatssekretariat (STS) Secrétariat d’Etat (SEE) Segreteria di Stato (SES) Secretariat da stadi (SES)</td></tr>
-<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.3</td><td colspan="4">Politische Direktion (PD) Direction politique (DP) Direzione politica (DP) Direcziun politica (DP)</td></tr>
-<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.4</td><td colspan="4">Direktion für Völkerrecht (DV) Direction du droit international public (DDIP) Direzione del diritto internazionale pubblico (DDIP) Direcziun da dretg internaziunal public (DDIP)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.2</td><td colspan="4">Staatssekretariat EDA Secrétariat d’Etat du DFAE Segreteria di Stato del DFAE Secretariat da stadi dal DFAE</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.3</td><td colspan="2">*Abrogato*</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.4</td><td colspan="2">Direktion für Völkerrecht (DV) Direction du droit international public (DDIP) Direzione del diritto internazionale pubblico (DDIP) Direcziun da dretg internaziunal public (DDIP)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.5</td><td colspan="4">Direktion für Entwicklung und Zusammenarbeit (DEZA) Direction du développement et de la coopération (DDC) Direzione dello sviluppo e della cooperazione (DSC) Direcziun da svilup e da cooperaziun (DSC)</td></tr>
-<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.6</td><td colspan="2">Direktion für europäische Angelegenheiten (DEA) Direction des affaires européennes (DAE) Direzione degli affari europei (DAE) Direcziun dals affars europeics (DAE)</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.6</td><td colspan="2">*Abrogato*</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.7</td><td colspan="2">Direktion für Ressourcen (DR) Direction des ressources (DR) Direzione delle risorse (DR) Direcziun da resursas (DR)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td>1.8</td><td colspan="2">Konsularische Direktion (KD) Direction consulaire (DC) Direzione consolare (DC) Direcziun consulara (DC)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2">**2.**</td><td colspan="3">**Unità amministrative dell’Amministrazione federale** decentralizzata**:**</td></tr>
@@ -1458,7 +1458,7 @@ L’Amministrazione federale consta delle seguenti unità amministrative:
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.1</td><td colspan="3">Schweizerisches Nationalmuseum (SNM) Musée national suisse (MNS) Museo nazionale svizzero (MNS) Museum naziunal svizzer (MNS)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.2</td><td colspan="3">Pro Helvetia Pro Helvetia Pro Helvetia Pro Helvetia</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.3</td><td colspan="3">Schweizerisches Heilmittelinstitut (Swissmedic) Institut suisse des produits thérapeutiques (Swissmedic) Istituto svizzero per gli agenti terapeutici (Swissmedic) Institut svizzer per products terapeutics (Swissmedic)</td></tr>
-<tr><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.4</td><td colspan="4">Compenswiss (Ausgleichsfonds AHV/IV/EO) compenswiss (Fonds de compensation AVS/AI/APG) compenswiss (Fondi di compensazione AVS/AI/IPG) Compenswiss ...</td></tr>
+<tr><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">2.2.4</td><td colspan="4">Compenswiss (Ausgleichsfonds AHV/IV/EO) compenswiss (Fonds de compensation AVS/AI/APG) compenswiss (Fondi di compensazione AVS/AI/IPG) Compenswiss (Fonds da compensaziun AVS/AI/UCG)</td></tr>
 <tr><td></td><td></td><td colspan="3"></td><td colspan="2">**2.3**</td><td colspan="4">**Società anonime con una partecipazione maggioritaria della Confederazione:**</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">Nessuna</td></tr>
 </table>
@@ -1472,7 +1472,7 @@ L’Amministrazione federale consta delle seguenti unità amministrative:
 <tr><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="2">1.4</td><td colspan="3">Staatssekretariat für Migration (SEM) Secrétariat d’Etat aux migrations (SEM) Segreteria di Stato della migrazione (SEM) Secretariat da stadi per migraziun (SEM)</td></tr>
 <tr><td></td><td colspan="3"></td><td colspan="2">**2.**</td><td colspan="5">**Unità amministrative dell’Amministrazione federale** decentralizzata**:**</td></tr>
 <tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4">**2.1**</td><td colspan="2">**Unità amministrative senza personalità giuridica autonome sul piano organizzativo:**</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4"></td><td>2.1.1</td><td>...</td></tr>
+<tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4"></td><td>2.1.1</td><td>*Abrogato*</td></tr>
 <tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4"></td><td>2.1.2</td><td>Dienst Überwachung Post- und Fernmeldeverkehr (ÜPF) Service Surveillance de la correspondance par poste et télécommunication (SCPT) Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (SCPT) Servetsch da surveglianza dal traffic da posta e da telecommunicaziun (STPT)</td></tr>
 <tr><td colspan="2"></td><td></td><td colspan="2"></td><td colspan="4"></td><td>2.1.3</td><td>Kommission zur Verhütung von Folter Commission de prévention de la torture Commissione per la prevenzione della tortura Cumissiun per la prevenziun cunter la tortura</td></tr>
 <tr><td colspan="2"></td><td></td><td colspan="4"></td><td colspan="2">**2.2**</td><td colspan="2">**Enti, istituti e fondazioni autonomi sul piano giuridico:**</td></tr>
@@ -1544,7 +1544,7 @@ L’Amministrazione federale consta delle seguenti unità amministrative:
 <tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.1</td><td colspan="2">Schweiz Tourismus (ST) Suisse Tourisme (ST) Svizzera Turismo (ST) Svizra Turissem (ST)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.2</td><td colspan="2">Schweizerische Gesellschaft für Hotelkredit (SGH) Société suisse de crédit hôtelier (SCH) Società svizzera di credito alberghiero (SCA) Societad svizra da credit d’hotel (SCH)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.3</td><td colspan="2">Schweizerische Exportrisikoversicherung (SERV) Assurance suisse contre les risques à l’exportation (ASRE) Assicurazione svizzera contro i rischi delle esportazioni (ASRE) Assicuranza svizra cunter las ristgas da l’export (ASRE)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.4</td><td colspan="2">Eidgenössisches Hochschulinstitut für Berufsbildung (EHB) Institut fédéral des hautes études en formation professionnelle (IFFP) Istituto universitario federale per la formazione professionale (IUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.4[^annex1-lvlu1-1]</td><td colspan="2">Eidgenössische Hochschule für Berufsbildung (EHB) Haute école fédérale en formation professionnelle (HEFP) Scuola universitaria federale per la formazione professionale (SUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.5</td><td colspan="2">Eidgenössische Technische Hochschule Zürich (ETHZ) Ecole polytechnique fédérale de Zürich (EPFZ) Politecnico federale di Zurigo (PFZ) Scola politecnica federala Turitg (SPFT)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.6</td><td colspan="2">Eidgenössische Technische Hochschule Lausanne (ETHL) Ecole polytechnique fédérale de Lausanne (EPFL) Politecnico federale di Losanna (PFL) Scola politecnica federala Losanna (SPFL)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="2">2.2.7</td><td colspan="2">Paul-Scherrer-Institut (PSI) Institut Paul Scherrer (PSI) Istituto Paul Scherrer (PSI) Institut Paul Scherrer (PSI)</td></tr>
@@ -1580,6 +1580,8 @@ L’Amministrazione federale consta delle seguenti unità amministrative:
 <tr><td></td><td></td><td></td><td>**2.3**</td><td colspan="3">**Società anonime con una partecipazione maggioritaria della Confederazione:**</td></tr>
 <tr><td></td><td></td><td></td><td></td><td colspan="3">Nessuna</td></tr>
 </table>
+
+[^annex1-lvlu1-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° ago. 2021.
 
 Allegato 2*[^t-2]*
 

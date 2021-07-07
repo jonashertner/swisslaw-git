@@ -4,11 +4,11 @@ title: Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998 
 short: RVOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: de
-version: 2021-04-01
+version: 2021-07-08
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20210708/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20210708-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210708/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20210401/de"
 
 (RVOV)
 
-vom 25. November 1998 (Stand am 1. April 2021)
+vom 25. November 1998 (Stand am 8. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1414,7 +1414,7 @@ Anhang 1*[^t-1]*
 
 ## Liste der Verwaltungseinheiten der Bundesverwaltung
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 30. Juni 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Bereinigt gemäss Ziff. I der V vom 27. Okt. 2010 ([AS 2010 5047](https://fedlex.data.admin.ch/eli/oc/2010/721)), Art. 15 der V vom 20. April 2011 ([AS 2011 1631](https://fedlex.data.admin.ch/eli/oc/2011/248)), Ziff. II der V vom 17. Aug. 2011 ([AS 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)), Anhang Ziff. 1 der Organisationsverordnung SUST vom 23. März 2011 ([AS 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652)), Ziff. I der V vom 30. Nov. 2011 ([AS 2011 6091](https://fedlex.data.admin.ch/eli/oc/2011/843)), Anhang Ziff. 1 der Bundesinformatikverordnung vom 9. Dez. 2011 ([AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)), Anhang Ziff. 2 der V vom 21. Nov. 2012 über das Eidgenössische Institut für Metrologie ([AS 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)) und Ziff. I 2 Abs. 1 der V vom 15. Juni 2012 (Neugliederung der Departemente) ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), Berichtigung vom 28. Dez. 2012 ([AS 2012 7499](https://fedlex.data.admin.ch/eli/oc/2012/900)), Berichtigung vom 15. Jan. 2013 ([AS 2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)), Ziff. II der V vom 8. Mai 2013 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)), vom 28. Nov. 2014 ([AS 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)) vom 28. Jan. 2015 ([AS 2015 423](https://fedlex.data.admin.ch/eli/oc/2015/62)), Ziff. I der V vom 7. Okt. 2015 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)), Anhang Ziff. 2 der V vom 16. Aug. 2017 über die Aufsicht über die nachrichtendienstlichen Tätigkeiten ([AS 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), Anhang 2 Ziff. II 1 der V vom 29. März 2017 über die Strukturen der Armee ([AS 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)), Anhang 2 Ziff. II 2 der Alkoholverordnung vom 15. Sept. 2017 ([AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)), Anhang Ziff. 1 der V vom 15. Nov. 2017 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), Anhang 6 Ziff. II 1 der Arzneimittelverordnung vom 21. Sept. 2018 ([AS 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)), Ziff. II der V vom 7. Nov. 2018 ([AS 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)), Ziff. I der V vom 30. Nov. 2018 ([AS 2018 4737](https://fedlex.data.admin.ch/eli/oc/2018/751)), Ziff. I 1 der OBI-Verordnung vom 13. Mai 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)) und Anhang Ziff. 2 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 30. Juni 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Bereinigt gemäss Ziff. I der V vom 27. Okt. 2010 ([AS 2010 5047](https://fedlex.data.admin.ch/eli/oc/2010/721)), Art. 15 der V vom 20. April 2011 ([AS 2011 1631](https://fedlex.data.admin.ch/eli/oc/2011/248)), Ziff. II der V vom 17. Aug. 2011 ([AS 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)), Anhang Ziff. 1 der Organisationsverordnung SUST vom 23. März 2011 ([AS 2011 4589](https://fedlex.data.admin.ch/eli/oc/2011/652)), Ziff. I der V vom 30. Nov. 2011 ([AS 2011 6091](https://fedlex.data.admin.ch/eli/oc/2011/843)), Anhang Ziff. 1 der Bundesinformatikverordnung vom 9. Dez. 2011 ([AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)), Anhang Ziff. 2 der V vom 21. Nov. 2012 über das Eidgenössische Institut für Metrologie ([AS 2012 6887](https://fedlex.data.admin.ch/eli/oc/2012/832)) und Ziff. I 2 Abs. 1 der V vom 15. Juni 2012 (Neugliederung der Departemente) ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)), Berichtigung vom 28. Dez. 2012 ([AS 2012 7499](https://fedlex.data.admin.ch/eli/oc/2012/900)), Berichtigung vom 15. Jan. 2013 ([AS 2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)), Ziff. II der V vom 8. Mai 2013 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)), vom 28. Nov. 2014 ([AS 2014 4451](https://fedlex.data.admin.ch/eli/oc/2014/741)) vom 28. Jan. 2015 ([AS 2015 423](https://fedlex.data.admin.ch/eli/oc/2015/62)), Ziff. I der V vom 7. Okt. 2015 ([AS 2015 4043](https://fedlex.data.admin.ch/eli/oc/2015/675)), Anhang Ziff. 2 der V vom 16. Aug. 2017 über die Aufsicht über die nachrichtendienstlichen Tätigkeiten ([AS 2017 4231](https://fedlex.data.admin.ch/eli/oc/2017/497)), Anhang 2 Ziff. II 1 der V vom 29. März 2017 über die Strukturen der Armee ([AS 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)), Anhang 2 Ziff. II 2 der Alkoholverordnung vom 15. Sept. 2017 ([AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)), Anhang Ziff. 1 der V vom 15. Nov. 2017 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)), Anhang 6 Ziff. II 1 der Arzneimittelverordnung vom 21. Sept. 2018 ([AS 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)), Ziff. II der V vom 7. Nov. 2018 ([AS 2018 4573](https://fedlex.data.admin.ch/eli/oc/2018/717)), Ziff. I der V vom 30. Nov. 2018 ([AS 2018 4737](https://fedlex.data.admin.ch/eli/oc/2018/751)), Ziff. I 1 der OBI-Verordnung vom 13. Mai 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)), Anhang Ziff. 2 der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5893](https://fedlex.data.admin.ch/eli/oc/2020/989)) und Berichtigung vom 8. Juli 2021 ([AS 2021 429](https://fedlex.data.admin.ch/eli/oc/2021/429)).
 
 Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 
@@ -1442,11 +1442,11 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td></td><td>I.</td><td colspan="3">Eidgenössisches Departement für auswärtige Angelegenheiten (EDA) Département fédéral des affaires étrangères (DFAE) Dipartimento federale degli affari esteri (DFAE) Departament federal d’affars exteriurs (DFAE)</td></tr>
 <tr><td></td><td></td><td>**1.**</td><td colspan="2">**Verwaltungseinheiten der** zentralen **Bundesverwa****l****tung:**</td></tr>
 <tr><td></td><td></td><td></td><td>1.1</td><td>Generalsekretariat (GS-EDA) Secrétariat général (SG-DFAE) Segreteria generale (SG-DFAE) Secretariat general (SG-DFAE)</td></tr>
-<tr><td></td><td></td><td></td><td>1.2</td><td>Staatssekretariat (STS) Secrétariat d’Etat (SEE) Segreteria di Stato (SES) Secretariat da stadi (SES)</td></tr>
-<tr><td></td><td></td><td></td><td>1.3</td><td>Politische Direktion (PD) Direction politique (DP) Direzione politica (DP) Direcziun politica (DP)</td></tr>
+<tr><td></td><td></td><td></td><td>1.2</td><td>Staatssekretariat EDA Secrétariat d’Etat du DFAE Segreteria di Stato del DFAE Secretariat da stadi dal DFAE</td></tr>
+<tr><td></td><td></td><td></td><td>1.3</td><td>*Aufgehoben*</td></tr>
 <tr><td></td><td></td><td></td><td>1.4</td><td>Direktion für Völkerrecht (DV) Direction du droit international public (DDIP) Direzione del diritto internazionale pubblico (DDIP) Direcziun da dretg internaziunal public (DDIP)</td></tr>
 <tr><td></td><td></td><td></td><td>1.5</td><td>Direktion für Entwicklung und Zusammenarbeit (DEZA) Direction du développement et de la coopération (DDC) Direzione dello sviluppo e della cooperazione (DSC) Direcziun da svilup e da cooperaziun (DSC)</td></tr>
-<tr><td></td><td></td><td></td><td>1.6</td><td>Direktion für europäische Angelegenheiten (DEA) Direction des affaires européennes (DAE) Direzione degli affari europei (DAE) Direcziun dals affars europeics (DAE)</td></tr>
+<tr><td></td><td></td><td></td><td>1.6</td><td>*Aufgehoben*</td></tr>
 <tr><td></td><td></td><td></td><td>1.7</td><td>Direktion für Ressourcen (DR) Direction des ressources (DR) Direzione delle risorse (DR) Direcziun da resursas (DR)</td></tr>
 <tr><td></td><td></td><td></td><td>1.8</td><td>Konsularische Direktion (KD) Direction consulaire (DC) Direzione consolare (DC) Direcziun consulara (DC)</td></tr>
 <tr><td></td><td></td><td>**2.**</td><td colspan="2">**Verwaltungseinheiten der** dezentralen **Bundesverwa****l****tung:**</td></tr>
@@ -1472,7 +1472,7 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.1</td><td colspan="2">Schweizerisches Nationalmuseum (SNM) Musée national suisse (MNS) Museo nazionale svizzero (MNS) Museum naziunal svizzer (MNS)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.2</td><td colspan="2">Pro Helvetia Pro Helvetia Pro Helvetia Pro Helvetia</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td>2.2.3</td><td colspan="2">Schweizerisches Heilmittelinstitut (Swissmedic) Institut suisse des produits thérapeutiques (Swissmedic) Istituto svizzero per gli agenti terapeutici (Swissmedic) Institut svizzer per products terapeutics (Swissmedic)</td></tr>
-<tr><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td>2.2.4</td><td colspan="2">Compenswiss (Ausgleichsfonds AHV/IV/EO) compenswiss (Fonds de compensation AVS/AI/APG) compenswiss (Fondi die compensazione AVS/AI/IPG) Compenswiss ...</td></tr>
+<tr><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td>2.2.4</td><td colspan="2">Compenswiss (Ausgleichsfonds AHV/IV/EO) compenswiss (Fonds de compensation AVS/AI/APG) compenswiss (Fondi die compensazione AVS/AI/IPG) Compenswiss (Fonds da cumpensaziun AVS/AI/UCG)</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.3**</td><td colspan="3">**Aktiengesellschaften mit Mehrheitsbeteiligung des Bu****n****des:**</td></tr>
 <tr><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">Keine</td></tr>
 </table>
@@ -1486,7 +1486,7 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">1.4</td><td colspan="3">Staatssekretariat für Migration (SEM) Secrétariat d’Etat aux migrations (SEM) Segreteria di Stato della migrazione (SEM) Secretariat da stadi per migraziun (SEM)</td></tr>
 <tr><td></td><td colspan="3"></td><td colspan="3">**2.**</td><td colspan="5">**Verwaltungseinheiten der** dezentralen **Bundesverwa****l****tung:**</td></tr>
 <tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td>**2.1**</td><td colspan="4">**Organisatorisch verselbstständigte Verwaltungseinheiten ohne Rechtspersö****n****lichkeit:**</td></tr>
-<tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td></td><td colspan="2">2.1.1</td><td colspan="2">...</td></tr>
+<tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td></td><td colspan="2">2.1.1</td><td colspan="2">*Aufgehoben*</td></tr>
 <tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td></td><td colspan="2">2.1.2</td><td colspan="2">Dienst Überwachung Post- und Fernmeldeverkehr (ÜPF) Service Surveillance de la correspondance par poste et télécommunication (SCPT) Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (SCPT) Servetsch da surveglianza dal traffic da posta e da telecommunicaziun (STPT)</td></tr>
 <tr><td colspan="2"></td><td colspan="3"></td><td colspan="2"></td><td></td><td colspan="2">2.1.3</td><td colspan="2">Kommission zur Verhütung von Folter Commission de prévention de la torture Commissione per la prevenzione della tortura Cumissiun per la prevenziun cunter la tortura</td></tr>
 <tr><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="2">**2.2**</td><td colspan="3">**Rechtlich verselbstständigte Körperschaften, Anstalten und Sti****f****tungen:**</td></tr>
@@ -1560,7 +1560,7 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td></td><td></td><td></td><td></td><td>2.2.1</td><td>Schweiz Tourismus (ST) Suisse Tourisme (ST) Svizzera Turismo (ST) Svizra Turissem (ST)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.2</td><td>Schweizerische Gesellschaft für Hotelkredit (SGH) Société suisse de crédit hôtelier (SCH) Società svizzera di credito alberghiero (SCA) Societad svizra da credit d’hotel (SCH)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.3</td><td>Schweizerische Exportrisikoversicherung (SERV) Assurance suisse contre les risques à l’exportation (ASRE) Assicurazione svizzera contro i rischi delle esportazioni (ASRE) Assicuranza svizra cunter las ristgas da l’export (ASRE)</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>2.2.4</td><td>Eidgenössisches Hochschulinstitut für Berufsbildung (EHB) Institut fédéral des hautes études en formation professionnelle (IFFP) Istituto universitario federale per la formazione professionale (IUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>[tab] 2.2.4 [^annex1-lvlu1-1]</td><td>Eidgenössische Hochschule für Berufsbildung (EHB) Haute école fédérale en formation professionnelle (HEFP) Scuola universitaria federale per la formazione professionale (SUFFP) Institut federal da scola auta per la furmaziun professiunala (IFFP)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.5</td><td colspan="2">Eidgenössische Technische Hochschule Zürich (ETHZ) Ecole polytechnique fédérale de Zürich (EPFZ) Politecnico federale di Zurigo (PFZ) Scola politecnica federala Turitg (SPFT)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.6</td><td colspan="2">Eidgenössische Technische Hochschule Lausanne (ETHL) Ecole polytechnique fédérale de Lausanne (EPFL) Politecnico federale di Losanna (PFL) Scola politecnica federala Losanna (SPFL)</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>2.2.7</td><td colspan="2">Paul-Scherrer-Institut (PSI) Institut Paul Scherrer (PSI) Istituto Paul Scherrer (PSI) Institut Paul Scherrer (PSI)</td></tr>
@@ -1593,6 +1593,8 @@ Die Bundesverwaltung besteht aus den folgenden Verwaltungseinheiten:
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2">**2.3**</td><td colspan="3">**Aktiengesellschaften mit Mehrheitsbeteiligung des Bu****n****des:**</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="3">Keine</td></tr>
 </table>
+
+[^annex1-lvlu1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. August 2021 angepasst.
 
 Anhang 2*[^t-2]*
 
