@@ -4,13 +4,12 @@ number: "153.310"
 title: Verordnung über den Datenmarkt
 short: "Datenmarktverordnung, DMV"
 language: de
-version: 2019-05-01
-valid_until: 2021-07-07
-version_adopted: 2017-07-04
+version: 2021-07-08
+version_adopted: 2021-06-29
 adopted: 2017-07-04
 in_force: 2017-07-13
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/153.310"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4649/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5295/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Datenmarktverordnung | Regierung und Verwaltung / Verwaltungsgebühren
 
 (Datenmarktverordnung, DMV)
 
-Vom 4. Juli 2017 (Stand 1. Mai 2019)
+Vom 4. Juli 2017 (Stand 8. Juli 2021)
 
 *Vorwort*
 
@@ -33,8 +32,8 @@ gestützt auf § 4 des Gesetzes betreffend die Organisation des Regierungsrates 
 
 beschliesst:
 
-[^ingress-1]: SG [153.100](https://www.gesetzessammlung.bs.ch/data/153.100/de).
-[^ingress-2]: SG [153.260](https://www.gesetzessammlung.bs.ch/data/153.260/de).
+[^ingress-1]: SG [153.100](https://www.gesetzessammlung.bs.ch/data/153.100/de)
+[^ingress-2]: SG [153.260](https://www.gesetzessammlung.bs.ch/data/153.260/de)
 
 #### § 1
 
@@ -47,6 +46,8 @@ beschliesst:
 **Zweck und Inhalt des Datenmarkts**
 
 <sup>1</sup> Im Datenmarkt werden den öffentlichen Organen gemäss § 3 Abs. 1 IDG Personen- und Sachdaten, die von mehr als einem öffentlichen Organ zur Erfüllung seiner gesetzlichen Aufgaben benötigt werden, tagesaktuell auf einer zentralen Plattform zur Verfügung gestellt.
+
+<sup>2</sup> Kantonal anerkannte Religionsgemeinschaften gemäss § 133 der Verfassung des Kantons Basel-Stadt vom 23. März 2005, denen das Recht verliehen wurde, Daten zu beziehen, wird das gleiche Zugangsrecht auf die Daten ihrer Konfessionszugehörigen gewährt.
 
 #### § 3
 
@@ -105,14 +106,14 @@ beschliesst:
 
 **Leistungserbringerin**
 
-<sup>1</sup> Die Zentralen Informatikdienste (ZID) sind als Leistungserbringerin des Datenmarktes insbesondere zuständig für
+<sup>1</sup> IT BS ist als Leistungserbringerin des Datenmarktes insbesondere zuständig für
 
 - a) den technischen Betrieb und die technische Sicherheit der zentralen Plattform;
 - b) den Aufbau und die Weiterentwicklung der zentralen Plattform;
 - c) die Qualitätssicherung, insbesondere Dublettenbereinigung;
 - d) die Freischaltung von Daten gestützt auf ein genehmigtes Gesuch um Abruf.
 
-<sup>2</sup> Zur Erfüllung der Aufgaben gemäss Abs. 1 wird eine Servicevereinbarung zwischen den ZID und der KOI abgeschlossen.
+<sup>2</sup> Zur Erfüllung der Aufgaben gemäss Abs. 1 wird eine Servicevereinbarung zwischen IT BS und der KOI abgeschlossen.
 
 <sup>3</sup> Die Funktionen Entwicklung, Systemadministration und Qualitätssicherung dürfen nicht durch die für die Zugriffsverwaltung und das Autorisierungsverfahren zuständigen Personen wahrgenommen werden.
 
