@@ -4,13 +4,12 @@ number: BeE 786.100
 title: Ordnung der Abfallbehandlung in der Gemeinde Bettingen
 short: Abfallordnung
 language: de
-version: 2018-02-08
-valid_until: 2021-07-07
-version_adopted: 2017-12-05
+version: 2021-07-08
+version_adopted: 2021-06-08
 adopted: 1992-12-08
 in_force: 1993-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20786.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4382/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5296/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Abfallordnung | Bettingen: Einwohnergemeinde[^t-1]
 
 (Abfallordnung)
 
-Vom 8. Dezember 1992 (Stand 8. Februar 2018)
+Vom 8. Dezember 1992 (Stand 8. Juli 2021)
 
 Die Gemeindeversammlung der Einwohnergemeinde Bettingen,
 
@@ -30,8 +29,8 @@ gestützt auf § 9 des Gemeindegesetzes des Kantons Basel-Stadt vom 17. Oktober 
 beschliesst:
 
 [^t-1]: Vom Regierungsrat genehmigt am 30. 3. 1993.
-[^ingress-1]: SG [170.100](https://www.gesetzessammlung.bs.ch/data/170.100/de).
-[^ingress-2]: [BeE 111.100](https://www.gesetzessammlung.bs.ch/data/BeE%20111.100/de).
+[^ingress-1]: SG [170.100](https://www.gesetzessammlung.bs.ch/data/170.100/de)
+[^ingress-2]: [BeE 111.100](https://www.gesetzessammlung.bs.ch/data/BeE%20111.100/de)
 
 ## I. Allgemeines
 
@@ -70,6 +69,16 @@ beschliesst:
 #### § 5
 
 **…**
+
+#### § 5a
+
+**Beseitigungsverbote**
+
+<sup>1</sup> Jede Beseitigung von Siedlungsabfällen ausser auf die vorgeschriebene Art ist verboten. Insbesondere ist untersagt:
+
+- a) Abfälle der Kanalisation und Gewässern zu übergeben;
+- b) Abfälle abzulagern, zu vergraben oder versickern zu lassen;
+- c) Haushaltabfälle oder sperrige Güter in den Abfallbehältern auf Strassen, Plätzen und in den öffentlichen Anlagen zu deponieren.
 
 #### § 6
 
@@ -292,7 +301,7 @@ beschliesst:
 
 **Übertretungen**
 
-<sup>1</sup> Zuwiderhandlungen gegen die Bestimmungen dieser Ordnung werden, vorbehältlich anderer eidgenössischer und kantonaler Strafbestimmungen, nach §§ 25 und 54 lit. b des Kantonalen Übertretungsstrafgesetzes vom 15. Juni 1978 mit Haft oder Busse bestraft.
+<sup>1</sup> Mit Busse wird bestraft, wer den Vorschriften dieser Ordnung zuwiderhandelt, soweit nicht andere eidgenössische oder kantonale Strafbestimmungen zur Anwendung gelangen.
 
 ## VIII. Inkrafttreten, Genehmigungsvorbehalt, Publikation
 
