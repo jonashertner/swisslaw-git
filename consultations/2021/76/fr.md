@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi fédérale sur les étrangers et l’intégration: test de dépistage du COVID-19 en cas de renvoi ou d’expulsion"
 document: Projet mis en consultation
 language: fr

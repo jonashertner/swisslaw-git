@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Bundesgesetzes über die Ausländerinnen und Ausländer und über die Integration (AIG): Covid-19-Test bei der Ausschaffung"
 document: Vernehmlassungsvorlage
 language: de

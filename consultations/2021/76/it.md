@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge federale sugli stranieri e la loro integrazione (LStrI): test Covid-19 in caso di rinvio coatto"
 document: Progetto posto in consultazione
 language: it
