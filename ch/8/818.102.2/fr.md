@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2021-07-03
+version: 2021-07-08
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210703/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210703-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210703/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210708/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210708-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210708/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210703/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 3 juillet 2021)
+du 4 juin 2021 (Etat le 8 juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -277,7 +277,8 @@ Un certificat de test COVID-19 est établi lors du résultat négatif:
 
 - a. d’une analyse de biologie moléculaire pour le SARS-CoV-2;
 - b.[^19-1] d’un test rapide SARS-CoV-2 avec application par un professionnel visé à l’art. 24*a* de l’ordonnance 3 COVID-19 du 19 juin 2020[^19-2], à condition que le test soit autorisé dans l’UE pour la délivrance d’un «certificat COVID numérique de l’UE».
-- [tab] <sup>1bis</sup> L’OFSP tient à jour une liste des tests rapides SARS-CoV-2 visés à l’al. 1, let. b, et la publie sur son site Internet[^19-3].[^19-4]
+
+<sup>1bis</sup> L’OFSP tient à jour une liste des tests rapides SARS-CoV-2 visés à l’al. 1, let. b, et la publie sur son site Internet[^19-3].[^19-4]
 
 <sup>2</sup> Les demandes d’établissement de certificats de test peuvent être présentées au plus tard lors du prélèvement de l’échantillon.
 
@@ -563,11 +564,13 @@ La durée de validité, calculée à partir du prélèvement de l’échantillon
 - f. Résultat du test («négatif»)
 - g. Centre de test ou institution où le test a été effectué
 
-Annexe 5
+Annexe 5*[^t-4]*
 
 (art. 22, al. 1 et 2, et 23, al. 1 et 2)
 
 ## Liste des certificats étrangers reconnus
+
+[^t-4]: Mise à jour par l’erratum du 8 juil. 2021, ne concerne que le texte italien ([RO 2021 430](https://fedlex.data.admin.ch/eli/oc/2021/430)).
 
 ### 1 Certificats reconnus établis par un État membre de l’UE ou de l’AELE
 

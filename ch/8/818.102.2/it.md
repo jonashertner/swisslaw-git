@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-07-03
+version: 2021-07-08
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210703/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210703-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210703/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210708/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210708-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210708/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210703/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 3 luglio 2021)
+del 4 giugno 2021 (Stato 8 luglio 2021) (Stato 8 luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -564,10 +564,24 @@ La durata è calcolata a partire dal prelievo del campione ed è di:
 - f. Risultato del test («negativo»)
 - g. Centro di test o istituzione presso cui è stato eseguito il test
 
-Allegato 5
+Allegato 5*[^t-4]*
 
 (art. 22 cpv. 1 e 2, 23 cpv. 1 e 2)
 
 ## Elenco dei certificati esteri riconosciuti
 
+[^t-4]: Aggiornato dalla correzione dell’8 lug. 2021 ([RU 2021 430](https://fedlex.data.admin.ch/eli/oc/2021/430)).
+
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
+
+<table>
+<tr><th>Stato</th><th></th><th>Certificati di vaccinazione</th><th>Certificati di guarigione</th><th>Certificati di test</th></tr>
+<tr><td>…</td><td></td><td>;</td><td></td><td></td></tr>
+</table>
+
+### 2 Altri certificati esteri riconosciuti
+
+<table>
+<tr><th>Stato</th><th></th><th>Certificati di vaccinazione</th><th>Certificati di guarigione</th><th>Certificati di test</th></tr>
+<tr><td>…</td><td></td><td>;</td><td></td><td></td></tr>
+</table>

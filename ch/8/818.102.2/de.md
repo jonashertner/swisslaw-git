@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-07-03
+version: 2021-07-08
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210703/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210703-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210703/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210708/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210708-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210708/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210703/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 3. Juli 2021)
+vom 4. Juni 2021 (Stand am 8. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -566,11 +566,13 @@ Anhang 4*[^t-3]*
 - f. Testergebnis («negativ»)
 - g. Testzentrum oder Institution, wo der Test durchgeführt wurde
 
-Anhang 5
+Anhang 5*[^t-4]*
 
 (Art. 22 Abs. 1 und 2 sowie 23 Abs. 1 und 2)
 
 ## Liste der anerkannten ausländischen Zertifikate
+
+[^t-4]: Die Berichtigung vom 8. Juli 2021 betrifft nur den italienischen Text ([AS 2021 430](https://fedlex.data.admin.ch/eli/oc/2021/430)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder einem EFTA-Staat ausgestellt wurden
 
