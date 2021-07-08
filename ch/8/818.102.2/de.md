@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-07-08
+version: 2021-07-09
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210708/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210708-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210708/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210709/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210709-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210709/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210708/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 8. Juli 2021)
+vom 4. Juni 2021 (Stand am 9. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -568,22 +568,26 @@ Anhang 4*[^t-3]*
 
 Anhang 5*[^t-4]*
 
-(Art. 22 Abs. 1 und 2 sowie 23 Abs. 1 und 2)
+(Art. 22 sowie 23 Abs. 1 und 2)
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-4]: Die Berichtigung vom 8. Juli 2021 betrifft nur den italienischen Text ([AS 2021 430](https://fedlex.data.admin.ch/eli/oc/2021/430)).
+[^t-4]: Fassung gemäss Ziff. I der V vom 7. Juli 2021, in Kraft seit 9. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)).
 
-### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder einem EFTA-Staat ausgestellt wurden
+### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
-<table>
-<tr><th>Staat</th><th></th><th>Impfzertifikate</th><th>Genesungszertifikate</th><th>Testzertifikate</th></tr>
-<tr><td>...</td><td></td><td>;</td><td></td><td></td></tr>
-</table>
+- 1\.1. Anerkannt sind die Impf-, Genesungs- und Testzertifikate, die von einem Mitgliedstaat der EU oder der EFTA nach der Verordnung (EU) 2021/953[^annex5-lvlu1-lvl1-1] sowie den gestützt darauf erlassenen EU-Rechtsakten ausgestellt wurden.
+- 1\.2
+
+  Impfzertifikate sind nur anerkannt, wenn sie für Impfungen mit einem Impfstoff ausgestellt wurden, der:
+
+  - a. über eine Zulassung der Europäischen Arzneimittelagentur für die EU verfügt; oder
+  - b. gemäss dem «WHO Emergency Use Listing» zugelassen ist.
 
 ### 2 Weitere anerkannte ausländische Zertifikate
 
+[^annex5-lvlu1-lvl1-1]: Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates vom 14. Juni 2021 über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie, Fassung gemäss ABl. L 211 vom 15.6.2021, S. 1.
+
 <table>
 <tr><th>Staat</th><th></th><th>Impfzertifikate</th><th>Genesungszertifikate</th><th>Testzertifikate</th></tr>
-<tr><td>...</td><td></td><td>;</td><td></td><td></td></tr>
 </table>
