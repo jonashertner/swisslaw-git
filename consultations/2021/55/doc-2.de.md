@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Tierarzneimittelverordnung und der Verordnung über das Informationssystem Antibiotika in der Veterinärmedizin
 document: Vernehmlassungsvorlage-2
 language: de

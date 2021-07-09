@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur les médicaments vétérinaires et de l’ordonnance concernant le système d’information sur les antibiotiques en médecine vétérinaire
 document: Projet mis en consultation-2
 language: fr
