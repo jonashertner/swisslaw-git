@@ -4,13 +4,13 @@ number: 835a
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: VCov19
 language: de
-version: 2021-06-01
-valid_until: 2021-07-09
-version_adopted: 2021-05-28
+version: 2021-07-10
+valid_until: 2021-09-05
+version_adopted: 2021-07-06
 adopted: 2021-12-03
 in_force: 2021-12-06
 url: "https://srl.lu.ch/app/de/texts_of_law/835a"
-pdf: "https://srl.lu.ch/api/de/versions/3747/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3764/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://srl.lu.ch/api/de/versions/3747/pdf_file"
 
 (VCov19)
 
-vom 13.10.2020 (Stand 01.06.2021)
+vom 13.10.2020 (Stand 10.07.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf Artikel 40 des Epidemiengesetzes vom 28. September 2012[^ingress-1], Artikel 8 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^ingress-2] und § 54 Absatz 1 des Gesundheitsgesetzes vom 13. September 2005[^ingress-3],
+gestützt auf Artikel 40 des Epidemiengesetzes vom 28. September 2012[^ingress-1], Artikel 23 Absatz 1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^ingress-2] und § 54 Absatz 1 des Gesundheitsgesetzes vom 13. September 2005[^ingress-3],
 
 auf Antrag des Gesundheits- und Sozialdepartementes,
 
@@ -83,25 +83,13 @@ beschliesst:
 
 #### § 4a
 
-**Öffentlicher Verkehr**
-
-<sup>1</sup> Das eigenfinanzierte Nachtnetz-Angebot der Transportunternehmen auf den Linien des öffentlichen Personenverkehrs ist einzustellen.
+**…**
 
 ## 3 Massnahmen gegenüber Personen
 
 #### § 5
 
-**Pflichten der Betreiberinnen und Betreiber von Einrichtungen und Betrieben mit Maskenpflicht**
-
-<sup>1</sup> …
-
-<sup>2</sup> …
-
-<sup>3</sup> …
-
-<sup>4</sup> Betreiberinnen und Betreiber von Einrichtungen und Betrieben, in deren öffentlich zugänglichen Innenräumen die Maskenpflicht gemäss Artikel 3b Absatz 1 der Covid-19-Verordnung besondere Lage[^5-1] gilt, haben die Kundinnen und Kunden beziehungsweise die Besucherinnen und Besucher durch gut sichtbare Hinweisschilder bei den Eingängen auf die Maskenpflicht hinzuweisen. Sie sind verpflichtet, die Maskenpflicht in ihrer Einrichtung oder Betrieb durchzusetzen. Personen, die keine Gesichtsmaske tragen, sind auf die Maskenpflicht aufmerksam zu machen. Bei unberechtigter Weigerung, der Maskenpflicht nachzukommen, ist ihnen der Zutritt zu verweigern beziehungsweise sind sie aus der Einrichtung oder dem Betrieb zu verweisen.
-
-[^5-1]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
+**…**
 
 #### § 5a
 
@@ -145,8 +133,8 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>2<sup>bis</sup></sup> Die §§ 4a und 5 gelten bis 30. Juni 2021.
+<sup>2<sup>bis</sup></sup> …
 
-<sup>2<sup>ter</sup></sup> Der § 3b gilt bis 10. Juli 2021.
+<sup>2<sup>ter</sup></sup> Der § 3b gilt bis 1. Oktober 2021.
 
 K 2020 3305 | G 2020-074
