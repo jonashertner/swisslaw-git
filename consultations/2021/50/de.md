@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision des Natur- und Heimatschutzgesetzes (NHG) als indirekter Gegenvorschlag zur Volksinitiative «Für die Zukunft unserer Natur und Landschaft (Biodiversitätsinitiative)»
 document: Vernehmlassungsvorlage
 language: de

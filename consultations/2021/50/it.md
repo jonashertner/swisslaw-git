@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione della legge federale sulla protezione della natura e del paesaggio (LPN) sotto forma di controprogetto indiretto all’iniziativa popolare «Per il futuro della nostra natura e del nostro paesaggio (Iniziativa biodiversità)»
 document: Progetto posto in consultazione
 language: it
