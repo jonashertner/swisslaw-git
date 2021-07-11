@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2021-07-09
+version: 2021-07-12
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210709/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210709-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210709/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210712/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210712-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210712/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210709/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 9 juillet 2021)
+du 4 juin 2021 (Etat le 12 juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -87,7 +87,7 @@ L’émetteur informe le demandeur concernant:
 
 <sup>4</sup> Elle facture aux cantons l’impression et la transmission des certificats de vaccination COVID-19 des personnes qui auront été vaccinées à partir du 15 juillet 2021.[^5-1]
 
-[^5-1]: Introduit par le ch.I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^5-1]: Introduit par le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 6
 
@@ -227,11 +227,11 @@ Un certificat de vaccination COVID-19 est établi pour chaque dose:
 
 #### Art. 14
 
-**Contenu**
+**Contenu**[^14-1]
 
-Les certificats de vaccination COVID-19 contiennent, en plus du contenu général de tous les certificats COVID-19, les indications visées à l’annexe 2 concernant le vaccin COVID-19 administré, notamment celle précisant si la vaccination a été entièrement administrée.[^14-1]
+Les certificats de vaccination COVID-19 contiennent, en plus du contenu général de tous les certificats COVID-19, les indications visées à l’annexe 2 concernant le vaccin COVID-19 administré, notamment celle précisant si la vaccination a été entièrement administrée.
 
-[^14-1]: Nouvelle teneur selon le ch.I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 15
 
@@ -241,7 +241,7 @@ Les certificats de vaccination COVID-19 contiennent, en plus du contenu généra
 
 <sup>2</sup> La période de validité commence au plus tôt le jour où la dernière dose est administrée, pour autant que le vaccin ait été administré entièrement conformément aux exigences visées à l’annexe 2.[^15-1]
 
-[^15-1]: Nouvelle teneur selon le ch.I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ## Section 5 Certificats de guérison COVID-19
 
@@ -282,10 +282,10 @@ Un certificat de test COVID-19 est établi lors du résultat négatif:
 
 <sup>2</sup> Les demandes d’établissement de certificats de test peuvent être présentées au plus tard lors du prélèvement de l’échantillon.
 
-[^19-1]: Nouvelle teneur selon le ch.I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 [^19-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^19-3]: www.bag.admin.ch &gt; Maladies &gt; Maladies infectieuses: flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Informations techniques sur les tests COVID-19
-[^19-4]: Introduit par le ch.I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^19-4]: Introduit par le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 20
 
@@ -372,7 +372,7 @@ L’OFIT exploite un système d’information qui sert à gérer les certificats
 
 #### Art. 28
 
-**Application de stockage**
+**Application de stockage: généralités[^28-1]**
 
 <sup>1</sup> L’OFIT fournit un logiciel que les titulaires de certificats COVID-19 peuvent installer sur leur téléphone portable ou un appareil similaire et utiliser pour la transmission sécurisée et le stockage électronique de leurs certificats.
 
@@ -384,11 +384,33 @@ Le logiciel est régi par les principes suivants:
 - b. le contenu des certificats doit être protégé par des mesures appropriées contre tout accès non autorisé;
 - c. l’OFIT publie le code source et les spécifications techniques du logiciel qu’il fournit.
 
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 12 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+
+#### Art. 28a
+
+**Application de stockage: génération des certificats ne contenant que les données strictement nécessaires**[^28a-1]
+
+<sup>1</sup> L’application de stockage permet de recevoir un certificat à usage national ne contenant que les données strictement nécessaires.
+
+<sup>2</sup> Pour ce faire, le titulaire transmet, au moyen de l’application, un certificat COVID-19 au système d’établissement de certificats COVID-19. Si le certificat transmis est valide, le système génère un certificat ne contenant que les données strictement nécessaires et le transmet à l’application de stockage.
+
+<sup>3</sup>
+
+Le certificat ne contenant que les données strictement nécessaires comprend:
+
+- a. le contenu général visé à l’art. 12, let. a, et à l’annexe 1, ch. 1;
+- b. l’indication qu’il s’agit d’un certificat COVID-19 suisse ne contenant que les données strictement nécessaires;
+- c. la date de fin de validité du certificat.
+
+<sup>4</sup> La durée de validité du certificat ne contenant que les données strictement nécessaires correspond à la durée de validité la plus courte des certificats de test COVID-19 conformément à l’annexe 4; elle s’éteint dans tous les cas au moment de l’arrivée à échéance du certificat sur lequel il se fonde.
+
+[^28a-1]: Introduit par le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 12 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+
 #### Art. 29
 
 **Application de vérification**
 
-<sup>1</sup> L’OFIT fournit un ou plusieurs logiciels qui peuvent être installés sur les téléphones portables ou des appareils similaires et qui permettent la vérification électronique de l’authenticité, de l’intégrité et de la validité des certificats COVID-19 et des certificats étrangers correspondants.
+<sup>1</sup> L’OFIT fournit un ou plusieurs logiciels qui peuvent être installés sur les téléphones portables ou des appareils similaires et qui permettent la vérification électronique de l’authenticité, de l’intégrité et de la validité des certificats COVID-19, y compris des certificats ne contenant que les données strictement nécessaires, de même que des certificats étrangers reconnus.[^29-1]
 
 <sup>2</sup>
 
@@ -407,6 +429,8 @@ Les logiciels sont régis par les principes suivants:
 - e. l’OFIT publie le code source et les spécifications techniques du logiciel qu’il fournit.
 
 <sup>3</sup> Quiconque reçoit un certificat pour vérification ne peut conserver ce certificat et les informations qu’il contient ou les utiliser à une fin autre que la vérification.
+
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 12 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 30
 
@@ -459,11 +483,11 @@ La présente ordonnance entre en vigueur le 7 juin 2021 à 0 h 00 et a effet jus
 
 Annexe 1*[^t-1]*
 
-(art. 12, 29, al. 2, let. c, ch. 2, et 33)
+(art. 12, 28*a*, al.3, let.b, 29, al. 2, let. c, ch. 2, et 33)
 
 ## Contenu général des certificats COVID-19
 
-[^t-1]: Mise à jour selon le ch.II de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-1]: Mise à jour selon le ch. II de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ### 1 Indications concernant le titulaire
 
@@ -491,7 +515,7 @@ Annexe 2*[^t-2]*
 
 ## Dispositions particulières applicables aux certificats de vaccination COVID-19
 
-[^t-2]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière, ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et par le ch.II de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-2]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière, ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et le ch. II de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ### 1 Début de la validité et durée de validité maximale
 
@@ -539,11 +563,11 @@ Annexe 3
 
 Annexe 4*[^t-3]*
 
-(art. 20, 21, al. 2, et 33)
+(art. 20, 21, al. 2, 28*a*, al. 4, et 33)
 
 ## Dispositions particulières applicables aux certificats de test COVID-19
 
-[^t-3]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et par le ch.II de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-3]: Mise à jour par l’annexe 3 ch. 3 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et le ch. II de l’O du 30 juin 2021 (Ordonnance COVID-19 certificats), en vigueur depuis le 3 juil. 2021 ([RO 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 ### 1 ...
 

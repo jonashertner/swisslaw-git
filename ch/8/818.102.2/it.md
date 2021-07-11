@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-07-09
+version: 2021-07-12
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210709/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210709-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210709/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210712/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210712-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210712/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210709/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 9 luglio 2021) (Stato 9 luglio 2021)
+del 4 giugno 2021 (Stato 12 luglio 2021) (Stato 12 luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -372,7 +372,7 @@ L’UFIT gestisce in un sistema d’informazione i certificati di firma utilizza
 
 #### Art. 28
 
-**Applicazione per la conservazione**
+**Applicazione per la conservazione: aspetti generali[^28-1]**
 
 <sup>1</sup> L’UFIT mette a disposizione un software che i titolari di certificati COVID-19 possono installare sul proprio cellulare o su un dispositivo analogo e utilizzare per trasmettere in modo sicuro e conservare in forma elettronica i certificati.
 
@@ -384,11 +384,33 @@ Per il software si applicano i seguenti principi:
 - b. il contenuto dei certificati deve essere protetto attraverso misure adeguate da ogni accesso non autorizzato;
 - c. l’UFIT pubblica il codice sorgente e le specifiche tecniche dei software che mette a disposizione.
 
+[^28-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 12 lug. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+
+#### Art. 28a
+
+**Applicazione per la conservazione: creazione di certificati contenenti soltanto i dati strettamente necessari**[^28a-1]
+
+<sup>1</sup> L’applicazione per la conservazione permette di ricevere un certificato contenente soltanto i dati strettamente necessari utilizzabile in Svizzera.
+
+<sup>2</sup> A tal fine, mediante l’applicazione, il titolare invia un certificato COVID-19 al sistema per l’emissione di certificati COVID-19. Se il certificato inviato è valido, il sistema genera un certificato contenente soltanto i dati strettamente necessari e lo invia all’applicazione per la conservazione.
+
+<sup>3</sup>
+
+Il certificato contenente soltanto i dati strettamente necessari comprende le seguenti informazioni:
+
+- a. il contenuto generale di cui all’articolo 12 lettera a e all’allegato 1 numero 1;
+- b. l’indicazione che si tratta di un certificato COVID-19 svizzero contenente soltanto i dati strettamente necessari;
+- c. la fine della sua validità.
+
+<sup>4</sup> La durata di validità del certificato contenente soltanto i dati strettamente necessari corrisponde alla durata di validità più breve dei certificati di test COVID-19 secondo l’allegato 4; in ogni caso cessa con la fine della validità del certificato su cui si basa.
+
+[^28a-1]: Introdotto dal n. I dell’O del 30 giu. 2021, in vigore dal 12 lug. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+
 #### Art. 29
 
 **Applicazione per la verifica**
 
-<sup>1</sup> L’UFIT mette a disposizione uno o più software che possono essere installati su cellulari o dispositivi analoghi e utilizzati per la verifica elettronica dell’autenticità, dell’integrità e della validità dei certificati COVID-19 e dei relativi certificati esteri.
+<sup>1</sup> L’UFIT mette a disposizione uno o più software che possono essere installati su cellulari o dispositivi analoghi e utilizzati per la verifica elettronica dell’autenticità, dell’integrità e della validità dei certificati COVID-19, compresi i certificati contenenti soltanto i dati strettamente necessari, nonché dei certificati esteri riconosciuti.[^29-1]
 
 <sup>2</sup>
 
@@ -407,6 +429,8 @@ Per i software si applicano i seguenti principi:
 - e. l’UFIT pubblica il codice sorgente e le specifiche tecniche dei software che mette a disposizione.
 
 <sup>3</sup> Chi riceve un certificato ai fini della verifica non può conservare né il certificato né le informazioni ivi contenute né utilizzarli per uno scopo diverso da quello della verifica.
+
+[^29-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 12 lug. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 30
 
@@ -459,7 +483,7 @@ La presente ordinanza entra in vigore il 7 giugno 2021 alle ore 00.00 e ha effet
 
 Allegato 1*[^t-1]*
 
-(art. 12, 29 cpv. 2 lett. c n. 2 e 33)
+(art. 12, 28a cpv. 3 lett. a, 29 cpv. 2 lett. c n. 2 e 33)
 
 ## Contenuto generale dei certificati COVID-19
 
@@ -539,7 +563,7 @@ Allegato 3
 
 Allegato 4*[^t-3]*
 
-(art. 20, 21 cpv. 2 e 33)
+(art. 20, 21 cpv. 2, 28a cpv. 4 e 33)
 
 ## Disposizioni particolari sui certificati di test COVID-19
 

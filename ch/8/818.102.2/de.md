@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-07-09
+version: 2021-07-12
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210709/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210709-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210709/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210712/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210712-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210712/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210709/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 9. Juli 2021)
+vom 4. Juni 2021 (Stand am 12. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -372,7 +372,7 @@ Das BIT betreibt ein Informationssystem, das dazu dient, Signaturzertifikate zur
 
 #### Art. 28
 
-**Aufbewahrungs-App**
+**Aufbewahrungs-App: Allgemeines[^28-1]**
 
 <sup>1</sup> Das BIT stellt eine Software zur Verfügung, welche die Inhaberinnen und Inhaber von Covid-19-Zertifikaten auf ihrem Mobiltelefon oder einem ähnlichen Gerät installieren und die sie zur gesicherten Übermittlung und elektronischen Aufbewahrung der Zertifikate nutzen können.
 
@@ -384,11 +384,33 @@ Für die Software gelten die folgenden Grundsätze:
 - b. Die Inhalte von Zertifikaten müssen durch angemessene Massnahmen vor unbefugten Zugriffen geschützt sein.
 - c. Das BIT veröffentlicht den Quellcode und die technischen Spezifikationen der von ihm zur Verfügung gestellten Software.
 
+[^28-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 12. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+
+#### Art. 28a
+
+**Aufbewahrungs-App: Abruf datenminimierter Zertifikate**[^28a-1]
+
+<sup>1</sup> Die Aufbewahrungs-App ermöglicht es, ein datenminimiertes Zertifikat für die Verwendung in der Schweiz zu erhalten.
+
+<sup>2</sup> Dazu sendet die Inhaberin oder der Inhaber mittels der App ein Covid-19-Zertifikat an das System zur Ausstellung von Covid-19-Zertifikaten. Ist das gesendete Zertifikat gültig, so generiert das System das datenminimierte Zertifikat und sendet es an die Aufbewahrungs-App.
+
+<sup>3</sup>
+
+Das datenminimierte Zertifikat enthält:
+
+- a. die allgemeinen Inhalte nach Artikel 12 Buchstabe a und Anhang 1 Ziffer 1;
+- b. die Kennzeichnung als datenminimiertes schweizerisches Covid-19-Zertifikat;
+- c. das Ende seiner Gültigkeit.
+
+<sup>4</sup> Die Gültigkeitsdauer des datenminimierten Zertifikats entspricht der kürzesten Gültigkeitsdauer von Covid-19-Testzertifikaten nach Anhang 4; sie endet jedoch in jedem Fall mit dem Ende der Gültigkeit des zugrundeliegenden Zertifikats.
+
+[^28a-1]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 12. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+
 #### Art. 29
 
 **Überprüfungs-App**
 
-<sup>1</sup> Das BIT stellt eine oder mehrere Softwares zur Verfügung, die auf Mobiltelefonen oder ähnlichen Geräten installiert und zur elektronischen Überprüfung von Covid-19-Zertifikaten und entsprechenden ausländischen Zertifikaten auf Authentizität, Integrität und Gültigkeit verwendet werden können.
+<sup>1</sup> Das BIT stellt eine oder mehrere Softwares zur Verfügung, die auf Mobiltelefonen oder ähnlichen Geräten installiert und zur elektronischen Überprüfung von Covid-19-Zertifikaten, einschliesslich datenminimierter Zertifikate, und von anerkannten ausländischen Zertifikaten auf Authentizität, Integrität und Gültigkeit verwendet werden können.[^29-1]
 
 <sup>2</sup>
 
@@ -407,6 +429,8 @@ Für die Softwares gelten die folgenden Grundsätze:
 - e. Das BIT veröffentlicht den Quellcode und die technischen Spezifikationen der von ihm zur Verfügung gestellten Softwares.
 
 <sup>3</sup> Wer ein Zertifikat zur Überprüfung erhält, darf dieses und die daraus ausgelesenen Informationen nicht aufbewahren oder zu einem anderen Zweck als der Überprüfung verwenden.
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 12. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
 
 #### Art. 30
 
@@ -459,7 +483,7 @@ Diese Verordnung tritt am 7. Juni 2021 um 00.00 Uhr in Kraft und gilt bis zum 31
 
 Anhang 1*[^t-1]*
 
-(Art. 12, 29 Abs. 2 Bst. c Ziff. 2 und 33)
+(Art. 12, 28*a* Abs. 3 Bst. a, 29 Abs. 2 Bst. c Ziff. 2 und 33)
 
 ## Allgemeiner Inhalt der Covid-19-Zertifikate
 
@@ -539,7 +563,7 @@ Anhang 3
 
 Anhang 4*[^t-3]*
 
-(Art. 20, 21 Abs. 2 und 33)
+(Art. 20, 21 Abs. 2, 28*a* Abs. 4 und 33)
 
 ## Besondere Bestimmungen über Covid-19-Testzertifikate
 
