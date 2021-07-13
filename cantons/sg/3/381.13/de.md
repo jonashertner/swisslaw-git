@@ -3,20 +3,20 @@ canton: SG
 number: "381.13"
 title: Verordnung über Unterstützungsbeiträge für Bedürftige sowie Sozialberatung in Zusammenhang mit der Covid-19-Epidemie
 language: de
-version: 2021-04-15
-valid_until: 2021-07-13
-version_adopted: 2021-03-30
+version: 2021-07-14
+valid_until: 2022-06-30
+version_adopted: 2021-06-29
 adopted: 2021-03-30
 in_force: 2021-04-15
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/381.13"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3147/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3195/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Unterstützungsbeiträge für Bedürftige sowie Sozialberatung in Zusammenhang mit der Covid-19-Epidemie
 
-vom 30.03.2021 (Stand 15.04.2021)
+vom 30.03.2021 (Stand 14.07.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -111,6 +111,17 @@ als Verordnung:[^ingress-1]
 - f) staatliche Covid-19-Beiträge;
 - g) Covid-19-Beiträge von Hilfswerken.
 
+#### Art. 8a
+
+**Berechnung bei mehreren im gleichen Haushalt lebenden Personen**
+
+<sup>1</sup> Bei mehreren im gleichen Haushalt lebenden Personen werden die anerkannten Ausgaben sowie die anrechenbaren Einnahmen zusammengerechnet:
+
+- a) von Ehegatten sowie Kindern, die unter deren elterlicher Sorge oder Obhut stehen;
+- b) der gesuchstellenden Person sowie Kindern, die unter deren elterlicher Sorge oder Obhut stehen.
+
+<sup>2</sup> Bei mehreren im gleichen Haushalt lebenden Personen, die nach Abs. 1 dieser Bestimmung nicht in die Berechnung der Unterstützungsleistungen eingeschlossen sind, gilt als anerkannte Ausgabe nach Art. 7 Bst. b dieses Erlasses der tatsächliche Mietzins geteilt durch die Anzahl aller im Haushalt lebenden Personen.
+
 #### Art. 9
 
 **Ausschluss**
@@ -119,7 +130,7 @@ als Verordnung:[^ingress-1]
 
 - a) die Sozialhilfe beziehen oder einen Anspruch auf Sozialhilfe haben;
 - b) die eine Rente nach der Bundesgesetzgebung über die Alters-, Hinterlassenen- und Invalidenversicherung[^9-1] beziehen;
-- c) deren Reinvermögen zum Zeitpunkt der Gesuchstellung Fr. 4'000.– für eine Einzelperson oder Fr. 8'000.– für ein Ehe- oder Konkubinatspaar übersteigt. Diese Werte erhöhen sich je Kind um Fr. 2'000.–, sie betragen jedoch höchstens Fr. 10'000.–.
+- c) deren Reinvermögen zum Zeitpunkt der Gesuchstellung Fr. 4'000.– für eine Einzelperson oder Fr. 8'000.– für ein Ehepaar übersteigt. Diese Werte erhöhen sich je Kind um Fr. 2'000.–, sie betragen jedoch höchstens Fr. 10'000.–.
 
 [^9-1]: SR 831.
 
@@ -127,7 +138,7 @@ als Verordnung:[^ingress-1]
 
 **Höhe der Unterstützungsbeiträge**
 
-<sup>1</sup> Der Unterstützungsbeitrag wird unter Berücksichtigung von Art. 3 in Verbindung mit Art. 6 dieses Erlasses ausgerichtet und entspricht höchstens dem Betrag, um den die anerkannten Ausgaben die anrechenbaren Einnahmen in den zwölf Monaten vor Gesuchstellung übersteigen, sowie höchstens Fr. 10'000.– je Haushalt.
+<sup>1</sup> Der Unterstützungsbeitrag wird unter Berücksichtigung von Art. 3 in Verbindung mit Art. 6 dieses Erlasses ausgerichtet und entspricht höchstens dem Betrag, um den die anerkannten Ausgaben die anrechenbaren Einnahmen in den zwölf Monaten vor Gesuchstellung übersteigen, sowie höchstens Fr. 10'000.– bei alleinlebenden Personen oder im Fall einer Zusammenrechnung nach Art. 8a dieses Erlasses.
 
 #### Art. 11
 
@@ -188,5 +199,13 @@ als Verordnung:[^ingress-1]
 **Finanzierung**
 
 <sup>1</sup> Die Finanzierung der Unterstützungsbeiträge erfolgt aus dem besonderen Eigenkapital.
+
+#### Art. 18
+
+**Übergangsbestimmung des Nachtrags vom 29. Juni 2021**
+
+<sup>1</sup> Auf Gesuche für Unterstützungsbeiträge, die bei Vollzugsbeginn dieses Nachtrags hängig sind, werden die Bestimmungen dieses Erlasses in der Fassung gemäss Nachtrag angewendet.
+
+<sup>2</sup> Vorbehalten bleibt die Anwendung bisherigen Rechts, soweit die Anwendung des neuen Rechts für die Gesuchstellerin oder den Gesuchsteller mit wesentlichen Nachteilen verbunden ist.
 
 nGS 2021-031
