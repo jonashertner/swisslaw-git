@@ -3,11 +3,11 @@ sr: "0.814.327"
 title: "Protocole du 30 novembre 1999 à la Convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif à la réduction de l'acidification, de l'eutrophisation et de l'ozone troposphérique (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/54"
 language: fr
-version: 2019-10-22
+version: 2021-07-15
 adopted: 1999-11-30
 in_force: 2005-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20191022/fr/xml/fedlex-data-admin-ch-eli-cc-2006-54-20191022-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20191022/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20210715/fr/xml/fedlex-data-admin-ch-eli-cc-2006-54-20210715-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20210715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 14 septembre 2005
 
 Entré en vigueur pour la Suisse le 13 décembre 2005
 
-(Etat le 22 octobre 2019)
+(Etat le 15 juillet 2021)
 
 [^t-1]: L’Am. du 4 mai 2012 ([RS 0.814.327.1](https://fedlex.data.admin.ch/eli/cc/2019/512); [RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512)) a été inséré dans le présent texte et ne régit que les rapports entre les États l’ayant ratifié. Par conséquent, se référer au champ d’application du texte RS cité entre parenthèse.
 [^t-2]: [RO 2006 257](https://fedlex.data.admin.ch/eli/oc/2006/53)
@@ -1878,7 +1878,7 @@ Annexe VII*[^t-9]*
 
 ## Délais en vertu de l’art. 3
 
-[^t-9]: Nouvelle teneur selon l’annexe let. T de la D 2012/2 du 4 mai 2012, approuvée par l’Ass. féd. le 22 mars 2019 et en vigueur pour la Suisse depuis le 22 oct. 2019 ([RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 5719](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
+[^t-9]: Nouvelle teneur selon l’annexe let. T de la D 2012/2 du 4 mai 2012, approuvée par l’Ass. féd. le 22 mars 2019 ([RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 5719](https://fedlex.data.admin.ch/eli/fga/2018/2092)). Mise à jour par par l’art. 1 de la D 2019/23 du 13 déc. 2019, en vigueur pour la Suisse depuis le 15 juil. 2021 ([RO 2021 912](https://fedlex.data.admin.ch/eli/oc/2021/912)).
 
 \1. Les délais d’application des valeurs limites dont il est fait mention aux par. 2 et 3 de l’art. 3 sont:
 
@@ -1889,7 +1889,7 @@ Annexe VII*[^t-9]*
 
 \3. Les délais d’application des valeurs limites des COV dans les produits visés au par. 7 de l’art. 3 sont un an après la date d’entrée en vigueur du présent Protocole pour la Partie en question.
 
-\4. Nonobstant les dispositions des par. 1, 2 et 3, mais sous réserve de celles du par. 5, une Partie à la Convention qui devient Partie au présent Protocole entre le 1<sup>er</sup> janvier 2013 et le 31 décembre 2019, peut déclarer, lors de sa ratification, acceptation ou approbation du présent Protocole ou de son adhésion à cet instrument, qu’elle prorogera certains ou la totalité des délais d’application des valeurs limites énoncés aux par. 2, 3, 5 et 7 de l’art. 3, comme suit:
+\4. Nonobstant les dispositions des par. 1, 2 et 3, mais sous réserve de celles du par. 5, une Partie à la Convention qui devient Partie au présent Protocole entre le 1<sup>er</sup> janvier 2013 et le 31 décembre 2024, peut déclarer, lors de sa ratification, acceptation ou approbation du présent Protocole ou de son adhésion à cet instrument, qu’elle prorogera certains ou la totalité des délais d’application des valeurs limites énoncés aux par. 2, 3, 5 et 7 de l’art. 3, comme suit:
 
 - a) pour les sources fixes existantes, jusqu’à quinze ans après la date d’entrée en vigueur du présent Protocole pour la Partie en question;
 - b) pour les carburants et les nouvelles sources mobiles, jusqu’à cinq ans après la date d’entrée en vigueur du présent Protocole pour la Partie en question;
@@ -2784,7 +2784,7 @@ Champ d’application le 22 décembre 2017**[^t-14]**
 <tr><td>Lettonie</td><td>25 mai</td><td>2004</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Lituanie</td><td>2 avril</td><td>2004 A</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Luxembourg</td><td>7 août</td><td>2001</td><td>17 mai</td><td>2005</td></tr>
-<tr><td>Macédoine</td><td>5 juin</td><td>2014 A</td><td>3 septembre</td><td>2014</td></tr>
+<tr><td>Macédoine du Nord</td><td>5 juin</td><td>2014 A</td><td>3 septembre</td><td>2014</td></tr>
 <tr><td>Norvège</td><td>30 janvier</td><td>2002</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Pays-Bas\* <sup>b</sup></td><td>5 février</td><td>2004</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Portugal</td><td>16 février</td><td>2005</td><td>17 mai</td><td>2005</td></tr>
@@ -2799,4 +2799,4 @@ Champ d’application le 22 décembre 2017**[^t-14]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-14]: [RO 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54)1892, [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36), [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152), [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552), [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-14]: [RO 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54)1892, [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36), [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152), [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552), [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante www.fedlex.admin.ch/fr/treaty

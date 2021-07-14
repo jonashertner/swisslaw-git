@@ -3,11 +3,11 @@ sr: "0.814.327"
 title: "Protokoll vom 30. November 1999 zum Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung, betreffend die Verringerung von Versauerung, Eutrophierung und bodennahem Ozon (mit Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/54"
 language: de
-version: 2019-10-22
+version: 2021-07-15
 adopted: 1999-11-30
 in_force: 2005-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20191022/de/xml/fedlex-data-admin-ch-eli-cc-2006-54-20191022-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20191022/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20210715/de/xml/fedlex-data-admin-ch-eli-cc-2006-54-20210715-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20210715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 14. September 2005
 
 In Kraft getreten für die Schweiz am 13. Dezember 2005
 
-(Stand am 22. Oktober 2019)
+(Stand am 15. Juli 2021)
 
 [^t-1]: Die Änd. vom 4. Mai 2012 ([SR 0.814.327.1](https://fedlex.data.admin.ch/eli/cc/2019/512); [AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512)) ist im vorliegenden Text eingebaut, gilt aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
 [^t-2]: [AS 2006 257](https://fedlex.data.admin.ch/eli/oc/2006/53)
@@ -1881,7 +1881,7 @@ Anhang VII*[^t-9]*
 
 ## Fristen nach Artikel 3
 
-[^t-9]: Fassung gemäss Anhang Bst. T des Beschlusses 2012/2 vom 4. Mai 2012, von der BVers genehmigt am 22. März 2019 und in Kraft für die Schweiz seit 22. Okt. 2019 ([AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [BBl 2018 5671](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
+[^t-9]: Fassung gemäss Anhang Bst. T des Beschlusses 2012/2 vom 4. Mai 2012, von der BVers genehmigt am 22. März 2019 ([AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [BBl 2018 5671](https://fedlex.data.admin.ch/eli/fga/2018/2092)). Bereinigt gemäss Art. 1 des Beschlusses 2019/23 vom 13. Dez. 2019, in Kraft für die Schweiz am 15. Juli 2021 ([AS 2021 912](https://fedlex.data.admin.ch/eli/oc/2021/912)).
 
 \1. Die Fristen für die Anwendung der in Artikel 3 Absätze 2 und 3 aufgeführten Grenzwerte lauten:
 
@@ -1892,7 +1892,7 @@ Anhang VII*[^t-9]*
 
 \3. Die Fristen für die Anwendung der in Artikel 3 Absatz 7 aufgeführten Grenzwerte für VOCs in Produkten lauten ein Jahr nach dem Inkrafttreten dieses Protokolls für die betreffende Vertragspartei.
 
-\4. Abweichend von den Absätzen 1, 2 und 3, aber vorbehaltlich des Absatzes 5, kann eine Vertragspartei des Übereinkommens, die zwischen dem 1. Januar 2013 und dem 31. Dezember 2019 Vertragspartei dieses Protokolls wird, bei der Ratifikation, Annahme oder Genehmigung dieses Protokolls oder beim Beitritt zu diesem Protokoll erklären, dass sie einzelne oder alle Fristen für die Anwendung der in Artikel 3 Absätze 2, 3, 5 und 7 aufgeführten Grenzwerte wie folgt verlängert:
+\4. Abweichend von den Absätzen 1, 2 und 3, aber vorbehaltlich des Absatzes 5, kann eine Vertragspartei des Übereinkommens, die zwischen dem 1. Januar 2013 und dem 31. Dezember 2024 Vertragspartei dieses Protokolls wird, bei der Ratifikation, Annahme oder Genehmigung dieses Protokolls oder beim Beitritt zu diesem Protokoll erklären, dass sie einzelne oder alle Fristen für die Anwendung der in Artikel 3 Absätze 2, 3, 5 und 7 aufgeführten Grenzwerte wie folgt verlängert:
 
 - a) für bestehende ortsfeste Quellen bis zu 15 Jahre nach dem Inkrafttreten dieses Protokolls für die betreffende Vertragspartei;
 - b) für Treibstoffe und neue mobile Quellen bis zu fünf Jahre nach dem Inkrafttreten des vorliegenden Protokolls für die betreffende Vertragspartei und
@@ -2800,4 +2800,4 @@ Geltungsbereich am 22. Dezember 2017**[^t-14]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werdenn. <sup>a</sup> Das Prot. gilt nicht für die Färöer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-14]: [AS 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54)1892, [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36), [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152), [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552), [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-14]: [AS 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54)1892, [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36), [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152), [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552), [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty
