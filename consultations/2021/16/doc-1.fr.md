@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Nouvelle ordonnance sur les diagnostics in vitro et modification de l'ordonnance sur les essais cliniques des dispositifs médicaux"
 document: Projet mis en consultation-1
 language: fr

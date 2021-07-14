@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Neue Verordnung über In-vitro-Diagnostika und Änderung der Verordnung über klinische Versuche mit Medizinprodukten
 document: Vernehmlassungsvorlage-2
 language: de

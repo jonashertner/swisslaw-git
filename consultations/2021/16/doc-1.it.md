@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Nuova ordinanza sulla diagnostica in vitro e modifica dell'ordinanza sulle sperimentazioni cliniche dei dispositivi medici"
 document: Progetto posto in consultazione-1
 language: it
