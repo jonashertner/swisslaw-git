@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla procedura di notifica all’interno di un gruppo nell’ambito dell’imposta preventiva
 document: Progetto posto in consultazione
 language: it

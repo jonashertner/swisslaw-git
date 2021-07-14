@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur la procédure de déclaration au sein du groupe en matière d’impôt anticipé
 document: Projet mis en consultation
 language: fr

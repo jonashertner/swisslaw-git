@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über das Meldeverfahren im Konzern bei der Verrechnungssteuer
 document: Vernehmlassungsvorlage
 language: de
