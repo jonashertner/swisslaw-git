@@ -3,11 +3,11 @@ sr: "0.814.327.1"
 title: "Décision 2012/2 du 4 mai 2012 relative à l'amendement du Protocole de 1999 à la Convention sur la pollution atmosphérique transfrontière à longue distance, relatif à la réduction de l'acidification, de l'eutrophisation et de l'ozone troposphérique (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/512"
 language: fr
-version: 2020-08-10
+version: 2021-07-15
 adopted: 2012-05-04
 in_force: 2019-10-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/512/20200810/fr/xml/fedlex-data-admin-ch-eli-cc-2019-512-20200810-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/512/20200810/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/512/20210715/fr/xml/fedlex-data-admin-ch-eli-cc-2019-512-20210715-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/512/20210715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument d’acceptation déposé par la Suisse le 24 juillet 2019
 
 Entrée en vigueur pour la Suisse le 22 octobre 2019
 
-(Etat le 10 août 2020)
+(Etat le 15 juillet 2021)
 
 [^t-1]: [RO 2019 2707](https://fedlex.data.admin.ch/eli/oc/2019/511)
 
@@ -1651,13 +1651,15 @@ L’annexe VII est remplacée par le texte suivant:
 
 \3. Les délais d’application des valeurs limites des COV dans les produits visés au par. 7 de l’art. 3 sont un an après la date d’entrée en vigueur du présent Protocole pour la Partie en question.
 
-\4. Nonobstant les dispositions des par. 1, 2 et 3, mais sous réserve de celles du par. 5, une Partie à la Convention qui devient Partie au présent Protocole entre le 1<sup>er</sup> janvier 2013 et le 31 décembre 2019, peut déclarer, lors de sa ratification, acceptation ou approbation du présent Protocole ou de son adhésion à cet instrument, qu’elle prorogera certains ou la totalité des délais d’application des valeurs limites énoncés aux par. 2, 3, 5 et 7 de l’art. 3, comme suit:
+\4. Nonobstant les dispositions des par. 1, 2 et 3, mais sous réserve de celles du par. 5, une Partie à la Convention qui devient Partie au présent Protocole entre le 1<sup>er</sup> janvier 2013 et le 31 décembre 2024[^annexu1-lvlu11-1], peut déclarer, lors de sa ratification, acceptation ou approbation du présent Protocole ou de son adhésion à cet instrument, qu’elle prorogera certains ou la totalité des délais d’application des valeurs limites énoncés aux par. 2, 3, 5 et 7 de l’art. 3, comme suit:
 
 - a) pour les sources fixes existantes, jusqu’à quinze ans après la date d’entrée en vigueur du présent Protocole pour la Partie en question;
 - b) pour les carburants et les nouvelles sources mobiles, jusqu’à cinq ans après la date d’entrée en vigueur du présent Protocole pour la Partie en question;
 - c) pour les COV dans les produits, jusqu’à cinq ans après la date d’entrée en vigueur du présent Protocole pour la Partie en question.
 
 \5. Une Partie qui a procédé à un choix conformément à l’art. 3<sup>bis</sup> du présent Protocole en ce qui concerne les annexes VI et/ou VIII ne peut faire dans le même temps une déclaration au sujet de la même annexe.»
+
+[^annexu1-lvlu11-1]: Nouveaux mots selon l’art. 1 de la D 2019/23 du 13 déc. 2019, en vigueur pour la Suisse depuis le 15 juil. 2021 ([RO 2021 912](https://fedlex.data.admin.ch/eli/oc/2021/912)).
 
 ## U. Annexe VIII
 
@@ -2519,7 +2521,7 @@ Champ d’application le 10 août 2020**[^t-2]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’Amendement ne s’applique pas aux Îles Féroé et au Groenland.</td></tr>
 </table>
 
-[^t-2]: [RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512), [2020 3577](https://fedlex.data.admin.ch/eli/oc/2020/637). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512), [2020 3577](https://fedlex.data.admin.ch/eli/oc/2020/637). Version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante www.fedlex.admin.ch/fr/treaty
 
 Déclaration
 

@@ -3,11 +3,11 @@ sr: "0.814.327.1"
 title: "Decisione 2012/2 del 4 maggio 2012 di modifica del Protocollo del 1999 alla Convenzione sull'inquinamento atmosferico transfrontaliero a grande distanza, relativo alla riduzione dell'acidificazione, dell'eutrofizzazione e dell'ozono troposferico (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/512"
 language: it
-version: 2020-08-10
+version: 2021-07-15
 adopted: 2012-05-04
 in_force: 2019-10-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/512/20200810/it/xml/fedlex-data-admin-ch-eli-cc-2019-512-20200810-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/512/20200810/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/512/20210715/it/xml/fedlex-data-admin-ch-eli-cc-2019-512-20210715-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/512/20210715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Accettata con strumento depositato dalla Svizzera il 24 luglio 2019
 
 Entrata in vigore per la Svizzera il 22 ottobre 2019
 
-(Stato 10 agosto 2020)
+(Stato 15 luglio 2021)
 
 [^t-1]: [RU 2019 2707](https://fedlex.data.admin.ch/eli/oc/2019/511)
 
@@ -1642,13 +1642,15 @@ Il testo dell’allegato VII è sostituito dal testo seguente:
 
 \3. I valori limite di COV per i prodotti di cui all’articolo 3 paragrafo 7 devono essere applicati un anno dopo la data di entrata in vigore del presente protocollo per la parte in questione.
 
-\4. In deroga ai punti 1, 2 e 3, ma fatto salvo il punto 5, una parte della Convenzione che diventi parte del presente protocollo tra il 1º gennaio 2013 e il 31 dicembre 2019, può dichiarare, all’atto della ratifica, accettazione, approvazione o dell’adesione al presente protocollo, che estenderà, in tutto o in parte, i termini per l’applicazione dei valori limite di cui all’articolo 3 paragrafi 2, 3, 5 e 7 come segue:
+\4. In deroga ai punti 1, 2 e 3, ma fatto salvo il punto 5, una parte della Convenzione che diventi parte del presente protocollo tra il 1º gennaio 2013 e il 31 dicembre 2024[^annexu1-lvlu11-1] può dichiarare, all’atto della ratifica, accettazione, approvazione o dell’adesione al presente protocollo, che estenderà, in tutto o in parte, i termini per l’applicazione dei valori limite di cui all’articolo 3 paragrafi 2, 3, 5 e 7 come segue:
 
 - a) fonti fisse esistenti: fino a quindici anni dopo l’entrata in vigore del presente protocollo per la parte interessata;
 - b) combustibili e nuove fonti mobili: fino a cinque anni dopo l’entrata in vigore del presente protocollo per la parte interessata;
 - c) per i COV nei prodotti: fino a cinque anni dopo l’entrata in vigore del presente protocollo per la parte interessata.
 
 \5. Una parte che ha operato una scelta ai sensi dell’articolo 3<sup>bis</sup> del presente protocollo per quanto riguarda l’allegato VI e/o VIII non può fare anche una dichiarazione ai sensi del punto 4 applicabile allo stesso allegato.»
+
+[^annexu1-lvlu11-1]: Nuovo termine giusta l’art. 1 della Dec. 2019/23 del 13 dic. 2019, in vigore per la Svizzera dal 15 lug. 2021 ([RU 2021 912](https://fedlex.data.admin.ch/eli/oc/2021/912)).
 
 ## U. Allegato VIII
 
@@ -2507,7 +2509,7 @@ Campo d’applicazione il 10 agosto 2020**[^t-2]**
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La mod. non si applica alle Isole Faeröer e alla Groenlandia.</td></tr>
 </table>
 
-[^t-2]: [RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512)e [2020 3577](https://fedlex.data.admin.ch/eli/oc/2020/637). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [2020 3577](https://fedlex.data.admin.ch/eli/oc/2020/637). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 
 Dichiarazione
 

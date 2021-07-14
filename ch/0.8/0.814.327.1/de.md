@@ -3,11 +3,11 @@ sr: "0.814.327.1"
 title: "Beschluss 2012/2 vom 4. Mai 2012 zur Änderung des Protokolls von 1999 zum Übereinkommen über weiträumige grenzüberschreitende Luftverunreinigung, betreffend die Verringerung von Versauerung, Eutrophierung und bodennahem Ozon (mit Anhang)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/512"
 language: de
-version: 2020-08-10
+version: 2021-07-15
 adopted: 2012-05-04
 in_force: 2019-10-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/512/20200810/de/xml/fedlex-data-admin-ch-eli-cc-2019-512-20200810-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/512/20200810/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/512/20210715/de/xml/fedlex-data-admin-ch-eli-cc-2019-512-20210715-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/512/20210715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Annahmeurkunde von der Schweiz hinterlegt am 24. Juli 2019
 
 In Kraft getreten für die Schweiz am 22. Oktober 2019
 
-(Stand am 10. August 2020)
+(Stand am 15. Juli 2021)
 
 [^t-1]: [AS 2019 2707](https://fedlex.data.admin.ch/eli/oc/2019/511)
 
@@ -1641,13 +1641,15 @@ Anhang VII erhält folgende Fassung:
 
 \3. Die Fristen für die Anwendung der in Artikel 3 Absatz 7 aufgeführten Grenzwerte für VOCs in Produkten lauten ein Jahr nach dem Inkrafttreten dieses Protokolls für die betreffende Vertragspartei.
 
-\4. Abweichend von den Absätzen 1, 2 und 3, aber vorbehaltlich des Absatzes 5, kann eine Vertragspartei des Übereinkommens, die zwischen dem 1. Januar 2013 und dem 31. Dezember 2019 Vertragspartei dieses Protokolls wird, bei der Ratifikation, Annahme oder Genehmigung dieses Protokolls oder beim Beitritt zu diesem Protokoll erklären, dass sie einzelne oder alle Fristen für die Anwendung der in Artikel 3 Absätze 2, 3, 5 und 7 aufgeführten Grenzwerte wie folgt verlängert:
+\4. Abweichend von den Absätzen 1, 2 und 3, aber vorbehaltlich des Absatzes 5, kann eine Vertragspartei des Übereinkommens, die zwischen dem 1. Januar 2013 und dem 31. Dezember 2024[^annexu1-lvlu11-1] Vertragspartei dieses Protokolls wird, bei der Ratifikation, Annahme oder Genehmigung dieses Protokolls oder beim Beitritt zu diesem Protokoll erklären, dass sie einzelne oder alle Fristen für die Anwendung der in Artikel 3 Absätze 2, 3, 5 und 7 aufgeführten Grenzwerte wie folgt verlängert:
 
 - a) für bestehende ortsfeste Quellen bis zu 15 Jahre nach dem Inkrafttreten dieses Protokolls für die betreffende Vertragspartei;
 - b) für Treibstoffe und neue mobile Quellen bis zu fünf Jahre nach dem Inkrafttreten des vorliegenden Protokolls für die betreffende Vertragspartei und
 - c) für VOCs in Produkten bis zu fünf Jahre nach dem Inkrafttreten des vorliegenden Protokolls für die betreffende Vertragspartei.
 
 \5. Entscheidet sich eine Vertragspartei in Bezug auf Anhang VI und/oder Anhang VIII für eine Regelung nach Artikel 3<sup>bis</sup> dieses Protokolls, so kann sie nicht zugleich eine Erklärung nach dem auf denselben Anhang anwendbaren Absatz 4 abgeben.»
+
+[^annexu1-lvlu11-1]: Worte gemäss Art. 1 des Beschlusses 2019/23 vom 13. Dez. 2019, in Kraft für die Schweiz am 15. Juli 2021 ([AS 2021 912](https://fedlex.data.admin.ch/eli/oc/2021/912)).
 
 ## U. Anhang VIII
 
@@ -2509,7 +2511,7 @@ Geltungsbereich am 10. August 2020**[^t-2]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Die Änderung gilt nicht für die Färöer und Grönland.</td></tr>
 </table>
 
-[^t-2]: [AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512), [2020 3577](https://fedlex.data.admin.ch/eli/oc/2020/637). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [2020 3577](https://fedlex.data.admin.ch/eli/oc/2020/637). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty
 
 Erklärung
 
