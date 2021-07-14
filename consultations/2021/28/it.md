@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sugli obblighi di diligenza e trasparenza in relazione a minerali e metalli origi-nari di zone di conflitto e al lavoro minorile (ODiT)
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur les devoirs de diligence et de transparence dans les domaines des mine-rais et métaux provenant de zones de conflit et du travail des enfants (ODiTr)
 document: Projet mis en consultation
 language: fr

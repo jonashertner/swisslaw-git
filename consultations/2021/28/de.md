@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über Sorgfaltspflichten und Transparenz in den Bereichen Mineralien und Metalle aus Konfliktgebieten sowie Kinderarbeit (VSoTr)
 document: Vernehmlassungsvorlage
 language: de
