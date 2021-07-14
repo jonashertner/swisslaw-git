@@ -3,20 +3,19 @@ canton: SG
 number: "320.201"
 title: Kantonsratsbeschluss über die Übertragung der Spitalimmobilien
 language: de
-version: 2021-04-01
-valid_until: 2021-07-14
-version_adopted: 2021-02-02
+version: 2021-07-15
+version_adopted: 2021-06-13
 adopted: 2016-03-01
 in_force: 2017-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.201"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3136/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3187/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsbeschluss über die Übertragung der Spitalimmobilien
 
-vom 01.03.2016 (Stand 01.04.2021)
+vom 01.03.2016 (Stand 15.07.2021)
 
 Der Kantonsrat
 
@@ -58,7 +57,7 @@ beschliesst:[^ingress-1]
 - b) …
 - c) Kantonsratsbeschluss über die Erneuerung und Erweiterung des Spitals Grabs vom 30. November 2014;
 - d) Kantonsratsbeschluss über die Erneuerung und Erweiterung des Spitals Linth (2. Etappe) vom 30. November 2014;
-- e) Kantonsratsbeschluss über die Erneuerung und Erweiterung des Spitals Wattwil vom 30. November 2014;
+- e) …
 - f) Kantonsratsbeschluss über den Umbau und die Erweiterung des Spitals Wil (Notfall, Labor und Verwaltung) vom 27. Januar 2015.
 
 <sup>2</sup> Bei angefangenen Bauten und Projekten nach Abs. 1 dieser Bestimmung werden die bis zum Zeitpunkt der Übertragung der Grundstücke aufgelaufenen Kosten von der zuständigen Spitalanlagengesellschaft getragen.
