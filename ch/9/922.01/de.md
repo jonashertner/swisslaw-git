@@ -4,11 +4,11 @@ title: "Verordnung vom 29. Februar 1988 über die Jagd und den Schutz wildlebend
 short: JSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: de
-version: 2018-03-01
+version: 2021-07-15
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20180301/de/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20180301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20180301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20210715/de/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20210715-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20210715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20180301/de"
 
 (Jagdverordnung, JSV)
 
-vom 29. Februar 1988 (Stand am 1. März 2018)
+vom 29. Februar 1988 (Stand am 15. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -176,15 +176,23 @@ Die Kantone geben dem BAFU in ihrem Antrag an:
 
 **Regulierung von Wölfen**[^4bis-1]
 
-<sup>1</sup> Ein Abschuss von Wölfen nach Artikel 4 Absatz 1 ist nur zulässig aus einem Wolfsrudel, das sich im Jahr, in dem die Regulierung erfolgt, erfolgreich fortgepflanzt hat. Dabei darf eine Anzahl Wölfe, welche die Hälfte der im betreffenden Jahr geborenen Jungtiere nicht übersteigt, abgeschossen werden. Die Elterntiere sind zu schonen.
+<sup>1</sup> Wölfe eines Rudels dürfen nur reguliert werden, wenn sich das betroffene Rudel im Jahr, in dem die Regulierung bewilligt wird, erfolgreich fortgepflanzt hat. Die Regulierung erfolgt über den Abschuss von Jungtieren. Es darf höchstens eine Anzahl Wölfe erlegt werden, welche die Hälfte der im betreffenden Jahr geborenen Jungtiere nicht übersteigt.[^4bis-2]
 
-<sup>2</sup> Eine Regulierung bei Schäden an Nutztierbeständen ist zulässig, wenn im Streifgebiet eines Wolfsrudels, das sich erfolgreich fortgepflanzt hat, innerhalb von vier Monaten mindestens 15 Nutztiere getötet worden sind. Bei der Beurteilung der Schäden sind Artikel 9<sup>bis</sup> Absätze 3 und 4 sinngemäss anwendbar.
+<sup>1bis</sup> Ausnahmsweise kann im Rahmen der Regulierung nach Absatz 1 auch ein Elterntier, das besonders schadenstiftend in Erscheinung tritt, in den Monaten November bis Januar erlegt werden. Ein Elterntier gilt insbesondere dann als besonders schadenstiftend, wenn es über mehrere Jahre jeweils mindestens zwei Drittel des Schadens nach Absatz 2 verursacht.[^4bis-3]
+
+<sup>1ter</sup> Die Wölfe sind soweit möglich nahe von Siedlungen oder Nutztierherden zu erlegen.[^4bis-4]
+
+<sup>2</sup> Eine Regulierung bei Schäden an Nutztierbeständen ist zulässig, wenn im Streifgebiet eines Wolfsrudels, das sich erfolgreich fortgepflanzt hat, innerhalb von vier Monaten mindestens 10 Nutztiere getötet worden sind.[^4bis-5] Bei der Beurteilung der Schäden sind Artikel 9<sup>bis</sup> Absätze 3 und 4 sinngemäss anwendbar.
 
 <sup>3</sup> Eine Regulierung infolge erheblicher Gefährdung von Menschen ist zulässig, wenn sich Wölfe aus einem Rudel aus eigenem Antrieb regelmässig innerhalb oder in unmittelbarer Nähe von Siedlungen aufhalten und sich dabei gegenüber Menschen zu wenig scheu oder aggressiv zeigen.
 
 <sup>4</sup> Abschussbewilligungen sind auf das Streifgebiet des betreffenden Wolfsrudels zu beschränken. Sie sind bis spätestens am 31. Dezember des betreffenden Jahres zu erteilen und bis längstens am 31. März des nachfolgenden Jahres zu befristen.
 
 [^4bis-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
+[^4bis-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^4bis-3]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^4bis-4]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^4bis-5]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
 
 #### Art. 4<sup>ter</sup>
 
@@ -338,19 +346,22 @@ Zuständig sind:
 
 Ein erheblicher Schaden an Nutztieren durch einen einzelnen Wolf liegt vor, wenn in seinem Streifgebiet:
 
-- a. mindestens 35 Nutztiere innerhalb von vier Monaten getötet werden;
-- b. mindestens 25 Nutztiere innerhalb eines Monats getötet werden; oder
-- c. mindestens 15 Nutztiere getötet werden, nachdem im Vorjahr bereits Schäden durch Wölfe zu verzeichnen waren.
+- a. mindestens 25 Nutztiere innerhalb von vier Monaten getötet werden;
+- b. mindestens 15 Nutztiere innerhalb von einem Monat getötet werden; oder
+- c. mindestens 10 Nutztiere innerhalb von vier Monaten getötet werden, nachdem früher bereits Schäden durch Wölfe zu verzeichnen waren.[^9bis-2]
 
-<sup>3</sup> Bei der Beurteilung des Schadens nach Absatz 2 unberücksichtigt bleiben Nutztiere, die in einem Gebiet getötet werden, in dem trotz früherer Schäden durch Wölfe keine zumutbaren Schutzmassnahmen ergriffen worden sind.
+<sup>3</sup> Bei Tieren der Rinder- und Pferdegattung sowie bei Neuweltkameliden liegt ein erheblicher Schaden vor, wenn durch einen einzelnen Wolf innerhalb von vier Monaten mindestens zwei Nutztiere getötet wurden.[^9bis-3]
 
-<sup>4</sup> Bei Schäden an Tieren der Rinder- und Pferdegattung kann die Mindestzahl der getöteten Nutztiere nach Absatz 2 in angemessenem Umfang reduziert werden.
+<sup>4</sup> Bei der Beurteilung des Schadens nach den Absätzen 2 Buchstabe c und 3 unberücksichtigt bleiben Nutztiere, die in einem Gebiet getötet werden, in dem trotz Schäden, die mehr als vier Monate zurückliegen, keine zumutbaren Schutzmassnahmen nach Artikel 10<sup>quinquies</sup> ergriffen worden sind.[^9bis-4]
 
 <sup>5</sup> Schäden, die auf dem Gebiet von zwei oder mehr Kantonen entstanden sind, sind von den betroffenen Kantonen koordiniert zu beurteilen.
 
 <sup>6</sup> Die Abschussbewilligung muss der Verhütung weiteren Schadens an Nutztieren dienen. Sie ist auf längstens 60 Tage zu befristen sowie auf einen angemessenen Abschussperimeter zu beschränken. Dieser entspricht dem Alpperimeter, wenn dort keine zumutbaren Schutzmassnahmen ergriffen werden können.
 
 [^9bis-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 15. Juli 2015 ([AS 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
+[^9bis-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-3]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-4]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
 
 #### Art. 10
 
@@ -371,7 +382,7 @@ Der Bund leistet den Kantonen an die Entschädigung von Wildschäden die folgend
 
 <sup>5</sup> Das BAFU kann Massnahmen gegen Biber, Fischotter und Adler verfügen, die erheblichen Schaden anrichten.[^10-4]
 
-<sup>6</sup> …[^10-5]
+<sup>6</sup> ...[^10-5]
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 28. März 2001, in Kraft seit 15. April 2001 ([AS 2001 1005](https://fedlex.data.admin.ch/eli/oc/2001/143)).
 [^10-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4315](https://fedlex.data.admin.ch/eli/oc/2013/767)).
@@ -403,12 +414,20 @@ Das BAFU erstellt Konzepte für die Tierarten nach Artikel 10 Absatz 1. Diese en
 
 <sup>1</sup>
 
-Zur Verhütung von Schäden an Nutztieren durch Grossraubtiere fördert das BAFU folgende Massnahmen:
+Zur Verhütung von Schäden an Nutztieren durch Grossraubtiere beteiligt sich das BAFU zu 80 Prozent an den pauschal berechneten Kosten folgender Massnahmen:
 
-- a. die Zucht, Ausbildung, Haltung und den Einsatz von Herdenschutzhunden;
-- b. den Schutz von Bienenstöcken mit Elektrozäunen.
+- a. Zucht, Ausbildung, Haltung und Einsatz von Herdenschutzhunden, welche die Anforderungen nach Artikel 10<sup>quater</sup> Absatz 2 erfüllen;
+- b. elektrische Verstärkung von Weidezäunen zum Schutz vor Grossraubtieren;
+- c. Elektrozäune zum Schutz von Bienenstöcken vor Bären;
+- d. weitere Massnahmen der Kantone in Absprache mit dem BAFU, sofern die Massnahmen nach den Buchstaben a-c nicht ausreichend oder nicht zweckmässig sind.[^10ter-2]
 
-<sup>2</sup> Sind die Massnahmen nach Absatz 1 nicht ausreichend oder nicht zweckmässig, so kann das BAFU weitere Massnahmen der Kantone für den Herden- und Bienenschutz fördern.
+<sup>2</sup>
+
+Das BAFU kann sich zu höchstens 80 Prozent an den Kosten folgender Tätigkeiten der Kantone beteiligen:
+
+- a. regionale Schaf- und Ziegenalpplanung als Grundlage des Herdenschutzes;
+- b. Planung zur Entflechtung der Mountainbike- und Wanderwege vom Einsatzgebiet von Herdenschutzhunden nach Absatz 1 Buchstabe a sowie Umsetzung dieser Massnahmen;
+- c. Planung der Verhütung von Konflikten mit Bären.[^10ter-3]
 
 <sup>3</sup> Das BAFU unterstützt und koordiniert die räumliche Planung der Massnahmen durch die Kantone. Es erlässt dazu eine Richtlinie.
 
@@ -417,6 +436,8 @@ Zur Verhütung von Schäden an Nutztieren durch Grossraubtiere fördert das BAFU
 <sup>5</sup> Das BAFU kann Organisationen von gesamtschweizerischer Bedeutung unterstützen, welche die Behörden und die betroffenen Kreise über den Herden- und Bienenschutz informieren und beraten. Es kann solche Organisationen für die interkantonale Koordination der Massnahmen beiziehen.
 
 [^10ter-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4315](https://fedlex.data.admin.ch/eli/oc/2013/767)).
+[^10ter-2]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^10ter-3]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
 
 #### Art. 10<sup>quater</sup>
 
@@ -431,7 +452,7 @@ Das BAFU fördert den Herdenschutz mit Hunden, die:
 - a. zu einer Rasse gehören, die für den Herdenschutz geeignet ist;
 - b. für den Herdenschutz fachgerecht gezüchtet, ausgebildet, gehalten und eingesetzt werden;
 - c. hauptsächlich für das Bewachen von Nutztieren eingesetzt werden, deren Haltung oder Sömmerung nach der Direktzahlungsverordnung vom 23. Oktober 2013[^10quater-2] gefördert wird; und
-- d.[^10quater-3] …
+- d.[^10quater-3] ...
 
 <sup>3</sup> Das BAFU erlässt nach Anhörung des BLV Richtlinien zu Eignung, Zucht, Ausbildung, Haltung und Einsatz von geförderten Herdenschutzhunden.[^10quater-4]
 
@@ -443,6 +464,26 @@ Das BAFU fördert den Herdenschutz mit Hunden, die:
 [^10quater-4]: Fassung gemäss Ziff. II 2 der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 [^10quater-5]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^10quater-6]: Eingefügt durch Ziff. II 2 der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
+
+#### Art. 10<sup>quinquies</sup>
+
+**Zumutbare Schutzmassnahmen vor Grossraubtieren**[^10quinquies-1]
+
+<sup>1</sup>
+
+Zum Schutz von Nutztieren auf Weiden vor Grossraubtieren gilt im Sinne von Artikel 9<sup>bis</sup> Absatz 4 das Ergreifen der folgenden Massnahmen als zumutbar:
+
+- a. Schafe und Ziegen: Elektrozäune, die vor Grossraubtieren schützen, oder Herdenschutzhunde, welche die Anforderungen nach Artikel 10<sup>quater</sup> Absatz 2 erfüllen;
+- b. Neuweltkameliden, Weideschweine sowie Hirsche in Gehegen: Elektrozäune, die vor Grossraubtieren schützen;
+- c. Tiere der Rinder- und Pferdegattung: das Überwachen des Muttertiers mit seinem Jungtier während der Geburt, deren gemeinsame Haltung auf betreuten Weiden während den ersten zwei Lebenswochen sowie das sofortige Entfernen von Nachgeburten und toten Jungtieren;
+- d. Bienenstöcke: Elektrozäune, die vor Bären schützen;
+- e. weitere Massnahmen der Kantone nach Artikel 10<sup>ter</sup> Absatz 1 Buchstabe d.
+
+<sup>2</sup> Die Kantone bezeichnen die Alpperimeter, auf denen das Ergreifen von Schutzmassnahmen nach Absatz 1 als nicht zumutbar erachtet wird.
+
+<sup>3</sup> Nutztiere auf einem Hofareal, die sich in Ställen oder auf befestigten Auslaufflächen befinden, gelten als geschützt.
+
+[^10quinquies-1]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 15. Juli 2021 ([AS 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
 
 ## 4. Abschnitt: Forschung
 
@@ -552,7 +593,7 @@ Die Vollziehungsverordnung vom 7. Juni 1971[^19-1] zum Bundesgesetz über Jagd u
 
 **Änderung bisherigen Rechts**
 
-…[^20-1]
+...[^20-1]
 
 [^20-1]: Die Änderungen können unter [AS 1988 517](https://fedlex.data.admin.ch/eli/oc/1988/517_517_517)konsultiert werden.
 
@@ -568,7 +609,7 @@ Die Vollziehungsverordnung vom 7. Juni 1971[^19-1] zum Bundesgesetz über Jagd u
 
 Diese Verordnung tritt am 1. April 1988 in Kraft.
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 8<sup>bis</sup> Abs. 2)
 
@@ -604,7 +645,7 @@ Anhang 1[^t-1]
 
 [^annex1-lvlu1-1]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 
-Anhang 2[^t-2]
+Anhang 2*[^t-2]*
 
 (Art. 8<sup>bis</sup> Abs. 2)
 

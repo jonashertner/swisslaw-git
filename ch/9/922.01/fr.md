@@ -4,11 +4,11 @@ title: "Ordonnance du 29 février 1988 sur la chasse et la protection des mammif
 short: OChP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: fr
-version: 2018-03-01
+version: 2021-07-15
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20180301/fr/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20180301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20180301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20210715/fr/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20210715-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20210715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20180301/fr"
 
 (Ordonnance sur la chasse, OChP)
 
-du 29 février 1988 (Etat le 1<sup>er</sup> mars 2018)
+du 29 février 1988 (Etat le 15 juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -178,15 +178,23 @@ Dans leur proposition, les cantons indiquent à l’OFEV:[^4-6]
 
 **Régulation du loup**[^4bis-1]
 
-<sup>1</sup> Un tir de régulation au sens de l’art. 4, al. 1, est admissible uniquement si les loups font partie d’une meute qui s’est reproduite avec succès durant l’année où a lieu la régulation. Le nombre d’individus abattus ne doit pas dépasser la moitié des jeunes animaux nés l’année en question. Les géniteurs doivent être épargnés.
+<sup>1</sup> Le loup ne peut être régulé que si la meute concernée s’est reproduite avec succès pendant l’année durant laquelle la régulation a été autorisée. La régulation se fait par le tir de jeunes animaux. Le nombre d’individus abattus ne doit pas dépasser la moitié des jeunes animaux nés l’année en question.[^4bis-2]
 
-<sup>2</sup> Une régulation lorsque les loups causent d’importants dommages aux animaux de rente est admissible si au moins quinze animaux de rente ont été tués en quatre mois sur le territoire d’une meute de loups qui s’est reproduite avec succès. Pour l’évaluation des dommages, l’art. 9<sup>bis</sup>, al. 3 et 4, s’applique par analogie.
+<sup>1bis</sup> À titre exceptionnel, un géniteur particulièrement nuisible peut être abattu de novembre à janvier dans le cadre de la régulation visée à l’al. 1. Un géniteur est considéré comme particulièrement nuisible notamment s’il cause chaque année, durant plusieurs années, au moins deux tiers des dommages au sens de l’al. 2.[^4bis-3]
+
+<sup>1ter</sup> Les loups doivent être abattus, dans la mesure du possible, à proximité des zones habitées et des troupeaux d’animaux de rente.[^4bis-4]
+
+<sup>2</sup> Une régulation lorsque les loups causent des dommages aux animaux de rente est admissible si au moins dix animaux de rente ont été tués en quatre mois sur le territoire d’une meute de loups qui s’est reproduite avec succès.[^4bis-5] Pour l’évaluation des dommages, l’art. 9<sup>bis</sup>, al. 3 et 4, s’applique par analogie.
 
 <sup>3</sup> Une régulation lorsque les loups représentent un grave danger pour l’homme est admissible si, de leur propre initiative, des loups vivant en meute s’approchent régulièrement de zones habitées ou y pénètrent en se montrant trop peu farouches ou agressifs envers l’homme.
 
 <sup>4</sup> Les autorisations de tir sont restreintes au territoire de la meute concernée. Elles sont accordées au plus tard le 31 décembre de l’année en question pour une durée limitée au 31 mars de l’année suivante.
 
 [^4bis-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
+[^4bis-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^4bis-3]: Introduit par le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^4bis-4]: Introduit par le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^4bis-5]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
 
 #### Art. 4<sup>ter</sup>
 
@@ -341,19 +349,22 @@ Sont compétents:
 
 Un loup isolé cause d’importants dommages aux animaux de rente lorsque, sur son territoire, il tue:
 
-- a. au moins 35 animaux de rente en quatre mois;
-- b. au moins 25 animaux de rente en un mois, ou
-- c. au moins 15 animaux de rente, alors que des congénères ont déjà causé des dommages l’année précédente.
+- a. au moins 25 animaux de rente en quatre mois;
+- b. au moins 15 animaux de rente en un mois, ou
+- c. au moins 10 animaux de rente en quatre mois, alors que des congénères ont déjà causé des dommages auparavant.[^9bis-2]
 
-<sup>3</sup> L’évaluation des dommages au sens de l’al. 2 ne tient pas compte des animaux de rente tués dans une région où aucune mesure de protection raisonnable n’a été prise bien que des loups y aient déjà causé des dommages.
+<sup>3</sup> S’agissant des bovidés, des équidés et des camélidés du Nouveau-Monde, un loup isolé cause d’importants dommages lorsqu’il tue au moins deux animaux de rente en quatre mois.[^9bis-3]
 
-<sup>4</sup> En cas de dommages à des bovins ou à des équidés, le nombre minimal d’animaux de rente tués au sens de l’al. 2 peut être ramené à un chiffre approprié.
+<sup>4</sup> L’évaluation des dommages au sens des al. 2, let. c, et 3 ne tient pas compte des animaux de rente tués dans une région dans laquelle des loups ont déjà causé des dommages qui remontent à plus de quatre mois et dans laquelle aucune mesure de protection raisonnable au sens de l’art. 10<sup>quinquies</sup> n’a été prise.[^9bis-4]
 
 <sup>5</sup> Les dommages survenant sur le territoire de deux cantons ou plus sont évalués par les cantons concernés de manière coordonnée.
 
 <sup>6</sup> L’autorisation de tir doit servir à empêcher que les animaux de rente ne subissent d’autres dommages. D’une durée limitée à 60 jours, elle est restreinte à un périmètre de tir approprié. Celui-ci correspond au périmètre de l’alpage, si aucune mesure de protection raisonnable ne peut y être prise.
 
 [^9bis-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 15 juil. 2015 ([RO 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
+[^9bis-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-3]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-4]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
 
 #### Art. 10
 
@@ -406,12 +417,20 @@ L’OFEV établit des plans applicables aux espèces animales énumérées à l�
 
 <sup>1</sup>
 
-Pour prévenir les dégâts aux animaux de rente causés par les grands prédateurs, l’OFEV encourage:
+Pour prévenir les dommages aux animaux de rente causés par des grands prédateurs, l’OFEV participe à hauteur de 80 % aux coûts forfaitaires des mesures suivantes:
 
-- a. l’élevage, l’éducation, la détention et l’emploi de chiens de protection des troupeaux;
-- b. la protection des ruches par des clôtures électriques.
+- a. élevage, éducation, détention et emploi de chiens de protection des troupeaux répondant aux exigences de l’art. 10<sup>quater</sup>, al. 2;
+- b. renforcement électrique des clôtures de pâturage à des fins de protection contre les grands prédateurs;
+- c. pose de clôtures électriques de protection des ruches contre les ours;
+- d. autres mesures prises par les cantons d’entente avec l’OFEV, pour autant que les mesures énoncées aux let. a à c ne suffisent pas ou ne soient pas appropriées.[^10ter-2]
 
-<sup>2</sup> Si les mesures citées à l’al. 1 ne suffisent pas ou ne sont pas appropriées, il peut encourager d’autres mesures des cantons visant à protéger les troupeaux et les ruches.
+<sup>2</sup>
+
+Il peut participer à hauteur de 80 % au plus aux coûts des activités suivantes réalisées par les cantons:
+
+- a. planification régionale des alpages à ovins et à caprins comme base de la protection des troupeaux;
+- b. planification de la séparation entre, d’une part, chemins de randonnée pédestre et de vélos tout terrain et, d’autre part, zones d’emploi de chiens de protection des troupeaux visés à l’al. 1, let. a, ainsi que mise en œuvre de ces mesures;
+- c. planification de la prévention des conflits avec l’ours.[^10ter-3]
 
 <sup>3</sup> Il soutient et coordonne la planification territoriale par les cantons des mesures visant à protéger les troupeaux et les ruches. Il édicte une directive sur ce point.
 
@@ -420,6 +439,8 @@ Pour prévenir les dégâts aux animaux de rente causés par les grands prédate
 <sup>5</sup> L’OFEV peut soutenir des organisations d’importance nationale qui informent et conseillent les autorités et les milieux concernés sur la protection des troupeaux et des ruches. Il peut demander à ces organisations de contribuer à la coordination intercantonale des mesures.
 
 [^10ter-1]: Introduit par le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4315](https://fedlex.data.admin.ch/eli/oc/2013/767)).
+[^10ter-2]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^10ter-3]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
 
 #### Art. 10<sup>quater</sup>
 
@@ -446,6 +467,26 @@ L’OFEV encourage la protection des troupeaux par des chiens qui:
 [^10quater-4]: Nouvelle teneur selon le ch. II 2 de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 [^10quater-5]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^10quater-6]: Introduit par le ch. II 2 de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
+
+#### Art. 10<sup>quinquies</sup>
+
+**Mesures de protection raisonnables contre les grands prédateurs**[^10quinquies-1]
+
+<sup>1</sup>
+
+Sont considérées comme raisonnables au sens de l’art. 9<sup>bis</sup>, al. 4, les mesures suivantes de protection des animaux de rente contre les grands prédateurs prises sur des pâturages:
+
+- a. ovins et caprins: clôtures électriques de protection contre les grands prédateurs ou chiens de protection des troupeaux répondant aux exigences de l’art. 10<sup>quater</sup>, al. 2;
+- b. camélidés du Nouveau-Monde, porcins ainsi que cervidés d’élevage: clôtures électriques de protection contre les grands prédateurs;
+- c. bovidés et équidés: surveillance des mères et de leurs petits lors de la naissance, de la détention commune dans des pâturages surveillés durant les deux premières semaines de vie et élimination immédiate des placentas et des jeunes animaux morts;
+- d. ruches: clôtures électriques de protection contre les ours;
+- e. autres mesures prises par les cantons en vertu de l’art. 10<sup>ter</sup>, al. 1, let. d.
+
+<sup>2</sup> Les cantons désignent les périmètres des alpages sur lesquels les mesures de protection au sens de l’al. 1 ne sont pas considérées comme raisonnables.
+
+<sup>3</sup> Les animaux de rente qui se trouvent dans des étables ou sur des aires de sortie avec sol en dur dans le périmètre bâti de l’exploitation sont considérés comme protégés.
+
+[^10quinquies-1]: Introduit par le ch. I de l’O du 30 juin 2021, en vigueur depuis le 15 juil. 2021 ([RO 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
 
 ## Chapitre 4 Recherche
 

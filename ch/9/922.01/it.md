@@ -4,11 +4,11 @@ title: "Ordinanza del 29 febbraio 1988 sulla caccia e la protezione dei mammifer
 short: OCP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/517_517_517"
 language: it
-version: 2018-03-01
+version: 2021-07-15
 adopted: 1988-02-29
 in_force: 1988-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20180301/it/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20180301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20180301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/517_517_517/20210715/it/xml/fedlex-data-admin-ch-eli-cc-1988-517_517_517-20210715-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20210715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/517_517_517/20180301/it"
 
 (Ordinanza sulla caccia, OCP)
 
-del 29 febbraio 1988 (Stato 1° marzo 2018)
+del 29 febbraio 1988 (Stato 15 luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -108,7 +108,7 @@ I Cantoni possono autorizzare agenti di polizia della caccia o cacciatori, espre
 <sup>3</sup> L’UFAM può autorizzare per ricerche scientifiche e azioni di marcatura l’uso di mezzi ausiliari vietati.[^3-2]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 15 lug. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
-[^3-2]: Nuovo testo giusta il n. 17 dell’all. 5 all’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^3-2]: Nuovo testo giusta l’all. 5 n. 17 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 
 #### Art. 3<sup>bis</sup>
 
@@ -169,22 +169,30 @@ Nella loro istanza, i Cantoni indicano all’UFAM:
 [^4-3]: Introdotta dal n. I dell’O del 27 giu. 2012, in vigore dal 15 lug. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
 [^4-4]: Introdotta dal n. I dell’O del 27 giu. 2012, in vigore dal 15 lug. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
 [^4-5]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 15 lug. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)).
-[^4-6]: Nuova espressione giusta il n. 17 dell’all. 5 all’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
+[^4-6]: Nuova espr. giusta l’all. 5 n. 17 dell’O del 10 set. 2008 sull’emissione deliberata nell’ambiente, in vigore dal 1° ott. 2008 ([RU 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)).
 [^4-7]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 #### Art. 4<sup>bis</sup>
 
 **Regolazione del lupo**[^4bis-1]
 
-<sup>1</sup> L’abbattimento di lupi secondo l’articolo 4 capoverso 1 è autorizzato unicamente in branchi di lupi riprodottisi con successo durante l’anno in cui è effettuata la regolazione. È ammesso l’abbattimento di un numero di lupi non superiore alla metà dei cuccioli nati nel corso dell’anno. I genitori vanno risparmiati.
+<sup>1</sup> I lupi di un branco possono essere regolati solo se il branco interessato si è riprodotto con successo nell’anno in cui è stata autorizzata la regolazione. La regolazione avviene abbattendo giovani animali. Può essere abbattuto al massimo un numero di lupi non superiore alla metà dei cuccioli nati nell’anno in questione.[^4bis-2]
 
-<sup>2</sup> In caso di danni ad animali da reddito, la regolazione è autorizzata se nell’areale abituale di attività di un branco di lupi riprodottosi con successo sono stati uccisi almeno 15 animali da reddito nell’arco di quattro mesi. Per valutare i danni è applicabile per analogia l’articolo 9<sup>bis</sup> capoversi 3 e 4.
+<sup>1bis</sup> Nel quadro della regolazione di cui al capoverso 1, da novembre a gennaio può essere abbattuto, in via eccezionale, anche un genitore che risulta essere particolarmente dannoso. Segnatamente, un genitore è considerato particolarmente dannoso se nell’arco di diversi anni causa annualmente almeno i due terzi dei danni di cui al capoverso 2.[^4bis-3]
+
+<sup>1ter</sup> L’abbattimento dei lupi deve avvenire, per quanto possibile, in prossimità di insediamenti o di greggi e mandrie di animali da reddito.[^4bis-4]
+
+<sup>2</sup> In caso di danni ad animali da reddito, la regolazione è autorizzata se nell’areale abituale di attività di un branco di lupi riprodottosi con successo sono stati uccisi almeno dieci animali da reddito nell’arco di quattro mesi.[^4bis-5] Per valutare i danni è applicabile per analogia l’articolo 9<sup>bis</sup> capoversi 3 e 4.
 
 <sup>3</sup> In caso di grave pericolo per l’uomo, la regolazione è autorizzata se lupi appartenenti a un branco si aggirano regolarmente e spontaneamente all’interno o nelle immediate vicinanze di insediamenti mostrandosi aggressivi o troppo poco timorosi nei confronti dell’uomo.
 
 <sup>4</sup> Le autorizzazioni di abbattimento devono essere limitate all’areale abituale di attività del branco di lupi. Devono essere rilasciate entro il 31 dicembre dell’anno in questione e la loro validità non può andare oltre il 31 marzo dell’anno successivo.
 
 [^4bis-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
+[^4bis-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^4bis-3]: Introdotto dal n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^4bis-4]: Introdotto dal n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)
+[^4bis-5]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
 
 #### Art. 4<sup>ter</sup>
 
@@ -274,7 +282,7 @@ I rapaci in cattività per falconeria possono essere tenuti:
 <sup>2</sup> Sono fatte salve le disposizioni dell’ordinanza del 4 settembre 2013[^7-1] sulla circolazione delle specie di fauna e di flora protette relative all’importazione, al transito e all’esportazione.[^7-2]
 
 [^7-1]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
-[^7-2]: Nuovo testo giusta il n. II 5 dell’all. all’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
+[^7-2]: Nuovo testo giusta l’all. n. II 5 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette, in vigore dal 1° ott. 2013 ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)).
 
 #### Art. 8
 
@@ -338,19 +346,22 @@ Sono competenti:
 
 Un danno ad animali da reddito causato da un singolo lupo è considerato rilevante se nel suo areale abituale di attività:
 
-- a. sono uccisi almeno 35 animali da reddito nell’arco di quattro mesi;
-- b. sono uccisi almeno 25 animali da reddito nell’arco di un mese; o
-- c. sono uccisi almeno 15 animali da reddito dopo che l’anno precedente erano già stati registrati danni causati da lupi.
+- a. sono uccisi almeno 25 animali da reddito nell’arco di quattro mesi;
+- b. sono uccisi almeno 15 animali da reddito nell’arco di un mese; o
+- c. sono uccisi almeno 10 animali da reddito nell’arco di quattro mesi dopo che in passato erano già stati registrati danni causati da lupi.[^9bis-2]
 
-<sup>3</sup> Per valutare il danno di cui al capoverso 2 non sono considerati gli animali da reddito che sono uccisi in una regione in cui, malgrado precedenti danni causati da lupi, non è stata adottata alcuna misura di protezione ragionevolmente esigibile.
+<sup>3</sup> In caso di bovini, equini e camelidi del nuovo mondo si ha un danno rilevante quando un singolo lupo uccide nell’arco di quattro mesi almeno due animali da reddito.[^9bis-3]
 
-<sup>4</sup> In caso di danni a bovini o equini, il numero minimo di animali da reddito uccisi di cui al capoverso 2 può essere ridotto adeguatamente.
+<sup>4</sup> Per valutare il danno di cui ai capoversi 2 lettera c e 3 non sono considerati gli animali da reddito che sono uccisi in una zona in cui, malgrado i danni risalenti a più di quattro mesi prima, non è stata adottata alcuna misura di protezione ragionevolmente esigibile di cui all’articolo 10<sup>quinquies</sup>.[^9bis-4]
 
 <sup>5</sup> I danni verificatisi sul territorio di due o più Cantoni devono essere valutati in modo coordinato dai Cantoni interessati.
 
 <sup>6</sup> L’autorizzazione di abbattimento deve servire a prevenire altri danni ad animali da reddito. La sua validità deve essere limitata a un massimo di 60 giorni e a un perimetro di abbattimento adeguato. Quest’ultimo corrisponde al perimetro dell’alpeggio, se al suo interno non può essere adottata alcuna misura di protezione ragionevolmente esigibile.
 
 [^9bis-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 15 lug. 2015 ([RU 2015 2207](https://fedlex.data.admin.ch/eli/oc/2015/407)).
+[^9bis-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-3]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^9bis-4]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
 
 #### Art. 10
 
@@ -403,12 +414,20 @@ L’UFAM elabora strategie di tutela delle specie animali di cui all’articolo 
 
 <sup>1</sup>
 
-Per prevenire i danni causati dai grandi predatori agli animali da reddito, l’UFAM promuove le misure seguenti:
+Per prevenire i danni causati dai grandi predatori agli animali da reddito, l’UFAM partecipa nella misura dell’80 per cento ai costi calcolati forfettariamente delle misure seguenti:
 
-- a. l’allevamento, l’addestramento, la tenuta e l’impiego di cani da protezione del bestiame;
-- b. la protezione degli alveari mediante recinzioni elettriche.
+- a. allevamento, addestramento, tenuta e impiego di cani da protezione del bestiame che soddisfano i requisiti di cui all’articolo 10<sup>quater</sup> capoverso 2;
+- b. elettrificazione di recinzioni di pascoli per la protezione dai grandi predatori;
+- c. recinzioni elettriche per la protezione degli alveari dagli orsi;
+- d. altre misure adottate dai Cantoni d’intesa con l’UFAM, se le misure di cui alle lettere a–c non sono sufficienti o adeguate.[^10ter-2]
 
-<sup>2</sup> Se le misure di cui al capoverso 1 non sono sufficienti o adeguate, l’UFAM può promuovere misure supplementari dei Cantoni per proteggere il bestiame e le api.
+<sup>2</sup>
+
+L’UFAM può partecipare al massimo nella misura dell’80 per cento ai costi delle seguenti attività dei Cantoni:
+
+- a. la pianificazione regionale degli alpeggi per ovini e caprini come base per la protezione del bestiame;
+- b. la pianificazione per separare gli itinerari per mountain-bike e i sentieri escursionistici dalla zona d’impiego dei cani da protezione del bestiame di cui al capoverso 1 lettera a nonché l’attuazione di queste misure;
+- c. la pianificazione della prevenzione di conflitti con gli orsi.[^10ter-3]
 
 <sup>3</sup> L’UFAM sostiene e coordina la pianificazione territoriale delle misure da parte dei Cantoni. A tal fine emana una direttiva.
 
@@ -417,6 +436,8 @@ Per prevenire i danni causati dai grandi predatori agli animali da reddito, l’
 <sup>5</sup> L’UFAM può sostenere organizzazioni d’importanza nazionale che forniscono alle autorità e alle cerchie interessate informazioni e consulenza in materia di protezione del bestiame e delle api. Per il coordinamento intercantonale delle misure può fare appello a tali organizzazioni.
 
 [^10ter-1]: Introdotto dal n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4315](https://fedlex.data.admin.ch/eli/oc/2013/767)).
+[^10ter-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
+[^10ter-3]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)).
 
 #### Art. 10<sup>quater</sup>
 
@@ -443,6 +464,26 @@ L’UFAM promuove la protezione del bestiame con cani che:
 [^10quater-4]: Nuovo testo giusta il n. II 2 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 [^10quater-5]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^10quater-6]: Introdotto dal n. II 2 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
+
+#### Art. 10<sup>quinquies</sup>
+
+**Misure di protezione ragionevolmente esigibili contro i grandi predatori**[^10quinquies-1]
+
+<sup>1</sup>
+
+Per proteggere gli animali da reddito contro i grandi predatori nei pascoli l’adozione delle seguenti misure è considerata esigibile ai sensi dell’articolo 9<sup>bis</sup> capoverso 4:
+
+- a. ovini e caprini: recinzioni elettriche per la protezione dai grandi predatori o cani da protezione del bestiame che soddisfano i requisiti secondo l’articolo 10<sup>quater</sup> capoverso 2;
+- b. camelidi del nuovo mondo, suini al pascolo nonché cervi tenuti in recinti: recinzioni elettriche per la protezione dai grandi predatori;
+- c. bovini ed equini: la sorveglianza delle madri e dei loro cuccioli durante il parto, la loro detenzione congiunta su pascoli sorvegliati durante le prime due settimane di vita come pure la rimozione immediata di placente espulse e di carcasse di cuccioli;
+- d. alveari: recinzioni elettriche che proteggono dagli orsi;
+- e. misure supplementari dei Cantoni di cui all’articolo 10<sup>ter</sup> capoverso 1 lettera d.
+
+<sup>2</sup> I Cantoni definiscono i perimetri degli alpeggi al cui interno l’adozione di misure di protezione di cui al capoverso 1 non è considerata esigibile.
+
+<sup>3</sup> Animali da reddito su un’area aziendale che si trovano in stalle o aree di uscita recintate sono considerati protetti.
+
+[^10quinquies-1]: Introdotto dal n. I dell’O del 30 giu. 2021, in vigore dal 15 lug. 2021 ([RU 2021 418](https://fedlex.data.admin.ch/eli/oc/2021/418)
 
 ## Sezione 4: Ricerca
 
@@ -528,7 +569,7 @@ L’UFAM consegna ogni anno ai Cantoni un elenco delle persone cui è stata riti
 
 [^18-1]: Introdotto dal n. I 28 dell’O del 26 giu. 1996 sulla nuova attribuzione delle competenze decisionali nell’Amministrazione federale, in vigore dal 1° ago. 1996 ([RU 1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)).
 [^18-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
-[^18-3]: Introdotto dal n. 14 dell’all. 2 all’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
+[^18-3]: Introdotto dall’all. 2 n. 14 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
 
 #### Art. 18<sup>bis</sup>
 
