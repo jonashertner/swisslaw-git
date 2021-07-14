@@ -3,13 +3,13 @@ canton: BS
 number: RiE 162.110
 title: Personalreglement
 language: de
-version: 2021-01-01
-valid_until: 2021-07-14
-version_adopted: 2020-12-15
+version: 2021-07-15
+valid_until: 2021-12-31
+version_adopted: 2021-07-06
 adopted: 2002-07-16
 in_force: 2002-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5095/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5300/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5095/pdf_file"
 
 Personalreglement | Riehen: Einwohnergemeinde
 
-Vom 16. Juli 2002 (Stand 1. Januar 2021)
+Vom 16. Juli 2002 (Stand 15. Juli 2021)
 
 Der Gemeinderat Riehen
 
@@ -508,8 +508,12 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 - b) Geburt eines Kindes: 10 Tage für den Vater und 5 Tage für die eingetragene Partnerin
 - c) Adoption eines Kindes: 5 Tage
 - d) Todesfall naher Angehöriger oder vergleichbar nahestehender Personen: bis zu 4 Tagen
-- e) Erkrankung von Angehörigen, sofern es an der notwendigen Betreuung fehlt: bis zu 3 Tagen
+- e) Betreuung von nahen Angehörigen mit gesundheitlicher Beeinträchtigung bis zu 3 Tagen pro Ereignis; ausser bei der Betreuung der eigenen Kinder beträgt der Betreuungsurlaub höchstens zehn Tage pro Kalenderjahr
 - f) Wohnungswechsel: 1 Tag
+
+<sup>3</sup> Als nahe Angehörige im Sinne dieses Reglements gelten alle Verwandten in auf- und absteigender Linie und die Geschwister sowie die Ehegattin bzw. der Ehegatte, die eingetragene Partnerin bzw. der eingetragene Partner, die Person, mit welcher eine faktische Lebensgemeinschaft geführt wird, und die Schwiegereltern. Als Kinder gelten diejenigen Personen, zu denen ein Kindesverhältnis im zivilrechtlichen Sinne besteht.
+
+<sup>4</sup> In begründeten Fällen kann die Anstellungsinstanz ausnahmsweise von der Mitarbeiterin bzw. dem Mitarbeiter einen Nachweis für den Urlaubsgrund verlangen.
 
 #### § 37
 
@@ -634,6 +638,24 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 <sup>3</sup> Bezieht ein Mitarbeiter einen Vaterschaftsurlaub gemäss § 36 Abs. 2 lit. b, dürfen die Ferien nicht gekürzt werden.
 
 <sup>4</sup> Kündigt die Arbeitgeberin das Arbeitsverhältnis und hat der Mitarbeiter vor Ende des Arbeitsverhältnisses Anspruch auf einen Vaterschaftsurlaub nach § 36 Abs. 2 lit. b, wird die Kündigungsfrist um die noch nicht bezogenen Urlaubstage verlängert.
+
+#### § 46b
+
+**Betreuungsurlaub für die Pflege schwer beeinträchtigter Kinder**
+
+<sup>1</sup> Hat eine Mitarbeiterin oder ein Mitarbeiter Anspruch auf eine Betreuungsentschädigung nach den Art. 16n–16s des Bundesgesetzes über den Erwerbsersatz für Dienstleistende, bei Mutterschaft und bei Vaterschaft (Erwerbsersatzgesetz, EOG) vom 25. September 1952, weil ihr oder sein Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, so hat sie oder er Anspruch auf einen Betreuungsurlaub von höchstens 14 Wochen.
+
+<sup>2</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
+
+<sup>3</sup> Sind beide Eltern berufstätig, so hat jeder Elternteil Anspruch auf einen Betreuungsurlaub von höchstens sieben Wochen. Sie können eine abweichende Aufteilung des Urlaubs wählen.
+
+<sup>4</sup> Der Urlaub kann am Stück oder tageweise bezogen werden.
+
+<sup>5</sup> Die Anstellungsinstanz und die bzw. der Vorgesetzte sind unverzüglich über die Modalitäten des Urlaubsbezugs sowie über Änderungen zu informieren.
+
+<sup>6</sup> Die Ferien dürfen nicht gekürzt werden, wenn eine Mitarbeiterin oder ein Mitarbeiter einen Betreuungsurlaub bezieht.
+
+<sup>7</sup> Solange der Anspruch auf Betreuungsurlaub besteht, darf die Arbeitgeberin das Arbeitsverhältnis nicht kündigen, längstens aber während sechs Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt.
 
 ## VII. Nebenbeschäftigung
 
