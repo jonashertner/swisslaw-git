@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de la loi fédérale sur l’aménagement des cours d’eau
 document: Projet mis en consultation
 language: fr

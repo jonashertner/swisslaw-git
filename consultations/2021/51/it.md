@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sulla sistemazione dei corsi d’acqua
 document: Progetto posto in consultazione
 language: it
