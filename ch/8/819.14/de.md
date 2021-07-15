@@ -4,11 +4,11 @@ title: "Verordnung vom 2. April 2008 über die Sicherheit von Maschinen (Maschin
 short: MaschV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/263"
 language: de
-version: 2017-01-15
+version: 2021-07-16
 adopted: 2008-04-02
 in_force: 2009-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/263/20170115/de/xml/fedlex-data-admin-ch-eli-cc-2008-263-20170115-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20170115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/263/20210716/de/xml/fedlex-data-admin-ch-eli-cc-2008-263-20210716-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20210716/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20170115/de"
 
 (Maschinenverordnung, MaschV)
 
-vom 2. April 2008 (Stand am 15. Januar 2017)
+vom 2. April 2008 (Stand am 16. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -39,19 +39,20 @@ verordnet:
 
 <sup>2</sup> Der Geltungsbereich richtet sich nach Artikel 1 der EU-Maschinenrichtlinie. Deren Artikel 3 gilt sinngemäss.[^1-3]
 
-<sup>2bis</sup> Es gelten die Begriffe nach Artikel 2 der EU-Maschinenrichtlinie. Zudem gelten die Ausdrucksentsprechungen nach Anhang 1 Ziffer 1.[^1-4]
+<sup>2bis</sup> Es gelten die Begriffe nach Artikel 2 der EU-Maschinenrichtlinie und nach Artikel 3 Nummern 8−13 der Verordnung (EU) 2019/1020[^1-4] (EU-Marktüberwachungsverordnung). Zudem gelten die Entsprechungen von Ausdrücken nach Anhang 1 Ziffer 1.[^1-5]
 
-<sup>3</sup> Wird in dieser Verordnung auf Bestimmungen der EU-Maschinenrichtlinie verwiesen, die ihrerseits auf anderes EU-Recht verweisen, so gilt statt dieses EU-Rechts das schweizerische Recht nach Anhang 1 Ziffer 2.[^1-5]
+<sup>3</sup> Wird in dieser Verordnung auf Bestimmungen der EU-Maschinenrichtlinie und der EU-Marktüberwachungsverordnung verwiesen, die ihrerseits auf anderes EU-Recht verweisen, so gilt statt dieses EU-Rechts das schweizerische Recht nach Anhang 1 Ziffer 2.[^1-6]
 
-<sup>4</sup> Soweit diese Verordnung keine besonderen Bestimmungen enthält, gelten für Maschinen die Bestimmungen der Verordnung vom 19. Mai 2010[^1-6] über die Produktesicherheit (PrSV).[^1-7]
+<sup>4</sup> Soweit diese Verordnung keine besonderen Bestimmungen enthält, gelten für Maschinen die Bestimmungen der Verordnung vom 19. Mai 2010[^1-7] über die Produktesicherheit (PrSV).[^1-8]
 
 [^1-1]: Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Maschinen und zur Änderung der Richtlinie 95/16/EG (Neufassung), ABl. L 157 vom 9.6.2006, S. 24; zuletzt geändert durch Richtlinie 2014/33/EU, ABl. L 96 vom 29.3.2014, S. 251.
 [^1-2]: Fassung gemäss Anhang 3 Ziff. II der V vom 16. Nov. 2016 über technische Anforderungen an Traktoren und deren Anhänger, in Kraft seit 15. Jan. 2017 ([AS 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)).
 [^1-3]: Fassung gemäss Anhang 3 Ziff. II der V vom 16. Nov. 2016 über technische Anforderungen an Traktoren und deren Anhänger, in Kraft seit 15. Jan. 2017 ([AS 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)).
-[^1-4]: Eingefügt durch Anhang 3 Ziff. II der V vom 16. Nov. 2016 über technische Anforderungen an Traktoren und deren Anhänger, in Kraft seit 15. Jan. 2017 ([AS 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)).
-[^1-5]: Fassung gemäss Anhang 3 Ziff. II der V vom 16. Nov. 2016 über technische Anforderungen an Traktoren und deren Anhänger, in Kraft seit 15. Jan. 2017 ([AS 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)).
-[^1-6]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
-[^1-7]: Fassung gemäss Anhang 4 Ziff. II 8 der V vom 19. Mai 2010 über die Produktesicherheit, in Kraft seit 1. Juli 2010 ([AS 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
+[^1-4]: Verordnung (EU) 2019/1020 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über Marktüberwachung und die Konformität von Produkten sowie zur Änderung der Richtlinie 2004/42/EG und der Verordnung (EG) Nr. 765/2008 und (EU) Nr. 305/2011, Fassung gemäss ABl. L 169 vom 25.6.2019, S. 1.
+[^1-5]: Eingefügt durch Anhang 3 Ziff. II der V vom 16. Nov. 2016 über technische Anforderungen an Traktoren und deren Anhänger ([AS 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)). Fassung gemäss Ziff. I der V vom 17. Febr. 2021, in Kraft seit 16. Juli 2021 ([AS 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
+[^1-6]: Fassung gemäss Ziff. I der V vom 17. Febr. 2021, in Kraft seit 16. Juli 2021 ([AS 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
+[^1-7]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^1-8]: Fassung gemäss Anhang 4 Ziff. II 8 der V vom 19. Mai 2010 über die Produktesicherheit, in Kraft seit 1. Juli 2010 ([AS 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 
 #### Art. 2
 
@@ -61,15 +62,17 @@ verordnet:
 
 Maschinen dürfen nur in Verkehr gebracht werden, wenn:
 
-- a.[^2-1] sie bei ordnungsgemässer Installation und Wartung und bei bestimmungsgemässer oder vernünftigerweise vorhersehbarer Verwendung die Sicherheit und die Gesundheit von Personen und gegebenenfalls von Haustieren und Sachen sowie, sofern für diese Maschinen in der EU-Maschinenrichtlinie spezifische Umweltvorschriften bestehen, die Umwelt nicht gefährden; und
-- b. die Anforderungen nach den folgenden Bestimmungen der EU-Maschinenrichtlinie[^2-2] erfüllt sind: Artikel 5 Absatz 1 Buchstaben a–e sowie Absätze 2 und 3 und Artikel 12 und 13.
+- a. sie bei ordnungsgemässer Installation und Wartung und bei bestimmungsgemässer oder vernünftigerweise vorhersehbarer Verwendung die Sicherheit und die Gesundheit von Personen und gegebenenfalls von Haustieren und Sachen sowie, sofern für diese Maschinen in der EU-Maschinenrichtlinie[^2-1] spezifische Umweltvorschriften bestehen, die Umwelt nicht gefährden;
+- b. die Anforderungen nach den folgenden Bestimmungen der EU-Maschinenrichtlinie erfüllt sind: Artikel 5 Absatz 1 Buchstaben a–e und Absätze 2 und 3 sowie Artikel 12 und 13; und
+- c. ein Wirtschaftsakteur nach Artikel 4 Absatz 2 der EU-Marktüberwachungsverordnung[^2-2] die Pflichten nach Artikel 4*a* erfüllt.[^2-3]
 
 <sup>2</sup> Dem Inverkehrbringen gleichgestellt ist die Inbetriebnahme von Maschinen, falls zuvor kein Inverkehrbringen stattgefunden hat.
 
 <sup>3</sup> Für das Vorführen von Maschinen an Messen, Ausstellungen und dergleichen gilt Artikel 6 Absatz 3 der EU-Maschinenrichtlinie.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 20. April 2011, in Kraft seit 15. Dez. 2011 ([AS 2011 1755](https://fedlex.data.admin.ch/eli/oc/2011/268)).
-[^2-2]: Siehe Fussnote zu Art. 1 Abs. 1.
+[^2-1]: Siehe Fussnote zu Art. 1 Abs. 1.
+[^2-2]: Siehe Fussnote zu Art. 1 Abs. 2<sup>bis</sup>.
+[^2-3]: Fassung gemäss Ziff. I der V vom 17. Febr. 2021, in Kraft seit 16. Juli 2021 ([AS 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
 
 #### Art. 3
 
@@ -94,6 +97,20 @@ Die Konformitätsbewertungsstellen müssen für den betreffenden Fachbereich:
 <sup>2</sup> Die Konformitätsbewertungsstellen unterrichten die im betreffenden Sachbereich zuständigen Bundesbehörden, wenn die Baumusterprüfbescheinigung oder die Zulassung des Qualitätssicherungssystems ausgesetzt, widerrufen oder mit Einschränkungen versehen wird oder sich ein Eingreifen der zuständigen Behörde als erforderlich erweisen könnte.
 
 [^4-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+
+#### Art. 4a
+
+**Pflichten der Wirtschaftsakteure**[^4a-1]
+
+Die Pflichten folgender Wirtschaftsakteure ergeben sich unbeschadet der Bestimmungen der EU-Maschinenrichtlinie[^4a-2] aus den Bestimmungen der EU-Marktüberwachungsverordnung[^4a-3]:
+
+- a. Hersteller: aus Artikel 5 der EU-Maschinenrichtlinie sowie Artikel 4 Absätze 3 und 4 der EU-Marktüberwachungsverordnung;
+- b. Bevollmächtigter: aus Artikel 5 der EU-Maschinenrichtlinie sowie Artikel 4 Absätze 3 und 4 und Artikel 5 der EU-Marktüberwachungsverordnung;
+- c. Importeur, Händler und Fulfilment-Dienstleister: aus Artikel 4 Absätze 3 und 4 der EU-Marktüberwachungsverordnung.
+
+[^4a-1]: Eingefügt durch Ziff. I der V vom 17. Febr. 2021, in Kraft seit 16. Juli 2021 ([AS 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
+[^4a-2]: Siehe Fussnote zu Art. 1 Abs. 1.
+[^4a-3]: Siehe Fussnote zu Art. 1 Abs. 2<sup>bis</sup>.
 
 #### Art. 5
 
@@ -132,9 +149,9 @@ Anhang 1*[^t-1]*
 
 ## Entsprechungen von Ausdrücken und anwendbarem Recht
 
-[^t-1]: Fassung gemäss Anhang 3 Ziff. II der V vom 16. Nov. 2016 über technische Anforderungen an Traktoren und deren Anhänger, in Kraft seit 15. Jan. 2017 ([AS 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)).
+[^t-1]: Fassung gemäss Anhang 3 Ziff. II der V vom 16. Nov. 2016 über technische Anforderungen an Traktoren und deren Anhänger ([AS 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)). Bereinigt gemäss Ziff. II der V vom 17. Febr. 2021, in Kraft seit 16. Juli 2021 ([AS 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
 
-\1. Für die korrekte Auslegung der Ausdrücke, die in der EU-Maschinenrichtlinie[^annex1-lvlu1-1], auf die in dieser Verordnung verwiesen wird, genannt werden, gelten die folgenden Entsprechungen:
+\1. Die nachstehenden Ausdrücke der EU-Maschinenrichtlinie[^annex1-lvlu1-1] und der EU-Marktüberwachungsverordnung[^annex1-lvlu1-2] sowie der vorliegenden Verordnung entsprechen sich wie folgt:
 
 - a. Deutsche Ausdrücke
 
@@ -151,6 +168,8 @@ Anhang 1*[^t-1]*
 <tr><td>EG-Baumusterprüfbescheinigung</td><td>Baumusterprüfbescheinigung</td></tr>
 <tr><td>EG-Baumusterprüfung</td><td>Baumusterprüfung</td></tr>
 <tr><td>EG-Baumusterprüfverfahren</td><td>Baumusterprüfverfahren</td></tr>
+<tr><td>Einführer</td><td>Importeur</td></tr>
+<tr><td>Union</td><td>Schweiz</td></tr>
 </table>
 
 - b. Französische Ausdrücke
@@ -167,6 +186,7 @@ Anhang 1*[^t-1]*
 <tr><td>attestation d’examen CE de type</td><td>certificat d’examen de type</td></tr>
 <tr><td>examen CE de type</td><td>examen de type</td></tr>
 <tr><td>procédure d’examen CE de type</td><td>procédure d’examen de type</td></tr>
+<tr><td>Union</td><td>Suisse</td></tr>
 </table>
 
 - c. Italienische Ausdrücke
@@ -183,6 +203,7 @@ Anhang 1*[^t-1]*
 <tr><td>attestato d’esame CE del tipo</td><td>attestato d’esame del tipo</td></tr>
 <tr><td>esame CE del tipo</td><td>esame del tipo</td></tr>
 <tr><td>procedura per la certificazione di esame CE del tipo</td><td>procedura per la certificazione di esame</td></tr>
+<tr><td>Unione</td><td>Svizzera</td></tr>
 </table>
 
 \2. Wird in dieser Verordnung auf Bestimmungen der EU-Maschinenrichtlinie verwiesen, die ihrerseits auf anderes EU-Recht verweisen, so gilt statt dieses EU‑Rechts das folgende schweizerische Recht:
@@ -191,12 +212,13 @@ Anhang 1*[^t-1]*
 <tr><td>*Richtlinie 2003/37/EG:* Richtlinie 2003/37/EG des Europäischen Parlaments und des Rates vom 26. Mai 2003 über die Typgenehmigung für land- oder forstwirtschaftliche Zugmaschinen, ihre Anhänger und die von ihnen gezogenen auswechselbaren Maschinen sowie für Systeme, Bauteile und selbstständige technische Einheiten dieser Fahrzeuge und zur Aufhebung der Richtlinie 74/150/EWG, ABl. L 171 vom 9.7.2003, S. 1 (ersetzt durch Verordnung (EU) Nr. 167/2013, ABl. L 60 vom 2.3.2013, S. 1).</td><td>Verordnung über technische Anforderungen an Traktoren und deren Anhänger (TAFV 2; SR *741.413*)</td></tr>
 <tr><td>*Richtlinie 70/156/EWG:* Richtlinie 70/156/EWG des Rates vom 6. Februar 1970 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Betriebserlaubnis für Kraftfahrzeuge und Kraftfahrzeuganhänger, ABl. L 42 vom 23.2.1970, S. 1 (ersetzt durch Richtlinie 2007/46/EG, ABl. L 263 vom 9.10.2007, S. 1).</td><td>Verordnung über technische Anforderungen an Transportmotorwagen und deren Anhänger (TAFV 1; SR *741.412*)</td></tr>
 <tr><td>*Richtlinie 2002/24/EG:* Richtlinie 2002/24/EG des Europäischen Parlaments und des Rates vom 18. März 2002 über die Typgenehmigung für zweirädrige oder dreirädrige Kraftfahrzeuge und zur Aufhebung der Richtlinie 92/61/EWG des Rates, ABl. L 124 vom 9.5.2002, S. 1 (ersetzt durch Verordnung (EU) Nr. 168/2013, ABl. L 60 vom 2.3.2013, S. 52).</td><td>Verordnung über die Anerkennung von EU-Genehmigungen und über technische Anforderungen an Motorräder, Leicht-, Klein- und dreirädrige Motorfahrzeuge sowie Motorfahrräder (TAFV 3; SR *741.414*)</td></tr>
-<tr><td>*Richtlinie 73/23/EWG:* Richtlinie 73/23/EWG des Rates vom 19. Februar 1973 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten betreffend elektrische Betriebsmittel zur Verwendung innerhalb bestimmter Spannungsgrenzen (Niederspannungsrichtlinie), ABl. L 77 vom 26.3.1973, S. 29 (ersetzt durch Richtlinie 2006/95/EG, ABl. L 374 vom 27.12.2006, S. 10).</td><td>Verordnung über elektrische Niederspannungserzeugnisse (NEV; SR *734.26*)</td></tr>
+<tr><td>*Richtlinie 2014/35/EU:* Richtlinie 2014/35/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Bereitstellung elektrischer Betriebsmittel zur Verwendung innerhalb bestimmter Spannungsgrenzen auf dem Markt (Neufassung), Fassung gemäss ABl. L 96 vom 29.3.2014, S. 357.</td><td>Verordnung über elektrische Niederspannungserzeugnisse (NEV; SR *734.26*)</td></tr>
 <tr><td>*Verordnung (EG) Nr. 1107/2009:* Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates, ABl. L 309 vom 24.11.2009, S. 1.</td><td>Pflanzenschutzmittelverordnung (PSMV; SR *916.161*)</td></tr>
 <tr><td>*Richtlinie 2009/128/EG:* Richtlinie 2009/128/EG des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über einen Aktionsrahmen der Gemeinschaft für die nachhaltige Verwendung von Pestiziden, ABl. L 309 vom 24.11.2009, S. 71.</td><td>die folgenden drei Verordnungen: 1. Pflanzenschutzmittelverordnung (PSMV; SR *916.161*), 2. Chemikalien-Risikoreduktions-Verordnung (ChemRRV; SR *814.81*), 3. Direktzahlungsverordnung (DZV; SR *910.13*)</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: Siehe Fussnote zu Art. 1 Abs. 1.
+[^annex1-lvlu1-2]: Siehe Fussnote zu Art. 1 Abs. 2<sup>bis</sup>.
 
 Anhang 2
 
@@ -206,6 +228,6 @@ Anhang 2
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annex2-lvlu1-1]
+...[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)konsultiert werden.

@@ -4,11 +4,11 @@ title: "Ordinanza del 2 aprile 2008 concernente la sicurezza delle macchine (Ord
 short: OMacch
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/263"
 language: it
-version: 2017-01-15
+version: 2021-07-16
 adopted: 2008-04-02
 in_force: 2009-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/263/20170115/it/xml/fedlex-data-admin-ch-eli-cc-2008-263-20170115-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20170115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/263/20210716/it/xml/fedlex-data-admin-ch-eli-cc-2008-263-20210716-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20210716/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/263/20170115/it"
 
 (Ordinanza sulle macchine, OMacch)
 
-del 2 aprile 2008 (Stato 15 gennaio 2017) (Stato 15 gennaio 2017)
+del 2 aprile 2008 (Stato 16 luglio 2021) (Stato 16 luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -29,7 +29,7 @@ ordina:
 [^ingress-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 [^ingress-3]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
 [^ingress-4]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^ingress-5]: Nuovo testo giusta il n. II 8 dell’all. 4 all’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
+[^ingress-5]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 
 #### Art. 1
 
@@ -39,43 +39,48 @@ ordina:
 
 <sup>2</sup> Il campo d’applicazione è disciplinato dall’articolo 1 della direttiva UE relativa alle macchine. L’articolo 3 della stessa si applica per analogia.[^1-3]
 
-<sup>2bis</sup> Si applicano le definizioni di cui all’articolo 2 della direttiva UE relativa alle macchine. Si applicano inoltre le espressioni equivalenti di cui all’allegato 1 numero 1.[^1-4]
+<sup>2bis</sup> Si applicano le definizioni di cui all’articolo 2 della direttiva UE relativa alle macchine e di cui all’articolo 3 punti 8−13 del regolamento (UE) 2019/1020[^1-4] (regolamento UE sulla vigilanza del mercato). Si applicano inoltre le equivalenze terminologiche di cui all’allegato 1 numero 1.[^1-5]
 
-<sup>3</sup> Se la presente ordinanza rimanda a disposizioni della direttiva UE relativa alle macchine, che a loro volta rimandano ad altre normative UE, in luogo di queste ultime si applica la normativa svizzera come da allegato 1 numero 2.[^1-5]
+<sup>3</sup> Se la presente ordinanza rimanda a disposizioni della direttiva UE relativa alle macchine e al regolamento UE sulla vigilanza del mercato, che a loro volta rimandano ad altre normative UE, in luogo di queste ultime si applica la normativa svizzera come da allegato 1 numero 2.[^1-6]
 
-<sup>4</sup> Nella misura in cui la presente ordinanza non contiene particolari disposizioni, sono applicabili alle macchine le disposizioni dell’ordinanza del 19 maggio 2010[^1-6] sulla sicurezza dei prodotti (OSPro).[^1-7]
+<sup>4</sup> Nella misura in cui la presente ordinanza non contiene particolari disposizioni, sono applicabili alle macchine le disposizioni dell’ordinanza del 19 maggio 2010[^1-7] sulla sicurezza dei prodotti (OSPro).[^1-8]
 
 [^1-1]: Direttiva 2006/42/CE del Parlamento europeo e del Consiglio del 17 maggio 2006 relativa alle macchine e che modifica la direttiva 95/16/CE (rifusione), GU L 157 del 9.6.2006, pag. 24; modificata da ultimo dalla direttiva 2014/33/UE, GU L 96 del 29.3.2014, pag. 251.
-[^1-2]: Nuovo testo giusta il n. II dell’all. 3 all’O del 16 nov. 2016 concernente le esigenze tecniche per i trattori e i loro rimorchi, in vigore dal 15 gen. 2017 ([RU 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)).
-[^1-3]: Nuovo testo giusta il n. II dell’all. 3 all’O del 16 nov. 2016 concernente le esigenze tecniche per i trattori e i loro rimorchi, in vigore dal 15 gen. 2017 ([RU 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)).
-[^1-4]: Introdotto dal n. II dell’all. 3 all’O del 16 nov. 2016 concernente le esigenze tecniche per i trattori e i loro rimorchi, in vigore dal 15 gen. 2017 ([RU 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)).
-[^1-5]: Nuovo testo giusta il n. II dell’all. 3 all’O del 16 nov. 2016 concernente le esigenze tecniche per i trattori e i loro rimorchi, in vigore dal 15 gen. 2017 ([RU 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)).
-[^1-6]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
-[^1-7]: Nuovo testo giusta il n. II 8 dell’all. 4 all’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
+[^1-2]: Nuovo testo giusta l’all. 3 n. II dell’O del 16 nov. 2016 concernente le esigenze tecniche per i trattori e i loro rimorchi, in vigore dal 15 gen. 2017 ([RU 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)).
+[^1-3]: Nuovo testo giusta l’all. 3 n. II dell’O del 16 nov. 2016 concernente le esigenze tecniche per i trattori e i loro rimorchi, in vigore dal 15 gen. 2017 ([RU 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)).
+[^1-4]: Regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019, sulla vigilanza del mercato e sulla conformità dei prodotti e che modifica la direttiva 2004/42/CE e i regolamenti (CE) n. 765/2008 e (UE) n. 305/2011, versione della GU L 169 del 25.6.2019, pag. 1.
+[^1-5]: Introdotto dall’all. 3 n. II dell’O del 16 nov. 2016 concernente le esigenze tecniche per i trattori e i loro rimorchi ([RU 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)). Nuovo testo giusta il n. I dell’O del 17 feb. 2021, in vigore dal 16 lug. 2021 ([RU 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
+[^1-6]: Nuovo testo giusta il n. I dell’O del 17 feb. 2021, in vigore dal 16 lug. 2021 ([RU 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
+[^1-7]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^1-8]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 
 #### Art. 2
 
 **Condizioni per l’immissione sul mercato[^2-1]**
 
-<sup>1</sup>
+<sup>1</sup> equivale all’immissione sul mercato se quest’ultima non è avvenuta in precedenza.
 
 È lecito mettere in circolazione macchine soltanto se:
 
-- a.[^2-2] quando sono installate e mantenute in modo corretto nonché utilizzate conformemente ai loro scopi e in condizioni ragionevolmente prevedibili, non mettono in pericolo né la sicurezza né la salute delle persone e di eventuali animali domestici, né l’integrità dei beni né l’ambiente, purché la direttiva UE relativa alle macchine contempli per tali macchine prescrizioni specifiche in materia ambientale; e
-- b. soddisfano le esigenze fissate nelle seguenti disposizioni della direttiva UE relativa alle macchine: articolo 5 paragrafo 1 lettere a–e, nonché paragrafi 2 e 3, e articoli 12 e 13.
-
-<sup>2</sup> La messa in servizio di macchine equivale all’immissione sul mercato se quest’ultima non è avvenuta in precedenza.
+- a. quando sono installate e mantenute in modo corretto nonché utilizzate conformemente ai loro scopi e in condizioni ragionevolmente prevedibili, non mettono in pericolo né la sicurezza né la salute delle persone e di eventuali animali domestici, né l’integrità dei beni né l’ambiente, purché la direttiva UE relativa alle macchine[^2-2] contempli per tali macchine prescrizioni specifiche in materia ambientale;
+- b. soddisfano le esigenze fissate nelle seguenti disposizioni della direttiva UE relativa alle macchine: articolo 5 paragrafo 1 lettere a–e, nonché paragrafi 2 e 3, e articoli 12 e 13; e
+- c. un operatore economico secondo l’articolo 4 paragrafo 2 del regolamento UE sulla vigilanza del mercato[^2-3] adempie gli obblighi di cui all’articolo 4*a*.[^2-4]
 
 <sup>3</sup> Per la presentazione di macchine in occasione di fiere, esposizioni o manifestazioni simili si applica l’articolo 6 paragrafo 3 della direttiva UE relativa alle macchine.
 
-[^2-1]: Nuova espr. giusta il n. II dell’all. 3 all’O del 16 nov. 2016 concernente le esigenze tecniche per i trattori e i loro rimorchi, in vigore dal 15 gen. 2017 ([RU 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^2-2]: Nuovo testo giusta il n. I dell’O del 20 apr. 2011, in vigore dal 15 dic. 2011 ([RU 2011 1755](https://fedlex.data.admin.ch/eli/oc/2011/268)).
+[^2-1]: Nuova espr. giusta l’all. 3 n. II dell’O del 16 nov. 2016 concernente le esigenze tecniche per i trattori e i loro rimorchi, in vigore dal 15 gen. 2017 ([RU 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-2]: Si veda la nota a piè di pagina all’art. 1 cpv. 1.
+[^2-3]: Si veda la nota a piè di pagina all’art. 1 cpv. 2<sup>bis</sup>.
+[^2-4]: Nuovo testo giusta il n. I dell’O del 17 feb. 2021, in vigore dal 16 lug. 2021 ([RU 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
 
 #### Art. 3
 
 **Norme tecniche**
 
-La Segreteria di Stato dell’economia (SECO) indica quali norme tecniche sono appropriate per soddisfare i requisiti essenziali di sicurezza e di tutela della salute secondo l’allegato I della direttiva UE relativa alle macchine.
+La Segreteria di Stato dell’economia (SECO) indica quali norme tecniche sono appropriate per soddisfare i requisiti essenziali di sicurezza e di tutela della salute secondo l’allegato I della direttiva UE relativa alle macchine[^3-1].[^3-2]
+
+[^3-1]: Si veda la nota a piè di pagina all’art. 1 cpv. 1.
+[^3-2]: Nuovo testo giusta il n. I dell’O del 17 feb. 2021, in vigore dal 16 lug. 2021 ([RU 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
 
 #### Art. 4
 
@@ -93,17 +98,33 @@ Gli organismi di valutazione della conformità devono, ciascuno per il campo di 
 
 [^4-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
+#### Art. 4a
+
+**Obblighi degli operatori economici**[^4a-1]
+
+Gli obblighi spettanti ai seguenti operatori economici derivano dalle disposizioni del regolamento UE sulla vigilanza del mercato[^4a-2], fatte salve le disposizioni della direttiva UE relativa alle macchine[^4a-3]:
+
+- a. fabbricante: dall’articolo 5 della direttiva UE relativa alle macchine e dall’articolo 4 paragrafi 3 e 4 del regolamento UE sulla vigilanza del mercato;
+- b. mandatario: dall’articolo 5 della direttiva UE relativa alle macchine nonché dall’articolo 4 capoversi 3 e 4 e dall’articolo 5 del regolamento UE sulla vigilanza del mercato;
+- c. importatore, distributore e fornitore di servizi di logistica: dall’articolo 4 paragrafi 3 e 4 del regolamento UE sulla vigilanza del mercato.
+
+[^4a-1]: Introdotto dal n. I dell’O del 17 feb. 2021, in vigore dal 16 lug. 2021 ([RU 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
+[^4a-2]: Si veda la nota a piè di pagina all’art. 1 cpv. 2<sup>bis</sup>.
+[^4a-3]: Si veda la nota a piè di pagina all’art. 1 cpv. 1.
+
 #### Art. 5
 
 **Sorveglianza del mercato[^5-1]**
 
 <sup>1</sup> La sorveglianza del mercato è disciplinata negli articoli 20–28 OSPro[^5-2].[^5-3]
 
-<sup>2</sup> I competenti organi di controllo attuano in Svizzera i provvedimenti decisi dalla Commissione europea in base agli articoli 8 e 9 della direttiva UE relativa alle macchine<sup>.</sup> I divieti o le limitazioni di immissione sul mercato o le revoche di macchine sono pubblicati nel Foglio federale.
+<sup>2</sup> I competenti organi di controllo attuano in Svizzera i provvedimenti decisi dalla Commissione europea in base agli articoli 8 e 9 della direttiva UE relativa alle macchine[^5-4].[^5-5] I divieti o le limitazioni di immissione sul mercato o le revoche di macchine sono pubblicati nel Foglio federale.
 
-[^5-1]: Nuovo testo giusta il n. II 8 dell’all. 4 all’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
+[^5-1]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
 [^5-2]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
-[^5-3]: Nuovo testo giusta il n. II 8 dell’all. 4 all’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
+[^5-3]: Nuovo testo giusta l’all. 4 n. II 8 dell’O del 19 mag. 2010 sulla sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)).
+[^5-4]: Si veda la nota a piè di pagina all’art. 1 cpv. 1.
+[^5-5]: Nuovo testo giusta il n. I dell’O del 17 feb. 2021, in vigore dal 16 lug. 2021 ([RU 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
 
 #### Art. 6
 
@@ -129,9 +150,9 @@ Allegato 1*[^t-1]*
 
 ## Equivalenze terminologiche e diritto applicabile
 
-[^t-1]: Nuovo testo giusta il n. II dell’all. 3 all’O del 16 nov. 2016 concernente le esigenze tecniche per i trattori e i loro rimorchi, in vigore dal 15 gen. 2017 ([RU 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)).
+[^t-1]: Nuovo testo giusta l’all. 3 n. II dell’O del 16 nov. 2016 concernente le esigenze tecniche per i trattori e i loro rimorchi ([RU 2016 5197](https://fedlex.data.admin.ch/eli/oc/2016/821)). Aggiornato dal n. II dell’O del 17 feb. 2021, in vigore dal 16 lug. 2021 ([RU 2021 131](https://fedlex.data.admin.ch/eli/oc/2021/131)).
 
-\1. Per interpretare correttamente le espressioni menzionate nella direttiva UE relativa alle macchine[^annex1-lvlu1-1] a cui rimanda la presente ordinanza, occorre tener conto delle equivalenze seguenti:
+\1. Le espressioni qui appresso della direttiva UE relativa alle macchine[^annex1-lvlu1-1] e del regolamento UE sulla vigilanza del mercato[^annex1-lvlu1-2] hanno nella presente ordinanza gli equivalenti seguenti:
 
 - a. Espressioni italiane
 
@@ -147,6 +168,7 @@ Allegato 1*[^t-1]*
 <tr><th>attestato d’esame CE del tipo</th><th>attestato d’esame del tipo</th></tr>
 <tr><th>esame CE del tipo</th><th>esame del tipo</th></tr>
 <tr><th>procedura per la certificazione di esame CE del tipo</th><th>procedura per la certificazione di esame</th></tr>
+<tr><th>Unione</th><th>Svizzera</th></tr>
 </table>
 
 - b. Espressioni tedesche
@@ -164,6 +186,8 @@ Allegato 1*[^t-1]*
 <tr><td>EG-Baumusterprüfbescheinigung</td><td>Baumusterprüfbescheinigung</td></tr>
 <tr><td>EG-Baumusterprüfung</td><td>Baumusterprüfung</td></tr>
 <tr><td>EG-Baumusterprüfverfahren</td><td>Baumusterprüfverfahren</td></tr>
+<tr><td>Einführer</td><td>Importeur</td></tr>
+<tr><td>Union</td><td>Schweiz</td></tr>
 </table>
 
 - c. Espressioni francesi
@@ -180,6 +204,7 @@ Allegato 1*[^t-1]*
 <tr><th>attestation d’examen CE de type</th><th>certificat d’examen de type</th></tr>
 <tr><th>examen CE de type</th><th>examen de type</th></tr>
 <tr><th>procédure d’examen CE de type</th><th>procédure d’examen de type</th></tr>
+<tr><th>Union</th><th>Suisse</th></tr>
 </table>
 
 \2. Se la presente ordinanza rimanda a disposizioni della direttiva UE relativa alle macchine che, a loro volta, rimandano ad altre normative UE, in luogo di tali normative UE si applica il seguente diritto svizzero:
@@ -188,12 +213,13 @@ Allegato 1*[^t-1]*
 <tr><td>*Direttiva 2003/37/CE:* direttiva 2003/37/CE del Parlamento europeo e del Consiglio, del 26 maggio 2003, relativa all’omologazione dei trattori agricoli o forestali, dei loro rimorchi e delle loro macchine intercambiabili trainate, nonché dei sistemi, componenti ed entità tecniche di tali veicoli, che abroga la direttiva 74/150/CEE, GU L 171 del 9.7.2003, pag. 1 (sostituita dal regolamento (UE) n. 167/2013, GU L 60 del 2.3.2013, pag. 1).</td><td>Ordinanza concernente le esigenze tecniche per i trattori e i loro rimorchi (OETV 2; RS *741.413*)</td></tr>
 <tr><td>*Direttiva 70/156/CEE:* direttiva 70/156/CEE del Consiglio, del 6 febbraio 1970, concernente il ravvicinamento delle legislazioni degli Stati membri relative all’omologazione dei veicoli a motore e dei loro rimorchi, GU L 42 del 23.2.1970, pag. 1 (sostituita dalla direttiva 2007/46/CE, GU L 263 del 9.10.2007, pag. 1).</td><td>Ordinanza concernente le esigenze tecniche per gli autoveicoli di trasporto e i loro rimorchi (OETV 1; RS *741.412*)</td></tr>
 <tr><td>*Direttiva 2002/24/CE:* direttiva 2002/24/CE del Parlamento europeo e del Consiglio, del 18 marzo 2002, relativa all’omologazione dei veicoli a motore a due o tre ruote e che abroga la direttiva 92/61/CEE del Consiglio, GU L 124 del 9.5.2002, pag. 1 (sostituita dal regolamento (UE) n. 168/2013, GU L 60 del 2.3.2013, pag. 52).</td><td>Ordinanza concernente il riconoscimento delle omologazioni UE e le esigenze tecniche per motoveicoli, quadricicli leggeri a motore, quadricicli a motore, tricicli a motore e ciclomotori (OETV 3; RS *741.414*)</td></tr>
-<tr><td>*Direttiva 73/23/CEE:* direttiva 73/23/CEE del Consiglio, del 19 febbraio 1973, concernente il ravvicinamento delle legislazioni degli Stati Membri relative al materiale elettrico destinato ad essere adoperato entro taluni limiti di tensione (direttiva relativa alla bassa tensione), GU L 77 del 26.3.1973, pag. 29, (sostituita dalla direttiva 2006/95/CE, GU L 374 del 27.12.2006, pag. 10).</td><td>Ordinanza sui prodotti elettrici a bassa tensione (OPBT; RS *734.26*)</td></tr>
+<tr><td>*Direttiva 2014/35/UE*: direttiva 2014/35/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, concernente l’armonizzazione delle legislazioni degli Stati membri relative alla messa a disposizione sul mercato del materiale elettrico destinato a essere adoperato entro taluni limiti di tensione (rifusione), versione della GU L 96 del 29.3.2014, pag. 357.</td><td>Ordinanza sui prodotti elettrici a bassa tensione (OPBT; RS *734.26*)</td></tr>
 <tr><td>*Regolamento (CE) n. 1107/2009:* regolamento (CE) n. 1107/2009 del Parlamento europeo e del Consiglio, del 21 ottobre 2009, relativo all’immissione sul mercato dei prodotti fitosanitari e che abroga le direttive del Consiglio 79/117/CEE e 91/414/CEE, GU L 309 del 24.11.2009, pag. 1.</td><td>Ordinanza sui prodotti fitosanitari (OPF; RS *916.161*)</td></tr>
 <tr><td>*Direttiva 2009/128/CE:* direttiva 2009/128/CE del Parlamento europeo e del Consiglio, del 21 ottobre 2009, che istituisce un quadro per l’azione comunitaria ai fini dell’utilizzo sostenibile dei pesticidi, GU L 309 del 24.11.2009, pag. 71.</td><td>Le tre ordinanze seguenti: 1. Ordinanza sui prodotti fitosanitari (OPF; RS *916.161*); 2. Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici (ORRPChim; RS *814.81*); 3. Ordinanza sui pagamenti diretti (OPD; RS *910.13*).</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: Si veda la nota a piè di pagina all’art. 1 cpv. 1.
+[^annex1-lvlu1-2]: Si veda la nota a piè di pagina all’art. 1 cpv. 2<sup>bis</sup>.
 
 Allegato 2
 
