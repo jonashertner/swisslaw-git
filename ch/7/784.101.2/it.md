@@ -4,11 +4,11 @@ title: Ordinanza del 25 novembre 2015 sugli impianti di telecomunicazione (OIT)
 short: OIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: it
-version: 2021-01-01
+version: 2021-07-16
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-24-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/it/xml/fedlex-data-admin-ch-eli-cc-2016-24-20210716-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210716/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210101/it"
 
 (OIT)
 
-del 25 novembre 2015 (Stato 1° gennaio 2021)
+del 25 novembre 2015 (Stato 16 luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -70,7 +70,9 @@ Nella presente ordinanza si intende per:
 - m. *mandatario:* ogni persona fisica o giuridica con sede in Svizzera che ha ricevuto da un fabbricante un mandato scritto che la autorizza ad agire a suo nome in relazione a determinati compiti;
 - n. *importatore:* ogni persona fisica o giuridica con sede in Svizzera che immette sul mercato svizzero un impianto di telecomunicazione proveniente dall’estero;
 - o. *distributore:* ogni persona fisica o giuridica presente nella catena di fornitura, diversa dal fabbricante e dall’importatore, che mette un impianto di telecomunicazione a disposizione sul mercato;
-- p. *operatori economici:* il fabbricante, il mandatario, l’importatore e il distributore;
+- o<sup>bis</sup>.[^2-1] *fornitore di servizi su ordinazione:* ogni persona fisica o giuridica che propone, nel quadro di un’attività commerciale, almeno due dei servizi seguenti: deposito, confezionamento, etichettatura e spedizione, senza essere proprietaria dei prodotti in questione, eccetto i servizi postali ai sensi dell’articolo 2 lettera a della legge del 17 dicembre 2010[^2-2] sulle poste e di qualsiasi altro servizio di trasporto merci;
+- p.[^2-3] *operatori economici*: il fabbricante, il mandatario, l’importatore, il distributore, il fornitore di servizi su ordinazione e ogni persona fisica o giuridica che soggiace a obblighi relativi alla produzione di prodotti, alla loro messa a disposizione sul mercato o alla loro messa in servizio;
+- p<sup>bis</sup>.[^2-4] *fornitore di servizi della società dell’informazione:* ogni persona fisica o giuridica che propone un servizio della società dell’informazione, vale a dire qualsiasi servizio prestato normalmente dietro retribuzione, a distanza, per via elettronica e su richiesta individuale di un destinatario di servizi;
 - q. *marchio di conformità*: marchio mediante il quale il fabbricante indica che l’impianto di telecomunicazione è conforme alle disposizioni applicabili della legislazione svizzera che ne prevedono l’apposizione.
 
 <sup>2</sup> L’importazione di impianti di telecomunicazione destinati al mercato svizzero è equiparata a un’immissione in commercio.
@@ -92,6 +94,11 @@ Un importatore o un distributore è equiparato a un fabbricante:
 - a. se immette in commercio un impianto di telecomunicazione con il proprio nome o marchio; o
 - b. se modifica un impianto già immesso in commercio tanto da pregiudicarne la conformità alla presente ordinanza.
 - [tab] <sup>9</sup> La riparazione di un impianto di telecomunicazione è equiparata a un esercizio.
+
+[^2-1]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^2-2]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^2-4]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 3
 
@@ -291,6 +298,15 @@ La documentazione tecnica deve contenere, se del caso, almeno gli elementi segue
 
 <sup>2</sup> In caso di immissione in commercio di serie di impianti di radiocomunicazione, il termine decorre dalla data dell’immissione in commercio dell’ultimo esemplare della serie in questione.
 
+<sup>3</sup>
+
+Il fornitore di servizi su ordinazione soggiace all’obbligo di cui al capoverso 1:
+
+- a. se il fabbricante e il suo mandatario non risiedono in Svizzera; e
+- b. se l’importatore importa l’impianto per il proprio utilizzo.[^16-1]
+
+[^16-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+
 #### Art. 17
 
 **Laboratori di prova e organismi di valutazione della conformità**
@@ -334,7 +350,11 @@ Oltre agli obblighi previsti dall’OAccD, gli organismi di valutazione della co
 
 <sup>6</sup> Se il fabbricante non ha sede in Svizzera, ogni impianto di radiocomunicazione deve anche recare il nome, la ragione sociale o il marchio registrato dell’importatore, nonché l’indirizzo postale al quale può essere contattato. Ove ciò non sia possibile, queste informazioni devono figurare sull’imballaggio dell’impianto o in un documento di accompagnamento. I dati sono indicati in una lingua che può essere facilmente compresa dagli utilizzatori finali.
 
+<sup>6bis</sup> Se il fabbricante e il suo mandatario non risiedono in Svizzera e l’importatore importa l’impianto per il proprio utilizzo, ogni impianto di radiocomunicazione deve anche recare il nome, la ragione sociale o il marchio registrato del fornitore di servizi su ordinazione, nonché l’indirizzo postale al quale può essere contattato. Se ciò non è possibile, queste informazioni devono figurare sull’imballaggio dell’impianto o in un documento di accompagnamento. I dati sono indicati in una lingua che può essere facilmente compresa dagli utilizzatori finali.[^18-1]
+
 <sup>7</sup> L’UFCOM emana le prescrizioni amministrative necessarie.
+
+[^18-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 19
 
@@ -397,7 +417,12 @@ Gli importatori e i distributori devono garantire che, fintanto che un impianto 
 
 <sup>3</sup> I distributori che ritengono o hanno motivo di supporre che un impianto di radiocomunicazione da essi messo a disposizione sul mercato non sia conforme alla presente ordinanza devono assicurarsi che siano prese le misure correttive necessarie per rendere conforme tale impianto o, se necessario, ritirarlo o richiamarlo.
 
-<sup>4</sup> Inoltre, qualora l’impianto di radiocomunicazione presenti un rischio, i fabbricanti, gli importatori e i distributori devono informarne immediatamente l’UFCOM, fornendo in particolare precisazioni relative alla non conformità e alle misure correttive prese.
+<sup>4</sup> Qualora l’impianto di radiocomunicazione presenti un rischio, i fabbricanti, i mandatari, gli importatori e i distributori devono informarne immediatamente l’UFCOM, indicando in particolare in modo dettagliato i motivi della non conformità e le misure correttive adottate.[^23-1]
+
+<sup>5</sup> Qualora l’impianto di radiocomunicazione presenti un rischio, i fornitori di servizi su ordinazione devono informarne immediatamente l’UFCOM, indicando in particolare in modo dettagliato i motivi della non conformità e le misure correttive adottate, nel caso in cui né il fabbricante, né il suo mandatario risiedano in Svizzera e l’importatore abbia importato l’impianto per il proprio utilizzo.[^23-2]
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^23-2]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 24
 
@@ -407,7 +432,9 @@ Gli importatori e i distributori devono garantire che, fintanto che un impianto 
 
 <sup>2</sup> Le informazioni e la documentazione devono essere fornite per scritto in formato cartaceo o elettronico, in una lingua che può essere facilmente compresa dall’UFCOM.
 
-<sup>3</sup> Su richiesta dell’UFCOM, gli operatori economici cooperano all’attuazione di qualsiasi misura destinata a eliminare i rischi presentati dagli impianti di radiocomunicazione da essi messi a disposizione sul mercato. Questo obbligo si applica anche al mandatario per gli impianti di radiocomunicazione che rientrano nel suo mandato.
+<sup>3</sup> Su richiesta dell’UFCOM, gli operatori economici e i fornitori di servizi della società dell’informazione collaborano nell’esecuzione di tutte le misure volte a eliminare i rischi che un impianto di radiocomunicazione da essi messo a disposizione sul mercato presenta. Questo obbligo si applica anche al mandatario per gli impianti di radiocomunicazione che rientrano nel suo mandato.[^24-1]
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 ## Capitolo 3: Eccezioni
 
@@ -753,14 +780,14 @@ Allegato 1
 - 1\.1 Il marchio di conformità svizzero è composto di due lettere latine maiuscole susseguenti, «C» e «H»: «CH». Le lettere devono essere applicate in una forma ellittica con l’asse principale orizzontale.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/it/xml/image/image1.png)</td><td>Dimensioni minime: Altezza dell’ellissi Larghezza dell’ellissi Altezza delle lettere Larghezza delle lettere Spessore del tratto</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/it/xml/image/image1.png)</td><td>Dimensioni minime: Altezza dell’ellissi Larghezza dell’ellissi Altezza delle lettere Larghezza delle lettere Spessore del tratto</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 In caso di riduzione o di ingrandimento del marchio di conformità, devono essere mantenute le sue proporzioni.
 - **2.** **Marchio di conformità estero**
 - 2\.1 È ammesso il marchio di conformità definito nell’allegato II del regolamento (CE) n. 765/2008[^annex1-lvlu1-1]. L’illustrazione ha carattere informativo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/it/xml/image/image2.png)
 
 - 2\.2 L’apposizione di questo marchio di conformità deve rispettare i principi generali definiti all’articolo 30 del regolamento (CE) n. 765/2008.
 - **3.** Le dimensioni minime del marchio di conformità possono essere ridotte nel caso di impianti di radiocomunicazione di piccole dimensioni, purché il marchio di conformità resti visibile e leggibile.

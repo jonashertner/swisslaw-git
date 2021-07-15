@@ -4,11 +4,11 @@ title: Verordnung vom 25. November 2015 über Fernmeldeanlagen (FAV)
 short: FAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: de
-version: 2021-01-01
+version: 2021-07-16
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2016-24-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/de/xml/fedlex-data-admin-ch-eli-cc-2016-24-20210716-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210716/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210101/de"
 
 (FAV)
 
-vom 25. November 2015 (Stand am 1. Januar 2021)
+vom 25. November 2015 (Stand am 16. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -70,7 +70,9 @@ In dieser Verordnung bedeutet:
 - m. *bevollmächtigte Person:* jede in der Schweiz ansässige natürliche oder juristische Person, die von der Herstellerin schriftlich ermächtigt wurde, in ihrem Namen bestimmte Aufgaben wahrzunehmen;
 - n. *Importeurin**:* jede in der Schweiz ansässige natürliche oder juristische Person, die eine Fernmeldeanlage aus dem Ausland auf dem Schweizer Markt in Verkehr bringt;
 - o. *Händlerin**:* jede natürliche oder juristische Person in der Lieferkette, die eine Fernmeldeanlage auf dem Markt bereitstellt, mit Ausnahme der Herstellerin oder der Importeurin;
-- p. *Wirtschaftsakteurinnen:* die Herstellerin, die bevollmächtigte Person, die Importeurin und die Händlerin;
+- o<sup>bis</sup>.[^2-1] *Fulfilment-Dienstleisterin:* jede natürliche oder juristische Person, die im Rahmen einer Geschäftstätigkeit mindestens zwei der folgenden Dienstleistungen anbietet: Lagerhaltung, Verpackung, Adressierung und Versand von Produkten, ohne deren Eigentümerin zu sein; ausgenommen sind Postdienste nach Artikel 2 Buchstabe a des Postgesetzes vom 17. Dezember 2010[^2-2] und alle sonstigen Warenverkehrsdienstleistungen;
+- p.[^2-3] *Wirtschaftsakteurin:* jede Herstellerin, bevollmächtigte Person, Importeurin, Händlerin, Fulfilment-Dienstleisterin oder jede andere natürliche oder juristische Person, die Pflichten im Zusammenhang mit der Herstellung von Produkten, deren Bereitstellung auf dem Markt oder deren Inbetriebnahme unterliegt;
+- p<sup>bis</sup>.[^2-4] *Anbieterin von Diensten der Informationsgesellschaft:* jede natürliche oder juristische Person, die einen Dienst der Informationsgesellschaft anbietet, das heisst jede in der Regel gegen Entgelt, im Fernabsatz, elektronisch und auf individuellen Abruf einer Empfängerin oder eines Empfängers erbrachte Dienstleistung;
 - q. *Konformitätskennzeichen**:* Kennzeichen, durch das die Herstellerin erklärt, dass die Fernmeldeanlage den grundlegenden Anforderungen genügt, die in den Rechtsvorschriften der Schweiz über ihre Anbringung festgelegt sind.
 
 <sup>2</sup> Der Import von Fernmeldeanlagen für den Schweizer Markt ist dem Inverkehrbringen gleichzusetzen.
@@ -92,6 +94,11 @@ Eine Importeurin oder eine Händlerin ist einer Herstellerin gleichzusetzen, wen
 - a. eine Fernmeldeanlage unter ihrem eigenen Namen oder ihrer eigenen Handelsmarke in Verkehr bringt; oder
 - b. eine bereits auf dem Markt befindliche Anlage so verändert, dass die Konformität mit dieser Verordnung beeinträchtigt werden kann.
 - [tab] <sup>9</sup> Die Reparatur einer Fernmeldeanlage ist dem Betreiben gleichzusetzen.
+
+[^2-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^2-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^2-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 3
 
@@ -291,6 +298,15 @@ Die technischen Unterlagen müssen gegebenenfalls mindestens folgende Elemente e
 
 <sup>2</sup> Bei Inverkehrbringen von Funkanlageserien beginnt diese Frist mit dem Datum des Inverkehrbringens der letzten Anlage der betroffenen Serie zu laufen.
 
+<sup>3</sup>
+
+Die Fulfilment-Dienstleisterin untersteht der Pflicht nach Absatz 1, wenn:
+
+- a. die Herstellerin und die von ihr bevollmächtigte Person nicht in der Schweiz niedergelassen sind; und
+- b. die Importeurin die Anlage für den Eigengebrauch importiert.[^16-1]
+
+[^16-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+
 #### Art. 17
 
 **Prüf- und Konformitätsbewertungsstellen**
@@ -334,7 +350,11 @@ Zusätzlich zu den in der AkkBV vorgesehenen Pflichten müssen die Konformitäts
 
 <sup>6</sup> Wenn die Herstellerin nicht in der Schweiz ansässig ist, muss jede Funkanlage zusätzlich den Namen, die Firma oder die eingetragene Handelsmarke der Importeurin und die Postadresse, unter der sie erreicht werden kann, enthalten. Ist dies nicht möglich, müssen diese Informationen auf der Verpackung der Anlage oder in einem Begleitdokument angebracht werden. Die Kontaktdaten sind in einer Sprache anzugeben, die für die Endnutzerinnen und Endnutzer leicht verständlich ist.
 
+<sup>6bis</sup> Wenn die Herstellerin und die von ihr bevollmächtigte Person nicht in der Schweiz ansässig sind und die Importeurin die Funkanlage für den Eigengebrauch importiert, müssen auf jeder Anlage zusätzlich der Name, die Firma oder die eingetragene Handelsmarke der Fulfilment-Dienstleisterin sowie die Postadresse, unter der sie erreicht werden kann, angebracht werden. Ist dies nicht möglich, so müssen diese Informationen auf der Verpackung der Anlage oder in einem Begleitdokument angegeben werden. Die Kontaktdaten sind in einer Sprache anzugeben, die für die Endnutzerinnen und Endnutzer leicht verständlich ist.[^18-1]
+
 <sup>7</sup> Das BAKOM erlässt die notwendigen administrativen Vorschriften.
+
+[^18-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 19
 
@@ -399,7 +419,12 @@ Solange sich eine Funkanlage in der Verantwortung der Importeurinnen und der Hä
 
 <sup>3</sup> Händlerinnen, die der Auffassung sind oder Grund zu der Annahme haben, dass eine von ihnen auf dem Markt bereitgestellte Funkanlage nicht dieser Verordnung entsprechen, müssen dafür sorgen, dass die erforderlichen Korrekturmassnahmen ergriffen werden, um die Konformität dieser Anlage herzustellen, oder, falls nötig, sie zurückzunehmen oder zurückzurufen.
 
-<sup>4</sup> Sind mit der Funkanlage Risiken verbunden sind, so müssen die Herstellerinnen, die Importeurinnen und die Händlerinnen ausserdem unverzüglich das BAKOM unterrichten und dabei ausführliche Angaben machen, insbesondere über die Nichtkonformität und die ergriffenen Korrekturmassnahmen.
+<sup>4</sup> Sind mit der Funkanlage Risiken verbunden, so müssen die Herstellerinnen, bevollmächtigten Personen, Importeurinnen und Händlerinnen unverzüglich das BAKOM darüber unterrichten und dabei ausführliche Angaben machen, insbesondere über die Nichtkonformität und die ergriffenen Korrekturmassnahmen.[^23-1]
+
+<sup>5</sup> Sind mit der Funkanlage Risiken verbunden, so müssen die Fulfilment-Dienstleisterinnen unverzüglich das BAKOM darüber unterrichten und dabei ausführliche Angaben machen, insbesondere über die Nichtkonformität und die ergriffenen Korrekturmassnahmen, sofern weder die Herstellerin noch die von ihr bevollmächtigte Person in der Schweiz ansässig ist und die Importeurin die Anlage für den Eigengebrauch importiert hat.[^23-2]
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^23-2]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 24
 
@@ -409,7 +434,9 @@ Solange sich eine Funkanlage in der Verantwortung der Importeurinnen und der Hä
 
 <sup>2</sup> Die Informationen und Dokumente müssen schriftlich in Papierform oder auf elektronischem Wege in einer Sprache, die für das BAKOM leicht verständlich ist, übermittelt werden.
 
-<sup>3</sup> Auf Verlangen des BAKOM wirken die Wirtschaftsakteurinnen bei der Umsetzung aller Massnahmen zur Abwendung von Risiken mit, die mit den von ihnen auf dem Markt bereitgestellten Funkanlagen verbunden sind. Diese Pflicht gilt auch für die bevollmächtige Person für die Funkanlagen, die von ihrer Vollmacht betroffen sind.
+<sup>3</sup> Auf Verlangen des BAKOM wirken die Wirtschaftsakteurinnen und Anbieterinnen von Diensten der Informationsgesellschaft bei der Umsetzung aller Massnahmen zur Abwendung von Risiken mit, die mit den von ihnen auf dem Markt bereitgestellten Funkanlagen verbunden sind. Diese Pflicht gilt auch für die bevollmächtige Person für die Funkanlagen, die von ihrer Vollmacht betroffen sind.[^24-1]
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 ## 3. Kapitel: Ausnahmen
 
@@ -759,14 +786,14 @@ Anhang 1*[^t-1]*
 - 1\.1 Das schweizerische Konformitätskennzeichen setzt sich aus zwei grossen lateinischen Buchstaben «C» und «H» zusammen: «CH». Die Buchstaben müssen in einer Ellipse angebracht werden; die Hauptachse der Ellipse ist horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/de/xml/image/image1.png)</td><td>Mindestgrössen: Höhe der Ellipse Breite der Ellipse Höhe der Buchstaben Breite der Buchstaben Durchmesser des Strichs</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/de/xml/image/image1.png)</td><td>Mindestgrössen: Höhe der Ellipse Breite der Ellipse Höhe der Buchstaben Breite der Buchstaben Durchmesser des Strichs</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 Bei einer Verkleinerung oder Vergrösserung des Konformitätskennzeichens müssen seine Proportionen beibehalten werden.
 - **2.** **Ausländisches Konformitätskennzeichen**
 - 2\.1 Zugelassen ist das Konformitätskennzeichen, das in Anhang II der Verordnung (EG) Nr. 765/2008[^annex1-lvlu1-1] festgelegt ist. Die Illustration dient Informationszwecken.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/de/xml/image/image2.png)
 
 - 2\.2 Beim Anbringen dieses Konformitätskennzeichens müssen die allgemeinen Grundsätze, die in Artikel 30 der Verordnung (EG) Nr. 765/2008 definiert werden, respektiert werden.
 - **3.** Die Mindestgrössen des Konformitätskennzeichens können aufgrund der geringen Grösse der Funkanlage reduziert werden, sofern es sichtbar und leserlich bleibt.

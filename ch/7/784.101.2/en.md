@@ -4,11 +4,11 @@ title: Ordinance of 25 November 2015 on Telecommunications Installations (FAV)
 short: FAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: en
-version: 2021-01-01
+version: 2021-07-16
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2016-24-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/en/xml/fedlex-data-admin-ch-eli-cc-2016-24-20210716-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210716/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (FAV)
 
-of 25 November 2015 (Status as of 1 January 2021)
+of 25 November 2015 (Status as of 16 July 2021)
 
 The Swiss Federal Council,
 
@@ -72,6 +72,9 @@ In this Ordinance:
 - m. *authorised representative* means any natural person or legal entity established in Switzerland that has received a written mandate from a manufacturer to act on its behalf in relation to specified tasks;
 - n. *importer* means any natural person or legal entity established in Switzerland that places a telecommunications installation from a third country on the Swiss market;
 - o. *distributor* means any natural person or legal entity in the supply chain, other than the manufacturer or the importer, who makes a telecommunications installation available on the market;
+- [tab] o<sup>bis</sup>.[^2-1] *fulfilment-service provider* means any natural person or legal entity that, in the course of a business activity, offers any two of the following services: warehousing, packaging, addressing and shipping of products, without being the owner of such products; not included are postal services under Article 2 letter a of the Postal Services Act of 17 December 2010[^2-2] and any other services involving the movement of goods
+- p.[^2-3] *economic operator:* means any manufacturer, authorised representative, importer, distributor, fulfilment service provider or any other natural person or legal entity that is subject to obligations connected with manufacturing products, making products available on the market or putting products into service;
+- p<sup>bis</sup>.[^2-4] *information society service provider* means any natural person or legal entity that offers an information society service, i.e. any service normally provided for a consideration, at a distance, electronically and at the individual request of a recipient;
 - p. *economic operators* means the manufacturer, the authorised representative, the importer and the distributor;
 - q. *conformity marking* means a marking by which the manufacturer indicates that the telecommunications installation is in conformity with the essential requirements set out in Swiss legislation providing for its affixing.
 
@@ -94,6 +97,11 @@ An importer or a distributor is equivalent to a manufacturer if it:
 - a. places a telecommunications installation on the market under its name or its own trade mark; or
 - b. modifies an installation already placed on the market in such a way that compliance with this Ordinance may be affected.
 - [tab] <sup>9</sup> The repair of a telecommunications installation is equivalent to its operation.
+
+[^2-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^2-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-3]: Amended by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^2-4]: Inserted by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 3
 
@@ -293,6 +301,15 @@ The technical documentation must, wherever applicable, contain at least the foll
 
 <sup>2</sup> Where a series of radio equipment is placed on the market, this period begins on the date when the last equipment in the series concerned was placed on the market.
 
+<sup>3</sup>
+
+The fulfilment service provider is subject to the obligation in paragraph 1 if:
+
+- a. the manufacturer and its authorised representative is not established in Switzerland; and
+- b. the importer imports the equipment for its own personal use.[^16-1]
+
+[^16-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+
 #### Art. 17
 
 **Testing laboratories and conformity assessment bodies**
@@ -336,7 +353,11 @@ In addition to their obligations set out in the AccDO, the conformity assessment
 
 <sup>6</sup> If the manufacturer is not based in Switzerland, the radio equipment must also bear the names, registered trade name or the registered trademark of the importer and the postal address at which it can be contacted. Where this is not possible, this information must be provided on its packaging, or in a document accompanying the radio equipment. The contact details must be in a language easily understood by end-users.
 
+<sup>6bis</sup> If the manufacturer and its authorised representative are not based in Switzerland and the importer imports the equipment for its own personal use, each item of equipment must also must indicate the name, registered trade name or registered trademark of the fulfilment service provider and the postal address at which it may be contacted. If this is impossible, this information must be provided on the packaging or in a document accompanying the equipment. The contact details must be in a language easily understood by end users.[^18-1]
+
 <sup>7</sup> OFCOM shall issue the required administrative regulations.
+
+[^18-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 19
 
@@ -401,7 +422,12 @@ Importers and distributors shall ensure that, while radio equipment is under the
 
 <sup>3</sup> Distributors that consider or have reason to believe that radio equipment which they have made available on the market is not in conformity with this Ordinance shall make sure that the corrective measures necessary to bring that radio equipment into conformity, to withdraw it or recall it, if appropriate, are taken.
 
-<sup>4</sup> Furthermore, where the radio equipment presents a risk, the manufacturers, importers and distributors shall immediately inform OFCOM, giving details, in particular, of the non-compliance, of any corrective measures taken.
+<sup>4</sup> Furthermore, where the radio equipment presents a risk, the manufacturers, authorised representatives, importers and distributors shall immediately inform OFCOM, giving details, in particular, of the non-compliance, of any corrective measures taken.[^23-1]
+
+<sup>5</sup> Where the radio equipment presents a risk, the fulfilment service providers must also immediately notify OFCOM to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken, unless the manufacturer or its authorised representative is based in Switzerland and the importer has imported the equipment for its own personal use.[^23-2]
+
+[^23-1]: Amended by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^23-2]: Inserted by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 24
 
@@ -411,7 +437,9 @@ Importers and distributors shall ensure that, while radio equipment is under the
 
 <sup>2</sup> The information and documents must be provided in paper or electronic form and in a language that OFCOM can easily understand.
 
-<sup>3</sup> The economic operators shall cooperate with OFCOM, at its request, on any action taken to eliminate the risks posed by radio equipment which they have placed on the market. This obligation also applies to the authorised representative for the radio equipment covered by the mandate.
+<sup>3</sup> The economic operators und information society service providers shall cooperate with OFCOM, at its request, on any action taken to eliminate the risks posed by radio equipment which they have placed on the market. This obligation also applies to the authorised representative for the radio equipment covered by the mandate.[^24-1]
+
+[^24-1]: Amended by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 ## Chapter 3 Exemptions
 
@@ -761,14 +789,14 @@ Annex 1*[^t-1]*
 - 1\.1 The Swiss conformity marking comprises the two Latin capital letters «C» and «H» together as «CH». The letters must be appear within an elliptical shape; the main axis of the ellipse is horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/en/xml/image/image1.png)</td><td>Minimum dimensions: Height of the ellipse Width of the ellipse Height of the letters Width of the letters Diameter of the line</td><td>7.2 mm 11 mm 5 mm 2.5 mm 0.6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/en/xml/image/image1.png)</td><td>Minimum dimensions: Height of the ellipse Width of the ellipse Height of the letters Width of the letters Diameter of the line</td><td>7.2 mm 11 mm 5 mm 2.5 mm 0.6 mm</td></tr>
 </table>
 
 - 1\.2 In the case of any reduction in size or enlargement of the conformity marking, these proportions must be retained.
 - **2.** **Foreign conformity marking**
 - 2\.1 The use of the conformity marking set out in Annex II to Regulation (EC) No 765/2008[^annex1-lvlu1-1] is permitted. The illustration below is for information purposes only.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/en/xml/image/image2.png)
 
 - 2\.2 When affixing this conformity marking, the general principles set out in Article 30 of Regulation (EC) No 765/2008 must be respected.
 - **3.** The minimum dimensions of the conformity marking may be reduced because of the small size of the radio equipment provided it remains visible and legible.
@@ -888,7 +916,7 @@ Annex 4
 - 3\.5 The manufacturer shall keep the conformity assessment body that has approved the quality system informed of any intended change to the quality system.
 - The conformity assessment body shall evaluate any proposed changes and decide whether the modified quality system will continue to satisfy the requirements referred to in point 3.2 or whether a reassessment is necessary.
 - It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and the reasoned assessment decision.
-- **4** **Monitoring** **under the responsibility of the** **conformity assessment body**
+- **4** **Monitoring under the responsibility of the conformity assessment body**
 - 4\.1 The purpose of monitoring is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.
 - 4\.2
 

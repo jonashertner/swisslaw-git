@@ -4,11 +4,11 @@ title: Ordonnance du 25 novembre 2015 sur les installations de télécommunicati
 short: OIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: fr
-version: 2021-01-01
+version: 2021-07-16
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-24-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/fr/xml/fedlex-data-admin-ch-eli-cc-2016-24-20210716-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210716/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20210101/fr"
 
 (OIT)
 
-du 25 novembre 2015 (Etat le 1<sup>er</sup> janvier 2021)
+du 25 novembre 2015 (Etat le 16 juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -70,7 +70,9 @@ On entend par:
 - m. *mandataire:* toute personne physique ou morale établie en Suisse ayant reçu mandat écrit du fabricant pour agir en son nom aux fins de l’accomplissement de tâches déterminées;
 - n. *importateur:* toute personne physique ou morale établie en Suisse qui effectue la mise sur le marché suisse d’une installation de télécommunication provenant de l’étranger;
 - o. *distributeur:* toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met une installation de télécommunication à disposition sur le marché;
-- p. *opérateurs économiques:* le fabricant, le mandataire, l’importateur et le distributeur;
+- o<sup>bis</sup>.[^2-1] *prestataire de services d’exécution des commandes:* toute personne physique ou morale qui propose, dans le cadre d’une activité commerciale, au moins deux des services suivants: entreposage, conditionnement, étiquetage et expédition, sans être propriétaire des produits concernés, à l’exclusion des services postaux au sens de l’art. 2, let. a, de la loi du 17 décembre 2010 sur la poste[^2-2] et de tout autre service de transport de marchandises;
+- p.[^2-3] *opérateurs économiques:* le fabricant, le mandataire, l’importateur, le distributeur, le prestataire de services d’exécution des commandes ou toute autre personne physique ou morale soumise à des obligations liées à la fabrication de produits, à leur mise à disposition sur le marché ou à leur mise en service;
+- p<sup>bis</sup>.[^2-4] *prestataire de services de la société de l’information:* toute personne physique ou morale qui propose un service de la société de l’information, c’est-à-dire tout service presté normalement contre rémunération, à distance, par voie électronique et à la demande individuelle d’un destinataire de services;
 - q. *marque de conformité:* la marque par laquelle le fabricant indique que l’installation de télécommunication est conforme aux dispositions applicables de la législation suisse prévoyant son apposition.
 
 <sup>2</sup> L’importation d’installations de télécommunication destinées au marché suisse est assimilée à une mise sur le marché.
@@ -93,6 +95,11 @@ Un importateur ou un distributeur est assimilé à un fabricant:
 - b. lorsqu’il modifie une installation déjà mise sur le marché de telle sorte que la conformité à la présente ordonnance peut en être affectée.
 
 <sup>9</sup> La réparation d’une installation de télécommunication est assimilée à une exploitation.
+
+[^2-1]: Introduite par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^2-2]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^2-4]: Introduite par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 3
 
@@ -292,6 +299,15 @@ La documentation technique doit comporter, le cas échéant, au moins les élém
 
 <sup>2</sup> En cas de mise sur le marché de séries d’installations de radiocommunication, le délai court à partir de la date de la mise sur le marché de la dernière installation de la série concernée.
 
+<sup>3</sup>
+
+le prestataire de services d’exécution des commandes est soumis à l’obligation mentionnée à l’al. 1:
+
+- a. si le fabricant et son mandataire ne sont pas établis en Suisse, et
+- b. si l’importateur importe l’installation pour son propre usage.[^16-1]
+
+[^16-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+
 #### Art. 17
 
 **Laboratoire d’essai et organisme d’évaluation de la conformité**
@@ -335,7 +351,11 @@ En plus des obligations prévues par l’OAccD, les organismes d’évaluation d
 
 <sup>6</sup> Si le fabricant n’est pas établi en Suisse, chaque installation de radiocommunication doit également porter le nom, la raison sociale ou la marque déposée de l’importateur, ainsi que l’adresse postale à laquelle il peut être contacté. Lorsque ce n’est pas possible, ces informations doivent figurer sur l’emballage de l’installation ou dans un document l’accompagnant. Les coordonnées sont indiquées dans une langue aisément compréhensible par les utilisateurs finaux.
 
+<sup>6bis</sup> Si le fabricant et son mandataire ne sont pas établis en Suisse, et que l’importateur importe l’installation pour son propre usage, chaque installation de radiocommunication doit également porter le nom, la raison sociale ou la marque déposée du prestataire de services d’exécution des commandes, ainsi que l’adresse postale à laquelle il peut être contacté. Lorsque ce n’est pas possible, ces informations doivent figurer sur l’emballage de l’installation ou dans un document l’accompagnant. Les coordonnées sont indiquées dans une langue aisément compréhensible par les utilisateurs finaux.[^18-1]
+
 <sup>7</sup> L’OFCOM édicte les prescriptions administratives nécessaires.
+
+[^18-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 19
 
@@ -398,7 +418,12 @@ Les importateurs et les distributeurs doivent s’assurer que, tant qu’une ins
 
 <sup>3</sup> Les distributeurs qui considèrent ou ont des raisons de supposer qu’une installation de radiocommunication qu’ils ont mise à disposition sur le marché n’est pas conforme à la présente ordonnance doivent s’assurer que les mesures correctives nécessaires soient prises pour la mettre en conformité ou, si nécessaire, la retirer ou la rappeler.
 
-<sup>4</sup> En outre, si l’installation de radiocommunication présente un risque, les fabricants, les importateurs et les distributeurs doivent en informer immédiatement l’OFCOM, en fournissant notamment des précisions sur la non-conformité et sur les mesures correctives prises.
+<sup>4</sup> Si l’installation de radiocommunication présente un risque, les fabricants, les mandataires, les importateurs et les distributeurs doivent en informer immédiatement l’OFCOM, en fournissant notamment des précisions sur la non-conformité et sur les mesures correctives prises.[^23-1]
+
+<sup>5</sup> Si l’installation de radiocommunication présente un risque, les prestataires de services d’exécution des commandes doivent en informer immédiatement l’OFCOM, en fournissant notamment des précisions sur la non-conformité et sur les mesures correctives prises, pour autant que ni le fabricant ni son mandataire ne soient établis en Suisse et que l’importateur ait importé l’installation pour son propre usage.[^23-2]
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^23-2]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 #### Art. 24
 
@@ -408,7 +433,9 @@ Les importateurs et les distributeurs doivent s’assurer que, tant qu’une ins
 
 <sup>2</sup> Les informations et documents doivent être communiqués par écrit sur support papier ou par voie électronique, dans une langue aisément compréhensible par l’OFCOM.
 
-<sup>3</sup> Sur demande de l’OFCOM, les opérateurs économiques lui apportent leur coopération à la mis en œuvre de toute mesure destinée à éliminer les risques présentés par une installation de radiocommunication qu’ils ont mise à disposition sur le marché. Cette obligation vaut également pour le mandataire en ce qui concerne les installations de radiocommunication couvertes par son mandat.
+<sup>3</sup> Sur demande de l’OFCOM, les opérateurs économiques et les prestataires de services de la société de l’information lui apportent leur coopération à la mise en œuvre de toute mesure destinée à éliminer les risques présentés par une installation de radiocommunication qu’ils ont mise à disposition sur le marché. Cette obligation vaut également pour le mandataire en ce qui concerne les installations de radiocommunication couvertes par son mandat.[^24-1]
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 
 ## Chapitre 3 Exceptions
 
@@ -755,14 +782,14 @@ Annexe 1
 - 1\.1 La marque de conformité suisse se compose des deux grandes lettres latines «C» et «H» accolées: «CH». Les lettres doivent être appliquées dans une forme elliptique, l’axe principal de l’ellipse étant horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/fr/xml/image/image1.png)</td><td>Dimensions minimales: Hauteur de l’ellipse Largeur de l’ellipse Hauteur des lettres Largeur des lettres Épaisseur du trait</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/fr/xml/image/image1.png)</td><td>Dimensions minimales: Hauteur de l’ellipse Largeur de l’ellipse Hauteur des lettres Largeur des lettres Épaisseur du trait</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 En cas de réduction ou d’agrandissement de la marque de conformité, les proportions de celle-ci doivent être respectées.
 - **2.** **Marque de conformité étrangère**
 - 2\.1 Est admise la marque de conformité définie à l’annexe II du règlement (CE) n<sup>o</sup> 765/2008[^annex1-lvlu1-1]. L’illustration a un caractère informatif.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20210716/fr/xml/image/image2.png)
 
 - 2\.2 L’apposition de cette marque de conformité doit respecter les principes généraux définis à l’art. 30 du règlement (CE) n<sup>o</sup> 765/2008.
 - **3.** Les dimensions minimales de la marque de conformité peuvent être réduites en raison de la petite taille de l’installation de radiocommunication pour autant que la marque de conformité reste visible et lisible.
