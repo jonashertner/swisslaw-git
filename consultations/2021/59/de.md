@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision der Verordnung über die Verminderung von Treibhausgasemissionen (CO2-Verordnung)
 document: Vernehmlassungsvorlage
 language: de

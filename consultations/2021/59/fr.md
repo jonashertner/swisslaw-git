@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance sur la réduction des émissions de gaz à effet de serre (ordonnance sur le CO2)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione totale dell’ordinanza sulla riduzione delle emissioni di CO2 (ordinanza sul CO2): avvio della procedura di consultazione"
 document: Progetto posto in consultazione
 language: it
