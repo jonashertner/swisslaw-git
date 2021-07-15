@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung 1 zum Arbeitsgesetz (ArGV 1) und der Verordnung 2 zum Arbeitsgesetz (ArGV 2)
 document: Vernehmlassungsvorlage
 language: de

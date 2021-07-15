@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza 1 concernente la legge sul lavoro (OLL 1) e dell’ordinanza 2 concernente la legge sul lavoro (OLL 2)
 document: Progetto posto in consultazione
 language: it

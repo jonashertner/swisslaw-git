@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnances 1 relative à la loi sur le travail (OLT 1) et l’ordonnance 2 relative à la loi sur le travail (OLT 2)
 document: Projet mis en consultation-2
 language: fr
