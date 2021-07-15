@@ -4,11 +4,11 @@ title: Ordinanza del 25 novembre 2015 sulla compatibilità elettromagnetica (OCE
 short: OCEM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/18"
 language: it
-version: 2021-01-01
+version: 2021-07-16
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-18-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/it/xml/fedlex-data-admin-ch-eli-cc-2016-18-20210716-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210716/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210101/it"
 
 (OCEM)
 
-del 25 novembre 2015 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 25 novembre 2015 (Stato 16 luglio 2021) (Stato 16 luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -74,7 +74,9 @@ Nella presente ordinanza si intende per:
 - l. *mandatario:* ogni persona fisica o giuridica residente in Svizzera incaricata per scritto da un fabbricante di svolgere in suo nome determinati compiti;
 - m. *importatore:* ogni persona fisica o giuridica residente in Svizzera che immette sul mercato svizzero un apparecchio proveniente dall’estero;
 - n. *distributore:* ogni persona fisica o giuridica presente nella catena di fornitura, diversa dal fabbricante e dall’importatore, che mette un apparecchio a disposizione sul mercato;
-- o. *operatori economici:* il fabbricante, il mandatario, l’importatore e il distributore;
+- n<sup>bis</sup>.[^2-1] *fornitore di servizi su ordinazione:* ogni persona fisica o giuridica che propone, nel quadro di un’attività commerciale almeno due dei servizi seguenti: deposito, confezionamento, etichettatura e spedizione, senza essere proprietaria dei prodotti in questione, eccetto i servizi postali ai sensi dell’articolo 2 lettera a della legge del 17 dicembre 2010[^2-2] sulle poste e di qualsiasi altro servizio di trasporto merci;
+- o.[^2-3] *operatori economici*: il fabbricante, il mandatario, l’importatore, il distributore, il fornitore di servizi su ordinazione e ogni persona fisica o giuridica che soggiace a obblighi relativi alla produzione di prodotti, alla loro messa a disposizione sul mercato o alla loro messa in servizio;
+- o<sup>bis</sup>.[^2-4] *fornitore di servizi della società dell’informazione:* ogni persona fisica o giuridica che propone un servizio della società dell’informazione, vale a dire qualsiasi servizio prestato normalmente dietro retribuzione, a distanza, per via elettronica e su richiesta individuale di un destinatario di servizi;
 - p. *marchio di conformità*: marchio mediante il quale il fabbricante indica che l’apparecchio è conforme alle disposizioni applicabili della legislazione svizzera che ne prevedono l’apposizione.
 
 <sup>2</sup> L’importazione di apparecchi destinati al mercato svizzero è equiparata a un’immissione in commercio.
@@ -91,6 +93,11 @@ Un importatore o un distributore è equiparato a un fabbricante se:
 - b. modifica un apparecchio già presente in commercio tanto che la conformità alla presente ordinanza può esserne compromessa.
 
 <sup>6</sup> La riparazione di un’apparecchiatura va equiparata a un’utilizzazione.
+
+[^2-1]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+[^2-2]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+[^2-4]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 #### Art. 3
 
@@ -111,7 +118,7 @@ La presente ordinanza non si applica:
 - e. ai moduli di prova confezionati utilizzati da specialisti unicamente in strutture di ricerca e di sviluppo per questi scopi;
 - f. agli apparecchi utilizzati esclusivamente dalle autorità competenti per adempiere i compiti previsti dalla legge militare del 3 febbraio 1995[^3-3], dalla legge federale del 21 marzo 1997[^3-4] sulle misure per la salvaguardia della sicurezza interna e dalla legge federale del 3 ottobre 2008[^3-5] sul servizio informazioni civile.
 
-[^3-1]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24).
+[^3-1]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
 [^3-2]: Nuova espr. giusta l’art. 43 cpv. 1 lett. d dell’O del 25 nov. 2015 sugli impianti di telecomunicazione, in vigore dal 13 giu. 2016 ([RU 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)).
 [^3-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^3-4]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
@@ -237,6 +244,15 @@ La documentazione tecnica deve contenere all’occorrenza almeno gli elementi se
 
 <sup>2</sup> In caso di immissione in commercio di serie di apparecchi, il termine decorre dalla data dell’immissione in commercio dell’ultimo esemplare della serie in questione.
 
+<sup>3</sup>
+
+Il fornitore di servizi su ordinazione soggiace all’obbligo di cui al capoverso 1:
+
+- a. se il fabbricante e il suo mandatario non risiedono in Svizzera; e
+- b. se l’importatore importa l’apparecchio per il proprio utilizzo.[^12-1]
+
+[^12-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+
 #### Art. 13
 
 **Marchio di conformità, informazioni di identificazione e rintracciabilità**
@@ -250,6 +266,10 @@ La documentazione tecnica deve contenere all’occorrenza almeno gli elementi se
 <sup>4</sup> Ogni apparecchio deve recare il nome, la ragione sociale o il marchio registrato del fabbricante, nonché l’indirizzo postale al quale quest’ultimo può essere contattato. Se ciò non è possibile, queste informazioni devono figurare sull’imballaggio o in un documento di accompagnamento. L’indirizzo precisa un servizio centrale dove il fabbricante può essere contattato. I dati di contatto sono indicati in una lingua che può essere facilmente compresa dagli utilizzatori finali.
 
 <sup>5</sup> Se il fabbricante non risiede in Svizzera, ogni apparecchio deve anche recare il nome, la ragione sociale o il marchio registrato dell’importatore, nonché l’indirizzo postale al quale può essere contattato. Se ciò non è possibile, queste informazioni devono figurare sull’imballaggio dell’apparecchio o in un documento di accompagnamento. I dati di contatto vanno indicati in una lingua che può essere facilmente compresa dagli utilizzatori finali.
+
+<sup>6</sup> Se il fabbricante e il suo mandatario non risiedono in Svizzera e l’importatore importa l’apparecchio per il proprio utilizzo, ogni apparecchio deve anche recare il nome, la ragione sociale o il marchio registrato del fornitore di servizi su ordinazione, nonché l’indirizzo postale al quale può essere contattato. Se ciò non è possibile, queste informazioni devono figurare sull’imballaggio dell’apparecchio o in un documento di accompagnamento. I dati sono indicati in una lingua che può essere facilmente compresa dagli utilizzatori finali.[^13-1]
+
+[^13-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 #### Art. 14
 
@@ -278,10 +298,12 @@ Ogni apparecchio deve essere corredato delle seguenti informazioni:
 
 <sup>3</sup>
 
-La documentazione allegata a un apparecchio di cui al capoverso 2 deve contenere, oltre alle indicazioni di cui all’articolo 10 capoversi 2–4:
+La documentazione allegata a un apparecchio di cui al capoverso 2 deve contenere, oltre alle indicazioni di cui all’articolo 13 capoversi 3–6:[^15-1]
 
 - a. la designazione dell’impianto fisso nel quale l’apparecchio deve essere incorporato e le caratteristiche di compatibilità elettromagnetica di quest’ultimo;
 - b. le misure da adottare per l’incorporazione dell’apparecchio in detto impianto, affinché non ne risulti compromessa la conformità.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 ### Sezione 4: Obblighi generali degli operatori economici
 
@@ -312,7 +334,12 @@ Su richiesta dell’UFCOM, gli operatori economici indicano tutti gli operatori 
 
 <sup>2</sup> I distributori, che ritengono o hanno motivo di supporre che un apparecchio da essi messo a disposizione sul mercato non sia conforme alla presente ordinanza, devono adoperarsi affinché siano prese le misure correttive necessarie per renderlo conforme o, se necessario, per ritirarlo o richiamarlo.
 
-<sup>3</sup> Qualora l’apparecchio presenti un rischio, i fabbricanti, gli importatori e i distributori devono inoltre informarne immediatamente l’UFCOM, indicando in particolare in modo dettagliato i motivi della non conformità e le misure correttive adottate.
+<sup>3</sup> Qualora l’apparecchio presenti un rischio, i fabbricanti, i mandatari, gli importatori e i distributori devono informarne immediatamente l’UFCOM, indicando in particolare in modo dettagliato i motivi della non conformità e le misure correttive adottate.[^18-1]
+
+<sup>4</sup> Qualora l’apparecchio presenti un rischio, i fornitori di servizi su ordinazione devono inoltre informarne immediatamente l’UFCOM, indicando in particolare in modo dettagliato i motivi della non conformità e le misure correttive adottate, nel caso in cui né il fabbricante, né il suo mandatario risiedano in Svizzera e l’importatore abbia importato l’apparecchio per il proprio utilizzo.[^18-2]
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+[^18-2]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 #### Art. 19
 
@@ -321,7 +348,9 @@ Su richiesta dell’UFCOM, gli operatori economici indicano tutti gli operatori 
 <sup>1</sup> Su richiesta motivata dell’UFCOM, gli operatori economici devono fornirgli tutte le informazioni e la documentazione necessarie a dimostrare la conformità dell’apparecchio alla presente ordinanza.
 
 - [tab] <sup>2</sup> Le informazioni e la documentazione devono essere trasmesse per scritto in formato cartaceo o elettronico in una lingua che può essere facilmente compresa dall’UFCOM.
-- [tab] <sup>3</sup> Su richiesta dell’UFCOM, gli operatori economici collaborano nell’esecuzione di tutte le misure volte a eliminare i rischi che gli apparecchi da essi messi a disposizione sul mercato presentano. Quest’obbligo si applica anche al mandatario per gli apparecchi che rientrano nel suo mandato.
+- [tab] <sup>3</sup> Su richiesta dell’UFCOM, gli operatori economici e i fornitori di servizi della società dell’informazione collaborano nell’esecuzione di tutte le misure volte a eliminare i rischi che gli apparecchi da essi messi a disposizione sul mercato presentano. Quest’obbligo si applica anche al mandatario per gli apparecchi che rientrano nel suo mandato.[^19-1]
+
+[^19-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 16 lug. 2021 ([RU 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 ## Capitolo 3: Impianti fissi
 
@@ -505,7 +534,7 @@ Allegato 1
 - 1\.1 Il marchio di conformità svizzero è composto di due lettere latine maiuscole susseguenti, «C» e «H»: «CH». Le lettere, devono essere applicate in una forma ellittica con l’asse principale orizzontale.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210101/it/xml/image/image1.png)</td><td>Dimensioni minime: Altezza dell’ellissi Larghezza dell’ellissi Altezza delle lettere Larghezza delle lettere Spessore del tratto</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/it/xml/image/image1.png)</td><td>Dimensioni minime: Altezza dell’ellissi Larghezza dell’ellissi Altezza delle lettere Larghezza delle lettere Spessore del tratto</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 In caso di ingrandimento del marchio di conformità, devono essere mantenute le sue proporzioni.
@@ -514,7 +543,7 @@ Allegato 1
 
 - 2\.1 È ammesso il marchio di conformità definito nell’allegato 2 del regolamento (CE) n. 765/2008[^annex1-lvlu1-lvl2-1]. L’illustrazione ha carattere informativo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/it/xml/image/image2.png)
 
 - 2\.2 L’apposizione di questo marchio di conformità deve rispettare i principi generali definiti nell’articolo 30 del regolamento (CE) n. 765/2008.
 

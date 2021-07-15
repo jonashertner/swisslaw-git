@@ -4,11 +4,11 @@ title: Verordnung vom 25. November 2015 über die elektromagnetische Verträglic
 short: VEMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/18"
 language: de
-version: 2021-01-01
+version: 2021-07-16
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2016-18-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/de/xml/fedlex-data-admin-ch-eli-cc-2016-18-20210716-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210716/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210101/de"
 
 (VEMV)
 
-vom 25. November 2015 (Stand am 1. Januar 2021)
+vom 25. November 2015 (Stand am 16. Juli 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -74,7 +74,9 @@ In dieser Verordnung bedeutet:
 - l. *bevollmächtigte Person**:* jede in der Schweiz ansässige natürliche oder juristische Person, die von einer Herstellerin schriftlich beauftragt wurde, in ihrem Namen bestimmte Aufgaben wahrzunehmen;
 - m. *Importeurin**:* jede in der Schweiz ansässige natürliche oder juristische Person, die ein Gerät aus dem Ausland auf dem Schweizer Markt in Verkehr bringt;
 - n. *Händlerin**:* jede natürliche oder juristische Person in der Lieferkette, die ein Gerät auf dem Markt bereitstellt, mit Ausnahme der Herstellerin oder der Importeurin;
-- o. *Wirtschaftsakteurinnen**:* die Herstellerin, die bevollmächtigte Person, die Importeurin und die Händlerin;
+- n<sup>bis</sup>.[^2-1] *Fulfilment-Dienstleisterin:* jede natürliche oder juristische Person, die im Rahmen einer Geschäftstätigkeit mindestens zwei der folgenden Dienstleistungen anbietet: Lagerhaltung, Verpackung, Adressierung und Versand von Produkten, ohne deren Eigentümerin zu sein; ausgenommen sind Postdienste nach Artikel 2 Buchstabe a des Postgesetzes vom 17. Dezember 2010[^2-2] und alle sonstigen Warenverkehrsdienstleistungen;
+- o.[^2-3] *Wirtschaftsakteurin:* jede Herstellerin, bevollmächtigte Person, Importeurin, Händlerin, Fulfilment-Dienstleisterin oder jede andere natürliche oder juristische Person, die Pflichten im Zusammenhang mit der Herstellung von Produkten, deren Bereitstellung auf dem Markt oder deren Inbetriebnahme unterliegt;
+- o<sup>bis</sup>.[^2-4] *Anbieterin von Diensten der Informationsgesellschaft:* jede natürliche oder juristische Person, die einen Dienst der Informationsgesellschaft anbietet, das heisst jede in der Regel gegen Entgelt, im Fernabsatz, elektronisch und auf individuellen Abruf einer Empfängerin oder eines Empfängers erbrachte Dienstleistung;
 - p. *Konformitätskennzeichen**:* Kennzeichen, durch das die Herstellerin anzeigt, dass das Gerät den anwendbaren Anforderungen genügt, die in der Gesetzgebung der Schweiz über ihre Anbringung festgelegt sind.
 
 <sup>2</sup> Der Import von Geräten für den Schweizer Markt ist dem Inverkehrbringen gleichzusetzen.
@@ -91,6 +93,11 @@ Eine Importeurin oder Händlerin wird einer Herstellerin gleichgesetzt, wenn sie
 - b. ein bereits auf dem Markt befindliches Gerät so verändert, dass die Konformität mit dieser Verordnung beeinträchtigt werden kann.
 
 <sup>6</sup> Die Reparatur eines Betriebsmittels ist der Verwendung gleichzusetzen.
+
+[^2-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+[^2-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+[^2-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 #### Art. 3
 
@@ -237,6 +244,15 @@ Die technischen Unterlagen müssen gegebenenfalls mindestens die folgenden Eleme
 
 <sup>2</sup> Bei Inverkehrbringen von Geräteserien beginnt diese Frist mit dem Datum des Inverkehrbringens des letzten Geräts der betroffenen Serie zu laufen.
 
+<sup>3</sup>
+
+Die Fulfilment-Dienstleisterin untersteht der Pflicht nach Absatz 1, wenn:
+
+- a. die Herstellerin und die von ihr bevollmächtigte Person nicht in der Schweiz niedergelassen sind; und
+- b. die Importeurin das Gerät für den Eigengebrauch importiert.[^12-1]
+
+[^12-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+
 #### Art. 13
 
 **Konformitätskennzeichen, Informationen zur Identifizierung und Rückverfolgbarkeit**
@@ -250,6 +266,10 @@ Die technischen Unterlagen müssen gegebenenfalls mindestens die folgenden Eleme
 <sup>4</sup> Auf jedem Gerät müssen der Name, die Firma oder die eingetragene Handelsmarke der Herstellerin und die Postadresse, unter der sie erreicht werden kann, angebracht werden. Ist dies nicht möglich ist, so müssen diese Informationen auf der Verpackung oder in einem Begleitdokument angegeben werden. Die Adresse bezieht sich auf eine zentrale Anlaufstelle, unter der die Herstellerin erreicht werden kann. Die Kontaktdaten sind in einer Sprache anzugeben, die für die Endnutzerinnen und Endnutzer leicht verständlich ist.
 
 <sup>5</sup> Ist die Herstellerin nicht in der Schweiz ansässig, so muss jedes Gerät zusätzlich den Namen, die Firma oder die eingetragene Handelsmarke der Importeurin und die Postadresse, unter der sie erreicht werden kann, tragen. Ist dies nicht möglich, so müssen diese Informationen auf der Verpackung des Geräts oder in einem Begleitdokument angegeben werden. Die Kontaktdaten sind in einer Sprache anzugeben, die für die Endnutzerinnen und Endnutzer leicht verständlich ist.
+
+<sup>6</sup> Wenn die Herstellerin und die von ihr bevollmächtigte Person nicht in der Schweiz ansässig sind und die Importeurin das Gerät für den Eigengebrauch importiert, müssen auf jedem Gerät zusätzlich der Name, die Firma oder die eingetragene Handelsmarke der Fulfilment-Dienstleisterin sowie die Postadresse, unter der sie erreicht werden kann, angebracht werden. Ist dies nicht möglich, so müssen diese Informationen auf der Verpackung des Geräts oder in einem Begleitdokument angegeben werden. Die Kontaktdaten sind in einer Sprache anzugeben, die für die Endnutzerinnen und Endnutzer leicht verständlich ist.[^13-1]
+
+[^13-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 #### Art. 14
 
@@ -278,10 +298,12 @@ Jedem Gerät müssen folgende Informationen beigefügt werden:
 
 <sup>3</sup>
 
-Die einem Gerät nach Absatz 2 beigefügten Unterlagen müssen neben den Angaben nach Artikel 10 Absatz 2–4 folgende weitere Angaben enthalten:
+Die einem Gerät nach Absatz 2 beigefügten Unterlagen müssen neben den Angaben nach Artikel 13 Absätze 3–6 folgende weitere Angaben enthalten:[^15-1]
 
 - a. die Bezeichnung der ortsfesten Anlage, in die es eingebaut werden soll, und deren Merkmale der elektromagnetischen Verträglichkeit;
 - b. die Vorkehrungen, die bei dessen Einbau in die Anlage zu treffen sind, damit deren Konformität nicht beeinträchtigt wird.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 ### 4. Abschnitt: Allgemeine Pflichten der Wirtschaftsakteurinnen
 
@@ -312,7 +334,12 @@ Solange sich ein Gerät in der Verantwortung der Importeurinnen und der Händler
 
 <sup>2</sup> Händlerinnen, die der Auffassung sind oder Grund zu der Annahme haben, dass ein von ihnen auf dem Markt bereitgestelltes Gerät nicht dieser Verordnung entspricht, müssen dafür sorgen, dass die erforderlichen Korrekturmassnahmen ergriffen werden, um die Konformität dieses Geräts herzustellen, oder, falls erforderlich, es zurückzunehmen oder zurückzurufen.
 
-<sup>3</sup> Sind mit dem Gerät Risiken verbunden, so müssen die Herstellerinnen, Importeurinnen und Händlerinnen ausserdem unverzüglich das BAKOM darüber unterrichten und dabei ausführliche Angaben machen, insbesondere über die Nichtkonformität und die ergriffenen Korrekturmassnahmen.
+<sup>3</sup> Sind mit dem Gerät Risiken verbunden, so müssen die Herstellerinnen, bevollmächtigten Personen, Importeurinnen und Händlerinnen unverzüglich das BAKOM darüber unterrichten und dabei ausführliche Angaben machen, insbesondere über die Nichtkonformität und die ergriffenen Korrekturmassnahmen.[^18-1]
+
+<sup>4</sup> Sind mit dem Gerät Risiken verbunden, so müssen die Fulfilment-Dienstleisterinnen unverzüglich das BAKOM darüber unterrichten und dabei ausführliche Angaben machen, insbesondere über die Nichtkonformität und die ergriffenen Korrekturmassnahmen, sofern weder die Herstellerin noch die von ihr bevollmächtigte Person in der Schweiz ansässig ist und die Importeurin das Gerät für den Eigengebrauch importiert hat.[^18-2]
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+[^18-2]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 #### Art. 19
 
@@ -322,7 +349,9 @@ Solange sich ein Gerät in der Verantwortung der Importeurinnen und der Händler
 
 <sup>2</sup> Die Informationen und Dokumente müssen schriftlich in Papierform oder auf elektronischem Wege in einer Sprache, die für das BAKOM leicht verständlich ist, übermittelt werden.
 
-<sup>3</sup> Auf Verlangen des BAKOM wirken die Wirtschaftsakteurinnen bei der Umsetzung aller Massnahmen zur Abwendung von Risiken mit, die mit den von ihnen auf dem Markt bereitgestellten Geräten verbunden sind. Diese Pflicht gilt auch für die bevollmächtige Person für die Geräte, die von ihrer Vollmacht betroffen sind.
+<sup>3</sup> Auf Verlangen des BAKOM wirken die Wirtschaftsakteurinnen und Anbieterinnen von Diensten der Informationsgesellschaft bei der Umsetzung aller Massnahmen zur Abwendung von Risiken mit, die mit den von ihnen auf dem Markt bereitgestellten Geräten verbunden sind. Diese Pflicht gilt auch für die bevollmächtige Person für die Geräte, die von ihrer Vollmacht betroffen sind.[^19-1]
+
+[^19-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 ## 3. Kapitel: Ortsfeste Anlagen
 
@@ -510,7 +539,7 @@ Anhang 1*[^t-1]*
 - 1\.1 Das schweizerische Konformitätskennzeichen setzt sich aus den zwei grossen lateinischen Buchstaben «C» und «H» zusammen: «CH». Die Buchstaben müssen in einer Ellipse angebracht werden; die Hauptachse der Ellipse ist horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210101/de/xml/image/image1.png)</td><td>Mindestgrössen: Höhe der Ellipse Breite der Ellipse Höhe der Buchstaben Breite der Buchstaben Durchmesser des Strichs</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/de/xml/image/image1.png)</td><td>Mindestgrössen: Höhe der Ellipse Breite der Ellipse Höhe der Buchstaben Breite der Buchstaben Durchmesser des Strichs</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 Bei einer Vergrösserung des Konformitätskennzeichens müssen seine Proportionen beibehalten werden.
@@ -519,7 +548,7 @@ Anhang 1*[^t-1]*
 
 - 2\.1 Zugelassen ist das Konformitätskennzeichen, das in Anhang II der Verordnung (EG) Nr. 765/2008[^annex1-lvlu1-lvl2-1] festgelegt ist. Die Illustration dient Informationszwecken.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/de/xml/image/image2.png)
 
 - 2\.2 Beim Anbringen dieses Konformitätskennzeichens müssen die allgemeinen Grundsätze, die in Artikel 30 der Verordnung (EG) Nr. 765/2008 definiert werden, respektiert werden.
 

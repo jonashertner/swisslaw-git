@@ -4,11 +4,11 @@ title: Ordonnance du 25 novembre 2015 sur la compatibilité électromagnétique 
 short: OCEM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/18"
 language: fr
-version: 2021-01-01
+version: 2021-07-16
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-18-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/fr/xml/fedlex-data-admin-ch-eli-cc-2016-18-20210716-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210716/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210101/fr"
 
 (OCEM)
 
-du 25 novembre 2015 (Etat le 1<sup>er</sup> janvier 2021)
+du 25 novembre 2015 (Etat le 16 juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -74,7 +74,9 @@ On entend par:
 - l. *mandataire:* toute personne physique ou morale établie en Suisse ayant reçu mandat écrit du fabricant pour agir en son nom aux fins de l’accomplissement de tâches déterminées;
 - m. *importateur:* toute personne physique ou morale établie en Suisse qui effectue la mise sur le marché suisse d’un appareil provenant de l’étranger;
 - n. *distributeur:* toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un appareil à disposition sur le marché;
-- o. *opérateurs économiques:* le fabricant, le mandataire, l’importateur et le distributeur;
+- n<sup>bis</sup>.[^2-1] *prestataire de services d’exécution des commandes:* toute personne physique ou morale qui propose, dans le cadre d’une activité commerciale, au moins deux des services suivants: entreposage, conditionnement, étiquetage et expédition, sans être propriétaire des produits concernés, à l’exclusion des services postaux au sens de l’art. 2, let. a, de la loi du 17 décembre 2010 sur la poste[^2-2] et de tout autre service de transport de marchandises;
+- o.[^2-3] *opérateurs économiques:* le fabricant, le mandataire, l’importateur, le distributeur, le prestataire de services d’exécution des commandes ou toute autre personne physique ou morale soumise à des obligations liées à la fabrication de produits, à leur mise à disposition sur le marché ou à leur mise en service;
+- o<sup>bis</sup>.[^2-4] *prestataire de services de la société de l’information:* toute personne physique ou morale qui propose un service de la société de l’information, c’est-à-dire tout service presté normalement contre rémunération, à distance, par voie électronique et à la demande individuelle d’un destinataire de services;
 - p. *marque de conformité:* la marque par laquelle le fabricant indique que l’appareil est conforme aux dispositions applicables de la législation suisse prévoyant son apposition.
 
 <sup>2</sup> L’importation d’appareils destinés au marché suisse est assimilée à une mise sur le marché.
@@ -91,6 +93,11 @@ Un importateur ou un distributeur est assimilé à un fabricant:
 - b. lorsqu’il modifie un appareil déjà mis sur le marché de telle sorte que la conformité à la présente ordonnance peut en être affectée.
 
 <sup>6</sup> La réparation d’un équipement est assimilée à une utilisation.
+
+[^2-1]: Introduite par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+[^2-2]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+[^2-4]: Introduite par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 #### Art. 3
 
@@ -235,6 +242,15 @@ La documentation technique doit comporter, le cas échéant, au moins les élém
 
 <sup>2</sup> En cas de mise sur le marché de séries d’appareils, le délai court à partir de la date de la mise sur le marché du dernier appareil de la série concernée.
 
+<sup>3</sup>
+
+Le prestataire de services d’exécution des commandes est soumis à l’obligation mentionnée à l’al. 1:
+
+- a. si le fabricant et son mandataire ne sont pas établis en Suisse, et
+- b. si l’importateur importe l’appareil pour son propre usage.[^12-1]
+
+[^12-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+
 #### Art. 13
 
 **Marque de conformité, informations d’identification et de traçabilité**
@@ -248,6 +264,10 @@ La documentation technique doit comporter, le cas échéant, au moins les élém
 <sup>4</sup> Chaque appareil doit porter le nom, la raison sociale ou la marque déposée du fabricant ainsi que l’adresse postale à laquelle il peut être contacté. Lorsque ce n’est pas possible, ces informations doivent figurer sur son emballage ou dans un document l’accompagnant. L’adresse précise un lieu unique où le fabricant peut être contacté. Les coordonnées sont indiquées dans une langue aisément compréhensible par les utilisateurs finaux.
 
 <sup>5</sup> Si le fabricant n’est pas établi en Suisse, chaque appareil doit également porter le nom, la raison sociale ou la marque déposée de l’importateur, ainsi que l’adresse postale à laquelle il peut être contacté. Lorsque ce n’est pas possible, ces informations doivent figurer sur l’emballage de l’appareil ou dans un document l’accompagnant. Les coordonnées sont indiquées dans une langue aisément compréhensible par les utilisateurs finaux.
+
+<sup>6</sup> Si le fabricant et son mandataire ne sont pas établis en Suisse, et que l’importateur importe l’appareil pour son propre usage, chaque appareil doit également porter le nom, la raison sociale ou la marque déposée du prestataire de services d’exécution des commandes, ainsi que l’adresse postale à laquelle il peut être contacté. Lorsque ce n’est pas possible, ces informations doivent figurer sur l’emballage de l’appareil ou dans un document l’accompagnant. Les coordonnées sont indiquées dans une langue aisément compréhensible par les utilisateurs finaux.[^13-1]
+
+[^13-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 #### Art. 14
 
@@ -276,10 +296,12 @@ Chaque appareil doit être accompagné des informations suivantes:
 
 <sup>3</sup>
 
-La documentation qui accompagne un appareil visé à l’al. 2 doit contenir les indications suivantes, en plus de celles qui sont demandées à l’art. 10, al. 2 à 4:
+La documentation qui accompagne un appareil visé à l’al. 2 doit contenir les indications suivantes, en plus de celles qui sont demandées à l’art. 13, al. 3 à 6:[^15-1]
 
 - a. la désignation de l’installation fixe dans laquelle il doit être incorporé et les caractéristiques de cette dernière en termes de compatibilité électromagnétique;
 - b. les dispositions qui doivent être prises au moment de l’incorporation de l’appareil dans ladite installation pour éviter que sa conformité n’en soit affectée.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 ### Section 4 Obligations générales des opérateurs économiques
 
@@ -310,7 +332,12 @@ Les importateurs et les distributeurs doivent s’assurer que, tant qu’un appa
 
 <sup>2</sup> Les distributeurs qui considèrent ou ont des raisons de supposer qu’un appareil qu’ils ont mis à disposition sur le marché n’est pas conforme à la présente ordonnance doivent s’assurer que les mesures correctives nécessaires soient prises pour le mettre en conformité ou, si nécessaire, le retirer ou le rappeler.
 
-<sup>3</sup> En outre, si l’appareil présente un risque, les fabricants, les importateurs et les distributeurs doivent en informer immédiatement l’OFCOM, en fournissant notamment des précisions sur la non-conformité et sur les mesures correctives prises.
+<sup>3</sup> Si l’appareil présente un risque, les fabricants, les mandataires, les importateurs et les distributeurs doivent en informer immédiatement l’OFCOM, en fournissant notamment des précisions sur la non-conformité et sur les mesures correctives prises.[^18-1]
+
+<sup>4</sup> Si l’appareil présente un risque, les prestataires de services d’exécution des commandes doivent en informer immédiatement l’OFCOM, en fournissant notamment des précisions sur la non-conformité et sur les mesures correctives prises, pour autant que ni le fabricant ni son mandataire ne soient établis en Suisse et que l’importateur ait importé l’appareil pour son propre usage.[^18-2]
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+[^18-2]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 #### Art. 19
 
@@ -320,7 +347,9 @@ Les importateurs et les distributeurs doivent s’assurer que, tant qu’un appa
 
 <sup>2</sup> Les informations et documents doivent être communiqués par écrit sur support papier ou par voie électronique, dans une langue aisément compréhensible par l’OFCOM.
 
-<sup>3</sup> Sur demande de l’OFCOM, les opérateurs économiques lui apportent leur coopération à la mise en œuvre de toute mesure destinée à éliminer les risques présentés par un appareil qu’ils ont mis à disposition sur le marché. Cette obligation vaut également pour le mandataire en ce qui concerne les appareils couverts par son mandat.
+<sup>3</sup> Sur demande de l’OFCOM, les opérateurs économiques et les prestataires de services de la société de l’information lui apportent leur coopération à la mise en oeuvre de toute mesure destinée à éliminer les risques présentés par un appareil qu’ils ont mis à disposition sur le marché. Cette obligation vaut également pour le mandataire en ce qui concerne les appareils couverts par son mandat.[^19-1]
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 16 juil. 2021 ([RO 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 ## Chapitre 3 Installations fixes
 
@@ -506,7 +535,7 @@ Annexe 1
 - 1\.1. La marque de conformité suisse se compose des deux grandes lettres latines «C» et «H» accolées: «CH». Les lettres doivent être appliquées dans une forme elliptique, l’axe principal de l’ellipse étant horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210101/fr/xml/image/image1.png)</td><td>Dimensions minimales: Hauteur de l’ellipse Largeur de l’ellipse Hauteur des lettres Largeur des lettres Épaisseur du trait</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/fr/xml/image/image1.png)</td><td>Dimensions minimales: Hauteur de l’ellipse Largeur de l’ellipse Hauteur des lettres Largeur des lettres Épaisseur du trait</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2. En cas d’agrandissement de la marque de conformité, les proportions de celle-ci doivent être respectées.
@@ -515,7 +544,7 @@ Annexe 1
 
 - 2\.1. Est admise la marque de conformité définie à l’annexe II du règlement (CE) n<sup>o</sup> 765/2008[^annex1-lvlu1-lvl2-1]. L’illustration a un caractère informatif.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/fr/xml/image/image2.png)
 
 - 2\.2. L’apposition de cette marque de conformité doit respecter les principes généraux définis à l’art. 30 du règlement (CE) n<sup>o</sup> 765/2008.
 

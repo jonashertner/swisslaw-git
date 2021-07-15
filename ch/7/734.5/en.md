@@ -4,11 +4,11 @@ title: Ordinance of 25 November 2015 on Electromagnetic Compatibility (OEMC)
 short: OEMC
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/18"
 language: en
-version: 2021-01-01
+version: 2021-07-16
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2016-18-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/en/xml/fedlex-data-admin-ch-eli-cc-2016-18-20210716-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/18/20210716/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OEMC)
 
-of 25 November 2015 (Status as of 1 January 2021)
+of 25 November 2015 (Status as of 16 July 2021)
 
 The Swiss Federal Council,
 
@@ -76,7 +76,9 @@ In this Ordinance:
 - l. *authorised representative* means any natural person or legal entity established in Switzerland that has received a written mandate from a manufacturer to act on its behalf in relation to specified tasks;
 - m. *importer* means any natural person or legal entity established in Switzerland that places apparatus from abroad on the Swiss market;
 - n. *distributor* means any natural person or legal entity in the supply chain, with the exception of the manufacturer or the importer, that makes an apparatus available on the market;
-- o. *economic operators* means the manufacturer, the authorised representative, the importer and the distributor;
+- n<sup>bis</sup>.[^2-1] *fulfilment service provider* means any natural person or legal entity that, in the course of a business activity, offers any two of the following services: warehousing, packaging, addressing and shipping of products, without being the owner of such products; not included are postal services under Article 2 letter a of the Postal Services Act of 17 December 2010[^2-2] and any other services involving the movement of goods;
+- o.[^2-3] *economic operator* means any manufacturer, authorised representative, importer, distributor, fulfilment service provider or any other natural person or legal entity that is subject to obligations connected with manufacturing, making available on the market or installing products;
+- o<sup>bis</sup>.[^2-4] *information society service provider* means any natural person or legal entity that offers an information society service, i.e. any service normally provided for a consideration, at a distance, electronically and at the individual request of a recipient;
 - p. *conformity marking* means a marking by which the manufacturer indicates that the apparatus is in conformity with the applicable requirements set out in the Swiss legislation providing for its affixing.
 
 <sup>2</sup> The import of an apparatus for the Swiss market is equivalent to placing on the market.
@@ -93,6 +95,11 @@ An importer or distributor is equivalent to a manufacturer if it:
 - b. modifies an apparatus already on the market so that conformity with this Ordinance may be compromised.
 
 <sup>6</sup> The repair of equipment is equivalent to use.
+
+[^2-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+[^2-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^2-3]: Amended by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+[^2-4]: Inserted by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 #### Art. 3
 
@@ -239,6 +246,15 @@ The technical documentation must contain at least the following elements, where 
 
 <sup>2</sup> Where a series of apparatus is placed on the market, this period begins on the date when the last apparatus in the series concerned was placed on the market.
 
+<sup>3</sup>
+
+The fulfilment service provider is subject to the obligation in paragraph 1 if:
+
+- a. the manufacturer and its authorised representative is not established in Switzerland; and
+- b. the importer imports the apparatus for its own personal use.[^12-1]
+
+[^12-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+
 #### Art. 13
 
 **Conformity marking, information for identification and traceability**
@@ -252,6 +268,10 @@ The technical documentation must contain at least the following elements, where 
 <sup>4</sup> The manufacturers must indicate its name, registered trade name or registered trademark and the postal address at which it may be contacted on every apparatus. If this is impossible, this information must be provided on the packaging or in a document accompanying the apparatus. The address must indicate a single point at which the manufacturer can be contacted. The contact details must be in a language easily understood by end users.
 
 <sup>5</sup> If the manufacturer is not based in Switzerland, every apparatus must also bear the names, registered trade name or the registered trademark of the importer and the postal address at which it can be contacted. If this is impossible, this information must be provided on the packaging for the apparatus or in an accompanying document. The contact details must be in a language easily understood by end users.
+
+<sup>6</sup> If the manufacturer and its authorised representative are not based in Switzerland and the importer imports the apparatus for its own personal use, each apparatus must also must indicate the name, registered trade name or registered trademark of the fulfilment service provider and the postal address at which it may be contacted. If this is impossible, this information must be provided on the packaging or in a document accompanying the apparatus. The contact details must be in a language easily understood by end users.[^13-1]
+
+[^13-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 #### Art. 14
 
@@ -280,10 +300,12 @@ Every apparatus must carry the following information:
 
 <sup>3</sup>
 
-In addition to the information mentioned in Article 10 paragraphs 2–4, the documentation accompanying apparatus referred to in paragraph 2 must contain the following information:
+In addition to the information mentioned in Article 13 paragraphs 3–6, the documentation accompanying apparatus referred to in paragraph 2 must contain the following information:[^15-1]
 
 - a. identification of the fixed installation into which it is to be incorporated and its electromagnetic compatibility characteristics;
 - b. the precautions to be taken for the incorporation of the apparatus into the installation in order not to compromise the conformity of that installation.
+
+[^15-1]: Amended by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 ### Section 4 General Obligations of Economic Operators
 
@@ -314,7 +336,12 @@ Importers or distributors shall ensure that, while apparatus is under their resp
 
 <sup>2</sup> Distributors that consider or have reason to believe that apparatus that they have made available on the market does not comply with this Ordinance must ensure that the required corrective measures are immediately taken to bring the apparatus into conformity, or, if required, to withdraw or recall the same.
 
-<sup>3</sup> Where the apparatus presents a risk, the manufacturers, importers and distributors must also immediately notify OFCOM to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
+<sup>3</sup> Where the apparatus presents a risk, the manufacturers, authorised representatives, importers and distributors must also immediately notify OFCOM to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.[^18-1]
+
+<sup>4</sup> Where the apparatus presents a risk, the fulfilment service providers must also immediately notify OFCOM to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken, unless the manufacturer or its authorised representative is based in Switzerland and the importer has imported the apparatus for its own personal use.[^18-2]
+
+[^18-1]: Amended by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
+[^18-2]: Inserted by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 #### Art. 19
 
@@ -324,7 +351,9 @@ Importers or distributors shall ensure that, while apparatus is under their resp
 
 <sup>2</sup> The information and documents must be provided in paper or electronic form in a language that OFCOM can easily understand.
 
-<sup>3</sup> At OFCOM’s request, economic operators shall cooperate on any measures taken to eliminate the risks posed by apparatus which they have placed on the market. This obligation also applies to the authorised representative for the apparatus covered by its mandate.
+<sup>3</sup> At OFCOM’s request, economic operators and information society service providers shall cooperate on any measures taken to eliminate the risks posed by apparatus which they have placed on the market. This obligation also applies to the authorised representative for the apparatus covered by its mandate.[^19-1]
+
+[^19-1]: Amended by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 ## Chapter 3 Fixed Installations
 
@@ -498,20 +527,18 @@ OFCOM shall charge fees for:
 
 This Ordinance comes into force on 20 April 2016.
 
-Annex 1*[^t-1]*
+Annex 1
 
 (Art. 13 para. 1)
 
 ## Conformity marking
-
-[^t-1]: Revised by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6137](https://fedlex.data.admin.ch/eli/oc/2020/1014)).
 
 ### 1. Swiss conformity marking
 
 - 1\.1 The Swiss conformity marking comprises the two Latin capital letters “C” and “H” together as “CH”. The letters must be appear within an elliptical shape; the main axis of the ellipse is horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210101/en/xml/image/image1.png)</td><td>Minimum dimensions:</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/en/xml/image/image1.png)</td><td>Minimum dimensions:</td><td></td></tr>
 <tr><td></td><td>Height of the ellipse</td><td>7.2 mm</td></tr>
 <tr><td></td><td>Width of the ellipse</td><td>11 mm</td></tr>
 <tr><td></td><td>Height of the letters</td><td>5 mm</td></tr>
@@ -525,7 +552,7 @@ Annex 1*[^t-1]*
 
 - 2\.1 The use of the conformity marking set out in Annex II to Regulation (EC) No 765/2008[^annex1-lvlu1-lvl2-1] is permitted. The illustration below is for information purposes only.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/18/20210716/en/xml/image/image2.png)
 
 - 2\.2 When affixing this conformity marking, the general principles set out in Article 30 of Regulation (EC) No 765/2008 must be respected.
 
