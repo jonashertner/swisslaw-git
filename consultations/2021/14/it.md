@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dellְ’Ordinanza sui prodotti chimici (OPChim)
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’Ordonnance sur les produits chimiques (OChim)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Chemikalienverordnung (ChemV)
 document: Vernehmlassungsvorlage
 language: de
