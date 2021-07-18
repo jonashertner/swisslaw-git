@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-07-01
+version: 2021-07-19
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210719/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210719-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210719/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210701/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 1<sup>er</sup> juillet 2021)
+du 19 juin 2020 (Etat le 19 juillet 2021)
 
 Le Conseil fédéral suisse,
 
@@ -622,7 +622,7 @@ L’organisateur d’une assemblée de société peut, quel que soit le nombre p
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020 (Prorogation; coûts des tests), en vigueur depuis le 14 sept. 2020 ([RO 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-## Chapitre 4*a***** Mesures de protection des employés vulnérables
+## Chapitre 4*a* Mesures de protection des employés vulnérables
 
 [^chap4a-1]
 
@@ -733,7 +733,7 @@ Annexe 1*[^t-1]*
 
 ## Liste des pays et régions à risque
 
-[^t-1]: Nouvelle teneur selon l’annexe 3 de l’O COVID-19 du 23 juin 2021 mesures dans le domaine du transport international de voyageurs, en vigueur depuis le 26 juin 2021 ([RO 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du 12 juill. 2021, en vigueur depuis le 17 juill. 2021([RO 2021 446](https://fedlex.data.admin.ch/eli/oc/2021/446)).
 
 ### 1. Liste des pays et régions à risque (art. 3, al. 2, let. a)
 
@@ -741,21 +741,32 @@ Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 
 - – Albanie
 - – Andorre
+- – Arabie saoudite
+- – Arménie
 - – Australie
+- – Azerbaïdjan
+- – Bosnie et Herzégovine
+- – Brunéi Darussalam
 - – Bulgarie
+- – Canada
 - – Chypre
 - – Corée (Sud)
 - – Croatie
-- – États-Unis d’Amérique
+- – États-Unis
 - – Hong Kong
 - – Irlande
 - – Israël
 - – Japon
+- – Jordanie
+- – Kosovo
 - – Liban
 - – Macao
 - – Macédoine du Nord
+- – Moldova
 - – Monaco
+- – Monténégro
 - – Nouvelle-Zélande
+- – Qatar
 - – Roumanie
 - – Rwanda
 - – Saint-Marin
@@ -767,7 +778,7 @@ Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 
 ### 2. Pays et régions à risque avec un variant du virus SARS-CoV-2 dont le risque d’infection ou d’évolution grave de la maladie est plus élevé que pour le variant du virus qui prévaut dans l’espace Schengen (art. 3, al. 2, let. b)
 
-Annexe 1a*[^t-2]*
+Annexe 1a[^t-2]
 
 (art. 4, al. 2, let. a, et 5)
 
@@ -794,11 +805,11 @@ Annexe 1a*[^t-2]*
 
 [^annex1a-lvlu1-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 [^t-3]: Sans objet suite à l’abrogation de l’art. 8 (art. 6 ch. 1 de l’O COVID-19 du 2 juil. 2020 mesures dans le domaine du transport international de voyageurs; [RO 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)), le 6 juil. 2020.
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 (art. 9, al. 3)
 
@@ -810,7 +821,7 @@ La circulation des personnes entre les États suivants et la Suisse est interdit
 
 ...
 
-Annexe 4*[^t-5]*
+Annexe 4[^t-5]
 
 (art. 11, al. 1, 19, al. 1, et 21, al. 2)
 
@@ -915,7 +926,7 @@ Annexe 4*[^t-5]*
 
 \48. Solutions de perfusion
 
-### 2. Dispositifs médicaux au sens de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux****
+### 2. Dispositifs médicaux au sens de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -943,7 +954,7 @@ Annexe 4*[^t-5]*
 
 ### 3. Équipements de protection individuelle et autres équipements
 
-### 3.1 Équipements de protection individuelle au sens de l’ordonnance du 25 octobre 2017 sur les EPI****
+### 3.1 Équipements de protection individuelle au sens de l’ordonnance du 25 octobre 2017 sur les EPI
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -962,7 +973,7 @@ Annexe 4*[^t-5]*
 - 3\. Éthanol
 - 4\. Articles d’hygiène en médecine intensive (p. ex. tapis médicaux absorbants, couches, entérocollecteurs rectaux, articles pour l’hygiène buccale et de la gorge)
 
-Annexe 5*[^t-6]*
+Annexe 5[^t-6]
 
 (art. 21, al. 1 et 3, et 22, al. 1)
 
@@ -973,7 +984,7 @@ Annexe 5*[^t-6]*
 - 1\. Casirivimab/imdévimab
 - 2\. Bamlanivimab/étésevimab
 
-Annexe 5a*[^t-7]*
+Annexe 5a[^t-7]
 
 (art. 23*a*, al. 2, let. e, 24, al. 4<sup>bis</sup>, let. b, et 24*a*, al. 1)
 
@@ -1020,7 +1031,7 @@ Annexe 5a*[^t-7]*
 - 3\.3 Réactivité croisée: des échantillons présentant une forte concentration de coronavirus humains apparentés, dont au moins le coronavirus humain 229E, le coronavirus humain OC43, le coronavirus humain NL63 ou le coronavirus humain HKU1, sont également examinés.
 - 3\.4 Interférence: des échantillons positifs à des agents pathogènes lorsque ceux-ci peuvent provoquer des symptômes analogues (Influenza A, B; VRS) ou peuvent interférer avec le principe du test (*Staphylococcus aureus* positif à la protéine A avec prélèvement nasal comme matrice de l’échantillon) sont également examinés.
 
-Annexe 6*[^t-8]*
+Annexe 6[^t-8]
 
 (art. 26, 26*a*, 26*b* et 26*c*)
 
@@ -1544,7 +1555,7 @@ Annexe 6*[^t-8]*
 - 4\.3 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et une mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2 selon le ch. 1.5 ou un séquençage du SARS-CoV-2 selon le ch. 1.6 sont réalisés sur une personne par le même fournisseur de prestations, la Confédération prend en charge une seule fois le montant comprenant le traitement du mandat et les frais généraux visés aux ch. 1.1.3, let. b, 1.5.3 et 1.6.3.
 - 4\.4 Lors d’analyses pour le SARS-CoV-2 pour lesquelles le prélèvement de l’échantillon est effectué par la personne testée elle-même, le coût du prélèvement ne doit pas être facturé.
 
-Annexe 7*[^t-9]*
+Annexe 7[^t-9]
 
 (art. 27*a*, al. 10 et 11)
 

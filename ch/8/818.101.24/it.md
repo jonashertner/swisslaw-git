@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-07-01
+version: 2021-07-19
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210719/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210719-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210719/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210701/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 19 giugno 2020 (Stato 19 luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -730,11 +730,11 @@ I dispositivi di protezione individuale autorizzati in virtù dell’articolo 24
 
 Allegato 1*[^t-1]*
 
-(art. 3 cpv. 3, art. 4 cpv. 2<sup>ter</sup> e art. 5)
+(art. 3 cpv. 3, 4 cpv. 2<sup>ter</sup> e 5)
 
 ## Elenco dei Paesi e delle regioni a rischio
 
-[^t-1]: Nuovo testo giusta l’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del 12 lug. 2021, in vigore dal 19 lug. 2021 ([RU 2021 446](https://fedlex.data.admin.ch/eli/oc/2021/446)).
 
 ### 1. Paesi e regioni a rischio (art. 3 cpv. 2 lett. a)
 
@@ -742,27 +742,38 @@ Tutti gli Stati e regioni al di fuori dello spazio Schengen, tranne:
 
 - – Albania
 - – Andorra
+- – Arabia Saudita
+- – Armenia
 - – Australia
+- – Azerbaigian
+- – Bosnia e Erzegovina
+- – Brunei Darussalam
 - – Bulgaria
+- – Canada
 - – Cipro
 - – Corea (Sud)
 - – Croazia
 - – Giappone
+- – Giordania
 - – Hong Kong
 - – Irlanda
 - – Israele
+- – Kosovo
 - – Libano
 - – Macao
 - – Macedonia del Nord
+- – Moldova
 - – Monaco
+- – Montenegro
 - – Nuova Zelanda
+- – Qatar
 - – Romania
 - – Ruanda
 - – San Marino
 - – Santa Sede
 - – Serbia
 - – Singapore
-- – Stati Uniti d’America
+- – Stati Uniti
 - – Taiwan
 - – Thailandia
 

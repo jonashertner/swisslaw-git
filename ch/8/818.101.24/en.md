@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-07-01
+version: 2021-07-19
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210701/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210701-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210719/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210719-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210719/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 1 July 2021)
+of 19 June 2020 (Status as of 19 July 2021)
 
 The Swiss Federal Council,
 
@@ -735,7 +735,7 @@ Annex 1*[^t-1]*
 
 ## List of high-risk countries and regions
 
-[^t-1]: Amended by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^t-1]: Amended by No I of the O of 12 July 2021, in force since 19 July 2021 ([AS 2021 446](https://fedlex.data.admin.ch/eli/oc/2021/446)).
 
 ### 1. High-risk countries and regions (Art. 3 para. 2 let. a)
 
@@ -743,8 +743,13 @@ All countries and regions outside the Schengen area, with the exception of:
 
 - – Albania
 - – Andorra
+- – Armenia
 - – Australia
+- – Azerbaijan
+- – Bosnia and Herzegovina
+- – Brunei Darussalam
 - – Bulgaria
+- – Canada
 - – Croatia
 - – Cyprus
 - – Holy See
@@ -752,26 +757,28 @@ All countries and regions outside the Schengen area, with the exception of:
 - – Ireland
 - – Israel
 - – Japan
+- – Jordan
+- – Kosovo
 - – Lebanon
 - – Macau
+- – Moldova
 - – Monaco
+- – Montenegro
 - – New Zealand
 - – North Macedonia
+- – Qatar
 - – Romania
 - – Rwanda
 - – San Marino
+- – Saudi Arabia
 - – Serbia
 - – South Korea
 - – Singapore
 - – Taiwan
 - – Thailand
 - – United States of America
-- [tab]
-- [tab]
 
 ### 2. High-risk countries and regions with a variant of the Sars-CoV-2 virus that carries a higher risk of infection or causes a more severe form of the disease in comparison with the variant of the virus prevalent in the Schengen area (Art. 3 para. 2 let. b)
-
-- [tab]
 
 Annex 1a*[^t-2]*
 
@@ -980,7 +987,7 @@ Annex 5*[^t-6]*
 
 ## List of active substances for the treatment of COVID-19
 
-[^t-6]: Amended by No I paragraph 2 of the FDHA O of 14 April 2021 (Amendment of lists of important medical products and of active substances for the treatment of COVID-19), in force since 19 Oct. 2020 ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)).
+[^t-6]: Amended by No I paragraph 2 of the FDHA O of 14 April 2021 (Amendment of lists of important medical products and of active substances for the treatment of COVID-19), in force since 15 April 2021 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
 
 - [tab] 1. Casirivimab/imdevimab
 - 2\. Bamlanivimab/etesevimab
