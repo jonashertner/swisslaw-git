@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-07-19
+version: 2021-07-21
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210719/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210719-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210719/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210721/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210721-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210721/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210719/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 19 luglio 2021)
+del 19 giugno 2020 (Stato 21 luglio 2021) (Stato 21 luglio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -981,7 +981,7 @@ Allegato 6*[^t-8]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)) e dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)).
+[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) e dal n. II cpv. 2 dell’O del 25 ago. 2021, in vigore dal 21 lug. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -1135,7 +1135,14 @@ Allegato 6*[^t-8]*
 
 ### 1.3 Analisi per gli anticorpi contro il SARS-CoV-2
 
-- 1\.3.1 La Confederazione assume le spese per le analisi per gli anticorpi contro il SARS-CoV-2 solo su ordine del servizio cantonale competente.
+- 1\.3.1
+
+  La Confederazione assume le spese per le analisi per gli anticorpi contro il SARS-CoV-2:
+
+  - a. su ordine del servizio cantonale competente;
+  - b. su prescrizione medica, quattro settimane dopo la seconda vaccinazione in persone con immunosoppressione grave;
+  - c. su prescrizione medica per decidere se determinate persone debbano sottoporsi a una terapia con anticorpi monoclonali.
+
 - 1\.3.2
 
   Assume le spese soltanto se le prestazioni sono fornite dai seguenti fornitori di prestazioni:

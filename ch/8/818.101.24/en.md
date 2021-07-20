@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-07-19
+version: 2021-07-21
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210719/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210719-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210719/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210721/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210721-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210721/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 19 July 2021)
+of 19 June 2020 (Status as of 21 July 2021)
 
 The Swiss Federal Council,
 
@@ -1045,7 +1045,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021, in force since 1 July 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)) and the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), by the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) and the by No II para. 2 of the O of 25 Aug. 2021, in force since 1 July 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1197,7 +1197,14 @@ Annex 6*[^t-8]*
 
 ### 1.3 Analyses for Sars-CoV-2 antibodies
 
-- 1\.3.1 The Confederation shall pay the costs of analyses for Sars-CoV-2 antibodies only if instructed to do so by the responsible cantonal body.
+- 1\.3.1
+
+  The Confederation shall pay the costs of analyses for Sars-CoV-2 antibodies:
+
+  - a. if instructed to do so by the responsible cantonal body;
+  - b. if instructed to do so by a doctor four weeks after the second vaccination in the case of person with severe immosuppression;
+  - c. if instructed to do so by a doctor with a view to deicding whether a specific person should undergo therapy with monoclonal antibodies.
+
 - 1\.3.2
 
   It shall pay the costs only if the services are provided:
