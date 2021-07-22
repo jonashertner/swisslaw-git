@@ -4,13 +4,13 @@ number: "131"
 title: Gesetz über die Organisation und die Geschäftsführung des Landrats
 short: Landratsgesetz
 language: de
-version: 2021-01-01
-valid_until: 2021-07-22
-version_adopted: 2020-10-22
+version: 2021-07-23
+valid_until: 2022-03-31
+version_adopted: 2021-05-20
 adopted: 1994-11-21
 in_force: 1995-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/131"
-pdf: "https://bl.clex.ch/api/de/versions/2860/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3067/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2860/pdf_file"
 
 (Landratsgesetz)
 
-Vom 21.11.1994 (Stand 01.01.2021)
+Vom 21.11.1994 (Stand 23.07.2021)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -612,6 +612,8 @@ beschliesst[^ingress-2]:
 
 <sup>1</sup> Damit der Landrat gültig beraten und beschliessen kann, muss die Mehrheit der Ratsmitglieder anwesend sein.
 
+<sup>2</sup> Als anwesend gilt auch, wer gemäss § 57a dieses Gesetzes bei Krisensituationen an Abstimmungen in Abwesenheit teilnimmt.
+
 ### 5.2 Sitzungsordnung
 
 #### § 51
@@ -694,6 +696,26 @@ beschliesst[^ingress-2]:
 <sup>1</sup> Der Landrat stimmt offen ab. Mindestens 12 Ratsmitglieder können schriftlich eine namentliche Abstimmung verlangen.
 
 <sup>2</sup> Sofern vom Gesetz nicht anders bestimmt, ist für die Berechnung des Mehrs das absolute Mehr der Stimmenden massgebend.
+
+#### § 57a
+
+**Abstimmungen in Abwesenheit bei Krisensituationen**
+
+<sup>1</sup> Die Geschäftsleitung kann für Landratssitzungen beschliessen, dass Ratsmitglieder in Abwesenheit abstimmen dürfen, sofern:
+
+- a. eine Krisensituation vorliegt,
+- b. das Risiko von vermehrten unverschuldeten Abwesenheiten von Ratsmitgliedern besteht und
+- c. das Stärkenverhältnis der Fraktionen bei Abstimmungen oder die Repräsentation eines Wahlkreises deutlich gefährdet sind.
+
+<sup>2</sup> Der Beschluss bedingt die Zustimmung einer 2/3-Mehrheit der teilnehmenden Mitglieder der Geschäftsleitung. Können das Landratspräsidium oder die Vizepräsidien aufgrund der Krisensituation an der Beschlussfassung nicht teilnehmen, kann die entsprechende Fraktion, analog zu den Fraktionspräsidien gemäss § 16a Abs. 2, eine Stellvertretung benennen.
+
+<sup>3</sup> Die Geschäftsleitung begründet ihren Beschluss und legt die Kriterien fest, gemäss welchen eine Abwesenheit als unverschuldet gilt, welche zur Teilnahme der Ratsmitglieder an Abstimmungen in Abwesenheit berechtigt.
+
+<sup>4</sup> Die Geschäftsleitung kann Abstimmungen in Abwesenheit jeweils für maximal 3 aufeinander folgende Landratssitzungen beschliessen.
+
+<sup>5</sup> Der Beschluss der Geschäftsleitung ist sofort anwendbar, muss jedoch durch den Landrat an seiner nächsten Sitzung bestätigt werden.
+
+<sup>6</sup> Eine unverschuldete Abwesenheit kann ein Ratsmitglied einzig zur Teilnahme an Abstimmungen in Abwesenheit berechtigen; weitere Rechte der Ratsmitglieder an Landratssitzungen setzen die persönliche Anwesenheit voraus.
 
 #### § 58
 
