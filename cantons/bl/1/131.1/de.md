@@ -4,13 +4,13 @@ number: "131.1"
 title: Dekret zum Gesetz über die Organisation und die Geschäftsführung des Landrats
 short: Geschäftsordnung des Landrats
 language: de
-version: 2020-07-01
-valid_until: 2021-07-22
-version_adopted: 2020-02-13
+version: 2021-07-23
+valid_until: 2021-09-30
+version_adopted: 2021-05-20
 adopted: 1994-11-21
 in_force: 1995-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/131.1"
-pdf: "https://bl.clex.ch/api/de/versions/2564/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3072/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +19,15 @@ pdf: "https://bl.clex.ch/api/de/versions/2564/pdf_file"
 
 (Geschäftsordnung des Landrats)
 
-Vom 21.11.1994 (Stand 01.07.2020)
+Vom 21.11.1994 (Stand 23.07.2021)
 
 Der Landrat des Kantons Basel-Landschaft,
 
-gestützt auf § 70 Absatz 2 der Kantonsverfassung[^ingress-1],
+gestützt auf § 70 Abs. 2 der Kantonsverfassung[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art70)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art70)
 
 ## 1 Eröffnung und Sitzordnung
 
@@ -129,8 +129,8 @@ beschliesst:
 
 <sup>1</sup> Den Fraktionen werden folgende Beiträge ausgerichtet:
 
-- a. Grundbetrag pro Fraktion und Jahr — CHF 15'000;
-- b. Zusatzbetrag pro Mitglied und Jahr — CHF 500.
+- a. Grundbetrag pro Fraktion und Jahr — CHF 15'000.–;
+- b. Zusatzbetrag pro Mitglied und Jahr — CHF 500.–.
 
 #### § 11a
 
@@ -159,11 +159,11 @@ beschliesst:
 
 <sup>1</sup> Das Landratspräsidium hat folgende weitere Aufgaben:
 
-- a. Es handhabt das Hausrecht;
-- b. es überwacht die Arbeit der Kommissionen;
-- c. es unterzeichnet gemeinsam mit dem Landschreiber oder der Landschreiberin die Beschlüsse, Briefe und Protokolle;
-- d. es bringt dem Landrat die an den Rat gerichteten Eingaben zur Kenntnis;
-- e. es leitet die Beschlüsse über Kantonsreferenden und Kantonsinitiativen an die Bundesversammlung weiter.
+- a. Es handhabt das Hausrecht.
+- b. Es überwacht die Arbeit der Kommissionen.
+- c. Es unterzeichnet gemeinsam mit dem Landschreiber oder der Landschreiberin die Beschlüsse, Briefe und Protokolle.
+- d. Es bringt dem Landrat die an den Rat gerichteten Eingaben zur Kenntnis.
+- e. Es leitet die Beschlüsse über Kantonsreferenden und Kantonsinitiativen an die Bundesversammlung weiter.
 
 #### § 14
 
@@ -195,19 +195,19 @@ beschliesst:
 
 <sup>2</sup> Die Geschäftsleitung hat folgende weitere Aufgaben:
 
-- a. Sie setzt die ordentlichen Sitzungen des Landrats fest;
-- b. sie regelt den Bezug und die Verteilung der Vorlagen;
-- c. sie weist die Vorlagen und Eingaben an eine oder mehrere Kommissionen und bestimmt die Federführung;
-- d. sie stellt dem Landrat Antrag über die Bildung und Grösse von Spezialkommissionen und die direkte Behandlung von Vorlagen;
-- e. sie koordiniert zusammen mit den Präsidien der ständigen Kommissionen die Kommissionstätigkeit;
-- f. sie genehmigt die Protokolle des Landrats;
-- g. sie handhabt die Geschäftsordnung und beantragt allfällige Änderungen;
-- h. sie entscheidet über die Platzzuteilung auf der Pressetribüne;
-- i. sie wählt auf Vorschlag der Fraktionen die Mitglieder der Interparlamentarischen Geschäftsprüfungskommissionen;
-- j. sie beantragt dem Landrat die Durchführung von Grundsatzdebatten, die zeitliche Beschränkung von Debatten und die verbundene Beratung sachlich zusammengehörender Geschäfte;
-- k. sie erörtert die Haltung und das Vorgehen des Landrats bei Kompetenzstreitigkeiten mit dem Regierungsrat;
-- l. sie behandelt die ihr von der Geschäftsleitung oder von Fraktionen zur Begutachtung zugewiesenen Probleme der Parlamentsarbeit;
-- m. sie beschliesst über die Zuteilung der Kommissionssitze gemäss § 27 Absatz 2 des Landratsgesetzes.
+- a. Sie setzt die ordentlichen Sitzungen des Landrats fest.
+- b. Sie regelt den Bezug und die Verteilung der Vorlagen.
+- c. Sie weist die Vorlagen und Eingaben an eine oder mehrere Kommissionen und bestimmt die Federführung.
+- d. Sie stellt dem Landrat Antrag über die Bildung und Grösse von Spezialkommissionen und die direkte Behandlung von Vorlagen.
+- e. Sie koordiniert zusammen mit den Präsidien der ständigen Kommissionen die Kommissionstätigkeit.
+- f. Sie genehmigt die Protokolle des Landrats.
+- g. Sie handhabt die Geschäftsordnung und beantragt allfällige Änderungen.
+- h. Sie entscheidet über die Platzzuteilung auf der Pressetribüne.
+- i. Sie wählt auf Vorschlag der Fraktionen die Mitglieder der Interparlamentarischen Geschäftsprüfungskommissionen.
+- j. Sie beantragt dem Landrat die Durchführung von Grundsatzdebatten, die zeitliche Beschränkung von Debatten und die verbundene Beratung sachlich zusammengehörender Geschäfte.
+- k. Sie erörtert die Haltung und das Vorgehen des Landrats bei Kompetenzstreitigkeiten mit dem Regierungsrat.
+- l. Sie behandelt die ihr von der Geschäftsleitung oder von Fraktionen zur Begutachtung zugewiesenen Probleme der Parlamentsarbeit.
+- m. Sie beschliesst über die Zuteilung der Kommissionssitze gemäss § 27 Abs. 2 des Landratsgesetzes.
 
 ### 3.2 Kommissionen
 
@@ -294,7 +294,7 @@ beschliesst:
 
 **Hinweis auf die Wahrung des Amtsgeheimnisses**
 
-<sup>1</sup> Die Präsidien der Kommissionen weisen die Teilnehmer und Teilnehmerinnen an Kommissionssitzungen, die nicht Ratsmitglieder sind, auf die Pflicht zur Wahrung des Amtsgeheimnisses (§ 22 Absatz 2 des Landratsgesetzes) hin.
+<sup>1</sup> Die Präsidien der Kommissionen weisen die Teilnehmer und Teilnehmerinnen an Kommissionssitzungen, die nicht Ratsmitglieder sind, auf die Pflicht zur Wahrung des Amtsgeheimnisses (§ 22 Abs. 2 des Landratsgesetzes) hin.
 
 <sup>2</sup> Dieselbe Pflicht gilt für die Präsidien der Fraktionen innerhalb der Fraktionssitzungen.
 
@@ -401,7 +401,7 @@ beschliesst:
 
 <sup>1</sup> Die Aufgaben der Geschäftsprüfungskommission richten sich nach § 61 des Landratsgesetzes.
 
-<sup>1<sup>bis</sup></sup> Sie behandelt zuhanden des Landrates:
+<sup>1<sup>bis</sup></sup> Sie behandelt zuhanden des Landrats:
 
 - a. ...
 - b. …
@@ -519,7 +519,7 @@ beschliesst:
 
 **Akten der PUK**
 
-<sup>1</sup> Akten der PUK gemäss § 65 Absatz 1 des Landratsgesetzes sind:
+<sup>1</sup> Akten der PUK gemäss § 65 Abs. 1 des Landratsgesetzes sind:
 
 - a. Expertenberichte;
 - b. Einvernahme- und Anhörungsprotokolle;
@@ -534,11 +534,11 @@ beschliesst:
 
 <sup>1</sup> Die Landeskanzlei hat folgende weitere Aufgaben:
 
-- a. sie führt das Verzeichnis der erledigten und der hängigen Geschäfte;
-- b. sie besorgt das Rechnungswesen des Landrats;
-- c. sie organisiert den Weibel- und den Sekretariatsdienst während den Landratssitzungen;
-- d. sie vermittelt Arbeitsräume für die Ratsmitglieder;
-- e. sie betreut Besucherinnen und Besucher, die den Landrat in Gruppen besuchen.
+- a. Sie führt das Verzeichnis der erledigten und der hängigen Geschäfte.
+- b. Sie besorgt das Rechnungswesen des Landrats.
+- c. Sie organisiert den Weibel- und den Sekretariatsdienst während den Landratssitzungen.
+- d. Sie vermittelt Arbeitsräume für die Ratsmitglieder.
+- e. Sie betreut Besucherinnen und Besucher, die den Landrat in Gruppen besuchen.
 
 <sup>2</sup> Die Landeskanzlei unterstützt die Kommissionen, Subkommissionen und so weit als möglich auch die Fraktionen, indem sie administrative Aufgaben übernimmt und bei der Erstellung von Kommissionsberichten mitwirkt.
 
@@ -600,7 +600,7 @@ beschliesst:
 
 <sup>1</sup> Interpellationen sind bis 15 Minuten nach dem Beginn der Landratssitzung schriftlich und unterzeichnet beim Landratspräsidium einzureichen. Sie können an der gleichen Sitzung mündlich begründet werden.
 
-<sup>2</sup> Der Interpellant oder die Interpellantin kann in jedem Fall zur Antwort des Regierungsrats in einer kurzen Erklärung Stellung nehmen. Eine Diskussion findet nur auf Beschluss des Landrates statt.
+<sup>2</sup> Der Interpellant oder die Interpellantin kann in jedem Fall zur Antwort des Regierungsrats in einer kurzen Erklärung Stellung nehmen. Eine Diskussion findet nur auf Beschluss des Landrats statt.
 
 #### § 49
 
@@ -743,7 +743,7 @@ beschliesst:
 
 <sup>2</sup> Die Redaktionskommission darf den Inhalt der überprüften Bestimmungen nicht verändern.
 
-<sup>3</sup> Die Redaktionskommission besteht aus 3-5 Mitgliedern. Diese werden auf Antrag des Landschreibers oder der Landschreiberin von der Geschäftsleitung für eine Amtsdauer von 4 Jahren gewählt.
+<sup>3</sup> Die Redaktionskommission besteht aus 3–5 Mitgliedern. Diese werden auf Antrag des Landschreibers oder der Landschreiberin von der Geschäftsleitung für eine Amtsdauer von 4 Jahren gewählt.
 
 <sup>4</sup> Der Landschreiber bzw. die Landschreiberin oder der 2. Landschreiber bzw. die 2. Landschreiberin präsidiert die Redaktionskommission. Als ständige Mitglieder gehören ihr Personen aus dem Landrat, der Landeskanzlei und der kantonalen Verwaltung an.
 
@@ -779,9 +779,9 @@ beschliesst:
 
 **Zweifache Beratung**
 
-<sup>1</sup> Alle Vorlagen für Verfassungsänderungen und Gesetze oder Gesetzesänderungen werden zweimal beraten. Die zweifache Beratung kann auch für andere Vorlagen beschlossen werden.
+<sup>1</sup> Alle Vorlagen für Verfassungsänderungen und Gesetze oder Gesetzesänderungen werden 2-mal beraten. Die 2-fache Beratung kann auch für andere Vorlagen beschlossen werden.
 
-<sup>1<sup>bis</sup></sup> Partnerschaftliche Vorlagen werden zweimal beraten, wenn der Landrat zu einem vorhergehenden Beschluss des Grossen Rates oder der Grosse Rat zu einem vorhergehenden Beschluss des Landrates eine Differenz schafft.
+<sup>1<sup>bis</sup></sup> Partnerschaftliche Vorlagen werden 2-mal beraten, wenn der Landrat zu einem vorhergehenden Beschluss des Grossen Rats oder der Grosse Rat zu einem vorhergehenden Beschluss des Landrats eine Differenz schafft.
 
 <sup>2</sup> Die beiden Lesungen finden in der Regel an 2 verschiedenen Sitzungstagen statt. Die Schlussabstimmung über die Annahme oder Verwerfung der Vorlage wird erst nach der letzten Beratung durchgeführt.
 
@@ -797,7 +797,7 @@ beschliesst:
 
 **Bundesstaatliche Mitwirkungsrechte**
 
-<sup>1</sup> Der Landrat übt die dem Kanton in der Bundesverfassung eingeräumten bundesstaatlichen Mitwirkungsrechte (Artikel 86, 89, 89 bis und 93 BV) auf Antrag des Regierungsrats oder durch einen Vorstoss aus seiner Mitte aus.
+<sup>1</sup> Der Landrat übt die dem Kanton in der Bundesverfassung eingeräumten bundesstaatlichen Mitwirkungsrechte (Art. 86, 89, 89<sup>bis</sup> und 93 BV) auf Antrag des Regierungsrats oder durch einen Vorstoss aus seiner Mitte aus.
 
 #### § 69
 
@@ -813,7 +813,7 @@ beschliesst:
 
 <sup>1</sup> Gelangt eine Person mit einem Anliegen, das auch den Zuständigkeitsbereich des Ombudsman berührt, an den Landrat oder eine Kommission des Landrats, ist das Vorgehen im Sinne von § 8a des Gesetzes über den Ombudsman[^69a-1] zu koordinieren.
 
-[^69a-1]: GS 29.704, SGS [160](https://bl.clex.ch/data/160/de/art8a)
+[^69a-1]: [SGS 160](https://bl.clex.ch/data/160/de/art8a)
 
 #### § 70
 
@@ -941,7 +941,7 @@ beschliesst:
 - b. Überweisung des Geschäftes an eine Kommission;
 - c. Rückweisung von Vorlagen nach beschlossenem Eintreten;
 - d. Schluss der Rednerliste;
-- d<sup>bis</sup>. Schluss der Beratung gemäss § 82 Absatz 2;
+- d<sup>bis</sup>. Schluss der Beratung gemäss § 82 Abs. 2;
 - e. Rückkommen auf gefasste Beschlüsse nach Abschluss der Detailberatung und vor der Schlussabstimmung;
 - f. Unterbrechung oder Beendigung der Landratssitzung.
 
@@ -1001,10 +1001,10 @@ beschliesst:
 
 <sup>6</sup> Durch Handerheben wird abgestimmt:
 
-- a. In besonderen Fällen auf Anordnung des Landratspräsidiums;
+- a. in besonderen Fällen auf Anordnung des Landratspräsidiums;
 - b. wenn die elektronische Abstimmungsanlage ihren Dienst versagt.
 
-<sup>7</sup> In den Fällen gemäss Absatz 6 stellt das Landratspräsidium fest, ob das Mehr unzweifelhaft ist oder ob die Stimmen gezählt werden müssen. Jedes Ratsmitglied kann die Zählung verlangen.
+<sup>7</sup> In den Fällen gemäss Abs. 6 stellt das Landratspräsidium fest, ob das Mehr unzweifelhaft ist oder ob die Stimmen gezählt werden müssen. Jedes Ratsmitglied kann die Zählung verlangen.
 
 <sup>8</sup> Das Landratspräsidium kann mitstimmen und gibt bei Stimmengleichheit den Stichentscheid.
 
@@ -1012,7 +1012,19 @@ beschliesst:
 
 **Abstimmungen mit Namensliste**
 
-<sup>1</sup> Bei einer Abstimmung gemäss § 85 Absatz 5 sind die Namen mit dem Entscheid der Stimmenden zu protokollieren.
+<sup>1</sup> Bei einer Abstimmung gemäss § 85 Abs. 5 sind die Namen mit dem Entscheid der Stimmenden zu protokollieren.
+
+#### § 86a
+
+**Abstimmungen in Abwesenheit bei Krisensituationen**
+
+<sup>1</sup> Ratsmitglieder bestätigen gegenüber der Landeskanzlei spätestens 24 Stunden vor Beginn der Landratssitzung, dass eine von der Geschäftsleitung definierte unverschuldete Abwesenheit vorliegt und sie deshalb an Abstimmungen des Landrats in Abwesenheit gemäss § 57a des Landratsgesetzes teilnehmen möchten.
+
+<sup>2</sup> Sind die von der Geschäftsleitung festgelegten Quoren erreicht, stellt die Landeskanzlei fest, dass Abstimmungen in Abwesenheit möglich sind, und teilt dies den Ratsmitgliedern mit.
+
+<sup>3</sup> Das Verfahren und die Informatikmittel zur Teilnahme an Abstimmungen in Abwesenheit müssen die Authentifizierung der betreffenden Ratsmitglieder und die korrekte Ermittlung der Abstimmungsergebnisse gewährleisten.
+
+<sup>4</sup> Abstimmungen werden nicht wiederholt, wenn abwesende Ratsmitglieder ihre Stimmen aus technischen Gründen nicht abgeben konnten.
 
 ### 5.4 Wahlen
 
