@@ -4,13 +4,13 @@ number: "152.100"
 title: Gesetz über die Geschäftsordnung des Grossen Rates
 short: GO
 language: de
-version: 2018-02-01
-valid_until: 2021-07-28
-version_adopted: 2017-12-06
+version: 2021-07-29
+valid_until: 2021-10-23
+version_adopted: 2021-05-19
 adopted: 2006-06-29
 in_force: 2006-09-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4340/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5306/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Geschäftsordnung des Grossen Rates | Grosser Rat / Ombudsman
 
 (GO)
 
-Vom 29. Juni 2006 (Stand 1. Februar 2018)
+Vom 29. Juni 2006 (Stand 29. Juli 2021)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -759,7 +759,7 @@ erlässt folgendes Gesetz:
 - c) Disziplinarkommission für die Gerichte und die Staatsanwaltschaft;
 - d) Wahlvorbereitungskommission.
 
-<sup>2</sup> Die in Abs. 1 lit. a bis c genannten Kommissionen bestehen aus neun Mitgliedern.
+<sup>2</sup> Die Petitionskommission besteht aus dreizehn Mitgliedern, die Begnadigungskommission und die Disziplinarkommission für die Gerichte und die Staatsanwaltschaft aus je neun Mitgliedern.
 
 <sup>3</sup> Die Wahlvorbereitungskommission besteht aus gleich vielen Mitgliedern, wie es Fraktionen gibt, und der Grosse Rat wählt aus jeder Fraktion ein Mitglied in die Wahlvorbereitungskommission.
 
@@ -924,6 +924,12 @@ erlässt folgendes Gesetz:
 #### § 88
 
 **…**
+
+#### § 88a
+
+**Übergangsbestimmung zur Änderung betreffend § 72 Abs. 2**
+
+<sup>1</sup> Für die Dauer der aktuellen Legislatur bis 31. Januar 2025 erhalten in der um vier Mitglieder aufgestockten Petitionskommission die Fraktion SP zwei Sitze sowie die Fraktionen GAB und LDP je einen Sitz zusätzlich.
 
 #### § 89
 
