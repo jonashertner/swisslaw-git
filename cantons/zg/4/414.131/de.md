@@ -4,13 +4,13 @@ number: "414.131"
 title: Promotionsordnung für das Langzeitgymnasium der Kantonsschule Zug
 short: PO LZG KSZ
 language: de
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2019-10-23
+version: 2021-08-01
+valid_until: 2023-07-31
+version_adopted: 2021-06-14
 adopted: 2015-03-26
 in_force: 2015-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.131"
-pdf: "https://bgs.zg.ch/api/de/versions/2116/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2243/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2116/pdf_file"
 
 (PO LZG KSZ)
 
-Vom 26. März 2015 (Stand 1. August 2020)
+Vom 26. März 2015 (Stand 1. August 2021)
 
 Die Schulkommission der kantonalen Mittelschulen des Kantons Zug,
 
@@ -55,8 +55,8 @@ beschliesst:
 
 <sup>1</sup> Die promotionswirksame Beurteilung der Schülerinnen und Schüler mittels Zeugnis erfolgt:
 
-- a) in der 1. bis 4. Klasse am Ende beider Semester;
-- b) in der 5. und 6. Klasse am Ende jeden Schuljahrs.
+- a) in der 1. bis 3. Klasse am Ende beider Semester;
+- b) in der 4. bis 6. Klasse am Ende jeden Schuljahrs.
 
 #### § 4
 
@@ -148,13 +148,12 @@ beschliesst:
 
 - a) 1. Klasse: Deutsch, Französisch, Englisch, Mathematik, Biologie, Geschichte, Geografie, Bildnerisches Gestalten, Musik, Geometrisches Praktikum oder Latein, Religionskunde;
 - b) 2. Klasse: Deutsch, Französisch, Englisch, Mathematik, Biologie, Geschichte, Geografie, Bildnerisches Gestalten, Musik, Programmieren und Technik oder Latein, Naturwissenschaftliches Propädeutikum, Religionskunde;
-- c) 3. Klasse: Deutsch, zweite Sprache (Französisch oder Italienisch), dritte Sprache (Englisch oder Französisch oder Latein oder Italienisch), Mathematik, Informatik, Biologie, Chemie, Physik, Geschichte, Geografie, Bildnerisches Gestalten oder Musik, Schwerpunktfach[^10-1];
-- d) 4. Klasse: Deutsch, zweite Sprache (Französisch oder Italienisch), dritte Sprache (Englisch oder Französisch oder Latein oder Italienisch), Mathematik[^10-2], Informatik, Biologie, Chemie, Physik, Geschichte, Geografie, Wirtschaft und Recht, Bildnerisches Gestalten oder Musik, Schwerpunktfach, Medien;
+- c) 3. Klasse: Deutsch, zweite Sprache (Französisch oder Italienisch), dritte Sprache (Englisch oder Französisch oder Latein oder Italienisch), Mathematik, Informatik, Biologie, Chemie, Physik, Geschichte, Geografie, Bildnerisches Gestalten oder Musik, Schwerpunktfach;
+- d) 4. Klasse: Deutsch, zweite Sprache (Französisch oder Italienisch), dritte Sprache (Englisch oder Französisch oder Latein oder Italienisch), Mathematik, Informatik, Biologie, Chemie, Physik, Geschichte, Geografie, Wirtschaft und Recht, Bildnerisches Gestalten oder Musik, Schwerpunktfach, Medien;
 - e) 5. Klasse: Deutsch, zweite Sprache (Französisch oder Italienisch), dritte Sprache (Englisch oder Französisch oder Latein oder Italienisch), Mathematik, Biologie, Chemie, Physik, Geschichte, Geografie, Wirtschaft und Recht, Bildnerisches Gestalten oder Musik, Schwerpunktfach;
 - f) 6. Klasse: Deutsch, zweite Sprache (Französisch oder Italienisch), dritte Sprache (Englisch oder Französisch oder Latein oder Italienisch), Mathematik, Physik, Geschichte, Schwerpunktfach, Ergänzungsfach, Kunst und Kultur.
 
-[^10-1]: In der 3. Klasse fliessen die Leistungen im obligatorischen Fach Informatik entweder in die Note im Schwerpunktfach oder in die Mathematiknote ein. Die Einzelheiten werden von der Schulleitung jeweils vor Beginn des Schuljahres geregelt.
-[^10-2]: In der 4. Klasse fliessen die Leistungsbewertungen im obligatorischen Fach Informatik in die Note des Faches Mathematik ein.
+<sup>2</sup> In der 4. Klasse zählt das Fach Medien als eigenständige Note mit der Gewichtung 0.5, da dieses jeweils nur während eines Semesters unterrichtet wird.
 
 ### 3.3. Promotionsbedingungen
 
@@ -171,14 +170,14 @@ beschliesst:
 
 **Rückversetzung**
 
-<sup>1</sup> Die Schülerinnen und Schüler der 1. bis 4. Klasse werden zurückversetzt, wenn innerhalb von drei aufeinanderfolgenden Semestern die Promotionsbedingungen zwei Mal nicht erfüllt sind.
+<sup>1</sup> Die Schülerinnen und Schüler der 1. bis 3. Klasse werden zurückversetzt, wenn innerhalb von drei aufeinanderfolgenden Semestern die Promotionsbedingungen zwei Mal nicht erfüllt sind.
 
-<sup>2</sup> Schülerinnen und Schüler der 4. Klasse werden aufgrund ihrer Leistungen während beider Semester der 4. Klasse beurteilt, wenn sie am Ende des 2. Semesters die Promotionsbedingungen nicht erfüllen. Eine Rückversetzung erfolgt, wenn in den beiden Zeugnissen der 4. Klasse:
+<sup>2</sup> Schülerinnen und Schüler der 3. Klasse werden aufgrund ihrer Leistungen während beider Semester der 3. Klasse beurteilt, wenn sie am Ende des 2. Semesters die Promotionsbedingungen nicht erfüllen. Eine Rückversetzung erfolgt, wenn in den beiden Zeugnissen der 3. Klasse:
 
 - a) insgesamt die doppelte Summe aller Notenabweichungen von 4 nach unten grösser ist als die Summe aller Notenabweichungen von 4 nach oben;
 - b) insgesamt mehr als sechs Noten unter 4 erteilt wurden.
 
-<sup>3</sup> Die Schülerinnen und Schüler der 5. Klasse werden zurückversetzt, wenn am Ende des Schuljahrs die Promotionsbedingungen nicht erfüllt sind.
+<sup>3</sup> Die Schülerinnen und Schüler der 4. und 5. Klasse werden zurückversetzt, wenn am Ende des Schuljahrs die Promotionsbedingungen nicht erfüllt sind.
 
 <sup>4</sup> Schülerinnen und Schüler, die am Ende der 6. Klasse die Promotionsbedingungen nicht erfüllen, sind zu den Maturitätsprüfungen zugelassen.
 
@@ -202,7 +201,7 @@ beschliesst:
 
 <sup>2</sup> Schülerinnen und Schüler, die aufgrund von § 13 Abs. 1 des Reglements betreffend das Übertrittverfahren[^14-1] bis am 1. Dezember in die 1. Klasse eingetreten sind, werden von der Schule weggewiesen, wenn sie am Ende der 1. Klasse die Promotionsbedingungen nicht erfüllen.
 
-<sup>3</sup> Die Schülerinnen und Schüler der 1. bis 4. Klasse werden von der Schule weggewiesen, wenn sie bei einer Rückversetzung oder freiwilligen Repetition im ersten oder zweiten Semester nach Eintritt in die neue Klasse die Promotionsbedingungen nicht erfüllen.
+<sup>3</sup> Die Schülerinnen und Schüler der 1. bis 3. Klasse werden von der Schule weggewiesen, wenn sie bei einer Rückversetzung oder freiwilligen Repetition im ersten oder zweiten Semester nach Eintritt in die neue Klasse die Promotionsbedingungen nicht erfüllen.
 
 <sup>4</sup> Die Schülerinnen und Schüler werden von der Schule weggewiesen, wenn sie zum zweiten Mal zurückversetzt werden müssten. Dies gilt auch bei freiwilliger Repetition.
 
@@ -216,22 +215,24 @@ beschliesst:
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Die Promotionsordnung gilt erstmals für Schülerinnen und Schüler, die im Schuljahr 2015/16 die 1. bis 5. Klasse besuchen.
+<sup>1</sup> …
 
-<sup>2</sup> Wechselt eine Schülerin oder ein Schüler aufgrund einer Repetition oder eines Austauschjahres in eine Klasse, für die bereits diese Promotionsordnung gilt, so werden die neuen Bestimmungen angewendet. Ergeben sich daraus im Einzelfall Unklarheiten, so sind diese von der zuständigen Rektorin oder dem zuständigen Rektor zusammen mit der Leiterin oder dem Leiter des Amts für Mittelschulen und Pädagogische Hochschule zu lösen.
+<sup>2</sup> …
 
-<sup>3</sup> Negative Promotionsentscheide, Rückversetzungen und freiwillige Repetitionen bleiben nach dem Inkrafttreten der vorliegenden Promotionsordnung oder nach einem Wechsel zur vorliegenden Promotionsordnung bestehen.
+<sup>3</sup> …
 
-<sup>4</sup> Das Promotionsfach Informatik wird per Schuljahr 2020/21 in den 3. Klassen mit Schwerpunktfach Physik und Anwendungen der Mathematik unterrichtet.
+<sup>4</sup> Das Promotionsfach Informatik wird per Schuljahr 2021/22 in den 4. Klassen mit Schwerpunktfach Physik und Anwendungen der Mathematik unterrichtet.
 
-<sup>5</sup> Das Promotionsfach Informatik wird per Schuljahr 2021/22 in allen 3. Klassen eingeführt.
+<sup>5</sup> …
+
+<sup>6</sup> Im Schuljahr 2021/22 fliessen in der 4. Klasse die Leistungsbewertungen im Fach Informatik in die Note des Fachs Mathematik ein.
+
+<sup>7</sup> Schülerinnen und Schüler, die im Schuljahr 2020/21 im 2. Semester der 3. Klasse die Promotionsbestimmungen nicht erfüllt haben, müssen am Ende des 1. Semesters der 4. Klasse des Schuljahres 2021/22 die Promotionsbestimmungen gemäss § 11 erfüllen. Der Zwischenbericht gemäss § 7 Abs. 3 ist für sie promotionswirksam. Erfüllen sie die Promotionsbestimmungen nicht, werden sie in die 3. Klasse zurückversetzt. Bei Schülerinnen und Schülern, die bereits einmal zurückversetzt wurden, gilt § 14 Abs. 4.
+
+<sup>8</sup> Für Schülerinnen und Schüler der 4. Klasse wird im Schuljahr 2021/22 das Fach Medien bei der Ermittlung des Notenstandes nach dem 1. Semester nicht mitgerechnet.
 
 #### § 16
 
-**Schlussbestimmung**
-
-<sup>1</sup> Die Promotionsordnung für das Gymnasium der Kantonsschule Zug[^16-1] wird per 1. August 2016 aufgehoben.
-
-[^16-1]: BGS [414.13](https://bgs.zg.ch/data/414.13/de)
+**…**
 
 GS 2015/025
