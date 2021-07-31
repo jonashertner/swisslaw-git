@@ -4,13 +4,13 @@ number: "140.11"
 title: Verordnung zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft
 short: "Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL"
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-11-17
+version: 2021-08-01
+valid_until: 2022-03-31
+version_adopted: 2021-06-29
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.11"
-pdf: "https://bl.clex.ch/api/de/versions/2783/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3048/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2783/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL)
 
-Vom 19.12.2017 (Stand 01.01.2021)
+Vom 19.12.2017 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -133,8 +133,8 @@ beschliesst:
 - d. Amt für Kultur;
 - e. Amt für Volksschulen;
 - f. Dienststelle Berufsbildung, Mittelschulen und Hochschulen;
-- g. Fachstelle Erwachsenenbildung;
-- h. Schulpsychologischer Dienst;
+- g. …
+- h. …
 - i. …
 - j. Sportamt.
 
