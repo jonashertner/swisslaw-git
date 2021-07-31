@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Juni 2018 über die Finanzdienstleistungen (Finanzd
 short: FIDLEG
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: de
-version: 2021-02-01
+version: 2021-08-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210801-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210201/de"
 
 (Finanzdienstleistungsgesetz, FIDLEG)
 
-vom 15. Juni 2018 (Stand am 1. Februar 2021)
+vom 15. Juni 2018 (Stand am 1. August 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -90,11 +90,11 @@ In diesem Gesetz gelten als:
   - 2\. Forderungspapiere: Effekten, die nicht Beteiligungspapiere sind,
   - 3\. Anteile an kollektiven Kapitalanlagen nach den Artikeln 7 und 119 des Kollektivanlagengesetzes vom 23. Juni 2006[^3-1] (KAG),
   - 4\. strukturierte Produkte, namentlich kapitalgeschützte Produkte, Produkte mit Maximalrendite und Zertifikate,
-  - 5\. Derivate nach Artikel 2 Buchstabe c des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^3-2],
+  - 5\.[^3-2] Derivate nach Artikel 2 Buchstabe c des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^3-3] (FinfraG),
   - 6\. Einlagen, deren Rückzahlungswert oder Zins risiko- oder kursabhängig ist, ausgenommen solche, deren Zins an einen Zinsindex gebunden ist,
   - 7\. Anleihensobligationen: Anteile an einem Gesamtdarlehen mit einheitlichen Bedingungen;
 
-- b. *Effekten:* vereinheitlichte und zum massenweisen Handel geeignete Wertpapiere, Wertrechte, Derivate und Bucheffekten;
+- b.[^3-4] *Effekten:* vereinheitlichte und zum massenweisen Handel geeignete Wertpapiere, Wertrechte, insbesondere einfache Wertrechte nach Artikel 973*c* des Obligationenrechts (OR)[^3-5] und Registerwertrechte nach Artikel 973*d* OR, sowie Derivate und Bucheffekten;
 - c.
 
   *Finanzdienstleistungen:* die folgenden für Kundinnen und Kunden erbrachten Tätigkeiten:
@@ -113,7 +113,10 @@ In diesem Gesetz gelten als:
 - i. *Ersteller:* Personen, die ein Finanzinstrument erstellen oder Änderungen an einem bestehenden Finanzinstrument, einschliesslich Änderungen seines Risiko- und Renditeprofils oder der mit einer Anlage in das Finanzinstrument verbundenen Kosten, vornehmen.
 
 [^3-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^3-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^3-2]: Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^3-3]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^3-4]: Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^3-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 4
 
@@ -552,11 +555,15 @@ Das Verfahren über den Registereintrag richtet sich nach dem Verwaltungsverfahr
 
 **Pflicht zur Veröffentlichung eines Prospekts**
 
-<sup>1</sup> Wer in der Schweiz ein öffentliches Angebot zum Erwerb von Effekten unterbreitet oder wer um Zulassung von Effekten zum Handel auf einem Handelsplatz nach Artikel 26 Buchstabe a des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^35-1] ersucht, hat vorgängig einen Prospekt zu veröffentlichen.
+<sup>1</sup> Wer in der Schweiz ein öffentliches Angebot zum Erwerb von Effekten unterbreitet oder wer um Zulassung von Effekten zum Handel auf einem Handelsplatz nach Artikel 26 Buchstabe a FinfraG[^35-1] ersucht, hat vorgängig einen Prospekt zu veröffentlichen.[^35-2]
+
+<sup>1bis</sup> Für die Zulassung von DLT-Effekten nach Artikel 2 Buchstabe b<sup>bis</sup> FinfraG zum Handel an einem DLT-Handelssystem nach Artikel 73*a* FinfraG gelten die Artikel 35–57 und 64–69 sinngemäss.[^35-3]
 
 <sup>2</sup> Ist der Emittent der Effekten nicht am öffentlichen Angebot beteiligt, so treffen ihn keine Mitwirkungspflichten bei der Erstellung des Prospekts.
 
 [^35-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^35-2]: Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^35-3]: Eingefügt durch Ziff. I 4 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 36
 

@@ -4,11 +4,11 @@ title: "Federal Act of 15 June 2018 on Financial Services (Financial Services Ac
 short: FinSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: en
-version: 2021-02-01
+version: 2021-08-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210201-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210801-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Services Act, FinSA)
 
-of 15 June 2018 (Status as of 1 February 2021)
+of 15 June 2018 (Status as of 1 August 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -92,11 +92,11 @@ For the purposes of this Act:
   - 2\. debt instruments: securities not classified as equity securities,
   - 3\. units in collective investment schemes in accordance with Articles 7 and 119 of the Collective Investment Schemes Act of 23 June 2006[^3-1] (CISA),
   - 4\. structured products, i.e. capital-protected products, capped return products and certificates,
-  - 5\. derivatives within the meaning of Article 2 letter c of the Financial Market Infrastructure Act of 19 June 2015[^3-2],
+  - 5\.[^3-2] derivatives in accordance with Article 2 letter c of the Financial Market Infrastructure Act of 19 June 2015[^3-3] (FinMIA),
   - 6\. deposits whose redemption value or interest is risk- or price-dependent, excluding those whose interest is linked to an interest rate index,
   - 7\. bonds: units in an overall loan subject to uniform conditions;
 
-- b. *securities* are standardised certificated and uncertificated securities, derivatives and intermediated securities, which are suitable for mass trading;
+- b.[^3-4] *securities* are standardised certificated and uncertificated securities, in particular uncertificated securities in accordance with Article 973*c* of the Code of Obligations (CO)[^3-5] and ledger-based securities in accordance with Article 973*d* of the CO, as well as derivatives and intermediated securities, which are suitable for mass trading;
 - c.
 
   *financial services* are any of the following activities carried out for clients:
@@ -115,7 +115,10 @@ For the purposes of this Act:
 - i. *producers* are persons who produce a financial instrument or modify an existing financial instrument, including its risk and return profile or the costs associated with investing in the financial instrument.
 
 [^3-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^3-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^3-2]: Amended by No I 4 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^3-3]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^3-4]: Amended by No I 4 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^3-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 4
 
@@ -242,7 +245,7 @@ They shall also provide information on:
 
 #### Art. 9
 
-**Content and form of information**
+**Timing and form of information**
 
 <sup>1</sup> Financial service providers shall inform their clients before the signing of the contract or provision of the service.
 
@@ -554,11 +557,15 @@ The procedure for registration entries is based on the Administrative Procedure 
 
 **Duty to publish a prospectus**
 
-<sup>1</sup> Any person in Switzerland who makes a public offer for the acquisition of securities or any person who seeks the admission of securities to trading on a trading venue in accordance with Article 26 letter a of the Financial Market Infrastructure Act of 19 June 2015[^35-1] must first publish a prospectus.
+<sup>1</sup> Any person in Switzerland who makes a public offer for the acquisition of securities or any person who seeks the admission of securities to trading on a trading venue in accordance with Article 26 letter a of the FinMIA[^35-1] must first publish a prospectus.[^35-2]
+
+<sup>1bis</sup> Articles 35 to 57 and 64 to 69 apply by analogy to the admission of DLT securities in accordance with Article 2 letter b<sup>bis</sup> of the FinMIA to trading on a DLT trading facility in accordance with Article 73*a* of the FinMIA.[^35-3]
 
 <sup>2</sup> If the issuer of the securities does not participate in the public offer, it is not obliged to cooperate with the preparation of the prospectus.
 
 [^35-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^35-2]: Amended by No I 4 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^35-3]: Inserted by No I 4 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 36
 
@@ -576,7 +583,7 @@ A prospectus does not need to be published if the public offer:
 
 <sup>2</sup> Each public offer for the resale of securities that were previously the subject of an offer in accordance with paragraph 1 is regarded as a separate offer.
 
-<sup>3</sup> In the absence of indications to the contrary, the offerer may, for the purposes of this provision, assume that professional and institutional clients have not declared that they wish to be treated as retail clients.
+<sup>3</sup> In the absence of indications to the contrary, the offeror may, for the purposes of this provision, assume that professional and institutional clients have not declared that they wish to be treated as retail clients.
 
 <sup>4</sup>
 
@@ -629,7 +636,7 @@ A prospectus need not be published if the following types of securities are admi
 
 **Information beyond the scope of the duty to publish a prospectus**
 
-In the absence of a duty to publish a prospectus, offerers or issuers shall treat investors alike when sending them essential information on a public offer.
+In the absence of a duty to publish a prospectus, offerors or issuers shall treat investors alike when sending them essential information on a public offer.
 
 ### Section 2 Requirements
 
@@ -974,7 +981,7 @@ The Federal Council shall issue supplementary provisions on the key information 
 
 <sup>1</sup>
 
-The offerer of securities or the person requesting their admission to trading must:
+The offeror of securities or the person requesting their admission to trading must:
 
 - a. file the prospectus with the reviewing body after it has been approved;
 - b. publish the prospectus no later than the beginning of the public offer or admission of the securities in question to trading.
@@ -1384,6 +1391,6 @@ Annex
 
 The legislative instruments below are amended as follows:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: The amendments may be consulted under [AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758).

@@ -4,11 +4,11 @@ title: "Legge federale del 15 giugno 2018 sui servizi finanziari (Legge sui serv
 short: LSerFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: it
-version: 2021-02-01
+version: 2021-08-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210801-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210201/it"
 
 (Legge sui servizi finanziari, LSerFi)
 
-del 15 giugno 2018 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
+del 15 giugno 2018 (Stato 1° agosto 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -90,11 +90,11 @@ Ai sensi della presente legge s’intende per:
   - 2\. i titoli di credito: i valori mobiliari che non sono titoli di partecipazione,
   - 3\. le quote in investimenti collettivi di capitale secondo gli articoli 7 e 119 della legge del 23 giugno 2006[^3-1] sugli investimenti collettivi (LICol),
   - 4\. i prodotti strutturati, segnatamente i prodotti a capitale garantito, i prodotti a rendimento massimo e i certificati,
-  - 5\. i derivati di cui all’articolo 2 lettera c della legge del 19 giugno 2015[^3-2] sull’infrastruttura finanziaria,
+  - 5\.[^3-2] i derivati di cui all’articolo 2 lettera c della legge del 19 giugno 2015[^3-3] sull’infrastruttura finanziaria (LInFi),
   - 6\. i depositi il cui valore di rimborso o tasso d’interesse dipende da un rischio o da un corso, esclusi i depositi il cui tasso d’interesse è vincolato a un indice sui tassi d’interesse,
   - 7\. le obbligazioni di prestito: le quote di un prestito complessivo soggette a condizioni uniformi;
 
-- b. *valori mobiliari:* le cartevalori, diritti valori, derivati e titoli contabili standardizzati e idonei a essere negoziati su vasta scala;
+- b.[^3-4] *valori mobiliari:* le cartevalori, i diritti valori, in particolare i diritti valori semplici di cui all’articolo 973*c* del Codice delle obbligazioni (CO)[^3-5] e i diritti valori registrati di cui all’articolo 973*d* CO, nonché i derivati e i titoli contabili, sempre che siano standardizzati e idonei a essere negoziati su vasta scala;
 - c.
 
   *servizi finanziari:* le seguenti attività fornite ai clienti:
@@ -113,7 +113,10 @@ Ai sensi della presente legge s’intende per:
 - i. *produttori:* le persone che creano strumenti finanziari o che apportano modifiche a uno strumento finanziario esistente, comprese le modifiche del suo profilo di rischio e di rendimento o dei costi connessi a un investimento nello strumento finanziario.
 
 [^3-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^3-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^3-2]: Nuovo testo giusta il n. I 4 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^3-3]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^3-4]: Nuovo testo giusta il n. I 4 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^3-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 4
 
@@ -550,11 +553,15 @@ La procedura d’iscrizione nel registro è retta dalla legge federale del 20 di
 
 **Obbligo di pubblicare un prospetto**
 
-<sup>1</sup> Chi, in Svizzera, offre al pubblico l’acquisto di valori mobiliari o fa richiesta di ammissione al commercio di valori mobiliari presso una sede di negoziazione secondo l’articolo 26 lettera a della legge del 19 giugno 2015[^35-1] sull’infrastruttura finanziaria, deve pubblicare previamente un prospetto.
+<sup>1</sup> Chi, in Svizzera, offre al pubblico l’acquisto di valori mobiliari o fa richiesta di ammissione al commercio di valori mobiliari presso una sede di negoziazione secondo l’articolo 26 lettera a LInFi[^35-1], deve pubblicare previamente un prospetto.[^35-2]
+
+<sup>1bis</sup> Gli articoli 35–57 e 64–69 della presente legge si applicano per analogia all’ammissione al commercio di valori mobiliari TRD secondo l’articolo 2 lettera b<sup>bis</sup> LInFi presso un sistema di negoziazione TRD secondo l’articolo 73*a* LInFi.[^35-3]
 
 <sup>2</sup> Se non partecipa all’offerta pubblica, l’emittente dei valori mobiliari non è tenuto a collaborare alla redazione del prospetto.
 
 [^35-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^35-2]: Nuovo testo giusta il n. I 4 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^35-3]: Introdotto dal n. I 4 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 36
 

@@ -4,11 +4,11 @@ title: Loi fédérale du 15 juin 2018 sur les services financiers (LSFin)
 short: LSFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: fr
-version: 2021-02-01
+version: 2021-08-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210801-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210201/fr"
 
 (LSFin)
 
-du 15 juin 2018 (Etat le 1<sup>er</sup> février 2021)
+du 15 juin 2018 (État le 1<sup>er</sup> août 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -90,11 +90,11 @@ Au sens de la présente loi, on entend par:
   - 2\. les titres de créance: les valeurs mobilières qui ne sont pas des titres de participation,
   - 3\. les parts de placements collectifs de capitaux au sens des art. 7 et 119 de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^3-1],
   - 4\. les produits structurés, tels que les produits à capital garanti, les produits à rendement maximal et les certificats,
-  - 5\. les dérivés au sens de l’art. 2, let. c, de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^3-2],
+  - 5\.[^3-2] les dérivés au sens de l’art. 2, let. c, de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers (LIMF)[^3-3],
   - 6\. les dépôts dont la valeur de remboursement ou le taux d’intérêt dépend d’un risque ou d’un cours, excepté ceux dont le taux d’intérêt est lié à un indice de taux d’intérêt,
   - 7\. les obligations: les parts de la totalité d’un emprunt qui sont soumises à des conditions identiques;
 
-- b. *valeurs mobilières:* les papiers-valeurs, les droits-valeurs, les dérivés et les titres intermédiés standardisés susceptibles d’être diffusés en grand nombre sur le marché;
+- b.[^3-4] *valeurs mobilières:* les papiers-valeurs, les droits-valeurs, en particulier les droits-valeurs simples au sens de l’art. 973*c* du code des obligations (CO)[^3-5] et les droits-valeurs inscrits au sens de l’art. 973*d* CO, les dérivés et les titres intermédiés standardisés susceptibles d’être diffusés en grand nombre sur le marché;
 - c.
 
   *services financiers:* les prestations suivantes fournies aux clients:
@@ -113,7 +113,10 @@ Au sens de la présente loi, on entend par:
 - i. *producteurs:* les personnes qui créent un instrument financier ou modifient un instrument financier existant, y compris son profil de risque et de rendement ou les frais liés au placement dans l’instrument financier.
 
 [^3-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
-[^3-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^3-2]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^3-3]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^3-4]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^3-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 4
 
@@ -550,11 +553,15 @@ La procédure d’inscription au registre est régie par la loi du 20 décembre 
 
 **Obligation de publier un prospectus**
 
-<sup>1</sup> Quiconque en Suisse soumet une offre au public en vue de l’acquisition de valeurs mobilières ou demande que des valeurs mobilières soient admises à la négociation sur une plate-forme de négociation au sens de l’art. 26, let. a, de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^35-1] doit publier au préalable un prospectus.
+<sup>1</sup> Quiconque en Suisse soumet une offre au public en vue de l’acquisition de valeurs mobilières ou demande que des valeurs mobilières soient admises à la négociation sur une plate-forme de négociation au sens de l’art. 26, let. a, LIMF[^35-1] doit publier au préalable un prospectus.[^35-2]
+
+<sup>1bis</sup> Les art. 35 à 57 et 64 à 69 s’appliquent par analogie à l’admission à la négociation de valeurs mobilières fondées sur la TRD au sens de l’art. 2, let. b<sup>bis</sup>, LIMF sur un système de négociation fondé sur la TRD au sens de l’art. 73*a* LIMF. [^35-3]
 
 <sup>2</sup> Si l’émetteur des valeurs mobilières n’est pas associé à l’offre au public, il n’est pas tenu de participer à l’établissement du prospectus.
 
 [^35-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^35-2]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^35-3]: Introduit par le ch. I 4 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 36
 
@@ -1040,7 +1047,7 @@ Le prospectus peut être publié:
 
 <sup>3</sup> La responsabilité concernant les indications inexactes ou trompeuses sur les perspectives principales est limitée aux cas où ces indications ont été fournies ou diffusées sciemment ou sans mentionner l’incertitude liée aux évolutions futures.
 
-[^69-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510))(FF **2018** …).
+[^69-1]: Rectifié par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 ### Chapitre 6 Offre de produits structurés et constitution de portefeuilles collectifs
 
