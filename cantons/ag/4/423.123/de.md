@@ -4,13 +4,13 @@ number: "423.123"
 title: Verordnung über die Mittelschule
 short: Mittelschulverordnung
 language: de
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-05-13
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-05-05
 adopted: 2015-06-03
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.123"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2863/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2991/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2863/pdf_file"
 
 (Mittelschulverordnung)
 
-Vom 03.06.2015 (Stand 01.08.2020)
+Vom 03.06.2015 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
