@@ -4,13 +4,13 @@ number: "412.3.11"
 title: "Règlement sur l'école de commerce à plein temps"
 short: RECPT
 language: fr
-version: 2016-08-01
-valid_until: 2021-07-31
-version_adopted: 2016-06-21
+version: 2021-08-01
+valid_until: 2022-01-31
+version_adopted: 2021-05-26
 adopted: 2016-06-21
 in_force: 2016-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.3.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5172/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6843/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Ecole de commerce à plein temps – R
 
 (RECPT)
 
-du 21.06.2016 (version entrée en vigueur le 01.08.2016)
+du 21.06.2016 (version entrée en vigueur le 01.08.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -374,27 +374,11 @@ Arrête:
 
 #### Art. 36
 
-**Commission cantonale des examens de l'enseignement secondaire du deuxième degré – Composition**
-
-<sup>1</sup> La Commission cantonale des examens de l'enseignement secondaire du deuxième degré (ci-après: la Commission cantonale) est composée:
-
-- a) des recteurs/directeurs ou rectrices/directrices de chaque école de l'enseignement secondaire du deuxième degré;
-- b) des présidents ou présidentes et des secrétaires des jurys de chaque école;
-- c) du représentant fribourgeois ou de la représentante fribourgeoise à la Commission suisse de maturité;
-- d) d'une personne représentant la Direction, qui préside la Commission cantonale.
+**…**
 
 #### Art. 37
 
-**Commission cantonale des examens de l'enseignement secondaire du deuxième degré – Compétences**
-
-<sup>1</sup> La Commission cantonale:
-
-- a) contrôle l'application du règlement dans les écoles de commerce;
-- b) détermine les ouvrages auxiliaires et les instruments de travail autorisés pour les épreuves écrites, dans le respect des prescriptions fédérales en matière de formation professionnelle;
-- c) s'assure, au sujet des examens, de l'équivalence des exigences dans les écoles;
-- d) fixe les dates de la session ordinaire;
-- e) fixe la durée des congés accordés aux personnes candidates pour leur préparation;
-- f) propose à la Direction les changements à apporter au règlement.
+**…**
 
 #### Art. 38
 

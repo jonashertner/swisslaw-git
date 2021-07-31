@@ -4,13 +4,13 @@ number: "412.3.11"
 title: Reglement über die Vollzeit-Handelsmittelschule
 short: VHR
 language: de
-version: 2016-08-01
-valid_until: 2021-07-31
-version_adopted: 2016-06-21
+version: 2021-08-01
+valid_until: 2022-01-31
+version_adopted: 2021-05-26
 adopted: 2016-06-21
 in_force: 2016-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.3.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5172/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6843/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Vollzeit-Handelsmittelschule – R
 
 (VHR)
 
-vom 21.06.2016 (Fassung in Kraft getreten am 01.08.2016)
+vom 21.06.2016 (Fassung in Kraft getreten am 01.08.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -374,27 +374,11 @@ beschliesst:
 
 #### Art. 36
 
-**Kantonale Prüfungskommission der Sekundarstufe 2 – Zusammensetzung**
-
-<sup>1</sup> Der kantonalen Prüfungskommission der Sekundarstufe 2 (die kantonale Kommission) gehören folgende Personen an:
-
-- a) die Rektorinnen und Rektoren und die Direktorinnen und Direktoren aller Schulen der Sekundarstufe 2;
-- b) die Präsidentinnen und Präsidenten und die Sekretärinnen und Sekretäre der Prüfungskommissionen der einzelnen Schulen;
-- c) die Person, die den Kanton Freiburg in der Schweizerischen Maturitätskommission vertritt;
-- d) eine Person als Vertretung der Direktion, welche die kantonale Kommission präsidiert.
+**…**
 
 #### Art. 37
 
-**Kantonale Prüfungskommission der Sekundarstufe 2 – Befugnisse**
-
-<sup>1</sup> Die kantonale Kommission hat folgende Befugnisse:
-
-- a) Sie kontrolliert die Anwendung des Reglements in den Handelsmittelschulen.
-- b) Sie bestimmt, welche Nachschlagewerke und Hilfsmittel bei den schriftlichen Prüfungen erlaubt sind, wobei sie die Vorschriften des Bundes im Bereich der Berufsbildung berücksichtigt.
-- c) Sie vergewissert sich, dass die Prüfungsanforderungen in den Schulen gleichwertig sind.
-- d) Sie legt die Daten der ordentlichen Prüfungssession fest.
-- e) Sie setzt die Dauer des Vorbereitungsurlaubs für die Kandidatinnen und Kandidaten fest.
-- f) Sie beantragt der Direktion allfällige Änderungen des vorliegenden Reglements.
+**…**
 
 #### Art. 38
 
