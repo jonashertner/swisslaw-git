@@ -4,13 +4,13 @@ number: 516c
 title: Studienreglement über die Ausbildung der Pädagogischen Hochschule Luzern im Bereich der Berufsbildung
 short: PH-Berufsbildungsreglement
 language: de
-version: 2018-08-01
-valid_until: 2021-07-31
-version_adopted: 2018-05-30
+version: 2021-08-01
+valid_until: 2024-07-31
+version_adopted: 2021-06-01
 adopted: 2014-02-14
 in_force: 2014-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/516c"
-pdf: "https://srl.lu.ch/api/de/versions/3285/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3769/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3285/pdf_file"
 
 (PH-Berufsbildungsreglement)
 
-vom 14.02.2014 (Stand 01.08.2018)
+vom 14.02.2014 (Stand 01.08.2021)
 
 Der Rektor der Pädagogischen Hochschule Luzern,
 
@@ -83,7 +83,7 @@ beschliesst:
 
 <sup>1</sup> Bewerberinnen und Bewerber müssen für die Aufnahme in einen Studiengang der PH Luzern die persönlichen Voraussetzungen, die für die Ausübung des Lehrberufs relevant sind, erfüllen.
 
-<sup>2</sup> Für die Abklärung der persönlichen Voraussetzungen der Bewerberinnen und Bewerber kann ein aktueller Auszug aus dem Strafregister verlangt werden. Bei Wohnsitz im Ausland ist eine gleichwertige Urkunde vorzulegen. Die Rektorin oder der Rektor kann von den Bewerberinnen und Bewerbern zusätzliche Auskünfte und Unterlagen verlangen.
+<sup>2</sup> Für die Abklärung der persönlichen Voraussetzungen der Bewerberinnen und Bewerber kann ein aktueller Auszug aus dem Strafregister verlangt werden. Bei Wohnsitz im Ausland ist eine gleichwertige Urkunde vorzulegen. Die Prorektorin oder der Prorektor Weiterbildung kann von den Bewerberinnen und Bewerbern zusätzliche Auskünfte und Unterlagen verlangen.
 
 <sup>3</sup> Die Aufnahme in einen Studiengang der PH Luzern wird verweigert, wenn die persönlichen Voraussetzungen fehlen.
 
@@ -256,9 +256,9 @@ beschliesst:
 
 **Disziplinarkompetenz**
 
-<sup>1</sup> Die Programmleitung und die Studiengangsleiterin oder der Studiengangsleiter sind befugt, eine mündliche Verwarnung oder einen schriftlichen Verweis zu erteilen.
+<sup>1</sup> Die Programmleitung und die Studiengangsleiterin oder der Studiengangsleiter sind befugt, die Disziplinarmassnahmen gemäss Artikel 20 Absatz 1a bis d zu erteilen.
 
-<sup>2</sup> Der Rektorin oder dem Rektor stehen alle Disziplinarkompetenzen zu.
+<sup>2</sup> Der Prorektorin oder dem Prorektor Weiterbildung stehen alle Disziplinarkompetenzen zu.
 
 ## 6 Schlussbestimmungen
 
@@ -274,9 +274,9 @@ beschliesst:
 
 **Ausschluss aufgrund fehlender persönlicher Eignung**
 
-<sup>1</sup> Bestehen bei einer Studentin oder bei einem Studenten begründete Zweifel an ihrer oder seiner Berufseignung, kann die Rektorin oder der Rektor oder die Prorektorin oder der Prorektor Weiterbildung eine erneute Eignungsabklärung anordnen.
+<sup>1</sup> Bestehen bei einer Studentin oder bei einem Studenten begründete Zweifel an ihrer oder seiner Berufseignung, kann die Prorektorin oder der Prorektor Weiterbildung eine erneute Eignungsabklärung anordnen.
 
-<sup>2</sup> Die Rektorin oder der Rektor kann Studierende, bei denen sich während der Ausbildung herausstellt, dass die persönliche Eignung für die Berufsausübung fehlt, von der Ausbildung ausschliessen.
+<sup>2</sup> Die Prorektorin oder der Prorektor Weiterbildung kann Studierende, bei denen sich während der Ausbildung herausstellt, dass die persönliche Eignung für die Berufsausübung fehlt, von der Ausbildung ausschliessen.
 
 #### Art. 24
 
