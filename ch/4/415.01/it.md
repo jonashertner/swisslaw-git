@@ -4,11 +4,11 @@ title: "Ordinanza del 23 maggio 2012 sulla promozione dello sport e dell'attivit
 short: OPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: it
-version: 2020-12-01
+version: 2021-08-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20201201/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20201201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20201201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20201201/it"
 
 (Ordinanza sulla promozione dello sport, OPSpo)
 
-del 23 maggio 2012 (Stato 1° dicembre 2020)
+del 23 maggio 2012 (Stato 1° agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -412,20 +412,15 @@ Contributi supplementari possono essere versati a:
 
 <sup>1</sup> Nel quadro dei crediti approvati l’UFSPO può sostenere con contributi speciali gli organizzatori di offerte G+S.
 
-<sup>2</sup>
-
-Ricevono un contributo speciale:
-
-- a. gli organizzatori di offerte G+S dei gruppi di utenti 1 e 2 come pure federazioni sportive nazionali del gruppo di utenti 4 che hanno annunciato lo svolgimento di un’offerta nel periodo fra il 13 marzo 2020 e il 31 dicembre 2020;
-- b. su richiesta, gli organizzatori di offerte G+S del gruppo di utenti 3 che possono dimostrare di aver pianificato almeno un campo G+S con inizio previsto fra il 13 marzo 2020 e il 31 dicembre 2020.
+<sup>2</sup> Ricevono un contributo speciale gli organizzatori di offerte G+S dei gruppi di utenti 1, 2 e 3 come pure federazioni sportive nazionali del gruppo di utenti 4 che hanno chiuso un’offerta G+S con attività nel periodo fra il 1° gennaio 2021 e il 26 dicembre 2021.
 
 <sup>3</sup> Il contributo speciale si calcola come percentuale sui contributi che l’organizzatore ha ricevuto per le proprie offerte G+S chiuse nel 2019. Il tasso percentuale è uguale per tutti gli organizzatori e ammonta a un massimo del 50 per cento dei contributi ricevuti nel 2019.
 
-<sup>4</sup> Se gli organizzatori di cui al capoverso 2 lettera b non hanno chiuso alcuna offerta G+S nel 2019, il contributo si calcola sulla base delle offerte chiuse nel 2018.
+<sup>4</sup> Per gli organizzatori di cui al capoverso 2 che nel 2019 non hanno chiuso alcuna offerta G+S, il contributo si calcola sulla base delle offerte chiuse nel 2018.
 
-<sup>5</sup> I coach G+S degli organizzatori di cui al capoverso 2 lettera b devono inoltrare la propria richiesta all’UFSPO fino al 31 ottobre 2020.
+<sup>5</sup> Per gli organizzatori di cui al capoverso 2 che hanno chiuso un’offerta G+S per la prima volta nel 2020, il contributo si calcola sulla base delle offerte chiuse nel 2020.
 
-[^23a-1]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^23a-1]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° ago. 2021 al 31 dic. 2022 ([RU 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
 #### Art. 24
 

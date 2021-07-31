@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Mai 2012 über die Förderung von Sport und Bewegung 
 short: SpoFöV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: de
-version: 2020-12-01
+version: 2021-08-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20201201/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20201201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20201201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20201201/de"
 
 (Sportförderungsverordnung, SpoFöV)
 
-vom 23. Mai 2012 (Stand am 1. Dezember 2020)
+vom 23. Mai 2012 (Stand am 1. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -412,20 +412,15 @@ Zusätzliche Beiträge können ausgerichtet werden an:
 
 <sup>1</sup> Das BASPO kann im Rahmen der bewilligten Kredite Organisatoren von J+S-Angeboten mit Sonderbeiträgen unterstützen.
 
-<sup>2</sup>
-
-Einen Sonderbeitrag erhalten:
-
-- a. Organisatoren von J+S-Angeboten der Nutzergruppen 1 und 2 sowie nationale Sportverbände der Nutzergruppe 4, die ein J+S-Angebot für die Durchführung im Zeitraum zwischen dem 13. März 2020 und dem 31. Dezember 2020 abgeschlossen haben;
-- b. auf Gesuch hin Organisatoren von J+S-Angeboten der Nutzergruppe 3, die den Nachweis erbringen, dass sie mindestens ein J+S-Lager mit Beginn zwischen dem 13. März 2020 und dem 31. Dezember 2020 geplant haben.
+<sup>2</sup> Einen Sonderbeitrag erhalten Organisatoren von J+S-Angeboten der Nutzergruppen 1, 2 und 3 sowie nationale Sportverbände der Nutzergruppe 4, die ein J+S-Angebot mit Aktivitäten im Zeitraum zwischen dem 1. Januar 2021 und dem 26. Dezember 2021 abgeschlossen haben.
 
 <sup>3</sup> Der Sonderbeitrag errechnet sich als Prozentsatz auf den Beiträgen, die der Organisator für seine im Jahr 2019 abgeschlossenen J+S-Angebote erhalten hat. Der Prozentsatz ist für alle Organisatoren identisch; er beträgt höchstens 50 Prozent der im Jahr 2019 bezogenen Beiträge.
 
-<sup>4</sup> Haben Organisatoren nach Absatz 2 Buchstabe b im Jahr 2019 keine J+S-Angebote abgeschlossen, so errechnet sich der Beitrag auf Basis der im Jahr 2018 abgeschlossenen Angebote.
+<sup>4</sup> Für Organisatoren nach Absatz 2, die im Jahr 2019 keine J+S-Angebote abgeschlossen haben, errechnet sich der Beitrag auf Basis der im Jahr 2018 abgeschlossenen Angebote.
 
-<sup>5</sup> Die J+S-Coaches der Organisatoren nach Absatz 2 Buchstabe b müssen ihr Gesuch bis zum 31. Oktober 2020 beim BASPO einreichen.
+<sup>5</sup> Für Organisatoren nach Absatz 2, die erstmals im Jahr 2020 ein J+S-Angebot abgeschlossen haben, errechnet sich der Beitrag auf der Basis der im Jahr 2020 abgeschlossenen Angebote.
 
-[^23a-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft vom 1. Juni 2020 bis zum 31. Dez. 2021 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^23a-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft vom 1. Aug. 2021 bis zum 31. Dez. 2022 ([AS 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
 #### Art. 24
 

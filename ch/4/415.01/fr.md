@@ -4,11 +4,11 @@ title: "Ordonnance du 23 mai 2012 sur l'encouragement du sport et de l'activité
 short: OESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: fr
-version: 2020-12-01
+version: 2021-08-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20201201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20201201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20201201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20201201/fr"
 
 (Ordonnance sur l’encouragement du sport, OESp)
 
-du 23 mai 2012 (Etat le 1<sup>er</sup> décembre 2020)
+du 23 mai 2012 (Etat le 1<sup>er</sup> août 2021)
 
 Le Conseil fédéral suisse,
 
@@ -410,20 +410,15 @@ Des subventions supplémentaires peuvent être allouées:
 
 <sup>1</sup> L’OFSPO peut, dans le cadre des crédits alloués, soutenir les organisateurs d’offres J+S avec des subventions spéciales.
 
-<sup>2</sup>
-
-Une subvention spéciale peut être versée:
-
-- a. aux organisateurs d’offres J+S des groupes d’utilisateurs 1 et 2 ainsi qu’aux fédérations sportives nationales du groupe d’utilisateurs 4 qui ont clôturé une offre J+S devant être réalisée entre le 13 mars et le 31 décembre 2020;
-- b. à leur demande, aux organisateurs d’offres J+S du groupe d’utilisateurs 3 qui peuvent attester qu’ils ont planifié au moins un camp J+S devant débuter entre le 13 mars et le 31 décembre 2020.
+<sup>2</sup> Une subvention spéciale peut être versée aux organisateurs d’offres J+S des groupes d’utilisateurs 1, 2 et 3 ainsi qu’aux fédérations sportives nationales du groupe d’utilisateurs 4 qui ont clôturé une offre J+S comportant des activités réalisées entre le 1<sup>er</sup> janvier et le 26 décembre 2021.
 
 <sup>3</sup> La subvention spéciale est calculée sur la base d’un pourcentage des subventions reçues par l’organisateur pour les offres J+S qu’il a clôturées en 2019. Le pourcentage est le même pour tous les organisateurs; il est plafonné à 50 % des subventions reçues en 2019.
 
-<sup>4</sup> Si les organisateurs au sens de l’al. 2, let. b, n’ont clôturé aucune offre J+S en 2019, la subvention spéciale est calculée sur la base des offres clôturées en 2018.
+<sup>4</sup> Pour les organisateurs au sens de l’al. 2 qui n’ont clôturé aucune offre J+S en 2019, la subvention spéciale est calculée sur la base des offres clôturées en 2018.
 
-<sup>5</sup> Les coachs J+S des organisateurs au sens de l’al. 2, let. b doivent adresser leur demande à l’OFSPO d’ici au 31 octobre 2020.
+<sup>5</sup> Pour les organisateurs au sens de l’al. 2 qui ont clôturé une offre J+S pour la première fois en 2020, la subvention spéciale est calculée sur la base des offres clôturées en 2020.
 
-[^23a-1]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur du 1<sup>er</sup> juin 2020 au 31 déc. 2021 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^23a-1]: Introduit par le ch. I de l’O du 20 mai 2020 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur du 1<sup>er</sup> août 2021 au 31 déc. 2022 ([RO 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
 #### Art. 24
 
