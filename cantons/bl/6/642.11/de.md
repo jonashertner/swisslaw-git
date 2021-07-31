@@ -3,20 +3,20 @@ canton: BL
 number: "642.11"
 title: Verordnung für die Sekundarschule
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-11-17
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-09-07
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/642.11"
-pdf: "https://bl.clex.ch/api/de/versions/2791/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3089/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Sekundarschule
 
-Vom 13.05.2003 (Stand 01.01.2021)
+Vom 13.05.2003 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -154,6 +154,17 @@ beschliesst:
 
 <sup>3</sup> Aus besonderen Gründen kann die Schulleitung in Absprache mit dem Amt für Volksschulen Ausnahmen bewilligen.
 
+<sup>4</sup> Der Unterricht in den Anforderungsniveaus A, E und P erfolgt in den Promotionsfächern grundsätzlich in getrennten Leistungszügen. Davon ausgenommen ist das Promotionsfach Sport. Weitere Ausnahmen sind bei der Bildung der Wahlpflichtkurse möglich, wenn der Unterricht gemäss den niveaudifferenzierten Anforderungen des Stufenlehrplans gewährleistet ist.
+
+<sup>5</sup> Die Bildung der Wahlpflichtkurse erfolgt im Rahmen des Lektionendeputats gemäss § 11b und den Vorgaben des Schulprogramms wie folgt:
+
+- a. Die Wahlpflichtfächer MINT, Lingua Latein und Lingua Italienisch werden grundsätzlich getrennt nach Anforderungsniveau A, E und P unterrichtet. Wird die Mindestzahl nicht erreicht, können sie entweder in mit dem benachbarten Anforderungsniveau gemischten (A-E oder E-P) oder in jahrgangsübergreifenden Kursen geführt werden.
+- b. Die Wahlpflichtfächer Bildnerisches Gestalten, Textiles Gestalten, Technisches Gestalten und Musik können in mit dem benachbarten Anforderungsniveau gemischten (A-E oder E-P) bzw. jahrgangsübergreifenden Kursen geführt werden.
+
+<sup>6</sup> Über Ausnahmen bei der Bildung der Wahlpflichtkurse entscheidet die Schulleitung.
+
+<sup>7</sup> Der Besuch von Wahlpflichtangeboten als nichtbenotetes Freifach kann für motivierte Schülerinnen und Schüler mit entsprechendem Potential des gleichen oder eines anderen Anforderungsniveaus angeboten werden.
+
 #### § 11a
 
 **…**
@@ -171,11 +182,7 @@ beschliesst:
 
 #### § 12
 
-**Kleinklassen im Anforderungsniveau A, Integrationsklassen**
-
-<sup>1</sup> Kleinklassen im Anforderungsniveau A und Integrationsklassen dürfen nur gebildet werden, wenn sie von Anfang an effektiv mindestens 6 Schülerinnen und Schüler aufweisen.
-
-<sup>2</sup> Schulstufenübergreifende Modelle zusammen mit der Primarschule sind bei der Integrationsklasse möglich.
+**…**
 
 #### § 12a
 
@@ -238,83 +245,37 @@ beschliesst:
 
 <sup>4</sup> Werden Erziehungsberechtigte für den Transport ihrer Kinder durch Nutzung des privaten Fahrzeugs beigezogen, beträgt die Entschädigung pro beitragsberechtigtem Kilometer CHF 0.70.
 
-## 3 Spezielle Förderung
+## 3 Massnahmen zur kulturellen Identität
 
-### 3.1 Abklärung
+### 3.1
 
 #### § 14
 
-**Fachstellen**
-
-<sup>1</sup> Im Rahmen der Speziellen Förderung führen folgende Fachstellen Abklärungen durch:
-
-- a. der Schulpsychologische Dienst;
-- b. der Kinder- und Jugendpsychiatrische Dienst;
-- c. die Logopädischen Dienste im Kanton;
-- d. ...
-
-<sup>2</sup> Die Kommission Leistungssportförderung ist für die Aufnahme in die Angebote der Leistungssportförderung zuständig.
+**…**
 
 #### § 15
 
-**Unentgeltlichkeit**
+**…**
 
-<sup>1</sup> Die Abklärungen und Beratungen des Schulpsychologischen Dienstes sind unentgeltlich.
-
-<sup>2</sup> Die Abklärungen und Beratungen des Kinder- und Jugendpsychiatrischen Dienstes sind unentgeltlich, soweit sie Schulfragen betreffen.
-
-<sup>3</sup> Die Abklärungen, Beratungen und die entsprechenden Massnahmen der logopädischen Dienste sind unentgeltlich.
-
-### 3.2 Kleinklassen, Integrative Schulungsform
+### 3.2
 
 #### § 16
 
-**Kleinklassen**
-
-<sup>1</sup> Die Kleinklassen im Anforderungsniveau A können als altersgemischte Lerngruppen geführt werden.
-
-<sup>2</sup> Solange im Niveau E keine Kleinklassen geführt werden, können betroffene Schülerinnen und Schüler Kleinklassen an Privatschulen besuchen. Das Amt für Volksschulen umschreibt die Voraussetzungen und entscheidet aufgrund einer Abklärung durch den Schulpsychologischen oder den Kinder- und Jugendpsychiatrischen Dienst.
+**…**
 
 #### § 17
 
-**Integrative Schulungsform im Anforderungsniveau A**
-
-<sup>1</sup> Werden Schülerinnen und Schüler anstatt in einer Kleinklasse des Anforderungsniveaus A im Rahmen der Integrativen Schulungsform heilpädagogisch gefördert, so stehen dafür folgende Zusatzlektionen zur Verfügung:
-
-- a. bei 1 oder 2 geförderten Schülerinnen und Schülern in einer Klasse 4 Lektionen;
-- b. für jede weitere geförderte Schülerin und jeden weiteren geförderten Schüler in einer Klasse 2 Lektionen.
+**…**
 
 #### § 18
 
-**Werkjahr**
+**…**
 
-<sup>1</sup> Das Werkjahr bereitet Jugendliche aus dem Niveau A, welche eine heilpädagogische Unterstützung benötigen, sowie Jugendliche aus Sonderschulen auf einen beruflichen oder schulischen Anschluss vor. Anstelle der speziellen Förderung im Werkjahr kann eine Sekundarschule die Schülerinnen und Schüler aus dem Niveau A auch im Rahmen der Integrativen Schulungsform heilpädagogisch fördern.
-
-<sup>2</sup> Die Anmeldung zum Übertritt in das Werkjahr oder für die Integrative Schulungsform erfolgt durch die Schulleitung im Einverständnis mit den Erziehungsberechtigten.
-
-<sup>3</sup> Die Schulleitung des Werkjahres hat in Bezug auf ihre Schülerinnen und Schüler insbesondere folgende Aufgaben:
-
-- a. Sie teilt sie einem Schulort ihrer Schule zu.
-- b. Sie veranlasst bei Bedarf ihre Anmeldung bei der Invalidenversicherung durch die Erziehungsberechtigten.
-- c. Sie sorgt für ihre Betreuung über die Mittagszeit.
-
-<sup>4</sup> Für verschiedene Betreuungsaufgaben wie Gemeinschaftskochen, Mittagszeit, Berufswahlvorbereitung und Nachbetreuung steht pro Klasse ein Pool von 6,8 Lektionen zur Verfügung.
-
-<sup>5</sup> Der Schulrat setzt sich aus mindestens 7 Mitgliedern zusammen.
-
-### 3.3 Förderunterricht
+### 3.3
 
 #### § 19
 
-**Förderunterricht im schriftsprachlichen und mathematischen Bereich**
-
-<sup>1</sup> Die Aufnahme von Förderunterricht für Schülerinnen und Schüler mit besonderen Bedürfnissen im schriftsprachlichen und/oder mathematischen (ehemals Legasthenie und Dyskalkulie) Bereich setzt eine fachliche Abklärung voraus.
-
-<sup>2</sup> Für die Abklärung und die Aufnahme des Förderunterrichts ist das Einverständnis der Erziehungsberechtigten nötig.
-
-<sup>3</sup> In besonderen Fällen kann die Schulleitung auf Antrag einer Fachstelle Einzelförderung bewilligen.
-
-<sup>4</sup> Die Bildungs-, Kultur- und Sportdirektion kann die Gesamtzahl der Lektionen nach oben begrenzen.
+**…**
 
 #### § 20
 
@@ -322,69 +283,29 @@ beschliesst:
 
 #### § 21
 
-**Förderung besonderer kognitiver oder musischer Leistungsfähigkeit**
-
-<sup>1</sup> Bei vermuteter besonderer Leistungsfähigkeit im kognitiven oder musischen Bereich richten die Erziehungsberechtigten ein Gesuch um Abklärung an das Amt für Volkschulen.
-
-<sup>2</sup> Das Amt für Volksschulen bestimmt im Einzelfall die Fachperson oder die Fachstelle, die mit der entsprechenden Abklärung beauftragt wird.
-
-<sup>3</sup> Bei bestätigter spezieller Leistungsfähigkeit richten die Erziehungsberechtigten ein Gesuch für eine besondere Form des Schulbesuchs an das Amt für Volksschulen, das auch über eine allfällige Kostengutsprache entscheidet.
+**…**
 
 #### § 22
 
-**Förderung besonderer sportlicher Leistungsfähigkeit**
+**…**
 
-<sup>1</sup> Für die Förderung von Schülerinnen und Schülern mit einer besonderen sportlichen Leistungsfähigkeit finden die Bestimmungen der Verordnung vom 31. August 2004[^22-1] über die spezielle Förderung von sportbegabten Jugendlichen vom Anwendung.
-
-[^22-1]: [SGS 640.51](https://bl.clex.ch/data/640.51/de)
-
-### 3.4 Integration von fremdsprachigen Schülerinnen und Schülern
+### 3.4
 
 #### § 23
 
-**Anspruch**
-
-<sup>1</sup> Neu zugezogene fremdsprachige Schülerinnen und Schüler werden in der Regel in eine Klasse eingeteilt, die der Jahresstufe und dem Anforderungsniveau der Klasse entsprechen, die sie in ihrem Herkunftsland besucht haben.
-
-<sup>2</sup> Fremdsprachige Schülerinnen und Schüler, die weniger als 3 Jahre eine Schule im deutschen Sprachgebiet besucht haben, haben Anspruch auf den Besuch eines Förderangebots für Fremdsprachige.
-
-<sup>3</sup> Die Schulleitung entscheidet über die Aufnahme in einen Kurs in Deutsch als Zweitsprache, in einen Intensivkurs in Deutsch oder in eine Integrationsklasse.
+**…**
 
 #### § 24
 
-**Kurse in Deutsch als Zweitsprache**
-
-<sup>1</sup> Fremdsprachige Schülerinnen und Schüler mit ungenügenden Deutschkenntnissen können während längstens 3 Jahren Kurse in Deutsch als Zweitsprache besuchen, welche in Gruppen von 2 bis 6 Schülerinnen und Schülern durchgeführt werden.
-
-<sup>2</sup> Die Schulleitung kann im Einzelfall Einzelunterricht bewilligen.
-
-<sup>3</sup> Pro Kurs stehen pro Schulwoche 2 Lektionen zur Verfügung.
+**…**
 
 #### § 25
 
-**Intensivkurs in Deutsch als Zweitsprache**
-
-<sup>1</sup> Fremdsprachige Schülerinnen und Schüler ohne Deutschkenntnisse besuchen einen Intensivkurs in Deutsch, der in Gruppen von 2 bis 4 Schülerinnen und Schülern erteilt wird.
-
-<sup>2</sup> Die Schulleitung kann im Einzelfall Einzelunterricht bewilligen.
-
-<sup>3</sup> Der Intensivkurs umfasst pro Schulwoche 6–8 Lektionen.
-
-<sup>4</sup> Er dauert längstens 1 Jahr.
-
-<sup>5</sup> Während der Sekundarschulzeit können die Schülerinnen und Schüler anschliessend während maximal 3 Jahren Kurs in Deutsch als Zweitsprache besuchen.
+**…**
 
 #### § 26
 
-**Integrationsklassen**
-
-<sup>1</sup> Für Schülerinnen und Schüler ohne Deutschkenntnisse können in Form von Kleinklassen Integrationsklassen gebildet werden.
-
-<sup>2</sup> Der Besuch von Integrationsklassen dauert in der Regel 1 Jahr. Ein Eintritt ist jederzeit möglich.
-
-<sup>3</sup> Die Schülerinnen und Schüler von Integrationsklassen nehmen entsprechend ihren Fähigkeiten am Unterricht anderer Klassen ihrer Schule teil.
-
-<sup>4</sup> Nach Abschluss der Integrationsklasse können die betreffenden Schülerinnen und Schüler für maximal 3 weitere Schuljahre bis zum Ende der Sekundarschule Kurse in Deutsch als Zweitsprache besuchen.
+**…**
 
 #### § 27
 
@@ -634,6 +555,7 @@ beschliesst:
 - g. Sie führt im Auftrag des Schulrats die interne Evaluation der Schule durch.
 - h. Sie setzt im Auftrag des Schulrats die Ergebnisse der internen und externen Evaluation um.
 - i. Sie zieht bei Bedarf Fachpersonen und ausgebildete Mentorinnen und Mentoren bei.
+- i<sup>bis</sup>. Sie bewilligt Massnahmen der Speziellen Förderung in ihrem Zuständigkeitsbereich.
 - j. Sie bewilligt Reisen, Lager, Schulverlegungen und weiteren Spezialunterricht.
 - k. Sie berät die Schülerinnen und Schüler sowie die Erziehungsberechtigten in Schulfragen.
 - l. Sie sorgt zusammen mit den zuständigen Fachstellen für die Integration von Schülerinnen und Schülern mit Beeinträchtigungen und Behinderungen.
@@ -734,7 +656,7 @@ beschliesst:
 - o. die Sicherstellung und Begleitung von Prozess-, Themen- und Betriebsevaluationen;
 - p. die Kontrolle der Einhaltung von den kantonalen Regelungen;
 - q. den Erlass von Reglementen für die Schulen nach Rücksprache mit dem Schulträger;
-- r. die Steuerung, Bedarfsplanung und Qualitätsentwicklung der Speziellen Förderung;
+- r. …
 - s. die Festlegung der Leitungszeit der Schulleitungen und deren Überprüfung.
 
 <sup>3</sup> Über Ausnahmen in Bezug auf Regelungen in dieser Verordnung entscheidet das Amt für Volksschulen auf Antrag der Schulleitung, bzw. des Schulrats.
