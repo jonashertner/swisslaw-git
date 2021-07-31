@@ -4,13 +4,13 @@ number: 439.14-1
 title: "Convention scolaire régionale concernant l'accueil réciproque d'élèves et le versement de contributions"
 short: CSR 2009
 language: fr
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-04-17
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-04-15
 adopted: 2007-11-23
 in_force: 2010-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/439.14-1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1849/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2286/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1849/pdf_file"
 
 (CSR 2009)
 
-du 23.11.2007 (état au 01.08.2020)
+du 23.11.2007 (état au 01.08.2021)
 
 Les cantons d'Argovie, de Bâle-Campagne, de Bâle-Ville, de Berne, de Fribourg, de Lucerne, de Soleure, du Valais et de Zurich, ci-après nommés cantons signataires, concluent la convention suivante:
 
@@ -430,6 +430,22 @@ Sulgeneckstrasse 70
 Elle est également disponible sur Internet à l’adresse suivante:
 
 [https://www.nwedk.ch/node/258](https://www.nwedk.ch/node/258)
+
+#### Art. A2-7
+
+<sup>1</sup> La modification du 15 avril 2021 de l’annexe II à la CSR 2009 est publiée uniquement sous la forme d’un renvoi.
+
+Elle peut être obtenue à l’adresse suivante:
+
+Direction de l’instruction publique et de la culture du canton de Berne
+
+Office des écoles moyennes et de la formation professionnelle
+
+Kasernenstrasse 27
+
+3000 Berne 22
+
+Elle est également disponible sur Internet à l’adresse suivante: [https://www.nwedk.ch/node/261](https://www.nwedk.ch/node/261)
 
 Aarau, le 23 novembre 2007
 
