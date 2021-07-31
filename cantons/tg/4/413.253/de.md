@@ -4,13 +4,13 @@ number: "413.253"
 title: Verordnung des Regierungsrates über die Ausbildung an den Fachmittelschulen der Thurgauischen Kantonsschulen
 short: RRV FMS
 language: de
-version: 2020-08-01
-valid_until: 2021-07-31
+version: 2021-08-01
+valid_until: 2023-01-31
 version_adopted: 2020-06-09
 adopted: 2005-01-25
 in_force: 2005-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.253"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2918/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2920/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ RRV FMS
 
 (RRV FMS)
 
-vom 25.01.2005 (Stand 01.08.2020)
+vom 25.01.2005 (Stand 01.08.2021)
 
 ## 1. Unterricht
 
@@ -114,7 +114,7 @@ vom 25.01.2005 (Stand 01.08.2020)
 - 12\. Sport
 - 13\. Musik
 - 14\. Bildnerisches Gestalten/Werken
-- 15\. die berufsfeldspezifischen Fächer gemäss § 2 Absatz 2 – 5
+- 15\. die berufsfeldspezifischen Fächer gemäss § 2 Abs. 2 bis Abs. 5
 
 <sup>2</sup> In den Berufsfeldern Gesundheit/Naturwissenschaften und Pädagogik zählen die berufsfeldspezifischen Fächer Biologie, Chemie und Physik jeweils einzeln als Promotionsfach.
 
@@ -391,11 +391,13 @@ vom 25.01.2005 (Stand 01.08.2020)
 
 **Zulassung**
 
-<sup>1</sup> Die Zulassung zur Fachmatura Pädagogik ist auf eine Klasse beschränkt.
+<sup>1</sup> Die Zulassung zur Fachmatura Pädagogik ist auf zwei Klassen beschränkt.
 
 <sup>2</sup> Massgebend für die Zulassung ist die Platzierung auf der Rangliste aufgrund des Notenschnittes des Zeugnisses vom 5. Semester.
 
 <sup>3</sup> Nicht aufgenommene Schülerinnen und Schüler werden in einer Warteliste nach Rangierung geführt. Wird ein Platz frei, wird der oder die erste auf der Liste aufgenommen.
+
+<sup>4</sup> Das Amt für Mittel- und Hochschulen legt die Schulzuteilung fest.
 
 #### § 31a
 
@@ -424,7 +426,7 @@ vom 25.01.2005 (Stand 01.08.2020)
 - 5\.1 Geschichte — 3
 - 5\.2 Geografie — 3
 
-<sup>2</sup> Zusätzlich zum Präsenzunterricht gemäss Absatz 1 sind im gleichen Umfang Leistungen für die Vor- und Nachbereitung des Unterrichtes sowie für die Arbeit an Selbstlernaufträgen zu erbringen.
+<sup>2</sup> Zusätzlich zum Präsenzunterricht gemäss Abs. 1 sind im gleichen Umfang Leistungen für die Vor- und Nachbereitung des Unterrichtes sowie für die Arbeit an Selbstlernaufträgen zu erbringen.
 
 <sup>3</sup> Die Schülerinnen und Schüler absolvieren ein einwöchiges Hospitationspraktikum im Kindergarten oder in der Primarschule.
 
