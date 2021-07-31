@@ -3,18 +3,18 @@ sr: "0.748.710.1"
 title: Convenzione del 14 settembre 1963 concernente le infrazioni e taluni altri atti commessi a bordo di aeromobili
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/312_316_316"
 language: it
-version: 2018-04-17
+version: 2021-08-01
 adopted: 1963-09-14
 in_force: 1971-03-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/312_316_316/20180417/it/xml/fedlex-data-admin-ch-eli-cc-1971-312_316_316-20180417-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/312_316_316/20180417/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/312_316_316/20210801/it/xml/fedlex-data-admin-ch-eli-cc-1971-312_316_316-20210801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/312_316_316/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione concernente le infrazioni e taluni altri atti commessi a bordo di aeromobili
+# Convenzione concernente le infrazioni e taluni altri atti commessi a bordo di aeromobili****
 
-RU **1971** 316; FF **1970** I 33
+RU **1971** 316; FF **1970** I 33[^t-1]
 
 Traduzione
 
@@ -22,15 +22,16 @@ Conchiusa a Tokio il 14 settembre 1963
 
 Firmata dalla Svizzera il 31 ottobre 1969
 
-Approvata dall’Assemblea federale il 9 ottobre 1970[^t-1]
+Approvata dall’Assemblea federale il 9 ottobre 1970[^t-2]
 
 Ratificata dalla Svizzera con strumento depositato il 21 dicembre 1970
 
 Entrata in vigore per la Svizzera il 21 marzo 1971
 
-(Stato 17 aprile 2018)
+(Stato 1° agosto 2021)
 
-[^t-1]: [RU 1971 315](https://fedlex.data.admin.ch/eli/oc/1971/311_315_315)
+[^t-1]: Gli emendamenti del 4 aprile 2014 ([[RS](https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/de) 0.748.710.1](https://fedlex.data.admin.ch/eli/cc/1971/312_316_316); [RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469)) sono inseriti nella presente Convenzione. Questi emendamenti sono in vigore solo nei rapporti tra gli Stati che li hanno ratificati. Vedi dunque il campo d’applicazione del Protocollo.
+[^t-2]: [RU 1971 315](https://fedlex.data.admin.ch/eli/oc/1971/311_315_315)
 
 Gli Stati partecipanti alla presente convenzione, hanno convenuto le disposizioni seguenti:
 
@@ -47,23 +48,61 @@ La presente convenzione s’applica:
 
 <sup>2.</sup> Con riserva delle disposizioni del titolo III, la presente convenzione si applica alle infrazioni commesse o agli atti compiuti da una persona a bordo d’un aeromobile immatricolato in uno Stato contraente, in quanto detto aeromobile si trovi, sia in volo, sia su l’alto mare o su una regione che non appartenga al territorio d’uno Stato.
 
-<sup>3.</sup> Secondo la presente convenzione, un aeromobile è considerato in volo dal momento in cui la forza motrice è impiegata per il decollo fino al momento in cui è terminato l’atterramento.
+<sup>3.</sup>
+
+Secondo la presente convenzione:
+
+- a) un aeromobile è considerato in volo dal momento in cui, terminato l’imbarco, vengono chiuse tutte le porte esterne fino al momento in cui una di queste porte viene aperta per lo sbarco; in caso di atterramento forzato, il volo viene considerato perdurare fino a quando l’autorità competente non assume la responsabilità dell’aeromobile nonché delle persone e dei beni a bordo; e
+- b) qualora lo Stato dell’operatore non sia lo stesso dello Stato d’imma-tricolazione, l’espressione «Stato d’immatricolazione», come utilizzata negli articoli 4, 5 e 13 della convenzione, designa anche lo Stato dell’operatore.[^1-1]
 
 <sup>4.</sup> La presente convenzione non si applica agli aeromobili impiegati a fini militari, doganali o di polizia.
 
+[^1-1]: Nuovo testo giusta l’art. II del Prot. del 4 apr. 2014, approvato dall’AF il 18 dic. 2020, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+
 #### Art. 2
 
-Senza pregiudizio per le disposizioni dell’articolo 4 e con riserva delle esigenze concernenti la sicurezza dell’aeromobile e delle persone o dei beni a bordo, nessuna disposizione della presente convenzione può essere interpretata nel senso che autorizzi o prescriva l’applicazione di qualsiasi provvedimento in caso di infrazione a leggi penali di carattere politico o fondate sulla discriminazione razziale o religiosa.
+[^2-1]
+
+Senza pregiudizio per le disposizioni dell’articolo 4 e con riserva delle esigenze concernenti la sicurezza dell’aeromobile e delle persone o dei beni a bordo, nessuna disposizione della presente convenzione può essere interpretata nel senso che autorizzi o prescriva l’applicazione di qualsiasi provvedimento in caso di infrazione a leggi penali di carattere politico o fondate sulla discriminazione per qualsiasi motivo, quale razza, religione, nazionalità, origine etnica, opinione politica o genere.
+
+[^2-1]: Nuovo testo giusta l’art. III del Prot. del 4 apr. 2014, approvato dall’AF il 18 dic. 2020, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 ## Titolo II Competenza
 
 #### Art. 3
 
-<sup>1.</sup> Lo Stato di immatricolazione dell’aeromobile è competente per la conoscenza delle infrazioni e degli atti commessi a bordo.
+[^3-1]
 
-<sup>2.</sup> Ciascun Stato, in qualità di Stato d’immatricolazione, prende i provvedimenti necessari per stabilire la competenza nella conoscenza di in frazioni commesse a bordo di aeromobili iscritti nella propria matricola.
+<sup>1.</sup> Lo Stato d’immatricolazione dell’aeromobile è competente per la conoscenza delle infrazioni e degli atti commessi a bordo.
+
+1<sup>bis</sup>. Uno Stato è inoltre competente per la conoscenza delle infrazioni e degli atti commessi a bordo:
+
+- a) in quanto Stato d’atterramento, nei casi in cui l’aeromobile a bordo del quale è stata commessa un’infrazione o commesso un atto atterri sul proprio territorio e il presunto autore dell’infrazione si trovi ancora a bordo;
+- b) in quanto Stato dell’operatore, nei casi in cui l’infrazione sia commessa o l’atto compiuto a bordo di un aeromobile noleggiato senza equipaggio a un locatario la cui sede principale di attività o, in mancanza di tale sede, la cui residenza permanente sia in tale Stato.
+
+<sup>2.</sup> Ciascun Stato contraente, in qualità di Stato d’immatricolazione, prende i provvedimenti necessari per stabilire la propria competenza nella conoscenza di infrazioni commesse a bordo di aeromobili iscritti nella propria matricola.
+
+2<sup>ter</sup>. Nell’esercitare la propria competenza in quanto Stato d’atterramento, lo Stato considera se l’infrazione in questione costituisce un’infrazione nello Stato dell’operatore.
+
+2<sup>bis</sup>. Ciascun Stato contraente adotta inoltre i provvedimenti necessari per stabilire la propria competenza nella conoscenza di infrazioni commesse a bordo di aeromobili nei seguenti casi:
+
+- a)
+
+  in quanto Stato d’atterramento nei casi in cui:
+
+  - i) l’aeromobile a bordo del quale viene commessa l’infrazione abbia l’ultimo punto di decollo o il prossimo punto di atterramento programmato all’interno del proprio territorio, e l’aeromobile successivamente atterri sul proprio territorio con il presunto autore dell’infrazione ancora a bordo, e
+  - ii) la sicurezza dell’aeromobile e delle persone e beni a bordo di esso, nonché l’ordine e la disciplina a bordo siano messi in pericolo;
+
+- b) in quanto Stato dell’operatore, nei casi in cui l’infrazione venga commessa a bordo di un aeromobile noleggiato senza equipaggio a un locatario la cui sede principale di attività sia in tale Stato o, nel caso in cui il locatario non abbia una sede principale di attività, la cui residenza permanente sia in tale Stato.
 
 <sup>3.</sup> La presente convenzione non libera da nessuna competenza penale esercitata conformemente alle legislazioni nazionali.
+
+**Art. 3**<sup>bis</sup> *[^3-2]*
+
+Qualora uno Stato contraente, nell’esercizio della propria competenza ai sensi dell’articolo 3, abbia ricevuto notifica o in altro modo apprenda che uno o più Stati contraenti abbiano in corso indagini o abbiano avviato procedimenti giudiziari o processuali in relazione alle stesse infrazioni o agli stessi atti, tale Stato contraente consulterà, ove opportuno, tali altri Stati contraenti al fine di coordinare le rispettive azioni. Gli obblighi di cui al presente articolo non pregiudicano in alcun modo gli obblighi derivanti per gli Stati contraenti dall’articolo 13.
+
+[^3-1]: Nuovo testo giusta l’art. IV del Prot. del 4 apr. 2014, approvato dall’AF il 18 dic. 2020, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+[^3-2]: Introdotto dall’art. V del Prot. del 4 apr. 2014, approvato dall’AF il 18 dic. 2020, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 4
 
@@ -81,19 +120,29 @@ Uno Stato contraente che non sia quello d’immatricolazione, può impedire il v
 
 <sup>1.</sup> Le disposizioni del presente titolo sono applicabili a infrazioni o atti compiuti o sul punto di esserlo, da parte di una persona a bordo di un aeromobile in volo, sia nello spazio aereo dello Stato d’immatricolazione, sia sorvolando l’alto mare o una regione che non appartenga al territorio di uno Stato, soltanto se l’ultimo punto di decollo o il successivo punto d’atterramento previsto è situato sul territorio di uno Stato diverso da quello d’immatricolazione, oppure se l’aeromobile vola ulteriormente nello spazio aereo d’uno Stato che non sia quello d’immatricolazione, sempre che la persona di cui si tratta sia ancora a bordo.
 
-<sup>2.</sup> Secondo il presente titolo e nonostante le disposizioni dell’articolo 1 paragrafo 3, un aeromobile è considerato in volo dal momento in cui, terminate le operazioni d’imbarco, sono stati chiusi tutti i portelli esterni, fino al momento in cui uno di quest’ultimi è riaperto nell’intento di sbarcare. In caso d’atterramento forzato, le disposizioni del presente titolo continuano ad essere applicabili alle infrazioni e agli atti commessi a bordo fino al momento in cui l’autorità competente d’uno Stato abbia iniziato ad occuparsi dell’aeromobile e delle persone e dei beni a bordo.
+<sup>2.</sup> ...[^5-1]
+
+[^5-1]: Abrogato dall’art. VI del Prot. del 4 apr. 2014, approvato dall’AF il 18 dic. 2020, con effetto per la Svizzera il 1° ago. 2021 ([RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 6
+
+[^6-1]
 
 <sup>1.</sup>
 
 Se il comandante d’un aeromobile ha ragioni sufficienti per ritenere che una persona ha compiuto un’infrazione o un atto di cui all’articolo 1 paragrafo 1 oppure che essa sia sul punto di farlo, può prendere, contro questa persona, i provvedimenti adeguati, compresi quelli coercitivi, necessari:
 
-- a. per garantire la sicurezza dell’aeromobile, delle persone o dei beni a bordo;
-- b. per mantenere l’ordine e la disciplina a bordo;
-- c. per consentire la consegna di tale persona alle autorità competenti o lo sbarco di essa, conformemente alle disposizioni del titolo presente.
+- a) per garantire la sicurezza dell’aeromobile o delle persone o dei beni a bordo; oppure
+- b) per mantenere l’ordine e la disciplina a bordo; oppure
+- c) per consentire la consegna di tale persona alle autorità competenti o lo sbarco di essa, conformemente alle disposizioni del presente titolo.
 
-<sup>2.</sup> Il comandante dell’aeromobile può chiedere o autorizzare l’aiuto da parte degli altri membri dell’equipaggio e, senza poterlo esigere, sollecitare o autorizzare quello dei passeggeri, nell’intento di applicare i provvedimenti coercitivi che egli ha diritto di prendere. Ciascun membro dell’equipaggio o ciascun passeggero può, parimente, prendere, senza tale autorizzazione, qualsiasi provvedimento preventivo adeguato qualora abbia sufficienti ragioni per ritenerlo necessario al fine di garantire la sicurezza dell’aeromobile o delle persone o dei beni a bordo.
+<sup>2.</sup> Il comandante dell’aeromobile può chiedere o autorizzare l’aiuto da parte degli altri membri dell’equipaggio e, senza poterlo esigere, sollecitare o autorizzare quello degli addetti alla sicurezza di bordo o dei passeggeri, nell’intento di applicare i provvedimenti coercitivi che egli ha diritto di prendere. Ciascun membro dell’equipaggio o passeggero può, parimente, prendere, senza tale autorizzazione, provvedimenti preventivi adeguati qualora abbia sufficienti ragioni per ritenerli immediatamente necessari al fine di garantire la sicurezza dell’aeromobile o delle persone o dei beni a bordo.
+
+<sup>3.</sup> Un addetto alla sicurezza di bordo impiegato ai sensi di un accordo o di una convenzione bilaterale o multilaterale tra gli Stati contraenti interessati può prendere, senza tale autorizzazione, provvedimenti preventivi adeguati qualora abbia sufficienti ragioni per ritenerli immediatamente necessari al fine di garantire la sicurezza dell’aeromobile o delle persone o dei beni a bordo da un atto di interferenza illegittima e, laddove l’accordo o la convenzione lo consentano, per prevenire la commissione di gravi infrazioni.
+
+<sup>4.</sup> Nessuna disposizione della presente convenzione dev’essere interpretata nel senso di creare un obbligo per uno Stato contraente di stabilire un programma di addetti alla sicurezza di bordo o di aderire a un accordo o a una convenzione bilaterale o multilaterale che autorizzi addetti alla sicurezza di bordo stranieri a operare sul proprio territorio.
+
+[^6-1]: Nuovo testo giusta l’art. VII del Prot. del 4 apr. 2014, approvato dall’AF il 18 dic. 2020, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 7
 
@@ -115,19 +164,24 @@ I provvedimenti coercitivi, presi contro una persona conformemente alle disposiz
 
 #### Art. 9
 
-<sup>1.</sup> Se il comandante d’un aeromobile ha sufficienti ragioni per ritenere che una persona abbia compiuto a bordo un atto il quale costituisce infrazione grave conformemente alle leggi penali dello Stato d’immatricolazione dell’aeromobile, può consegnarla alle autorità competenti di qualsiasi Stato contraente sul cui territorio atterra l’aeromobile.
+[^9-1]
+
+<sup>1.</sup> Se il comandante d’un aeromobile ha sufficienti ragioni per ritenere che una persona abbia compiuto a bordo un atto il quale costituisce infrazione grave, può consegnarla alle autorità competenti di qualsiasi Stato contraente sul cui territorio atterra l’aeromobile.
 
 <sup>2.</sup> Il comandante dell’aeromobile con a bordo una persona che intende consegnare conformemente alle disposizioni del paragrafo precedente, deve, senz’indugio e possibilmente prima d’atterrare sul territorio d’uno Stato contraente, informare di tale intenzione le autorità di questo Stato, comunicando anche le ragioni che la motivano.
 
-<sup>3.</sup> Il comandante dell’aeromobile comunica alle autorità cui consegna l’autore presunto dell’infrazione conformemente alle disposizioni del presente articolo, gli elementi probatori e le informazioni che, giusta la legislazione dello Stato d’immatricolazione dell’aeromobile, sono legittimamente in suo possesso.
+<sup>3.</sup> Il comandante dell’aeromobile comunica alle autorità cui consegna l’autore presunto dell’infrazione conformemente alle disposizioni del presente articolo, gli elementi probatori e le informazioni che sono legittimamente in suo possesso.
+
+[^9-1]: Nuovo testo giusta l’art. VIII del Prot. del 4 apr. 2014, approvato dall’AF il 18 dic. 2020, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 10
 
-[^10-1]
+[^10-1][^10-2]
 
-Se l’applicazione dei provvedimenti previsti nella presente convenzione è conforme a quest’ultima, né il comandante dell’aeromobile né un altro membro dell’equipaggio, un passeggero, il proprietario o il padrone dell’aeromobile e tanto meno la persona per il cui conto è stato esercitato il volo, possono essere dichiarati responsabili in una procedura intentata per pregiudizio subito dalla persona oggetto dei provvedimenti.
+Se i provvedimenti presi sono conformi alla presente convenzione, né il comandante dell’aeromobile né un altro membro dell’equipaggio, un passeggero, un addetto alla sicurezza di bordo, il proprietario o l’operatore dell’aeromobile e tanto meno la persona per il cui conto è stato esercitato il volo, possono essere dichiarati responsabili in una procedura intentata per pregiudizio subito dalla persona oggetto dei provvedimenti.
 
-[^10-1]: Per l’assistenza giudiziaria tra la Svizzera e gli Stati Uniti d’America, vedi l’art. 36 della LF del 3 ott. 1975 relativa al Tratt. concluso con gli Stati Uniti d’America sull’assistenza giudiziaria in materia penale ([RS 351.93](https://fedlex.data.admin.ch/eli/cc/1977/17_17_17)).
+[^10-1]: Nuovo testo giusta l’art. IX del Prot. del 4 apr. 2014, approvato dall’AF il 18 dic. 2020, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+[^10-2]: Per l’assistenza giudiziaria tra la Svizzera e gli Stati Uniti d’America, vedi l’art. 36 della LF del 3 ott. 1975 relativa al Tratt. concluso con gli Stati Uniti d’America sull’assistenza giudiziaria in materia penale ([RS 351.93](https://fedlex.data.admin.ch/eli/cc/1977/17_17_17)).
 
 ## Titolo IV Cattura illecita d’aeromobili
 
@@ -171,21 +225,48 @@ Ciascuno Stato contraente deve permettere al comandante d’un aeromobile immatr
 
 <sup>2.</sup> Con riserva delle leggi concernenti l’entrata, l’ammissione, l’estradizione e il rinvio di persone, ciascun Stato contraente, nel territorio del quale sia stata sbarcata una persona conformemente alle disposizioni dell’articolo 8 paragrafo 1 o consegnata conformemente all’articolo 9 paragrafo 1 o, ancora, sbarcata per la perpetrazione d’un atto di cui all’articolo 11 paragrafo 1, concede a quest’ultima persona un trattamento che, per quanto concerne la protezione e la sicurezza, non risulti meno favorevole di quello concesso ai propri cittadini in casi analoghi.
 
+**Art. 15**<sup>bis</sup> *[^15-1]*
+
+<sup>1.</sup>
+
+Ciascuno Stato contraente è incoraggiato a prendere i provvedimenti necessari ad avviare gli opportuni procedimenti penali o amministrativi o altre azioni legali contro chiunque a bordo di un aeromobile commetta un’infrazione o un atto, come descritti nell’articolo 1 paragrafo 1, e in particolare:
+
+- a) un atto di violenza fisica o una minaccia di compiere un tale atto contro un membro dell’equipaggio; oppure
+- b) il rifiuto di obbedire a un ordine legittimo impartito dal comandante dell’aeromobile o per suo conto al fine di garantire la sicurezza dell’aeromobile o delle persone o dei beni a bordo.
+
+<sup>2.</sup> Nessuna disposizione della presente convenzione pregiudica il diritto di ciascuno Stato contraente di introdurre o mantenere nella propria legislazione nazionale adeguati provvedimenti per sanzionare gli atti di indisciplina o di disturbo commessi a bordo.
+
+[^15-1]: Introdotto dall’art. X del Prot. del 4 apr. 2014, approvato dall’AF il 18 dic. 2020, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+
 ## Titolo VI Altre disposizioni
 
 #### Art. 16
 
-<sup>1.</sup> Riguardo all’estradizione, le infrazioni commesse a bordo d’aeromobili immatricolati in uno Stato contraente sono considerate anche come commesse sul territorio dello Stato d’immatricolazione dell’aeromobile.
+<sup>1.</sup> Le infrazioni commesse a bordo d’aeromobili sono considerate, ai fini dell’estradizione tra Stati contraenti, come commesse sia nel luogo della loro commissione, sia sul territorio degli Stati contraenti che devono stabilire la loro competenza conformemente alle disposizioni dell’articolo 3 paragrafi 2 e 2<sup>bis</sup>. [^16-1]
 
 <sup>2.</sup> Con riserva del paragrafo precedente, nessuna disposizione della presente convenzione deve essere interpretata come obbligo di concedere la estradizione.
 
+[^16-1]: Nuovo testo giusta l’art. XI del Prot. del 4 apr. 2014, approvato dall’AF il 18 dic. 2020, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+
 #### Art. 17
 
-Gli Stati contraenti, nell’attuazione di indagini o d’arresti o nell’esercizio, in qualsiasi altro modo, della loro competenza per un’infrazione commessa a bordo d’un aeromobile, devono debitamente tener conto della sicurezza e degli altri interessi della navigazione aerea e pertanto devono agire in modo da evitare ritardi inutili dell’aeromobile, dei passeggeri, dei membri dell’equipaggio o delle merci.
+[^17-1]
+
+<sup>1.</sup> Gli Stati contraenti, nell’attuazione di indagini o d’arresti o nell’esercizio, in qualsiasi altro modo, della loro competenza per un’infrazione commessa a bordo d’un aeromobile, devono debitamente tener conto della sicurezza e degli altri interessi della navigazione aerea e pertanto devono agire in modo da evitare ritardi inutili dell’aeromobile, dei passeggeri, dei membri dell’equipaggio o delle merci.
+
+<sup>2.</sup> Ciascuno Stato contraente, nell’adempiere i propri obblighi o nell’esercitare un potere discrezionale consentito ai sensi della presente convenzione, agisce in conformità agli obblighi e alle responsabilità che incombono agli Stati in virtù del diritto internazionale. A tale riguardo, tiene conto dei principi del giusto processo e dell’equo trattamento.
+
+[^17-1]: Nuovo testo giusta l’art. XII del Prot. del 4 apr. 2014, approvato dall’AF il 18 dic. 2020, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 18
 
 Se gli Stati contraenti costituiscono, per il trasporto aereo, organizzazioni d’esercizio in comune o organizzazioni internazionali e se gli aeromobili utilizzati non sono immatricolati in uno Stato determinato, essi designano, secondo modalità adeguate, quello fra essi che sarà considerato come Stato d’immatricolazione al fine della presente convenzione. La designazione è comunicata all’Organizzazione dell’aviazione civile internazionale la quale ne informa tutti gli Stati partecipanti alla presente convenzione.
+
+**Art. 18**<sup>bis</sup> *[^18-1]*
+
+Nessuna disposizione della presente convenzione preclude il diritto di ottenere il risarcimento dei danni subiti, in conformità con il diritto nazionale, da una persona sbarcata o consegnata conformemente alle disposizioni dell’articolo 8 o 9, rispettivamente.
+
+[^18-1]: Introdotto dall’art. XIII del Prot. del 4 apr. 2014, approvato dall’AF il 18 dic. 2020, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 ## Titolo VII Disposizioni finali
 
@@ -241,7 +322,7 @@ L’organizzazione dell’aviazione civile internazionale notifica a tutti gli S
 
 *In fede di che*, i plenipotenziari sottoscritti, debitamente autorizzati, hanno firmato la presente convenzione. Fatto a Tokio, il 14 settembre 1963, in tre testi originali nelle lingue francese, inglese e spagnola. La presente convenzione è depositata presso l’Organizzazione dell’aviazione civile internazionale e rimane aperta alla firma, conformemente alle disposizioni dell’articolo 19; questa organizzazione trasmette copie certificate conformi a tutti gli Stati membri dell’organizzazione delle Nazioni Unite o di una loro istituzione specializzata. (Seguono le firme)
 
-Campo d’applicazione il 17 aprile 2018**[^t-2]**
+Campo d’applicazione il 17 aprile 2018**[^t-3]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -302,6 +383,7 @@ Campo d’applicazione il 17 aprile 2018**[^t-2]**
 <tr><td>El Salvador</td><td>13 febbraio</td><td>1980 A</td><td>13 maggio</td><td>1980</td></tr>
 <tr><td>Emirati Arabi Uniti<sup>\*</sup></td><td>16 aprile</td><td>1981 A</td><td>15 luglio</td><td>1981</td></tr>
 <tr><td>Estonia</td><td>31 dicembre</td><td>1993 A</td><td>31 marzo</td><td>1994</td></tr>
+<tr><td>Eswatini</td><td>15 novembre</td><td>1999 A</td><td>13 febbraio</td><td>2000</td></tr>
 <tr><td>Etiopia<sup>\*</sup></td><td>27 marzo</td><td>1979 A</td><td>25 giugno</td><td>1979</td></tr>
 <tr><td>Figi</td><td>18 gennaio</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
 <tr><td>Filippine</td><td>26 novembre</td><td>1965</td><td>4 dicembre</td><td>1969</td></tr>
@@ -348,7 +430,7 @@ Campo d’applicazione il 17 aprile 2018**[^t-2]**
 <tr><td>Liechtenstein</td><td>26 febbraio</td><td>2001 A</td><td>27 maggio</td><td>2001</td></tr>
 <tr><td>Lituania</td><td>21 novembre</td><td>1996 A</td><td>19 febbraio</td><td>1997</td></tr>
 <tr><td>Lussemburgo</td><td>21 settembre</td><td>1972 A</td><td>20 dicembre</td><td>1972</td></tr>
-<tr><td>Macedonia</td><td>30 agosto</td><td>1994 S</td><td>17 settembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>30 agosto</td><td>1994 S</td><td>17 settembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>2 dicembre</td><td>1969</td><td>2 marzo</td><td>1970</td></tr>
 <tr><td>Malawi<sup>\*</sup></td><td>28 dicembre</td><td>1972 A</td><td>28 marzo</td><td>1973</td></tr>
 <tr><td>Malaysia</td><td>5 marzo</td><td>1985 A</td><td>3 giugno</td><td>1985</td></tr>
@@ -417,7 +499,6 @@ Campo d’applicazione il 17 aprile 2018**[^t-2]**
 <tr><td>Suriname</td><td>10 settembre</td><td>1979 S</td><td>25 novembre</td><td>1975</td></tr>
 <tr><td>Svezia</td><td>17 gennaio</td><td>1967</td><td>4 dicembre</td><td>1969</td></tr>
 <tr><td>Svizzera</td><td>21 dicembre</td><td>1970</td><td>21 marzo</td><td>1971</td></tr>
-<tr><td>Swaziland</td><td>15 novembre</td><td>1999 A</td><td>13 febbraio</td><td>2000</td></tr>
 <tr><td>Tagikistan</td><td>20 marzo</td><td>1996 A</td><td>18 giugno</td><td>1996</td></tr>
 <tr><td>Tanzania</td><td>12 agosto</td><td>1983 A</td><td>10 novembre</td><td>1983</td></tr>
 <tr><td>Thailandia</td><td>6 marzo</td><td>1972 A</td><td>4 giugno</td><td>1972</td></tr>
@@ -438,11 +519,11 @@ Campo d’applicazione il 17 aprile 2018**[^t-2]**
 <tr><td>Yemen</td><td>26 settembre</td><td>1986 A</td><td>25 dicembre</td><td>1986</td></tr>
 <tr><td>Zambia</td><td>14 settembre</td><td>1971 A</td><td>13 dicembre</td><td>1971</td></tr>
 <tr><td>Zimbabwe</td><td>8 marzo</td><td>1989 A</td><td>6 giugno</td><td>1989</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in inglese, può essere consultato sul sito Internet dell’Organizzazione dell’aviazione civile internazionale: www.icao.int/publications/Pages/doc-series.aspx oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione dell’aviazione civile internazionale: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 5 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Dal 7 lug. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 dic. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
 </table>
 
 - [tab]
 
-[^t-2]: [RU 1976 500](https://fedlex.data.admin.ch/eli/oc/1976/500_500_500)[1888](https://fedlex.data.admin.ch/eli/oc/1976/1888_1888_1888), [1978 308](https://fedlex.data.admin.ch/eli/oc/1978/308_308_308), [1979 1532](https://fedlex.data.admin.ch/eli/oc/1979/1532_1532_1532), [1981 1640](https://fedlex.data.admin.ch/eli/oc/1981/1640_1640_1640), [1983 249](https://fedlex.data.admin.ch/eli/oc/1983/249_249_249), [1986 907](https://fedlex.data.admin.ch/eli/oc/1986/907_907_907), [1987 1160](https://fedlex.data.admin.ch/eli/oc/1987/1160_1160_1160), [1989 864](https://fedlex.data.admin.ch/eli/oc/1989/864_864_864), [1990 1569](https://fedlex.data.admin.ch/eli/oc/1990/1569_1569_1569), [1991 2314](https://fedlex.data.admin.ch/eli/oc/1991/2314_2314_2314), [2005 1609](https://fedlex.data.admin.ch/eli/oc/2005/251)[5001](https://fedlex.data.admin.ch/eli/oc/2005/686), [2009 79](https://fedlex.data.admin.ch/eli/oc/2009/18), [2013 2721](https://fedlex.data.admin.ch/eli/oc/2013/559)e [2018 1751](https://fedlex.data.admin.ch/eli/oc/2018/257). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1976 500](https://fedlex.data.admin.ch/eli/oc/1976/500_500_500)[1888](https://fedlex.data.admin.ch/eli/oc/1976/1888_1888_1888), [1978 308](https://fedlex.data.admin.ch/eli/oc/1978/308_308_308), [1979 1532](https://fedlex.data.admin.ch/eli/oc/1979/1532_1532_1532), [1981 1640](https://fedlex.data.admin.ch/eli/oc/1981/1640_1640_1640), [1983 249](https://fedlex.data.admin.ch/eli/oc/1983/249_249_249), [1986 907](https://fedlex.data.admin.ch/eli/oc/1986/907_907_907), [1987 1160](https://fedlex.data.admin.ch/eli/oc/1987/1160_1160_1160), [1989 864](https://fedlex.data.admin.ch/eli/oc/1989/864_864_864), [1990 1569](https://fedlex.data.admin.ch/eli/oc/1990/1569_1569_1569), [1991 2314](https://fedlex.data.admin.ch/eli/oc/1991/2314_2314_2314), [2005 1609](https://fedlex.data.admin.ch/eli/oc/2005/251)[5001](https://fedlex.data.admin.ch/eli/oc/2005/686), [2009 79](https://fedlex.data.admin.ch/eli/oc/2009/18), [2013 2721](https://fedlex.data.admin.ch/eli/oc/2013/559)e [2018 1751](https://fedlex.data.admin.ch/eli/oc/2018/257). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.

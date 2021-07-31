@@ -3,26 +3,27 @@ sr: "0.748.710.1"
 title: Abkommen vom 14. September 1963 über strafbare und bestimmte andere an Bord von Luftfahrzeugen begangene Handlungen
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/312_316_316"
 language: de
-version: 2018-04-17
+version: 2021-08-01
 adopted: 1963-09-14
 in_force: 1971-03-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/312_316_316/20180417/de/xml/fedlex-data-admin-ch-eli-cc-1971-312_316_316-20180417-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/312_316_316/20180417/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/312_316_316/20210801/de/xml/fedlex-data-admin-ch-eli-cc-1971-312_316_316-20210801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/312_316_316/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Abkommen über strafbare und bestimmte andere an Bord von Luftfahrzeugen begangene Handlungen
+# Abkommen über strafbare und bestimmte andere an Bord von Luftfahrzeugen begangene Handlungen****
 
-AS **1971** 312; BBl **1970** I 33
+AS **1971** 312; BBl **1970** I 33[^t-1]
 
 Übersetzung
 
-Abgeschlossen in Tokio am 14. September 1963 Unterzeichnet von der Schweiz am 31. Oktober 1969 Von der Bundesversammlung genehmigt am 9. Oktober 1970[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 21. Dezember 1970 In Kraft getreten für die Schweiz am 21. März 1971
+Abgeschlossen in Tokio am 14. September 1963 Unterzeichnet von der Schweiz am 31. Oktober 1969 Von der Bundesversammlung genehmigt am 9. Oktober 1970[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 21. Dezember 1970 In Kraft getreten für die Schweiz am 21. März 1971
 
-(Stand am 17. April 2018)
+(Stand am 1. August 2021)
 
-[^t-1]: [AS 1971 311](https://fedlex.data.admin.ch/eli/oc/1971/311_315_315)
+[^t-1]: Die Änd. vom 4. April 2014 ([SR 0.748.710.11](https://fedlex.data.admin.ch/eli/cc/2021/469); [AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
+[^t-2]: [AS 1971 311](https://fedlex.data.admin.ch/eli/oc/1971/311_315_315)
 
 Die Vertragsstaaten dieses Abkommens haben folgendes vereinbart:
 
@@ -37,23 +38,64 @@ Die Vertragsstaaten dieses Abkommens haben folgendes vereinbart:
 
 <sup>2.</sup> Vorbehaltlich der Bestimmungen des Kapitels III findet dieses Abkommen Anwendung auf strafbare oder andere Handlungen, die eine Person an Bord eines in einem Vertragsstaat eingetragenen Luftfahrzeugs begeht, während sich dieses im Flug oder auf der Oberfläche der hohen See oder eines anderen Gebiets ausserhalb des Hoheitsgebietes eines Staates befindet.
 
-<sup>3.</sup> Im Sinne dieses Abkommens gilt ein Luftfahrzeug als im Flug befindlich von dem Augenblick an, in dem zum Zwecke des Starts Kraft aufgewendet wird, bis zu dem Augenblick, in dem der Landelauf beendet ist.
+<sup>3.</sup>
+
+Im Sinne dieses Abkommens:
+
+- a) gilt ein Luftfahrzeug als im Flug befindlich von dem Augenblick an, in dem alle Aussentüren nach dem Einsteigen geschlossen worden sind, bis zu dem Augenblick, in dem eine dieser Türen zum Aussteigen geöffnet wird; im Fall einer Notlandung gilt der Flug als fortdauernd, bis die zuständigen Behörden die Verantwortung für das Luftfahrzeug und für die Personen und Sachen an Bord übernehmen;
+- b) ist der Begriff der «Eintragungsstaat» im Sinne der Artikel 4, 5 und 13 des Abkommens als der Halterstaat auszulegen, wenn der Halterstaat nicht gleichzeitig der Eintragungsstaat ist.[^1-1]
 
 <sup>4.</sup> Dieses Abkommen findet keine Anwendung auf Luftfahrzeuge, die im Militär‑, Zoll- oder Polizeidienst verwendet werden.
 
+[^1-1]: Fassung gemäss Art. II des Prot. vom 4. April 2014, von der BVers genehmigt am 18. Dez. 2020 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+
 #### Art. 2
 
-Unbeschadet des Artikels 4 und ausgenommen, dass es die Sicherheit des Luftfahrzeugs oder der Personen oder Sachen an Bord erfordert, dürfen Bestimmungen dieses Abkommens nicht dahin ausgelegt werden, dass sie im Falle von Zuwiderhandlungen gegen Strafgesetze, die politischen Charakter haben oder auf einer benachteiligten Unterscheidung in rassischer oder religiöser Hinsicht beruhen, zu einer Massnahme ermächtigen oder sie verlangen.
+[^2-1]
+
+Unbeschadet des Artikels 4 und ausgenommen, dass es die Sicherheit des Luftfahrzeugs oder der Personen oder Sachen an Bord erfordert, dürfen Bestimmungen dieses Abkommens nicht dahin ausgelegt werden, dass sie im Falle von Zuwiderhandlungen gegen Strafgesetze, die politischen Charakter haben oder auf einer benachteiligenden Unterscheidung aus jeglichen Gründen wie insbesondere der Rasse, der Religion, der Staatsangehörigkeit, der ethnischen Herkunft, der politischen Anschauung oder des Geschlechts beruhen, zu einer Massnahme ermächtigen oder sie verlangen.
+
+[^2-1]: Fassung gemäss Art. III des Prot. vom 4. April 2014, von der BVers genehmigt am 18. Dez. 2020 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 ## Kapitel II Gerichtsbarkeit
 
 #### Art. 3
 
+[^3-1]
+
 <sup>1.</sup> Der Eintragungsstaat des Luftfahrzeugs ist zuständig, über die an Bord begangenen strafbaren und anderen Handlungen zu erkennen.
+
+1<sup>bis</sup>. Ein Staat ist auch zuständig, über die an Bord begangenen strafbaren und anderen Handlungen zu erkennen:
+
+- a) als Landestaat, wenn das Luftfahrzeug, an Bord dessen die strafbare oder andere Handlung begangen wird, mit dem noch an Bord befindlichen Verdächtigen in seinem Hoheitsgebiet landet;
+- b) als Halterstaat, wenn die strafbare oder andere Handlung an Bord eines Luftfahrzeugs begangen wird, das ohne Besatzung an eine Person vermietet wurde, die ihre Hauptbetriebsleitung oder, wenn eine solche nicht besteht, ihren ständigen Aufenthalt in diesem Staat hat.
 
 <sup>2.</sup> Jeder Vertragsstaat trifft die notwendigen Massnahmen, um seine Gerichtsbarkeit als Eintragungsstaat über strafbare Handlungen zu begründen, die an Bord eines in diesem Staat eingetragenen Luftfahrzeugs begangen werden.
 
+2<sup>ter</sup>. Bei der Ausübung seiner Gerichtsbarkeit als Landestaat berücksichtigt ein Staat, ob die betreffende strafbare Handlung im Halterstaat strafbar ist.
+
+2<sup>bis</sup>. Jeder Vertragsstaat trifft ausserdem die notwendigen Massnahmen, um seine Gerichtsbarkeit über die an Bord eines Luftfahrzeugs begangenen strafbaren Handlungen in folgenden Fällen zu begründen:
+
+- a)
+
+  als Landestaat, wenn:
+
+  - i) das Luftfahrzeug, an Bord dessen die strafbare Handlung begangen wird, seinen letzten Abflugpunkt oder seinen nächsten Landepunkt innerhalb seines Hoheitsgebiets hat, und das Luftfahrzeug daraufhin mit dem noch an Bord befindlichen Verdächtigen in seinem Hoheitsgebiet landet, und
+  - ii) die Sicherheit des Luftfahrzeugs oder der Personen oder Sachen an Bord oder die Ordnung und Disziplin an Bord gefährdet ist;
+
+- b) als Halterstaat, wenn die strafbare Handlung an Bord eines Luftfahrzeugs begangen wird, das ohne Besatzung an eine Person vermietet wurde, die ihre Hauptbetriebsleitung oder, wenn eine solche nicht besteht, ihren ständigen Aufenthalt in diesem Staat hat.
+
 <sup>3.</sup> Dieses Abkommen schliesst eine Strafgerichtsbarkeit, die nach nationalem Recht ausgeübt wird, nicht aus.
+
+[^3-1]: Fassung gemäss Art. IV des Prot. vom 4. April 2014, von der BVers genehmigt am 18. Dez. 2020 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+
+#### Art. 3<sup>bis</sup>
+
+[^3bis-1]
+
+Ist einem Vertragsstaat, der seine Gerichtsbarkeit nach Artikel 3 ausübt, mitgeteilt worden oder hat er auf andere Weise Kenntnis davon erhalten, dass ein oder mehrere andere Vertragsstaaten in Bezug auf dieselben strafbaren oder anderen Handlungen Ermittlungen, Strafverfolgungsmassnahmen oder ein Gerichtsverfahren durchführen, so konsultieren dieser Vertragsstaat und diese anderen Vertragsstaaten einander gegebenenfalls, um ihre Massnahmen abzustimmen. Die Verpflichtungen aus diesem Artikel lassen die Verpflichtungen eines Vertragsstaats nach Artikel 13 unberührt.
+
+[^3bis-1]: Eingefügt durch Art. V des Prot. vom 4. April 2014, von der BVers genehmigt am 18. Dez. 2020 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 4
 
@@ -71,17 +113,29 @@ Ein Vertragsstaat, der nicht der Eintragungsstaat ist, darf ein Luftfahrzeug im 
 
 <sup>1.</sup> Die Bestimmungen dieses Kapitels findet keine Anwendung auf strafbare und andere Handlungen, die eine Person an Bord eines im Flug befindlichen Luftfahrzeugs im Luftraum des Eintragungsstaats oder über der hohen See oder einem anderen Gebiet ausserhalb des Hoheitsgebiets eines Staates begangen hat oder zu begehren im Begriff ist, es sei denn, dass der letzte Abflugort oder der Ort der nächsten vorgesehenen Landung in einem anderen Staat als dem Eintragungsstaat liegt oder, dass das Luftfahrzeugs anschliessend mit der noch an Bord befindlichen Person in den Luftraum eines anderen Staates als den des Eintragungsstaates einfliegt.
 
-<sup>2.</sup> Im Sinne dieses Kapitels gilt ungeachtet des Artikels 1 Absatz 3 ein Luftfahrzeug als im Flug befindlich von dem Augenblick an, in dem alle Aussentüren nach dem Einsteigen geschlossen worden sind, bis zu dem Augenblick, in dem eine dieser Türen zum Aussteigen geöffnet wird. Im Fall einer Notlandung finden die Bestimmungen dieses Kapitels weiterhin Anwendung auf die an Bord begangenen strafbaren und anderen Handlungen, bis zuständige Behörden eines Staates die Verantwortung für das Luftfahrzeug und für die Personen und Sachen an Bord übernehmen.
+<sup>2.</sup> ...[^5-1]
+
+[^5-1]: Aufgehoben durch Art. VI des Prot. vom 4. April 2014, von der BVers genehmigt am 18. Dez. 2020 und mit Wirkung für die Schweiz seit 1. Aug. 2021 ([AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 6
 
-<sup>1.</sup> Hat der Luftfahrzeugkommandant ausreichende Gründe für die Annahme, dass eine Person an Bord des Luftfahrzeugs eine strafbare oder andere Handlung nach Artikel 1 Absatz 1 begangen hat oder zu begehen im Begriff ist, so kann er gegenüber dieser Person angemessene Massnahmen, einschliesslich Zwangsmassnahmen, treffen, die notwendig sind,
+[^6-1]
 
-- a) um die Sicherheit des Luftfahrzeugs oder der Personen oder Sachen an Bord zu gewährleisten;
-- b) um die Ordnung und Disziplin an Bord aufrechtzuerhalten;
+<sup>1.</sup>
+
+Hat der Luftfahrzeugkommandant ausreichende Gründe für die Annahme, dass eine Person an Bord des Luftfahrzeugs eine strafbare oder andere Handlung nach Artikel 1 Absatz 1 begangen hat oder zu begehen im Begriff ist, so kann er gegenüber dieser Person angemessene Massnahmen, einschliesslich Zwangsmassnahmen, treffen, die notwendig sind:
+
+- a) um die Sicherheit des Luftfahrzeugs oder der Personen oder Sachen an Bord zu gewährleisten; oder
+- b) um die Ordnung und Disziplin an Bord aufrechtzuerhalten; oder
 - c) um es ihm zu ermöglichen, diese Person zuständigen Behörden zu übergeben oder sie in Übereinstimmung mit den Bestimmungen dieses Kapitels abzusetzen.
 
-<sup>2.</sup> Der Luftfahrzeugkommandant kann von anderen Besatzungsmitgliedern verlangen oder sie ermächtigen sowie Fluggäste auffordern oder ermächtigen, jedoch nicht von ihnen verlangen, ihn bei Zwangsmassnahmen gegen eine Person, der gegenüber er hierzu befugt ist, zu unterstützen. Besatzungsmitglieder und Fluggäste können auch ohne diese Ermächtigung angemessene vorbeugende Massnahmen treffen, wenn sie ausreichende Gründe für die Annahme haben, dass ein solches Vorgehen unmittelbar notwendig ist, um die Sicherheit des Luftfahrzeugs oder der Person oder Sachen an Bord zu gewährleisten.
+<sup>2.</sup> Der Luftfahrzeugkommandant kann von anderen Besatzungsmitgliedern verlangen oder sie ermächtigen sowie begleitende Sicherheitsbeamte oder Fluggäste auffordern oder ermächtigen, jedoch nicht von ihnen verlangen, ihn bei Zwangsmassnahmen gegen eine Person, der gegenüber er hierzu befugt ist, zu unterstützen. Besatzungsmitglieder und Fluggäste können auch ohne diese Ermächtigung angemessene vorbeugende Massnahmen treffen, wenn sie ausreichende Gründe für die Annahme haben, dass ein solches Vorgehen unmittelbar notwendig ist, um die Sicherheit des Luftfahrzeugs oder der Personen oder Sachen an Bord zu gewährleisten.
+
+<sup>3.</sup> Ein nach einer zwei- oder mehrseitigen Übereinkunft oder Vereinbarung zwischen den betreffenden Vertragsstaaten eingesetzter begleitender Sicherheitsbeamter kann ohne diese Ermächtigung angemessene vorbeugende Massnahmen treffen, wenn er ausreichende Gründe für die Annahme hat, dass ein solches Vorgehen unmittelbar notwendig ist, um die Sicherheit des Luftfahrzeugs oder der Personen an Bord vor einem widerrechtlichen Eingriff und, wenn die Übereinkunft oder Vereinbarung dies gestattet, vor der Begehung schwerer strafbarer Handlungen zu schützen.
+
+<sup>4.</sup> Dieses Abkommen ist nicht so auszulegen, als schaffe es für einen Vertragsstaat eine Verpflichtung dazu, ein Programm für den Einsatz begleitender Sicherheitsbeamter einzurichten oder einer zwei- oder mehrseitigen Übereinkunft oder Vereinbarung zuzustimmen, welche ausländische begleitende Sicherheitsbeamte dazu ermächtigt, in seinem Hoheitsgebiet tätig zu sein.
+
+[^6-1]: Fassung gemäss Art. VII des Prot. vom 4. April 2014, von der BVers genehmigt am 18. Dez. 2020 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 7
 
@@ -101,15 +155,24 @@ Ein Vertragsstaat, der nicht der Eintragungsstaat ist, darf ein Luftfahrzeug im 
 
 #### Art. 9
 
-<sup>1.</sup> Der Luftfahrzeugkommandant kann den zuständigen Behörden eines Vertragsstaats, in dessen Hoheitsgebiet das Luftfahrzeug landet, jede Person übergeben, bei der er ausreichende Gründe für die Annahme hat, dass sie an Bord des Luftfahrzeugs eine Handlung begangen hat, die seiner Meinung nach eine schwere strafbare Handlung nach dem Strafrecht des Eintragungsstaats des Luftfahrzeugs darstellt.
+[^9-1]
+
+<sup>1.</sup> Der Luftfahrzeugkommandant kann den zuständigen Behörden eines Vertragsstaats, in dessen Hoheitsgebiet das Luftfahrzeug landet, jede Person übergeben, bei der er ausreichende Gründe für die Annahme hat, dass sie an Bord des Luftfahrzeugs eine Handlung begangen hat, die seiner Meinung nach eine schwere strafbare Handlung darstellt.
 
 <sup>2.</sup> Der Luftfahrzeugkommandant hat, sobald es durchführbar ist und wenn möglich vor der Landung im Hoheitsgebiet eines Vertragsstaats mit einer Person an Bord, die er in Übereinstimmung mit dem vorstehenden Absatz zu übergeben beabsichtigt, den Behörden dieses Staates seine Absicht, die Person zu übergeben, und die Gründe dafür mitzuteilen.
 
-<sup>3.</sup> Der Luftfahrzeugkommandant übermittelt den Behörden, denen er in Übereinstimmung mit diesem Artikel den einer strafbaren Handlung Verdächtigen übergibt, die Beweismittel und Auskünfte, die nach dem Recht des Eintragungsstaates des Luftfahrzeugs rechtmässig in seinem Besitz sind.
+<sup>3.</sup> Der Luftfahrzeugkommandant übermittelt den Behörden, denen er in Übereinstimmung mit diesem Artikel den einer strafbaren Handlung Verdächtigen übergibt, die Beweismittel und Auskünfte, die rechtmässig in seinem Besitz sind.
+
+[^9-1]: Fassung gemäss Art. VIII des Prot. vom 4. April 2014, von der BVers genehmigt am 18. Dez. 2020 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 10
 
-Wenn Massnahmen in Übereinstimmung mit diesem Abkommen getroffen worden sind, kann weder der Luftfahrzeugkommandant, ein anderes Besatzungsmitglied, ein Fluggast, der Eigentümer oder Halter des Luftfahrzeugs noch die Person, für die der Flug ausgeführt worden ist, in einem Verfahren wegen der Behandlung, die einer durch die Massnahmen betroffenen Person widerfahren ist, zur Verantwortung gezogen werden.
+[^10-1][^10-2]
+
+Wenn Massnahmen in Übereinstimmung mit diesem Abkommen getroffen worden sind, kann weder der Luftfahrzeugkommandant, ein anderes Besatzungsmitglied, ein Fluggast, ein begleitender Sicherheitsbeamter, der Eigentümer oder Halter des Luftfahrzeugs noch die Person, für die der Flug ausgeführt worden ist, in einem Verfahren wegen der Behandlung, die einer durch die Massnahmen betroffenen Person widerfahren ist, zur Verantwortung gezogen werden.
+
+[^10-1]: Fassung gemäss Art. IX des Prot. vom 4. April 2014, von der BVers genehmigt am 18. Dez. 2020 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+[^10-2]: Für die Rechtshilfe zwischen der Schweiz und den Vereinigten Staaten von Amerika siehe Art. 36 des BG vom 3. Okt. 1975 zum Staatsvertrag mit den Vereinigten Staaten von Amerika über gegenseitige Rechtshilfe in Strafsachen ([SR 351.93](https://fedlex.data.admin.ch/eli/cc/1977/17_17_17)).
 
 ## Kapitel IV Widerrechtliche Inbesitznahme eines Luftfahrzeugs
 
@@ -153,21 +216,52 @@ Jeder Vertragsstaat gestattet dem Kommandanten eines Luftfahrzeugs das in einem 
 
 <sup>2.</sup> Vorbehaltlich seiner Rechtsvorschriften über Einreise, Aufenthalt, Auslieferung und Ausweisung gewährt ein Vertragsstaat, in dessen Hoheitsgebiet eine Person in Übereinstimmung mit Artikel 8 Absatz 1 abgesetzt, in Übereinstimmung mit Artikel 9 Absatz 1 übergeben oder wegen des Verdachts, eine in Artikel 11 Absatz 1 erwähnte Handlung begangen zu haben, abgesetzt worden ist, dieser Person eine Behandlung, die hinsichtlich ihres Schutzes und ihrer Sicherheit nicht weniger günstig ist als die Behandlung, die der betreffende Staat seinen Angehörigen unter ähnlichen Umständen gewährt.
 
+#### Art. 15<sup>bis</sup>
+
+[^15bis-1]
+
+<sup>1.</sup>
+
+Jeder Vertragsstaat wird aufgefordert, die notwendigen Massnahmen zu treffen, um geeignete strafrechtliche, verwaltungsrechtliche oder andere rechtliche Verfahren gegen jede Person einzuleiten, die an Bord eines Luftfahrzeugs eine strafbare oder andere Handlung nach Artikel 1 Absatz 1 begeht; hierzu zählen insbesondere:
+
+- a) die Ausübung körperlicher Gewalt oder die Androhung solcher Gewalt gegen Besatzungsmitglieder; oder
+- b) die Weigerung, einer vom Luftfahrzeugkommandanten oder in seinem Namen zur Gewährleistung der Sicherheit des Luftfahrzeugs oder der Personen oder Sachen an Bord rechtmässig erteilten Anweisung Folge zu leisten.
+
+<sup>2.</sup> Dieses Abkommen berührt nicht das Recht jedes Vertragsstaates, in seiner nationalen Gesetzgebung geeignete Massnahmen einzuführen oder beizubehalten, um unbotmässige und störende Handlungen an Bord unter Strafe zu stellen.
+
+[^15bis-1]: Eingefügt durch Art. X des Prot. vom 4. April 2014, von der BVers genehmigt am 18. Dez. 2020 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+
 ## Kapitel VI Sonstige Vorschriften
 
 #### Art. 16
 
-<sup>1.</sup> Die an Bord eines in einem Vertragsstaat eingetragenen Luftfahrzeugs begangenen strafbaren Handlungen werden für die Zwecke der Auslieferung so behandelt, als seien sie nicht nur an dem Ort, an dem sie sich ereignet haben, sondern auch im Hoheitsgebiet des Staates begangen worden, in dem das Luftfahrzeug eingetragen ist.
+<sup>1.</sup> Die an Bord eines Luftfahrzeugs begangenen strafbaren Handlungen werden für die Zwecke der Auslieferung zwischen Vertragsstaaten so behandelt, als seien sie nicht nur an dem Ort, an dem sie sich ereignet haben, sondern auch in den Hoheitsgebieten der Vertragsstaaten begangen worden, die verpflichtet sind, ihre Gerichtsbarkeit nach Artikel 3 Absätze 2 und 2<sup>bis</sup> zu begründen.[^16-1]
 
 <sup>2.</sup> Vorbehaltlich des vorstehenden Absatzes dürfen Bestimmungen dieses Abkommens nicht dahin ausgelegt werden, dass sie eine Verpflichtung zur Auslieferung begründen.
 
+[^16-1]: Fassung gemäss Art. XI des Prot. vom 4. April 2014, von der BVers genehmigt am 18. Dez. 2020 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+
 #### Art. 17
 
-Die Vertragsstaaten haben bei den Massnahmen zur Untersuchung oder Festnahme oder bei der sonstigen Ausübung ihrer Gerichtsbarkeit in Zusammenhang mit einer an Bord eines Luftfahrzeugs begangenen strafbaren Handlung auf die Sicherheit und andere Interessen der Luftfahrt gebührend Rücksicht zu nehmen und so vorzugehen, dass ein unnötiges Aufhalten des Luftfahrzeugs, der Fluggäste, der Besatzung oder der Ladung vermieden wird.
+[^17-1]
+
+<sup>1.</sup> Die Vertragsstaaten haben bei den Massnahmen zur Untersuchung oder Festnahme oder bei der sonstigen Ausübung ihrer Gerichtsbarkeit im Zusammenhang mit einer an Bord eines Luftfahrzeugs begangenen strafbaren Handlung auf die Sicherheit und andere Interessen der Luftfahrt gebührend Rücksicht zu nehmen und so vorzugehen, dass ein unnötiges Aufhalten des Luftfahrzeugs, der Fluggäste, der Besatzung oder der Ladung vermieden wird.
+
+<sup>2.</sup> Bei Erfüllung seiner Verpflichtungen oder Ausübung des zulässigen Ermessens nach diesem Abkommen handelt jeder Vertragsstaat in Übereinstimmung mit den völkerrechtlichen Verpflichtungen und Verantwortlichkeiten der Staaten. Im Hinblick hierauf beachtet jeder Vertragsstaat die Grundsätze eines ordnungsgemässen Verfahrens und einer gerechten Behandlung.
+
+[^17-1]: Fassung gemäss Art. XII des Prot. vom 4. April 2014, von der BVers genehmigt am 18. Dez. 2020 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 18
 
 Bilden Vertragsstaaten Betriebsgemeinschaften für den Luftverkehr oder internationale Betriebsstellen, die in keinem bestimmten Staat eingetragene Luftfahrzeuge einsetzen, so bezeichnen diese Staaten je nach Lage des Falles einen von ihnen, der für die Zwecke dieses Abkommens als Eintragungsstaat gilt; sie zeigen dies der Internationalen Zivilluftfahrt-Organisation an, die allen Vertragsstaaten dieses Abkommens davon Kenntnis gibt.
+
+#### Art. 18<sup>bis</sup>
+
+[^18bis-1]
+
+Dieses Abkommen berührt nicht das Recht, Schadensersatzansprüche nach nationalem Recht gegen eine nach Artikel 8 oder Artikel 9 abgesetzte oder übergebene Person geltend zu machen.
+
+[^18bis-1]: Eingefügt durch Art. XIII des Prot. vom 4. April 2014, von der BVers genehmigt am 18. Dez. 2020 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 469](https://fedlex.data.admin.ch/eli/oc/2021/469); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 ## Kapitel VII Schlussbestimmungen
 
@@ -223,7 +317,7 @@ Die Internationale Zivilluftfahrt-Organisation notifiziert allen Mitgliedstaaten
 
 *Zu Urkund dessen* haben die unterzeichneten, hierzu gehörig befugten Bevollmächtigten dieses Abkommen unterschrieben. Geschehen zu Tokio am vierzehnten September neunzehnhundertdreiundsechzig in drei Urschriften, in englischer, französischer und spanischer Sprache. Dieses Abkommen wird bei der Internationalen Zivilluftfahrt-Organisation hinterlegt, bei der es nach Artikel 19 zur Unterzeichnung aufgelegt wird; diese Organisation übermittelt allen Mitgliedstaaten der Vereinten Nationen oder der Sonderorganisationen beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 17. April 2018**[^t-2]**
+Geltungsbereich am 17. April 2018**[^t-3]**
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th colspan="4">Inkrafttreten</th><th></th></tr>
@@ -271,6 +365,7 @@ Geltungsbereich am 17. April 2018**[^t-2]**
 <tr><td colspan="2">Ecuador</td><td colspan="2">3. Dezember</td><td>1969</td><td colspan="4">3. März</td><td>1970</td></tr>
 <tr><td colspan="2">El Salvador</td><td colspan="2">13. Februar</td><td>1980 B</td><td colspan="4">13. Mai</td><td>1980</td></tr>
 <tr><td colspan="2">Estland</td><td colspan="2">31. Dezember</td><td>1993 B</td><td colspan="4">31. März</td><td>1994</td></tr>
+<tr><td colspan="2">Eswatini</td><td colspan="2">15. November</td><td colspan="2">1999 B</td><td colspan="3">13. Februar</td><td>2000</td></tr>
 <tr><td colspan="2">Fidschi</td><td colspan="2">18. Januar</td><td>1972 N</td><td colspan="4">10. Oktober</td><td>1970</td></tr>
 <tr><td colspan="2">Finnland</td><td colspan="2">2. April</td><td>1971</td><td colspan="4">1. Juli</td><td>1971</td></tr>
 <tr><td colspan="2">Frankreich</td><td colspan="2">11. September</td><td>1970</td><td colspan="4">10. Dezember</td><td>1970</td></tr>
@@ -334,7 +429,6 @@ Geltungsbereich am 17. April 2018**[^t-2]**
 <tr><td colspan="2">Marshallinseln</td><td colspan="2">15. Mai</td><td>1989 B</td><td colspan="4">13. August</td><td>1989</td></tr>
 <tr><td colspan="2">Mauretanien</td><td colspan="2">30. Juni</td><td>1977 B</td><td colspan="4">28. September</td><td>1977</td></tr>
 <tr><td colspan="2">Mauritius</td><td colspan="2">5. April</td><td>1983 B</td><td colspan="4">4. Juli</td><td>1983</td></tr>
-<tr><td colspan="2">Mazedonien</td><td colspan="2">30. August</td><td>1994 N</td><td colspan="4">17. September</td><td>1991</td></tr>
 <tr><td colspan="2">Mexiko</td><td colspan="2">18. März</td><td>1969</td><td colspan="4">4. Dezember</td><td>1969</td></tr>
 <tr><td colspan="2">Moldau</td><td colspan="2">20. Juni</td><td>1997 B</td><td colspan="4">18. September</td><td>1997</td></tr>
 <tr><td colspan="2">Monaco</td><td colspan="2">2. Juni</td><td>1983 B</td><td colspan="4">31. August</td><td>1983</td></tr>
@@ -355,6 +449,7 @@ Geltungsbereich am 17. April 2018**[^t-2]**
 <tr><td colspan="2">Niger</td><td colspan="2">27. Juni</td><td colspan="2">1969</td><td colspan="3">4. Dezember</td><td>1969</td></tr>
 <tr><td colspan="2">Nigeria</td><td colspan="2">7. April</td><td colspan="2">1970</td><td colspan="3">6. Juli</td><td>1970</td></tr>
 <tr><td colspan="2">Niue</td><td colspan="2">23. Juni</td><td colspan="2">2009 B</td><td colspan="3">21. September</td><td>2009</td></tr>
+<tr><td colspan="2">Nordmazedonien</td><td colspan="2">30. August</td><td>1994 N</td><td colspan="4">17. September</td><td>1991</td></tr>
 <tr><td colspan="2">Norwegen</td><td colspan="2">17. Januar</td><td colspan="2">1967</td><td colspan="3">4. Dezember</td><td>1969</td></tr>
 <tr><td colspan="2">Oman\*</td><td colspan="2">9. Februar</td><td colspan="2">1977 B</td><td colspan="3">10. Mai</td><td>1977</td></tr>
 <tr><td colspan="2">Österreich</td><td colspan="2">7. Februar</td><td colspan="2">1974 B</td><td colspan="3">8. Mai</td><td>1974</td></tr>
@@ -393,7 +488,6 @@ Geltungsbereich am 17. April 2018**[^t-2]**
 <tr><td colspan="2">Südafrika\*</td><td colspan="2">26. Mai</td><td colspan="2">1972 B</td><td colspan="3">24. August</td><td>1972</td></tr>
 <tr><td colspan="2">Sudan</td><td colspan="2">25. Mai</td><td colspan="2">2000 B</td><td colspan="3">23. August</td><td>2000</td></tr>
 <tr><td colspan="2">Suriname</td><td colspan="2">10. September</td><td colspan="2">1979 N</td><td colspan="3">25. November</td><td>1975</td></tr>
-<tr><td colspan="2">Swasiland</td><td colspan="2">15. November</td><td colspan="2">1999 B</td><td colspan="3">13. Februar</td><td>2000</td></tr>
 <tr><td colspan="2">Syrien\*</td><td colspan="2">31. Juli</td><td colspan="2">1980 B</td><td colspan="3">29. Oktober</td><td>1980</td></tr>
 <tr><td colspan="2">Tadschikistan</td><td colspan="2">20. März</td><td colspan="2">1996 B</td><td colspan="3">18. Juni</td><td>1996</td></tr>
 <tr><td colspan="2">Tansania</td><td colspan="2">12. August</td><td colspan="2">1983 B</td><td colspan="3">10. November</td><td>1983</td></tr>
@@ -420,9 +514,9 @@ Geltungsbereich am 17. April 2018**[^t-2]**
 <tr><td colspan="2">Vietnam\*</td><td colspan="2">10. Oktober</td><td colspan="2">1979 B</td><td colspan="3">8. Januar</td><td>1980</td></tr>
 <tr><td colspan="2">Zentralafrikanische Republik</td><td colspan="2">11. Juni</td><td colspan="2">1991 B</td><td colspan="3">9. September</td><td>1991</td></tr>
 <tr><td colspan="2">Zypern</td><td colspan="2">31. Mai</td><td colspan="2">1972 B</td><td colspan="3">29. August</td><td>1972</td></tr>
-<tr><td colspan="10">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtsorganisation: www.icao.int/publications/Pages/doc-series.aspx eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="10">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="10"><sup>a</sup> Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 5. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 <tr><td colspan="10"><sup>b</sup> Vom 7. Juli 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1976 500](https://fedlex.data.admin.ch/eli/oc/1976/500_500_500)[1888](https://fedlex.data.admin.ch/eli/oc/1976/1888_1888_1888), [1978 308](https://fedlex.data.admin.ch/eli/oc/1978/308_308_308), [1979 1532](https://fedlex.data.admin.ch/eli/oc/1979/1532_1532_1532), [1981 1640](https://fedlex.data.admin.ch/eli/oc/1981/1640_1640_1640), [1983 249](https://fedlex.data.admin.ch/eli/oc/1983/249_249_249), [1986 907](https://fedlex.data.admin.ch/eli/oc/1986/907_907_907), [1987 1160](https://fedlex.data.admin.ch/eli/oc/1987/1160_1160_1160), [1989 864](https://fedlex.data.admin.ch/eli/oc/1989/864_864_864), [1990 1569](https://fedlex.data.admin.ch/eli/oc/1990/1569_1569_1569), [1991 2314](https://fedlex.data.admin.ch/eli/oc/1991/2314_2314_2314), [2005 1609](https://fedlex.data.admin.ch/eli/oc/2005/251)[5001](https://fedlex.data.admin.ch/eli/oc/2005/686)**,** [2009 79](https://fedlex.data.admin.ch/eli/oc/2009/18), [2013 2721](https://fedlex.data.admin.ch/eli/oc/2013/559)und [2018 1751](https://fedlex.data.admin.ch/eli/oc/2018/257). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1976 500](https://fedlex.data.admin.ch/eli/oc/1976/500_500_500), [1888](https://fedlex.data.admin.ch/eli/oc/1976/1888_1888_1888); [1978 308](https://fedlex.data.admin.ch/eli/oc/1978/308_308_308); [1979 1532](https://fedlex.data.admin.ch/eli/oc/1979/1532_1532_1532); [1981 1640](https://fedlex.data.admin.ch/eli/oc/1981/1640_1640_1640); [1983 249](https://fedlex.data.admin.ch/eli/oc/1983/249_249_249); [1986 907](https://fedlex.data.admin.ch/eli/oc/1986/907_907_907); [1987 1160](https://fedlex.data.admin.ch/eli/oc/1987/1160_1160_1160); [1989 864](https://fedlex.data.admin.ch/eli/oc/1989/864_864_864); [1990 1569](https://fedlex.data.admin.ch/eli/oc/1990/1569_1569_1569); [1991 2314](https://fedlex.data.admin.ch/eli/oc/1991/2314_2314_2314); [2005 1609](https://fedlex.data.admin.ch/eli/oc/2005/251), [5001](https://fedlex.data.admin.ch/eli/oc/2005/686); [2009 79](https://fedlex.data.admin.ch/eli/oc/2009/18); [2013 2721](https://fedlex.data.admin.ch/eli/oc/2013/559); [2018 1751](https://fedlex.data.admin.ch/eli/oc/2018/257). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://www.fedlex.admin.ch/de/treaty).
