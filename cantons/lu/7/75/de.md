@@ -4,13 +4,13 @@ number: "75"
 title: Besoldungsverordnung für die Lehrpersonen und die Fachpersonen der schulischen Dienste
 short: BVOL
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-10-20
+version: 2021-08-01
+valid_until: 2025-06-30
+version_adopted: 2020-06-30
 adopted: 2005-06-17
 in_force: 2006-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/75"
-pdf: "https://srl.lu.ch/api/de/versions/3672/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3716/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3672/pdf_file"
 
 (BVOL)
 
-vom 17.06.2005 (Stand 01.01.2021)
+vom 17.06.2005 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
