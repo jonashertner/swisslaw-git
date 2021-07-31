@@ -4,13 +4,13 @@ number: "152.081"
 title: Versuchsverordnung zur Datenbewirtschaftung im ERP-Projekt Etappe 1
 short: ERP Daten VV
 language: de
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-09-16
+version: 2021-08-01
+valid_until: 2023-07-31
+version_adopted: 2021-06-30
 adopted: 2020-09-16
 in_force: 2020-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.081"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2018/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2311/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2018/pdf_file"
 
 (ERP Daten VV)
 
-vom 16.09.2020 (Stand 01.08.2020)
+vom 16.09.2020 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -84,7 +84,7 @@ beschliesst:
 <table>
 <tr><th>Umsystem</th><th>Verantwortliche OE</th></tr>
 <tr><td>Active Directory</td><td>FIN-KAIO</td></tr>
-<tr><td>AssistME (IBAS)</td><td>GSI-ALBA</td></tr>
+<tr><td>AssistME (IBAS)</td><td>GSI-AIS</td></tr>
 <tr><td>ASYDATA / NFAM</td><td>SID-ABEV / GSI-AIS</td></tr>
 <tr><td>AVANTI</td><td>SID-KAPO</td></tr>
 <tr><td>BEPRO</td><td>GSI</td></tr>
@@ -95,7 +95,7 @@ beschliesst:
 <tr><td>ELBA JGK</td><td>DIJ-ABA</td></tr>
 <tr><td>ELBA JUS</td><td>JUS</td></tr>
 <tr><td>Elektra (Absidion)</td><td>BKD-AK</td></tr>
-<tr><td>eRV</td><td>GSI-SPA</td></tr>
+<tr><td>eRV</td><td>GSI-GA</td></tr>
 <tr><td>ESCADA</td><td>BKD-MBA</td></tr>
 <tr><td>EVENTO</td><td>BKD-MBA</td></tr>
 <tr><td>EVOK</td><td>DIJ-ASV</td></tr>
@@ -119,7 +119,7 @@ beschliesst:
 <tr><td>StipBE</td><td>BKD-AZD</td></tr>
 <tr><td>WinforstPro</td><td>WEU-KAWA</td></tr>
 <tr><td>ZEMIS</td><td>SID-ABEV</td></tr>
-<tr><td>ZERO</td><td>GSI-ALBA, GSI-FRW/GS</td></tr>
+<tr><td>ZERO</td><td>GSI-AIS, GSI-FRW/GS</td></tr>
 <tr><td>ZPV</td><td>FIN-SV</td></tr>
 </table>
 

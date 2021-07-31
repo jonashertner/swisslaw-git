@@ -4,13 +4,13 @@ number: "152.081"
 title: "Ordonnance exploratoire sur la gestion des données dans le projet ERP, étape 1"
 short: OE données ERP
 language: fr
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-09-16
+version: 2021-08-01
+valid_until: 2023-07-31
+version_adopted: 2021-06-30
 adopted: 2020-09-16
 in_force: 2020-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.081"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2018/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2311/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2018/pdf_file"
 
 (OE données ERP)
 
-du 16.09.2020 (état au 01.08.2020)
+du 16.09.2020 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -84,7 +84,7 @@ arrête:
 <table>
 <tr><th>Système auxiliaire</th><th>Unité comptable responsable</th></tr>
 <tr><td>Active Directory</td><td>FIN-OIO</td></tr>
-<tr><td>AssistME (IBAS)</td><td>DSSI-OPAH</td></tr>
+<tr><td>AssistME (IBAS)</td><td>DSSI-OIAS</td></tr>
 <tr><td>ASYDATA / NFAM</td><td>DSE-OPOP / DSSI-OIAS</td></tr>
 <tr><td>AVANTI</td><td>DSE-POCA</td></tr>
 <tr><td>BEPRO</td><td>DSSI</td></tr>
@@ -95,7 +95,7 @@ arrête:
 <tr><td>ELBA JCE</td><td>DIJ-OGS</td></tr>
 <tr><td>ELBA JUS</td><td>JUS</td></tr>
 <tr><td>Elektra (Absidion)</td><td>INC-OC</td></tr>
-<tr><td>eRV</td><td>DSSI-ODH</td></tr>
+<tr><td>eRV</td><td>DSSI-ODS</td></tr>
 <tr><td>ESCADA</td><td>INC-OMP</td></tr>
 <tr><td>EVENTO</td><td>INC-OMP</td></tr>
 <tr><td>EVOK</td><td>DIJ-OAS</td></tr>
@@ -119,7 +119,7 @@ arrête:
 <tr><td>StipBE</td><td>INC-OSC</td></tr>
 <tr><td>WinforstPro</td><td>DEEE-OFO</td></tr>
 <tr><td>ZEMIS</td><td>DSE-OPOP</td></tr>
-<tr><td>ZERO</td><td>DSSI-OPAH, DSSI-SG/Division Finances</td></tr>
+<tr><td>ZERO</td><td>DSSI-OIAS, DSSI-SG/Division Finances</td></tr>
 <tr><td>GCP</td><td>FIN-ICI</td></tr>
 </table>
 
