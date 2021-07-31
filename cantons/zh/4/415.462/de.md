@@ -3,10 +3,10 @@ canton: ZH
 number: "415.462"
 title: Rahmenverordnung für das Studium in den Bachelor- und Masterstudiengängen der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich
 language: de
-nachtrag: "93"
-valid_until: 2021-08-01
+nachtrag: "113"
+valid_until: 2022-08-01
 adopted: 2020-08-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_462-2015_06_29-2016_08_01-093.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_462-2020_08_24-2021_08_01-113.html"
 text: pdf
 ---
 
@@ -14,573 +14,646 @@ text: pdf
 
 # Rahmenverordnung für das Studium in den Bachelor- und Masterstudiengängen der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich
 
-(vom 29. Juni 2015)[^t-1],[^t-2]
+(vom 24. August 2020)[^t-1],[^t-2]
 
 Der Universitätsrat beschliesst:
 
-[^t-1]: OS 70, 342; Begründung siehe ABl 2015-07-17.
-[^t-2]: Inkrafttreten: 1. August 2016.
+[^t-1]: OS 76, 140; Begründung siehe ABl 2020-09-04.
+[^t-2]: Inkrafttreten: 1. August 2021.
 
-### 1. Abschnitt: Allgemeines
+### 1. Abschnitt: Allgemeine Bestimmungen
 
-### A. Einleitung
+### A. Gegenstand und Geltungsbereich
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Rahmenverordnung regelt den Bachelorstudiengang und die Masterstudiengänge sowie die Nebenfachstudienprogramme für fakultätseigene und fakultätsfremde Studierende an der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich.
+<sup>1</sup> Diese Rahmenverordnung regelt das Bachelor- und Masterstudium an der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich (UZH).
 
-<sup>2</sup> Fakultäts- und universitätsübergreifende Studiengänge werden in separaten Rahmenverordnungen geregelt.
+<sup>2</sup> Fakultätsübergreifende Studiengänge sowie hochschulübergreifende Double- und Joint-Degree-Studiengänge werden in separaten Rahmenverordnungen geregelt.
+
+<sup>3</sup> Über Fragen, die in dieser Rahmenverordnung und in der Studienordnung nicht geregelt sind, entscheidet die Studiendekanin oder der Studiendekan.
 
 #### § 2
 
 **Ausführende Bestimmungen**
 
-<sup>1</sup> Die Fakultät erlässt die «Studienordnung für das Studium in den Bachelor- und Masterstudiengängen an der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich», in der die Anforderungen für die einzelnen Studiengänge bzw. Studienprogramme sowie die Modalitäten der Leistungsnachweise geregelt werden.
-
-<sup>2</sup> Für spezialisierte Masterstudienprogramme können separate Studienordnungen erlassen werden, welche diese Verordnung ausführen.
-
-<sup>3</sup> In Fällen, die nicht von dieser Rahmenverordnung oder der jeweiligen Studienordnung erfasst werden, entscheidet die Prodekanin Lehre oder der Prodekan Lehre.
+Einzelheiten werden in der Studienordnung geregelt.
 
 #### § 3
 
-**Titel**
+**Module und Minor-Studienprogramme anderer Fakultäten**
 
-<sup>1</sup> Die Mathematisch-naturwissenschaftliche Fakultät verleiht für den erfolgreich absolvierten Bachelorstudiengang den folgenden Titel: «Bachelor of Science UZH» (BSc UZH).
+<sup>1</sup> In Bezug auf die Möglichkeit der Wahl und Anrechnung eines Moduls oder eines Minor-Studienprogramms einer anderen Fakultät finden die Bestimmungen derjenigen Fakultät Anwendung, an der das Major-Studienprogramm absolviert wird.
 
-<sup>2</sup> Die Mathematisch-naturwissenschaftliche Fakultät verleiht für einen erfolgreich absolvierten Masterstudiengang den folgenden Titel: «Master of Science UZH» (MSc UZH).
-
-<sup>3</sup> Die Verleihung des Titels erfolgt mit der Aushändigung der unterzeichneten Urkunde.
-
-**1**
-
-- 1\. 7. 16 - 93
-
-<sup>4</sup> Die Fakultät kann wissenschaftliche Ausrichtungen (in der Studienordnung) präzisieren. Die Präzisierung erfolgt mit dem Zusatz «in» im Titel. Die wissenschaftliche Ausrichtung soll in der Regel in deutscher Sprache benannt werden. Bei Programmen, die weitgehend auf Englisch unterrichtet und absolviert werden, kann die wissenschaftliche Ausrichtung in englischer Sprache erfolgen.
-
-### B. Allgemeines zum Studium
+<sup>2</sup> In allen anderen Bereichen gelten die Bestimmungen der das jeweilige Modul oder das jeweilige Minor-Studienprogramm anbietenden Fakultät.
 
 #### § 4
 
-**ECTS Credits**
+**Studienangebot**
 
-<sup>1</sup> Der Umfang der Studienleistungen wird mit dem Europäischen Kreditpunktesystem (European Credit Transfer and Accumulation System, ECTS) bemessen.
+<sup>1</sup> Die Fakultät bietet folgenden Bachelorstudiengang im Umfang von 180 ECTS Credits an:
 
-<sup>2</sup> Im Rahmen eines Vollzeitstudiums sind pro Semester durchschnittlich 30 ECTS Credits zu erwerben.
+- Bachelor of Science
 
-<sup>3</sup> Ein ECTS Credit entspricht einem durchschnittlichen studentischen Arbeitsaufwand von 30 Stunden.
+<sup>2</sup> Die Fakultät bietet auf Bachelorstufe Minor-Studienprogramme im Umfang von 60 und 30 ECTS Credits für eigene Studierende und Studierende anderer Fakultäten an.
+
+**1**
+
+- 1\. 7. 21 - 113
+
+<sup>3</sup> Die Fakultät bietet folgenden Masterstudiengang im Umfang von 90 ECTS Credits an:
+
+- Master of Science
+
+<sup>4</sup> Die Fakultät bietet folgenden Masterstudiengang im Umfang von 120 ECTS Credits an:
+
+- Master of Science
+
+<sup>5</sup> Die Fakultät bietet auf Masterstufe Minor-Studienprogramme im Umfang von 30 ECTS Credits für eigene Studierende und Studierende anderer Fakultäten an.
 
 #### § 5
 
-**Studienprogramme und Regelcurricula**
+**Bezeichnung der Abschlüsse**
 
-<sup>1</sup> Ein Studiengang setzt sich aus einem oder mehreren Studienprogrammen zusammen. Ein Studienprogramm ist eine durch die curriculare Struktur und den Umfang definierte Untereinheit eines Studiengangs.
+<sup>1</sup> Die Fakultät verleiht für einen erfolgreich abgeschlossenen Bachelorstudiengang den Grad mit folgender Bezeichnung:
 
-<sup>2</sup> Die Studienordnungen legen für jedes Studienprogramm auf Bachelor- und Masterstufe ein Regelcurriculum unter Angabe einer Richtstudienzeit fest.
+- Bachelor of Science UZH
 
-<sup>3</sup> Das Regelcurriculum ermöglicht Vollzeitstudierenden den Erwerb von 30 ECTS Credits pro Semester. Im Bachelorstudium beträgt die Richtstudienzeit demnach sechs Semester, im Masterstudium drei oder vier Semester.
+<sup>2</sup> Die Fakultät verleiht für einen erfolgreich abgeschlossenen Masterstudiengang den Grad mit folgender Bezeichnung:
 
-[^5-1]: LS 415.31. 1. 7. 16 - 93 15
+- Master of Science UZH
+
+<sup>3</sup> Die wissenschaftliche Ausrichtung mit dem Zusatz «in» wird in der Bezeichnung des Grades präzisiert.
+
+<sup>4</sup> Die Grade werden wie folgt abgekürzt:
+
+- Bachelor of Science UZH BSc UZH
+
+- Master of Science UZH MSc UZH
+
+### B. Allgemeines zum Studium
 
 #### § 6
 
-**Zulassung und Zulassungshindernisse**
+**Zusammensetzung eines Studiengangs**
 
-<sup>1</sup> Für die Zulassung zu den Studiengängen ist grundsätzlich die Verordnung über die Zulassung zum Studium an der Universität Zürich (VZS)[^5-1] massgebend.
+<sup>1</sup> Ein Studiengang besteht aus – einem Studienprogramm (Mono-Studienprogramm),
 
-<sup>2</sup> Studierende, welche an der UZH oder an anderen Hochschulen definitiv von der Fortsetzung ihres Studiums ausgeschlossen worden sind, können an der Mathematisch-naturwissenschaftlichen Fakultät nicht in Studienprogramme der gleichen oder einer vergleichbaren Studienrichtung eintreten.
+- aus zwei Studienprogrammen (Major-/Minor-Studienprogramm).
 
-<sup>3</sup> Studierende, welche an der UZH oder an anderen Hochschulen ein Modul zweimal nicht bestanden haben, können an der Mathematisch-naturwissenschaftlichen Fakultät nicht in Studienprogramme eintreten, bei denen das zweimal nicht bestandene Modul in vergleichbarem Inhalt und Umfang zum Pflichtprogramm gehört.
-
-<sup>4</sup> Ein Studium kann nur in Studienprogrammen aufgenommen werden, die nicht bereits in einem vorangehenden universitären Studium absolviert wurden und zu einem fachwissenschaftlich äquivalenten Abschluss auf gleicher Studienstufe geführt haben. Ausgenommen hiervon ist ein vorgängig abgeschlossenes Nebenfachprogramm. Dieses kann als Hauptfachprogramm studiert werden.
+<sup>2</sup> Ein Studienprogramm ist eine durch die curriculare Struktur, die Qualifikationsziele, die Studienstufe sowie den Umfang in ECTS Credits definierte Untereinheit eines Studiengangs, die zu einem Studienprogrammabschluss führt.
 
 #### § 7
 
-**Sprache der Lehrveranstaltungen**
+**Regelcurricula**
 
-<sup>1</sup> Bachelor: Im Unterricht und an den Prüfungen kann entweder die deutsche oder die englische Sprache verwendet werden. Die verwendete Sprache wird im Vorlesungsverzeichnis publiziert.
+<sup>1</sup> Die Studienordnung legt für jedes Studienprogramm die Bestehensvoraussetzungen fest. Ein Regelcurriculum wird in geeigneter Weise publiziert.
 
-<sup>2</sup> Master: Die Unterrichtssprache ist in der Regel Englisch.
+<sup>2</sup> Das Regelcurriculum sieht für Vollzeitstudierende den Erwerb von mindestens 30 ECTS Credits pro Semester vor.
+
+<sup>3</sup> Ein Modulkatalog wird in geeigneter Weise publiziert.
+
+[^7-1]: LS 415.31.
 
 #### § 8
 
-**Studium und Behinderung**
+**Zulassung**
 
-<sup>1</sup> Bei Vorliegen einer ärztlich bescheinigten Behinderung oder chronischen Krankheit mit Auswirkung auf studienrelevante Aktivitäten kann bei der Fachstelle Studium und Behinderung ein Gesuch um Anerkennung der Behinderung oder der chronischen Krankheit eingereicht werden.
-
-<sup>2</sup> Bei Anerkennung einer Behinderung oder einer chronischen Krankheit durch die Fachstelle Studium und Behinderung kann die Prodekanin Lehre oder der Prodekan Lehre auf Antrag semesterweise ausgleichende Massnahmen gewähren.
+Für die Zulassung zu den Studiengängen ist die Verordnung über die Zulassung zum Studium an der Universität Zürich vom 27.August 2018 (VZS)[^7-1] massgebend.
 
 #### § 9
 
-**Informationspflicht**
+**Studium und Behinderung**
 
-<sup>1</sup> Alle studienrelevanten Informationen, insbesondere die zu erwerbende Anzahl ECTS Credits sowie Zeitpunkt, Form und Umfang der Leistungsnachweise für die Module, Vorbedingungen und Abschlussqualifikationen, werden in geeigneter Weise bekanntgegeben.
+<sup>1</sup> Bei Vorliegen einer ärztlich bescheinigten Behinderung oder chronischen Krankheit prüft die Fachstelle Studium und Behinderung, ob sich diese auf studienrelevante Aktivitäten auswirkt und schlägt diesfalls nachteilsausgleichende Massnahmen vor. In Zweifelsfällen kann die Fachstelle eine Ärztin oder einen Arzt ihres Vertrauens beiziehen.
 
-<sup>2</sup> Die Studierenden sind verpflichtet, sich über die für sie geltenden Erlasse, die studienrelevanten Informationen und Fristen selbstständig zu informieren. Publizierte Informationen gelten als bekanntgegeben.
+<sup>2</sup> Die Studiendekanin oder der Studiendekan kann auf Antrag durch die oder den Studierenden semesterweise nachteilsausgleichende Massnahmen gewähren.
 
-### 2. Abschnitt: Module
+<sup>3</sup> Die Gewährung rückwirkender Massnahmen ist ausgeschlossen.
 
 #### § 10
 
-**Module**
+**Sprache**
 
-<sup>1</sup> Lerninhalte werden in inhaltlich und zeitlich kohärente Lerneinheiten, so genannte Module, gegliedert.
+<sup>1</sup> Die Sprache der Lehrveranstaltungen auf Bachelorstufe ist grundsätzlich Deutsch oder Englisch.
 
-<sup>2</sup> Für jedes bestandene Modul wird eine Anzahl von ECTS Credits (in ganzen Zahlen) vergeben, die dem durchschnittlichen Aufwand entsprechen, der für das Bestehen des Moduls erforderlich ist.
+<sup>2</sup> Die Sprache der Lehrveranstaltungen auf Masterstufe ist grundsätzlich Englisch. Einzelne Veranstaltungen können in anderen Sprachen erfolgen.
 
-<sup>3</sup> Für das Bestehen des Moduls muss ein Leistungsnachweis erbracht werden. Die Vergabe von ECTS Credits auf der Basis blosser Anwesenheit ist ausgeschlossen.
+<sup>3</sup> Die Leistungsnachweise werden grundsätzlich in derjenigen Sprache durchgeführt und erbracht, in der die betreffenden Module durchgeführt werden.
 
-**3**
-
-- 1\. 7. 16 - 93
-
-<sup>4</sup> Der Besuch eines Moduls kann von der Erfüllung von Vorbedingungen abhängig gemacht werden.
-
-<sup>5</sup> Die ECTS Credits für ein Modul werden ausschliesslich vollständig vergeben, eine teilweise Vergabe ist nicht möglich.
-
-<sup>6</sup> Studierende können im Rahmen der Vorschriften der Studienordnung entscheiden, wie viele und welche Module sie pro Semester belegen.
+<sup>4</sup> Für einzelne Module können bestimmte Sprachkenntnisse vorausgesetzt werden.
 
 #### § 11
 
-**Modultypen**
+**Urheberrecht an studentischen Arbeiten**
 
-Es werden unterschieden:
+<sup>1</sup> Die Urheberrechte an studentischen Arbeiten gehören den Studierenden. Werden studentische Arbeiten durch mehrere Urheberinnen bzw. Urheber verfasst, steht diesen das Urheberrecht gemeinschaftlich zu. Die Rechte weiterer Beteiligter bleiben hiervon unberührt.
 
-- a. Pflichtmodule: Module, welche für alle Studierenden eines Studienprogramms obligatorisch sind;
+<sup>2</sup> Vor der Veröffentlichung einer Arbeit oder Teilen einer Arbeit sind die Studierenden verpflichtet, die rechtlichen Fragen im Hinblick auf die Verwertung von Daten, Ideen, Methoden oder Patenten Dritter mit der Leiterin oder dem Leiter der Forschungsarbeit zu klären.
 
-- b. Wahlpflichtmodule: Module, die in vorgegebenem Umfang aus einer in der Studienordnung oder der aktuellen Wegleitung festgelegten Liste auszuwählen sind;
+<sup>3</sup> Wird die Arbeit im Rahmen einer Forschungsgruppe erbracht, müssen die anderen Urheberinnen und Urheber sowie die Leiterin oder der Leiter der Forschungsarbeit der Veröffentlichung zustimmen.
 
-- c. Wahlmodule: Module, die aus dem Angebot der UZH und ETH im Rahmen der Vorgaben der Studienordnung frei wählbar sind.
+<sup>4</sup> Die Leiterin oder der Leiter der Forschungsarbeit kann die Veröffentlichung mit Auflagen versehen.
 
-#### § 12
+<sup>5</sup> Die Studierenden treten der UZH mit Einreichung einer Arbeit das Urheberrecht ab, soweit es für Verwaltungshandlungen wie Plagiatserkennung oder Archivierung notwendig ist.
 
-**Modulverantwortliche**
+**3**
 
-<sup>1</sup> Die Fachbereiche bestimmen für sämtliche Module Modulverantwortliche, die für den Inhalt und den Leistungsnachweis der Module verantwortlich sind.
+- 1\. 7. 21 - 113 § 12. Studentische Arbeiten können zum Zweck der Überprüfung auf Plagiate unter Einsatz entsprechender Software bearbeitet werden. Zu diesem Zweck können geeignete Dienstleister im In- oder Ausland beauftragt werden.
 
-<sup>2</sup> Als Modulverantwortliche können ordentliche und ausserordentliche Professorinnen und Professoren, Assistenzprofessorinnen und -professoren, Titularprofessorinnen und -professoren sowie Privatdozentinnen und Privatdozenten der Mathematisch-naturwissenschaftlichen Fakultät herangezogen werden, in Ausnahmefällen auch entsprechende Personen anderer Fakultäten oder universitärer Hochschulen. Über Ausnahmefälle entscheidet die Prodekanin Lehre oder der Prodekan Lehre.
+**Plagiatskontrolle**
 
-<sup>3</sup> Die Modulverantwortlichen können durch Lehrbeauftragte unterstützt werden.
+**Studienzeit und Gebühren**
 
-#### § 13
+§ 13.[^11-1] <sup>1</sup> In den ersten 12 Semestern des Bachelor- wie auch des Masterstudiums sind die Studiengebühren gemäss den Bestimmungen der Verordnung über die Studiengebühren an der Universität Zürich vom 5. März 2012[^11-2] zu entrichten. Die Zählung beginnt mit dem ersten Semester nach der Immatrikulation an der UZH.
 
-**An- und Abmeldung von Modulen**
+<sup>2</sup> Überschreitet die oder der Studierende die Studienzeit gemäss Abs. 1 und liegt keine bewilligte Verlängerung nach § 14 vor, verdoppelt sich die Studiengebühr gemäss den Bestimmungen der Verordnung über die Studiengebühren an der Universität Zürich.
 
-<sup>1</sup> Für jedes Modul ist eine fristgerechte Anmeldung erforderlich. Diese gilt gleichzeitig als Anmeldung für den Leistungsnachweis.
+<sup>3</sup> Die oder der Studierende erhält am Ende des 11. Semesters nach Immatrikulation mit dem Leistungsausweis die Aufforderung, unverzüglich mit der Studienberatung Kontakt aufzunehmen, um einen individuellen Studienplan auszuarbeiten.
 
-<sup>2</sup> Die Modulverantwortlichen legen im Vorlesungsverzeichnis die An- und Abmeldetermine für Module fest.
+**Antrag auf Verlängerung**
 
-<sup>3</sup> Wurde der Abmeldetermin verpasst, ist nur eine Abmeldung gemäss § 20 möglich.
+§ 14.[^11-1] <sup>1</sup> Bei Vorliegen von wichtigen Gründen kann die oder der Studierende beim Studiendekanat eine Verlängerung der Studienzeit, für welche die einfache Studiengebühr zu entrichten ist, um zwei Semester beantragen. Der Antrag ist zu begründen und innerhalb von 30 Tagen nach Erhalt des Leistungsausweises einzureichen.
 
-#### § 14
+<sup>2</sup> Die Studiendekanin oder der Studiendekan entscheidet in der Regel innert 30 Tagen über den Antrag. Sie oder er kann weitere Nachweise anfordern oder Berichte einholen.
 
-**Anerkennung und Anrechnung von Studienleistungen**
+<sup>3</sup> Wird kein Antrag eingereicht oder lehnt die Studiendekanin oder der Studiendekan den Antrag ab, verdoppelt sich die Studiengebühr gemäss den Bestimmungen der Verordnung über die Studiengebühren an der Universität Zürich.
 
-<sup>1</sup> Es wird zwischen Anerkennung und Anrechnung von Studienleistungen unterschieden. Anerkannte Leistungen sind nicht Bestandteil des Studienabschlusses, werden aber im Academic Record aufgeführt. Angerechnete Leistungen sind Bestandteil des Studienabschlusses.
+<sup>4</sup> Anträge auf Verlängerung können mehrfach gestellt werden.
 
-<sup>2</sup> Absolvierte fakultätsfremde UZH-Module werden im Leistungsausweis ausgewiesen. Eine allfällige Anrechnung für den Studienabschluss erfolgt im Rahmen der Vorgaben der Studienordnung.
-
-<sup>3</sup> Es obliegt der oder dem Studierenden die für die Anrechnung und Anerkennung notwendigen Unterlagen beizubringen.
-
-<sup>4</sup> Sind extern oder früher erbrachte Leistungen an einen Studienabschluss angerechnet worden, können inhaltlich äquivalente Module der MNF erlassen werden. Die für den Abschluss zu erwerbende Kreditpunktezahl wird dadurch nicht reduziert, die entsprechenden Module sind zu substituieren.
+[^11-1]: Noch nicht in Kraft.
+[^11-2]: LS 415.321. 1. 7. 21 - 113 15
 
 #### § 15
 
-**Anrechnung von extern erbrachten Studienleistungen**
+**Informationspflicht**
 
-<sup>1</sup> Studienleistungen, die an einer anderen Universität, einer anderen Fakultät, in einem anderen Studienprogramm oder im Mobilitätsstudium erbracht wurden, können im Rahmen der Vorgaben der Studienordnung angerechnet werden, soweit sie zu Modulen des zu absolvierenden Studienprogramms inhaltlich äquivalent sind und nicht bereits an einen Abschluss angerechnet wurden. Über die Äquivalenz entscheidet die Prodekanin Lehre oder der Prodekan Lehre.
+<sup>1</sup> Alle studienrelevanten Informationen werden in geeigneter Weise bekannt gegeben und sind verbindlich.
 
-<sup>2</sup> Es gelten folgende weitere Rahmenbedingungen:
+<sup>2</sup> Die Studierenden sind verpflichtet, sich über sämtliche studienrelevante Belange, insbesondere über die für sie geltenden Erlasse und Fristen, selbstständig zu informieren.
 
-- a. Mindestens die Hälfte der für das Hauptfachprogramm erforderlichen ECTS Credits ist an der Mathematisch-naturwissenschaftlichen Fakultät der UZH zu erwerben.
-
-- b. Die Bachelor- bzw. Masterarbeit muss an der Fakultät absolviert werden.
-
-- c. Die Anrechnung von fakultäts- und universitätsfremden Nebenfächern ist möglich.
+### 2. Abschnitt: Module und ECTS Credits
 
 #### § 16
 
-**Anrechnung von früher erworbenen Studienleistungen**
+**Module**
 
-<sup>1</sup> Studierende sind verpflichtet, alle bisher erbrachten bestandenen und nicht bestandenen Studienleistungen bei der Anmeldung zum Studiengang zu deklarieren.
+<sup>1</sup> Ein Modul ist eine inhaltlich und zeitlich abgeschlossene Lerneinheit, die sich aus einer oder mehreren Lehrveranstaltungen zusammensetzt und sich über höchstens zwei Semester erstrecken kann.
 
-<sup>2</sup> Nach der Deklaration entscheiden die Studierenden, ob früher erbrachte Leistungen unter Berücksichtigung der Fehlversuche entweder gemäss Abs. 3 angerechnet werden oder ob auf eine Anrechnung vollständig verzichtet wird.
+<sup>2</sup> Das Absolvieren eines Moduls kann von Voraussetzungen abhängig gemacht werden.
 
-<sup>3</sup> Über die vollständige oder teilweise Anrechnung früher erworbener ECTS Credits bei einem Universitäts-, einem Fakultäts- oder einem Programmwechsel entscheidet die Prodekanin Lehre oder der Prodekan Lehre.
+<sup>3</sup> Die Zahl der Teilnehmenden eines Moduls kann beschränkt und/ oder auf eine Zielgruppe eingeschränkt werden.
 
 #### § 17
 
-**ECTS Credits für gleiche oder ähnliche Module**
+**Modulangaben im Vorlesungsverzeichnis**
 
-<sup>1</sup> Wurde ein Modul bestanden, so können für das gleiche oder ein inhaltlich ähnliches Modul keine weiteren ECTS Credits erworben werden.
-
-**5**
-
-- 1\. 7. 16 - 93
-
-<sup>2</sup> In Zweifelsfällen entscheidet die Prodekanin Lehre oder der Prodekan Lehre über die Ähnlichkeit von Modulen, insbesondere im Zusammenhang mit der Anrechnung von extern bzw. früher erworbenen Studienleistungen.
-
-### 3. Abschnitt: Leistungsnachweise und endgültige Abweisung
-
-### A. Leistungsnachweise
+Die Module und alle damit zusammenhängenden studienrelevanten Angaben werden ins Vorlesungsverzeichnis aufgenommen.
 
 #### § 18
 
-**Arten und Organisation der Leistungsnachweise**
+**Modultypen**
 
-<sup>1</sup> Die Organisation der Leistungsnachweise obliegt den Fachbereichen. Das Studiendekanat übernimmt Koordinationsaufgaben.
+Es wird unterschieden zwischen folgenden Modultypen:
 
-<sup>2</sup> Die Modulverantwortlichen sind für die Durchführung der Leistungsnachweise zuständig. Bei mündlichen Prüfungen hat eine Beisitzerin oder ein Beisitzer anwesend zu sein, die oder der einen akademischen Abschluss auf der Stufe Diplom bzw. Master oder höher besitzt. Die Beisitzerin oder der Beisitzer führt das Protokoll.
+- a. Pflichtmodule: Module, die für alle Studierenden eines Studienprogramms gemäss Studienordnung obligatorisch zu absolvieren sind,
 
-<sup>3</sup> Leistungsnachweise können insbesondere bestehen aus:
+- b. Wahlpflichtmodule: Module, die aus einem vorgegebenen Bereich im vorgegebenen Umfang gemäss Studienordnung auszuwählen sind,
 
-- mündlichen Prüfungen,
-
-- schriftlichen Prüfungen,
-
-- praktischen Prüfungen,
-
-- schriftlichen Arbeiten,
-
-- Referaten und Präsentationen,
-
-- belegter tutorieller Tätigkeit.
-
-<sup>4</sup> Details über die einzelnen Leistungsnachweise finden sich in der Studienordnung.
+- c. Wahlmodule: Module, die gemäss Studienordnung aus einem umschriebenen Bereich frei wählbar sind.
 
 #### § 19
 
-**Sprache der Leistungsnachweise**
+**Modulverantwortliche**
 
-<sup>1</sup> Die Leistungsnachweise sind in der Regel in der Sprache zu erbringen, in der das betreffende Modul durchgeführt wird.
-
-<sup>2</sup> Ausnahmen bedürfen der Zustimmung der oder des Modulverantwortlichen.
+Der Fachbereich bestimmt für sämtliche Module Modulverantwortliche, die für den Inhalt und die Organisation der Module einschliesslich Leistungsnachweis verantwortlich sind.
 
 #### § 20
 
-**Verhinderung, Abbruch oder unentschuldigtes Fernbleiben**
+**An- und Abmeldung von Modulen**
 
-<sup>1</sup> Tritt vor Beginn der Durchführung eines Leistungsnachweises ein zwingender, unvorhersehbarer und unabwendbarer Verhinderungsgrund ein oder liegt ein bewilligtes Urlaubs- oder Sistierungsgesuch vor, ist die Prodekanin Lehre oder der Prodekan Lehre zu informieren.
+<sup>1</sup> Um ein Modul absolvieren zu können, ist eine fristgerechte Buchung bzw. Anmeldung erforderlich. Die Buchung bzw. Anmeldung des Moduls ist gleichzeitig auch die Buchung bzw. Anmeldung des Leistungsnachweises.
 
-<sup>2</sup> Tritt ein solcher Verhinderungsgrund unmittelbar vor oder während der Durchführung eines Leistungsnachweises ein, so ist dies der oder dem Modulverantwortlichen mitzuteilen.
-
-<sup>3</sup> In jedem Fall ist ein schriftlich begründetes Abmeldungsgesuch spätestens fünf Arbeitstage nach dem Termin des Leistungsnachweises zusammen mit den entsprechenden Bestätigungen (z. B. Arztzeugnis) der Prodekanin Lehre oder dem Prodekan Lehre einzureichen. In Zweifelsfällen kann die Prodekanin Lehre oder der Prodekan Lehre eine Ärztin oder einen Arzt ihres bzw. seines Vertrauens beiziehen.
-
-<sup>4</sup> Über die Genehmigung eines Abmeldungsgesuchs entscheidet die Prodekanin Lehre oder der Prodekan Lehre. Wird das Gesuch um Abmeldung nicht bewilligt, gilt der Leistungsnachweis als nicht bestanden.
-
-<sup>5</sup> Bleibt eine Kandidatin oder ein Kandidat einem Leistungsnachweis unabgemeldet fern, gilt dieser als nicht bestanden.
-
-<sup>6</sup> Die verspätete Geltendmachung von Abmeldungsgründen, die sich auf einen bereits abgelegten Leistungsnachweis beziehen, ist ausgeschlossen.
+<sup>2</sup> Die Abmeldung von einem Modul ist nur innerhalb der Abmeldefrist möglich.
 
 #### § 21
 
-**Leistungsbewertung**
+**ECTS Credits**
 
-<sup>1</sup> Leistungsnachweise werden benotet oder mit «bestanden» / «nicht bestanden» bewertet. Welche Leistungsnachweise benotet werden, regelt die Studienordnung.
+<sup>1</sup> Der Umfang der Studienleistungen wird mit dem Europäischen Kreditpunktesystem (European Credit Transfer and Accumulation System, ECTS) bemessen. Ein ECTS Credit entspricht einem erwarteten mittleren studentischen Arbeitsaufwand von 30 Stunden.
 
-<sup>2</sup> Für benotete Leistungsnachweise werden Noten von 6 bis 1 vergeben, wobei 6 die höchste und 1 die niedrigste Note bezeichnet. Note 4 oder höher ist genügend. Halbnotenschritte werden bevorzugt, Viertelnoten sind zulässig.
+<sup>2</sup> Jedem Modul wird eine Anzahl von ECTS Credits (in ganzen Zahlen) zugewiesen, die dem für das erfolgreiche Absolvieren des Moduls erwarteten mittleren Arbeitsaufwand entspricht.
+
+<sup>3</sup> Für die Vergabe von ECTS Credits muss die oder der Studierende einen expliziten Leistungsnachweis bestehen. Die Vergabe von ECTS Credits auf Basis blosser Anwesenheit ist ausgeschlossen.
+
+**5**
+
+- 1\. 7. 21 - 113
+
+<sup>4</sup> Die dem Modul zugewiesene Anzahl von ECTS Credits wird immer vollständig vergeben, eine anteilige Vergabe ist nicht zulässig.
+
+### 3. Abschnitt: Leistungsnachweise, endgültige Abweisung und Sperre
+
+### A. Leistungsnachweise
 
 #### § 22
 
-**Validierung**
+**Arten der Leistungsnachweise**
 
-Die Studienkommission validiert abschliessend die Ergebnisse der Leistungsnachweise. Nach der Validierung sind die Noten gültig und werden in den Leistungsausweis aufgenommen.
+<sup>1</sup> Leistungsnachweise sind insbesondere:
+
+- mündliche, schriftliche und/oder praktische Prüfungen,
+
+- schriftliche Arbeiten,
+
+- Referate,
+
+- dokumentierte praktische Arbeit,
+
+- Portfolio-Präsentationen.
+
+<sup>2</sup> Leistungsnachweise können aus mehreren Teilen bestehen. Die Studienordnung legt fest, ob bei Teilleistungsnachweisen eine Kompensationsmöglichkeit besteht.
 
 #### § 23
 
-**Wiederholung von Leistungsnachweisen**
+**Organisation und Modalitäten der Leistungsnachweise**
 
-<sup>1</sup> Nicht bestandene Leistungsnachweise bzw. Module können einmal wiederholt werden. Wird das Modul wiederholt, kann der Leistungsnachweis nur noch einmal abgelegt werden.
+<sup>1</sup> Die Modalitäten der Erbringung eines bestimmten Leistungsnachweises werden für alle Studierenden einheitlich festgelegt. Die Studienordnung kann besondere Regelungen für bestimmte Kategorien von Studierenden vorsehen.
 
-<sup>2</sup> Ein bestandenes Modul kann nicht wiederholt werden.
-
-<sup>3</sup> Während des gesamten Bachelorstudiums kann ein einziges Pflichtmodul auf Gesuch hin nach nicht bestandener Repetition ein zweites Mal wiederholt werden. Dies gilt nicht für die Bachelorarbeit und für Module, die im Rahmen von Auflagen und Bedingungen zu erbringen sind.
-
-<sup>4</sup> Ist ein Pflichtmodul endgültig nicht bestanden, kann das Studium in jenen Studienprogrammen nicht fortgesetzt bzw. aufgenommen werden, bei denen dieses Modul ein Pflichtmodul ist.
-
-**7**
-
-- 1\. 7. 16 - 93
-
-<sup>5</sup> Ist ein Wahlpflichtmodul nach der zulässigen Repetition nicht bestanden, kann es einmal durch ein anderes Modul aus derselben Gruppe substituiert werden, wiederum mit der Möglichkeit einer einmaligen Repetition. Ist die Substitution (aufgrund von Nichtbestehen von Leistungsnachweisen) fehlgeschlagen, gilt das Wahlpflichtmodul als endgültig nicht bestanden.
-
-<sup>6</sup> Wahlmodule können unbeschränkt substituiert werden.
+<sup>2</sup> Bei Leistungsnachweisen in Form einer mündlichen Prüfung ist eine Beisitzerin oder ein Beisitzer anwesend, die oder der über einen Studienabschluss mindestens auf Masterstufe verfügt. Es ist ein Protokoll zu führen.
 
 #### § 24
 
-**Unlauteres Verhalten bei der Erbringung von Leistungsnachweisen**
+**Verhinderung, Abbruch, unentschuldigtes Fernbleiben**
 
-<sup>1</sup> Bei Betrugshandlungen oder Unredlichkeiten, insbesondere wenn jemand die Zulassung zum Leistungsnachweis durch unrichtige oder unvollständige Angaben erwirkt hat, beim Erbringen eines Leistungsnachweises unerlaubte Hilfsmittel verwendet, unerlaubterweise mit Dritten kommuniziert oder eine Klausurarbeit oder schriftliche Arbeit nicht selbstständig verfasst, erklärt die Prodekanin Lehre oder der Prodekan Lehre den Leistungsnachweis als nicht bestanden oder einen ausgestellten Ausweis als ungültig. Bereits ausgestellte Dokumente werden eingezogen.
+<sup>1</sup> Tritt vor Beginn der Durchführung eines Leistungsnachweises ein zwingender, unvorhersehbarer und unabwendbarer Verhinderungsgrund ein oder liegt ein bewilligtes Urlaubs- oder Sistierungsgesuch vor, ist dies dem Studiendekanat mitzuteilen.
 
-<sup>2</sup> Die Prodekanin Lehre oder der Prodekan Lehre beschliesst, ob ein Disziplinarverfahren beantragt werden soll.
+<sup>2</sup> Tritt ein solcher Verhinderungsgrund unmittelbar vor oder während der Durchführung eines Leistungsnachweises ein, ist dies der oder dem Modulverantwortlichen mitzuteilen.
 
-<sup>3</sup> Stellt sich nach Verleihung eines Titels heraus, dass ein unlauteres Verhalten im Sinne von Abs. 1 vorliegt, wird dieser durch die Fakultätsversammlung aberkannt. Allfällig ausgestellte Dokumente werden eingezogen.
+<sup>3</sup> Die nachträgliche Geltendmachung von Verhinderungsgründen, die sich auf einen bereits abgelegten Leistungsnachweis beziehen, ist grundsätzlich ausgeschlossen.
 
 #### § 25
 
-**Leistungsausweis (Transcript of Records)**
+**Verfahren bei Verhinderung, Abbruch, unentschuldigtem Fernbleiben**
 
-Nach Abschluss eines Semesters erhalten die Studierenden einen Leistungsausweis (Transcript of Records) über die bisher erbrachten Studienleistungen. Dieser enthält eine Aufstellung über alle bisher absolvierten Module mit den dafür vergebenen ECTS Credits und, soweit vorhanden, den Noten. Er weist die bestandenen und nicht bestandenen Module aus. Bei Leistungen, die nicht an der UZH erbracht worden sind, wird zusätzlich angegeben, an welcher Universität die Leistungsüberprüfung stattgefunden hat.
+<sup>1</sup> In jedem Fall ist ein schriftlich begründetes Abmeldungsgesuch spätestens fünf Arbeitstage nach dem Termin des Leistungsnachweises zusammen mit den entsprechenden Bestätigungen (z.B. Arztzeugnis) beim Studiendekanat einzureichen.
 
-### B. Endgültige Abweisung und Sperren
+<sup>2</sup> Bei Leistungsnachweisen, die sich über einen längeren Zeitraum erstrecken (insbesondere schriftliche Arbeiten), kann vor Ablauf der Abgabefrist ein Gesuch um Fristverlängerung gestellt werden.
+
+<sup>3</sup> Die Studiendekanin oder der Studiendekan entscheidet über die Bewilligung des Gesuchs. Wird das Gesuch nicht bewilligt, gilt der Leistungsnachweis als nicht bestanden.
+
+<sup>4</sup> In Zweifelsfällen kann die Studiendekanin bzw. der Studiendekan eine Vertrauensärztin bzw. einen Vertrauensarzt einbeziehen.
+
+<sup>5</sup> Bleibt eine Kandidatin oder ein Kandidat einem Leistungsnachweis ohne Abmeldung fern oder reicht sie oder er ein Gesuch verspätet ein, gilt der Leistungsnachweis als nicht bestanden.
 
 #### § 26
 
-**Endgültige Abweisung**
+**Leistungsbewertung**
 
-<sup>1</sup> Wer ein Modul gemäss § 23 definitiv nicht bestanden hat, wird vom betreffenden Studienprogramm mittels schriftlicher Verfügung der Prodekanin Lehre oder des Prodekans Lehre endgültig abgewiesen.
+<sup>1</sup> Leistungsnachweise werden entweder benotet oder mit «bestanden» / «nicht bestanden» bewertet.
 
-<sup>2</sup> Wer die maximale Studienzeit gemäss § 42 überschritten hat, wird vom betreffenden Studiengang mittels schriftlicher Verfügung der Prodekanin Lehre oder des Prodekans Lehre endgültig abgewiesen.
+<sup>2</sup> Die Benotung der Leistungsnachweise erfolgt auf einer Skala von 1 bis 6, wobei 6 die beste und 1 die schlechteste Note bezeichnet. Grundsätzlich erfolgt die Benotung in Halbnotenschritten, Viertelnoten sind zulässig.
 
-<sup>3</sup> Wer ein Pflichtmodul definitiv nicht bestanden hat, wird für alle Studienprogramme gesperrt, welche ein gleiches oder inhaltlich vergleichbares Modul als Pflichtmodul enthalten.
-
-<sup>4</sup> Wer ein Wahlpflichtmodul definitiv nicht bestanden hat, wird für alle Studienprogramme gesperrt, welche ein gleiches oder vergleichbares Modul als Pflichtmodul oder die gleiche Wahlpflichtmodulgruppe enthalten.
-
-<sup>5</sup> Die endgültige Abweisung gilt auf allen Studienstufen als Zulassungshindernis im Sinne von § 6.
-
-### 4. Abschnitt: Studiengänge
-
-### A. Bachelorstudiengang
+<sup>3</sup> Der Leistungsnachweis gilt als bestanden, wenn mindestens die Note 4 erreicht wurde.
 
 #### § 27
 
-**Studienziele**
+**Wiederholung von Modulen allgemein**
 
-<sup>1</sup> Der Bachelorstudiengang vermittelt den Studierenden Grundlagenwissen und die Fähigkeit zu methodisch-wissenschaftlichem Denken.
+<sup>1</sup> Die Studienordnung bestimmt die Wiederholungsmodalitäten und legt insbesondere fest, in welchen Fällen das ganze Modul wiederholt werden muss.
 
-<sup>2</sup> Die Qualifikationsziele der verschiedenen Studienprogramme sind in der Studienordnung beschrieben.
+<sup>2</sup> Für die Teilnahme an einer Wiederholung des Moduls oder des Leistungsnachweises ist eine verbindliche Buchung bzw. Anmeldung erforderlich.
+
+<sup>3</sup> Ein bestandenes oder definitiv nicht bestandenes Modul kann nicht wiederholt oder erneut absolviert werden, auch nicht im Rahmen eines anderen Studienprogramms.
+
+<sup>4</sup> Es besteht kein Anspruch auf unmittelbare Wiederholung.
 
 #### § 28
 
-**Strukturierung des Bachelorstudiengangs**
+**Wiederholung von Pflichtmodulen**
 
-<sup>1</sup> Der Bachelorstudiengang umfasst 180 ECTS Credits. Bei einem Vollzeitstudium entspricht dies einer Studiendauer von sechs Semestern.
+<sup>1</sup> Ein nicht bestandenes Pflichtmodul kann einmal wiederholt werden. Eine Substitution ist nicht möglich.
 
-<sup>2</sup> Der Umfang des Hauptfachprogramms im Bachelorstudiengang beträgt 180, 150 oder 120 ECTS Credits. Der Umfang eines Nebenfachprogramms im Bachelorstudiengang beträgt 30 oder 60 ECTS Credits.
-
-<sup>3</sup> Innerhalb des Studiengangs können die Studienprogramme kombiniert werden. Die Studienordnung kann Einschränkungen der Kombinationsmöglichkeiten vorsehen.
+<sup>2</sup> Wurden alle Wiederholungsmöglichkeiten erfolglos ausgeschöpft, gilt das Pflichtmodul als definitiv nicht bestanden. Es erfolgt eine endgültige Abweisung nach § 33 und Sperre nach § 34.
 
 #### § 29
 
-**Bachelorarbeit/ Bachelorportfolio**
+**Wiederholung von Wahlpflicht- und Wahlmodulen**
 
-<sup>1</sup> Während des Bachelorstudiengangs ist eine Bachelorarbeit im Umfang von mindestens 6 bis höchstens 12 ECTS Credits im Hauptfachprogramm zu verfassen bzw. ein Bachelorportfolio von mindestens 6 ECTS Credits nachzuweisen.
+<sup>1</sup> Ein nicht bestandenes Wahlpflicht- oder Wahlmodul kann einmal wiederholt werden, sofern das Modul erneut angeboten wird.
 
-<sup>2</sup> Die Bachelorarbeit bzw. das Bachelorportfolio ist in deutscher oder englischer Sprache abzufassen. Nach Rücksprache mit der Betreuerin oder dem Betreuer ist auch Französisch oder Italienisch möglich.
+<sup>2</sup> Substitutionen sind im Rahmen des in der Studienordnung definierten Bereichs möglich.
 
-<sup>3</sup> Die Wiederholung einer ungenügenden Bachelorarbeit bzw. eines ungenügenden Bachelorportfolios richtet sich nach § 23.
+**7**
 
-**9**
+- 1\. 7. 21 - 113 § 30. <sup>1</sup> Unlauteres Verhalten liegt bei der Vornahme von Betrugshandlungen oder Unredlichkeiten vor. Dazu gehören insbesondere das Mitbringen oder die Verwendung unerlaubter Hilfsmittel, die unerlaubte Kommunikation mit Dritten, das Einreichen eines Plagiats oder einer schriftlichen Prüfung oder Arbeit, die nicht selbstständig verfasst wurde.
 
-- 1\. 7. 16 - 93
+**Unlauteres Verhalten**
 
-<sup>4</sup> Die Studienordnung regelt die Einzelheiten, insbesondere die Ausarbeitungsmodalitäten, die Betreuung, Begutachtung und Benotung der Bachelorarbeit bzw. des Bachelorportfolios.
+<sup>2</sup> Liegt unlauteres Verhalten gemäss Abs. 1 vor, erklärt die Studiendekanin oder der Studiendekan den Leistungsnachweis für nicht bestanden und einen ausgestellten Leistungsausweis für ungültig. Bereits verliehene Grade werden durch die Studiendekanin oder den Studiendekan aberkannt. Sämtliche Dokumente, die nach dem unlauteren Verhalten ausgestellt wurden, werden eingezogen.
 
-#### § 30
+<sup>3</sup> Die Studiendekanin oder der Studiendekan beschliesst, ob ein Disziplinarverfahren beantragt wird.
 
-**Verleihung des Bachelortitels**
-
-Der Bachelortitel wird verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnung 180 ECTS Credits erworben worden sind, davon muss mindestens die Hälfte der ECTS Credits des Hauptfachprogramms an der Mathematisch-naturwissenschaftlichen Fakultät der UZH erbracht worden sein.
-
-### B. Masterstudiengang
+<sup>4</sup> Zur Verhinderung unlauteren Verhaltens kann die Studiendekanin oder der Studiendekan vorgängig geeignete Massnahmen treffen.
 
 #### § 31
 
-**Studienziele**
+**Akteneinsicht in Prüfungsunterlagen**
 
-<sup>1</sup> Die Masterstudiengänge vermitteln den Studierenden vertiefte fachliche Kenntnisse und die Fähigkeit zum selbstständigen wissenschaftlichen Arbeiten.
-
-<sup>2</sup> Die Qualifikationsziele der verschiedenen Studienprogramme sind in der Studienordnung beschrieben.
+Zur Sicherstellung der Geheimhaltung der Prüfungsfragen können die Herausgabe der Prüfungsunterlagen eingeschränkt oder verweigert, die Herstellung von Kopien oder Abschriften untersagt und die Dauer der Einsichtnahme beschränkt werden.
 
 #### § 32
 
-**Übertritt von der Bachelor- in die Masterstufe**
+**Leistungsausweis**
 
-Einzelheiten sind in der Studienordnung der Mathematischnaturwissenschaftlichen Fakultät geregelt.
+<sup>1</sup> Nach Abschluss eines Semesters werden die bestandenen und nicht bestandenen Module in einem Leistungsausweis dokumentiert. Studienleistungen, die nicht an der UZH erbracht worden sind, werden gekennzeichnet.
+
+<sup>2</sup> Der Leistungsausweis wird in deutscher Sprache ausgestellt. Es wird eine englische Übersetzung abgegeben.
+
+### B. Endgültige Abweisung und Sperre
 
 #### § 33
 
-**Zulassung zum Masterstudiengang**
+**Endgültige Abweisung**
 
-<sup>1</sup> Die Zulassung zu einem Masterhauptfachprogramm setzt grundsätzlich ein abgeschlossenes Bachelorhauptfachprogramm einer universitären Hochschule in der gleichen oder einer vergleichbaren Studienrichtung im Umfang von mindestens 120 ECTS Credits voraus.
-
-<sup>2</sup> Für die Zulassung von Bachelorabsolventinnen und -absolventen einer schweizerischen Fachhochschule gelten die Bestimmungen der Vereinbarung der Hochschulrektorenkonferenzen über die Durchlässigkeit zwischen den Hochschultypen sowie der zugehörigen Konkordanzliste. Einzelheiten regelt die Studienordnung.
-
-<sup>3</sup> Für die Zulassung zu spezialisierten Masterprogrammen können weitere Anforderungen definiert werden.
+Ist ein Pflichtmodul nach § 28 definitiv nicht bestanden, verfügt die Studiendekanin oder der Studiendekan eine endgültige Abweisung von dem entsprechenden Studienprogramm.
 
 #### § 34
 
-**Zulassung mit Bedingungen und Auflagen**
+**Sperre**
 
-<sup>1</sup> Von Inhaberinnen und Inhabern eines Bachelordiploms in einer anderen Studienrichtung oder einer nicht schweizerischen Universität oder von Absolventinnen und Absolventen von Fachhochschulen kann vor der definitiven Zulassung der Erwerb zusätzlicher Kenntnisse und Fähigkeiten verlangt werden (Zulassung mit Bedingungen).
+Eine endgültige Abweisung von dem Studienprogramm nach § 33 bewirkt eine Sperre auf allen Studienstufen für das betreffende Studienprogramm und alle nach Massgabe der Fakultät ähnlichen Studienprogramme an der UZH.
 
-<sup>2</sup> In allen Fällen kann der Abschluss des Masterstudiums vom Nachweis weiterer Kenntnisse und Fähigkeiten abhängig gemacht werden, die im absolvierten Bachelorstudium nicht erworben wurden (Zulassung mit Auflagen).
+### 4. Abschnitt: Studiengänge
 
-<sup>3</sup> Die Bedingungen und Auflagen dürfen 60 ECTS Credits insgesamt nicht übersteigen.
+### A. Bachelorstudiengänge
 
 #### § 35
 
-**Strukturierung der Masterstudiengänge**
+**Studienziele**
 
-<sup>1</sup> Ein Masterstudiengang umfasst 90 oder 120 ECTS Credits. Bei einem Vollzeitstudium entspricht dies einer Studiendauer von drei bzw. vier Semestern.
-
-<sup>2</sup> Der Umfang des Hauptfachprogramms im Masterstudiengang beträgt 90 oder 120 ECTS Credits. Der Umfang eines Nebenfachprogramms im Masterstudiengang beträgt 30 ECTS Credits.
-
-<sup>3</sup> Innerhalb eines Studiengangs können die Studienprogramme wie folgt kombiniert werden:
-
-- a. Hauptfachprogramm 120 ECTS Credits
-
-- b. Hauptfachprogramm 90 ECTS Credits
-
-- c. Hauptfachprogramm 90 ECTS Credits und Masternebenfachprogramm 30 ECTS Credits
-
-<sup>4</sup> Die Studienordnung konkretisiert die möglichen Kombinationen der Studienprogramme.
+Die Bachelorstudiengänge vermitteln den Studierenden Grundlagenwissen und die Fähigkeit zu methodisch-wissenschaftlichem Denken.
 
 #### § 36
 
-**Masterarbeit**
+**Strukturierung des Bachelorstudiengangs**
 
-<sup>1</sup> Während des Masterstudiengangs ist eine genügend benotete Masterarbeit (Pflichtmodul) im Umfang von mindestens 30 bis höchstens 60 ECTS Credits im Hauptfachprogramm zu verfassen. Einzelheiten regelt die Studienordnung.
+<sup>1</sup> Ein Bachelorstudiengang umfasst 180 ECTS Credits. Bei einem Vollzeitstudium entspricht dies einer Regelstudienzeit von sechs Semestern.
 
-<sup>2</sup> Die Betreuung der Masterarbeit ist in der Studienordnung geregelt.
+<sup>2</sup> Innerhalb des Bachelorstudiengangs sind folgende Umfänge und Kombinationen möglich:
 
-<sup>3</sup> Für besonders gute Masterarbeiten kann auf Antrag an die Prodekanin Lehre oder den Prodekan Lehre eine Auszeichnung verliehen werden. Die Details zur Auszeichnung von Masterarbeiten werden in der Studienordnung geregelt.
+- Mono-Studienprogramm im Umfang von 180 ECTS Credits,
 
-<sup>4</sup> Die Masterarbeit ist in deutscher oder englischer Sprache abzufassen. Nach Rücksprache mit der Betreuerin oder dem Betreuer ist auch Französisch oder Italienisch möglich.
+- Major-Studienprogramm im Umfang von 150 ECTS Credits in Kombination mit einem Minor-Studienprogramm im Umfang von 30 ECTS Credits,
 
-<sup>5</sup> Wird eine Masterarbeit mit einer ungenügenden Note bewertet, so kann einmal eine weitere Arbeit zu einem neuen Thema verfasst werden. Wenn auch die zweite Masterarbeit ungenügend ist, erfolgt eine endgültige Abweisung aus dem Masterprogramm.
+- Major-Studienprogramm im Umfang von 120 ECTS Credits in Kombination mit einem Minor-Studienprogramm im Umfang von 60 ECTS Credits,
+
+- Major-Studienprogramm im Umfang von 150 ECTS Credits in Kombination mit einer Liberal Arts Option im Umfang von 30 ECTS Credits,
+
+- Major-Studienprogramm im Umfang von 120 ECTS Credits in Kombination mit einer Liberal Arts Option im Umfang von 60 ECTS Credits.
+
+<sup>3</sup> Die Studienordnung legt das Angebot und die Kombinationsmöglichkeiten sowie mögliche Schwerpunkte der Studienprogramme fest.
 
 #### § 37
 
-**Verleihung des Mastertitels**
+**Bachelorarbeit und Bachelorportfolio**
 
-Der Mastertitel wird verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnung 90 bzw. 120 ECTS Credits erworben worden sind, davon muss mindestens die Hälfte der ECTS Credits für das Hauptfachprogramm an der Mathematisch-naturwissenschaftlichen Fakultät der UZH erbracht worden sein.
+<sup>1</sup> Die Studienordnung legt fest, ob im Mono- bzw. Major-Studienprogramm des Bachelorstudiengangs eine Bachelorarbeit bzw. ein Bachelorportfolio zu verfassen ist.
 
-**11**
+<sup>2</sup> Ist eine Bachelorarbeit bzw. ein Bachelorportfolio vorgesehen, ist sie bzw. es im Umfang von 6 bis 12 ECTS Credits zu verfassen. Die Bachelorarbeit bzw. das Bachelorportfolio gilt als Pflichtmodul und wird benotet.
 
-- 1\. 7. 16 - 93
+<sup>3</sup> Die Bachelorarbeit bzw. das Bachelorportfolio ist in deutscher oder englischer Sprache abzufassen. Die Studienordnung kann Ausnahmen vorsehen.
 
-### C. Nebenfachprogramme für Studierende anderer Fakultäten
+<sup>4</sup> Die Wiederholung einer ungenügenden Bachelorarbeit bzw. eines ungenügenden Bachelorportfolios richtet sich nach § 27.
+
+**9**
+
+- 1\. 7. 21 - 113
+
+<sup>5</sup> Die Studienordnung regelt die Einzelheiten, insbesondere die Ausarbeitungsmodalitäten, Betreuung, Begutachtung und die Überarbeitungsmöglichkeiten der Bachelorarbeit bzw. des Bachelorportfolios.
 
 #### § 38
 
-**Angebot**
+**Vorziehen von Mastermodulen**
 
-Die Nebenfachprogramme der MNF stehen den Studierenden anderer Fakultäten grundsätzlich offen. Einschränkungen sind in der Studienordnung geregelt.
+Bachelorstudierende, die mindestens 120 ECTS Credits erworben haben, können Mastermodule im Umfang von insgesamt 30 ECTS Credits vorziehen. Mit der Masterarbeit darf erst im Masterstudiengang begonnen werden.
+
+### B. Masterstudiengänge
 
 #### § 39
 
-**Anwendbares Recht**
+**Studienziele**
 
-<sup>1</sup> Auf die Zulässigkeit eines Nebenfachprogramms an einer anderen Fakultät und die Nebenfachprogrammgrösse findet das Recht derjenigen Fakultät Anwendung, an welcher das Hauptfachstudienprogramm belegt wird.
+Die Masterstudiengänge vermitteln den Studierenden vertiefte fachliche Kenntnisse und die Fähigkeit zum selbstständigen wissenschaftlichen und praktischen Arbeiten.
 
-<sup>2</sup> In allen Bereichen, welche die Zulassung zu den Studienprogrammen, die Durchführung der Studienprogramme und deren Abschluss betreffen, ist das Recht der nebenfachanbietenden Fakultät anwendbar.
-
-### D. Studienabschluss
+[^39-1]: LS 415.31.
 
 #### § 40
 
-**Anmeldung zum Studienabschluss**
+**Konsekutive und spezialisierte Masterstudienprogramme**
 
-<sup>1</sup> Die Bewerbung für die Erteilung eines Diploms (Bachelor- oder Mastergrad) ist von der Studierenden bzw. dem Studierenden einzureichen. Das Studiendekanat prüft, ob alle Bedingungen erfüllt sind. Die Studienkommission beschliesst über die Abschlüsse.
+<sup>1</sup> Die Studienprogramme der Masterstufe sind entweder konsekutiv oder spezialisiert. Es gelten die entsprechenden Bestimmungen der VZS[^39-1].
 
-<sup>2</sup> Die Anmeldung zum Abschluss kann frühestens für das Semester vorgenommen werden, nach dessen Abschluss bei Erbringen aller erforderlichen Leistungsnachweise die Bedingungen der Studienordnung erfüllt sind.
+<sup>2</sup> Die Studienordnung regelt die spezifischen Zulassungsvoraussetzungen der spezialisierten Masterstudienprogramme.
 
 #### § 41
 
-**Anrechnung von Modulen an den Studienabschluss**
+**Strukturierung der Masterstudiengänge**
 
-<sup>1</sup> In jedem Studienprogramm können Studienleistungen im Umfang von maximal 10 ECTS Credits über die von der jeweiligen Studienordnung geforderten Studienleistungen hinaus an den Abschluss angerechnet werden.
+<sup>1</sup> Ein Masterstudiengang umfasst entweder 90 oder 120 ECTS Credits. Bei einem Vollzeitstudium entspricht dies einer Studienzeit von drei bzw. vier Semestern.
 
-<sup>2</sup> Für die Anrechnung werden die absolvierten Module grundsätzlich in chronologisch aufsteigender Reihenfolge oder unter dem Aspekt des fachlichen Bezugs berücksichtigt.
+<sup>2</sup> Innerhalb der Masterstudiengänge sind folgende Umfänge und Kombinationen möglich:
 
-<sup>3</sup> Wenn nicht alle Module berücksichtigt werden können, werden bei Modulen, die im gleichen Semester absolviert wurden, die von den Studierenden bezeichneten Module an den Abschluss angerechnet. Einzelheiten regelt die Studienordnung.
+- Mono-Studienprogramm im Umfang von 120 ECTS Credits oder 90 ECTS Credits,
 
-<sup>4</sup> Darüber hinaus erbrachte Studienleistungen werden im Academic Record als «nicht an den Abschluss angerechnete Leistungen» ausgewiesen.
+- Major-Studienprogramm im Umfang von 90 ECTS Credits in Kombination mit einem Minor-Studienprogramm im Umfang von 30 ECTS Credits,
+
+- Major-Studienprogramm im Umfang von 90 ECTS Credits in Kombination mit einer Liberal Arts Option im Umfang von 30 ECTS Credits.
+
+<sup>3</sup> Die Studienordnung legt das Angebot und die Kombinationsmöglichkeiten sowie die möglichen Schwerpunkte der Studienprogramme fest.
+
+<sup>4</sup> Fast-Track-Studienprogramme werden in der Studienordnung geregelt.
 
 #### § 42
 
-**Studienzeitbeschränkung**
+**Masterarbeit**
 
-<sup>1</sup> Die maximale Studienzeit für das Bachelor- bzw. das Masterstudium beträgt das Doppelte der Richtstudienzeit, vom Beginn des jeweiligen Studienprogramms an gerechnet.
+<sup>1</sup> Während des Masterstudiengangs ist im Mono- oder im Major-Studienprogramm eine Masterarbeit im Umfang von 30 bis höchstens 60 ECTS Credits zu verfassen. Die Masterarbeit gilt als Pflichtmodul und wird benotet.
 
-<sup>2</sup> Die Prodekanin Lehre oder der Prodekan Lehre kann auf begründetes Gesuch hin längere Studienzeiten bewilligen.
+<sup>2</sup> Die Masterarbeit ist in der Regel in englischer Sprache zu verfassen. Die Studienordnung kann Ausnahmen vorsehen.
+
+<sup>3</sup> Die Wiederholung einer ungenügenden Masterarbeit richtet sich nach § 27.
+
+<sup>4</sup> Die Studienordnung regelt die Einzelheiten, insbesondere die Ausarbeitungsmodalitäten, Betreuung, Begutachtung und die Überarbeitungsmöglichkeiten der Masterarbeit.
+
+<sup>5</sup> Für besonders gute Masterarbeiten kann auf Antrag der Betreuerin oder des Betreuers der Masterarbeit in Absprache mit der Studienprogrammdirektorin oder dem Studienprogrammdirektor an die Studiendekanin oder den Studiendekan eine Auszeichnung vergeben werden. Die Details zur Auszeichnung von Masterarbeiten werden in der Studienordnung geregelt.
+
+### C. Anerkennung und Anrechnung
 
 #### § 43
 
-**Gewichtete Gesamtnoteund Auszeichnungen**
+**Anerkennung und Anrechnung allgemein**
 
-<sup>1</sup> Der Abschluss wird mit einer gewichteten Gesamtnote bewertet. Die benoteten Module fliessen mit dem Gewicht ihrer ECTS Credits in die jeweilige Studienprogrammnote ein, die Studienprogrammnoten mit dem Gewicht der fixen Programmgrössen in die gewichtete Gesamtnote. Sowohl die Studienprogrammnoten als auch die gewichtete Gesamtnote werden mit ungerundeten Ausgangswerten berechnet.
+<sup>1</sup> Die Anerkennung ist der Ausweis erbrachter Studienleistungen im Leistungsausweis.
 
-<sup>2</sup> Die Berechnung allfälliger Studienprogrammnoten und die der gewichteten Gesamtnote erfolgt exakt, das Ergebnis wird auf eine Nachkommastelle gerundet.
+<sup>2</sup> Die Anrechnung ist die Zuordnung anerkannter Studienleistungen zu den im Rahmen eines Studienprogramms zu erbringenden Studienleistungen. Sie erfolgt nach der Anmeldung zum Studienabschluss mit der Aufnahme in den Academic Record (Abschlusszeugnis).
 
-<sup>3</sup> Die Notenskala reicht von 1 bis 6, wobei 6 die höchste und 1 die geringste Note bezeichnet. Note 4 oder höher ist genügend.
+<sup>3</sup> Es obliegt den Studierenden, die für die Anrechnung notwendigen Unterlagen beizubringen.
 
-<sup>4</sup> Für Bachelorabschlüsse mit einer Gesamtnote von 5,8 oder höher wird eine Auszeichnung verliehen.
+#### § 44
 
-<sup>5</sup> Für besonders gute Masterarbeiten kann auf Antrag an die Prodekanin Lehre oder den Prodekan Lehre eine Auszeichnung verliehen werden. Die Details zur Auszeichnung von Masterarbeiten werden in der Studienordnung geregelt.
+**Anerkennung von Studienleistungen**
+
+<sup>1</sup> Die Anerkennung von an der UZH erbrachten und in ECTS Credits dokumentierten Studienleistungen erfolgt automatisch.
+
+<sup>2</sup> Die Anerkennung einer nicht an der UZH erbrachten Studienleistung erfolgt, wenn a. sie äquivalent zu der an der UZH zu erbringenden Studienleistung ist,
+
+- b. sie nicht bereits an einen Studienabschluss angerechnet worden ist,
+
+- c. es sich nicht um die Bachelor- bzw. Masterarbeit handelt.
+
+<sup>3</sup> Über die Anerkennung entscheidet die Studiendekanin oder der Studiendekan.
+
+**11**
+
+- 1\. 7. 21 - 113 § 45. <sup>1</sup> Anerkannte Studienleistungen sind anrechenbar, wenn
+
+**Anrechnung an den Studienabschluss**
+
+- a. sie gemäss Studienordnung an ein Studienprogramm anrechenbar sind,
+
+- b. sie äquivalent zu Studienleistungen gemäss lit. a sind.
+
+<sup>2</sup> Nicht anrechenbare Studienleistungen können anerkannt werden.
+
+<sup>3</sup> Vor der Erbringung externer Studienleistungen ist eine Anrechnungsvereinbarung abzuschliessen, sofern nicht Anrechnungsvereinbarungen mit anderen Hochschulen bestehen.
+
+<sup>4</sup> Über die Anrechnung entscheidet die Studiendekanin oder der Studiendekan.
+
+#### § 46
+
+**Anrechnung von gleichen oder ähnlichen Modulen**
+
+Gleiche oder inhaltlich ähnliche Module bzw. Studienleistungen können nicht mehrfach angerechnet werden. Über die Ähnlichkeit entscheidet die Studiendekanin oder der Studiendekan.
+
+#### § 47
+
+**Überzählige Module**
+
+<sup>1</sup> In jedem Studienprogramm können Module im Umfang von höchstens 10 ECTS Credits über die von der jeweiligen Studienordnung vorgegebenen Studienleistungen hinaus an den Studienabschluss angerechnet werden.
+
+<sup>2</sup> Für die Anrechnung werden die absolvierten Module in chronologisch aufsteigender Reihenfolge berücksichtigt.
+
+<sup>3</sup> Wenn gemäss Abs. 2 nicht alle Module angerechnet werden können, werden bei Modulen, die im gleichen Semester absolviert wurden, die von den Studierenden bezeichneten Module an den Studienabschluss angerechnet.
+
+<sup>4</sup> Nicht angerechnete Module werden im Academic Record ausgewiesen.
+
+### D. Studienabschluss
+
+#### § 48
+
+**Anmeldung zum Studienabschluss**
+
+<sup>1</sup> Die Anmeldung zum Bachelorabschluss ist von den Studierenden beim Studiendekanat einzureichen. Das Studiendekanat prüft, ob alle Voraussetzungen für den Studienabschluss erfüllt sind.
+
+<sup>2</sup> Die Anmeldung zum Masterabschluss ist von den Fachbereichskoordinatorinnen oder Fachbereichskordinatoren beim Studiendekanat einzureichen. Das Studiendekanat prüft, ob alle Voraussetzungen für den Studienabschluss erfüllt sind.
+
+<sup>3</sup> Die Anmeldung zum Studienabschluss kann frühestens für dasjenige Semester vorgenommen werden, nach dessen Ende alle gemäss Rahmenverordnung und Studienordnung erforderlichen Voraussetzungen erfüllt sind.
+
+#### § 49
+
+**Verleihung des Bachelorgrades**
+
+<sup>1</sup> Der Bachelorgrad wird durch die Fakultät verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnung 180 ECTS Credits erworben worden sind. Davon muss mindestens die Hälfte der für das Mono- bzw. Majorstudienprogramm erforderlichen Studienleistungen (in ECTS Credits) an der Mathematisch-naturwissenschaftlichen Fakultät der UZH erbracht worden sein.
+
+<sup>2</sup> Die Verleihung des Grades erfolgt durch die Aushändigung der unterzeichneten Diplomurkunde.
+
+#### § 50
+
+**Verleihung des Mastergrades**
+
+<sup>1</sup> Der Mastergrad wird durch die Fakultät verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnung 90 bzw.
+
+120 ECTS Credits erworben worden sind. Davon muss mindestens die Hälfte der für das Mono- bzw. Majorstudienprogramm erforderlichen Studienleistungen (in ECTS Credits) an der Mathematisch-naturwissenschaftlichen Fakultät der UZH erbracht worden sein.
+
+<sup>2</sup> Die Verleihung des Grades erfolgt durch die Aushändigung der unterzeichneten Diplomurkunde.
+
+#### § 51
+
+**Validierung**
+
+Die Fakultät validiert die Abschlüsse. Sie kann die Validierung an die Studienkommission delegieren.
+
+#### § 52
+
+**Gewichtete Gesamtnote**
+
+<sup>1</sup> Der Studienabschluss wird mit einer gewichteten Gesamtnote bewertet. Die benoteten Module fliessen mit dem Gewicht ihrer ECTS Credits in das jeweilige Studienprogramm ein, die Studienprogrammnoten mit dem Gewicht der fixen Studienprogrammgrössen in die gewichtete Gesamtnote. Sowohl die Studienprogrammnoten als auch die gewichtete Gesamtnote werden mit ungerundeten Ausgangswerten berechnet.
+
+<sup>2</sup> Die Berechnung allfälliger Studienprogrammnoten als auch die der gewichteten Gesamtnote erfolgt exakt, das Ergebnis wird auf eine Nachkommastelle gerundet.
+
+<sup>3</sup> Die Notenskala reicht von 1 bis 6, wobei 6 die beste und 1 die schlechteste Note bezeichnet. Note 4 oder höher ist für einen erfolgreichen Studienabschluss ausreichend.
 
 ### E. Abschlussdokumente
 
-#### § 44
+#### § 53
 
 **Abschlussdokumente**
 
 Die Absolventinnen und Absolventen erhalten folgende Abschlussdokumente: die Diplomurkunde, das Diploma Supplement und den Academic Record (Abschlusszeugnis).
 
-#### § 45
+**13**
+
+- 1\. 7. 21 - 113 § 54. <sup>1</sup> Die Diplomurkunde trägt das Siegel der Universität und der Fakultät sowie die Unterschrift der Rektorin oder des Rektors der UZH sowie der Dekanin oder des Dekans der Fakultät.
 
 **Diplomurkunde**
 
-<sup>1</sup> Die Diplomurkunde trägt das Siegel der Universität und der Fakultät sowie die Unterschrift der Rektorin bzw. des Rektors der Universität Zürich sowie der Dekanin oder des Dekans der Fakultät.
+<sup>2</sup> Die Diplomurkunde weist die gewichtete Gesamtnote und, soweit vorhanden, die Studienprogrammnoten aus.
 
-<sup>2</sup> Die Diplomurkunde weist die gewichtete Gesamtnote und, soweit vorhanden, die Noten je Studienprogramm aus.
+<sup>3</sup> Die Diplomurkunde wird in deutscher Sprache ausgefertigt. Mit der Diplomurkunde wird eine englische Übersetzung abgegeben.
 
-<sup>3</sup> Die Urkunde wird in deutscher Sprache ausgefertigt. Mit der Urkunde wird eine englische Übersetzung abgegeben.
-
-#### § 46
+#### § 55
 
 **Diploma Supplement**
 
-Das Diploma Supplement enthält eine standardisierte Erläuterung zum Studienabschluss. Es wird in deutscher und englischer Sprache ausgestellt.
+Das Diploma Supplement ist eine standardisierte Erläuterung des Studienabschlusses. Es wird in deutscher und englischer Sprache ausgestellt.
 
-**13**
-
-- 1\. 7. 16 - 93 § 47. <sup>1</sup> Im Academic Record (Abschlusszeugnis) werden alle an den Abschluss angerechneten sowie die anerkannten, aber nicht an den Abschluss angerechneten Leistungen mit der jeweiligen Bewertung ausgewiesen; ferner werden die Note und der Titel der Bachelorarbeit (falls vorhanden) bzw. der Masterarbeit aufgeführt.
+#### § 56
 
 **Academic Record**
 
-<sup>2</sup> Anerkannte, aber nicht an den Abschluss angerechnete Studienleistungen werden im Academic Record als «nicht angerechnete Leistungen» ausgewiesen. Bei Leistungen, die nicht an der UZH erbracht worden sind, wird zusätzlich angegeben, an welcher Universität die Leistung erbracht wurde.
+<sup>1</sup> Im Academic Record (Abschlusszeugnis) werden alle an den Studienabschluss angerechneten sowie die anerkannten, aber nicht an den Studienabschluss angerechneten Studienleistungen mit der jeweiligen Bewertung ausgewiesen; ferner werden die Note und der Titel der Bachelor- bzw. der Masterarbeit aufgeführt. Studienleistungen, die nicht an der UZH erbracht worden sind, werden entsprechend gekennzeichnet.
 
-### 5. Abschnitt: Rechtsschutz und Akteneinsicht
+<sup>2</sup> Der Academic Record wird in deutscher Sprache ausgestellt. Es wird eine englische Übersetzung abgegeben.
 
-#### § 48
+### 5. Abschnitt: Rechtsschutz
+
+#### § 57
 
 **Rechtsschutz**
 
-<sup>1</sup> Der Leistungsausweis unterliegt bezüglich der neu ausgewiesenen Leistungen der Einsprache an das Studiendekanat. Die Einsprache ist innert 30 Tagen nach Erhalt des Leistungsausweises der Prodekanin Lehre oder dem Prodekan Lehre schriftlich einzureichen. Der Einspracheentscheid unterliegt dem Rekurs.
+<sup>1</sup> Leistungsausweise gemäss § 32 Abs. 1 unterliegen bezüglich der für die im letzten Semester neu ausgewiesenen Leistungen der Einsprache an die Studiendekanin oder den Studiendekan. Die Einsprache ist an das Studiendekanat innerhalb von 30 Tagen nach Empfang des Leistungsausweises schriftlich und begründet einzureichen. Der Einspracheentscheid unterliegt dem Rekurs.
 
-<sup>2</sup> Die übrigen Verfügungen gemäss dieser Verordnung unterliegen dem Rekurs.
+<sup>2</sup> Die übrigen Verfügungen gemäss dieser Rahmenverordnung unterliegen dem Rekurs.
 
-<sup>3</sup> Die Verfügungen gemäss dieser Verordnung sind der Betroffenen bzw. dem Betroffenen von der zuständigen Stelle schriftlich mit einer Rechtsmittelbelehrung versehen mitzuteilen.
-
-<sup>4</sup> Für den Rekurs zuständig ist die Rekurskommission der Zürcher Hochschulen.
-
-#### § 49
-
-**Akteneinsicht**
-
-Zur Sicherstellung der Geheimhaltung der Prüfungsfragen kann die Herausgabe der Prüfungsunterlagen eingeschränkt oder verweigert, die Herstellung von Kopien oder Abschriften verboten und die Dauer der Einsichtnahme beschränkt werden.
+<sup>3</sup> Für den Rekurs zuständig ist die Rekurskommission der Zürcher Hochschulen.
 
 ### 6. Abschnitt: Übergangsbestimmungen
 
-#### § 50
+#### § 58
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Studierende, die den jeweiligen Studiengang vor dem 1. August 2015 begonnen haben, können diesen bis spätestens 31. Juli 2017 nach der bisherigen Rahmenverordnung (Rahmenverordnung für das Studium in den Bachelor- und Masterstudiengängen an der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich vom 19. Mai 2014) abschliessen. Freiwillige Übertritte zur neuen Rahmenverordnung sind möglich.
+<sup>1</sup> Für Studierende, die das Bachelor- oder Masterstudium an der Mathematisch-naturwissenschaftlichen Fakultät vor Inkrafttreten dieser Rahmenverordnung begonnen haben und nicht endgültig abgewiesen wurden, gelten folgende Grundsätze:
 
-<sup>2</sup> Studierende, die den jeweiligen Studiengang ab dem 1. August 2015 begonnen haben, werden dieser neuen Rahmenverordnung unterstellt.
+- a. Die Studierenden werden dieser Rahmenverordnung unterstellt.
 
-<sup>3</sup> Die nach neuer Rahmenverordnung zu erbringenden Leistungen werden für die Studierenden in allgemeiner Form bekanntgegeben oder in besonderen Fällen mit den Studierenden individuell vereinbart. Es besteht kein Anspruch auf Module des alten Curriculums.
+- b. Studierende, die den Bachelorstudiengang bisher in der Studienprogrammkombination 120-30-30 ECTS Credits (Major-Minor-Minor) absolvieren, können in Studienprogrammkombination dieser RVO wechseln. Ist ein Übertritt in Studienprogramme gemäss dieser RVO nicht möglich, können die Studierenden in der bisherigen Studienprogrammkombination verbleiben. In diesem Fall ist der Studiengang bis längstens zum Frühlingssemester 2026 abzuschliessen. Danach ist ein Abschluss in der bisherigen Studienprogrammkombination nicht mehr möglich.
+
+- c. Das Dekanat vereinbart bei Bedarf mit den unter lit. b genannten Studierenden in individuellen Studienvereinbarungen den weiteren Verlauf des Studiums.
+
+- d. Es besteht kein Anspruch auf Module, die mit den Modulen des alten Curriculums identisch sind.
+
+<sup>2</sup> Für Studierende, die ihr Bachelorstudium nach altem Recht begonnen haben und in das Recht gemäss dieser Rahmenverordnung übergeführt werden, gilt weiterhin, dass sie ein einziges Pflichtmodul auf Gesuch hin nach nicht bestandener Repetition ein zweites Mal wiederholen dürfen. Dies gilt nicht für die Bachelorarbeit und für Module, die im Rahmen von Auflagen und Bedingungen zu erbringen sind. Diese Regelung gilt bis 31. Juli 2024.
