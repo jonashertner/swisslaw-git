@@ -4,13 +4,12 @@ number: "127.10"
 title: Gesetz über die Rechtsanwälte und Rechtsanwältinnen
 short: "Anwaltsgesetz, AnwG"
 language: de
-version: 2015-03-01
-valid_until: 2021-07-31
-version_adopted: 2014-11-12
+version: 2021-08-01
+version_adopted: 2020-09-08
 adopted: 2000-05-10
 in_force: 2001-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/127.10"
-pdf: "https://bgs.so.ch/api/de/versions/4364/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5091/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4364/pdf_file"
 
 (Anwaltsgesetz, AnwG)
 
-Vom 10.05.2000 (Stand 01.03.2015)
+Vom 10.05.2000 (Stand 01.08.2021)
 
 Der Kantonsrat von Solothurn
 
@@ -120,7 +119,7 @@ beschliesst:
 
 ## 3. Aufsicht
 
-### 3.1. Organisation
+### 3.1. Organisation und Kompetenzen
 
 #### § 11
 
@@ -128,11 +127,33 @@ beschliesst:
 
 <sup>1</sup> Aufsichtsbehörde ist die Anwaltskammer.
 
-<sup>2</sup> Die Anwaltskammer besteht aus 5 Mitgliedern und 5 Ersatzmitgliedern, wovon je 3 den solothurnischen Gerichten angehören und je 2 im kantonalen Anwaltsregister eingetragen sind.
+<sup>2</sup> Die Anwaltskammer besteht aus 5 Mitgliedern und 5 Ersatzmitgliedern, wovon je 2 den solothurnischen Gerichten angehören, je 2 im kantonalen Anwaltsregister eingetragen sind und je ein weiteres fachlich ausgewiesen, aber in keinem Anwaltsregister eingetragen und nicht an einem Gericht oder in der Strafverfolgung tätig ist.
 
 <sup>3</sup> Der Regierungsrat wählt den Präsidenten oder die Präsidentin, den Vizepräsidenten oder die Vizepräsidentin, die übrigen Mitglieder und die Ersatzmitglieder. Ausserordentliche Vertretungen bezeichnet das zuständige Departement.
 
+<sup>3<sup>bis</sup></sup> Dem Solothurnischen Anwaltsverband steht das Vorschlagsrecht für die im kantonalen Anwaltsregister eingetragenen, der Gerichtsverwaltungskommission für die den solothurnischen Gerichten angehörenden Mitglieder zu.
+
 <sup>4</sup> Das zuständige Departement führt das Sekretariat; der Sekretär oder die Sekretärin hat beratende Stimme.
+
+#### § 11bis
+
+**Kompetenzen der Anwaltskammer**
+
+<sup>1</sup> Die Anwaltskammer nimmt die vom Bundesrecht der Aufsichtsbehörde zugewiesenen Aufgaben wahr.
+
+#### § 11ter
+
+**Präsidialkompetenzen**
+
+<sup>1</sup> Der Präsident oder die Präsidentin entscheidet über:
+
+- a) Eintragung im Anwaltsregister;
+- b) Löschung im Anwaltsregister oder in einer gesetzlich vorgesehenen Liste auf eigenes Begehren oder bei Versterben;
+- c) Gesuche um Befreiung vom anwaltlichen Berufsgeheimnis, welche einzig zwecks Geltendmachung von Honorarforderungen gestellt werden;
+- d) vorsorgliche Massnahmen bei Dringlichkeit;
+- e) Abschreibung von Verfahren.
+
+<sup>2</sup> Er oder sie kann Fälle von grundsätzlicher Bedeutung der Anwaltskammer zum Entscheid übertragen.
 
 #### § 12
 
@@ -144,7 +165,26 @@ beschliesst:
 
 <sup>3</sup> Die Anwaltskammer kann auf dem Zirkulationsweg Beschlüsse fassen, wenn ein schriftlich begründeter Antrag vorliegt; stimmen nicht alle Mitglieder dem Antrag zu, so findet eine mündliche Beratung statt.
 
-### 3.2. Disziplinaraufsicht
+### 3.2. Verfahren
+
+### 3.2.1. Allgemeine Bestimmungen
+
+#### § 12bis
+
+**Verfahren allgemein**
+
+<sup>1</sup> Soweit nichts anderes bestimmt ist, finden auf das Verfahren die Bestimmungen des Gesetzes über den Rechtsschutz in Verwaltungssachen Anwendung.
+
+#### § 12ter
+
+**Meldepflichten**
+
+<sup>1</sup> Die Gerichte und die Verwaltungsbehörden des Kantons melden der Anwaltskammer unverzüglich Vorfälle, welche den Wegfall der Voraussetzungen für die Eintragung in das Anwaltsregister nach dem Bundesgesetz zur Folge haben oder die Berufsregeln verletzen könnten. Insbesondere melden:
+
+- a) die Gerichte: die strafrechtliche Verurteilung eines Rechtsanwaltes oder einer Rechtsanwältin, soweit die Verurteilung ins Strafregister eingetragen wird;
+- b) die Betreibungsämter: die Ausstellung von Verlustscheinen gegen einen Rechtsanwalt oder eine Rechtsanwältin.
+
+### 3.2.2. Disziplinarverfahren
 
 #### § 13
 
@@ -152,10 +192,7 @@ beschliesst:
 
 <sup>1</sup> Die Anwaltskammer wird von Amtes wegen oder auf Anzeige hin tätig.
 
-<sup>2</sup> Die Gerichte und die Verwaltungsbehörden des Kantons melden der Anwaltskammer unverzüglich Vorfälle, welche den Wegfall der Voraussetzungen für die Eintragung in das Anwaltsregister nach dem Bundesgesetz zur Folge haben oder die Berufsregeln verletzen könnten. Insbesondere melden:
-
-- a) die Gerichte: die strafrechtliche Verurteilung eines Rechtsanwaltes, einer Rechtsanwältin oder einer in die Liste nach § 19 eingetragenen Person, soweit die Verurteilung ins Strafregister eingetragen wird;
-- b) die Betreibungsämter: die Ausstellung von Verlustscheinen gegen einen Rechtsanwalt oder eine Rechtsanwältin.
+<sup>2</sup> …
 
 <sup>3</sup> Der Präsident oder die Präsidentin teilt dem Rechtsanwalt oder der Rechtsanwältin die gegen ihn oder sie erhobenen Vorwürfe mit und setzt Frist zur schriftlichen Stellungnahme.
 
@@ -177,9 +214,9 @@ beschliesst:
 
 **Entscheid**
 
-<sup>1</sup> Nach Abschluss des Instruktionsverfahrens findet eine mündliche Verhandlung statt. Diese ist, auf Antrag des Rechtsanwaltes oder der Rechtsanwältin öffentlich.
+<sup>1</sup> Nach Abschluss des Instruktionsverfahrens kann auf Antrag der Rechtsanwältin oder des Rechtsanwaltes oder von Amtes wegen eine mündliche Verhandlung angeordnet werden. Diese ist auf Antrag des Rechtsanwaltes oder der Rechtsanwältin öffentlich, soweit nicht überwiegende Interessen entgegenstehen.
 
-<sup>2</sup> Verfahrenskosten und Entschädigungen werden nach Artikel 416-432 der Schweizerischen Strafprozessordnung auferlegt oder zugesprochen.
+<sup>2</sup> Verfahrenskosten und Entschädigungen werden nach Artikel 416-432 der Schweizerischen Strafprozessordnung auferlegt oder zugesprochen. Der Anzeiger oder die Anzeigerin kann zur Bezahlung der Verfahrenskosten und einer Entschädigung an den Rechtsanwalt oder die Rechtsanwältin verpflichtet werden, wenn die Anzeige mutwillig oder grobfahrlässig erstattet wurde. Die Anwaltskammer legt die Entschädigung als Pauschale fest. Ist diese nicht oder voraussichtlich nicht einbringlich, so wird der Rechtsanwalt oder die Rechtsanwältin vom Kanton entschädigt. Mit der Zahlung geht der Anspruch auf den Kanton über. Diese Ausfallhaftung ist befristet auf zwei Jahre seit Rechtskraft des Entscheids.
 
 <sup>3</sup> Der Anzeiger oder die Anzeigerin wird über den Ausgang des Verfahrens informiert.
 
@@ -208,6 +245,8 @@ beschliesst:
 **Strafe**
 
 <sup>1</sup> Wer sich, ohne über ein Anwaltspatent zu verfügen, den Titel Rechtsanwalt oder Rechtsanwältin, Anwalt oder Anwältin, Fürsprech, Fürsprecher, Fürsprecherin, Advokat oder Advokatin beilegt, wird mit Busse bis 20'000 Franken, im Wiederholungsfall bis 100'000 Franken bestraft.
+
+<sup>2</sup> Wer unbefugt Parteien berufsmässig vor Behörden vertritt, wird mit Busse bis 20'000 Franken, im Wiederholungsfall bis 100'000 Franken bestraft.
 
 ## 5. Übergangs- und Schlussbestimmungen
 
