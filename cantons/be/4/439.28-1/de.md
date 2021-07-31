@@ -1,607 +1,855 @@
 ---
 canton: BE
 number: 439.28-1
-title: "Interkantonales Konkordat zur Schaffung einer gemeinsamen Pädagogischen Hochschule der Kantone Bern, Jura und Neuenburg"
-short: "Haute Ecole Pédagogique, HEP-BEJUNE"
+title: "Konkordat über die gemeinsame Pädagogische Hochschule der Kantone Bern, Jura und Neuenburg"
+short: Konkordat HEP-BEJUNE
 language: de
-version: 2001-08-01
-valid_until: 2021-07-31
-version_adopted: 2000-11-23
+version: 2021-08-01
+version_adopted: 2019-11-14
 adopted: 2019-11-14
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.28-1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/443/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2511/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Interkantonales Konkordat zur Schaffung einer gemeinsamen Pädagogischen Hochschule der Kantone Bern, Jura und Neuenburg
+# Konkordat über die gemeinsame Pädagogische Hochschule der Kantone Bern, Jura und Neuenburg
 
-(Haute Ecole Pédagogique, HEP-BEJUNE)
+(Konkordat HEP-BEJUNE)
 
-vom 23.11.2000 (Stand 01.08.2001)
+vom 14.11.2019 (Stand 01.08.2021)
 
-## 1 Grundlagen der HEP
+Die Kantone Bern, Jura und Neuenburg,
+
+gestützt auf Artikel 48 und 63a der Bundesverfassung vom 18. April 1999[^ingress-1],
+
+gestützt auf das Bundesgesetz vom 30. September 2011 über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (Hochschulförderungs- und -koordinationsgesetz, HFKG)[^ingress-2],
+
+gestützt auf die Interkantonale Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen (Diplomanerkennungsvereinbarung)[^ingress-3],
+
+gestützt auf den Vertrag vom 5. März 2010 über die Mitwirkung der Kantonsparlamente bei der Ausarbeitung, der Ratifizierung, dem Vollzug und der Änderung von interkantonalen Verträgen und von Verträgen der Kantone mit dem Ausland (Vertrag über die Mitwirkung der Parlamente, ParlVer),
+
+beschliessen:
+
+[^ingress-1]: SR [101](https://db.clex.ch/link/Bund/101/de)
+[^ingress-2]: SR [414.20](https://db.clex.ch/link/Bund/414.20/de)
+[^ingress-3]: BSG [439.18-1](https://www.belex.sites.be.ch/data/439.18-1/de)
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Konkordatsparteien**
+**Unterzeichnerkantone und allgemeiner Zweck**
 
-<sup>1</sup> Die Kantone Bern, Jura und Neuenburg schaffen die Pädagogische Hochschule «Haute Ecole Pédagogique HEP-BEJUNE» (im Folgenden HEP).
+<sup>1</sup> Die Kantone Bern, Jura und Neuenburg (nachstehend: Unterzeichnerkantone) errichten auf unbestimmte Dauer und in Übereinstimmung mit der eidgenössischen und interkantonalen Gesetzgebung die pädagogische Hochschule «Haute Ecole Pédagogique BEJUNE» (nachstehend: HEP).
 
-<sup>2</sup> Geltungsgebiet für den Kanton Bern ist der französischsprachige Kantonsteil.
+<sup>2</sup> Die HEP trägt durch die Qualität ihrer Leistungen sowie durch das hohe Kompetenzniveau ihrer Absolventinnen und Absolventen sowie ihres Personals nachhaltig dazu bei, den Bedürfnissen der Bildungsgemeinschaft der drei Kantone zu entsprechen und deren Weiterentwicklung zu fördern.
 
-<sup>3</sup> Weitere Kantone können dem Konkordat gemäss den Bestimmungen von Artikel 45 beitreten.
+<sup>3</sup> Sie entfaltet ihre Lehr- und Bildungsaktivitäten in den drei Kantonen.
 
 #### Art. 2
 
-**Allgemeiner Auftrag der HEP**
+**Rechtsform, Autonomie und Sitz**
 
-<sup>1</sup> Die HEP ist eine Institution der Tertiärstufe, die mit der Grundausbildung der Lehrkräfte des Kindergartens, der Primarstufe, der Sekundarstufe I und der Sekundarstufe II sowie mit der Fort- und Weiterbildung aller Lehrkräfte beauftragt ist; sie führt Forschungsarbeiten durch; sie stellt Dokumentationen und Multimediamaterialien in den Bereichen Erziehung und Bildung zur Verfügung.
+<sup>1</sup> Die HEP ist eine interkantonale öffentlich-rechtliche Anstalt ohne Erwerbszweck mit eigener Rechtspersönlichkeit.
 
-<sup>2</sup> Sie kann weitere Aufträge übernehmen, die im Bildungsbereich von kantonalem und interkantonalem Interesse sind.
+<sup>2</sup> Sie ist im Rahmen dieses Konkordats autonom.
+
+<sup>3</sup> Sie hat ihren Sitz in Delsberg.
 
 #### Art. 3
 
-**Statut und Sitz der HEP**
+**Stellung und Zweck**
 
-<sup>1</sup> Die HEP ist eine interkantonale öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit.
+<sup>1</sup> Die HEP ist eine pädagogische Hochschule im Sinne des HFKG.
 
-<sup>2</sup> Sie ist eine einzige Institution, die in den drei Konkordatskantonen tätig ist.
-
-<sup>3</sup> Sie hat ihren Sitz in Pruntrut (Kanton Jura).
+<sup>2</sup> Sie bereitet durch praxisorientierte Studiengänge auf berufliche Tätigkeiten vor.
 
 #### Art. 4
 
-**Zusammenarbeit mit anderen Kantonen und Institutionen**
+**Kernaufgaben**
 
-<sup>1</sup> Die Zusammenarbeit mit anderen Kantonen im Bereich der Lehrerinnen- und Lehrerbildung ist Gegenstand von Vereinbarungen zwischen den Konkordatskantonen und den interessierten Kantonen.
+<sup>1</sup> Oberste Kernaufgabe der HEP ist es, die Grundausbildung von Lehrerinnen und Lehrern der Primarstufe und der Sekundarstufen I und II sowie die Ausbildung in schulischer Heilpädagogik sicherzustellen.
 
-<sup>2</sup> Die HEP kann im Rahmen ihres Auftrags mit anderen Bildungsinstitutionen Vereinbarungen zur Zusammenarbeit abschliessen.
+<sup>2</sup> Sie führt anwendungsorientierte Forschungs- und Entwicklungsarbeiten durch und integriert die Ergebnisse in die Lehre.
+
+<sup>3</sup> Sie organisiert und fördert in Zusammenarbeit mit den betroffenen Stellen der Unterzeichnerkantone vor allem die Weiterbildung der Lehrerinnen und Lehrer. Sie kann auch Weiterbildungskurse für Dritte anbieten.
+
+<sup>4</sup> Sie erbringt Dienstleistungen auf Anfrage der strategischen Leitung, der Unterzeichnerkantone oder Dritter.
+
+<sup>5</sup> Sie stellt den Bildungsfachleuten Dokumentationen und Multimediamaterialien im Zusammenhang mit ihrer beruflichen Tätigkeit zur Verfügung.
 
 #### Art. 5
 
-**Berufsverbände**
+**Zusammenarbeit**
 
-<sup>1</sup> Die HEP hört die Berufsverbände bei wichtigen Geschäften an, namentlich bei den Grundzügen im Ausbildungsbereich sowie bei allen Geschäften im Zusammenhang mit der Stellung der Lehrkräfte.
+<sup>1</sup> Die HEP wirkt an der gesamtschweizerischen Koordination der Lehrerinnen- und Lehrerbildung mit und arbeitet auf regionaler, nationaler und internationaler Ebene mit anderen Hochschulen, Institutionen und betroffenen Fachkreisen zusammen.
 
-## 2 Organisation und Struktur der HEP
+<sup>2</sup> Die Unterzeichnerkantone garantieren der HEP den Zugang zu ihren Schulen, um die Organisation der berufspraktischen Ausbildung zu ermöglichen.
 
-### 2.1 Allgemeines
+<sup>3</sup> Die Organisation der berufspraktischen Ausbildung trägt den Rahmenbedingungen der Partnerschulen Rechnung.
 
 #### Art. 6
 
-**Struktur der HEP**
+**Qualiltätssicherung**
 
-<sup>1</sup> Jeder Konkordatskanton stellt der HEP einen Standort zur Verfügung.
+<sup>1</sup> Die HEP entwickelt, gewährleistet und überprüft die Qualität von Lehre, Forschung und Dienstleistungen. Sie definiert zu diesem Zweck eine Strategie für die interne Qualitätssicherung und stattet sich mit einem Qualitätssicherungssystem aus.
 
-<sup>2</sup> Der Gesamtauftrag der HEP verteilt sich auf verschiedene Tätigkeitsgebiete, die als Bereiche bezeichnet werden.
+<sup>2</sup> Sie ergreift die nötigen Massnahmen, damit ihr Qualitätssicherungssystem den Vorschriften des HFKG und den Akkreditierungsrichtlinien des Hochschulrates genügt.
 
 #### Art. 7
 
-**Standorte**
+**Angemessenheit und Gleichstellung**
 
-<sup>1</sup> Als Standort gilt die Gesamtheit aller für die HEP erforderlichen Einrichtungen, Betriebe und Infrastrukturen, die sich in einem Kanton befinden.
+<sup>1</sup> Bei der Erfüllung ihrer Aufgaben wendet die HEP den Grundsatz der Rechtsgleichheit an.
 
-<sup>2</sup> Die Gebäude und Einrichtungen eines Standorts werden vom Kanton an die HEP vermietet oder verkauft. Die HEP kann weitere Gebäude und Einrichtungen mieten oder erwerben.
+<sup>2</sup> Sie fördert für das Personal und die Studierenden die Chancengleichheit und gewährleistet die tatsächliche Gleichstellung von Frauen und Männern.
+
+<sup>3</sup> Die Chancengleichheit bezieht sich insbesondere auf Behinderungen, soziale Integration und Minderheiten.
 
 #### Art. 8
 
-**Bereiche**
+**Persönlichkeitsschutz**
 
-<sup>1</sup> Die Bereiche sind Organisationseinheiten der HEP ohne eigene Rechtspersönlichkeit.
-
-<sup>2</sup> Zum Zeitpunkt ihrer Gründung verfügt die HEP über vier Bereiche.
-
-Sie haben folgende Aufträge:
-
-- a Grundausbildung für die Vorschul- und Primarstufe,
-- b Grundausbildung für die Sekundarstufen I und II,
-- c Fort- und Weiterbildung,
-- d Forschung, Dokumentation und Multimedia.
+<sup>1</sup> Die HEP sorgt für die Wahrung des Persönlichkeitsschutzes ihrer Angestellten und Studierenden.
 
 #### Art. 9
 
-**Berufspraktische Ausbildung**
+**Nachhaltige Entwicklung**
 
-<sup>1</sup> Die Konkordatskantone garantieren der HEP den Zugang zu ihren Schulen, um die berufspraktische Ausbildung unter den bestmöglichen Voraussetzungen zu ermöglichen.
-
-### 2.2 Organe der HEP
+<sup>1</sup> Bei der Erfüllung ihrer Aufgaben sorgt die HEP dafür, dass die Anforderungen einer nachhaltigen sozialen, ökologischen, wirtschaftlichen und kulturellen Entwicklung eingehalten werden.
 
 #### Art. 10
 
-**Organe der HEP**
+**Akademische Freiheit**
 
-<sup>1</sup> Die HEP verfügt über folgende Organe:
+<sup>1</sup> Die Freiheit von Lehre und Forschung ist gewährleistet.
 
-- 1\. Strategische Leitung
-  - 1\.1 beratende Organe der Strategischen Leitung: Wissenschaftskommission und HEP-Rat
-- 2\. HEP-Leitung
-  - 2\.1 Ausbildungsrat als teilnehmendes Organ der HEP-Leitung
-- 3\. Direktorinnen und Direktoren
-  - 3\.1 Bereichsdirektorinnen und Bereichsdirektoren
-  - 3\.2 Standortdirektorinnen und Standortdirektoren
-- 4\. Generalsekretärin/Generalsekretär
-- 5\. Kontrollorgan
-
-### 2.2.1 Die Strategische Leitung (Comité stratégique)
+<sup>2</sup> Die HEP respektiert die grundlegenden Prinzipien der Berufs- und Standesregeln.
 
 #### Art. 11
 
-**Grundsätze**
+**Geistiges Eigentum**
 
-<sup>1</sup> Die Strategische Leitung ist das oberste Organ der HEP.
+<sup>1</sup> Mit Ausnahme der Urheberrechte gemäss Bundesgesetzgebung besitzt die HEP die Rechte am geistigen Eigentum aller geistigen Schöpfungen und Forschungsergebnisse, die von Mitgliedern ihres Personals im Rahmen ihrer Tätigkeit hervorgebracht werden.
 
-<sup>2</sup> Sie setzt sich aus den Erziehungsdirektorinnen und Erziehungsdirektoren der Konkordatskantone zusammen.
+<sup>2</sup> Das Regelwerk der HEP regelt den Umgang mit allfälligen Gewinnen und Preisen für Arbeiten, Forschungen oder Publikationen, die innerhalb der HEP realisiert werden.
 
 #### Art. 12
 
-**Aufgaben**
+**Mobilität**
 
-<sup>0</sup> Die Strategische Leitung hat folgende Aufgaben und Kompetenzen:
-
-<sup>1</sup> 1. Strategische Ziele: Sie
-
-- a legt die allgemeinen und langfristigen Ziele fest,
-- b erlässt die Studienpläne,
-- c definiert die Forschungspolitik,
-- d entscheidet über die Zusammenarbeit mit anderen Institutionen,
-- e legt die Ziele bezüglich Evaluation und Qualitätskontrolle fest,
-- f erlässt die notwendigen Massnahmen zur Regulierung der Studierendenzahl,
-- g informiert die Kantonsparlamente über die Aktivitäten der HEP.
-
-<sup>2</sup> 2. Reglemente und Statuten: Sie
-
-- a erlässt das Ausführungsreglement zum Konkordat,
-- b regelt die Beziehungen zwischen den Organen der HEP und erlässt insbesondere die Reglemente der Wissenschaftskommission, des HEP-Rates, der HEP-Leitung und des Ausbildungsrates,
-- c erlässt das Personalstatut,
-- d erlässt das Statut der Studierenden und das Studienreglement.
-
-<sup>3</sup> 3. Ernennungen: Sie
-
-- a ernennt die Direktorinnen und Direktoren, die Mitglieder der HEP-Leitung, die Präsidentin oder den Präsidenten der HEP-Leitung sowie die Generalsekretärin oder den Generalsekretär und beschliesst ihre Pflichtenhefte,
-- b ernennt die Mitglieder der Wissenschaftskommission und des HEP-Rates.
-
-<sup>4</sup> 4. Strukturen: Sie
-
-- a bestimmt die Standorte der Bereiche und verteilt ihre Aktivitäten auf die Kantone,
-- b bildet neue Bereiche oder legt bestehende zusammen und ändert bei Bedarf den Auftrag der bestehenden Bereiche.
-
-<sup>5</sup> 5. Verwaltung, Finanzen: Sie
-
-- a legt die Grundsätze der Finanzverwaltung der HEP fest,
-- b gewichtet die finanzielle Beteiligung der Konkordatskantone,
-- c beschliesst die Finanzplanung, das Budget und die Beträge für die strategische Reserve der HEP,
-- d genehmigt die Jahresrechnung,
-- e legt die Studien- und Kursgebühren fest,
-- f bestimmt das Organ zur Kontrolle der HEP-Verwaltung.
-
-<sup>6</sup> Allgemeine Kompetenzen: Sie
-
-- a hört die Wissenschaftskommission und den HEP-Rat zu Fragen an, die sie betreffen,
-- b entscheidet über Fragen, die nicht in den Zuständigkeitsbereich eines anderen Organs fallen.
+<sup>1</sup> Die HEP fördert die nationale und internationale Mobilität der Studierenden und des Personals.
 
 #### Art. 13
 
-**Beschlüsse**
+**Mitwirkungsrecht**
 
-<sup>1</sup> Die Strategische Leitung fasst ihre Beschlüsse in Übereinstimmung.
+<sup>1</sup> Die HEP gewährleistet die Mitwirkung der Studierenden und des Personals beim Betrieb und bei der Weiterentwicklung der Institution.
 
-### 2.2.1.1 Beratende Organe der Strategischen Leitung: Wissenschaftskommission und HEP-Rat
+<sup>2</sup> Die verschiedenen Personal- und Studierendenkategorien sind als verfasste Körperschaften definiert.
+
+<sup>3</sup> Die verfassten Körperschaften nehmen über die Mitwirkungsorgane, die sie vertreten, am Betrieb und an der Weiterentwicklung der HEP teil und können Anträge stellen.
+
+<sup>4</sup> Die Öffentlichkeits- und Transparenzgrundsätze gewährleisten einen Zugang zu allen massgebenden Informationen, die zur Ausübung des Mitwirkungsrechts nötig sind.
+
+<sup>5</sup> Die Vertreterinnen und Vertreter der verfassten Körperschaften haben in den Organen, in denen sie vertreten sind, eine beratende Stimme.
 
 #### Art. 14
 
-**Wissenschaftskommission**
+**Berufsverbände**
 
-<sup>1</sup> Die Wissenschaftskommission umfasst Fachleute der Bildungswissenschaften und der Forschung; sie versammelt sich auf Einladung der Strategischen Leitung oder handelt auf eigene Initiative.
+<sup>1</sup> Die HEP hört die Berufsverbände bei wichtigen Geschäften an, namentlich bei den Grundzügen im Ausbildungsbereich sowie bei allen Geschäften im Zusammenhang mit dem Personalstatut.
 
-<sup>2</sup> Sie nimmt namentlich Stellung zu den allgemeinen und langfristigen Zielen, Studienplänen und Forschungsprojekten der HEP.
-
-<sup>3</sup> Die Mitglieder werden für eine Dauer von vier Jahren ernannt und können wieder gewählt werden.
+## 2 Interparlamentarische Geschäftsprüfung
 
 #### Art. 15
 
-**HEP-Rat**
+**Interparlamentarische Kommission**
 
-<sup>1</sup> Der HEP-Rat umfasst Vertreterinnen und Vertreter der Dozentenschaft und des Verwaltungspersonals der HEP, der Studierenden an der HEP, der Schulleiterinnen und Schulleiter, der Lehrerinnen- und Lehrerverbände sowie der Elternvereinigungen und Vertretungen anderer interessierter Kreise; er versammelt sich auf Einladung der Strategischen Leitung oder handelt auf eigene Initiative.
+<sup>1</sup> Die Unterzeichnerkantone setzen eine interparlamentarische Kommission (nachstehend: IPK HEP-BEJUNE) ein, die mit der interparlamentarischen Geschäftsprüfung der HEP-BEJUNE beauftragt ist.
 
-<sup>2</sup> Er nimmt Stellung zur Entwicklung, zur allgemeinen Politik sowie zur Führung der HEP.
-
-<sup>3</sup> Die Mitglieder werden für eine Dauer von vier Jahren ernannt und können wieder gewählt werden.
-
-### 2.2.2 HEP-Leitung (Comité de direction)
+<sup>2</sup> Jeder Kanton bezeichnet fünf Mitglieder.
 
 #### Art. 16
 
-**Grundsätze**
+**Befugnisse**
 
-<sup>1</sup> Die HEP-Leitung setzt sich aus vier Mitgliedern aus den Reihen der Direktorinnen und Direktoren der Bereiche und Standorte zusammen.
+<sup>1</sup> Die IPK HEP-BEJUNE ist für die Prüfung des Schlussberichts über den Vollzug des Leistungsvertrags zuständig.
 
-<sup>2</sup> Die Mitglieder werden für eine Dauer von vier Jahren ernannt und können wieder gewählt werden.
+<sup>2</sup> Die interparlamentarische Geschäftsprüfung betrifft folgende Punkte:
 
-<sup>3</sup> Die Amtsdauer der Präsidentin oder des Präsidenten beträgt vier Jahre; sie oder er kann wieder gewählt werden.
+- a strategische Ziele und deren Realisierung,
+- b vierjährige Finanzplanung,
+- c Budget und Rechnung,
+- d Evaluation der erzielten Ergebnisse.
 
-<sup>4</sup> Die Generalsekretärin oder der Generalsekretär nimmt an den Sitzungen der HEP-Leitung mit beratender Stimme teil.
+<sup>3</sup> Die IPK HEP-BEJUNE erstellt mindestens einmal pro Jahr einen schriftlichen Bericht, der den Parlamenten der Unterzeichnerkantone zugestellt wird.
+
+<sup>4</sup> Die IPK HEP-BEJUNE kann der strategischen Leitung Interpellationen, Resolutionen oder Postulate unterbreiten.
 
 #### Art. 17
 
-**Aufgaben**
+**Beschlussfassung**
 
-<sup>1</sup> Die HEP-Leitung ist namentlich für die Aufgabenerfüllung, die Organisation und die Leitung der HEP zuständig.
-
-<sup>2</sup> Sie arbeitet Vorschläge und Anträge für die Beschlüsse der Strategischen Leitung gemäss Artikel 12 aus.
-
-<sup>3</sup> Sie leitet die Tätigkeiten der Bereiche und sorgt für die Umsetzung des Studienplans.
-
-<sup>4</sup> Sie stellt auf Antrag des Ausbildungsrates die Dozentinnen und Dozenten an.
-
-<sup>5</sup> Sie legt den Personalbestand für Verwaltung und Technik fest.
-
-<sup>6</sup> Sie stellt das Verwaltungspersonal und das technische Personal an.
-
-<sup>7</sup> Sie bezieht die Direktorinnen und Direktoren der Bereiche und Standorte in die Arbeiten ein, die mit deren Auftrag zusammenhängen.
-
-<sup>8</sup> Sie genehmigt die Ernennung der Mitglieder des Ausbildungsrates.
-
-<sup>9</sup> Sie hört den Ausbildungsrat zu Fragen aus dessen Zuständigkeitsbereichen an.
+<sup>1</sup> Die IPK HEP-BEJUNE entscheidet nach der Mehrheit der anwesenden Mitglieder.
 
 #### Art. 18
 
-**Beschlüsse**
+**Betrieb**
 
-<sup>1</sup> Die HEP-Leitung trifft ihre Beschlüsse im gegenseitigen Einvernehmen.
+<sup>1</sup> Die IPK HEP-BEJUNE tritt so oft wie nötig, jedoch mindestens zweimal pro Jahr zusammen.
 
-<sup>2</sup> Kann auf diese Weise keine Einigung erzielt werden, legt sie die Frage der Strategischen Leitung zum Entscheid vor.
-
-### 2.2.2.1 Teilnehmendes Organ der HEP-Leitung: der Ausbildungsrat
+<sup>2</sup> Sie organisiert sich ausserdem selbst und kann ein Betriebsreglement erlassen.
 
 #### Art. 19
 
-**Ausbildungsrat**
+**Vertretung**
 
-<sup>1</sup> Der Ausbildungsrat umfasst Vertreterinnen und Vertreter der verschiedenen Dozentenkategorien. Er zieht je nach Verhandlungsgegenstand Vertretungen der Studierenden bei. Er wird durch eines seiner Mitglieder geleitet. Er versammelt sich auf Einladung der HEP-Leitung oder handelt auf eigene Initiative.
+<sup>1</sup> Die strategische Leitung nimmt an den Sitzungen der IPK HEP-BEJUNE teil. Sie wird dabei durch eines ihrer Mitglieder vertreten.
 
-<sup>2</sup> Er wird bei folgenden Geschäften von der HEP-Leitung angehört:
+<sup>2</sup> Dieses hat an den Sitzungen kein Stimmrecht.
 
-- a Umschreibung der Grundzüge des Studienplans,
-- b pädagogische Prüfung der Forschungsprojekte und der Projekte zur Zusammenarbeit mit anderen Bildungsinstitutionen,
-- c Untersuchung anderer Sachgeschäfte mit massgebender pädagogischer Auswirkung.
+<sup>3</sup> Eine Delegation des Rektorats wohnt den Sitzungen der IPK HEP-BEJUNE ohne Stimmrecht bei.
 
-<sup>3</sup> Er prüft im Rahmen einer Kommission die Bewerbungsdossiers der Dozentinnen und Dozenten und stellt Antrag über deren Anstellung.
-
-<sup>4</sup> Die Organisation und das Wahlverfahren des Ausbildungsrates sind in einem Reglement festgelegt.
-
-### 2.2.3 Direktorinnen und Direktoren
-
-### 2.2.3.1 Bereichsdirektorinnen und Bereichsdirektoren
+## 3 Institutionelle Strategie und Leistungsvertrag
 
 #### Art. 20
 
-**Grundsätze und Aufgaben**
+**Strategische Vision und Massnahmenplan**
 
-<sup>1</sup> Eine Dozentin oder ein Dozent übt die Funktion der Bereichsdirektorin oder des Bereichsdirektors aus.
+<sup>1</sup> Die strategische Vision des Rektorats legt die prioritären strategischen Richtungen fest und umfasst einen Massnahmenplan, der die Ziele bezüglich Lehre, Forschung und Dienstleistungen für vier Jahre definiert.
 
-<sup>2</sup> Der Bereichsdirektorin oder dem Bereichsdirektor obliegen insbesondere folgende Aufgaben:
+<sup>2</sup> Der Massnahmenplan nennt die finanziellen Mittel in Form eines vierjährigen Finanzrahmens, der nach Ansicht des Rektorats zur Realisierung der Massnahmen erforderlich ist.
 
-Sie oder er
-
-- a organisiert die Veranstaltungen des Bereichs gemäss HEP-Studienplan sowie gemäss den Beschlüssen der Strategischen Leitung und der HEP-Leitung,
-- b koordiniert die Aktivitäten zwischen den verschiedenen Standorten der Bereiche in enger Zusammenarbeit mit den Direktorinnen und Direktoren der Standorte,
-- c stellt den Bereichsbetrieb im Rahmen der von der HEP-Leitung bewilligten Mittel und Ressourcen sicher.
-
-<sup>3</sup> Sie oder er wird für eine Amtsdauer von vier Jahren gewählt und kann wieder gewählt werden.
+<sup>3</sup> Das Rektorat beantragt nach Konsultation des HEP-Rates sowie der beratenden und mitwirkenden Organe die strategische Vision, die seine Gesamtsicht für die gesamte Institution zum Ausdruck bringt.
 
 #### Art. 21
 
-**Forschung**
+**Leistungsvertrag**
 
-<sup>1</sup> Der für die Forschung zuständigen Bereichsdirektorin oder dem für die Forschung zuständigen Bereichsdirektor obliegen, unter Berücksichtigung der Erfordernisse und Bedürfnisse der Ausbildung, insbesondere folgende Aufgaben:
+<sup>1</sup> Die Unterzeichnerkantone und die HEP schliessen auf der Grundlage des Massnahmenplans einen Leistungsvertrag ab, in dem die zu erreichenden Ziele, der entsprechende Finanzrahmen, die Einzelheiten der Umsetzung sowie die Evaluationskennzahlen festgelegt sind.
 
-Sie oder er
-
-- a koordiniert die an der HEP durchgeführten Forschungsarbeiten,
-- b sorgt für Forschungsmandate und deren Finanzierungsmittel,
-- c koordiniert die Forschung der HEP und deren Partnerinstitutionen,
-- d plant die Publikationen der HEP.
-
-### 2.2.3.2 Standortdirektorinnen und Standortdirektoren
+<sup>2</sup> Der Leistungsvertrag wird im Namen der Kantone durch die strategische Leitung sowie für die HEP durch die Rektorin oder den Rektor unterzeichnet.
 
 #### Art. 22
 
-**Grundsätze und Aufgaben**
+**Berichte**
 
-<sup>1</sup> Eine Dozentin oder ein Dozent übt an jedem kantonalen Standort die Funktion einer Standortdirektorin bzw. eines Standortdirektors aus.
+<sup>1</sup> Das Rektorat erstellt alle zwei Jahre zuhanden des HEP-Rates einen Bericht über den Vollzug des Leistungsvertrags, das Budget und die Jahresrechnung.
 
-<sup>2</sup> Der Standortdirektorin oder dem Standortdirektor obliegen insbesondere folgende Aufgaben:
+<sup>2</sup> Dieser Bericht und die Stellungnahme des HEP-Rates werden der strategischen Leitung übermittelt.
 
-Sie oder er
-
-- a stellt den HEP-Auftrag sicher,
-- b besorgt die administrative und technische Verwaltung des Standorts in Zusammenarbeit mit der Generalsekretärin oder dem Generalsekretär,
-- c koordiniert die verschiedenen Veranstaltungen am Standort,
-- d präsidiert die Konferenz der Dozentenschaft des Standorts.
-
-<sup>3</sup> Sie oder er wird für eine Amtsdauer von vier Jahren gewählt und kann wieder gewählt werden.
-
-### 2.2.4 Generalsekretärin oder Generalsekretär
+<sup>3</sup> Das Rektorat veröffentlicht zudem einen zweijährlichen Tätigkeitsbericht.
 
 #### Art. 23
 
-**Aufgaben**
+**Leistungsauftrag auf Anfrage eines Kantons**
 
-<sup>1</sup> Die Generalsekretärin oder der Generalsekretär ist für die Verwaltung der HEP verantwortlich und stellt das Funktionieren ihrer Organe in Zusammenarbeit mit den Direktorinnen und Direktoren sicher. Ihr oder ihm obliegen insbesondere folgende Aufgaben:
+<sup>1</sup> Die HEP kann auf Anfrage eines Kantons und zu dessen Lasten einen separaten Lehr- oder Dienstleistungsauftrag abschliessen.
 
-<sup>2</sup> Sie oder er
-
-- a leitet die Verwaltung der HEP,
-- b steht in Verbindung mit den Verantwortlichen der Kantone für Bauten und Einrichtungen,
-- c stellt die Finanzverwaltung der HEP sicher.
-
-### 2.2.5 Organ zur Kontrolle der HEP-Verwaltung
+## 4 Organisation
 
 #### Art. 24
 
-**Ernennung, Mandat**
+**Organe**
 
-<sup>1</sup> Das Kontrollorgan der HEP ist eine Revisionsgesellschaft oder eine kantonale Finanzkontrolle.
+<sup>1</sup> Die HEP verfügt über folgende Organe:
 
-<sup>2</sup> Das Kontrollorgan prüft die Verwaltung der HEP, insbesondere die Finanzverwaltung. Es legt der HEP-Leitung jedes Jahr einen Bericht über die Verwaltungskontrolle und die Revision der Jahresrechnung vor; die HEP-Leitung leitet diesen Bericht an die Strategische Leitung weiter.
+- a Beschlussorgane:
+  - 1\. strategische Leitung,
+  - 2\. HEP-Rat,
+  - 3\. Rektorat,
+  - 4\. Rektorin oder Rektor.
+- b Beratendes Organ:
+  - 1\. BEJUNE-Kommission Lehrerinnen- und Lehrerbildung.
+- c Mitwirkungsorgane:
+  - 1\. Personalkommission,
+  - 2\. Organe, die die anderen verfassten Körperschaften vertreten.
+- d Revisionsstelle.
 
-<sup>3</sup> Es kann auf Ersuchen der Strategischen Leitung besondere Untersuchungen durchführen.
+<sup>2</sup> Die strategische Leitung kann weitere beratende Kommissionen bestellen.
 
-### 2.3 Aufsicht über die HEP
+### 4.1 Beschlussorgane
+
+### 4.1.1 Strategische Leitung
 
 #### Art. 25
 
-**Beziehungen zu den Kantonsregierungen und Kantonsparlamenten**
+**Funktion und Zusammensetzung**
 
-<sup>1</sup> Die HEP untersteht der Aufsicht der Regierungen und der Oberaufsicht der Parlamente der Konkordatskantone.
+<sup>1</sup> Die strategische Leitung ist das oberste Organ der HEP.
 
-<sup>2</sup> Sie informiert die Regierungen zuhanden der zuständigen parlamentarischen Kommissionen über ihren Betrieb und über ihre Verwaltung; sie übermittelt den Parlamenten ihren jährlichen Geschäftsbericht.
+<sup>2</sup> Sie setzt sich aus den Departementsvorsteherinnen und Departementsvorstehern, die in den Unterzeichnerkantonen mit dem HEP-Dossier betraut sind, zusammen.
 
-## 3 Personal der HEP
+<sup>3</sup> Die Mitglieder können sich ausnahmsweise durch eine zuständige Person aus ihrem Departement vertreten lassen.
 
-### 3.1 Dozentenschaft
+<sup>4</sup> Die Beschlussfassung erfolgt einstimmig.
+
+<sup>5</sup> Die strategische Leitung beschliesst ihr Organisationsreglement.
+
+<sup>6</sup> Die Mitglieder des Rektorats nehmen grundsätzlich mit beratender Stimme an den Sitzungen der strategischen Leitung teil.
 
 #### Art. 26
 
-**Grundsätze**
+**Befugnisse**
 
-<sup>1</sup> Die HEP-Leitung bestimmt auf Grund des Standortes, an dem die Dozentinnen und Dozenten ihre Haupttätigkeit ausüben, den Kanton, dessen Dienstrecht anwendbar ist.
+<sup>1</sup> Die strategische Leitung hat namentlich folgende Befugnisse:
 
-<sup>2</sup> Die Dozentinnen und Dozenten können verpflichtet werden, ihre Tätigkeit an den drei Standorten auszuüben.
-
-<sup>3</sup> Der Grundsatz der akademischen Freiheit ist im Rahmen des HEP-Auftrags gewährleistet.
+- a Strategische Kompetenzen
+  - 1\. Sie genehmigt die vierjährige strategische Vision und deren Finanzrahmen.
+  - 2\. Sie schliesst den Leistungsvertrag ab.
+  - 3\. Sie genehmigt den Schlussbericht über den Vollzug des Leistungsvertrags.
+  - 4\. Sie genehmigt die notwendigen Massnahmen zur Regulierung der Studierendenzahl.
+  - 5\. Sie vertritt die HEP in den mit der Hochschulpolitik betrauten nationalen und interkantonalen Instanzen.
+  - 6\. Sie informiert die Kantonsparlamente über die Aktivitäten der HEP.
+- b Erlassgebende Kompetenzen
+  - 1\. Sie genehmigt die vom Rektorat beantragten Reglemente, die nicht in die Zuständigkeit des HEP-Rates fallen.
+  - 2\. Sie genehmigt die personalrechtlichen Reglemente, die Einreihung der Funktionen sowie die Gehaltsklassentabelle.
+  - 3\. Sie genehmigt das Reglement der BEJUNE-Kommission Lehrerinnen und Lehrerbildung.
+  - 4\. Sie genehmigt die Anstellungsbedingungen und die Gehaltsordnung der Praxislehrkräfte.
+- c Ernennungskompetenzen
+  - 1\. Sie ernennt die Mitglieder des HEP-Rates sowie dessen Präsidentin oder Präsidenten.
+  - 2\. Sie ernennt die Rektorin oder den Rektor.
+  - 3\. Sie ernennt auf Antrag der Rektorin oder des Rektors die Vizerektorinnen und Vizerektoren.
+  - 4\. Sie bezeichnet die Revisionsstelle für die Jahresrechnung der HEP.
+- d Strukturelle Kompetenzen
+  - 1\. Sie entscheidet über den Standort der Studiengänge und die Verteilung ihrer Tätigkeiten auf die drei Kantone.
+  - 2\. Sie entscheidet über die Schaffung, Änderung oder Aufhebung von Studiengängen.
+- e Finanzkompetenzen
+  - 1\. Sie genehmigt das Finanz- und Buchhaltungssystem der Finanzverwaltung der HEP.
+  - 2\. Sie genehmigt das Budget und die Rechnung.
+  - 3\. Sie entscheidet nach Abschluss des jährlichen Geschäftsabschlusses über die Zweckbestimmung allfälliger öffentlicher Ertragsüberschüsse.
+  - 4\. Sie genehmigt das Reglement über die Höhe der Schul- und Studiengebühren.
+  - 5\. Sie legt die Entschädigung der Mitglieder des HEP-Rates fest.
 
 #### Art. 27
 
-**Arbeitsbedingungen und Gehaltsordnung**
+**Weitere Befugnisse und Aufsicht**
 
-<sup>1</sup> Die Strategische Leitung kann auf Antrag der HEP-Leitung und nach Anhörung des Ausbildungsrates für folgende Bereiche ein Reglement erlassen, das von den kantonalen Rechtsordnungen abweicht:
+<sup>1</sup> Die strategische Leitung übt alle Kompetenzen aus, die nicht einem anderen Organ zukommen.
 
-- a Anzahl Unterrichtsstunden und Anzahl Unterrichtswochen,
-- b Pflichtenhefte der Dozentinnen und Dozenten,
-- c Gehaltsordnung, mit dem Ziel, diese zu harmonisieren; es besteht eine individuelle Besitzstandsgarantie.
+<sup>2</sup> Sie regelt Kompetenzkonflikte zwischen dem HEP-Rat und dem Rektorat.
+
+<sup>3</sup> Sie übt die Aufsicht über die Tätigkeiten der HEP aus.
+
+### 4.1.2 HEP-Rat
 
 #### Art. 28
 
-**Einheitliches Personalstatut**
+**Funktion**
 
-<sup>1</sup> Die Strategische Leitung beschliesst mittelfristig ein einheitliches Personalstatut für alle Neuangestellten.
+<sup>1</sup> Der HEP-Rat ist das für die politischen Aspekte von Lehre, Forschung und Dienstleistungen sowie für Fragen der Gleichstellung und der nachhaltigen Entwicklung verantwortliche Organ.
 
-<sup>2</sup> Sie kann die bereits angestellten Dozentinnen und Dozenten ebenfalls unter das neue Statut stellen, sofern dieses für sie vorteilhafter ist.
+<sup>2</sup> Er legt in einem Jahresbericht zuhanden der strategischen Leitung Rechenschaft über seine Tätigkeiten ab.
 
 #### Art. 29
 
-**Befristete Aufträge**
+**Zusammensetzung**
 
-<sup>1</sup> Die HEP-Leitung ist befugt, Dozentinnen und Dozenten mit befristetem Auftrag anzustellen und ihre Anstellungsbedingungen festzulegen.
+<sup>1</sup> Der HEP-Rat besteht aus sechs Mitgliedern. Jeder Kanton bezeichnet zwei Vertreterinnen oder Vertreter.
+
+<sup>2</sup> Pro Kanton muss eine Vertretung im Bereich des Unterrichts tätig sein.
+
+<sup>3</sup> Die Mandatsdauer entspricht der Legislaturperiode des vertretenen Kantons.
 
 #### Art. 30
 
-**Praxislehrkräfte**
+**Organisation**
 
-<sup>1</sup> Die Kantone sorgen dafür, dass der HEP genügend Praxislehrkräfte zur Verfügung gestellt werden.
+<sup>1</sup> Die Präsidentin oder der Präsident wird von der strategischen Leitung ernannt.
 
-<sup>2</sup> Die Strategische Leitung legt die Anstellungsbedingungen und die Gehaltsordnung fest.
+<sup>2</sup> Die Amtsdauer beträgt zwei Jahre; eine zweite Amtsdauer ist möglich.
 
-### 3.2 Verwaltungspersonal und technisches Personal
+<sup>3</sup> Der HEP-Rat bezeichnet die Vizepräsidentin oder den Vizepräsidenten. Im Übrigen organisiert er sich selbst.
 
 #### Art. 31
 
-**Grundsätze**
+**Beschlussfassung**
 
-<sup>1</sup> Die HEP-Leitung bestimmt auf Grund des Standortes, an dem die Mitarbeiterinnen und Mitarbeiter ihre Haupttätigkeit ausüben, den Kanton, dessen Dienstrecht anwendbar ist.
+<sup>1</sup> Beschlüsse werden mit der Stimmenmehrheit der anwesenden Mitglieder gefasst.
 
-<sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter können verpflichtet werden, ihre Tätigkeit an den drei Standorten auszuüben.
+<sup>2</sup> Bei Stimmengleichheit entscheidet die Präsidentin oder der Präsident durch Stichentscheid.
 
-<sup>3</sup> Die Generalsekretärin oder der Generalsekretär verteilt die Stellen für Verwaltung und Technik zwischen dem HEP-Sitz und den Standorten.
+<sup>3</sup> Im Prinzip nehmen die Mitglieder des Rektorats mit beratender Stimme an den Sitzungen des HEP-Rates teil.
 
 #### Art. 32
 
-**Anstellungsbedingungen und Gehaltsordnung**
+**Befugnisse**
 
-<sup>1</sup> Die Strategische Leitung kann auf Antrag der HEP-Leitung für folgende Bereiche ein Reglement erlassen, das von den kantonalen Rechtsordnungen abweicht:
+<sup>1</sup> Der HEP-Rat hat folgende Befugnisse:
 
-- a Anzahl Arbeitsstunden und Anzahl Ferienwochen,
-- b Pflichtenhefte,
-- c Gehaltsordnung, mit dem Ziel, diese zu harmonisieren; es besteht eine individuelle Besitzstandsgarantie.
+- a Strategische Kompetenzen
+  - 1\. Er äussert sich zur vierjährigen strategischen Vision und deren Finanzrahmen.
+  - 2\. Er äussert sich zum Leistungsvertrag.
+  - 3\. Er äussert sich zu Zusammenarbeitsprojekten mit anderen Institutionen.
+  - 4\. Er berät die notwendigen Massnahmen zur Regulierung der Zulassungszahlen vor.
+  - 5\. Er kontrolliert den Vollzug des Leistungsvertrags.
+  - 6\. Er genehmigt den zweijährlichen Tätigkeitsbericht.
+- b Strukturelle Kompetenzen
+  - 1\. Er äussert sich zur Standortwahl der Studiengänge.
+  - 2\. Er berät die Schaffung, Änderung oder Aufhebung von Studiengängen vor.
+- c Finanzkompetenz
+  - 1\. Er berät das Budget und die Jahresrechnung vor.
+- d Erlassgebende Kompetenzen
+  - 1\. Er genehmigt die Studien- und Weiterbildungsreglemente sowie die Reglemente in Bezug auf Forschung, Dienstleistungen und Fragen der Gleichstellung und der nachhaltigen Entwicklung.
+  - 2\. Er genehmigt die Qualitätssicherungsreglemente.
+- e Auswahlkompetenz
+  - 1\. Er schreibt die Stelle der Rektorin oder des Rektors aus, führt das Kandidatenauswahlverfahren durch und legt der strategischen Leitung seinen Antrag vor.
+
+### 4.1.3 Rektorat
 
 #### Art. 33
 
-**Einheitliches Personalstatut**
+**Funktion und Zusammensetzung**
 
-<sup>1</sup> Die Strategische Leitung beschliesst mittelfristig ein einheitliches Personalstatut für alle Neuangestellten.
+<sup>1</sup> Das Rektorat ist das Führungsorgan der HEP. Es setzt sich aus einer Rektorin oder einem Rektor und zwei Vizerektorinnen oder Vizerektoren zusammen.
 
-<sup>2</sup> Sie kann die bereits angestellten Mitarbeiterinnen und Mitarbeiter ebenfalls unter das neue Statut stellen, sofern dieses für sie vorteilhafter ist.
+<sup>2</sup> Das Mandat der Mitglieder des Rektorats dauert im Prinzip vier Jahre und kann um weitere Amtsperioden verlängert werden.
 
-## 4 Studierende der HEP
+<sup>3</sup> Die Rektorin oder der Rektor vertritt das Rektorat gegenüber den anderen Organen der HEP.
 
 #### Art. 34
 
-**Grundsätze**
+**Befugnisse**
 
-<sup>1</sup> Die Rechtsstellung der Studierenden ist im Studienreglement festgelegt.
+<sup>1</sup> Das Rektorat hat folgende Befugnisse:
 
-<sup>2</sup> Die Diplome werden von der HEP verliehen.
+- a Strategische Kompetenzen
+  - 1\. Es beantragt die vierjährige strategische Vision und deren Finanzrahmen.
+  - 2\. Es nimmt Zusammenarbeitsprojekte mit anderen Institutionen an.
+  - 3\. Es beantragt die notwendigen Massnahmen zur Regulierung der Studierendenzahlen.
+  - 4\. Es vollzieht den Leistungsvertrag.
+  - 5\. Es unterstützt das externe Fundraising.
+  - 6\. Es beantragt den Schlussbericht über den Vollzug des Leistungsvertrags
+  - 7\. Es beantragt den zweijährlichen Tätigkeitsbericht.
+- b Strukturelle Kompetenzen
+  - 1\. Es schlägt die Standorte der HEP vor.
+  - 2\. Es schlägt die Schaffung, die Änderung oder Aufhebung von Studiengängen vor.
+- c Finanzkompetenzen
+  - 1\. Es beantragt die Grundsätze des Finanzhaushalts (Rechnungslegungsstandards).
+  - 2\. Es nimmt das Budget und die Jahresrechnung an.
+  - 3\. Es beantragt das Reglement über die Höhe der Schul- und Studiengebühren.
+  - 4\. Es beschliesst die interne Zuteilung der Mittel.
+  - 5\. Es unterbreitet im Rahmen der Leistungsvertragsbestimmungen Vorschläge zur Verwendung oder Rückerstattung von Ertragsüberschüssen.
+- d Erlassgebende Kompetenzen
+  - 1\. Es beschliesst die Organisationsreglemente des Rektorats.
+  - 2\. Es beschliesst die Vernehmlassungs- und Mitwirkungsreglemente.
+  - 3\. Es nimmt das Reglement der BEJUNE-Kommission Lehrerinnen- und Lehrerbildung an.
+  - 4\. Es beschliesst die Berufs- und Standesregeln.
+  - 5\. Es beschliesst das Organisationsreglement der Personalkommission.
+  - 6\. Es beantragt die Reglemente in Bezug auf Lehre, Forschung und Dienstleistungen.
+  - 7\. Es beantragt die Reglemente in Bezug auf die Studienzulassungsbedingungen und die Stellung der Studierenden und entscheidet über alle Fragen im Zusammenhang mit der Stellung der Studierenden.
+  - 8\. Es beantragt die Qualitätssicherungsreglemente.
+  - 9\. Es beantragt die Reglemente in Bezug auf Stellung, Rechte und Pflichten des Personals.
+  - 10\. Es beschliesst die zur Personalführung und Personalverwaltung nötigen Richtlinien.
 
-<sup>3</sup> Für Beschwerden von Studierenden gilt das Recht des Sitzkantons der HEP.
-
-## 5 Finanzierung der HEP
-
-### 5.1 Betriebskosten der HEP
+### 4.1.4 Rektorin oder Rektor
 
 #### Art. 35
 
-**Betriebskosten**
+**Funktion**
 
-<sup>1</sup> Die HEP finanziert die Betriebskosten der Tätigkeiten an den Standorten sowie ihre eigenen Verwaltungskosten.
+<sup>1</sup> Die Rektorin oder der Rektor nimmt folgende Befugnisse wahr:
 
-<sup>2</sup> Die Betriebskosten umfassen namentlich die Gehälter, die notwendigen Verwaltungskosten, Infrastruktur- und Unterhaltskosten sowie Material und Dienstleistungskosten.
+- a Sie oder er vertritt die HEP gegen aussen.
+- b Sie oder er steht dem Rektorat vor.
+- c Sie oder er gewährleistet gegenüber den Unterzeichnerkantonen die Qualität der Aufgabenerfüllung und die effiziente Verwaltung der Ressourcen.
+- d Sie oder er beantragt der strategischen Leitung die Ernennung der anderen Mitglieder des Rektorats.
+- e Sie oder er stellt auf Antrag des Rektorats das HEP-Personal an.
+- f Sie oder er beschliesst die Kommunikationspolitik der HEP.
+- g Sie oder er erteilt und entzieht die Ausbildungstitel und Ausbildungsdiplome.
 
-### 5.2 Ressourcen der HEP
+<sup>2</sup> Sie oder er leitet die HEP und trifft als zuständiges Organ im Notfall alle Massnahmen, die für den reibungslosen Betrieb der Institution nötig sind.
+
+### 4.2 Beratendes Organ - BEJUNE-Kommission Lehrerinnen- und Lehrerbildung
 
 #### Art. 36
 
-**Ressourcen**
+**Funktion**
 
-<sup>1</sup> Die Ressourcen der HEP bestehen im Wesentlichen aus den Finanzbeiträgen der Konkordatskantone.
+<sup>1</sup> Die BEJUNE-Kommission Lehrerinnen- und Lehrerbildung (nachstehend: BEJUNE-Kommission) ist eine beratende Kommission des HEP-Rates und des Rektorats.
 
-<sup>2</sup> Die Strategische Leitung legt die Finanzbeiträge der Kantone fest.
+<sup>2</sup> Sie ist ein Ort für Austausch, Diskussionen und Absprachen zwischen der HEP, den kantonalen Bildungsstellen und den Schulleitungen.
 
-<sup>3</sup> Zu den Ressourcen der HEP zählen weiter auch:
-
-- a die Kursgebühren und Kostenbeteiligungen im Zusammenhang mit den Leistungen der HEP,
-- b die entrichteten Studiengebühren für Studierende aus Nichtkonkordatskantonen,
-- c die Bundesbeiträge sowie Beiträge anderer Körperschaften oder Dritter,
-- d die Einnahmen aus Verträgen mit Universitäten oder externen Auftraggebern.
-
-### 5.3 Beiträge der Konkordatskantone
+<sup>3</sup> Die Studentenschaft und die Berufsverbände sind in der Kommission vertreten.
 
 #### Art. 37
 
-**Budget**
+**Auftrag**
 
-<sup>1</sup> Die Strategische Leitung beschliesst im Voraus die Höhe der verschiedenen Beiträge, die von jedem Konkordatskanton geschuldet werden.
+<sup>1</sup> Die BEJUNE-Kommission gibt zuhanden des HEP-Rates und des Rektorats Stellungnahmen und Empfehlungen in Bezug auf die Lehrerinnen- und Lehrerbildung ab.
 
-<sup>2</sup> Sie teilt die geschuldeten Beiträge den Konkordatskantonen neun Monate vor Beginn des Jahres mit, für das die Beiträge budgetiert sind.
-
-<sup>3</sup> Die Beschlüsse der Strategischen Leitung sind für die Konkordatskantone verbindlich.
+<sup>2</sup> Sie befasst sich mit allen Themen im Zusammenhang mit ihrem Auftrag, namentlich mit den Bedürfnissen der Arbeitgeberstellen sowie mit den Problemfeldern Zulassung, berufspraktische Betreuung und Monitoring.
 
 #### Art. 38
 
-**Beitragshöhe**
+**Organisation**
 
-<sup>1</sup> Der Jahresbeitrag jedes Konkordatskantons berechnet sich nach folgenden drei Kriterien:
+<sup>1</sup> Zusammensetzung und Organisation der BEJUNE-Kommission sind Gegenstand eines separaten Reglements.
 
-- a Jeder Kanton leistet einen identischen Beitrag, der auf Grund des Mitbestimmungsrechts in den Organen der HEP berechnet wird.
-- b Jeder Kanton leistet einen Beitrag, der im Verhältnis zur Anzahl der von seinen Studierenden sowie von seinen Kursteilnehmerinnen und Kursteilnehmern an der HEP besuchten Stunden festgelegt ist; ihre Herkunft bestimmt sich nach den von der Strategischen Leitung festgelegten Kriterien.
-- c Jeder Kanton leistet einen jährlichen Beitrag, der im Verhältnis zur Anzahl der Stunden festgelegt ist, welche die Studierenden und Kursteilnehmerinnen und Kursteilnehmer der HEP in den Ausbildungsstätten seines eigenen Standorts besuchen.
-
-### 5.4 Kursgebühren, Kostenbeteiligungen und Studiengebühren
+### 4.3 Mitwirkungsorgane
 
 #### Art. 39
 
-**Kursgebühren und Kostenbeteiligungen**
+**Verfasste Körperschaften**
 
-<sup>1</sup> Die Höhe der Kursgebühren und Kostenbeteiligungen im Zusammenhang mit den Leistungen der HEP wird nach dem Grundsatz der Gegenseitigkeit mit jenen der anderen Pädagogischen Hochschulen der Westschweiz harmonisiert.
+<sup>1</sup> Verfasste Körperschaften sind:
 
-<sup>2</sup> Es ist den Konkordatskantonen freigestellt, die Kursgebühren und Kostenbeteiligungen zurückzuerstatten oder sie ganz oder teilweise zu übernehmen.
+- a das gesamte Personal,
+- b das akademische Personal,
+- c das administrative und technische Personal,
+- d die Studierendenschaft,
+- e die Studierenden jedes Grundstudiengangs.
+
+### 4.3.1 Personalkommission
 
 #### Art. 40
 
-**Studiengebühren**
+**Funktion**
 
-<sup>1</sup> Die Strategische Leitung legt die Höhe der Studiengebühren fest, die von den Kantonen oder von den Studierenden aus Kantonen, welche das Konkordat nicht unterzeichnet haben, geschuldet werden.
-
-## 6 Besondere Bestimmungen
+<sup>1</sup> Die Personalkommission übt die Mitwirkungsrechte des HEP-Personals aus.
 
 #### Art. 41
 
-**Anwendbares Recht**
+**Aufgaben**
 
-<sup>1</sup> Die Organisation und der Betrieb der HEP werden durch dieses Konkordat und die entsprechenden Reglemente geregelt. Im Übrigen ist das Recht des Sitzkantons subsidiär anwendbar.
+<sup>1</sup> Die Personalkommission wird vom Rektorat konsultiert. Sie nimmt zu allen wichtigen Dossiers der HEP Stellung, namentlich zu den Bestimmungen in Bezug auf Stellung, Anstellungsverfahren und Ausbildung des Personals.
+
+<sup>2</sup> Sie kann weitere Aufgaben wahrnehmen, die ihr vom Rektorat übertragen werden.
 
 #### Art. 42
 
-**Streitigkeiten, Schlichtung**
+**Organisation**
 
-<sup>1</sup> Die Kantone versuchen, sich bei Streitigkeiten, die sich aus der Anwendung des Konkordats ergeben, gütlich zu einigen.
+<sup>1</sup> Zusammensetzung und Organisation der Personalkommission sind Gegenstand eines separaten Reglements.
 
-<sup>2</sup> Kommt es zu keiner gütlichen Einigung, legen sie die Streitigkeit einem aus drei Mitgliedern zusammengesetzten Schiedsgericht vor. Jede an der Streitigkeit beteiligte Partei bezeichnet ein Mitglied des Schiedsgerichts; die beiden Mitglieder wählen gemeinsam das dritte Mitglied, welches das Schiedsgericht leitet. Lehnen die Parteien die Schiedsgerichtspräsidentin oder den Schiedsgerichtspräsidenten ab, wird diese oder dieser von der Verwaltungsgerichtspräsidentin oder vom Verwaltungsgerichtspräsidenten des Sitzkantons bestimmt.
-
-<sup>3</sup> Das Schiedsgericht urteilt nach dem Grundsatz der Billigkeit; es gilt das Verwaltungsverfahren des Sitzkantons der HEP.
+### 4.3.2 Weitere Mitwirkungsorgane
 
 #### Art. 43
 
-**Dauer**
+**Weitere verfasste Körperschaften**
 
-<sup>1</sup> Das Konkordat wird auf unbestimmte Dauer abgeschlossen.
+<sup>1</sup> Das Rektorat trifft organisatorische Massnahmen, damit die weiteren verfassten Körperschaften ihr Mitwirkungsrecht in Bezug auf Betrieb und Weiterentwicklung der HEP angemessen und unabhängig ausüben können.
+
+### 4.4 Revisionsstelle
 
 #### Art. 44
 
-**Kündigung**
+**Grundsatz**
 
-<sup>1</sup> Die Kantone können mit einer Kündigungsfrist von drei Jahren auf Beginn eines neuen Studienjahres von dem Konkordat zurücktreten.
+<sup>1</sup> Die HEP unterzieht ihre Jahresrechnung einer ordentlichen Revision nach Artikel 728a des Obligationenrechts (OR)[^44-1].
 
-<sup>2</sup> Studierende, die ihr Studium gemäss dem Konkordat aufgenommen haben, können es trotz der Aufkündigung zu den selben Bedingungen abschliessen.
+[^44-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### Art. 45
 
-**Beitritt anderer Kantone**
+**Anforderungen an die Revisionsstelle**
 
-<sup>1</sup> Jeder interessierte Kanton kann mittels einer Beitrittserklärung seitens der Kantonsregierung sowie unter Vorbehalt der Zustimmung durch sein Parlament dem Konkordat beitreten. Die Beitrittsmodalitäten können Gegenstand eines Übereinkommens zwischen der Strategischen Leitung und dem betroffenen Kanton sein.
+<sup>1</sup> Die strategische Leitung bezeichnet als Revisionsstelle eine nach den Vorschriften des Bundesgesetzes vom 16. Dezember 2005 über die Zulassung und Beaufsichtigung der Revisorinnen und Revisoren (Revisionsaufsichtsgesetz, RAG)[^45-1] zugelassene Revisionsstelle.
 
-## 7 Übergangs- und Schlussbestimmungen
+<sup>2</sup> Die Revisionsstelle muss unabhängig sein und sich ihr Prüfungsurteil objektiv bilden. Die Unabhängigkeit darf gemäss Artikel 728 OR weder tatsächlich noch dem Anschein nach beeinträchtigt sein.
+
+[^45-1]: SR [221.302](https://db.clex.ch/link/Bund/221.302/de)
 
 #### Art. 46
 
-**Übergangszeit**
+**Auftrag**
 
-<sup>1</sup> Die Strategische Leitung und die HEP-Leitung unternehmen im Rahmen der Bestimmungen der Regierungsvereinbarung von Februar/März 1998 die zur Umsetzung der HEP erforderlichen Arbeiten. Sie ergreifen alle nötigen Massnahmen zur Regelung des Übergangs von den alten in die neuen Strukturen.
+<sup>1</sup> Die Revisionsstelle erstattet der strategischen Leitung einen umfassenden Bericht im Sinne von Artikel 728b OR.
 
-<sup>2</sup> Bis zur Inbetriebnahme der HEP setzt sich die HEP-Leitung aus vier Bereichsdirektorinnen und Bereichsdirektoren und je einer Vertreterin oder einem Vertreter der Konkordatskantone als kantonale Koordinatorin oder kantonaler Koordinator zusammen.
+## 5 Personal
 
 #### Art. 47
 
-**Finanzielle Übergangsmassnahmen**
+**Grundsätze**
 
-<sup>1</sup> Während der Übergangszeit von den alten Strukturen in die neue Struktur der Lehrerinnen- und Lehrerbildung kann die Strategische Leitung finanzielle Übergangsmassnahmen ergreifen, die insbesondere von Artikel 38 des Konkordats abweichen.
+<sup>1</sup> Die Stellung des HEP-Personals ist öffentlich-rechtlicher Natur. Privatrechtliche Anstellungen für befristetes Personal bleiben vorbehalten.
 
-<sup>2</sup> Diese Massnahmen sollen die fortschreitende Anpassung an die in dem Konkordat festgelegten Finanzierungsmodalitäten erleichtern.
+<sup>2</sup> Die Stellung des HEP-Personals lehnt sich an das jurassische Staatspersonalgesetz vom 22. September 2010[^47-1] an.
 
-<sup>3</sup> Sie erlöschen spätestens vier Jahre nach Inbetriebnahme der HEP.
+<sup>3</sup> Das allgemeine Personalstatut umfasst namentlich Vorschriften über die fachlichen Qualifikationen, die Anstellungsmodalitäten, die Arbeitsorganisation und den Ferienanspruch.
+
+<sup>4</sup> Die strategische Leitung kann im allgemeinen Personalstatut die Kompetenz, für jede Kategorie des HEP-Personals eigene Regelungen sowie Regelungen über die berufliche Entwicklung zu beschliessen, an das Rektorat delegieren.
+
+[^47-1]: RSJU [173.11](https://db.clex.ch/link/JU/173.11/de)
 
 #### Art. 48
 
-**Anfängliche Rechtsstellung und Anstellungsbedingungen für das Personal**
+**Akademisches Personal**
 
-<sup>1</sup> Das bisherige Lehrpersonal, Verwaltungspersonal und technische Personal der kantonalen Institutionen, die zur HEP zusammengefasst werden, wird von der Strategischen Leitung unter Vorbehalt der Absätze 3 und 4 wieder angestellt; Artikel 30 Absatz 2 bleibt vorbehalten.
+<sup>1</sup> Das akademische Personal umfasst die Personen, die hauptsächlich Lehr- und Forschungsaufgaben wahrnehmen.
 
-<sup>2</sup> In Abweichung von Artikel 26 und 31 behalten Personen mit Besitzstandsrechten gemäss Artikel 27 und 32 ihre kantonale Rechtsstellung.
-
-<sup>3</sup> Personen, welche nicht über die erforderlichen Qualifikationen verfügen, haben die Pflicht, sich innert nützlicher Frist die notwendigen Zusatzqualifikationen anzueignen. Andernfalls wird nach Ablauf einer von der Strategischen Leitung festgelegten Frist das Dienstverhältnis im Prinzip gekündigt. Vorbehalten bleiben besondere Fälle, die von der Strategischen Leitung entschieden werden.
-
-<sup>4</sup> Allfällige Stellenaufhebungen, die wegen geänderter Bedürfnisse oder wegen Reorganisation nötig werden, erfolgen auf der Grundlage von Verhandlungen zwischen den drei Konkordatskantonen.
+<sup>2</sup> Als verfasste Körperschaft übt es seine Mitwirkungsrechte in allen Fragen aus, die es spezifisch betreffen.
 
 #### Art. 49
 
-**Frist zur Anpassung der kantonalen Gesetzgebung**
+**Administratives und technisches Personal**
 
-<sup>1</sup> Kantonale Erlasse, die dem vorliegenden Konkordat widersprechen, sind mit dem Inkrafttreten dieses Konkordats nicht mehr anwendbar.
+<sup>1</sup> Das administrative und technische Personal umfasst alle anderen Personen, die keine akademische Funktion wahrnehmen.
 
-<sup>2</sup> Die Kantone haben ab Inkrafttreten des Konkordats eine Frist von fünf Jahren, um ihre Gesetzgebung an das Konkordatsrecht anzupassen.
+<sup>2</sup> Als verfasste Körperschaft übt es seine Mitwirkungsrechte in allen Fragen aus, die es spezifisch betreffen.
+
+## 6 Studentinnen und Studenten
 
 #### Art. 50
 
-**Inbetriebnahme der HEP**
+**Zulassung**
 
-<sup>1</sup> Die Strategische Leitung entscheidet über den Beginn der Inbetriebnahme der HEP.
+<sup>1</sup> Das Studienreglement legt in Übereinstimmung mit dem übergeordneten Recht die Zulassungsbedingungen für die Studentinnen und Studenten fest.
 
 #### Art. 51
 
+**Regulierungsmassnahmen**
+
+<sup>1</sup> Um die Qualität der Ausbildung zu gewährleisten, kann die strategische Leitung je nach Aufnahmekapazitäten der HEP und je nach verfügbaren Plätzen für die betriebliche Praxisausbildung mit Regulierungsmassnahmen die Zulassungszahl begrenzen.
+
+<sup>2</sup> Im Falle einer Studienplatzbegrenzung werden die Kandidatinnen und Kandidaten aufgrund ihrer Eignung zum Studium ausgewählt.
+
+<sup>3</sup> Für das im Hinblick auf die Zulassung durchgeführte Verfahren zur Evaluation der Studieneignung kann von den Kandidatinnen und Kandidaten eine Gebühr von 100 bis 500 Franken verlangt werden.
+
+#### Art. 52
+
+**Grundsätze**
+
+<sup>1</sup> Die Stellung der Studierenden ist im Studienreglement festgelegt.
+
+<sup>2</sup> Die akademischen Aspekte, namentlich die Zulassungs-, Studien- und Prüfungsbedingungen, werden in Übereinstimmung mit den interkantonalen, eidgenössischen und internationalen Bestimmungen durch die internen Reglemente der HEP geregelt.
+
+<sup>3</sup> Die Abschlussdiplome werden durch die HEP ausgestellt.
+
+#### Art. 53
+
+**Mitwirkungsrecht**
+
+<sup>1</sup> Als verfasste Körperschaft üben die Studentinnen und Studenten ihre Mitwirkungsrechte in allen Fragen aus, die sie spezifisch betreffen.
+
+<sup>2</sup> Das angemessene Mitwirkungsrecht der Studentinnen und Studenten in Bezug auf Betrieb und Weiterentwicklung der HEP wird über anerkannte Studentenvereinigungen oder Studentenräte ausgeübt.
+
+<sup>3</sup> Zwei Vertreterinnen und Vertreter der Studentenschaft haben in der BEJUNE-Kommission Einsitz.
+
+## 7 Haftung
+
+#### Art. 54
+
+**Verantwortlichkeit**
+
+<sup>1</sup> Die HEP haftet für den Schaden, den ihre Organe oder ihr Personal in Ausübung ihrer Funktion Dritten widerrechtlich zufügen.
+
+<sup>2</sup> Der geschädigten Person steht gegenüber der fehlbaren Person kein Anspruch zu.
+
+<sup>3</sup> Muss die HEP für widerrechtlich verursachten Schaden aufkommen, steht ihr auch nach Auflösung des Dienstverhältnisses der Rückgriff auf die fehlbare Person zu.
+
+<sup>4</sup> Das Personal haftet gegenüber der HEP für Schäden, die ihr durch eine vorsätzliche oder grobfahrlässige Verletzung der Amtspflichten entstanden sind.
+
+<sup>5</sup> Des Weiteren ist das jurassische Staatspersonalgesetz sinngemäss anwendbar.
+
+## 8 Finanzbestimmungen
+
+#### Art. 55
+
+**Ressourcen der HEP**
+
+<sup>1</sup> Die Ressourcen der HEP bestehen im Wesentlichen aus den Finanzbeiträgen der Unterzeichnerkantone. Diese umfassen:
+
+- a die von den Unterzeichnerkantonen gemäss Verteilschlüssel bezahlten Jahresbeiträge,
+- b die Entgelte für von den Unterzeichnerkantonen in Auftrag gegebene Dienstleistungen und Weiterbildungen.
+
+<sup>2</sup> Weitere Einnahmen der HEP sind:
+
+- a von den Studentinnen und Studenten bezahlte Studiengebühren und Studienkostenbeteiligungen,
+- b Einnahmen aus Drittmitteln oder Verträgen mit externen Auftraggebern,
+- c Einnahmen aus Dienstleistungen oder Verkäufen,
+- d Beiträge des Bundes, weiterer Körperschaften oder Dritter,
+- e Schenkungen und Vermächtnisse, Mäzenatentum und Sponsoring.
+
+#### Art. 56
+
+**Betriebskosten**
+
+<sup>1</sup> Die Unterzeichnerkantone finanzieren die Betriebskosten der Institution, einschliesslich der Infrastrukturkosten.
+
+#### Art. 57
+
+**Beiträge der Kantone an die Betriebskosten**
+
+<sup>1</sup> Die strategische Leitung legt die finanzielle Beteiligung der Unterzeichnerkantone an den Betriebskosten fest.
+
+<sup>2</sup> Die finanzielle Beteiligung beruht im Wesentlichen auf der Zahl der zum Grundstudium zugelassenen Studentinnen und Studenten pro Unterzeichnerkanton; sie kann auch der Wohnbevölkerung und der Schülerpopulation in jedem Unterzeichnerkanton Rechnung tragen.
+
+#### Art. 58
+
+**Beiträge der Kantone an die Infrastrukturkosten**
+
+<sup>1</sup> Die Unterzeichnerkantone stellen der HEP die Infrastruktur zur Verfügung, die den ihren Aufgaben entsprechenden Qualitätsstandards genügt.
+
+<sup>2</sup> Die Infrastrukturkosten umfassen namentlich Gebäudemieten, Energie-, Unterhalts- und Hauswartkosten.
+
+<sup>3</sup> Diese Kosten werden nach einem von der strategischen Leitung festgelegten Verteilschlüssel finanziert.
+
+#### Art. 59
+
+**Finanzrahmen**
+
+<sup>1</sup> Der im Leistungsvertrag definierte vierjährige Finanzrahmen bestimmt sich nach den Budgetverfahren der Unterzeichnerkantone.
+
+#### Art. 60
+
+**Budget und Jahresrechnung**
+
+<sup>1</sup> Die strategische Leitung genehmigt in der ersten Hälfte des Kalenderjahres das Budget für das folgende Jahr.
+
+<sup>2</sup> Im selben Zeitraum genehmigt die strategische Leitung die vierjährige Budgetplanung.
+
+<sup>3</sup> Die strategische Leitung genehmigt im Laufe des ersten Halbjahres nach dem Datum des Jahresabschlusses die Jahresrechnung der Institution.
+
+<sup>4</sup> Die Beschlüsse der strategischen Leitung sind unter Vorbehalt von Artikel 59 für die Unterzeichnerkantone verbindlich.
+
+#### Art. 61
+
+**Gebühren**
+
+<sup>1</sup> Die HEP erhebt bei den Studierenden Gebühren für die Grundausbildungen, für die Vorbereitungskurse auf die Grundausbildungen und für die Prüfungen.
+
+<sup>2</sup> Die Studiengebühren für die Grundausbildungen betragen zwischen 500 und 1000 Franken pro Semester.
+
+<sup>3</sup> Es können Prüfungsgebühren zwischen 150 und 500 Franken erhoben werden.
+
+<sup>4</sup> Die HEP erhebt eine Gebühr für die von ihr organisierten Weiterbildungskurse. Diese ist grundsätzlich kostendeckend und marktgerecht festzulegen.
+
+<sup>5</sup> Die HEP erhebt für Auskultantinnen und Auskultanten Gebühren. Die Gebühren betragen zwischen 100 und höchstens 1000 Franken pro Semester.
+
+<sup>6</sup> Die HEP legt das Entgelt für ihre Dienstleistungen so fest, dass es kostendeckend und marktgerecht ist.
+
+## 9 Anwendbares Recht, Streitigkeiten und Schiedsgerichtsbarkeit
+
+#### Art. 62
+
+**Anwendbares Recht**
+
+<sup>1</sup> Die Organisation und der Betrieb der HEP werden durch dieses Konkordat, die entsprechenden Reglemente und die Anwendungsbestimmungen geregelt.
+
+<sup>2</sup> Das Recht des Sitzkantons ist subsidiär anwendbar.
+
+#### Art. 63
+
+**Streitigkeiten**
+
+<sup>1</sup> Gegen Verfügungen der HEP kann bei der Verfügungsbehörde Einsprache und dann beim Rektorat Beschwerde erhoben werden.
+
+<sup>2</sup> Die Entscheidungen des Rektorats können bei der verwaltungsrechtlichen Abteilung des jurassischen Kantonsgerichts angefochten werden.
+
+<sup>3</sup> Das Einspracheverfahren ist kostenlos.
+
+<sup>4</sup> Des Weiteren ist das jurassische Gesetz vom 30. November 1978 «Loi de procédure et de juridiction administrative et constitutionnelle (Code de procédure administrative)»[^63-1] sinngemäss anwendbar.
+
+[^63-1]: RSJU [175.1](https://db.clex.ch/link/JU/175.1/de)
+
+#### Art. 64
+
+**Schiedsgerichtsbarkeit**
+
+<sup>1</sup> Die Unterzeichnerkantone legen Differenzen möglichst auf dem Schlichtungs- oder Mediationsweg bei.
+
+<sup>2</sup> Können sie sich nicht einigen, unterbreiten sie die Streitigkeiten bezüglich der Auslegung oder der Anwendung dieses Konkordats einem aus drei Richterinnen und Richtern zusammengesetzten Schiedsgericht.
+
+<sup>3</sup> Jede Partei bestimmt eine Schiedsrichterin oder einen Schiedsrichter, die beide gemeinsam die dritte Schiedsrichterin oder den dritten Schiedsrichter wählen, die oder der den Vorsitz innehat und Juristin oder Jurist sein muss.
+
+<sup>4</sup> Können sich die beiden Parteien auf kein Schiedsgerichtspräsidium einigen, wird dieses von der Präsidentin oder vom Präsidenten der verwaltungsrechtlichen Abteilung des jurassischen Kantonsgerichts bestimmt.
+
+<sup>5</sup> Das Schiedsgericht kann nach Billigkeit entscheiden, wenn eine rechtliche Grundlage oder eine anwendbare Regel fehlt.
+
+<sup>6</sup> Es verfährt unter Vorbehalt der zwingenden Schiedsgerichtsbarkeitsbestimmungen der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (ZPO)[^64-1] nach der Verwaltungsrechtspflege des Kantons Jura. Es kann den Parteien eine Schiedsvereinbarung vorschlagen.
+
+<sup>7</sup> Die Unterzeichnerkantone sind an den begründeten Entscheid des Schiedsgerichts gebunden.
+
+<sup>8</sup> Im Übrigen wird auf die Bestimmungen der sinngemäss anwendbaren Schweizerischen Zivilprozessordnung verwiesen.
+
+[^64-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+
+## 10 Dauer, Evaluation, Kündigung
+
+#### Art. 65
+
+**Dauer**
+
+<sup>1</sup> Dieses Konkordat wird auf unbestimmte Dauer abgeschlossen.
+
+#### Art. 66
+
+**Evaluation**
+
+<sup>1</sup> Die strategische Leitung lädt das Rektorat nach Inkrafttreten dieses Konkordats ein, innerhalb von vier Jahren eine erste Evaluation seiner Anwendung vorzunehmen.
+
+<sup>2</sup> Die strategische Leitung lädt das Rektorat gestützt auf den Evaluationsbericht gegebenenfalls ein, innerhalb von zwölf Monaten die nötigen Massnahmen zu treffen.
+
+#### Art. 67
+
+**Kündigung**
+
+<sup>1</sup> Die Partnerkantone können dieses Konkordat unter Einhaltung einer Frist von vier Jahren schriftlich auf Beginn eines Studienjahres kündigen.
+
+#### Art. 68
+
+**Kündigungsfolgen**
+
+<sup>1</sup> Während der Kündigungsfrist bleiben die finanziellen Verpflichtungen der Kantone bestehen.
+
+<sup>2</sup> Das Konkordat bleibt in Kraft, solange ihm mindestens zwei Kantone angeschlossen sind.
+
+<sup>3</sup> Die Studierenden des kündenden Kantons, die ihr Studium vor der formellen Kündigung dieses Konkordats begonnen haben, können dieses gemäss Konkordat und dessen Ausführungsbestimmungen zu Ende führen.
+
+#### Art. 69
+
+**Weiterführung der Tätigkeiten**
+
+<sup>1</sup> Wird das Konkordat durch mindestens zwei Kantone aufgelöst, nehmen die Parteien Verhandlungen auf, um die Weiterführung der Tätigkeiten der HEP vertraglich zu regeln.
+
+<sup>2</sup> Sollten die Verhandlungen scheitern, bestimmen die Kantone eine Kommissärin oder einen Kommissär, die oder der den Auftrag hat, die Fortsetzung der Tätigkeiten der HEP solange sicherzustellen, bis sie eine Einrichtung gefunden haben, die diese Tätigkeiten übernimmt. Können sie sich nicht einigen, wird die Kommissärin oder der Kommissär durch die Präsidentin oder den Präsidenten der verwaltungsrechtlichen Abteilung des jurassischen Kantonsgerichts bestimmt.
+
+<sup>3</sup> Die finanziellen Verpflichtungen der Unterzeichnerkantone bleiben trotz der Kündigung so lange bestehen, bis eine oder mehrere andere Einrichtungen die Tätigkeiten der HEP übernehmen.
+
+## 11 Übergangs- und Schlussbestimmungen
+
+#### Art. 70
+
+**Übernahme der Vollzugsgesetzgebung**
+
+<sup>1</sup> Die Ausführungsgesetzgebung zum Interkantonalen Konkordat zur Schaffung einer gemeinsamen Pädagogischen Hochschule der Kantone Bern, Jura und Neuenburg (Haute Ecole Pédagogique, HEP-BEJUNE)[^70-1], das 2000 von den Kantonsparlamenten genehmigt wurde, wird vollständig übernommen.
+
+<sup>2</sup> Dasselbe gilt für die unter dem besagten Konkordat eingegangenen Verpflichtungen und Pflichten.
+
+<sup>3</sup> Die Ausführungsgesetzgebung wird innerhalb von drei Jahren nach Inkrafttreten des Konkordats von den zuständigen Konkordatsorganen angepasst.
+
+[^70-1]: BSG [439.28-1](https://www.belex.sites.be.ch/data/439.28-1/de)
+
+#### Art. 71
+
+**Anpassung der kantonalen Gesetzgebungen**
+
+<sup>1</sup> Die Unterzeichnerkantone haben ab Inkrafttreten dieses Konkordats zwei Jahre Zeit, um gegebenenfalls ihre Gesetzgebung anzupassen.
+
+#### Art. 72
+
+**Kündigung des bisherigen Konkordats**
+
+<sup>1</sup> Mit dem Inkrafttreten dieses Konkordats wird das am 1. August 2001 in Kraft getretene Interkantonale Konkordat zur Schaffung einer gemeinsamen Pädagogischen Hochschule der Kantone Bern, Jura und Neuenburg (Haute Ecole Pédagogique, HEP-BEJUNE) aufgehoben.
+
+#### Art. 73
+
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Konkordat tritt nach Genehmigung durch den Bundesrat mit seiner Veröffentlichung in der Systematischen Sammlung des Bundesrechts in Kraft.
+<sup>1</sup> Dieses Konkordat tritt nach der Genehmigung durch die Unterzeichnerkantone am von der strategischen Leitung festgelegten Datum[^73-1] in Kraft.
 
-01-44
+[^73-1]: 1. August 2021
+
+Delsberg, 14. November 2019
+
+Im Namen der strategischen Leitung der HEP-BEJUNE:
+
+Monika Maire-Hefti,
+
+Präsidentin Maxime Zuber, Rektor
+
+21-063
