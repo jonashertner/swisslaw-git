@@ -4,13 +4,13 @@ number: "213.1"
 title: Volksschulgesetz
 short: VSG
 language: de
-version: 2018-08-01
-corrected: 2018-07-14
-version_adopted: 2018-01-30
+version: 2021-08-01
+valid_until: 2021-08-02
+version_adopted: 2020-08-04
 adopted: 1983-01-13
 in_force: 1983-04-16
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2408/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3213/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2408/pdf_file"
 
 (VSG)
 
-vom 13.01.1983 (Stand 01.08.2018)
+vom 13.01.1983 (Stand 01.08.2021)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -48,7 +48,7 @@ als Gesetz:[^ingress-3]
 - a) die Bestimmungen dieses Gesetzes über die sonderpädagogischen Massnahmen;
 - b) bei der Anwendung der Bestimmungen dieses Gesetzes über die sonderpädagogischen Massnahmen sachgemäss die übrigen Bestimmungen dieses Gesetzes.
 
-<sup>2</sup> Für den Privatunterricht regelt dieses Gesetz die Aufsicht des Staates.
+<sup>2</sup> Für den Privatunterricht regelt dieses Gesetz die Aufsicht des Kantons.
 
 #### Art. 2
 
@@ -74,41 +74,34 @@ als Gesetz:[^ingress-3]
 
 [^3-1]: Geschlechtsneutrale Formulierung des ganzen Erlasses nach Abschnitt I Ziff. 2 des X. Nachtrags. Diese rein redaktionellen Änderungen werden in den weiteren Bestimmungen nicht mit der entsprechenden Änderungsfussnote ausgewiesen.
 
-## II. Schulgemeinde
+## II. Schulträger
+
+### 1. Allgemein
 
 #### Art. 4
 
 **Schulträger**
 
-<sup>1</sup> Die Schulgemeinden sind Träger der öffentlichen Volksschule.
+<sup>1</sup> Die politischen Gemeinden[^4-1] und die Schulgemeinden sind Träger der öffentlichen Volksschule.
 
 <sup>2</sup> Führt eine Schulgemeinde nur einen Teil der Volksschule, so konstituiert sie sich als Primarschulgemeinde oder als Oberstufenschulgemeinde. Sie kann die von ihr geführten Schultypen in den Namen aufnehmen.
 
-<sup>3</sup> Der katholische Konfessionsteil kann als Oberstufenschulgemeinde in der politischen Gemeinde St.Gallen eine Sekundarschule und eine Realschule führen.[^4-1]
+<sup>3</sup> Der katholische Konfessionsteil kann als Oberstufenschulgemeinde in der politischen Gemeinde St.Gallen eine Sekundarschule und eine Realschule führen.[^4-2]
 
-[^4-1]: Art. [46](https://www.gesetzessammlung.sg.ch/data/173.5/de/art46) Abs. 1 Bst. d VKK, sGS [173.5](https://www.gesetzessammlung.sg.ch/data/173.5/de); Fassung gemäss II. NG.
+[^4-1]: Art. [91](https://www.gesetzessammlung.sg.ch/data/151.2/de/art91) des Gemeindegesetzes, sGS [151.2](https://www.gesetzessammlung.sg.ch/data/151.2/de).
+[^4-2]: Art. [46](https://www.gesetzessammlung.sg.ch/data/173.5/de/art46) Abs. 1 Bst. d VKK, sGS [173.5](https://www.gesetzessammlung.sg.ch/data/173.5/de); Fassung gemäss II. NG.
 
 #### Art. 5
 
-**Gründung**
+**…**
 
-<sup>1</sup> Der Bewilligung der Regierung bedürfen:
-
-- a) die Gründung einer Schulgemeinde,
-- b) die Führung eines neuen Oberstufentyps.
-
-<sup>2</sup> Die Bewilligung wird erteilt, wenn auf Dauer:
-
-- 1\. die erwartete Zahl der Schülerinnen und Schüler ein vollständiges Unterrichtsangebot gewährleistet;
-- 2\. dem Staat gegenüber der bisherigen Organisation kein wesentlicher zusätzlicher Aufwand entsteht.
-
-<sup>3</sup> Die Regierung regelt das Verfahren durch Verordnung.
+### 2. Schulgemeinden
 
 #### Art. 6
 
 **Zuteilung von Grenzgebieten**
 
-<sup>1</sup> Der Erziehungsrat kann im Interesse der Schülerinnen und Schüler Teile einer Schulgemeinde, wie Einzelhäuser, Weiler, Quartiere, einer anderen Schulgemeinde zuteilen.
+<sup>1</sup> Der Bildungsrat kann im Interesse der Schülerinnen und Schüler Teile einer Schulgemeinde, wie Einzelhäuser, Weiler, Quartiere, einer anderen Schulgemeinde zuteilen.
 
 #### Art. 7
 
@@ -124,7 +117,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Primarschulgemeinde führt den Kindergarten sowie die Regelklassen und Kleinklassen der Primarschule.
 
-<sup>2</sup> Sie kann mit Bewilligung des zuständigen Departementes Klassen der Sonderschule für behinderte Kinder führen.
+<sup>2</sup> …
 
 <sup>3</sup> Sie gewährleistet ihren Schülerinnen und Schülern den Besuch der Oberstufe.
 
@@ -134,35 +127,33 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Oberstufenschulgemeinde führt die Regelklassen der Realschule und der Sekundarschule sowie Kleinklassen der Realschule.
 
-<sup>2</sup> Die Regierung kann einer Primarschulgemeinde auf Antrag des Schulrates im Interesse der Schülerinnen und Schüler die Führung der Realschule bewilligen.
+<sup>2</sup> …
 
 #### Art. 9bis
 
 **…**
 
+### 3. gemeinsame Bestimmungen
+
 #### Art. 10
 
-**2. weitere**
+**Freiwillige Aufgaben**
 
-<sup>1</sup> Die Schulgemeinde kann im Rahmen des allgemeinen Schulzwecks freiwillige Aufgaben übernehmen. Sie kann die Elternbildung fördern.
+<sup>1</sup> Der Schulträger kann im Rahmen des allgemeinen Schulzwecks freiwillige Aufgaben übernehmen. Er kann die Elternbildung fördern.
 
-<sup>2</sup> Vorbehalten bleiben die Vorschriften über den Finanzausgleich.[^10-1]
-
-[^10-1]: sGS [813](https://www.gesetzessammlung.sg.ch/data/813/de).
+<sup>2</sup> …
 
 #### Art. 11
 
 **Schulanlagen**
 
-<sup>1</sup> Die Schulgemeinde beschafft und unterhält die notwendigen Schulanlagen.
+<sup>1</sup> Der Schulträger beschafft und unterhält die notwendigen Schulanlagen.
 
-<sup>2</sup> Sie stellt die Anlagen Dritten zur Benützung zur Verfügung, soweit der Schulbetrieb es gestattet. Der Schulrat erlässt ein Benützungsreglement.
+<sup>2</sup> Sie stellt die Anlagen Dritten zur Benützung zur Verfügung, soweit der Schulbetrieb es gestattet. Der Rat erlässt ein Benützungsreglement.
 
 #### Art. 12
 
-**Staatsbeiträge**
-
-<sup>1</sup> Die Staatsbeiträge an die Träger der öffentlichen Volksschule richten sich nach besonderen gesetzlichen Vorschriften.
+**…**
 
 ## III. Schule
 
@@ -186,7 +177,7 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Er berücksichtigt die verschiedenartigen Bildungsbedürfnisse.
 
-<sup>3</sup> Er wird vom Erziehungsrat erlassen und bedarf der Genehmigung der Regierung.
+<sup>3</sup> Er wird vom Bildungsrat erlassen und bedarf der Genehmigung der Regierung.
 
 #### Art. 15
 
@@ -194,15 +185,15 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Abweichend vom Lehrplan können an einzelnen Schulen Schulversuche durchgeführt werden. Sie dürfen das Erreichen der Bildungs- und Lernziele nicht gefährden.
 
-<sup>2</sup> Der Erziehungsrat ordnet die Versuche mit Zustimmung des Schulrates an. Sie werden befristet, überwacht und ausgewertet.
+<sup>2</sup> Der Bildungsrat ordnet die Versuche mit Zustimmung des Rates an. Sie werden befristet, überwacht und ausgewertet.
 
 #### Art. 16
 
 **Religionsunterricht**
 
-<sup>1</sup> Der Religionsunterricht ist Sache der kirchlichen Behörden.
+<sup>1</sup> Der Religionsunterricht ist Sache der Behörden der als öffentlich-rechtliche Körperschaft anerkannten Religionsgemeinschaften.
 
-<sup>2</sup> Die Schulgemeinde stellt die Räumlichkeiten für die Erteilung des Religionsunterrichts unentgeltlich zur Verfügung und nimmt die im Lehrplan vorgesehenen Lektionen in den Stundenplan auf.
+<sup>2</sup> Der Schulträger stellt die Räumlichkeiten für die Erteilung des Religionsunterrichts unentgeltlich zur Verfügung und nimmt die im Lehrplan vorgesehenen Lektionen in den Stundenplan auf.
 
 ### 2. Schulorganisation und Unterricht
 
@@ -217,13 +208,13 @@ als Gesetz:[^ingress-3]
 - a) das Schuljahr und das erste Semester am 1. August;
 - b) das zweite Semester am 1. Februar.
 
-<sup>3</sup> Der Erziehungsrat setzt den Unterrichtsbeginn im Semester fest. Die zuständige Stelle des Staates kann Ausnahmen bewilligen.
+<sup>3</sup> Der Bildungsrat setzt den Unterrichtsbeginn im Semester fest. Die zuständige Stelle des Kantons kann Ausnahmen bewilligen.
 
 #### Art. 17bis
 
 **Besondere Veranstaltungen**
 
-<sup>1</sup> Der Schulrat kann besondere Veranstaltungen als Bestandteil des obligatorischen Unterrichts anordnen oder bewilligen.
+<sup>1</sup> Der Rat kann besondere Veranstaltungen als Bestandteil des obligatorischen Unterrichts anordnen oder bewilligen.
 
 <sup>2</sup> Er:
 
@@ -238,34 +229,34 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Es bestimmen:
 
-- a) der Erziehungsrat zwölf Wochen;
-- b) der Schulrat eine Woche.
+- a) der Bildungsrat zwölf Wochen;
+- b) der Rat eine Woche.
 
 #### Art. 19
 
 **Stundenplan**
 
-<sup>1</sup> Der Stundenplan wird von der Lehrperson entworfen und vom Schulrat erlassen.
+<sup>1</sup> Der Stundenplan wird von der Lehrperson entworfen und vom Rat erlassen.
 
-<sup>2</sup> Der Erziehungsrat erlässt Vorschriften über die Verteilung der wöchentlichen Unterrichtszeit.
+<sup>2</sup> Der Bildungsrat erlässt Vorschriften über die Verteilung der wöchentlichen Unterrichtszeit.
 
-<sup>3</sup> In Kindergarten und Primarschule wird am Vormittag Unterricht in Blockzeiten erteilt. Der Erziehungsrat kann Vorschriften über weitere Blockzeiten erlassen.
+<sup>3</sup> In Kindergarten und Primarschule wird am Vormittag Unterricht in Blockzeiten erteilt. Der Bildungsrat kann Vorschriften über weitere Blockzeiten erlassen.
 
 #### Art. 19bis
 
 **Mittagstisch**
 
-<sup>1</sup> Die Schulgemeinde bietet den Schülerinnen und Schülern über Mittag bedarfsgerecht eine gesunde Verpflegung oder einen Aufenthaltsraum an, in dem diese eine mitgebrachte Verpflegung einnehmen können, soweit nicht die politische Gemeinde diese Aufgabe erfüllt.
+<sup>1</sup> Der Schulträger bietet den Schülerinnen und Schülern über Mittag bedarfsgerecht eine gesunde Verpflegung oder einen Aufenthaltsraum an, in dem diese eine mitgebrachte Verpflegung einnehmen können, soweit nicht die politische Gemeinde diese Aufgabe erfüllt.
 
-<sup>2</sup> Der Schulrat kann von den Eltern einen Beitrag an die Kosten verlangen.
+<sup>2</sup> Der Rat kann von den Eltern einen Beitrag an die Kosten verlangen.
 
 #### Art. 20
 
 **Zusätzliche Angebote**
 
-<sup>1</sup> Die Schulgemeinde sorgt für:
+<sup>1</sup> Der Schulträger sorgt für:
 
-- a) den Transport von Schülerinnen und Schülern mit unzumutbarem Schulweg. Hat die politische Gemeinde oder die Schulgemeinde einen Mittagstisch eingerichtet, besteht kein Anspruch auf einen Transport vor dem Mittag nach Hause und nach dem Mittag zur Schule zurück;
+- a) den Transport von Schülerinnen und Schülern mit unzumutbarem Schulweg. Hat die politische Gemeinde oder der Schulträger einen Mittagstisch eingerichtet, besteht kein Anspruch auf einen Transport vor dem Mittag nach Hause und nach dem Mittag zur Schule zurück;
 - b) …
 - c) die Betreuung der Schülerinnen und der Schüler während Mittagstisch und Wartezeiten.
 
@@ -273,7 +264,7 @@ als Gesetz:[^ingress-3]
 
 **Freiwilliger Instrumental- und Vokalunterricht**
 
-<sup>1</sup> Die Schulgemeinde ermöglicht Schülerinnen und Schülern der Volksschule und der kantonalen Berufsfachschulen mit Wohnsitz im Kanton St.Gallen den Zugang zu freiwilligem Instrumental- und Vokalunterricht.
+<sup>1</sup> Der Schulträger ermöglicht Schülerinnen und Schülern der Volksschule und der kantonalen Berufsfachschulen mit Wohnsitz im Kanton St.Gallen den Zugang zu freiwilligem Instrumental- und Vokalunterricht.
 
 <sup>2</sup> Die Gebühr richtet sich nach [Art. 12a](https://db.clex.ch/link/Bund/442.1/de) des Bundesgesetzes über die Kulturförderung vom 11. Dezember 2009[^20bis-1].
 
@@ -283,37 +274,47 @@ als Gesetz:[^ingress-3]
 
 **Lehrmittel a) Bezeichnung**
 
-<sup>1</sup> Der Erziehungsrat bezeichnet die obligatorischen Lehrmittel.
+<sup>1</sup> Der Bildungsrat bezeichnet die obligatorischen Lehrmittel.
 
 <sup>2</sup> Er kann weitere Lehrmittel empfehlen.
 
 #### Art. 22
 
-**b) Abgabe 1. durch den Staat**
+**b) Abgabe 1. durch den Kanton**
 
-<sup>1</sup> Der Staat gibt den Schulgemeinden und den Trägernanerkannter privater Sonderschulen die obligatorischen und die empfohlenen Lehrmittel unentgeltlich ab.
+<sup>1</sup> Der Kanton gibt den Schulträgern und den Trägern anerkannter privater Sonderschulen die obligatorischen und die empfohlenen Lehrmittel ab.
+
+<sup>2</sup> Der Kanton und der Schulträger tragen die Kosten der abgegebenen Lehrmittel je zur Hälfte. Für Lehrmittel, die der Kanton den Trägern anerkannter privater Sonderschulen abgibt, trägt der Kanton die Kosten vollumfänglich.
 
 #### Art. 23
 
-**2. durch die Schulgemeinde**
+**2. durch den Schulträger**
 
-<sup>1</sup> Die Schulgemeinde stellt weitere Lehrmittel und das Verbrauchsmaterial zur Verfügung.
+<sup>1</sup> Der Schulträger stellt weitere Lehrmittel und das Verbrauchsmaterial zur Verfügung.
 
-<sup>2</sup> Der Schulrat kann für Fächer und Kurse, deren Durchführung einen ausserordentlichen Materialaufwand erfordert, von den Eltern einen Beitrag an die Kosten verlangen.
+<sup>2</sup> Der Rat kann für Fächer und Kurse, deren Durchführung einen ausserordentlichen Materialaufwand erfordert, von den Eltern einen Beitrag an die Kosten verlangen.
+
+#### Art. 23bis
+
+**c) eigene Rechnung**
+
+<sup>1</sup> Für die Erstellung, den Einkauf und die Abgabe von Lehrmitteln in seinem Zuständigkeitsbereich führt der Kanton eine eigene Rechnung auf Vollkostenbasis.
+
+<sup>2</sup> Gewinn und Verlust werden auf die nächste Rechnung vorgetragen.
 
 #### Art. 24
 
 **Unterrichtshilfen**
 
-<sup>1</sup> Die Schulgemeinde beschafft und unterhält Unterrichtshilfen, wie technische Geräte und Anschauungsmaterial.
+<sup>1</sup> Der Schulträger beschafft und unterhält Unterrichtshilfen, wie technische Geräte und Anschauungsmaterial.
 
-<sup>2</sup> Massgebend ist das vom Erziehungsrat bezeichnete Normalinventar.
+<sup>2</sup> Massgebend ist das vom Bildungsrat bezeichnete Normalinventar.
 
 #### Art. 25
 
 **Bibliothek**
 
-<sup>1</sup> Die Schulgemeinde unterhält eine Bibliothek für Schülerinnen und Schüler sowie eine Bibliothek für Lehrpersonen.
+<sup>1</sup> Der Schulträger unterhält eine Bibliothek für Schülerinnen und Schüler sowie eine Bibliothek für Lehrpersonen.
 
 <sup>2</sup> Die Bibliothek für Schülerinnen und Schüler kann zusammen mit anderen Institutionen geführt werden.
 
@@ -321,7 +322,7 @@ als Gesetz:[^ingress-3]
 
 **Klassen a) Bildung und Zuweisung**
 
-<sup>1</sup> Der Schulrat bildet die Klassen und weist sie den Lehrpersonen zu.
+<sup>1</sup> Der Rat bildet die Klassen und weist sie den Lehrpersonen zu.
 
 #### Art. 27
 
@@ -347,36 +348,42 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> In der Primarschule werden einer Lehrperson nicht mehr als drei Jahrgangsklassen zugewiesen.
 
-<sup>2</sup> Wird die Mindestgrösse einer Klasse nicht erreicht, so werden innerhalb der Schulgemeinde Schülerinnen und Schüler verschiedener Schulorte oder Schulhäuser zusammengezogen.
+<sup>2</sup> Wird die Mindestgrösse einer Klasse nicht erreicht, so werden innerhalb des Schulträgers Schülerinnen und Schüler verschiedener Schulorte oder Schulhäuser zusammengezogen.
 
-<sup>3</sup> Ausnahmen bedürfen der Bewilligung der zuständigen Stelle des Staates.
+<sup>3</sup> Ausnahmen bedürfen der Bewilligung der zuständigen Stelle des Kantons.
 
 #### Art. 29
 
 **2. in der Oberstufe**
 
-<sup>1</sup> In der Oberstufe wird der Unterricht in Jahrgangsklassen erteilt.
+<sup>1</sup> In der Oberstufe wird der Unterricht in Jahrgangsklassen erteilt. Der Bildungsrat kann ausnahmsweise altersdurchmischte Klassen bewilligen, wenn sie den Bestand der Oberstufe im Schulträger und die Qualität des Unterrichts sichern.
 
-<sup>2</sup> Ausnahmen bedürfen der Bewilligung der zuständigen Stelle des Staates.
+<sup>2</sup> …
+
+<sup>3</sup> In der Oberstufe kann mit Bewilligung der zuständigen Stelle des Kantons Unterricht in typengemischten Jahrgangsklassen erteilt werden. Die Bewilligung wird erteilt, wenn für den typengemischten Unterricht ein angemessenes organisatorisches und pädagogisches Konzept vorliegt.
+
+<sup>4</sup> In der Oberstufe kann in Niveaugruppen unterrichtet werden.
+
+<sup>5</sup> Der Bildungsrat erlässt Ausführungsbestimmungen.
 
 #### Art. 30
 
 **Beurteilung**
 
-<sup>1</sup> Die Leistung je Unterrichtsbereich wird im Zeugnis mit ganzen und halben Noten beurteilt. Ausnahmen bedürfen der Bewilligung des Erziehungsrates.
+<sup>1</sup> Die Leistung je Unterrichtsbereich wird im Zeugnis mit ganzen und halben Noten beurteilt. Ausnahmen bedürfen der Bewilligung des Bildungsrates.
 
 <sup>2</sup> Die Regierung regelt durch Verordnung:
 
 - a) die Notenwerte für die Beurteilung der Leistung je Unterrichtsbereich;
 - b) die Bewertung des Arbeits-, Lern- und Sozialverhaltens.
 
-<sup>3</sup> Der Erziehungsrat bestimmt durch Reglement den Zeitraum, auf den sich die Beurteilung der Leistung je Unterrichtsbereich und die Bewertung des Arbeits-, Lern- und Sozialverhaltens beziehen.
+<sup>3</sup> Der Bildungsrat bestimmt durch Reglement den Zeitraum, auf den sich die Beurteilung der Leistung je Unterrichtsbereich und die Bewertung des Arbeits-, Lern- und Sozialverhaltens beziehen.
 
 #### Art. 31
 
 **Beförderung und Übertritt**
 
-<sup>1</sup> Der Erziehungsrat ordnet durch Reglement:
+<sup>1</sup> Der Bildungsrat ordnet durch Reglement:
 
 - a) die Beförderung in die nächsthöhere Klasse am Ende des Schuljahres;
 - b) das Wiederholen von Klassen;
@@ -390,7 +397,7 @@ als Gesetz:[^ingress-3]
 
 **Überspringen einer Klasse**
 
-<sup>1</sup> Der Schulrat kann ausserordentlich begabte und sozial reife Schülerinnen und Schüler mit Zustimmung der Eltern und nach Anhören der Lehrperson eine Klasse überspringen lassen.
+<sup>1</sup> Der Rat kann ausserordentlich begabte und sozial reife Schülerinnen und Schüler mit Zustimmung der Eltern und nach Anhören der Lehrperson eine Klasse überspringen lassen.
 
 <sup>2</sup> Lehrperson und Schulpsychologin oder Schulpsychologe sind antragsberechtigt.
 
@@ -398,7 +405,7 @@ als Gesetz:[^ingress-3]
 
 **Unfallversicherung**
 
-<sup>1</sup> Die Regierung kann durch Verordnung Vorschriften über die Pflicht der Schulgemeinde über die Versicherung der Schülerin und des Schülers gegen Unfälle im Schulbetrieb, bei Schulanlässen und auf dem Schulweg erlassen.
+<sup>1</sup> Die Regierung kann durch Verordnung Vorschriften über die Pflicht des Schulträgers über die Versicherung der Schülerin und des Schülers gegen Unfälle im Schulbetrieb, bei Schulanlässen und auf dem Schulweg erlassen.
 
 #### Art. 33
 
@@ -408,7 +415,7 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Sie kann Vorschriften über das Verhalten der Schülerin und des Schülers ausserhalb der Schule enthalten, soweit es Erziehungsauftrag oder Betrieb der Schule erfordern.
 
-<sup>3</sup> Sie wird vom Schulrat erlassen.
+<sup>3</sup> Sie wird vom Rat erlassen.
 
 ### 3. Sonderpädagogische Massnahmen a) Allgemeine Bestimmungen
 
@@ -444,7 +451,7 @@ als Gesetz:[^ingress-3]
 
 **Kindeswohl und Verhältnismässigkeit[^35-1] a) allgemein**
 
-<sup>1</sup> Sonderpädagogische Massnahmen orientieren sich am Bedarf der Kinder in Erfüllung des Erziehungs- und Bildungsauftrags,[^35-2] unter Berücksichtigung des Aufwandes von Schulgemeinde und Kanton.
+<sup>1</sup> Sonderpädagogische Massnahmen orientieren sich am Bedarf der Kinder in Erfüllung des Erziehungs- und Bildungsauftrags,[^35-2] unter Berücksichtigung des Aufwandes von Schulträger und Kanton.
 
 <sup>2</sup> Einem Kind mit ausgewiesenem Bedarf steht eine ausgewiesene Massnahme zu.
 
@@ -481,10 +488,10 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Es verfügen:
 
-- a) der Schulrat heilpädagogische Früherziehung für Kinder, die den Kindergarten besuchen, sonderpädagogische Massnahmen in der Regelschule, einschliesslich Kindergarten, und den Besuch einer Sonderschule;
-- b) die zuständige Stelle des Staates heilpädagogische Frühförderung vor der Schulpflicht, behinderungsspezifische Beratung und Unterstützung sowie eine fortgesetzte Sonderschulung nach der Schulpflicht.
+- a) der Rat heilpädagogische Früherziehung für Kinder, die den Kindergarten besuchen, sonderpädagogische Massnahmen in der Regelschule, einschliesslich Kindergarten, und den Besuch einer Sonderschule;
+- b) die zuständige Stelle des Kantons heilpädagogische Frühförderung vor der Schulpflicht, behinderungsspezifische Beratung und Unterstützung sowie eine fortgesetzte Sonderschulung nach der Schulpflicht.
 
-<sup>2</sup> Verfügt der Schulrat den Besuch einer Sonderschule, bestimmt er nach Absprache mit den Eltern und der Sonderschule die geeignete Sonderschule. Lehnen die Eltern eine stationäre Unterbringung ab und erachtet er diese als im dringenden Interesse des Kindes liegend, ersucht er die Kindes- und Erwachsenenschutzbehörde, die stationäre Unterbringung anzuordnen.
+<sup>2</sup> Verfügt der Rat den Besuch einer Sonderschule, bestimmt er nach Absprache mit den Eltern und der Sonderschule die geeignete Sonderschule. Lehnen die Eltern eine stationäre Unterbringung ab und erachtet er diese als im dringenden Interesse des Kindes liegend, ersucht er die Kindes- und Erwachsenenschutzbehörde, die stationäre Unterbringung anzuordnen.
 
 <sup>3</sup> Die Sonderschule nimmt die Schülerin oder den Schüler im Rahmen des kantonalen Sonderpädagogik-Konzeptes und der mit ihr abgeschlossenen Leistungsvereinbarung auf.
 
@@ -492,9 +499,9 @@ als Gesetz:[^ingress-3]
 
 **b) Gutachten der zentralen Abklärungsstelle**
 
-<sup>1</sup> Der Schulrat holt das Gutachten der zentralen Abklärungsstelle ein, bevor er den Besuch einer Kleinklasse oder einer Sonderschule verfügt.
+<sup>1</sup> Der Rat holt das Gutachten der zentralen Abklärungsstelle ein, bevor er den Besuch einer Kleinklasse oder einer Sonderschule verfügt.
 
-<sup>2</sup> Der Erziehungsrat kann vorschreiben, dass der Schulrat das Gutachten der zentralen Abklärungsstelle einholt, bevor er individuelle Lernziele oder die Befreiung von Lehrplaninhalten verfügt.[^36bis-1]
+<sup>2</sup> Der Bildungsrat kann vorschreiben, dass der Rat das Gutachten der zentralen Abklärungsstelle einholt, bevor er individuelle Lernziele oder die Befreiung von Lehrplaninhalten verfügt.[^36bis-1]
 
 <sup>3</sup> Die zentrale Abklärungsstelle und ihre Mitarbeitenden führen sonderpädagogische Massnahmen nicht selbst durch.
 
@@ -511,8 +518,8 @@ als Gesetz:[^ingress-3]
 <sup>2</sup> Es regelt insbesondere:
 
 - a) die weiteren Grundlagen der Sonderpädagogik in fachlich-pädagogischer und organisatorisch-betrieblicher Hinsicht;
-- b) die Grundlagen der Förderkonzepte und Förderplanungen der Schulgemeinden und der Sonderschulen;
-- c) wirkungsorientierte Instrumente zur Überwachung und Steuerung der sonderpädagogischen Massnahmen. Ausgaben der Schulgemeinden für sonderpädagogische Massnahmen sind gebunden,[^37-2] wenn sie die Vorgaben der Instrumente einhalten oder im Einzelfall ausgewiesen[^37-3] sind;
+- b) die Grundlagen der Förderkonzepte und Förderplanungen des Schulträgers und der Sonderschulen;
+- c) wirkungsorientierte Instrumente zur Überwachung und Steuerung der sonderpädagogischen Massnahmen. Ausgaben des Schulträgers für sonderpädagogische Massnahmen sind gebunden,[^37-2] wenn sie die Vorgaben der Instrumente einhalten oder im Einzelfall ausgewiesen[^37-3] sind;
 - d) die Grundlagen für die Tätigkeit der zentralen Abklärungsstelle;
 - e) den Berufsauftrag von Lehrpersonen und schulischem Fachpersonal;
 - f) Voraussetzungen und Verfahren zur Bewilligung des ausnahmsweisen Besuchs einer ausserkantonalen Sonderschule.
@@ -539,19 +546,19 @@ als Gesetz:[^ingress-3]
 
 **c) Anhörung, Erlass und Genehmigung**
 
-<sup>1</sup> Der Erziehungsrat erlässt das kantonale Sonderpädagogik-Konzept in fachlich-pädagogischer, das zuständige Departement in organisatorisch-betrieblicher Hinsicht. Sie hören vor dem Erlass insbesondere die Schulgemeinden und die anerkannten privaten Sonderschulen sowie zum Versorgungskonzept für den Sonderschulunterricht zusätzlich die politischen Gemeinden an.
+<sup>1</sup> Der Bildungsrat erlässt das kantonale Sonderpädagogik-Konzept in fachlich-pädagogischer, das zuständige Departement in organisatorisch-betrieblicher Hinsicht. Sie hören vor dem Erlass insbesondere die Schulträger und die anerkannten privaten Sonderschulen sowie zum Versorgungskonzept für den Sonderschulunterricht zusätzlich die politischen Gemeinden an.
 
 <sup>2</sup> Das Konzept bedarf der Genehmigung der Regierung. Sie entscheidet bei fehlender Übereinstimmung von fachlich-pädagogischen und organisatorisch-betrieblichen Inhalten.
 
 #### Art. 38
 
-**Vollzug a) Schulgemeinde**
+**Vollzug a) Schulträger**
 
-<sup>1</sup> Die Schulgemeinde führt die sonderpädagogischen Massnahmen der Regelschule durch.
+<sup>1</sup> Der Schulträger führt die sonderpädagogischen Massnahmen der Regelschule durch.
 
-<sup>2</sup> Der Schulrat:
+<sup>2</sup> Der Rat:
 
-- a) erlässt das Förderkonzept und die Förderplanungen der Schulgemeinde;
+- a) erlässt das Förderkonzept und die Förderplanungen des Schulträgers;
 - b) setzt die Instrumente zur Überwachung und Steuerung der sonderpädagogischen Massnahmen ein.[^38-1]
 
 [^38-1]: Art. [37](https://www.gesetzessammlung.sg.ch/data/213.1/de/art37) Abs. 2 Bst. c VSG, sGS [213.1](https://www.gesetzessammlung.sg.ch/data/213.1/de).
@@ -574,7 +581,11 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Er richtet leistungsabhängige Pauschalen aus. Die Sonderschule führt einen Schwankungsfonds zum Ausgleich des in Erfüllung der Leistungsvereinbarung erzielten Betriebsergebnisses.
 
-<sup>3</sup> Die Schulgemeinde leistet dem Kanton jährlich einen pauschalen Beitrag von Fr. 36'000.– je schulpflichtige Schülerin oder schulpflichtigen Schüler in einer Sonderschule. Das zuständige Departement passt den Beitrag jährlich an die Entwicklung der durchschnittlichen Kosten des Besuchs einer Sonderschule, einschliesslich eines Internats, im Kanton an.
+<sup>3</sup> Der Schulträger leistet dem Kanton jährlich einen pauschalen Beitrag von Fr. 40'000.– je schulpflichtige Schülerin oder schulpflichtigen Schüler in einer Sonderschule. Das zuständige Departement passt den Beitrag jährlich an die Entwicklung der durchschnittlichen Kosten des Besuchs einer Sonderschule, einschliesslich eines Internats, im Kanton an.
+
+<sup>4</sup> Die zuständige politische Gemeinde trägt die Elternbeiträge nach Abs. 1 dieser Bestimmung, soweit diese uneinbringlich sind. [Art. 43](https://www.gesetzessammlung.sg.ch/data/381.1/de/art43) Abs. 1 Bst. b des Sozialhilfegesetzes vom 27. September 1998[^39bis-1] wird sachgemäss angewendet.
+
+[^39bis-1]: sGS [381.1](https://www.gesetzessammlung.sg.ch/data/381.1/de).
 
 #### Art. 39ter
 
@@ -586,7 +597,7 @@ als Gesetz:[^ingress-3]
 
 **c) Kanton 1. Genehmigung**
 
-<sup>1</sup> Die zuständige Stelle des Staates genehmigt die Förderkonzepte der Schulgemeinden.[^40-1]
+<sup>1</sup> Die zuständige Stelle des Kantons genehmigt die Förderkonzepte des Schulträgers.[^40-1]
 
 [^40-1]: Art. [38](https://www.gesetzessammlung.sg.ch/data/231.1/de/art38) Abs. 2 Bst. a VSG, sGS [213.1](https://www.gesetzessammlung.sg.ch/data/213.1/de).
 
@@ -597,7 +608,7 @@ als Gesetz:[^ingress-3]
 <sup>1</sup> Das zuständige Departement schliesst die Leistungsvereinbarung ab:
 
 - a) mit den anerkannten privaten Sonderschulen nach Massgabe des Versorgungskonzeptes für den Sonderschulunterricht[^40bis-1];
-- b) mit der zentralen Abklärungsstelle. Sie bedarf der Genehmigung des Erziehungsrates.
+- b) mit der zentralen Abklärungsstelle. Sie bedarf der Genehmigung des Bildungsrates.
 
 [^40bis-1]: Art. [37<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/231.1/de/art37bis) VSG, sGS [213.1](https://www.gesetzessammlung.sg.ch/data/213.1/de).
 
@@ -623,9 +634,9 @@ als Gesetz:[^ingress-3]
 
 **Aufgabenhilfe**
 
-<sup>1</sup> Die Schulgemeinde richtet bei Bedarf eine Aufgabenhilfe ein. Sie kann mit privaten Organisationen zusammenarbeiten.
+<sup>1</sup> Der Schulträger richtet bei Bedarf eine Aufgabenhilfe ein. Sie kann mit privaten Organisationen zusammenarbeiten.
 
-<sup>2</sup> Die Benützung der Aufgabenhilfe ist freiwillig. Der Schulrat regelt die Kostenbeteiligung der Eltern.
+<sup>2</sup> Die Benützung der Aufgabenhilfe ist freiwillig. Der Rat regelt die Kostenbeteiligung der Eltern.
 
 #### Art. 42
 
@@ -635,9 +646,9 @@ als Gesetz:[^ingress-3]
 
 **Schulpsychologische Versorgung a) im Allgemeinen**
 
-<sup>1</sup> Kanton und Schulgemeinden sorgen gemeinsam für die schulpsychologische Versorgung.
+<sup>1</sup> Kanton und Schulträger sorgen gemeinsam für die schulpsychologische Versorgung.
 
-<sup>2</sup> Sie tragen die Kosten der Grundleistungen hälftig. Die Schulgemeinden können Zusatzleistungen erwerben.
+<sup>2</sup> Sie tragen die Kosten der Grundleistungen hälftig. Die Schulträger können Zusatzleistungen erwerben.
 
 <sup>3</sup> …
 
@@ -669,7 +680,7 @@ als Gesetz:[^ingress-3]
 
 **b) Aufschub und Rückstellung**
 
-<sup>1</sup> Der Schulrat kann nach Anhören der Eltern und der Lehrperson:
+<sup>1</sup> Der Rat kann nach Anhören der Eltern und der Lehrperson:
 
 - a) den Beginn der Schulpflicht um ein Jahr aufschieben;
 - b) die Schülerin oder den Schüler in den ersten drei Monaten des Schuljahres ein Jahr zurückstellen.
@@ -692,10 +703,16 @@ als Gesetz:[^ingress-3]
 
 **b) vorzeitige Entlassung**
 
-<sup>1</sup> Der Schulrat:
+<sup>1</sup> Der Rat:
 
 - a) entlässt auf Antrag der Eltern Schülerinnen und Schüler, die drei Jahre die Oberstufe besucht haben, aus der Schulpflicht;
 - b) kann aus wichtigen Gründen Schülerinnen und Schüler, die elf Jahre die Schule besucht haben, aus der Schulpflicht entlassen.
+
+#### Art. 49bis
+
+**Inhalt**
+
+<sup>1</sup> Die Schülerin oder der Schüler besucht alle obligatorischen Fächer und Unterrichtsveranstaltungen. Vorbehalten bleibt eine Dispensation oder ein Urlaub aus wichtigem Grund im Einzelfall. Eine Dispensation oder ein Urlaub ist nur zulässig, wenn ein ausreichender Grundschulunterricht gewährleistet bleibt.
 
 #### Art. 50
 
@@ -719,17 +736,17 @@ als Gesetz:[^ingress-3]
 
 **b) auswärtiger Schulbesuch**
 
-<sup>1</sup> Der Schulrat kann den auswärtigen Schulbesuch gestatten oder anordnen, wenn besondere Gründe, wie unzumutbare Schulwege oder eine sinnvolle Klassenbildung, es rechtfertigen.
+<sup>1</sup> Der Rat kann den auswärtigen Schulbesuch gestatten oder anordnen, wenn besondere Gründe, wie unzumutbare Schulwege oder eine sinnvolle Klassenbildung, es rechtfertigen.
 
-<sup>2</sup> Die Schulgemeinde nimmt Schülerinnen und Schüler aus anderen Schulgemeinden gegen angemessenes Schulgeld auf, soweit die Platzverhältnisse es erlauben.
+<sup>2</sup> Der Schulträger nimmt Schülerinnen und Schüler aus anderen Schulträgern gegen angemessenes Schulgeld auf, soweit die Platzverhältnisse es erlauben.
 
-<sup>3</sup> Die Schulgemeinde am Ort, wo sich die Schülerin oder der Schüler aufhält, trägt das Schulgeld für den auswärtigen Schulbesuch.
+<sup>3</sup> Der Schulträger am Ort, wo sich die Schülerin oder der Schüler aufhält, trägt das Schulgeld für den auswärtigen Schulbesuch.
 
 #### Art. 53bis
 
 **c) Besuch einer Schule für Hochbegabte**
 
-<sup>1</sup> Der Schulrat gestattet den Besuch einer Schule für Hochbegabte, wenn:
+<sup>1</sup> Der Rat gestattet den Besuch einer Schule für Hochbegabte, wenn:
 
 - a) eine Hochbegabung sich in der öffentlichen Schule am Aufenthaltsort nicht entfalten kann;
 - b) die Schule den Erziehungs- und Bildungsauftrag erfüllt und am Standort öffentlich anerkannt ist.
@@ -737,17 +754,15 @@ als Gesetz:[^ingress-3]
 <sup>2</sup> Die Regierung bezeichnet durch Verordnung:
 
 - 1\. die Voraussetzungen für den Besuch einer Schule für Hochbegabte;
-- 2\. die anerkannten Schulen und den Beitrag der Schulgemeinde an das Schulgeld.
+- 2\. die anerkannten Schulen und den Beitrag des Schulträgers an das Schulgeld.
 
 #### Art. 53ter
 
-**Schulgeld bei zivilrechtlicher Unterbringung**
+**Schulgeld bei zivilrechtlicher Unterbringung innerhalb des Kantons**
 
-<sup>1</sup> Bei auswärtiger zivilrechtlicher Unterbringung in ein Kinder- oder Jugendheim entrichtet die zuständige politische Gemeinde der Schulgemeinde am Ort, wo die Schülerin oder der Schüler untergebracht ist, das Schulgeld.
+<sup>1</sup> Bei auswärtiger zivilrechtlicher Unterbringung in ein Kinder- oder Jugendheim oder in eine Pflegefamilie im Kanton entrichtet der Schulträger am zivilrechtlichen Wohnsitz der Schülerin oder des Schülers dem Schulträger am Ort, wo die Schülerin oder der Schüler untergebracht ist, das Schulgeld.
 
-<sup>2</sup> Bei zivilrechtlicher Unterbringung in ein ausserkantonales Kinder- und Jugendheim entspricht das zu entrichtende Schulgeld den tatsächlichen Kosten, höchstens aber dem Durchschnitt der Kosten je Schülerin und Schüler der Volksschule im Kanton St.Gallen nach Art. 21 des Finanzausgleichsgesetzes vom 23. September 2007.[^53ter-1]
-
-[^53ter-1]: sGS [813.1](https://www.gesetzessammlung.sg.ch/data/813.1/de).
+<sup>2</sup> …
 
 ### 3. Verhalten
 
@@ -757,19 +772,29 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Schülerin oder der Schüler hat sich in Schule und Öffentlichkeit anständig und rücksichtsvoll zu verhalten.
 
+#### Art. 54bis
+
+**Bekleidung**
+
+<sup>1</sup> Die Schülerin oder der Schüler hat sich in der Schule korrekt zu kleiden, so dass der Unterricht nicht gestört oder der Schulfrieden nicht gefährdet wird.
+
+<sup>2</sup> Der Bildungsrat erlässt Ausführungsbestimmungen.
+
+<sup>3</sup> Der Rat kann in der Schulordnung oder in einem anderen Reglement ergänzende Vorschriften erlassen.
+
 #### Art. 55
 
 **Disziplinarmassnahmen**
 
 <sup>1</sup> Gegen Schülerinnen und Schüler, deren Verhalten zu Beanstandungen Anlass gibt, können ein auswärtiger Schulbesuch oder andere erzieherisch sinnvolle Disziplinarmassnahmen angeordnet werden.
 
-<sup>2</sup> Als schwerste Massnahme kann der Schulrat den Ausschluss von der Schule verfügen. Vorbehalten bleibt der Besuch der besonderen Unterrichts- und Betreuungsstätte.
+<sup>2</sup> Als schwerste Massnahme kann der Rat den Ausschluss von der Schule verfügen. Vorbehalten bleibt der Besuch der besonderen Unterrichts- und Betreuungsstätte.
 
 #### Art. 55bis
 
 **Besondere Unterrichts- und Betreuungsstätte a) Besuch**
 
-<sup>1</sup> Der Schulrat kann mit Zustimmung der zuständigen Stelle des Staates für Schülerinnen und Schüler, die von der Schule ausgeschlossen wurden, den Besuch der besonderen Unterrichts- und Betreuungsstätte vorsehen.
+<sup>1</sup> Der Rat kann mit Zustimmung der zuständigen Stelle des Kantons für Schülerinnen und Schüler, die von der Schule ausgeschlossen wurden, den Besuch der besonderen Unterrichts- und Betreuungsstätte vorsehen.
 
 <sup>2</sup> Er benachrichtigt die Kindes- und Erwachsenenschutzbehörde. Diese verfügt, ob die Schülerin oder der Schüler nach den Vorschriften des Schweizerischen Zivilgesetzbuches über den Kindesschutz und die fürsorgerische Unterbringung in die besondere Unterrichts- und Betreuungsstätte eintreten muss.
 
@@ -779,9 +804,9 @@ als Gesetz:[^ingress-3]
 
 **b) Organisation und Finanzierung**
 
-<sup>1</sup> Der Staat führt die besondere Unterrichts- und Betreuungsstätte. Der Erziehungsrat erlässt, die Regierung genehmigt den Erziehungsplan.
+<sup>1</sup> Der Kanton führt die besondere Unterrichts- und Betreuungsstätte. Der Bildungsrat erlässt, die Regierung genehmigt den Erziehungsplan.
 
-<sup>2</sup> Schulgemeinde und Kanton tragen die Kosten nach Abzug eines Beitrags des Bundes je zur Hälfte. Die Schulgemeinde kann von den Eltern einen Beitrag verlangen.
+<sup>2</sup> Schulträger und Kanton tragen die Kosten nach Abzug eines Beitrags des Bundes je zur Hälfte. Der Schulträger kann von den Eltern einen Beitrag verlangen.
 
 ## V. Lehrpersonen
 
@@ -823,17 +848,17 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> …
 
-<sup>2</sup> Der Erziehungsrat stellt fest, ob eine Qualifikation einem anerkannten Lehrdiplom gleichwertig ist.
+<sup>2</sup> Der Bildungsrat stellt fest, ob eine Qualifikation einem anerkannten Lehrdiplom gleichwertig ist.
 
 #### Art. 61
 
 **Berufsverbot**
 
-<sup>1</sup> Der Erziehungsrat verfügt ein Berufsverbot, wenn die Eignung für die Lehrtätigkeit fehlt.
+<sup>1</sup> Der Bildungsrat verfügt ein Berufsverbot, wenn die Eignung für die Lehrtätigkeit fehlt.
 
 <sup>2</sup> Haben sich die Verhältnisse wesentlich verändert, verfügt er die Aufhebung des Verbots.
 
-<sup>3</sup> Die zuständige Stelle des Staates meldet Verbot und Aufhebung den Schulräten des Kantons St.Gallen und den zuständigen Stellen der Kantone, die das Lehrdiplom durch Vereinbarung anerkennen.
+<sup>3</sup> Die zuständige Stelle des Kantons meldet Verbot und Aufhebung den Räten des Kantons St.Gallen und den zuständigen Stellen der Kantone, die das Lehrdiplom durch Vereinbarung anerkennen.
 
 #### Art. 62
 
@@ -845,7 +870,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Im ersten Jahr nach der Berufsaufnahme wird die Lehrperson durch die Pädagogische Hochschule des Kantons St.Gallen begleitet.
 
-<sup>2</sup> Der Schulrat bezeichnet eine Lehrperson, welche die Lehrperson während der Berufseinführung berät und fördert. Der Kanton trägt die Kosten.
+<sup>2</sup> Der Rat bezeichnet eine Lehrperson, welche die Lehrperson während der Berufseinführung berät und fördert. Der Kanton trägt die Kosten.
 
 ### 2. Beginn und Ende des Arbeitsverhältnisses
 
@@ -855,13 +880,13 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Stellen für Lehrpersonen werden öffentlich ausgeschrieben, in der Regel im Amtlichen Schulblatt.
 
-<sup>2</sup> Genügt das Ergebnis nicht, so kann der Schulrat die Stelle nochmals ausschreiben oder durch Berufung besetzen.
+<sup>2</sup> Genügt das Ergebnis nicht, so kann der Rat die Stelle nochmals ausschreiben oder durch Berufung besetzen.
 
 #### Art. 64
 
 **Begründung**
 
-<sup>1</sup> Schulgemeinde und Lehrperson begründen das Arbeitsverhältnis durch schriftlichen öffentlich-rechtlichen Vertrag.
+<sup>1</sup> Schulträger und Lehrperson begründen das Arbeitsverhältnis durch schriftlichen öffentlich-rechtlichen Vertrag.
 
 <sup>2</sup> …
 
@@ -879,9 +904,9 @@ als Gesetz:[^ingress-3]
 
 #### Art. 67bis
 
-**Kündigung des unbefristeten Arbeitsverhältnisses a) durch den Schulrat**
+**Kündigung des unbefristeten Arbeitsverhältnisses a) durch den Rat**
 
-<sup>1</sup> Der Schulrat kann das Arbeitsverhältnis auf Semesterende kündigen.
+<sup>1</sup> Der Rat kann das Arbeitsverhältnis auf Semesterende kündigen.
 
 <sup>2</sup> Er hat dies der Lehrperson bis Ende Oktober oder April schriftlich mitzuteilen.
 
@@ -891,7 +916,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Lehrperson kann das Arbeitsverhältnis auf Semesterende kündigen.
 
-<sup>2</sup> Sie hat dies dem Schulrat bis Ende Oktober oder April schriftlich mitzuteilen.
+<sup>2</sup> Sie hat dies dem Rat bis Ende Oktober oder April schriftlich mitzuteilen.
 
 <sup>3</sup> Teilt sie die Stelle mit einer anderen Lehrperson, hat die Mitteilung bis Ende September oder März zu erfolgen.
 
@@ -899,7 +924,7 @@ als Gesetz:[^ingress-3]
 
 **c) bei Teilung eines Pensums**
 
-<sup>1</sup> Kündigt von zwei Lehrpersonen, die ein Pensum teilen, eine das Arbeitsverhältnis, kann der Schulrat das Arbeitsverhältnis der anderen Lehrperson kündigen.
+<sup>1</sup> Kündigt von zwei Lehrpersonen, die ein Pensum teilen, eine das Arbeitsverhältnis, kann der Rat das Arbeitsverhältnis der anderen Lehrperson kündigen.
 
 <sup>2</sup> Art. 67<sup>bis</sup> dieses Gesetzes wird sachgemäss angewendet.
 
@@ -935,7 +960,7 @@ als Gesetz:[^ingress-3]
 
 **Auflösung des Arbeitsverhältnisses a) aus wichtigen Gründen**
 
-<sup>1</sup> Der Schulrat kann das Arbeitsverhältnis aus wichtigen Gründen jederzeit mit sofortiger Wirkung oder auf Semesterende auflösen.
+<sup>1</sup> Der Rat kann das Arbeitsverhältnis aus wichtigen Gründen jederzeit mit sofortiger Wirkung oder auf Semesterende auflösen.
 
 <sup>2</sup> Als wichtige Gründe gelten insbesondere die Unfähigkeit, die Lehrtätigkeit richtig auszuüben, und andere Umstände, unter denen die Fortsetzung des Arbeitsverhältnisses nicht zugemutet werden kann.
 
@@ -943,7 +968,7 @@ als Gesetz:[^ingress-3]
 
 **b) aus gesundheitlichen Gründen**
 
-<sup>1</sup> Die zuständige Stelle des Staates bewilligt auf Antrag des Schulrates die Auflösung des Arbeitsverhältnisses aus gesundheitlichen Gründen.
+<sup>1</sup> Die zuständige Stelle des Kantons bewilligt auf Antrag des Rates die Auflösung des Arbeitsverhältnisses aus gesundheitlichen Gründen.
 
 #### Art. 74
 
@@ -951,7 +976,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Der ordentliche Übertritt der Lehrperson in den Ruhestand erfolgt auf Ende des Semesters nach Vollendung des 65. Altersjahres.
 
-<sup>2</sup> Lehrperson und Schulrat können das Arbeitsverhältnis einvernehmlich verlängern.
+<sup>2</sup> Lehrperson und Rat können das Arbeitsverhältnis einvernehmlich verlängern.
 
 #### Art. 74bis
 
@@ -975,7 +1000,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Lehrperson hat durch ihre Tätigkeit und durch ihr Vorbild die Erfüllung des Erziehungs- und Bildungsauftrags zu fördern und den Unterricht nach den Vorschriften der Gesetzgebung, des Lehrplans und den Weisungen der Schulbehörde zu erteilen. Sie arbeitet mit ihren Kolleginnen und Kollegen[^76-1] und den weiteren Stellen zusammen, die für die Schule tätig sind.
 
-<sup>2</sup> Sie benachrichtigt nach Rücksprache mit den Eltern und dem Schulrat die zuständige Stelle, wenn für eine Schülerin oder einen Schüler besondere Fürsorgemassnahmen angezeigt erscheinen.
+<sup>2</sup> Sie benachrichtigt nach Rücksprache mit den Eltern und dem Rat die zuständige Stelle, wenn für eine Schülerin oder einen Schüler besondere Fürsorgemassnahmen angezeigt erscheinen.
 
 <sup>3</sup> Die Methodenfreiheit ist gewährleistet, soweit sie nicht durch Lehrplan und Lehrmittel eingeschränkt wird.
 
@@ -1015,23 +1040,23 @@ als Gesetz:[^ingress-3]
 - c) Schule;
 - d) Lehrperson.
 
-<sup>2</sup> Der Erziehungsrat umschreibt und begrenzt durch Reglement die Arbeitsfelder.
+<sup>2</sup> Der Bildungsrat umschreibt und begrenzt durch Reglement die Arbeitsfelder.
 
 #### Art. 78quater
 
 **2. Gewichtung**
 
-<sup>1</sup> Das Reglement des Erziehungsrates:
+<sup>1</sup> Das Reglement des Bildungsrates:
 
 - a) bestimmt Bandbreiten und empfiehlt Standards für die Gewichtung der Arbeitsfelder;
 - b) bestimmt für das Arbeitsfeld Unterricht die Arbeitszeit je Lektion;
-- c) kann den Schulrat ermächtigen, Lehrpersonen mit einem Beschäftigungsgrad von weniger als 30 Prozent von den Arbeitsfeldern Schülerinnen und Schüler oder Schule zu befreien.
+- c) kann den Rat ermächtigen, Lehrpersonen mit einem Beschäftigungsgrad von weniger als 30 Prozent von den Arbeitsfeldern Schülerinnen und Schüler oder Schule zu befreien.
 
 #### Art. 78quinquies
 
 **b) zusätzlicher Unterricht**
 
-<sup>1</sup> Der Schulrat kann die Lehrperson verpflichten, im Arbeitsfeld Unterricht vorübergehend zusätzlichen Unterricht zu erteilen, soweit eine zumutbare Unterrichtsplanung oder ein ordnungsgemässer Schulbetrieb dies erfordert.
+<sup>1</sup> Der Rat kann die Lehrperson verpflichten, im Arbeitsfeld Unterricht vorübergehend zusätzlichen Unterricht zu erteilen, soweit eine zumutbare Unterrichtsplanung oder ein ordnungsgemässer Schulbetrieb dies erfordert.
 
 <sup>2</sup> Die Regierung regelt durch Verordnung den Ausgleich von:
 
@@ -1042,7 +1067,7 @@ als Gesetz:[^ingress-3]
 
 **c) Arbeitsvertrag**
 
-<sup>1</sup> Schulrat und Lehrperson vereinbaren im Arbeitsvertrag den Beschäftigungsgrad und die Gewichtung der Arbeitsfelder in Prozenten.
+<sup>1</sup> Rat und Lehrperson vereinbaren im Arbeitsvertrag den Beschäftigungsgrad und die Gewichtung der Arbeitsfelder in Prozenten.
 
 #### Art. 79
 
@@ -1050,17 +1075,17 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Lehrperson ist zu fachlicher und pädagogischer Fortbildung berechtigt und verpflichtet.
 
-<sup>2</sup> Der Staat gewährt Beiträge.
+<sup>2</sup> Der Kanton gewährt Beiträge.
 
-<sup>3</sup> Der Schulrat kann Fortbildungsurlaub bewilligen.
+<sup>3</sup> Der Rat kann Fortbildungsurlaub bewilligen.
 
 #### Art. 80
 
 **Nebenbeschäftigung**
 
-<sup>1</sup> Eine zeitraubende Nebenbeschäftigung und die Ausübung eines öffentliches Amtes bedürfen der Bewilligung des Schulrates.
+<sup>1</sup> Eine zeitraubende Nebenbeschäftigung und die Ausübung eines öffentliches Amtes bedürfen der Bewilligung des Rates.
 
-<sup>2</sup> Ergeben sich erhebliche Nachteile für die Schule, so kann der Schulrat die Bewilligung verweigern oder entziehen.
+<sup>2</sup> Ergeben sich erhebliche Nachteile für die Schule, so kann der Rat die Bewilligung verweigern oder entziehen.
 
 ### b) Personalrechtliche Massnahmen
 
@@ -1108,8 +1133,8 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Führt die Schlichtungsstelle in Personalsachen ein Schlichtungsverfahren für eine Lehrperson nach diesem Gesetz durch, gehören ihr neben der oder dem Vorsitzenden oder der oder dem stellvertretenden Vorsitzenden an:
 
-- a) je ein von den Organen der Mitverantwortung, die vom Erziehungsrat bezeichnet wurden,[^86ter-1] bezeichnetes Mitglied und Ersatzmitglied;
-- b) je ein vom Erziehungsrat bezeichnetes Mitglied und Ersatzmitglied als Vertretung der Schulgemeinden.
+- a) je ein von den Organen der Mitverantwortung, die vom Bildungsrat bezeichnet wurden,[^86ter-1] bezeichnetes Mitglied und Ersatzmitglied;
+- b) je ein vom Bildungsrat bezeichnetes Mitglied und Ersatzmitglied als Vertretung der Schulträger.
 
 [^86ter-1]: Art. [87](https://www.gesetzessammlung.sg.ch/data/213.1/de/art87.) Abs. 1 Bst. b des Volksschulgesetzes, sGS [213.1](https://www.gesetzessammlung.sg.ch/data/213.1/de).
 
@@ -1128,7 +1153,7 @@ als Gesetz:[^ingress-3]
 <sup>1</sup> Organe der Mitverantwortung sind:
 
 - a) die kantonalen Stufenkonvente. Sie umfassen die Lehrpersonen einer Stufe;
-- b) weitere vom Erziehungsrat bezeichnete Vereinigungen.
+- b) weitere vom Bildungsrat bezeichnete Vereinigungen.
 
 <sup>2</sup> Die Konvente versammeln sich jährlich wenigstens einmal.
 
@@ -1140,7 +1165,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Konvente versammeln sich in der unterrichtsfreien Zeit.
 
-<sup>2</sup> Der Erziehungsrat kann:
+<sup>2</sup> Der Bildungsrat kann:
 
 - a) die Versammlungen besuchen;
 - b) die Einberufung von Versammlungen verlangen,
@@ -1154,27 +1179,27 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Konvente behandeln Schulfragen und nehmen zuhanden der zuständigen Behörden dazu Stellung.
 
-<sup>2</sup> Sie unterbreiten Vorschläge für die Wahl ihrer Vertreter in die pädagogischen Kommissionen des Erziehungsrates.
+<sup>2</sup> Sie unterbreiten Vorschläge für die Wahl ihrer Vertreter in die pädagogischen Kommissionen des Bildungsrates.
 
 #### Art. 90
 
 **Pädagogische Kommissionen**
 
-<sup>1</sup> Pädagogische Kommissionen des Erziehungsrates bearbeiten und beraten pädagogische und organisatorische Fragen der Stufen, der Sonderklassen sowie des Handarbeits- und Hauswirtschaftsunterrichts.
+<sup>1</sup> Pädagogische Kommissionen des Bildungsrates bearbeiten und beraten pädagogische und organisatorische Fragen der Stufen, der Sonderklassen sowie des Handarbeits- und Hauswirtschaftsunterrichts.
 
-<sup>2</sup> Sie können dem Erziehungsrat zu Geschäften der Stufe oder der Fachrichtung Anträge stellen.
+<sup>2</sup> Sie können dem Bildungsrat zu Geschäften der Stufe oder der Fachrichtung Anträge stellen.
 
-<sup>3</sup> Der Erziehungsrat bestimmt die Zusammensetzung der pädagogischen Kommissionen und stellt ein Pflichtenheft auf.
+<sup>3</sup> Der Bildungsrat bestimmt die Zusammensetzung der pädagogischen Kommissionen und stellt ein Pflichtenheft auf.
 
 #### Art. 91
 
-**Teilnahme an Sitzungen des Schulrates**
+**Teilnahme an Sitzungen des Rates**
 
-<sup>1</sup> An den Sitzungen von Schulrat und Kommissionen mit schulrätlichen Befugnissen nimmt wenigstens eine von den Lehrpersonen gewählte Vertretung[^91-1] mit beratender Stimme teil. Die Schulgemeindeordnung kann die Teilnahme weiterer Lehrpersonen vorsehen.
+<sup>1</sup> An den Sitzungen von Rat und Kommissionen mit schulrätlichen Befugnissen nimmt wenigstens eine von den Lehrpersonen gewählte Vertretung[^91-1] mit beratender Stimme teil. Die Gemeindeordnung kann die Teilnahme weiterer Lehrpersonen vorsehen.
 
 <sup>2</sup> Die Lehrpersonen sind wie die Behördemitglieder zur Verschwiegenheit verpflichtet.
 
-<sup>3</sup> Der Ausstand richtet sich nach dem Gesetz über die Verwaltungsrechtspflege[^91-2]. Schulrat und Kommissionen mit schulrätlichen Befugnissen können den Ausstand ausserdem verlangen, wenn schutzwürdige Interessen es erfordern.
+<sup>3</sup> Der Ausstand richtet sich nach dem Gesetz über die Verwaltungsrechtspflege[^91-2]. Rat und Kommissionen mit schulrätlichen Befugnissen können den Ausstand ausserdem verlangen, wenn schutzwürdige Interessen es erfordern.
 
 [^91-1]: Geändert in sachgemässer Anwendung von Abschnitt l Ziff. 2 des X. Nachtrags.
 [^91-2]: sGS [951.1](https://www.gesetzessammlung.sg.ch/data/951.1/de).
@@ -1207,11 +1232,11 @@ als Gesetz:[^ingress-3]
 
 **Personalpool**
 
-<sup>1</sup> Das zuständige Departement gibt den Schulgemeinden für den Einsatz der Lehrpersonen einen Personalpool vor.
+<sup>1</sup> Das zuständige Departement gibt den Schulträgern für den Einsatz der Lehrpersonen einen Personalpool vor.
 
-<sup>2</sup> Der Personalpool dient als Richtlinie. Ausgaben der Schulgemeinden für den Einsatz der Lehrpersonen sind gebunden, soweit der Personalpool eingehalten ist.
+<sup>2</sup> Der Personalpool dient als Richtlinie. Ausgaben der Schulträger für den Einsatz der Lehrpersonen sind gebunden, soweit der Personalpool eingehalten ist.
 
-<sup>3</sup> Der Schulrat erstattet dem zuständigen Departement Bericht.
+<sup>3</sup> Der Rat erstattet dem zuständigen Departement Bericht.
 
 ## VI. Eltern
 
@@ -1219,7 +1244,7 @@ als Gesetz:[^ingress-3]
 
 **Zusammenarbeit a) Schule und Eltern**
 
-<sup>1</sup> Schule und Eltern arbeiten in Erziehung und Ausbildung zusammen.
+<sup>1</sup> Schule und Eltern arbeiten in Erziehung und Ausbildung zusammen. Sie richten ihr Verhalten auf die Wahrung des Schulfriedens und des ungestörten Unterrichts aus.
 
 <sup>2</sup> Die Schule informiert in geeigneter Weise über wichtige Schulangelegenheiten, über besondere Schulanlässe und über Fragen, die für die Eltern von Interesse sind.
 
@@ -1235,7 +1260,7 @@ als Gesetz:[^ingress-3]
 
 **Auskunft über Leistung und Verhalten**
 
-<sup>1</sup> Lehrperson und Schulrat informieren die Eltern und geben ihnen Gelegenheit zur Aussprache, wenn besondere Massnahmen zu treffen sind oder wenn Leistung oder Verhalten des Kindes zu Bemerkungen Anlass geben.
+<sup>1</sup> Lehrperson und Rat informieren die Eltern und geben ihnen Gelegenheit zur Aussprache, wenn besondere Massnahmen zu treffen sind oder wenn Leistung oder Verhalten des Kindes zu Bemerkungen Anlass geben.
 
 <sup>2</sup> Die Eltern können Auskunft über Leistung und Verhalten des Kindes verlangen und in dessen Arbeiten Einsicht nehmen.
 
@@ -1245,7 +1270,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die Eltern können nach Absprache mit der Lehrperson jederzeit Unterrichtsstunden des Kindes besuchen.
 
-<sup>2</sup> Der Schulrat ordnet jährlich einen oder mehrere Besuchstage an. Die Lehrperson kann weitere Besuchstage für die Eltern festlegen.
+<sup>2</sup> Der Rat ordnet jährlich einen oder mehrere Besuchstage an. Die Lehrperson kann weitere Besuchstage für die Eltern festlegen.
 
 #### Art. 96
 
@@ -1262,15 +1287,16 @@ als Gesetz:[^ingress-3]
 <sup>1</sup> Die Eltern:
 
 - a) stehen Lehrperson und Schule für Gespräche und weitere Kontakte zur Verfügung. Sie informieren über Kind und Familie, soweit es der Erziehungs- und Bildungsauftrag erfordert;
-- b) unterstützen Lehrperson und Schule in Erziehung und Bildung sowie bei der Umsetzung schulischer Massnahmen.
+- b) unterstützen Lehrperson und Schule in Erziehung und Bildung sowie bei der Umsetzung schulischer Massnahmen;
+- c) halten das Kind zur Wahrung des Schulfriedens, zur Befolgung der Schulordnung und zu korrekter Bekleidung nach Art. 54<sup>bis</sup> dieses Erlasses an.
 
 #### Art. 97
 
 **Ordnungsbusse**
 
-<sup>1</sup> Eltern, die das Kind an der Erfüllung der Schulpflicht hindern oder nicht zum Schulbesuch oder zur Befolgung von Anordnungen nach Art. 34 dieses Gesetzes anhalten, werden vom Schulrat verwarnt oder gebüsst. Die Ordnungsbusse beträgt je versäumter Schulhalbtag wenigstens Fr. 200.–, insgesamt höchstens Fr. 1000.–. In schweren Fällen erstattet der Schulrat Strafanzeige.
+<sup>1</sup> Eltern, die das Kind an der Erfüllung der Schulpflicht hindern oder nicht zum Schulbesuch anhalten, werden vom Rat verwarnt oder gebüsst. Die Ordnungsbusse beträgt je versäumter Schulhalbtag wenigstens Fr. 200.–, insgesamt höchstens Fr. 1000.–. In schweren Fällen erstattet der Rat Strafanzeige.
 
-<sup>2</sup> Eltern, die ihre Mitwirkungspflicht erheblich verletzen, werden vom Schulrat verwarnt oder gebüsst. Die Ordnungsbusse beträgt Fr. 200.– bis Fr. 1000.–.
+<sup>2</sup> Eltern, die ihre Mitwirkungspflicht erheblich verletzen, werden vom Rat verwarnt oder gebüsst. Die Ordnungsbusse beträgt Fr. 200.– bis Fr. 1000.–.
 
 ## VII. Behörden und Schulleitungen
 
@@ -1282,9 +1308,9 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Die oberste Leitung der Volksschule obliegt der Regierung.
 
-<sup>2</sup> Sie wählt den Erziehungsrat.
+<sup>2</sup> Ihr ist der Bildungsrat unterstellt.
 
-<sup>3</sup> Mitglieder des Erziehungsrates können dreimal wiedergewählt werden.
+<sup>3</sup> …
 
 #### Art. 99
 
@@ -1295,31 +1321,37 @@ als Gesetz:[^ingress-3]
 - a) die Herausgabe von Lehrmitteln;
 - b) den Schulbesuch.
 
-### 2. Erziehungsrat
+### 2. Bildungsrat
 
 #### Art. 100
 
 **Stellung und Aufgaben**
 
-<sup>1</sup> Der Erziehungsrat leitet und beaufsichtigt die Volksschule.
+<sup>1</sup> Der Bildungsrat leitet und beaufsichtigt die Volksschule.
 
-<sup>2</sup> Neben den durch Gesetz und Verordnung übertragenen Aufgaben obliegen ihm insbesondere:
+<sup>2</sup> …
 
-- a) …
-- b) Wahl der pädagogischen Kommissionen und ihrer Präsidentinnen und Präsidenten;
-- c) …
-- d) Bezeichnung der empfohlenen Lehrmittel, die den Schulgemeinden unentgeltlich abgegeben werden;
-- d<sup>bis</sup>) Überprüfung und Regelung der Sicherung der Schulqualität;
-- e) …
-- f) Vorbereitung von der Regierung zustehenden Geschäften.
+<sup>2<sup>bis</sup></sup> Neben den durch Gesetz und Verordnung übertragenen Aufgaben obliegt ihm die strategische Schulentwicklung im Sinn des Staatsziels zur Bildung[^100-1] sowie des Erziehungs- und Bildungsauftrags nach Art. 3 dieses Gesetzes.
 
-<sup>3</sup> Er erlässt ein Geschäftsreglement.
+<sup>3</sup> Er arbeitet zusammen mit den zuständigen Stellen des Kantons und den Schulträgern Steuerungswissen in Monitoringberichten auf. Regierung und Kantonsrat nehmen von den Berichten Kenntnis.
+
+<sup>4</sup> Er erlässt ein Geschäftsreglement.
+
+[^100-1]: Art. [10](https://www.gesetzessammlung.sg.ch/data/111.1/de/art10) KV, sGS [111.1](https://www.gesetzessammlung.sg.ch/data/111.1/de).
+
+#### Art. 100bis
+
+**Wahl**
+
+<sup>1</sup> Der Kantonsrat wählt die Mitglieder des Bildungsrates.
+
+<sup>2</sup> Sie können dreimal wiedergewählt werden. Die Amtszeit endet spätestens mit Vollendung des 70. Altersjahres.
 
 #### Art. 101
 
 **Präsidentin oder Präsident und Sekretärin oder Sekretär[^101-1]**
 
-<sup>1</sup> Die Vorsteherin oder der Vorsteher[^101-2] des zuständigen Departementes[^101-3] gehört dem Erziehungsrat von Amtes wegen als Präsidentin oder Präsident[^101-4] an.
+<sup>1</sup> Die Vorsteherin oder der Vorsteher[^101-2] des zuständigen Departementes[^101-3] gehört dem Bildungsrat von Amtes wegen als Präsidentin oder Präsident[^101-4] an.
 
 <sup>2</sup> Die Generalsekretärin oder der Generalsekretär[^101-5] des zuständigen Departementes[^101-6] nimmt an den Sitzungen als Sekretärin oder Sekretär[^101-7] mit beratender Stimme teil.
 
@@ -1335,7 +1367,7 @@ als Gesetz:[^ingress-3]
 
 **Fachkommissionen**
 
-<sup>1</sup> Der Erziehungsrat kann für besondere Aufgaben Fachkommissionen bestellen.
+<sup>1</sup> Der Bildungsrat kann für besondere Aufgaben Fachkommissionen bestellen.
 
 <sup>2</sup> Er stellt Pflichtenhefte auf.
 
@@ -1385,9 +1417,11 @@ als Gesetz:[^ingress-3]
 
 **Organisation**
 
-<sup>1</sup> Der Erziehungsrat wählt vier Rekursstellen Volksschule und bestimmt deren Einzugsgebiete.
+<sup>1</sup> Der Bildungsrat wählt vier Rekursstellen Volksschule und bestimmt deren Einzugsgebiete.
 
 <sup>2</sup> Eine Rekursstelle Volksschule besteht aus fünf nebenamtlich tätigen Mitgliedern. Wenigstens ein Mitglied verfügt über ein juristisches Studium mit Lizentiats- oder Master-Abschluss nach Art. 7 Abs. 1 Bst. a des eidgenössischen Anwaltsgesetzes vom 23. Juni 2000[^110bis-1].
+
+<sup>3</sup> Die Amtszeit endet spätestens mit Vollendung des 70. Altersjahres.
 
 [^110bis-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de).
 
@@ -1395,7 +1429,7 @@ als Gesetz:[^ingress-3]
 
 **Unvereinbarkeit**
 
-<sup>1</sup> Die Mitglieder der Rekursstelle Volksschule gehören weder dem Rat, der Verwaltung noch dem Lehrkörper einer Schulgemeinde im Einzugsgebiet an.
+<sup>1</sup> Die Mitglieder der Rekursstelle Volksschule gehören weder dem Rat, der Verwaltung noch dem Lehrkörper eines Schulträgers im Einzugsgebiet an.
 
 #### Art. 110quater
 
@@ -1405,15 +1439,15 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Die Gemeinde stellt der Rekursstelle Volksschule kostenlos Räumlichkeiten zur Verfügung.
 
-### 5. Schulrat
+### 5. Rat
 
 #### Art. 111
 
 **Aufgaben a) im Allgemeinen**
 
-<sup>1</sup> Der Schulrat organisiert und führt die Schule.
+<sup>1</sup> Der Rat organisiert und führt die Schule.
 
-<sup>2</sup> Er erfüllt die Aufgaben der Schulgemeinde, die nicht durch Gesetz, Gemeindeordnung, Reglement oder Vereinbarung anderen Organen übertragen sind.
+<sup>2</sup> Er erfüllt die Aufgaben des Schulträgers, die nicht durch Gesetz, Gemeindeordnung, Reglement oder Vereinbarung anderen Organen übertragen sind.
 
 <sup>3</sup> Er erlässt ein Führungs- und Qualitätskonzept.
 
@@ -1421,13 +1455,13 @@ als Gesetz:[^ingress-3]
 
 **b) Übertragung 1. an andere Organe**
 
-<sup>1</sup> Gemeindeordnung oder Reglement können den Schulrat ermächtigen, Aufgaben anderen Organen zu übertragen.
+<sup>1</sup> Gemeindeordnung oder Reglement können den Rat ermächtigen, Aufgaben anderen Organen zu übertragen.
 
 #### Art. 113
 
 **2. an Fachkommissionen**
 
-<sup>1</sup> Der Schulrat kann für besondere Aufgaben Fachkommissionen einsetzen.
+<sup>1</sup> Der Rat kann für besondere Aufgaben Fachkommissionen einsetzen.
 
 <sup>2</sup> Er umschreibt die Aufgaben in der Regel in einem Pflichtenheft.
 
@@ -1441,11 +1475,11 @@ als Gesetz:[^ingress-3]
 
 **Grundsätze**
 
-<sup>1</sup> Der Schulrat setzt Schulleitungen ein. Für kleine Schulgemeinden kann die zuständige Stelle des Staates Ausnahmen bewilligen.
+<sup>1</sup> Der Rat setzt Schulleitungen ein. Für kleine Schulträger kann die zuständige Stelle des Kantons Ausnahmen bewilligen.
 
 <sup>2</sup> Die Gemeindeordnung oder das Reglement bestimmt die Zuständigkeit der Schulleitungen.
 
-<sup>3</sup> An den Sitzungen von Schulrat und Kommissionen mit schulrätlichen Befugnissen nimmt eine vom Rat bezeichnete Vertretung der Schulleitungen mit beratender Stimme teil.
+<sup>3</sup> An den Sitzungen von Rat und Kommissionen mit schulrätlichen Befugnissen nimmt eine vom Rat bezeichnete Vertretung der Schulleitungen mit beratender Stimme teil.
 
 ## VIIbis. Integrationskurs für fremdsprachige Jugendliche
 
@@ -1453,9 +1487,9 @@ als Gesetz:[^ingress-3]
 
 **Besuch**
 
-<sup>1</sup> Der Schulrat weist fremdsprachige Jugendliche, die das 17. Altersjahr noch nicht vollendet haben und nicht mit zumutbarem Aufwand unterrichtet oder ausgebildet werden können, dem Integrationskurs für fremdsprachige Jugendliche zu.
+<sup>1</sup> Der Rat weist fremdsprachige Jugendliche, die das 17. Altersjahr noch nicht vollendet haben und nicht mit zumutbarem Aufwand unterrichtet oder ausgebildet werden können, dem Integrationskurs für fremdsprachige Jugendliche zu.
 
-<sup>2</sup> Er kann mit Zustimmung der zuständigen Stelle des Staates Interessenten nach Vollendung des 17. Altersjahrs zulassen.
+<sup>2</sup> Er kann mit Zustimmung der zuständigen Stelle des Kantons Interessenten nach Vollendung des 17. Altersjahrs zulassen.
 
 <sup>3</sup> Der Integrationskurs für fremdsprachige Jugendliche dauert in der Regel ein Jahr. Wer nach dem Abschluss noch schulpflichtig ist, tritt in die öffentliche Schule am Ort über, wo er sich aufhält.
 
@@ -1463,11 +1497,11 @@ als Gesetz:[^ingress-3]
 
 **Organisation und Finanzierung**
 
-<sup>1</sup> Der Staat führt den Integrationskurs für fremdsprachige Jugendliche.
+<sup>1</sup> Der Kanton führt den Integrationskurs für fremdsprachige Jugendliche.
 
-<sup>2</sup> Der Erziehungsrat erlässt, die Regierung genehmigt den Lehrplan.
+<sup>2</sup> Der Bildungsrat erlässt, die Regierung genehmigt den Lehrplan.
 
-<sup>3</sup> Die Schulgemeinde trägt die Kosten. Sie kann:
+<sup>3</sup> Der Schulträger trägt die Kosten. Sie kann:
 
 - a) von den Eltern Jugendlicher, die das 17. Altersjahr noch nicht vollendet haben, einen Beitrag an die Kosten der Verpflegung verlangen;
 - b) von Interessentinnen und Interessenten[^114quater-1], die das 17. Altersjahr vollendet haben, ein angemessenes Schulgeld verlangen.
@@ -1484,13 +1518,13 @@ als Gesetz:[^ingress-3]
 
 **Aufsicht**
 
-<sup>1</sup> Privatschulen, die schulpflichtige Kinder unterrichten, unterstehen wie die öffentlichen Schulen der Aufsicht des Staates.
+<sup>1</sup> Privatschulen, die schulpflichtige Kinder unterrichten, unterstehen wie die öffentlichen Schulen der Aufsicht des Kantons.
 
 #### Art. 116
 
 **Bewilligung a) Grundsatz**
 
-<sup>1</sup> Errichtung und Führung von Privatschulen bedürfen der Bewilligung des Erziehungsrates.
+<sup>1</sup> Errichtung und Führung von Privatschulen bedürfen der Bewilligung des Bildungsrates.
 
 #### Art. 117
 
@@ -1501,7 +1535,7 @@ als Gesetz:[^ingress-3]
 - a) Schulleitung, fachliche Führung, Organisation und Schulräumlichkeiten einen der öffentlichen Schule gleichwertigen, auf Dauer angelegten Unterricht gewährleisten;
 - b) die obligatorischen Unterrichtsbereiche der öffentlichen Schule unterrichtet werden.
 
-<sup>2</sup> Der Erziehungsrat kann die Bewilligung mit Auflagen verbinden, um die Gleichwertigkeit des Unterrichts sicherzustellen.
+<sup>2</sup> Der Bildungsrat kann die Bewilligung mit Auflagen verbinden, um die Gleichwertigkeit des Unterrichts sicherzustellen.
 
 #### Art. 118
 
@@ -1509,13 +1543,13 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Privatschulen für ausländische Kinder, die sich vorübergehend in der Schweiz aufhalten, kann die Bewilligung ausnahmsweise auch erteilt werden, wenn die Gleichwertigkeit des Unterrichts nicht vollständig gewährleistet ist.
 
-<sup>2</sup> Der Erziehungsrat kann durch Reglement die Zulassung von Schülerinnen und Schülern einer besonderen Kommission übertragen und zeitlich beschränken.
+<sup>2</sup> Der Bildungsrat kann durch Reglement die Zulassung von Schülerinnen und Schülern einer besonderen Kommission übertragen und zeitlich beschränken.
 
 #### Art. 119
 
 **3. Massnahmen und Entzug**
 
-<sup>1</sup> Der Erziehungsrat ordnet unter Androhung des Entzugs der Bewilligung Massnahmen an, wenn:
+<sup>1</sup> Der Bildungsrat ordnet unter Androhung des Entzugs der Bewilligung Massnahmen an, wenn:
 
 - a) die Voraussetzungen für die Erteilung der Bewilligung nicht mehr bestehen;
 - b) Auflagen und Weisungen nicht beachtet werden;
@@ -1527,7 +1561,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Unterricht an Privatschulen darf erteilen, wer eine Lehrbewilligung für Privatschulen besitzt.
 
-<sup>2</sup> Die zuständige Stelle des Staates erteilt die Lehrbewilligung in sachgemässer Anwendung von Art. 62 dieses Gesetzes. Sie kann die Lehrbewilligung befristen.
+<sup>2</sup> Die zuständige Stelle des Kantons erteilt die Lehrbewilligung in sachgemässer Anwendung von Art. 62 dieses Gesetzes. Sie kann die Lehrbewilligung befristen.
 
 #### Art. 121
 
@@ -1537,9 +1571,9 @@ als Gesetz:[^ingress-3]
 
 **Meldepflicht**
 
-<sup>1</sup> Die Inhaberin oder der Inhaber[^122-1] der Privatschule meldet Eintritt und Austritt von Schülerinnen oder Schülern innert vierzehn Tagen dem zuständigen Schulrat am Wohnsitz der Eltern.
+<sup>1</sup> Die Inhaberin oder der Inhaber[^122-1] der Privatschule meldet Eintritt und Austritt von Schülerinnen oder Schülern innert vierzehn Tagen dem zuständigen Rat am Wohnsitz der Eltern.
 
-<sup>2</sup> Besucht die Schülerin oder der Schüler eine ausserkantonale Privatschule, so haben die Eltern dem Schulrat eine Bestätigung der Schule einzureichen.
+<sup>2</sup> Besucht die Schülerin oder der Schüler eine ausserkantonale Privatschule, so haben die Eltern dem Rat eine Bestätigung der Schule einzureichen.
 
 [^122-1]: Geändert in sachgemässer Anwendung vom Abschnitt l Ziff.2 des X. Nachtrags.
 
@@ -1549,13 +1583,13 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Für den privaten Einzelunterricht werden die Vorschriften dieses Gesetzes über die Privatschulen sachgemäss angewendet.
 
-<sup>2</sup> Der Erziehungsrat erteilt die Bewilligung, wenn zudem die Erziehung zur Gemeinschaftsfähigkeit sichergestellt ist.
+<sup>2</sup> Der Bildungsrat erteilt die Bewilligung, wenn zudem die Erziehung zur Gemeinschaftsfähigkeit sichergestellt ist.
 
 #### Art. 124
 
 **Private Sonderschulen**
 
-<sup>1</sup> Für private Sonderschulen, die Staatsbeiträge erhalten, bleiben besondere gesetzliche Vorschriften[^124-1] vorbehalten.
+<sup>1</sup> Für private Sonderschulen, die Kantonsbeiträge erhalten, bleiben besondere gesetzliche Vorschriften[^124-1] vorbehalten.
 
 [^124-1]: SoG, sGS [213.95](https://www.gesetzessammlung.sg.ch/data/213.95/de).
 
@@ -1577,13 +1611,13 @@ als Gesetz:[^ingress-3]
 
 **Verfügungen und Entscheide von Kommissionen mit schulrätlichen Befugnissen**
 
-<sup>1</sup> Verfügungen und Entscheide von Kommissionen mit schulrätlichen Befugnissen sind Verfügungen und Entscheiden des Schulrates gleichgestellt.
+<sup>1</sup> Verfügungen und Entscheide von Kommissionen mit schulrätlichen Befugnissen sind Verfügungen und Entscheiden des Rates gleichgestellt.
 
 #### Art. 128
 
 **Zuständigkeit a) Departement**
 
-<sup>1</sup> Verfügungen und Entscheide des Schulrates, die gestützt auf dieses Gesetz oder auf die Gesetzgebung über die Besoldung der Volksschul-Lehrpersonen ergehen, können mit Rekurs beim zuständigen Departement angefochten werden, soweit dieses Gesetz nicht den Weiterzug an die Rekursstelle Volksschule oder an den Erziehungsrat vorsieht.
+<sup>1</sup> Verfügungen und Entscheide des Rates, die gestützt auf dieses Gesetz oder auf die Gesetzgebung über die Besoldung der Volksschul-Lehrpersonen ergehen, können mit Rekurs beim zuständigen Departement angefochten werden, soweit dieses Gesetz nicht den Weiterzug an die Rekursstelle Volksschule oder an den Bildungsrat vorsieht.
 
 <sup>2</sup> …
 
@@ -1591,7 +1625,7 @@ als Gesetz:[^ingress-3]
 
 **b) Rekursstelle Volksschule**
 
-<sup>1</sup> Mit Rekurs bei der Rekursstelle Volksschule können angefochten werden Verfügungen und Entscheide des Schulrates über:
+<sup>1</sup> Mit Rekurs bei der Rekursstelle Volksschule können angefochten werden Verfügungen und Entscheide des Rates über:
 
 - a) Stundenplan;
 - b) Transport von Schülerinnen und Schülern mit unzumutbarem Schulweg;
@@ -1608,14 +1642,14 @@ als Gesetz:[^ingress-3]
 
 #### Art. 130
 
-**c) Erziehungsrat**
+**c) Bildungsrat**
 
-<sup>1</sup> Mit Rekurs beim Erziehungsrat können angefochten werden Verfügungen und Entscheide des Schulrates über:
+<sup>1</sup> Mit Rekurs beim Bildungsrat können angefochten werden Verfügungen und Entscheide des Rates über:
 
 - a) Zuweisung zu einer Kleinklasse oder Sonderschule und Rückversetzung;
 - b) Schulpflicht;
 - c) auswärtigen Schulbesuch und Besuch einer Schule für Hochbegabte;
-- d) Disziplinarmassnahmen des Schulrates;
+- d) Disziplinarmassnahmen des Rates;
 - e) Kontakt zu den Eltern und Ordnungsstrafen.
 
 <sup>2</sup> …
@@ -1626,7 +1660,7 @@ als Gesetz:[^ingress-3]
 
 **Strafbestimmung**
 
-<sup>1</sup> Wer vorsätzlich oder fahrlässig ein Kind an der Erfüllung der Schulpflicht hindert oder nicht zum Schulbesuch oder zur Befolgung von Anordnungen nach Art. 34 dieses Gesetzes anhält, wird auf Anzeige des Schulrates in schweren Fällen mit Busse von Fr. 1000.– bis Fr. 5000.– bestraft.
+<sup>1</sup> Wer vorsätzlich oder fahrlässig ein Kind an der Erfüllung der Schulpflicht hindert oder nicht zum Schulbesuch anhält, wird auf Anzeige des Rates in schweren Fällen mit Busse von Fr. 1000.– bis Fr. 5000.– bestraft.
 
 #### Art. 132
 
@@ -1684,7 +1718,7 @@ als Gesetz:[^ingress-3]
 
 #### Art. 140
 
-**Übergangsbestimmungen a) Neuorganisation der Schulgemeinden**
+**Übergangsbestimmungen a) Neuorganisation der Schulträger**
 
 <sup>1</sup> Art. 8 und 9 dieses Gesetzes werden mit Bezug auf die Übertragung der bisherigen Primarschuloberstufe an die Sekundarschulgemeinde spätestens ab Beginn des Schuljahres 1993/94, mit Bezug auf die Einrichtung von Sonderklassen spätestens ab Beginn des Schuljahres 1988/89 angewendet.
 
@@ -1694,7 +1728,7 @@ als Gesetz:[^ingress-3]
 
 **b) Schulordnung**
 
-<sup>1</sup> Der Schulrat hat die Schulordnung bis zum Ablauf der Amtsdauer 1985/88 zu erlassen oder dem neuen Recht anzupassen.
+<sup>1</sup> Der Rat hat die Schulordnung bis zum Ablauf der Amtsdauer 1985/88 zu erlassen oder dem neuen Recht anzupassen.
 
 #### Art. 142
 
@@ -1719,7 +1753,7 @@ als Gesetz:[^ingress-3]
 
 **e) Privatschulen**
 
-<sup>1</sup> Privatschulen, die der Erziehungsrat vor Vollzugsbeginn dieses Gesetzes bewilligt hat, dürfen weitergeführt werden. Vorbehalten bleibt Art. 119 dieses Gesetzes.
+<sup>1</sup> Privatschulen, die der Bildungsrat vor Vollzugsbeginn dieses Gesetzes bewilligt hat, dürfen weitergeführt werden. Vorbehalten bleibt Art. 119 dieses Gesetzes.
 
 <sup>2</sup> Art. 120 dieses Gesetzes wird ab Beginn des Schuljahres 1984/85 angewendet.
 
@@ -1728,6 +1762,12 @@ als Gesetz:[^ingress-3]
 **Vollzugsbeginn**
 
 <sup>1</sup> Die Regierung bestimmt den Vollzugsbeginn dieses Gesetzes.
+
+#### Art. 146
+
+**Übergangsbestimmung des XX. Nachtrags vom 13. Juni 2018**
+
+<sup>1</sup> Gestützt auf Art. 9 Abs. 2 dieses Erlasses von der Regierung erteilte Bewilligungen zur Führung einer Realschule durch eine Primarschulgemeinde behalten ihre Gültigkeit.
 
 **Übergangsbestimmung des XII. Nachtrags vom 26. Juni 2012**[^footer-1]
 
