@@ -4,13 +4,13 @@ number: 516b
 title: Studienreglement über die Weiterbildung der Pädagogischen Hochschule Luzern
 short: PH-Weiterbildungsreglement
 language: de
-version: 2013-08-01
-valid_until: 2021-07-31
-version_adopted: 2013-09-20
+version: 2021-08-01
+valid_until: 2024-07-31
+version_adopted: 2021-06-01
 adopted: 2013-09-20
 in_force: 2013-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/516b"
-pdf: "https://srl.lu.ch/api/de/versions/2528/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3768/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2528/pdf_file"
 
 (PH-Weiterbildungsreglement)
 
-vom 20.09.2013 (Stand 01.08.2013)
+vom 20.09.2013 (Stand 01.08.2021)
 
 Der Rektor der Pädagogischen Hochschule Luzern,
 
@@ -310,9 +310,9 @@ beschliesst:
 
 **Disziplinarkompetenz**
 
-<sup>1</sup> Die Programmleitung und die Studiengangsleiterin oder der Studiengangsleiter sind befugt, eine mündliche Verwarnung oder einen schriftlichen Verweis zu erteilen.
+<sup>1</sup> Die Programmleitung und die Studiengangsleiterin oder der Studiengangsleiter sind befugt, die Disziplinarmassnahmen gemäss Artikel 27 Absatz 1a bis d zu erteilen.
 
-<sup>2</sup> Der Rektorin oder dem Rektor stehen alle Disziplinarkompetenzen zu.
+<sup>2</sup> Der Prorektorin oder dem Prorektor Weiterbildung stehen alle Disziplinarkompetenzen zu.
 
 ## 6 Schlussbestimmungen
 
