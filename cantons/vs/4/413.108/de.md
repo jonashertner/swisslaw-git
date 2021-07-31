@@ -3,39 +3,41 @@ canton: VS
 number: "413.108"
 title: Reglement über die Fachmittelschulen
 language: de
-version: 2008-09-01
-corrected: 2017-09-06
-version_adopted: 2008-06-03
+version: 2021-08-01
+version_adopted: 2021-08-25
 adopted: 2021-08-25
 in_force: 2021-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/413.108"
-pdf: "https://lex.vs.ch/api/de/versions/518/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2942/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Fachmittelschulen
 
-vom 3. Juni 2008
+vom 25.08.2021 (Stand 01.08.2021)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen das Gesetz über das öffentliche Unterrichtswesen vom 4. Juli 1962;
+eingesehen das Gesetz über das öffentliche Unterrichtswesen vom 4. Juli 1962 (GUW);
 
-eingesehen das Gesetz über den Beitritt des Kantons Wallis zur interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 11. Mai 1995. Vereinbarung vom 18. Februar 1993;
+eingesehen das Gesetz über den Beitritt des Kantons Wallis zur interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 11. Mai 1995 und die Vereinbarung vom 18. Februar 1993;
 
-eingesehen das Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (nachstehend: EDK) vom 12. Juni 2003 betreffend die Anerkennung der von den Fachmittelschulen ausgehändigten Diplomen; auf Antrag des Departements für Erziehung, Kultur und Sport (nachstehend: Departement),
+eingesehen das Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (nachstehend: EDK) betreffend die Anerkennung der Abschlüsse von Fachmittelschulen vom 25. Oktober 2018;
 
-beschliesst:
+auf Antrag des für die Bildung zuständigen Departements,
 
-### 1. Abschnitt: Allgemeines
+verordnet: [^ingress-1]
 
-#### Art.1
+[^ingress-1]: Im vorliegenden Reglement gilt jede Bezeichnung der Person, des Statuts, oder der Funktion in gleicher Weise für Frau und Mann.
+
+## 1 Allgemeines
+
+#### Art. 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Das vorliegende Reglement definiert die Aufgaben der Fachmittelschulen des Kantons Wallis (nachstehend: FMS), die Aufnahme- und Promotionsbedingungen.
+<sup>1</sup> Das vorliegende Reglement definiert die Aufgaben der Fachmittelschulen des Kantons Wallis (nachstehend: FMS), die Aufnahme- und Promotionsbedingungen sowie die Voraussetzungen für den Erhalt des Ausweises.
 
 <sup>2</sup> Es legt die Einzelheiten für die Organisation und den Ablauf der Abschlussprüfungen fest.
 
@@ -43,52 +45,45 @@ beschliesst:
 
 **Definition**
 
-Die FMS ist eine Vollzeitschule der Sekundarstufe II, die:
+<sup>1</sup> Die FMS ist eine Vollzeitschule der Sekundarstufe II, die:
 
 - a) eine vertiefte Allgemeinbildung vermittelt;
-
 - b) die Persönlichkeitsentwicklung durch Stärkung der Sozial- und Selbstkompetenz fördert;
-
 - c) berufsfeldbezogene Fächer anbietet;
-
-- d) die Schritte für die Berufswahl begleitet;
-
-- e) auf Studiengänge der Höheren Fachschulen (HF), der Fachhochschulen (HES-SO) und der pädagogischen Hochschule (PH) vorbereitet.
+- d) den Prozess für die Berufswahl begleitet;
+- e) auf Studiengänge der Höheren Fachschulen (HF), der Fachhochschulen (FH) und der pädagogischen Hochschule (PH) vorbereitet;
+- f) den Zugang zur Passerelle Dubs ermöglicht.
 
 #### Art. 3
 
-**Ausbildungsgänge**
+**Berufsfelder**
 
-<sup>1</sup> Die Fachmittelschulen schlagen folgende Ausbildungsgänge vor: Gesundheit, Soziales und Pädagogik.
+<sup>1</sup> Die Fachmittelschulen bieten folgende Berufsfelder an: Gesundheit/Naturwissenschaften, Soziale Arbeit, Pädagogik sowie Theater und/oder Musik.
 
-<sup>2</sup> Die Schulen können Ausbildungsgänge zusammenschliessen, welche in höchstens zwei Berufsbereichen zum gleichen Zertifikat führen.
+<sup>2</sup> Die Schulen können Ausbildungsgänge, die zu einem Abschluss führen, zusammenlegen, wobei maximal zwei Berufsfelder zusammengeführt werden dürfen, so namentlich die folgenden drei Fachrichtungen: "Soziale Arbeit und Pädagogik", "Gesundheit/Naturwissenschaften und Pädagogik" sowie "Soziale Arbeit und Theater und/oder Musik".
 
-<sup>3</sup> Der Staatsrat kann die Einrichtung von weiteren Ausbildungsgängen zulassen, die durch das Reglement der EDK vom 12. Juni 2003 über die Anerkennung der Abschlüsse von Fachmittelschulen erlaubt sind.
+<sup>3</sup> Der Staatsrat kann die Einrichtung von weiteren Lernbereichen zulassen, die durch das Reglement der EDK über die Anerkennung der Abschlüsse von Fachmittelschulen erlaubt sind.
 
 #### Art. 4
 
-**Ausgehändigte Zeugnisse**
+**Ausgehändigte Abschlüsse**
 
-<sup>1</sup> Die FMS händigen einen Ausweis der Fachmittelschule und ein Zeugnis der Fachmaturität aus, die durch den Kanton Wallis und die EDK anerkannt sind.
+<sup>1</sup> Die FMS händigen Fachmittelschulausweise sowie Fachmaturitätszeugnisse aus, die durch den Kanton Wallis und die EDK anerkannt sind.
 
-<sup>2</sup> Das Zeugnis der Fachmaturität kann durch Bestehen des Ausweises der FMS erlangt werden, und zwar nach Erfüllen von spezifischen Bedingungen des gewählten Fachbereiches.
+<sup>2</sup> Das Zeugnis der Fachmaturität kann nach Bestehen des Fachmittelschulausweises im gewählten Berufsfeld erlangt werden. Das für die Bildung zuständige Departement (nachstehend Departement) kann zusätzliche Aufnahmebedingungen für die Fachmaturitätslehrgänge festlegen.
 
-<sup>3</sup> Die Fachmaturität wird durch ein spezifisches Reglement geregelt.
+<sup>3</sup> Die Fachmaturität wird durch spezifische Richtlinien oder Reglemente des Departements geregelt.
 
 #### Art. 5
 
-**Anerkannte FMS**
+**Anerkannte Schulen**
 
-<sup>1</sup> Der Kanton Wallis und die EDK anerkennen die Ausweise folgender Schulen:
+<sup>1</sup> Der Kanton Wallis und die EDK anerkennen die von den folgenden Schulen ausgehändigten Ausweise und Zeugnisse:
 
-- a) Handels- und Fachmittelschule Sankt Ursula (HFMS) von Brig-Glis;
-
+- a) Oberwalliser Mittelschule St. Ursula (OMS) von Brig-Glis;
 - b) Handels- und Fachmittelschule (ECCG) von Siders;
-
 - c) Handels- und Fachmittelschule (ECCG) von Sitten;
-
-- d) Handels- und Fachmittelschule (ECCG) von Martigny;
-
+- d) Handels- und Fachmittelschule (ECCG) von Martinach;
 - e) Handels- und Fachmittelschule (ECCG) von Monthey.
 
 <sup>2</sup> Diese Liste kann durch den Staatsrat abgeändert werden.
@@ -97,77 +92,83 @@ Die FMS ist eine Vollzeitschule der Sekundarstufe II, die:
 
 **Unterrichtssprache**
 
-<sup>1</sup> Die Sprache, in der an der Schule offiziell unterrichtet wird, gilt als Sprache I. Französisch oder Deutsch ist obligatorisch die Sprache II.
+<sup>1</sup> Die Sprache, in der an der Schule offiziell unterrichtet wird, gilt als Sprache I. Französisch bzw. Deutsch ist im Unterricht zwingend Sprache II.
 
 <sup>2</sup> Der Staatsrat kann die Einrichtung von zweisprachigen Ausbildungsgängen bewilligen.
 
-### 2. Abschnitt: Organisation der Ausbildung
-
 #### Art. 7
 
-**Ausbildungsdauer**
+**Unterrichtsbesuch**
 
-<sup>1</sup> Die Ausbildungsdauer für den Erwerb des Fachmittelschulausweises beträgt drei Jahre und schliesst an das 9. Jahr der obligatorischen Schulzeit an.
+<sup>1</sup> Der Besuch des Unterrichts ist obligatorisch.
 
-<sup>2</sup> Die Prüfungen für den Erwerb des Ausweises finden am Ende des 3. Ausbildungsjahres statt.
+<sup>2</sup> Überschreiten die Absenzen eines Schülers im Laufe des Jahres 20 Prozent der Unterrichtszeit in einem Fach oder der gesamten effektiven Stunden in allen Fächern, schlägt die Direktion, nach Einholung der Meinung des Klassenrats, der Dienststelle für Unterrichtswesen (nachstehend: Dienststelle) vor, den Betroffenen kein Schulzeugnis auszustellen sowie die Promotion oder den Zugang zu Abschlussprüfungen zu verweigern.
+
+## 2 Organisation der Ausbildung
 
 #### Art. 8
 
-**Lehrpläne**
+**Ausbildungsdauer**
 
-<sup>1</sup> Der Lehrplan für den Erwerb des Fachmittelschulausweises stützt sich auf den Rahmenlehrplan (RLP) der EDK und umfasst die Fächer der Lernbereiche im Rahmen der Allgemeinbildung und die Fächer der Berufsfelder.
+<sup>1</sup> Die Ausbildungsdauer für den Erwerb des Fachmittelschulausweises beträgt 3 Jahre und schliesst an das 11. HarmoS-Jahr der obligatorischen Schulzeit an.
 
-<sup>2</sup> Die Ausbildung wird durch den Staatsrat angenommen.
+<sup>2</sup> Die Prüfungen für den Erwerb des Ausweises finden am Ende des 3. Ausbildungsjahres statt.
 
 #### Art. 9
 
-**Allgemeinbildung**
+**Lehrpläne**
 
-<sup>1</sup> In den vier Lernbereichen Sprache und Kommunikation, Mathematik und Naturwissenschaften, Sozialwissenschaften sowie Musische Aktivitäten und Sport erhalten die Schüler eine vertiefte Allgemeinbildung vermittelt.
-
-<sup>2</sup> Jedem der Lernbereiche werden bestimmte Grundlagenfächer zugeordnet, die je nach Fach während einem, zwei oder drei Jahren besucht werden.
+<sup>1</sup> Der Lehrplan für den Erwerb des Fachmittelschulausweises ist von der Dienststelle genehmigt und stützt sich auf den Rahmenlehrplan (RLP) der EDK und umfasst die Fächer der Lernbereiche im Rahmen der Allgemeinbildung und die Fächer der Berufsfelder.
 
 #### Art. 10
 
-**Berufsfeldbezogener Unterricht**
+**Allgemeinbildung**
 
-Der berufsfeldbezogene Unterricht ermöglicht eine Auseinandersetzung mit allgemeinen Gegebenheiten der Berufssituation.
+<sup>1</sup> Die Schüler erhalten eine vertiefte Allgemeinbildung in folgenden fünf Lernbereichen vermittelt: Sprachen; Mathematik, Naturwissenschaften, Informatik; Geistes- und Sozialwissenschaften; Kunstorientierte Fächer und Sport.
+
+<sup>2</sup> Jedem Lernbereich werden bestimmte Grundlagenfächer zugeordnet, die während 1, 2 oder 3 Jahren besucht werden.
 
 #### Art. 11
 
-**Praktikum**
+**Berufsfeldbezogener Unterricht**
 
-Ein ausserschulisches Praktikum von zwei Wochen, das im Prinzip während des 2. Schuljahres unter der Verantwortung einer qualifizierten Fachperson zu absolvieren ist, soll die Sozial- und Selbstkompetenz stärken und die Berufswahl bestätigen.
+<sup>1</sup> Der berufsfeldbezogene Unterricht umfasst spezifische Fächer, welche die Schüler je nach gewähltem Berufsfeld belegen müssen. Sie werden im vom Departement genehmigten Stundenplan präzisiert.
 
 #### Art. 12
+
+**Praktikum**
+
+<sup>1</sup> Ein ausserschulisches Praktikum von mindestens 2 Wochen, das im Prinzip während des 2. Schuljahres unter der Verantwortung einer qualifizierten Fachperson zu absolvieren ist, soll die Sozial- und Selbstkompetenz stärken und kann als Berufspraktikum zur Unterstützung der Berufswahl genutzt werden.
+
+#### Art. 13
 
 **Selbständige Arbeit**
 
 <sup>1</sup> Im Rahmen einer selbständigen Arbeit sollen die Schüler nachweisen, dass sie fähig sind, eine anspruchsvolle Aufgabenstellung aus den Lernbereichen der Allgemeinbildung oder aus dem berufsfeldbezogenen Bereich selbständig zu lösen und zu präsentieren.
 
-<sup>2</sup> Die Vorbereitung dieser Arbeit sowie ihre Präsentation geschieht zwischen dem 2. und 3. Schuljahr während einer klar definierten Dauer und wird von einer oder mehreren Lehrpersonen betreut.
+<sup>2</sup> Die Vorbereitung dieser Arbeit und deren Präsentation erfolgen zwischen dem 2. und 3. Schuljahr über einen Zeitraum von maximal 10 Monaten und werden von einer Lehrperson betreut.
 
-<sup>3</sup> Die persönliche Arbeit wird mit einer Note bewertet, die als Fach auf dem Ausweis aufgeführt wird.
+<sup>3</sup> Die selbstständige Arbeit wird in halben oder ganzen Noten bewertet und im Zeugnis als Fach aufgeführt.
 
-<sup>4</sup> Das Ausführen und die Bewertung der persönlichen Arbeit wird durch Richtlinien des DEKS geregelt.
+<sup>4</sup> Die Durchführung und Bewertung der selbstständigen Arbeit unterliegen den Richtlinien der Dienststelle.
 
-### 3. Abschnitt: Aufnahme und Übertritte
-
-#### Art. 13
-
-**Aufnahme**
-
-<sup>1</sup> Nach der dritten Orientierungsschule kann der Schüler in die FMS eintreten, gemäss den Bestimmungen des Artikels 22 des Gesetzes über die Orientierungsschule vom 13. Mai 1987.
-
-<sup>2</sup> Hat ein Schüler die erste Klasse eines anerkannten Gymnasiums bestanden, kann er in das erste Jahr der FMS aufgenommen werden.
+## 3 Aufnahme und Übertritte
 
 #### Art. 14
 
-**Sonderfälle für die Aufnahme**
+**Aufnahme**
 
-Kandidaten, die die Bedingungen nach Artikel 13 nicht erfüllen, aber über eine angemessene Ausbildung verfügen, werden unter der Kontrolle des Departements aufgrund der Ergebnisse einer Prüfung oder einer Gesamtbeurteilung aufgenommen.
+<sup>1</sup> Nach dem 11. HarmoS-Jahr der obligatorischen Schulzeit, kann der Schüler gemäss den Bestimmungen des Artikels 67 des Gesetzes über die Orientierungsschule in die FMS eintreten.
+
+<sup>2</sup> Schüler, welche die 1. Klasse eines anerkannten Gymnasiums bestanden haben, können in das 1. Jahr der FMS aufgenommen werden.
 
 #### Art. 15
+
+**Sonderfälle für die Aufnahme**
+
+<sup>1</sup> Kandidierende, die die Bedingungen nach Artikel 14 nicht erfüllen, aber über eine angemessene Ausbildung verfügen, werden unter der Kontrolle des Dienstes aufgrund der Ergebnisse einer Prüfung oder einer Gesamtbeurteilung aufgenommen.
+
+#### Art. 16
 
 **Übertritte**
 
@@ -175,274 +176,241 @@ Kandidaten, die die Bedingungen nach Artikel 13 nicht erfüllen, aber über eine
 
 <sup>2</sup> Die Bedingungen werden durch Richtlinien des Departements festgelegt.
 
-### 4. Abschnitt: Jährliche Promotionsbedingungen
-
-#### Art. 16
-
-**Notenskala**
-
-<sup>1</sup> Der Wert jeder schriftlichen oder mündlichen Prüfung ist in Noten auszudrücken:
-
-6; 5,5; 5; 4,5 und 4 für genügende Leistungen; 3,5; 3; 2,5; 2; 1,5 und 1 für ungenügende Leistungen.
-
-<sup>2</sup> Die Note 1 kann gegeben werden, wenn jede Antwort verweigert wird, oder bei Betrug.
+## 4 Jährliche Promotionsbedingungen
 
 #### Art. 17
 
-**Notendurchschnitt**
+**Notenskala**
 
-Die Notendurchschnitte werden auf den Hundertstel berechnet und nach dem üblichen System auf Zehntel auf- oder abgerundet (z. B.: 5,29 = 5,3; 4,25 = 4,3; 3,54 = 3,5).
+<sup>1</sup> Der Wert jeder schriftlichen oder mündlichen Prüfung ist in Zehntelsnoten anzugeben.
+
+<sup>2</sup> Noten, die 4,0 oder mehr betragen, bezeichnen genügende Leistungen; Noten unter 4,0 bezeichnen ungenügende Leistungen.
 
 #### Art. 18
 
-**Jährliche Promotion**
+**Betrug**
 
-<sup>1</sup> Ein Schüler hat das Schuljahr bestanden, wenn er kumulativ mindestens folgende Bedingungen erfüllt:
-
-- a) die Punktezahl aus der Anzahl unterrichteter Fächer multipliziert mit vier;
-
-- b) höchstens drei Fächer unter der Note 4;
-
-- c) die Summe der Abweichungen der Noten unter vier ist nicht grösser als 2 Punkte.
-
-<sup>2</sup> Die beiden Semester werden je zur Hälfte bei der Berechnung der Jahresnoten berücksichtigt.
-
-<sup>3</sup> Ein Schüler kann die gleiche Klasse nur einmal wiederholen.
-
-### 5. Abschnitt: Prüfungen für den Fachmittelschulausweis
+<sup>1</sup> Jeglicher Betrug oder Betrugsversuch, einschliesslich Plagiat, in einer Arbeit wird bestraft und die Arbeit entsprechend bewertet. Die Note 1 kann gegeben werden.
 
 #### Art. 19
 
-**Zulassungsbedingungen**
+**Notendurchschnitt**
 
-<sup>1</sup> Zu den Prüfungen für den Fachmittelschulausweis werden nur jene Schüler zugelassen, die in der FMS, die sie besuchen, alle Programme des letzten Schuljahres besucht haben.
+<sup>1</sup> Die Jahresnote ist der nach dem üblichen System auf ganze oder halbe Noten gerundete Durchschnitt aller Noten des Jahres (z.B. von 4,75 bis 5,24 = 5,0; von 4,25 bis 4,74 = 4,5; von 3,75 bis 4,24 = 4,0).
 
-<sup>2</sup> Die Schüler der FMS müssen zusätzlich ein von der Schule anerkanntes zweiwöchiges Praktikum gemacht haben und die definitive Version ihrer persönlichen Arbeit abgegeben haben.
+<sup>2</sup> Die Mindestanzahl der Noten, die zur Ermittlung des Jahresdurchschnitts für ein Fach erforderlich ist, entspricht der Anzahl der Wochenstunden in diesem Fach x 2 + 1.
 
 #### Art. 20
 
-**Anmeldung zu den Prüfungen**
+**Jährliche Promotion**
 
-Die Kandidaten müssen entsprechend den internen Weisungen des Departements bei ihrer Schulleitung hinterlegen:
+<sup>1</sup> Das Schuljahr gilt als bestanden, wenn kumulativ folgende Bedingungen erfüllt sind:
 
-- 1\. ein schriftliches Gesuch um Zulassung zur Prüfung gemäss offiziellem Anmeldeformular;
+- a) der auf Zehntel gerundete Durchschnitt aller Jahresnoten beträgt 4,0 oder mehr;
+- b) höchstens drei Jahresnoten sind ungenügend (unter 4,0);
+- c) die Differenz der Noten unter 4,0 ist gesamthaft nicht grösser als 2 Punkte
 
-- 2\. eine Bestätigung, dass sie die Einschreibegebühr bezahlt haben.
+<sup>2</sup> Ein Schüler kann die gleiche Klasse nur einmal wiederholen.
 
 #### Art. 21
 
-**Überwachung der Prüfungen**
+**Fachrichtungswechsel**
 
-<sup>1</sup> Die Prüfungen finden grundsätzlich unter dem Vorsitz eines Vertreters der kantonalen Mittelschulkommission und unter Mitarbeit von Experten statt, die von den einzelnen Schulleitungen vorgeschlagen werden und vom Departement genehmigt sind.
+<sup>1</sup> Sofern keine ausserordentlichen Umstände vorliegen, ist ein Fachrichtungswechsel nur zum Ende eines Schuljahres möglich.
 
-<sup>2</sup> Die Prüfungen erfolgen in einer vom Departement festgelegten Form. Es gibt schriftliche und mündliche Prüfungen.
-
-<sup>3</sup> Das Departement wacht darüber, dass der Schwierigkeitsgrad und der Bewertungsmodus zwischen den verschiedenen FMS gleichwertig sind.
+## 5 Abschlussprüfungen
 
 #### Art. 22
 
-**Durchführung der Prüfungen**
+**Zulassungsbedingungen**
 
-<sup>1</sup> Die Durchführung und die Beaufsichtigung der Prüfungen obliegen der entsprechenden Schuldirektion unter der Kontrolle des Departements.
+<sup>1</sup> Zu den Abschlussprüfungen werden nur jene Schüler zugelassen, die:
 
-<sup>2</sup> Die Prüfungen für den Fachmittelschulausweis finden grundsätzlich am Ende des Schuljahres statt. Die Daten müssen vom Departement genehmigt werden.
-
-<sup>3</sup> Falls es die Umstände rechtfertigen, kann das Departement, auf Vorschlag der Schuldirektion, eine aussergewöhnliche Prüfungssession organisieren.
+- a) das 3. Jahr der FMS regelmässig besucht haben;
+- b) ihre selbstständige Arbeit abgegeben haben;
+- c) mindestens ein 2-wöchiges Berufspraktikum absolviert haben;
+- d) ein Gesuch um Zulassung zu den Prüfungen gestellt und die Anmeldegebühr bezahlt haben.
 
 #### Art. 23
+
+**Überwachung der Abschlussprüfungen**
+
+<sup>1</sup> Die Abschlussprüfungen finden grundsätzlich unter dem Vorsitz einer delegierten Person der Dienststelle in Zusammenarbeit mit Fachpersonen statt, die von den einzelnen Schulleitungen und vom Departement vorgeschlagen werden.
+
+<sup>2</sup> Das Departement legt in den Richtlinien für die Abschlussprüfungen die Form und Art der Prüfungen und die zulässigen Hilfsmittel fest.
+
+#### Art. 24
+
+**Durchführung der Abschlussprüfungen**
+
+<sup>1</sup> Die Durchführung und die Beaufsichtigung der Prüfungen obliegen der entsprechenden Schuldirektion unter Aufsicht des Dienstes.
+
+<sup>2</sup> Die Abschlussprüfungen finden grundsätzlich am Ende des Schuljahres statt. Die Termine müssen vom Departement genehmigt werden.
+
+<sup>3</sup> Wenn es die Umstände rechtfertigen, kann der Dienst, auf Antrag der Schuldirektion, eine ausserordentliche Prüfungsession durchführen.
+
+#### Art. 25
 
 **Schriftliche Prüfungen**
 
 <sup>1</sup> Die schriftlichen Prüfungen umfassen:
 
-- 1\. Sprache I;
-
-- 2\. Sprache II;
-
-- 3\. Englisch;
-
-- 4\. Mathematik;
-
-- 5\. a) Psychologie für das Berufsfeld «Soziales und Pädagogik»;
-
-- b) Chemie für das Berufsfeld «Gesundheit und Pädagogik»;
-
-<sup>2</sup> Dem Kandidaten stehen zur Verfügung:
-
-- a) vier Stunden für die Sprache I;
-
-- b) je drei Stunden für die übrigen Fächer.
-
-#### Art. 24
-
-**Mündliche Prüfungen**
-
-<sup>1</sup> Die mündlichen Prüfungen erstrecken sich über folgende Fächer:
-
-- 1\. Sprache I;
-
-- 2\. Sprache II;
-
-- 3\. Englisch;
-
-- 4\. a) Wirtschaft/Recht und Soziologie für das Berufsfeld «Soziales und Pädagogik»;
-
-- b) Biologie und Soziologie für das Berufsfeld «Gesundheit und Pädagogik».
-
-<sup>2</sup> Jeder Kandidat verfügt über zehn bis 15 Minuten für jedes Fach, während derer sich der folgende Kandidat vorbereitet.
-
-#### Art. 25
-
-**Hilfsmittel**
-
-Die bewilligten Hilfsmittel bei den Prüfungen werden vom Departement bestimmt.
+- a) Sprache I;
+- b) Sprache II;
+- c) Englisch;
+- d) Mathematik;
+- e) je nach gewähltem Berufsfeld, das folgende Fach:
+  - 1\. Wirtschaft und Recht für das Berufsfeld Soziale Arbeit, oder
+  - 2\. Chemie für das Berufsfeld Gesundheit/Naturwissenschaften.
 
 #### Art. 26
 
-**Verzicht während den Prüfungen**
+**Mündliche Prüfungen**
 
-<sup>1</sup> Zieht sich ein Kandidat im Verlaufe der Prüfungen zurück, hat er nicht bestanden; Vorbehalten bleiben Fälle höherer Gewalt, über die das Departement entscheidet.
+<sup>1</sup> Die mündlichen Prüfungen umfassen:
 
-<sup>2</sup> Arztzeugnisse werden nur berücksichtigt, wenn sie spätestens vor der Prüfung abgegeben werden.
+- a) Sprache I;
+- b) Sprache II;
+- c) Englisch;
+- d) je nach gewähltem Berufsfeld, das folgende Fach:
+  - 1\. Sozialprojekt für das Berufsfeld Soziale Arbeit,
+  - 2\. Biologie für das Berufsfeld Gesundheit/Naturwissenschaften,
+  - 3\. Psychologie für das Berufsfeld Pädagogik in den Fachrichtungen Soziale Arbeit und Pädagogik sowie Gesundheit/Naturwissenschaften und Pädagogik,
+  - 4\. Psychologie für das Berufsfeld Soziale Arbeit in der Fachrichtung Soziale Arbeit und Theater und/oder Musik, oder
+  - 5\. Theater- und Musikgeschichte für das Berufsfeld Theater und/oder Musik.
 
 #### Art. 27
 
-**Misserfolg**
+**Praktische Prüfungen**
 
-<sup>1</sup> Erfüllt ein Kandidat die Bedingungen nicht, kann er ein letztes Mal zur Prüfung zugelassen werden, wenn er alle Kurse des letzten Schuljahres besucht hat.
+<sup>1</sup> Die praktischen Prüfungen umfassen:
 
-<sup>2</sup> 2Er wird vom Unterricht und den Prüfungen in jenen Fächern befreit, in denen er mindestens die Note 5 erhalten hat. In diesem Fall sind für die Berechnung der Punktzahl die Noten der zweiten Prüfung massgebend.
-
-<sup>3</sup> Er wird vom Wiederholen der persönlichen Arbeit befreit, wenn er dafür die Note 4 oder besser erhalten hat. In diesem Fall ist die Note für die Berechnung der Punktzahl der zweiten Prüfung massgebend.
-
-<sup>4</sup> Das angerechnete Praktikum muss nicht wiederholt werden.
-
-<sup>5</sup> Bei der Wiederanmeldung zahlt der Kandidat die volle Einschreibegebühr.
+- a) Kunsterziehung für das Berufsfeld Pädagogik;
+- b) Kunstprojekt für das Berufsfeld Theater und/oder Musik.
 
 #### Art. 28
 
-**Betrug**
+**Prüfungsfächer der zweisprachigen Ausbildungsgänge**
 
-<sup>1</sup> Bei Benützung nicht bewilligter Hilfsmittel oder bei Betrug schreitet die Aufsichtsperson oder der Experte ein. Solange die Sanktion nicht verhängt ist, setzt der Kandidat die Prüfung fort.
-
-<sup>2</sup> In allen Fällen von Betrug hat die Aufsichtsperson oder der Experte einen schriftlichen Bericht an die Schuldirektion zu richten. Diese leitet den Bericht, mit ihrem Antrag versehen, sofort an den Präsidenten der kantonalen Mittelschulkommission weiter. Diese legt die Massnahme fest, die vom Ausschuss von den Prüfungen bis zum Verlust des Anrechts auf den Ausweis gehen kann.
-
-<sup>3</sup> Während der schriftlichen Prüfungen ist es den Kandidaten verboten, den Saal zu verlassen.
-
-<sup>4</sup> Die Bestimmungen dieses Artikels und die Liste der bewilligten Hilfsmittel werden den Kandidaten vor den Prüfungen ausdrücklich mitgeteilt.
+<sup>1</sup> Die Wahl der Fächer für die schriftlichen und mündlichen Prüfungen der zweisprachigen Ausbildungsgänge kann vom Departement gemäss dem Reglement betreffend die Anerkennung der von den Fachmittelschulen ausgehändigten Ausweise geändert werden.
 
 #### Art. 29
 
-**Anwesenheit von Drittpersonen**
+**Anerkennung von Fremdsprachendiplomen**
 
-Es sind nur folgende Personen berechtigt, den Prüfungen beizuwohnen: die Aufsichtspersonen, die Lehrperson, der Experte, der Schuldirektor, der Schulinspektor, die Vertreter des Departements und der EDK.
+<sup>1</sup> Die Dienststelle kann die erzielten Ergebnisse für ein Fremdsprachendiplom anerkennen.
+
+<sup>2</sup> Die Liste der anerkannten Diplome sowie die Tabelle zur Umrechnung in Noten werden von der Dienststelle erstellt und aktualisiert.
+
+<sup>3</sup> Um berücksichtigt zu werden, muss das Ergebnis eines Sprachdiploms vor Beginn der Prüfungssession bei der Schulleitung eingegangen sein.
+
+<sup>4</sup> Die Note des Fremdsprachendiploms kann die Abschlussprüfung ersetzen, wenn der Schüler schriftlich zugestimmt hat und die umgerechnete Note nicht ungenügend ist.
 
 #### Art. 30
 
-**Schlussprüfungen**
+**Verzicht während den Prüfungen**
 
-<sup>1</sup> Die Schlussnote jedes Prüfungsfaches wird aus dem Durchschnitt des Prüfungsresultates und der Note des letzten Schuljahres berechnet. In den Fächern, in denen eine mündliche und schriftliche Prüfung stattfindet, wird der Durchschnitt aus der Hälfte der Jahresnote und je einem Viertel für die schriftliche und für die mündliche Prüfung berechnet.
-
-<sup>2</sup> In jenen Fächern, in denen keine Prüfung stattfindet, zählt die Jahresnote des 3. Schuljahres, beziehungsweise des 2. Schuljahres als Note für den Ausweis.
-
-<sup>3</sup> Es obliegt der Schuldirektion, die Kandidaten über die vorliegenden Bestimmungen schriftlich zu informieren.
+<sup>1</sup> Zieht sich ein Kandidierende im Verlaufe der Prüfungen zurück, hat er nicht bestanden. Vorbehalten bleiben Fälle höherer Gewalt, über die das Departement entscheidet.
 
 #### Art. 31
 
-**Erhalt des Ausweises**
+**Betrug**
 
-Der Ausweis der FMS wird Kandidaten erteilt, die kumulativ die folgenden Bedingungen erfüllen:
+<sup>1</sup> Die Verwendung nicht bewilligter Hilfsmittel oder jede Art von Betrug ist strafbar und führt zum Eingreifen der Aufsichts- oder Fachperson. Solange die Sanktion nicht verhängt ist, setzt der Kandidat die Prüfung fort.
 
-- a) die Summe der Punkte entspricht viermal der Anzahl Fächer, die in Artikel 33 aufgezählt sind;
+<sup>2</sup> In allen Betrugsfällen hat die Aufsichts- oder Fachperson einen schriftlichen Bericht an die Schuldirektion zu richten. Diese leitet den Bericht zusammen mit ihrem Sanktionsantrag unverzüglich an die Dienststelle weiter. Diese legt die Sanktion fest, die vom Ausschluss von den Prüfungen bis zum Verlust des Anrechts auf den Fachmittelschulausweis gehen kann.
 
-- b) höchstens drei Fachnoten unter der Note 4;
-
-- c) die Summe der Notenabweichungen von 4.0 nach unten beträgt nicht mehr als 2 Punkte.
+<sup>3</sup> Die Bestimmungen dieses Artikels und die Liste der bewilligten Hilfsmittel werden den Kandidaten vor den Prüfungen ausdrücklich mitgeteilt.
 
 #### Art. 32
 
-**Angaben auf dem Ausweis**
+**Anwesenheit von Drittpersonen**
 
-Der durch das Departement ausgehändigte Fachmittelschulausweis trägt folgende Angaben:
-
-- a) die Bezeichnung der Schule und des Standortkantons der Schule;
-
-- b) den Vermerk des oder der gewählten Berufsfelder;
-
-- c) die persönlichen Angaben des Absolventen des Ausweises;
-
-- d) den Vermerk gesamtschweizerisch anerkannter Fachmittelschulausweis;
-
-- e) die Bewertung der Fächer der Allgemeinbildung und jener unter Artikel 3 Absatz 1 oder Absatz 3 definierten Berufsfelder;
-
-- f) der Titel und die Evaluation der persönlichen Arbeit;
-
-- g) die Unterschrift der Schuldirektion und der zuständigen kantonalen Behörde sowie Ort und Datum.
+<sup>1</sup> Nur folgende Personen sind berechtigt, den Prüfungen beizuwohnen: die Aufsichtspersonen, die Lehrperson, die Fachperson, der Schuldirektor, der Schulinspektor, die Delegierten des Departements und der EDK.
 
 #### Art. 33
 
-**Fächer, die auf dem Ausweis aufgeführt sind**
+**Abschlussprüfungen**
 
-<sup>1</sup> Allgemeinbildung Es werden in folgenden Fächern Noten gegeben:
+<sup>1</sup> Die Ausweisnote jedes Prüfungsfaches ergibt sich aus dem Durchschnitt der Prüfungsnote und der Note des 3. Schuljahres. In den Fächern mit einer mündlichen und schriftlichen Prüfung werden die Noten im Verhältnis der Hälfte der Jahresnote und je einem Viertel für die schriftliche und die mündliche Prüfung zusammengefasst. Die Abschlussprüfungsnoten werden auf ganze oder halbe Noten gerundet.
 
-- a) Sprachen und Kommunikation: Sprache I, Sprache II, Englisch;
+<sup>2</sup> In den Fächern ohne Prüfung zählt die Jahresnote des 3. Schuljahres als Ausweisnote.
 
-- b) Mathematik und Naturwissenschaften: Mathematik, Biologie oder Naturwissenschaften;
+<sup>3</sup> Die Ausweisnoten werden auf ganze oder halbe Noten gerundet.
 
-- c) Sozialwissenschaften: Psychologie, Soziologie, Geschichte;
-
-- d) Musische Aktivitäten und Sport: Sport, künstlerische Tätigkeit;
-
-- e) Persönliche Arbeit;
-
-- f) Freifach der Schule.
-
-<sup>2</sup> Ausbildung im Zusammenhang mit den Berufsfeldern:
-
-Es werden in folgenden Fächern Noten gegeben:
-
-- a) Für das Berufsfeld « Soziales und Pädagogik »: Wirtschaft und Recht, soziales Projekt;
-
-- b) Für das Berufsfeld « Gesundheit und Pädagogik »: Chemie, Physik.
+<sup>4</sup> Es obliegt der Schuldirektion, die Schüler über die vorliegenden Bestimmungen schriftlich zu informieren.
 
 #### Art. 34
 
-**Protokoll, das dem Ausweis beiliegt**
+**Fächer, die auf dem Ausweis aufgeführt sind**
 
-Das Protokoll, das dem Ausweis beiliegt, enthält den Namen des Schülers und die Unterschrift des Schuldirektors. Es bestätigt die Jahresnoten und jene der Abschlussprüfungen, die gemäss Artikel 33.
-
-### 6. Abschnitt: Rekursverfahren
+<sup>1</sup> Im Anhang 1, der integraler Bestandteil des vorliegenden Reglements bildet, sind die Fächer aufgeführt, die für den Ausweis folgender Fachrichtungen zählen: Gesundheit/Naturwissenschaften und Pädagogik, Soziale Arbeit und Pädagogik, Soziale Arbeit und Theater und/oder Musik.
 
 #### Art. 35
 
-**Rekurs**
+**Erhalt des Ausweises**
 
-<sup>1</sup> Die Entscheide über Nichtbeförderung oder Misserfolg fallen in die Zuständigkeit des Departements; dagegen kann innert 30 Tagen beim Staatsrat Beschwerde erhoben werden.
+<sup>1</sup> Der Ausweis der FMS wird Kandidierenden vergeben, welche die folgenden Bedingungen kumulativ erfüllen:
 
-<sup>2</sup> Gegenstand einer Beschwerde können Entscheide sein über:
-
-- a) die Zulassung zu den Schlussprüfungen;
-
-- b) die Massnahmen im Falle eines Betruges.
-
-### 7. Abschnitt: Übergangs- und Schlussbestimmungen
+- a) der auf Zehntel gerundete Durchschnitt aller Noten, die in den Artikeln 33 und 34 aufgeführt sind, beträgt 4,0 oder mehr;
+- b) die Differenz der Noten unter 4,0 ist gesamthaft nicht grösser als zwei Punkte;
+- c) maximal drei Ausweisnoten sind ungenügend.
 
 #### Art. 36
 
-**Unvorhergesehene Fälle**
+**Nichtbestehen**
 
-Für alle in diesem Reglement unvorhergesehenen Fälle sind die Bestimmungen des Allgemeinen Reglements über die Mittelschulen sowie die offiziellen Weisungen des Departements anwendbar.
+<sup>1</sup> Bei Nichtbestehen der Abschlussprüfungen können Kandidierende zu einem zweiten und letzten Versuch zugelassen werden, wenn sie erneut alle Unterrichtsfächer des letzten Schuljahres besucht haben.
+
+<sup>2</sup> In den Fächern, in denen sie mindestens die Note 5,0 erzielt haben, werden sie vom Unterrichtsbesuch und der Repetition der Prüfung dispensiert. In diesem Fall werden die Noten übernommen und fliessen in die Berechnung der Punktzahl des zweiten Versuchs mit ein.
+
+<sup>3</sup> Sie werden vom Wiederholen der selbstständigen Arbeit befreit, wenn sie dafür die Note 4,0 oder mehr erzielt haben. In diesem Fall wird die Note übernommen und fliesst in die Berechnung der Punktzahl des zweiten Versuchs mit ein.
+
+<sup>4</sup> Das angerechnete Praktikum muss nicht wiederholt werden.
+
+<sup>5</sup> Bei der Wiederanmeldung zahlen die Kandidaten die volle Einschreibegebühr.
 
 #### Art. 37
 
-**Aufhebung und Inkrafttreten**
+**Angaben auf dem Ausweis**
 
-<sup>1</sup> Dieses Reglement ersetzt das Reglement über die Diplommittelschule vom 30. Januar 2002. Es tritt auf den Beginn des Schuljahres 2008/2009 in Kraft.
+<sup>1</sup> Der durch das Departement ausgehändigte Fachmittelschulausweis beinhaltet folgende Angaben:
 
-<sup>2</sup> Schüler, welche ihre Studien vor Inkrafttreten des vorliegenden Reglements begonnen haben, bleiben den Bestimmungen des Reglements vom 30. Januar 2002 unterworfen.
+- a) die Bezeichnung der Schule und des Standortkantons der Schule;
+- b) die persönlichen Angaben des Inhabers des Ausweises;
+- c) der Hinweis, wonach das Zeugnis schweizweit anerkannt ist;
+- d) den Vermerk des gewählten Berufsfelds oder der gewählten Berufsfelder;
+- e) die Beurteilung und Bewertung der Fächer der Allgemeinbildung
+- f) die Beurteilung und Bewertung der berufsfeldbezogenen Fächer;
+- g) das Thema und die Auswertung der selbstständigen Arbeit;
+- h) gegebenenfalls den Hinweis "zweisprachig" sowie die Angabe der zweiten Sprache und der betreffenden Fächer:
+- i) die Unterschrift der Schuldirektion und der zuständigen kantonalen Behörde, und
+- j) Ort und Datum.
 
-<sup>3</sup> Richtlinien des DEKS regeln die Fälle von Nichtpromotion und Misserfolg bei den Abschlussprüfungen für Schüler, die dem Reglement vom 30. Januar 2002 unterliegen.
+## 6 Beschwerdeverfahren
 
-So angenommen im Staatsrat zu Sitten, den 3. Juni 2008.
+#### Art. 38
 
-Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Henri v. Roten
+**Beschwerde**
+
+<sup>1</sup> Entscheide, die in Anwendung des vorliegenden Reglements getroffen werden, insbesondere Entscheide über Nichtbestehen von Abschlussprüfungen, fallen in die Zuständigkeit des Departements und können innert 30 Tagen beim Staatsrat angefochten werden.
+
+<sup>2</sup> Das Beschwerdeverfahren wird durch das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) geregelt.
+
+## 7 Schluss- und Übergangsbestimmungen
+
+#### Art. 39
+
+**Unvorhergesehene Fälle**
+
+<sup>1</sup> Für alle in diesem Reglement unvorhergesehenen Fälle sind die Bestimmungen des Allgemeinen Reglements über die Mittelschulen sowie die offiziellen Weisungen des Departements anwendbar.
+
+#### Art. 40
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Für Schülerinnen und Schüler, welche ihre Ausbildung vor Inkrafttreten des vorliegenden Reglements begonnen haben, gelten unter Vorbehalt von Absatz 2 weiterhin die Bestimmungen des Reglements über die Fachmittelschulen vom 3. Juni 2008.
+
+<sup>2</sup> Für Schülerinnen und Schüler, welche ihre Ausbildung vor Inkrafttreten des vorliegenden Reglements begonnen haben und das erste Ausbildungsjahr wiederholen, ist in ihrer weiteren Ausbildung das vorliegenden Reglement anwendbar.
+
+CSW RO/AGS 2021-110
