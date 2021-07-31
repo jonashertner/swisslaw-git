@@ -3,20 +3,20 @@ canton: BL
 number: "647.12"
 title: Verordnung für die Schulleitung und die Schulsekretariate
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-11-10
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2020-06-23
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/647.12"
-pdf: "https://bl.clex.ch/api/de/versions/2768/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3361/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Schulleitung und die Schulsekretariate
 
-Vom 13.05.2003 (Stand 01.01.2021)
+Vom 13.05.2003 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -123,42 +123,42 @@ beschliesst:
 
 **Leitungszeit**
 
-<sup>1</sup> Die Leitungszeit für die Schulleitungen der Primarstufe besteht aus einem Lektionensockel und einer Leitungszeitzuteilung, welche aufgrund der Klassenzahl der Schule berechnet werden.
+<sup>1</sup> Die Leitungszeit auf der Primarstufe für die Schulleitungsaufgabe setzt sich zusammen:
 
-<sup>2</sup> Die Leitungszeit wird auf der Basis der Pflichtstundenzahl der Lehrer und Lehrerinnen berechnet.
+- a. aus einem Minimalpensum von 30 %, welches anhand der Klassenzahlen gemäss Anhang 1 erhöht wird;
+- b. sowie aus einem allfälligen Mehraufwandpensum für mehrere Schulanlagen, wobei:
+  - 1\. die 2. Schulanlage mit 10 % berücksichtigt wird, ausser sie besteht nur aus 1 Klasse;
+  - 2\. jede weitere Schulanlage mit 4 oder mehr Klassen mit 5 % und mit 7 oder mehr Klassen mit 10 % berücksichtigt werden.
 
-<sup>2 <sup>bis</sup></sup> Die Leitungszeit wird in reguläre Arbeitszeit im Sinne einer 42-Stunden-Woche umgerechnet und führt zu einer Anstellung in Prozenten, analog den Anstellungen für das Verwaltungspersonal.
+<sup>1<sup>bis</sup></sup> Kindergärten werden nicht als zusätzliche Schulanlage im Sinne von Abs. 1 Bst. b gezählt.
+
+<sup>2</sup> …
+
+<sup>2 <sup>bis</sup></sup> …
 
 <sup>2 <sup>ter</sup></sup> Der Beschäftigungsgrad eines Schulleitungsmitglieds (inklusive der Unterrichtstätigkeit) darf nicht über 100 % liegen. Ein Schulleitungsmitglied kann sich in der Funktion als Lehrperson Mehrlektionen weder anrechnen noch auszahlen lassen. Allfällig geleistete Mehrlektionen verfallen oder müssen innerhalb des Schuljahres kompensiert werden.
 
-<sup>3</sup> Die Leitungszeit wird alle 2 Schuljahre durch das Amt für Volksschulen überprüft und ist bei veränderten Verhältnissen aufgrund der Klassenzahl des Vorjahres auf den 1. August anzupassen.
+<sup>3</sup> Die Leitungszeit wird spätestens alle 4 Jahre oder auf Antrag der Schulleitung beziehungsweise von Amtes wegen durch die Gemeinde überprüft und bei Bedarf angepasst.
+
+<sup>4</sup> Die Schulleitungsaufgaben werden spätestens alle 4 Jahre vom Amt für Volksschulen überprüft.
 
 #### § 10
 
-**Lektionensockel**
-
-<sup>1</sup> Der Lektionensockel beträgt pro Schule:
-
-- a. 1 Lektion bei 1 bis 4 Klassen;
-- b. 3 Lektionen bei 5 bis 7 Klassen;
-- c. 4 Lektionen bei 8 und mehr Klassen;
-- d. 2 Lektionen pro Nebenschulstandort in einer anderen Gemeinde.
-
-<sup>2</sup> …
+**…**
 
 #### § 11
 
 **Leitungszeitzuteilung**
 
-<sup>1</sup> Die Leitungszeitzuteilung beträgt 1,1 Lektionen pro Klasse und ab August 2019 1,25 Lektionen pro Klasse.
+<sup>1</sup> …
 
-<sup>1 <sup>bis</sup></sup> Dem Schulrat ist es freigestellt, die Leitungszeitzuteilung bereits früher bis zum Maximum von 1,25 Lektionen pro Klasse anzuheben. Für besondere Aufgaben im Rahmen der Schulentwicklung oder für die Gemeinde kann der Schulrat befristete Mehrpensen oder Überstunden für die Schulleitung anordnen.
+<sup>1 <sup>bis</sup></sup> …
 
 <sup>2</sup> …
 
-<sup>3</sup> Bei der Integrativen Schulungsform (ISF) entspricht die Leitungszeitzuteilung der Anzahl indizierter Förderlektionen geteilt durch die Pflichtlektionen der jeweiligen Schulstufe multipliziert mit dem entsprechenden Leitungsansatz gemäss den Abs. 1 und 2.
+<sup>3</sup> …
 
-<sup>4</sup> Bei Erteilung von mehr als 83 ISF-Lektionen besteht kein Anspruch auf eine weitere Erhöhung der Leitungszeit.
+<sup>4</sup> …
 
 <sup>5</sup> Für die Mitglieder des Vorstands der Schulleitungskonferenz Primarstufe stehen insgesamt folgende Stellenprozente zur Verfügung: 25 % zulasten des Kantons und 25 % zulasten der Trägerschaft.
 
@@ -419,13 +419,13 @@ beschliesst:
 
 <sup>1</sup> Für die Berechnung der Arbeitszeit für das Schulsekretariat gelten folgende Empfehlungen: Die anrechenbare Arbeitszeit für das Sekretariat beträgt 1 Stunde pro Klasse/Woche und Kalenderjahr. Zudem können für besondere Aufgaben ein befristetes Mehrpensum oder Überstunden angeordnet werden.
 
-<sup>2</sup> Für Integrative Schulungsform (ISF) erhöht sich die massgebende Klassenzahl um:
+<sup>2</sup> Für die Spezielle Förderung erhöht sich die massgebende Klassenzahl entsprechend den effektiv beanspruchten Lektionenzahlen der Integrativen Speziellen Förderung (ISF), der Einführungs- und Kleinklassen (EK und KK), der Lektionen in Deutsch als Zweitsprache (DaZ) und der Fremdsprachenintegrationsklassen (FSK) um 1 Klasse je 28 Lektionen, wobei in Klassen erbrachte Lektionen der Speziellen Förderung nicht zusätzlich gemäss Abs. 1 gezählt werden.
 
-- a. 1 Klasse für 14-27 Lektionen;
-- b. 2 Klassen für 28-55 Lektionen;
-- c. 3 Klassen für 56-83 Lektionen.
+- a. …
+- b. …
+- c. …
 
-<sup>3</sup> Bei Erteilung von mehr als 83 ISF-Lektionen besteht kein Anspruch auf eine weitere Erhöhung der anrechenbaren Arbeitszeit.
+<sup>3</sup> …
 
 <sup>4</sup> Der Umfang der anrechenbaren Arbeitszeit wird alle 2 Schuljahre durch das Amt für Volksschulen auf den 1. August überprüft und ist bei veränderten Verhältnissen anzupassen.
 
