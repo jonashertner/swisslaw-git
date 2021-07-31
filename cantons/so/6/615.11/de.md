@@ -4,13 +4,13 @@ number: "615.11"
 title: Gebührentarif
 short: GT
 language: de
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-05-06
+version: 2021-08-01
+valid_until: 2022-06-30
+version_adopted: 2020-09-08
 adopted: 2016-03-08
 in_force: 2016-07-15
 url: "https://bgs.so.ch/app/de/texts_of_law/615.11"
-pdf: "https://bgs.so.ch/api/de/versions/5048/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5089/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5048/pdf_file"
 
 (GT)
 
-Vom 08.03.2016 (Stand 01.03.2021)
+Vom 08.03.2016 (Stand 01.08.2021)
 
 Der Kantonsrat von Solothurn
 
@@ -371,7 +371,9 @@ beschliesst:
 
 <sup>1</sup> Die Anwaltskammer erhebt folgende Gebühren:
 
-- a) Eintragung und Löschung im kantonalen Anwaltsregister oder in einer gesetzlich vorgesehenen Liste — 400
+- a) Entscheide betreffend Eintragung oder Löschung im kantonalen Anwaltsregister oder in einer gesetzlich vorgesehenen Liste:
+  - 1\. Eintragung, wenn keine besonderen Abklärungen erforderlich sind, oder Löschung auf eigenes Gesuch — 400
+  - 2\. Eintragung, wenn besondere Abklärungen erforderlich sind, oder Löschung nicht auf eigenes Gesuch — 400-10'000
 - b) andere Entscheide — 100-10'000
 
 ### 2.2.3. Bildung
@@ -1031,9 +1033,13 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren betragen für die
 
-- a) Ermächtigung zur Ausübung des Notariates — 250
+- a) Ermächtigung zur Ausübung des Notariats:
+  - 1\. wenn keine besonderen Abklärungen erforderlich sind — 250
+  - 2\. wenn besondere Abklärungen erforderlich sind — 250-10'000
 - b) Befreiung eines Notars von der Schweigepflicht — 100-2'000
-- c) Löschung der Ermächtigung zur Ausübung des Notariats — 350
+- c) Löschung der Ermächtigung zur Ausübung des Notariats:
+  - 1\. auf eigenes Gesuch — 350
+  - 2\. nicht auf eigenes Gesuch — 350-10'000
 - d) Entgegennahme der Notariatsakten zur Aufbewahrung — 100-2'000
 - e) Eintragung und Löschung eines Notars im Schweizerischen Register der Urkundspersonen — 200
 
