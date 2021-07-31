@@ -4,13 +4,13 @@ number: "412.0.11"
 title: "Règlement sur l'enseignement secondaire supérieur"
 short: RESS
 language: fr
-version: 2014-01-01
-valid_until: 2021-07-31
-version_adopted: 2013-08-27
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-05-26
 adopted: 2021-05-26
 in_force: 2021-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6370/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6840/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,258 +21,283 @@ Enseignement secondaire supérieur – R
 
 (RESS)
 
-du 27.06.1995 (version entrée en vigueur le 01.01.2014)
+du 26.05.2021 (version entrée en vigueur le 01.08.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu la loi du 11 avril 1991 sur l'enseignement secondaire supérieur (LESS);
-
-Considérant:
-
-...
-
-Sur la proposition de la Direction de l'instruction publique et des affaires culturelles,
+Vu la loi du 11 décembre 2018 sur l'enseignement secondaire supérieur (LESS);
 
 Arrête:
 
-## 1 Structure de l'enseignement
-
-### 1.1 Etudes gymnasiales (art. 9, 10 et 17 LESS)
+## 1 Champ d'application
 
 #### Art. 1
 
-**Certificat de maturité gymnasiale**
+**Champ d'application**
 
-<sup>1</sup> Les études gymnasiales préparent à l'obtention du certificat de maturité gymnasiale, conformément à la réglementation fédérale sur la reconnaissance de certificats de maturité.
+<sup>1</sup> Le présent règlement énonce les dispositions d'exécution générales de la loi sur l'enseignement secondaire supérieur.
 
-<sup>2</sup> …
+<sup>2</sup> Sont réservées les dispositions spéciales relatives aux voies de formation.
 
-<sup>3</sup> …
+## 2 Structure de l'enseignement
+
+### 2.1 Voies de formation
 
 #### Art. 2
 
-**Modalités**
+**Formation gymnasiale (art. 10 et 14 al. 1 LESS)**
 
-<sup>1</sup> Les modalités et les conditions d'examens de baccalauréat sont précisées par un règlement du Conseil d'Etat.
+<sup>1</sup> La formation gymnasiale prépare à l'obtention du certificat de maturité gymnasiale, conformément à la réglementation fédérale et intercantonale sur la reconnaissance de ce certificat.
+
+<sup>2</sup> L'organisation de la formation gymnasiale, notamment la structure des études et les conditions de promotion, est précisée par le Conseil d'Etat.
 
 #### Art. 3
 
-**Organisation des études gymnasiales**
+**Formation commerciale en école à plein temps (art. 11 LESS)**
 
-<sup>1</sup> L'organisation des études gymnasiales est précisée par un règlement du Conseil d'Etat, définissant notamment les conditions d'admission et la répartition des élèves dans les collèges, le plan d'études, les conditions de promotion et les règles de comportement des élèves.
+<sup>1</sup> La formation commerciale prépare à l'obtention du certificat fédéral de capacité et du certificat fédéral de maturité professionnelle dans le domaine du commerce, conformément aux dispositions édictées par le Secrétariat d'Etat à la recherche et à l'innovation (ci-après: le SEFRI) en application de la loi fédérale sur la formation professionnelle.
 
-<sup>2</sup> Le présent règlement s'applique subsidiairement aux études gymnasiales.
+<sup>2</sup> L'organisation de la formation commerciale en école à plein temps, notamment la durée, la structure des études et les conditions de promotion, est précisée par le Conseil d'Etat.
+
+<sup>3</sup> Sont habilitées à délivrer un certificat fédéral de capacité ou un certificat fédéral de maturité professionnelle les écoles de commerce publiques reconnues par le SEFRI et intégrées au Collège de Gambach et au Collège du Sud.
 
 #### Art. 4
 
-**Durée (art. 17 LESS)**
+**Formation en école de culture générale (art. 12 LESS)**
 
-<sup>1</sup> La durée des études gymnasiales dispensées dans les collèges cantonaux est de quatre ans.
+<sup>1</sup> La formation en école de culture générale prépare à l'obtention du certificat de culture générale et du certificat de maturité spécialisée dans les domaines de la santé, du travail social et de la pédagogie, conformément à la réglementation intercantonale sur la reconnaissance de ces certificats.
 
-### 1.2 Formations de maîtres (art. 11 à 13 et 17 LESS)
+<sup>2</sup> L'organisation de la formation en école de culture générale, notamment la structure des études et les conditions de promotion, est précisée par le Conseil d'Etat.
+
+<sup>3</sup> Les durées des formations menant au certificat de culture générale et au certificat de maturité spécialisée sont de respectivement trois ans et un an.
+
+<sup>4</sup> La formation en école de culture générale est offerte à l'Ecole de culture générale de Fribourg (ECGF) et au Collège du Sud.
 
 #### Art. 5
 
-**Organisation de la Haute Ecole pédagogique (art. 12 al. 3 LESS)**
+**Voies de formation complémentaires (art. 13 LESS)**
 
-<sup>1</sup> L'organisation de la Haute Ecole pédagogique est précisée par un règlement particulier du Conseil d'Etat, définissant notamment la structure interne de l'Ecole, les conditions de promotion et les règles de comportement des élèves.
+<sup>1</sup> La passerelle de la maturité professionnelle ou spécialisée aux hautes écoles universitaires dure une année.
+
+<sup>2</sup> Le cours préparatoire permettant l'accès à la procédure d'admission à la Haute Ecole pédagogique Fribourg (HEP-PH FR) dure une année.
+
+<sup>3</sup> L'organisation de ces formations, notamment les lieux de formation, la structure des études ainsi que les modalités et les conditions d'obtention des certificats, est précisée par le Conseil d'Etat.
+
+### 2.2 Promotion du bilinguisme (art. 7 LESS)
 
 #### Art. 6
 
-**Durée (art. 17 LESS) – Formation des maîtres d'école enfantine**
+**Formes de promotion du bilinguisme**
 
-<sup>1</sup> Le diplôme d'enseignement dans les classes enfantines peut être obtenu soit au terme de quatre années consécutives de formation faisant suite à la scolarité obligatoire, soit au terme de deux années de formation spécifique pour les titulaires d'un certificat de maturité ou d'un certificat jugé équivalent.
+<sup>1</sup> Les écoles favorisent la collaboration et les échanges entre les deux communautés linguistiques du canton et encouragent le bilinguisme auprès de leurs élèves et de leur personnel.
+
+<sup>2</sup> Les mesures de promotion du bilinguisme peuvent notamment prendre la forme:
+
+- a) de collaborations entre les écoles et les sections linguistiques;
+- b) de cours en commun ou en immersion totale;
+- c) de cours à option choisis dans la langue partenaire;
+- d) d'activités culturelles ou sportives communes ou dans la langue partenaire;
+- e) de classes bilingues;
+- f) d'échanges linguistiques et culturels.
 
 #### Art. 7
 
-**Durée (art. 17 LESS) – Formation des maîtres primaires**
+**Classes bilingues**
 
-<sup>1</sup> Le diplôme d'enseignement primaire peut être obtenu soit au terme de cinq années consécutives de formation faisant suite à la scolarité obligatoire, soit au terme de deux années de formation spécifique pour les titulaires d'un certificat de maturité ou d'un certificat jugé équivalent.
+<sup>1</sup> Des classes bilingues peuvent être constituées en fonction des compétences linguistiques des élèves.
+
+<sup>2</sup> L'inscription à une classe bilingue est facultative.
+
+<sup>3</sup> L'accomplissement avec succès d'une formation bilingue permet l'obtention d'un certificat bilingue.
+
+<sup>4</sup> Les conditions d'admission et l'organisation de ces classes sont précisées par la Direction de l'instruction publique, de la culture et du sport (ci-après: la DICS).
 
 #### Art. 8
 
-**Durée (art. 17 LESS) – Formation des maîtres d'économie familiale**
+**Echanges linguistiques et culturels**
 
-<sup>1</sup> Le diplôme d'enseignement de l'économie familiale et des activités créatrices manuelles peut être obtenu soit au terme de cinq années consécutives de formation faisant suite à la scolarité obligatoire, soit au terme de trois années de formation spécifique pour les titulaires d'un certificat de maturité ou d'un certificat jugé équivalent.
+<sup>1</sup> Lorsque les échanges linguistiques et culturels prennent la forme d'un séjour, en Suisse ou à l'étranger, la durée de celui-ci ne peut pas dépasser deux semestres. Les frais y relatifs, en particulier les frais de logement, de repas et de transport, sont à la charge des élèves.
+
+<sup>2</sup> Le directeur ou la directrice autorise le séjour, conformément aux dispositions fixées par la DICS.
+
+## 3 Fonctionnement général de l'école
+
+### 3.1 Année scolaire (art. 15 LESS)
 
 #### Art. 9
-
-**Durée (art. 17 LESS) – Cas particuliers**
-
-<sup>1</sup> L'accès à la formation des maîtres est également possible en cours d'études pour des candidats titulaires d'autres certificats du degré secondaire supérieur que ceux qui sont exigés aux articles 6, 7 et 8 ou au bénéfice d'autres formations; leurs aptitudes sont examinées de cas en cas au moment de l'admission, et la durée des études est fixée en conséquence par le directeur d'école ou le directeur des études.
-
-### 1.3 Etudes commerciales (art. 14 et 17 LESS)
-
-#### Art. 10
-
-**Organisation des études (art. 14 LESS)**
-
-<sup>1</sup> Les études commerciales sont organisées conformément aux dispositions édictées par l'Office fédéral de la formation professionnelle et de la technologie (ci-après: l'OFFT)en application de la loi fédérale sur la formation professionnelle.
-
-#### Art. 11
-
-**Durée (art. 17 LESS)**
-
-<sup>1</sup> La durée des études commerciales est de trois ans au moins, soit pour le diplôme d'études commerciales, soit pour la maturité professionnelle commerciale.
-
-#### Art. 12
-
-**Ecoles de commerce**
-
-<sup>1</sup> Sont habilitées à délivrer un diplôme d'études commerciales ou une maturité professionnelle commerciale les écoles de commerce publiques reconnues par l'OFFT et intégrées au Collège de Gambach et au Collège du Sud.
-
-<sup>2</sup> Sont également habilitées à délivrer un diplôme d'études commerciales les écoles privées reconnues par la Direction de l'instruction publique, de la culture et du sport (ci-après: la DICS) et par l'OFFT.
-
-<sup>3</sup> L'octroi du diplôme de maturité professionnelle commerciale est soumis à la réserve de la reconnaissance par l'OFFT. Si cette reconnaissance n'était pas acquise, les candidats recevraient le diplôme d'études commerciales aux conditions d'obtention de ce diplôme.
-
-### 1.4 Formation générale préparatoire (art. 15 et 17 LESS)
-
-#### Art. 13
-
-**Certificat de culture générale (art. 15 LESS)**
-
-<sup>1</sup> Le certificat de culture générale sanctionne des études débouchant sur diverses formations subséquentes, telles les professions de la santé et certaines professions scientifiques et socio-éducatives.
-
-#### Art. 14
-
-**Organisation des études (art. 15 al. 2 LESS)**
-
-<sup>1</sup> L'organisation de la formation générale préparatoire est précisée par un règlement particulier de la DICS, définissant notamment la structure interne de l'école, les conditions de promotion et les règles de comportement des élèves.
-
-<sup>2</sup> La formation générale préparatoire s'effectue sur la base du programme et des exigences définis par le règlement du 12 juin 2003 de la Conférence suisse des Directeurs cantonaux de l'instruction publique (CDIP) concernant la reconnaissance des certificats délivrés par les écoles de culture générale.
-
-#### Art. 15
-
-**Répartition des classes de culture générale (art. 3 al. 2 et art. 15 al. 3 LESS)**
-
-<sup>1</sup> La formation de culture générale est offerte à l'Ecole de culture générale de Fribourg (ECGF) et au Collège du Sud.
-
-#### Art. 16
-
-**Durée (art. 17 LESS)**
-
-<sup>1</sup> La formation générale préparatoire s'étend sur une durée de trois ans.
-
-### 1.5 Autres attributions des écoles, voies de formation complémentaires (art. 8, 13, 16 et 17 LESS)
-
-#### Art. 17
-
-**Principe**
-
-<sup>1</sup> D'autres voies de formation peuvent être organisées en fonction des besoins spécifiques, notamment des adultes, et du nombre de candidats intéressés, par exemple dans les domaines liés à l'enseignement, au commerce, à certaines activités sociales et au secteur médico-technique.
-
-#### Art. 18
-
-**…**
-
-#### Art. 19
-
-**Cours de secrétariat (art. 16 et 17 LESS)**
-
-<sup>1</sup> Pour autant que l'effectif des candidats soit suffisant, un cours intensif de secrétariat débouchant sur l'obtention d'un diplôme cantonal de secrétariat est dispensé sur un an au Collège de Gambach. Cette voie de formation est régie par des dispositions particulières du Conseil d'Etat.
-
-### 1.6 Promotion du bilinguisme (art. 5 et 7 LESS)
-
-#### Art. 20
-
-**Application**
-
-<sup>1</sup> La direction de chaque école (ci-après: la direction) et les professeurs veillent à promouvoir la connaissance des deux langues officielles du canton et l'intérêt pour la culture de chaque partie linguistique du canton.
-
-<sup>2</sup> Dans les écoles qui comprennent deux sections linguistiques, la direction et les professeurs favorisent les échanges linguistiques et culturels, notamment par des cours communs, la mise à disposition de lieux de rencontre ainsi que l'organisation de manifestations artistiques et sportives communes.
-
-## 2 Fonctionnement général de l'école
-
-### 2.1 Année scolaire (art. 18 LESS)
-
-#### Art. 21
 
 **Calendrier scolaire**
 
 <sup>1</sup> Le calendrier scolaire fixe les dates du début et de la fin de l'année scolaire, les périodes de vacances scolaires et éventuellement certaines manifestations particulières.
 
-<sup>2</sup> La DICS veille à coordonner le calendrier scolaire du degré secondaire supérieur avec ceux des autres degrés d'enseignement compte tenu des dispositions légales ou réglementaires spécifiques.
+<sup>2</sup> La DICS veille à coordonner le calendrier scolaire du degré secondaire supérieur avec ceux des autres degrés de formation, compte tenu des dispositions légales ou réglementaires spécifiques.
 
-#### Art. 22
+#### Art. 10
 
-**Nombre et durée des leçons**
+**Nombre et durée des cours**
 
-<sup>1</sup> La DICS fixe le nombre des leçons hebdomadaires de chaque voie d'études ou de formation dans le cadre des plans d'études.
+<sup>1</sup> La DICS fixe le nombre de cours hebdomadaires de chaque voie de formation en fonction de son plan d'études.
 
-<sup>2</sup> La durée d'une leçon est de cinquante minutes, y compris le temps de déplacement, sous réserve de dérogations autorisées par la DICS.
+<sup>2</sup> La durée d'un cours est de cinquante minutes, y compris le temps de déplacement, sous réserve de dérogations autorisées par la DICS.
 
-#### Art. 23
+#### Art. 11
 
 **Autres formes d'enseignement**
 
-<sup>1</sup> Les plans d'études et le calendrier scolaire fixent en outre le nombre et la durée des stages de formation, les semaines d'études et les camps de sport selon les exigences propres aux différentes voies de formation.
+<sup>1</sup> Le conseil de direction peut prévoir un enseignement sous forme notamment d'activités ou projets thématiques, culturels et sportifs ou de voyages d'études. Ces activités doivent poursuivre des objectifs en lien avec les plans d'études.
 
-### 2.2 Congés spéciaux et absences imprévues (art. 19 LESS)
+<sup>2</sup> Les conditions d'encadrement et de sécurité des élèves ainsi que l'aspect de la durabilité font l'objet d'une attention particulière.
 
-#### Art. 24
+<sup>3</sup> Les parents d'élèves mineurs sont informés des activités hors du temps scolaire.
 
-**Congé octroyé à une classe**
+<sup>4</sup> Sauf dispense individuelle accordée par le directeur ou la directrice pour des motifs justifiés, tous les élèves y participent.
 
-<sup>1</sup> Le directeur peut octroyer à une classe un congé d'un jour au maximum lorsque des circonstances exceptionnelles et imprévues le justifient.
+### 3.2 Congés et absences imprévues (art. 16 LESS)
 
-<sup>2</sup> L'octroi d'un congé à une classe pour toute autre raison ou pour une durée supérieure à un jour, de même que l'octroi d'un congé à toute une école ou à plusieurs écoles relèvent de la compétence de la DICS, sur la proposition du directeur.
+#### Art. 12
 
-#### Art. 25
+**Congé octroyé à une classe ou à une école**
 
-**Dispenses et congés octroyés à un élève**
+<sup>1</sup> Le directeur ou la directrice peut octroyer à une classe un congé de un jour au maximum par année scolaire lorsque des circonstances exceptionnelles et imprévues le justifient.
 
-<sup>1</sup> Le directeur peut déroger à l'obligation des élèves de fréquenter les cours du plan d'études soit par des dispenses de cours, soit par des congés, pour autant que ces dérogations ne nuisent pas à la formation de l'élève.
+<sup>2</sup> L'octroi d'un congé à une classe pour toute autre raison ou pour une durée supérieure à un jour, de même que l'octroi d'un congé à toute une école ou à plusieurs écoles, relève de la compétence de la DICS, sur la proposition du directeur ou de la directrice.
 
-<sup>2</sup> Le directeur est compétent pour accorder à un élève jusqu'à quinze jours de congé par année scolaire; au delà, l'octroi du congé relève de la compétence de la DICS.
+<sup>3</sup> Une journée ou deux demi-journées de formation pédagogique par année scolaire réunissant l'ensemble du corps enseignant peuvent être organisées sur le temps scolaire par le directeur ou la directrice. Les élèves sont mis en congé. Le directeur ou la directrice soumet à la DICS, pour approbation, les dates retenues et le contenu de la formation. Les jours de formation supplémentaires organisés par l'école ont lieu hors du temps scolaire.
 
-<sup>3</sup> La demande motivée de dispense ou de congé est présentée à l'avance par écrit, signée par les parents ou par l'élève lui-même s'il est majeur.
+#### Art. 13
 
-#### Art. 26
+**Congé octroyé à un ou une élève**
 
-**Absences imprévues – En général**
+<sup>1</sup> Un congé peut être octroyé à un ou une élève pour des motifs justifiés. Seuls sont pris en considération les motifs dûment attestés pouvant exceptionnellement l'emporter sur l'obligation de fréquenter tous les cours.
 
-<sup>1</sup> En cas d'absence imprévue d'un élève, notamment en cas de maladie ou d'accident, les parents ou l'élève en avisent immédiatement la direction de l'école selon les modalités prévues dans le règlement interne, en indiquant le motif de l'absence.
+<sup>2</sup> La demande de congé est présentée par écrit suffisamment à l'avance à l'autorité compétente. Elle est motivée, le cas échéant avec une pièce justificative, et signée par les parents ou l'élève majeur‑e.
 
-<sup>2</sup> Le professeur de branche ou le professeur de classe avise sans délai la direction lorsqu'il constate une absence non annoncée.
+<sup>3</sup> Sont compétents pour accorder un congé à l'élève, dans les limites prévues par le règlement d'école:
 
-<sup>3</sup> Dans ce cas, la direction prend contact aussitôt avec l'élève ou les parents pour connaître les causes de l'absence.
+- a) jusqu'à un jour par demande de congé, l'enseignant ou l'enseignante titulaire de classe;
+- b) jusqu'à trois jours par demande de congé, le ou la proviseur‑e;
+- c) jusqu'à vingt jours par année scolaire, le directeur ou la directrice.
 
-#### Art. 27
+<sup>4</sup> La décision est communiquée par écrit aux parents ou à l'élève majeur‑e ainsi qu'aux enseignants et enseignantes concernés.
 
-**Absences imprévues – Justification écrite**
+#### Art. 14
 
-<sup>1</sup> La direction de l'école peut demander une justification écrite.
+**Congé de longue durée pour un ou une élève**
 
-<sup>2</sup> L'absence pour maladie ou accident doit être justifiée par les parents ou par l'élève majeur au moyen d'un certificat médical dès qu'elle dépasse cinq jours de classe.
+<sup>1</sup> L'élève qui désire interrompre sa formation avec l'intention de la reprendre ultérieurement peut demander un congé de longue durée pour des motifs justifiés. Le directeur ou la directrice octroie le congé de longue durée, sur le préavis du ou de la proviseur‑e concerné‑e.
 
-#### Art. 28
+<sup>2</sup> Le congé de longue durée est accordé en principe jusqu'à la fin de l'année scolaire. La durée totale du congé ne doit pas excéder deux ans.
+
+<sup>3</sup> L'octroi d'un congé de longue durée a comme effet que l'année de formation n'est pas validée mais reste sans conséquences sur les possibilités de répétition.
+
+#### Art. 15
+
+**Absences – Contrôle**
+
+<sup>1</sup> Les enseignants et enseignantes contrôlent les absences des élèves et les enregistrent selon les modalités générales fixées par la conférence des directeurs et directrices des écoles du degré secondaire supérieur (ci-après: la conférence des directeurs et directrices).
+
+#### Art. 16
+
+**Absences – Absences imprévues**
+
+<sup>1</sup> En cas d'absence imprévue d'un ou d'une élève, notamment en cas de maladie ou d'accident, les parents ou l'élève majeur‑e en avisent l'école selon les modalités prévues dans le règlement d'école, en indiquant le motif de l'absence.
+
+#### Art. 17
+
+**Absences – Justification écrite**
+
+<sup>1</sup> L'absence pour maladie ou accident doit être justifiée par les parents ou par l'élève majeur‑e au moyen d'un certificat médical dès le quatrième jour d'absence, week-end et jours fériés non compris, ou en cas d'absences répétées.
+
+<sup>2</sup> La demande de dispense d'un cours particulier ou d'une activité scolaire motivée par des raisons de santé doit être accompagnée d'un certificat médical.
+
+<sup>3</sup> D'autres justifications écrites peuvent être exigées lors d'absences dues à d'autres motifs.
+
+#### Art. 18
 
 **Obligation de rattrapage**
 
-<sup>1</sup> L'élève doit prendre les dispositions utiles en accord avec les professeurs concernés pour combler les lacunes occasionnées par des absences.
+<sup>1</sup> L'élève doit prendre les dispositions utiles pour combler les lacunes occasionnées par ses absences en s'informant auprès des enseignants et enseignantes concernés. Il ou elle rattrape la matière et, en principe, toutes les évaluations manquées, sous réserve de l'article 78.
 
-### 2.3 Plan des études (art. 20 LESS)
+#### Art. 19
 
-#### Art. 29
+**Absences répétées**
+
+<sup>1</sup> Lorsque les absences d'un ou d'une élève sont si nombreuses ou si longues qu'un suivi régulier des cours fait défaut, le directeur ou la directrice peut, après avoir pris l'avis du conseil de direction et des enseignants et enseignantes de la classe, décider de lui refuser la promotion.
+
+<sup>2</sup> Aux même conditions que l'alinéa 1, le bureau des examens peut refuser l'admission aux examens finals.
+
+<sup>3</sup> Ne sont pas prises en considération les absences en vertu de l'article 54.
+
+<sup>4</sup> La conférence des directeurs et directrices peut fixer un taux de présence minimal.
+
+### 3.3 Plan d'études (art. 17 LESS)
+
+#### Art. 20
 
 **Contenu**
 
-<sup>1</sup> Pour chaque voie d'études ou de formation, la DICS adopte un plan des études dont le projet est établi par les écoles. Ce plan précise notamment:
+<sup>1</sup> Pour chaque voie de formation, la DICS adopte un plan d'études cantonal sur la recommandation de la conférence des directeurs et directrices et sur celles des conférences de branche. Ce plan précise notamment:
 
-- a) les objectifs et les programmes des disciplines,
-- b) les manuels et les moyens d'enseignement officiel,
-- c) les directives en matière d'évaluation et de communication des résultats scolaires,
+- a) les objectifs et les compétences visés ainsi que les contenus à traiter,
+- b) les éventuels moyens d'enseignement officiels,
+- c) des indications méthodologiques et didactiques,
 - d) et la grille horaire.
 
-### 2.4 Effectif des classes (art. 23 LESS)
+### 3.4 Examens finals (art. 18 LESS)
 
-#### Art. 30
+#### Art. 21
 
-**Principe**
+**Conditions d'obtention des certificats**
 
-<sup>1</sup> L'effectif d'une classe du degré secondaire supérieur est de 14 élèves au minimum et de 27 élèves au maximum.
+<sup>1</sup> Pour chaque voie de formation du degré secondaire supérieur, le Conseil d'Etat fixe les normes et les conditions d'obtention des certificats suivants:
 
-#### Art. 31
+- a) certificat de maturité gymnasiale;
+- b) certificat fédéral de capacité et de maturité professionnelle dans le domaine du commerce;
+- c) certificat de culture générale et de maturité spécialisée;
+- d) certificat de l'examen complémentaire Passerelle maturité professionnelle/spécialisée – hautes écoles universitaires;
+- e) attestation de l'examen complémentaire permettant l'accès à la procédure d'admission de la HEP-PH FR.
+
+<sup>2</sup> Est réservée la réglementation relative à d'autres certificats en application de l'article 8 LESS.
+
+### 3.5 Qualité et développement de l'école (art. 20 et 21 LESS)
+
+#### Art. 22
+
+**Mesures pour le maintien et le développement de la qualité**
+
+<sup>1</sup> L'ensemble des acteurs de l'école est garant de la qualité dans le cadre de leurs droits et devoirs.
+
+<sup>2</sup> L'enseignant ou l'enseignante assure une qualité élevée de l'enseignement, tant sur le plan de la transmission des connaissances que sur ceux de la pédagogie et de la méthodologie. Il ou elle collabore de façon constructive avec le conseil de direction et les conférences de branche. Il ou elle veille à sa formation continue. Il ou elle tient notamment compte des retours de son conseil de direction, de ses élèves et de ses collègues.
+
+<sup>3</sup> Le conseil de direction encourage l'auto-évaluation dans l'école. Il mène les entretiens d'évaluation du personnel enseignant et garantit un regard externe.
+
+<sup>4</sup> La conférence des directeurs et directrices garantit la qualité de la formation en favorisant des échanges réguliers à l'intérieur des écoles, entre écoles du degré secondaire supérieur, avec les instituts de formation œuvrant en amont et en aval ainsi que grâce à la participation aux travaux de divers groupes nationaux.
+
+<sup>5</sup> La DICS élabore un concept de maintien et de développement de la qualité et met en place un dispositif d'évaluation à l'aide d'indicateurs quantitatifs et qualitatifs permettant l'observation, l'analyse et le pilotage de la formation.
+
+#### Art. 23
+
+**Projets pédagogiques (art. 21 LESS)**
+
+<sup>1</sup> Est considéré comme projet pédagogique un projet dont les buts sont en adéquation avec les objectifs des plans d'études et qui concourt à les faire atteindre ou qui sert au développement de l'école sur le plan organisationnel, pédagogique, didactique ou éducatif. Le projet peut concerner un groupe d'élèves, une école ou plusieurs écoles.
+
+<sup>2</sup> Le projet est soumis au directeur ou à la directrice, avec l'indication des objectifs, des intervenants et intervenantes, des moyens nécessaires, de la durée, des effets attendus, des modalités d'évaluation et de communication. Le projet est mis en œuvre après l'autorisation délivrée par le directeur ou la directrice.
+
+<sup>3</sup> La commission d'école est informée des projets importants mis en œuvre.
+
+### 3.6 Effectif des classes (art. 23 LESS)
+
+#### Art. 24
+
+**Principes**
+
+<sup>1</sup> L'effectif moyen visé de l'ensemble des classes d'une école est de 22 élèves.
+
+<sup>2</sup> L'effectif d'une classe du degré secondaire supérieur est de 14 élèves au minimum et de 27 élèves au maximum.
+
+<sup>3</sup> Chaque élève au bénéfice d'une mesure AI compte pour trois élèves dans sa classe.
+
+#### Art. 25
 
 **Dérogations**
 
@@ -283,141 +308,370 @@ Arrête:
 
 <sup>2</sup> En outre, il peut être dérogé à la limite minimale des effectifs des classes, sous réserve d'effectifs encore acceptables:
 
-- a) lorsque la classe concernée est, pour son degré, la seule disponible dans sa voie d'études ou de formation;
-- b) lorsque la classe concernée est une classe du dernier degré et pour autant que sa composition doive être la même que celle de l'année précédente en raison de l'organisation des études et des examens finals.
+- a) lorsqu'il s'agit de garantir une offre de formation équivalente pour les deux communautés linguistiques du canton;
+- b) lorsque la classe concernée est, pour son degré, la seule disponible dans sa voie de formation;
+- c) lorsque la classe concernée est une classe du dernier degré et si sa composition doit être la même que celle de l'année précédente en raison de l'organisation des études et des examens finals.
 
-#### Art. 32
+#### Art. 26
 
-**Division ou réunion de classes pour certains cours**
+**Cours à option, cours spécifiques et cours facultatifs**
 
-<sup>1</sup> Une classe à effectif élevé peut être divisée ou deux classes à effectif restreint peuvent être réunies pour certains cours, la composition initiale de ces classes étant toutefois maintenue.
+<sup>1</sup> L'effectif des cours à option, des cours spécifiques et des cours facultatifs est de 12 élèves par cours au minimum, l'effectif moyen de l'ensemble de ces cours dans l'école devant être de 16 élèves.
 
-#### Art. 33
+<sup>2</sup> L'effectif des cours à option spécifiques et complémentaires est de 12 élèves par cours au minimum, l'effectif moyen de l'ensemble de ces cours dans les gymnases devant être de 17 élèves.
 
-**Cours à option, cours facultatifs et cours spécifiques**
+<sup>3</sup> Les cours doivent être organisés de façon rationnelle, selon les objectifs fixés par la DICS. Chaque fois que cela est possible, ils sont groupés à l'intérieur d'un établissement ou entre établissements.
 
-<sup>1</sup> L'effectif des cours à option, des cours facultatifs et des cours spécifiques est de 12 élèves par cours au minimum, l'effectif moyen de l'ensemble de ces cours dans l'école devant être de 16 élèves.
+<sup>4</sup> Toutefois, l'effectif minimal de ces cours peut être abaissé lorsque la voie de formation l'impose, notamment lorsqu'il s'agit d'un cours obligatoire prévu par les dispositions du droit supérieur concernant les certificats. Dans ce cas, le nombre de leçons hebdomadaires prévu à la grille horaire doit être réduit en conséquence.
 
-<sup>2</sup> L'effectif des cours à option spécifiques et complémentaires, selon le RRM-95, est de 12 élèves par cours au minimum, l'effectif moyen de l'ensemble de ces cours dans les gymnases devant être de 16 élèves.
+<sup>5</sup> Il peut être dérogé à l'effectif moyen des cours à option spécifiques et complémentaires lorsqu'il s'agit de garantir une offre de formation équivalente pour les deux communautés linguistiques du canton.
 
-<sup>3</sup> Les cours doivent être organisés de façon rationnelle. Chaque fois que cela est possible, ils seront regroupés à l'intérieur d'un établissement ou entre établissements.
+#### Art. 27
 
-<sup>4</sup> Toutefois, l'effectif minimal de ces cours peut être abaissé lorsque la voie d'études l'impose, notamment lorsqu'il s'agit d'un cours obligatoire prévu par les dispositions de la réglementation concernant les certificats de maturité ou de la législation fédérale sur la formation professionnelle. Dans ce cas, le nombre de leçons hebdomadaires prévu à la grille-horaire doit être réduit en conséquence.
+**Compétences**
 
-#### Art. 34
-
-**Compétence**
-
-<sup>1</sup> La DICS décide, en juin pour l'année scolaire suivante, de la création, de la réunion, de la division, de la suppression ou du maintien de classes, sur le préavis du directeur adressé à la DICS jusqu'au 31 mai, sous réserve d'une prolongation de délai liée à des circonstances particulières.
+<sup>1</sup> La DICS décide, à la fin mai pour l'année scolaire suivante, de la création, de la suppression ou du maintien de classes, sur le préavis du directeur ou de la directrice adressé à la DICS jusqu'au 15 mai, sous réserve d'une prolongation de délai liée à des circonstances particulières.
 
 <sup>2</sup> En cas de variations importantes, le nombre et la composition des classes peuvent être modifiés avant la rentrée scolaire, le cas échéant en cours d'année scolaire.
 
-<sup>3</sup> Le directeur décide de l'organisation des cours à option et des cours facultatifs, les dérogations à l'effectif minimal étant toutefois soumises à l'accord préalable de la DICS.
+<sup>3</sup> Le directeur ou la directrice décide de l'organisation des cours à option et des cours facultatifs, les dérogations à l'effectif minimal étant toutefois soumises à l'accord préalable de la DICS.
 
-### 2.5 Examens finals (art. 27 LESS)
+### 3.7 Règles de fonctionnement général
 
-#### Art. 35
+#### Art. 28
 
-**Conditions d'obtention des diplômes**
+**Règlement d'école (art. 27 LESS)**
 
-<sup>1</sup> Pour chaque voie d'études ou de formation du degré secondaire supérieur, le Conseil d'Etat édicte un règlement fixant les normes et les conditions d'obtention des diplômes et certificats suivants:
+<sup>1</sup> Le directeur ou la directrice édicte, en collaboration avec le corps enseignant, un règlement d'école qui définit le fonctionnement de l'école et les règles de vie à respecter.
 
-- a) certificat de maturité gymnasiale;
-- b) diplômes d'enseignement;
-- c) certificat de culture générale;
-- d) diplôme d'études commerciales;
-- e) maturité professionnelle commerciale.
+<sup>2</sup> Le règlement est soumis pour préavis à la commission d'école, aux associations de parents et au conseil des élèves.
 
-<sup>2</sup> Est réservée la réglementation relative à d'autres diplômes en application des articles 8, 13 et 16 LESS.
+<sup>3</sup> Le règlement est publié sur le site Internet de l'école.
 
-### 2.6 Utilisation des locaux scolaires par des tiers (art. 28 LESS)
+<sup>4</sup> Les élèves, l'ensemble du personnel de l'école, de même que les autres intervenants et intervenantes, y sont soumis.
 
-#### Art. 36
+<sup>5</sup> Les enseignants et enseignantes veillent au respect du règlement d'école dans leur classe et dans le cadre de l'école. Leur autorité s'exerce sur tous les élèves de l'école.
+
+#### Art. 29
+
+**Intervention de tiers auprès des élèves**
+
+<sup>1</sup> Hormis le personnel de l'école et les étudiants et étudiantes en stage, les intervenants et intervenantes appelés à délivrer des prestations ponctuelles aux élèves doivent obtenir l'accord préalable du directeur ou de la directrice qui s'assure de la pertinence de leurs interventions.
+
+<sup>2</sup> L'intervention doit entrer dans le cadre des finalités et des buts de la formation.
+
+<sup>3</sup> En cas de doute sur l'opportunité ou la qualité d'une intervention, ou en cas d'interventions régulières, le directeur ou la directrice transmet la demande au Service de l'enseignement secondaire du deuxième degré (ci-après: le Service).
+
+<sup>4</sup> La procédure d'agrément prévue à l'article 8 du règlement du 14 juin 2004 concernant la promotion de la santé et la prévention est réservée.
+
+#### Art. 30
+
+**Collaboration avec le secteur privé**
+
+<sup>1</sup> Des activités ou des projets particuliers peuvent être soutenus par des tiers, à la condition que ce soutien n'affecte pas l'image de l'école ni ne porte atteinte à ses finalités et ses buts.
+
+<sup>2</sup> La DICS règle la collecte de fonds, le parrainage et d'autres formes de collaboration avec le secteur privé.
+
+#### Art. 31
+
+**Mesures de sécurité**
+
+<sup>1</sup> En cas d'urgence, les élèves et le personnel de l'école doivent pouvoir réagir de manière adéquate. A cet effet, le directeur ou la directrice établit une procédure qui assure la sécurité des élèves et du personnel de l'établissement.
+
+### 3.8 Utilisation des locaux scolaires par des tiers (art. 26 LESS)
+
+#### Art. 32
 
 **Principes**
 
-<sup>1</sup> Les locaux, les installations et les équipements scolaires sont destinés en priorité à l'enseignement.
+<sup>1</sup> Les locaux, les installations et les équipements scolaires sont réservés durant le temps scolaire aux élèves, au personnel de l'école et aux autres personnes dûment légitimées.
 
-<sup>2</sup> Ils peuvent être mis à la disposition de tiers dans le cadre d'activités culturelles, sportives, associatives, voire privées, dans la mesure où il n'en résulte aucune perturbation pour l'école.
+<sup>2</sup> Le directeur ou la directrice peut interdire, sous peine de plainte pénale, l'accès au périmètre scolaire à toute personne qui perturbe l'enseignement ou le bon fonctionnement de l'école (art. 83 LESS).
 
-#### Art. 37
+<sup>3</sup> Les locaux scolaires peuvent être mis à la disposition de tiers dans le cadre d'activités culturelles, sportives, associatives, voire privées, dans la mesure où il n'en résulte aucune perturbation pour l'école.
+
+#### Art. 33
 
 **Conditions d'octroi de l'autorisation**
 
-<sup>1</sup> Une autorisation est délivrée par la direction de l'école sur requête écrite si les objectifs poursuivis ne contreviennent pas aux buts de l'école et si les responsabilités des tiers utilisateurs sont clairement définies.
+<sup>1</sup> Une autorisation est délivrée par le directeur ou la directrice sur requête écrite si les objectifs poursuivis ne contreviennent pas aux buts de l'école et si les responsabilités des tiers utilisateurs sont clairement définies.
 
-<sup>2</sup> Des conventions particulières, notamment lorsque les locaux sont utilisés régulièrement, peuvent être conclues entre les directions des écoles et des tiers. Elles sont soumises à l'approbation de la DICS.
+<sup>2</sup> Des conventions particulières, notamment lorsque les locaux sont utilisés régulièrement, peuvent être conclues entre le directeur ou la directrice et des tiers. Elles sont soumises à l'approbation de la DICS.
 
-#### Art. 38
+#### Art. 34
 
 **Taxe d'utilisation**
 
-<sup>1</sup> Toute utilisation de locaux scolaires fait l'objet d'une taxe indexée annuellement et perçue par la direction de l'école.
+<sup>1</sup> Toute utilisation de locaux scolaires fait l'objet d'une taxe indexée annuellement et perçue par l'école. Sont réservées les dispositions prévues par la législation spéciale.
+
+#### Art. 35
+
+**Barèmes et règles**
+
+<sup>1</sup> La DICS est chargée d'édicter le barème des taxes et les règles d'utilisation des locaux scolaires par des tiers, de concert avec le Service des bâtiments.
+
+## 4 Parents (art. 28 à 30 LESS)
+
+#### Art. 36
+
+**Information des parents – Principes**
+
+<sup>1</sup> Les parents d'élèves mineurs et majeurs sont régulièrement informés du parcours scolaire de leur enfant au travers du bulletin scolaire ou, le cas échéant, d'entretiens individuels.
+
+<sup>2</sup> Les parents sont également informés du déroulement de la formation au travers de séances d'information ou d'autres moyens.
+
+#### Art. 37
+
+**Information des parents – Exceptions**
+
+<sup>1</sup> Dès sa majorité, toutes les communications sont transmises à l'élève. La déclaration écrite de l'élève majeur‑e selon laquelle il ou elle s'oppose à l'information directe des parents peut être adressée au directeur ou à la directrice en tout temps et sans indication de motifs.
+
+<sup>2</sup> Dans ce cas, l'école en informe les parents.
+
+<sup>3</sup> Les dispositions de l'article 36 ne s'appliquent pas aux parents d'élèves majeurs suivant une voie de formation complémentaire au sens de l'article 13 LESS.
+
+#### Art. 38
+
+**Collaboration entre l'école et les parents d'élèves mineurs (art. 29 LESS)**
+
+<sup>1</sup> Les parents d'élèves mineurs encouragent et soutiennent leur enfant dans ses apprentissages en créant un environnement propice au travail scolaire et en veillant à ce que ses occupations en dehors de l'école ne nuisent pas à son travail scolaire.
+
+<sup>2</sup> Ils assistent aux séances d'information et aux entretiens individuels organisés par l'école.
+
+<sup>3</sup> En cas de difficulté de collaboration, le directeur ou la directrice ainsi que les parents peuvent exiger un entretien.
 
 #### Art. 39
 
-**Barèmes et directives**
+**Associations de parents**
 
-<sup>1</sup> La DICS est chargée d'édicter le barème des taxes et des directives en matière d'utilisation des locaux scolaires par des tiers, de concert avec le Service des bâtiments.
+<sup>1</sup> Les conseils de direction entretiennent des relations régulières avec les associations de parents concernant notamment la marche générale de l'école.
 
-## 3 Associations de parents (art. 31 LESS)
+## 5 Elèves
+
+### 5.1 Admission (art. 31-35 LESS)
 
 #### Art. 40
 
-<sup>1</sup> Les directions des écoles entretiennent des relations régulières avec les associations de parents, notamment en ce qui concerne les programmes d'études, les problèmes d'accueil des élèves et l'éducation à la santé.
+**Modalités d'admission**
 
-## 4 Elèves
+<sup>1</sup> Selon les études antérieures de l'élève et la voie de formation envisagée, les modalités d'admission se fondent:
 
-### 4.1 Admission (art. 32 et 33 LESS)
+- a) soit sur les seuls résultats obtenus dans l'établissement de formation précédent,
+- b) soit sur les résultats obtenus dans l'établissement de formation précédent et sur ceux qui ont été obtenus lors d'un examen d'admission,
+- c) soit sur les seuls résultats de l'examen d'admission,
+- d) et, selon les cas, sur une appréciation complémentaire circonstanciée délivrée par l'établissement de formation précédent.
 
 #### Art. 41
 
-**Connaissances et aptitudes**
+**Limite d'âge (art. 31 al. 3 LESS)**
 
-<sup>1</sup> Selon les études antérieures de l'élève et la voie d'études ou de formation envisagée, la détermination des connaissances et aptitudes se fonde:
-
-- a) soit sur la seule promotion obtenue au cycle d'orientation,
-- b) soit sur les résultats obtenus au cycle d'orientation et sur ceux qui ont été obtenus lors d'un examen d'admission,
-- c) soit sur les seuls résultats de l'examen d'admission,
-- d) et, selon les cas, sur une appréciation complémentaire circonstanciée délivrée par l'établissement de formation précédent.
+<sup>1</sup> A l'exception des voies de formation complémentaire au sens de l'article 13 LESS, un ou une élève ne peut, en principe, avoir plus de quatre années de retard sur l'âge habituel des élèves de sa volée.
 
 #### Art. 42
 
 **Conditions et modalités d'admission et de passage**
 
-<sup>1</sup> La DICS édicte des dispositions particulières concernant les conditions et les modalités d'admission dans les différentes écoles du degré secondaire supérieur et de passage entre les voies d'études ou de formation de ces écoles.
+<sup>1</sup> La DICS édicte des dispositions concernant les conditions et les modalités d'admission dans les différentes filières du degré secondaire supérieur et de passage entre les voies de formation de ces écoles.
 
 <sup>2</sup> Les élèves provenant d'écoles publiques d'autres cantons peuvent être admis s'ils remplissent les conditions de passage dans les classes analogues de leur canton, sous réserve de rattrapages éventuels.
 
-<sup>3</sup> L'admission d'élèves provenant d'écoles privées est soumise à la condition prévue à l'article 41 let. c du présent règlement, sous réserve de convention particulière.
+<sup>3</sup> L'admission d'élèves provenant d'écoles privées est soumise à la condition prévue à l'article 40 al. 1 let. c du présent règlement, sous réserve de convention particulière.
 
-<sup>4</sup> L'admission d'élèves dont les parents ne sont pas domiciliés dans le canton ne peut être prononcée que si elle ne provoque pas l'ouverture d'une classe, sous réserve de convention particulière.
-
-### 4.2 Participation à la vie de l'école (art. 34 LESS)
+<sup>4</sup> L'admission d'élèves dont les parents ne sont pas domiciliés dans le canton ne peut être prononcée que si elle ne provoque pas l'ouverture d'une classe, sous réserve de convention intercantonale particulière.
 
 #### Art. 43
 
-**Information et consultation (art. 34 al. 1 LESS)**
+**Elèves hôtes**
 
-<sup>1</sup> La direction de l'école prend toutes les mesures utiles susceptibles d'intéresser les élèves à la vie de l'école, à l'organisation des études, aux activités culturelles, artistiques et sportives.
+<sup>1</sup> Dans la mesure où les places disponibles le permettent, des élèves peuvent être admis, notamment dans le cadre d'échanges linguistiques, dans une école du degré secondaire supérieur à titre d'élèves hôtes pour une période maximale de deux semestres.
 
-<sup>2</sup> Elle informe les élèves, au niveau de l'école, de la section ou de la classe, notamment sur les objectifs généraux des voies d'études ou de formation, sur les horaires des cours, sur l'organisation interne de l'établissement, sur les activités scolaires et les manifestations organisées dans le cadre de l'enseignement.
+<sup>2</sup> L'élève hôte reçoit une attestation de fréquentation des cours. Les accords particuliers avec d'autres institutions de formation restent réservés.
 
-<sup>3</sup> Si les circonstances ou l'objet le justifient, la direction de l'école procède à une consultation des élèves.
+<sup>3</sup> L'élève hôte est soumis‑e aux mêmes règles de discipline que les élèves ordinaires. Le directeur ou la directrice peut, après avoir pris l'avis de l'enseignant ou de l'enseignante titulaire de classe et du ou de la proviseur‑e concerné‑e, l'exclure en tout temps si sa conduite, sa participation ou son travail ne donnent pas satisfaction.
 
 #### Art. 44
 
-**Demandes et propositions**
+**Décisions**
 
-<sup>1</sup> La direction de l'école est attentive aux requêtes, suggestions et propositions formulées par les élèves. Elle les examine, en discute avec les intéressés et, s'il y a lieu, les informe de la suite donnée.
+<sup>1</sup> La compétence de décision concernant l'admission est réglée dans les règlements des différentes voies de formation.
 
-### 4.3 Evaluation du travail scolaire (art. 36 LESS)
+<sup>2</sup> L'admission d'élèves hôtes relève de la compétence du directeur ou de la directrice.
+
+### 5.2 Lieu de formation
 
 #### Art. 45
 
+**Répartition des élèves**
+
+<sup>1</sup> Les élèves admis sont répartis de la manière suivante entre les écoles cantonales:
+
+- a) les élèves de la partie sud du canton fréquentent en principe le Collège du Sud;
+- b) les élèves de l'aire de recrutement du Gymnase intercantonal de la Broye, définie par la convention intercantonale y relative, fréquentent cet établissement;
+- c) les autres élèves sont répartis entre les Collèges Saint-Michel, Sainte-Croix, de Gambach ou l'Ecole de culture générale de Fribourg.
+
+<sup>2</sup> La répartition globale des élèves entre les écoles est décidée chaque année par la conférence des directeurs et directrices. Elle est soumise à l'approbation de la DICS.
+
+<sup>3</sup> Lors de la répartition des élèves entre les écoles de la ville de Fribourg, il est tenu compte non seulement du souhait de l'élève mais aussi notamment:
+
+- a) du partage entre les écoles des classes francophones, alémaniques et bilingues et des élèves admis au programme «sports-arts-formation» selon la législation sur le sport;
+- b) de l'équilibre des sexes;
+- c) de la capacité d'accueil de chaque école.
+
+<sup>4</sup> L'article 54 ainsi que des motifs de santé dûment attestés sont réservés.
+
+#### Art. 46
+
+**Fréquentation d'une école hors du canton (art. 69 LESS)**
+
+<sup>1</sup> Conformément aux conventions intercantonales, la DICS peut, pour de justes motifs, autoriser la fréquentation d'une école située dans un autre canton et émettre une garantie de prise en charge pour les contributions aux écolages demandées.
+
+### 5.3 Droits et obligations des élèves (art. 36 et 37 LESS)
+
+#### Art. 47
+
+**Conseil des élèves**
+
+<sup>1</sup> Le conseil de direction soutient la création et le bon fonctionnement d'un conseil des élèves en lui offrant des conditions favorables.
+
+#### Art. 48
+
+**Information et consultation (art. 36 al. 3 LESS)**
+
+<sup>1</sup> Le conseil de direction prend toutes les mesures utiles susceptibles d'intéresser les élèves à la vie de l'école, à l'organisation des études, aux activités culturelles, artistiques et sportives.
+
+<sup>2</sup> Il informe les élèves, au niveau de l'école, de la section ou de la classe, notamment sur les objectifs généraux des voies de formation, sur les horaires des cours, sur l'organisation interne de l'école, sur les activités scolaires et les manifestations organisées dans le cadre de l'enseignement.
+
+<sup>3</sup> Si les circonstances ou l'objet le justifient, le conseil de direction procède à une consultation des élèves ou du conseil des élèves.
+
+#### Art. 49
+
+**Demandes et propositions**
+
+<sup>1</sup> Le conseil de direction prête attention aux requêtes, suggestions et propositions formulées par les élèves ou le conseil des élèves. Il les examine, en discute avec les intéressé‑e‑s et, s'il y a lieu, les informe de la suite donnée.
+
+#### Art. 50
+
+**Obligations (art. 37 LESS)**
+
+<sup>1</sup> Les élèves fréquentent l'école aux horaires établis.
+
+<sup>2</sup> Ils font preuve de soin, de ponctualité, d'attention et de régularité dans le travail et prennent une part active à la vie de l'établissement.
+
+<sup>3</sup> Ils contribuent au bon climat de l'école et de la classe et s'engagent à adopter un comportement respectueux envers les personnes et l'environnement.
+
+<sup>4</sup> Ils prennent soin du matériel, du mobilier et des locaux mis à leur disposition. Ils sont responsables de leurs objets et effets personnels en cas de vol, dommage ou perte.
+
+#### Art. 51
+
+**Interdictions**
+
+<sup>1</sup> A l'école, il est notamment interdit aux élèves de:
+
+- a) détenir, consommer, vendre ou distribuer des stupéfiants ou des substances illicites;
+- b) consommer de l'alcool;
+- c) détenir, utiliser, vendre ou distribuer des objets ou des substances qui présentent un danger.
+
+<sup>2</sup> L'utilisation d'appareils électroniques à des fins privées est interdite durant les cours. Leur utilisation à des fins pédagogiques est précisée dans le règlement d'école.
+
+### 5.4 Mesures d'encouragement et de soutien (art. 38 LESS)
+
+#### Art. 52
+
+**Bénéficiaires et procédure d'octroi**
+
+<sup>1</sup> Les mesures d'encouragement s'adressent à l'élève ayant des aptitudes exceptionnelles ou obtenant des résultats scolaires largement en dessus des moyennes des élèves de sa volée ainsi qu'à l'élève admis‑e au programme «sports-arts-formation» selon la législation sur le sport.
+
+<sup>2</sup> Les mesures de soutien s'adressent à l'élève en situation de handicap ou de trouble fonctionnel attesté par un ou une spécialiste agréé‑e par la DICS ainsi qu'à l'élève primo-arrivant‑e allophone.
+
+<sup>3</sup> Le directeur ou la directrice décide, à la demande des parents ou de l'élève majeur‑e, des mesures d'encouragement et de soutien et les met en œuvre.
+
+<sup>4</sup> La DICS fixe des dispositions en la matière.
+
+#### Art. 53
+
+**Mesures pour l'élève ayant des aptitudes exceptionnelles**
+
+<sup>1</sup> Les mesures d'encouragement pour l'élève ayant des aptitudes exceptionnelles ou obtenant des résultats scolaires largement en dessus des moyennes peuvent notamment prendre les formes suivantes:
+
+- a) la différenciation de l'enseignement au sein de la classe;
+- b) l'offre de cours, de travaux ou de projets supplémentaires au sein de l'école ou dans une autre école du canton;
+- c) l'accélération de la formation;
+- d) l'autorisation de participer, durant deux demi-jours par semaine au maximum, à un programme d'enseignement spécial extérieur admis par la DICS.
+
+<sup>2</sup> Ces mesures ne doivent pas nuire au déroulement de la formation de l'élève, ni perturber le fonctionnement de l'école.
+
+<sup>3</sup> En cas de baisse significative des résultats scolaires ou de comportement insatisfaisant, le conseil de direction peut supprimer, temporairement ou définitivement, la mesure après avoir entendu l'élève concerné‑e.
+
+#### Art. 54
+
+**Mesures pour les élèves admis au programme «sports-arts-formation»**
+
+<sup>1</sup> L'élève admis‑e au programme «sports-arts-formation» selon la législation sur le sport et la culture peut bénéficier:
+
+- a) d'un aménagement ou/et d'un allégement de son horaire hebdomadaire;
+- b) d'une dispense, totale ou partielle, de cours particuliers pour une période donnée ou pour l'année scolaire; au minimum 25 leçons hebdomadaires doivent toutefois être suivies;
+- c) de congés pour la préparation et la participation à des événements sportifs ou artistiques d'importance;
+- d) d'un soutien pédagogique lors d'absences liées à la pratique d'un sport ou d'un art;
+- e) d'un changement d'école afin de limiter ses déplacements vers le lieu d'entraînement ou de pratique de son sport ou de son art.
+
+<sup>2</sup> L'élève peut également étaler le programme d'une année scolaire sur deux, voire également répartir les examens finals sur deux ans.
+
+<sup>3</sup> En cas de résultats scolaires insuffisants ou de comportement insatisfaisant, le conseil de direction peut supprimer, temporairement ou définitivement, les mesures après avoir entendu les personnes concernées.
+
+#### Art. 55
+
+**Mesures de compensation des désavantages**
+
+<sup>1</sup> L'élève en situation de handicap ou de trouble fonctionnel attesté par un ou une spécialiste agréé‑e par la DICS peut bénéficier de mesures de compensation des désavantages sous forme d'aménagements spécifiques en classe et/ou de conditions particulières d'exécution d'examen, à la condition qu'il ou elle soit en mesure d'atteindre les objectifs des plans d'études.
+
+<sup>2</sup> Les mesures de compensation des désavantages doivent respecter le principe de proportionnalité et être adaptées à la formation visée.
+
+<sup>3</sup> La DICS fixe les conditions et les modalités d'octroi.
+
+#### Art. 56
+
+**Mesures pour les élèves primo-arrivants allophones**
+
+<sup>1</sup> L'élève primo-arrivant‑e allophone, possédant des connaissances limitées dans la première et/ou la deuxième langue, peut bénéficier d'une procédure d'admission adaptée ainsi que d'objectifs individualisés en principe durant les deux premières années de formation.
+
+#### Art. 57
+
+**Autres mesures de soutien**
+
+<sup>1</sup> L'octroi de mesures pédago-thérapeutiques et de mesures d'aide renforcées de pédagogie spécialisée est régi par la législation spéciale.
+
+### 5.5 Evaluation du travail scolaire (art. 39 LESS)
+
+#### Art. 58
+
+**Buts de l'évaluation**
+
+<sup>1</sup> L'évaluation vise à:
+
+- a) conduire l'enseignement dans le but de permettre aux élèves de développer leurs connaissances et compétences afin d'atteindre les objectifs fixés dans les plans d'études;
+- b) vérifier les connaissances et les compétences acquises en vue de la promotion ou de l'obtention d'un certificat;
+- c) décrire la situation de l'élève dans ses apprentissages et déterminer le niveau d'atteinte des objectifs.
+
+#### Art. 59
+
+**Contenus et modalités des évaluations**
+
+<sup>1</sup> Les évaluations se réfèrent aux objectifs fixés dans les plans d'études et se fondent sur des critères explicites et communiqués aux élèves.
+
+<sup>2</sup> Les évaluations peuvent prendre des formes écrites, orales ou pratiques.
+
+<sup>3</sup> Selon le but principal d'une évaluation et le moment où elle a lieu, cette dernière peut avoir les visées suivantes:
+
+- a) l'évaluation à visée formative intégrée à l'enseignement-apprentissage, laquelle permet de repérer les éventuelles difficultés d'apprentissage;
+- b) l'évaluation à visée sommative, laquelle est critériée et permet de dresser un bilan des connaissances et des compétences acquises par l'élève à un moment donné; elle compte pour la promotion ou l'obtention du certificat.
+
+<sup>4</sup> La conférence des directeurs et directrices peut fixer les principes généraux de l'évaluation.
+
+#### Art. 60
+
 **Echelle de notation et évaluation**
 
-<sup>1</sup> Le travail scolaire des élèves est évalué par des notes selon l'échelle suivante:
+<sup>1</sup> Le travail scolaire des élèves est évalué par des notes, selon l'échelle suivante:
 
 6 = très bien
 
@@ -427,572 +681,727 @@ Arrête:
 
 3 = insuffisant
 
-2 = mal
+2 = mauvais
 
-1 = très mal
+1 = très mauvais
 
 <sup>2</sup> Les notes peuvent être fractionnées.
 
-<sup>3</sup> La DICS édicte des dispositions sur l'évaluation et sur les modalités de communication des résultats scolaires aux parents.
+<sup>3</sup> Le directeur ou la directrice édicte des dispositions sur l'évaluation au sein de son école.
 
-### 4.4 Promotion (art. 37 LESS)
+#### Art. 61
 
-#### Art. 46
+**Evaluation en commun**
 
-**Conditions et procédure**
+<sup>1</sup> L'évaluation en commun a pour but d'encourager les échanges pédagogiques et de promouvoir la comparabilité des examens au niveau des exigences.
 
-<sup>1</sup> Pour être promu d'un degré d'enseignement à un autre dans une voie d'études ou de formation, l'élève doit obtenir à la fin de l'année scolaire une note minimale de 4 en moyenne générale et en moyenne du groupe des branches fondamentales ou spécifiques. Les règles particulières concernant les études gymnasiales sont réservées.
+<sup>2</sup> La DICS favorise l'évaluation en commun sur la base d'un concept élaboré en collaboration avec la conférence des directeurs et directrices.
 
-<sup>2</sup> Les branches et les groupes de branches fondamentales ou spécifiques ainsi que les conditions et la procédure particulières de promotion sont déterminés dans les règlements relatifs à chaque voie d'études ou de formation. En outre, pour certaines voies de formation, des moyennes qualifiées peuvent être exigées.
+<sup>3</sup> Les écoles mettent en œuvre de manière autonome le concept, en collaboration avec les conférences de branche.
 
-<sup>3</sup> Dans la même voie d'études ou de formation, un élève ne peut répéter qu'une fois un même degré d'enseignement et il ne peut répéter deux degrés successifs. L'élève peut cependant être autorisé, conformément aux règlements des examens finals, à répéter la dernière année d'études s'il a échoué aux examens finals. Les règles particulières concernant les études gymnasiales sont réservées.
+#### Art. 62
 
-<sup>4</sup> Toutefois, le directeur peut accorder des dérogations si des circonstances exceptionnelles le justifient, notamment en cas de maladie ou d'accident.
+**Bulletin scolaire**
 
-<sup>5</sup> Lorsque l'entrée a lieu tous les deux ans, l'élève non promu se présente à un examen de promotion avant le début de l'année scolaire suivante.
+<sup>1</sup> Le bulletin scolaire est le moyen officiel de communication des résultats de l'élève.
 
-### 4.5 Santé des élèves (art. 38 LESS)
+<sup>2</sup> La DICS fixe le contenu et la forme du bulletin scolaire.
 
-#### Art. 47
+<sup>3</sup> Le bulletin scolaire est remis à l'élève deux fois par année, au terme de chaque semestre. Par leur signature, les parents d'élèves mineurs attestent avoir pris connaissance des résultats qui y sont consignés.
+
+### 5.6 Promotion et répétition (art. 40 LESS)
+
+#### Art. 63
+
+**Conditions**
+
+<sup>1</sup> Les conditions de promotion et de répétition sont déterminées dans les règlements relatifs à chaque voie de formation.
+
+<sup>2</sup> Après consultation des enseignants et enseignantes de la classe, le directeur ou la directrice décide de la promotion ou de la non-promotion.
+
+<sup>3</sup> Le directeur ou la directrice peut accorder des dérogations si des circonstances exceptionnelles le justifient, notamment en cas de maladie ou d'accident.
+
+### 5.7 Santé des élèves et prévention (art. 41 LESS)
+
+#### Art. 64
 
 **Santé physique et psychique des élèves**
 
-<sup>1</sup> Les directeurs, les proviseurs et les professeurs doivent vouer la plus grande attention à la santé physique et psychique ainsi qu'aux difficultés personnelles des élèves.
+<sup>1</sup> L'ensemble du personnel de l'école doit vouer une attention particulière à la santé physique et psychique ainsi qu'aux difficultés personnelles des élèves.
 
-<sup>2</sup> Les directeurs prennent les mesures utiles pour que soient traités dans les classes les thèmes et les problèmes relatifs à l'environnement, à la santé des élèves, à la prévention des comportements nocifs, en accord avec la DICS et en collaboration avec la Direction de la santé et des affaires sociales.
+<sup>2</sup> Au besoin, l'élève, ses parents ou les enseignants et enseignantes peuvent s'adresser à la médiation ou au service de consultation psychologique.
 
-<sup>3</sup> En accord avec la DICS, les directeurs peuvent confier un mandat particulier à un ou des professeurs dans le domaine de l'éducation à la santé.
+<sup>3</sup> Au besoin, une coordination est mise en place avec les parents ou les services de conseils.
 
-<sup>4</sup> Au besoin et avec toute la discrétion requise, le directeur informe les parents ou les services auxiliaires compétents des difficultés rencontrées par un élève.
+#### Art. 65
 
-#### Art. 48
+**Urgence médicale**
+
+<sup>1</sup> En cas de besoin, l'école prend les mesures nécessaires à une prise en charge adéquate de l'élève malade ou blessé‑e. A cet effet, elle est autorisée à amener l'élève chez le ou la médecin ou à l'hôpital ou à faire appel à l'ambulance ou aux services de sauvetage. Les parents en sont informés aussitôt. Les frais en découlant sont à la charge des élèves ou de leurs assurances.
+
+#### Art. 66
+
+**Signalement d'élèves à l'autorité de protection de l'enfant et de l'adulte**
+
+<sup>1</sup> En application de la législation en matière de protection de l'enfant et de l'adulte, les proviseur‑e‑s, le corps enseignant et le personnel des services de conseil sont tenus d'informer le directeur ou la directrice lorsqu'un ou une élève semble avoir besoin d'aide. Le directeur ou la directrice avise, si nécessaire, l'autorité de protection de l'enfant et de l'adulte.
+
+#### Art. 67
 
 **Etat des locaux scolaires**
 
-<sup>1</sup> La direction de l'école contrôle régulièrement si l'état des locaux, du mobilier et de certains matériels scolaires répond aux exigences de l'article 38 al. 2 LESS et signale toute insuffisance à la DICS.
+<sup>1</sup> Le directeur ou la directrice contrôle régulièrement si l'état des locaux, du mobilier et de certains matériels scolaires répond aux exigences de l'article 41 al. 2 LESS et signale toute insuffisance au service compétent.
 
-### 4.6 Mesures éducatives et disciplinaires (art. 40 LESS)
+### 5.8 Traitement des données personnelles des élèves (art. 43 LESS)
 
-#### Art. 49
+#### Art. 68
 
-**Mesures éducatives préalables**
+**Contenus des banques de données ou fichiers d'élèves**
 
-<sup>1</sup> Si le comportement d'un élève ne donne pas satisfaction, les professeurs et la direction de l'école prennent toutes les mesures éducatives propres à améliorer l'attitude ou le travail de l'élève concerné.
+<sup>1</sup> Peuvent être traitées, pour faciliter le pilotage du système scolaire et sa gestion administrative ainsi que pour assurer le suivi du parcours scolaire des élèves, en particulier les catégories de données personnelles suivantes:
 
-<sup>2</sup> Ces mesures doivent être adaptées aux circonstances et à la personnalité de l'élève. Elles peuvent notamment prendre la forme d'entretiens, de conseils, de réprimandes, de travaux supplémentaires ou de tâches éducatives.
+- a) l'identité complète de l'élève ainsi que celle de ses parents, y compris leur numéro AVS;
+- b) le domicile de l'élève et de ses parents;
+- c) les moyens de contacter l'élève et ses parents;
+- d) la fratrie de l'élève;
+- e) la langue maternelle de l'élève et de ses parents;
+- f) le cursus scolaire de l'élève, y compris les notes du bulletin scolaire et les certificats obtenus;
+- g) l'évaluation du travail de l'élève;
+- h) les absences et arrivées tardives de l'élève;
+- i) les congés ou dispenses octroyés ou refusés à l'élève;
+- j) les mesures éducatives liées au comportement de l'élève;
+- k) les sanctions disciplinaires prononcées à l'égard de l'élève;
+- l) les sanctions pénales ou informations concernant une enquête en cours, lorsqu'elles concernent un ou une élève dont le comportement pourrait mettre en danger les autres élèves ou le personnel de l'école ou affecter gravement le fonctionnement de l'école;
+- m) les besoins particuliers de l'élève, en particulier les mesures d'encouragement et de soutien;
+- n) des remarques concernant le suivi pédagogique de l'élève.
 
-#### Art. 50
+<sup>2</sup> D'autres données personnelles des élèves peuvent être traitées, avec l'accord de la DICS, à des fins statistiques ou de recherches scientifiques. Ces données sont rendues anonymes.
 
-**Sanctions**
+<sup>3</sup> Le catalogue des données est soumis pour ratification à l'Autorité cantonale de la transparence et de la protection des données.
+
+#### Art. 69
+
+**Responsables du traitement des données**
+
+<sup>1</sup> Le directeur ou la directrice est responsable du traitement des données.
+
+<sup>2</sup> Le personnel enseignant, le personnel administratif ainsi que le personnel des autorités scolaires cantonales peuvent traiter les données servant à l'accomplissement de leurs tâches respectives.
+
+#### Art. 70
+
+**Accès aux banques de données**
+
+<sup>1</sup> L'accès aux banques de données est strictement restreint au personnel enseignant et administratif au sens de l'article 69 al. 2, dans les limites de leurs attributions et compétences légales.
+
+<sup>2</sup> La DICS fixe les droits et les modalités d'accès.
+
+#### Art. 71
+
+**Communication systématique**
+
+<sup>1</sup> En vue de garantir la qualité et la cohérence du système éducatif fribourgeois ainsi que pour assurer son pilotage, les notes du bulletin scolaire des élèves peuvent être communiquées à la fin du premier semestre et/ou à la fin de la première année aux directions des écoles du cycle d'orientation dont ils sont issus.
+
+<sup>2</sup> Afin de faciliter l'accès aux services de formation en ligne, les données suivantes concernant les élèves, les enseignants et enseignantes ainsi que le personnel administratif peuvent être transmises à la fédération des services d'identité de l'espace suisse de formation, mandatée par la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP):
+
+- a) le prénom et le nom;
+- b) la date de naissance;
+- c) la langue d'enseignement;
+- d) le rôle ou la fonction;
+- e) l'établissement scolaire, la voie de formation et le degré;
+- f) le canton de domicile;
+- g) l'identificateur technique.
+
+<sup>3</sup> Afin de permettre l'organisation des cours interentreprises et des examens de la partie entreprise de la formation commerciale en école à plein temps, les données suivantes peuvent être transmises aux branches de formation et d'examens reconnues par le SEFRI:
+
+- a) le prénom, le nom, la date de naissance, l'adresse postale et l'adresse de courriel de l'élève attribuée par l'école;
+- b) le numéro de contrat de formation de l'élève et son numéro AVS qui sert d'identificateur technique;
+- c) les dates de début et de fin du contrat de formation de l'élève;
+- d) l'établissement scolaire, la voie de formation, le degré, la branche de formation et la langue d'enseignement de l'élève;
+- e) le prénom, le nom, l'adresse de courriel attribuée par l'école et le numéro de téléphone professionnel de l'enseignant référent ou de l'enseignante référente de l'école;
+- f) la raison sociale et l'adresse postale de l'entreprise de stage de l'élève ainsi que le prénom, le nom, le sexe, l'adresse de courriel professionnelle et le numéro de téléphone professionnel du formateur ou de la formatrice en entreprise.
+
+#### Art. 72
+
+**Communication dans un cas d'espèce**
+
+<sup>1</sup> Le directeur ou la directrice peut communiquer, dans un cas d'espèce, des données personnelles d'un ou d'une élève sans le consentement des personnes concernées, si le ou la destinataire exerce une tâche publique qui sert l'intérêt de l'élève et que les données communiquées lui soient absolument nécessaires pour l'accomplissement de sa fonction.
+
+<sup>2</sup> Sont réservés les obligations particulières de garder le secret (art. 42 LESS) ainsi que les principes régissant le traitement de données personnelles selon la législation y relative.
+
+#### Art. 73
+
+**Conservation, archivage et destruction des données**
+
+<sup>1</sup> A l'exception des données relatives à l'identité et au cursus scolaire de l'élève (art. 68 al. 1 let. a et f), qui sont conservées durant quarante ans, toutes les informations personnelles sont détruites lorsque l'élève quitte l'école.
+
+<sup>2</sup> Au plus tard à l'échéance du délai précité, les données conservées sont proposées aux Archives de l'Etat aux fins d'archivage, conformément aux règles ordinaires.
+
+<sup>3</sup> Les données sans intérêt archivistique sont détruites de façon à écarter toute possibilité de reconstitution.
+
+<sup>4</sup> Au besoin, la DICS peut émettre des directives sur l'archivage.
+
+#### Art. 74
+
+**Publication sur le web et réseau informatique des écoles**
+
+<sup>1</sup> Toute publication sur le web engage la responsabilité de l'école. Le directeur ou la directrice doit veiller au respect de la législation sur la protection des données. Sans le consentement des personnes concernées, il est, en particulier, interdit de publier des contenus visuels ou des informations permettant l'identification d'une personne dans un contenu visuel.
+
+<sup>2</sup> Les informations publiées sur Internet et les discussions sont soumises aux règles relatives à la protection de la personnalité et au droit d'auteur. Le créateur ou la créatrice est responsable de l'intégralité du contenu diffusé, y compris des commentaires laissés par les visiteurs et visiteuses.
+
+<sup>3</sup> Afin d'informer et de sensibiliser les élèves et leurs parents à l'utilisation d'Internet et aux dangers qui y sont liés, les écoles font signer une charte d'utilisation aux élèves.
+
+<sup>4</sup> En cas de non-respect, l'élève s'expose à des sanctions disciplinaires et/ou pénales.
+
+<sup>5</sup> La DICS peut régler, en particulier, les contenus obligatoires du site Internet et la publication de données personnelles.
+
+### 5.9 Mesures éducatives et sanctions disciplinaires (art. 44 LESS)
+
+#### Art. 75
+
+**Mesures éducatives**
+
+<sup>1</sup> Si le comportement d'un ou d'une élève ne donne pas satisfaction, les enseignants et enseignantes, les proviseur‑e‑s ou le directeur ou la directrice peuvent prendre les mesures éducatives propres à améliorer l'attitude ou le travail de l'élève concerné‑e.
+
+<sup>2</sup> Les mesures éducatives suivantes peuvent être prononcées:
+
+- a) le travail supplémentaire à domicile ou à l'école;
+- b) la retenue;
+- c) l'éloignement momentané de la classe;
+- d) la réparation d'un dommage;
+- e) le rappel à l'ordre.
+
+<sup>3</sup> Les mesures éducatives peuvent être cumulées.
+
+<sup>4</sup> Les amendes ne sont pas autorisées.
+
+#### Art. 76
+
+**Sanctions disciplinaires**
 
 <sup>1</sup> Lorsque des mesures éducatives s'avèrent inappropriées ou insuffisantes, l'élève qui, de manière fautive, a contrevenu aux dispositions légales ou réglementaires encourt des sanctions disciplinaires.
 
-<sup>2</sup> Lors de tout travail imposé, la fraude, l'absence injustifiée ou la non-exécution du travail entraînent la note 1.
+<sup>2</sup> Les sanctions suivantes, éventuellement assorties de mesures éducatives, peuvent être prononcées:
 
-<sup>3</sup> Dans les autres cas, les sanctions suivantes, éventuellement assorties de mesures éducatives, peuvent être prononcées:
+- a) la suspension temporaire des cours jusqu'à deux semaines;
+- b) la menace d'exclusion;
+- c) l'exclusion.
 
-- a) la retenue;
-- b) la suspension des cours jusqu'à deux semaines;
-- c) la menace d'exclusion;
-- d) l'exclusion.
+<sup>3</sup> La suspension temporaire des cours peut être assortie d'une menace d'exclusion.
 
-<sup>4</sup> La suspension des cours peut être assortie d'une menace d'exclusion.
+<sup>4</sup> L'exclusion, sauf cas d'une gravité exceptionnelle, ne peut être prononcée que si elle a été précédée d'une menace d'exclusion.
 
-<sup>5</sup> L'exclusion, sauf cas d'une gravité exceptionnelle, ne peut être prononcée que si elle a été précédée d'une menace d'exclusion.
-
-#### Art. 51
+#### Art. 77
 
 **Détermination de la sanction**
 
-<sup>1</sup> Le genre et la mesure de la sanction sont déterminés compte tenu de la faute, des circonstances et de la personnalité de l'élève.
+<sup>1</sup> La sanction disciplinaire est déterminée en tenant compte des circonstances, du comportement de l'élève, de la faute commise et de l'atteinte portée au fonctionnement ou à la réputation de l'école.
 
-#### Art. 52
+#### Art. 78
+
+**Travail scolaire non exécuté**
+
+<sup>1</sup> Le fait qu'un travail scolaire ou une évaluation n'aient pas été exécutés conformément aux exigences, notamment pour cause d'absence injustifiée, de fraude ou de plagiat, entraîne l'attribution de la note 1, proposée par l'enseignant ou l'enseignante et validée par le ou la proviseur‑e.
+
+<sup>2</sup> Cette notation peut être assortie d'une mesure éducative ou d'une sanction disciplinaire.
+
+#### Art. 79
 
 **Autorités compétentes**
 
-<sup>1</sup> La compétence de prendre des sanctions appartient:
+<sup>1</sup> La compétence de prendre des mesures éducatives appartient:
 
-- a) au directeur d'école, pour toutes les sanctions;
-- b) au proviseur, au responsable de section ou au professeur de classe, selon l'organisation de l'école, pour la retenue;
-- c) au professeur concerné, pour la sanction prévue à l'article 50 al. 2.
+- a) au directeur ou à la directrice ou au ou à la proviseur‑e pour toutes les mesures éducatives;
+- b) à l'enseignant ou à l'enseignante concerné‑e pour le travail supplémentaire à domicile ou à l'école, la retenue et l'éloignement momentané de la classe.
 
-#### Art. 53
+<sup>2</sup> La compétence de prendre des sanctions disciplinaires appartient:
 
-**Procédure**
+- a) au directeur ou à la directrice d'école, pour toutes les sanctions;
+- b) au ou à la proviseur‑e, pour la suspension temporaire des cours jusqu'à deux semaines.
+
+#### Art. 80
+
+**Procédure disciplinaire**
 
 <sup>1</sup> L'autorité compétente établit les faits et rassemble les preuves pertinentes.
 
-<sup>2</sup> Avant tout prononcé de sanction, l'élève concerné doit être entendu; de plus, avant toute décision de suspension des cours, de menace d'exclusion ou d'exclusion, outre l'élève concerné, ses parents, s'il est mineur, et les professeurs concernés doivent être entendus.
+<sup>2</sup> Avant tout prononcé de sanction, l'élève concerné‑e doit être entendu‑e; de plus, avant toute décision de suspension temporaire des cours, de menace d'exclusion ou d'exclusion, outre l'élève concerné‑e, ses parents, s'il ou si elle est mineur‑e, et les enseignants et enseignantes concernés doivent être entendus.
 
-<sup>3</sup> En cas de suspension des cours, de menace d'exclusion ou d'exclusion, les parents ou l'élève majeur doivent être informés par écrit de la faute commise et de la sanction. Les parents de l'élève majeur doivent être également informés lorsque l'obligation d'entretien subsiste.
+<sup>3</sup> En cas de suspension temporaire des cours, de menace d'exclusion ou d'exclusion, les parents ou l'élève majeur‑e doivent être informés par écrit de la faute commise et de la sanction. Les parents de l'élève majeur‑e doivent être également informés lorsque l'obligation d'entretien subsiste, malgré sa déclaration contraire au sens de l'article 37 al. 1.
 
-### 4.7 Forme des décisions (art. 42 LESS)
+### 5.10 Forme des décisions (art. 76 LESS)
 
-#### Art. 54
+#### Art. 81
 
 **Décisions exigeant la forme écrite**
 
 <sup>1</sup> Les décisions qui affectent ou peuvent affecter le statut de l'élève requièrent la forme écrite. Il s'agit notamment de:
 
-- a) la décision refusant l'admission d'un élève;
-- b) la décision d'admission dans une école déterminée;
-- c) la décision refusant la promotion à la fin de l'année scolaire;
-- d) le prononcé d'une suspension des cours, d'une menace d'exclusion et d'une exclusion;
-- e) la non-admission ou l'échec aux examens finals.
-
-## 5 Professeurs
-
-### 5.1 Fonction (art. 43, 44 et 50 LESS)
-
-#### Art. 55
-
-**Tâches ordinaires – Instruction et éducation**
-
-<sup>1</sup> Le professeur a pour tâche principale d'assurer la formation des élèves qui lui sont confiés. Il doit les amener à réfléchir sur les aspects fondamentaux des matières enseignées et promouvoir leur culture générale conformément au rôle de l'école défini à l'article 5 LESS.
-
-<sup>2</sup> Il est tenu de respecter les objectifs et les programmes de la discipline qu'il enseigne.
-
-<sup>3</sup> Le professeur est attentif au respect de l'identité des élèves et à l'épanouissement de leur personnalité. Il voue un soin particulier à les informer sur les objectifs de sa discipline, à les écouter, à les aider dans leurs études tout en maintenant les exigences requises tant en matière de travail qu'en matière de comportement.
-
-#### Art. 56
-
-**Tâches ordinaires – Collaboration au sein de l'école**
-
-<sup>1</sup> Le professeur participe à la vie de l'école dans un esprit de collégialité avec la direction de l'école et les autres professeurs. Il fait toute proposition utile concernant son enseignement et la marche de l'école.
-
-<sup>2</sup> Il collabore à la planification des programmes et à la coordination des objectifs et de l'évaluation pour une discipline ou pour un groupe de disciplines.
-
-<sup>3</sup> Il prête son concours aux relations entre l'école et les parents.
-
-<sup>4</sup> Il assiste aux réunions convoquées par la direction de l'école.
-
-#### Art. 57
-
-**Tâches particulières (art. 44 LESS) – Professeur de classe**
-
-<sup>1</sup> Le professeur de classe assume les responsabilités de gestion pédagogique et administrative dans la conduite de la classe qui lui est confiée.
-
-<sup>2</sup> En matière pédagogique, il remplit notamment les fonctions suivantes:
-
-- a) il assure au premier chef le lien entre l'école et les parents;
-- b) il lui incombe de connaître ses élèves, leur situation et leurs difficultés;
-- c) il veille à créer dans sa classe une atmosphère favorable à l'étude et à l'épanouissement personnel des élèves dont il est l'interlocuteur privilégié;
-- d) il prend les mesures utiles avec les professeurs de branche pour assurer une coordination judicieuse du travail scolaire dans sa classe;
-- e) il informe la direction de l'école des problèmes relationnels, didactiques, sanitaires ou disciplinaires qu'il ne serait pas en mesure de résoudre.
-
-<sup>3</sup> En matière administrative, il a notamment les attributions suivantes:
-
-- a) il participe à l'organisation de la vie de son établissement scolaire par ses propositions et ses observations;
-- b) il établit et tient à jour les documents requis par la direction de l'école relatifs aux contrôles, à l'évaluation et aux statistiques;
-- c) il transmet aux élèves de sa classe les communiqués officiels de la direction de l'école et les tient au courant des différentes manifestations scolaires.
-
-#### Art. 58
-
-**Tâches particulières (art. 44 LESS) – Gestion pédagogique et administrative (art. 44 LESS)**
-
-<sup>1</sup> D'autres tâches peuvent être confiées à des professeurs, notamment:
-
-- a) l'élaboration des plans d'études cantonaux;
-- b) la formation de stagiaires;
-- c) la collaboration aux examens organisés par l'école ou la DICS;
-- d) la gestion des bibliothèques, des médiathèques, des équipements informatiques;
-- e) les activités culturelles ou sportives;
-- f) la coordination des échanges scolaires.
-
-#### Art. 59
-
-**Tâches particulières (art. 44 LESS) – Camps, journées d'études**
-
-<sup>1</sup> Les professeurs peuvent être astreints à participer à des manifestations organisées dans le cadre de l'enseignement, sous forme notamment de journées d'études ou de sport, de camps de sport, d'excursions.
-
-#### Art. 60
-
-**Tâches particulières (art. 44 LESS) – Décharge et indemnités (art. 50 LESS)**
-
-<sup>1</sup> L'attribution de tâches particulières durables donne lieu à des décharges selon des directives particulières arrêtées par le Conseil d'Etat.
-
-<sup>2</sup> L'attribution de tâches particulières occasionnelles peut donner lieu à des indemnités dans la mesure où ces tâches dépassent le mandat du professeur et la disponibilité qu'il doit à l'école.
-
-#### Art. 61
-
-**Cahier des charges**
-
-<sup>1</sup> La DICS établit, en collaboration avec la direction de l'école, le cahier des charges du professeur de branche et celui du professeur de classe. Les propositions des associations professionnelles reconnues sont requises.
-
-<sup>2</sup> La direction de l'école établit, en collaboration avec le professeur concerné, le cahier des charges particulières qui lui sont confiées au sens de l'article 44 LESS.
-
-### 5.2 Formation (art. 46 al. 3 LESS)
-
-#### Art. 62
-
-**Titre requis**
-
-<sup>1</sup> Le candidat à un poste de professeur doit être titulaire d'un diplôme d'enseignement reconnu par la DICS, attestant d'une formation scientifique et pédagogique correspondant aux disciplines et degré d'études concernés.
-
-<sup>2</sup> Les diplômes équivalents délivrés par d'autres cantons peuvent être reconnus conformément aux conventions intercantonales.
-
-<sup>3</sup> Un candidat au bénéfice d'une autre formation ne peut être engagé que s'il y a équivalence reconnue par la DICS entre sa formation et celle qui est agréée officiellement. La DICS requiert préalablement le préavis des instituts de formation concernés.
-
-### 5.3 Activité complète (art. 50 LESS)
-
-#### Art. 63
-
-**Horaire hebdomadaire**
-
-<sup>1</sup> L'horaire complet d'enseignement est déterminé par l'article 20 du règlement du 6 juillet 2004 relatif au personnel enseignant de la Direction de l'instruction publique, de la culture et du sport.
-
-### 5.4 Cours de perfectionnement (art. 44 al. 2 et art. 52 LESS)
-
-#### Art. 64
-
-**Principe**
-
-<sup>1</sup> Le professeur suit des cours de perfectionnement de façon à maintenir à jour ses connaissances scientifiques et pédagogiques.
-
-<sup>2</sup> Le perfectionnement peut aussi donner lieu à un congé de formation; dans ce cas, la législation sur le personnel de l'Etat en matière de congé ou de formation de longue durée s'applique.
-
-#### Art. 65
-
-**Moment des cours**
-
-<sup>1</sup> Les cours de perfectionnement ont lieu en principe hors du temps de classe, notamment pour les cours organisés par la DICS.
-
-<sup>2</sup> Toutefois, la DICS détermine de cas en cas si un cours peut avoir lieu durant le temps de classe.
-
-<sup>3</sup> Il tient compte pour cela du fonctionnement général de l'école, des exigences de l'organisation des cours de perfectionnement et des possibilités pour les professeurs de fréquenter ces cours.
-
-#### Art. 66
-
-**Frais de cours**
-
-<sup>1</sup> Les frais des cours obligatoires de perfectionnement sont pris en charge par l'Etat.
-
-<sup>2</sup> La DICS fixe les conditions de participation de l'Etat aux frais de fréquentation de cours facultatifs.
-
-### 5.5 Réunion de professeurs (art. 53 LESS)
-
-#### Art. 67
-
-**Modalités et buts**
-
-<sup>1</sup> Le directeur réunit les professeurs de son établissement en séance plénière une fois par année scolaire au moins. Il les réunit également au besoin selon les disciplines ou les fonctions particulières.
-
-<sup>2</sup> Une réunion des professeurs peut être convoquée à la demande d'un tiers des professeurs engagés sous statut de droit public.
-
-<sup>3</sup> Lors de ces réunions, les professeurs sont informés et consultés sur les affaires importantes relatives à leur école ou à leur enseignement. De leur côté, ils peuvent soumettre toute proposition relative à la marche de l'école.
-
-<sup>4</sup> Les réunions de professeurs ont lieu, en principe, en dehors du temps de classe; les dérogations relèvent de la DICS.
-
-<sup>5</sup> Toutefois, chaque école peut organiser une journée pédagogique par année sur le temps de classe.
+- a) la décision refusant l'admission d'un ou d'une élève;
+- b) la décision refusant la promotion à la fin du semestre ou de l'année scolaire;
+- c) le prononcé d'une sanction disciplinaire au sens de l'article 76;
+- d) la non-admission ou l'échec aux examens finals.
 
 ## 6 Organisation des écoles
 
-### 6.1 Commission d'école (art. 57 à 59 LESS)
+### 6.1 Commission d'école (art. 53 à 55 LESS)
 
-#### Art. 68
+#### Art. 82
 
-**Fonctionnement (art. 57 al. 5 LESS)**
+**Nomination et destitution des membres**
 
-<sup>1</sup> Le président de la commission d'école réunit la commission en principe deux fois par année.
+<sup>1</sup> Les membres et le président ou la présidente de la commission d'école sont désignés par la DICS pour une durée de cinq ans.
 
-<sup>2</sup> La commission est en outre convoquée à la demande de la DICS, de la direction de l'école ou d'un tiers de ses membres ayant voix délibérative ou consultative.
+<sup>2</sup> La DICS peut démettre une personne qui nuit au fonctionnement ou à l'image de la commission ou de l'école. Sauf cas grave, cette décision est précédée d'un avertissement.
 
-#### Art. 69
+#### Art. 83
 
-**Attributions (art. 58 LESS)**
+**Réunions**
+
+<sup>1</sup> Le président ou la présidente de la commission d'école réunit la commission en principe au minimum deux fois par année.
+
+<sup>2</sup> La commission est en outre convoquée à la demande de la DICS, du directeur ou de la directrice ou d'un tiers de ses membres.
+
+#### Art. 84
+
+**Attributions (art. 54 LESS)**
 
 <sup>1</sup> La commission d'école, en qualité d'organe consultatif, a les attributions suivantes:
 
-- a) elle exerce la surveillance générale sur la gestion de l'école;
-- b) elle préavise les propositions d'engagement et de nomination des professeurs et des proviseurs;
-- c) elle veille à la collaboration entre les partenaires de l'éducation, plus particulièrement entre l'école et les parents;
-- d) elle est consultée sur les projets de dispositions légales et réglementaires relatives à l'école concernée ainsi que sur les budgets et les comptes;
-- e) elle formule toute suggestion propre à favoriser la qualité de l'enseignement et la bonne marche de l'école.
+- a) elle est informée et consultée sur l'organisation et la gestion de l'école ainsi que sur les projets importants;
+- b) elle préavise les propositions d'engagement des membres du conseil de direction;
+- c) elle est informée de l'engagement des enseignants et enseignantes;
+- d) elle veille à la bonne collaboration entre les partenaires de l'éducation et de la formation;
+- e) elle est consultée sur les projets de dispositions légales et réglementaires relatives à l'école concernée et informée sur les budgets et les comptes;
+- f) elle formule toute suggestion propre à favoriser la qualité et le développement de l'école;
+- g) elle préavise le règlement d'école;
+- h) elle approuve les statuts du conseil des élèves.
 
-### 6.2 Directeurs (art. 61 à 64 LESS)
+### 6.2 Conseil de direction (art. 56 LESS)
 
-#### Art. 70
+#### Art. 85
 
-**Cahier des charges (art. 62 al. 2 LESS)**
+**Fonctionnement**
 
-<sup>1</sup> Un cahier des charges du directeur adapté aux particularités de chaque école est établi par la DICS compte tenu des attributions générales fixées à l'article 62 al. 2 LESS.
+<sup>1</sup> Le conseil de direction se réunit régulièrement, en fonction des besoins, sur convocation du directeur ou de la directrice ou à la demande de l'un de ses membres.
 
-#### Art. 71
+<sup>2</sup> Un procès-verbal de décision est établi pour chaque séance.
 
-**Enseignement (art. 62 al. 3 LESS)**
+#### Art. 86
 
-<sup>1</sup> La répartition du temps consacré par le directeur à la gestion de l'école et à l'enseignement est définie dans des directives particulières arrêtées par le Conseil d'Etat. Cette répartition tient compte du nombre de classes, du nombre de voies d'études ou de formation et des sections linguistiques de l'école.
+**Attributions**
 
-#### Art. 72
+<sup>1</sup> Le conseil de direction veille à la coordination, à la gestion et à la planification des tâches respectives attribuées à ses différents membres.
 
-**Haute Ecole pédagogique**
+<sup>2</sup> Il prête une attention particulière à l'égalité de traitement des décisions prises au sein de l'école.
 
-<sup>1</sup> Le directeur assume la direction de la Haute Ecole pédagogique dont il a la responsabilité générale en même temps que la direction des études d'une section linguistique de l'école.
+<sup>3</sup> Il traite notamment les objets suivants:
 
-<sup>2</sup> Le directeur des études assume la gestion pédagogique de l'autre section linguistique, en concertation avec le directeur de l'école auquel il apporte sa collaboration en matière administrative.
+- a) l'orientation stratégique de l'école;
+- b) le fonctionnement général de l'école;
+- c) les projets pédagogiques;
+- d) la mise en œuvre du concept de qualité;
+- e) l'application des plans d'études, l'actualisation des programmes internes et l'utilisation des moyens d'enseignement;
+- f) les situations particulières d'élèves et d'enseignants ou enseignantes;
+- g) l'ouverture, la fermeture et la répartition de classes;
+- h) la sélection des candidatures pour l'engagement du personnel enseignant ainsi que du personnel administratif et technique;
+- i) la formation continue obligatoire du corps enseignant;
+- j) la communication interne et externe;
+- k) le budget et les comptes d'exploitation;
+- l) l'organisation des examens;
+- m) les modifications du règlement d'école;
+- n) les demandes d'accès au corps enseignant et aux élèves à des fins de recherches et d'enquêtes scientifiques.
 
-#### Art. 73
+#### Art. 87
 
-**Collaboration interne**
+**Conférence des conseils de direction des écoles**
 
-<sup>1</sup> Chaque directeur réunit régulièrement les proviseurs ou les responsables de section. Il peut, au besoin ou sur demande, convoquer un représentant des professeurs ou le responsable du service administratif de l'école.
+<sup>1</sup> Afin de renforcer la cohérence du système éducatif et de favoriser son développement pédagogique ainsi que la collaboration entre les écoles, le président ou la présidente de la conférence des directeurs et directrices réunit au moins une fois par année les conseils de direction des écoles du degré secondaire supérieur.
 
-#### Art. 74
+<sup>2</sup> Le Service participe à ces réunions.
 
-**Conférence cantonale des directeurs (art. 64 al. 1 LESS)**
+### 6.3 Directeurs et directrices (art. 57 et 58 LESS)
 
-<sup>1</sup> La conférence cantonale des directeurs du degré secondaire supérieur se réunit chaque fois que la DICS l'estime nécessaire, mais au minimum une fois par année.
+#### Art. 88
 
-<sup>2</sup> Elle est présidée par le représentant de la DICS.
+**Attributions (art. 58 LESS)**
 
-#### Art. 75
+<sup>1</sup> Le directeur ou la directrice a notamment les attributions suivantes:
 
-**Conférence cantonale des recteurs (art. 64 al. 3 LESS)**
+- a) veiller à la mise en œuvre des plans d'études;
+- b) procéder à l'examen des candidatures et transmettre son choix au Service;
+- c) attribuer les unités d'enseignement et les tâches particulières à chaque enseignant ou enseignante;
+- d) diriger le conseil de direction;
+- e) accompagner, conseiller et qualifier les membres du conseil de direction et du corps enseignant;
+- f) encourager la formation continue et le développement du personnel de l'école;
+- g) veiller au suivi des élèves et statuer sur la promotion, les situations particulières et, le cas échéant, les sanctions disciplinaires;
+- h) assurer la collaboration entre l'école et les parents;
+- i) concrétiser et mettre en œuvre le concept de qualité dans son école;
+- j) assumer la responsabilité du budget et de la gestion financière et veiller à une utilisation efficiente des ressources;
+- k) s'assurer que les infrastructures et équipements répondent aux besoins de l'école;
+- l) assurer la communication interne et externe;
+- m) représenter l'école dans les organes cantonaux et extracantonaux.
 
-<sup>1</sup> La conférence cantonale des recteurs s'organise elle-même et se réunit chaque fois que son président l'estime nécessaire ou à la demande de l'un de ses membres, mais au moins une fois par trimestre; la DICS peut également la convoquer.
+<sup>2</sup> Peuvent être déléguées aux proviseur‑e‑s les attributions suivantes:
 
-<sup>2</sup> Le représentant de la DICS peut participer avec voix consultative aux séances de la conférence.
+- a) la qualification du personnel enseignant;
+- b) les décisions relatives aux mesures d'encouragement et de soutien;
+- c) les dispenses d'un cours particulier ou d'une activité scolaire pour des motifs justifiés;
+- d) l'autorisation des séjours linguistiques;
+- e) l'autorisation de l'intervention de tiers auprès des élèves;
+- f) l'admission des élèves invités;
+- g) la conduite des conférences de branche;
+- h) la représentation de l'école dans les organes cantonaux et extracantonaux;
+- i) l'interdiction d'accès au réseau informatique;
+- j) le prononcé d'une menace d'exclusion;
+- k) le traitement d'une plainte au sens de l'article 81 LESS portée contre les actes ou les omissions d'un enseignant ou d'une enseignante.
 
-### 6.3 Proviseurs (art. 65 et 66 LESS)
+<sup>3</sup> Un cahier des charges du directeur ou de la directrice, adapté aux particularités de chaque école, est établi par la DICS, compte tenu des attributions générales fixées à l'article 58 LESS.
 
-#### Art. 76
+#### Art. 89
 
-**Attributions générales (art. 66 al. 3 LESS)**
+**Conférence des directeurs et directrices (art. 63 al. 1 LESS) – Fonctionnement**
 
-<sup>1</sup> Le proviseur a notamment les attributions générales suivantes au sein de sa section:
+<sup>1</sup> La conférence des directeurs et directrices se dote d'un règlement d'organisation, approuvé par le Service.
 
-- a) il établit et entretient les contacts nécessaires avec les élèves et les parents, en collaboration avec les professeurs de classe, et il suit particulièrement les élèves en difficulté;
-- b) il assure la coordination de l'enseignement, visite les classes, aide et conseille les professeurs dans leurs tâches d'instruction et d'éducation;
-- c) il assume une charge d'enseignement en fonction de l'importance de sa tâche, mais au moins huit leçons hebdomadaires.
+<sup>2</sup> Le président ou la présidente, désigné‑e par ses pairs, dirige les séances de la conférence et s'assure que les décisions de la conférence sont mises en œuvre.
 
-### 6.4 Organisation de la gestion pédagogique et administrative des écoles
+<sup>3</sup> La conférence se réunit chaque fois que son président ou sa présidente l'estime nécessaire ou à la demande de l'un de ses membres, mais au moins une fois par trimestre; le Service peut également la convoquer.
 
-#### Art. 77
+<sup>4</sup> Les personnes représentant le Service participent aux séances de la conférence.
 
-**Décharges et personnel administratif**
+<sup>5</sup> L'ordre du jour et le procès-verbal des séances sont transmis au Service.
 
-<sup>1</sup> Les heures de décharge relatives à la gestion d'une école ainsi que le nombre des postes administratifs sont fixés dans des directives particulières arrêtées par le Conseil d'Etat.
+#### Art. 90
 
-## 7 Financement des écoles (art. 67 et 68 LESS)
+**Conférence des directeurs et directrices (art. 63 al. 1 LESS) – Attributions**
 
-#### Art. 78
+<sup>1</sup> La conférence des directeurs et directrices a notamment les attributions et tâches suivantes:
 
-**Frais individuels d'enseignement**
+- a) elle collabore avec le Service à la définition de l'orientation stratégique et pédagogique de l'enseignement et des écoles du degré secondaire supérieur;
+- b) elle propose au Service les principes et des mesures relatifs au maintien et au développement de la qualité ainsi qu'à l'évaluation de l'enseignement;
+- c) elle formule des recommandations relatives aux plans d'études et au nombre de leçons hebdomadaires attribué à chaque branche d'enseignement, à l'intention du Service;
+- d) elle propose au Service les moyens d'enseignement officiels;
+- e) elle assure et coordonne le travail des conférences cantonales des responsables de branche;
+- f) elle fixe les principes relatifs à la gestion des absences;
+- g) elle fixe les principes généraux relatifs à l'évaluation.
 
-<sup>1</sup> Les frais relatifs aux manuels, au matériel personnel, aux déplacements et aux éventuels frais de pension incombent aux parents ou à l'élève si les parents n'ont plus d'obligation d'entretien.
+### 6.4 Proviseur‑e‑s (art. 59 et 60 LESS)
 
-#### Art. 79
+#### Art. 91
+
+**Attributions (art. 60 LESS)**
+
+<sup>1</sup> Le ou la proviseur‑e a notamment les attributions générales suivantes au sein de sa section ou de sa filière:
+
+- a) assurer la coordination de l'enseignement, veiller à l'application des plans d'études, à l'utilisation des moyens d'enseignement officiels ainsi qu'au respect des règlements, des dispositions et des instructions;
+- b) assurer les tâches administratives en lien avec l'organisation de l'année scolaire et des examens, les admissions, la répartition des élèves, la gestion des absences, les changements d'école ou de section;
+- c) coordonner, en collaboration avec les autres proviseur‑e‑s, les travaux des conférences de branche internes;
+- d) contribuer au maintien et au développement de la qualité de l'enseignement, assurer la mise en œuvre du concept y relatif et coordonner les projets pédagogiques;
+- e) visiter les cours, soutenir et conseiller les enseignants et enseignantes dans leurs tâches pédagogiques et éducatives et évaluer leurs prestations;
+- f) suivre les élèves avec des besoins scolaires particuliers et coordonner la mise en œuvre des mesures d'encouragement et de soutien au sens des articles 52 à 57;
+- g) assurer le suivi des situations particulières et prendre ou proposer les mesures nécessaires ou appropriées;
+- h) porter une attention particulière au climat régnant au sein de sa section ou sa filière et au bien-être des personnes qui y travaillent et y étudient et, le cas échéant, aplanir les difficultés qui peuvent surgir;
+- i) établir et entretenir les contacts nécessaires avec les élèves et les parents et leur fournir les informations nécessaires, en collaboration avec les enseignants et enseignantes titulaires de classe;
+- j) prendre les sanctions disciplinaires relevant de sa compétence.
+
+<sup>2</sup> Le ou la proviseur‑e peut donner des instructions aux enseignants et enseignantes.
+
+<sup>3</sup> Des tâches particulières peuvent lui être confiées par la conférence des directeurs et directrices ou par le Service.
+
+<sup>4</sup> Il ou elle assume une charge d'enseignement en fonction de l'importance de ses tâches.
+
+### 6.5 Collaborateurs et collaboratrices administratifs et techniques (art. 61 et 62 LESS)
+
+#### Art. 92
+
+**Administrateur ou administratrice (art. 61 LESS)**
+
+<sup>1</sup> L'administrateur ou l'administratrice soutient le directeur ou la directrice dans la conduite administrative de l'école. Il ou elle a notamment les attributions et tâches suivantes:
+
+- a) établir le projet de budget, assurer la gestion financière et veiller à une utilisation efficiente des ressources, sous la responsabilité du directeur ou de la directrice;
+- b) conduire le personnel administratif dont il ou elle est le ou la supérieur‑e hiérarchique et collaborer à la gestion administrative du personnel enseignant;
+- c) organiser le travail du secrétariat;
+- d) gérer, en collaboration avec les services cantonaux compétents, les infrastructures et les équipements;
+- e) représenter le conseil de direction dans les domaines de ses attributions.
+
+#### Art. 93
+
+**Collaborateurs et collaboratrices administratifs et techniques (art. 62 LESS)**
+
+<sup>1</sup> Les collaborateurs et collaboratrices administratifs et techniques sont les secrétaires, les bibliothécaires et les préparateurs et préparatrices en sciences.
+
+<sup>2</sup> Les concierges et les informaticiens et informaticiennes dans les écoles sont engagés par la Direction dont ils dépendent. Cette dernière fixe leur cahier des charges, après consultation du conseil de direction. Ce personnel et le conseil de direction travaillent en étroite collaboration.
+
+### 6.6 Commission cantonale des examens
+
+#### Art. 94
+
+**Commission cantonale des examens de l'enseignement secondaire supérieur – Composition**
+
+<sup>1</sup> La Commission cantonale des examens de l'enseignement secondaire supérieur se compose:
+
+- a) des directeurs ou directrices de chaque école de l'enseignement secondaire supérieur;
+- b) des présidents ou présidentes et des secrétaires des jurys de chaque école dont la composition et le fonctionnement sont précisés dans les règlements des différentes voies de formation;
+- c) du représentant ou de la représentante fribourgeois‑e à la Commission suisse de maturité;
+- d) d'une personne représentant la DICS qui préside la Commission cantonale.
+
+#### Art. 95
+
+**Commission cantonale des examens de l'enseignement secondaire supérieur – Compétences**
+
+<sup>1</sup> La Commission cantonale des examens de l'enseignement secondaire supérieur:
+
+- a) contrôle l'application des règlements des voies de formation;
+- b) détermine les ouvrages auxiliaires et les instruments de travail autorisés pour les épreuves écrites;
+- c) valide les examens en s'assurant de leur adéquation avec les plans d'études cantonaux et de l'équivalence des exigences dans les écoles;
+- d) fixe les dates de la session ordinaire et la durée des congés accordés aux personnes candidates pour leur préparation;
+- e) maintient les contacts nécessaires avec la Commission suisse de maturité;
+- f) propose à la DICS les changements à apporter au règlement;
+- g) décide des autorisations d'exception et valide les mesures particulières;
+- h) peut faire appel à des experts et expertes.
+
+### 6.7 Conférence des enseignants et enseignantes (art. 64 LESS)
+
+#### Art. 96
+
+**Composition et fonctionnement**
+
+<sup>1</sup> Le directeur ou la directrice réunit tous les enseignants et toutes les enseignantes de son école en séance plénière deux fois par année scolaire au moins. Il ou elle les réunit également au besoin selon les branches ou les fonctions particulières.
+
+<sup>2</sup> Une séance de la conférence des enseignants et enseignantes peut être convoquée à la demande d'un quart du corps enseignant de l'école.
+
+<sup>3</sup> Les séances de la conférence des enseignants et enseignantes ont lieu, en principe, en dehors du temps de classe; les dérogations relèvent de la DICS.
+
+#### Art. 97
+
+**Information et consultation**
+
+<sup>1</sup> Les enseignants et enseignantes sont informés et consultés sur les affaires importantes relatives au fonctionnement général de leur école. De leur côté, ils peuvent soumettre toute proposition relative à la marche de celle-ci.
+
+### 6.8 Conférences de branche (art. 65 LESS)
+
+#### Art. 98
+
+**Composition et fonctionnement**
+
+<sup>1</sup> Les conférences de branche se composent de tous les enseignants et de toutes les enseignantes d'une école qui enseignent la même branche. Les conférences de branche peuvent être distinctes selon la langue d'enseignement.
+
+<sup>2</sup> Chaque conférence de branche est présidée par un ou une responsable, nommé‑e par le directeur ou la directrice d'école sur la proposition des enseignants et enseignantes.
+
+<sup>3</sup> Les conférences de branche se réunissent pour traiter des thématiques liées à leur branche au moins trois fois par année ou lorsque le directeur ou la directrice le demande. Elles établissent un ordre du jour puis un procès-verbal à l'attention du conseil de direction. En principe, un membre du conseil de direction prend part à une séance de la conférence de branche au minimum une fois par année.
+
+<sup>4</sup> La conférence des directeurs et directrices peut réunir les responsables de branche des écoles au sein d'une conférence cantonale. Cette dernière est subordonnée à la conférence des directeurs et directrices. Le Service peut aussi lui confier des tâches.
+
+#### Art. 99
+
+**Attributions**
+
+<sup>1</sup> Les conférences de branche d'une école ont notamment les attributions suivantes:
+
+- a) elles élaborent les programmes de l'école sur la base des plans d'études cantonaux et coordonnent leur mise en œuvre;
+- b) elles favorisent les échanges disciplinaires et didactiques;
+- c) elles favorisent l'évaluation en commun;
+- d) elles soutiennent les nouveaux enseignants et nouvelles enseignantes;
+- e) elles proposent au directeur ou à la directrice les moyens d'enseignement et des sujets de réflexion propres à la branche;
+- f) si nécessaire, elles élaborent les examens d'admission et coordonnent la préparation des examens finals;
+- g) un de ses membres, désigné par le directeur ou la directrice, participe en principe au processus de sélection des nouveaux enseignants et nouvelles enseignantes de sa branche.
+
+<sup>2</sup> La conférence cantonale des responsables de branche a notamment les attributions suivantes:
+
+- a) elle conseille la conférence des directeurs et directrices et le Service sur toutes les questions relatives à la branche en question;
+- b) elle contribue à l'élaboration des plans d'études cantonaux;
+- c) elle entretient, en coordination avec la conférence des directeurs et directrices, le contact entre les écoles ainsi qu'avec l'école obligatoire et les hautes écoles.
+
+### 6.9 Tâches particulières
+
+#### Art. 100
+
+**Enseignant ou enseignante titulaire de classe**
+
+<sup>1</sup> L'enseignant ou l'enseignante titulaire de classe assume les responsabilités de gestion pédagogique et administrative dans la conduite de la classe qui lui est confiée.
+
+<sup>2</sup> En matière pédagogique, il ou elle remplit notamment les fonctions suivantes:
+
+- a) assurer au premier chef le lien entre l'école et les parents;
+- b) connaître ses élèves, leur situation et leurs besoins;
+- c) veiller à créer dans sa classe une atmosphère favorable à l'étude et à l'épanouissement personnel des élèves dont il ou elle est l'interlocuteur ou l'interlocutrice privilégié‑e;
+- d) prendre les mesures utiles avec les enseignants et enseignantes de branche pour assurer une coordination judicieuse du travail scolaire dans sa classe;
+- e) informer le ou la proviseur‑e des problèmes relationnels, pédagogiques ou disciplinaires qu'il ou elle ne serait pas en mesure de résoudre.
+
+<sup>3</sup> En matière administrative, l'enseignant ou l'enseignante titulaire de classe a notamment les attributions suivantes:
+
+- a) participer à l'organisation et aux activités scolaires de la classe;
+- b) établir et tenir à jour les données requises par le directeur ou la directrice relatives aux contrôles, à l'évaluation et aux statistiques;
+- c) transmettre aux élèves de sa classe les communiqués officiels du conseil de direction et les tenir au courant des différentes manifestations scolaires.
+
+#### Art. 101
+
+**Gestion pédagogique et administrative**
+
+<sup>1</sup> D'autres tâches peuvent être confiées à des enseignants et enseignantes, notamment:
+
+- a) l'élaboration des plans d'études cantonaux;
+- b) la formation d'enseignants ou enseignantes stagiaires;
+- c) la collaboration aux examens organisés par l'école ou la DICS;
+- d) la coordination des échanges scolaires.
+
+## 7 Financement des écoles (art. 66 à 69 LESS)
+
+#### Art. 102
+
+**Frais individuels des élèves**
+
+<sup>1</sup> Les frais relatifs aux moyens d'enseignement, au matériel scolaire personnel, aux déplacements et aux repas pris dans le cadre de l'enseignement ou des activités culturelles ou sportives incombent aux élèves.
+
+#### Art. 103
 
 **Ecolages et taxes d'inscription**
 
 <sup>1</sup> Le montant et les modalités de perception des écolages et des taxes d'inscription sont fixés par des dispositions particulières arrêtées par le Conseil d'Etat.
 
-#### Art. 80
+#### Art. 104
 
-**Taxes pour prestations particulières – Activités culturelles et autres prestations particulières**
+**Taxes pour prestations particulières – Activités culturelles et sportives**
 
-<sup>1</sup> Les activités culturelles organisées par les écoles font l'objet d'une taxe annuelle fixée par la DICS, sur le préavis des directions des écoles.
+<sup>1</sup> Les activités culturelles et sportives organisées par les écoles font l'objet d'une taxe annuelle dont le montant maximal est fixé par la conférence des directeurs et directrices.
 
-<sup>2</sup> Les frais relatifs aux activités particulières telles que des journées et des semaines d'études, des classes vertes, des camps de sport ou des excursions scolaires incombent aux parents ou à l'élève si les parents n'ont plus d'obligation d'entretien, à l'exclusion d'éventuels frais de remplacement de professeurs.
+<sup>2</sup> Les frais relatifs aux activités particulières telles que des journées et des semaines d'études, des classes vertes, des camps de sport ou des excursions scolaires incombent aux élèves.
 
-#### Art. 81
+#### Art. 105
 
-**Taxes pour prestations particulières – Cours spéciaux de convenance personnelle**
+**Taxes pour prestations particulières – Cours spéciaux facultatifs**
 
-<sup>1</sup> A la demande d'un ou de plusieurs élèves, des cours spéciaux, non prévus dans les plans d'études, peuvent être organisés par la direction de l'école. Ils sont à la charge des parents ou de l'élève si les parents n'ont plus d'obligation d'entretien.
+<sup>1</sup> A la demande d'un ou d'une élève ou de plusieurs élèves, des cours spéciaux, non prévus dans les plans d'études, peuvent être organisés par le directeur ou la directrice. Ils sont à la charge des élèves.
 
-#### Art. 82
-
-**Taxes pour prestations particulières – Internats**
-
-<sup>1</sup> Les prix de logement et de pension dans un internat officiel sont fixés par des dispositions particulières arrêtées par le Conseil d'Etat.
-
-#### Art. 83
+#### Art. 106
 
 **Examens finals**
 
 <sup>1</sup> Les taxes relatives aux examens finals sont fixées par des dispositions particulières arrêtées par le Conseil d'Etat.
 
-#### Art. 84
+#### Art. 107
 
 **Limitation des frais et aide financière**
 
-<sup>1</sup> Les directions des écoles et les professeurs veillent à limiter à ce qui est nécessaire les frais individuels d'enseignement, les taxes pour les activités culturelles et les autres prestations particulières par des mesures de coordination ou de modération des objectifs.
+<sup>1</sup> Le directeur ou la directrice et les enseignants et enseignantes veillent à limiter à ce qui est nécessaire les frais individuels d'enseignement, les taxes pour les activités culturelles et sportives ainsi que les autres prestations particulières par des mesures de coordination ou de modération des objectifs.
 
-<sup>2</sup> Les directions des écoles sont attentives aux difficultés financières auxquelles peuvent être confrontés certains élèves. Elles prennent toutes les mesures utiles pour y remédier discrètement, en collaboration avec les associations et services compétents.
+<sup>2</sup> Les directeurs et directrices prêtent attention aux difficultés financières auxquelles peuvent être confrontés certains élèves. Ils prennent toutes les mesures utiles pour y remédier discrètement, en collaboration avec les associations et services compétents.
 
-## 8 Enseignement privé (art. 69 à 71 LESS)
+## 8 Ecoles privées (art. 70 à 72 LESS)
 
-#### Art. 85
+#### Art. 108
 
-**Ouverture d'une école (art. 69 LESS)**
+**Ouverture d'une école (art. 70 LESS)**
 
-<sup>1</sup> Lors de l'annonce de l'ouverture d'une école privée, la DICS s'assure que les formations dispensées sont clairement définies et que les diplômes délivrés correspondent à cette formation et ne prêtent pas à confusion avec d'autres diplômes.
+<sup>1</sup> Lors de l'annonce de l'ouverture d'une école privée, la DICS s'assure que les formations dispensées sont clairement définies et que les certificats délivrés correspondent à cette formation et ne prêtent pas à confusion avec d'autres certificats.
 
-#### Art. 86
+#### Art. 109
 
 **Surveillance des écoles privées (art. 70 LESS)**
 
 <sup>1</sup> Sauf circonstances exigeant une mesure immédiate, l'interdiction d'exploiter une école privée doit être précédée d'un avertissement.
 
-#### Art. 87
+#### Art. 110
 
-**Reconnaissance d'une voie d'études ou de formation (art. 71 LESS)**
+**Reconnaissance d'une voie de formation**
 
-<sup>1</sup> Une voie d'études ou de formation dispensée dans une école privée peut faire l'objet d'une reconnaissance par convention passée avec la DICS et approuvée par le Conseil d'Etat. Cette reconnaissance peut être indépendante de toute subvention.
+<sup>1</sup> Une voie de formation dispensée dans une école privée peut faire l'objet d'une reconnaissance par convention passée avec la DICS et approuvée par le Conseil d'Etat. Cette reconnaissance peut être indépendante de tout octroi de subvention.
 
-#### Art. 88
+#### Art. 111
 
-**Conditions et charges liées au subventionnement (art. 71 LESS)**
+**Conditions et charges liées au subventionnement (art. 72 LESS)**
 
-<sup>1</sup> Si une école privée obtient une subvention conformément à l'article 71 LESS, elle doit respecter les conditions et les charges suivantes:
+<sup>1</sup> Si une école privée obtient une subvention conformément à l'article 72 LESS, une convention avec la DICS, approuvée par le Conseil d'Etat, doit être établie. Celle-ci doit notamment régler les éléments suivants:
 
-- a) contrôle de l'enseignement par les services compétents de l'Etat;
-- b) respect des normes d'admission fixées par l'Etat;
-- c) présentation annuelle des budgets et des comptes.
+- a) l'offre de formation;
+- b) le maintien et le développement de la qualité;
+- c) le fonctionnement de l'école;
+- d) la gestion administrative et financière de l'école;
+- e) la qualification et la rémunération des enseignants et enseignantes;
+- f) les conditions d'admission des élèves;
+- g) les modalités de la surveillance de l'Etat.
 
-## 9 Services auxiliaires (art. 72 à 75 LESS)
+## 9 Services de conseils (art. 73 à 75 LESS)
 
-#### Art. 89
+#### Art. 112
 
-**Service de consultation psychologique (art. 73 LESS)**
+**Service de consultation psychologique**
 
-<sup>1</sup> Le Service de consultation psychologique relève du Service de l'enseignement secondaire du deuxième degré sur le plan administratif; son fonctionnement interne est réglé par des dispositions particulières émises par la DICS.
+<sup>1</sup> Le Service de consultation psychologique relève du Service sur le plan administratif; son fonctionnement interne est réglé par des dispositions particulières émises par la DICS.
 
-#### Art. 90
+#### Art. 113
 
-**Centre de documentation pédagogique (art. 74 LESS)**
+**Médiation et travail social en milieu scolaire**
 
-<sup>1</sup> Selon ses possibilités matérielles et financières et en fonction des besoins des écoles, le centre de ressources et de documentation pédagogiques de la Haute Ecole pédagogique met à leur disposition des moyens didactiques et informatiques relatifs aux diverses disciplines.
+<sup>1</sup> La médiation et le travail social en milieu scolaire compte parmi les dispositifs dont les écoles peuvent bénéficier afin de développer et maintenir un climat scolaire de qualité.
 
-<sup>2</sup> Il propose toutes mesures en vue d'une saine gestion et d'une bonne coordination des médiathèques et des bibliothèques scolaires.
+<sup>2</sup> Les personnes chargées de la médiation promeuvent une culture de la communication par le conseil et l'accompagnement de l'élève et/ou de l'adulte rencontrant des difficultés relationnelles. Les personnes chargées du travail social encouragent l'intégration des élèves à l'école et soutiennent ainsi le mandat de formation et d'éducation de celle-ci.
 
-#### Art. 91
+<sup>3</sup> Elles sont engagées par la DICS, sur le préavis du directeur ou de la directrice à qui elles sont subordonnées.
 
-**Office cantonal du matériel scolaire (art. 75 LESS)**
+<sup>4</sup> Leurs attributions sont définies dans un cahier des charges approuvé par la DICS.
 
-<sup>1</sup> Les écoles ont recours à l'Office cantonal du matériel scolaire dans toute la mesure du possible afin de coordonner les acquisitions de matériel et de moyens d'enseignement et d'en limiter les frais.
+<sup>5</sup> Elles peuvent exercer leur mission dans une ou plusieurs écoles.
 
 ## 10 Voies de droit
 
-#### Art. 92
+#### Art. 114
 
-**Réclamation contre les décisions des professeurs et des proviseurs (art. 76 LESS)**
+**Décisions sans possibilité de réclamation ou de recours**
+
+<sup>1</sup> Les décisions suivantes, notamment, n'affectent pas le statut de l'élève et sont en principe sans possibilité de réclamation ou de recours:
+
+- a) le refus d'un congé (art. 13);
+- b) les mesures éducatives (art. 75);
+- c) le résultat d'une évaluation, y compris l'attribution de la note la plus basse, à moins qu'il ne constitue le fondement direct d'une promotion ou l'échec aux examens (art. 21 et 63);
+- d) l'attribution dans une école du degré secondaire supérieur (art. 45) ou un changement de classe.
+
+#### Art. 115
+
+**Procédure de réclamation (art. 77 LESS)**
 
 <sup>1</sup> La réclamation contient un bref exposé des faits et des motifs ainsi que l'énoncé des conclusions.
 
-<sup>2</sup> Le directeur demande aux professeurs ou aux proviseurs de se déterminer sans délai sur la réclamation.
+<sup>2</sup> Le directeur ou la directrice demande aux enseignants et enseignantes ou aux proviseur‑e‑s de se déterminer par écrit et dans un bref délai sur la réclamation.
 
-<sup>3</sup> Le directeur mène la procédure avec célérité. Il établit les faits sans être limité par le contenu de la réclamation; il entend l'élève concerné et ses parents s'il est mineur ou si les circonstances le justifient. Il tient un procès-verbal de l'ensemble des opérations de procédure.
+<sup>3</sup> Le directeur ou la directrice mène la procédure avec célérité. Il ou elle établit les faits sans être limité-e par le contenu de la réclamation; il ou elle entend l'élève concerné‑e et ses parents s'il ou si elle est mineur‑e ou lorsque les circonstances le justifient. Il ou elle tient un procès-verbal de l'ensemble des opérations de procédure.
 
-<sup>4</sup> La décision sur réclamation est rendue par écrit; elle est brièvement motivée. Lorsqu'elle donne entièrement satisfaction à l'auteur de la réclamation, le directeur peut, si aucune partie ne l'exige, renoncer à la motivation de sa décision ou ne donner les motifs qu'oralement.
+<sup>4</sup> La décision sur réclamation est rendue par écrit; elle est brièvement motivée. Lorsqu'elle donne entièrement satisfaction à l'auteur‑e de la réclamation, le directeur ou la directrice peut, si aucune partie ne l'exige, renoncer à la motivation de sa décision ou ne donner les motifs qu'oralement.
 
-#### Art. 93
-
-**Indication des voies de droit (art. 79 LESS)**
-
-<sup>1</sup> Les décisions écrites qui affectent le statut de l'élève, notamment celles qui sont mentionnées à l'article 54 du présent règlement, doivent indiquer la voie et le délai de réclamation ou de recours.
-
-#### Art. 94
+#### Art. 116
 
 **Réclamation et recours en matière d'utilisation par des tiers de locaux scolaires**
 
-<sup>1</sup> Le refus d'autorisation et la facturation de la taxe d'utilisation peuvent, dans les vingt jours, faire l'objet d'une réclamation du requérant.
+<sup>1</sup> Le refus d'autorisation et la facturation de la taxe d'utilisation peuvent, dans les trente jours, faire l'objet d'une réclamation du requérant ou de la requérante.
 
 <sup>2</sup> La réclamation est adressée à la DICS.
 
 <sup>3</sup> La décision de la DICS peut faire l'objet d'un recours au Tribunal cantonal, selon la procédure prévue par le code de procédure et de juridiction administrative.
 
-#### Art. 95
+#### Art. 117
 
-**Plainte des parents et des élèves (art. 80 LESS) – Autorités compétentes**
+**Plainte des parents et des élèves (art. 81 LESS) – Autorités compétentes**
 
 <sup>1</sup> L'autorité de plainte est:
 
-- a) le directeur lorsque la plainte est portée contre les actes ou les omissions d'un professeur ou d'un proviseur;
-- b) la DICS lorsque la plainte est portée contre les actes ou les omissions d'un directeur.
+- a) le directeur ou la directrice lorsque la plainte est portée contre les actes ou les omissions d'un enseignant ou d'une enseignante ou d'un ou d'une proviseur‑e;
+- b) la DICS lorsque la plainte est portée contre les actes ou les omissions d'un directeur ou d'une directrice.
 
-#### Art. 96
+<sup>2</sup> La DICS est l'autorité de recours contre la décision du directeur ou de la directrice qui déclare la plainte irrecevable ou mal fondée ou qui met des frais de procédure à la charge du plaignant ou de la plaignante.
 
-**Plainte des parents et des élèves (art. 80 LESS) – Procédure de plainte**
+#### Art. 118
 
-<sup>1</sup> La plainte est déposée par écrit auprès de l'autorité compétente.
+**Plainte des parents et des élèves (art. 81 LESS) – Procédure de plainte**
 
-<sup>2</sup> L'autorité de plainte établit les faits; elle entend la personne visée par la plainte. Elle peut entendre l'élève concerné et ses parents si les circonstances le justifient.
+<sup>1</sup> La plainte est déposée par écrit, datée et signée, auprès de l'autorité compétente. Elle contient un bref exposé des faits et motifs.
+
+<sup>2</sup> L'autorité de plainte établit les faits; elle demande à la personne visée par la plainte de se déterminer par écrit et dans un bref délai. Elle peut entendre l'élève concerné‑e et, lorsque les circonstances le justifient, ses parents.
 
 <sup>3</sup> La décision sur plainte est rendue par écrit; elle est brièvement motivée.
 
-#### Art. 97
+#### Art. 119
 
-**Plainte des parents et des élèves (art. 80 LESS) – Frais de procédure**
+**Plainte des parents et des élèves (art. 81 LESS) – Frais de procédure**
 
 <sup>1</sup> Constituent des frais de procédure les dépenses occasionnées spécialement par l'instruction de la plainte, notamment les frais causés par l'administration de preuves, les indemnités de déplacement et les honoraires de tiers.
 
-## 11 Dispositions transitoires et finales
-
-### 11.1 Dispositions transitoires
-
-#### Art. 98
-
-**…**
-
-### 11.2 Abrogations
-
-#### Art. 99
-
-<sup>1</sup> Sont abrogés:
-
-- a) l'arrêté du 1<sup>er</sup> juillet 1986 sur les effectifs des classes du degré secondaire supérieur dépendant du Département de l'instruction publique (RSF 412.0.12);
-- b) le règlement du 17 août 1993 concernant l'utilisation par des tiers de locaux scolaires de l'enseignement secondaire supérieur (RSF 412.0.13);
-- c) l'arrêté du 21 mars 1978 concernant l'appellation des gymnases cantonaux (RSF 412.1.12);
-- d) l'arrêté du 20 novembre 1989 relatif à l'introduction du type D de maturité (langues modernes) dans les collèges cantonaux (RSF 412.1.22);
-- e) l'arrêté du 10 mars 1987 adoptant la grille horaire des études gymnasiales (RSF 412.1.23);
-- f) l'arrêté du 26 juillet 1963 fixant les tâches du recteur du Collège Saint-Michel, des préfets, des proviseurs et des professeurs de classe (RSF 412.1.52);
-- g) l'arrêté du 7 juillet 1964 introduisant une section latin-langues (type B) au Collège Saint-Michel (RSF 412.1.53);
-- h) l'arrêté du 3 avril 1984 concernant la section de diplôme d'études commerciales du Collège du Sud (RSF 412.3.25);
-- i) l'arrêté du 28 octobre 1986 relatif à l'Ecole cantonale de degré diplôme (RSF 412.4.21);
-- j) l'arrêté du 9 novembre 1993 relatif à l'ouverture d'une section de degré diplôme (SDD) au Collège du Sud (RSF 412.4.32).
-
-### 11.3 Modifications
-
-#### Art. 100
-
-**Elèves des collèges cantonaux**
-
-<sup>1</sup> Le règlement du 10 juillet 1987 des élèves des collèges cantonaux (RSF 412.1.13) est modifié comme il suit:
-
-...
-
-#### Art. 101
-
-**Ecole normale cantonale**
-
-<sup>1</sup> Le règlement du 26 juin 1990 de l'Ecole normale cantonale (RSF 412.2.11) est modifié comme il suit:
-
-...
-
-#### Art. 102
-
-**Cours de secrétariat**
-
-<sup>1</sup> L'arrêté du 18 février 1991 relatif au cours intensif de secrétariat du Collège de Gambach (RSF 412.3.31) est modifié comme il suit:
-
-...
-
-#### Art. 103
-
-**Elèves de l'ECDD**
-
-<sup>1</sup> Le règlement du 17 janvier 1989 concernant les élèves de l'Ecole cantonale de degré diplôme (RSF 412.4.23) est modifié comme il suit:
-
-...
-
-### 11.4 Entrée en vigueur et publication
-
-#### Art. 104
-
-<sup>1</sup> Le présent règlement entre en vigueur le 1<sup>er</sup> septembre 1995.
-
-<sup>2</sup> Il est publié dans la Feuille officielle, inséré dans le Bulletin des lois et imprimé en livrets.
-
-BL/AGS 1995 f 266 / d 267
+2021\_056

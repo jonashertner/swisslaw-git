@@ -4,13 +4,13 @@ number: "412.0.11"
 title: Reglement über den Mittelschulunterricht
 short: MSR
 language: de
-version: 2014-01-01
-valid_until: 2021-07-31
-version_adopted: 2013-08-27
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-05-26
 adopted: 2021-05-26
 in_force: 2021-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6370/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6840/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,403 +21,657 @@ Mittelschulunterricht – R
 
 (MSR)
 
-vom 27.06.1995 (Fassung in Kraft getreten am 01.01.2014)
+vom 26.05.2021 (Fassung in Kraft getreten am 01.08.2021)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf das Gesetz vom 11. April 1991 über den Mittelschulunterricht (MSG);
-
-in Erwägung:
-
-...
-
-Auf Antrag der Direktion für Erziehung und kulturelle Angelegenheiten,
+gestützt auf das Gesetz vom 11. Dezember 2018 über den Mittelschulunterricht (MSG);
 
 beschliesst:
 
-## 1 Gliederung des Unterrichts
-
-### 1.1 Gymnasialausbildung (Art. 9, 10 und 17 MSG)
+## 1 Geltungsbereich
 
 #### Art. 1
 
-**Gymnasialer Maturitätsausweis**
+**Geltungsbereich**
 
-<sup>1</sup> Die Gymnasialausbildung bereitet gemäss der Gesetzgebung des Bundes über die Anerkennung der Maturitätsausweise auf die Erlangung des Maturitätsausweises vor.
+<sup>1</sup> Dieses Reglement enthält die allgemeinen Ausführungsbestimmungen zum Gesetz über den Mittelschulunterricht.
 
-<sup>2</sup> …
+<sup>2</sup> Vorbehalten bleiben die besonderen Bestimmungen der Bildungsgänge.
 
-<sup>3</sup> …
+## 2 Gliederung des Unterrichts
+
+### 2.1 Ausbildungsgänge
 
 #### Art. 2
 
-**Modalitäten**
+**Gymnasialbildung (Art. 10 und 14 Abs. 1 MSG)**
 
-<sup>1</sup> Die Modalitäten und Bedingungen für die Maturitätsprüfungen werden in einem Reglement des Staatsrats festgelegt.
+<sup>1</sup> Die Gymnasialbildung bereitet entsprechend den bundesrechtlichen und interkantonalen Bestimmungen über die Anerkennung dieses Ausweises auf die Erlangung des gymnasialen Maturitätsausweises vor.
+
+<sup>2</sup> Die Organisation der Gymnasialbildung, namentlich die Gliederung des Unterrichts und die Promotionsbedingungen, werden vom Staatsrat näher ausgeführt.
 
 #### Art. 3
 
-**Organisation der Gymnasialausbildung**
+**Vollzeitliche Handelsschulausbildung (Art. 11 MSG)**
 
-<sup>1</sup> Die Organisation der Gymnasialausbildung wird in einem Reglement des Staatsrates näher ausgeführt, das insbesondere die Aufnahmebedingungen und die Verteilung der Schüler auf die Kollegien, den Lehrplan, die Beförderungsbedingungen und die Verhaltensregeln für die Schüler festlegt.
+<sup>1</sup> Die vollzeitliche Handelsschulausbildung bereitet entsprechend den Bestimmungen des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) sowie des Bundesgesetzes über die Berufsbildung (BBG) auf die Erlangung des eidgenössischen Fähigkeitszeugnisses als Kauffrau/Kaufmann sowie auf die kaufmännische Berufsmaturität vor.
 
-<sup>2</sup> Dieses Reglement ist subsidiär auf die Gymnasialausbildung anwendbar.
+<sup>2</sup> Die Organisation der vollzeitlichen Handelsschulausbildung, namentlich die Dauer, die Gliederung des Unterrichts und die Promotionsbedingungen, werden vom Staatsrat näher ausgeführt.
+
+<sup>3</sup> Das eidgenössische Fähigkeitszeugnis sowie der eidgenössische Berufsmaturausweis dürfen von den vom SBFI anerkannten öffentlichen Handelsmittelschulen des Kollegiums Gambach und des Kollegiums des Südens ausgestellt werden.
 
 #### Art. 4
 
-**Dauer (Art. 17 MSG)**
+**Fachmittelschulausbildung (Art. 12 MSG)**
 
-<sup>1</sup> Die an den kantonalen Kollegien erteilte Gymnasialausbildung dauert vier Jahre.
+<sup>1</sup> Die Fachmittelschulausbildung bereitet entsprechend den interkantonalen Bestimmungen über die Anerkennung dieser Ausweise auf die Erlangung des Fachmittelschulausweises sowie des Fachmaturitätszeugnisses in den Berufsfeldern Gesundheit, Soziale Arbeit und Pädagogik vor.
 
-### 1.2 Lehrerbildung (Art. 11–13 und 17 MSG)
+<sup>2</sup> Die Organisation der Fachmittelschulausbildung, namentlich die Gliederung des Unterrichts und die Promotionsbedingungen, werden vom Staatsrat näher ausgeführt.
+
+<sup>3</sup> Die Ausbildung zum Fachmittelschulausweis dauert drei Jahre, diejenige zum Fachmaturitätszeugnis ein zusätzliches Jahr.
+
+<sup>4</sup> Die Fachmittelschulausbildung wird an der Fachmittelschule Freiburg (FMSF) und am Kollegium des Südens angeboten.
 
 #### Art. 5
 
-**Organisation der Pädagogischen Hochschule (Art. 12 Abs. 3 MSG)**
+**Zusätzliche Bildungsgänge (Art. 13 MSG)**
 
-<sup>1</sup> Die Organisation der Pädagogischen Hochschule wird in einem besonderen Reglement des Staatsrates geregelt, das insbesondere die interne Gliederung der Schule, die Beförderungsbedingungen und die Verhaltensregeln für die Schüler festlegt.
+<sup>1</sup> Die Passerelle Berufsmaturität/Fachmaturität – universitäre Hochschulen dauert ein Jahr.
+
+<sup>2</sup> Der Vorbereitungskurs zur Aufnahme zum Zulassungsverfahren der Pädagogischen Hochschule Freiburg (HEP-PH FR) dauert ein Jahr.
+
+<sup>3</sup> Die Organisation dieser Bildungsgänge, namentlich die Ausbildungsorte und die Gliederung des Unterrichts, sowie die Modalitäten und Bedingungen zur Erlangung der Ausweise werden vom Staatsrat näher ausgeführt.
+
+### 2.2 Förderung der Zweisprachigkeit (Art. 7 MSG)
 
 #### Art. 6
 
-**Dauer der Ausbildung (Art. 17 MSG) – Diplom für den Kindergartenunterricht**
+**Formen der Förderung der Zweisprachigkeit**
 
-<sup>1</sup> Das Diplom für den Kindergartenunterricht kann entweder nach einer vierjährigen Ausbildung im Anschluss an die Schulpflicht oder, für Inhaber eines Maturitätsausweises oder eines als gleichwertig anerkannten Ausweises, nach einer besonderen zweijährigen Ausbildung erlangt werden.
+<sup>1</sup> Die Schulen fördern die Zusammenarbeit und den Austausch zwischen den Sprachgemeinschaften des Kantons und die Zweisprachigkeit ihrer Schülerinnen und Schüler sowie ihres Personals.
+
+<sup>2</sup> Die Massnahmen zur Förderung der Zweisprachigkeit können namentlich folgende Formen annehmen:
+
+- a) Zusammenarbeit unter den Schulen und den Sprachabteilungen,
+- b) gemeinsame Lektionen oder vollständige Immersion,
+- c) Besuch von Wahlfächern in der Partnersprache,
+- d) gemeinsame kulturelle und sportliche Aktivitäten oder solche in der Partnersprache,
+- e) zweisprachige Klassen,
+- f) Sprach- und Kulturaustausche.
 
 #### Art. 7
 
-**Dauer der Ausbildung (Art. 17 MSG) – Diplom für den Primarschulunterricht**
+**Zweisprachige Klassen**
 
-<sup>1</sup> Das Diplom für den Primarschulunterricht kann entweder nach einer fünfjährigen Ausbildung im Anschluss an die Schulpflicht oder, für Inhaber eines Maturitätsausweises oder eines als gleichwertig anerkannten Ausweises, nach einer besonderen zweijährigen Ausbildung erlangt werden.
+<sup>1</sup> Zweisprachige Klassen können nach Massgabe der Sprachkompetenzen der Schülerinnen und Schüler gebildet werden.
+
+<sup>2</sup> Die Anmeldung in einer zweisprachigen Klasse ist für die Schülerinnen und Schüler freiwillig.
+
+<sup>3</sup> Der erfolgreiche Abschluss einer zweisprachigen Ausbildung ermöglicht den Erwerb eines zweisprachigen Ausweises.
+
+<sup>4</sup> Die Zulassungsbedingungen und die Organisation dieser Klassen werden von der Direktion für Erziehung, Kultur und Sport (EKSD) näher ausgeführt.
 
 #### Art. 8
 
-**Dauer der Ausbildung (Art. 17 MSG) – Diplom für den Hauswirtschaftsunterricht**
+**Sprach- und Kulturaustausche**
 
-<sup>1</sup> Das Diplom für den Hauswirtschafts- und den Handarbeitsunterricht kann entweder nach einer fünfjährigen Ausbildung im Anschluss an die Schulpflicht oder, für Inhaber eines Maturitätsausweises oder eines als gleichwertig anerkannten Ausweises, nach einer besonderen zweijährigen Ausbildung erlangt werden.
+<sup>1</sup> Erfolgt der Sprach- und Kulturaustausch in Form eines Aufenthalts inner- oder ausserhalb der Schweiz, darf die Aufenthaltsdauer nicht länger als zwei Semester betragen. Die damit verbundenen Kosten, insbesondere die Unterkunfts-, die Verpflegungs- und die Transportkosten, tragen die Eltern.
+
+<sup>2</sup> Die Schuldirektorin oder der Schuldirektor genehmigt den Aufenthalt, entsprechend den von der EKSD erlassenen Bestimmungen.
+
+## 3 Allgemeiner Schulbetrieb
+
+### 3.1 Schuljahr (Art. 15 MSG)
 
 #### Art. 9
-
-**Dauer der Ausbildung (Art. 17 MSG) – Sonderfälle**
-
-<sup>1</sup> Während der Ausbildung können Schüler zur Lehrerbildung zugelassen werden, die einen anderen als den in den Artikeln 6, 7 und 8 erwähnten Mittelschulausweis besitzen oder die eine andere Vorbildung haben; ihre Fähigkeiten und Kenntnisse werden bei der Aufnahme von Fall zu Fall geprüft, und die Dauer ihrer Ausbildung wird vom Schuldirektor oder vom Studiendirektor entsprechend dem Ergebnis festgelegt.
-
-### 1.3 Handelsausbildung (Art. 14 und 17 MSG)
-
-#### Art. 10
-
-**Organisation der Ausbildung (Art. 14 MSG)**
-
-<sup>1</sup> Die Handelsausbildung wird entsprechend den Bestimmungen aufgebaut, die das Bundesamt für Berufsbildung und Technologie (BBT)in Anwendung des Bundesgesetzes über die Berufsbildung erlassen hat.
-
-#### Art. 11
-
-**Dauer (Art. 17 MSG)**
-
-<sup>1</sup> Die Handelsausbildung dauert sowohl für das Handelsdiplom wie für die kaufmännische Berufsmaturität mindestens drei Jahre.
-
-#### Art. 12
-
-**Handelsschulen**
-
-<sup>1</sup> Die Handelsdiplome und die Ausweise für die kaufmännische Berufsmaturität dürfen von den öffentlichen und vom BBT anerkannten Handelsschulen des Kollegiums Gambach und des Kollegiums des Südens ausgestellt werden.
-
-<sup>2</sup> Privatschulen dürfen Handelsdiplome ausstellen, wenn sie von der Direktion für Erziehung, Kultur und Sport (die EKSD) und vom BBT anerkannt wurden.
-
-<sup>3</sup> Ausweise für die kaufmännische Berufsmaturität dürfen nur ausgestellt werden, wenn das BBT die Schlussprüfungen anerkannt hat. Wird diese Anerkennung nicht erteilt, so erhalten die Kandidaten ein Handelsdiplom zu den Bedingungen der Erlangung dieses Diploms.
-
-### 1.4 Allgemeine Vorbereitungsausbildung (Art. 15 und 17 MSG)
-
-#### Art. 13
-
-**Mittelschulausweis (Art. 15 MSG)**
-
-<sup>1</sup> Der Mittelschulausweis ist der Nachweis über eine abgeschlossene Ausbildung, die auf verschiedene weiterführende Bildungsgänge wie für Berufe im Gesundheitswesen und einige naturwissenschaftliche und sozial-erzieherische Berufe vorbereitet.
-
-#### Art. 14
-
-**Organisation der Ausbildung (Art. 15 Abs. 2 MSG)**
-
-<sup>1</sup> Die Organisation der allgemeinen Vorbereitungsausbildung wird in einem besonderen Reglement der EKSD geregelt, das insbesondere die interne Gliederung der Schule, die Beförderungsbedingungen und die Verhaltensregeln für die Schüler festlegt.
-
-<sup>2</sup> Die allgemeine Vorbereitungsausbildung wird aufgrund des Programms und der Anforderungen gemäss dem Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) vom 12. Juni 2003 über die Anerkennung der Abschlüsse von Fachmittelschulen erteilt.
-
-#### Art. 15
-
-**Aufteilung der Fachmittelschulklassen (Art. 3 Abs. 2 und 15 Abs. 3 MSG)**
-
-<sup>1</sup> Die Fachmittelschulausbildung wird an der Kantonalen Fachmittelschule Freiburg (FMSF) und am Kollegium des Südens angeboten.
-
-#### Art. 16
-
-**Dauer (Art. 17 MSG)**
-
-<sup>1</sup> Die allgemeine Vorbereitungsausbildung dauert drei Jahre.
-
-### 1.5 Weitere Befugnisse der Schulen, zusätzliche Bildungsgänge (Art. 8, 13, 16 und 17 MSG)
-
-#### Art. 17
-
-**Grundsatz**
-
-<sup>1</sup> Weitere Bildungsgänge können je nach den spezifischen Bedürfnissen, insbesondere der Erwachsenen, und der Anzahl interessierter Kandidaten angeboten werden, zum Beispiel in den Bereichen des Unterrichts und des Handels sowie in bestimmten sozialen Tätigkeiten und im medizinisch-technischen Sektor.
-
-#### Art. 18
-
-**…**
-
-#### Art. 19
-
-**Sekretariatskurs (Art. 16 und 17 MSG)**
-
-<sup>1</sup> Bei ausreichender Kandidatenzahl wird am Kollegium Gambach ein einjähriger Sekretariatskurs durchgeführt, der mit einem kantonalen Sekretariatsdiplom abschliesst. Dieser Bildungsgang wird durch besondere Bestimmungen des Staatsrats geregelt.
-
-### 1.6 Förderung der Zweisprachigkeit (Art. 5 und 7 MSG)
-
-#### Art. 20
-
-**Anwendung**
-
-<sup>1</sup> Die Schuldirektion und die Lehrkräfte sorgen dafür, dass die Kenntnisse der beiden Amtssprachen des Kantons und das Interesse an der Kultur jedes Kantonsteils gefördert werden.
-
-<sup>2</sup> In den Schulen mit zwei sprachlichen Abteilungen fördern die Schuldirektion und die Lehrer den sprachlichen und kulturellen Austausch insbesondere durch gemeinsamen Unterricht, durch die Schaffung von Begegnungsorten sowie durch gemeinsame künstlerische und sportliche Veranstaltungen.
-
-## 2 Allgemeiner Schulbetrieb
-
-### 2.1 Schuljahr (Art. 18 MSG)
-
-#### Art. 21
 
 **Schulkalender**
 
 <sup>1</sup> Im Schulkalender werden der Anfang und das Ende des Schuljahres, die Schulferien und allfällige besondere Veranstaltungen festgelegt.
 
-<sup>2</sup> Die EKSD sorgt für die Koordination des Schulkalenders der Mittelschulen mit denjenigen der anderen Unterrichtsstufen gemäss den diesbezüglichen gesetzlichen und reglementarischen Bestimmungen.
+<sup>2</sup> Die EKSD sorgt gemäss den diesbezüglichen gesetzlichen und reglementarischen Bestimmungen für die Koordination des Schulkalenders der Mittelschulen mit denjenigen der anderen Bildungsstufen.
 
-#### Art. 22
+#### Art. 10
 
 **Zahl und Dauer der Lektionen**
 
-<sup>1</sup> Die EKSD legt die Zahl der wöchentlichen Lektionen für jeden Bildungsgang im Rahmen der Lehrpläne fest.
+<sup>1</sup> Die EKSD legt die Anzahl der wöchentlichen Lektionen für jeden Bildungsgang nach Massgabe seines Lehrplans fest.
 
 <sup>2</sup> Eine Lektion dauert 50 Minuten einschliesslich Klassenzimmerwechsel. Die EKSD kann Ausnahmen bewilligen.
 
-#### Art. 23
+#### Art. 11
 
 **Andere Unterrichtsformen**
 
-<sup>1</sup> Die Lehrpläne und der Schulkalender legen ausserdem die Zahl und die Dauer der Praktika sowie die Studienwochen und die Sportlager je nach den Anforderungen des jeweiligen Bildungsganges fest.
+<sup>1</sup> Der Direktionsrat kann einen Unterricht namentlich in Form von Themen- oder Projekttagen, kulturellen oder sportlichen Aktivitäten oder Studienreisen vorsehen. Diese Aktivitäten müssen Ziele verfolgen, die einen Bezug zu den Lehrplänen aufweisen.
 
-### 2.2 Sonderurlaube und unvorhergesehene Absenzen (Art. 19 MSG)
+<sup>2</sup> Besondere Aufmerksamkeit wird dabei dem Betreuungsverhältnis und der Sicherheit der Schülerinnen und Schüler sowie der Nachhaltigkeit gewidmet.
 
-#### Art. 24
+<sup>3</sup> Die Eltern minderjähriger Schülerinnen und Schüler werden über die schulischen Aktivitäten ausserhalb des Stundenplans informiert.
 
-**Urlaub für eine Klasse**
+<sup>4</sup> Sämtliche Schülerinnen und Schüler nehmen daran teil, es sei denn, die Schuldirektorin oder der Schuldirektor gewährt aus stichhaltigen Gründen eine individuelle Dispens.
 
-<sup>1</sup> Der Direktor kann einer Klasse einen Urlaub von bis zu einem Tag gewähren, wenn ausserordentliche und unvorhergesehene Umstände dies rechtfertigen.
+### 3.2 Urlaube und unvorhergesehene Absenzen (Art. 16 MSG)
 
-<sup>2</sup> Die Gewährung eines Klassenurlaubs aus einem anderen Grund oder für mehr als einen Tag sowie die Urlaubsgewährung für eine ganze Schule oder mehrere Schulen sind Sache der EKSD. Die EKSD entscheidet auf Antrag des Direktors.
+#### Art. 12
 
-#### Art. 25
+**Urlaub für eine Klasse oder eine Schule**
 
-**Dispensierung und Beurlaubung eines Schülers**
+<sup>1</sup> Die Schuldirektorin oder der Schuldirektor kann einer Klasse einen Urlaub von bis zu einem Tag pro Jahr gewähren, wenn ausserordentliche und unvorhergesehene Umstände dies rechtfertigen.
 
-<sup>1</sup> Der Direktor kann den Schüler von der Pflicht, den Unterricht gemäss dem Lehrplan zu besuchen, entweder durch Dispensierungen oder Beurlaubungen befreien, jedoch nur so weit, als dies der Ausbildung des Schülers nicht schadet.
+<sup>2</sup> Die Gewährung eines Klassenurlaubs für jeden anderen Grund oder für mehr als einen Tag und die Urlaubsgewährung für eine ganze Schule oder mehrere Schulen liegen in der Kompetenz der EKSD. Diese entscheidet auf Antrag der Schuldirektorin oder des Schuldirektors.
 
-<sup>2</sup> Der Direktor kann einem Schüler einen Urlaub von bis zu vierzehn Tagen pro Jahr bewilligen; für die Gewährung von längeren Urlauben ist die EKSD zuständig.
+<sup>3</sup> Die Schuldirektorin oder der Schuldirektor kann während der Schulzeit für sämtliche Lehrpersonen einen pädagogischen Weiterbildungstag oder zwei Halbtage pro Schuljahr organisieren. Die Schülerinnen und Schüler haben in dieser Zeit schulfrei. Die Schuldirektorin oder der Schuldirektor legt der EKSD die Daten und den Inhalt der Weiterbildung zur Genehmigung vor. Zusätzliche Weiterbildungstage finden ausserhalb der Schulzeit statt.
 
-<sup>3</sup> Das begründete Dispens- oder Urlaubsgesuch ist im voraus schriftlich einzureichen und von den Eltern oder, wenn der Schüler volljährig ist, von ihm selber zu unterzeichnen.
+#### Art. 13
 
-#### Art. 26
+**Urlaub für eine Schülerin oder einen Schüler**
 
-**Unvorhergesehene Absenzen – Im Allgemeinen**
+<sup>1</sup> Einer Schülerin oder einem Schüler kann ein Urlaub gewährt werden, wenn stichhaltige Gründe vorliegen. Berücksichtigt werden dabei nur hinreichend nachgewiesene Gründe, die in Ausnahmefällen Vorrang vor der Pflicht zum Besuch aller Lektionen haben können.
 
-<sup>1</sup> Bei unvorhergesehener Absenz eines Schülers, insbesondere bei Krankheit oder Unfall, benachrichtigen die Eltern oder der Schüler sofort die Schuldirektion gemäss den Bestimmungen des internen Reglements und geben den Grund der Absenz an.
+<sup>2</sup> Das Urlaubsgesuch muss rechtzeitig im Voraus in schriftlicher Form bei der zuständigen Stelle eingereicht werden. Das begründete Gesuch wird gegebenenfalls mit Unterlagen belegt und von den Eltern oder der volljährigen Schülerin oder dem volljährigen Schüler unterzeichnet.
 
-<sup>2</sup> Der Fachlehrer oder der Klassenlehrer informiert die Direktion unverzüglich über eine nicht gemeldete Absenz.
+<sup>3</sup> Zuständig für die Gewährung eines Urlaubs für eine Schülerin oder einen Schüler sind in den Grenzen der Schulordnung:
 
-<sup>3</sup> Im Falle einer nicht gemeldeten Absenz nimmt die Direktion sofort mit dem Schüler oder den Eltern Kontakt auf, um die Gründe der Absenz zu erfahren.
+- a) bis zu einem Tag pro Urlaubsgesuch: die Klassenlehrperson,
+- b) bis drei Tage pro Urlaubsgesuch: die Vorsteherin oder der Vorsteher,
+- c) bis 20 Tage pro Schuljahr: die Schuldirektorin oder der Schuldirektor.
 
-#### Art. 27
+<sup>4</sup> Der Entscheid wird den Eltern oder der volljährigen Schülerin oder dem volljährigen Schüler und den betroffenen Lehrpersonen schriftlich mitgeteilt.
 
-**Unvorhergesehene Absenzen – Schriftliche Entschuldigung**
+#### Art. 14
 
-<sup>1</sup> Die Schuldirektion kann eine schriftliche Entschuldigung verlangen.
+**Langzeiturlaub für eine Schülerin oder einen Schüler**
 
-<sup>2</sup> Die Eltern oder der volljährige Schüler müssen eine Absenz wegen Krankheit oder Unfall durch ein Arztzeugnis belegen, wenn sie länger als fünf Schultage dauert.
+<sup>1</sup> Möchte eine Schülerin oder ein Schüler die Ausbildung in der Absicht unterbrechen, diese zu einem späteren Zeitpunkt wieder aufzunehmen, kann sie oder er ein Gesuch für Langzeiturlaub stellen, sofern stichhaltige Gründe vorliegen. Die Schuldirektorin oder der Schuldirektor gewährt nach Stellungnahme der Vorsteherin oder des Vorstehers den Langzeiturlaub.
 
-#### Art. 28
+<sup>2</sup> Der Langzeiturlaub wird in der Regel bis zum Ende des Schuljahres gewährt. Die gesamte Urlaubsdauer darf zwei Jahre nicht überschreiten.
+
+<sup>3</sup> Die Gewährung eines Langzeiturlaubs hat zur Folge, dass das Schuljahr nicht anerkannt wird. Er bleibt jedoch ohne Auswirkungen auf die Wiederholungsmöglichkeiten.
+
+#### Art. 15
+
+**Absenzen – Kontrolle**
+
+<sup>1</sup> Die Lehrpersonen kontrollieren die Absenzen der Schülerinnen und Schüler und erfassen diese entsprechend den allgemeinen Vorgaben der Konferenz der Schuldirektorinnen und Schuldirektoren der Mittelschulen (Schuldirektorenkonferenz).
+
+#### Art. 16
+
+**Absenzen – Unvorhergesehene Absenzen**
+
+<sup>1</sup> Bei unvorhergesehener Absenz einer Schülerin oder eines Schülers, insbesondere bei Krankheit oder Unfall, benachrichtigen die Eltern respektive die volljährige Schülerin oder der volljährige Schüler nach den in der Schulordnung vorgesehenen Modalitäten die Schule und geben den Grund der Absenz an.
+
+#### Art. 17
+
+**Absenzen – Schriftliche Entschuldigung**
+
+<sup>1</sup> Eine Absenz wegen Krankheit oder Unfall muss ab dem vierten Abwesenheitstag, Wochenenden und Feiertage nicht eingerechnet, mit einem ärztlichen Zeugnis belegt werden. Gleiches gilt bei wiederholten Absenzen.
+
+<sup>2</sup> Wird aus gesundheitlichen Gründen um einen Dispens für ein bestimmtes Fach oder eine schulische Aktivität ersucht, so muss ein ärztliches Zeugnis vorgelegt werden.
+
+<sup>3</sup> Bei Absenzen aus anderen Gründen können andere schriftliche Bescheinigungen verlangt werden.
+
+#### Art. 18
 
 **Nachholpflicht**
 
-<sup>1</sup> Der Schüler muss im Einvernehmen mit den betreffenden Lehrern die nötigen Vorkehrungen treffen, um den durch die Absenzen entstandenen Rückstand aufzuholen.
+<sup>1</sup> Die Schülerin oder der Schüler muss die notwendigen Vorkehrungen treffen, um die durch die Absenzen entstanden Lücken aufzuarbeiten. Dazu erkundigt sie oder er sich bei den betroffenen Lehrpersonen. Die Schülerin oder der Schüler holt den Unterrichtsstoff und grundsätzlich alle verpassten Prüfungen nach. Artikel 78 bleibt vorbehalten.
 
-### 2.3 Lehrplan (Art. 20 MSG)
+#### Art. 19
 
-#### Art. 29
+**Wiederholte Absenzen**
+
+<sup>1</sup> Sind die Absenzen einer Schülerin oder eines Schülers so zahlreich oder dauern so lange, dass kein regelmässiger Schulbesuch mehr vorliegt, kann die Schuldirektorin oder der Schuldirektor, nach Rücksprache mit dem Direktionsrat und den Lehrpersonen der Klasse, die Promotion verweigern.
+
+<sup>2</sup> Unter denselben Voraussetzungen wie Absatz 1 kann der Prüfungsausschuss die Zulassung zu den Abschlussprüfungen verweigern.
+
+<sup>3</sup> Nicht berücksichtigt werden dabei die Absenzen im Sinne von Artikel 54.
+
+<sup>4</sup> Die Schuldirektorenkonferenz kann eine Mindestpräsenzzeit festlegen.
+
+### 3.3 Lehrplan (Art. 17 MSG)
+
+#### Art. 20
 
 **Inhalt**
 
-<sup>1</sup> Für jeden Bildungsgang erlässt die EKSD einen Lehrplan. Den Entwurf dazu erstellen die einzelnen Schulen. Dieser Plan legt insbesondere fest:
+<sup>1</sup> Für jeden Bildungsgang erlässt die EKSD, auf Empfehlung der Schuldirektorenkonferenz und der Fachschaften, einen kantonalen Lehrplan. Dieser legt insbesondere Folgendes fest:
 
-- a) die Ziele und das Programm der einzelnen Fächer;
-- b) die offiziellen Lehrbücher und die Unterrichtsmittel;
-- c) die Weisungen für die Bewertung und die Mitteilung der schulischen Ergebnisse;
+- a) die zu erreichenden Ziele und Kompetenzen sowie die zu behandelnden Inhalte,
+- b) die allfälligen offiziellen Lehrmittel,
+- c) die methodologischen und didaktischen Hinweise,
 - d) die Stundentafel.
 
-### 2.4 Klassenbestände (Art. 23 MSG)
+### 3.4 Abschlussprüfungen (Art. 18 MSG)
 
-#### Art. 30
+#### Art. 21
 
-**Grundsatz**
+**Bedingungen für die Erlangung der Ausweise**
 
-<sup>1</sup> Eine Mittelschulklasse hat mindestens 14 und höchstes 27 Schüler.
+<sup>1</sup> Der Staatsrat erlässt für jeden Bildungsgang an einer Mittelschule ein Reglement mit den Bestehensnormen und den Voraussetzungen für die Erlangung der folgenden Ausweise:
 
-#### Art. 31
+- a) gymnasialer Maturitätsausweis,
+- b) eidgenössisches Fähigkeitszeugnis als Kauffrau/Kaufmann und eidgenössischer kaufmännischer Berufsmaturitätsausweis,
+- c) Fachmittelschulausweis und Fachmaturitätszeugnis,
+- d) Ausweis über die Ergänzungsprüfung Passerelle Berufsmaturität/Fachmaturität – universitäre Hochschulen,
+- e) Bestätigung über die Ergänzungsprüfung, welche die Zulassung zum Aufnahmeverfahren an die HEP-PH FR ermöglicht.
+
+<sup>2</sup> Die Bestimmungen über weitere Ausweise nach Artikel 8 MSG bleiben vorbehalten.
+
+### 3.5 Qualität und Schulentwicklung (Art. 20 und 21 MSG)
+
+#### Art. 22
+
+**Massnahmen zur Qualitätssicherung und -entwicklung**
+
+<sup>1</sup> Alle Akteure der Schule tragen im Rahmen ihrer Rechte und Pflichten zur Qualitätssicherung bei.
+
+<sup>2</sup> Die Lehrperson stellt bei der Wissensvermittlung und bei der Pädagogik und Methodik eine hohe Unterrichtsqualität sicher. Sie arbeitet in konstruktiver Weise mit dem Direktionsrat und den Fachschaften zusammen. Sie ist für die eigene Weiterbildung verantwortlich. Sie berücksichtigt insbesondere Rückmeldungen des Direktionsrates, von Schülerinnen und Schülern und von Kolleginnen und Kollegen.
+
+<sup>3</sup> Der Direktionsrat fördert die Selbstbeurteilung in der Schule, führt die Mitarbeitergespräche mit dem Lehrpersonal durch und sorgt für eine kritische Betrachtung von aussen.
+
+<sup>4</sup> Die Schuldirektorenkonferenz sorgt für die Qualität der Ausbildung, indem sie den regelmässigen Austausch in und zwischen den Mittelschulen, den Hochschulen und der obligatorischen Schule fördert und in verschiedenen nationalen Arbeitsgruppen mitwirkt.
+
+<sup>5</sup> Die EKSD erarbeitet ein Konzept zur Qualitätssicherung und ‑entwicklung und sorgt für ein Monitoring mit quantitativen und qualitativen Indikatoren, mit denen die Ausbildung beobachtet, analysiert und gesteuert werden kann.
+
+#### Art. 23
+
+**Pädagogische Projekte (Art. 21 MSG)**
+
+<sup>1</sup> Als pädagogisches Projekt gilt ein Projekt, dessen Zielsetzung mit den Zielen der Lehrpläne im Einklang steht und das zu deren Erreichung beiträgt oder in organisatorischer, pädagogisch-didaktischer oder erzieherischer Hinsicht einen Beitrag zur Schulentwicklung leistet. Das Projekt kann eine Gruppe von Schülerinnen und Schülern und eine oder mehrere Schulen betreffen.
+
+<sup>2</sup> Das Projekt wird der Schuldirektorin oder dem Schuldirektor unterbreitet, mit Angabe der Ziele, der mitwirkenden Personen, der benötigten Mittel, der Dauer, der erwarteten Auswirkungen sowie der Modalitäten für die Evaluation und die Kommunikation. Die Umsetzung des Projekts darf erst beginnen, wenn die Schuldirektorin oder der Schuldirektor die Genehmigung erteilt hat.
+
+<sup>3</sup> Die Schulkommission wird über die Durchführung wichtiger Projekte informiert.
+
+### 3.6 Klassenbestände (Art. 23 MSG)
+
+#### Art. 24
+
+**Grundsätze**
+
+<sup>1</sup> Der angestrebte durchschnittliche Klassenbestand einer Mittelschule beträgt 22 Schülerinnen und Schüler.
+
+<sup>2</sup> Eine Mittelschulklasse hat mindestens 14 und höchstens 27 Schülerinnen und Schüler.
+
+<sup>3</sup> Jede Schülerin oder jeder Schüler mit einer IV-Massnahme zählt in der betreffenden Klasse dreifach.
+
+#### Art. 25
 
 **Abweichungen**
 
 <sup>1</sup> Vom Mindest- oder Höchstbestand kann abgewichen werden, wenn besondere Umstände diese Massnahme rechtfertigen, insbesondere wenn:
 
-- a) es sich um eine vorübergehende Situation für ein Schuljahr handelt;
-- b) sich der Bestand einer Klasse im Laufe des Schuljahres in den üblichen Grenzen verändert.
+- a) es sich um eine vorübergehende Situation für ein Schuljahr handelt,
+- b) sich der Bestand einer Klasse im Laufe des Schuljahres in zumutbaren Grenzen verändert.
 
 <sup>2</sup> Im Weiteren kann vom Mindestbestand unter dem Vorbehalt von noch tolerierbaren Klassengrössen abgewichen werden, wenn:
 
-- a) die betreffende Klasse auf ihrer Stufe die einzige des Bildungsgangs ist;
-- b) die betreffende Klasse eine Klasse der obersten Stufe ist und soweit ihre Zusammensetzung wegen der Ausbildungsorganisation und den Schlussprüfungen die gleiche wie die des Vorjahres sein muss.
+- a) ein gleichwertiges Ausbildungsangebot für beide Sprachgemeinschaften des Kantons garantiert werden soll,
+- b) die betreffende Klasse auf ihrer Stufe die einzige des Bildungsgangs ist,
+- c) die betreffende Klasse eine Klasse der obersten Stufe ist und ihre Zusammensetzung wegen der Ausbildungsorganisation und den Abschlussprüfungen gleich wie im Vorjahr sein muss.
 
-#### Art. 32
+#### Art. 26
 
-**Teilung oder Zusammenlegung von Klassen für bestimmte Lektionen**
+**Wahlfächer, spezifische Fächer und Freifächer**
 
-<sup>1</sup> Für bestimmte Lektionen kann eine Klasse mit hohem Bestand geteilt werden. Zwei Klassen mit kleinem Bestand können zusammengelegt werden; die Grundzusammensetzung dieser Klassen ist jedoch beizubehalten.
+<sup>1</sup> Der Schülerbestand für die Wahlfächer, die spezifischen Fächer und die Freifächer muss mindestens 12 Schülerinnen und Schüler betragen. Insgesamt müssen sämtliche dieser an der Schule unterrichteten Fächer im Durchschnitt von 16 Schülerinnen und Schülern besucht werden.
 
-#### Art. 33
+<sup>2</sup> Der Schülerbestand für die Schwerpunkt- und Ergänzungsfächer muss mindestens 12 Schülerinnen und Schüler betragen. Insgesamt müssen alle diese Fächer an den Gymnasien im Durchschnitt von 17 Schülerinnen und Schülern besucht werden.
 
-**Wahlfächer, Freifächer und spezifische Fächer**
+<sup>3</sup> Die Fächer müssen entsprechend den Zielsetzungen der EKSD rationell organisiert werden. Sie sind wenn immer möglich innerhalb einer Schule oder zwischen Schulen zusammenzulegen.
 
-<sup>1</sup> Der Schülerbestand für die Wahlfächer, die Freifächer und die spezifischen Fächer muss mindestens 12 Schüler betragen. Insgesamt müssen sämtliche dieser an der Schule unterrichteten Fächer im Durchschnitt von 16 Schülern besucht werden.
+<sup>4</sup> Der Mindestbestand für diese Fächer kann jedoch herabgesetzt werden, wenn der Bildungsgang dies erfordert, insbesondere bei obligatorischen Fächern, die im übergeordneten Recht über die Ausweise vorgesehen sind. In diesem Fall muss die Zahl der in der Stundentafel vorgesehenen wöchentlichen Lektionen entsprechend herabgesetzt werden.
 
-<sup>2</sup> Der Schülerbestand für die Schwerpunkt- und Ergänzungsfächer gemäss MAR-95 muss mindestens 12 Schüler betragen. Insgesamt müssen alle diese Fächer an den Gymnasien im Durchschnitt von 16 Schülern besucht werden.
+<sup>5</sup> Vom durchschnittlichen Schülerbestand für die Schwerpunkt- und Ergänzungsfächer kann abgewichen werden, wenn ein gleichwertiges Ausbildungsangebot für beide Sprachgemeinschaften des Kantons garantiert werden soll.
 
-<sup>3</sup> Die Fächer müssen zweckmässig organisiert werden. Sie sind nach Möglichkeit innerhalb einer Schule oder zwischen Schulen zusammenzulegen.
-
-<sup>4</sup> Der Mindestbestand für diese Fächer kann jedoch herabgesetzt werden, wenn der Bildungsgang dies erfordert, insbesondere bei obligatorischen Fächern, die in der Reglementierung über die Maturitätsausweise oder in der Bundesgesetzgebung über die Berufsbildung vorgesehen sind. In diesem Fall muss die Zahl der in der Stundentafel vorgesehenen wöchentlichen Lektionen entsprechend herabgesetzt werden.
-
-#### Art. 34
+#### Art. 27
 
 **Zuständigkeit**
 
-<sup>1</sup> Die EKSD entscheidet auf Stellungnahme des Direktors jeweils im Juni für das folgende Schuljahr über die Schaffung, die Zusammenlegung, die Teilung, die Aufhebung oder die Beibehaltung von Klassen. Der Direktor muss seine Stellungnahme bis zum 31. Mai an die EKSD richten. Fristverlängerungen aufgrund besonderer Umstände bleiben vorbehalten.
+<sup>1</sup> Die ESKD entscheidet auf Stellungnahme der Schuldirektorin oder des Schuldirektors jeweils Ende Mai für das folgende Schuljahr über die Schaffung, die Aufhebung oder die Beibehaltung von Klassen. Die Schuldirektorin oder der Schuldirektor muss ihre oder seine Stellungnahme bis zum 15. Mai an die EKSD richten. Fristverlängerungen aufgrund besonderer Umstände bleiben vorbehalten.
 
-<sup>2</sup> Bei grösseren Veränderungen kann die Zusammensetzung der Klassen vor Schulbeginn und gegebenenfalls im Laufe des Schuljahres geändert werden.
+<sup>2</sup> Bei grösseren Veränderungen kann die Zusammensetzung und die Zahl der Klassen vor Schulbeginn und gegebenenfalls im Laufe des Schuljahres geändert werden.
 
-<sup>3</sup> Der Direktor entscheidet über die Durchführung der Wahl- und der Freifachkurse; Abweichungen vom Mindestbestand müssen allerdings zuvor der EKSD zur Bewilligung vorgelegt werden.
+<sup>3</sup> Die Schuldirektorin oder der Schuldirektor entscheidet über die Durchführung der Wahl- und der Freifachkurse; Abweichungen vom Mindestbestand müssen allerdings zuvor der EKSD zur Bewilligung vorgelegt werden.
 
-### 2.5 Schlussprüfungen (Art. 27 MSG)
+### 3.7 Allgemeine Schulbetriebsregeln
 
-#### Art. 35
+#### Art. 28
 
-**Bedingungen für die Erlangung der Diplome**
+**Schulordnung (Art. 27 MSG)**
 
-<sup>1</sup> Der Staatsrat erlässt für jeden Bildungsgang an einer Mittelschule ein Reglement mit den Vorschriften und Bedingungen für die Erlangung der folgenden Diplome und Ausweise:
+<sup>1</sup> Die Schuldirektorin oder der Schuldirektor erlässt in Zusammenarbeit mit den Lehrpersonen eine Schulordnung, in welcher der Schulbetrieb und die Schulhausregeln festgelegt werden.
 
-- a) gymnasialer Maturitätsausweis;
-- b) Lehrdiplome;
-- c) Fachmittelschulausweis;
-- d) Handelsdiplom;
-- e) kaufmännische Berufsmaturität.
+<sup>2</sup> Diese Schulordnung wird der Schulkommission, den Elternvereinen und dem Schülerrat zur Stellungnahme vorgelegt.
 
-<sup>2</sup> Die Bestimmungen für andere Diplome nach den Artikeln 8, 13 und 16 MSG bleiben vorbehalten.
+<sup>3</sup> Die Schulordnung wird auf der Website der Schule publiziert.
 
-### 2.6 Benützung der Schulräumlichkeiten durch Dritte (Art. 28 MSG)
+<sup>4</sup> Die Schülerinnen und Schüler, das gesamte Personal der Schule sowie die übrigen an der Schule tätigen Personen sind dieser Schulordnung unterstellt.
 
-#### Art. 36
+<sup>5</sup> Die Lehrpersonen sorgen dafür, dass die Schulordnung in ihren Klassen und in der Schule eingehalten wird. Ihre Zuständigkeit erstreckt sich auf sämtliche Schülerinnen und Schüler der Schule.
+
+#### Art. 29
+
+**Mitwirkung von Dritten in der Schule**
+
+<sup>1</sup> Mit Ausnahme des Schulpersonals und der Studierenden, die ein Praktikum absolvieren, müssen Personen, die für die Schülerinnen und Schüler punktuelle Leistungen erbringen sollen, vorab die Zustimmung der Schuldirektorin oder des Schuldirektors einholen; diese oder dieser prüft, ob deren Mitwirkung zweckmässig ist.
+
+<sup>2</sup> Die Mitwirkung muss den Aufgaben und Zielen der Ausbildung entsprechen.
+
+<sup>3</sup> Bestehen Zweifel an der Zweckmässigkeit oder Qualität einer Mitwirkung oder findet die Mitwirkung regelmässig statt, so leitet die Schuldirektorin oder der Schuldirektor das Gesuch an das Amt für Unterricht der Sekundarstufe 2 (das Amt) weiter.
+
+<sup>4</sup> Vorbehalten bleibt das Genehmigungsverfahren nach Artikel 8 des Reglements vom 14. Juni 2004 über Gesundheitsförderung und Prävention.
+
+#### Art. 30
+
+**Zusammenarbeit mit dem privaten Sektor**
+
+<sup>1</sup> Besondere Aktivitäten oder Projekte können von Dritten unter der Bedingung unterstützt werden, dass diese Unterstützung dem Ansehen der Schule sowie ihren Aufgaben und Zielen nicht schadet.
+
+<sup>2</sup> Die EKSD erlässt Bestimmungen für die Mittelbeschaffung, das Sponsoring und andere Formen der Zusammenarbeit mit dem privaten Sektor.
+
+#### Art. 31
+
+**Sicherheitsmassnahmen**
+
+<sup>1</sup> Im Notfall müssen die Schülerinnen und die Schüler sowie das Personal der Schule in der Lage sein, adäquat zu reagieren. Zu diesem Zweck erarbeitet die Schuldirektorin oder der Schuldirektor ein Verfahren, das die Sicherheit der Schülerinnen und Schüler sowie des Schulpersonals gewährleistet.
+
+### 3.8 Benützung der Schulräumlichkeiten durch Dritte (Art. 26 MSG)
+
+#### Art. 32
 
 **Grundsätze**
 
-<sup>1</sup> Die Räumlichkeiten, Anlagen und Einrichtungen der Schulen sind hauptsächlich für den Unterricht bestimmt.
+<sup>1</sup> Während der Schulzeit sind die Räumlichkeiten, Anlagen und Einrichtungen der Schulen den Schülerinnen und Schülern, dem Personal der Schule und anderen berechtigten Personen vorbehalten.
 
-<sup>2</sup> Sie können im Rahmen von kulturellen, sportlichen, Vereins- oder Privatanlässen Dritten zur Verfügung gestellt werden, wenn dies für die Schule keine Störung bedeutet.
+<sup>2</sup> Die Schuldirektorin oder der Schuldirektor kann, unter Androhung einer Strafanzeige, allen Personen, die den Unterricht oder den Schulbetrieb stören, den Zugang zum Schulgelände untersagen (Art. 83 MSG).
 
-#### Art. 37
+<sup>3</sup> Die Schulräumlichkeiten können im Rahmen von kulturellen, sportlichen, Vereins- oder Privatanlässen Dritten zur Verfügung gestellt werden, wenn dies den Schulbetrieb nicht stört.
+
+#### Art. 33
 
 **Bedingungen für die Bewilligung**
 
-<sup>1</sup> Auf schriftliches Gesuch hin erteilt die Schuldirektion die Bewilligung, wenn die verfolgten Ziele dem Schulzweck nicht zuwiderlaufen und die Verantwortlichkeiten der Benützer klar definiert sind.
+<sup>1</sup> Auf schriftliches Gesuch hin erteilt die Schuldirektorin oder der Schuldirektor die Bewilligung, wenn die verfolgten Ziele dem Schulzweck nicht zuwiderlaufen und die Verantwortlichkeiten der Drittnutzerinnen und Drittnutzer klar definiert sind.
 
-<sup>2</sup> Insbesondere wenn die Räumlichkeiten regelmässig benützt werden, können zwischen den Schuldirektionen und Dritten Vereinbarungen getroffen werden. Diese unterliegen der Bewilligung durch die EKSD.
+<sup>2</sup> Insbesondere können, wenn die Räumlichkeiten regelmässig von Dritten genutzt werden, zwischen der Schuldirektorin oder dem Schuldirektor und Dritten besondere Vereinbarungen getroffen werden. Diese unterliegen der Genehmigung durch die EKSD.
 
-#### Art. 38
+#### Art. 34
 
-**Gebühren**
+**Benützungsgebühren**
 
-<sup>1</sup> Für jede Benützung erhebt die Schuldirektion eine Gebühr, die jährlich der Teuerung angepasst wird.
+<sup>1</sup> Für jede Benützung erhebt die Schuldirektion eine Gebühr, die jährlich der Teuerung angepasst wird. Die Bestimmungen der Spezialgesetzgebung bleiben vorbehalten.
 
-#### Art. 39
+#### Art. 35
 
 **Tarife und Weisungen**
 
-<sup>1</sup> Die EKSD legt zusammen mit dem Hochbauamt die Gebührentarife und Weisungen für die Benützung der Schulräumlichkeiten durch Dritte fest.
+<sup>1</sup> Die EKSD legt in Abstimmung mit dem Hochbauamt die Gebührentarife und Weisungen für die Nutzung der Schulräumlichkeiten durch Dritte fest.
 
-## 3 Elternvereine (Art. 31 MSG)
+## 4 Eltern (Art. 28–30 MSG)
+
+#### Art. 36
+
+**Elterninformation – Grundsätze**
+
+<sup>1</sup> Die Eltern minder- und volljähriger Schülerinnen und Schüler werden regelmässig über das Schulzeugnis und gegebenenfalls in persönlichen Gesprächen über die Schullaufbahn ihres Kindes informiert.
+
+<sup>2</sup> Die Eltern werden auch an Informationsveranstaltungen oder über weitere Informationskanäle über den Verlauf der schulischen Ausbildung informiert.
+
+#### Art. 37
+
+**Elterninformation – Ausnahmen**
+
+<sup>1</sup> Nach Erreichen der Volljährigkeit ergehen alle Mitteilungen an die Schülerin oder den Schüler. Die volljährige Schülerin oder der volljährige Schüler kann jederzeit und ohne Angabe von Gründen eine schriftliche Erklärung an die Schuldirektorin oder den Schuldirektor richten, in der sie oder er die direkte Information ihrer oder seiner Eltern verweigert.
+
+<sup>2</sup> In diesem Fall informiert die Schule die Eltern darüber.
+
+<sup>3</sup> Die Bestimmungen von Artikel 36 finden auf Eltern volljähriger Schülerinnen und Schüler, die zusätzliche Bildungsgänge im Sinne von Artikel 13 MSG besuchen, keine Anwendung.
+
+#### Art. 38
+
+**Zusammenarbeit zwischen der Schule und den Eltern Minderjähriger (Art. 29 MSG)**
+
+<sup>1</sup> Die Eltern Minderjähriger ermuntern und unterstützen ihr Kind beim Lernen, indem sie ein günstiges Lernumfeld schaffen und darauf achten, dass die ausserschulischen Aktivitäten des Kindes die Schularbeit nicht beeinträchtigen.
+
+<sup>2</sup> Sie nehmen an den Informationsveranstaltungen und an den persönlichen Gesprächen teil, die an der Schule organisiert werden.
+
+<sup>3</sup> Bei Schwierigkeiten in der Zusammenarbeit können die Schuldirektorin oder der Schuldirektor sowie die Eltern ein Gespräch verlangen.
+
+#### Art. 39
+
+**Elternvereine**
+
+<sup>1</sup> Die Direktionsräte unterhalten regelmässige Kontakte mit den Elternvereinen, insbesondere in Zusammenhang mit dem allgemeinen Schulbetrieb.
+
+## 5 Schülerinnen und Schüler
+
+### 5.1 Aufnahme (Art. 31–35 MSG)
 
 #### Art. 40
 
-**Kenntnisse und Fähigkeiten**
+**Aufnahmebedingungen**
 
-<sup>1</sup> Die Schuldirektionen unterhalten regelmässige Kontakte mit den Elternvereinen, insbesondere im Zusammenhang mit den Ausbildungsprogrammen und Problemen der Schülerbetreuung sowie der Gesundheitserziehung.
+<sup>1</sup> Die Zulassungsmodalitäten stützen sich je nach Vorbildung der Schülerin oder des Schülers und dem angestrebten Bildungsgang:
 
-## 4 Schüler
-
-### 4.1 Aufnahme (Art. 32 und 33 MSG)
+- a) entweder allein auf die an der vorgängigen Ausbildungsstätte erzielten Ergebnisse,
+- b) oder auf die an der vorgängigen Ausbildungsstätte und an der Aufnahmeprüfung erzielten Ergebnisse,
+- c) oder nur auf die Ergebnisse der Aufnahmeprüfung,
+- d) und gegebenenfalls auf eine zusätzliche genauere Beurteilung durch die vorgängige Ausbildungsstätte.
 
 #### Art. 41
 
-<sup>1</sup> Die Ermittlung der Kenntnisse und Fähigkeiten stützt sich, je nach der Vorbildung des Schülers und dem angestrebten Bildungsgang:
+**Altersgrenze (Art. 31 Abs. 3 MSG)**
 
-- a) entweder allein auf die Beförderung in der Orientierungsschule,
-- b) oder auf die in der Orientierungsschule und an der Aufnahmeprüfung erzielten Ergebnisse,
-- c) oder nur auf die Ergebnisse der Aufnahmeprüfung,
-- d) und wenn nötig auf eine zusätzliche genauere Beurteilung durch die vorher besuchte Schule.
+<sup>1</sup> Eine Schülerin oder ein Schüler kann in der Regel nicht mehr als vier Jahre älter sein als das übliche Jahrgangsalter ihrer oder seiner Mitschülerinnen und Mitschüler, ausser es handle sich um zusätzliche Bildungsgänge im Sinne von Artikel 13 MSG.
 
 #### Art. 42
 
-**Bedingungen und Einzelheiten für die Aufnahme und den Übertritt**
+**Bedingungen und Modalitäten für die Aufnahme und den Übertritt**
 
-<sup>1</sup> Die EKSD erlässt besondere Bestimmungen über die Bedingungen und die Einzelheiten für die Aufnahme in die verschiedenen Mittelschulen und für den Übertritt zwischen den einzelnen Bildungsgängen dieser Schulen.
+<sup>1</sup> Die EKSD erlässt Bestimmungen über die Bedingungen und die Einzelheiten für die Aufnahme in die verschiedenen Bildungsgänge und für den Übertritt zwischen diesen.
 
-<sup>2</sup> Schüler aus öffentlichen Schulen anderer Kantone können aufgenommen werden, wenn sie der Übertrittsbedingungen für die entsprechenden Klassen ihres Kantons erfüllen; allfällige Rückstände müssen aufgeholt werden.
+<sup>2</sup> Schülerinnen und Schüler aus öffentlichen Schulen anderer Kantone können aufgenommen werden, wenn sie die Übertrittsbedingungen für die entsprechenden Klassen ihres Kantons erfüllen; allfällige Rückstände müssen aufgeholt werden.
 
-<sup>3</sup> Schüler aus Privatschulen werden nach Artikel 41 Bst. c dieses Reglements aufgenommen. Besondere Abkommen bleiben vorbehalten.
+<sup>3</sup> Schülerinnen und Schüler aus Privatschulen werden nach Artikel 40 Bst. c dieses Reglements aufgenommen. Besondere Vereinbarungen bleiben vorbehalten.
 
-<sup>4</sup> Schüler, deren Eltern nicht im Kanton wohnhaft sind, können nur aufgenommen werden, wenn dadurch nicht eine Klasse eröffnet werden muss. Besondere Abkommen bleiben vorbehalten.
-
-### 4.2 Teilnahme am Schulleben (Art. 34 MSG)
+<sup>4</sup> Schülerinnen und Schüler, deren Eltern nicht im Kanton wohnhaft sind, können nur aufgenommen werden, wenn dadurch nicht eine Klasse eröffnet werden muss. Besondere interkantonale Vereinbarungen bleiben vorbehalten.
 
 #### Art. 43
 
-**Information und Befragung (Art. 34 Abs. 1 MSG)**
+**Gastschülerinnen und Gastschüler**
 
-<sup>1</sup> Die Schuldirektion trifft alle Massnahmen, die geeignet sind, die Schüler für das Schulleben, die Ausbildungsorganisation sowie die kulturellen, künstlerischen und sportlichen Aktivitäten zu interessieren.
+<sup>1</sup> Sofern genügend Plätze verfügbar sind, können an den Mittelschulen Auszubildende für eine maximale Dauer von zwei Semestern als Gastschülerin oder Gastschüler, namentlich im Rahmen von Sprachaustauschen, aufgenommen werden.
 
-<sup>2</sup> Sie informiert die Schüler in bezug auf die Schule, die Abteilung oder die Klasse, insbesondere über die allgemeine Ziele der Bildungsgänge, die Stundenpläne, die interne Organisation der Schule, die schulischen Aktivitäten und die im Rahmen des Unterrichts organisierten Veranstaltungen.
+<sup>2</sup> Die Gastschülerin oder der Gastschüler erhält eine Studienbestätigung. Vorbehalten bleiben besondere Vereinbarungen mit anderen Bildungsinstitutionen.
 
-<sup>3</sup> Falls die Umstände oder der Gegenstand dies rechtfertigen, führt die Schuldirektion eine Schülerbefragung durch.
+<sup>3</sup> Die Gastschülerin oder der Gastschüler ist denselben Disziplinarregeln unterworfen wie die ordentlichen Schülerinnen und Schüler. Nach Rücksprache mit der Klassenlehrperson sowie der betroffenen Vorsteherin oder dem betroffenen Vorsteher kann die Schuldirektorin oder der Schuldirektor sie oder ihn jederzeit vom Unterricht ausschliessen, falls ihr oder sein Verhalten, ihre oder seine Mitwirkung oder Schularbeit Anlass zu Beanstandungen gibt.
 
 #### Art. 44
 
-**Gesuche und Vorschläge**
+**Entscheid**
 
-<sup>1</sup> Die Schuldirektion ist gegenüber Gesuchen, Anregungen und Vorschlägen der Schüler offen. Sie prüft und bespricht sie mit den Betroffenen und informiert sie gegebenenfalls darüber, wie in ihrer Sache entschieden wurde.
+<sup>1</sup> Die Zuständigkeit für den Aufnahmeentscheid wird in den Reglementen der einzelnen Bildungsgänge geregelt.
 
-### 4.3 Bewertung der Schularbeit (Art. 36 MSG)
+<sup>2</sup> Der Entscheid über die Aufnahme von Gastschülerinnen und Gastschülern bleibt der Schuldirektorin oder dem Schuldirektor vorbehalten.
+
+### 5.2 Ausbildungsort
 
 #### Art. 45
 
-**Noten- und Bewertungsskala**
+**Aufteilung der Schülerinnen und Schüler**
 
-<sup>1</sup> Die Schularbeit der Schüler wird nach folgender Skala bewertet:
+<sup>1</sup> Die aufgenommenen Schülerinnen und Schüler werden wie folgt auf die kantonalen Mittelschulen verteilt:
+
+- a) Die Schülerinnen und Schüler des südlichen Kantonsteils besuchen grundsätzlich das Kollegium des Südens.
+- b) Die Schülerinnen und Schüler aus dem Einzugsgebiet des interkantonalen Gymnasiums der Broye, das in der interkantonalen Vereinbarung festgelegt wird, besuchen dieses Kollegium.
+- c) Die übrigen Schülerinnen und Schüler werden auf die Kollegien Sankt Michael, Heilig Kreuz und Gambach respektive auf die Fachmittelschule Freiburg verteilt.
+
+<sup>2</sup> Die gesamthafte Verteilung der Schülerinnen und Schüler auf die kantonalen Mittelschulen wird jedes Jahr von der Schuldirektorenkonferenz beschlossen. Sie wird der EKSD zur Genehmigung vorgelegt.
+
+<sup>3</sup> Bei der Verteilung der Schülerinnen und Schüler auf die Mittelschulen der Stadt Freiburg wird nicht nur der Wunsch der Schülerin oder des Schülers berücksichtigt, sondern namentlich auch:
+
+- a) die Aufteilung der französisch-, deutsch- und zweisprachigen Klassen sowie der gemäss Sportgesetzgebung ins Förderprogramm «Sport-Kunst-Ausbildung» (SKA-Förderprogramm) aufgenommenen Schülerinnen und Schüler auf die Mittelschulen;
+- b) das Gleichgewicht der Geschlechter;
+- c) die Aufnahmekapazität jedes Kollegiums.
+
+<sup>4</sup> Artikel 54 und hinreichend nachgewiesene gesundheitliche Gründe bleiben vorbehalten.
+
+#### Art. 46
+
+**Ausserkantonaler Schulbesuch (Art. 69 MSG)**
+
+<sup>1</sup> In Übereinstimmung mit den interkantonalen Vereinbarungen kann die EKSD, wenn stichhaltige Gründe vorliegen, den Besuch einer ausserkantonalen Schule bewilligen und eine Kostengutsprache für die verlangten Schulgeldbeiträge leisten.
+
+### 5.3 Rechte und Pflichten der Schülerinnen und Schüler (Art. 36 und 37 MSG)
+
+#### Art. 47
+
+**Schülerrat**
+
+<sup>1</sup> Der Direktionsrat fördert die Schaffung und das gute Funktionieren eines Schülerrats, indem er günstige Rahmenbedingungen dafür schafft.
+
+#### Art. 48
+
+**Information und Anhörung (Art. 36 Abs. 3 MSG)**
+
+<sup>1</sup> Der Direktionsrat trifft alle Massnahmen, die geeignet sind, die Schülerinnen und Schüler für das Schulleben, die Studienorganisation sowie die kulturellen, künstlerischen und sportlichen Aktivitäten zu interessieren.
+
+<sup>2</sup> Er informiert die Schülerinnen und Schüler der Schule, der Abteilung oder der Klasse, namentlich über die allgemeinen Ziele der Bildungsgänge, die Stundenpläne, die interne Organisation der Schule, die schulischen Aktivitäten und die im Rahmen des Unterrichts organisierten Veranstaltungen.
+
+<sup>3</sup> Falls die Umstände oder der Gegenstand dies rechtfertigen, führt der Direktionsrat eine Schülerbefragung durch oder konsultiert den Schülerrat.
+
+#### Art. 49
+
+**Gesuche und Vorschläge**
+
+<sup>1</sup> Der Direktionsrat ist offen für Gesuche, Anregungen und Vorschläge seitens der Schülerinnen und Schüler oder des Schülerrats. Er prüft und bespricht diese mit den Betroffenen und informiert sie gegebenenfalls darüber, ob dem Ersuchen stattgegeben wurde.
+
+#### Art. 50
+
+**Pflichten (Art. 37 MSG)**
+
+<sup>1</sup> Die Schülerinnen und Schüler besuchen die Schule zu den festgelegten Zeiten.
+
+<sup>2</sup> Sie arbeiten sorgfältig, aufmerksam und regelmässig, sind pünktlich und nehmen aktiv am Schulleben teil.
+
+<sup>3</sup> Sie tragen zu einem guten Klima an der Schule und in der Klasse bei und verpflichten sich, ein respektvolles Verhalten gegenüber den Mitmenschen und der Umwelt an den Tag zu legen.
+
+<sup>4</sup> Sie tragen Sorge zum bereitgestellten Material und Mobiliar sowie zu den Räumlichkeiten, die ihnen zur Verfügung gestellt werden. Bei Diebstahl, Schaden oder Verlust sind sie für ihre persönlichen Effekten verantwortlich.
+
+#### Art. 51
+
+**Verbote**
+
+<sup>1</sup> Während der Schulzeit ist den Schülerinnen und Schülern namentlich Folgendes verboten:
+
+- a) der Besitz, Konsum, Verkauf oder Vertrieb von illegalen Suchtmitteln und Substanzen,
+- b) der Konsum von Alkohol,
+- c) der Besitz, Gebrauch, Verkauf oder Vertrieb von Gegenständen oder Substanzen, die eine Gefahr darstellen.
+
+<sup>2</sup> Der Gebrauch von elektronischen Geräten zu privaten Zwecken ist während des Unterrichts verboten. Ihre Verwendung zu pädagogischen Zwecken wird in der Schulordnung näher ausgeführt.
+
+### 5.4 Förder- und Unterstützungsmassnahmen (Art. 38 MSG)
+
+#### Art. 52
+
+**Anspruchsberechtigte und Gewährungsverfahren**
+
+<sup>1</sup> Die Fördermassnahmen richten sich an Schülerinnen und Schüler mit ausserordentlichen Fähigkeiten oder mit Schulresultaten, die weit über dem Durchschnitt der Schülerinnen und Schüler ihres Jahrganges liegen, und an Schülerinnen und Schüler, die gemäss Sportgesetzgebung in das SKA-Förderprogramm aufgenommen sind.
+
+<sup>2</sup> Die Unterstützungsmassnahmen richten sich an Schülerinnen und Schüler mit einer Behinderung oder einer von der EKSD anerkannten Fachperson diagnostizierten Funktionsstörung und an neu zugezogene fremdsprachige Schülerinnen und Schüler.
+
+<sup>3</sup> Die Schuldirektorin oder der Schuldirektor entscheidet, auf Antrag der Eltern oder der volljährigen Schülerin oder des volljährigen Schülers, über Förder- und Unterstützungsmassnahmen und setzt diese um.
+
+<sup>4</sup> Die EKSD erlässt entsprechende Bestimmungen.
+
+#### Art. 53
+
+**Massnahmen für Schülerinnen und Schüler mit ausserordentlichen Fähigkeiten**
+
+<sup>1</sup> Die Fördermassnahmen für Schülerinnen und Schüler mit ausserordentlichen Fähigkeiten oder mit Schulresultaten, die weit über dem Durchschnitt liegen, können namentlich folgende Formen annehmen:
+
+- a) die Differenzierung des Unterrichts innerhalb der Klasse,
+- b) ein Zusatzangebot von Fächern, Arbeiten oder Projekten innerhalb der Schule oder in einer anderen Schule des Kantons,
+- c) die Beschleunigung der Ausbildung,
+- d) die Bewilligung, an höchstens zwei Halbtagen pro Woche an einem von der EKSD anerkanntem, externen Unterrichtsprogramm teilzunehmen.
+
+<sup>2</sup> Diese Massnahmen dürfen die schulische Ausbildung der Schülerin oder des Schülers nicht gefährden und den Schulbetrieb nicht beeinträchtigen.
+
+<sup>3</sup> Falls sich ihre oder seine Schulleistungen signifikant verschlechtern oder die Schülerin oder der Schüler ein unbefriedigendes Verhalten zeigt, kann der Direktionsrat die Massnahme, nach Anhörung der oder des Betroffenen, vorübergehend oder endgültig aufheben.
+
+#### Art. 54
+
+**Massnahmen für ins SKA-Förderprogramm aufgenommene Schülerinnen und Schüler**
+
+<sup>1</sup> Der Schülerin oder dem Schüler, die oder der gemäss der Sport- und Kulturgesetzgebung ins SKA-Förderprogramm aufgenommen wird, können folgende Massnahmen gewährt werden:
+
+- a) eine Anpassung und/oder Erleichterung des wöchentlichen Stundenplans,
+- b) eine vollständige oder teilweise Dispens von bestimmten Fächern während eines bestimmten Zeitraums oder des Schuljahrs; allerdings müssen mindestens 25 Wochenlektionen besucht werden,
+- c) Urlaube für die Vorbereitung oder die Teilnahme an wichtigen, sportlichen oder künstlerischen Veranstaltungen,
+- d) pädagogische Unterstützung bei sport- oder kunstbedingten Abwesenheiten,
+- e) ein Schulwechsel, um die Wegzeiten zum Trainings- oder Ausübungsort ihres oder seines Sports oder ihrer oder seiner Kunstrichtung zu verringern.
+
+<sup>2</sup> Eine Schülerin oder ein Schüler kann auch das Programm eines Schuljahres und allenfalls die Abschlussprüfungen auf zwei Jahre verteilen.
+
+<sup>3</sup> Falls die Schülerin oder der Schüler ungenügende Schulleistungen erbringt oder ein unbefriedigendes Verhalten zeigt, kann der Direktionsrat die Massnahmen vorübergehend oder endgültig aufheben, nachdem er die betroffenen Personen angehört hat.
+
+#### Art. 55
+
+**Nachteilsausgleichsmassnahmen**
+
+<sup>1</sup> Einer Schülerin oder einem Schüler mit einer Behinderung oder einer von einer Fachperson, die von der EKSD anerkannt ist, diagnostizierten Funktionsstörung können Massnahmen zum Nachteilsausgleich gewährt werden. Es können besondere Anpassungen im Unterricht und/oder besondere Prüfungsmodalitäten vorgesehen werden, sofern die Schülerin oder der Schüler in der Lage ist, die Lernziele des Lehrplans zu erfüllen.
+
+<sup>2</sup> Die Massnahmen zum Nachteilsausgleich müssen dem Grundsatz der Verhältnismässigkeit entsprechen und dem Ausbildungsziel angepasst sein.
+
+<sup>3</sup> Die EKSD bestimmt die Bedingungen und Modalitäten zur Gewährung.
+
+#### Art. 56
+
+**Massnahmen für neu zugezogene fremdsprachige Schülerinnen und Schüler**
+
+<sup>1</sup> Einer fremdsprachigen Schülerin oder einem fremdsprachigen Schüler, die oder der neu zugezogen ist und eingeschränkte Kenntnisse in der Erst- und/oder Zweitsprache aufweist, können ein angepasstes Aufnahmeverfahren und, in der Regel während der ersten beiden Ausbildungsjahre, individuelle Lernziele gewährt werden.
+
+#### Art. 57
+
+**Weitere Unterstützungsmassnahmen**
+
+<sup>1</sup> Die Gewährung von pädagogisch-therapeutischen oder verstärkten sonderpädagogischen Massnahmen wird in der Spezialgesetzgebung geregelt.
+
+### 5.5 Beurteilung der Schularbeit (Art. 39 MSG)
+
+#### Art. 58
+
+**Ziele der Beurteilung**
+
+<sup>1</sup> Die Beurteilung bezweckt:
+
+- a) den Unterricht so zu gestalten, dass die Schülerinnen und Schüler ihre Kenntnisse und Kompetenzen entwickeln können, damit sie die in Lehrplänen festgelegten Ziele erreichen,
+- b) die Kontrolle der erworbenen Kenntnisse und Kompetenzen im Hinblick auf die Promotion oder die Erlangung eines Ausweises,
+- c) die Beschreibung der schulischen Situation der Schülerin oder des Schülers in ihrem oder seinem Lernprozess sowie die Festlegung des Zielerreichungsgrads.
+
+#### Art. 59
+
+**Inhalt und Modalitäten der Beurteilung**
+
+<sup>1</sup> Die Beurteilungen stützen sich auf die in den Lehrplänen festgelegten Ziele und beruhen auf klaren Kriterien, die den Schülerinnen und Schülern mitgeteilt werden.
+
+<sup>2</sup> Die Beurteilungen erfolgen in unterschiedlichen Prüfungsformen, schriftlich, mündlich und auch praktisch.
+
+<sup>3</sup> Je nach hauptsächlicher Zielsetzung sowie Zeitpunkt der Beurteilung kann diese folgende Zwecke erfüllen:
+
+- a) Die in den Unterricht und Lernprozess integrierte formative Beurteilung erfasst allfällige Lernschwierigkeiten.
+- b) Die summative, kriteriengeleitete Beurteilung erlaubt eine Standortbestimmung der Kenntnisse und Kompetenzen, welche die Schülerin oder der Schüler zu einem bestimmten Zeitpunkt erworben hat. Sie ist promotionsrelevant oder zählt für den Erwerb des Ausweises.
+
+<sup>4</sup> Die Schuldirektorenkonferenz kann allgemeine Grundsätze der Beurteilung festlegen.
+
+#### Art. 60
+
+**Noten- und Beurteilungsskala**
+
+<sup>1</sup> Die Schularbeit der Schülerinnen und Schüler wird nach folgender Skala bewertet:
 
 6 = sehr gut
 
@@ -431,568 +685,723 @@ beschliesst:
 
 1 = sehr schlecht
 
-<sup>2</sup> Die Noten können in Bruchteilen erteilt werden.
+<sup>2</sup> Die Noten können in Bruchteilen ausgedrückt werden.
 
-<sup>3</sup> Die EKSD erlässt Bestimmungen über die Bewertung und über die Art, wie die Schulergebnisse den Eltern mitzuteilen sind.
-
-### 4.4 Beförderung (Art. 37 MSG)
-
-#### Art. 46
-
-**Bedingungen und Verfahren**
-
-<sup>1</sup> Um in einem Bildungsgang von einer Unterrichtsstufe zur nächsten befördert zu werden, muss der Schüler am Ende des Schuljahres im Gesamtdurchschnitt sowie im Durchschnitt der Kernfachgruppe oder der Gruppe der spezifischen Fächer mindestens die Note 4 erreichen. Die besonderen Bestimmungen betreffend die Gymnasialausbildung bleiben vorbehalten.
-
-<sup>2</sup> Die Kernfächer und die Kernfachgruppen, die spezifischen Fächer und die Gruppe der spezifischen Fächer, wie auch die Bedingungen sowie das besondere Verfahren für die Beförderung werden in den Reglementen der einzelnen Bildungsgänge festgelegt. Für gewisse Bildungsgänge können bestimmte Durchschnittsnoten verlangt werden.
-
-<sup>3</sup> Im gleichen Bildungsgang kann ein Schüler eine Unterrichtsstufe nur einmal wiederholen; er kann nicht zwei aufeinanderfolgende Stufen wiederholen. Dem Schüler kann jedoch gestattet werden, das letzte Ausbildungsjahr gemäss den Reglementen für die Schlussprüfungen zu wiederholen, falls er die Schlussprüfung nicht bestanden hat. Die besonderen Bestimmungen betreffend die Gymnasialausbildung bleiben vorbehalten.
-
-<sup>4</sup> Der Schuldirektor kann Ausnahmen bewilligen, wenn ausserordentliche Umstände dies rechtfertigen, insbesondere im Falle von Krankheit oder Unfall.
-
-<sup>5</sup> Findet eine Aufnahme alle zwei Jahre statt, so tritt der nicht beförderte Schüler vor dem Beginn des folgenden Schuljahrs zu einer Beförderungsprüfung an.
-
-### 4.5 Gesundheit der Schüler (Art. 38 MSG)
-
-#### Art. 47
-
-**Körperliche und seelische Gesundheit der Schüler**
-
-<sup>1</sup> Die Direktoren, die Vorsteher und die Lehrer müssen der körperlichen und seelischen Gesundheit sowie den persönlichen Schwierigkeiten der Schüler grösste Aufmerksamkeit schenken.
-
-<sup>2</sup> Die Direktoren treffen in Übereinstimmung mit der EKSD und in Zusammenarbeit mit der Direktion für Gesundheit und Soziales die nötigen Massnahmen, damit in den Klassen die Themen und Fragen im Zusammenhang mit der Umwelt, der Gesundheit der Schüler und der Vorbeugung gegen schädliches Verhalten behandelt werden.
-
-<sup>3</sup> Im Einvernehmen mit der EKSD können die Direktoren einem oder mehreren Lehrern im Bereich der Gesundheitserziehung einen Sonderauftrag erteilen.
-
-<sup>4</sup> Der Direktor informiert die Eltern oder die zuständigen Schuldienste im Bedarfsfall und mit der nötigen Diskretion über die Schwierigkeiten eines Schülers.
-
-#### Art. 48
-
-**Zustand der Schulräumlichkeiten**
-
-<sup>1</sup> Die Schuldirektion überprüft regelmässig, ob die Räume und das Mobiliar den Anforderungen von Artikel 38 Abs. 2 MSG entsprechen, und informiert die EKSD über allfällige Mängel.
-
-### 4.6 Erzieherische und disziplinarische Massnahmen (Art. 40 MSG)
-
-#### Art. 49
-
-**Vorgängige erzieherische Massnahmen**
-
-<sup>1</sup> Ist das Verhalten eines Schülers unbefriedigend, so treffen die Lehrer und die Schuldirektion alle erzieherischen Massnahmen, die geeignet sind, das Verhalten oder die Arbeit des Schülers zu verbessern.
-
-<sup>2</sup> Diese Massnahmen müssen den Umständen angemessen und auf die Persönlichkeit des Schülers abgestimmt sein. Es kann sich dabei insbesondere um Gespräche, Ratschläge, Verweise, zusätzliche Arbeiten oder erzieherische Aufgaben handeln.
-
-#### Art. 50
-
-**Strafen**
-
-<sup>1</sup> Erweisen sich erzieherische Massnahmen als ungeeignet oder ungenügend, so wird der Schüler, der Gesetzes- oder Reglementsbestimmungen verletzt hat, disziplinarisch bestraft.
-
-<sup>2</sup> Bei einer obligatorischen Arbeit wird die Verweigerung, eine unentschuldigte Absenz oder ein Prüfungsbetrug mit der Note 1 bewertet.
-
-<sup>3</sup> In den übrigen Fällen können folgende Strafen verhängt und allenfalls mit erzieherischen Massnahmen ergänzt werden:
-
-- a) Nachsitzen;
-- b) vorübergehender Ausschluss vom Unterricht bis zu zwei Wochen;
-- c) Ausschlussandrohung;
-- d) Ausschluss.
-
-<sup>4</sup> Der vorübergehende Ausschluss vom Unterricht kann mit der Ausschlussandrohung verbunden werden.
-
-<sup>5</sup> Der Ausschluss kann, ausser in ausserordentlich schweren Fällen, nur nach einer Ausschlussandrohung verfügt werden.
-
-#### Art. 51
-
-**Bestimmung der Strafe**
-
-<sup>1</sup> Die Art und das Mass der Strafe werden aufgrund des Vergehens, der Umstände und der Persönlichkeit des Schülers bestimmt.
-
-#### Art. 52
-
-**Zuständige Behörden**
-
-<sup>1</sup> Zuständig für das Verhängen von Strafmassnahmen sind:
-
-- a) der Schuldirektor für alle Strafen;
-- b) je nach Organisation der Schule der Vorsteher, der Abteilungsverantwortliche oder der Klassenlehrer für das Nachsitzen;
-- c) der betreffende Lehrer für die Strafe gemäss Artikel 50 Abs. 2.
-
-#### Art. 53
-
-**Verfahren**
-
-<sup>1</sup> Die zuständige Behörde ermittelt den Sachverhalt und sammelt die erheblichen Beweise.
-
-<sup>2</sup> Bevor eine Strafe verhängt wird, muss der betroffene Schüler angehört werden; vor jedem Entscheid über den vorübergehenden Ausschluss vom Unterricht, über die Ausschlussandrohung oder den Ausschluss müssen der betroffene Schüler und, wenn er minderjährig ist, die Eltern sowie die betroffenen Lehrer angehört werden.
-
-<sup>3</sup> Bei vorübergehendem Ausschluss vom Unterricht, Ausschlussandrohung oder Ausschluss, müssen die Eltern oder der volljährige Schüler schriftlich über das Vergehen und die Strafe informiert werden. Die Eltern des volljährigen Schülers sind ebenfalls zu informieren, wenn eine Unterhaltspflicht besteht.
-
-### 4.7 Form der Entscheide (Art. 42 MSG)
-
-#### Art. 54
-
-**Schriftliche Entscheide**
-
-<sup>1</sup> Die Entscheide, die die Stellung des Schülers beeinträchtigen oder beeinträchtigen können, müssen schriftlich mitgeteilt werden. Es handelt sich insbesondere um:
-
-- a) den Entscheid, einen Schüler nicht aufzunehmen;
-- b) den Entscheid über die Aufnahme in eine bestimmte Schule;
-- c) den Entscheid, die Beförderung am Ende des Schuljahres zu verweigern;
-- d) die Verhängung eines vorübergehenden Ausschlusses vom Unterricht, einer Ausschlussandrohung oder eines Ausschlusses;
-- e) die Nichtzulassung an die Schlussprüfungen oder den Misserfolg an diesen Prüfungen.
-
-## 5 Lehrer
-
-### 5.1 Aufgaben (Art. 43, 44 und 50 MSG)
-
-#### Art. 55
-
-**Ordentliche Aufgaben – Ausbildung und Erziehung**
-
-<sup>1</sup> Hauptaufgabe des Lehrers ist es, die Ausbildung der ihm anvertrauten Schüler sicherzustellen. Er muss sie dahin führen, dass sie über die Grundlagen der unterrichteten Fächer nachdenken können, und ihre Allgemeinbildung entsprechend der Aufgabe der Schule nach Artikel 5 MSG fördern.
-
-<sup>2</sup> Er ist gehalten, die Ziele und die Programme des von ihm unterrichteten Fachs einzuhalten.
-
-<sup>3</sup> Der Lehrer ist bemüht, die Identität der Schüler und die Entfaltung ihrer Persönlichkeit zu achten. Besondere Sorgfalt verwendet er darauf, sie über die Ziele seines Fachs zu informieren, sie anzuhören und sie im Lernen zu unterstützen. Dabei sind die Anforderungen in bezug auf die Arbeit wie auch auf das Verhalten einzuhalten.
-
-#### Art. 56
-
-**Ordentliche Aufgaben – Zusammenarbeit innerhalb der Schule**
-
-<sup>1</sup> Der Lehrer beteiligt sich am Schulleben im Geiste der Kollegialität gegenüber der Schuldirektion und den anderen Lehrern. Er unterbreitet die nötigen Vorschläge betreffend seinen Unterricht und den Gang der Schule.
-
-<sup>2</sup> Er arbeitet mit bei der Planung der Programme und der Koordination der Ziele und der Bewertung innerhalb eines Fachs oder einer Fächergruppe.
-
-<sup>3</sup> Er trägt zu guten Beziehungen zwischen Schule und Eltern bei.
-
-<sup>4</sup> Er nimmt an den Sitzungen teil, die von der Schuldirektion einberufen werden.
-
-#### Art. 57
-
-**Sonderaufgaben (Art 44 MSG) – Klassenlehrer**
-
-<sup>1</sup> Der Klassenlehrer hat die Verantwortung für die pädagogische und die administrative Leitung der ihm anvertrauten Klasse.
-
-<sup>2</sup> In pädagogischer Hinsicht erfüllt er insbesondere folgende Aufgaben:
-
-- a) Er ist der erste Gesprächspartner zwischen der Schule und den Eltern.
-- b) Er muss seine Schüler, ihre Situation und ihre Schwierigkeiten kennen.
-- c) Er sorgt dafür, dass in seiner Klasse eine Atmosphäre herrscht, die das Lernen und die persönliche Entfaltung der Schüler fördert, deren erster Gesprächspartner er ist.
-- d) Er trifft zusammen mit den Fachlehrern die nötigen Massnahmen für eine sinnvolle Koordination der Schularbeit in seiner Klasse.
-- e) Er informiert die Schuldirektion über alle Beziehungsprobleme und die didaktischen, gesundheitlichen oder disziplinarischen Probleme, die er nicht selber lösen kann.
-
-<sup>3</sup> In administrativer Hinsicht hat er vor allem folgende Befugnisse:
-
-- a) Er beteiligt sich mit Vorschlägen und Bemerkungen an der Organisation des Schullebens.
-- b) Er erstellt die von der Schuldirektion in bezug auf Kontrollen, Bewertung und Statistiken verlangten Dokumente und führt sie regelmässig nach.
-- c) Er leitet die offiziellen Mitteilungen der Schuldirektion an die Schüler seiner Klasse weiter und informiert sie über die verschiedenen schulischen Veranstaltungen.
-
-#### Art. 58
-
-**Sonderaufgaben (Art 44 MSG) – Pädagogische und administrative Leitung (Art. 44 MSG)**
-
-<sup>1</sup> Den Lehrern können weitere Aufgaben übertragen werden, insbesondere:
-
-- a) die Erarbeitung von kantonalen Lehrplänen;
-- b) die Ausbildung von Praktikanten;
-- c) die Mitarbeit an Prüfungen, die von der Schule oder von der EKSD organisiert werden;
-- d) die Verwaltung von Bibliotheken, Mediatheken und des Informatikmaterials;
-- e) die kulturellen oder sportlichen Aktivitäten;
-- f) die Koordination des Schüleraustauschs.
-
-#### Art. 59
-
-**Sonderaufgaben (Art 44 MSG) – Lager, Studientage**
-
-<sup>1</sup> Die Lehrer können verpflichtet werden, an Veranstaltungen im Rahmen des Unterrichts, insbesondere an Studien- oder Sporttagen, Sportlagern und Exkursionen teilzunehmen.
-
-#### Art. 60
-
-**Sonderaufgaben (Art 44 MSG) – Entlastung und Entschädigungen (Art. 50 MSG)**
-
-<sup>1</sup> Die Übertragung von ständigen Sonderaufgaben gibt Anrecht auf Entlastung gemäss den besonderen Bestimmungen des Staatsrats.
-
-<sup>2</sup> Gelegentliche Sonderaufgaben können Anrecht auf Entschädigungen geben, sofern die Aufgaben den Lehrauftrag und die der Schule geschuldete Verfügbarkeit überschreiten.
+<sup>3</sup> Die Schuldirektorin oder der Schuldirektor erlässt Bestimmungen zur Beurteilung an ihrer oder seiner Schule.
 
 #### Art. 61
 
-**Pflichtenheft**
+**Gemeinsames Prüfen**
 
-<sup>1</sup> Die EKSD erstellt zusammen mit der Schuldirektion Pflichtenhefte für die Fachlehrer und für die Klassenlehrer. Dafür werden die Vorschläge der anerkannten Berufsverbände eingeholt.
+<sup>1</sup> Das gemeinsame Prüfen soll den pädagogischen Austausch sowie die Vergleichbarkeit der Prüfungsanforderungen fördern.
 
-<sup>2</sup> Die Schuldirektion erstellt in Zusammenarbeit mit dem betreffenden Lehrer das Pflichtenheft für die verschiedenen Sonderaufgaben, die ihm gemäss Artikel 44 MSG übertragen werden.
+<sup>2</sup> Die EKSD fördert das gemeinsame Prüfen auf Grundlage eines in Zusammenarbeit mit der Schuldirektorenkonferenz erarbeiteten Konzeptes.
 
-### 5.2 Ausbildung (Art. 46 Abs. 3 MSG)
+<sup>3</sup> Die Schulen setzen das Konzept gemeinsam mit den Fachschaften selbstständig um.
 
 #### Art. 62
 
-**Erforderlicher Titel**
+**Schulzeugnis**
 
-<sup>1</sup> Wer sich um eine Stelle als Lehrer bewirbt, muss Inhaber eines von der EKSD anerkannten Lehrdiploms sein, das ihm eine wissenschaftliche und pädagogische Ausbildung bescheinigt, die den Fächern und der Ausbildungsstufe entsprechen.
+<sup>1</sup> Das Schulzeugnis ist die offizielle Mitteilungsform der Schulergebnisse der Schülerin oder des Schülers.
 
-<sup>2</sup> Die entsprechenden, von anderen Kantonen ausgestellten Diplome können gemäss den interkantonalen Vereinbarungen anerkannt werden.
+<sup>2</sup> Die EKSD bestimmt Inhalt und Form des Schulzeugnisses.
 
-<sup>3</sup> Ein Bewerber mit einer anderen Ausbildung kann nur angestellt werden, wenn die EKSD anerkennt, dass seine Ausbildung im Vergleich zur verlangten Ausbildung gleichwertig ist. Die EKSD holt vorgängig die Stellungnahme der betreffenden Ausbildungsinstitute ein.
+<sup>3</sup> Das Schulzeugnis wird der Schülerin oder dem Schüler zweimal im Jahr zugestellt, jeweils am Ende eines Semesters. Die Eltern Minderjähriger bezeugen mit ihrer Unterschrift, dass sie die darin eingetragenen Noten zur Kenntnis genommen haben.
 
-### 5.3 Vollamt (Art. 50 MSG)
+### 5.6 Promotion und Wiederholung (Art. 40 MSG)
 
 #### Art. 63
 
-**Wöchentlicher Stundenplan**
+**Bedingungen**
 
-<sup>1</sup> Der Stundenplan für ein volles Unterrichtspensum richtet sich nach Art. 20 des Reglements vom 6. Juli 2004 für das Lehrpersonal, das der Direktion für Erziehung, Kultur und Sport untersteht.
+<sup>1</sup> Die Promotions- und Wiederholungsbedingungen werden in den Reglementen der einzelnen Bildungsgänge geregelt.
 
-### 5.4 Fortbildungskurse (Art. 44 Abs. 2 und 52 MSG)
+<sup>2</sup> Die Schuldirektorin oder der Schuldirektor entscheidet nach Rücksprache mit den Lehrpersonen der Klasse über die Promotion oder Nichtpromotion.
+
+<sup>3</sup> Die Schuldirektorin oder der Schuldirektor kann Ausnahmen bewilligen, wenn ausserordentliche Umstände dies rechtfertigen, insbesondere im Falle von Krankheit oder Unfall.
+
+### 5.7 Gesundheit der Schülerinnen und Schüler und Prävention (Art. 41 MSG)
 
 #### Art. 64
 
-**Grundsatz**
+**Körperliche und psychische Gesundheit der Schülerinnen und Schüler**
 
-<sup>1</sup> Der Lehrer besucht Fortbildungskurse, um seine wissenschaftlichen und pädagogischen Kenntnisse auf dem neuesten Stand zu halten.
+<sup>1</sup> Das gesamte Schulpersonal schenkt der körperlichen und psychischen Gesundheit sowie den persönlichen Schwierigkeiten der Schülerinnen und Schüler besondere Aufmerksamkeit.
 
-<sup>2</sup> Die Fortbildung kann auch zu einem Bildungsurlaub Anlass geben; in diesem Fall kommt die Gesetzgebung über das Staatspersonal betreffend die längerdauernde Beurlaubung oder Ausbildung zur Anwendung.
+<sup>2</sup> Bei Bedarf können sich die Schülerin oder der Schüler, die Eltern oder die Lehrpersonen an die Schulmediation oder den psychologischen Beratungsdienst wenden.
+
+<sup>3</sup> Bei Bedarf wird ein Netzwerk mit den Eltern und den Beratungsdiensten eingerichtet.
 
 #### Art. 65
 
-**Zeitpunkt der Kurse**
+**Medizinischer Notfall**
 
-<sup>1</sup> Die Fortbildungskurse, insbesondere die Kurse, die die EKSD organisiert, finden grundsätzlich ausserhalb der Schulzeit statt.
-
-<sup>2</sup> Die EKSD legt von Fall zu Fall fest, ob ein Kurs während der Schulzeit stattfinden kann.
-
-<sup>3</sup> Es berücksichtigt dabei den allgemeinen Schulbetrieb, die Erfordernisse für die Organisation der Fortbildungskurse und die Möglichkeiten der Lehrer, diese Kurse zu besuchen.
+<sup>1</sup> In einem medizinischen Notfall trifft die Schule alle notwendigen Massnahmen, damit kranke oder verletzte Schülerinnen und Schüler angemessen versorgt werden. Zu diesem Zweck kann die Schule Schülerinnen und Schüler in eine Arztpraxis oder ins Spital bringen oder einen Krankenwagen oder einen Rettungsdienst herbeirufen. Die Eltern werden umgehend darüber informiert. Die daraus entstehenden Kosten werden von den Schülerinnen und Schülern oder deren Versicherung übernommen.
 
 #### Art. 66
 
-**Kurskosten**
+**Meldung von Schülerinnen und Schülern an die Kinder- und Erwachsenenschutzbehörde**
 
-<sup>1</sup> Die Kosten der obligatorischen Fortbildungskurse werden vom Staat übernommen.
-
-<sup>2</sup> Die EKSD legt die Bedingungen für die Beteiligung des Staates an den Kosten des Besuchs von freiwilligen Kursen fest.
-
-### 5.5 Lehrerkonferenz (Art. 53 MSG)
+<sup>1</sup> In Anwendung der Gesetzgebung über den Kindes- und Erwachsenenschutz müssen die Vorsteherinnen und Vorsteher, die Lehrpersonen und das Personal der Beratungsdienste, die Schuldirektorin oder den Schuldirektor informieren, wenn es scheint, dass eine Schülerin oder ein Schüler Hilfe benötigt. Die Schuldirektorin oder der Schuldirektor meldet den Fall gegebenenfalls der zuständigen Kindes- oder Erwachsenenschutzbehörde.
 
 #### Art. 67
 
-**Einzelheiten und Zweck**
+**Zustand der Schulräumlichkeiten**
 
-<sup>1</sup> Der Direktor beruft die Lehrer seiner Schule mindestens einmal jährlich zur Vollversammlung ein. Je nach Bedarf beruft er sie auch nach Fächern oder nach Sonderaufgaben ein.
+<sup>1</sup> Die Schuldirektorin oder der Schuldirektor überprüft regelmässig, ob die Räumlichkeiten, das Mobiliar und bestimmte Lehrmaterialien den Anforderungen von Artikel 41 Abs. 2 MSG entsprechen, und informiert das zuständige Amt über allfällige Mängel.
 
-<sup>2</sup> Eine Lehrerkonferenz kann auch auf Antrag eines Drittels der öffentlich-rechtlich angestellten Lehrer einberufen werden.
-
-<sup>3</sup> An diesen Konferenzen werden die Lehrer über die wichtigen Angelegenheiten im Zusammenhang mit ihrer Schule oder ihrem Unterricht informiert und angehört. Sie können ihrerseits jeden Antrag vorbringen, der den Schulbetrieb zum Inhalt hat.
-
-<sup>4</sup> Die Lehrerkonferenzen finden grundsätzlich ausserhalb der Schulzeit statt; für Ausnahmen ist die EKSD zuständig.
-
-<sup>5</sup> Jede Schule kann pro Jahr einen pädagogischen Fortbildungstag während der Schulzeit durchführen.
-
-## 6 Organisation der Schulen
-
-### 6.1 Schulkommission (Art. 57–59 MSG)
+### 5.8 Bearbeiten von Personendaten der Schülerinnen und Schüler (Art. 43 MSG)
 
 #### Art. 68
 
-**Arbeitsweise (Art. 57 Abs. 5 MSG)**
+**Inhalte der Datenbanken oder Schülerdateien**
 
-<sup>1</sup> Der Präsident der Schulkommission beruft die Kommission in der Regel zweimal pro Jahr ein.
+<sup>1</sup> Für eine erleichterte Steuerung und Verwaltung des Schulsystems und für die Erfassung des schulischen Werdegangs der Schülerinnen und Schüler dürfen namentlich folgende Kategorien von Personendaten bearbeitet werden:
 
-<sup>2</sup> Die Kommission wird ausserdem einberufen auf Antrag der EKSD, der Schuldirektion oder eines Drittels ihrer Mitglieder mit beschliessender oder beratender Stimme.
+- a) die vollständigen Personalien der Schülerin oder des Schülers und der Eltern, einschliesslich ihrer AHV-Nummer,
+- b) der Wohnsitz der Schülerin oder des Schülers und der Eltern,
+- c) die Kontaktmöglichkeiten, um die Schülerin oder den Schüler und die Eltern zu erreichen,
+- d) die Geschwister der Schülerin oder des Schülers,
+- e) die Muttersprache der Schülerin oder des Schülers und der Eltern,
+- f) der schulische Ausbildungsweg der Schülerin oder des Schülers, einschliesslich der Noten der Schulzeugnisse und der erworbenen Ausweise,
+- g) die Beurteilung der Schülerarbeit,
+- h) die Absenzen und Verspätungen der Schülerin oder des Schülers,
+- i) die der Schülerin oder dem Schüler bewilligten und verweigerten Sonderurlaube oder Dispensen,
+- j) die erzieherischen Massnahmen in Zusammenhang mit dem Verhalten der Schülerin oder des Schülers,
+- k) die gegen die Schülerin oder den Schüler verfügten Disziplinarmassnahmen,
+- l) die strafrechtlichen Sanktionen und die Informationen zu hängigen Strafverfahren, sofern sie eine Schülerin oder einen Schüler betreffen, deren oder dessen Verhalten eine Gefahr für die Mitschülerinnen und Mitschüler oder das Schulpersonal darstellen oder den Schulbetrieb schwerwiegend beeinträchtigen könnte,
+- m) der besondere Bildungsbedarf der Schülerin oder des Schülers, namentlich die Förder- und Unterstützungsmassnahmen,
+- n) die Informationen zur pädagogischen Begleitung der Schülerin oder des Schülers.
+
+<sup>2</sup> Weitere personenbezogene Schülerdaten dürfen, mit Zustimmung der EKSD, für statistische Zwecke und wissenschaftliche Studien bearbeitet werden. Diese Daten werden anonymisiert.
+
+<sup>3</sup> Der Datenkatalog wird der kantonalen Behörde für Öffentlichkeit und Datenschutz zur Genehmigung vorgelegt.
 
 #### Art. 69
 
-**Befugnisse (Art. 58 MSG)**
+**Verantwortliche der Datensammlung**
 
-<sup>1</sup> Als beratendes Organ hat die Schulkommission folgende Befugnisse:
+<sup>1</sup> Die Schuldirektorin oder der Schuldirektor ist für die Datenbearbeitung verantwortlich.
 
-- a) Sie übt die Gesamtaufsicht über die Verwaltung der Schule aus.
-- b) Sie nimmt Stellung zu den Anträgen für die Anstellung und die Ernennung der Lehrer und der Vorsteher.
-- c) Sie sorgt für die Zusammenarbeit zwischen den Partnern im Erziehungswesen, insbesondere zwischen der Schule und den Eltern.
-- d) Sie wird angehört zu Entwürfen über Gesetzes- und Reglementsbestimmungen für die betreffende Schule sowie zum Voranschlag und zur Rechnung.
-- e) Sie formuliert geeignete Vorschläge zur Förderung der Unterrichtsqualität und des guten Schulbetriebs.
-
-### 6.2 Direktoren (Art. 61–64 MSG)
+<sup>2</sup> Die Lehrpersonen und das Verwaltungspersonal der Schule und der kantonalen Schulbehörden dürfen nur diejenigen Daten bearbeiten, die sie zur Ausübung ihrer jeweiligen Aufgaben benötigen.
 
 #### Art. 70
 
-**Pflichtenheft (Art. 62 Abs. 2 MSG)**
+**Zugriff auf die Datenbanken**
 
-<sup>1</sup> Die EKSD erstellt für den Direktor ein Pflichtenheft, das den Besonderheiten der einzelnen Schule angepasst ist. Sie berücksichtigt dabei die allgemeinen Befugnisse nach Artikel 62 Abs. 2 MSG.
+<sup>1</sup> Der Zugriff auf die Datenbanken ist strikte auf das Lehr- und Verwaltungspersonal im Sinne von Artikel 69 Abs. 2, in den Schranken ihrer jeweiligen gesetzlichen Aufgaben und Zuständigkeiten, beschränkt.
+
+<sup>2</sup> Die EKSD legt die Zugriffsrechte und -modalitäten fest.
 
 #### Art. 71
 
-**Lehrtätigkeit (Art. 62 Abs. 3 MSG)**
+**Systematische Datenbekanntgabe**
 
-<sup>1</sup> Die Aufteilung der Zeit, die der Direktor für die Verwaltung der Schule und für seine Lehrtätigkeit verwendet, wird in den besonderen Bestimmungen des Staatsrates festgelegt. Bei dieser Aufteilung werden die Anzahl Klassen, die Anzahl Bildungsgänge und die sprachlichen Abteilungen der Schule berücksichtigt.
+<sup>1</sup> Um die Qualität und Kohärenz des Freiburger Bildungssystems sowie dessen Steuerung sicherzustellen, können die Daten der Schulzeugnisse der Schülerinnen und Schüler am Ende des ersten Semesters und/oder des ersten Studienjahres den Direktionen der betroffenen Orientierungsschulen bekanntgegeben werden.
+
+<sup>2</sup> Um den Zugang zu den elektronischen Dienstleistungen im Bildungswesen zu erleichtern, dürfen folgende Daten von Schülerinnen und Schülern sowie des Lehr- und Verwaltungspersonals an die von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) beauftragte Föderation der Identitätsdienste im Bildungsraum Schweiz bekanntgeben werden:
+
+- a) Vorname und Name,
+- b) Geburtsdatum,
+- c) Unterrichtssprache,
+- d) Rolle oder Funktion,
+- e) Schule, Bildungsgang, Stufe,
+- f) Wohnsitzkanton,
+- g) technischer Identifikator.
+
+<sup>3</sup> Um die Organisation der überbetrieblichen Kurse und Prüfungen des betrieblichen Teils der Vollzeit-Handelsmittelschulausbildung zu ermöglichen, können die folgenden Daten an die vom SBFI anerkannten Ausbildungs- und Prüfungsbranchen übermittelt werden:
+
+- a) Vorname, Name, Geburtsdatum, Postadresse und die von der Schule zugewiesene E-Mail-Adresse der Schülerin oder des Schülers,
+- b) Ausbildungsvertragsnummer der Schülerin oder des Schülers und ihre oder seine AHV-Nummer, die als technischer Identifikator dient,
+- c) Beginn- und Enddatum des Ausbildungsvertrags der Schülerin oder des Schülers,
+- d) Schule, Bildungsgang, Stufe, Ausbildungsbranche und Unterrichtssprache der Schülerin oder des Schülers,
+- e) Vorname, Name, von der Schule zugewiesene E-Mail-Adresse und geschäftliche Telefonnummer der verantwortlichen Lehrperson der Schule,
+- f) Firmenname und Postadresse des Praktikumsbetriebs der Schülerin oder des Schülers sowie Vorname, Name, Geschlecht, geschäftliche E-Mail-Adresse und Telefonnummer der Berufsbildnerin oder des Berufsbildners.
 
 #### Art. 72
 
-**Pädagogische Hochschule**
+**Datenbekanntgabe im Einzelfall**
 
-<sup>1</sup> Der Direktor leitet die Pädagogische Hochschule und trägt die allgemeine Verantwortung; gleichzeitig ist er Studiendirektor einer sprachlichen Abteilung der Schule.
+<sup>1</sup> Die Schuldirektorin oder der Schuldirektor darf im Einzelfall Personendaten von Schülerinnen und Schülern ohne die Zustimmung der betroffenen Personen bekanntgeben, wenn der Datenempfänger eine öffentliche, dem Interesse der Schülerin oder des Schülers dienende Funktion ausübt. Es werden ausschliesslich diejenigen Daten bekanntgegeben, die absolut nötig sind, damit der Datenempfänger seine Funktion ausüben kann.
 
-<sup>2</sup> Der Studiendirektor der anderen sprachlichen Abteilung ist verantwortlich für die pädagogische Leitung der Abteilung. Er spricht sich dabei mit dem Direktor ab und unterstützt ihn im administrativen Bereich.
+<sup>2</sup> Die besonderen Schweigepflichten (Art. 42 MSG) sowie die Grundsätze der Datenschutzgesetzgebung bleiben vorbehalten.
 
 #### Art. 73
 
-**Interne Zusammenarbeit**
+**Aufbewahrung, Archivierung und Vernichtung von Daten**
 
-<sup>1</sup> Jeder Direktor beruft regelmässig die Vorsteher oder die Verantwortlichen der Abteilungen ein. Er kann je nach Bedarf oder auf Antrag einen Lehrervertreter oder den Verantwortlichen des administrativen Dienstes der Schule einberufen.
+<sup>1</sup> Mit Ausnahme der Personen- und Schullaufbahndaten der Schülerin oder des Schülers (Art. 68 Abs. 1 Bst. a und f), die für eine Dauer von 40 Jahren aufbewahrt werden, werden nach Schulaustritt alle Personendaten vernichtet.
+
+<sup>2</sup> Spätestens nach Ablauf der oben genannten Frist werden die aufbewahrten Daten gemäss den ordentlichen Regeln dem Staatsarchiv zur Archivierung angeboten.
+
+<sup>3</sup> Nicht archivierungswürdige Daten werden so vernichtet, dass ihre Wiederherstellung nicht mehr möglich ist.
+
+<sup>4</sup> Bei Bedarf kann die EKSD Richtlinien für die Archivierung erlassen.
 
 #### Art. 74
 
-**Kantonale Direktorenkonferenz (Art. 64 Abs. 1 MSG)**
+**Website und Informatiknetzwerk der Schule**
 
-<sup>1</sup> Die kantonale Konferenz der Mittelschuldirektoren tritt zusammen, sooft es die EKSD für nötig hält, mindestens jedoch einmal pro Jahr.
+<sup>1</sup> Jegliche Publikation auf Websites liegt in der Verantwortung der Schule. Die Schuldirektorin oder der Schuldirektor muss für die Einhaltung der Datenschutzgesetzgebung sorgen. Ohne Zustimmung der betroffenen Personen ist es insbesondere verboten, Bildmaterial zu publizieren oder Kontextdaten zu veröffentlichen, die eine Personenidentifikation erlauben.
 
-<sup>2</sup> Der Vertreter der EKSD hat den Vorsitz.
+<sup>2</sup> Die auf dem Internet veröffentlichten Informationen und Diskussionen unterstehen den gesetzlichen Regeln des Persönlichkeits- und Urheberrechtsschutzes. Die Autorinnen und Autoren sind für den gesamten veröffentlichten Inhalt verantwortlich, einschliesslich der Kommentare, die Besucherinnen und Besucher hinterlassen.
+
+<sup>3</sup> Um die Schülerinnen und Schüler sowie deren Eltern über den Internetgebrauch zu informieren und sie für die damit verbundenen Gefahren zu sensibilisieren, lassen die Schulen diese eine Internet-Charta unterzeichnen.
+
+<sup>4</sup> Im Widerhandlungsfall bleiben disziplinarische und/oder strafrechtliche Sanktionen vorbehalten.
+
+<sup>5</sup> Die EKSD kann Bestimmungen, namentlich zum obligatorischen Inhalt des Internetauftritts und zur Publikation von Personendaten, erlassen.
+
+### 5.9 Erzieherische und disziplinarische Massnahmen (Art. 44 MSG)
 
 #### Art. 75
 
-**Kantonale Rektorenkonferenz (Art. 64 Abs. 3 MSG)**
+**Erzieherische Massnahmen**
 
-<sup>1</sup> Die kantonale Rektorenkonferenz organisiert sich selbst und tritt zusammen, sooft es ihr Präsident für nötig hält oder auf Antrag eines ihrer Mitglieder, mindestens jedoch einmal pro Quartal; auch die EKSD kann sie einberufen.
+<sup>1</sup> Ist das Verhalten einer Schülerin oder eines Schülers unbefriedigend, so treffen die Lehrpersonen, die Vorsteherinnen und Vorsteher sowie die Schuldirektorin oder der Schuldirektor erzieherische Massnahmen, die geeignet sind, das Verhalten oder die Arbeit der betroffenen Schülerin oder des betroffenen Schülers zu verbessern.
 
-<sup>2</sup> Der Vertreter der EKSD kann mit beratender Stimme an den Sitzungen der Konferenz teilnehmen.
+<sup>2</sup> Folgende erzieherische Massnahmen können ergriffen werden:
 
-### 6.3 Vorsteher (Art. 65 und 66 MSG)
+- a) zusätzliche Arbeit zu Hause oder an der Schule,
+- b) Nachsitzen,
+- c) vorübergehende Wegweisung aus dem Schulzimmer,
+- d) Schadensbehebung,
+- e) Ermahnung.
+
+<sup>3</sup> Die erzieherischen Massnahmen können kumuliert werden.
+
+<sup>4</sup> Bussen sind nicht erlaubt.
 
 #### Art. 76
 
-**Allgemeine Befugnisse (Art. 66 Abs. 3 MSG)**
+**Disziplinarmassnahmen**
 
-<sup>1</sup> Der Vorsteher hat innerhalb seiner Abteilung insbesondere die folgenden allgemeinen Befugnisse:
+<sup>1</sup> Erweisen sich erzieherische Massnahmen als ungeeignet oder ungenügend, so wird die Schülerin oder der Schüler, die oder der Gesetzes- oder Reglementsbestimmungen verletzt hat, disziplinarisch verfolgt.
 
-- a) Er erstellt und unterhält in Zusammenarbeit mit den Klassenlehrern die nötigen Kontakte mit den Schülern und den Eltern; er unterstützt insbesondere die Schüler mit Schwierigkeiten.
-- b) Er sorgt für die Koordination des Unterrichts, besucht die Klassen, unterstützt und berät die Lehrer in ihren Lehr- und Erziehungsaufgaben.
-- c) Er übernimmt einen Lehrauftrag, der sich nach dem Umfang seiner hauptsächlichen Aufgaben richtet, jedoch mindestens acht wöchentliche Lektionen beträgt.
+<sup>2</sup> Folgende Disziplinarmassnahmen können, gegebenenfalls verbunden mit erzieherischen Massnahmen, ausgesprochen werden:
 
-### 6.4 Organisation der pädagogischen und administrativen Leitung der Schulen
+- a) die vorübergehende Suspendierung vom Unterricht bis zu zwei Wochen,
+- b) die Ausschlussandrohung,
+- c) der Schulausschluss.
+
+<sup>3</sup> Die vorübergehende Suspendierung vom Unterricht kann mit einer Ausschlussandrohung verbunden werden.
+
+<sup>4</sup> Der Schulausschluss kann, abgesehen von ausserordentlich schwerwiegenden Fällen, nur nach einer Ausschlussandrohung verfügt werden.
 
 #### Art. 77
 
-**Entlastungen und Verwaltungspersonal**
+**Bestimmung der Disziplinarmassnahme**
 
-<sup>1</sup> Die Entlastungsstunden für die Verwaltung einer Schule und die Anzahl der Verwaltungsstellen werden in besonderen Bestimmungen des Staatsrats festgelegt.
-
-## 7 Finanzierung der Schulen (Art. 67 und 68 MSG)
+<sup>1</sup> Die Disziplinarmassnahme wird unter Berücksichtigung der Umstände des Falles, des Verhaltens der Schülerin oder des Schülers, des Verschuldens, der Beeinträchtigung des Schulbetriebs und des Rufs der Schule bestimmt.
 
 #### Art. 78
 
-**Individuelle Unterrichtskosten**
+**Nicht ausgeführte Schularbeit**
 
-<sup>1</sup> Die Kosten für Lehrbücher, persönliches Material, die Reisekosten und allfällige Verpflegungskosten gehen zu Lasten der Eltern oder, wenn die Eltern keine Unterhaltspflicht mehr haben, zu Lasten des Schülers.
+<sup>1</sup> Wurde eine schulische Arbeit oder eine Prüfung nicht ordnungsgemäss ausgeführt, etwa wegen unbegründeten Fernbleibens oder im Falle eines Betrugs oder Plagiats, so führt dies zur Bewertung mit der Note 1. Diese Massnahme wird von der Lehrperson vorgeschlagen und muss von der Vorsteherin oder dem Vorsteher genehmigt werden.
+
+<sup>2</sup> Diese Anordnung kann mit einer erzieherischen Massnahme oder einer Disziplinarmassnahme verbunden werden.
 
 #### Art. 79
 
-**Schulgeld und Einschreibegebühr**
+**Zuständige Behörden**
 
-<sup>1</sup> Der Betrag und die Einzelheiten für die Erhebung des Schulgeldes und der Einschreibegebühr werden durch besondere Bestimmungen des Staatsrats festgesetzt.
+<sup>1</sup> Zuständig für das Verhängen von erzieherischen Massnahmen sind:
+
+- a) die Schuldirektorin oder der Schuldirektor und die Vorsteherin oder der Vorsteher für alle erzieherischen Massnahmen,
+- b) die betroffene Lehrperson für die zusätzliche Arbeit zu Hause oder an der Schule, das Nachsitzen und die vorübergehende Wegweisung aus dem Klassenzimmer.
+
+<sup>2</sup> Zuständig für das Verhängen von Disziplinarmassnahmen sind:
+
+- a) die Schuldirektorin oder der Schuldirektor für alle Disziplinarmassnahmen,
+- b) die Vorsteherin oder der Vorsteher für die vorübergehende Suspendierung vom Unterricht bis zu zwei Wochen.
 
 #### Art. 80
 
-**Gebühren für besondere Leistungen – Kulturelle Aktivitäten und andere besondere Leistungen**
+**Disziplinarverfahren**
 
-<sup>1</sup> Für die kulturellen Anlässe der Schulen wird eine jährliche Gebühr erhoben, die von der EKSD nach Stellungnahme der Schulen festgelegt wird.
+<sup>1</sup> Die zuständige Behörde ermittelt den Sachverhalt und sammelt die erheblichen Beweise.
 
-<sup>2</sup> Die Kosten für besondere Anlässe wie Studientage und -wochen. Landschulwochen, Sportlager oder Schulreisen müssen von den Eltern übernommen werden oder, wenn die Eltern keine Unterhaltspflicht mehr haben, vom Schüler. Ausgenommen sind allfällige Kosten für die Vertretung von Lehrern.
+<sup>2</sup> Bevor eine Disziplinarmassnahme verhängt wird, muss die betroffene Schülerin oder der betroffene Schüler angehört werden. Vor jedem Entscheid über die vorübergehende Suspendierung vom Unterricht, die Ausschlussandrohung oder den Ausschluss müssen die betroffene Schülerin oder der betroffene Schüler und, wenn sie oder er minderjährig ist, die Eltern sowie die betroffenen Lehrpersonen angehört werden.
+
+<sup>3</sup> Bei vorübergehender Suspendierung vom Unterricht, Ausschlussandrohung oder Ausschluss, müssen die Eltern oder die volljährige Schülerin oder der volljährige Schüler schriftlich über das Verschulden und die Disziplinarmassnahme informiert werden. Die Eltern der volljährigen Schülerin oder des volljährigen Schülers sind ebenfalls zu informieren, wenn eine Unterhaltspflicht besteht, trotz gegenteiliger Erklärung im Sinne von Artikel 37 Abs. 1.
+
+### 5.10 Form der Entscheide (Art. 76 MSG)
 
 #### Art. 81
 
-**Gebühren für besondere Leistungen – Besondere Kurse aufgrund spezieller Interessen**
+**Schriftliche Entscheide**
 
-<sup>1</sup> Auf Antrag eines oder mehrerer Schüler kann die Schuldirektion besondere, im Lehrplan nicht vorgesehene Kurse durchführen. Die daraus entstehenden Kosten gehen zu Lasten der Eltern oder, wenn die Eltern keine Unterhaltspflicht mehr haben, zu Lasten des Schülers.
+<sup>1</sup> Die Entscheide, welche die Stellung der Schülerin oder des Schülers beeinträchtigen oder beeinträchtigen können, müssen schriftlich mitgeteilt werden. Es handelt sich insbesondere um:
+
+- a) den Entscheid, eine Schülerin oder einen Schüler nicht aufzunehmen,
+- b) den Entscheid, die Promotion am Ende des Semesters oder des Schuljahres zu verweigern,
+- c) die Verfügung einer Disziplinarmassnahme im Sinne von Artikel 76,
+- d) die Nichtzulassung zu den Abschlussprüfungen oder den Misserfolg an letzteren.
+
+## 6 Organisation der Schulen
+
+### 6.1 Schulkommission (Art. 53–55 MSG)
 
 #### Art. 82
 
-**Gebühren für besondere Leistungen – Internate**
+**Ernennung und Absetzung der Mitglieder**
 
-<sup>1</sup> Die Kosten für Unterkunft und Verpflegung in einem öffentlichen Internat werden durch besondere Bestimmungen des Staatsrats festgesetzt.
+<sup>1</sup> Die Mitglieder und die Präsidentin oder der Präsident werden von der EKSD für eine Dauer von fünf Jahren bestimmt.
+
+<sup>2</sup> Die EKSD kann eine Person, die der Arbeitsweise oder dem Ansehen der Schulkommission oder der Schule schadet, ihres Amtes entheben. Dieser Verfügung muss eine Verwarnung vorausgehen, ausser in schweren Fällen.
 
 #### Art. 83
 
-**Schlussprüfungen**
+**Sitzungen**
 
-<sup>1</sup> Die Gebühren für die Schlussprüfungen werden durch besondere Bestimmungen des Staatsrats festgelegt.
+<sup>1</sup> Die Präsidentin oder der Präsident versammelt die Schulkommission in der Regel mindestens zweimal im Jahr.
+
+<sup>2</sup> Die Schulkommission kann zudem auf Verlangen der EKSD, der Schuldirektorin oder des Schuldirektors oder von einem Drittel der Mitglieder einberufen werden.
 
 #### Art. 84
 
-**Kostenbegrenzung und finanzielle Unterstützung**
+**Befugnisse (Art. 54 MSG)**
 
-<sup>1</sup> Die Schuldirektion und die Lehrer sorgen dafür, dass die individuellen Unterrichtskosten, die Gebühren für die kulturellen Aktivitäten und andere besondere Leistungen durch Koordinationsmassnahmen oder durch Mässigung bei den Zielen auf das Nötige beschränkt werden.
+<sup>1</sup> Als beratendes Organ hat die Schulkommission folgende Befugnisse:
 
-<sup>2</sup> Die Schuldirektionen achten auf allfällige finanzielle Schwierigkeiten der Schüler. Sie treffen die nötigen Massnahmen, um in Zusammenarbeit mit den zuständigen Stellen und Ämtern diskret zu helfen.
+- a) Sie wird zur Organisation und zum Betrieb der Schule sowie zu wichtigen Projekten informiert und konsultiert.
+- b) Sie nimmt Stellung zur Anstellung der Mitglieder des Direktionsrates.
+- c) Sie wird über die Anstellung der Lehrpersonen informiert.
+- d) Sie sorgt für eine gute Zusammenarbeit zwischen den Partnerinnen und Partnern des Erziehungs- und Bildungswesens.
+- e) Sie wird zu Entwürfen von Gesetzes- und Reglementsbestimmungen über die Mittelschulen sowie zum Voranschlag und zur Rechnung angehört.
+- f) Sie formuliert Vorschläge zur Förderung der Unterrichtsqualität und der Schulentwicklung.
+- g) Sie nimmt Stellung zur Schulordnung.
+- h) Sie genehmigt die Statuten des Schülerrates.
 
-## 8 Privater Unterricht (Art. 69–71 MSG)
+### 6.2 Direktionsrat (Art. 56 MSG)
 
 #### Art. 85
 
-**Eröffnung einer Schule (Art. 69 MSG)**
+**Arbeitsweise**
 
-<sup>1</sup> Wird die Eröffnung einer Privatschule gemeldet, so versichert sich die EKSD, dass die angebotenen Bildungsgänge klar definiert sind und die ausgestellten Diplome der betreffenden Ausbildung entsprechen und keinen Anlass zu Verwechslungen mit anderen Diplomen bieten.
+<sup>1</sup> Der Direktionsrat tritt je nach Bedarf regelmässig zusammen. Er wird von der Schuldirektorin oder dem Schuldirektor einberufen oder auf Verlangen eines seiner Mitglieder.
+
+<sup>2</sup> Für jede Sitzung wird ein Beschlussprotokoll erstellt.
 
 #### Art. 86
 
-**Aufsicht über die Privatschulen (Art. 70 MSG)**
+**Befugnisse**
 
-<sup>1</sup> Sofern nicht besondere Umstände Sofortmassnahmen erfordern, muss eine Privatschule gewarnt werden, bevor ein Verbot ausgesprochen wird.
+<sup>1</sup> Der Direktionsrat dient der Koordination, Leitung und Planung der jeweiligen Aufgaben seiner Mitglieder.
+
+<sup>2</sup> Er legt bei den an der Schule getroffenen Entscheiden besonderen Wert auf die Gleichbehandlung.
+
+<sup>3</sup> Er behandelt namentlich folgende Themen:
+
+- a) strategische Ausrichtung der Schule,
+- b) allgemeiner Schulbetrieb,
+- c) Schulprojekte,
+- d) Umsetzung des Qualitätskonzepts,
+- e) Umsetzung der Lehrpläne, Aktualisierung der internen Unterrichtsprogramme und Einsatz der Lehrmittel,
+- f) besondere Situationen von Schülerinnen und Schülern sowie Lehrpersonen,
+- g) Eröffnung, Schliessung und Verteilung der Klassen,
+- h) Auswahl der Bewerbungen für die Anstellung des Lehrpersonals sowie des administrativen und technischen Personals,
+- i) obligatorische Weiterbildung des Lehrpersonals,
+- j) interne und externe Kommunikation,
+- k) Voranschlag und Jahresrechnung,
+- l) Organisation der Prüfungen,
+- m) Änderungen der Schulordnung,
+- n) Gesuche für den Zugang zu Studien- und Forschungszwecken zu Schülerinnen und Schülern sowie Lehrpersonen.
 
 #### Art. 87
 
-**Anerkennung eines Bildungsgangs (Art. 71 MSG)**
+**Konferenz der Direktionsräte der Mittelschulen**
 
-<sup>1</sup> Ein von einer Privatschule angebotener Bildungsgang kann durch ein vom Staatsrat genehmigtes Abkommen mit der EKSD anerkannt werden. Diese Anerkennung kann unabhängig von Subventionen sein.
+<sup>1</sup> Um die Kohärenz des Bildungssystems zu verstärken und die pädagogische Entwicklung sowie die Zusammenarbeit unter den Schulen zu fördern, beruft die Präsidentin oder der Präsident der Schuldirektorenkonferenz mindestens einmal jährlich eine Versammlung der Direktionsräte aller Mittelschulen ein.
+
+<sup>2</sup> Das Amt nimmt an den Sitzungen teil.
+
+### 6.3 Schuldirektorinnen und Schuldirektoren (Art. 57 und 58 MSG)
 
 #### Art. 88
 
-**Bedingungen und Auflagen für Subventionen (Art. 71 MSG)**
+**Befugnisse (Art. 58 MSG)**
 
-<sup>1</sup> Wenn eine Privatschule eine Subvention nach Artikel 71 MSG erhält, so muss sie folgende Bedingungen und Auflagen erfüllen:
+<sup>1</sup> Die Schuldirektorin oder der Schuldirektor hat namentlich folgende Aufgaben und Befugnisse:
 
-- a) Kontrolle des Unterrichts durch die zuständigen Dienststellen des Staates;
-- b) Einhaltung der vom Staat festgelegten Zulassungsbedingungen;
-- c) jährliches Vorlegen des Voranschlags und der Rechnung.
+- a) Sie oder er ist in ihrer oder seiner Schule für die Umsetzung der Lehrpläne verantwortlich.
+- b) Sie oder er prüft die Bewerbungen für die Anstellungen und leitet ihre oder seine Auswahl dem Amt weiter.
+- c) Sie oder er teilt den Lehrpersonen die Unterrichtseinheiten und besondere Aufgaben zu.
+- d) Sie oder er leitet den Direktionsrat.
+- e) Sie oder er begleitet, berät und qualifiziert die Mitglieder des Direktionsrates sowie das Lehrpersonal.
+- f) Sie oder er fördert die Weiterbildung und persönliche Entwicklung des Schulpersonals.
+- g) Sie oder er sorgt für die Begleitung der Schülerinnen und Schüler, entscheidet über die Promotion und in besonderen Situationen und verfügt gegebenenfalls Disziplinarmassnahmen.
+- h) Sie oder er stellt die Zusammenarbeit zwischen Schule und Eltern sicher.
+- i) Sie oder er konkretisiert das Qualitätskonzept und setzt es an ihrer oder seiner Schule um.
+- j) Sie oder er ist für den Voranschlag und die Finanzverwaltung verantwortlich und sorgt für eine effiziente Verwendung der Ressourcen.
+- k) Sie oder er stellt sicher, dass die Infrastruktur und die Einrichtungen den Bedürfnissen der Schule entsprechen.
+- l) Sie oder er sorgt für die interne und externe Kommunikation.
+- m) Sie oder er vertritt die Schule in kantonalen und ausserkantonalen Gremien.
 
-## 9 Schuldienste (Art. 72–75 MSG)
+<sup>2</sup> Folgende Befugnisse können an Vorsteherinnen und Vorsteher delegiert werden:
+
+- a) die Qualifikation des Lehrpersonals,
+- b) die Entscheide über Förder- und Unterstützungsmassnahmen,
+- c) die Dispens von einem Unterrichtsfach oder einer schulischen Aktivität aus stichhaltigen Gründen,
+- d) die Bewilligung von Sprachaufenthalten,
+- e) die Bewilligung der Mitwirkung von Dritten im Unterricht,
+- f) die Aufnahme von Gastschülerinnen und -schülern,
+- g) die Steuerung der Fachschaften,
+- h) die Vertretung der Schulen in kantonalen und ausserkantonalen Gremien,
+- i) die Sperrung des Zugangs zum Informatiknetzwerk,
+- j) die Ausschlussandrohung,
+- k) die Behandlung einer Aufsichtsbeschwerde im Sinne von Artikel 81 MSG gegen Handlungen oder Unterlassungen einer Lehrperson.
+
+<sup>3</sup> Die EKSD erstellt für die Schuldirektorin oder den Schuldirektor ein Pflichtenheft, das den Besonderheiten der einzelnen Schule angepasst ist. Sie berücksichtigt dabei die allgemeinen Befugnisse nach Artikel 58 MSG.
 
 #### Art. 89
 
-**Psychologischer Beratungsdienst (Art. 73 MSG)**
+**Konferenz der Schuldirektorinnen und Schuldirektoren (Art. 63 Abs. 1 MSG) – Arbeitsweise**
 
-<sup>1</sup> Der psychologische Beratungsdienst ist dem Amt für Unterricht der Sekundarstufe 2 administrativ zugewiesen; sein interner Betrieb wird durch besondere Bestimmungen der EKSD geregelt.
+<sup>1</sup> Die kantonale Schuldirektorenkonferenz gibt sich ein Organisationsreglement, das vom Amt genehmigt werden muss.
+
+<sup>2</sup> Die oder der aus ihrer Mitte bestimmte Präsidentin oder Präsident leitet die Sitzungen und sorgt für die Umsetzung der Entscheide der Schuldirektorenkonferenz.
+
+<sup>3</sup> Die Konferenz tritt zusammen, so oft es ihre Präsidentin oder ihr Präsident für nötig hält oder auf Antrag eines ihrer Mitglieder, mindestens jedoch einmal pro Quartal; das Amt kann sie ebenfalls einberufen.
+
+<sup>4</sup> Die Vertreterinnen und Vertreter des Amtes nehmen an den Sitzungen der Konferenz teil.
+
+<sup>5</sup> Die Traktandenliste und das Sitzungsprotokoll werden dem Amt zugestellt.
 
 #### Art. 90
 
-**Didaktisches Zentrum (Art. 74 MSG)**
+**Konferenz der Schuldirektorinnen und Schuldirektoren (Art. 63 Abs. 1 MSG) – Befugnisse**
 
-<sup>1</sup> Je nach den materiellen und finanziellen Möglichkeiten und dem Bedarf der Schulen stellt das Didaktische Zentrum der Pädagogischen Hochschule den Mittelschulen fachspezifisches Didaktik- und Informatikmaterial zur Verfügung.
+<sup>1</sup> Die Schuldirektorenkonferenz hat namentlich folgende Befugnisse und Aufgaben:
 
-<sup>2</sup> Es schlägt Massnahmen für einen vernünftigen Betrieb und eine gute Koordination der Mediatheken und Bibliotheken der Schulen vor.
+- a) Sie wirkt bei der Erarbeitung der strategischen und pädagogischen Ausrichtung des Unterrichts und der Mittelschulen durch das Amt mit.
+- b) Sie schlägt dem Amt die Grundsätze und Massnahmen zur Qualitätssicherung und -entwicklung sowie zur Beurteilung des Unterrichts vor.
+- c) Sie unterbreitet dem Amt Empfehlungen zu den Lehrplänen und zur Anzahl der wöchentlichen Unterrichtseinheiten, die jedem Fach zugewiesen werden.
+- d) Sie schlägt dem Amt die offiziellen Lehrmittel vor.
+- e) Sie gewährleistet und koordiniert die Arbeiten der kantonalen Konferenzen der Fachschaftsverantwortlichen.
+- f) Sie legt die Grundsätze der Absenzenverwaltung fest.
+- g) Sie legt die allgemeinen Grundsätze der Beurteilung fest.
+
+### 6.4 Vorsteherinnen und Vorsteher (Art. 59 und 60 MSG)
 
 #### Art. 91
 
-**Kantonale Lehrmittelverwaltung (Art. 75 MSG)**
+**Befugnisse (Art. 60 MSG)**
 
-<sup>1</sup> Die Schulen wenden sich soweit möglich an die Kantonale Lehrmittelverwaltung, um den Erwerb von Unterrichtsmaterial und Lehrmitteln zu koordinieren und die entsprechenden Kosten zu begrenzen.
+<sup>1</sup> Die Vorsteherin oder der Vorsteher hat innerhalb ihrer oder seiner Abteilung oder Studienrichtung namentlich die folgenden allgemeinen Befugnisse:
 
-## 10 Rechtsmittel
+- a) Sie oder er sorgt für die Koordination des Unterrichts, die Einhaltung der Lehrpläne, den Einsatz der offiziellen Lehrmittel sowie die Befolgung der Reglemente, Bestimmungen und Anweisungen.
+- b) Sie oder er sorgt für die Erledigung der administrativen Aufgaben in Zusammenhang mit der Organisation des Schuljahres und den Prüfungen, dem Aufnahmeverfahren, der Verteilung der Schülerinnen und Schüler, der Absenzenverwaltung sowie der Schul- und Abteilungswechsel.
+- c) Sie oder er koordiniert in Zusammenarbeit mit den anderen Vorsteherinnen und Vorstehern die Arbeiten der schulinternen Fachschaften.
+- d) Sie oder er trägt zur Sicherung und Entwicklung der Unterrichtsqualität bei, sorgt für die Umsetzung des entsprechenden Konzepts und koordiniert die Schulprojekte.
+- e) Sie oder er führt Unterrichtsbesuche durch, berät die Lehrpersonen in ihren pädagogischen und erzieherischen Aufgaben und beurteilt ihre Leistungen.
+- f) Sie oder er begleitet die Schülerinnen und Schüler mit besonderem Bildungsbedarf und koordiniert die Umsetzung der Förder- und Unterstützungsmassnahmen im Sinne von Artikel 52-57.
+- g) Sie oder er stellt die Begleitung von besonderen Situationen sicher und schlägt die notwendigen oder angezeigten Massnahmen vor.
+- h) Sie oder er schenkt dem Klima, das in ihrer oder seiner Abteilung oder Studienrichtung herrscht, und dem Wohlbefinden der dort tätigen und studierenden Personen besondere Aufmerksamkeit. Gegebenenfalls behebt sie oder er auftretende Schwierigkeiten.
+- i) Sie oder er knüpft und unterhält die notwendigen Kontakte mit den Schülerinnen und Schülern sowie den Eltern und stellt ihnen in Zusammenarbeit mit den Klassenlehrpersonen alle nötigen Informationen zur Verfügung.
+- j) Sie oder er ergreift die Disziplinarmassnahmen, die in ihre oder seine Zuständigkeit fallen.
+
+<sup>2</sup> Sie oder er kann den Lehrpersonen Weisungen erteilen.
+
+<sup>3</sup> Ihr oder ihm können von der Schuldirektorenkonferenz oder vom Amt besondere Aufgaben übertragen werden.
+
+<sup>4</sup> Sie oder er übernimmt eine Unterrichtstätigkeit, die vom Umfang ihrer oder seiner Aufgaben abhängig ist.
+
+### 6.5 Administrative und technische Mitarbeiterinnen und Mitarbeiter (Art. 61 und 62 MSG)
 
 #### Art. 92
 
-**Einsprache gegen Entscheide der Lehrer und der Vorsteher (Art. 76 MSG)**
+**Verwalterin oder Verwalter (Art. 61 MSG)**
 
-<sup>1</sup> Die Einsprache muss eine kurze Darstellung des Sachverhalts und der Gründe sowie das Rechtsbegehren enthalten.
+<sup>1</sup> Die Verwalterin oder der Verwalter unterstützt die Schuldirektorin oder den Schuldirektor bei der administrativen Leitung der Schule. Sie oder er hat namentlich folgende Befugnisse und Aufgaben:
 
-<sup>2</sup> Der Direktor verlangt von den Lehrern oder den Vorstehern eine unverzügliche Stellungnahme zur Einsprache.
-
-<sup>3</sup> Der Direktor führt das Verfahren zügig durch. Er ermittelt den Sachverhalt ohne Einschränkung durch den Inhalt der Einsprache; er hört den betroffenen Schüler und, wenn dieser minderjährig ist oder die Umstände es rechtfertigen, seine Eltern an. Er hält alle Vorgänge in einem Protokoll fest.
-
-<sup>4</sup> Der Einspracheentscheid wird schriftlich mitgeteilt; er ist kurz zu begründen. Wird dem Begehren des Einsprechers vollumfänglich stattgegeben und fordert keine Partei die Begründung des Entscheids, so kann der Direktor darauf verzichten oder nur mündlich Gründe angeben.
+- a) Sie oder er erstellt den Entwurf des Voranschlags, stellt die Finanzverwaltung sicher und sorgt, unter der Verantwortung der Schuldirektorin oder des Schuldirektors, für einen effizienten Ressourceneinsatz.
+- b) Sie oder er steht dem administrativen und technischen Personal vor und führt dieses. Sie oder er wirkt bei der administrativen Verwaltung des Lehrpersonals mit.
+- c) Sie oder er organisiert die Arbeit des Sekretariats.
+- d) Sie oder er verwaltet in Zusammenarbeit mit den zuständigen kantonalen Dienststellen die Infrastruktur und die Einrichtungen.
+- e) Sie oder er vertritt den Direktionsrat in Bereichen, die in ihre oder seine Befugnisse fallen.
 
 #### Art. 93
 
-**Rechtsmittelbelehrung (Art. 79 MSG)**
+**Administrative und technische Mitarbeiterinnen und Mitarbeiter (Art. 62 MSG)**
 
-<sup>1</sup> In schriftlichen Entscheiden, die die Stellung des Schülers beeinträchtigen, insbesondere in den Entscheiden nach Artikel 54, müssen der Rechtsweg und die Einsprache- oder Beschwerdefrist angegeben werden.
+<sup>1</sup> Als administrative Mitarbeitende gelten die Sekretärinnen und Sekretäre, die Bibliothekarinnen und Bibliothekare und die Präparatorinnen und Präparatoren.
+
+<sup>2</sup> Die Hauswartinnen und Hauswarte und die Informatikerinnen und Informatiker der Schule werden von den Direktionen angestellt, denen sie unterstehen. Letztere legen, nach Stellungnahme des Direktionsrats, ihr Pflichtenheft fest. Dieses Personal und der Direktionsrat arbeiten zu diesem Zweck eng zusammen.
+
+### 6.6 Kantonale Prüfungskommission
 
 #### Art. 94
 
-**Einsprache und Beschwerde betreffend die Benützung der Schulräumlichkeiten durch Drittpersonen**
+**Kantonale Prüfungskommission der Sekundarstufe 2 – Zusammensetzung**
 
-<sup>1</sup> Gegen die Nichtgewährung einer Bewilligung und die Rechnung der Benützungsgebühren kann der Gesuchsteller innert zwanzig Tagen Einsprache erheben.
+<sup>1</sup> Der kantonalen Prüfungskommission der Sekundarstufe 2 gehören an:
 
-<sup>2</sup> Die Einsprache ist an die EKSD zu richten.
-
-<sup>3</sup> Gegen den Entscheid der EKSD kann gemäss Verfahren, das im Gesetz über die Verwaltungsrechtspflege vorgesehen ist, beim Kantonsgericht Beschwerde eingereicht werden.
+- a) die Schuldirektorinnen und Schuldirektoren aller Mittelschulen,
+- b) die Präsidentinnen und Präsidenten und die Sekretärinnen und Sekretäre der Prüfungskommissionen der einzelnen Schulen, deren Zusammensetzung und Funktionsweise in den Studienreglementen der einzelnen Bildungsgänge geregelt sind,
+- c) die Person, die den Kanton Freiburg in der Schweizerischen Maturitätskommission vertritt,
+- d) eine Person als Vertretung der EKSD, welche die kantonale Kommission präsidiert.
 
 #### Art. 95
 
-**Aufsichtsbeschwerde der Eltern und der Schüler (Art. 80 MSG) – Zuständige Behörden**
+**Kantonale Prüfungskommission der Sekundarstufe 2 – Befugnisse**
 
-<sup>1</sup> Beschwerdebehörde ist:
+<sup>1</sup> Die kantonale Prüfungskommission der Sekundarstufe 2:
 
-- a) der Direktor, wenn sich die Beschwerde gegen Handlungen oder Unterlassungen eines Lehrers oder eines Vorstehers richtet;
-- b) die EKSD, wenn sich die Beschwerde gegen die Handlungen oder Unterlassungen eines Direktors richtet.
+- a) kontrolliert die Anwendung der Studienreglemente der Bildungsgänge,
+- b) bestimmt, welche Hilfs- und Arbeitsmittel bei den schriftlichen Prüfungen erlaubt sind,
+- c) genehmigt die Prüfungsaufgaben, wobei sie deren Übereinstimmung mit den kantonalen Lehrplänen sowie die Gleichwertigkeit der Prüfungsanforderungen in den Schulen sicherstellt,
+- d) legt die Daten der ordentlichen Prüfungssession sowie die Dauer der den Kandidatinnen und Kandidaten gewährten unterrichtsfreien Vorbereitungszeit fest,
+- e) unterhält die nötigen Kontakte mit der Schweizerischen Maturitätskommission,
+- f) schlägt der EKSD allfällige Reglementsänderungen vor,
+- g) entscheidet über Ausnahmebewilligungen und bewilligt besondere Massnahmen,
+- h) kann Expertinnen und Experten beiziehen.
+
+### 6.7 Lehrpersonenkonferenz (Art. 64 MSG)
 
 #### Art. 96
 
-**Aufsichtsbeschwerde der Eltern und der Schüler (Art. 80 MSG) – Beschwerdeverfahren**
+**Zusammensetzung und Arbeitsweise**
 
-<sup>1</sup> Die Beschwerde ist bei der zuständigen Behörde schriftlich einzureichen.
+<sup>1</sup> Die Schuldirektorin oder der Schuldirektor versammelt alle Lehrpersonen ihrer oder seiner Schule mindestens zweimal pro Schuljahr in einer Plenarsitzung. Sie oder er kann sie nach Bedarf auch fächerweise oder für besondere Aufgaben versammeln.
 
-<sup>2</sup> Die Beschwerdebehörde ermittelt den Sachverhalt; sie hört die Person an, gegen die sich die Beschwerde richtet. Sie kann den betroffenen Schüler und seine Eltern anhören, wenn die Umstände dies rechtfertigen.
+<sup>2</sup> Eine Sitzung der Lehrpersonenkonferenz kann auf Verlangen von einem Viertel aller Lehrpersonen der Schule einberufen werden.
 
-<sup>3</sup> Der Beschwerdeentscheid ist schriftlich mitzuteilen; er ist kurz zu begründen.
+<sup>3</sup> Die Sitzungen der Lehrpersonenkonferenz finden grundsätzlich ausserhalb der Unterrichtszeit statt. Die EKSD kann Ausnahmen zulassen.
 
 #### Art. 97
 
-**Aufsichtsbeschwerde der Eltern und der Schüler (Art. 80 MSG) – Verfahrenskosten**
+**Information und Konsultation**
 
-<sup>1</sup> Als Verfahrenskosten gelten die Auslagen, die vor allem die Instruktion der Beschwerde verursacht hat, insbesondere die Kosten für die Beweiserhebung, die Reiseentschädigungen und die Honorare für Drittpersonen.
+<sup>1</sup> Die Lehrpersonen werden zu wichtige Angelegenheiten, die den allgemeinen Schulbetrieb betreffen, informiert und konsultiert. Ihrerseits können sie Vorschläge zum Schulbetrieb unterbreiten.
 
-## 11 Übergangs- und Schlussbestimmungen
-
-### 11.1 Übergangsbestimmungen
+### 6.8 Fachschaften (Art. 65 MSG)
 
 #### Art. 98
 
-**…**
+**Zusammensetzung und Funktionsweise**
 
-### 11.2 Aufhebungen bisherigen Rechts
+<sup>1</sup> Die Fachschaften sind Zusammenschlüsse aller Lehrpersonen einer Schule, die das gleiche Fach unterrichten. Es können je nach Unterrichtssprache unterschiedliche Fachschaften gebildet werden.
+
+<sup>2</sup> Jede Fachschaft wird von einer bzw. einem Fachverantwortlichen geleitet. Diese Person wird auf Vorschlag der Lehrpersonen von der Schuldirektorin oder vom Schuldirektor ernannt.
+
+<sup>3</sup> Die Fachschaften treffen sich zur Behandlung von Fachfragen mindestens dreimal jährlich oder wenn der Schuldirektor bzw. die Schuldirektorin dies verlangt. Sie erstellen dazu eine Traktandenliste und ein anschliessendes Protokoll zuhanden des Direktionsrates. In der Regel nimmt ein Mitglied des Direktionsrates mindestens einmal jährlich an einer Sitzung teil.
+
+<sup>4</sup> Die Schuldirektorenkonferenz kann die Fachverantwortlichen der Schulen zu einer kantonalen Konferenz zusammenfassen. Diese untersteht der Schuldirektorenkonferenz. Sie kann auch vom Amt mit Aufgaben betraut werden.
 
 #### Art. 99
 
-<sup>1</sup> Aufgehoben werden:
+**Befugnisse**
 
-- a) der Beschluss vom 1. Juli 1986 über die Klassenbestände der dem Erziehungsdepartement unterstellten Mittelschulen (SGF 412.0.12);
-- b) das Reglement vom 17. August 1993 über die Benützung der Schulräume der Mittelschulen durch Drittpersonen (SGF 412.0.13);
-- c) der Beschluss vom 21. März 1978 betreffend die Benennung der kantonalen Gymnasien (SGF 412.1.12);
-- d) der Beschluss vom 20. November 1989 über die Einführung des Maturatypus D (moderne Sprachen) in den kantonalen Kollegien (SGF 412.1.22);
-- e) der Beschluss vom 10. März 1987 über die Genehmigung des Stundenplans für die Gymnasialstudien (SGF 412.1.23);
-- f) der Beschluss vom 26. Juli 1963 über die Pflichten des Rektors des Kollegiums St. Michael, der Präfekten, der Vorsteher und der Klassenlehrer (SGF 412.1.52);
-- g) der Beschluss vom 7. Juli 1964 zur Einführung einer Abteilung Latein-moderne Sprachen (Typus B) am Kollegium St. Michael (SGF 412.1.53);
-- h) der Beschluss vom 3. April 1984 betreffend die Handelsdiplomabteilung am Kollegium des Südens (SGF 412.3.25);
-- i) der Beschluss vom 28. Oktober 1986 über die Kantonale Diplommittelschule (SGF 412.4.21);
-- j) der Beschluss vom 9. November 1993 über die Eröffnung einer Abteilung Diplommittelschule (DMS) am Kollegium des Südens (SGF 412.4.32).
+<sup>1</sup> Die Fachschaften einer Schule haben insbesondere folgende Aufgaben:
 
-### 11.3 Änderungen bisherigen Rechts
+- a) Sie erstellen auf der Basis der kantonalen Lehrpläne Schulprogramme und koordinieren deren Umsetzung.
+- b) Sie fördern den fachbezogenen und fachdidaktischen Austausch.
+- c) Sie fördern das gemeinsame Prüfen.
+- d) Sie unterstützen neue Lehrpersonen.
+- e) Sie schlagen der Schuldirektorin oder dem Schuldirektor die Lehrmittel und fachspezifische Themen vor.
+- f) Sie erstellen, falls erforderlich, Aufnahmeprüfungen und koordinieren die Vorbereitung der Abschlussprüfungen.
+- g) Eines ihrer Mitglieder, das von der Schuldirektorin oder vom Schuldirektor bestimmt wird, nimmt in der Regel am Auswahlverfahren zur Anstellung von Lehrpersonen ihrer Fachrichtung teil.
+
+<sup>2</sup> Die kantonale Konferenz der Fachverantwortlichen hat insbesondere folgende Aufgaben:
+
+- a) Sie berät die Schuldirektorenkonferenz und das Amt in sämtlichen Fragen zum Unterricht im betreffenden Fach.
+- b) Sie nimmt Aufgaben bei der Erarbeitung der kantonalen Lehrpläne wahr.
+- c) Sie stellt in Abstimmung mit der Schuldirektorenkonferenz den Kontakt zwischen den Schulen sowie mit der obligatorischen Schule und den Hochschulen sicher.
+
+### 6.9 Besondere Aufgaben
 
 #### Art. 100
 
-**Schüler der kantonalen Kollegien**
+**Klassenlehrperson**
 
-<sup>1</sup> Das Reglement vom 10. Juli 1987 für die Schüler der kantonalen Kollegien (SGF 412.1.13) wird wie folgt geändert:
+<sup>1</sup> Die Klassenlehrerin oder der Klassenlehrer hat die Verantwortung für die pädagogische und die administrative Leitung der ihr oder ihm anvertrauten Klasse.
 
-...
+<sup>2</sup> In pädagogischer Hinsicht erfüllt sie oder er insbesondere folgende Aufgaben:
+
+- a) Sie oder er ist die erste Ansprechperson der Schule und der Eltern.
+- b) Sie oder er muss ihre oder seine Schülerinnen und Schüler, deren Situation und Bedürfnisse kennen.
+- c) Sie oder er sorgt dafür, dass in ihrer oder seiner Klasse ein günstiges Klima herrscht, welches das Lernen und die persönliche Entfaltung der Schülerinnen und Schüler fördert, deren erste Ansprechperson sie oder er ist.
+- d) Sie oder er trifft zusammen mit den Fachlehrpersonen die nötigen Massnahmen für eine sinnvolle Koordination der Schularbeit in ihrer oder seiner Klasse.
+- e) Sie oder er informiert die Vorsteherin oder den Vorsteher über zwischenmenschliche Konflikte sowie pädagogische, gesundheitliche oder disziplinarische Probleme, die sie oder er nicht selber lösen kann.
+
+<sup>3</sup> In administrativer Hinsicht hat sie oder er namentlich folgende Aufgaben:
+
+- a) Sie oder er beteiligt sich an der Organisation und den schulischen Aktivitäten der Klasse.
+- b) Sie oder er erstellt die von der Schuldirektorin oder dem Schuldirektor zu Kontroll-, Bewertungs- und Statistikzwecken verlangten Daten und führt sie regelmässig nach.
+- c) Sie oder er leitet die offiziellen Mitteilungen des Direktionsrates an die Schülerinnen und Schüler ihrer oder seiner Klasse weiter und informiert sie über die verschiedenen schulischen Veranstaltungen.
 
 #### Art. 101
 
-**Kantonales Lehrerseminar**
+**Pädagogische und administrative Aufgaben**
 
-<sup>1</sup> Das Reglement vom 26. Juni 1990 des Kantonalen Lehrerseminars (SGF 412.2.11) wird wie folgt geändert:
+<sup>1</sup> Den Lehrpersonen können weitere Aufgaben übertragen werden, insbesondere:
 
-...
+- a) die Erarbeitung von kantonalen Lehrplänen,
+- b) die Ausbildung von Praktikantinnen und Praktikanten,
+- c) die Mitarbeit an Prüfungen, die von der Schule oder von der EKSD organisiert werden,
+- d) die Koordination von Schüleraustauschen.
+
+## 7 Finanzierung der Schulen (Art. 66–69 MSG)
 
 #### Art. 102
 
-**Sekretariatskurs**
+**Individuelle Kosten**
 
-<sup>1</sup> Der Beschluss vom 18. Februar 1991 über den Sekretariatskurs am Kollegium Gambach (SGF 412.3.31) wird wie folgt geändert:
-
-...
+<sup>1</sup> Die Kosten für Lehrmittel, persönliches Schulmaterial, die Fahrtkosten und allfällige Verpflegungskosten im Rahmen des Unterrichts oder von kulturellen oder sportlichen Aktivitäten gehen zulasten der Schülerin oder des Schülers.
 
 #### Art. 103
 
-**Schüler der KDMS**
+**Schulgeld und Einschreibegebühren**
 
-<sup>1</sup> Das Reglement vom 17. Januar 1989 für die Schüler der Kantonalen Diplommittelschule (SGF 412.4.23) wird wie folgt geändert:
-
-...
-
-### 11.4 Inkrafttreten und Veröffentlichung
+<sup>1</sup> Der Betrag und die Modalitäten für die Erhebung des Schulgeldes und der Einschreibegebühr werden in besonderen Bestimmungen des Staatsrats festgesetzt.
 
 #### Art. 104
 
-<sup>1</sup> Dieses Reglement tritt am 1. September 1995 in Kraft.
+**Gebühren für besondere Leistungen – Kulturelle und sportliche Aktivitäten**
 
-<sup>2</sup> Es wird im Amtsblatt veröffentlicht, in die Amtliche Gesetzessammlung aufgenommen und im Sonderdruck herausgegeben.
+<sup>1</sup> Für die kulturellen und sportlichen Anlässe der Schulen wird eine jährliche Gebühr erhoben, deren Höchstbetrag von der Schuldirektorenkonferenz festgelegt wird.
 
-BL/AGS 1995 f 266 / d 267
+<sup>2</sup> Die Kosten für besondere Anlässe wie Studientage und ‑wochen, Landschulwochen, Sportlager oder Schulreisen müssen von der Schülerin oder dem Schüler übernommen werden.
+
+#### Art. 105
+
+**Gebühren für besondere Leistungen – Besondere fakultative Unterrichtsangebote**
+
+<sup>1</sup> Auf Wunsch eines oder mehrerer Schülerinnen und Schüler kann die Schuldirektorin oder der Schuldirektor besondere, im Lehrplan nicht vorgesehene Kurse durchführen. Die daraus entstehenden Kosten gehen zulasten der Schülerinnen und Schüler.
+
+#### Art. 106
+
+**Abschlussprüfungen**
+
+<sup>1</sup> Die Gebühren für die Schlussprüfungen werden in besonderen Bestimmungen des Staatsrats festgelegt.
+
+#### Art. 107
+
+**Kostenbegrenzung und finanzielle Unterstützung**
+
+<sup>1</sup> Die Schuldirektorin oder der Schuldirektor und die Lehrpersonen sorgen dafür, dass die individuellen Unterrichtskosten, die Gebühren für die kulturellen und sportlichen Aktivitäten und andere besondere Leistungen durch Koordinationsmassnahmen oder durch Einschränkung der Ziele auf das Nötige beschränkt werden.
+
+<sup>2</sup> Die Schuldirektorin oder der Schuldirektor achtet auf allfällige finanzielle Schwierigkeiten der Schülerinnen und Schüler. Sie oder er trifft alle nötigen Massnahmen, um in Zusammenarbeit mit den zuständigen Stellen und Ämtern diskret zu helfen.
+
+## 8 Privatschulen (Art. 70–72 MSG)
+
+#### Art. 108
+
+**Eröffnung einer Schule (Art. 70 MSG)**
+
+<sup>1</sup> Wird die Eröffnung einer Privatschule gemeldet, so vergewissert sich die EKSD, dass die angebotenen Bildungsgänge klar definiert sind, die ausgestellten Studienausweise der betreffenden Ausbildung entsprechen und es keinen Anlass zu Verwechslungen mit anderen Ausweisen gibt.
+
+#### Art. 109
+
+**Aufsicht über die Privatschulen (Art. 70 MSG)**
+
+<sup>1</sup> Sofern nicht besondere Umstände Sofortmassnahmen erfordern, muss eine Privatschule verwarnt werden, bevor ein Verbot ausgesprochen wird.
+
+#### Art. 110
+
+**Anerkennung eines Bildungsganges**
+
+<sup>1</sup> Ein von einer Privatschule angebotener Bildungsgang kann mit einer vom Staatsrat genehmigten Vereinbarung mit der EKSD anerkannt werden. Diese Anerkennung kann unabhängig von der Gewährung von Subventionen erfolgen.
+
+#### Art. 111
+
+**Bedingungen und Auflagen für Subventionen (Art. 72 MSG)**
+
+<sup>1</sup> Wird einer Privatschule eine Subvention nach Artikel 72 MSG gewährt, so muss eine vom Staatsrat genehmigte Vereinbarung mit der EKSD abgeschlossen werden. Darin werden namentlich folgende Aspekte geregelt:
+
+- a) das Bildungsangebot,
+- b) die Qualitätssicherung und -entwicklung,
+- c) der Betrieb der Schule,
+- d) die administrative und finanzielle Führung der Schule,
+- e) die Qualifikation und die Entlöhnung des Lehrpersonals,
+- f) die Bedingungen für die Aufnahme von Schülerinnen und Schülern,
+- g) die Modalitäten der staatlichen Aufsicht.
+
+## 9 Beratungsdienste (Art. 73–75 MSG)
+
+#### Art. 112
+
+**Psychologischer Beratungsdienst**
+
+<sup>1</sup> Der psychologische Beratungsdienst ist administrativ dem Amt zugeordnet; sein interner Betrieb wird in besonderen Bestimmungen der EKSD geregelt.
+
+#### Art. 113
+
+**Schulmediation und Schulsozialarbeit**
+
+<sup>1</sup> Schulmediation und Schulsozialarbeit gehören zu den Angeboten, welche die Schulen zur Verbesserung und Erhaltung eines guten Schulklimas nutzen können.
+
+<sup>2</sup> Die Fachpersonen der Schulmediation fördern eine gute Kommunikationskultur, beraten und begleiten die Schülerin oder den Schüler und/oder die Erwachsenen in Konfliktsituationen. Die Fachpersonen der Schulsozialarbeit fördern die schulische Integration der Schülerinnen und Schüler und unterstützen dadurch den Bildungs- und Erziehungsauftrag der Schule.
+
+<sup>3</sup> Sie werden von der EKSD auf Antrag der Schuldirektorin oder des Schuldirektors angestellt, der oder dem sie unterstellt sind.
+
+<sup>4</sup> Ihre Zuständigkeiten werden in einem von der EKSD genehmigten Pflichtenheft festgelegt.
+
+<sup>5</sup> Sie können an einer oder mehreren Schulen tätig sein.
+
+## 10 Rechtsmittel
+
+#### Art. 114
+
+**Entscheide ohne Einsprache- oder Beschwerdemöglichkeit**
+
+<sup>1</sup> Namentlich folgende Entscheide betreffen die Stellung einer Schülerin oder eines Schülers nicht, weshalb dagegen grundsätzlich keine Einsprache- und Beschwerdemöglichkeit besteht:
+
+- a) die Verweigerung eines Sonderurlaubs (Art. 13),
+- b) die erzieherischen Massnahmen (Art. 75),
+- c) das Ergebnis einer Einzelbeurteilung, darunter auch die Benotung mit der tiefsten Note, ausser wenn diese Beurteilung einen direkten Einfluss auf eine Promotion oder den Misserfolg an den Abschlussprüfungen hat (Art. 21 und 63),
+- d) die Zuweisung in eine bestimmte Mittelschule (Art. 45) oder der Klassenwechsel.
+
+#### Art. 115
+
+**Einspracheverfahren (Art. 77 MSG)**
+
+<sup>1</sup> Die Einsprache enthält eine kurze Darstellung des Sachverhalts, eine Begründung sowie ein Rechtsbegehren.
+
+<sup>2</sup> Die Schuldirektorin oder der Schuldirektor lädt die Lehrpersonen oder die Vorsteherinnen und Vorsteher ein, innert kurzer Frist zur Einsprache Stellung zu nehmen.
+
+<sup>3</sup> Die Schuldirektorin oder der Schuldirektor behandelt das Verfahren zügig. Sie oder er ermittelt den Sachverhalt, ohne an den Inhalt der Einsprache gebunden zu sein; sie oder er hört die betroffene Schülerin oder den betroffenen Schüler und, wenn diese oder dieser minderjährig ist oder die Umstände es rechtfertigen, die Eltern an. Dabei werden alle Verfahrensschritte schriftlich festgehalten.
+
+<sup>4</sup> Der Einspracheentscheid wird schriftlich mitgeteilt; er ist kurz zu begründen. Wird dem Begehren der Einsprecherin oder des Einsprechers vollumfänglich stattgegeben und fordert keine Partei die Begründung des Entscheids, so kann die Schuldirektorin oder der Schuldirektor darauf verzichten oder die Gründe nur in mündlicher Form angeben.
+
+#### Art. 116
+
+**Einsprache und Beschwerde im Zusammenhang mit der Nutzung von Schulräumlichkeiten durch Drittpersonen**
+
+<sup>1</sup> Gegen die Nichtgewährung einer Bewilligung und die Rechnungsstellung von Nutzungsgebühren kann die Gesuchstellerin oder der Gesuchsteller innert dreissig Tagen Einsprache erheben.
+
+<sup>2</sup> Die Einsprache ist an die EKSD zu richten.
+
+<sup>3</sup> Gegen den Entscheid der EKSD kann gemäss dem Verfahren, das im Gesetz über die Verwaltungsrechtspflege vorgesehen ist, beim Kantonsgericht Beschwerde geführt werden.
+
+#### Art. 117
+
+**Aufsichtsbeschwerde der Eltern und der Schülerinnen oder Schüler (Art. 81 MSG) – Zuständige Behörden**
+
+<sup>1</sup> Aufsichtsbeschwerdebehörden sind:
+
+- a) die Schuldirektorin oder der Schuldirektor, wenn sich die Beschwerde gegen Handlungen oder Unterlassungen einer Lehrperson oder einer Vorsteherin oder eines Vorstehers richtet,
+- b) die EKSD, wenn sich die Beschwerde gegen die Handlungen oder Unterlassungen einer Schuldirektorin oder eines Schuldirektors richtet.
+
+<sup>2</sup> Die EKSD ist zuständig für die Beurteilung einer Beschwerde gegen den Entscheid der Schuldirektorin oder des Schuldirektors, mit dem die Aufsichtsbeschwerde für unzulässig oder unbegründet erklärt wird oder der Beschwerdeführerin oder dem Beschwerdeführer Verfahrenskosten auferlegt werden.
+
+#### Art. 118
+
+**Aufsichtsbeschwerde der Eltern und der Schülerinnen oder Schüler (Art. 81 MSG) – Beschwerdeverfahren**
+
+<sup>1</sup> Die Aufsichtsbeschwerde wird in schriftlicher Form, mit Datum versehen und eigenhändig unterschrieben bei der zuständigen Behörde eingereicht. Sie enthält eine kurze Darlegung des Sachverhalts und der Beschwerdegründe.
+
+<sup>2</sup> Die Aufsichtsbeschwerdebehörde stellt den Sachverhalt fest; sie verlangt von der Person, gegen die sich die Beschwerde richtet, innert kurzer Frist schriftlich Stellung zu nehmen. Sie kann die betroffene Schülerin oder den betroffenen Schüler und, wenn die Umstände es rechtfertigen, die Eltern anhören.
+
+<sup>3</sup> Der Entscheid über die Aufsichtsbeschwerde erfolgt schriftlich und wird kurz begründet.
+
+#### Art. 119
+
+**Aufsichtsbeschwerde der Eltern und der Schülerinnen oder Schüler (Art. 81 MSG) – Verfahrenskosten**
+
+<sup>1</sup> Verfahrenskosten sind die aus der Instruktion der Beschwerde entstandenen Auslagen, namentlich die Kosten für die Beweiserhebung, die Reiseentschädigungen und die Honorare für Drittpersonen.
+
+2021\_056
