@@ -4,13 +4,13 @@ number: "811.111"
 title: Verordnung über die beruflichen Tätigkeiten im Gesundheitswesen
 short: "Gesundheitsverordnung, GesV"
 language: de
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-30
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2124/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2317/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2124/pdf_file"
 
 (Gesundheitsverordnung, GesV)
 
-vom 24.10.2001 (Stand 01.03.2021)
+vom 24.10.2001 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -201,88 +201,42 @@ beschliesst:
 
 ### 1.5 Zuständigkeiten
 
-#### Art. 11
+#### Art. 11–14
 
-**Kantonsarztamt**
+**…**
 
-<sup>1</sup> Das Kantonsarztamt (KAZA) ist die zuständige Stelle für die Erteilung der Berufsausübungsbewilligungen für folgende Berufe
+#### Art. 14a
 
-- a Ärztinnen und Ärzte,
-- b Zahnärztinnen und Zahnärzte,
-- c Chiropraktorinnen und Chiropraktoren,
-- d Psychotherapeutinnen und Psychotherapeuten,
-- e Hebammen und Entbindungspfleger,
-- f Physiotherapeutinnen und Physiotherapeuten,
-- g Ergotherapeutinnen und Ergotherapeuten,
-- h Augenoptikerinnen und Augenoptiker,
-- i Ernährungsberaterinnen und Ernährungsberater,
-- k Podologinnen und Podologen,
-- l Dentalhygienikerinnen und Dentalhygieniker,
-- m Rettungssanitäterinnen und Rettungssanitäter,
-- n Heilpraktikerinnen und Heilpraktiker,
-- o Homöopathinnen und Homöopathen,
-- p Akupunkteurinnen und Akupunkteure,
-- q Therapeutinnen und Therapeuten der TCM,
-- r Osteopathinnen und Osteopathen.
+**Gesundheitsamt**
 
-<sup>2</sup> …
+<sup>1</sup> Das Gesundheitsamt ist die zuständige Stelle für die Erteilung der Berufsausübungsbewilligungen für die in Artikel 2 Absatz 1 genannten Gesundheitsfachpersonen.
 
-<sup>3</sup> Es ist in seinem Fachbereich die zuständige Stelle gemäss GesG für
+<sup>2</sup> Es ist die zuständige Stelle für die Erteilung der Betriebsbewilligung für folgende Betriebe:
+
+- a Apotheken,
+- b Drogerien,
+- c Spitex-Organisationen.
+
+<sup>3</sup> Es ist die zuständige Stelle gemäss GesG für
 
 - a die Inspektion der Einrichtungen und Räumlichkeiten,
 - b den Ausschluss von der Notfalldienstpflicht, die ersatzweise Regelung des ambulanten Notfalldienstes und den Erlass von Verfügungen bei Streitigkeiten aus der Notfalldienstpflicht gemäss Artikel 30a GesG,
-- c die Beschränkung oder das Verbot der Werbung für bestimmte Heilverfahren zum Schutz der Gesundheit und zum Schutz gegen Täuschung und Irreführung der Patientinnen und Patienten gemäss Artikel 29 Absatz 3 GesG.
+- c die Anordnung administrativer Massnahmen gemäss Artikel 17, 17a, 17b und 19a GesG,
+- d die Entgegennahme von Mitteilungen und die Führung des Registers gemäss Artikel 20 GesG,
+- e die Entgegennahme der Informationen gemäss Artikel 49a GesG.
 
-<sup>4</sup> Es ist für alle Berufsgruppen gemäss dieser Verordnung die zuständige Stelle für die Entbindung von der Schweigepflicht gemäss Artikel 8 Absatz 2 und Artikel 27 Absatz 2 GesG.
+<sup>4</sup> Es ist die zuständige Stelle für die Erteilung folgender bundesrechtlicher Bewilligungen:
 
-#### Art. 12
-
-**Kantonsapothekeramt**
-
-<sup>1</sup> Das Kantonsapothekeramt (KAPA) ist die zuständige Stelle für die Erteilung der Berufsausübungsbewilligungen für folgende Berufe
-
-- a Apothekerinnen und Apotheker,
-- b Drogistinnen und Drogisten.
-
-<sup>2</sup> Es ist die zuständige Stelle für die Erteilung der Betriebsbewilligungen für folgende Betriebe
-
-- a Apotheken,
-- b Drogerien.
-
-<sup>3</sup> Es ist die zuständige Stelle für die Erteilung folgender bundesrechtlicher Bewilligungen:
-
-- a Bewilligung für den Versandhandel mit Arzneimitteln (Art. 27 Abs. 4 HMG),
+- a Bewilligung für den Versandhandel mit Arzneimitteln (Art. 27 Abs. 4 des Bundesgesetzes vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte [Heilmittelgesetz, HMG][^14a-1]),
 - b Bewilligung für Betriebe, die Blut oder labile Blutprodukte nur lagern (Art. 34 Abs. 4 HMG),
-- c Bewilligung für die Herstellung von Arzneimitteln nach Formula magistralis, Formula officinalis, Formula hospitalis oder nach eigener Formel (Art. 6 der Verordnung des Bundesrates vom 17. Oktober 2001 über die Bewilligungen im Arzneimittelbereich [Arzneimittel-Bewilligungsverordnung, AMBV][^12-1]),
-- d Ermächtigung von Beraterinnen und Beratern von Familienplanungsstellen, im Rahmen ihrer Tätigkeit die «Pille danach» abzugeben (Art. 25c der Verordnung des Bundesrates vom 17. Oktober 2001 über die Arzneimittel [Arzneimittelverordnung, VAM[^12-2]]).
+- c Bewilligung für die Herstellung von Arzneimitteln nach Formula magistralis, Formula officinalis, Formula hospitalis oder nach eigener Formel (Art. 6 der Verordnung des Bundesrates vom 17. Oktober 2001 über die Bewilligungen im Arzneimittelbereich [Arzneimittel-Bewilligungsverordnung, AMBV][^14a-2]),
+- d Ermächtigung von Beraterinnen und Beratern von Familienplanungsstellen, im Rahmen ihrer Tätigkeit die «Pille danach» abzugeben (Art. 25c der Verordnung des Bundesrates vom 17. Oktober 2001 über die Arzneimittel [Arzneimittelverordnung, VAM][^14a-3]).
 
-<sup>4</sup> Es ist in seinem Fachbereich die zuständige Stelle gemäss GesG für
+<sup>5</sup> Es ist für alle Berufsgruppen gemäss dieser Verordnung die zuständige Stelle für die Entbindung von der Schweigepflicht gemäss Artikel 8 Absatz 2 und Artikel 27 Absatz 2 GesG.
 
-- a die Inspektion der Einrichtungen und Räumlichkeiten,
-- b den Ausschluss von der Notfalldienstpflicht, die ersatzweise Regelung des ambulanten Notfalldienstes und den Erlass von Verfügungen bei Streitigkeiten aus der Notfalldienstpflicht nach Artikel 30a GesG,
-- c die Beschränkung oder das Verbot der Werbung für bestimmte Heilverfahren zum Schutz der Gesundheit und zum Schutz gegen Täuschung und Irreführung der Patientinnen und Patienten nach Artikel 29 Absatz 3 GesG.
-
-[^12-1]: SR 812.212.1
-[^12-2]: SR 812.212.21
-
-#### Art. 13
-
-**Alters- und Behindertenamt**
-
-<sup>1</sup> Das Alters- und Behindertenamt (ALBA) ist die zuständige Stelle für die Erteilung
-
-- a der Berufsausübungsbewilligungen für diplomierte Pflegefachfrauen und diplomierte Pflegefachmänner,
-- b der Betriebsbewilligungen für Spitex-Organisationen.
-
-#### Art. 14
-
-**Weitere Zuständigkeiten**
-
-<sup>1</sup> Die Fachämter gemäss Artikel 11, 12 und 13 sind in ihrem Fachbereich die jeweils zuständige Stelle für
-
-- a die Anordnung administrativer Massnahmen nach Artikel 17, 17a, 17b und 19a GesG,
-- b die Entgegennahme von Mitteilungen und die Führung des Registers nach Artikel 20 GesG,
-- c die Entgegennahme der Informationen nach Artikel 49a GesG.
+[^14a-1]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de)
+[^14a-2]: SR [812.212.1](https://db.clex.ch/link/Bund/812.212.1/de)
+[^14a-3]: SR [812.212.21](https://db.clex.ch/link/Bund/812.212.21/de)
 
 ## 2 Besondere Bestimmungen
 
@@ -345,7 +299,7 @@ beschliesst:
 - a Heilmittel herzustellen und abzugeben,
 - b eine Apotheke zu leiten.
 
-<sup>2</sup> Mit Bewilligung des KAPA sind sie zusätzlich berechtigt, kapillare Blutentnahmen durchzuführen sowie gesunde Personen ab 16 Jahren ohne ärztliche Verschreibung gegen folgende Krankheiten zu impfen:
+<sup>2</sup> Mit Bewilligung des GA sind sie zusätzlich berechtigt, kapillare Blutentnahmen durchzuführen sowie gesunde Personen ab 16 Jahren ohne ärztliche Verschreibung gegen folgende Krankheiten zu impfen:
 
 - a Grippe,
 - b Frühsommer-Meningoenzephalitis (FSME),
@@ -416,7 +370,7 @@ beschliesst:
 
 <sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkannten Diploms sind.
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das KAZA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
 
 ### 2.7 Diplomierte Pflegefachfrauen und diplomierte Pflegefachmänner
 
@@ -438,7 +392,7 @@ beschliesst:
 
 <sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkannten Diploms sind.
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie ihren Beruf seit Erlangen des Diploms während mindestens zwei Jahren unter fachlich-pflegerischer Aufsicht ausgeübt haben. Das ALBA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>2</sup> Sie haben nachzuweisen, dass sie ihren Beruf seit Erlangen des Diploms während mindestens zwei Jahren unter fachlich-pflegerischer Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
 
 ### 2.8 Physiotherapeutinnen und Physiotherapeuten
 
@@ -448,7 +402,7 @@ beschliesst:
 
 <sup>1</sup> Physiotherapeutinnen und Physiotherapeuten sind berechtigt, Patientinnen und Patienten durch Techniken der aktiven und passiven Physiotherapie und durch anerkannte physikalische Behandlungsmethoden zu behandeln und ihre Bewegungsfunktion zu erhalten oder zu verbessern.
 
-<sup>2</sup> Die ärztlich oder chiropraktorisch verordnete Vornahme von Manipulationen mit Impuls ist nur Physiotherapeutinnen und Physiotherapeuten gestattet, die über eine hinreichende, vom KAZA anerkannte Zusatzausbildung verfügen.
+<sup>2</sup> Die ärztlich oder chiropraktorisch verordnete Vornahme von Manipulationen mit Impuls ist nur Physiotherapeutinnen und Physiotherapeuten gestattet, die über eine hinreichende, vom GA anerkannte Zusatzausbildung verfügen.
 
 #### Art. 30
 
@@ -456,7 +410,7 @@ beschliesst:
 
 <sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkannten Diploms sind.
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das KAZA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
 
 ### 2.9 Ergotherapeutinnen und Ergotherapeuten
 
@@ -475,7 +429,7 @@ beschliesst:
 
 <sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkannten Diploms sind.
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das KAZA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
 
 ### 2.10 Augenoptikerinnen und Augenoptiker
 
@@ -516,7 +470,7 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines vom KAZA anerkannten Fähigkeitsausweises sind.
+<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines vom GA anerkannten Fähigkeitsausweises sind.
 
 <sup>2</sup> Anerkannt werden
 
@@ -563,7 +517,7 @@ beschliesst:
 
 <sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkannten Diploms sind.
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie ihren Beruf seit Erlangen des Diploms während mindestens zwei Jahren unter fachlicher Aufsicht ausgeübt haben. Das KAZA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>2</sup> Sie haben nachzuweisen, dass sie ihren Beruf seit Erlangen des Diploms während mindestens zwei Jahren unter fachlicher Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
 
 ### 2.13 Ernährungsberaterinnen und Ernährungsberater
 
@@ -582,7 +536,7 @@ beschliesst:
 
 <sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller im Besitz eines gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkannten Diploms sind.
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das KAZA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
 
 ### 2.14 Podologinnen und Podologen
 
@@ -611,9 +565,9 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über eine vom KAZA anerkannte Ausbildung verfügen.
+<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über eine vom GA anerkannte Ausbildung verfügen.
 
-<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt
+<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt:
 
 - a Grundwissen in Anatomie, Physiologie, Pathologie, Hygiene, System und Gesetzgebung des Gesundheitswesens,
 - b spezielles Wissen über
@@ -623,11 +577,11 @@ beschliesst:
   - 4\. Asepsis, Antisepsis, Sterilisation, Wundinfektion, Desinfektion, Medikamente und Fusspflege,
   - 5\. Kenntnis und Handhabung der zur Ausübung der Fusspflege notwendigen gebräuchlichen Mittel, Instrumente, Apparate und Einrichtungen.
 
-<sup>3</sup> Das KAZA erarbeitet Richtlinien zur Beurteilung der Ausbildung.
+<sup>3</sup> Das GA erarbeitet Richtlinien zur Beurteilung der Ausbildung.
 
 <sup>4</sup> …
 
-<sup>5</sup> Das KAZA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
+<sup>5</sup> Das GA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
 
 ### 2.15 Dentalhygienikerinnen und Dentalhygieniker
 
@@ -652,7 +606,7 @@ beschliesst:
 
 <sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über ein Diplom als diplomierte Dentalhygienikerin HF oder als diplomierter Dentalhygieniker HF oder über ein gemäss der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen anerkanntes Diplom verfügen.
 
-<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das KAZA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
+<sup>2</sup> Sie haben nachzuweisen, dass sie seit Erlangen des Diploms während mindestens zwei Jahren ihren Beruf unter fachlicher Aufsicht ausgeübt haben. Das GA kann eine gleichwertige berufliche Tätigkeit im Ausland im Umfang von höchstens einem Jahr anerkennen.
 
 ### 2.16 Heilpraktikerinnen und Heilpraktiker
 
@@ -672,9 +626,9 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über eine vom KAZA anerkannte Ausbildung verfügen.
+<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über eine vom GA anerkannte Ausbildung verfügen.
 
-<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt
+<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt:
 
 - a Grundwissen in Anatomie, Physiologie, Pathologie, Hygiene, Psychosomatik, Heilkräuterkunde, System und Gesetzgebung des Gesundheitswesens,
 - b Anamnese, Gesprächsführung mit der Patientin oder dem Patienten,
@@ -685,7 +639,7 @@ beschliesst:
 
 <sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zuhanden der GSI Richtlinien zur Beurteilung der Ausbildung.
 
-<sup>5</sup> Das KAZA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
+<sup>5</sup> Das GA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
 
 ### 2.17 Homöopathinnen und Homöopathen
 
@@ -699,9 +653,9 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über einen vom KAZA anerkannten Ausbildungsabschluss verfügen.
+<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über einen vom GA anerkannten Ausbildungsabschluss verfügen.
 
-<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt
+<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt:
 
 - a Grundwissen in Anatomie, Physiologie, Pathologie, Hygiene und Psychosomatik, System und Gesetzgebung des Gesundheitswesens,
 - b Anamnese, Symptomatologie, Hierarchisierung und Repertorisation nach den Regeln der Homöopathie.
@@ -710,7 +664,7 @@ beschliesst:
 
 <sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zuhanden der GSI Richtlinien zur Beurteilung der Ausbildung.
 
-<sup>5</sup> Das KAZA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
+<sup>5</sup> Das GA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
 
 ### 2.18 Akupunkteurinnen und Akupunkteure
 
@@ -724,9 +678,9 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über eine vom KAZA anerkannte Ausbildung verfügen.
+<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über eine vom GA anerkannte Ausbildung verfügen.
 
-<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt
+<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt:
 
 - a Grundwissen in Anatomie, Physiologie, Pathologie, Hygiene und Psychosomatik, System und Gesetzgebung des Gesundheitswesens,
 - b Anamnese, Befunderhebung, Meridiansysteme, Elementenlehre, Punktlokalisation und saubere Nadeltechnik nach den Regeln der Akupunktur.
@@ -735,7 +689,7 @@ beschliesst:
 
 <sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zuhanden der GSI Richtlinien zur Beurteilung der Ausbildung.
 
-<sup>5</sup> Das KAZA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
+<sup>5</sup> Das GA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
 
 ### 2.19 Therapeutinnen und Therapeuten der TCM
 
@@ -753,9 +707,9 @@ beschliesst:
 
 **Bewilligungsvorraussetzungen**
 
-<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über eine vom KAZA anerkannte Ausbildung verfügen.
+<sup>1</sup> Die Erteilung einer Berufsausübungsbewilligung setzt voraus, dass die Gesuchstellerinnen und Gesuchsteller über eine vom GA anerkannte Ausbildung verfügen.
 
-<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt
+<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung, die hinreichende Kenntnisse in den folgenden Gebieten vermittelt:
 
 - a Grundwissen in Anatomie, Physiologie, Pathologie, Hygiene, Psychosomatik und Heilkräuterkunde, System und Gesetzgebung des Gesundheitswesens,
 - b Anamnese, Feststellung von Krankheiten, Verletzungen und anderen gesundheitlichen Störungen, Meridiansysteme, Elementenlehre und Therapieformen nach den Regeln der TCM.
@@ -764,7 +718,7 @@ beschliesst:
 
 <sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zu Handen der GSI Richtlinien zur Beurteilung der Ausbildung.
 
-<sup>5</sup> Das KAZA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
+<sup>5</sup> Das GA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
 
 ### 2.20 Osteopathinnen und Osteopathen
 
@@ -811,18 +765,18 @@ beschliesst:
 
 <sup>1</sup> Öffentliche Apotheken haben die gebräuchlichen Heilmittel zu führen, insbesondere solche, die bei Notfällen erforderlich sind.
 
-<sup>2</sup> Sie sind insbesondere berechtigt,
+<sup>2</sup> Öffentliche Apotheken sind insbesondere berechtigt,
 
 - a Arzneimittel vorrätig zu halten und an Patientinnen und Patienten oder an Personen, die zur Anwendung von Arzneimitteln berechtigt sind, abzugeben,
 - b …
-- c mit Bewilligung des KAPA Arzneimittel nach Formula magistralis herzustellen und abzugeben,
-- d mit Bewilligung des KAPA Arzneimittel nach Formula officinalis in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben,
-- e mit Bewilligung des KAPA Arzneimittel aus Wirkstoffen der Stofflisten C, D und E nach eigener Formel in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben,
-- f mit Bewilligung des KAPA kapillare Blutentnahmen durchzuführen sowie an gesunden Personen ab 16 Jahren die für Apothekerinnen und Apotheker zulässigen Impfungen in der Apotheke vorzunehmen.
+- c mit Bewilligung des GA Arzneimittel nach Formula magistralis herzustellen und abzugeben,
+- d mit Bewilligung des GA Arzneimittel nach Formula officinalis in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben,
+- e mit Bewilligung des GA Arzneimittel aus Wirkstoffen der Stofflisten C, D und E nach eigener Formel in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben,
+- f mit Bewilligung des GA kapillare Blutentnahmen durchzuführen sowie an gesunden Personen ab 16 Jahren die für Apothekerinnen und Apotheker zulässigen Impfungen in der Apotheke vorzunehmen.
 
-<sup>3</sup> Die nach Absatz 2 Buchstabe e hergestellten Arzneimittel sind dem KAPA unter Angabe von Bezeichnung, Zusammensetzung und Beschriftung zu melden.
+<sup>3</sup> Die nach Absatz 2 Buchstabe e hergestellten Arzneimittel sind dem GA unter Angabe von Bezeichnung, Zusammensetzung und Beschriftung zu melden.
 
-<sup>4</sup> Sie können vom KAPA und KAZA befugt oder beauftragt werden, gesundheitsvorsorgliche Leistungen zu erbringen.
+<sup>4</sup> Sie können vom GA befugt oder beauftragt werden, gesundheitsvorsorgliche Leistungen zu erbringen.
 
 #### Art. 59
 
@@ -830,14 +784,14 @@ beschliesst:
 
 <sup>1</sup> Spitalapotheken dienen zur Versorgung des Spitalbetriebs mit den erforderlichen Heilmitteln.
 
-<sup>2</sup> Sie sind insbesondere berechtigt
+<sup>2</sup> Sie sind insbesondere berechtigt,
 
 - a Arzneimittel vorrätig zu halten und an Spitalpatientinnen und Spitalpatienten abzugeben,
-- b mit Bewilligung des KAPA Arzneimittel nach Formula magistralis herzustellen und an Spitalpatientinnen und Spitalpatienten abzugeben,
-- c mit Bewilligung des KAPA Arzneimittel nach Formula officinalis in kleinen Mengen herzustellen und an Spitalpatientinnen und Spitalpatienten abzugeben,
-- d mit Bewilligung des KAPA Arzneimittel nach eigener Formel in kleinen Mengen herzustellen und an Spitalpatientinnen und Spitalpatienten abzugeben.
+- b mit Bewilligung des GA Arzneimittel nach Formula magistralis herzustellen und an Spitalpatientinnen und Spitalpatienten abzugeben,
+- c mit Bewilligung des GA Arzneimittel nach Formula officinalis in kleinen Mengen herzustellen und an Spitalpatientinnen und Spitalpatienten abzugeben,
+- d mit Bewilligung des GA Arzneimittel nach eigener Formel in kleinen Mengen herzustellen und an Spitalpatientinnen und Spitalpatienten abzugeben.
 
-<sup>3</sup> Die nach Absatz 2 Buchstabe d hergestellten Arzneimittel sind dem KAPA unter Angabe von Bezeichnung, Zusammensetzung und Beschriftung zu melden.
+<sup>3</sup> Die nach Absatz 2 Buchstabe d hergestellten Arzneimittel sind dem GA unter Angabe von Bezeichnung, Zusammensetzung und Beschriftung zu melden.
 
 #### Art. 60
 
@@ -852,11 +806,11 @@ beschliesst:
 <sup>1</sup> Die Drogerien sind insbesondere berechtigt,
 
 - a Arzneimittel der Abgabekategorien D und E vorrätig zu halten und an das Publikum abzugeben,
-- b mit Bewilligung des KAPA Arzneimittel nach Formula officinalis in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben,
-- c mit Bewilligung des KAPA Arzneimittel aus Wirkstoffen der Stofflisten D und E nach eigener Formel in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben.
+- b mit Bewilligung des GA Arzneimittel nach Formula officinalis in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben,
+- c mit Bewilligung des GA Arzneimittel aus Wirkstoffen der Stofflisten D und E nach eigener Formel in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben.
 - d …
 
-<sup>2</sup> Die nach Absatz 1 Buchstabe c hergestellten Arzneimittel sind dem KAPA unter Angabe von Bezeichnung, Zusammensetzung und Beschriftung zu melden.
+<sup>2</sup> Die nach Absatz 1 Buchstabe c hergestellten Arzneimittel sind dem GA unter Angabe von Bezeichnung, Zusammensetzung und Beschriftung zu melden.
 
 ### 3.1.3
 
@@ -894,13 +848,13 @@ beschliesst:
 
 #### Art. 65
 
-<sup>1</sup> Das KAPA führt vor der Bewilligungserteilung eine Inspektion durch und überprüft, ob die Voraussetzungen für eine Betriebsbewilligung erfüllt sind. Die Inspektionen sind periodisch zu wiederholen (ordentliche Inspektionen).
+<sup>1</sup> Das GA führt vor der Bewilligungserteilung eine Inspektion durch und überprüft, ob die Voraussetzungen für eine Betriebsbewilligung erfüllt sind. Die Inspektionen sind periodisch zu wiederholen (ordentliche Inspektionen).
 
-<sup>2</sup> Bei Wechsel der Betriebsleitung und soweit es verordnungswidrige Zustände oder ein entsprechender Verdacht notwendig machen, nimmt das KAPA zusätzliche Inspektionen vor. Diese können jederzeit und so oft als nötig durchgeführt werden (ausserordentliche Inspektionen).
+<sup>2</sup> Bei Wechsel der Betriebsleitung und soweit es verordnungswidrige Zustände oder ein entsprechender Verdacht notwendig machen, nimmt das GA zusätzliche Inspektionen vor. Diese können jederzeit und so oft als nötig durchgeführt werden (ausserordentliche Inspektionen).
 
-<sup>3</sup> Das KAPA kann eidgenössisch diplomierte Apothekerinnen und Apotheker, Drogistinnen und Drogisten sowie Ärztinnen und Ärzte mit der Durchführung von Inspektionen beauftragen. Die GSI bestimmt die Inspektorinnen und Inspektoren auf Antrag des KAPA und legt ihre Entschädigung fest.
+<sup>3</sup> Das GA kann eidgenössisch diplomierte Apothekerinnen und Apotheker, Drogistinnen und Drogisten sowie Ärztinnen und Ärzte mit der Durchführung von Inspektionen beauftragen. Die GSI bestimmt die Inspektorinnen und Inspektoren auf Antrag des GA und legt ihre Entschädigung fest.
 
-<sup>4</sup> Das KAPA kann im Rahmen der Marktüberwachung unentgeltlich die zur Überwachung der Sicherheit der Heilmittel notwendigen Muster erheben, die erforderlichen Auskünfte oder Unterlagen verlangen und jede erforderliche Unterstützung anfordern.
+<sup>4</sup> Das GA kann im Rahmen der Marktüberwachung unentgeltlich die zur Überwachung der Sicherheit der Heilmittel notwendigen Muster erheben, die erforderlichen Auskünfte oder Unterlagen verlangen und jede erforderliche Unterstützung anfordern.
 
 <sup>5</sup> Es erlässt Richtlinien zur Gewährleistung einer einheitlichen Inspektionspraxis.
 
@@ -923,9 +877,9 @@ beschliesst:
 
 <sup>1</sup> Die Betriebsleiterin oder der Betriebsleiter der Apotheke oder Drogerie ist für die Qualität der in den Apotheken- oder Drogerieräumen befindlichen Heilmittel verantwortlich.
 
-<sup>2</sup> An Heilmitteln festgestellte Mängel, welche die Heilmittelsicherheit beeinträchtigen können, sind sofort dem Schweizerischen Heilmittelinstitut und dem KAPA zu melden.
+<sup>2</sup> An Heilmitteln festgestellte Mängel, welche die Heilmittelsicherheit beeinträchtigen können, sind sofort dem Schweizerischen Heilmittelinstitut und dem GA zu melden.
 
-<sup>3</sup> Verluste von Betäubungsmitteln sind dem KAPA unverzüglich zu melden.
+<sup>3</sup> Verluste von Betäubungsmitteln sind dem GA unverzüglich zu melden.
 
 ### 3.1.8 Heilmittelmissbrauch
 
@@ -935,7 +889,7 @@ beschliesst:
 
 <sup>2</sup> Bei begründetem Verdacht auf Missbrauch ist die Arzneimittelabgabe zu verweigern und mit der Fachperson, welche die ärztliche Verschreibung ausgestellt hat, Rücksprache zu nehmen.
 
-<sup>3</sup> Schwer wiegende Fälle sind sofort dem Schweizerischen Heilmittelinstitut und dem KAPA zu melden.
+<sup>3</sup> Schwerwiegende Fälle sind sofort dem Schweizerischen Heilmittelinstitut und dem GA zu melden.
 
 ### 3.1.9 Ärztliche Verschreibungen
 
@@ -947,18 +901,18 @@ beschliesst:
 
 - a von einer berechtigten Fachperson ausgestellt wurde und deren Namen und Praxisadresse enthält,
 - b die Bezeichnung, den Wirkstoffgehalt und die galenische Form des Arzneimittels, die Grösse und Menge der abzugebenden Packungen sowie Angaben über die Dosierung enthält,
-- c datiert und im Original unterschrieben ist oder eine elektronische Signatur im Sinne von Artikel 14 Absatz 2<sup>bis</sup> des Obligationenrechts (OR) [^69-1] aufweist,
+- c datiert und im Original unterschrieben ist oder eine qualifizierte elektronische Signatur im Sinne von Artikel 14 Absatz 2<sup>bis</sup> des Obligationenrechts (OR)[^69-1] aufweist,
 - d Name und Jahrgang der Patientin oder des Patienten enthält.
 
 <sup>2</sup> Entdeckt oder vermutet die Apothekerin oder der Apotheker mögliche Wechselwirkungen mit anderen Arzneimitteln, welche die Patientin oder der Patient anwendet, oder einen Irrtum seitens der Fachperson, welche die ärztliche Verschreibung ausgestellt hat, so ist mit dieser unverzüglich Rücksprache zu nehmen.
 
 <sup>3</sup> Die Apothekerin oder der Apotheker ist verpflichtet, die Patientinnen und Patienten auf den sachgerechten Gebrauch der ärztlich verschriebenen Heilmittel hinzuweisen.
 
-<sup>4</sup> Vermutet die Apothekerin oder der Apotheker eine Fälschung oder Verfälschung der ärztlichen Verschreibung, so hat sie oder er vor deren Ausführung mit der von der vermuteten Fälschung oder Verfälschung betroffenen Fachperson Kontakt aufzunehmen. Ist dies nicht möglich, wird im Falle der vermuteten Verfälschung die minimale Menge des Arzneimittels abgegeben und die betroffene Fachperson nachträglich orientiert. Mutmasslich gefälschte ärztliche Verschreibungen dürfen nicht ausgeführt werden. Sie sind zurückzubehalten und dem KAPA zuzustellen.
+<sup>4</sup> Vermutet die Apothekerin oder der Apotheker eine Fälschung oder Verfälschung der ärztlichen Verschreibung, so hat sie oder er vor deren Ausführung mit der von der vermuteten Fälschung oder Verfälschung betroffenen Fachperson Kontakt aufzunehmen. Ist dies nicht möglich, wird im Falle der vermuteten Verfälschung die minimale Menge des Arzneimittels abgegeben und die betroffene Fachperson nachträglich orientiert. Mutmasslich gefälschte ärztliche Verschreibungen dürfen nicht ausgeführt werden. Sie sind zurückzubehalten und dem GA zuzustellen.
 
 <sup>5</sup> Bei der Abgabe von kontrollierten Substanzen kann die Apothekerin oder der Apotheker die Identität der Patientin oder des Patienten überprüfen.
 
-[^69-1]: SR 220
+[^69-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### Art. 70
 
@@ -995,11 +949,11 @@ beschliesst:
 - a verschreibungspflichtigen Arzneimitteln,
 - b Arzneimitteln, die nach Formula magistralis hergestellt wurden,
 - c nicht in der Originalpackung belassenen Arzneimitteln (sine confectione),
-- d weiteren, vom KAPA bezeichneten Heilmitteln, die ein besonderes Missbrauchspotenzial aufweisen oder bei denen aus anderen Gründen eine erhöhte Sorgfalt geboten ist.
+- d weiteren, vom GA bezeichneten Heilmitteln, die ein besonderes Missbrauchspotenzial aufweisen oder bei denen aus anderen Gründen eine erhöhte Sorgfalt geboten ist.
 
 <sup>2</sup> Die Aufzeichnungen müssen enthalten
 
-- a die Namen der Patientin oder des Patienten und der Fachperson, welche die ärztliche Verschreibung ausgestellt hat
+- a die Namen der Patientin oder des Patienten und der Fachperson, welche die ärztliche Verschreibung ausgestellt hat,
 - b Art und Menge des abgegebenen Heilmittels (im Falle von Abs. 1 Bst. b die genaue und vollständige Zusammensetzung),
 - c das Datum der Abgabe, gegebenenfalls die Identifikationsnummer,
 - d die von der rezeptausstellenden Fachperson vorgeschriebene Gebrauchsanweisung.
@@ -1026,7 +980,7 @@ beschliesst:
 
 **Verschreibung, Abgabe und Anwendung von Heilmitteln**
 
-<sup>1</sup> Die Verschreibung, die Abgabe und die Anwendung von Heilmitteln richten sich nach den Artikeln 23 bis 26 und Artikel 48 HMG, den Artikeln 23 bis 27b VAM sowie den Artikeln 16 bis 20 der Medizinprodukteverordnung des Bundesrates vom 17. Oktober 2001 (MepV[^75-1]).
+<sup>1</sup> Die Verschreibung, die Abgabe und die Anwendung von Heilmitteln richten sich nach den Artikeln 23 bis 26 und Artikel 48 HMG, den Artikeln 23 bis 27b VAM sowie den Artikeln 16 bis 20 der Medizinprodukteverordnung des Bundesrates vom 17. Oktober 2001 (MepV)[^75-1].
 
 <sup>2</sup> Folgende Fachpersonen sind zur Anwendung nicht verschreibungspflichtiger und verschreibungspflichtiger Arzneimittel (Art. 27a Abs. 1 und 2 VAM) berechtigt:
 
@@ -1039,7 +993,7 @@ beschliesst:
 
 <sup>2a</sup> Apothekerinnen und Apotheker sind zur Anwendung von Arzneimitteln nach Artikel 19 Absatz 2 berechtigt.
 
-<sup>3</sup> Das KAPA bestimmt die verschreibungspflichtigen Arzneimittel, welche durch die in Absatz 2 Buchstaben c bis f genannten Fachpersonen angewendet werden dürfen (Art. 27a Abs. 3 VAM).
+<sup>3</sup> Das GA bestimmt die verschreibungspflichtigen Arzneimittel, welche durch die in Absatz 2 Buchstaben c bis f genannten Fachpersonen angewendet werden dürfen (Art. 27a Abs. 3 VAM).
 
 <sup>4</sup> Folgende Fachpersonen sind zur Anwendung nicht verschreibungspflichtiger Arzneimittel, die üblicherweise zu ihrem Tätigkeitsbereich gehören, berechtigt:
 
@@ -1053,7 +1007,7 @@ beschliesst:
 
 <sup>6</sup> Als Erstversorgung im Sinne von Artikel 31 Absatz 2 GesG gilt in der Regel die einmalige Abgabe der kleinsten Originalpackung eines Präparats.
 
-[^75-1]: SR 812.213
+[^75-1]: SR [812.213](https://db.clex.ch/link/Bund/812.213/de)
 
 ### 3.2.2
 

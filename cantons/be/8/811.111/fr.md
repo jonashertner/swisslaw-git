@@ -4,13 +4,13 @@ number: "811.111"
 title: Ordonnance sur les activités professionnelles dans le secteur sanitaire
 short: "Ordonnance sur la santé publique, OSP"
 language: fr
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-30
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2124/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2317/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2124/pdf_file"
 
 (Ordonnance sur la santé publique, OSP)
 
-du 24.10.2001 (état au 01.03.2021)
+du 24.10.2001 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -201,92 +201,42 @@ arrête:
 
 ### 1.5 Compétences
 
-#### Art. 11
+#### Art. 11–14
 
-**Office du médecin cantonal**
+**…**
 
-<sup>1</sup> L'Office du médecin cantonal (OMC) est compétent pour délivrer les autorisations d'exercer aux professionnels de la santé suivants:
+#### Art. 14a
 
-- a médecins,
-- b médecins-dentistes,
-- c chiropraticiens et chiropraticiennes,
-- d psychothérapeutes,
-- e hommes sages-femmes et sages-femmes,
-- f physiothérapeutes,
-- g ergothérapeutes,
-- h opticiens et opticiennes,
-- i diététiciens et diététiciennes,
-- k pédicures-podologues,
-- l hygiénistes dentaires,
-- m ambulanciers et ambulancières,
-- n naturopathes,
-- o homéopathes,
-- p acupuncteurs et acupunctrices,
-- q thérapeutes MTC,
-- r ostéopathes.
+**Office de la santé**
 
-<sup>2</sup> …
+<sup>1</sup> L'Office de la santé (ODS) a compétence pour délivrer les autorisations d'exercer aux professionnels de la santé mentionnés à l'article 2, alinéa 1.
 
-<sup>3</sup> Dans son domaine de spécialité, il est compétent en vertu de la LSP pour
-
-- a conduire les inspections des installations et des locaux;
-- b dispenser une personne de l'obligation de prendre part au service des urgences, régler à titre subsidiaire le service des urgences ambulatoire et trancher les différends y relatifs conformément à l'article 30a LSP[^11-1];
-- c limiter ou interdire la publicité pour certaines méthodes thérapeutiques afin de protéger la santé des patients et des patientes et d'éviter qu'ils ne soient trompés ou abusés, conformément à l'article 29, alinéa 3 LSP.
-
-<sup>4</sup> Il est compétent pour délier du secret professionnel, en vertu de l'article 8, alinéa 2 et de l'article 27, alinéa 2 LSP, tous les professionnels de la santé soumis à la présente ordonnance.
-
-[^11-1]: RSB 811.01
-
-#### Art. 12
-
-**Office du pharmacien cantonal**
-
-<sup>1</sup> L'Office du pharmacien cantonal (OPHC) est compétent pour délivrer les autorisations d'exercer aux professionnels de la santé suivants:
-
-- a pharmaciens et pharmaciennes,
-- b droguistes.
-
-<sup>2</sup> Il est compétent pour délivrer les autorisations d'exploiter les entreprises suivantes:
+<sup>2</sup> Il a compétence pour délivrer les autorisations d'exploiter les entreprises suivantes:
 
 - a pharmacies,
-- b drogueries.
+- b drogueries,
+- c services d'aide et de soins à domicile.
 
-<sup>3</sup> Il est compétent pour délivrer les autorisations régies par le droit fédéral
-
-- a pour la vente par correspondance des médicaments (art. 27, al. 4 LPTh[^12-1]),
-- b pour le stockage du sang ou des produits sanguins labiles (art. 34, al. 4 LPTh),
-- c pour la fabrication de médicaments selon une formule magistrale, selon une formule officinale, selon une formule hospitalière ou selon une propre formule (art. 6 de l'ordonnance fédérale du 17 octobre 2001 sur les autorisations dans le domaine des médicaments [OAMéd][^12-2]),
-- d pour la remise de la «pilule du lendemain», par des conseillers et conseillères des services de planification familiale, dans le cadre de leur activité, (art. 25c de l'ordonnance du 17 octobre 2001 sur les médicaments [OMéd][^12-3]).
-
-<sup>4</sup> Dans son domaine de spécialité, il est compétent en vertu de la LSP pour
+<sup>3</sup> Il est le service compétent conformément à la LSP pour
 
 - a conduire les inspections des installations et des locaux;
-- b dispenser une personne de l'obligation de prendre part au service des urgences, régler à titre subsidiaire le service des urgences ambulatoire et trancher les différends y relatifs conformément à l'article 30a LSP[^12-4];
-- c limiter ou interdire la publicité pour certaines méthodes thérapeutiques afin de protéger la santé des patients et des patientes et d'éviter qu'ils ne soient trompés ou abusés, conformément à l'article 29, alinéa 3 LSP.
+- b dispenser une personne de l'obligation de prendre part au service des urgences, régler à titre subsidiaire le service des urgences ambulatoire et trancher par voie de décision les litiges portant sur le système des urgences visés à l'article 30a LSP;
+- c ordonner les mesures administratives prévues aux articles 17, 17a, 17b et 19a LSP;
+- d recevoir les communications et tenir le registre requis à l'article 20 LSP;
+- e recueillir les informations spécifiées à l'article 49a LSP.
 
-[^12-1]: RS 812.21
-[^12-2]: RS 812.212.1
-[^12-3]: RS 812.212.21
-[^12-4]: RSB 811.01
+<sup>4</sup> Il a compétence pour délivrer les autorisations régies par le droit fédéral
 
-#### Art. 13
+- a pour la vente par correspondance des médicaments (art. 27, al. 4 de la loi fédérale du 15 décembre 2000 sur les médicaments et les dispositifs médicaux [loi sur les produits thérapeutiques, LPTh][^14a-1]),
+- b pour le stockage du sang ou des produits sanguins labiles (art. 34, al. 4 LPTh),
+- c pour la fabrication de médicaments selon une formule magistrale, selon une formule officinale, selon une formule hospitalière ou selon une propre formule (art. 6 de l'ordonnance fédérale du 17 octobre 2001 sur les autorisations dans le domaine des médicaments [OAMéd][^14a-2]),
+- d pour la remise de la «pilule du lendemain», par des conseillers et conseillères des services de planification familiale, dans le cadre de leur activité (art. 25c de l'ordonnance fédérale du 17 octobre 2001 sur les médicaments [OMéd][^14a-3]).
 
-**Office des personnes âgées et des personnes handicapées**
+<sup>5</sup> Il est compétent pour délier du secret professionnel, en vertu de l'article 8, alinéa 2 et de l'article 27, alinéa 2 LSP, tous les professionnels de la santé soumis à la présente ordonnance.
 
-<sup>1</sup> L’Office des personnes âgées et des personnes handicapées (OPAH) est compétent pour délivrer
-
-- a les autorisations d’exercer aux infirmiers et aux infirmières diplômées,
-- b les autorisations d’exploiter aux organisations d’aide et de soins à domicile.
-
-#### Art. 14
-
-**Autres compétences**
-
-<sup>1</sup> Dans leur domaine, les offices spécialisés au sens des articles 11, 12 et 13 sont compétents pour
-
-- a ordonner les mesures administratives prévues aux article 17, 17a, 17b et 19a LSP,
-- b recevoir les communications et tenir le registre requis à l'article 20 LSP;
-- c recueillir les informations spécifiées à l'article 49a LSP.
+[^14a-1]: RS [812.21](https://db.clex.ch/link/Bund/812.21/fr)
+[^14a-2]: RS [812.212.1](https://db.clex.ch/link/Bund/812.212.1/fr)
+[^14a-3]: RS [812.212.21](https://db.clex.ch/link/Bund/812.212.21/fr)
 
 ## 2 Dispositions spéciales
 
@@ -349,7 +299,7 @@ arrête:
 - a fabriquer et remettre des médicaments;
 - b exploiter une pharmacie.
 
-<sup>2</sup> Les pharmaciens et les pharmaciennes disposant de l'autorisation de l'OPHC sont également habilités à effectuer des prélèvements de sang par ponction capillaire et à vacciner des personnes en bonne santé dès 16 ans sans prescription médicale contre les maladies suivantes:
+<sup>2</sup> Les pharmaciens et les pharmaciennes disposant de l'autorisation de l'ODS sont également habilités à effectuer des prélèvements de sang par ponction capillaire et à vacciner des personnes en bonne santé dès 16 ans sans prescription médicale contre les maladies suivantes:
 
 - a grippe,
 - b encéphalite à tiques (FSME),
@@ -420,7 +370,7 @@ arrête:
 
 <sup>1</sup> L'autorisation d'exercer est accordée aux personnes titulaires d'un diplôme reconnu en vertu des dispositions de l'accord intercantonal du 18 février 1993 sur la reconnaissance des diplômes de fin d'études.
 
-<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins deux ans après l'obtention du diplôme. L'OMC peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
+<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins deux ans après l'obtention du diplôme. L'ODS peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
 
 ### 2.7 Infirmiers et infirmières diplômés
 
@@ -442,7 +392,7 @@ arrête:
 
 <sup>1</sup> L'autorisation d'exercer est accordée aux personnes titulaires d'un diplôme reconnu en vertu des dispositions de l'accord intercantonal du 18 février 1993 sur la reconnaissance des diplômes de fin d'études.
 
-<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle des soins infirmiers pendant au moins deux ans après l'obtention du diplôme. L'OPAH peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
+<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle des soins infirmiers pendant au moins deux ans après l'obtention du diplôme. L'ODS peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
 
 ### 2.8 Physiothérapeutes
 
@@ -452,7 +402,7 @@ arrête:
 
 <sup>1</sup> Les physiothérapeutes sont habilités à traiter des patients et des patientes par les techniques de la physiothérapie active et passive et par d'autres méthodes de thérapie physique reconnues afin de maintenir ou d'améliorer leur fonction motrice.
 
-<sup>2</sup> Ils ne sont autorisés à procéder à des manipulations avec impulsion prescrites par un médecin, un chiropraticien ou une chiropraticienne que s'ils ont effectué une formation complémentaire suffisante reconnue par l'OMC.
+<sup>2</sup> Ils ne sont autorisés à procéder à des manipulations avec impulsion prescrites par un médecin, un chiropraticien ou une chiropraticienne que s'ils ont effectué une formation complémentaire suffisante reconnue par l'ODS.
 
 #### Art. 30
 
@@ -460,7 +410,7 @@ arrête:
 
 <sup>1</sup> L'autorisation d'exercer est accordée aux personnes titulaires d'un diplôme reconnu en vertu des dispositions de l'accord intercantonal du 18 février 1993 sur la reconnaissance des diplômes de fin d'études.
 
-<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins deux ans après l'obtention du diplôme. L'OMC peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
+<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins deux ans après l'obtention du diplôme. L'ODS peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
 
 ### 2.9 Ergothérapeutes
 
@@ -479,7 +429,7 @@ arrête:
 
 <sup>1</sup> L'autorisation d'exercer est accordée aux personnes titulaires d'un diplôme reconnu en vertu des dispositions de l'accord intercantonal du 18 février 1993 sur la reconnaissance des diplômes de fin d'études.
 
-<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins deux ans après l'obtention du diplôme. L'OMC peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
+<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins deux ans après l'obtention du diplôme. L'ODS peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
 
 ### 2.10 Opticiens et opticiennes
 
@@ -520,7 +470,7 @@ arrête:
 
 **Conditions d'octroi de l'autorisation**
 
-<sup>1</sup> L'autorisation d'exercer est accordée aux personnes titulaires d'un certificat de capacité reconnu par l'OMC.
+<sup>1</sup> L'autorisation d'exercer est accordée aux personnes titulaires d'un certificat de capacité reconnu par l'ODS.
 
 <sup>2</sup> Sont reconnus
 
@@ -567,7 +517,7 @@ arrête:
 
 <sup>1</sup> L'autorisation d'exercer est accordée aux personnes titulaires d'un diplôme reconnu en vertu des dispositions de l'accord intercantonal du 18 février 1993 sur la reconnaissance des diplômes de fin d'études.
 
-<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins deux ans après l'obtention du diplôme. L'OMC peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
+<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins deux ans après l'obtention du diplôme. L'ODS peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
 
 ### 2.13 Diététiciens et diététiciennes
 
@@ -586,7 +536,7 @@ arrête:
 
 <sup>1</sup> L'autorisation d'exercer est accordée aux personnes titulaires d'un diplôme reconnu en vertu des dispositions de l'accord intercantonal du 18 février 1993 sur la reconnaissance des diplômes de fin d'études.
 
-<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins deux ans après l'obtention du diplôme. L'OMC peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
+<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins deux ans après l'obtention du diplôme. L'ODS peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
 
 ### 2.14 Pédicures-podologues
 
@@ -615,7 +565,7 @@ arrête:
 
 **Conditions d'octroi de l'autorisation**
 
-<sup>1</sup> L'autorisation d'exercer est accordée aux personnes ayant achevé une formation reconnue par l'OMC.
+<sup>1</sup> L'autorisation d'exercer est accordée aux personnes ayant achevé une formation reconnue par l'ODS.
 
 <sup>2</sup> Le requérant ou la requérante doit en principe avoir achevé une formation d'une durée minimale de trois ans garantissant l'acquisition de connaissances suffisantes dans les domaines suivants:
 
@@ -627,11 +577,11 @@ arrête:
   - 4\. asepsie, antisepsie, stérilisation, infection des plaies, désinfection, médicaments, hygiène et soins des pieds,
   - 5\. connaissance et emploi des produits ou instruments, appareils et installations habituellement nécessaires à l'exercice de la profession de pédicure.
 
-<sup>3</sup> L'OMC édicte des directives sur l'évaluation de la formation.
+<sup>3</sup> L'ODS édicte des directives sur l'évaluation de la formation.
 
 <sup>4</sup> …
 
-<sup>5</sup> L'OMC peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
+<sup>5</sup> L'ODS peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
 
 ### 2.15 Hygiénistes dentaires
 
@@ -656,7 +606,7 @@ arrête:
 
 <sup>1</sup> L’autorisation d’exercer est accordée aux personnes titulaires d’un diplôme d’hygiéniste dentaire ES ou d’un diplôme reconnu en vertu de l’accord intercantonal du 18 février 1993 sur la reconnaissance des diplômes de fin d’études.
 
-<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins deux ans après l'obtention du diplôme. L'OMC peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
+<sup>2</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins deux ans après l'obtention du diplôme. L'ODS peut reconnaître au maximum une année de pratique dans une activité équivalente à l'étranger.
 
 ### 2.16 Naturopathes
 
@@ -676,7 +626,7 @@ arrête:
 
 **Conditions d'octroi de l'autorisation**
 
-<sup>1</sup> L'autorisation d'exercer est accordée aux personnes ayant achevé une formation reconnue par l'OMC.
+<sup>1</sup> L'autorisation d'exercer est accordée aux personnes ayant achevé une formation reconnue par l'ODS.
 
 <sup>2</sup> Le requérant ou la requérante doit en principe avoir achevé une formation d'une durée minimale de trois ans garantissant l'acquisition de connaissances suffisantes dans les domaines suivants:
 
@@ -689,7 +639,7 @@ arrête:
 
 <sup>4</sup> La Commission spécialisée pour les médecines douces édicte des directives sur l'évaluation de la formation à l'intention de la DSSI.
 
-<sup>5</sup> L'OMC peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
+<sup>5</sup> L'ODS peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
 
 ### 2.17 Homéopathes
 
@@ -703,7 +653,7 @@ arrête:
 
 **Conditions d'octroi de l'autorisation**
 
-<sup>1</sup> L'autorisation d'exercer est accordée aux personnes titulaires d'un diplôme reconnu par l'OMC.
+<sup>1</sup> L'autorisation d'exercer est accordée aux personnes titulaires d'un diplôme reconnu par l'ODS.
 
 <sup>2</sup> Le requérant ou la requérante doit en principe avoir achevé une formation d'une durée minimale de trois ans garantissant l'acquisition de connaissances suffisantes dans les domaines suivants:
 
@@ -714,7 +664,7 @@ arrête:
 
 <sup>4</sup> La Commission spécialisée pour les médecines douces édicte des directives sur l'évaluation de la formation à l'intention de la DSSI.
 
-<sup>5</sup> L'OMC peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
+<sup>5</sup> L'ODS peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
 
 ### 2.18 Acupuncteurs et acupunctrices
 
@@ -728,7 +678,7 @@ arrête:
 
 **Conditions d'octroi de l'autorisation**
 
-<sup>1</sup> L'autorisation d'exercer est accordée aux personnes ayant achevé une formation reconnue par l'OMC.
+<sup>1</sup> L'autorisation d'exercer est accordée aux personnes ayant achevé une formation reconnue par l'ODS.
 
 <sup>2</sup> Le requérant ou la requérante doit en principe avoir achevé une formation d'une durée minimale de trois ans garantissant l'acquisition de connaissances suffisantes dans les domaines suivants:
 
@@ -739,7 +689,7 @@ arrête:
 
 <sup>4</sup> La Commission spécialisée pour les médecines douces édicte des directives sur l'évaluation de la formation à l'intention de la DSSI.
 
-<sup>5</sup> L'OMC peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
+<sup>5</sup> L'ODS peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
 
 ### 2.19 Thérapeutes MTC
 
@@ -757,7 +707,7 @@ arrête:
 
 **Conditions d'octroi de l'autorisation**
 
-<sup>1</sup> L'autorisation d'exercer est accordée aux personnes ayant achevé une formation reconnue par l'OMC.
+<sup>1</sup> L'autorisation d'exercer est accordée aux personnes ayant achevé une formation reconnue par l'ODS.
 
 <sup>2</sup> Le requérant ou la requérante doit en principe avoir achevé une formation d'une durée minimale de trois ans garantissant l'acquisition de connaissances suffisantes dans les domaines suivants:
 
@@ -768,7 +718,7 @@ arrête:
 
 <sup>4</sup> La Commission spécialisée pour les médecines douces édicte des directives sur l'évaluation de la formation à l'intention de la DSSI.
 
-<sup>5</sup> L'OMC peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
+<sup>5</sup> L'ODS peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
 
 ### 2.20 Ostéopathes
 
@@ -815,18 +765,18 @@ arrête:
 
 <sup>1</sup> Les pharmacies publiques doivent disposer des produits thérapeutiques courants et notamment des produits thérapeutiques nécessaires en cas d’urgence.
 
-<sup>2</sup> Elles sont en particulier autorisées
+<sup>2</sup> Les pharmacies publiques sont en particulier autorisées
 
 - a à conserver des médicaments en réserve et à les remettre aux patients et patientes ou aux personnes habilitées à les utiliser,
 - b …
-- c à fabriquer des médicaments d'après une formule magistrale avec l'autorisation de l'OPHC et à les remettre,
-- d à fabriquer en petite quantité, avec l'autorisation de l'OPHC, des médicaments d'après une formule officinale et à les remettre à leurs clients et clientes,
-- e à fabriquer en petite quantité, avec l'autorisation de l'OPHC, des médicaments classés dans les listes de substances C, D et E selon une formule propre à l'établissement et à les remettre à leurs clients et clientes,
-- f à effectuer, avec l'autorisation de l'OPHC, des prélèvements de sang par ponction capillaire et à administrer en pharmacie les vaccins admis aux personnes en bonne santé dès 16 ans.
+- c à fabriquer des médicaments d'après une formule magistrale avec l'autorisation de l'ODS et à les remettre,
+- d à fabriquer en petite quantité, avec l'autorisation de l'ODS, des médicaments d'après une formule officinale et à les remettre à leurs clients et clientes,
+- e à fabriquer en petite quantité, avec l'autorisation de l'ODS, des médicaments classés dans les listes de substances C, D et E selon une formule propre à l'établissement et à les remettre à leurs clients et clientes,
+- f à effectuer, avec l'autorisation de l'ODS, des prélèvements de sang par ponction capillaire et à administrer en pharmacie les vaccins admis aux personnes en bonne santé dès 16 ans.
 
-<sup>3</sup> Les médicaments fabriqués conformément à l'alinéa 2, lettre e doivent être annoncés à l'OPHC avec l'indication de leur désignation, de leur composition et de leur étiquetage.
+<sup>3</sup> Les médicaments fabriqués conformément à l'alinéa 2, lettre e doivent être annoncés à l'ODS avec l'indication de leur désignation, de leur composition et de leur étiquetage.
 
-<sup>4</sup> Elles peuvent être autorisées à ou chargées de fournir des prestations de prévention sanitaire par l'OPHC et l'OMC.
+<sup>4</sup> Elles peuvent être autorisées à ou chargées de fournir des prestations de prévention sanitaire par l'ODS.
 
 #### Art. 59
 
@@ -837,11 +787,11 @@ arrête:
 <sup>2</sup> Elles sont notamment autorisées
 
 - a à conserver des médicaments en réserve et à les remettre aux patients et patientes de l'établissement,
-- b à fabriquer des médicaments d'après une formule magistrale avec l'autorisation de l'OPHC et à les remettre aux patients et patientes de l'établissement,
-- c à fabriquer en petite quantité des médicaments d'après une formule officinale avec l'autorisation de l'OPHC et à les remettre aux patients et patientes de l'établissement,
-- d à fabriquer en petite quantité des médicaments selon une formule propre à l'établissement avec l'autorisation de l'OPHC et à les remettre aux patients et patientes de l'établissement.
+- b à fabriquer des médicaments d'après une formule magistrale avec l'autorisation de l'ODS et à les remettre aux patients et patientes de l'établissement,
+- c à fabriquer en petite quantité des médicaments d'après une formule officinale avec l'autorisation de l'ODS et à les remettre aux patients et patientes de l'établissement,
+- d à fabriquer en petite quantité des médicaments selon une formule propre à l'établissement avec l'autorisation de l'ODS et à les remettre aux patients et patientes de l'établissement.
 
-<sup>3</sup> Les médicaments fabriqués conformément à l'alinéa 2, lettre d doivent être annoncés à l'OPHC avec l'indication de leur désignation, de leur composition et de leur étiquetage.
+<sup>3</sup> Les médicaments fabriqués conformément à l'alinéa 2, lettre d doivent être annoncés à l'ODS avec l'indication de leur désignation, de leur composition et de leur étiquetage.
 
 #### Art. 60
 
@@ -858,11 +808,11 @@ arrête:
 <sup>1</sup> Les drogueries sont notamment autorisées
 
 - a à conserver en réserve des médicaments figurant dans les catégories de remise D et E et à les remettre au public,
-- b à fabriquer en petite quantité, avec l'autorisation de l'OPHC, des médicaments d'après une formule officinale et à les remettre à leurs clients et clientes,
-- c à fabriquer en petite quantité, avec l'autorisation de l'OPHC, des médicaments classés dans les listes de substances D et E selon une formule propre à l'établissement et à les remettre à leurs clients et clientes,
+- b à fabriquer en petite quantité, avec l'autorisation de l'ODS, des médicaments d'après une formule officinale et à les remettre à leurs clients et clientes,
+- c à fabriquer en petite quantité, avec l'autorisation de l'ODS, des médicaments classés dans les listes de substances D et E selon une formule propre à l'établissement et à les remettre à leurs clients et clientes,
 - d …
 
-<sup>2</sup> Les médicaments fabriqués conformément à l'alinéa 1, lettre c doivent être annoncés à l'OPHC avec l'indication de leur désignation, de leur composition et de leur étiquetage.
+<sup>2</sup> Les médicaments fabriqués conformément à l'alinéa 1, lettre c doivent être annoncés à l'ODS avec l'indication de leur désignation, de leur composition et de leur étiquetage.
 
 ### 3.1.3
 
@@ -900,15 +850,15 @@ arrête:
 
 #### Art. 65
 
-<sup>1</sup> Avant de délivrer l'autorisation d'exploiter, l'OPHC conduit une inspection pour vérifier si les conditions d'octroi sont réunies. Les inspections sont répétées périodiquement (inspections ordinaires).
+<sup>1</sup> Avant de délivrer l'autorisation d'exploiter, l'ODS conduit une inspection pour vérifier si les conditions d'octroi sont réunies. Les inspections sont répétées périodiquement (inspections ordinaires).
 
-<sup>2</sup> L'OPHC effectue des inspections supplémentaires en cas de changement de direction et en cas de faits contraires à la présente ordonnance ou de soupçon. Elles peuvent intervenir en tout temps et aussi souvent que nécessaire (inspections extraordinaires).
+<sup>2</sup> L'ODS effectue des inspections supplémentaires en cas de changement de direction et en cas de faits contraires à la présente ordonnance ou de soupçon. Elles peuvent intervenir en tout temps et aussi souvent que nécessaire (inspections extraordinaires).
 
-<sup>3</sup> L'OPHC peut charger les pharmaciens et les pharmaciennes, les droguistes ou les médecins titulaires d'un diplôme fédéral d'effectuer des inspections. Les inspecteurs et les inspectrices sont nommés par la DSSI, sur proposition de l'OPHC. La DSSI fixe le montant des indemnités qui leur sont versées.
+<sup>3</sup> L'ODS peut charger les pharmaciens et les pharmaciennes, les droguistes ou les médecins titulaires d'un diplôme fédéral d'effectuer des inspections. La DSSI nomme les inspecteurs et les inspectrices sur proposition de l'ODS et fixe le montant des indemnités qui leur sont versées.
 
-<sup>4</sup> L'OPHC peut prélever gratuitement, dans le cadre de la surveillance du marché, les échantillons nécessaires pour contrôler la sécurité des produits thérapeutiques, exiger les renseignements et les documents indispensables et demander tout autre soutien.
+<sup>4</sup> L'ODS peut prélever gratuitement, dans le cadre de la surveillance du marché, les échantillons nécessaires pour contrôler la sécurité des produits thérapeutiques, exiger les renseignements et les documents indispensables et demander tout autre soutien.
 
-<sup>5</sup> L'OPHC édicte des directives assurant l'uniformisation des pratiques d'inspection.
+<sup>5</sup> Il édicte des directives assurant l'uniformisation des pratiques d'inspection.
 
 ### 3.1.6 Exercice personnel ou surveillance
 
@@ -929,9 +879,9 @@ arrête:
 
 <sup>1</sup> La personne qui dirige la pharmacie ou la droguerie est responsable de la qualité des produits thérapeutiques qui se trouvent dans les locaux de son établissement.
 
-<sup>2</sup> Les défauts constatés sur un produit thérapeutique qui peuvent compromettre sa fiabilité doivent être communiqués immédiatement à l’Institut suisse des produits thérapeutiques et à l’OPHC.
+<sup>2</sup> Les défauts constatés sur un produit thérapeutique qui peuvent compromettre sa fiabilité doivent être communiqués immédiatement à l’Institut suisse des produits thérapeutiques et à l’ODS.
 
-<sup>3</sup> Les pertes de stupéfiants doivent être communiquées immédiatement à l'OPHC.
+<sup>3</sup> Les pertes de stupéfiants doivent être communiquées immédiatement à l'ODS.
 
 ### 3.1.8 Usage abusif de médicaments
 
@@ -941,7 +891,7 @@ arrête:
 
 <sup>2</sup> En cas de soupçon fondé, elle doit refuser de remettre le médicament et prendre contact avec l'auteur de l'ordonnance.
 
-<sup>3</sup> Les cas graves doivent être immédiatement communiqués à l'Institut suisse des produits thérapeutiques et à l'OPHC.
+<sup>3</sup> Les cas graves doivent être immédiatement communiqués à l'Institut suisse des produits thérapeutiques et à l'ODS.
 
 ### 3.1.9 Ordonnances médicales
 
@@ -953,18 +903,18 @@ arrête:
 
 - a a été délivrée par un professionnel ou une professionnelle autorisée et porte son nom et l'adresse de son cabinet;
 - b indique la désignation, la teneur en substances actives et la forme galénique du médicament, la taille et la quantité des emballages à remettre ainsi que la posologie;
-- c est un original daté et signé ou porte une signature électronique au sens de l'article 14, alinéa 2<sup>bis</sup> du Code des obligations (CO)[^69-1];
+- c est un original daté et signé ou porte une signature électronique qualifiée au sens de l'article 14, alinéa 2<sup>bis</sup> du Code des obligations (CO)[^69-1];
 - d porte le nom et l'année de naissance du patient ou de la patiente.
 
-<sup>2</sup> Si le pharmacien ou la pharmacienne constate ou soupçonne des risques d'interactions avec d'autres médicaments utilisés par le patient ou la patiente ou l'existence d'une erreur de la part de la personne ayant délivré l'ordonnance médicale, il ou elle doit prendre contact sans tarder avec l'auteur de l'ordonnance avant de l'exécuter.
+<sup>2</sup> Si le pharmacien ou la pharmacienne constate ou soupçonne des risques d'interactions avec d'autres médicaments utilisés par le patient ou la patiente ou l'existence d'une erreur de la part de la personne ayant délivré l'ordonnance médicale, il ou elle doit prendre contact sans tarder avec l'auteur de l'ordonnance avant d'exécuter la prescription.
 
 <sup>3</sup> Le pharmacien ou la pharmacienne est tenue de donner des informations au patient ou à la patiente sur l’usage correct des produits thérapeutiques prescrits.
 
-<sup>4</sup> Si le pharmacien ou la pharmacienne suppose que l'ordonnance est fausse ou a été falsifiée, il ou elle doit contacter le professionnel ou la professionnelle de la santé concernée avant de l'exécuter. Si cela s'avère impossible, il ou elle dispense la quantité minimale du médicament, en cas de falsification présumée, et informe le professionnel ou la professionnelle concernée a posteriori. Les ordonnances dont l'authenticité est mise en doute ne doivent pas être exécutées. Elles doivent être conservées et envoyées à l'OPHC.
+<sup>4</sup> Si le pharmacien ou la pharmacienne suppose que l'ordonnance est fausse ou a été falsifiée, il ou elle doit contacter le professionnel ou la professionnelle de la santé concernée avant d'exécuter la prescription. Si tout contact s'avère impossible, il ou elle dispense la quantité minimale du médicament, en cas de falsification présumée, et informe le professionnel ou la professionnelle concernée a posteriori. Les ordonnances dont l'authenticité est mise en doute ne doivent pas être exécutées. Elles doivent être conservées et envoyées à l'ODS.
 
 <sup>5</sup> Le pharmacien ou la pharmacienne peut vérifier l'identité du patient ou de la patiente auquel ou à laquelle il ou elle remet les substances contrôlées.
 
-[^69-1]: RS 220
+[^69-1]: RS [220](https://db.clex.ch/link/Bund/220/fr)
 
 #### Art. 70
 
@@ -1001,7 +951,7 @@ arrête:
 - a de médicaments soumis à ordonnance,
 - b de médicaments fabriqués selon une formule magistrale,
 - c de médicaments délivrés autrement que dans leur emballage d'origine (sine confectione),
-- d d'autres produits thérapeutiques spécifiés par l'OPHC particulièrement susceptibles d'être utilisés à des fins abusives ou qui nécessitent, pour des raisons différentes, d'être traités avec une grande prudence.
+- d d'autres produits thérapeutiques spécifiés par l'ODS particulièrement susceptibles d'être utilisés à des fins abusives ou qui nécessitent, pour des raisons différentes, d'être traités avec une grande prudence.
 
 <sup>2</sup> Ces notes doivent indiquer
 
@@ -1032,7 +982,7 @@ arrête:
 
 **Prescription, remise et utilisation de produits thérapeutiques**
 
-<sup>1</sup> La prescription, la remise et l'utilisation de produits thérapeutiques sont régies par les articles 23 à 26 et l'article 48 LPTh[^75-1], les articles 23 à 27b OMéd[^75-2], ainsi que les articles 16 à 20 de l'ordonnance du 17 octobre 2001 sur les dispositifs médicaux (ODim)[^75-3].
+<sup>1</sup> La prescription, la remise et l'utilisation de produits thérapeutiques sont régies par les articles 23 à 26 et l'article 48 LPTh, les articles 23 à 27b OMéd, ainsi que les articles 16 à 20 de l'ordonnance du 17 octobre 2001 sur les dispositifs médicaux (ODim)[^75-1].
 
 <sup>2</sup> Sont autorisés à utiliser des médicaments non soumis à ordonnance et soumis à ordonnance (art. 27a, al. 1 et 2 OMéd) les professionnels de la santé suivants:
 
@@ -1045,7 +995,7 @@ arrête:
 
 <sup>2a</sup> Les pharmaciens et les pharmaciennes sont habilités à utiliser les médicaments visés à l'article 19, alinéa 2.
 
-<sup>3</sup> L'OPHC précise les médicaments soumis à ordonnance que les personnes visées à l'alinéa 2, lettres c à f peuvent utiliser (art. 27a, al. 3 OMéd).
+<sup>3</sup> L'ODS précise les médicaments soumis à ordonnance que les personnes visées à l'alinéa 2, lettres c à f peuvent utiliser (art. 27a, al. 3 OMéd).
 
 <sup>4</sup> Sont autorisés à utiliser des médicaments non soumis à ordonnance habituellement employés dans le cadre de leur activité les professionnels de la santé suivants:
 
@@ -1055,14 +1005,12 @@ arrête:
 - d homéopathes,
 - e thérapeutes MTC.
 
-<sup>5</sup> Les personnes autorisées à tenir une pharmacie privée au sens de l'article 32 LSP[^75-4] doivent signaler à leurs patients et patientes que les médicaments peuvent leur être remis par leur pharmacie privée ou par une pharmacie publique de leur choix.
+<sup>5</sup> Les personnes autorisées à tenir une pharmacie privée au sens de l'article 32 LSP[^75-2] doivent signaler à leurs patients et patientes que les médicaments peuvent leur être remis par leur pharmacie privée ou par une pharmacie publique de leur choix.
 
 <sup>6</sup> En règle générale, peut être remis une seule fois en début de traitement au sens de l'article 31, alinéa 2 LSP, l'emballage original le plus petit d'un médicament.
 
-[^75-1]: RS 812.21
-[^75-2]: RS 812.212.21
-[^75-3]: RS 812.213
-[^75-4]: RSB 811.01
+[^75-1]: RS [812.213](https://db.clex.ch/link/Bund/812.213/fr)
+[^75-2]: RSB 811.01
 
 ### 3.2.2
 
