@@ -3,20 +3,20 @@ canton: LU
 number: "506"
 title: Reglement für die Maturitätsprüfungen im Kanton Luzern
 language: de
-version: 2018-02-01
-valid_until: 2021-07-31
-version_adopted: 2018-01-16
+version: 2021-08-01
+valid_until: 2024-07-31
+version_adopted: 2021-05-18
 adopted: 2008-04-15
 in_force: 2008-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/506"
-pdf: "https://srl.lu.ch/api/de/versions/3234/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3781/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement für die Maturitätsprüfungen im Kanton Luzern
 
-vom 15.04.2008 (Stand 01.02.2018)
+vom 15.04.2008 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -271,7 +271,7 @@ beschliesst:
 - d. die Angabe der Zeit, während der die Inhaberin oder der Inhaber die Schule besucht hat,
 - e. die Noten der Maturitätsfächer nach § 7 Unterabsätze a–d und den Durchschnitt,
 - f. das Thema der Maturaarbeit,
-- g. die Maturitätsnote in den Fächern Sport sowie Wirtschaft und Recht,
+- g. die Maturitätsnote in den Fächern Sport, Wirtschaft und Recht sowie Informatik,
 - h. die Freifachnoten mit Angabe der besuchten Semesterstunden,
 - i. gegebenenfalls den Hinweis auf die Zweisprachigkeit der Matur mit Angabe der zweiten Sprache.
 
