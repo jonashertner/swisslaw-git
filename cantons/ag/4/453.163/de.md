@@ -4,13 +4,13 @@ number: "453.163"
 title: Verordnung über den Vorkurs Pädagogik
 short: V Vorkurs Pädagogik
 language: de
-version: 2020-02-01
-valid_until: 2021-07-31
-version_adopted: 2019-05-15
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-05-05
 adopted: 2003-05-21
 in_force: 2003-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/453.163"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2771/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2992/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2771/pdf_file"
 
 (V Vorkurs Pädagogik)
 
-Vom 21.05.2003 (Stand 01.02.2020)
+Vom 21.05.2003 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -40,12 +40,18 @@ beschliesst:
 
 **Zulassungsvoraussetzungen und -entscheid**
 
-<sup>1</sup> Zum Vorkurs wird zugelassen, wer
+<sup>1</sup> Zum Vorkurs Pädagogik wird zugelassen, wer
 
 - a) die formalen Zulassungsbedingungen zur Ergänzungsprüfung "Äquivalenznachweis Fachmaturität Pädagogik" gemäss den jeweils geltenden Richtlinien der Pädagogischen Hochschule FHNW erfüllt und
-- b) die Zulassungsprüfung der AME bestanden hat.
+- b) die Zulassungsprüfung der AME bestanden hat oder über ein eidgenössisches Berufs- beziehungsweise ein gesamtschweizerisch anerkanntes Fachmaturitätszeugnis verfügt.
 
-<sup>2</sup> Die Schulleitung der AME entscheidet über die Zulassung zum Vorkurs und eröffnet den Entscheid.
+<sup>1<sup>bis</sup></sup> Zum Vorkurs Pädagogik kompakt wird zugelassen, wer
+
+- a) die formalen Zulassungsbedingungen zur Ergänzungsprüfung "Äquivalenznachweis Fachmaturität Pädagogik" gemäss den jeweils geltenden Richtlinien der Pädagogischen Hochschule FHNW erfüllt,
+- b) über ein eidgenössisches Berufs- beziehungsweise ein gesamtschweizerisch anerkanntes Fachmaturitätszeugnis und
+- c) ein vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) anerkanntes Fremdsprachendiplom auf mindestens Niveau B2 in den Sprachen Französisch oder Englisch verfügt.
+
+<sup>2</sup> Die Schulleitung der AME entscheidet über die Zulassung zum entsprechenden Vorkurs und eröffnet den Entscheid.
 
 #### § 2a
 
@@ -69,15 +75,19 @@ beschliesst:
 
 **Beginn und Dauer**
 
-<sup>1</sup> Der Vorkurs beginnt am zweiten Montag im August und dauert 27 Wochen (ohne Schulferien).
+<sup>1</sup> Der Vorkurs Pädagogik beginnt am zweiten Montag im August und dauert 27 Wochen (ohne Schulferien).
+
+<sup>2</sup> Der Vorkurs Pädagogik kompakt beginnt am ersten Montag nach den Weihnachtsferien und dauert 12 Wochen (ohne Schulferien).
 
 #### § 4
 
 **Ausbildungsform; Kursangebot**
 
-<sup>1</sup> Die Ausbildung setzt sich aus Direktunterricht und Selbststudium zusammen. Der Direktunterricht findet in der Regel an zwei Wochentagen statt.
+<sup>1</sup> Die Ausbildung setzt sich im Vorkurs Pädagogik aus Direktunterricht und Selbststudium zusammen. Der Direktunterricht findet in der Regel an drei Wochentagen (zweimal unter der Woche und samstags) statt.
 
-<sup>2</sup> Die einzelnen Fächer und Wochenlektionen sind im Anhang festgelegt.
+<sup>1<sup>bis</sup></sup> Die Ausbildung setzt sich im Vorkurs Pädagogik kompakt aus Direktunterricht und begleitetem Selbststudium zusammen. Der Direktunterricht findet unter der Woche jeweils nachmittags und am frühen Abend sowie samstags statt. Das begleitete Selbststudium findet unter der Woche vormittags statt.
+
+<sup>2</sup> Die einzelnen Fächer und Wochenlektionen des Vorkurses Pädagogik und diejenigen des Vorkurses Pädagogik kompakt sind in Anhang 2 beziehungsweise 3 festgelegt.
 
 #### § 5
 
