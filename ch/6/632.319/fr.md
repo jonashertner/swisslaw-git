@@ -3,11 +3,11 @@ sr: "632.319"
 title: "Ordonnance du 27 juin 1995 sur les droits de douane applicables aux marchandises dans le trafic avec les États partenaires de libre-échange (excepté les États membres de l'UE et de l'AELE) (Ordonnance sur le libre-échange 2)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695"
 language: fr
-version: 2021-01-01
+version: 2021-08-01
 adopted: 1995-06-27
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-1995-2695_2695_2695-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/2695_2695_2695/20210101/fr"
 
 (Ordonnance sur le libre-échange 2)**[^t-1]**
 
-du 27 juin 1995 (Etat le 1<sup>er</sup> janvier 2021)
+du 27 juin 1995 (Etat le 1<sup>er</sup> août 2021)
 
 [^t-1]: Nouvelle teneur selon l’art. 8 de l’O du 18 juin 2008 sur le libre-échange 1, en vigueur depuis le 1<sup>er</sup> août 2008 ([RO 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)).
 
@@ -144,10 +144,10 @@ Annexe 1*[^t-2]*
 
 ## Liste des accords et des arrangements sous forme d’un échange de lettres
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 10 juin 2011 ([RO 2011 2455](https://fedlex.data.admin.ch/eli/oc/2011/357)). Mise à jour par le ch. II al. 1 des O du 15 août 2012 ([RO 2012 4247](https://fedlex.data.admin.ch/eli/oc/2012/507)), du 14 sept. 2012 ([RO 2012 4909](https://fedlex.data.admin.ch/eli/oc/2012/584)), du 14 juin 2013 ([RO 2013 1877](https://fedlex.data.admin.ch/eli/oc/2013/409)), du 20 août 2014 ([RO 2014 2639](https://fedlex.data.admin.ch/eli/oc/2014/469)), du 6 juin 2014 ([RO 2014 1465](https://fedlex.data.admin.ch/eli/oc/2014/312)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), du 28 mars 2018 ([RO 2018 1405](https://fedlex.data.admin.ch/eli/oc/2018/227)), du 9 mai 2018 ([RO 2018 1881](https://fedlex.data.admin.ch/eli/oc/2018/286)), du 18 sept. 2020 ([RO 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)) et du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 10 juin 2011 ([RO 2011 2455](https://fedlex.data.admin.ch/eli/oc/2011/357)). Mise à jour par le ch. II al. 1 des O du 15 août 2012 ([RO 2012 4247](https://fedlex.data.admin.ch/eli/oc/2012/507)), du 14 sept. 2012 ([RO 2012 4909](https://fedlex.data.admin.ch/eli/oc/2012/584)), du 14 juin 2013 ([RO 2013 1877](https://fedlex.data.admin.ch/eli/oc/2013/409)), du 20 août 2014 ([RO 2014 2639](https://fedlex.data.admin.ch/eli/oc/2014/469)), du 6 juin 2014 ([RO 2014 1465](https://fedlex.data.admin.ch/eli/oc/2014/312)[4499](https://fedlex.data.admin.ch/eli/oc/2014/750)), du 28 mars 2018 ([RO 2018 1405](https://fedlex.data.admin.ch/eli/oc/2018/227)), du 9 mai 2018 ([RO 2018 1881](https://fedlex.data.admin.ch/eli/oc/2018/286)), du 18 sept. 2020 ([RO 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)), du 27 fév. 2019 ([RO 2020 6433](https://fedlex.data.admin.ch/eli/oc/2020/1055)) et par le ch. I al.1 de l’O du 21 avril 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 433](https://fedlex.data.admin.ch/eli/oc/2021/433)).
 
-- 1\. Accord du 10 décembre 1991 entre les pays de l’AELE et la Turquie[^annex1-lvlu1-1] (art. 3 à 6), et arrangement du 10 décembre 1991 sous forme d’un échange de lettres entre la Confédération suisse et la Turquie relatif au commerce des produits agricoles[^annex1-lvlu1-2],
-- 2\. accord du 17 septembre 1992 entre les États de l’AELE et Israël[^annex1-lvlu1-3] (art. 3 à 6), et arrangement du 17 septembre 1992 sous forme d’un échange de lettres relatif au commerce de produits agricoles[^annex1-lvlu1-4],
+- 1\. accord du 10 décembre 1991 entre les pays de l’AELE et la Turquie[^annex1-lvlu1-1] (art. 3 à 6), et arrangement du 10 décembre 1991 sous forme d’un échange de lettres entre la Confédération suisse et la Turquie relatif au commerce des produits agricoles[^annex1-lvlu1-2],
+- 2\. accord du 17 septembre 1992 entre les États de l’AELE et Israël[^annex1-lvlu1-3] (art. 3 à 6), et accord agricole du 22 novembre 2018 entre la Suisse et Israël[^annex1-lvlu1-4],
 - 3\. accord du 12 janvier 1994 entre le Gouvernement suisse, d’une part, et le Gouvernement du Danemark et le Gouvernement autonome des Iles Féroé, d’autre part, sur le libre-échange entre la Suisse et les Iles Féroé[^annex1-lvlu1-5] (art. 3 et 4),
 - 4\. accord du 19 juin 1997 entre les États de l’AELE et le Royaume du Maroc[^annex1-lvlu1-6] (art. 3 à 7), et arrangement du 19 juin 1997 sous la forme d’un échange de lettres entre la Confédération suisse et le Royaume du Maroc relatif au commerce des produits agricoles[^annex1-lvlu1-7],
 - 5\. accord intérimaire du 30 novembre 1998 entre les États de l’AELE et l’OLP agissant pour le compte de l’Autorité palestinienne[^annex1-lvlu1-8] (art. 3 à 7), et arrangement du 30 novembre 1998 sous la forme d’un échange de lettres entre la Confédération suisse et l’Autorité palestinienne relatif au commerce des produits agricoles[^annex1-lvlu1-9],
@@ -184,7 +184,7 @@ Annexe 1*[^t-2]*
 [^annex1-lvlu1-1]: [RS 0.632.317.631](https://fedlex.data.admin.ch/eli/cc/2021/559)
 [^annex1-lvlu1-2]: [RS 0.632.317.631.1](https://fedlex.data.admin.ch/eli/cc/2021/560)
 [^annex1-lvlu1-3]: [RS 0.632.314.491](https://fedlex.data.admin.ch/eli/cc/1993/2477_2477_2477)
-[^annex1-lvlu1-4]: [RS 0.632.314.491.1](https://fedlex.data.admin.ch/eli/cc/2021/435)
+[^annex1-lvlu1-4]: [RS 0.632.314.491.1](https://fedlex.data.admin.ch/eli/cc/2021/435); [RO 2021 435](https://fedlex.data.admin.ch/eli/oc/2021/435)
 [^annex1-lvlu1-5]: [RS 0.946.293.142](https://fedlex.data.admin.ch/eli/cc/1995/3925_3925_3925)
 [^annex1-lvlu1-6]: [RS 0.632.315.491](https://fedlex.data.admin.ch/eli/cc/2003/433)
 [^annex1-lvlu1-7]: [RS 0.632.315.491.1](https://fedlex.data.admin.ch/eli/cc/2003/433-2)
@@ -245,2654 +245,2643 @@ Annexe 2*[^t-3]*
 
 ## Droits de douane à l’importation: marchandises, taux et pays bénéficiaires
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du 18 sept. 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 4191](https://fedlex.data.admin.ch/eli/oc/2020/768)).
+[^t-3]: Nouvelle teneur selon le ch. I de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 401](https://fedlex.data.admin.ch/eli/oc/2021/401)).
 
 <table>
-<tr><th colspan="2">N<sup>o</sup> du tarif</th><th></th><th colspan="2">Taux préférentiel</th><th></th><th>Pays bénéficiaires (code ISO 2 ou sigle)</th><th>Contingents tarifaires; dispositions particulières</th></tr>
-<tr><th></th><th colspan="2"></th><th>applicable</th><th colspan="2">Taux nor-mal moins</th><th></th><th></th></tr>
-<tr><td>0101.</td><td colspan="2">2110</td><td>exempt</td><td colspan="2"></td><td>CL, CN, CO, CR, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td colspan="3">2911</td><td>80.—</td><td colspan="2"></td><td>CL, CN, CO, CR, GE, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2991</td><td>exempt</td><td colspan="2"></td><td>CL, CN, CO, CR, GCC, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">3011</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3091/3095</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9010/9093</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>0102.</td><td colspan="2">2110</td><td>54.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2911</td><td>85.—</td><td colspan="2"></td><td>CL, CN, CO, CR, GE, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2991</td><td>exempt</td><td colspan="2"></td><td>CN, CO, CR, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">3110</td><td>54.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3911</td><td>85.—</td><td colspan="2"></td><td>CL, CN, CO, CR, GE, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">3991</td><td>exempt</td><td colspan="2"></td><td>CN, CO, CR, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">9012</td><td>85.—</td><td colspan="2"></td><td>CL, CN, CO, CR, GE, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">9092</td><td>exempt</td><td colspan="2"></td><td>CN, CO, CR, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td>0103.</td><td colspan="2">1010</td><td>6.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9110</td><td></td><td colspan="2">33.—</td><td>CL, CR, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CO, KR, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">6.60</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9120</td><td>30.—</td><td colspan="2"></td><td>CL, CO, CR, GE, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>31.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9210</td><td></td><td colspan="2">10.—</td><td>CL, CO, CR, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>KR, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9220</td><td>30.—</td><td colspan="2"></td><td>CL, CO, CR, GE, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>32.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>0104.</td><td colspan="2">1010</td><td></td><td colspan="2">5.—</td><td>CL, CO, CR, GCC, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">1.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1020</td><td>20.—</td><td colspan="2"></td><td>CL, CN, CO, CR, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td></td><td colspan="2">3.—</td><td>CO, CR, GCC, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.60</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">2020</td><td>40.—</td><td colspan="2"></td><td>CR, JP, KR, LB, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>38.70</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td>0105.</td><td colspan="2">1100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, PE, RS, SACU, SG</td><td></td></tr>
-<tr><td></td><td colspan="2">1200/1500</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, PE, RS, SACU, SG</td><td></td></tr>
-<tr><td></td><td colspan="2">9400</td><td>7.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9900</td><td>exempt</td><td colspan="2"></td><td>CN, CO, CR, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td>0106.</td><td colspan="2">1100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GE, HK, IL, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1300</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1400</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU, SG</td><td></td></tr>
-<tr><td></td><td colspan="2">1900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3300</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3910</td><td>exempt</td><td colspan="2"></td><td>CN, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">3990</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">4100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">4900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td>0201.</td><td colspan="2">1011</td><td>85.—</td><td colspan="2"></td><td>CL, CO, GE, JP, KR, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>84.60</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1091</td><td></td><td colspan="2">9.—</td><td>CL, CN, CO, GE, JP, KR, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2011</td><td></td><td colspan="2">9.—</td><td>CL, CO, JP, KR, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">38.—</td><td>GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2091</td><td></td><td colspan="2">9.—</td><td>CL, CO, JP, KR, PE, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">56.—</td><td>GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">3011</td><td></td><td colspan="2">9.—</td><td>CL, CO, JP, KR, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">38.—</td><td>GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">3091</td><td></td><td colspan="2">9.—</td><td>CL, CO, JP, KR, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">56.—</td><td>GE, PH, SACU</td><td></td></tr>
-<tr><td>0202.</td><td colspan="2">1011</td><td>85.—</td><td colspan="2"></td><td>CL, CO, GE, GT, JP, KR, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>84.60</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1091</td><td></td><td colspan="2">9.—</td><td>CL, CN, CO, GE, GT, JP, KR, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2011</td><td></td><td colspan="2">9.—</td><td>CL, CO, GT, JP, KR, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">38.—</td><td>GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2091</td><td></td><td colspan="2">9.—</td><td>CL, CO, GT, JP, KR, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">56.—</td><td>GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">3011</td><td></td><td colspan="2">9.—</td><td>CL, CO, GT, JP, KR, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">38.—</td><td>GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">3091</td><td></td><td colspan="2">9.—</td><td>CL, CO, GT, JP, KR, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">56.—</td><td>GE, SACU</td><td></td></tr>
-<tr><td>0203.</td><td colspan="2">1110</td><td>exempt</td><td colspan="2"></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1191</td><td>30.—</td><td colspan="2"></td><td>CL, CO, CR, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>34.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1210</td><td>exempt</td><td colspan="2"></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1291</td><td>40.—</td><td colspan="2"></td><td>CL, CN, CO, CR, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1910</td><td>exempt</td><td colspan="2"></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1981</td><td>40.—</td><td colspan="2"></td><td>CL, CN, CO, CR, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2110</td><td>exempt</td><td colspan="2"></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2191</td><td>30.—</td><td colspan="2"></td><td>CL, CO, CR, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>34.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2210</td><td>exempt</td><td colspan="2"></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2291</td><td>40.—</td><td colspan="2"></td><td>CL, CN, CO, CR, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2910</td><td>exempt</td><td colspan="2"></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2981</td><td>40.—</td><td colspan="2"></td><td>CL, CN, CO, CR, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td>0204.</td><td colspan="2">1010</td><td></td><td colspan="2">10.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>CL, CO, CR, JP, KR, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>18.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2110</td><td></td><td colspan="2">10.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>CL, CO, CR, JP, KR, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>18.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">2210</td><td></td><td colspan="2">10.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>CL, CO, CR, JP, KR, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>18.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">2310</td><td></td><td colspan="2">10.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>CL, CO, CR, JP, KR, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>18.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">3010</td><td></td><td colspan="2">10.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>CL, CO, CR, JP, KR, LB, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>18.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">4110</td><td></td><td colspan="2">10.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>CL, CO, CR, JP, KR, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>18.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">4210</td><td></td><td colspan="2">10.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>CL, CO, CR, JP, KR, PA, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>18.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">4310</td><td></td><td colspan="2">10.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>CL, CO, CR, JP, KR, PA, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>18.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">5010</td><td></td><td colspan="2">9.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>40.—</td><td colspan="2"></td><td>CL, CN, CO, CR, JP, KR, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td>0205.</td><td colspan="2">0010</td><td>11.—</td><td colspan="2"></td><td>CA, CN, CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td>0206.</td><td colspan="2">1011</td><td></td><td colspan="2">9.—</td><td>CL, CO, CR, GT, KR, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">20.—</td><td>EC, GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">6.—</td><td>PA</td><td></td></tr>
-<tr><td></td><td colspan="2">1021</td><td>144.—</td><td colspan="2"></td><td>CL, CR, GT, KR, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>100.—</td><td colspan="2"></td><td>GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">9.—</td><td>CO</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>150.—</td><td colspan="2"></td><td>PA</td><td></td></tr>
-<tr><td></td><td colspan="2">1091</td><td></td><td colspan="2">9.—</td><td>CL, CO, CR, GT, KR, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">30.—</td><td>EC, GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">6.—</td><td>PA</td><td></td></tr>
-<tr><td></td><td colspan="2">2110</td><td>70.—</td><td colspan="2"></td><td>CL, CO, CR, GT, KR, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>50.—</td><td colspan="2"></td><td>GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>100.—</td><td colspan="2"></td><td>PA</td><td></td></tr>
-<tr><td></td><td colspan="2">2210</td><td></td><td colspan="2">40.—</td><td>CL, CO, CR, GT, KR, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">80.—</td><td>EC, GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">30.—</td><td>PA</td><td></td></tr>
-<tr><td></td><td colspan="2">2910</td><td>100.—</td><td colspan="2"></td><td>CL, CO, CR, GE, GT, KR, PE, PH, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>130.—</td><td colspan="2"></td><td>PA</td><td></td></tr>
-<tr><td></td><td colspan="2">3010</td><td>exempt</td><td colspan="2"></td><td>CL, CN, CO, EC, GE, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>5.—</td><td colspan="2"></td><td>CAS</td><td></td></tr>
-<tr><td></td><td colspan="2">3091</td><td>40.—</td><td colspan="2"></td><td>CL, CO, EC, GE, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>45.—</td><td colspan="2"></td><td>CAS</td><td></td></tr>
-<tr><td></td><td colspan="2">4110</td><td>exempt</td><td colspan="2"></td><td>CL, CN, CO, CR, EC, GE, GT, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>30.—</td><td colspan="2"></td><td>PA</td><td></td></tr>
-<tr><td></td><td colspan="2">4191</td><td>38.—</td><td colspan="2"></td><td>CL, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>50.—</td><td colspan="2"></td><td>PA</td><td></td></tr>
-<tr><td></td><td colspan="2">4910</td><td>exempt</td><td colspan="2"></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>30.—</td><td colspan="2"></td><td>PA</td><td></td></tr>
-<tr><td></td><td colspan="2">4991</td><td>38.—</td><td colspan="2"></td><td>CL, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>50.—</td><td colspan="2"></td><td>PA</td><td></td></tr>
-<tr><td></td><td colspan="2">8010</td><td></td><td colspan="2">9.—</td><td>CL, CO, EC, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td></td><td colspan="2">10.—</td><td>CL, CO, CR, EC, GE, GT, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.—</td><td>PA</td><td></td></tr>
-<tr><td>0207.</td><td colspan="2">1110</td><td></td><td colspan="2">6.—</td><td>BA, CL, CN, CO, EG, JO, KR, LB, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.—</td><td>GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1210</td><td></td><td colspan="2">15.—</td><td>BA, CL, CO, CR, GT, JO, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>EG</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">22.—</td><td>GE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">6.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">7.50</td><td>PA</td><td></td></tr>
-<tr><td></td><td colspan="2">1321</td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1481</td><td></td><td colspan="2">15.—</td><td>BA, CL, CO, CR, GT, JO, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">22.—</td><td>GE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">7.50</td><td>PA</td><td></td></tr>
-<tr><td></td><td colspan="2">1491</td><td></td><td colspan="2">15.—</td><td>BA, CL, CO, CR, GT, JO, KR, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.—</td><td>TR</td><td>foies</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">30.—</td><td>SACU</td><td>foies</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.—</td><td>SACU</td><td>autres que les foies</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">22.—</td><td>GE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">6.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">7.50</td><td>PA</td><td></td></tr>
-<tr><td></td><td colspan="2">2410</td><td></td><td colspan="2">6.—</td><td>CL, CN, CO, CR, EC, GE, JP, KR, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2510</td><td></td><td colspan="2">6.—</td><td>CL, CN, CO, CR, EC, GE, JP, KR, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2621</td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2781</td><td></td><td colspan="2">15.—</td><td>BA, CL, CO, CR, EC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">6.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2791</td><td></td><td colspan="2">15.—</td><td>TR</td><td>foies</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.—</td><td>UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">30.—</td><td>BA, CL, CO, CR, EC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">6.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4110</td><td></td><td colspan="2">6.—</td><td>CL, CN, CO, CR, EC, GE, JP, KR, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4210</td><td></td><td colspan="2">15.—</td><td>CL, CO, CR, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">22.—</td><td>EC, GE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">6.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4300</td><td></td><td colspan="2">22.50</td><td>CL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>9.50</td><td colspan="2"></td><td>CO, CR, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>8.—</td><td colspan="2"></td><td>EC, GE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.20</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4411</td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4491</td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4510</td><td>exempt</td><td colspan="2"></td><td>TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">36.33</td><td>CL, CO, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.65</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4591</td><td></td><td colspan="2">15.—</td><td>TR</td><td>foies</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.—</td><td>CN, JP, KR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">30.—</td><td>CL, CO, CR, EC, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">5110</td><td></td><td colspan="2">6.—</td><td>CL, CN, CO, CR, EC, GE, JP, KR, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5210</td><td></td><td colspan="2">15.—</td><td>CL, CO, CR, EC, GE, KR, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">6.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5300</td><td></td><td colspan="2">22.50</td><td>CL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>9.50</td><td colspan="2"></td><td>CO, CR, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>8.—</td><td colspan="2"></td><td>EC, GE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.20</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5411</td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5491</td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5510</td><td>exempt</td><td colspan="2"></td><td>TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">36.33</td><td>CL, CO, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.65</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5591</td><td></td><td colspan="2">15.—</td><td>TR</td><td>foies</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.—</td><td>CN, JP, KR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">30.—</td><td>CL, CO, CR, EC, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">6011</td><td></td><td colspan="2">6.—</td><td>CL, CN, CO, CR, EC, GE, JP, KR, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">6021</td><td></td><td colspan="2">15.—</td><td>CL, CO, CR, EC, GE, KR, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">6.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6041</td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6051</td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6091</td><td></td><td colspan="2">15.—</td><td>TR</td><td>foies</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.—</td><td>CN, JP, KR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">30.—</td><td>CL, CO, CR, EC, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td>0208.</td><td colspan="2">1000</td><td>11.—</td><td colspan="2"></td><td>CO, EC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.80</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3000</td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">4000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, GCC, HK, JO, KR, LB, MA, ME, MK, MX, PE, PS, RS, SG, TN, UA</td><td>de baleines</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">5000</td><td>exempt</td><td colspan="2"></td><td>CN, CO, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">6000</td><td>exempt</td><td colspan="2"></td><td>CN, EC, GCC, GE, KR, SACU, TN</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>EG, TN</td><td>d’autruches</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>LB</td><td>d’autruches; de perdrix</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>d’autruches; d’antilopes springbok et d’oryx</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CA</td><td>de wapitis</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CO, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>5.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>KR, SACU</td><td>autres que les cuisses de grenouilles</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.—</td><td>TR</td><td>cuisses de grenouilles</td></tr>
-<tr><td></td><td colspan="2"></td><td>6.—</td><td colspan="2"></td><td>SACU</td><td>cuisses de grenouilles</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, GCC</td><td></td></tr>
-<tr><td>0209.</td><td colspan="2">9000</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>0210.</td><td colspan="2">1110</td><td>exempt</td><td colspan="2"></td><td>BA, CL, CN, CO, EC, GE, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>CR</td><td></td></tr>
-<tr><td></td><td colspan="2">1191</td><td>150.—</td><td colspan="2"></td><td>BA, CL, CO, CR, GE, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>135.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1210</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1910</td><td>exempt</td><td colspan="2"></td><td>BA, CL, CN, CO, EC, GE, KR, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>35.—</td><td colspan="2"></td><td>CR</td><td></td></tr>
-<tr><td></td><td colspan="2">1991</td><td>187.—</td><td colspan="2"></td><td>AL, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>150.—</td><td colspan="2"></td><td>BA, CL, CO, GE, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>135.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>180.—</td><td colspan="2"></td><td>CR</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td>238.—</td><td colspan="2"></td><td>AL, BA, GE, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>contingent tarifaire annuel de 20 t (n<sup>os</sup> du tarif 0210.2010 et ex9990)</td></tr>
-<tr><td></td><td colspan="2"></td><td>225.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9100</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9200</td><td>exempt</td><td colspan="2"></td><td>CN</td><td>de baleines, de dauphins et de marsouins (mammifères de l’ordre des cétacés); de lamantins et de dugongs (mammifères de l’ordre des siréniens)</td></tr>
-<tr><td></td><td colspan="2">9300</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9911</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9912</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9951</td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9981</td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9990</td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>de gibier: contingent tarifaire annuel de 20 t (n<sup>os</sup> du tarif 0210.2010 et ex9990)</td></tr>
-<tr><td>0301.</td><td colspan="2">1100/ 0308.9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>0401.</td><td colspan="2">1010</td><td>16.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td>16.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>0402.</td><td colspan="2">2111</td><td>25.—</td><td colspan="2"></td><td>BA, CO, GE, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>45.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2911</td><td>45.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9110</td><td></td><td colspan="2">5.—</td><td>CO, PE</td><td></td></tr>
-<tr><td>0403.</td><td colspan="2">1010</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1020</td><td>100.—</td><td colspan="2"></td><td>IL, JO, MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1091</td><td>16.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9031</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9041</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9049</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9051</td><td>10.80</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9061</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9069</td><td>1211.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9072</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9079</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td>0404.</td><td colspan="2">9081</td><td>15.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>0405.</td><td colspan="2">2011</td><td>em</td><td colspan="2"></td><td>CA, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>18.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2019</td><td>18.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2091</td><td>em</td><td colspan="2"></td><td>CA, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>27.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>0406.</td><td colspan="2">1010</td><td>19.50</td><td colspan="2"></td><td>LB, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CO, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">1020</td><td>256.—</td><td colspan="2"></td><td>LB, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CO, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">1090</td><td>279.—</td><td colspan="2"></td><td>SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CO, GE, PE, RS</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td>392.—</td><td colspan="2"></td><td>SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CO, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td>299.—</td><td colspan="2"></td><td>SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CO, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">3010</td><td>exempt</td><td colspan="2"></td><td>BA, CO, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">3090</td><td>426.—</td><td colspan="2"></td><td>LB, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CO, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">4010</td><td>exempt</td><td colspan="2"></td><td>BA, CO, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>12.80</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4021</td><td>exempt</td><td colspan="2"></td><td>BA, CO, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>51.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4029/9021</td><td>exempt</td><td colspan="2"></td><td>BA, CO, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">9031</td><td>exempt</td><td colspan="2"></td><td>BA, CO, GE, PE, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>57.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9039</td><td>exempt</td><td colspan="2"></td><td>BA, CO, GE, PE, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9051</td><td>exempt</td><td colspan="2"></td><td>BA, CO, GE, PE, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>191.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9059</td><td>exempt</td><td colspan="2"></td><td>BA, CO, GE, PE, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>144.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9060</td><td>exempt</td><td colspan="2"></td><td>BA, CO, GE, PE, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>25.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9091/9099</td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>destinés à la consommation directe: contingent tarifaire annuel de 200 t (n<sup>os</sup> du tarif 0406.9091 et 9099)</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">75 %</td><td>EG</td><td>destinés à la consommation directe: contingent tarifaire annuel de 200 t (n<sup>os</sup> du tarif 0406.9091 et 9099)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CO, GE, PE, RS</td><td></td></tr>
-<tr><td>0407.</td><td colspan="2">1110</td><td></td><td colspan="2">3.—</td><td>MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>47.—</td><td colspan="2"></td><td>CL, CO, CR, GE, GT, JO, KR, LB, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>45.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MX</td><td>œufs indemnes de pathogènes, pour la fabrication de produits pharmaceutiques, la recherche et l’utilisation dans les laboratoires</td></tr>
-<tr><td></td><td colspan="2">1910</td><td></td><td colspan="2">3.—</td><td>MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>47.—</td><td colspan="2"></td><td>CL, CO, CR, GE, GT, JO, KR, LB, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>45.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MX</td><td>œufs indemnes de pathogènes, pour la fabrication de produits pharmaceutiques, la recherche et l’utilisation dans les laboratoires</td></tr>
-<tr><td></td><td colspan="2">2110</td><td></td><td colspan="2">3.—</td><td>MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>47.—</td><td colspan="2"></td><td>CL, CO, CR, GE, GT, JO, KR, LB, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>45.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MX</td><td>œufs indemnes de pathogènes, pour la fabrication de produits pharmaceutiques, la recherche et l’utilisation dans les laboratoires</td></tr>
-<tr><td></td><td colspan="2">2910</td><td></td><td colspan="2">3.—</td><td>MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>47.—</td><td colspan="2"></td><td>CL, CO, CR, GE, GT, JO, KR, LB, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>45.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MX</td><td>œufs indemnes de pathogènes, pour la fabrication de produits pharmaceutiques, la recherche et l’utilisation dans les laboratoires</td></tr>
-<tr><td></td><td colspan="2">9010</td><td></td><td colspan="2">3.—</td><td>MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>47.—</td><td colspan="2"></td><td>CL, CO, CR, GE, GT, JO, KR, LB, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>45.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MX</td><td>œufs indemnes de pathogènes, pour la fabrication de produits pharmaceutiques, la recherche et l’utilisation dans les laboratoires</td></tr>
-<tr><td>0408.</td><td colspan="2">9110</td><td></td><td colspan="2">16.—</td><td>MX</td><td>sans addition de sucre ou d’autres édulcorants</td></tr>
-<tr><td></td><td colspan="2"></td><td>239.—</td><td colspan="2"></td><td>CL, CO, CR, GE, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>239.—</td><td colspan="2"></td><td>KR, UA</td><td>sans addition de sucre ou d’autres édulcorants</td></tr>
-<tr><td></td><td colspan="2"></td><td>229.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9910</td><td></td><td colspan="2">8.—</td><td>MX</td><td>sans addition de sucre ou d’autres édulcorants</td></tr>
-<tr><td></td><td colspan="2"></td><td>71.—</td><td colspan="2"></td><td>CL, CN, CO, CR, EC, GE, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>71.—</td><td colspan="2"></td><td>KR, UA</td><td>sans addition de sucre ou d’autres édulcorants</td></tr>
-<tr><td>0409.</td><td colspan="2">0000</td><td></td><td colspan="2">5.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">12.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>19.—</td><td colspan="2"></td><td>PS</td><td>en récipients de céramique n’excédant pas 1 kg</td></tr>
-<tr><td></td><td colspan="2"></td><td>38.—</td><td colspan="2"></td><td>PS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>19.—</td><td colspan="2"></td><td>AL, BA, CL, CN, CO, CR, EC, EG, KR, LB, ME, MX, PA, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CA, EG, MX, SACU</td><td>pour la mise en œuvre industrielle</td></tr>
-<tr><td></td><td colspan="2"></td><td>26.—</td><td colspan="2"></td><td>CA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE, GT</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>8.—</td><td colspan="2"></td><td>AL, BA, ME, RS, SACU</td><td>miel d’acacias</td></tr>
-<tr><td>0410.</td><td colspan="2">0000</td><td>exempt</td><td colspan="2"></td><td>BA, CAS, CL, CN, CO, EC, GCC, GE, JP, KR, ME, MX, PE, SACU, SG</td><td></td></tr>
-<tr><td>0501.</td><td colspan="2">0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0502.</td><td colspan="2">1000/9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0504.</td><td colspan="2">0010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0031</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0039</td><td></td><td colspan="2">0.50</td><td>CO, GCC, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, GE, IL, ME, MX, RS, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">0090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0505.</td><td colspan="2">1010/1090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9019/9090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0506.</td><td colspan="2">1000/9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0507.</td><td colspan="2">1000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0508.</td><td colspan="2">0010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0091</td><td></td><td colspan="2">10.—</td><td>CO, IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>KR</td><td></td></tr>
-<tr><td></td><td colspan="2">0099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0510.</td><td colspan="2">0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0511.</td><td colspan="2">1010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9190</td><td>exempt</td><td colspan="2"></td><td>CA, CAS, CL, CN, EC, GCC, GE, IL, KR, MX, PH, PS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, HK, JP, ME, MK, PE, RS</td><td>non destinés à l’alimentation des animaux</td></tr>
-<tr><td></td><td colspan="2">9911</td><td></td><td colspan="2">2.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9919</td><td></td><td colspan="2">2.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9980</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CA, EG, PS</td><td>crin et déchets de crin, éponges naturelles d’origine animale</td></tr>
-<tr><td>0601.</td><td colspan="2">1010</td><td></td><td colspan="2">17.—</td><td>AL, BA, CL, CN, CO, CR, EC, EG, GE, GT, JO, JP, KR, MK, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>HK</td><td></td></tr>
-<tr><td></td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, EC, EG, GCC, GE, GT, HK, IL, JO, JP, KR, ME, MK, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>19.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td></td><td colspan="2">1.40</td><td>AL, BA, CL, CO, EC, EG, GCC, GE, GT, JP, KR, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.70</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CR, HK</td><td></td></tr>
-<tr><td></td><td colspan="2">2020</td><td></td><td colspan="2">20.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>11.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, EC, EG, GCC, GE, GT, HK, JP, KR, ME, MX, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2091</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, EC, EG, GCC, GE, GT, HK, IL, JP, KR, ME, MK, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>36.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, EC, EG, GCC, GE, GT, HK, IL, JP, KR, ME, MK, MX, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>19.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>0602.</td><td colspan="2">1000</td><td></td><td colspan="2">0.04</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, ME, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2011</td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>contingent tarifaire annuel de 30 000 plantes (n<sup>os</sup> du tarif 0602.2011, 2039, 2071, 2072, 2081 et 2082)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">200.—</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">2019</td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">200.—</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">2021</td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">140.—</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">2029</td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">140.—</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">2031</td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">160.—</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">2039</td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>contingent tarifaire annuel de 30 000 plantes (n<sup>os</sup> du tarif 0602.2011, 2039, 2071, 2072, 2081 et 2082)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">160.—</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">2041/2049</td><td>exempt</td><td colspan="2"></td><td>CN, EC, GE, JP, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2051</td><td>exempt</td><td colspan="2"></td><td>CN, CO, CR, EC, GE, GT, JP, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2059</td><td></td><td colspan="2">5.20</td><td>CO, EC, GT, PA, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CR, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">2071/2072</td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>contingent tarifaire annuel de 30 000 plantes (n<sup>os</sup> du tarif 0602.2011, 2039, 2071, 2072, 2081 et 2082)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2">2079</td><td>exempt</td><td colspan="2"></td><td>CAS, CO, EC, GE, JP, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>11.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2081/2082</td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>contingent tarifaire annuel de 30 000 plantes (n<sup>os</sup> du tarif 0602.2011, 2039, 2071, 2072, 2081 et 2082)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2">2089</td><td>exempt</td><td colspan="2"></td><td>CO, CR, EC, GE, GT, JP, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>9.80</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GE, HK, JP, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">4010</td><td></td><td colspan="2">5.20</td><td>AL, BA, CO, CR, EC, GT, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.60</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE, HK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2">4091</td><td></td><td colspan="2">20.—</td><td>JO, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.80</td><td colspan="2"></td><td>CO, CR, EG, GE, GT, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td>11.90</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">4099</td><td></td><td colspan="2">20.—</td><td>JO, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.80</td><td colspan="2"></td><td>CAS, CO, EG, GE, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td>11.90</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9011</td><td></td><td colspan="2">1.40</td><td>EC, JP, KR, PH, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.70</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9012</td><td></td><td colspan="2">0.20</td><td>AL, BA, CR, EC, JP, KR, ME, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE, HK</td><td></td></tr>
-<tr><td></td><td colspan="2">9019</td><td></td><td colspan="2">5.20</td><td>CO, CR, EC, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.60</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE, GT</td><td></td></tr>
-<tr><td></td><td colspan="2">9091</td><td></td><td colspan="2">18.—</td><td>IL, MK, TR</td><td>plantes d’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">4.—</td><td>IL, TR</td><td>autres que les plantes d’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td>2.—</td><td colspan="2"></td><td>CL, CO, EG, PE, SACU</td><td>plantes d’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>CL, CO, EG, PE, SACU</td><td>autres que les plantes d’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td>4.—</td><td colspan="2"></td><td>LB</td><td>plantes d’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td>18.—</td><td colspan="2"></td><td>LB</td><td>autres que les plantes d’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td>18.—</td><td colspan="2"></td><td>GE, KR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC, GT</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>13.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.—</td><td colspan="2"></td><td>CR</td><td>plantes d’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>CR</td><td>autres que les plantes d’ornement</td></tr>
-<tr><td></td><td colspan="2">9099</td><td></td><td colspan="2">15.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>4.60</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, EG, GE, KR, LB, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, GT, PH</td><td></td></tr>
-<tr><td>0603.</td><td colspan="2">1110</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">12.50</td><td>CL</td><td></td></tr>
-<tr><td></td><td colspan="2">1120</td><td></td><td colspan="2">25 %</td><td>PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">20 %</td><td>GT</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15 %</td><td>CR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">1130</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1210</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1220</td><td></td><td colspan="2">25 %</td><td>PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15 %</td><td>CR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">1230</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, CR, EC, EG, GE, GT, HK, JO, ME, MX, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1310</td><td>20.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, EG, IL, JO, JP, KR, LB, MA, ME, MK, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>SG</td><td>orchidées spp. Dendrobiums, Mokaras, Aratheas et Oncidiums</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1320</td><td></td><td colspan="2">20 %</td><td>PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10 %</td><td>CR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">1330</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, CR, EC, EG, GE, GT, HK, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>SG</td><td>orchidées spp. Dendrobiums, Mokaras, Aratheas et Oncidiums</td></tr>
-<tr><td></td><td colspan="2">1410</td><td>20.—</td><td colspan="2"></td><td>AL, BA, CL, EG, IL, JO, JP, KR, LB, MA, ME, MK, PA, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, GE, GT, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.—</td><td colspan="2"></td><td>CR</td><td></td></tr>
-<tr><td></td><td colspan="2">1420</td><td></td><td colspan="2">25 %</td><td>PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15 %</td><td>CR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">1430</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, CR, EC, EG, GE, GT, HK, ME, MX, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1510</td><td>20.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, EG, IL, JO, JP, KR, LB, MA, ME, MK, PA, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, GE, GT</td><td></td></tr>
-<tr><td></td><td colspan="2">1520</td><td></td><td colspan="2">20 %</td><td>GT, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10 %</td><td>CR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">1530</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, CR, EC, EG, GE, GT, HK, ME, MX, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1911</td><td>20.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, EG, IL, JO, JP, KR, LB, MA, ME, MK, PA, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, GE, GT</td><td></td></tr>
-<tr><td></td><td colspan="2">1918</td><td>20.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, EG, IL, JO, JP, KR, LB, MA, ME, MK, PA, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, GE, GT</td><td></td></tr>
-<tr><td></td><td colspan="2">1921</td><td></td><td colspan="2">20 %</td><td>GT, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10 %</td><td>CR</td><td></td></tr>
-<tr><td></td><td colspan="2">1928</td><td></td><td colspan="2">20 %</td><td>GT, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10 %</td><td>CR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">1930/1931</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, CR, EC, EG, GE, GT, HK, ME, MX, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1938</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, CR, EC, EG, GE, GT, HK, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td></td><td colspan="2">50.—</td><td>TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, TN, UA</td><td></td></tr>
-<tr><td>0604.</td><td colspan="2">2010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2021</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2029</td><td>exempt</td><td colspan="2"></td><td>CN, CO, GE, HK, MX, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>AL, BA, CL, CR, EC, GCC, JP, KR, LB, ME, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">9011</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">9012</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, JP, KR, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">9091</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">9099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, MA, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td>0701.</td><td colspan="2">1010</td><td></td><td colspan="2">1.40</td><td>AL, BA, CAS, CL, EC, GCC, GE, JP, KR, LB, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, JO, MA, ME, MX</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td></td><td colspan="2">3.—</td><td>AL, BA, CAS, CL, CO, EC, GE, JO, KR, LB, MA, ME, MK, PE, PS, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>TN</td><td>contingent tarifaire annuel de 1500 t</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">6.—</td><td>EG</td><td>contingent tarifaire annuel de 2690 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>0702.</td><td colspan="2">0010</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0011</td><td>exempt</td><td colspan="2"></td><td>GE, ME</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0020</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0021</td><td>exempt</td><td colspan="2"></td><td>GE, ME</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0030</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0031</td><td>exempt</td><td colspan="2"></td><td>GE, ME</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0090</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0091</td><td>3.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>0703.</td><td colspan="2">1011/1013</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1020/1021</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1030/1031</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1040/1041</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1050/1051</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1060/1061</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1070/1071</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1080</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, JO, JP, KR, LB, MA, ME, MK, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9011</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CR, JO, JP, KR, LB, MA, ME, MK, PA, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, EG, GE, GT, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">9020</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, JO, JP, KR, LB, MA, ME, MK, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9021</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CR, JO, JP, KR, LB, MA, ME, MK, PA, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, EG, GE, GT, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td></td><td colspan="2">5.—</td><td>MA, MK, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.50</td><td colspan="2"></td><td>AL, BA, JO, ME, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>5.—</td><td colspan="2"></td><td>JP, KR, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, EG, GE, GT, PE</td><td></td></tr>
-<tr><td>0704.</td><td colspan="2">1010/1011</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1020/1021</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1090/1091</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2010/2011</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9011/9018</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9020/9021</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9030/9031</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9040/9041</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9050</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9051</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>IL</td><td>1.11.–30.11.</td></tr>
-<tr><td></td><td colspan="2">9060</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, IL, JO, JP, KR, LB, MA, ME, MK, PE, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9061</td><td>5.—</td><td colspan="2"></td><td>IL</td><td>1.1.–1.3./10.4.–31.5.</td></tr>
-<tr><td></td><td colspan="2"></td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, MK, PE, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9063/9064</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9070/9071</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9080/9081</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, EC, EG, JO, JP, KR, LB, MA, ME, MK, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, GE, PH</td><td></td></tr>
-<tr><td>0705.</td><td colspan="2">1111</td><td>3.50</td><td colspan="2"></td><td>AL, BA, CL, CR, GT, IL, JO, JP, KR, LB, MA, ME, PE, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>5.—</td><td colspan="2"></td><td>CO</td><td></td></tr>
-<tr><td></td><td colspan="2">1118</td><td>3.50</td><td colspan="2"></td><td>IL</td><td>1.3.–31.3./1.11.–31.12.</td></tr>
-<tr><td></td><td colspan="2"></td><td>3.50</td><td colspan="2"></td><td>AL, BA, CL, CR, GT, JO, JP, KR, LB, MA, ME, PE, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>5.—</td><td colspan="2"></td><td>CO</td><td></td></tr>
-<tr><td></td><td colspan="2">1120</td><td>3.50</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, IL, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1121</td><td>3.50</td><td colspan="2"></td><td>IL</td><td>1.3.–31.3./1.11.–31.12.</td></tr>
-<tr><td></td><td colspan="2"></td><td>3.50</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1191/1198</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1910/1911</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1920/1921</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1930/1931</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1940/1941</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1950/1951</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1990/1991</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">2110/2111</td><td>3.50</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">2910/2911</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2920/2921</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2930/2931</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2940/2941</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2950/2951</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2960/2961</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2970/2971</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2990</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>0706.</td><td colspan="2">1010</td><td></td><td colspan="2">2.10</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1.90</td><td colspan="2"></td><td>CL, JO</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.—</td><td colspan="2"></td><td>AL, BA, CO, CR, GT, JP, KR, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1011</td><td></td><td colspan="2">2.10</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1.90</td><td colspan="2"></td><td>CL, JO</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.—</td><td colspan="2"></td><td>AL, BA, CO, CR, JP, KR, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, GT</td><td></td></tr>
-<tr><td></td><td colspan="2">1020</td><td></td><td colspan="2">2.10</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1.90</td><td colspan="2"></td><td>CL, JO</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.—</td><td colspan="2"></td><td>AL, BA, CO, CR, GT, JP, KR, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1021</td><td></td><td colspan="2">2.10</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1.90</td><td colspan="2"></td><td>CL, JO</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.—</td><td colspan="2"></td><td>AL, BA, CO, CR, JP, KR, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, GT</td><td></td></tr>
-<tr><td></td><td colspan="2">1030/1031</td><td></td><td colspan="2">2.10</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1.90</td><td colspan="2"></td><td>CL</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.—</td><td colspan="2"></td><td>AL, BA, CO, CR, GT, JP, KR, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9011/9018</td><td>2.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9021/9028</td><td>3.50</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9030/9031</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9040/9041</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9050/9051</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9060/9061</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, EC, EG, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, GE</td><td></td></tr>
-<tr><td>0707.</td><td colspan="2">0010/0011</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">0020/0021</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">0030</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, TN, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">0031</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, IL, JO, JP, KR, LB, MA, ME, MK, MX, PS, RS, TN, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, EG, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">0040</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, TN, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">0041</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, IL, JO, JP, KR, LB, MA, ME, MK, MX, PS, RS, TN, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, EG, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">0050</td><td></td><td colspan="2">5.—</td><td>IL, MA, MK, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.50</td><td colspan="2"></td><td>AL, BA, CR, JO, JP, KR, LB, ME, PE, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, EG, GE</td><td></td></tr>
-<tr><td>0708.</td><td colspan="2">1010</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1011</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, JP, KR, MA, ME, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, EG, GE, GT, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1020</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1021</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, JP, KR, MA, ME, RS, SACU, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, GT, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2021</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>16.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2028</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–15.11.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2031</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>16.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2038</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–15.11.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2041</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>16.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2048</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–15.11.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2091</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>16.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2098</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–15.11.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td></td><td colspan="2">10.—</td><td>IL, TR</td><td>1.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CO, MA</td><td></td></tr>
-<tr><td></td><td colspan="2">9080</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9081</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, JP, KR, LB, MA, ME, PE, RS, SACU, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, GT, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
-<tr><td>0709.</td><td colspan="2">2010/2011</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td></td><td colspan="2">3.50</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.50</td><td colspan="2"></td><td>AL, BA, CL, CO, GT, JO, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">3010</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>5.—</td><td colspan="2"></td><td>IL, TR</td><td>1.4.–31.5./16.10.–31.10.</td></tr>
-<tr><td></td><td colspan="2"></td><td>5.—</td><td colspan="2"></td><td>PS</td><td></td></tr>
-<tr><td></td><td colspan="2">3011</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, IL, JO, KR, LB, MA, ME, PE, PS, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">4010/4011</td><td>5.—</td><td colspan="2"></td><td>AL, CAS, CL, CO, IL, JO, JP, KR, LB, MA, PE, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CN, EC, EG, GE, ME, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">4020/4021</td><td>5.—</td><td colspan="2"></td><td>AL, CAS, CL, CO, IL, JO, JP, KR, LB, MA, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CN, EC, EG, GE, ME, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">4090/4091</td><td>5.—</td><td colspan="2"></td><td>AL, CAS, CL, CO, IL, JO, JP, KR, LB, MA, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CN, EC, EG, GE, ME, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">5100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>autres que les truffes</td></tr>
-<tr><td></td><td colspan="2">6011</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">6012</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CO, IL, JO, JP, MA, ME, MK, MX, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">8.60</td><td>EC, GE, PH, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">7010/7011</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">7090</td><td></td><td colspan="2">5.—</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.50</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9110</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>1.11.–31.3.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9120</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9200</td><td></td><td colspan="2">5.—</td><td>IL, MA, TN, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.50</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9300</td><td>3.50</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, JP, KR, LB, ME, PA, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, GT</td><td></td></tr>
-<tr><td></td><td colspan="2">9911</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9918</td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">9920/9921</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9930</td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9931</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9940/9941</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, IL, JO, JP, KR, LB, MA, ME, PE, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9950/9951</td><td>5.—</td><td colspan="2"></td><td>AL, BA, CL, CO, CR, IL, JP, KR, LB, MA, ME, PA, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JO</td><td>de type Baladi</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, GT, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9960/9961</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9970/9971</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9980</td><td></td><td colspan="2">5.—</td><td>IL</td><td>cresson de fontaine</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.50</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, JP, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9999</td><td></td><td colspan="2">5.—</td><td>IL</td><td>aneth, marjolaine cultivée, oseille, cerfeuil, coriandre, sarriette, livèche, roquette, estragon</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>PS</td><td>maïs doux</td></tr>
-<tr><td></td><td colspan="2"></td><td>3.50</td><td colspan="2"></td><td>JO</td><td>coriandre</td></tr>
-<tr><td></td><td colspan="2"></td><td>3.50</td><td colspan="2"></td><td>LB</td><td>autres que molochia</td></tr>
-<tr><td></td><td colspan="2"></td><td>3.50</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, JP, KR, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JO</td><td>okra; molochia</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>LB</td><td>molochia</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
-<tr><td>0710.</td><td colspan="2">1010</td><td>49.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2110</td><td>33.—</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">2210</td><td>49.50</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">2900</td><td>42.10</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>23.40</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">3090</td><td>42.10</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">4000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">8011</td><td>49.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>27.50</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>22.50</td><td colspan="2"></td><td>EC</td><td>choux-brocolis</td></tr>
-<tr><td></td><td colspan="2">8090</td><td>27.50</td><td colspan="2"></td><td>PE</td><td>asperges, artichauts, piments du genre Capsicum ou du genre Pimenta</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>ME</td><td>champignons; olives</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA</td><td>piments du genre Capsicum ou du genre Pimenta, champignons</td></tr>
-<tr><td></td><td colspan="2"></td><td>33.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9011</td><td>33.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>27.50</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9021</td><td>33.—</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>28.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>23.50</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td>0711.</td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, PE, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GE, HK, JO, JP, KR, LB, MA, ME, MX, PE, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>TN</td><td>concombres</td></tr>
-<tr><td></td><td colspan="2">5100/5900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GE, HK, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9020</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>IL, JO, PS, RS, TR</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EG, MA, PE</td><td>piments du genre Capsicum ou du genre Pimenta; oignons</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>LB, MX, SG</td><td>oignons</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>KR</td><td>haricots asperges (Vigna ungauiculata spp.), pois, mélanges de légumes, ne contenant pas de pommes de terre, d’oignons et de piments du genre Capsicum ou du genre Pimenta; oignons</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>ignames salées</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, PH</td><td></td></tr>
-<tr><td>0712.</td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, MA, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, MA, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3300</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, MA, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9021</td><td>10.—</td><td colspan="2"></td><td>AL, BA, CL, CN, CO, EC, EG, GE, KR, MK, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2">9070</td><td></td><td colspan="2">15.—</td><td>AL, MA, MK, RS</td><td></td></tr>
-<tr><td></td><td colspan="2">9081</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, EG, GCC, IL, JP, KR, MA, MK, PE, RS, SACU, TN, TR</td><td>aulx et tomates, non mélangés</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CL</td><td>tomates</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>IL</td><td>cerfeuil, roquette, estragon, persil</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9089</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, IL, MA, PE, RS, SACU, TN, TR</td><td>aulx et tomates, non mélangés</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CL</td><td>tomates</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td>tomates, carottes, aulx, betteraves rouges</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">20.—</td><td>IL</td><td>cerfeuil, roquette, estragon, persil</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">20.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.—</td><td>IL</td><td>maïs doux</td></tr>
-<tr><td></td><td colspan="2"></td><td>14.—</td><td colspan="2"></td><td>KR</td><td>aulx et tomates, non mélangés</td></tr>
-<tr><td></td><td colspan="2"></td><td>14.—</td><td colspan="2"></td><td>EC, EG, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>14.—</td><td colspan="2"></td><td>JP</td><td>radis du genre Raphanus sativus</td></tr>
-<tr><td></td><td colspan="2"></td><td>17.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>0713.</td><td colspan="2">1012/1013</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1092</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2012/2013</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2091</td><td></td><td colspan="2">2.25</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">2092</td><td></td><td colspan="2">2.25</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2099</td><td></td><td colspan="2">2.25</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3112</td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">3113</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3119</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3191</td><td></td><td colspan="2">4.50</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3192</td><td></td><td colspan="2">4.50</td><td>IL, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3199</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3212</td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">3213</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3219</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3292</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3299</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3311</td><td></td><td colspan="2">0.90</td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2">3312</td><td></td><td colspan="2">0.90</td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">3313</td><td></td><td colspan="2">0.90</td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3319</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3392</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3399</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3412/3413</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3419</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3492</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3499</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3512/3513</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3519</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3592</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3599</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3912</td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">3913</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3919</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3992</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3999</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4012/4013</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, ME, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4091</td><td></td><td colspan="2">2.25</td><td>TR</td><td></td></tr>
-<tr><td></td><td colspan="2">4092</td><td></td><td colspan="2">2.25</td><td>TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5013</td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">5014</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5015/5018</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, ME, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5092</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">6012/6013</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">6092</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9022/9023</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9029</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9082</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9089</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td>0714.</td><td colspan="2">1010</td><td></td><td colspan="2">0.15</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.75</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2">1090</td><td>0.60</td><td colspan="2"></td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.75</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td></td><td colspan="2">0.75</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.75</td><td>MA, PS</td><td></td></tr>
-<tr><td></td><td colspan="2">3010</td><td></td><td colspan="2">0.15</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.75</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2">3090</td><td>0.60</td><td colspan="2"></td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.75</td><td>EC, MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, JP, KR, LB, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4010</td><td></td><td colspan="2">0.15</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.75</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2">4090</td><td>0.60</td><td colspan="2"></td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.75</td><td>EC, MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, JP, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5010</td><td></td><td colspan="2">0.15</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.75</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2">5090</td><td>0.60</td><td colspan="2"></td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.75</td><td>EC, MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, JP, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9020</td><td></td><td colspan="2">0.15</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.75</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2">9080</td><td>0.60</td><td colspan="2"></td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.75</td><td>EC, MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, JP, KR, LB, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td>0801.</td><td colspan="2">1100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">2100/2200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0802.</td><td colspan="2">1100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MA</td><td>pour l’alimentation humaine</td></tr>
-<tr><td></td><td colspan="2">1200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MA</td><td>pour l’alimentation humaine</td></tr>
-<tr><td></td><td colspan="2">2120</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2190</td><td>exempt</td><td colspan="2"></td><td>CL</td><td>contingent tarifaire annuel de 100 t (n<sup>os</sup> du tarif 0802.2190 et 2290)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>contingent tarifaire annuel de 100 t (n<sup>os</sup> du tarif 0802.2190 et 2290)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2210</td><td></td><td colspan="2">12.—</td><td>TR</td><td></td></tr>
-<tr><td></td><td colspan="2">2220</td><td></td><td colspan="2">12.—</td><td>TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2290</td><td>exempt</td><td colspan="2"></td><td>BA, CN, CO, EC, GE, PE, PH, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MA, SG</td><td>pour l’alimentation humaine</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CL</td><td>contingent tarifaire annuel de 100 t (n<sup>os</sup> du tarif 0802.2190 et 2290)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>contingent tarifaire annuel de 100 t (n<sup>os</sup> du tarif 0802.2190 et 2290)</td></tr>
-<tr><td></td><td colspan="2">3120</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3190</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MA, SG</td><td>pour l’alimentation humaine</td></tr>
-<tr><td></td><td colspan="2">3210</td><td></td><td colspan="2">4.—</td><td>TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3220</td><td></td><td colspan="2">4.—</td><td>TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3290</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MA, SG</td><td>pour l’alimentation humaine</td></tr>
-<tr><td></td><td colspan="2">4100/4200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5100/5200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MA</td><td>pour l’alimentation humaine</td></tr>
-<tr><td></td><td colspan="2">6100/9030</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td>0803.</td><td colspan="2">1000</td><td>exempt</td><td colspan="2"></td><td>CN, CO, CR, EC, GCC, GE, GT, MX, PE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9000</td><td>exempt</td><td colspan="2"></td><td>CAS, CN, CO, EC, GCC, GE, MX, PE, PH</td><td></td></tr>
-<tr><td>0804.</td><td colspan="2">1000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2020</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0805.</td><td colspan="2">1000</td><td></td><td colspan="2">5.—</td><td>IL, MA, PS, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.—</td><td colspan="2"></td><td>CL, JO, JP, KR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, EG, GE, HK, LB, ME, MX, PA, PE, PH, RS, SACU, TN</td><td></td></tr>
-<tr><td></td><td colspan="2">2100</td><td></td><td colspan="2">5.—</td><td>IL, MA, PS, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.—</td><td colspan="2"></td><td>CL, JO, JP, KR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, EG, GE, HK, LB, ME, MX, PA, PE, PH, RS, SACU, TN</td><td></td></tr>
-<tr><td></td><td colspan="2">2200</td><td></td><td colspan="2">5.—</td><td>IL, MA, PS, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.—</td><td colspan="2"></td><td>CL, JO, JP, KR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, EG, GE, HK, LB, ME, MX, PA, PE, PH, RS, SACU, TN</td><td></td></tr>
-<tr><td></td><td colspan="2">2900</td><td></td><td colspan="2">5.—</td><td>IL, MA, PS, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.—</td><td colspan="2"></td><td>CL, JO, JP, KR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, EG, GE, HK, LB, ME, MX, PA, PE, PH, RS, SACU, TN</td><td></td></tr>
-<tr><td></td><td colspan="2">4000</td><td></td><td colspan="2">1.50</td><td>IL, PS, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, ME, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td>0806.</td><td colspan="2">1011</td><td>10.—</td><td colspan="2"></td><td>PS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>ME</td><td>15.7.–31.8.: contingent tarifaire annuel de 100 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>«fruits-cadeaux»: contingent tarifaire annuel de 50 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CO, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>6.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1012</td><td>15.—</td><td colspan="2"></td><td>PS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MX</td><td>1.5.–14.7.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JO</td><td>1.3.–31.5.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CL</td><td>1.1.–30.6.: contingent tarifaire annuel de 1000 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>LB</td><td>1.12.–31.5.: contingent tarifaire annuel de 5000 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>1.1.–30.6.: contingent tarifaire annuel de 1500 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EG</td><td>1.1.–14.7.: contingent tarifaire annuel de 1200 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>«fruits-cadeaux»: contingent tarifaire annuel de 50 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PE</td><td>1.12.–14.7.</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CO, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>ME</td><td>1.6.–14.7.: contingent tarifaire annuel de 100 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA</td><td>contingent tarifaire annuel de 500 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>9.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1021</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MX, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
-<tr><td>0807.</td><td colspan="2">1100/1900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0808.</td><td colspan="2">1011</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, GE, HK, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.—</td><td>CL, EC, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">1021</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.—</td><td>CL, EC, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">1022</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.—</td><td>CL, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">1031</td><td>2.50</td><td colspan="2"></td><td>MA, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.50</td><td>AL, BA, CL, CO, EC, KR, LB, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, GE, HK, JP, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1032</td><td>2.50</td><td colspan="2"></td><td>MA, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.50</td><td>AL, BA, CL, CO, KR, LB, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, GE, HK, JP, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3011</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.—</td><td>CL, CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">3021/3022</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.—</td><td>CL, CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">3031/3032</td><td>2.50</td><td colspan="2"></td><td>MA, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.50</td><td>AL, BA, CL, CO, EC, EG, GE, KR, LB, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, HK, JP, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4011</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.—</td><td>CL, CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">4021/4022</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.—</td><td>CL, CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">4031/4032</td><td>2.50</td><td colspan="2"></td><td>MA, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.50</td><td>AL, BA, CL, CO, EC, EG, KR, LB, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, GE, HK, JP, UA</td><td></td></tr>
-<tr><td>0809.</td><td colspan="2">1011/1018</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, GE, HK, JP, MA, ME, MK, MX, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.—</td><td>CO, EC, EG, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">1091/1098</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, GE, HK, JP, MA, ME, MK, MX, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>CO, EC, EG, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">2110</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CL, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.—</td><td>CO, EC, EG, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">2111</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.—</td><td>CO, EC, EG, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">2910</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CL, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.—</td><td>CO, EC, EG, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">2911</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.—</td><td>CO, EC, EG, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">3010</td><td>exempt</td><td colspan="2"></td><td>EG</td><td>contingent tarifaire annuel de 500 t (n<sup>os</sup> du tarif 0809.3010 et 3020)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, ME</td><td>contingent tarifaire annuel de 200 t (n<sup>os</sup> du tarif 0809.3010 et 3020)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>«fruits-cadeaux»: contingent tarifaire annuel de 50 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3020</td><td>exempt</td><td colspan="2"></td><td>EG</td><td>contingent tarifaire annuel de 500 t (n<sup>os</sup> du tarif 0809.3010 et 3020)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, ME</td><td>contingent tarifaire annuel de 200 t (n<sup>os</sup> du tarif 0809.3010 et 3020)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>«fruits-cadeaux»: contingent tarifaire annuel de 50 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">4012/4013</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, GE, HK, IL, JO, JP, MA, ME, MK, MX, PS, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.—</td><td>CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">4015</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, GE, HK, IL, JO, JP, MA, ME, MK, MX, PS, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.—</td><td>CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">4092/4093</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, GE, HK, IL, JO, JP, MA, ME, MK, MX, PS, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">4095</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, GE, HK, IL, JO, JP, MA, ME, MK, MX, PS, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
-<tr><td>0810.</td><td colspan="2">1010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1011</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2010/2011</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, MA, ME, MK, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2020/2021</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, MA, ME, MK, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2030</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, MA, ME, MK, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3012</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, GE, HK, MA, ME, MK, MX, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>CO, EC, GCC, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>5.—</td><td colspan="2"></td><td>JP</td><td></td></tr>
-<tr><td></td><td colspan="2">3021/3022</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, GE, HK, MA, ME, MK, MX, RS, SACU, SG</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>CO, EC, GCC, KR, LB, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>5.—</td><td colspan="2"></td><td>JP</td><td></td></tr>
-<tr><td></td><td colspan="2">4000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">6000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">7000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG</td><td></td></tr>
-<tr><td></td><td colspan="2">9092</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9098</td><td>exempt</td><td colspan="2"></td><td>IL, TN</td><td>grenades</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG</td><td></td></tr>
-<tr><td>0811.</td><td colspan="2">1000</td><td></td><td colspan="2">22.50</td><td>MA, MX</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
-<tr><td></td><td colspan="2"></td><td>15.50</td><td colspan="2"></td><td>BA, CL, RS</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
-<tr><td></td><td colspan="2"></td><td>15.50</td><td colspan="2"></td><td>CO, CR, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>EG, GE</td><td>non destinées à la mise en œuvre industrielle ou avec addition de sucre ou d’autres édulcorants</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EG, GE</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
-<tr><td></td><td colspan="2"></td><td>19.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>EC, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td></td><td colspan="2">8.—</td><td>MA, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>26.—</td><td colspan="2"></td><td>BA, CL, CO, EC, GE, JP, KR, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>27.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td></td><td colspan="2">22.50</td><td>MA, MX</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
-<tr><td></td><td colspan="2"></td><td>15.50</td><td colspan="2"></td><td>CL, RS</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
-<tr><td></td><td colspan="2"></td><td>15.50</td><td colspan="2"></td><td>BA, CO, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>RS</td><td>framboises pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
-<tr><td></td><td colspan="2"></td><td>30.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, MA, ME, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">9021/9029</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>MA, MK, SG</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td>0812.</td><td colspan="2">1000</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9080</td><td></td><td colspan="2">2.—</td><td>MA, MX</td><td>fraises</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>IL, TN</td><td>agrumes</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>MA</td><td>agrumes; framboises, groseilles à grappes</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>6.50</td><td colspan="2"></td><td>AL, CL, EG, RS, SACU</td><td>fraises</td></tr>
-<tr><td></td><td colspan="2"></td><td>3.50</td><td colspan="2"></td><td>AL, CL, CO, EG, KR, PE, RS, SACU</td><td>autres que les fraises</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td>0813.</td><td colspan="2">1000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GE, IL, JP, LB, MA, ME, MK, MX, PE, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2010/2090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3000</td><td></td><td colspan="2">9.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>29.—</td><td colspan="2"></td><td>AL, BA, CL, CO, EC, EG, GE, JP, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>30.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4011</td><td></td><td colspan="2">2.40</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>7.60</td><td colspan="2"></td><td>AL, BA, CO, EC, EG, GE, JP, LB, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>8.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4020</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4089</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4092</td><td></td><td colspan="2">8.—</td><td>IL, TR</td><td>fruits tropicaux</td></tr>
-<tr><td></td><td colspan="2">4099</td><td></td><td colspan="2">8.—</td><td>IL, MK, TR</td><td>fruits tropicaux</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP, KR</td><td>kakis (persimmon)</td></tr>
-<tr><td></td><td colspan="2"></td><td>2.—</td><td colspan="2"></td><td>CO, EG, KR, LB, PE, SACU</td><td>fruits tropicaux</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">5019</td><td></td><td colspan="2">1.20</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1.—</td><td colspan="2"></td><td>CO, EG, JP, KR, LB, SACU</td><td>contenant des fruits tropicaux</td></tr>
-<tr><td></td><td colspan="2"></td><td>1.—</td><td colspan="2"></td><td>AL, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PE</td><td>contenant des fruits tropicaux</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">5021</td><td></td><td colspan="2">2.—</td><td>IL, JP, TR</td><td>contenant des fruits tropicaux</td></tr>
-<tr><td></td><td colspan="2">5029</td><td></td><td colspan="2">2.—</td><td>IL, TR</td><td>contenant des fruits tropicaux</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.40</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1.—</td><td colspan="2"></td><td>CO, EG, JP, KR, LB, SACU</td><td>contenant des fruits tropicaux</td></tr>
-<tr><td></td><td colspan="2"></td><td>1.—</td><td colspan="2"></td><td>AL, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PE</td><td>contenant des fruits tropicaux</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">5089</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5099</td><td>exempt</td><td colspan="2"></td><td>CN, PH</td><td></td></tr>
-<tr><td>0814.</td><td colspan="2">0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, MA, ME, MX, PE, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>0901.</td><td colspan="2">1100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1200</td><td></td><td colspan="2">21.—</td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2100</td><td></td><td colspan="2">35.—</td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2200</td><td></td><td colspan="2">35.—</td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9011</td><td>exempt</td><td colspan="2"></td><td>AL, CA, CL, EG, GCC, JP, KR, PS, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">9019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9020</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0902.</td><td colspan="2">1000/4000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0903.</td><td colspan="2">0000</td><td>exempt</td><td colspan="2"></td><td>CA, CAS, CL, CN, EC, GCC, GE, JP, KR, LB, MX, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0904.</td><td colspan="2">1100/1200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2100/2200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0905.</td><td colspan="2">1000/2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0906.</td><td colspan="2">1100/1900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, IL, JP, KR, ME, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0907.</td><td colspan="2">1000/2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>0908.</td><td colspan="2">1100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, GCC, GE, HK, IL, JP, KR, ME, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, GCC, GE, HK, IL, JP, KR, ME, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, GCC, GE, HK, IL, JP, KR, ME, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td>0909.</td><td colspan="2">2100/2200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EG, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3100/6110</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">6120</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, IL, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MX, SG</td><td>graines de fenouil; baies de genièvre</td></tr>
-<tr><td></td><td colspan="2">6210</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">6220</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, IL, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MX, SG</td><td>graines de fenouil; baies de genièvre</td></tr>
-<tr><td>0910.</td><td colspan="2">1100/1200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, MA, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CL</td><td>curry</td></tr>
-<tr><td></td><td colspan="2">9900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CA, JO, MA, MX, SG</td><td>thym; feuilles de laurier</td></tr>
-<tr><td>1001.</td><td colspan="2">1100/1910</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1921</td><td></td><td colspan="2">1.—</td><td>CA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1940/1990</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9910</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9940</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9990</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, GE, HK, KR, ME, RS, UA</td><td></td></tr>
-<tr><td>1002.</td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9040</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, GE, HK, JP, KR, ME, RS</td><td></td></tr>
-<tr><td>1003.</td><td colspan="2">9010/9030</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9060</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, GE, HK, KR, ME, RS, UA</td><td></td></tr>
-<tr><td>1004.</td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9040</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, GE, HK, JP, KR, ME, RS, UA</td><td></td></tr>
-<tr><td>1005.</td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9021</td><td>exempt</td><td colspan="2"></td><td>PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9040</td><td>exempt</td><td colspan="2"></td><td>CN, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, GE, HK, KR, ME, PE, PH, RS, UA</td><td></td></tr>
-<tr><td>1006.</td><td colspan="2">1010</td><td></td><td colspan="2">0.60</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1021/1029</td><td></td><td colspan="2">0.60</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, EG, GE, HK, IL, KR, LB, ME, PH, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td></td><td colspan="2">0.60</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2021/2029</td><td></td><td colspan="2">0.60</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GE, HK, IL, KR, LB, ME, PE, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3010</td><td></td><td colspan="2">3.—</td><td>CO, IL, PE, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3021/3029</td><td></td><td colspan="2">3.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, CR, EC, EG, GE, HK, IL, LB, ME, MK, PA, PE, PH, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">4010</td><td></td><td colspan="2">3.—</td><td>CO, IL, PE, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4021/4029</td><td></td><td colspan="2">3.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">4090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, CR, EC, EG, GE, HK, IL, LB, ME, PA, PE, PH, RS, SACU, TR</td><td></td></tr>
-<tr><td>1007.</td><td colspan="2">1000</td><td>exempt</td><td colspan="2"></td><td>CN, CO, CR, GE, JP, KR, PE, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9021</td><td></td><td colspan="2">1.90</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9040</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>CN, CO, CR, GE, JP, KR, PE, UA</td><td></td></tr>
-<tr><td>1008.</td><td colspan="2">1010</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1021</td><td></td><td colspan="2">1.90</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1040</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1090/2100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, GE, HK, JP, KR, ME, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2910</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2921</td><td></td><td colspan="2">1.90</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2940</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2990</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, GE, HK, JP, KR, ME, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3010</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3020</td><td>24.30</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3040</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, EG, GE, HK, JP, KR, MA, ME, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4010</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4040</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, GE, HK, JP, KR, MA, ME, PE, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5010</td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">5021</td><td>exempt</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">5029</td><td>exempt</td><td colspan="2"></td><td>EC, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">5040</td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">5090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, GE, HK, JP, KR, MA, ME, PE, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">6020</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6050</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, GE, HK, JP, KR, MA, ME, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9023</td><td>exempt</td><td colspan="2"></td><td>EC</td><td>amarante (Amaranthus L.)</td></tr>
-<tr><td></td><td colspan="2">9024</td><td>exempt</td><td colspan="2"></td><td>AL, CN, EC, GE, HK, KR, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9027</td><td>exempt</td><td colspan="2"></td><td>PE</td><td>kiwicha (Amaranthus caudatus L.)</td></tr>
-<tr><td></td><td colspan="2">9040</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, GE, HK, JP, KR, MA, ME, PE, RS, UA</td><td></td></tr>
-<tr><td>1101.</td><td colspan="2">0041</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, GE, HK, KR, ME, PH, RS, UA</td><td></td></tr>
-<tr><td>1102.</td><td colspan="2">2090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GE, HK, KR, ME, PE, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9018</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, GE, HK, KR, ME, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9048</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, GE, HK, JP, KR, ME, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9051</td><td></td><td colspan="2">6.50</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">12.80</td><td>PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9059</td><td>exempt</td><td colspan="2"></td><td>CN, EC, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9069</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, GE, HK, KR, ME, RS, UA</td><td></td></tr>
-<tr><td>1103.</td><td colspan="2">1111</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1119</td><td></td><td colspan="2">6.50</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1191</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1310</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1911</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1921</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1931</td><td></td><td colspan="2">0.50</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1932</td><td></td><td colspan="2">0.50</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1939</td><td></td><td colspan="2">6.50</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1991</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2011</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2021</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2091</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>1104.</td><td colspan="2">1210</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1911</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1921</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1991</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2210</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2290/2310</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2911</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2921</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2922</td><td></td><td colspan="2">6.50</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2929/2931</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2939</td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">2991</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2999</td><td>exempt</td><td colspan="2"></td><td>CN, EC, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">3011</td><td></td><td colspan="2">8.30</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3012</td><td></td><td colspan="2">7.70</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3039</td><td></td><td colspan="2">9.50</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3091</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3099</td><td>exempt</td><td colspan="2"></td><td>CN, CO, CR, PE</td><td></td></tr>
-<tr><td>1105.</td><td colspan="2">1011</td><td>27.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1090</td><td>45.90</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2011</td><td>27.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td>45.90</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>1106.</td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, GE, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td></td><td colspan="2">1.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GE, HK, IL, KR, ME, PE, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3090</td><td>exempt</td><td colspan="2"></td><td>TR</td><td>farine de bananes; de noisettes</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>IL</td><td>farine de bananes</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, GE, HK, JP, KR, LB, ME, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td>1107.</td><td colspan="2">1011</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1019</td><td>exempt</td><td colspan="2"></td><td>CN, CO, CR, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">1091</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1092/1093</td><td></td><td colspan="2">5.—</td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1099/2011</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2019</td><td>exempt</td><td colspan="2"></td><td>CN, CO, CR, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">2091</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2099</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>1108.</td><td colspan="2">1110</td><td></td><td colspan="2">5.—</td><td>CO, IL, PE, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1120</td><td></td><td colspan="2">5.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1190</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GCC, GE, HK, IL, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1210</td><td></td><td colspan="2">5.—</td><td>CO, IL, PE, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1220</td><td></td><td colspan="2">5.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1290</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, ME, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1310</td><td></td><td colspan="2">3.—</td><td>CO, IL, PE, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1320</td><td></td><td colspan="2">3.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1390</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GCC, GE, HK, IL, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1.60</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1410</td><td></td><td colspan="2">6.—</td><td>CO, IL, PE, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1420</td><td></td><td colspan="2">6.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1490</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GCC, GE, HK, IL, JP, KR, ME, PE, PH, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1.60</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1911</td><td></td><td colspan="2">3.—</td><td>CO, IL, PE, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1912</td><td></td><td colspan="2">3.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1919</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GCC, GE, HK, IL, JP, KR, ME, PE, PH, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1.60</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1991</td><td></td><td colspan="2">5.—</td><td>CO, IL, PE, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1992</td><td></td><td colspan="2">5.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1999</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GCC, GE, HK, IL, JP, KR, ME, PE, PH, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td></td><td colspan="2">5.—</td><td>CO, IL, PE, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2020</td><td></td><td colspan="2">5.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GCC, GE, HK, IL, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>1109.</td><td colspan="2">0000</td><td>1.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>1201.</td><td colspan="2">1000</td><td></td><td colspan="2">0.10</td><td>CO, CR, GT, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9026/9027</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9091</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9099</td><td></td><td colspan="2">0.10</td><td>CO, CR, GT, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td>1202.</td><td colspan="2">3000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, EG, IL, ME, RS, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, EC, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4123</td><td></td><td colspan="2">5.10</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4124</td><td></td><td colspan="2">4.35</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4126/4127</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4191</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4199</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, EG, IL, ME, RS, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, EC, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4223</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4224</td><td></td><td colspan="2">5.70</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4226/4227</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4291</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4299</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, EG, IL, ME, RS, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, EC, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td>1203.</td><td colspan="2">0023</td><td></td><td colspan="2">8.30</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0024</td><td></td><td colspan="2">7.70</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0026/0027</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0090</td><td>0.08</td><td colspan="2"></td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, PE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td>1204.</td><td colspan="2">0023</td><td></td><td colspan="2">5.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0024</td><td></td><td colspan="2">4.30</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0026/0027</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0091</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CN, CR, EC, GE, GT, HK, JP, KR, ME, MX, RS</td><td></td></tr>
-<tr><td></td><td colspan="2">0099</td><td>exempt</td><td colspan="2"></td><td>CA, GE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, CR, GT, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td>1205.</td><td colspan="2">1023</td><td></td><td colspan="2">5.30</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1024</td><td></td><td colspan="2">4.55</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1026/1027</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1031/1039</td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1056/1057</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1061/1069</td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9023</td><td></td><td colspan="2">5.30</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9024</td><td></td><td colspan="2">4.55</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9026/9027</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9031/9039</td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9056/9057</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9061/9069</td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td>1206.</td><td colspan="2">0026/0027</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0031</td><td>exempt</td><td colspan="2"></td><td>CA, SG</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0039</td><td>exempt</td><td colspan="2"></td><td>CA, SG</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0056/0057</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0061</td><td>exempt</td><td colspan="2"></td><td>CA, SG</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0069</td><td>exempt</td><td colspan="2"></td><td>CA, SG</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td>1207.</td><td colspan="2">1023</td><td></td><td colspan="2">6.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1024</td><td></td><td colspan="2">5.30</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1026</td><td></td><td colspan="2">0.25</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1027</td><td></td><td colspan="2">0.30</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1091/1099</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>GE, JP, KR, LB, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2100</td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, GT, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2923</td><td></td><td colspan="2">2.85</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2924</td><td></td><td colspan="2">2.15</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2926/2927</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2991/2999</td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, GT, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3023</td><td></td><td colspan="2">6.40</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3024</td><td></td><td colspan="2">5.75</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3026/3027</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3091/3099</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>GE, JP, KR, LB, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4023</td><td></td><td colspan="2">7.10</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4024</td><td></td><td colspan="2">6.40</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4026/4027</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4091</td><td>exempt</td><td colspan="2"></td><td>CR, GT, MA, MX, SG</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4099</td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, GT, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5023</td><td></td><td colspan="2">2.85</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5024</td><td></td><td colspan="2">2.15</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5026/5027</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5091</td><td>exempt</td><td colspan="2"></td><td>CA, IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5099</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6023</td><td></td><td colspan="2">3.55</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6024</td><td></td><td colspan="2">2.85</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6026/6027</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6091/6099</td><td></td><td colspan="2">0.10</td><td>GE, JP, KR, LB, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">7023</td><td></td><td colspan="2">7.15</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">7024</td><td></td><td colspan="2">6.45</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">7026/7027</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">7091/7099</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9114</td><td></td><td colspan="2">5.75</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9115</td><td></td><td colspan="2">5.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9116/9117</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9118/9119</td><td></td><td colspan="2">0.10</td><td>CO, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9923</td><td></td><td colspan="2">5.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9924</td><td></td><td colspan="2">4.30</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9925/9926</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9927/9929</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, GT, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9984</td><td></td><td colspan="2">7.15</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9985</td><td></td><td colspan="2">6.45</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9986</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9987</td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9988/9989</td><td>exempt</td><td colspan="2"></td><td>EC, IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.10</td><td>CO, CR, GE, GT, JP, KR, LB, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.05</td><td>CN</td><td></td></tr>
-<tr><td>1208.</td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, GE, HK, JP, KR, LB, ME, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>0.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td></td><td colspan="2">0.50</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td></td><td colspan="2">0.50</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, GE, HK, JP, KR, LB, ME, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>0.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>1209.</td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2200/2300</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, ME, PE, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">2400</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2500</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CN, CO, EC, GCC, GE, IL, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2912</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2919</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, IL, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2960</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CN, CO, EC, GCC, GE, IL, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2970</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2980</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2990</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9912</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9919</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9999</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td>1210.</td><td colspan="2">1000/2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td>1211.</td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3000/4000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, HK, IL, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MA</td><td>autres que les racines de réglisse</td></tr>
-<tr><td>1212.</td><td colspan="2">2100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, EC, EG, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MX, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2910</td><td></td><td colspan="2">0.50</td><td>IL, MA, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">2990</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, EC, EG, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MX, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9190</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9210</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9299</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, MA, ME, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9390</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9490</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9990</td><td>exempt</td><td colspan="2"></td><td>MA, TN, TR</td><td>noyaux et amandes d’abricots, de pêches (y compris les brugnons et nectarines) ou de prunes</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JO</td><td>feuilles de vigne fraîches pour l’alimentation humaine</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>SG</td><td>autres que les noyaux et amandes d’abricots, de pêches (y compris les brugnons et nectarines) ou de prunes</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td>1213.</td><td colspan="2">0010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, EC, GE, HK, JP, KR, ME, MX, RS</td><td></td></tr>
-<tr><td></td><td colspan="2">0091/0099</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>1214.</td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td>1301.</td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, SG</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9080</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CL</td><td>autres que la gomme laque</td></tr>
-<tr><td>1302.</td><td colspan="2">1100</td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GE, IL, JP, MA, MX, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1200/1300</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1400</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, HK, JP, KR, LB, ME, MK, MX, PE, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>IL</td><td>pour la préparation de boissons</td></tr>
-<tr><td></td><td colspan="2">1900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>IL</td><td>pour la préparation de boissons; de pyrèthre ou de racines de plantes à roténone</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MA</td><td>de pyrèthre ou de racines de plantes à roténone</td></tr>
-<tr><td></td><td colspan="2">2011</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2019</td><td></td><td colspan="2">26.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2021/2029</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3100/3900</td><td>exempt</td><td colspan="2"></td><td>IL, JO, MA, TN</td><td>modifiés chimiquement</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>1401.</td><td colspan="2">1000/9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>1404.</td><td colspan="2">2010/2090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9080</td><td>exempt</td><td colspan="2"></td><td>MA</td><td>matières végétales des espèces principalement utilisées pour la fabrication des balais ou des brosses (sorgho, piassava, chiendent, istle, par exemple)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>1504.</td><td colspan="2">1010</td><td>exempt</td><td colspan="2"></td><td>CA</td><td>sous forme de gélules conditionnées pour la vente au détail</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">6.—</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">1091</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1098</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.55</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">1099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CA</td><td>pour usages techniques ou pour l’alimentation humaine, sous forme de gélules conditionnées pour la vente au détail</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.70</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2091</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.55</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">2099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CA</td><td>pour usages techniques ou pour l’alimentation humaine, sous forme de gélules conditionnées pour la vente au détail</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.70</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">3010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3091</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.55</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CA</td><td>pour usages techniques ou pour l’alimentation humaine, sous forme de gélules conditionnées pour la vente au détail</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.70</td><td>CN</td><td></td></tr>
-<tr><td>1505.</td><td colspan="2">0019</td><td>exempt</td><td colspan="2"></td><td>CN, EC, EG, GCC, GE, IL, JP, KR, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0099</td><td>exempt</td><td colspan="2"></td><td>EG, GCC, GE, IL, JP, KR, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>1506.</td><td colspan="2">0091</td><td>exempt</td><td colspan="2"></td><td>CO, GE, JP, KR, PE, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CR, IL, TR</td><td>huile de pied de bœuf, graisse d’os et huile d’os, pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">148.—</td><td>EG, LB</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.15</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0099</td><td>exempt</td><td colspan="2"></td><td>CO, GE, JP, KR, PE, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>huile de pied de bœuf, graisse d’os et huile d’os, pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">158.20</td><td>EG, LB</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.70</td><td>CN</td><td></td></tr>
-<tr><td>1508.</td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, CR, GE, IL, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9018/9019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, CR, GE, HK, IL, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9098</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, CR, GE, HK, IL, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, CR, EC, GE, HK, IL, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td>1509.</td><td colspan="2">1010</td><td></td><td colspan="2">5.50</td><td>IL, JO, JP, MA, PS, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1091</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CR, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JO</td><td>pour l’alimentation humaine: contingent tarifaire annuel de 200 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL</td><td>pour l’alimentation humaine: contingent tarifaire annuel de 500 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>TN</td><td>pour l’alimentation humaine: contingent tarifaire annuel de 1000 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>LB</td><td>autre que pour usages techniques: contingent tarifaire annuel de 500 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EG</td><td>contingent tarifaire annuel de 500 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>ME</td><td>pour l’alimentation humaine: contingent tarifaire annuel de 100 t</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.50</td><td>IL, JO, MA, TR</td><td>autre que pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.50</td><td>PS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>60.60</td><td colspan="2"></td><td>CL</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">40.60</td><td>GE, JP, KR, PH, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>61.—</td><td colspan="2"></td><td>CO, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">18.60</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CR, EG, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EG</td><td>autre que pour usages techniques: contingent tarifaire annuel de 500 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL</td><td>pour l’alimentation humaine: contingent tarifaire annuel de 500 t</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.50</td><td>IL, JO, LB, MA, TN, TR</td><td>autre que pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.50</td><td>PS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>86.70</td><td colspan="2"></td><td>CL</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">57.30</td><td>GE, JP, KR, PH, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>87.—</td><td colspan="2"></td><td>CO, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">28.30</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td></td><td colspan="2">5.50</td><td>IL, JO, JP, MA, PS, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">9091</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CR, EG, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.50</td><td>EG, IL, JO, LB, MA, TN, TR</td><td>autre que pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.50</td><td>PS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>60.60</td><td colspan="2"></td><td>CL, CO, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">40.60</td><td>GE, JP, KR, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">19.40</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CR, EG, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.50</td><td>EG, IL, JO, LB, MA, TN, TR</td><td>autre que pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.50</td><td>PS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>86.70</td><td colspan="2"></td><td>CL</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">57.30</td><td>GE, JP, KR, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>87.—</td><td colspan="2"></td><td>CO, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">29.10</td><td>CN</td><td></td></tr>
-<tr><td>1510.</td><td colspan="2">0091</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, GE, IL, JP, KR, LB, MA, ME, PE, RS, TN, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">13.40</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, GE, IL, JP, KR, LB, MA, ME, PE, RS, TN, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.55</td><td>CN</td><td></td></tr>
-<tr><td>1511.</td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GT</td><td>pour la fabrication de produits du n<sup>o</sup> 2104.1000 du tarif</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GT</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
-<tr><td></td><td colspan="2">9018</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9098</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td>1512.</td><td colspan="2">1190</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, GE, IL, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>UA</td><td>pour l’alimentation humaine, en bouteille d’une contenance n’excédant pas 2 l, prêtes à la consommation: contingent tarifaire annuel de 200 t</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, UA</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
-<tr><td></td><td colspan="2">1918/1919</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, GE, IL, KR, LB, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">1998</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, GE, IL, KR, LB, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">1999</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, EC, GE, IL, KR, LB, ME, PE, PH, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">2190</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, CR, GE, IL, KR, LB, ME, PA, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">13.40</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2991</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, CR, GE, IL, KR, LB, ME, PA, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.55</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2999</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, CR, GE, IL, KR, LB, ME, PA, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.70</td><td>CN</td><td></td></tr>
-<tr><td>1513.</td><td colspan="2">1190</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GT, PH</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
-<tr><td></td><td colspan="2">1918</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">1919</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PH</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
-<tr><td></td><td colspan="2">1998</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PH</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
-<tr><td></td><td colspan="2">1999</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PH</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
-<tr><td></td><td colspan="2">2190</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GT, PH</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
-<tr><td></td><td colspan="2">2918</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PH</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
-<tr><td></td><td colspan="2">2919</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">2998</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">2999</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, GE, IL, JP, KR, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GT</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
-<tr><td>1514.</td><td colspan="2">1190</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CO, CR, GE, IL, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">1991/1999</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CO, CR, GE, IL, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9190</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CO, CR, GE, IL, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9991/9999</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CO, CR, GE, IL, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td>1515.</td><td colspan="2">1190</td><td>exempt</td><td colspan="2"></td><td>AL, BA, EG, GE, KR, ME, RS</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">13.40</td><td>CN, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">1991</td><td></td><td colspan="2">14.55</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">1999</td><td></td><td colspan="2">15.70</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">2190</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, EG, GE, IL, KR, LB, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">2991/2999</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EG, GE, IL, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">3091</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CO, EG, GE, IL, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.55</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CO, EG, GE, IL, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.70</td><td>CN, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">5019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EG, GE, HK, IL, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">13.40</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5091</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EG, GE, HK, IL, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.55</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EG, GE, HK, IL, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.70</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9013</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EG, GE, IL, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">13.10</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9018</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EG, GE, IL, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.55</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EG, GE, IL, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.70</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9021</td><td></td><td colspan="2">12.—</td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2">9028</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EG, GE, JP, KR, LB, MA, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">12.—</td><td>IL, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.55</td><td>CN, EC, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9029</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EG, GE, JP, KR, LB, MA, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">12.—</td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.70</td><td>CN, EC, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9038</td><td>exempt</td><td colspan="2"></td><td>AL, BA, EG, GE, IL, JP, KR, LB, ME, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.55</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9039</td><td>exempt</td><td colspan="2"></td><td>AL, BA, EG, GE, IL, JP, KR, LB, ME, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.70</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9098</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EG, GE, IL, JP, KR, LB, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.55</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EG, GE, IL, JP, KR, LB, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>KR</td><td>huile de périlla, sous forme galénique</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.70</td><td>CN, EC</td><td></td></tr>
-<tr><td>1516.</td><td colspan="2">1010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EG, FO, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>entièrement fabriquées à partir de poissons ou de mammifères marins</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>entièrement fabriquées à partir de poissons</td></tr>
-<tr><td></td><td colspan="2">1091</td><td>exempt</td><td colspan="2"></td><td>AL, BA, FO, GE, IL, ME, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CAS, CL, CO, EC, EG, GCC, HK, JO, KR, LB, MA, MK, MX, PE, PH, PS, SACU, SG, TN, UA</td><td>pour usages techniques, entièrement fabriquées à partir de poissons ou de mammifères marins</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CA</td><td>entièrement fabriquées à partir de poissons ou de mammifères marins, pour usages techniques ou pour l’alimentation humaine, sous forme de gélules conditionnées pour la vente au détail</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>pour usages techniques, entièrement fabriquées à partir de poissons</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">16.45</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, FO, GE, IL, ME, RS, TR</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CAS, CL, CO, EC, EG, GCC, HK, JO, KR, LB, MA, MK, MX, PE, PH, PS, SACU, SG, TN, UA</td><td>pour usages techniques, entièrement fabriquées à partir de poissons ou de mammifères marins</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CA</td><td>entièrement fabriquées à partir de poissons ou de mammifères marins, pour usages techniques ou pour l’alimentation humaine, sous forme de gélules conditionnées pour la vente au détail</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>pour usages techniques, entièrement fabriquées à partir de poissons</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">17.60</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td>exempt</td><td colspan="2"></td><td>AL, CA, CAS, CL, CO, EG, GCC, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PS, RS, SACU, SG, TN, TR, UA</td><td>huile de ricin hydrogénée («opalwax»)</td></tr>
-<tr><td></td><td colspan="2">2092</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2093</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, EG, GE, IL, JP, KR, LB, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">2097</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2098</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EC, EG, GE, IL, JP, KR, LB, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>KR</td><td>huile de périlla, sous forme galénique</td></tr>
-<tr><td>1517.</td><td colspan="2">1062</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1067</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1072</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1077</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1082</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1087</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1092</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1097</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9020</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9062</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9063</td><td></td><td colspan="2">24.50</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9067</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9068</td><td></td><td colspan="2">24.45</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9071</td><td></td><td colspan="2">22.55</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9079</td><td></td><td colspan="2">23.90</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9081</td><td></td><td colspan="2">20.40</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9089</td><td></td><td colspan="2">21.60</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9091</td><td></td><td colspan="2">18.15</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2">9099</td><td></td><td colspan="2">19.15</td><td>CN, EC, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td>pour usages techniques</td></tr>
-<tr><td>1518.</td><td colspan="2">0011</td><td></td><td colspan="2">2.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">0019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CO, EG, IL, JP, KR, LB, ME, PE, RS, SG, TR, UA</td><td>pour usages techniques</td></tr>
-<tr><td></td><td colspan="2"></td><td>9.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0081</td><td></td><td colspan="2">5.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">0089</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, EG, GE, IL, JP, KR, LB, ME, PE, RS, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0092</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0093</td><td></td><td colspan="2">40.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">0097</td><td>exempt</td><td colspan="2"></td><td>GE, IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>27.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>1520.</td><td colspan="2">0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>1521.</td><td colspan="2">1010/9020</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>1522.</td><td colspan="2">0000</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>dégras</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td>1601.</td><td colspan="2">0021</td><td>110.—</td><td colspan="2"></td><td>AL, CL, CN, CO, EC, GE, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0031</td><td></td><td colspan="2">15.—</td><td>CL, CN, CO, EC, GE, PE, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>60.—</td><td colspan="2"></td><td>AL, KR, LB, ME, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">0049</td><td>110.—</td><td colspan="2"></td><td>AL, CL, CN, CO, EC, GE, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td>1602.</td><td colspan="2">1010</td><td>42.50</td><td colspan="2"></td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">42.50</td><td>CN, CO, EC, GE, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td>exempt</td><td colspan="2"></td><td>CAS, CN, CO, EC, GCC, GE, IL, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">26.—</td><td>TR</td><td></td></tr>
-<tr><td></td><td colspan="2">2089</td><td>153.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3110</td><td>25.—</td><td colspan="2"></td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">25.—</td><td>CL, CN, CO, EC, GE, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3210</td><td></td><td colspan="2">25.—</td><td>CL, CO, EC, GE, KR, LB, ME, PA, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3910</td><td>25.—</td><td colspan="2"></td><td>IL</td><td>poitrines d’oies, fumées</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">25.—</td><td>CL, CO, EC, GE, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4111</td><td></td><td colspan="2">52.—</td><td>CO, EC, GE, KR, LB, ME, PE, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.—</td><td>RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">23.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4910</td><td>90.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5011</td><td></td><td colspan="2">40.—</td><td>ME, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>90.—</td><td colspan="2"></td><td>GE, PA, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5091</td><td></td><td colspan="2">40.—</td><td>GE, ME, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9011</td><td>90.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>1603.</td><td colspan="2">0000</td><td>exempt</td><td colspan="2"></td><td>CN, EC, GE, HK, IL, KR, MX, PH, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EG, FO, GCC, JO, LB, MA, ME, MK, PE, PS, RS, SACU, SG, TN, UA</td><td>extraits et jus de viande de baleines, de poissons, de crustacés, de mollusques ou d’autres invertébrés aquatiques</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>entièrement fabriqués à partir de poissons</td></tr>
-<tr><td>1604.</td><td colspan="2">1100/ 1605.6900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>1701.</td><td colspan="2">1200</td><td></td><td colspan="2">22.—</td><td>IL, KR, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1300/1400</td><td></td><td colspan="2">22.—</td><td>IL, KR, MX, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PH</td><td>«Muscovado» sucre de canne brun, non destiné au raffinage, pour l’alimentation humaine, non granulé, en emballages de vente au détail d’un poids n’excédant pas 1 kg: contingent tarifaire annuel de 100 t (n<sup>os</sup> du tarif 1701.1300 et 1400)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td>«Panela» sucre de canne brun, non destiné au raffinage, pour l’alimentation humaine, non granulé et granulé, en emballages de vente au détail d’un poids n’excédant pas 2 kg: contingent tarifaire annuel de 100 t (n<sup>os</sup> du tarif 1701.1300 et 1400)</td></tr>
-<tr><td></td><td colspan="2">9190</td><td>76.50</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>76.—</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9999</td><td></td><td colspan="2">22.—</td><td>IL, KR, MX, SACU, TR</td><td>sucre cristallisé, non travaillé</td></tr>
-<tr><td>1702.</td><td colspan="2">2010</td><td>16.80</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2020</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CN, CO, EC, GE, HK, KR, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3029</td><td></td><td colspan="2">0.40</td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">5000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CL</td><td>non destinés à l’alimentation des animaux</td></tr>
-<tr><td></td><td colspan="2"></td><td>3.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6010</td><td>16.80</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6028</td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9022</td><td></td><td colspan="2">25.70</td><td>EC, GE, KR, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">19.30</td><td>CO, GCC, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">9023</td><td></td><td colspan="2">18.70</td><td>EC, GE, KR, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">12.10</td><td>CO, GCC, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">0.50</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9024</td><td>exempt</td><td colspan="2"></td><td>CAS, CL, EC, EG, FO, IL, JO, KR, MA, MX, SG, TN, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CO, GCC, GE, HK, LB, ME, MK, PE, PH, PS, RS, SACU, UA</td><td>non destinés à l’alimentation des animaux</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">9.35</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9028</td><td></td><td colspan="2">18.70</td><td>CO, CR, EC, GCC, GE, PE, PH, SACU</td><td></td></tr>
-<tr><td>1704.</td><td colspan="2">1010</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">41.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">49.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1020</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">41.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">48.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1030</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">41.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">47.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">53.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9020</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">58.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9031</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">53.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9032</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">1.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9041</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">61.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9042</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">60.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9043</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">58.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9050</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">66.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9060</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">53.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9091</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">62.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9092</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">53.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9093</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">57.—</td><td>CN</td><td></td></tr>
-<tr><td>1801.</td><td colspan="2">0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>1802.</td><td colspan="2">0090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td>1803.</td><td colspan="2">1000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>1804.</td><td colspan="2">0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>1805.</td><td colspan="2">0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>1806.</td><td colspan="2">1010/1020</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2011/2019</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">1.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2071/9069</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td>1901.</td><td colspan="2">1011/1019</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1021/1022</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">20.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2011/2019</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2081/2089</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2091/2098</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">20.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9011/9019</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9021/9022</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">20.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9031</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">1.35</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9032</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9033</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">25.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9034</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">37.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9035</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">31.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9036</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">41.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9037</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">1.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9041/9047</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9081/9089</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9091/9096</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">20.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>1902.</td><td colspan="2">1110/1910</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1990</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">9.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2000</td><td>em</td><td colspan="2"></td><td>CAS, EC, GE, IL, JO, MA, PH, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CL, CO, EG, GCC, HK, KR, LB, ME, MK, PE, PS, RS, SACU, SG, TR, UA</td><td>ne contenant pas plus de 20 % de saucisse, de saucisson, de viande, d’abats, de sang ou d’une combinaison de ces produits</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3000</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">55.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4011</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4019</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">3.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4090</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td>1903.</td><td colspan="2">0000</td><td>1.80</td><td colspan="2"></td><td>IL, JO, MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>1904.</td><td colspan="2">1010</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1090</td><td>18.—</td><td colspan="2"></td><td>IL, JO, MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">4.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2000</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3000</td><td>110.—</td><td colspan="2"></td><td>IL, JO, MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9020</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>4.80</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>grains de céréales, concassés et préparés pour la fabrication de corn-flakes et produits similaires</td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>autres que les grains de céréales, concassés et préparés pour la fabrication de corn-flakes et produits similaires</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">50.—</td><td>CN</td><td></td></tr>
-<tr><td>1905.</td><td colspan="2">1010</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1020/3194</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">60.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3210</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">27.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3220</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">60.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4010</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">27.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4021/4029</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">60.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9025/9029</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">1.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9031/9032</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">15.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9039</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">31.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9040</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9071/9078</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9079</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">20.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9081</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">27.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9082</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">47.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9083</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">84.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9084</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">60.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9085</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">80.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9086</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">60.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9089</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">71.—</td><td>CN</td><td></td></tr>
-<tr><td>2001.</td><td colspan="2">9011</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9019</td><td>28.80</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>16.—</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9020</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9031</td><td>45.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9091</td><td>17.70</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>14.—</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9092</td><td>exempt</td><td colspan="2"></td><td>CAS, CN, CO, EC, GE, PE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CL, EG, GCC, HK, LB, ME, MK, PS, RS, SACU, SG, TR, UA</td><td>cœurs de palmier; ignames, patates douces et parties comestibles similaires de plantes dont la teneur en fécule est de 5 % en poids ou plus</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>cœurs de palmiers</td></tr>
-<tr><td></td><td colspan="2">9098</td><td>exempt</td><td colspan="2"></td><td>IL, JO, PS</td><td>olives</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MA, TR</td><td>olives et câpres</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MK, SACU</td><td>olives et câpres; champignons</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>gingembre et échalotes</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">25.—</td><td>TR</td><td>piments du genre Capsicum ou du genre Pimenta; champignons</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">25.—</td><td>MA, MX</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">25.—</td><td>IL, PS</td><td>piments du genre Capsicum</td></tr>
-<tr><td></td><td colspan="2"></td><td>17.50</td><td colspan="2"></td><td>KR, RS</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CO, PE</td><td>piments du genre Capsicum ou du genre Pimenta, olives, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td>17.50</td><td colspan="2"></td><td>BA</td><td>piments du genre Capsicum ou du genre Pimenta, champignons et olives</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, GE, PH</td><td></td></tr>
-<tr><td>2002.</td><td colspan="2">1010</td><td></td><td colspan="2">6.50</td><td>IL, MA, MK, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.50</td><td colspan="2"></td><td>AL, BA, CO, EC, JO, JP, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">1020</td><td></td><td colspan="2">11.50</td><td>IL, MA, MK, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>4.50</td><td colspan="2"></td><td>AL, BA, CO, EC, JO, JP, ME, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td></td><td colspan="2">6.50</td><td>IL, MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>2.50</td><td colspan="2"></td><td>JO</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9021</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9029</td><td></td><td colspan="2">11.50</td><td>IL, MA, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>4.50</td><td colspan="2"></td><td>JO</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>2003.</td><td colspan="2">1000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, MA, ME, MK, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, MA, ME, MK, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td>2004.</td><td colspan="2">1012</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1014</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1092</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1094</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9011</td><td></td><td colspan="2">8.40</td><td>MA, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.60</td><td colspan="2"></td><td>AL, JP, KR, ME, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>21.—</td><td colspan="2"></td><td>CO, PE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9012</td><td>exempt</td><td colspan="2"></td><td>AL, CAS, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, MA, ME, PE, PH, PS, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9013</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9018</td><td></td><td colspan="2">10.—</td><td>MA, MK</td><td>pois, haricots et oignons</td></tr>
-<tr><td></td><td colspan="2"></td><td>32.50</td><td colspan="2"></td><td>AL, CO, EC, GE, JP, KR, ME, PE, PH, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>34.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td>piments du genre Capsicum ou du genre Pimenta, carottes, aulx, betteraves rouges, choux, choux-brocolis</td></tr>
-<tr><td></td><td colspan="2">9028</td><td>45.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9039</td><td></td><td colspan="2">10.—</td><td>MA</td><td>pois, haricots et oignons</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>MK</td><td>pois, haricots et oignons; mélanges de tomates et poivrons «Ajvar»</td></tr>
-<tr><td></td><td colspan="2"></td><td>32.50</td><td colspan="2"></td><td>AL, CO, JP, KR, ME, PE, PH, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>25.50</td><td colspan="2"></td><td>CN, EC, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9041</td><td></td><td colspan="2">6.—</td><td>IL, MA, MX, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>11.—</td><td colspan="2"></td><td>AL, CL, CO, GT, JP, ME, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.60</td><td colspan="2"></td><td>KR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.20</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9042</td><td>exempt</td><td colspan="2"></td><td>AL, CAS, CN, CO, EC, GCC, GE, IL, JO, JP, KR, MA, ME, PE, PH, PS, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">9043</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9049</td><td></td><td colspan="2">14.—</td><td>MA, MK</td><td>pois, haricots et oignons</td></tr>
-<tr><td></td><td colspan="2"></td><td>45.50</td><td colspan="2"></td><td>AL, CO, JP, KR, ME, PE, PH, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>35.70</td><td colspan="2"></td><td>CN, EC, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9069</td><td></td><td colspan="2">14.—</td><td>MA</td><td>pois, haricots et oignons</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.—</td><td>MK</td><td>pois, haricots et oignons; mélanges de tomates et poivrons «Ajvar»</td></tr>
-<tr><td></td><td colspan="2"></td><td>45.50</td><td colspan="2"></td><td>AL, CO, JP, KR, ME, PE, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>35.70</td><td colspan="2"></td><td>CN, EC, GE, PH</td><td></td></tr>
-<tr><td>2005.</td><td colspan="2">1000</td><td>exempt</td><td colspan="2"></td><td>CO, EC, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>44.10</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2011/2012</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2021</td><td>45.—</td><td colspan="2"></td><td>CN, EC, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">2092</td><td>45.—</td><td colspan="2"></td><td>CN, EC, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">4090</td><td></td><td colspan="2">14.—</td><td>MA, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>45.50</td><td colspan="2"></td><td>AL, BA, CO, EC, GE, GT, ME, PE, PH, RS</td><td></td></tr>
-<tr><td></td><td colspan="2">5110</td><td>38.25</td><td colspan="2"></td><td>CN, EC, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">5190</td><td></td><td colspan="2">14.—</td><td>MA, MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>45.50</td><td colspan="2"></td><td>AL, BA, CO, KR, ME, PE, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>35.70</td><td colspan="2"></td><td>CN, EC, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">6010</td><td>15.50</td><td colspan="2"></td><td>PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">6090</td><td></td><td colspan="2">6.—</td><td>IL, MA, MX, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>8.—</td><td colspan="2"></td><td>AL, BA, CL, CO, GT, ME, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>9.80</td><td colspan="2"></td><td>KR, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>7.—</td><td colspan="2"></td><td>PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">7010/7090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, IL, JO, JP, KR, LB, MA, ME, PE, PS, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">8000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9110</td><td>17.50</td><td colspan="2"></td><td>CO, EC, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9190</td><td>24.50</td><td colspan="2"></td><td>CO, EC, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9911</td><td></td><td colspan="2">25.—</td><td>IL, MK, PS, TR</td><td>piments du genre Capsicum, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">25.—</td><td>MA</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">25.—</td><td>MX</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
-<tr><td></td><td colspan="2"></td><td>17.50</td><td colspan="2"></td><td>KR</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
-<tr><td></td><td colspan="2"></td><td>17.50</td><td colspan="2"></td><td>LB</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
-<tr><td></td><td colspan="2"></td><td>17.50</td><td colspan="2"></td><td>BA, CO</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td>10.—</td><td colspan="2"></td><td>PE</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td>piments du genre Capsicum ou du genre Pimenta, carottes, aulx, choux, choux-brocolis</td></tr>
-<tr><td></td><td colspan="2"></td><td>21.25</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>17.50</td><td colspan="2"></td><td>GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.—</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9921</td><td>45.—</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>40.—</td><td colspan="2"></td><td>PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9939</td><td></td><td colspan="2">25.—</td><td>IL, TR</td><td>piments du genre Capsicum, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">25.—</td><td>MA</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">25.—</td><td>MK</td><td>mélanges de tomates et poivrons «Ajvar»; piments du genre Capsicum, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td>17.50</td><td colspan="2"></td><td>KR</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
-<tr><td></td><td colspan="2"></td><td>17.50</td><td colspan="2"></td><td>LB</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
-<tr><td></td><td colspan="2"></td><td>17.50</td><td colspan="2"></td><td>BA, CO</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td>10.—</td><td colspan="2"></td><td>PE</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA</td><td>mélanges de tomates et poivrons «Ajvar»</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td>piments du genre Capsicum ou du genre Pimenta, tomates, concombres, carottes, aulx, betteraves rouges, choux, sans autres légumes</td></tr>
-<tr><td></td><td colspan="2"></td><td>21.25</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>17.50</td><td colspan="2"></td><td>EC, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9941</td><td></td><td colspan="2">35.—</td><td>IL, MK, PS, TR</td><td>piments du genre Capsicum, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">35.—</td><td>MA</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">35.—</td><td>MX</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
-<tr><td></td><td colspan="2"></td><td>24.50</td><td colspan="2"></td><td>KR</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
-<tr><td></td><td colspan="2"></td><td>24.50</td><td colspan="2"></td><td>LB</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
-<tr><td></td><td colspan="2"></td><td>24.50</td><td colspan="2"></td><td>BA, CO</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td>24.50</td><td colspan="2"></td><td>GT</td><td>piments du genre Capsicum ou du genre Pimenta, cœurs de palmiers, aulx et pacaya</td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>PE</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td>piments du genre Capsicum ou du genre Pimenta, concombres, carottes, aulx, choux</td></tr>
-<tr><td></td><td colspan="2"></td><td>29.75</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>24.50</td><td colspan="2"></td><td>GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9951</td><td>63.—</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9969</td><td></td><td colspan="2">35.—</td><td>IL, TR</td><td>piments du genre Capsicum, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">35.—</td><td>MK</td><td>mélanges de tomates et poivrons «Ajvar»; piments du genre Capsicum, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">35.—</td><td>MA</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">35.—</td><td>MX</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
-<tr><td></td><td colspan="2"></td><td>24.50</td><td colspan="2"></td><td>KR</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
-<tr><td></td><td colspan="2"></td><td>24.50</td><td colspan="2"></td><td>LB</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
-<tr><td></td><td colspan="2"></td><td>24.50</td><td colspan="2"></td><td>BA, CO</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td>24.50</td><td colspan="2"></td><td>GT</td><td>piments du genre Capsicum ou du genre Pimenta, cœurs de palmiers, aulx, mini-épis de maïs et pacaya</td></tr>
-<tr><td></td><td colspan="2"></td><td>15.—</td><td colspan="2"></td><td>PE</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>KR</td><td>choux ou radis fermentés et assaisonnés («Kimchi»), conditionnés pour la vente au détail</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA</td><td>mélanges de tomates et poivrons «Ajvar»</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td>piments du genre Capsicum ou du genre Pimenta, tomates, carottes, aulx, betteraves rouges, choux, sans autres légumes</td></tr>
-<tr><td></td><td colspan="2"></td><td>29.75</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>24.50</td><td colspan="2"></td><td>EC, GE, PH</td><td></td></tr>
-<tr><td>2006.</td><td colspan="2">0010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, CO, CR, EC, GCC, GE, GT, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0020</td><td></td><td colspan="2">22.50</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0080</td><td></td><td colspan="2">9.—</td><td>IL, TR</td><td>ananas</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">22.50</td><td>IL</td><td>agrumes</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">22.50</td><td>MA, MK</td><td>autres que les pommes et les poires</td></tr>
-<tr><td></td><td colspan="2"></td><td>9.50</td><td colspan="2"></td><td>JO, KR</td><td>agrumes</td></tr>
-<tr><td></td><td colspan="2"></td><td>9.50</td><td colspan="2"></td><td>CO, SACU</td><td>autres que les pommes et les poires</td></tr>
-<tr><td></td><td colspan="2"></td><td>9.50</td><td colspan="2"></td><td>AL, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CO, SACU</td><td>ananas</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PE</td><td>autres que les pommes et les poires</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, GE, PH</td><td></td></tr>
-<tr><td>2007.</td><td colspan="2">1000</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>d’ananas ou de fruits tropicaux</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CL, EG, LB</td><td>de fruits tropicaux</td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CO, EC, GCC, GE, HK, JP, KR, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>CL, EG, LB</td><td>autres que de fruits tropicaux</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9110</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9120</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9911</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9919</td><td>exempt</td><td colspan="2"></td><td>TR</td><td>pâtes de châtaigne et de noisette, fruits de la passion, litchis et jackfruits</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9921</td><td>exempt</td><td colspan="2"></td><td>CL, EG, IL, JO, LB, MK, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CO, EC, GCC, GE, HK, JP, KR, ME, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9929</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>TR</td><td>ananas</td></tr>
-<tr><td>2008.</td><td colspan="2">1110</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">59.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1190</td><td>exempt</td><td colspan="2"></td><td>CAS, CL, CN, EC, EG, GCC, GE, IL, JP, KR, LB, MA, MK, MX, PH, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CO, HK, ME, PE, PS, RS</td><td>arachides grillées</td></tr>
-<tr><td></td><td colspan="2">1910</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1990</td><td></td><td colspan="2">7.50</td><td>IL, MA, MK, TR</td><td>noisettes, pistaches</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">7.50</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.50</td><td colspan="2"></td><td>AL, BA, CL, CO, EC, EG, GT, JP, KR, LB, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">2000</td><td></td><td colspan="2">10.—</td><td>IL, MA, MX, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>8.—</td><td colspan="2"></td><td>UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, MK, PE, PH, RS, SACU, SG</td><td></td></tr>
-<tr><td></td><td colspan="2">3010</td><td></td><td colspan="2">12.50</td><td>IL, MA, MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>5.50</td><td colspan="2"></td><td>AL, BA, CL, CO, EG, GT, KR, LB, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, EC, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">3090</td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, GE, PE, PH, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">4090</td><td>22.80</td><td colspan="2"></td><td>CN, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">5010</td><td>10.—</td><td colspan="2"></td><td>CO, EC, GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>18.90</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">5090</td><td>15.—</td><td colspan="2"></td><td>CO, EC, GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">7010/7090</td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, GE, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">8000</td><td></td><td colspan="2">6.—</td><td>MA, MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>19.50</td><td colspan="2"></td><td>AL, CO, KR, PE, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.30</td><td colspan="2"></td><td>CN, EC, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9310</td><td></td><td colspan="2">5.—</td><td>MA, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>13.—</td><td colspan="2"></td><td>AL, BA, CO, GT, KR, ME, PE, PH, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.80</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9390</td><td></td><td colspan="2">6.—</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>AL, BA, CO, GT, KR, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.30</td><td colspan="2"></td><td>CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9711</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>MA</td><td>ne contenant pas de cœurs de palmiers</td></tr>
-<tr><td></td><td colspan="2">9799</td><td></td><td colspan="2">20.—</td><td>IL, MK, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">20.—</td><td>MA</td><td>ne contenant pas de cœurs de palmiers</td></tr>
-<tr><td></td><td colspan="2"></td><td>8.—</td><td colspan="2"></td><td>AL, BA, CO, EC, GT, KR, ME, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>16.80</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">9911</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9919</td><td></td><td colspan="2">5.—</td><td>MA, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">6.—</td><td>IL, TR</td><td>de bananes</td></tr>
-<tr><td></td><td colspan="2"></td><td>13.—</td><td colspan="2"></td><td>AL, BA, CO, GT, KR, ME, PE, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CR, SACU</td><td>de bananes</td></tr>
-<tr><td></td><td colspan="2"></td><td>10.80</td><td colspan="2"></td><td>CN, EC, GE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td>pas à base de fruits à pépins, de cerises ou de pruneaux</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9996</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9997</td><td></td><td colspan="2">6.—</td><td>MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>AL, BA, CO, CR, GT, KR, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>15.30</td><td colspan="2"></td><td>CN, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.80</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9998</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9999</td><td>exempt</td><td colspan="2"></td><td>HK</td><td>gingembre</td></tr>
-<tr><td></td><td colspan="2"></td><td>69.30</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>61.60</td><td colspan="2"></td><td>PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>50.—</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td>2009.</td><td colspan="2">1110</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, GCC, IL, JO, JP, KR, MA, ME, PS, RS, SG, TR, UA</td><td>concentrés</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CL, CN, CO, EC, EG, GE, LB, MX, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1120</td><td></td><td colspan="2">14.—</td><td>IL, MA, PS</td><td>concentrés</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>35.—</td><td colspan="2"></td><td>JO, KR, UA</td><td>concentrés</td></tr>
-<tr><td></td><td colspan="2"></td><td>35.—</td><td colspan="2"></td><td>AL, CAS, CO, EC, EG, GE, LB, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1210</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, JP, LB, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1220</td><td></td><td colspan="2">14.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>35.—</td><td colspan="2"></td><td>AL, CAS, CO, EG, GE, LB, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CN, EC, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">1930</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1940</td><td></td><td colspan="2">14.—</td><td>IL, MA, PS</td><td>concentrés</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>35.—</td><td colspan="2"></td><td>JO, KR</td><td>concentrés</td></tr>
-<tr><td></td><td colspan="2"></td><td>35.—</td><td colspan="2"></td><td>AL, CAS, CO, EC, EG, GE, LB, ME, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CN, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">2110</td><td>exempt</td><td colspan="2"></td><td>BA, CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2120</td><td></td><td colspan="2">14.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>35.—</td><td colspan="2"></td><td>AL, CO, EC, EG, GE, GT, JO, KR, LB, ME, PA, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2910</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2920</td><td></td><td colspan="2">14.—</td><td>IL, MA</td><td>concentrés</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>35.—</td><td colspan="2"></td><td>AL, CO, EC, EG, GE, GT, JO, KR, LB, ME, PA, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CN, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">3111</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3119</td><td></td><td colspan="2">14.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>6.—</td><td colspan="2"></td><td>AL, CO, ME, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PE</td><td>jus de citron et jus de lime</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CN, EC, GE</td><td></td></tr>
-<tr><td></td><td colspan="2">3120</td><td>exempt</td><td colspan="2"></td><td>BA, CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">3911</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3919</td><td></td><td colspan="2">14.—</td><td>IL, MA, MX, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>6.—</td><td colspan="2"></td><td>AL, CA, CAS, CO, EG, JO, KR, LB, ME, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PE</td><td>jus de citron et jus de lime</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CN, EC, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">3920</td><td>exempt</td><td colspan="2"></td><td>BA, CN, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">4110</td><td></td><td colspan="2">11.—</td><td>IL, MA, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.—</td><td colspan="2"></td><td>GT, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CL, CN, CO, CR, EC, EG, GCC, GE, JP, KR, LB, ME, MX, PA, PE, PH, RS, SACU, SG</td><td></td></tr>
-<tr><td></td><td colspan="2">4120</td><td></td><td colspan="2">28.—</td><td>IL, MA, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>7.—</td><td colspan="2"></td><td>UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">4910</td><td></td><td colspan="2">11.—</td><td>IL, MA, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.—</td><td colspan="2"></td><td>UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, MX, PA, PE, PH, RS, SACU, SG</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>5.—</td><td colspan="2"></td><td>CR, GT</td><td></td></tr>
-<tr><td></td><td colspan="2">4920</td><td></td><td colspan="2">28.—</td><td>IL, MA, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>7.—</td><td colspan="2"></td><td>UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CL, CN, CO, EC, EG, GCC, GE, GT, JP, KR, LB, ME, MX, PA, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.—</td><td colspan="2"></td><td>CR</td><td></td></tr>
-<tr><td></td><td colspan="2">5000</td><td></td><td colspan="2">10.—</td><td>IL, MA, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>4.—</td><td colspan="2"></td><td>JO</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, EG, GE, GT, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">6111</td><td>27.—</td><td colspan="2"></td><td>BA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6122</td><td>40.—</td><td colspan="2"></td><td>BA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>30.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">6910</td><td>50.—</td><td colspan="2"></td><td>AL, CAS, CL, CN, CO, EG, GE, IL, KR, LB, MA, ME, MK, PE, PS, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, EC</td><td></td></tr>
-<tr><td></td><td colspan="2">7111</td><td>18.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">7121</td><td>30.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">7910</td><td>50.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">8110</td><td></td><td colspan="2">5.60</td><td>MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>14.40</td><td colspan="2"></td><td>EG, LB</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>14.—</td><td colspan="2"></td><td>CO, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, EC, GE, ME, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">8120</td><td></td><td colspan="2">14.—</td><td>MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>45.50</td><td colspan="2"></td><td>AL, BA, CO, EC, EG, LB, ME, PE, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>47.60</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>GE</td><td></td></tr>
-<tr><td></td><td colspan="2">8910</td><td></td><td colspan="2">4.—</td><td>MA, MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.—</td><td colspan="2"></td><td>AL, CO, CR, EG, JP, KR, LB, ME, PA, PE, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, EC, GE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>8.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">8921</td><td>18.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">8931</td><td>30.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">8941</td><td>50.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">8981</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">8989</td><td>exempt</td><td colspan="2"></td><td>IL, MA, SACU, TR</td><td>de dattes</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.60</td><td>MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>14.40</td><td colspan="2"></td><td>EG, LB</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>14.—</td><td colspan="2"></td><td>CO, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, EC, GE, ME, PH, RS, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">8991</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">8999</td><td>exempt</td><td colspan="2"></td><td>IL, MA, SACU, TR</td><td>de dattes</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.—</td><td>MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>45.50</td><td colspan="2"></td><td>AL, BA, CO, EG, GE, LB, ME, PA, PE, PH, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>RS</td><td>de framboises ou de cerises acides (griottes)</td></tr>
-<tr><td></td><td colspan="2"></td><td>47.60</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9011</td><td></td><td colspan="2">4.—</td><td>MA, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>16.—</td><td colspan="2"></td><td>AL, BA, CN, CR, EC, EG, KR, LB, ME, PA, PH, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>6.—</td><td colspan="2"></td><td>CO, GE, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">9029</td><td></td><td colspan="2">4.—</td><td>MA, MK, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>13.—</td><td colspan="2"></td><td>AL, CO, CR, EG, JP, KR, LB, ME, PA, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CN, EC, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9030</td><td>469.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9031</td><td>50.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9041</td><td>14.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9051</td><td>25.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9061</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9069</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>à base d’ananas</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, EC, EG, GE, KR, LB, ME, MX, PH, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>de dattes</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PE</td><td>ne contenant pas de jus de raisin ni de jus de fraises</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">5.60</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>5.60</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9071</td><td>35.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9081</td><td>63.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9098</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9099</td><td>exempt</td><td colspan="2"></td><td>IL, TR</td><td>à base d’ananas</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CO, EC, EG, GE, KR, LB, ME, MX, PH, RS</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>de dattes</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>PE</td><td>ne contenant pas de jus de raisin ni de jus de fraises</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">14.—</td><td>MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>14.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>2101.</td><td colspan="2">1100</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>150.—</td><td colspan="2"></td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2">1211</td><td>150.—</td><td colspan="2"></td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td>CL maximum 127.50</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1219</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>150.—</td><td colspan="2"></td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2">1291</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1299</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">2011</td><td>exempt</td><td colspan="2"></td><td>CL, IL, MX, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2091</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>IL, JO, MA, TN</td><td>autres que chicorée torréfiée et ses extraits, essences et concentrés</td></tr>
-<tr><td>2102.</td><td colspan="2">1091</td><td></td><td colspan="2">10.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">1099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2011</td><td></td><td colspan="2">6.—</td><td>IL, TR</td><td>levures naturelles, mortes</td></tr>
-<tr><td></td><td colspan="2">2019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>IL, JO, MA, TN</td><td>levures naturelles, mortes</td></tr>
-<tr><td></td><td colspan="2">2029</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>2103.</td><td colspan="2">1000/2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3011</td><td></td><td colspan="2">5.—</td><td>IL, JP, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3018/3019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>autres que le chutney de mangue liquide</td></tr>
-<tr><td>2104.</td><td colspan="2">1000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>LB, MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">2.—</td><td>CN</td><td></td></tr>
-<tr><td>2105.</td><td colspan="2">0010/0053</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">10.—</td><td>CN</td><td></td></tr>
-<tr><td>2106.</td><td colspan="2">1011</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">72.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9021/9023</td><td>em</td><td colspan="2"></td><td>CAS, CL, EC, GE, IL, JO, JP, MA, PH, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CO, EG, GCC, HK, KR, LB, ME, MK, PE, PS, RS, SACU, SG, TR, UA</td><td>autres que les sirops de sucre additionnés de colorants ou aromatisés</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">120.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9024</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9029</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9030</td><td>20.—</td><td colspan="2"></td><td>IL, JO, MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9040</td><td>em</td><td colspan="2"></td><td>IL, JO, JP, MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9050</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9060/9073</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9074</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9075</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9076</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9094</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9095</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9096</td><td>em</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">44.—</td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>2201.</td><td colspan="2">1000/9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>2202.</td><td colspan="2">1000</td><td>2.—</td><td colspan="2"></td><td>IL, JO, MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9100</td><td>2.—</td><td colspan="2"></td><td>IL, JO, MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9911</td><td>exempt</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9921</td><td>45.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9931</td><td>22.95</td><td colspan="2"></td><td>CN, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>4.—</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9932</td><td>53.55</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>29.75</td><td colspan="2"></td><td>PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>7.—</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9941</td><td>21.60</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9951</td><td>25.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9969</td><td>21.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>11.90</td><td colspan="2"></td><td>PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9971</td><td>18.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9989</td><td>15.30</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9990</td><td>2.—</td><td colspan="2"></td><td>IL, JO, MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>2203.</td><td colspan="2">0010</td><td>6.—</td><td colspan="2"></td><td>IL, MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0020</td><td>3.50</td><td colspan="2"></td><td>IL, MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0031</td><td>6.—</td><td colspan="2"></td><td>IL, MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">0039</td><td>8.—</td><td colspan="2"></td><td>IL, MA, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>2204.</td><td colspan="2">1000</td><td></td><td colspan="2">26.—</td><td>IL, MA, MK, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>65.—</td><td colspan="2"></td><td>AL, BA, CA, CO, GE, JP, KR, ME, PE, RS, SACU, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>72.80</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2150</td><td></td><td colspan="2">17.50</td><td>IL, MA, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>7.50</td><td colspan="2"></td><td>BA, CA, CO, JP, KR, PE, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE, ME, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2241/2242</td><td>exempt</td><td colspan="2"></td><td>GE, ME, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2250</td><td></td><td colspan="2">15.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">17.50</td><td>MA, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.—</td><td colspan="2"></td><td>UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>7.50</td><td colspan="2"></td><td>AL, BA, CO, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>8.—</td><td colspan="2"></td><td>CA, JP, KR, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE, ME, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2943/2944</td><td>exempt</td><td colspan="2"></td><td>GE, ME, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">2960</td><td></td><td colspan="2">15.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">17.50</td><td>MA, MK</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.—</td><td colspan="2"></td><td>UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>7.50</td><td colspan="2"></td><td>AL, BA, CO, PE</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>8.—</td><td colspan="2"></td><td>CA, JP, KR, TN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE, ME, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>20.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3000</td><td>exempt</td><td colspan="2"></td><td>CN, CO, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td>2205.</td><td colspan="2">1010/9020</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>2206.</td><td colspan="2">0020</td><td>28.—</td><td colspan="2"></td><td>GE, JP</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>44.80</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">0090</td><td>exempt</td><td colspan="2"></td><td>KR</td><td>boissons fermentées à base de riz: «Cheong ju», «Yak ju», «Tak ju», «Makkoli»</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>vin de riz (saké)</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CN, PH</td><td></td></tr>
-<tr><td>2207.</td><td colspan="2">1000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, EC, GE, IL, JP, MA, MX, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>2208.</td><td colspan="2">2011/3020</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4010/4020</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">5011/6020</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">7000</td><td>exempt</td><td colspan="2"></td><td>IL, MA, TN</td><td>sucrées ou contenant des œufs</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9010/9022</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CL, CN, CO, CR, EC, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PA, PE, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9091</td><td>451.80</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CL, CN, CO, CR, EC, GCC, GE, HK, JP, KR, LB, ME, MK, PA, PE, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>45.—</td><td colspan="2"></td><td>IL, MA, TN</td><td>boissons distillées, édulcorées, même aromatisées: sucrées ou contenant des œufs</td></tr>
-<tr><td>2209.</td><td colspan="2">0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td>2301.</td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>CA, CR, FO, GT, IL, JO, LB, MA, MK, PS, TN, TR, UA</td><td>de baleines</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, KR, ME, MX, PA, PE, RS, SACU, SG</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td>entièrement fabriqués à partir de poissons</td></tr>
-<tr><td></td><td colspan="2">2090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, UA</td><td></td></tr>
-<tr><td>2302.</td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">3010</td><td>81.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">3090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">4010</td><td>81.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">4080</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">4099</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">5090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
-<tr><td>2303.</td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, SG</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">3090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, SG</td><td></td></tr>
-<tr><td>2304.</td><td colspan="2">0090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td>2305.</td><td colspan="2">0090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
-<tr><td>2306.</td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">4190</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">4990</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">5090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">6090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">9019</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td></td><td colspan="2">9029</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
-<tr><td>2307.</td><td colspan="2">0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU</td><td></td></tr>
-<tr><td>2308.</td><td colspan="2">0090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
-<tr><td>2309.</td><td colspan="2">1010</td><td>exempt</td><td colspan="2"></td><td>CA, EC, GE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>4.70</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1021</td><td></td><td colspan="2">7.50</td><td>EC, IL, PH, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>6.40</td><td colspan="2"></td><td>GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>10.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1029</td><td>exempt</td><td colspan="2"></td><td>CA</td><td>contingent tarifaire annuel de 1000 t</td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">7.50</td><td>EC, IL, PH, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>8.80</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1091</td><td>10.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1099</td><td>5.50</td><td colspan="2"></td><td>EC, GE, PH, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>8.40</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9020</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, FO, GCC, GE, HK, IL, JP, KR, ME, MX, PE, RS, SACU, SG</td><td></td></tr>
-<tr><td></td><td colspan="2">9030</td><td>exempt</td><td colspan="2"></td><td>CN, JP, KR, MX, SG</td><td></td></tr>
-<tr><td></td><td colspan="2">9049</td><td>exempt</td><td colspan="2"></td><td>AL, CA, CAS, CL, EG, GCC, HK, JO, KR, LB, MA, ME, MK, MX, PH, PS, RS, SACU, SG, TN, UA</td><td>solubles de poissons</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>BA, CN, CO, EC, GE, JP, PE</td><td></td></tr>
-<tr><td></td><td colspan="2">9082</td><td>exempt</td><td colspan="2"></td><td>CO, EC</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td></td><td colspan="2">12.—</td><td>PE</td><td></td></tr>
-<tr><td></td><td colspan="2">9089</td><td>exempt</td><td colspan="2"></td><td>EC</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU, SG</td><td></td></tr>
-<tr><td>2401.</td><td colspan="2">1010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>CN, EC, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td>exempt</td><td colspan="2"></td><td>CN, EC, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">3010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">3090</td><td>exempt</td><td colspan="2"></td><td>CN, EC, PH</td><td></td></tr>
-<tr><td>2402.</td><td colspan="2">1000</td><td></td><td colspan="2">290.—</td><td>MX</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1155.—</td><td colspan="2"></td><td>CO, CR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1156.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>EC, GE, PE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">2010</td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>beedies</td></tr>
-<tr><td></td><td colspan="2"></td><td>560.—</td><td colspan="2"></td><td>JP</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CO, CR, EC, GE, GT, PE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>896.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">2020</td><td>exempt</td><td colspan="2"></td><td>SACU</td><td>beedies</td></tr>
-<tr><td></td><td colspan="2"></td><td>372.—</td><td colspan="2"></td><td>JP</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>CO, CR, EC, GE, GT, PE, PH</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>595.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9000</td><td>979.20</td><td colspan="2"></td><td>CN, PH</td><td></td></tr>
-<tr><td>2403.</td><td colspan="2">1100</td><td>497.70</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1900</td><td>497.70</td><td colspan="2"></td><td>CN, PH</td><td></td></tr>
-<tr><td></td><td colspan="2">9100</td><td>exempt</td><td colspan="2"></td><td>CO, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>51.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9910</td><td>exempt</td><td colspan="2"></td><td>CO, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>884.—</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9920</td><td>exempt</td><td colspan="2"></td><td>CN, CO, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">9930</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CN, CO, EC, GCC, GE, HK, JP, KR, ME, PE, RS, SACU, SG</td><td></td></tr>
-<tr><td></td><td colspan="2">9940</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9990</td><td>497.70</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>2501.</td><td colspan="2">0010/ 2904.9900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>2905.</td><td colspan="2">1110/4200</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4300/4500</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">4910/5990</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>2906.</td><td colspan="2">1110/ 3215.9090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3301.</td><td colspan="2">1200/ 3302.1000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3302</td><td colspan="2">9000/ 3407.0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3501.</td><td colspan="2">1010</td><td>exempt</td><td colspan="2"></td><td>GE, JP, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">1090</td><td>em</td><td colspan="2"></td><td>JP</td><td></td></tr>
-<tr><td></td><td colspan="2">9011</td><td>4.—</td><td colspan="2"></td><td>FO, IL, JO, MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE, JP, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.20</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9019</td><td>em</td><td colspan="2"></td><td>JP</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>3.60</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9091</td><td>15.—</td><td colspan="2"></td><td>FO, IL, JO, MA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>JP</td><td></td></tr>
-<tr><td></td><td colspan="2">9099</td><td>em</td><td colspan="2"></td><td>JP</td><td></td></tr>
-<tr><td>3502.</td><td colspan="2">1110</td><td></td><td colspan="2">80.—</td><td>FO, IL, JO, MA</td><td>impropre ou rendue impropre à la consommation humaine</td></tr>
-<tr><td></td><td colspan="2"></td><td>175.—</td><td colspan="2"></td><td>GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1190</td><td></td><td colspan="2">80.—</td><td>FO, IL, JO, MA</td><td>impropre ou rendue impropre à la consommation humaine</td></tr>
-<tr><td></td><td colspan="2">1910</td><td>exempt</td><td colspan="2"></td><td>FO, IL, JO, MA</td><td>impropre ou rendue impropre à la consommation humaine</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>GE, SACU</td><td></td></tr>
-<tr><td></td><td colspan="2">1990</td><td></td><td colspan="2">80.—</td><td>FO, IL, JO, MA</td><td>impropre ou rendue impropre à la consommation humaine</td></tr>
-<tr><td></td><td colspan="2">2000</td><td>exempt</td><td colspan="2"></td><td>FO, IL, JO, MA, TR</td><td>impropre ou rendue impropre à la consommation humaine</td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1.60</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td></td><td colspan="2">9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>1.60</td><td colspan="2"></td><td>CN</td><td></td></tr>
-<tr><td>3503.</td><td colspan="2">0000/ 3504.0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3505.</td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>CN, CO, EC, FO, GE, IL, JO, JP, LB, MA, MK, PE, SACU, TN</td><td></td></tr>
-<tr><td></td><td colspan="2">2090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3506.</td><td colspan="2">1000/9180</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9910</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9990</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3507.</td><td colspan="2">1010/ 3808.9900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3809.</td><td colspan="2">1010</td><td></td><td colspan="2">4.50</td><td>FO, IL, MA</td><td></td></tr>
-<tr><td></td><td colspan="2">1090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9100/9300</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3810.</td><td colspan="2">1000/ 3822.0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3823.</td><td colspan="2">1110</td><td></td><td colspan="2">1.—</td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2">1190</td><td></td><td colspan="2">1.—</td><td>IL, TR</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, JO, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TN, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1210</td><td></td><td colspan="2">0.50</td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2">1290</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1300</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1910</td><td></td><td colspan="2">0.50</td><td>IL</td><td></td></tr>
-<tr><td></td><td colspan="2">1990/7000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3824.</td><td colspan="2">1010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">1090/5000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">6000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">7100/9920</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9991</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9999</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3825.</td><td colspan="2">1000/6900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9010</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
-<tr><td></td><td colspan="2">9090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3826.</td><td colspan="2">0010/0090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>3901.</td><td colspan="2">1000/ 4017.0090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>4101.</td><td colspan="2">2000/ 4103.9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>4104.</td><td colspan="2">1100/ 4206.0090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>4301.</td><td colspan="2">1000/9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>4302.</td><td colspan="2">1100/ 4421.9900</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>4501.</td><td colspan="2">1000/9090</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, UA</td><td></td></tr>
-<tr><td>4502.</td><td colspan="2">0000/ 4911.9990</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>5001.</td><td colspan="2">0000/ 5003.0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>5004.</td><td colspan="2">0010/ 5007.9030</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>5101.</td><td colspan="2">1100/ 5103.3000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>5104.</td><td colspan="2">0000/ 5113.0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>5201.</td><td colspan="2">0010/ 5203.0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>5204.</td><td colspan="2">1100/ 5212.2500</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
-<tr><td>5301.</td><td colspan="2">1000/ 5302.9000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, UA</td><td></td></tr>
-<tr><td>5303.</td><td colspan="2">1000/ 9706.0000</td><td>exempt</td><td colspan="2"></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><th colspan="2">N<sup>o</sup> du tarif</th><th colspan="2">Taux préférentiel</th><th>Pays bénéficiaires (code ISO 2 ou sigle)</th><th>Contingents tarifaires; dispositions particulières</th></tr>
+<tr><th></th><th></th><th>applicable</th><th>Taux normal moins</th><th></th><th></th></tr>
+<tr><td>0101.</td><td>2110</td><td>exempt</td><td></td><td>CL, CN, CO, CR, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>2911</td><td>80.—</td><td></td><td>CL, CN, CO, CR, GE, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td>2991</td><td>exempt</td><td></td><td>CL, CN, CO, CR, GCC, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td>3011</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3091/3095</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9010/9093</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td>0102.</td><td>2110</td><td>54.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2911</td><td>85.—</td><td></td><td>CL, CN, CO, CR, GE, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>2991</td><td>exempt</td><td></td><td>CN, CO, CR, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>3110</td><td>54.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3911</td><td>85.—</td><td></td><td>CL, CN, CO, CR, GE, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>3991</td><td>exempt</td><td></td><td>CN, CO, CR, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>9012</td><td>85.—</td><td></td><td>CL, CN, CO, CR, GE, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>9092</td><td>exempt</td><td></td><td>CN, CO, CR, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td>0103.</td><td>1010</td><td>6.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9110</td><td></td><td>33.—</td><td>CL, CR, GE, PE</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CO, KR, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>6.60</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9120</td><td>30.—</td><td></td><td>CL, CO, CR, GE, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>31.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9210</td><td></td><td>10.—</td><td>CL, CO, CR, GE, PE</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>KR, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9220</td><td>30.—</td><td></td><td>CL, CO, CR, GE, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>32.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td>0104.</td><td>1010</td><td></td><td>5.—</td><td>CL, CO, CR, GCC, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>1.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>1020</td><td>20.—</td><td></td><td>CL, CN, CO, CR, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>2010</td><td></td><td>3.—</td><td>CO, CR, GCC, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.60</td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>2020</td><td>40.—</td><td></td><td>CR, JP, KR, LB, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>38.70</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td>0105.</td><td>1100</td><td>exempt</td><td></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, PE, RS, SACU, SG</td><td></td></tr>
+<tr><td></td><td>1200/1500</td><td>exempt</td><td></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, PE, RS, SACU, SG</td><td></td></tr>
+<tr><td></td><td>9400</td><td>7.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9900</td><td>exempt</td><td></td><td>CN, CO, CR, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td>0106.</td><td>1100</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>1200</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GE, HK, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>1300</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>1400</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU, SG</td><td></td></tr>
+<tr><td></td><td>1900</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>2000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>3100</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>3200</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>3300</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3910</td><td>exempt</td><td></td><td>CN, PH</td><td></td></tr>
+<tr><td></td><td>3990</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>4100</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>4900</td><td>exempt</td><td></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>9000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td>0201.</td><td>1011</td><td>85.—</td><td></td><td>CL, CO, GE, JP, KR, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>84.60</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1091</td><td></td><td>9.—</td><td>CL, CN, CO, GE, JP, KR, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2011</td><td></td><td>9.—</td><td>CL, CO, JP, KR, PE, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>38.—</td><td>GE, SACU</td><td></td></tr>
+<tr><td></td><td>2091</td><td></td><td>9.—</td><td>CL, CO, JP, KR, PE, RS, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>56.—</td><td>GE, SACU</td><td></td></tr>
+<tr><td></td><td>3011</td><td></td><td>9.—</td><td>CL, CO, JP, KR, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>38.—</td><td>GE, SACU</td><td></td></tr>
+<tr><td></td><td>3091</td><td></td><td>9.—</td><td>CL, CO, JP, KR, PE, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>56.—</td><td>GE, PH, SACU</td><td></td></tr>
+<tr><td>0202.</td><td>1011</td><td>85.—</td><td></td><td>CL, CO, GE, GT, JP, KR, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>84.60</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1091</td><td></td><td>9.—</td><td>CL, CN, CO, GE, GT, JP, KR, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2011</td><td></td><td>9.—</td><td>CL, CO, GT, JP, KR, PE, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>38.—</td><td>GE, SACU</td><td></td></tr>
+<tr><td></td><td>2091</td><td></td><td>9.—</td><td>CL, CO, GT, JP, KR, PE, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>56.—</td><td>GE, SACU</td><td></td></tr>
+<tr><td></td><td>3011</td><td></td><td>9.—</td><td>CL, CO, GT, JP, KR, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>38.—</td><td>GE, SACU</td><td></td></tr>
+<tr><td></td><td>3091</td><td></td><td>9.—</td><td>CL, CO, GT, JP, KR, PE, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>56.—</td><td>GE, SACU</td><td></td></tr>
+<tr><td>0203.</td><td>1110</td><td>exempt</td><td></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>1191</td><td>30.—</td><td></td><td>CL, CO, CR, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>34.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1210</td><td>exempt</td><td></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>1291</td><td>40.—</td><td></td><td>CL, CN, CO, CR, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>1910</td><td>exempt</td><td></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>1981</td><td>40.—</td><td></td><td>CL, CN, CO, CR, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>2110</td><td>exempt</td><td></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>2191</td><td>30.—</td><td></td><td>CL, CO, CR, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>34.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2210</td><td>exempt</td><td></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>2291</td><td>40.—</td><td></td><td>CL, CN, CO, CR, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>2910</td><td>exempt</td><td></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>2981</td><td>40.—</td><td></td><td>CL, CN, CO, CR, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td>0204.</td><td>1010</td><td></td><td>10.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>CL, CO, CR, JP, KR, PE, UA</td><td></td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>GE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>18.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2110</td><td></td><td>10.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>CL, CO, CR, JP, KR, PE, UA</td><td></td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>SACU</td><td></td></tr>
+<tr><td></td><td></td><td>18.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>2210</td><td></td><td>10.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>CL, CO, CR, JP, KR, PE</td><td></td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>SACU</td><td></td></tr>
+<tr><td></td><td></td><td>18.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE, PH</td><td></td></tr>
+<tr><td></td><td>2310</td><td></td><td>10.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>CL, CO, CR, JP, KR, PE</td><td></td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>SACU</td><td></td></tr>
+<tr><td></td><td></td><td>18.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE, PH</td><td></td></tr>
+<tr><td></td><td>3010</td><td></td><td>10.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>CL, CO, CR, JP, KR, LB, PE, UA</td><td></td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>SACU</td><td></td></tr>
+<tr><td></td><td></td><td>18.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>4110</td><td></td><td>10.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>CL, CO, CR, JP, KR, PE, UA</td><td></td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>SACU</td><td></td></tr>
+<tr><td></td><td></td><td>18.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>4210</td><td></td><td>10.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>CL, CO, CR, JP, KR, PA, PE, UA</td><td></td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>SACU</td><td></td></tr>
+<tr><td></td><td></td><td>18.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>4310</td><td></td><td>10.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>CL, CO, CR, JP, KR, PA, PE, UA</td><td></td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>SACU</td><td></td></tr>
+<tr><td></td><td></td><td>18.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>5010</td><td></td><td>9.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>40.—</td><td></td><td>CL, CN, CO, CR, JP, KR, PE, UA</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td>0205.</td><td>0010</td><td>11.—</td><td></td><td>CA, CN, CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td>0206.</td><td>1011</td><td></td><td>9.—</td><td>CL, CO, CR, GT, KR, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>20.—</td><td>EC, GE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>6.—</td><td>PA</td><td></td></tr>
+<tr><td></td><td>1021</td><td>144.—</td><td></td><td>CL, CR, GT, KR, PE</td><td></td></tr>
+<tr><td></td><td></td><td>100.—</td><td></td><td>GE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>9.—</td><td>CO</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>150.—</td><td></td><td>PA</td><td></td></tr>
+<tr><td></td><td>1091</td><td></td><td>9.—</td><td>CL, CO, CR, GT, KR, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>30.—</td><td>EC, GE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>6.—</td><td>PA</td><td></td></tr>
+<tr><td></td><td>2110</td><td>70.—</td><td></td><td>CL, CO, CR, GT, KR, PE</td><td></td></tr>
+<tr><td></td><td></td><td>50.—</td><td></td><td>GE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>100.—</td><td></td><td>PA</td><td></td></tr>
+<tr><td></td><td>2210</td><td></td><td>40.—</td><td>CL, CO, CR, GT, KR, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>80.—</td><td>EC, GE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>30.—</td><td>PA</td><td></td></tr>
+<tr><td></td><td>2910</td><td>100.—</td><td></td><td>CL, CO, CR, GE, GT, KR, PE, PH, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>130.—</td><td></td><td>PA</td><td></td></tr>
+<tr><td></td><td>3010</td><td>exempt</td><td></td><td>CL, CN, CO, EC, GE, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>5.—</td><td></td><td>CAS</td><td></td></tr>
+<tr><td></td><td>3091</td><td>40.—</td><td></td><td>CL, CO, EC, GE, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>45.—</td><td></td><td>CAS</td><td></td></tr>
+<tr><td></td><td>4110</td><td>exempt</td><td></td><td>CL, CN, CO, CR, EC, GE, GT, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>30.—</td><td></td><td>PA</td><td></td></tr>
+<tr><td></td><td>4191</td><td>38.—</td><td></td><td>CL, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>50.—</td><td></td><td>PA</td><td></td></tr>
+<tr><td></td><td>4910</td><td>exempt</td><td></td><td>CL, CN, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>30.—</td><td></td><td>PA</td><td></td></tr>
+<tr><td></td><td>4991</td><td>38.—</td><td></td><td>CL, CO, CR, EC, GE, GT, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>50.—</td><td></td><td>PA</td><td></td></tr>
+<tr><td></td><td>8010</td><td></td><td>9.—</td><td>CL, CO, EC, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9010</td><td></td><td>10.—</td><td>CL, CO, CR, EC, GE, GT, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.—</td><td>PA</td><td></td></tr>
+<tr><td>0207.</td><td>1110</td><td></td><td>6.—</td><td>BA, CL, CN, CO, EG, JO, KR, LB, PE, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>15.—</td><td>GE, SACU</td><td></td></tr>
+<tr><td></td><td>1210</td><td></td><td>15.—</td><td>BA, CL, CO, CR, GT, JO, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>EG</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>22.—</td><td>GE, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>6.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>7.50</td><td>PA</td><td></td></tr>
+<tr><td></td><td>1321</td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1481</td><td></td><td>15.—</td><td>BA, CL, CO, CR, GT, JO, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>22.—</td><td>GE, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>7.50</td><td>PA</td><td></td></tr>
+<tr><td></td><td>1491</td><td></td><td>15.—</td><td>BA, CL, CO, CR, GT, JO, KR, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>15.—</td><td>TR</td><td>foies</td></tr>
+<tr><td></td><td></td><td></td><td>30.—</td><td>SACU</td><td>foies</td></tr>
+<tr><td></td><td></td><td></td><td>15.—</td><td>SACU</td><td>autres que les foies</td></tr>
+<tr><td></td><td></td><td></td><td>22.—</td><td>GE, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>6.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>7.50</td><td>PA</td><td></td></tr>
+<tr><td></td><td>2410</td><td></td><td>6.—</td><td>CL, CN, CO, CR, EC, GE, JP, KR, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2510</td><td></td><td>6.—</td><td>CL, CN, CO, CR, EC, GE, JP, KR, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2621</td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2781</td><td></td><td>15.—</td><td>BA, CL, CO, CR, EC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>6.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2791</td><td></td><td>15.—</td><td>TR</td><td>foies</td></tr>
+<tr><td></td><td></td><td></td><td>15.—</td><td>UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>30.—</td><td>BA, CL, CO, CR, EC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>6.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4110</td><td></td><td>6.—</td><td>CL, CN, CO, CR, EC, GE, JP, KR, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td>4210</td><td></td><td>15.—</td><td>CL, CO, CR, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>22.—</td><td>EC, GE, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>6.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4300</td><td></td><td>22.50</td><td>CL, TR</td><td></td></tr>
+<tr><td></td><td></td><td>9.50</td><td></td><td>CO, CR, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>8.—</td><td></td><td>EC, GE, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.20</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4411</td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4491</td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4510</td><td>exempt</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>36.33</td><td>CL, CO, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.65</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4591</td><td></td><td>15.—</td><td>TR</td><td>foies</td></tr>
+<tr><td></td><td></td><td></td><td>15.—</td><td>CN, JP, KR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>30.—</td><td>CL, CO, CR, EC, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>5110</td><td></td><td>6.—</td><td>CL, CN, CO, CR, EC, GE, JP, KR, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td>5210</td><td></td><td>15.—</td><td>CL, CO, CR, EC, GE, KR, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>6.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>5300</td><td></td><td>22.50</td><td>CL, TR</td><td></td></tr>
+<tr><td></td><td></td><td>9.50</td><td></td><td>CO, CR, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>8.—</td><td></td><td>EC, GE, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.20</td><td>CN</td><td></td></tr>
+<tr><td></td><td>5411</td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>5491</td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>5510</td><td>exempt</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>36.33</td><td>CL, CO, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.65</td><td>CN</td><td></td></tr>
+<tr><td></td><td>5591</td><td></td><td>15.—</td><td>TR</td><td>foies</td></tr>
+<tr><td></td><td></td><td></td><td>15.—</td><td>CN, JP, KR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>30.—</td><td>CL, CO, CR, EC, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>6011</td><td></td><td>6.—</td><td>CL, CN, CO, CR, EC, GE, JP, KR, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td>6021</td><td></td><td>15.—</td><td>CL, CO, CR, EC, GE, KR, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>6.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>6041</td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>6051</td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>6091</td><td></td><td>15.—</td><td>TR</td><td>foies</td></tr>
+<tr><td></td><td></td><td></td><td>15.—</td><td>CN, JP, KR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>30.—</td><td>CL, CO, CR, EC, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td>0208.</td><td>1000</td><td>11.—</td><td></td><td>CO, EC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>20.80</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3000</td><td>exempt</td><td></td><td>CN, CO, EC, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>4000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, GCC, HK, JO, KR, LB, MA, ME, MK, MX, PE, PS, RS, SG, TN, UA</td><td>de baleine</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, GE, SACU</td><td></td></tr>
+<tr><td></td><td>5000</td><td>exempt</td><td></td><td>CN, CO, PE</td><td></td></tr>
+<tr><td></td><td>6000</td><td>exempt</td><td></td><td>CN, EC, GCC, GE, KR, SACU, TN</td><td></td></tr>
+<tr><td></td><td>9010</td><td>exempt</td><td></td><td>EG, IL, TN</td><td>d’autruches</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>LB</td><td>d’autruches; de perdrix</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>SACU</td><td>d’autruches; d’antilopes springbok et d’oryx</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CA</td><td>de wapitis</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CO, PE</td><td></td></tr>
+<tr><td></td><td></td><td>5.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>KR, SACU</td><td>autres que les cuisses de grenouilles</td></tr>
+<tr><td></td><td></td><td></td><td>15.—</td><td>TR</td><td>cuisses de grenouilles</td></tr>
+<tr><td></td><td></td><td>6.—</td><td></td><td>SACU</td><td>cuisses de grenouilles</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, GCC, IL</td><td></td></tr>
+<tr><td>0209.</td><td>9000</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td>0210.</td><td>1110</td><td>exempt</td><td></td><td>BA, CL, CN, CO, EC, GE, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>CR</td><td></td></tr>
+<tr><td></td><td>1191</td><td>150.—</td><td></td><td>BA, CL, CO, CR, GE, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>135.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1210</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1910</td><td>exempt</td><td></td><td>BA, CL, CN, CO, EC, GE, KR, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>35.—</td><td></td><td>CR</td><td></td></tr>
+<tr><td></td><td>1991</td><td>187.—</td><td></td><td>AL, RS</td><td></td></tr>
+<tr><td></td><td></td><td>150.—</td><td></td><td>BA, CL, CO, GE, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>135.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>180.—</td><td></td><td>CR</td><td></td></tr>
+<tr><td></td><td>2010</td><td>238.—</td><td></td><td>AL, BA, GE, RS</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>SACU</td><td>contingent tarifaire annuel de 20 t (n<sup>os</sup> du tarif 0210.2010 et ex9990)</td></tr>
+<tr><td></td><td></td><td>225.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9100</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9200</td><td>exempt</td><td></td><td>CN</td><td>de baleines, de dauphins et de marsouins (mammifères de l’ordre des cétacés); de lamantins et de dugongs (mammifères de l’ordre des siréniens)</td></tr>
+<tr><td></td><td>9300</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9911</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9912</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9951</td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9981</td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9990</td><td>exempt</td><td></td><td>SACU</td><td>de gibier: contingent tarifaire annuel de 20 t (n<sup>os</sup> du tarif 0210.2010 et ex9990)</td></tr>
+<tr><td>0301.</td><td>1100/ 0308.9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>0401.</td><td>1010</td><td>16.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2010</td><td>16.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td>0402.</td><td>2111</td><td>25.—</td><td></td><td>BA, CO, GE, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>45.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2911</td><td>45.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9110</td><td></td><td>5.—</td><td>CO, PE</td><td></td></tr>
+<tr><td>0403.</td><td>1010</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1020</td><td>100.—</td><td></td><td>JO, MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1091</td><td>16.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9031</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9041</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9049</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9051</td><td>10.80</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9061</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9069</td><td>1211.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9072</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9079</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td>0404.</td><td>9081</td><td>15.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td>0405.</td><td>2011</td><td>em</td><td></td><td>CA, TR</td><td></td></tr>
+<tr><td></td><td></td><td>18.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2019</td><td>18.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2091</td><td>em</td><td></td><td>CA, TR</td><td></td></tr>
+<tr><td></td><td>9010</td><td>27.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td>0406.</td><td>1010</td><td>19.50</td><td></td><td>LB, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CO, GE, PE</td><td></td></tr>
+<tr><td></td><td>1020</td><td>256.—</td><td></td><td>LB, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CO, GE, PE</td><td></td></tr>
+<tr><td></td><td>1090</td><td>279.—</td><td></td><td>SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CO, GE, PE, RS</td><td></td></tr>
+<tr><td></td><td>2010</td><td>392.—</td><td></td><td>SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CO, GE, PE</td><td></td></tr>
+<tr><td></td><td>2090</td><td>299.—</td><td></td><td>SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CO, GE, PE</td><td></td></tr>
+<tr><td></td><td>3010</td><td>exempt</td><td></td><td>BA, CO, GE, PE</td><td></td></tr>
+<tr><td></td><td>3090</td><td>426.—</td><td></td><td>LB, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CO, GE, PE</td><td></td></tr>
+<tr><td></td><td>4010</td><td>exempt</td><td></td><td>BA, CO, GE, PE</td><td></td></tr>
+<tr><td></td><td></td><td>12.80</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>4021</td><td>exempt</td><td></td><td>BA, CO, GE, PE</td><td></td></tr>
+<tr><td></td><td></td><td>51.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>4029/9021</td><td>exempt</td><td></td><td>BA, CO, GE, PE</td><td></td></tr>
+<tr><td></td><td>9031</td><td>exempt</td><td></td><td>BA, CO, GE, PE, RS</td><td></td></tr>
+<tr><td></td><td></td><td>57.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9039</td><td>exempt</td><td></td><td>BA, CO, GE, PE, RS</td><td></td></tr>
+<tr><td></td><td></td><td>10.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9051</td><td>exempt</td><td></td><td>BA, CO, GE, PE, RS</td><td></td></tr>
+<tr><td></td><td></td><td>191.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9059</td><td>exempt</td><td></td><td>BA, CO, GE, PE, RS</td><td></td></tr>
+<tr><td></td><td></td><td>144.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9060</td><td>exempt</td><td></td><td>BA, CO, GE, PE, RS</td><td></td></tr>
+<tr><td></td><td></td><td>25.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9091/9099</td><td>exempt</td><td></td><td>SACU</td><td>destinés à la consommation directe: contingent tarifaire annuel de 200 t (n<sup>os</sup> du tarif 0406.9091 et 9099)</td></tr>
+<tr><td></td><td></td><td></td><td>75 %</td><td>EG</td><td>destinés à la consommation directe: contingent tarifaire annuel de 200 t (n<sup>os</sup> du tarif 0406.9091 et 9099)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CO, GE, PE, RS</td><td></td></tr>
+<tr><td>0407.</td><td>1110</td><td></td><td>3.—</td><td>MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>47.—</td><td></td><td>CL, CO, CR, GE, GT, JO, KR, LB, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>45.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MX</td><td>œufs indemnes de pathogènes, pour la fabrication de produits pharmaceutiques, la recherche et l’utilisation dans les laboratoires</td></tr>
+<tr><td></td><td>1910</td><td></td><td>3.—</td><td>MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>47.—</td><td></td><td>CL, CO, CR, GE, GT, JO, KR, LB, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>45.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MX</td><td>œufs indemnes de pathogènes, pour la fabrication de produits pharmaceutiques, la recherche et l’utilisation dans les laboratoires</td></tr>
+<tr><td></td><td>2110</td><td></td><td>3.—</td><td>MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>47.—</td><td></td><td>CL, CO, CR, GE, GT, JO, KR, LB, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>45.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MX</td><td>œufs indemnes de pathogènes, pour la fabrication de produits pharmaceutiques, la recherche et l’utilisation dans les laboratoires</td></tr>
+<tr><td></td><td>2910</td><td></td><td>3.—</td><td>MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>47.—</td><td></td><td>CL, CO, CR, GE, GT, JO, KR, LB, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>45.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MX</td><td>œufs indemnes de pathogènes, pour la fabrication de produits pharmaceutiques, la recherche et l’utilisation dans les laboratoires</td></tr>
+<tr><td></td><td>9010</td><td></td><td>3.—</td><td>MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>47.—</td><td></td><td>CL, CO, CR, GE, GT, JO, KR, LB, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>45.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MX</td><td>œufs indemnes de pathogènes, pour la fabrication de produits pharmaceutiques, la recherche et l’utilisation dans les laboratoires</td></tr>
+<tr><td>0408.</td><td>9110</td><td></td><td>16.—</td><td>MX</td><td>sans addition de sucre ou d’autres édulcorants</td></tr>
+<tr><td></td><td></td><td>239.—</td><td></td><td>CL, CO, CR, GE, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>239.—</td><td></td><td>KR, UA</td><td>sans addition de sucre ou d’autres édulcorants</td></tr>
+<tr><td></td><td></td><td>229.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9910</td><td></td><td>8.—</td><td>MX</td><td>sans addition de sucre ou d’autres édulcorants</td></tr>
+<tr><td></td><td></td><td>71.—</td><td></td><td>CL, CN, CO, CR, EC, GE, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>71.—</td><td></td><td>KR, UA</td><td>sans addition de sucre ou d’autres édulcorants</td></tr>
+<tr><td>0409.</td><td>0000</td><td></td><td>5.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>12.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>19.—</td><td></td><td>PS</td><td>en récipients de céramique n’excédant pas 1 kg</td></tr>
+<tr><td></td><td></td><td>38.—</td><td></td><td>PS</td><td></td></tr>
+<tr><td></td><td></td><td>19.—</td><td></td><td>AL, BA, CL, CN, CO, CR, EC, EG, KR, LB, ME, MX, PA, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CA, EG, MX, SACU</td><td>pour la mise en œuvre industrielle</td></tr>
+<tr><td></td><td></td><td>26.—</td><td></td><td>CA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE, GT</td><td></td></tr>
+<tr><td></td><td></td><td>8.—</td><td></td><td>AL, BA, ME, RS, SACU</td><td>miel d’acacias</td></tr>
+<tr><td>0410.</td><td>0000</td><td>exempt</td><td></td><td>BA, CAS, CL, CN, CO, EC, GCC, GE, JP, KR, ME, MX, PE, SACU, SG</td><td></td></tr>
+<tr><td>0501.</td><td>0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0502.</td><td>1000/9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0504.</td><td>0010</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>0031</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>0039</td><td></td><td>0.50</td><td>CO, GCC, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, GE, ME, MX, RS, SG, TR</td><td></td></tr>
+<tr><td></td><td>0090</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0505.</td><td>1010/1090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9019/9090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0506.</td><td>1000/9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0507.</td><td>1000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0508.</td><td>0010</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>0091</td><td></td><td>10.—</td><td>CO, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>KR</td><td></td></tr>
+<tr><td></td><td>0099</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0510.</td><td>0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0511.</td><td>1010</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>9190</td><td>exempt</td><td></td><td>CA, CAS, CL, CN, EC, GCC, GE, KR, MX, PH, PS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CO, HK, JP, ME, MK, PE, RS</td><td>non destinés à l’alimentation des animaux</td></tr>
+<tr><td></td><td>9911</td><td></td><td>2.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9919</td><td></td><td>2.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9980</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CA, PS</td><td>crin et déchets de crin, éponges naturelles d’origine animale</td></tr>
+<tr><td>0601.</td><td>1010</td><td></td><td>17.—</td><td>AL, BA, CL, CN, CO, CR, EC, EG, GE, GT, JO, JP, KR, MK, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>HK, IL</td><td></td></tr>
+<tr><td></td><td>1090</td><td>exempt</td><td></td><td>AL, BA, CL, CO, CR, EC, EG, GCC, GE, GT, HK, IL, JO, JP, KR, ME, MK, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>19.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2010</td><td></td><td>1.40</td><td>AL, BA, CL, CO, EC, EG, GCC, GE, GT, JP, KR, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.70</td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CR, HK</td><td></td></tr>
+<tr><td></td><td>2020</td><td></td><td>20.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>11.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CL, CO, CR, EC, EG, GCC, GE, GT, HK, JP, KR, ME, MX, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td>2091</td><td>exempt</td><td></td><td>AL, BA, CL, CO, CR, EC, EG, GCC, GE, GT, HK, JP, KR, ME, MK, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>36.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2099</td><td>exempt</td><td></td><td>AL, BA, CL, CO, CR, EC, EG, GCC, GE, GT, HK, JP, KR, ME, MK, MX, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>19.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td>0602.</td><td>1000</td><td></td><td>0.04</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CO, EC, EG, GCC, GE, HK, IL, JP, KR, ME, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>3.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2011</td><td>exempt</td><td></td><td>SACU</td><td>contingent tarifaire annuel de 30 000 plantes (n<sup>os</sup> du tarif 0602.2011, 2039, 2071, 2072, 2081 et 2082)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td></td><td></td><td>200.—</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>2019</td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td></td><td></td><td>200.—</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>2021</td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td></td><td></td><td>140.—</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>2029</td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td></td><td></td><td>140.—</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>2031</td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td></td><td></td><td>160.—</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>2039</td><td>exempt</td><td></td><td>SACU</td><td>contingent tarifaire annuel de 30 000 plantes (n<sup>os</sup> du tarif 0602.2011, 2039, 2071, 2072, 2081 et 2082)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td></td><td></td><td>160.—</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>2041/2049</td><td>exempt</td><td></td><td>CN, EC, GE, IL, JP, SACU</td><td></td></tr>
+<tr><td></td><td>2051</td><td>exempt</td><td></td><td>CN, CO, CR, EC, GE, GT, IL, JP, PE, SACU</td><td></td></tr>
+<tr><td></td><td>2059</td><td></td><td>5.20</td><td>CO, EC, GT, IL, PA, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CR, GE</td><td></td></tr>
+<tr><td></td><td>2071/2072</td><td>exempt</td><td></td><td>SACU</td><td>contingent tarifaire annuel de 30 000 plantes (n<sup>os</sup> du tarif 0602.2011, 2039, 2071, 2072, 2081 et 2082)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td>2079</td><td>exempt</td><td></td><td>CAS, CO, EC, GE, IL, JP, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>11.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2081/2082</td><td>exempt</td><td></td><td>SACU</td><td>contingent tarifaire annuel de 30 000 plantes (n<sup>os</sup> du tarif 0602.2011, 2039, 2071, 2072, 2081 et 2082)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td>2089</td><td>exempt</td><td></td><td>CO, CR, EC, GE, GT, IL, JP, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>9.80</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3000</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GE, HK, IL, JP, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td>4010</td><td></td><td>5.20</td><td>AL, BA, CO, CR, EC, GT, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.60</td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE, HK, IL</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td>4091</td><td></td><td>20.—</td><td>JO, MK</td><td></td></tr>
+<tr><td></td><td></td><td>3.80</td><td></td><td>CO, CR, EG, GE, GT, IL, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td></td><td>11.90</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>4099</td><td></td><td>20.—</td><td>JO, MK</td><td></td></tr>
+<tr><td></td><td></td><td>3.80</td><td></td><td>CAS, CO, EG, GE, IL, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td></td><td>11.90</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9011</td><td></td><td>1.40</td><td>EC, IL, JP, KR, PH, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.70</td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>9012</td><td></td><td>0.20</td><td>AL, BA, CR, EC, JP, KR, ME, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE, HK, IL</td><td></td></tr>
+<tr><td></td><td>9019</td><td></td><td>5.20</td><td>CO, CR, EC, IL, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.60</td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE, GT</td><td></td></tr>
+<tr><td></td><td>9091</td><td></td><td>18.—</td><td>MK, TR</td><td>plantes d’ornement</td></tr>
+<tr><td></td><td></td><td></td><td>4.—</td><td>TR</td><td>autres que les plantes d’ornement</td></tr>
+<tr><td></td><td></td><td>2.—</td><td></td><td>CL, CO, EG, PE, SACU</td><td>plantes d’ornement</td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>CL, CO, EG, PE, SACU</td><td>autres que les plantes d’ornement</td></tr>
+<tr><td></td><td></td><td>4.—</td><td></td><td>LB</td><td>plantes d’ornement</td></tr>
+<tr><td></td><td></td><td>18.—</td><td></td><td>LB</td><td>autres que les plantes d’ornement</td></tr>
+<tr><td></td><td></td><td>18.—</td><td></td><td>GE, KR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC, GT, IL</td><td></td></tr>
+<tr><td></td><td></td><td>13.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>10.—</td><td></td><td>CR</td><td>plantes d’ornement</td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>CR</td><td>autres que les plantes d’ornement</td></tr>
+<tr><td></td><td>9099</td><td></td><td>15.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>4.60</td><td></td><td>AL, BA, CL, CO, CR, EG, GE, KR, LB, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>bonsaïs pour l’ornement</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, GT, PH</td><td></td></tr>
+<tr><td>0603.</td><td>1110</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>12.50</td><td>CL</td><td></td></tr>
+<tr><td></td><td>1120</td><td></td><td>25 %</td><td>PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>20 %</td><td>GT</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>15 %</td><td>CR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>1130</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td>1210</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>1220</td><td></td><td>25 %</td><td>PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>15 %</td><td>CR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>1230</td><td>exempt</td><td></td><td>AL, BA, CN, CO, CR, EC, EG, GE, GT, HK, JO, ME, MX, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td>1310</td><td>20.—</td><td></td><td>AL, BA, CAS, CL, CO, EG, IL, JO, JP, KR, LB, MA, ME, MK, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>SG</td><td>orchidées spp. Dendrobiums, Mokaras, Aratheas et Oncidiums</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, GE</td><td></td></tr>
+<tr><td></td><td>1320</td><td></td><td>20 %</td><td>PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10 %</td><td>CR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>1330</td><td>exempt</td><td></td><td>AL, BA, CN, CO, CR, EC, EG, GE, GT, HK, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>SG</td><td>orchidées spp. Dendrobiums, Mokaras, Aratheas et Oncidiums</td></tr>
+<tr><td></td><td>1410</td><td>20.—</td><td></td><td>AL, BA, CL, EG, IL, JO, JP, KR, LB, MA, ME, MK, PA, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, EC, GE, GT, PE</td><td></td></tr>
+<tr><td></td><td></td><td>10.—</td><td></td><td>CR</td><td></td></tr>
+<tr><td></td><td>1420</td><td></td><td>25 %</td><td>PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>15 %</td><td>CR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>1430</td><td>exempt</td><td></td><td>AL, BA, CN, CO, CR, EC, EG, GE, GT, HK, ME, MX, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td>1510</td><td>20.—</td><td></td><td>AL, BA, CL, CO, CR, EG, IL, JO, JP, KR, LB, MA, ME, MK, PA, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, GE, GT</td><td></td></tr>
+<tr><td></td><td>1520</td><td></td><td>20 %</td><td>GT, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10 %</td><td>CR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>1530</td><td>exempt</td><td></td><td>AL, BA, CN, CO, CR, EC, EG, GE, GT, HK, ME, MX, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td>1911</td><td>20.—</td><td></td><td>AL, BA, CL, CO, CR, EG, IL, JO, JP, KR, LB, MA, ME, MK, PA, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, GE, GT</td><td></td></tr>
+<tr><td></td><td>1918</td><td>20.—</td><td></td><td>AL, BA, CL, CO, CR, EG, IL, JO, JP, KR, LB, MA, ME, MK, PA, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, GE, GT</td><td></td></tr>
+<tr><td></td><td>1921</td><td></td><td>20 %</td><td>GT, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10 %</td><td>CR</td><td></td></tr>
+<tr><td></td><td>1928</td><td></td><td>20 %</td><td>GT, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10 %</td><td>CR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>1930/1931</td><td>exempt</td><td></td><td>AL, BA, CN, CO, CR, EC, EG, GE, GT, HK, ME, MX, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td>1938</td><td>exempt</td><td></td><td>AL, BA, CN, CO, CR, EC, EG, GE, GT, HK, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td>9010</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9090</td><td></td><td>50.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, TN, UA</td><td></td></tr>
+<tr><td>0604.</td><td>2010</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td>2021</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td>2029</td><td>exempt</td><td></td><td>CN, CO, GE, HK, MX, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>AL, BA, CL, CR, EC, GCC, JP, KR, LB, ME, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td>2090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td>9011</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td>9012</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, JP, KR, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td>9091</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td>9099</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, MA, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td>0701.</td><td>1010</td><td></td><td>1.40</td><td>AL, BA, CAS, CL, EC, GCC, GE, JP, KR, LB, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, JO, MA, ME, MX</td><td></td></tr>
+<tr><td></td><td>9010</td><td></td><td>3.—</td><td>AL, BA, CAS, CL, CO, EC, GE, JO, KR, LB, MA, ME, MK, PE, PS, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>TN</td><td>contingent tarifaire annuel de 1500 t</td></tr>
+<tr><td></td><td></td><td></td><td>6.—</td><td>EG</td><td>contingent tarifaire annuel de 2690 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, IL</td><td></td></tr>
+<tr><td>0702.</td><td>0010</td><td>exempt</td><td></td><td>TR</td><td>1.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, UA</td><td></td></tr>
+<tr><td></td><td>0011</td><td>exempt</td><td></td><td>GE, IL, ME</td><td></td></tr>
+<tr><td></td><td></td><td>3.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>0020</td><td>exempt</td><td></td><td>TR</td><td>1.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, UA</td><td></td></tr>
+<tr><td></td><td>0021</td><td>exempt</td><td></td><td>GE, IL, ME</td><td></td></tr>
+<tr><td></td><td></td><td>3.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>0030</td><td>exempt</td><td></td><td>TR</td><td>1.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, UA</td><td></td></tr>
+<tr><td></td><td>0031</td><td>exempt</td><td></td><td>GE, IL, ME</td><td></td></tr>
+<tr><td></td><td></td><td>3.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>0090</td><td>exempt</td><td></td><td>TR</td><td>1.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, UA</td><td></td></tr>
+<tr><td></td><td>0091</td><td>3.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td>0703.</td><td>1011/1013</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>1020/1021</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>1030/1031</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>1040/1041</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>1050/1051</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>1060/1061</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>1070/1071</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>1080</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>2000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TN, UA</td><td></td></tr>
+<tr><td></td><td>9010</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, JO, JP, KR, LB, MA, ME, MK, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>9011</td><td>5.—</td><td></td><td>AL, BA, CL, CR, JO, JP, KR, LB, MA, ME, MK, PA, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, EC, EG, GE, GT, IL, PE</td><td></td></tr>
+<tr><td></td><td>9020</td><td>5.—</td><td></td><td>AL, BA, CAS, JO, JP, KR, LB, MA, ME, MK, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>9021</td><td>5.—</td><td></td><td>AL, BA, CR, JO, JP, KR, LB, MA, ME, MK, PA, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, EC, EG, GE, GT, IL, PE</td><td></td></tr>
+<tr><td></td><td>9090</td><td></td><td>5.—</td><td>MA, MK, TR</td><td></td></tr>
+<tr><td></td><td></td><td>3.50</td><td></td><td>AL, BA, JO, ME, RS</td><td></td></tr>
+<tr><td></td><td></td><td>5.—</td><td></td><td>JP, KR, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, EC, EG, GE, GT, IL, PE</td><td></td></tr>
+<tr><td>0704.</td><td>1010</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>1011</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>1020/1021</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>1090/1091</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2010/2011</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>9011/9018</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9020/9021</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9030/9031</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9040/9041</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9050</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>9051</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>9060</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, MK, PE, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL, PH</td><td></td></tr>
+<tr><td></td><td>9061</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, MK, PE, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL, PH</td><td></td></tr>
+<tr><td></td><td>9063/9064</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
+<tr><td></td><td>9070/9071</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
+<tr><td></td><td>9080/9081</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, PH</td><td></td></tr>
+<tr><td></td><td>9090</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, EC, EG, JO, JP, KR, LB, MA, ME, MK, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, GE, PH</td><td></td></tr>
+<tr><td>0705.</td><td>1111</td><td>3.50</td><td></td><td>AL, BA, CL, CR, GT, IL, JO, JP, KR, LB, MA, ME, PE, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td></td><td>5.—</td><td></td><td>CO</td><td></td></tr>
+<tr><td></td><td>1118</td><td>3.50</td><td></td><td>AL, BA, CL, CR, GT, IL, JO, JP, KR, LB, MA, ME, PE, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td></td><td>5.—</td><td></td><td>CO</td><td></td></tr>
+<tr><td></td><td>1120</td><td>3.50</td><td></td><td>AL, BA, CL, CO, CR, GT, IL, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>1121</td><td>3.50</td><td></td><td>AL, BA, CL, CO, CR, GT, IL, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>1191/1198</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>1910/1911</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>1920/1921</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>1930/1931</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>1940/1941</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>1950/1951</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>1990/1991</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>2110/2111</td><td>3.50</td><td></td><td>AL, BA, CL, CO, CR, GT, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>2910/2911</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2920/2921</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2930/2931</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2940/2941</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2950/2951</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2960/2961</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2970/2971</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2990</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td>0706.</td><td>1010</td><td></td><td>2.10</td><td>MA</td><td></td></tr>
+<tr><td></td><td></td><td>1.90</td><td></td><td>CL, JO</td><td></td></tr>
+<tr><td></td><td></td><td>2.—</td><td></td><td>AL, BA, CO, CR, GT, JP, KR, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>1011</td><td></td><td>2.10</td><td>MA</td><td></td></tr>
+<tr><td></td><td></td><td>1.90</td><td></td><td>CL, JO</td><td></td></tr>
+<tr><td></td><td></td><td>2.—</td><td></td><td>AL, BA, CO, CR, JP, KR, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, GT, IL</td><td></td></tr>
+<tr><td></td><td>1020</td><td></td><td>2.10</td><td>MA</td><td></td></tr>
+<tr><td></td><td></td><td>1.90</td><td></td><td>CL, JO</td><td></td></tr>
+<tr><td></td><td></td><td>2.—</td><td></td><td>AL, BA, CO, CR, GT, JP, KR, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>1021</td><td></td><td>2.10</td><td>MA</td><td></td></tr>
+<tr><td></td><td></td><td>1.90</td><td></td><td>CL, JO</td><td></td></tr>
+<tr><td></td><td></td><td>2.—</td><td></td><td>AL, BA, CO, CR, JP, KR, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, GT, IL</td><td></td></tr>
+<tr><td></td><td>1030/1031</td><td></td><td>2.10</td><td>MA</td><td></td></tr>
+<tr><td></td><td></td><td>1.90</td><td></td><td>CL</td><td></td></tr>
+<tr><td></td><td></td><td>2.—</td><td></td><td>AL, BA, CO, CR, GT, JP, KR, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>9011/9018</td><td>2.—</td><td></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>9021/9028</td><td>3.50</td><td></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>9030/9031</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>9040/9041</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>9050/9051</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>9060/9061</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>9090</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, EC, EG, GT, JO, JP, KR, MA, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, GE, IL</td><td></td></tr>
+<tr><td>0707.</td><td>0010/0011</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>0020/0021</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TN, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>0030</td><td>5.—</td><td></td><td>AL, BA, CAS, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, TN, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>0031</td><td>5.—</td><td></td><td>AL, BA, CAS, IL, JO, JP, KR, LB, MA, ME, MK, MX, PS, RS, TN, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, EC, EG, GE, PE</td><td></td></tr>
+<tr><td></td><td>0040</td><td>5.—</td><td></td><td>AL, BA, CAS, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, TN, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, EC, EG, GE</td><td></td></tr>
+<tr><td></td><td>0041</td><td>5.—</td><td></td><td>AL, BA, CAS, IL, JO, JP, KR, LB, MA, ME, MK, MX, PS, RS, TN, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, EC, EG, GE, PE</td><td></td></tr>
+<tr><td></td><td>0050</td><td></td><td>5.—</td><td>IL, MA, MK, TR</td><td></td></tr>
+<tr><td></td><td></td><td>3.50</td><td></td><td>AL, BA, CR, JO, JP, KR, LB, ME, PE, RS</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, EC, EG, GE</td><td></td></tr>
+<tr><td>0708.</td><td>1010</td><td>exempt</td><td></td><td>TR</td><td>1.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>1011</td><td>5.—</td><td></td><td>AL, BA, CL, JP, KR, MA, ME, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, EC, EG, GE, GT, PE, UA</td><td></td></tr>
+<tr><td></td><td>1020</td><td>exempt</td><td></td><td>TR</td><td>1.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
+<tr><td></td><td>1021</td><td>5.—</td><td></td><td>AL, BA, CL, CO, JP, KR, MA, ME, RS, SACU, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, GT, PE, UA</td><td></td></tr>
+<tr><td></td><td>2010</td><td>exempt</td><td></td><td>TR</td><td>1.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2021</td><td>exempt</td><td></td><td>TR</td><td>16.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2028</td><td>exempt</td><td></td><td>TR</td><td>1.11.–15.11.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2031</td><td>exempt</td><td></td><td>TR</td><td>16.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2038</td><td>exempt</td><td></td><td>TR</td><td>1.11.–15.11.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2041</td><td>exempt</td><td></td><td>TR</td><td>16.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2048</td><td>exempt</td><td></td><td>TR</td><td>1.11.–15.11.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2091</td><td>exempt</td><td></td><td>TR</td><td>16.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2098</td><td>exempt</td><td></td><td>TR</td><td>1.11.–15.11.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9010</td><td></td><td>10.—</td><td>TR</td><td>1.11.–31.3.</td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CO, MA</td><td></td></tr>
+<tr><td></td><td>9080</td><td>exempt</td><td></td><td>TR</td><td>1.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
+<tr><td></td><td>9081</td><td>5.—</td><td></td><td>AL, BA, CL, CO, JP, KR, LB, MA, ME, PE, RS, SACU, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, GT, UA</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>TR</td><td>1.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
+<tr><td>0709.</td><td>2010/2011</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2090</td><td></td><td>3.50</td><td>MA</td><td></td></tr>
+<tr><td></td><td></td><td>2.50</td><td></td><td>AL, BA, CL, CO, GT, JO, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>3010</td><td>exempt</td><td></td><td>TR</td><td>1.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>5.—</td><td></td><td>TR</td><td>1.4.–31.5./16.10.–31.10.</td></tr>
+<tr><td></td><td></td><td>5.—</td><td></td><td>PS</td><td></td></tr>
+<tr><td></td><td>3011</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, KR, LB, MA, ME, PE, PS, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL, PH</td><td></td></tr>
+<tr><td></td><td>4010/4011</td><td>5.—</td><td></td><td>AL, CAS, CL, CO, JO, JP, KR, LB, MA, PE, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CN, EC, EG, GE, IL, ME, PH</td><td></td></tr>
+<tr><td></td><td>4020/4021</td><td>5.—</td><td></td><td>AL, CAS, CL, CO, JO, JP, KR, LB, MA, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CN, EC, EG, GE, IL, ME, PH</td><td></td></tr>
+<tr><td></td><td>4090/4091</td><td>5.—</td><td></td><td>AL, CAS, CL, CO, JO, JP, KR, LB, MA, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CN, EC, EG, GE, IL, ME, PH</td><td></td></tr>
+<tr><td></td><td>5100</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>5900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SG, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>SACU</td><td>autres que les truffes</td></tr>
+<tr><td></td><td>6011</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>6012</td><td>5.—</td><td></td><td>AL, BA, CAS, CO, JO, JP, MA, ME, MK, MX, RS</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>8.60</td><td>EC, GE, PH, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>PE</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, IL</td><td></td></tr>
+<tr><td></td><td>6090</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>7010/7011</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL, PH</td><td></td></tr>
+<tr><td></td><td>7090</td><td></td><td>5.—</td><td>MA</td><td></td></tr>
+<tr><td></td><td></td><td>3.50</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL, PH</td><td></td></tr>
+<tr><td></td><td>9110</td><td>exempt</td><td></td><td>TR</td><td>1.11.–31.3.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
+<tr><td></td><td>9120</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>9200</td><td></td><td>5.—</td><td>MA, TN, TR</td><td></td></tr>
+<tr><td></td><td></td><td>3.50</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL</td><td></td></tr>
+<tr><td></td><td>9300</td><td>3.50</td><td></td><td>AL, BA, CL, CO, CR, JP, KR, LB, ME, PA, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, GT, IL</td><td></td></tr>
+<tr><td></td><td>9911</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9918</td><td>exempt</td><td></td><td>CN, CO, EC, IL, PE</td><td></td></tr>
+<tr><td></td><td>9920/9921</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9930</td><td>exempt</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>9931</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9940/9941</td><td>5.—</td><td></td><td>AL, BA, CAS, CL, CO, JO, JP, KR, LB, MA, ME, PE, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL, PH</td><td></td></tr>
+<tr><td></td><td>9950/9951</td><td>5.—</td><td></td><td>AL, BA, CL, CO, CR, JP, KR, LB, MA, ME, PA, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JO</td><td>de type Baladi</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, GT, IL, PH</td><td></td></tr>
+<tr><td></td><td>9960/9961</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9970/9971</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9980</td><td></td><td>5.—</td><td>MA</td><td></td></tr>
+<tr><td></td><td></td><td>3.50</td><td></td><td>AL, BA, CAS, CL, CO, JP, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL, PH</td><td></td></tr>
+<tr><td></td><td>9999</td><td></td><td>5.—</td><td>PS</td><td>maïs doux</td></tr>
+<tr><td></td><td></td><td>3.50</td><td></td><td>JO</td><td>coriandre</td></tr>
+<tr><td></td><td></td><td>3.50</td><td></td><td>LB</td><td>autres que molochia</td></tr>
+<tr><td></td><td></td><td>3.50</td><td></td><td>AL, BA, CAS, CL, CO, JP, KR, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JO</td><td>okra; molochia</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>LB</td><td>molochia</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, EG, GE, IL, PH</td><td></td></tr>
+<tr><td>0710.</td><td>1010</td><td>49.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2110</td><td>33.—</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>2210</td><td>49.50</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>2900</td><td>42.10</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>23.40</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>3090</td><td>42.10</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>4000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>8011</td><td>49.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>27.50</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td></td><td>22.50</td><td></td><td>EC</td><td>choux-brocolis</td></tr>
+<tr><td></td><td>8090</td><td>27.50</td><td></td><td>PE</td><td>asperges, artichauts, piments du genre Capsicum ou du genre Pimenta</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>ME</td><td>champignons; olives</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA</td><td>piments du genre Capsicum ou du genre Pimenta, champignons</td></tr>
+<tr><td></td><td></td><td>33.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9011</td><td>33.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>27.50</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9021</td><td>33.—</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>9090</td><td>28.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>23.50</td><td></td><td>EC</td><td></td></tr>
+<tr><td>0711.</td><td>2000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, PE, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>4000</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GE, HK, JO, JP, KR, LB, MA, ME, MX, PE, RS, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>TN</td><td>concombres</td></tr>
+<tr><td></td><td>5100/5900</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GE, HK, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>9010</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9020</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>JO, PS, RS, TR</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EG, MA, PE</td><td>piments du genre Capsicum ou du genre Pimenta; oignons</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>LB, MX, SG</td><td>oignons</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>KR</td><td>haricots asperges (Vigna ungauiculata spp.), pois, mélanges de légumes, ne contenant pas de pommes de terre, d’oignons et de piments du genre Capsicum ou du genre Pimenta; oignons</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>ignames salées</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, CO, EC, IL, PH</td><td></td></tr>
+<tr><td>0712.</td><td>2000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, MA, MK, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>3100</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>3200</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, MA, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>3300</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, MA, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>3900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9021</td><td>10.—</td><td></td><td>AL, BA, CL, CN, CO, EC, EG, GE, IL, KR, MK, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>MA, TN</td><td></td></tr>
+<tr><td></td><td>9070</td><td></td><td>15.—</td><td>AL, MA, MK, RS</td><td></td></tr>
+<tr><td></td><td>9081</td><td>exempt</td><td></td><td>AL, BA, CO, EG, GCC, JP, KR, MA, MK, PE, RS, SACU, TN, TR</td><td>aulx et tomates, non mélangés</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CL</td><td>tomates</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, IL</td><td></td></tr>
+<tr><td></td><td>9089</td><td>exempt</td><td></td><td>AL, BA, CO, MA, PE, RS, SACU, TN, TR</td><td>aulx et tomates, non mélangés</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CL, IL</td><td>tomates</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td>tomates, carottes, aulx, betteraves rouges</td></tr>
+<tr><td></td><td></td><td></td><td>20.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>14.—</td><td></td><td>KR</td><td>aulx et tomates, non mélangés</td></tr>
+<tr><td></td><td></td><td>14.—</td><td></td><td>EC, EG, GE, IL, PH</td><td></td></tr>
+<tr><td></td><td></td><td>14.—</td><td></td><td>JP</td><td>radis du genre Raphanus sativus</td></tr>
+<tr><td></td><td></td><td>17.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td>0713.</td><td>1012/1013</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1019</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TN, UA</td><td></td></tr>
+<tr><td></td><td>1092</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1099</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
+<tr><td></td><td>2012/2013</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2019</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>2091</td><td></td><td>2.25</td><td>TR</td><td></td></tr>
+<tr><td></td><td>2092</td><td></td><td>2.25</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2099</td><td></td><td>2.25</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>3112</td><td>exempt</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>3113</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3119</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>3191</td><td></td><td>4.50</td><td>TR</td><td></td></tr>
+<tr><td></td><td>3192</td><td></td><td>4.50</td><td>TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3199</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>3212</td><td>exempt</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>3213</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3219</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>3292</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3299</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>3312</td><td>exempt</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>3313</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3319</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>3392</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3399</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>3412/3413</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3419</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>3492</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3499</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>3512/3513</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3519</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>3592</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3599</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>3912</td><td>exempt</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>3913</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3919</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>3992</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3999</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>4012/4013</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>4019</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, ME, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>4091</td><td></td><td>2.25</td><td>TR</td><td></td></tr>
+<tr><td></td><td>4092</td><td></td><td>2.25</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>4099</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>5013</td><td>exempt</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>5014</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>5015/5018</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>5019</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, ME, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>5092</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>5099</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, TN, UA</td><td></td></tr>
+<tr><td></td><td>6012/6013</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>6019</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>6092</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>6099</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9022/9023</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9029</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>9082</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9089</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JO, JP, KR, LB, MA, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td>0714.</td><td>1010</td><td></td><td>0.15</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.75</td><td>MA</td><td></td></tr>
+<tr><td></td><td>1090</td><td>0.60</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.75</td><td>MA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2010</td><td></td><td>0.75</td><td>MA</td><td></td></tr>
+<tr><td></td><td>2090</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.75</td><td>MA, PS</td><td></td></tr>
+<tr><td></td><td>3010</td><td></td><td>0.15</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.75</td><td>MA</td><td></td></tr>
+<tr><td></td><td>3090</td><td>0.60</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.75</td><td>EC, MA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, JP, KR, LB, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>4010</td><td></td><td>0.15</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.75</td><td>MA</td><td></td></tr>
+<tr><td></td><td>4090</td><td>0.60</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.75</td><td>EC, MA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, JP, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>5010</td><td></td><td>0.15</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.75</td><td>MA</td><td></td></tr>
+<tr><td></td><td>5090</td><td>0.60</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.75</td><td>EC, MA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, JP, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9020</td><td></td><td>0.15</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.75</td><td>MA</td><td></td></tr>
+<tr><td></td><td>9080</td><td>0.60</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.75</td><td>EC, MA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, JP, KR, LB, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td>0801.</td><td>1100</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>1200</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>1900</td><td>exempt</td><td></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>2100/2200</td><td>exempt</td><td></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>3100</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>3200</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0802.</td><td>1100</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MA</td><td>pour l’alimentation humaine</td></tr>
+<tr><td></td><td>1200</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MA</td><td>pour l’alimentation humaine</td></tr>
+<tr><td></td><td>2120</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2190</td><td>exempt</td><td></td><td>CL</td><td>contingent tarifaire annuel de 100 t (n<sup>os</sup> du tarif 0802.2190 et 2290)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>SACU</td><td>contingent tarifaire annuel de 100 t (n<sup>os</sup> du tarif 0802.2190 et 2290)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CN</td><td></td></tr>
+<tr><td></td><td>2210</td><td></td><td>12.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>2220</td><td></td><td>12.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2290</td><td>exempt</td><td></td><td>BA, CN, CO, EC, GE, PE, PH, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MA, SG</td><td>pour l’alimentation humaine</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CL</td><td>contingent tarifaire annuel de 100 t (n<sup>os</sup> du tarif 0802.2190 et 2290)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>SACU</td><td>contingent tarifaire annuel de 100 t (n<sup>os</sup> du tarif 0802.2190 et 2290)</td></tr>
+<tr><td></td><td>3120</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3190</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MA, SG</td><td>pour l’alimentation humaine</td></tr>
+<tr><td></td><td>3210</td><td></td><td>4.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>3220</td><td></td><td>4.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3290</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MA, SG</td><td>pour l’alimentation humaine</td></tr>
+<tr><td></td><td>4100/4200</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>5100/5200</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MA</td><td>pour l’alimentation humaine</td></tr>
+<tr><td></td><td>6100/9030</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td>0803.</td><td>1000</td><td>exempt</td><td></td><td>CN, CO, CR, EC, GCC, GE, GT, MX, PE, PH</td><td></td></tr>
+<tr><td></td><td>9000</td><td>exempt</td><td></td><td>CAS, CN, CO, EC, GCC, GE, MX, PE, PH</td><td></td></tr>
+<tr><td>0804.</td><td>1000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>2010</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>2020</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>3000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>4000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>5000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0805.</td><td>1000</td><td></td><td>5.—</td><td>MA, PS, TR</td><td></td></tr>
+<tr><td></td><td></td><td>2.—</td><td></td><td>CL, JO, JP, KR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, EG, GE, HK, IL, LB, ME, MX, PA, PE, PH, RS, SACU, TN</td><td></td></tr>
+<tr><td></td><td>2100</td><td></td><td>5.—</td><td>MA, PS, TR</td><td></td></tr>
+<tr><td></td><td></td><td>2.—</td><td></td><td>CL, JO, JP, KR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, EG, GE, HK, IL, LB, ME, MX, PA, PE, PH, RS, SACU, TN</td><td></td></tr>
+<tr><td></td><td>2200</td><td></td><td>5.—</td><td>MA, PS, TR</td><td></td></tr>
+<tr><td></td><td></td><td>2.—</td><td></td><td>CL, JO, JP, KR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, EG, GE, HK, IL, LB, ME, MX, PA, PE, PH, RS, SACU, TN</td><td></td></tr>
+<tr><td></td><td>2900</td><td></td><td>5.—</td><td>MA, PS, TR</td><td></td></tr>
+<tr><td></td><td></td><td>2.—</td><td></td><td>CL, JO, JP, KR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, EG, GE, HK, IL, LB, ME, MX, PA, PE, PH, RS, SACU, TN</td><td></td></tr>
+<tr><td></td><td>4000</td><td></td><td>1.50</td><td>PS, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>5000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, ME, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td>0806.</td><td>1011</td><td>10.—</td><td></td><td>PS</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>ME</td><td>15.7.–31.8.: contingent tarifaire annuel de 100 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>«fruits-cadeaux»: contingent tarifaire annuel de 50 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CO, EC, IL</td><td></td></tr>
+<tr><td></td><td></td><td>6.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1012</td><td>15.—</td><td></td><td>PS</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MX</td><td>1.5.–14.7.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JO</td><td>1.3.–31.5.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CL</td><td>1.1.–30.6.: contingent tarifaire annuel de 1000 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>LB</td><td>1.12.–31.5.: contingent tarifaire annuel de 5000 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>SACU</td><td>1.1.–30.6.: contingent tarifaire annuel de 1500 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EG</td><td>1.1.–14.7.: contingent tarifaire annuel de 1200 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>«fruits-cadeaux»: contingent tarifaire annuel de 50 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PE</td><td>1.12.–14.7.</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CO, EC, IL</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>ME</td><td>1.6.–14.7.: contingent tarifaire annuel de 100 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA</td><td>contingent tarifaire annuel de 500 t</td></tr>
+<tr><td></td><td></td><td>9.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1021</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EG, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MX, PE, PS, RS, SACU, TN, TR, UA</td><td></td></tr>
+<tr><td>0807.</td><td>1100/1900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>2000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0808.</td><td>1011</td><td>exempt</td><td></td><td>AL, BA, CN, CO, GE, HK, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.—</td><td>CL, EC, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>1021</td><td>exempt</td><td></td><td>AL, BA, CN, CO, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.—</td><td>CL, EC, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>1022</td><td>exempt</td><td></td><td>AL, BA, CN, CO, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.—</td><td>CL, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>1031</td><td>2.50</td><td></td><td>MA, MK</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.50</td><td>AL, BA, CL, CO, EC, KR, LB, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, GE, HK, JP, UA</td><td></td></tr>
+<tr><td></td><td>1032</td><td>2.50</td><td></td><td>MA, MK</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.50</td><td>AL, BA, CL, CO, KR, LB, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, GE, HK, JP, UA</td><td></td></tr>
+<tr><td></td><td>3011</td><td>exempt</td><td></td><td>AL, BA, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.—</td><td>CL, CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>3021/3022</td><td>exempt</td><td></td><td>AL, BA, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.—</td><td>CL, CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>3031/3032</td><td>2.50</td><td></td><td>MA, MK</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.50</td><td>AL, BA, CL, CO, EC, EG, GE, KR, LB, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, HK, JP, UA</td><td></td></tr>
+<tr><td></td><td>4011</td><td>exempt</td><td></td><td>AL, BA, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.—</td><td>CL, CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>4021/4022</td><td>exempt</td><td></td><td>AL, BA, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.—</td><td>CL, CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>4031/4032</td><td>2.50</td><td></td><td>MA, MK</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.50</td><td>AL, BA, CL, CO, EC, EG, KR, LB, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, GE, HK, JP, UA</td><td></td></tr>
+<tr><td>0809.</td><td>1011/1018</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, GE, HK, IL, JP, MA, ME, MK, MX, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.—</td><td>CO, EC, EG, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>1091/1098</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, GE, HK, IL, JP, MA, ME, MK, MX, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>CO, EC, EG, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>2110</td><td>exempt</td><td></td><td>AL, BA, CA, CL, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.—</td><td>CO, EC, EG, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>2111</td><td>exempt</td><td></td><td>AL, BA, CL, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.—</td><td>CO, EC, EG, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>2910</td><td>exempt</td><td></td><td>AL, BA, CA, CL, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.—</td><td>CO, EC, EG, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>2911</td><td>exempt</td><td></td><td>AL, BA, CL, CN, GE, HK, JP, MA, ME, MK, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.—</td><td>CO, EC, EG, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>3010</td><td>exempt</td><td></td><td>EG</td><td>contingent tarifaire annuel de 500 t (n<sup>os</sup> du tarif 0809.3010 et 3020)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, ME</td><td>contingent tarifaire annuel de 200 t (n<sup>os</sup> du tarif 0809.3010 et 3020)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>«fruits-cadeaux»: contingent tarifaire annuel de 50 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, IL</td><td></td></tr>
+<tr><td></td><td>3020</td><td>exempt</td><td></td><td>EG</td><td>contingent tarifaire annuel de 500 t (n<sup>os</sup> du tarif 0809.3010 et 3020)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, ME</td><td>contingent tarifaire annuel de 200 t (n<sup>os</sup> du tarif 0809.3010 et 3020)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>«fruits-cadeaux»: contingent tarifaire annuel de 50 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, IL</td><td></td></tr>
+<tr><td></td><td>4012/4013</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, GE, HK, IL, JO, JP, MA, ME, MK, MX, PS, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.—</td><td>CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>4015</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, GE, HK, IL, JO, JP, MA, ME, MK, MX, PS, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.—</td><td>CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>4092/4093</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, GE, HK, IL, JO, JP, MA, ME, MK, MX, PS, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td>4095</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, GE, HK, IL, JO, JP, MA, ME, MK, MX, PS, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CO, EC, EG, GCC, KR, LB, PE</td><td></td></tr>
+<tr><td>0810.</td><td>1010</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>1011</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PS, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>2010/2011</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, MA, ME, MK, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2020/2021</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, MA, ME, MK, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2030</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, MA, ME, MK, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>3012</td><td>exempt</td><td></td><td>AL, BA, CN, GE, HK, MA, ME, MK, MX, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>CO, EC, GCC, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td></td><td>5.—</td><td></td><td>JP</td><td></td></tr>
+<tr><td></td><td>3021/3022</td><td>exempt</td><td></td><td>AL, BA, CL, CN, GE, HK, MA, ME, MK, MX, RS, SACU, SG</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>CO, EC, GCC, KR, LB, PE</td><td></td></tr>
+<tr><td></td><td></td><td>5.—</td><td></td><td>JP</td><td></td></tr>
+<tr><td></td><td>4000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>5000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>6000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>7000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG</td><td></td></tr>
+<tr><td></td><td>9092</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9098</td><td>exempt</td><td></td><td>TN</td><td>grenades</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG</td><td></td></tr>
+<tr><td>0811.</td><td>1000</td><td></td><td>22.50</td><td>MA, MX</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
+<tr><td></td><td></td><td>15.50</td><td></td><td>BA, CL, RS</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
+<tr><td></td><td></td><td>15.50</td><td></td><td>CO, CR, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>EG, GE</td><td>non destinées à la mise en œuvre industrielle ou avec addition de sucre ou d’autres édulcorants</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EG, GE</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
+<tr><td></td><td></td><td>19.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>EC, PH</td><td></td></tr>
+<tr><td></td><td>2010</td><td></td><td>8.—</td><td>MA, MX</td><td></td></tr>
+<tr><td></td><td></td><td>26.—</td><td></td><td>BA, CL, CO, EC, GE, JP, KR, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>27.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2090</td><td></td><td>22.50</td><td>MA, MX</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
+<tr><td></td><td></td><td>15.50</td><td></td><td>CL, RS</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
+<tr><td></td><td></td><td>15.50</td><td></td><td>BA, CO, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>RS</td><td>framboises pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
+<tr><td></td><td></td><td>30.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9010</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, MA, ME, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td>9021/9029</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>MA, MK, SG</td><td>pour la mise en œuvre industrielle, sans addition de sucre ou d’autres édulcorants</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td>0812.</td><td>1000</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9010</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9080</td><td></td><td>2.—</td><td>MA, MX</td><td>fraises</td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>TN</td><td>agrumes</td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>MA</td><td>agrumes; framboises, groseilles à grappes</td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>6.50</td><td></td><td>AL, CL, EG, RS, SACU</td><td>fraises</td></tr>
+<tr><td></td><td></td><td>3.50</td><td></td><td>AL, CL, CO, EG, KR, PE, RS, SACU</td><td>autres que les fraises</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, IL</td><td></td></tr>
+<tr><td>0813.</td><td>1000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GE, IL, JP, LB, MA, ME, MK, MX, PE, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>2010/2090</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>3000</td><td></td><td>9.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>29.—</td><td></td><td>AL, BA, CL, CO, EC, EG, GE, JP, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>30.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>4011</td><td></td><td>2.40</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>7.60</td><td></td><td>AL, BA, CO, EC, EG, GE, JP, LB, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>8.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>4019</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>4020</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>4089</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>4092</td><td></td><td>8.—</td><td>TR</td><td>fruits tropicaux</td></tr>
+<tr><td></td><td>4099</td><td></td><td>8.—</td><td>MK, TR</td><td>fruits tropicaux</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP, KR</td><td>kakis (persimmon)</td></tr>
+<tr><td></td><td></td><td>2.—</td><td></td><td>CO, EG, KR, LB, PE, SACU</td><td>fruits tropicaux</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, PH</td><td></td></tr>
+<tr><td></td><td>5019</td><td></td><td>1.20</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>1.—</td><td></td><td>CO, EG, JP, KR, LB, SACU</td><td>contenant des fruits tropicaux</td></tr>
+<tr><td></td><td></td><td>1.—</td><td></td><td>AL, RS</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PE</td><td>contenant des fruits tropicaux</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, GE</td><td></td></tr>
+<tr><td></td><td>5021</td><td></td><td>2.—</td><td>JP, TR</td><td>contenant des fruits tropicaux</td></tr>
+<tr><td></td><td>5029</td><td></td><td>2.—</td><td>TR</td><td>contenant des fruits tropicaux</td></tr>
+<tr><td></td><td></td><td></td><td>2.40</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>1.—</td><td></td><td>CO, EG, JP, KR, LB, SACU</td><td>contenant des fruits tropicaux</td></tr>
+<tr><td></td><td></td><td>1.—</td><td></td><td>AL, RS</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PE</td><td>contenant des fruits tropicaux</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, GE</td><td></td></tr>
+<tr><td></td><td>5089</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>5099</td><td>exempt</td><td></td><td>CN, PH</td><td></td></tr>
+<tr><td>0814.</td><td>0000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, MA, ME, MX, PE, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>0901.</td><td>1100</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>1200</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>2100</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>2200</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9011</td><td>exempt</td><td></td><td>AL, CA, CL, GCC, JP, KR, PS, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>9019</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9020</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0902.</td><td>1000/4000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0903.</td><td>0000</td><td>exempt</td><td></td><td>CA, CAS, CL, CN, EC, GCC, GE, JP, KR, LB, MX, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0904.</td><td>1100/1200</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>2100/2200</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0905.</td><td>1000/2000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0906.</td><td>1100/1900</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>2000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, JP, KR, ME, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0907.</td><td>1000/2000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>0908.</td><td>1100</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>1200</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, GCC, GE, HK, JP, KR, ME, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>2100</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>2200</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, GCC, GE, HK, JP, KR, ME, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>3100</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>3200</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, GCC, GE, HK, JP, KR, ME, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td>0909.</td><td>2100/2200</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EG, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>3100/6110</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>6120</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MX, SG</td><td>graines de fenouil; baies de genièvre</td></tr>
+<tr><td></td><td>6210</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>6220</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EG, GCC, GE, HK, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MX, SG</td><td>graines de fenouil; baies de genièvre</td></tr>
+<tr><td>0910.</td><td>1100/1200</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>2000</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, MA, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>3000</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>9100</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CL</td><td>curry</td></tr>
+<tr><td></td><td>9900</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CA, JO, MA, MX, SG</td><td>thym; feuilles de laurier</td></tr>
+<tr><td>1001.</td><td>1100/1910</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1921</td><td></td><td>1.—</td><td>CA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1940/1990</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9910</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9940</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9990</td><td>exempt</td><td></td><td>AL, BA, CN, EC, GE, HK, KR, ME, RS, UA</td><td></td></tr>
+<tr><td>1002.</td><td>9010</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9040</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>AL, BA, CN, EC, GE, HK, JP, KR, ME, RS</td><td></td></tr>
+<tr><td>1003.</td><td>9010/9030</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9060</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>AL, BA, CN, EC, GE, HK, KR, ME, RS, UA</td><td></td></tr>
+<tr><td>1004.</td><td>9010</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9040</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>AL, BA, CN, EC, GE, HK, JP, KR, ME, RS, UA</td><td></td></tr>
+<tr><td>1005.</td><td>9010</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9021</td><td>exempt</td><td></td><td>PH</td><td></td></tr>
+<tr><td></td><td>9040</td><td>exempt</td><td></td><td>CN, PH</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, GE, HK, KR, ME, PE, PH, RS, UA</td><td></td></tr>
+<tr><td>1006.</td><td>1010</td><td></td><td>0.60</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1021/1029</td><td></td><td>0.60</td><td>TR</td><td></td></tr>
+<tr><td></td><td>1090</td><td>exempt</td><td></td><td>AL, BA, CN, EC, EG, GE, HK, KR, LB, ME, PH, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>2010</td><td></td><td>0.60</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2021/2029</td><td></td><td>0.60</td><td>TR</td><td></td></tr>
+<tr><td></td><td>2090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GE, HK, KR, LB, ME, PE, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>3010</td><td></td><td>3.—</td><td>CO, PE, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3021/3029</td><td></td><td>3.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>3090</td><td>exempt</td><td></td><td>AL, BA, CN, CO, CR, EC, EG, GE, HK, LB, ME, MK, PA, PE, PH, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>4010</td><td></td><td>3.—</td><td>CO, PE, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>4021/4029</td><td></td><td>3.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>4090</td><td>exempt</td><td></td><td>AL, BA, CN, CO, CR, EC, EG, GE, HK, LB, ME, PA, PE, PH, RS, SACU, TR</td><td></td></tr>
+<tr><td>1007.</td><td>1000</td><td>exempt</td><td></td><td>CN, CO, CR, GE, JP, KR, PE, UA</td><td></td></tr>
+<tr><td></td><td>9010</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9021</td><td></td><td>1.90</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9040</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>CN, CO, CR, GE, JP, KR, PE, UA</td><td></td></tr>
+<tr><td>1008.</td><td>1010</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1021</td><td></td><td>1.90</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1040</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1090/2100</td><td>exempt</td><td></td><td>AL, BA, CN, EC, GE, HK, JP, KR, ME, RS, UA</td><td></td></tr>
+<tr><td></td><td>2910</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2921</td><td></td><td>1.90</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2940</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2990</td><td>exempt</td><td></td><td>AL, BA, CN, EC, GE, HK, JP, KR, ME, RS, UA</td><td></td></tr>
+<tr><td></td><td>3010</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3020</td><td>24.30</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3040</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3090</td><td>exempt</td><td></td><td>AL, BA, CN, EC, EG, GE, HK, JP, KR, MA, ME, RS, UA</td><td></td></tr>
+<tr><td></td><td>4010</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>4040</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>4090</td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, GE, HK, JP, KR, MA, ME, PE, RS, UA</td><td></td></tr>
+<tr><td></td><td>5010</td><td>exempt</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>5021</td><td>exempt</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>5029</td><td>exempt</td><td></td><td>EC, PE</td><td></td></tr>
+<tr><td></td><td>5040</td><td>exempt</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>5090</td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, GE, HK, JP, KR, MA, ME, PE, RS, UA</td><td></td></tr>
+<tr><td></td><td>6020</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>6050</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>6090</td><td>exempt</td><td></td><td>AL, BA, CN, EC, GE, HK, JP, KR, MA, ME, RS, UA</td><td></td></tr>
+<tr><td></td><td>9010</td><td>exempt</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>9023</td><td>exempt</td><td></td><td>EC</td><td>amarante (Amaranthus L.)</td></tr>
+<tr><td></td><td>9024</td><td>exempt</td><td></td><td>AL, CN, EC, GE, HK, KR, RS, UA</td><td></td></tr>
+<tr><td></td><td>9027</td><td>exempt</td><td></td><td>PE</td><td>kiwicha (Amaranthus caudatus L.)</td></tr>
+<tr><td></td><td>9040</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, GE, HK, JP, KR, MA, ME, PE, RS, UA</td><td></td></tr>
+<tr><td>1101.</td><td>0041</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>0090</td><td>exempt</td><td></td><td>AL, BA, CN, EC, GE, HK, KR, ME, PH, RS, UA</td><td></td></tr>
+<tr><td>1102.</td><td>2090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GE, HK, KR, ME, PE, RS, UA</td><td></td></tr>
+<tr><td></td><td>9018</td><td>exempt</td><td></td><td>AL, BA, CN, EC, GE, HK, KR, ME, RS, UA</td><td></td></tr>
+<tr><td></td><td>9048</td><td>exempt</td><td></td><td>AL, BA, CN, EC, GE, HK, JP, KR, ME, RS, UA</td><td></td></tr>
+<tr><td></td><td>9051</td><td></td><td>6.50</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>12.80</td><td>PH</td><td></td></tr>
+<tr><td></td><td>9059</td><td>exempt</td><td></td><td>CN, EC, PH</td><td></td></tr>
+<tr><td></td><td>9069</td><td>exempt</td><td></td><td>AL, BA, CN, EC, GE, HK, KR, ME, RS, UA</td><td></td></tr>
+<tr><td>1103.</td><td>1111</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1119</td><td></td><td>6.50</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1191</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1310</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1911</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1921</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1931</td><td></td><td>0.50</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1932</td><td></td><td>0.50</td><td>TR</td><td></td></tr>
+<tr><td></td><td>1939</td><td></td><td>6.50</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1991</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2011</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2021</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2091</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td>1104.</td><td>1210</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1911</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1921</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1991</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2210</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2290/2310</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2911</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2921</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2922</td><td></td><td>6.50</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2929/2931</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2939</td><td>exempt</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>2991</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2999</td><td>exempt</td><td></td><td>CN, EC, PH</td><td></td></tr>
+<tr><td></td><td>3011</td><td></td><td>8.30</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3012</td><td></td><td>7.70</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3039</td><td></td><td>9.50</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3091</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3099</td><td>exempt</td><td></td><td>CN, CO, CR, PE</td><td></td></tr>
+<tr><td>1105.</td><td>1011</td><td>27.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1090</td><td>45.90</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2011</td><td>27.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2090</td><td>45.90</td><td></td><td>CN</td><td></td></tr>
+<tr><td>1106.</td><td>1090</td><td>exempt</td><td></td><td>CN, CO, EC, GE, PE, SACU</td><td></td></tr>
+<tr><td></td><td>2010</td><td></td><td>1.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>2090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GE, HK, KR, ME, PE, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>3090</td><td>exempt</td><td></td><td>TR</td><td>farine de bananes; de noisettes</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, GE, HK, JP, KR, LB, ME, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td>1107.</td><td>1011</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1019</td><td>exempt</td><td></td><td>CN, CO, CR, PE</td><td></td></tr>
+<tr><td></td><td>1091</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1092/1093</td><td></td><td>5.—</td><td>GE</td><td></td></tr>
+<tr><td></td><td>1099/2011</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2019</td><td>exempt</td><td></td><td>CN, CO, CR, PE</td><td></td></tr>
+<tr><td></td><td>2091</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2099</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td>1108.</td><td>1110</td><td></td><td>5.—</td><td>CO, PE, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1120</td><td></td><td>5.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>1190</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GCC, GE, HK, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>2.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1210</td><td></td><td>5.—</td><td>CO, PE, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1220</td><td></td><td>5.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>1290</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, JP, KR, ME, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>1310</td><td></td><td>3.—</td><td>CO, PE, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1320</td><td></td><td>3.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>1390</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GCC, GE, HK, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>1.60</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1410</td><td></td><td>6.—</td><td>CO, PE, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1420</td><td></td><td>6.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>1490</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GCC, GE, HK, JP, KR, ME, PE, PH, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td></td><td>1.60</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1911</td><td></td><td>3.—</td><td>CO, PE, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1912</td><td></td><td>3.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>1919</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GCC, GE, HK, JP, KR, ME, PE, PH, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td></td><td>1.60</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1991</td><td></td><td>5.—</td><td>CO, PE, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1992</td><td></td><td>5.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>1999</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GCC, GE, HK, JP, KR, ME, PE, PH, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td></td><td>2.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2010</td><td></td><td>5.—</td><td>CO, PE, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2020</td><td></td><td>5.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>2090</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GCC, GE, HK, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>2.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td>1109.</td><td>0000</td><td>1.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td>1201.</td><td>1000</td><td></td><td>0.10</td><td>CO, CR, GT, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9026/9027</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9091</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9099</td><td></td><td>0.10</td><td>CO, CR, GT, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td>1202.</td><td>3000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, EG, ME, RS, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, EC, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4123</td><td></td><td>5.10</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4124</td><td></td><td>4.35</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4126/4127</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4191</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CN, CO, EC, EG, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>4199</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, EG, ME, RS, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, EC, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4223</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>4224</td><td></td><td>5.70</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4226/4227</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4291</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CN, CO, EC, EG, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>4299</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, EG, ME, RS, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, EC, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td>1203.</td><td>0023</td><td></td><td>8.30</td><td>CN</td><td></td></tr>
+<tr><td></td><td>0024</td><td></td><td>7.70</td><td>CN</td><td></td></tr>
+<tr><td></td><td>0026/0027</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>0090</td><td>0.08</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, CR, GE, PE, PH</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td>1204.</td><td>0023</td><td></td><td>5.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>0024</td><td></td><td>4.30</td><td>CN</td><td></td></tr>
+<tr><td></td><td>0026/0027</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>0091</td><td>exempt</td><td></td><td>AL, BA, CA, CN, CR, EC, GE, GT, HK, JP, KR, ME, MX, RS</td><td></td></tr>
+<tr><td></td><td>0099</td><td>exempt</td><td></td><td>CA, GE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, CR, GT, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td>1205.</td><td>1023</td><td></td><td>5.30</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1024</td><td></td><td>4.55</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1026/1027</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1031/1039</td><td></td><td>0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1056/1057</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1061/1069</td><td></td><td>0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9023</td><td></td><td>5.30</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9024</td><td></td><td>4.55</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9026/9027</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9031/9039</td><td></td><td>0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9056/9057</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9061/9069</td><td></td><td>0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td>1206.</td><td>0026/0027</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>0031</td><td>exempt</td><td></td><td>CA, SG</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>0039</td><td>exempt</td><td></td><td>CA, SG</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>0056/0057</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>0061</td><td>exempt</td><td></td><td>CA, SG</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>0069</td><td>exempt</td><td></td><td>CA, SG</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, CR, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td>1207.</td><td>1023</td><td></td><td>6.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1024</td><td></td><td>5.30</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1026</td><td></td><td>0.25</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1027</td><td></td><td>0.30</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1091/1099</td><td>exempt</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>GE, JP, KR, LB, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2100</td><td></td><td>0.10</td><td>CO, CR, GE, GT, IL, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2923</td><td></td><td>2.85</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2924</td><td></td><td>2.15</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2926/2927</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2991/2999</td><td></td><td>0.10</td><td>CO, CR, GE, GT, IL, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3023</td><td></td><td>6.40</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3024</td><td></td><td>5.75</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3026/3027</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3091/3099</td><td>exempt</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>GE, JP, KR, LB, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4023</td><td></td><td>7.10</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4024</td><td></td><td>6.40</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4026/4027</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4091</td><td>exempt</td><td></td><td>CR, GT, MA, MX, SG</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4099</td><td></td><td>0.10</td><td>CO, CR, GE, GT, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>5023</td><td></td><td>2.85</td><td>CN</td><td></td></tr>
+<tr><td></td><td>5024</td><td></td><td>2.15</td><td>CN</td><td></td></tr>
+<tr><td></td><td>5026/5027</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>5091</td><td>exempt</td><td></td><td>CA, TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>5099</td><td>exempt</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>6023</td><td></td><td>3.55</td><td>CN</td><td></td></tr>
+<tr><td></td><td>6024</td><td></td><td>2.85</td><td>CN</td><td></td></tr>
+<tr><td></td><td>6026/6027</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>6091/6099</td><td></td><td>0.10</td><td>GE, JP, KR, LB, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>7023</td><td></td><td>7.15</td><td>CN</td><td></td></tr>
+<tr><td></td><td>7024</td><td></td><td>6.45</td><td>CN</td><td></td></tr>
+<tr><td></td><td>7026/7027</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>7091/7099</td><td>exempt</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9114</td><td></td><td>5.75</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9115</td><td></td><td>5.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9116/9117</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9118/9119</td><td></td><td>0.10</td><td>CO, GE, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9923</td><td></td><td>5.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9924</td><td></td><td>4.30</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9925/9926</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9927/9929</td><td>exempt</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, CR, GE, GT, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9984</td><td></td><td>7.15</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9985</td><td></td><td>6.45</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9986</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9987</td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9988/9989</td><td>exempt</td><td></td><td>EC, TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.10</td><td>CO, CR, GE, GT, JP, KR, LB, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.05</td><td>CN</td><td></td></tr>
+<tr><td>1208.</td><td>1090</td><td>exempt</td><td></td><td>AL, BA, CO, GE, HK, JP, KR, LB, ME, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>0.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9010</td><td></td><td>0.50</td><td>TR</td><td></td></tr>
+<tr><td></td><td>9090</td><td></td><td>0.50</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CO, GE, HK, JP, KR, LB, ME, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>0.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td>1209.</td><td>1090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2100</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>2200/2300</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, PE, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>2400</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>2500</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CN, CO, EC, GCC, GE, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>2912</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2919</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>2960</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CN, CO, EC, GCC, GE, JP, KR, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>2970</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2980</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>2990</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>3000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9100</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9912</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9919</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9999</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td>1210.</td><td>1000/2000</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td>1211.</td><td>2000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>3000/4000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>5000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, HK, IL, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MA</td><td>autres que les racines de réglisse</td></tr>
+<tr><td>1212.</td><td>2100</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, EC, EG, GCC, GE, HK, JP, KR, LB, MA, ME, MX, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>2910</td><td></td><td>0.50</td><td>MA, TR</td><td></td></tr>
+<tr><td></td><td>2990</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, EC, EG, GCC, GE, HK, JP, KR, LB, MA, ME, MX, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9190</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9210</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9299</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, MA, ME, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>9390</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>9490</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>9990</td><td>exempt</td><td></td><td>MA, TN, TR</td><td>noyaux et amandes d’abricots, de pêches (y compris les brugnons et nectarines) ou de prunes</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JO</td><td>feuilles de vigne fraîches pour l’alimentation humaine</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>SG</td><td>autres que les noyaux et amandes d’abricots, de pêches (y compris les brugnons et nectarines) ou de prunes</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td>1213.</td><td>0010</td><td>exempt</td><td></td><td>AL, BA, CN, EC, GE, HK, JP, KR, ME, MX, RS</td><td></td></tr>
+<tr><td></td><td>0091/0099</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td>1214.</td><td>1090</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td>1301.</td><td>2000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, SG</td><td></td></tr>
+<tr><td></td><td>9010</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9080</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CL</td><td>autres que la gomme laque</td></tr>
+<tr><td>1302.</td><td>1100</td><td>exempt</td><td></td><td>CN, EC, EG, GE, JP, MA, MX, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>1200/1300</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>1400</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, HK, IL, JP, KR, LB, ME, MK, MX, PE, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>1900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MA</td><td>de pyrèthre ou de racines de plantes à roténone</td></tr>
+<tr><td></td><td>2011</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>2019</td><td></td><td>26.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>2021/2029</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>2090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>3100/3900</td><td>exempt</td><td></td><td>JO, MA, TN</td><td>modifiés chimiquement</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>1401.</td><td>1000/9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>1404.</td><td>2010/2090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9080</td><td>exempt</td><td></td><td>MA</td><td>matières végétales des espèces principalement utilisées pour la fabrication des balais ou des brosses (sorgho, piassava, chiendent, istle, par exemple)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>1504.</td><td>1010</td><td>exempt</td><td></td><td>CA</td><td>sous forme de gélules conditionnées pour la vente au détail</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>IL</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>6.—</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>1091</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>1098</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>14.55</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>1099</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CA, IL</td><td>pour usages techniques ou pour l’alimentation humaine, sous forme de gélules conditionnées pour la vente au détail</td></tr>
+<tr><td></td><td></td><td></td><td>15.70</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>2010</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>2091</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>14.55</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>2099</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CA</td><td>pour usages techniques ou pour l’alimentation humaine, sous forme de gélules conditionnées pour la vente au détail</td></tr>
+<tr><td></td><td></td><td></td><td>15.70</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>3010</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>3091</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>14.55</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3099</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CA</td><td>pour usages techniques ou pour l’alimentation humaine, sous forme de gélules conditionnées pour la vente au détail</td></tr>
+<tr><td></td><td></td><td></td><td>15.70</td><td>CN</td><td></td></tr>
+<tr><td>1505.</td><td>0019</td><td>exempt</td><td></td><td>CN, EC, EG, GCC, GE, JP, KR, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>0099</td><td>exempt</td><td></td><td>EG, GCC, GE, JP, KR, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>1.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td>1506.</td><td>0091</td><td>exempt</td><td></td><td>CO, GE, JP, KR, PE, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CR, TR</td><td>huile de pied de bœuf, graisse d’os et huile d’os, pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>148.—</td><td>EG, LB</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>14.15</td><td>CN</td><td></td></tr>
+<tr><td></td><td>0099</td><td>exempt</td><td></td><td>CO, GE, JP, KR, PE, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>TR</td><td>huile de pied de bœuf, graisse d’os et huile d’os, pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>158.20</td><td>EG, LB</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>15.70</td><td>CN</td><td></td></tr>
+<tr><td>1508.</td><td>1090</td><td>exempt</td><td></td><td>AL, BA, CO, CR, GE, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9018/9019</td><td>exempt</td><td></td><td>AL, BA, CO, CR, GE, HK, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9098</td><td>exempt</td><td></td><td>AL, BA, CO, CR, GE, HK, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9099</td><td>exempt</td><td></td><td>AL, BA, CO, CR, EC, GE, HK, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td>1509.</td><td>1010</td><td></td><td>5.50</td><td>JO, JP, MA, PS, TR</td><td></td></tr>
+<tr><td></td><td>1091</td><td>exempt</td><td></td><td>AL, BA, CR, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JO</td><td>pour l’alimentation humaine: contingent tarifaire annuel de 200 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL</td><td>pour l’alimentation humaine: contingent tarifaire annuel de 500 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>TN</td><td>pour l’alimentation humaine: contingent tarifaire annuel de 1000 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>LB</td><td>autre que pour usages techniques: contingent tarifaire annuel de 500 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EG</td><td>contingent tarifaire annuel de 500 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>ME</td><td>pour l’alimentation humaine: contingent tarifaire annuel de 100 t</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>IL, JO, MA, TR</td><td>autre que pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>PS</td><td></td></tr>
+<tr><td></td><td></td><td>60.60</td><td></td><td>CL</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>40.60</td><td>GE, JP, KR, PH, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>61.—</td><td></td><td>CO, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>18.60</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1099</td><td>exempt</td><td></td><td>AL, BA, CR, EG, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EG</td><td>autre que pour usages techniques: contingent tarifaire annuel de 500 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL</td><td>pour l’alimentation humaine: contingent tarifaire annuel de 500 t</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>IL, JO, LB, MA, TN, TR</td><td>autre que pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>PS</td><td></td></tr>
+<tr><td></td><td></td><td>86.70</td><td></td><td>CL</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>57.30</td><td>GE, JP, KR, PH, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>87.—</td><td></td><td>CO, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>28.30</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9010</td><td></td><td>5.50</td><td>JO, JP, MA, PS, TR</td><td></td></tr>
+<tr><td></td><td>9091</td><td>exempt</td><td></td><td>AL, BA, CR, EG, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>EG, IL, JO, LB, MA, TN, TR</td><td>autre que pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>PS</td><td></td></tr>
+<tr><td></td><td></td><td>60.60</td><td></td><td>CL, CO, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>40.60</td><td>GE, JP, KR, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>19.40</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9099</td><td>exempt</td><td></td><td>AL, BA, CR, EG, GE, IL, JO, LB, MA, ME, PA, RS, TN, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>EG, IL, JO, LB, MA, TN, TR</td><td>autre que pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>5.50</td><td>PS</td><td></td></tr>
+<tr><td></td><td></td><td>86.70</td><td></td><td>CL</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>57.30</td><td>GE, JP, KR, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>87.—</td><td></td><td>CO, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>29.10</td><td>CN</td><td></td></tr>
+<tr><td>1510.</td><td>0091</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, GE, JP, KR, LB, MA, ME, PE, RS, TN, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>13.40</td><td>CN</td><td></td></tr>
+<tr><td></td><td>0099</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, GE, JP, KR, LB, MA, ME, PE, RS, TN, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>14.55</td><td>CN</td><td></td></tr>
+<tr><td>1511.</td><td>1090</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GT</td><td>pour la fabrication de produits du n<sup>o</sup> 2104.1000 du tarif</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GT</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
+<tr><td></td><td>9018</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9019</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9098</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9099</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td>1512.</td><td>1190</td><td>exempt</td><td></td><td>AL, BA, CO, GE, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>UA</td><td>pour l’alimentation humaine, en bouteille d’une contenance n’excédant pas 2 l, prêtes à la consommation: contingent tarifaire annuel de 200 t</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, UA</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
+<tr><td></td><td>1918/1919</td><td>exempt</td><td></td><td>AL, BA, CO, GE, KR, LB, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>1998</td><td>exempt</td><td></td><td>AL, BA, CO, GE, KR, LB, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>1999</td><td>exempt</td><td></td><td>AL, BA, CO, EC, GE, KR, LB, ME, PE, PH, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>2190</td><td>exempt</td><td></td><td>AL, BA, CO, CR, GE, KR, LB, ME, PA, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>13.40</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2991</td><td>exempt</td><td></td><td>AL, BA, CO, CR, GE, KR, LB, ME, PA, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>14.55</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2999</td><td>exempt</td><td></td><td>AL, BA, CO, CR, GE, KR, LB, ME, PA, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>15.70</td><td>CN</td><td></td></tr>
+<tr><td>1513.</td><td>1190</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GT, PH</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
+<tr><td></td><td>1918</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>1919</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PH</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
+<tr><td></td><td>1998</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PH</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
+<tr><td></td><td>1999</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PH</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
+<tr><td></td><td>2190</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GT, PH</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
+<tr><td></td><td>2918</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PH</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
+<tr><td></td><td>2919</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>2998</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>2999</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, GE, JP, KR, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GT</td><td>pour la fabrication industrielle de produits du n<sup>o</sup> 2103.9000 du tarif</td></tr>
+<tr><td>1514.</td><td>1190</td><td>exempt</td><td></td><td>AL, BA, CA, CO, CR, GE, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>1991/1999</td><td>exempt</td><td></td><td>AL, BA, CA, CO, CR, GE, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9190</td><td>exempt</td><td></td><td>AL, BA, CA, CO, CR, GE, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9991/9999</td><td>exempt</td><td></td><td>AL, BA, CA, CO, CR, GE, KR, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td>1515.</td><td>1190</td><td>exempt</td><td></td><td>AL, BA, EG, GE, KR, ME, RS</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>13.40</td><td>CN, PH</td><td></td></tr>
+<tr><td></td><td>1991</td><td></td><td>14.55</td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>1999</td><td></td><td>15.70</td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>2190</td><td>exempt</td><td></td><td>AL, BA, CO, EG, GE, KR, LB, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>2991/2999</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EG, GE, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>3091</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CO, EG, GE, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>14.55</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3099</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CO, EG, GE, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>15.70</td><td>CN, PH</td><td></td></tr>
+<tr><td></td><td>5019</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EG, GE, HK, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>13.40</td><td>CN</td><td></td></tr>
+<tr><td></td><td>5091</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EG, GE, HK, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>14.55</td><td>CN</td><td></td></tr>
+<tr><td></td><td>5099</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EG, GE, HK, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>15.70</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9013</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EG, GE, IL, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>13.10</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>9018</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EG, GE, IL, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>14.55</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>9019</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EG, GE, IL, JP, KR, LB, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>15.70</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>9021</td><td></td><td>12.—</td><td>IL</td><td></td></tr>
+<tr><td></td><td>9028</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EG, GE, IL, JP, KR, LB, MA, ME, PE, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>12.—</td><td>PH</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>12.—</td><td>IL</td><td>autre que pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>14.55</td><td>CN, EC, GE</td><td></td></tr>
+<tr><td></td><td>9029</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EG, GE, IL, JP, KR, LB, MA, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>12.—</td><td>IL</td><td>autre que pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>15.70</td><td>CN, EC, GE, PH</td><td></td></tr>
+<tr><td></td><td>9038</td><td>exempt</td><td></td><td>AL, BA, EG, GE, IL, JP, KR, LB, ME, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>14.55</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>9039</td><td>exempt</td><td></td><td>AL, BA, EG, GE, IL, JP, KR, LB, ME, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>15.70</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>9098</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EG, GE, IL, JP, KR, LB, ME, PE, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td></td><td>14.55</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>9099</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EG, GE, IL, JP, KR, LB, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>KR</td><td>huile de périlla, sous forme galénique</td></tr>
+<tr><td></td><td></td><td></td><td>15.70</td><td>CN, EC</td><td></td></tr>
+<tr><td>1516.</td><td>1010</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EG, FO, GCC, GE, HK, JO, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>entièrement fabriquées à partir de poissons ou de mammifères marins</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>entièrement fabriquées à partir de poissons</td></tr>
+<tr><td></td><td>1091</td><td>exempt</td><td></td><td>AL, BA, FO, GE, ME, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CAS, CL, CO, EC, EG, GCC, HK, JO, KR, LB, MA, MK, MX, PE, PH, PS, SACU, SG, TN, UA</td><td>pour usages techniques, entièrement fabriquées à partir de poissons ou de mammifères marins</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CA</td><td>entièrement fabriquées à partir de poissons ou de mammifères marins, pour usages techniques ou pour l’alimentation humaine, sous forme de gélules conditionnées pour la vente au détail</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>pour usages techniques, entièrement fabriquées à partir de poissons</td></tr>
+<tr><td></td><td></td><td></td><td>16.45</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1099</td><td>exempt</td><td></td><td>AL, BA, FO, GE, ME, RS, TR</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CAS, CL, CO, EC, EG, GCC, HK, JO, KR, LB, MA, MK, MX, PE, PH, PS, SACU, SG, TN, UA</td><td>pour usages techniques, entièrement fabriquées à partir de poissons ou de mammifères marins</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CA</td><td>entièrement fabriquées à partir de poissons ou de mammifères marins, pour usages techniques ou pour l’alimentation humaine, sous forme de gélules conditionnées pour la vente au détail</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>pour usages techniques, entièrement fabriquées à partir de poissons</td></tr>
+<tr><td></td><td></td><td></td><td>17.60</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2010</td><td>exempt</td><td></td><td>AL, CA, CAS, CL, CO, GCC, HK, JO, JP, KR, LB, MA, ME, MK, PE, PS, RS, SACU, SG, TN, TR, UA</td><td>huile de ricin hydrogénée («opalwax»)</td></tr>
+<tr><td></td><td>2092</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>2093</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, EG, GE, JP, KR, LB, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>2097</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>2098</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EC, EG, GE, JP, KR, LB, ME, PE, PH, RS, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>KR</td><td>huile de périlla, sous forme galénique</td></tr>
+<tr><td>1517.</td><td>1062</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1067</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1072</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1077</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1082</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1087</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1092</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1097</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9020</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9062</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9063</td><td></td><td>24.50</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>9067</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9068</td><td></td><td>24.45</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9071</td><td></td><td>22.55</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9079</td><td></td><td>23.90</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9081</td><td></td><td>20.40</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9089</td><td></td><td>21.60</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9091</td><td></td><td>18.15</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td>pour usages techniques</td></tr>
+<tr><td></td><td>9099</td><td></td><td>19.15</td><td>CN, EC, PH</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td>pour usages techniques</td></tr>
+<tr><td>1518.</td><td>0011</td><td></td><td>2.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>0019</td><td>exempt</td><td></td><td>AL, BA, CAS, CO, EG, JP, KR, LB, ME, PE, RS, SG, TR, UA</td><td>pour usages techniques</td></tr>
+<tr><td></td><td></td><td>9.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>0081</td><td></td><td>5.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>0089</td><td>exempt</td><td></td><td>AL, BA, CO, EG, GE, JP, KR, LB, ME, PE, RS, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>2.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>0092</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>0093</td><td></td><td>40.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>0097</td><td>exempt</td><td></td><td>GE, TR</td><td></td></tr>
+<tr><td></td><td></td><td>27.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td>1520.</td><td>0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>1521.</td><td>1010/9020</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>1522.</td><td>0000</td><td>exempt</td><td></td><td>TR</td><td>dégras</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td>1601.</td><td>0021</td><td>110.—</td><td></td><td>AL, CL, CN, CO, EC, GE, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>0031</td><td></td><td>15.—</td><td>CL, CN, CO, EC, GE, PE, RS, UA</td><td></td></tr>
+<tr><td></td><td></td><td>60.—</td><td></td><td>AL, KR, LB, ME, SACU</td><td></td></tr>
+<tr><td></td><td>0049</td><td>110.—</td><td></td><td>AL, CL, CN, CO, EC, GE, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td>1602.</td><td>1010</td><td>42.50</td><td></td><td>IL</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>42.50</td><td>CN, CO, EC, GE, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>2010</td><td>exempt</td><td></td><td>CAS, CN, CO, EC, GCC, GE, IL, JP, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>26.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>2089</td><td>153.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3110</td><td>exempt</td><td></td><td>IL</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>25.—</td><td>CL, CN, CO, EC, GE, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>3210</td><td></td><td>25.—</td><td>CL, CO, EC, GE, IL, KR, LB, ME, PA, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3910</td><td>exempt —</td><td></td><td>IL</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>25.—</td><td>CL, CO, EC, GE, KR, LB, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4111</td><td></td><td>52.—</td><td>CO, EC, GE, KR, LB, ME, PE, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>15.—</td><td>RS</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>23.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4910</td><td>90.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>5011</td><td></td><td>40.—</td><td>ME, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>90.—</td><td></td><td>GE, PA, UA</td><td></td></tr>
+<tr><td></td><td>5091</td><td></td><td>40.—</td><td>GE, ME, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9011</td><td>90.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td>1603.</td><td>0000</td><td>exempt</td><td></td><td>CN, EC, GE, HK, KR, MX, PH, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EG, FO, GCC, IL, JO, LB, MA, ME, MK, PE, PS, RS, SACU, SG, TN, UA</td><td>extraits et jus de viande de baleines, de poissons, de crustacés, de mollusques ou d’autres invertébrés aquatiques</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>entièrement fabriqués à partir de poissons</td></tr>
+<tr><td>1604.</td><td>1100/ 1605.6900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>1701.</td><td>1200</td><td></td><td>22.—</td><td>KR, SACU, TR</td><td></td></tr>
+<tr><td></td><td>1300/1400</td><td></td><td>22.—</td><td>KR, MX, SACU, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PH</td><td>«Muscovado» sucre de canne brun, non destiné au raffinage, pour l’alimentation humaine, non granulé, en emballages de vente au détail d’un poids n’excédant pas 1 kg: contingent tarifaire annuel de 100 t (n<sup>os</sup> du tarif 1701.1300 et 1400)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td>«Panela» sucre de canne brun, non destiné au raffinage, pour l’alimentation humaine, non granulé et granulé, en emballages de vente au détail d’un poids n’excédant pas 2 kg: contingent tarifaire annuel de 100 t (n<sup>os</sup> du tarif 1701.1300 et 1400)</td></tr>
+<tr><td></td><td>9190</td><td>76.50</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>76.—</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9999</td><td></td><td>22.—</td><td>KR, MX, SACU, TR</td><td>sucre cristallisé, non travaillé</td></tr>
+<tr><td>1702.</td><td>1100/1900</td><td>exempt</td><td></td><td>IL</td><td>contingent tarifaire annuel de 500 t (n<sup>os</sup> du tarif 1702.1100 et 1900)</td></tr>
+<tr><td></td><td>2010</td><td>16.80</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2020</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CN, CO, EC, GE, HK, KR, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>3029</td><td></td><td>0.40</td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>5000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CL</td><td>non destinés à l’alimentation des animaux</td></tr>
+<tr><td></td><td></td><td>3.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>6010</td><td>16.80</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>6028</td><td>exempt</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>9022</td><td></td><td>25.70</td><td>EC, GE, KR, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>19.30</td><td>CO, GCC, PE</td><td></td></tr>
+<tr><td></td><td>9023</td><td></td><td>18.70</td><td>EC, GE, KR, SACU</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>12.10</td><td>CO, GCC, PE</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>0.50</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9024</td><td>exempt</td><td></td><td>CAS, CL, EC, FO, JO, KR, MA, MX, SG, TN, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CO, GCC, GE, HK, IL, LB, ME, MK, PE, PH, PS, RS, SACU, UA</td><td>non destinés à l’alimentation des animaux</td></tr>
+<tr><td></td><td></td><td></td><td>9.35</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9028</td><td></td><td>18.70</td><td>CO, CR, EC, GCC, GE, PE, PH, SACU</td><td></td></tr>
+<tr><td>1704.</td><td>1010</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>41.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>49.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1020</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>41.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>48.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1030</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>41.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>47.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9010</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>53.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9020</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>58.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9031</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>53.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9032</td><td>exempt</td><td></td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>1.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9041</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>61.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9042</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>60.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9043</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>58.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9050</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>66.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9060</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>53.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9091</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>62.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9092</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>53.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9093</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>57.—</td><td>CN</td><td></td></tr>
+<tr><td>1801.</td><td>0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>1802.</td><td>0090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td>1803.</td><td>1000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>2000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>1804.</td><td>0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>1805.</td><td>0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>1806.</td><td>1010/1020</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2011/2019</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>1.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2071/9069</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td>1901.</td><td>1011/1019</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1021/1022</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>20.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2011/2019</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2081/2089</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2091/2098</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>20.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9011/9019</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9021/9022</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>20.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9031</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL,KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>1.35</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9032</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL,KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9033</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL,KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>25.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9034</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL,KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>37.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9035</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL,KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>31.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9036</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL,KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>41.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9037</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL,KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>1.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9041/9047</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9081/9089</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9091/9096</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>20.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9099</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>1902.</td><td>1110/1910</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1990</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>9.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2000</td><td>em</td><td></td><td>CAS, EC, GE, JO, MA, PH, TN</td><td></td></tr>
+<tr><td></td><td></td><td>em</td><td></td><td>AL, BA, CA, CL, CO, GCC, HK, IL, KR, LB, ME, MK, PE, PS, RS, SACU, SG, TR, UA</td><td>ne contenant pas plus de 20 % de saucisse, de saucisson, de viande, d’abats, de sang ou d’une combinaison de ces produits</td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3000</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>55.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4011</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4019</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>3.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4090</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td>1903.</td><td>0000</td><td>1.80</td><td></td><td>JO, MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>1904.</td><td>1010</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1090</td><td>18.—</td><td></td><td>JO, MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>4.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2000</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3000</td><td>110.—</td><td></td><td>JO, MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9010</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9020</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9090</td><td>4.80</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>grains de céréales, concassés et préparés pour la fabrication de corn-flakes et produits similaires</td></tr>
+<tr><td></td><td></td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td>autres que les grains de céréales, concassés et préparés pour la fabrication de corn-flakes et produits similaires</td></tr>
+<tr><td></td><td></td><td></td><td>50.—</td><td>CN</td><td></td></tr>
+<tr><td>1905.</td><td>1010</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>15.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1020/3194</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>60.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3210</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>27.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>3220</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>60.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4010</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>27.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>4021/4029</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>60.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9025/9029</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>1.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9031/9032</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>15.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9039</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>31.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9040</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9071/9078</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL,JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9079</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL,JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>20.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9081</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>27.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9082</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>47.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9083</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>84.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9084</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>60.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9085</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>80.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9086</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>60.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9089</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>71.—</td><td>CN</td><td></td></tr>
+<tr><td>2001.</td><td>9011</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JO, JP, KR, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9019</td><td>28.80</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PH</td><td></td></tr>
+<tr><td></td><td></td><td>16.—</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9020</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9031</td><td>45.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9091</td><td>17.70</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>14.—</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9092</td><td>exempt</td><td></td><td>CAS, CN, CO, EC, GE, PE, PH</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CL, GCC, HK, IL, LB, ME, MK, PS, RS, SACU, SG, TR, UA</td><td>cœurs de palmier; ignames, patates douces et parties comestibles similaires de plantes dont la teneur en fécule est de 5 % en poids ou plus</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>cœurs de palmiers</td></tr>
+<tr><td></td><td>9098</td><td>exempt</td><td></td><td>JO, PS</td><td>olives</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MA, TR</td><td>olives et câpres</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MK, SACU</td><td>olives et câpres; champignons</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>gingembre et échalotes</td></tr>
+<tr><td></td><td></td><td></td><td>25.—</td><td>TR</td><td>piments du genre Capsicum ou du genre Pimenta; champignons</td></tr>
+<tr><td></td><td></td><td></td><td>25.—</td><td>MA, MX</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
+<tr><td></td><td></td><td></td><td>25.—</td><td>PS</td><td>piments du genre Capsicum</td></tr>
+<tr><td></td><td></td><td>17.50</td><td></td><td>KR, RS</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CO, PE</td><td>piments du genre Capsicum ou du genre Pimenta, olives, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>17.50</td><td></td><td>BA</td><td>piments du genre Capsicum ou du genre Pimenta, champignons et olives</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, GE, IL, PH</td><td></td></tr>
+<tr><td>2002.</td><td>1010</td><td></td><td>6.50</td><td>MA, MK, TR</td><td></td></tr>
+<tr><td></td><td></td><td>2.50</td><td></td><td>AL, BA, CO, EC, JO, JP, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, GE, IL</td><td></td></tr>
+<tr><td></td><td>1020</td><td></td><td>11.50</td><td>IL, MA, MK, TR</td><td></td></tr>
+<tr><td></td><td></td><td>4.50</td><td></td><td>AL, BA, CO, EC, JO, JP, ME, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, GE</td><td></td></tr>
+<tr><td></td><td>9010</td><td></td><td>6.50</td><td>MA</td><td></td></tr>
+<tr><td></td><td></td><td>2.50</td><td></td><td>JO</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9021</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9029</td><td></td><td>11.50</td><td>MA, MX</td><td></td></tr>
+<tr><td></td><td></td><td>4.50</td><td></td><td>JO</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>2003.</td><td>1000</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, MA, ME, MK, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>9010</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, MA, ME, MK, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td>2004.</td><td>1012</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1014</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1092</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1094</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9011</td><td></td><td>8.40</td><td>MA, MX</td><td></td></tr>
+<tr><td></td><td></td><td>20.60</td><td></td><td>AL, JP, KR, ME, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>21.—</td><td></td><td>CO, PE, PH</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, GE</td><td></td></tr>
+<tr><td></td><td>9012</td><td>exempt</td><td></td><td>AL, CAS, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, MA, ME, PE, PH, PS, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>9013</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9018</td><td></td><td>10.—</td><td>MA, MK</td><td>pois, haricots et oignons</td></tr>
+<tr><td></td><td></td><td>32.50</td><td></td><td>AL, CO, EC, GE, JP, KR, ME, PE, PH, RS</td><td></td></tr>
+<tr><td></td><td></td><td>34.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td>piments du genre Capsicum ou du genre Pimenta, carottes, aulx, betteraves rouges, choux, choux-brocolis</td></tr>
+<tr><td></td><td>9028</td><td>45.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9039</td><td></td><td>10.—</td><td>MA</td><td>pois, haricots et oignons</td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>MK</td><td>pois, haricots et oignons; mélanges de tomates et poivrons «Ajvar»</td></tr>
+<tr><td></td><td></td><td>32.50</td><td></td><td>AL, CO, JP, KR, ME, PE, PH, RS</td><td></td></tr>
+<tr><td></td><td></td><td>25.50</td><td></td><td>CN, EC, GE</td><td></td></tr>
+<tr><td></td><td>9041</td><td></td><td>6.—</td><td>MA, MX, TR</td><td></td></tr>
+<tr><td></td><td></td><td>11.—</td><td></td><td>AL, CL, CO, GT, JP, ME, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>20.60</td><td></td><td>KR</td><td></td></tr>
+<tr><td></td><td></td><td>10.20</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>9042</td><td>exempt</td><td></td><td>AL, CAS, CN, CO, EC, GCC, GE, IL, JO, JP, KR, MA, ME, PE, PH, PS, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>9043</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9049</td><td></td><td>14.—</td><td>MA, MK</td><td>pois, haricots et oignons</td></tr>
+<tr><td></td><td></td><td>45.50</td><td></td><td>AL, CO, JP, KR, ME, PE, PH, RS</td><td></td></tr>
+<tr><td></td><td></td><td>35.70</td><td></td><td>CN, EC, GE</td><td></td></tr>
+<tr><td></td><td>9069</td><td></td><td>14.—</td><td>MA</td><td>pois, haricots et oignons</td></tr>
+<tr><td></td><td></td><td></td><td>14.—</td><td>MK</td><td>pois, haricots et oignons; mélanges de tomates et poivrons «Ajvar»</td></tr>
+<tr><td></td><td></td><td>45.50</td><td></td><td>AL, CO, JP, KR, ME, PE, RS</td><td></td></tr>
+<tr><td></td><td></td><td>35.70</td><td></td><td>CN, EC, GE, PH</td><td></td></tr>
+<tr><td>2005.</td><td>1000</td><td>exempt</td><td></td><td>CO, EC, PH</td><td></td></tr>
+<tr><td></td><td></td><td>44.10</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2011/2012</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2021</td><td>45.—</td><td></td><td>CN, EC, PH</td><td></td></tr>
+<tr><td></td><td>2092</td><td>45.—</td><td></td><td>CN, EC, PH</td><td></td></tr>
+<tr><td></td><td>4090</td><td></td><td>14.—</td><td>MA, MK</td><td></td></tr>
+<tr><td></td><td></td><td>45.50</td><td></td><td>AL, BA, CO, EC, GE, GT, ME, PE, PH, RS</td><td></td></tr>
+<tr><td></td><td>5110</td><td>38.25</td><td></td><td>CN, EC, PH</td><td></td></tr>
+<tr><td></td><td>5190</td><td></td><td>14.—</td><td>MA, MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>45.50</td><td></td><td>AL, BA, CO, KR, ME, PE, RS</td><td></td></tr>
+<tr><td></td><td></td><td>35.70</td><td></td><td>CN, EC, GE, PH</td><td></td></tr>
+<tr><td></td><td>6010</td><td>15.50</td><td></td><td>PE</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>6090</td><td></td><td>6.—</td><td>MA, MX, TR</td><td></td></tr>
+<tr><td></td><td></td><td>8.—</td><td></td><td>AL, BA, CL, CO, GT, ME, RS</td><td></td></tr>
+<tr><td></td><td></td><td>9.80</td><td></td><td>KR, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>7.—</td><td></td><td>PE</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, GE</td><td></td></tr>
+<tr><td></td><td>7010/7090</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, IL, JO, JP, KR, LB, MA, ME, PE, PS, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>8000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9110</td><td>17.50</td><td></td><td>CO, EC, GE, PE</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9190</td><td>24.50</td><td></td><td>CO, EC, GE, PE</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, PH</td><td></td></tr>
+<tr><td></td><td>9911</td><td></td><td>25.—</td><td>MK, PS, TR</td><td>piments du genre Capsicum, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td></td><td>25.—</td><td>MA</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
+<tr><td></td><td></td><td></td><td>25.—</td><td>MX</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
+<tr><td></td><td></td><td>17.50</td><td></td><td>KR</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
+<tr><td></td><td></td><td>17.50</td><td></td><td>LB</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
+<tr><td></td><td></td><td>17.50</td><td></td><td>BA, CO</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>10.—</td><td></td><td>PE</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td>piments du genre Capsicum ou du genre Pimenta, carottes, aulx, choux, choux-brocolis</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>IL</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>17.50</td><td></td><td>IL</td><td>autres que piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>21.25</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>17.50</td><td></td><td>GE, PH</td><td></td></tr>
+<tr><td></td><td></td><td>10.—</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9921</td><td>45.—</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td></td><td>40.—</td><td></td><td>PH</td><td></td></tr>
+<tr><td></td><td>9939</td><td></td><td>25.—</td><td>TR</td><td>piments du genre Capsicum, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td></td><td>25.—</td><td>MA</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
+<tr><td></td><td></td><td></td><td>25.—</td><td>MK</td><td>mélanges de tomates et poivrons «Ajvar»; piments du genre Capsicum, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>17.50</td><td></td><td>KR</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
+<tr><td></td><td></td><td>17.50</td><td></td><td>LB</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>IL</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>17.50</td><td></td><td>IL</td><td>autres que piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>17.50</td><td></td><td>BA, CO</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>10.—</td><td></td><td>PE</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA</td><td>mélanges de tomates et poivrons «Ajvar»</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td>piments du genre Capsicum ou du genre Pimenta, tomates, concombres, carottes, aulx, betteraves rouges, choux, sans autres légumes</td></tr>
+<tr><td></td><td></td><td>21.25</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>17.50</td><td></td><td>EC, GE, PH</td><td></td></tr>
+<tr><td></td><td>9941</td><td></td><td>35.—</td><td>MK, PS, TR</td><td>piments du genre Capsicum, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td></td><td>35.—</td><td>MA</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
+<tr><td></td><td></td><td></td><td>35.—</td><td>MX</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
+<tr><td></td><td></td><td>24.50</td><td></td><td>KR</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
+<tr><td></td><td></td><td>24.50</td><td></td><td>LB</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
+<tr><td></td><td></td><td>24.50</td><td></td><td>BA, CO</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>IL</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>24.50</td><td></td><td>IL</td><td>autre que piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>24.50</td><td></td><td>GT</td><td>piments du genre Capsicum ou du genre Pimenta, cœurs de palmiers, aulx et pacaya</td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>PE</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td>piments du genre Capsicum ou du genre Pimenta, concombres, carottes, aulx, choux</td></tr>
+<tr><td></td><td></td><td>29.75</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>24.50</td><td></td><td>GE, PH</td><td></td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9951</td><td>63.—</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td>9969</td><td></td><td>35.—</td><td>TR</td><td>piments du genre Capsicum, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td></td><td>35.—</td><td>MK</td><td>mélanges de tomates et poivrons «Ajvar»; piments du genre Capsicum, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td></td><td>35.—</td><td>MA</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
+<tr><td></td><td></td><td></td><td>35.—</td><td>MX</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
+<tr><td></td><td></td><td>24.50</td><td></td><td>KR</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts (sans autres légumes)</td></tr>
+<tr><td></td><td></td><td>24.50</td><td></td><td>LB</td><td>piments du genre Capsicum ou du genre Pimenta</td></tr>
+<tr><td></td><td></td><td>24.50</td><td></td><td>BA, CO</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>IL</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>24.50</td><td></td><td>IL</td><td>autres que piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>24.50</td><td></td><td>GT</td><td>piments du genre Capsicum ou du genre Pimenta, cœurs de palmiers, aulx, mini-épis de maïs et pacaya</td></tr>
+<tr><td></td><td></td><td>15.—</td><td></td><td>PE</td><td>piments du genre Capsicum ou du genre Pimenta, câpres et artichauts</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>KR</td><td>choux ou radis fermentés et assaisonnés («Kimchi»), conditionnés pour la vente au détail</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA</td><td>mélanges de tomates et poivrons «Ajvar»</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td>piments du genre Capsicum ou du genre Pimenta, tomates, carottes, aulx, betteraves rouges, choux, sans autres légumes</td></tr>
+<tr><td></td><td></td><td>29.75</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>24.50</td><td></td><td>EC, GE, PH</td><td></td></tr>
+<tr><td>2006.</td><td>0010</td><td>exempt</td><td></td><td>AL, BA, CL, CN, CO, CR, EC, GCC, GE, GT, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>0020</td><td></td><td>22.50</td><td>MA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>0080</td><td></td><td>9.—</td><td>TR</td><td>ananas</td></tr>
+<tr><td></td><td></td><td></td><td>22.50</td><td>IL</td><td>agrumes</td></tr>
+<tr><td></td><td></td><td></td><td>22.50</td><td>MA, MK</td><td>autres que les pommes et les poires</td></tr>
+<tr><td></td><td></td><td>9.50</td><td></td><td>JO, KR</td><td>agrumes</td></tr>
+<tr><td></td><td></td><td>9.50</td><td></td><td>CO, SACU</td><td>autres que les pommes et les poires</td></tr>
+<tr><td></td><td></td><td>9.50</td><td></td><td>AL, RS</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CO, SACU</td><td>ananas</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PE</td><td>autres que les pommes et les poires</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, GE, PH</td><td></td></tr>
+<tr><td>2007.</td><td>1000</td><td>exempt</td><td></td><td>TR</td><td>d’ananas ou de fruits tropicaux</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CL, EG, LB</td><td>de fruits tropicaux</td></tr>
+<tr><td></td><td></td><td>em</td><td></td><td>AL, BA, CA, CAS, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td></td><td>em</td><td></td><td>CL, LB</td><td>autres que de fruits tropicaux</td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9110</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>9120</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9911</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9919</td><td>exempt</td><td></td><td>TR</td><td>pâtes de châtaigne et de noisette, fruits de la passion, litchis et jackfruits</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>9921</td><td>exempt</td><td></td><td>CL, EG, JO, LB, MK, SG, TR</td><td></td></tr>
+<tr><td></td><td></td><td>em</td><td></td><td>AL, BA, CA, CAS, CO, EC, GCC, GE, HK, IL, JP, KR, ME, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9929</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>14.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>TR</td><td>ananas</td></tr>
+<tr><td>2008.</td><td>1110</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>59.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1190</td><td>exempt</td><td></td><td>CAS, CL, CN, EC, EG, GCC, GE, IL, JP, KR, LB, MA, MK, MX, PH, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CO, HK, ME, PE, PS, RS</td><td>arachides grillées</td></tr>
+<tr><td></td><td>1910</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>1990</td><td></td><td>7.50</td><td>MA, MK, TR</td><td>noisettes, pistaches</td></tr>
+<tr><td></td><td></td><td></td><td>7.50</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>3.50</td><td></td><td>AL, BA, CL, CO, EC, EG, GT, JP, KR, LB, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, GE, PH</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>IL</td><td>noisettes, pistaches</td></tr>
+<tr><td></td><td>2000</td><td></td><td>10.—</td><td>MA, MX, TR</td><td></td></tr>
+<tr><td></td><td></td><td>8.—</td><td></td><td>UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, MK, PE, PH, RS, SACU, SG</td><td></td></tr>
+<tr><td></td><td>3010</td><td></td><td>12.50</td><td>IL, MA, MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>5.50</td><td></td><td>AL, BA, CL, CO, EG, GT, KR, LB, ME, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, EC, GE</td><td></td></tr>
+<tr><td></td><td>3090</td><td>exempt</td><td></td><td>CN, CO, EC, GE, PE, PH, SACU</td><td></td></tr>
+<tr><td></td><td>4090</td><td>22.80</td><td></td><td>CN, PH</td><td></td></tr>
+<tr><td></td><td>5010</td><td>10.—</td><td></td><td>CO, EC, GE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>18.90</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>5090</td><td>15.—</td><td></td><td>CO, EC, GE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>20.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>7010/7090</td><td>exempt</td><td></td><td>CN, CO, EC, GE, PE, SACU</td><td></td></tr>
+<tr><td></td><td>8000</td><td></td><td>6.—</td><td>MA, MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>19.50</td><td></td><td>AL, CO, KR, PE, RS</td><td></td></tr>
+<tr><td></td><td></td><td>15.30</td><td></td><td>CN, EC, GE</td><td></td></tr>
+<tr><td></td><td>9100</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9310</td><td></td><td>5.—</td><td>MA, MK</td><td></td></tr>
+<tr><td></td><td></td><td>13.—</td><td></td><td>AL, BA, CO, GT, KR, ME, PE, PH, RS</td><td></td></tr>
+<tr><td></td><td></td><td>10.80</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>9390</td><td></td><td>6.—</td><td>MA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>AL, BA, CO, GT, KR, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>15.30</td><td></td><td>CN, EC</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE, PH</td><td></td></tr>
+<tr><td></td><td>9711</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>MA</td><td>ne contenant pas de cœurs de palmiers</td></tr>
+<tr><td></td><td>9799</td><td></td><td>20.—</td><td>IL, MK, TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>20.—</td><td>MA</td><td>ne contenant pas de cœurs de palmiers</td></tr>
+<tr><td></td><td></td><td>8.—</td><td></td><td>AL, BA, CO, EC, GT, KR, ME, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>16.80</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>9911</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, HK, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9919</td><td></td><td>5.—</td><td>MA, MK</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>6.—</td><td>TR</td><td>de bananes</td></tr>
+<tr><td></td><td></td><td>13.—</td><td></td><td>AL, BA, CO, GT, KR, ME, PE, RS</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CR, SACU</td><td>de bananes</td></tr>
+<tr><td></td><td></td><td>10.80</td><td></td><td>CN, EC, GE</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td>pas à base de fruits à pépins, de cerises ou de pruneaux</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PH</td><td></td></tr>
+<tr><td></td><td>9996</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9997</td><td></td><td>6.—</td><td>MA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>5.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>AL, BA, CO, CR, GT, KR, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>15.30</td><td></td><td>CN, GE, PH</td><td></td></tr>
+<tr><td></td><td></td><td>10.80</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9998</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9999</td><td>exempt</td><td></td><td>HK</td><td>gingembre</td></tr>
+<tr><td></td><td></td><td>69.30</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>61.60</td><td></td><td>PH</td><td></td></tr>
+<tr><td></td><td></td><td>50.—</td><td></td><td>EC</td><td></td></tr>
+<tr><td>2009.</td><td>1110</td><td>exempt</td><td></td><td>AL, BA, CAS, GCC, JO, JP, KR, MA, ME, PS, RS, SG, TR, UA</td><td>concentrés</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CL, CN, CO, EC, EG, GE, IL, LB, MX, PE, SACU</td><td></td></tr>
+<tr><td></td><td>1120</td><td></td><td>14.—</td><td>MA, PS</td><td>concentrés</td></tr>
+<tr><td></td><td></td><td></td><td>14.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>35.—</td><td></td><td>JO, KR, UA</td><td>concentrés</td></tr>
+<tr><td></td><td></td><td>35.—</td><td></td><td>AL, CAS, CO, EC, EG, GE, IL, LB, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CN</td><td></td></tr>
+<tr><td></td><td>1210</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, IL, JP, LB, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td>1220</td><td></td><td>14.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>35.—</td><td></td><td>AL, CAS, CO, EG, GE, IL, LB, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CN, EC, PH</td><td></td></tr>
+<tr><td></td><td>1930</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>1940</td><td></td><td>14.—</td><td>MA, PS</td><td>concentrés</td></tr>
+<tr><td></td><td></td><td></td><td>14.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>35.—</td><td></td><td>JO, KR</td><td>concentrés</td></tr>
+<tr><td></td><td></td><td>35.—</td><td></td><td>AL, CAS, CO, EC, EG, GE, IL, LB, ME, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CN, PH</td><td></td></tr>
+<tr><td></td><td>2110</td><td>exempt</td><td></td><td>BA, CN, IL</td><td></td></tr>
+<tr><td></td><td>2120</td><td></td><td>14.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>35.—</td><td></td><td>AL, CO, EC, EG, GE, GT, IL, JO, KR, LB, ME, PA, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CN</td><td></td></tr>
+<tr><td></td><td>2910</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, EG, GCC, GE, IL, JO, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>2920</td><td></td><td>14.—</td><td>MA</td><td>concentrés</td></tr>
+<tr><td></td><td></td><td></td><td>14.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>35.—</td><td></td><td>AL, CO, EC, EG, GE, GT, IL, JO, KR, LB, ME, PA, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CN, PH</td><td></td></tr>
+<tr><td></td><td>3111</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, MA, ME, MX, PE, RS, SACU, SG, UA</td><td></td></tr>
+<tr><td></td><td>3119</td><td></td><td>14.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>6.—</td><td></td><td>AL, CO, IL, ME, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PE</td><td>jus de citron et jus de lime</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CN, EC, GE</td><td></td></tr>
+<tr><td></td><td>3120</td><td>exempt</td><td></td><td>BA, CN, EC</td><td></td></tr>
+<tr><td></td><td>3911</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, IL, JP, KR, LB, MA, ME, MX, PE, PH, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>3919</td><td></td><td>14.—</td><td>MA, MX, TR</td><td></td></tr>
+<tr><td></td><td></td><td>6.—</td><td></td><td>AL, CA, CAS, CO, EG, JO, KR, LB, ME, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PE</td><td>jus de citron et jus de lime</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CN, EC, GE, IL, PH</td><td></td></tr>
+<tr><td></td><td>3920</td><td>exempt</td><td></td><td>BA, CN, EC</td><td></td></tr>
+<tr><td></td><td>4110</td><td></td><td>11.—</td><td>MA, TR</td><td></td></tr>
+<tr><td></td><td></td><td>3.—</td><td></td><td>GT, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CL, CN, CO, CR, EC, EG, GCC, GE, JP, KR, LB, ME, MX, PA, PE, PH, RS, SACU, SG</td><td></td></tr>
+<tr><td></td><td>4120</td><td></td><td>28.—</td><td>MA, TR</td><td></td></tr>
+<tr><td></td><td></td><td>7.—</td><td></td><td>UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td>4910</td><td></td><td>11.—</td><td>MA, TR</td><td></td></tr>
+<tr><td></td><td></td><td>3.—</td><td></td><td>UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, MX, PA, PE, PH, RS, SACU, SG</td><td></td></tr>
+<tr><td></td><td></td><td>5.—</td><td></td><td>CR, GT</td><td></td></tr>
+<tr><td></td><td>4920</td><td></td><td>28.—</td><td>MA, TR</td><td></td></tr>
+<tr><td></td><td></td><td>7.—</td><td></td><td>UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CL, CN, CO, EC, EG, GCC, GE, GT, JP, KR, LB, ME, MX, PA, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>10.—</td><td></td><td>CR</td><td></td></tr>
+<tr><td></td><td>5000</td><td></td><td>10.—</td><td>IL, MA, MK</td><td></td></tr>
+<tr><td></td><td></td><td>4.—</td><td></td><td>JO</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, EG, GE, GT, KR, LB, ME, MX, PE, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td>6111</td><td>27.—</td><td></td><td>BA</td><td></td></tr>
+<tr><td></td><td></td><td>20.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>6122</td><td>40.—</td><td></td><td>BA</td><td></td></tr>
+<tr><td></td><td></td><td>30.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>6910</td><td>50.—</td><td></td><td>AL, CAS, CL, CN, CO, EG, GE, KR, LB, MA, ME, MK, PE, PS, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, EC, IL</td><td></td></tr>
+<tr><td></td><td>7111</td><td>18.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>7121</td><td>30.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>7910</td><td>50.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>8110</td><td></td><td>5.60</td><td>MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>14.40</td><td></td><td>EG, LB</td><td></td></tr>
+<tr><td></td><td></td><td>14.—</td><td></td><td>CO, PE</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, EC, GE, ME, RS, UA</td><td></td></tr>
+<tr><td></td><td></td><td>10.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>8120</td><td></td><td>14.—</td><td>MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>45.50</td><td></td><td>AL, BA, CO, EC, EG, LB, ME, PE, RS</td><td></td></tr>
+<tr><td></td><td></td><td>47.60</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>GE</td><td></td></tr>
+<tr><td></td><td>8910</td><td></td><td>4.—</td><td>MA, MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>10.—</td><td></td><td>AL, CO, CR, EG, JP, KR, LB, ME, PA, PE, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, EC, GE</td><td></td></tr>
+<tr><td></td><td></td><td>8.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>8921</td><td>18.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>8931</td><td>30.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>8941</td><td>50.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>8981</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>8989</td><td>exempt</td><td></td><td>MA, SACU, TR</td><td>de dattes</td></tr>
+<tr><td></td><td></td><td></td><td>5.60</td><td>MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>14.40</td><td></td><td>EG, LB</td><td></td></tr>
+<tr><td></td><td></td><td>14.—</td><td></td><td>CO, PE</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, EC, GE, ME, PH, RS, UA</td><td></td></tr>
+<tr><td></td><td></td><td>10.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>8991</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, MA, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>8999</td><td>exempt</td><td></td><td>MA, SACU, TR</td><td>de dattes</td></tr>
+<tr><td></td><td></td><td></td><td>14.—</td><td>MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>45.50</td><td></td><td>AL, BA, CO, EG, GE, LB, ME, PA, PE, PH, RS</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>RS</td><td>de framboises ou de cerises acides (griottes)</td></tr>
+<tr><td></td><td></td><td>47.60</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9011</td><td></td><td>4.—</td><td>MA, MK</td><td></td></tr>
+<tr><td></td><td></td><td>16.—</td><td></td><td>AL, BA, CN, CR, EC, EG, KR, LB, ME, PA, PH, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td>6.—</td><td></td><td>CO, GE, PE</td><td></td></tr>
+<tr><td></td><td>9029</td><td></td><td>4.—</td><td>MA, MK, MX</td><td></td></tr>
+<tr><td></td><td></td><td>13.—</td><td></td><td>AL, CO, CR, EG, JP, KR, LB, ME, PA, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CN, EC, GE, PH</td><td></td></tr>
+<tr><td></td><td>9030</td><td>469.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9031</td><td>50.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9041</td><td>14.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9051</td><td>25.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9061</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9069</td><td>exempt</td><td></td><td>TR</td><td>à base d’ananas</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CO, EC, EG, GE, KR, LB, ME, MX, PH, RS</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>SACU</td><td>de dattes</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PE</td><td>ne contenant pas de jus de raisin ni de jus de fraises</td></tr>
+<tr><td></td><td></td><td></td><td>5.60</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>5.60</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9071</td><td>35.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9081</td><td>63.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9098</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, EG, GCC, GE, JP, KR, LB, ME, MK, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9099</td><td>exempt</td><td></td><td>TR</td><td>à base d’ananas</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CO, EC, EG, GE, KR, LB, ME, MX, PH, RS</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>SACU</td><td>de dattes</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>PE</td><td>ne contenant pas de jus de raisin ni de jus de fraises</td></tr>
+<tr><td></td><td></td><td></td><td>14.—</td><td>MK</td><td></td></tr>
+<tr><td></td><td></td><td>14.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td>2101.</td><td>1100</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>1211</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td>CL maximum 127.50</td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1219</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>1291</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1299</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>em</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>2011</td><td>exempt</td><td></td><td>CL, MX, SG, TR</td><td></td></tr>
+<tr><td></td><td></td><td>em</td><td></td><td>AL, BA, CA, CAS, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2019</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>2091</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>2099</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>3000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JO, MA, TN</td><td>autres que chicorée torréfiée et ses extraits, essences et concentrés</td></tr>
+<tr><td>2102.</td><td>1091</td><td></td><td>10.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td>1099</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>2011</td><td></td><td>6.—</td><td>TR</td><td>levures naturelles, mortes</td></tr>
+<tr><td></td><td>2019</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JO, MA, TN</td><td>levures naturelles, mortes</td></tr>
+<tr><td></td><td>2029</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>3000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>2103.</td><td>1000/2000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>3011</td><td></td><td>5.—</td><td>JP, TR</td><td></td></tr>
+<tr><td></td><td>3018/3019</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>autres que le chutney de mangue liquide</td></tr>
+<tr><td>2104.</td><td>1000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>2000</td><td>exempt</td><td></td><td>LB, MX</td><td></td></tr>
+<tr><td></td><td></td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JP, KR, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>2.—</td><td>CN</td><td></td></tr>
+<tr><td>2105.</td><td>0010/0053</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>10.—</td><td>CN</td><td></td></tr>
+<tr><td>2106.</td><td>1011</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>72.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>1019</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9010</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9021/9023</td><td>em</td><td></td><td>CAS, CL, EC, GE, IL, JO, JP, MA, PH, TN</td><td></td></tr>
+<tr><td></td><td></td><td>em</td><td></td><td>AL, BA, CA, CO, GCC, HK, KR, LB, ME, MK, PE, PS, RS, SACU, SG, TR, UA</td><td>autres que les sirops de sucre additionnés de colorants ou aromatisés</td></tr>
+<tr><td></td><td></td><td></td><td>120.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9024</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9029</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9030</td><td>20.—</td><td></td><td>JO, MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9040</td><td>em</td><td></td><td>IL, JO, JP, MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9050</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9060/9073</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9074</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9075</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9076</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9094</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9095</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9096</td><td>em</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>44.—</td><td>CN</td><td></td></tr>
+<tr><td></td><td>9099</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>2201.</td><td>1000/9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>2202.</td><td>1000</td><td>2.—</td><td></td><td>JO, MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9100</td><td>2.—</td><td></td><td>JO, MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9911</td><td>exempt</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9921</td><td>45.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9931</td><td>22.95</td><td></td><td>CN, PH</td><td></td></tr>
+<tr><td></td><td></td><td>4.—</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9932</td><td>53.55</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>29.75</td><td></td><td>PH</td><td></td></tr>
+<tr><td></td><td></td><td>7.—</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9941</td><td>21.60</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9951</td><td>25.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9969</td><td>21.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>11.90</td><td></td><td>PH</td><td></td></tr>
+<tr><td></td><td>9971</td><td>18.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9989</td><td>15.30</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9990</td><td>2.—</td><td></td><td>JO, MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>2203.</td><td>0010</td><td>6.—</td><td></td><td>MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>0020</td><td>3.50</td><td></td><td>MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>0031</td><td>6.—</td><td></td><td>MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>0039</td><td>8.—</td><td></td><td>MA, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>2204.</td><td>1000</td><td></td><td>26.—</td><td>IL, MA, MK, TR</td><td></td></tr>
+<tr><td></td><td></td><td>65.—</td><td></td><td>AL, BA, CA, CO, GE, JP, KR, ME, PE, RS, SACU, TN</td><td></td></tr>
+<tr><td></td><td></td><td>72.80</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2150</td><td></td><td>17.50</td><td>MA, MK</td><td></td></tr>
+<tr><td></td><td></td><td>7.50</td><td></td><td>BA, CA, CO, JP, KR, PE, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE, IL, ME, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>20.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2241/2242</td><td>exempt</td><td></td><td>GE, IL, ME, SACU</td><td></td></tr>
+<tr><td></td><td>2250</td><td></td><td>15.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>17.50</td><td>MA, MK</td><td></td></tr>
+<tr><td></td><td></td><td>10.—</td><td></td><td>UA</td><td></td></tr>
+<tr><td></td><td></td><td>7.50</td><td></td><td>AL, BA, CO, PE</td><td></td></tr>
+<tr><td></td><td></td><td>8.—</td><td></td><td>CA, JP, KR, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE, IL, ME, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>20.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2943/2944</td><td>exempt</td><td></td><td>GE, IL, ME, SACU</td><td></td></tr>
+<tr><td></td><td>2960</td><td></td><td>15.—</td><td>TR</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>17.50</td><td>MA, MK</td><td></td></tr>
+<tr><td></td><td></td><td>10.—</td><td></td><td>UA</td><td></td></tr>
+<tr><td></td><td></td><td>7.50</td><td></td><td>AL, BA, CO, PE</td><td></td></tr>
+<tr><td></td><td></td><td>8.—</td><td></td><td>CA, JP, KR, TN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE, IL, ME, RS, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>20.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3000</td><td>exempt</td><td></td><td>CN, CO, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td>2205.</td><td>1010/9020</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>2206.</td><td>0020</td><td>28.—</td><td></td><td>GE, JP</td><td></td></tr>
+<tr><td></td><td></td><td>44.80</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>0090</td><td>exempt</td><td></td><td>KR</td><td>boissons fermentées à base de riz: «Cheong ju», «Yak ju», «Tak ju», «Makkoli»</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>vin de riz (saké)</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CN, PH</td><td></td></tr>
+<tr><td>2207.</td><td>1000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, EC, GE, IL, JP, MA, MX, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>2000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>2208.</td><td>2011/3020</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>4010/4020</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>5011/6020</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>7000</td><td>exempt</td><td></td><td>MA, TN</td><td>sucrées ou contenant des œufs</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9010/9022</td><td>exempt</td><td></td><td>AL, BA, CA, CL, CN, CO, CR, EC, GCC, GE, HK, JP, KR, LB, ME, MK, MX, PA, PE, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9091</td><td>451.80</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9099</td><td>exempt</td><td></td><td>AL, BA, CA, CL, CN, CO, CR, EC, GCC, GE, HK, JP, KR, LB, ME, MK, PA, PE, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>45.—</td><td></td><td>MA, TN</td><td>boissons distillées, édulcorées, même aromatisées: sucrées ou contenant des œufs</td></tr>
+<tr><td>2209.</td><td>0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td>2301.</td><td>1090</td><td>exempt</td><td></td><td>CA, CR, FO, GT, JO, LB, MA, MK, PS, TN, TR, UA</td><td>de baleines</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, KR, ME, MX, PA, PE, RS, SACU, SG</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td>entièrement fabriqués à partir de poissons</td></tr>
+<tr><td></td><td>2090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, UA</td><td></td></tr>
+<tr><td>2302.</td><td>1090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>3010</td><td>81.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>3090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>4010</td><td>81.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>4080</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>4099</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>5090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
+<tr><td>2303.</td><td>1090</td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, SG</td><td></td></tr>
+<tr><td></td><td>2090</td><td>exempt</td><td></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU</td><td></td></tr>
+<tr><td></td><td>3090</td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, SG</td><td></td></tr>
+<tr><td>2304.</td><td>0090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td>2305.</td><td>0090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
+<tr><td>2306.</td><td>1090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>2090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, TR, UA</td><td></td></tr>
+<tr><td></td><td>3090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>4190</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>4990</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>5090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>6090</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, TR</td><td></td></tr>
+<tr><td></td><td>9019</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td></td><td>9029</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR</td><td></td></tr>
+<tr><td>2307.</td><td>0000</td><td>exempt</td><td></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU</td><td></td></tr>
+<tr><td>2308.</td><td>0090</td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU</td><td></td></tr>
+<tr><td>2309.</td><td>1010</td><td>exempt</td><td></td><td>CA, EC, GE, PH</td><td></td></tr>
+<tr><td></td><td></td><td>4.70</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1021</td><td></td><td>7.50</td><td>EC, PH, TR</td><td></td></tr>
+<tr><td></td><td></td><td>6.40</td><td></td><td>GE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>10.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1029</td><td>exempt</td><td></td><td>CA</td><td>contingent tarifaire annuel de 1000 t</td></tr>
+<tr><td></td><td></td><td></td><td>7.50</td><td>EC, PH, TR</td><td></td></tr>
+<tr><td></td><td></td><td>8.80</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1091</td><td>10.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1099</td><td>5.50</td><td></td><td>EC, GE, PH, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>8.40</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9020</td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, FO, GCC, GE, HK, JP, KR, ME, MX, PE, RS, SACU, SG</td><td></td></tr>
+<tr><td></td><td>9030</td><td>exempt</td><td></td><td>CN, JP, KR, MX, SG</td><td></td></tr>
+<tr><td></td><td>9049</td><td>exempt</td><td></td><td>AL, CA, CAS, CL, EG, GCC, HK, JO, KR, LB, MA, ME, MK, MX, PH, PS, RS, SACU, SG, TN, UA</td><td>solubles de poissons</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>BA, CN, CO, EC, GE, JP, PE</td><td></td></tr>
+<tr><td></td><td>9082</td><td>exempt</td><td></td><td>CO, EC</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>12.—</td><td>PE</td><td></td></tr>
+<tr><td></td><td>9089</td><td>exempt</td><td></td><td>EC</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, ME, MX, PE, PH, RS, SACU, SG</td><td></td></tr>
+<tr><td>2401.</td><td>1010</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>1090</td><td>exempt</td><td></td><td>CN, EC, PH</td><td></td></tr>
+<tr><td></td><td>2010</td><td>exempt</td><td></td><td>AL, BA, CAS, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>2090</td><td>exempt</td><td></td><td>CN, EC, PH</td><td></td></tr>
+<tr><td></td><td>3010</td><td>exempt</td><td></td><td>AL, BA, CAS, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, PH, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>3090</td><td>exempt</td><td></td><td>CN, EC, PH</td><td></td></tr>
+<tr><td>2402.</td><td>1000</td><td></td><td>290.—</td><td>MX</td><td></td></tr>
+<tr><td></td><td></td><td>1155.—</td><td></td><td>CO, CR</td><td></td></tr>
+<tr><td></td><td></td><td>1156.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>EC, GE, PE, PH</td><td></td></tr>
+<tr><td></td><td>2010</td><td>exempt</td><td></td><td>SACU</td><td>beedies</td></tr>
+<tr><td></td><td></td><td>560.—</td><td></td><td>JP</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CO, CR, EC, GE, GT, PE, PH</td><td></td></tr>
+<tr><td></td><td></td><td>896.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>2020</td><td>exempt</td><td></td><td>SACU</td><td>beedies</td></tr>
+<tr><td></td><td></td><td>372.—</td><td></td><td>JP</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>CO, CR, EC, GE, GT, PE, PH</td><td></td></tr>
+<tr><td></td><td></td><td>595.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9000</td><td>979.20</td><td></td><td>CN, PH</td><td></td></tr>
+<tr><td>2403.</td><td>1100</td><td>497.70</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1900</td><td>497.70</td><td></td><td>CN, PH</td><td></td></tr>
+<tr><td></td><td>9100</td><td>exempt</td><td></td><td>CO, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>51.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9910</td><td>exempt</td><td></td><td>CO, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>884.—</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9920</td><td>exempt</td><td></td><td>CN, CO, GCC, GE, JP, KR, PE, SACU</td><td></td></tr>
+<tr><td></td><td>9930</td><td>exempt</td><td></td><td>AL, BA, CN, CO, EC, GCC, GE, HK, JP, KR, ME, PE, RS, SACU, SG</td><td></td></tr>
+<tr><td></td><td>9940</td><td>exempt</td><td></td><td>AL, BA, CL, CN, CO, EC, GCC, GE, HK, JP, KR, LB, ME, MX, PE, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9990</td><td>497.70</td><td></td><td>CN</td><td></td></tr>
+<tr><td>2501.</td><td>0010/ 2904.9900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>2905.</td><td>1110/4200</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>4300/4500</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>4910/5990</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>2906.</td><td>1110/ 3215.9090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3301.</td><td>1200/ 3302.1000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3302</td><td>9000/ 3407.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3501.</td><td>1010</td><td>exempt</td><td></td><td>GE, JP, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>3.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>1090</td><td>em</td><td></td><td>JP</td><td></td></tr>
+<tr><td></td><td>9011</td><td>4.—</td><td></td><td>FO, JO, MA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE, JP, SACU</td><td></td></tr>
+<tr><td></td><td></td><td>3.20</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9019</td><td>em</td><td></td><td>JP</td><td></td></tr>
+<tr><td></td><td></td><td>3.60</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9091</td><td>15.—</td><td></td><td>FO, JO, MA</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>JP</td><td></td></tr>
+<tr><td></td><td>9099</td><td>em</td><td></td><td>JP</td><td></td></tr>
+<tr><td>3502.</td><td>1110</td><td></td><td>80.—</td><td>FO, JO, MA</td><td>impropre ou rendue impropre à la consommation humaine</td></tr>
+<tr><td></td><td></td><td>175.—</td><td></td><td>GE, SACU</td><td></td></tr>
+<tr><td></td><td>1190</td><td></td><td>80.—</td><td>FO, JO, MA</td><td>impropre ou rendue impropre à la consommation humaine</td></tr>
+<tr><td></td><td>1910</td><td>exempt</td><td></td><td>FO, JO, MA</td><td>impropre ou rendue impropre à la consommation humaine</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>GE, SACU</td><td></td></tr>
+<tr><td></td><td>1990</td><td></td><td>80.—</td><td>FO, JO, MA</td><td>impropre ou rendue impropre à la consommation humaine</td></tr>
+<tr><td></td><td>2000</td><td>exempt</td><td></td><td>FO, JO, MA, TR</td><td>impropre ou rendue impropre à la consommation humaine</td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, GCC, GE, HK, IL, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TN, UA</td><td></td></tr>
+<tr><td></td><td></td><td>1.60</td><td></td><td>CN</td><td></td></tr>
+<tr><td></td><td>9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td></td><td>1.60</td><td></td><td>CN</td><td></td></tr>
+<tr><td>3503.</td><td>0000/ 3504.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3505.</td><td>1090</td><td>exempt</td><td></td><td>CN, CO, EC, FO, GE, JO, JP, LB, MA, MK, PE, SACU, TN</td><td></td></tr>
+<tr><td></td><td>2090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3506.</td><td>1000/9180</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9910</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9990</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3507.</td><td>1010/ 3808.9900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3809.</td><td>1010</td><td></td><td>4.50</td><td>FO, MA</td><td></td></tr>
+<tr><td></td><td>1090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9100/9300</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3810.</td><td>1000/ 3822.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3823.</td><td>1190</td><td></td><td>1.—</td><td>IL, TR</td><td></td></tr>
+<tr><td></td><td></td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, JO, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TN, UA</td><td></td></tr>
+<tr><td></td><td>1290</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>1300</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>1990/7000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, GCC, GE, HK, IL, JO, JP, KR, LB, ME, MK, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3824.</td><td>1010</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>1090/5000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>6000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>7100/9920</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9991</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9999</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3825.</td><td>1000/6900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td></td><td>9010</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TR, UA</td><td></td></tr>
+<tr><td></td><td>9090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3826.</td><td>0010/0090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>3901.</td><td>1000/ 4017.0090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>4101.</td><td>2000/ 4103.9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>4104.</td><td>1100/ 4206.0090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>4301.</td><td>1000/9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>4302.</td><td>1100/ 4421.9900</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>4501.</td><td>1000/9090</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, UA</td><td></td></tr>
+<tr><td>4502.</td><td>0000/ 4911.9990</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>5001.</td><td>0000/ 5003.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>5004.</td><td>0010/ 5007.9030</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>5101.</td><td>1100/ 5103.3000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>5104.</td><td>0000/ 5113.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>5201.</td><td>0010/ 5203.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>5204.</td><td>1100/ 5212.2500</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
+<tr><td>5301.</td><td>1000/ 5302.9000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, UA</td><td></td></tr>
+<tr><td>5303.</td><td>1000/ 9706.0000</td><td>exempt</td><td></td><td>AL, BA, CA, CAS, CL, CN, CO, EC, EG, FO, GCC, GE, HK, IL, JO, JP, KR, LB, MA, ME, MK, MX, PE, PH, PS, RS, SACU, SG, TN, TR, UA</td><td></td></tr>
 </table>
 
 Annexe 3*[^t-4]*
