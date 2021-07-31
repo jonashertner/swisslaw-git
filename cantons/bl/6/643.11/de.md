@@ -3,20 +3,20 @@ canton: BL
 number: "643.11"
 title: Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule)
 language: de
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-09-15
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-29
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/643.11"
-pdf: "https://bl.clex.ch/api/de/versions/2728/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3054/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule)
 
-Vom 13.05.2003 (Stand 01.08.2020)
+Vom 13.05.2003 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -132,9 +132,10 @@ beschliesst:
 <sup>3</sup> Der Kanton Basel-Landschaft bietet an Fachmittelschulen folgende Berufsfelder an:
 
 - a. Pädagogik;
-- b. Gesundheit;
-- c. Soziales;
-- d. Kunst.
+- b. Gesundheit/Naturwissenschaften;
+- c. Soziale Arbeit;
+- d. Gestaltung und Kunst;
+- e. Musik.
 
 #### § 8a
 
@@ -208,32 +209,37 @@ beschliesst:
 
 <sup>1</sup> Die folgenden Stammfächer werden im Halbklassen-Unterricht von maximal 12 Schülerinnen und Schülern unterrichtet:
 
-- a. Computeranwendungen;
-- b. Biologie-Praktikum;
-- c. Chemie-Praktikum;
-- d. Physik-Praktikum.
+- a. …
+- b. Biologie-Praktikum.
+- c. …
+- d. …
 
 <sup>2</sup> ...
 
-<sup>3</sup> Bei den Berufsfeldfächern und den Berufsfeld-Ergänzungskursen sind folgende Zahlen einzuhalten:
+<sup>3</sup> Bei den Berufsfeldfächern und den Berufsfeld-Plus-Kursen sind folgende Zahlen einzuhalten:
 
-- a. Ein Berufsfeld wird geführt, wenn sich pro Schule mindestens 6 Schülerinnen und Schüler anmelden.
-- b. Die Klassengrösse in Berufsfeld-Fächern und Berufsfeld-Ergänzungskursen, die nicht im Halbklassen-Unterricht geführt werden, beträgt maximal 24 Schülerinnen und Schüler.
-- c. Gleiche Berufsfeldfächer verschiedener Berufsfelder können zusammengelegt werden; die Berufsfeld-Ergänzungskurse Werken, Pädagogik / Psychologie werden nach Möglichkeit mit den Berufsfeld-Fächern zusammengelegt.
-- d. Folgende Berufsfeld-Fächer und Berufsfeld-Ergänzungskurse werden im Halbklassen-Unterricht mit maximal 12 Schülerinnen und Schülern geführt:
-  - 1\. Werken (Berufsfeld Pädagogik, Soziales, Kunst),
-  - 2\. Chemie-Praktikum (Berufsfeld Gesundheit),
-  - 3\. Physik-Praktikum (Berufsfeld Gesundheit),
-  - 4\. Gestalten am Computer (Berufsfeld Kunst),
-  - 5\. Hauswirtschaft (Berufsfeld-Ergänzungskurs),
-  - 6\. Textiles Gestalten (Berufsfeld-Ergänzungskurs),
-  - 7\. Laborarbeit (Berufsfeld-Ergänzungskurs).
-- e. Für die Berufsfeld-Ergänzungskurse beträgt die mittlere Teilnehmerzahl über alle Kurse mindestens 10 Schülerinnen und Schüler; Kurse, die mit andern Berufsfeld-Fächern oder Freifächern zusammengelegt werden, werden geführt, falls die entsprechenden Fächer zustande gekommen sind.
-- f. Der Berufsfeld-Ergänzungskurs Instrumentalunterricht wird in Abweichung von Bst. e im Einzelunterricht erteilt und zählt nicht mit zur mittleren Teilnehmerzahl.
+- a. Ein Berufsfeld wird an einer Schule geführt, wenn sich pro Schule mindestens 6 Schülerinnen und Schüler anmelden.
+- a<sup>bis</sup>. Wird die Mindestanzahl Schülerinnen und Schülern an einer Schule gemäss Bst. a nicht erreicht, kann ein Berufsfeld trotzdem geführt werden, sofern sich kantonal mindestens 6 Schülerinnen und Schüler für ein Berufsfeld anmelden.
+- b. Die Klassengrösse in Berufsfeld-Fächern und Berufsfeld-Plus-Kursen, die nicht im Halbklassen-Unterricht geführt werden, beträgt maximal 24 Schülerinnen und Schüler.
+- c. Gleiche Berufsfeldfächer verschiedener Berufsfelder können nicht zusammengelegt werden. Davon abweichend können im Berufsfeldfach Informatik maximal 2 Berufsfelder gemeinsam unterrichtet werden.
+- d. Folgende Berufsfeld-Fächer und Berufsfeld-Plus-Kurse werden im Halbklassen-Unterricht mit maximal 12 Schülerinnen und Schülern geführt:
+  - 1\. Werken (Berufsfeld Pädagogik, Soziale Arbeit, Gestaltung und Kunst);
+  - 2\. Chemie-Praktikum (Berufsfeld Gesundheit/Naturwissenschaften, Pädagogik);
+  - 3\. Physik-Praktikum (Berufsfeld Gesundheit/Naturwissenschaften, Pädagogik);
+  - 4\. Gestalten am Computer (Berufsfeld Gestaltung und Kunst);
+  - 5\. Ernährungslehre (Berufsfeld-Plus-Kurs);
+  - 6\. Textiles Gestalten (Berufsfeld-Plus-Kurs);
+  - 7\. Einführung Laborarbeit (Berufsfeld-Plus-Kurs);
+  - 8\. Informatik (alle Berufsfelder);
+  - 9\. Gehörbildung (Berufsfeld Pädagogik, Musik).
+- e. Für die Berufsfeld Plus-Kurse beträgt die mittlere Teilnehmerzahl über alle Kurse mindestens 12 Schülerinnen und Schüler.
+- f. …
 
-<sup>4</sup> Für den Methodenzentrierten Unterricht stehen zusätzlich 0,5 Jahreslektionen als Pool für die Arbeit am Portfolio, selbst organisierten Lernen und Lernberatung zur Verfügung.
+<sup>4</sup> …
 
-<sup>5</sup> Für die Projektarbeit stehen pro 3 laut Stundentafel zu erteilenden Lektionen zusätzlich höchstens 3 weitere zur Verfügung. In diesem Rahmen können neben den Lehrerinnen und Lehrern externe Fachleute zugezogen werden.
+<sup>4<sup>bis</sup></sup> Für den kantonalen Lernbereich «Schulspezifisches» stehen pro 5 laut Stundentafel zu erteilenden Lektionen zusätzlich 4 weitere Lektionen für Projektarbeiten, Arbeit am Portfolio, selbst organisiertes Lernen und die Lernberatung zur Verfügung. In diesem Rahmen können von den Lehrpersonen externe Fachpersonen zugezogen werden.
+
+<sup>5</sup> …
 
 <sup>6</sup> Für die Freifächer sind zu Beginn des Kurses folgende Schülerzahlen einzuhalten:
 
@@ -685,6 +691,14 @@ beschliesst:
 <sup>1</sup> Für Schülerinnen und Schüler, die im Schuljahr 2011/2012 die 3. Klasse der FMS besuchen, gilt § 12a in der Fassung vom 11. Mai 2004[^44a-1].
 
 [^44a-1]: GS 35.145
+
+#### § 44b
+
+**Übergangsbestimmungen zur Änderung vom 29. Juni 2021**
+
+<sup>1</sup> Für Schülerinnen und Schüler, die bis und mit Schuljahr 2020/21 in die FMS eingetreten sind, gelten die Bestimmungen gemäss der am 1. August 2020 gültigen Fassung.
+
+<sup>2</sup> Bei Remotionen oder anderen Verzögerungen der schulischen Laufbahn sowie bei Beschleunigungen derselben kommen die Bestimmungen der entsprechenden Jahrgangsstufe zur Anwendung.
 
 #### § 45
 
