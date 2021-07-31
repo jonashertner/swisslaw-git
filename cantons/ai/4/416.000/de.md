@@ -4,285 +4,311 @@ number: "416.000"
 title: Gesetz über Ausbildungsbeiträge
 short: AusbG
 language: de
-version: 2014-08-01
-corrected: 2018-11-03
-version_adopted: 2014-04-27
+version: 2021-08-01
+version_adopted: 2021-05-09
 adopted: 2021-05-09
 in_force: 2021-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/416.000"
-pdf: "https://ai.clex.ch/api/de/versions/479/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/1953/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über Ausbildungsbeiträge
 
-vom 26. April 19871
+(AusbG)
 
-Die Landsgemeinde des Kantons Appenzell I. Rh.,
+vom 09.05.2021 (Stand 01.08.2021)
 
-gestützt auf Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,2
+Die Landsgemeinde des Kantons Appenzell I.Rh.,
+
+gestützt auf Art. 20 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,
 
 beschliesst:
 
-### I. Sicherung des Zugangs zu ausserkantonalen Ausbildungseinrichtungen3
+## I. Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Grundsatz**
+
+<sup>1</sup> Der Kanton gewährt Ausbildungsbeiträge in Form von Stipendien und Darlehen, wenn die finanziellen Verhältnisse der Person in Ausbildung, ihrer Eltern oder anderer gesetzlich Verpflichteter nicht ausreichen.
+
+#### Art. 2
+
+**Zweck**
+
+<sup>1</sup> Ausbildungsbeiträge sollen den Zugang zur Bildung erleichtern, die Chancengleichheit fördern und die Existenzsicherung während der Ausbildung unterstützen.
+
+<sup>2</sup> Bei der Gewährung von Ausbildungsbeiträgen soll die freie Wahl der Ausbildung und der Ausbildungsstätte gewährleistet werden.
+
+#### Art. 3
+
+**Anspruchsvoraussetzungen**
+
+<sup>1</sup> Anspruch auf Ausbildungsbeiträge hat, wer
+
+- a) beitragsberechtigt ist;
+- b) im Kanton stipendienrechtlichen Wohnsitz hat;
+- c) eine anerkannte Ausbildung absolviert und
+- d) einen finanziellen Bedarf nachweist.
+
+## II. Beitragsberechtigung
+
+#### Art. 4
+
+**Mit Schweizer Bürgerrecht**
+
+<sup>1</sup> Eine Person mit Schweizer Bürgerrecht ist beitragsberechtigt, wenn sie in der Schweiz zivilrechtlichen Wohnsitz hat.
+
+<sup>2</sup> Für eine Ausbildung in der Schweiz ist eine Person mit schweizerischem Bürgerrecht auch dann beitragsberechtigt, wenn
+
+- a) die Eltern im Ausland wohnen oder sie verwaist ist und im Ausland wohnt und
+- b) sie an ihrem ausländischen Wohnort wegen fehlender Zuständigkeit keine Ausbildungsbeiträge erhält.
+
+#### Art. 5
+
+**Ohne Schweizer Bürgerrecht**
+
+<sup>1</sup> Eine Person ohne Schweizer Bürgerrecht ist beitragsberechtigt, wenn sie in der Schweiz zivilrechtlichen Wohnsitz hat und
+
+- a) über eine Niederlassungsbewilligung verfügt oder seit fünf Jahren in der Schweiz aufenthaltsberechtigt ist und über eine Aufenthaltsbewilligung verfügt oder
+- b) von der Schweiz als staatenlos oder als Flüchtling anerkannt ist oder
+- c) Bürgerin oder Bürger eines Staats ist, deren Staatsangehörige für Ausbildungsbeiträge aufgrund internationaler Übereinkommen Schweizer Staatsangehörigen gleichgestellt sind.
+
+## III. Stipendienrechtlicher Wohnsitz
+
+#### Art. 6
+
+**Eltern**
+
+<sup>1</sup> Eine Person hat stipendienrechtlichen Wohnsitz im Kanton, wenn
+
+- a) ihre Eltern zivilrechtlichen Wohnsitz im Kanton haben, oder
+- b) die appenzell-innerrhodische Kindes- und Erwachsenenschutzbehörde zuletzt für die Person zuständig war.
+
+<sup>2</sup> Ausserdem haben stipendienrechtlichen Wohnsitz im Kanton:
+
+- a) Personen mit appenzell-innerrhodischem Bürgerrecht, deren Eltern nicht in der Schweiz wohnen oder die elternlos im Ausland wohnen; haben sie mehrere Kantonsbürgerrechte, haben sie stipendienrechtlichen Wohnsitz im Kanton, wenn sie das appenzell-innerrhodische Bürgerrecht als letztes erworben haben.
+- b) Staatenlose und dem Kanton zugewiesene Flüchtlinge, wenn sie volljährig sind und zivilrechtlichen Wohnsitz im Kanton haben.
+
+<sup>3</sup> Haben die Eltern den zivilrechtlichen Wohnsitz an verschiedenen Orten, ist der Wohnsitz der bisherigen oder letzten Inhaberin oder des bisherigen oder letzten Inhabers der elterlichen Sorge massgebend. Bei gemeinsamer elterlicher Sorge ist der Wohnsitz des Elternteils massgebend, unter dessen Obhut die Person hauptsächlich steht oder zuletzt stand. Begründen die Eltern ihren Wohnsitz an verschiedenen Orten erst nach Mündigkeit der Person in Ausbildung, ist der Wohnsitz des Elternteils massgebend, bei dem die Person sich hauptsächlich aufhält.
+
+#### Art. 7
+
+**Erwerb oder Familienhaushalt**
+
+<sup>1</sup> Eine Person hat stipendienrechtlichen Wohnsitz im Kanton, wenn sie nach Abschluss einer ersten berufsbefähigenden Ausbildung und vor Beginn der Ausbildung, für die sie Ausbildungsbeiträge beansprucht, während mindestens zwei Jahren ununterbrochen den zivilrechtlichen Wohnsitz im Kanton hatte und durch eigenen Erwerb finanziell unabhängig war.
+
+<sup>2</sup> Dem Abschluss einer ersten berufsbefähigenden Ausbildung gleichgestellt ist die mindestens vierjährige finanzielle Unabhängigkeit durch eigene Erwerbstätigkeit; als eigene Erwerbstätigkeit gilt auch die Führung eines Familienhaushalts mit Unmündigen oder Pflegebedürftigen, Militär- und Zivildienst sowie Arbeitslosigkeit.
+
+<sup>3</sup> Der Grosse Rat kann die berufsbefähigenden Ausbildungen näher umschreiben.
+
+#### Art. 8
+
+**Fortdauer**
+
+<sup>1</sup> Der einmal begründete stipendienrechtliche Wohnsitz bleibt bis zum Erwerb eines neuen bestehen.
+
+## IV. Ausbildungen
+
+#### Art. 9
+
+**Beitragsberechtigte Ausbildung**
+
+<sup>1</sup> Ausbildungsbeiträge werden gewährt für Ausbildungen, die zu einem anerkannten Abschluss auf folgenden Ausbildungsstufen führen:
+
+- a) Sekundarstufe II (berufliche Grundbildung und Mittelschulen);
+- b) Tertiärstufe (Hochschulen und höhere Berufsbildung).
+
+<sup>2</sup> Der Grosse Rat bestimmt, welche Abschlüsse anerkannt werden.
+
+<sup>3</sup> Ausbildungsbeiträge werden weiter gewährt für
+
+- a) Brückenangebote, sofern eine Beteiligung an ihren Kosten bewilligt worden ist;
+- b) Passerellen;
+- c) Weiterbildungen und
+- d) Doktorate und Nachdiplomstudien.
+
+<sup>4</sup> Ausgeschlossen sind Ausbildungsbeiträge für Ausbildungen der Sekundarstufe I.
+
+#### Art. 10
+
+**Voraussetzungen**
+
+<sup>1</sup> Die Gewährung von Ausbildungsbeiträgen setzt voraus, dass die Aufnahme‑ oder Promotionsbedingungen erfüllt werden.
+
+<sup>2</sup> Ausbildungsbeiträge werden für Ausbildungen in der Schweiz ausgerichtet. Für eine Ausbildung im Ausland werden sie ausgerichtet, wenn
+
+- a) es sich um ein Hochschulstudium handelt, oder
+- b) sie der Ausbildung in der Schweiz gleichwertig ist.
+
+## V. Form und Dauer der Ausbildungsbeiträge
+
+#### Art. 11
+
+**Beitragsarten**
+
+<sup>1</sup> Stipendien sind einmalige oder wiederkehrende Geldleistungen, die für die Ausbildung ausgerichtet werden und in der Regel nicht zurückzuzahlen sind.
+
+<sup>2</sup> Darlehen sind einmalige oder wiederkehrende Geldleistungen, die für die Ausbildung ausgerichtet werden und zurückzuzahlen und zu verzinsen sind.
+
+#### Art. 12
+
+**Form der Beitragsgewährung**
+
+<sup>1</sup> Ausbildungsbeiträge für die Erstausbildung auf der Sekundarstufe II und auf der Tertiärstufe werden als Stipendien ausgerichtet. Ergänzend können Darlehen gewährt werden.
+
+<sup>2</sup> Wird die Erstausbildung oder ein Teil davon nach dem 35. Lebensjahr begonnen, wird der Ausbildungsbeitrag als Darlehen ausgerichtet. Die Standeskommission kann Ausnahmen festlegen.
+
+<sup>3</sup> Ausbildungsbeiträge für die Zweitausbildung, Weiterbildungen, Doktorats- und Nachdiplomstudien werden als Darlehen gewährt. Die Standeskommission kann Ausnahmen festlegen.
+
+<sup>4</sup> Ausbildungsbeiträge für Brückenangebote werden nur in Form von Stipendien ausgerichtet.
+
+#### Art. 13
+
+**Erst- und Zweitausbildung**
+
+<sup>1</sup> Die Erstausbildung umfasst die Ausbildungen nach Beendigung der allgemeinen Schulpflicht bis zum Abschluss einer beruflichen Grundbildung oder einer Mittelschule und die weiterführenden Ausbildungen bis zum Abschluss eines Masterstudiums, solange sie auf einer bereits abgeschlossenen Ausbildung aufbauen.
+
+<sup>2</sup> Eine Zweitausbildung liegt vor, soweit eine Ausbildung nicht auf einem in der Erstausbildung erworbenen Abschluss aufbaut.
 
 #### Art. 14
 
-**Zugang zu ausserkantonalen Ausbildungseinrichtungen**
+**Dauer**
 
-<sup>1</sup> Der Kanton sorgt im Rahmen seiner Möglichkeiten dafür, dass Kantonseinwohner\* Zugang zu weiterführenden Schulen ausser Kantons erhalten.
+<sup>1</sup> Ausbildungsbeiträge werden für die reglementarische Minimaldauer der Ausbildung ausgerichtet. Bei Ausbildungsgängen von mehr als einem Jahr besteht der Anspruch bis zwei Semester über die reglementarische Minimaldauer hinaus.
 
-<sup>2</sup> Die Standeskommission schliesst zu diesem Zweck Vereinbarungen mit den Trägern dieser Schulen ab und kann sich entsprechenden Trägerverbänden anschliessen.
+<sup>2</sup> Ausnahmsweise können für eine längere Dauer Ausbildungsbeiträge gewährt werden, namentlich wenn sich der Abschluss der Ausbildung aus sozialen, wirtschaftlichen, familiären oder gesundheitlichen Gründen verzögert hat.
 
-<sup>3</sup> Der Abschluss solcher Verträge oder der Beitritt zu solchen Verbänden bedarf der Genehmigung des Grossen Rates.
+#### Art. 15
 
-<sup>4</sup> Vorbehalten bleiben die besonderen Bestimmungen über die Volksschulen, das Gymnasium und die Berufsbildung.
+**Wechsel der Ausbildung vor Abschluss**
 
-### II. Stipendien und Studiendarlehen5
+<sup>1</sup> Bei einem Wechsel der Ausbildung bleibt der Anspruch auf Ausbildungsbeiträge bestehen. Die Dauer der Beitragsberechtigung richtet sich nach der neuen Ausbildung. In begründeten Fällen kann die Dauer der Beitragsberechtigung angemessen gekürzt werden.
+
+<sup>2</sup> Wird die Ausbildung auf der gleichen Ausbildungsstufe zum zweiten Mal gewechselt, erlischt der Anspruch auf Stipendien. Der Anspruch auf Darlehen bleibt bestehen.
+
+## VI. Finanzieller Bedarf und Beitragshöhe
+
+#### Art. 16
+
+**Finanzieller Bedarf**
+
+<sup>1</sup> Der finanzielle Bedarf umfasst die für die Lebenshaltung und Ausbildung notwendigen Kosten, sofern sie die zumutbare Eigenleistung der Person in Ausbildung und die zumutbaren Fremdleistungen ihrer Eltern oder anderer gesetzlich Verpflichteter übersteigen.
+
+<sup>2</sup> Der Person in Ausbildung werden Ausbildungsbeiträge in Höhe des finanziellen Bedarfs ausgerichtet, höchstens aber die durch den Grossen Rat festgelegten Beiträge.
+
+<sup>3</sup> Ist die angestrebte Ausbildung unter mehreren vergleichbaren nicht die kostengünstigste, können Ausbildungsbeiträge gekürzt werden. Als für die Ausbildung notwendige Kosten anzurechnen sind mindestens die Ausgaben, die der Person in Ausbildung auch bei der kostengünstigsten Lösung anfallen würden.
+
+#### Art. 17
+
+**Zumutbare Eigenleistung**
+
+<sup>1</sup> Die zumutbare Eigenleistung bemisst sich nach Vermögen und Einkommen der Person in Ausbildung. Als minimale Eigenleistung kann ein hypothetisches Einkommen angerechnet werden.
+
+#### Art. 18
+
+**Zumutbare Fremdleistung**
+
+<sup>1</sup> Die zumutbaren Fremdleistungen bemessen sich nach Vermögen und Einkommen der gesetzlich Verpflichteten.
+
+<sup>2</sup> Auf die Anrechnung der zumutbaren Leistungen der Eltern wird teilweise verzichtet, wenn die Person in Ausbildung
+
+- a) eine berufsbefähigende Ausbildung abgeschlossen hat und mindestens zwei Jahre durch eigene Erwerbstätigkeit finanziell unabhängig war; oder
+- b) eine berufsbefähigende Ausbildung abgeschlossen und das 25. Altersjahr vollendet hat; oder
+- c) während vier Jahren aufgrund von Erwerbstätigkeit, Führung eines eigenen Haushalts mit Unmündigen oder Pflegebedürftigen, Militär- und Zivildienst oder Arbeitslosigkeit finanziell von den Eltern unabhängig war; oder
+- d) verheiratet ist oder in eingetragener Partnerschaft lebt; oder
+- e) Kinder hat.
+
+#### Art. 19
+
+**Berechnungsgrundlage**
+
+<sup>1</sup> Massgebend für die Berechnung des finanziellen Bedarfs sind die tatsächlichen Einkommens- und Vermögensverhältnisse.
+
+<sup>2</sup> Diese werden in der Regel aufgrund der letzten rechtskräftigen Steuerveranlagung erhoben.
+
+## VII. Rückerstattung
+
+#### Art. 20
+
+**Rückerstattung von Ausbildungsbeiträgen**
+
+<sup>1</sup> Ausbildungsbeiträge sind zurückzuerstatten, wenn sie durch falsche oder unvollständige Angaben erwirkt oder ihrem Zweck entfremdet wurden.
+
+<sup>2</sup> Bei einem Abbruch der Ausbildung können die für die restliche Ausbildungszeit ausbezahlten Ausbildungsbeiträge zurückgefordert werden.
+
+<sup>3</sup> Der Anspruch auf Rückerstattung erlischt, wenn er nicht innert einem Jahr seit Kenntnis des Rückerstattungsgrunds geltend gemacht wird. Er erlischt in jedem Fall zehn Jahre nach der Beitragsauszahlung.
+
+#### Art. 21
+
+**Rückzahlung von Darlehen**
+
+<sup>1</sup> Darlehen sind innerhalb von zehn Jahren seit Abschluss oder Abbruch der Ausbildung zurückzubezahlen.
+
+#### Art. 22
+
+**Verzinsung**
+
+<sup>1</sup> Darlehen sind ab dem siebten Monat nach Abschluss oder Abbruch der Ausbildung zu verzinsen.
+
+<sup>2</sup> In Härtefällen kann auf die Zinszahlung ganz oder teilweise verzichtet werden.
+
+#### Art. 23
+
+**Rückzahlung von Kantonsbeiträgen an Hochschulen**
+
+<sup>1</sup> Wer nach dem vollendeten 60. Altersjahr eine Ausbildung an einer Hochschule aufnimmt, an die der Kanton aufgrund vertraglicher Verpflichtungen Beiträge leistet, hat dem Kanton die geleisteten Beiträge zurückzuerstatten.
+
+## VIII. Verfahren
+
+#### Art. 24
+
+**Mitwirkungspflichten**
+
+<sup>1</sup> Wer Ausbildungsbeiträge beansprucht, ist zur vollständigen und wahrheitsgetreuen Auskunft über die massgebenden Tatsachen verpflichtet. Wesentliche Änderungen sind unaufgefordert und unverzüglich zu melden.
+
+<sup>2</sup> Ausbildungsbeiträge können im Falle der Verletzung von Mitwirkungspflichten gekürzt sowie ganz oder teilweise widerrufen werden.
+
+<sup>3</sup> Wer in grober Weise oder wiederholt gegen Mitwirkungspflichten verstösst, kann von jeder weiteren Beitragsberechtigung ausgeschlossen werden.
+
+#### Art. 25
+
+**Datenbearbeitung und Amtshilfe**
+
+<sup>1</sup> Die Verwaltungs- und Rechtspflegebehörden des Kantons erteilen unentgeltlich die zur Prüfung von Beitragsgesuchen erforderlichen Auskünfte.
+
+<sup>2</sup> Im Rahmen des gesetzlichen Auftrags kann die AHV-Versichertennummer zur systematischen Datenverarbeitung verwendet werden.
+
+## IX. Erwachsenenbildung
 
 #### Art. 26
 
-**Grundsatz Stipendien und Studiendarlehen**
+**Förderung**
 
-<sup>1</sup> Der Kanton leistet nach diesem Gesetz und den sich darauf stützenden Ausführungsbestimmungen Beiträge in Form von nichtrückzahlbaren Stipendien oder rückzahlbaren Studiendarlehen an die Ausbildungs- und Lebenshaltungskosten während der beruflichen Vor-, Aus- und Weiterbildung.
+<sup>1</sup> Der Kanton kann im Rahmen der durch den Grossen Rat bewilligten Kredite die Erwachsenenbildung fördern.
 
-<sup>2</sup> Die Ausbildungsfinanzierung ist in erster Linie Sache der Eltern, anderer gesetzlich Verpflichteter und des Bewerbers. Ausbildungsbeiträge werden ausgerichtet, soweit die finanzielle Leistungsfähigkeit der genannten Personen nicht ausreicht.
+## X. Schluss- und Übergangsbestimmungen
 
-#### Art. 31
+#### Art. 27
 
-Beitragsberech- <sup>1</sup>Stipendien und/oder Studiendarlehen werden gewährt:
+**Vollzugsrecht**
 
-tigte Ausbil- a) für Ausbildungsgänge nach erfüllter allgemeiner Schulpflicht, welche zu einem dungsgänge ersten oder zweiten vom Kanton oder Bund anerkannten Abschluss einer beruflichen Ausbildung führen;
+<sup>1</sup> Der Grosse Rat erlässt die zum Vollzug dieses Erlasses erforderlichen Ausführungsbestimmungen.
 
-- b) für Weiterbildungen, die in der Regel das Erreichen einer höheren Stufe in der erlernten Berufsrichtung ermöglichen;
+<sup>2</sup> Für technische und verstärktem Wandel unterworfene Belange, etwa die Berechnung des finanziellen Bedarfs, können die Regelungsbefugnisse mit der Verordnung an die Standeskommission übertragen werden.
 
-- c) für Umschulungen, die auf äusseren Umständen, wie Krankheit, Invalidität oder Arbeitslosigkeit beruhen, soweit hierfür die Kosten nicht durch Leistungen der Sozial-, Kranken- oder Unfallversicherung oder durch andere Dritte gedeckt werden.
+#### Art. 28
 
-<sup>2</sup> An eine Zweitausbildung auf gleicher Stufe können Stipendien und Studiendarlehen nur aus wichtigen Gründen gewährt werden.
+**Übergangsbestimmungen**
 
-<sup>3</sup> Für eine dritte Ausbildung können nur Studiendarlehen gewährt werden.
+<sup>1</sup> Dieses Gesetz ist auf alle Gesuche anzuwenden, die nach seinem Inkrafttreten eingereicht werden.
 
-<sup>4</sup> An den Besuch von Kursen und Schulen zur beruflichen Fortbildung werden keine Stipendien oder Studiendarlehen gewährt. Als berufliche Fortbildung gilt der Besuch von Schulen und Kursen zum Erhalt und Neuerwerb von Kenntnissen in einer bereits erreichten Berufsstufe.
-
-<sup>5</sup> Beim Besuch einer anerkannten privaten oder öffentlichen Ausbildungsstätte können höchstens jene Beiträge geltend gemacht werden, die beim Besuch der nächstgelegenen öffentlichen Ausbildungsmöglichkeit gewährt würden. Auf die Ausbildungen an Lehranstalten, die aufgrund von Vereinbarungen Schüler aus dem Kanton Appenzell I. Rh. aufnehmen, an Lehrerseminarien und an schweizerischen
-
-Hochschulen findet diese Einschränkung keine Anwendung.
-
-<sup>6</sup> Stipendien oder Studiendarlehen werden nur an Ausbildungsgänge von mindestens einem halben Jahr Dauer gewährt.
-
-<sup>7</sup> Ausbildungsgänge der Sekundarstufe l können nicht stipendiert werden.
-
-#### Art. 42
-
-Ort der Eine Vor-, Aus- oder Weiterbildung hat in der Schweiz zu erfolgen. Ausgenommen Ausbildung sind:
-
-- a) der Besuch von Hochschulen und von anerkannten Priesterseminarien;
-
-- b) der Besuch von Berufs- und Fachschulen in Fällen, in denen keine gleichwertige oder keine umfassende Aus- oder Weiterbildungsmöglichkeit in der Schweiz besteht oder eine Ausbildung im Ausland aus anderen Gründen gerechtfertigt ist.
-
-#### Art. 51
-
-**Beitragsberechtigte Personen**
-
-<sup>1</sup> Anspruch auf Stipendien und Studiendarlehen haben:
-
-- a) Schweizerbürger, die im Kanton Appenzell Innerrhoden stipendienrechtlichen Wohnsitz haben;
-
-- b) im Ausland wohnhafte appenzell-innerrhodische Kantonsbürger, sofern sie sich in der Schweiz ausbilden lassen;
-
-- c) Ausländer mit Niederlassungs- oder Aufenthaltsbewilligung, wenn sie seit mindestens fünf Jahren ununterbrochen in der Schweiz, davon die letzten zwei Jahre im Kanton Wohnsitz hatten;
-
-- d) Flüchtlinge und Staatenlose mit schweizerischem Asylrecht und stipendienrechtlichem Wohnsitz im Kanton Appenzell Innerrhoden.
-
-<sup>2</sup> Bewerbern, die bei Beginn der Ausbildung das 30. Altersjahr vollendet haben, können nur Studiendarlehen gewährt werden.
-
-#### Art. 62
-
-**Stipendienrechtlicher Wohnsitz**
-
-<sup>1</sup> Der stipendienrechtliche Wohnsitz eines Bewerbers befindet sich am zivilrechtlichen Wohnsitz der Eltern bzw. des gesetzlichen Vertreters oder am Sitz der zuletzt zuständigen Kindes- und Erwachsenenschutzbehörde.
-
-<sup>2</sup> Mündige Bewerber, die nach Abschluss einer Erstausbildung und vor Beginn der neuen Ausbildung während mindestens zwei Jahren ununterbrochen im Kanton wohnhaft sowie aufgrund eigener Berufstätigkeit finanziell unabhängig waren, begründen dadurch den stipendienrechtlichen Wohnsitz im Kanton. Einer Erstausbildung wird eine mindestens vierjährige vollzeitliche Berufstätigkeit gleichgestellt. Als Berufstätigkeit gilt auch die Führung eines Familienhaushaltes.
-
-<sup>3</sup> Bürger des Kantons Appenzell Innerrhoden, deren Eltern nicht in der Schweiz wohnen oder die elternlos im Ausland wohnen (Auslandschweizer), haben bei einer Ausbildung in der Schweiz stipendienrechtlichen Wohnsitz im Kanton Appenzell Innerrhoden. Sind sie Bürger mehrerer Kantone, so sind sie im Kanton Appenzell Innerrhoden stipendienberechtigt, sofern sie das appenzell-innerrhodische Bürgerrecht zuletzt erworben haben.
-
-<sup>4</sup> Für Flüchtlinge und Staatenlose gelten die bundesrechtlichen Vorschriften.
-
-<sup>5</sup> Ein einmal erworbener stipendienrechtlicher Wohnsitz bleibt bis zur Begründung eines neuen bestehen.
-
-<sup>6</sup> Der stipendienrechtliche Wohnsitz gilt auch für die Ausrichtung von Studiendarlehen.
-
-#### Art. 71
-
-**Studiendarlehen**
-
-<sup>1</sup> Studiendarlehen können als Ergänzung oder als Ersatz der Stipendien gewährt werden. Rückzahlungen und Verzinsung werden in der Verordnung geregelt.
-
-<sup>2</sup> Die Umwandlung von Studiendarlehen in Stipendien ist ausgeschlossen.
-
-<sup>3</sup> Bei Tod oder Erwerbsunfähigkeit des Darlehensnehmers oder aus anderen wichtigen Gründen kann auf Verzinsung und Rückzahlung teilweise oder ganz verzichtet werden.
-
-#### Art. 82
-
-**Berechnungsgrundlagen**
-
-<sup>1</sup> Stipendien und Studiendarlehen entsprechen grundsätzlich den anerkannten Ausbildungs- und Lebenshaltungskosten des Bewerbers, abzüglich dessen zumutbare Eigenleistungen, der zumutbaren Leistungen seiner Eltern, seines Ehegatten, seinem eingetragenen Partner oder anderer gesetzlich Verpflichteter sowie Leistungen Dritter.
-
-<sup>2</sup> Die zumutbaren Leistungen richten sich nach den Einkommens- und Vermögensverhältnissen.
-
-<sup>3</sup> Die Einkommens- und Vermögensverhältnisse der Eltern werden nur teilweise berücksichtigt, wenn der Bewerber:
-
-- a) eine erste Ausbildung abgeschlossen hat und mindestens zwei Jahre durch eigene Erwerbstätigkeit finanziell unabhängig war;
-
-- b) das 25. Altersjahr vollendet und eine erste Ausbildung abgeschlossen hat;
-
-- c) das 25. Altersjahr vollendet hat und verheiratet ist;
-
-- d) eine erste Ausbildung abgeschlossen hat und verheiratet ist.
-
-<sup>4</sup> Befinden sich beide Ehegatten oder eingetragene Partner in Ausbildung, wird die Beitragsberechtigung für jede Person aufgrund ihrer Verhältnisse, unter Berücksichtigung der finanziellen Verhältnisse ihrer Eltern bzw. der für ihre Ausbildung Pflichtigen festgesetzt.
-
-<sup>5</sup> Die Stipendien und Studiendarlehen werden für alle Ausbildungsrichtungen nach dem gleichen System errechnet.
-
-### III. Schulgelder1
-
-#### Art. 92
-
-**Grundsatz Schulgeldbeiträge**
-
-Der Kanton leistet nach diesem Gesetz und den sich darauf stützenden Ausführungsbestimmungen Beiträge in Form von Schulgeldern an die Ausbildungskosten während der beruflichen Erstausbildung, sofern die Ausbildungskosten nicht durch ein Stipendium oder Studiendarlehen gedeckt oder durch eine Vereinbarung geregelt sind.
-
-#### Art. 103
-
-**Beitragsberechtigte Erstausbildung**
-
-<sup>1</sup> Als beitragsberechtigte Erstausbildung gilt der Besuch von Schulen oder Lehrgängen nach erfüllter allgemeiner Schulpflicht, ebenso die dazu notwendige schulische oder berufliche Vorbildung, soweit diese für den angestrebten beruflichen Ausbildungsgang verlangt wird.
-
-<sup>2</sup> Als Erstausbildung gilt auch die Ausbildung an einer weiterführenden Schule, für deren Besuch der Abschluss einer beruflichen Ausbildung Voraussetzung ist.
-
-<sup>3</sup> Auf der Stufe der Primarschule und der Sekundarstufe l werden in der Regel keine Schulgelder bezahlt.
-
-<sup>4</sup> Das Ausbildungsziel und die Ausbildungsstätte müssen vom Kanton anerkannt sein.
-
-<sup>5</sup> Beitragsberechtigt sind Ausbildungsgänge von mindestens einem halben Jahr.
-
-#### Art. 114
-
-**Beitragsberechtigte Personen**
-
-Anspruch auf Schuldgeldbeiträge haben Schweizerbürger, welche im Kanton Appenzell I. Rh. Wohnsitz haben, sowie Ausländer mit kantonaler Niederlassungs- oder Aufenthaltsbewilligung.
-
-#### Art. 125
-
-**Erstattung kantonaler Schulgelder an Dritte**
-
-<sup>1</sup> Schulgelder, welche der Kanton aufgrund vertraglicher Verpflichtungen für den Besuch einer ausserkantonalen Ausbildungseinrichtung eines Kantonseinwohners zu bezahlen hat, werden in der Regel vom Kanton geleistet.
-
-<sup>2</sup> Kantonseinwohner, welche nach dem erfüllten 40. Altersjahr mit dem Studium an einer solchen Ausbildungseinrichtung beginnen, haben dem Kanton das Schulgeld zurückzuerstatten.
-
-<sup>3</sup> Das Nähere regelt der Grosse Rat.
-
-### IV. Gemeinsame Bestimmungen1
-
-#### Art. 132
-
-**Dauer der Beitragsleistung**
-
-<sup>1</sup> Als ordentliche Ausbildungsdauer gilt die reglementarische Minimaldauer.
-
-<sup>2</sup> In begründeten Fällen können für eine längere Dauer Beiträge gewährt werden.
-
-<sup>3</sup> Muss die Ausbildungsrichtung wegen wichtiger Gründe gewechselt werden, so werden in der Regel auch für die neugewählte Ausbildungsrichtung während der ganzen Dauer Ausbildungsbeiträge gewährt.
-
-<sup>4</sup> Wird die Ausbildungsrichtung ohne wichtige Gründe vor einem Abschluss gewechselt, ist die ordentliche Dauer der zweiten Ausbildung massgebend; die im Rahmen der ersten Ausbildung absolvierte Zeit wird voll angerechnet.
-
-<sup>5</sup> Wer mehr als einmal die Ausbildungsrichtung wechselt, verliert den Anspruch auf Ausbildungsbeiträge.
-
-<sup>6</sup> Rückwirkend werden keine Ausbildungsbeiträge gewährt.
-
-#### Art. 143
-
-**Rückerstattung**
-
-<sup>1</sup> Ausbildungsbeiträge sind mit Zins zurückzuerstatten, wenn der Empfänger a) die Beiträge durch unwahre Angaben oder Verheimlichung von Tatsachen erwirkt hat oder b) die Beiträge nicht für die im Gesuch genannte Ausbildung verwendet.
-
-<sup>2</sup> Beitragsempfänger, die ihre Ausbildung aus eigenem Verschulden aufgeben müssen, können verpflichtet werden, empfangene Stipendien ganz oder teilweise zurückzuerstatten.
-
-#### Art. 154
-
-**Stipendienfonds**
-
-Freiwillig oder auf behördliche Verfügung zurückerstattete Ausbildungsbeiträge, zweckbestimmte Schenkungen und zweckbestimmte Beiträge aus Stiftungen werden dem Stipendienfonds zugewiesen, über dessen Mittel die Standeskommission zur Finanzierung der Ausbildungsbeiträge verfügt.
-
-#### Art. 161
-
-**Beitragshöhe**
-
-Die Höhe der Ausbildungsbeiträge wird durch den Grossen Rat festgelegt.
-
-### V. Weitere Bestimmungen2
-
-#### Art. 173
-
-Der Kanton kann im Rahmen der durch den Grossen Rat bewilligten Kredite die Förderung der wissenschaftliche Forschung und Lehre fördern.
-
-**wissenschaftli-**
-
-chen Lehre und Art. 184 Der Kanton kann im Rahmen der durch den Grossen Rat bewilligten Kredite die Förderung der Erwachsenenbildung fördern.
-
-**Forschung**
-
-**Erwachsenenbil-**
-
-dung
-
-### VI. Schlussbestimmungen5
-
-#### Art. 196
-
-#### Art. 207
-
-Der Grosse Rat erlässt die für dieses Gesetz notwendigen Ausführungsbestimmun- Ausführungsgen.
-
-#### Art. 218
-
-**bestimmungen**
+#### Art. 29
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz tritt nach Annahme durch die Landsgemeinde in Kraft.
+<sup>1</sup> Die Inkraftsetzung dieses Gesetzes wird durch den Grossen Rat vorgenommen.
 
-## Weitere Fussnoten
-
-- [1] Mit Revisionen vom 24. April 1994, 25. April 2004, 24. April 2005, 30. April 2006 und 27. April 2014.
-- [2] Ingress abgeändert durch LdsgB vom 30. April 2006.
-- [3] Titel eingefügt durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [4] Eingefügt durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004). Abs. 1 mit Fussnote ergänzt durch LdsgB vom 30. April 2006.
-- [5] Neue Abschnittsnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [6] Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [1] Neue Fassung durch LdsgB vom 24. April 1994 (Inkrafttreten: 1. August 1994). Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [2] Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [1] Neue Fassung durch LdsgB vom 24. April 1994 (Inkrafttreten: 1. August 1994). Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004). Abgeändert durch LdsgB vom 30. April 2006.
-- [2] Neue Fassung durch LdsgB vom 24. April 1994 (Inkrafttreten: 1. August 1994). Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004). Abgeändert (Abs. 1 - 3) durch LdsgB vom 30. April 2006. Abgeändert (Abs. 1) durch LdsgB vom 27. April 2014 (Inkrafttreten: 1. August 2014).
-- [1] Bisherige Abs. 2 und 3 aufgehoben, bisherige Abs. 4 und 5 werden neue Abs. 2 und 3 durch LdsgB vom 24. April 1994 (Inkrafttreten: 1. August 1994). Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [2] Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004). Abgeändert (Abs. 1 und 4) durch LdsgB vom 30. April 2006 (Inkrafttreten: 1. Januar 2007).
-- [1] Neue Abschnittsnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [2] Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [3] Abgeändert (Abs. 2 und 5) und eingefügt (Abs. 3) durch LdsgB vom 24. April 1994 (Inkrafttreten: 1. August 1994). Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [4] Abgeändert durch LdsgB vom 24. April 1994 (Inkrafttreten: 1. August 1994). Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004). Abgeändert durch LdsgB vom 30. April 2006.
-- [5] Eingefügt durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004). Abgeändert (Abs. 2 und 3) durch LdsgB vom 24. April 2005.
-- [1] Neue Abschnittsnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [2] Neue Fassung durch LdsgB vom 24. April 1994 (Inkrafttreten: 1. August 1994). Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [3] Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [4] Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [1] Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [2] Abschnitt eingefügt durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [3] Eingefügt durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [4] Eingefügt durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [5] Neue Abschnittsnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [6] Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004). Aufgehoben durch LdsgB vom 30. April 2006.
-- [7] Abgeändert durch LdsgB vom 24. April 1994 (Inkrafttreten: 1. August 1994). Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004).
-- [8] Neue Artikelnummerierung durch LdsgB vom 25. April 2004 (Inkrafttreten: 21. Juni 2004). Abgeändert durch LdsgB vom 30. April 2006.
+cGS 2021-31
