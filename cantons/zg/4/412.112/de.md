@@ -4,24 +4,26 @@ number: "412.112"
 title: Reglement zum Schulgesetz
 short: Schulreglement; SchulR
 language: de
-version: 2019-08-01
-valid_until: 2021-07-31
-version_adopted: 2017-03-22
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-04-07
 adopted: 1992-06-10
 in_force: 1992-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.112"
-pdf: "https://bgs.zg.ch/api/de/versions/1619/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2252/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement zum Schulgesetz
 
-Vom 10. Juni 1992 (Stand 1. August 2019)
+(Schulreglement; SchulR)
+
+Vom 10. Juni 1992 (Stand 1. August 2021)
 
 Der Bildungsrat des Kantons Zug,
 
-gestützt auf § 65 Abs. 3a des Schulgesetzes vom 27. September 1990[^ingress-1],
+gestützt auf § 65 Abs. 3 Bst. h und Abs. 3a des Schulgesetzes (SchulG) vom 27. September 1990[^ingress-1],
 
 beschliesst:
 
@@ -399,6 +401,21 @@ beschliesst:
 - d) vom Vortag eines Feiertages auf den nächsten Schultag;
 - e) während den Schulferien;
 - f) bis und mit 4. Primarklasse von Mittwoch auf den Donnerstag.
+
+## 4a. Schulferien
+
+#### § 8a
+
+<sup>1</sup> Es gelten für die Festlegung der Schulferien folgende Regeln:
+
+- a) die Herbstferien beginnen in der achten Woche nach Schuljahresbeginn und dauern zwei Wochen;
+- b) die Weihnachtsferien dauern zwei Wochen. Sie beginnen in der Regel am letzten Samstag vor Weihnachten. Fällt der 24. Dezember auf einen Freitag oder Samstag, beginnen die Ferien am Donnerstag vor Weihnachten und enden am Mittwoch nach Neujahr;
+- c) die Sportferien werden in der 6. und 7. Kalenderwoche angesetzt;
+- d) die Frühlingsferien finden in der 16. und 17. Kalenderwoche statt;
+- e) wenn die Ostertage nicht in die Frühlingsferien fallen, ist der Ostermontag schulfrei; und
+- f) der Freitag nach Auffahrt ist schulfrei.
+
+<sup>2</sup> Das Amt für gemeindliche Schulen ist für die operative Festlegung und Kommunikation der Schulferien zuständig, die fünf Jahre im Voraus erfolgen.
 
 ## 5. Schuldienste
 
