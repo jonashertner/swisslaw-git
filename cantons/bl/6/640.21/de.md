@@ -4,13 +4,13 @@ number: "640.21"
 title: Verordnung über die schulische Laufbahn
 short: Laufbahnverordnung
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-15
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-29
 adopted: 2013-06-11
 in_force: 2014-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.21"
-pdf: "https://bl.clex.ch/api/de/versions/2843/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3053/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2843/pdf_file"
 
 (Laufbahnverordnung)
 
-Vom 11.06.2013 (Stand 01.01.2021)
+Vom 11.06.2013 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -174,14 +174,14 @@ beschliesst:
 
 - a. die Noten oder Prädikate der Leistungsbeurteilung in den Beförderungsfächern sowie in weiteren Fächern mit Leistungsbeurteilung;
 - b. einen Hinweis auf die Beurteilung nach erweiterten bzw. reduzierten individuellen Lernzielen;
-- c. einen Hinweis auf die Inanspruchnahme von Massnahmen der Speziellen Förderung und der Sonderschulung;
+- c. einen Hinweis auf die Inanspruchnahme von Massnahmen der integrativen Speziellen Förderung mit individuellen Lernzielen, der separativen Speziellen Förderung und der Sonderschulung;
 - d. den Beförderungsentscheid;
 - e. Bestätigung des Besuchs von nichtbeurteilten Freifächern;
 - f. einen Hinweis auf den Besuch von Unterricht zur Vermittlung heimatlicher Sprache und Kultur;
 - g. die unentschuldigten Absenzen in Lektionen im Zeugnis der Sekundarstufe I und der Sekundarstufe II;
 - h. einen Vermerk im Zeugnis bei Verkürzung der Beurteilungsperiode um mehr als 10 % der gesamten Unterrichtszeit.
 
-<sup>1<sup>bis</sup></sup> Bei Inanspruchnahme von Massnahmen der Speziellen Förderung oder der Sonderschulung, ausser bei pädagogisch-therapeutischen Massnahmen und dem Förderunterricht, wird dem Zeugnis ein Lernbericht beigelegt.
+<sup>1<sup>bis</sup></sup> Bei Inanspruchnahme von Massnahmen der separativen Speziellen Förderung, der Speziellen Förderung mit erweiterten bzw. reduzierten individuellen Lernzielen oder der Sonderschulung wird dem Zeugnis ein Lernbericht beigelegt.
 
 <sup>2</sup> Leistungserhebungen nach dem Notenabschluss werden für die Leistungsbeurteilung in der folgenden Beurteilungsperiode berücksichtigt.
 
@@ -255,15 +255,19 @@ beschliesst:
 
 **Massnahmen zum Nachteilsausgleich**
 
-<sup>1</sup> Schülerinnen und Schüler, die aufgrund einer Lernstörung, Sprachstörung oder Behinderung bei Leistungserhebungen benachteiligt sind, haben Anspruch darauf, dass die äusseren Bedingungen, die Form oder auch die Aufgabenstellung der Leistungserhebung so verändert werden, dass der störungs- oder behinderungsbedingte Nachteil so gut wie möglich ausgeglichen wird.
+<sup>1</sup> Besteht ein Anspruch auf Nachteilsausgleich gemäss § 5b Bildungsgesetz vom 6. Juni 2020[^18-1], werden die äusseren Bedingungen, die Form oder auch die Aufgabenstellung der Leistungserhebung so verändert, dass der störungs- oder behinderungsbedingte Nachteil so gut wie möglich ausgeglichen wird.
 
 <sup>2</sup> Die Anforderungen der Leistungserhebung müssen für alle Schülerinnen und Schüler gleichwertig sein.
 
-<sup>3</sup> Die Lernstörung, Sprachstörung oder Behinderung muss durch eine vom Kanton bezeichnete Fachstelle festgestellt werden.
+<sup>3</sup> Die Lernstörung, Sprachstörung oder Behinderung muss durch den Schulpsychologischen Dienst oder die Kinder- und Jugendpsychiatrie indiziert und spätestens alle 3 Jahre oder beim Stufenübertritt überprüft werden.
 
-<sup>4</sup> Die Schulleitung legt auf Antrag des Klassenkonvents oder von sich aus und unter Berücksichtigung allfälliger spezieller Vorgaben des Bundes die Massnahmen zum Nachteilsausgleich fest. Sie kann eine vom Kanton bezeichnete Fachstelle für die Festlegung der Massnahmen beiziehen.
+<sup>4</sup> Die Schulleitung legt jährlich auf Antrag des Klassenkonvents oder von sich aus und unter Berücksichtigung allfälliger spezieller Vorgaben des Bundes die Massnahmen zum Nachteilsausgleich fest.
 
 <sup>5</sup> In der dualen Berufsbildung legt die Prüfungsleitung in Rücksprache mit der zuständigen Lehraufsicht und unter Berücksichtigung allfälliger spezieller Vorgaben des Bundes die Massnahmen zum Nachteilsausgleich fest.
+
+<sup>6</sup> Die Schulleitung bzw. die Prüfungsleitung kann die indizierende Fachstelle für die Festlegung der Massnahme beiziehen.
+
+[^18-1]: [SGS 640](https://bl.clex.ch/data/640/de/art5b)
 
 #### § 19
 
@@ -349,11 +353,11 @@ beschliesst:
 
 **Formen der Beurteilung im Kindergarten**
 
-<sup>1</sup> In der Mitte jeden Schuljahres führt die Lehrerin oder der Lehrer mit den Erziehungsberechtigten ein Gespräch auf der Grundlage der Leistungsbeurteilung, der Gesamtbeurteilung, der allgemeinen Lerndiagnostik und der Selbsteinschätzung. Im Gespräch erfolgt eine Empfehlung für die weitere schulische Laufbahn.
+<sup>1</sup> In der Mitte jeden Schuljahres führt die Lehrerin oder der Lehrer mit den Erziehungsberechtigten ein Standortgespräch auf der Grundlage der Leistungsbeurteilung, der Gesamtbeurteilung, der allgemeinen Lerndiagnostik und der Selbsteinschätzung. Im Standortgespräch erfolgt eine Empfehlung für die weitere schulische Laufbahn.
 
-<sup>2</sup> Über das Gespräch wird eine Aktennotiz erstellt.
+<sup>2</sup> Über das Standortgespräch wird eine Aktennotiz erstellt.
 
-<sup>3</sup> Am Ende der Kindergartenzeit wird eine Bestätigung des Unterrichtsbesuchs ausgestellt.
+<sup>3</sup> Am Ende der Kindergartenzeit wird eine Bestätigung des Unterrichtsbesuchs ausgestellt. Diese enthält einen Hinweis auf die Inanspruchnahme von Massnahmen der Sonderschulung.
 
 #### § 27
 
@@ -424,9 +428,11 @@ beschliesst:
 
 **Wiederholte Nichtbeförderung**
 
-<sup>1</sup> Wird die Schülerin oder der Schüler ein 2. Mal nicht befördert, führt die Schulleitung mit den Erziehungsberechtigten ein Gespräch über Massnahmen der Speziellen Förderung oder der Sonderschulung durch.
+<sup>1</sup> Erfüllt die Schülerin oder der Schüler ein 2. Mal die Beförderungsbedingungen nicht, führt die Klassenlehrerin oder der Klassenlehrer mit den Erziehungsberechtigten ein Gespräch über Massnahmen der Speziellen Förderung oder der Sonderschulung durch.
 
 <sup>2</sup> …
+
+<sup>3</sup> An der Primarschule kann höchstens einmal ein Schuljahr wiederholt werden.
 
 #### § 34
 
@@ -525,9 +531,15 @@ beschliesst:
 
 **Nichtbeförderung**
 
-<sup>1</sup> Wenn im Zeugnis am Ende der 1. Klasse die Beförderungsbedingungen nicht erfüllt sind, erfolgt der Übertritt aus dem Leistungszug P definitiv in die 2. Klasse des Leistungszugs E und aus dem Leistungszug E definitiv in die 2. Klasse des Leistungszugs A. Wiederholungen der 1. Klasse in den Leistungszügen E und P sind in der Regel nicht möglich. Über Ausnahmen entscheidet die Schulleitung auf Antrag des Klassenkonvents. Im Leistungszug A wird die 1. Klasse wiederholt.
+<sup>1</sup> Wenn im Zeugnis am Ende der 1. Klasse die Beförderungsbedingungen nicht erfüllt sind, erfolgt der Übertritt aus dem Leistungszug P definitiv in die 2. Klasse des Leistungszugs E und aus dem Leistungszug E definitiv in die 2. Klasse des Leistungszugs A. Wiederholungen der 1. Klasse in den Leistungszügen E und P sind in der Regel nicht möglich. Über Ausnahmen entscheidet die Schulleitung auf Antrag des Klassenkonvents.
 
-<sup>2</sup> Wenn im Zeugnis am Ende der 2. Klasse die Beförderungsbedingungen nicht erfüllt sind, wird grundsätzlich die 2. Klasse im gleichen Leistungszug wiederholt. Ein freiwilliger Wechsel aus dem Leistungszug P in die 3. Klasse des Leistungszugs E bzw. aus dem Leistungszug E in die 3. Klasse des Leistungszugs A ist möglich.
+<sup>2</sup> Erfüllt die Schülerin oder der Schüler am Ende der 2. Klasse die Beförderungsbedingungen nicht, wird grundsätzlich die 2. Klasse im gleichen Leistungszug wiederholt. Ein freiwilliger Wechsel aus dem Leistungszug P in die 3. Klasse des Leistungszugs E bzw. aus dem Leistungszug E in die 3. Klasse des Leistungszugs A ist möglich.
+
+<sup>3</sup> Erfüllt die Schülerin oder der Schüler im Leistungszug A die Beförderungsbedingungen nicht, führt die Klassenlehrerin oder der Klassenlehrer mit den Erziehungsberechtigten ein Gespräch über Massnahmen der Speziellen Förderung oder der Sonderschulung durch.
+
+<sup>4</sup> Eine einvernehmliche Lösung ist anzustreben.
+
+<sup>5</sup> Kommt das Gespräch trotz Einladung nicht zustande oder kann keine Einigkeit erzielt werden, entscheidet der Klassenkonvent über die Beförderung.
 
 #### § 43
 
@@ -807,14 +819,26 @@ beschliesst:
 
 #### § 60
 
-**Beförderung an der Fachmittelschule und an der Maturitätsabteilung des Gymnasiums**
+**Beförderung an der Maturitätsabteilung des Gymnasiums**
 
 <sup>1</sup> Die Beförderung erfolgt, wenn die beiden folgenden Bedingungen erfüllt sind:
 
 - a. höchstens 3 Noten unter 4;
 - b. mindestens doppelt so viele Pluspunkte (Summe der Abweichungen aller Noten über 4 von der Note 4) als Minuspunkte (Summe der Abweichungen aller Noten unter 4 von der Note 4).
 
-<sup>2</sup> Erfolgt die Aufnahme an die Fachmittelschule oder die Maturitätsabteilung des Gymnasiums provisorisch, ist eine Repetition am Ende des 1. Schuljahres nicht möglich. Bei Nichtbeförderung erfolgt der Austritt aus der Schule.
+<sup>2</sup> Erfolgt die Aufnahme an die Maturitätsabteilung des Gymnasiums provisorisch, ist eine Repetition am Ende des 1. Schuljahres nicht möglich. Bei Nichtbeförderung erfolgt der Austritt aus der Schule.
+
+#### § 60a
+
+**Beförderung an der Fachmittelschule**
+
+<sup>1</sup> Die Beförderung an der Fachmittelschule erfolgt, wenn die 3 folgenden Bedingungen erfüllt sind:
+
+- a. höchstens 3 Noten unter 4;
+- b. der Durchschnitt aus allen Noten beträgt mindestens 4.0;
+- c. die Summe der Notenabweichungen von 4.0 nach unten beträgt nicht mehr als 2.0 Punkte.
+
+<sup>2</sup> Erfolgt die Aufnahme an die Fachmittelschule provisorisch, ist eine Repetition am Ende des 1. Schuljahres nicht möglich. Bei Nichtbeförderung erfolgt der Austritt aus der Schule.
 
 #### § 61
 
@@ -971,6 +995,8 @@ beschliesst:
 <sup>1<sup>ter</sup></sup> In Abweichung von § 70 Abs. 1 Bst. d gelten für die Fachmittelschule und die Wirtschaftsmittelschule die §§ 51 Abs. 2<sup>bis</sup> und 53 Abs. 2<sup>bis</sup> dieser Verordnung bereits für Eintritte auf das Schuljahr 2018/2019.
 
 <sup>1<sup>quater</sup></sup> Für Schülerinnen und Schüler, die bis und mit Schuljahr 2020/21 die BVS 2 besuchen, gilt § 67 Abs. 3 Bst. h in der Fassung vom 1. August 2018.
+
+<sup>1<sup>quinquies</sup></sup> Für Schülerinnen und Schüler, die bis und mit Schuljahr 2020/21 in die FMS eingetreten sind, gilt § 60 in der am 1. Januar 2021 gültigen Fassung.
 
 <sup>2</sup> Die Verordnung vom 9. November 2004[^70-2] über Beurteilung, Beförderung, Zeugnis und Übertritt (VO BBZ) gilt für Schülerinnen und Schüler beziehungsweise Lernende, die:
 
