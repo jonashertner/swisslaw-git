@@ -3,20 +3,20 @@ canton: OW
 number: "414.211"
 title: Ausführungsbestimmungen über die Kantonsschule (Organisationsstatut)
 language: de
-version: 2017-01-01
-valid_until: 2021-07-31
-version_adopted: 2016-11-08
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2020-02-04
 adopted: 2011-06-20
 in_force: 2011-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/414.211"
-pdf: "http://gdb.ow.ch/api/de/versions/1144/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1416/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Kantonsschule (Organisationsstatut)
 
-vom 20.06.2011 (Stand 01.01.2017)
+vom 20.06.2011 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -158,13 +158,15 @@ beschliesst:
 
 **Lehrplan und Stundentafel**
 
-<sup>1</sup> Der Lehrplan enthält die Unterrichtsziele und -inhalte.
+<sup>1</sup> Der Lehrplan enthält die Unterrichtsziele und -inhalte. Er wird vom Regierungsrat erlassen und auf der Webseite der Kantonsschule[^15-1] publiziert.
 
 <sup>2</sup> Der Lehrplan der 1. und 2. Klassen der Kantonsschule hat mit jenen der Orientierungsschule soweit übereinzustimmen, dass der Übertritt von der Volksschule in die Kantonsschule gewährleistet ist.
 
-<sup>3</sup> Die Stundentafel bestimmt die Aufteilung der Unterrichtszeit auf die Fächer und Fächergruppen. Sie legt fest, welches Mindestangebot an fakultativem Unterricht die Schule bereitzustellen hat.
+<sup>3</sup> Die Stundentafel gemäss Anhang bestimmt die Aufteilung der Unterrichtszeit auf die Fächer und Fächergruppen. Sie legt fest, welches Mindestangebot an fakultativem Unterricht die Schule bereitzustellen hat.
 
-<sup>4</sup> Der Lehrplan und die Stundentafel werden vom Regierungsrat erlassen.
+<sup>4</sup> …
+
+[^15-1]: [https://www.ksobwalden.ch/](https://www.ksobwalden.ch/)
 
 #### Art. 16
 
@@ -331,19 +333,20 @@ beschliesst:
 - 5\. Biologie
 - 6\. Chemie
 - 7\. Physik
-- 8\. Naturlehre
-- 9\. Geschichte
-- 10\. Geografie
-- 11\. Wirtschaft und Recht
-- 12\. Bildnerisches Gestalten
-- 13\. Musik
-- 14\. Schwerpunktfach
-- 15\. Ergänzungsfach
-- 16\. Sport
-- 17\. Hauswirtschaft
-- 18\. Technisches Gestalten
-- 19\. Anwendungen der Informatik
-- 20\. Ethik und Religion
+- 8\. Natur und Technik
+- 9\. Informatik
+- 10\. Geschichte
+- 11\. Geografie
+- 12\. Wirtschaft und Recht
+- 13\. Bildnerisches Gestalten
+- 14\. Musik
+- 15\. Schwerpunktfach
+- 16\. Ergänzungsfach
+- 17\. Sport
+- 18\. Wirtschaft, Arbeit, Haushalt
+- 19\. Technisches Gestalten
+- 20\. Informatik Grundlagen
+- 21\. Ethik und Religion
 
 #### Art. 29
 
@@ -352,7 +355,7 @@ beschliesst:
 <sup>1</sup> Schülerinnen und Schüler sowie Studierende werden promoviert, wenn ihr Zeugnis am Ende des Schuljahres:
 
 - a. in allen Promotionsfächern nicht mehr als drei Noten unter 4 aufweist;
-- b. in den Promotionsfächern 1 bis 15 die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben.
+- b. in den Promotionsfächern 1 bis 16 die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben.
 
 #### Art. 30
 
@@ -403,13 +406,9 @@ beschliesst:
 
 #### Art. 34
 
-**Übergangsbestimmungen**
+**Übergangsbestimmungen zum Nachtrag vom 4. Februar 2020**
 
-<sup>1</sup> Schülerinnen und Schüler sowie Studierende, die am Ende des Schuljahres 2010/11 provisorisch promoviert sind und:
-
-- a. bereits einmal eine Klasse wiederholt haben, werden aus der Schule ausgeschlossen, wenn sie am Ende des ersten Semesters des Schuljahres 2011/12 die Promotionsbedingungen wieder nicht erfüllen;
-- b. bisher noch keine Klasse wiederholt haben, werden in die nächst tiefere Klasse zurückversetzt, wenn sie am Ende des ersten Semesters des Schuljahres 2011/12 die Promotionsbedingungen wieder nicht erfüllen. Sie erhalten dann ein Informationszeugnis und am Endes des Schuljahres 2011/12 ein promotionswirksames Zeugnis. Wer am Ende des Schuljahres 2011/12 die Promotionsbedingungen wieder nicht erfüllt, wird aus der Schule ausgeschlossen;
-- c. am Ende des ersten Semesters des Schuljahres 2011/12 die Promotionsbedingungen erfüllen, erhalten zu diesem Zeitpunkt ein Informationszeugnis und am Ende des Schuljahres ein promotionswirksames Zeugnis.
+<sup>1</sup> Die Art. 28 und 29 in der bisherigen Fassung sowie die auf der Webseite der Kantonsschule publizierte Stundentafel 2019 gelten für die vierte Gymnasialklasse bis am 31. Juli 2022 und für die fünfte und sechste Gymnasialklasse bis am 31. Juli 2023.
 
 #### Art. 35
 
@@ -427,6 +426,8 @@ geändert durch
 
 \- Nachtrag vom 26. Januar 2016, in Kraft seit 1. August 2016 (OGS 2016, 10),
 
-\- Nachtrag vom 8. November 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 65)
+\- Nachtrag vom 8. November 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 65),
+
+\- Nachtrag vom 4. Februar 2020 (neu mit Anhang), in Kraft seit 1. August 2021 (OGS 2020, 5)
 
 OGS 2011, 35
