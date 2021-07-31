@@ -3,11 +3,11 @@ sr: "0.191.111.631"
 title: "Accord du 3 décembre 2015 entre le Conseil fédéral suisse et le Gouvernement de la République d'Autriche sur la coopération en matière d'affaires consulaires (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/199"
 language: fr
-version: 2019-10-15
+version: 2021-08-01
 adopted: 2015-12-03
 in_force: 2016-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/199/20191015/fr/xml/fedlex-data-admin-ch-eli-cc-2016-199-20191015-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/199/20191015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/199/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2016-199-20210801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/199/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,11 +18,9 @@ RO **2016** 1059
 
 Traduction
 
-Conclu le 3 décembre 2015
+Conclu le 3 décembre 2015 Entré en vigueur par échange de notes le 1<sup>er</sup> avril 2016
 
-Entré en vigueur par échange de notes le 1<sup>er</sup> avril 2016
-
-(Etat le 15 octobre 2019)
+(État le 1<sup>er</sup> août 2021)
 
 Le Conseil fédéral suisse, représenté par le Chef du Département fédéral des affaires étrangères, et le Gouvernement de la République d’Autriche, représenté par le Ministre fédéral pour l’Europe, l’intégration et les affaires étrangères,
 
@@ -265,18 +263,18 @@ Participation réciproque au dispositif de crise sur place et aux opérations d�
 
 Les Parties étudieront la possibilité d’une coopération dans le domaine de la saisie des données biométriques et examineront les bases légales nécessaires à cet effet.
 
-Annexe II*[^t-1]*
+Annexe II[^t-1]
 
 ## Liste des pays d’accueil où le transfert des fonctions consulaires est assuré
 
-[^t-1]: Nouvelle teneur selon l’échange de notes des 25 sept. et 10 oct. 2019, en vigueur depuis le 15 oct. 2019 ([RO 2019 3283](https://fedlex.data.admin.ch/eli/oc/2019/600)).
+[^t-1]: Nouvelle teneur selon l’échange de notes des 15 et 21 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 453](https://fedlex.data.admin.ch/eli/oc/2021/453)).
 
 ### A) Prise en charge par l’Autriche
 
 <table>
 <tr><td></td><td>Représentation par l’Ambassade</td><td>Représentation par CoH</td><td>Représentation ad-hoc/d’urgence</td></tr>
-<tr><td>Europe</td><td></td><td>Crète (Grèce) Madère (Portugal)</td><td>Chisinau (Moldavie)</td></tr>
-<tr><td>Afrique</td><td></td><td>Banjul (Gambie)</td><td></td></tr>
+<tr><td>Europe</td><td></td><td>Crète (Grèce) Madère (Portugal) Parikia (Grèce)</td><td>Chisinau (Moldavie)</td></tr>
+<tr><td>Afrique</td><td></td><td>Banjul (Gambie)</td><td>São Tomé (São Tomé-et-Príncipe)</td></tr>
 <tr><td>Amérique</td><td></td><td>Scarborough (Tobago) Basseterre (Saint-Christophe et Niévès)</td><td></td></tr>
 </table>
 
@@ -284,7 +282,7 @@ Annexe II*[^t-1]*
 
 <table>
 <tr><th></th><th>Représentation par l’Ambassade</th><th>Représentation par Consul honoraire</th><th>Ad-hoc/représentation d’urgence</th></tr>
-<tr><td>Afrique</td><td>Dar-es-Salaam (Tanzanie)</td><td>Bissau (Guinée-Bissau) Freetown (Sierra Leone) Monrovia (Liberia)</td><td></td></tr>
+<tr><td>Afrique</td><td>Dar-es-Salaam (Tanzanie)</td><td>Bissau (Guinée-Bissau) Freetown (Sierra Leone) Monrovia (Liberia)</td><td>Praia (Cabo Verde)</td></tr>
 <tr><td>Amérique</td><td></td><td></td><td>San José (Costa Rica) Port-d’Espagne (Trinité) Maracaibo (Venezuela) Caracas (Venezuela)</td></tr>
 <tr><td>Asie</td><td></td><td></td><td>Bali (Indonésie)</td></tr>
 <tr><td>Océanie</td><td></td><td>Apia (Samoa) Papeete (Tahiti) Suva (Fidji)</td><td>Wellington (Nouvelle-Zélande)</td></tr>
