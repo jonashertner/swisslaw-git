@@ -4,33 +4,34 @@ title: Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundf
 short: EMRK
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151"
 language: de
-version: 2012-02-23
+version: 2021-08-01
 adopted: 1950-11-04
 in_force: 1974-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20120223/de/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20120223-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20120223/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20210801/de/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Konvention zum Schutze der Menschenrechte und Grundfreiheiten
+# Konvention zum Schutze der Menschenrechte und Grundfreiheiten****
 
-AS **1974** 2151; BBl **1974** I 1035
+AS **1974** 2151; BBl **1974** I 1035[^t-1]
 
-Übersetzung aus dem englischen und französischen Originaltext*[^t-1]*
+Übersetzung aus dem englischen und französischen Originaltext*[^t-2]*
 
 Abgeschlossen in Rom am 4. November 1950
 
-Von der Bundesversammlung genehmigt am 3. Oktober 1974[^t-2]
+Von der Bundesversammlung genehmigt am 3. Oktober 1974[^t-3]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 28. November 1974
 
 In Kraft getreten für die Schweiz am 28. November 1974
 
-(Stand am 23. Februar 2012)
+(Stand am 1. August 2021)
 
-[^t-1]: Bereinigte Übersetzung der EMRK unter Berücksichtigung des Prot. Nr. 11 (zwischen Deutschland, Liechtenstein, Österreich und der Schweiz abgestimmte Fassung). Der französische Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung. Der englische Originaltext kann beim Bundesamt für Bauten und Logistik, BBL, 3000 Bern, bezogen werden ([AS 1975 614](https://fedlex.data.admin.ch/eli/oc/1975/614_614_614)).
-[^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 3. Okt. 1974 ([AS 1974 2148](https://fedlex.data.admin.ch/eli/oc/1974/2148_2148_2148)).
+[^t-1]: Die Änd. vom 13. Mai 2004 ([SR 0.101.094](https://fedlex.data.admin.ch/eli/cc/2009/377); [AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)) und 24. Juni 2013 ([SR 0.101.095](https://fedlex.data.admin.ch/eli/cc/2021/461); [AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
+[^t-2]: Bereinigte Übersetzung der EMRK unter Berücksichtigung des Prot. Nr. 11 (zwischen Deutschland, Liechtenstein, Österreich und der Schweiz abgestimmte Fassung). Der französische Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung. Der englische Originaltext kann beim Bundesamt für Bauten und Logistik, BBL, 3000 Bern, bezogen werden ([AS 1975 614](https://fedlex.data.admin.ch/eli/oc/1975/614_614_614)).
+[^t-3]: Art. 1 Abs. 1 Bst. a des BB vom 3. Okt. 1974 ([AS 1974 2148](https://fedlex.data.admin.ch/eli/oc/1974/2148_2148_2148)).
 
 Die Unterzeichnerregierungen, Mitglieder des Europarats –
 
@@ -42,9 +43,13 @@ in der Erwägung, dass es das Ziel des Europarats ist, eine engere Verbindung zw
 
 in Bekräftigung ihres tiefen Glaubens an diese Grundfreiheiten, welche die Grundlage von Gerechtigkeit und Frieden in der Welt bilden und die am besten durch eine wahrhaft demokratische politische Ordnung sowie durch ein gemeinsames Verständnis und eine gemeinsame Achtung der diesen Grundfreiheiten zugrunde liegenden Menschenrechte gesichert werden;
 
-entschlossen, als Regierungen europäischer Staaten, die vom gleichen Geist beseelt sind und ein gemeinsames Erbe an politischen Überlieferungen, Idealen, Achtung der Freiheit und Rechtsstaatlichkeit besitzen, die ersten Schritte auf dem Weg zu einer kollektiven Garantie bestimmter in der Allgemeinen Erklärung aufgeführter Rechte zu unternehmen –
+entschlossen, als Regierungen europäischer Staaten, die vom gleichen Geist beseelt sind und ein gemeinsames Erbe an politischen Überlieferungen, Idealen, Achtung der Freiheit und Rechtsstaatlichkeit besitzen, die ersten Schritte auf dem Weg zu einer kollektiven Garantie bestimmter in der Allgemeinen Erklärung aufgeführter Rechte zu unternehmen;
+
+in Bekräftigung dessen, dass es nach dem Grundsatz der Subsidiarität in erster Linie Aufgabe der Hohen Vertragsparteien ist, die Achtung der in dieser Konvention und den Protokollen dazu bestimmten Rechte und Freiheiten zu gewährleisten, und dass sie dabei über einen Ermessensspielraum verfügen, welcher der Kontrolle des durch diese Konvention errichteten Europäischen Gerichtshofs für Menschenrechte untersteht[^ingress-1] –
 
 haben folgendes vereinbart:
+
+[^ingress-1]: Erwägung eingefügt durch Art. 1 des Prot. Nr. 15 vom 24. Juni 2013, von der BVers genehmigt am 18. März 2016 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [BBl 2015 2347](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 1
 
@@ -236,13 +241,17 @@ Die Zahl der Richter des Gerichtshofs entspricht derjenigen der Hohen Vertragspa
 
 #### Art. 21
 
-**Voraussetzungen für das Amt**
+**Voraussetzungen für das Amt**[^21-1]
 
 <sup>(1)</sup> Die Richter müssen hohes sittliches Ansehen geniessen und entweder die für die Ausübung hoher richterlicher Ämter erforderlichen Voraussetzungen erfüllen oder Rechtsgelehrte von anerkanntem Ruf sein.
 
-<sup>(2)</sup> Die Richter gehören dem Gerichtshof in ihrer persönlichen Eigenschaft an.
+<sup>(2)</sup> Die Kandidaten dürfen zu dem Zeitpunkt, zu dem die Liste von drei Kandidaten nach Artikel 22 bei der Parlamentarischen Versammlung eingehen soll, das 65. Lebensjahr nicht vollendet haben.
 
-<sup>(3)</sup> Während ihrer Amtszeit dürfen die Richter keine Tätigkeit ausüben, die mit ihrer Unabhängigkeit, ihrer Unparteilichkeit oder mit den Erfordernissen der Vollzeitbeschäftigung in diesem Amt unvereinbar ist; alle Fragen, die sich aus der Anwendung dieses Absatzes ergeben, werden vom Gerichtshof entschieden.
+<sup>(3)</sup> Die Richter gehören dem Gerichtshof in ihrer persönlichen Eigenschaft an.
+
+<sup>(4)</sup> Während ihrer Amtszeit dürfen die Richter keine Tätigkeit ausüben, die mit ihrer Unabhängigkeit, ihrer Unparteilichkeit oder mit den Erfordernissen der Vollzeitbeschäftigung in diesem Amt unvereinbar ist; alle Fragen, die sich aus der Anwendung dieses Absatzes ergeben, werden vom Gerichtshof entschieden.
+
+[^21-1]: Bereinigt gemäss Art. 2 Ziff. 1 und 2 des Prot. Nr. 15 vom 24. Juni 2013, von der BVers genehmigt am 18. März 2016 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [BBl 2015 2347](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 22
 
@@ -250,7 +259,7 @@ Die Zahl der Richter des Gerichtshofs entspricht derjenigen der Hohen Vertragspa
 
 <sup>(1)</sup> Die Richter werden von der Parlamentarischen Versammlung für jede Hohe Vertragspartei mit der Mehrheit der abgegebenen Stimmen aus einer Liste von drei Kandidaten gewählt, die von der Hohen Vertragspartei vorgeschlagen werden.
 
-<sup>(2)</sup> …[^22-1]
+<sup>(2)</sup> ...[^22-1]
 
 [^22-1]: Aufgehoben durch Art. 1 des Prot. Nr. 14 vom 13. Mai 2004, von der BVers genehmigt am 16. Dez. 2005 und mit Wirkung seit 1. Juni 2010 ([AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [BBl 2005 2119](https://fedlex.data.admin.ch/eli/fga/2005/260)).
 
@@ -260,13 +269,11 @@ Die Zahl der Richter des Gerichtshofs entspricht derjenigen der Hohen Vertragspa
 
 <sup>(1)</sup> Die Richter werden für neun Jahre gewählt. Ihre Wiederwahl ist nicht zulässig.
 
-<sup>(2)</sup> Die Amtszeit der Richter endet mit Vollendung des 70. Lebensjahrs.
+<sup>(2)</sup> Die Richter bleiben bis zum Amtsantritt ihrer Nachfolger im Amt. Sie bleiben jedoch in den Rechtssachen tätig, mit denen sie bereits befasst sind.
 
-<sup>(3)</sup> Die Richter bleiben bis zum Amtsantritt ihrer Nachfolger im Amt. Sie bleiben jedoch in den Rechtssachen tätig, mit denen sie bereits befasst sind.
+<sup>(3)</sup> Ein Richter kann nur entlassen werden, wenn die anderen Richter mit Zweidrittelmehrheit entscheiden, dass er die erforderlichen Voraussetzungen nicht mehr erfüllt.
 
-<sup>(4)</sup> Ein Richter kann nur entlassen werden, wenn die anderen Richter mit Zweidrittelmehrheit entscheiden, dass er die erforderlichen Voraussetzungen nicht mehr erfüllt.
-
-[^23-1]: Fassung gemäss Art. 2 des Prot. Nr. 14 vom 13. Mai 2004, von der BVers genehmigt am 16. Dez. 2005 und in Kraft seit 1. Juni 2010 ([AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [BBl 2005 2119](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^23-1]: Fassung gemäss Art. 2 des Prot. Nr. 14 vom 13. Mai 2004, von der BVers genehmigt am 16. Dez. 2005 ([AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376); [BBl 2005 2119](https://fedlex.data.admin.ch/eli/fga/2005/260)). Bereinigt gemäss Art. 2 Ziff. 3 des Prot. Nr. 15 vom 24. Juni 2013, von der BVers genehmigt am 18. März 2016 und in Kraft für die Schweiz seit 1. Aug. 2021 ([AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [BBl 2015 2347](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 24
 
@@ -348,7 +355,7 @@ Ein Ausschuss, der mit einer nach Artikel 34 erhobenen Beschwerde befasst wird, 
 
 <sup>(2)</sup> Eine Kammer entscheidet über die Zulässigkeit und Begründetheit der nach Artikel 33 erhobenen Staatenbeschwerden. Die Entscheidung über die Zulässigkeit ergeht gesondert, sofern der Gerichtshof in Ausnahmefällen nicht anders entscheidet.[^29-2]
 
-<sup>(3)</sup> …[^29-3]
+<sup>(3)</sup> ...[^29-3]
 
 [^29-1]: Fassung gemäss Art. 9 Ziff. 1 des Prot. Nr. 14 vom 13. Mai 2004, von der BVers genehmigt am 16. Dez. 2005 und in Kraft seit 1. Juni 2010 ([AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [BBl 2005 2119](https://fedlex.data.admin.ch/eli/fga/2005/260)).
 [^29-2]: Satz eingefügt durch Art. 9 Ziff. 2 des Prot. Nr. 14 vom 13. Mai 2004, von der BVers genehmigt am 16. Dez. 2005 und in Kraft seit 1. Juni 2010 ([AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [BBl 2005 2119](https://fedlex.data.admin.ch/eli/fga/2005/260)).
@@ -358,7 +365,9 @@ Ein Ausschuss, der mit einer nach Artikel 34 erhobenen Beschwerde befasst wird, 
 
 **Abgabe der Rechtssache an die Grosse Kammer**
 
-Wirft eine bei einer Kammer anhängige Rechtssache eine schwerwiegende Frage der Auslegung dieser Konvention oder der Protokolle dazu auf oder kann die Entscheidung einer ihr vorliegenden Frage zu einer Abweichung von einem früheren Urteil des Gerichtshofs führen, so kann die Kammer diese Sache jederzeit, bevor sie ihr Urteil gefällt hat, an die Grosse Kammer abgeben, sofern nicht eine Partei widerspricht.
+Wirft eine bei einer Kammer anhängige Rechtssache eine schwerwiegende Frage der Auslegung dieser Konvention oder der Protokolle dazu auf oder kann die Entscheidung einer ihr vorliegenden Frage zu einer Abweichung von einem früheren Urteil des Gerichtshofs führen, so kann die Kammer diese Sache jederzeit, bevor sie ihr Urteil gefällt hat, an die Grosse Kammer abgeben, ...[^30-1].
+
+[^30-1]: Satzteil aufgehoben durch Art. 3 des Prot. Nr. 15 vom 24. Juni 2013, von der BVers genehmigt am 18. März 2016 und mit Wirkung für die Schweiz seit 1. Aug. 2021 ([AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [BBl 2015 2347](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 31
 
@@ -411,11 +420,12 @@ Der Gerichtshof kann von jeder natürlichen Person, nichtstaatlichen Organisatio
 Der Gerichtshof erklärt eine nach Artikel 34 erhobene Individualbeschwerde für unzulässig:
 
 - a) wenn er sie für unvereinbar mit dieser Konvention oder den Protokollen dazu, für offensichtlich unbegründet oder für missbräuchlich hält; oder
-- b) wenn er der Ansicht ist, dass dem Beschwerdeführer kein erheblicher Nachteil entstanden ist, es sei denn, die Achtung der Menschenrechte, wie sie in dieser Konvention und den Protokollen dazu anerkannt sind, erfordert eine Prüfung der Begründetheit der Beschwerde, und vorausgesetzt, es wird aus diesem Grund nicht eine Rechtssache zurückgewiesen, die noch von keinem innerstaatlichen Gericht gebührend geprüft worden ist.[^35-1]
+- b)[^35-1] wenn er der Ansicht ist, dass dem Beschwerdeführer kein erheblicher Nachteil entstanden ist, es sei denn, die Achtung der Menschenrechte, wie sie in dieser Konvention und den Protokollen dazu anerkannt sind, erfordert eine Prüfung der Begründetheit der Beschwerde, ...[^35-2].
 
 <sup>(4)</sup> Der Gerichtshof weist eine Beschwerde zurück, die er nach diesem Artikel für unzulässig hält. Er kann dies in jedem Stadium des Verfahrens tun.
 
 [^35-1]: Fassung gemäss Art. 12 des Prot. Nr. 14 vom 13. Mai 2004, von der BVers genehmigt am 16. Dez. 2005 und in Kraft seit 1. Juni 2010 ([AS 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [BBl 2005 2119](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^35-2]: Satzteil aufgehoben durch Art. 5 des Prot. Nr. 15 vom 24. Juni 2013, von der BVers genehmigt am 18. März 2016 und mit Wirkung für die Schweiz seit 1. Aug. 2021 ([AS 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [BBl 2015 2347](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 36
 
@@ -658,7 +668,7 @@ Die Hohen Vertragsparteien kommen überein, dass sie sich vorbehaltlich besonder
 
 Geschehen zu Rom am 4. November 1950 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär übermittelt allen Unterzeichnern beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 23. Februar 2012[^t-3]
+Geltungsbereich am 23. Februar 2012**[^t-4]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th colspan="3"></th><th>Inkrafttreten</th><th></th></tr>
@@ -685,14 +695,14 @@ Geltungsbereich am 23. Februar 2012[^t-3]
 <tr><td>Litauen</td><td>20. Juni</td><td colspan="3">1995</td><td>20. Juni</td><td>1995</td></tr>
 <tr><td>Luxemburg</td><td>3. September</td><td colspan="3">1953</td><td>3. September</td><td>1953</td></tr>
 <tr><td>Malta\*</td><td>23. Januar</td><td colspan="3">1967</td><td>23. Januar</td><td>1967</td></tr>
-<tr><td>Mazedonien</td><td>10. April</td><td colspan="3">1997</td><td>10. April</td><td>1997</td></tr>
 <tr><td>Moldau\*</td><td>12. September</td><td colspan="3">1997</td><td>12. September</td><td>1997</td></tr>
 <tr><td>Monaco\*</td><td>30. November</td><td colspan="3">2005</td><td>30. November</td><td>2005</td></tr>
 <tr><td>Montenegro <sup>a</sup></td><td>3. März</td><td colspan="3">2004</td><td>6. Juni</td><td>2006</td></tr>
 <tr><td>Niederlande</td><td>31. August</td><td colspan="3">1954</td><td>31. August</td><td>1954</td></tr>
-<tr><td>[tab] Curaçao <sup>b</sup></td><td>1. Dezember</td><td colspan="2">1955</td><td colspan="2">31. Dezember</td><td>1955</td></tr>
-<tr><td>[tab] Karibische Gebiete (Bonaire, Sint Eustatius und Saba)<sup>b</sup></td><td>1. Dezember</td><td colspan="2">1955</td><td colspan="2">31. Dezember</td><td>1955</td></tr>
-<tr><td>[tab] Sint Maarten <sup>b</sup></td><td>1. Dezember</td><td colspan="2">1955</td><td colspan="2">31. Dezember</td><td>1955</td></tr>
+<tr><td>Curaçao <sup>b</sup></td><td>1. Dezember</td><td colspan="2">1955</td><td colspan="2">31. Dezember</td><td>1955</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba) <sup>b</sup></td><td>1. Dezember</td><td colspan="2">1955</td><td colspan="2">31. Dezember</td><td>1955</td></tr>
+<tr><td>Sint Maarten <sup>b</sup></td><td>1. Dezember</td><td colspan="2">1955</td><td colspan="2">31. Dezember</td><td>1955</td></tr>
+<tr><td>Nordmazedonien</td><td>10. April</td><td colspan="3">1997</td><td>10. April</td><td>1997</td></tr>
 <tr><td>Norwegen</td><td colspan="2">15. Januar</td><td colspan="2">1952</td><td>3. September</td><td>1953</td></tr>
 <tr><td>Österreich\*</td><td colspan="2">3. September</td><td colspan="2">1958</td><td>3. September</td><td>1958</td></tr>
 <tr><td>Polen</td><td colspan="2">19. Januar</td><td colspan="2">1993</td><td>19. Januar</td><td>1993</td></tr>
@@ -711,22 +721,22 @@ Geltungsbereich am 23. Februar 2012[^t-3]
 <tr><td>Ukraine\*</td><td colspan="2">11. September</td><td colspan="2">1997</td><td>11. September</td><td>1997</td></tr>
 <tr><td>Ungarn</td><td colspan="2">5. November</td><td colspan="2">1992</td><td>5. November</td><td>1992</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td colspan="2">8. März</td><td colspan="2">1951</td><td>3. September</td><td>1953</td></tr>
-<tr><td>[tab] Akrotiri und Dhekelia<sup>c</sup></td><td colspan="2">1. April</td><td colspan="2">2004</td><td>1. Mai</td><td>2004</td></tr>
-<tr><td>[tab] Anguilla <sup>d</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
-<tr><td>[tab] Bermudas <sup>d</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
-<tr><td>[tab] Britische Jungferninseln <sup>e</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
-<tr><td>[tab] Falklandinseln <sup>f</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
-<tr><td>[tab] Gibraltar <sup>f</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
-<tr><td>[tab] Guernsey <sup>g</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
-<tr><td>[tab] Insel Man <sup>h</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
-<tr><td>[tab] Jersey <sup>i</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
-<tr><td>[tab] Kaimaninseln <sup>g</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
-<tr><td>[tab] Montserrat <sup>d</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
-<tr><td>[tab] St. Helena und Nebengebiete (Ascension und Tristan da Cunha)<sup>d</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
-<tr><td>[tab] Südgeorgien und Südliche Sandwichinseln <sup>f</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
-<tr><td>[tab] Turks- und Caicosinseln <sup>j</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
+<tr><td>Akrotiri und Dhekelia <sup>c</sup></td><td colspan="2">1. April</td><td colspan="2">2004</td><td>1. Mai</td><td>2004</td></tr>
+<tr><td>Anguilla <sup>d</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
+<tr><td>Bermudas <sup>d</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
+<tr><td>Britische Jungferninseln <sup>e</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
+<tr><td>Falklandinseln <sup>f</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
+<tr><td>Gibraltar <sup>f</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
+<tr><td>Guernsey <sup>g</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
+<tr><td>Insel Man <sup>h</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
+<tr><td>Jersey <sup>i</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
+<tr><td>Kaimaninseln <sup>g</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
+<tr><td>Montserrat <sup>d</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
+<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha) <sup>d</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
+<tr><td>Südgeorgien und Südliche Sandwichinseln <sup>f</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
+<tr><td>Turks- und Caicosinseln <sup>j</sup></td><td colspan="2">23. Oktober</td><td colspan="2">1953</td><td>23. November</td><td>1953</td></tr>
 <tr><td>Zypern</td><td colspan="2">6. Oktober</td><td colspan="2">1962</td><td>6. Oktober</td><td>1962</td></tr>
-<tr><td colspan="7">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internet-Seite des Europarates: http://conventions.coe.int/Treaty/FR/v3DefaultFRE.asp eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="7">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="7"><sup>a</sup> Der Ministerrat des Europarats hat anlässlich seiner 994(bis) Sitzung vom 9. Mai 2007 beschlossen, Montenegro mit Wirkung ab 6. Juni 2006 als Vertragspartei dieses Übereinkommens zu betrachten. Das Datum der Unterzeichnung und der Ratifikation ist jenes von «Serbien und Montenegro».</td></tr>
 <tr><td colspan="7"><sup>b</sup> Anwendungserklärung nach Art. 56.</td></tr>
 <tr><td colspan="7"><sup>c</sup> Erklärung zur dauerhaften Anerkennung der Zuständigkeit des Gerichtshofs gemäss den Art. 34 und 56 Abs. 4 der Konvention ab dem 1. Mai 2004.</td></tr>
@@ -739,4 +749,4 @@ Geltungsbereich am 23. Februar 2012[^t-3]
 <tr><td colspan="7"><sup>j</sup> Erklärung zur dauerhaften Anerkennung der Zuständigkeit des Gerichtshofs gemäss den Art. 34 und 56 Abs. 4 der Konvention ab dem 14. Okt. 2009.</td></tr>
 </table>
 
-[^t-3]: AS **1974** 2168, [1977 147](https://fedlex.data.admin.ch/eli/oc/1977/147_147_147)[1464](https://fedlex.data.admin.ch/eli/oc/1977/1464_1464_1464), [1978 64](https://fedlex.data.admin.ch/eli/oc/1978/64_64_64), [1982 285](https://fedlex.data.admin.ch/eli/oc/1982/285_285_285)[2065](https://fedlex.data.admin.ch/eli/oc/1982/2065_2065_2065), [1983 1592](https://fedlex.data.admin.ch/eli/oc/1983/1592_1592_1592), [1984 973](https://fedlex.data.admin.ch/eli/oc/1984/973_973_973)[1491](https://fedlex.data.admin.ch/eli/oc/1984/1491_1491_1491), [1985 360](https://fedlex.data.admin.ch/eli/oc/1985/360_360_360), [1986 169](https://fedlex.data.admin.ch/eli/oc/1986/169_169_169), [1987 314](https://fedlex.data.admin.ch/eli/oc/1987/314_314_314)[1346](https://fedlex.data.admin.ch/eli/oc/1987/1346_1346_1346), [1988 1264](https://fedlex.data.admin.ch/eli/oc/1988/1264_1264_1264), [1989 276](https://fedlex.data.admin.ch/eli/oc/1989/276_276_276), [1990 55](https://fedlex.data.admin.ch/eli/oc/1990/55_55_55), [1991 789](https://fedlex.data.admin.ch/eli/oc/1991/789_789_789), [1992 657](https://fedlex.data.admin.ch/eli/oc/1992/657_657_657)[2219](https://fedlex.data.admin.ch/eli/oc/1992/2219_2219_2219), [1993 3097](https://fedlex.data.admin.ch/eli/oc/1993/3097_3097_3097), [2000 916](https://fedlex.data.admin.ch/eli/oc/2000/139), **2002** 1145, [2005 1835](https://fedlex.data.admin.ch/eli/oc/2005/306), [2006 3319](https://fedlex.data.admin.ch/eli/oc/2006/514)und [2012 1143](https://fedlex.data.admin.ch/eli/oc/2012/166). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-4]: AS **1974** 2168, [1977 147](https://fedlex.data.admin.ch/eli/oc/1977/147_147_147)[1464](https://fedlex.data.admin.ch/eli/oc/1977/1464_1464_1464), [1978 64](https://fedlex.data.admin.ch/eli/oc/1978/64_64_64), [1982 285](https://fedlex.data.admin.ch/eli/oc/1982/285_285_285)[2065](https://fedlex.data.admin.ch/eli/oc/1982/2065_2065_2065), [1983 1592](https://fedlex.data.admin.ch/eli/oc/1983/1592_1592_1592), [1984 973](https://fedlex.data.admin.ch/eli/oc/1984/973_973_973)[1491](https://fedlex.data.admin.ch/eli/oc/1984/1491_1491_1491), [1985 360](https://fedlex.data.admin.ch/eli/oc/1985/360_360_360), [1986 169](https://fedlex.data.admin.ch/eli/oc/1986/169_169_169), [1987 314](https://fedlex.data.admin.ch/eli/oc/1987/314_314_314)[1346](https://fedlex.data.admin.ch/eli/oc/1987/1346_1346_1346), [1988 1264](https://fedlex.data.admin.ch/eli/oc/1988/1264_1264_1264), [1989 276](https://fedlex.data.admin.ch/eli/oc/1989/276_276_276), [1990 55](https://fedlex.data.admin.ch/eli/oc/1990/55_55_55), [1991 789](https://fedlex.data.admin.ch/eli/oc/1991/789_789_789), [1992 657](https://fedlex.data.admin.ch/eli/oc/1992/657_657_657)[2219](https://fedlex.data.admin.ch/eli/oc/1992/2219_2219_2219), [1993 3097](https://fedlex.data.admin.ch/eli/oc/1993/3097_3097_3097), [2000 916](https://fedlex.data.admin.ch/eli/oc/2000/139), **2002** 1145, [2005 1835](https://fedlex.data.admin.ch/eli/oc/2005/306), [2006 3319](https://fedlex.data.admin.ch/eli/oc/2006/514)und [2012 1143](https://fedlex.data.admin.ch/eli/oc/2012/166). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://www.fedlex.admin.ch/de/treaty).

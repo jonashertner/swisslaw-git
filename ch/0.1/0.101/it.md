@@ -4,20 +4,20 @@ title: "Convenzione del 4 novembre 1950 per la salvaguardia dei diritti dell'uom
 short: CEDU
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151"
 language: it
-version: 2012-02-23
+version: 2021-08-01
 adopted: 1950-11-04
 in_force: 1974-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20120223/it/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20120223-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20120223/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20210801/it/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali
+# Convenzione per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali****
 
-RU **1974** 2151; FF **1974** I 1008
+RU **1974** 2151; FF **1974** I 1008[^t-1]
 
-Traduzione*[^t-1]*
+Traduzione
 
 Conchiusa a Roma il 4 novembre 1950
 
@@ -27,9 +27,9 @@ Istrumento di ratificazione depositato dalla Svizzera il 28 novembre 1974
 
 Entrata in vigore per la Svizzera il 28 novembre 1974
 
-(Stato 23 febbraio 2012)
+(Stato 1° agosto 2021)
 
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta. Il testo originale inglese può essere ottenuto presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna. ([RU 1975 614](https://fedlex.data.admin.ch/eli/oc/1975/614_614_614)).
+[^t-1]: Gli emendamenti del 13 mag. 2004 ([[RS](https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/de) 0.101.094](https://fedlex.data.admin.ch/eli/cc/2009/377); [RU 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)) e del 24 giu. 2013 ([[RS](https://www.fedlex.admin.ch/eli/cc/1993/1078_1078_1078/de) 0.101.095](https://fedlex.data.admin.ch/eli/cc/2021/461); [RU 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461)) sono inseriti nella presente Convenzione. Questi emendamenti sono in vigore solo nei rapporti tra gli Stati che li hanno ratificati. Vedi dunque il campo d’applicazione dei rispettivi Protocolli.
 [^t-2]: Art. 1 cpv. 1 lett. a del DF del 3 ott. 1974 ([RU 1974 2148](https://fedlex.data.admin.ch/eli/oc/1974/2148_2148_2148)).
 
 I Governi firmatari, Membri del Consiglio dell’Europa,
@@ -42,9 +42,13 @@ considerato che il fine del consiglio dell’Europa è quello di realizzare una 
 
 riaffermato il loro profondo attaccamento a queste libertà fondamentali che costituiscono le basi stesse della giustizia e della pace nel mondo e il cui mantenimento si fonda essenzialmente, da una parte, su un regime politico veramente democratico e, dall’altra, su una concezione comune e un comune rispetto dei Diritti dell’uomo a cui essi si appellano;
 
-risoluti, in quanto Governi di Stati europei animati da uno stesso spirito e forti di un patrimonio comune di tradizioni e di ideali politici, di rispetto della libertà e di preminenza di diritto, a prendere le prime misure adatte ad assicurare la garanzia collettiva di certi diritti enunciati nella Dichiarazione Universale,
+risoluti, in quanto Governi di Stati europei animati da uno stesso spirito e forti di un patrimonio comune di tradizioni e di ideali politici, di rispetto della libertà e di preminenza di diritto, a prendere le prime misure adatte ad assicurare la garanzia collettiva di certi diritti enunciati nella Dichiarazione Universale;
+
+affermando che spetta in primo luogo alle Alte Parti contraenti, conformemente al principio di sussidiarietà, garantire il rispetto dei diritti e delle libertà definiti nella presente Convenzione e nei suoi protocolli e che, nel fare ciò, esse godono di un margine di apprezzamento, sotto il controllo della Corte europea dei diritti dell’uomo istituita dalla presente Convenzione,[^ingress-1]
 
 hanno convenuto quanto segue:
+
+[^ingress-1]: Considerando introdotto dall’art. 1 del Prot. n. 15 del 24 giu. 2013, approvato dall’AF il 18 mar. 2016, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 1935](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 1
 
@@ -238,13 +242,17 @@ La Corte si compone di un numero di giudici eguale a quello delle Alte Parti con
 
 #### Art. 21
 
-**Condizioni per l’esercizio delle funzioni**
+**Condizioni per l’esercizio delle funzioni**[^21-1]
 
 <sup>1.</sup> I giudici devono godere della più alta considerazione morale e possedere i requisiti richiesti per l’esercizio delle più alte funzioni giudiziarie o essere giuristi di riconosciuta competenza.
 
-<sup>2.</sup> I giudici siedono in Corte a titolo individuale.
+<sup>2.</sup> I candidati devono avere meno di 65 anni di età alla data in cui la lista di tre candidati deve pervenire all’Assemblea parlamentare in virtù dell’articolo 22.
 
-<sup>3.</sup> Durante il loro mandato, i giudici non possono svolgere alcuna attività incompatibile con le esigenze di autonomia, di imparzialità o di disponibilità richieste per un’attività esercitata a tempo pieno; tutte le controversie derivanti dall’applicazione del presente paragrafo vengono decise dalla Corte.
+<sup>3.</sup> I giudici siedono in Corte a titolo individuale.
+
+<sup>4.</sup> Durante il loro mandato, i giudici non possono svolgere alcuna attività incompatibile con le esigenze di autonomia, di imparzialità o di disponibilità richieste per un’attività esercitata a tempo pieno; tutte le controversie derivanti dall’applicazione del presente paragrafo vengono decise dalla Corte.
+
+[^21-1]: Aggiornato dall’art. 2 par. 1 e 2 del Prot. n. 15 del 24 giu. 2013, approvato dall’AF il 18 mar. 2016, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 1935](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 22
 
@@ -262,13 +270,11 @@ La Corte si compone di un numero di giudici eguale a quello delle Alte Parti con
 
 <sup>1.</sup> I giudici vengono eletti per un periodo di nove anni. Essi non sono rieleggibili.
 
-<sup>2.</sup> Il mandato dei giudici termina con il raggiungimento del settantesimo anno di età.
+<sup>2.</sup> I giudici restano in carica sino alla loro sostituzione. Gli stessi continuano tuttavia ad occuparsi delle cause di cui sono già investiti.
 
-<sup>3.</sup> I giudici restano in carica sino alla loro sostituzione. Gli stessi continuano tuttavia ad occuparsi delle cause di cui sono già investiti.
+<sup>3.</sup> Nessun giudice può essere revocato dall’incarico se non quando gli altri giudici decidono, a maggioranza dei due terzi, che lo stesso non soddisfa più le condizioni richieste.
 
-<sup>4.</sup> Nessun giudice può essere revocato dall’incarico se non quando gli altri giudici decidono, a maggioranza dei due terzi, che lo stesso non soddisfa più le condizioni richieste.
-
-[^23-1]: Nuovo testo giusta l’art. 2 del Prot. n. 14 del 13 mag. 2004, approvato dall’AF il 16 dic. 2005, in vigore dal 1° giu. 2010 ([RU 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1913](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^23-1]: Nuovo testo giusta l’art. 6 del Prot. n. 14 del 13 mag. 2004, approvato dall’AF il 16 dic. 2005 ([RU 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377); [FF 2005 1913](https://fedlex.data.admin.ch/eli/fga/2005/260)). Aggiornato dall’art. 2 par. 3 del Prot. n. 15 del 24 giu. 2013, approvato dall’AF il 18 mar. 2016, in vigore per la Svizzera il 1° ago. 2021 ([RU 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 1935](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 24
 
@@ -360,7 +366,9 @@ Un comitato investito di un ricorso individuale presentato in virtù dell’arti
 
 **Trasferimento di competenza alla sezione allargata**
 
-Se la causa pendente innanzi ad una sezione solleva una questione grave relativa all’interpretazione della Convenzione o dei suoi Protocolli, o se la soluzione di una questione può portare ad una contraddizione rispetto ad una sentenza precedentemente emessa dalla Corte, la sezione in qualsiasi momento precedente all’emissione della sua sentenza può trasferire la competenza alla sezione allargata, a meno che una delle Parti non si opponga.
+Se la causa pendente innanzi ad una sezione solleva una questione grave relativa all’interpretazione della Convenzione o dei suoi Protocolli, o se la soluzione di una questione può portare ad una contraddizione rispetto ad una sentenza precedentemente emessa dalla Corte, la sezione in qualsiasi momento precedente all’emissione della sua sentenza può trasferire la competenza alla sezione allargata ...[^30-1] .
+
+[^30-1]: Locuzione abrogata dall’art. 3 del Prot. n. 15 del 24 giu. 2013, approvato dall’AF il 18 mar. 2016, con effetto per la Svizzera il 1° ago. 2021 ([RU 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 1935](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 31
 
@@ -415,11 +423,12 @@ La Corte non prende in considerazione alcun ricorso individuale presentato in vi
 La Corte dichiara irricevibile ogni ricorso individuale presentato in virtù dell’articolo 34 qualora:
 
 - a) lo ritenga incompatibile con le disposizioni della Convenzione o dei suoi Protocolli, o manifestamente infondato o abusivo; o
-- b)[^35-1] il ricorrente non abbia subito alcun pregiudizio significativo, a meno che il rispetto dei diritti dell’uomo garantiti dalla Convenzione e dai suoi Protocolli non esiga l’esame del merito del ricorso e purché ciò non comporti la reiezione di un ricorso che non sia stato debitamente esaminato da un tribunale nazionale.
+- b)[^35-1] il ricorrente non abbia subito alcun pregiudizio significativo, a meno che il rispetto dei diritti dell’uomo garantiti dalla Convenzione e dai suoi Protocolli non esiga l’esame del merito del ricorso ...[^35-2].
 
 <sup>4.</sup> La Corte respinge tutti i ricorsi irricevibili ai sensi del presente articolo. Può procedere in tal senso in ogni fase della procedura.
 
 [^35-1]: Nuovo testo giusta l’art. 12 del Prot. n. 14 del 13 mag. 2004, approvato dall’AF il 16 dic. 2005, in vigore dal 1° giu. 2010 ([RU 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1913](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^35-2]: Locuzione abrogata dall’art. 5 del Prot. n. 15 del 24 giu. 2013, approvato dall’AF il 18 mar. 2016, con effetto per la Svizzera il 1° ago. 2021 ([RU 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 1935](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 36
 
@@ -657,14 +666,12 @@ Le Alte Parti Contraenti rinunziano reciprocamente, salvo compromesso speciale, 
 
 <sup>5.</sup> Il Segretario Generale del Consiglio d’Europa notificherà a tutti i membri del Consiglio d’Europa l’entrata in vigore della Convenzione, i nomi delle Alte Parti Contraenti che l’avranno ratificata, come anche il deposito di ogni altro strumento di ratifica che si sia avuto successivamente.[^59-4]
 
-Fatto a Roma, il 4 novembre 1950 in francese e in inglese, le due versioni facendo egualmente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale ne comunicherà copie certificate conformi a tutti i firmatari.
-
 [^59-1]: Introdotto dall’art. 17 del Prot. n. 14 del 13 mag. 2004, approvato dall’AF il 16 dic. 2005, in vigore dal 1° giu. 2010 ([RU 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1913](https://fedlex.data.admin.ch/eli/fga/2005/260)).
 [^59-2]: Originario n. 2.
 [^59-3]: Originario n. 3.
 [^59-4]: Originario n. 4.
 
-(Seguono le firme)
+Fatto a Roma, il 4 novembre 1950 in francese e in inglese, le due versioni facendo egualmente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale ne comunicherà copie certificate conformi a tutti i firmatari. *(Seguono le firme)*
 
 Campo d’applicazione il 23 febbraio 2012**[^t-3]**
 
@@ -734,7 +741,7 @@ Campo d’applicazione il 23 febbraio 2012**[^t-3]**
 <tr><td>Turchia</td><td>18 maggio</td><td>1954</td><td>18 maggio</td><td>1954</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>11 settembre</td><td>1997</td><td>11 settembre</td><td>1997</td></tr>
 <tr><td>Ungheria</td><td>5 novembre</td><td>1992</td><td>5 novembre</td><td>1992</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet del Consiglio d’Europa: www.conventions.coe.int/Treaty/Commun/ListeDeclarations.asp?NT=009&CM=8&DF=09/03/2012&CL=ITA&VL=1 oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Il 9 mag. 2007 nella sua 994 (bis) sessione il comitato dei Ministri del Consiglio di Europa a deciso considerare il Montenegro come Stato parte a questa Conv. con effetto dal 6 giu. 2006. Le firma e ratificazione sono quelle della «Serbia e Montenegro».</td></tr>
 <tr><td colspan="5"><sup>b</sup> Dichiarazione d'applicazione giusta l'art. 56.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Dichiarazione d'accettazione permanente della competenza della Corte conforme agli art. 34 e 56 par. 4 dal 1° mag. 2004.</td></tr>
@@ -747,6 +754,4 @@ Campo d’applicazione il 23 febbraio 2012**[^t-3]**
 <tr><td colspan="5"><sup>j</sup> Dichiarazione d’accettazione permanente della competenza della Corte conforme agli art. 34 e 56 par. 4 dal 14 gen. 2001.</td></tr>
 </table>
 
-- [tab]
-
-[^t-3]: RU **1974** 2168, [1977 147](https://fedlex.data.admin.ch/eli/oc/1977/147_147_147)[1464](https://fedlex.data.admin.ch/eli/oc/1977/1464_1464_1464), [1978 64](https://fedlex.data.admin.ch/eli/oc/1978/64_64_64), [1982 285](https://fedlex.data.admin.ch/eli/oc/1982/285_285_285)[2065](https://fedlex.data.admin.ch/eli/oc/1982/2065_2065_2065), [1983 1592](https://fedlex.data.admin.ch/eli/oc/1983/1592_1592_1592), [1984 973](https://fedlex.data.admin.ch/eli/oc/1984/973_973_973)[1491](https://fedlex.data.admin.ch/eli/oc/1984/1491_1491_1491), [1985 360](https://fedlex.data.admin.ch/eli/oc/1985/360_360_360), [1986 169](https://fedlex.data.admin.ch/eli/oc/1986/169_169_169), [1987 314](https://fedlex.data.admin.ch/eli/oc/1987/314_314_314)[1346](https://fedlex.data.admin.ch/eli/oc/1987/1346_1346_1346), [1988 1264](https://fedlex.data.admin.ch/eli/oc/1988/1264_1264_1264), [1989 276](https://fedlex.data.admin.ch/eli/oc/1989/276_276_276), [1990 55](https://fedlex.data.admin.ch/eli/oc/1990/55_55_55), [1991 789](https://fedlex.data.admin.ch/eli/oc/1991/789_789_789), [1992 657](https://fedlex.data.admin.ch/eli/oc/1992/657_657_657)[2219](https://fedlex.data.admin.ch/eli/oc/1992/2219_2219_2219), [1993 3097](https://fedlex.data.admin.ch/eli/oc/1993/3097_3097_3097), [2000 916](https://fedlex.data.admin.ch/eli/oc/2000/139), **2002** 1145, [2005 1835](https://fedlex.data.admin.ch/eli/oc/2005/306), [2006 3319](https://fedlex.data.admin.ch/eli/oc/2006/514)e [2012 1143](https://fedlex.data.admin.ch/eli/oc/2012/166). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: RU **1974** 2168, [1977 147](https://fedlex.data.admin.ch/eli/oc/1977/147_147_147)[1464](https://fedlex.data.admin.ch/eli/oc/1977/1464_1464_1464), [1978 64](https://fedlex.data.admin.ch/eli/oc/1978/64_64_64), [1982 285](https://fedlex.data.admin.ch/eli/oc/1982/285_285_285)[2065](https://fedlex.data.admin.ch/eli/oc/1982/2065_2065_2065), [1983 1592](https://fedlex.data.admin.ch/eli/oc/1983/1592_1592_1592), [1984 973](https://fedlex.data.admin.ch/eli/oc/1984/973_973_973)[1491](https://fedlex.data.admin.ch/eli/oc/1984/1491_1491_1491), [1985 360](https://fedlex.data.admin.ch/eli/oc/1985/360_360_360), [1986 169](https://fedlex.data.admin.ch/eli/oc/1986/169_169_169), [1987 314](https://fedlex.data.admin.ch/eli/oc/1987/314_314_314)[1346](https://fedlex.data.admin.ch/eli/oc/1987/1346_1346_1346), [1988 1264](https://fedlex.data.admin.ch/eli/oc/1988/1264_1264_1264), [1989 276](https://fedlex.data.admin.ch/eli/oc/1989/276_276_276), [1990 55](https://fedlex.data.admin.ch/eli/oc/1990/55_55_55), [1991 789](https://fedlex.data.admin.ch/eli/oc/1991/789_789_789), [1992 657](https://fedlex.data.admin.ch/eli/oc/1992/657_657_657)[2219](https://fedlex.data.admin.ch/eli/oc/1992/2219_2219_2219), [1993 3097](https://fedlex.data.admin.ch/eli/oc/1993/3097_3097_3097), [2000 916](https://fedlex.data.admin.ch/eli/oc/2000/139), **2002** 1145, [2005 1835](https://fedlex.data.admin.ch/eli/oc/2005/306), [2006 3319](https://fedlex.data.admin.ch/eli/oc/2006/514)e [2012 1143](https://fedlex.data.admin.ch/eli/oc/2012/166). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty

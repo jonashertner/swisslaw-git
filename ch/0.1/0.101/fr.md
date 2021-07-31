@@ -4,26 +4,26 @@ title: "Convention du 4 novembre 1950 de sauvegarde des droits de l'homme et des
 short: CEDH
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151"
 language: fr
-version: 2012-02-23
+version: 2021-08-01
 adopted: 1950-11-04
 in_force: 1974-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20120223/fr/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20120223-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20120223/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-1974-2151_2151_2151-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/2151_2151_2151/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention de sauvegarde des droits de l’homme et des libertés fondamentales
+# Convention de sauvegarde des droits de l’homme et des libertés fondamentales****
 
-RO **1974** 2151; FF **1974** I 1020
+RO **1974** 2151; FF **1974** I 1020[^t-1]
 
-Texte original*[^t-1]*
+Texte original
 
 Conclue à Rome le 4 novembre 1950 Approuvée par l’Assemblée fédérale le 3 octobre 1974[^t-2] Instrument de ratification déposé par la Suisse le 28 novembre 1974 Entrée en vigueur pour la Suisse le 28 novembre 1974
 
-(Etat le 23 février 2012)
+(Etat le 1<sup>er</sup> août 2021)
 
-[^t-1]: Le texte original anglais de la Convention peut être obtenu auprès de l’OFCL, Vente des publications fédérales, 3003 Berne ([RO 1975 614](https://fedlex.data.admin.ch/eli/oc/1975/614_614_614)).
+[^t-1]: Les Am. du 13 mai 2004 ([RS 0.101.094](https://fedlex.data.admin.ch/eli/cc/2009/377); [RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)) et du 24 juin 2013 (RS **0.101.95**; [RO 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461)) ont été insérés dans le Prot. Ces Am. ne régissent que les rapports entre les États les ayant ratifiés. Voir par conséquent leurs champs d’application dans les textes RS cités entre parenthèse.
 [^t-2]: Art. 1 al. 1 let. a de l’AF du 3 oct. 1974 ([RO 1974 2148](https://fedlex.data.admin.ch/eli/oc/1974/2148_2148_2148))
 
 Les Gouvernements signataires, membres du Conseil de l’Europe,
@@ -36,9 +36,13 @@ considérant que le but du Conseil de l’Europe est de réaliser une union plus
 
 réaffirmant leur profond attachement à ces libertés fondamentales qui constituent les assises mêmes de la justice et de la paix dans le monde et dont le maintien repose essentiellement sur un régime politique véritablement démocratique, d’une part, et, d’autre part, sur une conception commune et un commun respect des Droits de l’homme dont ils se réclament,
 
-résolus, en tant que gouvernements d’Etats européens animés d’un même esprit et possédant un patrimoine commun d’idéal et de traditions politiques, de respect de la liberté et de prééminence du droit, à prendre les premières mesures propres à assurer la garantie collective de certains droits énoncés dans la Déclaration Universelle,
+résolus, en tant que gouvernements d’États européens animés d’un même esprit et possédant un patrimoine commun d’idéal et de traditions politiques, de respect de la liberté et de prééminence du droit, à prendre les premières mesures propres à assurer la garantie collective de certains droits énoncés dans la Déclaration Universelle,
+
+affirmant qu’il incombe au premier chef aux Hautes Parties contractantes, conformément au principe de subsidiarité, de garantir le respect des droits et libertés définis dans la présente Convention et ses protocoles, et que, ce faisant, elles jouissent d’une marge d’appréciation, sous le contrôle de la Cour européenne des Droits de l’Homme instituée par la présente Convention,[^ingress-1]
 
 sont convenus de ce qui suit:
+
+[^ingress-1]: Considérant introduit par l’art. 1 du prot. n<sup>o</sup> 15 du 24 juin 2013, approuvé par l’Ass. féd. le 18 mars 2016 et en vigueur pour la Suisse depuis le 1<sup>er</sup> août 2021 ([RO 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 2137](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 1
 
@@ -91,7 +95,7 @@ N’est pas considéré comme «travail forcé ou obligatoire» au sens du prés
 
 <sup>1.</sup>
 
-Toute personne a droit à la liberté et à la sûreté. Nul ne peut être privé de sa liberté, sauf dans les cas suivants et selon les voies légales :
+Toute personne a droit à la liberté et à la sûreté. Nul ne peut être privé de sa liberté, sauf dans les cas suivants et selon les voies légales:
 
 - a) s’il est détenu régulièrement après condamnation par un tribunal compétent;
 - b) s’il a fait l’objet d’une arrestation ou d’une détention régulières pour insoumission à une ordonnance rendue, conformément à la loi, par un tribunal ou en vue de garantir l’exécution d’une obligation prescrite par la loi;
@@ -154,7 +158,7 @@ Tout accusé a droit notamment à:
 
 **Liberté d’expression**
 
-<sup>1.</sup> Toute personne a droit à la liberté d’expression. Ce droit comprend la liberté d’opinion et la liberté de recevoir ou de communiquer des informations ou des idées sans qu’il puisse y avoir ingérence d’autorités publiques et sans considération de frontière. Le présent article n’empêche pas les Etats de soumettre les entreprises de radiodiffusion, de cinéma ou de télévision à un régime d’autorisations.
+<sup>1.</sup> Toute personne a droit à la liberté d’expression. Ce droit comprend la liberté d’opinion et la liberté de recevoir ou de communiquer des informations ou des idées sans qu’il puisse y avoir ingérence d’autorités publiques et sans considération de frontière. Le présent article n’empêche pas les États de soumettre les entreprises de radiodiffusion, de cinéma ou de télévision à un régime d’autorisations.
 
 <sup>2.</sup> L’exercice de ces libertés comportant des devoirs et des responsabilités peut être soumis à certaines formalités, conditions, restrictions ou sanctions prévues par la loi, qui constituent des mesures nécessaires, dans une société démocratique, à la sécurité nationale, à l’intégrité territoriale ou à la sûreté publique, à la défense de l’ordre et à la prévention du crime, à la protection de la santé ou de la morale, à la protection de la réputation ou des droits d’autrui, pour empêcher la divulgation d’informations confidentielles ou pour garantir l’autorité et l’impartialité du pouvoir judiciaire.
 
@@ -164,13 +168,13 @@ Tout accusé a droit notamment à:
 
 <sup>1.</sup> Toute personne a droit à la liberté de réunion pacifique et à la liberté d’association, y compris le droit de fonder avec d’autres des syndicats et de s’affilier à des syndicats pour la défense de ses intérêts.
 
-<sup>2.</sup> L’exercice de ces droits ne peut faire l’objet d’autres restrictions que celles qui, prévues par la loi, constituent des mesures nécessaires, dans une société démocratique, à la sécurité nationale, à la sûreté publique, à la défense de l’ordre et à la prévention du crime, à la protection de la santé ou de la morale, ou à la protection des droits et libertés d’autrui. Le présent article n’interdit pas que des restrictions légitimes soient imposées à l’exercice de ces droits par les membres des forces armées, de la police ou de l’administration de l’Etat.
+<sup>2.</sup> L’exercice de ces droits ne peut faire l’objet d’autres restrictions que celles qui, prévues par la loi, constituent des mesures nécessaires, dans une société démocratique, à la sécurité nationale, à la sûreté publique, à la défense de l’ordre et à la prévention du crime, à la protection de la santé ou de la morale, ou à la protection des droits et libertés d’autrui. Le présent article n’interdit pas que des restrictions légitimes soient imposées à l’exercice de ces droits par les membres des forces armées, de la police ou de l’administration de l’État.
 
 #### Art. 12
 
 **Droit au mariage**
 
-A partir de l’âge nubile, l’homme et la femme ont le droit de se marier et de fonder une famille selon les lois nationales régissant l’exercice de ce droit.
+À partir de l’âge nubile, l’homme et la femme ont le droit de se marier et de fonder une famille selon les lois nationales régissant l’exercice de ce droit.
 
 #### Art. 13
 
@@ -204,7 +208,7 @@ Aucune des dispositions des art. 10, 11 et 14 ne peut être considérée comme i
 
 **Interdiction de l’abus de droit**
 
-Aucune des dispositions de la présente Convention ne peut être interprétée comme impliquant pour un Etat, un groupement ou un individu, un droit quelconque de se livrer à une activité ou d’accomplir un acte visant à la destruction des droits ou libertés reconnus dans la présente Convention ou à des limitations plus amples de ces droits et libertés que celles prévues à ladite Convention.
+Aucune des dispositions de la présente Convention ne peut être interprétée comme impliquant pour un État, un groupement ou un individu, un droit quelconque de se livrer à une activité ou d’accomplir un acte visant à la destruction des droits ou libertés reconnus dans la présente Convention ou à des limitations plus amples de ces droits et libertés que celles prévues à ladite Convention.
 
 #### Art. 18
 
@@ -232,23 +236,27 @@ La Cour se compose d’un nombre de juges égal à celui des Hautes Parties cont
 
 #### Art. 21
 
-**Conditions d’exercice des fonctions**
+**Conditions d’exercice des fonctions**[^21-1]
 
 <sup>1.</sup> Les juges doivent jouir de la plus haute considération morale et réunir les conditions requises pour l’exercice de hautes fonctions judiciaires ou être des jurisconsultes possédant une compétence notoire.
 
-<sup>2.</sup> Les juges siègent à la Cour à titre individuel.
+<sup>2.</sup> Les candidats doivent être âgés de moins de 65 ans à la date à laquelle la liste de trois candidats est attendue par l’Assemblée parlementaire, en vertu de l’art. 22.
 
-<sup>3.</sup> Pendant la durée de leur mandat, les juges ne peuvent exercer aucune activité incompatible avec les exigences d’indépendance, d’impartialité ou de disponibilité requise par une activité exercée à plein temps; toute question soulevée en application de ce paragraphe est tranchée par la Cour.
+<sup>3.</sup> Les juges siègent à la Cour à titre individuel.
+
+<sup>4.</sup> Pendant la durée de leur mandat, les juges ne peuvent exercer aucune activité incompatible avec les exigences d’indépendance, d’impartialité ou de disponibilité requise par une activité exercée à plein temps; toute question soulevée en application de ce paragraphe est tranchée par la Cour.
+
+[^21-1]: Mise à jour par l’art. 2 par. 1 et 2 du prot. n<sup>o</sup> 15 du 24 juin 2013, approuvé par l’Ass. féd. le 18 mars 2016 et en vigueur pour la Suisse depuis le 1<sup>er</sup> août 2021 ([RO 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 2137](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 22
 
-**Election des juges**
+**Élection des juges**
 
 <sup>1.</sup> Les juges sont élus par l’Assemblée parlementaire au titre de chaque Haute Partie contractante, à la majorité des voix exprimées, sur une liste de trois candidats présentés par la Haute Partie contractante.
 
 <sup>2.</sup> …[^22-1]
 
-[^22-1]: Abrogé par l’art. 1 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et avec effet au 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^22-1]: Abrogé par l’art. 1 par. 1 et 2 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et avec effet au 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
 
 #### Art. 23
 
@@ -256,13 +264,11 @@ La Cour se compose d’un nombre de juges égal à celui des Hautes Parties cont
 
 <sup>1.</sup> Les juges sont élus pour une durée de neuf ans. Ils ne sont pas rééligibles.
 
-<sup>2.</sup> Le mandat des juges s’achève dès qu’ils atteignent l’âge de 70 ans.
+<sup>2.</sup> Les juges restent en fonction jusqu’à leur remplacement. Ils continuent toutefois de connaître des affaires dont ils sont déjà saisis.
 
-<sup>3.</sup> Les juges restent en fonction jusqu’à leur remplacement. Ils continuent toutefois de connaître des affaires dont ils sont déjà saisis.
+<sup>3.</sup> Un juge ne peut être relevé de ses fonctions que si les autres juges décident, à la majorité des deux tiers, que ce juge a cessé de répondre aux conditions requises.
 
-<sup>4.</sup> Un juge ne peut être relevé de ses fonctions que si les autres juges décident, à la majorité des deux tiers, que ce juge a cessé de répondre aux conditions requises.
-
-[^23-1]: Nouvelle teneur selon l’art. 2 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^23-1]: Nouvelle teneur selon l’art. 2 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)). Mise à jour par l’art. 2 par. 3 du prot. n<sup>o</sup> 15 du 24 juin 2013, approuvé par l’Ass. féd. le 18 mars 2016 et en vigueur pour la Suisse depuis le 1<sup>er</sup> août 2021 ([RO 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 2137](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 24
 
@@ -297,7 +303,7 @@ La Cour réunie en Assemblée plénière
 
 <sup>1.</sup> Pour l’examen des affaires portées devant elle, la Cour siège en formations de juge unique, en comités de trois juges, en Chambres de sept juges et en une Grande Chambre de dix-sept juges. Les Chambres de la Cour constituent les comités pour une période déterminée.
 
-<sup>2.</sup> A la demande de l’Assemblée plénière de la Cour, le Comité des Ministres peut, par une décision unanime et pour une période déterminée, réduire à cinq le nombre de juges des Chambres.
+<sup>2.</sup> À la demande de l’Assemblée plénière de la Cour, le Comité des Ministres peut, par une décision unanime et pour une période déterminée, réduire à cinq le nombre de juges des Chambres.
 
 <sup>3.</sup> Un juge siégeant en tant que juge unique n’examine aucune requête introduite contre la Haute Partie contractante au titre de laquelle ce juge a été élu.
 
@@ -327,7 +333,7 @@ La Cour réunie en Assemblée plénière
 
 Un comité saisi d’une requête individuelle introduite en vertu de l’art. 34 peut, par vote unanime:
 
-- a) la déclarer irrecevable ou la rayer du rôle lorsqu’une telle décision peut être prise sans examen complémentaire; ou
+- a) la déclarer irrecevable ou la rayer du rôle lorsqu’une telle décision peut être prise sans examen complémentaire, ou
 - b) la déclarer recevable et rendre conjointement un arrêt sur le fond lorsque la question relative à l’interprétation ou à l’application de la Convention ou de ses Protocoles qui est à l’origine de l’affaire fait l’objet d’une jurisprudence bien établie de la Cour.
 
 <sup>2.</sup> Les décisions et arrêts prévus au par. 1 sont définitifs.
@@ -354,16 +360,18 @@ Un comité saisi d’une requête individuelle introduite en vertu de l’art. 3
 
 **Dessaisissement en faveur de la Grande Chambre**
 
-Si l’affaire pendante devant une Chambre soulève une question grave relative à l’interprétation de la Convention ou de ses protocoles, ou si la solution d’une question peut conduire à une contradiction avec un arrêt rendu antérieurement par la Cour, la Chambre peut, tant qu’elle n’a pas rendu son arrêt, se dessaisir au profit de la Grande Chambre, à moins que l’une des parties ne s’y oppose.
+Si l’affaire pendante devant une Chambre soulève une question grave relative à l’interprétation de la Convention ou de ses protocoles, ou si la solution d’une question peut conduire à une contradiction avec un arrêt rendu antérieurement par la Cour, la Chambre peut, tant qu’elle n’a pas rendu son arrêt, se dessaisir au profit de la Grande Chambre, ...[^30-1].
+
+[^30-1]: Partie de la phrase abrogée par l’art. 3 du prot. n<sup>o</sup> 15 du 24 juin 2013, approuvé par l’Ass. féd. le 18 mars 2016 et avec effet pour la Suisse au 1<sup>er</sup> août 2021 ([RO 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 2137](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 31
 
 **Attributions de la Grande Chambre**
 
-La Grande Chambre
+La Grande Chambre:
 
 - a) se prononce sur les requêtes introduites en vertu de l’art. 33 ou de l’art. 34 lorsque l’affaire lui a été déférée par la Chambre en vertu de l’art. 30 ou lorsque l’affaire lui a été déférée en vertu de l’art. 43;
-- b)[^31-1] se prononce sur les questions dont la Cour est saisie par le Comité des Ministres en vertu de l’art. 46, par. 4; et
+- b)[^31-1] se prononce sur les questions dont la Cour est saisie par le Comité des Ministres en vertu de l’art. 46, par. 4, et
 - c)[^31-2] examine les demandes d’avis consultatifs introduites en vertu de l’article 47.
 
 [^31-1]: Introduite par par l’art. 10 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
@@ -399,19 +407,20 @@ La Cour peut être saisie d’une requête par toute personne physique, toute or
 
 <sup>2.</sup> La Cour ne retient aucune requête individuelle introduite en application de l’art. 34, lorsque
 
-- a) elle est anonyme; ou
+- a) elle est anonyme, ou
 - b) elle est essentiellement la même qu’une requête précédemment examinée par la Cour ou déjà soumise à une autre instance internationale d’enquête ou de règlement, et si elle ne contient pas de faits nouveaux.
 
 <sup>3.</sup>
 
 La Cour déclare irrecevable toute requête individuelle introduite en application de l’art. 34 lorsqu’elle estime:
 
-- a) que la requête est incompatible avec les dispositions de la Convention ou de ses Protocoles, manifestement mal fondée ou abusive; ou
-- b) que le requérant n’a subi aucun préjudice important, sauf si le respect des droits de l’homme garantis par la Convention et ses Protocoles exige un examen de la requête au fond et à condition de ne rejeter pour ce motif aucune affaire qui n’a pas été dûment examinée par un tribunal interne.[^35-1]
+- a) que la requête est incompatible avec les dispositions de la Convention ou de ses Protocoles, manifestement mal fondée ou abusive;
+- b)[^35-1] que le requérant n’a subi aucun préjudice important, sauf si le respect des droits de l’homme garantis par la Convention et ses Protocoles exige un examen de la requête au fond ...[^35-2].
 
 <sup>4.</sup> La Cour rejette toute requête qu’elle considère comme irrecevable par application du présent article. Elle peut procéder ainsi à tout stade de la procédure.
 
 [^35-1]: Nouvelle teneur selon l’art. 12 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
+[^35-2]: Partie de la phrase abrogée par l’art. 5 du prot. n<sup>o</sup> 15 du 24 juin 2013, approuvé par l’Ass. féd. le 18 mars 2016 et avec effet pour la Suisse au 1<sup>er</sup> août 2021 ([RO 2021 461](https://fedlex.data.admin.ch/eli/oc/2021/461); [FF 2015 2137](https://fedlex.data.admin.ch/eli/fga/2015/479)).
 
 #### Art. 36
 
@@ -429,12 +438,12 @@ La Cour déclare irrecevable toute requête individuelle introduite en applicati
 
 **Radiation**
 
-<sup>1.</sup> A tout moment de la procédure, la Cour peut décider de rayer une requête du rôle lorsque les circonstances permettent de conclure
+<sup>1.</sup> À tout moment de la procédure, la Cour peut décider de rayer une requête du rôle lorsque les circonstances permettent de conclure
 
 Toutefois, la Cour poursuit l’examen de la requête si le respect des droits de l’homme garantis par la Convention et ses protocoles l’exige.
 
-- a) que le requérant n’entend plus la maintenir; ou
-- b) que le litige a été résolu; ou
+- a) que le requérant n’entend plus la maintenir, ou
+- b) que le litige a été résolu, ou
 - c) que, pour tout autre motif dont la Cour constate l’existence, il ne se justifie plus de poursuivre l’examen de la requête.
 
 <sup>2.</sup> La Cour peut décider la réinscription au rôle d’une requête lorsqu’elle estime que les circonstances le justifient.
@@ -451,7 +460,7 @@ La Cour examine l’affaire de façon contradictoire avec les représentants des
 
 **Règlements amiables**[^39-1]
 
-<sup>1.</sup> A tout moment de la procédure, la Cour peut se mettre à la disposition des intéressés en vue de parvenir à un règlement amiable de l’affaire s’inspirant du respect des droits de l’homme tels que les reconnaissent la Convention et ses Protocoles.
+<sup>1.</sup> À tout moment de la procédure, la Cour peut se mettre à la disposition des intéressés en vue de parvenir à un règlement amiable de l’affaire s’inspirant du respect des droits de l’homme tels que les reconnaissent la Convention et ses Protocoles.
 
 <sup>2.</sup> La procédure décrite au par. 1 est confidentielle.
 
@@ -499,8 +508,8 @@ Les arrêts des Chambres deviennent définitifs conformément aux dispositions d
 
 <sup>2.</sup> L’arrêt d’une Chambre devient définitif
 
-- a) lorsque les parties déclarent qu’elles ne demanderont pas le renvoi de l’affaire devant la Grande Chambre; ou
-- b) trois mois après la date de l’arrêt, si le renvoi de l’affaire devant la Grande Chambre n’a pas été demandé; ou
+- a) lorsque les parties déclarent qu’elles ne demanderont pas le renvoi de l’affaire devant la Grande Chambre, ou
+- b) trois mois après la date de l’arrêt, si le renvoi de l’affaire devant la Grande Chambre n’a pas été demandé, ou
 - c) lorsque le collège de la Grande Chambre rejette la demande de renvoi formulée en application de l’art. 43.
 
 <sup>3.</sup> L’arrêt définitif est publié.
@@ -605,19 +614,19 @@ Les Hautes Parties contractantes renoncent réciproquement, sauf compromis spéc
 
 **Application territoriale**
 
-<sup>1.</sup> Tout Etat peut, au moment de la ratification ou à tout autre moment par la suite, déclarer, par notification adressée au Secrétaire Général du Conseil de l’Europe, que la présente Convention s’appliquera, sous réserve du par. 4 du présent article, à tous les territoires ou à l’un quelconque des territoires dont il assure les relations internationales.
+<sup>1.</sup> Tout État peut, au moment de la ratification ou à tout autre moment par la suite, déclarer, par notification adressée au Secrétaire Général du Conseil de l’Europe, que la présente Convention s’appliquera, sous réserve du par. 4 du présent article, à tous les territoires ou à l’un quelconque des territoires dont il assure les relations internationales.
 
 <sup>2.</sup> La Convention s’appliquera au territoire ou aux territoires désignés dans la notification à partir du trentième jour qui suivra la date à laquelle le Secrétaire Général du Conseil de l’Europe aura reçu cette notification.
 
 <sup>3.</sup> Dans lesdits territoires les dispositions de la présente Convention seront appliquées en tenant compte des nécessités locales.
 
-<sup>4.</sup> Tout Etat qui a fait une déclaration conformément au premier paragraphe de cet article, peut, à tout moment par la suite, déclarer relativement à un ou plusieurs des territoires visés dans cette déclaration qu’il accepte la compétence de la Cour pour connaître des requêtes de personnes physiques, d’organisations non gouvernementales ou de groupes de particuliers, comme le prévoit l’art. 34 de la Convention.
+<sup>4.</sup> Tout État qui a fait une déclaration conformément au premier paragraphe de cet article, peut, à tout moment par la suite, déclarer relativement à un ou plusieurs des territoires visés dans cette déclaration qu’il accepte la compétence de la Cour pour connaître des requêtes de personnes physiques, d’organisations non gouvernementales ou de groupes de particuliers, comme le prévoit l’art. 34 de la Convention.
 
 #### Art. 57
 
 **Réserves**
 
-<sup>1.</sup> Tout Etat peut, au moment de la signature de la présente Convention ou du dépôt de son instrument de ratification, formuler une réserve au sujet d’une disposition particulière de la Convention, dans la mesure où une loi alors en vigueur sur son territoire n’est pas conforme à cette disposition. Les réserves de caractère général ne sont pas autorisées aux termes du présent article.
+<sup>1.</sup> Tout État peut, au moment de la signature de la présente Convention ou du dépôt de son instrument de ratification, formuler une réserve au sujet d’une disposition particulière de la Convention, dans la mesure où une loi alors en vigueur sur son territoire n’est pas conforme à cette disposition. Les réserves de caractère général ne sont pas autorisées aux termes du présent article.
 
 <sup>2.</sup> Toute réserve émise conformément au présent article comporte un bref exposé de la loi en cause.
 
@@ -647,95 +656,82 @@ Les Hautes Parties contractantes renoncent réciproquement, sauf compromis spéc
 
 5.[^59-4] Le Secrétaire Général du Conseil de l’Europe notifiera à tous les membres du Conseil de l’Europe l’entrée en vigueur de la Convention, les noms des Hautes Parties contractantes qui l’auront ratifiée, ainsi que le dépôt de tout instrument de ratification intervenu ultérieurement.
 
-Fait à Rome, le 4 novembre 1950, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera des copies certifiées conformes à tous les signataires.
-
 [^59-1]: Introduit par l’art. 17 du prot. n<sup>o</sup> 14 du 13 mai 2004, approuvé par l’Ass. féd. le 16 déc. 2005, et en vigueur depuis le 1<sup>er</sup> juin 2010 ([RO 2009 3067](https://fedlex.data.admin.ch/eli/oc/2009/377)[3065](https://fedlex.data.admin.ch/eli/oc/2009/376), [2010 1241](https://fedlex.data.admin.ch/eli/oc/2010/173); [FF 2005 1989](https://fedlex.data.admin.ch/eli/fga/2005/260)).
 [^59-2]: Anciennement par. 2.
 [^59-3]: Anciennement par. 3.
 [^59-4]: Anciennement par. 4.
 
-(Suivent les signatures)
+Fait à Rome, le 4 novembre 1950, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera des copies certifiées conformes à tous les signataires. (Suivent les signatures)
 
 Champ d’application le 23 février 2012**[^t-3]**
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Albanie</td><td>2 octobre</td><td>1996</td><td>2 octobre</td><td>1996</td></tr>
-<tr><td colspan="2">Allemagne</td><td>5 décembre</td><td>1952</td><td>3 septembre</td><td>1953</td></tr>
-<tr><td colspan="2">Andorre\*</td><td>22 janvier</td><td>1996</td><td>22 janvier</td><td>1996</td></tr>
-<tr><td colspan="2">Arménie\*</td><td>26 avril</td><td>2002</td><td>26 avril</td><td>2002</td></tr>
-<tr><td colspan="2">Autriche\*</td><td>3 septembre</td><td>1958</td><td>3 septembre</td><td>1958</td></tr>
-<tr><td colspan="2">Azerbaïdjan\*</td><td>15 avril</td><td>2002</td><td>15 avril</td><td>2002</td></tr>
-<tr><td colspan="2">Belgique</td><td>14 juin</td><td>1955</td><td>14 juin</td><td>1955</td></tr>
-<tr><td colspan="2">Bosnie et Herzégovine</td><td>12 juillet</td><td>2002</td><td>12 juillet</td><td>2002</td></tr>
-<tr><td colspan="2">Bulgarie</td><td>7 septembre</td><td>1992</td><td>7 septembre</td><td>1992</td></tr>
-<tr><td colspan="2">Chypre</td><td>6 octobre</td><td>1962</td><td>6 octobre</td><td>1962</td></tr>
-<tr><td colspan="2">Croatie\*</td><td>5 novembre</td><td>1997</td><td>5 novembre</td><td>1997</td></tr>
-<tr><td colspan="2">Danemark</td><td>13 avril</td><td>1953</td><td>3 septembre</td><td>1953</td></tr>
-<tr><td colspan="2">Espagne\*</td><td>4 octobre</td><td>1979</td><td>4 octobre</td><td>1979</td></tr>
-<tr><td colspan="2">Estonie\*</td><td>16 avril</td><td>1996</td><td>16 avril</td><td>1996</td></tr>
-<tr><td colspan="2">Finlande\*</td><td>10 mai</td><td>1990</td><td>10 mai</td><td>1990</td></tr>
-<tr><td colspan="2">France\*</td><td>3 mai</td><td>1974</td><td>3 mai</td><td>1974</td></tr>
-<tr><td colspan="2">Géorgie</td><td>20 mai</td><td>1999</td><td>20 mai</td><td>1999</td></tr>
-<tr><td colspan="2">Grèce</td><td>28 novembre</td><td>1974</td><td>28 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">Hongrie</td><td>5 novembre</td><td>1992</td><td>5 novembre</td><td>1992</td></tr>
-<tr><td colspan="2">Irlande\*</td><td>25 février</td><td>1953</td><td>3 septembre</td><td>1953</td></tr>
-<tr><td colspan="2">Islande</td><td>29 juin</td><td>1953</td><td>3 septembre</td><td>1953</td></tr>
-<tr><td colspan="2">Italie</td><td>26 octobre</td><td>1955</td><td>26 octobre</td><td>1955</td></tr>
-<tr><td colspan="2">Lettonie</td><td>27 juin</td><td>1997</td><td>27 juin</td><td>1997</td></tr>
-<tr><td colspan="2">Liechtenstein\*</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
-<tr><td colspan="2">Lituanie</td><td>20 juin</td><td>1995</td><td>20 juin</td><td>1995</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>3 septembre</td><td>1953</td><td>3 septembre</td><td>1953</td></tr>
-<tr><td colspan="2">Macédoine</td><td>10 avril</td><td>1997</td><td>10 avril</td><td>1997</td></tr>
-<tr><td colspan="2">Malte\*</td><td>23 janvier</td><td>1967</td><td>23 janvier</td><td>1967</td></tr>
-<tr><td colspan="2">Moldova\*</td><td>12 septembre</td><td>1997</td><td>12 septembre</td><td>1997</td></tr>
-<tr><td colspan="2">Monaco\*</td><td>30 novembre</td><td>2005</td><td>30 novembre</td><td>2005</td></tr>
-<tr><td colspan="2">Monténégro<sup>a</sup></td><td>3 mars</td><td>2004</td><td>6 juin</td><td>2006</td></tr>
-<tr><td colspan="2">Norvège</td><td>15 janvier</td><td>1952</td><td>3 septembre</td><td>1953</td></tr>
-<tr><td colspan="2">Pays-Bas</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">[tab] Curaçao<sup>b</sup></td><td>1<sup>er</sup> décembre</td><td>1955</td><td>31 décembre</td><td>1955</td></tr>
-<tr><td colspan="2">[tab] Partie caraïbe (Bonaire, Sint Eustatius et Saba)<sup>b</sup></td><td>1<sup>er</sup> décembre</td><td>1955</td><td>31 décembre</td><td>1955</td></tr>
-<tr><td colspan="2">[tab] Sint Maarten<sup>b</sup></td><td>1<sup>er</sup> décembre</td><td>1955</td><td>31 décembre</td><td>1955</td></tr>
-<tr><td colspan="2">Pologne</td><td>19 janvier</td><td>1993</td><td>19 janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Portugal\*</td><td>9 novembre</td><td>1978</td><td>9 novembre</td><td>1978</td></tr>
-<tr><td colspan="2">Roumanie</td><td>20 juin</td><td>1994</td><td>20 juin</td><td>1994</td></tr>
-<tr><td colspan="2">Royaume-Uni\*</td><td>8 mars</td><td>1951</td><td>3 septembre</td><td>1953</td></tr>
-<tr><td colspan="2">[tab] Akrotiri et Dhekelia<sup>\*</sup> <sup>c</sup></td><td>1<sup>er</sup> avril</td><td>2004</td><td>1<sup>er</sup> mai</td><td>2004</td></tr>
-<tr><td colspan="2">[tab] Anguilla<sup>d</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td colspan="2">[tab] Bermudes <sup>d</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td colspan="2">[tab] Géorgie du Sud et Iles Sandwich du Sud <sup>e</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td colspan="2">[tab] Gibraltar <sup>e</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td colspan="2">[tab] Guernesey<sup>f</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td colspan="2">[tab] Ile de Man<sup>g</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td colspan="2">[tab] Iles Cayman<sup>f</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td colspan="2">[tab] Iles Falkland<sup>e</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td colspan="2">[tab] Iles Turques et Caïques<sup>h</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td colspan="2">[tab] Iles Vierges britanniques<sup>i</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td colspan="2">[tab] Jersey<sup>j</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td colspan="2">[tab] Montserrat<sup>d</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td colspan="2">[tab] Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)<sup>d</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
-<tr><td colspan="2">République tchèque\*</td><td>18 mars</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Russie\*</td><td>5 mai</td><td>1998</td><td>5 mai</td><td>1998</td></tr>
-<tr><td colspan="2">Saint-Marin\*</td><td>22 mars</td><td>1989</td><td>22 mars</td><td>1989</td></tr>
-<tr><td colspan="2">Serbie</td><td>3 mars</td><td>2004</td><td>3 mars</td><td>2004</td></tr>
-<tr><td colspan="2">Slovaquie\*</td><td>18 mars</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Slovénie</td><td>28 juin</td><td>1994</td><td>28 juin</td><td>1994</td></tr>
-<tr><td colspan="2">Suède</td><td>4 février</td><td>1952</td><td>3 septembre</td><td>1953</td></tr>
-<tr><td colspan="2">Suisse</td><td>28 novembre</td><td>1974</td><td>28 novembre</td><td>1974</td></tr>
-<tr><td colspan="2">Turquie</td><td>18 mai</td><td>1954</td><td>18 mai</td><td>1954</td></tr>
-<tr><td colspan="2">Ukraine\*</td><td>11 septembre</td><td>1997</td><td>11 septembre</td><td>1997</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations.</td></tr>
-<tr><td></td><td colspan="5">Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int/Treaty/FR/v3DefaultFRE.asp ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Le 9 mai 2007 lors de sa 994<sup>e</sup> bis session le Comité des ministres du Conseil de l’Europe a décidé de considérer Monténegro comme Etat partie à cette Convention à partir du 6 juin 2006. Les signature et ratification sont celles de la «Serbie et Monténegro».</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Renouvellement de la déclaration d’application au titre de l’art. 56.</td></tr>
-<tr><td><sup>c</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 1<sup>er</sup> mai 2004.</td></tr>
-<tr><td><sup>d</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 22 nov. 2010.</td></tr>
-<tr><td>e</td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 14 janv. 2006.</td></tr>
-<tr><td><sup>f</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 23 fév. 2006.</td></tr>
-<tr><td><sup>g</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 1<sup>er</sup> juin 2003.</td></tr>
-<tr><td><sup>h</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 14 oct. 2009.</td></tr>
-<tr><td><sup>i</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 25 sept. 2009.</td></tr>
-<tr><td><sup>j</sup></td><td colspan="5">Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 14 janv. 2001.</td></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Albanie</td><td>2 octobre</td><td>1996</td><td>2 octobre</td><td>1996</td></tr>
+<tr><td>Allemagne</td><td>5 décembre</td><td>1952</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td>Andorre\*</td><td>22 janvier</td><td>1996</td><td>22 janvier</td><td>1996</td></tr>
+<tr><td>Arménie\*</td><td>26 avril</td><td>2002</td><td>26 avril</td><td>2002</td></tr>
+<tr><td>Autriche\*</td><td>3 septembre</td><td>1958</td><td>3 septembre</td><td>1958</td></tr>
+<tr><td>Azerbaïdjan\*</td><td>15 avril</td><td>2002</td><td>15 avril</td><td>2002</td></tr>
+<tr><td>Belgique</td><td>14 juin</td><td>1955</td><td>14 juin</td><td>1955</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>12 juillet</td><td>2002</td><td>12 juillet</td><td>2002</td></tr>
+<tr><td>Bulgarie</td><td>7 septembre</td><td>1992</td><td>7 septembre</td><td>1992</td></tr>
+<tr><td>Chypre</td><td>6 octobre</td><td>1962</td><td>6 octobre</td><td>1962</td></tr>
+<tr><td>Croatie\*</td><td>5 novembre</td><td>1997</td><td>5 novembre</td><td>1997</td></tr>
+<tr><td>Danemark</td><td>13 avril</td><td>1953</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td>Espagne\*</td><td>4 octobre</td><td>1979</td><td>4 octobre</td><td>1979</td></tr>
+<tr><td>Estonie\*</td><td>16 avril</td><td>1996</td><td>16 avril</td><td>1996</td></tr>
+<tr><td>Finlande\*</td><td>10 mai</td><td>1990</td><td>10 mai</td><td>1990</td></tr>
+<tr><td>France\*</td><td>3 mai</td><td>1974</td><td>3 mai</td><td>1974</td></tr>
+<tr><td>Géorgie</td><td>20 mai</td><td>1999</td><td>20 mai</td><td>1999</td></tr>
+<tr><td>Grèce</td><td>28 novembre</td><td>1974</td><td>28 novembre</td><td>1974</td></tr>
+<tr><td>Hongrie</td><td>5 novembre</td><td>1992</td><td>5 novembre</td><td>1992</td></tr>
+<tr><td>Irlande\*</td><td>25 février</td><td>1953</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td>Islande</td><td>29 juin</td><td>1953</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td>Italie</td><td>26 octobre</td><td>1955</td><td>26 octobre</td><td>1955</td></tr>
+<tr><td>Lettonie</td><td>27 juin</td><td>1997</td><td>27 juin</td><td>1997</td></tr>
+<tr><td>Liechtenstein\*</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
+<tr><td>Lituanie</td><td>20 juin</td><td>1995</td><td>20 juin</td><td>1995</td></tr>
+<tr><td>Luxembourg</td><td>3 septembre</td><td>1953</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td>Macédoine</td><td>10 avril</td><td>1997</td><td>10 avril</td><td>1997</td></tr>
+<tr><td>Malte\*</td><td>23 janvier</td><td>1967</td><td>23 janvier</td><td>1967</td></tr>
+<tr><td>Moldova\*</td><td>12 septembre</td><td>1997</td><td>12 septembre</td><td>1997</td></tr>
+<tr><td>Monaco\*</td><td>30 novembre</td><td>2005</td><td>30 novembre</td><td>2005</td></tr>
+<tr><td>Monténégro<sup>a</sup></td><td>3 mars</td><td>2004</td><td>6 juin</td><td>2006</td></tr>
+<tr><td>Norvège</td><td>15 janvier</td><td>1952</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td>Pays-Bas</td><td>31 août</td><td>1954</td><td>31 août</td><td>1954</td></tr>
+<tr><td>[tab] Curaçao<sup>b</sup></td><td>1<sup>er</sup> décembre</td><td>1955</td><td>31 décembre</td><td>1955</td></tr>
+<tr><td>[tab] Partie caraïbe (Bonaire, Sint Eustatius et Saba)<sup>b</sup></td><td>1<sup>er</sup> décembre</td><td>1955</td><td>31 décembre</td><td>1955</td></tr>
+<tr><td>[tab] Sint Maarten<sup>b</sup></td><td>1<sup>er</sup> décembre</td><td>1955</td><td>31 décembre</td><td>1955</td></tr>
+<tr><td>Pologne</td><td>19 janvier</td><td>1993</td><td>19 janvier</td><td>1993</td></tr>
+<tr><td>Portugal\*</td><td>9 novembre</td><td>1978</td><td>9 novembre</td><td>1978</td></tr>
+<tr><td>Roumanie</td><td>20 juin</td><td>1994</td><td>20 juin</td><td>1994</td></tr>
+<tr><td>Royaume-Uni\*</td><td>8 mars</td><td>1951</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td>[tab] Akrotiri et Dhekelia<sup>\*</sup> <sup>c</sup></td><td>1<sup>er</sup> avril</td><td>2004</td><td>1<sup>er</sup> mai</td><td>2004</td></tr>
+<tr><td>[tab] Anguilla<sup>d</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>[tab] Bermudes <sup>d</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>[tab] Géorgie du Sud et Îles Sandwich du Sud <sup>e</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>[tab] Gibraltar <sup>e</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>[tab] Guernesey<sup>f</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>[tab] Île de Man<sup>g</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>[tab] Îles Cayman<sup>f</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>[tab] Îles Falkland<sup>e</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>[tab] Îles Turques et Caïques<sup>h</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>[tab] Îles Vierges britanniques<sup>i</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>[tab] Jersey<sup>j</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>[tab] Montserrat<sup>d</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>[tab] Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)<sup>d</sup></td><td>23 octobre</td><td>1953</td><td>23 novembre</td><td>1953</td></tr>
+<tr><td>République tchèque\*</td><td>18 mars</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Russie\*</td><td>5 mai</td><td>1998</td><td>5 mai</td><td>1998</td></tr>
+<tr><td>Saint-Marin\*</td><td>22 mars</td><td>1989</td><td>22 mars</td><td>1989</td></tr>
+<tr><td>Serbie</td><td>3 mars</td><td>2004</td><td>3 mars</td><td>2004</td></tr>
+<tr><td>Slovaquie\*</td><td>18 mars</td><td>1992</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Slovénie</td><td>28 juin</td><td>1994</td><td>28 juin</td><td>1994</td></tr>
+<tr><td>Suède</td><td>4 février</td><td>1952</td><td>3 septembre</td><td>1953</td></tr>
+<tr><td>Suisse</td><td>28 novembre</td><td>1974</td><td>28 novembre</td><td>1974</td></tr>
+<tr><td>Turquie</td><td>18 mai</td><td>1954</td><td>18 mai</td><td>1954</td></tr>
+<tr><td>Ukraine\*</td><td>11 septembre</td><td>1997</td><td>11 septembre</td><td>1997</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le 9 mai 2007 lors de sa 994<sup>e</sup> bis session le Comité des ministres du Conseil de l’Europe a décidé de considérer Monténegro comme État partie à cette Convention à partir du 6 juin 2006. Les signature et ratification sont celles de la «Serbie et Monténegro». <sup>b</sup> Renouvellement de la déclaration d’application au titre de l’art. 56. c Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 1<sup>er</sup> mai 2004. d Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 22 nov. 2010. e Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 14 janv. 2006. f Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 23 fév. 2006. g Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 1<sup>er</sup> juin 2003. h Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 14 oct. 2009. i Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 25 sept. 2009. <sup>j</sup> Déclaration permanente d’acceptation de la compétence de la Cour selon les art. 34 et 56 al. 4 à partir du 14 janv. 2001.</td></tr>
 </table>
 
-[^t-3]: RO **1974** 2168, [1977 147](https://fedlex.data.admin.ch/eli/oc/1977/147_147_147)[1464](https://fedlex.data.admin.ch/eli/oc/1977/1464_1464_1464), [1978 64](https://fedlex.data.admin.ch/eli/oc/1978/64_64_64), [1982 285](https://fedlex.data.admin.ch/eli/oc/1982/285_285_285)[2065](https://fedlex.data.admin.ch/eli/oc/1982/2065_2065_2065), [1983 1592](https://fedlex.data.admin.ch/eli/oc/1983/1592_1592_1592), [1984 973](https://fedlex.data.admin.ch/eli/oc/1984/973_973_973)[1491](https://fedlex.data.admin.ch/eli/oc/1984/1491_1491_1491), [1985 360](https://fedlex.data.admin.ch/eli/oc/1985/360_360_360), [1986 169](https://fedlex.data.admin.ch/eli/oc/1986/169_169_169), [1987 314](https://fedlex.data.admin.ch/eli/oc/1987/314_314_314)[1346](https://fedlex.data.admin.ch/eli/oc/1987/1346_1346_1346), [1988 1264](https://fedlex.data.admin.ch/eli/oc/1988/1264_1264_1264), [1989 276](https://fedlex.data.admin.ch/eli/oc/1989/276_276_276), [1990 55](https://fedlex.data.admin.ch/eli/oc/1990/55_55_55), [1991 789](https://fedlex.data.admin.ch/eli/oc/1991/789_789_789), [1992 657](https://fedlex.data.admin.ch/eli/oc/1992/657_657_657)[2219](https://fedlex.data.admin.ch/eli/oc/1992/2219_2219_2219), [1993 3097](https://fedlex.data.admin.ch/eli/oc/1993/3097_3097_3097), [2000 916](https://fedlex.data.admin.ch/eli/oc/2000/139), **2002** 1145, [2005 1835](https://fedlex.data.admin.ch/eli/oc/2005/306), [2006 3319](https://fedlex.data.admin.ch/eli/oc/2006/514)et **2012** 1143. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (http://www.dfae.admin.ch/traites).
+[^t-3]: RO **1974** 2168, [1977 147](https://fedlex.data.admin.ch/eli/oc/1977/147_147_147)[1464](https://fedlex.data.admin.ch/eli/oc/1977/1464_1464_1464), [1978 64](https://fedlex.data.admin.ch/eli/oc/1978/64_64_64), [1982 285](https://fedlex.data.admin.ch/eli/oc/1982/285_285_285)[2065](https://fedlex.data.admin.ch/eli/oc/1982/2065_2065_2065), [1983 1592](https://fedlex.data.admin.ch/eli/oc/1983/1592_1592_1592), [1984 973](https://fedlex.data.admin.ch/eli/oc/1984/973_973_973)[1491](https://fedlex.data.admin.ch/eli/oc/1984/1491_1491_1491), [1985 360](https://fedlex.data.admin.ch/eli/oc/1985/360_360_360), [1986 169](https://fedlex.data.admin.ch/eli/oc/1986/169_169_169), [1987 314](https://fedlex.data.admin.ch/eli/oc/1987/314_314_314)[1346](https://fedlex.data.admin.ch/eli/oc/1987/1346_1346_1346), [1988 1264](https://fedlex.data.admin.ch/eli/oc/1988/1264_1264_1264), [1989 276](https://fedlex.data.admin.ch/eli/oc/1989/276_276_276), [1990 55](https://fedlex.data.admin.ch/eli/oc/1990/55_55_55), [1991 789](https://fedlex.data.admin.ch/eli/oc/1991/789_789_789), [1992 657](https://fedlex.data.admin.ch/eli/oc/1992/657_657_657)[2219](https://fedlex.data.admin.ch/eli/oc/1992/2219_2219_2219), [1993 3097](https://fedlex.data.admin.ch/eli/oc/1993/3097_3097_3097), [2000 916](https://fedlex.data.admin.ch/eli/oc/2000/139), **2002** 1145, [2005 1835](https://fedlex.data.admin.ch/eli/oc/2005/306), [2006 3319](https://fedlex.data.admin.ch/eli/oc/2006/514)et **2012** 1143. Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty.
