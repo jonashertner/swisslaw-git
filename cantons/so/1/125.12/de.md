@@ -4,13 +4,13 @@ number: "125.12"
 title: Gesetz über die Gerichtsorganisation
 short: GO
 language: de
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-05-06
+version: 2021-08-01
+valid_until: 2021-10-31
+version_adopted: 2020-09-08
 adopted: 1977-03-13
 in_force: 1977-05-01
 url: "https://bgs.so.ch/app/de/texts_of_law/125.12"
-pdf: "https://bgs.so.ch/api/de/versions/5049/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5090/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5049/pdf_file"
 
 (GO)
 
-Vom 13.03.1977 (Stand 01.03.2021)
+Vom 13.03.1977 (Stand 01.08.2021)
 
 Der Kantonsrat von Solothurn
 
@@ -1122,7 +1122,7 @@ beschliesst:
 
 <sup>2</sup> Die Nebenbeschäftigung darf die Erfüllung der Amtspflichten, die Unabhängigkeit und das Ansehen des Gerichts nicht beeinträchtigten. Ausgeschlossen ist insbesondere die berufsmässige Vertretung Dritter vor Gericht.
 
-<sup>3</sup> Nebenamtliche Richter an kantonalen Gerichten dürfen vor demjenigen Gericht, an welchem sie richterlich tätig sind, keine Dritten vertreten. Richter am Kantonalen Steuergericht dürfen zudem keine Dritten in Einsprache- und Rechtsmittelverfahren vor den Veranlagungsbehörden und dem Kantonalen Steueramt vertreten.
+<sup>3</sup> Nebenamtliche Richter dürfen vor demjenigen Gericht, an welchem sie richterlich tätig sind, keine Dritten vertreten. Richter am Kantonalen Steuergericht dürfen zudem keine Dritten in Einsprache- und Rechtsmittelverfahren vor den Veranlagungsbehörden und dem Kantonalen Steueramt vertreten.
 
 ## 9. Ausstandsbestimmungen
 
