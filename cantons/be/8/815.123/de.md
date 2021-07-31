@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-06-26
-valid_until: 2021-07-31
-version_adopted: 2021-06-24
+version: 2021-08-01
+valid_until: 2021-08-25
+version_adopted: 2021-06-30
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2301/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2336/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2301/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 26.06.2021)
+vom 04.11.2020 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -295,7 +295,7 @@ beschliesst:
 
 <sup>1</sup> Für die Vorbereitung und Anordnung zusätzlicher Massnahmen gestützt auf Artikel 23 der Covid-19-Verordnung besondere Lage gelten die folgenden Zuständigkeiten:
 
-- a das Kantonsarztamt, wenn zur Eindämmung der Epidemie die Massnahmen unverzüglich angeordnet werden müssen und diese örtlich begrenzt sowie zeitlich befristet sind,
+- a das Gesundheitsamt, wenn zur Eindämmung der Epidemie die Massnahmen unverzüglich angeordnet werden müssen und diese örtlich begrenzt sowie zeitlich befristet sind,
 - b der Regierungsrat in allen übrigen Fällen, auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion.
 
 #### Art. 20
@@ -304,7 +304,7 @@ beschliesst:
 
 <sup>1</sup> Für Anordnungen zur Sicherstellung ausreichender Kapazitäten in Spitälern und Kliniken für Covid-19-Patientinnen und -Patienten sowie für weitere medizinisch dringend angezeigte Untersuchungen und Behandlungen nach Artikel 25 Absatz 1 und 2 der Covid-19-Verordnung 3 gelten die folgenden Zuständigkeiten:
 
-- a Das Spitalamt ist zuständig, einzelne Spitäler und Kliniken zu verpflichten,
+- a Das Gesundheitsamt ist zuständig, einzelne Spitäler und Kliniken zu verpflichten,
   - 1\. ihre Kapazitäten im stationären Bereich zur Verfügung zu stellen oder auf Abruf bereitzuhalten, und
   - 2\. medizinisch nicht dringend angezeigte Untersuchungen und Behandlungen zu beschränken oder einzustellen.
 - b Der Regierungsrat ist zuständig, alle Spitäler und Kliniken zu verpflichten,

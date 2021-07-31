@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-06-26
-valid_until: 2021-07-31
-version_adopted: 2021-06-24
+version: 2021-08-01
+valid_until: 2021-08-25
+version_adopted: 2021-06-30
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2301/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2336/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2301/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 26.06.2021)
+du 04.11.2020 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -93,7 +93,7 @@ arrête:
 
 **Sécurité de l'information et protection des données**
 
-<sup>1</sup> La protection des donnée est régie par la loi du 19 février 1986 sur la protection des données (LCPD)[^3c-1].
+<sup>1</sup> La protection des données est régie par la loi du 19 février 1986 sur la protection des données (LCPD)[^3c-1].
 
 <sup>2</sup> La Direction de la santé, des affaires sociales et de l'intégration est responsable de la sécurité de la base de données et de la légalité du traitement des données. Elle prend les mesures organisationnelles et techniques correspondantes.
 
@@ -295,7 +295,7 @@ arrête:
 
 <sup>1</sup> Sont compétents pour préparer et prescrire des mesures supplémentaires au titre de l’article 23 de l'ordonnance COVID-19 situation particulière:
 
-- a l'Office du médecin cantonal si ces mesures doivent être ordonnées immédiatement afin de contenir l’épidémie et si elles sont de portée locale et limitées dans le temps;
+- a l'Office de la santé (ODS) si ces mesures doivent être ordonnées immédiatement afin de contenir l’épidémie et si elles sont de portée locale et limitées dans le temps;
 - b le Conseil-exécutif dans tous les autres cas, sur proposition de la Direction de la santé, des affaires sociales et de l’intégration.
 
 #### Art. 20
@@ -304,7 +304,7 @@ arrête:
 
 <sup>1</sup> Les compétences pour la prescription de mesures destinées à garantir des capacités suffisantes dans les hôpitaux et les cliniques pour les personnes atteintes de COVID-19 ainsi que pour d’autres examens et traitements urgents selon l’article 25, alinéas 1 et 2 de l’ordonnance 3 COVID-19 sont les suivantes:
 
-- a L’Office des hôpitaux peut obliger certains hôpitaux et certaines cliniques
+- a L’ODS peut obliger certains hôpitaux et certaines cliniques
   - 1\. à mettre à disposition leurs capacités dans le domaine hospitalier ou à les libérer sur demande, et
   - 2\. à limiter ou suspendre les examens et traitements non urgents.
 - b Le Conseil-exécutif peut obliger tous les hôpitaux et toutes les cliniques
