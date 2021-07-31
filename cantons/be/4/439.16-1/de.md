@@ -4,13 +4,13 @@ number: 439.16-1
 title: Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung
 short: "Berufsfachschulvereinbarung, BFSV"
 language: de
-version: 2017-08-01
-valid_until: 2021-07-31
-version_adopted: 2015-10-30
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2019-10-25
 adopted: 2006-06-22
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.16-1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1017/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2247/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1017/pdf_file"
 
 (Berufsfachschulvereinbarung, BFSV)
 
-vom 22.06.2006 (Stand 01.08.2017)
+vom 22.06.2006 (Stand 01.08.2021)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -237,6 +237,22 @@ Generalsekretariat
 Sulgeneckstrasse 70
 
 3005 Bern
+
+Sie ist auch auf Internet verfügbar unter: [http://www.edk.ch/dyn/14354.php](http://www.edk.ch/dyn/14354.php)
+
+#### Art. A1-4
+
+<sup>1</sup> Die Änderung vom 25. Oktober 2019 des Anhangs zur BFSV wird nur in Form eines Verweises publiziert.
+
+Sie kann bei folgender Stelle bezogen werden:
+
+Bildungs- und Kulturdirektion des Kantons Bern
+
+Mittelschul- und Berufsbildungsamt
+
+Kasernenstrasse 27
+
+3000 Bern 22
 
 Sie ist auch auf Internet verfügbar unter: [http://www.edk.ch/dyn/14354.php](http://www.edk.ch/dyn/14354.php)
 
