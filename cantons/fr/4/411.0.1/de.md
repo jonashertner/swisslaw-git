@@ -4,13 +4,13 @@ number: "411.0.1"
 title: Gesetz über die obligatorische Schule
 short: "Schulgesetz, SchG"
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-15
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-05-19
 adopted: 2014-09-09
 in_force: 2015-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/411.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6746/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7137/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Obligatorische Schule - G
 
 (Schulgesetz, SchG)
 
-vom 09.09.2014 (Fassung in Kraft getreten am 01.01.2021)
+vom 09.09.2014 (Fassung in Kraft getreten am 01.08.2021)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -91,7 +91,7 @@ beschliesst:
 
 <sup>2</sup> Für die Erreichung dieser Ziele stehen den Schulen verschiedene Strukturen und Angebote zur Verfügung, deren Modalitäten und Bedingungen von der Direktion, die für die obligatorische Schule zuständig ist[^4-1] (die Direktion), festgelegt werden.
 
-[^4-1]: Heute: Direktion für Erziehung, Kultur und Sport.
+[^4-1]: Heute: Direktion für Bildung und kulturelle Angelegenheiten.
 
 #### Art. 5
 
@@ -475,7 +475,7 @@ beschliesst:
 
 **Schutz der Privatsphäre**
 
-<sup>1</sup> Den Lehrpersonen, dem sozialpädagogischen Personal, dem Personal der logopädischen, psychologischen und psychomotorischen Dienste und den Schulbehörden ist es untersagt, Informationen aus dem Privatbereich der Schülerinnen und Schüler oder ihrer Angehörigen, die sie in Ausübung ihrer Tätigkeit erfahren haben, an unberechtigte Dritte weiterzugeben.
+<sup>1</sup> Den Lehrpersonen, dem sozialpädagogischen Personal, dem Personal der logopädischen, psychologischen und psychomotorischen Dienste, den übrigen regelmässig Mitwirkenden und den Schulbehörden ist es untersagt, Informationen aus dem Privatbereich der Schülerinnen und Schüler oder ihrer Angehörigen, die sie in Ausübung ihrer Tätigkeit erfahren haben, an unberechtigte Dritte weiterzugeben.
 
 #### Art. 43
 

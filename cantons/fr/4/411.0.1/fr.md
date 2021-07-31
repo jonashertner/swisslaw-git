@@ -4,13 +4,13 @@ number: "411.0.1"
 title: Loi sur la scolarité obligatoire
 short: "loi scolaire, LS"
 language: fr
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-15
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-05-19
 adopted: 2014-09-09
 in_force: 2015-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/411.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6746/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7137/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Scolarité obligatoire - L
 
 (loi scolaire, LS)
 
-du 09.09.2014 (version entrée en vigueur le 01.01.2021)
+du 09.09.2014 (version entrée en vigueur le 01.08.2021)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -91,7 +91,7 @@ Décrète:
 
 <sup>2</sup> A cette fin, les établissements scolaires bénéficient du concours de différents dispositifs, dont les modalités et les conditions sont fixées par la Direction compétente en matière d'enseignement obligatoire[^4-1] (ci-après: la Direction).
 
-[^4-1]: Actuellement: Direction de l'instruction publique, de la culture et du sport.
+[^4-1]: Actuellement: Direction de la formation et des affaires culturelles.
 
 #### Art. 5
 
@@ -475,7 +475,7 @@ Décrète:
 
 **Protection du domaine privé**
 
-<sup>1</sup> Il est interdit au corps enseignant, au personnel socio-éducatif, au personnel des services de logopédie, psychologie et psychomotricité et aux autorités scolaires de divulguer à des tierces personnes non autorisées des informations qu'ils ont reçues dans l'exercice de leur fonction sur des faits relevant du domaine privé des élèves ou de leurs proches.
+<sup>1</sup> Il est interdit au corps enseignant, au personnel socio-éducatif, au personnel des services de logopédie, psychologie et psychomotricité, aux autres intervenants et intervenantes réguliers et aux autorités scolaires de divulguer à des tierces personnes non autorisées des informations qu'ils ont reçues dans l'exercice de leur fonction sur des faits relevant du domaine privé des élèves ou de leurs proches.
 
 #### Art. 43
 
