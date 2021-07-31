@@ -4,20 +4,20 @@ title: "Loi fédérale du 10 octobre 1997 concernant la lutte contre le blanchim
 short: LBA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: fr
-version: 2021-07-01
+version: 2021-08-01
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale concernant la lutte contre le blanchiment d’argent et le financement du terrorisme\*
 
-(Loi sur le blanchiment d’argent, LBA)**[^t-1]**
+(Loi sur le blanchiment d’argent, LBA)[^t-1]
 
-du 10 octobre 1997 (Etat le 1<sup>er</sup> juillet 2021)
+du 10 octobre 1997 (Etat le 1<sup>er</sup> août 2021)
 
 [^t-1]: **\*** Les termes désignant des personnes s’appliquent également aux femmes et aux hommes. Nouvelle teneur selon le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 (RO **2015** 1389; FF **2014** 585).
 
@@ -63,10 +63,11 @@ Sont réputés intermédiaires financiers:
 - b<sup>bis</sup>.[^2-8] les sociétés d’investissement à capital variable, les sociétés en commandite de placements collectifs et les sociétés d’investissement à capital fixe au sens de la loi du 23 juin 2006 sur les placements collectifs , ainsi que les gestionnaires de fortune collective mentionnés à l’art. 2, al. 1, let. c, LEFin;
 - c.[^2-9] les institutions d’assurance au sens de la loi du 17 décembre 2004 sur la surveillance des assurances[^2-10] si elles exercent une activité en matière d’assurance directe sur la vie ou si elles proposent ou distribuent des parts de placements collectifs;
 - d.[^2-11] les maisons de titres mentionnées à l’art. 2, al. 1, let. e, LEFin;
-- d<sup>bis</sup>.[^2-12] les contreparties centrales et les dépositaires centraux au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^2-13];
-- [tab] d<sup>ter</sup>.[^2-14] les systèmes de paiement pour autant qu’ils doivent obtenir une autorisation de l’Autorité fédérale de surveillance des marchés financiers (FINMA) selon l’art. 4, al. 2, de la loi sur l’infrastructure des marchés financiers;
-- e.[^2-15] les maisons de jeu au sens de la loi fédérale du 29 septembre 2017 sur les jeux d’argent (LJAr)[^2-16];
-- f.[^2-17] les exploitants de jeux de grande envergure au sens de la LJAr.
+- d<sup>bis</sup>.[^2-12] les contreparties centrales et les dépositaires centraux au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers (LIMF)[^2-13];
+- [tab] d<sup>ter</sup>.[^2-14] les systèmes de paiement, pour autant qu’ils doivent obtenir une autorisation de l’Autorité fédérale de surveillance des marchés financiers (FINMA) au sens de l’art. 4, al. 2 LIMF;
+- d<sup>quat</sup><sup>er</sup>.[^2-15] les systèmes de négociation pour les valeurs mobilières fondées sur la TRD au sens de l’art. 73*a* LIMF (systèmes de négociation fondés sur la TRD);
+- e.[^2-16] les maisons de jeu au sens de la loi fédérale du 29 septembre 2017 sur les jeux d’argent (LJAr)[^2-17];
+- f.[^2-18] les exploitants de jeux de grande envergure au sens de la LJAr.
 
 <sup>3</sup>
 
@@ -75,8 +76,8 @@ Sont en outre réputées intermédiaires financiers les personnes qui, à titre 
 - a. effectuent des opérations de crédits (portant notamment sur des crédits à la consommation ou des crédits hypothécaires, des affacturages, des financements de transactions commerciales ou des leasings financiers);
 - b. fournissent des services dans le domaine du trafic des paiements, notamment en procédant à des virements électroniques pour le compte de tiers, ou qui émettent ou gèrent des moyens de paiement comme les cartes de crédit et les chèques de voyage;
 - c. font le commerce, pour leur propre compte ou pour celui de tiers, de billets de banque ou de monnaies, d’instruments du marché monétaire, de devises, de métaux précieux, de matières premières ou de valeurs mobilières (papiers-valeurs et droits-valeurs) et de leurs dérivés;
-- d.[^2-18] ...
-- e.[^2-19] ...
+- d.[^2-19] ...
+- e.[^2-20] ...
 - f. effectuent des placements en tant que conseillers en matière de placement;
 - g. conservent ou gèrent des valeurs mobilières.
 
@@ -100,14 +101,15 @@ Ne sont pas visés par la présente loi:
 [^2-9]: Nouvelle teneur selon l’annexe ch. II 9 de la LF du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822);[FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^2-10]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 [^2-11]: Nouvelle teneur selon l’annexe ch. II 15 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-12]: Introduite par l’annexe ch. 12 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^2-12]: Introduite par l’annexe ch. 12 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Nouvelle teneur selon le ch. I 8 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^2-13]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^2-14]: Introduite par l’annexe ch. 12 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^2-15]: Introduite par l’annexe ch. 4 de la LF du 18 déc. 1998 sur les maisons de jeu ([RO 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [FF 1997 III 137](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Nouvelle teneur selon l’annexe ch. II 8 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^2-16]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^2-17]: Introduite par l’annexe ch. II 8 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^2-18]: Abrogée par l’annexe ch. II 8 de la LF du 17 déc. 2004 sur la surveillance des assurances, avec effet au 1<sup>er</sup> janv. 2006 ([RO 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^2-19]: Abrogée par l’annexe ch. II 15 de la LF du 15 juin 2018 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^2-14]: Introduite par l’annexe ch. 12 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Nouvelle teneur selon le ch. I 8 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-15]: Introduite par le ch. I 8 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-16]: Introduite par l’annexe ch. 4 de la LF du 18 déc. 1998 sur les maisons de jeu ([RO 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [FF 1997 III 137](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Nouvelle teneur selon l’annexe ch. II 8 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^2-17]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^2-18]: Introduite par l’annexe ch. II 8 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^2-19]: Abrogée par l’annexe ch. II 8 de la LF du 17 déc. 2004 sur la surveillance des assurances, avec effet au 1<sup>er</sup> janv. 2006 ([RO 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^2-20]: Abrogée par l’annexe ch. II 15 de la LF du 15 juin 2018 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 2a
 
@@ -131,13 +133,13 @@ Sont réputées personnes politiquement exposées au sens de la présente loi:
 
 [^2a-1]: Introduit par le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
-## Chapitre 2 Obligations****
+## Chapitre 2 Obligations
 
 [^chap2-1]
 
 [^chap2-1]: Nouvelle teneur selon le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
-### Section 1 Obligations de diligence des intermédiaires financiers****
+### Section 1 Obligations de diligence des intermédiaires financiers
 
 [^chap2-sec1-1]
 
@@ -155,12 +157,11 @@ Sont réputées personnes politiquement exposées au sens de la présente loi:
 
 <sup>4</sup> Lorsqu’il existe des indices de blanchiment d’argent ou de financement du terrorisme dans les cas prévus aux al. 2 et 3, l’identité du cocontractant doit être vérifiée même si les sommes déterminantes ne sont pas atteintes.[^3-2]
 
-<sup>5</sup> La FINMA, la Commission fédérale des maisons de jeu (CFMJ)[^3-3] et les organismes d’autorégulation fixent dans leur domaine les sommes considérées comme importantes au sens des al. 2 et 3 et, au besoin, les adaptent.[^3-4]
+<sup>5</sup> La FINMA, la Commission fédérale des maisons de jeux (CFMJ), le Département fédéral de justice et police (DFJP), l’Administration fédérale des douanes (AFD) et les organismes d’autorégulation fixent dans leur domaine les sommes considérées comme importantes au sens des al. 2 et 3 et, au besoin, les adaptent.[^3-3]
 
 [^3-1]: Phrase introduite par le ch. I 4 de la LF du 3 oct. 2008 sur la mise en œuvre des recommandations révisées du Groupe d’action financière, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^3-2]: Nouvelle teneur selon le ch. I 4 de la LF du 3 oct. 2008 sur la mise en œuvre des recommandations révisées du Groupe d’action financière, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^3-3]: Nouvelle expression selon l’erratum de la CdR de l’Ass. féd. du 31 janvier 2020, publié le 18 fév. 2020 ([RO 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
-[^3-4]: Nouvelle teneur selon l’annexe ch. II 15 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^3-3]: Nouvelle teneur selon le ch. I 8 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 4
 
@@ -201,7 +202,7 @@ L’intermédiaire financier doit clarifier l’arrière-plan et le but d’une 
 - a. la transaction ou la relation d’affaires paraissent inhabituelles, sauf si leur légalité est manifeste;
 - b.[^6-2] des indices laissent supposer que des valeurs patrimoniales proviennent d’un crime ou d’un délit fiscal qualifié au sens de l’art. 305<sup>bis</sup>, ch. 1<sup>bis</sup>, CP[^6-3], qu’une organisation criminelle ou terroriste (art. 260<sup>ter</sup> CP) exerce un pouvoir de disposition sur ces valeurs ou que celles-ci servent au financement du terrorisme (art. 260<sup>quinquies</sup>, al. 1, CP);
 - c. la transaction ou la relation d’affaires comportent un risque accru;
-- d.[^6-4] les données concernant un cocontractant, un ayant droit économique ou un signataire autorisé d’une relation d’affaires ou d’une transaction concordent avec celles qui ont été transmises à l’intermédiaire financier par la FINMA en vertu de l’art. 22*a*, al. 2, let. a, par un organisme de surveillance en vertu de l’art. 22*a*, al. 2, let. b, par un organisme d’autorégulation en vertu de l’art. 22*a*, al. 2, let. c, ou par la CFMJ en vertu de l’art. 22*a*, al. 3, ou présentent de grandes similitudes.
+- d.[^6-4] les données concernant un cocontractant, un ayant droit économique ou un signataire autorisé d’une relation d’affaires ou d’une transaction concordent avec celles qui ont été transmises à l’intermédiaire financier par la FINMA en vertu de l’art. 22*a*, al. 2, let. a, par un organisme de surveillance en vertu de l’art. 22*a*, al. 2, let. b, par un organisme d’autorégulation en vertu de l’art. 22*a*, al. 2, let. c, ou par la CFMJ[^6-5] en vertu de l’art. 22*a*, al. 3, ou présentent de grandes similitudes.
 
 <sup>3</sup> Les relations d’affaires avec des personnes politiquement exposées à l’étranger, ainsi qu’avec les personnes qui leur sont proches au sens de l’art. 2*a*, al. 2, sont réputées comporter dans tous les cas un risque accru.
 
@@ -211,6 +212,7 @@ L’intermédiaire financier doit clarifier l’arrière-plan et le but d’une 
 [^6-2]: Nouvelle teneur selon l’annexe ch. II 6 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^6-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^6-4]: Nouvelle teneur selon l’annexe ch. II 15 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^6-5]: Nouvelle expression selon l’erratum de la CdR de l’Ass. féd. du 31 janvier 2020, publié le 18 fév. 2020 ([RO 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 7
 
@@ -238,7 +240,7 @@ Les intermédiaires financiers prennent dans leur domaine les mesures nécessair
 
 [^8-1]: Nouvelle teneur selon le ch. I 4 de la LF du 3 oct. 2008 sur la mise en œuvre des recommandations révisées du Groupe d’action financière, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 
-### Section 1*a***** Obligations de diligence des négociants
+### Section 1*a* Obligations de diligence des négociants
 
 [^chap2-sec1a-1]
 
@@ -376,7 +378,7 @@ L’intermédiaire financier peut également informer un autre intermédiaire fi
 [^11-1]: Nouvelle teneur selon le ch. I 4 de la LF du 3 oct. 2008 sur la mise en œuvre des recommandations révisées du Groupe d’action financière, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^11-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-### Section 3**** Remise d’informations
+### Section 3 Remise d’informations
 
 [^chap2-sec3-1]
 
@@ -390,7 +392,7 @@ L’intermédiaire financier peut également informer un autre intermédiaire fi
 
 <sup>2bis</sup> Lorsque l’analyse des informations en provenance d’un homologue étranger montre que des intermédiaires financiers au sens de la présente loi prennent part ou ont pris part à une transaction ou à une relation d’affaires en lien avec lesdites informations, les intermédiaires financiers concernés doivent fournir toutes les informations y afférentes au bureau de communication à la demande de ce dernier, pour autant qu’ils disposent de ces informations.[^11a-2]
 
-<sup>3</sup> Le bureau de communication fixe le délai dans lequel les intermédiaires financiers visés aux al. 1 à 2<sup>bis</sup> doivent fournir les informations demandées.[^11a-3]
+<sup>3</sup> Le bureau de communication fixe le délai dans lequel les intermédiaires financiers visés aux al. 1 à 2<sup>b</sup><sup>is</sup> doivent fournir les informations demandées.[^11a-3]
 
 <sup>4</sup> Les intermédiaires financiers sont soumis à l’interdiction d’informer prévue à l’art. 10*a*, al. 1.
 
@@ -410,13 +412,13 @@ L’intermédiaire financier peut également informer un autre intermédiaire fi
 
 Les organes suivants veillent à ce que les intermédiaires financiers respectent les obligations définies au chapitre 2:
 
-- a.[^12-2] s’agissant des intermédiaires financiers visés à l’art. 2, al. 2, let. a à d<sup>ter</sup>, la FINMA;
+- a.[^12-2] s’agissant des intermédiaires financiers visés à l’art. 2, al. 2, let. a à d<sup>quater</sup>, la FINMA;
 - b.[^12-3] s’agissant des intermédiaires financiers visés à l’art. 2, al. 2, let. e, la CFMJ;
 - b<sup>bis</sup>.[^12-4] s’agissant des intermédiaires financiers visés à l’art. 2, al. 2, let. f, l’autorité intercantonale de surveillance et d’exécution visée à l’art. 105 LJAr[^12-5];
 - c.[^12-6] s’agissant des intermédiaires financiers visés à l’art. 2, al. 3, leurs organismes d’autorégulation reconnus (art. 24).
 
 [^12-1]: Nouvelle teneur selon l’annexe ch. 17 de la L du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^12-2]: Nouvelle teneur selon l’annexe ch. 12 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^12-2]: Nouvelle teneur selon le ch. I 8 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^12-3]: Nouvelle teneur selon l’annexe ch. II 8 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^12-4]: Introduite par l’annexe ch. II 8 de la LF du 29 sept. 2017 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [FF 2015 7627](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^12-5]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
@@ -426,7 +428,7 @@ Les organes suivants veillent à ce que les intermédiaires financiers respecten
 
 [^13-1]
 
-[^13-1]: Abrogé par l’annexe ch. 17 de la L du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^13-1]: Abrogé par l’annexe ch. 17 de la L du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>e</sup><sup>r</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 14
 
@@ -475,7 +477,7 @@ Si un négociant ne remplit pas son obligation de communiquer, l’organe de ré
 [^15-5]: Nouvelle teneur selon l’annexe ch. II 6 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^15-6]: Introduit par l’annexe ch. II 6 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
-### Section 2**** Obligation de communiquer des autorités de surveillance et de l’organisme de surveillance****
+### Section 2 Obligation de communiquer des autorités de surveillance et de l’organisme de surveillance
 
 [^chap3-sec2-1][^chap3-sec2-2]
 
@@ -500,14 +502,14 @@ La FINMA, la CFMJ, l’autorité intercantonale de surveillance et d’exécutio
 [^16-1]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
 [^16-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^16-3]: Nouvelle teneur selon l’annexe ch. II 15 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Erratum de la CdR de l’Ass. féd. du 31 janvier 2020, publié le 18 fév. 2020 ([RO 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)).
-[^16-4]: Nouvelle teneur selon l’annexe ch. II 6 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^16-4]: Nouvelle teneur selon l’annexe ch. II 6 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); FF **201****8** 6469).
 [^16-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^16-6]: Nouvelle teneur selon le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^16-7]: Nouvelle teneur selon l’annexe ch. II 6 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^16-8]: Introduite par le ch. I 4 de la LF du 3 oct. 2008 sur la mise en œuvre des recommandations révisées du Groupe d’action financière, en vigueur depuis le 1<sup>er</sup> fév. 2009 ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^16-9]: Introduit par l’annexe ch. II 15 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Section 3**** Surveillance des intermédiaires financiers visés à l’art. 2, al. 2
+### Section 3 Surveillance des intermédiaires financiers visés à l’art. 2, al. 2
 
 [^chap3-sec3-1]
 
@@ -519,13 +521,15 @@ La FINMA, la CFMJ, l’autorité intercantonale de surveillance et d’exécutio
 
 En l’absence d’autorégulation reconnue, les obligations au sens du chapitre 2 et leurs modalites d’application sont arrêtées par:
 
-- a. la FINMA s’agissant des intermédiaires financiers selon l’art. 2, al. 2, let. a à d<sup>ter</sup>;
+- a.[^17-2] la FINMA s’agissant des intermédiaires financiers au sens de l’art. 2, al. 2, let. a à d<sup>quater</sup>;
 - b. la CFMJ s’agissant des intermédiaires financiers selon l’art. 2, al. 2, let. e;
-- c. le Département fédéral de justice et police s’agissant des intermédiaires financiers selon l’art. 2, al. 2, let. f.
+- c.[^17-3] le DFJP s’agissant des intermédiaires financiers au sens de l’art. 2, al. 2, let. f.
 
 [^17-1]: Nouvelle teneur selon l’annexe ch. II 15 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Erratum de la CdR de l’Ass. féd. du 24 sept. 2019 ([RO 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)).
+[^17-2]: Nouvelle teneur selon le ch. I 8 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^17-3]: Nouvelle teneur selon le ch. I 8 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
-### Section 3*a* Surveillance des intermédiaires financiers visés à l’art. 2, al. 3****
+### Section 3*a* Surveillance des intermédiaires financiers visés à l’art. 2, al. 3
 
 [^chap3-sec3a-1]
 
@@ -606,7 +610,7 @@ Les avocats et les notaires chargés des contrôles LBA doivent impérativement 
 
 [^2122-1]: Abrogés par l’annexe ch. 17 de la L du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-### Section 3*b***** Transmission de données relatives à des activités terroristes
+### Section 3*b* Transmission de données relatives à des activités terroristes
 
 [^chap3-sec3b-1]
 
@@ -620,7 +624,7 @@ Les avocats et les notaires chargés des contrôles LBA doivent impérativement 
 
 La FINMA transmet les données reçues du DFF:
 
-- a.[^22a-2] aux intermédiaires financiers au sens de l’art. 2, al. 2, let. a et b à d<sup>ter</sup>, qui sont assujettis à sa surveillance;
+- a.[^22a-2] aux intermédiaires financiers au sens de l’art. 2, al. 2, let. a et b à d<sup>quater</sup>, assujettis à sa surveillance;
 - b.[^22a-3] aux organismes de surveillance, à l’attention des intermédiaires financiers au sens de l’art. 2, al. 2, let. a<sup>bis</sup>, qui sont assujettis à leur surveillance courante;
 - c. aux organismes d’autorégulation à l’attention des intermédiaires financiers qui leurs sont affiliés.
 
@@ -629,7 +633,7 @@ La FINMA transmet les données reçues du DFF:
 <sup>4</sup> Le DFF ne transmet aucune donnée à la FINMA et à la CFMJ si, après consultation du Département fédéral des affaires étrangères, du Département fédéral de justice et police, du Département fédéral de la défense, de la protecion de la population et des sports et du Département fédéral de l’économie, de la formation et de la recherche, il doit présumer qu’il en résulterait une violation des droits de l’homme ou des principes de l’État de droit.
 
 [^22a-1]: www.un.org &gt; Français &gt; Paix et sécurité &gt; Conseil de sécurité &gt; Résolutions &gt; 2001 &gt; 1373
-[^22a-2]: Nouvelle teneur selon l’annexe ch. II 15 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^22a-2]: Nouvelle teneur selon le ch. I 8 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^22a-3]: Nouvelle teneur selon l’annexe ch. II 15 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### Section 4 Bureau de communication en matière de blanchiment d’argent
@@ -656,7 +660,7 @@ Le bureau de communication dénonce immédiatement le cas à l’autorité de po
 <sup>6</sup> Le bureau de communication indique à l’intermédiaire financier s’il transmet ou non les informations communiquées en vertu de l’art. 305<sup>ter</sup>, al. 2, CP à une autorité de poursuite pénale.[^23-9]
 
 [^23-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^23-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); [FF 2012 6449](https://fedlex.data.admin.ch/eli/fga/2012/1031)).
+[^23-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013, en vigueur depuis le 1<sup>er</sup> nov. 2013 ([RO 2013 3493](https://fedlex.data.admin.ch/eli/oc/2013/648); FF **2****012** 6449).
 [^23-3]: Nouvelle teneur selon l’annexe ch. II 6 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^23-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^23-5]: Nouvelle teneur selon le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
@@ -753,11 +757,12 @@ Ils définissent en outre dans ce règlement:
 
 **Sociétés de groupe suisses**[^26a-1]
 
-<sup>1</sup> Dans le cas des intermédiaires financiers visés à l’art. 2, al. 3, qui sont une société suisse du groupe d’un intermédiaire financier au sens de l’art. 2, al. 2, let. a à d<sup>ter</sup>, la FINMA peut prévoir que le rapport d’audit du groupe atteste du respect des obligations définies au chapitre 2.
+<sup>1</sup> Pour les intermédiaires financiers visés à l’art. 2, al. 3, qui sont une société suisse du groupe d’un intermédiaire financier au sens de l’art. 2, al. 2, let. a à d<sup>quater</sup>, la FINMA peut prévoir que le rapport d’audit du groupe atteste du respect des obligations définies au chapitre 2.[^26a-2]
 
 <sup>2</sup> La FINMA publie une liste des sociétés de groupe au sens de l’al. 1.
 
 [^26a-1]: Introduit par l’annexe ch. II 15 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^26a-2]: Nouvelle teneur selon le ch. I 8 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 27
 
@@ -965,7 +970,7 @@ Le traitement des données personnelles est régi par la loi fédérale du 19 ju
 [^34-1]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
 [^34-2]: Nouvelle teneur selon l’annexe ch. II 15 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Erratum de la CdR de l’Ass. féd. du 31 janvier 2020, publié le 18 fév. 2020 ([RO 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)).
 [^34-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^34-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^34-4]: RS **3****11.0**
 [^34-5]: Nouvelle teneur selon le ch. I 7 de la LF du 12 déc. 2014 sur la mise en œuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 #### Art. 35
@@ -1045,9 +1050,10 @@ Pour accomplir ses tâches, le bureau de communication peut vérifier en ligne s
 
 <sup>1</sup> Le Conseil fédéral édicte les dispositions nécessaires à la mise en œuvre de la présente loi.
 
-<sup>2</sup> Il peut autoriser la FINMA et la CFMJ à édicter des dispositions d’exécution dans les domaines de portée restreinte, notamment de nature technique.
+<sup>2</sup> Il peut autoriser la FINMA, la CFMJ, le DFJP et l’AFD à édicter des dispositions d’exécution dans les domaines de portée restreinte, notamment de nature essentiellement technique.[^41-2]
 
 [^41-1]: Nouvelle teneur selon le ch. I 4 de la LF du 3 oct. 2008 sur la mise en œuvre des recommandations révisées du Groupe d’action financière, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64)[6401](https://fedlex.data.admin.ch/eli/oc/2009/781); [FF 2007 5919](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+[^41-2]: Nouvelle teneur selon le ch. I 8 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 42
 

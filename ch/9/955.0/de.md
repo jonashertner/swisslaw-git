@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 10. Oktober 1997 über die Bekämpfung der Geldwäscher
 short: GwG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/892_892_892"
 language: de
-version: 2021-07-01
+version: 2021-08-01
 adopted: 1997-10-10
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/892_892_892/20210801/de/xml/fedlex-data-admin-ch-eli-cc-1998-892_892_892-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung
 
-(Geldwäschereigesetz, GwG)**[^t-1]**
+(Geldwäschereigesetz, GwG)[^t-1]
 
-vom 10. Oktober 1997 (Stand am 1. Juli 2021)
+vom 10. Oktober 1997 (Stand am 1. August 2021)
 
 [^t-1]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
@@ -63,10 +63,11 @@ Finanzintermediäre sind:
 - b<sup>bis</sup>.[^2-8] die Investmentgesellschaften mit variablem Kapital, die Kommanditgesellschaften für kollektive Kapitalanlagen und die Investmentgesellschaften mit festem Kapital im Sinne des Kollektivanlagengesetzes vom 23. Juni 2006[^2-9] sowie die Verwalter von Kollektivvermögen nach Artikel 2 Absatz 1 Buchstabe c FINIG;
 - c.[^2-10] die Versicherungseinrichtungen nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^2-11], welche die direkte Lebensversicherung betreiben oder Anteile einer kollektiven Kapitalanlage anbieten oder vertreiben;
 - d.[^2-12] die Wertpapierhäuser nach Artikel 2 Absatz 1 Buchstabe e FINIG;
-- d<sup>bis</sup>.[^2-13] die zentralen Gegenparteien und die Zentralverwahrer nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^2-14];
-- d<sup>ter</sup>.[^2-15] die Zahlungssysteme, sofern sie nach Artikel 4 Absatz 2 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015 einer Bewilligung der Eidgenössischen Finanzmarktaufsicht (FINMA) benötigen;
-- e.[^2-16] die Spielbanken nach dem Geldspielgesetz vom 29. September 2017[^2-17] (BGS);
-- f.[^2-18] die Veranstalterinnen von Grossspielen nach dem BGS.
+- d<sup>bis</sup>.[^2-13] die zentralen Gegenparteien und die Zentralverwahrer nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^2-14] (FinfraG);
+- d<sup>ter</sup>.[^2-15] die Zahlungssysteme, sofern sie nach Artikel 4 Absatz 2 des FinfraG eine Bewilligung der Eidgenössischen Finanzmarktaufsicht (FINMA) benötigen;
+- d<sup>quater</sup>.[^2-16] die Handelssysteme für DLT-Effekten nach Artikel 73*a* des FinfraG (DLT-Handelssysteme);
+- e.[^2-17] die Spielbanken nach dem Geldspielgesetz vom 29. September 2017[^2-18] (BGS);
+- f.[^2-19] die Veranstalterinnen von Grossspielen nach dem BGS.
 
 <sup>3</sup>
 
@@ -75,8 +76,8 @@ Finanzintermediäre sind auch Personen, die berufsmässig fremde Vermögenswerte
 - a. das Kreditgeschäft (namentlich durch Konsum- oder Hypothekarkredite, Factoring, Handelsfinanzierungen oder Finanzierungsleasing) betreiben;
 - b. Dienstleistungen für den Zahlungsverkehr erbringen, namentlich für Dritte elektronische Überweisungen vornehmen oder Zahlungsmittel wie Kreditkarten und Reiseschecks ausgeben oder verwalten;
 - c. für eigene oder fremde Rechnung mit Banknoten und Münzen, Geldmarktinstrumenten, Devisen, Edelmetallen, Rohwaren und Effekten (Wertpapiere und Wertrechte) sowie deren Derivaten handeln;
-- d.[^2-19] ...
-- e.[^2-20] ...
+- d.[^2-20] ...
+- e.[^2-21] ...
 - f. als Anlageberater Anlagen tätigen;
 - g. Effekten aufbewahren oder verwalten.
 
@@ -94,21 +95,22 @@ Vom Geltungsbereich dieses Gesetzes ausgenommen sind:
 [^2-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^2-4]: Eingefügt durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^2-6]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^2-6]: SR **941****.****31**
 [^2-7]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-8]: Eingefügt durch Anhang Ziff. II 9 des Kollektivanlagengesetzes vom 23. Juni 2006 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)). Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^2-9]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^2-10]: Fassung gemäss Anhang Ziff. II 9 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^2-11]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 [^2-12]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^2-13]: Eingefügt durch Anhang Ziff. 12 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^2-13]: Eingefügt durch Anhang Ziff. 12 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^2-14]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^2-15]: Eingefügt durch Anhang Ziff. 12 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^2-16]: Eingefügt durch Anhang Ziff. 4 des Spielbankengesetz vom 18. Dez. 1998 ([AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [BBl 1997 III 145](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Fassung gemäss Anhang Ziff. II 8 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^2-17]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^2-18]: Eingefügt durch Anhang Ziff. II 8 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^2-19]: Aufgehoben durch Anhang Ziff. II 8 des Versicherungsaufsichtsgesetzes vom 17. Dez. 2004, mit Wirkung seit 1. Jan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
-[^2-20]: Aufgehoben durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^2-15]: Eingefügt durch Anhang Ziff. 12 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-16]: Eingefügt durch Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-17]: Eingefügt durch Anhang Ziff. 4 des Spielbankengesetz vom 18. Dez. 1998 ([AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [BBl 1997 III 145](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Fassung gemäss Anhang Ziff. II 8 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^2-18]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^2-19]: Eingefügt durch Anhang Ziff. II 8 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
+[^2-20]: Aufgehoben durch Anhang Ziff. II 8 des Versicherungsaufsichtsgesetzes vom 17. Dez. 2004, mit Wirkung seit 1. Jan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^2-21]: Aufgehoben durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 2a
 
@@ -132,13 +134,13 @@ Als politisch exponierte Person im Sinne dieses Gesetzes gelten:
 
 [^2a-1]: Eingefügt durch Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
-## 2. Kapitel: Pflichten****
+## 2. Kapitel: Pflichten
 
 [^chap2-1]
 
 [^chap2-1]: Fassung gemäss Ziff. I 7 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
-### 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre****
+### 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre
 
 [^chap2-sec1-1]
 
@@ -156,12 +158,11 @@ Als politisch exponierte Person im Sinne dieses Gesetzes gelten:
 
 <sup>4</sup> Liegen in Fällen nach den Absätzen 2 und 3 Verdachtsmomente für mögliche Geldwäscherei oder Terrorismusfinanzierung vor, so ist die Identifizierung auch dann vorzunehmen, wenn die massgeblichen Beträge nicht erreicht werden.[^3-2]
 
-<sup>5</sup> Die FINMA, die Eidgenössische Spielbankenkommission (ESBK)[^3-3] und die Selbstregulierungsorganisationen legen für ihren Bereich die erheblichen Werte nach den Absätzen 2 und 3 fest und passen sie bei Bedarf an.[^3-4]
+<sup>5</sup> Die FINMA, die Eidgenössische Spielbankenkommission (ESBK), das Eidgenössische Justiz- und Polizeidepartement (EJPD), die Eidgenössische Zollverwaltung (EZV) und die Selbstregulierungsorganisationen legen für ihren Bereich die erheblichen Werte nach den Absätzen 2 und 3 fest und passen sie bei Bedarf an.[^3-3]
 
 [^3-1]: Zweiter Satz eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^3-2]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
-[^3-3]: Ausdruck gemäss Berichtigung der RedK der BVers vom 31. Jan. 2020, veröffentlicht am 18. Febr. 2020 ([AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)). Diese Änd. wurde in den in der AS erwähnten Bestimmungen berücksichtigt.
-[^3-4]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^3-3]: Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 4
 
@@ -202,7 +203,7 @@ Der Finanzintermediär muss die Hintergründe und den Zweck einer Transaktion od
 - a. die Transaktion oder die Geschäftsbeziehung ungewöhnlich erscheinen, es sei denn, ihre Rechtmässigkeit ist erkennbar;
 - b.[^6-2] Anhaltspunkte vorliegen, dass Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> StGB[^6-3] herrühren, der Verfügungsmacht einer kriminellen oder terroristischen Organisation (Art. 260<sup>ter</sup> StGB) unterliegen oder der Terrorismusfinanzierung (Art. 260<sup>quinquies</sup> Abs. 1 StGB) dienen;
 - c. die Transaktion oder die Geschäftsbeziehung mit einem erhöhten Risiko behaftet ist;
-- d.[^6-4] die Daten einer Vertragspartei, einer wirtschaftlich berechtigten oder einer zeichnungsberechtigten Person einer Geschäftsbeziehung oder einer Transaktion mit den Daten übereinstimmen, welche dem Finanzintermediär durch die FINMA nach Artikel 22*a* Absatz 2 Buchstabe a, durch eine Aufsichtsorganisation nach Artikel 22*a* Absatz 2 Buchstabe b, durch eine Selbstregulierungsorganisation nach Artikel 22*a* Absatz 2 Buchstabe c oder durch die ESBK nach Artikel 22*a* Absatz 3 weitergeleitet wurden, oder diesen Daten sehr ähnlich sind.
+- d.[^6-4] die Daten einer Vertragspartei, einer wirtschaftlich berechtigten oder einer zeichnungsberechtigten Person einer Geschäftsbeziehung oder einer Transaktion mit den Daten übereinstimmen, welche dem Finanzintermediär durch die FINMA nach Artikel 22*a* Absatz 2 Buchstabe a, durch eine Aufsichtsorganisation nach Artikel 22*a* Absatz 2 Buchstabe b, durch eine Selbstregulierungsorganisation nach Artikel 22*a* Absatz 2 Buchstabe c oder durch die ESBK[^6-5] nach Artikel 22*a* Absatz 3 weitergeleitet wurden, oder diesen Daten sehr ähnlich sind.
 
 <sup>3</sup> Geschäftsbeziehungen zu ausländischen politisch exponierten Personen sowie zu ihnen nahestehenden Personen im Sinne von Artikel 2*a* Absatz 2 gelten in jedem Fall als Geschäftsbeziehung mit erhöhtem Risiko.
 
@@ -212,6 +213,7 @@ Der Finanzintermediär muss die Hintergründe und den Zweck einer Transaktion od
 [^6-2]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^6-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^6-4]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^6-5]: Ausdruck gemäss Berichtigung der RedK der BVers vom 31. Jan. 2020, veröffentlicht am 18. Febr. 2020 ([AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)). Diese Änd. wurde in den in der AS erwähnten Bestimmungen berücksichtigt.
 
 #### Art. 7
 
@@ -239,7 +241,7 @@ Die Finanzintermediäre treffen in ihrem Bereich die Massnahmen, die zur Verhind
 
 [^8-1]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 
-### 1*a*. Abschnitt:**** Sorgfaltspflichten der Händlerinnen und Händler
+### 1*a*. Abschnitt: Sorgfaltspflichten der Händlerinnen und Händler
 
 [^chap2-sec1a-1]
 
@@ -379,7 +381,7 @@ Er darf einen anderen diesem Gesetz unterstellten Finanzintermediär ebenfalls d
 [^11-1]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^11-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-### 3. Abschnitt:**** Herausgabe von Informationen
+### 3. Abschnitt: Herausgabe von Informationen
 
 [^chap2-sec3-1]
 
@@ -413,14 +415,14 @@ Er darf einen anderen diesem Gesetz unterstellten Finanzintermediär ebenfalls d
 
 Die Aufsicht über die Einhaltung der Pflichten nach dem 2. Kapitel liegt für Finanzintermediäre:[^12-2]
 
-- a.[^12-3] nach Artikel 2 Absatz 2 Buchstaben a‒d<sup>ter</sup> bei der FINMA;
+- a.[^12-3] nach Artikel 2 Absatz 2 Buchstaben a‒d<sup>quater</sup>: bei der FINMA;
 - b.[^12-4] nach Artikel 2 Absatz 2 Buchstabe e: bei der ESBK;
 - b<sup>bis</sup>.[^12-5] nach Artikel 2 Absatz 2 Buchstabe f: bei der interkantonalen Aufsichts- und Vollzugsbehörde nach Artikel 105 BGS[^12-6];
 - c.[^12-7] nach Artikel 2 Absatz 3 bei den anerkannten Selbstregulierungsorganisationen (Art. 24).
 
 [^12-1]: Fassung gemäss Anhang Ziff. 17 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^12-2]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^12-3]: Fassung gemäss Anhang Ziff. 12 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^12-3]: Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^12-4]: Fassung gemäss Anhang Ziff. II 8 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^12-5]: Eingefügt durch Anhang Ziff. II 8 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^12-6]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
@@ -449,7 +451,7 @@ Ein Finanzintermediär nach Artikel 2 Absatz 3 hat Anspruch auf Anschluss an ein
 
 <sup>3</sup> Die Selbstregulierungsorganisationen können den Anschluss von der Tätigkeit in bestimmten Bereichen abhängig machen.
 
-[^14-1]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^14-1]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); BBl **201****5** 8901).
 
 #### Art. 15
 
@@ -480,7 +482,7 @@ Kommt eine Händlerin oder ein Händler ihrer oder seiner Meldepflicht nicht nac
 [^15-6]: Fassung gemäss Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^15-7]: Eingefügt durch Anhang Ziff. II 6 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Übereinkommens des Europarats zur Verhütung des Terrorismus mit dem dazugehörigen Zusatzprotokoll sowie über die Verstärkung des strafrechtlichen Instrumentariums gegen Terrorismus und organisierte Kriminalität, in Kraft seit 1. Juli 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 
-### 2. Abschnitt:**** Meldepflicht der Aufsichtsbehörden und der Aufsichtsorganisation****
+### 2. Abschnitt: Meldepflicht der Aufsichtsbehörden und der Aufsichtsorganisation
 
 [^chap3-sec2-1][^chap3-sec2-2]
 
@@ -512,7 +514,7 @@ Die FINMA, die ESBK, die interkantonale Aufsichts- und Vollzugsbehörde nach Art
 [^16-8]: Eingefügt durch Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 [^16-9]: Eingefügt durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### 3. Abschnitt:**** Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 2
+### 3. Abschnitt: Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 2
 
 [^chap3-sec3-1]
 
@@ -524,13 +526,15 @@ Die FINMA, die ESBK, die interkantonale Aufsichts- und Vollzugsbehörde nach Art
 
 Soweit keine anerkannte Selbstregulierung besteht, werden die Sorgfaltspflichten nach dem 2. Kapitel und ihre Erfüllung geregelt durch:
 
-- a. die FINMA für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a–d<sup>ter</sup>;
+- a.[^17-2] die FINMA für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a–d<sup>qu</sup><sup>ater</sup>;
 - b. die ESBK für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe e;
-- c. das Eidgenössische Justiz- und Polizeidepartement für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe f.
+- c.[^17-3] das EJPD für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe f.
 
 [^17-1]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Berichtigung der RedK des BVers vom 24. Sept. 2019 ([AS 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)).
+[^17-2]: Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^17-3]: Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
-### 3*a*. Abschnitt: Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 3****
+### 3*a*. Abschnitt: Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 3
 
 [^chap3-sec3a-1]
 
@@ -611,7 +615,7 @@ Die mit der GwG-Kontrolle beauftragten Anwältinnen und Anwälte sowie Notarinne
 
 [^2122-1]: Aufgehoben durch Anhang Ziff. 17 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-### 3*b*. Abschnitt:**** Weiterleitung von Daten über terroristische Aktivitäten
+### 3*b*. Abschnitt: Weiterleitung von Daten über terroristische Aktivitäten
 
 [^chap3-sec3b-1]
 
@@ -625,7 +629,7 @@ Die mit der GwG-Kontrolle beauftragten Anwältinnen und Anwälte sowie Notarinne
 
 Die FINMA leitet die vom EFD erhaltenen Daten weiter an:
 
-- a.[^22a-2] die ihr unterstellten Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a und b–d<sup>ter</sup>;
+- a.[^22a-2] die ihr unterstellten Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a und b–d<sup>quater</sup>;
 - b.[^22a-3] die Aufsichtsorganisationen zuhanden der Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe a<sup>bis</sup>, die ihrer laufenden Aufsicht unterstehen;
 - c. die Selbstregulierungsorganisationen zuhanden der diesen angeschlossenen Finanzintermediäre.
 
@@ -634,7 +638,7 @@ Die FINMA leitet die vom EFD erhaltenen Daten weiter an:
 <sup>4</sup> Das EFD leitet der FINMA und der ESBK keine Daten weiter, wenn es nach Anhörung des Eidgenössischen Departements für auswärtige Angelegenheiten, des Eidgenössischen Justiz- und Polizeidepartements, des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport und des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung annehmen muss, dass die Menschenrechte oder Grundsätze der Rechtstaatlichkeit verletzt würden.
 
 [^22a-1]: www.un.org &gt; Français &gt; Paix et sécurité &gt; Conseil de Sécurité &gt; Résolutions &gt; 2001 &gt; 1373
-[^22a-2]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^22a-2]: Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^22a-3]: Fassung gemäss Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 ### 4. Abschnitt: Meldestelle für Geldwäscherei
@@ -724,7 +728,7 @@ Die leitende Prüferin oder der leitende Prüfer wird zur Leitung von Prüfungen
 
 <sup>5</sup> Die Selbstregulierungsorganisationen können weitere Zulassungskriterien für Prüfgesellschaften und leitende Prüferinnen und Prüfer vorsehen.
 
-[^24a-1]: Eingefügt durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^24a-1]: Eingefügt durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), **20****19** 4631; [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^24a-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^24a-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
@@ -758,11 +762,12 @@ Es legt zudem fest:
 
 **Inländische Gruppengesellschaften**[^26a-1]
 
-<sup>1</sup> Für Finanzintermediäre nach Artikel 2 Absatz 3, die eine inländische Gruppengesellschaft eines Finanzintermediärs nach Artikel 2 Absatz 2 Buchstaben a–d<sup>ter</sup> sind, kann die FINMA vorsehen, dass die Einhaltung der Pflichten nach dem 2. Kapitel im Prüfbericht der Gruppe nachgewiesen wird.
+<sup>1</sup> Für Finanzintermediäre nach Artikel 2 Absatz 3, die eine inländische Gruppengesellschaft eines Finanzintermediärs nach Artikel 2 Absatz 2 Buchstaben a–d<sup>quater</sup> sind, kann die FINMA vorsehen, dass die Einhaltung der Pflichten nach dem 2. Kapitel im Prüfbericht der Gruppe nachgewiesen wird.[^26a-2]
 
 <sup>2</sup> Die FINMA veröffentlicht eine Liste der Gruppengesellschaften nach Absatz 1.
 
 [^26a-1]: Eingefügt durch Anhang Ziff. II 15 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^26a-2]: Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 27
 
@@ -1049,9 +1054,10 @@ Zur Erfüllung ihrer Aufgaben kann die Meldestelle mittels Abrufverfahren überp
 
 <sup>1</sup> Der Bundesrat erlässt die zur Umsetzung dieses Gesetzes notwendigen Bestimmungen.
 
-<sup>2</sup> Er kann die FINMA sowie die ESBK ermächtigen, in Belangen von beschränkter Tragweite, namentlich in vorwiegend technischen Angelegenheiten, Ausführungsbestimmungen zu erlassen.
+<sup>2</sup> Er kann die FINMA, die ESBK, das EJPD sowie die EZV ermächtigen, in Belangen von beschränkter Tragweite, namentlich in vorwiegend technischen Angelegenheiten, Ausführungsbestimmungen zu erlassen.[^41-2]
 
 [^41-1]: Fassung gemäss Ziff. I 4 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2010 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64)[6401](https://fedlex.data.admin.ch/eli/oc/2009/781); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
+[^41-2]: Fassung gemäss Ziff. I 8 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 42
 
