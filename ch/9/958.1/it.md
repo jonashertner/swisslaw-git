@@ -4,11 +4,11 @@ title: "Legge federale del 19 giugno 2015 sulle infrastrutture del mercato finan
 short: LInFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: it
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2015-853-20200101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2015-853-20210801-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20200101/it"
 
 (Legge sull’infrastruttura finanziaria, LInFi)
 
-del 19 giugno 2015 (Stato 1° gennaio 2020)
+del 19 giugno 2015 (Stato 1° agosto 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -53,9 +53,17 @@ Ai sensi della presente legge s’intende per:
   - 3\. una controparte centrale (555art. 48),
   - 4\. un depositario centrale (art. 61),
   - 5\. un repertorio di dati sulle negoziazioni (art. 74),
+  - 5*a*.[^2-1] un sistema di negoziazione per valori mobiliari da tecnologia di registro distribuito (sistema di negoziazione TRD; art. 73*a*),
   - 6\. un sistema di pagamento (art. 81);
 
-- b. *valori mobiliari*: le cartevalori, i diritti valori, i derivati e i titoli contabili standardizzati e idonei a essere negoziati su vasta scala;
+- b.[^2-2] *valori mobiliari:* le cartevalori, i diritti valori, in particolare i diritti valori semplici di cui all’articolo 973*c* del Codice delle obbligazioni (CO)[^2-3] e i diritti valori registrati di cui all’articolo 973*d* CO, nonché i derivati e i titoli contabili, sempre che siano standardizzati e idonei a essere negoziati su vasta scala;
+- b<sup>bis</sup>.[^2-4]
+
+  *valori mobiliari da tecnologia di registro distribuito (valori mobiliari TRD):* i valori mobiliari sotto forma di:
+
+  - 1\. diritti valori registrati (art. 973*d* CO), o
+  - 2\. altri diritti valori detenuti in registri elettronici distribuiti che mediante procedure tecniche conferiscono ai creditori, ma non al debitore, la facoltà di disporre del diritto valore;
+
 - c. *derivati od operazioni in derivati:* i contratti finanziari il cui valore dipende da uno o più valori sottostanti e che non costituiscono un’operazione di cassa;
 - d. *partecipante:* ogni persona che ricorre direttamente ai servizi di un’infrastruttura del mercato finanziario;
 - e. *partecipante indiretto:* ogni persona che ricorre indirettamente, attraverso un partecipante, ai servizi di un’infrastruttura del mercato finanziario;
@@ -71,7 +79,13 @@ Ai sensi della presente legge s’intende per:
 
 - h. *regolamento («settlement»):* l’adempimento delle obbligazioni assunte al momento della conclusione dell’operazione, segnatamente mediante la rimessa di denaro o il trasferimento di valori mobiliari;
 - i. *offerte pubbliche di acquisto:* le offerte di acquisto o permuta di azioni, di buoni di partecipazione o godimento o di altri titoli di partecipazione (titoli di partecipazione) rivolte pubblicamente ai detentori di azioni o di altri titoli di partecipazione;
-- j. *informazioni privilegiate*: le informazioni confidenziali la cui divulgazione è atta a influenzare notevolmente il corso di valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera.
+- j.[^2-5] *informazioni privilegiate:* le informazioni confidenziali la cui divulgazione è atta a influenzare notevolmente il corso di valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera o un sistema di negoziazione TRD con sede in Svizzera.
+
+[^2-1]: Introdotto dal n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-2]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-4]: Introdotta dal n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-5]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 3
 
@@ -233,7 +247,9 @@ Due o più imprese sono considerate gruppo finanziario ai sensi della presente l
 
 <sup>1</sup> La denominazione dell’infrastruttura del mercato finanziario non deve dare adito a confusione o essere ingannevole.
 
-<sup>2</sup> Nel contesto dell’offerta di prestazioni finanziarie le denominazioni «borsa», «sistema multilaterale di negoziazione», «*Multilateral Trading Facility*», «MTF», «controparte centrale», «*Central Counterparty*», «CCP», «sistema di regolamento delle operazioni in titoli», «*Securities Settlement System*», «SSS», «depositario centrale», «*Central Securities Depository*», «CSD», «repertorio di dati sulle negoziazioni», «*Trade Repository*» e «TR» possono essere utilizzate soltanto per le corrispondenti infrastrutture del mercato finanziario sottoposte alla presente legge.
+<sup>2</sup> Nel contesto dell’offerta di prestazioni finanziarie, le denominazioni «borsa», «sistema multilaterale di negoziazione», «*Multilateral Trading Facility*», «MTF», «controparte centrale», «*Central Counterparty*», «CCP», «sistema di regolamento delle operazioni in titoli», «*Securities Settlement System*», «SSS», «depositario centrale», «*Central Securities Depository*», «CSD», «repertorio di dati sulle negoziazioni», «*Trade Repository*», «TR», «sistema di negoziazione TRD», «*DLT Trading System*», «*DLT Trading Facility*» e «*DLT Exchange*» possono essere utilizzate soltanto per le corrispondenti infrastrutture del mercato finanziario sottoposte alla presente legge.[^16-1]
+
+[^16-1]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 17
 
@@ -291,7 +307,7 @@ L’infrastruttura del mercato finanziario pubblica regolarmente tutte le inform
 
 <sup>1</sup>
 
-Le controparti centrali, i depositari centrali e i sistemi di pagamento hanno rilevanza sistemica se:
+Le controparti centrali, i depositari centrali e i sistemi di pagamento, nonché i sistemi di negoziazione TRD che offrono servizi nell’ambito della custodia accentrata, della compensazione o del regolamento, hanno rilevanza sistemica se:[^22-1]
 
 - a. la loro indisponibilità, specialmente in seguito a problemi tecnici od operativi o a difficoltà finanziarie, può causare gravi perdite, crisi di liquidità o problemi operativi presso intermediari finanziari o altre infrastrutture del mercato finanziario, oppure originare gravi turbative sui mercati finanziari; o
 - b. le difficoltà di pagamento o di consegna di singoli partecipanti possono propagarsi per il loro tramite ad altri partecipanti o infrastrutture del mercato finanziario collegate, causando loro gravi perdite, difficoltà di liquidità o problemi operativi, oppure originare gravi turbative sui mercati finanziari.
@@ -302,6 +318,8 @@ Un processo operativo di un’infrastruttura del mercato finanziario di cui al c
 
 - a. la sua indisponibilità può causare gravi perdite, crisi di liquidità o problemi operativi presso intermediari finanziari o altre infrastrutture del mercato finanziario, oppure originare gravi turbative sui mercati finanziari; e
 - b. i partecipanti non possono sostituirlo in tempi brevi.
+
+[^22-1]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 23
 
@@ -339,7 +357,7 @@ Dopo aver consultato la FINMA, la BNS può esentare dall’osservanza dei requis
 
 #### Art. 25
 
-<sup>1</sup> La FINMA informa la BNS in merito alle richieste di autorizzazione di controparti centrali, depositari centrali e sistemi di pagamento.
+<sup>1</sup> La FINMA informa la BNS in merito alle richieste di autorizzazione di controparti centrali, depositari centrali e sistemi di pagamento, nonché di sistemi di negoziazione TRD che offrono servizi nell’ambito della custodia accentrata, della compensazione o del regolamento.[^25-1]
 
 <sup>2</sup> Dopo aver consultato la FINMA, la BNS designa mediante decisione le infrastrutture del mercato finanziario di rilevanza sistemica e i loro processi operativi di rilevanza sistemica di cui all’articolo 22. Essa stabilisce inoltre mediante decisione quali requisiti particolari ai sensi dell’articolo 23 deve soddisfare ogni singola infrastruttura del mercato finanziario di rilevanza sistemica e valuta se tali requisiti sono soddisfatti.
 
@@ -350,6 +368,8 @@ Dopo aver consultato la FINMA, la BNS può esentare dall’osservanza dei requis
 <sup>5</sup> Se giunge alla conclusione che un’infrastruttura del mercato finanziario non ha rilevanza sistemica, la BNS lo comunica alla FINMA. Se sono adempiute le condizioni generali di autorizzazione, la FINMA rilascia l’autorizzazione.
 
 <sup>6</sup> La procedura si applica per analogia alle richieste di riconoscimento di controparti centrali estere.
+
+[^25-1]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### Capitolo 2: Sedi di negoziazione, sistemi organizzati di negoziazione e borse dell’energia elettrica
 
@@ -615,7 +635,7 @@ Si considera sistema organizzato di negoziazione l’istituzione per:
 
 **Obbligo di autorizzazione o di riconoscimento**
 
-<sup>1</sup> Chiunque gestisce un sistema organizzato di negoziazione necessita di un’autorizzazione quale banca o commerciante di valori mobiliari oppure di un’autorizzazione o di un riconoscimento quale sede di negoziazione.
+<sup>1</sup> Chiunque gestisce un sistema organizzato di negoziazione necessita di un’autorizzazione quale banca, società di intermediazione mobiliare o sistema di negoziazione TRD oppure di un’autorizzazione o di un riconoscimento quale sede di negoziazione.[^43-1]
 
 <sup>2</sup>
 
@@ -623,6 +643,8 @@ Non necessita di autorizzazione la gestione di un sistema organizzato di negozia
 
 - a. è direttamente controllata da un’infrastruttura del mercato finanziario; e
 - b. sottostà alla vigilanza su base consolidata della FINMA.
+
+[^43-1]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 44
 
@@ -1002,6 +1024,128 @@ La costituzione di collegamenti di accesso in base ai quali un depositario centr
 
 <sup>4</sup> Il partecipante a un depositario centrale rende pubblici i costi e i dettagli relativi al livello di protezione garantito dalla tenuta dei conti secondo il capoverso 2.
 
+### Capitolo 4*a*: Sistemi di negoziazione TRD
+
+[^tit2-chap4a-1]
+
+[^tit2-chap4a-1]: Introdotto dal n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+#### Art. 73a
+
+**Definizione**
+
+<sup>1</sup>
+
+Per sistema di negoziazione TRD s’intende un’istituzione gestita a titolo professionale per il commercio multilaterale di valori mobiliari TRD, avente come scopo lo scambio simultaneo di offerte tra più partecipanti nonché la conclusione di contratti secondo regole non discrezionali e che adempie almeno una delle condizioni seguenti:
+
+- a. ammette i partecipanti di cui all’articolo 73*c* capoverso 1 lettera e;
+- b. detiene, in base a regole e procedure uniformi, valori mobiliari TRD in custodia accentrata;
+- c. effettua la compensazione e il regolamento di operazioni su valori mobiliari TRD in base a regole e procedure uniformi.
+
+<sup>2</sup> È svolta a titolo professionale l’attività economica indipendente diretta al conseguimento di un guadagno durevole.
+
+#### Art. 73b
+
+**Applicabilità di determinati requisiti stabiliti per le sedi di negoziazione**
+
+Ai sistemi di negoziazione TRD si applicano i requisiti per le sedi di negoziazione concernenti:
+
+- a. l’autodisciplina (art. 27);
+- b. l’organizzazione del commercio (art. 28);
+- c. la trasparenza pre-negoziazione e post-negoziazione (art. 29);
+- d. la garanzia di un commercio ordinato (art. 30);
+- e. la sorveglianza del commercio (art. 31);
+- f. la collaborazione tra organi di sorveglianza del commercio (art. 32);
+- g. la sospensione del commercio (art. 33 cpv. 2);
+- h. l’autorità di ricorso (art. 37).
+
+#### Art. 73c
+
+**Ammissione di partecipanti e loro obblighi**
+
+<sup>1</sup>
+
+Possono essere ammessi quali partecipanti a un sistema di negoziazione TRD:
+
+- a. le società di intermediazione mobiliare di cui all’articolo 41 LIsFi[^73c-1];
+- b. altri assoggettati alla vigilanza della FINMA secondo l’articolo 3 LFINMA[^73c-2] nonché assoggettati alla vigilanza di un’autorità estera, sempre che il sistema di negoziazione TRD garantisca che essi adempiono condizioni tecniche e operative equivalenti a quelle delle società di intermediazione mobiliare;
+- c. la BNS;
+- d. la Banca dei regolamenti internazionali;
+- e. altre persone fisiche e giuridiche, sempre che dichiarino di partecipare a proprio nome e per conto proprio.
+
+<sup>2</sup> I partecipanti con sede in Svizzera devono fornire alla FINMA tutte le informazioni e i documenti necessari all’adempimento dei suoi compiti. Il sistema di negoziazione TRD deve garantire che i partecipanti con sede all’estero gli forniscano le informazioni e i documenti corrispondenti, laddove ordinato dalla FINMA.
+
+<sup>3</sup> Le disposizioni sull’obbligo di registrazione (art. 38) e sull’obbligo di comunicazione (art. 39) valgono anche per i partecipanti a un sistema di negoziazione TRD. Il Consiglio federale può prevedere deroghe per i partecipanti di cui al capoverso 1 lettera e.
+
+<sup>4</sup> Il Consiglio federale disciplina l’ammissione, gli obblighi e l’esclusione dei partecipanti.
+
+<sup>5</sup> Il sistema di negoziazione TRD emana un regolamento sull’ammissione, sugli obblighi e sull’esclusione dei partecipanti, badando in particolare al rispetto del principio della parità di trattamento.
+
+<sup>6</sup> Il sistema di negoziazione TRD sorveglia l’osservanza del regolamento e adotta le sanzioni previste contrattualmente in caso di infrazione.
+
+[^73c-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^73c-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+#### Art. 73d
+
+**Ammissione di valori mobiliari TRD e di altri valori patrimoniali**
+
+<sup>1</sup> Il sistema di negoziazione TRD emana un regolamento sull’ammissione dei valori mobiliari TRD al commercio e agli altri suoi servizi. Stabilisce in particolare i requisiti che i valori mobiliari TRD e gli emittenti o i terzi devono soddisfare in materia di ammissione. L’obbligo di pubblicare un prospetto è retto esclusivamente dagli articoli 35–57 della legge del 15 giugno 2018[^73d-1] sui servizi finanziari.
+
+<sup>2</sup> Se, oltre ai valori mobiliari TRD, ammette altri valori patrimoniali al commercio o agli altri suoi servizi, il sistema di negoziazione TRD disciplina in un regolamento l’ammissione di tali valori patrimoniali.
+
+<sup>3</sup>
+
+Il Consiglio federale può:
+
+- a. prevedere che i valori mobiliari TRD possano essere ammessi a un sistema di negoziazione TRD soltanto se soddisfano determinati requisiti minimi, segnatamente in materia di integrità e pubblicità;
+- b. a tutela dei partecipanti al mercato finanziario o della stabilità o integrità del sistema finanziario, indicare valori mobiliari TRD e altri valori patrimoniali che non possono essere ammessi a un sistema di negoziazione TRD.
+
+<sup>4</sup> Il sistema di negoziazione TRD sorveglia l’osservanza dei regolamenti e adotta le sanzioni previste contrattualmente in caso di infrazione.
+
+[^73d-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+
+#### Art. 73e
+
+**Ulteriori requisiti**
+
+<sup>1</sup> Oltre ai requisiti di cui agli articoli 73*b*–73*d*, per i sistemi di negoziazione TRD aperti ai partecipanti di cui all’articolo 73*c* capoverso 1 lettera e il Consiglio federale può stabilire ulteriori requisiti a tutela di questi partecipanti.
+
+<sup>2</sup>
+
+Oltre ai requisiti di cui agli articoli 73*a*–73*d*, per i sistemi di negoziazione TRD che offrono servizi nell’ambito della custodia accentrata, della compensazione o del regolamento il Consiglio federale stabilisce ulteriori requisiti, segnatamente relativi agli aspetti seguenti:
+
+- a. la custodia accentrata, la compensazione e il regolamento di valori mobiliari TRD;
+- b. le garanzie;
+- c. i fondi propri;
+- d. la ripartizione dei rischi;
+- e. i servizi accessori;
+- f. la liquidità;
+- g. la procedura in caso di inadempienza di un partecipante;
+- h. la segregazione.
+
+<sup>3</sup> Per stabilire i requisiti di cui al capoverso 2, il Consiglio federale si orienta ai requisiti applicabili ai depositari centrali (art. 61–73).
+
+<sup>4</sup> Può abilitare la FINMA a stabilire i requisiti di cui al capoverso 2, se ciò è necessario per poter tenere conto dei rischi legati alla tecnologia.
+
+<sup>5</sup> È fatta salva la competenza della BNS secondo l’articolo 23 di stabilire requisiti particolari per sistemi di negoziazione TRD di rilevanza sistemica.
+
+#### Art. 73f
+
+**Agevolazioni per piccoli sistemi di negoziazione TRD**
+
+<sup>1</sup>
+
+Per motivi di proporzionalità e tenendo conto delle finalità di tutela della presente legge, per piccoli sistemi di negoziazione TRD il Consiglio federale può prevedere agevolazioni rispetto ai requisiti di cui agli articoli 6–21, 27–33 e 37, segnatamente rispetto alle disposizioni concernenti:
+
+- a. la separazione degli organi per la gestione, da una parte, e per l’alta direzione, la vigilanza e il controllo, dall’altra (art. 8);
+- b. la fornitura di servizi accessori per i quali secondo la legislazione sui mercati finanziari non occorre alcuna autorizzazione o approvazione (art. 10);
+- c. i requisiti di indipendenza dell’organismo di autodisciplina (art. 27 cpv. 2) e dell’autorità di ricorso (art. 37 cpv. 1).
+
+<sup>2</sup> Sono considerati piccoli i sistemi di negoziazione TRD con un basso rischio ai fini della tutela dei partecipanti al mercato finanziario, della funzionalità e della stabilità del sistema finanziario, segnatamente perché il numero di partecipanti, il volume di transazioni, il volume di depositi da custodire o il volume di compensazione e regolamento è limitato. Il Consiglio federale fissa valori soglia.
+
+<sup>3</sup> I sistemi di negoziazione TRD che beneficiano di agevolazioni in virtù del presente articolo sono tenuti ad informarne i propri clienti. Il Consiglio federale disciplina i dettagli.
+
 ### Capitolo 5: Repertorio di dati sulle negoziazioni
 
 ### Sezione 1: Disposizioni generali
@@ -1188,11 +1332,11 @@ A complemento dell’articolo 37 LFINMA[^87-1], la FINMA può revocare l’autor
 
 **Protezione del sistema**
 
-<sup>1</sup> La FINMA informa le controparti centrali, i depositari centrali e i sistemi di pagamento in Svizzera e all’estero, per quanto possibile e per quanto essi ne siano interessati, sulle misure applicabili in caso di insolvenza che intende adottare nei confronti di un partecipante e che limitano la facoltà di disporre di quest’ultimo, nonché sul momento preciso della loro entrata in vigore.
+<sup>1</sup> La FINMA informa le controparti centrali, i depositari centrali e i sistemi di pagamento, nonché i sistemi di negoziazione TRD che offrono servizi equivalenti nell’ambito della custodia accentrata, della compensazione o del regolamento, in Svizzera e all’estero, per quanto possibile e per quanto essi ne siano interessati, sulle misure applicabili in caso di insolvenza che intende adottare nei confronti di un partecipante e che limitano la facoltà di disporre di quest’ultimo, nonché sul momento della loro entrata in vigore.[^89-1]
 
 <sup>2</sup>
 
-L’istruzione impartita a una controparte centrale, a un depositario centrale o a un sistema di pagamento da un partecipante nei confronti del quale è stata ordinata una misura applicabile in caso di insolvenza è giuridicamente vincolante ed efficace nei confronti di terzi se:
+L’istruzione impartita a una controparte centrale, a un depositario centrale o a un sistema di pagamento, oppure a un sistema di negoziazione TRD che offre servizi equivalenti nell’ambito della custodia accentrata, della compensazione o del regolamento, da un partecipante nei confronti del quale è stata ordinata una misura applicabile in caso di insolvenza è giuridicamente vincolante ed efficace nei confronti di terzi se:[^89-2]
 
 - a. è stata impartita prima che fosse ordinata la misura ed è divenuta irrevocabile secondo le regole dell’infrastruttura del mercato finanziario; o
 - b. è stata eseguita il giorno operativo, definito secondo le regole dell’infrastruttura del mercato finanziario, durante il quale la misura è stata ordinata, sempre che l’infrastruttura del mercato finanziario fornisca la prova che non aveva o non doveva avere conoscenza della misura ordinata.
@@ -1211,6 +1355,9 @@ Il capoverso 2 si applica per analogia:
 
 - a. alle infrastrutture del mercato finanziario di cui all’articolo 4 capoverso 3;
 - b. ai sistemi di pagamento gestiti dalle banche.
+
+[^89-1]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^89-2]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 90
 
@@ -1975,9 +2122,9 @@ Nelle procedure concernenti le OPA hanno qualità di parte:
 
 Agisce in maniera illecita chiunque, detenendo un’informazione privilegiata di cui sa o deve sapere che si tratta di un’informazione privilegiata oppure una raccomandazione di cui sa o deve sapere che si fonda su un’informazione privilegiata:
 
-- a. a sfrutta per acquistare o alienare valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera oppure per impiegare derivati relativi a tali valori;
+- a.[^142-1] la sfrutta per acquistare o alienare valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera o un sistema di negoziazione TRD con sede in Svizzera oppure per impiegare derivati relativi a tali valori;
 - b. la comunica ad altri;
-- c. mandare ad altri l’acquisto o l’alienazione di valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera oppure per raccomandare ad altri l’impiego di derivati relativi a tali valori.
+- c.[^142-2] la sfrutta per raccomandare ad altri l’acquisto o l’alienazione di valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera o un sistema di negoziazione TRD con sede in Svizzera oppure per raccomandare ad altri l’impiego di derivati relativi a tali valori.
 
 <sup>2</sup>
 
@@ -1985,6 +2132,9 @@ Il Consiglio federale emana disposizioni sull’impiego lecito di informazioni p
 
 - a. a operazioni in valori mobiliari per la preparazione di un’offerta pubblica di acquisto;
 - b. allo statuto giuridico particolare del destinatario dell’informazione.
+
+[^142-1]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^142-2]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 143
 
@@ -1994,8 +2144,8 @@ Il Consiglio federale emana disposizioni sull’impiego lecito di informazioni p
 
 Agisce in maniera illecita chiunque:
 
-- a. diffonde pubblicamente informazioni di cui sa o deve sapere che forniscono segnali falsi o fuorvianti in merito all’offerta, alla domanda o al corso di valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera;
-- b. segue operazioni oppure ordini di acquisto o vendita di cui sa o deve sapere che forniscono segnali falsi o fuorvianti in merito all’offerta, alla domanda o l corso di valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera.
+- a. diffonde pubblicamente informazioni di cui sa o deve sapere che forniscono segnali falsi o fuorvianti in merito all’offerta, alla domanda o al corso di valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera o un sistema di negoziazione TRD con sede in Svizzera;
+- b. esegue operazioni oppure ordini di acquisto o vendita di cui sa o deve sapere che forniscono segnali falsi o fuorvianti in merito all’offerta, alla domanda o al corso di valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera o un sistema di negoziazione TRD con sede in Svizzera.[^143-1]
 
 <sup>2</sup>
 
@@ -2003,6 +2153,8 @@ Il Consiglio federale emana disposizioni sui comportamenti leciti, in particolar
 
 - a. operazioni in valori mobiliari volte a stabilizzare i prezzi;
 - b. programmi di riacquisto di valori mobiliari propri.
+
+[^143-1]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### Capitolo 6: Strumenti di vigilanza sul mercato
 
@@ -2124,15 +2276,20 @@ Le persone soggette all’obbligo di comunicazione di cui all’articolo 134 o c
 
 È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque, in qualità di organo o membro di un organo direttivo o di vigilanza di un emittente o di una società che controlla l’emittente o ne è controllata, oppure in qualità di persona che, in virtù della sua partecipazione o della sua attività, ha accesso a informazioni privilegiate, ottiene per sé o per altri un vantaggio patrimoniale:
 
-- a. fruttando un’informazione privilegiata per acquistare o alienare valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera, oppure per impiegare derivati relativi a tali valori;
+- a.[^154-1] sfruttando un’informazione privilegiata per acquistare o alienare valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera o un sistema di negoziazione TRD con sede in Svizzera oppure per impiegare derivati relativi a tali valori;
 - b. comunicando ad altri un’informazione privilegiata;
-- c. sfruttando un’informazione privilegiata per raccomandare ad altri l’acquisto o l’alienazione di valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera oppure per raccomandare ad altri l’impiego di derivati relativi a tali valori.
+- c.[^154-2] sfruttando un’informazione privilegiata per raccomandare ad altri l’acquisto o l’alienazione di valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera o un sistema di negoziazione TRD con sede in Svizzera oppure per raccomandare ad altri l’impiego di derivati relativi a tali valori.
 
 <sup>2</sup> È punito con una pena detentiva sino a cinque anni o con una pena pecuniaria chiunque, commettendo un atto di cui al capoverso 1, ottiene un vantaggio patrimoniale di oltre un milione di franchi.
 
-<sup>3</sup> È punito con una pena detentiva sino a un anno o con una pena pecuniaria chiunque ottiene per sé o per altri un vantaggio patrimoniale sfruttando un’informazione privilegiata oppure una raccomandazione fondata su di essa che gli è stata comunicata da una persona di cui al capoverso 1 o che si è procurato commettendo un crimine o un delitto, per acquistare o alienare valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera oppure per impiegare derivati relativi a tali valori.
+<sup>3</sup> È punito con una pena detentiva sino a un anno o con una pena pecuniaria chiunque ottiene per sé o per altri un vantaggio patrimoniale sfruttando un’informazione privilegiata oppure una raccomandazione fondata su di essa che gli è stata comunicata da una persona di cui al capoverso 1 o che si è procurato commettendo un crimine o un delitto, per acquistare o alienare valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera o un sistema di negoziazione TRD con sede in Svizzera oppure per impiegare derivati relativi a tali valori.[^154-3]
 
-<sup>4</sup> È punito con la multa chiunque, senza appartenere alla cerchia delle persone di cui ai capoversi 1–3, ottiene per sé o per altri un vantaggio patrimoniale sfruttando un’informazione privilegiata oppure una raccomandazione fondata su di essa per acquistare o alienare valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera oppure per impiegare derivati relativi a tali valori.
+<sup>4</sup> È punito con la multa chiunque, senza appartenere alla cerchia delle persone di cui ai capoversi 1–3, ottiene per sé o per altri un vantaggio patrimoniale sfruttando un’informazione privilegiata oppure una raccomandazione fondata su di essa per acquistare o alienare valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera o un sistema di negoziazione TRD con sede in Svizzera oppure per impiegare derivati relativi a tali valori.[^154-4]
+
+[^154-1]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^154-2]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^154-3]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^154-4]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 155
 
@@ -2140,12 +2297,14 @@ Le persone soggette all’obbligo di comunicazione di cui all’articolo 134 o c
 
 <sup>1</sup>
 
-È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque, nell’intento di influenzare notevolmente il corso di valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera, per procurare a sé o ad altri un vantaggio patrimoniale:
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque, nell’intento di influenzare notevolmente il corso di valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera o un sistema di negoziazione TRD con sede in Svizzera, per procurare a sé o ad altri un vantaggio patrimoniale:[^155-1]
 
 - a. diffonde in malafede informazioni false o fuorvianti;
 - b. effettua acquisti e vendite di siffatti valori mobiliari direttamente o indirettamente per conto della medesima persona o di persone agenti di concerto a tal fine.
 
 <sup>2</sup> È punito con una pena detentiva sino a cinque anni o con una pena pecuniaria chiunque, commettendo un atto di cui al capoverso 1, ottiene un vantaggio patrimoniale di oltre un milione di franchi.
+
+[^155-1]: Nuovo testo giusta il n. I 10 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 156
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. Juni 2015 über die Finanzmarktinfrastrukturen und 
 short: FinfraG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: de
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2015-853-20200101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2015-853-20210801-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20200101/de"
 
 (Finanzmarktinfrastrukturgesetz, FinfraG)
 
-vom 19. Juni 2015 (Stand am 1. Januar 2020)
+vom 19. Juni 2015 (Stand am 1. August 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -53,9 +53,17 @@ In diesem Gesetz gelten als:
   - 3\. eine zentrale Gegenpartei (Art. 48),
   - 4\. ein Zentralverwahrer (Art. 61),
   - 5\. ein Transaktionsregister (Art. 74),
+  - 5*a*.[^2-1] ein Handelssystem für Distributed Ledger Technology-Effekten (DLT-Handelssystem; Art. 73*a*),
   - 6\. ein Zahlungssystem (Art. 81);
 
-- b. *Effekten:* vereinheitlichte und zum massenweisen Handel geeignete Wertpapiere, Wertrechte, Derivate und Bucheffekten;
+- b.[^2-2] *Effekten:* vereinheitlichte und zum massenweisen Handel geeignete Wertpapiere, Wertrechte, insbesondere einfache Wertrechte nach Artikel 973*c* des Obligationenrechts (OR)[^2-3] und Registerwertrechte nach Artikel 973*d* OR, sowie Derivate und Bucheffekten;
+- b<sup>bis</sup>.[^2-4]
+
+  *Distributed Ledger Technology-Effekten (DLT-Effekten):* Effekten in der Form von:
+
+  - 1\. Registerwertrechten (Art. 973*d* OR), oder
+  - 2\. anderen Wertrechten, die in verteilten elektronischen Registern gehalten werden und die mittels technischer Verfahren den Gläubigern, nicht aber dem Schuldner, die Verfügungsmacht über das Wertrecht vermitteln;
+
 - c. *Derivate* *oder Derivatgeschäfte:* Finanzkontrakte, deren Wert von einem oder mehreren Basiswerten abhängt und die kein Kassageschäft darstellen;
 - d. *Teilnehmer:* jede Person, welche die Dienstleistungen einer Finanzmarktinfrastruktur direkt in Anspruch nimmt;
 - e*.* *indirekte Teilnehmer:* jede Person, welche die Dienstleistungen einer Finanzmarktinfrastuktur indirekt über einen Teilnehmer in Anspruch nimmt;
@@ -71,7 +79,13 @@ In diesem Gesetz gelten als:
 
 - h. *Abwicklung (Settlement):* Erfüllung der bei Geschäftsabschluss eingegangenen Verpflichtungen, namentlich durch die Überweisung von Geld oder die Übertragung von Effekten;
 - i. *ö**ffentliche Kaufangebote:* Angebote zum Kauf oder zum Tausch von Aktien, Partizipations- oder Genussscheinen oder von anderen Beteiligungspapieren (Beteiligungspapiere), die sich öffentlich an Inhaberinnen und Inhaber von Aktien oder von anderen Beteiligungspapieren richten;
-- j. *Insiderinformation:* vertrauliche Information, deren Bekanntwerden geeignet ist, den Kurs von Effekten, die an einem Handelsplatz in der Schweiz zum Handel zugelassen sind, erheblich zu beeinflussen.
+- j.[^2-5] *Insiderinformation:* vertrauliche Information, deren Bekanntwerden geeignet ist, den Kurs von Effekten, die an einem Handelsplatz oder einem DLT-Handelssystem mit Sitz in der Schweiz zum Handel zugelassen sind, erheblich zu beeinflussen.
+
+[^2-1]: Eingefügt durch Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-2]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-4]: Eingefügt durch Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-5]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 3
 
@@ -232,7 +246,9 @@ Als Finanzgruppe im Sinne dieses Gesetzes gelten zwei oder mehrere Unternehmen:
 
 <sup>1</sup> Die Bezeichnung der Finanzmarktinfrastruktur darf nicht zu Verwechslung oder Täuschung Anlass geben.
 
-<sup>2</sup> Die Bezeichnungen «Börse», «Multilaterales Handelssystem», «Multilateral Trading Facility», «MTF», «Zentrale Gegenpartei», «Central Counterparty», «CCP», «Effektenabwicklungssystem», «Securities Settlement System», «SSS», «Zentralverwahrer», «Central Securities Depository», «CSD», «Transaktionsregister», «Trade Repository» und «TR» dürfen im Zusammenhang mit dem Anbieten von Finanzdienstleistungen nur für die entsprechenden, diesem Gesetz unterstellten Finanzmarktinfrastrukturen verwendet werden.
+<sup>2</sup> Die Bezeichnungen «Börse», «Multilaterales Handelssystem», «Multilateral Trading Facility», «MTF», «Zentrale Gegenpartei», «Central Counterparty», «CCP», «Effektenabwicklungssystem», «Securities Settlement System», «SSS», «Zentralverwahrer», «Central Securities Depository», «CSD», «Transaktionsregister», «Trade Repository», «TR», «DLT-Handelssystem», «DLT Trading System», «DLT Trading Facility» und «DLT Exchange» dürfen im Zusammenhang mit dem Anbieten von Finanzdienstleistungen nur für die entsprechenden, diesem Gesetz unterstellten Finanzmarktinfrastrukturen verwendet werden.[^16-1]
+
+[^16-1]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 17
 
@@ -290,7 +306,7 @@ Die Finanzmarktinfrastruktur veröffentlicht regelmässig alle für die Teilnehm
 
 <sup>1</sup>
 
-Zentrale Gegenparteien, Zentralverwahrer und Zahlungssysteme sind systemisch bedeutsam, wenn:
+Zentrale Gegenparteien, Zentralverwahrer, Zahlungssysteme und die DLT-Handelssysteme, die Dienstleistungen im Bereich der zentralen Verwahrung, der Abrechnung oder der Abwicklung anbieten, sind systemisch bedeutsam, wenn:[^22-1]
 
 - a. ihre Nichtverfügbarkeit, namentlich aufgrund technischer oder operationeller Probleme oder finanzieller Schwierigkeiten, zu schwerwiegenden Verlusten, Liquiditätsengpässen oder operationellen Problemen bei Finanzintermediären oder anderen Finanzmarktinfrastrukturen führen oder schwerwiegende Störungen an den Finanzmärkten zur Folge haben kann; oder
 - b. Zahlungs- oder Lieferschwierigkeiten einzelner Teilnehmer über sie auf andere Teilnehmer oder verbundene Finanzmarktinfrastrukturen übertragen werden können und bei diesen zu schwerwiegenden Verlusten, Liquiditätsengpässen oder operationellen Problemen führen oder schwerwiegende Störungen an den Finanzmärkten zur Folge haben können.
@@ -301,6 +317,8 @@ Ein Geschäftsprozess einer Finanzmarktinfrastruktur nach Absatz 1 ist systemisc
 
 - a. seine Nichtverfügbarkeit zu schwerwiegenden Verlusten, Liquiditätsengpässen oder operationellen Problemen bei Finanzintermediären oder anderen Finanzmarktinfrastrukturen führen oder schwerwiegende Störungen an den Finanzmärkten zur Folge haben kann; und
 - b. die Teilnehmer den Geschäftsprozess kurzfristig nicht substituieren können.
+
+[^22-1]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 23
 
@@ -338,7 +356,7 @@ Die SNB kann nach Anhörung der FINMA systemisch bedeutsame Finanzmarktinfrastru
 
 #### Art. 25
 
-<sup>1</sup> Die FINMA informiert die SNB über Bewilligungsgesuche von zentralen Gegenparteien, Zentralverwahrern und Zahlungssystemen.
+<sup>1</sup> Die FINMA informiert die SNB über Bewilligungsgesuche von zentralen Gegenparteien, Zentralverwahrern, Zahlungssystemen und den DLT-Handelssystemen, die Dienstleistungen im Bereich der zentralen Verwahrung, der Abrechnung oder der Abwicklung anbieten.[^25-1]
 
 <sup>2</sup> Die SNB bezeichnet nach Anhörung der FINMA durch Verfügung die systemisch bedeutsamen Finanzmarktinfrastrukturen und deren systemisch bedeutsame Geschäftsprozesse nach Artikel 22. Sie legt zudem durch Verfügung fest, welche besonderen Anforderungen nach Artikel 23 die einzelne systemisch bedeutsame Finanzmarktinfrastruktur erfüllen muss, und beurteilt, ob sie diese erfüllt.
 
@@ -349,6 +367,8 @@ Die SNB kann nach Anhörung der FINMA systemisch bedeutsame Finanzmarktinfrastru
 <sup>5</sup> Gelangt die SNB zum Schluss, dass eine Finanzmarktinfrastruktur nicht systemisch bedeutsam ist, so teilt sie dies der FINMA mit. Sind die allgemeinen Bewilligungsvoraussetzungen erfüllt, so erteilt die FINMA die Bewilligung.
 
 <sup>6</sup> Bei Gesuchen um Anerkennung ausländischer zentraler Gegenparteien findet das Verfahren sinngemäss Anwendung.
+
+[^25-1]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### 2. Kapitel: Handelsplätze, organisierte Handelssysteme und Strombörsen
 
@@ -613,7 +633,7 @@ Als organisiertes Handelssystem gilt eine Einrichtung zum:
 
 **Bewilligungs- oder Anerkennungspflicht**
 
-<sup>1</sup> Wer ein organisiertes Handelssystem betreibt, bedarf einer Bewilligung als Bank oder Wertpapierhaus oder einer Bewilligung oder Anerkennung als Handelsplatz.
+<sup>1</sup> Wer ein organisiertes Handelssystem betreibt, bedarf einer Bewilligung als Bank, Wertpapierhaus oder DLT-Handelssystem oder einer Bewilligung oder Anerkennung als Handelsplatz.[^43-1]
 
 <sup>2</sup>
 
@@ -621,6 +641,8 @@ Keiner Bewilligung bedarf der Betrieb eines organisierten Handelssystems innerha
 
 - a. direkt von einer Finanzmarktinfrastruktur beherrscht wird; und
 - b. der konsolidierten Aufsicht durch die FINMA untersteht.
+
+[^43-1]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 44
 
@@ -1000,6 +1022,128 @@ Die Errichtung von Zugangsverbindungen, bei denen ein Zentralverwahrer für den 
 
 <sup>4</sup> Ein Teilnehmer eines Zentralverwahrers macht die Kosten und die Einzelheiten zum Umfang des durch die Kontenführung nach Absatz 2 gewährten Schutzes öffentlich bekannt.
 
+### 4*a*. Kapitel:**** DLT-Handelssysteme
+
+[^tit2-chap4a-1]
+
+[^tit2-chap4a-1]: Eingefügt durch Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+#### Art. 73a
+
+**Begriffe**
+
+<sup>1</sup>
+
+Als DLT-Handelssystem gilt eine gewerbsmässig betriebene Einrichtung zum multilateralen Handel von DLT-Effekten, die den gleichzeitigen Austausch von Angeboten unter mehreren Teilnehmern sowie den Vertragsabschluss nach nichtdiskretionären Regeln bezweckt und mindestens eine der folgenden Voraussetzungen erfüllt:
+
+- a. Sie lässt Teilnehmer nach Artikel 73*c* Absatz 1 Buchstabe e zu.
+- b. Sie verwahrt DLT-Effekten gestützt auf einheitliche Regeln und Verfahren zentral.
+- c. Sie rechnet und wickelt Geschäfte mit DLT-Effekten gestützt auf einheitliche Regeln und Verfahren ab.
+
+<sup>2</sup> Gewerbsmässigkeit ist gegeben, wenn eine selbstständige, auf dauernden Erwerb ausgerichtete wirtschaftliche Tätigkeit vorliegt.
+
+#### Art. 73b
+
+**Geltung bestimmter für Handelsplätze aufgestellter Anforderungen**
+
+Für DLT-Handelssysteme gelten die Anforderungen an Handelsplätze betreffend:
+
+- a. die Selbstregulierung (Art. 27);
+- b. die Organisation des Handels (Art. 28);
+- c. die Vor- und Nachhandelstransparenz (Art. 29);
+- d. die Sicherstellung des geordneten Handels (Art. 30);
+- e. die Überwachung des Handels (Art. 31);
+- f. die Zusammenarbeit zwischen Handelsüberwachungsstellen (Art. 32);
+- g. die Einstellung des Handels (Art. 33 Abs. 2);
+- h. die Beschwerdeinstanz (Art. 37).
+
+#### Art. 73c
+
+**Zulassung von Teilnehmern und deren Pflichten**
+
+<sup>1</sup>
+
+Als Teilnehmer eines DLT-Handelssystems können zugelassen werden:
+
+- a. Wertpapierhäuser nach Artikel 41 FINIG[^73c-1];
+- b. weitere von der FINMA nach Artikel 3 des FINMAG[^73c-2] Beaufsichtigte sowie von einer ausländischen Behörde Beaufsichtigte, sofern das DLT-Handelssystem sicherstellt, dass sie gleichwertige technische und operative Voraussetzungen erfüllen wie Wertpapierhäuser;
+- c. die SNB;
+- d. die Bank für Internationalen Zahlungsausgleich;
+- e. weitere natürliche und juristische Personen, sofern diese erklären, in eigenem Namen und auf eigene Rechnung teilzunehmen.
+
+<sup>2</sup> Teilnehmer mit Sitz in der Schweiz müssen der FINMA alle Auskünfte erteilen und alle Unterlagen herausgeben, die sie zur Erfüllung ihrer Aufgaben benötigt. Das DLT-Handelssystem muss sicherstellen, dass ihm Teilnehmer mit Sitz im Ausland entsprechende Auskünfte erteilen und Unterlagen herausgeben, wenn die FINMA es anordnet.
+
+<sup>3</sup> Die Bestimmungen über die Aufzeichnungspflicht (Art. 38) und die Meldepflicht (Art. 39) gelten auch für Teilnehmer an einem DLT-Handelssystem. Der Bundesrat kann für Teilnehmer nach Absatz 1 Buchstabe e Ausnahmen vorsehen.
+
+<sup>4</sup> Der Bundesrat regelt die Einzelheiten betreffend die Zulassung sowie die Pflichten und den Ausschluss von Teilnehmern.
+
+<sup>5</sup> Das DLT-Handelssystem erlässt ein Reglement über die Zulassung sowie die Pflichten und den Ausschluss von Teilnehmern und beachtet dabei insbesondere den Grundsatz der Gleichbehandlung.
+
+<sup>6</sup> Es überwacht die Einhaltung des Reglements und ergreift bei Verstössen die vertraglich vorgesehenen Sanktionen.
+
+[^73c-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^73c-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+#### Art. 73d
+
+**Zulassung von DLT-Effekten und weiteren Vermögenswerten**
+
+<sup>1</sup> Das DLT-Handelssystem erlässt ein Reglement über die Zulassung von DLT-Effekten zum Handel und zu seinen weiteren Dienstleistungen. Es legt darin insbesondere fest, welche Anforderungen die DLT-Effekten und die Emittenten oder Dritte im Zusammenhang mit der Zulassung erfüllen müssen. Die Prospektpflicht richtet sich ausschliesslich nach den Artikeln 35–57 des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^73d-1].
+
+<sup>2</sup> Ein DLT-Handelssystem, das neben DLT-Effekten weitere Vermögenswerte zum Handel oder zu seinen weiteren Dienstleistungen zulässt, regelt die Zulassung solcher Vermögenswerte in einem Reglement.
+
+<sup>3</sup>
+
+Der Bundesrat kann:
+
+- a. vorsehen, dass DLT-Effekten an DLT-Handelssystemen nur zugelassen werden dürfen, wenn sie bestimmte Mindestanforderungen namentlich hinsichtlich deren Integrität und Publizität erfüllen;
+- b. zum Schutz der Finanzmarktteilnehmerinnen und -teilnehmer, der Stabilität oder der Integrität des Finanzsystems DLT-Effekten und weitere Vermögenswerte bezeichnen, die an DLT-Handelssystemen nicht zugelassen werden dürfen.
+
+<sup>4</sup> Das DLT-Handelssystem überwacht die Einhaltung der Reglemente und ergreift bei Verstössen die vertraglich vorgesehenen Sanktionen.
+
+[^73d-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+
+#### Art. 73e
+
+**Weitere Anforderungen**
+
+<sup>1</sup> Der Bundesrat kann für DLT-Handelssysteme, die Teilnehmern nach Artikel 73*c* Absatz 1 Buchstabe e offenstehen, neben den Anforderungen nach den Artikeln 73*b*–73*d* weitere Anforderungen zum Schutz dieser Teilnehmer festlegen.
+
+<sup>2</sup>
+
+Er legt für DLT-Handelssysteme, die Dienstleistungen im Bereich der zentralen Verwahrung, Abrechnung oder Abwicklung anbieten, neben den Anforderungen nach den Artikeln 73*a*–73*d* weitere Anforderungen fest, namentlich betreffend:
+
+- a. die zentrale Verwahrung, die Abrechnung und Abwicklung von DLT-Effekten;
+- b. Sicherheiten;
+- c. Eigenmitteln;
+- d. Risikoverteilung;
+- e. Nebendienstleistungen;
+- f. Liquidität;
+- g. Verfahren bei Ausfall eines Teilnehmers;
+- h. Segregierung.
+
+<sup>3</sup> Er orientiert sich bei der Festlegung der Anforderungen nach Absatz 2 an den Anforderungen an Zentralverwahrer (Art. 61–73).
+
+<sup>4</sup> Er kann die FINMA ermächtigen, die Anforderungen nach Absatz 2 aufzustellen, soweit dies erforderlich ist, um technologiespezifischen Risiken Rechnung tragen zu können.
+
+<sup>5</sup> Vorbehalten bleibt die Zuständigkeit der SNB nach Artikel 23 zur Festlegung besonderer Anforderungen an systemisch bedeutsame DLT-Handelssysteme.
+
+#### Art. 73f
+
+**Erleichterungen für kleine DLT-Handelssysteme**
+
+<sup>1</sup>
+
+Der Bundesrat kann aus Gründen der Verhältnismässigkeit und unter Berücksichtigung des Schutzzwecks dieses Gesetzes für kleine DLT-Handelssysteme Erleichterungen von den Anforderungen nach den Artikeln 6–21, 27–33 und 37 vorsehen, namentlich von den Bestimmungen über:
+
+- a. die Trennung der Organe für die Geschäftsführung einerseits und für die Oberleitung, Aufsicht und Kontrolle andererseits (Art. 8);
+- b. die Ausübung von Nebendienstleistungen, die nach den Finanzmarktgesetzen keiner Bewilligung oder Genehmigung bedürfen (Art. 10);
+- c. die Unabhängigkeitsanforderungen an die Selbstregulierungsorganisation (Art. 27 Abs. 2) und die Beschwerdeinstanz (Art. 37 Abs. 1).
+
+<sup>2</sup> Als klein gelten DLT-Handelssysteme, die geringe Risiken für den Schutz der Finanzmarktteilnehmerinnen und -teilnehmer, für die Funktionsfähigkeit und Stabilität des Finanzsystems aufweisen, namentlich weil die Anzahl Teilnehmer, das Handelsvolumen, das Verwahrvolumen oder das Abrechnungs- und Abwicklungsvolumen beschränkt ist. Der Bundesrat legt Schwellenwerte fest.
+
+<sup>3</sup> DLT-Handelssysteme, die Erleichterungen nach diesem Artikel erhalten, sind verpflichtet, dies gegenüber ihren Kundinnen und Kunden offenzulegen. Der Bundesrat regelt die Details.
+
 ### 5. Kapitel: Transaktionsregister
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
@@ -1186,11 +1330,11 @@ In Ergänzung zu Artikel 37 FINMAG[^87-1] kann die FINMA einer Finanzmarktinfras
 
 **Systemschutz**
 
-<sup>1</sup> Die FINMA informiert die zentralen Gegenparteien, die Zentralverwahrer und die Zahlungssysteme im In- und Ausland, soweit möglich und soweit sie betroffen sind, über Insolvenzmassnahmen, die sie gegen einen Teilnehmer ergreifen will und die dessen Verfügungsmacht beschränken, und über den genauen Zeitpunkt des Inkrafttretens.
+<sup>1</sup> Die FINMA informiert die zentralen Gegenparteien, die Zentralverwahrer, die Zahlungssysteme und die DLT-Handelssysteme, die vergleichbare Dienstleistungen im Bereich der zentralen Verwahrung, Abrechnung oder Abwicklung erbringen, im In- und Ausland, soweit möglich und soweit sie betroffen sind, über Insolvenzmassnahmen, die sie gegen einen Teilnehmer ergreifen will und die dessen Verfügungsmacht beschränken, und über den genauen Zeitpunkt des Inkrafttretens.[^89-1]
 
 <sup>2</sup>
 
-Die Weisung eines Teilnehmers, gegen den eine solche Insolvenzmassnahme angeordnet wurde, an eine zentrale Gegenpartei, einen Zentralverwahrer oder ein Zahlungssystem ist rechtlich verbindlich und Dritten gegenüber wirksam, wenn sie:
+Die Weisung eines Teilnehmers, gegen den eine solche Insolvenzmassnahme angeordnet wurde, an eine zentrale Gegenpartei, einen Zentralverwahrer, ein Zahlungssystem oder ein DLT-Handelssystem, das vergleichbare Dienstleistungen im Bereich der zentralen Verwahrung, Abrechnung oder Abwicklung erbringt, ist rechtlich verbindlich und Dritten gegenüber wirksam, wenn sie:[^89-2]
 
 - a. vor Anordnung der Massnahme eingebracht und nach den Regeln der Finanzmarktinfrastruktur unabänderlich wurde; oder
 - b. an dem nach den Regeln der Finanzmarktinfrastruktur definierten Geschäftstag ausgeführt wurde, in dessen Verlauf die Massnahme angeordnet wurde, und die Finanzmarktinfrastruktur nachweist, dass sie von der Anordnung der Massnahme keine Kenntnis hatte oder haben musste.
@@ -1209,6 +1353,9 @@ Absatz 2 gilt sinngemäss für:
 
 - a. Finanzmarktinfrastrukturen nach Artikel 4 Absatz 3;
 - b. Zahlungssysteme, die durch Banken betrieben werden.
+
+[^89-1]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^89-2]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 90
 
@@ -1973,9 +2120,9 @@ Im Verfahren in Übernahmesachen haben Parteistellung:
 
 Unzulässig handelt, wer eine Insiderinformation, von der er weiss oder wissen muss, dass es eine Insiderinformation ist, oder eine Empfehlung, von der er weiss oder wissen muss, dass sie auf einer Insiderinformation beruht:
 
-- a. dazu ausnützt, Effekten, die an einem Handelsplatz in der Schweiz zum Handel zugelassen sind, zu erwerben, zu veräussern oder daraus abgeleitete Derivate einzusetzen;
+- a.[^142-1] dazu ausnützt, Effekten, die an einem Handelsplatz oder DLT-Handelssystem mit Sitz in der Schweiz zum Handel zugelassen sind, zu erwerben, zu veräussern oder daraus abgeleitete Derivate einzusetzen;
 - b. einem anderen mitteilt;
-- c. dazu ausnützt, einem anderen eine Empfehlung zum Erwerb oder zur Veräusserung von Effekten, die an einem Handelsplatz in der Schweiz zum Handel zugelassen sind, oder zum Einsatz von daraus abgeleiteten Derivaten abzugeben.
+- c.[^142-2] dazu ausnützt, einem anderen eine Empfehlung zum Erwerb oder zur Veräusserung von Effekten, die an einem Handelsplatz oder DLT-Handelssystem mit Sitz in der Schweiz zum Handel zugelassen sind, oder zum Einsatz von daraus abgeleiteten Derivaten abzugeben.
 
 <sup>2</sup>
 
@@ -1983,6 +2130,9 @@ Der Bundesrat erlässt Vorschriften über die zulässige Verwendung von Insideri
 
 - a. Effektengeschäften zur Vorbereitung eines öffentlichen Kaufangebots;
 - b. einer besonderen Rechtsstellung des Informationsempfängers.
+
+[^142-1]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^142-2]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 143
 
@@ -1992,8 +2142,8 @@ Der Bundesrat erlässt Vorschriften über die zulässige Verwendung von Insideri
 
 Unzulässig handelt, wer:
 
-- a. Informationen öffentlich verbreitet, von denen er weiss oder wissen muss, dass sie falsche oder irreführende Signale für das Angebot, die Nachfrage oder den Kurs von Effekten geben, die an einem Handelsplatz in der Schweiz zum Handel zugelassen sind;
-- b. Geschäfte oder Kauf- oder Verkaufsaufträge tätigt, von denen er weiss oder wissen muss, dass sie falsche oder irreführende Signale für das Angebot, die Nachfrage oder den Kurs von Effekten geben, die an einem Handelsplatz in der Schweiz zum Handel zugelassen sind.
+- a. Informationen öffentlich verbreitet, von denen er weiss oder wissen muss, dass sie falsche oder irreführende Signale für das Angebot, die Nachfrage oder den Kurs von Effekten geben, die an einem Handelsplatz oder DLT-Handelssystem mit Sitz in der Schweiz zum Handel zugelassen sind;
+- b. Geschäfte oder Kauf- oder Verkaufsaufträge tätigt, von denen er weiss oder wissen muss, dass sie falsche oder irreführende Signale für das Angebot, die Nachfrage oder den Kurs von Effekten geben, die an einem Handelsplatz oder DLT-Handelssystem mit Sitz in der Schweiz zum Handel zugelassen sind.[^143-1]
 
 <sup>2</sup>
 
@@ -2001,6 +2151,8 @@ Der Bundesrat erlässt Vorschriften über zulässige Verhaltensweisen, insbesond
 
 - a. Effektengeschäften zum Zweck der Preisstabilisierung;
 - b. Rückkaufprogrammen für eigene Effekten.
+
+[^143-1]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### 6. Kapitel: Instrumente der Marktaufsicht
 
@@ -2122,15 +2274,20 @@ Mit Busse bis zu 500 000 Franken wird bestraft, wer vorsätzlich:
 
 Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer als Organ oder Mitglied eines Leitungs- oder Aufsichtsorgans eines Emittenten oder einer den Emittenten beherrschenden oder von ihm beherrschten Gesellschaft oder als eine Person, die aufgrund ihrer Beteiligung oder aufgrund ihrer Tätigkeit bestimmungsgemäss Zugang zu Insiderinformationen hat, sich oder einem anderen einen Vermögensvorteil verschafft, indem er eine Insiderinformation:
 
-- a. dazu ausnützt, Effekten, die an einem Handelsplatz in der Schweiz zum Handel zugelassen sind, zu erwerben, zu veräussern oder daraus abgeleitete Derivate einzusetzen;
+- a.[^154-1] dazu ausnützt, Effekten, die an einem Handelsplatz oder DLT-Handelssystem mit Sitz in der Schweiz zum Handel zugelassen sind, zu erwerben, zu veräussern oder daraus abgeleitete Derivate einzusetzen;
 - b. einem anderen mitteilt;
-- c. dazu ausnützt, einem anderen eine Empfehlung zum Erwerb oder zur Veräusserung von Effekten, die an einem Handelsplatz in der Schweiz zum Handel zugelassen sind, oder zum Einsatz von daraus abgeleiteten Derivaten abzugeben.
+- c.[^154-2] dazu ausnützt, einem anderen eine Empfehlung zum Erwerb oder zur Veräusserung von Effekten, die an einem Handelsplatz oder DLT-Handelssystem mit Sitz in der Schweiz zum Handel zugelassen sind, oder zum Einsatz von daraus abgeleiteten Derivaten abzugeben.
 
 <sup>2</sup> Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird bestraft, wer durch eine Handlung nach Absatz 1 einen Vermögensvorteil von mehr als einer Million Franken erzielt.
 
-<sup>3</sup> Mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe wird bestraft, wer sich oder einem anderen einen Vermögensvorteil verschafft, indem er eine Insiderinformation oder eine darauf beruhende Empfehlung, die ihm von einer Person nach Absatz 1 mitgeteilt oder abgegeben wurde oder die er sich durch ein Verbrechen oder Vergehen verschafft hat, dazu ausnützt, Effekten, die an einem Handelsplatz in der Schweiz zum Handel zugelassen sind, zu erwerben oder zu veräussern oder daraus abgeleitete Derivate einzusetzen.
+<sup>3</sup> Mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe wird bestraft, wer sich oder einem anderen einen Vermögensvorteil verschafft, indem er eine Insiderinformation oder eine darauf beruhende Empfehlung, die ihm von einer Person nach Absatz 1 mitgeteilt oder abgegeben wurde oder die er sich durch ein Verbrechen oder Vergehen verschafft hat, dazu ausnützt, Effekten, die an einem Handelsplatz oder DLT-Handelssystem mit Sitz in der Schweiz zum Handel zugelassen sind, zu erwerben oder zu veräussern oder daraus abgeleitete Derivate einzusetzen.[^154-3]
 
-<sup>4</sup> Mit Busse wird bestraft, wer nicht zu den Personen nach den Absätzen 1–3 gehört und sich oder einem anderen einen Vermögensvorteil verschafft, indem er eine Insiderinformation oder eine darauf beruhende Empfehlung dazu ausnützt, Effekten, die an einem Handelsplatz in der Schweiz zum Handel zugelassen sind, zu erwerben, zu veräussern oder daraus abgeleitete Derivate einzusetzen.
+<sup>4</sup> Mit Busse wird bestraft, wer nicht zu den Personen nach den Absätzen 1–3 gehört und sich oder einem anderen einen Vermögensvorteil verschafft, indem er eine Insiderinformation oder eine darauf beruhende Empfehlung dazu ausnützt, Effekten, die an einem Handelsplatz oder DLT-Handelssystem mit Sitz in der Schweiz zum Handel zugelassen sind, zu erwerben, zu veräussern oder daraus abgeleitete Derivate einzusetzen.[^154-4]
+
+[^154-1]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^154-2]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^154-3]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^154-4]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 155
 
@@ -2138,12 +2295,14 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer als Or
 
 <sup>1</sup>
 
-Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer in der Absicht, den Kurs von Effekten, die an einem Handelsplatz in der Schweiz zum Handel zugelassen sind, erheblich zu beeinflussen, um daraus für sich oder für einen anderen einen Vermögensvorteil zu erzielen:
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer in der Absicht, den Kurs von Effekten, die an einem Handelsplatz oder DLT-Handelssystem mit Sitz in der Schweiz zum Handel zugelassen sind, erheblich zu beeinflussen, um daraus für sich oder für einen anderen einen Vermögensvorteil zu erzielen:[^155-1]
 
 - a. wider besseren Wissens falsche oder irreführende Informationen verbreitet;
 - b. Käufe und Verkäufe von solchen Effekten tätigt, die beidseitig direkt oder indirekt auf Rechnung derselben Person oder zu diesem Zweck verbundener Personen erfolgen.
 
 <sup>2</sup> Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird bestraft, wer durch eine Handlung nach Absatz 1 einen Vermögensvorteil von mehr als einer Million Franken erzielt.
+
+[^155-1]: Fassung gemäss Ziff. I 10 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 156
 
@@ -2230,6 +2389,6 @@ Anhang
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853)konsultiert werden.

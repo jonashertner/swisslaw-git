@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 juin 2015 sur les infrastructures des marchés fina
 short: LIMF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: fr
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-853-20200101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-853-20210801-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20200101/fr"
 
 (Loi sur l’infrastructure des marchés financiers, LIMF)[^t-1]
 
-du 19 juin 2015 (État le 1<sup>er</sup> janvier 2020)
+du 19 juin 2015 (État le 1<sup>er</sup> août 2021)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -55,9 +55,17 @@ Au sens de la présente loi, on entend par:
   - 3\. une contrepartie centrale (art. 48),
   - 4\. un dépositaire central (art. 61),
   - 5\. un référentiel central (art. 74),
+  - 5*a*.[^2-1] un système de négociation pour les valeurs mobilières fondées sur la technologie des registres distribués (système de négociation fondé sur la TRD; art. 73*a*),
   - 6\. un système de paiement (art. 81);
 
-- b. *valeurs mobilières:* les papiers-valeurs, les droits-valeurs, les dérivés et les titres intermédiés standardisés susceptibles d’être diffusés en grand nombre sur le marché;
+- b.[^2-2] *valeurs mobilières:* les papiers-valeurs, les droits-valeurs (en particulier les droits-valeurs simples au sens de l’art. 973*c* du code des obligations (CO)[^2-3] et les droits-valeurs inscrits au sens de l’art. 973*d* CO), les dérivés et les titres intermédiés qui sont standardisés et susceptibles d’être diffusés en grand nombre sur le marché;
+- b<sup>bis</sup>.[^2-4]
+
+  *valeurs mobilières fondées sur la technologie des registres distribués (TRD):* les valeurs mobilières sous forme:
+
+  - 1\. de droits-valeurs inscrits (art. 973*d* CO), ou
+  - 2\. d’autres droits-valeurs qui sont détenus dans des registres électroniques distribués et qui, au moyen de procédés techniques, donnent aux créanciers, mais non au débiteur, le pouvoir de disposer de leurs droits;
+
 - c. *dérivés ou opérations sur dérivés:* les contrats financiers dont la valeur fluctue en fonction d’un ou de plusieurs actifs sous-jacents et qui ne sont pas des opérations de caisse;
 - d. *participant:* toute personne qui recourt directement aux services d’une infrastructure des marchés financiers;
 - e*.* *participant indirect:* toute personne qui recourt indirectement aux services d’une infrastructure des marchés financiers, par l’intermédiaire d’un participant;
@@ -73,7 +81,13 @@ Au sens de la présente loi, on entend par:
 
 - h. *règlement (settlement):* la réalisation des obligations acceptées lors de la conclusion du contrat, notamment par le versement d’espèces ou le transfert de valeurs mobilières;
 - i. *offre publique d’acquisition:* toute offre d’achat ou d’échange présentée publiquement aux détenteurs d’actions, de bons de participation, de bons de jouissance ou d’autres titres de participation (titres de participation);
-- j. *information d’initié:* toute information confidentielle dont la divulgation est susceptible d’influencer notablement le cours de valeurs mobilières admises à la négociation sur une plate-forme de négociation en Suisse.
+- j.[^2-5] *information d’initié:* toute information confidentielle dont la divulgation est susceptible d’influencer notablement le cours de valeurs mobilières admises à la négociation sur une plate-forme de négociation ou auprès d’un système de négociation fondé sur la TRD ayant son siège en Suisse.
+
+[^2-1]: Introduit par le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-2]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-4]: Introduite par le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-5]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 3
 
@@ -232,7 +246,9 @@ Deux ou plusieurs entreprises constituent un groupe financier au sens de la pré
 
 <sup>1</sup> La dénomination de l’infrastructure des marchés financiers ne doit pas prêter à confusion ni induire en erreur.
 
-<sup>2</sup> Les dénominations «bourse», «système multilatéral de négociation», «Multilateral Trading Facility», «MTF», «contrepartie centrale», «Central Counterparty», «CCP», «système de règlement des opérations sur valeurs mobilières», «Securities Settlement System», «SSS», «dépositaire central», «Central Securities Depository», «CSD», «référentiel central», «Trade Repository» et «TR» ne doivent désigner, dans le contexte de la fourniture de services financiers, que les infrastructures des marchés financiers correspondantes soumises à la présente loi.
+<sup>2</sup> Les dénominations «bourse», «système multilatéral de négociation», «Multilateral Trading Facility», «MTF», «contrepartie centrale», «Central Counterparty», «CCP», «système de règlement des opérations sur valeurs mobilières», «Securities Settlement System», «SSS», «dépositaire central», «Central Securities Depository», «CSD», «référentiel central», «Trade Repository», «TR», «système de négociation fondé sur la TRD», «DLT Trading System», «DLT Trading Facility» et «DLT Exchange» ne doivent désigner, dans le contexte de la fourniture de services financiers, que les infrastructures des marchés financiers correspondantes soumises à la présente loi.[^16-1]
+
+[^16-1]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 17
 
@@ -290,7 +306,7 @@ L’infrastructure des marchés financiers publie à intervalles réguliers tout
 
 <sup>1</sup>
 
-Une contrepartie centrale, un dépositaire central ou un système de paiement est d’importance systémique s’il remplit l’une des conditions suivantes:
+Une contrepartie centrale, un dépositaire central, un système de paiement ou un système de négociation fondé sur la TRD qui offre des services dans le domaine de la conservation centralisée, de la compensation ou du règlement est d’importance systémique s’il remplit l’une des conditions suivantes:[^22-1]
 
 - a. sa non-disponibilité, découlant en particulier de problèmes techniques ou opérationnels ou de difficultés financières, peut causer de lourdes pertes ou de graves problèmes de liquidités ou opérationnels à des intermédiaires financiers ou à d’autres infrastructures des marchés financiers, ou provoquer des perturbations graves sur les marchés financiers;
 - b. des difficultés de paiement ou de livraison chez certains de ses participants peuvent se répercuter sur d’autres participants ou sur des infrastructures des marchés financiers liées, et peuvent causer à ceux-ci de lourdes pertes ou de graves problèmes de liquidités ou opérationnels, ou provoquer des perturbations graves sur les marchés financiers.
@@ -301,6 +317,8 @@ Un processus opérationnel d’une infrastructure des marchés financiers visée
 
 - a. sa non-disponibilité peut causer de lourdes pertes ou de graves problèmes de liquidités ou opérationnels à des intermédiaires financiers ou à d’autres infrastructures des marchés financiers, ou provoquer des perturbations graves sur les marchés financiers;
 - b. les participants ne peuvent lui substituer à court terme aucun autre processus opérationnel.
+
+[^22-1]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 23
 
@@ -338,7 +356,7 @@ La BNS peut, après avoir consulté la FINMA, libérer de l’obligation de sati
 
 #### Art. 25
 
-<sup>1</sup> La FINMA informe la BNS des demandes d’autorisation déposées par des contreparties centrales, des dépositaires centraux et des exploitants de systèmes de paiement.
+<sup>1</sup> La FINMA informe la BNS des demandes d’autorisation déposées par des contreparties centrales, des dépositaires centraux, des exploitants de systèmes de paiement et des systèmes de négociation fondés sur la TRD qui offrent des services dans le domaine de la conservation centralisée, de la compensation ou du règlement.[^25-1]
 
 <sup>2</sup> Après avoir consulté la FINMA, la BNS désigne par voie décisionnelle les infrastructures des marchés financiers d’importance systémique et leurs processus opérationnels d’importance systémique au sens de l’art. 22. Elle précise de surcroît par voie décisionnelle à quelles exigences spéciales au sens de l’art. 23 chacune des infrastructures des marchés financiers d’importance systémique doit satisfaire et vérifie si celles-ci les respectent.
 
@@ -349,6 +367,8 @@ La BNS peut, après avoir consulté la FINMA, libérer de l’obligation de sati
 <sup>5</sup> Si la BNS conclut qu’une infrastructure des marchés financiers n’est pas d’importance systémique, elle en informe la FINMA. Si les conditions générales d’autorisation sont remplies, la FINMA octroie l’autorisation.
 
 <sup>6</sup> La procédure s’applique par analogie aux demandes de reconnaissance déposées par des contreparties centrales étrangères.
+
+[^25-1]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### Chapitre 2 Plates-formes de négociation, systèmes organisés de négociation et bourses de l’électricité
 
@@ -613,7 +633,7 @@ On entend par système organisé de négociation toute organisation exerçant:
 
 **Obligation d’obtenir une autorisation ou une reconnaissance**
 
-<sup>1</sup> Quiconque exploite un système organisé de négociation doit obtenir une autorisation en tant que banque ou maison de titres ou une reconnaissance en tant que plate-forme de négociation.
+<sup>1</sup> Quiconque exploite un système organisé de négociation doit obtenir une autorisation en tant que banque, maison de titre ou système de négociation fondé sur la TRD, ou une reconnaissance en tant que plate-forme de négociation.[^43-1]
 
 <sup>2</sup>
 
@@ -621,6 +641,8 @@ L’exploitation d’un système organisé de négociation au sein d’un groupe
 
 - a. contrôlée de manière directe par une infrastructure des marchés financiers, et
 - b. assujettie à la surveillance consolidée de la FINMA.
+
+[^43-1]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 44
 
@@ -1000,6 +1022,128 @@ L’établissement d’accès par liaison en vertu desquels un dépositaire cent
 
 <sup>4</sup> Le participant à un dépositaire central rend publics les coûts et les particularités du niveau de protection conféré par le type de gestion des comptes au sens de l’al. 2.
 
+### Chapitre 4*a* Systèmes de négociation fondés sur la TRD
+
+[^tit2-chap4a-1]
+
+[^tit2-chap4a-1]: Introduit par le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+#### Art. 73a
+
+**Définitions**
+
+<sup>1</sup>
+
+Est réputée système de négociation fondé sur la TRD une organisation exploitée à titre professionnel destinée à la négociation multilatérale de valeurs mobilières fondées sur la TRD, visant l’échange simultané d’offres entre plusieurs participants ainsi que la conclusion de contrats selon des règles non discrétionnaires, et remplissant au moins une des conditions suivantes:
+
+- a. elle admet les participants visés à l’art. 73*c*, al. 1, let. e;
+- b. elle assure la conservation centralisée de valeurs mobilières fondées sur la TRD en se fondant sur des règles et des procédures communes;
+- c. elle compense et règle des opérations sur valeurs mobilières fondées sur la TRD en se fondant sur des règles et des procédures communes.
+
+<sup>2</sup> Est considérée comme exercée à titre professionnel toute activité économique indépendante exercée en vue d’obtenir un revenu régulier.
+
+#### Art. 73b
+
+**Applicabilité de certaines exigences imposées aux plates-formes de négociation**
+
+Les systèmes de négociation fondés sur la TRD sont soumis aux exigences imposées aux plates-formes de négociation concernant:
+
+- a. l’autorégulation (art. 27);
+- b. l’organisation de la négociation (art. 28);
+- c. la transparence pré-négociation et post-négociation (art. 29);
+- d. la garantie d’une négociation ordonnée (art. 30);
+- e. la surveillance de la négociation (art. 31);
+- f. la collaboration entre les organes de surveillance de la négociation (art. 32);
+- g. la suspension de la négociation (art. 33, al. 2);
+- h. l’instance de recours (art. 37).
+
+#### Art. 73c
+
+**Admission et obligations des participants**
+
+<sup>1</sup>
+
+Peuvent être admis en tant que participants d’un système de négociation fondé sur la TRD:
+
+- a. les maisons de titres au sens de l’art. 41 LEFin[^73c-1];
+- b. d’autres assujettis à la surveillance de la FINMA au sens de l’art. 3 LFINMA[^73c-2] ainsi qu’à la surveillance d’une autorité étrangère, pour autant que le système de négociation fondé sur la TRD garantisse qu’ils remplissent des conditions techniques et opérationnelles équivalentes à celles des maisons de titres;
+- c. la BNS;
+- d. la Banque des règlements internationaux;
+- e. d’autres personnes physiques ou morales, pour autant qu’elles déclarent participer en leur nom propre et pour leur propre compte.
+
+<sup>2</sup> Les participants ayant leur siège en Suisse doivent fournir à la FINMA tous les renseignements et documents dont elle a besoin pour accomplir ses tâches. Le système de négociation fondé sur la TRD doit veiller à ce que les participants ayant leur siège à l’étranger lui fournissent les renseignements et documents correspondants lorsque la FINMA l’ordonne.
+
+<sup>3</sup> Les dispositions concernant l’obligation d’enregistrer (art. 38) et l’obligation de déclarer (art. 39) s’appliquent aussi aux participants d’un système de négociation fondé sur la TRD. Le Conseil fédéral peut prévoir des dérogations pour les participants visés à l’al. 1, let. e.
+
+<sup>4</sup> Le Conseil fédéral arrête les modalités concernant l’admission, les obligations et l’exclusion des participants.
+
+<sup>5</sup> Le système de négociation fondé sur la TRD édicte un règlement sur l’admission, les obligations et l’exclusion des participants, en veillant à respecter en particulier le principe de l’égalité de traitement.
+
+<sup>6</sup> Il surveille le respect du règlement et prend les sanctions prévues contractuellement en cas d’infraction.
+
+[^73c-1]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^73c-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+#### Art. 73d
+
+**Admission de valeurs mobilières fondées sur la TRD et d’autres valeurs patrimoniales**
+
+<sup>1</sup> Le système de négociation fondé sur la TRD édicte un règlement sur l’admission de valeurs mobilières fondées sur la TRD à la négociation et aux autres services qu’il propose. Il y détermine en particulier les exigences auxquelles les valeurs mobilières fondées sur la TRD ainsi que les émetteurs ou les tiers doivent satisfaire en relation avec l’admission. L’obligation de publier un prospectus est exclusivement régie par les art. 35 à 57 de la loi fédérale du 15 juin 2018 sur les services financiers[^73d-1].
+
+<sup>2</sup> Tout système de négociation fondé sur la TRD qui, en plus des valeurs mobilières fondées sur la TRD, admet d’autres valeurs patrimoniales à la négociation ou aux autres services qu’il propose, doit régler l’admission de ces valeurs patrimoniales dans un règlement.
+
+<sup>3</sup>
+
+Le Conseil fédéral peut:
+
+- a. prévoir que les valeurs mobilières fondées sur la TRD ne peuvent être admises auprès d’un système de négociation fondé sur la TRD que lorsqu’elles remplissent certaines exigences minimales, notamment en matière d’intégrité et de publicité;
+- b. désigner des valeurs mobilières fondées sur la TRD et d’autres valeurs patrimoniales qui ne peuvent pas être admises auprès de systèmes de négociation fondés sur la TRD, afin de préserver les participants aux marchés financiers, la stabilité ou l’intégrité du système financier.
+
+<sup>4</sup> Le système de négociation fondé sur la TRD surveille le respect des règlements et prend les sanctions prévues contractuellement en cas d’infraction.
+
+[^73d-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+
+#### Art. 73e
+
+**Autres exigences**
+
+<sup>1</sup> En plus des exigences prévues aux art. 73*b* à 73*d*, le Conseil fédéral peut imposer des exigences supplémentaires aux systèmes de négociation fondés sur la TRD qui admettent des participants visés à l’art. 73*c*, al. 1, let. e, afin de protéger ces participants.
+
+<sup>2</sup>
+
+En plus des exigences prévues aux art. 73*a* à 73*d*, il fixe des exigences supplémentaires pour les systèmes de négociation fondés sur la TRD qui offrent des services dans le domaine de la conservation centralisée, de la compensation ou du règlement, notamment en ce qui concerne:
+
+- a. la conservation centralisée, la compensation et le règlement de valeurs mobilières fondées sur la TRD;
+- b. les sûretés;
+- c. les fonds propres;
+- d. la répartition des risques;
+- e. les services auxiliaires;
+- f. les liquidités;
+- g. la procédure à appliquer en cas de défaillance d’un participant;
+- h. la ségrégation.
+
+<sup>3</sup> Il se fonde sur les exigences concernant les dépositaires centraux (art. 61 à 73) pour déterminer les exigences visées à l’al. 2.
+
+<sup>4</sup> Il peut habiliter la FINMA à déterminer les exigences visées à l’al. 2 lorsque cela est nécessaire pour pouvoir tenir compte des risques liés à la technologie.
+
+<sup>5</sup> La compétence de la BNS, visée à l’art. 23, d’imposer des exigences spéciales aux systèmes de négociation fondés sur la TRD d’importance systémique est réservée.
+
+#### Art. 73f
+
+**Allégements pour les petits systèmes de négociation fondés sur la TRD**
+
+<sup>1</sup>
+
+En vertu du principe de proportionnalité et compte tenu du but de protection visé par la présente loi, le Conseil fédéral peut prévoir des allégements pour les petits systèmes de négociation fondés sur la TRD, concernant les exigences prévues aux art. 6 à 21, 27 à 33 et 37, et notamment les dispositions touchant:
+
+- a. la séparation de l’organe responsable de la gestion d’une part et des organes responsables de la haute direction, de la surveillance et du contrôle d’autre part (art. 8);
+- b. la fourniture de services auxiliaires non soumis à autorisation ou à approbation en vertu des lois sur les marchés financiers (art. 10);
+- c. les obligations d’indépendance applicables à l’organisme d’autorégulation (art. 27, al. 2) et à l’instance de recours (art. 37, al. 1).
+
+<sup>2</sup> Un système de négociation fondé sur la TRD est considéré comme petit lorsqu’il présente de faibles risques pour la protection des participants aux marchés financiers et pour le bon fonctionnement et la stabilité du système financier, notamment parce que le nombre des participants, le volume de négociation, le volume des valeurs qu’il conserve ou le volume de compensation et de règlement est limité. Le Conseil fédéral fixe les valeurs seuils.
+
+<sup>3</sup> Les systèmes de négociation fondés sur la TRD qui bénéficient d’allègements au sens du présent article doivent en informer les clients. Le Conseil fédéral règle les détails.
+
 ### Chapitre 5 Référentiels centraux
 
 ### Section 1 Dispositions générales
@@ -1186,11 +1330,11 @@ En complément à l’art. 37 LFINMA[^87-1], la FINMA peut retirer l’autorisat
 
 **Protection du système**
 
-<sup>1</sup> La FINMA informe, pour autant que cela soit possible et dans la mesure où ils sont concernés, les contreparties centrales, les dépositaires centraux et les exploitants de systèmes de paiement en Suisse et à l’étranger des mesures applicables en cas d’insolvabilité qu’elle entend prendre contre un participant et qui limitent le pouvoir de disposer de ce dernier; elle les informe aussi du moment précis de l’entrée en vigueur des mesures.
+<sup>1</sup> La FINMA informe, pour autant que cela soit possible et dans la mesure où ils sont concernés, les contreparties centrales, les dépositaires centraux, les systèmes de paiement et les systèmes de négociation fondés sur la TRD qui fournissent des services comparables dans le domaine de la conservation centralisée, de la compensation ou du règlement, en Suisse et à l’étranger, des mesures applicables en cas d’insolvabilité qu’elle entend prendre contre un participant et qui limitent le pouvoir de disposer de ce dernier; elle les informe aussi du moment précis de l’entrée en vigueur des mesures.[^89-1]
 
 <sup>2</sup>
 
-Les ordres donnés à une contrepartie centrale, à un dépositaire central ou à un système de paiement par un participant contre lequel une mesure applicable en cas d’insolvabilité a été prise sont juridiquement valables et opposables aux tiers dans l’un des cas suivants:
+Les ordres donnés à une contrepartie centrale, à un dépositaire central, à un système de paiement ou à un système de négociation fondé sur la TRD qui fournit des services comparables dans le domaine de la conservation centralisée, de la compensation ou du règlement par un participant contre lequel une mesure applicable en cas d’insolvabilité a été prise, sont juridiquement valables et opposables aux tiers dans l’un des cas suivants:[^89-2]
 
 - a. ils ont été introduits avant que la mesure ne soit ordonnée et ne sont plus modifiables selon les règles de l’infrastructure des marchés financiers;
 - b. ils ont été exécutés le jour ouvrable, défini par les règles de l’infrastructure des marchés financiers, où la mesure a été ordonnée, et l’infrastructure des marchés financiers prouve qu’elle n’a pas ni n’est censée avoir eu connaissance de cette mesure.
@@ -1209,6 +1353,9 @@ L’al. 2 s’applique par analogie:
 
 - a. aux infrastructures des marchés financiers visées à l’art. 4, al. 3;
 - b. aux systèmes de paiement exploités par une banque.
+
+[^89-1]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^89-2]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 90
 
@@ -1973,9 +2120,9 @@ Ont qualité de partie à la procédure en matière d’OPA:
 
 Agit de manière illicite toute personne qui, détenant une information d’initié dont elle sait ou doit savoir qu’il s’agit d’une information d’initié, ou une recommandation dont elle sait ou doit savoir qu’elle repose sur une information d’initié:
 
-- a. l’exploite pour acquérir ou aliéner des valeurs mobilières admises à la négociation sur une plate-forme de négociation en Suisse, ou pour utiliser des dérivés relatifs à ces valeurs;
+- a.[^142-1] l’exploite pour acquérir ou aliéner des valeurs mobilières admises à la négociation sur une plate-forme de négociation ou auprès d’un système de négociation fondé sur la TRD ayant son siège en Suisse, ou pour utiliser des dérivés relatifs à ces valeurs;
 - b. la divulgue à un tiers;
-- c. l’exploite pour recommander à un tiers l’achat ou la vente de valeurs mobilières admises à la négociation sur une plate-forme de négociation en Suisse ou l’utilisation de dérivés relatifs à ces valeurs.
+- c.[^142-2] l’exploite pour recommander à un tiers l’achat ou la vente de valeurs mobilières admises à la négociation sur une plate-forme de négociation ou auprès d’un système de négociation fondé sur la TRD ayant son siège en Suisse, ou pour lui recommander l’utilisation de dérivés relatifs à ces valeurs.
 
 <sup>2</sup>
 
@@ -1983,6 +2130,9 @@ Le Conseil fédéral édicte des dispositions concernant l’utilisation licite 
 
 - a. les opérations sur valeurs mobilières destinées à préparer une offre publique d’acquisition;
 - b. le statut juridique particulier du destinataire de l’information.
+
+[^142-1]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^142-2]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 143
 
@@ -1992,8 +2142,8 @@ Le Conseil fédéral édicte des dispositions concernant l’utilisation licite 
 
 Agit de manière illicite toute personne qui:
 
-- a. diffuse publiquement des informations dont elle sait ou doit savoir qu’elles donnent des signaux inadéquats ou trompeurs sur l’offre, la demande ou le cours de valeurs mobilières admises à la négociation sur une plate-forme de négociation en Suisse;
-- b. exécute des opérations ou des ordres d’achat ou de vente dont elle sait ou doit savoir qu’ils donnent des signaux inadéquats ou trompeurs sur l’offre, la demande ou le cours de valeurs mobilières admises à la négociation sur une plate-forme de négociation en Suisse.
+- a. diffuse publiquement des informations dont elle sait ou doit savoir qu’elles donnent des signaux inadéquats ou trompeurs sur l’offre, la demande ou le cours de valeurs mobilières admises à la négociation sur une plate-forme de négociation ou auprès d’un système de négociation fondé sur la TRD ayant son siège en Suisse;
+- b. exécute des opérations ou des ordres d’achat ou de vente dont elle sait ou doit savoir qu’ils donnent des signaux inadéquats ou trompeurs sur l’offre, la demande ou le cours de valeurs mobilières admises à la négociation sur une plate-forme de négociation ou auprès d’un système de négociation fondé sur la TRD ayant son siège en Suisse.[^143-1]
 
 <sup>2</sup>
 
@@ -2001,6 +2151,8 @@ Le Conseil fédéral édicte des dispositions concernant les comportements licit
 
 - a. les opérations sur valeurs mobilières destinées à stabiliser les prix;
 - b. les programmes de rachat de valeurs mobilières propres.
+
+[^143-1]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### Chapitre 6 Instruments de surveillance du marché
 
@@ -2122,15 +2274,20 @@ Est puni d’une amende de 500 000 francs au plus quiconque, intentionnellement:
 
 Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, en qualité d’organe ou de membre d’un organe de direction ou de surveillance d’un émetteur ou d’une société contrôlant l’émetteur ou contrôlée par celui-ci, ou en tant que personne qui a accès à des informations d’initiés en raison de sa participation ou de son activité, obtient pour lui-même ou pour un tiers un avantage pécuniaire en utilisant une information d’initié comme suit:
 
-- a. en l’exploitant pour acquérir ou aliéner des valeurs mobilières admises à la négociation sur une plate-forme de négociation en Suisse, ou pour utiliser des dérivés relatifs à ces valeurs;
+- a.[^154-1] en l’exploitant pour acquérir ou aliéner des valeurs mobilières admises à la négociation sur une plate-forme de négociation ou auprès d’un système de négociation fondé sur la TRD ayant son siège en Suisse, ou pour utiliser des dérivés relatifs à ces valeurs;
 - b. en la divulguant à un tiers;
-- c. en l’exploitant pour recommander à un tiers l’achat ou la vente de valeurs mobilières admises à la négociation sur une plate-forme de négociation en Suisse ou l’utilisation de dérivés relatifs à ces valeurs.
+- c.[^154-2] en l’exploitant pour recommander à un tiers l’achat ou la vente de valeurs mobilières admises à la négociation sur une plate-forme de négociation ou auprès d’un système de négociation fondé sur la TRD ayant son siège en Suisse, ou pour lui recommander l’utilisation de dérivés relatifs à ces valeurs.
 
 <sup>2</sup> Est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire quiconque obtient un avantage pécuniaire de plus de 1 million de francs en commettant un acte visé à l’al. 1.
 
-<sup>3</sup> Est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire quiconque obtient pour lui-même ou pour un tiers un avantage pécuniaire en exploitant une information d’initié ou une recommandation fondée sur cette information que lui a communiquée ou donnée une des personnes visées à l’al. 1, ou qu’il s’est procurée par un crime ou un délit, afin d’acquérir ou d’aliéner des valeurs mobilières admises à la négociation sur une plate-forme de négociation en Suisse, ou d’utiliser des dérivés relatifs à ces valeurs.
+<sup>3</sup> Est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire quiconque obtient pour lui-même ou pour un tiers un avantage pécuniaire en exploitant une information d’initié ou une recommandation fondée sur cette information que lui a communiquée ou donnée une des personnes visées à l’al. 1, ou qu’il s’est procurée par un crime ou un délit, afin d’acquérir ou d’aliéner des valeurs mobilières admises à la négociation sur une plate-forme de négociation ou auprès d’un système de négociation fondé sur la TRD ayant son siège en Suisse, ou afin d’utiliser des dérivés relatifs à ces valeurs.[^154-3]
 
-<sup>4</sup> Est punie d’une amende toute personne qui, n’étant pas visée aux al. 1 à 3, obtient pour elle-même ou pour un tiers un avantage pécuniaire en exploitant une information d’initié ou une recommandation fondée sur cette information afin d’acquérir ou d’aliéner des valeurs mobilières admises à la négociation sur une plate-forme de négociation en Suisse, ou d’utiliser des dérivés relatifs à ces valeurs.
+<sup>4</sup> Est punie d’une amende toute personne qui, n’étant pas visée aux al. 1 à 3, obtient pour elle-même ou pour un tiers un avantage pécuniaire en exploitant une information d’initié ou une recommandation fondée sur cette information afin d’acquérir ou d’aliéner des valeurs mobilières admises à la négociation sur une plate-forme de négociation ou auprès d’un système de négociation fondé sur la TRD ayant son siège en Suisse, ou afin d’utiliser des dérivés relatifs à ces valeurs.[^154-4]
+
+[^154-1]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^154-2]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^154-3]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^154-4]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 155
 
@@ -2138,12 +2295,14 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 <sup>1</sup>
 
-Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, dans le but d’influencer notablement le cours de valeurs mobilières admises à la négociation sur une plate-forme de négociation en Suisse afin d’obtenir pour lui-même ou pour un tiers un avantage pécuniaire:
+Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, dans le but d’influencer notablement le cours de valeurs mobilières admises à la négociation sur une plate-forme de négociation ou auprès d’un système de négociation fondé sur la TRD ayant son siège en Suisse afin d’obtenir pour lui-même ou pour un tiers un avantage pécuniaire:[^155-1]
 
 - a. diffuse sciemment des informations fausses ou trompeuses;
 - b. effectue des achats et des ventes de ces valeurs mobilières, imputés directement ou indirectement à la même personne ou à des personnes liées dans ce but.
 
 <sup>2</sup> Est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire quiconque obtient un avantage pécuniaire de plus de 1 million de francs en commettant un acte visé à l’al. 1.
+
+[^155-1]: Nouvelle teneur selon le ch. I 10 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 156
 
@@ -2232,6 +2391,6 @@ Annexe
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853).

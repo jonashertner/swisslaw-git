@@ -4,11 +4,11 @@ title: "Federal Act of 19 June 2015 on Financial Market Infrastructures and Mark
 short: FinMIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: en
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2015-853-20200101-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2015-853-20210801-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20210801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Market Infrastructure Act, FinMIA)
 
-of 19 June 2015 (Status as of 1 January 2020)
+of 19 June 2015 (Status as of 1 August 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -50,14 +50,22 @@ For the purposes of this Act, the following terms shall have the following meani
 
   *Financial market infrastructure:*
 
-  - 1\. a stock exchange (Art. 26 let. b),
-  - 2 a multilateral trading facility (Art. 26 let. c),
-  - 3\. a central counterparty (Art. 48),
-  - 4\. a central securities depository (Art. 61),
-  - 5\. a trade repository (Art. 74),
+  - 1\. a stock exchange (Art. 26 let. b);
+  - 2 a multilateral trading facility (Art. 26 let. c);
+  - 3\. a central counterparty (Art. 48);
+  - 4\. a central securities depository (Art. 61);
+  - 5\. a trade repository (Art. 74);
+  - 5*a*.[^2-1] a trading facility for DLT securities (DLT trading facility; Art. 73*a*);
   - 6\. a payment system (Art. 81).
 
-- b. *Securities:* standardised certificated and uncertificated securities, derivatives and intermediated securities, which are suitable for mass trading.
+- b.[^2-2] *Securities:* standardised certificated and uncertificated securities, in particular uncertificated securities in accordance with Article 973*c* of the Code of Obligations[^2-3] (CO) and ledger-based securities in accordance with Article 973*d* of the CO, as well as derivatives and intermediated securities, which are suitable for mass trading.
+- b<sup>bis</sup>.[^2-4]
+
+  *Distributed ledger technology securities (DLT securities):* securities in the form of:
+
+  - 1\. Ledger-based securities (Art. 973*d* CO); or
+  - 2\. other uncertificated securities that are held in distributed electronic registers and use technological processes to give the creditors, but not the obligor, power of disposal over the uncertificated security.
+
 - c. *Derivatives or derivatives transactions:* financial contracts whose value depends on one or several underlying assets and which are not cash transactions.
 - d. *Participant:* any person making direct use of financial market infrastructure services.
 - e. *Indirect participant:* any person making use of financial market infrastructure services indirectly via a participant.
@@ -69,7 +77,13 @@ For the purposes of this Act, the following terms shall have the following meani
 - 4\. the reconciliation and confirmation of outstanding payments and securities transfers.
 - h. *Settlement:* fulfilment of the obligations entered into upon conclusion of the transaction, namely by transferring funds or securities.
 - i. *Public* *takeover* *offers:* offers to purchase or exchange shares, participation certificates, profit-sharing certificates or other participation rights (equity securities) which are made publicly to the holders of shares or other equity securities.
-- j. *Insider information:* confidential information whose disclosure would significantly affect the prices of securities admitted to trading on a Swiss trading venue.
+- j.[^2-5] *Insider information:* confidential information whose disclosure would significantly affect the prices of securities admitted to trading on a trading venue or DLT trading facility which has its registered office in Switzerland.
+
+[^2-1]: Inserted by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-2]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-4]: Inserted by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^2-5]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 3
 
@@ -230,7 +244,9 @@ Two or more companies are deemed to be a financial group pursuant to this Act if
 
 <sup>1</sup> The name of the financial market infrastructure must not lead to confusion or deception.
 
-<sup>2</sup> The terms «stock exchange», «multilateral trading facility», «MTF», «central counterparty», «CCP», «securities settlement system», «SSS», «central securities depository», «CSD», «trade repository» and «TR» may be used in connection with the provision of financial services only to designate a corresponding financial market infrastructure subject to this Act.
+<sup>2</sup> The terms «stock exchange», «multilateral trading facility», «MTF», «central counterparty», «CCP», «securities settlement system», «SSS», «central securities depository», «CSD», «trade repository", «TR», «DLT trading system», «DLT trading facility and DLT exchange» may be used in connection with the provision of financial services only to designate a corresponding financial market infrastructure subject to this Act.[^16-1]
+
+[^16-1]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 17
 
@@ -288,7 +304,7 @@ A financial market infrastructure shall regularly publish all essential informat
 
 <sup>1</sup>
 
-Central counterparties, central securities depositories and payment systems are systemically important:
+Central counterparties, central securities depositories, payment systems and those DLT trading facilities that provide central custody, clearing or settlement services are deemed to be systemically important:[^22-1]
 
 - a. if their non-availability, arising in particular from technical or operational problems or financial difficulties, can lead to serious losses, liquidity shortfalls or operational problems for financial intermediaries or other financial market infrastructures, or can cause serious disruptions on financial markets; or
 - b. if individual participants' payment or delivery difficulties can spill over to other participants or linked financial market infrastructures and can cause these serious losses, liquidity shortfalls or operational problems, or can cause serious disruptions on financial markets.
@@ -299,6 +315,8 @@ A business process of a financial market infrastructure in accordance with parag
 
 - a. if its non-availability can cause serious losses, liquidity shortfalls or operational problems for financial intermediaries or other financial market infrastructures, or can cause serious disruptions on financial markets; and
 - b. if participants cannot substitute the business process at short notice.
+
+[^22-1]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 23
 
@@ -336,7 +354,7 @@ The SNB may, after consulting FINMA, waive the obligation to meet the special re
 
 #### Art. 25
 
-<sup>1</sup> FINMA shall inform the SNB of authorisation requests submitted by central counterparties, central securities depositories and payment systems.
+<sup>1</sup> FINMA shall inform the SNB of authorisation requests submitted by central counterparties, central securities depositories, payment systems and those DLT trading facilities that provide central custody, clearing or settlement services.[^25-1]
 
 <sup>2</sup> After consulting FINMA, the SNB shall designate by way of an order the systemically important financial market infrastructures and their systemically important business processes in accordance with Article 22. It shall also define by way of an order which special requirements in accordance with Article 23 the individual systemically important financial market infrastructures have to fulfil and shall assess their compliance.
 
@@ -347,6 +365,8 @@ The SNB may, after consulting FINMA, waive the obligation to meet the special re
 <sup>5</sup> If the SNB concludes that a financial market infrastructure is not systemically important, it shall inform FINMA. If the general authorisation conditions are met, FINMA shall grant authorisation.
 
 <sup>6</sup> The procedure applies by analogy to requests for recognition submitted by foreign central counterparties.
+
+[^25-1]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### Chapter 2 Trading Venues, Organised Trading Facilities and Power Exchanges
 
@@ -611,7 +631,7 @@ An organised trading facility is an establishment for:
 
 **Duty to obtain authorisation or recognition**
 
-<sup>1</sup> Anyone who operates an organised trading facility requires bank, securities firm or trading venue authorisation, or recognition as a trading venue.
+<sup>1</sup> Anyone who operates an organised trading facility requires authorisation as a bank, securities dealer or DLT trading facility, or authorisation or recognition as a trading venue.[^43-1]
 
 <sup>2</sup>
 
@@ -619,6 +639,8 @@ No authorisation is required for the operation of an organised trading facility 
 
 - a. is controlled directly by a financial market infrastructure; and
 - b. is subject to consolidated FINMA supervision.
+
+[^43-1]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 44
 
@@ -998,6 +1020,128 @@ The establishment of access links in which a central securities depository provi
 
 <sup>4</sup> A central securities depository's participant shall publish the costs and specifics concerning the level of protection granted by the type of account management under paragraph 2.
 
+## Chapter 4*a***** DLT Trading Facilities
+
+[^tit3-1]
+
+[^tit3-1]: Inserted by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+#### Art. 73a
+
+**Definitions**
+
+<sup>1</sup>
+
+A DLT trading facility is a commercially operated institution for multilateral trading of DLT securities whose purpose is the simultaneous exchange of bids between several participants and the conclusion of contracts based on non-discretionary rules and which meets at least one of the following criteria:
+
+- a. It admits participants in accordance with Article 73*c* paragraph 2 letter e.
+- b. It holds DLT securities in central custody based on uniform rules and procedures.
+- c. It clears and settles transactions in DLT securities based on uniform rules and procedures.
+
+<sup>2</sup> The criterion of a commercial basis is deemed satisfied by an independent economic activity pursued on a permanent, for-profit basis.
+
+#### Art. 73b
+
+**Applicability of certain requirements for trading venues**
+
+DLT trading facilities are subject to the following requirements for trading venues:
+
+- a. self-regulation (Art. 27);
+- b. organisation of trading (Art. 28);
+- c. pre- and post-trade transparency (Art. 29);
+- d. guarantee of orderly trading (Art. 30);
+- e. supervision of trading (Art. 31);
+- f. collaboration between trading supervisory bodies (Art. 32);
+- g. suspension of trading (Art. 33 para. 2);
+- h. appeal body (Art. 37).
+
+#### Art. 73c
+
+**Admission of participants and their duties**
+
+<sup>1</sup>
+
+The following may be admitted as participants in a DLT trading facility:
+
+- a. securities firms as defined in Article 41 of the FinIA[^73c-1];
+- b. other parties supervised by FINMA in accordance with Article 3 of the FINMASA[^73c-2] as well as parties supervised by a foreign authority, provided that the DLT trading facility ensures that they fulfil equivalent technical and operational conditions to securities firms;
+- c. the SNB;
+- d. the Bank for International Settlements;
+- e. other natural persons and legal entities, provided that they declare that they are participating in their own name and for their own account.
+
+<sup>2</sup> Participants domiciled in Switzerland must provide FINMA with all information and documents that it requires to carry out its tasks. The DLT trading facility must ensure that foreign-domiciled participants provide the relevant information and documents if FINMA so requires.
+
+<sup>3</sup> The provisions on the record-keeping duty (Art. 38) and the reporting duty (Art. 39) of participants also apply to participants in a DLT trading facility. The Federal Council may make exceptions for participants under paragraph 1 letter e.
+
+<sup>4</sup> The Federal Council shall regulate the details regarding the admission, duties and exclusion of participants.
+
+<sup>5</sup> The DLT trading facility shall issue regulations on the admission, duties and exclusion of participants, thereby observing in particular the principle of equal treatment.
+
+<sup>6</sup> It shall monitor compliance with the regulations and impose the sanctions provided for contractually in the event of violations.
+
+[^73c-1]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^73c-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+
+#### Art. 73d
+
+**Admission of DLT securities and other assets**
+
+<sup>1</sup> The DLT trading facility shall issue regulations on the admission of DLT securities to trading and to the other services it provides. In particular, it shall set out therein the requirements to be met by the DLT securities and the issuers or third parties in connection with the admission. The duty to publish a prospectus is governed exclusively by Articles 35–57 of the Financial Services Act of 15 June 2018[^73d-1].
+
+<sup>2</sup> A DLT trading facility that, in addition to DLT securities, admits other assets to trading or to its other services shall issue regulations on the admission of such assets.
+
+<sup>3</sup>
+
+The Federal Council may:
+
+- a. require that DLT securities be admitted to DLT trading facilities only if they meet certain minimum requirements, in particular as regards their integrity and the availability of public information;
+- b. specify which DLT securities and other assets must not be admitted to DLT trading facilities in order to protect financial market participants or the stability or integrity of the financial system.
+
+<sup>4</sup> The DLT trading facility shall monitor compliance with the regulations and impose the sanctions provided for contractually in the event of violations.
+
+[^73d-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+
+#### Art. 73e
+
+**Additional requirements**
+
+<sup>1</sup> For DLT trading facilities that are open to participants under Article 73*c* paragraph 1 letter e, the Federal Council may set requirements for the protection of these participants in addition to the requirements under Articles 73*b*–73*d*.
+
+<sup>2</sup>
+
+For DLT trading facilities that provide central custody, clearing and settlement services, the Federal Council shall set requirements in addition to those under Articles 73*a*–73*d*, in particular with regard to:
+
+- a. the central custody, clearing and settlement of DLT securities;
+- b. collateral;
+- c. capital adequacy;
+- d. risk diversification;
+- e. ancillary services;
+- f. liquidity;
+- g. procedure in the event of a participant's default;
+- h. segregation.
+
+<sup>3</sup> The Federal Council shall base the requirements under paragraph 2 on the requirements for central securities depositories (Arts. 61–73).
+
+<sup>4</sup> Where necessary in order to take account of technology-specific risks, the Federal Council may authorise FINMA to draw up the requirements under paragraph 2.
+
+<sup>5</sup> The competence of the SNB to specify special requirements for systemically important DLT trading facilities by virtue of Article 23 is reserved.
+
+#### Art. 73f
+
+**Easing of requirements for small DLT trading facilities**
+
+<sup>1</sup>
+
+For reasons of proportionality and while taking into account the protective purpose of this Act, the Federal Council may ease the requirements for small DLT trading facilities under Articles 6–21, 27–33 and 37, in particular the requirements on:
+
+- a. separation of the bodies responsible for business management from those responsible for overall management, supervision and control (Art. 8);
+- b. the provision of ancillary services not subject to authorisation or approval by virtue of the financial market legislation (Art. 10);
+- c. the independence of the self-regulatory organisation (Art. 27 para. 2) and of the appeal body (Art. 37 para. 1).
+
+<sup>2</sup> DLT trading facilities are deemed to be small if they pose a low risk in terms of the protection of financial market participants and the proper functioning and stability of the financial system, in particular because the number of participants, the trading volume, the volume of custody assets or the clearing and settlement volume is limited. The Federal Council shall set thresholds.
+
+<sup>3</sup> DLT-Handelssysteme, die Erleichterungen nach diesem Artikel erhalten, sind verpflichtet, dies gegenüber ihren Kundinnen und Kunden offenzulegen. Der Bundesrat regelt die Details.
+
 ### Chapter 5 Trade Repositories
 
 ### Section 1 General Provisions
@@ -1184,9 +1328,9 @@ As a complement to Article 37 FINMASA[^87-1], FINMA may withdraw authorisation o
 
 **System protection**
 
-<sup>1</sup> Insofar as this is possible and to the extent that they are concerned, FINMA shall inform central counterparties, central securities depositories and payment systems in Switzerland and abroad of the insolvency measures it intends to take against a participant and which limit the participant's power of disposal. It shall also inform them of the precise time of entry into effect of the measures.
+<sup>1</sup> Insofar as this is possible and to the extent that they are concerned, FINMA shall inform central counterparties, central securities depositories, payment systems and those DLT trading facilities that provide comparable central custody, clearing or settlement services, in Switzerland and abroad, of the insolvency measures it intends to take against a participant and which limit the participant's power of disposal. It shall also inform them of the precise time of entry into effect of the measures.[^89-1]
 
-<sup>2</sup> The orders given to a central counterparty, central securities depository or payment system by a participant against which such an insolvency measure has been taken shall be legally enforceable and binding on third parties if:
+<sup>2</sup> The orders given to a central counterparty, central securities depository, payment system or a DLT trading facility that provides comparable central custody, clearing or settlement services by a participant against which such an insolvency measure has been taken shall be legally enforceable and binding on third parties if:[^89-2]
 
 a. they were introduced before the measure was ordered and were unalterable in accordance with the rules of the financial market infrastructure; or
 
@@ -1206,6 +1350,9 @@ Paragraph 2 applies by analogy to:
 
 - a. financial market infrastructures in accordance with Article 4 paragraph 3;
 - b. payment systems that are operated by banks.
+
+[^89-1]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^89-2]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 90
 
@@ -1571,7 +1718,6 @@ FINMA determines the derivatives which must be traded via a trading venue or a t
 - a. their degree of legal and operational standardisation;
 - b. their liquidity;
 - c. their trading volumes;
-- [tab]
 - d. the availability of pricing information in the given category;
 - e. the counterparty risks associated with them.
 
@@ -1971,9 +2117,9 @@ In proceedings with regard to public takeover offers, the following have party s
 
 Any person who has insider information and who knows or should know that it is insider information or who has a recommendation that he or she knows or should know is based on insider information shall behave inadmissibly when he or she:
 
-- a. exploits it to acquire or dispose of securities admitted to trading on a trading venue in Switzerland or to use financial instruments derived from such securities;
+- a.[^142-1] exploits it to acquire or dispose of securities admitted to trading on a trading venue or DLT trading facility which has its registered office in Switzerland or to use derivatives of such securities;
 - b. discloses it to another;
-- c. exploits it to recommend to another to acquire or dispose of securities admitted to trading on a trading venue in Switzerland or to use financial instruments derived from such securities.
+- c.[^142-2] exploits it to recommend to another to acquire or dispose of securities admitted to trading on a trading venue or DLT trading facility which has its registered office in Switzerland or to use derivatives of such securities.
 
 <sup>2</sup>
 
@@ -1981,6 +2127,9 @@ The Federal Council shall issue provisions regarding the admissible use of insid
 
 - a. securities transactions in preparation of a public takeover offer;
 - b. a special legal status on the part of the recipient of the information.
+
+[^142-1]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^142-2]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 143
 
@@ -1990,8 +2139,8 @@ The Federal Council shall issue provisions regarding the admissible use of insid
 
 A person behaves inadmissibly when he or she:
 
-- a. publicly disseminates information which he or she knows or should know gives false or misleading signals regarding the supply, demand or price of securities admitted to trading on a trading venue in Switzerland;
-- b. carries out transactions or acquisition or disposal orders which he or she knows or should know give false or misleading signals regarding the supply, demand or price of securities admitted to trading on a trading venue in Switzerland.
+- a. publicly disseminates information which he or she knows or should know gives false or misleading signals regarding the supply, demand or price of securities admitted to trading on a trading venue or DLT trading facility which has its registered office in Switzerland;
+- b. carries out transactions or acquisition or disposal orders which he or she knows or should know give false or misleading signals regarding the supply, demand or price of securities admitted to trading on a trading venue or DLT trading facility which has its registered office in Switzerland.[^143-1]
 
 <sup>2</sup>
 
@@ -1999,6 +2148,8 @@ The Federal Council shall issue provisions regarding admissible conduct, in part
 
 - a. securities transactions for price stabilisation purposes;
 - b. buyback programmes for a company's own securities.
+
+[^143-1]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### Chapter 6 Instruments for Market Supervision
 
@@ -2120,15 +2271,20 @@ A fine not exceeding CHF 500,000 shall be imposed on any person who wilfully:
 
 A custodial sentence not exceeding three years or a monetary penalty shall be imposed on any person who as a body or a member of a managing or supervisory body of an issuer or of a company controlling or controlled by them, or as a person who due to their holding or activity has legitimate access to insider information, if they gain a pecuniary advantage for themselves or for another with insider information by:
 
-- a. exploiting it to acquire or dispose of securities admitted to trading on a trading venue in Switzerland or to use derivatives relating to such securities;
+- a.[^154-1] exploiting it to acquire or dispose of securities admitted to trading on a trading venue or DLT trading facility which has its registered office in Switzerland or to use derivatives of such securities;
 - b. disclosing it to another;
-- c. exploiting it to recommend to another to acquire or dispose of securities admitted to trading on a trading venue in Switzerland or to use derivatives relating to such securities.
+- c.[^154-2] exploiting it to recommend that another acquire or dispose of securities admitted to trading on a trading venue or DLT trading facility which has its registered office in Switzerland or to use derivatives of such securities.
 
 <sup>2</sup> Any person who through an act set out in paragraph 1 gains a pecuniary advantage exceeding one million francs shall be liable to a custodial sentence not exceeding five years or a monetary penalty.
 
-<sup>3</sup> Any person who gains a pecuniary advantage for themselves or for another by exploiting insider information or a recommendation based on insider information disclosed or given to them by a person referred to in paragraph 1 or acquired through a felony or misdemeanour in order to acquire or dispose of securities admitted to trading on a trading venue in Switzerland or to use derivatives relating to such securities shall be liable to a custodial sentence not exceeding one year or a monetary penalty.
+<sup>3</sup> Any person who gains a pecuniary advantage for themselves or for another by exploiting insider information or a recommendation based on insider information disclosed or given to them by a person referred to in paragraph 1 or acquired through a felony or misdemeanour in order to acquire or dispose of securities admitted to trading on a trading venue or DLT trading facility which has its registered office in Switzerland or in order to use derivatives of such securities shall be liable to a custodial sentence not exceeding one year or to a monetary penalty.[^154-3]
 
-<sup>4</sup> Any person who is not a person referred to in paragraphs 1 to 3 and yet who gains a pecuniary advantage for themselves or for another by exploiting insider information or a recommendation based on insider information in order to acquire or dispose of securities admitted to trading on a trading venue in Switzerland or to use derivatives relating to securities shall be liable to a fine.
+<sup>4</sup> Any person who is not a person referred to in paragraphs 1 to 3 and yet who gains a pecuniary advantage for themselves or for another by exploiting insider information or a recommendation based on insider information in order to acquire or dispose of securities admitted to trading on a trading venue or DLT trading facility which has its registered office in Switzerland or to use derivatives of such securities shall be liable to a fine.[^154-4]
+
+[^154-1]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^154-2]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^154-3]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^154-4]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 155
 
@@ -2136,12 +2292,14 @@ A custodial sentence not exceeding three years or a monetary penalty shall be im
 
 <sup>1</sup>
 
-A custodial sentence not exceeding three years or a monetary penalty shall be imposed on any person who substantially influences the price of securities admitted to trading on a trading venue in Switzerland with the intention of gaining a pecuniary advantage for themselves or for another if they:
+A custodial sentence not exceeding three years or a monetary penalty shall be imposed on any person who, with the intention of gaining a pecuniary advantage for themselves or for another, substantially influences the price of securities admitted to trading on a trading venue or DLT trading facility which has its registered office in Switzerland in that they:[^155-1]
 
 - a. disseminate false or misleading information against their better knowledge;
 - b. effect acquisitions and sales of such securities directly or indirectly for the benefit of the same person or persons connected for this purpose.
 
 <sup>2</sup> Any person who through activities set out in paragraph 1 gains a pecuniary advantage of more than one million francs shall be liable to a custodial sentence not exceeding five years or a monetary penalty.
+
+[^155-1]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 156
 
