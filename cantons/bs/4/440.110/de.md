@@ -4,13 +4,13 @@ number: "440.110"
 title: Statut der Universität Basel
 short: Universitätsstatut
 language: de
-version: 2014-02-20
-valid_until: 2021-07-31
-version_adopted: 2013-12-19
+version: 2021-08-01
+valid_until: 2022-12-31
+version_adopted: 2020-12-17
 adopted: 2012-05-03
 in_force: 2012-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/440.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3304/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5297/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,11 +21,11 @@ Universitätsstatut | Universität / Universitätsgut
 
 (Universitätsstatut)
 
-Vom 3. Mai 2012 (Stand 20. Februar 2014)
+Vom 3. Mai 2012 (Stand 1. August 2021)
 
-Der Universitätsrat,
+Der Universitätsrat der Universität Basel,
 
-gestützt auf § 25 lit. c des Vertrags zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel vom 27. Juni 2006[^ingress-1],
+gestützt auf § 25 lit. c des Vertrags zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel vom 27. Juni 2006 [^ingress-1],
 
 beschliesst:
 
@@ -88,7 +88,7 @@ beschliesst:
 <sup>5</sup> Die Universitätsangehörigen können folgenden Gruppierungen angehören:
 
 <table>
-<tr><td>Gruppierung I:</td><td>Inhaberinnen und Inhaber von Professuren, Assistenzprofessorinnen und Assistenzprofessoren mit Tenure Track, Förderungsprofessorinnen und Förderungsprofessoren des SNF;</td></tr>
+<tr><td>Gruppierung I:</td><td>Inhaberinnen und Inhaber von Professuren, Assistenzprofessorinnen und Assistenzprofessoren mit Tenure Track, Förderungsprofessorinnen und Förderungsprofessoren des Schweizerischen Nationalfonds;</td></tr>
 <tr><td>Gruppierung II:</td><td>Assistenzprofessorinnen und Assistenzprofessoren ohne Tenure Track, Universitätsdozierende, Titularprofessorinnen und Titularprofessoren, Privatdozentinnen und Privatdozenten sowie wissenschaftliche Mitarbeiterinnen und Mitarbeiter mit Lehrverpflichtung;</td></tr>
 <tr><td>Gruppierung III:</td><td>Doktorierende und Postdoktorierende der Universität Basel;</td></tr>
 <tr><td>Gruppierung IV:</td><td>Wissenschaftliche, technische und administrative Mitarbeiterinnen und Mitarbeiter ohne Lehrverpflichtung;</td></tr>
@@ -159,7 +159,7 @@ beschliesst:
   - fb) nach Anhörung der entsprechenden Fakultäten über die Schaffung und Aufhebung von strukturellen Professuren;
 - g) ist Wahlbehörde für
   - ga) Inhaberinnen und Inhaber von strukturellen Professuren;
-  - gb) die Verwaltungsdirektorin bzw. den Verwaltungsdirektor auf Antrag des Rektorats;
+  - gb) die Direktorin bzw. den Direktor Finanzen sowie die Direktorin bzw. den Direktor Infrastruktur und Betrieb auf Antrag des Rektorats;
   - gc) die Sekretärin oder den Sekretär des Universitätsrates;
   - gd) die Rekurskommission für Verfügungen aller inneruniversitären Instanzen;
   - ge) die Revisionsstelle;
@@ -193,7 +193,7 @@ beschliesst:
 
 **Rektorat**
 
-<sup>1</sup> Das Rektorat setzt sich zusammen aus der Rektorin bzw. dem Rektor, den zwei oder drei Vizerektorinnen bzw. Vizerektoren sowie der Verwaltungsdirektorin bzw. dem Verwaltungsdirektor.
+<sup>1</sup> Das Rektorat setzt sich zusammen aus der Rektorin bzw. dem Rektor, den zwei oder drei Vizerektorinnen bzw. Vizerektoren sowie der Direktorin bzw. dem Direktor Finanzen sowie der Direktorin bzw. dem Direktor Infrastruktur und Betrieb.
 
 <sup>2</sup> Als Rektorin bzw. Rektor und als Vizerektorinnen bzw. Vizerektoren wählbar sind in der Regel Professorinnen und Professoren von Universitäten des In- und Auslandes. Diese Stellen werden jeweils in Verbindung mit einer Professur an der Universität Basel vergeben. Die Amtszeit beträgt vier Jahre. Wiederwahl ist auf der Grundlage einer Leistungsbeurteilung möglich.
 
@@ -224,7 +224,8 @@ beschliesst:
 - m) die Archivierung der Dokumente der Universität unter Berücksichtigung der Archivgesetzgebung der Vertragskantone;
 - n) die Einhaltung der disziplinarischen Regeln;
 - o) die Planung der räumlichen Entwicklung der Universität in Abstimmung mit dem Universitätsrat und den Trägerkantonen;
-- p) die Genehmigung der Reglemente für die Weiterbildungsstudiengänge.
+- p) die Genehmigung der Reglemente für die Weiterbildungsstudiengänge;
+- q) die Genehmigung der Studienpläne.
 
 <sup>2</sup> Das Rektorat
 
@@ -257,10 +258,10 @@ beschliesst:
 
 **Regenz**
 
-<sup>1</sup> Die Regenz setzt sich aus 77 Mitgliedern zusammen, nämlich aus den Mitgliedern des Rektorats (ex officio), den 7 Dekaninnen und Dekanen (ex officio) sowie aus den folgenden Vertreterinnen und Vertretern der Gruppierungen:
+<sup>1</sup> Die Regenz setzt sich aus 79 Mitgliedern zusammen, nämlich aus den Mitgliedern des Rektorats (ex officio), den 7 Dekaninnen und Dekanen (ex officio) sowie aus den folgenden Vertreterinnen und Vertretern der Gruppierungen:
 
 - a) 30 Inhaberinnen und Inhabern von Professuren (2 theol., 3 iur., 6 med., 7 phil.-hist., 7 phil.-nat., 3 oek., 2 psych.);
-- b) je 1 Mitgliedern der Gruppierung II pro Fakultät;
+- b) je 1 Mitglied der Gruppierung II pro Fakultät;
 - c) je 1 Assistentin oder Assistenten pro Fakultät;
 - d) je 2 Mitgliedern der Studierenden pro Fakultät sowie;
 - e) 8 wissenschaftlichen, technischen und administrativen Mitarbeiterinnen und Mitarbeitern.
@@ -271,7 +272,7 @@ beschliesst:
 
 <sup>4</sup> Die Sitzungen der Regenz werden von einem Ausschuss vorbereitet.
 
-<sup>5</sup> Die Generalsekretärin bzw. der Generalsekretär der Universität nimmt die Funktion der Schreiberin bzw. des Schreibers der Regenz wahr.
+<sup>5</sup> Die Stv. Generalsekretärin bzw. der Stv. Generalsekretär der Universität nimmt die Funktion der Schreiberin bzw. des Schreibers der Regenz wahr.
 
 #### § 14
 
@@ -283,7 +284,7 @@ beschliesst:
 - b) sie fördert Lehre und Forschung und insbesondere die fächer- und fakultätsübergreifende Zusammenarbeit;
 - c) sie wird angehört bei Änderungen des Universitätsstatuts;
 - d) sie erteilt die Venia docendi;
-- e) sie beantragt dem Universitätsrat die Verleihung des Titels Professorin bzw. Professor;
+- e) sie beantragt dem Universitätsrat für Titularprofessorinnen bzw. Titularprofessoren die Verleihung des Titels Professorin bzw. Professor;
 - f) sie hat bei der Wahl eines stimmberechtigten Mitglieds des Universitätsrates das Vorschlagsrecht an die Regierungen;
 - g) sie wählt die Rektorin bzw. den Rektor sowie die Vizerektorinnen bzw. die Vizerektoren unter dem Vorbehalt der Genehmigung durch den Universitätsrat. Sie legt ein Verfahren fest, das dem Universitätsrat zur Genehmigung vorzulegen ist;
 - h) sie wählt die Mitglieder in die ihr zugeordneten Kommissionen und kontrolliert deren Tätigkeiten;
@@ -308,11 +309,11 @@ beschliesst:
 
 <sup>5</sup> Universitäre Gliederungseinheiten können mit Genehmigung durch den Universitätsrat ihre Arbeit unter strategischen Zielsetzungen interdisziplinär und in der Regel fakultätsübergreifend in Kompetenzzentren koordinieren.
 
-<sup>6</sup> Die Organisationsreglemente der Fakultäten und Departemente sehen als Organe die Vorsteherin bzw. den Vorsteher (im Falle der Fakultäten die Dekanin bzw. den Dekan) sowie die Versammlung und gegebenenfalls weitere Organe vor.
+<sup>6</sup> Die Organisationsreglemente der Fakultäten, Departemente und Institute sehen als Organe die Vorsteherin bzw. den Vorsteher (im Falle der Fakultäten die Dekanin bzw. den Dekan) sowie die Versammlung und gegebenenfalls weitere Organe vor.
 
 <sup>7</sup> Die Versammlungen repräsentieren die Gesamtheit der Universitätsangehörigen der Gliederungseinheiten. Die Gruppierungen sind in den Versammlungen nach den in diesem Statut für die konstituierenden Versammlungen festgelegten Schlüsseln vertreten. Änderungen in der prozentualen Verteilung können mit der Zustimmung aller Gruppierungen beschlossen werden.
 
-<sup>8</sup> Die Fakultäts- und Departementsversammlungen erlassen unter Vorbehalt der Genehmigung durch das Rektorat Organisationsreglemente. Diese regeln die Zuweisung der in den §§ 16–18 erwähnten Kompetenzen und Aufgaben an die Organe im Einzelnen. Sie setzen die prozentualen Anteile der Gruppierungen in den Organen fest und ordnen das Verfahren für die Wahl der Gruppierungsvertretungen. Ausserdem definieren sie Stellung, Amtszeit, Kompetenzen und Aufgaben der Vorsteherinnen und Vorsteher bzw. Dekaninnen und Dekane, die aus dem Kreis der Inhaberinnen und Inhaber hauptamtlicher Professuren gewählt werden.
+<sup>8</sup> Die Fakultäts-, Departements- und Institutsversammlungen erlassen unter Vorbehalt der Genehmigung durch das Rektorat Organisationsreglemente. Diese regeln die Zuweisung der in den §§ 16 - 18 erwähnten Kompetenzen und Aufgaben an die Organe im Einzelnen. Sie setzen die prozentualen Anteile der Gruppierungen in den Organen fest und ordnen das Verfahren für die Wahl der Gruppierungsvertretungen. Ausserdem definieren sie Stellung, Amtszeit, Kompetenzen und Aufgaben der Vorsteherinnen und Vorsteher bzw. Dekaninnen und Dekane, die aus dem Kreis der Inhaberinnen und Inhaber hauptamtlicher Professuren gewählt werden.
 
 <sup>9</sup> Die Verantwortung für den Inhalt von Lehre und Forschung liegt bei den einzelnen Professorinnen und Professoren.
 
@@ -360,9 +361,11 @@ beschliesst:
 - a) kann im Rahmen der bewilligten Personal- und Sachmittel frei disponieren;
 - b) erteilt Lehraufträge;
 - c) erarbeitet das Institutsbudget zu Handen des Rektorats und beantragt beim Rektorat Investitionsmittel;
-- d) stimmt im Rahmen von Leistungsvereinbarungen in Lehre, Forschung und Dienstleistungen mit den involvierten Fakultäten ab;
+- d) stimmt sich im Rahmen von Leistungsvereinbarungen in Lehre, Forschung und Dienstleistungen mit den involvierten Fakultäten ab;
 - e) verwaltet die technische, räumliche und administrative Infrastruktur des Instituts;
-- f) beantragt dem Rektorat die Gewährung von Forschungs- und Weiterbildungssemestern sowie von Urlauben.
+- f) beantragt dem Rektorat die Gewährung von Forschungs- und Weiterbildungssemestern sowie von Urlauben;
+- g) erlässt Studienordnungen, die vom Universitätsrat genehmigt werden;
+- h) wird angehört bei der Schaffung und Aufhebung von Studiengangangeboten sowie von strukturellen Professuren in seinem Bereich.
 
 <sup>2</sup> Die Institutsleitung wird unter angemessenem Einbezug der involvierten Fakultäten vom Rektorat bestimmt.
 
@@ -370,21 +373,19 @@ beschliesst:
 
 **Gesamtuniversitäre akademische und administrative Dienste**
 
-<sup>1</sup> Die gesamtuniversitären akademischen und administrativen Dienste werden im Rahmen der Gesamtverantwortung des Rektorats von der Rektorin bzw. vom Rektor, den Vizerektorinnen bzw. Vizerektoren oder der Verwaltungsdirektorin bzw. dem Verwaltungsdirektor geleitet. Das Rektorat entscheidet über die Zuordnung der einzelnen Rektoratsbereiche.
+<sup>1</sup> Die gesamtuniversitären akademischen und administrativen Dienste werden im Rahmen der Gesamtverantwortung des Rektorats von der Rektorin bzw. vom Rektor, den Vizerektorinnen bzw. Vizerektoren oder der Direktorin bzw. dem Direktor Finanzen sowie der Direktorin bzw. dem Direktor Infrastruktur und Betrieb geleitet. Das Rektorat entscheidet über die Zuordnung der einzelnen Rektoratsbereiche.
 
-<sup>2</sup> Die zentrale Universitätsverwaltung wird von der Verwaltungsdirektorin bzw. dem Verwaltungsdirektor geleitet. Diese bzw. dieser wird vom Universitätsrat auf Antrag des Rektorats gewählt.
+<sup>2</sup> …
 
 #### § 20
 
-**Zentrale wissenschaftliche Dienste und Einrichtungen**
+**…**
 
-<sup>1</sup> Zentrale wissenschaftliche Dienste und gesamtuniversitäre akademische Einrichtungen sind in der Regel der Rektorin bzw. dem Rektor, einzelnen Vizerektoraten oder der Verwaltungsdirektion unterstellt. Sie führen eine gesonderte Rechnung.
-
-### III. Die studentische Körperschaft, die Assistierendenvereinigung und die Rekurskommission
+### III. Die studentische Körperschaft, die Assistierendenvereinigung, die Dozierendenvereinigung und die Rekurskommission
 
 #### § 21
 
-**Studentische Körperschaft**
+**Studentische Körperschaft (skuba)**
 
 <sup>1</sup> Unter dem Namen Studentische Körperschaft Universität Basel («skuba») besteht eine studentische Körperschaft. Sie organisiert sich nach dem Vereinsrecht (Art. 60 ZGB).
 
@@ -414,13 +415,27 @@ beschliesst:
 
 <sup>6</sup> Die «avuba» verfügt zur Erfüllung ihrer Aufgaben über Mittel aus dem Globalbudget der Universität, aus den Beiträgen ihrer Mitglieder sowie aus sonstigen Einnahmen.
 
+#### § 22a
+
+**Dozierendenvereinigung (dozuba)**
+
+<sup>1</sup> Unter dem Namen Vereinigung der Dozierenden der Gruppierung II der Universität Basel (dozuba) besteht eine Körperschaft der Angehörigen der Gruppierung II. Sie organisiert sich nach dem Vereinsrecht gemäss ZGB.
+
+<sup>2</sup> Wer durch Anstellung oder Erteilung eines Lehrauftrags bzw. einer Lehrverpflichtung Mitglied der Gruppierung II der Universität Basel wird, ist automatisch Mitglied der «dozuba».
+
+<sup>3</sup> Angehörige der Gruppierung II, die der «dozuba» nicht angehören wollen, teilen dies dem Rektorat schriftlich mit. Sie verzichten damit auf ihre Mitwirkungsrechte.
+
+<sup>4</sup> Die «dozuba» vertritt die Interessen ihrer Mitglieder in der Regenz und, in Übereinstimmung mit deren Reglementen, den Fakultäts- und Departementsgremien und den universitären Kommissionen sowie gegenüber den Behörden und der Öffentlichkeit. Weitere Aufgaben werden in einer Leistungsvereinbarung mit dem Rektorat festgelegt.
+
+<sup>5</sup> Die «dozuba» bietet Dienstleistungen für Angehörige der Gruppierung II an.
+
 #### § 23
 
 **Rekurskommission**
 
 <sup>1</sup> Die Rekurskommission ist eine weisungsungebundene Gerichtsinstanz, welche für Beschwerden gegen Verfügungen aller inneruniversitären Organe zuständig ist.
 
-<sup>2</sup> Sie setzt sich aus 6 Mitgliedern zusammen, von denen 5 stimmberechtigt sind und eines beratend mitwirkt. Sie werden vom Universitätsrat auf eine Amtsdauer von je 4 Jahren gewählt und dürfen nicht der Universität angehören. Die juristische Sekretärin bzw. der juristische Sekretär ist Mitglied mit beratender Stimme. Die Rekurskommission bestimmt das juristische Sekretariat.
+<sup>2</sup> Sie setzt sich aus 6 Mitgliedern zusammen, von denen 5 stimmberechtigt sind und eines beratend mitwirkt. Die stimmberechtigten Mitglieder werden vom Universitätsrat auf eine Amtsdauer von je 4 Jahren gewählt und dürfen nicht der Universität angehören. Die juristische Sekretärin bzw. der juristische Sekretär ist Mitglied mit beratender Stimme. Die Rekurskommission bestimmt das juristische Sekretariat.
 
 <sup>3</sup> Die Leitung der Rekurskommission obliegt einer Gerichtspräsidentin bzw. einem Gerichtspräsidenten.
 
@@ -504,7 +519,7 @@ beschliesst:
 
 <sup>1</sup> Die von diesem Statut bewirkten Veränderungen bei der Zugehörigkeit der Gruppierungen II und IV (§ 4 Abs. 5) und die daraus resultierenden Veränderungen in der Zusammensetzung der Regenz (§ 13 Abs. 1) werden bei der nächsten Neuwahl der Regenz umgesetzt. Infolge der Verlängerung der Amtszeit der Regenz (§ 13 Abs. 3) ist der Stichtag der 1. August 2015.
 
-Schlussbestimmung
+*Schlussbestimmung*
 
 Dieses Statut ist zu publizieren; es wird auf den 1. August 2012 wirksam. Auf den gleichen Zeitpunkt wird das Statut der Universität Basel vom 12. Dezember 2007 aufgehoben.
 
