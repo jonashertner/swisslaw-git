@@ -4,13 +4,13 @@ number: "860.111"
 title: Verordnung über die öffentliche Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
-version: 2021-05-01
-valid_until: 2021-07-31
-version_adopted: 2021-03-24
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-30
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2260/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2328/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2260/pdf_file"
 
 (Sozialhilfeverordnung, SHV)
 
-vom 24.10.2001 (Stand 01.05.2021)
+vom 24.10.2001 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -668,7 +668,7 @@ beschliesst:
 
 **Pflegekosten im stationären Bereich 1 Beitrag des Kantons**
 
-<sup>1</sup> Das Alters- und Behindertenamt (ALBA) vergütet den Erbringern von Leistungen der stationären Pflege die nicht von den Sozialversicherungen und den Leistungsempfängerinnen und Leistungsempfängern gedeckten Pflegekosten der Leistungsempfängerinnen und Leistungsempfänger mit Wohnsitz im Kanton Bern:
+<sup>1</sup> Das Gesundheitsamt (GA) vergütet den Erbringern von Leistungen der stationären Pflege die nicht von den Sozialversicherungen und den Leistungsempfängerinnen und Leistungsempfängern gedeckten Pflegekosten der Leistungsempfängerinnen und Leistungsempfänger mit Wohnsitz im Kanton Bern:
 
 - a bei Pflegestufe 1: — CHF 0.00
 - b bei Pflegestufe 2: — CHF 0.00
@@ -690,7 +690,7 @@ beschliesst:
 - c den Finanzierungsanteil des Kantons,
 - d den Finanzierungsanteil der Leistungsempfängerin oder des Leistungsempfängers, unterteilt in Anteil Pflege und Anteil Hotellerie.
 
-<sup>3</sup> Werden ausserkantonale Leistungen der stationären Pflege in Anspruch genommen, vergütet das ALBA die Pflegekosten nach Artikel 25a Absatz 5 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^25a-1].
+<sup>3</sup> Werden ausserkantonale Leistungen der stationären Pflege in Anspruch genommen, vergütet das GA die Pflegekosten nach Artikel 25a Absatz 5 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^25a-1].
 
 [^25a-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
@@ -704,7 +704,7 @@ beschliesst:
 
 **Pflegekosten im ambulanten Bereich 1 Beitrag des Kantons**
 
-<sup>1</sup> Das ALBA vergütet den Erbringern von Leistungen der ambulanten Pflege die nicht von den Sozialversicherungen und den Leistungsempfängerinnen und Leistungsempfängern gedeckten Pflegekosten der Leistungsempfängerinnen und Leistungsempfänger mit Wohnsitz im Kanton Bern.
+<sup>1</sup> Das GA vergütet den Erbringern von Leistungen der ambulanten Pflege die nicht von den Sozialversicherungen und den Leistungsempfängerinnen und Leistungsempfängern gedeckten Pflegekosten der Leistungsempfängerinnen und Leistungsempfänger mit Wohnsitz im Kanton Bern.
 
 <sup>2</sup> Diese betragen für
 
@@ -712,7 +712,7 @@ beschliesst:
 - b Behandlungspflege: — CHF 18.95 pro Stunde
 - c Grundpflege: — CHF 18.95 pro Stunde
 
-<sup>3</sup> Werden ausserkantonale Leistungen der ambulanten Pflege in Anspruch genommen, vergütet das ALBA die Pflegekosten nach Artikel 25a Absatz 5 KVG.
+<sup>3</sup> Werden ausserkantonale Leistungen der ambulanten Pflege in Anspruch genommen, vergütet das GA die Pflegekosten nach Artikel 25a Absatz 5 KVG.
 
 #### Art. 25d
 
@@ -826,7 +826,7 @@ beschliesst:
 
 **Aus- und Weiterbildungsleistung 1 Grundsatz**
 
-<sup>1</sup> Das Spitalamt legt die vom Leistungserbringer geforderte Aus- und Weiterbildungsleistung in Form von Ausbildungspunkten und in Form des Frankenbetrags fest.
+<sup>1</sup> Das GA legt die vom Leistungserbringer geforderte Aus- und Weiterbildungsleistung in Form von Ausbildungspunkten und in Form des Frankenbetrags fest.
 
 #### Art. 31f
 
@@ -868,11 +868,11 @@ beschliesst:
 
 **Abgeltung der Aus- und Weiterbildungsleistung**
 
-<sup>1</sup> Das Spitalamt entrichtet für die durch den Leistungserbringer erbrachte Aus- und Weiterbildungsleistung die Abgeltung gemäss Anhang 3.
+<sup>1</sup> Das GA entrichtet für die durch den Leistungserbringer erbrachte Aus- und Weiterbildungsleistung die Abgeltung gemäss Anhang 3.
 
-<sup>2</sup> Liegt die Summe dieser Abgeltungen für die tatsächlich erbrachte Aus- und Weiterbildungsleistung unter der Summe, die der Leistungserbringer nach Artikel 31g Absatz 1 im betreffenden Rechnungsjahr erhalten hat, zahlt der Leistungserbringer die Differenz an das Spitalamt.
+<sup>2</sup> Liegt die Summe dieser Abgeltungen für die tatsächlich erbrachte Aus- und Weiterbildungsleistung unter der Summe, die der Leistungserbringer nach Artikel 31g Absatz 1 im betreffenden Rechnungsjahr erhalten hat, zahlt der Leistungserbringer die Differenz an das GA.
 
-<sup>3</sup> Liegt die Summe dieser Abgeltungen für die tatsächlich erbrachte Aus- und Weiterbildungsleistung über der Summe, die der Leistungserbringer nach Artikel 31g Absatz 1 im betreffenden Rechnungsjahr erhalten hat, zahlt das Spitalamt die Differenz an den Leistungserbringer.
+<sup>3</sup> Liegt die Summe dieser Abgeltungen für die tatsächlich erbrachte Aus- und Weiterbildungsleistung über der Summe, die der Leistungserbringer nach Artikel 31g Absatz 1 im betreffenden Rechnungsjahr erhalten hat, zahlt das GA die Differenz an den Leistungserbringer.
 
 #### Art. 31i
 
@@ -884,7 +884,7 @@ beschliesst:
 
 <sup>3</sup> Liegt die Abgeltung für die tatsächlich erbrachte Aus- und Weiterbildungsleistung über der Summe, die der Leistungserbringer nach Artikel 31g Absatz 1 im betreffenden Rechnungsjahr erhalten hat, entspricht die Ausgleichszahlung dem dreifachen Betrag, der sich aus der Multiplikation der prozentualen Abweichung zwischen verfügter und effektiv erbrachter Aus- und Weiterbildungsleistung mit der verfügten Abgeltung ergibt.
 
-<sup>4</sup> Das Spitalamt legt die Ausgleichszahlung durch Verfügung fest.
+<sup>4</sup> Das GA legt die Ausgleichszahlung durch Verfügung fest.
 
 ## 4 Lastenausgleich (Art. 78 bis 83 SHG )
 

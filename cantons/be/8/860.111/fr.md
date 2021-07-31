@@ -4,13 +4,13 @@ number: "860.111"
 title: "Ordonnance sur l'aide sociale"
 short: OASoc
 language: fr
-version: 2021-05-01
-valid_until: 2021-07-31
-version_adopted: 2021-03-24
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-30
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2260/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2328/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2260/pdf_file"
 
 (OASoc)
 
-du 24.10.2001 (état au 01.05.2021)
+du 24.10.2001 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -660,7 +660,7 @@ arrête:
 
 **Coûts des soins en mode résidentiel 1 Contribution du canton**
 
-<sup>1</sup> L’Office des personnes âgées et des personnes handicapées (OPAH) rémunère les fournisseurs de prestations pour les soins résidentiels qui ne sont pas couverts par les assurances sociales ni par les bénéficiaires de prestations et qui sont prodigués à des personnes domiciliées dans le canton de Berne comme suit:
+<sup>1</sup> L’Office de la santé (ODS) rémunère les fournisseurs de prestations pour les soins résidentiels qui ne sont pas couverts par les assurances sociales ni par les bénéficiaires de prestations et qui sont prodigués à des personnes domiciliées dans le canton de Berne comme suit:
 
 - a degré de soins 1: — CHF 0.00 par jour
 - b degré de soins 2: — CHF 0.00 par jour
@@ -682,7 +682,7 @@ arrête:
 - c la part à la charge du canton,
 - d la part à la charge des bénéficiaires de prestations mettant en évidence leurs participations dues respectivement pour les soins et pour l’hôtellerie.
 
-<sup>3</sup> En cas de recours à des soins résidentiels dans un autre canton, l’OPAH rémunère les coûts conformément à l’article 25a, alinéa 5 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^25a-1].
+<sup>3</sup> En cas de recours à des soins résidentiels dans un autre canton, l’ODS rémunère les coûts conformément à l’article 25a, alinéa 5 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^25a-1].
 
 [^25a-1]: RS [832.10](https://db.clex.ch/link/Bund/832.10/fr)
 
@@ -696,7 +696,7 @@ arrête:
 
 **Coûts des soins en mode ambulatoire 1 Contribution du canton**
 
-<sup>1</sup> L’OPAH rémunère les fournisseurs de prestations pour les soins prodigués en mode ambulatoire qui ne sont pas couverts par les assurances sociales ni par les bénéficiaires de prestations et qui sont prodigués à des personnes domiciliées dans le canton de Berne.
+<sup>1</sup> L’ODS rémunère les fournisseurs de prestations pour les soins prodigués en mode ambulatoire qui ne sont pas couverts par les assurances sociales ni par les bénéficiaires de prestations et qui sont prodigués à des personnes domiciliées dans le canton de Berne.
 
 <sup>2</sup> Les coûts pris en charge sont les suivants:
 
@@ -704,7 +704,7 @@ arrête:
 - b examens et traitements: — CHF 18.95 par heure
 - c soins de base: — CHF 18.95 par heure
 
-<sup>3</sup> En cas de recours à des soins ambulatoires dans un autre canton, l’OPAH rémunère les coûts conformément à l’article 25a, alinéa 5 LAMal.¶
+<sup>3</sup> En cas de recours à des soins ambulatoires dans un autre canton, l’ODS rémunère les coûts conformément à l’article 25a, alinéa 5 LAMal.
 
 #### Art. 25d
 
@@ -818,7 +818,7 @@ arrête:
 
 **Prestation de formation et de perfectionnement 1 Principe**
 
-<sup>1</sup> L'Office des hôpitaux fixe la prestation de formation ou de perfectionnement exigée du fournisseur de prestations sous forme de points de formation et de montants en francs.
+<sup>1</sup> L'ODS fixe la prestation de formation ou de perfectionnement exigée du fournisseur de prestations sous forme de points de formation et de montants en francs.
 
 #### Art. 31f
 
@@ -860,11 +860,11 @@ arrête:
 
 **Indemnisation**
 
-<sup>1</sup> L’Office des hôpitaux verse les indemnités prévues à l’annexe 3 pour la prestation de formation et de perfectionnement fournie par le fournisseur de prestations.
+<sup>1</sup> L’ODS verse les indemnités prévues à l’annexe 3 pour la prestation de formation et de perfectionnement fournie par le fournisseur de prestations.
 
-<sup>2</sup> Si les indemnités dues pour la prestation de formation et de perfectionnement effectivement fournie est inférieure à la somme reçue sur la base de l’article 31g, alinéa 1 pendant l’exercice, le fournisseur de prestations verse la différence à l’Office des hôpitaux.
+<sup>2</sup> Si les indemnités dues pour la prestation de formation et de perfectionnement effectivement fournie est inférieure à la somme reçue sur la base de l’article 31g, alinéa 1 pendant l’exercice, le fournisseur de prestations verse la différence à l’ODS.
 
-<sup>3</sup> Si les indemnités dues pour la prestation de formation et de perfectionnement effectivement fournie est supérieure à la somme reçue sur la base de l’article 31g, alinéa 1 pendant l’exercice, l’Office des hôpitaux verse la différence au fournisseur de prestations.
+<sup>3</sup> Si les indemnités dues pour la prestation de formation et de perfectionnement effectivement fournie est supérieure à la somme reçue sur la base de l’article 31g, alinéa 1 pendant l’exercice, l’ODS verse la différence au fournisseur de prestations.
 
 #### Art. 31i
 
@@ -876,7 +876,7 @@ arrête:
 
 <sup>3</sup> Si l’indemnisation due pour la prestation de formation et de perfectionnement effectivement fournie est supérieure à la somme reçue sur la base de l’article 31g, alinéa 1 pendant l’exercice, la compensation représente le triple du montant obtenu en multipliant la différence en pour cent entre la prestation fixée par décision et la prestation effective par la somme reçue.
 
-<sup>4</sup> L'Office des hôpitaux fixe la compensation par voie de décision.
+<sup>4</sup> L'ODS fixe la compensation par voie de décision.
 
 ## 4 Compensation des charges (art. 78 à 83 LASoc)
 
