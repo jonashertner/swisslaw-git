@@ -3,13 +3,13 @@ canton: FR
 number: "122.72.21"
 title: "Arrêté concernant la classification des fonctions du personnel de l'Etat"
 language: fr
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-06-29
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-05-26
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6556/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6841/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6556/pdf_file"
 
 Personnel de l'Etat, classification des fonctions – A
 
-du 19.11.1990 (version entrée en vigueur le 01.08.2020)
+du 19.11.1990 (version entrée en vigueur le 01.08.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
