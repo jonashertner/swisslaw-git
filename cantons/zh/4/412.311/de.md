@@ -4,11 +4,11 @@ number: "412.311"
 title: Lehrpersonalverordnung (LPVO)
 short: LPVO
 language: de
-version: "2021-01-01"
-nachtrag: "113"
-valid_until: 2021-08-01
+version: "2021-08-01"
+nachtrag: "114"
+valid_until: 2022-01-26
 adopted: 2000-07-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_311-2000_07_19-2000_10_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_311-2000_07_19-2000_10_01-114.html"
 text: pdf
 ---
 
@@ -394,7 +394,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 <sup>3</sup> Unterrichts- und Berufstätigkeiten müssen vor dem Eintritt in den Schuldienst geltend gemacht werden. Spätere Eingaben werden nicht mehr berücksichtigt.
 
-<sup>4</sup> Beim Wechsel der Gemeinde oder beim Wiedereintritt in den Zürcher Schuldienst innert einer Frist von drei Jahren zuzüglich eines Tages wird die bisherige Einstufung der kantonalen Anstellung übernommen. Lohnwirksame Beschlüsse aufgrund einer Mitarbeiterbeurteilung bleiben gültig. Bei einem späteren Wiedereintritt wird mindestens die bisherige Einstufung der kantonalen Anstellung gewährt.
+<sup>4</sup> Beim Wechsel der Gemeinde oder beim Wiedereintritt in den Zürcher Schuldienst innert einer Frist von drei Jahren zuzüglich eines Tages wird die bisherige Einstufung der kantonalen Anstellung übernommen. Bei einem späteren Wiedereintritt wird mindestens die bisherige Einstufung der kantonalen Anstellung gewährt.<sup>54</sup>
 
 <sup>5</sup> Eine Anrechnung von Tätigkeiten gemäss Abs. 2 erfolgt höchstens bis zur Stufe, in der die Lehrperson eingestuft wäre, wenn sie während der anrechenbaren Zeit unterrichtet hätte. Fachlehrpersonen und nach Massgabe des Gesetzes über den Beitritt des Kantons Zürich zur Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 22. September 1996[^hIIILohn-3] nicht stufengerecht ausgebildete Lehrpersonen werden tiefer eingestuft. Die Bildungsdirektion legt die Einstufungen in einer Tabelle fest.<sup>50</sup>
 
@@ -465,15 +465,15 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 ### IV. Beurteilungsverfahren
 
-#### § 23
-
 **Mitarbeiterbeurteilung**
 
-<sup>1</sup> Die Schulpflege führt die Mitarbeiterbeurteilung für alle Lehrpersonen sowie Schulleiterinnen und Schulleiter mindestens alle vier Jahre durch. Bei der Mitarbeiterbeurteilung der Lehrpersonen wirkt die Schulleitung mit. Die Mitarbeiterbeurteilung findet erstmals im Schuljahr statt, in dem die Lehrperson in der Stufe 3 oder höher eingestuft ist. Sie kann ausnahmsweise früher durchgeführt werden. Im letzten Schuljahr vor der Alterspensionierung kann die Lehrperson auf die Mitarbeiterbeurteilung verzichten.<sup>24</sup>
+§ 23.<sup>54</sup> <sup>1</sup> Alle Lehrpersonen sowie Schulleiterinnen und Schulleiter werden in der Regel jährlich beurteilt.
 
-<sup>2</sup> Eine Mitarbeiterbeurteilung mit der Qualifikation «Ungenügend» wird spätestens nach einem Jahr überprüft.
+<sup>2</sup> Im begründeten Einzelfall, insbesondere bei länger dauernder Abwesenheit der Lehrperson, der Schulleiterin oder des Schulleiters, kann die Mitarbeiterbeurteilung erst im folgenden Schuljahr durchgeführt werden.
 
-<sup>3</sup> Die Schulpflege[^23-1] kann für die Mitarbeiterbeurteilung Fachpersonen beiziehen.
+<sup>3</sup> Für die Mitarbeiterbeurteilung können Fachpersonen beigezogen werden.
+
+<sup>4</sup> Hat eine Lehrperson gleichzeitig kantonale Anstellungen in mehreren Gemeinden, kann eine Gemeinde die Mitarbeiterbeurteilung einer anderen Gemeinde übernehmen.
 
 **Lohnerhöhung und Rückstufung**
 
@@ -485,7 +485,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 <sup>4</sup> Ab Lohnstufe 23 kann mit der Qualifikation «Sehr gut» auf den 1. Juli eine Individuelle Lohnerhöhung um eine Lohnstufe gewährt werden.
 
-<sup>5</sup> Eine Lohnerhöhung gemäss Abs. 2–4 wird nur gestützt auf die aktuelle, im laufenden oder in den drei vorangegangenen Schuljahren durchgeführte Mitarbeiterbeurteilung gewährt.<sup>39</sup>
+<sup>5</sup> Eine Lohnerhöhung gemäss Abs. 2–4 wird gestützt auf die im laufenden Schuljahr durchgeführte Mitarbeiterbeurteilung gewährt. Wurde die Mitarbeiterbeurteilung ausnahmsweise verschoben, kann die Lohnerhöhung gestützt auf die letztjährige Mitarbeiterbeurteilung der gleichen Gemeinde gewährt werden.<sup>54</sup>
 
 <sup>6</sup> Lehrpersonen sowie Schulleiterinnen und Schulleiter, die mit «Ungenügend» qualifiziert werden, können durch das Volksschulamt auf Antrag der Schulpflege in eine tiefere Stufe zurückversetzt werden. Voraussetzung für die Rückstufung ist die Einräumung einer Bewährungsfrist von drei bis sechs Monaten. Nach Ablauf der Bewährungsfrist ist eine neuerliche Mitarbeiterbeurteilung durchzuführen. Diese beschränkt sich auf die beanstandeten Tätigkeiten.<sup>31</sup>
 
@@ -494,8 +494,6 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 § 25.<sup>22</sup> <sup>1</sup> Individuelle Lohnerhöhungen sind nur im Rahmen der bewilligten Kredite und Quoten zulässig.
 
 <sup>2</sup> Die Bildungsdirektion erlässt Weisungen über die Aufteilung der für Individuelle Lohnerhöhungen zur Verfügung stehenden Lohnsumme auf die Personen, welche die Voraussetzung nach § 24 Abs. 2–4 erfüllen.
-
-[^23-1]: Fassung gemäss RRB vom 28. Juni 2006 (OS 61, 245; ABl 2006, 808). In Kraft seit 16. August 2007.
 
 ### V. Weitere Rechte und Pflichten
 
@@ -815,7 +813,9 @@ Bei einer Anstellung an Regelklassen der Kindergartenstufe vor Inkraftsetzung de
 
 <sup>52</sup> Eingefügt durch RRB vom 31. März 2021 (OS 76, 167; ABl 2021-04-09). In Kraft seit 1. Januar 2021.
 
-<sup>53</sup> Fassung gemäss RRB vom 31. März 2021 (OS 76, 000; ABl 2021-04-09). In Kraft seit 1. Januar 2021.
+<sup>53</sup> Fassung gemäss RRB vom 31. März 2021 (OS 76, 167; ABl 2021-04-09). In Kraft seit 1. Januar 2021.
+
+<sup>54</sup> Fassung gemäss RRB vom 21. Oktober 2020 (OS 75, 570; ABl 2020-10-30). In Kraft seit 1. August 2021.
 
 **23**
 
