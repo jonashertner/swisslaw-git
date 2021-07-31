@@ -3,20 +3,19 @@ canton: ZG
 number: "413.16"
 title: Reglement über die Höhere Fachschule für Technik und Gestaltung (HFTG)
 language: de
-version: 2020-01-01
-valid_until: 2021-07-31
-version_adopted: 2019-11-26
+version: 2021-08-01
+version_adopted: 2021-09-01
 adopted: 2007-08-30
 in_force: 2007-09-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/413.16"
-pdf: "https://bgs.zg.ch/api/de/versions/2046/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2258/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Höhere Fachschule für Technik und Gestaltung (HFTG)
 
-Vom 30. August 2007 (Stand 1. Januar 2020)
+Vom 30. August 2007 (Stand 1. August 2021)
 
 Die Volkswirtschaftsdirektion des Kantons Zug,
 
@@ -63,10 +62,10 @@ verfügt:
 - a) begutachtet die Studienkonzepte und Lehrpläne;
 - b) befasst sich mit der Weiterentwicklung der HFTG;
 - c) orientiert sich über den Stand und die Qualität der Ausbildungen und kann Schulbesuche machen;
-- d) erlässt Richtlinien betreffend die Diplomarbeiten;
+- d) erlässt auf Vorschlag der HFTG-Leitung Richtlinien zum Qualifikationsverfahren;
 - e) ernennt die Prüfungsexpertinnen und -experten auf Vorschlag der Leitung der HFTG;
-- f) erwahrt die Diplomnoten;
-- g) entscheidet über Einsprachen.
+- f) erwahrt die Noten der Diplomprüfungen, der Diplomarbeiten und der Diplompräsentationen sowie die Diplomnoten;
+- g) entscheidet über Grenzfälle und Einsprachen.
 
 #### § 3
 
@@ -135,7 +134,7 @@ verfügt:
 
 <sup>1</sup> Bei Semesterschluss erhalten die Studierenden ein Zeugnis, das die Bewertungen derjenigen Fächer enthält, die im betreffenden Semester unterrichtet wurden, sowie den Durchschnitt pro Kompetenzbereich.
 
-<sup>2</sup> Grundlage für die Semesternoten bilden jeweils mindestens drei Lernzielkontrollen; in Fächern mit 40 oder weniger Lektionen pro Semester mindestens zwei Lernbewertungen.
+<sup>2</sup> Grundlage für die Semesternoten bilden jeweils mindestens drei Lernzielkontrollen; in Fächern mit 40 oder weniger Lektionen pro Semester mindestens zwei Lernbewertungen. Die Semesternoten werden in halben oder ganzen Noten ausgewiesen.
 
 #### § 9
 
@@ -191,17 +190,17 @@ verfügt:
 
 **Prüfungsergebnis**
 
-<sup>1</sup> Für jeden Kompetenzbereich wird eine Abschlussnote in Zehntelsnoten ermittelt. Diese errechnet sich als Durchschnitt der Abschlussnoten aller Fächer im entsprechenden Kompetenzbereich. Die Abschlussnote pro Fach ermittelt sich aus dem Durchschnitt aller Semesternoten und der Diplomprüfung des entsprechenden Fachs.
+<sup>1</sup> Für jeden Kompetenzbereich wird eine Abschlussnote in halben oder ganzen Noten ermittelt. Diese errechnet sich als Durchschnitt der Abschlussnoten aller Fächer im entsprechenden Kompetenzbereich. Die Abschlussnote pro Fach ermittelt sich aus dem Durchschnitt aller Semesternoten und der Diplomprüfung des entsprechenden Fachs.
 
 <sup>2</sup> Das Qualifikationsverfahren gilt als bestanden, wenn alle der folgenden Bedingungen erfüllt sind:
 
-- a) keine Erfahrungsnote liegt unter 3,0;
-- b) keine Diplomprüfungsnote liegt unter 4,0;
+- a) …
+- b) die Abschlussnoten der Fächer mit Diplomprüfungen betragen mindestens 4,0;
 - c) der Durchschnitt der Abschlussnote pro Kompetenzbereich beträgt mindestens 4,0;
 - d) die Note der Diplomarbeit beträgt mindestens 4,0;
 - e) die Note der Diplompräsentation beträgt mindestens 4,0.
 
-<sup>3</sup> Die Diplomarbeit und die Diplompräsentation werden in Zehntelsnoten bewertet.
+<sup>3</sup> Der Durchschnitt der Abschlussnote pro Kompetenzbereich, die Diplomarbeit und die Diplompräsentation werden in halben oder ganzen Noten bewertet.
 
 <sup>4</sup> …
 
@@ -235,7 +234,7 @@ verfügt:
 
 <sup>1</sup> Das Qualifikationsverfahren kann höchstens einmal wiederholt werden.
 
-<sup>2</sup> Liegt der Durchschnitt der Kompetenzbereiche unter 4,0, müssen alle Diplomprüfungen mit Noten unter 4,5 wiederholt werden. Dies kann ausschliesslich im Rahmen der ordentlichen Prüfungstermine erfolgen. Für die Wiederholungsergebnisse werden keine Noten aus dem Unterricht berücksichtigt.
+<sup>2</sup> Liegt die Abschlussnote bei Fächern mit Diplomprüfungen unter 4,0, muss die Diplomprüfung des entsprechenden Fachs wiederholt werden. Liegt der Durchschnitt der Kompetenzbereiche unter 4,0, müssen alle Diplomprüfungen mit Noten unter 4,0 wiederholt werden. Ungenügende Diplomprüfungen vor dem letzten Semester können zu einem von der HFTG-Leitung bestimmten Zeitpunkt des laufenden Studiums einmal nachgeholt werden. Ungenügende Diplomprüfungen im letzten Semester können im ersten Semester des nachfolgenden Studiengangs einmal wiederholt werden. Für die Wiederholungsergebnisse werden keine Noten aus dem Unterricht berücksichtigt.
 
 <sup>3</sup> Eine nicht bestandene Diplomarbeit kann frühestens bei der nächstfolgenden offiziellen Diplomprüfungszeit wiederholt werden. Dabei muss die neue Diplomarbeit präsentiert werden, selbst wenn die vorhergehende Präsentation genügend war. Die neue Note zählt. Die Diplomprüfung kann einmal wiederholt werden.
 
