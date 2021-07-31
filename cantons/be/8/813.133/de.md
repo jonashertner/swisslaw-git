@@ -4,13 +4,13 @@ number: "813.133"
 title: Verordnung über die Kantonale Kommission für Gesundheitsförderungs- und Suchtfragen
 short: GSKV
 language: de
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2025-06-30
+version_adopted: 2021-06-30
 adopted: 2007-09-19
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/813.133"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2126/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2321/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2126/pdf_file"
 
 (GSKV)
 
-vom 19.09.2007 (Stand 01.03.2021)
+vom 19.09.2007 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -52,7 +52,7 @@ beschliesst:
 - c je eine Vertreterin oder ein Vertreter der Bildungs- und Kulturdirektion, der Direktion für Inneres und Justiz und der Sicherheitsdirektion,
 - d eine Vertreterin oder ein Vertreter der Partner der Suchtmedizin,
 - e eine Vertreterin oder ein Vertreter der Partner der Psychiatrie,
-- f Vertreterinnen und Vertreter des Amts für Integration und Soziales,
+- f eine Vertreterin oder ein Vertreter der Partner der Gesundheitsförderung und Prävention,
 - g Vertreterinnen und Vertreter der Gesundheits-, Sozial- und Integrationsdirektion,
 - h weitere Mitglieder.
 
@@ -62,7 +62,7 @@ beschliesst:
 
 **Wahl und Konstituierung**
 
-<sup>1</sup> Der Regierungsrat ernennt die Kommissionsmitglieder auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion für eine Amtsdauer von vier Jahren.
+<sup>1</sup> Der Regierungsrat wählt auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion die Präsidentin oder den Präsidenten der Kommission. Die Gesundheits-, Sozial- und Integrationsdirektion wählt die weiteren Kommissionsmitglieder.
 
 <sup>2</sup> Das Vizepräsidium kann mit zwei Personen besetzt werden. Im Übrigen konstituiert sich die Kommission selbst.
 
@@ -118,7 +118,7 @@ beschliesst:
 
 **Entschädigung**
 
-<sup>1</sup> Die Entschädigung der Kommissionsmitglieder richtet sich unter Vorbehalt von Absatz 2 nach der Verordnung vom 2. Juli 1980 über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen[^10-1].
+<sup>1</sup> Die Entschädigung der Kommissionsmitglieder richtet sich nach der Verordnung vom 2. Juli 1980 über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen[^10-1].
 
 <sup>2</sup> …
 

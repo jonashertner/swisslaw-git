@@ -4,13 +4,13 @@ number: "813.133"
 title: Ordonnance sur la Commission cantonale de promotion de la santé et de lutte contre les dépendances
 short: OCPSD
 language: fr
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2025-06-30
+version_adopted: 2021-06-30
 adopted: 2007-09-19
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/813.133"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2126/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2321/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2126/pdf_file"
 
 (OCPSD)
 
-du 19.09.2007 (état au 01.03.2021)
+du 19.09.2007 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -53,7 +53,7 @@ arrête:
 - c respectivement un représentant ou une représentante de la Direction de l’instruction publique et de la culture, de la Direction de l’intérieur et de la justice et de la Direction de la sécurité,
 - d un représentant ou une représentante des partenaires de la médecine de l’addiction,
 - e un représentant ou une représentante des partenaires de la psychiatrie,
-- f des représentants et représentantes de l’Office de l’intégration et de l’action sociale,
+- f un représentant ou une représentante des partenaires de la promotion de la santé et de la prévention,
 - g des représentants et représentantes de la Direction de la santé, des affaires sociales et de l’intégration,
 - h d’autres membres.
 
@@ -63,7 +63,7 @@ arrête:
 
 **Nomination et constitution**
 
-<sup>1</sup> Le Conseil-exécutif nomme, sur proposition de la Direction de la santé, des affaires sociales et de l’intégration, les membres de la Commission pour un mandat de quatre ans.
+<sup>1</sup> Le Conseil-exécutif nomme le président ou la présidente de la Commission sur proposition de la Direction de la santé, des affaires sociales et de l’intégration. Cette dernière nomme les autres membres.
 
 <sup>2</sup> La vice-présidence peut être exercée conjointement par deux personnes. Par ailleurs, la Commission se constitue elle-même.
 
@@ -119,7 +119,7 @@ arrête:
 
 **Indemnités**
 
-<sup>1</sup> L'indemnisation des membres de la Commission est régie par l'ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres de commissions cantonales[^10-1], sous réserve de l'alinéa 2.
+<sup>1</sup> L'indemnisation des membres de la Commission est régie par l'ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres de commissions cantonales[^10-1].
 
 <sup>2</sup> …
 
