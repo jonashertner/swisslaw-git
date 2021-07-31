@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> juin 2012 les fonds propres et la répartit
 short: OFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: fr
-version: 2020-03-28
+version: 2021-08-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20200328/fr/xml/fedlex-data-admin-ch-eli-cc-2012-629-20200328-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20200328/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2012-629-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20200328/fr"
 
 (Ordonnance sur les fonds propres, OFR)**[^t-1]**
 
-du 1<sup>er</sup> juin 2012 (Etat le 28 mars 2020)
+du 1<sup>er</sup> juin 2012 (Etat le 1<sup>er</sup> août 2021)
 
 [^t-1]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -2512,10 +2512,13 @@ L’exigence énoncée à l’art. 132, al. 2, let. b, se monte:
 
 <sup>1</sup> Jusqu’au 31 décembre 2021, les banques des catégories 4 et 5 selon l’annexe 3 de l’OB[^148k-1] peuvent, dans le cadre des titres 3 et 4, également effectuer la conversion de dérivés en leur équivalent-crédit selon la méthode de la valeur de marché visée à l’art. 57 dans sa teneur du 1<sup>er</sup> juillet 2016[^148k-2].
 
+<sup>1bis</sup> Le délai transitoire prévu à l’al. 1 est prolongé jusqu’au 31 décembre 2023.[^148k-3]
+
 <sup>2</sup> Il en va de même pour les banques de la catégorie 3 selon l’annexe 3 de l’OB dont les positions en dérivés ne sont pas significatives. La FINMA édicte les dispositions d’exécution techniques.
 
 [^148k-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 [^148k-2]: [RO 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
+[^148k-3]: Introduit par le ch. I 6 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 148l
 
@@ -2745,15 +2748,15 @@ Annexe 8*[^t-7]*
 
 <table>
 <tr><td>Catégorie selon l’annexe 3 de l’OB[^annex8-lvlu1-1]</td><td colspan="2">1 et 2</td><td colspan="2">3</td><td colspan="2">4</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Fonds propres minimaux</td><td colspan="8">8,0 %</td></tr>
-<tr><td colspan="2">– dont CET1</td><td colspan="8">4,5 %</td></tr>
-<tr><td colspan="2">– dont AT1 ou supérieur</td><td colspan="8">1,5 %</td></tr>
-<tr><td colspan="2">– dont T2 ou supérieur</td><td colspan="8">2,0 %</td></tr>
-<tr><td colspan="2">Volant de fonds propres</td><td colspan="2">4,8 %</td><td colspan="2">4,0 %</td><td colspan="2">3,2 %</td><td colspan="2">2,5 %</td></tr>
-<tr><td colspan="2">– dont CET1</td><td colspan="2">3,7 %</td><td colspan="2">3,3 %</td><td colspan="2">2,9 %</td><td colspan="2">2,5 %</td></tr>
-<tr><td colspan="2">– dont AT1 ou supérieur</td><td colspan="2">0,5 %</td><td colspan="2">0,3 %</td><td colspan="2">0,1 %</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">– dont T2 ou supérieur</td><td colspan="2">0,6 %</td><td colspan="2">0,4 %</td><td colspan="2">0,2 %</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">Ratio total de fonds propres</td><td colspan="2">12,8 %</td><td colspan="2">12,0 %</td><td colspan="2">11,2 %</td><td colspan="2">10,5 %</td></tr>
+<tr><td colspan="2">**Fonds propres minimaux**</td><td colspan="7">8,0 %</td></tr>
+<tr><td colspan="2">– dont CET1</td><td colspan="7">4,5 %</td></tr>
+<tr><td colspan="2">– dont AT1 ou supérieur</td><td colspan="7">1,5 %</td></tr>
+<tr><td colspan="2">– dont T2 ou supérieur</td><td colspan="7">2,0 %</td></tr>
+<tr><td colspan="2">**Volant de fonds propres**</td><td colspan="2">4,8 %</td><td colspan="2">4,0 %</td><td colspan="2">3,2 %</td><td>2,5 %</td></tr>
+<tr><td colspan="2">– dont CET1</td><td colspan="2">3,7 %</td><td colspan="2">3,3 %</td><td colspan="2">2,9 %</td><td>2,5 %</td></tr>
+<tr><td colspan="2">– dont AT1 ou supérieur</td><td colspan="2">0,5 %</td><td colspan="2">0,3 %</td><td colspan="2">0,1 %</td><td>–</td></tr>
+<tr><td colspan="2">– dont T2 ou supérieur</td><td colspan="2">0,6 %</td><td colspan="2">0,4 %</td><td colspan="2">0,2 %</td><td>–</td></tr>
+<tr><td colspan="2">**Ratio total de fonds propres**</td><td colspan="2">12,8 %</td><td colspan="2">12,0 %</td><td colspan="2">11,2 %</td><td>10,5 %</td></tr>
 </table>
 
 [^annex8-lvlu1-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)

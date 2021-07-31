@@ -4,11 +4,11 @@ title: "Ordinanza del 1° giugno 2012 sui fondi propri e sulla ripartizione dei 
 short: OFoP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: it
-version: 2020-03-28
+version: 2021-08-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20200328/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20200328-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20200328/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2012-629-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20200328/it"
 
 (Ordinanza sui fondi propri, OFoP)[^t-1]
 
-del 1° giugno 2012 (Stato 28 marzo 2020)
+del 1° giugno 2012 (Stato 1° agosto 2021)
 
 [^t-1]: Nuovo testo giusta l’all. 1 n. II 10 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -2511,10 +2511,13 @@ L’esigenza di cui all’articolo 132 capoverso 2 lettera b ammonta:
 
 <sup>1</sup> Fino al 31 dicembre 2021 le banche delle categorie 4 e 5 di cui all’allegato 3 OBCR[^148k-1] possono effettuare la conversione dei derivati nel loro equivalente di credito nell’ambito dei titoli terzo e quarto anche secondo il metodo del valore di mercato conformemente all’articolo 57 nel tenore del 1° luglio 2016[^148k-2].
 
+<sup>1bis</sup> Il termine transitorio secondo il capoverso 1 è prolungato fino al 31 dicembre 2023.[^148k-3]
+
 <sup>2</sup> Ciò si applica anche alle banche della categoria 3 di cui all’allegato 3 OBCR che hanno posizioni in derivati non rilevanti. La FINMA emana disposizioni di esecuzione tecniche.
 
 [^148k-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 [^148k-2]: [RU 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
+[^148k-3]: Introdotto dal n. I 6 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 148l
 
@@ -2748,15 +2751,15 @@ Allegato 8*[^t-7]*
 
 <table>
 <tr><td>Categoria secondo l’allegato 3 OBCR[^annex8-lvlu1-1]</td><td>1 e 2</td><td>3</td><td>4</td><td>5</td></tr>
-<tr><td>Fondi propri minimi</td><td colspan="5">8,0 %</td></tr>
-<tr><td>– di cui CET1</td><td colspan="5">4,5 %</td></tr>
-<tr><td>– di cui AT1 o esigenze qualitative più elevate</td><td colspan="5">1,5 %</td></tr>
-<tr><td>– di cui T2 o esigenze qualitative più elevate</td><td colspan="5">2,0 %</td></tr>
-<tr><td>Cuscinetto di fondi propri</td><td>4,8 %</td><td>4,0 %</td><td>3,2 %</td><td colspan="2">2,5 %</td></tr>
-<tr><td>– di cui CET1</td><td>3,7 %</td><td>3,3 %</td><td>2,9 %</td><td colspan="2">2,5 %</td></tr>
-<tr><td>– di cui AT1 o esigenze qualitative più elevate</td><td>0,5 %</td><td>0,3 %</td><td>0,1 %</td><td colspan="2">–</td></tr>
-<tr><td>– di cui T2 o esigenze qualitative più elevate</td><td>0,6 %</td><td>0,4 %</td><td>0,2 %</td><td colspan="2">–</td></tr>
-<tr><td>Quota complessiva di fondi propri</td><td>12,8 %</td><td>12,0 %</td><td>11,2 %</td><td colspan="2">10,5 %</td></tr>
+<tr><td>**Fondi propri minimi**</td><td colspan="4">8,0 %</td></tr>
+<tr><td>– di cui CET1</td><td colspan="4">4,5 %</td></tr>
+<tr><td>– di cui AT1 o esigenze qualitative più elevate</td><td colspan="4">1,5 %</td></tr>
+<tr><td>– di cui T2 o esigenze qualitative più elevate</td><td colspan="4">2,0 %</td></tr>
+<tr><td>**Cuscinetto di fondi propri**</td><td>4,8 %</td><td>4,0 %</td><td>3,2 %</td><td>2,5 %</td></tr>
+<tr><td>– di cui CET1</td><td>3,7 %</td><td>3,3 %</td><td>2,9 %</td><td>2,5 %</td></tr>
+<tr><td>– di cui AT1 o esigenze qualitative più elevate</td><td>0,5 %</td><td>0,3 %</td><td>0,1 %</td><td>–</td></tr>
+<tr><td>– di cui T2 o esigenze qualitative più elevate</td><td>0,6 %</td><td>0,4 %</td><td>0,2 %</td><td>–</td></tr>
+<tr><td>**Quota complessiva di fondi propri**</td><td>12,8 %</td><td>12,0 %</td><td>11,2 %</td><td>10,5 %</td></tr>
 </table>
 
 [^annex8-lvlu1-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)

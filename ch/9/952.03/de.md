@@ -4,11 +4,11 @@ title: "Verordnung vom 1. Juni 2012 über die Eigenmittel und Risikoverteilung d
 short: ERV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/629"
 language: de
-version: 2020-03-28
+version: 2021-08-01
 adopted: 2012-06-01
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20200328/de/xml/fedlex-data-admin-ch-eli-cc-2012-629-20200328-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20200328/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/629/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2012-629-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/629/20200328/de"
 
 (Eigenmittelverordnung, ERV)[^t-1]
 
-vom 1. Juni 2012 (Stand am 28. März 2020)
+vom 1. Juni 2012 (Stand am 1. August 2021)
 
 [^t-1]: Fassung gemäss Anhang 1 Ziff. II 10 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -2514,10 +2514,13 @@ Die Anforderung gemäss Artikel 132 Absatz 2 Buchstabe b beträgt:
 
 <sup>1</sup> Bis zum 31. Dezember 2021 können Banken der Kategorien 4 und 5 nach Anhang 3 BankV[^148k-1] die Umrechnung von Derivaten in ihre Kreditäquivalente im Rahmen des 3. und 4. Titels auch nach der Marktwertmethode nach Artikel 57 in der Fassung vom 1. Juli 2016[^148k-2] vornehmen.
 
+<sup>1bis</sup> Die Übergangsfrist nach Absatz 1 wird bis zum 31. Dezember 2023 verlängert.[^148k-3]
+
 <sup>2</sup> Dies gilt ebenfalls für Banken der Kategorie 3 nach Anhang 3 BankV, die unwesentliche Derivatpositionen haben. Die FINMA erlässt technische Ausführungsbestimmungen.
 
 [^148k-1]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 [^148k-2]: [AS 2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)
+[^148k-3]: Eingefügt durch Ziff. I 6 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 148l
 
@@ -2747,15 +2750,15 @@ Anhang 8*[^t-7]*
 
 <table>
 <tr><td>Kategorie nach Anhang 3 BankV[^annex8-lvlu1-1]</td><td colspan="2">1 und 2</td><td colspan="2">3</td><td colspan="2">4</td><td colspan="2">5</td></tr>
-<tr><td colspan="2">Mindesteigenmittel</td><td colspan="8">8,0 %</td></tr>
-<tr><td colspan="2">– davon CET1</td><td colspan="8">4,5 %</td></tr>
-<tr><td colspan="2">– davon AT1 oder besser</td><td colspan="8">1,5 %</td></tr>
-<tr><td colspan="2">– davon T2 oder besser</td><td colspan="8">2,0 %</td></tr>
-<tr><td colspan="2">Eigenmittelpuffer</td><td colspan="2">4,8 %</td><td colspan="2">4,0 %</td><td colspan="2">3,2 %</td><td colspan="2">2,5 %</td></tr>
-<tr><td colspan="2">– davon CET1</td><td colspan="2">3,7 %</td><td colspan="2">3,3 %</td><td colspan="2">2,9 %</td><td colspan="2">2,5 %</td></tr>
-<tr><td colspan="2">– davon AT1 oder besser</td><td colspan="2">0,5 %</td><td colspan="2">0,3 %</td><td colspan="2">0,1 %</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">– davon T2 oder besser</td><td colspan="2">0,6 %</td><td colspan="2">0,4 %</td><td colspan="2">0,2 %</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">Gesamteigenmittelquote</td><td colspan="2">12,8 %</td><td colspan="2">12,0 %</td><td colspan="2">11,2 %</td><td colspan="2">10,5 %</td></tr>
+<tr><td colspan="2">**Mindesteigenmittel**</td><td colspan="7">8,0 %</td></tr>
+<tr><td colspan="2">– davon CET1</td><td colspan="7">4,5 %</td></tr>
+<tr><td colspan="2">– davon AT1 oder besser</td><td colspan="7">1,5 %</td></tr>
+<tr><td colspan="2">– davon T2 oder besser</td><td colspan="7">2,0 %</td></tr>
+<tr><td colspan="2">**Eigenmittelpuffer**</td><td colspan="2">4,8 %</td><td colspan="2">4,0 %</td><td colspan="2">3,2 %</td><td>2,5 %</td></tr>
+<tr><td colspan="2">– davon CET1</td><td colspan="2">3,7 %</td><td colspan="2">3,3 %</td><td colspan="2">2,9 %</td><td>2,5 %</td></tr>
+<tr><td colspan="2">– davon AT1 oder besser</td><td colspan="2">0,5 %</td><td colspan="2">0,3 %</td><td colspan="2">0,1 %</td><td>–</td></tr>
+<tr><td colspan="2">– davon T2 oder besser</td><td colspan="2">0,6 %</td><td colspan="2">0,4 %</td><td colspan="2">0,2 %</td><td>–</td></tr>
+<tr><td colspan="2">**Gesamteigenmittelquote**</td><td colspan="2">12,8 %</td><td colspan="2">12,0 %</td><td colspan="2">11,2 %</td><td>10,5 %</td></tr>
 </table>
 
 [^annex8-lvlu1-1]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
