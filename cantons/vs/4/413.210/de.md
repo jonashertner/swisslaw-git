@@ -4,136 +4,155 @@ number: "413.210"
 title: Verordnung über die Titel und Diplome für den Unterricht in den Schulen der Sekundarstufe I und der allgemeinen Sekundarstufe II
 short: VTUS
 language: de
-version: 2008-03-01
-corrected: 2017-07-06
-version_adopted: 2008-06-25
+version: 2021-08-01
+version_adopted: 2021-04-21
 adopted: 2008-06-25
 in_force: 2008-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/413.210"
-pdf: "https://lex.vs.ch/api/de/versions/508/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2889/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Titel und Diplome für den Unterricht in den Schulen der Sekundarstufe I und der allgemeinen Sekundarstufe II (VTUS)
+# Verordnung über die Titel und Diplome für den Unterricht in den Schulen der Sekundarstufe I und der allgemeinen Sekundarstufe II
 
-vom 25. Juni 2008
+(VTUS)
+
+vom 25.06.2008 (Stand 01.08.2021)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen die Artikel 13 und 57 Absatz 2 der Kantonsverfassung;
 
-eingesehen die Artikel 83, 84 und 89e des Gesetzes vom 4. Juli 1962 über das öffentliche Unterrichtswesen;
+eingesehen das Bundesgesetz über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich vom 30. September 2011 (HFKG);
 
-eingesehen den Artikel 89 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28. März 1996;
+eingesehen die Artikel 16 und 17 des Gesetzes über das Personal der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule vom 14. September 2011 (GPOS);
 
-eingesehen das Gesetz über den Beitritt zur interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 11 Mai 1995;
+eingesehen die Artikel 89a bis 89e des Gesetzes über das öffentliche Unterrichtswesen vom 4. Juli 1962 (GUW);
 
-auf Antrag des Departements für Erziehung, Kultur und Sport,
+eingesehen das Gesetz über den Beitritt zur interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 11. Mai 1995;
 
-verordnet:
+eingesehen das Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar 1995 (MAR);
 
-### 1. Abschnitt: Allgemeines
+eingesehen das Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vom 28. März 2019;
+
+auf Antrag des für die Bildung zuständigen Departements,
+
+verordnet:[^ingress-1]
+
+[^ingress-1]: In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt als Ergänzung zu den Artikeln 83 und 84 des Gesetzes vom 4. Juli 1962 über das öffentliche Unterrichtswesen (GUW) die Titel und Diplome (nachstehend: Titel), die für den Unterricht in den auf den Programmen der Schulen der Sekundarstufe I (OS) und der allgemeinen Sekundarstufe II (Kollegien, Handelsmittelschulen, Fachmittelschule (FMS) und Schule für Berufsvorbereitung (SfB)) stehenden Fächern gefordert sind.
+<sup>1</sup> Diese Verordnung regelt die in den Artikeln 16 und 17 des Gesetzes über das Personal der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule geforderten Diplome für den Unterricht in den Fächern des Programms der öffentlichen Schulen der Sekundarstufe I und der allgemeinen Sekundarstufe II. Dies betrifft:
 
-<sup>2</sup> Sie legt auch fest, welche Titel und Diplome für den Unterricht in den Spezialfächern im Sinne von Artikel 89a bis 89e GUW erforderlich sind.
+- a) die Gymnasien und Kollegien;
+- b) die Handels- und Fachmittelschulen (HFMS), und
+- c) die Schulen für Berufsvorbereitung (SfB).
+
+<sup>2</sup> Sie legt auch fest, welche Diplome für den Unterricht in den Spezialfächern im Sinne von Artikel 89a bis 89e des Gesetzes über das öffentliche Unterrichtswesen erforderlich sind.
 
 #### Art. 2
 
 **Grundsatz**
 
-<sup>1</sup> Anwärter für den Unterricht in den berücksichtigten Stufen müssen einen Titel einer Berufsbildung für den Unterricht nachweisen, der von einer anerkannten Schule der Tertiärstufe ausgestellt wurde.
+<sup>1</sup> Kandidaten für die Lehrtätigkeit in den entsprechenden Stufen müssen über einen Titel verfügen, der von einer auf der Grundlage des Bundesgesetzes über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (HFKG) anerkannten pädagogischen Hochschule ausgestellt wurde.
 
-<sup>2</sup> Anwärter für den Unterricht in den Spezialfächern im Sinne der Artikel 89a bis 89e GUW müssen ausserdem die besondere Ausbildung gemäss dieser Verordnung nachweisen.
+<sup>2</sup> Kandidaten für die Lehrtätigkeit in den Spezialfächern im Sinne der Artikel 89a bis 89e des Gesetzes über das öffentliche Unterrichtswesen müssen ausserdem die besondere Ausbildung gemäss dieser Verordnung vorweisen.
 
-<sup>3</sup> Das Departement für Erziehung, Kultur und Sport (DEKS) kann andere Titel anerkennen, die es als gleichwertig erachtet.
+<sup>3</sup> Das für die Bildung zuständige Departement (nachstehend: das Departement) kann andere Titel anerkennen, die es als gleichwertig erachtet.
 
-### 2. Abschnitt: Schulen der Sekundarstufe I
+## 2 Anforderungen für den Unterricht auf der Sekundarstufe I
 
 #### Art. 3
 
-**Anforderungen an die akademische Ausbildung**
+**Fachwissenschaftliche Ausbildung**
 
-<sup>1</sup> Die Lehrer, die die Voraussetzungen nach Artikel 83 GUW erfüllen, unterrichten in erster Linie die Fächer, die ihrer Ausbildung entsprechen und auf ihrem Hochschuldiplom (Universität / ETH) erwähnt sind.
+<sup>1</sup> Die Lehrpersonen, die die Voraussetzungen nach Artikel 16 des Gesetzes über das Personal der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule erfüllen, unterrichten in erster Linie das Fach bzw. die Fächer, die auf ihrem Hochschuldiplom aufgeführt sind.
 
-<sup>2</sup> Sie können aber auch weitere Fächer unterrichten, mit Ausnahme namentlich der Fächer dieser Verordnung, für die es eine besondere Ausbildung braucht.
+<sup>2</sup> Der Unterricht in anderen Fächern kann ihnen übertragen werden, mit Ausnahme der Spezialfächer.
 
-<sup>3</sup> Die Lehrer, die die Voraussetzungen nach Absatz 1 dieses Artikels nicht erfüllen, können nur die Fächer unterrichten, die auf ihrem Titel erwähnt sind.
+<sup>3</sup> Die Lehrpersonen, die die Voraussetzungen nach Absatz 1 dieses Artikels nicht erfüllen, können nur die Spezialfächer unterrichten, die auf ihrem Diplom erwähnt sind.
 
 #### Art. 4
 
 **Unterricht in den Spezialfächern**
 
-Zusätzlich zur Ausbildung nach Artikel 2 Absatz 1 dieser Verordnung sind namentlich folgende Titel erforderlich:
+<sup>1</sup> Zusätzlich zur Ausbildung nach Artikel 2 Absatz 1 dieser Verordnung sind folgende Titel für den Unterricht in den Spezialfächern erforderlich:
 
-- a) Sport: Hochschuldiplom Vermerk Sportunterricht
+- a) Sport: universitärer Bachelorabschluss mit dem Vermerk "Sportunterricht" oder gleichwertiger Abschluss;
+- b) Hauswirtschaft: kantonales oder interkantonales Diplom;
+- b<sup>bis</sup>) Handarbeit: kantonales oder interkantonales Diplom;
+- c) gestaltende Kunst: Bachelorabschluss einer Kunsthochschule;
+- d) Musik: Bachelorabschluss einer Musikhochschule oder Berufsdiplom eines Konservatoriums oder einer anderen anerkannten Schule.
+- e) …
+- f) …
 
-- b) Hauswirtschaft und kantonales Diplom Handarbeit:
-
-- c) Zeichnen und Gestalten: von einer Kunsthochschule ausgestelltes Diplom der Bachelor-Stufe
-
-- d) Musik: von einer Musikhochschule ausgestelltes Diplom der Bachelor-Stufe oder Berufsdiplom eines anerkannten Konservatoriums
-
-- e) Informatik: von einer Hochschule ausgestelltes Diplom der Bachelor-Stufe oder Diplom über eine Ausbildung in Bürosoftware, das von einer Hochschule der Tertiärstufe ausgestellt wurde.
-
-- f) Religionsunterricht: Diplom, das im Rahmen der katechetischen Ausbildung (Katecheten im Nebenamt / Glaubenskurs) ausgestellt wurde oder Diplom, das vom Religionspädagogischen Institut Luzern (RPI) ausgestellt wurde.
-
-### 3. Abschnitt: Schulen der allgemeinen Sekundarstufe II
+## 3 Anforderungen für den Unterricht auf der allgemeinen Sekundarstufe II
 
 #### Art. 5
 
-**Akademische Ausbildung**
+**Fachwissenschaftliche Ausbildung**
 
-Die Lehrpersonen, die die Voraussetzungen nach Artikel 84 GUW erfüllen, unterrichten die Fächer, die auf ihrem Hochschuldiplom erwähnt sind.
+<sup>1</sup> Die Lehrpersonen, die die Voraussetzungen nach Artikel 17 des Gesetzes über das Personal der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule erfüllen, unterrichten das Fach bzw. die Fächer, die auf ihrem Hochschuldiplom aufgeführt sind.
 
 #### Art. 6
 
-**Unterricht in den Spezialfächer**
+**Unterricht in den Spezialfächern**
 
-Zusätzlich zur Ausbildung nach Artikel 2 Absatz 1 dieser Verordnung sind namentlich folgende Titel erforderlich:
+<sup>1</sup> Zusätzlich zur Ausbildung nach Artikel 2 Absatz 1 dieser Verordnung sind folgende Titel für den Unterricht in den Spezialfächern erforderlich:
 
-- a) Sport: Hochschuldiplom, auf der der Sportstudiengang erwähnt wird oder Master in Bewegungswissenschaften und Sport mit Zusatzausbildung als «Sportlehrer»
+- a) Sport: universitärer Masterabschluss mit dem Vermerk «Sportunterricht» oder gleichwertiger Abschluss;
+- a<sup>bis</sup>) Handarbeit: kantonales oder interkantonales Diplom;
+- b) gestaltende Kunst: Masterabschluss einer Kunsthochschule;
+- c) Musik: Masterabschluss einer Musikhochschule oder Berufsdiplom eines anerkannten Konservatoriums.
+- d) …
+- e) …
 
-- b) Zeichnen und Gestalten von einer Kunsthochschule ausgestelltes und Handarbeit: Diplom der Master-Stufe
+#### Art. 6a
 
-- c) Musik: von einer Musikhochschule ausgestelltes Diplom der Master-Stufe oder Berufsdiplom eines anerkannten Konservatoriums
+**Fächer mit kantonaler Anerkennung**
 
-- d) Textverarbeitung und Diplom über eine Ausbildung in Bürosoftware, Büroinformatik: das von einer anerkannten Schule der Tertiärstufe ausgestellt wurde;
+<sup>1</sup> Einige Fächer des Programms der allgemeinen Sekundarstufe II werden von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (nachstehend: die EDK) nicht anerkannt.
 
-- e) Praktische Ateliers: Berufsdiplom der Tertiärstufe in den betreffenden praktischen Bereichen.
+<sup>2</sup> Für den Unterricht in diesen Fächern ist eine fachwissenschaftliche Ausbildung auf Masterstufe und eine pädagogische Ausbildung für Maturitätsschulen erforderlich.
 
-### 4. Abschnitt: Schlussbestimmungen
+<sup>3</sup> Anstelle eines von der EDK anerkannten Diploms wird eine kantonale Lehrberechtigung ausgestellt.
+
+## 4 Schlussbestimmungen
 
 #### Art. 7
 
 **Übergangsbestimmung**
 
-Diese Verordnung gilt nicht für Lehrpersonen, die Inhaber von Titeln sind, die unter der vor dieser Verordnung geltenden Ordnung erforderlich oder anerkannt waren.
+<sup>1</sup> Diese Verordnung gilt nicht für Lehrpersonen, die Inhaber von Titeln sind, die unter der vor dieser Verordnung geltenden Ordnung erforderlich oder anerkannt waren.
 
 #### Art. 8
 
-**Streitigkeiten**
+**Beschwerde**
 
-<sup>1</sup> Gegen Entscheide, die in Anwendung dieser Verordnung getroffenen werden, kann für die Sekundarstufe I beim Departement und für die allgemeine Sekundarstufe II beim Staatsrat Beschwerde eingereicht werden.
+<sup>1</sup> Gegen Entscheide, die in Anwendung dieser Verordnung getroffenen werden, kann Beschwerde eingereicht werden.
 
 <sup>2</sup> Das Beschwerdeverfahren richtet sich nach dem Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege.
 
 #### Art. 9
 
-**Unterbruch**
-
-Lehrkräfte, die ihren Unterricht während drei aufeinanderfolgenden Jahren unterbrechen und keinen reglementarischen Urlaub haben, verlieren das Recht zu unterrichten. Sie können es zu den Voraussetzungen, die in den einschlägigen Bestimmungen festgelegt werden, wiedererlangen.
+**…**
 
 #### Art. 10
 
 **Inkrafttreten**
 
-Die vorliegende Verordnung wird im Amtsblatt publiziert, um rückwirkend auf den 1. März 2008 in Kraft zu treten.
+<sup>1</sup> Die vorliegende Verordnung wird im Amtsblatt publiziert, um rückwirkend auf den 1. März 2008 in Kraft zu treten.
 
-Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Henri v. Roten
+## T1 Übergangsbestimmungen der Änderung vom 21.04.2021
+
+#### Art. T1-1
+
+<sup>1</sup> Lehrpersonen, die Inhaber von Titeln sind, die unter der Verordnung vor dem Inkrafttreten der Änderung vom 21.04.2021 erforderlich oder anerkannt waren, unterliegen weiterhin der bisherigen Regelung.
+
+CSW BO/Abl. 28/2008
