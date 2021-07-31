@@ -4,13 +4,13 @@ number: "815.122"
 title: Einführungsverordnung zur eidgenössischen Epidemiengesetzgebung
 short: EV EpG
 language: de
-version: 2016-01-01
-valid_until: 2021-07-31
-version_adopted: 2015-12-09
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-30
 adopted: 2015-12-09
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.122"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/921/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2322/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/921/pdf_file"
 
 (EV EpG)
 
-vom 09.12.2015 (Stand 01.01.2016)
+vom 09.12.2015 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -40,19 +40,19 @@ beschliesst:
 
 #### Art. 2
 
-**Generelle Zuständigkeit des Kantonsarztamtes**
+**Generelle Zuständigkeit des Gesundheitsamts**
 
-<sup>1</sup> Sofern diese Verordnung nichts anderes bestimmt, ist das Kantonsarztamt (KAZA) die zuständige kantonale Behörde für den Vollzug der eidgenössischen Epidemiengesetzgebung.
+<sup>1</sup> Mit Ausnahme der der Kantonsärztin oder dem Kantonsarzt durch die eidgenössische Epidemiengesetzgebung direkt übertragenen Aufgaben und sofern diese Verordnung nichts anderes bestimmt, ist das Gesundheitsamt die zuständige kantonale Behörde für den Vollzug der eidgenössischen Epidemiengesetzgebung.
 
 #### Art. 3
 
 **Behördliche Meldepflicht**
 
-<sup>1</sup> Zuständige kantonale Behörden im Sinne von Artikel 12 Absatz 4 EpG sind neben dem KAZA
+<sup>1</sup> Zuständige kantonale Behörden im Sinne von Artikel 12 Absatz 4 EpG sind neben dem Gesundheitsamt
 
 - a der Veterinärdienst,
-- b das Kantonale Laboratorium,
-- c das Kantonsapothekeramt (KAPA).
+- b das Kantonale Laboratorium.
+- c …
 
 #### Art. 4
 
@@ -64,7 +64,7 @@ beschliesst:
 
 **Überwachung des Sterilisationsverfahrens**
 
-<sup>1</sup> Das KAPA überwacht die Einhaltung der Vorschriften über das Sterilisationsverfahren nach Artikel 25 EpV.
+<sup>1</sup> Das Gesundheitsamt überwacht die Einhaltung der Vorschriften über das Sterilisationsverfahren nach Artikel 25 EpV.
 
 #### Art. 6
 
@@ -88,7 +88,7 @@ beschliesst:
 
 **Prioritätenliste bei der Zuteilung von Heilmitteln**
 
-<sup>1</sup> Das KAPA überwacht bei der Zuteilung von Heilmitteln die Einhaltung der Prioritätenliste nach Artikel 61 EpV.
+<sup>1</sup> Das Gesundheitsamt überwacht bei der Zuteilung von Heilmitteln die Einhaltung der Prioritätenliste nach Artikel 61 EpV.
 
 #### Art. 10
 

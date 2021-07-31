@@ -4,13 +4,13 @@ number: "815.122"
 title: Ordonnance portant introduction de la législation fédérale sur les épidémies
 short: OiLEp
 language: fr
-version: 2016-01-01
-valid_until: 2021-07-31
-version_adopted: 2015-12-09
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-30
 adopted: 2015-12-09
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.122"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/921/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2322/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/921/pdf_file"
 
 (OiLEp)
 
-du 09.12.2015 (état au 01.01.2016)
+du 09.12.2015 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -40,19 +40,19 @@ arrête:
 
 #### Art. 2
 
-**Compétence générale de l'Office du médecin cantonal**
+**Compétence générale de l'Office de la santé**
 
-<sup>1</sup> Sauf disposition contraire de la présente ordonnance, l'Office du médecin cantonal (OMC) est l'autorité cantonale compétente pour exécuter la législation fédérale sur les épidémies.
+<sup>1</sup> Sauf disposition contraire de la présente ordonnance, l'Office de la santé (ODS) est l'autorité cantonale compétente pour exécuter la législation fédérale sur les épidémies, à l'exception des tâches que cette dernière délègue directement au médecin cantonal ou à la médecin cantonale.
 
 #### Art. 3
 
 **Obligation de déclarer**
 
-<sup>1</sup> Outre l'OMC, sont également réputées autorités cantonales tenues de déclarer au sens de l'article 12, alinéa 4 LEp
+<sup>1</sup> Outre l'ODS, sont également réputées autorités cantonales tenues de déclarer au sens de l'article 12, alinéa 4 LEp
 
 - a le Service vétérinaire cantonal,
 - b le Laboratoire cantonal,
-- c l’Office du pharmacien cantonal (OPHC).
+- c …
 
 #### Art. 4
 
@@ -64,7 +64,7 @@ arrête:
 
 **Surveillance du procédé de stérilisation**
 
-<sup>1</sup> L'OPHC veille au respect des prescriptions de stérilisation selon l'article 25 OEp.
+<sup>1</sup> L'ODS veille au respect des prescriptions de stérilisation selon l'article 25 OEp.
 
 #### Art. 6
 
@@ -88,7 +88,7 @@ arrête:
 
 **Liste des priorités en cas d'attribution des produits thérapeutiques**
 
-<sup>1</sup> L'OPHC veille au respect des priorités en cas d'attribution des produits thérapeutiques selon l'article 61 OEp.
+<sup>1</sup> L'ODS veille au respect des priorités en cas d'attribution des produits thérapeutiques selon l'article 61 OEp.
 
 #### Art. 10
 
