@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-15
+version: 2021-08-01
+valid_until: 2022-01-31
+version_adopted: 2021-07-05
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5087/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5093/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. Januar 2021)
+vom 25. Oktober 2004 (Stand 1. August 2021)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -5200,6 +5200,8 @@ Diplom gemäss Art. 19\* des Reglementes über die 20 Anerkennung von Hochschuld
 
 **LK**
 
+**15 12**
+
 Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 15 des Reglementes über die 21 Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik) vom 12. Juni 2008[^384-3] Diplom gemäss Art. 22\* des Reglementes über die 20 Anerkennung der Diplome im Bereich der Sonderpädagogik (Vertiefungsrichtung Heilpädagogische Früherziehung und Vertiefungsrichtung Schulische Heilpädagogik vom 12. Juni 2008[^384-4]
 
 sowie kantonales Bezirkslehrerpatent
@@ -5220,11 +5222,15 @@ Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 18 tragte tent Hochsch
 
 Kategorie Voraussetzung Lehrpersonen Diplom gemäss den Art. 10 und 18\* des Regle- 18 mentes über die Anerkennung von Hochschuldiplomen für Lehrkräfte der Vorschulstufe und der Primarstufe vom 10. Juni 1999[^384-5] Andere kantonale Primarschulpatente oder Son- 18 derpädagogik- bzw. Heilpädagogik-Patente oder Sekundarstufenpatente Arbeitslehrerinnenpatent mit Präsenzstudium als 18 Fachvertiefung von mindestens 100 Stunden Arbeitslehrerinnenpatent
 
-**17**
+**17 17**
 
-Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
+Lehrbeauf- Kantonales Kindergärtnerinnendiplom tragte[^384-6] Hochschulstudium
 
-<sup>4</sup> …[^384-6]
+Hochschulstudium ohne Abschluss
+
+oder Studierende Berufsausbildung oder Maturität
+
+<sup>4</sup> …[^384-7]
 
 <sup>5</sup> Lehrpersonen und Lehrbeauftragte für den Kindergartenunterricht werden wie folgt eingereiht (ab 1. August 2012):
 
@@ -5232,7 +5238,7 @@ Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom
 
 Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 10 des Reglementes über die 18 Anerkennung von Hochschuldiplomen für Lehrkräfte der Vorschulstufe und der Primarstufe vom
 
-\10. Juni 1999[^384-7] oder Primarschulpatent
+\10. Juni 1999[^384-8] oder Primarschulpatent
 
 Kindergärtnerinnendiplom mit Präsenzstudium 18 als Fachvertiefung von mindestens 100 Stunden
 
@@ -5248,7 +5254,7 @@ Lehrbeauf- Hochschuldiplom tragte Hochschulstudium ohne Abschluss oder Studie- 1
 
 **LK**
 
-Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes über die 18 Anerkennung der Hochschuldiplome in Logopädie und der Hochschuldiplome in Psychomotoriktherapie vom 3. November 2000[^384-8] Altrechtliche Diplome in Logopädie Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
+Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes über die 18 Anerkennung der Hochschuldiplome in Logopädie und der Hochschuldiplome in Psychomotoriktherapie vom 3. November 2000[^384-9] Altrechtliche Diplome in Logopädie Lehrbeauf- Hochschuldiplom oder kantonales Kindergärtne- 15 tragte rinnendiplom Hochschulstudium ohne Abschluss oder Studie- 12 rende Berufsausbildung oder Maturität
 
 **19**
 
@@ -5261,14 +5267,15 @@ Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes übe
 [^384-3]: EDK Rechtssammlung 4.2.2.2.
 [^384-4]: EDK Rechtssammlung 4.2.2.2.
 [^384-5]: EDK Rechtssammlung 4.2.2.3.
-[^384-6]: § 384 Absatz 4 aufgehoben am 26. Juni 2012.
-[^384-7]: EDK Rechtssammlung 4.2.2.3.
-[^384-8]: EDK Rechtssammlung 4.2.2.5.
-[^384-9]: § 385 Fassung vom 20. Juni 2011.
+[^384-6]: § 384 Absatz 3 Abschnitt «Lehrbeauftragte» Fassung vom 5. Juli 2021.
+[^384-7]: § 384 Absatz 4 aufgehoben am 26. Juni 2012.
+[^384-8]: EDK Rechtssammlung 4.2.2.3.
+[^384-9]: EDK Rechtssammlung 4.2.2.5.
+[^384-10]: § 385 Fassung vom 20. Juni 2011.
 
 #### § 385
 
-**9**[^384-9]
+**9**[^384-10]
 
 **Einreihung der Stellvertretenden**
 
@@ -6896,7 +6903,9 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 28\. April 2020 am 1. Mai 2020;
 
-- 15\. Dezember 2020 am 1. Januar 2021.
+- 15\. Dezember 2020 am 1. Januar 2021;
+
+- 5\. Juli 2021 am 1. August 2021.
 
 ## Weitere Fussnoten
 
