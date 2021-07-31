@@ -3,29 +3,28 @@ canton: AI
 number: "413.011"
 title: Standeskommissionsbeschluss betreffend Brückenangebote
 language: de
-version: 2014-09-16
-corrected: 2018-09-04
-version_adopted: 2014-09-16
+version: 2021-08-01
+valid_until: 2026-09-30
+version_adopted: 2021-10-26
 adopted: 2008-05-26
 in_force: 2008-05-26
 url: "https://ai.clex.ch/app/de/texts_of_law/413.011"
-pdf: "https://ai.clex.ch/api/de/versions/452/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/1969/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss betreffend Brückenangebote
 
-vom 26. Mai 20081
+vom 26.05.2008 (Stand 01.08.2021)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
-gestützt auf Art. 3 der Schulverordnung vom 21. Juni 2004 (SchV),2
+gestützt auf Art. 3 der Schulverordnung vom 21. Juni 2004 (SchV),
 
 beschliesst:
 
-#### Art. 13
+#### Art. 1
 
 **Zweck**
 
@@ -47,23 +46,24 @@ beschliesst:
 
 **Dauer**
 
-Ein Brückenangebot dauert höchstens ein Schuljahr.
+<sup>1</sup> Ein Brückenangebot dauert höchstens ein Schuljahr.
 
-#### Art. 41
+#### Art. 4
 
 **Beteiligung des Kantons**
 
-<sup>1</sup> Das Erziehungsdepartement bewilligt eine Beteiligung des Kantons an den Aufwendungen für eigene oder anerkannte Brückenangebote, wenn a) der Jugendliche\* das Brückenangebot für den Eintritt oder Wiedereintritt in die berufliche Bildung braucht;
+<sup>1</sup> Das Erziehungsdepartement bewilligt eine Beteiligung des Kantons an den Aufwendungen für eigene oder anerkannte Brückenangebote, wenn
 
+- a) der Jugendliche[^4-1] das Brückenangebot für den Eintritt oder Wiedereintritt in die berufliche Bildung braucht;
 - b) zu erwarten ist, dass das Brückenangebot erfolgreich absolviert werden kann;
-
 - c) der Jugendliche motiviert ist für den Besuch des Brückenangebotes;
-
 - d) das bisherige Verhalten genügend war.
 
-<sup>2</sup> Die Beteiligung umfasst höchstens ein Brückenangebot. Die Standeskommission kann in Ausnahmefällen einen Beitrag für eine Wiederholung oder ein weiteres Brückenangebot bewilligen.
+<sup>2</sup> Die Beteiligung umfasst ein oder mehrere Brückenangebote mit einer Dauer von insgesamt höchstens einem Jahr. Die Standeskommission kann in Ausnahmefällen einen Beitrag für eine Wiederholung oder ein weiteres Brückenangebot bewilligen.
 
 <sup>3</sup> Fallen die Voraussetzungen für die kantonale Beteiligung dahin, kann das Erziehungsdepartement einen Entzug anordnen.
+
+[^4-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
 #### Art. 5
 
@@ -72,9 +72,7 @@ Ein Brückenangebot dauert höchstens ein Schuljahr.
 <sup>1</sup> Vor der definitiven Anmeldung für das Brückenangebot ist ein schriftliches Gesuch an das Departement zu richten, unter Beilage folgender Unterlagen:
 
 - a) die Bestätigung einer Fachperson (Lehrkraft, Berufsberater) über die Notwendigkeit des Besuchs eines Brückenangebotes;
-
 - b) der Nachweis, dass trotz aller zumutbaren Bemühungen während der obligatorischen Schulzeit keine Lehrstelle gefunden wurde;
-
 - c) die Zeugniskopien der letzten drei Schuljahre.
 
 <sup>2</sup> Das Erziehungsdepartement kann weitere oder andere Unterlagen einfordern.
@@ -85,33 +83,34 @@ Ein Brückenangebot dauert höchstens ein Schuljahr.
 
 **Beitragshöhe und -form**
 
-<sup>1</sup> Der Kantonsbeitrag beträgt 90 % des effektiven Schulgeldbeitrages, höchstens aber Fr. 12'000.-- pro Schüler.
+<sup>1</sup> Der Kantonsbeitrag beträgt 90% des effektiven Schulgeldbeitrages, höchstens aber Fr. 12'000.-- pro Schüler.
 
-<sup>2</sup> Handelt es sich um ein Angebot des Kantons, wird der Beitrag des Kantons durch Bereitstellen des Angebotes erbracht, wobei die Kostengrenzen gemäss vorstehendem Absatz gelten, so dass 10 % der Kosten oder ein Fr. 12'000.-- übersteigender Betrag als Schulgeld erhoben wird.
+<sup>2</sup> Handelt es sich um ein Angebot des Kantons, wird der Beitrag des Kantons durch Bereitstellen des Angebotes erbracht, wobei die Kostengrenzen gemäss vorstehendem Absatz gelten, so dass 10% der Kosten oder ein Fr. 12'000.-- übersteigender Betrag als Schulgeld erhoben wird.
 
 <sup>3</sup> Der Kanton kann das gesamte Schulgeld des Brückenangebotes übernehmen, sofern dieses als erstes Lehrjahr einer eidgenössischen beruflichen Grundbildung anerkannt wird.
 
-<sup>4</sup> In Härtefällen kann die Standeskommission auf Gesuch hin die Übernahme der Schulkosten bis zum Gesamtbetrag bewilligen.
+<sup>4</sup> …
 
-#### Art. 71
+#### Art. 7
 
 **Auszahlung**
 
-<sup>1</sup> Die Auszahlung des Kantonsbeitrages erfolgt nach erfolgreichem Abschluss des Schuljahres unter der Bedingung, dass a) das Brückenangebot nachweislich absolviert wurde;
+<sup>1</sup> Die Auszahlung des Kantonsbeitrages erfolgt nach erfolgreichem Abschluss des Schuljahres unter der Bedingung, dass
 
+- a) das Brückenangebot nachweislich absolviert wurde;
 - b) eine berufliche Lösung gefunden wurde oder der Nachweis erbracht wird, dass dies trotz grösster Bemühungen nicht gelungen ist;
-
 - c) eine quittierte Schulgeldrechnung vorgelegt wird.
 
-<sup>2</sup> In Härtefällen kann das Departement den Kantonsbeitrag früher auszahlen, im Regelfall direkt an das Brückenangebot. Es verfügt eine Rückzahlung durch den Jugendlichen oder dessen Eltern, wenn das Angebot nicht ordentlich absolviert wurde oder wenn a) im Falle einer fehlenden beruflichen Lösung kein Nachweis erbracht ist, dass dies trotz grösster Bemühungen nicht gelungen ist;
+<sup>2</sup> In Härtefällen kann das Departement den Kantonsbeitrag früher auszahlen, im Regelfall direkt an den Anbieter des Brückenangebots. Es verfügt eine Rückzahlung durch den Jugendlichen oder dessen Eltern, wenn das Angebot nicht ordentlich absolviert wurde oder wenn
 
+- a) im Falle einer fehlenden beruflichen Lösung kein Nachweis erbracht ist, dass dies trotz grösster Bemühungen nicht gelungen ist;
 - b) im Falle der unterbliebenen Direktzahlung kein quittierte Schulgeldrechnung vorgelegt wird.
 
 #### Art. 8
 
 **Stipendien**
 
-Für Brückenangebote werden keine Stipendien ausgerichtet, es sei denn, sie bilden einen anerkannten Teil der beruflichen Ausbildung.
+<sup>1</sup> …
 
 #### Art. 9
 
@@ -125,51 +124,32 @@ Für Brückenangebote werden keine Stipendien ausgerichtet, es sei denn, sie bil
 
 **Aufhebung bisherigen Rechts**
 
-Die Beschlüsse der Standeskommission betreffend das fakultative zehnte Schuljahr vom 13. Juni 2006 (GS 411.013) sowie über die Berufsbildung vom 27. Juni 2006 (GS 413.011) werden aufgehoben.
+<sup>1</sup> Die Beschlüsse der Standeskommission betreffend das fakultative zehnte Schuljahr vom 13. Juni 2006 (GS 411.013) sowie über die Berufsbildung vom 27. Juni 2006 (GS 413.011) werden aufgehoben.
 
 #### Art. 11
 
 **Inkrafttreten**
 
-Dieser Beschluss tritt nach Annahme durch die Standeskommission in Kraft.
+<sup>1</sup> Dieser Beschluss tritt nach Annahme durch die Standeskommission in Kraft.
 
-[^11-1]: Abgeändert durch StkB vom 28. April 2009, 2. November 2010 und 25. März 2014 (Inkrafttreten: 1. August 2014).
+## A1. Anhang 1: Liste der anerkannten ausserkantonalen Brückenangebote
 
-### Anhang
+#### Art. A1-1
 
-[^11-1]
+<sup>1</sup>
 
-Liste der anerkannten ausserkantonalen Brückenangebote
+- 1\. schulische Brückenangebote
+  - a) Berufsvorbereitungsjahr GBS St.Gallen
+  - b) …
+  - c) …
+  - d) …
+- 2\. kombinierte Brückenangebote (berufspraktisch und schulisch)
+  - a) Vorlehre GBS St.Gallen
+  - b) Brücke AR
+  - c) …
+- 3\. Sprachaufenthalte
+  - a) Didac-Schulen AG
+  - b) go 2 talk (Au-pair)
+  - c) Pro Filia (Au-pair)
 
-- 1\. Angebote zur Vorbereitung zur beruflichen Grundbildung
-
-- a) Berufsvorbereitungsjahr GBS St.Gallen
-
-- b) Zehntes Schuljahr SBW Herisau
-
-- c) Gestalterischer Vorkurs varwe Wil
-
-- d) Integrationskurs für Fremdsprachige GBS St.Gallen
-
-- 2\. Sprachaufenthalte
-
-- a) Didac-Schulen
-
-- b) Go2talk (Au-pair)
-
-- c) Profilia (Au-pair)
-
-- 3\. Berufspraktische, einjährige Angebote mit schulischem Anteil
-
-- a) Vorlehre GBS St.Gallen
-
-- b) Brücke AR
-
-## Weitere Fussnoten
-
-- [1] Mit Revisionen vom 28. April 2009, 2. November 2010, 25. März 2014 und 16. September 2014.
-- [2] Ingress abgeändert durch StKB vom 16. September 2014.
-- [3] Abgeändert (Abs. 1) durch StKB vom 2. November 2010.
-- [1] Abgeändert (Abs. 1 lit. a) durch StKB vom 2. November 2010.
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [1] Neue Fassung durch StKB vom 2. November 2010.
+cGS -
