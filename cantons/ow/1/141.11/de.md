@@ -4,20 +4,22 @@ number: "141.11"
 title: Personalverordnung
 short: PV
 language: de
-version: 2019-01-01
-valid_until: 2021-07-31
-version_adopted: 2018-12-17
+version: 2021-08-01
+valid_until: 2024-12-31
+version_adopted: 2021-05-27
 adopted: 1998-01-29
 in_force: 1999-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/141.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1338/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1663/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Personalverordnung
 
-vom 29.01.1998 (Stand 01.01.2019)
+(PV)
+
+vom 29.01.1998 (Stand 01.08.2021)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -85,7 +87,7 @@ beschliesst:
 
 <sup>3</sup> Die Personalkommission berät den Regierungsrat in grundsätzlichen Personalfragen. Sie erarbeitet zuhanden des Regierungsrates die Vorlagen zu allgemeinverbindlichen Personalerlassen und nimmt zu grundlegenden Entscheiden Stellung, die das Personal betreffen.
 
-<sup>4</sup> Die Personalkommission entscheidet erstinstanzlich über Beschwerden zur Stellenbewertung.
+<sup>4</sup> …
 
 <sup>5</sup> Der Regierungsrat oder die Kommission kann die Erfüllung einzelner Aufgaben der Personalkommission an Ausschüsse übertragen.
 
@@ -227,8 +229,11 @@ beschliesst:
 
 <sup>2</sup> Angestellte haben zudem Anspruch auf bezahlten Kurzurlaub, wenn besondere private Ereignisse und Verpflichtungen dies rechtfertigen. Es besteht insbesondere Anspruch auf:
 
-- a. einen freien Tag für die eigene Trauung, die Geburt eines eigenen Kindes, die Trauung eines eigenen Kindes oder für den Umzug des eigenen Haushaltes;
-- b. bis drei freie Tage für Todesfälle in der eigenen Familie (Ehepartner, Kinder, Eltern oder Schwiegereltern).
+- a. einen freien Arbeitstag bei der eigenen Heirat (einschliesslich ziviler Trauung) oder bei Eintragung der Partnerschaft;
+- b. einen freien Arbeitstag bei der Heirat (einschliesslich ziviler Trauung) oder bei Eintragung der Partnerschaft eines eigenen Kindes;
+- c. die erforderliche Zeit bis einen freien Arbeitstag bei Umzug des eigenen Haushaltes;
+- d. bis drei freie Arbeitstage beim Tod des Ehegatten oder der Ehegattin, des eingetragenen Partners oder der eingetragenen Partnerin, des Lebenspartners oder der Lebenspartnerin, eines Eltern- oder Schwiegerelternteils oder eines Kindes;
+- e. die erforderliche Zeit bis zu drei freien Arbeitstagen bei einer Erkrankung oder einem Unfall eines Familienmitglieds, des eingetragenen Partners oder der eingetragenen Partnerin, des Lebenspartners oder der Lebenspartnerin für die erste Pflege und die Organisation der weiteren Pflege.
 
 #### Art. 20
 
@@ -280,7 +285,11 @@ beschliesst:
 
 **Stellenbewertung**
 
-<sup>1</sup> Die Anforderungen und Belastungen jeder Stelle werden durch das Personalamt im Einvernehmen mit dem zuständigen Departement personen- und geschlechtsunabhängig bewertet. Der Regierungsrat legt durch Ausführungsbestimmungen das System der Stellenbewertung sowie Verfahren und Zuständigkeiten bei der Bewertung im einzelnen fest.
+<sup>1</sup> Die Anforderungen und Belastungen jeder Stelle werden durch das Personalamt auf Antrag des zuständigen Departements personen- und geschlechtsunabhängig bewertet. Der Regierungsrat legt durch Ausführungsbestimmungen das System der Stellenbewertung im Einzelnen fest.
+
+<sup>2</sup> Die Angestellten können die sie betreffende Stellenbewertung des Personalamts innert 20 Tagen beim Regierungsrat anfechten.
+
+<sup>3</sup> Das Personalamt entscheidet unabhängig von Antrag oder Weisungen der Departemente und informiert den Regierungsrat jährlich über Änderungen von Stellenbewertungen.
 
 #### Art. 23
 
@@ -330,7 +339,7 @@ beschliesst:
 
 <sup>1</sup> Nach zehn Dienstjahren und anschliessend nach je weiteren fünf Dienstjahren erhalten die Angestellten eine Treueprämie von 1 500 Franken oder eine Woche bezahlten Urlaub.
 
-<sup>2</sup> Lehrerinnen und Lehrern wird die Treueprämie ausbezahlt.
+<sup>2</sup> Lehrpersonen wird die Treueprämie ausbezahlt.
 
 <sup>3</sup> Wurde das Dienstverhältnis unterbrochen, so werden die Dienstjahre vor dem Unterbruch mitgezählt. Unbezahlter Urlaub von mehr als einem Monat gilt nicht als Dienstzeit.
 
@@ -340,17 +349,17 @@ beschliesst:
 
 **Steuerung des gesamten Personalaufwandes**
 
-<sup>1</sup> Der Regierungsrat beantragt dem Kantonsrat mit dem Voranschlag die aufgrund der zu erbringenden Leistungen notwendige Lohnsumme.
+<sup>1</sup> Der Regierungsrat beantragt dem Kantonsrat mit dem Budget die aufgrund der zu erbringenden Leistungen notwendige Lohnsumme.
 
 <sup>2</sup> Der Regierungsrat berücksichtigt bei der Berechnung der gesamten Lohnsumme das Ausmass aller zu erfüllenden Aufgaben, die Entwicklung der Lebenshaltungskosten, die allgemeine Wirtschaftslage, die personal- und lohnpolitischen Zielsetzungen, die Finanzlage der Gemeinwesen sowie die Lage auf dem Arbeitsmarkt.
 
-<sup>3</sup> Der Regierungsrat hört die Personalverbände vor der Verabschiedung des Voranschlages zuhanden des Kantonsrates an.
+<sup>3</sup> Der Regierungsrat hört die Personalverbände vor der Verabschiedung des Budgets zuhanden des Kantonsrats an.
 
 #### Art. 29
 
 **Vorgaben des Regierungsrates**
 
-<sup>1</sup> Nach Genehmigung des Voranschlages entscheidet der Regierungsrat über die Verwendung der bewilligten Lohnsumme.
+<sup>1</sup> Nach Genehmigung des Budgets entscheidet der Regierungsrat über die Verwendung der bewilligten Lohnsumme.
 
 <sup>2</sup> Für die jährliche Neubestimmung der Leistungslohnanteile sowie für Prämien müssen im Hinblick auf die Lohngerechtigkeit ausreichende Mittel zur Verfügung stehen. Der Regierungsrat kann alle Vorjahreslöhne anheben oder kürzen, sofern die Umsetzung der Personal- und Lohnpolitik oder die allgemeine Wirtschafts- und Finanzlage sowie die Lage auf dem Arbeitsmarkt dies rechtfertigen.
 
@@ -406,6 +415,20 @@ beschliesst:
 
 [^34-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
+#### Art. 34a
+
+**Vaterschaftsurlaub**
+
+<sup>1</sup> Der Angestellte hat vom Tag der Geburt des Kindes an Anspruch auf einen Vaterschaftsurlaub von zwei Wochen.
+
+<sup>2</sup> Dauert das Arbeitsverhältnis vor der Geburt des Kindes mindestens zwei Jahre, so hat der Angestellte während des gesamten Vaterschaftsurlaubs Anspruch auf 100 Prozent des Grundlohns. Andernfalls besteht Anspruch auf die Vaterschaftsentschädigung gemäss dem Bundesgesetz über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz) [^34a-1].
+
+<sup>3</sup> Die durch die Ausgleichskasse zu entrichtenden Erwerbsausfallentschädigungen fallen an den Arbeitgeber.
+
+<sup>4</sup> Die Anspruchsvoraussetzungen, die Rahmenfrist sowie der Beginn und das Ende des Anspruchs richten sich nach dem Erwerbsersatzgesetz.
+
+[^34a-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
+
 #### Art. 35
 
 **Unfallversicherung**
@@ -420,7 +443,7 @@ beschliesst:
 
 <sup>1</sup> Arbeitsunfähig ist, wem wegen Krankheit oder Unfall die Fortsetzung der Arbeit nicht zugemutet werden kann.
 
-<sup>2</sup> Für eine Arbeitsunfähigkeit von mehr als drei Arbeitstagen ist unaufgefordert ein Arztzeugnis vorzulegen.
+<sup>2</sup> Für eine Arbeitsunfähigkeit von mehr als sieben Kalendertagen ist unaufgefordert ein Arztzeugnis vorzulegen. In Ausnahmefällen kann bereits vorher ein Arztzeugnis verlangt werden.
 
 <sup>3</sup> Gibt der gesundheitliche Zustand von Angestellten zu Besorgnis Anlass oder bestehen Zweifel an der Leistungsfähigkeit, so kann die für die Anstellung zuständige Stelle oder das Personalamt ein Arztzeugnis verlangen oder die Durchführung einer vertrauensärztlichen Untersuchung veranlassen.
 
@@ -567,7 +590,9 @@ geändert durch:
 
 \- Nachtrag vom 1. Dezember 2011, in Kraft seit 1. Januar 2012 (OGS 2011, 70, OGS 2012, 1),
 
-\- Nachtrag vom 17. Dezember 2018 (OGS 2018, 46), Botschaft und Vorlage des Regierungsrats vom 13. November 2018, Kantonsratssitzungen vom 5. und 17. Dezember 2018 (22.18.05), in Kraft seit 1. Januar 2019 (OGS 2019, 5)
+\- Nachtrag vom 17. Dezember 2018 (OGS 2018, 46), Botschaft und Vorlage des Regierungsrats vom 13. November 2018, Kantonsratssitzungen vom 5. und 17. Dezember 2018 (22.18.05), in Kraft seit 1. Januar 2019 (OGS 2019, 5),
+
+\- Nachtrag vom 27. Mai 2021 (OGS 2021, 20), Botschaft und Vorlage des Regierungsrats vom 22. März 2021, Kantonsratssitzungen vom 27. Mai 2021 (22.21.01), in Kraft seit 1. August 2021 (OGS 2021, 27)
 
 Der Nachtrag vom 11. September 2008 (Vaterschaftsurlaub; OGS 2008, 71, OGS 2009, 67) wurde an der Volksabstimmung vom 8. Februar 2009 (OGS 2009, 11) abgelehnt
 
