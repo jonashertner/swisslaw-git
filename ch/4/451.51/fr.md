@@ -3,18 +3,20 @@ sr: "451.51"
 title: Loi fédérale du 3 mai 1991 accordant une aide financière en faveur de la sauvegarde et de la gestion de paysages ruraux traditionnels
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1974_1974_1974"
 language: fr
-version: 2011-08-01
+version: 2021-08-01
 adopted: 1991-05-03
 in_force: 1991-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1974_1974_1974/20110801/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1974_1974_1974-20110801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1974_1974_1974/20110801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1974_1974_1974/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-1991-1974_1974_1974-20210801-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1974_1974_1974/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Arrêté fédéral accordant une aide financière en faveur de la sauvegarde et de la gestion de paysages ruraux traditionnels
+# Loi fédérale accordant une aide financière en faveur de la sauvegarde et de la gestion de paysages ruraux traditionnels
 
-du 3 mai 1991 (Etat le 1<sup>er</sup> août 2011)
+du 3 mai 1991 (État le 1<sup>er</sup> août 2021)[^t-1]
+
+[^t-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [FF 2018 7051](https://fedlex.data.admin.ch/eli/fga/2018/2476)[7065](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -77,13 +79,15 @@ L’aide peut représenter, selon l’importance du projet, 80 % de coûts déte
 
 [^6-1]
 
-[^6-1]: Abrogé par le ch. I de la LF du 8 oct. 1999 ([RO 2000 935](https://fedlex.data.admin.ch/eli/oc/2000/141); FF **1999** 861 880).
+[^6-1]: Abrogé par le ch. I de la LF du 8 oct. 1999, avec effet au 1<sup>er</sup> août 2011 ([RO 2000 935](https://fedlex.data.admin.ch/eli/oc/2000/141); FF **1999** 861 880).
 
 #### Art. 7
 
-**Relations avec d’autres subventions**
+**Relations avec d’autres subventions**[^7-1]
 
-L’aide accordée au titre du présent arrêté peut s’ajouter à d’autres aides financières ou indemnités, sauf dispositions contraires.
+L’aide accordée au titre de la présente loi peut s’ajouter à d’autres aides financières ou indemnités, sauf dispositions contraires.
+
+[^7-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [FF 2018 7051](https://fedlex.data.admin.ch/eli/fga/2018/2476)[7065](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
 
 #### Art. 8
 
@@ -99,7 +103,10 @@ L’aide accordée au titre du présent arrêté peut s’ajouter à d’autres 
 
 <sup>2</sup> Le Conseil fédéral nomme le président de la commission. Pour le reste, elle se constitue elle-même et désigne son secrétariat; elle se donne un règlement, qui doit être approuvé par le Département fédéral de l’environnement, des transports, de l’énergie et de la communication[^9-1].
 
-[^9-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+<sup>3</sup> Le personnel du secrétariat est engagé sur la base de contrats de droit privé et rémunéré par le fonds.[^9-2]
+
+[^9-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^9-2]: Introduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [FF 2018 7051](https://fedlex.data.admin.ch/eli/fga/2018/2476)[7065](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
 
 #### Art. 10
 
@@ -111,7 +118,17 @@ L’aide accordée au titre du présent arrêté peut s’ajouter à d’autres 
 
 <sup>3</sup> Le fonds est administré par la commission.
 
-<sup>4</sup> Le solde éventuel du fonds, au terme de la validité du présent arrêté, sera utilisé pour accorder des aides financières ou des indemnités, conformément aux objectifs fixés à l’article premier.
+<sup>4</sup> Le solde éventuel du fonds, au terme de la validité de la présente loi, sera utilisé pour accorder des aides financières ou des indemnités, conformément aux objectifs fixés à l’article premier.[^10-1]
+
+[^10-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [FF 2018 7051](https://fedlex.data.admin.ch/eli/fga/2018/2476)[7065](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
+
+#### Art. 10a
+
+**Gestion des actifs**[^10a-1]
+
+L’Administration fédérale des finances gère les liquidités du fonds dans sa trésorerie centrale.
+
+[^10a-1]: Inroduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [FF 2018 7051](https://fedlex.data.admin.ch/eli/fga/2018/2476)[7065](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
 
 #### Art. 11
 
@@ -125,6 +142,9 @@ L’aide accordée au titre du présent arrêté peut s’ajouter à d’autres 
 
 <sup>4</sup> La validité du présent arrêté est prorogée jusqu’au 31 juillet 2021. [^11-3]
 
+<sup>5</sup> La validité de la présente loi est prorogée jusqu’au 31 juillet 2031.[^11-4]
+
 [^11-1]: Nouvelle teneur selon le ch. I de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2010 4999](https://fedlex.data.admin.ch/eli/oc/2010/706); FF **200****9** 6853 6867).
 [^11-2]: Introduit par le ch. I de la LF du 8 oct. 1999, en vigueur depuis le 1<sup>er</sup> août 2001 ([RO 2000 935](https://fedlex.data.admin.ch/eli/oc/2000/141); FF **1999** 861 880).
 [^11-3]: Introduit par le ch. I de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2010 4999](https://fedlex.data.admin.ch/eli/oc/2010/706); FF **200****9** 6853 6867).
+[^11-4]: Inroduit par le ch. I de la LF du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [FF 2018 7051](https://fedlex.data.admin.ch/eli/fga/2018/2476)[7065](https://fedlex.data.admin.ch/eli/fga/2018/2479)).

@@ -3,18 +3,20 @@ sr: "451.51"
 title: Legge federale del 3 maggio 1991 che accorda un aiuto finanziario per la conservazione e la tutela dei paesaggi rurali tradizionali
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1974_1974_1974"
 language: it
-version: 2011-08-01
+version: 2021-08-01
 adopted: 1991-05-03
 in_force: 1991-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1974_1974_1974/20110801/it/xml/fedlex-data-admin-ch-eli-cc-1991-1974_1974_1974-20110801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1974_1974_1974/20110801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1974_1974_1974/20210801/it/xml/fedlex-data-admin-ch-eli-cc-1991-1974_1974_1974-20210801-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1974_1974_1974/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Decreto federale che accorda un aiuto finanziario per la conservazione e la tutela dei paesaggi rurali tradizionali
+# Legge federale che accorda un aiuto finanziario per la conservazione e la tutela dei paesaggi rurali tradizionali
 
-del 3 maggio 1991 (Stato 1° agosto 2011)
+del 3 maggio 1991 (Stato 1° agosto 2021)[^t-1]
+
+[^t-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° ago. 2021 ([RU 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [FF 2018 5945](https://fedlex.data.admin.ch/eli/fga/2018/2476)[5959](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -77,13 +79,15 @@ L’aiuto finanziario ammonta, a seconda dell’importanza del provvedimento, fi
 
 [^6-1]
 
-[^6-1]: Abrogato dal n. I della LF dell’8 ott. 1999 ([RU 2000 935](https://fedlex.data.admin.ch/eli/oc/2000/141); FF **1999** 818 837).
+[^6-1]: Abrogato dal n. I della LF dell’8 ott. 1999, con effetto dal 1° ago. 2001 ([RU 2000 935](https://fedlex.data.admin.ch/eli/oc/2000/141); FF **1999** 818 837).
 
 #### Art. 7
 
-**Rapporto con altri sussidi**
+**Rapporto con altri sussidi**[^7-1]
 
-L’aiuto finanziario previsto dal presente decreto può essere concesso in complemento di altri sussidi o indennità, a condizione che i relativi atti legislativi non lo escludano.
+L’aiuto finanziario previsto dalla presente legge può essere concesso in complemento di altri sussidi o indennità, a condizione che i relativi atti legislativi non lo escludano.
+
+[^7-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° ago. 2021 ([RU 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [FF 2018 5945](https://fedlex.data.admin.ch/eli/fga/2018/2476)[5959](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
 
 #### Art. 8
 
@@ -99,7 +103,10 @@ L’aiuto finanziario previsto dal presente decreto può essere concesso in comp
 
 <sup>2</sup> Il Consiglio federale nomina il presidente della Commissione. Per il resto la Commissione si costituisce da sé, istituisce la propria segreteria ed emana un regolamento di organizzazione, che sottostà all’approvazione del Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni[^9-1].
 
-[^9-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+<sup>3</sup> Il personale della segreteria è assunto in base a contratti di diritto privato e retribuito dal fondo.[^9-2]
+
+[^9-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^9-2]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° ago. 2021 ([RU 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [FF 2018 5945](https://fedlex.data.admin.ch/eli/fga/2018/2476)[5959](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
 
 #### Art. 10
 
@@ -111,7 +118,17 @@ L’aiuto finanziario previsto dal presente decreto può essere concesso in comp
 
 <sup>3</sup> Il fondo è gestito dalla Commissione.
 
-<sup>4</sup> Il saldo eventuale del fondo al termine della durata di validità del presente decreto sarà utilizzato per concedere aiuti finanziari o indennità conformemente alla finalità di cui all’articolo 1.
+<sup>4</sup> Il saldo eventuale del fondo al termine della durata di validità della presente legge sarà utilizzato per concedere aiuti finanziari o indennità conformemente alla finalità di cui all’articolo 1.[^10-1]
+
+[^10-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° ago. 2021 ([RU 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [FF 2018 5945](https://fedlex.data.admin.ch/eli/fga/2018/2476)[5959](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
+
+#### Art. 10a
+
+**Gestione degli attivi**[^10a-1]
+
+L’Amministrazione federale delle finanze gestisce le liquidità del fondo nell’ambito della sua tesoreria centrale.
+
+[^10a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° ago. 2021 ([RU 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [FF 2018 5945](https://fedlex.data.admin.ch/eli/fga/2018/2476)[5959](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
 
 #### Art. 11
 
@@ -125,5 +142,8 @@ L’aiuto finanziario previsto dal presente decreto può essere concesso in comp
 
 <sup>4</sup> La validità del presente decreto è prorogata sino al 31 luglio 2021.[^11-2]
 
+<sup>5</sup> La validità della presente legge è prorogata sino al 31 luglio 2031.[^11-3]
+
 [^11-1]: Introdotto dal n. I della LF dell’8 ott. 1999, in vigore dal 1° ago. 2001 ([RU 2000 935](https://fedlex.data.admin.ch/eli/oc/2000/141); FF **1999** 818 837).
 [^11-2]: Introdotto dal n. I della LF del 18 giu. 2010, in vigore dal 1° ago. 2011 ([RU 2010 4999](https://fedlex.data.admin.ch/eli/oc/2010/706); [FF 2009 6587](https://fedlex.data.admin.ch/eli/fga/2009/1350)[6603](https://fedlex.data.admin.ch/eli/fga/2009/1353)).
+[^11-3]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° ago. 2021 ([RU 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [FF 2018 5945](https://fedlex.data.admin.ch/eli/fga/2018/2476)[5959](https://fedlex.data.admin.ch/eli/fga/2018/2479)).

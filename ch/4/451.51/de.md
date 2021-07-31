@@ -3,20 +3,20 @@ sr: "451.51"
 title: Bundesgesetz vom 3. Mai 1991 über Finanzhilfen zur Erhaltung und Pflege naturnaher Kulturlandschaften
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1974_1974_1974"
 language: de
-version: 2011-08-01
+version: 2021-08-01
 adopted: 1991-05-03
 in_force: 1991-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1974_1974_1974/20110801/de/xml/fedlex-data-admin-ch-eli-cc-1991-1974_1974_1974-20110801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1974_1974_1974/20110801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1974_1974_1974/20210801/de/xml/fedlex-data-admin-ch-eli-cc-1991-1974_1974_1974-20210801-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1974_1974_1974/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Bundesbeschluss über Finanzhilfen zur Erhaltung und Pflege naturnaher Kulturlandschaften****
+# Bundesgesetz über Finanzhilfen zur Erhaltung und Pflege naturnaher Kulturlandschaften
 
-vom 3. Mai 1991 (Stand am 1. August 2011)[^t-1]
+vom 3. Mai 1991 (Stand am 1. August 2021)[^t-1]
 
-[^t-1]: Fassung gemäss Ziff. I des BG vom 8. Okt. 1999, in Kraft seit 1. Aug. 2001 ([AS 2000 935](https://fedlex.data.admin.ch/eli/oc/2000/141); BBl **1999** 949 970).
+[^t-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Aug. 2021 ([AS 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [BBl 2018 7061](https://fedlex.data.admin.ch/eli/fga/2018/2476)[7075](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -79,13 +79,15 @@ Die Finanzhilfe beträgt, je nach Bedeutung der Massnahme, bis zu 80 Prozent, au
 
 [^6-1]
 
-[^6-1]: Aufgehoben durch Ziff. I des BG vom 8. Okt. 1999 ([AS 2000 935](https://fedlex.data.admin.ch/eli/oc/2000/141); BBl **1999** 949 970).
+[^6-1]: Aufgehoben durch Ziff. I des BG vom 8. Okt. 1999, mit Wirkung seit 1. Aug. 2001 ([AS 2000 935](https://fedlex.data.admin.ch/eli/oc/2000/141); BBl **1999** 949 970).
 
 #### Art. 7
 
-**Verhältnis zu anderen Finanzhilfen**
+**Verhältnis zu anderen Finanzhilfen**[^7-1]
 
-Finanzhilfe nach diesem Beschluss kann zusätzlich zu anderen Finanzhilfen oder zu Abgeltungen gewährt werden, sofern die betreffenden Erlasse dies nicht ausschliessen.
+Finanzhilfe nach diesem Gesetz kann zusätzlich zu anderen Finanzhilfen oder zu Abgeltungen gewährt werden, sofern die betreffenden Erlasse dies nicht ausschliessen.
+
+[^7-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Aug. 2021 ([AS 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [BBl 2018 7061](https://fedlex.data.admin.ch/eli/fga/2018/2476)[7075](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
 
 #### Art. 8
 
@@ -101,7 +103,10 @@ Finanzhilfe nach diesem Beschluss kann zusätzlich zu anderen Finanzhilfen oder 
 
 <sup>2</sup> Der Bundesrat bestimmt den Präsidenten der Kommission. Im übrigen konstituiert sie sich selber, bestellt das Sekretariat und erlässt ein Organisationsreglement; dieses bedarf der Genehmigung des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation[^9-1].
 
-[^9-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+<sup>3</sup> Das Personal des Sekretariats wird privatrechtlich angestellt und durch den Fonds entschädigt.[^9-2]
+
+[^9-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^9-2]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Aug. 2021 ([AS 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [BBl 2018 7061](https://fedlex.data.admin.ch/eli/fga/2018/2476)[7075](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
 
 #### Art. 10
 
@@ -113,7 +118,17 @@ Finanzhilfe nach diesem Beschluss kann zusätzlich zu anderen Finanzhilfen oder 
 
 <sup>3</sup> Der Fonds wird durch die Kommission verwaltet.
 
-<sup>4</sup> Verbleibt nach Ablauf der Geltungsdauer dieses Beschlusses ein Restbetrag, wird er für Finanzhilfen und Abgeltungen im Sinne der Zweckbestimmung nach Artikel 1 verwendet.
+<sup>4</sup> Verbleibt nach Ablauf der Geltungsdauer dieses Gesetzes ein Restbetrag, wird er für Finanzhilfen und Abgeltungen im Sinne der Zweckbestimmung nach Artikel 1 verwendet.[^10-1]
+
+[^10-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Aug. 2021 ([AS 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [BBl 2018 7061](https://fedlex.data.admin.ch/eli/fga/2018/2476)[7075](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
+
+#### Art. 10a
+
+**Verwaltung der Aktiven**[^10a-1]
+
+Die Eidgenössische Finanzverwaltung verwaltet im Rahmen ihrer zentralen Tresorerie die liquiden Mittel des Fonds.
+
+[^10a-1]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Aug. 2021 ([AS 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [BBl 2018 7061](https://fedlex.data.admin.ch/eli/fga/2018/2476)[7075](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
 
 #### Art. 11
 
@@ -127,5 +142,8 @@ Finanzhilfe nach diesem Beschluss kann zusätzlich zu anderen Finanzhilfen oder 
 
 <sup>4</sup> Die Geltungsdauer dieses Beschlusses wird bis zum 31. Juli 2021 verlängert.[^11-2]
 
+<sup>5</sup> Die Geltungsdauer dieses Gesetzes wird bis zum 31. Juli 2031 verlängert.[^11-3]
+
 [^11-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 1999, in Kraft seit 1. Aug. 2001 ([AS 2000 935](https://fedlex.data.admin.ch/eli/oc/2000/141); BBl **1999** 949 970).
 [^11-2]: Eingefügt durch Ziff. I des BG vom 18. Juni 2010, in Kraft seit 1. Aug. 2011 ([AS 2010 4999](https://fedlex.data.admin.ch/eli/oc/2010/706); [BBl 2009 7583](https://fedlex.data.admin.ch/eli/fga/2009/1350)[7597](https://fedlex.data.admin.ch/eli/fga/2009/1353)).
+[^11-3]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Aug. 2021 ([AS 2019 2337](https://fedlex.data.admin.ch/eli/oc/2019/437); [BBl 2018 7061](https://fedlex.data.admin.ch/eli/fga/2018/2476)[7075](https://fedlex.data.admin.ch/eli/fga/2018/2479)).
