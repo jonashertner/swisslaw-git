@@ -1,22 +1,21 @@
 ---
 canton: VS
 number: "400.101"
-title: Reglement betreffend die Übernahme von Kosten für Schulmaterial und kulturelle und sportliche Aktivitäten in Zusammenhang mit der obligatorischen Schule
+title: "Reglement betreffend die Übernahme der Kosten für Schulmaterial und kulturelle und sportliche Aktivitäten in Zusammenhang mit der obligatorischen Schule *"
 language: de
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-09-16
+version: 2021-08-01
+version_adopted: 2021-09-01
 adopted: 2019-04-17
 in_force: 2019-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/400.101"
-pdf: "https://lex.vs.ch/api/de/versions/2709/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2948/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement betreffend die Übernahme von Kosten für Schulmaterial und kulturelle und sportliche Aktivitäten in Zusammenhang mit der obligatorischen Schule
+# Reglement betreffend die Übernahme der Kosten für Schulmaterial und kulturelle und sportliche Aktivitäten in Zusammenhang mit der obligatorischen Schule
 
-vom 17.04.2019 (Stand 01.08.2020)
+vom 17.04.2019 (Stand 01.08.2021)
 
 Der Staatsrat des Kantons Wallis
 
@@ -26,7 +25,7 @@ eingesehen Artikel 13 Absatz 2 und Artikel 57 der Kantonsverfassung;
 
 eingesehen Artikel 8 Absatz 1, Artikel 11 Absatz 1 und Artikel 120 des Gesetzes über das öffentliche Unterrichtswesen vom 4. Juli 1962 (GUW);
 
-eingesehen Artikel 9 Absatz 2 des Gesetzes über die Primarschule vom 15. November 2013 (GPS);
+eingesehen Artikel 9 Absatz 2 und Artikel 67 Absatz 3 des Gesetzes über die Primarschule vom 15. November 2013 (GPS);
 
 eingesehen Artikel 64 Absatz 2 des Gesetzes über die Orientierungsschule vom 10. September 2009 (GOS);
 
@@ -36,7 +35,7 @@ eingesehen das Reglement über die Gewährung von diversen Beiträgen aufgrund d
 
 auf Antrag des für die Bildung zuständigen Departements,
 
-verordnet:[^ingress-1]
+beschliesst:[^ingress-1]
 
 [^ingress-1]: Im vorliegenden Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
 

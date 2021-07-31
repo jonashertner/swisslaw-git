@@ -3,20 +3,19 @@ canton: VS
 number: "400.101"
 title: Règlement concernant la prise en charge des frais pour les fournitures scolaires et les activités culturelles et sportives relatifs à la scolarité obligatoire
 language: fr
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-09-16
+version: 2021-08-01
+version_adopted: 2021-09-01
 adopted: 2019-04-17
 in_force: 2019-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/400.101"
-pdf: "https://lex.vs.ch/api/fr/versions/2709/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2948/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement concernant la prise en charge des frais pour les fournitures scolaires et les activités culturelles et sportives relatifs à la scolarité obligatoire
 
-du 17.04.2019 (état 01.08.2020)
+du 17.04.2019 (état 01.08.2021)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -26,15 +25,15 @@ vu les articles 13 alinéa 2 et 57 de la Constitution cantonale;
 
 vu les articles 8 alinéa 1, 11 alinéa 1 et 120 de la loi sur l’instruction publique du 4 juillet 1962 (LIP);
 
-vu l'article 9 alinéa 2 de la loi sur l'enseignement primaire du 15 novembre 2013 (LEP);
+vu les articles 9 alinéa 2 et 67 alinéa 3 de la loi sur l'enseignement primaire du 15 novembre 2013 (LEP);
 
-vu l'article 64 alinéa 2 de la loi sur le cycle d'orientation du du 10 septembre 2009 (LCO);
+vu l'article 64 alinéa 2 de la loi sur le cycle d'orientation du 10 septembre 2009 (LCO);
 
 vu les articles 20 et 24 de la loi sur les subventions du 13 novembre 1995;
 
 vu le règlement concernant l'octroi de subventions diverses en vertu de la loi sur l'instruction publique du 13 janvier 1988;
 
-sur proposition du département en charge de la formation,
+sur la proposition du département en charge de la formation,
 
 ordonne:[^ingress-1]
 
