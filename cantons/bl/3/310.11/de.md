@@ -4,13 +4,13 @@ number: "310.11"
 title: Finanzhaushaltsverordnung
 short: Vo FHG
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-01
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-22
 adopted: 2017-11-14
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/310.11"
-pdf: "https://bl.clex.ch/api/de/versions/2816/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3202/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2816/pdf_file"
 
 (Vo FHG)
 
-Vom 14.11.2017 (Stand 01.01.2021)
+Vom 14.11.2017 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -529,9 +529,9 @@ beschliesst:
 - d. die schulischen Aufgaben- und Leistungschecks;
 - e. die Kulturvertragspauschale,
 - f. die bedarfsabhängigen Leistungen der Behinderten- und Jugendhilfe,
-- g. die bedarfsabhängigen Leistungen der Sonderschulung und der Leistungen gemäss § 10 Abs. 2, § 12 und § 13 der Verordnung für die Sonderschulung vom 13. Mai 2003[^39-1].
+- g. die bedarfsabhängigen Leistungen der Speziellen Förderung an einer Privatschule, der integrativen oder separativen Sonderschulung und der heilpädagogischen Früherziehung gemäss der Verordnung über die Spezielle Förderung, die Sonderschulung und die heilpädagogische Früherziehung vom 22. Juni 2021[^39-1].
 
-[^39-1]: [SGS 640.71](https://bl.clex.ch/data/640.71/de/art10)
+[^39-1]: [SGS 640.71](https://bl.clex.ch/data/640.71/de)
 
 #### § 40
 
