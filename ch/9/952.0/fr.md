@@ -4,11 +4,11 @@ title: "Loi fédérale du 8 novembre 1934 sur les banques et les caisses d'épar
 short: LB
 eli: "https://fedlex.data.admin.ch/eli/cc/51/117_121_129"
 language: fr
-version: 2020-01-01
+version: 2021-08-01
 adopted: 1934-11-08
 in_force: 1935-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20210801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20200101/fr"
 
 (Loi sur les banques, LB)**[^t-1]**
 
-du 8 novembre 1934 (Etat le 1<sup>er</sup> janvier 2020)
+du 8 novembre 1934 (Etat le 1<sup>er</sup> août 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 22 avr. 1999, en vigueur depuis le 1<sup>er</sup> oct. 1999 ([RO 1999 2405](https://fedlex.data.admin.ch/eli/oc/1999/368); FF **1998** 3349).
 
@@ -82,8 +82,8 @@ Est réputé banque quiconque est principalement actif dans le secteur financier
 
 Les dispositions de la présente loi s’appliquent par analogie aux personnes qui sont principalement actives dans le secteur financier et qui:
 
-- a. acceptent à titre professionnel des dépôts du public jusqu’à concurrence de 100 millions de francs ou font appel au public pour les obtenir, et
-- b. n’investissent ni ne rémunèrent ces dépôts.
+- a. acceptent à titre professionnel des dépôts du public jusqu’à concurrence de 100 millions de francs ou des cryptoactifs désignés par le Conseil fédéral, ou font appel au public pour les obtenir, et
+- b. n’investissent ni ne rémunèrent ces dépôts ou actifs.[^1b-2]
 
 <sup>2</sup> Le Conseil fédéral peut adapter le montant fixé à l’al. 1. Ce faisant, il tient compte de la compétitivité et de la capacité d’innovation de la place financière suisse.
 
@@ -100,19 +100,21 @@ Les personnes visées à l’al. 1 doivent notamment:
 
 Les dispositions suivantes sont réservées:
 
-- a. les comptes des personnes visées à l’al. 1 sont établis exclusivement selon les prescriptions du code des obligations (CO)[^1b-2];
+- a. les comptes des personnes visées à l’al. 1 sont établis exclusivement selon les prescriptions du code des obligations (CO)[^1b-3];
 - b. les personnes visées à l’al. 1 doivent faire contrôler leurs comptes annuels et, le cas échéant, leurs comptes consolidés conformément aux prescriptions du CO; l’art. 727*a*, al. 2 à 5 CO ne s’applique pas;
-- c. les personnes visées à l’al. 1 chargent une société d’audit agréée par l’Autorité fédérale de surveillance en matière de révision selon l’art. 9*a*, al. 1 ou 4<sup>bis</sup>, de la loi du 16 décembre 2005 sur la surveillance de la révision[^1b-3] de procéder à un audit conformément à l’art. 24 de la loi du 22 juin 2007 sur la surveillance des marchés financiers (LFINMA)[^1b-4];
-- d. les dispositions sur les dépôts privilégiés (art. 37*a*) et le remboursement immédiat (art. 37*b*) ne s’appliquent pas aux dépôts ouverts auprès des personnes visées à l’al. 1; les déposants doivent être informés de cette restriction avant d’effectuer le dépôt.
+- c. les personnes visées à l’al. 1 chargent une société d’audit agréée par l’Autorité fédérale de surveillance en matière de révision selon l’art. 9*a*, al. 1 ou 4<sup>bis</sup>, de la loi du 16 décembre 2005 sur la surveillance de la révision[^1b-4] de procéder à un audit conformément à l’art. 24 de la loi du 22 juin 2007 sur la surveillance des marchés financiers (LFINMA)[^1b-5];
+- d.[^1b-6] les dispositions sur les dépôts privilégiés (art. 37*a*) et le remboursement immédiat (art. 37*b*) ne s’appliquent ni aux dépôts du public ni aux cryptoactifs désignés par le Conseil fédéral détenus auprès des personnes visées à l’al. 1; les déposants doivent être informés de cette restriction avant d’effectuer le dépôt.
 
 <sup>5</sup> Dans des cas particuliers, la FINMA peut déclarer les al. 1 à 4 applicables aux personnes qui acceptent à titre professionnel des dépôts du public supérieurs à 100 millions de francs ou font appel au public pour les obtenir, n’investissent ni ne rémunèrent ces dépôts et garantissent la protection des clients par des mesures particulières.
 
 <sup>6</sup> Quiconque dépasse le seuil de 100 millions de francs doit l’annoncer dans les dix jours à la FINMA et lui présenter une demande d’autorisation au sens de l’art. 1*a* dans les 90 jours. L’al. 5 est réservé.
 
 [^1b-1]: Introduit par l’annexe ch. II 14 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^1b-3]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^1b-4]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^1b-2]: Nouvelle teneur selon le ch I. 6 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33),[399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^1b-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^1b-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^1b-5]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^1b-6]: Nouvelle teneur selon le ch I. 6 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33),[399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 2
 
@@ -396,6 +398,14 @@ Les banques sont autorisées à communiquer à leurs sociétés mères, qui sont
 <sup>2</sup> Si la communication d’informations au sens de l’al. 1 soulève des doutes, les banques peuvent requérir de la FINMA une décision autorisant ou interdisant leur transmission.
 
 [^4quinquies-1]: Introduit par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+
+#### Art. 4<sup>sexies</sup>
+
+[^4sexies-1]
+
+<sup>Pour les cryptoactifs que la banque détient en tan</sup> <sup>t que valeurs déposées pour des clients déposants, la FINMA peut dans certains cas particuliers fixer un montant maximal si elle le juge nécessaire au vu des risques liés aux activités concernées. Elle tient en particulier compte de la fonction des cryptoa</sup><sup>ctifs, des technologies sous-jacentes ainsi que des facteurs de réduction des risques.</sup>
+
+[^4sexies-1]: Introduit par le ch I. 6 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33),[399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 5
 
@@ -714,11 +724,19 @@ La banque coopérative peut acquérir ses propres bons de participation sociale 
 Sont réputées valeurs déposées selon l’art. 37*d*:[^16-2]
 
 - 1\. les choses mobilières et les titres déposés par les clients;
+- 1<sup>bis</sup>[^16-3].
+
+  les cryptoactifs, si la banque s’est engagée à les tenir en tout temps à la disposition du client déposant et que ceux-ci:
+
+  - a. sont attribués individuellement au client déposant, ou
+  - b. sont attribués à une communauté et que la part qui revient au client déposant est clairement déterminée;
+
 - 2\. les choses mobilières, les titres et les créances que la banque détient à titre fiduciaire pour le compte des clients déposants;
 - 3\. les prétentions disponibles de la banque à des livraisons à l’encontre de tiers, résultant d’opérations au comptant, d’opérations à terme échues, d’opérations de couverture ou d’émissions pour le compte des clients déposants.
 
 [^16-1]: Nouvelle teneur selon l’annexe ch. 17 de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^16-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [FF 2002 7476](https://fedlex.data.admin.ch/eli/fga/2002/1290)).
+[^16-3]: Introduit par le ch I. 6 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33),[399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## Chapitre VIII ...
 
@@ -776,7 +794,7 @@ La FINMA peut procéder elle-même à des contrôles directs auprès de banques,
 <sup>2</sup> La FINMA peut à tout moment effectuer des contrôles auprès de ces personnes.
 
 [^23bis-1]: Introduit par le ch. I de la LF du 11 mars 1971 ([RO 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809); [FF 1970 I 1157](https://fedlex.data.admin.ch/eli/fga/1970/1_1044_1157_885)). Nouvelle teneur selon l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^23bis-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^23bis-2]: RS **95****6.1**
 
 #### Art. 23<sup>ter</sup>
 
@@ -834,7 +852,7 @@ Afin d’assurer l’application de l’art. 3, al. 2, let. c<sup>bis</sup>, et 
 <sup>4</sup> Si le recours d’un créancier ou d’un propriétaire contre l’homologation du plan d’assainissement est admis, le tribunal ne peut qu’accorder une indemnisation.[^24-6]
 
 [^24-1]: Nouvelle teneur selon le ch. I de la LF du 11 mars 1971, en vigueur depuis le 1<sup>er</sup> juil. 1971 ([RO 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809)[825](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)art. 1; [FF 1970 I 1157](https://fedlex.data.admin.ch/eli/fga/1970/1_1044_1157_885)).
-[^24-2]: Abrogé par l’annexe ch. 15 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^24-2]: Abrogé par l’annexe ch. 15 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 (RO **20****08** 5207 5205; [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^24-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^24-4]: Introduit par le ch. I de la LF du 3 oct. 2003 ([RO 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [FF 2002 7476](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Nouvelle teneur selon l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^24-5]: Introduit par le ch. I 16 de l’O de l’Ass. féd. du 20 déc. 2006 concernant l’adaptation d’actes législatifs aux disp. de la LF sur le TF et de la LF sur le TAF ([RO 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7351](https://fedlex.data.admin.ch/eli/fga/2006/974)). Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)).
@@ -1141,9 +1159,9 @@ En cas de faillite, les engagements que la banque était habilitée à contracte
 
 **Distraction de valeurs déposées**[^37d-1]
 
-Les valeurs déposées, au sens de l’art. 16, sont distraites conformément aux art. 17 et 18 de la loi du 3 octobre 2008 sur les titres intermédiés[^37d-2]. En cas de découvert, l’art. 19 de cette loi est applicable.
+Les valeurs déposées au sens de l’art. 16 de la présente loi sont distraites conformément aux art. 17 et 18 de la loi fédérale du 3 octobre 2008 sur les titres intermédiés[^37d-2]. En cas de découvert, l’art. 19 de la loi sur les titres intermédiés est applicable aux valeurs en dépôt collectif.
 
-[^37d-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 3 oct. 2008 sur les titres intermédiés, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^37d-1]: Nouvelle teneur selon le ch I. 6 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33),[399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^37d-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
 
 #### Art. 37e
@@ -1211,13 +1229,13 @@ Le système d’autorégulation est approuvé aux conditions suivantes:[^37h-2]
 
 - a.[^37h-3] il permet d’assurer le paiement des dépôts garantis dans un délai de 20 jours ouvrables suivant la réception de la communication concernant la prescription de mesures selon l’art. 26, al. 1, let. e à h, ou de la faillite selon les art. 33 à 37*g*;
 - b.[^37h-4] il limite à 6 milliards de francs au plus la somme des contributions dues;
-- c. garantit que chaque banque dispose en permanence, en plus du montant de sa liquidité légale, de moyens liquides correspondant à la moitié des contributions auxquelles elle est tenue.
+- c. il garantit que chaque banque dispose en permanence, en plus du montant de sa liquidité légale, de moyens liquides correspondant à la moitié des contributions auxquelles elle est tenue.
 
 <sup>4</sup> Le Conseil fédéral peut adapter le montant indiqué à l’al. 3, let. b, dans la mesure où des circonstances particulières l’exigent.
 
 <sup>5</sup> Si le système d’autorégulation ne satisfait pas aux exigences prévues aux al. 1 à 3, le Conseil fédéral règle la garantie des dépôts par voie d’ordonnance. Il désigne notamment les organismes de garantie et fixe le montant des contributions des banques.
 
-[^37h-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^37h-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); FF **20****10** 3645).
 [^37h-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^37h-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^37h-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).

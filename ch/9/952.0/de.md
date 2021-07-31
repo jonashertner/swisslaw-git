@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 8. November 1934 über die Banken und Sparkassen (Banke
 short: BankG
 eli: "https://fedlex.data.admin.ch/eli/cc/51/117_121_129"
 language: de
-version: 2020-01-01
+version: 2021-08-01
 adopted: 1934-11-08
 in_force: 1935-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20200101/de/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20210801/de/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20210801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20200101/de"
 
 (Bankengesetz, BankG)**[^t-1]**
 
-vom 8. November 1934 (Stand am 1. Januar 2020)
+vom 8. November 1934 (Stand am 1. August 2021)
 
 [^t-1]: Fassung des Titels gemäss Ziff. I des BG vom 22. April 1999, in Kraft seit 1. Okt. 1999 ([AS 1999 2405](https://fedlex.data.admin.ch/eli/oc/1999/368); BBl **1998** 3847).
 
@@ -76,8 +76,8 @@ Als Bank gilt, wer hauptsächlich im Finanzbereich tätig ist und:
 
 Die Bestimmungen dieses Gesetzes finden sinngemäss Anwendung auf Personen, die hauptsächlich im Finanzbereich tätig sind und:
 
-- a. gewerbsmässig Publikumseinlagen von bis zu 100 Millionen Franken entgegennehmen oder sich öffentlich dafür empfehlen; und
-- b. diese Publikumseinlagen weder anlegen noch verzinsen.
+- a. gewerbsmässig Publikumseinlagen von bis zu 100 Millionen Franken oder vom Bundesrat bezeichnete kryptobasierte Vermögenswerte entgegennehmen oder sich öffentlich dafür empfehlen; und
+- b. diese Publikumseinlagen oder Vermögenswerte weder anlegen noch verzinsen.[^1b-2]
 
 <sup>2</sup> Der Bundesrat kann den Betrag nach Absatz 1 unter Berücksichtigung der Wettbewerbs- und Innovationsfähigkeit des Finanzplatzes Schweiz anpassen.
 
@@ -94,19 +94,21 @@ Personen nach Absatz 1 müssen insbesondere:
 
 Vorbehalten bleiben die folgenden Bestimmungen:
 
-- a. Die Rechnungslegung für Personen nach Absatz 1 richtet sich ausschliesslich nach den Vorschriften des Obligationenrechts (OR)[^1b-2].
+- a. Die Rechnungslegung für Personen nach Absatz 1 richtet sich ausschliesslich nach den Vorschriften des Obligationenrechts (OR)[^1b-3].
 - b. Personen nach Absatz 1 müssen ihre Jahresrechnung und gegebenenfalls ihre Konzernrechnung nach den Vorschriften des OR prüfen lassen; Artikel 727*a* Absätze 2–5 OR ist nicht anwendbar.
-- c. Personen nach Absatz 1 beauftragen eine von der Eidgenössischen Revisionsaufsichtsbehörde nach Artikel 9*a* Absatz 1 oder Absatz 4<sup>bis</sup> des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^1b-3] zugelassene Prüfgesellschaft mit einer Prüfung nach Artikel 24 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^1b-4] (FINMAG).
-- d. Auf Einlagen bei Personen nach Absatz 1 finden die Bestimmungen über privilegierte Einlagen (Art. 37*a*) und über sofortige Auszahlung (Art. 37*b*) keine Anwendung; die Einleger sind über diesen Umstand zu informieren, bevor sie die Einlage tätigen.
+- c. Personen nach Absatz 1 beauftragen eine von der Eidgenössischen Revisionsaufsichtsbehörde nach Artikel 9*a* Absatz 1 oder Absatz 4<sup>bis</sup> des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^1b-4] zugelassene Prüfgesellschaft mit einer Prüfung nach Artikel 24 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^1b-5] (FINMAG).
+- d.[^1b-6] Auf Publikumseinlagen oder vom Bundesrat bezeichnete kryptobasierte Vermögenswerte bei Personen nach Absatz 1 finden die Bestimmungen über privilegierte Einlagen (Art. 37*a*) und über die sofortige Auszahlung (Art. 37*b*) keine Anwendung; die Einleger sind über diesen Umstand zu informieren, bevor sie die Einlage tätigen.
 
 <sup>5</sup> Die FINMA kann in besonderen Fällen die Absätze 1–4 auch für Personen anwendbar erklären, die gewerbsmässig Publikumseinlagen von mehr als 100 Millionen Franken entgegennehmen oder sich öffentlich dafür empfehlen, diese weder anlegen noch verzinsen und den Schutz der Kunden durch besondere Vorkehrungen gewährleisten.
 
 <sup>6</sup> Wird der Schwellenwert von 100 Millionen Franken überschritten, so muss dies innerhalb von 10 Tagen der FINMA gemeldet und ihr innerhalb von 90 Tagen ein Bewilligungsgesuch nach Artikel 1*a* eingereicht werden. Vorbehalten bleibt Absatz 5.
 
 [^1b-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^1b-3]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^1b-4]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^1b-2]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^1b-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^1b-4]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^1b-5]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^1b-6]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 1<sup>bis</sup>
 
@@ -382,7 +384,7 @@ Die Banken haben im In- und Ausland jede irreführende sowie jede aufdringliche 
 
 [^4quater-1]: Eingefügt durch Ziff. I des BG vom 11. März 1971, in Kraft seit 1. Juli 1971 ([AS 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809)[824](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)Art. 1; [BBl 1970 I 1144](https://fedlex.data.admin.ch/eli/fga/1970/1_1144__)).
 
-#### Art. 4quinquies
+#### Art. 4<sup>quinquies</sup>
 
 [^4quinquies-1]
 
@@ -397,6 +399,14 @@ Banken dürfen ihren Muttergesellschaften, welche ihrerseits von einer Bank- ode
 <sup>2</sup> Erscheinen die Voraussetzungen der Übermittlung nach Absatz 1 zweifelhaft, so können die Banken eine Verfügung der FINMA verlangen, welche die Übermittlung der Informationen erlaubt oder untersagt.
 
 [^4quinquies-1]: Eingefügt durch Ziff. I des BG vom 18. März 1994, in Kraft seit 1. Febr. 1995 ([AS 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+
+#### Art. 4<sup>sexies</sup>
+
+[^4sexies-1]
+
+Für kryptobasierte Vermögenswerte, die die Bank als Depotwerte für Depotkunden hält, kann die FINMA im Einzelfall einen Höchstbetrag festlegen, wenn dies aufgrund der mit dem Geschäft verbundenen Risiken als geboten erscheint. Sie berücksichtigt insbesondere die Funktion der kryptobasierten Vermögenswerte, die ihnen zugrunde liegenden Technologien sowie risikomindernde Faktoren.
+
+[^4sexies-1]: Eingefügt durch Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 5
 
@@ -715,11 +725,19 @@ Die Genossenschaftsbank kann unter folgenden Voraussetzungen eigene Beteiligungs
 Als Depotwerte im Sinne von Artikel 37*d* des Gesetzes gelten:[^16-2]
 
 - 1\. bewegliche Sachen und Effekten der Depotkunden;
+- 1<sup>bis</sup>.[^16-3]
+
+  kryptobasierte Vermögenswerte, wenn sich die Bank verpflichtet hat, diese für den Depotkunden jederzeit bereitzuhalten, und diese:
+
+  - a. dem Depotkunden individuell zugeordnet sind, oder
+  - b. einer Gemeinschaft zugeordnet sind und ersichtlich ist, welcher Anteil am Gemeinschaftsvermögen dem Depotkunden zusteht;
+
 - 2\. bewegliche Sachen, Effekten und Forderungen, welche die Bank für Rechnung der Depotkunden fiduziarisch innehat;
 - 3\. frei verfügbare Lieferansprüche der Bank gegenüber Dritten aus Kassageschäften, abgelaufenen Termingeschäften, Deckungsgeschäften oder Emissionen für Rechnung der Depotkunden.
 
 [^16-1]: Fassung gemäss Anhang Ziff. 17 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^16-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [BBl 2002 8060](https://fedlex.data.admin.ch/eli/fga/2002/1290)).
+[^16-3]: Eingefügt durch Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## Achter Abschnitt: ...
 
@@ -1141,9 +1159,9 @@ Verbindlichkeiten, welche die Bank während der Dauer der Massnahmen nach Artike
 
 **Absonderung von Depotwerten**[^37d-1]
 
-Depotwerte gemäss Artikel 16 werden nach den Artikeln 17 und 18 des Bucheffektengesetzes vom 3. Oktober 2008[^37d-2] abgesondert. Im Falle eines Unterbestandes findet Artikel 19 des Bucheffektengesetzes vom 3. Oktober 2008 Anwendung.
+Depotwerte gemäss Artikel 16 dieses Gesetzes werden nach den Artikeln 17 und 18 des Bucheffektengesetzes vom 3. Oktober 2008[^37d-2] abgesondert. Auf sammelverwahrte Depotwerte findet im Falle eines Unterbestandes Artikel 19 des Bucheffektengesetzes Anwendung.
 
-[^37d-1]: Fassung gemäss Anhang Ziff. 5 des Bucheffektengesetzes vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^37d-1]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^37d-2]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
 
 #### Art. 37e

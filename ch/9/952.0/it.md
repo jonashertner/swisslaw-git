@@ -4,11 +4,11 @@ title: "Legge federale dell'8 novembre 1934 sulle banche e le casse di risparmio
 short: LBCR
 eli: "https://fedlex.data.admin.ch/eli/cc/51/117_121_129"
 language: it
-version: 2020-01-01
+version: 2021-08-01
 adopted: 1934-11-08
 in_force: 1935-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20200101/it/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20210801/it/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20210801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20200101/it"
 
 (Legge sulle banche, LBCR)**[^t-1]**
 
-dell’8 novembre 1934 (Stato 1° gennaio 2020)
+dell’8 novembre 1934 (Stato 1° agosto 2021)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 22 apr. 1999, in vigore dal 1° ott. 1999 ([RU 1999 2405](https://fedlex.data.admin.ch/eli/oc/1999/368); FF **1998** 3007).
 
@@ -80,8 +80,8 @@ Non soggiacciono alla legge, segnatamente:
 
 Le disposizioni della presente legge si applicano per analogia alle persone che operano soprattutto nel settore finanziario e:
 
-- a. accettano a titolo professionale depositi del pubblico per un importo inferiore o pari a 100 milioni di franchi o si prestano pubblicamente a tale scopo; e
-- b. non investono tali depositi né corrispondono interessi sugli stessi.
+- a. accettano a titolo professionale depositi del pubblico per un importo inferiore o pari a 100 milioni di franchi o beni crittografici definiti tali dal Consiglio federale oppure si prestano pubblicamente a tale scopo; e
+- b. non investono tali depositi o beni né corrispondono interessi sugli stessi.[^1b-2]
 
 <sup>2</sup> Il Consiglio federale può adeguare l’importo di cui al capoverso 1 tenendo conto della competitività e del potenziale di innovazione della piazza finanziaria svizzera.
 
@@ -98,19 +98,21 @@ Le persone di cui al capoverso 1 devono in particolare:
 
 Sono fatte salve le seguenti disposizioni:
 
-- a. la presentazione dei conti delle persone di cui al capoverso 1 è retta esclusivamente dalle disposizioni del Codice delle obbligazioni[^1b-2];
+- a. la presentazione dei conti delle persone di cui al capoverso 1 è retta esclusivamente dalle disposizioni del Codice delle obbligazioni[^1b-3];
 - b. le persone di cui al capoverso 1 fanno verificare il loro conto annuale ed eventualmente il loro conto di gruppo secondo le disposizioni del Codice delle obbligazioni, di cui tuttavia non è applicabile l’articolo 727*a* capoversi 2–5;
-- c. le persone di cui al capoverso 1 incaricano una società di audit abilitata dall’Autorità federale di sorveglianza dei revisori conformemente all’articolo 9*a* capoverso 1 o 4<sup>bis</sup> della legge del 16 dicembre 2005[^1b-3] sui revisori di effettuare una verifica conformemente all’articolo 24 della legge del 22 giugno 2007[^1b-4] sulla vigilanza dei mercati finanziari;
-- d. ai depositi presso le persone di cui al capoverso 1 non si applicano le disposizioni sui depositi privilegiati (art. 37*a*) e sul pagamento immediato (art. 37*b*); i depositanti vanno informati di tale fatto prima di effettuare il deposito.
+- c. le persone di cui al capoverso 1 incaricano una società di audit abilitata dall’Autorità federale di sorveglianza dei revisori conformemente all’articolo 9*a* capoverso 1 o 4<sup>bis</sup> della legge del 16 dicembre 2005[^1b-4] sui revisori di effettuare una verifica conformemente all’articolo 24 della legge del 22 giugno 2007[^1b-5] sulla vigilanza dei mercati finanziari;
+- d.[^1b-6] ai depositi del pubblico e ai beni crittografici definiti tali dal Consiglio federale detenuti dalle persone di cui al capoverso 1 non si applicano le disposizioni sui depositi privilegiati (art. 37*a*) e sul pagamento immediato (art. 37*b*); i depositanti ne vanno informati prima di effettuare il deposito.
 
 <sup>5</sup> In casi particolari la FINMA può dichiarare applicabili i capoversi 1–4 anche alle persone che accettano a titolo professionale depositi del pubblico per un importo superiore a 100 milioni di franchi, o si prestano pubblicamente per tale scopo, e non investono tali depositi né corrispondono interessi sugli stessi, sempre che la protezione dei clienti sia garantita mediante misure particolari.
 
 <sup>6</sup> Se il valore soglia di 100 milioni di franchi è superato, ciò va notificato alla FINMA entro 10 giorni; entro 90 giorni va presentata una domanda di autorizzazione secondo l’articolo 1*a*. È fatto salvo il capoverso 5.
 
 [^1b-1]: Introdotto dall’all. n. II 14 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2019 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^1b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^1b-3]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^1b-4]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^1b-2]: Nuovo testo giusta il n. I 6 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^1b-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^1b-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^1b-5]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^1b-6]: Nuovo testo giusta il n. I 6 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 2
 
@@ -398,6 +400,14 @@ Le banche sono autorizzate a comunicare alle loro società madri, a loro volta s
 
 [^4quinquies-1]: Introdotto dal n. I della LF del 18 mar. 1994, in vigore dal 1° feb. 1995 ([RU 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 [^4quinquies-2]: Testo rettificato dalla CdR dell’AF (art. 33 LRC; [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+
+#### Art. 4<sup>sexies</sup>
+
+[^4sexies-1]
+
+Per i beni crittografici che la banca detiene come valori depositati per i clienti deponenti la FINMA può nei singoli casi fissare un importo massimo, se questo appare giustificato a causa dei rischi connessi all’attività. La FINMA considera in particolare la funzione dei beni crittografici, le tecnologie su cui si basano nonché i fattori di riduzione dei rischi.
+
+[^4sexies-1]: Introdotto dal n. I 6 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 5
 
@@ -706,7 +716,7 @@ La banca cooperativa può acquistare buoni di partecipazione propri soltanto se:
 
 <sup>2</sup> e <sup>3</sup> ... [^15-3]
 
-[^15-1]: Testo rettificato dalla CdR dell’AF (art. 33 LRC; [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^15-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 33 LRC; [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^15-2]: Nuovo testo giusta il n. I della LF del 18 mar. 1994, in vigore dal 1° feb. 1995 ([RU 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 [^15-3]: Abrogati dall’all. n. 14 della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -717,11 +727,19 @@ La banca cooperativa può acquistare buoni di partecipazione propri soltanto se:
 Per valori depositati ai sensi dell’articolo 37*d* della legge si intendono:[^16-2]
 
 - 1\. le cose mobili e i titoli depositati dai clienti;
+- 1<sup>bis</sup>.[^16-3]
+
+  i beni crittografici che la banca si è impegnata a mettere in ogni momento a disposizione del cliente deponente e che sono attribuiti:
+
+  - a. individualmente al cliente deponente, o
+  - b. a una comunione e la parte che spetta al cliente deponente è chiaramente determinata;
+
 - 2\. le cose mobili, i titoli e i crediti che la banca detiene a titolo fiduciario per conto dei clienti deponenti;
 - 3\. le pretese tendenti a forniture da parte di terzi, di cui la banca può disporre liberamente, derivanti da operazioni in contanti, da operazioni a termine scadute, da operazioni di copertura o da operazioni per conto dei clienti deponenti.
 
 [^16-1]: Nuovo testo giusta l’all. n. 14 della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^16-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2004 ([RU 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [FF 2002 7175](https://fedlex.data.admin.ch/eli/fga/2002/1290)).
+[^16-3]: Introdotto dal n. I 6 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## Capo ottavo: ...
 
@@ -1142,9 +1160,9 @@ Gli impegni che la banca ha legittimamente assunto per la durata delle misure di
 
 **Separazione di valori depositati**[^37d-1]
 
-I valori depositati di cui all’articolo 16 sono separati dalla massa conformemente agli articoli 17 e 18 della legge del 3 ottobre 2008[^37d-2] sui titoli contabili. In caso di sottodotazione si applica l’articolo 19 della legge 3 ottobre 2008 sui titoli contabili.
+I valori depositati ai sensi dell’articolo 16 della presente legge sono separati dalla massa conformemente agli articoli 17 e 18 della legge del 3 ottobre 2008[^37d-2] sui titoli contabili. In caso di sottodotazione, ai valori depositati custoditi collettivamente si applica l’articolo 19 della legge sui titoli contabili.
 
-[^37d-1]: Nuovo testo giusta l’all. n. 5 della L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^37d-1]: Nuovo testo giusta il n. I 6 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^37d-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
 
 #### Art. 37e
