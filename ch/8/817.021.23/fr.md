@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les limites maximales applica
 short: OPOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: fr
-version: 2020-07-01
+version: 2021-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20200701/fr"
 
 (OPOVA)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> juillet 2020)
+du 16 décembre 2016 (Etat le 1<sup>er</sup> août 2021)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -291,8 +291,8 @@ Annexe 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
-[^annex2-lvlu1-1]: La liste des limites maximales autorisées pour les résidus de pesticides n’est pas publiée au RO. Elle peut être consultée gratuitement à l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires, Schwarzenburgstrasse 155, 3003 Berne ou téléchargée à l’adresse www.osav.admin.ch &gt; Aliments et nutrition &gt; Bases légales et documents d’application &gt; Législation. Elle est applicable dans sa teneur du 1<sup>er</sup> juillet 2020.
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. 1 al. 1 de l’O de l’OSAV du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)).
+[^annex2-lvlu1-1]: La liste des limites maximales autorisées pour les résidus de pesticides n’est pas publiée au RO. Elle peut être consultée gratuitement à l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires, Schwarzenburgstrasse 155, 3003 Berne ou téléchargée à l’adresse www.osav.admin.ch &gt; Aliments et nutrition &gt; Bases légales et documents d’application &gt; Législation. Elle est applicable dans sa teneur du 1<sup>er</sup> août 2021.
 
 Annexe 3*[^t-3]*
 
@@ -300,7 +300,7 @@ Annexe 3*[^t-3]*
 
 ## Pesticides pour lesquels aucune limite maximale de résidus ne s’applique
 
-[^t-3]: Mise à jour selon le ch. II al. 2 de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
+[^t-3]: Mise à jour selon le ch. II al. 2 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)) et le ch. 1 al. 2 de l’O de l’OSAV du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)).
 
 ### 1 Remarque explicative
 
@@ -318,6 +318,7 @@ Aucune limite maximale de résidus ne s’applique aux substances actives dans c
 <tr><td>*Ampelomyces quisqualis*</td><td></td></tr>
 <tr><td>Virus de la granulose du carpocapse</td><td></td></tr>
 <tr><td>*Aureobasidium pullulans*</td><td></td></tr>
+<tr><td>*Bacillus amyloliquefaciens* souche FZB24</td><td></td></tr>
 <tr><td>*Bacillus firmus*</td><td></td></tr>
 <tr><td>*Bacillus subtilis*</td><td></td></tr>
 <tr><td>*Bacillus thuringiensis*</td><td></td></tr>
@@ -340,6 +341,7 @@ Aucune limite maximale de résidus ne s’applique aux substances actives dans c
 <tr><td>Lait écrémé (lait maigre)</td><td></td></tr>
 <tr><td>Acide acétique</td><td></td></tr>
 <tr><td>Éthylène</td><td></td></tr>
+<tr><td>Eugénol</td><td></td></tr>
 <tr><td>Essence d’eucalyptus</td><td></td></tr>
 <tr><td>*Oleum foeniculi* (huile de fenouil)</td><td></td></tr>
 <tr><td>Alcools gras / alcools aliphatiques</td><td></td></tr>
@@ -352,6 +354,7 @@ Aucune limite maximale de résidus ne s’applique aux substances actives dans c
 <tr><td>Acides gras: acide oléique, y compris oléate d’éthyle</td><td></td></tr>
 <tr><td>Acides gras: acide pélargonique</td><td></td></tr>
 <tr><td>Acide folique</td><td></td></tr>
+<tr><td>Géraniol</td><td></td></tr>
 <tr><td>Gibbérelline</td><td></td></tr>
 <tr><td>*Glicladium catenulatum*</td><td></td></tr>
 <tr><td>Essence de menthe verte</td><td></td></tr>
@@ -405,7 +408,7 @@ Aucune limite maximale de résidus ne s’applique aux substances actives dans c
 <tr><td>*Streptomyces griseoviridis*</td><td></td></tr>
 <tr><td>Extrait de l’arbre à thé</td><td></td></tr>
 <tr><td>Mélange de terpène (QRD 460)</td><td></td></tr>
-<tr><td>Chlorhydrate de triméthylamine</td><td></td></tr>
+<tr><td>Thymol</td><td></td></tr>
 <tr><td>*Verticillium lecanii*</td><td></td></tr>
 <tr><td>Vin</td><td></td></tr>
 <tr><td>Vinaigre de vin</td><td></td></tr>

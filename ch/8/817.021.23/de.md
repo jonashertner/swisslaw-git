@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für Pe
 short: VPRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: de
-version: 2020-07-01
+version: 2021-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20200701/de"
 
 (VPRH)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2020)
+vom 16. Dezember 2016 (Stand am 1. August 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -286,8 +286,8 @@ Anhang 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
-[^annex2-lvlu1-1]: Der Inhalt der Liste der zulässigen Höchstgehalte für Pestizidrückstände wird in der AS nicht veröffentlicht. Die Liste kann beim Bundesamt für Lebensmittelsicherheit und Veterinärwesen, Schwarzenburgstrasse 155, 3003 Bern, kostenlos eingesehen oder im Internet unter www.blv.admin.ch &gt; Lebensmittel und Ernährung &gt; Rechts- und Vollzugsgrundlagen &gt; Gesetzgebung abgerufen werden. Sie gilt in der Fassung vom 1. Juli 2020.
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)).
+[^annex2-lvlu1-1]: Der Text dieses Anhangs wird in der AS nicht veröffentlicht. Er kann beim Bundesamt für Lebensmittelsicherheit und Veterinärwesen, Schwarzenburgstrasse 155, 3003 Bern, kostenlos eingesehen oder im Internet abgerufen werden unter www.blv.admin.ch &gt; Lebensmittel und Ernährung &gt; Rechts- und Vollzugsgrundlagen &gt; Gesetzgebung. Er gilt in der Fassung vom 1. August 2021.
 
 Anhang 3*[^t-3]*
 
@@ -295,7 +295,7 @@ Anhang 3*[^t-3]*
 
 ## Pestizide, für die keine Rückstandshöchstgehalte gelten
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)) und Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)).
 
 ### 1 Erläuterungen
 
@@ -313,6 +313,7 @@ Für die Wirkstoffe in dieser Tabelle gelten keine Rückstandshöchstgehalte fü
 <tr><td>*Ampelomyces quisqualis*</td><td></td></tr>
 <tr><td>Apfelwicklergranulose-Virus</td><td></td></tr>
 <tr><td>*Aureobasidium pullulans*</td><td></td></tr>
+<tr><td>*Bacillus amyloliquefaciens Stamm FZB24*</td><td></td></tr>
 <tr><td>*Bacillus firmus*</td><td></td></tr>
 <tr><td>*Bacillus subtilis*</td><td></td></tr>
 <tr><td>*Bacillus thuringiensis*</td><td></td></tr>
@@ -335,6 +336,7 @@ Für die Wirkstoffe in dieser Tabelle gelten keine Rückstandshöchstgehalte fü
 <tr><td>Entrahmte Milch (Magermilch)</td><td></td></tr>
 <tr><td>Essigsäure</td><td></td></tr>
 <tr><td>Ethylen</td><td></td></tr>
+<tr><td>Eugenol</td><td></td></tr>
 <tr><td>Eukalyptusöl</td><td></td></tr>
 <tr><td>Fettalkohole / aliphatische Alkohole</td><td></td></tr>
 <tr><td>Fettsäuren: Laurinsäure</td><td></td></tr>
@@ -346,6 +348,7 @@ Für die Wirkstoffe in dieser Tabelle gelten keine Rückstandshöchstgehalte fü
 <tr><td>Fettsäuren: Oleinsäure, einschliesslich Ethyloleat</td><td></td></tr>
 <tr><td>Fettsäuren: Pelargonsäure</td><td></td></tr>
 <tr><td>Folsäure</td><td></td></tr>
+<tr><td>Geraniol</td><td></td></tr>
 <tr><td>Gibberellin</td><td></td></tr>
 <tr><td>*Glicladium catenulatum*</td><td></td></tr>
 <tr><td>Grüne-Minze-Öl</td><td></td></tr>
@@ -400,6 +403,7 @@ Für die Wirkstoffe in dieser Tabelle gelten keine Rückstandshöchstgehalte fü
 <tr><td>*Streptomyces griseoviridis*</td><td></td></tr>
 <tr><td>Teebaumextrakt</td><td></td></tr>
 <tr><td>Terpenoid Blend QRD 460</td><td></td></tr>
+<tr><td>Thymol</td><td></td></tr>
 <tr><td>Trimethylaminhydrochlorid</td><td></td></tr>
 <tr><td>*Verticillium lecanii*</td><td></td></tr>
 <tr><td>Wein</td><td></td></tr>

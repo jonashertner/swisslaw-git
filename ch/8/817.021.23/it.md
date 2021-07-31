@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 concernente i livelli massimi per 
 short: OAOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: it
-version: 2020-07-01
+version: 2021-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2017-151-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2017-151-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20200701/it"
 
 (OAOVA)
 
-del 16 dicembre 2016 (Stato 1° luglio 2020)
+del 16 dicembre 2016 (Stato 1° agosto 2021)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -289,16 +289,16 @@ Allegato 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
-[^annex2-lvlu1-1]: Il contenuto della lista dei livelli massimi consentiti per i residui di antiparassitari non viene pubblicato nella RU. La lista può essere consultata gratuitamente presso l’Ufficio federale della sicurezza alimentare e di veterinaria, Schwarzenburgstrasse 155, 3003 Berna oppure su Internet www.usav.admin.ch &gt; Alimenti e nutrizione &gt; Basi legali ed esecutive &gt; Legislazione. Si applica la versione del 1° luglio 2020.
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Aggiornato dal n. I cpv. 1 dell’O dell’USAV del 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)).
+[^annex2-lvlu1-1]: Il contenuto della lista dei livelli massimi consentiti per i residui di antiparassitari non viene pubblicato nella RU. La lista può essere consultata gratuitamente presso lʼUfficio federale della sicurezza alimentare e di veterinaria, Schwarzenburgstrasse 155, 3003 Berna, o su Internet su www.usav.admin.ch &gt; Alimenti e nutrzione &gt; Basi legali ed esecutive &gt; Legislazione. Si applica la versione del 1° ago. 2021.
 
 Allegato 3*[^t-3]*
 
 (art. 4 e 8 cpv. 1 lett. b)
 
-## Antiparassitari a cui non si applicano livelli massimi per i residui
+## [Antiparassitari a cui non si applicano livelli massimi per i residui](https://www.fedlex.admin.ch/eli/cc/2017/151/it)
 
-[^t-3]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
+[^t-3]: Aggiornato dal n. II cpv. 2 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)) e dal n. I cpv. 2 dell’O dell’USAV 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)).
 
 ### 1 Note esplicative
 
@@ -310,12 +310,28 @@ Alle sostanze attive di questa tabella non si applicano livelli massimi per i re
 <tr><th>1</th><th>2</th></tr>
 <tr><th>Sostanza attiva</th><th>Osservazioni</th></tr>
 <tr><td>1-decanolo</td><td></td></tr>
-<tr><td>Adoxophyes orana GV</td><td></td></tr>
-<tr><td>Silicato di alluminio (caolino)</td><td></td></tr>
 <tr><td>Acetato di ammonio</td><td></td></tr>
+<tr><td>Aceto di sidro</td><td></td></tr>
+<tr><td>Aceto di vino</td><td></td></tr>
+<tr><td>Acidi grassi: acido decanoico</td><td></td></tr>
+<tr><td>Acidi grassi: acido eptanoico</td><td></td></tr>
+<tr><td>Acidi grassi: acido laurico</td><td></td></tr>
+<tr><td>Acidi grassi: acido oleico, incluso etiloleato</td><td></td></tr>
+<tr><td>Acidi grassi: acido ottanoico</td><td></td></tr>
+<tr><td>Acidi grassi: acido pelargonico</td><td></td></tr>
+<tr><td>Acidi grassi: C7-C20</td><td></td></tr>
+<tr><td>Acidi grassi: metilestere di acidi grassi</td><td></td></tr>
+<tr><td>Acido acetico</td><td></td></tr>
+<tr><td>Acido benzoico</td><td></td></tr>
+<tr><td>Acido folico</td><td></td></tr>
+<tr><td>Acido solforico argilla</td><td></td></tr>
+<tr><td>Adoxophyes orana GV</td><td></td></tr>
+<tr><td>Alcoli grassi / alcoli alifatici</td><td></td></tr>
+<tr><td>Alluminiosilicato di sodio</td><td></td></tr>
 <tr><td>*Ampelomyces quisqualis*</td><td></td></tr>
-<tr><td>Virus della granulosi della carpocapsa</td><td></td></tr>
+<tr><td>Anidride carbonica</td><td></td></tr>
 <tr><td>*Aureobasidium pullulans*</td><td></td></tr>
+<tr><td>*Bacillus amyloliquefaciens, ceppo FZB24*</td><td></td></tr>
 <tr><td>*Bacillus firmus*</td><td></td></tr>
 <tr><td>*Bacillus subtilis*</td><td></td></tr>
 <tr><td>*Bacillus thuringiensis*</td><td></td></tr>
@@ -326,91 +342,79 @@ Alle sostanze attive di questa tabella non si applicano livelli massimi per i re
 <tr><td>*Beauveria bassiana*</td><td></td></tr>
 <tr><td>*Beauveria brongniartii*</td><td></td></tr>
 <tr><td>Benoxacor</td><td></td></tr>
-<tr><td>Acido benzoico</td><td></td></tr>
-<tr><td>Estratto di ortica</td><td></td></tr>
+<tr><td>Bicarbonato di potassio</td><td></td></tr>
+<tr><td>Calcare</td><td></td></tr>
 <tr><td>Carbonato di calcio</td><td></td></tr>
 <tr><td>Cloquintocet-mexyl</td><td></td></tr>
+<tr><td>Cloridrato di trimetilammina</td><td></td></tr>
 <tr><td>*Coniothyrium minitans*</td><td></td></tr>
 <tr><td>COS-OGA</td><td></td></tr>
-<tr><td>Solfato ferroso</td><td></td></tr>
-<tr><td>Fosfato di ferro (III)</td><td></td></tr>
-<tr><td>Solfato ferrico</td><td></td></tr>
-<tr><td>Latte scremato (latte magro)</td><td></td></tr>
-<tr><td>Acido acetico</td><td></td></tr>
+<tr><td>Estratto di aglio</td><td></td></tr>
+<tr><td>Estratto di albero del tè</td><td></td></tr>
+<tr><td>Estratto di alghe marine</td><td></td></tr>
+<tr><td>Estratto di equiseto</td><td></td></tr>
+<tr><td>Estratto di ortica</td><td></td></tr>
+<tr><td>Estratto di quassia</td><td></td></tr>
 <tr><td>Etilene</td><td></td></tr>
-<tr><td>Olio di eucalipto</td><td></td></tr>
-<tr><td>Alcoli grassi / alcoli alifatici</td><td></td></tr>
-<tr><td>Acidi grassi: acido laurico</td><td></td></tr>
-<tr><td>Acidi grassi: C7-C20</td><td></td></tr>
-<tr><td>Acidi grassi: acido decanoico</td><td></td></tr>
-<tr><td>Acidi grassi: metilestere di acidi grassi</td><td></td></tr>
-<tr><td>Acidi grassi: acido eptanoico</td><td></td></tr>
-<tr><td>Acidi grassi: acido ottanoico</td><td></td></tr>
-<tr><td>Acidi grassi: acido oleico, incluso etiloleato</td><td></td></tr>
-<tr><td>Acidi grassi: acido pelargonico</td><td></td></tr>
-<tr><td>Acido folico</td><td></td></tr>
+<tr><td>Eugenolo</td><td></td></tr>
+<tr><td>Farina fossile (terra diatomacea)</td><td></td></tr>
+<tr><td>Fosfato di ferro (III)</td><td></td></tr>
+<tr><td>Geraniolo</td><td></td></tr>
 <tr><td>Gibberellina</td><td></td></tr>
 <tr><td>*Glicladium catenulatum*</td><td></td></tr>
-<tr><td>Olio di menta verde</td><td></td></tr>
 <tr><td>*Helicoverpa armigera Nucleopolyhedrovirus*</td><td></td></tr>
 <tr><td>Heptamaloxyloglucan</td><td></td></tr>
-<tr><td>Isoxadifen-etile</td><td></td></tr>
-<tr><td>Bicarbonato di potassio</td><td></td></tr>
 <tr><td>Ioduro di potassio</td><td></td></tr>
-<tr><td>Tiocianato di potassio</td><td></td></tr>
-<tr><td>Triioduro di potassio</td><td></td></tr>
-<tr><td>Calcare</td><td></td></tr>
-<tr><td>Farina fossile (terra diatomacea)</td><td></td></tr>
-<tr><td>Estratto di aglio</td><td></td></tr>
-<tr><td>Anidride carbonica</td><td></td></tr>
+<tr><td>Isoxadifen-etile</td><td></td></tr>
 <tr><td>Laminarina</td><td></td></tr>
+<tr><td>Latte scremato (latte magro)</td><td></td></tr>
 <tr><td>Maltodestrina</td><td></td></tr>
 <tr><td>Mefenpir-dietile</td><td></td></tr>
 <tr><td>*Metarhizium anisopliae*</td><td></td></tr>
 <tr><td>Metil nonil chetone</td><td></td></tr>
-<tr><td>Siero di latte</td><td></td></tr>
-<tr><td>Alluminiosilicato di sodio</td><td></td></tr>
-<tr><td>Aceto di sidro</td><td></td></tr>
 <tr><td>*Oleum foeniculi* (olio di finocchio)</td><td></td></tr>
-<tr><td>*Paecilomyces fumosoroseus*</td><td></td></tr>
-<tr><td>*Paecilomyces lilacinus*</td><td></td></tr>
+<tr><td>Oli vegetali: citronnellolo</td><td></td></tr>
+<tr><td>Oli vegetali: eugenolo da essenza di garofano</td><td></td></tr>
+<tr><td>Oli vegetali: olio di colza</td><td></td></tr>
+<tr><td>Oli vegetali: olio essenziale di arancio</td><td></td></tr>
+<tr><td>Olio di eucalipto</td><td></td></tr>
+<tr><td>Olio di gaultheria</td><td></td></tr>
+<tr><td>Olio di menta</td><td></td></tr>
+<tr><td>Olio di menta verde</td><td></td></tr>
 <tr><td>Olio di paraffina (CAS 64742-46-7)</td><td></td></tr>
 <tr><td>Olio di paraffina (CAS 72623-86-0)</td><td></td></tr>
 <tr><td>Olio di paraffina (CAS 8042-47-5)</td><td></td></tr>
 <tr><td>Olio di paraffina (CAS 97862-82-3)</td><td></td></tr>
-<tr><td>Pepe</td><td></td></tr>
-<tr><td>Olio di menta</td><td></td></tr>
-<tr><td>Oli vegetali: citronnellolo</td><td></td></tr>
-<tr><td>Oli vegetali: eugenolo da essenza di garofano</td><td></td></tr>
-<tr><td>Oli vegetali: olio essenziale di arancio</td><td></td></tr>
-<tr><td>Oli vegetali: olio di colza</td><td></td></tr>
+<tr><td>Olio di sesamo raffinato</td><td></td></tr>
+<tr><td>*Paecilomyces fumosoroseus*</td><td></td></tr>
+<tr><td>*Paecilomyces lilacinus*</td><td></td></tr>
 <tr><td>Pareti cellulari di Saccharomyces cerevisiae ceppo LAS117</td><td></td></tr>
+<tr><td>Pepe</td><td></td></tr>
 <tr><td>*Phlebia gigantea*</td><td></td></tr>
 <tr><td>*Photorhabdus luminescens*</td><td></td></tr>
 <tr><td>*Pseudomonas chlororaphis*</td><td></td></tr>
 <tr><td>*Pseudomonas* sp. (DSMZ 13134)</td><td></td></tr>
-<tr><td>Sabbia di quarzo</td><td></td></tr>
-<tr><td>Estratto di quassia</td><td></td></tr>
 <tr><td>Repellenti: farina di sangue</td><td></td></tr>
-<tr><td>Repellenti: olio di pesce</td><td></td></tr>
 <tr><td>Repellenti: grasso di pecora</td><td></td></tr>
+<tr><td>Repellenti: olio di pesce</td><td></td></tr>
 <tr><td>Repellenti: tallolo</td><td></td></tr>
-<tr><td>Terpenoid blend QRD 460</td><td></td></tr>
-<tr><td>Estratto di equiseto</td><td></td></tr>
-<tr><td>Virus della granulosi della capua</td><td></td></tr>
-<tr><td>Acido solforico argilla</td><td></td></tr>
-<tr><td>Estratto di alghe marine</td><td></td></tr>
-<tr><td>Olio di sesamo raffinato</td><td></td></tr>
+<tr><td>Sabbia di quarzo</td><td></td></tr>
+<tr><td>Siero di latte</td><td></td></tr>
+<tr><td>Silicato di alluminio (caolino)</td><td></td></tr>
+<tr><td>Solfato ferrico</td><td></td></tr>
+<tr><td>Solfato ferroso</td><td></td></tr>
 <tr><td>*Streptomyces griseoviridis*</td><td></td></tr>
-<tr><td>Estratto di albero del tè</td><td></td></tr>
-<tr><td>Cloridrato di trimetilammina</td><td></td></tr>
+<tr><td>Terpenoid blend QRD 460</td><td></td></tr>
+<tr><td>Timolo</td><td></td></tr>
+<tr><td>Tiocianato di potassio</td><td></td></tr>
+<tr><td>Triioduro di potassio</td><td></td></tr>
 <tr><td>*Verticillium lecanii*</td><td></td></tr>
 <tr><td>Vino</td><td></td></tr>
-<tr><td>Aceto di vino</td><td></td></tr>
-<tr><td>Zucchero bianco</td><td></td></tr>
-<tr><td>Olio di gaultheria</td><td></td></tr>
+<tr><td>Virus della granulosi della capua</td><td></td></tr>
+<tr><td>Virus della granulosi della carpocapsa</td><td></td></tr>
 <tr><td>*Xenorhabdus bovienii*</td><td></td></tr>
 <tr><td>Zolfo</td><td></td></tr>
+<tr><td>Zucchero bianco</td><td></td></tr>
 </table>
 
 Allegato 4
