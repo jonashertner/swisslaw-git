@@ -4,13 +4,13 @@ number: "430.41"
 title: Ordonnance concernant le service médical scolaire
 short: OSMS
 language: fr
-version: 2020-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-01-29
+version: 2021-08-01
+valid_until: 2026-07-31
+version_adopted: 2021-06-30
 adopted: 2026-04-01
 in_force: 2026-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.41"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1813/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2312/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1813/pdf_file"
 
 (OSMS)
 
-du 08.06.1994 (état au 01.03.2020)
+du 08.06.1994 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -233,9 +233,9 @@ arrête:
 
 **Autres mesures et avis**
 
-<sup>1</sup> Dans le cadre de la lutte contre les maladies transmissibles, les avis et les mesures sont soumis aux législations fédérale et cantonale sur les épidémies et la tuberculose.
+<sup>1</sup> Dans le cadre de la lutte contre les maladies transmissibles, les avis et les mesures sont soumis aux législations fédérale et cantonale sur les épidémies.
 
-<sup>2</sup> L'Office du médecin cantonal doit être averti si les décisions du médecin scolaire ou du médecin traitant ne peuvent être exécutées.
+<sup>2</sup> L'Office de la santé (ODS) doit être averti si les décisions du médecin scolaire ou du médecin traitant ne peuvent être exécutées.
 
 ## 3 Organisation
 
@@ -257,7 +257,7 @@ arrête:
 
 <sup>2</sup> Les médecins scolaires sont habilités à faire des propositions.
 
-<sup>3</sup> Dans les questions médicales, ils traitent directement avec l'Office du médecin cantonal.
+<sup>3</sup> Dans les questions médicales, ils traitent directement avec l'ODS.
 
 #### Art. 21
 
@@ -269,9 +269,9 @@ arrête:
 
 **4. Formation**
 
-<sup>1</sup> Au cours des deux premières années de leur activité au sein du service médical scolaire, les médecins scolaires sont tenus de participer au cours d'introduction organisé par l'Office du médecin cantonal.
+<sup>1</sup> Au cours des deux premières années de leur activité au sein du service médical scolaire, les médecins scolaires sont tenus de participer au cours d'introduction organisé par l'ODS.
 
-<sup>2</sup> Les médecins scolaires sont tenus de prendre part à la journée de perfectionnement organisée chaque année par l'Office du médecin cantonal.
+<sup>2</sup> Les médecins scolaires sont tenus de prendre part à la journée de perfectionnement organisée chaque année par l'ODS.
 
 #### Art. 23
 

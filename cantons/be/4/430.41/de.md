@@ -4,13 +4,13 @@ number: "430.41"
 title: Verordnung über den schulärztlichen Dienst
 short: SDV
 language: de
-version: 2020-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-01-29
+version: 2021-08-01
+valid_until: 2026-07-31
+version_adopted: 2021-06-30
 adopted: 2026-04-01
 in_force: 2026-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.41"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1813/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2312/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1813/pdf_file"
 
 (SDV)
 
-vom 08.06.1994 (Stand 01.03.2020)
+vom 08.06.1994 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -237,9 +237,9 @@ beschliesst:
 
 **Weitere Anzeigen und Massnahmen**
 
-<sup>1</sup> Bei der Bekämpfung übertragbarer Krankheiten richten sich Anzeigen und Massnahmen nach der eidgenössischen und kantonalen Epidemien- und Tuberkulosegesetzgebung.
+<sup>1</sup> Bei der Bekämpfung übertragbarer Krankheiten richten sich Anzeigen und Massnahmen nach der eidgenössischen und kantonalen Epidemiengesetzgebung.
 
-<sup>2</sup> Lassen sich Anordnungen der Schulärztin oder des Schularztes, der behandelnden Ärztin oder des behandelnden Arztes nicht durchsetzen, ist das Kantonsarztamt zu benachrichtigen.
+<sup>2</sup> Lassen sich Anordnungen der Schulärztin oder des Schularztes, der behandelnden Ärztin oder des behandelnden Arztes nicht durchsetzen, ist das Gesundheitsamt (GA) zu benachrichtigen.
 
 ## 3 Organisation
 
@@ -261,7 +261,7 @@ beschliesst:
 
 <sup>2</sup> Sie sind berechtigt, Anträge zu stellen.
 
-<sup>3</sup> Sie verkehren in medizinischen Fragen direkt mit dem Kantonsarztamt.
+<sup>3</sup> Sie verkehren in medizinischen Fragen direkt mit dem GA.
 
 #### Art. 21
 
@@ -273,9 +273,9 @@ beschliesst:
 
 **4. Ausbildung**
 
-<sup>1</sup> Schulärztinnen und Schulärzte sind verpflichtet, innert der ersten zwei Jahre ihrer schulärztlichen Tätigkeit an dem durch das Kantonsarztamt organisierten Einführungskurs teilzunehmen.
+<sup>1</sup> Schulärztinnen und Schulärzte sind verpflichtet, innert der ersten zwei Jahre ihrer schulärztlichen Tätigkeit an dem durch das GA organisierten Einführungskurs teilzunehmen.
 
-<sup>2</sup> Sie sind gehalten, an der durch das Kantonsarztamt jährlich organisierten Fortbildungstagung teilzunehmen.
+<sup>2</sup> Sie sind gehalten, an der durch das GA jährlich organisierten Fortbildungstagung teilzunehmen.
 
 #### Art. 23
 
