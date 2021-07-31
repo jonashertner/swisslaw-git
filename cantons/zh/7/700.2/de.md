@@ -4,11 +4,11 @@ number: "700.2"
 title: Allgemeine Bauverordnung (ABV)
 short: ABV
 language: de
-version: "2019-04-24"
-nachtrag: "105"
-valid_until: 2021-08-01
+version: "2021-08-01"
+nachtrag: "114"
+valid_until: 2024-12-01
 adopted: 1977-06-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_2-1977_06_22-1978_07_01-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_2-1977_06_22-1978_07_01-114.html"
 text: pdf
 ---
 
@@ -44,7 +44,7 @@ Der Regierungsrat beschliesst:
 
 **1**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 <sup>2</sup> Anbauten sind mit einem anderen Gebäude zusammengebaute Gebäude mit einer Grundfläche von höchstens 50 m<sup>2</sup>, deren Gesamthöhe 4,0 m, bei Schrägdächern 5,0 m, nicht überschreitet und die nur Nebennutzflächen enthalten.
 
@@ -126,9 +126,7 @@ Ausstattungen sind Nebeneinrichtungen zu Bauten und Anlagen, wie Spielplätze, R
 
 **3**
 
-- 1\. 7. 19 - 105
-
-- 2\. Die Überbauungsziffer (§ 256 PBG)<sup>14</sup>
+1.10. 21 - 114 2. Die Überbauungsziffer (§ 256 PBG)<sup>14</sup>
 
 **Dem Energiesparen dienende Bauteile**
 
@@ -204,7 +202,7 @@ Ausstattungen sind Nebeneinrichtungen zu Bauten und Anlagen, wie Spielplätze, R
 
 **5**
 
-- 1\. 7. 19 - 105 § 26. Der Mehrhöhenzuschlag im Sinne von § 260 Abs. 2 PBG<sup>2</sup> wird rechtwinklig zu den Fassaden und radial über die Gebäudeecken gemessen.
+1.10. 21 - 114 § 26. Der Mehrhöhenzuschlag im Sinne von § 260 Abs. 2 PBG<sup>2</sup> wird rechtwinklig zu den Fassaden und radial über die Gebäudeecken gemessen.
 
 **D. Mehrhöhenzuschlag**
 
@@ -242,11 +240,9 @@ Ausstattungen sind Nebeneinrichtungen zu Bauten und Anlagen, wie Spielplätze, R
 
 **Beeinträchtigung durch Schattenwurf**
 
-<sup>1</sup> Als wesentliche Beeinträchtigung durch Schattenwurf im Sinne von § 284 PBG[^hIXBesondereBegrif-1] gilt:
+<sup>1</sup> Als wesentliche Beeinträchtigung durch Schattenwurf im Sinne von § 284 PBG[^hIXBesondereBegrif-1] gilt:<sup>18</sup> a. bei überbauten Grundstücken: die an den mittleren Wintertagen länger als drei Stunden dauernde Beschattung der bewohnten oder in Wohnzonen liegenden Nachbargebäude, in der Regel an ihrem Fusspunkt gemessen,
 
-- a. bei überbauten Grundstücken: die an den mittleren Wintertagen länger als zwei Stunden dauernde Beschattung der bewohnten oder in Wohnzonen liegenden Nachbargebäude, in der Regel an ihrem Fusspunkt gemessen,
-
-- b. bei unüberbauten Grundstücken in Wohnzonen: die an den mittleren Wintertagen länger als zwei Stunden dauernde Beschattung überbaubarer Flächen des Nachbargrundstückes, sofern dadurch eine den örtlichen Verhältnissen und der Bau- und Zonenordnung entsprechende Überbauung verunmöglicht oder erheblich erschwert wird.
+- b. bei unüberbauten Grundstücken in Wohnzonen: die an den mittleren Wintertagen länger als drei Stunden dauernde Beschattung überbaubarer Flächen des Nachbargrundstückes, sofern dadurch eine den örtlichen Verhältnissen und der Bau- und Zonenordnung entsprechende Überbauung verunmöglicht oder erheblich erschwert wird.
 
 <sup>2</sup> Keine wesentliche Beeinträchtigung durch Schattenwurf liegt indessen vor, wenn mit einem in allen Teilen den Vorschriften entsprechenden kubischen Vergleichsprojekt nachgewiesen wird, dass eine der Bau- und Zonenordnung entsprechende Überbauung keine geringere Beschattung des Nachbargrundstückes nach sich zieht.
 
@@ -274,7 +270,7 @@ Ausstattungen sind Nebeneinrichtungen zu Bauten und Anlagen, wie Spielplätze, R
 
 **7**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 [^31-1]: Fassung gemäss RRB vom 25. September 1991 (OS 52, 44). In Kraft seit 1. Februar 1992 (OS 52, 48).
 [^31-2]: LS 700.1.
@@ -313,7 +309,7 @@ Bis zur Anpassung der Bau- und Zonenordnung an die Änderung vom 14. September 2
 
 **11**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 ### Figur 2.1–2.3 Gebäude, Kleinbauten und Anbauten (§§ 2, 2 a ABV)
 
@@ -341,7 +337,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **13**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 ### Figur 3.3 Projizierte Fassadenlinie (§ 6 b ABV)
 
@@ -349,7 +345,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **15**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 ### Figur 3.5 Rückspringende und unbedeutend rückspringende Gebäudeteile (§ 6 d ABV)
 
@@ -359,7 +355,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **17**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 ### Figur 5.2 Fassadenhöhe (§ 278 PBG)
 
@@ -369,7 +365,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **19**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 ### Figur 6.1 Geschosse und Geschosszahl (§ 276 PBG)
 
@@ -377,7 +373,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **21**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 ### Figur 6.3 Dachgeschosse (§ 275 Abs. 2 PBG)
 
@@ -387,7 +383,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **23**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 ### Figur 7.2–7.4 Abstände und Abstandsbereiche (§ 260 PBG)
 
@@ -405,7 +401,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **25**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 ### Figur 7.6 Grenzabstand bei gestaffelten Fassaden (§§ 21–26 ABV)
 
@@ -449,7 +445,7 @@ $(cid:15)(cid:9)%%(cid:9) (cid:2)(cid:3)(cid:4)(cid:4)(cid:3)(cid:5)(cid:6)(cid:
 
 **27**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 ### Figur 7.8 Grenzabstand eines abgerundeten Baukörpers (§§ 21–26 ABV)
 
@@ -503,7 +499,7 @@ C(cid:19)’ B(cid:12)31(cid:12) (cid:20)(cid:10)(cid:7)(cid:10)(cid:9) C(cid:19
 
 **29**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 ### Figur 7.12 Fassadenlänge (§ 260 PBG / § 27 ABV)
 
@@ -559,7 +555,7 @@ $(cid:9)(cid:15)(cid:15)(cid:6)(cid:10)(cid:7)
 
 **31**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 ### Figur 8.1 Anrechenbare Grundstücksfläche (§ 259 PBG)
 
@@ -589,7 +585,7 @@ AG’(cid:12)(cid:3)(cid:7)(cid:11)(cid:12)(cid:26)’(cid:12)(cid:7)(cid:10)(ci
 
 **33**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 ### Figur 8.3 Baumassenziffer (§ 258 PBG)
 
@@ -679,7 +675,7 @@ Der Regierungsrat beschliesst:
 
 **37**
 
-- 1\. 7. 19 - 105
+1.10. 21 - 114
 
 <sup>3</sup> Wird die Konstruktionsstärke der Fassade und des Dachs aufgrund der Wärmedämmung grösser als 35 cm, ist sie nur bis zu diesem Mass zu berücksichtigen.[^12-1]
 
@@ -691,7 +687,7 @@ Der Regierungsrat beschliesst:
 
 - c. verglaste Balkone, Veranden und andere Vorbauten ohne heiztechnische Installationen, soweit sie dem Energiesparen dienen.
 
-[^12-1]: Eingefügt durch RRB vom 10. September 2008 (OS 64, 127; ABl 2008, 1535). In Kraft seit 1. Juli 2009. 1. 7. 19 - 105 39
+[^12-1]: Eingefügt durch RRB vom 10. September 2008 (OS 64, 127; ABl 2008, 1535). In Kraft seit 1. Juli 2009. 1.10. 21 - 114 39
 [^12-2]: Eingefügt durch RRB vom 14. Mai 2003 (OS 58, 199). In Kraft seit 1. Januar 2004 (OS 58, 250).
 [^12-3]: LS 700.1.
 
@@ -746,7 +742,7 @@ Der Regierungsrat beschliesst:
 
 ## Skizzen für die Mess- und Berechnungsweisen gemäss Planungs- und Baugesetz (PBG) und der Allgemeinen Bauverordnung (ABV)
 
-Anhang zur Allgemeinen Bauverordnung vom 22. Juni / 25. September 1991
+Anhang zur Allgemeinen Bauverordnung vom 22. Juni 1977 / 25. September 1991
 
 ## Weitere Fussnoten
 
@@ -760,11 +756,12 @@ Anhang zur Allgemeinen Bauverordnung vom 22. Juni / 25. September 1991
 - [13] Eingefügt durch RRB vom 11. Mai 2016 (OS 72, 60; ABl 2016-05-27). In Kraft seit 1. März 2017.
 - [15] Aufgehoben durch RRB vom 11. Mai 2016 (OS 72, 60; ABl 2016-05-27). In Kraft seit 1. März 2017.
 - [16] Übergangsbestimmungen zur Änderung vom 11. Mai 2016. In Kraft seit 1. März 2017 (siehe Anhang).
-- [17] Fassung gemäss Berichtigung vom 24. April 2019 (OS 74, 188). In Kraft seit 24. April 2019. 1. 7. 19 - 105 9
+- [17] Fassung gemäss Berichtigung vom 24. April 2019 (OS 74, 188). In Kraft seit 24. April 2019.
+- [18] Fassung gemäss RRB vom 18. März 2020 (OS 76, 263; ABl 2020-03-27). In Kraft seit 1. August 2021. 1.10. 21 - 114 9
 - [0] (cid:12)/(cid:12)’
 - [4] #2:(cid:12)!(cid:12);(cid:12)4#::(cid:12)!(cid:12)+(cid:12)3#2:(cid:12)! ?#3:(cid:12)!(cid:12)@(cid:12)&gt;#.:(cid:12)!(cid:12)+(cid:12).#2:(cid:12)! ’(cid:12)+(cid:12)4#2:(cid:12)!(cid:12);(cid:12).#2:(cid:12)!(cid:12)+(cid:12)2#::(cid:12)!
 - [3] #2: 2#:: =/6 ’(cid:15)(cid:9)(cid:7)(cid:18)(cid:6)(cid:14)(cid:4)(cid:5)(cid:6)(cid:7)(cid:11)(cid:12)(cid:10)(cid:7)(cid:29)(cid:24)(cid:20)(cid:8)(cid:9)(cid:12)(cid:31)(cid:9)(cid:17)(cid:15)(cid:17),(cid:17)(cid:9)(cid:12)+ (cid:25)(cid:12)+(cid:12)&gt;#.:(cid:12)!
-- [*] 1. 7. 19 - 105 35
+- [*] 1.10. 21 - 114 35
 - [1] OS 46, 770 und GS V, 91.
 - [3] In Kraft seit 1. Juli 1978.
 - [4] Vom Kantonsrat genehmigt am 29. August 1977.
