@@ -4,13 +4,12 @@ number: "416.114.1"
 title: Reglement für das Berufsvorbereitungsjahr
 short: BVJ-Reglement
 language: de
-version: 2014-04-01
-valid_until: 2021-07-31
-version_adopted: 2014-02-18
+version: 2021-08-01
+version_adopted: 2021-01-27
 adopted: 2014-02-18
 in_force: 2014-04-01
 url: "https://bgs.so.ch/app/de/texts_of_law/416.114.1"
-pdf: "https://bgs.so.ch/api/de/versions/4277/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5057/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4277/pdf_file"
 
 (BVJ-Reglement)
 
-Vom 18.02.2014 (Stand 01.04.2014)
+Vom 18.02.2014 (Stand 01.08.2021)
 
 Das Departement für Bildung und Kultur
 
@@ -52,7 +51,7 @@ beschliesst:
 
 **Schulischer Teil**
 
-<sup>1</sup> Das Berufbildungszentrum Olten (BBZ Olten) führt das BVJ mit den Profilen Technik/Handwerk und Dienstleistung/Soziales.
+<sup>1</sup> Das Berufsbildungszentrum Olten (BBZ Olten) führt das BVJ.
 
 <sup>2</sup> Das BBZ Olten setzt dazu eine Leitung BVJ ein.
 
@@ -99,7 +98,7 @@ beschliesst:
 - g) eine schriftliche Empfehlung der abgebenden Schule der Sekundarstufe I, in der Regel von der Klassenlehrperson, vorweist;
 - h) die Anmeldeunterlagen termingerecht und vollständig eingereicht hat.
 
-<sup>2</sup> Wer bei Schuljahresbeginn keinen Praktikumsvertrag vorweist, kann in begründeten Fällen provisorisch aufgenommen werden. Der Vertrag muss spätestens am 1. September vorliegen, ansonsten muss die Schule verlassen werden.
+<sup>2</sup> Wer bei Schuljahresbeginn keinen Praktikumsvertrag vorweist, kann in begründeten Fällen provisorisch aufgenommen werden. Der Vertrag muss spätestens am 15. September vorliegen, ansonsten muss die Schule verlassen werden.
 
 #### § 8
 
