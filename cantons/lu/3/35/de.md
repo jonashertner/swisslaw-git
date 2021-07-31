@@ -4,13 +4,13 @@ number: "35"
 title: Geschäftsordnung des Regierungsrates
 short: GORR
 language: de
-version: 2017-09-01
-valid_until: 2021-07-31
-version_adopted: 2017-07-04
+version: 2021-08-01
+valid_until: 2025-04-30
+version_adopted: 2021-07-06
 adopted: 2014-08-26
 in_force: 2014-10-01
 url: "https://srl.lu.ch/app/de/texts_of_law/35"
-pdf: "https://srl.lu.ch/api/de/versions/3130/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3770/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3130/pdf_file"
 
 (GORR)
 
-vom 26.08.2014 (Stand 01.09.2017)
+vom 26.08.2014 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -129,14 +129,14 @@ beschliesst:
 
 <sup>2</sup> Die Traktandenliste gliedert sich in die Geschäftsgruppen A bis D. Die Departemente und die Staatskanzlei vermerken bei der Eingabe eines Geschäfts, in welche Gruppe dieses einzuteilen ist. Die Gruppen sind wie folgt definiert:
 
-- a. Die Gruppe A umfasst die Geschäfte von strategischer Bedeutung, die zwingend einer Diskussion bedürfen. Dazu gehören insbesondere Aussprache- und Planungsgeschäfte.
-- b. Die Gruppe B umfasst die vertraulichen Geschäfte, in die nur eingeschränkt Einsicht gewährt werden darf. Dazu gehören insbesondere vertrauliche Aussprachen, Personalgeschäfte und Beschwerdeentscheide.
-- c. Die Gruppe C umfasst die Geschäfte mit möglichem Diskussionsbedarf. Dies sind insbesondere alle Geschäfte zuhanden des Kantonsrates, wie Botschaften und Stellungnahmen zu Vorstössen, sowie Verordnungen, Vollmachtschreiben und Vernehmlassungen.
+- a. Die Gruppe A umfasst die Geschäfte, die aus rechtlichen oder inhaltlichen Gründen besonders vertraulich zu behandeln sind und in die nur Personen gemäss § 10 Absatz 2 Einsicht haben.
+- b. Die Gruppe B umfasst die weiteren vertraulichen Geschäfte, in die gemäss § 10 Absatz 3 nur eingeschränkt Einsicht gewährt werden darf. Dazu gehören insbesondere vertrauliche Aussprachen, Personalgeschäfte und Beschwerdeentscheide.
+- c. Die Gruppe C umfasst die Geschäfte mit möglichem Diskussionsbedarf. Dies sind Aussprache- und Planungsgeschäfte, alle Geschäfte zuhanden des Kantonsrates, wie Botschaften und Stellungnahmen zu Vorstössen, sowie Verordnungen, Vollmachtschreiben und Vernehmlassungen.
 - d. Die Gruppe D umfasst die Geschäfte, die gestützt auf die Beratungsunterlagen ohne Diskussion erledigt werden können.
 
 <sup>3</sup> Für die Traktandierung der Geschäfte innerhalb einer Gruppe gilt in der Regel die folgende Reihenfolge:
 
-- 1\. Geschäfte für die bevorstehende Session des Kantonsrates,
+- 1\. …
 - 2\. Geschäfte aus dem Departement des Vizepräsidenten oder der Vizepräsidentin,
 - 3\. Geschäfte aus den Departementen, geordnet nach Amtsalter der weiteren Regierungsrätinnen und -räte,
 - 4\. Geschäfte des Regierungspräsidenten oder der Regierungspräsidentin,
@@ -150,7 +150,7 @@ beschliesst:
 
 <sup>2</sup> Einsicht in alle Geschäfte haben die Mitglieder des Regierungsrates, der Staatsschreiber oder die Staatsschreiberin, der Rechtskonsulent oder die Rechtskonsulentin und der Protokollführer oder die Protokollführerin.
 
-<sup>3</sup> Über die generelle oder einzelfallweise Berechtigung weiterer Personen entscheidet der zuständige Departementsvorsteher oder die zuständige Departementsvorsteherin beziehungsweise der Staatsschreiber oder die Staatsschreiberin. Die Berechtigung zur generellen Einsichtnahme in vertrauliche Geschäfte erteilt der Regierungsrat. Die Staatskanzlei führt über die Erlaubnis zur Einsichtnahme in vertrauliche Geschäfte Protokoll.
+<sup>3</sup> Über die generelle oder einzelfallweise Berechtigung weiterer Personen entscheidet der zuständige Departementsvorsteher oder die zuständige Departementsvorsteherin beziehungsweise der Staatsschreiber oder die Staatsschreiberin. Die Berechtigung zur generellen Einsichtnahme in die vertraulichen Geschäfte der Gruppe B erteilt der Regierungsrat. Die Berechtigung zur Einsichtnahme in besonders vertrauliche Geschäfte der Gruppe A darf keinen weiteren Personen als den in Absatz 2 genannten erteilt werden. Die Staatskanzlei führt über die Erlaubnis zur Einsichtnahme in vertrauliche Geschäfte Protokoll.
 
 <sup>4</sup> Besondere Beilagen zu Geschäften, wie Pläne oder Modelle, können vom zuständigen Departement oder der Staatskanzlei im Regierungsratssaal aufgelegt werden.
 
@@ -166,17 +166,17 @@ beschliesst:
 
 **Reihenfolge der Geschäfte**
 
-<sup>1</sup> Zu Beginn der Sitzung des Regierungsrates findet ein Informations- und Meinungsaustausch über nicht traktandierte Themen statt. Die Mitglieder und der Staatsschreiber oder die Staatsschreiberin orientieren insbesondere über bedeutende Geschäfte und wichtige Vorgänge in ihren Organisationseinheiten, in den Organisationen mit kantonaler Beteiligung und in interkantonalen Gremien sowie über wichtige Veranstaltungen und Medienauftritte. Weiter wird über Ordnungsanträge entschieden (Ergänzung der Traktandenliste, Verschiebung traktandierter Geschäfte, Beizug von Sachverständigen usw.).
+<sup>1</sup> Zu Beginn der Sitzung des Regierungsrates findet ein Informations- und Meinungsaustausch über nicht traktandierte Themen statt. Die Mitglieder und der Staatsschreiber oder die Staatsschreiberin orientieren insbesondere über bedeutende Geschäfte und wichtige Vorgänge in ihren Organisationseinheiten, in den Organisationen mit kantonaler Beteiligung und in interkantonalen Gremien sowie über wichtige Veranstaltungen und Medienauftritte. Weiter werden die übrigen ständigen Traktanden behandelt und es wird über Ordnungsanträge entschieden (Ergänzung der Traktandenliste, Verschiebung traktandierter Geschäfte, Beizug von Sachverständigen usw.).
 
-<sup>2</sup> Anschliessend werden die Geschäfte auf der Traktandenliste in der Reihenfolge A bis D behandelt. In dringenden Fällen kann der Regierungsrat Ausnahmen beschliessen.
+<sup>2</sup> Anschliessend werden die Geschäfte auf der Traktandenliste in der Reihenfolge A bis D behandelt. In dringenden Fällen oder aus sitzungsorganisatorischen Gründen kann der Regierungsrat von dieser Reihenfolge abweichen.
 
 #### § 13
 
 **Behandlung der Geschäfte**
 
-<sup>1</sup> Die Geschäfte der Gruppe A werden vor der Beschlussfassung beraten.
+<sup>1</sup> Die Geschäfte der Gruppe A sowie Aussprachegeschäfte sind vor der Beschlussfassung zu beraten. Im Übrigen gelten die Geschäfte als gemäss Antrag beschlossen, sofern kein Einspruch erhoben wird.
 
-<sup>2</sup> Geschäfte der Gruppen B bis D gelten als gemäss Antrag beschlossen, sofern kein Einspruch erhoben wird.
+<sup>2</sup> …
 
 <sup>3</sup> Bei der Beratung von Geschäften erhält zuerst das zuständige Regierungsratsmitglied oder der Staatsschreiber oder die Staatsschreiberin das Wort. Danach ist die Diskussion frei. Wird kein Einspruch gegen einen Antrag erhoben, gilt er ohne Abstimmung als angenommen.
 
@@ -208,7 +208,7 @@ beschliesst:
 
 <sup>1</sup> In dringenden Fällen können auf Antrag eines Mitglieds des Regierungsrates oder des Staatsschreibers oder der Staatsschreiberin Zirkulationsbeschlüsse gefasst werden.
 
-<sup>2</sup> Die Beschlussentwürfe sind, wenn möglich, allen Mitgliedern des Regierungsrates zur Unterschrift vorzulegen. Die zugehörigen Beratungsunterlagen sind beizufügen.
+<sup>2</sup> Die Beschlussentwürfe sind allen Mitgliedern des Regierungsrates auf elektronischem Weg vorzulegen. Die zugehörigen Beratungsunterlagen sind beizufügen.
 
 ## 5 Protokoll
 
@@ -216,19 +216,19 @@ beschliesst:
 
 **Bestandteile und Genehmigung**
 
-<sup>1</sup> Das Protokoll der Sitzung des Regierungsrates besteht aus den Beschlüssen, den Protokollnotizen und dem vertraulichen Protokoll.
+<sup>1</sup> Das Protokoll der Sitzung des Regierungsrates besteht aus den Beschlüssen, den Protokollnotizen und den vertraulichen Protokollen.
 
-<sup>2</sup> Die Protokollnotizen und das vertrauliche Protokoll werden in der Regel an der folgenden Sitzung genehmigt.
+<sup>2</sup> Die Protokollnotizen und die vertraulichen Protokolle werden in der Regel an der folgenden Sitzung genehmigt.
 
 #### § 19
 
 **Protokollnotizen und vertrauliche Protokolle**
 
-<sup>1</sup> In den Protokollnotizen werden die Änderungsanträge und -beschlüsse mit den wichtigsten Begründungen zu den einzelnen Geschäften der Gruppen A, C und D aufgeführt.
+<sup>1</sup> In den Protokollnotizen werden die Änderungsanträge und -beschlüsse mit den wichtigsten Begründungen zu den einzelnen Geschäften der Gruppen C und D aufgeführt.
 
-<sup>2</sup> Das vertrauliche Protokoll umfasst den Informations- und Meinungsaustausch gemäss § 12 Absatz 1 sowie die Änderungsanträge und -beschlüsse mit den wichtigsten Begründungen zu den Geschäften der Gruppe B.
+<sup>2</sup> Das vertrauliche Protokoll umfasst den Informations- und Meinungsaustausch gemäss § 12 Absatz 1 sowie die Änderungsanträge und -beschlüsse mit den wichtigsten Begründungen zu den Geschäften der Gruppe B. Zu den besonders vertraulichen Geschäften der Gruppe A wird ein separates vertrauliches Protokoll erstellt.
 
-<sup>3</sup> Die Mitglieder des Regierungsrates, der Staatsschreiber oder die Staatsschreiberin, der Rechtskonsulent oder die Rechtskonsulentin und der Protokollführer oder die Protokollführerin haben Einsicht in die Protokollnotizen und die vertraulichen Protokolle. Weitere Personen erhalten diese im Rahmen der Berechtigungen gemäss § 10 Absatz 3.
+<sup>3</sup> Die Mitglieder des Regierungsrates, der Staatsschreiber oder die Staatsschreiberin, der Rechtskonsulent oder die Rechtskonsulentin und der Protokollführer oder die Protokollführerin haben Einsicht in die Protokollnotizen und die vertraulichen Protokolle. Weitere Personen erhalten diese, soweit sie gemäss § 10 Absatz 3 zur Einsichtnahme in die betreffenden Geschäfte berechtigt sind.
 
 ## 6 Ausfertigung, Zustellung und Veröffentlichung der Beschlüsse
 
