@@ -4,11 +4,11 @@ title: "Ordinance of 6 November 2019 on Financial Services (Financial Services O
 short: FINSO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/759"
 language: en
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2019-759-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2019-759-20210801-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20210801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20200101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only, has no legal force.
 
-(Financial Services Ordinance, FINSO)
+(Financial Services Ordinance, FinSO)
 
-of 6 November 2019 (Status as of 1 January 2020)
+of 6 November 2019 (Status as of 1 August 2021)
 
 The Swiss Federal Council,
 
@@ -784,34 +784,38 @@ Consent to use a valid prospectus in accordance with Article 36 paragraph 4 lett
 
 <sup>2</sup> A preliminary ruling by the reviewing body can be obtained to clarify the question of equivalence. The application for a preliminary ruling must be submitted to the reviewing body in good time prior to the envisaged admission to trading.
 
-<sup>3</sup> In the case of public conversion offers, information in an offer prospectus produced in accordance with Article 127 of the Financial Market Infrastructure Act of 19 June 2015[^46-1] (FMIA) is deemed equivalent. In order to ensure equivalence, the reviewing body may require that, insofar as circumstances permit, the issuer provide pro-forma financial information detailing any structural changes.
+<sup>3</sup> In the case of public conversion offers, information in an offer prospectus produced in accordance with Article 127 of the Financial Market Infrastructure Act of 19 June 2015[^46-1] (FinMIA) is deemed equivalent. In order to ensure equivalence, the reviewing body may require that, insofar as circumstances permit, the issuer provide pro-forma financial information detailing any structural changes.
 
 [^46-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 
 #### Art. 47
 
-**Exemption for securities admitted to trading on Swiss trading venues**
+**Exemption for securities admitted to trading on Swiss trading venues or DLT trading facilities**[^47-1]
 
 ### (Art. 37 para. 2 and 38 para. 2 FinSA)
 
-No further prospectus needs to be published for the admission to trading of securities which have already been admitted to trading on another Swiss trading venue.
+No further prospectus needs to be published for the admission to trading of securities which have already been admitted to trading on another Swiss trading venue or another Swiss trading facility for distributed ledger technology securities (DLT trading facility).
+
+[^47-1]: Amended by No I 4 of the O of 18 June on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 48
 
-**Recognised foreign trading venues**
+**Recognised foreign trading venue or DLT trading facility[^48-1]**
 
 ### (Art. 38 para. 1 let. c and 47 para. 2 let. c FinSA)
 
 <sup>1</sup>
 
-For the purposes of this Ordinance and Title 3 FinSA, a recognised foreign trading venue is deemed to be any trading venue whose regulation, supervision and transparency have been recognised as appropriate:
+For the purposes of this Ordinance and Title 3 FinSA, a recognised foreign trading venue or DLT trading facility is deemed to be any foreign trading venue or foreign DLT trading facility whose regulation, supervision and transparency have been recognised as appropriate:
 
-- a. for the purposes of admission to trading: by the Swiss trading venue; or
-- b. for the purposes of a public offer without admission to trading: by a Swiss trading venue or a reviewing body.
+- a. for the purposes of admission to trading: by the Swiss trading venue or Swiss DLT trading facility; or
+- b. for the purposes of a public offer without admission to trading: by a Swiss trading venue, a Swiss DLT trading facility or a reviewing body.
 
 <sup>2</sup> Recognition in accordance with paragraph 1 may be limited to specific trading segments.
 
-<sup>3</sup> Swiss trading venues and reviewing bodies shall maintain and publish a list of foreign trading venues recognised by them or of the recognised trading segments of such foreign trading venues.
+<sup>3</sup> Swiss trading venues, Swiss DLT trading facilities and reviewing bodies shall maintain and publish a list of foreign trading venues or DLT trading facilities recognised by them or of the recognised trading segments of such foreign trading venues or DLT trading facilities.
+
+[^48-1]: Term in accordance with No I 4 of the O of 18 June on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). This amendment has been made throughout the text.
 
 #### Art. 49
 
@@ -821,7 +825,7 @@ For the purposes of this Ordinance and Title 3 FinSA, a recognised foreign tradi
 
 The following exemptions from the duty to publish a prospectus also apply to admission to trading:
 
-- a. Article 37 paragraph 1 letters a–g FinSA, insofar as securities of the same type are already admitted for trading on a Swiss trading venue or a recognised foreign trading venue;
+- a. Article 37 paragraph 1 letters a–g FinSA, insofar as securities of the same type are already admitted for trading on a Swiss trading venue or Swiss DLT trading facility or a recognised foreign trading venue or DLT trading facility;
 - b. Article 37 paragraph 1 letters h and l FinSA.
 
 ### Section 2 Requirements
@@ -848,12 +852,12 @@ The following exemptions from the duty to publish a prospectus also apply to adm
 
 The issuer or guarantor and security provider must apply an accounting standard which is recognised:
 
-- a. for the purposes of admission to trading: by the respective Swiss trading venue; or
-- b. for the purposes of a public offer without admission to trading: by a Swiss trading venue or the reviewing body dealing with the review.
+- a. for the purposes of admission to trading: by the respective Swiss trading venue or Swiss DLT trading facility; or
+- b. for the purposes of a public offer without admission to trading: by a Swiss trading venue or Swiss DLT trading facility or the reviewing body dealing with the review.
 
-<sup>2</sup> Swiss trading venues and reviewing bodies shall maintain and publish a list of accounting standards generally recognised by them.
+<sup>2</sup> Swiss trading venues, DLT trading facilities and reviewing bodies shall maintain and publish a list of accounting standards generally recognised by them.
 
-<sup>3</sup> Trading venues and reviewing bodies may in individual cases recognise other accounting standards. Recognition may be made dependent on including in the prospectus an explanation of the significant differences between the accounting standard recognised in an individual case and a generally recognised accounting standard in accordance with paragraph 1.
+<sup>3</sup> Trading venues, DLT trading facilities and reviewing bodies may in individual cases recognise other accounting standards. Recognition may be made dependent on including in the prospectus an explanation of the significant differences between the accounting standard recognised in an individual case and a generally recognised accounting standard in accordance with paragraph 1.
 
 #### Art. 52
 
@@ -996,7 +1000,7 @@ Issuers within the meaning of Article 47 paragraph 2 letter c FinSA are issuers 
 
 ### (Art. 51 para. 2 FinSA)
 
-<sup>1</sup> Securities whose prospectus must, in accordance with Article 51 paragraph 2 FinSA, be reviewed only after publication are designated in Annex 7. Where securities provide for a conversion into other securities or for an acquisition of other securities, this is conditional on these other securities already being admitted for trading on a Swiss trading venue or a recognised foreign trading venue.
+<sup>1</sup> Securities whose prospectus must, in accordance with Article 51 paragraph 2 FinSA, be reviewed only after publication are designated in Annex 7. Where securities provide for a conversion into other securities or for an acquisition of other securities, this is conditional on these other securities already being admitted for trading on a Swiss trading venue, Swiss DLT trading facility or a recognised foreign trading venue or recognised foreign DLT trading facility.
 
 <sup>2</sup> The mention in accordance with Article 40 paragraph 5 FinSA must appear on the cover page of the prospectus.
 
@@ -1030,7 +1034,7 @@ Issuers within the meaning of Article 47 paragraph 2 letter c FinSA are issuers 
 
 <sup>2</sup> The most important information is deemed to be the information stipulated in Annexes 1–5 and any other information of significance to investors when making the investment decision. This information is considered to be known when it is or can be made publicly accessible.
 
-<sup>3</sup> In the case of issuers or guarantors or security providers whose equity securities or debt instruments are admitted to trading on a Swiss trading venue or a recognised foreign trading venue, the most important information relating to the issuers is assumed to be known. Swiss trading venues may rule that this assumption does not apply to individual trading segments of theirs with low transparency.
+<sup>3</sup> In the case of issuers or guarantors or security providers whose equity securities or debt instruments are admitted to trading on a Swiss trading venue, Swiss DLT trading facility or a recognised foreign trading venue or recognised foreign DLT trading facility, the most important information relating to the issuers is assumed to be known. Swiss trading venues or DLT trading facilities may rule that this assumption does not apply to individual trading segments of theirs with low transparency.
 
 <sup>4</sup> Confirmation pursuant to the present Article is to be submitted to the reviewing body together with the prospectus to be reviewed.
 
@@ -1048,7 +1052,7 @@ Issuers within the meaning of Article 47 paragraph 2 letter c FinSA are issuers 
 
 <sup>3</sup> The time of final completion of an offer in accordance with Article 56 paragraph 1 FinSA is determined by the schedule of the offerer and the banks and securities firms participating directly in the offer.
 
-<sup>4</sup> Notifications of facts which, according to the rules of the respective Swiss or foreign trading venue are made public and are possibly price-sensitive, may be reported in accordance with Article 64 letter b as a supplement. Such a supplement has to be published at the same time as the report is made to the reviewing body.
+<sup>4</sup> Notifications of facts which, according to the rules of the respective Swiss or foreign trading venue or DLT trading facility are made public and are possibly price-sensitive, may be reported in accordance with Article 64 letter b as a supplement. Such a supplement has to be published at the same time as the report is made to the reviewing body.
 
 <sup>5</sup> Instead of extending the offer period, the offerer may, under the terms of the offer, also grant investors the option to withdraw subscriptions and acquisition pledges within two days after the final completion of the public offer.
 
@@ -1114,7 +1118,7 @@ The period commences on receipt of the application for review of the complete pr
 In respect of the review of their prospectus (Article 51 paragraph 1 FinSA), an issuer is not deemed to be a new issuer if:
 
 - a. within the last three years they submitted to the reviewing body, from which approval is being sought, a prospectus for securities issued or guaranteed by them; or
-- b. at the time of submitting the application, securities issued or guaranteed by them are admitted for trading on a Swiss trading venue.
+- b. at the time of submitting the application, securities issued or guaranteed by them are admitted for trading on a Swiss trading venue or Swiss DLT trading facility.
 
 <sup>2</sup> If obligations arising from securities are guaranteed by a third party, the requirements stipulated in paragraph 1 may also be satisfied by this third party.
 
@@ -1134,7 +1138,7 @@ In respect of the review of their prospectus (Article 51 paragraph 1 FinSA), an 
 
 <sup>4</sup>
 
-If a foreign prospectus within the meaning of paragraph 3 is deemed approved, by no later than commencement of the public offer in Switzerland or by no later than admission of the respective securities to trading on a Swiss trading venue it must be:
+If a foreign prospectus within the meaning of paragraph 3 is deemed approved, by no later than commencement of the public offer in Switzerland or by no later than admission of the respective securities to trading on a Swiss trading venue or Swiss DLT trading facility it must be:
 
 - a. registered with a reviewing body for inclusion on the list in accordance with Article 64 paragraph 5 FinSA;
 - b. filed with a reviewing body;
@@ -1382,7 +1386,7 @@ In addition to those stipulated in Article 59 paragraph 1 FinSA, share-like secu
 - c. employee options on equity securities of the employer or a company associated with the latter;
 - d. dividend distributions in the form of claims to shares.
 
-<sup>2</sup> Derivative debt instruments are derivatives and debt instruments whose payoff profile is structured in the same manner as that of a derivative in accordance with Article 2 letter c FMIA[^86-1].
+<sup>2</sup> Derivative debt instruments are derivatives and debt instruments whose payoff profile is structured in the same manner as that of a derivative in accordance with Article 2 letter c FinMIA[^86-1].
 
 <sup>3</sup>
 
@@ -1489,7 +1493,7 @@ The list of prospectuses and the supplements to them in accordance with Article 
 
 ### (Art. 67 FinSA)
 
-<sup>1</sup> If the conditions at the time of issue of securities which are offered publicly in Switzerland on the basis of a prospectus and which are not admitted to trading on a Swiss or a recognised foreign trading venue do not provide for any regulation with respect to the announcement of changes to the rights associated with these securities, then such changes are to be published in the same form as the prospectus was published.
+<sup>1</sup> If the conditions at the time of issue of securities which are offered publicly in Switzerland on the basis of a prospectus and which are not admitted to trading on a Swiss or a recognised foreign trading venue or a Swiss DLT trading facility or a recognised foreign DLT trading facility do not provide for any regulation with respect to the announcement of changes to the rights associated with these securities, then such changes are to be published in the same form as the prospectus was published.
 
 <sup>2</sup> The announcement periods in accordance with paragraph 1 shall be based on the conditions of the respective securities.
 
@@ -1506,7 +1510,7 @@ The list of prospectuses and the supplements to them in accordance with Article 
 In and of themselves alone, the following do not constitute advertising:
 
 - a. the mentioning by name of financial instruments without or in conjunction with the publication of prices or net asset values, price lists or trends, tax figures;
-- b. notifications on issuers or transactions, in particular if they are stipulated by law, by the supervisory authorities or under trading venue rules;
+- b. notifications on issuers or transactions, in particular if they are stipulated by law, by the supervisory authorities or under trading venue or DLT trading facility rules;
 - c. the provision or forwarding of communications from an issuer to existing clients through financial service providers;
 - d. reports in the trade press.
 
@@ -1716,14 +1720,14 @@ If on entry into force of the FinSA there is no corresponding ombudsman's office
 
 ### (Art. 95 FinSA)
 
-<sup>1</sup> In the case of securities for which a public offer was made or a request was made for admission to trading on a trading venue, the duty to publish an approved prospectus shall take effect six months after licensing of a reviewing body by FINMA, but by no earlier than from 1 October 2020.
+<sup>1</sup> In the case of securities for which a public offer was made or a request was made for admission to trading on a trading venue or DLT trading facility, the duty to publish an approved prospectus shall take effect six months after licensing of a reviewing body by FINMA, but by no earlier than from 1 October 2020.
 
 <sup>2</sup>
 
 Until such time, insofar as no prospectus in accordance with FinSA is produced, the following apply:
 
 - a. for public offers in Switzerland: the provisions of the Code of Obligations[^109-1] on issue prospectuses in the version of 16 December 2005[^109-2] (Article 652*a*) and in the version of 1 January1912[^109-3] (Article 1156);
-- b. for admission to trading: the prospectus provisions in accordance with the regulations of the respective trading venues.
+- b. for admission to trading: the prospectus provisions in accordance with the regulations of the respective trading venues or DLT trading facilities.
 
 [^109-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^109-2]: [AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685)
@@ -1814,7 +1818,7 @@ Annex 1
 - 2\.2.8 Date of the articles of association [#];
 - 2\.2.9 If available: Designation of the register, date of entry in this register and, if applicable, company or registration number [◊][#];
 - 2\.2.10 If the issuer is part of a group: description of the group's operational structure [◊][#].
-- **2.3** **Information on the board of directors, management, auditors and other bodies of the issuer**
+- **2.3** **Information on the board of directors, management, auditors and other bodies of the issue****r**
 - 2\.3.1 Composition of bodies [#]
 -
 
@@ -1894,7 +1898,7 @@ Annex 1
 - 2\.6.1 Capital structure
   - a. indication of the amount of ordinary, authorised and conditional capital as at the balance sheet date for the annual financial statements;
   - b. number, type and par value of the securities, stating the principal characteristics in each case, such as dividend entitlement, preferential subscription rights and similar entitlements, and stating the portion of the ordinary capital that is not paid in;
-  - c. if applicable, reference to admission to trading on a trading venue.
+  - c. if applicable, reference to admission to trading on a trading venue or DLT trading facility.
 
 - 2\.6.2 Voting rights
 - Description of voting rights and any related restrictions, along with an indication of group clauses provided for in the articles of association, and of rules on granting exemptions, particularly in the case of proxies for institutional investors.
@@ -1924,11 +1928,11 @@ Annex 1
 - 2\.6.9 Own equity securities [◊][#]
 - Number of own equity securities held by the issuer itself or on its behalf, including own equity securities held by another company in which the issuer holds a majority interest.
 - 2\.6.10 Significant shareholders
-- Information in accordance with Articles 120 and 121 FMIA[^annex1-lvlu1-lvl2-4] and the corresponding implementation provisions of the FINMA Financial Market Infrastructure Ordinance of 3 December 2015[^annex1-lvlu1-lvl2-5] (FMIO-FINMA), insofar as they are known to the issuer.
+- Information in accordance with Articles 120 and 121 FinMIA[^annex1-lvlu1-lvl2-4] and the corresponding implementation provisions of the FINMA Financial Market Infrastructure Ordinance of 3 December 2015[^annex1-lvlu1-lvl2-5] (FinMIO-FINMA), insofar as they are known to the issuer.
 - 2\.6.11 Cross-shareholdings
 - Cross-shareholdings that exceed 5 percent of the holdings of capital or voting rights on both sides.
 - 2\.6.12 Public purchase offers
-- Information on any easing of or exemption from the obligation to make a public purchase offer in accordance with Article 135 FMIA as per the company's articles of association («opting out» and «opting up» clauses), stating the percentage threshold.
+- Information on any easing of or exemption from the obligation to make a public purchase offer in accordance with Article 135 FinMIA as per the company's articles of association («opting out» and «opting up» clauses), stating the percentage threshold.
 - 2\.6.13 Dividend entitlement
 - Date on which entitlement to dividends begins. Details of any withholding taxes levied on the dividends, as well as information on whether or not these withholding taxes will be defrayed by the issuer.
 - 2\.6.14 Employee participation [◊][#]
@@ -1996,7 +2000,7 @@ Annex 1
   - a. If available: securities identification number such as securities number or ISIN;
   - b. currency/currencies the equity securities are traded in.
 
-- **3.8** **Information on the offer [∞]**
+- **3.8** **Information on the off****er [∞]**
 - 3\.8.1 Nature of the issue
 - Nature of the securities issue; specifically, in the case of firm underwritings, the lead underwriter must be stated. If the firm underwriting applies to only a portion of the issue, the level of the underwriting commitment must be given.
 - 3\.8.2 Number, type and par value of securities
@@ -2007,7 +2011,7 @@ Annex 1
 
 - 3\.8.4 International issue, simultaneous public and private placement
   - a. if applicable, indication that the issue is being placed simultaneously on different domestic and foreign markets, and individual tranches are reserved for one or more markets; information on these reserved tranches;
-  - b. if applicable, information on the respective trading venues if the securities have already been admitted to trading, or an application for their admission to trading has been submitted;
+  - b. if applicable, information on the respective trading venues or DLT trading facilities if the securities have already been admitted to trading, or an application for their admission to trading has been submitted;
   - c. if applicable, information on the nature of the processes involved, as well as the number – if determined –and the characteristics of the securities in question, if securities of the same type are being privately subscribed for or placed simultaneously or almost simultaneously with the issue, or if securities of other types are being issued in view of a public or private placement.
 
 - 3\.8.5 Paying agents
@@ -2056,7 +2060,7 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 - b. Relaxations of requirements for issuers in accordance with Article 47 paragraph 2 letter c FinSA: [#];
 - c. Relaxation of requirements for public offer without admission to trading: [×];
 - d. Relaxation of requirements for admission to trading without public offer: [∞];
-- e. Relaxation of requirements for low capitalisation via a trading venue: [±].
+- e. Relaxation of requirements for low capitalisation via a trading venue or DLT trading facility: [±].
 
 - **0.2** **Information on the first page**
   - a. Prospectus of [date] approved by [name of reviewing body] on [date].
@@ -2152,7 +2156,7 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 - 2\.5.1 Capital structure [#]
   - a. indication of the amount of ordinary, authorised and conditional capital as at the balance sheet date for the annual financial statements;
   - b. number, type and par value of the securities, stating the principal characteristics in each case, such as voting rights, dividend entitlement, preferential subscription rights and similar entitlements, and stating the portion of the ordinary capital that is not paid in;
-  - c. if applicable, note that equity securities are admitted to trading on a trading venue.
+  - c. if applicable, note that equity securities are admitted to trading on a trading venue or DLT trading facility.
 
 - 2\.5.2 Outstanding bonds presented in summary form, insofar as this is not misleading [#]
 - Where material, information on outstanding bonds, with a distinction made between bonds secured with physical collateral or in another manner by the issuer or third parties and unsecured bonds, stating the interest rate, maturity and currency.
@@ -2267,7 +2271,7 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 - *Underlying instruments admitted to trading:*
 -
 
-  For convertible bonds and exchangeable claims that relate to participation rights that are already admitted to trading on a Swiss or a recognised foreign trading venue:
+  For convertible bonds and exchangeable claims that relate to participation rights that are already admitted to trading on a Swiss trading venue or Swiss DLT trading facility or a recognised foreign trading venue or recognised foreign DLT trading facility:
 
   - a. company name and domicile of the issuer of the underlying instrument;
   - b. securities identification numbers of the underlying instrument such as securities number or ISIN;
@@ -2276,7 +2280,7 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
   - e. details of where the current annual reports relating to the issuers of the underlying instrument may be obtained free of charge for the entire term of the securities.
 
 - *Underlying instruments not admitted to trading:*
-- For participation rights to which a convertible bond or exchangeable claim relates, which are not admitted to trading on a Swiss or a recognised foreign trading venue and whose admission to trading is not being applied for at the same time: Information which enables the investor to make an assessment of the participation rights.
+- For participation rights to which a convertible bond or exchangeable claim relates, which are not admitted to trading on a Swiss trading venue or Swiss DLT trading facility or a recognised foreign trading venue or recognised foreign DLT trading facility and whose admission to trading is not being applied for at the same time: Information which enables the investor to make an assessment of the participation rights.
 - **3.6** **Warrant bonds**
 - Complete details about the securities and the warrant terms, as well as all stipulated information on the underlying instrument in accordance with the «Derivatives» scheme.
 - **3.7** **Asset-backed securities**
@@ -2319,7 +2323,7 @@ Relaxations of requirements in accordance with Article 57 are designated as foll
 - Issue price of the securities.
 - 3\.13.3 International issue, simultaneous public and private placement
   - a. if applicable, indication that the issue is being placed simultaneously on different domestic and foreign markets, and individual tranches are reserved for one or more markets; information on these reserved tranches;
-  - b. if applicable, information on the respective trading venues if the securities have already been admitted to trading, or an application for their admission to trading has been submitted;
+  - b. if applicable, information on the respective trading venues or DLT trading facilities if the securities have already been admitted to trading, or an application for their admission to trading has been submitted;
   - c. if applicable, information on the nature of the processes involved, as well as the number – if determined –and the characteristics of the securities in question, if securities of the same type are being privately subscribed for or placed simultaneously or almost simultaneously with the issue, or if securities of other types are being issued in view of a public or private placement.
 
 - 3\.13.4 Net proceeds
@@ -2450,7 +2454,7 @@ Annex 3
 - 2\.5.1 Capital structure [#]
   - a. indication of the amount of ordinary, authorised and conditional capital as at the balance sheet date of the annual financial statements;
   - b. number, type and par value of the securities, stating the principal characteristics in each case, such as voting rights, dividend entitlement, preferential subscription rights and similar entitlements, and stating the portion of the ordinary capital that is not paid in;
-  - c. if applicable, note that equity securities are admitted to trading on a trading venue.
+  - c. if applicable, note that equity securities are admitted to trading on a trading venue or a DLT trading facility.
 
 - 2\.5.2 Outstanding bonds presented in summary form, insofar as this is not misleading [#]
 - Where material, information on outstanding bonds, with a distinction made between bonds secured with physical collateral or in another manner by the issuer or third parties and unsecured bonds, stating the interest rate, maturity and currency.
@@ -2542,7 +2546,7 @@ Annex 3
 - 3\.3.1 General information
   - a. general designation of the underlying instruments and, if no description of the underlying instruments is publicly accessible, a brief description of the underlying instruments;
   - b. where available, the ISIN of the underlying instruments; otherwise an alternative unique identifier;
-  - c. if the underlying instruments are traded on a trading venue: the name of the trading venue, otherwise information on where the price-setting mechanism for the underlying instruments is available to the public.
+  - c. if the underlying instruments are traded on a trading venue or DLT trading facility: the name of the trading venue or DLT trading facility, otherwise information on where the price-setting mechanism for the underlying instruments is available to the public.
 
 - 3\.3.2 Additional information for securities on participation rights or claims
   - a. note if a delivery of the underlying is planned and transferability of the underlying instruments is restricted, if applicable;
@@ -2686,7 +2690,7 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - 2\.2.8 Date of the articles of association [◊][#];
 - 2\.2.9 If available: Designation of the register, date of entry in this register and, if applicable, company or registration number [◊][#];
 - 2\.2.10 If applicable, description of the group's operational structure.
-- **2.3** **Information on the board of directors, management, auditors and other bodies of the issuer**
+- **2.3** **Information on the board of directors, management,** **auditors and other bodies of the issuer**
 - 2\.3.1 Composition of bodies
 -
 
@@ -2830,7 +2834,7 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - 2\.6.1 Capital structure
   - a. amount of ordinary, authorised and conditional capital as at the balance sheet date for the annual financial statements;
   - b. number, type and par value of the securities, stating the principal characteristics in each case, such as dividend entitlement, preferential subscription rights and similar entitlements, and stating the portion of the ordinary capital that is not paid in;
-  - c. if applicable, note that equity securities are admitted to trading on a trading venue.
+  - c. if applicable, note that equity securities are admitted to trading on a trading venue or a DLT trading facility.
 
 - 2\.6.2 Voting rights
 - Description of voting rights and any related restrictions, along with an indication of group clauses provided for in the articles of association, and of rules on granting exemptions, particularly in the case of proxies for institutional investors.
@@ -2860,11 +2864,11 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - 2\.6.9 Own participation rights [◊][#]
 - Number of own participation rights held by the issuer or on its behalf, including participation rights issued by the issuer and held by another company in which the issuer has a majority interest.
 - 2\.6.10 Significant shareholders
-- Information in accordance with Articles 120 and 121 FMIA[^annex4-lvlu1-lvl2-4] and the corresponding implementation provisions of the FMIO-FINMA[^annex4-lvlu1-lvl2-5], insofar as they are known to the issuer.
+- Information in accordance with Articles 120 and 121 FinMIA[^annex4-lvlu1-lvl2-4] and the corresponding implementation provisions of the FinMIO-FINMA[^annex4-lvlu1-lvl2-5], insofar as they are known to the issuer.
 - 2\.6.11 Cross-shareholdings
 - Cross-shareholdings that exceed 5 percent of the holdings of capital or voting rights on both sides.
 - 2\.6.12 Public purchase offers [×]
-- Information on any easing of or exemption from the obligation to make a public purchase offer in accordance with Articles 135 and 136 FMIA as per the company's articles of association («opting out» and «opting up» clauses), stating the percentage threshold.
+- Information on any easing of or exemption from the obligation to make a public purchase offer in accordance with Articles 135 and 136 FinMIA as per the company's articles of association («opting out» and «opting up» clauses), stating the percentage threshold.
 - 2\.6.13 Dividend entitlement
 - Date on which entitlement to dividends begins. Details of any withholding taxes levied on the dividends, as well as information on whether or not these withholding taxes will be defrayed by the issuer.
 - 2\.6.14 Employee participation
@@ -2951,7 +2955,7 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 
 - 3\.7.4 International issue, simultaneous public and private placement
   - a. if applicable, indication that the issue is being placed simultaneously on different domestic and foreign markets, and individual tranches are reserved for one or more markets; information on these reserved tranches;
-  - b. if applicable, information on the respective trading venues if the securities have already been admitted to trading, or an application for their admission to trading has been submitted;
+  - b. if applicable, information on the respective trading venues or DLT trading facilities if the securities have already been admitted to trading, or an application for their admission to trading has been submitted;
   - c. if applicable, information on the nature of the processes involved, as well as the number – if determined –and the characteristics of the securities in question, if securities of the same type are being privately subscribed for or placed simultaneously or almost simultaneously with the issue, or if securities of other types are being issued in view of a public or private placement.
 
 - 3\.7.5 Paying agents
@@ -3040,7 +3044,7 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - 2\.2.10 If available, designation of the register, date of entry in this register and, if applicable, company or registration number [◊][#];
 - 2\.2.11 If applicable, description of the group's operational structure [#];
 - 2\.2.12 Profile of the typical investor for which the issuer is conceived.
-- **2.3** **Information on the board of directors, management, auditors and ot****her bodies of the issuer**
+- **2.3** **Information on the board of directors, management, auditors and other bodies of the issuer**
 - 2\.3.1 Composition of bodies [#]
 -
 
@@ -3147,7 +3151,7 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - 2\.7.1 Capital structure
   - a. indication of the amount of ordinary, authorised and conditional capital as at the balance sheet date for the last annual financial statements;
   - b. number, type and par value of the securities, stating the principal characteristics in each case such as dividend entitlement, preferential subscription rights and similar entitlements, and stating the portion of the ordinary capital that is not paid in;
-  - c. if applicable, note that equity securities are admitted to trading on a trading venue.
+  - c. if applicable, note that equity securities are admitted to trading on a trading venue or a DLT trading facility.
 
 - 2\.7.2 Voting rights
 - Description of voting rights and any related restrictions, along with an indication of group clauses provided for in the articles of association, and of rules on granting exemptions, particularly in the case of proxies for institutional investors.
@@ -3177,11 +3181,11 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 - 2\.7.9 Own participation rights [◊][#]
 - Number of own participation rights held by the issuer or on its behalf, including participation rights issued by the issuer and held by another company in which the issuer has a majority interest.
 - 2\.7.10 Significant shareholders
-- Information in accordance with Articles 120 and 121 FMIA[^annex5-lvlu1-lvl2-4] and the corresponding implementation provisions of the FMIO-FINMA[^annex5-lvlu1-lvl2-5], insofar as they are known to the issuer.
+- Information in accordance with Articles 120 and 121 FinMIA[^annex5-lvlu1-lvl2-4] and the corresponding implementation provisions of the FinMIO-FINMA[^annex5-lvlu1-lvl2-5], insofar as they are known to the issuer.
 - 2\.7.11 Cross-shareholdings
 - Cross-shareholdings that exceed 5 percent of the holdings of capital or voting rights on both sides.
 - 2\.7.12 Public purchase offers [×]
-- Information on any easing of or exemption from the obligation to make a public purchase offer in accordance with Articles 135 and 136 FMIA as per the company's articles of association («opting out» and «opting up» clauses), stating the percentage threshold.
+- Information on any easing of or exemption from the obligation to make a public purchase offer in accordance with Articles 135 and 136 FinMIA as per the company's articles of association («opting out» and «opting up» clauses), stating the percentage threshold.
 - 2\.7.13 Dividend entitlement
 - Date on which entitlement to dividends begins. Details of any withholding taxes levied on the dividends, as well as information on whether or not these withholding taxes will be defrayed by the issuer.
 - 2\.7.14 Employee participation
@@ -3281,7 +3285,7 @@ Prospectus of [date] approved by [name of reviewing body] on [date].
 
 - 3\.7.4 International issue, simultaneous public and private placement
   - a. if applicable, indication that the issue is being placed simultaneously on different domestic and foreign markets, and individual tranches are reserved for one or more markets; information on these reserved tranches;
-  - b. if applicable, information on the respective trading venues if the securities have already been admitted to trading, or an application for their admission to trading has been submitted;
+  - b. if applicable, information on the respective trading venues or DLT trading facilities if the securities have already been admitted to trading, or an application for their admission to trading has been submitted;
   - c. if applicable, information on the nature of the processes involved, as well as the number – if determined – and the characteristics of the securities in question, if securities of the same type are being privately subscribed for or placed simultaneously or almost simultaneously with the issue, or if securities of other types are being issued in view of a public or private placement.
 
 - 3\.7.5 Paying agents
@@ -3698,7 +3702,7 @@ d. an explanation of the consequences of terminating the investment early, inclu
 
 ### 6.3 Tradability
 
-- Information on tradability contains in particular information on the listing on a trading venue or any market making for the product.
+- Information on tradability contains in particular information on the listing on a trading venue or DLT trading facility or any market making for the product.
 - [tab]
 
 Annex 10

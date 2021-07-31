@@ -4,11 +4,11 @@ title: Ordonnance du 6 novembre 2019 sur les services financiers (OSFin)
 short: OSFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/759"
 language: fr
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-759-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2019-759-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20200101/fr"
 
 (OSFin)
 
-du 6 novembre 2019 (Etat le 1<sup>er</sup> janvier 2020)
+du 6 novembre 2019 (Etat le 1<sup>er</sup> août 2021)
 
 Le Conseil fédéral suisse,
 
@@ -788,28 +788,32 @@ L’acceptation de l’utilisation d’un prospectus valable visée à l’art. 
 
 #### Art. 47
 
-**Exception pour les valeurs mobilières admises à la négociation sur des plates-formes de négociation suisses**
+**Exception pour les valeurs mobilières admises à la négociation sur des plates-formes de négociation suisses ou des systèmes de négociation suisses fondés sur la TRD**[^47-1]
 
 ### (art. 37, al. 2, et 38, al. 2, LSFin)
 
-Aucun nouveau prospectus ne doit être publié pour l’admission à la négociation de valeurs mobilières déjà admises sur une autre plate-forme de négociation suisse.
+Aucun nouveau prospectus ne doit être publié pour l’admission à la négociation de valeurs mobilières déjà admises sur une autre plate-forme de négociation suisse ou sur un autre système de négociation suisse pour les valeurs mobilières fondées sur la technologie des registres distribués (système de négociation fondé sur la TRD).
+
+[^47-1]: Nouvelle teneur selon le ch. I 4 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 48
 
-**Plate-forme de négociation étrangère reconnue**
+**Plate-forme de négociation ou système de négociation fondé sur la TRD[^48-1] étranger reconnu**
 
 ### (art. 38, al. 1, let. c, et 47, al. 2, let. c, LSFin)
 
 <sup>1</sup>
 
-Par plate-forme de négociation étrangère reconnue, on entend, aux fins de la présente ordonnance et du titre 3 LSFin, toute plate-forme de négociation étrangère dont la réglementation, la surveillance et la transparence sont considérées comme adéquates:
+Par plate-forme de négociation ou système de négociation fondé sur la TRD étrangers reconnus, on entend, aux fins de la présente ordonnance et du titre 3 LSFin, toute plate-forme de négociation ou système de négociation fondé sur la TRD étrangers dont la réglementation, la surveillance et la transparence sont considérées comme adéquates:
 
-- a. pour l’admission à la négociation: par une plate-forme de négociation suisse, ou
+- a. pour l’admission à la négociation: par une plate-forme de négociation ou un système de négociation fondé sur la TRD suisse, ou
 - b. pour une offre au public sans admission à la négociation: par une plate-forme de négociation suisse ou par un organe de contrôle.
 
 <sup>2</sup> La reconnaissance visée à l’al. 1 peut se limiter à certains segments de négociation.
 
-<sup>3</sup> Les plates-formes de négociation suisses et les organes de contrôle tiennent et publient une liste des plates-formes de négociation étrangères ou des segments de négociation de ces dernières qu’ils reconnaissent.
+<sup>3</sup> Les plate-forme de négociation ou les systèmes de négociation fondé sur la TRDsuisses et les organes de contrôle tiennent et publient une liste des plates-formes de négociation étrangères ou des segments de négociation de ces dernières qu’ils reconnaissent.
+
+[^48-1]: Nouvelle expression selon le ch. I 4 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). Il a été tenu compte de la modification dans tout le texte.
 
 #### Art. 49
 
@@ -846,12 +850,12 @@ Les exceptions suivantes à l’obligation de publier un prospectus valent aussi
 
 Les émetteurs ou les donneurs de garanties ou de sûretés doivent appliquer une norme de présentation des comptes qui est reconnue:
 
-- a. pour l’admission à la négociation: par la plate-forme de négociation suisse concernée, ou
+- a. pour l’admission à la négociation: par la plate-forme de négociation ou le système de négociation fondé sur la TRD suisse concernée, ou
 - b. pour une offre au public sans admission à la négociation: par une plate-forme de négociation suisse ou par l’organe de contrôle compétent.
 
-<sup>2</sup> Les plates-formes de négociation suisses et les organes de contrôle tiennent et publient une liste des normes de présentation des comptes qu’ils reconnaissent de manière générale.
+<sup>2</sup> Les plate-formes de négociation ou systèmes de négociation fondé sur la TRDsuisses et les organes de contrôle tiennent et publient une liste des normes de présentation des comptes qu’ils reconnaissent de manière générale.
 
-<sup>3</sup> Les plates-formes de négociation et les organes de contrôle peuvent, dans des cas particuliers, reconnaître d’autres normes de présentation des comptes. Le cas échéant, la reconnaissance peut être soumise à la condition que les principales différences entre la norme reconnue dans le cas particulier et une des normes reconnues de manière générale conformément à l’al. 1 soient expliquées dans le prospectus.
+<sup>3</sup> Les plate-formes de négociation ou systèmes de négociation fondé sur la TRD et les organes de contrôle peuvent, dans des cas particuliers, reconnaître d’autres normes de présentation des comptes. Le cas échéant, la reconnaissance peut être soumise à la condition que les principales différences entre la norme reconnue dans le cas particulier et une des normes reconnues de manière générale conformément à l’al. 1 soient expliquées dans le prospectus.
 
 #### Art. 52
 
@@ -1112,7 +1116,7 @@ Le délai commence à courir au moment de la réception de la demande de vérifi
 Lors de la vérification de son prospectus conformément à l’art. 51, al. 1, LSFin, l’émetteur n’est pas considéré comme un nouvel émetteur:
 
 - a. si, au cours des trois dernières années, il a déjà remis, pour des valeurs mobilières émises ou garanties par lui, un prospectus à vérifier à l’organe de contrôle sollicité pour l’approbation, ou
-- b. si, au moment du dépôt de la demande, des valeurs mobilières émises ou garanties par lui sont admises à la négociation sur une plate-forme de négociation suisse.
+- b. si, au moment du dépôt de la demande, des valeurs mobilières émises ou garanties par lui sont admises à la négociation sur une plate-forme de négociation ou système de négociation fondé sur la TRD suisse.
 
 <sup>2</sup> Si les engagements nés de valeurs mobilières sont garantis par un tiers, les conditions prévues à l’al. 1 peuvent aussi être remplies par ce tiers.
 
@@ -1132,7 +1136,7 @@ Lors de la vérification de son prospectus conformément à l’art. 51, al. 1, 
 
 <sup>4</sup>
 
-Lorsqu’un prospectus étranger est réputé approuvé en application de l’al. 3, il doit au plus tard au début de l’offre au public en Suisse ou au moment de l’admission à la négociation des valeurs mobilières concernées sur une plate-forme de négociation suisse:
+Lorsqu’un prospectus étranger est réputé approuvé en application de l’al. 3, il doit au plus tard au début de l’offre au public en Suisse ou au moment de l’admission à la négociation des valeurs mobilières concernées sur une plate-forme de négociation ou un système de négociation fondé sur la TRD suisse:
 
 - a. être annoncé à un organe de contrôle aux fins de son inscription sur la liste prévue à l’art. 64, al. 5, LSFin;
 - b. être déposé auprès d’un organe de contrôle;
@@ -1504,7 +1508,7 @@ La liste des prospectus et de leurs suppléments visée à l’art. 64, al. 5, L
 Ne constituent pas en soi de la publicité:
 
 - a. la mention nominale d’instruments financiers en relation ou non avec la publication de prix, de cours, de valeurs nettes d’inventaire, de listes de cours, de l’évolution des cours ou de données fiscales;
-- b. les annonces concernant des émetteurs ou des transactions, en particulier si elles sont prescrites par la loi, par le droit de la surveillance ou par des règles propres aux plates-formes de négociation;
+- b. les annonces concernant des émetteurs ou des transactions, en particulier si elles sont prescrites par la loi, par le droit de la surveillance ou par des règles propres aux plate-formes de négociation ou aux systèmes de négociation fondé sur la TRD;
 - c. la mise à la disposition des clients existants ou la transmission à ces derniers par le prestataire de services financiers de communications d’un émetteur;
 - d. les articles de la presse spécialisée.
 
@@ -1714,14 +1718,14 @@ S’il n’existe pas d’organe de médiation approprié au moment de l’entr�
 
 ### (art. 95 LSFin)
 
-<sup>1</sup> L’obligation de publier un prospectus approuvé s’applique aux valeurs mobilières faisant l’objet d’une offre au public ou d’une demande d’admission à la négociation sur une plate-forme de négociation dans un délai de six mois à compter de l’agrément d’un organe de contrôle par la FINMA, mais au plus tôt le 1<sup>er</sup> octobre 2020.
+<sup>1</sup> L’obligation de publier un prospectus approuvé s’applique aux valeurs mobilières faisant l’objet d’une offre au public ou d’une demande d’admission à la négociation sur une plate-forme de négociation ou système de négociation fondé sur la TRD dans un délai de six mois à compter de l’agrément d’un organe de contrôle par la FINMA, mais au plus tôt le 1<sup>er</sup> octobre 2020.
 
 <sup>2</sup>
 
 Dans l’intervalle, si aucun prospectus conforme à la LSFin n’est établi, les dispositions suivantes s’appliquent:
 
 - a. pour les offres au public en Suisse: les dispositions du code des obligations (CO)[^109-1] relatives au prospectus d’émission, dans leur teneur du 16 décembre 2005[^109-2] (art. 652*a*) et dans celle du 1<sup>er</sup> janvier 1912[^109-3] (art. 1156);
-- b. pour l’admission à la négociation: les prescriptions relatives au prospectus de la plate-forme de négociation concernée.
+- b. pour l’admission à la négociation: les prescriptions relatives au prospectus de la plate-forme de négociation ou système de négociation fondé sur la TRD concernée.
 
 [^109-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^109-2]: [RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685)
@@ -1911,7 +1915,7 @@ Annexe 1
 - 2\.6.1 Structure du capital
   - a. indication du montant du capital ordinaire, autorisé et conditionnel à la date de clôture des comptes annuels;
   - b. nombre, catégorie et valeur nominale des valeurs mobilières, avec indication des caractéristiques principales, telles que le droit à des dividendes, les droits préférentiels et autres avantages similaires, ainsi que de la partie du capital ordinaire non encore libérée;
-  - c. le cas échéant, remarque précisant que des titres de participation sont admis à la négociation sur une plate-forme de négociation.
+  - c. le cas échéant, remarque précisant que des titres de participation sont admis à la négociation sur une plate-forme de négociation ou un système de négociation fondé sur la TRD.
 
 - 2\.6.2 Droits de vote
 - Présentation des droits de vote et de leurs éventuelles restrictions, avec mention des clauses statutaires de groupe et des dispositions régissant l’octroi de dérogations, en particulier pour les représentants institutionnels.
@@ -2050,7 +2054,7 @@ Annexe 1
   Émission internationale, placement privé et public simultané:
 
   - a. le cas échéant, il convient d’indiquer que l’émission a lieu simultanément sur plusieurs marchés domestiques ou internationaux et que des tranches individuelles sont réservées à un ou plusieurs de ces marchés; indications relatives aux tranches réservées;
-  - b. si les valeurs mobilières sont déjà admises à la négociation ou font l’objet d’une demande d’admission, il faut indiquer les plates-formes de négociation concernées;
+  - b. si les valeurs mobilières sont déjà admises à la négociation ou font l’objet d’une demande d’admission, il faut indiquer les plate-formes de négociation ou système de négociation fondé sur la TRD concernés;
   - c. si des valeurs mobilières d’une même catégorie sont proposées en souscription ou placement privé ou si des valeurs mobilières d’autres catégories font l’objet d’un placement privé ou public en même temps ou presque que l’émission, il y a lieu d’indiquer le type de transaction ainsi que le nombre (s’il est déjà déterminé) et les caractéristiques des valeurs mobilières concernées.
 
 - 3\.8.5 Domiciles de paiement
@@ -2104,7 +2108,7 @@ Annexe 2
   - b. allégements pour émetteurs prévus en application de l’art. 47, al. 2, let. c, LSFin: [#];
   - c. allégement en cas d’offre au public sans admission à la négociation: [×];
   - d. allégement en cas d’admission à la négociation sans offre au public: [∞];
-  - e. allégement en cas de faible capitalisation sur une plate-forme de négociation: [±].
+  - e. allégement en cas de faible capitalisation sur une plate-forme de négociation ou un système de négociation fondé sur la TRD: [±].
 
 ### 0.2 Indications sur la première page
 
@@ -2220,7 +2224,7 @@ Annexe 2
 
   - a. indication du montant du capital ordinaire, autorisé et conditionnel à la date de clôture des comptes annuels;
   - b. nombre, catégorie et valeur nominale des valeurs mobilières, avec indication des caractéristiques principales, telles que les droits de vote, le droit à des dividendes, les droits préférentiels et autres avantages similaires, ainsi que de la partie du capital ordinaire non encore libérée;
-  - c. le cas échéant, remarque précisant que des titres de participation sont admis à la négociation sur une plate-forme de négociation.
+  - c. le cas échéant, remarque précisant que des titres de participation sont admis à la négociation sur une plate-forme de négociation ou système de négociation fondé sur la TRD.
 
 - 2\.5.2 Emprunts en cours présentés de manière sommaire, pour autant que la présentation ne soit pas trompeuse) [#]
 - Pour autant qu’ils soient importants, emprunts en cours, avec distinction entre les emprunts qui sont garantis par des droits de sûreté réels ou d’une autre manière par l’émetteur ou par des tiers et ceux qui ne le sont pas, avec précision du taux d’intérêt, de l’échéance et de la devise.
@@ -2425,7 +2429,7 @@ Annexe 2
 - Prix d’émission des valeurs mobilières.
 - 3\.13.3 Émission internationale, placement privé et public simultané
   - a. le cas échéant, il convient d’indiquer que l’émission a lieu simultanément sur plusieurs marchés domestiques ou internationaux et que des tranches individuelles sont réservées à un ou plusieurs de ces marchés; indications relatives aux tranches réservées;
-  - b. si les valeurs mobilières sont déjà admises à la négociation ou font l’objet d’une demande d’admission, il faut indiquer les plates-formes de négociation concernées;
+  - b. si les valeurs mobilières sont déjà admises à la négociation ou font l’objet d’une demande d’admission, il faut indiquer sur les plate-formes de négociation ou les systèmes de négociation fondé sur la TRD concernés;
   - c. si des valeurs mobilières d’une même catégorie sont proposées en souscription ou placement privé ou si des valeurs mobilières d’autres catégories font l’objet d’un placement privé ou public en même temps ou presque que l’émission, il y a lieu d’indiquer le type de transaction ainsi que le nombre (s’il est déjà déterminé) et les caractéristiques des valeurs mobilières concernées.
 
 - 3\.13.4 Produit net
@@ -2567,7 +2571,7 @@ Annexe 3
 - 2\.5.1 Structure du capital [#]
   - a. indication du montant du capital ordinaire, autorisé et conditionnel à la date de clôture des comptes annuels;
   - b. nombre, catégorie et valeur nominale des valeurs mobilières, avec indication des caractéristiques principales, telles que les droits de vote, le droit à des dividendes, les droits préférentiels et autres avantages similaires, ainsi que de la partie du capital ordinaire non encore libérée;
-  - c. le cas échéant, remarque précisant que des titres de participation sont admis à la négociation sur une plate-forme de négociation.
+  - c. le cas échéant, remarque précisant que des titres de participation sont admis à la négociation sur une plate-forme de négociation ou un système de négociation fondé sur la TRD.
 
 - 2\.5.2 Emprunts en cours présentés de manière sommaire, pour autant que la présentation ne soit pas trompeuse [#]
 - Pour autant qu’ils soient importants, emprunts en cours, avec distinction entre les emprunts qui sont garantis par des droits de sûreté réels ou d’une autre manière par l’émetteur ou par des tiers et ceux qui ne le sont pas, avec indication du taux d’intérêt, de l’échéance et de la devise.
@@ -2671,7 +2675,7 @@ Annexe 3
 
   - a. désignation générale des sous-jacents et, s’il n’existe pas de description publique, description succincte;
   - b. si disponible: ISIN des sous-jacents; à défaut, autre identifiant unique;
-  - c. si les sous-jacents sont négociés sur une plate-forme de négociation: indication de la plate-forme concernée; sinon indication de l’endroit où le public peut consulter le cours des sous-jacents.
+  - c. si les sous-jacents sont négociés sur une plate-forme de négociation ou un système de négociation fondé sur la TRD: indication de la plate-forme concernée; sinon indication de l’endroit où le public peut consulter le cours des sous-jacents.
 
 - 3\.3.2
 
@@ -2781,7 +2785,7 @@ Annexe 3
 
 - 3\.10.1 Prix d’émission
 - Prix d’émission des valeurs mobilières.
-- 3\.10.2 Restrictions de vente (*selling restricti**ons*)
+- 3\.10.2 Restrictions de vente (*selling restrictions*)
 - Remarque mise en évidence précisant les éventuelles restrictions de vente relevant d’une législation étrangère.
 
 ### 3.11 Impôts
@@ -3018,7 +3022,7 @@ Annexe 4
 - 2\.6.1 Structure du capital
   - a. indication du montant du capital ordinaire, autorisé et conditionnel à la date de clôture des derniers comptes annuels;
   - b. nombre, catégorie et valeur nominale des valeurs mobilières, avec indication des caractéristiques principales, telles que le droit à des dividendes, les droits préférentiels et autres avantages similaires, ainsi que de la partie du capital ordinaire non encore libérée;
-  - c. le cas échéant, remarque précisant que des titres de participation sont admis à la négociation sur une plate-forme de négociation.
+  - c. le cas échéant, remarque précisant que des titres de participation sont admis à la négociation sur une plate-forme de négociation ou un système de négociation fondé sur la TRD.
 
 - 2\.6.2 Droits de vote
 - Présentation des droits de vote et de leurs éventuelles restrictions, avec mention des clauses statutaires de groupe et des dispositions régissant l’octroi de dérogations, en particulier pour les représentants institutionnels.
@@ -3158,7 +3162,7 @@ Annexe 4
 
 - 3\.7.4 Émission internationale, placement privé et public simultané
   - a. le cas échéant, il convient d’indiquer que l’émission a lieu simultanément sur plusieurs marchés domestiques ou internationaux et que des tranches individuelles sont réservées à un ou plusieurs de ces marchés; indications relatives aux tranches réservées;
-  - b. si les valeurs mobilières sont déjà admises à la négociation ou font l’objet d’une demande d’admission, il faut indiquer les plates-formes de négociation concernées;
+  - b. si les valeurs mobilières sont déjà admises à la négociation ou font l’objet d’une demande d’admission, il faut indiquer les plate-formes de négociation ou les système de négociation fondé sur la TRD concernés;
   - c. si des valeurs mobilières d’une même catégorie sont proposées en souscription ou placement privé ou si des valeurs mobilières d’autres catégories font l’objet d’un placement privé ou public en même temps ou presque que l’émission, il y a lieu d’indiquer le type de transaction ainsi que le nombre (s’il est déjà déterminé) et les caractéristiques des valeurs mobilières concernées.
 
 - 3\.7.5 Domiciles de paiement
@@ -3376,7 +3380,7 @@ Annexe 5
 - 2\.7.1 Structure du capital
   - a. indication du montant du capital ordinaire, autorisé et conditionnel à la date de clôture des derniers comptes annuels;
   - b. nombre, catégorie et valeur nominale des valeurs mobilières, avec indication des caractéristiques principales, telles que le droit à des dividendes, les droits préférentiels et autres avantages similaires, ainsi que de la partie du capital ordinaire non encore libérée;
-  - c. le cas échéant, remarque précisant que des titres de participation sont admis à la négociation sur une plate-forme de négociation.
+  - c. le cas échéant, remarque précisant que des titres de participation sont admis à la négociation sur une plate-forme de négociation ou un système de négociation fondé sur la TRD.
 
 - 2\.7.2 Droits de vote
 - Présentation des droits de vote et de leurs éventuelles restrictions, avec mention des clauses statutaires de groupe et des dispositions régissant l’octroi de dérogations, en particulier pour les représentants institutionnels.
@@ -3529,7 +3533,7 @@ Annexe 5
 
 - 3\.7.4 Émission internationale, placement privé et public simultané
   - a. le cas échéant, il convient d’indiquer que l’émission a lieu simultanément sur plusieurs marchés domestiques ou internationaux et que des tranches individuelles sont réservées à un ou plusieurs de ces marchés; indications relatives aux tranches réservées;
-  - b. si les valeurs mobilières sont déjà admises à la négociation ou font l’objet d’une demande d’admission, il faut indiquer les plates-formes de négociation concernées;
+  - b. si les valeurs mobilières sont déjà admises à la négociation ou font l’objet d’une demande d’admission, il faut indiquer plate-forme de négociation ou les systèmea de négociation fondé sur la TRD concernés;
   - c. si des valeurs mobilières d’une même catégorie sont proposées en souscription ou placement privé ou si des valeurs mobilières d’autres catégories font l’objet d’un placement privé ou public en même temps ou presque que l’émission, il y a lieu d’indiquer le type de transaction ainsi que le nombre (s’il est déjà déterminé) et les caractéristiques des valeurs mobilières concernées.
 
 - 3\.7.5 Domiciles de paiement
@@ -3702,17 +3706,17 @@ Annexe 9
 ### 2 Modèle
 
 <table>
-<tr><td>Feuille d’information de base</td></tr>
-<tr><td>But «La présente feuille d’information de base met à votre[^annex9-lvlu1-lvl2-1] disposition des informations importantes concernant l’instrument financier (le «produit»). Il ne s’agit pas de matériel publicitaire, mais d’informations dont la fourniture est prescrite par la loi. Ces informations visent à vous aider à comprendre de quel type de produit il s’agit et quels risques, coûts, gains et pertes potentiels y sont associés et à vous permettre de le comparer à d’autres produits.»</td></tr>
-<tr><td>Produit **Nom du produit**: *[nom du produit émis par le producteur et, le cas échéant, code international d’identification des valeurs mobilières ou identifiant unique de l’instrument financier]* **Nom du producteur**: *[raison sociale et siège du producteur]* **Nom de l’émetteur**: *[si l’émetteur et le producteur diffèrent: raison sociale et siège de l’émetteur]* **Nom du garant**: *[si le garant et le producteur diffèrent: raison sociale et siège du garant]* **Autorité de surveillance:** *[**remarque* *précisant si le producteur, l’émetteur et le garant sont soumis à une surveillance prudentielle et, le cas échéant, indication de l’autorité de surveillance**]* **Approbation / autorisation du produit:** *[remarque concernant une éventuelle obligation d’obtenir une approbation ou une autorisation pour le produit]* **Site Internet et numéro de téléphone du producteur** **Date d’établissement de la feuille d’information de base**: *[date d’établissement ou, le cas échéant, de la dernière révision de la feuille d’information de base]*</td></tr>
+<tr><td>**Feuille d’information de base**</td></tr>
+<tr><td>**But** «La présente feuille d’information de base met à votre[^annex9-lvlu1-lvl2-1] disposition des informations importantes concernant l’instrument financier (le «produit»). Il ne s’agit pas de matériel publicitaire, mais d’informations dont la fourniture est prescrite par la loi. Ces informations visent à vous aider à comprendre de quel type de produit il s’agit et quels risques, coûts, gains et pertes potentiels y sont associés et à vous permettre de le comparer à d’autres produits.»</td></tr>
+<tr><td>**Produit** **Nom du produit**: *[nom du produit émis par le producteur et, le cas échéant, code international d’identification des valeurs mobilières ou identifiant unique de l’instrument financier]* **Nom du producteur**: *[raison sociale et siège du producteur]* **Nom de l’émetteur**: *[si l’émetteur et le producteur diffèrent: raison sociale et siège de l’émetteur]* **Nom du garant**: *[si le garant et le producteur diffèrent: raison sociale et siège du garant]* **Autorité de surveillance:** *[**remarque* *précisant si le producteur, l’émetteur et le garant sont soumis à une surveillance prudentielle et, le cas échéant, indication de l’autorité de surveillance**]* **Approbation / autorisation du produit:** *[remarque concernant une éventuelle obligation d’obtenir une approbation ou une autorisation pour le produit]* **Site Internet et numéro de téléphone du producteur** **Date d’établissement de la feuille d’information de base**: *[date d’établissement ou, le cas échéant, de la dernière révision de la feuille d’information de base]*</td></tr>
 <tr><td>***Mise en garde:*** *«Vous êtes sur le point d’acquérir un produit complexe qui peut être difficile à comprendre.»*</td></tr>
-<tr><td>De quel type de produit s’agit-il? *[Indications visées au ch. 3]*</td></tr>
-<tr><td>Quels sont les risques et que puis-je obtenir en contrepartie? *[Indications visées au ch. 4]*</td></tr>
-<tr><td>Que se passe-t-il si *[nom de l’émetteur]* n’est pas en mesure d’effectuer les versements? *[Indications précisant si le client privé peut subir une perte financière en cas de défaillance de l’émetteur ou du garant et, dans l’affirmative, s’il existe une protection des investisseurs ou une garantie; le cas échéant, indication des conditions et des restrictions s’appliquant à cette protection ou garantie]*</td></tr>
-<tr><td>Quels sont les coûts? *[**Indications visées au* *ch. 5]*</td></tr>
-<tr><td>Combien de temps dois-je garder le placement et puis-je retirer de l’argent de façon anticipée? *[Indications visées au ch. 6]*</td></tr>
-<tr><td>Comment puis-je formuler une réclamation? *[**Remarque précisant comment et où le client privé peut faire une réclamation sur le produit ou sur le comportement du producteur ou de la personne chargée du conseil ou de la vente du produit, avec (i) mise à disposition d’un lien vers le site Internet et (ii) indication d’une adresse postale et d’une adresse électronique valables, où déposer de telles réclamations**]*</td></tr>
-<tr><td>Autres indications utiles *[Autres indications utiles facultatives, en particulier:* *–* *renvoi aux documents supplémentaires contenant des informations;* *–* *informations sur l’imposition du produit;* *–* *le cas échéant, remarque* *précisant clairement* *que* *la société de révision de l’émetteur n’est pas soumise à la surveillance d’une autorité étrangère de surveillance en matière de révision reconnue par le Conseil fédéral.]*</td></tr>
+<tr><td>**De quel type de produit s’agit-il?** *[Indications visées au ch. 3]*</td></tr>
+<tr><td>**Quels sont les risques et que puis-je obtenir en contrepartie?** *[Indications visées au ch. 4]*</td></tr>
+<tr><td>**Que se passe-t-il si** ***[nom de l’émetteur]*** **n’est pas en mesure d’effectuer les versements?** *[Indications précisant si le client privé peut subir une perte financière en cas de défaillance de l’émetteur ou du garant et, dans l’affirmative, s’il existe une protection des investisseurs ou une garantie; le cas échéant, indication des conditions et des restrictions s’appliquant à cette protection ou garantie]*</td></tr>
+<tr><td>**Quels sont les coûts?** *[**Indications visées au* *ch. 5]*</td></tr>
+<tr><td>**Combien de temps dois-je garder le placement et puis-je retirer de l’argent de façon anticipée?** *[Indications visées au ch. 6]*</td></tr>
+<tr><td>**Comment puis-je formuler une réclamation?** *[**Remarque précisant comment et où le client privé peut faire une réclamation sur le produit ou sur le comportement du producteur ou de la personne chargée du conseil ou de la vente du produit, avec (i) mise à disposition d’un lien vers le site Internet et (ii) indication d’une adresse postale et d’une adresse électronique valables, où déposer de telles réclamations**]*</td></tr>
+<tr><td>**Autres indications utiles** *[Autres indications utiles facultatives, en particulier:* *–* *renvoi aux documents supplémentaires contenant des informations;* *–* *informations sur l’imposition du produit;* *–* *le cas échéant, remarque* *précisant clairement* *que* *la société de révision de l’émetteur n’est pas soumise à la surveillance d’une autorité étrangère de surveillance en matière de révision reconnue par le Conseil fédéral.]*</td></tr>
 </table>
 
 [^annex9-lvlu1-lvl2-1]: Au lieu de s’adresser à une personne, il est également possible d’utiliser dans toute la feuille d’information de base les termes «investisseur» ou «client privé».
@@ -3961,7 +3965,7 @@ Annexe 9
 
 ### 6.3 Négociabilité
 
-- Les indications relatives à la négociabilité incluent en particulier des indications relatives à la cotation auprès d’une plate-forme de négociation ou à une éventuelle tenue de marché (*market making*) garantie pour le produit.
+- Les indications relatives à la négociabilité incluent en particulier des indications relatives à la cotation auprès d’une plate-forme de négociation ou d'un système de négociation fondé sur la TRD ou à une éventuelle tenue de marché (*market making*) garantie pour le produit.
 
 Annexe 10
 

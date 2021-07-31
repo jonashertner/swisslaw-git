@@ -4,11 +4,11 @@ title: "Verordnung vom 6. November 2019 über die Finanzdienstleistungen (Finanz
 short: FIDLEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/759"
 language: de
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2019-759-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2019-759-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20200101/de"
 
 (Finanzdienstleistungsverordnung, FIDLEV)
 
-vom 6. November 2019 (Stand am 1. Januar 2020)
+vom 6. November 2019 (Stand am 1. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -788,28 +788,32 @@ Die Einwilligung zur Verwendung eines gültigen Prospekts nach Artikel 36 Absatz
 
 #### Art. 47
 
-**Ausnahme für an Schweizer Handelsplätzen zugelassene Effekten**
+**Ausnahme für an Schweizer Handelsplätzen oder DLT-Handelssystemen zugelassene Effekten**[^47-1]
 
 ### (Art. 37 Abs. 2 und 38 Abs. 2 FIDLEG)
 
-Kein weiterer Prospekt muss veröffentlicht werden für die Zulassung zum Handel von Effekten, die bereits an einem anderen Schweizer Handelsplatz zum Handel zugelassen sind.
+Kein weiterer Prospekt muss veröffentlicht werden für die Zulassung zum Handel von Effekten, die bereits an einem anderen Schweizer Handelsplatz oder einem anderen Schweizer Handelssystem für Distributed Ledger Technology-Effekten (DLT-Handelssystem) zum Handel zugelassen sind.
+
+[^47-1]: Fassung gemäss Ziff. I 4 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 48
 
-**Anerkannter ausländischer Handelsplatz**
+**Anerkannter ausländischer Handelsplatz oder anerkanntes ausländisches DLT-Handelssystem[^48-1]**
 
 ### (Art. 38 Abs. 1 Bst. c und 47 Abs. 2 Bst. c FIDLEG)
 
 <sup>1</sup>
 
-Als anerkannter ausländischer Handelsplatz gilt für die Zwecke dieser Verordnung und des 3. Titels FIDLEG jeder ausländische Handelsplatz, dessen Regulierung, Aufsicht und Transparenz als angemessen anerkannt wurde:
+Als anerkannter ausländischer Handelsplatz oder anerkanntes ausländisches DLT-Handelssystem gilt für die Zwecke dieser Verordnung und des 3. Titels FIDLEG jeder ausländische Handelsplatz oder jedes ausländische DLT-Handelssystem, dessen Regulierung, Aufsicht und Transparenz als angemessen anerkannt wurde:
 
-- a. für die Zwecke der Handelszulassung: durch den Schweizer Handelsplatz; oder
-- b. für die Zwecke eines öffentlichen Angebots ohne Handelszulassung: durch einen Schweizer Handelsplatz oder eine Prüfstelle.
+- a. für die Zwecke der Handelszulassung: durch den Schweizer Handelsplatz oder das Schweizer DLT-Handelssystem; oder
+- b. für die Zwecke eines öffentlichen Angebots ohne Handelszulassung: durch einen Schweizer Handelsplatz, ein Schweizer DLT-Handelssystem oder eine Prüfstelle.
 
 <sup>2</sup> Die Anerkennung nach Absatz 1 kann auf bestimmte Handelssegmente beschränkt sein.
 
-<sup>3</sup> Schweizer Handelsplätze und Prüfstellen führen und veröffentlichen eine Liste mit den von ihnen anerkannten ausländischen Handelsplätzen oder den anerkannten Handelssegmenten solcher ausländischen Handelsplätze.
+<sup>3</sup> Schweizer Handelsplätze, Schweizer DLT-Handelssysteme und Prüfstellen führen und veröffentlichen eine Liste mit den von ihnen anerkannten ausländischen Handelsplätzen, DLT-Handelssystemen oder den anerkannten Handelssegmenten solcher ausländischen Handelsplätze oder DLT-Handelssysteme.
+
+[^48-1]: Ausdruck gemäss Ziff. I 4 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 49
 
@@ -819,7 +823,7 @@ Als anerkannter ausländischer Handelsplatz gilt für die Zwecke dieser Verordnu
 
 Die folgenden Ausnahmen von der Pflicht zur Veröffentlichung eines Prospekts gelten auch bei der Zulassung zum Handel:
 
-- a. Artikel 37 Absatz 1 Buchstaben a–g FIDLEG, sofern Effekten derselben Gattung bereits an einem Schweizer Handelsplatz oder einem anerkannten ausländischen Handelsplatz zum Handel zugelassen sind;
+- a. Artikel 37 Absatz 1 Buchstaben a–g FIDLEG, sofern Effekten derselben Gattung bereits an einem Schweizer Handelsplatz oder Schweizer DLT-Handelssystem oder einem anerkannten ausländischen Handelsplatz oder DLT-Handelssystem zum Handel zugelassen sind;
 - b. Artikel 37 Absatz 1 Buchstaben h und l FIDLEG.
 
 ### 2. Abschnitt: Anforderungen
@@ -846,12 +850,12 @@ Die folgenden Ausnahmen von der Pflicht zur Veröffentlichung eines Prospekts ge
 
 Emittenten oder Garantie- und Sicherheitengeber müssen einen Rechnungslegungsstandard anwenden, der anerkannt ist:
 
-- a. für die Zwecke der Handelszulassung: durch den entsprechenden Schweizer Handelsplatz; oder
-- b. für die Zwecke eines öffentlichen Angebots ohne Handelszulassung: durch einen Schweizer Handelsplatz oder die mit der Prüfung befasste Prüfstelle.
+- a. für die Zwecke der Handelszulassung: durch den entsprechenden Schweizer Handelsplatz oder das entsprechende Schweizer DLT-Handelssystem; oder
+- b. für die Zwecke eines öffentlichen Angebots ohne Handelszulassung: durch einen Schweizer Handelsplatz, ein Schweizer DLT-Handelssystem oder die mit der Prüfung befasste Prüfstelle.
 
-<sup>2</sup> Schweizer Handelsplätze und Prüfstellen führen und veröffentlichen eine Liste mit den von ihnen generell anerkannten Rechnungslegungsstandards.
+<sup>2</sup> Schweizer Handelsplätze, DLT-Handelssysteme und Prüfstellen führen und veröffentlichen eine Liste mit den von ihnen generell anerkannten Rechnungslegungsstandards.
 
-<sup>3</sup> Handelsplätze und Prüfstellen können im Einzelfall weitere Rechnungslegungsstandards anerkennen. Die Anerkennung kann davon abhängig gemacht werden, dass die wesentlichen Unterschiede zwischen dem im Einzelfall anerkannten Rechnungslegungsstandard und einem nach Absatz 1 generell anerkannten Rechnungslegungsstandard im Prospekt erläutert werden.
+<sup>3</sup> Handelsplätze, DLT-Handelssysteme und Prüfstellen können im Einzelfall weitere Rechnungslegungsstandards anerkennen. Die Anerkennung kann davon abhängig gemacht werden, dass die wesentlichen Unterschiede zwischen dem im Einzelfall anerkannten Rechnungslegungsstandard und einem nach Absatz 1 generell anerkannten Rechnungslegungsstandard im Prospekt erläutert werden.
 
 #### Art. 52
 
@@ -994,7 +998,7 @@ Emittenten im Sinne von Artikel 47 Absatz 2 Buchstabe c FIDLEG sind Emittenten, 
 
 ### (Art. 51 Abs. 2 FIDLEG)
 
-<sup>1</sup> Die Effekten, deren Prospekt nach Artikel 51 Absatz 2 FIDLEG erst nach der Veröffentlichung geprüft werden muss, sind in Anhang 7 bezeichnet. Bei Effekten, die eine Umwandlung in andere Effekten oder einen Erwerb von anderen Effekten vorsehen, wird vorausgesetzt, dass diese anderen Effekten bereits an einem Schweizer Handelsplatz oder einem anerkannten ausländischen Handelsplatz zum Handel zugelassen sind.
+<sup>1</sup> Die Effekten, deren Prospekt nach Artikel 51 Absatz 2 FIDLEG erst nach der Veröffentlichung geprüft werden muss, sind in Anhang 7 bezeichnet. Bei Effekten, die eine Umwandlung in andere Effekten oder einen Erwerb von anderen Effekten vorsehen, wird vorausgesetzt, dass diese anderen Effekten bereits an einem Schweizer Handelsplatz, Schweizer DLT-Handelssystem oder einem anerkannten ausländischen Handelsplatz oder anerkannten ausländischen DLT-Handelssystem zum Handel zugelassen sind.
 
 <sup>2</sup> Der Hinweis nach Artikel 40 Absatz 5 FIDLEG ist auf dem Deckblatt des Prospekts anzubringen.
 
@@ -1028,7 +1032,7 @@ Emittenten im Sinne von Artikel 47 Absatz 2 Buchstabe c FIDLEG sind Emittenten, 
 
 <sup>2</sup> Als wichtigste Informationen gelten diejenigen Angaben nach den Anhängen 1–5, die für Anlegerinnen und Anleger für den Anlageentscheid von Bedeutung sind. Sie liegen dann vor, wenn sie öffentlich verfügbar sind oder verfügbar gemacht werden können.
 
-<sup>3</sup> Bei Emittenten und Garantie- oder Sicherheitengebern, deren Beteiligungspapiere oder Forderungspapiere an einem Schweizer Handelsplatz oder einem anerkannten ausländischen Handelsplatz zum Handel zugelassen sind, wird das Vorliegen der wichtigsten Informationen in Bezug auf den Emittenten vermutet. Schweizer Handelsplätze können für einzelne ihrer Handelssegmente mit geringerer Transparenz bestimmen, dass diese Vermutung nicht gilt.
+<sup>3</sup> Bei Emittenten und Garantie- oder Sicherheitengebern, deren Beteiligungspapiere oder Forderungspapiere an einem Schweizer Handelsplatz, Schweizer DLT-Handelssystem oder einem anerkannten ausländischen Handelsplatz oder anerkannten ausländischen DLT-Handelssystem zum Handel zugelassen sind, wird das Vorliegen der wichtigsten Informationen in Bezug auf den Emittenten vermutet. Schweizer Handelsplätze oder DLT-Handelssysteme können für einzelne ihrer Handelssegmente mit geringerer Transparenz bestimmen, dass diese Vermutung nicht gilt.
 
 <sup>4</sup> Die Bestätigung nach diesem Artikel ist der Prüfstelle zusammen mit dem zu prüfenden Prospekt einzureichen.
 
@@ -1046,7 +1050,7 @@ Emittenten im Sinne von Artikel 47 Absatz 2 Buchstabe c FIDLEG sind Emittenten, 
 
 <sup>3</sup> Massgeblich für den Zeitpunkt des endgültigen Abschlusses eines Angebots nach Artikel 56 Absatz 1 FIDLEG ist der Plan des Anbieters und der am Angebot unmittelbar beteiligten Banken und Wertpapierhäuser.
 
-<sup>4</sup> Mitteilungen von Tatsachen, welche nach den Regeln des betreffenden Schweizer oder ausländischen Handelsplatzes bekannt gegeben werden und möglicherweise kursrelevant sind, können nach Artikel 64 Buchstabe b als Nachtrag gemeldet werden. Ein solcher Nachtrag ist gleichzeitig mit der Meldung an die Prüfstelle zu veröffentlichen.
+<sup>4</sup> Mitteilungen von Tatsachen, welche nach den Regeln des betreffenden Schweizer oder ausländischen Handelsplatzes oder DLT-Handelssystems bekannt gegeben werden und möglicherweise kursrelevant sind, können nach Artikel 64 Buchstabe b als Nachtrag gemeldet werden. Ein solcher Nachtrag ist gleichzeitig mit der Meldung an die Prüfstelle zu veröffentlichen.
 
 <sup>5</sup> Anstelle der Verlängerung der Angebotsfrist kann der Anbieter den Anlegerinnen und Anlegern in den Angebotsbedingungen auch die Möglichkeit einräumen, Zeichnungen und Erwerbszusagen innert zwei Tagen nach dem endgültigen Schluss des öffentlichen Angebots zurückzuziehen.
 
@@ -1112,7 +1116,7 @@ Die Frist beginnt mit Eingang des Gesuchs um Prüfung des vollständigen Prospek
 Ein Emittent gilt bei der Prüfung seines Prospekts (Art. 51 Abs. 1 FIDLEG) nicht als neuer Emittent, wenn er:
 
 - a. innerhalb der letzten drei Jahre für von ihm ausgegebene oder von ihm sichergestellte Effekten bei der um Genehmigung ersuchten Prüfstelle einen Prospekt zur Prüfung eingereicht hat; oder
-- b. zum Zeitpunkt der Gesuchstellung von ihm ausgegebene oder von ihm sichergestellte Effekten an einem Schweizer Handelsplatz zum Handel zugelassen sind.
+- b. zum Zeitpunkt der Gesuchstellung von ihm ausgegebene oder von ihm sichergestellte Effekten an einem Schweizer Handelsplatz oder Schweizer DLT-Handelssystem zum Handel zugelassen sind.
 
 <sup>2</sup> Werden Verpflichtungen aus Effekten von einem Dritten besichert, so können die Voraussetzungen nach Absatz 1 auch durch diesen Dritten erfüllt werden.
 
@@ -1132,7 +1136,7 @@ Ein Emittent gilt bei der Prüfung seines Prospekts (Art. 51 Abs. 1 FIDLEG) nich
 
 <sup>4</sup>
 
-Gilt ein ausländischer Prospekt im Sinne von Absatz 3 als genehmigt, so muss er spätestens mit Beginn des öffentlichen Angebots in der Schweiz oder spätestens mit der Zulassung der betreffenden Effekte zum Handel an einem Schweizer Handelsplatz:
+Gilt ein ausländischer Prospekt im Sinne von Absatz 3 als genehmigt, so muss er spätestens mit Beginn des öffentlichen Angebots in der Schweiz oder spätestens mit der Zulassung der betreffenden Effekte zum Handel an einem Schweizer Handelsplatz oder einem Schweizer DLT-Handelssystem:
 
 - a. bei einer Prüfstelle zur Aufnahme auf die Liste nach Artikel 64 Absatz 5 FIDLEG angemeldet werden;
 - b. bei einer Prüfstelle hinterlegt werden;
@@ -1487,7 +1491,7 @@ Die Liste der Prospekte und der Nachträge dazu nach Artikel 64 Absatz 5 FIDLEG 
 
 ### (Art. 67 FIDLEG)
 
-<sup>1</sup> Sehen die Bedingungen bei der Emission von Effekten, die in der Schweiz auf der Basis eines Prospekts öffentlich angeboten werden und für die keine Zulassung zum Handel an einem Schweizer oder einem anerkannten ausländischen Handelsplatz besteht, keine Regelung zur Form der Bekanntgabe von Änderungen mit den Effekten verbundener Rechte vor, so sind solche Änderungen in der Form zu veröffentlichen, in der auch der Prospekt veröffentlicht wurde.
+<sup>1</sup> Sehen die Bedingungen bei der Emission von Effekten, die in der Schweiz auf der Basis eines Prospekts öffentlich angeboten werden und für die keine Zulassung zum Handel an einem Schweizer oder einem anerkannten ausländischen Handelsplatz bzw. einem Schweizer DLT-Handelssystem oder einem anerkannten ausländischen anerkannten ausländischen DLT-Handelssystem besteht, keine Regelung zur Form der Bekanntgabe von Änderungen mit den Effekten verbundener Rechte vor, so sind solche Änderungen in der Form zu veröffentlichen, in der auch der Prospekt veröffentlicht wurde.
 
 <sup>2</sup> Die Fristen für die Bekanntgabe nach Absatz 1 richten sich nach den Bedingungen der betreffenden Effekten.
 
@@ -1504,7 +1508,7 @@ Die Liste der Prospekte und der Nachträge dazu nach Artikel 64 Absatz 5 FIDLEG 
 Für sich allein nicht als Werbung gelten:
 
 - a. die namentliche Nennung von Finanzinstrumenten ohne oder in Verbindung mit der Publikation von Preisen, Kursen oder Nettoinventarwerten, Kurslisten oder -entwicklungen, Steuerzahlen;
-- b. Meldungen zu Emittenten oder Transaktionen, insbesondere wenn diese gesetzlich, aufsichtsrechtlich oder aufgrund der Regularien von Handelsplätzen vorgeschrieben sind;
+- b. Meldungen zu Emittenten oder Transaktionen, insbesondere wenn diese gesetzlich, aufsichtsrechtlich oder aufgrund der Regularien von Handelsplätzen oder DLT-Handelssystemen vorgeschrieben sind;
 - c. die Bereitstellung oder Weiterleitung von Mitteilungen eines Emittenten an bestehende Kundinnen und Kunden durch Finanzdienstleister;
 - d. Berichte in der Fachpresse.
 
@@ -1714,14 +1718,14 @@ Besteht bei Inkrafttreten des FIDLEG keine entsprechende Ombudsstelle, so läuft
 
 ### (Art. 95 FIDLEG)
 
-<sup>1</sup> Für Effekten, für die ein öffentliches Angebot unterbreitet oder um Zulassung zum Handel auf einem Handelsplatz ersucht wird, gilt die Pflicht zur Veröffentlichung eines genehmigten Prospekts nach Ablauf von sechs Monaten seit der Zulassung einer Prüfstelle durch die FINMA, frühestens aber ab dem 1. Oktober 2020.
+<sup>1</sup> Für Effekten, für die ein öffentliches Angebot unterbreitet oder um Zulassung zum Handel auf einem Handelsplatz oder DLT-Handelssystem ersucht wird, gilt die Pflicht zur Veröffentlichung eines genehmigten Prospekts nach Ablauf von sechs Monaten seit der Zulassung einer Prüfstelle durch die FINMA, frühestens aber ab dem 1. Oktober 2020.
 
 <sup>2</sup>
 
 Bis zu diesem Zeitpunkt gelten, soweit kein Prospekt nach FIDLEG erstellt wird:
 
 - a. für öffentliche Angebote in der Schweiz: die Bestimmungen des Obligationenrechts[^109-1] zum Emissionsprospekt in der Fassung vom 16. Dezember 2005[^109-2] (Art. 652*a*) und in der Fassung vom 1. Januar 1912[^109-3] (Art. 1156);
-- b. für die Zulassung zum Handel: die Prospektvorschriften gemäss den Regularien der betreffenden Handelsplätze.
+- b. für die Zulassung zum Handel: die Prospektvorschriften gemäss den Regularien der betreffenden Handelsplätze oder DLT-Handelssysteme.
 
 [^109-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^109-2]: [AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685)
@@ -1908,7 +1912,7 @@ Anhang 1
 - 2\.6.1 Kapitalstruktur
   - a. Angabe des Betrags des ordentlichen, genehmigten und bedingten Kapitals per Stichtag des Jahresabschlusses;
   - b. Zahl, Gattung und Nennwert der Effekten, jeweils unter Angabe der Hauptmerkmale, wie Dividendenberechtigung, Vorzugsrechte und ähnliche Berechtigungen unter Hinweis auf den nicht einbezahlten Teil auf dem ordentlichen Kapital;
-  - c. gegebenenfalls Hinweis auf eine Zulassung von Beteiligungspapieren zum Handel auf einem Handelsplatz.
+  - c. gegebenenfalls Hinweis auf eine Zulassung von Beteiligungspapieren zum Handel auf einem Handelsplatz oder DLT-Handelssystem.
 
 - 2\.6.2 Stimmrechte
 - Darstellung der Stimmrechtsverhältnisse und allfälliger Stimmrechtsbeschränkungen unter Hinweis auf statutarische Gruppenklauseln und auf Regeln zur Gewährung von Ausnahmen, namentlich für institutionelle Stimmrechtsvertreter.
@@ -2035,7 +2039,7 @@ Anhang 1
 
 - 3\.8.4 Internationale Emission, gleichzeitige öffentliche und private Platzierung
   - a. Gegebenenfalls Angabe, dass die Ausgabe gleichzeitig auf verschiedenen Märkten im In- und Ausland und einzelne Tranchen einem oder mehreren Märkten vorbehalten werden; Angaben über die vorbehaltenen Tranchen;
-  - b. gegebenenfalls Angabe der entsprechenden Handelsplätze, wenn die Effekten bereits zum Handel zugelassen sind oder deren Zulassung zum Handel beantragt wird;
+  - b. gegebenenfalls Angabe der entsprechenden Handelsplätze oder DLT-Handelssysteme, wenn die Effekten bereits zum Handel zugelassen sind oder deren Zulassung zum Handel beantragt wird;
   - c. gegebenenfalls Angabe der Art der Vorgänge sowie Anzahl – falls bestimmt – und Merkmale der betreffenden Effekten, wenn gleichzeitig oder fast gleichzeitig mit der Begebung Effekten der gleichen Gattung privat gezeichnet oder platziert oder Effekten anderer Gattungen im Hinblick auf eine öffentliche oder private Platzierung begeben werden.
 
 - 3\.8.5 Zahlstellen
@@ -2083,7 +2087,7 @@ Anhang 2
   - b. Erleichterungen für Emittenten nach Artikel 47 Absatz 2 Buchstabe c FIDLEG: [#];
   - c. Erleichterung bei öffentlichem Angebot ohne Handelszulassung: [×];
   - d. Erleichterung bei Handelszulassung ohne öffentliches Angebot: [∞];
-  - e. Erleichterung bei geringer Kapitalisierung über einen Handelsplatz: [±].
+  - e. Erleichterung bei geringer Kapitalisierung über einen Handelsplatz oder ein DLT-Handelssystem: [±].
 
 ### 0.2 Angaben auf der ersten Seite
 
@@ -2190,7 +2194,7 @@ Anhang 2
 - 2\.5.1 Kapitalstruktur [#]
   - a. Angabe des Betrags des ordentlichen, genehmigten und bedingten Kapitals per Stichtag des Jahresabschlusses;
   - b. Zahl, Gattung und Nennwert der Effekten, jeweils unter Angabe der Hauptmerkmale, wie Stimmrechte, Dividendenberechtigung, Vorzugsrechte und ähnliche Berechtigungen unter Hinweis auf den nicht einbezahlten Teil auf dem ordentlichen Kapital;
-  - c. gegebenenfalls Angabe, dass Beteiligungspapiere über eine Zulassung zum Handel auf einem Handelsplatz verfügen.
+  - c. gegebenenfalls Angabe, dass Beteiligungspapiere über eine Zulassung zum Handel auf einem Handelsplatz oder einem DLT-Handelssystem verfügen.
 
 - 2\.5.2 Ausstehende Anleihen in summarischer Darstellung, soweit diese nicht irreführend ist [#]
 - Sofern wesentlich, ausstehende Anleihen, wobei zu unterscheiden ist zwischen durch dingliche Sicherheiten oder auf andere Art durch den Emittenten oder durch Dritte sichergestellten und nicht sichergestellten Anleihen unter Aufführung von Zins, Verfalldatum und Währung.
@@ -2323,7 +2327,7 @@ Anhang 2
 - *Zum Handel zugelassene Basiswerte:*
 -
 
-  Bei Wandelanleihen und austauschbaren Forderungsrechten, welche sich auf Beteiligungsrechte beziehen, die bereits an einem Schweizer oder einem anerkannten ausländischen Handelsplatz zum Handel zugelassen sind:
+  Bei Wandelanleihen und austauschbaren Forderungsrechten, welche sich auf Beteiligungsrechte beziehen, die bereits an einem Schweizer Handelsplatz, Schweizer DLT-Handelssystem oder einem anerkannten ausländischen Handelsplatz oder anerkannten ausländischen DLT-Handelssystem zum Handel zugelassen sind:
 
   - a. Firma und Domizil des Emittenten des Basiswerts;
   - b. Wertpapierkennnummern des Basiswerts wie Valorennummer oder ISIN;
@@ -2332,7 +2336,7 @@ Anhang 2
   - e. Angaben darüber, wo die aktuellen Geschäftsberichte, welche sich auf die Emittenten des Basiswerts beziehen, während der gesamten Laufzeit der Effekten kostenlos bezogen werden können.
 
 - *Nicht zum Handel zugelassene Basiswerte:*
-- Bei Beteiligungsrechten, auf die sich eine Wandelanleihe oder ein austauschbares Forderungsrecht bezieht, die nicht an einem Schweizer oder einem anerkannten ausländischen Handelsplatz zum Handel zugelassen und deren Handelszulassung auch nicht gleichzeitig beantragt wird: Angaben, die es dem Anleger ermöglichen, sich ein Urteil über diese Beteiligungsrechte zu bilden.
+- Bei Beteiligungsrechten, auf die sich eine Wandelanleihe oder ein austauschbares Forderungsrecht bezieht, die nicht an einem Schweizer Handelsplatz, Schweizer DLT-Handelssystem oder einem anerkannten ausländischen Handelsplatz oder anerkannten ausländischen DLT-Handelssystem zum Handel zugelassen und deren Handelszulassung auch nicht gleichzeitig beantragt wird: Angaben, die es dem Anleger ermöglichen, sich ein Urteil über diese Beteiligungsrechte zu bilden.
 
 ### 3.6 Optionsanleihen
 
@@ -2389,7 +2393,7 @@ Anhang 2
 - Ausgabepreis der Effekten.
 - 3\.13.3 Internationale Emission, gleichzeitige öffentliche und private Platzierung
   - a. Gegebenenfalls Angabe, dass die Ausgabe gleichzeitig auf verschiedenen Märkten im In- und Ausland erfolgt und einzelne Tranchen einem oder mehreren Märkten vorbehalten werden; Angaben über diese vorbehaltenen Tranchen;
-  - b. gegebenenfalls Angabe der entsprechenden Handelsplätze, wenn die Effekten bereits zum Handel zugelassen sind oder deren Zulassung zum Handel beantragt wird;
+  - b. gegebenenfalls Angabe der entsprechenden Handelsplätze oder DLT-Handelssysteme, wenn die Effekten bereits zum Handel zugelassen sind oder deren Zulassung zum Handel beantragt wird;
   - c. gegebenenfalls Angabe der Art der Vorgänge sowie Anzahl – falls bestimmt – und Merkmale der betreffenden Effekten, wenn gleichzeitig oder fast gleichzeitig mit der Begebung Effekten der gleichen Gattung privat gezeichnet oder platziert oder Effekten anderer Gattungen im Hinblick auf eine öffentliche oder private Platzierung begeben werden.
 
 - 3\.13.4 Nettoerlös
@@ -2531,7 +2535,7 @@ Anhang 3
 - 2\.5.1 Kapitalstruktur [#]
   - a. Angabe des Betrags des ordentlichen, genehmigten und bedingten Kapitals per Stichtag des Jahresabschlusses;
   - b. Zahl, Gattung und Nennwert der Effekten, jeweils unter Angabe der Hauptmerkmale, wie Stimmrechte, Dividendenberechtigung, Vorzugsrechte und ähnliche Berechtigungen unter Hinweis auf den nicht einbezahlten Teil auf dem ordentlichen Kapital;
-  - c. gegebenenfalls Angabe, dass Beteiligungspapiere über eine Zulassung zum Handel auf einem Handelsplatz verfügen.
+  - c. gegebenenfalls Angabe, dass Beteiligungspapiere über eine Zulassung zum Handel auf einem Handelsplatz oder einem DLT-Handelssystem verfügen.
 
 - 2\.5.2 Ausstehende Anleihen in summarischer Darstellung, soweit diese nicht irreführend ist [#]
 - Sofern wesentlich, ausstehende Anleihen, wobei zu unterscheiden ist zwischen durch dingliche Sicherheiten oder auf andere Art durch den Emittenten oder durch Dritte sichergestellten und nicht sichergestellten Anleihen unter Aufführung von Zins, Verfalldatum und Währung.
@@ -2629,7 +2633,7 @@ Anhang 3
 - 3\.3.1 Allgemeine Angaben
   - a. Allgemeine Bezeichnung der Basiswerte und, sofern es keine öffentliche zugängliche Beschreibung der Basiswerte gibt, kurze Beschreibung der Basiswerte;
   - b. sofern vorhanden, ISIN der Basiswerte; andernfalls ein anderweitiges, eindeutiges Identifikationsmerkmal;
-  - c. sind die Basiswerte an einem Handelsplatz gehandelt: Angabe des Handelsplatzes, ansonsten Angabe, wo die Preisermittlung der Basiswerte öffentlich zugänglich ist.
+  - c. sind die Basiswerte an einem Handelsplatz oder DLT-Handelssystem gehandelt: Angabe des Handelsplatzes oder DLT-Handelssystems, ansonsten Angabe, wo die Preisermittlung der Basiswerte öffentlich zugänglich ist.
 
 - 3\.3.2 Zusätzliche Angaben bei Effekten auf Beteiligungsrechte oder Forderungsrechte
   - a. Gegebenenfalls Hinweis, falls eine Lieferung der Basiswerte vorgesehen und die Übertragbarkeit der Basiswerte beschränkt ist;
@@ -2946,7 +2950,7 @@ Anhang 4
 - 2\.6.1 Kapitalstruktur
   - a. Betrag des ordentlichen, genehmigten und bedingten Kapitals per Stichtag des letzten Jahresabschlusses;
   - b. Zahl, Gattung und Nennwert der Effekten, jeweils unter Angabe der Hauptmerkmale, wie Dividendenberechtigung, Vorzugsrechte und ähnliche Berechtigungen unter Hinweis auf den nicht einbezahlten Teil auf dem ordentlichen Kapital;
-  - c. gegebenenfalls Angabe, dass Beteiligungspapiere über eine Zulassung zum Handel auf einem Handelsplatz verfügen.
+  - c. gegebenenfalls Angabe, dass Beteiligungspapiere über eine Zulassung zum Handel auf einem Handelsplatz oder einem DLT-Handelssystem verfügen.
 
 - 2\.6.2 Stimmrechte
 - Darstellung der Stimmrechtsverhältnisse und allfälliger Stimmrechtsbeschränkungen unter Hinweis auf statutarische Gruppenklauseln und auf Regeln zur Gewährung von Ausnahmen, namentlich für institutionelle Stimmrechtsvertreter.
@@ -3083,7 +3087,7 @@ Anhang 4
 
 - 3\.7.4 Internationale Emission, gleichzeitige öffentliche und private Platzierung
   - a. Gegebenenfalls Angabe, dass die Ausgabe gleichzeitig auf verschiedenen Märkten im In- und Ausland erfolgt und einzelne Tranchen einem oder mehreren Märkten vorbehalten werden; Angaben über diese vorbehaltenen Tranchen;
-  - b. gegebenenfalls Angabe der entsprechenden Handelsplätze, wenn die Effekten bereits zum Handel zugelassen sind oder deren Zulassung zum Handel beantragt wird;
+  - b. gegebenenfalls Angabe der entsprechenden Handelsplätze oder DLT-Handelssysteme, wenn die Effekten bereits zum Handel zugelassen sind oder deren Zulassung zum Handel beantragt wird;
   - c. gegebenenfalls Angabe der Art der Vorgänge sowie Anzahl – falls bestimmt – und Merkmale der betreffenden Effekten, wenn gleichzeitig oder fast gleichzeitig mit der Begebung Effekten der gleichen Gattung privat gezeichnet oder platziert oder Effekten anderer Gattungen im Hinblick auf eine öffentliche oder private Platzierung begeben werden.
 
 - 3\.7.5 Zahlstellen
@@ -3301,7 +3305,7 @@ Anhang 5
 - 2\.7.1 Kapitalstruktur
   - a. Angabe des Betrags des ordentlichen, genehmigten und bedingten Kapitals per Stichtag des letzten Jahresabschlusses;
   - b. Zahl, Gattung und Nennwert der Effekten, jeweils unter Angabe der Hauptmerkmale wie Dividendenberechtigung, Vorzugsrechte und ähnliche Berechtigungen unter Hinweis auf den nicht einbezahlten Teil auf dem ordentlichen Kapital;
-  - c. gegebenenfalls Angabe, dass Beteiligungspapiere über eine Zulassung zum Handel auf einem Handelsplatz verfügen.
+  - c. gegebenenfalls Angabe, dass Beteiligungspapiere über eine Zulassung zum Handel auf einem Handelsplatz oder einem DLT-Handelssystem verfügen.
 
 - 2\.7.2 Stimmrechte
 - Darstellung der Stimmrechtsverhältnisse und allfälliger Stimmrechtsbeschränkungen unter Hinweis auf statutarische Gruppenklauseln und auf Regeln zur Gewährung von Ausnahmen, namentlich für institutionelle Stimmrechtsvertreter.
@@ -3451,7 +3455,7 @@ Anhang 5
 
 - 3\.7.4 Internationale Emission, gleichzeitige öffentliche und private Platzierung
   - a. Gegebenenfalls Angabe, dass die Ausgabe gleichzeitig auf verschiedenen Märkten im In- und Ausland erfolgt und einzelne Tranchen einem oder mehreren Märkten vorbehalten werden; Angaben über diese vorbehaltenen Tranchen;
-  - b. gegebenenfalls Angabe der entsprechenden Handelsplätze, wenn die Effekten bereits zum Handel zugelassen sind oder deren Zulassung zum Handel beantragt wird;
+  - b. gegebenenfalls Angabe der entsprechenden Handelsplätze oder DLT-Handelssysteme, wenn die Effekten bereits zum Handel zugelassen sind oder deren Zulassung zum Handel beantragt wird;
   - c. gegebenenfalls Angabe der Art der Vorgänge sowie Anzahl – falls bestimmt – und Merkmale der betreffenden Effekten, wenn gleichzeitig oder fast gleichzeitig mit der Begebung Effekten der gleichen Gattung privat gezeichnet oder platziert oder Effekten anderer Gattungen im Hinblick auf eine öffentliche oder private Platzierung begeben werden.
 
 - 3\.7.5 Zahlstellen
@@ -3618,17 +3622,17 @@ Anhang 9
 ### 2 Mustervorlage
 
 <table>
-<tr><td>Basisinformationsblatt</td></tr>
-<tr><td>Zweck «Dieses Basisinformationsblatt stellt Ihnen[^annex9-lvlu1-lvl2-1] wesentliche Informationen über dieses Finanzinstrument (das «Produkt») zur Verfügung. Es handelt sich nicht um Werbematerial. Diese Informationen sind gesetzlich vorgeschrieben, um Ihnen dabei zu helfen, die Art, das Risiko, die Kosten sowie die möglichen Gewinne und Verluste dieses Produkts zu verstehen und es mit anderen Produkten zu vergleichen.»</td></tr>
-<tr><td>Produkt **Name des Produkts**: *[**Name des Produkts, der vom Ersteller vergeben wurde, und gegebenenfalls die Internationale Wertpapierkennnummer oder die eindeutige Produktekennung für das Finanzinstrument.]* **Name des Erstellers**: *[**Firma und Sitz des Erstellers.]* **Name des Emittenten**: *[**Sofern der Emittent und der Ersteller nicht identisch sind: Firma und Sitz des Emittenten.]* **Name des Garanten**: *[**Sofern der Garant und der Ersteller nicht identisch sind: Firma und Sitz des Garanten.]* **Aufsichtsbehörde:** *[Hinweis darauf, ob* *der Ersteller, der Emittent und der Garant einer prudenziellen Aufsicht untersteht oder nicht und ggf. Angabe der Aufsichtsbehörde.]* **Produktegenehmigung / -bewilligung:** *[**Hinweis auf eine allfällige gesetzlichen Genehmigungs- oder Bewilligungspflicht für das Produkt.]* **Website und Telefonnummer des Erstellers.** **Erstellungsdatum des Basisinformationsblatts**: *[**Datum der Erstellung oder, sofern das Basisinformationsblatt anschliessend überarbeitet wurde, Datum der letzten Überarbeitung des Basisinformationsblatts.]*</td></tr>
+<tr><td>**Basisinformationsblatt**</td></tr>
+<tr><td>**Zweck** «Dieses Basisinformationsblatt stellt Ihnen[^annex9-lvlu1-lvl2-1] wesentliche Informationen über dieses Finanzinstrument (das «Produkt») zur Verfügung. Es handelt sich nicht um Werbematerial. Diese Informationen sind gesetzlich vorgeschrieben, um Ihnen dabei zu helfen, die Art, das Risiko, die Kosten sowie die möglichen Gewinne und Verluste dieses Produkts zu verstehen und es mit anderen Produkten zu vergleichen.»</td></tr>
+<tr><td>**Produkt** **Name des Produkts**: *[**Name des Produkts, der vom Ersteller vergeben wurde, und gegebenenfalls die Internationale Wertpapierkennnummer oder die eindeutige Produktekennung für das Finanzinstrument.]* **Name des Erstellers**: *[**Firma und Sitz des Erstellers.]* **Name des Emittenten**: *[**Sofern der Emittent und der Ersteller nicht identisch sind: Firma und Sitz des Emittenten.]* **Name des Garanten**: *[**Sofern der Garant und der Ersteller nicht identisch sind: Firma und Sitz des Garanten.]* **Aufsichtsbehörde:** *[Hinweis darauf, ob* *der Ersteller, der Emittent und der Garant einer prudenziellen Aufsicht untersteht oder nicht und ggf. Angabe der Aufsichtsbehörde.]* **Produktegenehmigung / -bewilligung:** *[**Hinweis auf eine allfällige gesetzlichen Genehmigungs- oder Bewilligungspflicht für das Produkt.]* **Website und Telefonnummer des Erstellers.** **Erstellungsdatum des Basisinformationsblatts**: *[**Datum der Erstellung oder, sofern das Basisinformationsblatt anschliessend überarbeitet wurde, Datum der letzten Überarbeitung des Basisinformationsblatts.]*</td></tr>
 <tr><td>***Warnhinweis****: «Sie sind im Begriff, ein Produkt zu erwerben, das nicht einfach ist und schwer zu verstehen sein kann.»*</td></tr>
-<tr><td>Um welche Art von Produkt handelt es sich? *[Angaben gemäss Ziffer 3]*</td></tr>
-<tr><td>Welche Risiken bestehen und was könnte ich im Gegenzug dafür bekommen? *[Angaben gemäss Ziffer 4]*</td></tr>
-<tr><td>Was geschieht, wenn *[Name des Emittenten*] nicht in der Lage ist, die Auszahlung vorzunehmen? *[Angabe, ob die Privatkundin oder der Privatkunde aufgrund des Ausfalls des Emittenten oder des Garanten einen finanziellen Verlust erleiden kann, und falls ja, ob ein Einlageschutz oder eine Sicherheit vorhanden ist, sowie die Bedingungen und Einschränkungen des Einlageschutzes oder der Sicherheit.]*</td></tr>
-<tr><td>Welche Kosten entstehen? *[Angaben gemäss Ziffer 5]*</td></tr>
-<tr><td>Wie lange muss ich die Anlage halten und kann ich vorzeitig Geld entnehmen? *[Angaben gemäss Ziffer 6]*</td></tr>
-<tr><td>Wie kann ich mich beschweren? *[Hinweis darauf, wie und wo die Privatkundin oder der Privatkunde sich über das Produkt oder über das Verhalten des Erstellers oder der Person, die zu dem Produkt berät oder es verkauft, beschweren kann, unter Aufnahme (i) eines Links zur entsprechenden Website für solche Beschwerden und (ii) einer aktuellen Anschrift und einer E-Mail-Adresse, unter der solche Beschwerden eingereicht werden können.]*</td></tr>
-<tr><td>Sonstige zweckdienliche Angaben *[Optional sonstige zweckdienliche Angaben. Insbesondere:* *–* *ein Verweis auf zusätzliche Unterlagen, welche Informationen beinhalten;* *–* *Informationen zur Besteuerung des Produkts;* *–* *gut sichtbarer Hinweis, sofern das Revisionsunternehmen des Emittenten nicht von einer durch den Bundesrat anerkannten ausländischen Revisionsaufsichtsbehörde beaufsichtigt wird.]*</td></tr>
+<tr><td>**Um welche Art von Produkt handelt es sich?** *[Angaben gemäss Ziffer 3]*</td></tr>
+<tr><td>**Welche Risiken bestehen und was könnte ich im Gegenzug dafür bekommen?** *[Angaben gemäss Ziffer 4]*</td></tr>
+<tr><td>**Was geschieht, wenn** ***[Name des Emittenten*****] nicht in der Lage ist, die Auszahlung vorzunehmen?** *[Angabe, ob die Privatkundin oder der Privatkunde aufgrund des Ausfalls des Emittenten oder des Garanten einen finanziellen Verlust erleiden kann, und falls ja, ob ein Einlageschutz oder eine Sicherheit vorhanden ist, sowie die Bedingungen und Einschränkungen des Einlageschutzes oder der Sicherheit.]*</td></tr>
+<tr><td>**Welche Kosten entstehen?** *[Angaben gemäss Ziffer 5]*</td></tr>
+<tr><td>**Wie lange muss ich die Anlage halten und kann ich vorzeitig Geld entnehmen?** *[Angaben gemäss Ziffer 6]*</td></tr>
+<tr><td>**Wie kann ich mich beschweren?** *[Hinweis darauf, wie und wo die Privatkundin oder der Privatkunde sich über das Produkt oder über das Verhalten des Erstellers oder der Person, die zu dem Produkt berät oder es verkauft, beschweren kann, unter Aufnahme (i) eines Links zur entsprechenden Website für solche Beschwerden und (ii) einer aktuellen Anschrift und einer E-Mail-Adresse, unter der solche Beschwerden eingereicht werden können.]*</td></tr>
+<tr><td>**Sonstige zweckdienliche Angaben** *[Optional sonstige zweckdienliche Angaben. Insbesondere:* *–* *ein Verweis auf zusätzliche Unterlagen, welche Informationen beinhalten;* *–* *Informationen zur Besteuerung des Produkts;* *–* *gut sichtbarer Hinweis, sofern das Revisionsunternehmen des Emittenten nicht von einer durch den Bundesrat anerkannten ausländischen Revisionsaufsichtsbehörde beaufsichtigt wird.]*</td></tr>
 </table>
 
 [^annex9-lvlu1-lvl2-1]: Alternativ können im gesamten Basisinformationsblatt auch die Bezeichnungen «Anleger», «Investor» oder «Privatkunde» verwendet werden.
@@ -3857,7 +3861,7 @@ Anhang 9
 
   - a. bei Anlageprodukten mit fester Laufzeit: «bis zur Fälligkeit»;
   - b. bei Anlageprodukten ohne feste Laufzeit: «für 5 Jahre»;
-  - c. bei Hebelprodukten: «bis […]».
+  - c. bei Hebelprodukten: «bis [...]».
 
 - 6\.1.3 Die bei Hebelprodukten anzugebende empfohlene Haltedauer kann von einem Kalendertag bis hin zu wenigen Kalenderwochen, bei Hebelprodukten mit fester Laufzeit auch bis zur Fälligkeit reichen.
 
@@ -3874,7 +3878,7 @@ Anhang 9
 
 ### 6.3 Handelbarkeit
 
-- Die Angaben über die Handelbarkeit enthalten insbesondere Angaben zur Kotierung an einem Handelsplatz oder zu einer allenfalls zugesicherten Preisstellung (Market Making) für das Produkt.
+- Die Angaben über die Handelbarkeit enthalten insbesondere Angaben zur Kotierung an einem Handelsplatz oder einem DLT-Handelssystem oder zu einer allenfalls zugesicherten Preisstellung (Market Making) für das Produkt.
 
 Anhang 10
 
@@ -3883,9 +3887,9 @@ Anhang 10
 ## Dokumente nach ausländischem Recht, die als dem Basisinformationsblatt gleichwertig anerkannt werden
 
 - 1\. Basisinformationsblätter nach der Verordnung (EU) Nr. 1286/2014[^annex10-lvlu1-1] und der Delegierten Verordnung (EU) 2017/653[^annex10-lvlu1-2]
-- 2\. …
-- 3\. …
-- 4\. …
+- 2\. ...
+- 3\. ...
+- 4\. ...
 
 [^annex10-lvlu1-1]: Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP), Abl. L 352/1 vom 9.12.2014.
 [^annex10-lvlu1-2]: Delegierte Verordnung (EU) 2017/653 der Kommission zur Ergänzung der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) durch technische Regulierungsstandards in Bezug auf die Darstellung, den Inhalt, die Überprüfung und die Überarbeitung dieser Basisinformationsblätter sowie die Bedingungen für die Erfüllung der Verpflichtung zu ihrer Bereitstellung, Abl. L 100/1 vom 12.4.2017.
@@ -3896,6 +3900,6 @@ Anhang 11
 
 ## Änderung anderer Erlasse
 
-…[^annex11-lvlu1-1]
+...[^annex11-lvlu1-1]
 
 [^annex11-lvlu1-1]: Die Änderungen können unter [AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)konsultiert werden.

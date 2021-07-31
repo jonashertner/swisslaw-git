@@ -4,11 +4,11 @@ title: Ordinanza del 6 novembre 2019 sui servizi finanziari (OSerFi)
 short: OSerFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/759"
 language: it
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2019-759-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/759/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2019-759-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/759/20200101/it"
 
 (OSerFi)
 
-del 6 novembre 2019 (Stato 1° gennaio 2020)
+del 6 novembre 2019 (Stato 1° agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -788,28 +788,32 @@ Se non è incluso nel prospetto, il consenso all’utilizzazione di un prospetto
 
 #### Art. 47
 
-**Eccezione per i valori mobiliari ammessi presso una sede di negoziazione svizzera**
+**Eccezione per i valori mobiliari ammessi presso una sede di negoziazione svizzera o presso sistemi di negoziazione TRD**[^47-1]
 
 ### (art. 37 cpv. 2 e 38 cpv. 2 LSerFi)
 
-L’obbligo di pubblicare un ulteriore prospetto non si applica all’ammissione al commercio di valori mobiliari già ammessi al commercio presso un’altra sede di negoziazione svizzera.
+L’obbligo di pubblicare un ulteriore prospetto non si applica all’ammissione al commercio di valori mobiliari già ammessi al commercio presso un’altra sede di negoziazione svizzera o un altro sistema di negoziazione svizzero per valori mobiliari da tecnologia di registro distribuito (sistema di negoziazione TRD).
+
+[^47-1]: Nuovo testo giusta il n. I 4 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 48
 
-**Sede di negoziazione estera riconosciuta**
+**Sede di negoziazione o sistema di negoziazione TRD[^48-1] estera riconosciuta**
 
 ### (art. 38 cpv. 1 lett. c e 47 cpv. 2 lett. c LSerFi)
 
 <sup>1</sup>
 
-Ai fini della presente ordinanza e del titolo terzo LSerFi, per sede di negoziazione estera riconosciuta si intende qualsiasi sede di negoziazione estera la cui regolamentazione, vigilanza e trasparenza sono state riconosciute come adeguate:
+Ai fini della presente ordinanza e del titolo terzo LSerFi, per sede di negoziazione o sistema di negoziazione TRD estera riconosciuta si intende qualsiasi sede di negoziazione o sistema di negoziazione TRD estera la cui regolamentazione, vigilanza e trasparenza sono state riconosciute come adeguate:
 
-- a. per l’ammissione al commercio: dalla sede di negoziazione svizzera; o
-- b. per un’offerta pubblica senza ammissione al commercio: da una sede di negoziazione svizzera o da un organo di verifica.
+- a. per l’ammissione al commercio: dalla sede di negoziazione o sistema di negoziazione TRD svizzera; o
+- b. per un’offerta pubblica senza ammissione al commercio: da una sede di negoziazione o sistema di negoziazione TRD svizzera o da un organo di verifica.
 
 <sup>2</sup> Il riconoscimento di cui al capoverso 1 può essere limitato a determinati segmenti di negoziazione.
 
 <sup>3</sup> Le sedi di negoziazione svizzere e gli organi di verifica tengono e pubblicano un elenco delle sedi di negoziazione estere da loro riconosciute o dei segmenti di negoziazione riconosciuti di tali sedi di negoziazione estere.
+
+[^48-1]: Nuova espr. giusta il n. I 4 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 49
 
@@ -819,7 +823,7 @@ Ai fini della presente ordinanza e del titolo terzo LSerFi, per sede di negoziaz
 
 Le seguenti eccezioni all’obbligo di pubblicare un prospetto si applicano anche all’ammissione al commercio:
 
-- a. articolo 37 capoverso 1 lettere a–g LSerFi, se valori mobiliari della medesima categoria sono già ammessi al commercio presso una sede di negoziazione svizzera o una sede di negoziazione estera riconosciuta;
+- a. articolo 37 capoverso 1 lettere a–g LSerFi, se valori mobiliari della medesima categoria sono già ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD svizzera o una sede di negoziazione o sistema di negoziazione TRD estera riconosciuta;
 - b. articolo 37 capoverso 1 lettere h e l LSerFi.
 
 ### Sezione 2: Requisiti
@@ -846,8 +850,8 @@ Le seguenti eccezioni all’obbligo di pubblicare un prospetto si applicano anch
 
 Gli emittenti, i garanti o i prestatori di cauzioni devono applicare uno standard di presentazione dei conti che sia riconosciuto:
 
-- a. per l’ammissione al commercio: dalla pertinente sede di negoziazione svizzera; o
-- b. per un’offerta pubblica senza ammissione al commercio: da una sede di negoziazione svizzera o dall’organo di verifica incaricato della verifica.
+- a. per l’ammissione al commercio: dalla pertinente sede di negoziazione o sistema di negoziazione TRD svizzera; o
+- b. per un’offerta pubblica senza ammissione al commercio: da una sede di negoziazione o sistema di negoziazione TRD svizzera o dall’organo di verifica incaricato della verifica.
 
 <sup>2</sup> Le sedi di negoziazione svizzere e gli organi di verifica tengono e pubblicano un elenco degli standard di presentazione dei conti da loro generalmente riconosciuti.
 
@@ -994,7 +998,7 @@ Gli emittenti ai sensi dell’articolo 47 capoverso 2 lettera c LSerFi sono emit
 
 ### (art. 51 cpv. 2 LSerFi)
 
-<sup>1</sup> I valori mobiliari il cui prospetto deve essere sottoposto a verifica soltanto dopo la pubblicazione secondo l’articolo 51 capoverso 2 LSerFi sono designati nell’allegato 7. Per i valori mobiliari che prevedono la conversione in altri valori mobiliari o l’acquisto di altri valori mobiliari si richiede che gli altri valori mobiliari siano già ammessi al commercio presso una sede di negoziazione svizzera o una sede di negoziazione estera riconosciuta.
+<sup>1</sup> I valori mobiliari il cui prospetto deve essere sottoposto a verifica soltanto dopo la pubblicazione secondo l’articolo 51 capoverso 2 LSerFi sono designati nell’allegato 7. Per i valori mobiliari che prevedono la conversione in altri valori mobiliari o l’acquisto di altri valori mobiliari si richiede che gli altri valori mobiliari siano già ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD svizzera o una sede di negoziazione o sistema di negoziazione TRD estera riconosciuta.
 
 <sup>2</sup> L’indicazione ai sensi dell’articolo 40 capoverso 5 LSerFi deve figurare sul frontespizio del prospetto.
 
@@ -1028,7 +1032,7 @@ Gli emittenti ai sensi dell’articolo 47 capoverso 2 lettera c LSerFi sono emit
 
 <sup>2</sup> Per informazioni più importanti si intendono le indicazioni secondo gli allegati 1–5 significative per la decisione di investimento degli investitori. Esse sono disponibili se sono accessibili al pubblico o se possono essere rese accessibili.
 
-<sup>3</sup> Per gli emittenti, i garanti o i prestatori di cauzioni i cui titoli di partecipazione o titoli di credito sono ammessi al commercio presso una sede di negoziazione svizzera o una sede di negoziazione estera riconosciuta, si presume che le informazioni più importanti relative all’emittente siano disponibili. Le sedi di negoziazione svizzere possono stabilire la non applicabilità della presunzione per i propri segmenti di negoziazione caratterizzati da scarsa trasparenza.
+<sup>3</sup> Per gli emittenti, i garanti o i prestatori di cauzioni i cui titoli di partecipazione o titoli di credito sono ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD svizzera o una sede di negoziazione o sistema di negoziazione TRD estera riconosciuta, si presume che le informazioni più importanti relative all’emittente siano disponibili. Le sedi di negoziazione svizzere possono stabilire la non applicabilità della presunzione per i propri segmenti di negoziazione caratterizzati da scarsa trasparenza.
 
 <sup>4</sup> La conferma di cui al presente articolo deve essere inoltrata all’organo di verifica unitamente al prospetto da sottoporre a verifica.
 
@@ -1046,7 +1050,7 @@ Gli emittenti ai sensi dell’articolo 47 capoverso 2 lettera c LSerFi sono emit
 
 <sup>3</sup> Per il momento della chiusura definitiva di un’offerta secondo l’articolo 56 capoverso 1 LSerFi è determinante l’intenzione dell’offerente e quella delle banche e società di intermediazione mobiliare direttamente coinvolte nell’offerta.
 
-<sup>4</sup> La comunicazione secondo le regole della sede di negoziazione svizzera o estera interessata di fatti che potrebbero influenzare i corsi può essere notificata sotto forma di supplemento secondo l’articolo 64 lettera b. Questo supplemento deve essere pubblicato contestualmente alla notificazione all’organo di verifica.
+<sup>4</sup> La comunicazione secondo le regole della sede di negoziazione o sistema di negoziazione TRD svizzera o estera interessata di fatti che potrebbero influenzare i corsi può essere notificata sotto forma di supplemento secondo l’articolo 64 lettera b. Questo supplemento deve essere pubblicato contestualmente alla notificazione all’organo di verifica.
 
 <sup>5</sup> Anziché prorogare il termine dell’offerta, nelle condizioni dell’offerta l’offerente può concedere agli investitori la possibilità di ritirare le sottoscrizioni e le promesse di acquisto entro due giorni dalla chiusura definitiva dell’offerta pubblica.
 
@@ -1112,7 +1116,7 @@ Il termine decorre dalla ricezione della richiesta di verifica del prospetto com
 In occasione della verifica del suo prospetto (art. 51 cpv. 1 LSerFi), l’emittente non è considerato nuovo se:
 
 - a. nei tre anni precedenti ha inoltrato per verifica all’organo di verifica al quale è stata chiesta l’approvazione un prospetto per i valori mobiliari da lui emessi o garantiti; o
-- b. al momento della presentazione della richiesta, i valori mobiliari da lui emessi o garantiti sono ammessi al commercio presso una sede di negoziazione svizzera.
+- b. al momento della presentazione della richiesta, i valori mobiliari da lui emessi o garantiti sono ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD svizzera.
 
 <sup>2</sup> Se gli impegni derivanti da valori mobiliari sono garantiti da un terzo, le condizioni di cui al capoverso 1 possono essere adempiute anche da questo terzo.
 
@@ -1132,7 +1136,7 @@ In occasione della verifica del suo prospetto (art. 51 cpv. 1 LSerFi), l’emitt
 
 <sup>4</sup>
 
-Se il prospetto estero è considerato approvato ai sensi del capoverso 3, al più tardi al momento dell’apertura dell’offerta pubblica in Svizzera o dell’ammissione al commercio dei relativi valori mobiliari presso una sede di negoziazione svizzera, esso deve essere:
+Se il prospetto estero è considerato approvato ai sensi del capoverso 3, al più tardi al momento dell’apertura dell’offerta pubblica in Svizzera o dell’ammissione al commercio dei relativi valori mobiliari presso una sede di negoziazione o sistema di negoziazione TRD svizzera, esso deve essere:
 
 - a. annunciato a un organo di verifica affinché sia iscritto nell’elenco di cui all’articolo 64 capoverso 5 LSerFi;
 - b. depositato presso un organo di verifica;
@@ -1484,7 +1488,7 @@ L’elenco dei prospetti e dei supplementi di cui all’articolo 64 capoverso 5 
 
 ### (art. 67 LSerFi)
 
-<sup>1</sup> Se le condizioni di emissione di valori mobiliari offerti al pubblico in Svizzera sulla base di un prospetto e non ammessi al commercio presso una sede di negoziazione svizzera o una sede di negoziazione estera riconosciuta non prevedono disposizioni concernenti la forma della comunicazione di modifiche dei diritti connessi ai valori mobiliari, tali modifiche devono essere pubblicate nella forma in cui è stato pubblicato il prospetto.
+<sup>1</sup> Se le condizioni di emissione di valori mobiliari offerti al pubblico in Svizzera sulla base di un prospetto e non ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD svizzera o una sede di negoziazione o sistema di negoziazione TRD estera riconosciuta non prevedono disposizioni concernenti la forma della comunicazione di modifiche dei diritti connessi ai valori mobiliari, tali modifiche devono essere pubblicate nella forma in cui è stato pubblicato il prospetto.
 
 <sup>2</sup> I termini per la comunicazione secondo il capoverso 1 si fondano sulle condizioni relative ai valori mobiliari in questione.
 
@@ -1711,7 +1715,7 @@ Se al momento dell’entrata in vigore della LSerFi non esiste un organo di medi
 
 ### (art. 95 LSerFi)
 
-<sup>1</sup> Ai valori mobiliari oggetto di un’offerta pubblica o di cui è richiesta l’ammissione al commercio presso una sede di negoziazione, l’obbligo di pubblicare un prospetto approvato si applica sei mesi dopo l’abilitazione di un organo di verifica da parte della FINMA, ma non prima del 1° ottobre 2020.
+<sup>1</sup> Ai valori mobiliari oggetto di un’offerta pubblica o di cui è richiesta l’ammissione al commercio presso una sede di negoziazione o sistema di negoziazione TRD, l’obbligo di pubblicare un prospetto approvato si applica sei mesi dopo l’abilitazione di un organo di verifica da parte della FINMA, ma non prima del 1° ottobre 2020.
 
 <sup>2</sup>
 
@@ -1905,7 +1909,7 @@ Allegato 1
 - 2\.6.1 Struttura del capitale
   - a. Indicazione dell’importo del capitale ordinario, approvato e condizionale alla data di riferimento del conto annuale;
   - b. numero, genere e valore nominale dei valori mobiliari con indicazione delle caratteristiche principali come il diritto al dividendo, i diritti di prelazione e diritti simili, segnalando la parte non versata sul capitale ordinario;
-  - c. eventualmente indicare se i diritti di partecipazione sono ammessi al commercio presso una sede di negoziazione.
+  - c. eventualmente indicare se i diritti di partecipazione sono ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD.
 
 - 2\.6.2 Diritti di voto
 - Presentazione della ripartizione dei diritti di voto e di eventuali limitazioni di questi diritti indicando clausole statutarie del gruppo e norme sulla concessione di deroghe, in particolare per i rappresentanti istituzionali degli aventi diritto di voto.
@@ -2086,7 +2090,7 @@ Allegato 2
   - b. agevolazioni per emittenti secondo l’articolo 47 capoverso 2 lettera c LSerFi: [#];
   - c. agevolazione in caso di offerta pubblica senza ammissione al commercio: [×];
   - d. agevolazione in caso di ammissione al commercio senza offerta pubblica: [∞];
-  - e. agevolazione in caso di bassa capitalizzazione presso una sede di negoziazione: [±].
+  - e. agevolazione in caso di bassa capitalizzazione presso una sede di negoziazione o sistema di negoziazione TRD: [±].
 
 ### 0.2 Indicazioni sulla prima pagina
 
@@ -2193,7 +2197,7 @@ Allegato 2
 - 2\.5.1 Struttura del capitale [#]
   - a. Indicazione dell’importo del capitale ordinario, approvato e condizionale alla data di riferimento del conto annuale;
   - b. numero, genere e valore nominale dei valori mobiliari con indicazione delle caratteristiche principali come i diritti di voto, il diritto al dividendo, i diritti di prelazione e diritti simili, segnalando la parte non versata sul capitale ordinario;
-  - c. eventuale indicazione che i diritti di partecipazione sono ammessi al commercio presso una sede di negoziazione.
+  - c. eventuale indicazione che i diritti di partecipazione sono ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD.
 
 - 2\.5.2 Prestiti in essere, per i quali è fornita una presentazione sommaria, sempre che quest’ultima non sia fuorviante [#]
 - Se rilevanti, prestiti in essere, facendo una distinzione tra prestiti garantiti tramite garanzie reali o in altro modo dall’emittente o da terzi e prestiti non garantiti, con indicazione del tasso d’interesse, della data di scadenza e della valuta.
@@ -2329,7 +2333,7 @@ Allegato 2
 - *Sottostanti ammessi al commercio*
 -
 
-  Per quanto concerne le obbligazioni convertibili e le obbligazioni scambiabili che fanno riferimento a diritti di partecipazione già ammessi al commercio presso una sede di negoziazione svizzera o una sede di negoziazione estera riconosciuta:
+  Per quanto concerne le obbligazioni convertibili e le obbligazioni scambiabili che fanno riferimento a diritti di partecipazione già ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD svizzera o una sede di negoziazione o sistema di negoziazione TRD estera riconosciuta:
 
   - a. ragione sociale e domicilio dell’emittente del sottostante;
   - b. codice identificativo del sottostante come il numero di valore o l’ISIN;
@@ -2338,7 +2342,7 @@ Allegato 2
   - e. indicazione del luogo dove sono reperibili gratuitamente, per l’intera durata dei valori mobiliari, i rapporti di gestione attuali dell’emittente del sottostante.
 
 - *Sottostanti non ammessi al commercio*
-- Se i diritti di partecipazione a cui fa riferimento un’obbligazione convertibile o un’obbligazione scambiabile non sono ammessi al commercio presso una sede di negoziazione svizzera o una sede di negoziazione estera riconosciuta e la loro ammissione al commercio non è richiesta contemporaneamente: indicazioni che consentono all’investitore di farsi un’opinione sui diritti di partecipazione.
+- Se i diritti di partecipazione a cui fa riferimento un’obbligazione convertibile o un’obbligazione scambiabile non sono ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD svizzera o una sede di negoziazione o sistema di negoziazione TRD estera riconosciuta e la loro ammissione al commercio non è richiesta contemporaneamente: indicazioni che consentono all’investitore di farsi un’opinione sui diritti di partecipazione.
 
 ### 3.6 Obbligazioni a opzione
 
@@ -2537,7 +2541,7 @@ Allegato 3
 - 2\.5.1 Struttura del capitale [#]
   - a. Indicazione dell’importo del capitale ordinario, approvato e condizionale alla data di riferimento del conto annuale;
   - b. numero, genere e valore nominale dei valori mobiliari con indicazione delle caratteristiche principali come i diritti di voto, il diritto al dividendo, i diritti di prelazione e diritti simili, segnalando la parte non versata sul capitale ordinario;
-  - c. eventuale indicazione che i diritti di partecipazione sono ammessi al commercio presso una sede di negoziazione.
+  - c. eventuale indicazione che i diritti di partecipazione sono ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD.
 
 - 2\.5.2 Prestiti in essere, per i quali è fornita una presentazione sommaria, sempre che quest’ultima non sia fuorviante [#]
   - [tab] Se rilevanti, prestiti in essere, facendo una distinzione tra prestiti garantiti tramite garanzie reali o in altro modo dall’emittente o da terzi e prestiti non garantiti con indicazione del tasso d’interesse, della data di scadenza e della valuta.
@@ -2639,7 +2643,7 @@ Allegato 3
 - 3\.3.1 Indicazioni generali
   - a. Denominazione generale dei sottostanti e breve descrizione degli stessi se non è disponibile una descrizione accessibile al pubblico;
   - b. ISIN dei sottostanti se disponibile; in caso contrario un’altra caratteristica univoca di identificazione;
-  - c. se i sottostanti sono negoziati presso una sede di negoziazione, indicare il nome della sede di negoziazione; in caso contrario indicare dove il pubblico può consultare il prezzo dei sottostanti.
+  - c. se i sottostanti sono negoziati presso una sede di negoziazione o sistema di negoziazione TRD, indicare il nome della sede di negoziazione o sistema di negoziazione TRD; in caso contrario indicare dove il pubblico può consultare il prezzo dei sottostanti.
 
 - 3\.3.2 Indicazioni supplementari per i valori mobiliari su diritti di partecipazione o diritti di credito
   - a. Eventualmente indicare se è prevista la fornitura dei sottostanti e se la trasferibilità di questi ultimi è limitata;
@@ -2737,7 +2741,7 @@ Allegato 3
 
 - 3\.10.1 Prezzi di emissione
 - Prezzo di emissione dei valori mobiliari.
-- 3\.10.2 Restrizioni di vendita *(selling restric**tions)*
+- 3\.10.2 Restrizioni di vendita *(selling restrictions)*
 - Evidenziare eventuali restrizioni di vendita previste dal diritto estero.
 
 ### 3.11 Imposte
@@ -2962,7 +2966,7 @@ Allegato 4
 - 2\.6.1 Struttura del capitale
   - a. Importo del capitale ordinario, approvato e condizionale alla data di riferimento dell’ultimo conto annuale;
   - b. numero, genere e valore nominale dei valori mobiliari con indicazione delle caratteristiche principali come il diritto al dividendo, i diritti di prelazione e diritti simili, segnalando la parte non versata sul capitale ordinario;
-  - c. eventuale indicazione che i diritti di partecipazione sono ammessi al commercio presso una sede di negoziazione.
+  - c. eventuale indicazione che i diritti di partecipazione sono ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD.
 
 - 2\.6.2. Diritti di voto
 - Presentazione della ripartizione dei diritti di voto e di eventuali limitazioni di questi diritti indicando clausole statutarie del gruppo e norme sulla concessione di deroghe, in particolare per i rappresentanti istituzionali degli aventi diritto di voto.
@@ -3316,7 +3320,7 @@ Allegato 5
 - 2\.7.1 Struttura del capitale
   - a. Indicazione dell’importo del capitale ordinario, approvato e condizionale alla data di riferimento dell’ultimo conto annuale;
   - b. numero, genere e valore nominale dei valori mobiliari con indicazione delle caratteristiche principali come il diritto al dividendo, i diritti di prelazione e diritti simili, segnalando la parte non versata sul capitale ordinario,
-  - c. eventuale indicazione che i diritti di partecipazione sono ammessi al commercio presso una sede di negoziazione.
+  - c. eventuale indicazione che i diritti di partecipazione sono ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD.
 
 - 2\.7.2. Diritti di voto
 - Presentazione della ripartizione dei diritti di voto e di eventuali limitazioni di questi diritti indicando clausole statutarie del gruppo e norme sulla concessione di deroghe, in particolare per i rappresentanti istituzionali degli aventi diritto di voto.
@@ -3639,17 +3643,17 @@ Allegato 9
 ### 2 Modello
 
 <table>
-<tr><td>Foglio informativo di base</td></tr>
-<tr><td>Scopo «Il presente foglio informativo di base mette a Sua[^annex9-lvlu1-lvl2-1] disposizione informazioni essenziali su questo strumento finanziario (sul «prodotto»). Non si tratta di materiale pubblicitario. Le presenti informazioni sono prescritte dalla legge allo scopo di aiutarla a capire il genere, i rischi, i costi, gli utili e le perdite possibili di questo prodotto e a confrontarlo con altri prodotti.»</td></tr>
-<tr><td>Prodotto **Nome del prodotto**: *[**nome del prodotto assegnato dal produttore ed eventualmente relativo codice internazionale di identificazione dei titoli o identificativo unico del prodotto.]* **Nome del produttore**: *[ragione sociale e sede del produttore.]* **Nome dell’emittente**: *[se l’emittente è una persona diversa dal produttore, indicare ragione sociale e sede dell’emittente.]* **Nome del garante**: *[**se il garante è una persona diversa dal produttore, indicare ragione sociale e sede del garante.]* **Autorità di vigilanza**: *[**indicare se il produttore, l’emittente o il garante è sottoposto a una vigilanza prudenziale ed eventualmente il nome dell’autorità di vigilanza.]* **Approvazione / autorizzazione del prodotto**: *[indicare se per il prodotto vige un eventuale obbligo legale di approvazione o autorizzazione.]* **Sito Internet e numero di telefono del produttore.** **Data di redazione del foglio informativo di base**: *[data di redazione o, se il foglio informativo di base è stato successivamente rivisto, data dell’ultima revisione.]*</td></tr>
+<tr><td>**Foglio informativo di base**</td></tr>
+<tr><td>**Scopo** «Il presente foglio informativo di base mette a Sua[^annex9-lvlu1-lvl2-1] disposizione informazioni essenziali su questo strumento finanziario (sul «prodotto»). Non si tratta di materiale pubblicitario. Le presenti informazioni sono prescritte dalla legge allo scopo di aiutarla a capire il genere, i rischi, i costi, gli utili e le perdite possibili di questo prodotto e a confrontarlo con altri prodotti.»</td></tr>
+<tr><td>**Prodotto** **Nome del prodotto**: *[**nome del prodotto assegnato dal produttore ed eventualmente relativo codice internazionale di identificazione dei titoli o identificativo unico del prodotto.]* **Nome del produttore**: *[ragione sociale e sede del produttore.]* **Nome dell’emittente**: *[se l’emittente è una persona diversa dal produttore, indicare ragione sociale e sede dell’emittente.]* **Nome del garante**: *[**se il garante è una persona diversa dal produttore, indicare ragione sociale e sede del garante.]* **Autorità di vigilanza**: *[**indicare se il produttore, l’emittente o il garante è sottoposto a una vigilanza prudenziale ed eventualmente il nome dell’autorità di vigilanza.]* **Approvazione / autorizzazione del prodotto**: *[indicare se per il prodotto vige un eventuale obbligo legale di approvazione o autorizzazione.]* **Sito Internet e numero di telefono del produttore.** **Data di redazione del foglio informativo di base**: *[data di redazione o, se il foglio informativo di base è stato successivamente rivisto, data dell’ultima revisione.]*</td></tr>
 <tr><td>***Avvertenza****: «È in procinto di acquistare un prodotto complesso, che potrebbe essere difficile capire.»*</td></tr>
-<tr><td>Che genere di prodotto è? *[Fornire le indicazioni secondo il numero 3.]*</td></tr>
-<tr><td>Quali sono i rischi e cosa potrei ottenere in cambio? *[Fornire le indicazioni secondo il numero 4.]*</td></tr>
-<tr><td>Cosa accade se *[nome dell’emittente]* non è in grado di effettuare il pagamento? *[Indicare se il cliente privato può subire una perdita finanziaria a causa del fallimento dell’emittente o del garante e, in caso affermativo, se è prevista una protezione dei depositi o una garanzia e se sussistono condizioni o limitazioni per tale protezione o garanzia.]*</td></tr>
-<tr><td>Quali sono i costi? *[Fornire le indicazioni secondo il numero 5.]*</td></tr>
-<tr><td>Per quanto tempo devo mantenere l’investimento e posso ritirare il capitale anticipatamente? *[Fornire le indicazioni secondo il numero 6.]*</td></tr>
-<tr><td>Come posso presentare reclamo? *[Indicare le modalità con cui il cliente privato può presentare reclami relativi al prodotto o alla condotta del produttore o della persona che fornisce consulenza sul prodotto o lo vende, nonché il luogo dove può inviare i reclami, inserendo (i) un link verso il sito web pertinente come pure (ii) un indirizzo postale e un indirizzo di posta elettronica aggiornati.]*</td></tr>
-<tr><td>Altre indicazioni pertinenti *[Altre indicazioni pertinenti facoltative, in particolare:* *–* *un rimando a documenti supplementari che contengono informazioni,* *–* *informazioni sull’imposizione del prodotto,* *–* *se del caso, precisazione secondo cui l’impresa di revisione dell’emittente non è sottoposta alla sorveglianza di un’autorità estera di sorveglianza dei revisori riconosciuta dal Consiglio federale.]*</td></tr>
+<tr><td>**Che genere di prodotto è?** *[Fornire le indicazioni secondo il numero 3.]*</td></tr>
+<tr><td>**Quali sono i rischi e cosa potrei ottenere in cambio?** *[Fornire le indicazioni secondo il numero 4.]*</td></tr>
+<tr><td>**Cosa accade se** ***[nome dell’emittente]*** **non è in grado di effettuare il pagamento?** *[Indicare se il cliente privato può subire una perdita finanziaria a causa del fallimento dell’emittente o del garante e, in caso affermativo, se è prevista una protezione dei depositi o una garanzia e se sussistono condizioni o limitazioni per tale protezione o garanzia.]*</td></tr>
+<tr><td>**Quali sono i costi?** *[Fornire le indicazioni secondo il numero 5.]*</td></tr>
+<tr><td>**Per quanto tempo devo mantenere l’investimento e posso ritirare il capitale anticipatamente?** *[Fornire le indicazioni secondo il numero 6.]*</td></tr>
+<tr><td>**Come posso presentare reclamo?** *[Indicare le modalità con cui il cliente privato può presentare reclami relativi al prodotto o alla condotta del produttore o della persona che fornisce consulenza sul prodotto o lo vende, nonché il luogo dove può inviare i reclami, inserendo (i) un link verso il sito web pertinente come pure (ii) un indirizzo postale e un indirizzo di posta elettronica aggiornati.]*</td></tr>
+<tr><td>**Altre indicazioni pertinenti** *[Altre indicazioni pertinenti facoltative, in particolare:* *–* *un rimando a documenti supplementari che contengono informazioni,* *–* *informazioni sull’imposizione del prodotto,* *–* *se del caso, precisazione secondo cui l’impresa di revisione dell’emittente non è sottoposta alla sorveglianza di un’autorità estera di sorveglianza dei revisori riconosciuta dal Consiglio federale.]*</td></tr>
 </table>
 
 [^annex9-lvlu1-lvl2-1]: In alternativa è possibile utilizzare in tutte le parti del foglio informativo di base il termine «investitore» o «cliente privato».
@@ -3896,7 +3900,7 @@ Allegato 9
 
 ### 6.3 Negoziabilità
 
-- Le indicazioni sulla negoziabilità contengono in particolare informazioni sulla quotazione presso una sede di negoziazione o su un prezzo offerto eventualmente garantito per il prodotto (*market making*).
+- Le indicazioni sulla negoziabilità contengono in particolare informazioni sulla quotazione presso una sede di negoziazione o sistema di negoziazione TRD o su un prezzo offerto eventualmente garantito per il prodotto (*market making*).
 
 Allegato 10
 
