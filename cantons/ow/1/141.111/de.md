@@ -3,20 +3,20 @@ canton: OW
 number: "141.111"
 title: Ausführungsbestimmungen über die Stellenbewertung und Entlöhnung
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-01
+version: 2021-08-01
+valid_until: 2022-12-31
+version_adopted: 2021-07-01
 adopted: 1998-06-23
 in_force: 1999-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/141.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1475/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1520/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Stellenbewertung und Entlöhnung
 
-vom 23.06.1998 (Stand 01.01.2021)
+vom 23.06.1998 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -44,13 +44,7 @@ beschliesst:
 
 #### Art. 3
 
-**Bewertung von Stellen**
-
-<sup>1</sup> Wird bei Stellenbewertungen kein Einvernehmen zwischen Personalamt und dem zuständigen Departement erzielt, so entscheidet die Personalkommission.
-
-<sup>2</sup> Die Stellenbewertungen des Personalamtes und des zuständigen Departementes können von betroffenen Angestellten innert 20 Tagen mit Beschwerde bei der Personalkommission angefochten werden.
-
-<sup>3</sup> Entscheide der Personalkommission können innert 20 Tagen beim Regierungsrat angefochten werden.
+**…**
 
 #### Art. 4
 
@@ -238,6 +232,8 @@ geändert durch
 
 \- Nachtrag vom 22. Januar 2019, in Kraft seit 1. März 2019 (OGS 2019, 14),
 
-\- Nachtrag vom 1. Dezember 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 54)
+\- Nachtrag vom 1. Dezember 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 54),
+
+\- Nachtrag vom 1. Juli 2021, in Kraft seit 1. August 2021 (OGS 2021, 24)
 
 OGS 1999, 33
