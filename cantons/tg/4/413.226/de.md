@@ -4,13 +4,13 @@ number: "413.226"
 title: Verordnung des Regierungsrates über die Maturitätsabteilung an den thurgauischen Kantonsschulen
 short: MKV
 language: de
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2019-06-25
+version: 2021-08-01
+valid_until: 2023-01-31
+version_adopted: 2021-01-12
 adopted: 1999-07-06
 in_force: 1999-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.226"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2975/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2977/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ MKV
 
 (MKV)
 
-vom 06.07.1999 (Stand 01.08.2020)
+vom 06.07.1999 (Stand 01.08.2021)
 
 ## 1. Unterricht
 
@@ -88,11 +88,9 @@ vom 06.07.1999 (Stand 01.08.2020)
 
 #### § 3
 
-**Promotionstermin und Promotionsfächer**
+**Promotionsfächer**
 
-<sup>1</sup> Am Ende eines Semesters entscheidet der Konvent aufgrund der Zeugnisnoten in den Promotionsfächern, ob eine Schülerin oder ein Schüler in das nächste Semester befördert werden kann. Für das 3. und 4. Schuljahr kann der Konvent eine Jahrespromotion festlegen.
-
-<sup>1<sup>bis</sup></sup> Der Konvent regelt bei der Jahrespromotion Notenmitteilungen und Zwischenzeugnisse insbesondere für provisorisch beförderte Schülerinnen und Schüler.
+<sup>1–1<sup>bis</sup></sup> …
 
 <sup>2</sup> Als Promotionsfächer gelten:
 
@@ -113,6 +111,42 @@ vom 06.07.1999 (Stand 01.08.2020)
 - 14\. Ergänzungsfach
 
 <sup>3</sup> Freifächer zählen nicht für die Promotion.
+
+#### § 3a
+
+**Promotionsverfahren**
+
+<sup>1</sup> Die Schulleitung legt die Art der Promotion fest. Folgende Modelle stehen zur Wahl:
+
+- 1\. Durchgängige Semesterpromotion;
+- 2\. Jahrespromotion für die dritte und vierte Klasse;
+- 3\. Jahrespromotion für die vierte Klasse.
+
+<sup>2</sup> Für die Semesterpromotion gilt: Der Konvent entscheidet am Ende eines Semesters aufgrund der Zeugnisnoten des Semesters in den Promotionsfächern, ob eine Schülerin oder ein Schüler in das nächste Semester befördert werden kann.
+
+<sup>3</sup> Für Kantonsschulen mit Jahrespromotion für die dritte und vierte Klasse gilt:
+
+- 1\. Für die ersten drei Semester gilt Abs. 2.
+- 2\. Am Ende des vierten Semesters entscheidet der Konvent aufgrund der Noten in den Promotionsfächern gemäss Jahreszeugnis, ob eine Schülerin oder ein Schüler in das nächste Schuljahr befördert werden kann.
+- 3\. Am Ende des fünften Semesters erfolgt kein Promotionsentscheid.
+- 4\. Am Ende des sechsten Semesters entscheidet der Konvent aufgrund der Noten in den Promotionsfächern gemäss Jahreszeugnis, ob eine Schülerin oder ein Schüler in das Maturajahr befördert werden kann.
+- 5\. Im siebten und achten Semester erfolgen keine Promotionsentscheide.
+
+<sup>4</sup> Für Kantonsschulen mit Jahrespromotion für die vierte Klasse gilt:
+
+- 1\. Für die ersten fünf Semester gilt Abs. 2.
+- 2\. Am Ende des sechsten Semesters entscheidet der Konvent aufgrund der Noten in den Promotionsfächern gemäss Jahreszeugnis, ob eine Schülerin oder ein Schüler in das Maturajahr befördert werden kann.
+- 3\. Im siebten und achten Semester erfolgen keine Promotionsentscheide.
+
+#### § 3b
+
+**Zeugnis und Zwischenbeurteilung**
+
+<sup>1</sup> Bei der Semesterpromotion wird am Ende des Semesters ein Zeugnis über die Leistungen während des Semesters ausgestellt.
+
+<sup>2</sup> Für Kantonsschulen mit Jahrespromotion gemäss § 3a Abs. 1 Ziff. 2 erhalten die Schülerinnen und Schüler am Ende des vierten, sechsten und achten Semesters ein Jahreszeugnis, in dem die Leistungen des ganzen Schuljahres beurteilt werden, und am Ende des fünften und siebten Semesters eine nicht-promotionsrelevante Zwischenbeurteilung.
+
+<sup>3</sup> Für Kantonsschulen mit Jahrespromotion gemäss § 3a Abs. 1 Ziff. 3 erhalten die Schülerinnen und Schüler am Ende des sechsten und achten Semesters ein Jahreszeugnis, in dem die Leistungen des ganzen Schuljahres beurteilt werden, und am Ende des siebten Semesters eine nicht-promotionsrelevante Zwischenbeurteilung.
 
 #### § 4
 
@@ -140,15 +174,26 @@ vom 06.07.1999 (Stand 01.08.2020)
 
 #### § 6
 
-**Provisorische Promotion**
+**Provisorische Promotion und Nichtpromotion**
 
-<sup>1</sup> Wer bei der Promotion die Bedingungen für eine definitive Promotion nicht erfüllt, wird für das nächste Semester oder Schuljahr provisorisch befördert, sofern die Schülerin oder der Schüler bei der vorhergehenden Promotion definitiv befördert wurde und an der Kantonsschule nicht mehr als einmal provisorisch befördert worden ist.
+<sup>1</sup> Für die Semesterpromotion gilt: Wer bei der Promotion die Bedingungen für eine definitive Promotion nicht erfüllt, wird für das nächste Semester provisorisch befördert, sofern die Schülerin oder der Schüler bei der vorhergehenden Promotion definitiv befördert wurde und an der Kantonsschule nicht mehr als einmal provisorisch befördert worden ist. Vorbehalten bleiben die Regelungen zur Probezeit.
+
+<sup>2</sup> Für Kantonsschulen mit Jahrespromotion gemäss § 3a Abs. 1 Ziff. 2 gilt:
+
+- 1\. Ende der ersten drei Semester gilt Abs. 1.
+- 2\. Wer Ende des vierten Semesters die Bedingungen für eine definitive Promotion nicht erfüllt, wird nicht ins dritte Schuljahr befördert.
+- 3\. Wer Ende des sechsten Semesters die Bedingungen für eine definitive Promotion nicht erfüllt, wird nicht ins vierte Schuljahr befördert.
+
+<sup>3</sup> Für Kantonsschulen mit Jahrespromotion gemäss § 3a Abs. 1 Ziff. 3 gilt:
+
+- 1\. Ende der ersten fünf Semester gilt Abs. 1.
+- 2\. Wer Ende des sechsten Semesters die Bedingungen für eine definitive Promotion nicht erfüllt, wird nicht ins vierte Schuljahr befördert.
 
 #### § 7
 
-**Nichtpromotion, Repetition**
+**Repetition**
 
-<sup>1</sup> Wer die Voraussetzungen für eine Promotion nicht erfüllt, kann die zuletzt besuchte Klasse wiederholen. An der Kantonsschule kann nur einmal repetiert werden.
+<sup>1</sup> Wer die Voraussetzungen für eine Promotion nicht erfüllt, kann die zwei zuletzt besuchten Semester wiederholen. An der Kantonsschule kann nur einmal repetiert werden.
 
 #### § 8
 
@@ -222,7 +267,7 @@ vom 06.07.1999 (Stand 01.08.2020)
 
 **Erfahrungsnote**
 
-<sup>1</sup> Die Erfahrungsnote ist der Durchschnitt der beiden letzten Zeugnisnoten.
+<sup>1</sup> Bei der Semesterpromotion ist die Erfahrungsnote der Durchschnitt der beiden letzten Zeugnisnoten. Bei der Jahrespromotion ist die Erfahrungsnote die letzte Zeugnisnote.
 
 <sup>2</sup> Für die Erfahrungsnote in der Fächergruppe Bildnerisches Gestalten und Musik werden die beiden Fächer gleichgewichtig berücksichtigt.
 
@@ -269,7 +314,7 @@ vom 06.07.1999 (Stand 01.08.2020)
 
 **Maturitätszeugnis**
 
-<sup>1</sup> Form und Inhalt des Maturitätszeugnisses richten sich nach Artikel 20 des Reglements der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar 1995 (MAR) in der Fassung vom 21. Juni 2018[^22-1].
+<sup>1</sup> Form und Inhalt des Maturitätszeugnisses richten sich nach Art. 20 des Reglements der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar 1995 (MAR) in der Fassung vom 21. Juni 2018[^22-1].
 
 <sup>2</sup> Zusätzlich werden die Noten für folgende Fächer eingetragen:
 
@@ -281,7 +326,7 @@ vom 06.07.1999 (Stand 01.08.2020)
 
 <sup>4</sup> Der Konvent kann weitere Fächer bestimmen, bei denen Noten eingetragen werden.
 
-[^22-1]: Rechtssammlung EDK Nr. 4.2.1.1; [http://edudoc.ch/record/38112/files/VO\_MAR\_d.pdf](http://edudoc.ch/record/38112/files/VO_MAR_d.pdf).
+[^22-1]: Rechtssammlung EDK Nr. 4.2.1.1; [https://edudoc.ch/record/38112/files/VO\_MAR\_d.pdf](https://edudoc.ch/record/38112/files/VO_MAR_d.pdf).
 
 ## 4. Übergangs- und Schlussbestimmungen
 
@@ -289,7 +334,9 @@ vom 06.07.1999 (Stand 01.08.2020)
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Die Änderungen von § 1, § 2 Absatz 3, 4 und 5, § 3, § 5, § 6 und § 22 Absatz 2 und 4 sowie des Anhangs gelten für alle ab Schuljahr 2020/2021 ins erste Semester eintretenden Schülerinnen und Schüler.
+<sup>1</sup> Die Änderungen von § 1, § 2 Abs. 3, Abs. 4 und Abs. 5, § 3, § 5, § 6 und § 22 Abs. 2 und Abs. 4 sowie des Anhangs gelten für alle ab Schuljahr 2020/2021 ins erste Semester eintretenden Schülerinnen und Schüler.
+
+<sup>1<sup>bis</sup></sup> Die Jahrespromotion kann für Schülerinnen und Schüler, die ab Schuljahr 2020/2021 ins erste Semester eingetreten sind, eingeführt werden. Schülerinnen und Schüler, die früher eingetreten sind, werden durchgehend semesterweise promoviert. Repetitionen bleiben vorbehalten.
 
 <sup>2–3</sup> …
 
