@@ -4,11 +4,11 @@ title: Ordinanza del 6 novembre 2019 sugli istituti finanziari (OIsFi)
 short: OIsFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: it
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2019-763-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2019-763-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20200101/it"
 
 (OIsFi)
 
-del 6 novembre 2019 (Stato 1° gennaio 2020)
+del 6 novembre 2019 (Stato 1° agosto 2021) (Stato 1° agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -439,7 +439,7 @@ Fatto salvo l’articolo 20 capoverso 2 LIsFi, la FINMA può esigere che i gesto
 
 ### (art. 19 LIsFi)
 
-<sup>1</sup> Il gestore patrimoniale garantisce che i valori patrimoniali che gli sono affidati per la gestione siano custoditi separatamente per ogni cliente presso una banca secondo la LBCR[^24-1], una società di intermediazione mobiliare secondo la LIsFi o un altro istituto sottoposto a una vigilanza equivalente a quella svizzera.
+<sup>1</sup> Il gestore patrimoniale garantisce che i valori patrimoniali che gli sono affidati per la gestione siano custoditi separatamente per ogni cliente presso una banca secondo la LBCR[^24-1], una società di intermediazione mobiliare secondo la LIsFi, un sistema di negoziazione per valori mobiliari da tecnologia di registro distribuito (sistema di negoziazione TRD) secondo la LInFi[^24-2] o un altro istituto sottoposto a una vigilanza equivalente a quella svizzera.[^24-3]
 
 <sup>2</sup> Gestisce i valori patrimoniali sulla base di una procura conferita in forma scritta o in un’altra forma che ne consenta la prova per testo. La procura deve essere circoscritta alle attività di gestione. Se è incaricato di fornire altri servizi che richiedono procure più ampie, esso documenta le basi e l’esercizio di tali attività.
 
@@ -455,6 +455,8 @@ Il capoverso 2 si applica per analogia ai trustee. Inoltre, nel quadro del dirit
 <sup>5</sup> Se la fornitura di servizi supplementari accresce i rischi per i gestori patrimoniali e i trustee, i rischi devono essere presi in considerazione nell’ambito della vigilanza (art. 61 e 62 LIsFi).
 
 [^24-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^24-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^24-3]: Nuovo testo giusta il n. I 7 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 25
 
@@ -1323,6 +1325,40 @@ Si considerano costi fissi:
 
 [^70-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
+#### Art. 70a
+
+**Fondi propri computabili**[^70a-1]
+
+### (art. 46 LIsFi)
+
+<sup>1</sup>
+
+Le società di intermediazione mobiliare possono computare nei fondi propri secondo l’articolo 70 capoversi 1–3:
+
+- a. il capitale sociale versato e, per le società di persone, anche gli strumenti di capitale alternativi;
+- b. le riserve palesi;
+- c. il riporto dell’utile;
+- d. l’utile trimestrale dopo deduzione della quota stimata di ripartizione degli utili;
+- e. i prestiti postergati rimborsabili soltanto previa approvazione della FINMA.
+
+<sup>2</sup> I fondi di cui al capoverso 1 lettere a–c sono computabili integralmente.
+
+<sup>3</sup> L’utile trimestrale, dopo deduzione della quota stimata di ripartizione degli utili, è computabile in ragione del 70 per cento, sempreché si sia in presenza di un conto economico completo ai sensi delle disposizioni di esecuzione della FINMA fondate sull’articolo 42 dell’ordinanza del 30 aprile 2014[^70a-2] sulle banche o ai sensi di uno standard internazionale riconosciuto dalla FINMA, anche se il conto economico non è stato sottoposto a nessun controllo sommario. In casi motivati, la FINMA può esigere un attestato.
+
+<sup>4</sup>
+
+Dai fondi propri computabili di cui al capoverso 1 lettere a–d vanno dedotti integralmente:
+
+- a. il riporto della perdita e la perdita dell’esercizio corrente;
+- b. il valore di eventuali partecipazioni nel quadro del calcolo per il singolo istituto;
+- c. il goodwill, compreso quello incluso nella valutazione di partecipazioni rilevanti a imprese attive nel settore finanziario al di fuori del perimetro di consolidamento, e i valori immateriali;
+- d. le attività fiscali differite («deferred tax assets», DTA) la cui realizzazione dipende dalla redditività futura; una compensazione con corrispondenti passività fiscali differite è ammessa soltanto nell’ambito della medesima competenza fiscale geografica e materiale.
+
+<sup>5</sup> Se, dopo le deduzioni secondo il capoverso 4, i fondi propri di cui al capoverso 1 lettere a–d superano 1,5 milioni franchi, per l’importo eccedente possono essere computati i prestiti postergati in ragione del 40 per cento.
+
+[^70a-1]: Introdotto dal n. I 7 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^70a-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+
 #### Art. 71
 
 **Liquidità**
@@ -1361,11 +1397,13 @@ La documentazione interna delle società di intermediazione mobiliare deve conse
 
 <sup>1</sup> La società di intermediazione mobiliare registra tutti i mandati ricevuti e tutte le operazioni in valori mobiliari da essa effettuate.
 
-<sup>2</sup> L’obbligo di registrazione si applica anche ai mandati e alle operazioni in derivati relativi a valori mobiliari ammessi al commercio presso una sede di negoziazione.
+<sup>2</sup> L’obbligo di registrazione si applica anche ai mandati e alle operazioni in derivati relativi a valori mobiliari ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD[^74-1].
 
 <sup>3</sup> Esso si applica sia alle operazioni effettuate per proprio conto sia a quelle effettuate per conto di clienti.
 
 <sup>4</sup> La FINMA determina quali indicazioni sono necessarie e in quale forma devono essere registrate.
+
+[^74-1]: Nuova espr. giusta il n. I 7 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 75
 
@@ -1375,14 +1413,14 @@ La documentazione interna delle società di intermediazione mobiliare deve conse
 
 <sup>1</sup>
 
-La società di intermediazione mobiliare comunica tutte le operazioni da essa effettuate in valori mobiliari ammessi al commercio presso una sede di negoziazione. Devono essere comunicati in particolare:
+La società di intermediazione mobiliare comunica tutte le operazioni da essa effettuate in valori mobiliari ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD. Devono essere comunicati in particolare:
 
 - a. la denominazione e il numero dei valori mobiliari acquistati o alienati;
 - b. il volume, la data e l’ora della conclusione dell’operazione;
 - c. il corso;
 - d. le informazioni per l’identificazione dell’avente economicamente diritto.
 
-<sup>2</sup> L’obbligo di comunicazione si applica anche alle operazioni in derivati relativi a valori mobiliari ammessi al commercio presso una sede di negoziazione.
+<sup>2</sup> L’obbligo di comunicazione si applica anche alle operazioni in derivati relativi a valori mobiliari ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD.
 
 <sup>3</sup> Esso si applica sia alle operazioni effettuate per proprio conto sia a quelle effettuate per conto di clienti.
 
@@ -1392,12 +1430,12 @@ Non devono essere comunicate le seguenti operazioni effettuate all’estero:
 
 - a.
 
-  le operazioni in valori mobiliari ammessi al commercio presso una sede di negoziazione in Svizzera e le operazioni in derivati relativi a tali valori, purché alla sede di negoziazione siano regolarmente comunicati i fatti soggetti all’obbligo di comunicazione in virtù di un accordo ai sensi dell’articolo 32 capoverso 3 LInFi[^75-1] o nell’ambito di uno scambio di informazioni tra la FINMA e la competente autorità estera di vigilanza, se:
+  le operazioni in valori mobiliari ammessi al commercio presso una sede di negoziazione o sistema di negoziazione TRD in Svizzera e le operazioni in derivati relativi a tali valori, purché alla sede di negoziazione o sistema di negoziazione TRD siano regolarmente comunicati i fatti soggetti all’obbligo di comunicazione in virtù di un accordo ai sensi dell’articolo 32 capoverso 3 LInFi[^75-1] o nell’ambito di uno scambio di informazioni tra la FINMA e la competente autorità estera di vigilanza, se:
 
   - 1\. le operazioni sono effettuate dalla succursale di una società di intermediazione mobiliare svizzera o da un partecipante estero ammesso, e
   - 2\. la succursale o il partecipante estero sono ammessi al commercio dalla competente autorità estera di vigilanza e sono soggetti all’obbligo di comunicazione nello Stato interessato o nello Stato di origine;
 
-- b. le operazioni in valori mobiliari esteri ammessi al commercio presso una sede di negoziazione in Svizzera e le operazioni in derivati relativi a tali valori, effettuate presso una sede di negoziazione estera riconosciuta.
+- b. le operazioni in valori mobiliari esteri ammessi al commercio presso sede di negoziazione o sistema di negoziazione TRD in Svizzera e le operazioni in derivati relativi a tali valori, effettuate presso una sede di negoziazione o sistema di negoziazione TRD estera riconosciuta.
 
 <sup>5</sup> Per effettuare la comunicazione si può ricorrere a terzi.
 
@@ -1533,23 +1571,27 @@ La società di audit trasmette il suo rapporto:
 
 Prima di procedere alla scioglimento di una succursale, l’istituto finanziario estero richiede l’approvazione della FINMA.
 
-### Sezione 6: Rappresentanze
+## Sezione 6:**** Rappresentanze
 
-### (art. 58 cpv. 1 e 59 LIsFi)
+[^chap3-1]
+
+[^chap3-1]: Nuovo testo giusta il n. I 7 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### (art. 58 cpv. 1 e 2 nonché 59 LIsFi)
 
 #### Art. 82
 
-La rappresentanza di un istituto finanziario estero deve:
+<sup>1</sup>
 
-- a. osservare le disposizioni della LSerFi[^82-1], se fornisce servizi finanziari di cui all’articolo 3 lettera c LSerFi;
-- b.
+La rappresentanza di un istituto finanziario estero che fornisce servizi finanziari di cui all’articolo 3 lettera c LSerFi[^82-1] deve:
 
-  essere sottoposta a una vigilanza:
+- a. osservare le disposizioni della LSerFi;
+- b. provvedere all’iscrizione dei suoi consulenti alla clientela in un registro dei consulenti ai sensi dell’articolo 28 LSerFi se questi non forniscono i propri servizi in Svizzera esclusivamente a clienti professionali o istituzionali secondo l’articolo 4 LSerFi.
 
-  - 1\. secondo gli articoli 61 e 62 LIsFi nei casi di cui all’articolo 58 capoverso 1 in combinato disposto con l’articolo 52 capoverso 1 lettera a LIsFi,
-  - 2\. secondo gli articoli 61 e 63 LIsFi nei casi di cui all’articolo 58 capoverso 1 in combinato disposto con l’articolo 52 capoverso 1 lettere b–e LIsFi. L’articolo 63 capoverso 1 lettera b LIsFi non è applicabile.
+<sup>2</sup> Il divieto di costituire una rappresentanza di una direzione dei fondi estera conformemente all’articolo 58 capoverso 2 LIsFi[^82-2] è applicabile esclusivamente in caso di attività di rappresentanza riferite alla direzione e all’amministrazione di fondi d’investimento.
 
 [^82-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^82-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 
 ## Capitolo 3: Vigilanza
 
@@ -1748,4 +1790,4 @@ Gli atti normativi qui appresso sono modificati come segue:
 ...[^annex1-lvlu1-2]
 
 [^annex1-lvlu1-1]: [[RU 1997 85](https://fedlex.data.admin.ch/eli/oc/1997/85_85_85)[2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044)art. 2, [2004 2781](https://fedlex.data.admin.ch/eli/oc/2004/343), [2005 4849](https://fedlex.data.admin.ch/eli/oc/2005/656)n. III, [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)all. 7 n. 2, [2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)all. n. 9, [2012 5441](https://fedlex.data.admin.ch/eli/oc/2012/629)all. 6 n. 3, [2013 1111](https://fedlex.data.admin.ch/eli/oc/2013/251), [2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)all. 2 n. 6 [2321](https://fedlex.data.admin.ch/eli/oc/2014/394)all. 4 n. 2 [4295](https://fedlex.data.admin.ch/eli/oc/2014/708)all. n. 4, [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)all. 1 n. 12, [2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)n. III]
-[^annex1-lvlu1-2]: Le modifiche possono essere consultate alla [RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763).
+[^annex1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763).

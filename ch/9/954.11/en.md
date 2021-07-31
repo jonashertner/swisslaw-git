@@ -4,11 +4,11 @@ title: "Ordinance of 6 November 2019 on Financial Institutions (Financial Instit
 short: FinIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: en
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2019-763-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2019-763-20210801-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20210801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Institutions Ordinance, FinIO)
 
-of 6 November 2019 (Status as of 1 January 2020)
+of 6 November 2019 (Status as of 1 August 2021)
 
 The Swiss Federal Council,
 
@@ -76,7 +76,7 @@ The following persons are deemed to have family ties with one another:
 - c. spouses and registered partners;
 - d. coheirs and legatees from succession until completion of the division of estate or allocation of the legacy;
 - e. remaindermen and remainderwomen and residuary legatees in accordance with Article 488 of the Swiss Civil Code[^4-1] (CC);
-- f. Persons living in a permanent life partnership with a portfolio manager or trustee.
+- f. persons living in a permanent life partnership with a portfolio manager or trustee.
 
 <sup>2</sup>
 
@@ -120,9 +120,9 @@ Legally regulated mandates are in particular:
 - j. enforcement tasks under an ordinary composition agreement in accordance with Article 314 paragraph 2 DEBA;
 - k. an appointment as liquidator under a composition agreement with assignment of assets in accordance with Article 317 DEBA;
 - l. an appointment as investigating agent in accordance with Article 36 of the Financial Market Supervision Act of 22 June 2007[^6-3] (FINMASA);
-- m. a restructuring mandate in accordance with Article 28 paragraph 3 of the Banking Act of 8 November 1934[^6-4] (BankA), Article 67 paragraph 1 FinIA and Article 88 paragraph 1 of the Financial Market Infrastructure Act of 19 June2015[^6-5] (FMIA);
-- n. a bankruptcy liquidation in accordance with Article 33 paragraph 2 BankA, Article 67 paragraph 1 FinIA, Article 137 paragraph 3 of the Collective Investment Schemes Act of 23 June 2006[^6-6] (CISA), Article 88 paragraph 1 FMIA and Article 53 paragraph 3 of the Insurance Supervision Act of 17 December 2004[^6-7] (ISA);
-- o. a liquidation in accordance with Article 23<sup>quinquies</sup> paragraph 1 BankA, Article 66 paragraph 2 FinIA, Article 134 CISA, Article 87 paragraph 2 FMIA and Article 52 ISA.
+- m. a restructuring mandate in accordance with Article 28 paragraph 3 of the Banking Act of 8 November 1934[^6-4] (BankA), Article 67 paragraph 1 FinIA and Article 88 paragraph 1 of the Financial Market Infrastructure Act of 19 June 2015[^6-5] (FinMIA);
+- n. a bankruptcy liquidation in accordance with Article 33 paragraph 2 BankA, Article 67 paragraph 1 FinIA, Article 137 paragraph 3 of the Collective Investment Schemes Act of 23 June 2006[^6-6] (CISA), Article 88 paragraph 1 FinMIA and Article 53 paragraph 3 of the Insurance Supervision Act of 17 December 2004[^6-7] (ISA);
+- o. a liquidation in accordance with Article 23<sup>quinquies</sup> paragraph 1 BankA, Article 66 paragraph 2 FinIA, Article 134 CISA, Article 87 paragraph 2 FinMIA and Article 52 ISA.
 
 [^6-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^6-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
@@ -284,7 +284,7 @@ The application for authorisation for a new financial institution must contain i
 
 <sup>2</sup> Offers to schemes and persons in accordance with Article 65 paragraphs 2 and 3 are not deemed public.
 
-[^14-1]: **950.1**
+[^14-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 
 #### Art. 15
 
@@ -441,7 +441,7 @@ With reservation as to Article 20 paragraph 2 FinIA, FINMA may require the portf
 
 ### (Art. 19 FinIA)
 
-<sup>1</sup> The portfolio manager shall ensure that the assets entrusted to it for management are held in safekeeping, segregated per client, with a bank pursuant to the BankA[^24-1], a securities firm pursuant to the FinIA or other institution that is subject to supervision equivalent to that in Switzerland.
+<sup>1</sup> The portfolio manager shall ensure that the assets entrusted to it for management are held in safekeeping, segregated per client, with a bank pursuant to the BankA[^24-1], a securities firm pursuant to the FinIA, a trading facility for distributed ledger technology securities (DLT trading facility) in accordance with the FinMIA[^24-2] or other institution that is subject to supervision equivalent to that in Switzerland.[^24-3]
 
 <sup>2</sup> It shall manage the assets on the basis of authorisation given in writing or in another form demonstrable via text. The authorisation must be limited to administrative acts. If the portfolio manager is entrusted with the provision of further services which require more far-reaching authorisations, it shall document the basis of these activities.
 
@@ -457,6 +457,8 @@ Paragraph 2 applies by analogy to trustees. Moreover, trustees must, within the 
 <sup>5</sup> If the rendering of additional services increases the risks to which portfolio managers and trustees are exposed, this must be taken into account within the scope of supervision (Articles 61 and 62 FinIA).
 
 [^24-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^24-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^24-3]: Amended by No I 7 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 25
 
@@ -1327,6 +1329,40 @@ Fixed costs are deemed to be:
 
 [^70-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
+#### Art. 70a
+
+**Eligible capital**[^70a-1]
+
+### (Art. 46 FinIA)
+
+<sup>1</sup>
+
+Securities firms may include the following as capital in accordance with Article 70 paragraphs 1 to 3:
+
+- a. paid-up share capital plus, in the case of partnerships, alternative capital instruments;
+- b. disclosed reserves;
+- c. retained earnings;
+- d. the quarterly profits after deduction of the estimated profit distribution amount;
+- e. subordinated bonds that are only repayable with the consent of FINMA.
+
+<sup>2</sup> The capital under paragraph 1 letters a to c can be included in full.
+
+<sup>3</sup> 70% of the quarterly profits may be included after deducting the estimated profit distribution, subject to the existence of a complete income statement in accordance with FINMA's implementing provisions based on Article 42 of the Banking Ordinance of 30 April 2014[^70a-2] or of a complete income statement in accordance with an international standard recognised by FINMA, even if the income statement has not been audited. Where justified, FINMA can require an attestation.
+
+<sup>4</sup>
+
+The following must be deducted in full from the eligible capital under paragraph 1 letters a to d:
+
+- a. the loss carried forward and the loss for the current financial year;
+- b. the value of any participations in the context of the individual entity calculation;
+- c. goodwill, including any goodwill included in the valuation of significant interests in financial sector entities outside the scope of consolidation, and intangible assets;
+- d. deferred tax assets (DTAs) that depend on future profitability, whereby offsetting against corresponding deferred tax liabilities within the same geographical and material tax jurisdiction is permitted.
+
+<sup>5</sup> If the capital under paragraph 1 letters a to d exceeds CHF 1.5 million after the deductions under paragraph 4, 40% of the subordinated bonds may be included for the excess amount.
+
+[^70a-1]: Inserted by No I 7 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^70a-2]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+
 #### Art. 71
 
 **Liquidity**
@@ -1365,11 +1401,13 @@ Internal documentation of the securities firms must allow the audit firm and FIN
 
 <sup>1</sup> The securities firm must keep a record of all orders received by it and all transactions in securities executed by it.
 
-<sup>2</sup> The record-keeping duty also applies to orders and transactions in derivatives whose underlying instruments are securities admitted to trading on a trading venue.
+<sup>2</sup> The record-keeping duty also applies to orders and transactions in derivatives whose underlying instruments are securities admitted to trading on a trading venue or DLT trading facility[^74-1].
 
 <sup>3</sup> It applies not only to transactions for own account, but also to transactions executed on behalf of clients.
 
 <sup>4</sup> FINMA shall regulate which information is necessary and what form it is to be recorded in.
+
+[^74-1]: Term in accordance with No I 7 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). This amendment has been taken into account only in the provisions mentioned in the AS.
 
 #### Art. 75
 
@@ -1379,14 +1417,14 @@ Internal documentation of the securities firms must allow the audit firm and FIN
 
 <sup>1</sup>
 
-The securities firm shall report all transactions it executes involving securities admitted to trading on a trading venue. In particular, the following must be reported:
+The securities firm shall report all transactions it executes involving securities admitted to trading on a trading venue or DLT trading facility. In particular, the following must be reported:
 
 - a. the designation and number of the securities purchased or sold;
 - b. the volume, date and time of the transaction;
 - c. the price;
 - d. the details necessary to identify the beneficial owner.
 
-<sup>2</sup> The reporting duty also applies to transactions in derivatives whose underlying instruments are securities admitted to trading on a trading venue.
+<sup>2</sup> The reporting duty also applies to transactions in derivatives whose underlying instruments are securities admitted to trading on a trading venue or DLT trading facility.
 
 <sup>3</sup> It applies not only to transactions for own account, but also to transactions executed on behalf of clients.
 
@@ -1396,12 +1434,12 @@ The following transactions executed abroad do not have to be reported:
 
 - a.
 
-  transactions in securities admitted to trading on a trading venue in Switzerland and in derivatives with such securities as their underlying instruments, provided the information in question is communicated to the trading venue on the basis of an agreement in accordance with Article 32 paragraph 3 FMIA[^75-1] or within the framework of an exchange of information between FINMA and the competent foreign supervisory authority if:
+  transactions in securities admitted to trading on a trading venue or DLT trading facility in Switzerland and in derivatives with such securities as their underlying instruments, provided the information in question is communicated to the trading venue or DLT trading facility on the basis of an agreement in accordance with Article 32 paragraph 3 FinMIA[^75-1] or within the framework of an exchange of information between FINMA and the competent foreign supervisory authority if:
 
   - 1\. said transactions are executed by the branch of a Swiss securities firm or by a foreign admitted participant, and
   - 2\. the branch or the foreign participant is authorised to trade by the relevant foreign supervisory authority and is required to report in the corresponding state or in its state of domicile;
 
-- b. transactions in foreign securities admitted to trading on a trading venue in Switzerland and in derivatives with such securities as their underlying instruments, which transactions are executed on a recognised foreign trading venue.
+- b. transactions in foreign securities admitted to trading on a trading venue or DLT trading facility in Switzerland and in derivatives with such securities as their underlying instruments, which transactions are executed on a recognised foreign trading venue or DLT trading facility.
 
 <sup>5</sup> Third parties may be involved in reporting.
 
@@ -1537,23 +1575,27 @@ The audit firm shall send its audit report:
 
 The foreign financial institution shall obtain the approval of FINMA before closing a branch.
 
-### Section 6 Representations
+### Section 6**** Representations
 
-### (Art. 58 para. 1 and 59 FinIA)
+[^chap2-sec6-1]
+
+[^chap2-sec6-1]: Amended by No I 7 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### (Art. 58 para. 1 and 2 and 59 FinIA)
 
 #### Art. 82
 
-The representation of a foreign institution must:
+<sup>1</sup>
 
-- a. comply with the standards of the FinSA[^82-1] if it provides financial services in accordance with Article 3 letter c FinSA;
-- b.
+The representative office of a foreign financial institution that provides financial services in accordance with Article 3 letter c of the FinSA[^82-1] must:
 
-  be subject to supervision:
+- a. comply with the provisions of the FinSA;
+- b. enter its client advisers in a register of advisers in accordance with Article 28 of the FinSA if they do not exclusively provide their services in Switzerland to professional or institutional clients in accordance with Article 4 of the FinSA.
 
-  - 1\. in accordance with Articles 61 and 62 FinIA in the case of Article 58 paragraph 1 in conjunction with Article 52 paragraph 1 letter a FinIA,
-  - 2\. in accordance with Articles 61 and 63 FinIA in the case of Article 58 paragraph 1 in conjunction with Article 52 paragraph 1 letters b–e FinIA. Article 63 paragraph 1 letter b FinIA is not applicable.
+<sup>2</sup> The prohibition on establishing a representative office of a foreign fund management company in accordance with Article 58 paragraph 2 of the FinIA[^82-2] applies exclusively to the office's activities in relation to the administration and management of investment funds.
 
 [^82-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^82-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 
 ## Chapter 3 Supervision
 
@@ -1581,7 +1623,7 @@ The supervisory organisation shall verify on an ongoing basis whether the entiti
 
 - a. satisfy the requirements of the FinIA;
 - b. observe the duties pursuant to the Anti-Money Laundering Act of 10 October 1997[^84-1] (AMLA);
-- a. observe the duties pursuant to the FinSA[^84-2] if they provide financial services in accordance with Article 3 letter c FinSA;
+- c. observe the duties pursuant to the FinSA[^84-2] if they provide financial services in accordance with Article 3 letter c FinSA;
 - d. observe the duties pursuant to the CISA[^84-3] if they perform activities falling under the CISA.
 
 <sup>2</sup> FINMA shall provide the supervisory organisations with guidelines for auditing and supervision. In particular, it shall set down for the supervisory organisations a system of risk assessment as well as minimum requirements to be met by the supervision concept. It shall consult with the supervisory organisations beforehand.
@@ -1735,7 +1777,7 @@ They shall submit a report on their business activity's compliance with the prov
 
 This Ordinance enters into force on 1 January 2020.
 
-Annex 1
+Annex
 
 (Art. 91)
 

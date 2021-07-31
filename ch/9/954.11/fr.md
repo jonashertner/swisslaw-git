@@ -4,11 +4,11 @@ title: Ordonnance du 6 novembre 2019 sur les établissements financiers (OEFin)
 short: OEFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: fr
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-763-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2019-763-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20200101/fr"
 
 (OEFin)
 
-du 6 novembre 2019 (Etat le 1<sup>er</sup> janvier 2020)
+du 6 novembre 2019 (Etat le 1<sup>er</sup> août 2021)
 
 Le Conseil fédéral suisse,
 
@@ -439,7 +439,7 @@ Sous réserve de l’art. 20, al. 2, LEFin, la FINMA peut demander au gestionnai
 
 ### (art. 19 LEFin)
 
-<sup>1</sup> Le gestionnaire de fortune veille à ce que les valeurs patrimoniales qui lui sont confiées soient conservées séparément pour chaque client auprès d’une banque au sens de la LB[^24-1], d’une maison de titres au sens de la LEFin ou d’une autre institution soumise à une surveillance équivalente à celle exercée en Suisse.
+<sup>1</sup> Le gestionnaire de fortune veille à ce que les valeurs patrimoniales qui lui sont confiées soient conservées séparément pour chaque client auprès d’une banque au sens de la LB[^24-1], d’une maison de titres au sens de la LEFin, d’un système de négociation pour les valeurs mobilières fondées sur la technologie des registres distribués (système de négociation fondé sur la TRD) au sens de la LIMF[^24-2] ou d’une autre institution soumise à une surveillance équivalente à celle exercée en Suisse.[^24-3]
 
 <sup>2</sup> Il gère les valeurs patrimoniales en vertu d’une procuration donnée en la forme écrite ou sous toute autre forme permettant d’en établir la preuve par un texte. La procuration est limitée aux opérations de gestion. Si le gestionnaire de fortune est chargé de fournir d’autres services qui requièrent des procurations plus étendues, il documente les bases et l’exercice de ces activités.
 
@@ -455,6 +455,8 @@ L’al. 2 s’applique par analogie aux trustees. De plus, ceux-ci doivent, dans
 <sup>5</sup> Si la fourniture de prestations de services supplémentaires accroît les risques auxquels les gestionnaires de fortune et les trustees sont exposés, ces risques doivent être pris en considération dans le cadre de la surveillance (art. 61 et 62 LEFin).
 
 [^24-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^24-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^24-3]: Nouvelle teneur selon le ch. I 7 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 25
 
@@ -1073,7 +1075,7 @@ Outre les tâches prescrites aux art. 32 et 33, al. 4, LEFin et à l’art. 49, 
 
 ### (art. 9 LEFin)
 
-<sup>1</sup> Les directions de fonds doivent disposer d’une gestion des risques organisée de manière adéquate et d’un contrôle interne efficace, qui garantit notamment la *co**m**pliance*.
+<sup>1</sup> Les directions de fonds doivent disposer d’une gestion des risques organisée de manière adéquate et d’un contrôle interne efficace, qui garantit notamment la *compliance*.
 
 <sup>2</sup> Elles fixent les principes de leur gestion des risques et déterminent leur tolérance aux risques.
 
@@ -1258,7 +1260,7 @@ Ne sont pas considérés comme des clients au sens de l’art. 41, let. a, LEFin
 
 ### (art. 9 LEFin)
 
-<sup>1</sup> Les maisons de titres doivent disposer d’une gestion des risques organisée de manière adéquate et d’un contrôle interne efficace, qui garantit notamment la *co**m**pliance*.
+<sup>1</sup> Les maisons de titres doivent disposer d’une gestion des risques organisée de manière adéquate et d’un contrôle interne efficace, qui garantit notamment la *compliance*.
 
 <sup>2</sup> Elles fixent les principes de leur gestion des risques et déterminent leur tolérance aux risques.
 
@@ -1326,6 +1328,40 @@ Sont considérés comme des frais fixes:
 
 [^70-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
+#### Art. 70a
+
+**Fonds propres pris en compte**[^70a-1]
+
+### (art. 46 LEFin)
+
+<sup>1</sup>
+
+Les maisons de titres peuvent imputer sur les fonds propres visés à l’art. 70, al. 1 à 3:
+
+- a. le capital social libéré et, pour les sociétés de personnes, les autres instruments de capital;
+- b. les réserves apparentes;
+- c. le bénéfice reporté;
+- d. le bénéfice trimestriel après déduction de la part prévisible des bénéfices distribués;
+- e. les emprunts subordonnés qui ne sont remboursables qu’avec l’accord de la FINMA.
+
+<sup>2</sup> Les fonds visés à l’al. 1, let. a à c, peuvent être entièrement pris en compte.
+
+<sup>3</sup> Le bénéfice trimestriel peut être pris en compte à 70 %, après déduction de la part prévisible des bénéfices distribués, dans la mesure où un compte de résultat complet au sens des dispositions d’exécution de la FINMA fondées sur l’art. 42 de l’ordonnance sur les banques du 30 avril 2014[^70a-2] ou au sens d’un standard international reconnu par la FINMA est disponible, même si ce compte de résultat n’a pas été soumis à une revue succincte. La FINMA peut exiger une attestation dans des cas justifiés.
+
+<sup>4</sup>
+
+Doivent être intégralement déduits des fonds propres pris en compte visés à l’al. 1, let. a à d:
+
+- a. la perte reportée et la perte de l’exercice en cours;
+- b. la valeur d’éventuelles participations dans le cadre du calcul par établissement;
+- c. le goodwill, y compris celui qui a le cas échéant été pris en compte dans l’évaluation des participations importantes dans des entreprises du secteur financier hors du périmètre de consolidation, et les valeurs immatérielles;
+- d. les créances fiscales latentes (deferred tax assets, DTA) dont la réalisation dépend de la rentabilité future, une compensation avec des engagements fiscaux latents correspondants n’étant autorisée que dans le cadre de la même compétence fiscale géographique et matérielle.
+
+<sup>5</sup> Si les fonds propres visés à l’al. 1, let. a à d, excèdent 1,5 million de francs après les déductions prévues à l’al. 4, les emprunts subordonnés peuvent être pris en compte à raison de 40 % du montant excédentaire.
+
+[^70a-1]: Introduit par le ch. I 7 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^70a-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+
 #### Art. 71
 
 **Liquidités**
@@ -1364,11 +1400,13 @@ La documentation interne des maisons de titres doit permettre à la société d�
 
 <sup>1</sup> La maison de titres enregistre tous les ordres placés auprès d’elle et toutes les opérations sur valeurs mobilières qu’elle effectue.
 
-<sup>2</sup> L’obligation d’enregistrer s’applique également aux ordres et aux opérations sur dérivés découlant de valeurs mobilières admises à la négociation sur une plate-forme de négociation.
+<sup>2</sup> L’obligation d’enregistrer s’applique également aux ordres et aux opérations sur dérivés découlant de valeurs mobilières admises à la négociation sur une plate-forme de négociation ou un système de négociation fondé sur la TRD[^74-1].
 
 <sup>3</sup> Elle s’applique tant aux opérations effectuées pour compte propre qu’à celles effectuées pour le compte de clients.
 
 <sup>4</sup> La FINMA détermine quelles sont les informations nécessaires et sous quelle forme elles doivent être enregistrées.
+
+[^74-1]: Nouvelle expression selon le ch. I 7 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 75
 
@@ -1378,14 +1416,14 @@ La documentation interne des maisons de titres doit permettre à la société d�
 
 <sup>1</sup>
 
-La maison de titres déclare toutes les opérations qu’elle effectue sur des valeurs mobilières admises à la négociation sur une plate-forme de négociation. Doivent notamment être déclarés:
+La maison de titres déclare toutes les opérations qu’elle effectue sur des valeurs mobilières admises à la négociation sur une plate-forme de négociation ou un système de négociation fondé sur la TRD. Doivent notamment être déclarés:
 
 - a. la désignation et le nombre de valeurs mobilières achetées ou vendues;
 - b. le volume, la date et l’heure de la conclusion de l’opération;
 - c. le cours;
 - d. les informations permettant d’identifier l’ayant droit économique.
 
-<sup>2</sup> L’obligation de déclarer s’applique également aux opérations sur dérivés découlant de valeurs mobilières admises à la négociation sur une plate-forme de négociation.
+<sup>2</sup> L’obligation de déclarer s’applique également aux opérations sur dérivés découlant de valeurs mobilières admises à la négociation sur une plate-forme de négociation ou un système de négociation fondé sur la TRD.
 
 <sup>3</sup> Elle s’applique tant aux opérations effectuées pour compte propre qu’à celles effectuées pour le compte de clients.
 
@@ -1400,7 +1438,7 @@ Ne doivent pas être déclarées les opérations effectuées à l’étranger é
   - 1\. qu’elles sont conclues par la succursale d’une maison de titres suisse ou par un participant étranger agréé, et
   - 2\. que la succursale ou le participant étranger sont autorisés par l’autorité de surveillance étrangère compétente à pratiquer la négociation ou sont soumis à l’obligation de déclarer dans le pays concerné ou dans leur propre pays;
 
-- b. les opérations sur valeurs mobilières étrangères admises à la négociation sur une plate-forme de négociation en Suisse de même que sur les dérivés qui en découlent, qui sont effectuées sur une plate-forme de négociation étrangère reconnue.
+- b. les opérations sur valeurs mobilières étrangères admises à la négociation sur une plate-forme de négociation ou un système de négociation fondé sur la TRD en Suisse de même que sur les dérivés qui en découlent, qui sont effectuées sur une plate-forme de négociation ou un système de négociation fondé sur la TRD étranger reconnu.
 
 <sup>5</sup> La déclaration des informations peut être déléguée à des tiers.
 
@@ -1536,23 +1574,27 @@ La société d’audit remet son rapport:
 
 L’établissement financier étranger qui souhaite dissoudre une succursale en demande préalablement l’autorisation à la FINMA.
 
-### Section 6 Représentations
+### Section 6**** Représentations
 
-### (art. 58, al. 1, et 59 LEFin)
+[^chap2-sec6-1]
+
+[^chap2-sec6-1]: Nouvelle teneur selon le ch. I 7 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### (art. 58, al. 1 et 2, et 59 LEFin)
 
 #### Art. 82
 
-La représentation d’un établissement financier étranger doit:
+<sup>1</sup>
 
-- a. respecter les dispositions de la LSFin[^82-1] si elle fournit les services financiers visés à l’art. 3, let. c, LSFin;
-- b.
+La représentation d’un établissement financier étranger qui fournit des services financiers visés à l’art. 3, let. c, LSFin[^82-1] doit:
 
-  être soumise à une surveillance:
+- a. respecter les dispositions de la LSFin;
+- b. inscrire ses conseillers à la clientèle dans le registre des conseillers prévu à l’art. 28 LSFin lorsque les services qu’ils fournissent en Suisse ne sont pas exclusivement destinés à des clients professionnels ou à des clients institutionnels au sens de l’art. 4 LSFin.
 
-  - 1\. conformément aux art. 61 et 62 LEFin dans le cas visé à l’art. 58, al. 1, en relation avec l’art. 52, al. 1, let. a, LEFin,
-  - 2\. conformément aux art. 61 et 63 LEFin dans le cas visé à l’art. 58, al. 1, en relation avec l’art. 52, al. 1, let. b à e, LEFin; l’art. 63, al. 1, let. b, LEFin ne s’applique pas.
+<sup>2</sup> L’interdiction visée à l’art. 58, al. 2, LEFin[^82-2] d’établir une représentation en Suisse pour une direction de fonds étrangère s’applique exclusivement aux activités de représentation afférentes à la direction et à l’administration de fonds de placement.
 
 [^82-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^82-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 
 ## Chapitre 3 Surveillance
 

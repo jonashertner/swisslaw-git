@@ -4,11 +4,11 @@ title: "Verordnung vom 6. November 2019 über die Finanzinstitute (Finanzinstitu
 short: FINIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/763"
 language: de
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2019-763-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/763/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2019-763-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/763/20200101/de"
 
 (Finanzinstitutsverordnung, FINIV)
 
-vom 6. November 2019 (Stand am 1. Januar 2020)
+vom 6. November 2019 (Stand am 1. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -439,7 +439,7 @@ Vorbehältlich Artikel 20 Absatz 2 FINIG kann die FINMA vom Vermögensverwalter 
 
 ### (Art. 19 FINIG)
 
-<sup>1</sup> Der Vermögensverwalter sorgt dafür, dass die ihm zur Verwaltung anvertrauten Vermögenswerte gesondert für jede Kundin und jeden Kunden bei einer Bank nach dem BankG[^24-1], einem Wertpapierhaus nach dem FINIG oder einem sonstigen Institut, das einer Aufsicht untersteht, die derjenigen in der Schweiz gleichwertig ist, aufbewahrt werden.
+<sup>1</sup> Der Vermögensverwalter sorgt dafür, dass die ihm zur Verwaltung anvertrauten Vermögenswerte gesondert für jede Kundin und jeden Kunden bei einer Bank nach dem BankG[^24-1], einem Wertpapierhaus nach dem FINIG, einem Handelssystem für Distributed Ledger Technology-Effekten (DLT-Handelssystem) nach dem FinfraG[^24-2] oder einem sonstigen Institut, das einer Aufsicht untersteht, die derjenigen in der Schweiz gleichwertig ist, aufbewahrt werden.[^24-3]
 
 <sup>2</sup> Er verwaltet die Vermögenswerte gestützt auf eine schriftliche oder eine in anderer Form, die den Nachweis durch Text ermöglicht, erteilte Vollmacht. Die Vollmacht muss sich auf Verwaltungshandlungen beschränken. Ist der Vermögensverwalter mit der Erbringung weiterer Dienstleistungen beauftragt, welche weiterreichende Vollmachten erfordern, so dokumentiert er die Grundlagen und die Ausübung dieser Tätigkeiten.
 
@@ -455,6 +455,8 @@ Absatz 2 gilt für Trustees sinngemäss. Darüber hinaus müssen Trustees im Rah
 <sup>5</sup> Erhöht die Ausübung zusätzlicher Dienstleistungen die Risiken bei Vermögensverwaltern und Trustees, so ist diesen im Rahmen der Aufsicht (Art. 61 und 62 FINIG) Rechnung zu tragen.
 
 [^24-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^24-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^24-3]: Fassung gemäss Ziff. I 7 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 25
 
@@ -1325,6 +1327,40 @@ Als Fixkosten gelten:
 
 [^70-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
+#### Art. 70a
+
+**Anrechenbare Eigenmittel**[^70a-1]
+
+### (Art. 46 FINIG)
+
+<sup>1</sup>
+
+Wertpapierhäuser können an die Eigenmittel nach Artikel 70 Absätze 1–3 anrechnen:
+
+- a. das einbezahlte Gesellschaftskapital und bei Personengesellschaften zusätzlich die alternativen Kapitalinstrumente;
+- b. die offenen Reserven;
+- c. den Gewinnvortrag;
+- d. den Quartalsgewinn nach Abzug des geschätzten Gewinnausschüttungsanteils;
+- e. nachrangige Anleihen, die nur mit Zustimmung der FINMA rückzahlbar sind.
+
+<sup>2</sup> Die Mittel nach Absatz 1 Buchstaben a–c können vollständig angerechnet werden.
+
+<sup>3</sup> Der Quartalsgewinn kann, nach Abzug des geschätzten Gewinnausschüttungsanteils, zu 70 Prozent angerechnet werden, sofern eine vollständige Erfolgsrechnung nach den auf Artikel 42 der Bankenverordnung vom 30. April 2014[^70a-2] gestützten Ausführungsbestimmungen der FINMA oder nach einem durch die FINMA anerkannten internationalen Standard vorliegt, auch wenn die Erfolgsrechnung keiner prüferischen Durchsicht unterzogen wurde. In begründeten Fällen kann die FINMA ein Testat verlangen.
+
+<sup>4</sup>
+
+Von den anrechenbaren Eigenmitteln nach Absatz 1 Buchstaben a–d vollständig abzuziehen sind:
+
+- a. der Verlustvortrag und der Verlust des laufenden Geschäftsjahres;
+- b. der Wert allfälliger Beteiligungen im Rahmen der Einzelinstitutsberechnung;
+- c. der Goodwill, einschliesslich etwaiger Goodwill, der bei der Bewertung von wesentlichen Beteiligungen an Unternehmen des Finanzbereichs ausserhalb des Konsolidierungskreises einbezogen wurde, und immaterielle Werte;
+- d. latente Steueransprüche («Deferred Tax Assets, DTA»), deren Realisierung von der zukünftigen Rentabilität abhängt, wobei eine Verrechnung mit entsprechenden latenten Steuerverpflichtungen innerhalb derselben geografischen und sachlichen Steuerzuständigkeit zulässig ist.
+
+<sup>5</sup> Übersteigen die Eigenmittel gemäss Absatz 1 Buchstaben a–d nach den Abzügen gemäss Absatz 4 1,5 Millionen Franken, so dürfen für den darüber liegenden Betrag die nachrangigen Anleihen zu 40 Prozent angerechnet werden.
+
+[^70a-1]: Eingefügt durch Ziff. I 7 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^70a-2]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+
 #### Art. 71
 
 **Liquidität**
@@ -1363,11 +1399,13 @@ Die interne Dokumentation der Wertpapierhäuser muss es der Prüfgesellschaft un
 
 <sup>1</sup> Das Wertpapierhaus zeichnet sämtliche bei ihm eingegangenen Aufträge und von ihm getätigten Geschäfte in Effekten auf.
 
-<sup>2</sup> Die Aufzeichnungspflicht gilt auch für Aufträge und Geschäfte in Derivaten, die aus Effekten abgeleitet werden, die an einem Handelsplatz zum Handel zugelassen sind.
+<sup>2</sup> Die Aufzeichnungspflicht gilt auch für Aufträge und Geschäfte in Derivaten, die aus Effekten abgeleitet werden, die an einem Handelsplatz oder DLT-Handelssystem[^74-1] zum Handel zugelassen sind.
 
 <sup>3</sup> Sie gilt sowohl für die Geschäfte, die auf eigene Rechnung, als auch für Geschäfte, die auf Rechnung der Kundinnen und Kunden getätigt werden.
 
 <sup>4</sup> Die FINMA regelt, welche Angaben erforderlich sind und in welcher Form sie aufzuzeichnen sind.
+
+[^74-1]: Ausdruck gemäss Ziff. I 7 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 75
 
@@ -1377,14 +1415,14 @@ Die interne Dokumentation der Wertpapierhäuser muss es der Prüfgesellschaft un
 
 <sup>1</sup>
 
-Das Wertpapierhaus meldet sämtliche von ihm getätigten Geschäfte in Effekten, die an einem Handelsplatz zum Handel zugelassen sind. Zu melden sind insbesondere:
+Das Wertpapierhaus meldet sämtliche von ihm getätigten Geschäfte in Effekten, die an einem Handelsplatz oder DLT-Handelssystem zum Handel zugelassen sind. Zu melden sind insbesondere:
 
 - a. die Bezeichnung und die Zahl der erworbenen oder veräusserten Effekten;
 - b. Volumen, Datum und Zeitpunkt des Abschlusses;
 - c. der Kurs;
 - d. Angaben zur Identifizierung des wirtschaftlich Berechtigten.
 
-<sup>2</sup> Die Meldepflicht gilt auch für Geschäfte in Derivaten, die aus Effekten abgeleitet werden, die an einem Handelsplatz zum Handel zugelassen sind.
+<sup>2</sup> Die Meldepflicht gilt auch für Geschäfte in Derivaten, die aus Effekten abgeleitet werden, die an einem Handelsplatz oder DLT-Handelssystem zum Handel zugelassen sind.
 
 <sup>3</sup> Sie gilt sowohl für Geschäfte, die auf eigene Rechnung, als auch auf Rechnung der Kundinnen und Kunden getätigt werden.
 
@@ -1394,12 +1432,12 @@ Nicht zu melden sind folgende im Ausland getätigte Geschäfte:
 
 - a.
 
-  Geschäfte in Effekten, die an einem Handelsplatz in der Schweiz zum Handel zugelassen sind, und in daraus abgeleiteten Derivaten, sofern dem Handelsplatz die zu meldenden Tatsachen gestützt auf eine Vereinbarung nach Artikel 32 Absatz 3 FinfraG[^75-1] oder im Rahmen eines Informationsaustausches zwischen der FINMA und der zuständigen ausländischen Aufsichtsbehörde regelmässig mitgeteilt werden, wenn:
+  Geschäfte in Effekten, die an einem Handelsplatz oder DLT-Handelssystem in der Schweiz zum Handel zugelassen sind, und in daraus abgeleiteten Derivaten, sofern dem Handelsplatz oder DLT-Handelssystem die zu meldenden Tatsachen gestützt auf eine Vereinbarung nach Artikel 32 Absatz 3 FinfraG[^75-1] oder im Rahmen eines Informationsaustausches zwischen der FINMA und der zuständigen ausländischen Aufsichtsbehörde regelmässig mitgeteilt werden, wenn:
 
   - 1\. sie von der Zweigniederlassung eines schweizerischen Wertpapierhauses oder von einem ausländischen zugelassenen Teilnehmer getätigt werden, und
   - 2\. die Zweigniederlassung oder der ausländische Teilnehmer von der betreffenden ausländischen Aufsichtsbehörde zum Handel ermächtigt und im betreffenden Staat oder im Heimatstaat meldepflichtig ist;
 
-- b. Geschäfte in ausländischen Effekten, die an einem Handelsplatz in der Schweiz zum Handel zugelassen sind, und in daraus abgeleiteten Derivaten, die an einem anerkannten ausländischen Handelsplatz getätigt werden.
+- b. Geschäfte in ausländischen Effekten, die an einem Handelsplatz oder DLT-Handelssystem in der Schweiz zum Handel zugelassen sind, und in daraus abgeleiteten Derivaten, die an einem anerkannten ausländischen Handelsplatz oder DLT-Handelssystem getätigt werden.
 
 <sup>5</sup> Für die Erstattung der Meldung können Dritte beigezogen werden.
 
@@ -1535,23 +1573,26 @@ Die Prüfgesellschaft übermittelt ihren Bericht:
 
 Das ausländische Finanzinstitut holt vor der Aufhebung einer Zweigniederlassung die Genehmigung der FINMA ein.
 
-### 6. Abschnitt: Vertretungen
+### 6. Abschnitt:**** Vertretungen
 
-### (Art. 58 Abs. 1 und 59 FINIG)
+[^chap2-sec6-1]
+
+[^chap2-sec6-1]: Fassung gemäss Ziff. I 7 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### (Art. 58 Abs. 1 und 2 sowie 59 FINIG)
 
 #### Art. 82
 
-Die Vertretung eines ausländischen Finanzinstituts muss:
+<sup>1</sup>
 
-- a. die Bestimmungen des FIDLEG[^82-1] einhalten, wenn sie Finanzdienstleistungen nach Artikel 3 Buchstabe c FIDLEG erbringt;
-- b.
+Die Vertretung eines ausländischen Finanzinstituts, die Finanzdienstleistungen nach Artikel 3 Buchstabe c FIDLEG[^82-1] erbringt, muss:
 
-  einer Aufsicht unterstehen:
-
-  - 1\. nach den Artikeln 61 und 62 FINIG im Falle von Artikel 58 Absatz 1 in Verbindung mit Artikel 52 Absatz 1 Buchstabe a FINIG,
-  - 2\. nach den Artikeln 61 und 63 FINIG im Falle von Artikel 58 Absatz 1 in Verbindung mit Artikel 52 Absatz 1 Buchstaben b–e FINIG. Artikel 63 Absatz 1 Buchstabe b FINIG ist nicht anwendbar.
+- a. die Bestimmungen des FIDLEG einhalten;
+- b. ihre Kundenberaterinnen und -berater in ein Beraterregister nach Artikel 28 FIDLEG eintragen lassen, wenn diese ihre Dienstleistungen in der Schweiz nicht ausschliesslich gegenüber professionellen oder institutionellen Kunden nach Artikel 4 FIDLEG erbringen.
+- [tab] <sup>2</sup> Das Verbot zur Errichtung einer Vertretung einer ausländischen Fondsleitung nach Artikel 58 Absatz 2 FINIG[^82-2] gilt ausschliesslich für Vertretungstätigkeiten in Bezug auf die Leitung und Verwaltung von Anlagefonds.
 
 [^82-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^82-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 
 ## 3. Kapitel: Aufsicht
 
