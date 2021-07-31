@@ -4,11 +4,11 @@ title: "Ordonnance du 22 août 2007 sur l'agrément et la surveillance des révi
 short: OSRev
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/534"
 language: fr
-version: 2021-07-01
+version: 2021-08-01
 adopted: 2007-08-22
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-534-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2007-534-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210701/fr"
 
 (Ordonnance sur la surveillance de la révision, OSRev)
 
-du 22 août 2007 (Etat le 1<sup>er</sup> juillet 2021)
+du 22 août 2007 (Etat le 1<sup>er</sup> août 2021)
 
 Le Conseil fédéral,
 
@@ -26,7 +26,7 @@ vu les art. 9*a*, al. 4<sup>bis</sup>, 15, al. 2, 21, al. 3, 39, al. 1, let. d, 
 arrête:
 
 [^ingress-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^ingress-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^ingress-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377). Cet art. a une nouvelle teneur. Voir actuellement l’art. 943 CO.
 [^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-4]: Nouvelle teneur selon le ch. II 1 de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
@@ -53,11 +53,14 @@ Doit présenter une demande d’agrément à l’autorité de surveillance:
 
 #### Art. 2
 
-**Forme de la demande**
+**Forme de la demande**[^2-1]
 
-<sup>1</sup> Le requérant transmet la demande d’agrément sous forme électronique et sur papier.
+<sup>1</sup> La demande d’agrément est déposée sous forme électronique. Elle doit être signée. En l’absence de signature électronique qualifiée au sens de la loi du 18 mars 2016 sur la signature électronique[^2-2], une déclaration de validation doit être signée à la main et remise sur papier.
 
-<sup>2</sup> La demande sur papier doit être signée.
+<sup>2</sup> Si la demande ne peut pas être déposée sous forme électronique, elle doit être remise sur papier. Elle doit être signée à la main.
+
+[^2-1]: Nouvelle teneur selon le ch. I 2 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^2-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 #### Art. 3
 
@@ -212,7 +215,7 @@ La somme assurée doit se monter au minimum, pour l’ensemble des sinistres sur
 
 L’autorité de surveillance octroie des agréments aux entreprises de révision soumises à la surveillance de l’État ainsi qu’aux auditeurs responsables en vue de l’audit selon les lois sur les marchés financiers:
 
-- a.[^11a-2] des banques au sens de la loi du 8 novembre 1934 sur les banques[^11a-3], des infrastructures des marchés financiers, des groupes financiers et des offres publiques d’acquisition au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^11a-4], des maisons de titres au sens de la loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)[^11a-5] et des centrales d’émission de lettres de gage au sens de la loi du 25 juin 1930 sur l’émission de lettres de gage[^11a-6];
+- a.[^11a-2] des banques au sens de la loi du 8 novembre 1934 sur les banques (LB)[^11a-3], des infrastructures des marchés financiers, des groupes financiers et des offres publiques d’acquisition au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^11a-4]<sup>,</sup> des maisons de titres au sens de la loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)[^11a-5] et des centrales d’émission de lettres de gage au sens de la loi du 25 juin 1930 sur l’émission de lettres de gage[^11a-6]<sup>;</sup>
 - a<sup>bis</sup>.[^11a-7] des personnes visées à l’art. 1*b* LB;
 - b. des entreprises d’assurance selon la loi du 17 décembre 2004 sur la surveillance des assurances[^11a-8];
 - c.[^11a-9] des directions de fonds et des gestionnaires de fortune collective au sens de la LEFin, des fonds de placement, des SICAV, des sociétés en commandite de placements collectifs, des SICAF, des banques dépositaires et des représentants de placements collectifs étrangers au sens de la loi du 23 juin 2006 sur les placements collectifs[^11a-10];
@@ -221,7 +224,7 @@ L’autorité de surveillance octroie des agréments aux entreprises de révisio
 <sup>2</sup> ...[^11a-12]
 
 [^11a-1]: Introduit par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^11a-2]: Nouvelle teneur selon l’annexe 1 ch. II 1 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-2]: Nouvelle teneur selon le ch. I 2 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^11a-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^11a-4]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 [^11a-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
@@ -243,7 +246,10 @@ Une entreprise de révision est suffisamment organisée pour effectuer les audit
 - b. dispose, au plus tard dans les trois ans qui suivent l’octroi de l’agrément, d’au moins deux mandats de révision dans le domaine de surveillance pour lequel l’agrément est requis en vertu de l’art. 11*a*;
 - c. respecte les dispositions relatives à la documentation et à la conservation des pièces selon l’art. 730*c* CO indépendamment de sa forme juridique.
 
+<sup>2</sup> Les mandats de révision dans les domaines de surveillance de l’art. 11*a*, al. 1, let. a et c, sont pris en compte dans le domaine de surveillance de l’art. 11*a*, al. 1, let. a<sup>bis</sup>.[^11b-2]
+
 [^11b-1]: Introduit par l’annexe ch. 1 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^11b-2]: Introduit par le ch. I 2 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 11c
 
@@ -301,13 +307,15 @@ Il continue à disposer des connaissances techniques requises et de l’expérie
 - a.[^11dbis-3] de 100 heures d’audit dans le domaine de surveillance du présent article effectuées dans les six dernières années;
 - b. de seize heures de formation continue par année effectuées dans le domaine de surveillance du présent article.
 
-<sup>3</sup> Il peut faire valoir l’expérience professionnelle et les heures d’audit qu’il a acquises dans les domaines de surveillance de l’art. 11*a*, al. 1, let. a et c, pour demander ou conserver l’agrément au sens des al. 1 et 2 respectivement s’il a consacré au moins 20 % des heures prévues aux al. 1, let. b, et 2, let. a, à auditer des personnes visées à l’art. 1*b* LB ou des systèmes d’information (audit informatique).
+<sup>3</sup> Il peut faire valoir l’expérience professionnelle et les heures d’audit qu’il a acquises dans les domaines de surveillance de l’art. 11*a*, al. 1, let. a et c, pour demander ou conserver l’agrément au sens, respectivement, des al. 1 et 2.[^11dbis-4]
 
-<sup>4</sup> Il peut faire valoir uniquement la formation continue qu’il a suivie dans le domaine de surveillance du présent article.
+<sup>4</sup> Il peut faire valoir au plus huit heures de formation continue qu’il a suivies dans les domaines de surveillance de l’art. 11*a*, al. 1, let. a et c.[^11dbis-5]
 
 [^11dbis-1]: Introduit par le ch. II 1 de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^11dbis-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^11dbis-3]: Nouvelle teneur selon l’annexe 1 ch. II 1 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11dbis-4]: Nouvelle teneur selon le ch. I 2 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^11dbis-5]: Nouvelle teneur selon le ch. I 2 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 11e
 

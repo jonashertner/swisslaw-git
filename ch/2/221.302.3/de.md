@@ -4,11 +4,11 @@ title: "Verordnung vom 22. August 2007 über die Zulassung und Beaufsichtigung d
 short: RAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/534"
 language: de
-version: 2021-07-01
+version: 2021-08-01
 adopted: 2007-08-22
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2007-534-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2007-534-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210701/de"
 
 (Revisionsaufsichtsverordnung, RAV)
 
-vom 22. August 2007 (Stand am 1. Juli 2021)
+vom 22. August 2007 (Stand am 1. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -26,7 +26,7 @@ gestützt auf die Artikel 9*a* Absatz 4<sup>bis</sup>, 15 Absatz 2, 21 Absatz 3,
 verordnet:
 
 [^ingress-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^ingress-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^ingress-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377). Dieser Art. hat eine neue Fassung. Siehe heute: Art. 943 OR.
 [^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-4]: Fassung gemäss Ziff. II 1 der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
@@ -53,11 +53,14 @@ Ein Gesuch um Zulassung bei der Aufsichtsbehörde muss einreichen:
 
 #### Art. 2
 
-**Form des Gesuchs**
+**Form des Gesuchs**[^2-1]
 
-<sup>1</sup> Das Gesuch um Zulassung ist in elektronischer Form und auf Papier einzureichen.
+<sup>1</sup> Das Gesuch um Zulassung ist in elektronischer Form einzureichen. Es muss unterzeichnet sein. Liegt keine qualifizierte elektronische Signatur im Sinne des Bundesgesetzes vom 18. März 2016[^2-2] über die elektronische Signatur vor, so muss eine Freigabequittung handschriftlich unterzeichnet und in Papierform eingereicht werden.
 
-<sup>2</sup> Das Gesuch auf Papier muss unterzeichnet sein.
+<sup>2</sup> Ist die elektronische Gesuchseinreichung nicht möglich, so ist das Gesuch auf Papier einzureichen. Es muss handschriftlich unterzeichnet sein.
+
+[^2-1]: Fassung gemäss Ziff. I 2 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^2-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 #### Art. 3
 
@@ -211,7 +214,7 @@ Die Deckungssumme, die für alle Schadenfälle eines Jahres zur Verfügung steht
 
 Die Aufsichtsbehörde erteilt Zulassungen an staatlich beaufsichtigte Revisionsunternehmen sowie an leitende Prüferinnen und leitende Prüfer für die Prüfung nach den Finanzmarktgesetzen für folgende Aufsichtsbereiche:
 
-- a.[^11a-2] Banken gemäss Bankengesetz vom 8. November 1934[^11a-3], Finanzmarktinfrastrukturen, Finanzgruppen und öffentliche Kaufangebote gemäss Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^11a-4], Wertpapierhäuser gemäss Finanzinstitutsgesetz vom 15. Juni 2018[^11a-5] (FINIG) und Pfandbriefzentralen gemäss Pfandbriefgesetz vom 25. Juni 1930[^11a-6];
+- a.[^11a-2] Banken gemäss Bankengesetz vom 8. November 1934[^11a-3] (BankG), Finanzmarktinfrastrukturen, Finanzgruppen und öffentliche Kaufangebote gemäss Finanzmarktinfrastrukturgesetz vom 19. Juni 2015[^11a-4], Wertpapierhäuser gemäss Finanzinstitutsgesetz vom 15. Juni 2018[^11a-5] (FINIG) und Pfandbriefzentralen gemäss Pfandbriefgesetz vom 25. Juni 1930[^11a-6];
 - a<sup>bis</sup>.[^11a-7] Personen nach Artikel 1*b* BankG;
 - b. Versicherungsunternehmen gemäss Versicherungsaufsichtsgesetz vom 17. Dezember 2004[^11a-8];
 - c.[^11a-9] Fondsleitungen und Verwalter von Kollektivvermögen gemäss FINIG, Anlagefonds, SICAV, Kommanditgesellschaften für kollektive Kapitalanlagen, SICAF, Depotbanken sowie Vertreterinnen und Vertreter ausländischer kollektiver Kapitalanlagen gemäss Kollektivanlagengesetz vom 23. Juni 2006[^11a-10];
@@ -220,7 +223,7 @@ Die Aufsichtsbehörde erteilt Zulassungen an staatlich beaufsichtigte Revisionsu
 <sup>2</sup> ...[^11a-12]
 
 [^11a-1]: Eingefügt durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^11a-2]: Fassung gemäss Anhang 1 Ziff. II 1 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-2]: Fassung gemäss Ziff. I 2 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^11a-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^11a-4]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 [^11a-5]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
@@ -236,13 +239,18 @@ Die Aufsichtsbehörde erteilt Zulassungen an staatlich beaufsichtigte Revisionsu
 
 **Ausreichende Organisation**[^11b-1]
 
+<sup>1</sup>
+
 Ein Revisionsunternehmen ist zur Prüfung nach den Finanzmarktgesetzen ausreichend organisiert (Art. 9*a* Abs. 1 Bst. b RAG), wenn es:
 
 - a. über mindestens zwei zugelassene leitende Prüferinnen oder leitende Prüfer für den Aufsichtsbereich nach Artikel 11*a* verfügt, für den die Zulassung erteilt wird;
 - b. spätestens drei Jahre nach Zulassungserteilung über mindestens zwei Prüfmandate in dem Aufsichtsbereich nach Artikel 11*a* verfügt, für den die Zulassung erteilt wird;
 - c. die Vorschriften zur Dokumentation und Aufbewahrung der Unterlagen nach Artikel 730*c* OR unabhängig von seiner Rechtsform einhält.
 
+<sup>2</sup> Die Prüfmandate in den Aufsichtsbereichen nach Artikel 11*a* Absatz 1 Buchstaben a und c werden im Aufsichtsbereich nach Artikel 11*a* Absatz 1 Buchstabe a<sup>bis</sup> angerechnet.[^11b-2]
+
 [^11b-1]: Eingefügt durch Anhang Ziff. 1 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^11b-2]: Eingefügt durch Ziff. I 2 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 11c
 
@@ -300,13 +308,15 @@ Sie oder er verfügt nach der Zulassung weiterhin über das nötige Fachwissen u
 - a.[^11dbis-3] 100 Prüfstunden im Aufsichtsbereich dieses Artikels in den jeweils letzten sechs Jahren;
 - b. 16 Stunden Weiterbildung pro Jahr im Aufsichtsbereich dieses Artikels.
 
-<sup>3</sup> Leitende Prüferinnen und Prüfer können für die Zulassung oder deren Beibehaltung nach Absatz 1 beziehungsweise 2 Berufserfahrung und Prüfstunden im Aufsichtsbereich nach Artikel 11*a* Absatz 1 Buchstaben a und c anrechnen, wenn sie mindestens 20 Prozent der nötigen Prüfstunden nach den Absätzen 1 Buchstabe b und 2 Buchstabe a in der Prüfung von Personen nach Artikel 1*b* BankG oder in der Prüfung von Informationssystemen (Informatikprüfung) erworben haben.
+<sup>3</sup> Leitende Prüferinnen und Prüfer können für die Zulassung oder deren Beibehaltung nach Absatz 1 beziehungsweise 2 Berufserfahrung und Prüfstunden im Aufsichtsbereich nach Artikel 11*a* Absatz 1 Buchstaben a und c anrechnen.[^11dbis-4]
 
-<sup>4</sup> Sie können nur die Weiterbildung anrechnen, die sie im Aufsichtsbereich dieses Artikels absolviert haben.
+<sup>4</sup> Sie können höchstens acht Stunden Weiterbildung anrechnen, die sie in den Aufsichtsbereichen nach Artikel 11*a* Absatz 1 Buchstaben a und c absolviert haben.[^11dbis-5]
 
 [^11dbis-1]: Eingefügt durch Ziff. II 1 der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^11dbis-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^11dbis-3]: Fassung gemäss Anhang 1 Ziff. II 1 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11dbis-4]: Fassung gemäss Ziff. I 2 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^11dbis-5]: Fassung gemäss Ziff. I 2 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 11e
 

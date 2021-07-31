@@ -4,11 +4,11 @@ title: "Ordinanza del 22 agosto 2007 sull'abilitazione e la sorveglianza dei rev
 short: OSRev
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/534"
 language: it
-version: 2021-07-01
+version: 2021-08-01
 adopted: 2007-08-22
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2007-534-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/534/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2007-534-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/534/20210701/it"
 
 (Ordinanza sui revisori, OSRev)**[^t-1]**
 
-del 22 agosto 2007 (Stato 1° luglio 2021)
+del 22 agosto 2007 (Stato 1° agosto 2021)
 
 [^t-1]: [RU 2007 4419](https://fedlex.data.admin.ch/eli/oc/2007/612)
 
@@ -28,7 +28,7 @@ visti gli articoli 9*a* capoverso 4<sup>bis</sup>, 15 capoverso 2, 21 capoverso 
 ordina:
 
 [^ingress-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^ingress-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^ingress-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377). Questo art. ha un nuovo testo. Vedi ora: l’art. 943 CO.
 [^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-4]: Nuovo testo giusta il n. II 1 dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
@@ -55,11 +55,14 @@ Devono presentare una domanda di abilitazione all’autorità di sorveglianza:
 
 #### Art. 2
 
-**Forma della domanda**
+**Forma della domanda**[^2-1]
 
-<sup>1</sup> La domanda di abilitazione va presentata in forma elettronica e cartacea.
+<sup>1</sup> La domanda di abilitazione va presentata in forma elettronica. Essa deve essere firmata. In assenza di una firma elettronica qualificata ai sensi della legge del 18 marzo 2016[^2-2] sulla firma elettronica, deve essere presentata una ricevuta cartacea recante una firma manoscritta.
 
-<sup>2</sup> La domanda in forma cartacea deve essere firmata.
+<sup>2</sup> Se la presentazione in forma elettronica non è possibile, la domanda va presentata in forma cartacea. Essa deve recare una firma manoscritta.
+
+[^2-1]: Nuovo testo giusta il n. I 2 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^2-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 #### Art. 3
 
@@ -213,7 +216,7 @@ La copertura assicurativa annua in caso di danni patrimoniali deve essere pari a
 
 L’autorità di sorveglianza rilascia l’abilitazione a imprese di revisione sotto sorveglianza statale nonché ad auditor responsabili per eseguire verifiche conformemente alle leggi sui mercati finanziari negli ambiti di vigilanza seguenti:
 
-- a.[^11a-2] banche secondo la legge dell’8 novembre 1934[^11a-3] sulle banche, infrastrutture del mercato finanziario, gruppi finanziari e offerte pubbliche di acquisto secondo la legge del 19 giugno 2015[^11a-4] sull’infrastruttura finanziaria, società di intermediazione mobiliare secondo la legge del 15 giugno 2018[^11a-5] sugli istituti finanziari (LIsFi) e centrali d’emissione di obbligazioni fondiarie secondo la legge del 25 giugno 1930[^11a-6] sulle obbligazioni fondiarie;
+- a.[^11a-2] banche secondo la legge dell’8 novembre 1934[^11a-3] sulle banche (LBCR), infrastrutture del mercato finanziario, gruppi finanziari e offerte pubbliche di acquisto secondo la legge del 19 giugno 2015[^11a-4] sull’infrastruttura finanziaria, società di intermediazione mobiliare secondo la legge del 15 giugno 2018[^11a-5] sugli istituti finanziari (LIsFi) e centrali d’emissione di obbligazioni fondiarie secondo la legge del 25 giugno 1930[^11a-6] sulle obbligazioni fondiarie;
 - a<sup>bis</sup>.[^11a-7] persone di cui all’articolo 1*b* LBCR;
 - b. imprese di assicurazione secondo la legge del 17 dicembre 2004[^11a-8] sulla sorveglianza degli assicuratori;
 - c.[^11a-9] direzioni dei fondi e gestori di patrimoni collettivi secondo la LIsFi, fondi di investimento, SICAV, società in accomandita per investimenti collettivi di capitale, SICAF, banche depositarie nonché rappresentanti di investimenti collettivi di capitale esteri secondo la legge del 23 giugno 2006[^11a-10] sugli investimenti collettivi;
@@ -222,11 +225,11 @@ L’autorità di sorveglianza rilascia l’abilitazione a imprese di revisione s
 <sup>2</sup> ...[^11a-12]
 
 [^11a-1]: Introdotto dall’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
-[^11a-2]: Nuovo testo giusta l’all. 1 n. II 1 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11a-2]: Nuovo testo giusta il n. I 2 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^11a-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^11a-4]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 [^11a-5]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^11a-6]: [RS 211.423.4](https://fedlex.data.admin.ch/eli/cc/47/109_113_57)
+[^11a-6]: RS **221.423.4**
 [^11a-7]: Introdotta dal n. II 1 dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^11a-8]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
 [^11a-9]: Nuovo testo giusta l’all. 1 n. II 1 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
@@ -238,13 +241,18 @@ L’autorità di sorveglianza rilascia l’abilitazione a imprese di revisione s
 
 **Organizzazione sufficiente**[^11b-1]
 
+<sup>1</sup>
+
 Un’impresa di revisione è organizzata in modo sufficiente per eseguire verifiche conformemente alle leggi sui mercati finanziari (art. 9*a* cpv. 1 lett. b LSR) se:
 
 - a. dispone di almeno due auditor responsabili abilitati per l’ambito di vigilanza secondo l’articolo 11*a* per il quale è rilasciata l’abilitazione;
 - b. al più tardi tre anni dopo il rilascio dell’abilitazione dispone di almeno due mandati di verifica nell’ambito di vigilanza secondo l’articolo 11*a* per il quale è rilasciata l’abilitazione;
 - c. a prescindere dalla sua forma giuridica, rispetta le disposizioni riguardanti la documentazione e la conservazione dei documenti secondo l’articolo 730*c* CO.
 
+<sup>2</sup> I mandati di verifica eseguiti negli ambiti di vigilanza secondo l’articolo 11*a* capoverso 1 lettere a e c sono computati nell’ambito di vigilanza secondo l’articolo 11*a* capoverso 1 lettera a<sup>bis</sup>.[^11b-2]
+
 [^11b-1]: Introdotto dall’all. n. 1 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
+[^11b-2]: Introdotto dal n. I 2 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 11c
 
@@ -302,13 +310,15 @@ Dopo l’abilitazione, l’auditor responsabile continua a disporre delle conosc
 - a.[^11dbis-3] 100 ore di verifica negli ambiti di vigilanza del presente articolo, negli ultimi sei anni;
 - b. 16 ore di perfezionamento all’anno negli ambiti di vigilanza del presente articolo.
 
-<sup>3</sup> Per l’abilitazione ai sensi del capoverso 1 o il suo mantenimento ai sensi del capoverso 2, gli auditor responsabili possono computare l’esperienza professionale e le ore di verifica negli ambiti di vigilanza dell’articolo 11*a* capoverso 1 lettere a e c se hanno acquisito almeno il 20 per cento delle ore di verifica necessarie secondo i capoversi 1 lettera b e 2 lettera a nella verifica di persone di cui all’articolo 1*b* LBCR o nella verifica di sistemi d’informazione (verifica informatica).
+<sup>3</sup> Per l’abilitazione ai sensi del capoverso 1 o il suo mantenimento ai sensi del capoverso 2, gli auditor responsabili possono computare l’esperienza professionale e le ore di verifica negli ambiti di vigilanza dell’articolo 11*a* capoverso 1 lettere a e c.[^11dbis-4]
 
-<sup>4</sup> Possono computare soltanto le ore di perfezionamento eseguite negli ambiti di vigilanza del presente articolo.
+<sup>4</sup> Possono computare al massimo otto ore di perfezionamento eseguite negli ambiti di vigilanza dell’articolo 11*a* capoverso 1 lettere a e c.[^11dbis-5]
 
 [^11dbis-1]: Introdotto dal n. II 1 dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^11dbis-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^11dbis-3]: Nuovo testo giusta l’all. 1 n. II 1 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^11dbis-4]: Nuovo testo giusta il n. I 2 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^11dbis-5]: Nuovo testo giusta il n. I 2 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 11e
 
