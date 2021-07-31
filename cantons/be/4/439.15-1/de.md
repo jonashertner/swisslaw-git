@@ -4,13 +4,13 @@ number: 439.15-1
 title: "Vereinbarung zwischen den Kantonen Bern, Jura und Neuenburg über die Beiträge an die Unterrichtskosten"
 short: BEJUNE-Vereinbarung
 language: de
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-02-17
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-04-26
 adopted: 2015-07-01
 in_force: 2015-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.15-1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1852/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2353/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1852/pdf_file"
 
 (BEJUNE-Vereinbarung)
 
-vom 01.07.2015 (Stand 01.08.2020)
+vom 01.07.2015 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern, der Staatsrat des Kantons Neuenburg, die Regierung des Kantons Jura,
 
@@ -259,6 +259,24 @@ Sulgeneckstrasse 70
 3005 Bern
 
 Er ist auch auf Internet verfügbar unter: [http://www.erz.be.ch](http://www.erz.be.ch) &gt; Mittelschule &gt; Ausserkantonaler Schulbesuch &gt; BEJUNE-Vereinbarung
+
+#### Art. A1-6
+
+<sup>1</sup> Die Änderung vom 26. April 2021 des Anhangs zur BEJUNE-Vereinbarung wird nur in Form eines Verweises veröffentlicht.
+
+Es kann bei folgender Stelle bezogen werden:
+
+Bildungs- und Kulturdirektion des Kantons Bern
+
+Mittelschul- und Berufsbildungsamt
+
+Kasernenstrasse 27
+
+Postfach
+
+3000 Bern 22
+
+Er ist auch auf Internet verfügbar unter: [http://www.bkd.be.ch](http://www.bkd.be.ch) &gt; Mittelschule &gt; Ausserkantonaler Schulbesuch &gt; BEJUNE-Vereinbarung
 
 Neuenburg, 6. Juli 2015
 

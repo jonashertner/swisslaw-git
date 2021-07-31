@@ -4,13 +4,13 @@ number: 439.15-1
 title: "Convention entre Berne, Jura et Neuchâtel sur les contributions aux frais d'enseignement"
 short: Convention BEJUNE
 language: fr
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-02-17
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-04-26
 adopted: 2015-07-01
 in_force: 2015-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/439.15-1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1852/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2353/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1852/pdf_file"
 
 (Convention BEJUNE)
 
-du 01.07.2015 (état au 01.08.2020)
+du 01.07.2015 (état au 01.08.2021)
 
 Le Conseil-exécutif du Canton de Berne, Le Gouvernement de la République et Canton du Jura, Le Conseil d'Etat de la République et canton de Neuchâtel,
 
@@ -48,7 +48,7 @@ conviennent de ce qui suit:
 
 <sup>1</sup> Pour pouvoir être admise dans un établissement d’un canton signataire, la personne en formation doit
 
-- a remplir les conditions d’admission du canton de formation précédente;
+- a remplir les conditions d’admission du canton de domicile;
 - b remplir les conditions d’admission du canton de formation pour la formation visée et
 - c bénéficier, avant le début de la formation, d'une autorisation délivrée par le canton de domicile.
 
@@ -267,6 +267,26 @@ Sulgeneckstrasse 70
 Elle est également disponible sur Internet à l’adresse suivante:
 
 [http://www.erz.be.ch](http://www.erz.be.ch) &gt; Formation professionnelle &gt; Ecoles professionnelles &gt; Fréquentation d’une école extracantonale &gt; Conventions sur les contributions aux frais d'enseignement
+
+#### Art. A1-6
+
+<sup>1</sup> La modification du 26 avril 2021 de l’annexe à la Convention BEJUNE est uniquement publiée sous la forme d’un renvoi.
+
+Elle peut être obtenue à l’adresse suivante:
+
+Direction de l’instruction publique et de la culture du canton de Berne
+
+Office des écoles moyennes et de la formation professionnelle
+
+Kasernenstrasse 27
+
+Case postale
+
+3000 Berne 22
+
+Elle est également disponible sur Internet à l’adresse suivante:
+
+[http://www.bkd.be.ch](http://www.bkd.be.ch) &gt; Ecoles moyennes &gt; Fréquentation d’une école extracantonale &gt; Convention BEJUNE
 
 Neuchâtel, le 6 juillet 2015
 
