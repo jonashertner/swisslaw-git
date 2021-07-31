@@ -3,20 +3,20 @@ canton: BL
 number: "640"
 title: Bildungsgesetz
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2019-02-28
+version: 2021-08-01
+valid_until: 2023-03-31
+version_adopted: 2020-06-11
 adopted: 2002-06-06
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640"
-pdf: "https://bl.clex.ch/api/de/versions/2834/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3035/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Bildungsgesetz
 
-Vom 06.06.2002 (Stand 01.01.2021)
+Vom 06.06.2002 (Stand 01.08.2021)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
@@ -77,6 +77,10 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>3<sup>ter</sup></sup> Die Berufsintegration umfasst Angebote, die eine nachhaltige Integration in eine berufliche Erstausbildung unterstützen, wenn eine solche nicht erreicht wird oder wurde oder ernsthaft gefährdet ist.
 
 <sup>4</sup> Lehrbetriebe sind Betriebe, in denen Berufslernende parallel zur Ausbildung an der Berufsfachschule und in den Überbetrieblichen Kursen eine berufliche Grundbildung absolvieren.
+
+<sup>5</sup> Privatschulen sind Schulen, die privatrechtlich getragen werden und gleichwertige Bildung wie an der öffentlichen Volksschule anbieten.
+
+<sup>6</sup> Weitere Leistungserbringende im Bildungsbereich sind Bildungsinstitutionen in privater oder öffentlicher Trägerschaft sowie Anbieter von individuellem Unterricht in speziellen Einzelsituationen.
 
 #### § 4
 
@@ -142,7 +146,17 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Integrative Schulung**
 
-<sup>1</sup> Die Schülerinnen und Schüler mit einer Behinderung werden vorzugsweise integrativ geschult, unter Beachtung des Wohles und der Entwicklungsmöglichkeiten des Kindes oder des Jugendlichen sowie unter Berücksichtigung des schulischen Umfeldes und der Schulorganisation.
+<sup>1</sup> Die Schülerinnen und Schüler mit besonderem Bildungsbedarf werden vorzugsweise integrativ geschult, unter Beachtung des Wohles und der Entwicklungsmöglichkeiten des Kindes oder des Jugendlichen sowie unter Berücksichtigung des schulischen Umfeldes und der Schulorganisation.
+
+#### § 5b
+
+**Nachteilsausgleich**
+
+<sup>1</sup> Schülerinnen und Schüler, die aufgrund einer Lernstörung, Sprachstörung oder Behinderung benachteiligt sind, haben Anspruch auf Nachteilsausgleich.
+
+<sup>2</sup> Die Lernstörung, Sprachstörung oder Behinderung muss durch eine vom Kanton bezeichnete Fachstelle festgestellt werden.
+
+<sup>3</sup> Das Nähere regelt die Verordnung.
 
 #### § 6
 
@@ -164,7 +178,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - j. die Tertiärstufe;
 - k. die Erwachsenenbildung.
 
-<sup>2</sup> Das Bildungsangebot wird ergänzt durch die Schuldienste.
+<sup>2</sup> Das Bildungsangebot wird ergänzt durch die Schuldienste und die heilpädagogische Früherziehung.
 
 #### § 7
 
@@ -222,12 +236,18 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - b. die Sonderschulung;
 - c. die Lehrmittel, Schulmaterialien und Unterrichtshilfen an der Volksschule.
 
+<sup>1<sup>bis</sup></sup> Für Selbstzahlende an Privatschulen sind Massnahmen der Integrativen Sonderschulung, Logopädie und Psychomotorik unentgeltlich.
+
 <sup>2</sup> Für die im Kanton wohnhaften Schülerinnen und Schüler bzw. Erwachsenen sind folgende Schuldienste unentgeltlich:
 
 - a. die schulpsychologischen und kinder- und jugendpsychiatrischen Abklärungen und Beratungen bis zur Beendigung der Sekundarstufe II;
 - b. die Berufs- und Studienberatung;
 - c. der Schulsozialdienst;
 - d. die Beratung von Schülerinnen und Schülern mit einer Behinderung und ihren Erziehungsberechtigten.
+
+<sup>3</sup> Für die im Kanton wohnenden Kinder sind die Leistungen der heilpädagogischen Früherziehung unentgeltlich.
+
+<sup>4</sup> 4 Das Nähere regelt die Verordnung.
 
 #### § 10
 
@@ -302,7 +322,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Der Kanton ist Träger:
 
-- a. der Sekundarschule und ihrer Speziellen Förderung (einschliesslich Werkjahr);
+- a. der Sekundarschule und ihrer Speziellen Förderung;
 - a<sup>bis</sup>. der Brückenangebote;
 - a<sup>ter</sup>. der Berufsintegration;
 - b. der Berufsfachschule;
@@ -310,7 +330,8 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - d. des Gymnasiums;
 - e. der Sonderschulung;
 - f. der Erwachsenenbildung, sofern der Kanton Aufgaben des Bundes ausführt oder selber Ausbildungen anbietet;
-- g. der kantonalen Schuldienste.
+- g. der kantonalen Schuldienste;
+- h. der heilpädagogischen Früherziehung.
 
 #### § 15
 
@@ -333,9 +354,11 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Einwohnergemeinden können ihre Schulen und den Schulsozialdienst auf der Primarstufe mit anderen Einwohnergemeinden führen. Sie können Teile ihres Unterrichtsangebots an der Musikschule Privatschulen übertragen, sofern diese die an die öffentliche Musikschule gestellten Anforderungen erfüllen.
 
-<sup>2</sup> Der Kanton kann Schulen zusammen mit anderen Kantonen führen und Teile seines Bildungsangebots Privatschulen übertragen, sofern diese die an die öffentlichen Schulen gestellten Anforderungen erfüllen.
+<sup>2</sup> Der Kanton kann Schulen zusammen mit anderen Kantonen führen. Er kann Teile seines Bildungsangebots Privatschulen oder weiteren Leistungserbringenden im Bildungsbereich übertragen, sofern diese die an die öffentlichen Schulen gestellten Anforderungen erfüllen.
 
 <sup>2<sup>bis</sup></sup> Die Einwohnergemeinden können ihre Schulsozialdienste anderen Einwohnergemeinden, dem Kanton oder Privaten übertragen, und der Kanton kann seine Schulsozialdienste Einwohnergemeinden oder Privaten übertragen.
+
+<sup>2<sup>ter</sup></sup> Der Kanton kann die heilpädagogische Früherziehung weiteren Leistungserbringenden übertragen.
 
 <sup>3</sup> Für die Übertragung der vom Kanton getragenen Angebote ist die Bildungs-, Kultur- und Sportdirektion zuständig.
 
@@ -435,9 +458,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> ...
 
-<sup>2</sup> Bei überdurchschnittlich begabten und entwickelten Kindern entscheidet die Schulleitung auf Gesuch der Erziehungsberechtigten und auf Empfehlung der Lehrerin oder des Lehrers des Kindergartens, oder aufgrund der Abklärung durch die Fachstelle des Kantons, ob der Eintritt in die Primarschule um 1 Jahr vorverlegt wird.
+<sup>2</sup> Bei überdurchschnittlich begabten und entwickelten Kindern entscheidet die Schulleitung auf Gesuch der Erziehungsberechtigten und auf Empfehlung der Lehrerin oder des Lehrers des Kindergartens, ob der Übergang in die Primarschule um 1 Jahr vorverlegt wird.
 
-<sup>3</sup> Bei Kindern, deren Schulreife fraglich ist, entscheidet die Schulleitung auf Gesuch der Erziehungsberechtigten oder aufgrund der Abklärung durch die Fachstelle des Kantons, ob der Eintritt in die Primarschule um 1 Jahr hinausgeschoben wird oder ob eine Aufnahme in die Einführungsklasse erfolgt.
+<sup>3</sup> Bei Kindern, deren Schulreife fraglich ist, entscheidet die Schulleitung auf Gesuch der Erziehungsberechtigten und auf Empfehlung der Lehrerin oder des Lehrers des Kindergartens, ob der Übergang in die Primarschule anstelle von Massnahmen der Speziellen Förderung um 1 Jahr hinausgeschoben wird.
 
 <sup>4</sup> Die Primarschule umfasst 6 Jahresstufen.
 
@@ -469,7 +492,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Sekundarschule weist folgende Anforderungsniveaus auf:
 
-- a. das Anforderungsniveau A (inklusive das Werkjahr), welches durch besondere Massnahmen auf eine berufliche Grundbildung vorbereitet und mit integrierter Berufswahlvorbereitung geführt wird;
+- a. das Anforderungsniveau A, welches durch besondere Massnahmen auf eine berufliche Grundbildung vorbereitet und mit integrierter Berufswahlvorbereitung geführt wird;
 - b. das Anforderungsniveau E, welches zu einer beruflichen Grundbildung mit oder ohne Berufsmaturität und zur Fachmittelschule führt;
 - c. das Anforderungsniveau P, welches den Eintritt in das Gymnasium ermöglicht.
 
@@ -701,48 +724,62 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Ziel**
 
-<sup>1</sup> Die Spezielle Förderung hilft Schülerinnen und Schülern mit einer speziellen Begabung, einer Lernbeeinträchtigung oder einem Lernrückstand, ihre Fähigkeiten soweit als möglich innerhalb der öffentlichen Schulen zu entwickeln.
+<sup>1</sup> Die Spezielle Förderung hilft Schülerinnen und Schülern mit einer speziellen Begabung, einer Lernbeeinträchtigung, einem Lernrückstand oder besonderen sozialen bzw. emotionalen Lernbedürfnissen, ihre Fähigkeiten so weit als möglich innerhalb der öffentlichen Schulen zu entwickeln.
 
 #### § 44
 
-**Angebot**
+**Angebot an der Volksschule**
 
 <sup>1</sup> Die Spezielle Förderung umfasst an der Volksschule:
 
-- a. die Einführungsklasse, in welcher Schülerinnen und Schüler die 1. Jahresstufe der Primarschule in 2 Jahren absolvieren;
-- b. die Kleinklasse für Schülerinnen und Schüler mit speziellen schulischen und sozialen Lernbedürfnissen im Kindergarten, an der Primarschule und den Anforderungsniveaus A und E der Sekundarschule oder an ihrer Stelle die integrative Schulungsform; die Kleinklasse im 11. Schuljahr des Anforderungsniveaus A wird als Werkklasse geführt;
-- c. den Förderunterricht für Schülerinnen und Schüler mit besonderen Bedürfnissen im schriftsprachlichen und mathematischen Bereich sowie in der Sprachentwicklung und Kommunikation;
-- d. die Förderung von Schülerinnen und Schülern mit einer besonderen kognitiven, musischen oder sportlichen Leistungsfähigkeit;
-- e. den Unterricht in Deutsch als Zweitsprache;
-- f. das Förderangebot für Schülerinnen und Schüler in Französisch, die infolge der Wohnsitznahme aus einem Kanton mit Englisch als 1. Fremdsprache über ungenügende Französischkenntnisse verfügen.
+- a. die Integrative Spezielle Förderung (ISF) mit oder ohne individuelle Lernziele für Schülerinnen und Schüler:
+  - 1\. mit speziellen schulischen sozialen und emotionalen Lernbedürfnissen,
+  - 2\. mit besonderen Bedürfnissen im schriftsprachlichen und mathematischen Bereich;
+  - 3\. mit einer besonderen kognitiven, musischen oder sportlichen Leistungsfähigkeit;
+- a<sup>bis</sup>. die 2-jährige Einführungsklasse, die anstelle der 1. Primarschulklasse mit ISF für Kinder mit Entwicklungsverzögerungen angeboten werden kann;
+- b. die Kleinklasse ab der 2. Primarschulklasse sowie auf dem Anforderungsniveau A der Sekundarschule, sofern die Angebote gemäss Bst. a nicht ausreichen;
+- c. die Logopädie für die Sprachentwicklung und Kommunikation;
+- d. …
+- e. Deutsch als Zweitsprache oder, wo nötig, Fremdsprachenintegrationsklasse für ausländische bzw. fremdsprachige Schülerinnen und Schüler mit Förderbedarf;
+- f. das Förderangebot Französisch für Schülerinnen und Schüler, die infolge der Wohnsitznahme aus einem Kanton mit Englisch als 1. Fremdsprache über ungenügende Französischkenntnisse verfügen oder die aus dem Ausland mit ungenügenden Französischkenntnissen zugezogen sind.
 
-<sup>2</sup> Die Spezielle Förderung kann im Sinne einer Früherfassung von Beeinträchtigungen bereits vor dem Eintritt in den Kindergarten einsetzen.
+<sup>2</sup> Die Logopädie kann im Sinne einer Früherfassung von Beeinträchtigungen bereits vor dem Eintritt in den Kindergarten einsetzen.
 
 <sup>3</sup> Das Nähere regelt die Verordnung.
 
 #### § 45
 
-**Inanspruchnahme**
+**Inanspruchnahme und Zuweisung**
 
-<sup>1</sup> Die Aufnahme einer Speziellen Förderung gemäss § 44 Abs. 1 Bst. a–d sowie für die Angebote gemäss § 45 Abs. 3 setzt eine vorherige Abklärung durch eine vom Kanton bestimmte Fachstelle voraus.
+<sup>1</sup> Die Aufnahme einer Integrativen Speziellen Förderung mit individuellen Lernzielen, der Beschulung in einer Kleinklasse, der Logopädie oder einer Privatschule setzt eine vorherige Abklärung durch eine vom Kanton bestimmte Fachstelle voraus.
 
-<sup>2</sup> Die Abklärung hat im Einverständnis mit den Erziehungsberechtigten bzw. den volljährigen Schülerinnen und Schüler zu erfolgen.
+<sup>2</sup> Die Abklärung erfolgt in der Regel im Einverständnis mit den Erziehungsberechtigten. Verweigern diese die Abklärung, kann die Bildungs-, Kultur- und Sportdirektion auf Antrag der Schulleitung eine Abklärung anordnen, wenn sonst die Entwicklungsmöglichkeiten der Schülerin oder des Schülers bzw. das schulische Umfeld dadurch wesentlich beeinträchtigt werden.
 
-<sup>3</sup> Über die Aufnahme einer Speziellen Förderung entscheidet die Schulleitung im Einverständnis mit den Erziehungsberechtigten. In die Einführungsklasse ist eine Aufnahme gemäss § 25 Abs. 3 auch ohne Einverständnis der Erziehungsberechtigten möglich.
+<sup>3</sup> Über die Aufnahme der Angebote der Speziellen Förderung entscheidet vorbehältlich von § 46 die Schulleitung. In der Regel erfolgt die Zuweisung im Einverständnis mit den Erziehungsberechtigten.
 
-<sup>4</sup> Für die Kursbildung und die Einzelmassnahmen der Speziellen Förderung gemäss § 44 Abs. 1 Bst. a–e können Lektionenpauschalen vorgesehen werden.
+<sup>3<sup>bis</sup></sup> Die Zuweisung zu den Angeboten der Speziellen Förderung mit vorheriger Abklärung sowie in die Einführungsklasse erfolgt mittels Verfügung.
+
+<sup>3<sup>ter</sup></sup> Beschwerden gegen Verfügungen gemäss den Abs. 2 und 3<sup>bis</sup> haben keine aufschiebende Wirkung.
+
+<sup>4</sup> Die Verordnung legt für die Angebote der Speziellen Förderung Lektionen-Pools und Platzzahlen im Verhältnis zur Anzahl Schülerinnen und Schüler in Anlehnung an kantonale Referenzrahmen fest. Diese werden regelmässig überprüft.
+
+<sup>4<sup>bis</sup></sup> Die Gemeinden sind im Rahmen der Lektionen-Pools und einer bedarfsgerechten Versorgung frei in der Zuweisung von Mitteln für die Angebote der Speziellen Förderung.
 
 <sup>5</sup> Das Nähere regelt die Verordnung.
 
 #### § 46
 
-**Spezielle Förderung an Privatschulen**
+**Spezielle Förderung an Privatschulen und in Spezialangeboten**
 
-<sup>1</sup> Die Bildungs-, Kultur- und Sportdirektion kann ein Angebot der Speziellen Förderung einer Privatschule übertragen. Vorrang haben Massnahmen der Speziellen Förderung innerhalb der öffentlichen Schulen des Kantons und der Einwohnergemeinden.
+<sup>1</sup> Die Bildungs-, Kultur- und Sportdirektion kann ein Angebot der Speziellen Förderung einer Privatschule oder weiteren Leistungserbringenden im Bildungsbereich übertragen. Vorrang haben Massnahmen der Speziellen Förderung innerhalb der öffentlichen Schulen des Kantons und der Einwohnergemeinden.
 
-<sup>2</sup> Die Bewilligung zur Aufnahme einer Speziellen Förderung an einer Privatschule erteilt die Bildungs-, Kultur- und Sportdirektion auf Antrag einer vom Kanton bestimmten Fachstelle.
+<sup>2</sup> Die Bewilligung zur Aufnahme einer Speziellen Förderung an einer Privatschule oder bei einem weiteren Leistungserbringenden im Bildungsbereich erteilt die Bildungs-, Kultur- und Sportdirektion auf Antrag einer vom Kanton bestimmten Fachstelle.
 
 <sup>3</sup> Vorgängig der Erteilung einer Bewilligung zugunsten einer Schülerin oder eines Schülers des Kindergartens oder der Primarschule nimmt die Bildungs-, Kultur- und Sportdirektion Rücksprache mit dem zuständigen Schulrat.
+
+<sup>4</sup> Zur Förderung von besonders sportbegabten Jugendlichen können Sportklassen geführt werden.
+
+<sup>5</sup> Das Angebot und die Aufnahmebedingungen regelt die Verordnung.
 
 ### 2.8 Sonderschulung
 
@@ -750,7 +787,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Ziel**
 
-<sup>1</sup> Die Sonderschulung vermittelt eine der Behinderung angepasste Bildung, fördert die Persönlichkeitsentwicklung, eine möglichst selbstständige Lebensführung und die Integration von Schülerinnen und Schülern mit einer Behinderung.
+<sup>1</sup> Die Sonderschulung vermittelt Schülerinnen und Schülern mit einer Behinderung eine ihrem besonderen Bildungsbedarf angepasste integrative oder separative Schulung, fördert deren Persönlichkeitsentwicklung und eine möglichst selbstständige Lebensführung.
+
+<sup>2</sup> Die Ziele der Sonderschulung gelten auch für Schülerinnen und Schüler ohne Behinderung, die in einer stationären Einrichtung beschult werden.
 
 #### § 48
 
@@ -760,10 +799,12 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 - a. den Unterricht an Sonderschulen;
 - b. den Unterricht in teil- oder ganzstationären Einrichtungen;
-- c. Massnahmen, welche die integrative Schulung an den öffentlichen Schulen des Kantons und der Einwohnergemeinden ermöglichen und unterstützen;
-- d. Therapien der Sonderschulung;
+- c. Massnahmen der Integrativen Sonderschulung;
+- d. Therapien der Sonderschulung, insbesondere die Psychomotorik;
 - e. die ausserschulische Betreuung und Verpflegung in Tageseinrichtungen;
-- f. den Transport zum Unterricht, zu Stützmassnahmen oder zu Therapien, wenn aus behinderungsbedingten Gründen der Weg nicht selbstständig zurückgelegt werden kann.
+- f. den notwendigen Transport für Schülerinnen und Schüler, die aufgrund ihrer Behinderung den Weg zwischen Wohnort und Schule bzw. Therapie nicht selbständig bewältigen können.
+
+<sup>1<sup>bis</sup></sup> Therapien der Sonderschulung können im Sinne einer Früherfassung von Beeinträchtigungen bereits vor dem Eintritt in den Kindergarten einsetzen.
 
 <sup>2</sup> Der Kanton kann weitere Angebote einrichten und Ausbildungen für Schülerinnen und Schüler mit einer Behinderung finanziell unterstützen.
 
@@ -771,13 +812,57 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 #### § 49
 
-**Inanspruchnahme**
+**Inanspruchnahme und Zuweisung**
 
-<sup>1</sup> Die Inanspruchnahme einer Sonderschulung setzt eine Abklärung durch eine vom Kanton bestimmte Fachstelle voraus.
+<sup>1</sup> Die Inanspruchnahme einer Sonderschulung setzt eine Abklärung durch eine vom Kanton bestimmte Fachstelle voraus, für die Unterbringung und Beschulung in einer stationären Einrichtung zudem eine entsprechende kindesschutzrechtliche Anordnung oder eine soziale Indikation.
 
-<sup>2</sup> Die Bewilligung zum Eintritt in eine Sonderschulung erteilt die Bildungs-, Kultur- und Sportdirektion auf Antrag der Erziehungsberechtigten und der zuständigen Behörde am Wohnsitz der Schülerinnen und Schüler.
+<sup>1<sup>bis</sup></sup> Die Abklärung erfolgt in der Regel auf Anmeldung der Erziehungsberechtigten. Reichen die Angebote der Speziellen Förderung der Volksschulen nachweislich nicht aus und verweigern die Erziehungsberechtigten die Abklärung, kann die Bildungs-, Kultur- und Sportdirektion auf Antrag der Schulleitung eine Abklärung anordnen.
 
-<sup>3</sup> Die Sonderschulung kann vor dem Eintritt in den Kindergarten einsetzen.
+<sup>1<sup>ter</sup></sup> Die Bildungs-, Kultur- und Sportdirektion prüft die empfohlene Sonderschulung auf die Möglichkeit der integrativen Umsetzung.
+
+<sup>2</sup> Sie entscheidet über die Aufnahme der Sonderschulung unter Berücksichtigung der Empfehlung der abklärenden Fachstelle, der Stellungnahme der Erziehungsberechtigten und der Stellungnahme der Schulleitung am zuständigen Schulort bei einer möglichen Integrativen Sonderschulung.
+
+<sup>2<sup>bis</sup></sup> Die Erziehungsberechtigten sind über den Abklärungs- und Entscheidungsprozess zu informieren und haben daran aktiv mitzuwirken.
+
+<sup>2<sup>ter</sup></sup> Kann eine Integrative Sonderschulung gemäss § 5a in der öffentlichen Schule nicht weitergeführt werden, beantragt die Schulleitung bei der Bildungs-, Kultur- und Sportdirektion den Abbruch. Diese entscheidet nach Anhörung der Erziehungsberechtigten über den Abbruch und die Anschlusslösung oder die Weiterführung.
+
+<sup>2<sup>quater</sup></sup> Beschwerden gegen Verfügungen der Bildungs-, Kultur- und Sportdirektion betreffend die Nichtweiterführung der Integrativen Sonderschulung haben keine aufschiebende Wirkung.
+
+<sup>3</sup> …
+
+<sup>3<sup>bis</sup></sup> Die Verordnung legt für die Angebote der Sonderschulung Platzzahlen und bei den Therapien Lektionen-Pools im Verhältnis zur Anzahl Schülerinnen und Schüler in Anlehnung an kantonale Referenzrahmen fest.
+
+<sup>4</sup> Das Nähere regelt die Verordnung.
+
+### 2.8a Heilpädagogische Früherziehung
+
+#### § 49a
+
+**Ziel**
+
+<sup>1</sup> Heilpädagogische Früherziehung unterstützt Kinder ab Geburt bis zum Schuleintritt, wenn festgestellt wird, dass ihre Entwicklung eingeschränkt oder gefährdet ist, oder sie dem Unterricht in der Regelschule ohne spezifische Unterstützung nicht werden folgen können.
+
+#### § 49b
+
+**Angebot**
+
+<sup>1</sup> Die heilpädagogische Früherziehung umfasst:
+
+- a. Beratung;
+- b. Förderung;
+- c. den notwendigen Transport für Kinder, die aufgrund ihrer Behinderung oder der familiären Situation den Weg zwischen Wohnort und Förderung nicht bewältigen können.
+
+<sup>2</sup> Das Nähere regelt die Verordnung.
+
+#### § 49c
+
+**Inanspruchnahme und Zuweisung**
+
+<sup>1</sup> Die Inanspruchnahme einer Förderung sowie des Transports setzt eine fachspezifische Abklärung voraus.
+
+<sup>2</sup> Die Bildungs-, Kultur- und Sportdirektion entscheidet über die Aufnahme der Förderung und des Transports auf Antrag der Erziehungsberechtigten.
+
+<sup>3</sup> Die Verordnung legt für die Angebote der heilpädagogischen Früherziehung einen Ressourcen-Pool im Verhältnis zur Anzahl Kinder im Alter von 0 bis 4 Jahren mit Wohnsitz im Kanton Basel-Landschaft fest.
 
 <sup>4</sup> Das Nähere regelt die Verordnung.
 
@@ -927,7 +1012,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>2</sup> Das Schulprogramm gibt insbesondere Auskunft über:
 
 - a. das pädagogische und organisatorische Konzept der Schule;
-- b. die Massnahmen zur Umsetzung der Förderung bei besonderem Bildungsbedarf;
+- b. die Massnahmen zur Integration;
 - c. die interne Evaluation;
 - d. den Einsatz der im Rahmen des Budgets zugesprochenen Mittel;
 - e. die Form der Mitsprache der Schülerinnen und Schüler;
@@ -1222,7 +1307,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - d. Er kann der Schulleitung Anträge stellen.
 - e. Er hat über seine Vertretung im Schulrat ein Mitwirkungsrecht bei der Anstellung von Mitgliedern der Schulleitung.
 
-<sup>3</sup> Die Lehrerinnen und Lehrer einer Klasse bilden einen Klassenkonvent, in welchem über die Noten und Beförderungen sowie über Fragen der Klassengemeinschaft beraten und entschieden wird.
+<sup>3</sup> Die Lehrerinnen und Lehrer, die eine Klasse oder einzelne Schülerinnen und Schüler derselben unterrichten, bilden einen Klassenkonvent, in welchem über die Leistungsbeurteilung und Beförderungen sowie über Fragen der Klassengemeinschaft beraten und entschieden wird. Weitere unterstützende Fachpersonen können beigezogen werden.
 
 <sup>4</sup> Das Nähere regelt die Verordnung.
 
@@ -1726,6 +1811,16 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>2</sup> Einwohnergemeinden, welche für ihren Kindergarten oder ihre Primarschule von § 12 Abs. 1 abweichende Unterrichtszeiten festlegen wollen, haben innert der gleichen Frist das dafür gemäss § 12 Abs. 3 erforderliche Gemeindereglement zu erlassen.
 
 <sup>3</sup> Das Nähere regelt die Verordnung.
+
+#### § 109a
+
+**Spezielle Förderung an der Volksschule, Sonderschulung und heilpädagogische Früherziehung**
+
+<sup>1</sup> Massnahmen der Speziellen Förderung gemäss §§ 44–46 und Massnahmen der Sonderschulung gemäss §§ 48 und 49 sowie Massnahmen der heilpädagogischen Früherziehung, die vor Inkrafttreten der Änderung dieses Gesetzes vom 11. Juni 2020 verfügt worden sind, behalten für die vorgesehene Dauer ihre Gültigkeit, höchstens aber für 2 Jahre.
+
+<sup>2</sup> Bei Überprüfungen und erneuten Abklärungen zu laufenden Verfügungen gemäss Abs. 1 kommen die Bestimmungen dieses Gesetzes in der Fassung vom 11. Juni 2020 zum Tragen.
+
+<sup>3</sup> Für Beschwerdeverfahren, die bei Inkrafttreten der Änderung dieses Gesetzes vom 11. Juni 2020 hängig sind, gelten die Bestimmungen dieses Gesetzes in der Fassung vom 1. August 2018.
 
 #### § 110
 
