@@ -4,11 +4,11 @@ number: "412.100"
 title: Volksschulgesetz (VSG)
 short: VSG
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2021-08-01
+version: "2021-08-01"
+nachtrag: "113"
+valid_until: 2022-01-01
 adopted: 2005-02-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_100-2005_02_07-2006_08_21-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_100-2005_02_07-2006_08_21-113.html"
 text: pdf
 ---
 
@@ -52,7 +52,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 <sup>2</sup> Kinder, die bis zum 31. Juli eines Jahres das vierte Altersjahr vollenden, werden auf Beginn des nächsten Schuljahres schulpflichtig. Die Schulpflicht dauert elf Jahre, längstens jedoch bis zum Abschluss der Volksschule.<sup>33</sup>
 
@@ -150,7 +150,7 @@ Der Anspruch auf den Schulbesuch gilt am Wohnort. Halten sich Schülerinnen und 
 
 **3**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 <sup>2</sup> Lehrmittel und Schulmaterial werden unentgeltlich zur Verfügung gestellt.
 
@@ -238,7 +238,7 @@ Die Gemeinden bieten im Rahmen ihrer Möglichkeiten freiwilligen Schulsport an.
 
 **5**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 ### 2. Abschnitt: Schulbetrieb
 
@@ -330,7 +330,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **7**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 ### C. Tagesstrukturen<sup>55</sup>
 
@@ -410,7 +410,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **9**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 <sup>3</sup> Schullaufbahnentscheide werden aufgrund einer Gesamtbeurteilung getroffen. Grundlage für die Gesamtbeurteilung bilden die Schulleistungen.
 
@@ -486,7 +486,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **11**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 <sup>2</sup> Im Auftrag einer Gemeinde kann der schulpsychologische Dienst die Überprüfung vornehmen, soweit dadurch die Erfüllung seiner Aufgaben gemäss § 19 Abs. 1<sup>50</sup> nicht beeinträchtigt wird.<sup>40</sup>
 
@@ -566,9 +566,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 <sup>2</sup> Die Schulleitung hat insbesondere folgende Aufgaben:<sup>59</sup> a. in eigener Kompetenz:
 
-- 1\. administrative Führung der Schule,
-
-- 2\. Mitwirkung bei Personalgeschäften der Schulpflege,
+- 1\. administrative Führung der Schule, 2.<sup>61</sup> personelle Führung sowie Beurteilung der Lehrpersonen und der übrigen Mitarbeitenden,
 
 - 3\. Zuteilung der Schülerinnen und Schüler zu den Klassen,
 
@@ -580,7 +578,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **13**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 - b. unter Mitwirkung der Schulkonferenz:
 
@@ -674,7 +672,7 @@ Ist das Wohl einer Schülerin oder eines Schülers im Sinne von Art. 307 ZGB<sup
 
 **15**
 
-- 1\. 1. 21 - 111 § 52 a.<sup>32</sup> <sup>1</sup> Für Schülerinnen und Schüler, die aufgrund ihres Verhaltens in der Klasse nicht mehr tragbar sind, kann die Schulpflege eine Auszeit von längstens zwölf Wochen anordnen.
+- 1\. 7. 21 - 113 § 52 a.<sup>32</sup> <sup>1</sup> Für Schülerinnen und Schüler, die aufgrund ihres Verhaltens in der Klasse nicht mehr tragbar sind, kann die Schulpflege eine Auszeit von längstens zwölf Wochen anordnen.
 
 **Auszeit**
 
@@ -768,7 +766,7 @@ Die Eltern und Dritte, denen eine Schülerin oder ein Schüler anvertraut ist, s
 
 **17**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 <sup>3</sup> Die Direktion kann an der Delegiertenversammlung die Geschäfte nach Abs. 1 vorstellen.
 
@@ -848,7 +846,7 @@ b.<sup>30</sup> an die Gemeinden: 50% der beitragsberechtigten Personalkosten f�
 
 **19**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 <sup>3</sup> Ist eine Regelschule für die integrierte Sonderschulung gemäss § 36 a verantwortlich, richtet der Kanton ergänzend zu Abs. 2 lit. b Kostenanteile aus, falls die Kosten den in der Verordnung festgelegten Gemeindeanteil überschreiten. Der Kostenanteil des Kantons entspricht höchstens demjenigen Betrag, den der Kanton einer Sonderschule oder einem Schulheim für ein vergleichbares Angebot ausrichten würde.<sup>40</sup>
 
@@ -910,7 +908,7 @@ b.<sup>30</sup> an die Gemeinden: 50% der beitragsberechtigten Personalkosten f�
 
 **21**
 
-- 1\. 1. 21 - 111 § 70.<sup>34</sup> <sup>1</sup> Die Privatschulen und der Privatunterricht werden von der Direktion beaufsichtigt. Diese kann geeignete Anordnungen treffen, wenn begründete Zweifel bestehen, ob in Privatschulen oder im Privatunterricht die Lernziele erreicht werden oder die Bewilligungsvoraussetzungen für die Privatschulen noch gegeben sind.
+- 1\. 7. 21 - 113 § 70.<sup>34</sup> <sup>1</sup> Die Privatschulen und der Privatunterricht werden von der Direktion beaufsichtigt. Diese kann geeignete Anordnungen treffen, wenn begründete Zweifel bestehen, ob in Privatschulen oder im Privatunterricht die Lernziele erreicht werden oder die Bewilligungsvoraussetzungen für die Privatschulen noch gegeben sind.
 
 **Aufsicht**
 
@@ -996,7 +994,7 @@ Schulen: Die von der Schulpflege bezeichneten Organisationseinheiten mit einer S
 
 **23**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 <sup>2</sup> Zu diesem Zweck kann der Regierungsrat vom Prozentsatz gemäss § 61 um höchstens 0,75 Prozent abweichen.
 
@@ -1098,7 +1096,7 @@ Als Stichtage für die Einschulung gemäss §§ 3 und 5 gelten:
 
 **25**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 <sup>25</sup> Eingefügt durch G vom 12. März 2007 (OS 63, 474; ABl 2006, 1). In Kraft seit 16. August 2008.
 
@@ -1172,9 +1170,11 @@ Als Stichtage für die Einschulung gemäss §§ 3 und 5 gelten:
 
 <sup>60</sup> Aufgehoben durch G vom 20. April 2020 (OS 75, 563; ABl 2018-12-14). In Kraft seit 1. Januar 2021.
 
+<sup>61</sup> Fassung gemäss G vom 20. April 2020 (OS 75, 563; ABl 2018-12-14). In Kraft seit 1. August 2021.
+
 **27**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 21 - 113
 
 ## Weitere Fussnoten
 
