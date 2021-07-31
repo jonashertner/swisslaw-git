@@ -4,13 +4,13 @@ number: "414.134"
 title: Verordnung über die Erteilung des Fachmittelschulausweises an kantonalen Fachmittelschulen
 short: Prüfungsverordnung für die Abschlussprüfungen der Fachmittelschule FMS
 language: de
-version: 2009-08-01
-valid_until: 2021-07-31
-version_adopted: 2009-05-12
+version: 2021-08-01
+valid_until: 2023-07-31
+version_adopted: 2021-09-14
 adopted: 2004-05-10
 in_force: 2004-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/414.134"
-pdf: "https://bgs.so.ch/api/de/versions/3536/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5140/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/3536/pdf_file"
 
 (Prüfungsverordnung für die Abschlussprüfungen der Fachmittelschule FMS)
 
-Vom 10.05.2004 (Stand 01.08.2009)
+Vom 10.05.2004 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -67,39 +67,38 @@ beschliesst
 
 **Für den Abschluss zählende Fächer**
 
-<sup>1</sup> Für das Bestehen der Abschlussprüfung entscheiden die Leistungen in neun Fächern und der Abschlussarbeit:
+<sup>1</sup> Für das Bestehen der Abschlussprüfung entscheiden die Leistungen in neun Fächern und der selbstständigen Arbeit:
 
 - a) Deutsch;
 - b) Französisch;
 - c) Englisch;
 - d) Mathematik;
-- e) Biologie;
+- e) Physik;
 - f) Geschichte;
-- g) Staats-, Rechts- und Wirtschaftskunde;
-- h) Musik oder Bildnerisches Gestalten oder Sport;
-- i) Für das Berufsfeld Gesundheit: Naturwissenschaften (Biologie, Chemie und Physik);
-- j) Für das Berufsfeld Pädagogik: Gestalten sowie Musik inklusive Instrument;
-- k) Für das Berufsfeld Soziale Arbeit: Wirtschaft und Recht sowie Rechnungswesen;
-- l) Abschlussarbeit.
+- g) …
+- h) Musik;
+- i) Für das Berufsfeld Gesundheit: Biologie sowie Ethik / Philosophie;
+- j) Für das Berufsfeld Pädagogik: Bildnerisches Gestalten und Kunst sowie Naturwissenschaftliche Phänomene;
+- k) Für das Berufsfeld Soziale Arbeit: Wirtschaft und Recht sowie Psychologie;
+- l) selbstständige Arbeit.
+
+<sup>2</sup> Die Leistungen in den Fächern gemäss Absatz 1 werden in ganzen und halben Noten ausgedrückt. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
 
 #### § 6
 
 **Prüfungsfächer**
 
-<sup>1</sup> Prüfungen werden abgelegt in folgenden Fächern:
+<sup>1</sup> Es werden folgende sechs Fächer geprüft:
 
 - a) Deutsch;
 - b) Französisch;
+- b<sup>bis</sup>) Englisch;
 - c) Mathematik;
-- d) Berufsfeld:
-  - 1\. für das Berufsfeld Gesundheit: Naturwissenschaften (Biologie, Chemie und Physik) und Englisch;
-  - 2\. für das Berufsfeld Pädagogik: Gestalten, Musik (inklusive Instrument) und Biologie;
-  - 3\. für das Berufsfeld Soziale Arbeit: Wirtschaft und Recht (inklusive Rechnungswesen) sowie Englisch.
-- e) Ein Fach aus folgenden Lernbereichen, sofern der betreffende Lernbereich nicht schon in den Prüfungen unter Buchstabe d vorkommt:
-  - 1\. Lernbereich Sprachen/Kommunikation: Englisch;
-  - 2\. Lernbereich Mathematik/Naturwissenschaften: Biologie;
-  - 3\. Lernbereich Sozialwissenschaften: Geschichte, Staats-, Rechts- und Wirtschaftskunde;
-  - 4\. Lernbereiche Musische Fächer und Sport: Bildnerisches Gestalten (das Fach Gestalten wird diesem Lernbereich zugeordnet), Sport.
+- d) Berufsfeld (zwei Prüfungsfächer):
+  - 1\. Gesundheit: Biologie sowie Ethik / Philosophie;
+  - 2\. Pädagogik: Bildnerisches Gestalten und Kunst sowie Naturwissenschaftliche Phänomene;
+  - 3\. Soziale Arbeit: Wirtschaft und Recht sowie Psychologie.
+- e) …
 
 #### § 7
 
@@ -109,9 +108,14 @@ beschliesst
 
 - a) im Fach Deutsch schriftlich und mündlich;
 - b) im Fach Französisch schriftlich und mündlich;
-- c) im Fach Mathematik schriftlich.
+- b<sup>bis</sup>) im Fach Englisch mündlich;
+- c) im Fach Mathematik schriftlich;
+- d) im Berufsfeld:
+  - 1\. Gesundheit: Biologie sowie Ethik / Philosophie: entweder schriftlich oder mündlich;
+  - 2\. Pädagogik: Bildnerisches Gestalten und Kunst: mündlich-praktisch; Naturwissenschaftliche Phänomene: mündlich;
+  - 3\. Soziale Arbeit: Wirtschaft und Recht sowie Psychologie: entweder schriftlich oder mündlich.
 
-<sup>2</sup> In den übrigen Fächern wird mündlich oder schriftlich oder mündlich-praktisch geprüft. Die Leitungen der Fachmittelschulen bestimmen in gegenseitiger Absprache zwischen den Schulstandorten die Prüfungsart für die einzelnen Fächer.
+<sup>2</sup> Die Leitungen der Fachmittelschulen bestimmen jährlich in gegenseitiger Absprache dieselbe Prüfungsart in den Fächern der Berufsfelder Gesundheit und Soziale Arbeit. In diesen Berufsfeldern wird immer ein Fach mündlich und ein Fach schriftlich geprüft.
 
 <sup>3</sup> Während der Ausbildung in der Fachmittelschule erworbene Sprachdiplome können die Prüfung in der entsprechenden Sprache ganz oder teilweise ersetzen. Das Departement für Bildung und Kultur regelt die Einzelheiten.
 
@@ -121,7 +125,7 @@ beschliesst
 
 <sup>1</sup> Zu Beginn der Ausbildung und spätestens ein Jahr vor den Abschlussprüfungen orientiert die Leitung der Fachmittelschulen die Schüler und Schülerinnen über das Prüfungsverfahren.
 
-<sup>2</sup> Drei Monate vor den Abschlussprüfungen werden die Schüler und Schülerinnen über die von den Leitungen der Fachmittelschulen gewählten Prüfungsart für die Fächer unter § 6, Buchstabe d und e informiert.
+<sup>2</sup> Drei Monate vor den Abschlussprüfungen werden die Schüler und Schülerinnen über die von den Leitungen der Fachmittelschulen gewählte Prüfungsart im Berufsfeld (§ 7 Abs.1 Bst. d Ziff. 1 und 3) informiert.
 
 #### § 9
 
@@ -147,11 +151,11 @@ beschliesst
 
 **Mündlich-praktische Prüfungen**
 
-<sup>1</sup> In den Fächern Musik und Sport dauert die mündlich-praktische Prüfung je 30 Minuten. Diese Prüfung besteht im Fach Musik aus einem mündlich-praktischen Teil und aus einem Vorspiel.
+<sup>1</sup> …
 
-<sup>2</sup> In den Fächern Bildnerisches Gestalten und Gestalten umfasst die mündlich-praktische Prüfung einen praktischen Teil von vier Stunden und eine mündliche Präsentation der Arbeit von 15 Minuten.
+<sup>2</sup> Im Fach Bildnerisches Gestalten und Kunst umfasst die Prüfung einen praktischen Teil von vier Stunden und eine mündliche Präsentation der Arbeit von 15 Minuten.
 
-<sup>3</sup> Der Experte oder die Expertin hält den Verlauf der mündlichen Prüfung beziehungsweise die Präsentation und den Einsatz des Instruments schriftlich fest. Die Noten werden im Anschluss an die Prüfung von den Fachlehrpersonen und dem Experten oder der Expertin gemeinsam festgelegt.
+<sup>3</sup> Der Experte oder die Expertin hält den Verlauf der mündlichen Prüfung beziehungsweise der Präsentation schriftlich fest. Die Noten werden im Anschluss an die Prüfung von den Fachlehrpersonen und dem Experten oder der Expertin gemeinsam festgelegt.
 
 #### § 12
 
@@ -163,19 +167,19 @@ beschliesst
 
 **Prüfungsnoten**
 
-<sup>1</sup> Die Noten der schriftlichen und der mündlichen beziehungsweise der mündlich-praktischen Prüfungen werden in ganzen und halben Noten ausgedrückt. 6 ist die beste Note, 1 die schlechteste.
+<sup>1</sup> …
 
-<sup>2</sup> Die Prüfungsnote entspricht dem arithmetischen Mittel der Noten des schriftlichen und des mündlichen oder des mündlich-praktischen Examens. Die Noten werden nicht gerundet, sofern sie mit einer Erfahrungsnote verrechnet werden.
+<sup>2</sup> Die Prüfungsnote entspricht dem arithmetischen Mittel der Noten des schriftlichen und des mündlichen oder des mündlich-praktischen Teils. Die Noten werden nicht gerundet, sofern sie mit einer Erfahrungsnote verrechnet werden.
 
-<sup>3</sup> Wird nur schriftlich oder mündlich geprüft, zählt die entsprechende Note als Prüfungsnote.
+<sup>3</sup> Wird nur schriftlich, nur mündlich oder nur mündlich-praktisch geprüft, zählt die entsprechende Note als Prüfungsnote.
 
 #### § 14
 
 **Abschlussnoten**
 
-<sup>1</sup> Für den Abschluss der Fachmittelschule zählen Erfahrungsnoten und Prüfungsnoten.
+<sup>1</sup> …
 
-<sup>2</sup> In den Abschlussfächern mit Prüfung entsprechen die Abschlussnoten dem auf halbe und ganze Noten gerundeten arithmetischen Mittel aus Prüfungsnote und Erfahrungsnote. Liegt es genau zwischen einer ganzen und einer halben Note, so wird aufgerundet.
+<sup>2</sup> In den Fächern, in welchen eine Abschlussprüfung abgelegt wird, entspricht die Abschlussnote dem auf ganze und halbe Noten gerundeten arithmetischen Mittel aus Erfahrungsnote und Prüfungsnote. In allen andern Fächern entspricht die Abschlussnote der Erfahrungsnote.
 
 #### § 15
 
@@ -183,21 +187,21 @@ beschliesst
 
 <sup>1</sup> Die Erfahrungsnoten ergeben sich aus den Zeugnisnoten des letzten Jahres, in welchem das jeweilige Fach unterrichtet worden ist.
 
-<sup>2</sup> Für das Berufsfeld Pädagogik entspricht die Erfahrungsnote Musik dem auf ganze und halbe Noten gerundeten arithmetischen Mittel aus der letzten Zeugnisnote im Fach Musik und der Note im Instrumentalunterricht.
+<sup>2</sup> …
 
-<sup>3</sup> Die Erfahrungsnote Naturwissenschaften entspricht dem auf ganze und halbe Noten gerundeten arithmetischen Mittel der letzten Zeugnisnoten in den Fächern Biologie, Chemie und Physik.
+<sup>3</sup> …
 
 #### § 16
 
-**Bestehen der Prüfung**
+**Erteilung des Fachmittelschulausweises**
 
-<sup>1</sup> Die Abschlussprüfung der Fachmittelschule ist bestanden, wenn[^16-1]
+<sup>1</sup> Der Fachmittelschulausweis wird erteilt, wenn gleichzeitig
 
-- a) Der Durchschnitt aus allen Abschlussnoten unter § 5 mindestens 4,0 beträgt und
-- b) in den neun Abschlussfächern und in der Abschlussarbeit unter § 5 nicht mehr als drei Noten unter 4 erteilt wurden und
-- c) die Summe aller Notenabweichungen von 4 nach unten nicht mehr als 2,0 Punkte beträgt.
+- a) der Durchschnitt aus allen Noten unter § 5 mindestens 4,0 erreicht und
+- b) höchstens drei Noten ungenügend sind und
+- c) die Summe der Notenabweichungen von 4,0 nach unten nicht mehr als 2,0 Punkte beträgt.
 
-[^16-1]: Die Aufzählung wurde gemäss RRB 2010/980 vom 1. Juni 2010 angepasst.
+<sup>2</sup> Form und Inhalt des Fachmittelschulausweises richten sich nach dem Reglement über die Anerkennung der Abschlüsse von Fachmittelschulen vom 25. Oktober 2018 der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK).
 
 #### § 17
 
@@ -219,9 +223,7 @@ beschliesst
 
 #### § 19
 
-**Fachmittelschulausweis**
-
-<sup>1</sup> Form und Inhalt des Fachmittelschulausweises richten sich nach dem Reglement über die Anerkennung der Abschlüsse von Fachmittelschulen vom 12. Juni 2003 der Konferenz der kantonalen Erziehungsdirektoren.
+**…**
 
 #### § 20
 
@@ -250,6 +252,16 @@ beschliesst
 #### § 23
 
 **…**
+
+#### § 23bis
+
+**Übergangsbestimmung zur Änderung vom 27. April 2021**
+
+<sup>1</sup> Für Lehrgänge, welche in den Schuljahren 2019/2020 sowie 2020/2021 begonnen haben, gelten die Bestimmungen der Prüfungsverordnung für die Abschlussprüfungen der Fachmittelschule FMS vom 10. Mai 2004 in der Fassung vom 1. August 2009 (bisherige Bestimmungen).
+
+<sup>2</sup> Schüler und Schülerinnen, welche den Lehrgang im Schuljahr 2019/2020 begonnen haben, die Prüfung am Ende des Schuljahres 2021/2022 nicht bestehen und repetieren, können die Prüfung ein Jahr später nach den bisherigen Bestimmungen wiederholen.
+
+<sup>3</sup> Schüler und Schülerinnen, welche den Lehrgang im Schuljahr 2020/2021 begonnen haben und die Prüfung am Ende des Schuljahres 2022/2023 nicht bestehen, können die Prüfung ein Jahr später nach den bisherigen Bestimmungen wiederholen.
 
 #### § 24
 
