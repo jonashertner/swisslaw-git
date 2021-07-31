@@ -4,13 +4,13 @@ number: "143.11"
 title: Personalverordnung
 short: PersV
 language: de
-version: 2019-01-01
-corrected: 2018-09-14
-version_adopted: 2018-10-09
+version: 2021-08-01
+valid_until: 2021-09-30
+version_adopted: 2021-06-22
 adopted: 2011-12-13
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2419/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3382/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2419/pdf_file"
 
 (PersV)
 
-vom 13.12.2011 (Stand 01.01.2019)
+vom 13.12.2011 (Stand 01.08.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -38,7 +38,7 @@ als Verordnung:[^ingress-2]
 
 **Geltungsbereich a) Grundsatz**
 
-<sup>1</sup> Dieser Erlass gilt für die Mitarbeiterinnen und Mitarbeiter nach Art. 2 des Personalgesetzes.[^1-1]
+<sup>1</sup> Dieser Erlass gilt für die Mitarbeiterinnen und Mitarbeiter nach Art. 2 des Personalgesetzes. Als selbständige öffentlich-rechtliche Anstalten nach Art. 2 Abs. 2 des Personalgesetzes[^1-1] gelten auch die interkantonalen und interstaatlichen selbständigen öffentlich-rechtlichen Anstalten nach Anhang 4 dieses Erlasses.
 
 <sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter der Spitalverbunde und der Psychiatrieverbunde sowie des Zentrums für Labormedizin sind mit Ausnahme der Mitarbeiterinnen und Mitarbeiter, die eine höhere leitende Tätigkeit ausüben[^1-2], der eidgenössischen Arbeitsgesetzgebung[^1-3] unterstellt.
 
@@ -115,31 +115,39 @@ als Verordnung:[^ingress-2]
 
 #### Art. 8
 
-**Telearbeit zu Hause**
+**Neue Arbeitsformen**
 
-<sup>1</sup> Die Arbeitgeberin oder der Arbeitgeber kann mit Mitarbeiterinnen oder Mitarbeitern Telearbeit zu Hause vereinbaren, wenn sie über einen privaten Arbeitsplatz verfügen, der die Aufgabenerfüllung in vergleichbarer Weise wie am Dienstort zulässt, und keine betrieblichen Gründe entgegenstehen.
+<sup>1</sup> Die Arbeitgeberin oder der Arbeitgeber kann mit Mitarbeiterinnen oder Mitarbeitern ergänzend zur Arbeit am Dienstort neue Arbeitsformen vereinbaren, wenn diese die Aufgabenerfüllung in vergleichbarer Weise wie am Dienstort zulassen und keine betrieblichen Gründe entgegenstehen.
 
-<sup>2</sup> Der Kanton kann sich an den Kosten des privaten Arbeitsplatzes beteiligen.
+<sup>2</sup> Der Kanton kann sich an den Kosten neuer Arbeitsformen beteiligen.
+
+#### Art. 8a
+
+**Verbot der Annahme von Geschenken und anderen Vorteilen**
+
+<sup>1</sup> Geringfügige, sozial übliche Geschenke und Vorteile im Sinn von [Art. 68](https://www.gesetzessammlung.sg.ch/data/143.1/de/art68) Abs. 2 des Personalgesetzes[^8a-1] dürfen nicht angenommen oder beansprucht werden, wenn sie die Erfüllung der Dienstpflicht oder die Unabhängigkeit der Mitarbeiterin oder des Mitarbeiters beeinträchtigen können.
+
+<sup>2</sup> Bestehen Zweifel, ob ein Geschenk oder ein Vorteil angenommen oder beansprucht werden darf, bestimmt die oder der Vorgesetzte das weitere Vorgehen.
+
+[^8a-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 ### 2. Fort- und Weiterbildung
 
 #### Art. 9
 
-**Notwendige Fort- und Weiterbildung**
-
-<sup>1</sup> Der Kanton trägt die Kosten für die Fort- und Weiterbildung, welche die oder der Vorgesetzte für die Ausübung der Tätigkeit als notwendig bezeichnet.
-
-<sup>2</sup> Ist der tatsächliche Zeitaufwand, den die Mitarbeiterin oder der Mitarbeiter für die Fort- und Weiterbildung aufwendet, grösser als die tägliche Normalarbeitszeit, werden höchstens zehn Stunden einschliesslich Fahrzeit und Pausen angerechnet.
+**…**
 
 #### Art. 10
 
-**Andere Fort- und Weiterbildung a) Beteiligung des Kantons**
+**Beteiligung des Kantons**
 
-<sup>1</sup> Der Kanton kann sich an der nicht oder nur teilweise zur Ausübung der Tätigkeit notwendigen Fort- und Weiterbildung durch einen finanziellen Beitrag und durch volle oder teilweise Anrechnung der dafür aufgewendeten Zeit als Arbeitszeit beteiligen.
+<sup>1</sup> Der Kanton kann sich an einer Fort- und Weiterbildung durch einen finanziellen Beitrag und durch volle oder teilweise Anrechnung der dafür aufgewendeten Zeit als Arbeitszeit beteiligen.
+
+<sup>1<sup>bis</sup></sup> Je Tag werden höchstens zehn Stunden der für die Fort- und Weiterbildung aufgewendeten Zeit als Arbeitszeit angerechnet.
 
 <sup>2</sup> Die Beteiligung richtet sich nach:
 
-- a) dem Nutzen der Fort- und Weiterbildung für den Kanton;
+- a) der Notwendigkeit und dem Nutzen der Fort- und Weiterbildung für den Kanton;
 - b) den bisherigen Beteiligungen des Kantons an der Fort- und Weiterbildung der Mitarbeiterin oder des Mitarbeiters;
 - c) der Leistung und dem Verhalten der Mitarbeiterin oder des Mitarbeiters.
 
@@ -147,18 +155,24 @@ als Verordnung:[^ingress-2]
 
 #### Art. 11
 
-**b) Vereinbarung**
+**Vereinbarung**
 
 <sup>1</sup> Überschreitet die Beteiligung des Kantons an einer Fort- und Weiterbildung den Betrag von Fr. 5000.–, schliessen die Mitarbeiterin oder der Mitarbeiter, die Arbeitgeberin oder der Arbeitgeber und die für die Verwendung des Fort- und Weiterbildungskredits zuständige Dienststelle eine schriftliche Vereinbarung über die Fort- und Weiterbildung ab.
+
+<sup>1<sup>bis</sup></sup> Als Beteiligung des Kantons gelten:
+
+- a) der finanzielle Beitrag und
+- b) der Geldwert der für die Fort- und Weiterbildung angerechneten Arbeitszeit.
 
 <sup>2</sup> Die Vereinbarung regelt:
 
 - a) die Aufteilung der Kosten auf die Mitarbeiterin oder den Mitarbeiter und den Kanton;
-- b) die Anrechnung der für die Fort- und Weiterbildung aufgewendeten Zeit als Arbeitszeit.
+- b) die Anrechnung der für die Fort- und Weiterbildung aufgewendeten Zeit als Arbeitszeit;
+- c) die Modalitäten für eine Rückerstattung der Beteiligung des Kantons durch die Mitarbeiterin oder den Mitarbeiter.
 
 #### Art. 12
 
-**c) Rückerstattung**
+**Rückerstattung**
 
 <sup>1</sup> Endet das Arbeitsverhältnis innerhalb von drei Jahren nach der letzten Beitragszahlung oder der zuletzt erfolgten Inanspruchnahme von Arbeitszeit, erstattet die Mitarbeiterin oder der Mitarbeiter die Beteiligung des Kantons, die den Betrag von Fr. 5000.– übersteigt, anteilmässig nach Massgabe der Dauer zwischen dem Ende des Arbeitsverhältnisses und der Frist von drei Jahren Dauer zurück.
 
@@ -316,7 +330,8 @@ als Verordnung:[^ingress-2]
 - c) Assistenzärztinnen und Assistenzärzte 48 Stunden;
 - d) Oberärztinnen und Oberärzte:
   - 1\. in den Spitalverbunden und im Zentrum für Labormedizin 48 Stunden;
-  - 2\. in den Psychiatrieverbunden 46 Stunden.
+  - 2\. in den Psychiatrieverbunden 46 Stunden;
+- e) Wildhüterinnen und Wildhüter 45 Stunden.
 
 ### 2. Bandbreitenmodell
 
@@ -361,6 +376,12 @@ als Verordnung:[^ingress-2]
 
 **…**
 
+#### Art. 31a
+
+**Einschränkung der Wahl des Bandbreitenmodells**
+
+<sup>1</sup> Für eine Mitarbeiterin oder einen Mitarbeiter gilt für ein bestimmtes Kalenderjahr die Variante 4 des Bandbreitenmodells nach Art. 29 Abs. 1 dieses Erlasses, wenn das Zeitguthaben aus nicht bezogenen Ferien, Kompensationstagen aus dem Bandbreitenmodell und geleisteter Überzeit am Ende des Vorjahrs mehr als 15 Arbeitstage, bei Teilzeitbeschäftigung mehr als die entsprechende Anzahl Arbeitstage im Verhältnis zum Beschäftigungsgrad, beträgt.
+
 #### Art. 32
 
 **Mitarbeiterinnen und Mitarbeiter mit fester Arbeitszeit**
@@ -379,19 +400,15 @@ als Verordnung:[^ingress-2]
 
 #### Art. 34
 
-**Blockzeiten**
-
-<sup>1</sup> Die Blockzeiten dauern von 08.30 bis 11.00 Uhr und von 14.00 bis 16.00 Uhr.
-
-<sup>2</sup> Während den Blockzeiten sind in der Regel alle Mitarbeiterinnen und Mitarbeiter anwesend.
+**…**
 
 #### Art. 35
 
 **Mittagspause**
 
-<sup>1</sup> Die Mittagspause oder eine vergleichbare Arbeitsunterbrechung dauert wenigstens eine halbe Stunde.
+<sup>1</sup> Bei einer zusammenhängenden tatsächlichen Tagesarbeitszeit von mehr als sieben Stunden wird eine Mittagspause oder eine vergleichbare Arbeitsunterbrechung von wenigstens einer halben Stunde eingehalten.
 
-<sup>2</sup> Sie gilt nicht als Arbeitszeit.
+<sup>2</sup> Sie gilt nicht als Arbeitszeit und wird in der Regel zwischen 11.00 und 14.00 Uhr bezogen.
 
 <sup>3</sup> Die oder der Vorgesetzte kann aus betrieblichen Gründen im Einzelfall Ausnahmen zulassen.
 
@@ -407,7 +424,7 @@ als Verordnung:[^ingress-2]
 
 **b) aus privaten Gründen**
 
-<sup>1</sup> Abwesenheiten aus privaten Gründen gelten nicht als Arbeitszeit und erfolgen in der Regel ausserhalb der Blockzeiten.
+<sup>1</sup> Abwesenheiten aus privaten Gründen gelten nicht als Arbeitszeit.
 
 ### 4. Pikettdienst und Nachtarbeit
 
@@ -448,17 +465,17 @@ als Verordnung:[^ingress-2]
 
 #### Art. 41
 
-**Dauer**
+**Zeitlicher Rahmen**
 
-<sup>1</sup> Während der Gleitzeit können Arbeitsbeginn, Mittagspause und Arbeitsende frei gewählt werden.
+<sup>1</sup> Während der Gleitzeit können Arbeitsbeginn und Arbeitsende frei gewählt werden. Die Mittagspause richtet sich nach Art. 35 dieses Erlasses.
 
-<sup>2</sup> Die Gleitzeit dauert:
+<sup>2</sup> Die Gleitzeit entspricht der Dienstzeit nach Art. 24 dieses Erlasses.
 
-- a) von 06.30 bis 08.30 Uhr;
-- b) von 11.00 bis 14.00 Uhr;
-- c) von 16.00 bis 19.00 Uhr.
+- a) …
+- b) …
+- c) …
 
-<sup>3</sup> Die oder der Vorgesetzte kann in begründeten Fällen Ausnahmen zulassen.
+<sup>3</sup> Die oder der Vorgesetzte kann in begründeten Fällen Gleitzeit auch ausserhalb der Dienstzeit zulassen, insbesondere im Zusammenhang mit neuen Arbeitsformen.
 
 #### Art. 42
 
@@ -468,7 +485,7 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter gleichen Zeitguthaben während der Gleitzeit aus.
 
-<sup>3</sup> Der Ausgleich während der Blockzeiten erfolgt nach vorgängiger Zustimmung der oder des Vorgesetzten im Rahmen von zwei Tagen je Monat. Die oder der Vorgesetzte kann Abweichungen bewilligen.
+<sup>3</sup> Der Ausgleich erfolgt nach vorgängiger Zustimmung der oder des Vorgesetzten im Rahmen von zwei Tagen je Monat. Die oder der Vorgesetzte kann Abweichungen bewilligen.
 
 #### Art. 43
 
@@ -554,6 +571,8 @@ als Verordnung:[^ingress-2]
 - a) Bezug von bezahltem Urlaub;
 - b) befristete Herabsetzung des Beschäftigungsgrades bei gleichbleibendem Lohn.
 
+<sup>2</sup> Bei Herabsetzung des Beschäftigungsgrades im Hinblick auf die Beendigung des Arbeitsverhältnisses aus Altersgründen kann die Verwendungsdauer auf vier Jahre verlängert werden.
+
 #### Art. 53
 
 **Zeitguthaben bei Beendigung des Arbeitsverhältnisses**
@@ -570,13 +589,19 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Überzeit entsteht, wenn auf Anordnung der oder des Vorgesetzten die vereinbarte Arbeitszeit zur Erfüllung einer unaufschiebbaren Aufgabe überschritten wird.
 
+<sup>2</sup> Die Anordnung erfolgt vorgängig und schriftlich. Ist dies in Dienststellen mit durchgehendem Dienst- oder Pikettbetrieb aus betrieblichen Gründen nicht möglich, kann die oder der Vorgesetzte die Anordnung der Überzeit nachträglich schriftlich bestätigen.
+
 #### Art. 55
 
 **Ausgleich a) Grundsatz**
 
-<sup>1</sup> Überzeit von Mitarbeiterinnen und Mitarbeitern bis Lohnklasse 22 wird ausgeglichen.
+<sup>1</sup> Überzeit wird grundsätzlich mit Freizeit ausgeglichen.
 
-<sup>2</sup> Überzeit von Mitarbeiterinnen und Mitarbeitern ab Lohnklasse 23 kann mit Freizeit ausgeglichen werden, wenn keine betrieblichen Gründe entgegenstehen. Die Arbeitgeberin oder der Arbeitgeber kann in Ausnahmefällen mit Zustimmung des Personalamtes oder der zuständigen Stelle der selbständigen öffentlich-rechtlichen Anstalt eine Entschädigung festlegen.
+<sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber kann in betrieblich begründeten Ausnahmefällen eine Entschädigung festlegen, sofern:
+
+- a) je Mitarbeiterin oder Mitarbeiter höchstens 40 Stunden je Jahr abgegolten werden und
+- b) die Entschädigung aus bestehenden Personalkrediten erfolgt und
+- c) die Vorsteherin oder der Vorsteher des Departementes, die Staatssekretärin oder der Staatssekretär oder die zuständige Stelle des Gerichtes oder der selbständigen öffentlich-rechtlichen Anstalt zustimmt.
 
 <sup>3</sup> Überzeit der im Einzelfall zur Unterstützung des Kantonalen Führungsstabs beigezogenen Mitarbeiterinnen und Mitarbeiter wird entschädigt.
 
@@ -584,17 +609,18 @@ als Verordnung:[^ingress-2]
 
 **b) durch Freizeit**
 
-<sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter gleicht Überzeit im Einvernehmen mit der oder dem Vorgesetzten mit Freizeit aus. Der Ausgleich erfolgt innerhalb eines Jahres.
+<sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter gleicht Überzeit im Einvernehmen mit der oder dem Vorgesetzten mit Freizeit aus. Der Ausgleich soll innerhalb von drei Jahren erfolgen.
 
 #### Art. 57
 
 **c) durch Entschädigung**
 
-<sup>1</sup> Kann Überzeit aus betrieblichen Gründen nicht mit Freizeit ausgeglichen werden, wird sie entschädigt.
+<sup>1</sup> Kann Überzeit bis zur Beendigung des Arbeitsverhältnisses nicht mit Freizeit ausgeglichen werden, wird sie entschädigt.
 
 <sup>2</sup> Die Entschädigung je Stunde ergibt sich aus dem Betrag des Jahreslohns einschliesslich 13. Monatslohn, jedoch ohne Sozialzulagen, geteilt durch:
 
 - a) 2190 bei einer durchschnittlichen wöchentlichen Arbeitszeit von 42 Stunden;
+- a<sup>bis</sup>) 2346 bei einer durchschnittlichen wöchentlichen Arbeitszeit von 45 Stunden;
 - b) 2399 bei einer durchschnittlichen wöchentlichen Arbeitszeit von 46 Stunden;
 - c) 2503 bei einer durchschnittlichen wöchentlichen Arbeitszeit von 48 Stunden.
   - 1\. …
@@ -632,6 +658,12 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Fallen Weihnachtstag und Neujahr auf einen Dienstag, sind der 24. und der 31. Dezember arbeitsfrei.
 
+#### Art. 60a
+
+**Zeitgutschrift**
+
+<sup>1</sup> An jedem auf einen Arbeitstag fallenden Ruhetag nach Art. 59 dieses Erlasses oder arbeitsfreien Tag nach Art. 60 dieses Erlasses wird die tägliche Sollarbeitszeit gemäss Beschäftigungsgrad als Arbeitszeit gutgeschrieben.
+
 ### 2. Ferien
 
 #### Art. 61
@@ -640,10 +672,10 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Ferien betragen je Kalenderjahr:
 
-- a) 23 Arbeitstage ab vollendetem 20. Altersjahr bis zu dem Jahr, in dem das 49. Altersjahr vollendet wird;
+- a) 23 Arbeitstage;
 - b) 28 Arbeitstage:
   - 1\. für Lernende;
-  - 2\. für jugendliche Arbeitnehmerinnen und Arbeitnehmer bis zu dem Jahr, in dem das 20. Altersjahr vollendet wird;
+  - 2\. für jugendliche Arbeitnehmerinnen und Arbeitnehmer bis einschliesslich zu dem Jahr, in dem das 20. Altersjahr vollendet wird;
   - 3\. für die übrigen Mitarbeiterinnen und Mitarbeiter ab dem Jahr, in dem das 50. Altersjahr vollendet wird;
 - c) 30 Arbeitstage ab dem Jahr, in dem das 60. Altersjahr vollendet wird.
 
@@ -660,10 +692,15 @@ als Verordnung:[^ingress-2]
   - 1\. Krankheit oder Unfalls;
   - 2\. obligatorischer Dienstleistung in Armee, Zivilschutz und Feuerwehr;
   - 3\. zivilen Ersatzdienstes;
-  - 4\. bezahlten Urlaubs;
+  - 4\. bezahlten Urlaubs nach Art. 65 und 66 dieses Erlasses;
 - c) bei unbezahltem Urlaub.
 
 <sup>2</sup> Wird die Tätigkeit aus anderen Gründen ausgesetzt, wird die ausgefallene Arbeitszeit an die Feriendauer angerechnet.
+
+<sup>3</sup> Leisten Mitarbeiterinnen und Mitarbeiter nach [Art. 2](https://www.gesetzessammlung.sg.ch/data/143.1/de/art2) Abs. 1 und 2 des Personalgesetzes vom 25. Januar 2011[^62-1] Assistenzdienst zur Unterstützung der zivilen Behörden nach Art. 67 des Bundesgesetzes über die Armee und die Militärverwaltung vom 3. Februar 1995[^62-2] oder gleichwertige Einsätze insbesondere in Krisensituationen, werden diese Dienstleistungen bei der Bemessung des Ferienanspruchs nach Abs. 1 Bst. b dieser Bestimmung nicht angerechnet.
+
+[^62-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^62-2]: SR [510.10](https://db.clex.ch/link/Bund/510.10/de).
 
 #### Art. 63
 
@@ -697,12 +734,12 @@ als Verordnung:[^ingress-2]
 
 **Besondere Gründe**
 
-<sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter kann als bezahlten Urlaub beziehen:[^66-1]
+<sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter kann als bezahlten Urlaub beziehen:
 
 - a) bei Verheiratung der Mitarbeiterin oder des Mitarbeiters oder bei Eintragung der Partnerschaft zwei Tage;
 - b) bei Hochzeit oder bei Eintragung der Partnerschaft von Kindern und Geschwistern einen Tag;
-- c) nach Geburt eines Kindes fünf Tage Vaterschaftsurlaub innerhalb von vier Monaten;[^66-2]
-- d) bei plötzlicher Erkrankung eines Mitglieds des Haushalts oder eines nahen Angehörigen, wenn es an der notwendigen Betreuung fehlt, bis zwei Tage je Ereignis;
+- c) …
+- d) bei einer notwendigen Betreuung eines Familienmitglieds sowie der Lebenspartnerin oder des Lebenspartners mit gesundheitlicher Beeinträchtigung höchstens die ersten drei Tage je Ereignis und höchstens zehn Tage je Kalenderjahr;
 - e) beim Tod:
   - 1\. von Ehe- oder Lebenspartnerin und Ehe- oder Lebenspartner sowie von eingetragener Partnerin oder eingetragenem Partner drei Tage;
   - 2\. von Kindern und Eltern drei Tage;
@@ -712,16 +749,37 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber kann die Dauer in Ausnahmefällen verlängern.
 
-[^66-1]: In Vollzug ab 1. Januar 2013.
-[^66-2]: In Vollzug ab 1. Januar 2013.
+#### Art. 66a
+
+**Vaterschaftsurlaub**
+
+<sup>1</sup> Mitarbeiter können nach Geburt eines Kindes zehn Tage Vaterschaftsurlaub innerhalb von sechs Monaten als bezahlten Urlaub beziehen. Bei einer Mehrlingsgeburt beträgt der Vaterschaftsurlaub 15 Tage.
+
+<sup>2</sup> Im Übrigen werden die Bestimmungen über die Vaterschaftsentschädigung in der Bundesgesetzgebung über die Erwerbsersatzordnung[^66a-1] sachgemäss angewendet. Die Leistungen der Erwerbsersatzordnung gehen im Ausmass der Lohnfortzahlung an den Kanton über.
+
+[^66a-1]: SR 834.
+
+#### Art. 66b
+
+**Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter können für die Betreuung ihres wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes einen Betreuungsurlaub von höchstens 14 Wochen innerhalb von 18 Monaten beziehen, sofern sie Anspruch auf eine Betreuungsentschädigung nach Art. 16n bis 16s des Bundesgesetzes über den Erwerbsersatz vom 25. September 1952[^66b-1] haben. Die Leistungen der Erwerbsersatzordnung gehen im Ausmass der Lohnfortzahlung an den Kanton über.
+
+[^66b-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de).
 
 #### Art. 67
 
+**…**
+
+#### Art. 67a
+
 **Öffentliches Amt**
 
-<sup>1</sup> Die Arbeitgeberin oder der Arbeitgeber kann für die Ausübung eines öffentlichen Amtes bezahlten Urlaub von höchstens fünfzehn Tagen je Jahr gewähren.
+<sup>1</sup> Ein öffentliches Amt übt aus, wer als Mitglied eines Parlamentes, einer Exekutive, eines Gerichtes, einer Kommission oder eines anderen Gremiums des Bundes, eines Kantons, einer Gemeinde, einer öffentlich-rechtlich anerkannten Religionsgemeinschaft oder einer anderen Körperschaft des öffentlichen Rechts tätig ist.
 
-<sup>2</sup> Die für die Ausübung des öffentlichen Amtes ausserhalb der Arbeitszeit aufgewendete Zeit wird nicht angerechnet.
+<sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber kann für die nebenamtlich oder ehrenamtlich erfolgende Ausübung eines öffentlichen Amtes bezahlten Urlaub von höchstens 15 Tagen je Amtsjahr gewähren.
+
+<sup>3</sup> Die für die Ausübung des öffentlichen Amtes ausserhalb der Arbeitszeit aufgewendete Zeit wird nicht angerechnet.
 
 ## V. Entschädigungen aus dem Arbeitsverhältnis
 
@@ -855,6 +913,66 @@ als Verordnung:[^ingress-2]
 - a) Urlaub nach Art. 66 dieses Erlasses;
 - b) die ersten drei Tage der Absenz wegen Krankheit oder Unfalls.
 
+#### Art. 78a
+
+**Änderung der Löhne**
+
+<sup>1</sup> Die Arbeitgeberinnen und Arbeitgeber von Mitarbeiterinnen und Mitarbeitern nach Art. 2 Abs. 2 Ziff. 1 des Personalgesetzes[^78a-1] werden vor einer Änderung der Löhne nach Art. 37 des Personalgesetzes[^78a-2] zur schriftlichen Vernehmlassung eingeladen.
+
+<sup>2</sup> Arbeitgeberinnen und Arbeitgeber von Mitarbeiterinnen und Mitarbeitern nach Art. 2 Abs. 2 Ziff. 1 des Personalgesetzes[^78a-3] können der Regierung Antrag auf eine Änderung der Löhne ihrer Mitarbeiterinnen und Mitarbeiter stellen.
+
+<sup>3</sup> Die Regierung kann für Mitarbeiterinnen und Mitarbeiter nach Art. 2 Abs. 2 Ziff. 1 des Personalgesetzes[^78a-4] eine Änderung der Löhne bestimmen, die von einer Änderung der Löhne von Mitarbeiterinnen und Mitarbeitern nach Art. 2 Abs. 1 und Art. 2 Abs. 2 Ziff. 2 des Personalgesetzes[^78a-5] abweicht. Sie berücksichtigt insbesondere die für die Arbeitgeberin oder den Arbeitgeber massgebliche Arbeitsmarktlage sowie die Finanzlage der Arbeitgeberin oder des Arbeitgebers.
+
+[^78a-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^78a-2]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^78a-3]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^78a-4]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^78a-5]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+
+#### Art. 78b
+
+**Besondere Bestimmungen für hauptamtliche und teilamtliche Richterinnen und Richter a) Grundsatz**
+
+<sup>1</sup> Für hauptamtliche und teilamtliche Richterinnen und Richter des Versicherungsgerichtes, der Kreisgerichte sowie der Verwaltungsrekurskommission werden Art. 73a bis 78 sowie Art. 173 dieses Erlasses nicht angewendet. Es gelten die Bestimmungen nach Art. 78c, 78d und 177 dieses Erlasses.
+
+<sup>2</sup> Die Besoldung von Richterinnen und Richter, die Magistratspersonen sind, richtet sich nach der Besoldungsverordnung für Magistratspersonen vom 3. September 2013[^78b-1].
+
+[^78b-1]: sGS [143.210](https://www.gesetzessammlung.sg.ch/data/143.210/de).
+
+#### Art. 78c
+
+**b) Besoldung 1. Ziellohn**
+
+<sup>1</sup> Hauptamtliche und teilamtliche Richterinnen und Richter des Versicherungsgerichtes erhalten einen Lohn von 80 Prozent der Besoldung nach Art. 3 Abs. 2 der Besoldungsverordnung für Magistratspersonen vom 3. September 2013[^78c-1].
+
+<sup>2</sup> Hauptamtliche und teilamtliche Richterinnen und Richter der Kreisgerichte und der Verwaltungsrekurskommission erhalten vorbehältlich von Abs. 3 dieser Bestimmung einen Lohn von 75 Prozent der Besoldung nach Art. 3 Abs. 2 der Besoldungsverordnung für Magistratspersonen vom 3. September 2013[^78c-2].
+
+<sup>3</sup> Hauptamtliche und teilamtliche Richterinnen und Richter der Kreisgerichte, die unter Ziff. 3 der Übergangsbestimmungen des IV. Nachtrags zum Gerichtsgesetz vom 1. Juni 2008[^78c-3] fallen, erhalten einen Lohn von 65 Prozent der Besoldung nach Art. 3 Abs. 2 der Besoldungsverordnung für Magistratspersonen vom 3. September 2013[^78c-4].
+
+<sup>4</sup> Der Lohn nach Abs. 1 bis 3 dieser Bestimmung wird als Ziellohn bezeichnet.
+
+[^78c-1]: sGS [143.210](https://www.gesetzessammlung.sg.ch/data/143.210/de).
+[^78c-2]: sGS [143.210](https://www.gesetzessammlung.sg.ch/data/143.210/de).
+[^78c-3]: nGS 44-52.
+[^78c-4]: sGS [143.210](https://www.gesetzessammlung.sg.ch/data/143.210/de).
+
+#### Art. 78d
+
+**2. Abstufung**
+
+<sup>1</sup> Den Ziellohn erhalten ab Amtsantritt Personen, die:
+
+- a) das 45. Altersjahr vollendet haben und
+- b) eine Richterfunktion in fester Anstellung mindestens 48 Monate ausgeübt haben.
+
+<sup>2</sup> Personen, die eines der beiden Kriterien nach Abs. 1 dieser Bestimmung nicht erfüllen, erhalten den Ziellohn abzüglich 7,5 Prozent. Der Abzug beträgt 15 Prozent für Personen, die beide Kriterien nicht erfüllen.
+
+<sup>3</sup> Der nach Abs. 2 dieser Bestimmung reduzierte Lohn erhöht sich auf den 1. Januar jedes Folgejahres um 3 Prozent des Ziellohns, bis er den Ziellohn erreicht.
+
+<sup>4</sup> Wird nach Amtsantritt eines der Kriterien nach Abs. 1 dieser Bestimmung erreicht und sind in der Folge beide Kriterien erfüllt, entspricht der Lohn ab dem 1. Januar des Folgejahres dem Ziellohn.
+
+<sup>5</sup> Wird nach Amtsantritt eines der Kriterien nach Abs. 1 dieser Bestimmung erreicht und ist in der Folge ein Kriterium erfüllt, wird für die Berechnung des Lohns ab dem 1. Januar des Folgejahres davon ausgegangen, dass jenes Kriterium schon bei Amtsantritt erfüllt war. Die weitere Lohnentwicklung richtet sich nach Abs. 3 und 4 dieser Bestimmung.
+
 ### b) Zulagen
 
 #### Art. 79
@@ -869,7 +987,7 @@ als Verordnung:[^ingress-2]
 
 **b) Begrenzung**
 
-<sup>1</sup> Den Eltern wird höchstens eine Geburtszulage je Kind ausgerichtet.
+<sup>1</sup> Den Eltern wird je Kind lediglich eine Geburtszulage nach diesem Erlass ausgerichtet.
 
 <sup>2</sup> Sind beide Elternteile anspruchsberechtigt, wird ihnen die Geburtszulage anteilmässig im Verhältnis ihres Beschäftigungsgrades ausgerichtet.
 
@@ -891,6 +1009,21 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Höhe der Zulage richtet sich nach Art, Umfang und Anforderungen der zusätzlichen Aufgaben, der leitenden Funktion oder der Ausübung der Stellvertretung.
 
+#### Art. 82a
+
+**c) Präsidialzulage Gerichte**
+
+<sup>1</sup> Als jährliche, vom Beschäftigungsgrad unabhängige Präsidialzulage erhält die Präsidentin oder der Präsident:
+
+- a) des Versicherungsgerichtes Fr. 7'200.–;
+- b) der Verwaltungsrekurskommission Fr. 6'600.–;
+- c) des Kreisgerichtes St.Gallen Fr. 6'600.–;
+- d) der übrigen Kreisgerichte jeweils Fr. 5'400.–.
+
+<sup>2</sup> Die Präsidialzulage für die Kantonsgerichtspräsidentin oder den Kantonsgerichtspräsidenten und die Verwaltungsgerichtspräsidentin oder den Verwaltungsgerichtspräsidenten richtet sich nach der Besoldungsverordnung für Magistratspersonen vom 3. September 2013[^82a-1].
+
+[^82a-1]: sGS [143.210](https://www.gesetzessammlung.sg.ch/data/143.210/de).
+
 #### Art. 83
 
 **Marktzulage a) Voraussetzungen**
@@ -901,9 +1034,9 @@ als Verordnung:[^ingress-2]
 
 **b) Befristung**
 
-<sup>1</sup> Die Marktzulage wird befristet und schrittweise herabgesetzt.
+<sup>1</sup> Die Marktzulage kann befristet und schrittweise herabgesetzt werden.
 
-<sup>2</sup> Sie kann vor Ablauf der Frist erhöht, gekürzt oder aufgehoben werden, wenn sich die Voraussetzungen für deren Ausrichtung verändert haben.
+<sup>2</sup> Sie wird alle zwei Jahre überprüft und auf Grundlage der Überprüfung erhöht, gekürzt oder aufgehoben, wenn sich die Voraussetzungen für deren Ausrichtung verändert haben.
 
 #### Art. 85
 
@@ -964,7 +1097,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Mitarbeiterinnen und Mitarbeiter des Strassenunterhaltsdienstes beziehen Inkonvenienzentschädigungen für:
 
-- a) Arbeit zwischen 20.00 und 05.00 Uhr sowie an Samstagen und Ruhetagen;
+- a) Arbeit zwischen 20.00 und 05.00 Uhr sowie an Werktagen ausserhalb der Dienstzeit, an Samstagen und an Ruhetagen;
 - b) Pikettdienst;
 - c) Arbeit unter erschwerten Bedingungen.
 
@@ -974,9 +1107,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 91
 
-**f) übrige Mitarbeiterinnen und Mitarbeiter**
-
-<sup>1</sup> Die übrigen Mitarbeiterinnen und Mitarbeiter beziehen Inkonvenienzentschädigungen, wenn ihr Jahreslohn weniger als Fr. 128'000.– beträgt.
+**…**
 
 #### Art. 92
 
@@ -996,7 +1127,7 @@ als Verordnung:[^ingress-2]
 
 **Ausrichtung bei Abwesenheit a) Grundsatz[^94-1]**
 
-<sup>1</sup> Die Ausrichtung der Inkonvenienzentschädigungen an Mitarbeiterinnen und Mitarbeiter nach Art. 89 Abs. 1, Art. 90 und 91 dieses Erlasses dauert fort:
+<sup>1</sup> Die Ausrichtung der Inkonvenienzentschädigungen an Mitarbeiterinnen und Mitarbeiter nach Art. 89 Abs. 1 und Art. 90 dieses Erlasses dauert fort:
 
 - a) während der Ferien;
 - b) bei Krankheit und Unfall;
@@ -1014,7 +1145,7 @@ als Verordnung:[^ingress-2]
 
 **b) Bemessung und Auszahlung[^95-1]**
 
-<sup>1</sup> Der Betrag der Inkonvenienzentschädigung entspricht dem Durchschnitt der im vorgegangenen Kalenderjahr oder, bei einer kürzeren Anstellungsdauer, der während der Anstellungsdauer ausgerichteten Inkonvenienzentschädigungen.
+<sup>1</sup> Der Betrag der Inkonvenienzentschädigung entspricht dem Durchschnitt der im vorhergehenden Kalenderjahr oder, bei einer kürzeren Anstellungsdauer, der während der Anstellungsdauer ausgerichteten Inkonvenienzentschädigungen.
 
 <sup>2</sup> Lässt sich der Durchschnitt nicht ermitteln, wird auf Erfahrungswerte abgestellt.
 
@@ -1030,7 +1161,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Monatlich werden ausbezahlt:
 
-- a) ein Dreizehntel des Jahreslohns;
+- a) ein Dreizehntel oder wahlweise ein Vierzehntel des Jahreslohns;
 - b) die Zulagen;
 - c) Inkonvenienzentschädigungen. Vorbehalten bleibt der besondere Auszahlungsmodus nach Art. 95 dieses Erlasses bei Abwesenheit der Mitarbeiterin oder des Mitarbeiters;
 - d) der Stundenlohn aufgrund der im Vormonat geleisteten Arbeit.
@@ -1039,11 +1170,16 @@ als Verordnung:[^ingress-2]
 
 #### Art. 97
 
-**13. Monatslohn**
+**13. und 14. Monatslohn**
 
 <sup>1</sup> Der 13. Monatslohn wird je zur Hälfte im Juni und Dezember ausbezahlt.
 
 <sup>2</sup> Der Mitarbeiter kann innerhalb eines Jahres nach der Geburt eines eigenen Kindes den 13. Monatslohn ganz oder zur Hälfte als bezahlten Urlaub beziehen.
+
+<sup>3</sup> Wählt eine Mitarbeiterin oder ein Mitarbeiter die monatliche Auszahlung eines Vierzehntels des Jahreslohns:
+
+- a) richtet sich die Auszahlung des 14. Monatslohns nach Abs. 1 dieser Bestimmung;
+- b) gilt die festgelegte Variante während eines Kalenderjahres. Änderungen erfolgen auf Jahresbeginn.
 
 #### Art. 98
 
@@ -1051,9 +1187,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Der Arbeitsvertrag kann vorsehen, dass der Lohn teilweise als Naturalleistung in Form von verbilligter oder unentgeltlicher Verpflegung oder von verbilligter oder unentgeltlicher Bereitstellung einer Dienstwohnung ausgerichtet wird.
 
-<sup>2</sup> Das Finanzdepartement legt für Dienstwohnungen den für die Bewertung der Naturalleistung massgebenden Wert fest. Im Übrigen werden für die Bewertung von Naturalleistungen die steuerrechtlichen Bestimmungen über Bemessung der Naturalbezüge bei Ermittlung des steuerbaren Einkommens sachgemäss angewendet.[^98-1]
-
-[^98-1]: Vgl. insbesondere Art. [10](https://www.gesetzessammlung.sg.ch/data/811.11/de/art10.) der Steuerverordnung, sGS [811.11](https://www.gesetzessammlung.sg.ch/data/811.11/de).
+<sup>2</sup> …
 
 ### 2. Lohnfortzahlung
 
@@ -1070,6 +1204,10 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Während der Probezeit besteht der Anspruch auf Lohnfortzahlung infolge Krankheit während eines Monats.
 
 <sup>2</sup> Die Verlängerung der Probezeit bewirkt keine Verlängerung der Dauer des Anspruchs.
+
+<sup>3</sup> Während der Probezeit im Anschluss an einen Stellenwechsel innerhalb des Geltungsbereichs von Art. 2 Abs. 1 und 2 des Personalgesetzes[^100-1] richtet sich der Anspruch auf Lohnfortzahlung infolge Krankheit nach Art. 99 dieses Erlasses.
+
+[^100-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 101
 
@@ -1115,6 +1253,8 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Bei wiederholter Arbeitsunfähigkeit infolge Unfalls innert fünf Jahren wegen desselben Unfallereignisses beträgt die Lohnfortzahlung 100 Prozent des Lohns, bis die gesamte Dauer der Arbeitsunfähigkeit zwölf Monate betragen hat. Danach beträgt die Lohnfortzahlung während weiterer zwölf Monate 80 Prozent des Lohns.
 
+<sup>2</sup> …
+
 #### Art. 106
 
 **Anrechenbarer Lohn**
@@ -1127,6 +1267,12 @@ als Verordnung:[^ingress-2]
 
 [^106-1]: Abs. 3 in Vollzug ab 1. Januar 2013.
 
+#### Art. 106a
+
+**Nettolohnausgleich**
+
+<sup>1</sup> Treten an die Stelle des Lohns Lohnersatzleistungen, darf die Auszahlung bei Arbeitsausfall nicht grösser sein, als die Auszahlung bei Arbeitsleistung wäre. Dabei werden die bei Arbeitsleistung und Arbeitsausfall unterschiedlichen Beiträge berücksichtigt, insbesondere die bei Arbeitsausfall entfallenden Sozialversicherungsbeiträge.
+
 #### Art. 107
 
 **Kürzung oder Einstellung**
@@ -1138,6 +1284,18 @@ als Verordnung:[^ingress-2]
 **Abtretung von Lohnersatzansprüchen**
 
 <sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter tritt dem Kanton Lohnersatzansprüche gegenüber Dritten bis zum Betrag der Lohnfortzahlung ab.
+
+<sup>2</sup> Werden wegen Krankheit oder Unfall Renten der obligatorischen Unfallversicherung, der Invalidenversicherung oder der Militärversicherung zugesprochen, hat der Kanton das Recht, den Lohn, den er trotz vollständiger oder teilweiser Arbeitsunfähigkeit geleistet hat, bis zum Betrag der für die entsprechende Periode nachzuzahlenden Renten beim Versicherer zurückzufordern.
+
+#### Art. 108a
+
+**Erwerbsausfallentschädigung**
+
+<sup>1</sup> Bei Dienstleistungen nach [Art. 51](https://www.gesetzessammlung.sg.ch/data/143.1/de/art51) des Personalgesetzes[^108a-1] hat die Mitarbeiterin oder der Mitarbeiter Anspruch auf die Erwerbsausfallentschädigung für einzelne Diensttage, die sie oder er an arbeitsfreien Tagen, nicht aber in den Ferien, leistet.
+
+<sup>2</sup> Die Mitarbeiterin oder der Mitarbeiter fordert die Erwerbsausfallentschädigung in Fällen nach Abs. 1 dieser Bestimmung bei der Ausgleichskasse selbst ein. Ein Lohnfortzahlungsanspruch besteht für die betroffenen einzelnen Diensttage nicht.
+
+[^108a-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 109
 
@@ -1170,6 +1328,12 @@ als Verordnung:[^ingress-2]
 
 - a) Prämien an die Nichtberufsunfallversicherung;
 - b) anteilmässige Kosten für die Fallbewirtschaftung.
+
+#### Art. 111a
+
+**Sozialplan**
+
+<sup>1</sup> Das zuständige Organ der selbständigen öffentlich-rechtlichen Anstalt kann der Regierung Antrag auf Erlass oder Anpassung eines Sozialplans stellen.
 
 ### 3. Treueprämie
 
@@ -1230,8 +1394,11 @@ als Verordnung:[^ingress-2]
 - b) höchstens ein geringes Verschulden der Mitarbeiterin oder des Mitarbeiters vorliegt;
 - c) die Beendigung des Arbeitsverhältnisses eine Kürzung der Rente aus der beruflichen Vorsorge zur Folge hat;
 - d) keine Leistungen nach Massgabe eines nach Art. 55 des Personalgesetzes[^116-1] erlassenen Sozialplans ausgerichtet werden.
+- e) die Lohnfortzahlung infolge Krankheit nach Art. 47 des Personalgesetzes[^116-2] oder infolge Unfall nach Art. 48 des Personalgesetzes[^116-3] nicht ausgeschöpft wurde.
 
 [^116-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^116-2]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+[^116-3]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 117
 
@@ -1270,6 +1437,19 @@ als Verordnung:[^ingress-2]
 **Anrechenbarer Lohn**
 
 <sup>1</sup> Der für den Lohnnachgenuss anrechenbare Lohn bemisst sich nach dem Beschäftigungsgrad im Zeitpunkt des Todes einschliesslich 13. Monatslohn, Inkonvenienzentschädigung sowie Sozial-, Funktions- und Marktzulagen.
+
+## V<sup>bis</sup>. Ablieferung finanzieller Abgeltungen
+
+#### Art. 119a
+
+**Grundsatz**
+
+<sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter liefert nicht im Lohn enthaltene finanzielle Abgeltungen durch Dritte für Tätigkeiten, die nach Vereinbarung mit der Arbeitgeberin oder dem Arbeitgeber in der Arbeitszeit ausgeübt werden können, an die Arbeitgeberin oder den Arbeitgeber ab. Ausgenommen sind Abgeltungen für öffentliche Ämter nach Art. 67a Abs. 1 dieses Erlasses.
+
+<sup>2</sup> Die Bestimmungen der Verordnung über die Höhe, Ausrichtung und Ablieferung von Vergütungen im Zusammenhang mit der Einsitznahme in Organe von Organisationen mit kantonaler Beteiligung (Vergütungsverordnung) vom 6. Oktober 2015[^119a-1] sowie der Besoldungsverordnung für Magistratspersonen vom 3. September 2013[^119a-2] bleiben vorbehalten.
+
+[^119a-1]: sGS [145.2](https://www.gesetzessammlung.sg.ch/data/145.2/de).
+[^119a-2]: sGS [143.210](https://www.gesetzessammlung.sg.ch/data/143.210/de).
 
 ## VI. Spesenersatz
 
@@ -1335,13 +1515,29 @@ als Verordnung:[^ingress-2]
 
 **Öffentliche Verkehrsmittel**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter benützen für Dienstreisen nach Möglichkeit öffentliche Verkehrsmittel.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter benützen für Dienstreisen grundsätzlich öffentliche Verkehrsmittel.
 
 <sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber rechnet den Mitarbeiterinnen und Mitarbeitern die Kosten von privat erworbenen Abonnementen ganz oder teilweise als Spesen an.
 
+#### Art. 125a
+
+**Geschäftsfahrzeuge**
+
+<sup>1</sup> Als Geschäftsfahrzeuge gelten die von der Arbeitgeberin oder dem Arbeitgeber für Dienstfahrten zur Verfügung gestellten oder vermittelten Fahrzeuge.
+
+<sup>2</sup> Stehen für Dienstfahrten keine geeigneten öffentlichen Verkehrsmittel zur Verfügung oder ist deren Benützung aus betrieblichen Gründen nicht zweckmässig oder nicht zumutbar, werden grundsätzlich Geschäftsfahrzeuge verwendet.
+
+#### Art. 125b
+
+**Privatfahrzeuge a) Verwendung**
+
+<sup>1</sup> Die Benützung von Privatfahrzeugen für Dienstfahrten ist in Ausnahmefällen zulässig, insbesondere wenn keine geeigneten öffentlichen Verkehrsmittel oder Geschäftsfahrzeuge zur Verfügung stehen oder deren Benützung aus betrieblichen Gründen nicht zweckmässig oder nicht zumutbar ist.
+
+<sup>2</sup> Die Benützung von Privatfahrzeugen für Dienstfahrten bedarf der Zustimmung der oder des Vorgesetzten.
+
 #### Art. 126
 
-**Privatfahrzeuge a) Kilometerentschädigung**
+**b) Kilometerentschädigung**
 
 <sup>1</sup> Für Dienstfahrten mit Privatfahrzeugen wird eine Kilometerentschädigung ausgerichtet.
 
@@ -1349,17 +1545,15 @@ als Verordnung:[^ingress-2]
 
 #### Art. 127
 
-**b) Personenwagen[^127-1]**
+**c) Personenwagen**
 
 <sup>1</sup> Die Vergütung für die Benützung des eigenen Personenwagens beträgt je Kilometer:
 
-- a) bis 5000 Kilometer im Kalenderjahr: Rp. 78
-- b) von 5001 bis 10 000 Kilometer im Kalenderjahr: Rp. 65
-- c) über 10 000 Kilometer im Kalenderjahr: Rp. 56
+- a) bis 5000 Kilometer im Kalenderjahr: Rp. 70
+- b) von 5001 bis 10 000 Kilometer im Kalenderjahr: Rp. 60
+- c) über 10 000 Kilometer im Kalenderjahr: Rp. 55
 
 <sup>2</sup> Die Arbeitgeberin oder der Arbeitgeber kann Mitarbeiterinnen und Mitarbeitern im Einvernehmen mit dem Personalamt einen Zuschlag von fünf Rappen je Kilometer ausrichten, wenn der Personenwagen vorwiegend unter besonders schwierigen Verhältnissen eingesetzt wird.
-
-[^127-1]: Abs. 1 in Vollzug ab 1. Januar 2013.
 
 #### Art. 128
 
@@ -1414,7 +1608,7 @@ als Verordnung:[^ingress-2]
   - 5\. Leiterin oder Leiter Koordinationsstelle für Aussenbeziehungen;
 - b) …
 - c) im Finanzdepartement der Leiterin oder des Leiters Personal- und Organisationsentwicklung;
-- d) im Baudepartement der Strasseninspektorin oder des Strasseninspektors;
+- d) …
 - e) im Gesundheitsdepartement von:
   - 1\. Kantonsärztin oder Kantonsarzt;
   - 2\. Kantonstierärztin oder Kantonstierarzt;
@@ -1461,7 +1655,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Verhandlungen über Gegenstände, die mehrere Personalverbände betreffen, werden in der Regel mit der Personalverbändekonferenz geführt.
 
-<sup>2</sup> Das Departement kann Verhandlungen mit einzelnen Personalverbänden über Gegenstände führen, die das Personal nach Massgabe des Geschäftskreises dieses Departementes[^136-1] betreffen, soweit die Regierung keine andere Regelung trifft. Es kann das Personalamt beiziehen.
+<sup>2</sup> Das Departement oder das strategische Leitungsorgan der selbständigen öffentlich-rechtlichen Anstalt kann Verhandlungen mit einzelnen Personalverbänden über Gegenstände führen, die das Personal nach Massgabe des Geschäftskreises dieses Departementes[^136-1] oder dieser Anstalt betreffen, soweit die Regierung keine andere Regelung trifft. Das Departement oder das strategische Leitungsorgan der selbständigen öffentlich-rechtlichen Anstalt kann das Personalamt beiziehen.
 
 <sup>3</sup> Mitarbeiterinnen und Mitarbeitern wird die Teilnahme an Sitzungen der Personalverbändekonferenz und der Verhandlungsdelegation sowie, wenn die Regierung oder das Finanzdepartement einlädt, an weiteren Sitzungen im Rahmen der Sozialpartnerschaft als Arbeitszeit angerechnet.
 
@@ -1510,6 +1704,8 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Das Personalamt sowie die Dienststellen von Departement, Staatskanzlei, Gericht und anderer Justizbehörde arbeiten zusammen und erteilen gegenseitig die für die Aufgabenerfüllung erforderlichen Auskünfte.
 
 <sup>2</sup> Es arbeitet nach Massgabe von Leistungsvereinbarungen mit selbständigen öffentlich-rechtlichen Anstalten zusammen. Die Leistungsvereinbarungen werden zwischen dem Personalamt und dem zuständigen Organ der selbständigen öffentlich-rechtlichen Anstalten im Einvernehmen mit dem Departement, dem die selbständige öffentlich-rechtliche Anstalt zugeordnet ist, abgeschlossen.
+
+<sup>3</sup> Abs. 2 dieser Bestimmung wird sachgemäss auch auf die Zusammenarbeit mit weiteren Arbeitgeberinnen und Arbeitgebern angewendet, für die das Personalamt Lohnverwaltung und Lohnauszahlung besorgt.
 
 #### Art. 142
 
@@ -1700,6 +1896,14 @@ als Verordnung:[^ingress-2]
 
 <sup>3</sup> Bei Säumnis beider Vertragsparteien schreibt die Schlichtungsstelle in Personalsachen das Verfahren als gegenstandslos ab.
 
+#### Art. 159a
+
+**Kosten des Schlichtungsverfahrens**
+
+<sup>1</sup> Die Kosten des Schlichtungsverfahrens werden den Arbeitgeberinnen und Arbeitgebern, die das kantonale Personalrecht nach besonderen rechtlichen Grundlagen anwenden, nach dem tatsächlichen Aufwand verrechnet.
+
+<sup>2</sup> Das Personalamt nimmt die jährliche Abrechnung vor.
+
 #### Art. 160
 
 **Ergänzendes Recht**
@@ -1832,5 +2036,29 @@ als Verordnung:[^ingress-2]
 <sup>2</sup> Bestehende Arbeitsverträge sowie Verfügungen, mit denen bestehende Dienstverhältnisse vor Vollzugsbeginn des Personalgesetzes[^175-1] begründet wurden, bedürfen keiner Anpassung an Art. 3 Bst. e dieses Erlasses.
 
 [^175-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
+
+#### Art. 176
+
+**Übergangsbestimmung des IV. Nachtrags vom 14. August 2018[^176-1]**
+
+<sup>1</sup> Für Überzeitguthaben, die am 31. Dezember 2018 bestehen, werden die Bestimmungen der Personalverordnung vom 13. Dezember 2011[^176-2] in der Fassung vor Vollzugsbeginn dieses Nachtrags angewendet.
+
+[^176-1]: nGS 2018-050.
+[^176-2]: sGS [143.11](https://www.gesetzessammlung.sg.ch/data/143.11/de).
+
+#### Art. 177
+
+**Übergangsbestimmungen des VII. Nachtrags vom 10. September 2019**
+
+<sup>1</sup> Liegt der Jahreslohn einer Richterin oder eines Richters, auf die oder den die Bestimmungen nach Art. 78b bis Art. 78d dieses Erlasses anwendbar sind, am 1. Januar 2020 oberhalb des Ziellohns, wird:
+
+- a) er per 1. Juni 2023 auf den Ziellohn, höchstens aber um Fr. 6'500.– gesenkt;
+- b) der Richterin oder dem Richter ab dem Jahr 2020 eine allfällige allgemeine Lohnerhöhung nach Art. 37 f. des Personalgesetzes[^177-1] nur bis zur Höhe des Ziellohns nach der allgemeinen Lohnerhöhung gewährt.
+
+<sup>2</sup> Für eine Richterin oder einen Richter, für die oder den grundsätzlich ein reduzierter Ziellohn nach Art. 78d dieses Erlasses zur Anwendung käme, wird der Lohn auf den 1. Januar 2020 und in den Folgejahren so berechnet, als hätte das Ziellohnmodell nach Art. 78c und Art. 78d dieses Erlasses bereits bei Amtsantritt gegolten.
+
+<sup>3</sup> Abs. 1 Bst. a dieser Bestimmung wird nicht angewendet auf Richterinnen und Richter, die vor dem 1. Januar 2020 das 60. Altersjahr vollendet haben.
+
+[^177-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 nGS 47–32
