@@ -3,20 +3,19 @@ canton: LU
 number: 542l
 title: Reglement über den Zertifikatsstudiengang (Certificate of Advanced Studies) Philosophie + Medizin an der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern
 language: de
-version: 2018-08-01
-valid_until: 2021-07-31
-version_adopted: 2018-04-25
+version: 2021-08-01
+version_adopted: 2021-06-23
 adopted: 2010-12-17
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/542l"
-pdf: "https://srl.lu.ch/api/de/versions/3287/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3772/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über den Zertifikatsstudiengang (Certificate of Advanced Studies) Philosophie + Medizin an der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern
 
-vom 17.12.2010 (Stand 01.08.2018)
+vom 17.12.2010 (Stand 01.08.2021)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -48,7 +47,7 @@ beschliesst:
 
 <sup>1</sup> Der CAS Philosophie + Medizin wird im Auftrag der Kultur- und Sozialwissenschaftlichen Fakultät unter der Verantwortung eines ordentlichen Professors oder einer ordentlichen Professorin der Fakultät (wissenschaftliche Gesamtleitung) sowie eines Co-Leiters oder einer Co-Leiterin (operative Studienleitung) durchgeführt. Diese werden von der Fakultät eingesetzt und bilden gemeinsam die Studienleitung.
 
-<sup>2</sup> Zur Durchführung kann die Studienleitung Partnerschaften mit anderen Institutionen aus der akademischen Lehre und Forschung eingehen.
+<sup>2</sup> Zur Durchführung kann die Studienleitung Partnerschaften mit anderen Institutionen aus der akademischen Lehre und Forschung sowie mit Organisationen und Vereinen ähnlicher Zielsetzung wie der Zertifikatsstudiengang eingehen.
 
 #### § 3
 
@@ -58,7 +57,7 @@ beschliesst:
 
 <sup>2</sup> Der Studiengang ist modular aufgebaut. Jedes Modul enthält vier thematische Einheiten (Seminare). Der gesamte Studiengang umfasst 3 frei wählbare Module plus 2 Methodikseminare. Ein Seminar besteht aus Präsenzstunden (jeweils 1 Kurstag) sowie Vor- und Nachbereitungszeit.
 
-<sup>3</sup> Zusätzlich zur Absolvierung der Module muss eine schriftliche Arbeit (Zertifikatsarbeit) erstellt werden.
+<sup>3</sup> Zur Absolvierung der Module gehört ein schriftlicher Leistungsnachweis.
 
 <sup>4</sup> Im Studiengang sind Studienleistungen im Umfang von 13 ECTS-Punkten wie folgt zu erbringen:
 
