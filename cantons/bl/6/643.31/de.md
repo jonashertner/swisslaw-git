@@ -3,20 +3,20 @@ canton: BL
 number: "643.31"
 title: Verordnung über die Abschlussprüfungen der Fachmittelschule an den Gymnasien
 language: de
-version: 2018-08-01
-valid_until: 2021-07-31
-version_adopted: 2018-05-15
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-06-29
 adopted: 2007-12-18
 in_force: 2007-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/643.31"
-pdf: "https://bl.clex.ch/api/de/versions/3052/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3055/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Abschlussprüfungen der Fachmittelschule an den Gymnasien
 
-Vom 18.12.2007 (Stand 01.08.2018)
+Vom 18.12.2007 (Stand 01.08.2021)
 
 Der Regierungsrat,
 
@@ -103,71 +103,123 @@ beschliesst:
 
 **Obligatorische Fächer und Noten**
 
-<sup>1</sup> Für den Prüfungserfolg sind die Noten in den folgenden Fächern sowie im Berufsfeld und in der Selbständigen Arbeit massgebend:
+<sup>1</sup> Für den Prüfungserfolg sind die Noten in den folgenden Fächern und in der Selbständigen Arbeit massgebend:
 
-- a. Deutsch;
-- b. Französisch;
-- c. Mathematik;
-- d. Englisch;
-- e. Biologie;
-- f. Sport;
-- g. Geschichte;
-- h. Geographie;
-- i. Bildnerisches Gestalten (Noten aus dem 2. Schuljahr);
-- j. Musik (Noten aus dem 2. Schuljahr);
-- k. Berufsfeld;
-- l. Selbständige Arbeit.
+- a. für alle Berufsfelder:
+  - 1\. Deutsch;
+  - 2\. Französisch;
+  - 3\. Mathematik;
+  - 4\. Englisch;
+  - 5\. Biologie;
+  - 6\. Sport;
+  - 7\. Geschichte;
+  - 8\. Geografie;
+  - 9\. Selbständige Arbeit;
+- b. zusätzlich im Berufsfeld Gesundheit/Naturwissenschaften:
+  - 1\. Bildnerisches Gestalten (aus dem 2. Schuljahr);
+  - 2\. Humanbiologie;
+  - 3\. Chemie;
+  - 4\. Physik;
+  - 5\. Berufsfeld-Plus-Kurse (Durchschnitt);
+- c. zusätzlich im Berufsfeld Soziale Arbeit:
+  - 1\. Bildnerisches Gestalten und Musik (Durchschnitt aus dem 2. Schuljahr);
+  - 2\. Wirtschaft und Recht;
+  - 3\. Pädagogik/Psychologie;
+  - 4\. Soziologie;
+  - 5\. Berufsfeld-Plus-Kurse (Durchschnitt);
+- d. zusätzlich im Berufsfeld Pädagogik:
+  - 1\. Bildnerisches Gestalten (aus dem berufsfeldbezogenen Unterricht);
+  - 2\. Chemie;
+  - 3\. Physik;
+  - 4\. Musik;
+  - 5\. Berufsfeld-Plus-Kurs;
+- e. zusätzlich im Berufsfeld Gestaltung und Kunst:
+  - 1\. Bildnerisches Gestalten (aus dem berufsfeldbezogenen Unterricht);
+  - 2\. Musik (aus dem 2. Schuljahr);
+  - 3\. Kunstbetrachtung (aus dem 2. Schuljahr);
+  - 4\. Kunstprojekt;
+  - 5\. Berufsfeld-Plus-Kurse (Durchschnitt);
+- f. zusätzlich im Berufsfeld Musik:
+  - 1\. Bildnerisches Gestalten (aus dem 2. Schuljahr);
+  - 2\. Musik;
+  - 3\. Instrument;
+  - 4\. Kunstprojekt;
+  - 5\. Berufsfeld-Plus-Kurse (Durchschnitt);
+- g. …
+- h. …
+- i. …
+- j. …
+- k. …
+- l. …
 
 #### § 8
 
 **Prüfungsfächer, Art und Dauer der Prüfungen**
 
-<sup>1</sup> Prüfungen finden in den folgenden Stammfächern statt:
+<sup>1</sup> Es finden Prüfungen in 4 Stammfächern statt. Folgende Stammfachprüfungen sind obligatorisch:
 
 - a. Deutsch — 4 Std. schriftlich und 15 Min. mündlich;
 - b. Französisch — 3 Std. schriftlich und 15 Min. mündlich;
 - c. Mathematik — 3 Std. schriftlich und 15 Min. mündlich;
-- d. Englisch — 15 Min. mündlich;
-- e. Biologie — 15 Min. mündlich;
-- f. Geschichte — 15 Min. mündlich;
-- g. Geographie — 15 Min. mündlich;
-- h. ...
-- i. ...
-- j. Sport — 30 Min. praktisch;
-- k. ...
+- d. …
+- e. …
+- f. …
+- g. …
+- h. …
+- i. …
+- j. …
+- k. …
 
-<sup>2</sup> Jede Kandidatin und jeder Kandidat wird in 4 Stammfächern geprüft.
+<sup>2</sup> Die 4. Prüfung kann von der Kandidatin oder dem Kandidaten aus den folgenden Stammfächern gewählt werden:
 
-<sup>3</sup> Die Prüfungen in den Fächern Deutsch, Französisch und Mathematik sind obligatorisch.
+- a. Englisch — 15 Min. mündlich;
+- b. Biologie — 15 Min. mündlich;
+- c. Geschichte — 15 Min. mündlich;
+- d. Geografie — 15 Min. mündlich;
+- e. Sport — 30 Min. praktisch.
 
-<sup>4</sup> Für die 4. Prüfung wird das Stammfach von dem Kandidaten oder der Kandidatin gewählt. Dabei sind folgende Kombinationen ausgeschlossen:
+<sup>3</sup> …
 
-- a. Biologie im Berufsfeld Gesundheit;
-- b. Musik oder Bildnerisches Gestalten in den Berufsfeldern Kunst und Pädagogik.
+<sup>4</sup> Im Berufsfeld Gesundheit/Naturwissenschaften kann die 4. Prüfung nicht im Fach Biologie abgelegt werden.
 
-<sup>5</sup> Prüfungen finden in den folgenden Berufsfeldern statt:
-
-- a. Berufsfeld Pädagogik:
-  - 1\. Bildnerisches Gestalten — 4 Std.;
-  - 2\. Musik — 30 Min. (falls der Berufsfeld-Ergänzungskurs Instrument besucht wurde, kann das Instrument in die Prüfung integriert werden);
-- b. Berufsfeld Gesundheit
-  - 1\. Biologie Gesundheit — 3 Std. schriftlich;
-  - 2\. Physik oder Chemie — 15 Min. mündlich;
-- c. Berufsfeld Kunst:
-  - 1\. Bildnerisches Gestalten — 4 Std. praktisch;
-  - 2\. Kunstbetrachtung — 15 Min. mündlich; oder
-  - 3\. Musik — 30 Min. mündlich;
-  - 4\. Instrument — 15 Min. praktisch;
-- d. Berufsfeld Soziales:
-  - 1\. Wirtschaft und Recht — 3 Std. schriftlich;
-  - 2\. Pädagogik /Psychologie oder Soziale Fragestellungen — 15 Min. mündlich.
-
-<sup>6</sup> Die Kandidaten und Kandidatinnen werden in 2 Fächern ihres Berufsfeldes geprüft. Dabei haben sie folgende Wahlmöglichkeiten:
-
-- a. in den Berufsfeldern Gesundheit und Soziales das mündliche Prüfungsfach;
+- a. …
 - b. …
 
-<sup>7</sup> Über die Integration des Instruments in die Prüfung gemäss Absatz 5 Buchstabe a Ziffer 2 entscheidet der Kandidat oder die Kandidatin.
+<sup>5</sup> Prüfungen finden weiter in den folgenden berufsfeldbezogenen Fächern statt:
+
+- a. im Berufsfeld Pädagogik:
+  - 1\. Bildnerisches Gestalten oder Musik — 4 Std praktisch (Bildnerisches Gestalten) oder 30 Min. praktisch (Musik);
+  - 2\. Chemie oder Physik — 15 Min. mündlich;
+- b. im Berufsfeld Gesundheit/Naturwissenschaften
+  - 1\. 2 Fächer aus Humanbiologie, Chemie oder Physik — 15 Min. mündlich;
+  - 2\. …
+- c. im Berufsfeld Gestaltung und Kunst:
+  - 1\. Bildnerisches Gestalten — 4 Std. praktisch;
+  - 2\. Kunstbetrachtung — 15 Min. mündlich (Prüfung findet am Ende des 2. Schuljahres statt);
+  - 3\. …
+  - 4\. …
+- d. im Berufsfeld Soziale Arbeit
+  - 1\. 2 Fächer aus Wirtschaft und Recht, Psychologie/Pädagogik oder Soziologie — 15 Min. mündlich;
+  - 2\. …
+- e. im Berufsfeld Musik
+  - 1\. Musik — 30 Min. mündlich;
+  - 2\. Instrument — 15 Min. praktisch.
+
+<sup>6</sup> …
+
+<sup>7</sup> Falls das Freifach Instrument besucht wurde, kann das Instrument in die Prüfung im Fach Musik gemäss Abs. 5 Bst. a Ziff. 1 integriert werden. Über die Integration entscheidet die Kandidatin oder der Kandidat.
+
+#### § 8a
+
+**Selbständige Arbeit**
+
+<sup>1</sup> Im Rahmen der Selbständigen Arbeit sollen die Schülerinnen und Schüler nachweisen, dass sie fähig sind, eine anspruchsvolle Aufgabenstellung aus dem berufsfeldbezogenen Bereich selbständig zu lösen und zu präsentieren.
+
+<sup>2</sup> Das Verfassen der Selbständigen Arbeit und die Präsentation erfolgen innerhalb eines klar definierten Zeitraums und werden von einer oder mehreren Lehrpersonen begleitet.
+
+<sup>3</sup> Eine verspätete Abgabe kann zu einer Reduktion der erreichten Note der schriftlichen Arbeit von bis zu 3 Notenpunkten führen. Schülerinnen und Schüler, die ihre Selbständige Arbeit wegen Krankheit, Unfall oder anderen zwingenden Gründen nicht fristgerecht einreichen können, melden dies unverzüglich der Prüfungsleitung. Diese entscheidet über begründete Ausnahmen und legt den Termin einer späteren Abgabe fest.
+
+<sup>4</sup> Die Schulleitungskonferenz erlässt die Ausführungsbestimmungen zu den Selbständigen Arbeiten.
 
 #### § 9
 
@@ -304,10 +356,11 @@ beschliesst:
 
 **Erteilung des Fachmittelschul-Ausweises**
 
-<sup>1</sup> Der Fachmittelschul-Ausweis wird erteilt, wenn:
+<sup>1</sup> Der Fachmittelschul-Ausweis wird erteilt, wenn die 3 nachfolgenden Bedingungen erfüllt sind :
 
-- a. in den 12 Abschlussnoten die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben;
-- b. in den 12 Abschlussnoten nicht mehr als 3 Noten unter 4 erteilt wurden.
+- a. höchstens 3 Noten unter 4;
+- b. der Durchschnitt aus allen Noten beträgt mindestens 4.0;
+- c. die Summe der Notenabweichungen von 4.0 nach unten beträgt nicht mehr als 2.0 Punkte.
 
 #### § 21
 
@@ -341,6 +394,7 @@ beschliesst:
 - b. die Bezeichnung der Schule, die ihn ausstellt;
 - c. den Namen, Vornamen, Bürgerort (für Ausländer und Ausländerinnen: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers;
 - d. die Angabe der Zeit, während welcher die Fachmittelschule regelmässig besucht wurde, mit Datum des Ein- und Austritts;
+- d<sup>bis</sup>. die Bezeichnung des Berufsfelds;
 - e. die Bestätigung und Bewertung der Fächer der Allgemeinbildung;
 - f. die Bestätigung und Bewertung der belegten berufsfeldbezogenen Fächer;
 - g. das Thema und die Bewertung der Selbständigen Arbeit;
@@ -355,13 +409,15 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Durch die nach dem Erwerb des Fachmittelschul-Ausweises zusätzlich erbrachten Leistungen weisen sich die Schülerinnen und Schüler der Berufsfelder Gesundheit, Soziales und Kunst über die Reife aus, die der Besuch einer dem Berufsfeld entsprechenden Fachhochschule erfordert. Die Schülerinnen und Schüler des Berufsfelds Pädagogik erbringen mit dem erfolgreichen Abschluss des Fachmaturitätskurses Pädagogik den Nachweis über die geforderte Reife und weisen sich über die zusätzlich zum Fachmittelschul-Ausweis geforderte erweiterte Allgemeinbildung aus.
+<sup>1</sup> Durch die nach dem Erwerb des Fachmittelschul-Ausweises zusätzlich erbrachten Leistungen weisen sich die Schülerinnen und Schüler der Berufsfelder Gesundheit/Naturwissenschaften, Soziale Arbeit, Gestaltung und Kunst sowie Musik über die Reife aus, die der Besuch einer dem Berufsfeld entsprechenden Fachhochschule erfordert. Die Schülerinnen und Schüler des Berufsfelds Pädagogik erbringen mit dem erfolgreichen Abschluss des Fachmaturitätskurses Pädagogik den Nachweis über die geforderte Reife und weisen sich über die zusätzlich zum Fachmittelschul-Ausweis geforderte erweiterte Allgemeinbildung aus.
 
 #### § 26
 
 **Zeitpunkt der Prüfungen**
 
-<sup>1</sup> Die zusätzlichen praktischen Leistungen für die Fachmaturitäten in den Berufsfeldern Gesundheit, Kunst und Soziales sowie die zusätzliche Allgemeinbildung für Pädagogik sowie das Verfassen der Fachmaturitätsarbeit werden in der Regel nach dem Erwerb des Fachmittelschul-Ausweises erbracht.
+<sup>1</sup> Die zusätzlichen praktischen Leistungen für die Fachmaturitäten in den Berufsfeldern Gesundheit/Naturwissenschaften, Soziale Arbeit, Musik, Gestaltung und Kunst sowie die zusätzliche Allgemeinbildung für Pädagogik und das Verfassen der Fachmaturitätsarbeit werden in der Regel nach dem Erwerb des Fachmittelschul-Ausweises erbracht.
+
+<sup>1<sup>bis</sup></sup> In begründeten Fällen kann ein zeitlicher Unterbruch von höchstens 3 Jahren nach Erhalt des Fachmittelschulausweise akzeptiert werden.
 
 <sup>2</sup> ...
 
@@ -376,31 +432,33 @@ beschliesst:
 - a. die Hauptaufschrift: Kanton Basel Landschaft; als Untertitel «Fachmaturitätszeugnis», mit dem Vermerk «gesamtschweizerisch anerkanntes Fachmaturitätszeugnis»;
 - b. die Bezeichnung der Schule, die ihn ausstellt;
 - c. den Namen, Vornamen, Bürgerort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin oder des Inhabers;
+- c<sup>bis</sup>. das gewählte Berufsfeld;
 - d. die Bestätigung und Bewertung der Fächer der Allgemeinbildung;
 - e. die Bestätigung und Bewertung der belegten berufsfeldbezogenen Fächer;
 - f. das Thema und die Bewertung der Selbständigen Arbeit;
-- g. die Bestätigung und Beurteilung der praktischen Leistungen oder der ergänzten Allgemeinbildung für den Zugang zu den Pädagogischen Hochschulen;
+- g. die Bestätigung und Beurteilung der zusätzlichen Leistungen oder der ergänzten Allgemeinbildung für den Zugang zu den Pädagogischen Hochschulen;
 - h. das Thema und die Beurteilung der Fachmaturitätsarbeit;
 - i. die Unterschrift der Schulleitung und der Vorsteherin oder des Vorstehers der Bildungs-, Kultur- und Sportdirektion sowie
 - k. den Ort der Fachmittelschule und das Datum.
 
-## 2.2 Fachmaturität für die Berufsfelder Gesundheit, Kunst und Soziales
+## 2.2 Fachmaturität für die Berufsfelder Gesundheit/Naturwissenschaften, Soziale Arbeit, Gestaltung und Kunst sowie Musik
 
 #### § 28
 
-**Praktische Leistungen**
+**Zusätzliche Leistungen**
 
-<sup>1</sup> Als praktische Leistungen gelten:
+<sup>1</sup> Als zusätzliche Leistungen gelten:
 
-- a. für das Berufsfeld Gesundheit: ein berufsspezifisches Praktikum;
-- b. für das Berufsfeld Soziales: eine qualifizierte Arbeitspraxis;
-- c. für das Berufsfeld Kunst: gestalterischer Vorkurs, gestalterische Arbeitspraxis oder Instrumental-, Gesangs- und Theaterunterricht.
+- a. für das Berufsfeld Gesundheit/Naturwissenschaften: ein berufsspezifisches Praktikum;
+- b. für das Berufsfeld Soziale Arbeit: eine qualifizierte Arbeitspraxis;
+- c. für das Berufsfeld Gestaltung und Kunst: ein gestalterischer Vorkurs oder eine gestalterische Arbeitspraxis;
+- d. für das Berufsfeld Musik: Instrumental-, Gesangs- oder Theaterunterricht oder das Absolvieren des jeweiligen Vorkurses.
 
-<sup>2</sup> Über die Anerkennung der praktischen Leistungen entscheidet die SLK auf der Grundlage der Vorgaben der Schweizerischen Erziehungsdirektoren Konferenz (EDK) für die Fachmaturität.
+<sup>2</sup> Über die Dauer und Anerkennung der zusätzlichen Leistungen entscheidet die SLK auf der Grundlage der Vorgaben der Schweizerischen Erziehungsdirektoren Konferenz (EDK) für die Fachmaturität.
 
-<sup>3</sup> Für die praktischen Leistungen kann die SLK Kooperationsvereinbarungen eingehen.
+<sup>3</sup> Für die zusätzlichen Leistungen kann die SLK Kooperationsvereinbarungen eingehen.
 
-<sup>4</sup> Die Leiterkonferenz der Fachmittelschule überwacht in Zusammenarbeit mit Praktikums- und Ausbildungsinstitutionen die praktischen Leistungen der Schülerinnen und Schüler.
+<sup>4</sup> Die Leiterkonferenz der Fachmittelschule überwacht in Zusammenarbeit mit Praktikums- und Ausbildungsinstitutionen die zusätzlichen Leistungen der Schülerinnen und Schüler.
 
 #### § 29
 
@@ -455,9 +513,9 @@ beschliesst:
 
 #### § 33
 
-**Praktische Leistungen**
+**Zusätzliche Leistung**
 
-<sup>1</sup> Als praktische Leistung gilt im Berufsfeld Pädagogik ein einsemestriger Unterricht in allgemeinbildenden Fächern.
+<sup>1</sup> Als zusätzliche Leistung gilt im Berufsfeld Pädagogik ein einsemestriger Unterricht in allgemeinbildenden Fächern.
 
 #### § 34
 
@@ -666,6 +724,14 @@ beschliesst:
 
 [^51a-1]: GS 36.457
 [^51a-2]: GS 37.533
+
+#### § 51b
+
+**Übergangsbestimmungen zur Änderung vom 29. Juni 2021**
+
+<sup>1</sup> Für die Schülerinnen und Schüler, die bis und mit Schuljahr 2020/21 in die FMS eingetreten sind, gelten die Bestimmungen gemäss der am 1. August 2018 gültigen Fassung.
+
+<sup>2</sup> Bei Remotionen oder anderen Verzögerungen der schulischen Laufbahn sowie bei Beschleunigungen derselben kommen die Bestimmungen für die entsprechenden Jahrgangsstufe zur Anwendung.
 
 #### § 52
 
