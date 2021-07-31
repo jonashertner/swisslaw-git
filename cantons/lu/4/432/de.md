@@ -3,20 +3,20 @@ canton: LU
 number: "432"
 title: Verordnung zum Gesetz über die Berufsbildung und die Weiterbildung
 language: de
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-06-16
+version: 2021-08-01
+valid_until: 2021-08-31
+version_adopted: 2021-05-18
 adopted: 2006-06-06
 in_force: 2006-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/432"
-pdf: "https://srl.lu.ch/api/de/versions/3617/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3775/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die Berufsbildung und die Weiterbildung
 
-vom 06.06.2006 (Stand 01.08.2020)
+vom 06.06.2006 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -801,7 +801,7 @@ beschliesst:
 - a. die Kompetenzen, die ausserhalb üblicher Bildungsgänge durch berufliche oder ausserberufliche Praxiserfahrung erworben worden sind, zusammengestellt und dokumentiert sind (Selbstevaluation) und
 - b. diese Kompetenzen durch die zuständige Validierungsbehörde institutionell überprüft und anerkannt worden sind (Fremdevaluation).
 
-<sup>3</sup> Die Gesuchstellerinnen und Gesuchsteller haben sich an den Kosten des Validierungsverfahrens mit 750 Franken zu beteiligen.
+<sup>3</sup> Das Validierungsverfahren ist unentgeltlich.
 
 #### § 69
 
@@ -811,7 +811,7 @@ beschliesst:
 
 <sup>2</sup> Sie prüft die Voraussetzungen, welche die Lernenden mitbringen, und legt die noch zu erbringenden Lernleistungen fest.
 
-<sup>3</sup> Wer in der Nachholbildung eine Berufsfachschule besucht, hat ein Schulgeld zu entrichten. Lernende mit Wohnsitz im Kanton Luzern, die eine ausserkantonale Berufsfachschule besuchen, leisten eine Kostenbeteiligung in der Höhe jenes Schulgeldes, welches sie beim Besuch eines entsprechenden Angebotes im Kanton Luzern entrichten würden.
+<sup>3</sup> Lernende, die für die Nachholbildung eine Berufsfachschule besuchen, haben kein Schulgeld zu entrichten.
 
 ## 7 Beratungsangebote
 
@@ -1018,9 +1018,7 @@ beschliesst:
 
 #### § 87a
 
-**Übergangsbestimmung der Änderung vom 19. September 2017**
-
-<sup>1</sup> Für Lernende, welche die Nachholbildung vor dem 1. August 2018 an einer Berufsfachschule begonnen haben, gilt § 69 Absatz 3 in der Fassung vom 1. August 2017.
+**…**
 
 #### § 88
 
