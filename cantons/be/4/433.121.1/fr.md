@@ -4,13 +4,13 @@ number: "433.121.1"
 title: Ordonnance de Direction sur les écoles moyennes
 short: ODEM
 language: fr
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-07-09
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-07-06
 adopted: 2017-06-16
 in_force: 2017-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/433.121.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1935/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2340/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1935/pdf_file"
 
 (ODEM)
 
-du 16.06.2017 (état au 01.08.2020)
+du 16.06.2017 (état au 01.08.2021)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -38,6 +38,8 @@ arrête:
 <sup>1</sup> La présente ordonnance de Direction réglemente les filières de formation proposées par des prestataires cantonaux.
 
 <sup>2</sup> Les dispositions relatives aux certificats de maturité, d’école de culture générale et de maturité spécialisée reconnus ainsi qu’à l’examen complémentaire permettant aux titulaires d’un certificat fédéral de maturité professionnelle ou d’un certificat de maturité spécialisée reconnu à l’échelle suisse d’être admis aux hautes écoles universitaires s’appliquent aux filières de formation délivrant des titres reconnus proposées par des prestataires privés.
+
+<sup>3</sup> Les dispositions relatives aux compétences disciplinaires de base requises pour les études supérieures s’appliquent également aux formations gymnasiales dispensées par des institutions privées.
 
 ### 1.2 Evaluation des prestations
 
@@ -65,12 +67,13 @@ arrête:
 
 **Notes de bulletin**
 
-<sup>1</sup> La note de bulletin correspond à l’évaluation des prestations dans une discipline ou un domaine disciplinaire sur l’ensemble de la période d’évaluation. Elle est calculée à partir des différentes notes individuelles obtenues à l’écrit, à l’oral ou pour des travaux pratiques ainsi que pour des contributions fournies lors des cours.
+<sup>1</sup> La note de bulletin correspond à l’évaluation des prestations dans une discipline sur l’ensemble de la période d’évaluation. Elle est calculée à partir des différentes notes individuelles obtenues à l’écrit, à l’oral ou pour des travaux pratiques ainsi que pour des contributions fournies lors des cours.
 
-<sup>2</sup> La note de bulletin dans les disciplines ou domaines disciplinaires qui comportent plusieurs branches se calcule de la manière suivante:
+<sup>2</sup> La note de bulletin dans les disciplines qui comportent plusieurs branches se calcule de la manière suivante:
 
-- a si des notes partielles sont octroyées aux branches, elles ont toutes le même poids; elles sont arrondies à un chiffre après la virgule et la note générale résulte de la moyenne arithmétique des notes partielles;
-- b s’il n’est pas attribué de notes partielles, les branches sont prises en compte en fonction du nombre de leçons qui leur sont consacrées.
+- a si, dans la formation gymnasiale, des notes partielles sont attribuées aux branches, elles ont toutes le même poids; elles sont arrondies à un chiffre après la virgule et la note générale résulte de la moyenne arithmétique des notes partielles, les notes générales X,25 et X,75 étant arrondies vers le haut;
+- b si, dans la formation gymnasiale, il n’est pas attribué de notes partielles aux branches, les branches sont prises en compte en fonction du nombre de leçons qui leur sont consacrées;
+- c si, dans la formation en école de culture générale, des notes partielles sont attribuées aux branches, elles ont toutes le même poids; elles sont arrondies à la note entière ou à la demi-note et la note générale résulte de la moyenne arithmétique des notes partielles, les notes partielles et les notes générales X,25 et X,75 étant arrondies vers le haut.
 
 <sup>3</sup> Sur une période d’évaluation d’un semestre, au moins deux notes réparties sur l’ensemble de la période d’évaluation doivent être attribuées dans toutes les disciplines.
 
@@ -171,7 +174,7 @@ arrête:
 
 <sup>2</sup> La direction d’école notifie les résultats par voie de décision au nom de la commission d’examen.
 
-<sup>3</sup> Les résultats de la maturité spécialisée orientation Santé et de la maturité spécialisée orientation Travail social sont validés sans qu’une séance telle que visée à l’alinéa 1 ne soit organisée.
+<sup>3</sup> Les résultats de la maturité spécialisée orientation Santé et de la maturité spécialisée orientation Travail social sont validés par l’enseignant ou l’enseignante responsable et l’expert ou l’experte compétente sans qu’une séance telle que visée à l’alinéa 1 ne soit organisée.
 
 ### 1.5 Admissions
 
@@ -203,18 +206,25 @@ arrête:
 
 <sup>1</sup> Un ou une élève peut être admise à titre exceptionnel en dehors des périodes d’admission prescrites uniquement s’il ou si elle fréquente et pourrait continuer à fréquenter la même formation sanctionnée par un titre de fin d’études reconnu sur le plan suisse ou une formation étrangère préparant aux mêmes institutions de formation subséquentes que la filière visée et
 
-- a si de justes motifs personnels tels qu’un changement de domicile rendent un changement d’école nécessaire ou
-- b si les conditions de la fréquentation d’une filière soutenant des talents particuliers ne sont plus réunies.
+- a si de justes motifs personnels tels qu’un changement de domicile rendent un changement d’école nécessaire;
+- b si les conditions de la fréquentation d’une filière soutenant des talents particuliers ne sont plus réunies ou
+- c si l’encouragement d’un talent particulier nouvellement attesté rend nécessaire le changement d’école.
 
-<sup>2</sup> Les décisions d’admission d’autres cantons sont reconnues. Si l’élève est issu d’un gymnase dont le certificat de maturité est reconnu sur le plan suisse, la décision de promotion de l’école dont l’élève est issu est reprise.
+<sup>2</sup> Les décisions d’admission d’autres cantons sont reconnues. Si l’élève est issu d’un gymnase dont le certificat de maturité est reconnu sur le plan suisse ou d’une école de culture générale dont le certificat d’école de culture générale est reconnu sur le plan suisse, la décision de promotion de l’école dont l’élève est issu est reprise.
 
 <sup>3</sup> Lorsque le domicile légal en matière de subsides de formation de l’élève est situé dans un autre canton, l’admission n’est en outre possible que si une garantie de prise en charge des frais a été émise et que des places sont encore disponibles dans la filière visée. Les accords intercantonaux sur les contributions aux frais d’enseignement sont réservés.
 
-<sup>4</sup> Si l’élève ne remplit pas les conditions visées à l’alinéa 1, la direction d’école peut, dans des cas motivés, procéder à une admission sur dossier après s’être assurée que l'élève soit apte à suivre la filière visée.
+<sup>4</sup> Si l’élève ne remplit pas les conditions visées à l’alinéa 1, la direction d’école peut, dans des cas motivés, procéder à une admission sur dossier après s’être assurée que l'élève est apte à suivre la filière visée.
 
 <sup>5</sup> Les limites d’âge s’appliquent par analogie lors des admissions extraordinaires.
 
 <sup>6</sup> La direction d’école décide dans quelle année de la formation l’élève doit être admis. Ce dernier ou cette dernière est consultée.
+
+#### Art. 14a
+
+**Admission aux périodes d’admission ordinaires des élèves nouvellement installés dans le canton**
+
+<sup>1</sup> Les élèves nouvellement installés dans le canton peuvent être admis à la première ou à l’avant-dernière année de la formation uniquement s’ils ont été admis dans la même filière d’une école délivrant un titre de fin d’études reconnu sur le plan suisse ou dans la filière d’une école étrangère qui prépare aux mêmes institutions de formation subséquentes ou s’ils fréquentent et pourraient continuer à fréquenter une telle filière.
 
 #### Art. 15
 
@@ -238,13 +248,13 @@ arrête:
 
 **Statut d'auditeur ou d'auditrice**
 
-<sup>1</sup> Dans des cas particuliers, notamment lorsqu’un ou une élève ne dispose pas des compétences linguistiques suffisantes pour suivre correctement l’enseignement, le statut d’auditeur ou d’auditrice peut lui être accordé dans une filière pluriannuelle. Ce statut est en règle générale accordé pour une durée d’un an.
+<sup>1</sup> Dans des cas particuliers, notamment lorsqu’un ou une élève ne dispose pas des compétences linguistiques suffisantes pour suivre correctement l’enseignement, le statut d’auditeur ou d’auditrice peut lui être accordé dans une filière pluriannuelle. Ce statut est en règle générale accordé jusqu’à la fin de l’année scolaire en cours.
 
 <sup>2</sup> Après la moitié de la durée en question, l’élève et ses parents sont informés du niveau des prestations atteint.
 
 <sup>3</sup> A la fin de la durée en question, la direction d’école statue sur l’admission de l’élève avec période probatoire ou sur son exclusion.
 
-<sup>4</sup> La direction d’école peut prolonger d’un an le statut d’auditeur ou d’auditrice.
+<sup>4</sup> La direction d’école peut prolonger d’une année scolaire le statut d’auditeur ou d’auditrice.
 
 <sup>5</sup> Le statut d’auditeur ou d’auditrice ne peut pas être accordé en troisième et quatrième année de la formation gymnasiale.
 
@@ -252,7 +262,7 @@ arrête:
 
 **Elèves invités**
 
-<sup>1</sup> Les élèves invités peuvent fréquenter une filière pluriannuelle pendant un an au maximum.
+<sup>1</sup> La direction d’école peut autoriser à des élèves invités la fréquentation d’une filière pluriannuelle pendant un an au maximum.
 
 <sup>2</sup> Ils reçoivent une attestation de fréquentation des cours. S’ils le désirent, un rapport portant sur leurs prestations peut leur être délivré.
 
@@ -263,6 +273,8 @@ arrête:
 **Promotions**
 
 <sup>1</sup> Dans les filières pluriannuelles, les promotions ont lieu, après admission définitive, à la fin de chaque année sur la base de l’évaluation globale des prestations fournies au cours de la période d’évaluation visée. Il n’y a pas de promotion à la fin de la dernière année.
+
+<sup>1a</sup> Les promotions sont valables pour l’année scolaire ou le semestre qui suit.
 
 <sup>2</sup> La direction d’école statue sur les promotions.
 
@@ -309,9 +321,9 @@ arrête:
 - a les notes de bulletin des disciplines déterminantes pour l’évaluation globale des prestations;
 - b dans certaines disciplines, la mention éventuelle «évalué d’après des objectifs d’apprentissage individuels»;
 - c dans la formation gymnasiale, en sport, la mention éventuelle «dispensé», si une dispense est nécessaire pour des raisons médicales ou si une dispense a été délivrée dans le cadre de l’encouragement des talents particuliers;
-- d les notes de bulletin ou l’attestation de la fréquentation d’autres cours obligatoires et de disciplines facultatives;
+- d les notes de bulletin ou l’attestation de la fréquentation d’autres cours obligatoires et de disciplines facultatives, complétés éventuellement de la mention «au niveau d’exigences de la discipline comptant pour la promotion»;
 - e la mention «bulletin suffisant» ou «bulletin insuffisant» en fonction de l’évaluation globale des prestations et la décision de promotion prononcée conformément à l’article 18;
-- f le nombre d’absences excusées et non excusées conformément aux articles 131 à 133;
+- f le nombre d’absences excusées et non excusées conformément aux articles 131 à 133, à l’exception des filières de formation qui sont spécifiquement axées sur les besoins des adultes;
 - g une indication des voies de droit et
 - h les signatures de la direction d’école en tant qu’autorité décisionnaire et du maître ou de la maîtresse de classe.
 
@@ -319,7 +331,7 @@ arrête:
 
 - a les notes des branches,
 - b des remarques relatives à l’attitude face au travail et à l’apprentissage,
-- c la mention correspondante en cas de maturité bilingue,
+- c la mention correspondante en cas de maturité bilingue, avec indication de la langue d’immersion et des disciplines enseignées en immersion,
 - d une mention spécifique en cas de fréquentation d’un programme d’encouragement de talents particuliers.
 
 <sup>4</sup> L’élève majeur ou les parents de l’élève mineur certifient en avoir pris connaissance en y apposant leur signature.
@@ -330,13 +342,15 @@ arrête:
 
 **Rapport intermédiaire et évaluation formative**
 
-<sup>1</sup> Après le premier semestre d’une filière pluriannuelle, l’élève reçoit, outre un bulletin, une évaluation formative telle que prévue à l’alinéa 4.
+<sup>1</sup> Après le premier semestre d’une filière pluriannuelle, l’élève reçoit, outre un bulletin, une évaluation formative.
 
-<sup>2</sup> A partir de la deuxième année de formation, l’élève reçoit un rapport intermédiaire à la fin du premier semestre de chaque année. Celui-ci contient les notes obtenues jusque-là ainsi qu’une évaluation formative.
+<sup>2</sup> A partir de la deuxième année de formation, l’élève reçoit un rapport intermédiaire à la fin du premier semestre de chaque année. Celui-ci contient les notes obtenues jusque-là, une évaluation formative et les absences.
 
 <sup>3</sup> Au moment où le rapport intermédiaire est établi, l’élève a obtenu au moins une note dans chaque discipline enseignée jusque-là.
 
-<sup>4</sup> Une évaluation formative est donnée au minimum dans les disciplines dans lesquelles l’élève a obtenu des notes insuffisantes jusque-là.
+<sup>4</sup> L’évaluation formative porte au minimum sur les disciplines dans lesquelles l’élève a obtenu des notes insuffisantes jusque-là.
+
+<sup>5</sup> Dans les filières ECG, l’évaluation formative porte en outre sur l’attitude face au travail et à l’apprentissage.
 
 #### Art. 22
 
@@ -510,26 +524,33 @@ arrête:
 
 **Procédure d’admission, inscription**
 
-<sup>1</sup> Les admissions en première année de la filière gymnasiale bilingue proposée dans les gymnases des régions de Bienne-Seeland et de Bienne-Jura bernois des élèves de deuxième année de la «section préparant aux écoles de maturité (section p)» d’une école publique du canton de Berne ont lieu sur la base de l’évaluation de cette école.
+<sup>1</sup> Dans les écoles publiques de la partie francophone du canton, l’admission en première année de la filière gymnasiale bilingue a lieu à la fin de la deuxième année du degré secondaire I sur la base de l’évaluation réalisée par l’autorité compétente de l’école dont proviennent les élèves. Il n’y a pas d’examen d’admission.
 
 <sup>2</sup> Les élèves concernés doivent en outre avoir leur domicile légal dans une commune ayant conclu un contrat avec le canton portant sur la filière gymnasiale bilingue.
 
-<sup>3</sup> Les parents inscrivent leur enfant auprès de la direction de l’école dont il provient au moyen d’un formulaire spécifique à remettre au plus tard fin janvier.
+<sup>3</sup> Les parents inscrivent leur enfant auprès de la direction de l’école dont il provient au moyen d’un formulaire spécifique à remettre au plus tard début décembre.
 
 #### Art. 38
 
-**Admission sans examen des élèves de deuxième année du degré secondaire I**
+**Evaluation, décision d’admission**
 
-<sup>1</sup> Est admis sans examen en première année de la filière gymnasiale bilingue l’élève de la «section préparant aux écoles de maturité (section p)» qui, à la fin du premier semestre de la deuxième année du degré secondaire I,
+<sup>1</sup> Les élèves sont admis s’ils sont affectés à la «section préparant aux écoles de maturité (section p)» à la fin du premier semestre de la deuxième année du degré secondaire I et s’ils satisfont aux exigences ci-après.
 
-- a satisfait aux exigences suivantes en français, en allemand et en mathématiques: trois niveaux A (dont au moins une note supérieure ou égale à 5 si aucune des autres notes n’est insuffisante, mais avec deux notes supérieures ou égales à 5 si la troisième est insuffisante) ou deux niveaux A (note supérieure ou égale à 5 pour chacun) et un niveau B (avec une note suffisante);
-- b a le niveau A en allemand avec une note supérieure ou égale à 4;
-- c obtient une note supérieure ou égale à 4,5 dans la majorité des autres disciplines obligatoires et
-- d n’obtient pas plus d’une note inférieure à 4 dans les autres disciplines obligatoires.
+<sup>1a</sup> Les élèves doivent
 
-<sup>2</sup> Il n’y a pas d’examen d’admission.
+- a se voir attribuer le niveau A en allemand et obtenir au minimum la note 4 et soit
+- b se voir attribuer le niveau A en français, en allemand et en mathématiques et
+  - 1\. obtenir la note 5 ou plus dans au moins deux disciplines ou
+  - 2\. obtenir la note 5 ou plus dans au moins une discipline et n’obtenir aucune note inférieure à 4 dans les deux autres disciplines, soit
+- c se voir attribuer le niveau A dans deux disciplines parmi le français, l’allemand et les mathématiques, obtenir la note 5 ou plus dans ces deux disciplines et obtenir une note qui n’est pas inférieure à 4 dans la troisième discipline.
 
-<sup>3</sup> A la fin du premier semestre de la deuxième année du degré secondaire I, l’autorité compétente de l’école dont proviennent les élèves constitue, pour chaque élève inscrit, un dossier d’information au sens de l’article 34 à l’intention de la direction d’école du gymnase compétent.
+<sup>1b</sup> L’attribution des niveaux et l’évaluation des compétences disciplinaires s’appuient sur les critères de l’ODED.
+
+<sup>1c</sup> L’évaluation des compétences disciplinaires se fonde sur les performances du semestre précédent.
+
+<sup>2</sup> L’admission a lieu à condition que l’élève fréquente le second semestre de l’avant-dernière année du degré secondaire I dans la «section préparant aux écoles de maturité (section p)».
+
+<sup>3</sup> A la fin du premier semestre de la deuxième année du degré secondaire I, l’autorité compétente de l’école dont proviennent les élèves notifie l’admission par voie de décision.
 
 <sup>4</sup> Les élèves concernés intègrent la première année de la filière gymnasiale bilingue pour une période probatoire.
 
@@ -602,7 +623,7 @@ arrête:
 
 **Admission aux filières conduisant à une maturité bilingue**
 
-<sup>1</sup> Les admissions aux filières conduisant à une maturité bilingue ont lieu en règle générale au début de la première année de la formation gymnasiale. Les conditions d’admission sont les mêmes que celles fixées pour la filière gymnasiale ordinaire de la partie linguistique concernée du canton. Les articles 37 à 40 sont réservés.
+<sup>1</sup> Les admissions aux filières conduisant à une maturité bilingue ont lieu en règle générale au début de la première année de la formation gymnasiale. Les conditions d’admission et les compétences sont les mêmes que celles fixées pour la filière gymnasiale ordinaire de la partie linguistique concernée du canton. Les articles 37 à 40 sont réservés.
 
 <sup>2</sup> La direction de l’école d’accueil peut, pour de justes motifs, autoriser une admission ultérieure à une filière conduisant à une maturité bilingue pour autant que les conditions de promotion soient satisfaites.
 
@@ -612,10 +633,12 @@ arrête:
 
 <sup>1</sup> En cas de restrictions d’admission aux filières conduisant à une maturité bilingue, les admissions ont lieu,
 
-- a dans la partie germanophone du canton, en fonction du classement établi entre les candidats et les candidates sur la base de la moyenne des notes de bulletin qu’ils ont obtenues en allemand, français et mathématiques au premier semestre de l’année scolaire du degré secondaire I précédant l’admission;
-- b dans la partie francophone du canton, en fonction du classement établi entre les candidats et les candidates sur la base de l’évaluation qu’ils ont obtenue au terme du premier semestre de l’année scolaire dans la «section préparant aux écoles de maturité (section p)» précédant l’admission.
+- a dans la partie germanophone du canton, en fonction du classement établi entre les candidats et les candidates sur la base de la moyenne des notes de bulletin qu’ils ont obtenues en allemand, français et mathématiques dans le dernier bulletin du degré secondaire I délivré avant l’admission,
+- b dans la partie francophone du canton, en fonction du classement établi entre les candidats et les candidates sur la base de l’évaluation qu’ils ont obtenue dans le dernier bulletin délivré dans la «section préparant aux écoles de maturité (section p)» avant l’admission.
 
 <sup>2</sup> Pour l’admission aux filières soutenant des talents particuliers, les critères déterminants sont en premier lieu les résultats au test d’aptitudes et, en deuxième lieu, les critères énoncés à l’alinéa 1.
+
+<sup>3</sup> La direction de l’école d’accueil statue sur l’admission.
 
 #### Art. 47
 
@@ -629,7 +652,9 @@ arrête:
 - b pour les admissions et le passage dans le domaine de vocation Arts visuels et arts appliqués, un résultat positif au test d’aptitudes organisé avec le concours d’experts et d’expertes de la section correspondante d’une haute école;
 - c pour les admissions et le passage dans le domaine de vocation Sport, une attestation que l’élève a le potentiel pour mener une carrière nationale et une évaluation positive sur ses chances de réussir à concilier école et entraînement.
 
-<sup>3</sup> La direction de l’école d’accueil peut, pour de justes motifs, autoriser une admission ultérieure à une filière soutenant des talents particuliers pour autant que les conditions de promotion ainsi que les conditions énoncées à l’alinéa 2 soient satisfaites.
+<sup>2a</sup> La direction de l’école d’accueil statue sur l’admission.
+
+<sup>3</sup> Elle peut, pour de justes motifs, autoriser une admission ultérieure à une filière soutenant des talents particuliers pour autant que les conditions de promotion ainsi que les conditions énoncées à l’alinéa 2 soient satisfaites.
 
 #### Art. 48
 
@@ -708,7 +733,7 @@ arrête:
 
 <sup>3</sup> La direction d’école peut autoriser au plus un redoublement dans la filière à vocation particulière pour de justes motifs tels qu’une longue maladie ou des circonstances personnelles importantes.
 
-<sup>4</sup> La langue d’immersion ainsi que les disciplines enseignées dans cette langue sont indiquées dans le bulletin.
+<sup>4</sup> …
 
 ### 2.2.3 Filières soutenant des talents particuliers
 
@@ -780,9 +805,9 @@ arrête:
 
 <sup>2</sup> Est promu définitivement au quatrième semestre quiconque a obtenu un bulletin suffisant pour le troisième semestre et a fréquenté régulièrement l’enseignement dans toutes les disciplines. Les dispenses au sens de l’article 132 sont réservées.
 
-<sup>3</sup> Une période probatoire d’un semestre s’applique aux personnes promues au quatrième semestre. Sur demande motivée, la direction d’école peut en outre promouvoir au quatrième semestre avec période probatoire des personnes qui ont obtenu un bulletin insuffisant pour le troisième semestre.
+<sup>3</sup> Sur demande motivée, la direction d’école peut en outre promouvoir au quatrième semestre avec période probatoire des personnes qui ont obtenu un bulletin insuffisant pour le troisième semestre.
 
-<sup>4</sup> Une évaluation globale des prestations est réalisée au quatrième semestre pour chaque personne promue à ce semestre avec période probatoire. Si l’évaluation est suffisante, la personne est admise définitivement. Dans le cas contraire, elle doit quitter la filière. La direction d'école peut, sur demande, autoriser la personne en formation à rester dans l’école en proposant,
+<sup>4</sup> Une évaluation globale des prestations est réalisée au quatrième semestre pour chaque personne promue à ce semestre avec période probatoire. Si l’évaluation est suffisante, la personne est admise définitivement. Dans le cas contraire, elle doit quitter la filière. La direction d’école peut, sur demande, autoriser la personne en formation à rester dans l’école en proposant,
 
 - a pour les personnes admises au quatrième semestre en vertu de l’article 49, alinéa 3, une prolongation de la période probatoire à l’ensemble de l’année scolaire ou un redoublement au début du troisième semestre;
 - b pour les personnes admises au quatrième semestre malgré un bulletin insuffisant pour le troisième semestre, un redoublement au début du troisième semestre.
@@ -797,7 +822,7 @@ arrête:
 
 <sup>1</sup> Les examens permettant d’accéder au deuxième et au troisième semestres peuvent être répétés une fois.
 
-<sup>2</sup> A compter du début du troisième semestre, les personnes non promues préalablement admises à titre définitif ont le droit de répéter une année de formation, les redoublements prononcés en vertu de l’article 58, alinéa 4 étant toutefois pris en compte.
+<sup>2</sup> A compter du troisième semestre, les personnes non promues qui sont préalablement admises à titre définitif ont le droit de répéter une année de formation, les redoublements prononcés en vertu de l’article 58, alinéa 4 étant toutefois pris en compte.
 
 ### 2.2.5 Compétences disciplinaires de base requises pour les études supérieures
 
@@ -825,15 +850,17 @@ arrête:
 
 <sup>1</sup> La note attribuée pour le travail de maturité prend en compte la démarche suivie, le texte rédigé et sa présentation.
 
-<sup>2</sup> Elle est communiquée au candidat ou à la candidate par voie de décision au plus tard six semaines avant le début des examens de maturité.
+<sup>2</sup> La direction d’école notifie par voie de décision au candidat ou à la candidate au plus tard six semaines avant le début des examens de maturité la note attribuée pour le travail de maturité.
+
+<sup>3</sup> Dans les écoles moyennes privées délivrant un certificat de maturité reconnu, la direction d’école arrête la note du travail de maturité par voie de décision.
 
 #### Art. 61
 
 **Inscription aux examens de maturité**
 
-<sup>1</sup> Les candidats et les candidates s’inscrivent aux examens de maturité auprès de leur direction d’école au plus tard fin mars. Ce faisant, ils s’acquittent de la taxe d’examen.
+<sup>1</sup> Les candidats et les candidates s’inscrivent aux examens de maturité auprès de leur direction d’école au plus tard mi-février. Ce faisant, ils s’acquittent de la taxe d’examen.
 
-<sup>2</sup> L’inscription peut être retirée jusqu’à 14 jours avant le début des examens de maturité.
+<sup>2</sup> L’inscription peut être retirée jusqu’à 30 jours avant le début des examens de maturité.
 
 #### Art. 62
 
@@ -912,9 +939,11 @@ arrête:
 
 <sup>4</sup> Si les examens sont répartis sur deux sessions d’examens, la première langue et les mathématiques sont évaluées dans le cadre de la seconde.
 
+<sup>4a</sup> Les résultats de la première session d’examens sont notifiés par voie de décision après la clôture de cette session d’examens.
+
 <sup>5</sup> Même s’ils sont répartis sur deux sessions d’examens, les examens de maturité sont considérés comme un tout.
 
-<sup>6</sup> Les candidats et candidates qui échouent aux examens de maturité répètent la dernière année de formation dans le cadre de la filière gymnasiale ordinaire correspondante.
+<sup>6</sup> Les candidats et les candidates qui échouent aux examens de maturité répètent directement après leur échec la dernière année de formation dans le cadre de la filière gymnasiale ordinaire correspondante.
 
 #### Art. 69
 
@@ -936,9 +965,9 @@ arrête:
 
 <sup>1</sup> Dans les cinq disciplines d’examen, la note de maturité correspond à la moyenne arithmétique arrondie au point ou au demi-point de la note de contrôle continu et de la note d’examen. Les notes X,25 et X,75 sont arrondies vers le haut.
 
-<sup>2</sup> La note de maturité attribuée pour le travail de maturité est la note communiquée par voie de décision conformément à l’article 60, alinéa 2.
+<sup>2</sup> La note de maturité attribuée pour le travail de maturité est la note notifiée par voie de décision conformément à l’article 60.
 
-<sup>3</sup> Dans les autres disciplines de maturité, la note de maturité correspond à la note de contrôle continu arrondie au point ou au demi-point. Les notes X,25 et X,75 sont arrondies vers le haut.
+<sup>3</sup> Dans les autres disciplines de maturité, la note de maturité correspond à la note de contrôle continu.
 
 #### Art. 71
 
@@ -961,7 +990,7 @@ arrête:
 
 <sup>4</sup> Il comporte une mention spéciale pour les élèves qui ont suivi jusqu’au bout l’enseignement d’autres disciplines au niveau de la maturité.
 
-<sup>5</sup> Il est signé par le directeur ou la directrice de l’instruction publique, le président ou la présidente de la CCM ainsi que par le membre de la direction d’école représentant l’école vis-à-vis de l’extérieur en tant que recteur ou rectrice.
+<sup>5</sup> Il est signé par le directeur ou la directrice de l’instruction publique et de la culture, par le président ou la présidente de la CCM ainsi que par le membre de la direction d’école représentant l’école vis-à-vis de l’extérieur en tant que recteur ou rectrice.
 
 #### Art. 73
 
@@ -975,7 +1004,7 @@ arrête:
 
 ### 3.1.1 Admissions
 
-### 3.1.1.1 Admission des élèves de troisième année du degré secondaire I en première année d’une filière ECG
+### 3.1.1.1 Admission des élèves en première année d’une filière ECG
 
 #### Art. 74
 
@@ -1097,33 +1126,66 @@ arrête:
 
 <sup>1</sup> Les dispositions de l’article 47 sont applicables par analogie à l’encouragement de talents particuliers dans les filières ECG ordinaires.
 
-### 3.1.2 Notes de bulletin, bulletin et promotions
+### 3.1.2 Notes de bulletin, bulletin, promotions et choix du domaine professionnel
 
 #### Art. 84
 
 **Filières ECG ordinaires**
 
-<sup>1</sup> Les notes de bulletin des disciplines ou domaines disciplinaires suivants permettent de déterminer si les prestations fournies durant une période d’évaluation sont considérées comme suffisantes ou insuffisantes:
+<sup>1</sup> Les notes de bulletin des disciplines et des branches ci-après sont déterminantes dans l’évaluation globale des prestations fournies durant la période d’évaluation considérée:
 
-- a première langue nationale,
-- b deuxième langue nationale,
-- c troisième langue,
-- d mathématiques,
-- e domaine disciplinaire des sciences expérimentales,
-- f domaine disciplinaire des sciences sociales,
-- g domaine disciplinaire des activités artistiques et du sport.
+- a «première langue nationale»,
+- b «deuxième langue nationale»,
+- c «troisième langue»,
+- d «mathématiques»,
+- e «sciences expérimentales», comprenant les branches «biologie», «chimie» et «physique»,
+- f «sciences humaines et sociales», comprenant les branches «histoire et politique», «géographie», «économie et droit» et «philosophie»,
+- g «psychologie»,
+- h «disciplines artistiques», comprenant les branches «arts visuels» et «musique»,
+- i «sport et promotion de la santé»,
+- j «aperçus du domaine», comprenant les branches «biologie humaine», «pédagogie/psychologie du développement» et «sociologie».
 
-<sup>2</sup> Dans la partie germanophone du canton, sont en plus déterminantes pour la promotion en deuxième et en troisième années d’une filière ECG les notes de bulletin obtenues dans les domaines professionnels Santé et Travail social.
+<sup>2</sup> En troisième année de la filière ECG, sont en plus déterminantes dans le domaine professionnel Santé les notes de bulletin obtenues dans les disciplines et les branches suivantes:
 
-<sup>3</sup> Dans la partie francophone du canton, est en plus déterminante pour la promotion en deuxième et en troisième années de formation, selon le choix de l’élève, la note de bulletin dans le domaine professionnel Santé ou dans le domaine professionnel Pédagogie et Travail social.
+- a «biologie humaine»,
+- b «chimie et physique», comprenant les branches «chimie» et «physique»,
+- c «l’homme et la société», comprenant les branches «philosophie», «économie et droit» et «psychologie».
 
-<sup>4</sup> L’évaluation globale des prestations est suffisante si, parmi les notes des disciplines visées aux alinéas 1 à 3,
+<sup>3</sup> En troisième année de la filière ECG, sont en plus déterminantes dans le domaine professionnel Travail social les notes de bulletin obtenues dans les disciplines et les branches suivantes:
 
-- a la moyenne de toutes les notes est supérieure ou égale à 4;
-- b la somme des écarts vers le bas par rapport à la note 4 n’est pas supérieur à 2 et
-- c dans les disciplines visées à l’alinéa 1, lettres a à d ainsi que dans les branches des domaines disciplinaires visés aux lettres e à g et aux alinéas 2 et 3 trois notes au plus sont inférieures à 4.
+- a «sociologie»,
+- b «société et économie», comprenant les branches «histoire et politique» et «économie et droit»,
+- c «l’homme et la société», comprenant les branches «psychologie», «pédagogie/psychologie du développement» et «philosophie».
+
+<sup>3a</sup> En troisième année de la filière ECG, sont en plus déterminantes dans le domaine professionnel Pédagogie les notes de bulletin obtenues dans les disciplines et les branches suivantes:
+
+- a «psychologie», comprenant les branches «psychologie» et «pédagogie/psychologie du développement»,
+- b «musique et arts», comprenant les branches «musique» et «arts visuels»,
+- c «sciences expérimentales et géographie», comprenant les branches «sciences expérimentales (chimie/physique)» et «géographie».
+
+<sup>4</sup> L’évaluation globale des prestations est suffisante si
+
+- a la moyenne des notes de bulletin dans les disciplines déterminantes est supérieure ou égale à 4;
+- b la somme des écarts vers le bas par rapport à la note 4 pour les notes de bulletin dans les disciplines déterminantes n’est pas supérieure à 2 et
+- c dans les disciplines déterminantes ou lorsqu’une discipline est composée de plusieurs branches, trois notes au plus sont inférieures à 4.
 
 <sup>5</sup> Au surplus, les promotions sont régies par l’article 18.
+
+#### Art. 84a
+
+**Choix du domaine professionnel pour la dernière année de la filière ECG**
+
+<sup>1</sup> Les élèves ont jusqu’à mi-février de la deuxième année de la filière ECG pour choisir le domaine professionnel qu’ils suivront en dernière année de formation. L’alinéa 2 est réservé.
+
+<sup>2</sup> La direction d’école peut, sur demande et pour de justes motifs, autoriser un changement de domaine professionnel au plus tard au début de la dernière année de formation à condition que des places soient disponibles dans le domaine professionnel souhaité.
+
+<sup>3</sup> Quiconque recommence la troisième année de la filière ECG peut changer de domaine professionnel.
+
+#### Art. 84b
+
+**Restriction des possibilités de commencement de la troisième année de la filière ECG**
+
+<sup>1</sup> La troisième année de la filière ECG ne peut pas être commencée plus de trois fois.
 
 #### Art. 85
 
@@ -1137,7 +1199,7 @@ arrête:
 
 <sup>4</sup> Les dispositions détaillées relatives à la promotion doivent être préalablement fixées par écrit dans une convention conclue entre l’élève ou ses parents et la direction d’école.
 
-<sup>5</sup> Dans la partie francophone du canton, la note du domaine professionnel peut être remplacée par la note de l’enseignement dans le domaine de vocation pour les élèves possédant des talents particuliers.
+<sup>5</sup> …
 
 ### 3.1.3 Travail personnel et examens du certificat d’école de culture générale (examens du certificat ECG)
 
@@ -1147,15 +1209,17 @@ arrête:
 
 <sup>1</sup> La note pour le travail personnel prend en compte la démarche suivie, le texte rédigé et sa présentation.
 
-<sup>2</sup> Elle est communiquée par voie de décision aux candidats et aux candidates au plus tard six semaines avant le début de l’examen du certificat ECG.
+<sup>2</sup> La direction d’école notifie aux candidats et aux candidates par voie de décision la note obtenue au travail personnel au plus tard six semaines avant le début des examens du certificat ECG.
+
+<sup>3</sup> Dans les écoles moyennes privées délivrant un certificat ECG reconnu, la direction d’école arrête la note du travail personnel par voie de décision.
 
 #### Art. 87
 
 **Inscription aux examens du certificat ECG**
 
-<sup>1</sup> Les candidats et les candidates s’inscrivent aux examens du certificat ECG auprès de leur direction d’école au plus tard fin janvier. Ce faisant, ils s’acquittent de la taxe d’examen.
+<sup>1</sup> Les candidats et les candidates s’inscrivent aux examens du certificat ECG auprès de leur direction d’école au plus tard mi-février. Ce faisant, ils s’acquittent de la taxe d’examen.
 
-<sup>2</sup> L’inscription peut être retirée jusqu’à 14 jours avant le début des examens du certificat ECG.
+<sup>2</sup> L’inscription peut être retirée jusqu’à 30 jours avant le début des examens du certificat ECG.
 
 #### Art. 88
 
@@ -1173,9 +1237,9 @@ arrête:
 
 #### Art. 89
 
-**Répétition des examens du certificat ECG**
+**Répétition de la dernière année de formation et des examens du certificat ECG**
 
-<sup>1</sup> Tout élève ayant échoué aux examens du certificat ECG la première fois a le droit de répéter la dernière année scolaire dans l’école qu’il ou elle a fréquentée jusque-là ou dans une autre école directement après son échec.
+<sup>1</sup> Tout élève ayant échoué aux examens du certificat ECG a le droit de répéter la dernière année scolaire dans l’école qu’il ou elle a fréquentée jusque-là ou dans une autre école directement après son échec. L’article 84b est réservé.
 
 <sup>2</sup> L’élève peut se représenter aux examens du certificat ECG à condition
 
@@ -1185,7 +1249,7 @@ arrête:
 
 <sup>3</sup> La direction de l’école dans laquelle l’élève a répété son année scolaire statue sur son admission à repasser les examens du certificat ECG.
 
-<sup>4</sup> Toute personne ayant échoué deux fois à des examens du certificat ECG reconnus sur le plan suisse perd le droit de se représenter à une autre session d’examens du certificat ECG reconnus au niveau cantonal.
+<sup>4</sup> Toute personne ayant échoué deux fois dans le même domaine professionnel à des examens du certificat ECG reconnus sur le plan suisse perd le droit de se représenter dans le même domaine professionnel à une autre session d’examens du certificat ECG reconnus au niveau cantonal.
 
 #### Art. 90
 
@@ -1203,33 +1267,47 @@ arrête:
 
 <sup>2</sup> Ils permettent de vérifier d’une part si le candidat ou la candidate est capable de raisonner logiquement et de penser d’une manière analogique et contextuelle et, d’autre part, s’il ou elle a acquis des connaissances, capacités et aptitudes fondamentales. L’évaluation tient compte de la clarté de l’expression du candidat ou de la candidate.
 
-<sup>3</sup> Les examens du certificat ECG mettent l’accent sur le programme d’enseignement des deux dernières années scolaires.
+<sup>3</sup> Les examens du certificat ECG portent sur le programme d’enseignement de l’ensemble de la formation ECG.
 
-<sup>4</sup> Si la discipline d’examen comporte plusieurs branches, les épreuves et l’évaluation doivent porter sur chacune d’entre elles.
+<sup>4</sup> …
+
+#### Art. 91a
+
+**Domaines des disciplines du certificat ECG**
+
+<sup>1</sup> Les disciplines du certificat ECG englobent des disciplines et des branches du domaine de la culture générale ainsi que des disciplines en lien avec le domaine professionnel.
 
 #### Art. 92
 
 **Disciplines du certificat ECG**
 
-<sup>1</sup> Dans les parties francophone et germanophone du canton, les disciplines du certificat ECG sont
+<sup>1</sup> Dans le domaine de la culture générale, les disciplines du certificat ECG sont les suivantes:
 
-- a la première langue nationale (français ou allemand),
-- b la deuxième langue nationale (allemand ou français),
-- c la troisième langue (anglais),
-- d les mathématiques,
-- e le domaine disciplinaire des sciences expérimentales,
-- f le domaine disciplinaire des sciences sociales et
-- g le domaine disciplinaire des activités artistiques et du sport.
+- a première langue nationale,
+- b deuxième langue nationale,
+- c troisième langue,
+- d mathématiques,
+- e biologie,
+- f histoire et politique et
+- g disciplines artistiques et sport pour le certificat ECG dans le domaine professionnel Santé et dans le domaine professionnel Travail social et sport et promotion de la santé pour le certificat ECG dans le domaine professionnel Pédagogie.
 
-<sup>2</sup> Dans la partie germanophone du canton, sont également des disciplines du certificat ECG
+<sup>2</sup> Dans le domaine professionnel Santé, les disciplines du certificat ECG en lien avec le domaine professionnel sont
 
-- a le domaine professionnel Santé et
-- b le domaine professionnel Travail social.
+- a biologie humaine,
+- b chimie et physique et
+- c l’homme et la société.
 
-<sup>3</sup> Dans la partie francophone du canton, est également une discipline du certificat ECG
+<sup>3</sup> Dans le domaine professionnel Travail social, les disciplines du certificat ECG en lien avec le domaine professionnel sont
 
-- a le domaine professionnel Santé ou
-- b le domaine professionnel Pédagogie et travail social.
+- a sociologie,
+- b société et économie et
+- c l’homme et la société.
+
+<sup>3a</sup> Dans le domaine professionnel Pédagogie, les disciplines du certificat ECG en lien avec le domaine professionnel sont
+
+- a psychologie,
+- b musique et arts et
+- c sciences expérimentales et géographie.
 
 <sup>4</sup> Une note de certificat ECG est délivrée pour chacune des disciplines du certificat ECG et pour le travail personnel.
 
@@ -1247,7 +1325,7 @@ arrête:
 
 <sup>1</sup> Une note de contrôle continu est attribuée pour chaque discipline du certificat ECG.
 
-<sup>1a</sup> La note de contrôle continu correspond à la moyenne arithmétique non arrondie de toutes les notes de bulletin de la dernière année scolaire comptant pour la discipline en question du certificat ECG.
+<sup>1a</sup> La note de contrôle continu correspond à la moyenne arithmétique non arrondie de toutes les notes de bulletin délivrées pour la discipline du certificat ECG au cours de la dernière année scolaire pendant laquelle la discipline a été enseignée.
 
 <sup>1b</sup> Si les écoles moyennes privées délivrant un certificat ECG reconnu établissent des bulletins semestriels, une note est tout d’abord attribuée pour chaque discipline déterminante pour le bulletin à partir des notes individuelles obtenues durant la dernière année scolaire et la note de contrôle continu est la moyenne arithmétique de ces notes. Le calcul se fonde sur l’article 4, alinéas 1, 2 et 4.
 
@@ -1279,11 +1357,11 @@ arrête:
 
 **Certificat ECG**
 
-<sup>1</sup> L’école délivre les certificats ECG conformément à l’article 16 du Règlement de la Conférence suisse des directeurs cantonaux de l'instruction publique du 12 juin 2003 sur la reconnaissance des certificats des écoles de culture générale[^97-1].
+<sup>1</sup> L’école délivre les certificats ECG conformément à l’article 22 du Règlement de la Conférence suisse des directeurs cantonaux de l'instruction publique du 25 octobre 2018 sur la reconnaissance des certificats des écoles de culture générale[^97-1].
 
 <sup>2</sup> Le certificat ECG comporte une mention spéciale pour les élèves qui bénéficient d’une réglementation spéciale au sens de l’article 11, alinéa 1, lettre a.
 
-<sup>3</sup> Les certificats d’école de culture générale sont signés par le directeur ou la directrice de l’instruction publique, le président ou la présidente de la CCECG ainsi que par le membre de la direction d’école responsable des formations en école de culture générale.
+<sup>3</sup> Les certificats d’école de culture générale sont signés par le directeur ou la directrice de l’instruction publique et de la culture, le président ou la présidente de la CCECG ainsi que par le membre de la direction d’école responsable des formations en école de culture générale.
 
 [^97-1]: RSB [439.181.1](https://www.belex.sites.be.ch/data/439.181.1/fr)
 
@@ -1295,7 +1373,15 @@ arrête:
 
 ### 3.2 Filières de maturité spécialisée
 
-### 3.2.1 Admissions
+### 3.2.1 Structure des filières de formation
+
+#### Art. 98a
+
+<sup>1</sup> Les filières de maturité spécialisée orientation Santé et orientation Travail social comprennent des séquences en introduction et en accompagnement de l’enseignement, un stage dans le domaine professionnel correspondant, un travail écrit de maturité spécialisée et des examens de maturité spécialisée.
+
+<sup>2</sup> La filière de maturité spécialisée orientation Pédagogie comprend un stage, un travail de maturité spécialisée, une formation en école d’un semestre et des examens de maturité spécialisée.
+
+### 3.2.1a Admissions
 
 #### Art. 99
 
@@ -1303,43 +1389,78 @@ arrête:
 
 <sup>1</sup> Les candidats et les candidates à une maturité spécialisée s’inscrivent au plus tard mi-février auprès de l’école de culture générale qu’ils ont fréquentée jusque-là. La direction de l’école de culture générale peut, dans des cas motivés, modifier ce délai.
 
-<sup>2</sup> L’admission à la filière de maturité spécialisée orientation Santé ou orientation Travail social se fait aux conditions suivantes:
+<sup>1a</sup> En règle générale, les filières de maturité spécialisée sont suivies dans l’école de culture générale dans laquelle le certificat ECG a été obtenu.
 
-- a l’élève a un certificat ECG dans le domaine professionnel correspondant;
-- b la note du certificat ECG dans le domaine professionnel correspondant est suffisante;
-- c l’admission a lieu au plus tard un an après l’obtention du certificat ECG et
-- d l’élève possède un contrat l’autorisant à suivre un stage reconnu ou est admis dans une formation tertiaire comprenant un stage équivalent au plus tard au début de la formation.
+<sup>1b</sup> Elles peuvent être suivies dans une autre école de culture générale
 
-<sup>3</sup> Dans la partie germanophone du canton, l’admission à la filière de maturité spécialisée orientation Pédagogie se fait aux conditions suivantes:
+- a si le domaine professionnel souhaité n’est pas proposé dans l’école dans laquelle le certificat ECG a été obtenu;
+- b si aucune place n’est disponible dans la filière souhaitée ou
+- c pour de justes motifs.
 
-- a l’élève a un certificat ECG dans les domaines professionnels Santé et Travail social;
-- b la somme des notes du certificat ECG en première langue nationale, en deuxième langue nationale, en mathématiques et dans le domaine disciplinaire des sciences expérimentales est supérieure ou égale à 16 et aucune de ces notes n’est inférieure à 3,5 et
-- c l’admission a lieu au plus tard un an après l’obtention du certificat ECG.
+<sup>1c</sup> L’admission a lieu en règle générale directement après l’obtention du certificat ECG.
 
-<sup>4</sup> Dans la partie francophone du canton, l’admission à la filière de maturité spécialisée orientation Pédagogie se fait aux conditions suivantes:
+<sup>1d</sup> Dans des cas motivés, l’admission à une filière de maturité spécialisée peut être autorisée jusqu’à trois ans après l’obtention du certificat ECG.
 
-- a l’élève a un certificat ECG dans le domaine professionnel Pédagogie et Travail social ou dans le domaine professionnel Santé;
-- b la somme des notes du certificat ECG en première langue nationale, en deuxième langue nationale, en mathématiques et dans le domaine disciplinaire des sciences expérimentales est supérieure ou égale à 16 et aucune de ces notes n’est inférieure à 3,5 et
-- c l’admission a lieu au plus tard un an après l’obtention du certificat ECG.
+<sup>2–6</sup> …
 
-<sup>5</sup> L’admission à une filière de maturité spécialisée d’un domaine professionnel pour lequel l’élève n’a pas de certificat ECG est possible à condition que les éléments de formation manquants soient compensés conformément au plan d’études.
+<sup>7</sup> Un candidat ou une candidate ne peut pas être admise à une filière de maturité spécialisée plus de trois fois.
 
-<sup>6</sup> Des dérogations aux dispositions de l’alinéa 2, lettre c, de l’alinéa 3, lettre c et de l’alinéa 4, lettre c peuvent être accordées pour de justes motifs.
+<sup>8</sup> La direction de l’école de culture générale d’accueil statue sur l’admission.
 
-<sup>7</sup> Un candidat ou une candidate ne peut pas être admise à une filière de maturité spécialisée plus de deux fois.
+#### Art. 99a
 
-### 3.2.2 Conditions requises pour l’accomplissement du stage dans les filières de maturité spécialisée orientation Santé et orientation Travail social
+**Conditions d’admission**
+
+<sup>1</sup> L’admission à une filière de maturité spécialisée se fait à condition
+
+- a que l’élève ait obtenu un certificat ECG dans le domaine professionnel correspondant, l’article 99b étant réservé,
+- b que l’élève possède, au plus tard au début de la formation, un contrat pour un stage autorisé et
+- c que, pour la filière de maturité spécialisée orientation Pédagogie, l’élève ait réalisé un stage de découverte du monde professionnel de quatre semaines dans la deuxième langue nationale conformément au plan d’études.
+
+<sup>2</sup> Pour la maturité spécialisée dans le domaine professionnel Santé, le contrat pour un stage autorisé peut être remplacé par une admission à une formation tertiaire comprenant un stage équivalent.
+
+#### Art. 99b
+
+**Admission à une filière de maturité spécialisée dans un autre domaine professionnel**
+
+<sup>1</sup> En l’absence de certificat ECG dans le domaine professionnel considéré, l’élève doit avoir compensé les éléments de formation manquants pour être admis à la filière de maturité spécialisée.
+
+<sup>2</sup> Pour compenser les éléments de formation manquants, l’élève
+
+- a suit l’enseignement dans les disciplines en lien avec le domaine professionnel correspondant et
+- b réussit les examens du certificat ECG dans les disciplines en lien avec le domaine professionnel correspondant.
+
+<sup>3</sup> Les éléments de formation manquants sont considérés comme compensés si la moyenne non arrondie des notes obtenues dans les disciplines du certificat ECG en lien avec le domaine professionnel, calculées selon les articles 94 et 95, s’élève au moins à 4.
+
+<sup>4</sup> La direction d’école confirme que les éléments de formation manquants ont été compensés.
+
+<sup>5</sup> Il est possible d’essayer de compenser les éléments de formation manquants une seconde fois si la dernière année de formation en ECG n’a été suivie qu’une fois.
+
+### 3.2.2 Conditions requises pour l’accomplissement du stage
 
 #### Art. 100
 
-<sup>1</sup> Dans l’orientation Santé, le stage accompli dans une institution du secteur de la santé comprend
+**Stage dans le domaine professionnel Santé et dans le domaine professionnel Travail social**
 
-- a un cours préparatoire et un stage d’au moins 24 semaines ou
-- b des stages de durée analogue effectués pendant la première année d’une formation tertiaire.
+<sup>1</sup> Dans le domaine professionnel Santé et dans le domaine professionnel Travail social, le stage dure au moins 24 semaines. Il doit être complété par la fréquentation de séquences d’enseignement en préparation ou en accompagnement.
 
-<sup>2</sup> Dans l’orientation Travail social, le stage évalué doit garantir un contact direct avec les personnes nécessitant une prise en charge et durer au moins douze semaines.
+<sup>2</sup> Le stage doit avoir un lien avec la mission principale du domaine professionnel, être accompli dans une institution du domaine professionnel correspondant et garantir un contact direct avec des personnes assurant une prise en charge.
 
-<sup>3</sup> La direction de l’école de culture générale statue sur la reconnaissance du stage.
+<sup>2a</sup> Dans le domaine professionnel Santé, un stage de durée comparable peut être effectué dans le cadre d’une formation tertiaire correspondante.
+
+<sup>3</sup> La direction de l’école de culture générale dans laquelle la filière de maturité spécialisée est suivie statue sur l’autorisation du stage.
+
+#### Art. 100a
+
+**Stage dans le domaine professionnel Pédagogie**
+
+<sup>1</sup> Dans le domaine professionnel Pédagogie, le stage dure au moins six semaines.
+
+<sup>2</sup> Si le stage est effectué dans un établissement public de la scolarité obligatoire du canton de Berne, il est considéré comme autorisé. Il peut également, pour de juste motifs, être autorisé dans une école privée ou une école située dans un autre canton.
+
+<sup>3</sup> La direction de l’école de culture générale dans laquelle la filière de maturité spécialisée est suivie confirme, à l’issue du stage, que celui-ci a été effectué conformément au contrat de stage.
+
+<sup>4</sup> Si le stage n’est pas effectué conformément au contrat de stage, la filière de maturité spécialisée doit être recommencée. L’article 99, alinéa 7 est réservé.
 
 ### 3.2.3 Evaluation durant la formation en filière de maturité spécialisée
 
@@ -1355,7 +1476,7 @@ arrête:
 
 **Evaluation du stage dans les filières de maturité spécialisée orientation Santé et orientation Travail social**
 
-<sup>1</sup> Lorsque la maturité spécialisée orientation Santé n’est pas intégrée à la première année d’une formation tertiaire, le stage ne peut être reconnu et évalué que si le cours préparatoire correspondant a été suivi en entier.
+<sup>1</sup> …
 
 <sup>2</sup> Dans les filières de maturité spécialisée orientation Santé et orientation Travail social, l’évaluation du stage porte sur l’aptitude à s’occuper des personnes qui nécessitent une prise en charge ou des soins, à prendre ses distances, à s’intégrer dans l’entreprise et à en comprendre les mécanismes.
 
@@ -1373,7 +1494,7 @@ arrête:
 
 <sup>3</sup> Un travail écrit de maturité spécialisée jugé insuffisant peut être retravaillé une fois dans les quatre semaines suivant l’évaluation. La note attribuée à la version retravaillée ne peut pas être supérieure à 4.
 
-<sup>4</sup> L’école de culture générale notifie la note du travail de maturité spécialisée par voie de décision.
+<sup>4</sup> …
 
 #### Art. 104
 
@@ -1393,51 +1514,48 @@ arrête:
 
 <sup>2</sup> L’évaluation du travail écrit de maturité spécialisée est effectuée par l’enseignant ou l’enseignante qui encadre le travail au sein de l’école de culture générale et par un expert ou une experte du domaine considéré.
 
+<sup>3</sup> La direction d’école notifie l’évaluation du travail écrit de maturité spécialisée par voie de décision.
+
 ### 3.2.4 Examens de maturité spécialisée
 
 #### Art. 106
 
 **Inscription**
 
-<sup>1</sup> L’inscription aux examens de maturité spécialisée orientation Pédagogie a lieu au plus tard le 31 janvier.
+<sup>1</sup> Les candidats et les candidates s’inscrivent eux-mêmes aux examens de maturité spécialisée orientation Pédagogie au plus tard fin février.
 
-<sup>2</sup> L’inscription aux examens de maturité spécialisée orientation Santé et orientation Travail social a lieu dès que la note attribuée au travail écrit de maturité spécialisée a été notifiée mais au plus tard une année après le début de la filière de maturité spécialisée conformément aux directives de la CCECG.
+<sup>2</sup> L’inscription aux examens de maturité spécialisée orientation Santé et orientation Travail social se fait automatiquement avec la notification de la note attribuée au travail écrit de maturité spécialisée.
 
 #### Art. 107
 
 **Admission**
 
-<sup>1</sup> Le candidat ou la candidate à la maturité spécialisée orientation Santé ou orientation Travail social est admise à passer les examens de maturité spécialisée s’il ou elle a obtenu une évaluation suffisante pour son stage et son travail écrit de maturité et si la taxe d’examen a été acquittée.
+<sup>1</sup> Le candidat ou la candidate à la maturité spécialisée orientation Santé ou orientation Travail social est admise à passer les examens de maturité spécialisée
 
-<sup>2</sup> Dans la partie germanophone du canton, le candidat ou la candidate est admise à passer les examens de maturité spécialisée orientation Pédagogie à condition
+- a s’il ou si elle a suivi les séquences d’enseignement en introduction ou en accompagnement;
+- b s’il ou si elle a obtenu une évaluation suffisante pour son stage et son travail écrit de maturité et
+- c si la taxe d’examen a été acquittée.
 
-- a qu’il ou elle ait effectué un stage préparatoire de six semaines dans le domaine pédagogique;
+<sup>2</sup> Le candidat ou la candidate est admise à passer les examens de maturité spécialisée orientation Pédagogie à condition
+
+- a que la réalisation d'un stage de six semaines dans le domaine pédagogique ait été confirmée;
 - b qu’il ou elle ait été présente à au moins 90 pour cent des leçons de chaque discipline d’examen, de chaque branche et du cours intensif dans la discipline artistique;
 - c qu’il ou elle ait obtenu une note générale au moins suffisante pour le travail de maturité spécialisée et
 - d qu’il ou elle se soit acquittée de la taxe d’examen.
 
-<sup>3</sup> Dans la partie francophone du canton, le candidat ou la candidate est admise à passer les examens de maturité spécialisée orientation Pédagogie à condition
+<sup>3–4</sup> …
 
-- a qu’il ou elle ait effectué un séjour linguistique de quatre semaines dans une région alémanique;
-- b qu’il ou elle ait effectué un stage pédagogique de quatre semaines s’il ou elle est titulaire d’un certificat ECG dans le domaine professionnel Pédagogie et Travail social ou un stage pédagogique de six semaines s’il ou elle est titulaire d’un certificat ECG dans un autre domaine professionnel;
-- b1 qu’il ou elle ait été présente à au moins 90 pour cent des leçons de chaque discipline d’examen, de chaque branche et de la discipline artistique;
-- c qu’il ou elle ait obtenu une note générale au moins suffisante pour le travail de maturité spécialisée et
-- d qu’il ou elle se soit acquittée de la taxe d’examen.
-
-<sup>4</sup> Si, pour des motifs impérieux, le candidat ou la candidate n’a pas assisté au nombre de leçons requis, il ou elle peut quand même être admise sous réserve de prestations supplémentaires.
+<sup>5</sup> La direction d’école statue sur l’admission.
 
 #### Art. 108
 
 **Répétition des examens de maturité spécialisée**
 
-<sup>1</sup> Tout élève ayant échoué aux examens de maturité spécialisée la première fois a le droit de répéter la filière de maturité spécialisée dans l’école qu’il ou elle a fréquentée jusque-là ou dans une autre école. Cette disposition s’applique aussi lorsque l’élève a déjà répété l’examen conformément à l’article 110, alinéa 4.
+<sup>1</sup> Les candidats et les candidates qui ont échoué aux examens de maturité spécialisée peuvent recommencer la filière de maturité spécialisée directement après leur échec. L’article 99, alinéa 7 est réservé.
 
-<sup>2</sup> L’élève peut se représenter aux examens de maturité spécialisée à condition
+<sup>2</sup> Ils peuvent répéter les examens de maturité spécialisée une fois dans le même domaine professionnel, même s’ils ont fait usage du droit énoncé à l’article 110, alinéa 4.
 
-- a qu’il ou elle ait répété l’enseignement dans toutes les disciplines de la formation préparant à la maturité spécialisée orientation Pédagogie;
-- b qu’il ou elle répète la totalité de la formation préparant à la maturité spécialisée orientation Santé ou orientation Travail social et remplisse les conditions y afférentes.
-
-<sup>3</sup> Toute personne ayant échoué deux fois à des examens de maturité spécialisée reconnus à l’échelle suisse perd le droit de se représenter à une autre session d’examens de maturité spécialisée reconnus à l’échelle cantonale.
+<sup>3</sup> Quiconque souhaite recommencer une filière de maturité spécialisée doit remplir l’ensemble des conditions d’admission à la filière et aux examens de maturité spécialisée.
 
 #### Art. 109
 
@@ -1479,15 +1597,15 @@ arrête:
 
 **Certificat de maturité spécialisée**
 
-<sup>1</sup> L’école délivre les certificats de maturité spécialisée conformément à l’article 18 du Règlement de la Conférence suisse des directeurs cantonaux de l’instruction publique du 12 juin 2003 sur la reconnaissance des certificats des écoles de culture générale.
+<sup>1</sup> L’école de culture générale délivre les certificats de maturité spécialisée conformément à l’article 26 du Règlement de la Conférence suisse des directeurs cantonaux de l’instruction publique du 25 octobre 2018 sur la reconnaissance des certificats des écoles de culture générale.
 
 <sup>2</sup> Pour les maturités spécialisées orientation Santé et orientation Travail social, la note générale du travail de maturité spécialisée se calcule sur la base de l’évaluation du travail écrit de maturité spécialisée et de l’examen oral, la partie écrite valant deux tiers de la note et la partie orale un tiers.
 
 <sup>3</sup> Le certificat de maturité spécialisée comporte une mention spéciale pour les élèves qui bénéficient d’une réglementation spéciale au sens de l’article 11, alinéa 1, lettre a.
 
-<sup>4</sup> Pour la maturité spécialisée orientation Travail social, le certificat de maturité spécialisée n’est remis que si le candidat ou la candidate remplit les conditions de stage fixées à l’article 100, alinéa 2 et atteste d’une expérience dans le monde du travail de 32 semaines.
+<sup>4</sup> …
 
-<sup>5</sup> Les certificats de maturité spécialisée sont signés par le directeur ou la directrice de l’instruction publique, le président ou la présidente de la CCECG ainsi que par le membre de la direction d’école responsable des formations en école de culture générale.
+<sup>5</sup> Les certificats de maturité spécialisée sont signés par le directeur ou la directrice de l’instruction publique et de la culture, par le président ou la présidente de la CCECG ainsi que par le membre de la direction d’école responsable des formations en école de culture générale.
 
 #### Art. 113
 
@@ -1610,13 +1728,13 @@ arrête:
 
 **Intégration d’élèves possédant des connaissances limitées dans la première ou la deuxième langue**
 
-<sup>1</sup> La procédure d’admission est adaptée pour les élèves qui n’ont commencé à suivre l’enseignement dans la première ou la deuxième langue qu’à partir de la dernière année du degré primaire ou ultérieurement. Les demandes d’adaptation doivent être déposées en même temps que l’inscription.
+<sup>1</sup> La procédure d’admission est adaptée pour les élèves en provenance d’un système scolaire différent qui n’ont commencé à suivre l’enseignement dans la première ou la deuxième langue qu’à partir de la dernière année du degré primaire ou ultérieurement. Les demandes d’adaptation doivent être déposées en même temps que l’inscription.
 
-<sup>2</sup> La direction d’école peut arrêter des objectifs d’apprentissage individuels dans au maximum deux langues, après consultation du corps enseignant.
+<sup>2</sup> La direction d’école peut arrêter des objectifs d’apprentissage individuels dans la première ou la deuxième langue, après consultation du corps enseignant.
 
 <sup>3</sup> Si des objectifs d’apprentissage individuels ont été arrêtés jusqu’aux examens finaux, la direction d’école signale en temps utile aux élèves concernés la possibilité de demander l’application, pour les examens finaux, de réglementations spéciales au sens de l’article 11.
 
-<sup>4</sup> La Section des écoles moyennes peut autoriser au maximum 40 leçons d’appui par élève, sur demande de la direction d’école.
+<sup>4</sup> La Section des écoles moyennes peut autoriser pour la première ou la deuxième langue au maximum 40 leçons d’appui par élève et par langue, sur demande de la direction d’école.
 
 #### Art. 128
 
@@ -1772,6 +1890,8 @@ arrête:
 
 <sup>3</sup> L’indemnité forfaitaire des experts et des expertes pour la correction du travail de maturité spécialisée et pour la participation aux examens de maturité spécialisée de l’orientation Santé et de l’orientation Travail social est de 250 francs par candidat ou candidate.
 
+<sup>3a</sup> L’indemnité forfaitaire des experts et des expertes pour la correction d’un travail de maturité spécialisée retravaillé en vertu de l’article 103, alinéa 3 ou pour la participation aux examens de maturité spécialisée répétés en vertu de l’article 110, alinéa 4 est de 90 francs par candidat ou candidate.
+
 <sup>4</sup> Le paiement des frais est régi par les dispositions applicables au personnel cantonal.
 
 #### Art. 138
@@ -1780,7 +1900,7 @@ arrête:
 
 <sup>1</sup> Lorsqu’ils sont convoqués à un entretien par un expert principal ou une experte principale, les experts et les expertes sont indemnisés conformément à l’ordonnance concernant les indemnités journalières et de déplacement des membres des commissions cantonales.
 
-<sup>2</sup> Une indemnité de 300 francs par série d’examens est versée pour les rapports d’évaluation ordonnés par la commission d’examen ou le service compétent de la Direction de l’instruction publique.
+<sup>2</sup> Une indemnité de 300 francs par série d’examens est versée pour les rapports d’évaluation ordonnés par la commission d’examen ou le service compétent de la Direction de l’instruction publique et de la culture.
 
 <sup>3</sup> Le président ou la présidente de la commission d’examen ou l’expert principal ou l’experte principale peut octroyer une indemnité de 30 francs par heure aux experts et aux expertes ou aux experts principaux et aux expertes principales pour les activités qui dépassent largement les exigences normales, en particulier pour celles liées à une procédure de recours.
 
@@ -1868,6 +1988,36 @@ arrête:
 - b pour la deuxième année de la formation gymnasiale: à compter du 1<sup>er</sup> août 2020,
 - c pour la troisième année de la formation gymnasiale: à compter du 1<sup>er</sup> août 2021,
 - d pour la quatrième année de la formation gymnasiale: à compter du 1<sup>er</sup> août 2022.
+
+## T2 Dispositions transitoires de la modification du 06.07.2021
+
+#### Art. T2-1
+
+<sup>1</sup> Les nouvelles dispositions relatives à la filière ECG sont applicables comme suit:
+
+- a pour la première année de la filière ECG: à partir du 1<sup>er</sup> août 2021,
+- b pour la deuxième année de la filière ECG: à partir du 1<sup>er</sup> août 2022,
+- c pour la troisième année de la filière ECG: à partir du 1<sup>er</sup> août 2023.
+
+<sup>2</sup> Les élèves qui, la fin de l’année scolaire 2022-2023, échouent aux examens du certificat ECG de la partie francophone du canton dans le domaine professionnel Musique ou dans le domaine professionnel Arts et design ont la possibilité de recommencer directement après leur échec la dernière année de formation selon les anciennes dispositions au maximum une fois à condition
+
+- a que, pour les disciplines du certificat ECG «première langue nationale», «deuxième langue nationale, «troisième langue», «mathématiques» et «domaine disciplinaires des sciences expérimentales», les notes de contrôle continu et les notes d’examen soient calculées selon les nouvelles dispositions,
+- b que, pour la discipline du certificat ECG «domaine disciplinaire des activités artistiques et du sport», la note de contrôle continu soit calculée à partir de la note de bulletin de la discipline «sport et promotion de la santé»,
+- c que, pour la discipline du certificat ECG «domaine disciplinaire des sciences sociales», la note de contrôle continu soit calculée à partir de la moyenne arithmétique des notes de bulletin des branches en lien avec le domaine professionnel «histoire et politique», «géographie» et «psychologie» du domaine professionnel Pédagogie qui doivent être suivies,
+- d que, pour la discipline du certificat ECG «domaine disciplinaire des sciences sociales», la note d’examen se fonde sur l’examen de la branche «psychologie» du domaine professionnel Pédagogie et
+- e que, pour la discipline du certificat ECG du domaine professionnel Musique ou du domaine professionnel Arts et design, la note du certificat ECG corresponde, au choix, à la note du certificat ECG de l’année scolaire 2022-2023 ou à une nouvelle note établie selon les dispositions en vigueur à l’ECG Delémont.
+
+<sup>3</sup> Les autres élèves qui échouent aux examens du certificat ECG à la fin de l’année scolaire 2022-2023 peuvent répéter deux fois la dernière année scolaire directement après leur échec selon les nouvelles dispositions, sachant que
+
+- a la note de contrôle continu de la discipline du certificat ECG «sciences humaines et sociales» correspond à la note du certificat ECG du domaine disciplinaire des sciences sociales de l’année scolaire 2022-2023,
+- b la note de contrôle continu de la discipline du certificat ECG «disciplines artistiques et sport» du domaine professionnel Travail social et du domaine professionnel Santé est calculée, pour la partie germanophone du canton, à partir de la moyenne arithmétique des notes de bulletin obtenues durant l’année scolaire 2022-2023 dans la discipline artistique choisie et dans la discipline «sport» durant l’année répétée et
+- c la note de contrôle continu de la discipline du certificat ECG «disciplines artistiques et sport» est calculée, pour la partie francophone du canton, à partir de la moyenne arithmétique des notes de bulletin obtenues dans les disciplines «musique» ou «chant/musique» durant l’année scolaire 2022-2023 et dans la discipline «sport» durant l’année répétée.
+
+<sup>4</sup> Les nouvelles dispositions pour la filière de maturité spécialisée sont applicables à partir du 1<sup>er</sup> août 2024.
+
+<sup>5</sup> L’article 99, alinéa 1c est applicable pour la première fois aux admissions pour l’année scolaire 2024-2025. Les autres dispositions relatives au passage de la filière ECG à la filière de maturité spécialisée sont applicables pour la première fois aux admissions pour l’année scolaire 2024-2025.
+
+<sup>6</sup> Les élèves qui échouent aux examens de maturité spécialisée à la fin de l’année scolaire 2023-2024 peuvent, directement après leur échec, répéter une fois la filière de maturité spécialisée selon les nouvelles dispositions.
 
 ## A1 Annexe 1: Remarques dans le bulletin (art. 15 et 18)
 
@@ -2048,15 +2198,16 @@ arrête:
 
 <table>
 <tr><th>N°</th><th>Discipline d’examen</th><th>Examen écrit</th><th>Examen oral[^A51-1]</th></tr>
-<tr><td>1</td><td>Première langue (allemand ou français)[^A51-2]</td><td>120 min</td><td>–</td></tr>
-<tr><td>2</td><td>Deuxième langue nationale (français ou allemand)[^A51-3]</td><td>–</td><td>20 min</td></tr>
+<tr><td>1</td><td>Première langue (français ou allemand)[^A51-2]</td><td>120 min</td><td>–</td></tr>
+<tr><td>2</td><td>Deuxième langue nationale (allemand ou français)[^A51-3]</td><td>–</td><td>15 min</td></tr>
 <tr><td>3</td><td>Mathématiques</td><td>120 min</td><td>–</td></tr>
-<tr><td>4</td><td>Option spécifique</td><td>–</td><td>20 min</td></tr>
+<tr><td>4</td><td>Option spécifique</td><td>–</td><td>15 min[^A51-4]</td></tr>
 </table>
 
 [^A51-1]: Il est possible de prévoir une durée de préparation de 15 minutes.
 [^A51-2]: Les candidats et les candidates ayant des connaissances limitées dans la première langue (enseignement depuis le début du degré secondaire I ou ultérieurement) peuvent choisir s’ils désirent être interrogés uniquement en rédaction, auquel cas la durée de l’enseignement dans la première langue est prise en compte dans l’évaluation.
 [^A51-3]: Les candidats et les candidates ayant des connaissances limitées dans la deuxième langue nationale (enseignement depuis le début du degré secondaire I ou ultérieurement) peuvent choisir s’ils préfèrent être interrogés dans la deuxième langue nationale ou en anglais.
+[^A51-4]: Si l’épreuve orale est pratique, elle dure 20 minutes.
 
 #### Art. A5-2
 
@@ -2242,74 +2393,79 @@ arrête:
 <tr><td>1</td><td>Première langue (français ou allemand)</td><td>240 min</td><td>15 min</td></tr>
 <tr><td>2</td><td>Deuxième langue nationale (allemand ou français)</td><td>180 min</td><td>15 min[^A81-1]</td></tr>
 <tr><td>3</td><td>Mathématiques</td><td>240 min</td><td>15 min</td></tr>
-<tr><td>4</td><td>Option spécifique</td><td>180 min[^A81-2]</td><td>15 min[^A81-3]</td></tr>
-<tr><td>5</td><td>Option complémentaire ou troisième langue (anglais, italien ou latin)</td><td>120 min[^A81-4] ou 180 min (troisième langue)</td><td>15 min[^A81-5]</td></tr>
+<tr><td>4</td><td>Option spécifique[^A81-2]</td><td>180 min[^A81-3]</td><td>15 min[^A81-4]</td></tr>
+<tr><td>5</td><td>Option complémentaire ou troisième langue (anglais, italien ou latin)</td><td>120 min[^A81-5] ou 180 min (troisième langue)</td><td>15 min[^A81-6]</td></tr>
 </table>
 
 <sup>2</sup> Les réglementations spéciales s’appliquant aux examens au sens de l’article 11 sont réservées.
 
 [^A81-1]: Si l’épreuve orale dans les langues modernes a lieu de façon groupée, la durée de l’épreuve pour le groupe est fixée de telle manière que chaque candidat ou candidate dispose de 15 minutes.
-[^A81-2]: Si l’examen porte sur les arts visuels, l’épreuve écrite dure 240 minutes.
-[^A81-3]: Si l’épreuve orale est pratique, elle dure 20 minutes.
-[^A81-4]: Si l’examen porte sur les arts visuels, l’épreuve écrite dure 240 minutes.
-[^A81-5]: Si l’épreuve orale est pratique, elle dure 20 minutes.
+[^A81-2]: L’examen de l’option spécifique musique et de l’option spécifique arts visuels organisé dans le cadre de l’encouragement des talents particuliers au gymnase de Hofwil est régi par les dispositions particulières des directives de la CCM.
+[^A81-3]: Si l’examen porte sur les arts visuels (option spécifique ou option complémentaire), l’épreuve écrite dure 240 minutes.
+[^A81-4]: Si l’épreuve orale est pratique, elle dure 20 minutes.
+[^A81-5]: Si l’examen porte sur les arts visuels (option spécifique ou option complémentaire), l’épreuve écrite dure 240 minutes.
+[^A81-6]: Si l’épreuve orale est pratique, elle dure 20 minutes.
 
 ## A9 Annexe 9: Disciplines d’examen, type d’examen et durée des épreuves pour les examens du certificat ECG (art. 93)
 
-### A9.1 Partie germanophone du canton
+### A9.1 Disciplines du domaine de la culture générale
 
 #### Art. A9-1
 
-**Examens du certificat ECG incluant les domaines professionnels Santé et Travail social**
+**Examens du certificat ECG dans les disciplines de culture générale**
 
 <sup>1</sup>
 
 <table>
-<tr><th>N°</th><th>Domaine disciplinaire</th><th>Discipline d’examen</th><th>Examen écrit</th><th>Examen oral</th></tr>
-<tr><td>1</td><td></td><td>Allemand</td><td>240 min</td><td>15 min</td></tr>
-<tr><td>2</td><td></td><td>Français ou anglais</td><td>120 min</td><td>15 min</td></tr>
-<tr><td>3</td><td></td><td>Mathématiques</td><td>120 min</td><td>15 min</td></tr>
-<tr><td>4</td><td>Sciences expérimentales</td><td>Biologie</td><td>120 min</td><td>-</td></tr>
-<tr><td>5</td><td>Domaine professionnel Santé</td><td>Physique ou biologie humaine</td><td>-</td><td>15 min</td></tr>
-<tr><td>6</td><td>Domaine professionnel Travail social</td><td>Psychologie générale ou pédagogie/psychologie du développement</td><td>-</td><td>15 min</td></tr>
+<tr><th>N°</th><th>Discipline d'examen</th><th>Examen écrit</th><th>Examen oral</th></tr>
+<tr><td>1</td><td>Première langue</td><td>240 min</td><td>15 min</td></tr>
+<tr><td>2</td><td>Deuxième ou troisième langue</td><td>120 min</td><td>15 min</td></tr>
+<tr><td>3</td><td>Mathématiques</td><td>120 min</td><td>15 min</td></tr>
+<tr><td>4</td><td>Biologie</td><td>90 min</td><td></td></tr>
 </table>
 
 <sup>2</sup> Les réglementations spéciales s’appliquant aux examens au sens de l’article 11 sont réservées.
 
-### A9.2 Partie francophone du canton
+### A9.2 Disciplines en lien avec le domaine professionnel
 
 #### Art. A9-2
 
-**Examens du certificat ECG incluant le domaine professionnel Santé**
+**Domaine professionnel Santé**
 
 <sup>1</sup>
 
 <table>
-<tr><th>N°</th><th>Domaine disciplinaire</th><th>Discipline d’examen</th><th>Examen écrit</th><th>Examen oral</th></tr>
-<tr><td>1</td><td></td><td>Français</td><td>240 min</td><td>15 min</td></tr>
-<tr><td>2</td><td></td><td>Allemand ou anglais</td><td>120 min</td><td>15 min</td></tr>
-<tr><td>3</td><td></td><td>Mathématiques</td><td>120 min</td><td>15 min</td></tr>
-<tr><td>4</td><td>Sciences expérimentales</td><td>Chimie</td><td>120 min</td><td>-</td></tr>
-<tr><td>5</td><td>Sciences sociales</td><td>Psychologie</td><td>120 min</td><td>-</td></tr>
-<tr><td>6</td><td>Domaine professionnel Santé</td><td>Biologie humaine</td><td>-</td><td>15 min</td></tr>
+<tr><th>N°</th><th>Discipline d’examen</th><th>Examen écrit</th><th>Examen oral</th></tr>
+<tr><td>1</td><td>Biologie humaine</td><td>-</td><td>15 min</td></tr>
+<tr><td>2</td><td>Chimie</td><td>-</td><td>15 min</td></tr>
 </table>
 
-<sup>2</sup>
+<sup>2</sup> Les réglementations spéciales s’appliquant aux examens au sens de l’article 11 sont réservées.
 
 #### Art. A9-3
 
-**Examens du certificat ECG incluant le domaine professionnel Pédagogie et travail social**
+**Domaine professionnel Travail social**
 
 <sup>1</sup>
 
 <table>
-<tr><th>N°</th><th>Domaine disciplinaire</th><th>Discipline d'examen</th><th>Examen écrit</th><th>Examen oral</th></tr>
-<tr><td>1</td><td></td><td>Français</td><td>240 min</td><td>15 min</td></tr>
-<tr><td>2</td><td></td><td>Allemand ou anglais</td><td>120 min</td><td>15 min</td></tr>
-<tr><td>3</td><td></td><td>Mathématiques</td><td>120 min</td><td>15 min</td></tr>
-<tr><td>4</td><td>Sciences expérimentales</td><td>Biologie</td><td>120 min</td><td>-</td></tr>
-<tr><td>5</td><td>Sciences sociales</td><td>Psychologie</td><td>120 min</td><td>-</td></tr>
-<tr><td>6</td><td>Domaine professionnel Travail social</td><td>Sociologie ou pédagogie</td><td>-</td><td>15 min</td></tr>
+<tr><th>N°</th><th>Discipline d'examen</th><th>Examen écrit</th><th>Examen oral</th></tr>
+<tr><td>1</td><td>Sociologie</td><td>-</td><td>15 min</td></tr>
+<tr><td>2</td><td>Economie et droit</td><td>-</td><td>15 min</td></tr>
+</table>
+
+<sup>2</sup> Les réglementations spéciales s’appliquant aux examens au sens de l’article 11 sont réservées.
+
+#### Art. A9-4
+
+**Domaine professionnel Pédagogie**
+
+<sup>1</sup>
+
+<table>
+<tr><th>N°</th><th>Discipline d’examen</th><th>Examen écrit</th><th>Examen oral</th></tr>
+<tr><td>1</td><td>Psychologie</td><td>-</td><td>15 min</td></tr>
+<tr><td></td><td>Arts visuels ou Musique</td><td>-</td><td>15 min</td></tr>
 </table>
 
 <sup>2</sup> Les réglementations spéciales s’appliquant aux examens au sens de l’article 11 sont réservées.
@@ -2321,7 +2477,7 @@ arrête:
 <sup>1</sup>
 
 <table>
-<tr><th>N°</th><th>Domaine disciplinaire / discipline d'examen</th><th>Branche</th><th>Examen écrit</th><th>Examen oral</th></tr>
+<tr><th>N°</th><th>Discipline d’examen</th><th>Branche</th><th>Examen écrit</th><th>Examen oral</th></tr>
 <tr><td>1</td><td>Première langue</td><td></td><td>180 min</td><td>15 min</td></tr>
 <tr><td>2</td><td>Deuxième langue nationale</td><td></td><td>120 min</td><td>15 min</td></tr>
 <tr><td>3</td><td>Mathématiques</td><td></td><td>120 min</td><td>15 min</td></tr>
