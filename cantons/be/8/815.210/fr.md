@@ -4,13 +4,12 @@ number: "815.210"
 title: "Ordonnance portant introduction de la législation fédérale sur l'enregistrement des maladies oncologiques"
 short: OiLEMO
 language: fr
-version: 2020-01-01
-valid_until: 2021-07-31
-version_adopted: 2019-10-30
+version: 2021-08-01
+version_adopted: 2021-06-30
 adopted: 2019-10-30
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.210"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1728/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2324/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1728/pdf_file"
 
 (OiLEMO)
 
-du 30.10.2019 (état au 01.01.2020)
+du 30.10.2019 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -49,7 +48,7 @@ arrête:
 
 **Service compétent de la Direction de la santé, des affaires sociales et de l'intégration**
 
-<sup>1</sup> L'Office du médecin cantonal (OMC) est l'instance compétente de la Direction de la santé, des affaires sociales et de l'intégration pour
+<sup>1</sup> L'Office de la santé (ODS) est l'instance compétente de la Direction de la santé, des affaires sociales et de l'intégration pour
 
 - a la conclusion du contrat de prestations conformément à l'article 3, alinéa 3 LiLEMO,
 - b l'accomplissement des fonctions de surveillance conformément à l'article 4 LiLEMO.
@@ -58,7 +57,7 @@ arrête:
 
 **Contrat de prestations**
 
-<sup>1</sup> L'OMC et l'organe cantonal d'enregistrement du cancer concluent chaque année un contrat de prestations, qui règle en particulier
+<sup>1</sup> L'ODS et l'organe cantonal d'enregistrement du cancer concluent chaque année un contrat de prestations, qui règle en particulier
 
 - a la rémunération, délais de paiement compris,
 - b la date de présentation des comptes annuels, du budget et du rapport d'activité,

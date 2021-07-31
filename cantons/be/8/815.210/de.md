@@ -4,13 +4,12 @@ number: "815.210"
 title: Einführungsverordnung zur eidgenössischen Krebsregistrierungsgesetzgebung
 short: EV KRG
 language: de
-version: 2020-01-01
-valid_until: 2021-07-31
-version_adopted: 2019-10-30
+version: 2021-08-01
+version_adopted: 2021-06-30
 adopted: 2019-10-30
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.210"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1728/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2324/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1728/pdf_file"
 
 (EV KRG)
 
-vom 30.10.2019 (Stand 01.01.2020)
+vom 30.10.2019 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -49,7 +48,7 @@ beschliesst:
 
 **Zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion**
 
-<sup>1</sup> Das Kantonsarztamt (KAZA) ist die zuständige Stelle der Gesundheits-, Sozial und Integrationsdirektion für
+<sup>1</sup> Das Gesundheitsamt ist die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion für
 
 - a den Abschluss des Leistungsvertrags nach Artikel 3 Absatz 3 EG KRG,
 - b die Wahrnehmung der Aufsichtsfunktion nach Artikel 4 EG KRG.
@@ -58,7 +57,7 @@ beschliesst:
 
 **Leistungsvertrag**
 
-<sup>1</sup> Das KAZA und die kantonale Krebsregistrierungsstelle schliessen jährlich einen Leistungsvertrag ab, der insbesondere folgende Elemente enthält:
+<sup>1</sup> Das Gesundheitsamt und die kantonale Krebsregistrierungsstelle schliessen jährlich einen Leistungsvertrag ab, der insbesondere folgende Elemente enthält:
 
 - a Abgeltung mit Zahlungsterminen,
 - b Zeitpunkt für die Einreichung der Jahresrechnung, des Budgets und des Tätigkeitsberichts,
