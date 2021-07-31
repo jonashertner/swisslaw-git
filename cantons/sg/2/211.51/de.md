@@ -4,13 +4,13 @@ number: "211.51"
 title: Stipendienverordnung
 short: StipV
 language: de
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-06-30
+version: 2021-08-01
+valid_until: 2023-07-31
+version_adopted: 2021-06-01
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/211.51"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3081/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3173/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3081/pdf_file"
 
 (StipV)
 
-vom 13.05.2003 (Stand 01.08.2020)
+vom 13.05.2003 (Stand 01.08.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -74,7 +74,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Beitragsberechtigung dauert bis zum tatsächlichen Abschluss der Ausbildung, in der Regel längstens bis zwei Semester nach dem frühestmöglichen Abschluss.
 
-<sup>2</sup> Bei einem Ausbildungswechsel entspricht die Beitragsberechtigung der ordentlichen Dauer der neuen Ausbildung abzüglich der Beitragsdauer der ersten Ausbildung.
+<sup>2</sup> Bei einem Ausbildungswechsel entspricht die Beitragsberechtigung der ordentlichen Dauer der neuen Ausbildung abzüglich der absolvierten Dauer der ersten Ausbildung.
 
 [^5-1]: Art. 10 Abs. 1 StipG, sGS [211.5](https://www.gesetzessammlung.sg.ch/data/211.5/de).
 
@@ -82,12 +82,11 @@ als Verordnung:[^ingress-2]
 
 **f) Anrechnung an die zulässige Ausbildungszeit[^6-1]**
 
-<sup>1</sup> Die Anrechnung an die zulässige Ausbildungszeit von zwölf Jahren richtet sich nach dem European Credit Transfer System (ECTS)[^6-2]. 60 ECTS-Punkte gelten als ein Jahr.
+<sup>1</sup> Die Anrechnung an die zulässige Ausbildungszeit von zwölf Jahren richtet sich nach den Angaben und Vorschriften der Ausbildungsstätte über Dauer und Intensität der Ausbildung.
 
-<sup>2</sup> Wendet eine Ausbildungsstätte das ECTS nicht an, wird sachgemäss auf die Angaben und Vorschriften der Ausbildungsstätte über Dauer und Intensität der Ausbildung abgestellt.
+<sup>2</sup> …
 
 [^6-1]: Art. [10](https://www.gesetzessammlung.sg.ch/data/211.5/de/art10.) Abs. 2 StipG, sGS [211.5](https://www.gesetzessammlung.sg.ch/data/211.5/de).
-[^6-2]: Vgl. Empfehlungen der Rektorenkonferenz der Schweizer Universitäten für die Anwendung von ECTS an den universitären Hochschulen der Schweiz vom 7. März 2003 und Richtlinien der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren für die Umsetzung der Erklärung von Bologna an den Fachhochschulen und den Pädagogischen Hochschulen vom 5. Dezember 2002. Zu beziehen bei: Rektorenkonferenz der Schweizer Universitäten, Generalsekretariat, Sennweg 2, 3012 Bern; Schweizerische Erziehungsdirektorenkonferenz, Zähringerstrasse 25, Postfach 5975, 3001 Bern.
 
 #### Art. 7
 
@@ -323,6 +322,12 @@ als Verordnung:[^ingress-2]
 
 <sup>3</sup> Nach Vorliegen der massgebenden Veranlagung werden die Stipendien definitiv festgelegt. Die Differenz wird ausgeglichen.
 
+#### Art. 28a
+
+**Rundung**
+
+<sup>1</sup> Die Stipendienabteilung legt die Rundungsregeln für die Bemessung der Stipendien und der Studiendarlehen fest. Vorbehalten bleiben Art. 30a und 32a dieses Erlasses.
+
 ### 2. Stipendien
 
 #### Art. 29
@@ -331,7 +336,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Das Stipendium entspricht dem Fehlbetrag zwischen den anrechenbaren Ausbildungs- und Lebenshaltungskosten der gesuchstellenden Person einerseits sowie ihrer angerechneten Eigenleistung und dem angerechneten Elternbeitrag anderseits.
 
-<sup>2</sup> Vorbehalten bleiben die Höchstansätze nach Art. 30 dieses Erlasses.
+<sup>2</sup> Vorbehalten bleiben der Mindestansatz nach Art. 30a dieses Erlasses und die Höchstansätze nach Art. 30 dieses Erlasses.
 
 #### Art. 30
 
@@ -348,6 +353,12 @@ als Verordnung:[^ingress-2]
 
 <sup>3</sup> Die jährlichen Höchstansätze werden um die den Betrag von Fr. 4000.-- übersteigenden Schul- und Studiengelder erhöht.
 
+#### Art. 30a
+
+**Mindestansatz**
+
+<sup>1</sup> Der jährliche Mindestansatz für Stipendien beträgt wenigstens Fr. 500.–, auch wenn die Fehlbetragsrechnung nach Art. 29 dieses Erlasses einen geringeren, aber positiven Betrag ergibt.
+
 ### 3. Studiendarlehen
 
 #### Art. 31
@@ -358,7 +369,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1<sup>bis</sup></sup> …
 
-<sup>2</sup> Vorbehalten bleiben die Höchstansätze nach Art. 32 dieses Erlasses.
+<sup>2</sup> Vorbehalten bleiben der Mindestansatz nach Art. 32a dieses Erlasses und die Höchstansätze nach Art. 32 dieses Erlasses.
 
 #### Art. 32
 
@@ -367,6 +378,12 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Der jährliche Höchstansatz für Studiendarlehen beträgt in der Regel Fr. 20‘000.--.
 
 <sup>2</sup> Insgesamt werden Studiendarlehen von höchstens Fr. 100‘000.-- gewährt.
+
+#### Art. 32a
+
+**Mindestansatz**
+
+<sup>1</sup> Der jährliche Mindestansatz für Studiendarlehen beträgt wenigstens Fr. 500.–, auch wenn die Fehlbetragsrechnung nach Art. 31 dieses Erlasses einen geringeren, aber positiven Betrag ergibt.
 
 ## III. Verfahren
 
