@@ -4,13 +4,12 @@ number: "813.131"
 title: Ordonnance portant introduction de la législation fédérale sur les stupéfiants
 short: OiLStup
 language: fr
-version: 2012-09-01
-valid_until: 2021-07-31
-version_adopted: 2012-06-20
+version: 2021-08-01
+version_adopted: 2021-06-30
 adopted: 2012-06-20
 in_force: 2012-09-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/813.131"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/304/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2320/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/304/pdf_file"
 
 (OiLStup)
 
-du 20.06.2012 (état au 01.09.2012)
+du 20.06.2012 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -39,30 +38,26 @@ arrête:
 
 ## 2 Autorités compétentes
 
-#### Art. 2
+#### Art. 2–3
 
-**Office du pharmacien cantonal**
+**…**
 
-<sup>1</sup> L’Office du pharmacien cantonal (OPHC) est l’autorité cantonale compétente pour
+#### Art. 3a
+
+**Office de la santé**
+
+<sup>1</sup> L'Office de la santé (ODS) est l’autorité cantonale qui a compétence pour
 
 - a octroyer des autorisations aux établissements hospitaliers et aux instituts (art. 14 LStup);
-- b octroyer des autorisations aux autorités cantonales et communales (art. 14a, al. 1bis LStup);
-- c procéder aux contrôles prévus (art. 16 à 18 LStup) et exécuter l’ordonnance fédérale du 25 mai 2011 sur le contrôle des stupéfiants (OCStup)[^2-1], pour autant que la présente ordonnance n’en dispose pas autrement;
-- d retirer l’autorisation de faire le commerce de stupéfiants (art. 12, al. 1 LStup) lorsque les personnes concernées sont des pharmaciens ou des pharmaciennes.
+- b octroyer des autorisations aux autorités cantonales et communales (art. 14a, al. 1<sup>bis</sup> LStup);
+- c procéder aux contrôles prévus (art. 16 à 18 LStup) et exécuter l’ordonnance fédérale du 25 mai 2011 sur le contrôle des stupéfiants (OCStup)[^3a-1], pour autant que la présente ordonnance n’en dispose pas autrement;
+- d retirer les autorisations liées aux stupéfiants (art. 12, al. 1 LStup);
+- e octroyer des autorisations pour le traitement au moyen de stupéfiants (art. 3e, al. 1 LStup);
+- f recueillir les annonces de remise ou de prescription de stupéfiants pour des indications autres que celles qui sont admises (art. 11, al. 1<sup>bis</sup> LStup).
 
-<sup>2</sup> Il édicte des directives sur la réalisation du contrôle des stupéfiants dans son domaine de compétence et les publie.
+<sup>2</sup> Il édicte des directives sur l'exécution du contrôle des stupéfiants dans son domaine de compétence et les publie.
 
-[^2-1]: RS 812.121.1
-
-#### Art. 3
-
-**Office du médecin cantonal**
-
-<sup>1</sup> L’Office du médecin cantonal (OMC) est l’autorité cantonale compétente pour
-
-- a octroyer des autorisations pour le traitement au moyen de stupéfiants (art. 3e, al. 1 LStup);
-- b recueillir les annonces de remise ou de prescription de stupéfiants pour des indications autres que celles qui sont prévues (art. 11, al. 1bis LStup);
-- c retirer l’autorisation de faire le commerce de stupéfiants (art. 12, al. 1 LStup), sous réserve de l’article 2, alinéa 1, lettre d.
+[^3a-1]: RS [812.121.1](https://db.clex.ch/link/Bund/812.121.1/fr)
 
 #### Art. 4
 
@@ -78,7 +73,7 @@ arrête:
 
 <sup>1</sup> Le préfet compétent ou la préfète compétente peut ordonner la fermeture d’un lieu de vente dans lequel des stupéfiants sont vendus ou mis dans le commerce d’une autre manière sans autorisation.
 
-<sup>2</sup> Il ou elle fait appel à l’OPHC pour déterminer si certains produits proposés sont des stupéfiants.
+<sup>2</sup> Il ou elle fait appel à l’ODS pour déterminer si certains produits proposés sont des stupéfiants.
 
 <sup>3</sup> Il ou elle peut révoquer sur demande la décision de fermeture d’un lieu de vente si la personne qui l’exploite ou le gère garantit qu’à l’avenir aucun stupéfiant n’y sera plus vendu ni mis dans le commerce d’une autre manière.
 
@@ -88,7 +83,7 @@ arrête:
 
 **Conditions d’autorisation**
 
-<sup>1</sup> L’OMC autorise un traitement au moyen de stupéfiants si
+<sup>1</sup> L’ODS autorise un traitement au moyen de stupéfiants si
 
 - a toutes les indications requises à l’article 9 de l’ordonnance fédérale du 25 mai 2011 relative à l’addiction aux stupéfiants et aux autres troubles liés à l’addiction (ordonnance relative à l’addiction aux stupéfiants, OAStup)[^6-1] figurent dans la demande du médecin traitant ou de la médecin traitante;
 - b les raisons à l’appui d’un traitement au moyen de stupéfiants du patient concerné ou de la patiente concernée sont suffisamment motivées dans la demande sur la base d’un examen complet et que
@@ -108,7 +103,7 @@ arrête:
 
 **Retrait et extinction de l’autorisation**
 
-<sup>1</sup> L’OMC retire l’autorisation si
+<sup>1</sup> L’ODS retire l’autorisation si
 
 - a les raisons à l’appui d’un traitement au moyen de stupéfiants indiquées dans la demande ne sont plus remplies;
 - b le médecin traitant ou la médecin traitante s’est vu retirer l’autorisation de faire le commerce de stupéfiants (art. 12 LStup).
@@ -119,7 +114,7 @@ arrête:
 
 **Directives**
 
-<sup>1</sup> L’OMC édicte des directives sur le traitement au moyen de stupéfiants et les publie.
+<sup>1</sup> L’ODS édicte des directives sur le traitement au moyen de stupéfiants et les publie.
 
 ## 4 Emoluments et voies de droit
 

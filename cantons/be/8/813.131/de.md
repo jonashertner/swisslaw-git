@@ -4,13 +4,12 @@ number: "813.131"
 title: Einführungsverordnung zur eidgenössischen Betäubungsmittelgesetzgebung
 short: EV BetmG
 language: de
-version: 2012-09-01
-valid_until: 2021-07-31
-version_adopted: 2012-06-20
+version: 2021-08-01
+version_adopted: 2021-06-30
 adopted: 2012-06-20
 in_force: 2012-09-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/813.131"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/304/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2320/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/304/pdf_file"
 
 (EV BetmG)
 
-vom 20.06.2012 (Stand 01.09.2012)
+vom 20.06.2012 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -39,30 +38,26 @@ beschliesst:
 
 ## 2 Zuständige Behörden
 
-#### Art. 2
+#### Art. 2–3
 
-**Kantonsapothekeramt**
+**…**
 
-<sup>1</sup> Das Kantonsapothekeramt (KAPA) ist die zuständige kantonale Behörde für
+#### Art. 3a
+
+**Gesundheitsamt**
+
+<sup>1</sup> Das Gesundheitsamt ist die zuständige kantonale Behörde für
 
 - a die Erteilung von Bewilligungen für Krankenanstalten und Institute (Art. 14 BetmG),
-- b die Erteilung von Bewilligungen für kantonale Behörden und Gemeindebehörden (Art. 14a Abs. 1bis BetmG),
-- c die Kontrolle (Art. 16 bis 18 BetmG) und den Vollzug der Verordnung des Bundesrates vom 25. Mai 2011 über die Betäubungsmittelkontrolle (Betäubungsmittelkontrollverordnung, BetmKV)[^2-1], soweit die vorliegende Verordnung nichts anderes bestimmt,
-- d den Entzug der Berechtigung zum Verkehr mit Betäubungsmitteln (Art. 12 Abs. 1 BetmG), soweit Apothekerinnen und Apotheker betroffen sind.
+- b die Erteilung von Bewilligungen für kantonale Behörden und Gemeindebehörden (Art. 14a Abs. 1<sup>bis</sup> BetmG),
+- c die Kontrolle (Art. 16 bis 18 BetmG) und den Vollzug der Verordnung des Bundesrates vom 25. Mai 2011 über die Betäubungsmittelkontrolle (Betäubungsmittelkontrollverordnung, BetmKV)[^3a-1], soweit die vorliegende Verordnung nichts anderes bestimmt,
+- d den Entzug der Berechtigung zum Verkehr mit Betäubungsmitteln (Art. 12 Abs. 1 BetmG),
+- e die Erteilung von Bewilligungen für die betäubungsmittelgestützte Behandlung (Art. 3e Abs. 1 BetmG),
+- f die Entgegennahme von Meldungen über Abgaben und Verordnungen von Betäubungsmitteln zu andern als den zugelassenen Indikationen (Art. 11 Abs. 1<sup>bis</sup> BetmG).
 
 <sup>2</sup> Es erlässt Richtlinien über die Durchführung der Betäubungsmittelkontrolle in seinem Zuständigkeitsbereich und veröffentlicht sie.
 
-[^2-1]: SR 812.121.1
-
-#### Art. 3
-
-**Kantonsarztamt**
-
-<sup>1</sup> Das Kantonsarztamt (KAZA) ist die zuständige kantonale Behörde für
-
-- a die Erteilung von Bewilligungen für die betäubungsmittelgestützte Behandlung (Art. 3e Abs. 1 BetmG),
-- b die Entgegennahme von Meldungen über Abgaben und Verordnungen von Betäubungsmitteln zu andern als den zugelassenen Indikationen (Art. 11 Abs. 1bis BetmG),
-- c den Entzug der Berechtigung zum Verkehr mit Betäubungsmitteln (Art. 12 Abs. 1 BetmG), unter Vorbehalt von Artikel 2 Absatz 1 Buchstabe d.
+[^3a-1]: SR [812.121.1](https://db.clex.ch/link/Bund/812.121.1/de)
 
 #### Art. 4
 
@@ -78,7 +73,7 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Regierungsstatthalterin oder der zuständige Regierungsstatthalter kann eine Verkaufsstelle schliessen, in welcher Betäubungsmittel ohne Bewilligung zum Verkauf angeboten oder auf andere Weise in Verkehr gebracht werden.
 
-<sup>2</sup> Zur Beurteilung, ob es sich bei bestimmten angebotenen Produkten um Betäubungsmittel handelt, zieht die zuständige Regierungsstatthalterin oder der zuständige Regierungsstatthalter das KAPA bei.
+<sup>2</sup> Zur Beurteilung, ob es sich bei bestimmten angebotenen Produkten um Betäubungsmittel handelt, zieht die zuständige Regierungsstatthalterin oder der zuständige Regierungsstatthalter das Gesundheitsamt bei.
 
 <sup>3</sup> Die Schliessung der Verkaufsstelle wird auf Gesuch hin durch die zuständige Regierungsstatthalterin oder den zuständigen Regierungsstatthalter aufgehoben, wenn die Inhaberin oder der Inhaber bzw. die Geschäftsführerin oder der Geschäftsführer Gewähr dafür bietet, dass fortan keine Betäubungsmittel mehr zum Verkauf angeboten oder auf andere Weise in Verkehr gebracht werden.
 
@@ -88,7 +83,7 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Das KAZA erteilt die Bewilligung für eine betäubungsmittelgestützte Behandlung, wenn
+<sup>1</sup> Das Gesundheitsamt erteilt die Bewilligung für eine betäubungsmittelgestützte Behandlung, wenn
 
 - a die Angaben nach Artikel 9 der Verordnung des Bundesrates vom 25. Mai 2011 über Betäubungsmittelsucht und andere suchtbedingte Störungen (Betäubungsmittelsuchtverordnung, BetmSV)[^6-1] im Gesuch der behandelnden Ärztin oder des behandelnden Arztes vollständig enthalten sind,
 - b die Gründe für eine betäubungsmittelgestützte Behandlung der betroffenen Patientin oder des betroffenen Patienten gestützt auf eine umfassende Untersuchung im Gesuch hinreichend dargelegt werden und
@@ -108,7 +103,7 @@ beschliesst:
 
 **Entzug und Erlöschen der Bewilligung**
 
-<sup>1</sup> Das KAZA entzieht die Bewilligung, wenn
+<sup>1</sup> Das Gesundheitsamt entzieht die Bewilligung, wenn
 
 - a die im Gesuch genannten Gründe für die betäubungsmittelgestützte Behandlung dahinfallen,
 - b der behandelnden Ärztin oder dem behandelnden Arzt die Berechtigung zum Verkehr mit Betäubungsmitteln entzogen worden ist (Art. 12 BetmG).
@@ -119,7 +114,7 @@ beschliesst:
 
 **Richtlinien**
 
-<sup>1</sup> Das KAZA erlässt Richtlinien über die betäubungsmittelgestützte Behandlung und veröffentlicht sie.
+<sup>1</sup> Das Gesundheitsamt erlässt Richtlinien über die betäubungsmittelgestützte Behandlung und veröffentlicht sie.
 
 ## 4 Gebühren und Rechtspflege
 
