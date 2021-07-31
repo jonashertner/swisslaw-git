@@ -4,18 +4,20 @@ title: Verordnung vom 13. Juli 1911 über die Geschäftsführung der Konkursämt
 short: KOV
 eli: "https://fedlex.data.admin.ch/eli/cc/27/751_749_771"
 language: de
-version: 1997-01-01
+version: 2021-08-01
 adopted: 1911-07-13
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/751_749_771/19970101/de/xml/fedlex-data-admin-ch-eli-cc-27-751_749_771-19970101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/751_749_771/19970101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/751_749_771/20210801/de/xml/fedlex-data-admin-ch-eli-cc-27-751_749_771-20210801-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/751_749_771/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Geschäftsführung der Konkursämter (KOV****)
+# Verordnung über die Geschäftsführung der Konkursämter
 
-vom 13. Juli 1911 (Stand am 1. Januar 1997)[^t-1]
+(KOV)[^t-1]
+
+vom 13. Juli 1911 (Stand am 1. August 2021)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
@@ -25,7 +27,7 @@ in Anwendung von Artikel 15 des Schuldbetreibungs- und Konkursgesetzes (SchKG)[^
 
 verordnet:
 
-[^ingress-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^ingress-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^ingress-2]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
 ## A. Protokoll-, Akten- und Rechnungswesen
@@ -173,7 +175,7 @@ Die Hauptakten (Protokoll und integrierende Bestandteile gemäss Art. 10) dürfe
 
 [^11-1]: Ursprünglich Art. 12
 
-### III. Elektronische Datenverarbeitung****
+### III. Elektronische Datenverarbeitung
 
 [^lvlA-lvlIII-1]
 
@@ -189,7 +191,7 @@ Die Führung der in Artikel 1 genannten Verzeichnisse und Bücher sowie die Erst
 
 [^12-1]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### IV.**** Ordnung und Aufbewahrung der Akten
+### IV. Ordnung und Aufbewahrung der Akten
 
 [^lvlA-lvlIV-1]
 
@@ -242,7 +244,7 @@ Hinsichtlich der Aufbewahrung der vom Konkursamt zu den Konkursakten beigezogene
 - 4\. Die kantonalen Aufsichtsbehörden haben dafür zu sorgen, dass die Konkursämter, welche nicht in der Lage sind, die nach vorstehenden Grundsätzen bei ihnen liegenden Bücher und Papiere aufzubewahren, sie an einem zentralen Orte archivieren können.
 
 [^15-1]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^15-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^15-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^15-3]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
 ### 3. Aufzeichnung auf Bild- und Datenträgern
@@ -257,13 +259,14 @@ Hinsichtlich der Aufbewahrung der vom Konkursamt zu den Konkursakten beigezogene
 
 <sup>1</sup> Die aufzubewahrenden Akten können mit Zustimmung der kantonalen Aufsichtsbehörde auf Bild- oder Datenträgern aufgezeichnet und die Originalakten hierauf vernichtet werden.[^15a-2]
 
-<sup>2</sup> Die kantonale Aufsichtsbehörde sorgt dafür, dass die Vorschriften der bundesrätlichen Verordnung vom 2. Juni 1976[^15a-3] über die Aufzeichnung von aufzubewahrenden Unterlagen sinngemäss befolgt werden.
+<sup>2</sup> Die kantonale Aufsichtsbehörde sorgt dafür, dass die Vorschriften der Geschäftsbücherverordnung vom 24. April 2002[^15a-3] befolgt werden.[^15a-4]
 
 [^15a-1]: Eingefügt durch Ziff. I der V des BGer vom 18. Mai 1979, in Kraft seit 1. Juli 1979 ([AS 1979 813](https://fedlex.data.admin.ch/eli/oc/1979/813_813_813)).
 [^15a-2]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^15a-3]: [[AS 1976 1334](https://fedlex.data.admin.ch/eli/oc/1976/1334_1334_1334). [AS 2002 1399](https://fedlex.data.admin.ch/eli/oc/2002/216)Art. 11]. Siehe heute die Geschäftsbücherverordnung vom 24. April 2002 ([SR 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)).
+[^15a-3]: [SR 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
+[^15a-4]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
-### V.**** Buch-, Kassa- und Rechnungsführung
+### V. Buch-, Kassa- und Rechnungsführung
 
 [^lvlA-lvlV-1]
 
@@ -357,13 +360,13 @@ Die kantonale Aufsichtsbehörde kann eine andere Art der Organisation der Buch-,
 
 [^24a-1]: Eingefügt durch Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-## B. Verfahren in den einzelnen Stadien des Konkurses****
+## B. Verfahren in den einzelnen Stadien des Konkurses
 
 [^lvlB-1]
 
 [^lvlB-1]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### I. Feststellung der Konkursmasse und Bestimmung des Verfahrens****
+### I. Feststellung der Konkursmasse und Bestimmung des Verfahrens
 
 [^lvlB-lvlI-1]
 
@@ -445,13 +448,13 @@ Im Besitz des Gemeinschuldners befindliche Pfandtitel über auf seinem Grundstü
 
 #### Art. 31
 
-<sup>1</sup> Die Kompetenzstücke mit Einschluss einer allfälligen Familienheimstätte (Art. 349ff. ZGB[^31-1]) sind am Schlusse des Inventars auszuscheiden, unter Verweisung auf die Nummer der einzelnen Gegenstände im Inventar.
+<sup>1</sup> Die Kompetenzstücke sind am Schluss des Inventars auszuscheiden, unter Verweisung auf die Nummer der einzelnen Gegenstände im Inventar.[^31-1]
 
 <sup>2</sup> Von dieser Ausscheidung ist dem Gemeinschuldner entweder bei der Vorlage des Inventars oder durch besondere schriftliche Verfügung Mitteilung zu machen.
 
 <sup>3</sup> Verzichtet der Gemeinschuldner auf die Kompetenzqualität bestimmter Gegenstände zugunsten der Konkursmasse, so ist diese Erklärung im Inventar von ihm zu unterzeichnen.
 
-[^31-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^31-1]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### h. Mitteilung von der Ausscheidung an die Gläubiger
 
@@ -471,13 +474,17 @@ Der Ertrag aus den natürlichen und den zivilen Früchten, welche die Grundstüc
 
 [^33-1]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### k. Vormerkung der Eigentumsansprachen und ihrer Erledigung
+### k. Anmeldung der Ansprüche nach den Artikeln 242–242*b* SchKG und ihrer Erledigung
 
 #### Art. 34
 
-<sup>1</sup> Ebenso sind die Eigentumsansprachen (Art. 242 SchKG) in einer besondern Abteilung des Inventars unter Angabe des Ansprechers, der Inventarnummer des angesprochenen Gegenstandes und der allfälligen Belege fortlaufend zusammenzustellen. Im Inventar selber ist bei den angesprochenen Gegenständen in der Rubrik «Bemerkungen» auf diesen Vormerk hinzuweisen.
+[^34-1]
 
-<sup>2</sup> Am Ende des Titels sind die Erklärungen des Gemeinschuldners sowie die spätern Verfügungen der Konkursverwaltung über die Eigentumsansprachen und das Resultat allfälliger Prozesse summarisch vorzumerken.
+<sup>1</sup> Die angemeldeten Ansprüche nach den Artikeln 242–242*b* SchKG sind in einer besonderen Abteilung des Inventars fortlaufend aufzunehmen, unter Angabe der anmeldenden Person, der Inventarnummer des beanspruchten Vermögenswertes und der allfälligen Belege. Im Inventar selber ist bei den beanspruchten Vermögenswerten in der Rubrik «Bemerkungen» auf diese Anmeldung hinzuweisen.
+
+<sup>2</sup> Am Ende des Titels sind die Erklärungen des Gemeinschuldners sowie die späteren Verfügungen der Konkursverwaltung über die angemeldeten Ansprüche und das Resultat allfälliger Prozesse summarisch vorzumerken.
+
+[^34-1]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### 2. Kostenvorschuss
 
@@ -507,19 +514,16 @@ Anlässlich der Inventaraufnahme hat der Konkursbeamte den Gemeinschuldner über
 - d. ob Kinder oder Mündel unter seiner Gewalt stehen und ob zu ihren Gunsten Eigentums- oder Forderungsansprüche bestehen;
 - e.[^37-2] ob er Unteroffizier, Offizier oder Fachoffizier (Soldat, Gefreiter oder Unteroffizier in Offiziersfunktion) der Armee sei.
 
-[^37-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^37-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 [^37-2]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### 5. Beschlagnahme von Postsendungen
+### 5. …
 
 #### Art. 38
 
 [^38-1]
 
-Die Konkursämter sind berechtigt, von der zuständigen Kreispostdirektion für die Dauer des Konkurses die Einsichtnahme oder Auslieferung von Postsendungen und Postscheckgeldern, die an den Gemeinschuldner adressiert oder von ihm abgesandt werden, sowie Auskunfterteilung über den Postverkehr des Gemeinschuldners zu verlangen (vgl. Art. 14 und 18 der Verordnung [1] vom 1. September 1967[^38-2] zum Postverkehrsgesetz). Der Gemeinschuldner hat jedoch das Recht, der Öffnung der Sendungen beizuwohnen.
-
-[^38-1]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^38-2]: [[AS 1967 1405](https://fedlex.data.admin.ch/eli/oc/1967/1405_1447_1440), [1969 385](https://fedlex.data.admin.ch/eli/oc/1969/385_393_393)[1120](https://fedlex.data.admin.ch/eli/oc/1969/1120_1140_1142), [1970 480](https://fedlex.data.admin.ch/eli/oc/1970/480_480_480)[714](https://fedlex.data.admin.ch/eli/oc/1970/714_714_714), [1971 683](https://fedlex.data.admin.ch/eli/oc/1971/683_680_680)[1712](https://fedlex.data.admin.ch/eli/oc/1971/1712_1717_1717), [1972 2675](https://fedlex.data.admin.ch/eli/oc/1972/2675_2727_2508), [1974 578](https://fedlex.data.admin.ch/eli/oc/1974/578_578_578)[1977](https://fedlex.data.admin.ch/eli/oc/1974/1977_1977_1977)[2050](https://fedlex.data.admin.ch/eli/oc/1974/2050_2050_2050), [1975 2033](https://fedlex.data.admin.ch/eli/oc/1975/2033_2033_2033), [1976 962](https://fedlex.data.admin.ch/eli/oc/1976/962_962_962), [1977 2122](https://fedlex.data.admin.ch/eli/oc/1977/2122_2122_2122), [1979 287](https://fedlex.data.admin.ch/eli/oc/1979/287_287_287)[1180](https://fedlex.data.admin.ch/eli/oc/1979/1180_1180_1180), [1980 2](https://fedlex.data.admin.ch/eli/oc/1980/2_2_2)[777](https://fedlex.data.admin.ch/eli/oc/1980/777_777_777), [1981 1863](https://fedlex.data.admin.ch/eli/oc/1981/1863_1863_1863), [1983 1656](https://fedlex.data.admin.ch/eli/oc/1983/1656_1656_1656), [1986 39](https://fedlex.data.admin.ch/eli/oc/1986/39_39_39)[991](https://fedlex.data.admin.ch/eli/oc/1986/991_991_991), [1987 440](https://fedlex.data.admin.ch/eli/oc/1987/440_440_440), [1988 370](https://fedlex.data.admin.ch/eli/oc/1988/370_370_370), [1989 565](https://fedlex.data.admin.ch/eli/oc/1989/565_565_565)[764](https://fedlex.data.admin.ch/eli/oc/1989/764_764_764)[1899](https://fedlex.data.admin.ch/eli/oc/1989/1899_1899_1899), [1990 1448](https://fedlex.data.admin.ch/eli/oc/1990/1448_1448_1448), [1992 94](https://fedlex.data.admin.ch/eli/oc/1992/94_94_94)[1243](https://fedlex.data.admin.ch/eli/oc/1992/1243_1243_1243), [1993 62](https://fedlex.data.admin.ch/eli/oc/1993/62_62_62)[2473](https://fedlex.data.admin.ch/eli/oc/1993/2473_2473_2473), [1994 1442](https://fedlex.data.admin.ch/eli/oc/1994/1442_1442_1442)[2788](https://fedlex.data.admin.ch/eli/oc/1994/2788_2788_2788), [1995 5491](https://fedlex.data.admin.ch/eli/oc/1995/5491_5491_5491), [1996 14](https://fedlex.data.admin.ch/eli/oc/1996/14_14_14)[470](https://fedlex.data.admin.ch/eli/oc/1996/470_470_470), [1997 270](https://fedlex.data.admin.ch/eli/oc/1997/270_270_270)[1435](https://fedlex.data.admin.ch/eli/oc/1997/1435_1435_1435); [AS 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991)Art. 45 Ziff. 2. [AS 1997 2461](https://fedlex.data.admin.ch/eli/oc/1997/2461_2461_2461)Art. 13 Bst. a]. Siehe heute: die Postverordnung vom 29. Aug. 2012 ([SR 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)).
+[^38-1]: Aufgehoben durch Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, mit Wirkung seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### 6. Bestimmung des einzuschlagenden Verfahrens
 
@@ -533,7 +537,7 @@ Die Konkursämter sind berechtigt, von der zuständigen Kreispostdirektion für 
 
 [^39-1]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### II. Schuldenruf****
+### II. Schuldenruf
 
 [^lvlB-lvlII-1]
 
@@ -558,12 +562,13 @@ Solche Spezialanzeigen sind im ordentlichen Verfahren zu erlassen:
 - a. an die Gläubiger, deren Namen und Wohnort bekannt sind;
 - b. an das Gericht, vor welchem ein Zivilprozess im Sinn von Artikel 207 Absatz 1 SchKG, und an die Behörde, vor welcher ein Verwaltungsverfahren im Sinn von Artikel 207 Absatz 2 SchKG hängig ist;
 - c. an den Versicherer, wenn der Gemeinschuldner eine Schadens- oder eine Personenversicherung abgeschlossen hatte;
-- d. an die zuständige Vormundschaftsbehörde, wenn Kinder oder Mündel unter seiner Gewalt stehen;
-- e. an die Grundbuchämter der andern Konkurskreise, in denen der Gemeinschuldner laut dem Inventar Grundstücke besass.[^40-1]
+- d.[^40-1] an die zuständige Kindes- und Erwachsenenschutzbehörde, wenn der Gemeinschuldner Inhaber der elterlichen Sorge ist oder als Beistand, Vormund oder Vorsorgebeauftragter tätig ist und konkrete Anzeichen dafür bestehen, dass die Interessen der Kinder oder der betroffenen Personen durch die Konkurseröffnung gefährdet werden könnten;
+- e. an die Grundbuchämter der andern Konkurskreise, in denen der Gemeinschuldner laut dem Inventar Grundstücke besass.[^40-2]
 
 <sup>3</sup> Die Namen der Gläubiger, an welche Spezialanzeigen ergehen, sind im Konkursprotokoll oder in einer besondern, vom Konkursbeamten zu unterzeichnenden Liste zusammenzustellen.
 
-[^40-1]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^40-1]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^40-2]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
 ### 2. Rückgabe der Beweismittel
 
@@ -615,29 +620,46 @@ Ist ein Gläubigerausschuss bestellt worden, so ist über die von ihm gefassten 
 
 [^44-1]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### 4. Aussonderungsansprüche
+### 4. Aussonderungsansprüche und Ansprüche auf kryptobasierte Vermögenswerte
 
 ### a. Verfügung der Konkursverwaltung
 
 #### Art. 45
 
-Die Verfügung über die Herausgabe von Sachen, welche sich in der Verfügungsgewalt der Masse befinden und von einem Dritten zu Eigentum angesprochen werden (Art. 242 SchKG und Art. 34 dieser V), ist nach Ablauf der Eingabefrist (Art. 232 Abs. 2 Ziff. 2 SchKG) zu erlassen, ohne Rücksicht darauf, ob der Ansprecher selbst den Anspruch angemeldet habe oder ob die Sache vom Gemeinschuldner oder von einer andern Person als Dritteigentum bezeichnet worden sei. Die Verfügung ist auch dann noch zu erlassen, wenn der Anspruch erst nach der Versteigerung des angesprochenen Gegenstandes, jedoch vor der Verteilung des Erlöses angemeldet wird.
+[^45-1]
 
-### b. Klagefristansetzung an den Drittansprecher
+<sup>1</sup> Die Verfügung über die Herausgabe von Vermögenswerten, die sich in der Verfügungsmacht der Masse befinden und die von einem Dritten beansprucht werden (Art. 242 und 242*a* SchKG sowie Art. 34 dieser Verordnung), ist nach Ablauf der Eingabefrist (Art. 232 Abs. 2 Ziff. 2 SchKG) zu erlassen, ohne Rücksicht darauf, ob der Dritte selbst den Anspruch angemeldet hat oder ob der Vermögenswert vom Gemeinschuldner oder von einer anderen Person als einem Dritten zustehend bezeichnet worden ist.
+
+<sup>2</sup> Die Verfügung ist auch dann noch zu erlassen, wenn der Anspruch erst nach der Versteigerung des angesprochenen Vermögenswerts, jedoch vor der Verteilung des Erlöses angemeldet wird.
+
+[^45-1]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### b. Klagefristansetzung an den Dritten
 
 #### Art. 46
 
-In die Klagefristansetzung an den Ansprecher nach Artikel 242 Absatz 2 SchKG ist die genaue Bezeichnung des streitigen Gegenstandes sowie die Androhung aufzunehmen, dass der Anspruch als verwirkt gelte, wenn die Frist nicht eingehalten werde.
+[^46-1]
+
+Wird dem Dritten eine Klagefrist nach den Artikeln 242 Absatz 2 und 242*a* Absatz 3 SchKG gesetzt, so sind darin die streitigen Vermögenswerte genau zu bezeichnen und die Androhung aufzunehmen, dass der Anspruch als verwirkt gilt, wenn die Frist nicht eingehalten wird.
+
+[^46-1]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### c. Wahrung der Gläubigerrechte
 
 #### Art. 47
 
-<sup>1</sup> Will die Konkursverwaltung den Anspruch anerkennen, so soll die Anzeige davon an den Drittansprecher und die Herausgabe des angesprochenen Gegenstandes an ihn unterbleiben, bis feststeht, ob die zweite Gläubigerversammlung etwas anderes beschliesst oder ob nicht einzelne Gläubiger nach Artikel 260 SchKG Abtretung der Ansprüche der Masse auf den Gegenstand verlangen.
+[^47-1]
 
-<sup>2</sup> Die Verwahrungskosten gehen zulasten der Konkursmasse, nach erfolgter Abtretung der Ansprüche gemäss Artikel 260 SchKG zulasten des Abtretungsgläubigers. Die Konkursverwaltung kann diesem unter Androhung sofortiger Herausgabe des Gegenstandes an den Drittansprecher eine Frist ansetzen, innert der er für die Kosten der weiteren Verwahrung unbedingte Gutsprache sowie Sicherheit zu leisten hat.[^47-1]
+<sup>1</sup>
 
-[^47-1]: Eingefügt durch Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+Die Konkursverwaltung teilt dem Dritten ihre Anerkennung des Anspruchs erst mit und gibt ihm die beanspruchten Vermögenswerte erst heraus, wenn feststeht, dass:
+
+- a. die zweite Gläubigerversammlung nichts anderes beschliesst*;* und
+- b. nicht einzelne Gläubiger nach Artikel 260 SchKG Abtretung der Ansprüche der Masse auf den Vermögenswert verlangen.
+
+<sup>2</sup> Die Verwahrungskosten gehen zulasten der Konkursmasse oder, nach erfolgter Abtretung der Ansprüche gemäss Artikel 260 SchKG, zulasten des Abtretungsgläubigers. Die Konkursverwaltung kann diesem unter Androhung sofortiger Herausgabe des Vermögenswerts an den Dritten eine Frist ansetzen, innert der er für die Kosten der weiteren Verwahrung unbedingte Gutsprache und Sicherheit zu leisten hat.
+
+[^47-1]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### aa. Im ordentlichen Verfahren
 
@@ -645,7 +667,9 @@ In die Klagefristansetzung an den Ansprecher nach Artikel 242 Absatz 2 SchKG ist
 
 <sup>1</sup> Zu diesem Zweck hat die Konkursverwaltung in der Einladung zur zweiten Gläubigerversammlung ausdrücklich zu bemerken, dass Abtretungsbegehren im Sinne von Artikel 260 SchKG bei Vermeidung des Ausschlusses in der Versammlung selbst oder spätestens binnen zehn Tagen nach ihrer Abhaltung zu stellen seien.
 
-<sup>2</sup> Lassen indessen die besondern Umstände des Falles eine Erledigung der Eigentumsansprache vor der zweiten Gläubigerversammlung als wünschenswert erscheinen, so kann zu diesem Zwecke entweder eine besondere Gläubigerversammlung einberufen oder den Gläubigern durch Zirkular eine angemessene Frist angesetzt werden, binnen der sie, bei Vermeidung des Ausschlusses, der Konkursverwaltung mitzuteilen haben, ob sie den Anspruch gemäss Artikel 260 Absatz 1 SchKG an Stelle der Masse bestreiten wollen.
+<sup>2</sup> Lassen indessen die besonderen Umstände des Falls eine Erledigung des Aussonderungs- oder Herausgabeanspruchs vor der zweiten Gläubigerversammlung als wünschenswert erscheinen, so kann zu diesem Zwecke entweder eine besondere Gläubigerversammlung einberufen oder den Gläubigern durch Zirkular eine angemessene Frist angesetzt werden, binnen der sie, bei Vermeidung des Ausschlusses, der Konkursverwaltung mitzuteilen haben, ob sie den Anspruch gemäss Artikel 260 Absatz 1 SchKG anstelle der Masse bestreiten wollen.[^48-1]
+
+[^48-1]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### bb. Im summarischen Verfahren
 
@@ -657,36 +681,79 @@ Im summarischen Verfahren hat in wichtigeren Fällen eine Fristansetzung zu erfo
 
 #### Art. 50
 
-Nachträglich eingegebene Ansprüche sind in wichtigeren Fällen den Gläubigern nach dem Ermessen der Konkursverwaltung durch öffentliche Bekanntmachung oder durch Zirkular mitzuteilen oder es ist, wenn nötig, eine besondere Gläubigerversammlung einzuberufen.
+<sup>1</sup> Nachträglich eingegebene Ansprüche sind in wichtigeren Fällen den Gläubigern nach dem Ermessen der Konkursverwaltung durch öffentliche Bekanntmachung oder durch Zirkular mitzuteilen oder es ist, wenn nötig, eine besondere Gläubigerversammlung einzuberufen.
+
+<sup>2</sup> Die eingebende Person hat sämtliche durch die nachträglich eingegebenen Ansprüche verursachten Kosten zu tragen; sie kann zu einem entsprechenden Vorschuss verpflichtet werden.[^50-1]
+
+[^50-1]: Eingefügt durch Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### dd. Ausnahmen
 
 #### Art. 51
 
-Die obigen Vorschriften (Art. 47-50) finden keine Anwendung, wenn das Eigentum des Drittansprechers von vornherein als bewiesen zu betrachten oder die sofortige Herausgabe des angesprochenen Gegenstandes im offenbaren Interesse der Masse liegt oder endlich vom Drittansprecher angemessene Kaution geleistet wird.
+[^51-1]
+
+Die Artikel 47–50 finden keine Anwendung, wenn:
+
+- a. der Anspruch des Dritten von vornherein als bewiesen zu betrachten ist;
+- b. die sofortige Herausgabe des angesprochenen Vermögenswerts im offenbaren Interesse der Masse liegt; oder
+- c. vom Dritten angemessene Kaution geleistet wird.
+
+[^51-1]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### d. Klagefristansetzung bei Massarechtsabtretungen
 
 #### Art. 52
 
-Wird eine Abtretung der Rechtsansprüche der Masse verlangt, so setzt die Konkursverwaltung nach erfolgter Abtretung und Ausstellung einer Bescheinigung hierüber an die Abtretungsgläubiger dem Dritten die in Artikel 242 Absatz 2 SchKG vorgeschriebene Frist zur Klage an, unter Angabe der Gläubiger, gegen die er als Vertreter der Masse gerichtlich vorzugehen hat.
+[^52-1]
 
-### e. Konkurrenz von Pfand- mit Eigentumsansprachen
+Wird eine Abtretung der Rechtsansprüche der Masse verlangt, so setzt die Konkursverwaltung nach erfolgter Abtretung und Ausstellung einer Bescheinigung hierüber an die Abtretungsgläubiger dem Dritten die in den Artikeln 242 Absatz 2 und 242*a* Absatz 3 SchKG vorgeschriebene Frist zur Klage an, unter Angabe der Gläubiger, gegen die er als Vertreter der Masse gerichtlich vorzugehen hat.
+
+[^52-1]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### e. Konkurrenz von Pfandansprüchen mit Ansprüchen nach den Artikeln 242 und 242*a* SchKG
 
 #### Art. 53
 
-Werden Gegenstände vindiziert und daran zugleich von einem Konkursgläubiger Pfand- oder Retentionsrechte geltend gemacht, so ist folgendermassen zu verfahren:
+[^53-1]
 
-- – Wird der Eigentumsanspruch im Konkurs anerkannt, so ist ein allfälliger Streit zwischen dem Vindikanten und dem Pfandansprecher nicht im Konkursverfahren auszutragen.
-- – Kommt es dagegen zu einem Prozess über die Eigentumsansprache, so ist über die Pfandansprache erst nach rechtskräftiger Abweisung des Drittansprechers durch einen Nachtrag zum Kollokationsplan zu verfügen.
+Wird die Herausgabe von Vermögenswerten nach den Artikeln 242 und 242*a* SchKG verlangt und werden zugleich von einem Konkursgläubiger Pfand- oder Retentionsrechte an diesen Vermögenswerten geltend gemacht, so ist je folgendermassen zu verfahren:
 
-### f. Konkurrenz von Pfand- oder Eigentums- mit Kompetenzansprachen
+- a. Wird der Anspruch im Konkurs anerkannt, so ist ein allfälliger Streit zwischen dem Anmelder nach Artikel 242 oder 242*a* SchKG und dem Anmelder eines Pfandanspruchs nicht im Konkursverfahren auszutragen.
+- b. Kommt es dagegen zu einem Prozess über einen angemeldeten Anspruch nach Artikel 242 oder 242*a* SchKG, so ist über die Pfandansprüche erst nach rechtskräftiger Abweisung des Anspruchs des Anmelders durch einen Nachtrag zum Kollokationsplan zu verfügen.
+
+[^53-1]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### f. Konkurrenz von Pfandansprüchen und Ansprüchen nach den Artikeln 242 und 242*a* SchKG mit Kompetenzansprüchen
+
+[^lvlB-lvlIII-lvl4-lvlf-1]
+
+[^lvlB-lvlIII-lvl4-lvlf-1]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 54
 
 <sup>1</sup> Kompetenzstücke, an denen vertragliche Pfandrechte geltend gemacht werden, sind, sofern diese Rechte im Kollokationsverfahren anerkannt werden, in die Konkursmasse zu ziehen und zugunsten der Pfandansprecher zu verwerten. Ein allfälliger Überschuss ist dem Gemeinschuldner zuzuweisen.
 
-<sup>2</sup> Werden von Dritten zu Eigentum angesprochene Gegenstände von der Masse als Kompetenzstücke anerkannt, so unterbleibt das Verfahren nach Artikel 242 SchKG und ist der Dritte darauf zu verweisen, den Anspruch gegen den Gemeinschuldner ausserhalb des Konkursverfahrens geltend zu machen.
+<sup>2</sup> Werden von Dritten angesprochene Vermögenswerte von der Masse als Kompetenzstücke anerkannt, so unterbleibt das Verfahren nach den Artikeln 242 und 242*a* SchKG und ist der Anmelder darauf zu verweisen, den Anspruch gegen den Gemeinschuldner ausserhalb des Konkursverfahrens geltend zu machen.[^54-1]
+
+[^54-1]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### 5. Zugang zu Daten und deren Herausgabe
+
+#### Art. 54a
+
+[^54a-1]
+
+<sup>1</sup>
+
+Die Verfügung über den Zugang zu Daten, die sich in der Verfügungsmacht der Masse befinden, und über deren Herausgabe ist zu erlassen:
+
+- a. unverzüglich nach Eingang des Gesuchs;
+- b. sofern den beanspruchten Daten Vermögenswert zukommt: nach Ablauf der Eingabefrist (Art. 232 Abs. 2 Ziff. 2 SchKG).
+
+<sup>2</sup> Die Artikel 46–54 gelten sinngemäss.
+
+[^54a-1]: Eingefügt durch Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### IV. Erwahrung der Konkursforderungen Kollokation der Gläubiger
 
@@ -930,7 +997,7 @@ Das Protokoll über die Verwertung von Liegenschaften soll insbesondere noch ent
 Im Besitz des Gemeinschuldners befindliche Pfandtitel über auf seinem Grundstück grundpfandgesicherte Forderungen sowie leere Pfandstellen dürfen gemäss Artikel 815 des Zivilgesetzbuches[^75-2] bei der Aufstellung der Steigerungsbedingungen nicht berücksichtigt werden. Die Pfandtitel sind ohne weiteres zur Entkräftung zu bringen und die leeren Pfandstellen nach der Versteigerung im Grundbuch zu löschen.
 
 [^75-1]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^75-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^75-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### b. Behandlung der vom Gemeinschuldner verpfändeten Eigentümerpfandtitel
 
@@ -950,19 +1017,13 @@ Die vom Gemeinschuldner verpfändeten Pfandtitel über auf seinem Grundstück gr
 
 <sup>2</sup> Bezüglich der Verwertung (Versteigerung oder Verkauf aus freier Hand) eines Lebensversicherungsanspruchs sind die Vorschriften der Artikel 10 und 15-21 der Verordnung vom 10. Mai 1910[^77-1] betreffend die Pfändung, Arrestierung und Verwertung von Versicherungsansprüchen massgebend.
 
-[^77-1]: [SR 281.51](https://fedlex.data.admin.ch/eli/cc/26/205_203_198)
-
-### d. Verwertung von Vieh
+[^77-1]: [SR 281.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6169)
 
 #### Art. 78
 
 [^78-1]
 
-Handelt es sich um die Verwertung von Vieh, so sind die Vorschriften des Tierseuchengesetzes vom 1. Juli 1966[^78-2] (Art. 14) und der Tierseuchenverordnung vom 27. Juni 1995[^78-3] (Art. 11) betreffend die Übergabe von Verkehrsscheinen an den Käufer zu beachten.
-
-[^78-1]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^78-2]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^78-3]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^78-1]: Aufgehoben durch Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, mit Wirkung seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 79
 
@@ -1017,7 +1078,7 @@ Handelt es sich um die Verwertung von Vieh, so sind die Vorschriften des Tierseu
 Glaubt die Konkursverwaltung (und eventuell der Gläubigerausschuss), auf eine Spezialvergütung nach Artikel 48 der Gebührenverordnung vom 23. September 1996[^84-2] zum SchKG Anspruch erheben zu können, so hat sie vor der endgültigen Feststellung der Verteilungsliste der zuständigen Aufsichtsbehörde ausser sämtlichen Akten eine detaillierte Aufstellung ihrer Verrichtungen, für welche die Verordnung keine Gebühren vorsieht, zur Festsetzung der Entschädigung einzureichen.
 
 [^84-1]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^84-2]: [SR 281.35](https://fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937)
+[^84-2]: [SR 281.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6165)
 
 ### b. Anlage im allgemeinen
 
@@ -1055,18 +1116,11 @@ Sind von einzelnen Gläubigern Prozesse nach Artikel 260 SchKG mit Erfolg durchg
 
 Bevor die Konkursverwaltung zur Verteilung des Erlöses an die Gläubiger schreitet, hat sie sich darüber zu vergewissern, ob während der gesetzlichen Frist von zehn Tagen Beschwerden gegen die Verteilungsliste bei der Aufsichtsbehörde eingelangt sind, und bejahendenfalls ihre Erledigung abzuwarten.
 
-### 5. Ausstellung der Verlustscheine bei Heimstätten
-
-[^lvlB-lvlVI-lvl5-1]
-
-[^lvlB-lvlVI-lvl5-1]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-
 #### Art. 89
 
-Besitzt der Gemeinschuldner im Zeitpunkte der Ausstellung der Verlustscheine ein zur Heimstätte erklärtes Gut oder Haus (Art. 349ff. ZGB[^89-1] und Art. 31 hiervor), so ist davon in den Verlustscheinen Vormerk zu nehmen, mit Angabe des Schatzungswertes der Heimstätte und der auf ihr ruhenden Lasten. Ferner sind in den Verlustscheinen die Bestimmungen des Zivilgesetzbuches[^89-2] und die ergänzenden kantonalen Vorschriften über die Zwangsverwaltung der Heimstätten und die Befriedigung der Gläubiger aufzunehmen.
+[^89-1]
 
-[^89-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^89-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^89-1]: Aufgehoben durch Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, mit Wirkung seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 90
 
@@ -1122,13 +1176,15 @@ Hat eine Abtretung von Rechtsansprüchen der Masse an einzelne Konkursgläubiger
 
 [^96-1]
 
-Für das summarische Verfahren gelten, ausser den in den Artikeln 32, 49, 70 und 93 enthaltenen Vorschriften, folgende Besonderheiten:
+Für das summarische Verfahren gelten, ausser den Artikeln 32, 49, 70 und 93, folgende Besonderheiten:[^96-2]
 
 - a. Schlägt der Gemeinschuldner einen Nachlassvertrag vor, so ist eine Gläubigerversammlung einzuberufen, wenn er die Kosten dafür vorschiesst.
 - b. Für Grundstückssteigerungen gelten die Bestimmungen der Artikel 134–137 und 143 SchKG; ein allfälliger Zahlungstermin darf jedoch nicht mehr als drei Monate betragen. Im Übrigen gelten für die Verwertung die Vorschriften der Artikel 71–78 und 80 dieser Verordnung.
-- c. Für die Verteilung ist unter Beachtung der Vorschriften der Artikel 262 und 264 Absatz 3 SchKG sowie der Artikel 83 und 85 hiervor eine Verteilungsliste zu erstellen. Abschlagsverteilungen sind nicht vorzunehmen, dagegen Verlustscheine nach Artikel 265 SchKG auszustellen. Auch ist Artikel 150 SchKG analog zur Anwendung zu bringen.
+- c.[^96-3] …
 
 [^96-1]: Fassung gemäss Ziff. I der V des BGer vom 5. Juni 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^96-2]: Fassung gemäss Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^96-3]: Aufgehoben durch Ziff. I 3 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, mit Wirkung seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ## C. Geschäftsführung der ausseramtlichen Konkursverwaltungen
 
@@ -1181,4 +1237,4 @@ Die in den Artikeln 1 Ziffern 2–4, 2, 3, 5, 8–10, 13, 15–34, 36, 38, 41, 4
 
 <sup>2</sup> Insbesondere wird Artikel 12 der Verordnung vom 10. Mai 1910[^100-1] betreffend die Pfändung, Arrestierung und Verwertung von Versicherungsansprüchen durch Artikel 61 hiervor abgeändert.
 
-[^100-1]: [SR 281.51](https://fedlex.data.admin.ch/eli/cc/26/205_203_198)
+[^100-1]: [SR 281.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6169)

@@ -4,20 +4,20 @@ title: "Ordonnance du 13 juillet 1911 sur l'administration des offices de failli
 short: OAOF
 eli: "https://fedlex.data.admin.ch/eli/cc/27/751_749_771"
 language: fr
-version: 1997-01-01
+version: 2021-08-01
 adopted: 1911-07-13
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/751_749_771/19970101/fr/xml/fedlex-data-admin-ch-eli-cc-27-751_749_771-19970101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/751_749_771/19970101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/751_749_771/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-27-751_749_771-20210801-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/751_749_771/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’administration des offices de faillite
 
-(OAOF**[^t-1]**)
+(OAOF)[^t-1]
 
-du 13 juillet 1911 (Etat le 1<sup>er</sup> janvier 1997)
+du 13 juillet 1911 (État le 1<sup>er</sup> août 2021)
 
 [^t-1]: Abréviation introduite par le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
@@ -25,9 +25,9 @@ Le Tribunal fédéral suisse,
 
 vu l’article 15 de la loi fédérale sur la poursuite pour dettes et la faillite[^ingress-1] (LP),
 
-ordonne:*[^ingress-2]*
+ordonne:[^ingress-2]
 
-[^ingress-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^ingress-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
 ## A. Procès-verbaux, actes et comptabilité
@@ -176,7 +176,7 @@ Les actes principaux de la faillite, c’est-à-dire le procès-verbal et les pi
 
 [^11-1]: Anciennement art. 12.
 
-### III. Traitement électronique des données****
+### III. Traitement électronique des données
 
 [^lvlA-lvlIII-1]
 
@@ -192,7 +192,7 @@ Avec l’assentiment de l’autorité cantonale de surveillance, les offices peu
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### IV.**** Tenue et conservation des actes de la faillite
+### IV. Tenue et conservation des actes de la faillite
 
 [^lvlA-lvlIV-1]
 
@@ -248,7 +248,7 @@ L’office des faillites doit observer les règles suivantes au sujet de la cons
 - 4\. Les autorités cantonales de surveillance ont l’obligation de veiller à ce que les offices de faillite, qui ne sont pas en mesure de conserver par devers eux les livres de comptabilité et papiers d’affaires confiés à leur garde en vertu des règles indiquées ci-dessus, puissent les remettre à un dépôt central.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^15-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^15-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^15-3]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
 ### 3. Enregistrement sur des supports d’images ou de données
@@ -263,13 +263,14 @@ L’office des faillites doit observer les règles suivantes au sujet de la cons
 
 <sup>1</sup> Avec l’accord de l’autorité cantonale de surveillance, les pièces qui doivent être conservées peuvent être enregistrées sur des supports d’images ou de données; les originaux peuvent ensuite être détruits.[^15a-2]
 
-<sup>2</sup> L’autorité cantonale de surveillance veille à ce que les prescriptions de l’ordonnance du 2 juin 1976[^15a-3] concernant l’enregistrement des documents à conserver soient respectées.
+<sup>2</sup> L’autorité cantonale de surveillance veille à ce que les prescriptions de l’ordonnance du 24 avril 2002 concernant la tenue et la conservation des livres de comptes[^15a-3] soient respectées.[^15a-4]
 
 [^15a-1]: Introduit par le ch. I de l’A du TF du 18 mai 1979, en vigueur depuis le 1<sup>er</sup> juillet 1979 ([RO 1979 813](https://fedlex.data.admin.ch/eli/oc/1979/813_813_813)).
 [^15a-2]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^15a-3]: [[RO 1976 1334](https://fedlex.data.admin.ch/eli/oc/1976/1334_1334_1334). [RO 2002 1399](https://fedlex.data.admin.ch/eli/oc/2002/216)Art. 11]. Voir actuellement l’O du 24 avr. 2002 concernant la tenue et la conservation des livres de comptes ([RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)).
+[^15a-3]: [RS 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
+[^15a-4]: Nouvelle teneur selon le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
-### V.**** Tenue des livres, caisse et comptabilité
+### V. Tenue des livres, caisse et comptabilité
 
 [^lvlA-lvlV-1]
 
@@ -367,13 +368,13 @@ L’autorité cantonale de surveillance peut autoriser un autre mode d’organis
 
 [^24a-1]: Introduit par le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-## B. Procédure à suivre aux différents stades de la faillite****
+## B. Procédure à suivre aux différents stades de la faillite
 
 [^lvlB-1]
 
 [^lvlB-1]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### I. Formation de la masse et détermination de la procédure****
+### I. Formation de la masse et détermination de la procédure
 
 [^lvlB-lvlI-1]
 
@@ -451,13 +452,13 @@ Les titres de gage constatant une créance garantie par les immeubles du failli 
 
 #### Art. 31
 
-<sup>1</sup> L’indication des objets de stricte nécessité que l’administration entend laisser au failli ainsi que l’indication de l’existence d’un asile de famille (art. 349 et s. CC[^31-1] sont portées à la fin de l’inventaire; cette énumération indiquera les numéros attribués à ces objets dans l’inventaire.
+<sup>1</sup> L’indication des objets de stricte nécessité que l’administration entend laisser au failli est portée à la fin de l’inventaire; cette énumération indiquera les numéros attribués à ces objets dans l’inventaire.[^31-1]
 
 <sup>2</sup> Communication de cette décision est faite au failli au moment de la reconnaissance de l’inventaire ou par communication écrite spéciale.
 
 <sup>3</sup> Si le failli renonce à ses droits sur tout ou partie des biens à lui attribués, cet abandon est porté à l’inventaire par mention signée du failli.
 
-[^31-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^31-1]: Nouvelle teneur selon le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### h. Communication aux créanciers
 
@@ -473,13 +474,19 @@ Les titres de gage constatant une créance garantie par les immeubles du failli 
 
 Les fruits civils et naturels produits par les immeubles au cours de la faillite sont portés successivement dans l’inventaire sous un chapitre spécial.
 
-### k. Revendications
+### k. Revendications au sens des art. 242 à 242*b* LP
+
+[^lvlB-lvlI-lvl1-lvlk-1]
+
+[^lvlB-lvlI-lvl1-lvlk-1]: Nouvelle teneur selon le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 34
 
-<sup>1</sup> Les revendications de tiers (art. 242 LP) sont de même portées à l’inventaire dans un chapitre spécial où seront indiqués le nom du revendiquant, le numéro attribué dans l’inventaire à l’objet revendiqué et éventuellement les pièces annexes déposées. Mention sera également faite de la revendication sur l’inventaire lui-même, dans la colonne des observations, à la suite de l’objet revendiqué.
+<sup>1</sup> Les revendications de tiers (art. 242 à 242*b* LP) sont portées à l’inventaire dans un chapitre spécial où sont indiqués le nom du revendiquant, le numéro attribué dans l’inventaire au bien revendiqué et éventuellement les pièces annexes déposées. Mention sera également faite de la revendication sur l’inventaire lui-même, dans la colonne des observations, à la suite du bien revendiqué.[^34-1]
 
 <sup>2</sup> Les explications données par le failli au sujet de ces revendications, les décisions ultérieures de l’administration de la faillite, enfin le résultat des procès engagés, sont verbalisés sommairement à la fin de ce même chapitre.
+
+[^34-1]: Nouvelle teneur selon le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### 2. Avance de frais
 
@@ -509,19 +516,16 @@ A l’occasion de l’inventaire le préposé est tenu d’interroger le failli 
 - d. la puissance paternelle ou la tutelle qu’il exerce éventuellement, ainsi que les revendications de propriété ou les créances existant en faveur des personnes qui y sont soumises;
 - e.[^37-2] le grade qu’il a dans l’armée: sous-officier, officier ou officier spécialiste (soldat, appointé ou sous-officier exerçant des fonctions d’officier).
 
-[^37-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^37-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 [^37-2]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### 5. Séquestre des envois postaux
+### 5. …
 
 #### Art. 38
 
 [^38-1]
 
-Les offices sont en droit d’exiger de la direction d’arrondissement postal compétente, pour toute la durée de la faillite, la présentation ou la remise des envois postaux et des chèques adressés au failli ou expédiés par lui; ils peuvent aussi demander des renseignements sur les relations postales du failli (cf. art. 14 et 18 de l’ordonnance [1] du 1<sup>er</sup> sept. 1967[^38-2] relative à la loi sur le Service des postes). Le failli a cependant le droit d’assister à l’ouverture des envois susindiqués.
-
-[^38-1]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^38-2]: [[RO 1967 1447](https://fedlex.data.admin.ch/eli/oc/1967/1405_1447_1440),[1969 404](https://fedlex.data.admin.ch/eli/oc/1969/396_404_)[1140](https://fedlex.data.admin.ch/eli/oc/1969/1120_1140_1142), [1970 480](https://fedlex.data.admin.ch/eli/oc/1970/480_480_480)[714](https://fedlex.data.admin.ch/eli/oc/1970/714_714_714), [1971 680](https://fedlex.data.admin.ch/eli/oc/1971/683_680_680)[1717](https://fedlex.data.admin.ch/eli/oc/1971/1712_1717_1717), [1972 2727](https://fedlex.data.admin.ch/eli/oc/1972/2675_2727_2508), [1974 578](https://fedlex.data.admin.ch/eli/oc/1974/578_578_578)[1977](https://fedlex.data.admin.ch/eli/oc/1974/1977_1977_1977)[2050](https://fedlex.data.admin.ch/eli/oc/1974/2050_2050_2050), [1975 2033](https://fedlex.data.admin.ch/eli/oc/1975/2033_2033_2033), [1976 962](https://fedlex.data.admin.ch/eli/oc/1976/962_962_962), [1977 2122](https://fedlex.data.admin.ch/eli/oc/1977/2122_2122_2122), [1979 287](https://fedlex.data.admin.ch/eli/oc/1979/287_287_287)[1180](https://fedlex.data.admin.ch/eli/oc/1979/1180_1180_1180), [1980 2](https://fedlex.data.admin.ch/eli/oc/1980/2_2_2)[777](https://fedlex.data.admin.ch/eli/oc/1980/777_777_777), [1981 1863](https://fedlex.data.admin.ch/eli/oc/1981/1863_1863_1863), [1983 1656](https://fedlex.data.admin.ch/eli/oc/1983/1656_1656_1656), [1986 39](https://fedlex.data.admin.ch/eli/oc/1986/39_39_39)[991](https://fedlex.data.admin.ch/eli/oc/1986/991_991_991)[1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991)art. 45 ch. 2, [1987 440](https://fedlex.data.admin.ch/eli/oc/1987/440_440_440), [1988 370](https://fedlex.data.admin.ch/eli/oc/1988/370_370_370), [1989 565](https://fedlex.data.admin.ch/eli/oc/1989/565_565_565)[764](https://fedlex.data.admin.ch/eli/oc/1989/764_764_764)[1899](https://fedlex.data.admin.ch/eli/oc/1989/1899_1899_1899), [1990 1448](https://fedlex.data.admin.ch/eli/oc/1990/1448_1448_1448), [1992 94](https://fedlex.data.admin.ch/eli/oc/1992/94_94_94)[1243](https://fedlex.data.admin.ch/eli/oc/1992/1243_1243_1243), [1993 62](https://fedlex.data.admin.ch/eli/oc/1993/62_62_62)[2473](https://fedlex.data.admin.ch/eli/oc/1993/2473_2473_2473), [1994 1442](https://fedlex.data.admin.ch/eli/oc/1994/1442_1442_1442)[2788](https://fedlex.data.admin.ch/eli/oc/1994/2788_2788_2788), [1995 5491](https://fedlex.data.admin.ch/eli/oc/1995/5491_5491_5491), [1996 14](https://fedlex.data.admin.ch/eli/oc/1996/14_14_14)[470](https://fedlex.data.admin.ch/eli/oc/1996/470_470_470), [1997 270](https://fedlex.data.admin.ch/eli/oc/1997/270_270_270)[1435](https://fedlex.data.admin.ch/eli/oc/1997/1435_1435_1435). [RO 1997 2461](https://fedlex.data.admin.ch/eli/oc/1997/2461_2461_2461)art. 13 let. a]. Voir actuellement l’O du 29 août 2012 sur la poste ([RS 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)).
+[^38-1]: Abrogé par le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, avec effet au 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### 6. Détermination de la procédure à suivre
 
@@ -535,7 +539,7 @@ Les offices sont en droit d’exiger de la direction d’arrondissement postal c
 
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### II.**** Appel aux créanciers
+### II. Appel aux créanciers
 
 [^lvlB-lvlII-1]
 
@@ -560,12 +564,13 @@ L’avis spécial doit être envoyé en cas de liquidation ordinaire:
 - a. à tous les créanciers dont le nom et le domicile sont connus;
 - b. au tribunal devant lequel s’instruit un procès civil au sens de l’article 207, 1<sup>er</sup> alinéa, LP et à l’autorité devant laquelle est pendante une procédure administrative au sens de l’article 207, 2<sup>e</sup> alinéa, LP;
 - c. à l’assureur avec lequel le failli a conclu un contrat d’assurance des personnes ou d’assurance contre les dommages;
-- d. é l’autorité tutélaire compétente si le failli exerce la puissance parentale ou s’il est tuteur;
-- e. aux bureaux du registre foncier des autres arrondissements de faillite dans lesquels le failli est propriétaire d’immeubles à teneur de l’inventaire.[^40-1]
+- d.[^40-1] à l’autorité de protection de l’enfant et de l’adulte compétente, si le failli détient l’autorité parentale, exerce la fonction de curateur ou de tuteur ou agit en tant que mandataire pour cause d’inaptitude et qu’il existe des indices concrets que l’ouverture de la faillite pourrait constituer une menace pour les intérêts de l’enfant ou des personnes concernées;
+- e. aux bureaux du registre foncier des autres arrondissements de faillite dans lesquels le failli est propriétaire d’immeubles à teneur de l’inventaire.[^40-2]
 
 <sup>3</sup> Les noms des créanciers auxquels des avis ont été expédiés sont portés au procès-verbal de la faillite ou sur une liste spéciale qui doit être signée par le préposé.
 
-[^40-1]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^40-1]: Nouvelle teneur selon le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^40-2]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
 ### 2. Restitution des moyens de preuve
 
@@ -617,29 +622,46 @@ S’il a été désigné une commission de surveillance, on tiendra un procès-v
 
 [^44-1]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### 4. Revendications
+### 4. Droit à la restitution
 
 ### a. Décision de l’administration
 
 #### Art. 45
 
-L’administration de la faillite statuera, après expiration du délai de production prévu à l’article 232, 2<sup>e</sup> alinéa, chiffre 2 LP, sur la remise de biens trouvés en la détention du failli et dont la propriété est revendiquée par des tiers (art. 242 LP et art. 34 de la présente ordonnance). Elle rendra sa décision soit que le droit du tiers à la revendication ait été produit par lui-même, soit que ce droit ait été déclaré par le failli ou par une autre personne. Enfin, cette décision de l’administration sera prise même si l’objet revendiqué a été vendu aux enchères, pourvu que le droit du tiers sur cet objet ait été déclaré à l’office avant la répartition du produit de la réalisation.
+[^45-1]
+
+<sup>1</sup> L’administration de la faillite statuera, après expiration du délai de production prévu à l’art. 232, al. 2, ch. 2, LP, sur la restitution des biens revendiqués par un tiers dont la masse a le pouvoir de disposer (art. 242 ou 242*a* LP et art. 34 de la présente ordonnance); elle rendra sa décision soit que le droit du tiers à la restitution ait été produit par lui-même, soit que ce droit ait été déclaré par le failli ou par une autre personne.
+
+<sup>2</sup> Cette décision de l’administration sera prise même si le bien revendiqué a été vendu aux enchères, pourvu que le droit du tiers sur ce bien ait été déclaré à l’office avant la répartition du produit de la réalisation
+
+[^45-1]: Nouvelle teneur selon le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### b. Délai pour ouvrir action
 
 #### Art. 46
 
-L’avis par lequel le délai pour ouvrir action sera fixé au tiers revendiquant (art. 242, 2<sup>e</sup> al. LP) doit contenir l’indication exacte de l’objet litigieux et rappeler expressément que la revendication sera périmée si l’action n’est pas intentée dans le délai indiqué.
+[^46-1]
+
+L’avis par lequel le délai pour ouvrir action est fixé au tiers revendiquant (art. 242, al. 2, et 242*a*, al. 3, LP) doit contenir l’indication exacte du bien litigieux et rappeler expressément que la revendication sera périmée si l’action n’est pas intentée dans le délai indiqué.
+
+[^46-1]: Nouvelle teneur selon le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### c. Réserve des droits des créanciers
 
 #### Art. 47
 
-<sup>1</sup> Si l’administration estime la revendication fondée, l’avis à donner au tiers revendiquant, ainsi que la remise de l’objet sont toutefois suspendus jusqu’au moment où la seconde assemblée des créanciers aura été à même de prendre une décision contraire ou jusqu’au moment où les créanciers individuellement auront pu demander cession des droits de la masse sur l’objet litigieux à teneur de l’article 260 LP.
+[^47-1]
 
-<sup>2</sup> Les frais de garde de l’objet sont à la charge de la masse; après cession des droits selon l’article 260 LP, ils sont à la charge du créancier cessionnaire. L’administration de la faillite peut fixer à ce créancier, sous menace de remise immédiate de l’objet au tiers revendiquant, un délai pour fournir un engagement inconditionnel ainsi qu’une garantie pour les frais de garde après cession.[^47-1]
+<sup>1</sup>
 
-[^47-1]: Introduit par le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+Si l’administration estime la revendication fondée, elle n’en donne pas avis au tiers revendiquant et ne lui restitue pas le bien avant de s’être assurée:
+
+- a. que la seconde assemblée des créanciers n’a pas pris de décision contraire, et
+- b. que des créanciers n’ont pas demandé individuellement cession des droits de la masse sur le bien litigieux selon l’art. 260 LP.
+
+<sup>2</sup> Les frais de garde du bien sont à la charge de la masse; après cession des droits selon l’art. 260 LP, ils sont à la charge du créancier cessionnaire. L’administration de la faillite peut fixer à ce créancier, sous menace de restitution immédiate du bien au tiers revendiquant, un délai pour fournir un engagement inconditionnel ainsi qu’une garantie pour les frais de garde après cession.
+
+[^47-1]: Nouvelle teneur selon le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### aa. Dans la liquidation
 
@@ -659,37 +681,79 @@ En cas de liquidation sommaire, le même délai sera imparti aux créanciers dan
 
 #### Art. 50
 
-Les revendications tardives seront, dans les cas importants, communiquées aux créanciers, selon le gré de l’administration, par publication officielle ou par circulaire; si cela est nécessaire, une assemblée de créanciers spéciale sera convoquée.
+<sup>1</sup> Les revendications tardives seront, dans les cas importants, communiquées aux créanciers, selon le gré de l’administration, par publication officielle ou par circulaire; si cela est nécessaire, une assemblée de créanciers spéciale sera convoquée.
+
+<sup>2</sup> Les frais occasionnés par le retard sont à la charge du tiers revendiquant, lequel peut être astreint à en faire l’avance.[^50-1]
+
+[^50-1]: Introduit par le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### dd. Exceptions
 
 #### Art. 51
 
-Les règles des articles 47 à 50 ci-dessus ne sont pas applicables si les revendications apparaissent dès l’abord comme fondées ou si la remise immédiate de l’objet revendiqué est évidemment dans l’intérêt de la masse, ou enfin dans les cas où le tiers fournit une caution suffisante.
+[^51-1]
+
+Les art. 47 à 50 ne sont pas applicables:
+
+- a. si les revendications apparaissent dès l’abord comme fondées;
+- b. si la restitution immédiate du bien revendiqué est évidemment dans l’intérêt de la masse, ou
+- c. si le tiers fournit une caution suffisante.
+
+[^51-1]: Nouvelle teneur selon le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### d. Fixation de délai après cession par la masse
 
 #### Art. 52
 
-Lorsqu’un ou plusieurs créanciers ont requis cession des droits de la masse, l’administration de la faillite leur remet l’attestation de cession et fixe au tiers revendiquant le délai pour ouvrir action prévu à l’article 242, 2<sup>e</sup> alinéa LP, en lui indiquant les créanciers cessionnaires qu’il doit assigner en tribunal comme représentants de la masse.
+[^52-1]
 
-### e. Concurrence d’un droit de gage avec une revendication
+Lorsqu’un ou plusieurs créanciers ont requis cession des droits de la masse, l’administration de la faillite leur remet l’attestation de cession et fixe au tiers revendiquant le délai pour ouvrir action prévu à l’art. 242, al. 2, ou 242*a*, al. 3, LP, en lui indiquant les créanciers cessionnaires qu’il doit assigner en tribunal comme représentants de la masse.
+
+[^52-1]: Nouvelle teneur selon le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### e. Concurrence d’un droit de gage avec une revendication au sens de l’art. 242 ou 242*a* LP
 
 #### Art. 53
 
-Il y a lieu de procéder comme suit lorsqu’un créancier réclame un droit de gage ou de rétention sur des biens au sujet desquels une revendication de propriété a également été formulée:
+[^53-1]
 
-Si la masse reconnaît le bien-fondé de la revendication de propriété, le litige entre le revendiquant et le créancier gagiste est liquidé en dehors de la faillite.
+Lorsqu’un créancier réclame un droit de gage ou de rétention sur des biens au sujet desquels une revendication au sens de l’art. 242 ou 242*a* LP a également été formulée, il y a lieu de procéder comme suit:
 
-Si, au contraire, un procès a lieu sur le droit de propriété réclamé, l’administration statuera sur le droit de gage, au moyen d’un état de collocation complémentaire, après le rejet définitif de la revendication.
+- a. si la masse reconnaît le bien-fondé de la revendication, le litige entre le revendiquant au sens de l’art. 242 ou 242*a* LP et le créancier gagiste est liquidé en dehors de la faillite;
+- b. si, au contraire, un procès a lieu sur un droit revendiqué en vertu de l’art. 242 ou 242a LP, l’administration statue sur le droit de gage, au moyen d’un état de collocation complémentaire, après le rejet définitif de la revendication.
 
-### f. Concurrence entre un droit de propriété ou de gage et la qualité de biens de stricte nécessité
+[^53-1]: Nouvelle teneur selon le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### f. Concurrence entre un droit de gage ou une revendication au sens de l’art. 242 ou 242*a* LP et la qualité de biens de stricte nécessité
+
+[^lvlB-lvlIII-lvl4-lvlf-1]
+
+[^lvlB-lvlIII-lvl4-lvlf-1]: Nouvelle teneur selon le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 54
 
 <sup>1</sup> Lorsque des droits de gage conventionnels, réclamés sur des objets de stricte nécessité, ont été admis au cours de la procédure de collocation, ces objets sont considérés comme rentrant dans la masse et liquidés au profit du créancier gagiste; le surplus sera remis au failli.
 
-<sup>2</sup> Lorsque des objets revendiqués par un tiers ont été déclarés de stricte nécessité, la masse ne fait pas application de l’article 242 LP, mais se borne à renvoyer le revendiquant à faire valoir ses droits contre le failli en dehors de la procédure de faillite.
+<sup>2</sup> Lorsque des biens revendiqués par un tiers ont été déclarés de stricte nécessité, la masse ne fait pas application de l’art. 242 ou 242*a* LP, mais se borne à renvoyer le revendiquant à faire valoir ses droits contre le failli en dehors de la procédure de faillite.[^54-1]
+
+[^54-1]: Nouvelle teneur selon le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### 5. Accès aux données et restitution des données
+
+#### Art. 54a
+
+[^54a-1]
+
+<sup>1</sup>
+
+L’administration de la faillite statue sur l’accès aux données dont la masse a le pouvoir de disposer et sur leur restitution:
+
+- a. dès réception de la demande;
+- b. dans la mesure où elles ont une valeur pécuniaire, après expiration du délai de production prévu à l’art. 232, al. 2, ch. 2, LP.
+
+<sup>2</sup> Les art. 46 à 54 s’appliquent par analogie.
+
+[^54a-1]: Introduit par le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### IV. Vérification des créances et collocation
 
@@ -924,7 +988,7 @@ Le procès-verbal d’enchères d’immeubles doit mentionner en outre la décla
 Les titres de gage trouvés en la possession du failli et relatifs à des créances garanties par ses immeubles, ainsi que les cases libres, ne sont, conformément à l’article 815 du code civil suisse[^75-2], pas pris en considération lors de l’établissement des conditions d’enchères. Les titres de gage doivent tout simplement être cancellés et les cases libres radiées au registre foncier après les enchères.
 
 [^75-1]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^75-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^75-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### b. Titres hypothécaires mis en gage par le failli
 
@@ -940,19 +1004,13 @@ Les titres de gage ayant trait à des créances garanties par les immeubles du f
 
 <sup>2</sup> Les dispositions des articles 10 et 15 à 21 de l’ordonnance du 10 mai 1910[^77-1] concernant la saisie, le séquestre et la réalisation des droits découlant d’assurances sont applicables à la réalisation de gré à gré ou aux enchères publiques des droits résultant d’une police d’assurance sur la vie.
 
-[^77-1]: [RS 281.51](https://fedlex.data.admin.ch/eli/cc/26/205_203_198)
-
-### d. Réalisation de bétail
+[^77-1]: [RS 281.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6169)
 
 #### Art. 78
 
 [^78-1]
 
-Pour la réalisation de bétail, il y a lieu d’observer les dispositions de la loi du 1<sup>er</sup> juillet 1966[^78-2] sur les épizooties (art. 14) et de l’ordonnance du 27 juin 1995[^78-3] sur les épizooties (art. 11), relatives aux laissez-passer.
-
-[^78-1]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^78-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^78-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^78-1]: Abrogé par le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, avec effet au 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 79
 
@@ -1007,7 +1065,7 @@ Pour la réalisation de bétail, il y a lieu d’observer les dispositions de la
 Si l’administration de la faillite (ou éventuellement la commission de surveillance) estime avoir droit à des honoraires spéciaux à teneur de l’article 48 de l’ordonnance du 23 septembre 1996[^84-2] sur les frais exigibles en vertu de la LP, elle doit, avant de procéder à l’établissement du tableau de distribution définitif, soumettre à l’autorité de surveillance compétente, pour en faire fixer le montant, une liste détaillée de toutes ses vacations au sujet desquelles l’ordonnance sur les frais ne prévoit pas d’émolument spécial; elle y joint le dossier complet de la faillite.
 
 [^84-1]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^84-2]: [RS 281.35](https://fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937)
+[^84-2]: [RS 281.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6165)
 
 ### b. Manière de l’établir
 
@@ -1043,17 +1101,11 @@ Lorsque des procès intentés par des créanciers individuellement, à teneur de
 
 Avant de procéder à la répartition du produit de la faillite entre les créanciers, l’administration de la faillite doit s’assurer qu’il n’a été adressé à l’autorité de surveillance dans le délai légal de dix jours aucun recours relatif au tableau de distribution. Elle attendra éventuellement la liquidation de ces recours pour procéder à la répartition.
 
-### 5. Actes de défaut de biens en cas d’asiles de famille
-
-[^lvlB-lvlVI-lvl5-1]
-
-[^lvlB-lvlVI-lvl5-1]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-
 #### Art. 89
 
-Si le failli est propriétaire d’un asile de famille (art. 349 et s. CC[^89-1] et art. 31 ci-dessus), mention sera faite sur les actes de défaut de biens de l’existence de cet asile de famille, de son estimation et des charges qui le grèvent. L’acte de défaut reproduira également les dispositions du code civil suisse et des lois cantonales complémentaires sur l’administration forcée des asiles de famille et de la manière dont les créanciers sont désintéressés.
+[^89-1]
 
-[^89-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^89-1]: Abrogé par le ch. I 3 de l’O du 18 juin 2021sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, avec effet au 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 90
 
@@ -1113,9 +1165,10 @@ Outre les dispositions contenues aux articles 32, 49, 70 et 93, les règles suiv
 
 - a. il y aura lieu de convoquer une assemblée des créanciers si le failli propose un concordat et fait l’avance des frais que cette assemblée occasionnera.
 - b. pour les enchères publiques d’immeubles, on applique les articles 134 à 137 et 143 LP; il ne doit cependant pas être accordé de délai de paiement de plus de trois mois. Pour le surplus, les articles 71 à 78 et 80 de la présente ordonnance sont applicables à la réalisation.
-- c. la répartition a lieu en conformité des articles 262 et 264, 3<sup>e</sup> alinéa, LP, ainsi que des articles 83 et 85 ci-dessus, sur la base d’un tableau de distribution. L’office ne procédera pas à des répartitions provisoires; il devra délivrer, en revanche, des actes de défaut de biens selon l’article 265 LP. L’article 150 LP est également applicable par analogie.
+- c.[^96-2] …
 
 [^96-1]: Nouvelle teneur selon le ch. I de l’O du TF du 5 juin 1996, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^96-2]: Abrogée par le ch. I 3 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, avec effet au 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ## C. Administration spéciale
 
@@ -1156,7 +1209,7 @@ Les règles établies à l’article 1<sup>er</sup>, 1<sup>er</sup> alinéa, chi
 
 <sup>1</sup> La présente ordonnance entrera en vigueur le 1<sup>er</sup> janvier 1912.
 
-<sup>2</sup> …[^99-1]
+<sup>2</sup> ...[^99-1]
 
 [^99-1]: Disp. trans. sans objet.
 
@@ -1168,4 +1221,4 @@ Les règles établies à l’article 1<sup>er</sup>, 1<sup>er</sup> alinéa, chi
 
 <sup>2</sup> En particulier, l’article 12 de l’ordonnance du 10 mai 1910[^100-1] concernant la saisie, le séquestre et la réalisation des droits découlant d’assurances est modifié par l’article 61 ci-dessus.
 
-[^100-1]: [RS 281.51](https://fedlex.data.admin.ch/eli/cc/26/205_203_198)
+[^100-1]: [RS 281.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6169)

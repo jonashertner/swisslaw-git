@@ -4,20 +4,20 @@ title: "Regolamento del 13 luglio 1911 concernente l'amministrazione degli uffic
 short: RUF
 eli: "https://fedlex.data.admin.ch/eli/cc/27/751_749_771"
 language: it
-version: 1997-01-01
+version: 2021-08-01
 adopted: 1911-07-13
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/751_749_771/19970101/it/xml/fedlex-data-admin-ch-eli-cc-27-751_749_771-19970101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/751_749_771/19970101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/751_749_771/20210801/it/xml/fedlex-data-admin-ch-eli-cc-27-751_749_771-20210801-it-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/751_749_771/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Regolamento concernente l’amministrazione degli uffici dei fallimenti****
+# Regolamento concernente l’amministrazione degli uffici dei fallimenti
 
-(RUF)**[^t-2]**[^t-1]
+(RUF)[^t-2][^t-1]
 
-del 13 luglio 1911 (Stato 1° gennaio 1997)
+del 13 luglio 1911 (Stato 1° agosto 2021)
 
 [^t-1]: [RU 1996 3490](https://fedlex.data.admin.ch/eli/oc/1996/3490_3490_3490)
 [^t-2]: Abbreviazione introdotta dal n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)[3490](https://fedlex.data.admin.ch/eli/oc/1996/3490_3490_3490)).
@@ -28,7 +28,7 @@ in applicazione dell’articolo 15 della legge federale sull’esecuzione e sul 
 
 decreta:
 
-[^ingress-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^ingress-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^ingress-2]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
 ## A. Protocollo, atti e contabilità
@@ -173,7 +173,7 @@ Gli atti principali, cioè il protocollo e gli annessi costituenti parte integra
 
 [^11-1]: Originario art. 12.
 
-### III. Elaborazione elettronica dei dati****
+### III. Elaborazione elettronica dei dati
 
 [^lvlA-lvlIII-1]
 
@@ -189,7 +189,7 @@ La tenuta a giorno degli elenchi e registri indicati nell’articolo 1, l’alle
 
 [^12-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### IV. Ordinamento e conservazione degli atti****
+### IV. Ordinamento e conservazione degli atti
 
 [^lvlA-lvlIV-1]
 
@@ -242,7 +242,7 @@ Per quanto concerne la conservazione dei libri di commercio e delle carte d’af
 
 [^15-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 [^15-2]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^15-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^15-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^15-4]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
 ### 3. Registrazione su supporti d’immagine e di dati
@@ -257,13 +257,14 @@ Per quanto concerne la conservazione dei libri di commercio e delle carte d’af
 
 <sup>1</sup> Con l’accordo dell’autorità cantonale di vigilanza, i documenti che devono essere conservati possono essere registrati su supporti d’immagini o di dati; gli originali possono in seguito essere distrutti.[^15a-2]
 
-<sup>2</sup> L’autorità cantonale di vigilanza provvede a che siano rispettati i fini perseguiti dal Consiglio federale nella sua ordinanza del 2 giugno 1976[^15a-3] concernente la registrazione di documenti da conservare.
+<sup>2</sup> L’autorità cantonale di vigilanza provvede a che siano rispettate le disposizioni dell’ordinanza del 24 aprile 2002[^15a-3] sui libri di commercio.[^15a-4]
 
 [^15a-1]: Introdotto dal n. I del D del TF del 18 mag. 1979, in vigore dal 1° lug. 1979 ([RU 1979 813](https://fedlex.data.admin.ch/eli/oc/1979/813_813_813)).
 [^15a-2]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^15a-3]: [[RU 1976 1334](https://fedlex.data.admin.ch/eli/oc/1976/1334_1334_1334). [RU 2002 1399](https://fedlex.data.admin.ch/eli/oc/2002/216)art. 11]. Vedi ora l’O del 24 apr. 2002 sulla tenuta e la conservazione dei libri di commercio ([RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)).
+[^15a-3]: [RS 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
+[^15a-4]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
-### V. Tenuta dei libri, cassa e contabilità****
+### V. Tenuta dei libri, cassa e contabilità
 
 [^lvlA-lvlV-1]
 
@@ -357,13 +358,13 @@ Nella misura in cui adempie i predetti requisiti, l’autorità cantonale di vig
 
 [^24a-1]: Introdotto dal n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-## B. Procedura da seguire nei diversi stadi del fallimento****
+## B. Procedura da seguire nei diversi stadi del fallimento
 
 [^lvlB-1]
 
 [^lvlB-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### I. Determinazione dell’attivo e della procedura****
+### I. Determinazione dell’attivo e della procedura
 
 [^lvlB-lvlI-1]
 
@@ -443,13 +444,13 @@ Se il fallito è morto o latitante, sono tenute a fare le dichiarazioni, di cui 
 
 #### Art. 31
 
-<sup>1</sup> Gli oggetti non pignorabili, compresi gli asili di famiglia (art. 349 e segg. del Codice civile svizzero [^31-1]), saranno elencati a parte in fine dell’inventario, con riferimento al numero che ogni singolo oggetto porta nel corpo dell’inventario stesso.
+<sup>1</sup> Gli oggetti non pignorabili saranno elencati a parte in fine dell’inventario, con riferimento al numero che ogni singolo oggetto porta nel corpo dell’inventario stesso.[^31-1]
 
 <sup>2</sup> Dell’elenco sarà data comunicazione al fallito all’atto del riconoscimento dell’inventario o posteriormente mediante avviso scritto.
 
 <sup>3</sup> Se il fallito rinuncia ai suoi diritti sopra tutti o parte di tali oggetti a favore della massa, si iscriverà nell’inventario analoga dichiarazione, la quale dovrà essere da lui firmata.
 
-[^31-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^31-1]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### h. Comunicazione ai creditori
 
@@ -469,13 +470,17 @@ Il ricavo dei frutti naturali e l’importo dei frutti civili prodotti dai fondi
 
 [^33-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### k. Rivendicazioni di proprietà
+### k. Notifica e liquidazione delle rivendicazioni di cui agli art. 242–242*b* LEF
 
 #### Art. 34
 
-<sup>1</sup> Anche le rivendicazioni da parte di terzi (art. 242 LEF) verranno registrate in un capitolo speciale in ordine progressivo, coll’indicazione del rivendicante, del numero attribuito nell’inventario all’oggetto rivendicato, e dei relativi documenti giustificativi. Delle avvenute rivendicazioni si farà cenno anche nel corpo dell’inventario stesso, nella colonna «osservazioni», a fianco d’ogni oggetto rivendicato.
+[^34-1]
 
-<sup>2</sup> In calce a questo titolo speciale saranno registrate succintamente le dichiarazioni del fallito, come pure le ulteriori decisioni dell’amministrazione del fallimento in merito alle avvenute rivendicazioni, e l’esito di eventuali processi.
+<sup>1</sup> Le rivendicazioni notificate secondo gli articoli 242–242*b* LEF verranno registrate in un capitolo speciale in ordine progressivo, con l’indicazione del notificante, del numero attribuito nell’inventario al bene rivendicato, e dei relativi documenti giustificativi. Delle avvenute notifiche si farà cenno anche nel corpo dell’inventario stesso, nella colonna «osservazioni», a fianco d’ogni bene rivendicato.
+
+<sup>2</sup> In calce a questo titolo speciale saranno registrate succintamente le dichiarazioni del fallito, come pure le ulteriori decisioni dell’amministrazione del fallimento in merito alle rivendicazioni notificate, e l’esito di eventuali processi*.*
+
+[^34-1]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### 2. Anticipazione di spese
 
@@ -505,19 +510,16 @@ Durante le operazioni d’inventario, l’ufficio è tenuto di procedere ad un i
 - d. se vi sono figli o pupilli soggetti alla sua potestà patria o tutoria, e se esistono a loro favore diritti di proprietà o crediti;
 - e.[^37-2] se è sottufficiale, ufficiale o ufficiale specialista (soldato, appuntato o sottufficiale con funzioni di ufficiale) dell’esercito.
 
-[^37-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^37-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 [^37-2]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### 5. Sequestro di invii postali
+### 5. …
 
 #### Art. 38
 
 [^38-1]
 
-Gli uffici dei fallimenti hanno il diritto di chiedere alla competente direzione postale di circondario l’esibizione o la consegna d’invii postali e di fondi provenienti da assegni postali indirizzati al fallito o da lui spediti, come pure di domandarle informazioni sulle relazioni postali del fallito (vedi art. 14 e 18 dell’O 1 della legge sul servizio delle poste del 1° settembre 1967[^38-2]); e ciò per tutta la durata del fallimento. Il fallito ha però il diritto di assistere all’apertura degli invii.
-
-[^38-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^38-2]: [[RU 1967 1440](https://fedlex.data.admin.ch/eli/oc/1967/1405_1447_1440), **1968** 997 [1004](https://fedlex.data.admin.ch/eli/oc/1968/1048_1088_1004),[1969 385](https://fedlex.data.admin.ch/eli/oc/1969/377_385_385)1120, [1970 480](https://fedlex.data.admin.ch/eli/oc/1970/480_480_480)[714](https://fedlex.data.admin.ch/eli/oc/1970/714_714_714), **1971** 683 1712, **1972** 2675, [1974 578](https://fedlex.data.admin.ch/eli/oc/1974/578_578_578)[1977](https://fedlex.data.admin.ch/eli/oc/1974/1977_1977_1977)[2050](https://fedlex.data.admin.ch/eli/oc/1974/2050_2050_2050), [1975 2033](https://fedlex.data.admin.ch/eli/oc/1975/2033_2033_2033), [1976 962](https://fedlex.data.admin.ch/eli/oc/1976/962_962_962), [1977 2122](https://fedlex.data.admin.ch/eli/oc/1977/2122_2122_2122), [1979 287](https://fedlex.data.admin.ch/eli/oc/1979/287_287_287)[1180](https://fedlex.data.admin.ch/eli/oc/1979/1180_1180_1180), [1980 2](https://fedlex.data.admin.ch/eli/oc/1980/2_2_2)[777](https://fedlex.data.admin.ch/eli/oc/1980/777_777_777), [1981 1863](https://fedlex.data.admin.ch/eli/oc/1981/1863_1863_1863), [1983 1656](https://fedlex.data.admin.ch/eli/oc/1983/1656_1656_1656), [1986 39](https://fedlex.data.admin.ch/eli/oc/1986/39_39_39)[991](https://fedlex.data.admin.ch/eli/oc/1986/991_991_991)[1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991)art. 45 n. 2, [1987 440](https://fedlex.data.admin.ch/eli/oc/1987/440_440_440), [1988 370](https://fedlex.data.admin.ch/eli/oc/1988/370_370_370), [1989 565](https://fedlex.data.admin.ch/eli/oc/1989/565_565_565)[764](https://fedlex.data.admin.ch/eli/oc/1989/764_764_764)[1899](https://fedlex.data.admin.ch/eli/oc/1989/1899_1899_1899), [1990 1448](https://fedlex.data.admin.ch/eli/oc/1990/1448_1448_1448), [1992 94](https://fedlex.data.admin.ch/eli/oc/1992/94_94_94)[1243](https://fedlex.data.admin.ch/eli/oc/1992/1243_1243_1243), [1993 62](https://fedlex.data.admin.ch/eli/oc/1993/62_62_62)[2473](https://fedlex.data.admin.ch/eli/oc/1993/2473_2473_2473), [1994 1442](https://fedlex.data.admin.ch/eli/oc/1994/1442_1442_1442)[2788](https://fedlex.data.admin.ch/eli/oc/1994/2788_2788_2788), [1995 5491](https://fedlex.data.admin.ch/eli/oc/1995/5491_5491_5491), [1996 14](https://fedlex.data.admin.ch/eli/oc/1996/14_14_14)[470](https://fedlex.data.admin.ch/eli/oc/1996/470_470_470), [1997 270](https://fedlex.data.admin.ch/eli/oc/1997/270_270_270)[1435](https://fedlex.data.admin.ch/eli/oc/1997/1435_1435_1435). [RU 1997 2461](https://fedlex.data.admin.ch/eli/oc/1997/2461_2461_2461)art. 13 lett. a]. Vedi ora l’O del 29 ago. 2012 sulle poste ([RS 783.01](https://fedlex.data.admin.ch/eli/cc/2012/586)).
+[^38-1]: Abrogato dal n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, con effetto dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### 6. Fissazione della procedura di liquidazione
 
@@ -531,7 +533,7 @@ Gli uffici dei fallimenti hanno il diritto di chiedere alla competente direzione
 
 [^39-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### II. Appello ai creditori (grida)****
+### II. Appello ai creditori (grida)
 
 [^lvlB-lvlII-1]
 
@@ -556,12 +558,13 @@ Siffatti avvisi saranno, nella procedura ordinaria, spediti:
 - a. a tutti i creditori, dei quali siano conosciuti il nome e la dimora;
 - b. al tribunale, davanti al quale pende una causa civile ai sensi dell’articolo 207 capoverso 1 LEF, e all’autorità, davanti alla quale pende un procedimento amministrativo ai sensi dell’articolo 207 cpv. 2 LEF;
 - c. alla società di assicurazione, colla quale il fallito ha conchiuso un contratto di assicurazione contro i danni o sulla vita;
-- d. alla competente autorità tutoria, se vi sono figli o pupilli soggetti alla potestà patria o tutoria del fallito;
-- e. agli uffici del registro fondiario degli altri circondari di fallimento, nei quali il fallito possedeva immobili, a tenore dell’inventario.[^40-1]
+- d.[^40-1] alla competente autorità di protezione dei minori e degli adulti, se il fallito è detentore dell’autorità parentale, curatore, mandatario designato con mandato precauzionale o tutore e vi sono indizi concreti che la dichiarazione del fallimento possa esporre a pericolo gli interessi dei minori o degli interessati;
+- e. agli uffici del registro fondiario degli altri circondari di fallimento, nei quali il fallito possedeva immobili, a tenore dell’inventario.[^40-2]
 
 <sup>3</sup> I nomi dei creditori, ai quali sono stati spediti speciali avvisi, verranno iscritti dall’ufficiale nel processo verbale del fallimento od in una lista separata, da lui firmata.
 
-[^40-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+[^40-1]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^40-2]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
 ### 2. Restituzione dei mezzi di prova
 
@@ -613,29 +616,46 @@ Se viene nominata una delegazione dei creditori verrà tenuto verbale delle deci
 
 [^44-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
 
-### 4. Rivendicazioni
+### 4. Rivendicazioni e diritti su beni crittografici
 
-### a. Decisione da parte dell’amministrazione del fallimento
+### a. Decisione da parte dell’amministra-zione del fallimento
 
 #### Art. 45
 
-Le decisioni relative alla restituzione di cose che si trovano nella detenzione della massa e sono rivendicate da un terzo (art. 242 LEF, art. 34 del presente R), devono esser prese dopo decorso il termine per l’insinuazione dei crediti (art. 232 cpv. 2 n. 2 LEF), sia che la rivendicazione sia stata fatta dal terzo o da altri in suo nome o che la cosa sia stata indicata dal fallito come proprietà del terzo. Una decisione dev’essere presa, anche se la pretesa del terzo viene notificata dopo la vendita, ma prima del riparto del ricavo della vendita.
+[^45-1]
 
-### b. Fissazione di termine al terzo rivendicante
+<sup>1</sup> Le decisioni relative alla restituzione di beni di cui la massa fallimentare possiede la facoltà di disporre e che sono rivendicati da un terzo (art. 242 e 242*a* LEF nonché art. 34 della presente ordinanza) devono esser prese dopo che è decorso il termine per l’insinuazione dei crediti (art. 232 cpv. 2 n. 2 LEF), sia che la rivendicazione sia stata fatta dal terzo stesso o che il bene sia stato indicato dal fallito o da altri come spettante a terzi.
+
+<sup>2</sup> Una decisione dev’essere presa, anche se la pretesa del terzo viene notificata dopo la vendita del bene rivendicato, ma prima del riparto del ricavo della vendita.
+
+[^45-1]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### b. Fissazione al terzo di un termine per promuovere l’azione
 
 #### Art. 46
 
-L’avviso, con cui vien fissato al terzo rivendicante il termine per promuovere l’azione a’ sensi dell’articolo 242 capoverso 2 LEF, deve contenere un’esatta descrizione dell’oggetto in contestazione, come pure la comminatoria che, non osservando questo termine, il rivendicante sarà considerato come decaduto dal suo diritto.
+[^46-1]
+
+Se al terzo viene fissato un termine per promuovere l’azione ai sensi degli articoli 242 capoverso 2 e 242*a* capoverso 3 LEF, il relativo avviso deve contenere un’esatta descrizione del bene in contestazione, come pure la comminatoria che, non osservando questo termine, il rivendicante sarà considerato come decaduto dal suo diritto.
+
+[^46-1]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### c. Tutela dei diritti dei creditori
 
 #### Art. 47
 
-<sup>1</sup> Se l’amministrazione del fallimento intende di riconoscere la pretesa del terzo, deve aspettare a dargliene comunicazione ed a restituirgli la cosa rivendicata fino a che consti che la seconda assemblea dei creditori non ha preso una contraria decisione in proposito, e che nessun creditore ha chiesto la cessione dei diritti della massa sulla cosa rivendicata, in conformità dell’articolo 260 LEF.
+[^47-1]
 
-<sup>2</sup> Le spese di custodia sono a carico della massa, dopo una cessione delle pretese ai sensi dell’articolo 260 LEF esse sono poste a carico del cessionario. L’amministrazione del fallimento può fissare al cessionario, con la comminatoria di procedere immediatamente alla restituzione della cosa al terzo, un termine per dichiarare incondizionatamente di rispondere delle spese per l’ulteriore custodia come pure per prestare garanzia per tali spese.[^47-1]
+<sup>1</sup>
 
-[^47-1]: Introdotto dal n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
+L’amministrazione del fallimento comunica al terzo il suo riconoscimento della pretesa e gli restituisce il bene rivendicato soltanto quando consta che:
+
+- a. la seconda assemblea dei creditori non ha preso una contraria decisione in proposito; e
+- b. nessun creditore ha chiesto la cessione dei diritti della massa sul bene rivendicato, in conformità con l’articolo 260 LEF.
+
+<sup>2</sup> Le spese di custodia sono a carico della massa o, dopo una cessione delle pretese ai sensi dell’articolo 260 LEF, sono poste a carico del cessionario. L’amministrazione del fallimento può fissare al cessionario, con la comminatoria di procedere immediatamente alla restituzione del bene al terzo, un termine per dichiarare incondizionatamente di rispondere delle spese per l’ulteriore custodia come pure per prestare garanzia per tali spese.
+
+[^47-1]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### aa. Nella procedura ordinaria
 
@@ -643,7 +663,9 @@ L’avviso, con cui vien fissato al terzo rivendicante il termine per promuovere
 
 <sup>1</sup> Per ottenere tale scopo, l’amministrazione del fallimento è tenuta ad inserire nell’avviso di convocazione dei creditori alla seconda assemblea una clausola nel senso che le domande di cessione di pretese in base all’articolo 260 LEF devono, sotto pena di perenzione, essere presentate all’assemblea stessa, oppure entro 10 giorni, al più tardi, dalla data dell’assemblea.
 
-<sup>2</sup> Ove però le speciali circostanze del caso consiglino di liquidare una rivendicazione prima che si raduni la seconda assemblea dei creditori, si potrà convocare un’assemblea straordinaria, oppure fissare ai creditori, mediante circolare, un congruo termine, entro il quale essi dovranno, sotto pena di perenzione, notificare all’amministrazione del fallimento, se intendono contestare in luogo della massa le pretese del terzo, conformemente all’articolo 260 capoverso 1 LEF.
+<sup>2</sup> Ove però le speciali circostanze del caso consiglino di liquidare una rivendicazione o una pretesa di restituzione prima che si raduni la seconda assemblea dei creditori, si potrà convocare un’assemblea straordinaria, oppure fissare ai creditori, mediante circolare, un congruo termine, entro il quale essi dovranno, sotto pena di perenzione, notificare all’amministrazione del fallimento, se intendono contestare in luogo della massa le pretese del terzo, conformemente all’articolo 260 capoverso 1 LEF.[^48-1]
+
+[^48-1]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### bb. Nella procedura sommaria
 
@@ -655,36 +677,79 @@ Quando la liquidazione avviene secondo la procedura sommaria, la fissazione del 
 
 #### Art. 50
 
-Qualora si tratti di rivendicazioni fatte dopo la vendita, l’amministrazione del fallimento le notificherà, nei casi più importanti, ai creditori mediante pubblicazione ufficiale, o mediante circolare; in caso di bisogno, convocherà un’assemblea straordinaria dei creditori.
+<sup>1</sup> Qualora si tratti di rivendicazioni fatte dopo la vendita, l’amministrazione del fallimento le notificherà, nei casi più importanti, ai creditori mediante pubblicazione ufficiale, o mediante circolare; in caso di bisogno, convocherà un’assemblea straordinaria dei creditori.
+
+<sup>2</sup> Il rivendicante deve pagare le spese cagionate da rivendicazioni tardive e può essere costretto a una conveniente anticipazione.[^50-1]
+
+[^50-1]: Introdotto dal n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### dd. Eccezioni
 
 #### Art. 51
 
-Non sono applicabili le disposizioni degli articoli 47 a 50, quando il diritto di proprietà del rivendicante appare fin dal principio come provato, o quando la restituzione immediata della cosa risulta essere di evidente interesse per la massa, ed infine quando il rivendicante presta sufficiente garanzia.
+[^51-1]
+
+Non sono applicabili gli articoli 47–50, quando:
+
+- a. il diritto del terzo appare fin dal principio come provato;
+- b. la restituzione immediata del bene risulta essere di evidente interesse per la massa; o
+- c. il terzo presta sufficiente garanzia.
+
+[^51-1]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### d. Fissazione del termine per promuovere l’azione in caso di cessione di pretese della massa
 
 #### Art. 52
 
-Quando uno o più creditori abbiano chiesto ed ottenuto la cessione di pretese della massa, l’amministrazione del fallimento rilascerà loro analoga dichiarazione di cessione, e fisserà in seguito al terzo rivendicante il termine previsto all’articolo 242 capoverso 2 LEF per promuovere l’azione indicando i nomi dei creditori cessionari contro i quali dovranno essere diretti gli atti giudiziari nella loro qualità di rappresentanti della massa.
+[^52-1]
 
-### e. Concorrenza fra diritto di proprietà e diritto di pegno
+Quando uno o più creditori abbiano chiesto ed ottenuto la cessione di pretese della massa, l’amministrazione del fallimento rilascerà loro analoga dichiarazione di cessione, e fisserà in seguito al terzo rivendicante il termine previsto agli articoli 242 capoverso 2 e 242*a* capoverso 3 LEF per promuovere l’azione indicando i nomi dei creditori cessionari contro i quali dovranno essere diretti gli atti giudiziari nella loro qualità di rappresentanti della massa.
+
+[^52-1]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### e. Concorrenza fra diritti di pegno e diritti secondo gli art. 242 e 242*a* LEF
 
 #### Art. 53
 
-Qualora sopra la cosa rivendicata da un terzo qualche creditore del fallimento faccia valere un diritto di pegno o di ritenzione, si dovrà procedere nel modo seguente:
+[^53-1]
 
-- – Se l’amministrazione del fallimento riconosce come fondata la rivendicazione, essa non ha da occuparsi della lite che potesse eventualmente insorgere fra il terzo che ha rivendicato la proprietà della cosa ed il creditore che vanta sopra di essa un diritto di pegno.
-- – Se invece la rivendicazione conduce ad un processo, l’amministrazione non potrà pronunciarsi sul diritto di pegno, se non dopo che sarà stata respinta l’azione di rivendicazione del terzo mediante sentenza passata in giudicato. La decisione si farà allora sotto forma di aggiunta alla graduatoria.
+Qualora sopra il bene rivendicato da un terzo secondo gli articoli 242 e 242*a* LEF qualche creditore del fallimento faccia valere un diritto di pegno o di ritenzione, si dovrà procedere a seconda dei casi in uno dei modi seguenti:
 
-### f. Diritti di pegno e di proprietà sopra oggetti non pignorabili
+- a. se l’amministrazione del fallimento riconosce come fondata la rivendicazione, essa non ha da occuparsi della lite che potesse eventualmente insorgere fra il notificante secondo l’articolo 242 o 242*a* LEF e il notificante di un diritto di pegno;
+- b. se invece una rivendicazione notificata secondo l’articolo 242 o 242*a* LEF conduce a un processo, l’amministrazione non potrà pronunciarsi sul diritto di pegno, se non dopo che sarà stata respinta l’azione di rivendicazione del notificante mediante sentenza passata in giudicato; la decisione si farà allora sotto forma di aggiunta alla graduatoria.
+
+[^53-1]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### f. Concorrenza fra diritti di pegno e diritti secondo gli art. 242 e 242*a* LEF e diritti sopra oggetti non pignorabili
+
+[^lvlB-lvlIII-lvl4-lvlf-1]
+
+[^lvlB-lvlIII-lvl4-lvlf-1]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 54
 
 <sup>1</sup> Qualora vengano fatti valere dei diritti di pegno contrattuali sopra oggetti non pignorabili, e questi diritti siano riconosciuti nella procedura di contestazione della graduatoria, detti oggetti dovranno essere avocati alla massa e realizzati a favore dei creditori pignoratizi. Restando un’eccedenza, questa verrà attribuita al fallito.
 
-<sup>2</sup> Ove un oggetto rivendicato da un terzo venga dalla massa riconosciuto come oggetto non pignorabile, non si potrà far capo alla procedura dell’articolo 242 LEF, ma si avvertirà il terzo ch’egli deve far valere la sua pretesa contro il fallito all’infuori della procedura di fallimento.
+<sup>2</sup> Ove un bene rivendicato da un terzo venga dalla massa riconosciuto come oggetto non pignorabile, non si potrà far capo alla procedura degli articoli 242 e 242*a* LEF, ma si avvertirà il notificante ch’egli deve far valere la sua pretesa contro il fallito all’infuori della procedura di fallimento.[^54-1]
+
+[^54-1]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### 5. Accesso ai dati e loro restituzione
+
+#### Art. 54a
+
+[^54a-1]
+
+<sup>1</sup>
+
+Le decisioni relative all’accesso ai dati di cui la massa fallimentare possiede la facoltà di disporre e quelle relative alla restituzione degli stessi devono esser prese:
+
+- a. immediatamente dopo il ricevimento della richiesta;
+- b. se ai dati rivendicati è attribuito un bene, dopo che è decorso il termine per l’insinuazione dei crediti (art. 232 cpv. 2 n. 2 LEF).
+
+<sup>2</sup> Gli articoli 46–54 si applicano per analogia.
+
+[^54a-1]: Introdotto dal n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ### IV. Verificazione dei crediti e graduazione dei creditori
 
@@ -916,7 +981,7 @@ Il verbale d’incanto di beni immobili deve inoltre contenere: la dichiarazione
 I titoli relativi a diritti di pegno sopra fondi di proprietà del fallito che si trovassero in suo possesso, come pure i posti vacanti, non sono presi in considerazione, giusta il disposto dell’articolo 815 del Codice civile svizzero[^75-2], per fissare le condizioni d’incanto. Tali titoli devono essere senz’altro annullati ed i posti vacanti cancellati nel registro fondiario, dopo la vendita.
 
 [^75-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^75-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^75-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### b. Titoli relativi a diritti di pegno sopra fondi del fallito e da questi costituiti in pegno manuale a terzi
 
@@ -936,19 +1001,13 @@ I titoli relativi a diritti di pegno sopra fondi del fallito, che questi avesse 
 
 <sup>2</sup> Per la vendita all’incanto od a trattative private di una polizza d’assicurazione sulla vita si applicheranno le disposizioni degli articoli 10 e 15 a 21 dell’ordinanza del 10 maggio 1910 [^77-1] concernente il pignoramento, il sequestro e la realizzazione di diritti derivanti da polizze d’assicurazione.
 
-[^77-1]: [RS 281.51](https://fedlex.data.admin.ch/eli/cc/26/205_203_198)
-
-### d. Vendita di bestiame
+[^77-1]: [RS 281.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6169)
 
 #### Art. 78
 
 [^78-1]
 
-In caso di vendita di bestiame, si dovranno osservare le prescrizioni della legge federale del 1° luglio 1966[^78-2] sulle epizoozie (art. 14), nonché quelle dell’ordinanza del 27 giugno 1995[^78-3] sulle epizoozie (art. 11) concernenti il certificato di trasloco.
-
-[^78-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^78-2]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^78-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^78-1]: Abrogato dal n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, con effetto dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 79
 
@@ -1003,7 +1062,7 @@ In caso di vendita di bestiame, si dovranno osservare le prescrizioni della legg
 Ove l’amministrazione del fallimento (eventualmente la delegazione dei creditori) creda di aver diritto a una speciale indennità in base all’articolo 48 dell’ordinanza del 23 settembre 1996[^84-2] sulle tasse previste dalla LEF, dovrà, prima di compilare lo stato definitivo di riparto, sottoporre alla competente autorità di vigilanza, unitamente all’incarto, una distinta particolareggiata delle operazioni per le quali la tariffa federale non prevede tassa alcuna. L’autorità di vigilanza fissa l’indennità da corrispondersi.
 
 [^84-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^84-2]: [RS 281.35](https://fedlex.data.admin.ch/eli/cc/1996/2937_2937_2937)
+[^84-2]: [RS 281.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6165)
 
 ### b. Norme generali
 
@@ -1039,17 +1098,11 @@ Qualora le cause iniziate da singoli creditori, in base all’articolo 260 LEF, 
 
 Prima di procedere alla distribuzione del prodotto della liquidazione fra i creditori, l’amministrazione del fallimento deve accertarsi che, entro il termine legale di dieci giorni, non è stato avanzato alcun reclamo all’autorità di vigilanza. Se vi sono reclami, essa dovrà aspettarne l’esito.
 
-### 5. Rilascio dei certificati di carenza di beni circa gli asili di famiglia
-
-[^lvlB-lvlVI-lvl5-1]
-
-[^lvlB-lvlVI-lvl5-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-
 #### Art. 89
 
-Se il fallito, al momento del rilascio degli attestati di carenza di beni, è proprietario di un fondo o di una casa costituita come asilo di famiglia (art. 349 e segg. del Codice civile svizzero [^89-1] ed art. 31 del presente R) ne sarà fatta menzione nei certificati, indicando il prezzo di stima dell’asilo e gli oneri fondiari che lo gravano. Sui certificati di carenza di beni devonsi inoltre trascrivere le prescrizioni del Codice civile svizzero e delle leggi cantonali relative all’amministrazione d’ufficio ed al soddisfacimento dei creditori.
+[^89-1]
 
-[^89-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^89-1]: Abrogato dal n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, con effetto dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 90
 
@@ -1105,15 +1158,16 @@ In caso di cessione di pretese della massa a’ sensi dell’articolo 260 LEF, s
 
 [^96-1]
 
-Per la procedura sommaria valgono, oltre le norme contenute negli articoli 32, 49, 70, 93, le seguenti prescrizioni speciali:
+Per la procedura sommaria valgono, oltre gli articoli 32, 49, 70 e 93, le seguenti prescrizioni speciali:[^96-2]
 
 - a. si dovrà procedere alla convocazione dell’assemblea dei creditori quando il fallito faccia una proposta di concordato e anticipi le spese occorrenti;
-- b. agli incanti di fondi sono applicabili le disposizioni degli articoli 134 a 137 e 143 LEF; non si può però concedere un termine maggiore di tre mesi per il pagamento. Del resto valgono per la realizzazione le regole contenute negli articoli 71 a 78 e 80 del presente regolamento[^96-2];
-- c. per il riparto si deve allestire uno stato in conformità degli articoli 262 e 264 capoverso 3 LEF, nonché degli articoli 83 e 85 del presente regolamento[^96-3] . Non si fa luogo a riparti provvisori: sono invece da rilasciarsi gli attestati di carenza di beni ai sensi dell’articolo 265 LEF. È da applicarsi per analogia anche l’articolo 150 LEF.
+- b. agli incanti di fondi sono applicabili le disposizioni degli articoli 134 a 137 e 143 LEF; non si può però concedere un termine maggiore di tre mesi per il pagamento. Del resto valgono per la realizzazione le regole contenute negli articoli 71 a 78 e 80 del presente regolamento[^96-3];
+- c.[^96-4] …
 
 [^96-1]: Nuovo testo giusta il n. I del D del TF del 5 giu. 1996, in vigore dal 1° gen. 1997 ([RU 1996 2884](https://fedlex.data.admin.ch/eli/oc/1996/2884_2884_2884)).
-[^96-2]: [RU 1996 3490](https://fedlex.data.admin.ch/eli/oc/1996/3490_3490_3490)
+[^96-2]: Nuovo testo giusta il n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^96-3]: [RU 1996 3490](https://fedlex.data.admin.ch/eli/oc/1996/3490_3490_3490)
+[^96-4]: Abrogata dal n. I 3 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, con effetto dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 ## C. Gestione da parte di un’amministrazione speciale del fallimento
 
@@ -1138,9 +1192,7 @@ Le prescrizioni contenute negli articoli 1 numeri 2 a 4, 2, 3, 5, 8 a 10, 13, 15
 
 <sup>2</sup> I Cantoni possono stabilire che gli incanti debbano essere tenuti dall’ufficio di fallimento o da altro pubblico ufficio o col loro intervento. [^98-2]
 
-<sup>3</sup> Chiuso il fallimento, l’amministrazione trasmetterà il protocollo in un cogli atti all’ufficio dei fallimenti, perchè li conservi nel suo archivio.
-
-<sup>4</sup> …[^98-3]
+<sup>3</sup> ...[^98-3]
 
 [^98-1]: Nei testi tedesco e francese i cpv. 1 e 2 costituiscono il cpv. 1.
 [^98-2]: Nei testi tedesco e francese i cpv. 1 e 2 costituiscono il cpv. 1.
@@ -1166,4 +1218,4 @@ Le prescrizioni contenute negli articoli 1 numeri 2 a 4, 2, 3, 5, 8 a 10, 13, 15
 
 <sup>2</sup> È in ispecial modo modificato dall’articolo 61 di questo regolamento l’articolo 12 dell’ordinanza del 10 maggio 1910 [^100-1] concernente il pignoramento, il sequestro e la realizzazione di diritti derivanti da polizze d’assicurazione.
 
-[^100-1]: [RS 281.51](https://fedlex.data.admin.ch/eli/cc/26/205_203_198)
+[^100-1]: [RS 281.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6169)
