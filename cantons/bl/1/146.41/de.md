@@ -3,20 +3,20 @@ canton: BL
 number: "146.41"
 title: Dienstordnung des Amtes für Volksschulen
 language: de
-version: 2014-08-01
-valid_until: 2021-07-31
-version_adopted: 2014-07-08
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-29
 adopted: 2014-07-08
 in_force: 2014-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/146.41"
-pdf: "https://bl.clex.ch/api/de/versions/3046/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3047/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung des Amtes für Volksschulen
 
-Vom 08.07.2014 (Stand 01.08.2014)
+Vom 08.07.2014 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -37,18 +37,19 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Das AVS ist die kantonale Behörde für Volksschulen und die Ansprechstelle für die Schulräte und Schulleitungen.
+<sup>1</sup> Das AVS ist die kantonale Behörde für Volksschulen, die Ansprechstelle für die Schulräte und Schulleitungen sowie die fachlich unabhängige kantonale Fachstelle für schulpsychologische Fragestellungen.
 
-<sup>2</sup> Seine Aufgaben ergeben sich aus der Bildungsgesetzgebung, insbesondere aus § 70 der Verordnung für den Kindergarten und die Primarschule vom 13. Mai 2003[^2-1], § 51 der Verordnung für die Sekundarschule vom 13. Mai 2003[^2-2], § 23a der Verordnung für die Sonderschulung vom 13. Mai 2003[^2-3] sowie § 34 der Verordnung für die Musikschule vom 13. Mai 2003[^2-4].
+<sup>2</sup> Seine Aufgaben ergeben sich aus der Bildungsgesetzgebung, insbesondere aus § 70 der Verordnung für den Kindergarten und die Primarschule vom 13. Mai 2003[^2-1], § 51 der Verordnung für die Sekundarschule vom 13. Mai 2003[^2-2], § 65 der Verordnung über die Spezielle Förderung, die Sonderschulung und die heilpädagogische Früherziehung vom 22. Juni 2021[^2-3], § 34 der Verordnung für die Musikschule vom 13. Mai 2003[^2-4] und der Verordnung über den Schulpsychologischen Dienst vom 22. April 2008[^2-5] sowie aus den einschlägigen Bestimmungen zur schulpsychologischen Beratung in den Stufenverordnungen und in den speziellen Erlassen zu den Bildungsangeboten..
 
-<sup>3</sup> Ihm obliegt insbesondere die Verantwortung für schulbetriebliche, pädagogische, sonderpädagogische Belange sowie für die Steuerung der Evaluation- und Entwicklung der Volksschule im Hinblick auf eine optimale Begleitung, Koordination und Weiterentwicklung der Volksschule auf kantonaler Ebene.
+<sup>3</sup> Ihm obliegt insbesondere die Verantwortung für schulbetriebliche, pädagogische, sonderpädagogische Belange sowie für die Steuerung von Aufsicht, Qualität, Entwicklung, Betrieb und Weiterbildung der Volksschule im Hinblick auf eine optimale Begleitung, Koordination und Weiterentwicklung der Volksschule auf kantonaler Ebene sowie der schulpsychologischen Beratung für alle Schulstufen.
 
 <sup>4</sup> Im Übrigen ist es zuständig für alle Belange der Volksschule, die durch Gesetz und Verordnung nicht anderen Organen übertragen sind.
 
 [^2-1]: [SGS 641.11](https://bl.clex.ch/data/641.11/de/art70)
 [^2-2]: [SGS 642.11](https://bl.clex.ch/data/642.11/de/art51)
-[^2-3]: [SGS 640.71](https://bl.clex.ch/data/640.71/de/art23a)
+[^2-3]: [SGS 640.71](https://bl.clex.ch/data/640.71/de/art65)
 [^2-4]: [SGS 640.41](https://bl.clex.ch/data/640.41/de/art34)
+[^2-5]: [SGS 645.21](https://bl.clex.ch/data/645.21/de)
 
 #### § 3
 
@@ -57,12 +58,12 @@ beschliesst:
 <sup>1</sup> Das AVS gliedert sich in:
 
 - a. die Dienststellenleitung;
-- b. den Stab Zentrale Dienste;
-- c. die Abteilungen:
-  - 1\. Schulbetrieb;
-  - 2\. Pädagogik;
-  - 3\. Sonderpädagogik;
-  - 4\. Evaluation und Entwicklung.
+- b. die Abteilung Support;
+- c. die Hauptabteilungen:
+  - 1\. Betrieb und Weiterbildung;
+  - 2\. Sonderpädagogik;
+  - 3\. Aufsicht und Qualität;
+  - 4\. Schulpsychologischer Dienst.
 
 <sup>2</sup> Dem AVS zugeordnet ist der Präsidialausschuss der Schulleitungskonferenzen Primarstufe, Sekundarstufe I, Musikschulen und Sonderschulen.
 
@@ -72,7 +73,7 @@ beschliesst:
 
 <sup>1</sup> Die Dienststellenleiterin oder der Dienststellenleiter führt das AVS und ist für die operative Umsetzung der Planungsziele sowie die Koordinations- und Qualitätssicherungsaufgaben der Volksschule verantwortlich.
 
-<sup>2</sup> Zur Koordination der Aufgaben, zur Meinungsbildung sowie zur Entscheidung der von der Dienststellenleitung zugewiesenen Geschäfte finden unter der Leitung der Dienststellenleiterin oder des Dienststellenleiters regelmässige Sitzungen mit den Leitungen der Abteilungen und des Stabs Zentrale Dienste statt.
+<sup>2</sup> Zur Koordination der Aufgaben, zur Meinungsbildung sowie zur Entscheidung der von der Dienststellenleitung zugewiesenen Geschäfte finden unter der Leitung der Dienststellenleiterin oder des Dienststellenleiters regelmässige Sitzungen mit den Leitungen der Hauptabteilungen und der Abteilung Support statt.
 
 #### § 5
 
@@ -80,7 +81,7 @@ beschliesst:
 
 <sup>1</sup> Die Dienststellenleiterin oder der Dienststellenleiter hat insbesondere folgende Aufgaben:
 
-- a. die Führung des AVS, der Abteilungsleitenden sowie der Leitung Stab Zentrale Dienste;
+- a. die Führung des AVS, der Hauptabteilungs- und Abteilungsleitenden;
 - b. die Beratung und Unterstützung der Direktionsvorsteherin oder des Direktionsvorstehers in strategischen Fragestellungen der Volksschulen;
 - c. die Sicherstellung und Koordination der abteilungsübergreifenden Zusammenarbeit;
 - d. die Koordination des internen Gesamtbudget- und Rechnungslegungsprozesses, die Antragstellung sowie die Durchsetzung der Finanzvorgaben der Direktion;
@@ -95,66 +96,68 @@ beschliesst:
 
 #### § 6
 
-**Abteilungen**
+**Hauptabteilungen und Abteilung**
 
-<sup>1</sup> Die Abteilungen nehmen Aufgaben und Verantwortungen in ihrem Zuständigkeitsbereich wahr und leiten in diesem Projekte und Arbeitsgruppen, sofern die Leitung nicht anderen übertragen wurde. Sie vertreten ihre Zuständigkeit in den interdisziplinären und interorganisationalen Projekten und Arbeitsgruppen.
+<sup>1</sup> Die Hauptabteilungen und die Abteilung Support nehmen Aufgaben und Verantwortungen in ihrem Zuständigkeitsbereich wahr und leiten in diesem Projekte und Arbeitsgruppen, sofern die Leitung nicht anderen übertragen wurde. Sie vertreten ihre Zuständigkeit in den interdisziplinären und interorganisationalen Projekten und Arbeitsgruppen.
 
 #### § 7
 
-**Stab Zentrale Dienste**
+**Abteilung Support**
 
-<sup>1</sup> Der Stab Zentrale Dienste ist zuständig für die Bereiche Personal, Finanzen und Controlling, Reporting/Statistik, Kommunikation, EDV, Qualitätsmanagement und Administration des AVS soweit diese nicht den Abteilungen übertragen sind.
+<sup>1</sup> Die Abteilung Support ist zuständig für die Bereiche Finanzen, Steuerung und Prozessoptimierung, fachspezifische Sachbearbeitung, Information und Administration des AVS. Zudem unterstützt sie die Dienststellenleitung im Projektmanagement und der Bearbeitung von politischen Geschäften.
 
-<sup>2</sup> Er hat insbesondere folgende Aufgaben:
+<sup>2</sup> Sie hat insbesondere folgende Aufgaben:
 
-- a. die Vorbereitung und Umsetzung des Budgets, der Rechnungslegung und des Controllings des AVS, sowie die Budgetierung der Primar-, Sonder- und Privatschulen in Zusammenarbeit mit der jeweiligen Abteilung, soweit diese in der Zuständigkeit des Kantons liegt;
-- b. die Zuständigkeit in der Zusammenarbeit mit der Abteilung Sonderpädagogik für die finanziellen Aspekte der Sonderpädagogik, insbesondere für die Leistungsvereinbarungen mit Privatschulen und mit den Sonderschulen und die Finanzcontrollings der Sonderschulen;
-- c. die Zuständigkeit für alle weiteren Leistungsvereinbarungen des AVS und der Sekundarstufe I
+- a. die Koordination der in Verantwortung des AVS liegenden Budgets und des AFP, Budgetkontrolle und Sicherstellung des Quartals- und Jahresreportings in Zusammenarbeit mit den jeweiligen Hauptabteilungen;
+- b. die Zuständigkeit in der Zusammenarbeit mit den Hauptabteilungen für alle Leistungsvereinbarungen im Zuständigkeitsbereichs des AVS, dazu gehören insbesondere Leistungsvereinbarungen mit Privatschulen und Sonderschulen und die dazu definierten Finanzcontrollings der Leistungserbringern;
+- c. die Sachbearbeitung, insbesondere für die Abteilung Sonderpädagogik;
+- d. das Sicherstellen einer zeitnahen und transparenten Information innerhalb des AVS und mit den Schulen;
+- e. die Administration und Sekretariatsleistung für das gesamte AVS;
+- f. das Projektmanagement und die Bearbeitung von politischen Geschäften im Auftrag der Dienststellenleitung.
 
 #### § 8
 
-**Abteilung Schulbetrieb**
+**Hauptabteilung Betrieb und Weiterbildung**
 
-<sup>1</sup> Die Abteilung Schulbetrieb ist zuständig für alle schulbetrieblichen Belange der Primarstufe und der Sekundarstufe I, inklusive Privatschulen jedoch ohne Sonderschulen sowie für alle schulbetrieblichen und pädagogischen Angelegenheiten der Musikschule, soweit diese durch Gesetz und Verordnung nicht anderen Organen übertragen sind.
+<sup>1</sup> Die Hauptabteilung Betrieb und Weiterbildung ist zuständig für alle schulbetrieblichen, pädagogischen und weiterbildnerischen Belange der Primarstufe und der Sekundarstufe I, inklusive Privatschulen, jedoch ohne Sonderschulen, sowie für alle schulbetrieblichen und pädagogischen Angelegenheiten der Musikschule, soweit diese durch Gesetz und Verordnung nicht anderen Organen übertragen sind.
 
-<sup>2</sup> Sie gliedert sich in die Bereiche Primarstufe, Sekundarstufe I und Musikschulen.
+<sup>2</sup> …
 
 <sup>3</sup> Sie hat insbesondere folgende Aufgaben:
 
-- a. die Steuerung der Sekundarstufe I, insbesondere die Budgetierung in Zusammenarbeit mit dem Generalsekretariat der BKSD;
-- b. die Budgetierung der Primarschulen in der Zusammenarbeit mit dem Stab Zentrale Dienste, soweit diese in Zuständigkeit des Kantons liegt;
+- a. die Steuerung der Sekundarstufe I, insbesondere die Budgetierung in Zusammenarbeit der Abteilung Support;
+- b. die Budgetierung der Primarschulen in der Zusammenarbeit mit der Abteilung Support, soweit diese in Zuständigkeit des Kantons liegt;
 - c. die Genehmigung der Klassenbildung der Sekundarstufe I und der Ausnahmen der Klassenbildung des Kindergartens und der Primarstufe sowie die Genehmigung der Ausnahmen der Kursbildung der gesamten Volksschule;
-- d. die Bewilligung und Beaufsichtigung der Privatschulen und der privaten Schulung;
-- e. die Kontrolle und Durchsetzung der kantonalen Regelungen;
-- f. das Führen jährlicher Betriebsgespräche mit den Schulleitungen der Volksschulen und der Musikschulen;
-- g. die inhaltliche Verantwortung und Mitwirkung bei der Aus- und Weiterbildung der Schulleitungen und des nicht unterrichtenden Schulpersonals in Zusammenarbeit mit den anderen Abteilungen des AVS;
-- h. die Festlegung der Leitungszeit der Schulleitungen und deren Überprüfung alle 2 Jahre.
+- d. …
+- e. …
+- f. das Führen der Quartal- bzw. Semestergespräche mit den Schulleitungen der Volksschulen;
+- g. die inhaltliche Verantwortung und Mitwirkung bei der Aus- und Weiterbildung der Schulleitungen und des nicht unterrichtenden Schulpersonals in Zusammenarbeit mit den anderen Hauptabteilungen und Abteilungen des AVS;
+- h. die regelmässige Überprüfung der Leitungszeit der Schulleitungen;
+- i. die Entwicklung und Unterstützung von Weiterbildungsprojekten, -angeboten und -formaten im pädagogischen Bereich;
+- j. die Sicherstellung eines Weiterbildungsprogramms für Schulbeteiligte;
+- k. die Führung, fachliche Unterstützung und Weiterbildung von Netzwerken (z.B. Mentorinnen und Mentoren, Multiplikatoren);
+- l. die Bewilligung von Schulberatung sowie die Einsetzung von Fachpersonen und Mentorinnen und Mentoren auf Antrag der Schulleitung sowie der Expertinnen und Experten für die Begleitung von Sachgeschäften;
+- m. die inhaltliche und betriebswirtschaftliche Unterstützung für die Organisation und Durchführung schulinterner Weiterbildung (SCHIWE);
+- n. die Erteilung von Kostengutsprachen für schulbeteiligte Personen bezüglich externer Weiterbildungsveranstaltungen;
+- o. die Antragsstellung zu Lehrmitteln und Lehrplänen zu Handen des Bildungsrates;
+- p. die Koordination der Inhalte der Schulfächer, der fachübergreifenden Themen und der überfachlichen Kompetenzen;
+- q. die Koordination der kantonalen Leistungstests (Checks) und des Abschlusszertifikates am Ende der Volksschule sowie die Durchführung der Übertrittsprüfung;
+- r. die Verantwortung für die Austauschprojekte;
+- s. die Sicherstellung des Angebots eines TimeOuts für befristete Schulausschlüsse von Schülerinnen und Schülern;
+- t. die Sicherstellung des Angebotes BerufsWegBereitung (BWB) auf der Sekundarstufe I;
+- u. die Kooperation mit den Ausbildungsstätten der Lehrerinnen- und Lehrerausbildung in berufspraktischen Anliegen;
+- v. die Beurteilung der Schulleitungen im Unterricht zu Handen der Schulräte;
+- w. die Ansprechstelle für Anliegen der Schulentwicklung in schulbetrieblichen Belangen.
 
 #### § 9
 
-**Abteilung Pädagogik**
-
-<sup>1</sup> Die Abteilung Pädagogik ist zuständig für alle pädagogischen Belange der Primarstufe und der Sekundarstufe I, soweit diese durch Gesetz und Verordnung nicht anderen Organen übertragen sind.
-
-<sup>2</sup> Sie gliedert sich in die Bereiche Unterricht und schulergänzende Angebote.
-
-<sup>3</sup> Sie hat insbesondere folgende Aufgaben:
-
-- a. die Antragsstellung zu Lehrmitteln und Lehrplänen zu Handen des Bildungsrates;
-- b. die Koordination der Inhalte der Schulfächer, der fachübergreifenden Themen und der überfachlichen Kompetenzen;
-- c. die Koordination der kantonalen Leistungstests (Checks) und des Abschlusszertifikates am Ende der Volksschule sowie die Durchführung der Übertrittsprüfung;
-- d. die Verantwortung für die Austauschprojekte;
-- e. die Sicherstellung des Angebots eines TimeOuts für befristete Schulausschlüsse von Schülerinnen und Schülern;
-- f. die Einsetzung der Fachpersonen und Mentorinnen und Mentoren auf Antrag der Schulleitung sowie der Expertinnen und Experten für die Begleitung von Sachgeschäften;
-- g. die Sicherstellung des Angebotes BerufsWegBereitung (BWB) auf der Sekundarstufe I;
-- h. die Kooperation mit den Ausbildungsstätten der Lehrerinnen- und Lehrerausbildung in berufspraktischen Anliegen;
-- i. die Beurteilung der Schulleitungen im Unterricht zu Handen des Schulrats.
+**…**
 
 #### § 10
 
-**Abteilung Sonderpädagogik**
+**Hauptabteilung Sonderpädagogik**
 
-<sup>1</sup> Die Abteilung Sonderpädagogik ist zuständig für alle sonderpädagogischen Belange der Volksschule soweit diese durch Gesetz und Verordnung nicht anderen Organen übertragen sind.
+<sup>1</sup> Die Hauptabteilung Sonderpädagogik ist zuständig für alle sonderpädagogischen Belange der Volksschule soweit diese durch Gesetz und Verordnung nicht anderen Organen übertragen sind.
 
 <sup>2</sup> Sie gliedert sich in die Bereiche Spezielle Förderung und Sonderschulung im nicht stationären Bereich.
 
@@ -162,29 +165,52 @@ beschliesst:
 
 - a. die Bewilligung von Massnahmen der Speziellen Förderung, soweit diese nicht in den Zuständigkeitsbereich der Schule fallen, und der Integrativen und Separativen Sonderschulung im nicht stationären Bereich sowie weitere die Sonderschulung ergänzende Entscheide;
 - b. die Steuerung, Bedarfsplanung, Aufsicht und Qualitätsentwicklung der Speziellen Förderung und der Sonderschulung im nicht stationären Bereich und die Leistungscontrollings und Evaluationen der Sonderschulen;
-- c. die Budgetierung der Massnahmen der Speziellen Förderung und der Sonderschulung im nicht stationären Bereich in Zusammenarbeit mit dem Stab Zentrale Dienste, soweit diese in der Zuständigkeit des Kantons liegt;
+- c. die Budgetierung der Massnahmen der Speziellen Förderung und der Sonderschulung im nicht stationären Bereich in Zusammenarbeit mit der Abteilung Support, soweit diese in der Zuständigkeit des Kantons liegt;
 - d. die Beratung der strategischen und operativen Gremien in allen fachlichen Belangen der Speziellen Förderung und der Sonderschulung im nicht stationären Bereich;
-- e. die Zuständigkeit für die fachlichen Aspekte der Sonderpädagogik in Zusammenarbeit mit dem Stab Zentrale Dienste, insbesondere für die Leistungsvereinbarungen mit Privatschulen und mit Sonderschulen und die Finanzcontrollings der Sonderschulen;
+- e. die Zuständigkeit für die fachlichen Aspekte der Sonderpädagogik in Zusammenarbeit mit der Abteilung Support, insbesondere für die Leistungsvereinbarungen mit Privatschulen und mit Sonderschulen und die Leistungscontrollings der Sonderschulen;
 - f. die Bearbeitung von Strukturfragen und Problemstellungen zur Organisation, Ausrichtung und Weiterentwicklung der Speziellen Förderung und der Sonderschulung im nicht stationären Bereich;
 - g. die Bewilligung und Anerkennung der Sonderschulen sowie der Leistungsanbieterinnen und -anbieter der Psychomotoriktherapie;
 - h. die Überprüfung der Einhaltung von Erlassen und der internen Qualitätssicherung.
 
 #### § 11
 
-**Abteilung Evaluation und Entwicklung**
+**Hauptabteilung Aufsicht und Qualität**
 
-<sup>1</sup> Die Abteilung Evaluation und Entwicklung ist zuständig für die kontinuierliche Bereitstellung von Daten für die Durchführung von externen und internen Evaluationen, für das Erstellen von Analysen sowie für die Ableitung und Nutzung der entsprechenden Entwicklungserkenntnisse.
+<sup>1</sup> Die Hauptabteilung Aufsicht und Qualität ist zuständig für die kantonale Aufsicht über die Volksschulen (Kindergarten/Primarschulen, Sekundarschulen), die Musikschulen, die Privatschulen und die private Schulung.
 
-<sup>2</sup> Sie gliedert sich in die Bereiche Evaluation und Entwicklung.
+<sup>2</sup> …
 
 <sup>3</sup> Sie hat insbesondere folgende Aufgaben:
 
-- a. die Sicherstellung eines kantonalen Qualitätsrahmens;
-- b. die Sicherstellung und Begleitung von Prozess-, Themen- und Betriebsevaluationen in Absprache mit den zuständigen Abteilungen;
-- c. die kontinuierliche Bereitstellung von Daten zur Erfüllung des gesetzlichen Auftrags im Bildungsbereich im Allgemeinen sowie im Speziellen im Auftrag der Direktionsvorsteherin oder des Direktionsvorstehers;
-- d. die Ableitung von datengestützten Entwicklungserkenntnissen;
-- e. die Formulierung bzw. Bestellung von entsprechenden Entwicklungsangeboten und die Festlegung der inhaltlichen Ausrichtung der Weiterbildungsangebote für Lehrerinnen, Lehrer und Schulleitungen in Absprache mit den anderen Abteilungen im AVS, dem Präsidialausschuss, den weiteren Dienststellen und dem Generalsekretariat der BKSD zuhanden der Fachstelle Erwachsenenbildung;
-- f. die Zusammenstellung der Erkenntnisse aus den internen Evaluationen der Schulen und darauf basierend das Generieren des Steuerungswissen für die Schulen und das AVS bzw. die BKSD insgesamt.
+- a. die Sicherstellung der Umsetzung des Bildungsauftrages und der Einhaltung der kantonalen Vorgaben an den Schulen;
+- b. die Erarbeitung und Weiterentwicklung gültiger Orientierungsrahmen zur Qualitätsentwicklung und -sicherung;
+- c. die Sicherstellung der Unterstützung der Schulen beim Aufbau von Kompetenzen im Bereich ihrer Qualitätsentwicklung und -sicherung;
+- d. die Konzipierung, Umsetzung und Weiterentwicklung der evaluationsbasierten kantonalen Aufsicht;
+- e. die Beauftragung bzw. Durchführung von regelmässigen Befragungen inkl. Kennzahlenerhebungen, Audits und vertieften Analysen;
+- f. die Beurteilung und Feststellen allfälligen Handlungsbedarfs auf Basis datengestützter Erkenntnisse;
+- g. die Sicherstellen der Entwicklung geeigneter Massnahmen, deren Umsetzungsplanung und der Umsetzungskontrolle;
+- h. die Planung und Durchführung von Interventionen, wenn in Schulen deren Funktionsfähigkeit gefährdet bzw. nicht mehr gegeben ist;
+- i. die Erteilung der Betriebsbewilligung an Privatschulen und zur privaten Schulung;
+- j. die Aufsicht über die Privatschulen und die private Schulung;
+- k. die Ansprechstelle für Anliegen der Schulentwicklung in den Bereichen Qualitätsentwicklung und -sicherung.
+
+#### § 11a
+
+**Hauptabteilung Schulpsychologischer Dienst (SPD)**
+
+<sup>1</sup> Die Hauptabteilung SPD berät als fachlich unabhängige, kantonale Fachstelle Schülerinnen und Schüler und deren Eltern, Lehrerinnen und Lehrer sowie Schulbehörden in Schul- und Entwicklungsfragen.
+
+<sup>2</sup> Sie gliedert sich in Kreisstellen mit Nebenstandorten.
+
+<sup>3</sup> Sie hat insbesondere folgende Aufgaben:
+
+- a. die Beratung und Unterstützung von Schülerinnen und Schüler sowie deren Erziehungsberechtigte in Fragen des Lernens, des Verhaltens und der Entwicklung;
+- b. die fachliche Beratung und Begleitung von Lehrerinnen und Lehrern, Schulleitungen und Behörden in schulpsychologischen Fragestellungen;
+- c. die Vermittlung zwischen individuellen Bildungsbedürfnissen und schulischen Angeboten dort, wo die subjektive Situation einer Schülerin oder eines Schülers dies erfordert;
+- d. die Gewährleistung einer kantonsweit einheitlichen Anwendung der Indikationsstellungen;
+- e. die Beantragung der notwendigen Massnahmen bei den zuständigen Behörden, in der Regel mit Zustimmung der Inhaber der elterlichen Sorge;
+- f. die Sicherstellung der Fachlichkeit durch regelmässige Intervision, Supervision und Weiterbildung;
+- g. die Vertretung der Fachstelle gegenüber Behörden, Schulen und Öffentlichkeit.
 
 #### § 12
 
