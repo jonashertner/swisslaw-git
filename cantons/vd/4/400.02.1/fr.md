@@ -4,7 +4,7 @@ number: "400.02.1"
 title: RÈGLEMENT du 02.07.2012 d’application de la loi du 7 juin 2011 sur l’enseignement obligatoire (RLEO)
 short: RLEO
 language: fr
-version: 2019-08-01
+version: 2021-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/400.02.1?id=8e9502b1-5958-481c-91e9-f2a985e1c49c"
 ---
 
@@ -36,22 +36,23 @@ arrête
 
 **Autorités (LEO art. 1) [^chapterChapitreI-1]**
 
-<sup>1</sup> Le département en charge de la formation (ci-après : le département) est l'autorité compétente pour mettre en œuvre le présent règlement, dans la mesure où celui-ci n'en dispose pas autrement.
+<sup>1</sup> Le département en charge de la formation (ci-après : le département)[^1-1] est l'autorité compétente pour mettre en œuvre le présent règlement, dans la mesure où celui-ci n'en dispose pas autrement.
 
-<sup>2</sup> Le chef du département peut déléguer des compétences à la Direction générale de l'enseignement obligatoire (ci-après : la DGEO) en application de la loi du 11 février 1970 sur l'organisation du Conseil d'Etat[^1-1].
+<sup>2</sup> Le chef du département peut déléguer des compétences à la Direction générale de l'enseignement obligatoire (ci-après : la DGEO) en application de la loi du 11 février 1970 sur l'organisation du Conseil d'Etat[^1-2].
 
 [^chapterChapitreI-1]: Modif. 1 du 02.07.2012: Abrogation tArt; entrée en vigueur au 01.08.2013; Abrogation Al. 1-2; entrée en vigueur au 01.08.2013
-[^1-1]: Loi du 11.02.1970 sur l'organisation du Conseil d’Etat ([BLV 172.115](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.115?id=b63d64be-09d4-46f7-8454-c0dbbd3a5c48))
+[^1-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^1-2]: Loi du 11.02.1970 sur l'organisation du Conseil d’Etat ([BLV 172.115](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.115?id=b63d64be-09d4-46f7-8454-c0dbbd3a5c48))
 
 #### Art. 2
 
-**Terminologie (LEO art. 4) [^1-2]**
+**Terminologie (LEO art. 4) [^1-3]**
 
 <sup>1</sup> La désignation des fonctions et des titres indiqués dans le présent règlement s'applique indifféremment aux femmes et aux hommes.
 
 <sup>2</sup> Dans le cadre du présent règlement, le terme autorité communale désigne également l'autorité qui représente un ensemble de communes, au sens de l'article 107a de la loi du 28 février 1956 sur les communes[^2-1].
 
-[^1-2]: Modif. 1 du 02.07.2012: Abrogation tArt; entrée en vigueur au 01.08.2013; Abrogation Al. 1; entrée en vigueur au 01.08.2013
+[^1-3]: Modif. 1 du 02.07.2012: Abrogation tArt; entrée en vigueur au 01.08.2013; Abrogation Al. 1; entrée en vigueur au 01.08.2013
 [^2-1]: Loi du 28.02.1956 sur les communes ([BLV 175.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/175.11?id=3f4231f9-d36c-4911-9d48-e38c0f18ad3c))
 [^2-2]: Modif. 1 du 02.07.2012: Abrogation ; entrée en vigueur au 01.08.2013
 
@@ -1064,35 +1065,45 @@ Aux termes de l'article 118, alinéa 2, l'entrée en vigueur de l'alinéa 2 est 
 
 <sup>2</sup> Une épreuve significative permet de mesurer l'atteinte d'un ou plusieurs objectifs du plan d'études. Elle peut être constituée de plusieurs travaux ponctuels, conformément au dispositif prévu par le CGE. Sauf en 8ème année, les ECR sont prises en compte comme une épreuve significative dans chaque branche considérée.
 
-<sup>3</sup> Les résultats obtenus en fin de 8ème année au sens de l'article 88, alinéa 1, lettre a) de la loi[^84-1] sont calculés à la décimale.
+<sup>3</sup> Sont calculés à la décimale :
 
-[^83-2]: Modif. 3 du 28.08.2013: Modification Al. 2; entrée en vigueur au 03.08.2013; Introduction Al. 3; entrée en vigueur au 03.08.2013 · Modif. 7 du 26.05.2021: Modification Al. 3; entrée en vigueur au 01.08.2021; Introduction Al. 3, a-b; entrée en vigueur au 01.08.2021; Introduction Art. 85, Al. 1bis; entrée en vigueur au 01.08.2021; Introduction Art. 85, Al. 3, a-b; entrée en vigueur au 01.08.2021
-[^84-1]: Loi du 07.06.2011 sur l'enseignement obligatoire ([BLV 400.02](https://prestations.vd.ch/pub/blv-publication/actes/consolide/400.02?id=1444413b-d078-412a-8edc-b8e277fc2daa))
+- a. en fin de 8ème année, les résultats obtenus au sens de l'article 88, alinéa 1, lettre a) de la loi ;
+- b. en fin de 11ème ou de 12ème année, les résultats obtenus avant l'examen prévu à l'article 91, alinéa 2, de la loi.
+
+[^83-2]: Modif. 3 du 28.08.2013: Modification Al. 2; entrée en vigueur au 03.08.2013; Introduction Al. 3; entrée en vigueur au 03.08.2013 · Modif. 7 du 26.05.2021: Modification Al. 3; entrée en vigueur au 01.08.2021; Introduction Al. 3, a-b; entrée en vigueur au 01.08.2021
 
 #### Art. 85
 
-**Groupes de disciplines (LEO art. 109) [^84-2]**
+**Modalités de prise en compte des résultats (LEO art. 109) [^84-1]**
 
-<sup>1</sup> Dès la 6ème année, les décisions concernant le parcours de l'élève se fondent sur les résultats obtenus dans deux groupes de disciplines :
+<sup>1</sup> Dès la 6ème année, les décisions concernant le parcours de l'élève se fondent sur les résultats obtenus, d'une part, dans l'ensemble constitué de toutes les disciplines de la grille horaire sujettes à évaluation et, d'autre part, dans un groupe restreint de disciplines.
 
-- a. le groupe I : français, mathématiques, allemand, géographie, histoire et sciences de la nature ; les trois dernières disciplines sont regroupées sous la dénomination connaissance de l'environnement ;
-- b. le groupe II : arts visuels, musique et activités créatrices et manuelles.
+- a. ...
+- b. ...
 
-<sup>2</sup> Dès la 8ème année, elles se fondent sur les résultats obtenus dans trois groupes de disciplines :
+<sup>1bis</sup> En 6ème année, les décisions se fondent sur les résultats de l'élève :
 
-- a. le groupe I : français, mathématiques, allemand et sciences de la nature ;
-- b. le groupe II : géographie, histoire et anglais, sous réserve de l'article 116 ;
-- c. le groupe III : arts visuels, musique et activités créatrices et manuelles ou cuisine.
+- a. d'une part, dans toutes les disciplines de la grille horaire sujettes à évaluation, soit en français, mathématiques, allemand, sciences de la nature, géographie, histoire, arts visuels, musique et activités créatrices et manuelles ; sciences de la nature, géographie et histoire sont regroupées sous la dénomination connaissance de l'environnement ;
+- b. d'autre part, dans le groupe restreint, soit en français et mathématiques.
 
-<sup>3</sup> Dès la 9ème année, le groupe I décrit à l'alinéa 2 est complété par l'option ou les options suivies par l'élève.
+<sup>2</sup> En 8ème année, elles se fondent sur les résultats de l'élève :
 
-<sup>4</sup> En 11ème année, le groupe II est complété par la citoyenneté.
+- a. d'une part, dans toutes les disciplines de la grille horaire sujettes à évaluation, soit en français, mathématiques, allemand, anglais, sciences de la nature, géographie, histoire, arts visuels, musique et activités créatrices et manuelles ;
+- b. d'autre part, dans le groupe restreint, soit en français, mathématiques et allemand.
+- c. ...
 
-<sup>5</sup> Le CGE indique le nombre de points que l'élève doit avoir obtenu dans chaque groupe de disciplines. Ce nombre de points s'obtient par l'addition des moyennes de chaque discipline du groupe.
+<sup>3</sup> Dès la 9ème année, elles se fondent sur les résultats de l'élève :
+
+- a. d'une part, dans toutes les disciplines de la grille horaire sujettes à évaluation, soit en français, mathématiques, allemand, l'option ou les options suivies par l'élève, anglais, sciences de la nature, géographie, histoire, arts visuels, musique et activités créatrices et manuelles ou éducation nutritionnelle ;
+- b. d'autre part, dans le groupe restreint, soit en français, mathématiques allemand et l'option ou les options suivies par l'élève.
+
+<sup>4</sup> ...
+
+<sup>5</sup> Le CGE indique le nombre de points que l'élève doit avoir obtenu dans l'ensemble des disciplines et dans le groupe restreint. Ce nombre de points s'obtient par l'addition des moyennes de chaque discipline.
 
 <sup>6</sup> Les résultats obtenus aux disciplines telles qu'éthique et cultures religieuses et citoyenneté sont pris en compte dans les résultats des disciplines auxquelles elles sont associées dans la grille horaire.
 
-[^84-2]: Modif. 3 du 28.08.2013: Modification Al. 1; entrée en vigueur au 03.08.2013 · Modif. 7 du 26.05.2021: Introduction Art. 84, Al. 3, a-b; entrée en vigueur au 01.08.2021; Modification tArt; entrée en vigueur au 01.08.2021; Modification Al. 1; entrée en vigueur au 01.08.2021; Abrogation Al. 1, a-b; entrée en vigueur au 01.08.2021; Introduction Al. 1bis; entrée en vigueur au 01.08.2021; Modification Al. 2; entrée en vigueur au 01.08.2021; Modification Al. 2, a-b; entrée en vigueur au 01.08.2021; Abrogation Al. 2, c; entrée en vigueur au 01.08.2021; Modification Al. 3; entrée en vigueur au 01.08.2021; Introduction Al. 3, a-b; entrée en vigueur au 01.08.2021; Abrogation Al. 4; entrée en vigueur au 01.08.2021; Modification Al. 5; entrée en vigueur au 01.08.2021
+[^84-1]: Modif. 3 du 28.08.2013: Modification Al. 1; entrée en vigueur au 03.08.2013 · Modif. 7 du 26.05.2021: Modification tArt; entrée en vigueur au 01.08.2021; Modification Al. 1; entrée en vigueur au 01.08.2021; Abrogation Al. 1, a-b; entrée en vigueur au 01.08.2021; Introduction Al. 1bis; entrée en vigueur au 01.08.2021; Modification Al. 2; entrée en vigueur au 01.08.2021; Modification Al. 2, a-b; entrée en vigueur au 01.08.2021; Abrogation Al. 2, c; entrée en vigueur au 01.08.2021; Modification Al. 3; entrée en vigueur au 01.08.2021; Introduction Al. 3, a-b; entrée en vigueur au 01.08.2021; Abrogation Al. 4; entrée en vigueur au 01.08.2021; Modification Al. 5; entrée en vigueur au 01.08.2021
 
 #### Art. 86
 
@@ -1104,13 +1115,13 @@ Aux termes de l'article 118, alinéa 2, l'entrée en vigueur de l'alinéa 2 est 
 
 **Accès aux voies du degré secondaire (LEO art. 88) [^86-1]**
 
-<sup>1</sup> Pour accéder à la voie prégymnasiale, l'élève promu en 9ème année doit remplir les conditions fixées dans le CGE pour les disciplines des groupes I et II.
+<sup>1</sup> Pour accéder à la voie prégymnasiale, l'élève promu en 9ème année doit remplir les conditions fixées dans le CGE, d'une part, dans l'ensemble constitué de toutes les disciplines de la grille horaire sujettes à évaluation et, d'autre part, dans le groupe restreint de disciplines, figurant à l'article 85, alinéa 2.
 
 <sup>2</sup> L'élève qui ne remplit pas ces conditions est admis en voie générale où il est alors orienté dans les niveaux.
 
 <sup>3</sup> Le nombre de points des disciplines qui seront enseignées à niveaux dès la 9ème année prend en compte les résultats obtenus aux ECR, conformément à l'article 88, alinéa 2 de la loi[^87-1].
 
-[^86-1]: Modif. 1 du 02.07.2012: Abrogation tArt; entrée en vigueur au 01.08.2013; Abrogation Al. 1; entrée en vigueur au 01.08.2013 · Modif. 7 du 26.05.2021: Introduction Art. 84, Al. 3, a-b; entrée en vigueur au 01.08.2021; Introduction Art. 85, Al. 1bis; entrée en vigueur au 01.08.2021; Introduction Art. 85, Al. 3, a-b; entrée en vigueur au 01.08.2021; Modification Al. 1; entrée en vigueur au 01.08.2021
+[^86-1]: Modif. 1 du 02.07.2012: Abrogation tArt; entrée en vigueur au 01.08.2013; Abrogation Al. 1; entrée en vigueur au 01.08.2013 · Modif. 7 du 26.05.2021: Modification Al. 1; entrée en vigueur au 01.08.2021
 [^87-1]: Loi du 07.06.2011 sur l'enseignement obligatoire ([BLV 400.02](https://prestations.vd.ch/pub/blv-publication/actes/consolide/400.02?id=1444413b-d078-412a-8edc-b8e277fc2daa))
 
 #### Art. 88
