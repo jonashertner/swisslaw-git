@@ -4,20 +4,20 @@ number: "145.11"
 title: Dienstordnung der Sicherheitsdirektion
 short: Do SID
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-15
+version: 2021-08-01
+valid_until: 2022-03-31
+version_adopted: 2021-06-22
 adopted: 2024-12-17
 in_force: 2025-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/145.11"
-pdf: "https://bl.clex.ch/api/de/versions/2840/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3030/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Sicherheitsdirektion
 
-Vom 23.10.1984 (Stand 01.01.2021)
+Vom 23.10.1984 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -48,7 +48,8 @@ beschliesst:
   - 9\. …
   - 10\. Zivilstandswesen,
   - 11\. Integrationsfragen,
-  - 12\. Kindesschutz- und Familienfragen.
+  - 12\. Kindesschutz- und Familienfragen,
+  - 13\. Entbindungen vom Amtsgeheimnis für Dienststellenleitungen und Mitarbeitende der Sicherheitsdirektion.
 - b. im Bereich öffentliche Sicherheit:
   - 1\. Sicherheits-, Kriminal- und Verkehrspolizei,
   - 2\. …
@@ -176,6 +177,14 @@ beschliesst:
 - c. weitere von der Direktionsvorsteherin oder vom Direktionsvorsteher eingeladene Personen.
 
 <sup>3</sup> Die Direktionskonferenzen finden in der Regel 3- bis 4-mal jährlich statt. Es wird eine Aktennotiz über den Inhalt und die Ergebnisse der Direktionskonferenzen verfasst.
+
+#### § 5b
+
+**Entbindung vom Amtsgeheimnis in Straf- oder Zivilverfahren**
+
+<sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher verfügt über die Entbindung vom Amtsgeheimnis für die Dienststellenleiterinnen und Dienststellenleiter.
+
+<sup>2</sup> Die Dienststellenleiterin oder der Dienststellenleiter verfügt über die Entbindung vom Amtsgeheimnis für die Mitarbeitenden.
 
 ## 2 Organisation und Befugnisse der Dienststellen
 
@@ -445,12 +454,12 @@ beschliesst:
 <sup>2</sup> Die Polizei Basel-Landschaft gliedert sich wie folgt:
 
 - a. Leitung (Polizeikommandantin oder Polizeikommandant),
-- b. Vizekommandantin oder Vizekommandant,
+- b. …
 - c. Sicherheitspolizei,
 - d. Kriminalpolizei,
 - e. Verkehrspolizei,
 - f. Planung und Einsatz,
-- g. Support.
+- g. Kommandobereiche.
 
 <sup>3</sup> Die Dienststellenleiterin oder der Dienststellenleiter bezeichnet seine Stellvertreterin oder seinen Stellvertreter.
 
