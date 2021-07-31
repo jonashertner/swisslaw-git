@@ -3,20 +3,20 @@ canton: BL
 number: "641.11"
 title: Verordnung für den Kindergarten und die Primarschule
 language: de
-version: 2021-04-01
-valid_until: 2021-07-31
-version_adopted: 2021-03-23
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-06-22
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/641.11"
-pdf: "https://bl.clex.ch/api/de/versions/2972/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3040/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für den Kindergarten und die Primarschule
 
-Vom 13.05.2003 (Stand 01.04.2021)
+Vom 13.05.2003 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -236,9 +236,7 @@ beschliesst:
 
 #### § 15
 
-**Zuweisung in die Einführungsklasse ohne Einwilligung der Erziehungsberechtigten.**
-
-<sup>1</sup> Erziehungsberechtigte, deren Kind ohne ihr Einverständnis allenfalls aufgrund einer Begutachtung des Schulpsychologischen Dienstes der Einführungsklasse zugewiesen wird, erhalten von der Schulleitung der Primarschule einen schriftlich begründeten Entscheid mit einer Rechtsmittelbelehrung.
+**…**
 
 #### § 16
 
@@ -306,9 +304,7 @@ beschliesst:
 
 #### § 19
 
-**Kleinklassen**
-
-<sup>1</sup> Eine Kleinklasse darf nur gebildet werden, wenn sie von Anfang an ohne Doppelzählungen mindestens 6 Schülerinnen und Schüler aufweist.
+**…**
 
 #### § 20
 
@@ -366,9 +362,9 @@ beschliesst:
 
 <sup>2</sup> Sinkt die Klassengrösse bei einstufigen Klassen auf 13 Schülerinnen und Schüler oder darunter, ist eine Pensenreduktion vorzunehmen.
 
-<sup>3</sup> Sinkt die Klassengrösse bei einstufigen Einführungs- oder Kleinklassen auf 7 Schülerinnen und Schüler, ist eine Pensenreduktion vorzunehmen.
+<sup>3</sup> …
 
-<sup>4</sup> In Einführungs- und Kleinklassen beträgt die maximale Abteilungsgrösse im Textilen und im Technischen Gestalten sowie im Musikalischen Grundkurs 9 Schülerinnen und Schüler.
+<sup>4</sup> …
 
 #### § 25
 
@@ -500,73 +496,37 @@ beschliesst:
 
 **…**
 
-## 6 Spezielle Förderung
+## 6 Massnahmen zur kulturellen Identität
 
-### 6.1 Abklärung
+### 6.1
 
 #### § 35
 
-**Fachstellen**
-
-<sup>1</sup> Im Rahmen der Speziellen Förderung führen folgende Fachstellen Abklärungen durch:
-
-- a. der Schulpsychologische Dienst;
-- b. der Kinder- und Jugendpsychiatrische Dienst;
-- c. die Logopädischen Dienste;
-- d. die Vorschulheilpädagogischen Dienste.
+**…**
 
 #### § 36
 
-**Unentgeltlichkeit**
+**…**
 
-<sup>1</sup> Unentgeltlich sind:
-
-- a. die Abklärungen und Beratungen des Schulpsychologischen Dienstes;
-- b. die Abklärungen und Beratungen des Kinder- und Jugendpsychiatrischen Dienstes, soweit sie Schulfragen betreffen;
-- c. die Abklärungen, Beratungen und die entsprechenden Massnahmen der logopädischen und vorschulheilpädagogischen Dienste.
-
-### 6.2 Kleinklassen, Integrative Schulungsform
+### 6.2
 
 #### § 37
 
-**Einführungsklasse**
-
-<sup>1</sup> Die Einführungsklasse bereitet Schülerinnen und Schüler während 2 Schuljahren auf den Übertritt in die 2. Klasse der Primarschule vor.
-
-<sup>2</sup> Sie wird in der Regel als altersgemischte Kleinklasse geführt.
-
-<sup>3</sup> Der Besuch der Einführungsklasse zählt als 1 Schuljahr.
+**…**
 
 #### § 38
 
-**Kleinklasse**
-
-<sup>1</sup> Der Kleinklassenunterricht im Kindergarten besteht in der Regel aus einer heilpädagogischen Förderung an 1 oder mehreren Halbtagen pro Schulwoche.
-
-<sup>2</sup> Die Kleinklassen an der Primarschule werden in der Regel als altersgemischte Lerngruppen für die 2. und 3. sowie für die 4. und 5. Klasse geführt.
+**…**
 
 #### § 39
 
-**Integrative Schulungsform in der Primarschule**
+**…**
 
-<sup>1</sup> Werden Schülerinnen und Schüler anstatt in einer Kleinklasse im Rahmen der Integrativen Schulungsform heilpädagogisch gefördert, so stehen dafür folgende Zusatzlektionen zur Verfügung:
-
-- a. bei 1 oder 2 geförderten Schülerinnen und Schülern in einer Klasse 4–6 Lektionen;
-- b. für jede weitere geförderte Schülerin und jeden weiteren geförderten Schüler in einer Klasse 2 Lektionen.
-
-### 6.3 Förderunterricht
+### 6.3
 
 #### § 40
 
-**Förderunterricht im schriftsprachlichen und mathematischen Bereich**
-
-<sup>1</sup> Der Förderunterricht für Schülerinnen und Schüler mit besonderen Bedürfnissen im schriftsprachlichen und/oder mathematischen Bereich (ehemals Legasthenie und Dyskalkulie) findet in der Regel in einer Gruppe von 2 bis 4 Kindern statt.
-
-<sup>2</sup> Die Aufnahme des Förderunterrichts setzt eine fachliche Abklärung voraus. Für die Abklärung und die Aufnahme des Förderunterrichts ist das Einverständnis der Erziehungsberechtigten nötig.
-
-<sup>3</sup> In besonderen Fällen kann die Schulleitung auf Antrag einer Fachstelle Einzelförderung bewilligen.
-
-<sup>4</sup> Die Bildungs-, Kultur- und Sportdirektion kann die Gesamtzahl der Lektionen nach oben begrenzen.
+**…**
 
 #### § 41
 
@@ -574,73 +534,25 @@ beschliesst:
 
 #### § 42
 
-**Förderung besonderer kognitiver, musischer oder sportlicher Leistungsfähigkeit**
+**…**
 
-<sup>1</sup> Bei vermuteter besonderer Leistungsfähigkeit von Primarschülerinnen und Primarschülern im kognitiven oder musischen Bereich richten die Erziehungsberechtigten ein Gesuch um Abklärung an die Schulleitung, welche das Gesuch nach ihrer Zustimmung an das Amt für Volksschulen weiter leitet.
-
-<sup>2</sup> Das Amt für Volksschulen bestimmt im Einzelfall eine Fachperson oder eine Fachstelle mit speziellen Kenntnissen, die mit der Abklärung beauftragt wird. Die Kosten der Abklärung trägt der Kanton.
-
-<sup>3</sup> Bei durch das Amt für Volksschulen bestätigter Leistungsfähigkeit richten die Erziehungsberechtigten ein Gesuch für eine besondere Form des Schulbesuchs an die zuständige Schulleitung, die für eine allfällige Kostengutsprache des Gemeinderates besorgt ist.
-
-<sup>4</sup> Das Amt für Volksschulen kann zusätzlich Lektionen für die gruppenweise Förderung von Kindern mit besonders kognitiven Leistungsfähigkeiten bewilligen, sofern die Kostengutsprache des Gemeinderates vorliegt.
-
-<sup>5</sup> Für die Förderung von Schülerinnen und Schülern mit einer besonderen sportlichen Leistungsfähigkeit finden die Bestimmungen der Verordnung vom 31. August 2004[^42-1] über die Förderung von sportbegabten Jugendlichen Anwendung.
-
-[^42-1]: [SGS 640.51](https://bl.clex.ch/data/640.51/de)
-
-### 6.4 Integration von fremdsprachigen Schülerinnen und Schülern
+### 6.4
 
 #### § 43
 
-**Grundsatz**
-
-<sup>1</sup> Neu zugezogene fremdsprachige Schülerinnen und Schüler werden in der Regel in die ihrem Jahrgang entsprechende Klasse aufgenommen.
-
-<sup>2</sup> Schülerinnen und Schüler mit ungenügenden oder fehlenden Deutschkenntnissen haben, unabhängig vom Zeitpunkt ihres Zuzugs ins deutsche Sprachgebiet, Anspruch auf den Besuch eines Förderangebotes für Fremdsprachige.
-
-<sup>3</sup> Die Schulleitung entscheidet über die Aufnahme in einen Kurs in Deutsch als Zweitsprache, in einen Intensivkurs in Deutsch oder in eine Integrationsklasse.
+**…**
 
 #### § 44
 
-**Kurse in Deutsch als Zweitsprache**
-
-<sup>1</sup> Fremdsprachige Schülerinnen und Schüler mit ungenügenden Deutschkenntnissen besuchen im Kindergarten und an der Primarschule Kurse in Deutsch als Zweitsprache, welche in Gruppen von 2 bis 6 Schülerinnen und Schülern durchgeführt werden.
-
-<sup>2</sup> Die Schulleitung kann im Einzelfall Einzelunterricht bewilligen.
-
-<sup>3</sup> Die Kurse können im Kindergarten während 2 und anschliessend an der Primarschule während 3 weiterer Schuljahre besucht werden.
-
-<sup>4</sup> Pro Kurs stehen pro Schulwoche 2 Lektionen zur Verfügung.
+**…**
 
 #### § 45
 
-**Intensivkurs in Deutsch als Zweitsprache**
-
-<sup>1</sup> Fremdsprachige Schülerinnen und Schüler ohne Deutschkenntnisse besuchen im Kindergarten und an der Primarschule einen Intensivkurs in Deutsch, der in Gruppen von 2 bis 4 Schülerinnen und Schülern erteilt wird. Die Schulleitung kann im Einzelfall Einzelunterricht bewilligen.
-
-<sup>2</sup> Der Intensivkurs umfasst pro Schulwoche:
-
-- a. im Kindergarten — 4 Lektionen;
-- b. in der 1. und 2. Klasse der Primarschule — 4 bis 6 Lektionen;
-- c. in der 3. bis 5. Klasse der Primarschule — 4 bis 8 Lektionen.
-
-<sup>3</sup> Er dauert längstens 1 Jahr.
-
-<sup>4</sup> Im Anschluss an den Intensivkurs können die Schülerinnen und Schüler während 3 Schuljahren Kurse in Deutsch als Zweitsprache besuchen.
+**…**
 
 #### § 46
 
-**Integrationsklassen an der Primarschule**
-
-<sup>1</sup> An der Primarschule können für Schülerinnen und Schüler ohne Deutschkenntnisse in Form von Kleinklassen Integrationsklassen gebildet werden.
-
-<sup>2</sup> Der Besuch einer Integrationsklasse dauert in der Regel 1 Jahr. Ein Eintritt ist jederzeit möglich.
-
-<sup>3</sup> Die Schülerinnen und Schüler von Integrationsklassen nehmen entsprechend ihren Fähigkeiten am Unterricht anderer Klassen ihrer Schule teil.
-
-<sup>4</sup> Nach Abschluss der Integrationsklasse können die betreffenden Schülerinnen und Schüler für maximal 3 weitere Schuljahre Kurse in Deutsch als Zweitsprache besuchen.
-
-<sup>5</sup> Schulstufenübergreifende Modelle zusammen mit der Sekundarschule sind möglich.
+**…**
 
 #### § 47
 
@@ -879,6 +791,7 @@ beschliesst:
 - g. Sie führt im Auftrag des Schulrates die interne Evaluation der Schule durch.
 - h. Sie setzt im Auftrag des Schulrates die Ergebnisse der internen und externen Evaluation um.
 - i. Sie zieht bei Bedarf Fachpersonen und ausgebildete Mentorinnen und Mentoren bei.
+- i<sup>bis</sup>. Sie bewilligt Massnahmen der Speziellen Förderung in ihrem Zuständigkeitsbereich.
 - j. Sie bewilligt Reisen, Lager, Schulverlegungen und weiteren Spezialunterricht.
 - k. Sie berät die Schülerinnen und Schüler sowie die Erziehungsberechtigten in Schulfragen.
 - l. Sie sorgt zusammen mit den zuständigen Fachstellen für die Integration von Schülerinnen und Schülern mit Beeinträchtigungen und Behinderungen.
@@ -964,7 +877,7 @@ beschliesst:
 - l. die Sicherstellung und Begleitung von Prozess-, Themen- und Betriebsevaluationen;
 - m. die Kontrolle der Einhaltung von den kantonalen Regelungen;
 - n. den Erlass von Reglementen für die Schulen nach Rücksprache mit dem Schulträger;
-- o. die Steuerung, Bedarfsplanung und Qualitätsentwicklung der Speziellen Förderung;
+- o. …
 - p. die Festlegung der Leitungszeit der Schulleitungen und deren Überprüfung alle 2 Jahre.
 
 <sup>3</sup> Über Ausnahmen in Bezug auf Regelungen in dieser Verordnung entscheidet das Amt für Volksschulen nach Rücksprache mit dem Schulträger.
