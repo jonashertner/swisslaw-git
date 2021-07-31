@@ -3,45 +3,43 @@ sr: "412.106.16"
 title: Verordnung des EHB-Rates vom 17. Februar 2011 über die Gebühren der Eidgenössischen Hochschule für Berufsbildung (EHB-Gebührenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/426"
 language: de
-version: 2019-08-01
+version: 2021-08-01
 adopted: 2011-02-17
 in_force: 2011-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/426/20190801/de/xml/fedlex-data-admin-ch-eli-cc-2011-426-20190801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/426/20190801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/426/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2011-426-20210801-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/426/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des EHB-Rates über die Gebühren des Eidgenössischen Hochschulinstituts für Berufsbildung
+# Verordnung des EHB-Rates über die Gebühren der Eidgenössischen Hochschule für Berufsbildung
 
-(EHB-Gebührenverordnung)**[^t-1]**
+(EHB-Gebührenverordnung)[^t-1]
 
-vom 17. Februar 2011 (Stand am 1. August 2019)
+vom 17. Februar 2011 (Stand am 1. August 2021)
 
 Vom Bundesrat genehmigt am 10. Juni 2011
 
-[^t-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 17. Mai 2017, vom BR genehmigt am 9. Juni 2017 und in Kraft seit 1. Aug. 2017 ([AS 2017 3639](https://fedlex.data.admin.ch/eli/oc/2017/409)).
+[^t-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 30. März 2021, vom BR genehmigt am 18. Juni 2021 und in Kraft seit 1. Aug. 2021 ([AS 2021 406](https://fedlex.data.admin.ch/eli/oc/2021/406)).
 
-Der Rat des Eidgenössischen Hochschulinstituts für Berufsbildung (EHB-Rat),
+Der Rat der Eidgenössischen Hochschule für Berufsbildung (EHB-Rat),
 
-gestützt auf Artikel 33 Absatz 3 der EHB-Verordnung vom 14. September 2005[^ingress-1]
+gestützt auf Artikel 10 Absatz 2 Buchstabe c des EHB-Gesetzes vom 25. September 2020[^ingress-1],
 
-verordnet:*[^ingress-2]*
+verordnet:[^ingress-2]
 
-[^ingress-1]: [SR 412.106.1](https://fedlex.data.admin.ch/eli/cc/2021/405)
-[^ingress-2]: Fassung gemäss Ziff. I der V des EHB-Rats vom 20. Mai 2019, vom BR genehmigt am 7. Juni 2019 und in Kraft seit 1. Aug. 2019 ([AS 2019 2063](https://fedlex.data.admin.ch/eli/oc/2019/378)).
+[^ingress-1]: [SR 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414); [BBl 2020 7825](https://fedlex.data.admin.ch/eli/fga/2020/2010)
+[^ingress-2]: Fassung gemäss Ziff. I der V des EHB-Rats vom 30. März 2021, vom BR genehmigt am 18. Juni 2021 und in Kraft seit 1. Aug. 2021 ([AS 2021 406](https://fedlex.data.admin.ch/eli/oc/2021/406)).
 
 #### Art. 1
 
-**Gegenstand und Geltungsbereich**
+**Gegenstand und Geltungsbereich**[^1-1]
 
-<sup>1</sup> Diese Verordnung[^1-1] bestimmt die Gebühren, die das Eidgenössische Hochschulinstitut für Berufsbildung für seine Bildungsangebote und seine Dienstleistungen erhebt.
+<sup>1</sup> Diese Verordnung bestimmt die Gebühren, die die Eidgenössische Hochschule für Berufsbildung (EHB) für ihre Bildungsangebote und ihre Dienstleistungen erhebt.
 
-<sup>2</sup> Nicht unter diese Verordnung[^1-2] fallen gewerbliche Leistungen nach Artikel 48*a* des Berufsbildungsgesetzes vom 13. Dezember 2002[^1-3] (BBG).
+<sup>2</sup> Nicht unter diese Verordnung fallen gewerbliche Leistungen nach Artikel 28 des EHB-Gesetzes vom 25. September 2020.
 
-[^1-1]: Ausdruck gemäss Ziff. I der V des EHB-Rats vom 17. Mai 2017, vom BR genehmigt am 9. Juni 2017 und in Kraft seit 1. Aug. 2017 ([AS 2017 3639](https://fedlex.data.admin.ch/eli/oc/2017/409)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^1-2]: Ausdruck gemäss Ziff. I der V des EHB-Rats vom 20. Mai 2019, vom BR genehmigt am 7. Juni 2019 und in Kraft seit 1. Aug. 2019 ([AS 2019 2063](https://fedlex.data.admin.ch/eli/oc/2019/378)).
-[^1-3]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^1-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 30. März 2021, vom BR genehmigt am 18. Juni 2021 und in Kraft seit 1. Aug. 2021 ([AS 2021 406](https://fedlex.data.admin.ch/eli/oc/2021/406)).
 
 #### Art. 2
 
@@ -76,16 +74,16 @@ Die Semestergebühren für Ausbildungsstudiengänge betragen:
   - 1\. von zwei Jahren: 660 Franken,
   - 2\. von drei Jahren: 450 Franken;
 
-- b.
+- b.[^3a-2]
 
   für Zertifikatsstudiengänge mit einer Studiendauer:
 
-  - 1\. von einem Jahr: 280 Franken,
-  - 2\. von zwei Jahren: 210 Franken.
+  - 1\. von einem Jahr: 590 Franken,
+  - 2\. von zwei Jahren: 420 Franken.
 
 <sup>2</sup> Verlängert sich die Studiendauer, so werden für zusätzliche Semester die Gebühren der jeweils längeren Studiendauer gemäss Absatz 1 erhoben.
 
-<sup>3</sup> Die Semestergebühren für den Bachelor- und für den Masterstudiengang betragen je 800 Franken.[^3a-2]
+<sup>3</sup> Die Semestergebühren für den Bachelor- und für den Masterstudiengang betragen je 800 Franken.[^3a-3]
 
 <sup>4</sup> Zusätzlich zur Semestergebühr werden für Material pro Semester 50 Franken erhoben.
 
@@ -94,7 +92,8 @@ Die Semestergebühren für Ausbildungsstudiengänge betragen:
 <sup>6</sup> Im Fall einer späteren Abmeldung, des Nichtantretens oder des Abbruchs des Studiengangs bleiben die Semester- und die Materialgebühren geschuldet beziehungsweise werden nicht zurückerstattet.
 
 [^3a-1]: Eingefügt durch Ziff. I der V des EHB-Rats vom 17. Mai 2017, vom BR genehmigt am 9. Juni 2017 und in Kraft seit 1. Aug. 2017 ([AS 2017 3639](https://fedlex.data.admin.ch/eli/oc/2017/409)).
-[^3a-2]: Fassung gemäss Ziff. I der V des EHB-Rats vom 20. Mai 2019, vom BR genehmigt am 7. Juni 2019 und in Kraft seit 1. Aug. 2019 ([AS 2019 2063](https://fedlex.data.admin.ch/eli/oc/2019/378)).
+[^3a-2]: Fassung gemäss Ziff. I der V des EHB-Rats vom 30. März 2021, vom BR genehmigt am 18. Juni 2021 und in Kraft seit 1. Aug. 2021 ([AS 2021 406](https://fedlex.data.admin.ch/eli/oc/2021/406)).
+[^3a-3]: Fassung gemäss Ziff. I der V des EHB-Rats vom 20. Mai 2019, vom BR genehmigt am 7. Juni 2019 und in Kraft seit 1. Aug. 2019 ([AS 2019 2063](https://fedlex.data.admin.ch/eli/oc/2019/378)).
 
 #### Art. 3b
 
@@ -102,20 +101,22 @@ Die Semestergebühren für Ausbildungsstudiengänge betragen:
 
 Für zusätzliche Leistungen werden folgende Gebühren erhoben:
 
-- a. Abnahme der abschlussrelevanten Probelektion: 150 Franken;
-- b. Abnahme der Diplomarbeit: 150 Franken;
-- c.[^3b-2] Abnahme der Bachelor- oder der Masterarbeit und deren Verteidigung: 200 Franken.
+- a.[^3b-2] Abnahme der abschlussrelevanten Probelektion: 200 Franken;
+- b.[^3b-3] Abnahme der Diplomarbeit: 200 Franken;
+- c.[^3b-4] Abnahme der Bachelor- oder der Masterarbeit und deren Verteidigung: 200 Franken.
 
 [^3b-1]: Eingefügt durch Ziff. I der V des EHB-Rats vom 17. Mai 2017, vom BR genehmigt am 9. Juni 2017 und in Kraft seit 1. Aug. 2017 ([AS 2017 3639](https://fedlex.data.admin.ch/eli/oc/2017/409)).
-[^3b-2]: Fassung gemäss Ziff. I der V des EHB-Rats vom 20. Mai 2019, vom BR genehmigt am 7. Juni 2019 und in Kraft seit 1. Aug. 2019 ([AS 2019 2063](https://fedlex.data.admin.ch/eli/oc/2019/378)).
+[^3b-2]: Fassung gemäss Ziff. I der V des EHB-Rats vom 30. März 2021, vom BR genehmigt am 18. Juni 2021 und in Kraft seit 1. Aug. 2021 ([AS 2021 406](https://fedlex.data.admin.ch/eli/oc/2021/406)).
+[^3b-3]: Fassung gemäss Ziff. I der V des EHB-Rats vom 30. März 2021, vom BR genehmigt am 18. Juni 2021 und in Kraft seit 1. Aug. 2021 ([AS 2021 406](https://fedlex.data.admin.ch/eli/oc/2021/406)).
+[^3b-4]: Fassung gemäss Ziff. I der V des EHB-Rats vom 20. Mai 2019, vom BR genehmigt am 7. Juni 2019 und in Kraft seit 1. Aug. 2019 ([AS 2019 2063](https://fedlex.data.admin.ch/eli/oc/2019/378)).
 
 #### Art. 4
 
-**Anrechnungsverfahren**
+**Spezielle Semestergebühren**[^4-1]
 
-<sup>1</sup> Für das Verfahren zur Anrechnung von Kompetenzen, die ausserhalb geregelter Bildungsgänge erworben wurden (VAE-Verfahren), wird eine Gebühr erhoben.
+Sollen Kompetenzen, die ausserhalb geregelter Bildungsgänge erworben wurden, an einen Diplomstudiengang angerechnet werden, so beträgt die Semestergebühr für diesen Diplomstudiengang einschliesslich des Anrechnungsverfahrens 1450 Franken.
 
-<sup>2</sup> In Diplom- und in Zertifikatsstudiengängen beträgt die Gebühr pro angerechneten ECTS-Punkt 30 Franken.
+[^4-1]: Fassung gemäss Ziff. I der V des EHB-Rats vom 30. März 2021, vom BR genehmigt am 18. Juni 2021 und in Kraft seit 1. Aug. 2021 ([AS 2021 406](https://fedlex.data.admin.ch/eli/oc/2021/406)).
 
 #### Art. 5
 
@@ -151,6 +152,14 @@ Keine Gebühren werden erhoben für Weiterbildungsangebote, die auf Vorschlag de
 Das EHB-Gebührenreglement vom 22. September 2006[^7-1] wird aufgehoben.
 
 [^7-1]: [[AS 2006 5697](https://fedlex.data.admin.ch/eli/oc/2006/846)]
+
+#### Art. 7a
+
+**Übergangsbestimmung zur Änderung vom 30. März 2021**[^7a-1]
+
+Für die Studierenden der Ausbildungsstudiengänge, die ihr Studium vor dem Herbstsemester 2022 aufgenommen haben, gelten die Gebühren nach bisherigem Recht.
+
+[^7a-1]: Eingefügt durch Ziff. I der V des EHB-Rats vom 30. März 2021, vom BR genehmigt am 18. Juni 2021 und in Kraft seit 1. Aug. 2021 ([AS 2021 406](https://fedlex.data.admin.ch/eli/oc/2021/406)).
 
 #### Art. 8
 
