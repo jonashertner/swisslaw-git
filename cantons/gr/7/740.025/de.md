@@ -4,13 +4,13 @@ number: "740.025"
 title: Verordnung über den Jagdbetrieb
 short: Jagdbetriebsvorschriften; JBV
 language: de
-version: 2020-08-01
-corrected: 2020-07-08
-version_adopted: 2020-07-03
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-06-29
 adopted: 2023-06-27
 in_force: 2023-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/740.025"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3065/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3182/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3065/pdf_file"
 
 (Jagdbetriebsvorschriften; JBV)
 
-Vom 30.06.2020 (Stand 01.08.2020)
+Vom 29.06.2021 (Stand 01.08.2021)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1], Art. 19, Art. 28 und Art. 38 des kantonalen Jagdgesetzes[^ingress-2] sowie Art. 34 Abs. 2 des kantonalen Waldgesetzes[^ingress-3]
 
-von der Regierung erlassen am 30. Juni 2020
+von der Regierung erlassen am 29. Juni 2021
 
 [^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 [^ingress-2]: BR [740.000](https://www.gr-lex.gr.ch/data/740.000/de)
@@ -63,7 +63,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 **3. Munition**
 
-<sup>1</sup> Das Mittragen und die Verwendung von bleihaltiger Kugelmunition bei der Ausübung der Hoch-, Sonder- und Steinwildjagd sind vorbehältlich anderslautender Übergangsbestimmungen (Art. 99) verboten.
+<sup>1</sup> Das Mittragen und die Verwendung von bleihaltiger Kugelmunition bei der Ausübung der Hoch-, Sonder- und Steinwildjagd sind verboten.
 
 <sup>2</sup> Das Mittragen und die Verwendung von Flintenlaufgeschossen auf der Jagd sind verboten. Flinten sind nur mit den Kalibern 12, 16 und 20 zugelassen.
 
@@ -71,7 +71,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 **4. Technische Hilfsmittel**
 
-<sup>1</sup> Das Mittragen und die Verwendung von Restlichtverstärkern, Wärmebild-Vorsatzgeräten für Zielfernrohre, Fotofallen und Drohnen auf der Jagd sind verboten.
+<sup>1</sup> Das Mittragen und die Verwendung von Restlichtverstärker- und Wärmebild-Vorsatzgeräten für Zielfernrohre, Fotofallen, Drohnen, Bewegungsmeldern, Infrarotsensoren, Lichtschranken und Überwachungskameras auf der Jagd sind verboten.
 
 #### Art. 7
 
@@ -109,17 +109,18 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>3</sup> Die nachfolgenden Parkplätze sind vom Parkverbot ausgenommen:
 
-- a) Jagdbezirk I: Lukmanierpass (Lawinengalerie, Ausgang Süd); Medel/Lucmagn (Brücke Fuorns); Laus (Hettas); Schlans (oberhalb Dorf); Dardin (Schulhaus);
+- a) Jagdbezirk I: Lukmanierpass (Lawinengalerie, Ausgang Süd); Lukmanierpass (Lawinengalerie, Nordportal); Medel/Lucmagn (Brücke Fuorns); Laus (Hettas); Schlans (oberhalb Dorf); Dardin (Schulhaus);
 - b) Jagdbezirk II: Zervreila (Parkplatz Restaurant); Lunschania (Parkplatz Kantonsstrasse Galerie Schöntobel); Peiden (Peiden Bad); Arezen (Fatscha); Valendas (Oberdutjen); Ilanz (Tischinas); Vattiz (Davos Munts);
-- c) Jagdbezirk III: Safien-Camana (bir Saga, Pt. 1643); Safien-Egschi (am Stauwehr Egschi); Safien-Neukirch (Treuschbach); Safien-Acla; Ausserglas; Präz (Beginn Präzer Alpweg); Sils i.D. (ehemaliger RhB-Bahnhof); Scharans (beim Schützenhaus); Pignia (Vitali); Wergenstein (Lavanos); Zillis-Reischen (Camping Rania); Avers-Juppa (Parkplatz Ponylift); nur während der Hochjagd: Scharans (Waldstrasse zum alten Schin, Pt. 995)[^11-1]; Sils i.D. (Versasca);
+- c) Jagdbezirk III: Safien-Camana (bir Saga, Pt. 1643); Safien-Egschi (am Stauwehr Egschi); Safien-Neukirch (Treuschbach); Safien-Acla; Ausserglas; Präz (Beginn Präzer Alpweg); Sils i.D. (ehemaliger RhB-Bahnhof); Scharans (beim Schützenhaus); Pignia (Vitali); Wergenstein (Lavanos); Avers-Juppa (Parkplatz Ponylift); nur während der Hochjagd: Scharans (Waldstrasse zum alten Schin, Pt. 995)[^11-1]; Sils i.D. (Versasca);
 - d) Jagdbezirk IV: San Bernardino (Du Lac); San Bernardino (Cantina Toscano, Campingplatz); Mesocco (Parkplatz Ausfahrt A13 Mesocco-Sud); Sorte; Soazza (Ponte di Vigna, 2'736'680/1'134'075); die letzten vier Tage der Hochjagd: Rossa (Valbella, 2'730'170/1'140'517); Rossa (Pian del Sescpet, 2'728'340/1'136'819); Mesocco (Siu Sot, 2'738'665/1'137'914); Mesocco (Panieru, 2'738'604/1'140'333); Arvigo (Zanella, 2'727'583/1'127'624); Soazza (Bec, 2'735'050/1'134'870); San Vittore (Folcetta, 2'727'751/1'124'339); Lostallo (La Pala, 2'737'534/1'131'096); Lostallo (2'736'800/1'129'900); Roveredo (Diga Roggiasca, 2'733'470/1'118'259); Roveredo (Vif, Bivio Monti di Laura, 2'730'548/1'119'820); Braggio (Motta della vacca, 2'730'128/1'130'173); S. Maria i.C. (Bedolì, 2'731'554/1'126'723); S. Maria i.C. (Viderla, 2'732'260/1'127'141);
 - e) Jagdbezirk V/VI: Dischma (Kiesgrube Chintsch Hus); Jenisberg; Bergün (Parkplatz Latscherstrasse Wasserfassung ALK Ava da Tuors); Vaz/Obervaz (Parkplatz Höhe Sporz); Mutten-Stafel (auf dem "Jäger-P" und innerhalb der Tafeln "Jäger-P"); Solis (Parkplatz Bahnhof); Bivio, Parkplatz Tua, Sportanlagen AG); Bivio (Julierpassstrasse, Parkplatz La Veduta); Marmorera (Parkplatz Galerie Marmorerasee); Rona-Mulegns (Parkplatz Abzweigung Nascharegnas); Cunter (Burvagn Parkplatz Salzsilo);
 - f) Jagdbezirk VII: Bever (Parkplatz Deponie, Pt. 1693);
-- g) Jagdbezirk VIII-2: La Rösa; Sfazù; Pozzolascio (Parkplatz Restaurant);
-- h) Jagdbezirk IX: Zernez (Deponie Tantermozza); Ardez (Verzweigung Sur En – Val Sampuoir);
-- i) Jagdbezirk X: S-charl; Sent (Kurhaus Val Sinestra); Fimbertal (bei der Landesgrenze); Pfandshof; Vinadi; Tschlin (Schützenhaus Sclamischot); Tarasp (Nairs, Chasa Carola); Ramosch (Ruinas Serviezel); Valsot (San Niclà);
-- j) Jagdbezirk XI: Ascharina (Parkplatz Gasthaus Bellawiese); Pany (Talstation Skilift); Fideris (Strahlegg); Jenaz (in der Au); Furna (Riedji, Pt. 1404); Furna (Ronggji); Seewis (Parkplatz Ganda); Conters (Eierloch); Klosters Dorf, Schlappinstrasse Ober Ganda;
-- k) Jagdbezirk XII: Chur (Zivilschutzanlage Meiersboden); Langwies (Gemeindeparkplatz Werkhof); Churwalden (Passugg, Abzweigung Polenweg); Mastrils (Saga), die letzten vier Tage der Hochjagd: Bonaduz (Sigl Ault auf der Höhe Abzweigung Scardanal – Sculms, 2'746'166/1'184'816).
+- g) Jagdbezirk VIII-1: Maloja (Capolago, 2'774'205/1'142'362), Maloja (Kulm, 2' 773'481/1'140'946); Bondo (Crot Alt, 2'762'593/1'133'428);
+- h) Jagdbezirk VIII-2: La Rösa; Sfazù; Pozzolascio (Parkplatz Restaurant);
+- i) Jagdbezirk IX: Zernez (Deponie Tantermozza); Ardez (Verzweigung Sur En – Val Sampuoir);
+- j) Jagdbezirk X: S-charl (Parkplatz); Sent (Kurhaus Val Sinestra); Tarasp (Nairs Chasa Corola; Fimbertal (Parkplatz bei der Landesgrenze); San Niclà (Jägerparkplatz); Ramosch (Ruinas Serviezel); Sclamischot (Parkplatz Schützenhaus); Tschlin (Zavranza); Parkplatz Vinadi; Parkplatz Pfandshof;
+- k) Jagdbezirk XI: Ascharina (Parkplatz Gasthaus Bellawiese); Pany (Talstation Skilift); Fideris (Strahlegg); Jenaz (in der Au); Furna (Riedji, Pt. 1404); Furna (Ronggji); Seewis (Parkplatz Ganda); Conters (Eierloch); Klosters Dorf, Schlappinstrasse Ober Ganda;
+- l) Jagdbezirk XII: Chur (Zivilschutzanlage Meiersboden); Langwies (Gemeindeparkplatz Werkhof); Churwalden (Passugg, Abzweigung Polenweg); Mastrils (Saga), die letzten vier Tage der Hochjagd: Bonaduz (Sigl Ault auf der Höhe Abzweigung Scardanal – Sculms, 2'746'166/1'184'816); Trin (Coma).
 
 [^11-1]: Darf zur Ausübung der Hochjagd mit Motorfahrzeugen gebührenfrei befahren werden.
 
@@ -141,13 +142,13 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Umgang mit dem Aufbruch von erlegten Tieren**
 
-<sup>1</sup> Jene Teile eines Aufbruchs, die mit Bleispuren kontaminiert sein könnten, müssen so entsorgt werden, dass sie für Greifvögel und Raubwild nicht erreichbar sind.
+<sup>1</sup> Jene Teile eines Aufbruchs von Niederwild, die mit Bleispuren kontaminiert sein könnten, müssen so entsorgt werden, dass sie für Greifvögel und Raubwild nicht erreichbar sind.
 
 #### Art. 15
 
 **Abschusskontrolle 1. Eintrag in die Abschussliste**
 
-<sup>1</sup> Rechtmässig und widerrechtlich erlegtes Wild ist umgehend nach dem Abschuss mit Kugelschreiber vollständig in die amtliche Abschussliste einzutragen. Für jeden Abschuss sind Tierart, Geschlecht, die nächstgelegene Ortschaft, der Lokalname, die Höhe über Meer und die Nummer des Erfassungssektors obligatorisch einzutragen. Vögel können am Schluss eines Jagdtages eingetragen werden, sofern die Abschusszahl für die betreffende Vogelart nicht beschränkt ist.
+<sup>1</sup> Rechtmässig und widerrechtlich erlegtes Wild ist sofort nach dem Abschuss mit Kugelschreiber vollständig in die amtliche Abschussliste einzutragen. Für jeden Abschuss sind Tierart, Geschlecht, die nächstgelegene Ortschaft, der Lokalname, die Höhe über Meer und die Nummer des Erfassungssektors obligatorisch einzutragen. Vögel können am Schluss eines Jagdtages eingetragen werden, sofern die Abschusszahl für die betreffende Vogelart nicht beschränkt ist.
 
 <sup>2</sup> Vor der Abgabe der Abschussliste hat die Jägerin oder der Jäger die Richtigkeit der gemachten Angaben mit ihrer beziehungsweise seiner Unterschrift zu bestätigen.
 
@@ -155,7 +156,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 **2. Abgabe der Abschusslisten**
 
-<sup>1</sup> Alle Abschusslisten der jeweiligen Jagd sind innert fünf Tagen nach Ende der betreffenden Jagdart jener Patentausgabestelle bei der das Jagdpatent gelöst wurde per A-Post Plus zuzustellen.
+<sup>1</sup> Alle Abschusslisten der jeweiligen Jagd sind innert fünf Tagen nach Ende der betreffenden Jagdart (Datum des Poststempels) jener Patentausgabestelle, bei der das Jagdpatent gelöst wurde, per A-Post Plus zuzustellen.
 
 #### Art. 17
 
@@ -187,7 +188,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Widerrechtlich erlegtes Wild 1. Grundsätze**
 
-<sup>1</sup> Widerrechtlich erlegtes Wild muss umgehend der Wildhut gemeldet werden. Es wird dem Beutekontingent angerechnet. Das Tier ohne Haupt (Wildschwein mit Haupt) muss von der Jägerin oder vom Jäger zum festgelegten Wildbretpreis käuflich erworben werden, unabhängig von der weiteren Verwertbarkeit. Der entsprechende Betrag wird durch das Amt in Rechnung gestellt.
+<sup>1</sup> Widerrechtlich erlegtes Wild muss unverzüglich der Wildhut gemeldet werden. Es wird dem Beutekontingent angerechnet. Das Tier ohne Haupt (Wildschwein mit Haupt) muss von der Jägerin oder vom Jäger zum festgelegten Wildbretpreis käuflich erworben werden, unabhängig von der weiteren Verwertbarkeit. Der entsprechende Betrag wird durch das Amt in Rechnung gestellt.
 
 <sup>2</sup> Trophäen von widerrechtlich erlegtem Wild werden vernichtet, sofern sie nicht einen speziellen Wert für die Öffentlichkeit haben.
 
@@ -249,11 +250,11 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Jagdzeiten**
 
-<sup>1</sup> Die Hochjagd 2020 wird in zwei Phasen durchgeführt. Sie dauert vom 3. bis und mit 13. September 2020 sowie vom 21. bis und mit 30. September 2020. Vom 14. bis und mit 20. September 2020 wird die Jagd unterbrochen.
+<sup>1</sup> Die Hochjagd 2021 wird in zwei Phasen durchgeführt. Sie dauert vom 3. bis und mit 12. September 2021 sowie vom 20. bis und mit 30. September 2021. Vom 13. bis und mit 19. September 2021 wird die Jagd unterbrochen.
 
 <sup>2</sup> Hirsche, Rehe, Wildschweine, Murmeltiere, Füchse, Dachse, Waschbären und Marderhunde dürfen während der ganzen Jagdzeit bejagt werden.
 
-<sup>3</sup> Gämsen sind vom 3. bis und mit 13. September 2020 und vom 21. bis und mit 26. September 2020 jagdbar. In Teilen der Jagdbezirke III Hinterrhein – Heinzenberg und IV Moesa (Sektoren D03 – D10) sind weibliche Gämsen nur bis und mit 22. September 2020 jagdbar.
+<sup>3</sup> Gämsen sind vom 3. bis und mit 12. September 2021 und vom 20. bis und mit 26. September 2021 jagdbar. In den Jagdbezirken I Vorderrhein und II Glenner, in Teilen der Jagdbezirke III Hinterrhein – Heinzenberg und IV Moesa (Sektoren C02 – C07, D01, D03 – D10) sowie des Jagdbezirks XII Imboden – Plessur – V Dörfer (Sektor C01) sind weibliche Gämsen nur bis und mit 22. September 2021 jagdbar.
 
 #### Art. 28
 
@@ -261,9 +262,9 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>1</sup> Es gelten folgende Schusszeiten:
 
-- a) vom 3. bis und mit 13. September 2020 von 6.00 Uhr bis 20.30 Uhr;
-- b) vom 21. bis und mit 25. September 2020 von 6.30 Uhr bis 20.00 Uhr;
-- c) vom 26. bis und mit 30. September 2020 von 6.30 Uhr bis 19.45 Uhr.
+- a) vom 3. bis und mit 12. September 2021 von 6.00 Uhr bis 20.30 Uhr;
+- b) vom 20. bis und mit 26. September 2021 von 6.30 Uhr bis 20.00 Uhr;
+- c) vom 27. bis und mit 30. September 2021 von 6.30 Uhr bis 19.45 Uhr.
 
 ### 2.2. Hirschwild
 
@@ -279,7 +280,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Kronenhirsch**
 
-<sup>1</sup> Vom 7. bis und mit 9. September 2020 ist auch der beidseitige Kronenhirsch mit einer Stangenlänge von 60 cm und mehr jagdbar. An diesen Tagen darf jede Jägerin und jeder Jäger insgesamt nur einen ein- oder beidseitigen Kronenhirsch unabhängig von der Stangenlänge erlegen.
+<sup>1</sup> Vom 8. bis und mit 10. September 2021 ist auch der beidseitige Kronenhirsch mit einer Stangenlänge von 60 cm und mehr jagdbar. An diesen Tagen darf jede Jägerin und jeder Jäger insgesamt nur einen ein- oder beidseitigen Kronenhirsch mit einer Stangenlänge von 60 cm und mehr erlegen.
 
 <sup>2</sup> Ein beidseitiger Kronenhirsch liegt vor, wenn der Hirsch an beiden Stangen drei oder mehr Enden über der Mittelsprosse aufweist. Ein einseitiger Kronenhirsch liegt vor, wenn der Hirsch an einer Stange drei oder mehr Enden über der Mittelsprosse aufweist.
 
@@ -299,11 +300,11 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>2</sup> Für die Beurteilung der Jagdbarkeit von Hirschspiessern gilt das Mass der kürzeren Stange.
 
-<sup>3</sup> Vom 27. bis und mit 30. September 2020 ist der Hirschspiesser unabhängig von der Stangenlänge jagdbar, bei einem Gesamtkontingent von einem Hirschspiesser pro Jägerin oder Jäger.
+<sup>3</sup> Vom 29. bis und mit 30. September 2021 ist der Hirschspiesser unabhängig von der Stangenlänge jagdbar, bei einem Gesamtkontingent von einem Hirschspiesser pro Jägerin oder Jäger.
 
 #### Art. 32
 
-**Bewirtschaftungsmassnahmen in Wildschutzgebieten 1. Hirschabschüsse**
+**Regulierungsmassnahmen in Wildschutzgebieten 1. Hirschabschüsse**
 
 <sup>1</sup> Zur Steigerung der Hochjagdstrecke führt das Amt ausserhalb der Jagdzeit Störaktionen durch und tätigt Einzelabschüsse in Wildschutzgebieten sowie auf Wildschadenflächen.
 
@@ -312,6 +313,8 @@ von der Regierung erlassen am 30. Juni 2020
 <sup>3</sup> In den für die Jagd ganz oder teilweise geöffneten Bereichen von Wildschutzgebieten ist es verboten, Jagdeinrichtungen wie Hochsitze, Bodensitze oder Unterstände zu erstellen. Allfällige Markierungen von Begrenzungen innerhalb des Wildschutzgebiets werden mit blauer und roter Farbe gekennzeichnet.
 
 <sup>4</sup> Sofern Beginn und Ende der "weichen" Grenzen markiert werden, geschieht dies mit den Farben rot (geschlossene Seite) und blau (geöffnete Seite).
+
+<sup>5</sup> Für Abschüsse in eidgenössischen Jagdbanngebieten gelten die besonderen Bestimmungen gemäss Anhang 2 Litera f.
 
 #### Art. 32a
 
@@ -333,7 +336,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>1</sup> Alle Tiere, die im Rahmen der Massnahmen in Wildschutzgebieten gemäss Artikel 32 erlegt werden, sind unverzüglich der zuständigen Wildhut zu melden.
 
-<sup>2</sup> Für die Teilöffnungen mit Betretungsverbot ist die Wildhut zu kontaktieren, bevor ein erlegtes Tier oder ein Anschussort innerhalb des Asyls aufgesucht wird. Wenn keine telefonischen Verbindungen möglich sind, kann das Tier aufgesucht, ausgeweidet und geborgen werden. Der Abschuss ist umgehend zu melden, sobald die Verbindung hergestellt werden kann.
+<sup>2</sup> Für die Teilöffnungen mit Betretungsverbot ist die Wildhut zu kontaktieren, bevor ein erlegtes Tier oder ein Anschussort innerhalb des Asyls aufgesucht wird. Wenn keine telefonischen Verbindungen möglich sind, kann das Tier aufgesucht, ausgeweidet und geborgen werden. Der Abschuss ist unverzüglich zu melden, sobald die Verbindung hergestellt werden kann.
 
 #### Art. 35
 
@@ -367,7 +370,7 @@ von der Regierung erlassen am 30. Juni 2020
 - b) Gabler und Spiesser mit einer Stangenhöhe von weniger als 16 cm;
 - c) nichtsäugende Rehgeissen.
 
-<sup>2</sup> Während der letzten vier Tage der Hochjagd darf jede Jägerin und jeder Jäger im ganzen Kanton im Rahmen des Rehkontingents ein Rehkitz sowie Schmalrehe erlegen. An diesen Jagdtagen ist die Rehgeiss geschützt, der Rehbock und das Schmalreh hingegen sind jagdbar. Die erlegten Schmalrehe und Rehkitze sind in frischem Zustand der Wildhut vorzuweisen.
+<sup>2</sup> Während der letzten vier Tage der Hochjagd darf jede Jägerin und jeder Jäger im ganzen Kanton im Rahmen des Rehkontingents ein Rehkitz erlegen. Die erlegten Rehgeissen, Schmalrehe und Rehkitze sind in frischem Zustand der Wildhut vorzuweisen.
 
 <sup>3</sup> Erlegte Rehe mit Markierung sind während der ganzen Jagd in frischem Zustand der Wildhut vorzuweisen. Dafür wird eine Prämie von 20 Franken ausbezahlt.
 
@@ -426,7 +429,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>2</sup> Falls die Abschusszahlen während der Hochjagd nicht erfüllt werden beziehungsweise die Jagd ungenügend ausgeübt wird, erfolgen die fehlenden Abschüsse durch die Wildhut.
 
-<sup>3</sup> In den Sektoren P01 bis P06 sowie P13, R03 und R04 des Jagdbezirks XI Herrschaft – Prättigau sind Gämsböcke und Bockjährlinge im Rahmen des Gämskontingents unterhalb der Höhenlimite von 1600 m ü. M. bis zum 30. September 2020 jagdbar.
+<sup>3</sup> In den Gebieten mit Schwerpunktbejagung gemäss Absatz 1 Litera a bis Litera c, im Sektor J09, in den Sektoren P01 bis P06 sowie P13, R03 und R04 des Jagdbezirks XI Herrschaft – Prättigau sind Gämsböcke und Bockjährlinge im Rahmen des Gämskontingents unterhalb der Höhenlimite von 1600 m ü. M. bis zum 30. September 2021 jagdbar.
 
 ### 2.3.3. Kontingente
 
@@ -460,7 +463,13 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Vorweisepflicht**
 
-<sup>1</sup> Erlegte Tiere sind der Wildhut im Fell vorzuweisen. Das Fleisch erlegter Tiere wird erst nach Vorliegen des Resultats der Trichinenschau zum Verzehr freigegeben. Diese ist obligatorisch und die entsprechenden Kosten sind von der Jägerin oder dem Jäger zu tragen. Neu werden in der Mesolcina auch Proben zur Messung der Radioaktivität entnommen.
+<sup>1</sup> Erlegte Tiere sind der Wildhut im Fell vorzuweisen. Das Fleisch erlegter Tiere wird erst nach Vorliegen des Resultats der Trichinenschau und der Messung der Radioaktivität zum Verzehr freigegeben. Diese Kontrollen sind obligatorisch. Die entsprechenden Kosten trägt der Kanton.
+
+<sup>2</sup> Erlegte Tiere, die bei der Messung der Radioaktivität wegen Überschreitung des massgeblichen Grenzwerts beschlagnahmt und entsorgt werden müssen, werden nach Alter pauschal entschädigt. Die Entschädigung beträgt:
+
+- a) für diesjährige Tiere — Fr. 100.–
+- b) für einjährige Tiere — Fr. 150.–
+- c) für zweijährige und ältere Tiere — Fr. 200.–
 
 #### Art. 47
 
@@ -520,11 +529,11 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>2</sup> Erlegte Tiere können während der Hochjagd vorgewiesen werden. In diesem Fall müssen die Trophäen und Unterkiefer dieser Tiere nicht mehr abgegeben werden.
 
-<sup>3</sup> Nach der Hochjagd sind die vollständigen Unterkiefer erlegter Hirsche, Rehe und Gämsen sowie die Trophäen erlegter Rehe und Gämsen ausgekocht und sauber gereinigt in der Zeit vom 23. Oktober bis 31. Oktober 2020 der für den Abschussort zuständigen Wildhut vorzuweisen.
+<sup>3</sup> Nach der Hochjagd sind die vollständigen Unterkiefer erlegter Hirsche, Rehe und Gämsen sowie die Trophäen erlegter Rehe und Gämsen ausgekocht und sauber gereinigt in der Zeit vom 22. Oktober bis 30. Oktober 2021 der für den Abschussort zuständigen Wildhut vorzuweisen.
 
 <sup>4</sup> Das Amt organisiert in dieser Zeit regionale Annahmestellen. Ort und Zeit der Vorweisung werden durch das Amt bekanntgegeben.
 
-<sup>5</sup> Im Verhinderungsfalle muss das Untersuchungsmaterial bis spätestens 4. November 2020 eingeschrieben der für den Abschussort zuständigen Wildhut zugestellt werden.
+<sup>5</sup> Im Verhinderungsfalle muss das Untersuchungsmaterial bis spätestens 4. November 2021 eingeschrieben der für den Abschussort zuständigen Wildhut zugestellt werden.
 
 <sup>6</sup> Für die Beschriftung der Unterkiefer und Trophäen sind die amtlichen Etiketten zu verwenden und vollständig auszufüllen.
 
@@ -538,7 +547,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>1</sup> Das Departement entscheidet nach Vorliegen der Hochjagdstrecke, ob Sonderjagden auf Hirsch-, Reh- und Schwarzwild anzuordnen sind.
 
-<sup>2</sup> In Teilen von Eidgenössischen Jagdbanngebieten mit partiellem Schutz und kantonalen Wildschutzgebieten kann die Sonderjagd ebenfalls zugelassen werden.
+<sup>2</sup> In Teilen von eidgenössischen Jagdbanngebieten mit partiellem Schutz und kantonalen Wildschutzgebieten kann die Sonderjagd ebenfalls zugelassen werden.
 
 <sup>3</sup> Der Entscheid und die Abschusspläne werden im Amtsblatt des Kantons Graubünden publiziert.
 
@@ -546,9 +555,9 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Zeitraum und Dauer der Jagden**
 
-<sup>1</sup> Die Sonderjagden auf Hirsch-, Reh- und Schwarzwild finden in der Zeit vom 7. November bis und mit 20. Dezember 2020 statt. Innerhalb einer Region können Beginn, Unterbruch und Ende nach Gebieten gestaffelt erfolgen.
+<sup>1</sup> Die Sonderjagden auf Hirsch-, Reh- und Schwarzwild finden in der Zeit vom 30. Oktober bis und mit 19. Dezember 2021 statt. Innerhalb einer Region können Beginn, Unterbruch und Ende nach Gebieten gestaffelt erfolgen.
 
-<sup>2</sup> Die Jagd beginnt an einem Mittwoch oder Samstag. Sie endet für das Hirsch- beziehungsweise Rehwild mit der Erfüllung des Abschussplans. Gegebenenfalls kann die Jagd bereits nach einem einzigen Tag abgeschlossen werden. Das Departement kann die Sonderjagd auf Wildschweine in einzelnen Regionen auch nach Erfüllung der Abschusspläne für Hirsch- und Rehwild anordnen.
+<sup>2</sup> Die Jagd beginnt an einem Mittwoch oder Samstag. Sie endet für das Hirsch- beziehungsweise Rehwild mit der Erfüllung des Abschussplans. Gegebenenfalls kann die Jagd bereits nach einem einzigen Tag abgeschlossen werden. Das Departement kann die Sonderjagd auf Wildschweine in einzelnen Regionen unabhängig von der Erfüllung der Abschusspläne für Hirsch- und Rehwild anordnen.
 
 <sup>3</sup> Der Beginn, allfällige Unterbrüche, die Erhöhung des Abschussplans in den Regionen und das Ende der Jagden in den Regionen beziehungsweise Gebieten davon, werden vom Departement festgelegt. Jagdgebiete oder Teile davon können durch Gebiets- oder Höhenbegrenzungen eingeschränkt werden.
 
@@ -558,9 +567,10 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>1</sup> Die Jagden werden jeweils am Mittwoch, Samstag und Sonntag durchgeführt. Die Schusszeiten werden wie folgt festgelegt:
 
-- a) vom 7. bis 15. November 2020 von 06.45 Uhr bis 14.00 Uhr;
-- b) vom 16. bis 30. November 2020 von 07.00 Uhr bis 14.00 Uhr;
-- c) vom 1. bis 20. Dezember 2020 von 07.15 Uhr bis 14.00 Uhr.
+- a) 30. Oktober von 07.45 Uhr bis 14.00 Uhr;
+- b) vom 31. Oktober bis 15. November 2021 von 06.45 Uhr bis 14.00 Uhr;
+- c) vom 16. bis 30. November 2021 von 07.00 Uhr bis 14.00 Uhr;
+- d) vom 1. bis 19. Dezember 2021 von 07.15 Uhr bis 14.00 Uhr.
 
 #### Art. 58
 
@@ -572,15 +582,15 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>3</sup> Melden sich für eine Region zu viele Jägerinnen und Jäger, entscheidet das Los.
 
-<sup>4</sup> Die Anmeldung hat gleichzeitig mit dem Lösen des Hochjagd- oder Steinwildjagdpatents zu erfolgen. Spätere Anmeldungen können nicht mehr berücksichtigt werden. Anmeldestellen sind die vom Amt bezeichneten Patentausgabestellen. Die Anmeldeformulare können bei den Anmeldestellen bezogen werden.
+<sup>4</sup> Die Anmeldung hat gleichzeitig mit dem Lösen des Hochjagd- oder Steinwildjagdpatents zu erfolgen. Spätere Anmeldungen können nicht mehr berücksichtigt werden. Ein nachträglicher Abtausch der Anmelderegionen ist nicht möglich. Anmeldestellen sind die vom Amt bezeichneten Patentausgabestellen. Die Anmeldeformulare können bei den Anmeldestellen bezogen werden.
 
 <sup>5</sup> Die Jägerinnen und Jäger haben die Region anzugeben, in der sie die Sonderjagd ausüben wollen. Jägerinnen und Jäger, die sich in einer Hirschregion anmelden, in der in den letzten Jahren nur vereinzelt eine Sonderjagd stattgefunden hat (Untervaz, Felsberg, Bregaglia), können sich zusätzlich für eine weitere Hirschregion anmelden. Sie können die Sonderjagd aber nur in einer Region ausüben.
 
 <sup>6</sup> In den Grossregionen Surselva und Mittelbünden sowie in den Regionen Dreibündenstein, Heinzenberg, Hinterrhein und Schanfigg sind die Jägerinnen und Jäger während der Sonderjagd nur noch in einer Teilregion jagdberechtigt. Sie müssen sich bei der Anmeldung für die bevorzugte Teilregion entscheiden:
 
-- a) Hirschregion Surselva: Jagdbezirk I oder Jagdbezirk II;
+- a) Hirschregion Surselva: Jagdbezirk I Sursassiala, I Sutsassiala, II Nord oder II Süd;
 - b) Hirschregion Heinzenberg: Areal Nolla (inkl. Alpen Verdus und Carnusa des Sektors C06) oder Teilregion Safien – Bonaduz (inkl. Sektor C06 ohne Alpen Verdus und Carnusa);
-- c) Hirschregion Dreibündenstein: Areal Domleschg oder Areal Chur – Ems – Churwalden;
+- c) Hirschregion Dreibündenstein: Areal Domleschg Nord, Domleschg Süd oder Areal Chur – Ems – Churwalden;
 - d) Hirschregion Hinterrhein: Areal Schams oder Teilregion Rheinwald/Ferrera – Avers;
 - e) Hirschregion Mittelbünden: Areal Davos (ohne Wiesen), Gemeinde Bergün Filisur, Albulatal – Brienz – Obervaz (ohne Gemeinde Bergün Filisur) oder Areal Surses;
 - f) Hirschregion Schanfigg: Ausser-Schanfigg (Sektoren T01, T02, T07) und Inner-Schanfigg (Sektoren T03, T04, T05 und T06).
@@ -625,7 +635,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Besondere Bestimmungen**
 
-<sup>1</sup> Die Jägerin oder der Jäger kann am Dienstag und am Freitag vor einem Sonderjagdtag ab 13.30 Uhr über eine offizielle Telefonnummer[^64-1] sowie über die Webseite des Amts[^64-2] abfragen, in welchen Regionen die Sonderjagd stattfindet. An diesen Tagen dürfen Unterkünfte in Jagdausrüstung ab 16.00 Uhr bezogen werden. Motorisierte Transportmittel dürfen bis zum Beginn der Schusszeit für die Fahrt ins Jagdgebiet verwendet werden.
+<sup>1</sup> Die Jägerin oder der Jäger kann am Montag und am Donnerstag vor einem Sonderjagdtag ab 16.00 Uhr über eine offizielle Telefonnummer[^64-1] sowie über die Webseite des Amts[^64-2] abfragen, in welchen Regionen die Sonderjagd stattfindet. Am Tag vor der Jagd dürfen Unterkünfte in Jagdausrüstung ab 16.00 Uhr bezogen werden. Motorisierte Transportmittel dürfen bis zum Beginn der Schusszeit für die Fahrt ins Jagdgebiet verwendet werden.
 
 <sup>2</sup> Das Departement ist ermächtigt, in den Hirschregionen besondere Bestimmungen für den Motorfahrzeuggebrauch zu erlassen. Diese Bestimmungen betreffen beschränkte Fahrverbote vor der Schusszeit in Verbindung mit erlaubten Fahrten nach Beginn der Schusszeit.
 
@@ -633,7 +643,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>4</sup> Benützt die Jägerin oder der Jäger motorisierte Transportmittel für die Heimfahrt oder den Abtransport der Beute, darf sie oder er bei einer Wiederaufnahme der Jagd diese nur noch gemäss den für die ordentliche Hochjagd geltenden Bestimmungen verwenden.
 
-<sup>5</sup> Erlegte Tiere sind unverzüglich in die Abschussliste einzutragen. Diese ist bis spätestens am 28. Dezember des laufenden Kalenderjahrs per A-Post Plus jener Patentausgabestelle zuzustellen, bei der das Jagdpatent gelöst wurde.
+<sup>5</sup> Erlegte Tiere sind unverzüglich in die Abschussliste einzutragen. Diese ist bis spätestens am 27. Dezember des laufenden Kalenderjahrs (Datum des Poststempels) per A-Post Plus jener Patentausgabestelle zuzustellen, bei der das Jagdpatent gelöst wurde.
 
 <sup>6</sup> Die Wildhut sorgt dafür, dass Schweisshunde zur Verfügung stehen. Die Nachsucheprotokolle sind innert vier Tagen nach Ende der Sonderjagd in der entsprechenden Region der zuständigen Wildhut abzugeben.
 
@@ -660,7 +670,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>2</sup> Bei der Erstellung der Abschusspläne wird in der Regel von einem weiblichen Streckenanteil von 70 Prozent ausgegangen. Wenn in einer Hirschregion in den letzten Jahren der mittlere Anteil an weiblichen Tieren tiefer als 70 Prozent war, wird dies bei der Planung mitberücksichtigt. Wenn ausnahmsweise nur Kälber zur Bejagung freigegeben werden, wird von einem weiblichen Streckenanteil von 50 Prozent ausgegangen.
 
-<sup>3</sup> Das Departement kann den Abschussplan für die Sonderjagd in allen Hirscharealen um bis zu 20 Tiere erhöhen.
+<sup>3</sup> Das Departement kann den Abschussplan für die Sonderjagd in allen Hirscharealen erhöhen.
 
 #### Art. 67
 
@@ -670,12 +680,9 @@ von der Regierung erlassen am 30. Juni 2020
 
 - a) kranke und verletzte Hirsche;
 - b) Hirschkühe, Schmaltiere und Kälber;
-- c) Hirschspiesser, deren Stangen nicht länger als die Lauscher sind;
-- d) Hirschgabler.
+- c) Hirschspiesser, deren Stangen nicht länger als die Lauscher sind.
 
-<sup>2</sup> Jägerinnen und Jäger, die zwei Hirschkälber geschossen haben, dürfen einen Hirschstier gemäss den Bestimmungen der Hochjagd erlegen. Davon ausgenommen und geschützt sind ein- und beidseitige Kronenhirsche mit einer Stangenlänge von 60 cm und mehr.
-
-<sup>3</sup> Ist in einer Region die Differenz zum Abschussplan gering, kann sowohl das Tageskontingent der Jägerinnen und Jäger als auch die Liste des jagdbaren Hirschwilds eingeschränkt werden.
+<sup>2</sup> Ist in einer Region die Differenz zum Abschussplan gering, kann sowohl das Tageskontingent der Jägerinnen und Jäger als auch die Liste des jagdbaren Hirschwilds eingeschränkt werden.
 
 #### Art. 68
 
@@ -686,9 +693,7 @@ von der Regierung erlassen am 30. Juni 2020
 - a) für Kälber — Fr. 2.–/kg
 - b) für einjährige Hirsche — Fr. 4.–/kg
 - c) für zweijährige und ältere weibliche Hirsche — Fr. 4.–/kg
-- d) für zweijährige und ältere männliche Hirsche — Fr. 6.–/kg
-
-<sup>2</sup> Für kranke und verletzte Tiere, die nicht verwertbar sind, ist keine Abschussgebühr zu entrichten.
+- d) kranke und verletzte Tiere, die nicht verwertbar sind — keine Gebühr
 
 ### 3.3. Rehwild
 
@@ -704,7 +709,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>1</sup> Nach Abschluss der Hochjagd wird für jede Region der zur Erreichung der Zielsetzung notwendige Abschuss bestimmt und mit der Strecke verglichen. Die noch fehlenden Tiere werden auf der Sonderjagd erlegt. Die Rehregionen entsprechen den Hirschregionen gemäss Anhang 4.
 
-<sup>2</sup> Die Abschusspläne für die einzelnen Regionen und Areale werden aufgrund der Hochjagdstrecke so festgelegt, dass der Anteil Geissen und Kitze an der gesamten Rehwildstrecke in der Regel 50 bis 65 Prozent beträgt. Der geforderte Anteil an Geissen und Kitzen steigt, wenn sich der Rehbockabschuss der maximalen Strecke der letzten 25 Jahre nähert oder diese überschreitet. Bei der Festlegung des Abschussplans wird den regionalen Unterschieden beim Jagddruck auf den Rehbock Rechnung getragen. In Gebieten mit Wildschadenproblemen kann der Abschussplan zur Steigerung des Jagddruckes zusätzlich erhöht werden.
+<sup>2</sup> Die Abschusspläne für die einzelnen Regionen und Areale werden aufgrund der Hochjagdstrecke so festgelegt, dass der Anteil Geissen und Kitze an der gesamten Rehwildstrecke in der Regel 50 bis 65 Prozent beträgt. Der geforderte Anteil an Geissen und Kitzen steigt, wenn sich der Rehbockabschuss der maximalen Strecke der letzten 25 Jahre nähert oder diese überschreitet. Bei der Festlegung des Abschussplans wird den regionalen Unterschieden beim Jagddruck auf den Rehbock Rechnung getragen. In Gebieten mit Wildschadenproblemen kann der Abschussplan zur Steigerung des Jagddruckes zusätzlich erhöht und im Sinne einer Schwerpunktbejagung regional umgesetzt werden.
 
 #### Art. 71
 
@@ -723,7 +728,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>1</sup> Die Abschussgebühr beträgt:
 
-- a) für einjährige und ältere Tiere — Fr. 6.–/kg
+- a) für einjährige und ältere Tiere — Fr. 4.–/kg
 - b) für Rehkitze — keine Gebühr
 - c) für kranke und verletzte Tiere, die nicht verwertbar sind — keine Gebühr
 
@@ -733,7 +738,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Jagdgebiet, jagdbare Wildschweine**
 
-<sup>1</sup> In den Regionen, in welchen die Sonderjagd durchgeführt wird, sind Wildschweine mit Ausnahme der säugenden Bachen jagdbar.
+<sup>1</sup> In den Regionen, in welchen die Sonderjagd durchgeführt wird, sind alle Wildschweine jagdbar.
 
 #### Art. 74
 
@@ -743,15 +748,13 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>2</sup> Erlegte Tiere sind jeweils unverzüglich nach Ende der Jagd der zuständigen Wildhut vorzuweisen.
 
+<sup>3</sup> Artikel 46 gilt sinngemäss auch für die Sonderjagd.
+
 #### Art. 75
 
 **Abschussgebühren**
 
-<sup>1</sup> Die Abschussgebühr beträgt:
-
-- a) für Tiere über 40 kg — Fr. 2.–/kg
-- b) für Tiere bis 40 kg — keine Gebühr
-- c) für kranke und verletzte Tiere, die nicht verwertbar sind — keine Gebühr
+<sup>1</sup> Für erlegte Wildschweine werden keine Abschussgebühren erhoben.
 
 ## 4. Steinwildjagd
 
@@ -763,9 +766,9 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>2</sup> Es gelten folgende Schusszeiten:
 
-- a) vom 5. bis 15. Oktober 2020 von 07.00 Uhr bis 19.30 Uhr;
-- b) vom 16. bis 24. Oktober 2020 von 07.15 Uhr bis 19.00 Uhr;
-- c) vom 25. Oktober bis 5. November 2020 von 06.45 Uhr bis 17.30 Uhr.
+- a) vom 5. bis 15. Oktober 2021 von 07.00 Uhr bis 19.30 Uhr;
+- b) vom 16. bis 30. Oktober 2021 von 07.15 Uhr bis 19.00 Uhr;
+- c) vom 31. Oktober bis 5. November 2021 von 06.45 Uhr bis 17.30 Uhr.
 
 #### Art. 77
 
@@ -779,9 +782,9 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Abschussplan**
 
-<sup>1</sup> Im Abschussplan wird nach Steinwildkolonien die Anzahl weiblicher und männlicher Tiere festgelegt, die den Beständen zu entnehmen ist. Bei den männlichen Tieren ist der Plan zusätzlich nach Altersklassen aufgeschlüsselt. Der vom Bundesamt für Umwelt genehmigte Abschussplan 2020[^78-1] ist im Anhang 8 aufgeführt.
+<sup>1</sup> Im Abschussplan wird nach Steinwildkolonien die Anzahl weiblicher und männlicher Tiere festgelegt, die den Beständen zu entnehmen ist. Bei den männlichen Tieren ist der Plan zusätzlich nach Altersklassen aufgeschlüsselt. Der vom Bundesamt für Umwelt genehmigte Abschussplan 2021[^78-1] ist im Anhang 8 aufgeführt.
 
-[^78-1]: genehmigt am 17. April 2020
+[^78-1]: genehmigt am 20. April 2021
 
 #### Art. 79
 
@@ -799,11 +802,11 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Übertrag der Teilnahmeberechtigung**
 
-<sup>1</sup> Bei Abmeldungen bis zum 31. Juli wird die Berechtigung für die Teilnahme an der Steinwildjagd ohne Einschränkung auf das nächste Jahr übertragen.
+<sup>1</sup> Bei Abmeldungen bis zum 30. Juni wird die Berechtigung für die Teilnahme an der Steinwildjagd ohne Einschränkung auf das nächste Jahr übertragen. Wird die Jagd im Folgejahr nicht angetreten, gilt die Jagd als nicht ausgeübt und die Berechtigung verfällt.
 
-<sup>2</sup> Bei Abmeldungen ab dem 1. August wird die Berechtigung für die Teilnahme an der Steinwildjagd nur noch bei Krankheit oder Unfall übertragen. Die Berechtigung ist drei Jahre gültig und kann während dieser Zeit einmal übertragen werden.
+<sup>2</sup> Bei Abmeldungen ab dem 1. Juli wird die Berechtigung für die Teilnahme an der Steinwildjagd nur noch bei Krankheit oder Unfall unter Vorweisung eines Arztzeugnisses übertragen. Wird die Jagd im Folgejahr nicht angetreten, gilt die Jagd als nicht ausgeübt und die Berechtigung verfällt.
 
-<sup>3</sup> Muss eine Jägerin oder ein Jäger die Jagd infolge Krankheit oder Unfall abbrechen, wird die Berechtigung für die Teilnahme an der Steinwildjagd nur noch für die nicht genutzten Jagdtage übertragen, sofern der Jagdabbruch vor dem drittletzten Jagdtag erfolgt. Die Berechtigung ist drei Jahre gültig und kann während dieser Zeit einmal übertragen werden.
+<sup>3</sup> Muss eine Jägerin oder ein Jäger die Jagd infolge Krankheit oder Unfall abbrechen, wird die Berechtigung für die Teilnahme an der Steinwildjagd nur noch für die nicht genutzten Jagdtage auf das Folgejahr übertragen, sofern der Jagdabbruch vor dem drittletzten Jagdtag erfolgt. Wird die Jagd im Folgejahr nicht angetreten, gilt die Jagd in der zugeteilten Altersklasse als ausgeübt und abgeschlossen.
 
 ## 5. Niederjagd
 
@@ -817,10 +820,10 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>2</sup> Es gelten folgende Schusszeiten:
 
-- a) vom 1. bis 15. Oktober 2020 von 07.00 Uhr bis 19.30 Uhr;
-- b) vom 16. bis 24. Oktober 2020 von 07.15 Uhr bis 19.00 Uhr;
-- c) vom 25. Oktober bis 15. November 2020 von 06.45 Uhr bis 17.30 Uhr;
-- d) vom 16. bis 30. November 2020 von 07.00 Uhr bis 17.30 Uhr.
+- a) vom 1. bis 15. Oktober 2021 von 07.00 Uhr bis 19.30 Uhr;
+- b) vom 16. bis 30. Oktober 2021 von 07.15 Uhr bis 19.00 Uhr;
+- c) vom 31. Oktober bis 15. November 2021 von 06.45 Uhr bis 17.30 Uhr;
+- d) vom 16. bis 30. November 2021 von 07.00 Uhr bis 17.30 Uhr.
 
 #### Art. 83
 
@@ -832,7 +835,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Örtliche Einschränkungen**
 
-<sup>1</sup> Vom 1. bis und mit 10. Oktober und vom 23. bis und mit 31. Oktober 2020 dürfen Füchse, Dachse, Edel- und Steinmarder sowie Waschbären, Marderhunde und Bisamratten in den Jagdbezirken I, II, III, V, VI, X, XI und XII ohne zeitliche Einschränkungen bejagt werden.
+<sup>1</sup> Vom 13. bis und mit 28. Oktober 2021 dürfen Füchse, Dachse, Edel- und Steinmarder sowie Waschbären, Marderhunde und Bisamratten in den Jagdbezirken I, II, III, V, VI, X, XI und XII ohne zeitliche Einschränkungen bejagt werden.
 
 <sup>2</sup> Die Jagdbezirke beziehungsweise Jagdregionen entsprechen der Einteilung gemäss Anhang 4.
 
@@ -856,7 +859,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Zeitliche Einschränkung, Kontingent**
 
-<sup>1</sup> Vom 21. November bis und mit 30. November 2020 dürfen Hasen nicht bejagt werden.
+<sup>1</sup> Vom 21. November bis und mit 30. November 2021 dürfen Hasen nicht bejagt werden.
 
 <sup>2</sup> Jede Jägerin und jeder Jäger darf insgesamt acht Hasen, am gleichen Tag jedoch höchstens zwei Hasen erlegen.
 
@@ -882,7 +885,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 <sup>2</sup> Jede Jägerin und jeder Jäger darf am gleichen Tag höchstens zwei und während der ganzen Niederjagd höchstens zehn Schneehühner erlegen.
 
-<sup>3</sup> Von jedem erlegten Schneehuhn sind Federproben (Flügel, Handschwinge oder mehrere Körperfedern) abzugeben. Diese Proben sind jeweils separat in einem Plastiksack aufzubewahren, wobei die Flügel einzufrieren sind und bis und mit 7. Dezember 2020 zusammen mit den Angaben zu Abschussdatum und Abschussort der Wildhut zuzustellen. Das amtliche Protokollblatt[^89-1] ist vollständig, mit Koordinaten, auszufüllen.
+<sup>3</sup> Von jedem erlegten Schneehuhn sind Federproben (Flügel, Handschwinge oder mehrere Körperfedern) abzugeben. Diese Proben sind jeweils separat in einem Plastiksack aufzubewahren, wobei die Flügel einzufrieren und innert fünf Tagen nach Ende der Niederjagd zusammen mit den Angaben zu Abschussdatum und Abschussort der Wildhut zuzustellen sind. Das amtliche Protokollblatt[^89-1] ist vollständig, mit Koordinaten, auszufüllen.
 
 [^89-1]: Protokollblatt für die Abgabe der Federproben von erlegten Schneehühnern
 
@@ -912,7 +915,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Jagd- und Schusszeiten**
 
-<sup>1</sup> Die Passjagd dauert vom 1. November 2020 bis und mit 28. Februar 2021 mit einer Unterbrechung an Weihnachten (24. Dezember bis und mit 26. Dezember). Die Passjagd darf von 17.30 Uhr bis 06.30 Uhr ausgeübt werden.
+<sup>1</sup> Die Passjagd dauert vom 1. November 2021 bis und mit 28. Februar 2022 mit einer Unterbrechung an Weihnachten (24. Dezember bis und mit 26. Dezember). Die Passjagd darf von 17.30 Uhr bis 06.30 Uhr ausgeübt werden.
 
 #### Art. 93
 
@@ -924,7 +927,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Jagdbares Wild, zeitliche und örtliche Einschränkung**
 
-<sup>1</sup> Erlegt werden dürfen: Füchse (bis 28. Februar 2021), Dachse (bis 15. Januar 2021), Edel- und Steinmarder (bis 15. Februar 2021), Marderhunde, Waschbären und Bisamratten (bis 28. Februar 2021).
+<sup>1</sup> Erlegt werden dürfen: Füchse (bis 28. Februar 2022), Dachse (bis 15. Januar 2022), Edel- und Steinmarder (bis 15. Februar 2022), Marderhunde, Waschbären und Bisamratten (bis 28. Februar 2022).
 
 <sup>2</sup> In rechtskräftig ausgeschiedenen Wildruhezonen ist die Passjagd verboten. In Gebieten mit ständigem Wolfsvorkommen kann die Wildhut Passorte aufheben oder verbieten, sofern kein angemessener Abstand zum Siedlungsgebiet eingehalten wird.
 
@@ -932,7 +935,7 @@ von der Regierung erlassen am 30. Juni 2020
 
 **Anmeldung**
 
-<sup>1</sup> Jägerinnen und Jäger, welche die Passjagd ausüben, haben vorgängig, spätestens bis zum 31. Oktober des jeweiligen Kalenderjahrs, der zuständigen Wildhut schriftlich die Passorte zu melden. Es können insgesamt zwei Orte bezeichnet werden.
+<sup>1</sup> Jägerinnen und Jäger, welche die Passjagd ausüben, haben vorgängig, spätestens bis zum 31. Oktober des jeweiligen Kalenderjahrs, der zuständigen Wildhut schriftlich die Passorte zu melden. Es können insgesamt drei Orte bezeichnet werden.
 
 <sup>2</sup> Die Jägerinnen und Jäger können sich bei der Wildhut ab 1. August über die Zulässigkeit eines Passorts erkundigen.
 
@@ -964,10 +967,4 @@ von der Regierung erlassen am 30. Juni 2020
 
 [^98-1]: BR [740.000](https://www.gr-lex.gr.ch/data/740.000/de)
 
-#### Art. 99
-
-**Übergangsbestimmungen**
-
-<sup>1</sup> Das Verbot des Mittragens und der Verwendung bleihaltiger Kugelmunition bei der Ausübung der Hoch-, Sonder- und Steinwildjagd gemäss Artikel 5 Absatz 1 gilt ab 1. September 2021.
-
-2020-036
+2021-026

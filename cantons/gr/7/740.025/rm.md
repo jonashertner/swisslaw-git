@@ -2,28 +2,28 @@
 canton: GR
 number: "740.025"
 title: "Ordinaziun davart l'exercizi da la chatscha"
-short: Prescripziuns da chatscha; OECh
+short: "Prescripziuns da chatscha, OECh"
 language: rm
-version: 2020-08-01
-corrected: 2020-07-08
-version_adopted: 2020-07-03
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-06-29
 adopted: 2023-06-27
 in_force: 2023-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/740.025"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3065/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3182/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordinaziun davart l'exercizi da la chatscha
 
-(Prescripziuns da chatscha; OECh)
+(Prescripziuns da chatscha, OECh)
 
-dals 30-06-2020 (versiun dals 01-08-2020)
+dals 29-06-2021 (versiun dals 01-08-2021)
 
 Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1], sin l'art. 19, l'art. 28 e l'art. 38 da la Lescha chantunala da chatscha[^ingress-2] sco er sin l'art. 34 al. 2 da la Lescha chantunala davart il guaud[^ingress-3]
 
-relaschada da la Regenza ils 30 da zercladur 2020
+relaschada da la Regenza ils 29 da zercladur 2021
 
 [^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
 [^ingress-2]: DG [740.000](https://www.gr-lex.gr.ch/data/740.000/rm)
@@ -63,7 +63,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **3. muniziun**
 
-<sup>1</sup> Cun resalva da disposiziuns transitoricas divergentas (art. 99) èsi scumandà da prender cun sai e da duvrar ballas cun plum per ir a chatscha auta, a chatscha speziala ed a chatscha da capricorns.
+<sup>1</sup> Igl è scumandà da prender cun sai e da duvrar ballas cun plum per ir a chatscha auta, a chatscha speziala ed a chatscha da capricorns.
 
 <sup>2</sup> Igl è scumandà da prender cun sai e da duvrar ballas per flintas a chatscha. Flintas èn permessas mo cun ils calibers 12, 16 e 20.
 
@@ -71,7 +71,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **4. meds d'agid tecnics**
 
-<sup>1</sup> Igl è scumandà da prender cun sai e da duvrar rinforzaders da la glisch restanta, apparats supplementars cun camera termica per perspectivs da mira, traplas fotograficas e dronas a chatscha.
+<sup>1</sup> Igl è scumandà da prender cun sai e da duvrar a chatscha rinforzaders da la glisch restanta, apparats supplementars cun camera termica per perspectivs da mira, traplas fotograficas, dronas, sensurs da moviments, sensurs a radis infracotschens, barrieras fotoelectricas e cameras d'observaziun.
 
 #### Art. 7
 
@@ -109,17 +109,18 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>3</sup> Las suandantas plazzas da parcar èn exceptadas dal scumond da parcar:
 
-- a) district da chatscha I: pass dal Lucmagn (gallaria da lavinas, sortida sid); Medel/Lucmagn (punt a Fuorns); Laus (Hettas); Schlans (sur il vitg); Dardin (chasa da scola);
+- a) district da chatscha I: pass dal Lucmagn (gallaria da lavinas, sortida sid); pass dal Lucmagn (gallaria da lavinas; portal nord); Medel/Lucmagn (punt a Fuorns); Laus (Hettas); Schlans (sur il vitg); Dardin (chasa da scola);
 - b) district da chatscha II: Zervreila (plazza da parcar da l'ustaria); Lunschania (plazza da parcar tar la via chantunala, gallaria Schöntobel); Peiden (Peiden Bogn); Arezen (Fatscha); Valendau (Oberdutjen); Glion (Tischinas); Vattiz (Davos Munts);
-- c) district da chatscha III: Stussavgia-Camana (tar la resgia, pt. 1643); Stussavgia-Egschi (tar il mir da fermada Egschi); Stussavgia-Neukirch (Treuschbach); Stussavgia-Acla; Ausserglas; Preaz (cumenzament da la via da l'alp da Preaz); Seglias (anteriura staziun da la Viafier retica); Scharàns (tar il stan da tir); Pignieu (Vitali); Vargistagn (Lavanos); Ziràn-Reschen (campadi Rania); Avras-Juppa (plazza da parcar tar il ponilift); mo durant la chatscha auta: Scharàns (via da guaud per il Meir vegl, pt. 995)[^11-1]; Seglias (Versasca);
+- c) district da chatscha III: Stussavgia-Camana (tar la resgia, punct 1643); Stussavgia-Egschi (tar il mir da fermada Egschi); Stussavgia-Neukirch (Treuschbach); Stussavgia-Acla; Ausserglas; Preaz (cumenzament da la via da l'alp da Preaz); Seglias (anteriura staziun da la Viafier retica); Scharàns (tar il stan da tir); Pignieu (Vitali); Vargistagn (Lavanos); Avras-Juppa (plazza da parcar tar il ponilift); mo durant la chatscha auta: Scharàns (via da guaud per il Meir vegl, punct 995)[^11-1]; Seglias (Versasca);
 - d) district da chatscha IV: San Bernardino (Du Lac); San Bernardino (cantina Toscano, campadi); Mesauc (plazza da parcar tar la sortida da la A13 Mesocco-Sud); Sorte; Soazza (Ponte di Vigna, 2'736'680 / 1'134'075); ils ultims 4 dis da la chatscha auta: Rossa (Valbella, 2'730'170 / 1'140'517); Rossa (Pian del Sescpet, 2'728'340 / 1'136'819); Mesauc (Siu Sot, 2'738'665 / 1'137'914); Mesauc (Panieru, 2'738'604 / 1'140'333); Arvigo (Zanella, 2'727'583 / 1'127'624); Soazza (Bec, 2'735'050 / 1'134'870); San Vittore (Folcetta, 2'727'751 / 1'124'339); Lostallo (La Pala, 2'737'534 / 1'131'096); Lostallo (2'736'800 / 1'129'900); Roveredo (Diga Roggiasca, 2'733'470 / 1'118'259); Roveredo (Vif, Bivio Monti di Laura, 2'730'548 / 1'119'820); Braggio (Motta della Vacca, 2'730'128 / 1'130'173); Sta. Maria i.C. (Bedolì, 2'731'554 / 1'126'723); Sta. Maria i.C. (Viderla, 2'732'260 / 1'127'141);
 - e) district da chatscha V/VI: Dischma (chava da glera Chintsch Hus); Jenisberg; Bravuogn (plazza da parcar a la via da Latsch, tschiffada d'aua OEAL Ava da Tuors); Vaz (plazza da parcar sin l'autezza Sporz); Mut-Stafel (sin il "P chatschaders" ed entaifer las tavlas "P chatschaders"); Solas (plazza da parcar da la staziun); Beiva (plazza da parcar Tua, Sportanlagen SA); Beiva (via dal pass dal Güglia, plazza da parcar La Veduta); Murmarera (plazza da parcar tar la gallaria dal Lai da Murmarera); Rona-Mulegns (plazza da parcar tar il spartavias da Nascharegnas); Cunter (Burvagn, plazza da parcar tar il silo da sal);
-- f) district da chatscha VII: Bever (plazza da parcar tar la deponia, pt. 1693);
-- g) district da chatscha VIII-2: La Rösa; Sfazù; Pozzolascio (plazza da parcar da l'ustaria);
-- h) district da chatscha IX: Zernez (deponia Tantermozza); Ardez (spartavias Sur En – Val Sampuoir);
-- i) district da chatscha X: S-charl; Sent (chasa da cura Val Sinestra); Val Fenga (tar il cunfin naziunal); Acla da Fans; Vinadi; Tschlin (stan da tir Sclamischot); Tarasp (Nairs, chasa Carola); Ramosch (ruinas Serviezel); Valsot (San Niclà);
-- j) district da chatscha XI: Ascharina (plazza da parcar da l'hotel Bellawiese); Pany (staziun da val dal runal); Fideris (Strahlegg); Jenaz (en l'Au); Furna (Riedji, pt. 1404); Furna (Ronggji); Seewis (plazza da parcar Ganda); Cunter en il Partenz (Eierloch); Claustra Vitg, via da Schlappin Ober Ganda;
-- k) district da chatscha XII: Cuira (stabiliment da protecziun civila Meiersboden); Langwies (plazza da parcar communala tar la basa tecnica); Churwalden (Passugg, spartavias da la via dals Polacs); Mastrils (Saga); ils ultims 4 dis da la chatscha auta: Panaduz (Sigl Ault sin l'autezza dal spartavias Scardanal – Sculms, 2'746'166 / 1'184'816).
+- f) district da chatscha VII: Bever (plazza da parcar tar la deponia, punct 1693);
+- g) district da chatscha VIII-1: Malögia (Capolago, 2'774'205/1'142'362), Malögia (Kulm, 2'773'481/1'140'946); Bondo (Crot Alt, 2'762'593/1'133'428);
+- h) district da chatscha VIII-2: La Rösa; Sfazù; Pozzolascio (plazza da parcar da l'ustaria);
+- i) district da chatscha IX: Zernez (deponia Tantermozza); Ardez (spartavias Sur En – Val Sampuoir);
+- j) district da chatscha X: S-charl (plazza da parcar); Sent (chasa da cura Val Sinestra); Tarasp (Nairs Chasa Corola); Val Fenga (plazza da parcar tar il cunfin naziunal); San Niclà (plazza da parcar dals chatschaders); Ramosch (ruinas Serviezel); Sclamischot (plazza da parcar tar il stan da tir); Tschlin (Zavranza); plazza da parcar Vinadi; plazza da parcar Acla da Fans;
+- k) district da chatscha XI: Ascharina (plazza da parcar da l'hotel Bellawiese); Pany (staziun da val dal runal); Fideris (Strahlegg); Jenaz (en l'Au); Furna (Riedji, punct 1404); Furna (Ronggji); Seewis (plazza da parcar Ganda); Cunter en il Partenz (Eierloch); Claustra Vitg, via da Schlappin Ober Ganda;
+- l) district da chatscha XII: Cuira (stabiliment da protecziun civila Meiersboden); Langwies (plazza da parcar communala tar la basa tecnica); Churwalden (Passugg, spartavias da la via dals Polacs); Mastrils (Saga); ils ultims 4 dis da la chatscha auta: Panaduz (Sigl Ault sin l'autezza dal spartavias Scardanal – Sculms, 2'746'166 / 1'184'816); Trin (Coma).
 
 [^11-1]: Dastga vegnir duvrada gratuitamain cun vehichels a motor per ir a chatscha auta.
 
@@ -141,7 +142,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **Tractament dal dadens d'animals sajettads**
 
-<sup>1</sup> Las parts dal dadens che pudessan esser contaminadas cun restanzas da plum ston vegnir dismessas uschia, ch'ellas n'èn betg cuntanschiblas per utschels da preda e per selvaschina da rapina.
+<sup>1</sup> Las parts dal dadens da selvaschina manidla che pudessan esser contaminadas cun restanzas da plum ston vegnir dismessas uschia, ch'ellas n'èn betg cuntanschiblas per utschels da preda e per selvaschina da rapina.
 
 #### Art. 15
 
@@ -155,7 +156,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **2. consegna da las glistas da prelevaziun**
 
-<sup>1</sup> Tut las glistas da prelevaziun da la chatscha respectiva ston vegnir consegnadas entaifer 5 dis suenter la fin dal gener da chatscha respectiv per posta A Plus a quel post d'emissiun da patentas, nua che la patenta da chatscha era vegnida retratga.
+<sup>1</sup> Tut las glistas da prelevaziun da la chatscha respectiva ston vegnir consegnadas entaifer 5 dis suenter la fin dal gener da chatscha (data dal bul postal) respectiv per posta A Plus a quel post d'emissiun da patentas, nua che la patenta da chatscha era vegnida retratga.
 
 #### Art. 17
 
@@ -249,11 +250,11 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **Temps da chatscha**
 
-<sup>1</sup> La chatscha auta 2020 vegn realisada en duas fasas. Ella dura dals 3 fin e cun ils 13 da settember 2020 sco er dals 21 fin e cun ils 30 da settember 2020. Dals 14 fin e cun ils 20 da settember 2020 vegn interrutta la chatscha.
+<sup>1</sup> La chatscha auta 2021 vegn realisada en duas fasas. Ella dura dals 3 fin e cun ils 12 da settember 2021 sco er dals 20 fin e cun ils 30 da settember 2021. Dals 13 fin e cun ils 19 da settember 2021 vegn interrutta la chatscha.
 
 <sup>2</sup> Tschiervs, chavriels, portgs selvadis, muntanellas, vulps, tais, ursets americans e chauns-vulp dastgan vegnir sajettads durant l'entir temp da chatscha.
 
-<sup>3</sup> Chamutschs dastgan vegnir sajettads dals 3 fin e cun ils 13 da settember 2020 e dals 21 fin e cun ils 26 da settember 2020. En parts dals districts da chatscha III Rain posteriur – Mantogna e IV Moesa (secturs D03 – D10) dastgan chamutschs feminins vegnir sajettads mo fin e cun ils 22 da settember 2020.
+<sup>3</sup> Chamutschs dastgan vegnir sajettads dals 3 fin e cun ils 12 da settember 2021 e dals 20 fin e cun ils 26 da settember 2021. En ils districts da chatscha I Rain anteriur e II Glogn, en parts dals districts da chatscha III Rain posteriur – Mantogna e IV Moesa (secturs C02 – C07, D01, D03 – D10) sco er dal district da chatscha XII Plaun – Plessur – V Vitgs (sectur C01) dastgan chamutschs feminins vegnir sajettads mo fin e cun ils 22 da settember 2021.
 
 #### Art. 28
 
@@ -261,11 +262,11 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>1</sup> Valair valan las suandantas uras da tir:
 
-- a) dals 3 fin e cun ils 13 da settember 2020 da las 06.00 fin las 20.30;
-- b) dals 21 fin e cun ils 25 da settember 2020 da las 06.30 fin las 20.00;
-- c) dals 26 fin e cun ils 30 da settember 2020 da las 06.30 fin las 19.45.
+- a) dals 3 fin e cun ils 12 da settember 2021 da las 06.00 fin las 20.30;
+- b) dals 20 fin e cun ils 26 da settember 2021 da las 06.30 fin las 20.00;
+- c) dals 27 fin e cun ils 30 da settember 2021 da las 06.30 fin las 19.45.
 
-### 2.2. Tschiervs
+### 2.2. tschiervs
 
 #### Art. 29
 
@@ -279,7 +280,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **Tschierv cun curuna**
 
-<sup>1</sup> Dals 7 fin e cun ils 9 da settember 2020 dastgan vegnir sajettads er tschiervs cun curuna dad omaduas varts, dals quals las cornas han ina lunghezza da 60 cm e dapli. Durant quests dis dastga mintga chatschadra e chatschader sajettar totalmain mo in tschierv cun curuna dad ina vart u dad omaduas varts, independentamain da la lunghezza da las cornas.
+<sup>1</sup> Dals 8 fin e cun ils 10 da settember 2021 dastgan vegnir sajettads er tschiervs cun curuna dad omaduas varts, dals quals las cornas han ina lunghezza da 60 cm e dapli. Durant quests dis dastga mintga chatschadra e chatschader sajettar totalmain mo in tschierv cun curuna dad ina vart u dad omaduas varts, dal qual las cornas han ina lunghezza da 60 cm e dapli.
 
 <sup>2</sup> D'in tschierv cun curuna dad omaduas varts sa tracti, sch'il tschierv ha vi da tuttas duas cornas trais pizs u dapli sur il piz d'amez. D'in tschierv cun curuna dad ina vart sa tracti, sch'il tschierv ha vi d'ina corna trais pizs u dapli sur il piz d'amez.
 
@@ -299,11 +300,11 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>2</sup> Per giuditgar, sche tschiervs lantschets dastgan vegnir sajettads, vala la mesira da la corna pli curta.
 
-<sup>3</sup> Dals 27 fin e cun ils 30 da settember 2020 è il tschierv lantschet permess, independentamain da la lunghezza da las cornas; valair vala in contingent total dad in tschierv lantschet per chatschadra u chatschader.
+<sup>3</sup> Dals 29 fin e cun ils 30 da settember 2021 è il tschierv lantschet permess, independentamain da la lunghezza da las cornas; valair vala in contingent total dad in tschierv lantschet per chatschadra u chatschader.
 
 #### Art. 32
 
-**Mesiras da gestiun en asils da selvaschina 1. sajettar tschiervs**
+**Mesiras da regulaziun en asils da selvaschina 1. sajettar tschiervs**
 
 <sup>1</sup> Per auzar la preda da chatscha auta fa l'uffizi – ordaifer il temp da chatscha – acziuns da disturbi e sajetta singuls animals en asils da selvaschina sco er sin surfatschas cun donns da selvaschina.
 
@@ -312,6 +313,8 @@ relaschada da la Regenza ils 30 da zercladur 2020
 <sup>3</sup> En ils secturs d'asils da selvaschina ch'èn averts dal tuttafatg u per part per la chatscha, èsi scumandà da construir indrizs da chatscha sco sezs auts, sezs per terra u sustas. Eventualas cunfinaziuns entaifer l'asil da selvaschina vegnan marcadas cun colur blaua e cotschna.
 
 <sup>4</sup> Uschenavant ch'il cumenzament e la fin dals cunfins "permeabels" vegnan marcads, vegn quai fatg cun colur cotschna (vart serrada) e cun colur blaua (vart averta).
+
+<sup>5</sup> Per sajettar animals en asils federals da selvaschina valan las disposiziuns spezialas tenor l'agiunta 2 litera f.
 
 #### Art. 32a
 
@@ -367,7 +370,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 - b) chavriels furtgets e chavriels lantschets cun in'autezza da las cornas da main che 16 cm;
 - c) chauras-chavriel betg lactantas.
 
-<sup>2</sup> Durant ils ultims 4 dis da la chatscha auta dastga mintga chatschadra e chatschader sajettar en tut il chantun in ansiel-chavriel sco er sterlas-chavriel en il rom dal contingent da chavriels. Durant quests dis da chatscha è la chaura-chavriel protegida; il buc-chavriel e la sterla-chavriel dastgan percunter vegnir sajettads. Las sterlas-chavriel ed ils ansiels-chavriel sajettads ston vegnir preschentads a la surveglianza da chatscha en stadi frestg.
+<sup>2</sup> Durant ils ultims 4 dis da la chatscha auta dastga mintga chatschadra e chatschader sajettar en tut il chantun in ansiel-chavriel en il rom dal contingent da chavriels. Las chauras-chavriel, las sterlas-chavriel ed ils ansiels-chavriel sajettads ston vegnir preschentads a la surveglianza da chatscha en stadi frestg.
 
 <sup>3</sup> Chavriels cun marcaziun sajettads ston vegnir preschentads durant l'entira chatscha a la surveglianza da chatscha en stadi frestg. Per tals chavriels vegn pajada ina premia da 20 francs.
 
@@ -426,7 +429,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>2</sup> Sche las cifras da prelevaziun na vegnan betg cuntanschidas durant la chatscha auta respectivamain sche la chatscha vegn exercitada nunsuffizientamain, sajetta la surveglianza da chatscha ils animals mancants.
 
-<sup>3</sup> En ils secturs P01 fin P06 sco er P13, R03 ed R04 dal district da chatscha XI Signuradi-Partenz dastgan bucs-chamutsch e bucs-chamutsch dad 1 onn vegnir sajettads fin ils 30 da settember 2020 sut la limita d'autezza da 1600 m s.m. en il rom dal contingent da chamutschs.
+<sup>3</sup> En ils territoris cun chatscha prioritara tenor alinea 1 litera a fin litera c, en il sectur J09, en ils secturs P01 fin P06 sco er P13, R03 ed R04 dal district da chatscha XI Signuradi – Partenz dastgan bucs-chamutsch e bucs-chamutsch dad 1 onn vegnir sajettads fin ils 30 da settember 2021 sut la limita d'autezza da 1600 m s.m. en il rom dal contingent da chamutschs.
 
 ### 2.3.3. Contingents
 
@@ -460,7 +463,13 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **Obligaziun da preschentaziun**
 
-<sup>1</sup> Ils animals sajettads ston vegnir preschentads a la surveglianza da chatscha cun pail. La charn dals animals sajettads vegn dada libra per mangiar pir, suenter ch'il resultat da la controlla da trichinas è avant maun. Questa controlla è obligatorica ed ils custs correspundents ston vegnir surpigliads da la chatschadra u dal chatschader. En la Mesolcina vegnan da nov er prendidas provas per mesirar la radioactivitad.
+<sup>1</sup> Ils animals sajettads ston vegnir preschentads a la surveglianza da chatscha cun pail. La charn dals animals sajettads vegn dada libra per mangiar pir, suenter ch'il resultat da la controlla da trichinas e da la mesiraziun da la radioactivitad è avant maun. Questas controllas èn obligatoricas. Ils custs respectivs vegnan surpigliads dal chantun.
+
+<sup>2</sup> Ils animals sajettads che ston vegnir sequestrads e dismess, perquai che la limita decisiva vegn surpassada en la mesiraziun da radioactivitad, vegnan indemnisads pauschalmain tenor la vegliadetgna. L'indemnisaziun importa:
+
+- a) per animals da quest onn — 100.– francs
+- b) per animals dad 1 onn — 150.– francs
+- c) per animals da 2 onns e pli vegls — 200.– francs
 
 #### Art. 47
 
@@ -520,11 +529,11 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>2</sup> Animals sajettads pon vegnir preschentads durant la chatscha auta. En quest cas na ston las trofeas e las missellas sut da quests animals betg pli vegnir consegnadas.
 
-<sup>3</sup> Suenter la chatscha auta ston las missellas sut cumplettas dals tschiervs, dals chavriels e dals chamutschs sajettads sco er las trofeas dals chavriels e dals chamutschs sajettads vegnir preschentadas dals 23 d'october fin ils 31 d'october 2020 a la surveglianza da chatscha ch'è responsabla per il lieu da la sajettada; quai suenter che las missellas sut e las trofeas èn vegnidas buglidas ora e nettegiadas en urden.
+<sup>3</sup> Suenter la chatscha auta ston las missellas sut cumplettas dals tschiervs, dals chavriels e dals chamutschs sajettads sco er las trofeas dals chavriels e dals chamutschs sajettads vegnir preschentadas dals 22 d'october fin ils 30 d'october 2021 a la surveglianza da chatscha ch'è responsabla per il lieu da la sajettada; quai suenter che las missellas sut e las trofeas èn vegnidas buglidas ora e nettegiadas en urden.
 
 <sup>4</sup> L'uffizi organisescha durant quest temp posts da consegna regiunals. Il lieu e las uras da la preschentaziun vegnan communitgads da l'uffizi.
 
-<sup>5</sup> En cas d'impediment sto il material d'examinaziun vegnir tramess fin il pli tard ils 4 da november 2020 sco spediziun recumandada a la surveglianza da chatscha ch'è responsabla per il lieu da la sajettada.
+<sup>5</sup> En cas d'impediment sto il material d'examinaziun vegnir tramess fin il pli tard ils 4 da november 2021 sco spediziun recumandada a la surveglianza da chatscha ch'è responsabla per il lieu da la sajettada.
 
 <sup>6</sup> Per l'inscripziun da las missellas sut e da las trofeas ston vegnir duvradas ed emplenidas cumplettamain las etichettas uffizialas.
 
@@ -546,9 +555,9 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **Temp e durada da las chatschas**
 
-<sup>1</sup> Las chatschas spezialas da tschiervs, da chavriels e da portgs selvadis han lieu dals 7 da november fin e cun ils 20 da december 2020. Entaifer ina regiun pon il cumenzament, l'interrupziun e la fin avair lieu en etappas tenor territoris.
+<sup>1</sup> Las chatschas spezialas da tschiervs, da chavriels e da portgs selvadis han lieu dals 30 d'october fin e cun ils 19 da december 2021. Entaifer ina regiun pon il cumenzament, l'interrupziun e la fin avair lieu en etappas tenor territoris.
 
-<sup>2</sup> La chatscha cumenza ina mesemna u ina sonda. Per ils tschiervs e per ils chavriels finescha ella, cur ch'il plan da prelevaziun è ademplì. Eventualmain po la chatscha vegnir terminada gia suenter in sulet di. En singulas regiuns po il departament ordinar la chatscha speziala da portgs selvadis er suenter ch'ils plans da prelevaziun per ils tschiervs e per ils chavriels èn ademplids.
+<sup>2</sup> La chatscha cumenza ina mesemna u ina sonda. Per ils tschiervs e per ils chavriels finescha ella, cur ch'il plan da prelevaziun è ademplì. Eventualmain po la chatscha vegnir terminada gia suenter in sulet di. En singulas regiuns po il departament ordinar la chatscha speziala da portgs selvadis er independentamain dal fatg ch'ils plans da prelevaziun per ils tschiervs e per ils chavriels èn ademplids.
 
 <sup>3</sup> Il departament fixescha il cumenzament, eventualas interrupziuns, l'augment dal plan da prelevaziun en las regiuns e la fin da las chatschas en las regiuns respectivamain en territoris da talas. Per territoris da chatscha u per parts da tals pon vegnir fixadas limitaziuns territorialas u d'autezza.
 
@@ -558,9 +567,10 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>1</sup> Las chatschas han mintgamai lieu la mesemna, la sonda e la dumengia. Las uras da tir vegnan fixadas sco suonda:
 
-- a) dals 7 fin ils 15 da november 2020 da las 06.45 fin las 14.00;
-- b) dals 16 fin ils 30 da november 2020 da las 07.00 fin las 14.00;
-- c) dal 1. fin ils 20 da december 2020 da las 07.15 fin las 14.00.
+- a) ils 30 d'october da las 07.45 fin las 14.00;
+- b) dals 31 d'october fin ils 15 da november 2021 da las 06.45 fin las 14.00;
+- c) dals 16 fin ils 30 da november 2021 da las 07.00 fin las 14.00;
+- d) dal 1. fin ils 19 da december 2021 da las 07.15 fin las 14.00.
 
 #### Art. 58
 
@@ -572,15 +582,15 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>3</sup> Sche memia bleras chatschadras e memia blers chatschaders s'annunzian per ina regiun, vegn tratga la sort.
 
-<sup>4</sup> L'annunzia sto vegnir fatga, cur ch'i vegn retratga la patenta da chatscha auta u da chatscha da capricorns. Annunzias posteriuras na pon betg pli vegnir resguardadas. Posts d'annunzia èn ils posts d'emissiun da patentas designads da l'uffizi. Ils formulars d'annunzia pon vegnir retratgs tar ils posts d'annunzia.
+<sup>4</sup> L'annunzia sto vegnir fatga, cur ch'i vegn retratga la patenta da chatscha auta u da chatscha da capricorns. Annunzias posteriuras na pon betg pli vegnir resguardadas. I n'è betg pussaivel da barattar posteriuramain las regiuns d'annunzia. Posts d'annunzia èn ils posts d'emissiun da patentas designads da l'uffizi. Ils formulars d'annunzia pon vegnir retratgs tar ils posts d'annunzia.
 
 <sup>5</sup> Las chatschadras ed ils chatschaders ston inditgar la regiun, en la quala ellas ed els vulan ir a chatscha speziala. Chatschadras e chatschaders che s'annunzian per ina regiun da tschiervs, en la quala ina chatscha speziala ha gì lieu ils ultims onns mo en singuls cas (Vaz Sut, Favugn, Bregaglia), pon s'annunziar supplementarmain per in'ulteriura regiun da tschiervs. Ellas ed els dastgan dentant ir chatscha speziala mo en ina regiun.
 
 <sup>6</sup> En las regiuns grondas Surselva e Grischun central sco er en las regiuns Term Bel, Mantogna, Rain posteriur e Scanvetg han las chatschadras ed ils chatschaders mo pli il dretg d'ir a chatscha speziala en ina regiun parziala. A chaschun da l'annunzia ston ellas ed els sa decider per la regiun parziala preferida:
 
-- a) regiun da tschiervs Surselva: district da chatscha I u district da chatscha II;
+- a) regiun da tschiervs Surselva: district da chatscha I Sursassiala, I Sutsassiala, II Nord u II Sid;
 - b) regiun da tschiervs Mantogna: areal Nolla / Panaduz (incl. alps Verdus e Carnusa dal sectur C06) u regiun parziala Stussavgia – Panaduz (incl. sectur C06 senza alps Verdus e Carnusa);
-- c) regiun da tschiervs Term Bel: areal Tumleastga u areal Cuira – Domat – Churwalden;
+- c) regiun da tschiervs Term Bel: areal Tumleastga Nord, Tumleastga Sid u areal Cuira – Domat – Churwalden;
 - d) regiun da tschiervs Rain posteriur: areal Schons u regiun parziala Valragn / Farera – Avras;
 - e) regiun da tschiervs Grischun central: areal Tavau (senza Wiesen), vischnanca da Bravuogn Filisur, Val d'Alvra – Brinzauls – Vaz (senza vischnanca da Bravuogn Filisur) u areal Surses;
 - f) regiun da tschiervs Scanvetg: Scanvetg dadora (secturs T01, T02 e T07) e Scanvetg dadens (secturs T03, T04, T05 e T06).
@@ -625,7 +635,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **Disposiziuns spezialas**
 
-<sup>1</sup> Il mardi ed il venderdi avant in di da chatscha speziala po la chatschadra u il chatschader consultar a partir da las 13.30 sur in numer da telefon uffizial[^64-1] sco er sur la pagina d'internet da l'uffizi[^64-2], en tge regiuns che la chatscha speziala ha lieu. Durant quels dis dastgan ils alloschis vegnir retratgs a partir da las 16.00 en mondura da chatscha. Meds da transport motorisads dastgan vegnir duvrads per il viadi en il territori da chatscha fin al cumenzament da las uras da tir.
+<sup>1</sup> Il glindesdi e la gievgia avant in di da chatscha speziala po la chatschadra u il chatschader consultar a partir da las 16.00 sur in numer da telefon uffizial[^64-1] sco er sur la pagina d'internet da l'uffizi[^64-2], en tge regiuns che la chatscha speziala ha lieu. Durant il di avant la chatscha dastgan ils alloschis vegnir retratgs a partir da las 16.00 en mondura da chatscha. Meds da transport motorisads dastgan vegnir duvrads per il viadi en il territori da chatscha fin al cumenzament da las uras da tir.
 
 <sup>2</sup> Il departament è autorisà da relaschar disposiziuns spezialas per il diever da vehichels a motor en las regiuns da tschiervs. Questas disposiziuns concernan scumonds da traffic limitads avant las uras da tir en cumbinaziun cun viadis permess suenter il cumenzament da las uras da tir.
 
@@ -633,7 +643,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>4</sup> Sch'ina chatschadra u in chatschader dovra meds da transport motorisads per ir a chasa u per transportar davent la preda, dastga ella u el duvrar quests meds da transport – a la represa da la chatscha – mo pli tenor las disposiziuns che valan per la chatscha auta ordinaria.
 
-<sup>5</sup> Animals sajettads ston vegnir inscrits immediatamain en la glista da prelevaziun. Fin il pli tard ils 28 da december da l'onn chalendar current sto questa glista vegnir tramessa per posta A Plus a quel post d'emissiun da patentas, nua che la patenta da chatscha era vegnida retratga.
+<sup>5</sup> Animals sajettads ston vegnir inscrits immediatamain en la glista da prelevaziun. Fin il pli tard ils 27 da december da l'onn chalendar current (data dal bul postal) sto questa glista vegnir tramessa per posta A Plus a quel post d'emissiun da patentas, nua che la patenta da chatscha era vegnida retratga.
 
 <sup>6</sup> La surveglianza da chatscha procura ch'i stettian a disposiziun chauns da sang. Ils protocols da la tschertga posteriura ston vegnir consegnads entaifer 4 dis suenter la fin da la chatscha speziala en la regiun correspundenta a la surveglianza da chatscha responsabla.
 
@@ -644,7 +654,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 [^64-1]: Numer da telefon 0900 820 844 (tudestg) u 0900 820 845 (talian)
 [^64-2]: [http://www.ajf.gr.ch](http://www.ajf.gr.ch)
 
-### 3.2. Tschiervs
+### 3.2. tschiervs
 
 #### Art. 65
 
@@ -660,7 +670,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>2</sup> Per far ils plans da prelevaziun vegni per regla partì d'ina quota da preda d'animals feminins da 70 pertschient. Sche la quota mesauna d'animals feminins è stada ils ultims onns en ina regiun da tschiervs pli bassa che 70 pertschient, vegn quai resguardà tar la planisaziun. Sch'i vegnan dads libers excepziunalmain mo vadels per la chatscha, vegni partì d'ina quota da preda d'animals feminins da 50 pertschient.
 
-<sup>3</sup> En tut ils areals da tschiervs po il departament auzar il plan da prelevaziun per la chatscha speziala per fin a 20 animals.
+<sup>3</sup> En tut ils areals da tschiervs po il departament auzar il plan da prelevaziun per la chatscha speziala.
 
 #### Art. 67
 
@@ -670,12 +680,9 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 - a) tschiervs malsauns e blessads;
 - b) vatgas-tschierv, sterlas-tschierv e vadels;
-- c) tschiervs lantschets, dals quals las cornas n'èn betg pli lungas che las ureglias;
-- d) tschiervs furtgets.
+- c) tschiervs lantschets, dals quals las cornas n'èn betg pli lungas che las ureglias.
 
-<sup>2</sup> Chatschadras e chatschaders che han sajettà dus vadels-tschierv dastgan sajettar in taur-tschierv tenor las disposiziuns da la chatscha auta. Exceptads da quai e protegids èn tschiervs cun curuna dad ina u dad omaduas varts, dals quals las cornas han ina lunghezza da 60 cm e dapli.
-
-<sup>3</sup> Sche la differenza envers il plan da prelevaziun è pitschna en ina regiun, po vegnir limità il contingent dal di da las chatschadras e dals chatschaders sco er vegnir restrenschida la glista dals tschiervs permess.
+<sup>2</sup> Sche la differenza envers il plan da prelevaziun è pitschna en ina regiun, po vegnir limità il contingent dal di da las chatschadras e dals chatschaders sco er vegnir restrenschida la glista dals tschiervs permess.
 
 #### Art. 68
 
@@ -686,9 +693,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 - a) per vadels — 2.– fr./kg
 - b) per tschiervs dad 1 onn — 4.– fr./kg
 - c) per tschiervs feminins da 2 onns e pli vegls — 4.– fr./kg
-- d) per tschiervs masculins da 2 onns e pli vegls — 6.– fr./kg
-
-<sup>2</sup> Per animals malsauns e blessads che n'èn betg utilisabels na sto vegnir pajada nagina taxa da prelevaziun.
+- d) per animals malsauns e blessads che n'èn betg utilisabels — nagina taxa
 
 ### 3.3. Chavriels
 
@@ -704,7 +709,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>1</sup> Suenter la fin da la chatscha auta vegn fixà per mintga regiun il dumber d'animals che ston vegnir sajettads per cuntanscher la finamira, e quest dumber vegn cumpareglià cun la preda. Ils animals mancants vegnan sajettads durant la chatscha speziala. Las regiuns da chavriels correspundan a las regiuns da tschiervs tenor l'agiunta 4.
 
-<sup>2</sup> Ils plans da prelevaziun per las singulas regiuns e per ils singuls areals vegnan fixads sin basa da la preda da chatscha auta uschia, che la quota da chauras e d'ansiels importa per regla 50 fin 65 pertschient da tut ils tschiervs sajettads. La quota pretendida per chauras e per ansiels s'augmenta, sche la preda da bucs-chavriel s'avischina al dumber maximal d'animals sajettads ils ultims 25 onns u surpassa quest dumber. Per fixar il plan da prelevaziun vegni tegnì quint da las differenzas regiunalas areguard il squitsch da chatscha sin il buc-chavriel. En territoris cun problems da donns da selvaschina po il plan da prelevaziun vegnir augmentà supplementarmain per auzar il squitsch da chatscha.
+<sup>2</sup> Ils plans da prelevaziun per las singulas regiuns e per ils singuls areals vegnan fixads sin basa da la preda da chatscha auta uschia, che la quota da chauras e d'ansiels importa per regla 50 fin 65 pertschient da tut ils tschiervs sajettads. La quota pretendida per chauras e per ansiels s'augmenta, sche la preda da bucs-chavriel s'avischina al dumber maximal d'animals sajettads ils ultims 25 onns u surpassa quest dumber. Per fixar il plan da prelevaziun vegni tegnì quint da las differenzas regiunalas areguard il squitsch da chatscha sin il buc-chavriel. En territoris cun problems da donns da selvaschina po il plan da prelevaziun vegnir augmentà supplementarmain per auzar il squitsch da chatscha e realisà sin plaun regiunal en il senn d'ina chatscha prioritara.
 
 #### Art. 71
 
@@ -723,7 +728,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>1</sup> La taxa da prelevaziun importa:
 
-- a) per animals dad 1 onn e pli vegls — 6.– fr./kg
+- a) per animals dad 1 onn e pli vegls — 4.– fr./kg
 - b) per ansiels-chavriel — nagina taxa
 - c) per animals malsauns e blessads che n'èn betg utilisabels — nagina taxa
 
@@ -733,7 +738,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **Territori da chatscha, portgs selvadis permess**
 
-<sup>1</sup> En las regiuns, nua che la chatscha speziala vegn realisada, dastgan portgs selvadis vegnir sajettads, cun excepziun da las portgas selvadias lactantas.
+<sup>1</sup> En las regiuns, nua che la chatscha speziala vegn realisada, dastgan vegnir sajettads tut ils portgs selvadis.
 
 #### Art. 74
 
@@ -743,15 +748,13 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>2</sup> Ils animals sajettads ston vegnir preschentads a la surveglianza da chatscha responsabla directamain suenter la fin da la chatscha.
 
+<sup>3</sup> L'artitgel 46 vala confurm al senn er per la chatscha speziala.
+
 #### Art. 75
 
 **Taxas da prelevaziun**
 
-<sup>1</sup> La taxa da prelevaziun importa:
-
-- a) per animals sur 40 kg — 2.– fr./kg
-- b) per animals fin 40 kg — nagina taxa
-- c) per animals malsauns e blessads che n'èn betg utilisabels — nagina taxa
+<sup>1</sup> Per portgs selvadis sajettads na vegnan incassadas naginas taxas da prelevaziun.
 
 ## 4. Chatscha da capricorns
 
@@ -763,9 +766,9 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>2</sup> Valair valan las suandantas uras da tir:
 
-- a) dals 5 fin ils 15 d'october 2020 da las 07.00 fin las 19.30;
-- b) dals 16 fin ils 24 d'october 2020 da las 07.15 fin las 19.00;
-- c) dals 25 d'october fin ils 5 da november 2020 da las 06.45 fin las 17.30.
+- a) dals 5 fin ils 15 d'october 2021 da las 07.00 fin las 19.30;
+- b) dals 16 fin ils 30 d'october 2021 da las 07.15 fin las 19.00;
+- c) dals 31 d'october fin ils 5 da november 2021 da las 06.45 fin las 17.30.
 
 #### Art. 77
 
@@ -779,9 +782,9 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **Plan da prelevaziun**
 
-<sup>1</sup> En il plan da prelevaziun vegn fixà tenor regiuns da capricorns il dumber d'animals feminins e masculins ch'èn da prelevar da las populaziuns. Tar ils animals masculins è il plan dividì supplementarmain en classas da vegliadetgna. Il plan da prelevaziun 2020, ch'è vegnì approvà da l'Uffizi federal d'ambient[^78-1], è cuntegnì en l'agiunta 8.
+<sup>1</sup> En il plan da prelevaziun vegn fixà tenor regiuns da capricorns il dumber d'animals feminins e masculins ch'èn da prelevar da las populaziuns. Tar ils animals masculins è il plan dividì supplementarmain en classas da vegliadetgna. Il plan da prelevaziun 2021, ch'è vegnì approvà da l'Uffizi federal d'ambient[^78-1], è cuntegnì en l'agiunta 8.
 
-[^78-1]: Approvà ils 17 d'avrigl 2020
+[^78-1]: Approvà ils 20 d'avrigl 2021
 
 #### Art. 79
 
@@ -799,11 +802,11 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **Transmissiun da l'autorisaziun da participaziun**
 
-<sup>1</sup> Sch'ina chatschadra u in chatschader sa retira da la chatscha da capricorns fin ils 31 da fanadur, vegn transferida sia autorisaziun da participaziun senza restricziuns sin l'onn proxim.
+<sup>1</sup> Sch'ina chatschadra u in chatschader sa retira da la chatscha da capricorns fin ils 30 da zercladur, vegn transferida sia autorisaziun da participaziun senza restricziuns sin l'onn proxim. Sch'ella u el na va betg a chatscha l'onn suandant, vala la chatscha sco betg exequida e l'autorisaziun scroda.
 
-<sup>2</sup> Sch'ina chatschadra u in chatschader sa retira da la chatscha da capricorns a partir dal 1. d'avust, vegn transferida sia autorisaziun da participaziun mo pli en cas da malsogna u d'accident. L'autorisaziun vala 3 onns e po vegnir transferida ina giada durant quest temp.
+<sup>2</sup> Sch'ina chatschadra u in chatschader sa retira da la chatscha da capricorns a partir dal 1. da fanadur, vegn transferida sia autorisaziun da participaziun mo pli en cas da malsogna u d'accident, preschentond in attest dal medi. Sch'ella u el na va betg a chatscha l'onn suandant, vala la chatscha sco betg exequida e l'autorisaziun scroda.
 
-<sup>3</sup> Sch'ina chatschadra u in chatschader sto smetter cun la chatscha pervia da malsogna u d'accident, vegn transferida l'autorisaziun da sa participar a la chatscha da capricorns mo pli per ils dis da chatscha betg utilisads, uschenavant che la chatscha vegn smessa avant il terzultim di da chatscha. L'autorisaziun vala 3 onns e po vegnir transferida ina giada durant quest temp.
+<sup>3</sup> Sch'ina chatschadra u in chatschader sto smetter cun la chatscha pervia da malsogna u d'accident, vegn l'autorisaziun da sa participar a la chatscha da capricorns transferida sin l'onn suandant mo pli per ils dis da chatscha betg utilisads, uschenavant che la chatscha vegn smessa avant il terzultim di da chatscha. Sch'ella u el na va betg a chatscha l'onn suandant, vala la chatscha sco exequida e terminada en la classa da vegliadetgna attribuida.
 
 ## 5. Chatscha bassa
 
@@ -817,22 +820,22 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>2</sup> Valair valan las suandantas uras da tir:
 
-- a) dals 1 fin ils 15 d'october 2020 da las 07.00 fin las 19.30;
-- b) dals 16 fin ils 24 d'october 2020 da las 07.15 fin las 19.00;
-- c) dals 25 d'october fin ils 15 da november 2020 da las 06.45 fin las 17.30;
-- d) dals 16 fin ils 30 da november 2020 da las 07.00 fin las 17.30.
+- a) dals 1 fin ils 15 d'october 2021 da las 07.00 fin las 19.30;
+- b) dals 16 fin ils 30 d'october 2021 da las 07.15 fin las 19.00;
+- c) dals 31 d'october fin ils 15 da november 2021 da las 06.45 fin las 17.30;
+- d) dals 16 fin ils 30 da november 2021 da las 07.00 fin las 17.30.
 
 #### Art. 83
 
 **Selvaschina permessa**
 
-<sup>1</sup> Vegnir sajettads dastgan lieurs brinas, lieurs alvas, vulps, tais, fiergnas noblas, fiergnas alvas, chauns-vulp, ursets americans, ratuns-mustgat (undatras), cots da draussa, urblaunas, tiduns, columbas da chasa daventadas selvadias, corvs gronds, corvs nairs, corvs grischs, giazlas, sgragias, cormorans, pernischs da l'aua ed andas selvadias.
+<sup>1</sup> Vegnir sajettads dastgan lieurs brinas, lieurs alvas, vulps, tais, fiergnas noblas, fiergnas alvas, chauns-vulp, ursets americans, ratuns-mustgat (ondatras), cots da draussa, urblaunas, tiduns, columbas da chasa daventadas selvadias, corvs gronds, corvs nairs, corvs grischs, giazlas, sgragias, cormorans, pernischs da l'aua ed andas selvadias.
 
 #### Art. 84
 
 **Restricziuns localas**
 
-<sup>1</sup> Dal 1. fin e cun ils 10 d'october e dals 23 fin e cun ils 31 d'october 2020 dastgan vulps, tais, fiergnas noblas, fiergnas alvas, ursets americans, chauns-vulp e ratuns-mustgat (undatras) vegnir sajettads senza restricziuns da temp en ils districts da chatscha I, II, III, V, VI, X, XI e XII.
+<sup>1</sup> Dals 13 fin e cun ils 28 d'october 2021 dastgan vulps, tais, fiergnas noblas, fiergnas alvas, ursets americans, chauns-vulp e ratuns-mustgat (ondatras) vegnir sajettads senza restricziuns da temp en ils districts da chatscha I, II, III, V, VI, X, XI e XII.
 
 <sup>2</sup> Ils districts da chatscha respectivamain las regiuns da chatscha correspundan a la divisiun tenor l'agiunta 4.
 
@@ -856,7 +859,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **Restricziun temporala, contingent**
 
-<sup>1</sup> Dals 21 da november fin e cun ils 30 da november 2020 na dastgan vegnir sajettadas naginas lieurs.
+<sup>1</sup> Dals 21 da november fin e cun ils 30 da november 2021 na dastgan vegnir sajettadas naginas lieurs.
 
 <sup>2</sup> Mintga chatschadra e chatschader dastga sajettar totalmain otg lieurs, il medem di dentant maximalmain duas lieurs.
 
@@ -882,7 +885,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 <sup>2</sup> Mintga chatschadra e chatschader dastga sajettar il medem di maximalmain duas urblaunas e durant l'entira chatscha bassa maximalmain diesch urblaunas.
 
-<sup>3</sup> Da mintga urblauna sajettada ston vegnir consegnadas provas da plimas (alas, plimas da las alas u pliras plimas dal corp). Questas provas ston mintgamai vegnir conservadas separadamain en in satg da plastic; las alas ston vegnir schelentadas e vegnir tramessas fin e cun ils 7 da december 2020 a la surveglianza da chatscha ensemen cun las indicaziuns davart la data ed il lieu da la sajettada. Il formular uffizial dal protocol[^89-1] sto vegnir emplenì cumplettamain, cun las coordinatas.
+<sup>3</sup> Da mintga urblauna sajettada ston vegnir consegnadas provas da plimas (alas, plimas da las alas u pliras plimas dal corp). Questas provas ston mintgamai vegnir conservadas separadamain en in satg da plastic; las alas ston vegnir schelentadas e vegnir tramessas entaifer 5 dis suenter la fin da la chatscha bassa a la surveglianza da chatscha ensemen cun las indicaziuns davart la data ed il lieu da la sajettada. Il formular uffizial dal protocol[^89-1] sto vegnir emplenì cumplettamain, cun las coordinatas.
 
 [^89-1]: Formular da protocol per consegnar provas da plimas d'urblaunas sajettadas
 
@@ -912,7 +915,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **Temps da chatscha ed uras da tir**
 
-<sup>1</sup> La chatscha da guetta dura dal 1. da november 2020 fin e cun ils 28 da favrer 2021, cun ina interrupziun durant Nadal (24 da december fin e cun ils 26 da december). La chatscha da guetta dastga vegnir exercitada da las 17.30 fin las 06.30.
+<sup>1</sup> La chatscha da guetta dura dal 1. da november 2021 fin e cun ils 28 da favrer 2022, cun ina interrupziun durant Nadal (24 da december fin e cun ils 26 da december). La chatscha da guetta dastga vegnir exercitada da las 17.30 fin las 06.30.
 
 #### Art. 93
 
@@ -924,7 +927,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **Selvaschina permessa, restricziun temporala e locala**
 
-<sup>1</sup> Vegnir sajettads dastgan vulps (fin ils 28 da favrer 2021), tais (fin ils 15 da schaner 2021), fiergnas noblas e fiergnas alvas (fin ils 15 da favrer 2021), chauns-vulp, ursets americans e ratuns-mustgat (undatras) (fin ils 28 da favrer 2021).
+<sup>1</sup> Vegnir sajettads dastgan vulps (fin ils 28 da favrer 2022), tais (fin ils 15 da schaner 2022), fiergnas noblas e fiergnas alvas (fin ils 15 da favrer 2022), chauns-vulp, ursets americans e ratuns-mustgat (ondatras) (fin ils 28 da favrer 2022).
 
 <sup>2</sup> En zonas da paus per la selvaschina ch'èn determinadas cun vigur legala è scumandada la chatscha da guetta. En territoris cun populaziuns permanentas da lufs po la surveglianza da chatscha abolir u scumandar lieus da guetta, sch'ina distanza adequata tar il territori d'abitadi na vegn betg resguardada.
 
@@ -932,7 +935,7 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 **Annunzia**
 
-<sup>1</sup> Chatschadras e chatschaders che van a chatscha da guetta ston annunziar ordavant ils lieus da guetta en scrit a la surveglianza da chatscha responsabla il pli tard fin ils 31 d'october da l'onn chalendar respectiv. En tut pon vegnir designads dus lieus.
+<sup>1</sup> Chatschadras e chatschaders che van a chatscha da guetta ston annunziar ordavant ils lieus da guetta en scrit a la surveglianza da chatscha responsabla il pli tard fin ils 31 d'october da l'onn chalendar respectiv. En tut pon vegnir designads trais lieus.
 
 <sup>2</sup> Las chatschadras ed ils chatschaders pon s'infurmar a partir dal 1. d'avust tar la surveglianza da chatscha davart l'admissibladad d'in lieu da guetta.
 
@@ -964,10 +967,4 @@ relaschada da la Regenza ils 30 da zercladur 2020
 
 [^98-1]: DG [740.000](https://www.gr-lex.gr.ch/data/740.000/rm)
 
-#### Art. 99
-
-**Disposiziuns transitoricas**
-
-<sup>1</sup> Il scumond da prender cun sai e da duvrar ballas cun plum per ir a chatscha auta, a chatscha speziala ed a chatscha da capricorns tenor l'artitgel 5 alinea 1 vala a partir dal 1. da settember 2021.
-
-2020-036
+2021-026
