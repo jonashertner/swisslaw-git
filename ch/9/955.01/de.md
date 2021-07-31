@@ -4,11 +4,11 @@ title: "Verordnung vom 11. November 2015 über die Bekämpfung der Geldwäschere
 short: GwV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/791"
 language: de
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2015-11-11
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2015-791-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2015-791-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20200101/de"
 
 (Geldwäschereiverordnung, GwV)
 
-vom 11. November 2015 (Stand am 1. Januar 2020)
+vom 11. November 2015 (Stand am 1. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -106,14 +106,26 @@ Nicht als Kreditgeschäft nach Artikel 2 Absatz 3 Buchstabe a GwG gelten insbeso
 Eine Dienstleistung für den Zahlungsverkehr nach Artikel 2 Absatz 3 Buchstabe b GwG liegt insbesondere vor, wenn der Finanzintermediär:
 
 - a. im Auftrag seiner Vertragspartei liquide Finanzwerte an eine Drittperson überweist und dabei diese Werte physisch in Besitz nimmt, sie sich auf einem eigenen Konto gutschreiben lässt oder die Überweisung der Werte im Namen und Auftrag der Vertragspartei anordnet;
-- b. nicht in Bargeld bestehende Zahlungsmittel ausgibt oder verwaltet und seine Vertragspartei damit an Dritte Zahlungen leistet;
-- c. das Geld- oder Wertübertragungsgeschäft durchführt.
+- b. hilft, virtuelle Währungen an eine Drittperson zu übertragen, sofern er mit der Vertragspartei eine dauernde Geschäftsbeziehung unterhält oder sofern er für die Vertragspartei Verfügungsmacht über virtuelle Währungen ausübt, und er die Dienstleistung nicht ausschliesslich gegenüber angemessen beaufsichtigten Finanzintermediären erbringt;
+- c. nicht in Bargeld bestehende Zahlungsmittel ausgibt oder verwaltet und seine Vertragspartei damit an Dritte Zahlungen leistet;
+- d. das Geld- oder Wertübertragungsgeschäft durchführt.[^4-1]
+
+<sup>1bis</sup>
+
+Als nicht in Bargeld bestehende Zahlungsmittel gelten insbesondere:
+
+- a. Kreditkarten;
+- b. Reisechecks;
+- c. virtuelle Währungen, die tatsächlich oder nach der Absicht des Organisators oder Herausgebers als Zahlungsmittel für den Erwerb von Waren oder Dienstleistungen eingesetzt werden oder der Geld- und Wertübertragung dienen.[^4-2]
 
 <sup>2</sup> Als Geld- oder Wertübertragungsgeschäft gilt der Transfer von Vermögenswerten durch Entgegennahme von Bargeld, Edelmetallen, virtuellen Währungen, Schecks oder sonstigen Zahlungsmitteln und:
 
 a. Auszahlung einer entsprechenden Summe in Bargeld, Edelmetallen oder virtuellen Währungen; oder
 
 b. bargeldlose Übertragung oder Überweisung über ein Zahlungs- oder Abrechnungssystem.
+
+[^4-1]: Fassung gemäss Ziff. I 8 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^4-2]: Eingefügt durch Ziff. I 8 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 5
 
@@ -583,7 +595,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annex2-lvlu1-2]
+...[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[AS 2009 6403](https://fedlex.data.admin.ch/eli/oc/2009/782)]
 [^annex2-lvlu1-2]: Die Änderungen können unter [AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)konsultiert werden.

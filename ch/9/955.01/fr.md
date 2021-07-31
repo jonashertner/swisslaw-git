@@ -4,11 +4,11 @@ title: "Ordonnance du 11 novembre 2015 sur la lutte contre le blanchiment d'arge
 short: OBA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/791"
 language: fr
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2015-11-11
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-791-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-791-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20200101/fr"
 
 (Ordonnance sur le blanchiment d’argent, OBA)
 
-du 11 novembre 2015 (Etat le 1<sup>er</sup> janvier 2020)
+du 11 novembre 2015 (Etat le 1<sup>er</sup> août 2021)
 
 Le Conseil fédéral suisse,
 
@@ -106,8 +106,17 @@ Ne sont notamment pas considérées comme opérations de crédit au sens de l’
 Il y a service dans le domaine du trafic des paiements au sens de l’art. 2, al. 3, let. b, LBA notamment lorsque l’intermédiaire financier:
 
 - a. sur mandat de son cocontractant, transfère des valeurs financières liquides à un tiers et prend lui-même physiquement possession de ces valeurs, les fait créditer sur son propre compte ou ordonne un virement au nom et sur ordre du cocontractant;
-- b. émet ou gère des moyens de paiement non liquides dont le cocontractant se sert pour payer des tiers;
-- c. opère des transmissions de fonds ou de valeurs.
+- b. aide à transférer des monnaies virtuelles à un tiers pour autant qu’il entretienne une relation d’affaires durable avec le cocontractant ou qu’il exerce un pouvoir de disposition sur les monnaies virtuelles pour le cocontractant et qu’il ne fournisse pas le service exclusivement à des intermédiaires financiers soumis à une surveillance adéquate;
+- c. émet ou gère des moyens de paiement non liquides dont le cocontractant se sert pour payer des tiers;
+- d. opère des transmissions de fonds ou de valeurs.[^4-1]
+
+<sup>1bis</sup>
+
+Font notamment partie des moyens de paiement non liquides:
+
+- a. les cartes de crédit;
+- b. les chèques de voyage;
+- c. les monnaies virtuelles qui sont utilisées effectivement ou selon l’intention de l’organisateur ou de l’émetteur comme moyens de paiement pour l’acquisition de marchandises ou de services ou qui servent à la transmission de fonds ou de valeurs.[^4-2]
 
 <sup>2</sup>
 
@@ -115,6 +124,9 @@ Par transmission de fonds ou de valeurs, on entend le transfert de valeurs patri
 
 - a. à payer la somme équivalente en espèces, métaux précieux ou monnaies virtuelles, ou
 - b. sans numéraire, à effectuer une transmission ou un virement par un système de paiement ou de compensation.
+
+[^4-1]: Nouvelle teneur selon le ch. I 8 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^4-2]: Introduit par le ch. I 8 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués,en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 5
 

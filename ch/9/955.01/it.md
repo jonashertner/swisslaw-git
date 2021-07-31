@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 novembre 2015 relativa alla lotta contro il riciclagg
 short: ORD
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/791"
 language: it
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2015-11-11
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2015-791-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2015-791-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20200101/it"
 
 (Ordinanza sul riciclaggio di denaro, ORD)
 
-dell’11 novembre 2015 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+dell’11 novembre 2015 (Stato 1° agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -106,8 +106,17 @@ Non sono considerate operazioni di credito ai sensi dell’articolo 2 capoverso 
 Si è in presenza di un servizio nel campo delle operazioni di pagamento ai sensi dell’articolo 2 capoverso 3 lettera b LRD in particolare se l’intermediario finanziario:
 
 - a. trasferisce valori finanziari liquidi a un terzo su mandato della controparte e in tale contesto prende possesso fisicamente di tali valori, li fa accreditare su un conto proprio oppure ne ordina il trasferimento in nome e su mandato della controparte;
-- b. emette o amministra mezzi di pagamento che non consistono in denaro contante, utilizzati dalla controparte per effettuare pagamenti a terzi;
-- c. effettua operazioni di trasferimento di denaro o di valori.
+- b. contribuisce al trasferimento di valute virtuali a un terzo, purché mantenga una relazione d’affari continua con la controparte o eserciti la facoltà di disporre di valute virtuali, e non fornisce il servizio esclusivamente a intermediari finanziari adeguatamente sottoposti a vigilanza;
+- c. emette o amministra mezzi di pagamento che non consistono in denaro contante, utilizzati dalla controparte per effettuare pagamenti a terzi;
+- d. effettua operazioni di trasferimento di denaro o di valori.[^4-1]
+
+<sup>1bis</sup>
+
+Sono considerati mezzi di pagamento che non consistono in denaro in particolare:
+
+- a. carte di credito;
+- b. assegni di viaggio;
+- c. valute virtuali impiegate a tutti gli effetti o nelle intenzioni dell’organizzatore o dell’emittente come mezzo di pagamento per l’acquisto di beni o servizi oppure per il trasferimento di denaro e di valori.[^4-2]
 
 <sup>2</sup>
 
@@ -115,6 +124,9 @@ Per trasferimento di denaro o di valori si intende il trasferimento di valori pa
 
 - a. il pagamento di una somma corrispondente in contanti, metalli preziosi o valute virtuali; o
 - b. il trasferimento scritturale o il bonifico mediante un sistema di pagamento o di conteggio.
+
+[^4-1]: Nuovo testo giusta il n. I 8 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^4-2]: Introdotto dal n. I 8 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 5
 
