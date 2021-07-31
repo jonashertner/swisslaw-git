@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2020-07-14
+version: 2021-08-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20200714/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20200714-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20200714/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20200714/de"
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 14. Juli 2020)
+vom 27. Mai 2020 (Stand am 1. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1741,16 +1741,18 @@ Anhang 1
 - 1\. Flughafen Zürich
 - 2\. Flughafen Genf
 
-Anhang 2
+Anhang 2*[^t-1]*
 
 (Art. 37 Abs. 1, 38 Abs. 1 Bst. b, 2 und 5)
 
 ## Lebensmittel nicht tierischer Herkunft aus bestimmten Ländern, die vorübergehend verstärkten amtlichen Kontrollen nach den Artikeln 37−43 unterliegen
 
-- 1\. Sämtliche Lebensmittel, die im Anhang I der Durchführungsverordnung (EU) 2019/1793[^annex2-lvlu1-1] aufgeführt sind.
+[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 427](https://fedlex.data.admin.ch/eli/oc/2021/427)).
+
+- 1\. Sämtliche Lebensmittel, die in Anhang I der Durchführungsverordnung (EU) 2019/1793[^annex2-lvlu1-1] aufgeführt sind.
 - 2\. Probenahme und Analytik richtet sich nach Anhang III der Durchführungsverordnung, falls in Anhang I der Durchführungsverordnung darauf verwiesen wird.
 
-[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89.
+[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch die Durchführungsverordnung (EU) 2021/608, ABl. L 129 vom 15.04.2021, S. 119.
 
 Anhang 3
 
