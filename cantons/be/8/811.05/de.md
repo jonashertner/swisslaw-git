@@ -4,13 +4,12 @@ number: "811.05"
 title: Verordnung über die Kantonale Ethikkommission für die Forschung
 short: KEKV
 language: de
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+version_adopted: 2021-06-30
 adopted: 2014-08-20
 in_force: 2014-09-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.05"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2123/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2316/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2123/pdf_file"
 
 (KEKV)
 
-vom 20.08.2014 (Stand 01.03.2021)
+vom 20.08.2014 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -39,7 +38,7 @@ beschliesst:
 
 <sup>2</sup> Sie verfügt über ein wissenschaftliches Sekretariat.
 
-<sup>3</sup> Sie steht unter der Aufsicht der Gesundheits-, Sozial- und Integrationsdirektion und ist dem Kantonsapothekeramt administrativ zugeordnet.
+<sup>3</sup> Sie steht unter der Aufsicht der Gesundheits-, Sozial- und Integrationsdirektion und ist dem Gesundheitsamt administrativ zugeordnet.
 
 <sup>4</sup> Die Gesundheits-, Sozial- und Integrationsdirektion und die KEK Bern schliessen in Absprache mit der Bildungs- und Kulturdirektion eine Leistungsvereinbarung im Sinne von Artikel 22 des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG)[^1-1] ab.
 
@@ -85,7 +84,7 @@ beschliesst:
 
 <sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter des wissenschaftlichen Sekretariats werden nach den Bestimmungen der kantonalen Personalgesetzgebung durch die Gesundheits-, Sozial- und Integrationsdirektion angestellt.
 
-<sup>3</sup> Die Präsidentin oder der Präsident der KEK Bern führt das periodische Mitarbeitergespräch mit der Leiterin oder dem Leiter des wissenschaftlichen Sekretariats durch, wobei sie oder er vorgängig die Kantonsapothekerin oder den Kantonsapotheker bezüglich Anliegen organisatorischer Art konsultiert.
+<sup>3</sup> Die Präsidentin oder der Präsident der KEK Bern führt das periodische Mitarbeitergespräch mit der Leiterin oder dem Leiter des wissenschaftlichen Sekretariats durch, wobei sie oder er vorgängig das Gesundheitsamt bezüglich Anliegen organisatorischer Art konsultiert.
 
 <sup>4</sup> Die Leiterin oder der Leiter des wissenschaftlichen Sekretariats führt das periodische Mitarbeitergespräch mit den übrigen Mitarbeiterinnen und Mitarbeitern des wissenschaftlichen Sekretariats durch.
 

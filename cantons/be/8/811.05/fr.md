@@ -4,13 +4,12 @@ number: "811.05"
 title: Ordonnance sur la Commission cantonale d’éthique de la recherche
 short: OCCER
 language: fr
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+version_adopted: 2021-06-30
 adopted: 2014-08-20
 in_force: 2014-09-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.05"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2123/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2316/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2123/pdf_file"
 
 (OCCER)
 
-du 20.08.2014 (état au 01.03.2021)
+du 20.08.2014 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -39,7 +38,7 @@ arrête:
 
 <sup>2</sup> Elle est dotée d’un secrétariat scientifique.
 
-<sup>3</sup> Elle est soumise à la surveillance de la Direction de la santé, des affaires sociales et de l’intégration et est rattachée administrativement à l’Office du pharmacien cantonal.
+<sup>3</sup> Elle est soumise à la surveillance de la Direction de la santé, des affaires sociales et de l’intégration et est rattachée administrativement à l’Office de la santé (ODS).
 
 <sup>4</sup> La Direction de la santé, des affaires sociales et de l’intégration et la commission d’éthique concluent, en accord avec la Direction de l’instruction publique et de la culture, un contrat de prestations au sens de l’article 22 de la loi du 20 juin 1995 sur l’organisation du Conseil-exécutif et de l’administration (loi d’organisation, LOCA)[^1-1].
 
@@ -87,7 +86,7 @@ arrête:
 
 <sup>2</sup> Le personnel du secrétariat scientifique est engagé par la Direction de la santé, des affaires sociales et de l’intégration selon les dispositions de la législation cantonale sur le personnel.
 
-<sup>3</sup> Le président ou la présidente de la commission d’éthique conduit l’entretien d’évaluation périodique avec le directeur ou la directrice du secrétariat scientifique après consultation du pharmacien cantonal ou de la pharmacienne cantonale concernant les questions d’organisation.
+<sup>3</sup> Le président ou la présidente de la commission d’éthique conduit l’entretien d’évaluation périodique avec le directeur ou la directrice du secrétariat scientifique après consultation de l'ODS concernant les questions d’organisation.
 
 <sup>4</sup> Le directeur ou la directrice du secrétariat scientifique conduit les entretiens d’évaluation périodiques avec les autres collaborateurs et collaboratrices du secrétariat scientifique.
 
