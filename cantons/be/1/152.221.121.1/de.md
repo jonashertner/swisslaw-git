@@ -4,13 +4,13 @@ number: "152.221.121.1"
 title: Verordnung über die Fachkommissionen
 short: "Fachkommissionenverordnung, FKV"
 language: de
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-30
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.121.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2116/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2337/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2116/pdf_file"
 
 (Fachkommissionenverordnung, FKV)
 
-vom 24.10.2001 (Stand 01.03.2021)
+vom 24.10.2001 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -146,7 +146,7 @@ beschliesst:
 
 **Sekretariat**
 
-<sup>1</sup> Das Sekretariat wird durch das Kantonsarztamt der Gesundheits-, Sozial- und Integrationsdirektion geführt.
+<sup>1</sup> Das Sekretariat wird durch das Gesundheitsamt der Gesundheits-, Sozial- und Integrationsdirektion geführt.
 
 ## 6 Übergangs- und Schlussbestimmungen
 

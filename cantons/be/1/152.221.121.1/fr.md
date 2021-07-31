@@ -4,13 +4,13 @@ number: "152.221.121.1"
 title: Ordonnance sur les commissions spécialisées
 short: OCom
 language: fr
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-30
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.121.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2116/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2337/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +19,13 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2116/pdf_file"
 
 (OCom)
 
-du 24.10.2001 (état au 01.03.2021)
+du 24.10.2001 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l'article 9, alinéas 2 et 3 de la loi du 2 décembre 1984 sur la santé publique (LSP)[^ingress-1], sur proposition de la Direction de la santé publique et de la prévoyance sociale,
+vu l'article 9, alinéas 2 et 3 de la loi du 2 décembre 1984 sur la santé publique (LSP)[^ingress-1],
+
+sur proposition de la Direction de la santé publique et de la prévoyance sociale,
 
 arrête:
 
@@ -144,7 +146,7 @@ arrête:
 
 **Secrétariat**
 
-<sup>1</sup> Le secrétariat est assuré par l'Office du médecin cantonal de la Direction de la santé, des affaires sociales et de l’intégration.
+<sup>1</sup> Le secrétariat est assuré par l'Office de la santé de la Direction de la santé, des affaires sociales et de l’intégration.
 
 ## 6 Dispositions transitoires et dispositions finales
 
@@ -152,7 +154,7 @@ arrête:
 
 **Désignation de la Commission spécialisée pour les médecines douces**
 
-<sup>1</sup> La Commission spécialisée pour les médecines douces selon l'article 16 doit être instituée le 1 er juin 2002 au plus tard.
+<sup>1</sup> La Commission spécialisée pour les médecines douces selon l'article 16 doit être instituée le 1<sup>er</sup> juin 2002 au plus tard.
 
 #### Art. 19
 
@@ -164,7 +166,7 @@ arrête:
 
 **Entrée en vigueur**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1er janvier 2002.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2002.
 
 Berne, le 24 octobre 2001
 
