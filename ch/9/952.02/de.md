@@ -4,11 +4,11 @@ title: "Verordnung vom 30. April 2014 über die Banken und Sparkassen (Bankenver
 short: BankV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: de
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2014-273-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2014-273-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20200101/de"
 
 (Bankenverordnung, BankV)
 
-vom 30. April 2014 (Stand am 1. Januar 2020)
+vom 30. April 2014 (Stand am 1. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -60,7 +60,7 @@ Diese Verordnung regelt namentlich:
 
 ### (Art. 1 Abs. 1 BankG)
 
-<sup>1</sup> …[^2-1]
+<sup>1</sup> ...[^2-1]
 
 <sup>2</sup>
 
@@ -102,20 +102,24 @@ Die Funktionen einer Gruppengesellschaft sind für die bewilligungspflichtigen T
 
 **Finanzbereich**
 
-### (Art. 3*c* Abs. 1 Bst. b BankG)
+### (Art. 1*a*, 1*b* Abs. 1 und 3*c* Abs. 1 Bst. b BankG)
+
+[^4-1]
 
 <sup>1</sup>
 
 Im Finanzbereich tätig ist, wer:
 
-- a. Finanzdienstleistungen erbringt oder vermittelt, insbesondere für sich selbst oder für Dritte das Einlagen- oder Kreditgeschäft, den Effektenhandel, das Kapitalanlagegeschäft oder die Vermögensverwaltung betreibt;
+- a.[^4-2] Dienstleistungen für Finanzgeschäfte erbringt oder vermittelt, insbesondere für sich selbst oder für Dritte das Einlagen- oder Kreditgeschäft, den Effektenhandel, das Kapitalanlagegeschäft oder die Vermögensverwaltung betreibt oder kryptobasierte Vermögenswerte nach Artikel 5*a* entgegennimmt;
 - b. qualifizierte Beteiligungen überwiegend an im Finanzbereich tätigen Unternehmen hält (Holdinggesellschaft); oder
-- c.[^4-1] eine wesentliche Gruppengesellschaft nach Artikel 3*a* ist.
+- c.[^4-3] eine wesentliche Gruppengesellschaft nach Artikel 3*a* ist.
 
-<sup>2</sup> Die Tätigkeit der Versicherungsunternehmen (Versicherungsbereich) wird der Tätigkeit im Finanzbereich gleichgestellt, sofern diese Verordnung oder die Eigenmittelverordnung vom 1. Juni 2012[^4-2] (ERV) für diese Unternehmen keine abweichenden Regelungen vorsieht.
+<sup>2</sup> Die Tätigkeit der Versicherungsunternehmen (Versicherungsbereich) wird der Tätigkeit im Finanzbereich gleichgestellt, sofern diese Verordnung oder die Eigenmittelverordnung vom 1. Juni 2012[^4-4] (ERV) für diese Unternehmen keine abweichenden Regelungen vorsieht.
 
-[^4-1]: Eingefügt durch Ziff. III der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
-[^4-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^4-1]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^4-2]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^4-3]: Eingefügt durch Ziff. III der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^4-4]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
 #### Art. 5
 
@@ -149,7 +153,7 @@ Nicht als Einlagen gelten:
 - a. Gelder, die eine Gegenleistung aus einem Vertrag auf Übertragung des Eigentums oder aus einem Dienstleistungsvertrag darstellen oder als Sicherheitsleistung übertragen werden;
 - b.[^5-1]
 
-  Anleihensobligationen und andere vereinheitlichte und massenweise ausgegebene Schuldverschreibungen oder nicht verurkundete Rechte mit gleicher Funktion (Wertrechte), wenn die Gläubigerinnen und Gläubiger zum Zeitpunkt des Angebots in einer der Formen nach Artikel 64 Absatz 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^5-2] Aufschluss erhalten über:
+  Anleihensobligationen und andere vereinheitlichte und massenweise ausgegebene Schuldverschreibungen oder nicht verurkundete Rechte mit gleicher Funktion (Wertrechte), wenn die Gläubigerinnen und Gläubiger zum Zeitpunkt des Angebots in einer der Formen nach Artikel 64 Absatz 3 des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^5-2] (FIDLEG) Aufschluss erhalten über:[^5-3]
 
   - 1\. den Namen, den Sitz und den in einer kurzen Umschreibung dargelegten Zweck des Emittenten,
   - 2\. den Zinssatz, den Ausgabepreis, die Zeichnungsfrist, das Liberierungsdatum, die Laufzeit und die Rückzahlungsbedingungen,
@@ -157,56 +161,92 @@ Nicht als Einlagen gelten:
   - 4\. die bestellten Sicherheiten,
   - 5\. die Vertretung der Anleihensgläubiger, soweit in den Anlagebedingungen enthalten;
 
-- c.[^5-3]
+- c.[^5-4]
 
-  Habensaldi auf Kundenkonti von Effekten- oder Edelmetallhändlern, Vermögensverwaltern oder ähnlichen Unternehmen, die einzig der Abwicklung von Kundengeschäften dienen, wenn:
+  nicht verzinste und einzig der Abwicklung von Kundengeschäften dienende Habensaldi auf Kundenkonti:
 
-  - 1\. dafür kein Zins bezahlt wird, und
-  - 2\. sofern es sich nicht um Kundenkonti von Effektenhändlern handelt: die Abwicklung innert 60 Tagen erfolgt;
+  - 1\. von Edelmetallhändlern, Vermögensverwaltern oder ähnlichen Unternehmen, sofern die Abwicklung innert 60 Tagen erfolgt, oder
+  - 2\. von Wertpapierhäusern oder von Handelssystemen für Distributed Ledger Technology-Effekten (DLT-Handelssystemen) nach Artikel 73*a* des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^5-5] (FinfraG);
 
-- d. Gelder, deren Entgegennahme in einem untrennbaren Zusammenhang mit einem Lebensversicherungsvertrag, der beruflichen Vorsorge oder anderen anerkannten Vorsorgeformen nach Artikel 82 des Bundesgesetzes vom 25. Juni 1982[^5-4] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge steht;
+- d. Gelder, deren Entgegennahme in einem untrennbaren Zusammenhang mit einem Lebensversicherungsvertrag, der beruflichen Vorsorge oder anderen anerkannten Vorsorgeformen nach Artikel 82 des Bundesgesetzes vom 25. Juni 1982[^5-6] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge steht;
 - e. Gelder, die in geringem Umfang einem Zahlungsmittel oder Zahlungssystem zugeführt werden und einzig dem künftigen Bezug von Waren oder Dienstleistungen dienen und für die kein Zins bezahlt wird;
 - f. Gelder, deren Rückzahlung und Verzinsung durch eine Bank garantiert werden (Ausfallgarantie).
 
 [^5-1]: Fassung gemäss Anhang 11 Ziff. 2 der Finanzdienstleistungsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^5-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^5-3]: Fassung gemäss Ziff. I der V vom 5. Juli 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3823](https://fedlex.data.admin.ch/eli/oc/2017/454)).
-[^5-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^5-3]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^5-4]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^5-5]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-6]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+#### Art. 5a
+
+**Kryptobasierte Vermögenswerte im Sinne von Artikel 1*b* Absatz 1 BankG**[^5a-1]
+
+### (Art. 1*b* Abs. 1 BankG)
+
+<sup>1</sup> Kryptobasierte Vermögenswerte im Sinne von Artikel 1*b* Absatz 1 Buchstabe a BankG sind Vermögenswerte nach Artikel 16 Ziffer 1<sup>bis</sup> Buchstabe b BankG (sammelverwahrte kryptobasierte Vermögenswerte), die tatsächlich oder nach der Absicht des Organisators oder Herausgebers in einem erheblichen Umfang als Zahlungsmittel für den Erwerb von Waren oder Dienstleistungen oder der Geld- oder Wertübertragung dienen.
+
+<sup>2</sup>
+
+Nicht als kryptobasierte Vermögenswerte nach Absatz 1 gelten Vermögenswerte:
+
+- a.
+
+  die als nicht verzinste und einzig der Abwicklung von Kundengeschäften dienende Habensaldi auf Kundenkonti gehalten werden:
+
+  - 1\. von Edelmetallhändlern, Vermögensverwaltern oder ähnlichen Unternehmen, sofern die Abwicklung innert 60 Tagen erfolgt, oder
+  - 2\. von Wertpapierhäusern oder von DLT-Handelssystemen;
+
+- b. von in- und ausländischen Banken oder anderen staatlich beaufsichtigten Unternehmen;
+- c. von institutionellen Anlegern mit professioneller Tresorerie.
+
+[^5a-1]: Eingefügt durch Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 6
 
 **Gewerbsmässigkeit**[^6-1]
 
-<sup>1</sup> Gewerbsmässig im Sinne des BankG handelt, wer dauernd mehr als 20 Publikumseinlagen entgegennimmt oder sich öffentlich zur Entgegennahme von Publikumseinlagen empfiehlt, selbst wenn daraus weniger als 20 Einlagen resultieren.
+<sup>1</sup>
+
+Gewerbsmässig im Sinne des BankG handelt, wer:
+
+- a. dauernd mehr als 20 Publikumseinlagen oder sammelverwahrte kryptobasierte Vermögenswerte entgegennimmt; oder
+- b. sich öffentlich zur Entgegennahme von Publikumseinlagen oder sammelverwahrten kryptobasierten Vermögenswerten empfiehlt, selbst wenn in der Folge weniger als 20 Publikumseinlagen oder kryptobasierte Vermögenswerte entgegengenommen werden.[^6-2]
 
 <sup>2</sup>
 
-Nicht gewerbsmässig im Sinne des BankG handelt, wer dauernd mehr als 20 Publikumseinlagen entgegennimmt oder sich öffentlich dafür empfiehlt, wenn er:
+Nicht gewerbsmässig im Sinne des BankG handelt, wer dauernd mehr als 20 Publikumseinlagen oder sammelverwahrte kryptobasierte Vermögenswerte entgegennimmt oder sich öffentlich dafür empfiehlt, wenn er:[^6-3]
 
-- a. Publikumseinlagen von gesamthaft höchstens 1 Million Franken entgegennimmt;
+- a.[^6-4] Publikumseinlagen oder sammelverwahrte kryptobasierte Vermögenswerte von gesamthaft höchstens 1 Million Franken entgegennimmt;
 - b. kein Zinsdifferenzgeschäft betreibt; und
 - c.
 
   die Einlegerinnen und Einleger, bevor sie die Einlage tätigen, schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, darüber informiert, dass:
 
   - 1\. er von der FINMA nicht beaufsichtigt wird, und
-  - 2\. die Einlage nicht von der Einlagensicherung erfasst wird.[^6-2]
+  - 2\. die Einlage nicht von der Einlagensicherung erfasst wird.[^6-5]
 
-<sup>3</sup> …[^6-3]
+<sup>3</sup> ...[^6-6]
 
 <sup>4</sup> Wird der Schwellenwert nach Absatz 2 Buchstabe a überschritten, so muss dies innerhalb von 10 Tagen der FINMA gemeldet und ihr innerhalb von 30 Tagen ein Bewilligungsgesuch nach den Vorschriften des BankG eingereicht werden. Die FINMA kann, sofern es der Schutzzweck des BankG gebietet, der Gesuchstellerin oder dem Gesuchsteller untersagen, bis zum Entscheid über das Bewilligungsgesuch weitere Publikumseinlagen entgegenzunehmen.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 5. Juli 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3823](https://fedlex.data.admin.ch/eli/oc/2017/454)).
-[^6-2]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. April 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^6-3]: Aufgehoben durch Ziff. I der V vom 30. Nov. 2018, mit Wirkung seit 1. April 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^6-2]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^6-3]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^6-4]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^6-5]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. April 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^6-6]: Aufgehoben durch Ziff. I der V vom 30. Nov. 2018, mit Wirkung seit 1. April 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
 #### Art. 7
 
-**Werbung**
+**Werbung**[^7-1]
 
-### (Art. 1 Abs. 2, 6*a* Abs. 3 BankG)
+### (Art. 1 Abs. 2 und 6*a* Abs. 3 BankG)
 
-Wem es untersagt ist, gewerbsmässig Publikumseinlagen entgegenzunehmen, der darf auf keine Art und Weise dafür Werbung treiben.
+Wem es untersagt ist, gewerbsmässig Publikumseinlagen oder sammelverwahrte kryptobasierte Vermögenswerte entgegenzunehmen, der darf auf keine Art und Weise dafür Werbung treiben.
+
+[^7-1]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 7a
 
@@ -219,7 +259,7 @@ Wem es untersagt ist, gewerbsmässig Publikumseinlagen entgegenzunehmen, der dar
 Personen nach Artikel 1*b* BankG informieren ihre Kundinnen und Kunden schriftlich oder in einer anderen Form, die den Nachweis der Information durch Text ermöglicht:
 
 - a. über die mit ihrem Geschäftsmodell, ihren Dienstleistungen und den verwendeten Technologien verbundenen Risiken;
-- b. darüber, dass für die Publikumseinlagen keine Einlagensicherung nach dem dreizehnten Abschnitt des BankG besteht.
+- b.[^7a-2] darüber, dass für die Publikumseinlagen oder die sammelverwahrten kryptobasierten Vermögenswerte keine Einlagensicherung nach dem dreizehnten Abschnitt des BankG besteht.
 
 <sup>2</sup> Die Kundinnen und Kunden sind so zu informieren, dass ihnen vor Vertragsschluss genügend Zeit bleibt, um die Informationen mit Blick auf den Vertragsschluss zu verstehen.
 
@@ -230,6 +270,21 @@ Personen nach Artikel 1*b* BankG informieren ihre Kundinnen und Kunden schriftli
 <sup>5</sup> Als dauerhafter Datenträger gilt Papier und jedes andere Medium, das die Speicherung und unveränderte Wiedergabe einer Information ermöglicht.
 
 [^7a-1]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^7a-2]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+#### Art. 7b
+
+**Vertretungen**[^7b-1]
+
+### (Art. 2 BankG)
+
+Die Vertretung einer ausländischen Bank, die Finanzdienstleistungen nach Artikel 3 Buchstabe c FIDLEG[^7b-2] erbringt, muss:
+
+- a. die Bestimmungen des FIDLEG einhalten;
+- b. ihre Kundenberaterinnen und -berater in ein Beraterregister nach Artikel 28 FIDLEG eintragen lassen, wenn diese ihre Dienstleistungen in der Schweiz nicht ausschliesslich gegenüber professionellen oder institutionellen Kunden nach Artikel 4 FIDLEG erbringen.
+
+[^7b-1]: Eingefügt durch Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^7b-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 
 ## 2. Kapitel: Bewilligungen
 
@@ -443,13 +498,13 @@ Die FINMA kann im Einzelfall Personen nach Artikel 1*b* BankG Erleichterungen vo
 
 #### Art. 14f
 
-**Verwahren der Publikumseinlagen**
+**Verwahren der Publikumseinlagen und kryptobasierten Vermögenswerte[^14f-1]**
 
 ### (Art. 1*b* Abs. 3 Bst. b BankG)
 
 <sup>1</sup>
 
-Personen nach Artikel 1*b* BankG müssen die entgegengenommenen Publikumseinlagen:
+Personen nach Artikel 1*b* BankG müssen die entgegengenommenen Publikumseinlagen und sammelverwahrten kryptobasierten Vermögenswerte:[^14f-2]
 
 - a. getrennt von den eigenen Mitteln verwahren; oder
 - b. in ihren Büchern so erfassen, dass diese jederzeit separat von den eigenen Mitteln ausgewiesen werden können; in diesem Fall müssen sie eine ordentliche Revision nach Artikel 727 OR durchführen.
@@ -459,13 +514,24 @@ Personen nach Artikel 1*b* BankG müssen die entgegengenommenen Publikumseinlage
 Die Publikumseinlagen können gehalten werden:
 
 - a. als Sichteinlage bei einer Bank oder einer Person nach Artikel 1*b* BankG;
-- b. als qualitativ hochwertige, liquide Aktiva der Kategorie 1 gemäss Artikel 15*a* der Liquiditätsverordnung vom 30. November 2012[^14f-1] (LiqV).
+- b. als qualitativ hochwertige, liquide Aktiva der Kategorie 1 gemäss Artikel 15*a* der Liquiditätsverordnung vom 30. November 2012[^14f-3] (LiqV).
 
 <sup>3</sup> Sie sind in derjenigen Währung zu halten, in der die jeweiligen Rückforderungsansprüche der Kundinnen und Kunden bestehen.
 
-<sup>4</sup> Soweit Vermögenswerte, die auf elektronischer Verschlüsselung basieren, als Publikumseinlagen gelten, müssen sie in der Form gehalten werden, in der sie entgegengenommen wurden.
+<sup>4</sup>
 
-[^14f-1]: [SR 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+Kryptobasierte Vermögenswerte müssen wie folgt gehalten werden:
+
+- a. in der Schweiz;
+- b. in der Form, in der sie entgegengenommen wurden.[^14f-4]
+
+<sup>5</sup> Die FINMA kann in begründeten Einzelfällen Ausnahmen von der Pflicht nach Absatz 4 Buchstabe a gewähren.[^14f-5]
+
+[^14f-1]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^14f-2]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^14f-3]: [SR 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^14f-4]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^14f-5]: Eingefügt durch Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 14g
 
@@ -520,15 +586,16 @@ In besonderen Fällen kann die FINMA Ausnahmen von den Mindestkapitalvorschrifte
 
 ### (Art. 1*b* Abs. 3 Bst. c und 3 Abs. 2 Bst. b BankG)
 
-<sup>1</sup> Das Mindestkapital von Personen nach Artikel 1*b* BankG beträgt 3 Prozent der entgegengenommenen Publikumseinlagen gemäss Artikel 5, jedoch mindestens 300 000 Franken. Es muss voll einbezahlt sein und ist dauernd zu halten. Es darf nicht den qualifiziert Beteiligten oder diesen nahestehenden natürlichen oder juristischen Personen ausgeliehen oder in Beteiligungen investiert werden, die von diesen beherrscht werden.
+<sup>1</sup> Das Mindestkapital von Personen nach Artikel 1*b* BankG beträgt 3 Prozent der entgegengenommenen Publikumseinlagen und der entgegengenommenen sammelverwahrten kryptobasierten Vermögenswerte, jedoch mindestens 300 000 Franken. Es muss voll einbezahlt sein und ist dauernd zu halten. Es darf nicht den qualifiziert Beteiligten oder diesen nahestehenden natürlichen oder juristischen Personen ausgeliehen oder in Beteiligungen investiert werden, die von diesen beherrscht werden.[^17a-2]
 
 <sup>2</sup> Die FINMA regelt die Einzelheiten und kann im Einzelfall höhere Anforderungen an das Mindestkapital stellen, wenn dies aufgrund der mit dem Geschäft verbundenen Risiken als geboten erscheint.
 
-<sup>3</sup> Die Bestimmungen der ERV[^17a-2] und der LiqV[^17a-3] finden keine Anwendung auf Personen nach Artikel 1*b* BankG.
+<sup>3</sup> Die Bestimmungen der ERV[^17a-3] und der LiqV[^17a-4] finden keine Anwendung auf Personen nach Artikel 1*b* BankG.
 
 [^17a-1]: Eingefügt durch Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^17a-2]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^17a-3]: [SR 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^17a-2]: Fassung gemäss Ziff. I 5 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^17a-3]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17a-4]: [SR 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
 
 ### 4. Abschnitt: Grenzüberschreitende Sachverhalte
 
@@ -1585,7 +1652,7 @@ Anhang 2
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annex2-lvlu1-1]
+...[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2014 1269](https://fedlex.data.admin.ch/eli/oc/2014/273)konsultiert werden.
 

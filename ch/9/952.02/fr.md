@@ -4,11 +4,11 @@ title: "Ordonnance du 30 avril 2014 sur les banques et les caisses d'épargne (O
 short: OB
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: fr
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-273-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2014-273-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20200101/fr"
 
 (Ordonnance sur les banques, OB)
 
-du 30 avril 2014 (Etat le 1<sup>er</sup> janvier 2020)
+du 30 avril 2014 (Etat le 1<sup>er</sup> août 2021)
 
 Le Conseil fédéral suisse,
 
@@ -101,20 +101,24 @@ Les fonctions d’une société du groupe sont significatives pour les activité
 
 **Domaine financier**
 
-### (art. 3*c*, al. 1, let. b, LB)
+### (art. 1*a*, 1*b*, al. 1, et 3*c*, al. 1, let. b, LB)
+
+[^4-1]
 
 <sup>1</sup>
 
 Est actif dans le domaine financier, quiconque:
 
-- a. fournit pour compte propre ou à titre d’intermédiaire des services financiers, en particulier pratique pour lui-même ou pour des tiers les opérations de crédit ou de dépôt, le négoce des valeurs mobilières, les opérations de placement de capitaux ou la gestion de fortune;
+- a. [^4-2] fournit pour compte propre ou à titre d’intermédiaire des services destinés à des opérations financières, en particulier pratique pour lui-même ou pour des tiers les opérations de crédit ou de dépôt, le négoce des valeurs mobilières, les opérations de placement de capitaux ou la gestion de fortune ou accepte des cryptoactifs visés à l’art. 5*a*.
 - b. détient des participations qualifiées concernant principalement des sociétés actives dans le domaine financier (société holding), ou
-- c.[^4-1] est une société du groupe significative au sens de l’art. 3*a*.
+- c.[^4-3] est une société du groupe significative au sens de l’art. 3*a*.
 
-<sup>2</sup> L’activité en qualité d’entreprise d’assurances (domaine des assurances) est assimilée à une activité dans le domaine financier si la présente ordonnance ou l’ordonnance du 1<sup>er</sup> juin 2012 sur les fonds propres (OFR)[^4-2] ne prévoit pas de prescriptions dérogatoires pour ce type d’entreprise.
+<sup>2</sup> L’activité en qualité d’entreprise d’assurances (domaine des assurances) est assimilée à une activité dans le domaine financier si la présente ordonnance ou l’ordonnance du 1<sup>er</sup> juin 2012 sur les fonds propres (OFR)[^4-4] ne prévoit pas de prescriptions dérogatoires pour ce type d’entreprise.
 
-[^4-1]: Introduite par le ch. III de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
-[^4-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^4-1]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^4-2]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^4-3]: Introduite par le ch. III de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^4-4]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
 #### Art. 5
 
@@ -148,7 +152,7 @@ Ne sont pas considérés comme des dépôts:
 - a. les fonds reçus en contrepartie d’un contrat de transfert de propriété ou de prestations de services, ou remis à titre de garantie;
 - b.[^5-1]
 
-  les emprunts par obligations et les autres obligations émises sous une forme standardisée et diffusées en grand nombre ou les droits ayant la même fonction (droits-valeurs), si au moment de l’offre les créanciers sont informés des éléments suivants sous l’une des formes prévues à l’art. 64, al. 3, de la loi fédérale du 15 juin 2018 sur les services financiers[^5-2]:
+  les emprunts par obligations et les autres obligations émises sous une forme standardisée et diffusées en grand nombre ou les droits non titrisés ayant la même fonction (droits-valeurs), si au moment de l’offre les créanciers sont informés des éléments suivants sous l’une des formes prévues à l’art. 64, al. 3, de la loi fédérale du 15 juin 2018 sur les services financiers (LSFin)[^5-2]:[^5-3]
 
   - 1\. nom, siège et description succincte du but de l’émetteur,
   - 2\. taux d’intérêt, prix d’émission, délai de souscription, date de libération, durée et conditions de remboursement,
@@ -156,56 +160,90 @@ Ne sont pas considérés comme des dépôts:
   - 4\. sûretés fournies,
   - 5\. représentation des obligataires, si les conditions de placement en prévoient une;
 
-- c.[^5-3]
+- c.[^5-4]
 
-  les soldes en compte de clients auprès de négociants en valeurs mobilières ou en métaux précieux, auprès de gérants de fortune ou d’entreprises analogues qui servent uniquement à exécuter des opérations de clients si:
+  les soldes en compte de clients non rémunérés et servant uniquement à exécuter des opérations de clients:
 
-  - 1\. aucun intérêt n’est versé sur les comptes, et
-  - 2\. pour autant qu’il ne s’agisse pas de comptes clients de négociants en valeurs mobilières: l’exécution a lieu dans un délai de 60 jours;
+  - 1\. auprès de négociants en métaux précieux, de gérants de fortune ou d’entreprises analogues, pour autant que l’exécution ait lieu dans un délai de 60 jours;
+  - 2\. auprès de maisons de titres ou de systèmes de négociation pour les valeurs mobilières fondées sur la technologie des registres distribués au sens de l’art. 73*a* de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^5-5] (systèmes de négociation fondés sur la TRD);
 
-- d. les fonds dont l’acceptation est liée de manière indissoluble à un contrat d’assurance sur la vie, à la prévoyance professionnelle ou à d’autres formes reconnues de prévoyance au sens de l’art. 82 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^5-4];
+- d. les fonds dont l’acceptation est liée de manière indissoluble à un contrat d’assurance sur la vie, à la prévoyance professionnelle ou à d’autres formes reconnues de prévoyance au sens de l’art. 82 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^5-6];
 - e. les fonds de faible montant affectés à un moyen de paiement ou à un système de paiement, lorsqu’ils servent uniquement à l’acquisition future de biens ou de services et ne produisent pas d’intérêt;
 - f. les fonds dont le remboursement et la rémunération sont garantis par une banque (garantie du risque de défaillance).
 
 [^5-1]: Nouvelle teneur selon l’annexe 11 ch. 2 de l’O du 6 nov. 2019 sur les services financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^5-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^5-3]: Nouvelle teneur selon le ch. I de l’O du 5 juil. 2017, en vigueur depuis le 1<sup>er</sup> août 2017 ([RO 2017 3823](https://fedlex.data.admin.ch/eli/oc/2017/454)).
-[^5-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^5-3]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^5-4]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^5-5]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+#### Art. 5a
+
+**Cryptoactifs au sens de l’art. 1*b*, al. 1, LB**[^5a-1]
+
+### (art. 1*b*, al. 1, LB)
+
+<sup>1</sup> Les cryptoactifs au sens de l’art. 1*b*, al. 1, let. a, LB sont les actifs visés à l’art. 16, ch. 1<sup>bis</sup>, let. b, LB (cryptoactifs en dépôt collectif) qui sont utilisés dans une large mesure, effectivement ou selon l’intention de l’organisateur ou de l’émetteur, comme moyens de paiement pour l’acquisition de marchandises ou de services ou qui servent à la transmission de fonds ou de valeurs.
+
+<sup>2</sup>
+
+Ne sont pas réputés cryptoactifs au sens de l’al. 1 les actifs:
+
+- a.
+
+  qui sont détenus comme soldes en compte de clients non rémunérés et servant uniquement à exécuter des opérations de clients:
+
+  - 1\. auprès de négociants en métaux précieux, de gérants de fortune ou d’entreprises analogues, pour autant que l’exécution ait lieu dans un délai de 60 jours, ou
+  - 2\. auprès de maisons de titres ou de systèmes de négociation fondés sur la TRD;
+
+- b. de banques suisses ou étrangères ou d’autres entreprises faisant l’objet d’une surveillance de l’État;
+- c. d’investisseurs institutionnels dont la trésorerie est gérée à titre professionnel.
+
+[^5a-1]: Introduit par le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 6
 
 **Exercice d’une activité à titre professionnel**[^6-1]
 
-<sup>1</sup> Celui qui, sur une longue période, accepte plus de 20 dépôts du public ou fait appel au public pour obtenir des dépôts, même si le nombre de dépôts obtenus est inférieur à 20, agit à titre professionnel au sens de la LB.
+<sup>1</sup> Agit à titre professionnel au sens de la LB celui qui
+
+- a. accepte sur une longue période plus de 20 dépôts du public ou cryptoactifs en dépôt collectif, ou
+- b. fait appel au public pour obtenir des dépôts ou cryptoactifs en dépôt collectif, même s’il obtient par la suite moins de 20 dépôts du public ou cryptoactifs.[^6-2]
 
 <sup>2</sup>
 
-Celui qui, sur une longue période, accepte plus de 20 dépôts du public ou fait appel au public pour obtenir des dépôts n’agit pas à titre professionnel au sens de la LB:
+N’agit pas à titre professionnel au sens de la LB celui qui, sur une longue période, accepte plus de 20 dépôts du public ou cryptoactifs en dépôt collectif ou fait appel au public pour les obtenir:[^6-3]
 
-- a. s’il accepte des dépôts du public d’un montant total de 1 million de francs au maximum;
+- a. [^6-4] s’il accepte des dépôts du public ou des cryptoactifs en dépôt collectif d’un montant total de 1 million de francs au maximum;
 - b. s’il n’effectue pas d’opérations d’intérêts, et
 - c.
 
   s’il informe les déposants, en la forme écrite ou sous toute autre forme permettant d’en établir la preuve par un texte, avant que ceux-ci n’effectuent le dépôt:
 
   - 1\. qu’il n’est pas surveillé par la FINMA, et
-  - 2\. que le dépôt n’est pas couvert par la garantie des dépôts.[^6-2]
+  - 2\. que le dépôt n’est pas couvert par la garantie des dépôts.[^6-5]
 
-<sup>3</sup> ... [^6-3]
+<sup>3</sup> ... [^6-6]
 
 <sup>4</sup> Celui qui dépasse le montant indiqué à l’al. 2, let. a, doit l’annoncer dans les 10 jours à la FINMA et lui présenter dans les 30 jours une demande d’autorisation conformément aux dispositions de la LB. Si le but de protection de la LB l’exige, la FINMA peut interdire au demandeur d’accepter d’autres dépôts du public jusqu’à ce qu’elle ait rendu sa décision.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 5 juil. 2017, en vigueur depuis le 1<sup>er</sup> août 2017 ([RO 2017 3823](https://fedlex.data.admin.ch/eli/oc/2017/454)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^6-3]: Abrogé par le ch. I de l’O du 30 nov. 2018, avec effet au 1<sup>er</sup> avr. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^6-2]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^6-3]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^6-4]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^6-5]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^6-6]: Abrogé par le ch. I de l’O du 30 nov. 2018, avec effet au 1<sup>er</sup> avr. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
 #### Art. 7
 
-**Publicité**
+**Publicité**[^7-1]
 
 ### (art. 1, al. 2, 6*a*, al. 3, LB)
 
-Celui qui a l’interdiction d’accepter des dépôts du public à titre professionnel ne peut, de quelque manière que ce soit, faire de la publicité à cet effet.
+Celui qui a l’interdiction d’accepter des dépôts du public ou des cryptoactifs en dépôt collectif à titre professionnel ne peut, de quelque manière que ce soit, faire de la publicité à cet effet.
+
+[^7-1]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 7a
 
@@ -218,7 +256,7 @@ Celui qui a l’interdiction d’accepter des dépôts du public à titre profes
 Les personnes visées à l’art. 1*b* LB donnent à leurs clients des informations en la forme écrite ou sous toute autre forme permettant d’en établir la preuve par un texte:
 
 - a. sur les risques qui résultent de leur modèle d’affaires, de leurs services et des technologies qu’elles utilisent;
-- b. sur le fait que les dépôts du public ne sont pas couverts par la garantie des dépôts visée à la section 13 de la LB.
+- b.[^7a-2] sur le fait que les dépôts du public ou les cryptoactifs en dépôt collectif ne sont pas couverts par la garantie des dépôts visée à la section 13 de la LB.
 
 <sup>2</sup> L’information doit être donnée aux clients de manière à ce que ceux-ci aient suffisamment de temps pour la comprendre avant de conclure le contrat.
 
@@ -229,6 +267,21 @@ Les personnes visées à l’art. 1*b* LB donnent à leurs clients des informati
 <sup>5</sup> Par support de données durable, on entend le papier ou tout autre support permettant de stocker des informations et de les reproduire à l’identique.
 
 [^7a-1]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^7a-2]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+#### Art. 7b
+
+**Représentations**[^7b-1]
+
+### (art. 2 LB)
+
+La représentation d’une banque étrangère qui fournit des services financiers visés à l’art. 3, let. c, LSFin[^7b-2] doit:
+
+- a. respecter les dispositions de la LSFin;
+- b. inscrire ses conseillers à la clientèle dans le registre des conseillers prévu à l’art. 28 LSFin lorsque les services qu’ils fournissent en Suisse ne sont pas exclusivement destinés à des clients professionnels ou à des clients institutionnels au sens de l’art. 4 LSFin.
+
+[^7b-1]: Introduit par le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^7b-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 
 ## Chapitre 2 Autorisations
 
@@ -444,7 +497,7 @@ Dans certains cas particuliers, la FINMA peut assouplir les exigences énoncées
 
 #### Art. 14f
 
-**Garde des dépôts du public**
+**Garde des dépôts du public et des cryptoactifs[^14f-1]**
 
 ### (art. 1*b*, al. 3, let. b, LB)
 
@@ -452,21 +505,32 @@ Dans certains cas particuliers, la FINMA peut assouplir les exigences énoncées
 
 Les personnes visées à l’art. 1*b* LB doivent:
 
-- a. garder séparément de leurs fonds propres les dépôts du public qu’elles ont acceptés, ou
-- b. comptabiliser dans leurs livres ces dépôts de manière à ce qu’ils puissent être présentés en tout temps séparément de leurs fonds propres; dans ce cas, elles doivent se soumettre à un contrôle ordinaire au sens de l’art. 727 CO.
+- a. garder séparément de leurs fonds propres les dépôts du public et les cryptoactifs en dépôt collectif qu’elles ont acceptés, ou
+- b. comptabiliser dans leurs livres ces dépôts et ces cryptoactifs de manière à ce qu’ils puissent être présentés en tout temps séparément de leurs fonds propres; dans ce cas, elles doivent se soumettre à un contrôle ordinaire au sens de l’art. 727 CO.[^14f-2]
 
 <sup>2</sup>
 
 Les dépôts du public peuvent être gardés:
 
 - a. en tant que dépôts à vue auprès d’une banque ou d’une personne visée à l’art. 1*b* LB;
-- b. en tant qu’actifs liquides de haute qualité de la catégorie 1, visés à l’art. 15*a* de l’ordonnance du 30 novembre 2012 sur les liquidités (OLiq)[^14f-1].
+- b. en tant qu’actifs liquides de haute qualité de la catégorie 1, visés à l’art. 15*a* de l’ordonnance du 30 novembre 2012 sur les liquidités (OLiq)[^14f-3].
 
 <sup>3</sup> Ils doivent être gardés dans la monnaie dans laquelle les clients peuvent exercer leur droit au remboursement.
 
-<sup>4</sup> Si elles sont considérées comme des dépôts du public, les valeurs patrimoniales cryptographiques doivent être gardées sous la forme dans laquelle elles ont été acceptées.
+<sup>4</sup>
 
-[^14f-1]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+Les cryptoactifs doivent être gardés:
+
+- a. en Suisse;
+- b. sous la forme dans laquelle ils ont été acceptés.[^14f-4]
+
+<sup>5</sup> Dans certains cas justifiés, la FINMA peut accorder des dérogations à l’obligation prévue à l’al. 4, let. a.[^14f-5]
+
+[^14f-1]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^14f-2]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^14f-3]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^14f-4]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^14f-5]: Introduit par le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 14g
 
@@ -521,15 +585,16 @@ Dans certains cas, la FINMA peut autoriser des exceptions aux prescriptions en m
 
 ### (art. 1*b*, al. 3, let. c, et 3, al. 2, let. b, LB)
 
-<sup>1</sup> Le capital minimum des personnes visées à l’art. 1*b* LB s’élève à 3 % des dépôts du public au sens de l’art. 5 que celles-ci acceptent, mais au moins à 300 000 francs. Il doit être entièrement libéré et maintenu en permanence. Il ne doit pas être prêté aux détenteurs de participations qualifiées ou aux personnes physiques ou morales qui leur sont proches, ni être investi dans des participations que ces détenteurs ou personnes détiennent à titre majoritaire.
+<sup>1</sup> Le capital minimum des personnes visées à l’art. 1*b* LB s’élève à 3 % des dépôts du public et des cryptoactifs en dépôt collectif que celles-ci acceptent, mais au moins à 300 000 francs. Il doit être entièrement libéré et maintenu en permanence. Il ne doit pas être prêté aux détenteurs de participations qualifiées ou aux personnes physiques ou morales qui leur sont proches, ni être investi dans des participations que ces détenteurs ou personnes détiennent à titre majoritaire.[^17a-2]
 
 <sup>2</sup> La FINMA arrête les modalités et peut, dans certains cas particuliers, soumettre le capital minimum à des exigences plus élevées, si cela est nécessaire au vu des risques liés aux activités concernées.
 
-<sup>3</sup> Les dispositions de l’OFR[^17a-2] et de l’OLiq[^17a-3] ne s’appliquent pas aux personnes visées à l’art. 1*b* LB.
+<sup>3</sup> Les dispositions de l’OFR[^17a-3] et de l’OLiq[^17a-4] ne s’appliquent pas aux personnes visées à l’art. 1*b* LB.
 
 [^17a-1]: Introduit par le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^17a-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^17a-3]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^17a-2]: Nouvelle teneur selon le ch. I 5 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^17a-3]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17a-4]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
 
 ### Section 4 Situations transfrontières
 

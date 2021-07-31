@@ -4,11 +4,11 @@ title: "Ordinanza del 30 aprile 2014 sulle banche e le casse di risparmio (Ordin
 short: OBCR
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/273"
 language: it
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2014-04-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2014-273-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/273/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2014-273-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/273/20200101/it"
 
 (Ordinanza sulle banche, OBCR)
 
-del 30 aprile 2014 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 30 aprile 2014 (Stato 1° agosto 2021) (Stato 1° agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -75,8 +75,8 @@ Le banche sono suddivise dall’Autorità federale di vigilanza sui mercati fina
 
 [^2-1]: Abrogato dal n. I dell’O del 30 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^2-2]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^2-3]: Introdotto dal n. 1 dell’appendice all’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
-[^2-4]: Introdotto dal n. 1 dell’appendice all’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^2-3]: Introdotto dall’appendice n. 1 dell’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^2-4]: Introdotto dall’appendice n. 1 dell’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 3
 
@@ -102,20 +102,24 @@ Le funzioni di una società del gruppo sono importanti per le attività soggette
 
 **Settore finanziario**
 
-### (art. 3*c* cpv. 1 lett. b LBCR)
+### (art. 1*a*, 1*b* cpv. 1 e 3*c* cpv. 1 lett. b LBCR)
+
+[^4-1]
 
 <sup>1</sup>
 
 È attivo nel settore finanziario chiunque:
 
-- a. fornisce o procura servizi finanziari, in particolare effettua per conto proprio o per conto di terzi operazioni di deposito o di credito, commercia valori mobiliari, investe capitali o gestisce patrimoni;
+- a.[^4-2] fornisce o procura servizi per operazioni finanziarie, in particolare effettua per conto proprio o per conto di terzi operazioni di deposito o di credito, commercia valori mobiliari, investe capitali o gestisce patrimoni oppure accetta beni crittografici secondo l’articolo 5*a*;
 - b. detiene partecipazioni qualificate prevalentemente in imprese attive nel settore finanziario (società holding); o
-- c.[^4-1] è una società del gruppo importante secondo l’articolo 3*a*.
+- c.[^4-3] è una società del gruppo importante secondo l’articolo 3*a*.
 
-<sup>2</sup> L’attività delle imprese di assicurazione (settore assicurativo) è equiparata all’attività nel settore finanziario sempreché la presente ordinanza o l’ordinanza del 1° giugno 2012[^4-2] sui fondi propri (OFoP) non prevedano regolamentazioni derogative per queste imprese.
+<sup>2</sup> L’attività delle imprese di assicurazione (settore assicurativo) è equiparata all’attività nel settore finanziario sempreché la presente ordinanza o l’ordinanza del 1° giugno 2012[^4-4] sui fondi propri (OFoP) non prevedano regolamentazioni derogative per queste imprese.
 
-[^4-1]: Introdotta dal n. III dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
-[^4-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^4-1]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^4-2]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^4-3]: Introdotta dal n. III dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5241](https://fedlex.data.admin.ch/eli/oc/2018/800)).
+[^4-4]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
 #### Art. 5
 
@@ -149,7 +153,7 @@ Non sono considerati depositi:
 - a. i fondi ricevuti come controprestazione in virtù di un contratto relativo al trasferimento di proprietà o alla prestazione di servizi, oppure consegnati a titolo di garanzia;
 - b.[^5-1]
 
-  i prestiti in obbligazioni e altri titoli emessi secondo criteri unitari e in grande numero o diritti aventi la medesima funzione ma non incorporati in un titolo (diritti-valori), se al momento dell’offerta i creditori vengono informati, in una delle forme di cui all’articolo 64 capoverso 3 della legge del 15 giugno 2018[^5-2] sui servizi finanziari, su:
+  i prestiti in obbligazioni e altri titoli emessi secondo criteri unitari e in grande numero o diritti aventi la medesima funzione ma non incorporati in un titolo (diritti-valori), se al momento dell’offerta i creditori vengono informati, in una delle forme di cui all’articolo 64 capoverso 3 della legge del 15 giugno 2018[^5-2] sui servizi finanziari (LSerFi), su:[^5-3]
 
   - 1\. il nome, la sede e l’oggetto sociale dell’emittente con una breve descrizione di tale oggetto,
   - 2\. il tasso d’interesse, il prezzo di emissione, il termine di sottoscrizione, la data di liberazione, la durata e le condizioni di rimborso,
@@ -157,56 +161,90 @@ Non sono considerati depositi:
   - 4\. le garanzie costituite,
   - 5\. la rappresentanza degli obbligazionisti, se contenuta nelle condizioni di investimento.
 
-- c.[^5-3]
+- c.[^5-4]
 
-  i saldi avere su conti clienti di commercianti di valori mobiliari o metalli preziosi, di amministratori di beni o imprese simili se servono unicamente per operazioni di clienti e se:
+  i saldi avere non rimunerati che servono unicamente per operazioni di clienti detenuti su conti clienti i cui titolari sono:
 
-  - 1\. su detti conti non viene versato alcun interesse, e
-  - 2\. non si tratta di conti clienti di commercianti di valori mobiliari: l’esecuzione avviene entro 60 giorni;
+  - 1\. commercianti di metalli preziosi, amministratori di beni o imprese simili, se l’esecuzione avviene entro 60 giorni, o
+  - 2\. società di intermediazione immobiliare o sistemi di negoziazione per valori mobiliari da tecnologia di registro distribuito (sistema di negoziazione TRD) secondo l’articolo 73*a* della legge del 19 giugno 2015[^5-5] sull’infrastruttura finanziaria (LInFi);
 
-- d. i fondi la cui accettazione è vincolata ad un contratto di assicurazione sulla vita, di previdenza professionale o di altre forme previdenziali riconosciute conformemente all’articolo 82 della legge federale del 25 giugno 1982[^5-4] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità;
+- d. i fondi la cui accettazione è vincolata ad un contratto di assicurazione sulla vita, di previdenza professionale o di altre forme previdenziali riconosciute conformemente all’articolo 82 della legge federale del 25 giugno 1982[^5-6] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità;
 - e. i fondi di modico importo attribuiti a un mezzo o a un sistema di pagamento che servono unicamente per l’acquisto futuro di beni o servizi e non producono interessi;
 - f. i fondi il cui rimborso e la cui remunerazione sono garantiti da una banca (garanzia del rischio di insolvenza).
 
 [^5-1]: Nuovo testo giusta l’all. 11 n. 2 dell’O del 6 nov. 2019 sui servizi finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4459](https://fedlex.data.admin.ch/eli/oc/2019/759)).
 [^5-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
-[^5-3]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3823](https://fedlex.data.admin.ch/eli/oc/2017/454)).
-[^5-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^5-3]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^5-4]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^5-5]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^5-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+#### Art. 5a
+
+**Beni crittografici ai sensi dell’art. 1*b* cpv. 1 LBCR**[^5a-1]
+
+### (art. 1*b* cpv. 1 LBCR)
+
+<sup>1</sup> I beni crittografici ai sensi dell’articolo 1*b* capoverso 1 lettera a LBCR sono valori patrimoniali secondo l’articolo 16 numero 1<sup>bis</sup> lettera b LBCR (beni crittografici custoditi collettivamente) che sono impiegati a tutti gli effetti o nelle intenzioni dell’organizzatore o dell’emittente in misura rilevante come mezzo di pagamento per l’acquisto di beni o servizi oppure per il trasferimento di denaro o di valori.
+
+<sup>2</sup>
+
+Non sono considerati beni crittografici secondo il capoverso 1 i valori patrimoniali:
+
+- a.
+
+  detenuti su conti clienti come saldi avere non remunerati che servono unicamente per operazioni di clienti i cui titolari sono:
+
+  - 1\. commercianti di metalli preziosi, amministratori di beni o imprese simili, se l’esecuzione avviene entro 60 giorni, o
+  - 2\. società di intermediazione immobiliare o sistemi di negoziazione TRD;
+
+- b. di banche svizzere ed estere o di altre imprese sottoposte a vigilanza statale;
+- c. di investitori istituzionali aventi una tesoreria professionale.
+
+[^5a-1]: Introdotto dal n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 6
 
 **Carattere professionale**[^6-1]
 
-<sup>1</sup> Agisce a titolo professionale ai sensi della LBCR chiunque accetta sul lungo periodo più di 20 depositi del pubblico oppure si presta pubblicamente ad accettarli, anche se il numero dei depositi ottenuti è inferiore a 20.
+<sup>1</sup> Agisce a titolo professionale ai sensi della LBCR chiunque
+
+- a. accetta sul lungo periodo più di 20 depositi del pubblico o beni crittografici custoditi collettivamente; o
+- b. si presta pubblicamente ad accettare depositi del pubblico o beni crittografici custoditi collettivamente, anche se il numero dei depositi del pubblico o dei beni crittografici accettati in seguito è inferiore a 20.[^6-2]
 
 <sup>2</sup>
 
-Non agisce a titolo professionale ai sensi della LBCR chiunque accetta sul lungo periodo più di 20 depositi del pubblico oppure si presta pubblicamente ad accettarli, se:
+Non agisce a titolo professionale ai sensi della LBCR chiunque accetta sul lungo periodo più di 20 depositi del pubblico o beni crittografici custoditi collettivamente oppure si presta pubblicamente ad accettarli, se:[^6-3]
 
-- a. accetta depositi del pubblico per un importo complessivo pari al massimo a un milione di franchi;
+- a.[^6-4] accetta depositi del pubblico o beni crittografici custoditi collettivamente per un importo complessivo pari al massimo a un milione di franchi;
 - b. non effettua operazioni sulle differenze di interesse; e
 - c.
 
   prima che effettuino il deposito, informa i depositanti per scritto o in un’altra forma che consenta la prova per testo che:
 
   - 1\. egli non soggiace alla vigilanza della FINMA, e
-  - 2\. il deposito non è incluso nella garanzia dei depositi.[^6-2]
+  - 2\. il deposito non è incluso nella garanzia dei depositi.[^6-5]
 
-<sup>3</sup> ...[^6-3]
+<sup>3</sup> ...[^6-6]
 
 <sup>4</sup> Chiunque superi il valore soglia di cui al capoverso 2 lettera a deve notificarlo alla FINMA entro dieci giorni e presentarle una domanda di autorizzazione secondo le prescrizioni della LBCR entro 30 giorni. Se l’obiettivo di protezione della LBCR lo impone, la FINMA può vietare al richiedente di accettare ulteriori depositi del pubblico finché non si sarà pronunciata sulla domanda di autorizzazione.
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3823](https://fedlex.data.admin.ch/eli/oc/2017/454)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° apr. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^6-3]: Abrogato dal n. I dell’O del 30 nov. 2018, con effetto dal 1° apr. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^6-2]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^6-3]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^6-4]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^6-5]: Nuovo testo giusta il n. I dell’O del 30 nov. 2018, in vigore dal 1° apr. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^6-6]: Abrogato dal n. I dell’O del 30 nov. 2018, con effetto dal 1° apr. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 
 #### Art. 7
 
-**Pubblicità**
+**Pubblicità**[^7-1]
 
 ### (art. 1 cpv. 2, 6*a* cpv. 3 LBCR)
 
-Le persone che non sono legittimate ad accettare depositi del pubblico a titolo professionale non possono fare pubblicità a tale scopo in nessuna forma.
+Le persone che non sono legittimate ad accettare depositi del pubblico o beni crittografici custoditi collettivamente a titolo professionale non possono fare pubblicità a tale scopo in nessuna forma.
+
+[^7-1]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 7a
 
@@ -216,10 +254,10 @@ Le persone che non sono legittimate ad accettare depositi del pubblico a titolo 
 
 <sup>1</sup>
 
-Le persone di cui all’articolo 1*b* LBCR informano i propri clienti in modo comprensibile e completo, per scritto o in un’altra forma che consenta la prova per testo:
+Le persone di cui all’articolo 1*b* LBCR informano i propri clienti per scritto o in un’altra forma che consenta la prova per testo:[^7a-2]
 
 - a. dei rischi inerenti al proprio modello aziendale, alle proprie prestazioni di servizio e alle tecnologie utilizzate;
-- b. del fatto che per i depositi del pubblico non è prevista la garanzia dei depositi secondo il capo tredicesimo LBCR.
+- b.[^7a-3] del fatto che per i depositi del pubblico o per i beni crittografici custoditi collettivamente non è prevista la garanzia dei depositi secondo il capo tredicesimo LBCR.
 
 <sup>2</sup> Le informazioni vanno date ai clienti, lasciando loro tempo sufficiente per comprenderle, in vista della conclusione del contratto.
 
@@ -230,6 +268,22 @@ Le persone di cui all’articolo 1*b* LBCR informano i propri clienti in modo co
 <sup>5</sup> Per supporto di dati durevole si intende un supporto cartaceo o qualsiasi altro mezzo che consenta la memorizzazione e la riproduzione inalterata di un’informazione.
 
 [^7a-1]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
+[^7a-2]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^7a-3]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+#### Art. 7b
+
+**Rappresentanze**[^7b-1]
+
+### (art. 2 LBCR)
+
+La rappresentanza di una banca estera che fornisce servizi finanziari secondo l’articolo 3 lettera c LSerFi[^7b-2] deve:
+
+- a. osservare le disposizioni della LSerFi;
+- b. provvedere all’iscrizione dei suoi consulenti alla clientela in un registro dei consulenti secondo l’articolo 28 LSerFi se questi non forniscono i propri servizi in Svizzera esclusivamente a clienti professionali o istituzionali secondo l’articolo 4 LSerFi.
+
+[^7b-1]: Introdotto dal n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^7b-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 
 ## Capitolo 2: Autorizzazioni
 
@@ -441,7 +495,7 @@ In singoli casi la FINMA può allentare i requisiti di cui al capoverso 3 nei co
 
 #### Art. 14f
 
-**Custodia di depositi del pubblico**
+**Custodia di depositi del pubblico e di beni crittografici[^14f-1]**
 
 ### (art. 1*b* cpv. 3 lett. b LBCR)
 
@@ -449,21 +503,32 @@ In singoli casi la FINMA può allentare i requisiti di cui al capoverso 3 nei co
 
 Le persone di cui all’articolo 1*b* LBCR devono:
 
-- a. custodire separatamente dai fondi propri i depositi del pubblico che hanno accettato; o
-- b. registrare nelle loro scritture contabili tali depositi in modo tale da poterli presentare in ogni tempo separatamente dai loro fondi propri; in questo caso, devono sottoporsi a una revisione ordinaria ai sensi dell’articolo 727 CO.
+- a. custodire separatamente dai fondi propri i depositi del pubblico e i beni crittografici custoditi collettivamente che hanno accettato; o
+- b. registrare nelle loro scritture contabili tali depositi e beni crittografici in modo tale da poterli presentare in ogni tempo separatamente dai loro fondi propri; in questo caso, devono sottoporsi a una revisione ordinaria ai sensi dell’articolo 727 CO. [^14f-2]
 
 <sup>2</sup>
 
 I depositi del pubblico possono essere custoditi:
 
 - a. quali depositi a vista presso una banca o una persona di cui all’articolo 1*b* LBCR;
-- b. quali attività liquide di elevata qualità della categoria 1 di cui all’articolo 15*a* dell’ordinanza del 30 novembre 2012[^14f-1] sulla liquidità (OLiq).
+- b. quali attività liquide di elevata qualità della categoria 1 di cui all’articolo 15*a* dell’ordinanza del 30 novembre 2012[^14f-3] sulla liquidità (OLiq).
 
 <sup>3</sup> Tali depositi devono essere custoditi nella valuta in cui i clienti possono esercitare il loro diritto alla restituzione.
 
-<sup>4</sup> Se sono considerati depositi del pubblico, i valori patrimoniali fondati sulla cifratura digitale devono essere custoditi nella forma nella quale sono stati accettati.
+<sup>4</sup>
 
-[^14f-1]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+I beni crittografici devono essere custoditi come segue:
+
+- a. in Svizzera;
+- b. nella forma nella quale sono stati accettati.[^14f-4]
+
+<sup>5</sup> In singoli casi fondati la FINMA può ammettere eccezioni all’obbligo secondo il capoverso 4 lettera a.[^14f-5]
+
+[^14f-1]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^14f-2]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^14f-3]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^14f-4]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^14f-5]: Introdotto dal n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 14g
 
@@ -518,15 +583,16 @@ In casi particolari la FINMA può autorizzare eccezioni alle prescrizioni in mat
 
 ### (art. 1*b* cpv. 3 lett. c e 3 cpv. 2 lett. b LBCR)
 
-<sup>1</sup> Il capitale minimo delle persone di cui all’articolo 1*b* LBCR ammonta al 3 per cento dei depositi del pubblico accettati secondo l’articolo 5, ma almeno a 300 000 franchi. Deve essere interamente liberato e mantenuto durevolmente. Non può essere prestato ai titolari di partecipazioni qualificate o a persone fisiche o giuridiche ad essi correlate, né investito in partecipazioni dominate da queste ultime.
+<sup>1</sup> Il capitale minimo delle persone di cui all’articolo 1*b* LBCR ammonta al 3 per cento dei depositi del pubblico accettati e dei beni crittografici custoditi collettivamente accettati, ma almeno a 300 000 franchi. Deve essere interamente liberato e mantenuto durevolmente. Non può essere prestato ai titolari di partecipazioni qualificate o a persone fisiche o giuridiche ad essi correlate, né investito in partecipazioni dominate da queste ultime.[^17a-2]
 
 <sup>2</sup> La FINMA disciplina i dettagli e in singoli casi può inasprire le esigenze in materia di capitale minimo, se questo appare giustificato in virtù dei rischi collegati all’attività.
 
-<sup>3</sup> Le disposizioni dell’OFoP[^17a-2] e dell’OLiq[^17a-3] non si applicano alle persone di cui all’articolo 1*b* LBCR.
+<sup>3</sup> Le disposizioni dell’OFoP[^17a-3] e dell’OLiq[^17a-4] non si applicano alle persone di cui all’articolo 1*b* LBCR.
 
 [^17a-1]: Introdotto dal n. I dell’O del 30 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
-[^17a-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^17a-3]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
+[^17a-2]: Nuovo testo giusta il n. I 5 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^17a-3]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^17a-4]: [RS 952.06](https://fedlex.data.admin.ch/eli/cc/2012/883)
 
 ### Sezione 4: Fattispecie transfrontaliere
 
@@ -1200,7 +1266,7 @@ La banca o persona di cui all’articolo 1*b* LBCR liquidante conserva conformem
 <sup>4</sup> La banca di rilevanza sistemica deve aggiornare il piano d’emergenza entro la fine del secondo trimestre di ogni anno e presentarlo alla FINMA. Gli aggiornamenti devono essere presentati anche qualora intervengano modifiche che comportano una rielaborazione o su richiesta della FINMA.
 
 [^60-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
-[^60-2]: Nuovo testo giusta il n. 1 dell’appendice all’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^60-2]: Nuovo testo giusta l’appendice n. 1 dell’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 61
 
@@ -1222,7 +1288,7 @@ La FINMA verifica le misure del piano d’emergenza in merito alla loro efficaci
 
 <sup>2</sup> La capacità globale di liquidazione fa parte della verifica del piano svizzero d’emergenza se è determinante per la sua attuazione.[^61-1]
 
-[^61-1]: Introdotto dal n. 1 dell’appendice all’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^61-1]: Introdotto dall’appendice n. 1 dell’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 #### Art. 62
 
@@ -1255,7 +1321,7 @@ Una banca di rilevanza sistemica non adempie le prescrizioni relative ai fondi p
 - a.[^63-1] se i fondi propri di base di qualità primaria computabili scendono sotto il 5 per cento delle posizioni ponderate in funzione del rischio; o
 - b. nel caso dell’articolo 42 capoverso 4 OFoP.
 
-[^63-1]: Nuovo testo giusta il n. 1 dell’appendice all’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^63-1]: Nuovo testo giusta l’appendice n. 1 dell’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 
 ### Sezione 2: Miglioramento delle possibilità di risanamento e di liquidazione
 
@@ -1285,7 +1351,7 @@ Una banca di rilevanza sistemica non adempie le prescrizioni relative ai fondi p
 
 <sup>2</sup> Ciò non si applica per il rispetto delle esigenze secondo l’articolo 9 capoverso 2 lettera d LBCR[^65-3].
 
-[^65-1]: Nuovo testo giusta il n. 1 dell’appendice all’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
+[^65-1]: Nuovo testo giusta l’appendice n. 1 dell’O dell’11 mag. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1725](https://fedlex.data.admin.ch/eli/oc/2016/312)).
 [^65-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 [^65-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
