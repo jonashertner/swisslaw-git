@@ -3,11 +3,11 @@ sr: "172.220.12"
 title: "Ordonnance du 19 décembre 2003 sur la rémunération et sur d'autres conditions contractuelles convenues avec les cadres du plus haut niveau hiérarchique et les membres des organes dirigeants des entreprises et des établissements de la Confédération (Ordonnance sur les salaires des cadres)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/30"
 language: fr
-version: 2015-08-01
+version: 2021-08-01
 adopted: 2003-12-19
 in_force: 2004-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/30/20150801/fr/xml/fedlex-data-admin-ch-eli-cc-2004-30-20150801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20150801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/30/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2004-30-20210801-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,13 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20150801/fr"
 
 (Ordonnance sur les salaires des cadres)
 
-du 19 décembre 2003 (Etat le 1<sup>er</sup> août 2015)
+du 19 décembre 2003 (État le 1<sup>er</sup> août 2021)
 
 Le Conseil fédéral suisse,
 
-vu les art. 6*a* et 15, al. 6, de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^ingress-1], vu les art. 4, al. 5, et 8, al. 3, de la loi fédérale du 24 mars 1995 sur le statut et les tâches de l’Institut Fédéral de la Propriété Intellectuelle[^ingress-2], vu les art. 30, al. 4, et 33, al. 3, de la loi du 16 décembre 2005 sur la surveillance de la révision[^ingress-3], les art. 34, al. 6, et 39, al. 3, de la loi du 11 décembre 2009 sur l’encouragement de la culture[^ingress-4], vu les art. 6, al. 4, et 9, al. 2, de la loi du 22 juin 2007 sur l’Inspection fédérale de la sécurité nucléaire[^ingress-5], vu l’art. 9, al. 4, de la loi du 17 décembre 2010 sur l’organisation de la Poste[^ingress-6], vu les art. 71, al. 2, et 75, al. 2, de la loi du 15 décembre 2000 sur les produits thérapeutiques[^ingress-7], vu l’art. 63, al. 2 et 3, de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^ingress-8], vu les art. 24, al. 5, et 27, al. 3, de la loi fédérale du 16 décembre 2005 sur l’Assurance suisse contre les risques à l’exportation[^ingress-9],
-
-vu les art. 9, al. 3, et 13, al. 3, de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^ingress-10],[^ingress-11]
+vu les art. 6*a* et 15, al. 6, de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^ingress-1], vu les art. 4, al. 5, et 8, al. 3, de la loi fédérale du 24 mars 1995 sur le statut et les tâches de l’Institut Fédéral de la Propriété Intellectuelle[^ingress-2], vu les art. 30, al. 4, et 33, al. 3, de la loi du 16 décembre 2005 sur la surveillance de la révision[^ingress-3], les art. 34, al. 6, et 39, al. 3, de la loi du 11 décembre 2009 sur l’encouragement de la culture[^ingress-4], vu les art. 6, al. 4, et 9, al. 2, de la loi du 22 juin 2007 sur l’Inspection fédérale de la sécurité nucléaire[^ingress-5], vu l’art. 9, al. 4, de la loi du 17 décembre 2010 sur l’organisation de la Poste[^ingress-6], vu les art. 71, al. 2, et 75, al. 2, de la loi du 15 décembre 2000 sur les produits thérapeutiques[^ingress-7], vu l’art. 63, al. 2 et 3, de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^ingress-8], vu les art. 24, al. 5, et 27, al. 3, de la loi fédérale du 16 décembre 2005 sur l’Assurance suisse contre les risques à l’exportation[^ingress-9], vu les art. 9, al. 3, et 13, al. 3, de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^ingress-10],[^ingress-11]
 
 arrête:
 
@@ -61,7 +59,7 @@ La présente ordonnance s’applique:
 [^1-2]: Introduite par l’art. 30 ch. 2 de l’O du 25 oct. 2006 sur l’Assurance suisse contre les risques à l’exportation, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4403](https://fedlex.data.admin.ch/eli/oc/2006/669)).
 [^1-3]: Introduite par le ch. 3 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^1-4]: Introduite par le ch. 3 de l’annexe à l’O du 15 oct. 2008 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^1-5]: Introduite par le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6677](https://fedlex.data.admin.ch/eli/oc/2012/809)).
+[^1-5]: Introduite par le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6677](https://fedlex.data.admin.ch/eli/oc/2012/809)). Nouvelle teneur selon le ch.I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021, ne concerne que les textes allemand et italien ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^1-6]: Introduite par le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6677](https://fedlex.data.admin.ch/eli/oc/2012/809)).
 [^1-7]: Introduite par le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2341](https://fedlex.data.admin.ch/eli/oc/2015/437)).
 

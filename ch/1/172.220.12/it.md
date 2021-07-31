@@ -3,11 +3,11 @@ sr: "172.220.12"
 title: Ordinanza del 19 dicembre 2003 sulla retribuzione e su altre condizioni contrattuali stipulate con i quadri superiori e gli organi direttivi di imprese e istituti della Confederazione (Ordinanza sulla retribuzione dei quadri)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/30"
 language: it
-version: 2015-08-01
+version: 2021-08-01
 adopted: 2003-12-19
 in_force: 2004-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/30/20150801/it/xml/fedlex-data-admin-ch-eli-cc-2004-30-20150801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20150801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/30/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2004-30-20210801-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20150801/it"
 
 (Ordinanza sulla retribuzione dei quadri)
 
-del 19 dicembre 2003 (Stato 1° agosto 2015) (Stato 1° agosto 2015)
+del 19 dicembre 2003 (Stato 1° agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -51,15 +51,15 @@ La presente ordinanza si applica:
 - e.[^1-2] all’Assicurazione svizzera contro i rischi delle esportazioni;
 - f.[^1-3] all’Ispettorato federale della sicurezza nucleare;
 - g.[^1-4] all’Autorità federale di vigilanza sui mercati finanziari;
-- h.[^1-5] all’Autorità di sorveglianza dei revisori;
+- h.[^1-5] all’Autorità federale di sorveglianza dei revisori;
 - i.[^1-6] a Pro Helvetia;
 - j.[^1-7] alla Posta Svizzera e alle aziende di cui essa detiene il controllo.
 
-[^1-1]: Nuovo testo giusta il n. 2 dell’all. all’O del 24 ott. 2012 sull’organizzazione della Posta Svizzera, in vigore dal 1° dic. 2012 ([RU 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
+[^1-1]: Nuovo testo giusta l’all. n. 2 dell’O del 24 ott. 2012 sull’organizzazione della Posta Svizzera, in vigore dal 1° dic. 2012 ([RU 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
 [^1-2]: Introdotta dall’art. 30 n. 2 dell’O del 25 ott. 2006 concernente l’Assicurazione svizzera contro i rischi delle esportazioni, in vigore dal 1° gen. 2007 ([RU 2006 4403](https://fedlex.data.admin.ch/eli/oc/2006/669)).
-[^1-3]: Introdotta dal n. 3 dell’all. all’O del 15 ott. 2008 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^1-4]: Introdotta dal n. 3 dell’all. all’O del 15 ott. 2008 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^1-5]: Introdotta dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6677](https://fedlex.data.admin.ch/eli/oc/2012/809)).
+[^1-3]: Introdotta dall’all. n. 3 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^1-4]: Introdotta dall’all. n. 3 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^1-5]: Introdotta dal n. I dell’O del 21 nov. 2012 ([RU 2012 6677](https://fedlex.data.admin.ch/eli/oc/2012/809)). Nuovo testo giusta il n. I 1 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^1-6]: Introdotta dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6677](https://fedlex.data.admin.ch/eli/oc/2012/809)).
 [^1-7]: Introdotta dal n. I dell’O del 1° lug. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2341](https://fedlex.data.admin.ch/eli/oc/2015/437)).
 

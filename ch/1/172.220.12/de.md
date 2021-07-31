@@ -3,11 +3,11 @@ sr: "172.220.12"
 title: Verordnung vom 19. Dezember 2003 über die Entlöhnung und weitere Vertragsbedingungen der obersten Kader und Leitungsorgane von Unternehmen und Anstalten des Bundes (Kaderlohnverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/30"
 language: de
-version: 2015-08-01
+version: 2021-08-01
 adopted: 2003-12-19
 in_force: 2004-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/30/20150801/de/xml/fedlex-data-admin-ch-eli-cc-2004-30-20150801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20150801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/30/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2004-30-20210801-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/30/20150801/de"
 
 (Kaderlohnverordnung)
 
-vom 19. Dezember 2003 (Stand am 1. August 2015)
+vom 19. Dezember 2003 (Stand am 1. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -51,7 +51,7 @@ Diese Verordnung gilt für:
 - e.[^1-2] die Schweizerische Exportrisikoversicherung;
 - f.[^1-3] das Eidgenössische Nuklearsicherheitsinspektorat;
 - g.[^1-4] die Eidgenössische Finanzmarktaufsicht;
-- h.[^1-5] die Revisionsaufsichtsbehörde;
+- h.[^1-5] die Eidgenössische Revisionsaufsichtsbehörde;
 - i.[^1-6] Pro Helvetia;
 - j.[^1-7] die Schweizerische Post und die von ihr beherrschten Unternehmen.
 
@@ -59,7 +59,7 @@ Diese Verordnung gilt für:
 [^1-2]: Eingefügt durch Art. 30 Ziff. 2 der V vom 25. Okt. 2006 über die Schweizerische Exportrisikoversicherung, in Kraft seit 1. Jan. 2007 ([AS 2006 4403](https://fedlex.data.admin.ch/eli/oc/2006/669)).
 [^1-3]: Eingefügt durch Anhang Ziff. 3 der Finanzmarktprüfverordnung vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^1-4]: Eingefügt durch Anhang Ziff. 3 der Finanzmarktprüfverordnung vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
-[^1-5]: Eingefügt durch Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6677](https://fedlex.data.admin.ch/eli/oc/2012/809)).
+[^1-5]: Eingefügt durch Ziff. I der V vom 21. Nov. 2012 ([AS 2012 6677](https://fedlex.data.admin.ch/eli/oc/2012/809)). Fassung gemäss Ziff. I 1 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^1-6]: Eingefügt durch Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6677](https://fedlex.data.admin.ch/eli/oc/2012/809)).
 [^1-7]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2341](https://fedlex.data.admin.ch/eli/oc/2015/437)).
 
