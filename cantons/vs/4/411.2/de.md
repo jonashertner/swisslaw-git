@@ -4,25 +4,25 @@ number: "411.2"
 title: Gesetz über die Orientierungsschule
 short: GOS
 language: de
-version: 2016-12-01
-corrected: 2017-09-06
-version_adopted: 2016-05-12
+version: 2021-08-01
+version_adopted: 2020-09-10
 adopted: 2009-09-10
 in_force: 2011-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/411.2"
-pdf: "https://lex.vs.ch/api/de/versions/546/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2945/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Orientierungsschule
 
-vom 10. September 2009
+(GOS)
+
+vom 10.09.2009 (Stand 01.08.2021)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen die Artikel 13, 31 Absatz 1 Ziffer 1 und 42 Absatz 1 der Kantonsverfassung;
+eingesehen die Artikel 13, 31 Absatz 1 Buchstabe a und 42 Absatz 1 der Kantonsverfassung;
 
 eingesehen das Gesetz über das öffentliche Unterrichtswesen vom 4. Juli 1962;
 
@@ -30,13 +30,13 @@ auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Kapitel: Allgemeines
+## 1 Allgemeines
 
 #### Art. 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Das vorliegende Gesetz regelt den Unterricht auf der Sekundarstufe I, der in den Orientierungsschulen (nachfolgend OS) erteilt wird.
+<sup>1</sup> Das vorliegende Gesetz regelt den Unterricht auf der Sekundarstufe I, der in den Orientierungsschulen (nachfolgend: OS) erteilt wird.
 
 <sup>2</sup> Es legt die Struktur, die Aufnahme- und Promotionsbedingungen, den Auftrag der OS bei der Berufsberatung und die Bedingungen für den Übertritt in die Sekundarstufe II fest.
 
@@ -46,13 +46,13 @@ verordnet:
 
 **Gleichstellung**
 
-In diesem Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+<sup>1</sup> In diesem Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
 
 #### Art. 3
 
 **Definition**
 
-<sup>1</sup> Die OS folgt nach der achten Primarklasse. Sie umfasst die drei letzten Jahre der obligatorischen Schulzeit.<sup>1</sup>
+<sup>1</sup> Die OS folgt nach der achten Primarklasse. Sie umfasst die drei letzten Jahre der obligatorischen Schulzeit.
 
 <sup>2</sup> Für den Schüler im schulpflichtigen Alter, der das erste Jahr des Gymnasiums besucht, gelten die Bestimmungen für den Unterricht der allgemein bildenden Sekundarstufe II.
 
@@ -67,11 +67,8 @@ In diesem Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion
 <sup>2</sup> Die OS verfolgt namentlich folgende Ziele:
 
 - a) sie festigt und vervollständigt das vom Schüler erworbene Wissen durch einen anspruchsvollen und qualitativ hochstehenden Unterricht;
-
 - b) sie bereitet ihn darauf vor, allmählich den Ausbildungsweg zu finden, der seinen Fähigkeiten und Interessen am besten entspricht;
-
 - c) sie formt bei ihm die Urteilsfähigkeit, die er braucht, um sich in der Gesellschaft und der Arbeitswelt zurechtzufinden, und entwickelt die Kompetenzen der Zusammenarbeit und der Kommunikation;
-
 - d) sie entwickelt bei ihm in ausgeglichener, strukturierter Weise und unter Berücksichtigung der fundamentalen Einheit des Menschen die Intelligenz, das Verantwortungsbewusstsein, die Willenskraft, die Kreativität, das Gedächtnis, die Emotionalität, die Spiritualität und die körperliche Verfassung.
 
 <sup>3</sup> Die OS ist im gesellschaftlichen Leben der Gemeinde oder der Region auch ein Ort der kulturellen Ausstrahlung.
@@ -84,7 +81,7 @@ In diesem Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion
 
 <sup>2</sup> Sie sind so zusammengestellt, dass Niveauwechsel während und bis am Ende der obligatorischen Schulzeit möglich sind. In diesem Sinne sollen sie die Kontinuität und die Koordination des Unterrichts während der OS-Jahre garantieren und einen Übertritt von der Primarschule in die OS und von der OS in die allgemein bildende oder berufliche Sekundarstufe II fördern.
 
-<sup>3</sup> Die Lehrmittel sind den Unterrichtszielen und Lehrplänen angepasst und können vom Departement für Erziehung, Kultur und Sport (nachfolgend Departement) vorgeschrieben werden.
+<sup>3</sup> Die Lehrmittel sind den Unterrichtszielen und Lehrplänen angepasst und können vom Departement für Erziehung, Kultur und Sport (nachfolgend: Departement) vorgeschrieben werden.
 
 #### Art. 6
 
@@ -96,9 +93,9 @@ In diesem Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion
 
 #### Art. 7
 
-**Eröffnung – Erweiterung**
+**Eröffnung - Erweiterung**
 
-Bei der Eröffnung und Erweiterung/Vergrösserung von kommunalen/interkommunalen OS-Zentren sind die pädagogischen und rationalen Kriterien zu erfüllen. Das Subventionsgesetz wie auch die Weisungen und Richtlinien über Schulhausbauten bleiben vorbehalten.
+<sup>1</sup> Bei der Eröffnung und Erweiterung/Vergrösserung von kommunalen/interkommunalen OS-Zentren sind die pädagogischen und rationalen Kriterien zu erfüllen. Das Subventionsgesetz wie auch die Weisungen und Richtlinien über Schulhausbauten bleiben vorbehalten.
 
 #### Art. 8
 
@@ -110,43 +107,39 @@ Bei der Eröffnung und Erweiterung/Vergrösserung von kommunalen/interkommunalen
 
 #### Art. 9
 
-**Information – Zusammenarbeit**
+**Information - Zusammenarbeit**
 
-<sup>1</sup> Die Schulbehörde trägt die Verantwortung für die regelmässige Information der Eltern oder des gesetzlichen Vertreters (nachfolgend die Eltern), namentlich über Fragen der OS-Struktur, die Aufnahmebedingungen und die Voraussetzungen für den Übertritt innerhalb der Struktur sowie über alle Fragen im Zusammenhang mit der Schul- und Berufswahl.
+<sup>1</sup> Die Schulbehörde trägt die Verantwortung für die regelmässige Information der Eltern oder des gesetzlichen Vertreters (nachfolgend: die Eltern), namentlich über Fragen der OS-Struktur, die Aufnahmebedingungen und die Voraussetzungen für den Übertritt innerhalb der Struktur sowie über alle Fragen im Zusammenhang mit der Schul- und Berufswahl.
 
 <sup>2</sup> Die Zusammenarbeit zwischen Eltern, Kindern, Lehrpersonen und Schulbehörden ist bei allen Fragen im Zusammenhang mit dem Unterricht, der Entwicklung und dem Verhalten des Schülers notwendig.
 
 <sup>3</sup> Die Schule arbeitet mit den von der Schulbehörde anerkannten Elternvereinigungen zusammen.
 
-### 2. Kapitel: Organe der OS
+## 2 Organe der OS
 
 #### Art. 10
 
-Allgemeine Verantwortlichkeit und Übertragung von Kompetenzen
+**Allgemeine Verantwortlichkeit und Übertragung von Kompetenzen**
 
 <sup>1</sup> Das Departement gewährleistet die pädagogische Verantwortung für die Schule durch die Übertragung von Kompetenzen an die Schulinspektoren und Mitarbeiter der betroffenen kantonalen Stellen und danach an die Direktionräte und die Lehrer.
 
-<sup>2</sup> Die Errichtung und Verwaltung der Infrastruktur wie Gebäude, Ausstattung sowie die Personalverwaltung der OS obliegen der Kompetenz der kommunalen bzw. interkommunalen Behörde, die an die diesbezüglichen Weisungen gebunden ist.
+<sup>2</sup> Die Errichtung und Verwaltung der Infrastruktur wie Gebäude, Ausstattung sowie die Personalverwaltung der OS obliegen der Kompetenz der kommunalen beziehungsweise interkommunalen Behörde, die an die diesbezüglichen Weisungen gebunden ist.
 
 <sup>3</sup> Eine OS umfasst:
 
 - a) verantwortliche administrative Organe:
-
-- Gemeinderat oder Regionalrat;
-
-- kommunale oder interkommunale Schulkommission. Dieses Organ kann gewisse Kompetenzen an den Schuldirektor delegieren;
-
+  - 1\. Gemeinderat oder Regionalrat,
+  - 2\. kommunale oder interkommunale Schulkommission. Dieses Organ kann gewisse Kompetenzen an den Schuldirektor delegieren;
 - b) Schulleitungsorgan:
-
-- Direktionssrat.
+  - 1\. Direktionssrat.
 
 #### Art. 11
 
 **Der Gemeinderat oder Regionalrat**
 
-<sup>1</sup> Auf Gemeindeebene ist der Gemeinderat unter Berücksichtigung der in Artikel 10 aufgeführten Verantwortlichkeiten und Zuständigkeiten die politische Entscheidungsbehörde, auf interkommunaler Ebene ist dies der Regionalrat, allerdings immer innerhalb den von den Statuten bzw. Vereinbarungen festgelegten Grenzen. Vorbehalten bleiben die verfassungsmässigen bzw. gesetzlichen Kompetenzen der Urversammlung bzw. des Generalrats.
+<sup>1</sup> Auf Gemeindeebene ist der Gemeinderat unter Berücksichtigung der in Artikel 10 aufgeführten Verantwortlichkeiten und Zuständigkeiten die politische Entscheidungsbehörde, auf interkommunaler Ebene ist dies der Regionalrat, allerdings immer innerhalb den von den Statuten beziehungsweise Vereinbarungen festgelegten Grenzen. Vorbehalten bleiben die verfassungsmässigen beziehungsweise gesetzlichen Kompetenzen der Urversammlung beziehungsweise des Generalrats.
 
-<sup>2</sup> Der Gemeinderat bzw. der Regionalrat können einen Teil ihrer Kompetenzen auf eine kommunale oder interkommunale Schulkommission übertragen.
+<sup>2</sup> Der Gemeinderat beziehungsweise der Regionalrat können einen Teil ihrer Kompetenzen auf eine kommunale oder interkommunale Schulkommission übertragen.
 
 <sup>3</sup> Der Regionalrat einer interkommunalen OS nimmt die Verantwortlichkeiten und Aufgaben wahr, die ihm anstelle und im Namen der Partnergemeinden zukommen.
 
@@ -154,7 +147,7 @@ Allgemeine Verantwortlichkeit und Übertragung von Kompetenzen
 
 **Die kommunale oder interkommunale Schulkommission**
 
-Eine Verordnung legt die verschiedenen Aufgaben zu den in Artikel 10 genannten Verantwortlichkeiten und Kompetenzen fest.
+<sup>1</sup> Eine Verordnung legt die verschiedenen Aufgaben zu den in Artikel 10 genannten Verantwortlichkeiten und Kompetenzen fest.
 
 #### Art. 13
 
@@ -163,7 +156,6 @@ Eine Verordnung legt die verschiedenen Aufgaben zu den in Artikel 10 genannten V
 <sup>1</sup> Der Direktionsrat umfasst:
 
 - a) den Schuldirektor;
-
 - b) den oder die Stellvertreter.
 
 <sup>2</sup> Auf der Grundlage der vom Departement beschlossenen Kriterien werden die notwendigen Mittel für die Schaffung eines Direktionsrats und die Ausführung der in einem kantonalen Pflichtenheft festgelegten Aufgaben zugeteilt.
@@ -190,79 +182,69 @@ Eine Verordnung legt die verschiedenen Aufgaben zu den in Artikel 10 genannten V
 
 **Die Lehrpersonen und die Schüler**
 
-Die OS umfasst auch:
+<sup>1</sup> Die OS umfasst auch:
 
-- 1\. Die Lehrpersonen:
+- a) die Lehrpersonen:
+  - 1\. sie sind Mitglieder:
+  - 1\.1. der allgemeinen Lehrerkonferenz,
+  - 1\.2. der Klassenräte,
+  - 1\.3. der Fachschaften;
+  - 2\. sie können folgende Funktionen wahrnehmen:
+  - 2\.1. Klassenlehrperson,
+  - 2\.2. schulischer Mediator,
+  - 2\.3. Verantwortlicher für spezifische Aktivitäten;
+  - 3\. das Statut der Lehrpersonen wird durch die Spezialgesetzgebung geregelt.
+- b) die Schüler: in der Spezialgesetzgebung sind die Rechte und Pflichten der Schüler geregelt. Es kann ein Schülerrat gebildet werden.
 
-- a) Sie sind Mitglieder:
-
-- der allgemeinen Lehrerkonferenz;
-
-- der Klassenräte;
-
-- der Fachschaften.
-
-- b) Sie können folgende Funktionen wahrnehmen:
-
-- Klassenlehrperson;
-
-- schulischer Mediator;
-
-- Verantwortlicher für spezifische Aktivitäten.
-
-- c) Das Statut der Lehrpersonen wird durch die Spezialgesetzgebung geregelt.
-
-- 2\. Die Schüler: in der Spezialgesetzgebung sind die Rechte und Pflichten der Schüler geregelt. Es kann ein Schülerrat gebildet werden.
-
-### 3. Kapitel: Übergang Primarschule – OS
+## 3 Übergang Primarschule - OS
 
 #### Art. 17
 
-<sup>1</sup> Besondere Massnahmen
+**Besondere Massnahmen**
 
-Zur Gewährleistung eines harmonischen Übertritts von der 8. Primarklasse in die OS werden besondere Massnahmen getroffen, namentlich Bestimmungen und spezifische Aufgaben, die das Departement für die betreffenden Lehrpersonen festlegt.
+<sup>1</sup> Zur Gewährleistung eines harmonischen Übertritts von der 8. Primarklasse in die OS werden besondere Massnahmen getroffen, namentlich Bestimmungen und spezifische Aufgaben, die das Departement für die betreffenden Lehrpersonen festlegt.
 
 #### Art. 18
 
-<sup>1</sup> Beurteilungsgespräche
+**Beurteilungsgespräche**
 
-Im Hinblick auf die Aufnahme in die OS finden Einzelgespräche zwischen der Klassenlehrperson der 8. Primarklasse, dem Schüler und den Eltern statt. Es kann der Beizug einer Fachperson verlangt werden.
+<sup>1</sup> Im Hinblick auf die Aufnahme in die OS finden Einzelgespräche zwischen der Klassenlehrperson der 8. Primarklasse, dem Schüler und den Eltern statt. Es kann der Beizug einer Fachperson verlangt werden.
 
 #### Art. 19
 
-<sup>1</sup> Evaluationsbericht
+**Evaluationsbericht**
 
-Am Ende des Schuljahres erstellt die Klassenlehrperson der 8. Primarklasse aufgrund verschiedener Beurteilungselemente einen Evaluationsbericht, der auch die Niveaus angibt, in die der Schüler im ersten Jahr der OS (1. OS) eingeteilt wird. Dieses offizielle Dokument wird den Eltern zur Unterzeichnung vorgelegt und an die Direktion der OS weitergeleitet.
+<sup>1</sup> Am Ende des Schuljahres erstellt die Klassenlehrperson der 8. Primarklasse aufgrund verschiedener Beurteilungselemente einen Evaluationsbericht, der auch die Niveaus angibt, in die der Schüler im ersten Jahr der OS (1. OS) eingeteilt wird. Dieses offizielle Dokument wird den Eltern zur Unterzeichnung vorgelegt und an die Direktion der OS weitergeleitet.
 
 #### Art. 20
 
 **Anmeldungen für die 1. OS**
 
-Die Gemeinden sind über die Schulkommissionen oder die Schuldirektionen der Primarschulen verpflichtet, der OS gemäss den vom Departement festgelegten Abgabeterminen die provisorischen und definitiven Schülerzahlen des ersten Jahres mit Niveauangaben mitzuteilen.
+<sup>1</sup> Die Gemeinden sind über die Schulkommissionen oder die Schuldirektionen der Primarschulen verpflichtet, der OS gemäss den vom Departement festgelegten Abgabeterminen die provisorischen und definitiven Schülerzahlen des ersten Jahres mit Niveauangaben mitzuteilen.
 
-### 4. Kapitel: Allgemeine Organisation der OS
+## 4 Allgemeine Organisation der OS
 
-### 1. Abschnitt: Aufnahme
+### 4.1 Aufnahme
 
 #### Art. 21
 
 **Aufgenommene Schüler**
 
-<sup>1</sup> Nach der 8. Primarklasse wird in die OS aufgenommen:<sup>1</sup> a) der Schüler, der bestanden hat, d.h. dessen Notendurchschnitt in den Fächern der ersten Gruppe und dessen Gesamtdurchschnitt 4,0 oder mehr beträgt;
+<sup>1</sup> Nach der 8. Primarklasse wird in die OS aufgenommen:
 
+- a) der Schüler, der bestanden hat, das heisst dessen Notendurchschnitt in den Fächern der ersten Gruppe und dessen Gesamtdurchschnitt 4.0 oder mehr beträgt;
 - b) der Schüler, der nicht bestanden hat, dem aber zur Erfüllung der Schulpflicht nur noch zwei Jahre fehlen;
-
 - c) der Schüler, der in einem oder in mehreren Fächern der 8. Primarklasse in den Genuss eines angepassten Programms gekommen ist.
 
 <sup>2</sup> Auf Vormeinung der Schuldirektion und nach Anhörung der Eltern entscheidet der Schulinspektor über die Sonderfälle. Gegebenenfalls ist ein Departementsentscheid erforderlich.
 
 #### Art. 22
 
-<sup>1</sup> Ausnahmen – Verantwortung der Eltern
+**Ausnahmen - Verantwortung der Eltern**
 
-Aufgrund der Gesamtbeurteilung am Ende der 8. Primarklasse können Eltern eigenverantwortlich entscheiden, ihr Kind, das die 8. Primarklasse bestanden hat, die Klasse dennoch wiederholen zu lassen, wenn sein Jahresdurchschnitt in den Fächern der ersten Gruppe und/oder sein Gesamtdurchschnitt zwischen 4,0 und 4,2 liegen und sofern ihm noch drei Jahre für die Erfüllung der Schulpflicht verbleiben.
+<sup>1</sup> Aufgrund der Gesamtbeurteilung am Ende der 8. Primarklasse können Eltern eigenverantwortlich entscheiden, ihr Kind, das die 8. Primarklasse bestanden hat, die Klasse dennoch wiederholen zu lassen, wenn sein Jahresdurchschnitt in den Fächern der ersten Gruppe und/oder sein Gesamtdurchschnitt zwischen 4.0 und 4.2 liegen und sofern ihm noch drei Jahre für die Erfüllung der Schulpflicht verbleiben.
 
-### 2. Abschnitt: Allgemeine Struktur
+### 4.2 Allgemeine Struktur
 
 #### Art. 23
 
@@ -276,27 +258,24 @@ Aufgrund der Gesamtbeurteilung am Ende der 8. Primarklasse können Eltern eigenv
 
 #### Art. 24
 
-**Erstes Jahr der OS (1. OS) – Merkmale – Einteilung der Schüler**
+**Erstes Jahr der OS (1. OS) - Merkmale - Einteilung der Schüler**
 
 <sup>1</sup> Im ersten Jahr sind alle Schüler in heterogenen Klassen vereinigt, Ausnahme bilden die Unterrichtssprache (L1) und Mathematik, die in zwei Niveaus unterrichtet werden.
 
 <sup>2</sup> Ausgenommen für die Niveaufächer gewährt das Departement pro Stammklasse bis zu acht Wochenlektionen, damit gewisse Unterrichtseinheiten in Halbklassen erteilt oder reorganisiert werden können, primär für die L2. Dies kann aus pädagogischen, personellen oder infrastrukturellen Gründen erfolgen. Die Schuldirektion unterbreitet die Organisation dem Departement zur Genehmigung.
 
-<sup>3</sup> Die Niveaueinteilung in der 1. OS erfolgt aufgrund des Jahresdurchschnitts am Ende der 8. Primarklasse in jedem der betreffenden Fächer:<sup>1</sup> a) Jahresdurchschnitt 5,0 oder mehr: Möglichkeit, am Unterricht in Niveau I teilzunehmen;
+<sup>3</sup> Die Niveaueinteilung in der 1. OS erfolgt aufgrund des Jahresdurchschnitts am Ende der 8. Primarklasse in jedem der betreffenden Fächer:
 
-- b) Jahresdurchschnitt 4,7 oder weniger: Niveau II;
-
-- c) Jahresdurchschnitt 4,8 oder 4,9: Niveau I, falls mindestens zwei der nachstehenden drei Kriterien erfüllt sind, ansonsten Niveau II:
-
-- Resultat der kantonalen Prüfung: 5,0 und mehr: Niveau I; 4,9 und weniger: Niveau II;
-
-- Meinung der Eltern;
-
-- Meinung der Lehrperson der 8. Primarklasse aufgrund einer Gesamtbeurteilung.
+- a) Jahresdurchschnitt 5.0 oder mehr: Möglichkeit, am Unterricht in Niveau I teilzunehmen;
+- b) Jahresdurchschnitt 4.7 oder weniger: Niveau II;
+- c) Jahresdurchschnitt 4.8 oder 4.9: Niveau I, falls mindestens zwei der nachstehenden drei Kriterien erfüllt sind, ansonsten Niveau II:
+  - 1\. Resultat der kantonalen Prüfung: 5.0 und mehr: Niveau I; 4.9 und weniger: Niveau II,
+  - 2\. Meinung der Eltern,
+  - 3\. Meinung der Lehrperson der 8. Primarklasse aufgrund einer Gesamtbeurteilung.
 
 #### Art. 25
 
-**Zweites Jahr der OS (2. OS) – Merkmale – Einteilung der Schüler**
+**Zweites Jahr der OS (2. OS) - Merkmale - Einteilung der Schüler**
 
 <sup>1</sup> Im zweiten Jahr sind alle Schüler in heterogenen Klassen vereinigt, Ausnahme bilden die Unterrichtssprache (L1), die erste Fremdsprache (L2), Mathematik und Naturwissenschaften, die in zwei Niveaus unterrichtet werden.
 
@@ -304,15 +283,13 @@ Aufgrund der Gesamtbeurteilung am Ende der 8. Primarklasse können Eltern eigenv
 
 <sup>3</sup> Für die neuen Fächer, die in Niveaus unterrichtet werden (L2 und Naturwissenschaften), erfolgt die Einteilung aufgrund des Jahresdurchschnitts in den entsprechenden Fächern am Ende der 1. OS wie folgt:
 
-- a) 5,0 oder mehr: Möglichkeit, am Unterricht in Niveau I teilzunehmen;
-
-- b) 4,7 oder weniger: Niveau II;
-
-- c) 4,8 oder 4,9: Entscheidung des Schuldirektors, auf Antrag des Klassenrats, nach Anhörung der Eltern.
+- a) 5.0 oder mehr: Möglichkeit, am Unterricht in Niveau I teilzunehmen;
+- b) 4.7 oder weniger: Niveau II;
+- c) 4.8 oder 4.9: Entscheidung des Schuldirektors, auf Antrag des Klassenrats, nach Anhörung der Eltern.
 
 #### Art. 26
 
-**Drittes Jahr der OS (3. OS) – Merkmale**
+**Drittes Jahr der OS (3. OS) - Merkmale**
 
 <sup>1</sup> Im dritten Jahr sind alle Schüler in heterogenen Klassen vereinigt, Ausnahmen bilden die Unterrichtssprache (L1), die erste Fremdsprache (L2), Mathematik und Naturwissenschaften, die in zwei Niveaus unterrichtet werden.
 
@@ -334,11 +311,11 @@ Aufgrund der Gesamtbeurteilung am Ende der 8. Primarklasse können Eltern eigenv
 
 **Zusammenlegung von Klassen**
 
-<sup>1</sup> In den Fällen, in denen die Organisation einer Klasse bzw. von Klassen pro Schuljahr und/oder pro Niveau wegen ungenügender Bestände nicht mehr möglich ist, können die Schüler verschiedener Schuljahre bzw. unterschiedlicher Niveaus in einer einzigen Klasse bzw. Gruppe zusammengelegt werden. Den Niveaus und den Programmen der verschiedenen Jahre ist Rechnung zu tragen.
+<sup>1</sup> In den Fällen, in denen die Organisation einer Klasse beziehungsweise von Klassen pro Schuljahr und/oder pro Niveau wegen ungenügender Bestände nicht mehr möglich ist, können die Schüler verschiedener Schuljahre beziehungsweise unterschiedlicher Niveaus in einer einzigen Klasse beziehungsweise Gruppe zusammengelegt werden. Den Niveaus und den Programmen der verschiedenen Jahre ist Rechnung zu tragen.
 
 <sup>2</sup> Das Departement entscheidet über diese Zusammenlegungen.
 
-### 3. Abschnitt: Übertritt in der OS – Promotionsbedingungen
+### 4.3 Übertritt in der OS - Promotionsbedingungen
 
 #### Art. 29
 
@@ -358,19 +335,21 @@ Aufgrund der Gesamtbeurteilung am Ende der 8. Primarklasse können Eltern eigenv
 
 #### Art. 30
 
-Promotion von der 1. OS in die 2. OS und von der 2. OS in die 3. OS Am Ende der 1. und der 2. OS tritt der Schüler in die höhere Klasse über, wenn er:
+**Promotion von der 1. OS in die 2. OS und von der 2. OS in die 3. OS**
 
-- a) einen Gesamtdurchschnitt von 4,0 oder mehr erreicht hat und
+<sup>1</sup> Am Ende der 1. und der 2. OS tritt der Schüler in die höhere Klasse über, wenn er:
 
-- b) in jedem Fach mit Niveauunterricht die Note 4,0 oder mehr oder in einem einzigen im Niveau II besuchten Fach eine Note unter 4,0 erzielt hat.
+- a) einen Gesamtdurchschnitt von 4.0 oder mehr erreicht hat; und
+- b) in jedem Fach mit Niveauunterricht die Note 4.0 oder mehr oder in einem einzigen im Niveau II besuchten Fach eine Note unter 4.0 erzielt hat.
 
 #### Art. 31
 
-Promotion von der 1. OS in die 2. OS und von der 2. OS in die 3. OS mit Übertritt in ein anderes Niveau Am Ende der 1. und der 2. OS tritt der Schüler in die höhere Klasse mit Wechsel in das Niveau II im betreffenden Fach/in den betreffenden Fächern über, wenn er:
+**Promotion von der 1. OS in die 2. OS und von der 2. OS in die 3. OS mit Übertritt in ein anderes Niveau**
 
-- a) einen Gesamtdurchschnitt von 4,0 oder mehr erreicht hat und
+<sup>1</sup> Am Ende der 1. und der 2. OS tritt der Schüler in die höhere Klasse mit Wechsel in das Niveau II im betreffenden Fach/in den betreffenden Fächern über, wenn er:
 
-- b) in einem oder mehreren im Niveau I besuchten Fach/Fächern eine Note unter 4,0 erzielt hat.
+- a) einen Gesamtdurchschnitt von 4.0 oder mehr erreicht hat; und
+- b) in einem oder mehreren im Niveau I besuchten Fach/Fächern eine Note unter 4.0 erzielt hat.
 
 #### Art. 32
 
@@ -378,9 +357,8 @@ Promotion von der 1. OS in die 2. OS und von der 2. OS in die 3. OS mit Übertri
 
 <sup>1</sup> Am Ende der 1. und der 2. OS hat der Schüler das Schuljahr nicht bestanden, wenn er:
 
-- a) einen Gesamtdurchschnitt unter 4,0 erreicht hat oder
-
-- b) in zwei oder mehreren im Niveau II besuchten Fächern eine Note unter 4,0 erzielt hat.
+- a) einen Gesamtdurchschnitt unter 4.0 erreicht hat, oder
+- b) in zwei oder mehreren im Niveau II besuchten Fächern eine Note unter 4.0 erzielt hat.
 
 <sup>2</sup> Der Schüler, der das Schuljahr nicht bestanden hat, wiederholt die Klasse oder tritt auf Antrag des Schuldirektors mit einem angepassten Programm in die nächsthöhere Klasse über (Hilfs- und Sonderschulunterricht). Die Eltern entscheiden in letzter Instanz.
 
@@ -388,13 +366,13 @@ Promotion von der 1. OS in die 2. OS und von der 2. OS in die 3. OS mit Übertri
 
 **Bestehen der 3. OS**
 
-Der Schüler hat die 3. OS bestanden, wenn er einen Gesamtdurchschnitt von 4,0 und mehr und in drei Fächern mit Niveauunterricht die Note 4,0 und mehr erreicht hat.
+<sup>1</sup> Der Schüler hat die 3. OS bestanden, wenn er einen Gesamtdurchschnitt von 4.0 und mehr und in drei Fächern mit Niveauunterricht die Note 4.0 und mehr erreicht hat.
 
 #### Art. 34
 
 **Noten, die eine Promotion ausschliessen**
 
-Die Klasse gilt als nicht bestanden, wenn der Schüler in irgendeinem Fach und Schuljahr eine Note 1 (1,0 bis 1,4) oder zwei Noten 2 (1,5 bis 2,4) oder eine Note 2 und zwei Noten 3 (2,5 bis 3,4) oder mehr als drei Noten 3 erreicht hat.
+<sup>1</sup> Die Klasse gilt als nicht bestanden, wenn der Schüler in irgendeinem Fach und Schuljahr eine Note 1 (1.0 bis 1.4) oder zwei Noten 2 (1.5 bis 2.4) oder eine Note 2 und zwei Noten 3 (2.5 bis 3.4) oder mehr als drei Noten 3 erreicht hat.
 
 #### Art. 35
 
@@ -402,7 +380,7 @@ Die Klasse gilt als nicht bestanden, wenn der Schüler in irgendeinem Fach und S
 
 <sup>1</sup> Im Laufe des Schuljahres kann ein Niveauwechsel je nach den Fähigkeiten und Ergebnissen des Schülers grundsätzlich am Ende des ersten Semesters stattfinden, nicht aber vor Semestermitte und spätestens Ende März.
 
-<sup>2</sup> Im Laufe des Schuljahres ist ein Übertritt von Niveau II ins Niveau I nur möglich, wenn der Schüler im entsprechenden Fach die Note 5,0 oder mehr erreicht hat.
+<sup>2</sup> Im Laufe des Schuljahres ist ein Übertritt von Niveau II ins Niveau I nur möglich, wenn der Schüler im entsprechenden Fach die Note 5.0 oder mehr erreicht hat.
 
 <sup>3</sup> Die Übertrittsgesuche im Laufe des Schuljahres werden vom Klassenlehrer, auf allfälligen Antrag der Eltern, an den Schuldirektor gerichtet, der entscheidet.
 
@@ -432,9 +410,9 @@ Die Klasse gilt als nicht bestanden, wenn der Schüler in irgendeinem Fach und S
 
 **Überspringen einer Klasse**
 
-Das Departement erlässt eine Weisung, die das Überspringen einer Klasse an der OS regelt.
+<sup>1</sup> Das Departement erlässt eine Weisung, die das Überspringen einer Klasse an der OS regelt.
 
-### 4. Abschnitt: Hilfsangebote für Schüler
+### 4.4 Hilfsangebote für Schüler
 
 #### Art. 39
 
@@ -470,17 +448,17 @@ Das Departement erlässt eine Weisung, die das Überspringen einer Klasse an der
 
 #### Art. 42
 
-<sup>1</sup> Beaufsichtigtes Studium
+**Beaufsichtigtes Studium**
 
-Der Schuldirektor kann ein beaufsichtigtes Studium organisieren, das den Bedürfnissen der Schüler entspricht.
+<sup>1</sup> Der Schuldirektor kann ein beaufsichtigtes Studium organisieren, das den Bedürfnissen der Schüler entspricht.
 
 #### Art. 43
 
 **Besondere Platzierung**
 
-Beim Schüler, der besondere Schwierigkeiten bereitet und bei dem alle gängigen Lösungsmassnahmen nicht zum Erfolg geführt haben, kann das Departement auf Antrag des Schulinspektors eine Verlegung in eine andere Struktur anordnen.
+<sup>1</sup> Beim Schüler, der besondere Schwierigkeiten bereitet und bei dem alle gängigen Lösungsmassnahmen nicht zum Erfolg geführt haben, kann das Departement auf Antrag des Schulinspektors eine Verlegung in eine andere Struktur anordnen.
 
-### 5. Abschnitt: Hilfs- und Sonderschulunterricht
+### 4.5 Hilfs- und Sonderschulunterricht
 
 #### Art. 44
 
@@ -489,11 +467,8 @@ Beim Schüler, der besondere Schwierigkeiten bereitet und bei dem alle gängigen
 <sup>1</sup> Die Hilfs- und Sonderschulmassnahmen zugunsten der Schüler mit besonderen Bedürfnissen beinhalten:
 
 - a) den integrierten Stützunterricht;
-
 - b) die Beobachtungsklassen;
-
-- c) die verstärkten Sonderschulmassnahmen: Sonderschulklassen und Sonderschulen;<sup>2</sup>
-
+- c) die verstärkten Sonderschulmassnahmen: Sonderschulklassen und Sonderschulen;
 - d) die in Artikel 58 vorgesehenen Vorlehrklassen.
 
 <sup>2</sup> Diese verschiedenen Massnahmen werden von Hilfs- und Sonderschullehrpersonen mit einem anerkannten Diplom erteilt.
@@ -506,17 +481,17 @@ Beim Schüler, der besondere Schwierigkeiten bereitet und bei dem alle gängigen
 
 <sup>1</sup> Folgende Schüler gelangen in den Genuss der Hilfs- und Sonderschulmassnahmen:
 
-- a) Der Schüler, dem zur Erfüllung seiner Schulpflicht nur mehr zwei Jahre fehlen und der die Bedingungen für die Aufnahme in die Orientierungsschule nicht erfüllt.
-
-- b) Der Schüler, der in der Primarschule in einem oder mehreren Fächern an einem angepassten Programm teilgenommen hat.
-
-- c) Der Schüler, der die 1. OS nicht bestanden hat und dem zur Erfüllung seiner Schulpflicht nur noch ein Jahr fehlt.
+- a) der Schüler, dem zur Erfüllung seiner Schulpflicht nur mehr zwei Jahre fehlen und der die Bedingungen für die Aufnahme in die Orientierungsschule nicht erfüllt;
+- b) der Schüler, der in der Primarschule in einem oder mehreren Fächern an einem angepassten Programm teilgenommen hat;
+- c) der Schüler, der die 1. OS nicht bestanden hat und dem zur Erfüllung seiner Schulpflicht nur noch ein Jahr fehlt.
 
 <sup>2</sup> Auf der Grundlage einer spezifischen Meldung des Schuldirektors befindet der Schulinspektor in Zusammenarbeit mit dem pädagogischen Berater für Hilfs- und Sonderschulmassnahmen über andere besondere Fälle.
 
 #### Art. 46
 
-Zielgruppe für besondere Hilfs- und Sonderschulmassnahmen Aufgrund eines individuellen Beurteilungsverfahrens kann der Schüler mit einer Entwicklungsverzögerung oder andern schweren Formen von Defiziten von besonderen Hilfs- und Sonderschulmassnahmen profitieren, so wie in Artikel 51 vorgesehen.
+**Zielgruppe für besondere Hilfs- und Sonderschulmassnahmen**
+
+<sup>1</sup> Aufgrund eines individuellen Beurteilungsverfahrens kann der Schüler mit einer Entwicklungsverzögerung oder andern schweren Formen von Defiziten von besonderen Hilfs- und Sonderschulmassnahmen profitieren, so wie in Artikel 51 vorgesehen.
 
 #### Art. 47
 
@@ -524,13 +499,11 @@ Zielgruppe für besondere Hilfs- und Sonderschulmassnahmen Aufgrund eines indivi
 
 <sup>1</sup> Es wird angestrebt, Schüler mit besonderen Bedürfnissen zu integrieren.
 
-<sup>2</sup> Bei seinem Eintritt in die OS kann der Schüler, der eines der in den Artikeln 45 und 46 aufgeführten Kriterien erfüllt, in einem oder mehreren betroffenen Fächern in das Niveau II eintreten, wenn mindestens zwei der drei nachstehenden Kriterien erfüllt sind:<sup>1</sup> a) Bestehen der kantonalen Prüfung in dem oder den betroffenen Fächern;
+<sup>2</sup> Bei seinem Eintritt in die OS kann der Schüler, der eines der in den Artikeln 45 und 46 aufgeführten Kriterien erfüllt, in einem oder mehreren betroffenen Fächern in das Niveau II eintreten, wenn mindestens zwei der drei nachstehenden Kriterien erfüllt sind:
 
+- a) Bestehen der kantonalen Prüfung in dem oder den betroffenen Fächern;
 - b) Meinung der Eltern;
-
 - c) Meinung der Lehrperson der 8. Primarklasse aufgrund einer Gesamtbeurteilung.
-
-Andernfalls sind für ihn grundsätzlich Hilfs- und Sonderschulmassnahmen vorgesehen.
 
 <sup>3</sup> Wenn ein Schüler in der 2. oder 3. OS eines der in den Artikeln 45 und 46 aufgeführten Kriterien erfüllt, jedoch die Fähigkeit besitzt, dem einen oder anderen Fach im Niveau II zu folgen, kann er in dasselbe aufgenommen werden.
 
@@ -550,25 +523,24 @@ Andernfalls sind für ihn grundsätzlich Hilfs- und Sonderschulmassnahmen vorges
 
 **Wahl der Schulorganisation**
 
-Nach Anhörung der Lehrpersonen schlägt die Schulbehörde dem Departement die Organisation des Hilfs- und Sonderschulwesens zur Genehmigung vor.
+<sup>1</sup> Nach Anhörung der Lehrpersonen schlägt die Schulbehörde dem Departement die Organisation des Hilfs- und Sonderschulwesens zur Genehmigung vor.
 
 #### Art. 50
 
 **Stundenzuteilung**
 
-Die Stundenzuteilung für die Hilfs- und Sonderschulmassnahmen erfolgt aufgrund der Anzahl Schüler pro OS mit besonderen Bedürfnissen und einer qualitativen Analyse der Fälle. Diese Analyse wird vom pädagogischen Berater für Hilfs- und Sonderschulmassnahmen in Zusammenarbeit mit dem Schuldirektor und dem Schulinspektor durchgeführt.
+<sup>1</sup> Die Stundenzuteilung für die Hilfs- und Sonderschulmassnahmen erfolgt aufgrund der Anzahl Schüler pro OS mit besonderen Bedürfnissen und einer qualitativen Analyse der Fälle. Diese Analyse wird vom pädagogischen Berater für Hilfs- und Sonderschulmassnahmen in Zusammenarbeit mit dem Schuldirektor und dem Schulinspektor durchgeführt.
 
 #### Art. 51
 
-<sup>2</sup> Verstärkte Sonderschulmassnahmen
+**Verstärkte Sonderschulmassnahmen**
 
-Die besonderen Hilfs- und Sonderschulmassnahmen beinhalten:
+<sup>1</sup> Die besonderen Hilfs- und Sonderschulmassnahmen beinhalten:
 
 - a) die integrierten oder zentralisierten Sonderschulklassen gemäss Artikel 23 des Gesetzes über das Hilfs- und Sonderschulwesen;
+- b) die Einschulung in eine Sonderschule.
 
-- b) die Einschulung in eine Sonderschule.<sup>2</sup>
-
-### 6. Abschnitt: Orientierungsauftrag
+### 4.6 Orientierungsauftrag
 
 #### Art. 52
 
@@ -588,18 +560,13 @@ Die besonderen Hilfs- und Sonderschulmassnahmen beinhalten:
 
 **Schrittweise Berufsorientierung**
 
-Die Struktur der OS und der dort erteilte Unterricht soll es dem Schüler ermöglichen, allmählich den Ausbildungsweg zu finden, der seinen Fähigkeiten und seinen Interessen am besten entspricht. In diesem Sinn:
+<sup>1</sup> Die Struktur der OS und der dort erteilte Unterricht soll es dem Schüler ermöglichen, allmählich den Ausbildungsweg zu finden, der seinen Fähigkeiten und seinen Interessen am besten entspricht. In diesem Sinn:
 
 - a) wird dem Schüler, in der Regel durch den Klassenlehrer, Berufswahlvorbereitung erteilt. Dieser Unterricht bietet ihm die Möglichkeit, die verschiedenen Berufsfelder der Arbeitswelt kennen zu lernen und die verschiedenen Ausbildungsarten und möglichen Schullaufbahnen zu entdecken;
-
 - b) verfügt der Schüler über eine Lehrperson, die ihm in den einzelnen Phasen des Abwägens zwischen seinen beruflichen Vorstellungen und den realen Gegebenheiten hilft und ihn auch in seinem Vorgehen je nach Notwendigkeit unterstützt;
-
 - c) kann der Schüler während seiner Zeit an der OS eine oder mehrere Schnupperlehren absolvieren;
-
 - d) hilft ein im Artikel 54 beschriebenes Berufswahlportfolio dem Schüler, eine kontinuierliche Bilanz seiner künftigen Berufswahl(en) zu erstellen;
-
 - e) steht ein Berufsberater dem Schüler und seinen Eltern sowie der Schule für eine persönliche Beratung zur Verfügung;
-
 - f) erstellt der Schüler Mitte der 2. OS zusammen mit dem Klassenlehrer und seinen Eltern und gegebenenfalls mit dem Berufsberater eine Bilanz seiner beruflichen Orientierung.
 
 #### Art. 54
@@ -631,18 +598,16 @@ Die Struktur der OS und der dort erteilte Unterricht soll es dem Schüler ermög
 <sup>3</sup> Eine Verordnung bestimmt:
 
 - a) die verschiedenen Arten des Unterrichts: Sprachaustausch, Sprachaufenthalt, Immersionsklassen, bilingualer Unterricht usw.;
-
 - b) die aufgenommenen Schüler und deren Statut;
-
 - c) die Organisation und Finanzierung.
 
-### 7. Abschnitt: Ende der Schulzeit – Diplom – Bestätigung
+### 4.7 Ende der Schulzeit - Diplom - Bestätigung
 
 #### Art. 57
 
-Diplom und Bestätigung am Ende der obligatorischen Schulzeit in der OS
+**Diplom und Bestätigung am Ende der obligatorischen Schulzeit in der OS**
 
-<sup>1</sup> Der Schüler erhält am Ende seiner obligatorischen Schulzeit (grundsätzlich auf das am 31. Juli vollendet 15. Altersjahr und elf Jahre Schulzeit) eine Bestätigung zur Befreiung von der Schulpflicht.<sup>1</sup>
+<sup>1</sup> Der Schüler erhält am Ende seiner obligatorischen Schulzeit (grundsätzlich auf das am 31. Juli vollendet 15. Altersjahr und elf Jahre Schulzeit) eine Bestätigung zur Befreiung von der Schulpflicht.
 
 <sup>2</sup> Der Schüler, der die 3. OS bestanden hat, erhält ein Diplom.
 
@@ -667,10 +632,8 @@ Diplom und Bestätigung am Ende der obligatorischen Schulzeit in der OS
 <sup>1</sup> Auf Anfrage der Eltern und Antrag des Klassenrats kann der Schuldirektor eine Verlängerung der obligatorischen Schulzeit beschliessen für:
 
 - a) einen Schüler, der das Programm der 3. OS noch nicht durchlaufen hat;
-
 - b) einen Schüler, der die 3. OS nicht bestanden und keine ausreichenden Resultate erzielt hat, um in eine berufsvorbereitende Schule überzutreten;
-
-- c) einen Schüler, der die 3. OS abgeschlossen und in mindestens zwei Fächern des Niveaus II eine Jahresnote von 5,0 oder mehr erreicht hat, aufgrund derer er in das Niveau I übertreten darf.
+- c) einen Schüler, der die 3. OS abgeschlossen und in mindestens zwei Fächern des Niveaus II eine Jahresnote von 5.0 oder mehr erreicht hat, aufgrund derer er in das Niveau I übertreten darf.
 
 <sup>2</sup> Auf Anfrage der Eltern und auf Antrag des Schuldirektors des Zentrums, wo der Schüler seine OS-Jahre besucht hat, kann der Schuldirektor des aufnehmenden Zentrums einem Schüler, der ein zehntes Schuljahr in der 3. OS immersiv im anderssprachigen Kantonsteil absolviert, die Verlängerung der obligatorischen Schulzeit erlauben.
 
@@ -678,43 +641,47 @@ Diplom und Bestätigung am Ende der obligatorischen Schulzeit in der OS
 
 **Vorzeitige Entlassung aus der obligatorischen Schulzeit**
 
-Ausnahmsweise und auf Antrag des Schuldirektors kann das Departement nach Anhörung des Klassenrats beschliessen, einen Schüler teilweise oder ganz aus der Schulpflicht zu entlassen.
+<sup>1</sup> Ausnahmsweise und auf Antrag des Schuldirektors kann das Departement nach Anhörung des Klassenrats beschliessen, einen Schüler teilweise oder ganz aus der Schulpflicht zu entlassen.
 
-### 5. Kapitel: Schulzeit und Urlaubstage
+## 5 Schulzeit und Urlaubstage
 
 #### Art. 61
 
 **Dauer des Schuljahres**
 
-Die Dauer des Schuljahres wird in den einschlägigen Bestimmungen geregelt.
+<sup>1</sup> Die Dauer des Schuljahres wird in den einschlägigen Bestimmungen geregelt.
 
 #### Art. 62
 
-<sup>1</sup> Urlaubstage
+**Urlaubstage**
 
-Die Urlaubstage der Schüler an der OS werden in einer Verordnung des Staatsrates geregelt.
+<sup>1</sup> Die Urlaubstage der Schüler an der OS werden in einer Verordnung des Staatsrates geregelt.
 
 #### Art. 63
 
-Urlaub für sportliche, künstlerische, kulturelle oder spirituelle Tätigkeiten Die Bedingungen für die Gewährung von Urlauben zur Teilnahme an sportlichen, künstlerischen, kulturellen oder spirituellen Tätigkeiten werden in den Weisungen des Departements geregelt.
+**Urlaub für sportliche, künstlerische, kulturelle oder spirituelle Tätigkeiten**
+
+<sup>1</sup> Die Bedingungen für die Gewährung von Urlauben zur Teilnahme an sportlichen, künstlerischen, kulturellen oder spirituellen Tätigkeiten werden in den Weisungen des Departements geregelt.
 
 #### Art. 64
 
-**Ausflüge, Veranstaltungen**
+**Ausflüge - Veranstaltungen**
 
-<sup>1</sup> Alle Schüler sind verpflichtet, an Ausflügen und Veranstaltungen teilzunehmen, die von der Schule organisiert werden. Die Eltern können aus stichhaltigen Gründen einen Dispens verlangen.
+<sup>1</sup> Die von der Schule während der Schulzeit organisierten Ausflüge und Veranstaltungen sind obligatorisch und unentgeltlich. Nur die Verpflegungskosten können den Eltern in Rechnung gestellt werden.
 
-<sup>2</sup> Für eine Reise, die länger als einen Tag dauert, ist das vorherige Einverständnis der Eltern erforderlich. Der Schuldirektor wacht darüber, dass diese Tätigkeiten für die Eltern nicht zu übermässigen Ausgaben führen.
+<sup>1<sup>bis</sup></sup> Die Eltern können aus stichhaltigen Gründen einen Dispens verlangen.
+
+<sup>2</sup> Für eine Reise, die länger als einen Tag dauert, ist das vorherige Einverständnis der Eltern erforderlich.
 
 <sup>3</sup> Dispensierte Schüler müssen in jedem Fall die Schule besuchen, wo für sie schulische oder ausserschulische Tätigkeiten geplant werden müssen.
 
-### 6. Kapitel: Zugang zu den weiterführenden Ausbildungsgängen
+## 6 Zugang zu den weiterführenden Ausbildungsgängen
 
 #### Art. 65
 
 **Grundsatz**
 
-Für den Zugang zu den Ausbildungsgängen der allgemein bildenden Sekundarstufe II werden die Jahresnoten und die besuchten Niveaus berücksichtigt.
+<sup>1</sup> Für den Zugang zu den Ausbildungsgängen der allgemein bildenden Sekundarstufe II werden die Jahresnoten und die besuchten Niveaus berücksichtigt.
 
 #### Art. 66
 
@@ -722,11 +689,10 @@ Für den Zugang zu den Ausbildungsgängen der allgemein bildenden Sekundarstufe 
 
 <sup>1</sup> Nach Abschluss der 2. OS kann der Schüler unter folgenden Bedingungen ins Gymnasium übertreten:
 
-- a) Schuljahr bestanden mit einem Gesamtdurchschnitt von mindestens 4,5 und
-
+- a) Schuljahr bestanden mit einem Gesamtdurchschnitt von mindestens 4.5; und
 - b) vier Niveaus I, davon drei mit einer Note von mindestens 4,5 und keine ungenügende Note in den Niveaufächern.
 
-<sup>2</sup> Nach Abschluss der 3. OS kann der Schüler unter folgenden Bedingungen ins Gymnasium übertreten: Diplom und vier Niveaus I besucht oder drei Niveaus I besucht und ein Niveau II mit einer Note von mindestens 5,0.
+<sup>2</sup> Nach Abschluss der 3. OS kann der Schüler unter folgenden Bedingungen ins Gymnasium übertreten: Diplom und vier Niveaus I besucht oder drei Niveaus I besucht und ein Niveau II mit einer Note von mindestens 5.0.
 
 <sup>3</sup> Die Schüler, welche diese Anforderungen in einem der vier Niveaufächer beziehungsweise in einem einzigen Niveau nicht erfüllen, können in diesem Fach eine Prüfung ablegen. Diese Prüfung wird durch das Departement organisiert.
 
@@ -736,9 +702,8 @@ Für den Zugang zu den Ausbildungsgängen der allgemein bildenden Sekundarstufe 
 
 <sup>1</sup> Nach Abschluss der 3. OS kann der Schüler unter folgenden Bedingungen in eine Handelsmittelschule oder eine Fachmittelschule übertreten:
 
-- a) Diplom der OS und höchstens
-
-- b) eine einzige Note im Niveau II unter der 5, jedoch höher oder gleich 4,5.
+- a) Diplom der OS und höchstens;
+- b) eine einzige Note im Niveau II unter der 5, jedoch höher oder gleich 4.5.
 
 <sup>2</sup> Der Staatsrat legt in einem Reglement die Zulassungsbedingungen für eine Ausbildung, die mit einer Berufsmaturität abschliesst, fest.
 
@@ -748,7 +713,7 @@ Für den Zugang zu den Ausbildungsgängen der allgemein bildenden Sekundarstufe 
 
 **Aufnahme in die Berufsausbildung**
 
-Die Aufnahme in die Berufsausbildung und die Berufsmaturität erfolgt gemäss den einschlägigen eidgenössischen und kantonalen Bestimmungen.
+<sup>1</sup> Die Aufnahme in die Berufsausbildung und die Berufsmaturität erfolgt gemäss den einschlägigen eidgenössischen und kantonalen Bestimmungen.
 
 #### Art. 69
 
@@ -758,15 +723,13 @@ Die Aufnahme in die Berufsausbildung und die Berufsmaturität erfolgt gemäss de
 
 <sup>2</sup> Der Schüler, der die 3. OS nicht bestanden hat, kann ebenfalls in eine berufsvorbereitende Schule übertreten, wenn er folgende Bedingungen kumulativ erfüllt:
 
-- a) Gesamtdurchschnitt von 4,0 oder mehr;
-
-- b) höchstens ein Fach im Niveau II unter der Note 4,0;
-
+- a) Gesamtdurchschnitt von 4.0 oder mehr;
+- b) höchstens ein Fach im Niveau II unter der Note 4.0;
 - c) keine Kombination ungenügender Noten, welche die Promotion ausschliessen.
 
 <sup>3</sup> Das Departement regelt die besonderen Fälle.
 
-### 7. Kapitel: Übergangs- und Schlussbestimmungen
+## 7 Übergangs- und Schlussbestimmungen
 
 #### Art. 70
 
@@ -780,17 +743,16 @@ Die Aufnahme in die Berufsausbildung und die Berufsmaturität erfolgt gemäss de
 
 **Aufhebung**
 
-Alle dem vorliegenden Gesetz widersprechenden Bestimmungen werden aufgehoben, namentlich:
+<sup>1</sup> Alle dem vorliegenden Gesetz widersprechenden Bestimmungen werden aufgehoben, namentlich:
 
 - a) das Gesetz über die Orientierungsschule vom 13. März 1987;
-
 - b) die Artikel 16 und 46 bis 56 des Gesetzes über das öffentliche Unterrichtswesen vom 4. Juli 1962.
 
-#### Art. 71bis
+#### Art. 71a
 
-<sup>1</sup> Analoge Anwendung
+**Analoge Anwendung**
 
-Die Artikel 3 bis 15, 17, 18, 19 Absätze 1 bis 4, 20, 21, 23 bis 26, 28 bis 34, 37, 38, 40, 42 bis 44 und 66 bis 72 des Gesetzes über die Primarschule sind für die Orientierungsschule ebenfalls anwendbar.
+<sup>1</sup> Die Artikel 3 bis 15, 17, 18, 19 Absätze 1 bis 4, 20, 21, 23 bis 26, 28 bis 34, 37, 38, 40, 42 bis 44 und 66 bis 72 des Gesetzes über die Primarschule sind für die Orientierungsschule ebenfalls anwendbar.
 
 #### Art. 72
 
@@ -808,20 +770,4 @@ Die Artikel 3 bis 15, 17, 18, 19 Absätze 1 bis 4, 20, 21, 23 bis 26, 28 bis 34,
 
 <sup>2</sup> Der Staatsrat bestimmt das Datum des Inkrafttretens des vorliegenden Gesetzes.
 
-So angenommen in zweiter Lesung im Grossen Rat in Sitten, den 10.
-
-September 2009.
-
-Der Präsident des Grossen Rates: Gilbert Loretan Der Chef des Parlamentsdienstes: Claude Bumann
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-Gesetz über die Orientierungsschule vom Abl. Nr. 39/2009;
-
-\10. September 2009 Abl. Nr. 37/2010
-
-<sup>1</sup> Änderung vom 15. November 2013 (Gesetz Abl. Nr. 51/2013; 01.08.2015 über die Primarschule vom 15. November Abl. Nr. 8/2015 2013, art. 73)
-
-<sup>2</sup> Änderung vom 12. Mai 2016 (Gesetz über die Abl. Nr. 24/2016; 01.12.2016 Sonderschulung (GSS) vom 12. Mai 2016, Art. Abl. Nr. 42/2016
-
-39 Ziff. 3)
+CSW BO/Abl. 39/2009, 37/2010

@@ -1,28 +1,28 @@
 ---
 canton: VS
 number: "411.2"
-title: Loi sur le Cycle d’Orientation
+title: "Loi sur le cycle d'orientation"
 short: LCO
 language: fr
-version: 2016-12-01
-corrected: 2017-09-06
-version_adopted: 2016-05-12
+version: 2021-08-01
+version_adopted: 2020-09-10
 adopted: 2009-09-10
 in_force: 2011-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/411.2"
-pdf: "https://lex.vs.ch/api/fr/versions/546/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2945/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur le Cycle d'Orientation
+# Loi sur le cycle d'orientation
 
-du 10 septembre 2009
+(LCO)
+
+du 10.09.2009 (état 01.08.2021)
 
 Le Grand Conseil du canton du Valais
 
-vu les articles 13, 31 alinéa 1 chiffre 1 et 42 alinéa 1 de la Constitution cantonale;
+vu les articles 13, 31 alinéa 1 lettre a et 42 alinéa 1 de la Constitution cantonale;
 
 vu la loi sur l’instruction publique du 4 juillet 1962;
 
@@ -30,13 +30,13 @@ sur la proposition du Conseil d'Etat,
 
 ordonne:
 
-### Chapitre 1: Généralités
+## 1 Généralités
 
 #### Art. 1
 
 **Champ d'application**
 
-<sup>1</sup> La présente loi organise l’enseignement du degré secondaire I dispensé dans les écoles du cycle d’orientation (ci-après CO).
+<sup>1</sup> La présente loi organise l’enseignement du degré secondaire I dispensé dans les écoles du cycle d’orientation (ci-après: CO).
 
 <sup>2</sup> Elle fixe la structure, les conditions d’admission et de promotion, les missions d’orientation du CO ainsi que l’accès à l’enseignement du degré secondaire II.
 
@@ -46,13 +46,13 @@ ordonne:
 
 **Egalité**
 
-Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l’homme ou la femme.
+<sup>1</sup> Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l’homme ou la femme.
 
 #### Art. 3
 
 **Définition**
 
-<sup>1</sup> Le CO fait suite à la huitième année de l'école primaire. Il comprend les trois dernières années de la scolarité obligatoire.<sup>1</sup>
+<sup>1</sup> Le CO fait suite à la huitième année de l'école primaire. Il comprend les trois dernières années de la scolarité obligatoire.
 
 <sup>2</sup> L’élève en âge de scolarité obligatoire qui fréquente la première année du lycée-collège est soumis aux dispositions relatives à l'enseignement du degré secondaire II général.
 
@@ -66,25 +66,22 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 
 <sup>2</sup> Le CO a notamment pour buts de:
 
-- a) consolider et compléter les savoirs acquis par l’élève à travers un enseignement exigeant et de qualité;
-
-- b) l’orienter progressivement vers la voie qui correspond le mieux à ses aptitudes et à ses goûts;
-
+- a) consolider et compléter les savoirs acquis par l'élève à travers un enseignement exigeant et de qualité;
+- b) l'orienter progressivement vers la voie qui correspond le mieux à ses aptitudes et à ses goûts;
 - c) former chez lui la capacité de discernement utile à sa perception de la société et du monde du travail et permettre le développement des compétences de collaboration et de communication;
-
-- d) développer chez lui, de manière équilibrée, structurée et par souci d’unité fondamentale de l’homme, à la fois l’intelligence, le sens des responsabilités, la volonté, la créativité, la mémoire, l’affectivité, la spiritualité et les dispositions physiques.
+- d) développer chez lui, de manière équilibrée, structurée et par souci d'unité fondamentale de l'homme, à la fois l'intelligence, le sens des responsabilités, la volonté, la créativité, la mémoire, l'affectivité, la spiritualité et les dispositions physiques.
 
 <sup>3</sup> Intégré au tissu social communal ou régional, le CO est également un lieu de rayonnement culturel.
 
 #### Art. 5
 
-**Plans d’études et moyens d’enseignement**
+**Plans d'études et moyens d'enseignement**
 
 <sup>1</sup> Les plans d’études sont conçus en fonction des objectifs généraux du CO. Ils définissent et harmonisent les objectifs à atteindre sur le plan cantonal et intercantonal.
 
 <sup>2</sup> Ils sont établis de manière à ce que des transferts soient possibles pendant et jusqu’au terme de la scolarité obligatoire. Dans ce sens, ils veillent à garantir la continuité et la coordination de l’enseignement au cours des années de CO et à favoriser le passage du primaire au CO et du CO à l’enseignement du degré secondaire II général ou professionnel.
 
-<sup>3</sup> Les moyens d’enseignement sont adaptés aux objectifs et aux plans d’études et peuvent être imposés par le Département de l’éducation, de la culture et du sport (ci-après le Département).
+<sup>3</sup> Les moyens d’enseignement sont adaptés aux objectifs et aux plans d’études et peuvent être imposés par le Département de l’éducation, de la culture et du sport (ci-après: le Département).
 
 #### Art. 6
 
@@ -96,9 +93,9 @@ Dans la présente loi, toute désignation de personne, de statut ou de fonction 
 
 #### Art. 7
 
-**Création – Extension**
+**Création - Extension**
 
-La création et l’extension/agrandissement d’écoles du CO communales/intercommunales doivent répondre aux critères de pédagogie et de rationalité, à la loi sur les subventions ainsi qu’aux normes et directives en matière de constructions scolaires.
+<sup>1</sup> La création et l’extension/agrandissement d’écoles du CO communales/intercommunales doivent répondre aux critères de pédagogie et de rationalité, à la loi sur les subventions ainsi qu’aux normes et directives en matière de constructions scolaires.
 
 #### Art. 8
 
@@ -112,13 +109,13 @@ La création et l’extension/agrandissement d’écoles du CO communales/interc
 
 **Information - Collaboration**
 
-<sup>1</sup> L’autorité scolaire a la responsabilité d’informer régulièrement les parents d’élèves ou le représentant légal (ci-après les parents) notamment sur les questions de structure du CO, les conditions d’admission et de progression à l’intérieur de la structure ainsi que sur l’ensemble des questions liées à l’orientation scolaire et professionnelle.
+<sup>1</sup> L’autorité scolaire a la responsabilité d’informer régulièrement les parents d’élèves ou le représentant légal (ci-après: les parents) notamment sur les questions de structure du CO, les conditions d’admission et de progression à l’intérieur de la structure ainsi que sur l’ensemble des questions liées à l’orientation scolaire et professionnelle.
 
 <sup>2</sup> La collaboration entre parents, enfants, enseignants et autorités scolaires est nécessaire pour toute question en rapport avec l’enseignement, le développement et le comportement de l’élève.
 
 <sup>3</sup> L’école collabore avec les associations de parents reconnues par les autorités scolaires.
 
-### Chapitre 2: Organes du CO
+## 2 Organes du CO
 
 #### Art. 10
 
@@ -130,15 +127,11 @@ La création et l’extension/agrandissement d’écoles du CO communales/interc
 
 <sup>3</sup> Le CO comprend:
 
-- a) Organes responsables administratifs:
-
-- le conseil municipal ou le conseil d'administration;
-
-- la commission scolaire communale ou intercommunale. Cet organe peut déléguer certaines de ses compétences au directeur;
-
-- b) Organe de direction:
-
-- le conseil de direction.
+- a) organes responsables administratifs:
+  - 1\. le conseil municipal ou le conseil d'administration,
+  - 2\. la commission scolaire communale ou intercommunale. Cet organe peut déléguer certaines de ses compétences au directeur;
+- b) organe de direction:
+  - 1\. le conseil de direction.
 
 #### Art. 11
 
@@ -154,7 +147,7 @@ La création et l’extension/agrandissement d’écoles du CO communales/interc
 
 **La Commission scolaire communale ou intercommunale**
 
-Un règlement spécial définit ses différentes missions relatives aux responsabilités et compétences citées à l’article 10.
+<sup>1</sup> Un règlement spécial définit ses différentes missions relatives aux responsabilités et compétences citées à l’article 10.
 
 #### Art. 13
 
@@ -163,7 +156,6 @@ Un règlement spécial définit ses différentes missions relatives aux responsa
 <sup>1</sup> Le Conseil de direction se compose:
 
 - a) du directeur;
-
 - b) du ou des adjoints.
 
 <sup>2</sup> Sur la base des critères arrêtés par le Département, les ressources nécessaires sont octroyées pour la constitution d’un Conseil de direction et la réalisation des tâches définies dans un cahier des charges cantonal.
@@ -190,79 +182,69 @@ Un règlement spécial définit ses différentes missions relatives aux responsa
 
 **Les enseignants et les élèves**
 
-Le CO comprend également:
+<sup>1</sup> Le CO comprend également:
 
-- 1\. Les enseignants:
+- a) les enseignants:
+  - 1\. ils sont membres de:
+  - 1\.1. la conférence générale des enseignants,
+  - 1\.2. les conseils de classe,
+  - 1\.3. les groupes de disciplines;
+  - 2\. ils peuvent être appelés à exercer des fonctions de:
+  - 2\.1. titulaire de classe,
+  - 2\.2. médiateur scolaire,
+  - 2\.3. responsable d'activités spécifiques;
+  - 3\. le statut des enseignants est régi par la législation spéciale.
+- b) les élèves: la législation spéciale régit les droits et devoirs des élèves. Un Conseil des élèves peut être constitué.
 
-- a) Ils sont membres de:
-
-- la conférence générale des enseignants;
-
-- les conseils de classe;
-
-- les groupes de disciplines.
-
-- b) Ils peuvent être appelés à exercer des fonctions de:
-
-- titulaire de classe;
-
-- médiateur scolaire;
-
-- responsable d’activités spécifiques.
-
-- c) Le statut des enseignants est régi par la législation spéciale.
-
-- 2\. Les élèves: La législation spéciale régit les droits et devoirs des élèves. Un Conseil des élèves peut être constitué.
-
-### Chapitre 3: Transition Primaire – CO
+## 3 Transition Primaire - CO
 
 #### Art. 17
 
-<sup>1</sup> Mesures particulières
+**Mesures particulières**
 
-Pour assurer un passage harmonieux entre la 8e primaire et le CO, des mesures particulières sont prévues, notamment les conditions et missions spécifiques définies par le Département pour les maîtres concernés.
+<sup>1</sup> Pour assurer un passage harmonieux entre la 8<sup>e</sup> primaire et le CO, des mesures particulières sont prévues, notamment les conditions et missions spécifiques définies par le Département pour les maîtres concernés.
 
 #### Art. 18
 
-<sup>1</sup> Entretiens d’appréciation
+**Entretiens d'appréciation**
 
-En vue de l'admission au CO, des entretiens individuels entre le titulaire de 8e primaire, l'élève et les parents sont organisés. L'appui d'un intervenant spécialisé peut être demandé.
+<sup>1</sup> En vue de l'admission au CO, des entretiens individuels entre le titulaire de 8<sup>e</sup> primaire, l'élève et les parents sont organisés. L'appui d'un intervenant spécialisé peut être demandé.
 
 #### Art. 19
 
-<sup>1</sup> Rapport d’évaluation
+**Rapport d'évaluation**
 
-Le titulaire de 8e primaire établit un rapport d'évaluation de fin d'année scolaire fondé sur divers éléments d'appréciation. Il indique également les niveaux qui seront suivis par l'élève en première année du CO (1CO). Ce document officiel est présenté aux parents qui le signent. Il est transmis à la direction du CO.
+<sup>1</sup> Le titulaire de 8<sup>e</sup> primaire établit un rapport d'évaluation de fin d'année scolaire fondé sur divers éléments d'appréciation. Il indique également les niveaux qui seront suivis par l'élève en première année du CO (1CO). Ce document officiel est présenté aux parents qui le signent. Il est transmis à la direction du CO.
 
 #### Art. 20
 
 **Inscriptions en 1CO**
 
-Les communes, par l'entremise des commissions scolaires ou des directions d'écoles primaires, ont l'obligation d'annoncer aux centres du CO les effectifs probables puis définitifs de première année avec indication des niveaux selon un calendrier établi par le Département.
+<sup>1</sup> Les communes, par l'entremise des commissions scolaires ou des directions d'écoles primaires, ont l'obligation d'annoncer aux centres du CO les effectifs probables puis définitifs de première année avec indication des niveaux selon un calendrier établi par le Département.
 
-### Chapitre 4: Organisation générale du CO
+## 4 Organisation générale du CO
 
-### Section 1: Admission
+### 4.1 Admission
 
 #### Art. 21
 
 **Elèves admis**
 
-<sup>1</sup> Au terme de la 8e année de l'école primaire, est admis au CO:<sup>1</sup> a) l'élève promu, soit celui dont la moyenne des notes du premier groupe et la moyenne générale sont égales ou supérieures à 4.0;
+<sup>1</sup> Au terme de la 8<sup>e</sup> année de l'école primaire, est admis au CO:
 
+- a) l'élève promu, soit celui dont la moyenne des notes du premier groupe et la moyenne générale sont égales ou supérieures à 4.0;
 - b) l'élève non promu mais auquel il ne reste que deux années de scolarité obligatoire;
-
-- c) l'élève au bénéfice d'un programme adapté dans une ou plusieurs disciplines de 8e primaire.
+- c) l'élève au bénéfice d'un programme adapté dans une ou plusieurs disciplines de 8<sup>e</sup> primaire.
 
 <sup>2</sup> L’inspecteur scolaire, sur préavis de la direction, les parents entendus, statue sur les cas particuliers. Cas échéant, une décision du Département est requise.
 
 #### Art. 22
 
-<sup>1</sup> Exception à l’admission – Responsabilité des parents
+**Exception à l'admission - Responsabilité des parents**
 
-En se fondant sur l'évaluation de fin de la 8e primaire, les parents peuvent décider sous leur responsabilité de faire redoubler la 8e primaire à leur enfant promu, si sa moyenne annuelle dans les branches du 1er groupe et/ou sa moyenne générale se situent entre 4,0 et 4,2, pour autant qu'il lui reste trois ans de scolarité obligatoire à accomplir.
+<sup>1</sup> En se fondant sur l'évaluation de fin de la 8<sup>e</sup> primaire, les parents peuvent décider sous leur responsabilité de faire redoubler la 8<sup>e</sup> primaire à leur enfant promu, si sa moyenne annuelle dans les branches du 1<sup>er</sup> groupe et/ou sa moyenne générale se situent entre 4.0 et 4.2, pour autant qu'il lui reste trois ans de scolarité obligatoire à accomplir.
 
-### Section 2: Structure générale
+### 4.2 Structure générale
 
 #### Art. 23
 
@@ -276,27 +258,24 @@ En se fondant sur l'évaluation de fin de la 8e primaire, les parents peuvent d�
 
 #### Art. 24
 
-Première année du CO (1CO) – Caractéristiques – Répartition des élèves
+**Première année du CO (1CO) - Caractéristiques - Répartition des élèves**
 
 <sup>1</sup> La première année regroupe tous les élèves en classes hétérogènes sauf pour la langue d'enseignement (L1) et les mathématiques qui sont enseignées à deux niveaux.
 
 <sup>2</sup> Le Département accorde, sauf pour les cours à niveaux et en priorité pour la L2, jusqu’à huit périodes/semaine par classe de base pour le dédoublement ou la réorganisation de certains cours. Cela peut être mis en place pour des raisons pédagogiques, de ressources humaines ou matérielles. La direction en propose l'organisation au Département pour approbation.
 
-<sup>3</sup> La répartition dans les niveaux en 1CO se fait en fonction de la moyenne annuelle en fin de 8e primaire dans chacune des branches considérées:<sup>1</sup> a) moyenne annuelle de 5,0 ou plus: possibilité de suivre l'enseignement en niveau I;
+<sup>3</sup> La répartition dans les niveaux en 1CO se fait en fonction de la moyenne annuelle en fin de 8<sup>e</sup> primaire dans chacune des branches considérées:
 
-- b) moyenne annuelle de 4,7 ou moins: niveau II;
-
-- c) moyenne annuelle à 4,8 ou 4,9: niveau I si au moins deux des trois critères ci-après sont favorables, sinon niveau II:
-
-- résultat de l'examen cantonal: 5,0 et plus: niveau I; 4,9 et moins: niveau II;
-
-- avis des parents;
-
-- avis du maître de 8e primaire fondé sur une évaluation globale.
+- a) moyenne annuelle de 5.0 ou plus: possibilité de suivre l'enseignement en niveau I;
+- b) moyenne annuelle de 4.7 ou moins: niveau II;
+- c) moyenne annuelle à 4.8 ou 4.9: niveau I si au moins deux des trois critères ci-après sont favorables, sinon niveau II:
+  - 1\. résultat de l'examen cantonal: 5.0 et plus: niveau I; 4.9 et moins: niveau II,
+  - 2\. avis des parents,
+  - 3\. avis du maître de 8<sup>e</sup> primaire fondé sur une évaluation globale.
 
 #### Art. 25
 
-Deuxième année du CO (2CO) – Caractéristiques – Répartition des élèves
+**Deuxième année du CO (2CO) - Caractéristiques - Répartition des élèves**
 
 <sup>1</sup> La deuxième année regroupe tous les élèves en classes hétérogènes sauf pour la langue d'enseignement (L1), la première langue étrangère (L2), les mathématiques et les sciences naturelles qui sont enseignées à deux niveaux.
 
@@ -304,11 +283,9 @@ Deuxième année du CO (2CO) – Caractéristiques – Répartition des élèves
 
 <sup>3</sup> Pour les nouvelles disciplines enseignées à niveaux (L2 et sciences naturelles), la répartition s’effectue en fonction de la moyenne annuelle dans chacune des deux disciplines considérées à la fin de la 1CO, soit:
 
-- a) 5,0 ou plus: possibilité de suivre l’enseignement en niveau I;
-
-- b) 4,7 ou moins: niveau II;
-
-- c) 4,8 ou 4,9: décision du directeur sur préavis du conseil de classe, les parents entendus.
+- a) 5.0 ou plus: possibilité de suivre l'enseignement en niveau I;
+- b) 4.7 ou moins: niveau II;
+- c) 4.8 ou 4.9: décision du directeur sur préavis du conseil de classe, les parents entendus.
 
 #### Art. 26
 
@@ -332,13 +309,13 @@ Deuxième année du CO (2CO) – Caractéristiques – Répartition des élèves
 
 #### Art. 28
 
-**Regroupement d’élèves**
+**Regroupement d'élèves**
 
 <sup>1</sup> Dans les cas où l’organisation de classe-s par année de programme et/ou par niveaux n’est plus possible en raison d’effectifs insuffisants, les élèves de différentes années de programme ou de différents niveaux peuvent être regroupés dans une seule classe. Les niveaux et les programmes des différentes années sont respectés.
 
 <sup>2</sup> Le Département décide de ces regroupements.
 
-### Section 3: Progression au CO - Conditions de promotion
+### 4.3 Progression au CO - Conditions de promotion
 
 #### Art. 29
 
@@ -360,19 +337,19 @@ Deuxième année du CO (2CO) – Caractéristiques – Répartition des élèves
 
 **Promotion de 1CO à 2CO et de 2CO à 3CO**
 
-Au terme de la 1CO et de la 2CO, est promu en classe supérieure l’élève:
+<sup>1</sup> Au terme de la 1CO et de la 2CO, est promu en classe supérieure l’élève:
 
-- a) qui a une moyenne générale égale ou supérieure à 4,0 et
-
-- b) qui a une note égale ou supérieure à 4,0 dans chacune des disciplines suivies à niveaux ou qui a une note inférieure à 4,0 dans une seule discipline suivie en niveau II.
+- a) qui a une moyenne générale égale ou supérieure à 4.0, et
+- b) qui a une note égale ou supérieure à 4.0 dans chacune des disciplines suivies à niveaux ou qui a une note inférieure à 4.0 dans une seule discipline suivie en niveau II.
 
 #### Art. 31
 
-Promotion de 1CO à 2CO et de 2CO à 3CO avec transfert(s) de niveau(x) Au terme de la 1CO et de la 2CO, est promu en classe supérieure mais avec un transfert en niveau(x) II pour la (les) disciplines concernée(s) l’élève:
+**Promotion de 1CO à 2CO et de 2CO à 3CO avec transfert(s) de niveau(x)**
 
-- a) qui a une moyenne générale égale ou supérieure à 4,0 et
+<sup>1</sup> Au terme de la 1CO et de la 2CO, est promu en classe supérieure mais avec un transfert en niveau(x) II pour la (les) disciplines concernée(s) l’élève:
 
-- b) qui a une note inférieure à 4,0 dans une ou plusieurs discipline(s) suivie(s) en niveau I.
+- a) qui a une moyenne générale égale ou supérieure à 4.0, et
+- b) qui a une note inférieure à 4.0 dans une ou plusieurs discipline(s) suivie(s) en niveau I.
 
 #### Art. 32
 
@@ -380,9 +357,8 @@ Promotion de 1CO à 2CO et de 2CO à 3CO avec transfert(s) de niveau(x) Au terme
 
 <sup>1</sup> Au terme de la 1CO et de la 2CO n’est pas promu l’élève:
 
-- a) qui a une moyenne générale inférieure à 4,0 ou
-
-- b) qui a des notes inférieures à 4,0 dans deux disciplines ou plus suivies en niveau II.
+- a) qui a une moyenne générale inférieure à 4.0, ou
+- b) qui a des notes inférieures à 4.0 dans deux disciplines ou plus suivies en niveau II.
 
 <sup>2</sup> L’élève non promu redouble ou, sur proposition du directeur, passe avec transfert en programme adapté (enseignement spécialisé). En dernière instance, les parents décident.
 
@@ -390,21 +366,21 @@ Promotion de 1CO à 2CO et de 2CO à 3CO avec transfert(s) de niveau(x) Au terme
 
 **Réussite de la 3CO**
 
-Est considéré comme ayant réussi la 3CO, l’élève qui a une moyenne générale égale ou supérieure à 4,0 et une note égale ou supérieure à 4,0 dans trois disciplines à niveaux.
+<sup>1</sup> Est considéré comme ayant réussi la 3CO, l’élève qui a une moyenne générale égale ou supérieure à 4.0 et une note égale ou supérieure à 4.0 dans trois disciplines à niveaux.
 
 #### Art. 34
 
 **Notes excluant la promotion**
 
-N’est pas promu l’élève qui a obtenu, quelles que soient la discipline et l’année de programme, une note 1 (1,0 à 1,4) ou deux notes 2 (1,5 à 2,4) ou une note 2 et deux notes 3 (2,5 à 3,4) ou plus de trois notes 3.
+<sup>1</sup> N’est pas promu l’élève qui a obtenu, quelles que soient la discipline et l’année de programme, une note 1 (1.0 à 1.4) ou deux notes 2 (1.5 à 2.4) ou une note 2 et deux notes 3 (2.5 à 3.4) ou plus de trois notes 3.
 
 #### Art. 35
 
-**Transfert en cours d’année scolaire**
+**Transfert en cours d'année scolaire**
 
 <sup>1</sup> En cours d’année scolaire, selon les aptitudes et résultats de l’élève, un transfert peut avoir lieu en principe à la fin du premier semestre mais entre la deuxième moitié du premier semestre et la fin mars au plus tard.
 
-<sup>2</sup> En cours d’année scolaire, un transfert de niveau II en niveau I n’est possible que si la note dans la discipline considérée est égale ou supérieure à 5,0.
+<sup>2</sup> En cours d’année scolaire, un transfert de niveau II en niveau I n’est possible que si la note dans la discipline considérée est égale ou supérieure à 5.0.
 
 <sup>3</sup> Les demandes de transfert(s) en cours d’année sont adressées par le titulaire, sur éventuelle proposition des parents, au directeur qui décide.
 
@@ -412,9 +388,9 @@ N’est pas promu l’élève qui a obtenu, quelles que soient la discipline et 
 
 #### Art. 36
 
-**Transfert en fin d’année scolaire**
+**Transfert en fin d'année scolaire**
 
-<sup>1</sup> Lorsque, en fin d’année scolaire, l’élève a une note de 5,0 et plus dans une discipline suivie en niveau II, il peut être transféré en niveau I dans la classe supérieure pour autant que les parents aient donné leur accord.
+<sup>1</sup> Lorsque, en fin d’année scolaire, l’élève a une note de 5.0 et plus dans une discipline suivie en niveau II, il peut être transféré en niveau I dans la classe supérieure pour autant que les parents aient donné leur accord.
 
 <sup>2</sup> Les transferts de niveau I au niveau II sont réglementés aux articles 31 et 32. Les parents sont associés au processus de décision.
 
@@ -422,7 +398,7 @@ N’est pas promu l’élève qui a obtenu, quelles que soient la discipline et 
 
 #### Art. 37
 
-**Redoublement d’un élève promu**
+**Redoublement d'un élève promu**
 
 <sup>1</sup> En principe, un élève promu ne peut pas redoubler une année.
 
@@ -434,9 +410,9 @@ N’est pas promu l’élève qui a obtenu, quelles que soient la discipline et 
 
 **Saut de classe**
 
-Le Département émet une directive qui règle le saut de classe au CO.
+<sup>1</sup> Le Département émet une directive qui règle le saut de classe au CO.
 
-### Section 4: Aides aux élèves
+### 4.4 Aides aux élèves
 
 #### Art. 39
 
@@ -472,31 +448,28 @@ Le Département émet une directive qui règle le saut de classe au CO.
 
 #### Art. 42
 
-<sup>1</sup> Etudes surveillées
+**Etudes surveillées**
 
-Le directeur peut organiser des études surveillées répondant aux besoins des élèves.
+<sup>1</sup> Le directeur peut organiser des études surveillées répondant aux besoins des élèves.
 
 #### Art. 43
 
 **Placement particulier**
 
-Pour l’élève particulièrement difficile et pour lequel toutes les mesures prises n’ont pas de résultats, le Département, sur proposition de l’inspecteur, peut exiger un placement dans une autre structure.
+<sup>1</sup> Pour l’élève particulièrement difficile et pour lequel toutes les mesures prises n’ont pas de résultats, le Département, sur proposition de l’inspecteur, peut exiger un placement dans une autre structure.
 
-### Section 5: Enseignement spécialisé
+### 4.5 Enseignement spécialisé
 
 #### Art. 44
 
-**Nature des mesures d’enseignement spécialisé**
+**Nature des mesures d'enseignement spécialisé**
 
 <sup>1</sup> Les mesures d’enseignement spécialisé à l’intention des élèves ayant des besoins particuliers comprennent:
 
 - a) les appuis pédagogiques intégrés;
-
-- b) les classes d’observation;
-
-- c) es mesures renforcées: les classes d'adaptation et les écoles spécialisées;<sup>2</sup>
-
-- d) les classes de préapprentissage, prévues à l’article 58.
+- b) les classes d'observation;
+- c) les mesures renforcées: les classes d'adaptation et les écoles spécialisées;
+- d) les classes de préapprentissage, prévues à l'article 58.
 
 <sup>2</sup> Ces différentes mesures sont dispensées par des enseignants au bénéfice d’un titre reconnu pour l’enseignement spécialisé.
 
@@ -504,21 +477,21 @@ Pour l’élève particulièrement difficile et pour lequel toutes les mesures p
 
 #### Art. 45
 
-**Elèves concernés par les mesures d’enseignement spécialisé**
+**Elèves concernés par les mesures d'enseignement spécialisé**
 
 <sup>1</sup> Les élèves au bénéfice de mesures d’enseignement spécialisé sont les suivants:
 
-- a) L’élève n’ayant plus que deux années de scolarité obligatoire à accomplir et qui n’a pas satisfait aux exigences pour l’entrée au cycle d’orientation.
-
-- b) L’élève qui, au degré primaire, était au bénéfice d’un programme adapté dans une ou plusieurs branches.
-
-- c) L’élève qui n’a pas réussi la 1CO et à qui il reste une seule année de scolarité obligatoire à accomplir.
+- a) l'élève n'ayant plus que deux années de scolarité obligatoire à accomplir et qui n'a pas satisfait aux exigences pour l'entrée au cycle d'orientation;
+- b) l'élève qui, au degré primaire, était au bénéfice d'un programme adapté dans une ou plusieurs branches;
+- c) l'élève qui n'a pas réussi la 1CO et à qui il reste une seule année de scolarité obligatoire à accomplir.
 
 <sup>2</sup> Sur la base d’un signalement spécifique du directeur, le conseiller pédagogique de l’enseignement spécialisé et l’inspecteur scolaire statuent sur les autres cas particuliers.
 
 #### Art. 46
 
-Elèves concernés par les mesures renforcées d’enseignement spécialisé A la suite d’une procédure d’évaluation particulière, l’élève présentant un retard de développement ou d’autres formes graves de déficits peut bénéficier de mesures renforcées d’enseignement spécialisé, décrites à l’article 51.
+**Elèves concernés par les mesures renforcées d'enseignement spécialisé**
+
+<sup>1</sup> A la suite d’une procédure d’évaluation particulière, l’élève présentant un retard de développement ou d’autres formes graves de déficits peut bénéficier de mesures renforcées d’enseignement spécialisé, décrites à l’article 51.
 
 #### Art. 47
 
@@ -526,13 +499,11 @@ Elèves concernés par les mesures renforcées d’enseignement spécialisé A l
 
 <sup>1</sup> L’intégration des élèves ayant des besoins particuliers est recherchée.
 
-<sup>2</sup> A son entrée au CO, l'élève répondant à un des critères décrits aux articles 45 et 46 peut accéder au niveau II dans la ou les branches concernées si au moins deux des trois critères ci-après sont favorables:<sup>1</sup> a) réussite à l'examen cantonal dans la ou les branches concernées;
+<sup>2</sup> A son entrée au CO, l'élève répondant à un des critères décrits aux articles 45 et 46 peut accéder au niveau II dans la ou les branches concernées si au moins deux des trois critères ci-après sont favorables:
 
+- a) réussite à l'examen cantonal dans la ou les branches concernées;
 - b) avis des parents;
-
-- c) avis du maître de 8e primaire fondé sur une évaluation globale.
-
-Sinon des mesures d'enseignement spécialisé sont en principe prévues à son intention.
+- c) avis du maître de 8<sup>e</sup> primaire fondé sur une évaluation globale.
 
 <sup>3</sup> En 2CO et en 3CO, si un élève répondant à un des critères décrits aux articles 45 et 46 a les capacités de suivre un niveau II dans l’une ou l’autre discipline, il y est intégré.
 
@@ -550,31 +521,30 @@ Sinon des mesures d'enseignement spécialisé sont en principe prévues à son i
 
 #### Art. 49
 
-**Choix de l’organisation scolaire**
+**Choix de l'organisation scolaire**
 
-Sur proposition de l’autorité scolaire responsable, les enseignants consultés, l’organisation des mesures d’enseignement spécialisé est soumise à l’accord du Département.
+<sup>1</sup> Sur proposition de l’autorité scolaire responsable, les enseignants consultés, l’organisation des mesures d’enseignement spécialisé est soumise à l’accord du Département.
 
 #### Art. 50
 
 **Attribution des heures**
 
-L’attribution des heures d’enseignement spécialisé est basée sur le nombre d’élèves par CO devant bénéficier de mesures d’enseignement spécialisé et sur une analyse qualitative des difficultés rencontrées, conduite par le conseiller pédagogique de l’enseignement spécialisé, en collaboration avec le directeur et l’inspecteur scolaire.
+<sup>1</sup> L’attribution des heures d’enseignement spécialisé est basée sur le nombre d’élèves par CO devant bénéficier de mesures d’enseignement spécialisé et sur une analyse qualitative des difficultés rencontrées, conduite par le conseiller pédagogique de l’enseignement spécialisé, en collaboration avec le directeur et l’inspecteur scolaire.
 
 #### Art. 51
 
-**Mesures renforcées d’enseignement spécialisé**
+**Mesures renforcées d'enseignement spécialisé**
 
-Les mesures renforcées d’enseignement spécialisé comprennent:
+<sup>1</sup> Les mesures renforcées d’enseignement spécialisé comprennent:
 
-- a) les classes d’adaptation intégrées ou centralisées, conformes à l’article 23 de la loi sur l’enseignement spécialisé;
+- a) les classes d'adaptation intégrées ou centralisées, conformes à l'article 23 de la loi sur l'enseignement spécialisé;
+- b) la scolarisation en école spécialisée.
 
-- b) la scolarisation en école spécialisée.<sup>2</sup>
-
-### Section 6: Missions d’orientation
+### 4.6 Missions d'orientation
 
 #### Art. 52
 
-**Offre de l’orientation scolaire et professionnelle**
+**Offre de l'orientation scolaire et professionnelle**
 
 <sup>1</sup> L’office d’orientation scolaire et professionnelle constitue la structure cantonale spécifique d’aide à l’orientation. Il collabore étroitement avec les associations professionnelles et les écoles du secondaire II afin d’offrir aux élèves du CO des informations complètes sur les différentes possibilités de formation.
 
@@ -590,23 +560,18 @@ Les mesures renforcées d’enseignement spécialisé comprennent:
 
 **Orientation progressive**
 
-La structure du CO et l'enseignement qui y est dispensé visent à permettre à l'élève de choisir progressivement la voie de formation qui convient le mieux à ses aptitudes et à ses goûts. Dans ce sens:
+<sup>1</sup> La structure du CO et l'enseignement qui y est dispensé visent à permettre à l'élève de choisir progressivement la voie de formation qui convient le mieux à ses aptitudes et à ses goûts. Dans ce sens:
 
 - a) l'élève reçoit une éducation aux choix professionnels dispensée, en règle générale, par le titulaire de classe. Cette éducation lui permet de connaître les différents profils de métiers qui composent le monde du travail et de découvrir les divers types de formation et de parcours scolaires possibles;
-
-- b) l’élève a un enseignant référent pour l’aider et le soutenir dans les étapes liées à des choix entre ses projets et la réalité qui s’offrent à lui, voire pour l’aider dans ses démarches en cas de besoins avérés;
-
-- c) l’élève peut effectuer un ou des stages en milieu professionnel pendant la durée du CO;
-
-- d) un portfolio d’orientation, défini à l’article 54, aide l’élève à établir un bilan continu de ses choix de formation(s) future(s);
-
+- b) l'élève a un enseignant référent pour l'aider et le soutenir dans les étapes liées à des choix entre ses projets et la réalité qui s'offrent à lui, voire pour l'aider dans ses démarches en cas de besoins avérés;
+- c) l'élève peut effectuer un ou des stages en milieu professionnel pendant la durée du CO;
+- d) un portfolio d'orientation, défini à l'article 54, aide l'élève à établir un bilan continu de ses choix de formation(s) future(s);
 - e) un conseiller en orientation est à la disposition de l'élève et de ses parents ainsi que des établissements scolaires pour une orientation individualisée;
-
-- f) l’élève réalise un bilan de son orientation scolaire et professionnelle en milieu de 2CO en collaboration avec le titulaire et les parents et, en cas de besoin, avec le conseiller en orientation.
+- f) l'élève réalise un bilan de son orientation scolaire et professionnelle en milieu de 2CO en collaboration avec le titulaire et les parents et, en cas de besoin, avec le conseiller en orientation.
 
 #### Art. 54
 
-**Portfolio d’orientation**
+**Portfolio d'orientation**
 
 <sup>1</sup> Le portfolio d’orientation, en complément du livret scolaire, est un document officiel du Département fourni à l’élève. Il suit celui-ci durant tout son parcours au CO.
 
@@ -632,19 +597,17 @@ La structure du CO et l'enseignement qui y est dispensé visent à permettre à 
 
 <sup>3</sup> Une ordonnance définit:
 
-- a) les types d’enseignement autorisés: échanges linguistiques, séjours linguistiques, classes d’immersion, filières bilingues, etc.;
-
+- a) les types d'enseignement autorisés: échanges linguistiques, séjours linguistiques, classes d'immersion, filières bilingues, etc.;
 - b) les ayants droit et le statut des élèves concernés;
-
 - c) les modalités organisationnelles et financières.
 
-### Section 7: Fin de scolarité – Diplôme – Attestation
+### 4.7 Fin de scolarité - Diplôme - Attestation
 
 #### Art. 57
 
 **Diplôme et attestation en fin de scolarité obligatoire au CO**
 
-<sup>1</sup> L'élève qui arrive au terme de son obligation de scolarisation (en principe 15 ans révolus au 31 juillet et 11 ans de scolarité) reçoit une attestation de libération de la scolarité obligatoire.<sup>1</sup>
+<sup>1</sup> L'élève qui arrive au terme de son obligation de scolarisation (en principe 15 ans révolus au 31 juillet et 11 ans de scolarité) reçoit une attestation de libération de la scolarité obligatoire.
 
 <sup>2</sup> L’élève qui a réussi la 3CO obtient un diplôme.
 
@@ -668,11 +631,9 @@ La structure du CO et l'enseignement qui y est dispensé visent à permettre à 
 
 <sup>1</sup> A la demande des parents, le directeur, sur préavis du conseil de classe, peut accorder le prolongement de la scolarité obligatoire à:
 
-- a) un élève n’ayant pas encore suivi le programme de 3CO;
-
-- b) un élève ayant échoué la 3CO et n’ayant pas les résultats suffisants pour un passage en école préprofessionnelle;
-
-- c) un élève qui a terminé la 3CO en obtenant dans au moins deux disciplines suivies en niveau II une note annuelle égale ou supérieure à 5,0 lui permettant d’être transféré en niveau I.
+- a) un élève n'ayant pas encore suivi le programme de 3CO;
+- b) un élève ayant échoué la 3CO et n'ayant pas les résultats suffisants pour un passage en école préprofessionnelle;
+- c) un élève qui a terminé la 3CO en obtenant dans au moins deux disciplines suivies en niveau II une note annuelle égale ou supérieure à 5.0 lui permettant d'être transféré en niveau I.
 
 <sup>2</sup> A la demande des parents et sur préavis du directeur de l'établissement où l'élève a effectué ses années de CO, le directeur de l'établissement d'accueil peut accorder le prolongement de la scolarité obligatoire à un élève qui suit une dixième année en 3CO en immersion dans l'autre partie linguistique du canton.
 
@@ -680,43 +641,47 @@ La structure du CO et l'enseignement qui y est dispensé visent à permettre à 
 
 **Libération anticipée de la scolarité obligatoire**
 
-Exceptionnellement et sur préavis du directeur, le conseil de classe entendu, le Département peut libérer totalement ou partiellement un élève astreint à la scolarité obligatoire.
+<sup>1</sup> Exceptionnellement et sur préavis du directeur, le conseil de classe entendu, le Département peut libérer totalement ou partiellement un élève astreint à la scolarité obligatoire.
 
-### Chapitre 5: Scolarité et congés
+## 5 Scolarité et congés
 
 #### Art. 61
 
 **Durée de l'année scolaire**
 
-La durée de l'année scolaire est régie par les dispositions spécifiques en la matière.
+<sup>1</sup> La durée de l'année scolaire est régie par les dispositions spécifiques en la matière.
 
 #### Art. 62
 
-<sup>1</sup> Congés
+**Congés**
 
-Les congés des élèves du CO sont régis par une ordonnance du Conseil d'Etat.
+<sup>1</sup> Les congés des élèves du CO sont régis par une ordonnance du Conseil d'Etat.
 
 #### Art. 63
 
-Congés pour activités sportives, artistiques, culturelles ou spirituelles Les directives du Département règlent les conditions de l'octroi de congés pour la participation à des activités sportives, artistiques, culturelles ou spirituelles.
+**Congés pour activités sportives, artistiques, culturelles ou spirituelles**
+
+<sup>1</sup> Les directives du Département règlent les conditions de l'octroi de congés pour la participation à des activités sportives, artistiques, culturelles ou spirituelles.
 
 #### Art. 64
 
 **Excursions, manifestations**
 
-<sup>1</sup> Tous les élèves sont tenus de prendre part aux excursions et aux manifestations organisées par l'école. Les parents, pour des motifs légitimes, peuvent demander une dispense.
+<sup>1</sup> Les excursions et les manifestations organisées par l'école pendant le temps scolaire sont obligatoires et gratuites. Seuls les frais de repas peuvent être facturés aux parents.
 
-<sup>2</sup> Pour un déplacement de plus d'un jour, l'accord préalable des parents est exigé. Le directeur veille à ce que ces activités n'entraînent pas de dépenses excessives pour les parents.
+<sup>1<sup>bis</sup></sup> Les parents, pour des motifs légitimes, peuvent demander une dispense.
+
+<sup>2</sup> Pour un déplacement de plus d'un jour, l'accord préalable des parents est exigé.
 
 <sup>3</sup> Dans tous les cas, les élèves dispensés sont tenus de se rendre en classe où des activités scolaires ou parascolaires doivent être prévues à leur intention.
 
-### Chapitre 6: Accès aux formations subséquentes
+## 6 Accès aux formations subséquentes
 
 #### Art. 65
 
 **Principe**
 
-Les notes de l'année et les niveaux suivis sont pris en considération pour l’accès aux formations du degré secondaire II général.
+<sup>1</sup> Les notes de l'année et les niveaux suivis sont pris en considération pour l’accès aux formations du degré secondaire II général.
 
 #### Art. 66
 
@@ -724,25 +689,23 @@ Les notes de l'année et les niveaux suivis sont pris en considération pour l�
 
 <sup>1</sup> Au terme de la 2CO, l'élève peut accéder aux écoles préparant à la maturité gymnasiale aux conditions suivantes:
 
-- a) année réussie avec une moyenne générale minimale de 4,5 et
+- a) année réussie avec une moyenne générale minimale de 4.5, et
+- b) quatre niveaux I, dont trois à 4.5 au moins et aucune note insuffisante dans les branches à niveaux.
 
-- b) quatre niveaux I, dont trois à 4,5 au moins et aucune note insuffisante dans les branches à niveaux.
-
-<sup>2</sup> Au terme de la 3CO, l’élève peut accéder aux écoles préparant à la maturité gymnasiale aux conditions suivantes: diplôme obtenu en ayant suivi quatre niveaux I ou en ayant suivi trois niveaux I et un niveau II à 5,0 au moins.
+<sup>2</sup> Au terme de la 3CO, l’élève peut accéder aux écoles préparant à la maturité gymnasiale aux conditions suivantes: diplôme obtenu en ayant suivi quatre niveaux I ou en ayant suivi trois niveaux I et un niveau II à 5.0 au moins.
 
 <sup>3</sup> Les élèves qui ne satisfont pas à ces exigences dans une des quatre branches à niveaux, respectivement dans un seul niveau peuvent se présenter à un examen dans cette discipline. Cet examen est organisé par le Département.
 
 #### Art. 67
 
-Admission à la formation en école de commerce et de culture générale
+**Admission à la formation en école de commerce et de culture générale**
 
 <sup>1</sup> Au terme de la 3CO, l'élève peut accéder aux écoles de commerce ou de culture générale aux conditions suivantes:
 
-- a) diplôme du CO et au plus
+- a) diplôme du CO et au plus;
+- b) une seule note de niveau II inférieure à 5 mais supérieure ou égale à 4.5.
 
-- b) une seule note de niveau II inférieure à 5 mais supérieure ou égale à 4,5.
-
-<sup>2</sup> Le Conseil d’Etat fixe dans un règlement les conditions d’accès aux forma-tions débouchant sur une maturité professionnelle.
+<sup>2</sup> Le Conseil d’Etat fixe dans un règlement les conditions d’accès aux formations débouchant sur une maturité professionnelle.
 
 <sup>3</sup> Les élèves qui ne satisfont pas à ces exigences dans une des quatre branches à niveaux, respectivement dans un seul niveau peuvent se présenter à un examen dans cette discipline. Cet examen est organisé par le Département.
 
@@ -750,7 +713,7 @@ Admission à la formation en école de commerce et de culture générale
 
 **Admission à la formation professionnelle**
 
-L'accès à la formation professionnelle et à la maturité professionnelle est réglé par les dispositions fédérales et cantonales en la matière.
+<sup>1</sup> L'accès à la formation professionnelle et à la maturité professionnelle est réglé par les dispositions fédérales et cantonales en la matière.
 
 #### Art. 69
 
@@ -760,15 +723,13 @@ L'accès à la formation professionnelle et à la maturité professionnelle est 
 
 <sup>2</sup> Après la 3CO, peut également accéder à l’école préprofessionnelle l’élève en échec qui remplit les conditions cumulatives suivantes:
 
-- a) une moyenne générale de 4,0 ou plus;
-
-- b) au maximum un niveau II à moins de 4,0;
-
+- a) une moyenne générale de 4.0 ou plus;
+- b) au maximum un niveau II à moins de 4.0;
 - c) aucune combinaison de notes insuffisantes excluant la promotion.
 
 <sup>3</sup> Le Département règle les cas particuliers.
 
-### Chapitre 7: Dispositions transitoires et finales
+## 7 Dispositions transitoires et finales
 
 #### Art. 70
 
@@ -782,17 +743,16 @@ L'accès à la formation professionnelle et à la maturité professionnelle est 
 
 **Abrogations**
 
-Toutes les dispositions contraires à la présente loi sont abrogées, notamment:
+<sup>1</sup> Toutes les dispositions contraires à la présente loi sont abrogées, notamment:
 
-- a) la loi concernant le cycle d’orientation du 13 mai 1987;
+- a) la loi concernant le cycle d'orientation du 13 mai 1987;
+- b) les articles 16 et 46 à 56 de la loi sur l'instruction publique du 4 juillet 1962.
 
-- b) les articles 16 et 46 à 56 de la loi sur l’instruction publique du 4 juillet 1962.
+#### Art. 71a
 
-#### Art. 71bis
+**Application par analogie**
 
-<sup>1</sup> Application par analogie
-
-Les articles 3 à 15, 17, 18, 19 alinéas 1 à 4, 20, 21, 23 à 26, 28 à 34, 37, 38, 40, 42 à 44 et 66 à 72 de la loi sur l'enseignement primaire s'appliquent également au cycle d'orientation.
+<sup>1</sup> Les articles 3 à 15, 17, 18, 19 alinéas 1 à 4, 20, 21, 23 à 26, 28 à 34, 37, 38, 40, 42 à 44 et 66 à 72 de la loi sur l'enseignement primaire s'appliquent également au cycle d'orientation.
 
 #### Art. 72
 
@@ -810,19 +770,4 @@ Les articles 3 à 15, 17, 18, 19 alinéas 1 à 4, 20, 21, 23 à 26, 28 à 34, 37
 
 <sup>2</sup> Le Conseil d’Etat arrête la date d’entrée en vigueur de la présente loi.
 
-Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 10 septembre 2009.
-
-**No 37/2010**
-
-Le président du Grand Conseil: Gilbert Loretan Le chef du Service parlementaire: Claude Bumann
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Loi sur le Cycle d'Orientation du 10 BO No 39/2009; BO septembre 2009
-
-## Autres notes
-
-- [1] Modification du 15 novembre 2013 (Loi sur BO No 51/2013; BO 01.08.2015 l'enseignement primaire du 15 novembre 2013, No 8/2015 art. 73)
-- [2] Modification du 12 mai 2016 (Loi sur BO No 24/2016; BO 01.12.2016 l'enseignement spécialisé (LES) du 12 mai No 42/2016 2016, art. 39 ch. 3)
+RCV BO/Abl. 39/2009, 37/2010
