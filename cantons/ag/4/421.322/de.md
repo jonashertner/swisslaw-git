@@ -4,13 +4,13 @@ number: "421.322"
 title: Verordnung über die Ressourcierung der Volksschule
 short: Ressourcenverordnung
 language: de
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-01-15
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2020-04-22
 adopted: 2019-03-20
 in_force: 2020-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.322"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2835/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2973/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2835/pdf_file"
 
 (Ressourcenverordnung)
 
-Vom 20.03.2019 (Stand 01.08.2020)
+Vom 20.03.2019 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -153,16 +153,16 @@ ZK2 in WL pro SuS kl. Schulen und Stao = (b - a \* SuS kl. Schulen und Stao) \* 
 
 **Schulleitungen**
 
-<sup>1</sup> Die Zuteilung der Ressourcen für die Schulleitungen an die Schulträger erfolgt gemäss der Pensentabelle in Anhang 4.
+<sup>1</sup> Die Ressourcierung für die Schulleitungen basiert auf den Vollzeitäquivalenten der Lehrpersonen, die sich aus der pauschalen Zuteilung der Ressourcenkontingente ergeben. Die Berechnung erfolgt gemäss der in Anhang 4 festgelegten Formel.
 
 <sup>2</sup> Stichtag für die Berechnung ist der 15. September. Die zugeteilten Ressourcen gelten für die Dauer von drei Jahren, soweit die bestehende Schulorganisation in diesem Zeitraum keine erheblichen Veränderungen erfährt.
 
-<sup>3</sup> Zusätzliche Ressourcen für die Schulleitungen im Umfang von 10 % erhalten Schulträger, die
+<sup>3</sup> Zusätzliche Ressourcen für die Schulleitungen im Umfang von 10 % erhalten Schulträger, die in ihrem Schulkreis über ein Wohnheim für schulpflichtige Kinder und Jugendliche verfügen.
 
-- a) entweder eine regionale Spezialklasse führen,
-- b) und/oder einen neuen Standort für einen regionalen Integrationskurs oder eine Integrations- und Berufsfindungsklasse eröffnen, befristet für den Initialaufwand von sechs Monaten,
-- c) und/oder in ihrem Schulkreis über ein Wohnheim für schulpflichtige Kinder und Jugendliche verfügen,
-- d) und/oder Standort sind von mindestens vier Abteilungen regional organisierter Sonderformen der Volksschule.
+- a) …
+- b) …
+- c) …
+- d) …
 
 #### § 13
 
