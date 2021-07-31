@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 16 dicembre 2016 sull'acqua potabile e sull'acqua 
 short: OPPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/153"
 language: it
-version: 2020-07-01
+version: 2021-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2017-153-20200701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2017-153-20210801-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20200701/it"
 
 (OPPD)
 
-del 16 dicembre 2016 (Stato 1° luglio 2020) (Stato 1° luglio 2020)
+del 16 dicembre 2016 (Stato 1° agosto 2021)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -136,7 +136,7 @@ L’acqua destinata a entrare in contatto con il corpo umano deve soddisfare i r
 
 **Disinfettanti autorizzati**
 
-<sup>1</sup> ...[^10-1]
+<sup>1</sup> …[^10-1]
 
 <sup>2</sup> Per l’acqua delle docce si applicano i requisiti concernenti i disinfettanti previsti per l’acqua potabile ai sensi dell’articolo 4 capoverso 4.
 
@@ -166,7 +166,7 @@ Gli impianti di trattamento delle acque e gli impianti per docce devono essere a
 
 <sup>1</sup> In ogni impianto di balneazione accessibile al pubblico deve esserci almeno un dipendente che dispone dell’autorizzazione prevista dall’ordinanza del DFI del 28 giugno 2005[^14-1] concernente l’autorizzazione speciale per la disinfezione dell’acqua negli impianti di balneazione accessibili al pubblico, ad eccezione degli impianti di balneazione con rigenerazione biologica dell’acqua.
 
-<sup>2</sup> e <sup>3</sup> ...[^14-2]
+<sup>2</sup> e <sup>3</sup> …[^14-2]
 
 [^14-1]: [RS 814.812.31](https://fedlex.data.admin.ch/eli/cc/2005/498)
 [^14-2]: Abrogati dal n. I dell’O del DFI del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
@@ -201,14 +201,20 @@ Allegato 1*[^t-1]*
 
 ## Requisiti microbiologici concernenti l’acqua potabile
 
-[^t-1]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Aggiornato dal n. II dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^t-1]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Aggiornato dal n. II dell’O del DFI del 27 mag. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) e dal n. I dell’O dell’USAV del 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)).
 
 <table>
 <tr><th>Posizione</th><th>Prodotto</th><th>Parametri</th><th>Valori massimi UFC[^annex1-lvlu1-1]</th><th>Metodo di analisi di riferimento</th><th>Note</th></tr>
 <tr><td>1</td><td>Acqua potabile</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>1.1</td><td>alla captazione, non trattata</td><td>Germi aerobi mesofili</td><td>100/ml</td><td>EN/ISO 6222</td><td>Temperatura d’incubazione: 30 °C Durata dʼincubazione: 72 ore</td></tr>
-<tr><td>1.2</td><td>dopo il trattamento</td><td>Germi aerobi mesofili</td><td>20/ml</td><td>EN/ISO 6222</td><td>Temperatura d’incubazione: 30 °C Durata dʼincubazione: 72 ore si applica subito dopo la depurazione o il trattamento dell’acqua</td></tr>
-<tr><td>1.3</td><td>nella rete di distribuzione, trattata o non trattata</td><td>Germi aerobi mesofili</td><td>300/ml</td><td>EN/ISO 6222</td><td>Temperatura d’incubazione: 30 °C Durata dʼincubazione: 72 ore</td></tr>
+<tr><td>1.1</td><td>alla captazione, non trattata</td><td>Germi aerobi mesofili</td><td>100/ml</td><td>EN/ISO 6222</td><td>Temperatura d’incubazione: 30 °C Durata d’incubazione: 72 ore</td></tr>
+<tr><td></td><td></td><td>Escherichia coli</td><td>nr[^annex1-lvlu1-2]/100 ml</td><td>EN/ISO 9308-1</td><td></td></tr>
+<tr><td></td><td></td><td>Enterococchi</td><td>nr/100 ml</td><td>EN/ISO 7899-2</td><td></td></tr>
+<tr><td>1.2</td><td>dopo il trattamento</td><td>Germi aerobi mesofili</td><td>20/ml</td><td>EN/ISO 6222</td><td>Temperatura d’incubazione: 30 °C Durata d’incubazione: 72 ore si applica subito dopo la depurazione o il trattamento dell’acqua</td></tr>
+<tr><td></td><td></td><td>Escherichia coli</td><td>nr/100 ml</td><td>EN/ISO 9308-1</td><td></td></tr>
+<tr><td></td><td></td><td>Enterococchi</td><td>nr/100 ml</td><td>EN/ISO 7899-2</td><td></td></tr>
+<tr><td>1.3</td><td>nella rete di distribuzione, trattata o non trattata</td><td>Germi aerobi mesofili</td><td>300/ml</td><td>EN/ISO 6222</td><td>Temperatura d’incubazione: 30 °C Durata d’incubazione: 72 ore</td></tr>
+<tr><td></td><td></td><td>Escherichia coli</td><td>nr/100 ml</td><td>EN/ISO 9308-1</td><td></td></tr>
+<tr><td></td><td></td><td>Enterococchi</td><td>nr/100 ml</td><td>EN/ISO 7899-2</td><td></td></tr>
 <tr><td>1.4</td><td>nella rete di distribuzione e nell’impianto domestico</td><td>Escherichia coli Enterococchi</td><td>nr/100 ml nr/100 ml</td><td>EN/ISO 9308-1 EN/ISO 7899-2</td><td></td></tr>
 <tr><td>2</td><td colspan="5">Acqua potabile (trattata o non trattata) in recipienti o distributori di acqua (galloni o nella rete di distribuzione)</td></tr>
 <tr><td></td><td></td><td>Escherichia coli</td><td>nr/100 ml</td><td>EN/ISO 9308-1</td><td></td></tr>
@@ -221,6 +227,7 @@ Allegato 1*[^t-1]*
 </table>
 
 [^annex1-lvlu1-1]: UFC: Unità formanti colonia
+[^annex1-lvlu1-2]: nr: non rilevato
 
 Allegato 2*[^t-2]*
 
@@ -305,17 +312,17 @@ Allegato 3*[^t-3]*
 
 ## Ulteriori requisiti concernenti l’acqua potabile
 
-[^t-3]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Aggiornato dal n. II dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^t-3]: Nuovo testo giusta il n. I cpv. 2 dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Aggiornato dai n. II delle O del DFI del 27 mag. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) e dal n. I dell’O dell’USAV del 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)).
 
 <table>
 <tr><th>Parametri</th><th>Valori di riferimento</th><th>Unità</th><th>Note</th></tr>
 <tr><td>1 Requisiti specifici</td><td></td><td></td><td></td></tr>
 <tr><td>Carbonio organico totale (COT)</td><td>≤ 2</td><td>mg/l</td><td>Nessuna variazione anomala. L’aumento della concentrazione dell’acqua che arriva nelle abitazioni non deve essere superiore a 0,5 mg C/l.</td></tr>
-<tr><td>Valore indicativo per la dose totale secondo l’articolo 1*a* dell’ordinanza del DFI del 16 dicembre 2016[^annex3-lvlu1-1] sui contaminanti</td><td></td><td></td><td></td></tr>
+<tr><td>Torbidità</td><td>≤ 1</td><td>NTU</td><td>Nella rete di distribuzione</td></tr>
 <tr><td>2 Radioattività</td><td></td><td></td><td>Il controllo del radon, del trizio o del valore della dose totale indicativa (DTI) non è necessario se si può dimostrare, mediante un altro programma di controllo rappresentativo o indagini affidabili, che questi valori per il radon, il trizio o la DTI non sono superati.</td></tr>
 <tr><td>Radon</td><td>≤100</td><td>Bq/l</td><td></td></tr>
 <tr><td>Trizio</td><td>≤100</td><td>Bq/l</td><td>Livelli elevati di trizio possono indicare la presenza di altri radionuclidi artificiali. Se la concentrazione di trizio è superiore al relativo valore parametrico, occorre effettuare un’analisi volta ad accertare l’eventuale presenza di altri radionuclidi artificiali.</td></tr>
-<tr><td>Dose totale indicativa (DTI)</td><td>≤0,1</td><td>mSv/anno</td><td>Dose efficace impegnata (per un anno di ingestione) risultante da tutti i radionuclidi naturali e artificiali la cui presenza è rilevata nell’acqua potabile, a eccezione del trizio, del potassio-40, del radon e dei prodotti di disintegrazione del radon di vita breve.</td></tr>
+<tr><td>Valore indicativo per la dose totale secondo l’articolo 1*a* dell’ordinanza del 16 dicembre 2016[^annex3-lvlu1-1] sui contaminanti</td><td>≤ 0,1</td><td>mSv/anno</td><td>Dose efficace impegnata (per un anno di ingestione) risultante da tutti i radionuclidi naturali e artificiali la cui presenza è rilevata nell’acqua potabile, a eccezione del trizio, del potassio-40, del radon e dei prodotti di disintegrazione del radon di vita breve.</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: [RS 817.022.15](https://fedlex.data.admin.ch/eli/cc/2017/156)
@@ -369,7 +376,7 @@ Allegato 4*[^t-4]*
 <tr><th></th><th>Le strutture in ferro sono utilizzate come catodo per evitare un’ossidazione Utilizzo di un’altra fonte catodica. La soda caustica formata dissolve lentamente il catodo</th><th></th></tr>
 </table>
 
-### 4 El Elenco delle sostanze per il trattamento dell’acqua potabile concernente le proprietà fisico-chimiche
+### 4 Elenco delle sostanze per il trattamento dell’acqua potabile concernente le proprietà fisico-chimiche
 
 <table>
 <tr><th>Sostanza</th><th>Principali funzioni</th><th>Numero CAS</th></tr>
@@ -377,7 +384,7 @@ Allegato 4*[^t-4]*
 <tr><td>Acidi policarbossilici</td><td>Prevenzione dell’intasamento delle membrane</td><td></td></tr>
 <tr><td>Acido acetico</td><td>Eliminazione dei nitrati</td><td>64-19-7</td></tr>
 <tr><td>Acido cloridrico</td><td>Correzione del pH, rigenerazione di scambiatori di ioni</td><td>7647-01-0</td></tr>
-<tr><td>Acido fosfonico</td><td>Prevenzione dell’intasamento delle membrane</td><td>6419-19-8, ...</td></tr>
+<tr><td>Acido fosfonico</td><td>Prevenzione dell’intasamento delle membrane</td><td>6419-19-8, …</td></tr>
 <tr><td>Acido solforico</td><td>Correzione del pH, rigenerazione di scambiatori di ioni</td><td>7664-93-9</td></tr>
 <tr><td>Acqua ossigenata</td><td>Ossidazione</td><td>7722-84-1</td></tr>
 <tr><td>Allumina attivata rivestita di ferro</td><td>Adsorbimento, filtrazione, eliminazione dell’arsenico</td><td>11138-49-1</td></tr>
@@ -406,7 +413,6 @@ Allegato 4*[^t-4]*
 <tr><td>Copolimero acrilico modificato con un gruppo amminico terziario</td><td>Eliminazione dell’uranio</td><td></td></tr>
 <tr><td>Copolimero stirene-divinilbenzene con gruppi di trialchilammonio</td><td>Eliminazione dell’uranio e di nitrato</td><td></td></tr>
 <tr><td>Copolimero stirene-divinilbenzene con gruppi imminodiacetici</td><td>Eliminazione del nichel</td><td>135620-93-8</td></tr>
-<tr><td>Diossido di carbonio</td><td>Correzione della durezza, correzione del pH</td><td>124-38-9</td></tr>
 <tr><td>Diossido di manganese</td><td>Demanganizzazione</td><td>1313-13-9</td></tr>
 <tr><td>Diossido di manganese, calcare rivestito</td><td>Deferrizzazione, demanganizzazione ed eliminazione del solfuro di idrogeno.</td><td></td></tr>
 <tr><td>Dolomite</td><td>Correzione della durezza, correzione del pH, eliminazione di particelle, deferrizzazione e demanganizzazione</td><td>83897-84-1</td></tr>
@@ -443,7 +449,7 @@ Allegato 4*[^t-4]*
 <tr><td>Pietra pomice</td><td>Filtrazione, eliminazione di particelle</td><td>1332-09-8</td></tr>
 <tr><td>Poliacrilammide</td><td>Flocculazione</td><td>9003-05-08</td></tr>
 <tr><td>Poliammide (PA)</td><td>Filtrazione</td><td></td></tr>
-<tr><td>Policloruro di alluminio</td><td>Flocculazione, precipitazione</td><td>1327-41-9, ...</td></tr>
+<tr><td>Policloruro di alluminio</td><td>Flocculazione, precipitazione</td><td>1327-41-9, …</td></tr>
 <tr><td>Polietersulfone (PES)</td><td>Filtrazione</td><td></td></tr>
 <tr><td>Polipiperazina</td><td>Filtrazione</td><td></td></tr>
 <tr><td>Polisolfonammide</td><td>Filtrazione</td><td></td></tr>
@@ -547,11 +553,13 @@ Allegato 5*[^t-5]*
 <tr><td>5</td><td>Acqua per impianti per docce</td><td>Legionella spp.</td><td>1000 UFC/l</td><td>EN/ISO 11731</td></tr>
 </table>
 
-Allegato 6
+Allegato 6*[^t-6]*
 
 (art. 11)
 
 ## Valori massimi e minimi concernenti l’acqua per stabilimenti e impianti per docce accessibili al pubblico
+
+[^t-6]: Aggiornato dal n. I dell’O dell’USAV del 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)).
 
 <table>
 <tr><td>Posizione</td><td>Categoria</td><td>Criteri di analisi</td><td>Valori minimi</td><td colspan="2">Valori massimi</td></tr>
@@ -569,16 +577,16 @@ Allegato 6
 <tr><td></td><td></td><td>pH</td><td>6,0</td><td colspan="2">9,0</td></tr>
 <tr><td></td><td></td><td>Visibilità/ limpidità</td><td colspan="2">&gt; 2,0 m, su tutto il fondo</td><td></td></tr>
 <tr><td>5</td><td colspan="5">Acqua per impianti per docce</td></tr>
-<tr><td></td><td colspan="5">Sono ammessi i disinfettanti di cui all’allegato 4 cifra 4 e con i relativi valori massimi di cui all’allegato 2.</td></tr>
+<tr><td></td><td colspan="5">Sono ammessi i disinfettanti di cui all’allegato 4 numero 5 e con i relativi valori massimi di cui all’allegato 2.</td></tr>
 </table>
 
-Allegato 7*[^t-6]*
+Allegato 7*[^t-7]*
 
 (art. 12)
 
 ## Concentrazioni massime di sostanze inquinanti o derivanti dalla disinfezione nell’acqua per piscine
 
-[^t-6]: Aggiornato dal n. II dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^t-7]: Aggiornato dal n. II dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
 
 <table>
 <tr><td>Posizione</td><td>Categoria</td><td>Criteri di analisi</td><td>Valori massimi</td></tr>

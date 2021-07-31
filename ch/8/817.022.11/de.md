@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über Trinkwasser sowie Wasser i
 short: TBDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/153"
 language: de
-version: 2020-07-01
+version: 2021-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2017-153-20200701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2017-153-20210801-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20200701/de"
 
 (TBDV)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2020)
+vom 16. Dezember 2016 (Stand am 1. August 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -136,7 +136,7 @@ Für den Kontakt mit dem menschlichen Körper bestimmtes Wasser hat den mikrobio
 
 **Zulässige Desinfektionsmittel**
 
-<sup>1</sup> ...[^10-1]
+<sup>1</sup> …[^10-1]
 
 <sup>2</sup> Für Wasser in Duschanlagen gelten die Anforderungen an Desinfektionsmittel für Trinkwasser nach Artikel 4 Absatz 4.
 
@@ -166,9 +166,9 @@ Wasseraufbereitungs- und Duschanlagen müssen nach den anerkannten Regeln der Te
 
 <sup>1</sup> In jedem öffentlich zugänglichen Bad muss mindestens eine Person verfügbar sein, die über eine Fachbewilligung nach der Verordnung des EDI vom 28. Juni 2005[^14-1] über die Fachbewilligung für die Desinfektion des Badewassers in Gemeinschaftsbädern verfügt; ausgenommen sind Badanlagen mit biologischer Wasseraufbereitung.
 
-<sup>2</sup> und <sup>3</sup> ...[^14-2]
+<sup>2</sup> und <sup>3</sup> …[^14-2]
 
-[^14-1]: SR **81****4.812.31**
+[^14-1]: [SR 814.812.31](https://fedlex.data.admin.ch/eli/cc/2005/498)
 [^14-2]: Aufgehoben durch Ziff. I der V des EDI vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
 
 ## 4. Abschnitt: Nachführen der Anhänge
@@ -201,14 +201,20 @@ Anhang 1*[^t-1]*
 
 ## Mikrobiologische Anforderungen an Trinkwasser
 
-[^t-1]: Fassung gemäss Ziff. I Abs. 2 der V des BLV vom 12. März 2018 ([AS 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Bereinigt gemäss Ziff. II der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^t-1]: Fassung gemäss Ziff. I Abs. 2 der V des BLV vom 12. März 2018 ([AS 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Bereinigt gemäss Ziff. II der V des EDI vom 27. Mai 2020 ([AS 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) und Ziff. I der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)).
 
 <table>
 <tr><th>Ziffer</th><th>Produkt</th><th>Parameter</th><th>Höchstwerte KBE[^annex1-lvlu1-1]</th><th>Analytische Referenzmethode</th><th>Bemerkungen</th></tr>
 <tr><td>1</td><td colspan="5">Trinkwasser</td></tr>
 <tr><td>1.1</td><td>an der Fassung, unbehandelt</td><td>Aerobe, mesophile Keime</td><td>100/ml</td><td>EN/ISO 6222</td><td>Bebrütungstemperatur: 30 °C Bebrütungszeit: 72 Stunden</td></tr>
+<tr><td></td><td></td><td>*Escherichia coli*</td><td>nn[^annex1-lvlu1-2]/100 ml</td><td>EN/ISO 9308-1</td><td></td></tr>
+<tr><td></td><td></td><td>Enterokokken</td><td>nn/100 ml</td><td>EN/ISO 7899-2</td><td></td></tr>
 <tr><td>1.2</td><td>nach der Behandlung</td><td>Aerobe, mesophile Keime</td><td>20/ml</td><td>EN/ISO 6222</td><td>Bebrütungstemperatur: 30 °C Bebrütungszeit: 72 Stunden gilt unmittelbar nach der Aufbereitung oder Behandlung des Wassers</td></tr>
+<tr><td></td><td></td><td>*Escherichia coli*</td><td>nn/100 ml</td><td>EN/ISO 9308-1</td><td></td></tr>
+<tr><td></td><td></td><td>Enterokokken</td><td>nn/100 ml</td><td>EN/ISO 7899-2</td><td></td></tr>
 <tr><td>1.3</td><td>im Verteilnetz, behandelt oder unbehandelt</td><td>Aerobe, mesophile Keime</td><td>300/ml</td><td>EN/ISO 6222</td><td>Bebrütungstemperatur: 30 °C Bebrütungszeit: 72 Stunden</td></tr>
+<tr><td></td><td></td><td>*Escherichia coli*</td><td>nn/100 ml</td><td>EN/ISO 9308-1</td><td></td></tr>
+<tr><td></td><td></td><td>Enterokokken</td><td>nn/100 ml</td><td>EN/ISO 7899-2</td><td></td></tr>
 <tr><td>1.4</td><td>im Verteilnetz und in der Hausinstallation</td><td>Escherichia coli Enterokokken</td><td>nn/100 ml nn/100 ml</td><td>EN/ISO 9308-1 EN/ISO 7899-2</td><td></td></tr>
 <tr><td>2</td><td colspan="5">Trinkwasser (behandelt oder unbehandelt), abgefüllt in Behältnisse oder ab Wasserspendern (Gallonen oder im Verteilnetz)</td></tr>
 <tr><td></td><td></td><td>Escherichia coli</td><td>nn/100 ml</td><td>EN/ISO 9308-1</td><td></td></tr>
@@ -221,6 +227,7 @@ Anhang 1*[^t-1]*
 </table>
 
 [^annex1-lvlu1-1]: KBE: kolonienbildende Einheiten
+[^annex1-lvlu1-2]: nn: nicht nachweisbar
 
 Anhang 2*[^t-2]*
 
@@ -272,8 +279,8 @@ Anhang 2*[^t-2]*
 <tr><td>Nitrilotriessigsäure (NTA)</td><td>0,2</td><td>mg/l</td><td></td></tr>
 <tr><td>Nitrat</td><td>40</td><td>mg/l</td><td></td></tr>
 <tr><td>Nitrit</td><td>0,1</td><td>mg/l</td><td></td></tr>
-<tr><td>Organische chemische Verbindung mit unbekannter Toxizität, aber bekannter chemischer Struktur, mit strukturelle Hinweise auf ein genotoxisches Potenzial</td><td>0,1</td><td>µg/l</td><td>Gilt für alle organischen Verbindungen, für die keine ausreichende Datenbasis zur Toxizität vorliegt und die der Kategorie «Substanzen mit genotoxischem Potenzial» zugeordnet werden. Ausgenommen sind aflatoxinähnliche Verbindungen, Azoxy-Verbindungen und N-Nitroso-Verbindungen. Weiter sind ausgenommen: nicht-essentielle Metalle und metallhaltige Verbindungen, Dioxine und dioxinähnliche Verbindungen, Steroide und Proteine.</td></tr>
-<tr><td>Organische chemische Verbindung mit unbekannter Toxizität, aber bekannter chemischer Struktur, ohne strukturelle Hinweise auf ein genotoxisches Potenzial</td><td>10</td><td>µg/l</td><td>Gilt für alle organischen Verbindungen, für die keine ausreichende Datenbasis zur Toxizität vorliegt und die einer der folgenden vier Kategorie zugeordnet werden: «Substanzen ohne genotoxisches Potenzial» mit hoher, mittlerer, geringer Toxizität (Cramer Strukturklassen I, II und III) und Organophosphate. Ausgenommen: nicht-essentielle Metalle und metallhaltige Verbindungen, Dioxine und dioxinähnliche Verbindungen, Steroide und Proteine.</td></tr>
+<tr><td>Organische chemische Verbindung mit unbekannter Toxizität, aber bekannter chemischer Struktur, mit strukturellen Hinweisen auf ein genotoxisches Potenzial</td><td>0,1</td><td>µg/l</td><td>Gilt für alle organischen Verbindungen, für die keine ausreichende Datenbasis zur Toxizität vorliegt und die der Kategorie «Substanzen mit genotoxischem Potenzial» zugeordnet werden. Ausgenommen sind aflatoxinähnliche Verbindungen, Azoxy-Verbindungen und N-Nitroso-Verbindungen. Weiter sind ausgenommen: nicht-essenzielle Metalle und metallhaltige Verbindungen, Dioxine und dioxinähnliche Verbindungen, Steroide und Proteine.</td></tr>
+<tr><td>Organische chemische Verbindung mit unbekannter Toxizität, aber bekannter chemischer Struktur, ohne strukturelle Hinweise auf ein genotoxisches Potenzial</td><td>10</td><td>µg/l</td><td>Gilt für alle organischen Verbindungen, für die keine ausreichende Datenbasis zur Toxizität vorliegt und die einer der folgenden vier Kategorie zugeordnet werden: «Substanzen ohne genotoxisches Potenzial» mit hoher, mittlerer, geringer Toxizität (Cramer Strukturklassen I, II und III) und Organophosphate. Ausgenommen: nicht-essenzielle Metalle und metallhaltige Verbindungen, Dioxine und dioxinähnliche Verbindungen, Steroide und Proteine.</td></tr>
 <tr><td>Ozon</td><td>50</td><td>µg/l</td><td></td></tr>
 <tr><td>Perchlorat</td><td>4</td><td>µg/l</td><td></td></tr>
 <tr><td>Perfluoroctansulfonat (PFOS)</td><td>0,3</td><td>µg/l</td><td></td></tr>
@@ -294,7 +301,7 @@ Anhang 2*[^t-2]*
 <tr><td>Zink</td><td>5</td><td>mg/l</td><td></td></tr>
 </table>
 
-[^annex2-lvlu1-1]: SR **8****17.021.23**
+[^annex2-lvlu1-1]: [SR 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 [^annex2-lvlu1-2]: [SR 817.023.21](https://fedlex.data.admin.ch/eli/cc/2017/164)
 
 Anhang 3*[^t-3]*
@@ -303,17 +310,17 @@ Anhang 3*[^t-3]*
 
 ## Weitere Anforderungen an Trinkwasser
 
-[^t-3]: Fassung gemäss Ziff. I Abs. 2 der V des BLV vom 12. März 2018 ([AS 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Bereinigt gemäss Ziff. II der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^t-3]: Fassung gemäss Ziff. I Abs. 2 der V des BLV vom 12. März 2018 ([AS 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Bereinigt gemäss Ziff. II der V des EDI vom 27. Mai 2020 ([AS 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) und Ziff. I der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)).
 
 <table>
 <tr><th>Parameter</th><th>Richtwerte</th><th>Einheiten</th><th>Anmerkungen</th></tr>
 <tr><td>1 Spezifische Anforderungen</td><td></td><td></td><td></td></tr>
 <tr><td>Gesamter organischer Kohlenstoff (TOC, Total Organic Carbon)</td><td>≤ 2</td><td>mg/l</td><td>Keine ungewöhnlichen Veränderungen. Die Erhöhung der Konzentration des ins Haus eintretenden Wassers darf höchstens 0,5 mg C/l entsprechen.</td></tr>
-<tr><td>Richtwert Gesamtdosis nach Artikel 1a der Kontaminantenverordnung des EDI vom 16. Dezember 2016[^annex3-lvlu1-1]</td><td></td><td></td><td></td></tr>
+<tr><td>Trübung</td><td>≤ 1</td><td>NTU</td><td>Im Verteilnetz</td></tr>
 <tr><td>2 Radioaktivität</td><td></td><td></td><td>Die Überwachung von Radon, Tritium oder der Gesamtdosis (RD) ist nicht notwendig, wenn mittels eines anderen repräsentativen Überwachungsprogramms oder anderer verlässlicher Untersuchungen gezeigt werden kann, dass die Werte von Radon, Tritium oder die RD nicht überschritten werden.</td></tr>
 <tr><td>Radon</td><td>≤ 100</td><td>Bq/l</td><td></td></tr>
 <tr><td>Tritium</td><td>≤ 100</td><td>Bq/l</td><td>Erhöhte Tritiumwerte können auf das Vorhandensein anderer künstlicher Radionuklide hindeuten. Liegt die Tritiumkonzentration über dem für sie festgelegten Parameterwert, so ist eine Analyse im Hinblick auf das Vorhandensein anderer künstlicher Radionuklide erforderlich.</td></tr>
-<tr><td>Richtwert Gesamtdosis (RD)</td><td>≤ 0,1</td><td>mSv/Jahr</td><td>Effektive Folgedosis (für die Aufnahme während eines Jahres) durch alle im Trinkwasser nachgewiesenen künstlichen und natürlichen Radionuklide unter Ausschluss von Tritium, Kalium-40, Radon und kurzlebigen Zerfallsprodukten von Radon.</td></tr>
+<tr><td>Richtwert Gesamtdosis (RD) nach Art. 1*a* der Kontaminantenverordnung vom 16. Dez. 2016[^annex3-lvlu1-1]</td><td>≤ 0,1</td><td>mSv/Jahr</td><td>Effektive Folgedosis (für die Aufnahme während eines Jahres) durch alle im Trinkwasser nachgewiesenen künstlichen und natürlichen Radionuklide unter Ausschluss von Tritium, Kalium-40, Radon und kurzlebigen Zerfallsprodukten von Radon.</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: [SR 817.022.15](https://fedlex.data.admin.ch/eli/cc/2017/156)
@@ -332,7 +339,7 @@ Anhang 4*[^t-4]*
 <tr><th>Verfahren</th><th>Umschreibung und Zweck</th><th>Anwendung/Beispiele und Bemerkungen</th></tr>
 <tr><td>Filtration</td><td>Teilweise oder vollständige Abtrennung von ungelösten Partikeln aller Art durch mechanische und elektro-physikalische Siebwirkung; bei der Membran-filtration können auch ungelöste Stoffe entfernt werden.</td><td>Filtration über körnige Materialien: Schnellfiltration (Einschicht-, Zweischicht- oder Mehrschichtfilter), Langsamsandfiltration; Bodenpassage; in Kombination mit Flockung: Flockungsfiltration; Anschwemmfiltration; Membranfiltration: Mikrofiltration, Ultrafiltration, Nanofiltration, Umkehrosmose; Aktivkohlefiltration;</td></tr>
 <tr><td></td><td>Entsäuerung durch Filtration über alkalische Filtermedien</td><td></td></tr>
-<tr><td></td><td>Abbau von Stoffen durch Mikroorganismen</td><td>**Verwendung** des Filters als Träger von biologischen Gemeinschaften</td></tr>
+<tr><td></td><td>Abbau von Stoffen durch Mikroorganismen</td><td>Verwendung des Filters als Träger von biologischen Gemeinschaften</td></tr>
 <tr><td>Flockung und Fällung</td><td>Entladung von Partikeln, so dass sie zu filtrierbaren oder sedimentierbaren Flocken koagulieren, bzw. Massnahmen, die echt und kolloidal gelöste Bestandteile in eine unlösliche sedimentierbare oder filtrierbare Form überführen.</td><td>Sedimentationsflockung; Flockungsfiltration; Entcarbonisierung; Enteisenung, Entmanganung; Arsenentfernung</td></tr>
 <tr><td>Sedimentation</td><td>Entfernung von Partikeln unter Einwirkung der Gravitationskraft</td><td>Sedimentation; Sedimentationsflockung</td></tr>
 <tr><td>Gasaustausch/Belüftung</td><td>Entfernung unerwünschter Gase und/oder Eintrag von Sauerstoff</td><td>Entsäuerung; Enteisenung; Entmanganung; Strippen zur Entfernung flüchtiger organischer Verbindungen; Austreiben von Geruchs- und Geschmacksstoffen; Nitrifikation</td></tr>
@@ -350,16 +357,16 @@ Anhang 4*[^t-4]*
 <tr><th>Verfahren</th><th>Umschreibung und Zweck</th><th>Anwendung/Beispiele und Bemerkungen</th></tr>
 <tr><td>Zudosierung von Chlordioxid</td><td>Primärdesinfektion und/oder Sekundärdesinfektion (Enddesinfektion); Netzschutz; desinfizierendes Agens: ClO<sub>2</sub></td><td>Chemische oder elektrochemische Erzeugung von Chlordioxid aus einer Chloritlösung vor Ort; Herstellungsverfahren: Chlorit-/Chlor-Verfahren, Chlorit-/Salzsäure-Verfahren, Chlorit-/Peroxodisulfat-Verfahren;</td></tr>
 <tr><td>Chlorung</td><td>Primärdesinfektion und/oder Sekundärdesinfektion (Enddesinfektion); Netzschutz; desinfizierendes Agens: HOCl</td><td>Elektrochemische Erzeugung von Chlor aus einer Natriumchloridlösung vor Ort; Elektrolyse mit oder ohne Diaphragma. Die Kombination mit Chlordioxid ist zulässig;</td></tr>
-<tr><td></td><td></td><td>Vakuum-Chlorgasdosieranlage; Chlorung mit Javelwasser (Dosierung von Natriumhypo-chlorit-Lösung). Die Kombination mit Chlordioxid zulässig; Dosierung von Calciumhypo-chlorit-Lösung</td></tr>
+<tr><td></td><td></td><td>Vakuum-Chlorgasdosieranlage; Chlorung mit Javelwasser (Dosierung von Natriumhypo-chlorit-Lösung). Die Kombination mit Chlordioxid ist zulässig; Dosierung von Calciumhypo-chlorit-Lösung</td></tr>
 <tr><td>Ozonung</td><td>Primärdesinfektion</td><td>Erzeugung von Ozon im elektrischen Feld aus Luft oder Sauerstoff vor Ort</td></tr>
-<tr><td>UV- Bestrahlung</td><td>Primärdesinfektion</td><td>Reaktor mit einem oder mehreren Niederdruck- oder Mitteldruckstrahlern</td></tr>
+<tr><td>UV-Bestrahlung</td><td>Primärdesinfektion</td><td>Reaktor mit einem oder mehreren Niederdruck- oder Mitteldruckstrahlern</td></tr>
 <tr><td>Silberung</td><td>Hemmung der Verkeimung in einzelnen Geräten in der Haus-installation im Kaltwasserbereich; Hemmung der Verkeimung in Tanks oder Behältnissen</td><td>Gesilberte Ionenaustauscher-harze in Enthärtungsanlagen in Gebäuden; Silbernitrat-Tabletten für Notwasser</td></tr>
 </table>
 
 ### 3 Liste der Verfahren zum Schutz von Trinkwasseranlagen
 
 <table>
-<tr><th>Verfahren1</th><th>Umschreibung und Zweck</th><th>Anwendung/Beispiele und Bemerkungen</th></tr>
+<tr><th>Verfahren</th><th>Umschreibung und Zweck</th><th>Anwendung/Beispiele und Bemerkungen</th></tr>
 <tr><th>Zudosierung von Stoffen</th><th>Zugabe von Säure oder Lauge zur Änderung des pH-Werts; Zugabe von Stoffen zur Schutzfilmbildung</th><th>Entcarbonisierung; pH-Wert-Korrektur; Korrosionsschutz (chemisch)</th></tr>
 <tr><th>Elektrophysikalische oder magnetische Verfahren</th><th>Hemmung von Kalkablagerungen, Verhinderung von Scaling</th><th>Verhinderung der Kalkschalenbildung</th></tr>
 <tr><th>Elektrochemische Verfahren</th><th>Hemmung der Oxidation eisenhaltiger Werkstoffe; Verlangsamung der Korrosion</th><th>Korrosionsschutz; mit oder ohne Fremdstrom</th></tr>
@@ -410,8 +417,7 @@ Anhang 4*[^t-4]*
 <tr><td>Kaliumperoxomonosulfat (Kaliummonopersulfat)</td><td>Oxidation, Herstellung von Chlordioxid</td><td>70693-62-8</td></tr>
 <tr><td>Kalk manganbeschichtet</td><td>Entmanganung</td><td>–</td></tr>
 <tr><td>Kieselgur</td><td>Filtration</td><td>61790-53-2</td></tr>
-<tr><td>Kohlendioxyd</td><td>Härtekorrektur, pH-Korrektur</td><td>124-38-9</td></tr>
-<tr><td>Kohlenstoffdioxid</td><td>Härtekorrektur, pH-Korrektur</td><td>124-38-9</td></tr>
+<tr><td>Kohlendioxid</td><td>Härtekorrektur, pH-Korrektur</td><td>124-38-9</td></tr>
 <tr><td>Kohleprodukte, thermisch behandelt</td><td>Filtration</td><td>–</td></tr>
 <tr><td>Magnesiumcarbonat</td><td>Härtekorrektur, pH-Korrektur</td><td>546-93-0</td></tr>
 <tr><td>Magnesiumcarbonathydroxid</td><td>Härtekorrektur, pH-Korrektur</td><td>39409-82-0</td></tr>
@@ -439,9 +445,9 @@ Anhang 4*[^t-4]*
 <tr><td>Natriumthiosulfat</td><td>Reduktion</td><td>7772-98-7</td></tr>
 <tr><td>Ozon</td><td>Oxidation</td><td>10028-15-6</td></tr>
 <tr><td>Perlit</td><td>Filtration</td><td>130885-09-5</td></tr>
-<tr><td>Phosphonsäure</td><td>Verhinderung der Verblockung von Membranen</td><td>6419-19-8, ...</td></tr>
+<tr><td>Phosphonsäure</td><td>Verhinderung der Verblockung von Membranen</td><td>6419-19-8, …</td></tr>
 <tr><td>Polyacrylamid</td><td>Flockung</td><td>9003-05-8</td></tr>
-<tr><td>Polyaluminiumchlorid-hydroxid</td><td>Flockung, Fällung</td><td>1327-41-9, ...</td></tr>
+<tr><td>Polyaluminiumchlorid-hydroxid</td><td>Flockung, Fällung</td><td>1327-41-9, …</td></tr>
 <tr><td>Polyaluminiumhydroxidchloridsilikat</td><td>Flockung</td><td>94894-80-1</td></tr>
 <tr><td>Polyaluminiumhydroxidchloridsulfat</td><td>Flockung, Fällung</td><td>39290-78-3</td></tr>
 <tr><td>Polyaluminiumhydroxidsilikatsulfat</td><td>Flockung, Fällung</td><td>131148-05-5</td></tr>
@@ -540,18 +546,20 @@ Anhang 5*[^t-5]*
 <tr><td></td><td></td><td>*Escherichia coli (E. coli)*</td><td>nn/100 ml</td><td>EN/ISO 9308-1</td></tr>
 <tr><td></td><td></td><td>*Pseudomonas aeruginosa*</td><td>nn/100 ml</td><td>EN/ISO 16266</td></tr>
 <tr><td>2</td><td>Wasser in Badanlagen mit biologischer Wasseraufbereitung</td><td>Enterokokken</td><td>50 KBE/100 ml</td><td>EN/ISO 7899-2</td></tr>
-<tr><td></td><td></td><td>*Escherichia coli (E. coli)*</td><td>100 KBE/100 ml</td><td>EN/ISO 9308-1</td></tr>
+<tr><td></td><td></td><td>*Escherichia coli (E. co**li)*</td><td>100 KBE/100 ml</td><td>EN/ISO 9308-1</td></tr>
 <tr><td></td><td></td><td>*Pseudomonas aeruginosa*</td><td>10 KBE/100 ml</td><td>EN/ISO 16266</td></tr>
 <tr><td>3</td><td>Wasser in Sprudelbädern oder über 23 °C warmen Becken mit einem der Aerosolbildung förderlichen Wasserkreislauf</td><td>Legionella spp.</td><td>100 KBE/l</td><td>EN/ISO 11731</td></tr>
 <tr><td>4</td><td>Dampfbad: Wasserherstellung mit Aerosolbildung</td><td>Legionella spp.</td><td>100 KBE/l</td><td>EN/ISO 11731</td></tr>
 <tr><td>5</td><td>Wasser in Duschanlagen</td><td>Legionella spp.</td><td>1000 KBE/l</td><td>EN/ISO 11731</td></tr>
 </table>
 
-Anhang 6
+Anhang 6*[^t-6]*
 
 (Art. 11)
 
 ## Höchst- und Mindestanforderungen betreffend Wasser in öffentlich zugänglichen Bädern und Duschanlagen
+
+[^t-6]: Bereinigt gemäss Ziff. I der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)).
 
 <table>
 <tr><td>Ziffer</td><td>Kategorie</td><td>Untersuchungskriterien</td><td>Mindestwerte</td><td colspan="2">Höchstwerte</td></tr>
@@ -569,16 +577,16 @@ Anhang 6
 <tr><td></td><td></td><td>pH</td><td>6,0</td><td colspan="2">9,0</td></tr>
 <tr><td></td><td></td><td>Sichtweite/Durchsichtigkeit</td><td colspan="2">&gt; 2,0 m, bei sämtlichen Böden</td><td></td></tr>
 <tr><td>5</td><td colspan="5">Wasser in Duschanlagen</td></tr>
-<tr><td></td><td colspan="5">Es gelten die Desinfektionsmittel nach Anhang 4 Ziffer 4 und die entsprechenden Höchstwerte nach Anhang 2.</td></tr>
+<tr><td></td><td colspan="5">Es gelten die Desinfektionsmittel nach Anhang 4 Ziffer 5 und die entsprechenden Höchstwerte nach Anhang 2.</td></tr>
 </table>
 
-Anhang 7*[^t-6]*
+Anhang 7*[^t-7]*
 
 (Art. 12)
 
 ## Höchstkonzentrationen von Schadstoffen und bei der Desinfektion anfallenden Nebenprodukten für Badewasser
 
-[^t-6]: Bereinigt gemäss Ziff. II der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^t-7]: Bereinigt gemäss Ziff. II der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
 
 <table>
 <tr><td>Ziffer</td><td>Kategorie</td><td>Untersuchungskriterien</td><td>Höchstwerte</td></tr>

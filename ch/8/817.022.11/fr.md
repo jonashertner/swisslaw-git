@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur l'eau potable et l'eau des in
 short: OPBD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/153"
 language: fr
-version: 2020-07-01
+version: 2021-08-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-153-20200701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/153/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2017-153-20210801-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/153/20200701/fr"
 
 (OPBD)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> juillet 2020)
+du 16 décembre 2016 (Etat le 1<sup>er</sup> août 2021)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -136,7 +136,7 @@ Les eaux destinées à entrer en contact avec le corps humain doivent répondre 
 
 **Produits désinfectants autorisés**
 
-<sup>1</sup> ...[^10-1]
+<sup>1</sup> …[^10-1]
 
 <sup>2</sup> L’eau des installations de douche est soumise aux exigences relatives aux substances désinfectantes pour l’eau potable prévues à l’art. 4, al. 4.
 
@@ -166,7 +166,7 @@ Les installations de douche et de régénération des eaux doivent être aménag
 
 <sup>1</sup> Tout bain accessible au public doit disposer d’au moins un titulaire du permis prescrit par l’ordonnance du DFI du 28 juin 2005 relative au permis pour l’emploi des désinfectants pour l’eau des piscines publiques[^14-1], à l’exception des installations de baignade avec régénération biologique des eaux.
 
-<sup>2</sup> et <sup>3</sup> ...[^14-2]
+<sup>2</sup> et <sup>3</sup> …[^14-2]
 
 [^14-1]: [RS 814.812.31](https://fedlex.data.admin.ch/eli/cc/2005/498)
 [^14-2]: Abrogés par le ch. I de l’O du DFI du 27 mai 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
@@ -201,14 +201,20 @@ Annexe 1*[^t-1]*
 
 ## Exigences microbiologiques relatives à l’eau potable
 
-[^t-1]: Nouvelle teneur selon le ch. I al. 2 de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Mise à jour par le ch. II de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^t-1]: Nouvelle teneur selon le ch. I al. 2 de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Mise à jour par le ch. II de l’O du DFI du 27 mai 2020 ([RO 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) et le ch. I de l’O de l’OSAV du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)).
 
 <table>
 <tr><th>Ch.</th><th>Produit</th><th>Paramètres</th><th>Valeurs maximales UFC[^annex1-lvlu1-1]</th><th>Référence analytique Méthode</th><th>Remarques</th></tr>
 <tr><td>1</td><td colspan="5">Eau potable</td></tr>
 <tr><td>1.1</td><td>au captage, non traitée</td><td>Germes aérobies mésophiles</td><td>100/ml</td><td>EN/ISO 6222</td><td>Température d’incubation: 30 °C Durée d’incubation: 72 heures</td></tr>
+<tr><td></td><td></td><td>*Escherichia coli*</td><td>nd[^annex1-lvlu1-2]/100 ml</td><td>EN/ISO 9308-1</td><td></td></tr>
+<tr><td></td><td></td><td>Entérocoques</td><td>nd/100 ml</td><td>EN/ISO 7899-2</td><td></td></tr>
 <tr><td>1.2</td><td>après le traitement</td><td>Germes aérobies mésophiles</td><td>20/ml</td><td>EN/ISO 6222</td><td>Température d’incubation: 30 °C Durée d’incubation: 72 heures S’applique immédiatement après le traitement de l’eau</td></tr>
+<tr><td></td><td></td><td>*Escherichia coli*</td><td>nd[^annex1-lvlu1-3]/100 ml</td><td>EN/ISO 9308-1</td><td></td></tr>
+<tr><td></td><td></td><td>Entérocoques</td><td>nd/100 ml</td><td>EN/ISO 7899-2</td><td></td></tr>
 <tr><td>1.3</td><td>dans le réseau de distribution, traitée ou non traitée</td><td>Germes aérobies mésophiles</td><td>300/ml</td><td>EN/ISO 6222</td><td>Température d’incubation: 30 °C Durée d’incubation: 72 heures</td></tr>
+<tr><td></td><td></td><td>*Escherichia coli*</td><td>nd[^annex1-lvlu1-4]/100 ml</td><td>EN/ISO 9308-1</td><td></td></tr>
+<tr><td></td><td></td><td>Entérocoques</td><td>nd/100 ml</td><td>EN/ISO 7899-2</td><td></td></tr>
 <tr><td>1.4</td><td>dans le réseau de distribution et dans l’installation domestique</td><td>Escherichia coli Entérocoques</td><td>nn/100 ml nn/100 ml</td><td>EN/ISO 9308-1 EN/ISO 7899-2</td><td></td></tr>
 <tr><td>2</td><td colspan="5">Eau potable (traitée ou non traitée) en récipients ou dans des fontaines à eau (gallons ou réseau de distribution)</td></tr>
 <tr><td></td><td></td><td>*Escherichia coli*</td><td>nd/100 ml</td><td>EN/ISO 9308-1</td><td></td></tr>
@@ -221,6 +227,9 @@ Annexe 1*[^t-1]*
 </table>
 
 [^annex1-lvlu1-1]: UFC: unités formant colonie
+[^annex1-lvlu1-2]: nd: non décelable
+[^annex1-lvlu1-3]: nd: non décelable
+[^annex1-lvlu1-4]: nd: non décelable
 
 Annexe 2*[^t-2]*
 
@@ -266,7 +275,6 @@ Annexe 2*[^t-2]*
 <tr><td>Fer</td><td>0,2</td><td>mg/l</td><td>Total</td></tr>
 <tr><td>Fluorure</td><td>1,5</td><td>mg/l</td><td></td></tr>
 <tr><td>Hydrocarbures aromatiques polycycliques</td><td>0,1</td><td>µg/l</td><td>Somme de benzo[b]fluoranthène, benzo[k]fluoranthène, benzo[ghi]perylène, indéno[1,2,3-cd]pyrène.</td></tr>
-<tr><td>Hydrocarbures halogénés, volatils: somme de toutes les substances halogénées dont la structure fondamentale comporte entre un et trois atomes de carbone et aucun autre groupe fonctionnel</td><td>10</td><td>µg/l</td><td>provenant de la contamination de l’environnement</td></tr>
 <tr><td>Hydrocarbures halogénés, volatils: somme de toutes les substances halogénées dont la structure fondamentale comporte entre un et trois atomes de carbone et aucun autre groupe fonctionnel</td><td>10</td><td>µg/l</td><td>provenant de la contamination de l’environnement, sans trihalométhanes THM.</td></tr>
 <tr><td>Indice hydrocarbure C<sub>10</sub>–C<sub>40</sub></td><td>20</td><td>µg/l</td><td>Détermination avec une méthode similaire à la méthode ISO 9377-2, mais avec une limite de quantification plus basse.</td></tr>
 <tr><td>Manganèse</td><td>50</td><td>µg/l</td><td>Manganèse</td></tr>
@@ -285,6 +293,7 @@ Annexe 2*[^t-2]*
 <tr><td>Plomb</td><td>10</td><td>µg/l</td><td>Les échantillons provenant d’installations domestiques doivent être prélevés après avoir fait couler un volume de 500 ml.</td></tr>
 <tr><td>Sélénium</td><td>10</td><td>µg/l</td><td></td></tr>
 <tr><td>Silicate</td><td>5</td><td>mg/l</td><td>calculé en silicium.</td></tr>
+<tr><td>Silicate</td><td>10</td><td>mg/l</td><td>ajoutés, pendant 3 mois au maximum, pour la formation d’une couche protectrice.</td></tr>
 <tr><td>Sodium</td><td>200</td><td>mg/l</td><td></td></tr>
 <tr><td>Substances figurant à l’annexe 2 de l’ordonnance du 16 décembre 2016 sur les matériaux et objets[^annex2-lvlu1-2]</td><td>LMS/20</td><td>mg/l</td><td>Les valeurs limites de migration (LMS) de ces substances ne doivent pas dépasser les valeurs figurant à l’annexe 2 de l’ordonnance du DFI sur les matériaux et objets divisées par 20 (LMS<sub>eau</sub> = LMS<sub>denrées alimentaires</sub>/20), et en aucun cas la valeur de 0,5 mg/l exprimée en carbone organique total (v. annexe 3, Carbone organique total). Cette valeur (0,5 mg/l) s’applique également aux substances pour lesquelles aucune valeur limite de migration n’est prévue à l’annexe 2 de l’ordonnance sur les matériaux et objets.</td></tr>
 <tr><td>Tétra- et trichloroéthylène</td><td>10</td><td>µg/l</td><td>Somme des concentrations de paramètres spécifiés</td></tr>
@@ -303,17 +312,17 @@ Annexe 3*[^t-3]*
 
 ## Autres exigences relatives à l’eau potable
 
-[^t-3]: Nouvelle teneur selon le ch. I al. 2 de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Mise à jour par le ch. II de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^t-3]: Nouvelle teneur selon le ch. I al. 2 de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)). Mise à jour par le ch. II de l’O du DFI du 27 mai 2020 ([RO 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)) et le ch. I de l’O de l’OSAV du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)).
 
 <table>
 <tr><th>Paramètres</th><th>Valeurs indicatives</th><th>Unités</th><th>Notes</th></tr>
 <tr><td>1 Exigences spécifiques</td><td></td><td></td><td></td></tr>
 <tr><td>Carbone organique total (COT)</td><td>≤ 2</td><td>mg/l</td><td>Aucun changement anormal. L’augmentation de la concentration peut atteindre 0,5 mg C/l au maximum par rapport à l’entrée du bâtiment.</td></tr>
-<tr><td>Valeur indicative de la dose globale selon l’art. 1*a* de l’ordonnance du DFI du 16 décembre 2016 sur les contaminants[^annex3-lvlu1-1]</td><td></td><td></td><td></td></tr>
+<tr><td>Turbidité</td><td>≤ 1</td><td>UTN</td><td>Dans le réseau de distribution</td></tr>
 <tr><td>2 Radioactivité</td><td></td><td></td><td>La surveillance du radon, du tritium ou de la valeur indicative de la dose globale (DI) n’est pas nécessaire si, par une surveillance représentative ou des informations fiables, il peut être démontré que ces valeurs pour le radon, le tritium ou la DI ne sont pas dépassées.</td></tr>
 <tr><td>Radon</td><td>≤100</td><td>Bq/l</td><td></td></tr>
 <tr><td>Tritium</td><td>≤100</td><td>Bq/l</td><td>Des niveaux élevés de tritium peuvent indiquer la présence d’autres radionucléides artificiels. Si la concentration de tritium est supérieure à sa valeur indicative, une analyse de la présence d’autres radionucléides artificiels est nécessaire.</td></tr>
-<tr><td>Valeur indicative de la dose globale (DI)</td><td>≤0,1</td><td>mSv/an</td><td>Dose efficace engagée (pour une année d’ingestion) résultant de tous les radionucléides naturels et artificiels dont la présence a été détectée dans l’eau potable à l’exclusion du tritium, du potassium-40, du radon et des descendants du radon à vie courte.</td></tr>
+<tr><td>Valeur indicative de la dose globale (DI) selon l’art. 1*a* de l’ordonnance du 16 décembre 2016 sur les contaminants[^annex3-lvlu1-1]</td><td>≤ 0,1</td><td>mSv/an</td><td>Dose efficace engagée (pour une année d’ingestion) résultant de tous les radionucléïdes naturels et artificiels dont la présence a été détectée dans l’eau potable, à l’exclusion du tritium, du potassium-40, du radon et des descendants du radon à vie courte.</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: [RS 817.022.15](https://fedlex.data.admin.ch/eli/cc/2017/156)
@@ -324,7 +333,7 @@ Annexe 4*[^t-4]*
 
 ## Liste des procédés et des produits reconnus pour le traitement de l’eau potable et la protection des installations d’eau potable
 
-[^t-4]: Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)) et le ch. II de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^t-4]: Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1325](https://fedlex.data.admin.ch/eli/oc/2018/214)) et le ch. II de l’O de l’OSAV du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
 
 ### 1 Liste des procédés liés au traitement de l’eau potable afin de modifier ses propriétés physico-chimiques
 
@@ -332,7 +341,7 @@ Annexe 4*[^t-4]*
 <tr><th>Procédés</th><th>Descriptions et buts</th><th>Remarques et exemples</th></tr>
 <tr><td>Filtration</td><td>Élimination partielle ou totale de particules insolubles par tamisage mécanique ou électrophysique; pour la filtration membranaire des substances insolubles peuvent aussi être éliminées.</td><td>Filtration avec des matériaux granuleux: filtration rapide (une couche, deux couche ou plusieurs couches), filtration lente; filtration alluvionnaire; combinaison avec la floculation: filtration par floculation; filtration pré-couche; filtration membranaire: microfiltration, ultrafiltration, nanofiltration, osmose inverse; filtration au charbon actif;</td></tr>
 <tr><td></td><td>Désacidification par filtration par des milieux alcalins</td><td></td></tr>
-<tr><td></td><td>Élimination de substances par des microorganismes</td><td>**Utilisation** du filtre comme support de communautés biologiques</td></tr>
+<tr><td></td><td>Élimination de substances par des microorganismes</td><td>Utilisation du filtre comme support de communautés biologiques</td></tr>
 <tr><td>Floculation et précipitation</td><td>Neutralisation des charges électrique superficielles des particules, afin de pouvoir les filtrer ou les précipiter, resp. des mesures qui convertissent les composants solides ou colloïdales dissous en une forme insoluble sédimentable ou filtrable.</td><td>Sédimentation par floculation; filtration par floculation; décarbonisation; déferrisation , démanganisation; élimination de l’arsenic</td></tr>
 <tr><td>Sédimentation</td><td>Élimination de particules par gravité</td><td>Sédimentation; sédimentation par floculation</td></tr>
 <tr><td>Échange gazeux/aération</td><td>Éliminations des gaz indésirables et/ou apport d’oxygène</td><td>Désacidification; déferrisation; démanganisation; stripping pour éliminer un composé organique volatil; élimination de subtances d’odeur et de goût; nitrification</td></tr>
@@ -374,7 +383,7 @@ Annexe 4*[^t-4]*
 <tr><td>Acétate de cellulose</td><td>Filtration</td><td></td></tr>
 <tr><td>Acide acétique</td><td>Élimination des nitrates</td><td>64-19-7</td></tr>
 <tr><td>Acide chlorhydrique</td><td>Correction du pH, régénération d’échangeurs d’ions</td><td>7647-01-0</td></tr>
-<tr><td>Acide phosphonique</td><td>Prévention du blocage de membranes</td><td>6419-19-8, ...</td></tr>
+<tr><td>Acide phosphonique</td><td>Prévention du blocage de membranes</td><td>6419-19-8, …</td></tr>
 <tr><td>Acides polycarboxyliques</td><td>Prévention du blocage de membranes</td><td>9003-01-4</td></tr>
 <tr><td>Acide sulfurique</td><td>Correction du pH, régénération d’échangeurs d’ions</td><td>7664-93-9</td></tr>
 <tr><td>Aluminate de sodium</td><td>Floculation</td><td>11138-49-1</td></tr>
@@ -401,7 +410,6 @@ Annexe 4*[^t-4]*
 <tr><td>Copolymère acrylique modifié par une amine tertiaire</td><td>Élimination de l’uranium</td><td></td></tr>
 <tr><td>Copolymère de styrène-divinylbenzène avec des groupes trialkylammonium</td><td>Élimination de l’uranium et élimination de nitrate</td><td></td></tr>
 <tr><td>Copolymère de styrène-divinylbenzène avec groupes acide iminodiacétique</td><td>Élimination du nickel</td><td>135620-93-8</td></tr>
-<tr><td>Dioxyde de carbone</td><td>Correction du pH, correction de la dureté</td><td>124-38-9</td></tr>
 <tr><td>Dioxyde de carbone</td><td>Correction du pH, correction de la dureté</td><td>124-38-9</td></tr>
 <tr><td>Dioxyde de manganèse</td><td>Démanganisation</td><td>1313-13-9</td></tr>
 <tr><td>Dioxyde de manganèse, calcaire enrobé</td><td>Déferrisation, démanganisation et élimination de l’hydrogène sulfuré</td><td></td></tr>
@@ -441,7 +449,7 @@ Annexe 4*[^t-4]*
 <tr><td>Polyamide (PA)</td><td>Filtration</td><td></td></tr>
 <tr><td>Polyéthersulfone (PES)</td><td>Filtration</td><td></td></tr>
 <tr><td>Polyhydroxychlorosilicate d’aluminium</td><td>Floculation</td><td>94894-80-1</td></tr>
-<tr><td>Polyhydroxychlorure d’aluminium</td><td>Floculation, précipitation</td><td>1327-41-9, ...</td></tr>
+<tr><td>Polyhydroxychlorure d’aluminium</td><td>Floculation, précipitation</td><td>1327-41-9, …</td></tr>
 <tr><td>Polyhydroxysulfate d’aluminosilicate</td><td>Floculation, précipitation</td><td>131148-05-5</td></tr>
 <tr><td>Polypipérazine</td><td>Filtration</td><td></td></tr>
 <tr><td>Polysulfonamide</td><td>Filtration</td><td></td></tr>
@@ -548,11 +556,13 @@ Annexe 5*[^t-5]*
 <tr><td>5</td><td>Eau dans les installations de douche</td><td>Legionella spp.</td><td>1000 UFC/l</td><td>EN/ISO 11731</td></tr>
 </table>
 
-Annexe 6
+Annexe 6*[^t-6]*
 
 (art. 11)
 
 ## Exigences minimales et maximales pour l’eau de baignade et de douche
+
+[^t-6]: Mise à jour par le ch. I de l’O de l’OSAV du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 424](https://fedlex.data.admin.ch/eli/oc/2021/424)).
 
 <table>
 <tr><td>Ch.</td><td>Catégorie</td><td>Critères d’examen</td><td>Valeurs minimales</td><td colspan="2">Valeurs maximales</td></tr>
@@ -570,16 +580,16 @@ Annexe 6
 <tr><td></td><td></td><td>pH</td><td>6,0</td><td colspan="2">9,0</td></tr>
 <tr><td></td><td></td><td>Visibilité/limpidité</td><td colspan="2">&gt; 2,0 m, sur tout le fonds</td><td></td></tr>
 <tr><td>5</td><td colspan="5">Eau dans les installations de douche</td></tr>
-<tr><td></td><td colspan="5">Les substances désinfectantes selon l’annexe 4, ch. 4, et les valeurs maximales correspondantes selon l’annexe 2 s’appliquent.</td></tr>
+<tr><td></td><td colspan="5">Les substances désinfectantes selon l’annexe 4, ch. 5, et les valeurs maximales correspondantes selon l’annexe 2 s’appliquent..</td></tr>
 </table>
 
-Annexe 7*[^t-6]*
+Annexe 7*[^t-7]*
 
 (art. 12)
 
 ## Concentrations maximales en substances polluantes ou dérivées de la désinfection d’eau de baignade
 
-[^t-6]: Mise à jour par le ch. II de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
+[^t-7]: Mise à jour par le ch. II de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2287](https://fedlex.data.admin.ch/eli/oc/2020/446)).
 
 <table>
 <tr><td>Ch.</td><td>Catégorie</td><td>Critères d’examen</td><td>Valeurs maximales</td></tr>
