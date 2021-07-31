@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2015 sur les infrastructures des marchés fina
 short: OIMF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: fr
-version: 2020-10-01
+version: 2021-08-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20201001/fr/xml/fedlex-data-admin-ch-eli-cc-2015-854-20201001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20201001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-854-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20201001/fr"
 
 (Ordonnance sur l’infrastructure des marchés financiers, OIMF)
 
-du 25 novembre 2015 (Etat le 1<sup>er</sup> octobre 2020)
+du 25 novembre 2015 (Etat le 1<sup>er</sup> août 2021)
 
 Le Conseil fédéral suisse,
 
@@ -49,7 +49,7 @@ La présente ordonnance règle notamment:
 
 ### (art. 2, let. b et c, LIMF)
 
-<sup>1</sup> On entend par valeurs mobilières standardisées et susceptibles d’être diffusées en grand nombre sur le marché les papiers-valeurs, les droits-valeurs, les dérivés et les titres intermédiés qui sont structurés et fractionnés de la même façon et offerts au public ou qui sont vendus à plus de 20 clients, pour autant que ces valeurs ne soient pas créées spécialement pour certaines contreparties.
+<sup>1</sup> Les valeurs mobilières sont réputées standardisées et susceptibles d’être diffusées en grand nombre sur le marché lorsqu’elles sont structurées et fractionnées de la même façon et offertes au public ou qu’elles sont vendues à plus de 20 clients, pour autant qu’elles ne soient pas créées spécialement pour certaines contreparties.[^2-1]
 
 <sup>2</sup>
 
@@ -80,6 +80,8 @@ Sont considérées comme des opérations de caisse les opérations qui sont rég
 - a. les opérations qui sont réglées dans un délai de règlement plus long, mais usuel sur le marché pour la paire de devises;
 - b. les achats ou les ventes de valeurs mobilières qui sont payés conformément au délai de règlement usuel sur le marché ou prescrit par la loi, quelle que soit leur monnaie;
 - c. les opérations sur dérivés qui sont régulièrement prolongées sans qu’une obligation légale existe ou qu’une prolongation entre les parties soit usuelle à cet égard.
+
+[^2-1]: Nouvelle teneur selon le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 3
 
@@ -307,7 +309,26 @@ Sont notamment considérés comme essentiels les services suivants:
   dans les systèmes de paiement:
 
   - 1\. la réception et l’exécution des ordres de paiement des participants,
-  - 2\. la tenue des comptes de compensation.
+  - 2\. la tenue des comptes de compensation;
+
+- f.[^12-1]
+
+  dans les systèmes de négociation pour les valeurs mobilières fondées sur la technologie des registres distribués (systèmes de négociation fondés sur la TRD) qui ne fournissent pas de services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF:
+
+  - 1\. toutes les activités destinées à garantir une négociation équitable, efficace et ordonnée,
+  - 2\. l’exploitation de systèmes de *matching* et de distribution de données du marché;
+
+- g.[^12-2]
+
+  dans les systèmes de négociation fondés sur la TRD qui fournissent des services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF:
+
+  - 1\. les services visés à la let. f,
+  - 2\. la conservation centralisée de valeurs mobilières fondées sur la TRD ou la compensation et le règlement d’opérations sur de telles valeurs,
+  - 3\. la comptabilisation initiale de valeurs mobilières fondées sur la TRD sur un compte de titres,
+  - 4\. la réconciliation de portefeuilles.
+
+[^12-1]: Introduite par le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^12-2]: Introduite par le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 13
 
@@ -319,13 +340,22 @@ Sont notamment considérés comme essentiels les services suivants:
 
 Le capital minimal est fixé comme suit:
 
-- a. plates-formes de négociation: 1 million de francs, mais la FINMA peut, dans des cas justifiés, définir un montant minimal jusqu’à 50 % supérieur;
+- a.[^13-1] plates-formes de négociation: 1 million de francs;
 - b. contreparties centrales: 10 millions de francs;
 - c. dépositaires centraux: 5 millions de francs;
 - d. référentiels centraux: 500 000 francs;
-- e. systèmes de paiement: 1,5 million de francs.
+- e. systèmes de paiement: 1,5 million de francs;
+- f.[^13-2] systèmes de négociation fondés sur la TRD qui ne fournissent pas de services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF: 1 million de francs;
+- g.[^13-3] systèmes de négociation fondés sur la TRD qui fournissent des services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF: 5 millions de francs.
+
+<sup>1bis</sup> Dans des cas justifiés, la FINMA peut définir un montant minimal jusqu’à 50 % supérieur pour les plates-formes de négociation et les systèmes de négociation fondés sur la TRD.[^13-4]
 
 <sup>2</sup> En cas de fondation par apports en nature, la valeur des actifs apportés et le montant des passifs repris doivent être vérifiés par une société d’audit agréée. Il en va de même en cas de transformation d’une entreprise existante en une infrastructure des marchés financiers.
+
+[^13-1]: Nouvelle teneur selon le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-2]: Introduite par le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-3]: Introduite par le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-4]: Introduit par le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 14
 
@@ -510,15 +540,21 @@ On entend par règles non discrétionnaires celles qui ne laissent aucune marge 
 Un organisme approprié de régulation et de surveillance comprend notamment les organes suivants:
 
 - a. un organe assumant les tâches de régulation;
-- b. un organe de surveillance de la négociation;
+- b.[^24-1] un organe assumant les tâches de surveillance;
 - c. un organe chargé de l’admission des valeurs mobilières à la négociation;
 - d. une instance de recours.
 
-<sup>2</sup> Les organes chargés des tâches de régulation et de surveillance de la plate-forme de négociation ne doivent comprendre aucun membre de la direction et doivent être indépendants de cette dernière sur le plan de l’organisation. Ils sont dotés de moyens financiers, personnels et organisationnels suffisants.
+<sup>2</sup> L’organe chargé des tâches de régulation de la plate-forme de négociation doit être indépendant de la direction et majoritairement indépendant des participants et des émetteurs sur les plans de l’organisation et du personnel. Il est doté de ressources financières, humaines et organisationnelles suffisantes.[^24-2]
+
+<sup>2bis</sup> L’organe chargé des tâches de surveillance de la plate-forme de négociation doit être indépendant de la direction, des participants et des émetteurs sur les plans de l’organisation et du personnel. Il est doté de ressources financières, humaines et organisationnelles suffisantes.[^24-3]
 
 <sup>3</sup> Les émetteurs et les investisseurs doivent être représentés de manière équitable dans l’organe chargé de l’admission des valeurs mobilières.
 
 <sup>4</sup> La plate-forme de négociation fixe par voie de règlement les tâches et les compétences des organes ainsi que les modalités de représentation des émetteurs et des investisseurs au sein de l’organe chargé de l’admission des valeurs mobilières.
+
+[^24-1]: Nouvelle teneur selon le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^24-2]: Nouvelle teneur selon le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^24-3]: Introduit par le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 25
 
@@ -1049,6 +1085,224 @@ Sont considérés comme liquidités au sens de l’art. 67, al. 1, LIMF dans une
 <sup>2</sup> Le dépositaire central s’assure régulièrement du respect des exigences énoncées à l’art. 67, al. 1, LIMF selon divers scénarios de crise. Il applique aux liquidités des décotes qui sont appropriées même dans des conditions de marché extrêmes mais plausibles. Il diversifie ses fournisseurs de liquidités.
 
 <sup>3</sup> La stratégie de placement du dépositaire central doit être en accord avec sa stratégie de gestion des risques. Il appartient au dépositaire central d’éviter une concentration des risques.
+
+### Chapitre 4*a***** Systèmes de négociation fondés sur la TRD
+
+[^tit2-chap4a-1]
+
+[^tit2-chap4a-1]: Introduit par le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### Section 1 Définitions
+
+#### Art. 58a
+
+**Négociation multilatérale et règles non discrétionnaires**
+
+### (art. 73*a*, al. 1, LIMF)
+
+Les définitions de «négociation multilatérale» et de «règles non discrétionnaires» figurant dans les art. 22 et 23 s’appliquent par analogie aux systèmes de négociation fondés sur la TRD.
+
+#### Art. 58b
+
+**Exercice d’une activité à titre professionnel**
+
+### (art. 73*a*, al. 2, LIMF)
+
+<sup>1</sup>
+
+Un système de négociation fondé sur la TRD exerce son activité à titre professionnel s’il:
+
+- a. réalise un produit brut de plus de 50 000 francs durant une année civile;
+- b. entretient des relations d’affaires avec plus de 20 participants visés à l’art. 73*c*, al. 1, let. e, LIMF (participants privés) ou avec au moins un participant visé à l’art. 73*c*, al. 1, let. a à d, LIMF pendant une année civile, ou
+- c. a un pouvoir de disposition d’une durée illimitée sur des valeurs mobilières fondées sur la TRD appartenant à des tiers dont le montant dépasse 5 millions de francs à un moment donné.
+
+<sup>2</sup> Le système de négociation fondé sur la TRD doit annoncer dans les dix jours à la FINMA le dépassement d’un des seuils mentionnés à l’al. 1. Il doit lui présenter dans les 60 jours une demande d’autorisation conformément aux dispositions de la LIMF.
+
+<sup>3</sup> Si le but de protection de la LIMF l’exige, la FINMA peut interdire au demandeur d’exercer des activités réservées à un système de négociation fondé sur la TRD jusqu’à ce qu’elle ait rendu sa décision.
+
+### Section 2 Exigences
+
+#### Art. 58c
+
+**Applicabilité de certaines exigences imposées aux plates-formes de négociation**
+
+### (art. 73*b* LIMF)
+
+<sup>1</sup> Sauf disposition contraire de la présente section, les art. 24 à 32 et 35 s’appliquent par analogie aux systèmes de négociation fondés sur la TRD.
+
+<sup>2</sup> Les systèmes de négociation fondé sur la TRD qui ne sont pas en mesure, dans des cas exceptionnels, d’annuler, de modifier ou de corriger toute opération, comme le prévoit l’art. 30, al. 2, let. f, doivent disposer d’un mécanisme ayant un effet économiquement comparable.
+
+#### Art. 58d
+
+**Obligation d’enregistrer et obligation de déclarer**
+
+### (art. 73*c*, al. 3, LIMF)
+
+<sup>1</sup> Les participants privés ne sont pas soumis à l’obligation d’enregistrer de l’art. 38 LIMF et à l’obligation de déclarer de l’art. 39 LIMF.
+
+<sup>2</sup> Pour les autres participants, les art. 36 et 37 de la présente ordonnance s’appliquent par analogie.
+
+#### Art. 58e
+
+**Admission et exclusion des participants**
+
+### (art. 73*c*, al. 4 et 5, LIMF)
+
+<sup>1</sup> Le système de négociation fondé sur la TRD fixe dans le règlement visé à l’art. 73*c*, al. 5, LIMF s’il admet des participants privés et, si oui, lesquels.
+
+<sup>2</sup> L’accès non discriminatoire visé à l’art. 18 LIMF ne doit pas être impérativement accordé aux participants privés.
+
+#### Art. 58f
+
+**Admission de valeurs mobilières fondées sur la TRD et d’autres valeurs patrimoniales**
+
+### (art. 73*d* LIMF)
+
+<sup>1</sup> Le système de négociation fondé sur la TRD fixe dans le règlement visé à l’art. 73*d* LIMF les valeurs mobilières fondées sur la TRD et les autres valeurs patrimoniales admises aux services qu’il propose. Il peut désigner dans le règlement chacune des valeurs mobilières fondées sur la TRD et valeurs patrimoniales admises ou les définir selon leur genre et leur fonction.
+
+<sup>2</sup> Si le système de négociation fondé sur la TRD admet des dérivés conçus comme des valeurs mobilières fondées sur la TRD, seuls des produits sans composante de valeur temporelle ou de levier peuvent être admis à la négociation.
+
+<sup>3</sup> Les valeurs mobilières fondées sur la TRD et les autres valeurs patrimoniales qui pourraient compliquer notablement la mise en œuvre des exigences de la loi du 10 octobre 1997 sur le blanchiment d’argent[^58f-1] ou porter atteinte à la stabilité et à l’intégrité du système financier ne doivent pas être admises. La FINMA peut préciser quelles sont ces valeurs mobilières fondées sur la TRD et ces valeurs patrimoniales.
+
+<sup>4</sup> Le système de négociation fondé sur la TRD prévoit dans son règlement des procédures de retrait de l’admission des valeurs mobilières fondées sur la TRD et d’autres valeurs patrimoniales.
+
+<sup>5</sup> Les exigences de l’art. 34 sont applicables par analogie.
+
+[^58f-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+#### Art. 58g
+
+**Exigences minimales pour l’admission de valeurs mobilières fondées sur la TRD et vérification régulière**
+
+### (art. 73*d*, al. 3, LIMF)
+
+<sup>1</sup> Le système de négociation fondé sur la TRD peut admettre des valeurs mobilières fondées sur la TRD si le registre électronique distribué répond au moins aux exigences de l’art. 973*d*, al. 2, CO[^58g-1].
+
+<sup>2</sup> S’il n’exploite pas lui-même le registre électronique distribué, le système de négociation fondé sur la TRD concerné vérifie que celui-ci respecte les exigences de l’al. 1 avant l’admission des valeurs mobilières fondées sur la TRD correspondantes; il effectue ensuite cette vérification régulièrement, mais au moins une fois par an.
+
+<sup>3</sup> Il informe ses participants des vérifications effectuées et de leurs résultats.
+
+[^58g-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 58h
+
+**Déclarations concernant les transactions**
+
+### (art. 73*d* LIMF)
+
+<sup>1</sup> Le système de négociation fondé sur la TRD surveille toutes les transactions sur les valeurs mobilières admises qui ont été effectuées sur ses systèmes. Il déclare gratuitement ces transactions à tous les systèmes de négociation autorisés fondés sur la TRD.
+
+<sup>2</sup> Si les valeurs mobilières fondées sur la TRD admises auprès d’un système de négociation fondé sur la TRD se réfèrent à des valeurs mobilières admises également à la négociation sur une plate-forme de négociation suisse, le système de négociation fondé sur la TRD déclare gratuitement toutes les transactions sur ces valeurs mobilières fondées sur la TRD à la plate-forme de négociation concernée.
+
+<sup>3</sup> Les plates-formes de négociation et les systèmes de négociation fondés sur la TRD utilisent ces données exclusivement pour l’accomplissement de leurs tâches dans le domaine de la surveillance de la négociation.
+
+<sup>4</sup> La FINMA peut régler les détails de ces déclarations.
+
+#### Art. 58i
+
+**Obligations d’informer**
+
+### (art. 73*e*, al. 1, LIMF)
+
+<sup>1</sup> Les systèmes de négociation fondés sur la TRD ouverts à des participants privés mettent le cas échéant à la disposition de ceux-ci le prospectus ou la feuille d’information de base pour toute valeur mobilière fondée sur la TRD qu’ils admettent.
+
+<sup>2</sup>
+
+Ils informent ces participants des aspects ci-après du registre électronique distribué des valeurs mobilières fondées sur la TRD concernées:
+
+- a. sa gouvernance, et
+- b. ses risques techniques, notamment les risques de perte.
+
+<sup>3</sup> Ils publient en outre immédiatement des informations concernant les transactions sur d’autres valeurs patrimoniales effectuées sur le système de négociation fondé sur la TRD, notamment le prix, le volume et le moment des transactions.
+
+#### Art. 58j
+
+**Autres exigences concernant les services dans le domaine de la conservation centralisée, de la compensation et du règlement**
+
+### (art. 73*e*, al. 2, LIMF)
+
+<sup>1</sup> Sauf disposition contraire de la présente section, les exigences concernant les dépositaires centraux fixées aux art. 62 à 73 LIMF et aux art. 52 à 58 de la présente ordonnance s’appliquent par analogie aux systèmes de négociation fondés sur la TRD qui fournissent des services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF.
+
+<sup>2</sup> La ségrégation visée à l’art. 69 LIMF peut être opérée dans le registre électronique distribué dans lequel sont inscrites les valeurs mobilières fondées sur la TRD ou dans les systèmes du système de négociation fondé sur la TRD.
+
+<sup>3</sup> Un système de négociation fondé sur la TRD peut permettre de régler des paiements d’une autre manière que celle qui est définie à l’art. 65, al. 1, LIMF s’il fait appel à cet effet à un établissement surveillé par la FINMA.
+
+<sup>4</sup> Pour un système de négociation fondé sur la TRD, les cryptoactifs sont également réputés liquidités en devises selon l’art. 67, al. 1, LIMF pour autant que l’obligation de paiement doive être exécutée dans la même monnaie virtuelle.
+
+<sup>5</sup> En dérogation à l’art. 52, le système de négociation fondé sur la TRD n’a pas l’obligation d’instituer un comité d’utilisateurs.
+
+### Section 3 Règles particulières pour les petits systèmes de négociation fondés sur la TRD
+
+#### Art. 58k
+
+**Petits systèmes de négociation fondés sur la TRD**
+
+### (art. 73*f* LIMF)
+
+<sup>1</sup>
+
+Un système de négociation fondé sur la TRD est considéré comme petit s’il n’atteint pas les seuils suivants en ce qui concerne les valeurs mobilières fondées sur la TRD:
+
+- a. volume de négociation: 250 millions de francs par an;
+- b. volume de conservation: 100 millions de francs, et
+- c. volume de règlement: 250 millions de francs par an.
+
+<sup>2</sup> Le système de négociation fondé sur la TRD doit annoncer dans les dix jours à la FINMA l’atteinte ou le dépassement de l’un des seuils mentionnés à l’al. 1. Il doit lui présenter dans les 90 jours une demande d’autorisation modifiée conformément aux dispositions de la LIMF.
+
+<sup>3</sup> Un système de négociation fondé sur la TRD n’est plus considéré comme petit 90 jours après la date de l’atteinte ou du dépassement de l’un des seuils. Il peut cependant continuer à bénéficier des allégements prévus pour les petits systèmes de négociation fondés sur la TRD jusqu’à ce que la FINMA rende sa décision relative à la demande d’autorisation.
+
+<sup>4</sup> Si le but de protection de la LIMF l’exige, la FINMA peut interdire au système de négociation fondé sur la TRD d’accepter d’autres participants jusqu’à ce qu’elle ait rendu sa décision relative à la demande d’autorisation.
+
+#### Art. 58l
+
+**Allégements pour les petits systèmes de négociation fondés sur la TRD**
+
+### (art. 73*f* LIMF)
+
+<sup>1</sup>
+
+En dérogation à la LIMF et à la présente ordonnance, les allégements suivants s’appliquent aux petits systèmes de négociation fondés sur la TRD:
+
+- a. en dérogation à l’art. 8, al. 2, 2<sup>e</sup> phrase, LIMF, et à l’art. 8, al. 2, 2<sup>e</sup> phrase, de la présente ordonnance, il est suffisant que la majorité des membres des organes responsables de la haute direction, de la surveillance et du contrôle ne fassent pas partie de l’organe responsable de la direction;
+- b. lorsque la fourniture de services auxiliaires non soumis à autorisation ou à approbation en vertu des lois sur les marchés financiers augmente les risques d’un système de négociation fondé sur la TRD, la FINMA ne peut exiger que la mise en place de mesures organisationnelles (art. 10, al. 3, LIMF). Si le système de négociation fondé sur la TRD exploite également un système organisé de négociation (art. 43 LIMF), la FINMA peut aussi exiger des fonds propres supplémentaires et des liquidités suffisantes;
+- c. les exigences relatives à la continuité des activités peuvent aussi être remplies par la reprise de l’exploitation du système de négociation fondé sur la TRD par un autre titulaire d’autorisation en cas de perturbation (art. 13, al. 1, LIMF). La stratégie et l’analyse d’impact sur l’activité visées à l’art. 14 de la présente ordonnance peuvent prévoir que l’exploitation du système de négociation fondé sur la TRD est déléguée à un tiers;
+- d. les tâches de régulation déléguées au système de négociation fondé sur la TRD peuvent aussi être assumées par des organes non indépendants (art. 27, al. 2, LIMF);
+- e. une instance de recours indépendante n’est pas requise (art. 37 LIMF);
+- f. une révision interne n’est pas requise (art. 8, al. 1, let. c, de la présente ordonnance).
+
+<sup>2</sup>
+
+En outre, en dérogation à la LIMF, les allégements suivants s’appliquent aux petits systèmes de négociation qui fournissent des services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF:
+
+- a. les exigences en matière de fonds propres ne sont pas applicables (art. 66 LIMF);
+- b. les exigences en matière de liquidités ne sont pas applicables (art. 67 LIMF).
+
+#### Art. 58m
+
+**Obligation d’information des petits systèmes de négociation fondés sur la TRD**
+
+### (art. 73*f* LIMF)
+
+Avant l’établissement d’une relation d’affaires, les petits systèmes de négociation fondés sur la TRD informent leurs clients, en la forme écrite ou sous toute autre forme permettant d’en établir la preuve par un texte, des allégements spécifiques dont ils bénéficient.
+
+#### Art. 58n
+
+**Capital minimal des petits systèmes de négociation fondés sur la TRD**
+
+### (art. 73*f* LIMF)
+
+Pour les petits systèmes de négociation fondés sur la TRD, le capital minimal est de:
+
+- a. 500 000 francs s’ils ne fournissent pas de services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF;
+- b. 5 % des valeurs mobilières fondées sur la TRD qu’ils conservent, mais au moins 500 000 francs s’ils fournissent des services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF.
+
+#### Art. 58o
+
+**Interdiction de l’octroi de crédits**
+
+### (art. 73*f* LIMF)
+
+Les petits systèmes de négociation fondés sur la TRD ne sont pas autorisés à octroyer des crédits.
 
 ### Chapitre 5 Référentiel central
 
@@ -2255,13 +2509,17 @@ L’annonce de rachat selon l’art. 123, al. 1, let. g, et 2, let. c, doit comp
 
 ### (art. 142, al. 2, et 143, al. 2, LIMF)
 
-Les opérations sur valeurs mobilières visant à stabiliser le cours d’une valeur mobilière dont la négociation est autorisée auprès d’une bourse suisse et soumises aux art. 142, al. 1, let. a, et 143, al. 1, LIMF sont autorisées:
+Les opérations sur valeurs mobilières qui visent à stabiliser le cours d’une valeur mobilière dont la négociation est autorisée auprès d’une plate-forme de négociation suisse ou d’un système de négociation suisse fondé sur la TRD et qui sont soumises aux art. 142, al. 1, let. a, et 143, al. 1, LIMF sont autorisées:[^126-1]
 
 - a. si elles sont effectuées dans un délai de 30 jours après le placement public de la valeur mobilière à stabiliser;
 - b. si elles sont effectuées au maximum au prix d’émission ou, en cas de négociation assortie de droits de souscription ou de conversion, au maximum au prix du marché;
 - c. si la durée maximale pendant laquelle elles peuvent être effectuées ainsi que les noms des négociants responsables de leur exécution sont publiés avant le lancement de la négociation de la valeur mobilière à stabiliser;
-- d. si elles sont annoncées à la bourse au plus tard le cinquième jour de bourse suivant leur exécution et publiées par l’émetteur au plus tard le cinquième jour de bourse suivant l’échéance du délai indiqué à la let. a, et
-- e. si l’émetteur informe le public au plus tard le cinquième jour de bourse après l’exercice d’une option de surallocation du moment de l’exercice ainsi que du nombre et du type de valeurs mobilières concernées.
+- d.[^126-2] si elles sont annoncées à la plate-forme de négociation ou au système de négociation fondé sur la TRD au plus tard le cinquième jour de négociation suivant leur exécution et publiées par l’émetteur au plus tard le cinquième jour de négociation suivant l’échéance du délai indiqué à la let. a, et
+- e.[^126-3] si l’émetteur informe le public au plus tard le cinquième jour de négociation après l’exercice d’une option de surallocation du moment de l’exercice ainsi que du nombre et du type de valeurs mobilières concernées.
+
+[^126-1]: Nouvelle teneur selon le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^126-2]: Nouvelle teneur selon le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^126-3]: Nouvelle teneur selon le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 127
 
@@ -2383,7 +2641,7 @@ L’obligation d’échanger la marge initiale s’applique aux contreparties do
 - d<sup>bis</sup>.[^131-2] est supérieure à 50 milliards de francs pour les mois de mars, avril et mai 2020, à partir du 1<sup>er</sup> septembre 2020;
 - e.[^131-3] est supérieure à 8 milliards de francs pour les mois de mars, avril et mai 2021, à partir du 1<sup>er</sup> septembre 2021.[^131-4]
 
-<sup>5bis</sup> L’obligation d’échanger des garanties s’applique à partir du 4 janvier 2020 pour les opérations sur dérivés de gré à gré qui ne sont pas compensées par une contrepartie centrale et qui correspondent à des options sur actions, à des options sur indices ou à d’autres dérivés sur actions similaires, tels les dérivés sur paniers d’actions.[^131-5]
+<sup>5bis</sup> L’obligation d’échanger des garanties s’applique à partir du 1<sup>er</sup> janvier 2024 pour les opérations sur dérivés de gré à gré qui ne sont pas compensées par une contrepartie centrale et qui correspondent à des options sur actions, à des options sur indices ou à d’autres dérivés sur actions similaires, tels les dérivés sur paniers d’actions.[^131-5]
 
 <sup>6</sup> La FINMA peut prolonger les délais fixés dans le présent article pour tenir compte des normes internationales reconnues et du développement du droit étranger.
 
@@ -2391,7 +2649,7 @@ L’obligation d’échanger la marge initiale s’applique aux contreparties do
 [^131-2]: Introduite par l’annexe 1 ch. II 14 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^131-3]: Nouvelle teneur selon l’annexe 1 ch. II 14 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^131-4]: Nouvelle teneur selon le ch. I de l’O du 5 juil. 2017, en vigueur depuis le 1<sup>er</sup> août 2017 ([RO 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^131-5]: Introduit par le ch. I de l’O du 5 juil. 2017, en vigueur depuis le 1<sup>er</sup> août 2017 ([RO 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^131-5]: Introduit par le ch. I de l’O du 5 juil. 2017 ([RO 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)). Nouvelle teneur selon le ch. I 10 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 132
 

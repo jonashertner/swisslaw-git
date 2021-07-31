@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 2015 sulle infrastrutture del mercato finanzia
 short: OInFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: it
-version: 2020-10-01
+version: 2021-08-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20201001/it/xml/fedlex-data-admin-ch-eli-cc-2015-854-20201001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20201001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2015-854-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20201001/it"
 
 (Ordinanza sull’infrastruttura finanziaria, OInFi)
 
-del 25 novembre 2015 (Stato 1° ottobre 2020)
+del 25 novembre 2015 (Stato 1° agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -49,7 +49,7 @@ La presente ordinanza disciplina segnatamente:
 
 ### (art. 2 lett. b e c LInFi)
 
-<sup>1</sup> Sono considerati valori mobiliari standardizzati e idonei a essere negoziati su vasta scala le cartevalori, i diritti valori, i derivati e i titoli contabili offerti pubblicamente in uguale struttura e taglio o collocati presso più di 20 clienti, sempre che non siano stati creati specialmente per singole controparti.
+<sup>1</sup> I valori mobiliari sono considerati standardizzati e idonei a essere negoziati su vasta scala se sono offerti pubblicamente in uguale struttura e taglio o collocati presso più di 20 clienti, sempre che non siano stati creati specialmente per singole controparti.[^2-1]
 
 <sup>2</sup>
 
@@ -80,6 +80,8 @@ Sono considerate operazioni di cassa le operazioni regolate immediatamente o ent
 - a. le operazioni regolate entro un termine per il regolamento più lungo, usuale sul mercato per la coppia valutaria;
 - b. gli acquisti o le vendite di valori mobiliari indipendentemente dalla loro valuta, pagati entro il termine per il regolamento usuale sul mercato o prescritto dalla legge;
 - c. le operazioni prolungate in modo continuativo senza che sussista un obbligo giuridico oppure sia usuale un prolungamento tra le parti.
+
+[^2-1]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 3
 
@@ -309,6 +311,25 @@ Sono considerati servizi essenziali segnatamente anche:
   - 1\. la ricezione e l’esecuzione di ordini di pagamento dei partecipanti,
   - 2\. la tenuta di conti di compensazione.
 
+- f.[^12-1]
+
+  nel caso dei sistemi di negoziazione per valori mobiliari da tecnologia di registro distribuito (sistemi di negoziazione TRD) che non forniscono servizi secondo l’articolo 73*a* capoverso 1 lettera b o c LInFi:
+
+  - 1\. tutte le attività volte a garantire un commercio equo, efficiente e ordinato,
+  - 2\. la gestione di sistemi di «matching» e di distribuzione di dati di mercato;
+
+- g.[^12-2]
+
+  nel caso di sistemi di negoziazione TRD che forniscono servizi secondo l’articolo 73*a* capoverso 1 lettera b o c LInFi:
+
+  - 1\. i servizi di cui alla lettera f,
+  - 2\. la custodia accentrata di valori mobiliari TRD o la compensazione e il regolamento di operazioni su valori mobiliari TRD,
+  - 3\. la prima registrazione di valori mobiliari TRD su un conto titoli,
+  - 4\. la riconciliazione dei portafogli.
+
+[^12-1]: Introdotta dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^12-2]: Introdotta dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
 #### Art. 13
 
 **Capitale minimo**
@@ -319,13 +340,22 @@ Sono considerati servizi essenziali segnatamente anche:
 
 Il capitale minimo ammonta:
 
-- a. per le sedi di negoziazione a 1 milione di franchi, ma in casi fondati la FINMA può fissare un capitale minimo fino al 50 per cento superiore;
+- a.[^13-1] per le sedi di negoziazione a 1 milioni di franchi;
 - b. per le controparti centrali a 10 milioni di franchi;
 - c. per i depositari centrali a 5 milioni di franchi;
 - d. per i repertori di dati sulle negoziazioni a 500 000 franchi;
-- e. per i sistemi di pagamento a 1,5 milioni di franchi.
+- e. per i sistemi di pagamento a 1,5 milioni di franchi;
+- f.[^13-2] per i sistemi di negoziazione TRD che non forniscono servizi secondo l’articolo 73*a* capoverso 1 lettera b o c LInFi a 1 milione di franchi;
+- g.[^13-3] per i sistemi di negoziazione TRD che forniscono servizi secondo l’articolo 73*a* capoverso 1 lettera b o c LInFi a 5 milioni di franchi.
+
+<sup>1bis</sup> In casi fondati la FINMA può fissare un capitale minimo fino al 50 per cento superiore per le sedi di negoziazione e i sistemi di negoziazione TRD.[^13-4]
 
 <sup>2</sup> Se la fondazione avviene mediante conferimenti in natura, una società di audit abilitata verifica il valore degli attivi e la somma dei passivi. Ciò vale anche in caso di trasformazione di un’impresa esistente in un’infrastruttura del mercato finanziario.
+
+[^13-1]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-2]: Introdotta dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-3]: Introdotta dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-4]: Introdotto dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 14
 
@@ -510,15 +540,21 @@ Sono considerate non discrezionali le regole che non concedono margini di discre
 Un organismo di autodisciplina e sorveglianza adeguato comprende in particolare i seguenti organi:
 
 - a. un organo che svolge i compiti di autodisciplina;
-- b. un organo di sorveglianza del commercio;
+- b.[^24-1] un organo che svolge i compiti di sorveglianza;
 - c. un organo per l’ammissione di valori mobiliari al commercio;
 - d. un’autorità di ricorso.
 
-<sup>2</sup> Gli organi che svolgono i compiti di autodisciplina e sorveglianza devono essere indipendenti rispetto alla direzione della sede di negoziazione sotto il profilo del personale e dell’organizzazione. Tali organi devono disporre di sufficienti risorse organizzative, finanziarie e di personale.
+<sup>2</sup> L’organo che svolge i compiti di autodisciplina della sede di negoziazione deve essere indipendente rispetto alla direzione della sede di negoziazione e perlopiù indipendente rispetto ai partecipanti e agli emittenti sotto il profilo del personale e dell’organizzazione. Tale organo deve disporre di sufficienti risorse organizzative, finanziarie e di personale.[^24-2]
+
+<sup>2bis</sup> L’organo che svolge i compiti di sorveglianza della sede di negoziazione deve essere indipendente rispetto alla direzione della sede di negoziazione e rispetto ai partecipanti e agli emittenti sotto il profilo del personale e dell’organizzazione. Tale organo deve disporre di sufficienti risorse organizzative, finanziarie e di personale.[^24-3]
 
 <sup>3</sup> Nell’organo competente per l’ammissione di valori mobiliari al commercio devono essere rappresentati equamente gli emittenti e gli investitori.
 
 <sup>4</sup> La sede di negoziazione stabilisce nei suoi regolamenti i compiti e le competenze degli organi nonché la rappresentanza degli emittenti e degli investitori in seno all’organo competente per l’ammissione di valori mobiliari al commercio.
+
+[^24-1]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^24-2]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^24-3]: Introdotto dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 25
 
@@ -1049,6 +1085,224 @@ Per liquidità in una valuta secondo l’articolo 67 capoverso 1 LInFi si intend
 <sup>2</sup> Il depositario centrale verifica regolarmente il rispetto dei requisiti di cui all’articolo 67 capoverso 1 LInFi sulla base di diversi scenari di stress. A tal fine, applica alla liquidità scarti di garanzia adeguati anche in condizioni di mercato estreme ma plausibili. Esso diversifica i sui fornitori di liquidità.
 
 <sup>3</sup> La strategia d’investimento del depositario centrale deve essere in linea con la sua strategia di gestione dei rischi. Il depositario centrale è tenuto a evitare i rischi di concentrazione.
+
+### Capitolo 4*a*:**** Sistemi di negoziazione TRD
+
+[^tit2-chap4a-1]
+
+[^tit2-chap4a-1]: Introdotto dal n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### Sezione 1: Definizioni
+
+#### Art. 58a
+
+**Negoziazione multilaterale e regole non discrezionali**
+
+### (art. 73*a* cpv. 1 LInFi)
+
+Le definizioni concernenti la negoziazione multilaterale secondo l’articolo 22 e le regole non discrezionali secondo l’articolo 23 si applicano per analogia ai sistemi di negoziazione TRD.
+
+#### Art. 58b
+
+**Carattere professionale**
+
+### (art. 73*a* cpv. 2 LInFi)
+
+<sup>1</sup>
+
+Un sistema di negoziazione TRD esercita la sua attività a titolo professionale se:
+
+- a. durante un anno civile realizza un ricavo lordo superiore a 50 000 franchi;
+- b. durante un anno civile mantiene relazioni d’affari con oltre 20 partecipanti secondo l’articolo 73*c* capoverso 1 lettera e LInFi (partecipanti privati) o con almeno un partecipante secondo l’articolo 73*c* capoverso 1 lettere a–d LInFi; o
+- c. ha la facoltà illimitata di disporre di valori mobiliari TRD di terzi che in un qualsiasi momento superano i 5 milioni di franchi.
+
+<sup>2</sup> Se viene superato un valore soglia di cui al capoverso 1, il sistema di negoziazione TRD deve notificarlo alla FINMA entro dieci giorni. Esso deve presentare entro 60 giorni alla FINMA una richiesta di autorizzazione secondo le prescrizioni della LInFi.
+
+<sup>3</sup> Se la finalità di tutela della LInFi lo impone, la FINMA può vietare al richiedente di esercitare le attività riservate a un sistema di negoziazione TRD finché non si sarà pronunciata sulla richiesta.
+
+### Sezione 2: Requisiti
+
+#### Art. 58c
+
+**Validità di determinati requisiti stabiliti per le sedi di negoziazione**
+
+### (art. 73*b* LInFi)
+
+<sup>1</sup> Ai sistemi di negoziazione TRD si applicano per analogia gli articoli 24–32 e 35, salvo che la presente sezione disponga altrimenti.
+
+<sup>2</sup> In luogo della possibilità prevista all’articolo 30 capoverso 2 lettera f di correggere, modificare o annullare, in casi eccezionali, qualsiasi operazione, un sistema di negoziazione TRD deve disporre di un meccanismo tale da produrre effetti economicamente comparabili.
+
+#### Art. 58d
+
+**Obbligo di registrazione e di comunicazione**
+
+### (art. 73*c* cpv. 3 LInFi)
+
+<sup>1</sup> I partecipanti privati sono esonerati dall’obbligo di registrazione secondo l’articolo 38 LInFi e dall’obbligo di comunicazione secondo l’articolo 39 LInFi.
+
+<sup>2</sup> Agli altri partecipanti si applicano per analogia gli articoli 36 e 37 della presente ordinanza.
+
+#### Art. 58e
+
+**Ammissione ed esclusione di partecipanti**
+
+### (art. 73*c* cpv. 4 e 5 LInFi)
+
+<sup>1</sup> Il sistema di negoziazione TRD disciplina, nel regolamento di cui all’articolo 73*c* capoverso 5 LInFi, se e quali partecipanti privati ammettere.
+
+<sup>2</sup> L’accesso non discriminatorio di cui all’articolo 18 LInFi non deve essere necessariamente garantito ai partecipanti privati.
+
+#### Art. 58f
+
+**Ammissione di valori mobiliari TRD e di altri valori patrimoniali**
+
+### (art. 73*d* LInFi)
+
+<sup>1</sup> Il sistema di negoziazione TRD disciplina, nel regolamento di cui all’articolo 73*d* LInFi, quali valori mobiliari TRD e altri valori patrimoniali ammettere ai suoi servizi. Nel regolamento, può definire singolarmente i valori mobiliari TRD e i valori mobiliari ammessi o descriverli in base alla loro tipologia e funzione.
+
+<sup>2</sup> Se il sistema di negoziazione TRD ammette i derivati strutturati come valori mobiliari TRD, possono essere ammessi al commercio esclusivamente prodotti senza componenti di leva o di valore temporale.
+
+<sup>3</sup> Non devono essere ammessi i valori mobiliari TRD e gli altri valori patrimoniali che potrebbero ostacolare considerevolmente l’attuazione dei requisiti della legge del 10 ottobre 1997[^58f-1] sul riciclaggio di denaro o compromettere la stabilità e l’integrità del sistema finanziario. La FINMA può definire nel dettaglio questi valori mobiliari TRD e valori patrimoniali.
+
+<sup>4</sup> Nel regolamento, il sistema di negoziazione TRD prevede procedure per la revoca dell’ammissione di valori mobiliari TRD e altri valori patrimoniali.
+
+<sup>5</sup> I requisiti di cui all’articolo 34 si applicano per analogia.
+
+[^58f-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892).
+
+#### Art. 58g
+
+**Requisiti minimi relativi all’ammissione di valori mobiliari TRD e verifica regolare**
+
+### (art. 73*d* cpv. 3 LInFi)
+
+<sup>1</sup> I valori mobiliari TRD possono essere ammessi dal sistema di negoziazione TRD se il registro elettronico distribuito soddisfa almeno i requisiti di cui all’articolo 973*d* capoverso 2 CO[^58g-1].
+
+<sup>2</sup> Se il registro elettronico distribuito non è gestito dal sistema di negoziazione TRD in questione, quest’ultimo verifica, prima dell’ammissione dei corrispondenti valori mobiliari TRD e in seguito a intervalli regolari, ma almeno una volta l’anno, se il registro è conforme ai requisiti di cui al capoverso 1.
+
+<sup>3</sup> Il sistema di negoziazione TRD informa i propri partecipanti sulle verifiche eseguite e sul loro esito.
+
+[^58g-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 58h
+
+**Comunicazioni relative a transazioni**
+
+### (art. 73*d* LinFi)
+
+<sup>1</sup> Il sistema di negoziazione TRD sorveglia tutte le transazioni effettuate nei propri sistemi con valori mobiliari TRD ammessi. Esso mette questi dati gratuitamente a disposizione di tutti i sistemi di negoziazione TRD autorizzati.
+
+<sup>2</sup> Se i valori mobiliari TRD ammessi al sistema di negoziazione TRD si riferiscono a valori mobiliari che sono ammessi al commercio anche presso una sede di negoziazione svizzera, il sistema di negoziazione TRD comunica gratuitamente tutte le transazioni effettuate con questi valori mobiliari TRD alla sede di negoziazione corrispondente.
+
+<sup>3</sup> Le sedi di negoziazione e i sistemi di negoziazione TRD utilizzano questi dati esclusivamente per l’adempimento dei loro compiti nell’ambito della sorveglianza del commercio.
+
+<sup>4</sup> La FINMA può disciplinare i dettagli delle comunicazioni.
+
+#### Art. 58i
+
+**Obblighi di informazione**
+
+### (art. 73*e* cpv. 1 LInFi)
+
+<sup>1</sup> Per ciascun valore mobiliare TRD ammesso al sistema di negoziazione TRD, i sistemi di negoziazione TRD con partecipanti privati mettono, se del caso, il relativo prospetto o il foglio informativo di base a disposizione di questi partecipanti.
+
+<sup>2</sup>
+
+Essi informano tali partecipanti sui seguenti aspetti del registro elettronico distribuito dei valori mobiliari TRD in questione:
+
+- a. la sua governance; e
+- b. i suoi rischi tecnici, segnatamente i rischi di perdite.
+
+<sup>3</sup> I sistemi di negoziazione TRD pubblicano inoltre senza indugio le informazioni relative alle transazioni effettuate all’interno del sistema di negoziazione TRD con altri valori patrimoniali, in particolare il prezzo, il volume e il momento delle transazioni.
+
+#### Art. 58j
+
+**Ulteriori requisiti relativi ai servizi nell’ambito della custodia accentrata, della compensazione o del regolamento**
+
+### (art. 73*e* cpv. 2 LInFi)
+
+<sup>1</sup> Per i sistemi di negoziazione TRD che forniscono servizi secondo l’articolo 73*a* capoverso 1 lettera b o c LInFi si applicano per analogia i requisiti per depositari centrali secondo gli articoli 62–73 LInFi e gli articoli 52–58 della presente ordinanza, salvo che la presente sezione disponga altrimenti.
+
+<sup>2</sup> La segregazione di cui all’articolo 69 LInFi può effettuarsi nel registro elettronico distribuito sul quale si basano i valori mobiliari DTL o nei sistemi del sistema di negoziazione TRD.
+
+<sup>3</sup> Un sistema di negoziazione TRD può autorizzare il regolamento di pagamenti anche in modo diverso da quanto disciplinato all’articolo 65 capoverso 1 LInFi se a tal fine ricorre a un istituto assoggettato alla vigilanza della FINMA.
+
+<sup>4</sup> Nel caso di un sistema di negoziazione TRD, per liquidità in una valuta secondo l’articolo 67 capoverso 1 LInFi si intendono anche beni crittografici, se l’obbligazione di pagamento deve essere adempiuta nella stessa valuta virtuale.
+
+<sup>5</sup> In deroga all’articolo 52, il sistema di negoziazione TRD non deve istituire un comitato degli utenti.
+
+### Sezione 3: Disposizioni particolari per piccoli sistemi di negoziazione TRD
+
+#### Art. 58k
+
+**Piccoli sistemi di negoziazione TRD**
+
+### (art. 73*f* LInFi)
+
+<sup>1</sup>
+
+Un sistema di negoziazione TRD è considerato piccolo se in riferimento ai valori patrimoniali TRD è inferiore ai seguenti valori soglia:
+
+- a. volume di transazioni: 250 milioni di franchi all’anno;
+- b. volume di depositi da custodire: 100 milioni di franchi; e
+- c. volume di regolamento: 250 milioni di franchi all’anno.
+
+<sup>2</sup> Se un valore soglia viene raggiunto o superato, il sistema di negoziazione TRD deve notificarlo alla FINMA entro dieci giorni. Esso deve presentarle entro 90 giorni una richiesta di autorizzazione modificata secondo le prescrizioni della LInFi.
+
+<sup>3</sup> Il sistema di negoziazione TRD non è più considerato piccolo 90 giorni dopo il raggiungimento o superamento di un valore soglia. Esso può tuttavia continuare a beneficiare delle agevolazioni per piccoli sistemi di negoziazione TRD finché la FINMA non avrà deciso in merito alla richiesta di autorizzazione.
+
+<sup>4</sup> Se la finalità di tutela della LInFi lo impone, la FINMA può vietare al sistema di negoziazione TRD di ammettere ulteriori partecipanti finché non si sarà pronunciata sulla richiesta.
+
+#### Art. 58l
+
+**Agevolazioni per piccoli sistemi di negoziazione TRD**
+
+### (art. 73*f* LInFi)
+
+<sup>1</sup>
+
+In deroga alla LInFi e alla presente ordinanza, per i piccoli sistemi di negoziazione TRD si applicano le seguenti agevolazioni:
+
+- a. in deroga all’articolo 8 capoverso 2 secondo periodo LInFi e all’articolo 8 capoverso 2 secondo periodo della presente ordinanza, è sufficiente che la maggioranza dei membri degli organi per l’alta direzione, la vigilanza e il controllo non appartenga all’organo per la direzione;
+- b. se la fornitura di un servizio accessorio non soggetto ad autorizzazione o approvazione secondo la legislazione sui mercati finanziari aumenta i rischi di un sistema di negoziazione TRD, la FINMA può esigere che tale sistema adotti esclusivamente misure organizzative (art. 10 cpv. 3 LInFi). Se il sistema di negoziazione TRD gestisce anche un sistema organizzato di negoziazione (art. 43 LInFi), la FINMA può esigere anche fondi propri supplementari e sufficiente liquidità;
+- c i requisiti relativi alla continuità operativa possono essere soddisfatti anche attraverso l’assunzione della gestione del sistema di negoziazione TRD da parte di un altro titolare dell’autorizzazione al verificarsi di incidenti (art. 13 cpv. 1 LInFi). La strategia e l’analisi di impatto sull’attività di cui all’articolo 14 della presente ordinanza possono prevedere l’attribuzione della gestione del sistema di negoziazione TRD a un terzo;
+- d. i compiti di autodisciplina attribuiti al sistema di negoziazione TRD possono essere svolti anche da un organo non indipendente (art. 27 cpv. 2 LInFi);
+- e. non occorre istituire un’autorità indipendente di ricorso (art. 37 LInFi);
+- f. non occorre istituire un organo di audit interno (art. 8 cpv. 1 lett. c della presente ordinanza).
+
+<sup>2</sup>
+
+Per i piccoli sistemi di negoziazione TRD che forniscono servizi secondo l’articolo 73*a* capoverso 1 lettera b o c LInFi si applicano inoltre, in deroga alla LInFi, le seguenti agevolazioni:
+
+- a. i requisiti relativi ai fondi propri non sono applicabili (art. 66 LInFi);
+- b. i requisiti relativi alla liquidità non sono applicabili (art. 67 LInFi).
+
+#### Art. 58m
+
+**Obbligo d’informazione di piccoli sistemi di negoziazione TRD**
+
+### (art. 73*f* LInFi)
+
+Prima dell’avvio di una relazione d’affari, i piccoli sistemi di negoziazione TRD informano i propri clienti, per scritto o in un’altra forma che ne consenta la prova per testo, in merito alle agevolazioni specifiche di cui beneficia il piccolo sistema di negoziazione TRD.
+
+#### Art. 58n
+
+**Capitale minimo di piccoli sistemi di negoziazione TRD**
+
+### (art. 73*f* LInFi)
+
+Per i piccoli sistemi di negoziazione TRD il capitale minimo ammonta:
+
+- a. a 500 000 franchi, se tali sistemi non forniscono servizi secondo l’articolo 73*a* capoverso 1 lettera b o c;
+- b. al 5 per cento dei valori mobiliari TRD custoditi, ma almeno a 500 000 franchi, se tali sistemi forniscono servizi secondo l’articolo 73*a* capoverso 1 lettera b o c.
+
+#### Art. 58o
+
+**Divieto della concessione di crediti**
+
+### (art. 73*f* LInFi)
+
+I piccoli sistemi di negoziazione TRD non possono concedere crediti.
 
 ### Capitolo 5: Repertorio di dati sulle negoziazioni
 
@@ -2255,13 +2509,17 @@ L’inserzione di riacquisto di cui all’articolo 123 capoversi 1 lettera g e 2
 
 ### (art. 142 cpv. 2 e art. 143 cpv. 2 LInFi)
 
-Le operazioni in valori mobiliari volte a stabilizzare il corso di un valore mobiliare ammesso al commercio in una borsa in Svizzera e che rientrano nel campo d’applicazione degli articoli 142 capoverso 1 lettera a e 143 capoverso 1 LInFi sono ammesse se:
+Le operazioni in valori mobiliari volte a stabilizzare il corso di un valore mobiliare ammesso al commercio presso una sede di negoziazione o un sistema di negoziazione TRD in Svizzera e che rientrano nel campo d’applicazione degli articoli 142 capoverso 1 lettera a e 143 capoverso 1 LInFi sono ammesse se:[^126-1]
 
 - a. sono effettuate entro 30 giorni dal collocamento pubblico dei valori mobiliari da stabilizzare;
 - b. sono effettuate al massimo al prezzo di emissione oppure, in caso di commercio con diritti preferenziali o di conversione, al massimo al prezzo di mercato;
 - c. il periodo massimo durante il quale le operazioni in valori mobiliari possono essere effettuate e il nome del commerciante di valori immobiliari competente per la loro esecuzione sono pubblicati prima dell’inizio del commercio dei valori mobiliari da stabilizzare;
-- d. sono annunciate alla borsa al più tardi il quinto giorno di borsa successivo all’esecuzione e pubblicate dall’emittente al più tardi il quinto giorno di borsa successivo alla scadenza del termine di cui alla lettera a; e
-- e. l’emittente informa il pubblico al più tardi il quinto giorno di borsa successivo all’esercizio di un’opzione di sovrallocazione sul momento dell’esercizio nonché sul numero e il tipo dei valori mobiliari interessati.
+- d.[^126-2] sono annunciate alla sede di negoziazione o al sistema di negoziazione TRD al più tardi il quinto giorno di negoziazione successivo all’esecuzione e pubblicate dall’emittente al più tardi il quinto giorno di negoziazione successivo alla scadenza del termine di cui alla lettera a; e
+- e.[^126-3] l’emittente informa il pubblico al più tardi il quinto giorno di negoziazione successivo all’esercizio di un’opzione di sovrallocazione sul momento dell’esercizio nonché sul numero e il tipo dei valori mobiliari interessati.
+
+[^126-1]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^126-2]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^126-3]: Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 127
 
@@ -2383,7 +2641,7 @@ L’obbligo di scambiare un margine iniziale si applica alle controparti la cui 
 - d<sup>bis</sup>.[^131-2] in ciascuno dei mesi di marzo, aprile e maggio 2020 supera di volta in volta i 50 miliardi di franchi, dal 1° settembre 2020;
 - e.[^131-3] in ciascuno dei mesi di marzo, aprile e maggio 2021 supera di volta in volta gli 8 miliardi di franchi, dal 1° settembre 2021.[^131-4]
 
-<sup>5bis</sup> Per le operazioni in derivati OTC non compensate centralmente che sono opzioni su singole azioni, opzioni su indici o altri derivati su azioni analoghi, come i derivati su panieri di azioni, l’obbligo di scambiare garanzie si applica dal 4 gennaio 2020.[^131-5]
+<sup>5bis</sup> Per le operazioni in derivati OTC non compensate centralmente che sono opzioni su singole azioni, opzioni su indici o altri derivati su azioni analoghi, come i derivati su panieri di azioni, l’obbligo di scambiare garanzie si applica dal 1° gennaio 2024.[^131-5]
 
 <sup>6</sup> La FINMA può prorogare i termini di cui al presente articolo per tenere conto degli standard internazionali riconosciuti e dell’evoluzione del diritto estero.
 
@@ -2391,7 +2649,7 @@ L’obbligo di scambiare un margine iniziale si applica alle controparti la cui 
 [^131-2]: Introdotta dall’all. 1 n. II 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^131-3]: Nuovo testo giusta l’all. 1 n. II 14 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^131-4]: Nuovo testo giusta il n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^131-5]: Introdotto dal n. I dell’O del 5 lug. 2017, in vigore dal 1° ago. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^131-5]: Introdotto dal n. I dell’O del 5 lug. 2017 ([RU 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)). Nuovo testo giusta il n. I 10 dell’O del 18 giu. 2021 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 132
 

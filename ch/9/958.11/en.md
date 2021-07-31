@@ -4,11 +4,11 @@ title: "Ordinance of 25 November 2015 on Financial Market Infrastructures and Ma
 short: FinMIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: en
-version: 2020-10-01
+version: 2021-08-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20201001/en/xml/fedlex-data-admin-ch-eli-cc-2015-854-20201001-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20201001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2015-854-20210801-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20210801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,13 +17,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20201001/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(Financial Market Infrastructure Ordinance, FMIO)
+(Financial Market Infrastructure Ordinance, FinMIO)
 
-of 25 November 2015 (Status as of 1 October 2020)
+of 25 November 2015 (Status as of 1 August 2021)
 
 The Swiss Federal Council
 
-based on the Financial Market Infrastructure Act of 19 June 2015[^ingress-1] (FMIA),
+based on the Financial Market Infrastructure Act of 19 June 2015[^ingress-1] (FinMIA),
 
 ordains:
 
@@ -35,7 +35,7 @@ ordains:
 
 **Subject matter**
 
-### (Art. 1 and 157 FMIA)
+### (Art. 1 and 157 FinMIA)
 
 This Ordinance governs specifically:
 
@@ -49,9 +49,9 @@ This Ordinance governs specifically:
 
 **Definitions**
 
-### (Art. 2 lit. b and c FMIA)
+### (Art. 2 lit. b and c FinMIA)
 
-<sup>1</sup> Securities suitable for mass standardised trading encompass certificated and uncertificated securities, derivatives, and intermediated securities which are publicly offered for sale in the same structure and denomination or are placed with more than 20 clients, insofar as they have not been created especially for individual counterparties.
+<sup>1</sup> Securities are deemed to be standardised and suitable for mass trading if they are publicly offered for sale in the same structure and denomination or are placed with more than 20 clients, insofar as they have not been created especially for individual counterparties.[^2-1]
 
 <sup>2</sup>
 
@@ -83,11 +83,13 @@ Spot transactions are deemed to be transactions that are settled either immediat
 - b. purchases or sales of securities, irrespective of their currency, which are paid for by the deadline prescribed by the regulator or by a deadline that is customary in the market;
 - c. transactions that are continuously extended without there being a legal obligation or without such an extension between the parties being usual.
 
+[^2-1]: Amended by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
 #### Art. 3
 
 **Significant group companies**
 
-### (Art. 3 para. 2 FMIA)
+### (Art. 3 para. 2 FinMIA)
 
 The functions of a group company are significant with respect to the activities which require authorisation if they are necessary for the continuation of important business processes, in particular in the areas of liquidity management, treasury, risk management, master data administration and accounting, personnel, information technology, trading and settlement, and legal and compliance.
 
@@ -101,7 +103,7 @@ The functions of a group company are significant with respect to the activities 
 
 **Authorisation application**
 
-### (Art. 4 and 5 FMIA)
+### (Art. 4 and 5 FinMIA)
 
 <sup>1</sup>
 
@@ -122,7 +124,7 @@ The financial market infrastructure shall submit an authorisation application to
 
 **Changes in facts**
 
-### (Art. 7 FMIA)
+### (Art. 7 FinMIA)
 
 <sup>1</sup>
 
@@ -138,7 +140,7 @@ The financial market infrastructure shall notify FINMA in particular of:
 
 **Business area**
 
-### (Art. 8 para. 2 FMIA)
+### (Art. 8 para. 2 FinMIA)
 
 <sup>1</sup> The financial market infrastructure must describe its area of business in factually and geographically precise terms in the articles of association, partnership agreements or regulations.
 
@@ -148,7 +150,7 @@ The financial market infrastructure shall notify FINMA in particular of:
 
 **Place of management**
 
-### (Art. 8 paras. 1 and 2 FMIA)
+### (Art. 8 paras. 1 and 2 FinMIA)
 
 <sup>1</sup> The financial market infrastructure must effectively be managed from Switzerland. An exception is made here for general directives and decisions within the context of group supervision if the financial market infrastructure forms part of a financial group that is subject to appropriate consolidated supervision by a foreign financial market supervisory authority.
 
@@ -158,7 +160,7 @@ The financial market infrastructure shall notify FINMA in particular of:
 
 **Corporate governance**
 
-### (Art. 8 para. 2 FMIA)
+### (Art. 8 para. 2 FinMIA)
 
 <sup>1</sup>
 
@@ -180,7 +182,7 @@ The financial market infrastructure must have an organisational structure and an
 
 **Risk management**
 
-### (Art. 8 para. 3 FMIA)
+### (Art. 8 para. 3 FinMIA)
 
 <sup>1</sup>
 
@@ -208,11 +210,11 @@ With regard to risk management, the financial market infrastructure must have a 
 
 **Guarantee of irreproachable business conduct**
 
-### (Art. 9 paras. 2 and 3 FMIA)
+### (Art. 9 paras. 2 and 3 FinMIA)
 
 <sup>1</sup>
 
-The authorisation application for a new financial market infrastructure must contain the following information and documentation in particular on the members of the board and executive management in accordance with Article 9 paragraph 2 FMIA and on the owners of a qualified participation in accordance with Article 9 paragraph 3 FMIA:
+The authorisation application for a new financial market infrastructure must contain the following information and documentation in particular on the members of the board and executive management in accordance with Article 9 paragraph 2 FinMIA and on the owners of a qualified participation in accordance with Article 9 paragraph 3 FinMIA:
 
 - a.
 
@@ -220,6 +222,7 @@ The authorisation application for a new financial market infrastructure must con
 
   - 1\. details on nationality, domicile, qualified participations in other companies and any pending court or administrative proceedings,
   - 2\. a curriculum vitae signed by the relevant person,
+  - [tab]
   - 3\. references,
   - 4\. an extract from the register of criminal convictions;
 
@@ -240,9 +243,9 @@ The authorisation application for a new financial market infrastructure must con
 
 **Outsourcing**
 
-### (Art. 11 FMIA)
+### (Art. 11 FinMIA)
 
-<sup>1</sup> An outsourcing situation in accordance with Article 11 paragraph 1 FMIA is deemed to exist if the financial market infrastructure has commissioned a service provider to independently and permanently provide an essential service for the financial market infrastructure in accordance with Article 12.
+<sup>1</sup> An outsourcing situation in accordance with Article 11 paragraph 1 FinMIA is deemed to exist if the financial market infrastructure has commissioned a service provider to independently and permanently provide an essential service for the financial market infrastructure in accordance with Article 12.
 
 <sup>2</sup>
 
@@ -266,7 +269,7 @@ The following aspects in particular are to be addressed in the agreement with th
 
 **Essential services**
 
-### (Art. 11 para. 1 FMIA)
+### (Art. 11 para. 1 FinMIA)
 
 <sup>1</sup> Essential services are deemed to be services that are necessary for the continuation of important business processes, in particular in the areas of liquidity management, treasury, risk management, master data administration and accounting, personnel, information technology, and legal and compliance.
 
@@ -309,35 +312,63 @@ The following services are also deemed to be essential:
   in the case of payment systems:
 
   - 1\. the acceptance and execution of participants' payment orders,
-  - 2\. the management of clearing accounts.
+  - 2\. the management of clearing accounts;
+
+- f.[^12-1]
+
+  in the case of trading facilities for distributed ledger technology securities (DLT trading facilities) that do not provide services in accordance with Article 73*a* paragraph 1 letter b or c of the FinMIA:
+
+  - 1\. all activities conducted with the aim of ensuring fair, efficient and orderly trading,
+  - 2\. the operating of matching and market data distribution systems;
+
+- g.[^12-2]
+
+  in the case of DLT trading facilities that provide services in accordance with Article 73*a* paragraph 1 letter b or c of the FinMIA:
+
+  - 1\. the services under letter f,
+  - 2\. the central custody of DLT securities or the clearing and settlement of transactions in DLT securities,
+  - 3\. the initial recording of DLT securities in a securities account,
+  - 4\. the reconciliation of holdings.
+
+[^12-1]: Inserted by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^12-2]: Inserted by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 13
 
 **Minimum capital**
 
-### (Art. 12 FMIA)
+### (Art. 12 FinMIA)
 
 <sup>1</sup>
 
 The minimum capital shall amount to:
 
-- a. for trading venues: CHF 1 million, whereby in well-founded cases FINMA may stipulate a minimum amount up to 50% higher;
+- a.[^13-1] for trading venues: CHF 1 million;
 - b. for central counterparties: CHF 10 million;
 - c. for central securities depositories: CHF 5 million;
 - d. for trade repositories: CHF 500,000;
-- e. for payment systems: CHF 1.5 million.
+- e. for payment systems: CHF 1.5 million;
+- f.[^13-2] for DLT trading facilities that do not provide services in accordance with Article 73*a* paragraph 1 letter b or c of the FinMIA: CHF 1 million;
+- g.[^13-3] for DLT trading facilities that provide services in accordance with Article 73*a* paragraph 1 letter b or c of the FinMIA: CHF 5 million.
+
+<sup>1bis</sup> For trading venues and DLT trading facilities, where justified, FINMA can stipulate a minimum amount that is up to 50% higher.[^13-4]
 
 <sup>2</sup> In the event of non-cash capital contributions, the value of the assets brought in and the amount of the liabilities shall be reviewed by a licensed audit firm. This also applies when an existing company is transformed into a financial market infrastructure.
+
+[^13-1]: Amended by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-2]: Inserted by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-3]: Inserted by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-4]: Inserted by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 14
 
 **Business continuity**
 
-### (Art. 13 FMIA)
+### (Art. 13 FinMIA)
 
 <sup>1</sup>
 
-The strategy detailed in Article 13 paragraph 1 FMIA must be enshrined in the company organisation and should regulate in particular:
+The strategy detailed in Article 13 paragraph 1 FinMIA must be enshrined in the company organisation and should regulate in particular:
 
 - a. the tasks, responsibilities and powers;
 - b. the frequency of the review of the business impact analysis in accordance with paragraph 2;
@@ -347,13 +378,13 @@ The strategy detailed in Article 13 paragraph 1 FMIA must be enshrined in the co
 
 <sup>3</sup> It shall set out the options for the recovery of the business processes that are necessary for operations.
 
-<sup>4</sup> The strategy detailed in Article 13 paragraph 1 FMIA must be approved by the body responsible for governance, supervision and control.
+<sup>4</sup> The strategy detailed in Article 13 paragraph 1 FinMIA must be approved by the body responsible for governance, supervision and control.
 
 #### Art. 15
 
 **IT systems**
 
-### (Art. 14 FMIA)
+### (Art. 14 FinMIA)
 
 <sup>1</sup>
 
@@ -369,7 +400,7 @@ The IT systems must be set up in such a way that:
 
 **International business**
 
-### (Art. 17 FMIA)
+### (Art. 17 FinMIA)
 
 <sup>1</sup>
 
@@ -394,7 +425,7 @@ The financial market infrastructure must also notify FINMA of:
 
 **Fair and open access**
 
-### (Art. 18 FMIA)
+### (Art. 18 FinMIA)
 
 <sup>1</sup> Fair access is deemed not to be guaranteed in particular if excessively high or objectively unjustified requirements are made, or if excessive prices are demanded for use of the services offered. Fee structures should not be conducive to disorderly market conditions.
 
@@ -406,7 +437,7 @@ The financial market infrastructure must also notify FINMA of:
 
 **Prevention of conflicts of interest**
 
-### (Art. 20 FMIA)
+### (Art. 20 FinMIA)
 
 If the disadvantaging of participants through conflicts of interest cannot be excluded with organisational measures, this should be disclosed to participants.
 
@@ -414,9 +445,9 @@ If the disadvantaging of participants through conflicts of interest cannot be ex
 
 **Publication of essential information**
 
-### (Art. 21 FMIA)
+### (Art. 21 FinMIA)
 
-The financial market infrastructure shall regularly publish in addition to the information required under Article 21 FMIA:
+The financial market infrastructure shall regularly publish in addition to the information required under Article 21 FinMIA:
 
 - a. the rules and procedures that apply to the operation of the financial market infrastructure, including the rights and duties of the financial market infrastructure and participants;
 - b. the fees and prices that apply to the services provided by the financial market infrastructure, including the conditions for the granting of discounts;
@@ -434,7 +465,7 @@ The financial market infrastructure shall regularly publish in addition to the i
 
 **Recovery and resolution plan**
 
-### (Art. 24 FMIA)
+### (Art. 24 FinMIA)
 
 <sup>1</sup> The recovery plan and the resolution plan must take into account the regulations of foreign supervisory authorities and central banks for stabilisation, restructuring and winding-up.
 
@@ -450,7 +481,7 @@ The financial market infrastructure shall regularly publish in addition to the i
 
 **Measures to improve resolvability**
 
-### (Art. 24 para. 1 FMIA)
+### (Art. 24 para. 1 FinMIA)
 
 The measures to improve the financial market structure's resolvability can encompass in particular:
 
@@ -487,7 +518,7 @@ The measures to improve the financial market structure's resolvability can encom
 
 **Multilateral trading**
 
-### (Art. 26 and 42 FMIA)
+### (Art. 26 and 42 FinMIA)
 
 Trading is deemed to be multilateral if it unites the interests of multiple participants in the acquisition and sale of securities or other financial instruments within the trading facility with a view to concluding a contract.
 
@@ -495,7 +526,7 @@ Trading is deemed to be multilateral if it unites the interests of multiple part
 
 **Non-discretionary rules**
 
-### (Art. 26 and 42 FMIA)
+### (Art. 26 and 42 FinMIA)
 
 Rules are deemed to be non-discretionary if they grant the trading venue or the operator of an organised trading facility no discretion in the amalgamation of offers.
 
@@ -505,28 +536,34 @@ Rules are deemed to be non-discretionary if they grant the trading venue or the 
 
 **Regulatory and supervisory organisation**
 
-### (Art. 27 FMIA)
+### (Art. 27 FinMIA)
 
 <sup>1</sup>
 
 An appropriate regulatory and supervisory organisation shall encompass the following bodies in particular:
 
 - a. a body that fulfils regulatory tasks;
-- b. a trading supervisory body;
+- b.[^24-1] a body that fulfils supervisory tasks;
 - c. a body responsible for the admission of securities to trading;
 - d. an appeal body.
 
-<sup>2</sup> The bodies that fulfil the regulatory and supervisory tasks of the trading venue must be independent of the business management of the trading venue, both organisationally and with respect to personnel. They must have sufficient organisational, personnel and financial resources.
+<sup>2</sup> The body that fulfils the regulatory tasks of the trading venue must be independent of the business management of the trading venue and largely independent of the participants and issuers, both organisationally and with respect to personnel. It must have sufficient organisational, personnel and financial resources.[^24-2]
+
+<sup>2bis</sup> The body that fulfils the supervisory tasks of the trading venue must be independent of the business management of the trading venue and independent of the participants and issuers, both organisationally and with respect to personnel. It must have sufficient organisational, personnel and financial resources.[^24-3]
 
 <sup>3</sup> Both issuers and investors must be appropriately represented in the body responsible for the admission of securities to trading.
 
 <sup>4</sup> The trading venue shall set out in its regulations the tasks and powers of the various bodies, as well as the representation of issuers and investors in the body that is responsible for the admission of securities to trading.
 
+[^24-1]: Amended by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^24-2]: Amended by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^24-3]: Inserted by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
 #### Art. 25
 
 **Approval of regulations**
 
-### (Art. 27 para. 4 FMIA)
+### (Art. 27 para. 4 FinMIA)
 
 <sup>1</sup>
 
@@ -541,7 +578,7 @@ When approving regulations, FINMA shall review in particular whether these:
 
 **Organisation of trading**
 
-### (Art. 28 FMIA)
+### (Art. 28 FinMIA)
 
 The trading venue shall establish procedures in order that the relevant data on securities transactions can be confirmed on the same day that transactions are executed.
 
@@ -549,7 +586,7 @@ The trading venue shall establish procedures in order that the relevant data on 
 
 **Pre-trade transparency**
 
-### (Art. 29 paras. 1 and 3 lit. b FMIA)
+### (Art. 29 paras. 1 and 3 lit. b FinMIA)
 
 <sup>1</sup> The trading venue shall publish the information communicated via its trading facilities on pre-trade transparency for shares throughout normal trading hours.
 
@@ -570,7 +607,7 @@ The trading venue may make provision for exceptions in its regulations for:
 
 **Post-trade transparency**
 
-### (Art. 29 paras. 2 and 3 lit. b FMIA)
+### (Art. 29 paras. 2 and 3 lit. b FinMIA)
 
 <sup>1</sup> The trading venue shall publish the information on post-trade transparency with respect to transactions executed via the trading venue in accordance with its regulations.
 
@@ -597,7 +634,7 @@ The trading venue may make provision for later publication in its regulations in
 
 **Exceptions to pre-trade and post-trade transparency**
 
-### (Art. 29 para. 3 lit. b FMIA)
+### (Art. 29 para. 3 lit. b FinMIA)
 
 <sup>1</sup>
 
@@ -628,7 +665,7 @@ Securities transactions carried out by the following parties may be excluded fro
 
 **Guarantee of orderly trading**
 
-### (Art. 30 FMIA)
+### (Art. 30 FinMIA)
 
 <sup>1</sup> The trading venue shall set transparent rules and procedures for fair, efficient and orderly trading, as well as objective criteria for the effective execution of orders. It must have measures in place to ensure the robust management of technical processes and the operation of its systems.
 
@@ -654,7 +691,7 @@ It must possess effective systems, procedures and arrangements to ensure in part
 
 **Algorithmic trading and high-frequency trading**
 
-### (Art. 30 FMIA)
+### (Art. 30 FinMIA)
 
 <sup>1</sup>
 
@@ -671,7 +708,7 @@ It shall require participants that pursue algorithmic trading to flag the orders
 - a. are robust and equipped with sufficient capacity to deal with peak volumes of orders and announcements;
 - b. are subject to appropriate trading thresholds and upper limits;
 - c. do not cause or contribute to any disruptions in the trading venue;
-- d. are effective for preventing violations of Articles 142 and 143 FMIA;
+- d. are effective for preventing violations of Articles 142 and 143 FinMIA;
 - e.
 
   are subject to appropriate tests of algorithms and control mechanisms, including precautions to:
@@ -698,19 +735,19 @@ In order to take account of the additional burden on system capacity, the tradin
 
 **Supervision of trading**
 
-### (Art. 31 para. 2 FMIA)
+### (Art. 31 para. 2 FinMIA)
 
 <sup>1</sup> The trading supervisory body must have appropriate systems and resources to carry out its tasks.
 
 <sup>2</sup> The functioning of the trading supervisory systems must also be guaranteed without restriction even in the event of high data volumes.
 
-<sup>3</sup> The trading supervisory body shall monitor trading in such a way that forms of conduct in accordance with Articles 142 and 143 FMIA can be identified irrespective of whether they are attributable to manual, automated or algorithmic trading.
+<sup>3</sup> The trading supervisory body shall monitor trading in such a way that forms of conduct in accordance with Articles 142 and 143 FinMIA can be identified irrespective of whether they are attributable to manual, automated or algorithmic trading.
 
 #### Art. 33
 
 **Admission of securities by a stock exchange**
 
-### (Art. 35 FMIA)
+### (Art. 35 FinMIA)
 
 <sup>1</sup> The stock exchange shall guarantee that all securities admitted to trading and all listed securities can be traded in a fair, efficient and orderly manner.
 
@@ -722,7 +759,7 @@ In order to take account of the additional burden on system capacity, the tradin
 
 **Admission of securities by a multilateral trading facility**
 
-### (Art. 36 FMIA)
+### (Art. 36 FinMIA)
 
 <sup>1</sup> The multilateral trading facility shall guarantee that all securities admitted to trading can be traded in a fair, efficient and orderly manner.
 
@@ -734,7 +771,7 @@ In order to take account of the additional burden on system capacity, the tradin
 
 **Appeal body**
 
-### (Art. 37 paras. 1 to 3 FMIA)
+### (Art. 37 paras. 1 to 3 FinMIA)
 
 <sup>1</sup> The appeal body shall be independent in its adjudication and bound only by the law.
 
@@ -750,7 +787,7 @@ In order to take account of the additional burden on system capacity, the tradin
 
 **Record-keeping duty of participants**
 
-### (Art. 38 FMIA)
+### (Art. 38 FinMIA)
 
 <sup>1</sup> The participants admitted to a trading venue shall keep a record of all orders they receive and all securities transactions they execute.
 
@@ -764,7 +801,7 @@ In order to take account of the additional burden on system capacity, the tradin
 
 **Reporting duty of participants**
 
-### (Art. 39 FMIA)
+### (Art. 39 FinMIA)
 
 <sup>1</sup>
 
@@ -785,7 +822,7 @@ The following transactions executed abroad do not have to be reported:
 
 - a.
 
-  transactions in securities admitted to trading on a trading venue in Switzerland and in derivatives with such securities as their underlying instruments, provided the information in question is regularly communicated to the trading venue on the basis of an agreement in accordance with Article 32 paragraph 3 FMIA or within the framework of an exchange of information between FINMA and the competent foreign supervisory authority if:
+  transactions in securities admitted to trading on a trading venue in Switzerland and in derivatives with such securities as their underlying instruments, provided the information in question is regularly communicated to the trading venue on the basis of an agreement in accordance with Article 32 paragraph 3 FinMIA or within the framework of an exchange of information between FINMA and the competent foreign supervisory authority if:
 
   - 1\. they were executed by the branch of a Swiss securities firm[^37-1] or by a foreign admitted participant, and
   - 2\. the branch or the foreign participant is authorised to trade by the relevant foreign supervisory authority and is obliged to submit a report in the corresponding state or in its state of domicile;
@@ -802,7 +839,7 @@ The following transactions executed abroad do not have to be reported:
 
 **Authorisation and recognition conditions**
 
-### (Art. 43 para. 1 FMIA)
+### (Art. 43 para. 1 FinMIA)
 
 The authorisation and recognition conditions that apply to the operator of an organised trading facility are based on the financial market acts pursuant to Article 1 paragraph 1 of the Financial Market Supervision Act of 22 June 2007[^38-1].
 
@@ -812,7 +849,7 @@ The authorisation and recognition conditions that apply to the operator of an or
 
 **Organisation and prevention of conflicts of interest**
 
-### (Art. 44 FMIA)
+### (Art. 44 FinMIA)
 
 <sup>1</sup> The operator of an organised trading facility shall issue regulations on the organisation of trading and monitor compliance with the statutory and regulatory provisions, as well as the trading process.
 
@@ -824,7 +861,7 @@ The authorisation and recognition conditions that apply to the operator of an or
 
 **Guarantee of orderly trading**
 
-### (Art. 45 FMIA)
+### (Art. 45 FinMIA)
 
 The operator of an organised trading facility shall set transparent rules and procedures for fair, efficient and orderly trading, as well as objective criteria for the effective execution of orders. It must have measures in place to ensure the robust management of technical processes and the operation of its systems in accordance with Article 30 paragraphs 2 to 4.
 
@@ -832,7 +869,7 @@ The operator of an organised trading facility shall set transparent rules and pr
 
 **Algorithmic trading and high-frequency trading**
 
-### (Art. 45 FMIA)
+### (Art. 45 FinMIA)
 
 In order to prevent disruptions to its trading facility, the operator of an organised trading facility must take effective measures in accordance with Article 31.
 
@@ -840,7 +877,7 @@ In order to prevent disruptions to its trading facility, the operator of an orga
 
 **Pre-trade transparency**
 
-### (Art. 46 paras. 2 and 3 FMIA)
+### (Art. 46 paras. 2 and 3 FinMIA)
 
 <sup>1</sup> In the case of multilateral trading and bilateral trading where a liquid market exists, Articles 27 and 29 apply by analogy.
 
@@ -850,7 +887,7 @@ In order to prevent disruptions to its trading facility, the operator of an orga
 
 **Post-trade transparency for securities**
 
-### (Art. 46 paras. 1 and 2 FMIA)
+### (Art. 46 paras. 1 and 2 FinMIA)
 
 <sup>1</sup> In the case of multilateral trading, Article 28 paragraphs 1 and 4 as well as Article 29 apply by analogy.
 
@@ -862,7 +899,7 @@ In order to prevent disruptions to its trading facility, the operator of an orga
 
 **Function**
 
-### (Art. 48 FMIA)
+### (Art. 48 FinMIA)
 
 The central counterparty shall ensure, in particular, the standardised recording of all details of the transactions cleared by it, the positions of the participants and its reports to trade repositories.
 
@@ -870,7 +907,7 @@ The central counterparty shall ensure, in particular, the standardised recording
 
 **Organisation, business continuity and IT systems**
 
-### (Art. 8, 13 and 14 FMIA)
+### (Art. 8, 13 and 14 FinMIA)
 
 <sup>1</sup> The central counterparty must appoint a risk committee that includes representatives of the participants, of the indirect participants and members of the body for governance, supervision and control. This committee shall advise the central counterparty on all matters that could have an impact on the risk management of the central counterparty.
 
@@ -880,7 +917,7 @@ The central counterparty shall ensure, in particular, the standardised recording
 
 **Collateral**
 
-### (Art. 49 FMIA)
+### (Art. 49 FinMIA)
 
 <sup>1</sup> If predefined thresholds are exceeded, the central counterparty shall call in initial margins and variation margins at least once a day.
 
@@ -894,7 +931,7 @@ The central counterparty shall ensure, in particular, the standardised recording
 
 **Exchange-of-value settlement**
 
-### (Art. 50 FMIA)
+### (Art. 50 FinMIA)
 
 The central counterparty shall enable participants to eliminate their principal risk by ensuring that the settlement of one obligation occurs if and only if the settlement of the other obligation is guaranteed.
 
@@ -902,11 +939,11 @@ The central counterparty shall enable participants to eliminate their principal 
 
 **Capital adequacy**
 
-### (Art. 51 FMIA)
+### (Art. 51 FinMIA)
 
 <sup>1</sup> The central counterparty must hold total capital in the amount 8.0% (minimum capital requirement) to underpin credit risks, non-counterparty-related risks, market risks and operational risks in accordance with Article 42 CAO[^48-1]. FINMA may demand additional capital in accordance with Article 45 CAO. Titles 1 to 3 CAO apply to the calculation.[^48-2]
 
-<sup>2</sup> The dedicated capital in accordance with Article 53 paragraph 2 letter c FMIA shall amount to at least 25% of the required capital set out in Title 3 CAO.
+<sup>2</sup> The dedicated capital in accordance with Article 53 paragraph 2 letter c FinMIA shall amount to at least 25% of the required capital set out in Title 3 CAO.
 
 <sup>3</sup> The central counterparty shall hold further capital in order to cover the costs of a voluntary cessation of business or restructuring. In the case of systemically important central counterparties, this capital must suffice to implement the plan set out in Article 72, but must at least be sufficient to cover ongoing operating expenditure for six months.
 
@@ -923,7 +960,7 @@ The central counterparty shall enable participants to eliminate their principal 
 
 **Risk diversification**
 
-### (Art. 51 FMIA)
+### (Art. 51 FinMIA)
 
 The central counterparty shall monitor credit risks vis-à-vis an individual counterparty or a group of associated counterparties based on the calculation principles set out in Section 4 of Chapter 1 of Title 4 CAO[^49-1].
 
@@ -933,19 +970,19 @@ The central counterparty shall monitor credit risks vis-à-vis an individual cou
 
 **Liquidity**
 
-### (Art. 52 FMIA)
+### (Art. 52 FinMIA)
 
 <sup>1</sup>
 
-The following are deemed to constitute liquidity in a currency as set out in Article 52 paragraph 1 FMIA:
+The following are deemed to constitute liquidity in a currency as set out in Article 52 paragraph 1 FinMIA:
 
 - a. cash balances in this currency with a central bank or a creditworthy financial institution;
 - b. cash balances in other currencies that can be converted into this currency in a timely manner through foreign exchange transactions;
 - c. contractually committed and approved unsecured lines of credit in this currency with a creditworthy financial institution that can be used without any further credit decision;
-- d. collateral in accordance with Article 49 FMIA and assets that can be converted into cash in this currency in a timely manner through sales;
-- e. collateral in accordance with Article 49 FMIA and assets that can be converted into cash in this currency in a timely manner by means of contractually committed and secured lines of credit or contractually committed repo lines with central banks or creditworthy financial institutions.
+- d. collateral in accordance with Article 49 FinMIA and assets that can be converted into cash in this currency in a timely manner through sales;
+- e. collateral in accordance with Article 49 FinMIA and assets that can be converted into cash in this currency in a timely manner by means of contractually committed and secured lines of credit or contractually committed repo lines with central banks or creditworthy financial institutions.
 
-<sup>2</sup> The central counterparty shall regularly review compliance with the requirements set out in Article 52 paragraph 1 FMIA under various stress scenarios. In doing so, it shall apply collateral discounts (haircuts) to the liquidity that would be appropriate even under extreme but plausible market conditions. It shall diversify its sources of liquidity.
+<sup>2</sup> The central counterparty shall regularly review compliance with the requirements set out in Article 52 paragraph 1 FinMIA under various stress scenarios. In doing so, it shall apply collateral discounts (haircuts) to the liquidity that would be appropriate even under extreme but plausible market conditions. It shall diversify its sources of liquidity.
 
 <sup>3</sup> The investment strategy of the central counterparty must be in harmony with its risk management strategy. It must avoid concentration risks.
 
@@ -953,7 +990,7 @@ The following are deemed to constitute liquidity in a currency as set out in Art
 
 **Portability**
 
-### (Art. 55 FMIA)
+### (Art. 55 FinMIA)
 
 <sup>1</sup>
 
@@ -970,7 +1007,7 @@ Portability is ensured if:
 
 **Organisation**
 
-### (Art. 8 FMIA)
+### (Art. 8 FinMIA)
 
 <sup>1</sup> The central securities depository shall set up a user committee for every securities settlement system operated by it, on which the issuers and participants in these securities settlement systems are represented.
 
@@ -980,7 +1017,7 @@ Portability is ensured if:
 
 **Principles for the custody, recording and transfer of securities**
 
-### (Art. 62 FMIA)
+### (Art. 62 FinMIA)
 
 Central securities depositories that use a common settlement infrastructure shall establish identical times for:
 
@@ -991,7 +1028,7 @@ Central securities depositories that use a common settlement infrastructure shal
 
 **Collateral**
 
-### (Art. 64 FMIA)
+### (Art. 64 FinMIA)
 
 <sup>1</sup> The central securities depository must have sufficient collateral in order to fully cover its current credit exposure.
 
@@ -1005,7 +1042,7 @@ Central securities depositories that use a common settlement infrastructure shal
 
 **Exchange-of-value settlement**
 
-### (Art. 65 FMIA)
+### (Art. 65 FinMIA)
 
 The central securities depository shall enable participants to eliminate their principal risk by ensuring that the settlement of one obligation occurs if and only if the settlement of the other obligation is guaranteed.
 
@@ -1013,7 +1050,7 @@ The central securities depository shall enable participants to eliminate their p
 
 **Capital adequacy**
 
-### (Art. 66 FMIA)
+### (Art. 66 FinMIA)
 
 <sup>1</sup> The central securities depository must hold total capital in the amount 8.0% (minimum capital requirement) to underpin credit risks, non-counterparty-related risks, market risks and operational risks in accordance with Article 42 CAO[^56-1]. FINMA may demand additional capital in accordance with Article 45 CAO. Titles 1 to 3 CAO apply to the calculation.[^56-2]
 
@@ -1026,7 +1063,7 @@ The central securities depository shall enable participants to eliminate their p
 
 **Risk diversification**
 
-### (Art. 66 FMIA)
+### (Art. 66 FinMIA)
 
 The central securities depository shall monitor credit risks vis-à-vis an individual counterparty or a group of associated counterparties based on the calculation principles set out in Section 4 of Chapter 1 of Title 4 CAO[^57-1].
 
@@ -1036,21 +1073,239 @@ The central securities depository shall monitor credit risks vis-à-vis an indiv
 
 **Liquidity**
 
-### (Art. 67 FMIA)
+### (Art. 67 FinMIA)
 
 <sup>1</sup>
 
-The following are deemed to constitute liquidity in a currency as set out in Article 67 paragraph 1 FMIA:
+The following are deemed to constitute liquidity in a currency as set out in Article 67 paragraph 1 FinMIA:
 
 - a. cash balances in this currency with a central bank or a creditworthy financial institution;
 - b. cash balances in other currencies that can be converted into this currency in a timely manner through foreign exchange transactions;
 - c. contractually committed and approved unsecured lines of credit in this currency with a creditworthy financial institution that can be used without any further credit decision;
-- d. collateral in accordance with Article 64 FMIA and assets that can be converted into cash in this currency in a timely manner through sales;
-- e. collateral in accordance with Article 64 FMIA and assets that can be converted into cash in this currency in a timely manner by means of contractually committed and secured lines of credit or contractually committed repo lines with central banks or creditworthy financial institutions.
+- d. collateral in accordance with Article 64 FinMIA and assets that can be converted into cash in this currency in a timely manner through sales;
+- e. collateral in accordance with Article 64 FinMIA and assets that can be converted into cash in this currency in a timely manner by means of contractually committed and secured lines of credit or contractually committed repo lines with central banks or creditworthy financial institutions.
 
-<sup>2</sup> The central securities depository shall regularly review compliance with the requirements set out in Article 67 paragraph 1 FMIA under various stress scenarios. In doing so, it shall apply collateral discounts (haircuts) to the liquidity that would be appropriate even under extreme but plausible market conditions. It shall diversify its sources of liquidity.
+<sup>2</sup> The central securities depository shall regularly review compliance with the requirements set out in Article 67 paragraph 1 FinMIA under various stress scenarios. In doing so, it shall apply collateral discounts (haircuts) to the liquidity that would be appropriate even under extreme but plausible market conditions. It shall diversify its sources of liquidity.
 
 <sup>3</sup> The investment strategy of the central securities depository must be in harmony with its risk management strategy. It must avoid concentration risks.
+
+### Chapter 4*a***** DLT Trading Facilities
+
+[^tit2-chap4a-1]
+
+[^tit2-chap4a-1]: Inserted by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### Section 1 Definitions
+
+#### Art. 58a
+
+**Multilateral trading and non-discretionary rules**
+
+### (Art. 73*a* para. 1 FinMIA)
+
+The definitions for multilateral trading and non-discretionary rules under Articles 22 and 23 apply by analogy to DLT trading facilities.
+
+#### Art. 58b
+
+**Commercial activity**
+
+### (Art. 73*a* para. 2 FinMIA)
+
+<sup>1</sup>
+
+A DLT trading facility is operating commercially if it:
+
+- a. thereby generates gross earnings of more than CHF 50,000 per calendar year;
+- b. per calendar year, has a business relationship with more than 20 participants in accordance with Article 73*c* paragraph 1 letter e of the FinMIA (private participants) or with at least one participant in accordance with Article 73*c* paragraph 1 letters a to d of the FinMIA; or
+- c. has unlimited power of disposal over third-party DLT securities that exceed CHF 5 million at any given time.
+
+<sup>2</sup> If a threshold under paragraph 1 is exceeded, the DLT trading facility must report this to FINMA within 10 days. It must submit an application for authorisation as provided for in the FinMIA to FINMA within 60 days.
+
+<sup>3</sup> Provided the protective purpose of the FinMIA is not affected, FINMA may prohibit the applicant from exercising the activities reserved to a DLT trading facility until the decision is made on the application for authorisation.
+
+### Section 2 Requirements
+
+#### Art. 58c
+
+**Applicability of certain requirements for trading venues**
+
+### (Art. 73*b* FinMIA)
+
+<sup>1</sup> Unless otherwise specified in this Section, Articles 24 to 32 and Article 35 apply by analogy to DLT trading facilities.
+
+<sup>2</sup> Instead of the option under Article 30 paragraph 2 letter f to cancel, amend or correct any transaction in exceptional cases, a DLT trading facility must have a mechanism in place that achieves an economically equivalent effect.
+
+#### Art. 58d
+
+**Record-keeping and reporting duty**
+
+### (Art. 73*c* para. 3 FinMIA)
+
+<sup>1</sup> Private participants are exempt from the record-keeping duty under Article 38 of the FinMIA and the reporting duty under Article 39 of the FinMIA.
+
+<sup>2</sup> Articles 36 and 37 of this Ordinance apply by analogy to the other participants.
+
+#### Art. 58e
+
+**Admission and exclusion of participants**
+
+### (Art. 73*c* paras. 4 and 5 FinMIA)
+
+<sup>1</sup> The DLT trading facility shall regulate in the regulations in accordance with Article 73*c* paragraph 5 of the FinMIA whether and which private participants will be admitted.
+
+<sup>2</sup> The granting of non-discriminatory access in accordance with Article 18 of the FinMIA is not binding for private participants.
+
+#### Art. 58f
+
+**Admission of DLT securities and other assets**
+
+### (Art. 73*d* FinMIA)
+
+<sup>1</sup> The DLT trading facility shall regulate in the regulations in accordance with Article 73*d* of the FinMIA which DLT securities and other assets will be admitted to its services. It may specify the admitted DLT securities and assets individually in the regulations or define them according to their type and function.
+
+<sup>2</sup> If the DLT trading facility admits derivatives designed as DLT securities, only products without fair value or leverage components may be admitted to trading.
+
+<sup>3</sup> DLT securities and other assets which significantly hinder the implementation of the provisions of the Anti-Money Laundering Act of 10 October 1997[^58f-1], or which could adversely affect the stability and integrity of the financial system may not be admitted. FINMA can define these DLT securities and assets in more detail.
+
+<sup>4</sup> The DLT trading facility shall make provision in the regulations for revoking the admission of DLT securities and other assets.
+
+<sup>5</sup> The requirements under Article 34 apply by analogy.
+
+[^58f-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+#### Art. 58g
+
+**Minimum requirements for the admission of DLT securities and regular auditing**
+
+### (Art. 73*d* para. 3 FinMIA)
+
+<sup>1</sup> DLT securities may be admitted by the DLT trading facility if the distributed ledger meets at least the requirements under Article 973*d* paragraph 2 of the CO[^58g-1].
+
+<sup>2</sup> If the distributed ledger is not operated by the relevant DLT trading facility itself, the facility shall audit the ledger before admitting the relevant DLT securities and regularly thereafter, but at least once a year, for compliance with the requirements under paragraph 1.
+
+<sup>3</sup> It shall inform its participants of the audits performed and of the findings.
+
+[^58g-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 58h
+
+**Disclosures on transactions**
+
+### (Art. 73*d* FinMIA)
+
+<sup>1</sup> The DLT trading facility shall monitor all transactions conducted on its systems with admitted DLT securities. It shall disclose this data free of charge to all approved DLT trading facilities.
+
+<sup>2</sup> If the DLT securities admitted for trading on the DLT trading facility are based on securities which are also admitted for trading on a Swiss trading venue, the DLT trading facility shall disclose to that trading venue, free of charge, all transactions with these DLT securities.
+
+<sup>3</sup> The trading venues and DLT trading facilities shall use this data exclusively to fulfil their tasks in the area of trade monitoring.
+
+<sup>4</sup> FINMA may regulate the details of these disclosures.
+
+#### Art. 58i
+
+**Duty of information**
+
+### (Art. 73*e* para. 1 FinMIA)
+
+<sup>1</sup> DLT trading facilities with private participants shall provide them with the associated prospectus or key information document for each DLT security admitted to the DLT trading facility.
+
+<sup>2</sup>
+
+They shall inform these participants of the following aspects of the distributed ledger for the relevant DLT securities:
+
+- a. its governance; and
+- b. its technical risks, specifically the risk of loss.
+
+<sup>3</sup> Moreover, they shall immediately publish information on the transactions in other assets carried out on the DLT trading facility, in particular the price, the volume and the time of the transactions.
+
+#### Art. 58j
+
+**Other requirements relating to services in the area of central custody, clearing or settlement**
+
+### (Art. 73*e* para. 2 FinMIA)
+
+<sup>1</sup> Unless otherwise specified in this Section, the requirements for central securities depositories under Articles 62 to 73 of the FinMIA and 52 to 58 of this Ordinance apply by analogy for DLT trading facilities that provide services in accordance with Article 73*a* paragraph 1 letter b or c of the FinMIA.
+
+<sup>2</sup> The segregation in accordance with Article 69 of the FinMIA may take place in the distributed ledger underlying the DLT securities or in the systems of the DLT trading facility.
+
+<sup>3</sup> A DLT trading facility may also enable the settlement of payments in another manner than that provided for in Article 65 paragraph 1 of the FinMIA if it involves a FINMA-supervised institution for the purpose.
+
+<sup>4</sup> For a DLT trading facility, liquidity in a currency in accordance with Article 67 paragraph 1 of the FinMIA also includes cryptobased assets, insofar as the payment obligation is to be fulfilled in the same virtual currency.
+
+<sup>5</sup> In derogation from Article 52, the DLT trading facility does not have to set up a user committee.
+
+### Section 3 Special requirements for small DLT trading facilities
+
+#### Art. 58k
+
+**Small DLT trading facilities**
+
+### (Art. 73*f* FinMIA)
+
+<sup>1</sup>
+
+A DLT trading facility is deemed to be small if the following thresholds are undercut in relation to DLT securities:
+
+- a. Annual trading volume: CHF 250 million;
+- b. Custody volume: CHF 100 million; and
+- c. Annual settlement volume: CHF 250 million.
+
+<sup>2</sup> If a threshold is reached or exceeded, the DLT trading facility must report this to FINMA within 10 days. It must submit a modified application for authorisation as provided for in the FinMIA to FINMA within 90 days.
+
+<sup>3</sup> The trading facility shall no longer be deemed to be small after 90 days from the time at which a threshold is reached or exceeded. The DLT trading facility may, however, continue to apply the eased requirements for small DLT trading facilities until FINMA makes its decision on the authorisation application.
+
+<sup>4</sup> Where this serves the protective purpose of the FinMIA, FINMA may prohibit the DLT trading facility from admitting further participants until the decision is made on the application for authorisation.
+
+#### Art. 58l
+
+**Easing of requirements for small DLT trading facilities**
+
+### (Art. 73*f* FinMIA)
+
+<sup>1</sup>
+
+In derogation from the FinMIA and from this Ordinance, the following eased requirements apply for small DLT trading facilities:
+
+- a. In derogation from Article 8 paragraph 2 second sentence of the FinMIA and Article 8 paragraph 2 second sentence of this Ordinance, it is sufficient if the majority of the members of the bodies responsible for overall management, supervision and control are not members of the body responsible for business management.
+- b. If the provision of ancillary services not subject to authorisation or approval by virtue of financial market legislation increases the risks of a DLT trading facility, FINMA may require exclusively organisational measures (Art. 10 para. 3 of the FinMIA). If the DLT trading facility also operates an organised trading facility (Art. 43 of the FinMIA), FINMA may require additional capital and sufficient liquidity.
+- c. The business continuity requirements may also be met by having another authorisation holder take over the operation of the DLT trading facility in the event of disruptions (Art. 13 para. 1 of the FinMIA). The strategy and business impact analysis in accordance with Article 14 of this Ordinance may make provision for the operation of the DLT trading facility to be transferred to a third party.
+- d. The regulatory tasks delegated to the DLT trading facility may also be carried out by a non-independent body (Art. 27 para. 2 of the FinMIA).
+- e. An independent appeal body is not necessary (Art. 37 of the FinMIA).
+- f. An internal audit is not necessary (Art. 8 para. 1 lit. c of this Ordinance).
+
+<sup>2</sup>
+
+For small DLT trading facilities that provide services in accordance with Article 73*a* paragraph 1 letter b or c of the FinMIA, the following eased requirements apply in addition, in derogation from the FinMIA:
+
+- a. The capital requirements do not apply (Art. 66 of the FinMIA).
+- b. The liquidity requirements do not apply (Art. 67 of the FinMIA).
+
+#### Art. 58m
+
+**Duty of information for small DLT trading facilities**
+
+### (Art. 73*f* FinMIA)
+
+Before establishing a business relationship, small DLT trading facilities shall inform their clients, in writing or in another form demonstrable by text, of the specific eased requirements which the small DLT trading facility is applying.
+
+#### Art. 58n
+
+**Minimum capital for small DLT trading facilities**
+
+### (Art. 73*f* FinMIA)
+
+For small DLT trading facilities, the minimum capital requirement is:
+
+- a. CHF 500,000 if they do not provide services in accordance with Article 73*a* paragraph 1 letter b or c;
+- b. 5% of the DLT securities in custody, but at least CHF 500,000 if they provide services in accordance with Article 73*a* paragraph 1 letter b or c.
+
+#### Art. 58o
+
+**Prohibition on lending**
+
+### (Art. 73*f* FinMIA)
+
+Small DLT trading facilities may not grant loans.
 
 ### Chapter 5 Trade Repositories
 
@@ -1058,7 +1313,7 @@ The following are deemed to constitute liquidity in a currency as set out in Art
 
 **Ancillary services**
 
-### (Art. 10 FMIA)
+### (Art. 10 FinMIA)
 
 If the trade repository offers ancillary services, it must provide these in a way that is operationally segregated from its essential services.
 
@@ -1066,7 +1321,7 @@ If the trade repository offers ancillary services, it must provide these in a wa
 
 **Data retention**
 
-### (Art. 75 FMIA)
+### (Art. 75 FinMIA)
 
 <sup>1</sup>
 
@@ -1089,7 +1344,7 @@ It shall record all changes to the reported data, providing information on:
 
 **Publication of data**
 
-### (Art. 76 FMIA)
+### (Art. 76 FinMIA)
 
 <sup>1</sup>
 
@@ -1110,7 +1365,7 @@ The trade repository shall publish at least weekly the open positions, transacti
 
 **Data access for Swiss authorities**
 
-### (Art. 77 FMIA)
+### (Art. 77 FinMIA)
 
 <sup>1</sup>
 
@@ -1129,7 +1384,7 @@ The trade repository shall grant the following authorities access to the data, w
 
 **Data access for foreign authorities**
 
-### (Art. 78 FMIA)
+### (Art. 78 FinMIA)
 
 <sup>1</sup> The trade repository shall grant foreign financial market supervisory authorities access to transaction data solely for the purposes of enforcing financial market law under their responsibility.
 
@@ -1139,7 +1394,7 @@ The trade repository shall grant the following authorities access to the data, w
 
 **Procedure**
 
-### (Art. 77 and 78 FMIA)
+### (Art. 77 and 78 FinMIA)
 
 <sup>1</sup> The access of authorities shall be structured in line with the communication protocols, data exchange standards and reference data that are commonplace at the international level.
 
@@ -1155,7 +1410,7 @@ The trade repository shall provide the authorities with a form for their enquiri
 - d. a description of the data it is requesting;
 - e. an illustration of the measures it has taken to ensure the confidentiality of data received.
 
-<sup>4</sup> From foreign authorities, it shall additionally request confirmation that an agreement is in place between the foreign and Swiss authorities in accordance with Article 78 paragraph 1 FMIA.
+<sup>4</sup> From foreign authorities, it shall additionally request confirmation that an agreement is in place between the foreign and Swiss authorities in accordance with Article 78 paragraph 1 FinMIA.
 
 <sup>5</sup> The trade repository shall keep a record of information on data access.
 
@@ -1163,7 +1418,7 @@ The trade repository shall provide the authorities with a form for their enquiri
 
 **Data transmission to private individuals**
 
-### (Art. 79 FMIA)
+### (Art. 79 FinMIA)
 
 <sup>1</sup>
 
@@ -1181,7 +1436,7 @@ The trade repository shall provide private individuals with a form for their enq
 
 **Clearing and settlement principles**
 
-### (Art. 82 FMIA)
+### (Art. 82 FinMIA)
 
 <sup>1</sup> The payment system shall ensure the proper and lawful clearing and settlement of payment obligations.
 
@@ -1205,7 +1460,7 @@ Payment systems that use a common settlement infrastructure shall establish iden
 
 **Collateral**
 
-### (Art. 82 FMIA)
+### (Art. 82 FinMIA)
 
 <sup>1</sup> The payment system shall use appropriate measures to cover risks arising from the granting of credit.
 
@@ -1221,7 +1476,7 @@ Payment systems that use a common settlement infrastructure shall establish iden
 
 **Fulfilment of payment obligations**
 
-### (Art. 82 FMIA)
+### (Art. 82 FinMIA)
 
 <sup>1</sup> The payment system shall enable the settlement of payments by transferring sight deposits held with a central bank.
 
@@ -1233,7 +1488,7 @@ Payment systems that use a common settlement infrastructure shall establish iden
 
 **Capital adequacy**
 
-### (Art. 82 FMIA)
+### (Art. 82 FinMIA)
 
 In the case of systemically important payment systems, the capital must suffice to implement the plan set out in Article 72, but must at least be sufficient to cover ongoing operating expenditure for six months.
 
@@ -1241,7 +1496,7 @@ In the case of systemically important payment systems, the capital must suffice 
 
 **Liquidity**
 
-### (Art. 82 FMIA)
+### (Art. 82 FinMIA)
 
 <sup>1</sup>
 
@@ -1262,7 +1517,7 @@ The payment system must have sufficient liquidity in accordance with Article 58 
 
 **Auditing**
 
-### (Art. 84 para. 1 FMIA)
+### (Art. 84 para. 1 FinMIA)
 
 <sup>1</sup> The audit firm of the financial market infrastructure shall review whether the latter fulfils the relevant duties as set forth in legislation, this Ordinance and its own contractual basis.
 
@@ -1272,7 +1527,7 @@ The payment system must have sufficient liquidity in accordance with Article 58 
 
 **Voluntary authorisation return**
 
-### (Art. 86 FMIA)
+### (Art. 86 FinMIA)
 
 <sup>1</sup> Systemically important financial market infrastructures shall draw up a plan as to how their systemically important business processes are to be terminated in an orderly way in the event of a voluntary cessation of business. The orderly wind-down plan shall take into account the period of time required for the participants to sign up to an alternative financial market infrastructure. It must be approved by the body responsible for governance, supervision and control.
 
@@ -1284,7 +1539,7 @@ The payment system must have sufficient liquidity in accordance with Article 58 
 
 **System protection**
 
-### (Art. 89 FMIA)
+### (Art. 89 FinMIA)
 
 <sup>1</sup>
 
@@ -1293,13 +1548,13 @@ The orders of participants include in particular instructions that:
 - a. directly affect the settlement of payments or securities transactions; or
 - b. serve the purpose of providing the financing or collateral required under the system's rules.
 
-<sup>2</sup> A payment or transfer order may not be revoked either by a participant in the system or by a third party from the time set out in Article 62 paragraph 4 letter a FMIA and Article 66 paragraph 2 letter a of this Ordinance.
+<sup>2</sup> A payment or transfer order may not be revoked either by a participant in the system or by a third party from the time set out in Article 62 paragraph 4 letter a FinMIA and Article 66 paragraph 2 letter a of this Ordinance.
 
 #### Art. 74
 
 **Primacy of agreements in the event of insolvency**
 
-### (Art. 90 and 91 FMIA)
+### (Art. 90 and 91 FinMIA)
 
 <sup>1</sup> The offsetting agreements shall include in particular netting provisions as well as the default agreements contained in bilateral or framework agreements.
 
@@ -1311,7 +1566,7 @@ The orders of participants include in particular instructions that:
 
 **Postponement of the termination of contracts**
 
-### (Art. 92 FMIA)
+### (Art. 92 FinMIA)
 
 <sup>1</sup>
 
@@ -1334,17 +1589,17 @@ The following contracts in particular may be postponed:
 
 **Collective investment schemes**
 
-### (Art. 93 para. 2 lit. e and f FMIA)
+### (Art. 93 para. 2 lit. e and f FinMIA)
 
-Whether a collective investment scheme counts as a financial counterparty or as a small financial counterparty is determined on the basis of the OTC derivatives transactions carried out for its own account in accordance with Article 99 FMIA, regardless of whether it can be ascribed legal personality or not.
+Whether a collective investment scheme counts as a financial counterparty or as a small financial counterparty is determined on the basis of the OTC derivatives transactions carried out for its own account in accordance with Article 99 FinMIA, regardless of whether it can be ascribed legal personality or not.
 
 #### Art. 77
 
 **Companies**
 
-### (Art. 93 para. 3 FMIA)
+### (Art. 93 para. 3 FinMIA)
 
-<sup>1</sup> Under the FMIA, a company is deemed to be any legal entity entered in the commercial register.
+<sup>1</sup> Under the FinMIA, a company is deemed to be any legal entity entered in the commercial register.
 
 <sup>2</sup> Also classified as companies are foreign companies engaged in economic activities that are legal entities according to the law applicable to them, as well as trusts and similar constructs.
 
@@ -1352,19 +1607,19 @@ Whether a collective investment scheme counts as a financial counterparty or as 
 
 **Branches**
 
-### (Art. 93 para. 5 FMIA)
+### (Art. 93 para. 5 FinMIA)
 
-If FINMA determines that a Swiss branch of a foreign counterparty is subject to regulation that does not correspond to the statutory requirements to a significant extent, it can subject the derivatives transactions carried out by the branch in question to Articles 93 to 117 FMIA on derivatives trading.
+If FINMA determines that a Swiss branch of a foreign counterparty is subject to regulation that does not correspond to the statutory requirements to a significant extent, it can subject the derivatives transactions carried out by the branch in question to Articles 93 to 117 FinMIA on derivatives trading.
 
 #### Art. 79
 
 **Exceptions for other public sector bodies**
 
-### (Art. 94 para. 2 FMIA)
+### (Art. 94 para. 2 FinMIA)
 
 <sup>1</sup>
 
-Derivatives with the following counterparties are subject to the reporting duty set out in Article 104 FMIA, but not to the other derivatives trading duties:
+Derivatives with the following counterparties are subject to the reporting duty set out in Article 104 FinMIA, but not to the other derivatives trading duties:
 
 - a. foreign central banks;
 - b. the ECB;
@@ -1381,9 +1636,9 @@ Derivatives with the following counterparties are subject to the reporting duty 
 
 **Excluded derivatives**
 
-### (Art. 94 para. 4 FMIA)
+### (Art. 94 para. 4 FinMIA)
 
-In addition to the derivatives listed under Article 94 paragraph 3 FMIA, the following derivatives are excluded from Articles 93 to 117 FMIA concerning derivatives trading:
+In addition to the derivatives listed under Article 94 paragraph 3 FinMIA, the following derivatives are excluded from Articles 93 to 117 FinMIA concerning derivatives trading:
 
 - a. derivatives issued in the form of a security or uncertificated security;
 - b. derivatives accepted in the form of a deposit.
@@ -1392,7 +1647,7 @@ In addition to the derivatives listed under Article 94 paragraph 3 FMIA, the fol
 
 **Fulfilment of duties under foreign law**
 
-### (Art. 95 FMIA)
+### (Art. 95 FinMIA)
 
 <sup>1</sup> FINMA shall recognise foreign law as equivalent if the duties that apply for derivatives trading and the provisions on supervision are comparable with the Swiss equivalent in their material impact.
 
@@ -1400,10 +1655,10 @@ In addition to the derivatives listed under Article 94 paragraph 3 FMIA, the fol
 
 This condition is met with respect to the:
 
-- a. clearing duty under Article 97 FMIA, if the clearing in question largely reduces the systemic and counterparty risks of standardised OTC derivatives;
-- b. reporting duty under Article 104 FMIA, if the report contains at least the information set out in the Article 105 paragraph 2 FMIA;
-- c. the risk mitigation duty under Articles 107 to 110 FMIA, if the corresponding measures largely reduce the systemic and counterparty risks of non-standardised OTC derivatives;
-- d. the platform trading duty under Article 112 FMIA, if pre-trade and post-trade transparency in the derivatives market is appropriately improved through the trading of standardised derivatives via trading venues or organised trading facilities.
+- a. clearing duty under Article 97 FinMIA, if the clearing in question largely reduces the systemic and counterparty risks of standardised OTC derivatives;
+- b. reporting duty under Article 104 FinMIA, if the report contains at least the information set out in the Article 105 paragraph 2 FinMIA;
+- c. the risk mitigation duty under Articles 107 to 110 FinMIA, if the corresponding measures largely reduce the systemic and counterparty risks of non-standardised OTC derivatives;
+- d. the platform trading duty under Article 112 FinMIA, if pre-trade and post-trade transparency in the derivatives market is appropriately improved through the trading of standardised derivatives via trading venues or organised trading facilities.
 
 <sup>3</sup> A Swiss counterparty can fulfil its derivatives trading duties with another Swiss counterparty under foreign supervisory legislation recognised by FINMA if the derivatives transaction in question or a counterparty to this transaction has an objective connection with this legislation. The simply choice of law does not create an objective connection.
 
@@ -1411,15 +1666,15 @@ This condition is met with respect to the:
 
 **Intra-group flow of information**
 
-### (Art. 96 FMIA)
+### (Art. 96 FinMIA)
 
-If the counterparty commissions group companies and branches in Switzerland and abroad with the fulfilment of its duties under Articles 93 to 117 FMIA, it may exchange all necessary information in this respect with these group companies and branches, including client data, without this requiring the approval of the client in question.
+If the counterparty commissions group companies and branches in Switzerland and abroad with the fulfilment of its duties under Articles 93 to 117 FinMIA, it may exchange all necessary information in this respect with these group companies and branches, including client data, without this requiring the approval of the client in question.
 
 #### Art. 83
 
 **Declaration concerning a counterparty's characteristics**
 
-### (Art. 97 para. 3 FMIA)
+### (Art. 97 para. 3 FinMIA)
 
 <sup>1</sup> The declaration of a counterparty with respect to its characteristics applies with respect to all the duties set out in this chapter.
 
@@ -1429,9 +1684,9 @@ If the counterparty commissions group companies and branches in Switzerland and 
 
 **Currency swaps and currency forward transactions**
 
-### (Art. 101 para. 3, 107 para. 2, 113 para. 3 FMIA)
+### (Art. 101 para. 3, 107 para. 2, 113 para. 3 FinMIA)
 
-The currency swaps and currency forward transactions that are exempt from the clearing duty (Art. 97 FMIA), the risk mitigation duties (Art. 107 to 111 FMIA) and the platform trading duty (Art. 112 FMIA) comprise all transactions for the exchange of currencies in which real execution is guaranteed, irrespective of the clearing method.
+The currency swaps and currency forward transactions that are exempt from the clearing duty (Art. 97 FinMIA), the risk mitigation duties (Art. 107 to 111 FinMIA) and the platform trading duty (Art. 112 FinMIA) comprise all transactions for the exchange of currencies in which real execution is guaranteed, irrespective of the clearing method.
 
 ### Section 2 Clearing via a Central Counterparty
 
@@ -1439,7 +1694,7 @@ The currency swaps and currency forward transactions that are exempt from the cl
 
 **Commencement of duty**
 
-### (Art. 97 and 101 para. 2 FMIA)
+### (Art. 97 and 101 para. 2 FinMIA)
 
 The duty to clear derivatives transactions via authorised or recognised central counterparties applies from the point at which FINMA publishes the clearing duty for the derivative category in question:
 
@@ -1457,11 +1712,11 @@ The duty to clear derivatives transactions via authorised or recognised central 
 
 **Transactions not covered**
 
-### (Art. 94 para. 4 and 97 para. 2 FMIA)
+### (Art. 94 para. 4 and 97 para. 2 FinMIA)
 
 [^86-1]
 
-<sup>1</sup> Transactions with counterparties that are subject to the clearing duty for the first time in accordance with Article 98 paragraph 2 or Article 99 paragraph 2 FMIA do not need to be cleared through a central counterparty if they were concluded prior to subjection to the clearing duty.
+<sup>1</sup> Transactions with counterparties that are subject to the clearing duty for the first time in accordance with Article 98 paragraph 2 or Article 99 paragraph 2 FinMIA do not need to be cleared through a central counterparty if they were concluded prior to subjection to the clearing duty.
 
 <sup>2</sup> Derivatives transactions with counterparties which have their registered office or domicile in Switzerland to which the derivatives trading provisions do not apply do not have to be cleared through a central counterparty.
 
@@ -1488,7 +1743,7 @@ Derivatives transactions in which a covered bond issuer or a legal entity of a c
 
 **Derivatives transactions intended to reduce risks**
 
-### (Art. 98 para. 3 FMIA)
+### (Art. 98 para. 3 FinMIA)
 
 Derivatives transactions intended to reduce risks are directly associated with the business activity, liquidity management or asset management of the non-financial counterparty if they:
 
@@ -1503,7 +1758,7 @@ Derivatives transactions intended to reduce risks are directly associated with t
 
 **Thresholds**
 
-### (Art. 100 FMIA)
+### (Art. 100 FinMIA)
 
 <sup>1</sup>
 
@@ -1521,7 +1776,7 @@ The following thresholds apply to the average gross positions in outstanding OTC
 
 **Average gross position**
 
-### (Art. 100 FMIA)
+### (Art. 100 FinMIA)
 
 The following rules apply to the calculation of the average gross position of outstanding OTC derivatives transactions:
 
@@ -1531,13 +1786,13 @@ The following rules apply to the calculation of the average gross position of ou
 - d. Adjustments to the nominal amount during the term shall be factored in if these were contractually envisaged at the start of the transaction.
 - e. Transactions in the subsequent transaction chain of hedging transactions of a non-financial counterparty likewise count as hedging transactions.
 - f. The netting of opposing positions in derivatives is permitted insofar as these positions relate to the same underlying instrument, are denominated in the same currency and have the same maturity date. In such case, the reference interest rates for variable-interest positions, the fixed interest rates and the interest-setting reference dates must be identical.
-- g. Derivatives not covered by the clearing duty under Article 101 paragraph 3 letter b FMIA shall not be factored in.
+- g. Derivatives not covered by the clearing duty under Article 101 paragraph 3 letter b FinMIA shall not be factored in.
 
 #### Art. 90
 
 **Cross-border transactions**
 
-### (Art. 94 para. 2 and 102 FMIA)
+### (Art. 94 para. 2 and 102 FinMIA)
 
 Cross-border transactions do not have to be cleared through a central counterparty if the foreign counterparty:
 
@@ -1548,7 +1803,7 @@ Cross-border transactions do not have to be cleared through a central counterpar
 
 **Intra-group transactions**
 
-### (Art. 103 lit. b FMIA)
+### (Art. 103 lit. b FinMIA)
 
 Non-financial counterparties are subject to appropriate centralised risk evaluation, measurement and control procedures if they maintain professional central treasury operations.
 
@@ -1558,21 +1813,21 @@ Non-financial counterparties are subject to appropriate centralised risk evaluat
 
 **Duty**
 
-### (Art. 104 FMIA)
+### (Art. 104 FinMIA)
 
 <sup>1</sup> Derivatives transactions with parties that are exempted from the provisions on derivatives trading are to be reported by the counterparty subject to the legislation.
 
-<sup>2</sup> Subject to Article 104 paragraph 4 FMIA, centrally cleared transactions that are traded via a trading venue or an organised trading facility are to be reported by the counterparty closest to the central counterparty in the transaction chain.
+<sup>2</sup> Subject to Article 104 paragraph 4 FinMIA, centrally cleared transactions that are traded via a trading venue or an organised trading facility are to be reported by the counterparty closest to the central counterparty in the transaction chain.
 
 <sup>3</sup> The definition of selling counterparty shall be based on conventional industry and recognised international standards, whereby agreement on another interpretation remains reserved.
 
-<sup>4</sup> A counterparty may submit data to a trade repository in Switzerland or abroad without the approval of, or without informing, its counterparty or an end client, as long as this is done in fulfilment of the duties set out in Title 3 FMIA, whereby Article 105 paragraph 4 FMIA remains reserved.
+<sup>4</sup> A counterparty may submit data to a trade repository in Switzerland or abroad without the approval of, or without informing, its counterparty or an end client, as long as this is done in fulfilment of the duties set out in Title 3 FinMIA, whereby Article 105 paragraph 4 FinMIA remains reserved.
 
 #### Art. 93
 
 **Content of reports**
 
-### (Art. 105 para. 2 FMIA)
+### (Art. 105 para. 2 FinMIA)
 
 Reports are to contain the information set out in Annex 2.
 
@@ -1582,7 +1837,7 @@ Reports are to contain the information set out in Annex 2.
 
 **Duties**
 
-### (Art. 107 to 111 FMIA)
+### (Art. 107 to 111 FinMIA)
 
 <sup>1</sup> The risk mitigation duties apply only to derivatives transactions between companies.
 
@@ -1592,7 +1847,7 @@ Reports are to contain the information set out in Annex 2.
 
 **Confirmation of contractual terms**
 
-### (Art. 108 lit. a FMIA)
+### (Art. 108 lit. a FinMIA)
 
 <sup>1</sup> The contractual terms must be reciprocally confirmed at the latest within two business days of the conclusion of the OTC derivatives transaction in question.
 
@@ -1606,7 +1861,7 @@ Reports are to contain the information set out in Annex 2.
 
 **Portfolio reconciliation**
 
-### (Art. 108 lit. b FMIA)
+### (Art. 108 lit. b FinMIA)
 
 <sup>1</sup> The details for reconciling the portfolios must be agreed prior to completing an OTC derivatives transaction.
 
@@ -1622,13 +1877,13 @@ It must be carried out:
 - b. once a week if there are between 51 and 499 OTC derivatives transactions outstanding between the counterparties at any point during the week;
 - c. once a quarter if there are 50 or less OTC derivatives transactions outstanding between the counterparties at any point during the quarter.
 
-<sup>5</sup> Derivatives not covered by the clearing duty under Article 101 paragraph 3 letter b FMIA are not factored in for purposes of determining outstanding transactions in accordance with paragraph 4.
+<sup>5</sup> Derivatives not covered by the clearing duty under Article 101 paragraph 3 letter b FinMIA are not factored in for purposes of determining outstanding transactions in accordance with paragraph 4.
 
 #### Art. 97
 
 **Dispute resolution**
 
-### (Art. 108 lit. c FMIA)
+### (Art. 108 lit. c FinMIA)
 
 <sup>1</sup> The place of jurisdiction and the applicable law for any disputes must be agreed at the latest when an OTC derivatives transaction is concluded.
 
@@ -1643,7 +1898,7 @@ Procedures are to be set out in the agreement:
 
 **Portfolio compression**
 
-### (Art. 108 lit. d FMIA)
+### (Art. 108 lit. d FinMIA)
 
 <sup>1</sup> Portfolio compression need not be undertaken if it would not lead to any meaningful reduction in counterparty risk and the counterparty subject to the obligation documents this at least every six months.
 
@@ -1660,7 +1915,7 @@ Portfolio compression would not lead to any meaningful reduction in counterparty
 
 **Valuation of outstanding transactions**
 
-### (Art. 109 FMIA)
+### (Art. 109 FinMIA)
 
 <sup>1</sup>
 
@@ -1690,7 +1945,7 @@ If a valuation is permissible on the basis of model prices, the model must:
 
 **Duty to exchange collateral**[^100-1]
 
-### (Art. 110 FMIA)
+### (Art. 110 FinMIA)
 
 <sup>1</sup>
 
@@ -1816,7 +2071,7 @@ The receiving counterparty and the custodial third party must keep the non-cash 
 
 **Calculation of initial margins**
 
-### (Art. 110 FMIA)
+### (Art. 110 FinMIA)
 
 <sup>1</sup> The initial margin is calculated as a percentage discount on the gross positions of the individual derivatives transactions. Derivatives transactions that form the object of a netting agreement concluded between the counterparties («netting set») may be pooled.
 
@@ -1853,7 +2108,7 @@ If a transaction can be classified in more than one derivative category in accor
 
 **Admissible collateral for initial and variation margins**
 
-### (Art. 110 FMIA)
+### (Art. 110 FinMIA)
 
 <sup>1</sup>
 
@@ -1887,7 +2142,7 @@ The following count as admissible collateral:
 
 **Discounts on collateral**
 
-### (Art. 110 FMIA)
+### (Art. 110 FinMIA)
 
 <sup>1</sup> The value of the collateral should be marked down by means of discounts on the market value in accordance with Annex 4.
 
@@ -1914,7 +2169,7 @@ They shall take measures to:
 
 **Cross-border transactions**
 
-### (Art. 94 para. 2 and 107 FMIA)
+### (Art. 94 para. 2 and 107 FinMIA)
 
 <sup>1</sup> The duty to exchange collateral in the case of cross-border transactions shall also apply, subject to the exemption envisaged in paragraphs 2, 2<sup>bis</sup> and 2<sup>ter</sup>, if the foreign counterparty of the Swiss counterparty which has the duty to exchange collateral would also be subject to this duty if it had its registered office in Switzerland.[^106-1]
 
@@ -1949,9 +2204,9 @@ It can dispense with requiring the foreign counterparty to pay initial margins a
 
 **Intra-group transactions**
 
-### (Art. 111 FMIA)
+### (Art. 111 FinMIA)
 
-<sup>1</sup> Insolvency law provisions do not count as legal impediments in the sense of Article 111 letter c FMIA.
+<sup>1</sup> Insolvency law provisions do not count as legal impediments in the sense of Article 111 letter c FinMIA.
 
 <sup>2</sup> Furthermore, Article 91 applies.
 
@@ -1961,9 +2216,9 @@ It can dispense with requiring the foreign counterparty to pay initial margins a
 
 **Commencement of duty**
 
-### (Art. 112 FMIA)
+### (Art. 112 FinMIA)
 
-The duty to trade a derivatives transaction via a trading venue or organised trading facility in accordance with Article 112 FMIA (platform trading duty) shall apply from the point at which FINMA publishes such a duty for the derivatives transaction in question:
+The duty to trade a derivatives transaction via a trading venue or organised trading facility in accordance with Article 112 FinMIA (platform trading duty) shall apply from the point at which FINMA publishes such a duty for the derivatives transaction in question:
 
 - a. after the expiry of six months: for derivatives transactions which participants in an authorised or recognised central counterparty conclude anew with one another;
 - b.
@@ -1979,25 +2234,25 @@ The duty to trade a derivatives transaction via a trading venue or organised tra
 
 **Transactions not subject to the trading duty**
 
-### (Art. 112 FMIA)
+### (Art. 112 FinMIA)
 
-<sup>1</sup> Counterparties newly subject to the platform trading duty in accordance with Article 98 paragraph 2 or Article 99 paragraph 2 FMIA do not have to trade transactions they concluded prior to the start of this duty via authorised or recognised trading venues or via operators of an organised trading facility.
+<sup>1</sup> Counterparties newly subject to the platform trading duty in accordance with Article 98 paragraph 2 or Article 99 paragraph 2 FinMIA do not have to trade transactions they concluded prior to the start of this duty via authorised or recognised trading venues or via operators of an organised trading facility.
 
-<sup>2</sup> Derivatives transactions with counterparties in accordance with Article 94 paragraph 1 FMIA are not covered by the platform trading duty.
+<sup>2</sup> Derivatives transactions with counterparties in accordance with Article 94 paragraph 1 FinMIA are not covered by the platform trading duty.
 
 #### Art. 110
 
 **Trading via foreign organised trading facilities**
 
-### (Art. 95 and 112 FMIA)
+### (Art. 95 and 112 FinMIA)
 
-The platform trading duty may be fulfilled through trading via a foreign organised trading facility if this facility is subject to foreign regulation that has been recognised by FINMA as being equivalent in analogous application of Article 41 FMIA.
+The platform trading duty may be fulfilled through trading via a foreign organised trading facility if this facility is subject to foreign regulation that has been recognised by FINMA as being equivalent in analogous application of Article 41 FinMIA.
 
 #### Art. 111
 
 **Cross-border transactions**
 
-### (Art. 94 para. 2 and 114 FMIA)
+### (Art. 94 para. 2 and 114 FinMIA)
 
 Cross-border transactions do not have to be traded through a trading venue or an organised trading facility if the foreign counterparty:
 
@@ -2008,7 +2263,7 @@ Cross-border transactions do not have to be traded through a trading venue or an
 
 **Intra-group transactions**
 
-### (Art. 94 para. 2 and 115 FMIA)
+### (Art. 94 para. 2 and 115 FinMIA)
 
 For intra-group transactions, Article 91 applies.
 
@@ -2018,17 +2273,17 @@ For intra-group transactions, Article 91 applies.
 
 **Documentation**
 
-### (Art. 116 FMIA)
+### (Art. 116 FinMIA)
 
 <sup>1</sup>
 
 Financial and non-financial counterparties shall regulate, in writing or in another form that that allows for proof by text, the processes with which they ensure fulfilment of the duties with respect to:[^113-1]
 
-- a. clearing via a central counterparty (Art. 97 FMIA);
-- b. determining thresholds (Art. 100 FMIA);
-- c. reporting to a trade repository (Art. 104 FMIA);
-- d. risk mitigation (Art. 107 FMIA);
-- e. trading via trading venues and organised trading facilities (Art. 112 FMIA).
+- a. clearing via a central counterparty (Art. 97 FinMIA);
+- b. determining thresholds (Art. 100 FinMIA);
+- c. reporting to a trade repository (Art. 104 FinMIA);
+- d. risk mitigation (Art. 107 FinMIA);
+- e. trading via trading venues and organised trading facilities (Art. 112 FinMIA).
 
 <sup>2</sup> Non-financial counterparties which do not want to trade in derivatives may set out this resolution in writing or in another form that that allows for proof by text, in which case they are exempt from the duty set out in paragraph 1.[^113-2]
 
@@ -2041,7 +2296,7 @@ Financial and non-financial counterparties shall regulate, in writing or in anot
 
 **Auditing and notifications**
 
-### (Art. 116 and 117 FMIA)
+### (Art. 116 and 117 FinMIA)
 
 <sup>1</sup> In the case of non-financial counterparties, the auditor shall review whether these counterparties have taken measures, in particular to comply with the derivatives trading duties set out in Article 113 paragraph 1 letters a to e.
 
@@ -2063,7 +2318,7 @@ Financial and non-financial counterparties shall regulate, in writing or in anot
 
 #### Art. 115
 
-### (Art. 120 FMIA)
+### (Art. 120 FinMIA)
 
 <sup>1</sup> The equity securities of a company having its registered office abroad are deemed to be mainly listed in Switzerland if the company has to fulfil at least the same duties for its listing and maintenance of its listing on a stock exchange in Switzerland as companies having their registered office in Switzerland.
 
@@ -2077,7 +2332,7 @@ Financial and non-financial counterparties shall regulate, in writing or in anot
 
 **Main listing**
 
-### (Art. 125 para. 1 FMIA)
+### (Art. 125 para. 1 FinMIA)
 
 For public takeover offers, Article 115 regarding main listing applies.
 
@@ -2085,7 +2340,7 @@ For public takeover offers, Article 115 regarding main listing applies.
 
 **Fees for the review of a takeover offer**
 
-### (Art. 126 para. 5 FMIA)
+### (Art. 126 para. 5 FinMIA)
 
 <sup>1</sup> The Swiss Takeover Board shall levy a fee for reviewing the takeover offer whenever such an offer is made by any party.
 
@@ -2107,7 +2362,7 @@ The fee is calculated as a proportion of the value of the transaction:
 
 **Fees for other decisions**
 
-### (Art. 126 para. 5 FMIA)
+### (Art. 126 para. 5 FinMIA)
 
 <sup>1</sup> The Swiss Takeover Board shall also levy a fee if it has to make a decision in other circumstances relating to takeovers, particularly on whether or not a duty to make an offer exists. It may also levy a fee for reviewing requests for information.
 
@@ -2119,7 +2374,7 @@ The fee is calculated as a proportion of the value of the transaction:
 
 **Advance payment of fees**
 
-### (Art. 126 para. 5 FMIA)
+### (Art. 126 para. 5 FinMIA)
 
 The Swiss Takeover Board may request an advance fee payment amounting to the probable fee from each party.
 
@@ -2127,9 +2382,9 @@ The Swiss Takeover Board may request an advance fee payment amounting to the pro
 
 **Calculation of voting rights in the case of the cancellation of outstanding equity securities**
 
-### (Art. 137 para. 1 FMIA)
+### (Art. 137 para. 1 FinMIA)
 
-In order to determine whether the threshold of 98% in accordance with Article 137 paragraph 1 FMIA has been exceeded or not, the following shares shall be taken into account in addition to the shares held directly:
+In order to determine whether the threshold of 98% in accordance with Article 137 paragraph 1 FinMIA has been exceeded or not, the following shares shall be taken into account in addition to the shares held directly:
 
 - a. those with dormant voting rights;
 - b. those held by the offeror indirectly or in concert with third parties at the time of the application for cancellation.
@@ -2138,7 +2393,7 @@ In order to determine whether the threshold of 98% in accordance with Article 13
 
 **Proceedings for cancelling outstanding equity securities**
 
-### (Art. 137 FMIA)
+### (Art. 137 FinMIA)
 
 <sup>1</sup> If the offeror brings an action against the company in an attempt to have the latter's outstanding equity securities cancelled, the court shall make this known to the public and inform the remaining shareholders that they may participate in the proceedings. In this respect, it shall set a timeframe of at least three months, beginning on the day of the first announcement.
 
@@ -2154,19 +2409,19 @@ In order to determine whether the threshold of 98% in accordance with Article 13
 
 **Subject matter**
 
-### (Art. 142 para. 2 and 143 para. 2 FMIA)
+### (Art. 142 para. 2 and 143 para. 2 FinMIA)
 
-The provisions of this Chapter shall determine the cases in which forms of conduct that fall under Article 142 paragraph 1 and Article 143 paragraph 1 FMIA are permissible.
+The provisions of this Chapter shall determine the cases in which forms of conduct that fall under Article 142 paragraph 1 and Article 143 paragraph 1 FinMIA are permissible.
 
 #### Art. 123
 
 **Buyback of own equity securities**
 
-### (Art. 142 para. 2 and 143 para. 2 FMIA)
+### (Art. 142 para. 2 and 143 para. 2 FinMIA)
 
 <sup>1</sup>
 
-The buyback of own equity securities at market price as part of a public buyback offer (buyback programme) in accordance with Article 142 paragraph 1 letter a and Article 143 paragraph 1 FMIA is permissible, subject to Article 124, if:
+The buyback of own equity securities at market price as part of a public buyback offer (buyback programme) in accordance with Article 142 paragraph 1 letter a and Article 143 paragraph 1 FinMIA is permissible, subject to Article 124, if:
 
 - a. the buyback programme lasts a maximum of three years;
 - b. the scope of the buyback programme does not exceed a total of 10% of the capital and voting rights and 20% of the free float of the equity securities;
@@ -2192,7 +2447,7 @@ The buyback of own equity securities at market price as part of a public buyback
 
 <sup>2</sup>
 
-The buyback of own equity securities at a fixed price or through the issuance of put options in accordance with Article 142 paragraph 1 letter a and Article 143 paragraph 1 FMIA is permissible, subject to Article 124, if:
+The buyback of own equity securities at a fixed price or through the issuance of put options in accordance with Article 142 paragraph 1 letter a and Article 143 paragraph 1 FinMIA is permissible, subject to Article 124, if:
 
 - a. the buyback programme lasts for at least ten trading days;
 - b. the scope of the buyback programme does not exceed a total of 10% of the capital and voting rights and 20% of the free float of the equity securities;
@@ -2203,7 +2458,7 @@ The buyback of own equity securities at a fixed price or through the issuance of
 
 <sup>4</sup>
 
-It is assumed that Article 142 paragraph 1 letter a and Article 143 paragraph 1 FMIA are not violated if the purchase price paid on a separate trading line is a maximum of 2% higher than:
+It is assumed that Article 142 paragraph 1 letter a and Article 143 paragraph 1 FinMIA are not violated if the purchase price paid on a separate trading line is a maximum of 2% higher than:
 
 - a. the last closing price achieved on the regular trading line; or
 - b. the best current bid price on the regular trading line, provided this is below the price referred to under letter a;
@@ -2212,7 +2467,7 @@ It is assumed that Article 142 paragraph 1 letter a and Article 143 paragraph 1 
 
 **Blackout periods**
 
-### (Art. 142 para. 2 and 143 para. 2 FMIA)
+### (Art. 142 para. 2 and 143 para. 2 FinMIA)
 
 <sup>1</sup>
 
@@ -2235,7 +2490,7 @@ The buyback at market price remains reserved if this is undertaken by:
 
 **Content of buyback notices**
 
-### (Art. 142 para. 2 and 143 para. 2 FMIA)
+### (Art. 142 para. 2 and 143 para. 2 FinMIA)
 
 The buyback notice in accordance with Article 123 paragraph 1 letter g and paragraph 2 letter c must contain at least the following information:
 
@@ -2246,7 +2501,7 @@ The buyback notice in accordance with Article 123 paragraph 1 letter g and parag
   - 1\. its identity,
   - 2\. the issued capital,
   - 3\. its holding of its own capital,
-  - 4\. the shareholder participations in accordance with Article 120 FMIA;
+  - 4\. the shareholder participations in accordance with Article 120 FinMIA;
 
 - b. the nature, purpose and object of the buyback programme;
 - c. the schedule.
@@ -2255,25 +2510,29 @@ The buyback notice in accordance with Article 123 paragraph 1 letter g and parag
 
 **Price stabilisation after a public placement of securities**
 
-### (Art. 142 para. 2 and 143 para. 2 FMIA)
+### (Art. 142 para. 2 and 143 para. 2 FinMIA)
 
-Securities transactions which are intended to stabilise the price of a security that has been admitted to trading on a stock exchange in Switzerland and fall under Article 142 paragraph 1 letter a and Article 143 paragraph 1 FMIA are permissible if:
+Securities transactions which are intended to stabilise the price of a security that has been admitted to trading on a trading venue or DLT trading facility in Switzerland and which fall under Article 142 paragraph 1 letter a and Article 143 paragraph 1 of the FinMIA are permissible if:[^126-1]
 
 - a. they are carried out within 30 days of the public placement of the securities to be stabilised;
 - b. they are executed at a price that is no higher than the issue price, or, in the case of trading with subscription or conversion rights, at a price that is no higher than the market price;
 - c. the maximum period during which the securities transactions can be carried out and the identity of the securities firm responsible for carrying them out are published before the start of trading with the securities to be stabilised;
-- d. they are reported to the stock exchange at the latest on the fifth stock market day following their execution and published by the issuer at the latest on the fifth stock market day after the expiry of the deadline under letter a; and
-- e. the issuer informs the public at the latest on the fifth trading day following the exercising of an overallotment option (greenshoe) about the timing of the exercising, as well as the number and type of the securities concerned.
+- d.[^126-2] they are reported to the trading venue or DLT trading facility at the latest on the fifth trading day following their execution and published by the issuer at the latest on the fifth trading day after the expiry of the deadline under letter a; and
+- e.[^126-3] the issuer informs the public at the latest on the fifth trading day following the exercising of an overallotment option (greenshoe) about the timing of the exercising, as well as the number and type of the securities concerned.
+
+[^126-1]: Amended by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^126-2]: Amended by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^126-3]: Amended by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 127
 
 **Other permissible securities transactions**
 
-### (Art. 142 para. 2 and 143 para. 2 FMIA)
+### (Art. 142 para. 2 and 143 para. 2 FinMIA)
 
 <sup>1</sup>
 
-The following securities transactions are permissible even if they fall under Article 142 paragraph 1 letter a and Article 143 paragraph 1 FMIA:
+The following securities transactions are permissible even if they fall under Article 142 paragraph 1 letter a and Article 143 paragraph 1 FinMIA:
 
 - a. securities transactions to implement an own decision to carry out a securities transaction, in particular the purchase of securities of the target company by the potential offeror with regard to the publication of a public takeover offer, provided the decision was not taken on the basis of insider information;
 - b.
@@ -2303,9 +2562,9 @@ Paragraph 1 may also be declared applicable to securities transactions carried o
 
 **Admissible communication of insider information**
 
-### (Art. 142 para. 2 FMIA)
+### (Art. 142 para. 2 FinMIA)
 
-The communication of insider information to a person does not fall under Article 142 paragraph 1 letter b FMIA if:
+The communication of insider information to a person does not fall under Article 142 paragraph 1 letter b FinMIA if:
 
 - a. this person requires the insider information in order to fulfil his or her statutory or contractual obligations; or
 - b.
@@ -2327,7 +2586,7 @@ The communication of insider information to a person does not fall under Article
 
 <sup>1ter</sup> Foreign branches of Swiss securities firms and foreign participants on a trading venue must fulfil their duties under Article 36 paragraph 2 and Article 37 paragraph 1 letter d and paragraph 2 no later than 1 January 2019.[^129-4]
 
-<sup>2</sup> The exemption from the reporting duty set out in Article 37 paragraph 4 may be claimed up to 31 December 2017 without an agreement in accordance with Article 32 paragraph 3 FMIA or an exchange of information between FINMA and the competent foreign supervisory authority.
+<sup>2</sup> The exemption from the reporting duty set out in Article 37 paragraph 4 may be claimed up to 31 December 2017 without an agreement in accordance with Article 32 paragraph 3 FinMIA or an exchange of information between FINMA and the competent foreign supervisory authority.
 
 [^129-1]: Amended by No I of the O of 29 June 2016, in force since 1 Aug. 2016 ([AS 2016 2703](https://fedlex.data.admin.ch/eli/oc/2016/434))
 [^129-2]: Amended by No I of the O of 5 July 2017, in force since 1 Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
@@ -2340,7 +2599,7 @@ The communication of insider information to a person does not fall under Article
 
 <sup>1</sup>
 
-The duty to report to a trade repository under Article 104 FMIA must be fulfilled at the latest:
+The duty to report to a trade repository under Article 104 FinMIA must be fulfilled at the latest:
 
 - a. within six months of the first authorisation or recognition of the trade repository by FINMA: for derivatives transactions outstanding at this point if the person obliged to report is not a small financial counterparty or a central counterparty;
 - b. within nine months of the first authorisation or recognition of the trade repository by FINMA: for derivatives transactions outstanding at this point if the person obliged to report is a small financial counterparty or a non-financial counterparty which is not small;
@@ -2358,12 +2617,12 @@ The duty to report to a trade repository under Article 104 FMIA must be fulfille
 
 <sup>1</sup>
 
-The duties that apply with respect to timely confirmation, portfolio reconciliation, dispute resolution and portfolio compression in accordance with Article 108 letters a to d FMIA shall apply by the following deadlines following the entry into force of this Ordinance:
+The duties that apply with respect to timely confirmation, portfolio reconciliation, dispute resolution and portfolio compression in accordance with Article 108 letters a to d FinMIA shall apply by the following deadlines following the entry into force of this Ordinance:
 
 - a. after 12 months: for derivatives transactions outstanding at this point between counterparties that are not small, and for derivatives transactions outstanding at this point with a small financial counterparty;
 - b. after 18 months: for all other derivatives transactions outstanding at this point.
 
-<sup>2</sup> The duty to value outstanding derivatives transactions in accordance with Article 109 FMIA shall apply to outstanding derivatives transactions 12 months after the entry into force of this Ordinance.
+<sup>2</sup> The duty to value outstanding derivatives transactions in accordance with Article 109 FinMIA shall apply to outstanding derivatives transactions 12 months after the entry into force of this Ordinance.
 
 <sup>3</sup> The duty to exchange collateral in accordance with Article 110 of the FinMIA applies only to derivatives transactions concluded after the duties under paragraphs 4 and 5<sup>bis</sup> have entered into force.[^131-1]
 
@@ -2384,7 +2643,7 @@ The duty to exchange initial margins shall apply for counterparties whose aggreg
 - d. is greater than CHF 750 billion for each of the months of March, April and May 2019: from 1 September 2019;
 - d<sup>bis</sup>.[^131-2] is greater than CHF 50 billion for each of the months of March, April and May 2020: from 1 September 2020;
 - e.[^131-3] is greater than CHF 8 billion for each of the months of March, April and May 2020: from 1 September 2021.[^131-4]
-- [tab] <sup>5bis</sup> The duty to exchange collateral applies from 4 January 2020 for non-centrally cleared OTC derivatives transactions that are options on individual equities, index options or similar equity derivatives such as derivatives on baskets of equities.[^131-5]
+- [tab] <sup>5bis</sup> The duty to exchange collateral applies from 1 January 2024 for non-centrally cleared OTC derivatives transactions that are options on individual equities, index options or similar equity derivatives such as derivatives on baskets of equities.[^131-5]
 
 <sup>6</sup> FINMA may extend the timeframes set out in this Article in order to take account of recognised international standards and foreign legal developments.
 
@@ -2392,7 +2651,7 @@ The duty to exchange initial margins shall apply for counterparties whose aggreg
 [^131-2]: Inserted by Annex 1 No II 14 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^131-3]: Amended by Annex 1 No II 14 of the Financial Institutions Ordinance of 6 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^131-4]: Amended by No I of the O of 5 July 2017, in force since 1 Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^131-5]: Inserted by No I of the O of 5 July 2017, in force since 1 Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^131-5]: Inserted by No I of the O of 5 July 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)). Amended by No I 10 of the O of 18 June 2021 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 132
 
@@ -2463,10 +2722,10 @@ N: Not applicable
 <tr><td>3 Name of reporting counterparty</td><td colspan="2">Company or name of reporting counterparty</td><td colspan="2">M</td><td>M</td><td>N</td><td>Text consisting of a maximum of 100 characters</td><td></td></tr>
 <tr><td>4 Registered office of reporting counterparty</td><td colspan="2">Information on the registered office, consisting of a full address, city and country of the reporting counterparty</td><td colspan="2">M</td><td>M</td><td>N</td><td>Text consisting of a maximum of 500 characters</td><td></td></tr>
 <tr><td>5 Corporate sector of reporting counterparty</td><td colspan="2">Type of business activities of reporting counterparty</td><td colspan="2">M</td><td>M</td><td>N</td><td>For financial counterparties: – A = Banks in accordance with Article 1 paragraph 1 of the Banking Act of 8 November 1934[^annex2-lvlu1-3] – B = Securities firms in accordance with Article 41 of the Financial Institutions Act of 15 June 2018[^annex2-lvlu1-4] (FinIA) – C = Insurance and reinsurance companies in accordance with Article 2 paragraph 1 letter a of the Insurance Oversight Act of 17 December 2004[^annex2-lvlu1-5] – D = Group parent companies of a financial or insurance group or of a financial or insurance conglomerate – E = Managers of collective assets und fund management companies in accordance with Articles 24 and 32 FinIA – F = Collective investment schemes in accordance with the Collective Investment Schemes Act – G = Occupational pension schemes and investment foundations in accordance with Article 48 et seq. of the Federal Act of 25 June 1982[^annex2-lvlu1-6] on Occupational Old Age, Survivors' and Invalidity Pension Provision Non-financial counterparties: – H = Oil and natural gas – I = Basic materials (chemicals, raw materials) – J = Industrial companies (construction, electronics, production technology, transportation, etc.) – K = Consumer goods (food, household appliances, etc.) – L = Healthcare – M = Consumer service (travel, media, etc.) – N = Telecommunications – O = Utilities (electricity, water, etc.) – P = Technology (software and hardware) For central counterparties: – Q = Central counterparty</td><td></td></tr>
-<tr><td>6 Status of reporting counterparty</td><td colspan="2">Indication whether the reporting counterparty is a financial or non-financial counterparty and whether the counterparty is small in accordance with Articles 98 and 99 FMIA</td><td colspan="2">M</td><td>M</td><td>N</td><td>FP = Financial counterparty which is not considered a small financial counterparty under Article 99 FMIA FM = Small financial counterparty under Article 99 FMIA NP = Non-financial counterparty under Article 93 paragraph 3 FMIA which is not considered a small non-financial counterparty under Article 98 FMIA NM = Non-financial counterparty under Article 93 paragraph 3 FMIA Q = Central counterparty</td><td></td></tr>
+<tr><td>6 Status of reporting counterparty</td><td colspan="2">Indication whether the reporting counterparty is a financial or non-financial counterparty and whether the counterparty is small in accordance with Articles 98 and 99 FinMIA</td><td colspan="2">M</td><td>M</td><td>N</td><td>FP = Financial counterparty which is not considered a small financial counterparty under Article 99 FinMIA FM = Small financial counterparty under Article 99 FinMIA NP = Non-financial counterparty under Article 93 paragraph 3 FinMIA which is not considered a small non-financial counterparty under Article 98 FinMIA NM = Non-financial counterparty under Article 93 paragraph 3 FinMIA Q = Central counterparty</td><td></td></tr>
 <tr><td>7 Reporting entity ID</td><td colspan="2">Code for identifying reporting entity</td><td colspan="2">M</td><td>M</td><td>M</td><td>Valid Legal Entity Identifier (LEI) consisting of 20 characters</td><td></td></tr>
 <tr><td>8 ID of clearing member of reporting counterparty</td><td colspan="2">Code for identifying the clearing member of the reporting counterparty</td><td colspan="2">U</td><td>U</td><td>N</td><td>Legal Entity Identifier (LEI) consisting of 20 characters, validity may already have lapsed If LEI is not available: Business Identifier Code (BIC) in accordance with ISO 9362:2014 consisting of 11 characters</td><td>Must be indicated if the reporting counterparty is not a clearing member and the transaction in question is a centrally cleared transaction</td></tr>
-<tr><td>9 Clearing threshold</td><td colspan="2">Indication as to whether the reporting counterparty exceeds the clearing threshold at the time of reporting in accordance with Articles 98 or 99 FMIA</td><td colspan="2">M</td><td>M</td><td>N</td><td>Y = The reporting counterparty has exceeded the threshold in accordance with Article 100 FMIA at the time of reporting. N = The reporting counterparty has not exceeded the threshold in accordance with Article 100 FMIA at the time of reporting.</td><td></td></tr>
+<tr><td>9 Clearing threshold</td><td colspan="2">Indication as to whether the reporting counterparty exceeds the clearing threshold at the time of reporting in accordance with Articles 98 or 99 FinMIA</td><td colspan="2">M</td><td>M</td><td>N</td><td>Y = The reporting counterparty has exceeded the threshold in accordance with Article 100 FinMIA at the time of reporting. N = The reporting counterparty has not exceeded the threshold in accordance with Article 100 FinMIA at the time of reporting.</td><td></td></tr>
 <tr><td colspan="3">Section 2*a* — Contract type</td><td colspan="2"></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>10 Product taxonomy</td><td colspan="2">Taxonomy of the product code of the contract</td><td colspan="2">M</td><td>M</td><td>N</td><td>U = Unique Product Identifier (UPI) in accordance with recognised international standards If UPI is not available: I = International Securities Identification Number (ISIN) in accordance with ISO 6166:2013 If neither UPI nor ISIN is available: A = Alternative Instrument Identifier (AII) in accordance with ESMA guidelines If neither UPI, ISIN nor AII is available: E = Exchange Product Code (EPC) issued by the relevant trading venue If none of these codes is available: N = Not available C = Classification of Financial Instruments (CFI) in accordance with ISO 10962:2015</td><td>The order of the permitted values corresponds to the expected value depending on its availability.</td></tr>
 <tr><td>11 ID of product</td><td colspan="2">Details of the product code of the contract</td><td colspan="2">M</td><td>M</td><td>N</td><td>Valid code as per taxonomy used</td><td></td></tr>
@@ -2504,10 +2763,10 @@ N: Not applicable
 <tr><td>42 Type of framework agreement</td><td colspan="2">Reference to the framework agreement if used for the reported contract</td><td colspan="2">O</td><td>O</td><td>N</td><td>Text with a maximum of 50 characters</td><td>Sample values «ISDA Master Agreement», «Master Power Purchase and Sale Agreement», «International ForEx Master Agreement», «European Master Agreement» or any local or internal framework agreements</td></tr>
 <tr><td>43 Version of framework agreement</td><td colspan="2">Year of the framework agreement version used for the reported trade, if applicable</td><td colspan="2">O</td><td>O</td><td>N</td><td>Text with a maximum of 20 characters</td><td>Sample values: «1992», «2002»</td></tr>
 <tr><td colspan="3">Section 2*c* — Clearing</td><td colspan="2"></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>44 Clearing duty</td><td colspan="2">Indication as to whether the reported contract and both counterparties are subject to a clearing duty under Article 97 et seq. FMIA</td><td colspan="2">M</td><td>N</td><td>N</td><td>Y = The reported contract and both counterparties are subject to a Swiss clearing duty N = The value «Y» is not applicable</td><td></td></tr>
+<tr><td>44 Clearing duty</td><td colspan="2">Indication as to whether the reported contract and both counterparties are subject to a clearing duty under Article 97 et seq. FinMIA</td><td colspan="2">M</td><td>N</td><td>N</td><td>Y = The reported contract and both counterparties are subject to a Swiss clearing duty N = The value «Y» is not applicable</td><td></td></tr>
 <tr><td>45 Date of clearing</td><td colspan="2">Date of clearing if the contract was settled via a central counterparty</td><td colspan="2">U</td><td>O</td><td>N</td><td>Data format in accordance with ISO 8601:2004</td><td>Must be provided in the case of a centrally cleared transaction</td></tr>
 <tr><td>46 ID of central counterparty</td><td colspan="2">Indication of the standard code of the central counterparty which cleared the contract</td><td colspan="2">U</td><td>O</td><td>N</td><td>Valid LEI consisting of 20 characters If LEI is not available: BIC in accordance with ISO 9362:2014 consisting of 11 characters</td><td>Must be provided in the case of a centrally cleared transaction</td></tr>
-<tr><td>47 Intra-group transactions</td><td colspan="2">Indication as to whether the contract was entered into as an intra-group transaction in accordance with Article 103 FMIA</td><td colspan="2">M</td><td>M</td><td>N</td><td>Y = The transaction is an intra-group transaction in accordance with Article 103 FMIA N = The value «Y» is not applicable</td><td></td></tr>
+<tr><td>47 Intra-group transactions</td><td colspan="2">Indication as to whether the contract was entered into as an intra-group transaction in accordance with Article 103 FinMIA</td><td colspan="2">M</td><td>M</td><td>N</td><td>Y = The transaction is an intra-group transaction in accordance with Article 103 FinMIA N = The value «Y» is not applicable</td><td></td></tr>
 <tr><td colspan="2">Section 2*d* — Interest rates</td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>48 Interest type leg 1</td><td colspan="2">Indication of the type of interest rate of leg 1</td><td colspan="2">U</td><td>U</td><td>N</td><td>F = Fixed interest rate L = Variable interest rate</td><td></td></tr>
 <tr><td>49 Interest type leg 2</td><td colspan="2">Indication of the type of interest rate of leg 2</td><td colspan="2">U</td><td>U</td><td>N</td><td>F = Fixed interest rate L = Variable interest rate</td><td>Must be provided for interest rate swaps</td></tr>
@@ -2551,8 +2810,8 @@ N: Not applicable
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td>M = Modification of erroneous data, supplementation of missing data or updating of positions</td><td></td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td>E = Report was made erroneously and should be deleted</td><td>E.g. the double reporting of the same transactions with a different «trade ID»</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td>C = Premature termination/cancellation of a contract</td><td>Predefined termination does not need to be reported. For modification reports, «Report type» = «M» should be used.</td></tr>
-<tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td>Z = Compression of an OTC derivatives transaction</td><td>Intended for compressions in accordance with Article 108 letter d FMIA. The transaction is thereby closed.</td></tr>
-<tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td>V = Reporting of a valuation</td><td>Ongoing report of valuations in accordance with Article 109 FMIA. The first valuation report can be entered either as «Report type» = «N» or in a subsequent report as «Report type» = «V». In the case of centrally cleared transactions, the valuation of the central counterparty is to be used. No valuation is to be reported for transactions that do not have to be valued by law.</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td>Z = Compression of an OTC derivatives transaction</td><td>Intended for compressions in accordance with Article 108 letter d FinMIA. The transaction is thereby closed.</td></tr>
+<tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td>V = Reporting of a valuation</td><td>Ongoing report of valuations in accordance with Article 109 FinMIA. The first valuation report can be entered either as «Report type» = «N» or in a subsequent report as «Report type» = «V». In the case of centrally cleared transactions, the valuation of the central counterparty is to be used. No valuation is to be reported for transactions that do not have to be valued by law.</td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td>D = Modification of the «Trade ID», provided this had not yet been determined at the time of reporting.</td><td></td></tr>
 <tr><td></td><td colspan="2"></td><td colspan="2"></td><td></td><td></td><td>L = Modifications that arise as a result of certain events during the term of the contract and for which no other value applies (lifecycle events)</td><td>All events during the term of exchange-traded derivatives must always be reported at position level. An example of this kind of event is the partial exercise of an option which reduces the overall position of this option.</td></tr>
 <tr><td>79 Report level</td><td colspan="2"></td><td colspan="2">M</td><td>M</td><td>N</td><td>T = Transaction P = Position</td><td>A renewed report has to be submitted for a position only if it has changed. It is permissible to report derivatives transactions only at transaction level.</td></tr>
@@ -2577,7 +2836,7 @@ Annex 3
 - 2\.1 The net initial margin is deemed to be the reduced amount of the initial margin requirements for all derivatives contracts with a counterparty included in a netting set;
 - 2\.2 The NGR is the net gross ratio, calculated as the ratio between the net replacement value of a netting set with a counterparty (numerator of ratio) and the gross replacement value of this netting set (denominator of ratio);
 - 2\.3 The net replacement value of a netting set is the sum of the market values of all transactions, whereby no negative values are permitted;
-- 2\.4 The gross replacement value of a netting set is the sum of the market values of all transactions in accordance with Article 109 FMIA and Article 99 FMIO with positive values in the netting set.
+- 2\.4 The gross replacement value of a netting set is the sum of the market values of all transactions in accordance with Article 109 FinMIA and Article 99 FinMIO with positive values in the netting set.
 
 Annex 4*[^t-2]*
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2015 über die Finanzmarktinfrastrukturen un
 short: FinfraV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/854"
 language: de
-version: 2020-10-01
+version: 2021-08-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20201001/de/xml/fedlex-data-admin-ch-eli-cc-2015-854-20201001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20201001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/854/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2015-854-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/854/20201001/de"
 
 (Finanzmarktinfrastrukturverordnung, FinfraV)
 
-vom 25. November 2015 (Stand am 1. Oktober 2020)
+vom 25. November 2015 (Stand am 1. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -49,7 +49,7 @@ Diese Verordnung regelt namentlich:
 
 ### (Art. 2 Bst. b und c FinfraG)
 
-<sup>1</sup> Als vereinheitlichte und zum massenweisen Handel geeignete Effekten gelten Wertpapiere, Wertrechte, Derivate und Bucheffekten, die in gleicher Struktur und Stückelung öffentlich angeboten oder bei mehr als 20 Kundinnen und Kunden platziert werden, sofern sie nicht für einzelne Gegenparteien besonders geschaffen werden.
+<sup>1</sup> Effekten gelten als vereinheitlicht und zum massenweisen Handel geeignet, wenn sie in gleicher Struktur und Stückelung öffentlich angeboten oder bei mehr als 20 Kundinnen und Kunden platziert werden, sofern sie nicht für einzelne Gegenparteien besonders geschaffen werden.[^2-1]
 
 <sup>2</sup>
 
@@ -80,6 +80,8 @@ Als Kassageschäfte gelten Geschäfte, die unmittelbar oder nach Ablauf der aufg
 - a. Geschäfte, die innerhalb der für das Währungspaar marktüblichen längeren Abwicklungsfrist abgewickelt werden;
 - b. Käufe oder Verkäufe von Effekten unabhängig von ihrer Währung, die innerhalb der marktüblichen oder regulatorisch vorgeschriebenen Abwicklungsfrist bezahlt werden;
 - c. Geschäfte, die kontinuierlich verlängert werden, ohne dass dazu eine rechtliche Verpflichtung besteht oder eine Verlängerung unter den Parteien üblich wäre.
+
+[^2-1]: Fassung gemäss Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 3
 
@@ -307,7 +309,26 @@ Als wesentliche Dienstleistungen gelten namentlich auch:
   bei Zahlungssystemen:
 
   - 1\. die Entgegennahme und Ausführung von Zahlungsaufträgen der Teilnehmer,
-  - 2\. das Führen von Verrechnungskonten.
+  - 2\. das Führen von Verrechnungskonten;
+
+- f.[^12-1]
+
+  bei Handelssystemen für Distributed Ledger Technology-Effekten (DLT-Handelssystemen), die keine Dienstleistungen nach Artikel 73*a* Absatz 1 Buchstabe b oder c FinfraG erbringen:
+
+  - 1\. sämtliche auf die Gewährleistung eines fairen, effizienten und ordnungsgemässen Handels abzielenden Tätigkeiten,
+  - 2\. das Betreiben von *Matching*- und Marktdatenverteilungssystemen;
+
+- g.[^12-2]
+
+  bei DLT-Handelssystemen, die Dienstleistungen nach Artikel 73*a* Absatz 1 Buchstabe b oder c FinfraG erbringen:
+
+  - 1\. die Dienstleistungen nach Buchstabe f,
+  - 2\. die zentrale Verwahrung von DLT-Effekten oder die Abrechnung und Abwicklung von Geschäften mit DLT-Effekten,
+  - 3\. das erstmalige Verbuchen von DLT-Effekten in einem Effektenkonto,
+  - 4\. die Bestandesabstimmung.
+
+[^12-1]: Eingefügt durch Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^12-2]: Eingefügt durch Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 13
 
@@ -319,13 +340,22 @@ Als wesentliche Dienstleistungen gelten namentlich auch:
 
 Das Mindestkapital beträgt für:
 
-- a. Handelsplätze: 1 Million Franken, wobei die FINMA in begründeten Fällen einen bis zu 50 Prozent höheren Mindestbetrag festlegen kann;
+- a.[^13-1] Handelsplätze: 1 Million Franken;
 - b. zentrale Gegenparteien: 10 Millionen Franken;
 - c. Zentralverwahrer: 5 Millionen Franken;
 - d. Transaktionsregister: 500 000 Franken;
-- e. Zahlungssysteme: 1,5 Millionen Franken.
+- e. Zahlungssysteme: 1,5 Millionen Franken;
+- f.[^13-2] DLT-Handelssysteme, die keine Dienstleistungen nach Artikel 73*a* Absatz 1 Buchstabe b oder c FinfraG erbringen: 1 Million Franken;
+- g.[^13-3] DLT-Handelssysteme, die Dienstleistungen nach Artikel 73*a* Absatz 1 Buchstabe b oder c FinfraG erbringen: 5 Millionen Franken.
+
+<sup>1bis</sup> Die FINMA kann für Handelsplätze und DLT-Handelssysteme in begründeten Fällen einen bis zu 50 Prozent höheren Mindestbetrag festlegen.[^13-4]
 
 <sup>2</sup> Bei Sacheinlagegründungen sind der Wert der eingebrachten Aktiven und der Umfang der Passiven durch eine zugelassene Prüfgesellschaft zu überprüfen. Dies gilt auch bei der Umwandlung eines bestehenden Unternehmens in eine Finanzmarktinfrastruktur.
+
+[^13-1]: Fassung gemäss Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-2]: Eingefügt durch Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-3]: Eingefügt durch Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^13-4]: Eingefügt durch Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 14
 
@@ -510,15 +540,21 @@ Als nichtdiskretionär gelten Regeln, die dem Handelsplatz oder dem Betreiber ei
 Eine angemessene Regulierungs- und Überwachungsorganisation umfasst insbesondere folgende Stellen:
 
 - a. eine Stelle, die Regulierungsaufgaben wahrnimmt;
-- b. eine Handelsüberwachungsstelle;
+- b.[^24-1] eine Stelle, die Überwachungsaufgaben wahrnimmt;
 - c. eine Stelle für die Zulassung von Effekten zum Handel;
 - d. eine Beschwerdeinstanz.
 
-<sup>2</sup> Die Stellen, welche die Regulierungs- und Überwachungsaufgaben des Handelsplatzes wahrnehmen, müssen von der Geschäftsführung des Handelsplatzes personell und organisatorisch unabhängig sein. Sie sind organisatorisch, personell und finanziell ausreichend auszurüsten.
+<sup>2</sup> Die Stelle, welche die Regulierungsaufgaben des Handelsplatzes wahrnimmt, muss von der Geschäftsführung des Handelsplatzes sowie mehrheitlich von den Teilnehmern und Emittenten personell und organisatorisch unabhängig sein. Sie ist organisatorisch, personell und finanziell ausreichend auszurüsten.[^24-2]
+
+<sup>2bis</sup> Die Stelle, welche die Überwachungsaufgaben des Handelsplatzes wahrnimmt, muss von der Geschäftsführung des Handelsplatzes sowie von den Teilnehmern und Emittenten personell und organisatorisch unabhängig sein. Sie ist organisatorisch, personell und finanziell ausreichend auszurüsten.[^24-3]
 
 <sup>3</sup> Im Organ, das für die Zulassung der Effekten zuständig ist, müssen Emittenten sowie Anlegerinnen und Anleger angemessen vertreten sein.
 
 <sup>4</sup> Der Handelsplatz legt die Aufgaben und Kompetenzen der Stellen sowie die Vertretung der Emittenten und der Anlegerinnen und Anleger im Organ, das für die Zulassung der Effekten zuständig ist, in seinen Reglementen fest.
+
+[^24-1]: Fassung gemäss Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^24-2]: Fassung gemäss Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^24-3]: Eingefügt durch Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 25
 
@@ -1049,6 +1085,224 @@ Als Liquidität in einer Währung nach Artikel 67 Absatz 1 FinfraG gelten:
 <sup>2</sup> Der Zentralverwahrer prüft regelmässig die Einhaltung der Anforderungen gemäss Artikel 67 Absatz 1 FinfraG unter verschiedenen Stressszenarien. Dabei wendet er auf die Liquidität Sicherheitsabschläge an, die auch unter extremen, aber plausiblen Marktbedingungen angemessen sind. Er diversifiziert seine Liquiditätsgeber.
 
 <sup>3</sup> Die Anlagestrategie des Zentralverwahrers muss im Einklang mit seiner Risikomanagementstrategie stehen. Er hat Klumpenrisiken zu vermeiden.
+
+### 4*a*. Kapitel:**** DLT-Handelssysteme
+
+[^tit2-chap4a-1]
+
+[^tit2-chap4a-1]: Eingefügt durch Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+
+### 1. Abschnitt: Begriffe
+
+#### Art. 58a
+
+**Multilateraler Handel und nichtdiskretionäre Regeln**
+
+### (Art. 73*a* Abs. 1 FinfraG)
+
+Die Begriffsdefinitionen zum multilateralen Handeln und zu den nichtdiskretionären Regeln nach den Artikeln 22 und 23 gelten für DLT-Handelssysteme sinngemäss.
+
+#### Art. 58b
+
+**Gewerbsmässigkeit**
+
+### (Art. 73*a* Abs. 2 FinfraG)
+
+<sup>1</sup>
+
+Ein DLT-Handelssystem übt seine Tätigkeit gewerbsmässig aus, wenn es:
+
+- a. damit pro Kalenderjahr einen Bruttoertrag von mehr als 50 000 Franken erzielt;
+- b. pro Kalenderjahr mit mehr als 20 Teilnehmern nach Artikel 73*c* Absatz 1 Buchstabe e FinfraG (private Teilnehmerinnen und Teilnehmer) oder mit mindestens einem Teilnehmer nach Artikel 73*c* Absatz 1 Buchstaben a–d FinfraG Geschäftsbeziehungen unterhält; oder
+- c. unbefristete Verfügungsmacht über fremde DLT-Effekten hat, die zu einem beliebigen Zeitpunkt 5 Millionen Franken überschreiten.
+
+<sup>2</sup> Wird ein Schwellenwert nach Absatz 1 überschritten, so muss das DLT-Handelssystem dies innerhalb von 10 Tagen der FINMA melden. Es muss ihr innerhalb von 60 Tagen ein Bewilligungsgesuch nach den Vorschriften des FinfraG einreichen.
+
+<sup>3</sup> Die FINMA kann, sofern es der Schutzzweck des FinfraG gebietet, der Gesuchstellerin oder dem Gesuchsteller untersagen, bis zum Entscheid über das Bewilligungsgesuch die einem DLT-Handelssystem vorbehaltenen Tätigkeiten auszuüben.
+
+### 2. Abschnitt: Anforderungen
+
+#### Art. 58c
+
+**Geltung bestimmter für Handelsplätze aufgestellter Anforderungen**
+
+### (Art. 73*b* FinfraG)
+
+<sup>1</sup> Für DLT-Handelssysteme gelten die Artikel 24–32 und 35 sinngemäss, soweit dieser Abschnitt nichts anderes bestimmt.
+
+<sup>2</sup> Anstelle der Möglichkeit nach Artikel 30 Absatz 2 Buchstabe f, in Ausnahmefällen jedes Geschäft zu stornieren, zu ändern oder zu berichtigen, muss ein DLT-Handelssystem über einen Mechanismus verfügen, der wirtschaftlich vergleichbar wirkt.
+
+#### Art. 58d
+
+**Aufzeichnungs- und Meldepflicht**
+
+### (Art. 73*c* Abs. 3 FinfraG)
+
+<sup>1</sup> Die privaten Teilnehmerinnen und Teilnehmer sind von der Aufzeichnungspflicht nach Artikel 38 FinfraG und der Meldepflicht nach Artikel 39 FinfraG ausgenommen.
+
+<sup>2</sup> Für die übrigen Teilnehmer gelten die Artikel 36 und 37 dieser Verordnung sinngemäss.
+
+#### Art. 58e
+
+**Zulassung und Ausschluss von Teilnehmern**
+
+### (Art. 73*c* Abs. 4 und 5 FinfraG)
+
+<sup>1</sup> Das DLT-Handelssystem regelt im Reglement nach Artikel 73*c* Absatz 5 FinfraG, ob und welche privaten Teilnehmerinnen und Teilnehmer es zulässt.
+
+<sup>2</sup> Diskriminierungsfreier Zugang nach Artikel 18 FinfraG ist für private Teilnehmerinnen und Teilnehmer nicht zwingend zu gewähren.
+
+#### Art. 58f
+
+**Zulassung von DLT-Effekten und weiteren Vermögenswerten**
+
+### (Art. 73*d* FinfraG)
+
+<sup>1</sup> Das DLT-Handelssystem regelt im Reglement nach Artikel 73*d* FinfraG, welche DLT-Effekten und weiteren Vermögenswerte es zu seinen Dienstleistungen zulässt. Es kann die zugelassenen DLT-Effekten und Vermögenswerte im Reglement einzeln bezeichnen oder nach ihrer Art und Funktion umschreiben.
+
+<sup>2</sup> Lässt das DLT-Handelssystem als DLT-Effekten ausgestaltete Derivate zu, so dürfen ausschliesslich Produkte ohne Zeitwert- und Hebelkomponente zum Handel zugelassen werden.
+
+<sup>3</sup> DLT-Effekten und weitere Vermögenswerte, welche die Umsetzung der Anforderungen des Geldwäschereigesetzes vom 10. Oktober 1997[^58f-1] erheblich erschweren oder die Stabilität und die Integrität des Finanzsystems beeinträchtigen könnten, dürfen nicht zugelassen werden. Die FINMA kann diese DLT-Effekten und Vermögenswerte näher umschreiben.
+
+<sup>4</sup> Das DLT-Handelssystem sieht im Reglement Verfahren vor für den Entzug der Zulassung von DLT-Effekten und weiteren Vermögenswerten.
+
+<sup>5</sup> Die Anforderungen nach Artikel 34 gelten sinngemäss.
+
+[^58f-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+#### Art. 58g
+
+**Mindestanforderungen an die Zulassung von DLT-Effekten und regelmässige Prüfung**
+
+### (Art. 73*d* Abs. 3 FinfraG)
+
+<sup>1</sup> DLT-Effekten können vom DLT-Handelssystem zugelassen werden, wenn das verteilte elektronische Register mindestens die Anforderungen nach Artikel 973*d* Absatz 2 OR[^58g-1] erfüllt.
+
+<sup>2</sup> Wird das verteilte elektronische Register nicht vom betreffenden DLT-Handelssystem selbst betrieben, so prüft dieses das Register vor der Zulassung entsprechender DLT-Effekten und anschliessend regelmässig, mindestens jedoch einmal jährlich auf Einhaltung der Anforderungen nach Absatz 1.
+
+<sup>3</sup> Es informiert seine Teilnehmer über die durchgeführten Prüfungen und deren Ergebnisse.
+
+[^58g-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 58h
+
+**Meldungen zu Transaktionen**
+
+### (Art. 73*d* FinfraG)
+
+<sup>1</sup> Das DLT-Handelssystem überwacht alle auf seinen Systemen getätigten Transaktionen mit zugelassenen DLT-Effekten. Es meldet diese Transaktionen kostenlos sämtlichen bewilligten DLT-Handelssystemen.
+
+<sup>2</sup> Beziehen sich die am DLT-Handelssystem zugelassenen DLT-Effekten auf Effekten, die auch an einem Schweizer Handelsplatz zum Handel zugelassen sind, so meldet das DLT-Handelssystem dem entsprechenden Handelsplatz kostenlos sämtliche Transaktionen mit diesen DLT-Effekten.
+
+<sup>3</sup> Die Handelsplätze und DLT-Handelssysteme verwenden diese Daten ausschliesslich zur Erfüllung ihrer Aufgaben im Bereich der Handelsüberwachung.
+
+<sup>4</sup> Die FINMA kann die Einzelheiten dieser Meldungen regeln.
+
+#### Art. 58i
+
+**Informationspflichten**
+
+### (Art. 73*e* Abs. 1 FinfraG)
+
+<sup>1</sup> DLT-Handelssysteme mit privaten Teilnehmerinnen und Teilnehmern stellen diesen für jede am DLT-Handelssystem zugelassene DLT-Effekte gegebenenfalls den zugehörigen Prospekt oder das Basisinformationsblatt zur Verfügung.
+
+<sup>2</sup>
+
+Sie informieren diese Teilnehmerinnen und Teilnehmer über folgende Aspekte des verteilten elektronischen Registers der betreffenden DLT-Effekten:
+
+- a. seine Governance; und
+- b. seine technischen Risiken, namentlich Verlustrisiken.
+
+<sup>3</sup> Sie veröffentlichen zudem umgehend Informationen zu den am DLT-Handelssystem getätigten Abschlüssen mit weiteren Vermögenswerten, insbesondere den Preis, das Volumen und den Zeitpunkt der Abschlüsse.
+
+#### Art. 58j
+
+**Weitere Anforderungen betreffend Dienstleistungen im Bereich der zentralen Verwahrung, Abrechnung oder Abwicklung**
+
+### (Art. 73*e* Abs. 2 FinfraG)
+
+<sup>1</sup> Für DLT-Handelssysteme, die Dienstleistungen nach Artikel 73*a* Absatz 1 Buchstabe b oder c FinfraG erbringen, gelten die Anforderungen für Zentralverwahrer nach den Artikeln 62–73 FinfraG und den Artikeln 52–58 dieser Verordnung sinngemäss, soweit dieser Abschnitt nichts anderes bestimmt.
+
+<sup>2</sup> Die Segregierung nach Artikel 69 FinfraG kann im den DLT-Effekten zugrundeliegenden verteilten elektronischen Register oder in den Systemen des DLT-Handelssystems erfolgen.
+
+<sup>3</sup> Ein DLT-Handelssystem kann die Abwicklung von Zahlungen auch in anderer Weise als nach Artikel 65 Absatz 1 FinfraG ermöglichen, wenn es dazu ein von der FINMA beaufsichtigtes Institut beizieht.
+
+<sup>4</sup> Als Liquidität in einer Währung nach Artikel 67 Absatz 1 FinfraG gelten für ein DLT-Handelssystem auch kryptobasierte Vermögenswerte, sofern die Zahlungsverpflichtung in derselben virtuellen Währung zu begleichen ist.
+
+<sup>5</sup> Das DLT-Handelssystem muss in Abweichung von Artikel 52 keinen Nutzerausschuss einrichten.
+
+### 3. Abschnitt: Besondere Regelungen für kleine DLT-Handelssysteme
+
+#### Art. 58k
+
+**Kleine DLT-Handelssysteme**
+
+### (Art. 73*f* FinfraG)
+
+<sup>1</sup>
+
+Ein DLT-Handelssystem gilt als klein, wenn es in Bezug auf DLT-Effekten die folgenden Schwellenwerte unterschreitet:
+
+- a. Handelsvolumen: 250 Millionen Franken pro Jahr;
+- b. Verwahrungsvolumen: 100 Millionen Franken; und
+- c. Abwicklungsvolumen: 250 Millionen Franken pro Jahr.
+
+<sup>2</sup> Wird ein Schwellenwert erreicht oder überschritten, so muss das DLT-Handelssystem dies innerhalb von 10 Tagen der FINMA melden. Es muss ihr innert 90 Tagen ein angepasstes Bewilligungsgesuch nach den Vorschriften des FinfraG einreichen.
+
+<sup>3</sup> Es gilt nach 90 Tagen ab dem Zeitpunkt des Erreichens oder Überschreitens eines Schwellenwerts nicht mehr als klein. Bis zum Entscheid der FINMA über das Bewilligungsgesuch kann es jedoch die Erleichterungen für kleine DLT-Handelssysteme weiter in Anspruch nehmen.
+
+<sup>4</sup> Die FINMA kann, sofern es der Schutzzweck des FinfraG gebietet, dem DLT-Handelssystem untersagen, bis zum Entscheid über das Bewilligungsgesuch weitere Teilnehmer aufzunehmen.
+
+#### Art. 58l
+
+**Erleichterungen für kleine DLT-Handelssysteme**
+
+### (Art. 73*f* FinfraG)
+
+<sup>1</sup>
+
+Für kleine DLT-Handelssysteme gelten in Abweichung vom FinfraG und von dieser Verordnung folgende Erleichterungen:
+
+- a. Abweichend von Artikel 8 Absatz 2 zweiter Satz FinfraG sowie Artikel 8 Absatz 2 zweiter Satz dieser Verordnung ist es ausreichend, wenn die Mitglieder der Organe für die Oberleitung, Aufsicht und Kontrolle mehrheitlich nicht dem Organ für die Geschäftsleitung angehören.
+- b. Erhöht die Ausübung einer Nebendienstleistung, die nach den Finanzmarktgesetzen keiner Bewilligung oder Genehmigung bedarf, die Risiken eines DLT-Handelssystems, so kann die FINMA ausschliesslich organisatorische Massnahmen verlangen (Art. 10 Abs. 3 FinfraG). Betreibt das DLT-Handelssystem auch ein organisiertes Handelssystem (Art. 43 FinfraG), so kann die FINMA auch zusätzliche Eigenmittel und ausreichende Liquidität verlangen.
+- c. Die Anforderungen an die Geschäftskontinuität können auch dadurch erfüllt werden, dass bei Eintreten von Schadenereignissen der Betrieb des DLT- Handelssystems von einem anderen Bewilligungsträger übernommen wird (Art. 13 Abs. 1 FinfraG). Die Strategie und die Geschäftsauswirkungsanalyse nach Artikel 14 dieser Verordnung können vorsehen, dass der Betrieb des DLT-Handelssystems an einen Dritten übertragen wird.
+- d. Die dem DLT-Handelssystem übertragenen Regulierungsaufgaben können auch von einer nicht unabhängigen Stelle wahrgenommen werden (Art. 27 Abs. 2 FinfraG).
+- e. Eine unabhängige Beschwerdeinstanz ist nicht erforderlich (Art. 37 FinfraG).
+- f. Eine interne Revision ist nicht erforderlich (Art. 8 Abs. 1 Bst. c dieser Verordnung).
+
+<sup>2</sup>
+
+Für kleine DLT-Handelssysteme, die Dienstleistungen nach Artikel 73*a* Absatz 1 Buchstabe b oder c FinfraG erbringen, gelten ferner in Abweichung vom FinfraG folgende Erleichterungen:
+
+- a. Die Anforderungen betreffend Eigenmittel gelten nicht (Art. 66 FinfraG).
+- b. Die Anforderungen betreffend Liquidität gelten nicht (Art. 67 FinfraG).
+
+#### Art. 58m
+
+**Informationspflicht kleiner DLT-Handelssysteme**
+
+### (Art. 73*f* FinfraG)
+
+Kleine DLT-Handelssysteme informieren ihre Kundinnen und Kunden vor Aufnahme einer Geschäftsbeziehung schriftlich oder in einer anderen Form, die den Nachweis durch Text ermöglicht, über die spezifischen Erleichterungen, die das kleine DLT-Handelssystem nutzt.
+
+#### Art. 58n
+
+**Mindestkapital kleiner DLT-Handelssysteme**
+
+### (Art. 73*f* FinfraG)
+
+Für kleine DLT-Handelssysteme beträgt das Mindestkapital:
+
+- a. 500 000 Franken, falls sie keine Dienstleistungen nach Artikel 73*a* Absatz 1 Buchstabe b oder c erbringen;
+- b. 5 Prozent der verwahrten DLT-Effekten, jedoch mindestens 500 000 Franken, falls sie Dienstleistungen nach Artikel 73*a* Absatz 1 Buchstabe b oder c erbringen.
+
+#### Art. 58o
+
+**Verbot der Kreditgewährung**
+
+### (Art. 73*f* FinfraG)
+
+Kleine DLT-Handelssysteme dürfen keine Kredite gewähren.
 
 ### 5. Kapitel: Transaktionsregister
 
@@ -1841,7 +2095,7 @@ Fällt ein Geschäft in mehr als eine Derivatekategorie nach Absatz 2, so fällt
 
 <sup>5</sup> Finanzielle Gegenparteien, die einen von der FINMA genehmigten Marktrisiko-Modellansatz nach Artikel 88 der ERV[^103-1] für die Berechnung der nach Risiko gewichteten Positionen oder ein von der FINMA genehmigtes Marktmodell nach den Artikeln 50*a*–50*d* der Aufsichtsverordnung vom 9. November 2005[^103-2] zur Berechnung der Solvabilität im Rahmen des Schweizer Solvenztest (SST) verwenden, können die Ersteinschusszahlung gestützt darauf berechnen, solange sich kein international harmonisiertes, branchenweit anerkanntes Standardmodell etabliert hat. Die FINMA regelt die technischen Kriterien, die der Modellansatz oder das Marktmodell erfüllen muss.
 
-<sup>6</sup> …[^103-3]
+<sup>6</sup> ...[^103-3]
 
 [^103-1]: [SR 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 [^103-2]: [SR 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
@@ -2255,13 +2509,17 @@ Das Rückkaufinserat nach Artikel 123 Absatz 1 Buchstabe g und Absatz 2 Buchstab
 
 ### (Art. 142 Abs. 2 und 143 Abs. 2 FinfraG)
 
-Effektengeschäfte, die bezwecken, den Kurs einer Effekte, die an einer Börse in der Schweiz zum Handel zugelassen ist, zu stabilisieren und unter die Artikel 142 Absatz 1 Buchstabe a und 143 Absatz 1 FinfraG fallen, sind zulässig, wenn:
+Effektengeschäfte, die bezwecken, den Kurs einer Effekte, die an einem Handelsplatz oder einem DLT-Handelssystem in der Schweiz zum Handel zugelassen ist, zu stabilisieren, und die unter die Artikel 142 Absatz 1 Buchstabe a und 143 Absatz 1 FinfraG fallen, sind zulässig, wenn:[^126-1]
 
 - a. sie innerhalb von 30 Tagen nach der öffentlichen Platzierung der zu stabilisierenden Effekte getätigt werden;
 - b. sie höchstens zum Emissionspreis oder, beim Handel mit Bezugs- oder Wandelrechten, höchstens zum Marktpreis getätigt werden;
 - c. die Dauer, während der die Effektengeschäfte längstens getätigt werden können, und das für ihre Tätigung zuständige Wertpapierhaus vor Aufnahme des Handels mit der zu stabilisierenden Effekte veröffentlicht werden;
-- d. sie der Börse spätestens am fünften Börsentag nach der Vornahme gemeldet und vom Emittent spätestens am fünften Börsentag nach Ablauf der Frist gemäss Buchstabe a veröffentlicht werden; und
-- e. der Emittent die Öffentlichkeit spätestens am fünften Börsentag nach der Ausübung einer Mehrzuteilungsoption über den Zeitpunkt der Ausübung sowie die Anzahl und die Art der betroffenen Effekten informiert.
+- d.[^126-2] sie dem Handelsplatz oder dem DLT-Handelssystem spätestens am fünften Handelstag nach der Vornahme gemeldet und vom Emittent spätestens am fünften Handelstag nach Ablauf der Frist gemäss Buchstabe a veröffentlicht werden; und
+- e.[^126-3] der Emittent die Öffentlichkeit spätestens am fünften Handelstag nach der Ausübung einer Mehrzuteilungsoption über den Zeitpunkt der Ausübung sowie die Anzahl und die Art der betroffenen Effekten informiert.
+
+[^126-1]: Fassung gemäss Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^126-2]: Fassung gemäss Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^126-3]: Fassung gemäss Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 127
 
@@ -2383,7 +2641,7 @@ Die Pflicht zum Austausch der Ersteinschusszahlung gilt für Gegenparteien, dere
 - d<sup>bis</sup>.[^131-2] für die Monate März, April und Mai 2020 jeweils grösser ist als 50 Milliarden Franken: ab dem 1. September 2020;
 - e.[^131-3] für die Monate März, April und Mai 2021 jeweils grösser ist als 8 Milliarden Franken: ab dem 1. September 2021.[^131-4]
 
-<sup>5bis</sup> Die Pflicht zum Austausch von Sicherheiten für nicht zentral abgerechnete OTC-Derivatgeschäfte, bei denen es sich um Optionen auf einzelne Aktien, Indexoptionen oder ähnliche Aktienderivate wie Derivate auf Aktienkörbe handelt, gilt ab dem 4. Januar 2020.[^131-5]
+<sup>5bis</sup> Die Pflicht zum Austausch von Sicherheiten für nicht zentral abgerechnete OTC-Derivatgeschäfte, bei denen es sich um Optionen auf einzelne Aktien, Indexoptionen oder ähnliche Aktienderivate wie Derivate auf Aktienkörbe handelt, gilt ab dem 1. Januar 2024.[^131-5]
 
 <sup>6</sup> Die FINMA kann die Fristen nach diesem Artikel erstrecken, um anerkannten internationalen Standards und der ausländischen Rechtsentwicklung Rechnung zu tragen.
 
@@ -2391,7 +2649,7 @@ Die Pflicht zum Austausch der Ersteinschusszahlung gilt für Gegenparteien, dere
 [^131-2]: Eingefügt durch Anhang 1 Ziff. II 14 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^131-3]: Fassung gemäss Anhang 1 Ziff. II 14 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^131-4]: Fassung gemäss Ziff. I der V vom 5. Juli 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
-[^131-5]: Eingefügt durch Ziff. I der V vom 5. Juli 2017, in Kraft seit 1. Aug. 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)).
+[^131-5]: Eingefügt durch Ziff. I der V vom 5. Juli 2017 ([AS 2017 3715](https://fedlex.data.admin.ch/eli/oc/2017/429)). Fassung gemäss Ziff. I 10 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 132
 
@@ -2431,7 +2689,7 @@ Anhang 1
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annex1-lvlu1-1]
+...[^annex1-lvlu1-1]
 
 [^annex1-lvlu1-1]: Die Änderungen können unter [AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)konsultiert werden.
 
