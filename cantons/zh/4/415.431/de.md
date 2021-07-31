@@ -4,31 +4,35 @@ number: "415.431"
 title: Organisationsreglement der Medizinischen Fakultät der Universität Zürich (OrgR MeF)
 short: OrgR MeF
 language: de
-nachtrag: "104"
-valid_until: 2021-08-01
+nachtrag: "114"
 adopted: 2021-02-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_431-2018_12_04-2019_02_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_431-2021_02_10-2021_08_01-114.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Organisationsreglement der Medizinischen Fakultät der Universität Zürich (OrgR-MeF)
+# Organisationsreglement der Medizinischen Fakultät der Universität Zürich (OrgR MeF)
 
-(vom 4. Dezember 2018)[^t-1],[^t-2]
+(vom 10. Februar 2021)[^t-1]
 
-Die Erweiterte Universitätsleitung beschliesst:
+Die Fakultätsversammlung,
 
-[^t-1]: OS 74, 49; Begründung siehe ABl 2018-12-21.
-[^t-2]: Inkrafttreten: 1. Februar 2019.
+gestützt auf § 79 der Universitätsordnung der Universität Zürich vom 4. Dezember 1998 (UniO)[^t-2] sowie auf § 1 f der Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich vom 16. April 2003[^t-3],
 
-### 1. Teil: Allgemeine Bestimmungen
+beschliesst:
+
+[^t-1]: OS 76, 241; Begründung siehe ABl 2021-06-04.
+[^t-2]: LS 415.111.
+[^t-3]: LS 415.16.
+
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### § 1
 
 **Regelungsbereich**
 
-Dieses Reglement regelt die Organisation der Medizinischen Fakultät der Universität Zürich, die Aufgaben ihrer Organe und Organisationseinheiten sowie die Organisation und Aufgaben des Direktoriums als Organ der Universitären Medizin Zürich (UMZH).
+Dieses Reglement regelt die Organisation der Medizinischen Fakultät der Universität Zürich (UZH), die Aufgaben ihrer Organe und Organisationseinheiten sowie die Organisation und Aufgaben des Direktoriums als Organ der Universitären Medizin Zürich (UMZH).
 
 #### § 2
 
@@ -38,61 +42,59 @@ Dieses Reglement regelt die Organisation der Medizinischen Fakultät der Univers
 
 <sup>2</sup> Sie unterstützt ihre Gremien, um gemäss der Gleichstellungspolitik der UZH auf allen Stufen und Funktionen eine ausgewogene Vertretung beider Geschlechter zu erzielen und die Diversität zu berücksichtigen.
 
-### 2. Teil: Gliederung und Organisation der Fakultät
+### 2. Abschnitt: Gliederung und Organisation der Fakultät
 
-### 1. Abschnitt: Übersicht
+### A. Organe und Fachbereiche
 
 #### § 3
 
-**Organe**
+**Organe und weitere Gremien**
 
-Die Medizinische Fakultät verfügt über folgende Organe: Fakultätsversammlung, Direktorium, Fakultätsleitung, Fakultätsvorstand, Fakultätsausschuss, Fachbereichsversammlungen und fakultäre Kommissionen.
+<sup>1</sup> Die Medizinische Fakultät verfügt über folgende Organe: Fakultätsversammlung, Direktorium, Direktorin oder Direktor Universitäre Medizin, Fakultätsvorstand und Fakultätsausschuss.
 
-#### § 4
-
-**Fachbereiche**
-
-<sup>1</sup> Die Medizinische Fakultät gliedert sich in folgende Fachbereiche:
-
-- 1\. Frau und Kind,
-
-- 2\. Grundlagenfächer,
-
-- 3\. Internistische Fächer,
-
-- 4\. Klinische Neurowissenschaften und Psychiatrie,
-
-- 5\. Operative Fächer,
-
-- 6\. Querschnittsfächer,
-
-- 7\. Zahnmedizin.
+<sup>2</sup> Dazu kommen die Fachbereichsversammlungen und die fakultären Kommissionen.
 
 **1**
 
-- 1\. 4. 19 - 104
+1.10. 21 - 114 § 4. <sup>1</sup> Die Medizinische Fakultät gliedert sich in folgende Fachbereiche:
+
+**Fachbereiche**
+
+- a. Frau und Kind,
+
+- b. Grundlagenfächer,
+
+- c. Internistische Fächer,
+
+- d. Klinische Neurowissenschaften und Psychiatrie,
+
+- e. Operative Fächer,
+
+- f. Querschnittsfächer,
+
+- g. Zahnmedizin.
 
 <sup>2</sup> Die Fachbereiche setzen sich aus den Organisationseinheiten gemäss Anhang zusammen.
 
-### 2. Abschnitt: Fakultätsversammlung
+### B. Fakultätsversammlung
 
 #### § 5
 
 **Zusammensetzung**
 
-<sup>1</sup> Die Fakultätsversammlung setzt sich zusammen aus:
+<sup>1</sup> Die Fakultätsversammlung setzt sich zusammen aus a. den Fakultätsmitgliedern: ordentliche und ausserordentliche Professorinnen und Professoren, Assistenzprofessorinnen und -professoren sowie Förderungsprofessorinnen und -professoren,
 
-- 1\. den Fakultätsmitgliedern: ordentliche und ausserordentliche Professorinnen und Professoren, Assistenzprofessorinnen und -professoren sowie Förderungsprofessorinnen und -professoren,
+- b. der Direktorin oder dem Direktor Universitäre Medizin Zürich (Direktorin/Direktor UMZH),
 
-- 2\. der Direktorin oder dem Direktor Universitäre Medizin (UMZH),
+- c. je zwölf Delegierten der Stände.
 
-- 3\. je zwölf Delegierten der Stände.
+<sup>2</sup> Die Leitung der Geschäftsstelle (§ 38) nimmt mit beratender Stimme an den Sitzungen teil.
 
-<sup>2</sup> Die Geschäftsleitung des Direktoriums nimmt mit beratender Stimme an den Sitzungen teil.
+<sup>3</sup> Der Fakultätsvorstand kann Titularprofessorinnen und Titularprofessoren mit Führungsaufgaben in einem universitären Spital oder in einem Institut der Medizinischen Fakultät zu ständigen Gästen mit beratender Stimme in der Fakultätsversammlung ernennen. Die Einzelheiten werden in einer Richtlinie der Fakultätsversammlung geregelt.
 
-<sup>3</sup> Der Fakultätsvorstand kann ständige Gäste der Fakultätsversammlung mit beratender Stimme ernennen.
+<sup>4</sup> Der Fakultätsvorstand kann weitere Personen zu ständigen Gästen mit beratender Stimme in der Fakultätsversammlung ernennen.
 
-<sup>4</sup> Die emeritierten Professorinnen und Professoren können mit beratender Stimme an der Fakultätsversammlung teilnehmen.
+<sup>5</sup> Die emeritierten Professorinnen und Professoren können mit beratender Stimme an der Fakultätsversammlung teilnehmen.
 
 #### § 6
 
@@ -100,331 +102,395 @@ Die Medizinische Fakultät verfügt über folgende Organe: Fakultätsversammlung
 
 <sup>1</sup> Der Fakultätsversammlung obliegt die Antragstellung zuhanden der Universitätsleitung mit Bezug auf die Schaffung, Umwandlung und Aufhebung von Organisationseinheiten der Fakultät.
 
-<sup>2</sup> Sie stellt Antrag zuhanden der Erweiterten Universitätsleitung auf:
+<sup>2</sup> Sie stellt Antrag zuhanden der Erweiterten Universitätsleitung auf a. Verabschiedung der Rahmenverordnungen für die Studiengänge und der Promotionsverordnungen zuhanden des Universitätsrates,
 
-- 1\. Erlass und Änderung der Rahmenverordnungen für die Studiengänge und der Promotionsverordnungen,
+- b. Erteilung und Entzug der Venia Legendi sowie Verleihung, Verlängerung und Entzug der Titularprofessur und von anderen akademischen Titeln.
 
-- 2\. Genehmigung der Studienordnungen, der Habilitationsordnung sowie der Verordnungen über die Titularprofessur und über die Weiterbildungsstudiengänge,
+<sup>3</sup> Sie ist unter Vorbehalt der Genehmigung durch die Erweiterte Universitätsleitung zuständig für den Erlass a. der Studienordnungen, der Habilitationsordnung sowie der Verordnungen über die Titularprofessur und über die Weiterbildungsstudiengänge,
 
-- 3\. Genehmigung des Organisationsreglements der Fakultät,
+- b. des Organisationsreglements der Fakultät.
 
-- 4\. Erteilung und Entzug der Venia Legendi sowie Verleihung, Verlängerung und Entzug der Titularprofessur und von anderen akademischen Titeln.
+<sup>4</sup> Sie ist abschliessend zuständig für a. die Wahl der Dekanin oder des Dekans und der stellvertretenden Dekanin oder des stellvertretenden Dekans,
 
-<sup>3</sup> Sie ist abschliessend zuständig für:
+- b. die Wahl der Vizedekaninnen und Vizedekane,
 
-- 1\. die Wahl der Dekanin oder des Dekans und der Stellvertreterin oder des Stellvertreters,
+- c. die Wahl der Findungskommission für die Dekanin oder den Dekan und die stellvertretende Dekanin oder den stellvertretenden Dekan,
 
-- 2\. die Wahl der Prodekaninnen und Prodekane,
+- d. die Wahl der Vorsitzenden der Fachbereichsversammlungen und ihrer Stellvertretungen,
 
-- 3\. die Wahl der Findungskommission für die Mitglieder der Fakultätsleitung,
+- e. die Wahl der Delegierten der Fakultät in gesamtuniversitäre und ausseruniversitäre Gremien,
 
-- 4\. die Verleihung und den Entzug des Doktortitels und anderer akademischer Grade nach Massgabe der Promotionsverordnungen und Studienordnungen,
+- f. die Verleihung und den Entzug des Doktortitels und anderer akademischer Grade nach Massgabe der Promotionsverordnungen und Studienordnungen,
 
-- 5\. die Ausstellung besonderer Prüfungsausweise, insbesondere für universitäre Weiterbildungen,
+- g. die Ausstellung besonderer Prüfungsausweise, insbesondere für universitäre Weiterbildungen,
 
-- 6\. die Bewilligung von Gastprofessuren,
+- h. die Bewilligung von Gastprofessuren,
 
-- 7\. die Wahl der Vorsitzenden der Fachbereichsversammlungen und ihrer Stellvertretungen,
+- i. den Erlass von fakultären Richtlinien und Reglementen.
 
-- 8\. die Schaffung ständiger Kommissionen und die Genehmigung ihrer Pflichtenhefte,
-
-- 9\. die Wahl der Delegierten der Fakultät in gesamtuniversitäre und ausseruniversitäre Gremien,
-
-- 10\. den Erlass von fakultären Richtlinien und Reglementen.
-
-### 3. Abschnitt: Direktorium
+### C. Direktorium
 
 #### § 7
 
 **Zusammensetzung**
 
-Das Direktorium setzt sich zusammen aus der Direktorin oder dem Direktor UMZH als Mitglied der Universitätsleitung sowie der Dekanin oder dem Dekan und deren oder dessen Stellvertreterin oder Stellvertreter als Fakultätsleitung.
-
-[^7-1]: LS 415.111.
-[^7-2]: LS 415.16. 1. 4. 19 - 104 17
-
-#### § 8
-
-**Organisation und Aufgaben**
-
-<sup>1</sup> Organisation und Aufgaben des Direktoriums richten sich nach der Universitätsordnung[^7-1] und nach der Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich[^7-2].
-
-<sup>2</sup> Dem Direktorium obliegt die Führung der Medizinischen Fakultät. Es ist Anlaufstelle für alle Geschäfte, welche die UMZH betreffen.
-
-<sup>3</sup> Das Direktorium entscheidet im Konsens. Kann keine Einigkeit erzielt werden, entscheidet die Direktorin oder der Direktor UMZH.
-
-<sup>4</sup> Zu den Aufgaben und Geschäften gehören:
-
-- 1\. Umsetzung der Dachstrategie Universitäre Medizin,
-
-- 2\. Weiterentwicklung der UMZH nach den strategischen Empfehlungen des Beirats und in Zusammenarbeit mit dem Koordinationsgremium,
-
-- 3\. Budget- und Finanzplanung der Fakultät sowie Zuweisung der Ressourcen an die Organisationseinheiten der Medizinischen Fakultät,
-
-- 4\. Berufungsgeschäfte,
-
-- 5\. Wahrnehmung der fakultären Aufgaben, Kompetenzen und Verantwortlichkeiten im Rahmen des universitären Immobilienmanagements.
-
-<sup>5</sup> Im Übrigen obliegt dem Direktorium die Vorbereitung und Umsetzung von Geschäften im Zuständigkeitsbereich seiner Mitglieder.
+Das Direktorium setzt sich zusammen aus der Direktorin oder dem Direktor sowie der Dekanin oder dem Dekan und der stellvertretenden Dekanin oder dem stellvertretenden Dekan.
 
 **3**
 
-- 1\. 4. 19 - 104 § 9. <sup>1</sup> Der Direktorin oder dem Direktor UMZH obliegt die Koordination und operative Leitung des Netzwerks Universitäre Medizin Zürich nach Massgabe der Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich[^8-1] sowie § 80 d der Universitätsordnung[^8-2].
+1.10. 21 - 114 § 8. <sup>1</sup> Organisation und Aufgaben des Direktoriums richten sich nach der Universitätsordnung und nach der Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich.
+
+**Organisation und Aufgaben**
+
+<sup>2</sup> Dem Direktorium obliegt die Führung der Medizinischen Fakultät. Es hat ein Weisungsrecht.
+
+<sup>3</sup> Es ist Anlaufstelle für alle Geschäfte, welche die UMZH betreffen.
+
+<sup>4</sup> Das Direktorium ist insbesondere zuständig für die folgenden Geschäfte:
+
+- a. Umsetzung der Dachstrategie Universitäre Medizin,
+
+- b. Weiterentwicklung der UMZH nach den strategischen Empfehlungen des Beirates und in Zusammenarbeit mit dem Koordinationsgremium,
+
+- c. Entwicklung und Umsetzung der fakultären Strategie,
+
+- d. Vorbereitung der Entwicklungs- und Finanzplanung der Fakultät zuhanden des Fakultätsvorstands,
+
+- e. Festsetzung des Budgets der Fakultät und Verabschiedung zuhanden der Universitätsleitung,
+
+- f. Zuweisung der Ressourcen an die Organisationseinheiten der Fakultät,
+
+- g. Erstellung der Pflichtenhefte für die Mitglieder des Fakultätsvorstands,
+
+- h. Regelung der Organisation der Geschäftsstelle (§ 38).
+
+#### § 9
 
 **Direktorin oder Direktor Universitäre Medizin**
 
-<sup>2</sup> Sie oder er ist Mitglied der Universitätsleitung und leitet das Koordinationsgremium UMZH sowie das Direktorium.
+<sup>1</sup> Der Direktorin oder dem Direktor UMZH obliegt die Koordination und operative Leitung des Netzwerks Universitäre Medizin Zürich nach Massgabe der Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich.
+
+<sup>2</sup> Sie oder er ist Mitglied der Universitätsleitung und hat den Vorsitz im Koordinationsgremium UMZH sowie im Direktorium.
 
 <sup>3</sup> Sie oder er ist insbesondere zuständig für die folgenden Geschäfte:
 
-- 1\. Vertretung der Medizinischen Fakultät sowie der die Medizinische Fakultät betreffenden Geschäfte der Universitätsleitung nach aussen, unter anderem bei den Partnerinstitutionen der UMZH,
+- a. Vertretung der Medizinischen Fakultät sowie der die Medizinische Fakultät betreffenden Geschäfte der Universitätsleitung nach aussen, unter anderem bei den Partnerinstitutionen der UMZH,
 
-- 2\. Vorbereitung und Umsetzung der Geschäfte des Koordinationsgremiums,
+- b. Vorbereitung und Umsetzung der Geschäfte des Koordinationsgremiums UMZH,
 
-- 3\. Erarbeitung der Verträge gemäss § 4 der Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich[^8-1],
+- c. Erarbeitung der Verträge gemäss § 4 der Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich,
 
-- 4\. Sicherung des Prozesses zur Erstellung und Umsetzung der UMZH-Dachstrategie,
+- d. Sicherung des Prozesses zur Erstellung und Umsetzung der Dachstrategie Universitäre Medizin,
 
-- 5\. Sicherstellung der Einhaltung der akademischen Standards durch die Vertragsspitäler,
+- e. Sicherstellung der Einhaltung der akademischen Standards durch die Vertragsspitäler,
 
-- 6\. Anträge an die Universitätsleitung zur Zuweisung der universitären Mittel zur Abgeltung der Leistungen der UMZH-Institutionen in Forschung und Lehre,
+- f. Anträge an die Universitätsleitung zur Zuweisung der universitären Mittel zur Abgeltung der Leistungen der UMZH-Institutionen in Forschung und Lehre,
 
-- 7\. Anträge an die Universitätsleitung zur Zusammensetzung der Berufungskommissionen sowie auf Ernennung, Beförderung und Entlassung von Professorinnen und Professoren,
+- g. Koordination der Forschung und Lehre unter Berücksichtigung der Gesundheitsversorgung mit den Partnerinstitutionen,
 
-- 8\. Leitung und Durchführung der Berufungsverhandlungen,
+- h. Förderung der Zusammenarbeit im Rahmen des Bildungsnetzwerks Medizin,
 
-- 9\. Lehrstuhl- und Forschungsplanung sowie Anträge zur Entwicklungs- und Finanzplanung,
+- i. Vorsitz im Fakultätsvorstand,
 
-- 10\. akademische Berichterstattung und Kommunikation,
+- j. Vorsitz in der Findungskommission für die Wahl der Dekanin oder des Dekans und der stellvertretenden Dekanin oder des stellvertretenden Dekans,
 
-- 11\. Qualitätssicherung und Evaluation,
+- k. Anträge an die Universitätsleitung zur Zusammensetzung der Berufungskommissionen sowie auf Ernennung, Beförderung und Entlassung von Professorinnen und Professoren,
 
-- 12\. Koordination der Forschung und Lehre unter Berücksichtigung der Gesundheitsversorgung mit den Partnerinstitutionen.
+- l. Verwaltung der finanziellen Mittel der Fakultät und Sicherstellung der Einhaltung des Budgets,
 
-<sup>4</sup> Sie oder er kann bestimmte Aufgaben an die Fakultätsleitung übertragen.
-
-[^8-1]: LS 415.16. 1. 4. 19 - 104 17
-[^8-2]: LS 415.111.
-
-### 4. Abschnitt: Fakultätsleitung
+- m. Koordination der Kommunikation nach aussen und Beantwortung von Medienanfragen.
 
 #### § 10
 
-**Zusammensetzung**
+**Dekanin oder Dekan**
 
-<sup>1</sup> Die Dekanin oder der Dekan leitet gemeinsam mit der Stellvertreterin oder dem Stellvertreter die Fakultät und vertritt sie in Absprache mit der Direktorin oder dem Direktor UMZH nach aussen.
+<sup>1</sup> Die Dekanin oder der Dekan ist insbesondere zuständig für die folgenden Geschäfte:
 
-<sup>2</sup> Sie oder er trägt die Verantwortung für die fakultären Geschäfte und ist dafür unterschriftsberechtigt.
+- a. Vorbereitung, Einberufung und Leitung von Sitzungen der Fakultätsversammlung und des Fakultätsausschusses,
 
-<sup>3</sup> Dekanin oder Dekan und Stellvertreterin oder Stellvertreter arbeiten als Team, teilen die Aufgaben unter sich auf und können sich gegenseitig vertreten.
+- b. personelle Führung der Fakultätsmitglieder,
 
-<sup>4</sup> Sie werden von den Prodekaninnen und Prodekanen unterstützt.
+- c. Aufsicht über die Institute,
 
-#### § 11
+- d. Qualitätssicherung und Evaluation,
 
-**Aufgaben**
+- e. akademische Berichterstattung und Kommunikation,
 
-<sup>1</sup> Die Fakultätsleitung ist insbesondere zuständig für die fakultären Geschäfte:
+- f. Rechtsgeschäfte.
 
-- 1\. Vorbereitung, Einberufung und Leitung von Sitzungen der Fakultätsversammlung, des Fakultätsausschusses und des Fakultätsvorstands,
+<sup>2</sup> Sie oder er vertritt die Fakultät in der Erweiterten Universitätsleitung.
 
-- 2\. Planung und Organisation der Ausbildung in Humanmedizin, Zahnmedizin und Chiropraktischer Medizin sowie von spezialisierten Masterstudiengängen,
+<sup>3</sup> Ihr oder ihm obliegt die Antragstellung zuhanden der Universitätsleitung in den folgenden Bereichen:
 
-- 3\. Verwaltung der finanziellen Mittel der Fakultät,
+- a. Erlass und Änderung der Institutsordnungen,
 
-- 4\. Zuteilung von Aufgaben und Zuständigkeiten an die Prodekaninnen und Prodekane,
+- b. Personalgeschäfte.
 
-- 5\. Förderung von Lehre und Forschung,
-
-- 6\. Planung der Berufungsgeschäfte,
-
-- 7\. Förderung des akademischen Nachwuchses und der Chancengleichheit.
-
-<sup>2</sup> Sie wirkt mit an der Vorbereitung und Umsetzung der Geschäfte im Zuständigkeitsbereich der Direktorin oder des Direktors UMZH.
-
-<sup>3</sup> Ihr obliegt die Vorbereitung und Antragstellung zuhanden der Fakultätsversammlung in den folgenden Bereichen:
-
-- 1\. Schaffung ständiger Kommissionen und Festsetzung ihrer Pflichtenhefte,
-
-- 2\. Erlass von fakultären Richtlinien und Reglementen,
-
-- 3\. Erteilung und Entzug der Venia Legendi sowie Verleihung, Verlängerung und Entzug der Titularprofessur und von anderen akademischen Titeln.
-
-<sup>4</sup> Ihr obliegt die Antragstellung zuhanden des Fakultätsausschusses in den folgenden Bereichen:
-
-- 1\. Schaffung nichtständiger Kommissionen,
-
-- 2\. Wahlvorschläge für Vorsitzende und Mitglieder aller Kommissionen.
-
-<sup>5</sup> Ihr obliegt die Antragstellung zuhanden der Universitätsleitung in den folgenden Bereichen:
-
-- 1\. Erlass und Änderung der Institutsordnungen,
-
-- 2\. Personalgeschäfte.
+<sup>4</sup> Ihr oder ihm obliegt die Antragstellung zuhanden der Erweiterten Universitätsleitung auf Weiterführung des Professorentitels bei vorzeitigem Rücktritt.
 
 **5**
 
-- 1\. 4. 19 - 104
+1.10. 21 - 114
 
-<sup>6</sup> Ihr obliegt die Antragstellung zuhanden der Erweiterten Universitätsleitung auf Weiterführung des Professorentitels bei vorzeitigem Rücktritt.
+<sup>5</sup> Sie oder er nimmt die durch andere universitäre Erlasse übertragenen Kompetenzen wahr und ist für alle Angelegenheiten der Fakultät zuständig, die keinem anderen Organ übertragen sind.
 
-<sup>7</sup> Sie nimmt die durch andere universitäre Erlasse übertragenen Kompetenzen wahr und ist für alle Angelegenheiten der Fakultät zuständig, die keinem anderen Organ übertragen sind.
+<sup>6</sup> Ihr oder ihm obliegt die Stellvertretung der Direktorin oder des Direktors UMZH mit Bezug auf Aufgaben auf fakultärer Ebene sowie der stellvertretenden Dekanin oder des stellvertretenden Dekans.
 
-### 5. Abschnitt: Fakultätsvorstand
+#### § 11
+
+**Stellvertretende Dekanin oder stellvertretender Dekan**
+
+<sup>1</sup> Die stellvertretende Dekanin oder der stellvertretende Dekan ist insbesondere zuständig für die folgenden Geschäfte:
+
+- a. Planung der Berufungsgeschäfte,
+
+- b. Durchführung der Berufungsverhandlungen gemeinsam mit dem zuständigen Mitglied der Universitätsleitung,
+
+- c. Planung des fakultären Raumbedarfs,
+
+- d. Verwaltung der fakultären Räume.
+
+<sup>2</sup> Sie oder er ist zuständig für die Beförderungskommission, die Struktur- und Berufungskommissionen sowie die Kommissionen Professuren ad personam.
+
+<sup>3</sup> Ihr oder ihm obliegt die Stellvertretung der Dekanin oder des Dekans.
+
+### D. Fakultätsvorstand
 
 #### § 12
 
 **Zusammensetzung**
 
-<sup>1</sup> Der Fakultätsvorstand setzt sich zusammen aus:
+<sup>1</sup> Der Fakultätsvorstand setzt sich zusammen aus a. der Direktorin oder dem Direktor UMZH,
 
-- 1\. der Dekanin oder dem Dekan,
+- b. der Dekanin oder dem Dekan,
 
-- 2\. der stellvertretenden Dekanin oder dem stellvertretenden Dekan,
+- c. der stellvertretenden Dekanin oder dem stellvertretenden Dekan,
 
-- 3\. den Prodekaninnen und Prodekanen
+- d. der Vizedekanin oder dem Vizedekan Forschung,
 
-- a. Forschung und Planung,
+- e. der Vizedekanin oder dem Vizedekan Lehre Vorklinik,
 
-- b. Lehre Vorklinik,
+- f. der Vizedekanin oder dem Vizedekan Lehre Klinik,
 
-- c. Lehre Klinik,
+- g. der Vizedekanin oder dem Vizedekan Innovation und Digitalisierung.
 
-- d. Nachwuchsförderung und Chancengleichheit,
-
-- e. Interprofessionalität,
-
-- f. Zahnmedizin,
-
-- g. Klinische Medizin.
-
-<sup>2</sup> Die Fakultätsversammlung kann beschliessen, weitere Prodekanate zu schaffen.
+<sup>2</sup> Bei der Zusammensetzung des Fakultätsvorstands sind die verschiedenen Bereiche (Klinik, Vorklinik, Zahnmedizin) möglichst zu berücksichtigen. Falls dies nicht gelingt, hat je eine Vertreterin oder ein Vertreter der nicht berücksichtigten Bereiche ein ständiges Gastrecht mit beratender Stimme an den Sitzungen des Fakultätsvorstands.
 
 #### § 13
 
 **Aufgaben**
 
-Dem Fakultätsvorstand obliegen die folgenden Aufgaben und Geschäfte:
+<sup>1</sup> Der Fakultätsvorstand ist insbesondere zuständig für die folgenden Geschäfte:
 
-- 1\. Antragstellung zuhanden der Universitätsleitung mit Bezug auf die Schaffung, Umwandlung und Aufhebung von Lehrstühlen,
+- a. Antragstellung zuhanden der Universitätsleitung mit Bezug auf die Schaffung, Umwandlung und Aufhebung von Lehrstühlen,
 
-- 2\. Vorbereitung der Schaffung und Besetzung von nichtständigen Kommissionen, insbesondere Berufungskommissionen, zuhanden des Fakultätsausschusses,
+- b. Antragstellung zuhanden der Universitätsleitung mit Bezug auf die Entwicklungs- und Finanzplanung,
 
-- 3\. Verabschiedung von Anträgen der Prodekanin oder des Prodekans Forschung und Planung der Forschungsförderung,
+- c. Antragstellung zuhanden der Universitätsleitung auf Zusammensetzung der Berufungskommissionen,
 
-- 4\. Beratung der Fakultätsleitung zu fakultären Geschäften,
+- d. Antragstellung zuhanden der Fakultätsversammlung mit Bezug auf den Erlass von fakultären Reglementen und Richtlinien,
 
-- 5\. Ernennung der Studienprogrammdirektorinnen oder -direktoren,
+- e. Antragstellung zuhanden der Fakultätsversammlung zur Wahl der Findungskommission für die Dekanin oder den Dekan und die stellvertretende Dekanin oder den stellvertretenden Dekan,
 
-- 6\. endgültige Abweisung von Studierenden der Human-, Zahn- und Chiropraktischen Medizin.
+- f. Antragstellung zuhanden der Fakultätsversammlung zur Wahl der Vizedekaninnen und Vizedekane,
+
+- g. Festsetzung der Pflichtenhefte der ständigen Kommissionen,
+
+- h. Ernennung der Studienprogrammdirektorinnen oder -direktoren,
+
+- i. endgültige Abweisung von Studierenden der Human-, Zahn- und Chiropraktischen Medizin,
+
+- j. Vorberatung wichtiger Geschäfte der Fakultätsversammlung, des Direktoriums und des Fakultätsausschusses,
+
+- k. Verteilung der Aufgabenbereiche an die Vizedekaninnen und Vizedekane,
+
+- l. vom Organisationsreglement abweichende Zuweisung von Aufgaben an die Mitglieder des Fakultätsvorstands in begründeten Fällen.
+
+<sup>2</sup> Die Mitglieder des Fakultätsvorstands sind insbesondere zuständig für die folgenden Geschäfte:
+
+- a. die Aufgaben in ihren Aufgabenbereichen,
+
+- b. Mitwirkung an der Entwicklungs- und Finanzplanung in ihrem Aufgabenbereich,
+
+- c. Budgetverantwortung in ihrem Aufgabenbereich,
+
+- d. Vorbereitung von Reglementen und Richtlinien in ihrem Aufgabenbereich zuhanden des Fakultätsvorstands,
+
+- e. Antragstellung zur Schaffung nichtständiger Kommissionen in ihrem Aufgabenbereich zuhanden des Fakultätsausschusses,
+
+- f. Wahlvorschläge für Vorsitzende und Mitglieder der Kommissionen in ihrem Aufgabenbereich zuhanden des Fakultätsausschusses,
+
+- g. Förderung der Chancengleichheit in ihrem Aufgabenbereich,
+
+**7**
+
+1.10. 21 - 114 h. Vertretung der Fakultät in den universitären und ausseruniversitären Gremien in ihrem Aufgabenbereich,
+
+- i. Bearbeitung von Vernehmlassungen und Umfragen in ihrem Aufgabenbereich.
+
+<sup>3</sup> Die Mitglieder des Fakultätsvorstands haben ein Antragsrecht gegenüber dem Direktorium.
+
+<sup>4</sup> Ihnen steht jährlich ein Budget von höchstens je Fr. 50 000 zur freien Verwendung für Projekte in ihrem Aufgabenbereich zur Verfügung.
+
+<sup>5</sup> Die Mitglieder des Fakultätsvorstands rapportieren dem Direktorium und dem Fakultätsvorstand und informieren auf Anfrage die Fakultätsversammlung und den Fakultätsausschuss.
 
 #### § 14
 
-**Wahl**
+**Vizedekanin oder Vizedekan Forschung**
 
-<sup>1</sup> Die Mitglieder des Fakultätsvorstands werden aus dem Kreis der Fakultätsmitglieder durch die Fakultätsversammlung gewählt. Ausnahmsweise können auch ehemalige Fakultätsmitglieder gewählt werden.
+<sup>1</sup> Die Vizedekanin oder der Vizedekan Forschung ist insbesondere zuständig für die folgenden Geschäfte:
 
-<sup>2</sup> Die Wahl erfolgt:
+- a. Förderung der Forschung,
 
-- 1\. für die Dekanin oder den Dekan sowie die Stellvertreterin oder den Stellvertreter auf eine Amtszeit von vier Jahren,
+- b. Implementierung der Forschungsstrategie der Medizinischen Fakultät,
 
-- 2\. für die Prodekaninnen und Prodekane auf eine Amtszeit von zwei Jahren.
+- c. Förderung des akademischen Nachwuchses,
 
-<sup>3</sup> Wiederwahl ist möglich. Die maximale Gesamt-Amtszeit beträgt zwölf Jahre.
+- d. Laufbahnförderungsprogramm «Filling the Gap»,
 
-<sup>4</sup> Der Amtsantritt erfolgt auf den 1. August.
+- e. Standortgespräche mit den Assistenzprofessorinnen und -professoren,
 
-<sup>5</sup> Spätestens zwei Semester vor Ablauf der Amtszeit geben die Mitglieder des Fakultätsvorstands bekannt, ob sie sich für eine Wiederwahl zur Verfügung stellen.
+- f. Begutachtung von Anträgen für Forschungsbeiträge,
 
-<sup>6</sup> Stellen sich die Dekanin oder der Dekan oder deren Stellvertretung für die Wiederwahl nicht mehr zur Verfügung, setzt die Fakultätsversammlung auf Antrag des Fakultätsvorstands eine Findungskommission ein. Dieser gehört die Direktorin oder der Direktor UMZH von Amtes wegen an. Die Findungskommission stellt Antrag an die Fakultätsversammlung.
+- g. Steuerung und Organisation der Tierhaltung sowie 3R (replace, reduce, refine).
 
-<sup>7</sup> Stellen sich Prodekaninnen oder Prodekane für die Wiederwahl nicht mehr zur Verfügung, so stellt die Fakultätsleitung Antrag auf Neubesetzung an die Fakultätsversammlung.
+<sup>2</sup> Sie oder er ist zuständig für die Forschungskommission der Medizinischen Fakultät und die Kommission für Forschungsstrategie.
 
-<sup>8</sup> Zur Sicherstellung der Kontinuität werden gestaffelte Amtszeiten angestrebt.
+<sup>3</sup> Ihr oder ihm obliegt die Stellvertretung der Vizedekanin oder des Vizedekans Innovation und Digitalisierung.
 
 #### § 15
 
+**Vizedekaninnen oder Vizedekane Lehre Vorklinik und Lehre Klinik**
+
+<sup>1</sup> Die Vizedekaninnen oder Vizedekane Lehre Vorklinik und Lehre Klinik sind insbesondere zuständig für die folgenden Geschäfte:
+
+- a. Weiterentwicklung der Lehre,
+
+- b. Planung und Organisation der Ausbildung in Humanmedizin, Zahnmedizin und Chiropraktischer Medizin, einschliesslich Prüfungen und Eignungstest,
+
+- c. Entwicklung des Curriculums,
+
+- d. Planung und Organisation der Weiterbildungsstudiengänge,
+
+- e. Interprofessionalität,
+
+- f. Qualitätssicherung und Akkreditierung.
+
+<sup>2</sup> Die Vizedekanin oder der Vizedekan Lehre Klinik ist überdies zuständig für spezialisierte Studienprogramme und Doktoratsprogramme.
+
+<sup>3</sup> Die Vizedekaninnen oder Vizedekane Lehre Vorklinik und Lehre Klinik sind gemeinsam zuständig für die Kommission Lehre, die Kommission Studiengangskoordination, die Masterarbeitskommission und die Dissertationskommission.
+
+<sup>4</sup> Sie vertreten sich gegenseitig.
+
+#### § 16
+
+**Vizedekanin oder Vizedekan Innovation und Digitalisierung**
+
+<sup>1</sup> Die Vizedekanin oder der Vizedekan Innovation und Digitalisierung ist insbesondere zuständig für die folgenden Geschäfte:
+
+- a. Entwicklung und Implementierung einer Innovationskultur,
+
+- b. Förderung der internationalen Beziehungen,
+
+- c. Ausbau der Digitalisierung,
+
+- d. Vernetzung mit überfakultären Initiativen,
+
+- e. weitere Geschäfte nach Bedarf.
+
+<sup>2</sup> Sie oder er ist zuständig für die Chancengleichheitskommission und die Kommission Sex and Gender in Medicine.
+
+<sup>3</sup> Ihr oder ihm obliegt die Stellvertretung der Vizedekanin oder des Vizedekans Forschung.
+
+#### § 17
+
+**Wahl**
+
+<sup>1</sup> Die Mitglieder des Fakultätsvorstands mit Ausnahme der Direktorin oder des Direktors UMZH werden aus dem Kreis der Fakultätsmitglieder durch die Fakultätsversammlung gewählt.
+
+<sup>2</sup> Wählbar sind aktive Fakultätsmitglieder.
+
+<sup>3</sup> Ausser der Direktorin oder dem Direktor UMZH belegen alle Mitglieder des Fakultätsvorstands Teilpensen bis höchstens 50%.
+
+<sup>4</sup> Die Wahl erfolgt auf eine Amtsdauer von vier Jahren.
+
+<sup>5</sup> Wiederwahl ist möglich. Die maximale Gesamt-Amtszeit beträgt zwölf Jahre.
+
+<sup>6</sup> Der Amtsantritt erfolgt in der Regel auf den 1. August.
+
+<sup>7</sup> Spätestens zwei Semester vor Ablauf der Amtszeit geben die Mitglieder des Fakultätsvorstands bekannt, ob sie sich für eine Wiederwahl zur Verfügung stellen.
+
+<sup>8</sup> Stellen sich die Dekanin oder der Dekan oder die stellvertretende Dekanin oder der stellvertretende Dekan für die Wiederwahl nicht mehr zur Verfügung, setzt die Fakultätsversammlung auf Antrag des Fakultätsvorstands eine Findungskommission ein. Dieser gehören die Direktorin oder der Direktor UMZH sowie mindestens zwei weitere Fakultätsmitglieder und eine gemeinsame Vertretung für alle Stände an. Die Findungskommission stellt Antrag an die Fakultätsversammlung.
+
+**9**
+
+1.10. 21 - 114
+
+<sup>9</sup> Stellen sich Vizedekaninnen oder Vizedekane für die Wiederwahl nicht mehr zur Verfügung, so stellt der Fakultätsvorstand Antrag auf Neubesetzung an die Fakultätsversammlung.
+
+<sup>10</sup> Zur Sicherstellung der Kontinuität werden gestaffelte Amtszeiten angestrebt.
+
+#### § 18
+
 **Vorzeitiger Rücktritt**
 
-<sup>1</sup> Bei vorzeitigem Rücktritt oder dauernder Verhinderung an der Amtsausübung der Dekanin oder des Dekans oder eines anderen Mitglieds des Fakultätsvorstands erfolgt eine Ersatzwahl.
+<sup>1</sup> Bei vorzeitigem Rücktritt oder dauernder Verhinderung an der Amtsausübung eines Mitglieds des Fakultätsvorstands erfolgt eine Ersatzwahl.
 
 <sup>2</sup> Die Ersatzwahl kann unterbleiben, wenn innert sechs Monaten ordentliche Neuwahlen durchzuführen sind.
 
 <sup>3</sup> In diesem Fall führen die übrigen Mitglieder des Fakultätsvorstands die Geschäfte weiter.
 
-#### § 16
-
-**Freistellung**
-
-<sup>1</sup> Während der Amtsdauer können die Mitglieder des Fakultätsvorstands in angemessenem Rahmen von Verpflichtungen in Forschung, Lehre und universitären Dienstleistungen freigestellt werden.
-
-<sup>2</sup> Das Direktorium entscheidet über den Umfang der Freistellung.
-
-#### § 17
-
-**Prodekaninnen und Prodekane**
-
-<sup>1</sup> Die Prodekaninnen und Prodekane sind zuständig für die Aufgaben in ihrem zugeteilten Bereich und leiten die ihnen zugeteilten Kommissionen.
-
-**7**
-
-- 1\. 4. 19 - 104
-
-<sup>2</sup> Sie rapportieren der Fakultätsleitung und informieren auf Anfrage den Fakultätsvorstand, den Fakultätsausschuss und die Fakultätsversammlung.
-
-<sup>3</sup> Die Fakultätsleitung kann die Aufgaben der Prodekaninnen und Prodekane in einem Pflichtenheft festgelegen.
-
-#### § 18
-
-**Prodekaninnen und Prodekane Lehre**
-
-<sup>1</sup> Die Prodekaninnen und Prodekane Lehre Vorklinik und Lehre Klinik arbeiten eng mit der Leitung des Studiendekanats zusammen.
-
-<sup>2</sup> Sie sind zuständig für die Qualitätssicherung und Weiterentwicklung der curricularen Lehre in Zusammenarbeit mit den Studienprogrammdirektorinnen und -direktoren.
-
-### 6. Abschnitt: Fakultätsausschuss
-
 #### § 19
+
+**Freistellung und Unterstützung**
+
+<sup>1</sup> Während der Amtsdauer können die Mitglieder des Fakultätsvorstands in angemessenem Rahmen von Verpflichtungen in Forschung, Lehre und universitären Dienstleistungen freigestellt und durch zusätzliche Ressourcen unterstützt werden.
+
+<sup>2</sup> Das Direktorium entscheidet über den Umfang der Freistellung und Unterstützung.
+
+### E. Fakultätsausschuss
+
+#### § 20
 
 **Zusammensetzung**
 
 Der Fakultätsausschuss setzt sich zusammen aus dem Fakultätsvorstand, den Vorsitzenden der Fachbereichsversammlungen sowie je einer oder einem Delegierten der Stände.
 
-#### § 20
+#### § 21
 
 **Aufgaben**
 
-<sup>1</sup> Der Fakultätsausschuss schlägt die Mitglieder der Berufungskommissionen zuhanden der Direktorin oder des Direktors UMZH vor.
+<sup>1</sup> Der Fakultätsausschuss schlägt die Mitglieder der Berufungskommissionen zuhanden des Fakultätsvorstands vor.
 
 <sup>2</sup> Zuhanden der Fakultätsversammlung obliegt ihm die Vorbereitung und Antragstellung zur Wahl der Vorsitzenden der Fachbereichsversammlungen und ihrer Stellvertretungen auf Vorschlag der Fachbereichsversammlungen.
 
 <sup>3</sup> Der Fakultätsausschuss übernimmt auf Antrag von Mitgliedern des Fakultätsvorstands oder eines oder mehrerer Fachbereiche die Vorberatung fakultärer Geschäfte und universitärer Vernehmlassungen.
 
-<sup>4</sup> Er ist abschliessend zuständig für:
+<sup>4</sup> Er ist abschliessend zuständig für a. die Wahl der Mitglieder aller Fakultätskommissionen mit Ausnahme der Berufungs- und Findungskommissionen,
 
-- 1\. die Wahl der Vorsitzenden und Mitglieder aller Fakultätskommissionen,
+- b. die Wahl der Vorsitzenden der Fakultätskommissionen, falls nicht ein Mitglied des Fakultätsvorstands den Vorsitz von Amtes wegen innehat,
 
-- 2\. die Schaffung nichtständiger Kommissionen.
+- c. die Schaffung nichtständiger Kommissionen.
 
-### 7. Abschnitt: Fachbereichsversammlungen
+### F. Fachbereichsversammlungen
 
-#### § 21
+#### § 22
 
 **Zusammensetzung**
 
 <sup>1</sup> Den Fachbereichsversammlungen gehören die Fakultätsmitglieder des jeweiligen Fachbereichs an.
 
-<sup>2</sup> Dazu kommt eine Anzahl von Delegierten jedes Standes, die 5% der Anzahl der dem Fachbereich angehörenden Professorinnen und Professoren entspricht, mindestens aber je eine Delegierte oder ein Delegierter.
+<sup>2</sup> Dazu kommt eine Anzahl von Delegierten jedes Standes, die 5% der Anzahl der dem Fachbereich angehörenden Professorinnen und Professoren entspricht, mindestens je eine Delegierte oder ein Delegierter.
 
-#### § 22
+#### § 23
 
 **Vorsitz**
 
-<sup>1</sup> Die Fachbereichsversammlungen schlagen zuhanden des Fakultätsausschusses die Vorsitzenden sowie deren Stellvertretung für eine Periode von zwei Jahren vor.
+<sup>1</sup> Die Fachbereichsversammlungen schlagen zuhanden des Fakultätsausschusses die Vorsitzenden sowie deren Stellvertretung für eine Amtsdauer von zwei Jahren vor.
 
 <sup>2</sup> Mitglieder des Fakultätsvorstands und Delegierte der Stände sind nicht wählbar.
 
-#### § 23
+#### § 24
 
 **Aufgaben**
 
@@ -432,367 +498,383 @@ Der Fakultätsausschuss setzt sich zusammen aus dem Fakultätsvorstand, den Vors
 
 <sup>2</sup> Sie nehmen zuhanden der Beförderungskommission Stellung zur Erteilung der Venia Legendi sowie zur Verleihung und Verlängerung der Titularprofessur und der klinischen Dozentur.
 
-### 8. Abschnitt: Kommissionen
-
-#### § 24
-
-**Ständige und nichtständige Kommissionen**
-
-<sup>1</sup> Für spezifische Aufgaben können ständige Kommissionen eingesetzt werden.
-
-<sup>2</sup> Ihre Vorsitzenden und Mitglieder werden für eine Amtsdauer von zwei Jahren gewählt.
-
-<sup>3</sup> Wiederwahl ist möglich.
-
-<sup>4</sup> Zur Erfüllung befristeter besonderer Aufträge können nichtständige Kommissionen eingesetzt werden.
+### G. Kommissionen
 
 #### § 25
 
-**Beförderungskommission**
+**Ständige und nichtständige Kommissionen**
 
-<sup>1</sup> Die Beförderungskommission setzt sich zusammen aus je einem Fakultätsmitglied der Fachbereiche und je einer Vertreterin oder einem Vertreter der Stände.
+<sup>1</sup> Für spezifische Aufgaben werden ständige Kommissionen eingesetzt.
 
-<sup>2</sup> Den Vorsitz hat die Prodekanin oder der Prodekan Nachwuchsförderung und Chancengleichheit.
+<sup>2</sup> Ihre Mitglieder werden vom Fakultätsausschuss für eine Amtsdauer von zwei Jahren gewählt.
 
-<sup>3</sup> Die Beförderungskommission ist zuständig für:
+<sup>3</sup> Ihre Vorsitzenden werden vom Fakultätsausschuss auf eine Amtsdauer von zwei Jahren gewählt, falls nicht ein Mitglied des Fakultätsvorstands den Vorsitz von Amtes wegen innehat.
 
-- 1\. die Evaluation von Habilitationen, Umhabilitationen, Titularprofessuren und klinischen Dozenturen zuhanden der Fakultätsversammlung,
+<sup>4</sup> Wiederwahl ist möglich.
 
-- 2\. die Beförderung von Fakultätsmitgliedern mit Ausnahme der Professorinnen und Professoren ad personam.
+<sup>5</sup> Zur Erfüllung befristeter besonderer Aufträge können nichtständige Kommissionen eingesetzt werden.
 
-**9**
-
-- 1\. 4. 19 - 104 § 26. <sup>1</sup> Die Forschungskommission setzt sich zusammen aus je einem Fakultätsmitglied der Fachbereiche, mindestens fünf weiteren Mitgliedern aus dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren sowie je einer Vertreterin oder einem Vertreter der Stände.
-
-**Forschungskommission**
-
-<sup>2</sup> Den Vorsitz hat die Prodekanin oder der Prodekan Forschung und Planung.
-
-<sup>3</sup> Die Forschungskommission beurteilt die eingegangenen Forschungsgesuche zuhanden des Fakultätsvorstands.
-
-#### § 27
-
-**Kommission Lehre**
-
-<sup>1</sup> Die Kommission Lehre setzt sich zusammen aus:
-
-- 1\. je einer Vertreterin oder einem Vertreter der Vorklinik und der Klinik,
-
-- 2\. einer Vertreterin oder einem Vertreter der Klinischen Dozierenden,
-
-- 3\. je zwei Vertreterinnen oder Vertretern des Zentrums für Zahnmedizin,
-
-- 4\. einer Vertreterin oder einem Vertreter der Chiropraktischen Medizin,
-
-- 5\. einer Vertreterin oder einem Vertreter der Programmleitung Mantelstudium,
-
-- 6\. einer Vertreterin oder einem Vertreter der Themenblockveranwortlichen,
-
-- 7\. je einer oder einem von den universitären Spitälern benannten Lehrkoordinatorin oder Lehrkoordinator,
-
-- 8\. je einer Vertreterin oder einem Vertreter der Partnerspitäler,
-
-- 9\. je einer Vertreterin oder einem Vertreter der gemeinsamen Masterstudiengänge,
-
-- 10\. einer Vertreterin oder einem Vertreter der Medizinischen Bibliothek,
-
-- 11\. den Studienprogrammdirektorinnen oder -direktoren sowie
-
-- 12\. drei Vertreterinnen oder Vertretern der Studierenden und je einer Vertreterin oder einem Vertreter der übrigen Stände.
-
-<sup>2</sup> Die Leiterin oder der Leiter des Studiendekanats nimmt mit beratender Stimme an den Sitzungen teil.
-
-<sup>3</sup> Den gemeinsamen Vorsitz haben die Prodekaninnen oder Prodekane Lehre Vorklinik und Lehre Klinik.
-
-<sup>4</sup> Der Kommission Lehre obliegt die Beratung aller Geschäfte, Prozesse und Fragen aus dem Bereich der medizinischen Studiengänge sowie zur Förderung und Weiterentwicklung der medizinischen Hochschullehre. Sie bildet die Plattform für den Austausch mit den Vertreterinnen und Vertretern der verschiedenen an der studentischen Lehre beteiligten Personen.
-
-#### § 28
-
-**Chancengleichheitskommission**
-
-<sup>1</sup> Die Chancengleichheitskommission setzt sich zusammen aus:
-
-- 1\. der Prodekanin oder dem Prodekan Nachwuchsförderung und Chancengleichheit,
-
-- 2\. mindestens je einem Fakultätsmitglied der universitären Spitäler,
-
-- 3\. mindestens je einem Fakultätsmitglied der Bereiche Grundlagenfächer und Querschnittsfächer,
-
-- 4\. einem Fakultätsmitglied des Zentrums für Zahnmedizin sowie
-
-- 5\. je einer Vertreterin oder einem Vertreter der Stände.
-
-<sup>2</sup> Der Mindestanteil von Frauen beträgt 30%.
-
-<sup>3</sup> Den Vorsitz hat ein Mitglied aus dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren.
-
-<sup>4</sup> Die Chancengleichheitskommission ist zuständig für:
-
-- 1\. die Umsetzung der Chancengleichheit der Geschlechter,
-
-- 2\. die Erarbeitung entsprechender Massnahmen und Programme zuhanden der Fakultätsversammlung,
-
-- 3\. die Evaluation dieser Massnahmen und Programme.
-
-#### § 29
-
-**Dissertationskommission**
-
-<sup>1</sup> Die Dissertationskommission setzt sich zusammen aus je zwei Fakultätsmitgliedern der Fachbereiche.
-
-<sup>2</sup> Den Vorsitz hat ein weiteres Mitglied aus dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren.
-
-<sup>3</sup> Die Dissertationskommission ist zuständig für die Begutachtung von human- und zahnmedizinischen sowie chiropraktischen Dissertationen zuhanden der Fakultätsversammlung.
-
-#### § 30
-
-**Masterarbeitskommission**
-
-<sup>1</sup> Die Masterarbeitskommission setzt sich zusammen aus:
-
-- 1\. mindestens je drei Mitgliedern pro Fachbereich, davon mindestens je ein Fakultätsmitglied; wählbar sind auch Titularprofessorinnen und Titularprofessoren mit Promotionsrecht,
-
-- 2\. der Prodekanin oder dem Prodekan Lehre Vorklinik,
-
-- 3\. der Prodekanin oder dem Prodekan Lehre Klinik,
-
-- 4\. je einer Vertreterin oder einem Vertreter der Stände sowie
-
-- 5\. je zwei Vertreterinnen oder Vertretern aus den Joint-Degree-Masterstudiengängen.
+<sup>6</sup> Für die Wahl der Vorsitzenden und Mitglieder gelten Abs. 2 und 3 sinngemäss.
 
 **11**
 
-- 1\. 4. 19 - 104
+1.10. 21 - 114
 
-<sup>2</sup> Den Vorsitz hat ein Mitglied aus dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren.
+<sup>7</sup> Die Kommissionen organisieren sich selbst. Sie können Arbeitsgruppen bilden.
 
-<sup>3</sup> Die Masterarbeitskommission ist zuständig für die Begutachtung von human- und zahnmedizinischen sowie chiropraktischen Masterarbeiten und legt die Masterarbeitsnoten fest.
-
-#### § 31
-
-**Kommission «Sex and Gender in Medicine»**
-
-<sup>1</sup> Die Kommission «Sex and Gender in Medicine» setzt sich zusammen aus mindestens einem Fakultätsmitglied jedes Fachbereichs. Hinzu kommen je eine Vertreterin oder ein Vertreter der Stände.
-
-<sup>2</sup> Sie hat zum Ziel, dass die Kategorien Sex (biologisches Geschlecht) und Gender (soziales Geschlecht) sowohl in der Lehre und Forschung als auch in der Diagnose und Therapie von Krankheiten vermehrt berücksichtigt werden.
-
-<sup>3</sup> Den Vorsitz hat ein Mitglied aus dem Kreis der ordentlichen oder ausserordentlichen Professorinnen und Professoren.
-
-#### § 32
+#### § 26
 
 **Struktur- und Berufungskommissionen**
 
 <sup>1</sup> Die Struktur- und Berufungskommissionen sind nichtständige Kommissionen.
 
-<sup>2</sup> Die Fakultätsversammlung regelt unter Beachtung des übergeordneten Rechts die Einzelheiten der Zusammensetzung und Aufgaben. Das Verfahren ist in entsprechenden fakultären Reglementen geregelt.
+<sup>2</sup> Den Vorsitz und den stellvertretenden Vorsitz haben die stellvertretende Dekanin oder der stellvertretende Dekan und ein Mitglied aus dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren.
 
-### 9. Abschnitt: Geschäftsstelle Direktorium UMZH
+<sup>3</sup> Den Struktur- und Berufungskommissionen obliegt die Durchführung von Berufungsverfahren sowie die Antragstellung auf Ernennung von Professorinnen und Professoren zuhanden der Direktorin oder des Direktors UMZH.
 
-#### § 33
+<sup>4</sup> Die Fakultätsversammlung regelt unter Beachtung des übergeordneten Rechts (§ 10 UniO) die Einzelheiten der Zusammensetzung und Aufgaben sowie das Verfahren.
 
-**Organisation**
+#### § 27
 
-<sup>1</sup> Das Direktorium wird von einer Geschäftsstelle unterstützt.
+**Kommissionen Professuren ad personam**
 
-<sup>2</sup> Diese ist in die drei Bereiche «Struktur und Entwicklung», «Ressourcen und Finanzen» sowie «Lehre, Forschung und Fakultätsgeschäfte» gegliedert.
+<sup>1</sup> Die Kommissionen Professuren ad personam sind nichtständige Kommissionen.
 
-#### § 34
+<sup>2</sup> Den Vorsitz hat ein Mitglied aus dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren.
 
-**Geschäftsleitung**
+<sup>3</sup> Den Kommissionen Professuren ad personam obliegt a. die Durchführung von Berufungsverfahren sowie die Antragstellung auf Ernennung und auf Beförderung von Professorinnen und Professoren ad personam zuhanden der Direktorin oder des Direktors UMZH,
 
-<sup>1</sup> Die Leiterinnen und Leiter der Bereiche bilden zusammen die Geschäftsleitung.
+- b. die Antragstellung auf Beförderung von ausserordentlichen Professorinnen und Professoren sowie von Assistenzprofessorinnen und -professoren zuhanden der Direktorin oder des Direktors UMZH.
 
-<sup>2</sup> Die Koordination der drei Bereiche, insbesondere für bereichsübergreifende Aufgaben und Projekte, obliegt der Leiterin oder dem Leiter des Bereichs «Struktur und Entwicklung».
+<sup>4</sup> Die Fakultätsversammlung regelt unter Beachtung des übergeordneten Rechts (§ 10 UniO) die Einzelheiten der Zusammensetzung und Aufgaben sowie das Verfahren.
 
-<sup>3</sup> Die Geschäftsleitung ist dem Direktorium unterstellt.
+#### § 28
 
-#### § 35
+**Beförderungskommission**
 
-**Zusammenarbeit zwischen Direktorium und Geschäftsleitung**
+<sup>1</sup> Die Beförderungskommission setzt sich zusammen aus a. der stellvertretenden Dekanin oder dem stellvertretenden Dekan,
 
-<sup>1</sup> Das Direktorium und die Geschäftsleitung treffen sich regelmässig zu gemeinsamen Sitzungen. Ausserordentliche Sitzungen können von jedem Mitglied des Direktoriums einberufen werden.
+- b. je einem Fakultätsmitglied der Fachbereiche,
 
-<sup>2</sup> Das Direktorium und die Geschäftsleitung verfügen über ein gemeinsames Sekretariat.
+- c. je einer Vertreterin oder einem Vertreter der Stände der fortgeschrittenen Forschenden und Lehrenden, des wissenschaftlichen Nachwuchses und der Studierenden.
 
-#### § 36
+<sup>2</sup> Den Vorsitz hat ein Mitglied aus dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren.
 
-**Bereich «Struktur und Entwicklung»**
+<sup>3</sup> Die Beförderungskommission ist zuständig für a. die Evaluation von Anträgen betreffend Habilitationen, Umhabilitation, Titularprofessuren und klinische Dozenturen,
 
-<sup>1</sup> Der Bereich «Struktur und Entwicklung» unterstützt das Direktorium UMZH in allen Geschäften, für die primär die Direktorin oder der Direktor UMZH zuständig ist.
+- b. die Antragstellung zuhanden der Fakultätsversammlung mit Bezug auf die Erteilung und den Entzug der Venia Legendi, die Verleihung, die Verlängerung und den Entzug der Titularprofessur und von anderen akademischen Titeln.
 
-<sup>2</sup> Der Bereich ist verantwortlich für die Entwicklung von strategischen Analysen zuhanden des Direktoriums sowie für die Bearbeitung von strategischen Projekten zur Weiterentwicklung der UMZH.
+#### § 29
 
-<sup>3</sup> Er ist verantwortlich für die Pflege und den Ausbau der akademischen und medizinischen Netzwerke und für die Öffentlichkeitsarbeit.
+**Forschungskommission**
 
-#### § 37
+<sup>1</sup> Die Forschungskommission setzt sich zusammen aus der Vizedekanin oder dem Vizedekan Forschung, je einem Fakultätsmitglied der Fachbereiche, mindestens fünf weiteren Fakultätsmitgliedern sowie je einer Vertreterin oder einem Vertreter der Stände.
 
-**Bereich «Ressourcen und Finanzen»**
+<sup>2</sup> Den Vorsitz hat die Vizedekanin oder der Vizedekan Forschung.
 
-<sup>1</sup> Der Bereich «Ressourcen und Finanzen» ist für die strategische Finanz- und Ressourcenplanung der Fakultät zuständig.
+<sup>3</sup> Die Forschungskommission beurteilt die eingegangenen Forschungsgesuche zuhanden der universitären Forschungskommission.
 
-<sup>2</sup> Er entwickelt finanzielle Modelle und Entscheidungsgrundlagen, insbesondere zur Vorbereitung des Entwicklungs- und Finanzplans und des Budgets der Fakultät.
+#### § 30
 
-<sup>3</sup> Er sorgt für das Controlling der wesentlichen strategischen Ziele mit den entsprechenden Instrumenten und Kennzahlen sowie für die Erstellung notwendiger Berichte und Führungsinformationen.
+**Kommission Forschungsstrategie**
 
-<sup>4</sup> Er unterstützt die zuständigen Organisationseinheiten der Fakultät bei der Budgeterstellung und -einhaltung sowie bei der finanziellen Planung und Abrechnung der Lehr- und Forschungsleistungen.
+<sup>1</sup> Die Kommission Forschungsstrategie setzt sich zusammen aus der Vizedekanin oder dem Vizedekan Forschung und je ein bis zwei Fakultätsmitgliedern aus den Bereichen Innovation, Translation und Implementation.
 
-<sup>5</sup> Ihm obliegt in enger Kooperation mit den Partnerinstitutionen der UMZH die Raum- und Infrastrukturplanung der Fakultät.
+<sup>2</sup> Den Vorsitz hat die Vizedekanin oder der Vizedekan Forschung.
 
-#### § 38
+<sup>3</sup> Die Kommission Forschungsstrategie erarbeitet die Forschungsstrategie der Fakultät und setzt sie um.
 
-**Bereich «Lehre, Forschung und Fakultätsgeschäfte»**
+#### § 31
 
-<sup>1</sup> Der Bereich «Lehre, Forschung und Fakultätsgeschäfte» ist primär zuständig für die Bearbeitung und Koordination der fakultären Geschäfte.
+**Chancengleichheitskommission**
 
-<sup>2</sup> Das Direktorium kann eine Co-Leitung zwischen der Leiterin oder dem Leiter des Bereichs «Lehre, Forschung und Fakultätsgeschäfte» und der Leiterin oder dem Leiter des Studiendekanats anordnen.
+<sup>1</sup> Die Chancengleichheitskommission setzt sich zusammen aus a. der Vizedekanin oder dem Vizedekan Innovation und Digitalisierung,
 
-<sup>3</sup> Zu den Aufgaben und Verantwortungen gehören insbesondere:
+- b. mindestens je einem Fakultätsmitglied der universitären Spitäler,
 
-- 1\. Unterstützung der Prodekaninnen und Prodekane Lehre Vorklinik und Lehre Klinik, Forschung und Planung, Nachwuchsförderung und Chancengleichheit sowie Interprofessionalität bei ihren zugeteilten Aufgaben und Verantwortlichkeiten,
+- c. mindestens je einem Fakultätsmitglied der Bereiche Grundlagenfächer und Querschnittsfächer,
 
-- 2\. administrative Abwicklung und Durchführung der Berufungsgeschäfte in enger Zusammenarbeit mit der Dekanin oder dem Dekan,
+- d. einem Fakultätsmitglied des Zentrums für Zahnmedizin,
 
-- 3\. Erledigung von allen Anfragen, welche die Fakultät betreffen, einschliesslich Personalgeschäfte.
+- e. je einer Vertreterin oder einem Vertreter der Stände.
+
+<sup>2</sup> Die Kommission ist paritätisch aus Frauen und Männern zusammengesetzt.
+
+<sup>3</sup> Den Vorsitz hat die Vizedekanin oder der Vizedekan Innovation und Digitalisierung.
 
 **13**
 
-- 1\. 4. 19 - 104
+1.10. 21 - 114
 
-<sup>4</sup> Der Bereich «Lehre, Forschung und Fakultätsgeschäfte» stellt sicher, dass die akademische Verwaltung, insbesondere die Bearbeitung der Geschäfte der Fakultät, in enger Koordination mit dem Direktorium und dem Bereich «Struktur und Entwicklung» erfolgt.
+<sup>4</sup> Die Chancengleichheitskommission ist zuständig für a. die Umsetzung der Chancengleichheit der Geschlechter, insbesondere bei Berufungen und in der Nachwuchsförderung,
+
+- b. die Erarbeitung entsprechender Massnahmen und Programme zuhanden des Fakultätsvorstands,
+
+- c. die Evaluation dieser Massnahmen und Programme.
+
+#### § 32
+
+**Kommission Lehre**
+
+<sup>1</sup> Die Kommission Lehre setzt sich zusammen aus a. den Vizedekaninnen oder Vizedekanen Lehre Vorklinik und Lehre Klinik,
+
+- b. je einer Vertreterin oder einem Vertreter der Vorklinik und der Klinik,
+
+- c. einer Vertreterin oder einem Vertreter der klinischen Dozierenden,
+
+- d. je zwei Vertreterinnen oder Vertretern des Zentrums für Zahnmedizin,
+
+- e. einer Vertreterin oder einem Vertreter der Chiropraktischen Medizin,
+
+- f. einer Vertreterin oder einem Vertreter der Programmleitung Mantelstudium,
+
+- g. einer Vertreterin oder einem Vertreter der Themenblockveranwortlichen,
+
+- h. je einer von den universitären Spitälern benannten Lehrkoordinatorin oder einem von den universitären Spitälern benannten Lehrkoordinator,
+
+- i. je einer Vertreterin oder einem Vertreter der Partnerspitäler,
+
+- j. je einer Vertreterin oder einem Vertreter der gemeinsamen Masterstudiengänge,
+
+- k. einer Vertreterin oder einem Vertreter der Medizinischen Bibliothek,
+
+- l. den Studienprogrammdirektorinnen oder -direktoren,
+
+- m. drei Vertreterinnen oder Vertretern der Studierenden und je einer Vertreterin oder einem Vertreter der übrigen Stände.
+
+<sup>2</sup> Die Leiterin oder der Leiter des Studiendekanats nimmt mit beratender Stimme an den Sitzungen teil.
+
+<sup>3</sup> Den Vorsitz und den stellvertretenden Vorsitz haben die Vizedekaninnen oder Vizedekane Lehre Vorklinik und Lehre Klinik.
+
+<sup>4</sup> Der Kommission Lehre obliegt die Beratung aller Geschäfte, Prozesse und Fragen aus dem Bereich der medizinischen Studiengänge sowie zur Förderung und Weiterentwicklung der medizinischen Hochschullehre.
+
+<sup>5</sup> Sie bildet die Plattform für den Austausch mit den Vertreterinnen und Vertretern der verschiedenen an der studentischen Lehre beteiligten Personen.
+
+#### § 33
+
+**Kommission Studiengangskoordination**
+
+<sup>1</sup> Die Kommission Studiengangskoordination setzt sich zusammen aus a. den Vizedekaninnen und Vizedekanen Lehre Vorklinik und Lehre Klinik,
+
+- b. mindestens einer Vertreterin oder einem Vertreter der Zahnmedizin,
+
+- c. mindestens einer Vertreterin oder einem Vertreter der Chiropraktischen Medizin,
+
+- d. der Leiterin oder dem Leiter des Studiendekanats,
+
+- e. der Leiterin oder dem Leiter des Bereichs Forschung.
+
+<sup>2</sup> Den Vorsitz und den stellvertretenden Vorsitz haben die Vizedekaninnen oder Vizedekane Lehre Vorklinik und Lehre Klinik.
+
+<sup>3</sup> Die Kommission hat folgende Aufgaben:
+
+- a. Koordinierung der Lehre der Fakultät unter Berücksichtigung der drei Studiengänge Humanmedizin, Zahnmedizin und Chiropraktische Medizin,
+
+- b. Austauschplattform zu allen Fragen, welche die Lehre betreffen.
+
+[^33-1]: LS 415.433.3.
+
+#### § 34
+
+**Doktoratsprogrammkommissionen**
+
+Zu jedem Doktoratsprogramm der Fakultät gibt es eine Kommission gemäss § 5 der Verordnung über die Promotion zum Doctor scientiarum medicarum (Dr. sc. med.) an der Medizinischen Fakultät der Universität Zürich vom 2. März 2009 (Promotionsverordnung)[^33-1].
+
+#### § 35
+
+**Dissertationskommission**
+
+<sup>1</sup> Die Dissertationskommission setzt sich zusammen aus a. den Vizedekaninnen und Vizedekanen Lehre Vorklinik und Lehre Klinik,
+
+- b. je zwei Fakultätsmitgliedern der Fachbereiche,
+
+- c. je einer Vertreterin oder einem Vertreter der Stände.
+
+<sup>2</sup> Den Vorsitz hat ein Mitglied aus dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren.
+
+<sup>3</sup> Die Dissertationskommission ist zuständig für die Begutachtung von human- und zahnmedizinischen sowie chiropraktischen Dissertationen zuhanden der Fakultätsversammlung.
+
+**15**
+
+1.10. 21 - 114 § 36. <sup>1</sup> Die Masterarbeitskommission setzt sich zusammen aus a. der Vizedekanin oder dem Vizedekan Lehre Vorklinik,
+
+**Masterarbeitskommission**
+
+- b. der Vizedekanin oder dem Vizedekan Lehre Klinik,
+
+- c. mindestens je drei Mitgliedern pro Fachbereich, davon mindestens je ein Fakultätsmitglied; wählbar sind auch Titularprofessorinnen und Titularprofessoren mit Promotionsrecht,
+
+- d. je einer Vertreterin oder einem Vertreter der Stände,
+
+- e. je zwei Vertreterinnen oder Vertretern aus den Joint-Degree-Masterstudiengängen.
+
+<sup>2</sup> Den Vorsitz hat ein Mitglied aus dem Kreis der ordentlichen und ausserordentlichen Professorinnen und Professoren.
+
+<sup>3</sup> Die Masterarbeitskommission ist zuständig für die Begutachtung von human- und zahnmedizinischen sowie chiropraktischen Masterarbeiten und legt die Masterarbeitsnoten fest.
+
+#### § 37
+
+**Kommission Sex and Gender in Medicine**
+
+<sup>1</sup> Die Kommission Sex and Gender in Medicine setzt sich zusammen aus a. der Vizedekanin oder dem Vizedekan Innovation und Digitalisierung,
+
+- b. mindestens einem Fakultätsmitglied jedes Fachbereichs,
+
+- c. weiteren in der Lehre tätigen Personen aus den verschiedenen Fächern,
+
+- d. Vertreterinnen oder Vertretern angrenzender Fächer aus anderen Fakultäten,
+
+- e. mindestens je einer Vertreterin oder einem Vertreter der Stände.
+
+<sup>2</sup> Die Kommission hat zum Ziel, dass die Kategorien Sex (biologisches Geschlecht) und Gender (soziales Geschlecht) sowohl in der Lehre und Forschung als auch in der Diagnose und Therapie von Krankheiten vermehrt berücksichtigt werden.
+
+<sup>3</sup> Den Vorsitz hat ein Fakultätsmitglied, in der Regel aus dem Kreis der ordentlichen oder ausserordentlichen Professorinnen und Professoren.
+
+### H. Geschäftsstelle
+
+#### § 38
+
+<sup>1</sup> Das Direktorium, der Fakultätsvorstand sowie die weiteren Organe und Kommissionen werden von einer Geschäftsstelle unterstützt.
+
+<sup>2</sup> Diese ist der Direktorin oder dem Direktor UMZH unterstellt.
+
+<sup>3</sup> Das Direktorium regelt gemeinsam mit dem Fakultätsvorstand die Einzelheiten in einem Reglement.
+
+### 3. Abschnitt: Verfahrensvorschriften
+
+### A. Sitzungen
 
 #### § 39
-
-**Studiendekanat**
-
-<sup>1</sup> Das Studiendekanat ist eine Abteilung des Bereichs «Lehre, Forschung und Fakultätsgeschäfte». Es ist weitgehend eigenständig und hat eine eigene Leitung.
-
-<sup>2</sup> Es ist zuständig für die fakultären Belange der Studierenden der Human-, Zahn- und Chiropraktischen Medizin, für die Planung und Organisation des Lehrbetriebs und für das Prüfungswesen sowie für die Akkreditierung der Studiengänge der Medizinischen Fakultät.
-
-<sup>3</sup> Das Studiendekanat arbeitet in enger Abstimmung mit den Prodekaninnen oder Prodekanen Lehre Vorklinik und Lehre Klinik zusammen.
-
-### 3. Teil: Verfahrensvorschriften
-
-### 1. Abschnitt: Sitzungen
-
-#### § 40
 
 **Ordentliche Sitzungen**
 
 <sup>1</sup> Das Direktorium tritt in der Regel einmal pro Woche zusammen.
 
-<sup>2</sup> Die Fakultätsversammlung, der Fakultätsausschuss und die Fachbereiche treten dreimal im Semester zusammen.
+<sup>2</sup> Der Fakultätsvorstand tritt mindestens einmal pro Monat zusammen.
 
-<sup>3</sup> Der Fakultätsvorstand tritt mindestens viermal im Semester zusammen.
+<sup>3</sup> Die Fakultätsversammlung, der Fakultätsausschuss und die Fachbereichsversammlungen treten mindestens dreimal im Semester zusammen.
 
 <sup>4</sup> Die Sitzungen der Fachbereichsversammlungen sind jeweils vor den Sitzungen des Fakultätsausschusses durchzuführen.
 
-#### § 41
+#### § 40
 
 **Ausserordentliche Sitzungen**
 
 <sup>1</sup> Ausserordentliche Sitzungen der Fakultätsversammlung werden durch die Dekanin oder den Dekan nach Bedarf, gemäss Beschluss des Fakultätsausschusses oder auf Begehren von mindestens einem Drittel der stimmberechtigten Mitglieder der Fakultätsversammlung einberufen.
 
-<sup>2</sup> Ausserordentliche Sitzungen des Fakultätsvorstands und des Fakultätsausschusses werden durch die Dekanin oder den Dekan nach Bedarf oder auf Begehren von mindestens zwei Mitgliedern des Fakultätsvorstands bzw. fünf Mitgliedern des Fakultätsausschusses einberufen.
+<sup>2</sup> Ausserordentliche Sitzungen des Direktoriums werden durch die Direktorin oder den Direktor UMZH nach Bedarf oder auf Begehren von mindestens einem Mitglied des Direktoriums einberufen.
 
-<sup>3</sup> Ausserordentliche Sitzungen der Fachbereichsversammlungen werden nach Bedarf durch die jeweiligen Vorsitzenden einberufen.
+<sup>3</sup> Ausserordentliche Sitzungen des Fakultätsvorstands werden durch die Direktorin oder den Direktor UMZH nach Bedarf oder auf Begehren von mindestens zwei Mitgliedern des Fakultätsvorstands einberufen.
 
-#### § 42
+<sup>4</sup> Ausserordentliche Sitzungen des Fakultätsausschusses werden durch die Dekanin oder den Dekan nach Bedarf oder auf Begehren von mindestens fünf Mitgliedern des Fakultätsausschusses einberufen.
+
+<sup>5</sup> Ausserordentliche Sitzungen der Fachbereichsversammlungen werden nach Bedarf durch die jeweiligen Vorsitzenden einberufen.
+
+#### § 41
 
 **Anwesenheits- und Stimmpflicht**
 
 <sup>1</sup> Die Anwesenheit an der Fakultätsversammlung ist für die Mitglieder Amtspflicht.
 
-<sup>2</sup> Die Mitglieder des Fakultätsausschusses und des Fakultätsvorstands haben an den Sitzungen des Fakultätsausschusses bzw. Fakultätsvorstands teilzunehmen und sind bei Abstimmungen und Wahlen zur Stimmabgabe verpflichtet.
+**17**
 
-#### § 43
+1.10. 21 - 114
+
+<sup>2</sup> Die Mitglieder des Direktoriums, des Fakultätsvorstands und des Fakultätsausschusses haben an den Sitzungen des Direktoriums, des Fakultätsvorstands bzw. des Fakultätsausschusses teilzunehmen und sind bei Abstimmungen und Wahlen zur Stimmabgabe verpflichtet.
+
+#### § 42
 
 **Einberufung**
 
-<sup>1</sup> Einladungen und Traktandenlisten für die Fakultätsversammlung, den Fakultätsausschuss, den Fakultätsvorstand und die Fachbereichsversammlungen sind spätestens sechs Tage vor dem Sitzungsdatum zu versenden.
+<sup>1</sup> Einladungen und Traktandenlisten für die Sitzungen der Fakultätsversammlung, des Direktoriums, des Fakultätsvorstands, des Fakultätsausschusses, der Fachbereichsversammlungen und der Kommissionen sind spätestens sechs Tage vor dem Sitzungsdatum zu versenden.
 
-<sup>2</sup> Die Sitzungsdaten werden jeweils zwei Semester im Voraus bekannt gegeben.
+<sup>2</sup> Die Sitzungsdaten werden nach Möglichkeit jeweils zwei Semester im Voraus bekannt gegeben.
 
-#### § 44
+#### § 43
 
 **Traktanden**
 
-<sup>1</sup> Anträge auf Behandlung eines Traktandums in der Fakultätsversammlung, im Fakultätsausschuss und im Fakultätsvorstand sind der Dekanin oder dem Dekan und in den Fachbereichsversammlungen den Vorsitzenden bis spätestens vierzehn Tage vor Sitzungsbeginn schriftlich einzureichen.
+<sup>1</sup> Anträge auf Behandlung eines Traktandums sind der oder dem Vorsitzenden bis spätestens vierzehn Tage vor Sitzungsbeginn schriftlich einzureichen.
 
 <sup>2</sup> Nicht traktandierte Geschäfte können bei Beginn einer Sitzung in die Traktandenliste aufgenommen werden, wenn mindestens drei Viertel der stimmberechtigten Mitglieder anwesend sind und sich mindestens drei Viertel der Anwesenden für die Traktandierung aussprechen.
 
-#### § 45
+#### § 44
 
 **Protokoll**
 
-<sup>1</sup> Über die Sitzungen der Fakultätsversammlung, des Fakultätsausschusses, des Fakultätsvorstands, der Fachbereichsversammlung und des Direktoriums wird ein Protokoll geführt.
+<sup>1</sup> Über die Sitzungen der Fakultätsversammlung, des Direktoriums, des Fakultätsvorstands, des Fakultätsausschusses, der Fachbereichsversammlungen und der Kommissionen wird ein Protokoll geführt.
 
 <sup>2</sup> Es ist an der nächsten Sitzung zur Genehmigung vorzulegen.
 
-### 2. Abschnitt: Abstimmungen und Wahlen
+### B. Abstimmungen und Wahlen
 
-#### § 46
+#### § 45
 
 **Beschlussfähigkeit**
 
 <sup>1</sup> Die Fakultätsversammlung und die Fachbereichsversammlungen sind beschlussfähig, wenn mindestens ein Viertel der stimmberechtigten Mitglieder anwesend sind.
 
-<sup>2</sup> Der Fakultätsausschuss, der Fakultätsvorstand und die Kommissionen sind beschlussfähig, wenn mindestens die Hälfte der stimmberechtigten Mitglieder anwesend sind.
+<sup>2</sup> Das Direktorium, der Fakultätsvorstand, der Fakultätsausschuss und die Kommissionen sind beschlussfähig, wenn mindestens die Hälfte der stimmberechtigten Mitglieder anwesend ist.
 
-<sup>3</sup> Mit Ausnahme von Wahlgeschäften können ordnungsgemäss angekündigte Geschäfte von einer geringeren Zahl von Mitgliedern behandelt werden, wenn sie von mindestens drei Viertel der anwesenden Stimmberechtigten als dringlich anerkannt werden.
+<sup>3</sup> Mit Ausnahme von Wahlgeschäften können ordnungsgemäss angekündigte Geschäfte von einer geringeren Zahl von Mitgliedern behandelt werden, wenn sie von mindestens drei Vierteln der anwesenden Stimmberechtigten als dringlich anerkannt werden.
 
-**15**
-
-- 1\. 4. 19 - 104 § 47. <sup>1</sup> Die Fakultätsversammlung, der Fakultätsausschuss, der Fakultätsvorstand, die Fachbereichsversammlungen und die Kommissionen beschliessen mit einfacher Mehrheit der abgegebenen Stimmen.
+#### § 46
 
 **Abstimmungen**
 
-<sup>2</sup> Bei Beratung und Beschlussfassung über Promotionen, Habilitationen und Titularprofessuren dürfen die Vertreterinnen und Vertreter der Stände nur dann mitwirken, wenn sie die entsprechende Prüfung abgelegt haben.
+<sup>1</sup> Die Fakultätsversammlung, der Fakultätsvorstand, der Fakultätsausschuss, die Fachbereichsversammlungen und die Kommissionen beschliessen mit einfacher Mehrheit der abgegebenen Stimmen. Bei Stimmengleichheit hat die oder der Vorsitzende den Stichentscheid, im Fakultätsvorstand die Dekanin oder der Dekan.
 
-<sup>3</sup> Die Abstimmungen in der Fakultätsversammlung erfolgen elektronisch und sind geheim.
+<sup>2</sup> Das Direktorium entscheidet im Konsens. Kommt kein Konsens zustande, entscheidet die Direktorin oder der Direktor UMZH.
 
-#### § 48
+<sup>3</sup> Bei Beschlussfassung a. über wissenschaftliche Leistungen wie Prüfungen, Masterarbeiten, Dissertationen sowie Habilitationsschriften und -vorträge,
+
+- b. über Promotionen, Habilitationen und Titularprofessuren sind die Vertreterinnen und Vertreter der Stände nur dann stimmberechtigt, wenn sie die entsprechende Prüfung abgelegt oder den entsprechenden Abschluss oder Titel erlangt haben.
+
+<sup>4</sup> Bei der Beschlussfassung über die Berufung und Beförderung von Professorinnen und Professoren sind die Vertreterinnen und Vertreter der Stände nicht stimmberechtigt.
+
+<sup>5</sup> Die Abstimmungen in der Fakultätsversammlung erfolgen elektronisch und sind geheim.
+
+#### § 47
 
 **Wahlen**
 
 <sup>1</sup> Eine Wahl bedarf des absoluten Mehrs der abgegebenen Stimmen.
 
-<sup>2</sup> Wird im zweiten Wahlgang das absolute Mehr nicht erreicht, so genügt im dritten Wahlgang das relative Mehr der abgegebenen Stimmen.
+<sup>2</sup> Wird im zweiten Wahlgang das absolute Mehr nicht erreicht, genügt im dritten Wahlgang das relative Mehr der abgegebenen Stimmen.
 
-<sup>3</sup> Wahlen in der Fakultätsversammlung erfolgen elektronisch und sind geheim.
+### C. Schweigepflicht, Informationsrecht und Archivierung
 
-### 3. Abschnitt: Schweigepflicht, Informationsrecht und Archivierung
-
-#### § 49
+#### § 48
 
 **Schweigepflicht**
 
-<sup>1</sup> Die Mitglieder der Fakultätsgremien unterstehen der Schweigepflicht in Bezug auf:
+<sup>1</sup> Die Mitglieder der Fakultätsgremien unterstehen der Schweigepflicht in Bezug auf a. Berufung, Beförderung und Entlassung von Professorinnen und Professoren,
 
-- 1\. Berufung, Beförderung und Entlassung von Professorinnen und Professoren,
+- b. Erteilung und Entzug der Venia Legendi sowie Verleihung, Verlängerung und Entzug der Titularprofessur,
 
-- 2\. Erteilung und Entzug der Venia Legendi sowie Verleihung, Verlängerung und Entzug der Titularprofessur,
+- c. weitere Personalgeschäfte,
 
-- 3\. weitere Personalgeschäfte,
+- d. individuelle Leistungen beim Doktorat und bei Prüfungen,
 
-- 4\. individuelle Leistungen beim Doktorat und bei Prüfungen,
+- e. Stellungnahmen und Abstimmungsverhalten anderer Mitglieder,
 
-- 5\. Stellungnahmen und Abstimmungsverhalten anderer Mitglieder,
+- f. Geschäfte, die von der oder dem Vorsitzenden des zuständigen Fakultätsgremiums der Schweigepflicht unterstellt werden.
 
-- 6\. Geschäfte, die von der Dekanin oder dem Dekan oder dem in der Sache zuständigen Fakultätsgremium der Schweigepflicht unterstellt werden.
+**19**
 
-<sup>2</sup> Eine namentliche Nennung ist überdies im Zusammenhang mit anderen Geschäften zu unterlassen, wenn sie geeignet wäre, das Ansehen des Betroffenen herabzusetzen.
+1.10. 21 - 114
 
-<sup>3</sup> Die Bindung an die Schweigepflicht besteht auch nach dem Ausscheiden aus dem Amt.
+<sup>2</sup> Eine namentliche Nennung ist überdies im Zusammenhang mit anderen Geschäften zu unterlassen, wenn sie geeignet wäre, das Ansehen der oder des Betroffenen herabzusetzen.
 
-#### § 50
+#### § 49
 
 **Informationsrecht**
 
-<sup>1</sup> Die Mitglieder des Direktoriums dürfen, wo es geboten erscheint, die Mitglieder der Fakultätsversammlung und Dritte über die Geschäfte informieren, die der Schweigepflicht nach § 49 unterliegen.
+<sup>1</sup> Die Mitglieder des Direktoriums dürfen, wo es geboten erscheint, die Mitglieder der Fakultätsversammlung und Dritte über die Geschäfte informieren, die der Schweigepflicht nach § 48 unterliegen.
 
 <sup>2</sup> Unter den gleichen Voraussetzungen dürfen sie andere Personen ermächtigen, Informationen weiterzugeben.
 
-#### § 51
+#### § 50
 
 **Archivierung**
 
@@ -800,7 +882,21 @@ Der Fakultätsausschuss setzt sich zusammen aus dem Fakultätsvorstand, den Vors
 
 <sup>2</sup> Anschliessend übergibt es die Akten dem Universitätsarchiv.
 
-### Anhang zum Organisationsreglement der Medizinischen Fakultät (OrgR-MeF)
+<sup>3</sup> Dies gilt auch für elektronische Akten.
+
+### 4. Abschnitt: Schlussbestimmungen
+
+[^h4AbschnittSchlus-1]: Von der Erweiterten Universitätsleitung genehmigt am 11. Mai 2021.
+
+#### § 51
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieses Organisationsreglement tritt nach der Genehmigung[^h4AbschnittSchlus-1] durch die Erweiterte Universitätsleitung am 1. August 2021 in Kraft.
+
+<sup>2</sup> Es ersetzt auf diesen Zeitpunkt das Organisationsreglement der Medizinischen Fakultät der Universität Zürich vom 4. Dezember 2018.
+
+### Anhang zum Organisationsreglement der Medizinischen Fakultät der Universität Zürich (OrgR MeF)
 
 ### Organisationseinheiten
 
@@ -817,3 +913,7 @@ Der Fakultätsausschuss setzt sich zusammen aus dem Fakultätsvorstand, den Vors
 - 6\. Querschnittsfächer: Biomedizinische Ethik und Medizingeschichte; Biomedizinische Technik; Chiropraktik, Diagnostische und Interventionelle Radiologie; Epidemiologie, Biostatistik und Prävention; Evolutionäre Medizin; Klinische Chemie; Labortierkunde; Medizinische Genetik; Medizinische Molekulargenetik; Medizinische Mikrobiologie; Medizinische Virologie; Nuklearmedizin; Pathologie und Molekularpathologie; Quantitative Biomedizin (MNF); Radio-Onkologie; Rechtsmedizin; Regenerative Medizin
 
 - 7\. Zahnmedizin: Allgemein-, Behinderten- und Seniorenzahnmedizin; Kaufunktionsstörungen; Kieferorthopädie und Kinderzahnmedizin; Kronen- und Brückenprothetik, Teilprothetik und zahnärztliche Materialkunde; Mund-, Kiefer- und Gesichtschirurgie; Orale Biologie; Präventivzahnmedizin, Paradontologie und Kariologie
+
+**21**
+
+1.10. 21 - 114
