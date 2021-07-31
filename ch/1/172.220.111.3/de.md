@@ -4,11 +4,11 @@ title: Bundespersonalverordnung vom 3. Juli 2001 (BPV)
 short: BPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: de
-version: 2021-07-01
+version: 2021-08-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210701/de"
 
 (BPV)
 
-vom 3. Juli 2001 (Stand am 1. Juli 2021)
+vom 3. Juli 2001 (Stand am 1. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1988,6 +1988,27 @@ Der Anspruch auf Vergütung bleibt bestehen während:
 
 [^75c-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
+#### Art. 75d
+
+**Verfahren und Sanktionen**[^75d-1]
+
+### (Art. 4 Abs. 2 Bst. i und 31 Abs. 2 BPG)
+
+<sup>1</sup>
+
+Die angestellte Person reicht ein schriftliches Gesuch um Ausrichtung einer Vergütung von Kosten der familienergänzenden Kinderbetreuung ein und bestätigt durch ihre Unterschrift die Richtigkeit der Angaben. Das Gesuch muss folgende Angaben enthalten:
+
+- a. Beschäftigungsgrad der Personen nach Artikel 75*b* Buchstabe a;
+- b. Art der Kinderbetreuung nach Artikel 75*b* Buchstabe c;
+- c. Bruttoeinkommen nach Artikel 75*b* Buchstabe d;
+- d. Fremdbetreuungsquote.
+
+<sup>2</sup> Die zuständige Stelle führt jährlich bei mindestens 10 Prozent der bewilligten Gesuche Stichproben durch. Sie überprüft dabei die Richtigkeit der Angaben des Gesuchs und kann zusätzliche Angaben verlangen.
+
+<sup>3</sup> Die angestellte Person muss zu Unrecht erhaltene Vergütungen zurückzahlen. Hat sie Vergütungen durch vorsätzlich gemachte unrichtige Angaben wiederholt erschlichen, so kann ihr der Anspruch auf Vergütung von Kosten der familienergänzenden Kinderbetreuung befristet oder unbefristet entzogen werden.
+
+[^75d-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Aug. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+
 #### Art. 76
 
 **Vergünstigungen für das Personal**[^76-1]
@@ -2250,7 +2271,7 @@ Als internationale Organisationen im Sinne dieser Bestimmung gelten:
 [^88-4]: Eingefügt durch Anhang Ziff. 4 der Gaststaatverordnung vom 7. Dez. 2007 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)). Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^88-5]: Eingefügt durch Ziff. I der V vom 20. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
-## 4*a*. Kapitel:**** Berufliche Vorsorge
+## 4*a*. Kapitel: Berufliche Vorsorge
 
 [^chap4a-1]
 
@@ -2784,7 +2805,7 @@ Ist eine korrekte Aufgabenerfüllung gefährdet, so kann die zuständige Stelle 
 [^103a-3]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^103a-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
-## 7. Kapitel:**** Massnahmen und Leistungen des Arbeitgebers in besonderen Fällen
+## 7. Kapitel: Massnahmen und Leistungen des Arbeitgebers in besonderen Fällen
 
 [^chap7-1]
 
@@ -2993,7 +3014,7 @@ Der Arbeitgeber kann aus triftigen Gründen zusätzlich zur vorzeitigen Teil- od
 
 [^105d-1]: Eingefügt durch Ziff. I der V vom 12. Okt. 2016, in Kraft seit 1. Dez. 2016 ([AS 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 
-### 2. Abschnitt: Leistungen des Arbeitgebers zur sozialen Sicherung des Personals bei einvernehmlicher Auflösung des Arbeitsverhältnisses****
+### 2. Abschnitt: Leistungen des Arbeitgebers zur sozialen Sicherung des Personals bei einvernehmlicher Auflösung des Arbeitsverhältnisses
 
 [^chap7-sec2-1]
 
@@ -3095,7 +3116,7 @@ Die Personalkommissionen begutachten zuhanden der Geschäftsleitungen:
 
 [^109-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## 9. Kapitel: Verjährung****
+## 9. Kapitel: Verjährung
 
 [^chap9-1]
 
@@ -3243,7 +3264,7 @@ Es kann im Einvernehmen mit dem Eidgenössischen Departement des Innern abweiche
 [^116-1]: Eingefügt durch Ziff. I der V vom 12. Juni 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)). Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^116-2]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## 11. Kapitel: Schlussbestimmungen****
+## 11. Kapitel: Schlussbestimmungen
 
 [^chap11-1]
 
@@ -3367,7 +3388,7 @@ Angestellte in den Lohnklassen 31 und höher, deren Stelle beim Inkrafttreten de
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 88*f* Abs. 5)
 
@@ -3383,7 +3404,7 @@ Anhang 1*[^t-1]*
 <tr><td>64</td><td>75 %</td><td>70 %</td><td>55 %</td><td>50 %</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 88*a* Abs. 1)
 
@@ -3406,7 +3427,7 @@ Anhang 2*[^t-2]*
 
 [^annex2-lvlu1-1]: [SR 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 79 Abs. 1<sup>bis</sup>)
 

@@ -4,11 +4,11 @@ title: Ordinanza del 3 luglio 2001 sul personale federale (OPers)
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: it
-version: 2021-07-01
+version: 2021-08-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210701/it"
 
 (OPers)
 
-del 3 luglio 2001 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 3 luglio 2001 (Stato 1° agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -1984,6 +1984,27 @@ Il diritto al rimborso viene mantenuto durante:
 
 [^75c-1]: Introdotto dal n. I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
+#### Art. 75d
+
+**Procedura e sanzioni**[^75d-1]
+
+### (art. 4 cpv. 2 lett. i e 31 cpv. 2 LPers)
+
+<sup>1</sup>
+
+L’impiegato presenta una domanda scritta di rimborso dei costi per la custodia di bambini complementare alla famiglia e conferma con la propria firma la correttezza delle indicazioni fornite. La domanda deve contenere le indicazioni seguenti:
+
+- a. il tasso di occupazione delle persone di cui all’articolo 75*b* lettera a;
+- b. il tipo di custodia secondo l’articolo 75*b* lettera c;
+- c. il reddito lordo di cui all’articolo 75*b* lettera d;
+- d. la quota della custodia da parte di terzi.
+
+<sup>2</sup> L’autorità competente effettua ogni annuo controlli a campione su almeno il 10 per cento delle domande approvate. Verifica la correttezza delle indicazioni contenute nella domanda e può esigere ulteriori informazioni.
+
+<sup>3</sup> L’impiegato deve restituire le indennità percepite indebitamente. Se ha ottenuto più volte l’indennità in modo fraudolento fornendo intenzionalmente indicazioni inesatte, il diritto al rimborso dei costi per la custodia di bambini complementare alla famiglia può essergli negato per un periodo determinato o indeterminato.
+
+[^75d-1]: Introdotto dal n. I dell‘O del 18 nov. 2020, in vigore dal 1° ago. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+
 #### Art. 76
 
 **Riduzioni di prezzo per il personale**[^76-1]
@@ -2245,7 +2266,7 @@ Per organizzazioni internazionali ai sensi della presente disposizione si intend
 [^88-4]: Introdotto dall’all. n. 4 dell’O del 7 dic. 2007 sullo Stato ospite ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)). Nuovo testo giusta il n. I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^88-5]: Introdotto dal n. I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
-## Capitolo 4*a*:**** Previdenza professionale
+## Capitolo 4*a*: Previdenza professionale
 
 [^chap4a-1]
 
@@ -2986,7 +3007,7 @@ Per motivi validi, in aggiunta al pensionamento anticipato parziale o integrale,
 
 [^105d-1]: Introdotto dal n. I dell’O del 12 ott. 2016, in vigore dal 1° dic. 2016 ([RU 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 
-### Sezione 2: Prestazioni del datore di lavoro per la protezione sociale del personale in caso di risoluzione del rapporto di lavoro di comune intesa****
+### Sezione 2: Prestazioni del datore di lavoro per la protezione sociale del personale in caso di risoluzione del rapporto di lavoro di comune intesa
 
 [^chap7-sec2-1]
 
@@ -3088,7 +3109,7 @@ Le commissioni del personale valutano all’attenzione delle direzioni:
 
 [^109-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## Capitolo 9: Prescrizione****
+## Capitolo 9: Prescrizione
 
 [^chap9-1]
 
@@ -3236,7 +3257,7 @@ Esso può, d’intesa con il Dipartimento federale dell’interno, emanare dispo
 [^116-1]: Introdotto dal n. I dell’O del 12 giu. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)). Nuovo testo giusta il n. I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^116-2]: Introdotta dal n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## Capitolo 11: Disposizioni finali****
+## Capitolo 11: Disposizioni finali
 
 [^chap11-1]
 

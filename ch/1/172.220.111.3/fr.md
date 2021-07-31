@@ -4,11 +4,11 @@ title: Ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPer
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: fr
-version: 2021-07-01
+version: 2021-08-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20210701/fr"
 
 (OPers)
 
-du 3 juillet 2001 (Etat le 1<sup>er</sup> juillet 2021)
+du 3 juillet 2001 (Etat le 1<sup>er</sup> août 2021)
 
 Le Conseil fédéral suisse,
 
@@ -315,7 +315,7 @@ Le travail est interrompu par des pauses d’au moins:
 
 <sup>3</sup> Le travail mobile consiste à travailler à un autre endroit que dans les locaux mis à disposition par l’employeur sur le lieu de travail visé à l’art. 25, al. 2, let. c.
 
-[^10c-1]: Introduit par le ch.I de l’O du 12 mai 2021 ,en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^10c-1]: Introduit par le ch.I de l’O du 12 mai 2021 en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 [^10c-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 [^10c-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
@@ -1532,7 +1532,7 @@ L’employeur prend en charge les frais non couverts par les assurances privées
 
 [^60b-1]
 
-[^60b-1]: Entre en vigueur au 1<sup>er</sup> janv. 2022 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^60b-1]: Entre en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 60c
 
@@ -1555,7 +1555,7 @@ L’enfant est réputé gravement atteint dans sa santé:
 
 <sup>4</sup> Chaque cas de maladie ou d’accident ne donne droit qu’à un congé. Une rechute qui survient après une longue période sans symptôme est reconnue comme un nouveau cas.
 
-[^60c-1]: Introduit par le ch.I de l’O du 12 mai 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)), en vigueur depuis le 1<sup>er</sup> juil. 2021.
+[^60c-1]: Introduit par le ch.I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 61
 
@@ -1633,7 +1633,7 @@ Le DFF a les tâches suivantes:
 
 <sup>2</sup> Ils conviennent avec les employés des lieux où la prestation de travail est fournie. Ils accordent la plus grande liberté de choix possible aux employés en tenant compte des intérêts du service.
 
-[^64a-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^64a-1]: Introduit par le ch.I de l’O du 12 mai 2021 en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)),.
 
 #### Art. 64a<sup>bis</sup>
 
@@ -1675,9 +1675,9 @@ Le DFF a les tâches suivantes:
 
 [^64b-1]: Anciennement art. 64*a*. Introduit par le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)).
 [^64b-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^64b-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^64b-3]: Nouvelle teneur selon le ch.I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)),.
 [^64b-4]: [RS 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
-[^64b-5]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^64b-5]: Nouvelle teneur le ch.I de l’O du 12 mai 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)), en vigueur depuis le 1er juil. 2021.
 [^64b-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
 #### Art. 65
@@ -1813,7 +1813,7 @@ Les vacances sont réduites en proportion de la durée de l’absence si, au cou
 
 <sup>4</sup> Les départements fixent les modalités dans leur domaine d’activité. Ils déterminent notamment s’il y a nécessité d’utiliser des instruments de travail et du matériel.
 
-[^69-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^69-1]: Nouvelle teneur selon le ch.I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 70
 
@@ -1869,7 +1869,7 @@ Le DFF fixe les indemnités versées pour:
 - f.[^72-2] les frais liés au travail mobile.
 
 [^72-1]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
-[^72-2]: Introduite par le ch. I de l’O du 12 mai 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)), en vigueur depuis le 1er juil. 2021.t
+[^72-2]: Introduite par le ch. I de l’O du 12 mai 2021 en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 
 #### Art. 73
 
@@ -1987,6 +1987,27 @@ Le droit au remboursement est maintenu pendant:
 <sup>3</sup> Il n’est pas accordé en cas de congé non payé de l’employé ou du partenaire.
 
 [^75c-1]: Introduit par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
+
+#### Art. 75d
+
+**Procédure et sanctions**[^75d-1]
+
+### (art. 4, al. 2, let. i, et 31, al. 2, LPers)
+
+<sup>1</sup>
+
+L’employé présente une demande écrite de remboursement des coûts de l’accueil extrafamilial d’enfants et confirme par sa signature l’exactitude des indications fournies. La demande doit comprendre les indications suivantes:
+
+- a. le taux d’occupation des personnes visées à l’art. 75*b*, let. a;
+- b. le type d’accueil extrafamilial visé à l’art. 75*b,* let. c;
+- c. le revenu brut annuel du ménage visé à l’art. 75*b*, let. d;
+- d. le taux de l’accueil extrafamilial d’enfants.
+
+<sup>2</sup> L’autorité compétente contrôle chaque année par sondage au minimum 10 % des demandes approuvées. Elle vérifie l’exactitude des indications contenues dans la demande et peut exiger des informations complémentaires.
+
+<sup>3</sup> L’employé doit rembourser les indemnités perçues à tort. Si l’indemnité a été obtenue frauduleusement de manière répétée car il a fourni intentionnellement des indications inexactes, son droit au remboursement des coûts de l’accueil extrafamilial d’enfants peut être supprimé pour une durée déterminée ou indéterminée.
+
+[^75d-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
 #### Art. 76
 
@@ -2250,7 +2271,7 @@ On entend par organisations internationales au sens de la présente disposition:
 [^88-4]: Introduit par l’annexe ch. 4 de l’O du 7 décembre 2007 sur l’État hôte ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)). Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^88-5]: Introduit par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
-## Chapitre 4*a***** Prévoyance professionnelle
+## Chapitre 4*a* Prévoyance professionnelle
 
 [^chap4a-1]
 
@@ -2784,7 +2805,7 @@ Si l’exécution correcte des tâches est compromise, l’autorité compétente
 [^103a-3]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^103a-4]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
-## Chapitre 7**** Mesures et prestations de l’employeur dans des cas particuliers
+## Chapitre 7 Mesures et prestations de l’employeur dans des cas particuliers
 
 [^chap7-1]
 
@@ -2993,7 +3014,7 @@ L’employeur peut, pour des raisons pertinentes, fournir les prestations suivan
 
 [^105d-1]: Introduit par le ch. I de l’O du 12 oct. 2016, en vigueur depuis le 1<sup>er</sup> déc. 2016 ([RO 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 
-### Section 2 Prestations de l’employeur pour assurer la protection sociale du personnel en cas de résiliation d’un commun accord des rapports de travail****
+### Section 2 Prestations de l’employeur pour assurer la protection sociale du personnel en cas de résiliation d’un commun accord des rapports de travail
 
 [^chap7-sec2-1]
 
@@ -3095,7 +3116,7 @@ Les commissions du personnel émettent un avis à l’intention des organes de d
 
 [^109-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## Chapitre 9 Prescription****
+## Chapitre 9 Prescription
 
 [^chap9-1]
 
@@ -3244,7 +3265,7 @@ Il peut, après entente avec le Département fédéral de l’intérieur, édict
 [^116-1]: Introduit par le ch. I de l’O du 12 juin 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)). Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^116-2]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## Chapitre 11 Dispositions finales****
+## Chapitre 11 Dispositions finales
 
 [^chap11-1]
 
@@ -3368,7 +3389,7 @@ Les employés rangés dans les classes de salaire 31 et plus dont le poste est a
 
 La présente ordonnance entre en vigueur au 1<sup>er</sup> janvier 2002.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 88*f*, al. 5)
 
@@ -3384,7 +3405,7 @@ Annexe 1*[^t-1]*
 <tr><td>64</td><td>75 %</td><td>70 %</td><td>55 %</td><td>50 %</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 88*a*, al. 1)
 
@@ -3407,7 +3428,7 @@ Annexe 2*[^t-2]*
 
 [^annex2-lvlu1-1]: [RS 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 79, al. 1<sup>bis</sup>)
 
