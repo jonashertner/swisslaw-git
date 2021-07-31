@@ -4,13 +4,12 @@ number: "725.000"
 title: Strassengesetz
 short: StrG
 language: de
-version: 2015-04-26
-corrected: 2020-01-15
-version_adopted: 2015-04-26
+version: 2021-08-01
+version_adopted: 2021-05-09
 adopted: 1998-04-26
 in_force: 1999-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/725.000"
-pdf: "https://ai.clex.ch/api/de/versions/1459/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2096/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1459/pdf_file"
 
 (StrG)
 
-vom 26.04.1998 (Stand 26.04.2015)
+vom 26.04.1998 (Stand 01.08.2021)
 
 Die Landsgemeinde des Kantons Appenzell I.Rh.,
 
@@ -200,7 +199,7 @@ beschliesst:
 
 **Baukosten**
 
-<sup>1</sup> Zu den Baukosten zählen insbesondere die Aufwendungen für Projektierung, Land-erwerb, Bauarbeiten, Bauleitung, Bauzinsen, Vermarkung und Vermessung.
+<sup>1</sup> Zu den Baukosten zählen insbesondere die Aufwendungen für Projektierung, Landerwerb, Bauarbeiten, Bauleitung, Bauzinsen, Vermarkung und Vermessung.
 
 #### Art. 19
 
@@ -263,7 +262,11 @@ beschliesst:
 
 **Öffentliche Auflage**
 
-<sup>1</sup> Das Strassenprojekt wird bei Staatsstrassen vom Bau- und Umweltdepartement, bei den übrigen Strassen vom Bezirk bzw. von der Feuerschaugemeinde Appenzell während 20 Tagen öffentlich aufgelegt. Die Eigentümer der direkt angrenzenden Grundstücke sind von der Auflage schriftlich zu benachrichtigen.
+<sup>1</sup> Das Strassenprojekt wird bei Staatsstrassen vom Bau- und Umweltdepartement, bei den übrigen Strassen vom Bezirk bzw. von der Feuerschaugemeinde Appenzell während 20 Tagen öffentlich aufgelegt.
+
+<sup>2</sup> Die Eigentümer der vom Bauprojekt betroffenen und direkt angrenzenden Grundstücke sind von der Auflage schriftlich zu benachrichtigen.
+
+<sup>3</sup> Mit der Zustellung der schriftlichen Anzeige über ein Strassenprojekt, für das ein Ausführungsbeschluss der Landsgemeinde, des Grossen Rates oder einer Bezirksgemeinde besteht, gilt das Verfahren für eine Enteignung der durch das Projekt beanspruchten Fläche als eröffnet.
 
 #### Art. 28
 
@@ -315,6 +318,12 @@ beschliesst:
 - b) die perimeterpflichtigen Grundstücke und deren prozentuale Anteile rechtskräftig festgelegt sind;
 - c) die Abtretung privater Rechte geregelt ist, wobei Art. 30 des Enteignungsgesetzes vorbehalten ist, oder wenn derjenige, der private Rechte abtreten muss, dem Baubeginn schriftlich zugestimmt hat;
 - d) der Kreditbeschluss vorliegt.
+
+#### Art. 33a
+
+**Anmerkungen im Grundbuch**
+
+<sup>1</sup> Strassenbauprojekt- und Baulinienpläne, Ausnahmebewilligungen zur Unterschreitung der Strassenabstände und Baulinien sowie verwaltungsrechtliche Verträge mit Strassenanstössern können im Grundbuch angemerkt werden.
 
 ## IV. Verhältnis zu angrenzenden Grundstücken
 
