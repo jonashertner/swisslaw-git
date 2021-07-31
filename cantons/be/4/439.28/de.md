@@ -1,23 +1,24 @@
 ---
 canton: BE
 number: "439.28"
-title: "Gesetz über den Beitritt des Kantons Bern zum interkantonalen Konkordat zur Schaffung einer gemeinsamen Pädagogischen Hochschule der Kantone Bern, Jura und Neuenburg (Haute Ecole Pédagogique, HEP-BEJUNE)"
+title: "Gesetz über den Beitritt zum Konkordat über die gemeinsame Pädagogische Hochschule der Kantone Bern, Jura und Neuenburg"
 short: G Konkordat HEP-BEJUNE
 language: de
-version: 2005-09-01
-valid_until: 2021-07-31
-version_adopted: 2004-09-08
+version: 2021-08-01
+version_adopted: 2021-03-10
 adopted: 2021-03-10
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/439.28"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/442/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2346/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über den Beitritt des Kantons Bern zum interkantonalen Konkordat zur Schaffung einer gemeinsamen Pädagogischen Hochschule der Kantone Bern, Jura und Neuenburg (Haute Ecole Pédagogique, HEP-BEJUNE)
+# Gesetz über den Beitritt zum Konkordat über die gemeinsame Pädagogische Hochschule der Kantone Bern, Jura und Neuenburg
 
-vom 23.11.2000 (Stand 01.09.2005)
+(G Konkordat HEP-BEJUNE)
+
+vom 10.03.2021 (Stand 01.08.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -27,52 +28,74 @@ beschliesst:
 
 #### Art. 1
 
-**Gründung**
+**Beitritt**
 
-<sup>1</sup> Der Kanton Bern tritt dem unter der BSG-Nummer 439.28-1 veröffentlichten interkantonalen Konkordat vom 21. Januar 2000 zur Schaffung einer gemeinsamen Pädagogischen Hochschule der Kantone Bern, Jura und Neuenburg bei.
+<sup>1</sup> Der Kanton Bern tritt dem unter der [BAG-Nummer 21-063](https://www.belex.sites.be.ch/frontend/change_documents/1965?locale=de) veröffentlichten Konkordat vom 14. November 2019 über die gemeinsame Pädagogische Hochschule der Kantone Bern, Jura und Neuenburg (Konkordat HEP-BEJUNE) bei.
 
 #### Art. 2
 
 **Beiträge**
 
-<sup>1</sup> Der Regierungsrat bewilligt die Beiträge des Kantons Bern an die Pädagogische Hochschule der Kantone Bern, Jura und Neuenburg abschliessend.
+<sup>1</sup> Der Regierungsrat bewilligt die Beiträge des Kantons an die HEP-BEJUNE abschliessend.
 
-<sup>2</sup> Er kann diese Befugnis ganz oder teilweise der Erziehungsdirektion übertragen.
-
-#### Art. 2a
-
-<sup>1</sup> Der Regierungsrat kann der Pädagogischen Hochschule der Kantone Bern, Jura und Neuenburg Aufträge im Sinne von Artikel 2 Absatz 2 des Konkordates erteilen. Die Ausgabenbefugnisse der Erziehungsdirektion bleiben vorbehalten.
+<sup>2</sup> Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
 
 #### Art. 3
 
-**Änderungen des Konkordats**
+**Leistungsvertrag**
 
-<sup>1</sup> Der Regierungsrat stimmt Änderungen des interkantonalen Konkordats zu, soweit es sich um geringfügige Änderungen des Verfahrens oder der Organisation handelt.
-
-<sup>2</sup> Er kann diese Befugnis ganz oder teilweise der Erziehungsdirektion übertragen.
+<sup>1</sup> Die Bildungs- und Kulturdirektion beschliesst über den Leistungsvertrag gemäss Artikel 21 des Konkordats HEP-BEJUNE.
 
 #### Art. 4
 
-**Austritt**
+**Kantonale Aufträge**
 
-<sup>1</sup> Der Regierungsrat beschliesst nach Anhören des Regionalrats den Austritt nach Artikel 44 des interkantonalen Konkordats.
+<sup>1</sup> Der Kanton kann der HEP-BEJUNE Leistungsaufträge gemäss Artikel 23 des Konkordats HEP-BEJUNE erteilen.
+
+<sup>2</sup> Der Regierungsrat bewilligt die entsprechenden Ausgaben abschliessend. Er kann diese Befugnis ganz oder teilweise der zuständigen Direktion übertragen.
 
 #### Art. 5
 
+**Änderungen des Konkordats**
+
+<sup>1</sup> Der Regierungsrat wird ermächtigt, Änderungen des Konkordats HEP-BEJUNE zuzustimmen, soweit es sich um geringfügige Änderungen des Verfahrens oder der Organisation handelt.
+
+#### Art. 6
+
+**Austritt**
+
+<sup>1</sup> Der Regierungsrat wird ermächtigt, das Konkordat gemäss Artikel 67 des Konkordats HEP-BEJUNE zu kündigen.
+
+#### Art. 7
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Das Gesetz vom 23. November 2000 über den Beitritt des Kantons Bern zum interkantonalen Konkordat zur Schaffung einer gemeinsamen Pädagogischen Hochschule der Kantone Bern, Jura und Neuenburg (Haute Ecole Pédagogique, HEP-BEJUNE)[^7-1] wird aufgehoben.
+
+[^7-1]: BSG [439.28](https://www.belex.sites.be.ch/data/439.28/de)
+
+#### Art. 8
+
 **Inkrafttreten**
 
-<sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+<sup>1</sup> Dieses Gesetz tritt am 1. August 2021 in Kraft.
 
-Bern, 23. November 2000
+Bern, 10. März 2021
 
 Im Namen des Grossen Rates
 
-Die Präsidentin: Keller-Beutler
+Der Präsident: Costa
 
-Der Staatsschreiber: Nuspliger
+Der Generalsekretär: Trees
 
-RRB Nr. 1989 vom 27. Juni 2001:
+Auszug aus dem Protokoll des Regierungsrates vom 18. August 2021
 
-Inkraftsetzung auf den 1. August 2001
+Der Regierungsrat stellt fest, dass vom Referendumsrecht zum Gesetz über den Beitritt zum Konkordat über die gemeinsame Pädagogische Hochschule der Kantone Bern, Jura und Neuenburg (G Konkordat HEP-BEJUNE) innerhalb der festgesetzten Frist kein Gebrauch gemacht worden ist.
 
-01-44
+Das Gesetz ist in die Bernische Amtliche Gesetzessammlung aufzunehmen.
+
+Für getreuen Protokollauszug
+
+Der Staatsschreiber: Auer
+
+21-062
