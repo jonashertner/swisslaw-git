@@ -4,13 +4,13 @@ number: "916.51"
 title: Kantonale Tierseuchenverordnung
 short: KTSV
 language: de
-version: 2021-04-01
-valid_until: 2021-07-31
-version_adopted: 2021-02-17
+version: 2021-08-01
+valid_until: 2026-07-31
+version_adopted: 2021-06-30
 adopted: 1999-11-03
 in_force: 2000-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/916.51"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2200/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2332/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2200/pdf_file"
 
 (KTSV)
 
-vom 03.11.1999 (Stand 01.04.2021)
+vom 03.11.1999 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -50,7 +50,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt für Veterinärwesen vollzieht die Bestimmungen über die Tierseuchenbekämpfung, sofern nach der eidgenössischen oder der kantonalen Gesetzgebung nicht andere Organe als zuständig erklärt werden.
 
-<sup>2</sup> Es koordiniert seine Vollzugstätigkeit im Bereich der Zoonosen (Art. 1 Abs. 1 Bst. a TSG[^2-1]) mit dem Kantonsarztamt und dem Kantonalen Laboratorium, bei Wild- und Fischseuchen mit dem Jagd- und dem Fischereiinspektorat.
+<sup>2</sup> Es koordiniert seine Vollzugstätigkeit im Bereich der Zoonosen (Art. 1 Abs. 1 Bst. a TSG[^2-1]) mit dem Gesundheitsamt und dem Kantonalen Laboratorium, bei Wild- und Fischseuchen mit dem Jagd- und dem Fischereiinspektorat.
 
 <sup>3</sup> Es koordiniert die Tätigkeit der tierseuchenpolizeilichen Organe nach den Artikeln 3 bis 8 und legt ihre Aufgabenbereiche im Rahmen des TSG und der TSV fest.
 

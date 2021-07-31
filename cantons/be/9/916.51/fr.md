@@ -4,13 +4,13 @@ number: "916.51"
 title: Ordonnance cantonale sur les épizooties
 short: OCE
 language: fr
-version: 2021-04-01
-valid_until: 2021-07-31
-version_adopted: 2021-02-17
+version: 2021-08-01
+valid_until: 2026-07-31
+version_adopted: 2021-06-30
 adopted: 1999-11-03
 in_force: 2000-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/916.51"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2200/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2332/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2200/pdf_file"
 
 (OCE)
 
-du 03.11.1999 (état au 01.04.2021)
+du 03.11.1999 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -50,7 +50,7 @@ arrête:
 
 <sup>1</sup> L'Office des affaires vétérinaires exécute les dispositions régissant la lutte contre les épizooties, dans la mesure où les législations fédérale et cantonale n'en attribuent pas la compétence à d'autres organes.
 
-<sup>2</sup> Il coordonne son activité d'exécution en matière de zoonoses (art. 1<sup>er</sup>, 1<sup>er</sup> al., lit. a LFE[^2-1]) avec l'Office du médecin cantonal et le Laboratoire cantonal, et en cas d'épizooties du gibier ou des poissons, avec les Inspections de la chasse et de la pêche.
+<sup>2</sup> Il coordonne son activité d'exécution en matière de zoonoses (art. 1<sup>er</sup>, 1<sup>er</sup> al., lit. a LFE[^2-1]) avec l'Office de la santé et le Laboratoire cantonal, et en cas d'épizooties du gibier ou des poissons, avec les Inspections de la chasse et de la pêche.
 
 <sup>3</sup> Il coordonne l'activité des organes de la police des épizooties au sens des articles 3 à 8 et définit leurs tâches dans le cadre de la LFE et de l'OFE.
 
