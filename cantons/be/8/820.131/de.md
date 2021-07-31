@@ -4,13 +4,12 @@ number: "820.131"
 title: Einführungsverordnung zur eidgenössischen Störfallverordnung
 short: EV StFV
 language: de
-version: 2021-04-01
-valid_until: 2021-07-31
-version_adopted: 2021-02-17
+version: 2021-08-01
+version_adopted: 2021-06-30
 adopted: 1993-09-22
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/820.131"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2173/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2326/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2173/pdf_file"
 
 (EV StFV)
 
-vom 22.09.1993 (Stand 01.04.2021)
+vom 22.09.1993 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -106,7 +105,7 @@ beschliesst:
 
 <sup>3</sup> Zur Beratung von fächerübergreifenden Fragestellungen kann das Kantonale Laboratorium den Fachausschuss biologische Risiken (FBR) einberufen, in welchem vertreten sind
 
-- a das Kantonsarztamt bei Betrieben, in denen überwiegend humanpathogene Organismen verwendet werden,
+- a das Gesundheitsamt bei Betrieben, in denen überwiegend humanpathogene Mikroorganismen verwendet werden,
 - b das Amt für Veterinärwesen bei Betrieben, in denen überwiegend tierpathogene Organismen verwendet werden,
 - c das Amt für Wasser und Abfall,
 - d die Gebäudeversicherung Bern,

@@ -4,13 +4,12 @@ number: "820.131"
 title: "Ordonnance d'introduction de l'ordonnance fédérale sur les accidents majeurs"
 short: OiOPAM
 language: fr
-version: 2021-04-01
-valid_until: 2021-07-31
-version_adopted: 2021-02-17
+version: 2021-08-01
+version_adopted: 2021-06-30
 adopted: 1993-09-22
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/820.131"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2173/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2326/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2173/pdf_file"
 
 (OiOPAM)
 
-du 22.09.1993 (état au 01.04.2021)
+du 22.09.1993 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -106,7 +105,7 @@ arrête:
 
 <sup>3</sup> Pour discuter de questions dépassant son domaine, le Laboratoire cantonal peut convoquer le comité d'experts «Risques biologiques» où sont représentés
 
-- a l'Office du médecin cantonal s'agissant des entreprises qui utilisent principalement des organismes pathogènes pour l'homme,
+- a l'Office de la santé s'agissant des entreprises qui utilisent principalement des micro-organismes pathogènes pour l'homme,
 - b l'Office des affaires vétérinaires s'agissant des entreprises qui utilisent principalement des organismes pathogènes pour les animaux,
 - c l'Office des eaux et des déchets,
 - d l'Assurance immobilière Berne,
