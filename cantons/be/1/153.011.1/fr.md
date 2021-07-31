@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Ordonnance sur le personnel
 short: OPers
 language: fr
-version: 2021-07-01
-valid_until: 2021-07-31
-version_adopted: 2021-03-24
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-30
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2271/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2334/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2271/pdf_file"
 
 (OPers)
 
-du 18.05.2005 (état au 01.07.2021)
+du 18.05.2005 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
