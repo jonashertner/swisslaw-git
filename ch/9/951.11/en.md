@@ -4,11 +4,11 @@ title: "Federal Act of 3 October 2003 on the Swiss National Bank (National Bank 
 short: NBA
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/221"
 language: en
-version: 2020-12-19
+version: 2021-08-01
 adopted: 2003-10-03
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20201219/en/xml/fedlex-data-admin-ch-eli-cc-2004-221-20201219-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20201219/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2004-221-20210801-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20210801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (National Bank Act, NBA)
 
-of 3 October 2003 (Status as of 19 December 2020)
+of 3 October 2003 (Status as of 1 August 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -272,7 +272,7 @@ It shall inform the affected financial market participants about:
 
 **Principle**
 
-<sup>1</sup> In order to protect the stability of the financial system, the National Bank shall oversee systemically important central counterparties, central securities depositories and payment systems in accordance with Article 22 (systemically important financial market infrastructures) of the Financial Market Infrastructure Act of 19 June 2015[^19-1] (FMIA).
+<sup>1</sup> In order to protect the stability of the financial system, the National Bank shall oversee systemically important central counterparties, central securities depositories, payment systems and DLT trading facilities in accordance with Article 22 (systemically important financial market infrastructures) of the Financial Market Infrastructure Act of 19 June 2015[^19-1] (FinMIA).[^19-2]
 
 <sup>2</sup>
 
@@ -282,22 +282,25 @@ The oversight shall also extend to systemically important financial market infra
 - b. clear or settle significant transaction volumes in Swiss francs.
 
 [^19-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^19-2]: Amended by No I 5 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 20
 
 **Modalities and instruments**
 
-<sup>1</sup> Central counterparties, central securities depositories and payment systems shall provide the National Bank, upon request, with all of the information and documents it requires to identify risks for the stability of the financial system at an early stage and to assess systemic importance.
+<sup>1</sup> Central counterparties, central securities depositories, payment systems and DLT trading facilities in accordance with Article 73*a* FinMIA[^20-1] shall provide the National Bank, upon request, with all of the information and documents it requires to identify risks for the stability of the financial system at an early stage and to assess systemic importance.[^20-2]
 
 <sup>2</sup> Systemically important financial market infrastructures and their audit firms must give the National Bank all of the information and documents it requires to fulfil its tasks. Moreover, they must immediately notify the National Bank of all incidents that are of substantial importance for oversight.
 
-<sup>3</sup> In the case of systemically important financial market infrastructures, the National Bank may carry out audits directly or have them conducted by audit firms mandated by financial market infrastructures in accordance with Article 84 FMIA[^20-1].
+<sup>3</sup> In the case of systemically important financial market infrastructures, the National Bank may carry out audits directly or have them conducted by audit firms mandated by financial market infrastructures in accordance with Article 84 FinMIA[^20-3].
 
 <sup>4</sup> If an audit firm is appointed, the financial market infrastructure must provide it with all of the information it requires to fulfil its tasks.
 
 <sup>5</sup> The National Bank shall set out the details in an ordinance.
 
 [^20-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^20-2]: Amended by No I 5 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^20-3]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 
 #### Art. 21
 
@@ -334,7 +337,7 @@ For the purpose of overseeing systemically important financial market infrastruc
 
 <sup>1</sup> Any bank that fails to hold the required amount of minimum reserves must pay the National Bank interest on the shortfall for the period during which the required minimum reserve ratio has not been observed. The National Bank shall set the relevant interest rate, which may be up to five percentage points above the money market rate for interbank credits for the same period.
 
-<sup>2</sup> If the National Bank notices that a systemically important financial market infrastructure does not comply with the special requirements in accordance with Article 23 FMIA[^23-1], it shall bring this to the attention of FINMA as well as the other competent Swiss or foreign supervisory or oversight authorities. It shall observe the conditions set out in Article 21 letter b of this Act in doing so.[^23-2]
+<sup>2</sup> If the National Bank notices that a systemically important financial market infrastructure does not comply with the special requirements in accordance with Article 23 FinMIA[^23-1], it shall bring this to the attention of FINMA as well as the other competent Swiss or foreign supervisory or oversight authorities. It shall observe the conditions set out in Article 21 letter b of this Act in doing so.[^23-2]
 
 <sup>3</sup>
 
@@ -723,7 +726,7 @@ It may transmit non-public information on certain financial market participants 
 
 **Orders**
 
-<sup>1</sup> The National Bank shall issue its decisions pursuant to Articles 15, 16*a*, 18, 20, 22 and 23 of this Act, Article 8 of the Banking Act of 8 November 1934[^52-1] and Articles 23 and 25 FMIA[^52-2] in the form of an order.[^52-3]
+<sup>1</sup> The National Bank shall issue its decisions pursuant to Articles 15, 16*a*, 18, 20, 22 and 23 of this Act, Article 8 of the Banking Act of 8 November 1934[^52-1] and Articles 23 and 25 FinMIA[^52-2] in the form of an order.[^52-3]
 
 <sup>2</sup> Final and conclusive orders on the payment of sums of money shall be equivalent to court judgments enforceable in terms of Article 80 of the Federal Act of 11 April 1889[^52-4] on Debt Collection and Bankruptcy.
 

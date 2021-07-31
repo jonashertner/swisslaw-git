@@ -4,11 +4,11 @@ title: "Loi fédérale du 3 octobre 2003 sur la Banque nationale suisse (Loi sur
 short: LBN
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/221"
 language: fr
-version: 2020-12-19
+version: 2021-08-01
 adopted: 2003-10-03
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20201219/fr/xml/fedlex-data-admin-ch-eli-cc-2004-221-20201219-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20201219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2004-221-20210801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20201219/fr"
 
 (Loi sur la Banque nationale, LBN)
 
-du 3 octobre 2003 (Etat le 19 décembre 2020)
+du 3 octobre 2003 (Etat le 1<sup>er</sup> août 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -272,7 +272,7 @@ Elle informe le participant aux marchés financiers concerné:
 
 **Principe**
 
-<sup>1</sup> Pour préserver la stabilité du système financier, la Banque nationale surveille les contreparties centrales, les dépositaires centraux et les systèmes de paiement d’importance systémique au sens de l’art. 22 de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers (LIMF)[^19-1] (infrastructures des marchés financiers d’importance systémique).
+<sup>1</sup> Pour préserver la stabilité du système financier, la Banque nationale surveille les contreparties centrales, les dépositaires centraux, les systèmes de paiement et les systèmes de négociation fondés sur la TRD d’importance systémique au sens de l’art. 22 de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers (LIMF)[^19-1] (infrastructures des marchés financiers d’importance systémique).[^19-2]
 
 <sup>2</sup>
 
@@ -282,22 +282,25 @@ La surveillance porte également sur les infrastructures des marchés financiers
 - b. compensent ou règlent des volumes de transactions importants en francs suisses.
 
 [^19-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^19-2]: Nouvelle teneur selon le ch. I 5 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 20
 
 **Organisation et instruments**
 
-<sup>1</sup> Les contreparties centrales, les dépositaires centraux et les systèmes de paiement fournissent à la Banque nationale, lorsque celle-ci le demande, tous les renseignements et documents dont elle a besoin pour identifier à temps les risques menaçant la stabilité du système financier et évaluer l’importance systémique.
+<sup>1</sup> Les contreparties centrales, les dépositaires centraux, les systèmes de paiement et les systèmes de négociation fondés sur la TRD au sens de l’art. 73*a* LIMF[^20-1] fournissent à la Banque nationale, lorsque celle-ci le demande, tous les renseignements et documents dont elle a besoin pour identifier à temps les risques menaçant la stabilité du système financier et évaluer l’importance systémique.[^20-2]
 
 <sup>2</sup> Les infrastructures des marchés financiers d’importance systémique et leurs sociétés d’audit sont tenues de fournir à la Banque nationale tous les renseignements et documents dont celle-ci a besoin pour accomplir ses tâches. Elles doivent également signaler immédiatement à la Banque nationale tout événement revêtant une importance essentielle pour la surveillance.
 
-<sup>3</sup> La Banque nationale peut effectuer des audits directs auprès des infrastructures des marchés financiers d’importance systémique ou les faire effectuer par des sociétés d’audit mandatées par les infrastructures des marchés financiers conformément à l’art. 84 LIMF[^20-1].
+<sup>3</sup> La Banque nationale peut effectuer des audits directs auprès des infrastructures des marchés financiers d’importance systémique ou les faire effectuer par des sociétés d’audit mandatées par les infrastructures des marchés financiers conformément à l’art. 84 LIMF[^20-3].
 
 <sup>4</sup> Si l’infrastructure des marchés financiers mandate une société d’audit, elle doit lui fournir toutes les informations dont celle-ci a besoin pour s’acquitter de ses tâches.
 
 <sup>5</sup> La Banque nationale règle les modalités par voie d’ordonnance.
 
 [^20-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^20-2]: Nouvelle teneur selon le ch. I 5 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^20-3]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 
 #### Art. 21
 

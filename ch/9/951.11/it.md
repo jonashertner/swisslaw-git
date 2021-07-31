@@ -4,11 +4,11 @@ title: "Legge federale del 3 ottobre 2003 sulla Banca nazionale svizzera (Legge 
 short: LBN
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/221"
 language: it
-version: 2020-12-19
+version: 2021-08-01
 adopted: 2003-10-03
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20201219/it/xml/fedlex-data-admin-ch-eli-cc-2004-221-20201219-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20201219/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2004-221-20210801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20201219/it"
 
 (Legge sulla Banca nazionale, LBN)
 
-del 3 ottobre 2003 (Stato 19 dicembre 2020)
+del 3 ottobre 2003 (Stato 1° agosto 2021) (Stato 1° agosto 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -266,7 +266,7 @@ Informa il pertinente partecipante al mercato finanziario:
 
 **Principio**
 
-<sup>1</sup> Per proteggere la stabilità del sistema finanziario, la Banca nazionale sorveglia le controparti centrali, i depositari centrali e i sistemi di pagamento di rilevanza sistemica di cui all’articolo 22 della legge del 19 giugno 2015[^19-1] sull’infrastruttura finanziaria (LInFi) (infrastrutture del mercato finanziario di rilevanza sistemica).
+<sup>1</sup> Per proteggere la stabilità del sistema finanziario, la Banca nazionale sorveglia le controparti centrali, i depositari centrali, i sistemi di pagamento e i sistemi di negoziazione TRD di rilevanza sistemica secondo l’articolo 22 della legge del 19 giugno 2015[^19-1] sull’infrastruttura finanziaria (LInFi) (infrastrutture del mercato finanziario di rilevanza sistemica).[^19-2]
 
 <sup>2</sup>
 
@@ -276,22 +276,25 @@ Sono soggette a sorveglianza anche le infrastrutture del mercato finanziario di 
 - b. compensano o regolano importanti volumi di transazioni in franchi svizzeri.
 
 [^19-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^19-2]: Nuovo testo giusta il n. I 5 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 20
 
 **Struttura e strumenti**
 
-<sup>1</sup> Le controparti centrali, i depositari centrali e i sistemi di pagamento forniscono su richiesta alla Banca nazionale tutte le informazioni e la documentazione di cui essa necessita per individuare precocemente i rischi per la stabilità del sistema finanziario e valutare la rilevanza sistemica.
+<sup>1</sup> Le controparti centrali, i depositari centrali, i sistemi di pagamento e i sistemi di negoziazione TRD secondo l’articolo 73*a* LInFi[^20-1] forniscono su richiesta alla Banca nazionale tutte le informazioni e la documentazione di cui essa necessita per individuare precocemente i rischi per la stabilità del sistema finanziario e valutare la rilevanza sistemica.[^20-2]
 
 <sup>2</sup> Le infrastrutture del mercato finanziario di rilevanza sistemica e le loro società di audit devono fornire alla Banca nazionale tutte le informazioni e la documentazione di cui essa necessita per l’adempimento dei suoi compiti. Devono inoltre notificare senza indugio alla Banca nazionale gli avvenimenti di grande importanza ai fini della sorveglianza.
 
-<sup>3</sup> La Banca nazionale può effettuare verifiche dirette presso le infrastrutture del mercato finanziario di rilevanza sistemica oppure farle eseguire da società di audit incaricate dall’infrastruttura del mercato finanziario secondo l’articolo 84 LInFi[^20-1].
+<sup>3</sup> La Banca nazionale può effettuare verifiche dirette presso le infrastrutture del mercato finanziario di rilevanza sistemica oppure farle eseguire da società di audit incaricate dall’infrastruttura del mercato finanziario secondo l’articolo 84 LInFi[^20-3].
 
 <sup>4</sup> Se è incaricata una società di audit, l’infrastruttura del mercato finanziario deve fornirle tutte le informazioni di cui essa necessita per adempiere i suoi compiti.
 
 <sup>5</sup> La Banca nazionale disciplina i dettagli mediante ordinanza.
 
 [^20-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^20-2]: Nuovo testo giusta il n. I 5 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^20-3]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 
 #### Art. 21
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Oktober 2003 über die Schweizerische Nationalbank (
 short: NBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/221"
 language: de
-version: 2020-12-19
+version: 2021-08-01
 adopted: 2003-10-03
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20201219/de/xml/fedlex-data-admin-ch-eli-cc-2004-221-20201219-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20201219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/221/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2004-221-20210801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/221/20201219/de"
 
 (Nationalbankgesetz, NBG)
 
-vom 3. Oktober 2003 (Stand am 19. Dezember 2020)
+vom 3. Oktober 2003 (Stand am 1. August 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -266,7 +266,7 @@ Sie orientiert den betroffenen Finanzmarktteilnehmer über:
 
 **Grundsatz**
 
-<sup>1</sup> Um die Stabilität des Finanzsystems zu schützen, überwacht die Nationalbank systemisch bedeutsame zentrale Gegenparteien, Zentralverwahrer und Zahlungssysteme nach Artikel 22 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^19-1] (FinfraG) (systemisch bedeutsame Finanzmarktinfrastrukturen).
+<sup>1</sup> Um die Stabilität des Finanzsystems zu schützen, überwacht die Nationalbank die systemisch bedeutsamen zentralen Gegenparteien, Zentralverwahrer, Zahlungssysteme und DLT-Handelssysteme nach Artikel 22 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^19-1] (FinfraG) (systemisch bedeutsame Finanzmarktinfrastrukturen).[^19-2]
 
 <sup>2</sup>
 
@@ -276,22 +276,25 @@ Unter die Überwachung fallen auch systemisch bedeutsame Finanzmarktinfrastruktu
 - b. bedeutende Transaktionsvolumen in Schweizerfranken abrechnen oder abwickeln.
 
 [^19-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^19-2]: Fassung gemäss Ziff. I 5 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 20
 
 **Ausgestaltung und Instrumente**
 
-<sup>1</sup> Zentrale Gegenparteien, Zentralverwahrer und Zahlungssysteme stellen der Nationalbank auf Verlangen alle Auskünfte und Unterlagen zur Verfügung, die sie benötigt, um die Risiken für die Stabilität des Finanzsystems frühzeitig zu erkennen und um die systemische Bedeutsamkeit zu beurteilen.
+<sup>1</sup> Zentrale Gegenparteien, Zentralverwahrer, Zahlungssysteme und DLT-Handelssysteme nach Artikel 73*a* FinfraG[^20-1] stellen der Nationalbank auf Verlangen alle Auskünfte und Unterlagen zur Verfügung, die sie benötigt, um die Risiken für die Stabilität des Finanzsystems frühzeitig zu erkennen und um die systemische Bedeutsamkeit zu beurteilen.[^20-2]
 
 <sup>2</sup> Systemisch bedeutsame Finanzmarktinfrastrukturen und ihre Prüfgesellschaften müssen der Nationalbank alle Auskünfte erteilen und Unterlagen herausgeben, die sie zur Erfüllung ihrer Aufgaben benötigt. Sie müssen der Nationalbank zudem unverzüglich Vorkommnisse melden, die für die Überwachung von wesentlicher Bedeutung sind.
 
-<sup>3</sup> Die Nationalbank kann bei systemisch bedeutsamen Finanzmarktinfrastrukturen direkte Prüfungen durchführen oder durch von den Finanzmarktinfrastrukturen nach Artikel 84 FinfraG[^20-1] beauftragte Prüfgesellschaften durchführen lassen.
+<sup>3</sup> Die Nationalbank kann bei systemisch bedeutsamen Finanzmarktinfrastrukturen direkte Prüfungen durchführen oder durch von den Finanzmarktinfrastrukturen nach Artikel 84 FinfraG[^20-3] beauftragte Prüfgesellschaften durchführen lassen.
 
 <sup>4</sup> Wird eine Prüfgesellschaft eingesetzt, so hat die Finanzmarktinfrastruktur dieser alle Informationen zu übermitteln, die sie zur Erfüllung ihrer Aufgaben benötigt.
 
 <sup>5</sup> Die Nationalbank regelt die Einzelheiten in einer Verordnung.
 
 [^20-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^20-2]: Fassung gemäss Ziff. I 5 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^20-3]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 
 #### Art. 21
 
