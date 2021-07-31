@@ -4,13 +4,12 @@ number: "811.811"
 title: Verordnung über das Bestattungswesen
 short: "Bestattungsverordnung, BestV"
 language: de
-version: 2011-01-01
-valid_until: 2021-07-31
-version_adopted: 2010-10-27
+version: 2021-08-01
+version_adopted: 2021-06-30
 adopted: 2010-10-27
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.811"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1073/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2318/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1073/pdf_file"
 
 (Bestattungsverordnung, BestV)
 
-vom 27.10.2010 (Stand 01.01.2011)
+vom 27.10.2010 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -61,7 +60,7 @@ beschliesst:
 
 <sup>1</sup> Eine Leiche darf frühestens 48 Stunden nach Todeseintritt bestattet werden.
 
-<sup>2</sup> Bei Vorliegen besonderer Umstände kann das Kantonsarztamt (KAZA) Ausnahmen bewilligen.
+<sup>2</sup> Bei Vorliegen besonderer Umstände kann das Gesundheitsamt Ausnahmen bewilligen.
 
 #### Art. 5
 
@@ -86,7 +85,7 @@ beschliesst:
 
 **Exhumierung**
 
-<sup>1</sup> Die Exhumierung einer Leiche ist nur mit Bewilligung des KAZA erlaubt.
+<sup>1</sup> Die Exhumierung einer Leiche ist nur mit Bewilligung des Gesundheitsamts erlaubt.
 
 <sup>2</sup> Vorbehalten bleiben Anordnungen der Strafbehörden.
 

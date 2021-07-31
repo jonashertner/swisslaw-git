@@ -4,13 +4,12 @@ number: "811.811"
 title: Ordonnance sur les enterrements et les incinérations
 short: OEIn
 language: fr
-version: 2011-01-01
-valid_until: 2021-07-31
-version_adopted: 2010-10-27
+version: 2021-08-01
+version_adopted: 2021-06-30
 adopted: 2010-10-27
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.811"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1073/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2318/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1073/pdf_file"
 
 (OEIn)
 
-du 27.10.2010 (état au 01.01.2011)
+du 27.10.2010 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -61,7 +60,7 @@ arrête:
 
 <sup>1</sup> L’enterrement ou l’incinération a lieu au plus tôt 48 heures après le décès.
 
-<sup>2</sup> L’Office du médecin cantonal (OMC) peut autoriser des dérogations dans des circonstances exceptionnelles.
+<sup>2</sup> L’Office de la santé (ODS) peut autoriser des dérogations dans des circonstances exceptionnelles.
 
 #### Art. 5
 
@@ -86,7 +85,7 @@ arrête:
 
 **Exhumation**
 
-<sup>1</sup> Les exhumations sont soumises à l’autorisation de l’OMC.
+<sup>1</sup> Les exhumations sont soumises à l’autorisation de l’ODS.
 
 <sup>2</sup> Les dispositions des autorités pénales sont réservées.
 
