@@ -4,13 +4,13 @@ number: "213.12"
 title: Verordnung über den Volksschulunterricht
 short: VVU
 language: de
-version: 2018-08-01
-valid_until: 2021-07-31
-version_adopted: 2018-06-19
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2022-03-29
 adopted: 1996-06-11
 in_force: 1996-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.12"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2422/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3337/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2422/pdf_file"
 
 (VVU)
 
-vom 11.06.1996 (Stand 01.08.2018)
+vom 11.06.1996 (Stand 01.08.2021)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -76,10 +76,21 @@ als Verordnung:[^ingress-2]
 
 **Zeugnis**
 
-<sup>1</sup> Im Zeugnis wird je Unterrichtsbereich:
+<sup>1</sup> Im Zeugnis wird je Fach die Leistung mit ganzen und halben Noten beurteilt. Es gelten folgende Notenwerte: 6 (sehr gut), 5 (gut), 4 (genügend), 3 (ungenügend), 2 (schwach) und 1 (sehr schwach).
 
-- a) die Leistung mit ganzen und halben Noten beurteilt, wobei folgende Notenwerte gelten: 6 (sehr gut), 5 (gut), 4 (genügend), 3 (ungenügend), 2 (schwach) und 1 (sehr schwach);
-- b) die Arbeitshaltung ohne Note (normal) oder mit den Noten 6 (ausserordentlich gut), 4 (nicht immer befriedigend) oder 3 (mangelhaft) bewertet. Halbe Noten sind nicht zulässig.
+- a) …
+- b) …
+
+<sup>1<sup>bis</sup></sup> Das Arbeits-, Lern- und Sozialverhalten wird im Beurteilungsgespräch bewertet, insbesondere nach folgenden Kriterien:
+
+- a) Lernbereitschaft;
+- b) Eigeninitiative;
+- c) Selbständigkeit;
+- d) Selbstreflexion;
+- e) Belastbarkeit;
+- f) Umgangsformen;
+- g) Kommunikation;
+- h) Zusammenarbeit.
 
 <sup>2</sup> Das Betragen kann durch Anmerkung einer schriftlichen Beanstandung[^4-1] im Zeugnis bewertet werden.
 
