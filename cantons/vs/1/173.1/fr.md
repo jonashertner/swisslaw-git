@@ -4,13 +4,13 @@ number: "173.1"
 title: "Loi sur l'organisation de la Justice"
 short: LOJ
 language: fr
-version: 2021-01-01
-corrected: 2021-05-31
+version: 2021-08-01
+valid_until: 2022-12-31
 version_adopted: 2019-12-12
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2685/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2908/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2685/pdf_file"
 
 (LOJ)
 
-du 11.02.2009 (état 01.01.2021)
+du 11.02.2009 (état 01.08.2021)
 
 Le Grand Conseil du canton du Valais
 
@@ -337,7 +337,7 @@ ordonne:
 
 <sup>1</sup> Il est institué pour l'ensemble du canton un ministère public indépendant dans l'application du droit.
 
-<sup>2</sup> Le ministère public cantonal comprend un office central dont le siège est à Sion, et trois offices régionaux dont le siège est respectivement à Viège, Sion et St-Maurice.
+<sup>2</sup> Le ministère public cantonal comprend un office central dont le siège est à Sion, et trois offices régionaux dont le siège est respectivement à Brigue-Glis, Sion et St-Maurice.
 
 <sup>3</sup> L'office central est dirigé par le procureur général, assisté d'un procureur général adjoint; chaque office régional est dirigé par un premier procureur sous réserve des compétences du procureur général.
 
@@ -560,13 +560,30 @@ ordonne:
 
 #### Art. 38
 
-**Information**
+**Publication**
 
-<sup>1</sup> Sous réserve des dispositions impératives du droit fédéral, les décisions et jugements importants pour la connaissance du droit des juridictions de première instance et du Tribunal cantonal sont publiés sur un site Internet géré par le Tribunal cantonal; ils sont en outre publiés dans la Revue valaisanne de jurisprudence.
+<sup>1</sup> Le Tribunal cantonal administre un site internet sur lequel il publie notamment:
 
-<sup>2</sup> Le Tribunal cantonal prend les dispositions nécessaires pour protéger la sphère privée des justiciables et des tiers.
+- a) ses prononcés finaux et partiels rendus sur le fond;
+- b) ses décisions préjudicielles ou incidentes de principe, et
+- c) les prononcés des autorités judiciaires de première instance importants pour la connaissance du droit.
 
-<sup>3</sup> Il arrête dans un règlement les relations entre les tribunaux et les médias.
+<sup>1<sup>bis</sup></sup> Le Tribunal cantonal publie notamment les prononcés de principe des autorités judiciaires dans la Revue valaisanne de jurisprudence.
+
+<sup>1<sup>ter</sup></sup> Les prononcés des autorités judiciaires sont accessibles sur demande.
+
+<sup>1<sup>quater</sup></sup> Les articles 48 à 50 et 55 de la loi sur l'information du public, la protection des données et l'archivage (LIPDA) sont applicables par analogie aux demandes d’accès aux prononcés des autorités judiciaires.
+
+<sup>2</sup> Les autorités judiciaires autorisent l’accès à leurs prononcés conformément aux dispositions du droit fédéral. Elles prennent notamment les dispositions nécessaires pour protéger la sphère privée des justiciables et des tiers. Exceptionnellement, elles peuvent:
+
+- a) procéder à une anonymisation qualifiée, dans un but de protection de la jeunesse ou en cas de délits à caractère sexuel;
+- b) renoncer à toute publication lorsque, malgré l’anonymisation, une personne resterait reconnaissable et que cela l’exposerait à un péril de la plus extrême gravité.
+
+<sup>2<sup>bis</sup></sup> Dans le cadre d’une recherche scientifique, sous réserve de la signature d’une clause de confidentialité et de la destruction des données au terme de la recherche, les autorités judiciaires octroient l’accès à des prononcés non anonymisés.
+
+<sup>2<sup>ter</sup></sup> Les décisions concernant les accès aux prononcés des autorités judiciaires de première instance sont susceptibles de recours au Tribunal cantonal.
+
+<sup>3</sup> Le Tribunal cantonal arrête dans un règlement les relations entre les tribunaux et les médias ainsi que la mise en œuvre du présent article.
 
 <sup>4</sup> Le ministère public arrête dans un règlement ses relations avec les médias.
 

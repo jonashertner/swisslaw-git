@@ -4,13 +4,13 @@ number: "173.1"
 title: Gesetz über die Rechtspflege
 short: RPflG
 language: de
-version: 2021-01-01
-corrected: 2021-05-31
+version: 2021-08-01
+valid_until: 2022-12-31
 version_adopted: 2019-12-12
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.1"
-pdf: "https://lex.vs.ch/api/de/versions/2685/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2908/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2685/pdf_file"
 
 (RPflG)
 
-vom 11.02.2009 (Stand 01.01.2021)
+vom 11.02.2009 (Stand 01.08.2021)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -337,7 +337,7 @@ verordnet:
 
 <sup>1</sup> Für den gesamten Kanton wird eine in der Rechtsanwendung unabhängige Staatsanwaltschaft geschaffen.
 
-<sup>2</sup> Die kantonale Staatsanwaltschaft besteht aus einem zentralen Amt mit Sitz in Sitten und drei regionalen Ämtern mit Sitz in Visp, Sitten und St-Maurice.
+<sup>2</sup> Die kantonale Staatsanwaltschaft besteht aus einem zentralen Amt mit Sitz in Sitten und drei regionalen Ämtern mit Sitz in Brig-Glis, Sitten und St-Maurice.
 
 <sup>3</sup> Das zentrale Amt wird vom Generalstaatsanwalt, unterstützt von einem Generalstaatsanwalt-Stellvertreter, geleitet. Jedes regionale Amt wird, unter Vorbehalt der Zuständigkeiten des Generalstaatsanwaltes, von einem Oberstaatsanwalt geleitet.
 
@@ -560,13 +560,30 @@ verordnet:
 
 #### Art. 38
 
-**Information**
+**Veröffentlichung**
 
-<sup>1</sup> Unter Vorbehalt zwingender Bestimmungen des Bundesrechts werden wichtige Entscheide und Urteile für die Kenntnis der Rechtsprechung der Gerichtsbarkeit der ersten Instanz und des Kantonsgerichts auf einer vom Kantonsgericht geführten Internetseite veröffentlicht. Überdies werden sie in der Zeitschrift für Walliser Rechtsprechung veröffentlicht.
+<sup>1</sup> Das Kantonsgericht verwaltet eine Internetseite, auf der es unter anderem folgendes veröffentlicht:
 
-<sup>2</sup> Das Kantonsgericht trifft die zum Schutz der Privatsphäre der Rechtsuchenden und Dritten notwendigen Vorkehrungen.
+- a) seine Teil- und Endentscheide in der Sache;
+- b) seine Vor- und Zwischenentscheide im Grundsatz, und
+- c) die Entscheide der erstinstanzlichen Gerichtsbehörden, die für die Kenntnis des Rechts wichtig sind.
 
-<sup>3</sup> Es bestimmt in einem Reglement die Beziehungen zwischen den Gerichten und den Medien.
+<sup>1<sup>bis</sup></sup> Das Kantonsgericht veröffentlicht insbesondere die Grundsatzentscheide der Gerichtsbehörden in der Zeitschrift für Walliser Rechtsprechung.
+
+<sup>1<sup>ter</sup></sup> Die Entscheide der Gerichtsbehörden sind auf Anfrage erhältlich.
+
+<sup>1<sup>quater</sup></sup> Die Artikel 48 bis 50 und 55 des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und die Archivierung (GIDA) gelten sinngemäss für Anträge auf Zugang zu den Entscheiden der Gerichtsbehörden.
+
+<sup>2</sup> Die Gerichtsbehörden gewähren Zugang zu ihren Entscheiden gemäss den Bestimmungen des Bundesrechts. Insbesondere ergreifen sie die erforderlichen Massnahmen zum Schutz der Privatsphäre von Einzelpersonen und Dritten. In Ausnahmefällen können sie:
+
+- a) eine qualifizierte Anonymisierung aus Gründen des Jugendschutzes oder bei Sexualstraftaten durchführen;
+- b) auf eine Veröffentlichung verzichten, wenn eine Person trotz Anonymisierung erkennbar bleibt und diese dadurch einem äusserst hohen Risiko ausgesetzt würde.
+
+<sup>2<sup>bis</sup></sup> Im Rahmen der wissenschaftlichen Forschung, vorbehältlich der Unterzeichnung einer Geheimhaltungsvereinbarung und der Vernichtung der Daten mit Abschluss der Forschung, gewähren die Gerichtsbehörden Zugang zu nicht anonymisierten Entscheiden.
+
+<sup>2<sup>ter</sup></sup> Gegen Entscheide, die den Zugang zu den Entscheiden der erstinstanzlichen Gerichtsbehörden verweigern, kann beim Kantonsgericht Berufung eingelegt werden.
+
+<sup>3</sup> Das Kantonsgericht legt in einem Reglement die Beziehungen zwischen den Gerichten und den Medien sowie die Umsetzung dieses Artikels fest.
 
 <sup>4</sup> Die Staatsanwaltschaft bestimmt in einem Reglement die Beziehungen mit den Medien.
 
