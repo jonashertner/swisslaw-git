@@ -3,20 +3,20 @@ canton: AG
 number: "421.391"
 title: Verordnung über den Instrumentalunterricht
 language: de
-version: 2014-08-01
-valid_until: 2021-07-31
-version_adopted: 2012-06-27
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2020-03-04
 adopted: 2001-06-27
 in_force: 2001-10-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/421.391"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1974/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2972/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Instrumentalunterricht
 
-Vom 27.06.2001 (Stand 01.08.2014)
+Vom 27.06.2001 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -30,7 +30,7 @@ beschliesst:
 
 **Instrumentalunterricht nach Lehrplan**
 
-<sup>1</sup> Der lehrplanmässige Instrumentalunterricht wird in der 6. Klasse der Primarschule sowie an der Oberstufe erteilt. Sologesang gehört nicht zum lehrplanmässigen Instrumentalunterricht.
+<sup>1</sup> Der lehrplanmässige Instrumentalunterricht wird in der 6. Klasse der Primarschule sowie an der Oberstufe erteilt. Gesang gehört zum lehrplanmässigen Instrumentalunterricht.
 
 #### § 2
 
@@ -38,7 +38,7 @@ beschliesst:
 
 <sup>1</sup> Der Unterricht wird in Gruppen mit drei Schülerinnen oder Schülern mit einer Lektion pro Woche erteilt. Anstelle des Gruppenunterrichts können einzelne Schülerinnen und Schüler in einer Drittelslektion pro Woche unterrichtet werden.
 
-<sup>2</sup> Sofern mindestens sechs Schülerinnen oder Schüler teilnehmen, kann überdies eine wöchentliche Zusammenspiellektion (Ensemble) erteilt werden. Bei mehr als 20 Schülerinnen beziehungsweise Schülern kann das Departement Bildung, Kultur und Sport eine weitere Zusammenspiellektion bewilligen.
+<sup>2</sup> Sofern mindestens sechs Schülerinnen oder Schüler teilnehmen, kann überdies eine wöchentliche Zusammenspiellektion oder gemeinsame Lektion Gesang (Ensemble) erteilt werden. Bei mehr als 20 Schülerinnen beziehungsweise Schülern kann das Departement Bildung, Kultur und Sport eine weitere Zusammenspiellektion oder gemeinsame Lektion Gesang bewilligen.
 
 #### § 3
 
@@ -46,7 +46,7 @@ beschliesst:
 
 <sup>1</sup> Schülerinnen und Schüler der 6. Klasse der Primarschule sowie der Oberstufe haben im Rahmen von § 2 Anspruch auf unentgeltlichen Instrumentalunterricht.
 
-<sup>2</sup> Sie können ein Instrument wählen, für das ein Fachhochschulabschluss oder ein Diplom beim Schweizerischen Musikpädagogischen Verband (SMPV) erworben werden kann, soweit es die konkreten schulorganisatorischen Umstände ohne unverhältnismässigen Zusatzaufwand erlauben.
+<sup>2</sup> Sie können ein Instrument, für das ein Fachhochschulabschluss oder ein Diplom beim Schweizerischen Musikpädagogischen Verband (SMPV) erworben werden kann, oder Gesang wählen, soweit es die konkreten schulorganisatorischen Umstände ohne unverhältnismässigen Zusatzaufwand erlauben.
 
 <sup>3</sup> Die zuständige Schulpflege sorgt nach Möglichkeit für das entsprechende Angebot.
 
