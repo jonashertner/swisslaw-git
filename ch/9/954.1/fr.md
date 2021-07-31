@@ -4,11 +4,11 @@ title: Loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)
 short: LEFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: fr
-version: 2021-02-01
+version: 2021-08-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210801-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210201/fr"
 
 (LEFin)[^t-1]\*
 
-du 15 juin 2018 (Etat le 1<sup>er</sup> février 2021)
+du 15 juin 2018 (État le 1<sup>er</sup> août 2021)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -116,13 +116,14 @@ Sont soumises aux mesures relevant du droit de l’insolvabilité selon l’art.
 
 <sup>1</sup> L’autorisation d’opérer en tant que banque au sens de la LB[^6-1] vaut autorisation d’opérer en tant que maison de titres, gestionnaire de fortune collective, gestionnaire de fortune ou trustee.
 
-<sup>2</sup> L’autorisation d’opérer en tant que maison de titres vaut autorisation d’opérer en tant que gestionnaire de fortune collective, gestionnaire de fortune ou trustee.
+<sup>2</sup> L’autorisation d’opérer en tant que maison de titres au sens de l’art. 41, let. a, vaut autorisation d’opérer en tant que gestionnaire de fortune collective, gestionnaire de fortune ou trustee.[^6-2]
 
 <sup>3</sup> L’autorisation d’opérer en tant que direction de fonds vaut autorisation d’opérer en tant que gestionnaire de fortune collective ou en tant que gestionnaire de fortune.
 
 <sup>4</sup> L’autorisation d’opérer en tant que gestionnaire de fortune collective vaut autorisation d’opérer en tant que gestionnaire de fortune.
 
 [^6-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^6-2]: Nouvelle teneur selon le ch. I 7 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
 
@@ -504,8 +505,12 @@ Est réputé maison de titres quiconque, à titre professionnel:
 
   - 1\. pourrait ainsi mettre en péril le bon fonctionnement de ce marché, ou
   - 2\. opère en tant que membre d’une plate-forme de négociation, ou
+  - 3\.[^41-1] exploite un système organisé de négociation au sens de l’art. 42 de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^41-2], ou
 
 - c. fait le commerce de valeurs mobilières à court terme pour son propre compte et propose au public, en permanence ou sur demande, un cours pour certaines valeurs mobilières (teneur de marché).
+
+[^41-1]: Introduit par le ch. I 7 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^41-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 
 #### Art. 42
 
@@ -802,9 +807,10 @@ Afin d’assurer l’application de l’art. 11, al. 3 et 5, la FINMA peut suspe
 
 <sup>1</sup> Les dispositions de la LB[^67-1] concernant les mesures en cas de risque d’insolvabilité et la faillite bancaire s’appliquent par analogie aux directions de fonds et aux maisons de titres.
 
-<sup>2</sup> Les dispositions de la LB concernant la garantie des dépôts et les avoirs en déshérence s’appliquent par analogie aux maisons de titres.
+<sup>2</sup> Les dispositions de la LB concernant la garantie des dépôts et les avoirs en déshérence s’appliquent par analogie aux maisons de titres au sens de l’art. 41, let. a.[^67-2]
 
 [^67-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^67-2]: Nouvelle teneur selon le ch. I 7 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## Chapitre 4 Responsabilité et dispositions pénales
 

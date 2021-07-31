@@ -4,11 +4,11 @@ title: "Federal Act of 15 June 2018 on Financial Institutions (Financial Institu
 short: FinIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: en
-version: 2021-02-01
+version: 2021-08-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210201-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210801-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Institutions Act, FinIA)
 
-of 15 June 2018 (Status as of 1 February 2021)
+of 15 June 2018 (Status as of 1 August 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -116,13 +116,14 @@ The following are subject to the insolvency law measures under Article 67 paragr
 
 <sup>1</sup> Authorisation to operate as a bank within the meaning of the BankA[^6-1] also authorises an entity to operate as a securities firm, a manager of collective assets, a portfolio manager and a trustee.
 
-<sup>2</sup> Authorisation to operate as a securities firm also authorises an entity to operate as a manager of collective assets, a portfolio manager and a trustee.
+<sup>2</sup> Authorisation to operate as a securities firm under Article 41 letter a also authorises an entity to operate as a manager of collective assets, a portfolio manager and a trustee.[^6-2]
 
 <sup>3</sup> Authorisation to operate as a fund management company also authorises an entity to operate as a manager of collective assets and a portfolio manager.
 
 <sup>4</sup> Authorisation to operate as a manager of collective assets also authorises an entity to operate as a portfolio manager.
 
 [^6-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^6-2]: Amended by No I 7 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
 
@@ -503,9 +504,13 @@ A securities firm is an entity that, on a commercial basis:
   trades in securities for its own account on a short-term basis, operates primarily on the financial market and:
 
   - 1\. could thereby jeopardise the proper functioning of the financial market, or
-  - 2\. is a member of a trading venue; or
+  - 2\. is a member of a trading venue, or
+  - 3\.[^41-1] operates an organised trading facility under Article 42 of the Financial Market Infrastructure Act of 19 June 2015[^41-2]; or
 
 - c. trades in securities for its own account on a short-term basis and publicly quotes prices for individual securities upon request or on an ongoing basis (*market maker*).
+
+[^41-1]: Inserted by No I 7 of the FA of 26 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^41-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 
 #### Art. 42
 
@@ -802,9 +807,10 @@ In order to enforce Article 11 paragraphs 3 and 5, FINMA may suspend the voting 
 
 <sup>1</sup> The provisions of the BankA[^67-1] on measures in case of the risk of insolvency and bankruptcy apply by analogy to fund management companies and securities firms.
 
-<sup>2</sup> The provisions of the BankA on the protection of deposits and dormant assets apply by analogy to securities firms.
+<sup>2</sup> The provisions of the BankA on the protection of deposits and dormant assets apply by analogy to securities firms under Article 41 letter a.[^67-2]
 
 [^67-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^67-2]: Amended by No I 7 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## Chapter 4 Liability and Criminal Law Provisions
 

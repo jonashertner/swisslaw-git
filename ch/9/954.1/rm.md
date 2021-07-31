@@ -4,11 +4,11 @@ title: "Lescha federala dals 15 da zercladur 2018 davart ils instituts da finanz
 short: LIFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: rm
-version: 2021-02-01
+version: 2021-08-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210201/rm/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210201-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210201/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210801/rm/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210801-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210801/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart ils instituts da finanzas, LIFin)
 
-dals 15 da zercladur 2018 (versiun dal 1. da favrer 2021)
+dals 15 da zercladur 2018 (versiun dal 1. d’avust 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -116,13 +116,14 @@ A las mesiras dal dretg d’insolvenza tenor l’artitgel 67 alinea 1 èn suttam
 
 <sup>1</sup> La permissiun per pratitgar l’activitad sco banca en il senn da la LB[^6-1] autorisescha er da pratitgar l’activitad sco chasa da vaglias, sco administratur da facultads collectivas, sco administratur da facultad e sco trustee.
 
-<sup>2</sup> La permissiun per pratitgar l’activitad sco chasa da vaglias autorisescha er da pratitgar l’activitad sco administratur da facultads collectivas, sco administratur da facultad e sco trustee.
+<sup>2</sup> La permissiun per pratitgar l’activitad sco chasa da vaglias tenor l’artitgel 41 litera a autorisescha er da pratitgar l’activitad sco administratur da facultads collectivas, sco administratur da facultad e sco trustee.[^6-2]
 
 <sup>3</sup> La permissiun per pratitgar l’activitad sco direcziun da fonds autorisescha er da pratitgar l’activitad sco administratur da facultads collectivas e sco administratur da facultad.
 
 <sup>4</sup> La permissiun per pratitgar l’activitad sco administratur da facultads collectivas autorisescha er da pratitgar l’activitad sco administratur da facultad.
 
 [^6-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^6-2]: Versiun tenor la cifra I 7 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. d’avust 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
 
@@ -503,9 +504,13 @@ Sco chasa da vaglias vala tgi che fa – a titel professiunal – il suandant:
   commerzi a curta vista cun valurs mobigliaras sin agen quint, è oravant tut activ sin il martgà da finanzas e:
 
   - 1\. pudess pervia da quai periclitar la funcziunalitad dal martgà da finanzas, u
-  - 2\. è activ sco commember d’ina plazza commerziala; u
+  - 2\. è activ sco commember d’ina plazza commerziala, u
+  - 3\.[^41-1] maina in sistem da commerzi organisà tenor l’artitgel 42 da la Lescha da las infrastructuras da finanzas dals 19 da zercladur 2015[^41-2]; u
 
 - c. commerzi a curta vista cun valurs mobigliaras sin agen quint e fixescha publicamain ils curs per singulas valurs mobigliaras en moda permanenta u sin dumonda *(market maker)*.
+
+[^41-1]: Integrà tras la cifra I 7 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. d’avust 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^41-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 
 #### Art. 42
 
@@ -802,9 +807,10 @@ Per far valair l’artitgel 11 alineas 3 e 5 po la FINMA suspender il dretg da v
 
 <sup>1</sup> Las disposiziuns da la LB[^67-1] davart las mesiras en cas d’in privel d’insolvenza e davart il concurs bancar valan tenor il senn per direcziuns da fonds e per chasas da vaglias.
 
-<sup>2</sup> Las disposiziuns da la LB davart la garanzia dals deposits e davart las valurs da facultad senza identitad valan tenor il senn per chasas da vaglias.
+<sup>2</sup> Las disposiziuns da la LB davart la garanzia dals deposits e davart las valurs da facultad senza identitad valan analogamain per chasas da vaglias tenor l’artitgel 41 litera a.[^67-2]
 
 [^67-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^67-2]: Versiun tenor la cifra I 7 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. d’avust 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## 4. chapitel Responsabladad e disposiziuns penalas
 

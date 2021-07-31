@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Juni 2018 über die Finanzinstitute (Finanzinstitut
 short: FINIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: de
-version: 2021-02-01
+version: 2021-08-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210801-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210201/de"
 
 (Finanzinstitutsgesetz, FINIG)
 
-vom 15. Juni 2018 (Stand am 1. Februar 2021)
+vom 15. Juni 2018 (Stand am 1. August 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -114,13 +114,14 @@ Den insolvenzrechtlichen Massnahmen nach Artikel 67 Absatz 1 unterstehen, soweit
 
 <sup>1</sup> Die Bewilligung zur Tätigkeit als Bank im Sinne des BankG[^6-1] ermächtigt auch zur Tätigkeit als Wertpapierhaus, als Verwalter von Kollektivvermögen, als Vermögensverwalter und als Trustee.
 
-<sup>2</sup> Die Bewilligung zur Tätigkeit als Wertpapierhaus ermächtigt auch zur Tätigkeit als Verwalter von Kollektivvermögen, als Vermögensverwalter und als Trustee.
+<sup>2</sup> Die Bewilligung zur Tätigkeit als Wertpapierhaus nach Artikel 41 Buchstabe a ermächtigt auch zur Tätigkeit als Verwalter von Kollektivvermögen, als Vermögensverwalter und als Trustee.[^6-2]
 
 <sup>3</sup> Die Bewilligung zur Tätigkeit als Fondsleitung ermächtigt auch zur Tätigkeit als Verwalter von Kollektivvermögen und als Vermögensverwalter.
 
 <sup>4</sup> Die Bewilligung zur Tätigkeit als Verwalter von Kollektivvermögen ermächtigt auch zur Tätigkeit als Vermögensverwalter.
 
 [^6-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^6-2]: Fassung gemäss Ziff. I 7 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
 
@@ -158,7 +159,7 @@ Den insolvenzrechtlichen Massnahmen nach Artikel 67 Absatz 1 unterstehen, soweit
 
 <sup>1</sup> Das Finanzinstitut muss tatsächlich von der Schweiz aus geleitet werden. Ausgenommen sind allgemeine Weisungen und Entscheide im Rahmen der Konzernüberwachung, sofern das Finanzinstitut Teil einer Finanzgruppe bildet, welche einer angemessenen konsolidierten Aufsicht durch ausländische Aufsichtsbehörden untersteht.
 
-<sup>2</sup> Die mit der Geschäftsführung des Finanzinstituts betrauten Personen müssen an einem Ort Wohnsitz haben, von dem aus sie die Geschäftsführung tatsächlich aus-üben können.
+<sup>2</sup> Die mit der Geschäftsführung des Finanzinstituts betrauten Personen müssen an einem Ort Wohnsitz haben, von dem aus sie die Geschäftsführung tatsächlich ausüben können.
 
 #### Art. 11
 
@@ -501,9 +502,13 @@ Als Wertpapierhaus gilt, wer gewerbsmässig:
   für eigene Rechnung kurzfristig mit Effekten handelt, hauptsächlich auf dem Finanzmarkt tätig ist und:
 
   - 1\. dadurch die Funktionsfähigkeit des Finanzmarkts gefährden könnte, oder
-  - 2\. als Mitglied eines Handelsplatzes tätig ist; oder
+  - 2\. als Mitglied eines Handelsplatzes tätig ist, oder
+  - 3\.[^41-1] ein organisiertes Handelssystem nach Artikel 42 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^41-2] betreibt; oder
 
 - c. für eigene Rechnung kurzfristig mit Effekten handelt und öffentlich dauernd oder auf Anfrage Kurse für einzelne Effekten stellt (*Market Maker*).
+
+[^41-1]: Eingefügt durch Ziff. I 7 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^41-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 
 #### Art. 42
 
@@ -800,9 +805,10 @@ Zur Durchsetzung von Artikel 11 Absätze 3 und 5 kann die FINMA das Stimmrecht s
 
 <sup>1</sup> Die Bestimmungen des BankG[^67-1] über die Massnahmen bei Insolvenzgefahr und den Bankenkonkurs gelten für Fondsleitungen und Wertpapierhäuser sinngemäss.
 
-<sup>2</sup> Die Bestimmungen des BankG über die Einlagensicherung und die nachrichtenlosen Vermögenswerte gelten für Wertpapierhäuser sinngemäss.
+<sup>2</sup> Die Bestimmungen des BankG über die Einlagensicherung und die nachrichtenlosen Vermögenswerte gelten für Wertpapierhäuser nach Artikel 41 Buchstabe a sinngemäss.[^67-2]
 
 [^67-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^67-2]: Fassung gemäss Ziff. I 7 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## 4. Kapitel: Verantwortlichkeit und Strafbestimmungen
 

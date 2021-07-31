@@ -4,11 +4,11 @@ title: "Legge federale del 15 giugno 2018 sugli istituti finanziari (Legge sugli
 short: LIsFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: it
-version: 2021-02-01
+version: 2021-08-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210801-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210201/it"
 
 (Legge sugli istituti finanziari, LIsFi)
 
-del 15 giugno 2018 (Stato 1° febbraio 2021)
+del 15 giugno 2018 (Stato 1° agosto 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -114,13 +114,14 @@ Sottostanno alle misure in materia di insolvenza ai sensi dell’articolo 67 cap
 
 <sup>1</sup> L’autorizzazione all’esercizio dell’attività di banca ai sensi della LBCR[^6-1] permette di esercitare anche l’attività di società di intermediazione mobiliare, di gestore di patrimoni collettivi, di gestore patrimoniale e di trustee.
 
-<sup>2</sup> L’autorizzazione all’esercizio dell’attività di società di intermediazione mobiliare permette di esercitare anche l’attività di gestore di patrimoni collettivi, di gestore patrimoniale e di trustee.
+<sup>2</sup> L’autorizzazione all’esercizio dell’attività di società di intermediazione mobiliare secondo l’articolo 41 lettera a permette di esercitare anche l’attività di gestore di patrimoni collettivi, di gestore patrimoniale e di trustee.[^6-2]
 
 <sup>3</sup> L’autorizzazione all’esercizio dell’attività di direzione del fondo permette di esercitare anche l’attività di gestore di patrimoni collettivi e di gestore patrimoniale.
 
 <sup>4</sup> L’autorizzazione all’esercizio dell’attività di gestore di patrimoni collettivi permette di esercitare anche l’attività di gestore patrimoniale.
 
 [^6-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^6-2]: Nuovo testo giusta il n. I 7 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
 
@@ -501,9 +502,13 @@ Per società di intermediazione mobiliare s’intende chiunque, a titolo profess
   negozia per conto proprio e a breve scadenza valori mobiliari, è attivo principalmente sul mercato finanziario e:
 
   - 1\. potrebbe in tal modo compromettere la funzionalità di tale mercato, o
-  - 2\. opera quale membro di una sede di negoziazione; o
+  - 2\. opera quale membro di una sede di negoziazione, o
+  - 3\.[^41-1] gestisce un sistema organizzato di negoziazione secondo l’articolo 42 della legge del 19 giugno 2015[^41-2] sull’infrastruttura finanziaria; o
 
 - c. negozia per conto proprio e a breve scadenza valori mobiliari e fissa i corsi di singoli valori mobiliari pubblicamente e durevolmente oppure su richiesta (*market maker*).
+
+[^41-1]: Introdotto dal n. I 7 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^41-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 
 #### Art. 42
 
@@ -800,9 +805,10 @@ Al fine di far rispettare l’articolo 11 capoversi 3 e 5, la FINMA può sospend
 
 <sup>1</sup> Le disposizioni della LBCR[^67-1] relative alle misure in caso di rischio d’insolvenza e al fallimento di banche si applicano per analogia alle direzioni dei fondi e alle società di intermediazione mobiliare.
 
-<sup>2</sup> Le disposizioni della LBCR relative alla garanzia dei depositi e agli averi non rivendicati si applicano per analogia alle società di intermediazione mobiliare.
+<sup>2</sup> Le disposizioni della LBCR relative alla garanzia dei depositi e agli averi non rivendicati si applicano per analogia alle società di intermediazione mobiliare secondo l’articolo 41 lettera a.[^67-2]
 
 [^67-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^67-2]: Nuovo testo giusta il n. I 7 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## Capitolo 4: Responsabilità e disposizioni penali
 
@@ -938,7 +944,7 @@ Allegato
 
 I
 
-- [tab] La legge del 24 marzo 1995[^annexu1-lvlu1-1] sulle borse è abrogata.
+La legge del 24 marzo 1995[^annexu1-lvlu1-1] sulle borse è abrogata.
 
 II
 
