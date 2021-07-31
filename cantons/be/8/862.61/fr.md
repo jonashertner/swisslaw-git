@@ -4,13 +4,13 @@ number: "862.61"
 title: "Ordonnance sur les institutions pédagogiques et socio-pédagogiques cantonales de la Direction de la santé, des affaires sociales et de l’intégration *"
 short: "Ordonnance sur les institutions pédagogiques, OIPS"
 language: fr
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2022-04-30
+version_adopted: 2021-06-30
 adopted: 2006-02-08
 in_force: 2006-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/862.61"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2132/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2330/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2132/pdf_file"
 
 (Ordonnance sur les institutions pédagogiques, OIPS)
 
-du 08.02.2006 (état au 01.03.2021)
+du 08.02.2006 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -44,7 +44,7 @@ arrête:
 - b Foyer scolaire du Château de Cerlier (FSCC),
 - c Centre de pédagogie spécialisée Landorf Köniz – Schlössli Kehrsatz (CPSKK).
 
-<sup>2</sup> Elles sont rattachées administrativement à l'Office des personnes âgées et des personnes handicapées.
+<sup>2</sup> Elles sont rattachées administrativement à l'Office de l'intégration et de l'action sociale (OIAS).
 
 #### Art. 2
 
@@ -74,7 +74,7 @@ arrête:
 
 **Surveillance**
 
-<sup>1</sup> Les institutions sont placées sous la haute surveillance de l'Office des personnes âgées et des personnes handicapées.
+<sup>1</sup> Les institutions sont placées sous la haute surveillance de l'OIAS.
 
 <sup>2</sup> Le directeur ou la directrice de la santé, des affaires sociales et de l’intégration
 
@@ -84,7 +84,7 @@ arrête:
 - d approuve le budget et les comptes annuels;
 - e pilote les prestations dans le cadre des conventions que le directeur ou la directrice de la santé, des affaires sociales et de l’intégration conclut avec les institutions.
 
-<sup>3</sup> L'Office des personnes âgées et des personnes handicapées traite les dénonciations faites à l'autorité de surveillance contre les organes des institutions.
+<sup>3</sup> L'OIAS traite les dénonciations faites à l'autorité de surveillance contre les organes des institutions.
 
 ### 2.2 Comité
 

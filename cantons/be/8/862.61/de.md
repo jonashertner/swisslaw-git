@@ -4,13 +4,13 @@ number: "862.61"
 title: "Verordnung über die kantonalen pädagogischen und sozialpädagogischen Institutionen der Gesundheits-, Sozial- und Integrationsdirektion"
 short: PSIV
 language: de
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2022-04-30
+version_adopted: 2021-06-30
 adopted: 2006-02-08
 in_force: 2006-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/862.61"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2132/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2330/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2132/pdf_file"
 
 (PSIV)
 
-vom 08.02.2006 (Stand 01.03.2021)
+vom 08.02.2006 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -44,7 +44,7 @@ beschliesst:
 - b Schulheim Schloss Erlach (SHE),
 - c Zentrum für Sozial- und Heilpädagogik Landorf Köniz–Schlössli Kehrsatz (ZSHKK).
 
-<sup>2</sup> Sie sind dem Alters- und Behindertenamt administrativ zugeordnet.
+<sup>2</sup> Sie sind dem Amt für Integration und Soziales (AIS) administrativ zugeordnet.
 
 #### Art. 2
 
@@ -74,7 +74,7 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Die Institutionen stehen unter der Oberaufsicht des Alters- und Behindertenamts.
+<sup>1</sup> Die Institutionen stehen unter der Oberaufsicht des AIS.
 
 <sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektorin oder der Gesundheits-, Sozial- und Integrationsdirektor
 
@@ -84,7 +84,7 @@ beschliesst:
 - d genehmigt den Budgetvorschlag und die Jahresrechnung,
 - e steuert das Leistungsangebot im Rahmen der Leistungsvereinbarung zwischen den Institutionen und der Gesundheits-, Sozial- und Integrationsdirektorin oder dem Gesundheits-, Sozial- und Integrationsdirektor.
 
-<sup>3</sup> Das Alters- und Behindertenamt behandelt aufsichtsrechtliche Anzeigen gegen Organe der Institutionen
+<sup>3</sup> Das AIS behandelt aufsichtsrechtliche Anzeigen gegen Organe der Institutionen.
 
 ### 2.2 Heimkommission
 
