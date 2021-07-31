@@ -4,13 +4,13 @@ number: "842.111.5"
 title: Ordonnance sur les exceptions à la limitation de l’admission des fournisseurs de prestations à pratiquer à la charge de l’assurance-maladie obligatoire
 short: OEA
 language: fr
-version: 2021-07-01
-valid_until: 2021-07-31
-version_adopted: 2021-05-19
+version: 2021-08-01
+valid_until: 2023-12-31
+version_adopted: 2021-06-30
 adopted: 2023-11-22
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/842.111.5"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2293/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2327/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2293/pdf_file"
 
 (OEA)
 
-du 29.01.2014 (état au 01.07.2021)
+du 29.01.2014 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -47,13 +47,13 @@ arrête:
 
 **Admissions 1. Admissions ordinaires**
 
-<sup>1</sup> Dans les autres domaines de spécialité mentionnés à l’annexe 1 OLAF, l’Office du médecin cantonal (OMC) peut admettre le nombre maximum de fournisseurs de prestations fixé dans ladite annexe.
+<sup>1</sup> Dans les autres domaines de spécialité mentionnés à l’annexe 1 OLAF, l’Office de la santé (ODS) peut admettre le nombre maximum de fournisseurs de prestations fixé dans ladite annexe.
 
 #### Art. 3
 
 **2. Admissions exceptionnelles**
 
-<sup>1</sup> Si la couverture sanitaire est insuffisante, l’OMC peut admettre, dans des cas particuliers fondés, un nombre de personnes supérieur à celui fixé dans l’annexe 1 OLAF pour le domaine de spécialité concerné.
+<sup>1</sup> Si la couverture sanitaire est insuffisante, l’ODS peut admettre, dans des cas particuliers fondés, un nombre de personnes supérieur à celui fixé dans l’annexe 1 OLAF pour le domaine de spécialité concerné.
 
 <sup>2</sup> L’admission exceptionnelle à pratiquer à la charge de l’assurance obligatoire des soins est limitée au lieu pour lequel l’activité a été autorisée.
 
@@ -61,7 +61,7 @@ arrête:
 
 **Procédure**
 
-<sup>1</sup> Les demandes d’admission ordinaire ou exceptionnelle à pratiquer à la charge de l’assurance obligatoire des soins doivent être soumises à l’OMC par écrit, dûment motivées et accompagnées de la documentation requise.
+<sup>1</sup> Les demandes d’admission ordinaire ou exceptionnelle à pratiquer à la charge de l’assurance obligatoire des soins doivent être soumises à l’ODS par écrit, dûment motivées et accompagnées de la documentation requise.
 
 #### Art. 5
 

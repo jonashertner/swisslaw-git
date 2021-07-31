@@ -4,13 +4,13 @@ number: "842.111.5"
 title: Verordnung über die Ausnahmen von der Zulassungseinschränkung für Leistungserbringerinnen und Leistungserbringer zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
 short: ZulaV
 language: de
-version: 2021-07-01
-valid_until: 2021-07-31
-version_adopted: 2021-05-19
+version: 2021-08-01
+valid_until: 2023-12-31
+version_adopted: 2021-06-30
 adopted: 2023-11-22
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/842.111.5"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2293/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2327/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2293/pdf_file"
 
 (ZulaV)
 
-vom 29.01.2014 (Stand 01.07.2021)
+vom 29.01.2014 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -47,13 +47,13 @@ beschliesst:
 
 **Zulassungen im Einzelfall 1. Ordentliche Zulassungen**
 
-<sup>1</sup> In den übrigen Fachgebieten, die in Anhang 1 der VEZL aufgeführt sind, kann das Kantonsarztamt (KAZA) neue Zulassungen bis zu den in Anhang 1 der VEZL festgelegten Höchstzahlen erteilen.
+<sup>1</sup> In den übrigen Fachgebieten, die in Anhang 1 der VEZL aufgeführt sind, kann das Gesundheitsamt neue Zulassungen bis zu den in Anhang 1 der VEZL festgelegten Höchstzahlen erteilen.
 
 #### Art. 3
 
 **2. Ausnahmezulassungen**
 
-<sup>1</sup> Das KAZA kann bei Unterversorgung im begründeten Einzelfall zusätzlich zu den in Anhang 1 der VEZL festgelegten Höchstzahlen Ausnahmen im entsprechenden Fachgebiet zulassen.
+<sup>1</sup> Das Gesundheitsamt kann bei Unterversorgung im begründeten Einzelfall zusätzlich zu den in Anhang 1 der VEZL festgelegten Höchstzahlen Ausnahmen im entsprechenden Fachgebiet zulassen.
 
 <sup>2</sup> Ausnahmezulassungen sind unter der Bedingung zu erteilen, dass der Ort, an dem die Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung zugelassen ist, nicht gewechselt wird.
 
@@ -61,7 +61,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Gesuche um Erteilung einer Zulassung oder Ausnahmezulassung zulasten der obligatorischen Krankenpflegeversicherung sind schriftlich und begründet zusammen mit den erforderlichen Unterlagen beim KAZA einzureichen.
+<sup>1</sup> Gesuche um Erteilung einer Zulassung oder Ausnahmezulassung zulasten der obligatorischen Krankenpflegeversicherung sind schriftlich und begründet zusammen mit den erforderlichen Unterlagen beim Gesundheitsamt einzureichen.
 
 #### Art. 5
 
