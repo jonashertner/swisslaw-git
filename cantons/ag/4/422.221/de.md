@@ -3,20 +3,20 @@ canton: AG
 number: "422.221"
 title: Verordnung über die Kantonale Schule für Berufsbildung
 language: de
-version: 2017-01-01
-valid_until: 2021-07-31
-version_adopted: 2016-05-25
+version: 2021-08-01
+valid_until: 2024-09-14
+version_adopted: 2021-06-30
 adopted: 2007-11-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.221"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2288/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3021/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Kantonale Schule für Berufsbildung
 
-Vom 07.11.2007 (Stand 01.01.2017)
+Vom 07.11.2007 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -34,7 +34,7 @@ beschliesst:
 
 <sup>1</sup> Die Kantonale Schule für Berufsbildung führt Brückenangebote zur Vorbereitung auf die berufliche Grundbildung.
 
-<sup>2</sup> Die Kantonale Schule für Berufsbildung führt zudem als Anbieterin von Bildung in beruflicher Praxis Lehrateliers für Bekleidungsgestalterinnen und Bekleidungsgestalter.
+<sup>2</sup> …
 
 <sup>3</sup> Die Schulleitung entscheidet über die Durchführung berufsorientierter Weiterbildung.
 
@@ -50,7 +50,7 @@ beschliesst:
 
 **Ausserkantonale Lernende**
 
-<sup>1</sup> Lernende in Brückenangeboten, die ihren Wohnsitz im Sinne des Regionalen Schulabkommens (RSA 2000) vom 17. Mai 2000[^3-1] ausserhalb des Kantons Aargau haben und für welche kein Kanton auf Grund einer Vereinbarung zahlungspflichtig ist, entrichten ein Schulgeld gemäss dem jeweils geltenden Tarif des Regionalen Schulabkommens.
+<sup>1</sup> Lernende in Brückenangeboten, die ihren Wohnsitz gemäss Art. 4 des Regionalen Schulabkommens über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen (RSA 2009) vom 23. November 2007[^3-1] ausserhalb des Kantons Aargau haben und für welche kein Kanton auf Grund einer Vereinbarung zahlungspflichtig ist, entrichten ein Schulgeld gemäss dem jeweils geltenden Tarif des RSA 2009.
 
 [^3-1]: SAR [400.300](https://gesetzessammlungen.ag.ch/data/400.300/de)
 
@@ -145,7 +145,7 @@ beschliesst:
 
 **Schriftliche Beurteilung**
 
-<sup>1</sup> Die Lernenden erhalten am Schluss jedes Semesters eine schriftliche Beurteilung.
+<sup>1</sup> Die Lernenden können jederzeit eine schriftliche Beurteilung verlangen, soweit sie mindestens sechs Monate Schulbesuch aufweisen.
 
 <sup>2</sup> Die schriftliche Beurteilung enthält
 
