@@ -4,13 +4,13 @@ number: "812.112"
 title: Spitalversorgungsverordnung
 short: SpVV
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-11-18
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-30
 adopted: 2013-10-23
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/812.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2081/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2319/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2081/pdf_file"
 
 (SpVV)
 
-vom 23.10.2013 (Stand 01.01.2021)
+vom 23.10.2013 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -51,7 +51,7 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Das Spitalamt führt das Sekretariat der Kommissionen.
+<sup>1</sup> Das Gesundheitsamt führt das Sekretariat der Kommissionen.
 
 <sup>2</sup> Es erstellt insbesondere über jede Kommissionssitzung ein Protokoll mit den Beschlüssen und wichtigsten Erwägungen.
 
@@ -254,8 +254,8 @@ beschliesst:
 
 <sup>1</sup> Das im Kanton Bern gelegene Listenspital
 
-- a legt dem Spitalamt in einem Konzept dar, wie es die Spitalseelsorge für alle Patientinnen und Patienten sowie deren Angehörige sicherstellt,
-- b reicht dem Spitalamt jährlich einen Tätigkeitsbericht ein.
+- a legt dem Gesundheitsamt in einem Konzept dar, wie es die Spitalseelsorge für alle Patientinnen und Patienten sowie deren Angehörige sicherstellt,
+- b reicht dem Gesundheitsamt jährlich einen Tätigkeitsbericht ein.
 
 <sup>2</sup> Das Konzept zeigt auf:
 
@@ -313,13 +313,13 @@ beschliesst:
 
 <sup>4</sup> Sie liefern die nach den Absätzen 1 bis 3 erhobenen Daten innert der in Anhang 5 genannten Fristen an die Gesundheits-, Sozial- und Integrationsdirektion.
 
-<sup>5</sup> Das Spitalamt organisiert und finanziert die Ersterhebung der Daten über den Zustand der Gebäude.
+<sup>5</sup> Das Gesundheitsamt organisiert und finanziert die Ersterhebung der Daten über den Zustand der Gebäude.
 
 #### Art. 19
 
 **3. Auswertung**
 
-<sup>1</sup> Das Spitalamt wertet die von den Listenspitälern und Listengeburtshäusern erhaltenen Daten aus.
+<sup>1</sup> Das Gesundheitsamt wertet die von den Listenspitälern und Listengeburtshäusern erhaltenen Daten aus.
 
 <sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion fasst ihre Erkenntnisse aus der Auswertung in einem Bericht zusammen.
 
@@ -331,7 +331,7 @@ beschliesst:
 
 #### Art. 20
 
-<sup>1</sup> Das Spitalamt rechnet die pauschale Abgeltung nach Artikel 58 SpVG im Folgejahr des betreffenden Abrechnungsjahrs durch Verfügung ab.
+<sup>1</sup> Das Gesundheitsamt rechnet die pauschale Abgeltung nach Artikel 58 SpVG im Folgejahr des betreffenden Abrechnungsjahrs durch Verfügung ab.
 
 ### 3.6.2 Ambulante psychiatrische Spitalversorgungsleistungen
 
@@ -495,7 +495,7 @@ beschliesst:
 
 **Endabrechnung aus Leistungsverträgen**
 
-<sup>1</sup> Das Spitalamt verfügt die Endabrechnungen aus den Leistungsverträgen spätestens ein Jahr nach Vertragsende.
+<sup>1</sup> Das Gesundheitsamt verfügt die Endabrechnungen aus den Leistungsverträgen spätestens ein Jahr nach Vertragsende.
 
 ## 4 Rettungswesen
 
@@ -507,8 +507,8 @@ beschliesst:
 
 - a mobilisiert die für die Rettung und den Transport geeigneten sanitätsdienstlichen Mittel auf der Strasse, auf dem Wasser und in der Luft,
 - b führt den Einsatz, bis entweder eine sanitätsdienstliche Einsatzleitung vor Ort die operative Führung übernimmt oder der Einsatz mit der Hospitalisierung der verletzten oder erkrankten Person abgeschlossen ist,
-- c unterstützt nach den Vorgaben des Kantonsarztamts die bei Grossereignissen vor Ort tätige Einsatzleitung,
-- d unterstützt das Kantonsarztamt in allen Lagen als Einsatz- und Datenzentrale,
+- c unterstützt nach den Vorgaben des Gesundheitsamts die bei Grossereignissen vor Ort tätige Einsatzleitung,
+- d unterstützt das Gesundheitsamt in allen Lagen als Einsatz- und Datenzentrale,
 - e betreibt das Informations- und Einsatzsystem Sanität (IES).
 
 #### Art. 26
@@ -623,7 +623,7 @@ beschliesst:
 
 **Aus- und Weiterbildungsleistung 1. Grundsatz**
 
-<sup>1</sup> Das Spitalamt legt die vom Leistungserbringer geforderte Aus- und Weiterbildungsleistung in Form von Ausbildungspunkten und die entsprechende Abgeltung in Form des Frankenbetrags fest.
+<sup>1</sup> Das Gesundheitsamt legt die vom Leistungserbringer geforderte Aus- und Weiterbildungsleistung in Form von Ausbildungspunkten und die entsprechende Abgeltung in Form des Frankenbetrags fest.
 
 #### Art. 37
 
@@ -653,11 +653,11 @@ beschliesst:
 
 **Abgeltung der Aus- und Weiterbildungsleistung**
 
-<sup>1</sup> Das Spitalamt entrichtet für die durch den Leistungserbringer erbrachte Aus- und Weiterbildungsleistung die Abgeltung gemäss Anhang 4, abzüglich der Vergütungen für die Aus- und Weiterbildungsleistung, die der Leistungserbringer gemäss KVG erhält.
+<sup>1</sup> Das Gesundheitsamt entrichtet für die durch den Leistungserbringer erbrachte Aus- und Weiterbildungsleistung die Abgeltung gemäss Anhang 4, abzüglich der Vergütungen für die Aus- und Weiterbildungsleistung, die der Leistungserbringer gemäss KVG erhält.
 
-<sup>2</sup> Liegt die Summe dieser Abgeltungen für die tatsächlich erbrachte Aus- und Weiterbildungsleistung unter der Summe, die der Leistungserbringer nach Artikel 38 Absatz 1 im betreffenden Rechnungsjahr erhalten hat, zahlt der Leistungserbringer die Differenz an das Spitalamt.
+<sup>2</sup> Liegt die Summe dieser Abgeltungen für die tatsächlich erbrachte Aus- und Weiterbildungsleistung unter der Summe, die der Leistungserbringer nach Artikel 38 Absatz 1 im betreffenden Rechnungsjahr erhalten hat, zahlt der Leistungserbringer die Differenz an das Gesundheitsamt.
 
-<sup>3</sup> Liegt die Summe dieser Abgeltungen für die tatsächlich erbrachte Aus- und Weiterbildungsleistung über der Summe, die der Leistungserbringer nach Artikel 38 Absatz 1 im betreffenden Rechnungsjahr erhalten hat, zahlt das Spitalamt die Differenz an den Leistungserbringer.
+<sup>3</sup> Liegt die Summe dieser Abgeltungen für die tatsächlich erbrachte Aus- und Weiterbildungsleistung über der Summe, die der Leistungserbringer nach Artikel 38 Absatz 1 im betreffenden Rechnungsjahr erhalten hat, zahlt das Gesundheitsamt die Differenz an den Leistungserbringer.
 
 #### Art. 40
 
@@ -669,7 +669,7 @@ beschliesst:
 
 <sup>3</sup> Liegt die Abgeltung für die tatsächlich erbrachte Aus- und Weiterbildungsleistung über der Summe, die der Leistungserbringer nach Artikel 38 Absatz 1 im betreffenden Rechnungsjahr erhalten hat, entspricht die Ausgleichszahlung dem dreifachen Betrag, der sich aus der Multiplikation der prozentualen Abweichung zwischen verfügter und effektiv erbrachter Aus- und Weiterbildungsleistung mit der verfügten Abgeltung ergibt.
 
-<sup>4</sup> Das Spitalamt legt die Ausgleichszahlung durch Verfügung fest.
+<sup>4</sup> Das Gesundheitsamt legt die Ausgleichszahlung durch Verfügung fest.
 
 ## 5a Beirat für medizinische Innovationen
 
@@ -677,7 +677,7 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Zur Gewährung von Beiträgen für medizinische Innovationen unterstützt ein Beirat das Spitalamt. Dieser besteht aus folgenden acht stimmberechtigten Mitgliedern:
+<sup>1</sup> Zur Gewährung von Beiträgen für medizinische Innovationen unterstützt ein Beirat das Gesundheitsamt. Dieser besteht aus folgenden acht stimmberechtigten Mitgliedern:
 
 - a je zwei Vertretungen der beiden Universitätsspitäler,
 - b je zwei Vertretungen der beiden grössten Verbände bernischer Listenspitäler.
@@ -698,9 +698,9 @@ beschliesst:
 
 <sup>1</sup> Der Beirat prüft, ob die Beitragsgesuche die Voraussetzungen für Beiträge nach Artikel 116 SpVG erfüllen.
 
-<sup>2</sup> Er gibt zuhanden des Spitalamts begründete Empfehlungen darüber ab, in welcher Weise das Spitalamt über die Beitragsgesuche entscheiden soll. Bei Stimmengleichheit begründet er beide Standpunkte.
+<sup>2</sup> Er gibt zuhanden des Gesundheitsamts begründete Empfehlungen darüber ab, in welcher Weise das Gesundheitsamt über die Beitragsgesuche entscheiden soll. Bei Stimmengleichheit begründet er beide Standpunkte.
 
-<sup>3</sup> Er legt dem Spitalamt allfällige Minderheitsempfehlungen offen.
+<sup>3</sup> Er legt dem Gesundheitsamt allfällige Minderheitsempfehlungen offen.
 
 #### Art. 40d
 
@@ -712,11 +712,11 @@ beschliesst:
 
 **Vorsitz und Sekretariat**
 
-<sup>1</sup> Die Vorsteherin oder der Vorsteher des Spitalamts führt von Amtes wegen den Vorsitz des Beirats und hat kein Stimmrecht.
+<sup>1</sup> Die Vorsteherin oder der Vorsteher des Gesundheitsamts führt von Amtes wegen den Vorsitz des Beirats und hat kein Stimmrecht.
 
-<sup>2</sup> Das Spitalamt führt das Sekretariat des Beirats.
+<sup>2</sup> Das Gesundheitsamt führt das Sekretariat des Beirats.
 
-<sup>3</sup> Es holt bei den Gesuchstellerinnen und Gesuchstellern insbesondere die Zustimmung ein, die beim Spitalamt eingereichten Beitragsgesuche dem Beirat zur Prüfung zu unterbreiten.
+<sup>3</sup> Es holt bei den Gesuchstellerinnen und Gesuchstellern insbesondere die Zustimmung ein, die beim Gesundheitsamt eingereichten Beitragsgesuche dem Beirat zur Prüfung zu unterbreiten.
 
 ## 6 Aufsicht und Betriebsbewilligung
 
@@ -802,9 +802,9 @@ beschliesst:
 
 <sup>2</sup> Die Erbringer von Rettungsleistungen liefern der Gesundheits-, Sozial- und Integrationsdirektion die Daten gemäss Anhang 6.
 
-<sup>3</sup> Das Spitalamt kann weitere Daten erheben, die für die Aufsichtstätigkeit erforderlich sind. Die Daten sind so weit zu anonymisieren, dass Rückschlüsse auf andere Personen als die Leistungserbringer ausgeschlossen sind.
+<sup>3</sup> Das Gesundheitsamt kann weitere Daten erheben, die für die Aufsichtstätigkeit erforderlich sind. Die Daten sind so weit zu anonymisieren, dass Rückschlüsse auf andere Personen als die Leistungserbringer ausgeschlossen sind.
 
-<sup>4</sup> Die Leistungserbringer übermitteln dem Spitalamt die Daten gemäss den Ziffern 1, 5, 5a sowie 6 bis 6b des Anhangs 5 auf der elektronischen Plattform, die ihnen das Spitalamt zur Verfügung stellt.
+<sup>4</sup> Die Leistungserbringer übermitteln dem Gesundheitsamt die Daten gemäss den Ziffern 1, 5, 5a sowie 6 bis 6b des Anhangs 5 auf der elektronischen Plattform, die ihnen das Gesundheitsamt zur Verfügung stellt.
 
 ## 8 Übergangsbestimmungen
 

@@ -4,13 +4,13 @@ number: "812.112"
 title: Ordonnance sur les soins hospitaliers
 short: OSH
 language: fr
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-11-18
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-30
 adopted: 2013-10-23
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/812.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2081/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2319/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2081/pdf_file"
 
 (OSH)
 
-du 23.10.2013 (état au 01.01.2021)
+du 23.10.2013 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -51,7 +51,7 @@ arrête:
 
 **Organisation**
 
-<sup>1</sup> L’Office des hôpitaux assure le secrétariat des commissions.
+<sup>1</sup> L’Office de la santé (ODS) assure le secrétariat des commissions.
 
 <sup>2</sup> En particulier, il établit pour chaque séance un procès-verbal présentant les décisions et les principaux arguments.
 
@@ -254,8 +254,8 @@ arrête:
 
 <sup>1</sup> Chaque hôpital répertorié situé dans le canton de Berne
 
-- a élabore, à l’intention de l’Office des hôpitaux, un modèle présentant les dispositions prises pour garantir à tous les patients et patientes ainsi qu’à leurs proches l’accès à des prestations d’aumônerie;
-- b remet annuellement à l’Office un rapport d’activité en la matière.
+- a élabore, à l’intention de l’ODS, un modèle présentant les dispositions prises pour garantir à tous les patients et patientes ainsi qu’à leurs proches l’accès à des prestations d’aumônerie;
+- b remet annuellement à l’ODS un rapport d’activité en la matière.
 
 <sup>2</sup> Le modèle porte sur les éléments suivants:
 
@@ -313,13 +313,13 @@ arrête:
 
 <sup>4</sup> Ils remettent les données visées aux alinéas 1 à 3 à la Direction de la santé, des affaires sociales et de l'intégration dans les délais indiqués à l’annexe 5.
 
-<sup>5</sup> L’Office des hôpitaux organise et finance la première collecte de données sur l’état des bâtiments.
+<sup>5</sup> L’ODS organise et finance la première collecte de données sur l’état des bâtiments.
 
 #### Art. 19
 
 **3. Evaluation**
 
-<sup>1</sup> L’Office des hôpitaux évalue les données que les hôpitaux et les maisons de naissance répertoriés lui ont transmises.
+<sup>1</sup> L’ODS évalue les données que les hôpitaux et les maisons de naissance répertoriés lui ont transmises.
 
 <sup>2</sup> La Direction de la santé, des affaires sociales et de l'intégration condense ses remarques sur cette évaluation dans un rapport.
 
@@ -331,7 +331,7 @@ arrête:
 
 #### Art. 20
 
-<sup>1</sup> L’Office des hôpitaux fixe la rémunération forfaitaire selon l’article 58 LSH par voie de décision l’année suivant le décompte de l’exercice.
+<sup>1</sup> L’ODS fixe la rémunération forfaitaire selon l’article 58 LSH par voie de décision l’année suivant le décompte de l’exercice.
 
 ### 3.6.2 Prestations psychiatriques ambulatoires en milieu hospitalier
 
@@ -495,7 +495,7 @@ arrête:
 
 **Décompte final résultant des contrats de prestations**
 
-<sup>1</sup> L’Office des hôpitaux établit le décompte final résultant des contrats de prestations par voie de décision au plus tard une année après l’échéance du contrat.
+<sup>1</sup> L’ODS établit le décompte final résultant des contrats de prestations par voie de décision au plus tard une année après l’échéance du contrat.
 
 ## 4 Sauvetage
 
@@ -507,8 +507,8 @@ arrête:
 
 - a mobilise les moyens sanitaires de sauvetage et de transport terrestres, aquatiques ou aériens appropriés;
 - b conduit l’intervention jusqu’à ce qu’un ou une responsable sanitaire reprenne la direction opérationnelle sur place ou que l’intervention s’achève par l’hospitalisation de la personne blessée ou malade;
-- c assiste en cas d’événement majeur la direction des opérations sur place en suivant les directives de l’Office du médecin cantonal;
-- d soutient l’Office du médecin cantonal en toute situation en fonctionnant comme centrale d’engagement et de renseignement;
+- c assiste en cas d’événement majeur la direction des opérations sur place en suivant les directives de l’ODS;
+- d soutient l’ODS en toute situation en fonctionnant comme centrale d’engagement et de renseignement;
 - e exploite le système d’information et d’intervention (SII-SSC).
 
 #### Art. 26
@@ -623,7 +623,7 @@ arrête:
 
 **Prestation de formation et de perfectionnement 1. Principe**
 
-<sup>1</sup> L’Office des hôpitaux fixe la prestation de formation ou de perfectionnement exigée du fournisseur de prestations sous forme de points de formation et la rémunération correspondante sous forme de montant en francs.
+<sup>1</sup> L’ODS fixe la prestation de formation ou de perfectionnement exigée du fournisseur de prestations sous forme de points de formation et la rémunération correspondante sous forme de montant en francs.
 
 #### Art. 37
 
@@ -653,11 +653,11 @@ arrête:
 
 **Indemnisation**
 
-<sup>1</sup> L’Office des hôpitaux verse les indemnités prévues à l’annexe 4 pour la prestation de formation et de perfectionnement réalisée par le fournisseur de prestations, après déduction des indemnités que celui-ci perçoit en vertu de la LAMal.
+<sup>1</sup> L’ODS verse les indemnités prévues à l’annexe 4 pour la prestation de formation et de perfectionnement réalisée par le fournisseur de prestations, après déduction des indemnités que celui-ci perçoit en vertu de la LAMal.
 
-<sup>2</sup> Si l’indemnisation due pour la prestation de formation et de perfectionnement effectivement fournie est inférieure à la somme reçue sur la base de l’article 38, alinéa 1 pendant l’exercice, le fournisseur de prestations verse la différence à l’Office des hôpitaux.
+<sup>2</sup> Si l’indemnisation due pour la prestation de formation et de perfectionnement effectivement fournie est inférieure à la somme reçue sur la base de l’article 38, alinéa 1 pendant l’exercice, le fournisseur de prestations verse la différence à l’ODS.
 
-<sup>3</sup> Si l’indemnisation due pour la prestation de formation et de perfectionnement effectivement fournie est supérieure à la somme reçue sur la base de l’article 38, alinéa 1 pendant l’exercice, l’Office des hôpitaux verse la différence au fournisseur de prestations.
+<sup>3</sup> Si l’indemnisation due pour la prestation de formation et de perfectionnement effectivement fournie est supérieure à la somme reçue sur la base de l’article 38, alinéa 1 pendant l’exercice, l’ODS verse la différence au fournisseur de prestations.
 
 #### Art. 40
 
@@ -669,7 +669,7 @@ arrête:
 
 <sup>3</sup> Si l’indemnisation due pour la formation et le perfectionnement effectivement fournis est supérieure à la somme reçue sur la base de l’article 38, alinéa 1 pendant l’exercice, la compensation représente le triple du montant obtenu en multipliant la différence en pour cent entre la prestation fixée par décision et la prestation effective par la somme reçue.
 
-<sup>4</sup> L’Office des hôpitaux fixe la compensation par voie de décision.
+<sup>4</sup> L’ODS fixe la compensation par voie de décision.
 
 ## 5a Comité consultatif sur les innovations médicales
 
@@ -677,7 +677,7 @@ arrête:
 
 **Composition**
 
-<sup>1</sup> Un comité consultatif soutient l’Office des hôpitaux pour l’octroi des subventions à l’innovation médicale. Il se compose de huit membres disposant du droit de vote, à savoir
+<sup>1</sup> Un comité consultatif soutient l’ODS pour l’octroi des subventions à l’innovation médicale. Il se compose de huit membres disposant du droit de vote, à savoir
 
 - a deux représentants ou représentantes de chacun des deux hôpitaux universitaires,
 - b deux représentants ou représentantes de chacune des deux plus grandes associations d’hôpitaux répertoriés bernois.
@@ -698,9 +698,9 @@ arrête:
 
 <sup>1</sup> Le comité consultatif vérifie si les demandes de subvention respectent les conditions d’octroi définies à l’article 116 LSH.
 
-<sup>2</sup> Il adresse un préavis motivé à l’Office des hôpitaux. En cas d’égalité des voix, il motive les deux opinions.
+<sup>2</sup> Il adresse un préavis motivé à l’ODS. En cas d’égalité des voix, il motive les deux opinions.
 
-<sup>3</sup> Le cas échéant, il présente les avis minoritaires à l’Office des hôpitaux.
+<sup>3</sup> Le cas échéant, il présente les avis minoritaires à l’ODS.
 
 #### Art. 40d
 
@@ -712,9 +712,9 @@ arrête:
 
 **Présidence et secrétariat**
 
-<sup>1</sup> Le comité consultatif est présidé d’office par le chef ou la cheffe de l’Office des hôpitaux, qui ne dispose pas du droit de vote.
+<sup>1</sup> Le comité consultatif est présidé d’office par le chef ou la cheffe de l’ODS, qui ne dispose pas du droit de vote.
 
-<sup>2</sup> L’Office des hôpitaux assure le secrétariat du comité.
+<sup>2</sup> L’ODS assure le secrétariat du comité.
 
 <sup>3</sup> Il lui revient en particulier de recueillir le consentement des hôpitaux requérants à ce que les demandes de subvention qui lui sont envoyées soient soumises au comité consultatif.
 
@@ -802,9 +802,9 @@ arrête:
 
 <sup>2</sup> Les fournisseurs de prestations de sauvetage remettent les données à la Direction de la santé, des affaires sociales et de l'intégration conformément à l’annexe 6.
 
-<sup>3</sup> L’Office des hôpitaux est habilité à rassembler d’autres données si celles-ci sont nécessaires à son activité de surveillance. Les données sont rendues anonymes afin d’exclure tout recoupement avec d’autres personnes que les fournisseurs de prestations.
+<sup>3</sup> L’ODS est habilité à rassembler d’autres données si celles-ci sont nécessaires à son activité de surveillance. Les données sont rendues anonymes afin d’exclure tout recoupement avec d’autres personnes que les fournisseurs de prestations.
 
-<sup>4</sup> Les fournisseurs de prestations transmettent à l’Office des hôpitaux les données requises selon les chiffres 1, 5, 5a ainsi que 6 à 6b de l’annexe 5 via la plateforme électronique mise à leur disposition par l’Office.
+<sup>4</sup> Les fournisseurs de prestations transmettent à l’ODS les données requises selon les chiffres 1, 5, 5a ainsi que 6 à 6b de l’annexe 5 via la plateforme électronique mise à leur disposition par l’Office.
 
 ## 8 Dispositions transitoires
 
