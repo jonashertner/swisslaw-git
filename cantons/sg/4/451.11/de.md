@@ -4,13 +4,12 @@ number: "451.11"
 title: Polizeiverordnung
 short: PV
 language: de
-version: 2019-10-01
-corrected: 2020-07-14
-version_adopted: 2020-06-30
+version: 2021-08-01
+version_adopted: 2021-06-22
 adopted: 1980-12-02
 in_force: 1981-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/451.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2477/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3201/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2477/pdf_file"
 
 (PV)
 
-vom 02.12.1980 (Stand 01.10.2019)
+vom 02.12.1980 (Stand 01.08.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -152,7 +151,11 @@ als Verordnung:[^ingress-2]
 
 <sup>3</sup> Das zweite Ausbildungsjahr ist ein Praxisjahr im Polizeikorps und wird mit der eidgenössischen Berufsprüfung abgeschlossen.
 
-<sup>4</sup> Das Ausbildungsprogramm berücksichtigt die Vorgaben der eidgenössischen Berufsprüfung.
+<sup>4</sup> …
+
+<sup>4<sup>bis</sup></sup> Das Ausbildungsprogramm berücksichtigt die Vorgaben der eidgenössischen Berufsprüfung.[^11-1]
+
+[^11-1]: Bei dieser Bestimmung handelt es sich um den bisherigen Abs. 4 gemäss XII. Nachtrag vom 9. Oktober 2020, nGS 2018-068, die aus technischen Gründen mit der Ausservollzugsetzung des XIII. Nachtrags vom 30. Juni 2020, nGS 2020-060, auf den 30. September 2020 nicht wieder angezeigt werden konnte.
 
 #### Art. 12
 
@@ -161,6 +164,8 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Für das erste und das zweite Ausbildungsjahr wird jeweils ein befristeter einjähriger Arbeitsvertrag abgeschlossen.
 
 <sup>2</sup> …
+
+<sup>2<sup>bis</sup></sup> …
 
 #### Art. 13
 
@@ -171,6 +176,8 @@ als Verordnung:[^ingress-2]
 <sup>2</sup> Polizistinnen und Polizisten in Ausbildung werden bei Bestehen der eidgenössischen Berufsausbildung als Polizistin oder Polizist unbefristet angestellt. Bei Nichtbestehen können die Polizistinnen und Polizisten in Ausbildung in einem provisorischen Arbeitsverhältnis während längstens zwei Jahren weiterbeschäftigt werden. Bestehen sie in dieser Zeit die eidgenössische Berufsprüfung, können sie auf Antrag des Polizeikommandos und Beschluss des Sicherheits- und Justizdepartementes einen unbefristeten Arbeitsvertrag als Polizistin oder Polizist erhalten.
 
 <sup>3</sup> …
+
+<sup>3<sup>bis</sup></sup> …
 
 #### Art. 14
 
@@ -250,6 +257,10 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Das Polizeikommando fördert die fachliche Weiterbildung und die körperliche Leistungsfähigkeit.
 
 <sup>2</sup> Es kann Polizistinnen und Polizisten zum Besuch von Weiterbildungskursen verpflichten und vorübergehend zu anderen Amtsstellen abkommandieren.
+
+<sup>3</sup> Für polizeilich notwendige Fort- und Weiterbildungen werden schriftliche Vereinbarungen abgeschlossen, wenn die Beteiligung des Kantons an einer Fort- und Weiterbildung den Betrag von Fr. 10'000.– überschreitet. Im Übrigen gelten Art. 10 bis 12 der Personalverordnung vom 13. Dezember 2011[^25-1].
+
+[^25-1]: sGS [143.11](https://www.gesetzessammlung.sg.ch/data/143.11/de).
 
 ### b) Uniform und Ausrüstung
 
