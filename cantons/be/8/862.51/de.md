@@ -4,13 +4,13 @@ number: "862.51"
 title: Verordnung über die Betreuung und Pflege von Personen in Heimen und privaten Haushalten
 short: Heimverordnung; HEV
 language: de
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-30
 adopted: 1996-09-18
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/862.51"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2131/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2329/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2131/pdf_file"
 
 (Heimverordnung; HEV)
 
-vom 18.09.1996 (Stand 01.03.2021)
+vom 18.09.1996 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -87,7 +87,9 @@ beschliesst:
 
 **Bewilligungsbehörden**
 
-<sup>1</sup> Bewilligungsbehörde für die Heime im Alters- und Behindertenbereich und für Kinder- und Jugendheime ist das Alters- und Behindertenamt, für die Heime und privaten Haushalte im Suchtbereich das Spitalamt der Gesundheits-, Sozial- und Integrationsdirektion.
+<sup>1</sup> Das Gesundheitsamt ist Bewilligungsbehörde für die Heime im Altersbereich.
+
+<sup>1a</sup> Das Amt für Integration und Soziales ist Bewilligungsbehörde für die Kinder- und Jugendheime, für die Heime im Behindertenbereich und für die Heime und privaten Haushalte im Suchtbereich.
 
 <sup>2</sup> Ist bezüglich des fraglichen Betriebs gleichzeitig ein Baubewilligungsverfahren hängig, nimmt die Bewilligungsbehörde in einem Amtsbericht gegenüber der Leitbehörde im Sinne des Koordinationsgesetzes vom 21. März 1994 (KoG)[^6-1] Stellung zu den baulichen Voraussetzungen für den geplanten Heimbetrieb.
 
@@ -392,7 +394,10 @@ beschliesst:
 
 <sup>1</sup> Die Organe der Trägerschaft der Heime sorgen dafür, dass die Betriebsführung in den Heimen den gesetzlichen Vorschriften entspricht.
 
-<sup>2</sup> Die zuständige Gemeindebehörde beaufsichtigt unter der Oberaufsicht des Alters- und Behindertenamtes die von ihr bewilligten Betreuungs- und Pflegeverhältnisse.
+<sup>2</sup> Die zuständige Gemeindebehörde beaufsichtigt die von ihr bewilligten Betreuungs- und Pflegeverhältnisse
+
+- a im Altersbereich unter der Oberaufsicht des Gesundheitsamts,
+- b im Behindertenbereich unter der Oberaufsicht des Amts für Integration und Soziales.
 
 <sup>3</sup> Die kantonale Bewilligungsbehörde übt die Aufsicht über den Betrieb in den Heimen und bei den von ihr bewilligten Pflege- und Betreuungsverhältnissen in privaten Haushalten aus. Sie kann für diese Aufgabe die Gemeindebehörden sowie öffentliche und private Organe der Sozialhilfe beiziehen.
 

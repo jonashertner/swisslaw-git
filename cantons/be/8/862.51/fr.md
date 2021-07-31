@@ -4,13 +4,13 @@ number: "862.51"
 title: Ordonnance sur les foyers et les ménages privés prenant en charge des personnes tributaires de soins
 short: "Ordonnance sur les foyers, OFoy"
 language: fr
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-30
 adopted: 1996-09-18
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/862.51"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2131/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2329/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2131/pdf_file"
 
 (Ordonnance sur les foyers, OFoy)
 
-du 18.09.1996 (état au 01.03.2021)
+du 18.09.1996 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -87,7 +87,9 @@ arrête:
 
 **Autorités délivrant les autorisations**
 
-<sup>1</sup> Les autorisations d'exploiter sont délivrées par l'Office des personnes âgées et des personnes handicapées de la Direction de la santé, des affaires sociales et de l’intégration pour les institutions accueillant des personnes âgées et handicapées ainsi que pour les foyers pour enfants et adolescents et par l'Office des hôpitaux pour les institutions ainsi que les ménages privés hébergeant des toxicomanes.
+<sup>1</sup> L'Office de la santé (ODS) délivre les autorisations d'exploiter pour les institutions accueillant des personnes âgées.
+
+<sup>1a</sup> L'Office de l'intégration et de l'action sociale (OIAS) délivre les autorisations d'exploiter pour les foyers pour enfants et adolescents, les établissements accueillant des personnes handicapées et pour les institutions ainsi que les ménages privés hébergeant des toxicomanes.
 
 <sup>2</sup> Lorsque le foyer demande simultanément une autorisation d'exploiter et un permis de construire, l'autorité délivrant les autorisations donne son avis concernant les conditions requises pour la construction du foyer dans le rapport qu'il élabore à l'intention de l'autorité directrice au sens de la loi de coordination du 21 mars 1994 (LCoord)[^6-1].
 
@@ -393,7 +395,10 @@ arrête:
 
 <sup>1</sup> Les organes responsables veillent à ce que les foyers soient dirigés conformément aux prescriptions légales.
 
-<sup>2</sup> L'autorité communale compétente s'assure, sous la haute surveillance de l'Office des personnes âgées et des personnes handicapées, que les conditions de prise en charge et de soins sont conformes aux autorisations qu'elle a délivrées.
+<sup>2</sup> L'autorité communale compétente s'assure que les conditions de prise en charge et de soins sont conformes aux autorisations qu'elle a délivrées
+
+- a sous la haute surveillance de l'ODS dans le domaine des personnes âgées,
+- b sous la haute surveillance de l'OIAS dans le domaine du handicap.
 
 <sup>3</sup> L'autorité cantonale délivrant les autorisations exerce la surveillance sur l'exploitation des foyers ainsi que sur les conditions de prise en charge et de soins dans les ménages privés auxquels elle a accordé une autorisation. A cette fin, elle peut faire appel aux autorités communales ainsi qu'à des organes publics et privés de l'aide sociale.
 
