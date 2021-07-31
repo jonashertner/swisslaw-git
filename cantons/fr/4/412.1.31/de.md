@@ -4,13 +4,13 @@ number: "412.1.31"
 title: Reglement über die Maturitätsprüfungen
 short: MPR
 language: de
-version: 2017-08-01
-valid_until: 2021-07-31
-version_adopted: 2017-06-13
+version: 2021-08-01
+valid_until: 2022-01-31
+version_adopted: 2021-05-26
 adopted: 2001-09-17
 in_force: 2001-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.1.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/6369/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6842/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Maturitätsprüfungen – R
 
 (MPR)
 
-vom 17.09.2001 (Fassung in Kraft getreten am 01.08.2017)
+vom 17.09.2001 (Fassung in Kraft getreten am 01.08.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -118,29 +118,11 @@ beschliesst:
 
 #### Art. 8
 
-**Kantonale Prüfungskommission der Sekundarstufe 2 – Zusammensetzung**
-
-<sup>1</sup> Der kantonalen Prüfungskommission der Sekundarstufe 2 gehören an:
-
-- a) die Rektorinnen und Rektoren und die Direktorinnen und Direktoren aller Schulen der Sekundarstufe 2;
-- b) die Präsidentinnen und Präsidenten und die Sekretärinnen und Sekretäre der Prüfungskommissionen der einzelnen Schulen;
-- c) die Person, die den Kanton Freiburg bei der Schweizerischen Maturitätskommission vertritt;
-- d) eine Person als Vertretung der Direktion, die die kantonale Kommission präsidiert.
+**…**
 
 #### Art. 9
 
-**Kantonale Prüfungskommission der Sekundarstufe 2 – Befugnisse**
-
-<sup>1</sup> Die kantonale Prüfungskommission der Sekundarstufe 2:
-
-- a) kontrolliert die Anwendung des Reglements in den Schulen;
-- b) bestimmt, welche Hilfswerke und Arbeitsmittel bei den schriftlichen Prüfungen erlaubt sind;
-- c) prüft die Gleichwertigkeit der Prüfungsanforderungen in den Schulen;
-- d) schlägt der Direktion die Bedingungen für die Erlangung des Vermerks «zweisprachig» vor;
-- e) legt die Daten der ordentlichen Prüfungen fest;
-- f) setzt die schulfreie Vorbereitungszeit für die Kandidatinnen und Kandidaten fest;
-- g) unterhält die nötigen Kontakte mit der Schweizerischen Maturitätskommission;
-- h) schlägt der Direktion allfällige Reglementsänderungen vor.
+**…**
 
 #### Art. 10
 

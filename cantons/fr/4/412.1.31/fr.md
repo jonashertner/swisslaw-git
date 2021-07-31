@@ -4,13 +4,13 @@ number: "412.1.31"
 title: Règlement concernant les examens de maturité gymnasiale
 short: REMG
 language: fr
-version: 2017-08-01
-valid_until: 2021-07-31
-version_adopted: 2017-06-13
+version: 2021-08-01
+valid_until: 2022-01-31
+version_adopted: 2021-05-26
 adopted: 2001-09-17
 in_force: 2001-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.1.31"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6369/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6842/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Examens de maturité gymnasiale – R
 
 (REMG)
 
-du 17.09.2001 (version entrée en vigueur le 01.08.2017)
+du 17.09.2001 (version entrée en vigueur le 01.08.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -118,29 +118,11 @@ Arrête:
 
 #### Art. 8
 
-**Commission cantonale des examens de l'enseignement secondaire du deuxième degré – Composition**
-
-<sup>1</sup> La Commission cantonale des examens de l'enseignement secondaire du deuxième degré est composée:
-
-- a) des recteurs/directeurs ou rectrices/directrices de chaque école de l'enseignement secondaire du deuxième degré;
-- b) des présidents ou présidentes et des secrétaires des jurys de chaque école;
-- c) du représentant fribourgeois ou de la représentante fribourgeoise à la Commission suisse de maturité;
-- d) d'une personne représentant la Direction qui préside la Commission cantonale.
+**…**
 
 #### Art. 9
 
-**Commission cantonale des examens de l'enseignement secondaire du deuxième degré – Compétences**
-
-<sup>1</sup> La Commission cantonale des examens de l'enseignement secondaire du deuxième degré:
-
-- a) contrôle l'application du règlement dans les écoles;
-- b) détermine les ouvrages auxiliaires et les instruments de travail autorisés pour les épreuves écrites;
-- c) s'assure, au sujet des examens, de l'équivalence des exigences dans les écoles;
-- d) propose à la Direction les conditions d'obtention de la mention «bilingue»;
-- e) fixe les dates de la session ordinaire;
-- f) fixe la durée des congés accordés aux personnes candidates pour leur préparation;
-- g) maintient les contacts nécessaires avec la Commission suisse de maturité;
-- h) propose à la Direction les changements à apporter au règlement.
+**…**
 
 #### Art. 10
 
