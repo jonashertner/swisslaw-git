@@ -3,20 +3,19 @@ canton: BE
 number: "862.71"
 title: "Arrêté du Conseil-exécutif concernant l'adhésion du canton de Berne à la Convention intercantonale relative aux institutions sociales (CIIS) *"
 language: fr
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+version_adopted: 2021-06-30
 adopted: 2003-12-10
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/862.71"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2133/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2331/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Arrêté du Conseil-exécutif concernant l'adhésion du canton de Berne à la Convention intercantonale relative aux institutions sociales (CIIS)
 
-du 10.12.2003 (état au 01.03.2021)
+du 10.12.2003 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -42,7 +41,7 @@ arrête:
 
 #### Art. 3
 
-<sup>1</sup> L'Office des personnes âgées et des personnes handicapées de la DSSI est désigné comme office de liaison au sens de l'article 10 de la convention.
+<sup>1</sup> L'Office de l’intégration et de l’action sociale de la DSSI est désigné comme office de liaison au sens de l'article 10 de la convention.
 
 #### Art. 4
 

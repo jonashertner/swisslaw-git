@@ -3,20 +3,19 @@ canton: BE
 number: "862.71"
 title: Regierungsratsbeschluss betreffend den Beitritt des Kantons Bern zur Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE)
 language: de
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+version_adopted: 2021-06-30
 adopted: 2003-12-10
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/862.71"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2133/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2331/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss betreffend den Beitritt des Kantons Bern zur Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE)
 
-vom 10.12.2003 (Stand 01.03.2021)
+vom 10.12.2003 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -42,7 +41,7 @@ beschliesst:
 
 #### Art. 3
 
-<sup>1</sup> Das Alters- und Behindertenamt der GSI ist Verbindungsstelle nach Artikel 10 der Vereinbarung.
+<sup>1</sup> Das Amt für Integration und Soziales der GSI ist Verbindungsstelle nach Artikel 10 der Vereinbarung.
 
 #### Art. 4
 
