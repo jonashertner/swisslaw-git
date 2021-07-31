@@ -4,13 +4,13 @@ number: "320.113"
 title: Sonderverordnung 1 zur Begegnung von Störungen der öffentlichen Ordnung und Sicherheit sowie sozialen Notständen infolge des Coronavirus
 short: SonderV 20-1
 language: de
-version: 2021-02-18
-valid_until: 2021-07-31
-version_adopted: 2021-02-17
+version: 2021-08-01
+valid_until: 2021-09-19
+version_adopted: 2021-06-30
 adopted: 2020-04-01
 in_force: 2020-04-02
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/320.113"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2956/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3011/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2956/pdf_file"
 
 (SonderV 20-1)
 
-Vom 01.04.2020 (Stand 18.02.2021)
+Vom 01.04.2020 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -121,6 +121,16 @@ beschliesst:
 #### § 8
 
 **…**
+
+### 5<sup>bis</sup> Massnahmen im Bereich des Gastgewerbes
+
+#### § 8a
+
+**Erlass Alkoholabgabe**
+
+<sup>1</sup> Die auf dem Kleinhandel mit Spirituosen gemäss § 11 des Gesetzes über das Gastgewerbe und den Kleinhandel mit alkoholhaltigen Getränken (Gastgewerbegesetz, GGG) vom 25. November 1997[^8a-1] erhobene kantonale Abgabe, die 2 % des Umsatzes mit Spirituosen, mindestens aber Fr. 100.– pro Jahr beträgt, wird gegenüber Gastwirtschaftsbetrieben, die im Jahr 2021 von behördlichen Schliessungen betroffen sind, für das Jahr 2021 vollumfänglich erlassen.
+
+[^8a-1]: SAR [970.100](https://gesetzessammlungen.ag.ch/data/970.100/de)
 
 ## 6. Massnahmen im Bereich des Steuerrechts
 
@@ -256,7 +266,7 @@ beschliesst:
 
 <sup>7</sup> Die Massnahmen gemäss den §§ 4a, 6a, 10–12b und 17 gelten bis zum 30. Juni 2021.
 
-<sup>8</sup> Die Massnahme gemäss § 9a gilt bis 31. Dezember 2021.
+<sup>8</sup> Die Massnahmen gemäss den §§ 8a und 9a gelten bis 31. Dezember 2021.
 
 Aarau, 1. April 2020
 
