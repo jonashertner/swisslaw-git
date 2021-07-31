@@ -4,13 +4,13 @@ number: "502"
 title: Verordnung zum Gesetz über die Gymnasialbildung
 short: GymBV
 language: de
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-03-24
+version: 2021-08-01
+valid_until: 2023-07-31
+version_adopted: 2021-05-18
 adopted: 2001-06-19
 in_force: 2001-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/502"
-pdf: "https://srl.lu.ch/api/de/versions/3615/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3780/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3615/pdf_file"
 
 (GymBV)
 
-vom 19.06.2001 (Stand 01.08.2020)
+vom 19.06.2001 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -80,7 +80,7 @@ beschliesst:
 
 <sup>1</sup> Grundlagenfächer sind Deutsch, Französisch oder Italienisch, Englisch oder Latein oder Griechisch, Mathematik, Biologie, Physik, Chemie, Geschichte, Geografie, Philosophie, Bildnerisches Gestalten und/oder Musik.
 
-<sup>2</sup> Zusatzfächer sind Wirtschaft und Recht, Informatik und ICT, Sport, Religionskunde und Ethik, Naturwissenschaften und Technik, Technisches Gestalten, Hauswirtschaft, die Klassenstunde sowie weitere schulinterne Fächer, die im Rahmen der Wochenstundentafel genehmigt worden sind.
+<sup>2</sup> Zusatzfächer sind Wirtschaft und Recht, Informatik und ICT, Informatik, Sport, Religionskunde und Ethik, Naturwissenschaften und Technik, Technisches Gestalten, Hauswirtschaft, die Klassenstunde sowie weitere schulinterne Fächer, die im Rahmen der Wochenstundentafel genehmigt worden sind.
 
 #### § 5
 
