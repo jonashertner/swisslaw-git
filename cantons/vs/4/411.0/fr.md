@@ -4,25 +4,25 @@ number: "411.0"
 title: "Loi sur l'enseignement primaire"
 short: LEP
 language: fr
-version: 2016-12-01
-corrected: 2017-09-05
-version_adopted: 2016-05-12
+version: 2021-08-01
+version_adopted: 2020-09-10
 adopted: 2013-11-15
 in_force: 2015-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/411.0"
-pdf: "https://lex.vs.ch/api/fr/versions/553/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2944/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur l'enseignement primaire (LEP)
+# Loi sur l'enseignement primaire
 
-du 15 novembre 2013
+(LEP)
+
+du 15.11.2013 (état 01.08.2021)
 
 Le Grand Conseil du canton du Valais
 
-vu les articles 13, 31 alinéa 1 chiffre 1 et 42 alinéa 1 de la Constitution cantonale;
+vu les articles 13, 31 alinéa 1 lettre a et 42 alinéa 1 de la Constitution cantonale;
 
 vu le concordat sur la coordination scolaire du 29 octobre 1970;
 
@@ -34,7 +34,9 @@ vu la convention scolaire romande du 21 juin 2007;
 
 vu la loi sur l'instruction publique du 4 juillet 1962;
 
-vu la loi sur le personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011; vu la loi sur le traitement du personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011;
+vu la loi sur le personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011;
+
+vu la loi sur le traitement du personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011;
 
 vu la loi sur la contribution des communes au traitement du personnel de la scolarité obligatoire et aux charges d'exploitation des institutions spécialisées du 14 septembre 2011;
 
@@ -46,11 +48,11 @@ vu la loi en faveur de la jeunesse du 11 mai 2000;
 
 sur la proposition du Conseil d'Etat,
 
-ordonne:[^t-1]
+ordonne:[^ingress-1]
 
-[^t-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+[^ingress-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-### Chapitre 1: Dispositions-cadres
+## 1 Dispositions-cadres
 
 #### Art. 1
 
@@ -75,28 +77,22 @@ ordonne:[^t-1]
 <sup>5</sup> Elle contribue à:
 
 - a) transmettre des connaissances en permettant à l'élève d'acquérir ce savoir de manière adaptée;
-
 - b) développer les facultés intellectuelles, sociales et créatrices de l'enfant en l'aidant à acquérir les connaissances et les compétences fondamentales;
-
 - c) faire éclore ses capacités physiques et promouvoir la santé;
-
 - d) développer sa personnalité et ses capacités de jugement;
-
 - e) lui donner le sens de ses responsabilités vis-à-vis de lui-même et vis-à-vis des autres;
-
-- f) favoriser son épanouissement spirituel.
-
+- f) favoriser son épanouissement spirituel;
 - g) conduire l'enfant à connaître et à respecter son environnement.
 
-### Chapitre 2: Organes - responsabilité, tâches et compétences
+## 2 Organes - Responsabilité, tâches et compétences
 
-### Section 1: Le canton
+### 2.1 Le canton
 
 #### Art. 3
 
 **Conseil d'Etat**
 
-Le Conseil d'Etat a la responsabilité de la direction, de la surveillance, des orientations générales et des lignes directrices de l'école.
+<sup>1</sup> Le Conseil d'Etat a la responsabilité de la direction, de la surveillance, des orientations générales et des lignes directrices de l'école.
 
 #### Art. 4
 
@@ -142,17 +138,17 @@ Le Conseil d'Etat a la responsabilité de la direction, de la surveillance, des 
 
 **Autres services cantonaux**
 
-Le Département collabore avec d'autres services de départements cantonaux ou institutions, associations ou fondations reconnues pour offrir des prestations utiles à la marche de l'école.
+<sup>1</sup> Le Département collabore avec d'autres services de départements cantonaux ou institutions, associations ou fondations reconnues pour offrir des prestations utiles à la marche de l'école.
 
 #### Art. 8
 
 **Conseiller et animateur pédagogiques**
 
-<sup>1</sup> Le conseiller pédagogique coordonne et contrôle le domaine de l'enseignement spécialisé des écoles d'une région scolaire, y compris les écoles spécialisées reconnues par le canton.<sup>1</sup>
+<sup>1</sup> Le conseiller pédagogique coordonne et contrôle le domaine de l'enseignement spécialisé des écoles d'une région scolaire, y compris les écoles spécialisées reconnues par le canton.
 
 <sup>2</sup> L'animateur pédagogique est à disposition des divers partenaires pour conseiller et répondre à toute question d'ordre pédagogique relevant d'un ou de plusieurs domaines disciplinaires.
 
-### Section 2: Les communes
+### 2.2 Les communes
 
 #### Art. 9
 
@@ -206,7 +202,7 @@ Le Département collabore avec d'autres services de départements cantonaux ou i
 
 **Commission scolaire communale ou intercommunale**
 
-L'ordonnance sur la commission scolaire définit la composition et les tâches qui lui sont assignées.
+<sup>1</sup> L'ordonnance sur la commission scolaire définit la composition et les tâches qui lui sont assignées.
 
 #### Art. 15
 
@@ -218,13 +214,13 @@ L'ordonnance sur la commission scolaire définit la composition et les tâches q
 
 <sup>3</sup> Les communes peuvent confier une partie des attributions de la commission scolaire ou d'autres tâches à la direction, aux conditions prévues par le règlement communal ou intercommunal y relatif. Cela est mentionné dans le contrat de prestations liant l'autorité locale et le Département.
 
-### Section 3: Le centre scolaire
+### 2.3 Le centre scolaire
 
 #### Art. 16
 
 **Définition**
 
-Le centre scolaire est un ensemble de classes regroupées dans un ou plusieurs bâtiments situés sur la même commune ou région, présentant toutes les années du degré primaire.
+<sup>1</sup> Le centre scolaire est un ensemble de classes regroupées dans un ou plusieurs bâtiments situés sur la même commune ou région, présentant toutes les années du degré primaire.
 
 #### Art. 17
 
@@ -260,13 +256,13 @@ Le centre scolaire est un ensemble de classes regroupées dans un ou plusieurs b
 
 <sup>3</sup> Les collaborations doivent notamment garantir le suivi de l'élève et l'acquisition de compétences transversales.
 
-### Chapitre 3: Généralités
+## 3 Généralités
 
 #### Art. 20
 
 **Information - Collaboration**
 
-Le Département informe et consulte régulièrement tous les partenaires reconnus. Il favorise la collaboration et la participation de ceux-ci pour atteindre les missions et les buts définis dans la présente loi.
+<sup>1</sup> Le Département informe et consulte régulièrement tous les partenaires reconnus. Il favorise la collaboration et la participation de ceux-ci pour atteindre les missions et les buts définis dans la présente loi.
 
 #### Art. 21
 
@@ -282,13 +278,14 @@ Le Département informe et consulte régulièrement tous les partenaires reconnu
 
 <sup>1</sup> Tout enfant qui a atteint les 4 ans révolus au 31 juillet commence sa scolarité obligatoire.
 
-**Valais germanophone**
-
-Valais romand Année scolaire 01.10.2010-31.08.2011 01.10.2009-28.02.2011 2015-2016 Année scolaire 01.09.2011-31.07.2012 01.03.2011-30.04.2012 2016-2017 Année scolaire 01.08.2012-31.07.2013 01.05.2012-30.06.2013 2017-2018 Année scolaire 2018-2019 Année scolaire 2019-2020
-
-**01.07.2013-31.07.2014**
-
-**01.08.2014-31.07.2015**
+<table>
+<tr><th>Année scolaire</th><th>Valais romand</th><th>Valais germanophone</th></tr>
+<tr><td>2015-2016</td><td>01.10.2010-31.08.2011</td><td>01.10.2009-28.02.2011</td></tr>
+<tr><td>2016-2017</td><td>01.09.2011-31.07.2012</td><td>01.03.2011-30.04.2012</td></tr>
+<tr><td>2017-2018</td><td>01.08.2012-31.07.2013</td><td>01.05.2012-30.06.2013</td></tr>
+<tr><td>2018-2019</td><td></td><td>01.07.2013-31.07.2014</td></tr>
+<tr><td>2019-2020</td><td></td><td>01.08.2014-31.07.2015</td></tr>
+</table>
 
 <sup>2</sup> Aucune anticipation d'entrée en scolarité obligatoire n'est possible.
 
@@ -324,7 +321,21 @@ Valais romand Année scolaire 01.10.2010-31.08.2011 01.10.2009-28.02.2011 2015-2
 
 **Activités particulières**
 
-Le Département édicte des directives pour des activités dites particulières, en lien avec les visées des plans d'études, notamment dans les domaines de la culture, de la religion, de la santé, de la prévention et du sport.
+<sup>1</sup> Le Département édicte des directives pour des activités dites particulières, en lien avec les visées des plans d'études, notamment dans les domaines de la culture, de la religion, de la santé, de la prévention et du sport.
+
+<sup>2</sup> Les activités particulières facultatives peuvent être mises partiellement à la charge des parents.
+
+#### Art. 26a
+
+**Excursions, manifestations**
+
+<sup>1</sup> Les excursions et les manifestations organisées par l'école pendant le temps scolaire sont obligatoires et gratuites. Seuls les frais de repas peuvent être facturés aux parents.
+
+<sup>2</sup> Les parents, pour des motifs légitimes, peuvent demander une dispense.
+
+<sup>3</sup> Pour un déplacement de plus d'un jour, l'accord préalable des parents est exigé.
+
+<sup>4</sup> Dans tous les cas, les élèves dispensés sont tenus de se rendre en classe où des activités scolaires ou parascolaires doivent être prévues à leur intention.
 
 #### Art. 27
 
@@ -360,15 +371,15 @@ Le Département édicte des directives pour des activités dites particulières,
 
 **Gratuité de l'enseignement**
 
-La fréquentation de l'école publique, durant toute la scolarité obligatoire, est gratuite. Demeurent réservés les frais à la charge des parents selon l'article 68 de la présente loi.
+<sup>1</sup> La fréquentation de l'école publique, durant toute la scolarité obligatoire, est gratuite. Demeurent réservés les frais à la charge des parents selon l'article 67 de la présente loi.
 
 #### Art. 31
 
 **Assurance qualité**
 
-Le système scolaire fait l'objet d'une évaluation régulière qui contribue à sa qualité. Cette évaluation, décidée par le Conseil d'Etat, est conduite par le Département.
+<sup>1</sup> Le système scolaire fait l'objet d'une évaluation régulière qui contribue à sa qualité. Cette évaluation, décidée par le Conseil d'Etat, est conduite par le Département.
 
-### Chapitre 4: Fonctionnement général de l'école
+## 4 Fonctionnement général de l'école
 
 #### Art. 32
 
@@ -382,7 +393,7 @@ Le système scolaire fait l'objet d'une évaluation régulière qui contribue à
 
 #### Art. 33
 
-**Fréquentation des écoles - absences - congés**
+**Fréquentation des écoles - Absences - Congés**
 
 <sup>1</sup> Les parents ont l'obligation d'annoncer à l'école toute absence et de la justifier.
 
@@ -428,9 +439,9 @@ Le système scolaire fait l'objet d'une évaluation régulière qui contribue à
 
 <sup>2</sup> Cette intervention doit entrer dans le cadre des missions et buts de l'école. Elle est comprise dans le temps scolaire défini.
 
-### Chapitre 5: Structures du degré primaire
+## 5 Structures du degré primaire
 
-### Section 1: Généralités
+### 5.1 Généralités
 
 #### Art. 38
 
@@ -452,7 +463,7 @@ Le système scolaire fait l'objet d'une évaluation régulière qui contribue à
 
 #### Art. 40
 
-**Promotion, redoublement, saut de classe, dispense de notes**
+**Promotion - Redoublement - Saut de classe - Dispense de notes**
 
 <sup>1</sup> Durant les trois premières années du premier cycle, en principe, la promotion est automatique. Communiquée aux parents, une appréciation de l'enseignant indique régulièrement la progression des apprentissages de chaque enfant. Pour le passage au deuxième cycle, une évaluation bilan est organisée par le Département.
 
@@ -494,13 +505,13 @@ Le système scolaire fait l'objet d'une évaluation régulière qui contribue à
 
 <sup>4</sup> L'école privée est placée sous la surveillance de l'inspecteur.
 
-### Section 2: Premier cycle primaire
+### 5.2 Premier cycle primaire
 
 #### Art. 44
 
 **But**
 
-Durant ses premières années de scolarité, l'enfant progresse sur la voie de la socialisation et acquiert des compétences et des stratégies inhérentes au travail scolaire, complétant et consolidant les apprentissages fondamentaux de la langue de scolarisation. La priorité est donnée aux méthodes et aux domaines qu'il est particulièrement important de développer de manière précoce et qui préparent les apprentissages futurs.
+<sup>1</sup> Durant ses premières années de scolarité, l'enfant progresse sur la voie de la socialisation et acquiert des compétences et des stratégies inhérentes au travail scolaire, complétant et consolidant les apprentissages fondamentaux de la langue de scolarisation. La priorité est donnée aux méthodes et aux domaines qu'il est particulièrement important de développer de manière précoce et qui préparent les apprentissages futurs.
 
 #### Art. 45
 
@@ -514,7 +525,7 @@ Durant ses premières années de scolarité, l'enfant progresse sur la voie de l
 
 **Organisation**
 
-<sup>1</sup> Le cycle 1 se subdivise en deux demi-cycles de deux ans. Le titulaire suit en principe sa classe durant un demi-cycle.
+<sup>1</sup> Le cycle 1 se subdivise en deux demi-cycles de deux ans.
 
 <sup>2</sup> L'enfant entre dans la scolarité obligatoire de manière progressive. Durant toute la première année, il suit l'école à mi-temps.
 
@@ -534,9 +545,9 @@ Durant ses premières années de scolarité, l'enfant progresse sur la voie de l
 
 **Ressources complémentaires à la classe**
 
-Le Département peut attribuer des ressources complémentaires pour l'organisation de l'enseignement et de la classe ou des classes.
+<sup>1</sup> Le Département peut attribuer des ressources complémentaires pour l'organisation de l'enseignement et de la classe ou des classes.
 
-### Section 3: Deuxième cycle primaire
+### 5.3 Deuxième cycle primaire
 
 #### Art. 49
 
@@ -560,27 +571,27 @@ Le Département peut attribuer des ressources complémentaires pour l'organisati
 
 <sup>1</sup> Le cycle 2 se subdivise en deux demi-cycles de deux ans.
 
-<sup>2</sup> Le titulaire suit en principe sa classe durant un demi-cycle.
+<sup>2</sup> …
 
 #### Art. 52
 
 **Classes à degrés multiples**
 
-Selon les conditions locales, les effectifs ou les projets pédagogiques présentés, les classes à degrés multiples sont possibles, prioritairement par demi-cycle.
+<sup>1</sup> Selon les conditions locales, les effectifs ou les projets pédagogiques présentés, les classes à degrés multiples sont possibles, prioritairement par demi-cycle.
 
 #### Art. 53
 
 **Ressources complémentaires à la classe**
 
-Afin d'assurer un enseignement pleinement efficient, le Département peut attribuer des ressources complémentaires pour la réorganisation des classes.
+<sup>1</sup> Afin d'assurer un enseignement pleinement efficient, le Département peut attribuer des ressources complémentaires pour la réorganisation des classes.
 
 #### Art. 54
 
 **Enseignants ressources**
 
-L'enseignement de certaines disciplines peut être coordonné, voire dispensé par des enseignants ressources ayant une formation spécifique reconnue par le Département.
+<sup>1</sup> L'enseignement de certaines disciplines peut être coordonné, voire dispensé par des enseignants ressources ayant une formation spécifique reconnue par le Département.
 
-### Section 4: Aide aux élèves
+### 5.4 Aide aux élèves
 
 #### Art. 55
 
@@ -598,27 +609,27 @@ L'enseignement de certaines disciplines peut être coordonné, voire dispensé p
 
 **Etudes surveillées**
 
-Les communes peuvent organiser des études surveillées répondant à des nécessités organisationnelles.
+<sup>1</sup> Les communes peuvent organiser des études surveillées répondant à des nécessités organisationnelles.
 
 #### Art. 57
 
 **Soutien pédagogique pour élèves allophones**
 
-L'élève allophone bénéficie en principe d'un soutien pédagogique, sous forme permanente ou non.
+<sup>1</sup> L'élève allophone bénéficie en principe d'un soutien pédagogique, sous forme permanente ou non.
 
 #### Art. 58
 
 **Médiation scolaire**
 
-Un concept et un cadre de médiation scolaire sont définis par le Département.
+<sup>1</sup> Un concept et un cadre de médiation scolaire sont définis par le Département.
 
 #### Art. 59
 
 **Ressources pour enfants présentant des besoins particuliers**
 
-Le Département alloue, sur le plan cantonal ou régional, des ressources spécifiques pour l'aide à la gestion de besoins particuliers des élèves.
+<sup>1</sup> Le Département alloue, sur le plan cantonal ou régional, des ressources spécifiques pour l'aide à la gestion de besoins particuliers des élèves.
 
-### Section 5: Enseignement spécialisé
+### 5.5 Enseignement spécialisé
 
 #### Art. 60
 
@@ -635,7 +646,6 @@ Le Département alloue, sur le plan cantonal ou régional, des ressources spéci
 <sup>1</sup> Les mesures d'enseignement spécialisé à l'intention des élèves ayant des besoins scolaires et/ou éducatifs particuliers comprennent:
 
 - a) les mesures ordinaires: appuis pédagogiques intégrés;
-
 - b) les mesures renforcées: appuis pédagogiques renforcés, classes ou écoles spécialisées.
 
 <sup>2</sup> Ces différentes mesures sont dispensées par des enseignants au bénéfice d'un titre reconnu pour l'enseignement spécialisé.
@@ -649,11 +659,8 @@ Le Département alloue, sur le plan cantonal ou régional, des ressources spéci
 <sup>1</sup> Les élèves au bénéfice de mesures d'enseignement spécialisé sont les suivants:
 
 - a) l'élève présentant des besoins scolaires et/ou éducatifs particuliers;
-
 - b) l'élève au bénéfice d'un programme adapté dans une ou plusieurs branches;
-
 - c) l'élève présentant des besoins spécifiques reconnus, notamment en situation de redoublement, en risque d'échec, présentant une difficulté spécifique importante;
-
 - d) l'élève en situation de handicap fréquentant une classe ordinaire ou l'élève scolarisé en classe ou école spécialisée.
 
 <sup>2</sup> Sur la base d'un signalement spécifique de la direction, le Département statue sur les autres cas particuliers.
@@ -662,7 +669,7 @@ Le Département alloue, sur le plan cantonal ou régional, des ressources spéci
 
 **Mesures renforcées d'enseignement spécialisé**
 
-A la suite d'une procédure d'évaluation particulière standardisée, l'élève présentant un retard de développement ou d'autres formes graves de déficits peut bénéficier de mesures renforcées d'enseignement spécialisé.
+<sup>1</sup> A la suite d'une procédure d'évaluation particulière standardisée, l'élève présentant un retard de développement ou d'autres formes graves de déficits peut bénéficier de mesures renforcées d'enseignement spécialisé.
 
 #### Art. 64
 
@@ -672,7 +679,7 @@ A la suite d'une procédure d'évaluation particulière standardisée, l'élève
 
 <sup>2</sup> Les mesures renforcées d'enseignement spécialisé sont organisées sous forme inclusive ou dans des classes ou écoles spécialisées.
 
-### Chapitre 6: Elèves et parents
+## 6 Elèves et parents
 
 #### Art. 65
 
@@ -692,7 +699,7 @@ A la suite d'une procédure d'évaluation particulière standardisée, l'élève
 
 #### Art. 66
 
-**Information, collaboration**
+**Information - Collaboration**
 
 <sup>1</sup> Les parents sont régulièrement informés sur la vie de l'école et sur la progression scolaire de leur enfant.
 
@@ -708,9 +715,9 @@ A la suite d'une procédure d'évaluation particulière standardisée, l'élève
 
 <sup>2</sup> Dans le cas où l'enfant est scolarisé dans une autre commune que celle du domicile de ses parents, ceux-ci peuvent être appelés à participer aux frais supplémentaires découlant de cette situation conformément à l'ordonnance du Conseil d'Etat (art. 28 de la présente loi).
 
-<sup>3</sup> Les parents fournissent les effets et équipements usuels demandés et nécessaires à leur enfant.
+<sup>3</sup> Les parents fournissent les effets et équipements personnels demandés et nécessaires à leur enfant. Ils sont définis dans un règlement du Conseil d’Etat.
 
-<sup>4</sup> ls peuvent être appelés à participer financièrement, selon le principe de proportionnalité, à hauteur d'un montant raisonnable, pour toute activité particulière définie à l'article 26 de la présente loi.
+<sup>4</sup> Les parents peuvent être appelés à participer financièrement, selon le principe de proportionnalité, à hauteur d'un montant raisonnable, pour toute activité particulière facultative définie à l'article 26 de la présente loi.
 
 <sup>5</sup> Les autorités communales ou intercommunales définissent les éventuels frais supportés par les parents lorsque leur enfant bénéficie d'un accueil extrascolaire.
 
@@ -718,15 +725,15 @@ A la suite d'une procédure d'évaluation particulière standardisée, l'élève
 
 **Violations des obligations scolaires**
 
-Les mesures possibles lors de violations des obligations scolaires ou de manquements avérés ainsi que les compétences de chaque autorité sont définies dans un règlement du Conseil d'Etat.
+<sup>1</sup> Les mesures possibles lors de violations des obligations scolaires ou de manquements avérés ainsi que les compétences de chaque autorité sont définies dans un règlement du Conseil d'Etat.
 
-### Chapitre 7: Financement
+## 7 Financement
 
 #### Art. 69
 
 **Principe**
 
-<sup>1</sup> Les charges salariales et sociales du personnel enseignant primaire sont supportées par l'Etat et les communes conformément à la loi sur la contribution des communes au traitement du personnel de la scolarité obligatoire et aux charges d'exploitation des écoles spécialisées.<sup>1</sup>
+<sup>1</sup> Les charges salariales et sociales du personnel enseignant primaire sont supportées par l'Etat et les communes conformément à la loi sur la contribution des communes au traitement du personnel de la scolarité obligatoire et aux charges d'exploitation des écoles spécialisées.
 
 <sup>2</sup> Les autres charges incombent aux communes, déductions faites des éventuelles subventions ou participations cantonales prévues par des dispositions spécifiques.
 
@@ -740,7 +747,7 @@ Les mesures possibles lors de violations des obligations scolaires ou de manquem
 
 <sup>3</sup> Les mesures renforcées d'enseignement spécialisé font l'objet d'une décision individuelle, sur la base d'une procédure d'évaluation spécifique, coordonnée par l'office compétent.
 
-### Chapitre 8: Voies de droit
+## 8 Voies de droit
 
 #### Art. 71
 
@@ -750,449 +757,24 @@ Les mesures possibles lors de violations des obligations scolaires ou de manquem
 
 <sup>2</sup> La procédure est régie par la loi sur la procédure et la juridiction administratives, sous réserve de dispositions spéciales.
 
-### Chapitre 9: Dispositions transitoires et finales
+## 9 Dispositions transitoires et finales
 
 #### Art. 72
 
 **Procédures pendantes**
 
-Les procédures déjà introduites avant l'entrée en vigueur de la présente loi sont poursuivies selon l'ancien droit.
+<sup>1</sup> Les procédures déjà introduites avant l'entrée en vigueur de la présente loi sont poursuivies selon l'ancien droit.
 
 #### Art. 73
 
 **Modifications du droit en vigueur**
 
-- 1\. La loi sur l'instruction publique du 4 juillet 1962 est modifiée comme suit:
+<sup>1</sup> La loi sur l'instruction publique du 4 juillet 1962 est modifiée.
 
-#### Art. 2bis
+<sup>2</sup> La loi sur la coordination scolaire du 1<sup>er</sup> février 1991 est modifiée.
 
-**Plans d'études**
+<sup>3</sup> La loi sur le cycle d'orientation du 10 septembre 2009 est modifiée.
 
-Les plans d'études garantissent l'enseignement de base des matières scolaires. La priorité est accordée aux branches principales. Ils sont élaborés et évalués par le Département, en veillant à assurer une harmonieuse continuité entre les divisions et degrés d'enseignement et prennent en compte l'évolution des divers besoins.
+<sup>4</sup> Le Conseil d'Etat est chargé de procéder aux modifications correspondantes des dispositions cantonales de rang inférieur.
 
-Par des structures appropriées, le Département sollicite la participation des enseignants pour l'élaboration et la réforme des plans d'études. Les parents peuvent être consultés.
-
-Les plans d'études sont soumis à l'approbation du Conseil d'Etat.
-
-#### Art. 5
-
-**Enseignement primaire**
-
-L'enseignement primaire est assuré par:
-
-- a) l'école primaire,
-
-- b) l'enseignement prévu dans la loi sur l'enseignement spécialisé.
-
-#### Art. 11
-
-**Gratuité de l'enseignement**
-
-L'enseignement primaire et l'enseignement secondaire du premier degré sont gratuits dans les écoles publiques pour les élèves domiciliés dans le canton. L'enseignement secondaire du deuxième degré est gratuit dans les écoles publiques pour les élèves dont le représentant légal est domicilié dans le canton.
-
-Le règlement fixe les conditions d'admission aux écoles secondaires du deuxième degré des élèves non domiciliés dans le canton.
-
-#### Art. 14
-
-**Durée de la scolarité obligatoire**
-
-La durée de la scolarité obligatoire est de onze ans. En règle générale, elle comprend huit années d'école primaire et trois années de cycle d'orientation. Demeurent réservées les exceptions prévues par la loi.
-
-#### Art. 15
-
-Abrogé.
-
-#### Art. 17
-
-**Surveillance de l'Etat**
-
-L'enseignement privé est soumis à la haute surveillance du Conseil d'Etat qui l'exerce par le Département.
-
-Le Département veille au respect de l'ordre et de la sécurité publics, de l'hygiène et des bonnes moeurs. Il peut en tout temps se renseigner sur le plan d'études, les méthodes et moyens d'enseignement. Il fait respecter les dispositions de la loi relatives aux locaux scolaires et aux mesures sanitaires. En cas de contravention grave, le Département peut ordonner la fermeture de l'école. Le recours au Conseil d'Etat est réservé.
-
-#### Art. 21
-
-**Retrait de l'autorisation**
-
-Le Département retire son autorisation à l'école primaire privée lorsqu'il constate que l'enseignement y est insuffisant, comparé au plan d'études de l'école publique, ou lorsque l'école ne se conforme pas aux dispositions du présent chapitre.
-
-En cas de retrait de l'autorisation, les parents ou les tuteurs des enfants sont mis en demeure de les envoyer dans une autre école.
-
-Les décisions du Département concernant l'école primaire privée peuvent faire l'objet d'un recours au Conseil d'Etat.
-
-#### Art. 24
-
-**Officialité des diplômes**
-
-Le Département peut munir de son sceau et contresigner les diplômes délivrés par une école secondaire reconnue, lorsqu'elle soumet ses plans d'études et ses examens au contrôle de l'Etat.
-
-#### Art. 26
-
-**Autorisation**
-
-Aussi longtemps que leur plan d'études s'étend sur la période de scolarité obligatoire, les écoles secondaires privées du premier degré peuvent être soumises au régime de l'autorisation, par le Conseil d'Etat agissant d'office ou à la requête de la commune. Les articles 19 à 21 sont applicables par analogie.
-
-#### Art. 28
-
-**Enseignement de la religion**
-
-L'enseignement de la religion constitue une partie du plan d'études des écoles publiques. Les élèves en sont dispensés par le maître de classe, sur demande écrite de leurs parents ou du tuteur.
-
-L'ecclésiastique désigné et contrôlé par l'autorité religieuse compétente a libre accès aux écoles publiques pour y donner les cours de religion prévus au programme. Les contestations relatives à l'horaire de cet enseignement sont tranchées par le Département.
-
-#### Art. 31
-
-**Enfants inaptes à suivre l'enseignement officiel**
-
-L'enfant éducable qui ne peut suivre l'école primaire ordinaire est placé, autant que possible, dans un établissement approprié.
-
-A cette fin, l'Etat peut passer convention avec des établissements privés ou publics; en cas de besoin, l'Etat doit créer les établissements nécessaires. L'article 27, dernier alinéa, de la constitution cantonale est réservé.
-
-#### Art. 33
-
-**à 35**
-
-Abrogés.
-
-#### Art. 37
-
-**à 39**
-
-Abrogés.
-
-#### Art. 40
-
-**Absences, permissions, congés**
-
-Les parents, les tuteurs et les tiers chez qui demeurent les enfants sont tenus de les envoyer à l'école et de justifier toute absence.
-
-Les permissions et les congés sont accordés dans les limites de l'ordonnance. Les parents qui n'envoient pas leurs enfants à l'école publique sont tenus de le justifier à la direction.
-
-#### Art. 41
-
-Abrogé.
-
-### B. Enseignement spécialisé
-
-#### Art. 42
-
-La loi sur l'enseignement spécialisé règle le fonctionnement et l'organisation des diverses mesures à l'intention des élèves ayant des besoins éducatifs particuliers.
-
-#### Art. 43
-
-**à 45**
-
-Abrogés.
-
-#### Art. 57
-
-**Principes**
-
-Les Eglises sont responsables de l'enseignement religieux et de l'animation spirituelle dans les écoles, pour les membres de leur confession. L'Etat et les communes apportent leur concours.
-
-L'enseignement religieux des Eglises fait partie du plan d'études. Il est donné dans le cadre de l'horaire scolaire. L'élève en est dispensé sur communication écrite. La signature des parents est nécessaire pour l'élève qui n'a pas 16 ans révolus.
-
-Si une Eglise n'est pas en mesure d'assumer sa tâche dans le cadre de l'école, l'Etat subventionne l'enseignement religieux donné en dehors de l'horaire scolaire.
-
-#### Art. 58
-
-**Compétences**
-
-Il appartient aux Eglises:
-
-- a) de définir les objectifs, les plans d'études, les moyens pédagogiques et didactiques de l'enseignement religieux, dans les limites de la présente loi;
-
-- b) de former et de conférer l'habilitation aux professeurs de l'enseignement religieux;
-
-- c) de nommer les animateurs spirituels ou aumôniers, sous réserve de l'approbation de l'autorité scolaire compétente.
-
-Les Eglises exercent leurs compétences par le délégué de l'évêque et par le délégué du conseil synodal de l'Eglise réformée évangélique du Valais.
-
-#### Art. 61
-
-Tout élève qui a suivi avec succès le cycle d'enseignement d'une école secondaire du premier degré ou qui justifie d'une autre préparation suffisante peut accéder, aux conditions fixées par la loi sur le cycle d'orientation, à l'une des écoles secondaires du deuxième degré.
-
-L'enseignement secondaire du deuxième degré prépare aux carrières professionnelles ou aux études supérieures, selon le caractère propre de chaque école.
-
-La loi sur le cycle d'orientation prévoit notamment les conditions de promotion et les équivalences relatives à l'enseignement reçu dans d'autres écoles. Il organise, en outre, le programme d'enseignement et fixe les mesures disciplinaires.
-
-#### Art. 73
-
-**Plan d'études**
-
-Un règlement organise les collèges cantonaux et prévoit le plan d'études et d'examens de chaque section. Ce plan d'études tient compte notamment des exigences minimales posées par la législation fédérale pour la reconnaissance par l'autorité fédérale des certificats de maturité et des diplômes.
-
-Le règlement fixe au surplus la durée de l'année scolaire et des congés et prévoit les mesures disciplinaires.
-
-### Chapitre 1: Personnel de l'enseignement primaire, formation
-
-#### Art. 74
-
-**Formation de base et formation professionnelle**
-
-Les candidats à la formation d'enseignant pour les classes de l'école primaire doivent être titulaires d'un certificat de maturité reconnu par la Confédération. Le Département peut reconnaître d'autres titres qu'il juge équivalents.
-
-Il peut en outre exiger des aptitudes et des dispositions spécifiques à la formation d'enseignant des classes primaires.
-
-L'admission peut être soumise à un concours d'entrée.
-
-La formation professionnelle s'acquiert dans une institution de niveau tertiaire: la Haute Ecole pédagogique (HEP).
-
-#### Art. 74a
-
-**Organisation**
-
-La formation des enseignants pour les classes de l'école primaire relève du canton qui en assure l'organisation.
-
-#### Art. 74b
-
-**Compétences**
-
-La création des structures nécessaires à la formation des enseignants des classes primaires est régie par la législation spéciale qui arrête notamment la durée de la formation professionnelle.
-
-Le Grand Conseil peut, par décision, charger le Conseil d'Etat de passer convention avec des collectivités ou des établissements publics ou privés en vue de leur confier la formation des candidats à l'enseignement dans les classes de l'école primaire.
-
-#### Art. 89
-
-Abrogé.
-
-#### Art. 99
-
-**Organisation de la commission scolaire**
-
-Le Conseil communal ou le conseil d'administration, sur proposition des conseils communaux respectifs, nomme la commission scolaire pour la durée de la période administrative. Dans la commission scolaire des écoles intercommunales, les communes concernées sont représentées équitablement. Lors de délibérations sur des questions d'enseignement ou d'organisation scolaire, le directeur et un délégué des enseignants assistent à la séance de la commission scolaire avec voix consultative.
-
-Lors de délibérations sur l'enseignement religieux, un délégué de chaque Eglise concernée assiste à la séance avec voix délibérative si elle n'a pas de représentant permanent.
-
-Les parents sont représentés dans la commission scolaire.
-
-Les dispositions d'exécution concernant la composition de la commission scolaire communale ou intercommunale sont déterminées par une ordonnance du Conseil d'Etat.
-
-#### Art. 100
-
-**Attributions de la commission scolaire**
-
-La commission scolaire s'assure de l'exécution des dispositions légales ainsi que des directives du Département et des inspecteurs scolaires et celles des autorités communales et régionales compétentes.
-
-Elle a notamment les attributions suivantes:
-
-- a) elle donne son préavis pour l'engagement de l'enseignant et la résiliation de son contrat, pour les mesures disciplinaires et pour l'établissement du plan de scolarité;
-
-- b) abrogé;
-
-- c) elle informe et consulte les parents et leurs associations sur les questions scolaires importantes.
-
-Le règlement communal ou intercommunal peut confier d'autres attributions à la commission scolaire.
-
-Le Conseil communal ou le conseil d'administration veillent à l'exécution des obligations de la commission scolaire. En cas de négligence, le Département prend les mesures nécessaires.
-
-#### Art. 101
-
-**Directeur des écoles**
-
-Les communes peuvent confier une partie des attributions de la commission scolaire à un directeur d'école, aux conditions prévues par le règlement communal ou intercommunal y relatif.
-
-Le Conseil d'Etat édicte une ordonnance concernant les directeurs de la scolarité obligatoire.
-
-L'Etat subventionne le traitement du directeur d'école.
-
-#### Art. 102
-
-**Contestations**
-
-Tout différend dans lequel est impliqué le directeur des écoles est tranché par l'inspecteur, sous réserve de recours au Département, s'il s'agit de tâches pédagogiques.
-
-Tout différend dans lequel est impliqué le directeur des écoles est tranché par la commission scolaire, sous réserve de recours au Conseil communal, s'il s'agit de tâches de proximité.
-
-#### Art. 108
-
-**Tâches et organisation**
-
-Les commissions cantonales conseillent le Département dans l'élaboration des plans d'études et le choix des manuels de l'enseignement primaire et secondaire.
-
-Les membres des commissions font partie du jury des examens.
-
-Le règlement organise les commissions et leurs sections. Il fixe leurs autres attributions.
-
-#### Art. 115
-
-**Matériel scolaire**
-
-Les communes font l'acquisition des manuels en usage dans les classes primaires et secondaires du premier degré auprès de l'organisme responsable des moyens d'enseignement.
-
-Les manuels scolaires livrés par l'organisme ou par les déposants attitrés sont subventionnés par l'Etat sur les mêmes bases que les bâtiments scolaires. Après déduction des subsides de l'Etat, les communes peuvent se faire rembourser en partie le prix des manuels par les parents.
-
-Elles doivent toutefois couvrir la dépense jusqu'à concurrence de 70% y compris les subsides de l'Etat de manière à ne laisser à charge des parents que 30% au maximum de la dépense.
-
-Elles sont au surplus tenues de livrer gratuitement les manuels aux enfants des familles nombreuses à revenu modeste.
-
-En ce qui concerne les autres fournitures scolaires, elles incombent aux parents avec l'aide des communes.
-
-Le Grand Conseil peut, par décret, introduire la gratuité du matériel scolaire pour toutes les communes, dans le cadre du présent article.
-
-#### Art. 122
-
-**à 125**
-
-Abrogés.
-
-#### Art. 126
-
-**Sanctions contre les autorités**
-
-Les membres des autorités scolaires, ainsi que les membres de l'autorité ou de l'administration communale qui manquent gravement aux obligations leur incombant en vertu de la présente loi, sont passibles, en cas de négligence grave, des amendes prévues par l'ordonnance.
-
-Les amendes sont prononcées par le Département sous réserve de recours au Conseil d'Etat.
-
-#### Art. 127
-
-**Ordonnance**
-
-L'ordonnance prévoit la procédure applicable en matière de sanctions disciplinaires et pénales; elle organise les voies de recours et décide de l'affectation des amendes, dans les limites de la loi.
-
-- 2\. La loi sur la coordination scolaire du 1er février 1991 est modifiée comme suit:
-
-#### Art. 1
-
-L'âge d'entrée à l'école obligatoire est fixé à quatre ans révolus au 31 juillet.
-
-#### Art. 2
-
-La durée de la scolarité obligatoire est de onze ans.
-
-#### Art. 3
-
-**Durée de l'année scolaire**
-
-La durée de l'année scolaire est fixée en principe à 38 semaines de classe.
-
-#### Art. 4
-
-La durée de la scolarité, depuis l'entrée à l'école obligatoire jusqu'à l'examen de maturité est, en principe, de 15 ans.
-
-- 3\. La loi sur le cycle d'orientation du 10 septembre 2009 est modifiée comme suit:
-
-#### Art. 3
-
-**al. 1 Définition**
-
-<sup>1</sup> Le CO fait suite à la huitième année de l'école primaire. Il comprend les trois dernières années de la scolarité obligatoire.
-
-#### Art. 17
-
-**Mesures particulières**
-
-Pour assurer un passage harmonieux entre la 8e primaire et le CO, des mesures particulières sont prévues, notamment les conditions et missions spécifiques définies par le Département pour les maîtres concernés.
-
-#### Art. 18
-
-**Entretiens d'appréciation**
-
-En vue de l'admission au CO, des entretiens individuels entre le titulaire de 8e primaire, l'élève et les parents sont organisés. L'appui d'un intervenant spécialisé peut être demandé.
-
-#### Art. 19
-
-**Rapport d'évaluation**
-
-Le titulaire de 8e primaire établit un rapport d'évaluation de fin d'année scolaire fondé sur divers éléments d'appréciation. Il indique également les niveaux qui seront suivis par l'élève en première année du CO (1CO). Ce document officiel est présenté aux parents qui le signent. Il est transmis à la direction du CO.
-
-#### Art. 21
-
-**al. 1 Elèves admis**
-
-<sup>1</sup> Au terme de la 8e année de l'école primaire, est admis au CO:
-
-- a) l'élève promu, soit celui dont la moyenne des notes du premier groupe et la moyenne générale sont égales ou supérieures à 4.0;
-
-- b) l'élève non promu mais auquel il ne reste que deux années de scolarité obligatoire;
-
-- c) l'élève au bénéfice d'un programme adapté dans une ou plusieurs disciplines de 8e primaire.
-
-#### Art. 22
-
-**Exception à l'admission - Responsabilité des parents**
-
-En se fondant sur l'évaluation de fin de la 8e primaire, les parents peuvent décider sous leur responsabilité de faire redoubler la 8e primaire à leur enfant promu, si sa moyenne annuelle dans les branches du 1er groupe et/ou sa moyenne générale se situent entre 4,0 et 4,2, pour autant qu'il lui reste trois ans de scolarité obligatoire à accomplir.
-
-#### Art. 24
-
-**al. 3 Première année du CO (1CO) - Caractéristiques - Répartition**
-
-des élèves
-
-<sup>3</sup> La répartition dans les niveaux en 1CO se fait en fonction de la moyenne annuelle en fin de 8e primaire dans chacune des branches considérées:
-
-- a) moyenne annuelle de 5,0 ou plus: possibilité de suivre l'enseignement en niveau I;
-
-- b) moyenne annuelle de 4,7 ou moins: niveau II;
-
-- c) moyenne annuelle à 4,8 ou 4,9: niveau I si au moins deux des trois critères ci-après sont favorables, sinon niveau II:
-
-- résultat de l'examen cantonal: 5,0 et plus: niveau I; 4,9 et moins: niveau II;
-
-- avis des parents;
-
-- avis du maître de 8e primaire fondé sur une évaluation globale.
-
-#### Art. 42
-
-**Etudes surveillées**
-
-Le directeur peut organiser des études surveillées répondant aux besoins des élèves.
-
-#### Art. 47
-
-**al. 2 Principe**
-
-<sup>2</sup> A son entrée au CO, l'élève répondant à un des critères décrits aux articles 45 et 46 peut accéder au niveau II dans la ou les branches concernées si au moins deux des trois critères ci-après sont favorables:
-
-- a) réussite à l'examen cantonal dans la ou les branches concernées;
-
-- b) avis des parents;
-
-- c) avis du maître de 8e primaire fondé sur une évaluation globale.
-
-Sinon des mesures d'enseignement spécialisé sont en principe prévues à son intention.
-
-#### Art. 57
-
-**al. 1 Diplôme et attestation en fin de scolarité obligatoire au CO**
-
-<sup>1</sup> L'élève qui arrive au terme de son obligation de scolarisation (en principe 15 ans révolus au 31 juillet et 11 ans de scolarité) reçoit une attestation de libération de la scolarité obligatoire.
-
-#### Art. 62
-
-**Congés**
-
-Les congés des élèves du CO sont régis par une ordonnance du Conseil d'Etat.
-
-#### Art. 71bis
-
-**Application par analogie**
-
-Les articles 3 à 15, 17, 18, 19 alinéas 1 à 4, 20, 21, 23 à 26, 28 à 34, 37, 38, 40, 42 à 44 et 66 à 72 de la loi sur l'enseignement primaire s'appliquent également au cycle d'orientation.
-
-- 4\. Le Conseil d'Etat est chargé de procéder aux modifications correspondantes des dispositions cantonales de rang inférieur.
-
-#### Art. 74
-
-**Entrée en vigueur**
-
-<sup>1</sup> La présente loi est soumise au référendum facultatif.
-
-<sup>2</sup> Le Conseil d'Etat fixe la date de l'entrée en vigueur de la présente loi.
-
-Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 15 novembre 2013.
-
-La présidente du Grand Conseil: Marcelle Monnet-Terrettaz Le chef du Service parlementaire: Claude Bumann
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Loi sur l'enseignement primaire (LEP) du BO No 51/2013; BO 01.08.2015
-
-## Autres notes
-
-- [15] novembre 2013 No 8/2015
-- [1] Modification du 12 mai 2016 (Loi sur BO No 24/2016; BO 01.12.2016 l'enseignement spécialisé (LES) du 12 mai No 42/2016 2016, art. 39 ch. 2)
+RCV BO/Abl. 51/2013, 8/2015
