@@ -4,13 +4,13 @@ number: "162.410"
 title: Verordnung betreffend Ferien und Urlaub der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
 short: "Ferien- und Urlaubsverordnung, FUV"
 language: de
-version: 2021-07-01
-valid_until: 2021-07-31
+version: 2021-08-01
+valid_until: 2021-12-31
 version_adopted: 2021-06-22
 adopted: 2004-07-06
 in_force: 2005-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/162.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5290/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5294/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Ferien- und Urlaubsverordnung |Staatspersonal: Dienstverhältnis
 
 (Ferien- und Urlaubsverordnung, FUV)
 
-Vom 6. Juli 2004 (Stand 1. Juli 2021)
+Vom 6. Juli 2004 (Stand 1. August 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
@@ -168,6 +168,18 @@ beschliesst:
 <sup>2</sup> Diese Regelung gilt für Auszubildende, die sich in einer Berufslehre, einer Vor- und Anlehre sowie einem Praktikum von mindestens einem Jahr Dauer befinden.
 
 <sup>3</sup> Die Lohnzahlung erfolgt unter Verrechnung allfälliger Lohnersatzzahlungen Dritter.
+
+#### § 15c
+
+**Bezahlter Urlaub für Lernende**
+
+<sup>1</sup> Lernende, die eine Berufslehre absolvieren und über einen Ferienanspruch von fünf Wochen verfügen, haben Anspruch auf fünf Tage bezahlten Urlaub pro Lehrjahr (sogenannte Flex-Tage).
+
+<sup>2</sup> Die Flex-Tage stehen den Lernenden zur flexiblen Nutzung zur Verfügung. Sie dienen insbesondere der Prüfungsvorbereitung, der individuellen Entwicklung oder der Erholung.
+
+<sup>3</sup> Der Bezug des Urlaubs ist von der oder dem Vorgesetzten unter besonderer Beachtung der Wünsche der Lernenden sowie unter Berücksichtigung der betrieblichen Bedürfnisse zu bewilligen.
+
+<sup>4</sup> Wird der Urlaub innert einem Lehrjahr nicht bezogen, verfällt der Anspruch auf dessen Ende.
 
 #### § 16
 
