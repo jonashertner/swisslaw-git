@@ -4,13 +4,13 @@ number: "544"
 title: "Verordnung über die Schul- und Studiengelder sowie die Gebühren an kantonalen Schulen, privaten Berufsfachschulen und den Hochschulen des Kantons Luzern"
 short: Schulgeldverordnung
 language: de
-version: 2021-02-01
-valid_until: 2021-07-31
-version_adopted: 2021-01-22
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2020-04-07
 adopted: 2015-03-03
 in_force: 2015-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/544"
-pdf: "https://srl.lu.ch/api/de/versions/3713/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3779/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3713/pdf_file"
 
 (Schulgeldverordnung)
 
-vom 03.03.2015 (Stand 01.02.2021)
+vom 03.03.2015 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -186,9 +186,9 @@ beschliesst:
   - 2\. Lernende ohne Lehrvertrag — Fr. 200.–
 - b. Schulbesuch
   - 1\. Lernende mit einem Lehrvertrag — unentgeltlich
-  - 2\. Lernende ohne Lehrvertrag mit einer Zulassung zum Qualifikationsverfahren und Wohnsitz im Kanton Luzern oder einem Vereinbarungskanton: Fr. 150.– pro Jahreswochenlektion (max. Fr. 1000.– pro Jahr)
-  - 3\. Lernende des Lehrgangs Allgemeinbildung für Erwachsene mit Wohnsitz im Kanton Luzern und einer Bewilligung der Dienststelle Berufs- und Weiterbildung — Fr. 750.–
-  - 4\. übrige Lernende: nebst einem allfälligen Schulgeld den Betrag pro Semester- oder Jahreswochenlektion der anwendbaren Schulgeldvereinbarung, sofern der zuständige Kanton diese Kosten nicht übernimmt.
+  - 2\. Lernende ohne Lehrvertrag mit einer Zulassung zum Qualifikationsverfahren und Wohnsitz im Kanton Luzern oder einem Vereinbarungskanton: — unentgeltlich
+  - 3\. Lernende des Lehrgangs Allgemeinbildung für Erwachsene mit Wohnsitz im Kanton Luzern und einer Bewilligung der Dienststelle Berufs- und Weiterbildung — unentgeltlich
+  - 4\. übrige Lernende: Betrag pro Semester- oder Jahreswochenlektion der anwendbaren Schulgeldvereinbarung, sofern der zuständige Kanton diese Kosten nicht übernimmt.
 
 <sup>2</sup> Durch die Berufsfachschulen werden für die Berufsmaturität folgende Schulgelder und Gebühren erhoben:
 
@@ -228,8 +228,12 @@ beschliesst:
 
 <sup>1</sup> Der Kostgeld- und Betreuungsbeitrag der Eltern für Lernende, die in kantonalen, kommunalen oder vom Kanton unterstützten privaten Sonderschulen gefördert und betreut werden, beträgt:
 
-- a. für Lernende ohne Hilflosenentschädigung pro Monat — Fr. 130.–
-- b. für Lernende mit Hilflosenentschädigungim Tagesaufenthalt pro Monat — Fr. 180.–
+- a. für Lernende ohne Hilflosenentschädigung:
+  - 1\. für Verpflegung und Betreuung am Mittag pro Monat — Fr. 145.–
+  - 2\. für Betreuung nach dem Unterricht in Tagesstrukturen pro Stunde — Fr. 5.–
+- b. für Lernende mit Hilflosenentschädigung:
+  - 1\. für Verpflegung und Betreuung am Mittag pro Monat — Fr. 200.–
+  - 2\. für Betreuung nach dem Unterricht in Tagesstrukturen pro Stunde — Fr. 7.50
 
 #### § 8
 
@@ -374,9 +378,7 @@ beschliesst:
 
 #### § 22a
 
-**Übergangsbestimmung der Änderung vom 19. September 2017**
-
-<sup>1</sup> Für Lernende, welche die Nachholbildung vor dem 1. August 2018 an einer Berufsfachschule begonnen haben, gilt § 6 Absatz 1b in der Fassung vom 1. August 2017.
+**…**
 
 #### § 23
 
