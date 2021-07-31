@@ -4,13 +4,13 @@ number: "831.1"
 title: Finanzhaushaltsverordnung
 short: FHV
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-10-13
+version: 2021-08-01
+valid_until: 2021-09-30
+version_adopted: 2021-07-06
 adopted: 1996-12-17
 in_force: 1997-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/831.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3051/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3200/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3051/pdf_file"
 
 (FHV)
 
-vom 17.12.1996 (Stand 01.01.2021)
+vom 17.12.1996 (Stand 01.08.2021)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -503,6 +503,12 @@ als Verordnung:[^ingress-2]
 **Landerwerb für Strassenbauten**
 
 <sup>1</sup> Das Baudepartement erwirbt oder veräussert Grundstücke für Strassenbauten bis zu einem Preis oder Tauschwert in Höhe von Fr. 500 000.–.
+
+#### Art. 43a
+
+**Leistungen im Bereich von Sach-, Personen- und Vermögensschäden**
+
+<sup>1</sup> Das Finanzdepartement spricht im Bereich von Sach-, Personen- und Vermögensschäden Leistungen bis zum Betrag von Fr. 500'000.– je Schadenfall zu.
 
 #### Art. 44
 
