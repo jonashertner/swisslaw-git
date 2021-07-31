@@ -4,205 +4,176 @@ number: "416.010"
 title: Verordnung über Ausbildungsbeiträge
 short: AusbV
 language: de
-version: 2017-05-01
-corrected: 2018-12-17
-version_adopted: 2017-02-06
+version: 2021-08-01
+version_adopted: 2021-10-25
 adopted: 1994-06-20
 in_force: 1994-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/416.010"
-pdf: "https://ai.clex.ch/api/de/versions/482/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2135/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Ausbildungsbeiträge
 
-vom 20. Juni 19941
+(AusbV)
+
+vom 20.06.1994 (Stand 01.08.2021)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
-gestützt auf Art. 20 des Gesetzes über Ausbildungsbeiträge vom 26. April 19872
+gestützt auf Art. 20 des Gesetzes über Ausbildungsbeiträge vom 26. April 1987
 
 beschliesst:
 
-#### Art. 13
+#### Art. 1
 
 **Zuständigkeiten und Aufgaben**
 
-Der Vollzug des Gesetzes über Ausbildungsbeiträge obliegt:
+<sup>1</sup> Der Vollzug des Gesetzes über Ausbildungsbeiträge obliegt:
 
 - a) der Standeskommission;
-
-- b) der Landesschulkommission;
-
+- b) …
 - c) dem Erziehungsdepartement (nachfolgend Departement genannt).
 
-#### Art. 24
+#### Art. 2
 
 **Standeskommission**
 
-<sup>1</sup> Die Standeskommission bestimmt:
+<sup>1</sup> Die Standeskommission regelt die Berechnung des finanziellen Bedarfs. Insbesondere legt sie fest:
 
-- a) die anrechenbaren Ausbildungs- und Lebenshaltungskosten der Bewerber\*;
+- a) die anrechenbaren Ausbildungs- und Lebenshaltungskosten der Personen in Ausbildung;
+- b) die zumutbaren Eigenleistungen der Personen in Ausbildung und die zumutbaren Leistungen ihrer Eltern;
+- c) das Ausmass des teilweisen Verzichts auf die Anrechnung der zumutbaren Leistungen der Eltern.
+- d) …
 
-- b) die zumutbaren Eigenleistungen der Bewerber, die zumutbaren Leistungen der Inhaber der elterlichen Sorge oder anderer gesetzlich Verpflichteter;
-
-- c) die Verzinsungs- und Rückzahlungsbedingungen für Studiendarlehen;
-
-- d) die Ausbildungsstätten für die Gewährung von Schulgeldern.
-
-<sup>2</sup> Die Standeskommission entscheidet über den Verzicht auf Rückerstattung von Schulgeldern.
+<sup>2</sup> Sie kann Pauschalen festlegen und Ansätze, insbesondere für die anerkannten Ausbildungs- und Lebenshaltungskosten sowie die zumutbaren Eigen- und Fremdleistungen vorsehen. Weiter kann sie für Einkommen und Vermögen Freibeträge festlegen.
 
 <sup>3</sup> Sie regelt das Erforderliche für den Vollzug dieser Verordnung.
 
-#### Art. 31
+#### Art. 3
 
-Landesschul- Die Landesschulkommission entscheidet.
+**…**
 
-kommission a) über die Ausrichtung von Studiendarlehen;
+#### Art. 4
 
-- b) in Stipendien- und Schulgeldfällen, in denen erhöhte Ansätze nach Art. 6 Abs. 3 beantragt sind.
+**Erziehungsdepartement**
 
-#### Art. 42
+<sup>1</sup> Dem Departement obliegen:
 
-Erziehungs- <sup>1</sup>Dem Departement obliegen:
-
-departement a) Entgegennahme von Stipendien-, Studiendarlehens- oder Schulgeldgesuchen;
-
-- b) Überprüfung der Angaben in Bezug auf Ausbildungsziel und Ausbildungsstätte sowie wirtschaftliche und persönliche Verhältnisse; sie sorgt zu diesem Zweck nötigenfalls für Ergänzungen der Gesuche und kann bei der kantonalen Steuerverwaltung die notwendigen Unterlagen über die Einkommens- und Vermögensverhältnisse einholen;
-
-- c) Verfügung über ein Stipendium oder ein Schulgeld, unter Vorbehalt der Zuständigkeit der Landesschulkommission;
-
-- d) Antragstellung für die Geschäfte nach Art. 3;
-
-- e) Verfügung über die Rückerstattungspflicht für Schulgelder.
+- a) Entgegennahme von Gesuchen um Ausbildungsbeiträge;
+- b) Überprüfung der Angaben in Bezug auf Ausbildungsziel und Ausbildungsstätte sowie finanzielle und persönliche Verhältnisse;
+- c) Verfügung über Ausbildungsbeiträge;
+- d) …
+- e) Verfügung über die Rückerstattung von Kantonsbeiträgen an Hochschulen;
+- f) Vergabe von Stipendien aus dem Stipendienfonds für Härtefälle.
 
 <sup>2</sup> Das Departement kann diese Obliegenheiten einer Dienststelle zum selbständigen Vollzug delegieren.
 
 <sup>3</sup> Das Departement vollzieht diese Verordnung, soweit die Verordnung nicht ausdrücklich eine andere Zuständigkeit festhält.
 
-#### Art. 53
+#### Art. 5
 
-Anerkannte Aus- <sup>1</sup>Für die Ausrichtung von Stipendien anerkannt werden Ausbildungsgänge von öfbildungsgänge fentlich-rechtlichen Institutionen a) der Tertiärausbildung;
+**Anerkannte Ausbildungsgänge**
 
-- b) der Sekundärstufe II;
+<sup>1</sup> Anerkannt sind Ausbildungen in der Schweiz, wenn:
 
-- c) mit Angeboten der Weiterbildung nach dem Bundesgesetz über die Berufsbildung;
+- a) sie zu einem vom Bund, von der Schweizerischen Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren oder von der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren anerkannten Ausbildungsabschluss führen;
+- b) der Kanton den Trägern der Ausbildungsstätte gestützt auf interkantonale Vereinbarungen Beiträge leistet; oder
+- c) die Standeskommission sie durch rechtssetzenden Erlass anerkannt hat.
+- d) …
 
-- d) mit Angeboten der Vorleistung für die berufliche Ausbildung.
+<sup>2</sup> Ausbildungen im Ausland sind anerkannten Ausbildungen in der Schweiz gleichgestellt, wenn die gesuchstellende Person die Gleichwertigkeit nachweist. Die Gleichwertigkeit ist in der Regel durch die zuständige Anerkennungsstelle in der Schweiz bestätigen zu lassen. Die Person in Ausbildung hat zudem nachzuweisen, dass sie die Aufnahmebedingungen für eine entsprechende Ausbildung in der Schweiz erfüllt.
 
-<sup>2</sup> Aus wichtigen Gründen kann die Standeskommission im Einzelfall
+- a) …
+- b) …
 
-- a) Ausbildungen nach Abs. 1 von der Anerkennung ausnehmen;
+#### Art. 5a
 
-- b) Ausbildungen privatrechtlicher Institutionen, welche Leistungen nach Abs. 1 anbieten, anerkennen.
+**Unterbruch**
 
-#### Art. 61
+<sup>1</sup> Eine Ausbildung kann höchstens zwei Jahre unterbrochen werden. Wird sie innert Frist nicht wieder aufgenommen, gilt dies als Abbruch der Ausbildung.
+
+<sup>2</sup> Während des Ausbildungsunterbruchs werden keine Ausbildungsbeiträge ausgerichtet.
+
+#### Art. 6
 
 **Beitragshöhe**
 
 <sup>1</sup> Die Stipendien betragen pro Ausbildungsjahr höchstens:
 
-- a) Fr. 10'000.— für unmündige;
+- a) Fr. 12'000.-- für Personen in Ausbildungen auf der Sekundarstufe II, einschliesslich Brückenangeboten und Passerellen;
+- b) Fr. 16'000.-- für Personen in Ausbildungen auf der Tertiärstufe.
+- c) …
 
-- b) Fr. 13'000.— für mündige;
+<sup>2</sup> Ist die Person in Ausbildung gegenüber Kindern unterhaltspflichtig, erhöht sich das Stipendium um Fr. 4'000.-- pro Kind.
 
-- c) Fr. 18'000.— für verheiratete, in eingetragener Partnerschaft lebende und alleinerziehende Bewerber.
+<sup>3</sup> …
 
-<sup>2</sup> Leben minderjährige oder sich in Ausbildung befindende Kinder von verheirateten, in eingetragener Partnerschaft lebenden oder alleinerziehenden Bewerbern in deren Haushalt, so wird das zustehende Stipendium pro Kind gesamthaft um Fr. 3'000.— erhöht.
+<sup>4</sup> Darlehen können bis zu einem Betrag von Fr. 10'000.-- pro Ausbildungsjahr, aber höchstens bis zu einem Gesamtbetrag von Fr. 50'000.-- gewährt werden.
 
-<sup>3</sup> Die Höchstansätze für Stipendien können in besonderen Fällen erhöht werden, bei:
+<sup>5</sup> Stipendien werden auf Fr. 100.-- abgerundet und solche unter Fr. 500.-- werden nicht ausbezahlt.
 
-- a) besonders hohem Schulgeld um höchstens Fr. 5'000.—;
+<sup>6</sup> …
 
-- b) einem Studium im Ausland um höchstens Fr. 5'000.—;
+<sup>7</sup> Stipendium und Darlehen zusammen dürfen die anrechenbaren Ausbildungs- und Lebenshaltungskosten nicht überschreiten.
 
-- c) Weiterbildung sowie Umschulung um höchstens Fr. 5'000.—.
-
-<sup>4</sup> Studiendarlehen können bis zu einem Betrag von Fr. 10'000.— pro Jahr, aber höchstens bis zu einem Gesamtbetrag von Fr. 50'000.— gewährt werden.
-
-<sup>5</sup> Stipendien werden auf Fr. 100.— abgerundet und solche unter Fr. 500.— werden nicht ausbezahlt.
-
-<sup>6</sup> Schulgeldbeiträge dürfen in der Regel pro Ausbildungsjahr jene gemäss Ostschweizerischem Schulabkommen (Teilabkommen 3) nicht überschreiten.
-
-#### Art. 72
+#### Art. 7
 
 **Gesuche**
 
-<sup>1</sup> Das Gesuch um Ausbildungsbeiträge hat auf offiziellem Formular zu erfolgen.
+<sup>1</sup> …
 
-<sup>2</sup> Das Gesuch ist für jedes Schul- bzw. Studienjahr zu erneuern. Es ist spätestens am Ende des ersten Semesters einzureichen.
+<sup>2</sup> Das Gesuch um Ausbildungsbeiträge ist für jedes Schul- bzw. Studienjahr zu erneuern. Es ist spätestens am Ende des ersten Semesters einzureichen.
 
-<sup>3</sup> Dem Gesuch ist eine Bestätigung der Ausbildungsstätte bzw. der Lehrvertrag beizulegen.
+<sup>3</sup> Dem Gesuch ist eine Bestätigung der Ausbildungsstätte bzw. der Ausbildungsvertrag beizulegen.
 
 <sup>4</sup> Ausländer müssen dem Gesuch die Niederlassungs- oder Aufenthaltsbewilligung beilegen.
 
 <sup>5</sup> Das Gesuch hat Aufschluss zu geben über:
 
-- a) die familiären und persönlichen Verhältnisse des Bewerbers, soweit dies für die Beurteilung des Gesuches notwendig ist;
-
+- a) die finanziellen und persönlichen Verhältnisse der gesuchstellenden Person, soweit dies für die Beurteilung des Gesuchs notwendig ist;
 - b) das Ausbildungsziel, die voraussichtliche Dauer der Ausbildung und die zu besuchende Ausbildungsstätte;
+- c) die bisherige Ausbildung und Erwerbstätigkeit der gesuchstellenden Person;
+- d) die Ausbildungs- und Lebenshaltungskosten.
 
-- c) die bisherige Ausbildung des Bewerbers;
+#### Art. 8
 
-- d) die Ausbildungskosten.
+**Veränderte Verhältnisse**
 
-#### Art. 81
+<sup>1</sup> Gesuchstellende Personen haben dem Departement schriftlich innert Monatsfrist zu melden:
 
-Veränderte Ver- <sup>1</sup>Gesuchsteller haben dem Departement schriftlich innert Monatsfrist zu melden: hältnisse a) Änderung der Studienrichtung;
-
+- a) Änderung der Studienrichtung;
 - b) Übertritt in eine andere Ausbildungsstätte;
-
-- c) Wohnsitzwechsel des Bewerbers oder dessen Eltern;
-
+- c) Wohnsitzwechsel der gesuchstellenden Person oder deren Eltern;
 - d) Unterbruch oder Abbruch des Studiums.
 
-<sup>2</sup> Weitere Stipendien oder Studiendarlehen können gekürzt oder verweigert werden, wenn der Bewerber diese Meldepflicht missachtet.
+<sup>2</sup> Weitere Ausbildungsbeiträge können gekürzt oder verweigert werden, wenn die gesuchstellende Person diese Meldepflicht missachtet.
 
-#### Art. 92
+#### Art. 9
 
-Auszahlung <sup>1</sup>Ausbildungsbeiträge werden in gleichen Raten pro Semester auf Anweisung des Departementes von der Landesbuchhaltung ausbezahlt.
+**Auszahlung**
 
-<sup>2</sup> Für die vorgängige Ausfertigung der Darlehensverträge ist die Landesbuchhaltung zuständig. Eine Kopie des Darlehensvertrages geht an das Departement.
+<sup>1</sup> Ausbildungsbeiträge werden in gleichen Raten pro Semester ausbezahlt.
 
-Art. 9bis3 Verzicht auf <sup>1</sup>In begründeten Fällen kann auf die Rückerstattung der Schulgelder ganz oder teil-Rückerstattung weise verzichtet werden.
+<sup>2</sup> …
 
-von Schulgeldern <sup>2</sup>Der Verzicht auf die Rückerstattung setzt voraus, dass a) das Studium notwendig und geeignet ist, die Erwerbsfähigkeit des Gesuchstellers wieder herzustellen, zu erhalten oder zu verbessern und b) die Begleichung der Schulgelder die Finanzierungsmöglichkeit des Gesuchstellers übersteigt.
+#### Art. 9bis
 
-<sup>3</sup> Ein Rückerstattungsverzicht erfolgt in dem Umfang, in dem das Schulgeld die zu erwartenden Leistungen des Gesuchstellers sowie seines Ehegatten, eingetragenen Partners oder Konkubinatspartners übersteigt.
+**…**
 
-<sup>4</sup> Wird ein Verzicht auf Rückerstattung abgelehnt, kann die Standeskommission für höchstens die ersten vier Studienjahre die Rückerstattung verzinslich oder zinslos stunden. Die gestundeten Beiträge können ab dem fünften Studienjahr ganz oder gestaffelt eingefordert werden.
-
-#### Art. 101
+#### Art. 10
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Wurde mit einer Ausbildung, die mit der Änderung von Art. 5 nicht mehr stipendienberechtigt ist, vor Inkrafttreten der Änderung begonnen, richtet sich die Stipendiengewährung für den ganzen Ausbildungsgang nach altem Recht.
+<sup>1</sup> Wurde mit einer Ausbildung, die mit der Revision der Gesetzgebung über Ausbildungsbeiträge vom 9. Mai 2021 nicht mehr stipendienberechtigt ist, vor Inkrafttreten der Änderung begonnen, richtet sich die Gewährung von Ausbildungsbeiträgen für den ganzen Ausbildungsgang nach bisherigem Recht.
 
 <sup>2</sup> Hängige Verfahren werden nach bisheriger Zuständigkeit fortgeführt.
 
-#### Art. 112
+#### Art. 11
 
 **Inkrafttreten**
 
-Diese Verordnung tritt nach Annahme durch den Grossen Rat am 1. August 1994 in Kraft.
+<sup>1</sup> Diese Verordnung tritt nach Annahme durch den Grossen Rat am 1. August 1994 in Kraft.
 
-## Weitere Fussnoten
-
-- [1] Mit Revisionen vom 14. Februar 2005, 20. November 2006, 7. Februar 2011 und 6. Februar 2017.
-- [2] Ingress abgeändert durch GrRB vom 20. November 2006.
-- [3] Abgeändert (lit. c) durch GrRB vom 20. November 2006. Abgeändert (lit. b) durch GrRB vom 7. Februar 2011
-- [4] Abgeändert (lit. a und b) durch GrRB vom 20. November 2006. Eingefügt (Abs. 2) durch GrRB vom 7. Februar 2011 (Inkrafttreten: 1. Januar 2011). Eingefügt (Abs. 3) durch GrRB vom 6. Februar 2017 (Inkrafttreten: 1. Mai 2017).
-- [5] Abgeändert durch GrRB vom 7. Februar 2011 (Inkrafttreten: 1. Januar 2011).
-- [1] Abgeändert durch GrRB vom 7. Februar 2011 (Inkrafttreten: 1. Januar 2011).
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [2] Abgeändert durch GrRB vom 20. November 2006. Abgeändert durch GrRB vom 7. Februar 2011 (Inkrafttreten: 1. Januar 2011).
-- [3] Abgeändert durch GrRB vom 20. November 2006. Abgeändert durch GrRB vom 7. Februar 2011 (Inkrafttreten: 1. Januar 2011).
-- [1] Abgeändert (Abs. 1 und 2) durch GrRB vom 20. November 2006. Abgeändert (Abs. 3) durch GrRB vom 7. Februar 2011 (Inkrafttreten: 1. Januar 2011).
-- [2] Abgeändert (Abs. 4 und 5) durch GrRB vom 20. November 2006.
-- [1] Abgeändert (Abs. 1 und 2) durch GrRB vom 20. November 2006.
-- [2] Abgeändert durch GrRB vom 20. November 2006.
-- [3] Eingefügt durch GrRB vom 14. Februar 2005 (Inkrafttreten: 25. April 2005). Abgeändert (Abs. 1, 2 und 4) durch GrRB vom 20. November 2006. Abgeändert durch GrRB vom 7. Februar 2011 (Inkrafttreten: 1. Januar 2011). Abgeändert (Abs. 3) durch GrRB vom 6. Februar 2017 (Inkrafttreten: 1. Mai 2017).
-- [1] Aufgehoben durch GrRB vom 20. November 2006. Wieder eingefügt durch GrRB vom 7. Februar 2011 (Inkrafttreten: 1. Januar 2011).
-- [2] Abgeändert durch GrRB vom 20. November 2006.
+cGS -
