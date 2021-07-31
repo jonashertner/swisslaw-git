@@ -4,13 +4,13 @@ number: "411.211"
 title: Verordnung über die Anstellung und Löhne der Lehrpersonen
 short: VALL
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-11-11
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2020-02-19
 adopted: 2004-10-13
 in_force: 2005-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2930/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2971/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2930/pdf_file"
 
 (VALL)
 
-Vom 13.10.2004 (Stand 01.01.2021)
+Vom 13.10.2004 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -398,9 +398,9 @@ beschliesst:
 
 **Aufteilung der Jahresarbeitszeit**
 
-<sup>1</sup> Rund 85 % der Jahresarbeitszeit sind im Berufsfeld "Unterricht und Klasse" zu leisten.
+<sup>1</sup> Rund 92 % der Jahresarbeitszeit sind im Berufsfeld "Unterricht" zu leisten.
 
-<sup>2</sup> Der restliche Teil von rund 15 % der Jahresarbeitszeit verteilt sich auf die Berufsfelder "Schülerinnen und Schüler", "Lehrpersonen" und "Schule".
+<sup>2</sup> Der restliche Teil von rund 8 % der Jahresarbeitszeit verteilt sich auf das Berufsfeld "Schule".
 
 <sup>3</sup> Für die Funktion der Schulleitung, der externen Fachpersonen sowie der Assistenzpersonen gelten die Regelungen der Arbeitszeitverordnung (AZV) vom 1. September 1999[^34-1] sowie die §§ 27–34 der Personal- und Lohnverordnung (PLV) vom 25. September 2000[^34-2].
 
@@ -409,19 +409,23 @@ beschliesst:
 
 #### § 35
 
-**Berufsfeld "Unterricht und Klasse"**
+**Berufsfeld "Unterricht"**
 
-<sup>1</sup> Das Berufsfeld "Unterricht und Klasse" umfasst folgende Aufgabenbereiche:
+<sup>1</sup> Das Berufsfeld "Unterricht" umfasst im Wesentlichen folgende Aufgabenbereiche:
 
 - a) Unterrichten und Erziehen,
 - b) Planen, Vor- und Nachbereiten des Unterrichts,
 - c) Entwickeln und Evaluieren des Unterrichts,
 - d) Durchführen der organisatorischen und administrativen Aufträge im Zusammenhang mit der Klasse,
 - e) Planen und Durchführen von Klassenveranstaltungen,
-- f) unterrichtsbezogene Zusammenarbeit,
-- g) Beurteilen.
+- f) Zusammenarbeit mit Kolleginnen und Kollegen für die Klasse respektive Abteilung oder einzelne Fächer,
+- g) Beurteilen,
+- h) Beraten und Betreuen,
+- i) Zusammenarbeit mit den Eltern,
+- j) Schülerinnen- und schülerbezogene Zusammenarbeit mit Fachpersonen,
+- k) Reflektieren und Weiterentwickeln der eigenen Tätigkeit.
 
-<sup>2</sup> Die Schulleitung teilt die zu erteilenden Lektionen im Rahmen der verfügbaren Ressourcen der Schule und des vertraglich festgelegten Beschäftigungsgrads individuell zu und berücksichtigt dabei die konkrete Belastungssituation der einzelnen Lehrperson im Berufsfeld "Unterricht und Klasse" sowie deren Einsatz in den übrigen Berufsfeldern. Die im Pensenplan gemäss Anhang I verankerten Lektionen gelten dabei als Richtwerte.
+<sup>2</sup> Die Schulleitung teilt die zu erteilenden Lektionen im Rahmen der verfügbaren Ressourcen der Schule und des vertraglich festgelegten Beschäftigungsgrads individuell zu und berücksichtigt dabei die konkrete Belastungssituation der einzelnen Lehrperson im Berufsfeld "Unterricht" sowie deren Einsatz im Berufsfeld "Schule". Die im Pensenplan gemäss Anhang I verankerten Lektionen gelten dabei als Richtwerte.
 
 <sup>3</sup> …
 
@@ -429,40 +433,23 @@ beschliesst:
 
 #### § 36
 
-**Berufsfeld "Schülerinnen und Schüler"**
-
-<sup>1</sup> Das Berufsfeld "Schülerinnen und Schüler" umfasst folgende Aufgabenbereiche:
-
-- a) Beraten und Betreuen,
-- b) Zusammenarbeit mit den Eltern,
-- c) Zusammenarbeit mit schülerinnen- und schülerbezogenen Fachpersonen.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
+**…**
 
 #### § 37
 
-**Berufsfeld "Lehrpersonen"**
-
-<sup>1</sup> Das Berufsfeld "Lehrpersonen" umfasst folgende Aufgabenbereiche:
-
-- a) Reflektieren und Evaluieren der eigenen Tätigkeit,
-- b) individuelle Weiterbildung,
-- c) Zusammenarbeit stufenübergreifend und in Fachteams.
-
-<sup>2</sup> …
+**…**
 
 #### § 38
 
 **Berufsfeld "Schule"**
 
-<sup>1</sup> Das Berufsfeld "Schule" umfasst folgende Aufgabenbereiche:
+<sup>1</sup> Das Berufsfeld "Schule" umfasst im Wesentlichen folgende Aufgabenbereiche:
 
-- a) Mitwirken am Gestalten, Entwickeln und Evaluieren der Schule,
-- b) schulinterne Weiterbildung,
-- c) Zusammenarbeit im Kollegium,
-- d) Organisieren von Schulanlässen.
+- a) Mitwirkung an der allgemeinen Schul- und Unterrichtsentwicklung,
+- b) institutionelle und vereinbarte individuelle Weiterbildung,
+- c) Zusammenarbeit mit Kolleginnen und Kollegen für die ganze Schule oder einzelne Stufen,
+- d) Teilnahme an Sitzungen, Konferenzen und Koordinationsanlässen,
+- e) Teilnahme an der Öffentlichkeitsarbeit sowie an Schul- und Elternmitwirkungsanlässen.
 
 <sup>2</sup> …
 
@@ -478,7 +465,7 @@ beschliesst:
 
 <sup>1</sup> Für die im Berufsfeld gemäss § 35 zu leistenden Aufgabenbereiche ist vorab pro erteilte Lektion die entsprechende Anzahl Stunden einzuplanen.
 
-<sup>2</sup> Für die in den Berufsfeldern gemäss den §§ 36–38 zu leistenden Aufgabenbereiche sind sodann als Richtwerte je rund 5 % der Jahresarbeitszeit einzuplanen, höchstens jedoch bis zum Erreichen der jährlich gemäss Lohndekret Lehrpersonen festgelegten Jahresarbeitszeit.
+<sup>2</sup> Für die im Berufsfeld gemäss § 38 zu leistenden Aufgabenbereiche ist sodann ein Richtwert von rund 8 % der Jahresarbeitszeit einzuplanen, höchstens jedoch bis zum Erreichen der jährlich gemäss Lohndekret Lehrpersonen festgelegten Jahresarbeitszeit.
 
 #### § 38b
 
