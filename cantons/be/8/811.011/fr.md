@@ -4,13 +4,13 @@ number: "811.011"
 title: Ordonnance sur les droits et les devoirs des patients et patientes et des professionnels et professionnelles de la santé
 short: "Ordonnance sur les patients et les professionnels de la santé, OPat"
 language: fr
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-30
 adopted: 2002-10-23
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.011"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2122/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2315/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2122/pdf_file"
 
 (Ordonnance sur les patients et les professionnels de la santé, OPat)
 
-du 23.10.2002 (état au 01.03.2021)
+du 23.10.2002 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -59,7 +59,7 @@ arrête:
 
 **Compétence**
 
-<sup>1</sup> L'Office du médecin cantonal est compétent pour ordonner l'exécution par substitution au sens de l'article 26, alinéa 5 LSP.
+<sup>1</sup> L'Office de la santé (ODS) est compétent pour ordonner l'exécution par substitution au sens de l'article 26, alinéa 5 LSP.
 
 #### Art. 3
 
@@ -119,7 +119,7 @@ arrête:
 
 #### Art. 11
 
-<sup>1</sup> L'Office du médecin cantonal informe régulièrement la population des conditions régissant le prélèvement d'organes et de tissus sur des personnes décédées, notamment par le biais de publications dans les feuilles officielles d'avis.
+<sup>1</sup> L'ODS informe régulièrement la population des conditions régissant le prélèvement d'organes et de tissus sur des personnes décédées, notamment par le biais de publications dans les feuilles officielles d'avis.
 
 ## 5 Droits et devoirs des patients et des patientes ainsi que du personnel dans les établissements sanitaires relevant du droit public cantonal
 

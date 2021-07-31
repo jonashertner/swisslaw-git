@@ -4,13 +4,13 @@ number: "811.011"
 title: Verordnung über die Rechte und Pflichten der Patientinnen und Patienten und der Gesundheitsfachpersonen
 short: "Patientenrechtsverordnung, PatV"
 language: de
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-30
 adopted: 2002-10-23
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.011"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2122/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2315/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2122/pdf_file"
 
 (Patientenrechtsverordnung, PatV)
 
-vom 23.10.2002 (Stand 01.03.2021)
+vom 23.10.2002 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -59,7 +59,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Kantonsarztamt ist die zuständige Stelle für die Anordnung der Ersatzvornahme nach Artikel 26 Absatz 5 GesG.
+<sup>1</sup> Das Gesundheitsamt ist die zuständige Stelle für die Anordnung der Ersatzvornahme nach Artikel 26 Absatz 5 GesG.
 
 #### Art. 3
 
@@ -119,7 +119,7 @@ beschliesst:
 
 #### Art. 11
 
-<sup>1</sup> Das Kantonsarztamt orientiert die Bevölkerung regelmässig über die Voraussetzungen der Entnahme von Organen und Gewebe bei Verstorbenen, insbesondere durch Publikationen in den amtlichen Anzeigern.
+<sup>1</sup> Das Gesundheitsamt orientiert die Bevölkerung regelmässig über die Voraussetzungen der Entnahme von Organen und Gewebe bei Verstorbenen, insbesondere durch Publikationen in den amtlichen Anzeigern.
 
 ## 5 Rechte und Pflichten der Patientinnen und Patienten und des Personals in öffentlich-rechtlichen Institutionen des Gesundheitswesens des Kantons
 
