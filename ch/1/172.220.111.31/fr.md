@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 6 décembre 2001 concernant l'ordonnance sur le per
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: fr
-version: 2021-07-01
+version: 2021-08-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210701/fr"
 
 (O-OPers)
 
-du 6 décembre 2001 (Etat le 1<sup>er</sup> juillet 2021)
+du 6 décembre 2001 (Etat le 1<sup>er</sup> août 2021)
 
-Le Département fédéral des finances (DFF),*[^ingress-1]*
+Le Département fédéral des finances (DFF),[^ingress-1]
 
 vu l’art. 116, al. 1, de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPers)[^ingress-2],
 
@@ -119,7 +119,7 @@ En signant le formulaire d’évaluation, les collaborateurs et les supérieurs 
 
 [^7-1]: Abrogé par le ch. I de l’O du DFF du 11 déc. 2009, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
 
-## Chapitre 3 Retraite anticipée****
+## Chapitre 3 Retraite anticipée
 
 [^chap3-1]
 
@@ -908,21 +908,25 @@ Les départements règlent dans leur domaine le remboursement:
 
 #### Art. 51a
 
-**Soutien des départements à l’accueil extrafamilial d’enfants**[^51a-1]
+**Accueil extrafamilial des enfants**[^51a-1]
 
-### (art. 75*a*, al. 1, let. a, OPers)
+### (art. 75*a*, al. 1, OPers)
 
-<sup>1</sup> L’employeur participe aux coûts de l’accueil extrafamilial d’enfants.
+[^51a-2]
+
+<sup>1</sup> L’employeur participe aux coûts de l’accueil extrafamilial d’enfants sous la forme d’indemnités forfaitaires.[^51a-3]
 
 <sup>2</sup>
 
 Les départements peuvent:
 
-- a.[^51a-2] ...
+- a.[^51a-4] ...
 - b. financer des places de crèche dans des structures externes et les réserver aux enfants de leurs employés.
 
 [^51a-1]: Introduit par le ch. I de l’O du DFF du 8 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
-[^51a-2]: Abrogée par le ch. I de l’O du DFF du 25 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^51a-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^51a-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^51a-4]: Abrogée par le ch. I de l’O du DFF du 25 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 51b
 
@@ -932,20 +936,12 @@ Les départements peuvent:
 
 <sup>1</sup> La part remboursée des coûts de l’accueil extrafamilial d’enfants est calculée conformément à l’annexe 2.
 
-<sup>2</sup> L’accueil extrafamilial d’un enfant de moins de 18 mois donne droit à un remboursement mensuel maximal de 3600 francs, celui d’un enfant plus âgé à un remboursement mensuel maximal de 2400 francs.
-
-<sup>3</sup>
-
-Sont déduits du remboursement:
-
-- a.[^51b-2] ...
-- b. les remboursements consentis par d’autres employeurs, et
-- c. les économies fiscales forfaitaires de l’impôt fédéral direct calculées par l’administration fiscale suite à la déduction pour l’accueil des enfants.
+<sup>2</sup> et <sup>3</sup> …[^51b-2]
 
 <sup>4</sup> Le remboursement proportionnel par enfant correspond à la somme des taux d’occupation des personnes formant un ménage commun visées à l’art. 75*b*, let. a, OPers moins 100 %.[^51b-3]
 
 [^51b-1]: Introduit par le ch. I de l’O du DFF du 8 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
-[^51b-2]: Abrogée par le ch. I de l’O du DFF du 30 nov. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6973](https://fedlex.data.admin.ch/eli/oc/2012/847)).
+[^51b-2]: Abrogés par le ch. I de l’O du DFF du 18 nov. 2020, avec effet au 1<sup>er</sup> août 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 [^51b-3]: Nouvelle teneur selon le ch. I de l’O du DFF du 26 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
 
 #### Art. 51c
@@ -980,7 +976,7 @@ Si, au moment du versement de la prime de fidélité, l’employé a un taux d�
 
 - a.[^52-3] ...
 - b. 11 jours après dix ou quinze années de travail;
-- c. 22 jours après chaque nouvelle tranche de cinq années de travail.[^52-4]
+- c. 22 jours après chaque nouvelle tranche de cinq années de travail;[^52-4]
 
 <sup>6</sup> Le reste de la prime de fidélité selon l’al. 5 est versé en espèces.[^52-5]
 
@@ -3666,7 +3662,7 @@ Supplément en vertu du ch. 4, al. 1, let. c
 
 Le supplément s’élève à 1099 francs par année pour les enfants jusqu’à 12 ans. Pour les enfants de plus de 12 ans, ce montant s’élève à 1275 francs (état 2001)
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 51*b*, al. 1)
 

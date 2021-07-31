@@ -4,11 +4,11 @@ title: "Ordinanza del DFF del 6 dicembre 2001 concernente l'ordinanza sul person
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: it
-version: 2021-07-01
+version: 2021-08-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20210801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20210701/it"
 
 (O-OPers)
 
-del 6 dicembre 2001 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 6 dicembre 2001 (Stato 1° agosto 2021)
 
 Il Dipartimento federale delle finanze (DFF),[^ingress-1]
 
@@ -905,21 +905,25 @@ I Dipartimenti disciplinano nel proprio settore i rimborsi delle spese:
 
 #### Art. 51a
 
-**Sostegno di strutture destinate alla custodia di bambini complementare alla famiglia da parte dei dipartimenti**[^51a-1]
+**Custodia di bambini complementare alla famiglia**[^51a-1]
 
-### (art. 75a cpv. 1 lett. a OPers)
+### (art. 75*a* cpv. 1 OPers)
 
-<sup>1</sup> Il datore di lavoro partecipa ai costi per la custodia di bambini complementare alla famiglia.
+[^51a-2]
+
+<sup>1</sup> Il datore di lavoro partecipa ai costi per la custodia di bambini complementare alla famiglia sotto forma di indennità forfettarie.[^51a-3]
 
 <sup>2</sup>
 
 I dipartimenti possono:
 
-- a.[^51a-2] ...
+- a.[^51a-4] ...
 - b. finanziare posti in strutture di custodia esterne e riservarli per i bambini dei loro impiegati.
 
 [^51a-1]: Introdotto dal n. I dell’O del DFF dell’8 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
-[^51a-2]: Abrogata dal n. I dell’O del DFF del 25 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
+[^51a-2]: Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° ago. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^51a-3]: Nuovo testo giusta il n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° ago. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^51a-4]: Abrogata dal n. I dell’O del DFF del 25 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4013](https://fedlex.data.admin.ch/eli/oc/2018/648)).
 
 #### Art. 51b
 
@@ -929,27 +933,19 @@ I dipartimenti possono:
 
 <sup>1</sup> L’importo del rimborso dei costi per la custodia di bambini complementare alla famiglia è calcolato in base all’allegato 2.
 
-<sup>2</sup> Per la custodia di un bambino di età inferiore a 18 mesi il rimborso non può superare i 3600 franchi mensili, mentre per quella di un bambino di età maggiore il rimborso non può superare i 2400 franchi mensili.
-
-<sup>3</sup>
-
-Dal rimborso sono dedotti:
-
-- a.[^51b-2] ...
-- b. i rimborsi di altri datori di lavoro; e
-- c. i risparmi fiscali calcolati su base forfettaria dall’Amministrazione federale delle contribuzioni a seguito di deduzioni per la custodia dei bambini nell’ambito dell’imposta federale diretta.
+<sup>2</sup> e <sup>3</sup> ...[^51b-2]
 
 <sup>4</sup> Il rimborso proporzionale per figlio corrisponde alla somma dei tassi di occupazione delle persone che vivono in un’unione domestica ai sensi dell’articolo 75*b* lettera a OPers diminuita del 100 per cento.[^51b-3]
 
 [^51b-1]: Introdotto dal n. I dell’O del DFF dell’8 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
-[^51b-2]: Abrogata dal n. I dell’O del DFF del 30 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6973](https://fedlex.data.admin.ch/eli/oc/2012/847)).
+[^51b-2]: Abrogati dal n. I dell’O del DFF del 18 nov. 2020, con effetto dal 1° ago. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
 [^51b-3]: Nuovo testo giusta il n. I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
 
 #### Art. 51c
 
 **Rimborso di spese relative al lavoro mobile**[^51c-1]
 
-(art. 72 cpv. 2 lett. f OPers)
+### (art. 72 cpv. 2 lett. f OPers)
 
 <sup>1</sup> Gli impiegati ai quali non è più messo a disposizione un posto di lavoro nei locali del datore di lavoro per l’intera durata del lavoro convenuta ricevono un importo forfettario annuo. Questo importo include la compensazione della parte della pigione dei locali privati utilizzati come pure la compensazione delle spese per la mobilia, il maggiore consumo di energia elettrica e i mezzi di comunicazione nonché di eventuali altre spese.
 
@@ -1186,31 +1182,21 @@ La suddivisione dei luoghi di lavoro in zone per il periodo 1989–1993 rimane i
 
 ### 2. Zone e importi dell’indennità di residenza
 
-Zona 1 381.–
-
-Zona 2 762.–
-
-Zona 3 1143.–
-
-Zona 4 1524.–
-
-Zona 5 1905.–
-
-Zona 6 2286.–
-
-Zona 7 2667.–
-
-Zona 8 3048.–
-
-Zona 9 3429.–
-
-Zona 10 3810.–
-
-Zona 11 4191.–
-
-Zona 12 4572.–
-
-Zona 13 4953.–
+<table>
+<tr><td>Zona 1</td><td>381.–</td></tr>
+<tr><td>Zona 2</td><td>762.–</td></tr>
+<tr><td>Zona 3</td><td>1143.–</td></tr>
+<tr><td>Zona 4</td><td>1524.–</td></tr>
+<tr><td>Zona 5</td><td>1905.–</td></tr>
+<tr><td>Zona 6</td><td>2286.–</td></tr>
+<tr><td>Zona 7</td><td>2667.–</td></tr>
+<tr><td>Zona 8</td><td>3048.–</td></tr>
+<tr><td>Zona 9</td><td>3429.–</td></tr>
+<tr><td>Zona 10</td><td>3810.–</td></tr>
+<tr><td>Zona 11</td><td>4191.–</td></tr>
+<tr><td>Zona 12</td><td>4572.–</td></tr>
+<tr><td>Zona 13</td><td>4953.–</td></tr>
+</table>
 
 ### 3. Elenco dei luoghi di lavoro che danno diritto all’indennità di residenza
 
