@@ -4,13 +4,13 @@ number: "521.10"
 title: "Ordonnance cantonale sur la protection de la population *"
 short: OCPP
 language: fr
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-11-25
+version: 2021-08-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-30
 adopted: 2025-11-26
 in_force: 2026-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/521.10"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2083/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2519/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2083/pdf_file"
 
 (OCPP)
 
-du 22.10.2014 (état au 01.01.2021)
+du 22.10.2014 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -374,7 +374,7 @@ arrête:
 
 <sup>1</sup> En cas d’événement ou de mise en danger au sens de l’article 9 LCPPCi ou, subsidiairement, à la demande d’un arrondissement administratif, le Conseil-exécutif mobilise l’OCCant.
 
-<sup>2</sup> S’il y a urgence ou péril en la demeure, les compétences du chef ou de la cheffe de l’OCCant sont déléguées au chef ou à la cheffe de l’étatmajor de conduite en vertu de l’article 18, alinéa 4 LCPPCi.
+<sup>2</sup> S’il y a urgence ou péril en la demeure, les compétences du chef ou de la cheffe de l’OCCant sont déléguées au chef ou à la cheffe de l’état-major de conduite en vertu de l’article 18, alinéa 4 LCPPCi.
 
 <sup>3</sup> Si la maîtrise d’un événement majeur ne nécessite pas l’utilisation de moyens à l’échelle suprarégionale ou fédérale et que la remise en état puisse intervenir au moyen de forces locales, il est possible de renoncer à l’intervention de l’OCCant.
 
@@ -387,7 +387,7 @@ arrête:
 <sup>1</sup> Tant que l’OCCant n’est pas engagé,
 
 - a l’OSSM coordonne l’attribution des moyens d’intervention de la Confédération et du canton;
-- b l’Office du médecin cantonal coordonne les moyens du système de santé;
+- b l'Office de la santé (ODS) coordonne les moyens du système de santé;
 - c l’Assurance immobilière Berne (AIB) coordonne les moyens des sapeurs-pompiers.
 
 <sup>2</sup> A cet égard, l’OSSM assume les tâches suivantes:
@@ -466,7 +466,7 @@ arrête:
 
 **Service sanitaire coordonné**
 
-<sup>1</sup> L’Office du médecin cantonal planifie et dirige le Service sanitaire coordonné.
+<sup>1</sup> L’ODS planifie et dirige le Service sanitaire coordonné.
 
 <sup>2</sup> Avec le concours de la centrale d'appels sanitaires urgents (CASU), il coordonne l'occupation des lits d'hôpitaux et des places de prise en charge en cas de catastrophe, de situation d'urgence et d'événement majeur.
 
@@ -486,7 +486,7 @@ arrête:
 
 **Formation**
 
-<sup>1</sup> L’Office du médecin cantonal assure la formation et le perfectionnement du personnel appelé à intervenir en cas de catastrophe, de situation d’urgence ou d’événement majeur.
+<sup>1</sup> L’ODS assure la formation et le perfectionnement du personnel appelé à intervenir en cas de catastrophe, de situation d’urgence ou d’événement majeur.
 
 <sup>2</sup> Il oblige les services de sauvetage, les hôpitaux, les cliniques et les foyers à collaborer.
 
@@ -596,7 +596,7 @@ arrête:
 
 #### Art. 55
 
-<sup>1</sup> Dans le cadre de la mise en oeuvre des législations fédérale et cantonale sur les épizooties, le Service vétérinaire veille à mettre à disposition les moyens personnels et matériels nécessaires à la maîtrise des catastrophes, situations d’urgence et événements majeurs dus à des épizooties
+<sup>1</sup> Dans le cadre de la mise en œuvre des législations fédérale et cantonale sur les épizooties, le Service vétérinaire veille à mettre à disposition les moyens personnels et matériels nécessaires à la maîtrise des catastrophes, situations d’urgence et événements majeurs dus à des épizooties
 
 - a en élaborant les concepts de préparation nécessaires;
 - b en assurant sa collaboration avec les autres institutions cantonales;

@@ -4,13 +4,13 @@ number: "521.10"
 title: Kantonale Bevölkerungsschutzverordnung
 short: KBSV
 language: de
-version: 2021-01-01
-valid_until: 2021-07-31
-version_adopted: 2020-11-25
+version: 2021-08-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-30
 adopted: 2025-11-26
 in_force: 2026-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/521.10"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2083/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2519/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2083/pdf_file"
 
 (KBSV)
 
-vom 22.10.2014 (Stand 01.01.2021)
+vom 22.10.2014 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -387,7 +387,7 @@ beschliesst:
 <sup>1</sup> Solange das KFO nicht im Einsatz steht, koordiniert
 
 - a das BSM die Zuteilung der Einsatzmittel des Bundes und des Kantons,
-- b das Kantonsarztamt die Mittel des Gesundheitswesens,
+- b das Gesundheitsamt die Mittel des Gesundheitswesens,
 - c die Gebäudeversicherung Bern (GVB) die Mittel der Feuerwehren.
 
 <sup>2</sup> Das BSM nimmt dabei folgende Aufgaben wahr:
@@ -466,7 +466,7 @@ beschliesst:
 
 **Koordinierter Sanitätsdienst**
 
-<sup>1</sup> Das Kantonsarztamt plant und leitet den Koordinierten Sanitätsdienst.
+<sup>1</sup> Das Gesundheitsamt plant und leitet den Koordinierten Sanitätsdienst.
 
 <sup>2</sup> Es koordiniert unter Mithilfe der Sanitätsnotrufzentrale (SNZ) die Belegung von Spitalbetten und Behandlungsplätzen bei Katastrophen, in Notlagen und bei Grossereignissen.
 
@@ -486,7 +486,7 @@ beschliesst:
 
 **Schulung**
 
-<sup>1</sup> Das Kantonsarztamt sorgt für die Aus- und Weiterbildung des Personals für Katastrophen, Notlagen und Grossereignisse.
+<sup>1</sup> Das Gesundheitsamt sorgt für die Aus- und Weiterbildung des Personals für Katastrophen, Notlagen und Grossereignisse.
 
 <sup>2</sup> Es verpflichtet die Rettungsdienste, die Spitäler, die Kliniken und die Heime zur Zusammenarbeit.
 
