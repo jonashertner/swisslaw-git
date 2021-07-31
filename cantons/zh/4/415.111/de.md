@@ -4,11 +4,11 @@ number: "415.111"
 title: Universitätsordnung der Universität Zürich (UniO)
 short: UniO
 language: de
-version: "2021-03-01"
-nachtrag: "112"
-valid_until: 2021-08-01
+version: "2021-08-01"
+nachtrag: "114"
+valid_until: 2021-10-01
 adopted: 1998-12-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_111-1998_12_04-1999_01_01-112.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_111-1998_12_04-1999_01_01-114.html"
 text: pdf
 ---
 
@@ -65,7 +65,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **1**
 
-- 1\. 4. 21 - 112 § 5. <sup>1</sup> Die Wahrnehmung der ethischen Verantwortung in Forschung, Lehre und Dienstleistung obliegt in erster Linie den wissenschaftlich tätigen Personen.<sup>23</sup>
+1.10. 21 - 114 § 5. <sup>1</sup> Die Wahrnehmung der ethischen Verantwortung in Forschung, Lehre und Dienstleistung obliegt in erster Linie den wissenschaftlich tätigen Personen.<sup>23</sup>
 
 **Ethische Verantwortung**
 
@@ -139,7 +139,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **3**
 
-- 1\. 4. 21 - 112
+1.10. 21 - 114
 
 <sup>5</sup> Die Berufungskommission erarbeitet einen Einer- bis Dreiervorschlag und stellt einen begründeten Antrag an die Universitätsleitung. Für die Auswahl der Kandidatinnen und Kandidaten sind deren wissenschaftliche Leistungen in Forschung und Lehre sowie deren soziale Kompetenzen und Führungsqualitäten massgebend. Für klinisch tätige Professorinnen und Professoren sind zusätzlich ausgewiesene klinische Kompetenzen erforderlich. Den Anliegen der Gleichstellung ist Rechnung zu tragen.
 
@@ -205,7 +205,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **5**
 
-- 1\. 4. 21 - 112
+1.10. 21 - 114
 
 <sup>3</sup> Die Anstellung ist in der Regel unbefristet. Die Anstellungsbedingungen richten sich nach der Personalverordnung der Universität[^10e-1].
 
@@ -261,12 +261,11 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 § 17.<sup>27</sup> <sup>1</sup> Externe Lehrpersonen sind Dozentinnen und Dozenten, denen hauptsächlich Lehraufgaben übertragen werden und deren Tätigkeit nicht im Rahmen einer anderweitigen Beschäftigung an der Universität erfolgt.
 
-<sup>2</sup> Sie werden in der Regel mit einem Arbeitsvertrag nach Obligationenrecht[^hCWeitereDozentinn-1] angestellt, wenn nichts anderes vereinbart wird.
+<sup>2</sup> Sie werden in der Regel mit einem Arbeitsvertrag nach Obligationenrecht<sup>16</sup> angestellt, wenn nichts anderes vereinbart wird.
 
-<sup>3</sup> Das Reglement über die Lehranstellungen von externen Lehrpersonen an der Universität Zürich[^hCWeitereDozentinn-2] regelt die Einzelheiten.
+<sup>3</sup> Das Reglement über die Lehranstellungen von externen Lehrpersonen an der Universität Zürich[^hCWeitereDozentinn-1] regelt die Einzelheiten.
 
-[^hCWeitereDozentinn-1]: SR 220.
-[^hCWeitereDozentinn-2]: LS 415.211.
+[^hCWeitereDozentinn-1]: LS 415.211.
 
 #### § 17 a
 
@@ -290,7 +289,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **7**
 
-- 1\. 4. 21 - 112 § 23.<sup>27</sup> <sup>1</sup> Der Verband der Studierenden der Universität Zürich (VSUZH) vertritt den Stand der Studierenden gegenüber den Universitätsorganen und der Öffentlichkeit und informiert sie über studentische und hochschulpolitische Angelegenheiten.
+1.10. 21 - 114 § 23.<sup>27</sup> <sup>1</sup> Der Verband der Studierenden der Universität Zürich (VSUZH) vertritt den Stand der Studierenden gegenüber den Universitätsorganen und der Öffentlichkeit und informiert sie über studentische und hochschulpolitische Angelegenheiten.
 
 **VSUZH**
 
@@ -303,7 +302,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 <sup>5</sup> Der VSUZH-Rat erlässt Statuten[^h3AbschnittStudie-2]. Diese unterliegen der Genehmigung durch den Universitätsrat.
 
 [^h3AbschnittStudie-1]: LS 415.31.
-[^h3AbschnittStudie-2]: LS 415.34.
+[^h3AbschnittStudie-2]: LS 415.34. 1.10. 21 - 114 31
 
 ### 4. Abschnitt: Alumnae und Alumni<sup>26</sup>
 
@@ -365,7 +364,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **9**
 
-- 1\. 4. 21 - 112
+1.10. 21 - 114
 
 <sup>3</sup> Wenn die Zugehörigkeit zu mehr als einem Stand möglich ist, gelten folgende Grundsätze:
 
@@ -453,7 +452,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **11**
 
-- 1\. 4. 21 - 112 § 32.<sup>21</sup> <sup>1</sup> Die Universität führt einen Forschungskredit, aus dem ausgewählte Forschungsprojekte von Angehörigen der Universität finanziert werden.
+1.10. 21 - 114 § 32.<sup>21</sup> <sup>1</sup> Die Universität führt einen Forschungskredit, aus dem ausgewählte Forschungsprojekte von Angehörigen der Universität finanziert werden.
 
 **Forschungskredit**
 
@@ -539,7 +538,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **13**
 
-- 1\. 4. 21 - 112 § 43.<sup>27</sup> <sup>1</sup> Die Fakultäten gliedern das Lehrangebot in Module und legen deren Anforderungen fest.
+1.10. 21 - 114 § 43.<sup>27</sup> <sup>1</sup> Die Fakultäten gliedern das Lehrangebot in Module und legen deren Anforderungen fest.
 
 **Module**
 
@@ -633,7 +632,7 @@ Der Universitätsrat erlässt ein Organisationsreglement[^hAUniversitätsrats-1]
 
 **15**
 
-- 1\. 4. 21 - 112 § 50.<sup>23</sup> <sup>1</sup> Der Senat kann zu Fragen von gesamtuniversitärer Bedeutung Stellung nehmen und zu diesem Zweck von anderen Universitätsorganen Auskunft verlangen über bestimmte Ereignisse und über ihre Tätigkeit im Allgemeinen.
+1.10. 21 - 114 § 50.<sup>23</sup> <sup>1</sup> Der Senat kann zu Fragen von gesamtuniversitärer Bedeutung Stellung nehmen und zu diesem Zweck von anderen Universitätsorganen Auskunft verlangen über bestimmte Ereignisse und über ihre Tätigkeit im Allgemeinen.
 
 **Aufgaben und Informationsrechte**
 
@@ -711,7 +710,7 @@ Der Universitätsrat erlässt ein Organisationsreglement[^hAUniversitätsrats-1]
 
 **17**
 
-- 1\. 4. 21 - 112
+1.10. 21 - 114
 
 <sup>6</sup> Die Amtsdauer der Rektorin oder des Rektors, der Prorektorinnen und Prorektoren sowie der Direktorin oder des Direktors Universitäre Medizin beträgt vier Jahre. Wiederwahl ist zulässig.
 
@@ -793,7 +792,7 @@ Der Universitätsrat erlässt ein Organisationsreglement[^hAUniversitätsrats-1]
 
 **19**
 
-- 1\. 4. 21 - 112
+1.10. 21 - 114
 
 ### D. Erweiterte Universitätsleitung<sup>27</sup>
 
@@ -878,7 +877,7 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 **21**
 
-- 1\. 4. 21 - 112 § 63.<sup>27</sup> Zusammensetzung, Organisation und Aufgaben der Rekurskommission richten sich nach der Verordnung über Organisation und Verfahren der Rekurskommission der Zürcher Hochschulen[^hFKommissionensup-1].
+1.10. 21 - 114 § 63.<sup>27</sup> Zusammensetzung, Organisation und Aufgaben der Rekurskommission richten sich nach der Verordnung über Organisation und Verfahren der Rekurskommission der Zürcher Hochschulen[^hFKommissionensup-1].
 
 **Rekurskommission**
 
@@ -957,7 +956,7 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 **23**
 
-- 1\. 4. 21 - 112
+1.10. 21 - 114
 
 [^65-1]: LS 415.21.
 
@@ -1035,7 +1034,7 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 **25**
 
-- 1\. 4. 21 - 112 § 79. <sup>1</sup> Die Fakultäten erlassen ein Organisationsreglement, das der Genehmigung durch die Erweiterte Universitätsleitung unterliegt.
+1.10. 21 - 114 § 79. <sup>1</sup> Die Fakultäten erlassen ein Organisationsreglement, das der Genehmigung durch die Erweiterte Universitätsleitung unterliegt.
 
 **Organisationsreglement**
 
@@ -1103,72 +1102,85 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 **Direktorium**
 
-§ 80 c.<sup>25</sup> <sup>1</sup> Die Leitung der Medizinischen Fakultät obliegt dem Direktorium.
+§ 80 c.<sup>33</sup> <sup>1</sup> Die Leitung der Medizinischen Fakultät obliegt dem Direktorium. Dieses verfügt über ein Weisungsrecht.
 
-<sup>2</sup> Dieses setzt sich zusammen aus der Direktorin oder dem Direktor Universitäre Medizin sowie der Dekanin oder dem Dekan der Medizinischen Fakultät und deren bzw. dessen Stellvertreterin oder Stellvertreter.
+<sup>2</sup> Das Direktorium setzt sich zusammen aus der Direktorin oder dem Direktor Universitäre Medizin, der Dekanin oder dem Dekan und der stellvertretenden Dekanin oder dem stellvertretenden Dekan der Medizinischen Fakultät.
 
-<sup>3</sup> Ein Mitglied des Direktoriums vertritt die klinischen, ein anderes die nichtklinischen Bereiche.
-
-<sup>4</sup> Die Direktorin oder der Direktor Universitäre Medizin steht dem Direktorium vor. Das Direktorium entscheidet im Konsens. Kann keine Einigkeit erzielt werden, entscheidet die Direktorin oder der Direktor Universitäre Medizin.
+<sup>3</sup> Die Direktorin oder der Direktor Universitäre Medizin steht dem Direktorium vor. Das Direktorium entscheidet im Konsens. Kann keine Einigkeit erzielt werden, entscheidet die Direktorin oder der Direktor Universitäre Medizin.
 
 **27**
 
-- 1\. 4. 21 - 112
+1.10. 21 - 114
+
+<sup>4</sup> Das Direktorium ist insbesondere zuständig für die 1. Umsetzung der Dachstrategie Universitäre Medizin,
+
+- 2\. Entwicklung und Umsetzung der fakultären Strategie,
+
+- 3\. Vorbereitung der Entwicklungs- und Finanzplanung zuhanden des Fakultätsvorstands,
+
+- 4\. Festsetzung des Budgets der Fakultät sowie Zuweisung der Ressourcen an die Institute und weiteren Organisationseinheiten der Fakultät.
 
 <sup>5</sup> Das Direktorium ist zuständig für die 1. Umsetzung der Dachstrategie Universitäre Medizin,
 
 - 2\. Budgetplanung der Fakultät sowie die Zuweisung der Ressourcen an die Institute, 3.<sup>27</sup> Wahrnehmung der fakultären Aufgaben im Rahmen des universitären Immobilienmanagements.
 
-<sup>6</sup> Im Übrigen obliegt ihm die Vorbereitung und Umsetzung von Geschäften im Zuständigkeitsbereich der Direktorin oder des Direktors Universitäre Medizin bzw. der Dekanin oder des Dekans.
-
 **Direktorin oder Direktor Universitäre Medizin**
 
 § 80 d.<sup>25</sup> <sup>1</sup> Der Direktorin oder dem Direktor Universitäre Medizin obliegt die Koordination und operative Leitung des Netzwerks Universitäre Medizin Zürich nach Massgabe der Verordnung über die Forschung und Lehre der Universität im Gesundheitsbereich[^hBSonderregelungen-1].
 
-<sup>2</sup> Sie oder er ist ferner zuständig insbesondere für die<sup>27</sup> 1. Anträge zur Zusammensetzung der Berufungskommissionen sowie auf Ernennung, Beförderung und Entlassung von Professorinnen und Professoren,
+<sup>2</sup> Sie oder er ist ferner insbesondere zuständig für die<sup>33</sup> 1. Vertretung der Medizinischen Fakultät sowie der die Medizinische Fakultät betreffenden Geschäfte der Universitätsleitung nach aussen,
 
-- 2\. Anträge zur Entwicklungs- und Finanzplanung,
+- 2\. Koordination der Forschung und Lehre unter Berücksichtigung der Gesundheitsversorgung mit den Partnerinstitutionen,
 
-- 3\. Forschungsplanung,
+- 3\. Verwaltung der finanziellen Mittel und Sicherstellung der Einhaltung des Budgets,
 
-- 4\. akademische Berichterstattung und Kommunikation,
+- 4\. Weiterleitung der Anträge zur Zusammensetzung der Berufungskommissionen sowie auf Ernennung, Beförderung und Entlassung von Professorinnen und Professoren an die Universitätsleitung.
 
-- 5\. Qualitätssicherung und Evaluation,
+**Fakultätsvorstand**
 
-- 6\. Vertretung der Medizinischen Fakultät sowie der die Medizinische Fakultät betreffenden Geschäfte der Universitätsleitung nach aussen,
+§ 80 e.<sup>33</sup> <sup>1</sup> Der Fakultätsvorstand setzt sich unter der Leitung der Direktorin oder des Direktors Universitäre Medizin zusammen aus:
 
-- 7\. Koordination der Forschung und Lehre unter Berücksichtigung der Gesundheitsversorgung mit den Partnerinstitutionen.
+- 1\. der Dekanin oder dem Dekan,
 
-<sup>3</sup> Sie oder er kann bestimmte Aufgaben an die Dekanin oder den Dekan und deren bzw. dessen Stellvertreterin oder Stellvertreter übertragen.
+- 2\. der stellvertretenden Dekanin oder dem stellvertretenden Dekan,
 
-**Dekanin oder Dekan**
+- 3\. mehreren Vizedekaninnen und Vizedekanen.
 
-§ 80 e.<sup>25</sup> <sup>1</sup> Die Dekanin oder der Dekan und deren bzw. dessen Stellvertreterin oder Stellvertreter leiten die Fakultät, soweit dafür nicht die Direktorin oder der Direktor Universitäre Medizin zuständig ist.
+<sup>2</sup> Der Fakultätsvorstand ist insbesondere zuständig für die 1. Anträge zur Entwicklungs- und Finanzplanung,
 
-<sup>2</sup> Sie sind zuständig für die 1. Leitung der Fakultätsversammlung und der weiteren Fakultätsorgane,
+- 2\. Anträge betreffend Zusammensetzung der Berufungskommissionen,
 
-- 2\. Führung des Dekanats, 3.<sup>27</sup> Anträge auf Erteilung und Entzug der Venia Legendi, auf Verleihung, Verlängerung und Entzug der Titularprofessur sowie weitere Personalgeschäfte,
+- 3\. Anträge betreffend Schaffung, Umwandlung und Aufhebung von Lehrstühlen,
 
-- 4\. Anträge auf Erlass der Institutsordnungen,
+- 4\. Zuweisung der Aufgabenbereiche an die Vizedekaninnen und Vizedekane.
 
-- 5\. Planung und Organisation der Ausbildung in Humanmedizin, Zahnmedizin und Chiropraktik,
+<sup>3</sup> Die Mitglieder des Fakultätsvorstands sind insbesondere zuständig für die 1. Leitung der Fakultätsversammlung, des Fakultätsausschusses und fakultärer Kommissionen,
 
-- 6\. Verwaltung der finanziellen Mittel,
+- 2\. Führungsverantwortung gegenüber Professorinnen und Professoren,
 
-- 7\. Zuteilung von Aufgaben und Zuständigkeiten an die Prodekaninnen oder Prodekane,
+- 3\. Mitwirkung an Berufungsverhandlungen gemeinsam mit dem zuständigen Mitglied der Universitätsleitung,
 
-- 8\. Förderung von Lehre und Forschung,
+- 4\. Planung des Raumbedarfs und Verwaltung der fakultären Infrastruktur,
 
-- 9\. Förderung des akademischen Nachwuchses und der Chancengleichheit.
+- 5\. Aufsicht über die Institute,
 
-<sup>3</sup> Sie wirken mit an der Vorbereitung und Umsetzung der Geschäfte im Zuständigkeitsbereich der Direktorin oder des Direktors Universitäre Medizin.
+- 6\. Anträge auf Erlass der Institutsordnungen,
+
+- 7\. Förderung von Lehre und Forschung,
+
+- 8\. Forschungsplanung,
+
+- 9\. Förderung des akademischen Nachwuchses und der Chancengleichheit,
+
+- 10\. akademische Berichterstattung,
+
+- 11\. Qualitätssicherung und Evaluation.
 
 **Organisationsreglement**
 
-§ 80 f.<sup>25</sup> Das Organisationsreglement der Medizinischen Fakultät[^hBSonderregelungen-2] regelt die Einzelheiten.
+§ 80 f.<sup>33</sup> Das Organisationsreglement der Medizinischen Fakultät der Universität Zürich<sup>15</sup> regelt die Einzelheiten betreffend Zuständigkeiten und Aufgaben der fakultären Organe und Gremien sowie ihrer Mitglieder.
 
 [^hBSonderregelungen-1]: LS 415.16.
-[^hBSonderregelungen-2]: LS 415.431.
 
 ### C. Institute und weitere Organisationseinheiten<sup>27</sup>
 
@@ -1180,9 +1192,11 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 <sup>2</sup> Der Mitbestimmung der Stände ist in der Institutsversammlung angemessen Rechnung zu tragen. Die Institutsordnung regelt die Einzelheiten.<sup>27</sup>
 
-**Aufgaben**
+**29**
 
-§ 82. <sup>1</sup> Den Instituten obliegt die Vorbereitung und Antragstellung zuhanden der Fakultät insbesondere in folgenden Bereichen:
+1.10. 21 - 114 § 82. <sup>1</sup> Den Instituten obliegt die Vorbereitung und Antragstellung zuhanden der Fakultät insbesondere in folgenden Bereichen:
+
+**Aufgaben**
 
 - 1\. Institutsbudget,
 
@@ -1199,10 +1213,6 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 - 7\. . . .<sup>24</sup>
 
 <sup>2</sup> Den Instituten obliegt die Mitwirkung bei der Lehrstuhlplanung und bei der Vorbereitung von Berufungsverhandlungen.
-
-**29**
-
-- 1\. 4. 21 - 112
 
 <sup>3</sup> Den Instituten obliegt überdies 1. die Auswahl und die Führung des Personals für ihren Bereich,
 
@@ -1238,15 +1248,23 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 <sup>2</sup> Auf den Zeitpunkt des Inkrafttretens wird die Universitätsordnung vom 11. März 1920 aufgehoben.
 
-§ 84.<sup>24</sup> § 84 a.<sup>27</sup> <sup>1</sup> Privatdozierende, denen die Venia Legendi vor Inkrafttreten von § 12 a erteilt worden ist, haben bis höchstens drei Jahre nach Inkrafttreten dieser Bestimmung das Recht auf den Erhalt der PD-Entschädigung, sofern sie in diesem Zeitraum für die Universität Lehrleistungen erbringen und sofern die Entschädigung nicht im Rahmen einer anderen Anstellung an der Universität geregelt ist. Es besteht während dieser Zeit kein Anspruch auf Durchführung von Lehrveranstaltungen im Rahmen von Studienprogrammen.
+§ 84.<sup>24</sup>
 
 **Bisherige Privatdozentinnen und -dozenten sowie bisherige Titularprofessorinnen und -professoren**
+
+§ 84 a.<sup>27</sup> <sup>1</sup> Privatdozierende, denen die Venia Legendi vor Inkrafttreten von § 12 a erteilt worden ist, haben bis höchstens drei Jahre nach Inkrafttreten dieser Bestimmung das Recht auf den Erhalt der PD-Entschädigung, sofern sie in diesem Zeitraum für die Universität Lehrleistungen erbringen und sofern die Entschädigung nicht im Rahmen einer anderen Anstellung an der Universität geregelt ist. Es besteht während dieser Zeit kein Anspruch auf Durchführung von Lehrveranstaltungen im Rahmen von Studienprogrammen.
 
 <sup>2</sup> § 11 Abs. 3 gilt auch für Privatdozierende, denen die Venia Legendi vor Inkrafttreten dieser Bestimmung erteilt worden ist.
 
 <sup>3</sup> Titularprofessorinnen und -professoren, die vor dem 1. August 2017 ernannt worden sind, haben das Recht, den Titel bis 31. Juli 2023 weiterzuführen. Vorbehalten bleibt der Entzug des Titels aus wichtigen Gründen. Lehrleistungen und Entschädigung richten sich nach Abs. 1.
 
 § 85.<sup>32</sup>
+
+<sup>15</sup> LS 415.431.
+
+<sup>16</sup> SR 220.
+
+<sup>17</sup> SR 818.101.24.
 
 <sup>18</sup> Fassung gemäss URB vom 7. Juli 2003 (OS 58, 187). In Kraft seit 1. September 2003.
 
@@ -1278,6 +1296,4 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 <sup>32</sup> Aufgehoben durch URB vom 7. Dezember 2020 (OS 76, 40; ABl 2020-12-18). In Kraft seit 1. März 2021.
 
-## Weitere Fussnoten
-
-- [17] SR 818.101.24. 1. 4. 21 - 112 31
+<sup>33</sup> Fassung gemäss URB vom 31. Mai 2021 (OS 76, 237; ABl 2021-06-04). In Kraft seit 1. August 2021.
