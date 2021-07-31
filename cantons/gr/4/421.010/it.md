@@ -2,22 +2,24 @@
 canton: GR
 number: "421.010"
 title: Ordinanza relativa alla legge scolastica
-short: "Ordinanza sulle scuole popolari, OSP"
+short: Ordinanza scolastica
 language: it
-version: 2021-03-01
-corrected: 2021-04-21
-version_adopted: 2021-02-09
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-06-29
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3148/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3181/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Ordinanza relativa alla legge scolastica
 
-del 25.09.2012 (stato 01.03.2021)
+(Ordinanza scolastica)
+
+del 25.09.2012 (stato 01.08.2021)
 
 emanata dal Governo il 25 settembre 2012
 
@@ -241,6 +243,8 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 dell
 **Lezioni per mezza giornata nel grado elementare**
 
 <sup>1</sup> Nel grado elementare sono ammesse di regola al massimo quattro lezioni per mezza giornata.
+
+<sup>1<sup>bis</sup></sup> In casi motivati gli enti scolastici possono prevedere un massimo di cinque lezioni per mezza giornata.
 
 <sup>2</sup> Tra le lezioni va prevista una pausa di almeno cinque minuti.
 

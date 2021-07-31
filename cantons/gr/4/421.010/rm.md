@@ -4,13 +4,13 @@ number: "421.010"
 title: Ordinaziun tar la lescha da scola
 short: ordinaziun da scola
 language: rm
-version: 2021-03-01
-corrected: 2021-04-21
-version_adopted: 2021-02-09
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-06-29
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3148/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3181/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3148/pdf_file"
 
 (ordinaziun da scola)
 
-dals 25-09-2012 (versiun dals 01-03-2021)
+dals 25-09-2012 (versiun dals 01-08-2021)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 97 da la lescha davart las scolas popularas dal chantun Grischun (lescha da scola)[^ingress-2]
 
@@ -245,6 +245,8 @@ relaschada da la regenza ils 25 da settember 2012
 **Lecziuns per mez di sin il stgalim primar**
 
 <sup>1</sup> Mintga mez di èn per regla admessas sin il stgalim primar maximalmain 4 lecziuns.
+
+<sup>1<sup>bis</sup></sup> En cas motivads pon las instituziuns responsablas per la scola prevair maximalmain 5 lecziuns per mez di.
 
 <sup>2</sup> Tranter las lecziuns stoi dar ina pausa d'almain 5 minutas.
 

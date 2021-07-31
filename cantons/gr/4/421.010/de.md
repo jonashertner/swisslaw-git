@@ -4,13 +4,13 @@ number: "421.010"
 title: Verordnung zum Schulgesetz
 short: Schulverordnung
 language: de
-version: 2021-03-01
-corrected: 2021-04-21
-version_adopted: 2021-02-09
+version: 2021-08-01
+valid_until: 2022-07-31
+version_adopted: 2021-06-29
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3148/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3181/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3148/pdf_file"
 
 (Schulverordnung)
 
-Vom 25.09.2012 (Stand 01.03.2021)
+Vom 25.09.2012 (Stand 01.08.2021)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 97 des Gesetzes für die Volksschulen des Kantons Graubünden (Schulgesetz)[^ingress-2]
 
@@ -243,6 +243,8 @@ von der Regierung erlassen am 25. September 2012
 **Lektionen pro Halbtag Primarstufe**
 
 <sup>1</sup> Je Halbtag sind auf der Primarstufe in der Regel höchstens vier Lektionen zulässig.
+
+<sup>1<sup>bis</sup></sup> In begründeten Fällen können die Schulträgerschaften maximal fünf Lektionen je Halbtag vorsehen.
 
 <sup>2</sup> Zwischen den Lektionen ist eine Pause von mindestens fünf Minuten vorzusehen.
 
