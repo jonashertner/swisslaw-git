@@ -4,11 +4,11 @@ title: "Ordonnance du 15 octobre 2008 réglant la perception d'émoluments et de
 short: Oém-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/749"
 language: fr
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2008-10-15
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-749-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2008-749-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20200101/fr"
 
 (Ordonnance sur les émoluments et les taxes de la FINMA, Oém-FINMA)
 
-du 15 octobre 2008 (Etat le 1<sup>er</sup> janvier 2020)
+du 15 octobre 2008 (Etat le 1<sup>er</sup> août 2021)
 
 Le Conseil fédéral suisse,
 
@@ -59,7 +59,7 @@ Dans la mesure du possible, la FINMA impute ses coûts directement aux domaines 
 - a.[^3-1] domaine des grandes banques et des sociétés qui font partie du même groupe financier (art. 15, al. 2, let. a, LFINMA);
 - a<sup>bis</sup>.[^3-2] domaine des autres banques et maisons de titres[^3-3] (art. 15, al. 2, let. a, LFINMA);
 - a<sup>ter</sup>.[^3-4] ...
-- a<sup>quater</sup>.[^3-5] domaine des plates-formes de négociation (art. 15, al. 2, let. a<sup>ter</sup>,LFINMA);
+- a<sup>quater</sup>[^3-5] domaine des plates-formes de négociation et des systèmes de négociation pour les valeurs mobilières fondées sur la technologie des registres distribués (systèmes de négociation fondés sur la TRD) (art. 15, al. 2, let. a<sup>ter</sup>, LFINMA);
 - a<sup>quinquies</sup>.[^3-6] domaine des contreparties centrales, des dépositaires centraux, des référentiels centraux et des systèmes de paiement (art. 15, al. 2, let. a<sup>ter</sup>, LFINMA);
 - [tab] a<sup>sexies</sup>.[^3-7] domaine des personnes visées à l’art. 1*b* de la loi du 8 novembre 1934 sur les banques (LB)[^3-8];
 - b.[^3-9] domaine des placements collectifs de capitaux (art. 15, al. 2, let. a<sup>bis</sup> et b, LFINMA);
@@ -76,7 +76,7 @@ Dans la mesure du possible, la FINMA impute ses coûts directement aux domaines 
 [^3-2]: Introduite par le ch. I de l’O du 17 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
 [^3-3]: Nouvelle expression selon l’annexe 1 ch. II 13 al. 1 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Il a été tenu compte de cette mod. dans tout le texte.
 [^3-4]: Introduite par le ch. I de l’O du 17 nov. 2010 ([RO 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)). Abrogée par l’annexe 1 ch. 13 de l’O du 25 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^3-5]: Introduite par l’annexe 1 ch. 13 de l’O du 25 nov. 2015 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-5]: Introduite par l’annexe 1 ch. 13 de l’O du 25 nov. 2015 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nouvelle teneur selon le ch. I 9 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^3-6]: Introduite par l’annexe 1 ch. 13 de l’O du 25 nov. 2015 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^3-7]: Introduite par le ch. II 3 de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^3-8]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
@@ -326,12 +326,40 @@ La taxe de base annuelle à acquitter par les infrastructures des marchés finan
 - d. pour les référentiels centraux: 60 000 francs;
 - e.
 
-  pour les systèmes de paiement autorisés par la FINMA conformément à l’art. 4, al. 2, de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^19a-1]:
+  pour les systèmes de paiement autorisés par la FINMA conformément à l’art. 4, al. 2, de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers (LIMF)[^19a-1]:[^19a-2]
 
   - 1\. 100 000 francs par système de paiement dont le produit brut s’élève au moins à 20 millions de francs,
-  - 2\. 60 000 francs par système de paiement dont le produit brut est inférieur à 20 millions de francs.
+  - 2\. 60 000 francs par système de paiement dont le produit brut est inférieur à 20 millions de francs;
+
+- f.[^19a-3]
+
+  pour les systèmes de négociation fondés sur la TRD qui ne fournissent pas de services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF:
+
+  - 1\. 300 000 francs par système de négociation fondé sur la TRD dont le total du bilan excède 50 millions de francs,
+  - 2\. 100 000 francs par système de négociation fondé sur la TRD dont le total du bilan se situe entre 25 et 50 millions de francs,
+  - 3\. 15 000 francs par système de négociation fondé sur la TRD dont le total du bilan est inférieur à 25 millions de francs;
+
+- g.[^19a-4]
+
+  pour les systèmes de négociation fondés sur la TRD qui fournissent des services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF:
+
+  - 1\. 550 000 francs par système de négociation fondé sur la TRD dont le total du bilan excède 50 millions de francs,
+  - 2\. 225 000 francs par système de négociation fondé sur la TRD dont le total du bilan se situe entre 25 et 50 millions de francs,
+  - 3\. 100 000 francs par système de négociation fondé sur la TRD dont le total du bilan est inférieur à 25 millions de francs;
+
+<sup>2</sup>
+
+Pour les petits systèmes de négociation fondés sur la TRD visés à l’art. 58*k* de l’ordonnance du 25 novembre 2015 sur l’infrastructure des marchés financiers[^19a-5], la taxe de base annuelle s’élève à:
+
+- a. 7500 francs s’ils ne fournissent pas de services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF;
+- b. 50 000 francs s’ils fournissent des services visés à l’art. 73*a*, al. 1, let. b ou c, LIMF.[^19a-6]
 
 [^19a-1]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^19a-2]: Nouvelle teneur selon le ch. I 9 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^19a-3]: Introduit par le ch. I 9 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^19a-4]: Introduit par le ch. I 9 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^19a-5]: [RS 958.11](https://fedlex.data.admin.ch/eli/cc/2015/854)
+[^19a-6]: Introduit par le ch. I 9 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 19b
 
@@ -440,7 +468,7 @@ La taxe de base concernant les placements collectifs suisses est payée par:
 <sup>4</sup> Le produit brut comprend tous les produits et revenus cités à l’art. 959*b* du code des obligations[^20-6].[^20-7]
 
 [^20-1]: Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^20-2]: Abrogée par l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements fi-nanciers, avec effet au 1er janv. 2020 (RO 2019 4633).
+[^20-2]: Abrogée par l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements fi-nanciers, avec effet au 1er janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^20-3]: Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^20-4]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
 [^20-5]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
@@ -704,6 +732,14 @@ Le droit en vigueur s’applique pour la perception des émoluments dans les pro
 
 [^39b-1]: Introduit par l’annexe 1 ch. 13 de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^39b-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+
+#### Art. 39c
+
+**Disposition transitoire relative à la modification du 18 juin 2021**[^39c-1]
+
+La FINMA évalue les taxes de base visées à l’art. 19*a*, al. 1, let. f et g, deux ans après l’entrée en vigueur de cette modification et établit un rapport à l’intention du Conseil fédéral.
+
+[^39c-1]: Introduit par le ch. I 9 de l’O du 18 juin 2021 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 40
 

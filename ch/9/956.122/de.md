@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Oktober 2008 über die Erhebung von Gebühren und Abg
 short: FINMA-GebV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/749"
 language: de
-version: 2020-01-01
+version: 2021-08-01
 adopted: 2008-10-15
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2008-749-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2008-749-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20200101/de"
 
 (FINMA-Gebühren- und Abgabenverordnung, FINMA-GebV)
 
-vom 15. Oktober 2008 (Stand am 1. Januar 2020)
+vom 15. Oktober 2008 (Stand am 1. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -59,7 +59,7 @@ Die FINMA ordnet ihre Kosten so weit als möglich folgenden Aufsichtsbereichen d
 - a.[^3-2] dem Bereich der Grossbanken und der mit ihnen als Finanzgruppe verbundenen Gesellschaften (Art. 15 Abs. 2 Bst. a FINMAG);
 - a<sup>bis</sup>.[^3-3] dem Bereich der übrigen Banken und Wertpapierhäuser[^3-4] (Art. 15 Abs. 2 Bst. a FINMAG);
 - a<sup>ter</sup><sup>ter</sup>.[^3-5] ...
-- a<sup>quater</sup>.[^3-6] dem Bereich der Handelsplätze (Art. 15 Abs. 2 Bst. a<sup>ter</sup> FINMAG);
+- a<sup>quater</sup>.[^3-6] dem Bereich der Handelsplätze und der Handelssysteme für Distributed Ledger Technology-Effekten (DLT-Handelssysteme) (Art. 15 Abs. 2 Bst. a<sup>ter</sup> FINMAG);
 - a<sup>quinquies</sup>.[^3-7] dem Bereich der zentralen Gegenparteien, Zentralverwahrer, Transaktionsregister und Zahlungssysteme (Art. 15 Abs. 2 Bst. a<sup>ter</sup> FINMAG);
 - a<sup>sexies</sup>.[^3-8] dem Bereich der Personen nach Artikel 1*b* des Bankengesetzes vom 8. November 1934[^3-9] (BankG);
 - b.[^3-10] dem Bereich der kollektiven Kapitalanlagen (Art. 15 Abs. 2 Bst. a<sup>bis</sup> und b FINMAG);
@@ -77,7 +77,7 @@ Die FINMA ordnet ihre Kosten so weit als möglich folgenden Aufsichtsbereichen d
 [^3-3]: Eingefügt durch Ziff. I der V vom 17. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
 [^3-4]: Ausdruck gemäss Anhang 1 Ziff. II 13 Abs. 1 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^3-5]: Eingefügt durch Ziff. I der V vom 17. Nov. 2010 ([AS 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)). Aufgehoben durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
-[^3-6]: Eingefügt durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Fassung gemäss Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^3-6]: Eingefügt durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Fassung gemäss Ziff. I 9 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^3-7]: Eingefügt durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)). Fassung gemäss Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^3-8]: Eingefügt durch Ziff. II 3 der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5229](https://fedlex.data.admin.ch/eli/oc/2018/799)).
 [^3-9]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
@@ -328,12 +328,40 @@ Die Grundabgabe für Finanzmarktinfrastrukturen beträgt pro Jahr:
 - d. für Transaktionsregister: 60 000 Franken;
 - e.
 
-  für nach Artikel 4 Absatz 2 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^19a-1] von der FINMA bewilligte Zahlungssysteme:
+  für nach Artikel 4 Absatz 2 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^19a-1] (FinfraG) von der FINMA bewilligte Zahlungssysteme:[^19a-2]
 
   - 1\. 100 000 Franken je Zahlungssystem mit einem Bruttoertrag von mindestens 20 Millionen Franken,
-  - 2\. 60 000 Franken je Zahlungssystem mit einem Bruttoertrag von weniger als 20 Millionen Franken.
+  - 2\. 60 000 Franken je Zahlungssystem mit einem Bruttoertrag von weniger als 20 Millionen Franken;
+
+- f.[^19a-3]
+
+  für DLT-Handelssysteme, die keine Dienstleistungen nach Artikel 73*a* Absatz 1 Buchstabe b oder c FinfraG erbringen:
+
+  - 1\. 300 000 Franken je DLT-Handelssystem mit einer Bilanzsumme von über 50 Millionen Franken,
+  - 2\. 100 000 Franken je DLT-Handelssystem mit einer Bilanzsumme von 25–50 Millionen Franken,
+  - 3\. 15 000 Franken je DLT-Handelssystem mit einer Bilanzsumme von weniger als 25 Millionen Franken;
+
+- g.[^19a-4]
+
+  für DLT-Handelssysteme, die Dienstleistungen nach Artikel 73*a* Absatz 1 Buchstabe b oder c FinfraG erbringen:
+
+  - 1\. 550 000 Franken je DLT-Handelssystem mit einer Bilanzsumme von über 50 Millionen Franken,
+  - 2\. 225 000 Franken je DLT-Handelssystem mit einer Bilanzsumme von 25–50 Millionen Franken,
+  - 3\. 100 000 Franken je DLT-Handelssystem mit einer Bilanzsumme von weniger als 25 Millionen Franken.
+
+<sup>2</sup>
+
+Für kleine DLT-Handelssysteme nach Artikel 58*k* der Finanzmarktinfrastrukturverordnung vom 25. November 2015[^19a-5] beträgt die Grundabgabe pro Jahr:
+
+- a. wenn sie keine Dienstleistungen nach Artikel 73*a* Absatz 1 Buchstabe b oder c FinfraG erbringen: 7 500 Franken;
+- b. wenn sie Dienstleistungen nach Artikel 73*a* Absatz 1 Buchstabe b oder c FinfraG erbringen: 50 000 Franken.[^19a-6]
 
 [^19a-1]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^19a-2]: Fassung gemäss Ziff. I 9 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^19a-3]: Eingefügt durch Ziff. I 9 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^19a-4]: Eingefügt durch Ziff. I 9 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
+[^19a-5]: [SR 958.11](https://fedlex.data.admin.ch/eli/cc/2015/854)
+[^19a-6]: Eingefügt durch Ziff. I 9 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 19b
 
@@ -706,6 +734,14 @@ Für die Erhebung von Gebühren für Verfahren, die bei Inkrafttreten dieser Ver
 
 [^39b-1]: Eingefügt durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^39b-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+
+#### Art. 39c
+
+**Übergangsbestimmung zur Änderung vom 18. Juni 2021**[^39c-1]
+
+Die FINMA evaluiert die Grundabgaben nach Artikel 19*a* Absatz 1 Buchstaben f und g zwei Jahre nach Inkrafttreten dieser Änderung und erstattet dem Bundesrat Bericht.
+
+[^39c-1]: Eingefügt durch Ziff. I 9 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 
 #### Art. 40
 
