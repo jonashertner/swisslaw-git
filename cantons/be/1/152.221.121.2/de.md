@@ -4,13 +4,13 @@ number: "152.221.121.2"
 title: "Direktionsverordnung über die Delegation von Befugnissen der Gesundheits-, Sozial- und Integrationsdirektion"
 short: DelDV GSI
 language: de
-version: 2020-01-01
-valid_until: 2021-07-31
-version_adopted: 2019-11-26
+version: 2021-08-01
+valid_until: 2022-12-31
+version_adopted: 2021-07-02
 adopted: 2001-01-17
 in_force: 2001-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.121.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1761/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2338/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1761/pdf_file"
 
 (DelDV GSI)
 
-vom 17.01.2001 (Stand 01.01.2020)
+vom 17.01.2001 (Stand 01.08.2021)
 
 Die Gesundheits-, Sozial- und Integrationsdirektion des Kantons Bern,
 
@@ -39,6 +39,8 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt die Delegation von Personal- und Ausgabenbefugnissen der Gesundheits-, Sozial- und Integrationsdirektion an die ihr unterstellten Verwaltungs- und diesen gleichgestellten Organisationseinheiten.
 
+<sup>1a</sup> Im Weiteren regelt sie die Delegation von Unterschriftenberechtigungen des Generalsekretariats und der Ämter im Verwaltungsverfahren an die ihnen unterstellten Organisationseinheiten.
+
 <sup>2</sup> Vorbehalten bleiben Kompetenzregelungen aufgrund übergeordneten Rechts sowie in Spezialerlassen vorgesehene Mitwirkungs- und Zustimmungsrechte anderer Direktionen.
 
 ## 2 Befugnisse im Personalbereich
@@ -49,7 +51,7 @@ beschliesst:
 
 **Begründung und Beendigung von Anstellungsverhältnissen 1. Regierungsrat**
 
-<sup>1</sup> Der Regierungsrat ist zuständig für die Begründung und Beendigung des Anstellungsverhältnisses der Inhaberinnen und Inhaber der Direktionskaderstellen gemäss Artikel 20 OrV GSI[^2-1].
+<sup>1</sup> Der Regierungsrat ist zuständig für die Begründung und Beendigung des Anstellungsverhältnisses der Inhaberinnen und Inhaber der Direktionskaderstellen gemäss Artikel 13 OrV GSI[^2-1]
 
 [^2-1]: BSG [152.221.121](https://www.belex.sites.be.ch/data/152.221.121/de)
 
@@ -94,13 +96,13 @@ beschliesst:
 
 - a für das Generalsekretariat und die Ämter der Zentralverwaltung der Abteilung Personal und Organisation des Generalsekretariats,
 - b …
-- c für das Pädagogische Zentrum für Hören und Sprache Münchenbuchsee, das Schulheim Schloss Erlach und das Zentrum für Sozial- und Heilpädagogik Landorf Köniz-Schlössli Kehrsatz der Gesamtleiterin oder dem Gesamtleiter nach Zustimmung des Alters- und Behindertenamts.
+- c für das Pädagogische Zentrum für Hören und Sprache Münchenbuchsee, das Schulheim Schloss Erlach und das Zentrum für Sozial- und Heilpädagogik Landorf Köniz-Schlössli Kehrsatz der Gesamtleiterin oder dem Gesamtleiter nach Zustimmung des Amts für Integration und Soziales.
 
 #### Art. 8
 
 **Personalrechtliche Bewilligungen**
 
-<sup>1</sup> Die Befugnis zur Erteilung der folgenden personalrechtlichen Bewilligungen wird für das Personal des Generalsekretariats an die Generalsekretärin oder den Generalsekretär, für das Personal der Ämter an die Amtsvorsteherinnen oder Amtsvorsteher und für das Personal der gleichgestellten Organisationseinheiten an das in ihrem Organisations- oder Geschäftsreglement bezeichnete Organ delegiert:
+<sup>1</sup> Die Befugnis zur Erteilung der folgenden personalrechtlichen Bewilligungen wird für das Personal des Generalsekretariats an die Generalsekretärin oder den Generalsekretär, für das Personal der Ämter an die Amtsvorsteherinnen und Amtsvorsteher sowie für das Personal der gleichgestellten Organisationseinheiten an das in ihrem Organisations- oder Geschäftsreglement bezeichnete Organ delegiert:
 
 - a die Bewilligung der Arbeitsleistung ausserhalb des Arbeitsortes (Art. 8 Abs. 2 PV),
 - b …
@@ -161,13 +163,46 @@ beschliesst:
 
 **…**
 
-## 4 Unterschriftsregelung
+## 4 Unterschriftenberechtigung
 
 #### Art. 14
 
-<sup>1</sup> Die Unterschriftsbefugnis richtet sich nach den Befugnissen im Personalbereich und den Ausgabenbefugnissen.
+**Unterschriftenberechtigung im Personal- und Ausgabenbereich**
 
-<sup>2</sup> Im Verhinderungsfall kommt die Unterschriftsbefugnis den Stellvertreterinnen und Stellvertretern zu.
+<sup>1</sup> Die Unterschriftenberechtigung richtet sich nach den Befugnissen im Personalbereich und den Ausgabenbefugnissen.
+
+<sup>2</sup> Im Verhinderungsfall kommt die Unterschriftsberechtigung den Stellvertreterinnen und Stellvertretern zu.
+
+#### Art. 14a
+
+**Unterschriftenberechtigung im Verwaltungsverfahren 1 Generalsekretariat**
+
+<sup>1</sup> Im Bereich Verwaltungsjustiz und in Staatshaftungssachen wird die Unterschriftenberechtigung für Vernehmlassungen, Abschreibungsverfügungen und selbstständig anfechtbare Zwischenverfügungen und -entscheide sowie für Entscheide betreffend unentgeltliche Rechtspflege, soweit nicht im Hauptentscheid darüber befunden wird, an die Leiterin oder den Leiter der Rechtsabteilung sowie deren Stellvertreterin oder Stellvertreter delegiert.
+
+<sup>2</sup> Für die übrigen prozessleitenden Verfügungen sind die juristischen Mitarbeiterinnen und Mitarbeiter unterschriftsberechtigt.
+
+#### Art. 14b
+
+**2 Gesundheitsamt**
+
+<sup>1</sup> Sofern in der Spezialgesetzgebung das Gesundheitsamt als zuständiges Amt bezeichnet wird, ist die Vorsteherin oder der Vorsteher des Amts unterschriftenberechtigt, im Verhinderungsfall deren Stellvertreterin oder Stellvertreter.
+
+<sup>2</sup> Diese Unterschriftenberechtigung kann in den nachfolgenden Bereichen an die betroffenen unterstellten Organisationseinheiten delegiert werden:
+
+- a Erteilung und Entzug von Berufsausübungsbewilligungen und Betriebsbewilligungen im Rahmen der Gesundheitsgesetzgebung,
+- b Anordnung aufsichtsrechtlicher Massnahmen im Rahmen der Aufsicht über die Gesundheitsberufe und Betriebe.
+
+<sup>3</sup> Das Amt regelt die Delegation der Unterschriftsberechtigung in seinem Organisations- und Geschäftsreglement.
+
+#### Art. 14c
+
+**3 Amt für Integration und Soziales**
+
+<sup>1</sup> Sofern in der Spezialgesetzgebung das Amt für Integration und Soziales als zuständiges Amt bezeichnet wird, ist die Vorsteherin oder der Vorsteher des Amts unterschriftenberechtigt, im Verhinderungsfall deren Stellvertreterin oder Stellvertreter.
+
+<sup>2</sup> Diese Unterschriftenberechtigung kann im Bereich der Erteilung und des Entzugs von Bewilligungen für Kindertagesstätten sowie der Anordnung von Massnahmen gegen Inhaberinnen und Inhaber einer Bewilligung an die betroffenen unterstellten Organisationseinheiten delegiert werden.
+
+<sup>3</sup> Das Amt regelt die Delegation der Unterschriftsberechtigung in seinem Organisations- und Geschäftsreglement.
 
 ## 5 Übergangs- und Schlussbestimmungen
 
@@ -186,6 +221,12 @@ beschliesst:
 <sup>2</sup> Sie ist in Anwendung von Artikel 7 und 8 des Publikationsgesetzes vom 18. Januar 1993 (PuG)[^16-1] amtlich zu veröffentlichen (ausserordentliche Veröffentlichung).
 
 [^16-1]: BSG 103.1
+
+## T-1 Übergangsbestimmung der Änderung vom 02.07.2021
+
+#### Art. T1-1
+
+<sup>1</sup> Artikel 14c Absatz 2 ist erst ab 1. Januar 2022 anwendbar.
 
 Bern, 17. Januar 2001
 

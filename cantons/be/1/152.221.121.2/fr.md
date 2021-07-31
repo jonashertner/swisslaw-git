@@ -4,13 +4,13 @@ number: "152.221.121.2"
 title: "Ordonnance de Direction sur la délégation de compétences de la Direction de la santé, des affaires sociales et de l’intégration *"
 short: ODél DSSI
 language: fr
-version: 2020-01-01
-valid_until: 2021-07-31
-version_adopted: 2019-11-26
+version: 2021-08-01
+valid_until: 2022-12-31
+version_adopted: 2021-07-02
 adopted: 2001-01-17
 in_force: 2001-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.121.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1761/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2338/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1761/pdf_file"
 
 (ODél DSSI)
 
-du 17.01.2001 (état au 01.01.2020)
+du 17.01.2001 (état au 01.08.2021)
 
 La Direction de la santé, des affaires sociales et de l’intégration du canton de Berne,
 
@@ -39,6 +39,8 @@ arrête:
 
 <sup>1</sup> La présente ordonnance règle la délégation de compétences de la Direction de la santé, des affaires sociales et de l’intégration en matière de personnel et d'autorisation de dépenses aux unités de l'administration qui lui sont subordonnées et aux unités administratives assimilées.
 
+<sup>1a</sup> Elle règle également, dans le cadre des procédures administratives, la délégation du droit de signature du Secrétariat général et des offices aux unités administratives qui leur sont subordonnées.
+
 <sup>2</sup> Les règles de compétence selon le droit de rang supérieur ainsi que les droits d'autres Directions de participer aux décisions et de donner leur accord prévus par la législation spéciale sont réservés.
 
 ## 2 Compétences en matière de personnel
@@ -49,7 +51,9 @@ arrête:
 
 **Création et résiliation des rapports de service 1. Conseil-exécutif**
 
-<sup>1</sup> Le Conseil-exécutif est compétent pour créer et résilier les rapports de service des titulaires des postes de cadre cités à l'article 20 OO DSSI.
+<sup>1</sup> Le Conseil-exécutif est compétent pour créer et résilier les rapports de service des titulaires des postes de cadre visés à l'article 13 OO DSSI[^2-1].
+
+[^2-1]: RSB [152.221.121](https://www.belex.sites.be.ch/data/152.221.121/fr)
 
 #### Art. 3
 
@@ -92,7 +96,7 @@ arrête:
 
 - a à la Division Personnel et organisation du Secrétariat général pour le Secrétariat général et les offices de l’administration centrale,
 - b …
-- c au directeur ou à la directrice du Centre pédagogique de logopédie et d’entraînement auditif de Münchenbuchsee, du Foyer scolaire du Château de Cerlier et du Centre de pédagogie spécialisée Landorf Köniz-Schlössli Kehrsatz, après approbation de l’Office des personnes âgées et handicapées.
+- c au directeur ou à la directrice du Centre pédagogique de logopédie et d’entraînement auditif de Münchenbuchsee, du Foyer scolaire du Château de Cerlier et du Centre de pédagogie spécialisée Landorf Köniz-Schlössli Kehrsatz, après approbation de l’Office de l’intégration et de l’action sociale.
 
 #### Art. 8
 
@@ -112,7 +116,7 @@ arrête:
 <sup>2</sup> L’autorisation de congés pour la participation à un cours de perfectionnement externe relève de la compétence
 
 - a du chef ou de la cheffe d’office pour les congés d’une durée maximale de 10 jours ouvrés par cours (art. 175, al. 2, lit. a OPers),
-- b du secrétaire général ou de la secrétaire générale pour ce qui est du personnel du Secrétariat général et pour ce qui est du personnel des offices pour les congés de plus de 10 jours ouvrés par cours (art. 175, al. 2, lit. b et c O
+- b du secrétaire général ou de la secrétaire générale pour ce qui est du personnel du Secrétariat général et pour ce qui est du personnel des offices pour les congés de plus de 10 jours ouvrés par cours (art. 175, al. 2, lit. b et c OPers),
 - c de l’organe compétent des unités administratives assimilées selon leur règlement interne pour ce qui est de leur personnel (art. 175, al. 2, lit. b et c OPers).
 
 ## 3 Compétences en matière d'autorisation de dépenses
@@ -157,13 +161,46 @@ arrête:
 
 **…**
 
-## 4 Compétences en matière de signature
+## 4 Droits de signature
 
 #### Art. 14
 
-<sup>1</sup> La répartition des compétences en matière de signature est analogue à celle des compétences en matière de personnel et d'autorisation de dépenses.
+**Droits de signature dans les domaines du personnel et des dépenses**
 
-<sup>2</sup> En cas d'empêchement, la compétence revient au suppléant ou à la suppléante.
+<sup>1</sup> La répartition des droits de signature est analogue à celle des compétences en matière de personnel et d'autorisation de dépenses.
+
+<sup>2</sup> En cas d'empêchement, le droit de signature revient au suppléant ou à la suppléante.
+
+#### Art. 14a
+
+**Droits de signature dans les procédures administratives 1 Secrétariat général**
+
+<sup>1</sup> En matière de justice administrative et pour les demandes en responsabilité de l’Etat, le droit de signature est délégué au chef ou à la cheffe du Service juridique ainsi qu’à son suppléant ou à sa suppléante pour les mémoires de réponse, les décisions de classement, les décisions incidentes susceptibles de recours ainsi que les décisions quant à l’assistance judiciaire gratuite, pour autant que cette question ne soit pas tranchée dans la décision au fond.
+
+<sup>2</sup> Le droit de signature revient aux collaborateurs et collaboratrices juridiques pour toutes les autres décisions d’instruction.
+
+#### Art. 14b
+
+**2 Office de la santé**
+
+<sup>1</sup> Si l’Office de la santé est désigné en tant qu’office compétent dans la législation spéciale, le droit de signature revient au chef ou à la cheffe de l’office ou, en cas d’empêchement, à son suppléant ou à sa suppléante.
+
+<sup>2</sup> Ce droit de signature peut être délégué aux unités administratives subordonnées concernées dans les domaines suivants:
+
+- a l’octroi et le retrait des autorisations d’exercer la profession et des autorisations d’exploiter au sens de la législation sur la santé publique;
+- b les mesures relevant du droit de la surveillance ordonnées dans le cadre de la surveillance des institutions et des professions de la santé.
+
+<sup>3</sup> L’office règle la délégation du droit de signature dans son règlement interne.
+
+#### Art. 14c
+
+**3 Office de l'intégration et de l'action sociale**
+
+<sup>1</sup> Si l’Office de l’intégration et de l’action sociale est désigné en tant qu’office compétent dans la législation spéciale, le droit de signature revient au chef ou à la cheffe de l’office ou, en cas d’empêchement, à son suppléant ou à sa suppléante.
+
+<sup>2</sup> Ce droit de signature peut être délégué aux unités administratives subordonnées concernées dans le domaine de l’octroi et du retrait d’autorisations aux crèches et des mesures prononcées à l’encontre de détenteurs et de détentrices d’autorisations.
+
+<sup>3</sup> L’office règle la délégation du droit de signature dans son règlement interne.
 
 ## 5 Dispositions transitoires et dispositions finales
 
@@ -182,6 +219,12 @@ arrête:
 <sup>2</sup> Elle est publiée en application des articles 7 et 8 de la loi du 18 janvier 1993 sur les publications officielles (LPO)[^16-1] (publication extraordinaire).
 
 [^16-1]: RSB 103.1
+
+## T-1 Disposition transitoire de la modification du 02.07.2021
+
+#### Art. T1-1
+
+<sup>1</sup> L’article 14c, alinéa 2 ne s’applique qu’à compter du 1<sup>er</sup> janvier 2022.
 
 Berne, le 17 janvier 2001
 
