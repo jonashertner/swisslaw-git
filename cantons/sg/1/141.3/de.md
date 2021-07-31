@@ -4,13 +4,13 @@ number: "141.3"
 title: Geschäftsreglement der Regierung und der Staatskanzlei
 short: GeschR
 language: de
-version: 2021-01-01
-corrected: 2021-05-26
-version_adopted: 2021-04-27
+version: 2021-08-01
+valid_until: 2021-09-30
+version_adopted: 2021-07-06
 adopted: 1951-12-07
 in_force: 1952-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3053/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3199/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3053/pdf_file"
 
 (GeschR)
 
-vom 07.12.1951 (Stand 01.01.2021)
+vom 07.12.1951 (Stand 01.08.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -230,6 +230,14 @@ verordnen:[^ingress-1]
 - k) Aufsicht über die Kantonalbank;
 - l) …
 - m) …
+- n) öffentliches Beschaffungswesen;
+- o) Versicherungs- und Riskmanagement;
+- p) Dienst für Informatikplanung;
+- q) Public Corporate Governance.
+
+<sup>2</sup> Im Bereich des Versicherungs- und Riskmanagements trifft das Finanzdepartement Entscheide im Zusammenhang mit der Risikobewirtschaftung von versicherbaren Sach-, Personen- und Vermögensschäden, welche die Staatsverwaltung betreffen. Vorbehalten bleiben die Zuständigkeiten nach der Finanzhaushaltsverordnung vom 17. Dezember 1996[^24-1].
+
+[^24-1]: sGS [831.1](https://www.gesetzessammlung.sg.ch/data/831.1/de).
 
 #### Art. 25
 
@@ -252,8 +260,8 @@ verordnen:[^ingress-1]
 - i) Badanstalten in Bad Ragaz und Pfäfers;
 - k) Bergbau;
 - l) Arbeitsbeschaffung;
-- m) Enteignungen zugunsten des Kantons, öffentliches Beschaffungswesen;
-- n) Energieversorung und -nutzung;
+- m) Enteignungen zugunsten des Kantons;
+- n) Energieversorgung und -nutzung;
 - o) Bau und Unterhalt von Flugplätzen;
 - p) Abschluss und Vollzug der Grundbuchgeschäfte für die Regierung und die Departemente im Bereich des Finanz- und Verwaltungsvermögens.
 
@@ -283,7 +291,7 @@ verordnen:[^ingress-1]
 - h<sup>ter</sup>) unentgeltliche Rechtspflege vor Verwaltungsbehörden;
 - i) Justizvollzug (Straf- und Massnahmenvollzug, Vollzugseinrichtungen und Gefängnisse, Bewährungshilfe);
 - k) …
-- l) kantonale Gebäudeversicherung, Feuerschutz und Feuerwehrwesen.
+- l) kantonale Gebäudeversicherung und Feuerschutz.
 
 #### Art. 26bis
 
