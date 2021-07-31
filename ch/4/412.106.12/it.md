@@ -3,31 +3,31 @@ sr: "412.106.12"
 title: Ordinanza del Consiglio della SUFFP del 22 giugno 2010 sulle offerte di formazione e i titoli della SUFFP e sull’ammissione alle offerte di formazione (Ordinanza sugli studi SUFFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/445"
 language: it
-version: 2019-08-01
+version: 2021-08-01
 adopted: 2010-06-22
 in_force: 2010-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/445/20190801/it/xml/fedlex-data-admin-ch-eli-cc-2010-445-20190801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/445/20190801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/445/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2010-445-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/445/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza del Consiglio dello IUFFP sulle offerte di formazione e i titoli dell’Istituto universitario federale per la formazione professionale
+# Ordinanza del Consiglio della SUFFP sulle offerte di formazione e i titoli della Scuola universitaria federale per la formazione professionale e sull’ammissione alle offerte di formazione
 
-(Ordinanza sugli studi IUFFP)**[^t-1]**
+(Ordinanza sugli studi SUFFP)**[^t-1]**
 
-del 22 giugno 2010 (Stato 1° agosto 2019)
+del 22 giugno 2010 (Stato 1° agosto 2021)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
-Il Consiglio dell’Istituto universitario federale per la formazione professionale (Consiglio dello IUFFP),
+Il Consiglio della Scuola universitaria federale per la formazione professionale (Consiglio della SUFFP),
 
-visti gli articoli 8 e 9 dell’ordinanza IUFFP del 14 settembre 2005[^ingress-1],
+visti gli articoli 6 capoverso 3 e 7 capoverso 6 della legge del 25 settembre 2020[^ingress-1] sulla SUFFP,
 
-emana:*[^ingress-2]*
+emana *[^ingress-2]*
 
-[^ingress-1]: [RS 412.106.1](https://fedlex.data.admin.ch/eli/cc/2021/405)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^ingress-1]: [RS 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
 ## Sezione 1: Offerta di formazione
 
@@ -35,48 +35,54 @@ emana:*[^ingress-2]*
 
 **Formazioni**
 
-L’Istituto universitario federale per la formazione professionale (IUFFP) offre le seguenti formazioni:
+La Scuola universitaria federale per la formazione professionale (SUFFP) offre le seguenti formazioni:[^1-1]
 
-- a. cicli di studio con certificato per formatori attivi in corsi interaziendali e in altri luoghi di formazione equivalenti, nonché in scuole d’arti e mestieri e in altre istituzioni riconosciute per la formazione professionale pratica (art. 45 lett. c dell’O del 19 nov. 2003[^1-1] sulla formazione professionale, OFPr);
+- a. cicli di studio con certificato per formatori attivi in corsi interaziendali e in altri luoghi di formazione equivalenti, nonché in scuole d’arti e mestieri e in altre istituzioni riconosciute per la formazione professionale pratica (art. 45 lett. c dell’O del 19 nov. 2003[^1-2] sulla formazione professionale, OFPr);
 - b. cicli di studio con diploma e con certificato per docenti di scuola professionale a titolo principale e a titolo accessorio che insegnano conoscenze professionali (art. 46 cpv. 2 lett. b OFPr);
 - c. cicli di studio con diploma per docenti di scuola professionale che insegnano materie di cultura generale (art. 46 cpv. 3 lett. a e c OFPr);
-- c<sup>bis</sup>.[^1-2] ciclo di studio con diploma per insegnanti attivi nella preparazione alla maturità professionale (art. 46 cpv. 3 lett. c OFPr);
+- c<sup>bis</sup>.[^1-3] ciclo di studio con diploma per insegnanti attivi nella preparazione alla maturità professionale (art. 46 cpv. 3 lett. c OFPr);
 - d. cicli di studio con certificato per docenti con abilitazione all’insegnamento liceale (art. 46 cpv. 3 lett. b OFPr);
-- e. cicli di studio con diploma e con certificato per docenti di scuola specializzata superiore a titolo principale e a titolo accessorio (art. 12 cpv. 1 lett. b dell’O del DEFR[^1-3] dell’11 mar. 2005[^1-4] concernente le esigenze minime per il riconoscimento dei cicli di formazione e degli studi postdiploma delle scuole specializzate superiori);
-- f.[^1-5] ciclo di studio bachelor (BSc) in formazione professionale;
-- g.[^1-6] ciclo di studio master (MSc) in formazione professionale (art. 7 Ordinanza IUFFP).
+- d<sup>bis</sup>.[^1-4] cicli di studio con certificato per docenti di educazione fisica nella formazione professionale di base (art. 46 cpv. 3 lett. a e b OFPr);
+- e. cicli di studio con diploma e con certificato per docenti di scuola specializzata superiore a titolo principale e a titolo accessorio (art. 12 cpv. 1 lett. b dell’O del DEFR[^1-5] dell’11 mar. 2005[^1-6] concernente le esigenze minime per il riconoscimento dei cicli di formazione e degli studi postdiploma delle scuole specializzate superiori);
+- f.[^1-7] ciclo di studio bachelor (BSc) in formazione professionale;
+- g.[^1-8] ciclo di studio master (MSc) in formazione professionale.
 
-[^1-1]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^1-2]: Introdotta dal n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
-[^1-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^1-4]: [[RU 2005 1389](https://fedlex.data.admin.ch/eli/oc/2005/208), [2010 4555](https://fedlex.data.admin.ch/eli/oc/2010/653), [2014 59](https://fedlex.data.admin.ch/eli/oc/2014/3)[4575](https://fedlex.data.admin.ch/eli/oc/2014/769). [RU 2017 5261](https://fedlex.data.admin.ch/eli/oc/2017/586)art. 23]. Vedi ora l’art. 13 cpv. 1 lett. b. dell’O del DEFR dell’11 set. 2017 ([RS 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)).
-[^1-5]: Nuovo testo giusta il n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
-[^1-6]: Introdotta dal n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^1-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^1-3]: Introdotta dal n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^1-4]: Introdotta dal n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^1-5]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
+[^1-6]: [[RU 2005 1389](https://fedlex.data.admin.ch/eli/oc/2005/208), [2010 4555](https://fedlex.data.admin.ch/eli/oc/2010/653), [2014 59](https://fedlex.data.admin.ch/eli/oc/2014/3)[4575](https://fedlex.data.admin.ch/eli/oc/2014/769). [RU 2017 5261](https://fedlex.data.admin.ch/eli/oc/2017/586)art. 23]. Vedi ora l’art. 13 cpv. 1 lett. b. dell’O del DEFR dell’11 set. 2017 ([RS 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)).
+[^1-7]: Nuovo testo giusta il n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^1-8]: Introdotta dal n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)). Nuovo testo giusta il n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
 #### Art. 2
 
 **Formazioni continue**
 
-- [tab] Lo IUFFP offre le seguenti formazioni continue:
+- [tab] La SUFFP offre le seguenti formazioni continue:[^2-1]
 - a. cicli di formazione continua con certificato (Certificate of Advanced Studies CAS), diploma (Diploma of Advanced Studies DAS) o master (Master of Advanced Studies MAS);
 - b. cicli di formazione continua nel campo della formazione dei formatori, segnatamente i cicli che portano al conseguimento del certificato della Federazione svizzera per la formazione continua (certificato FSEA) o dell’attestato federale di formatore;
-- c. moduli di formazione continua con assegnazione di punti di credito secondo le direttive di Bologna del 4 dicembre 2003[^2-1] (punti di credito ECTS) impostati sotto forma di offerte di formazione continua autonome che possono essere computate sui cicli di formazione continua secondo le lettere a e b;
-- d. corsi per periti d’esame nelle procedure di qualificazione con attestato di frequenza (art. 50 OFPr[^2-2]);
+- c.[^2-2] moduli di formazione continua con assegnazione di punti di credito secondo il sistema europeo per il trasferimento dei crediti (crediti ECTS) impostati sotto forma di offerte di formazione continua autonome che possono essere computate sui cicli di formazione continua secondo le lettere a e b;
+- d. corsi per periti d’esame nelle procedure di qualificazione con attestato di frequenza (art. 50 OFPr[^2-3]);
 - e. corsi di formazione continua con attestato di frequenza;
-- f. offerte di formazione continua su mandato di terzi (art. 5 dell’O IUFFP).
+- f.[^2-4] offerte di formazione continua su mandato di terzi.
 
-[^2-1]: [[RU 2004 3003](https://fedlex.data.admin.ch/eli/oc/2004/382), [2006 1071](https://fedlex.data.admin.ch/eli/oc/2006/189), [2008 3603](https://fedlex.data.admin.ch/eli/oc/2008/467). [RU 2015 1627](https://fedlex.data.admin.ch/eli/oc/2015/322)art. 9]. Vedi ora le Direttive di Bologna U del 28 mag. 2015 ([RS 414.205.1](https://fedlex.data.admin.ch/eli/cc/2019/722)).
-[^2-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^2-1]: Nuovo testo giusta il n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^2-3]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^2-4]: Nuovo testo giusta il n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
 #### Art. 3
 
 **Firma dei titoli di studio**
 
-<sup>1</sup> I diplomi di bachelor, i diplomi di master e gli altri diplomi sono firmati dal presidente del Consiglio dello IUFFP nonché dal direttore dello IUFFP.[^3-1]
+<sup>1</sup> I diplomi di bachelor, i diplomi di master e gli altri diplomi sono firmati dal presidente del Consiglio della SUFFP[^3-1] nonché dal direttore della SUFFP.[^3-2]
 
-<sup>2</sup> Il direttore dello IUFFP disciplina la firma dei certificati e degli attestati di frequenza.
+<sup>2</sup> Il direttore della SUFFP disciplina la firma dei certificati e degli attestati di frequenza.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^3-1]: Nuova espr. giusta il n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^3-2]: Nuovo testo giusta il n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
 
 #### Art. 4
 
@@ -84,23 +90,24 @@ L’Istituto universitario federale per la formazione professionale (IUFFP) offr
 
 <sup>1</sup>
 
-Chi supera la procedura di qualificazione di un ciclo di studio è autorizzato a portare i seguenti titoli:
+Coloro che si qualificano con successo sono autorizzati a portare il titolo corrispondente alla qualifica:
 
-- a. «Insegnante diplomato di scuola professionale» (art. 6 cpv. 2 lett. a dell’O IUFFP), se ha superato la procedura di qualificazione del ciclo di studio con diploma per insegnanti di scuola professionale che insegnano conoscenze professionali e del ciclo di studio con diploma per l’insegnamento della cultura generale;
-- b. «Insegnante diplomato di scuola specializzata superiore» (art. 6 cpv. 2 lett. b dell’O IUFFP), se ha superato la procedura di qualificazione del ciclo di studio con diploma per l’insegnamento di conoscenze professionali nelle scuole specializzate superiori;
-- b<sup>bis</sup>.[^4-1] «Bachelor of Science in formazione professionale», se ha superato la procedura di qualificazione del ciclo di studio bachelor;
-- c. «Master of Science in formazione professionale» (art. 7 cpv. 2 dell’O IUFFP), se ha superato la procedura di qualificazione del ciclo di studio master.
+- a. «Insegnante diplomato di scuola professionale», se ha superato la procedura di qualificazione del ciclo di studio con diploma per insegnanti di scuola professionale che insegnano conoscenze professionali e del ciclo di studio con diploma per l’insegnamento della cultura generale;
+- b. «Insegnante diplomato per l’insegnamento volto all’ottenimento della maturità professionale nelle scuole professionali», se ha superato la procedura di qualificazione del ciclo di studio con diploma per docenti attivi nella preparazione alla maturità professionale;
+- c. «Insegnante diplomato di scuola specializzata superiore», se ha superato la procedura di qualificazione del ciclo di studio con diploma per docenti di conoscenze professionali nelle scuole specializzate superiori;
+- d. «Bachelor of Science in formazione professionale», se ha superato la procedura di qualificazione del ciclo di studio bachelor;
+- e. «Master of Science in formazione professionale», se ha superato la procedura di qualificazione del ciclo di studio master.[^4-1]
 
 <sup>2</sup> Per i titoli di bachelor, master e altri diplomi è rilasciato un supplemento al diploma («Diploma Supplement»), per i titoli di certificato è rilasciato un supplemento al certificato («Certificate Supplement»).[^4-2]
 
-[^4-1]: Introdotto dal n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^4-1]: Nuovo testo giusta il n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 [^4-2]: Nuovo testo giusta il n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
 
 #### Art. 5
 
 **Garanzia della qualità**
 
-Sulla base di un metodo standard, il direttore dello IUFFP provvede a una valutazione sistematica e periodica dei moduli di tutte le offerte di formazione svolti. I risultati confluiscono nell’ulteriore sviluppo delle offerte.
+Sulla base di un metodo standard, il direttore della SUFFP provvede a una valutazione sistematica e periodica dei moduli di tutte le offerte di formazione svolti. I risultati confluiscono nell’ulteriore sviluppo delle offerte.
 
 ## Sezione 2: Ammissione, durata degli studi e numero di punti di credito
 
@@ -108,32 +115,19 @@ Sulla base di un metodo standard, il direttore dello IUFFP provvede a una valuta
 
 **Condizioni d’ammissione**
 
-<sup>1</sup>
-
-Quali condizioni d’ammissione si applicano:
-
-- a.
-
-  per i cicli di formazione secondo l’articolo 1 lettere a–e: i requisiti di qualificazione indicati nelle rispettive disposizioni:
-
-  - 1\. dell’OFPr[^6-1], e
-  - 2\. dell’ordinanza del DEFR dell’11 marzo 2005[^6-2] concernente le esigenze minime per il riconoscimento dei cicli di formazione e degli studi postdiploma delle scuole specializzate superiori;
-
-- b.[^6-3] per il ciclo di studio bachelor BSc e per il ciclo di studio master MSc: le disposizioni dei rispettivi piani di studio secondo l’articolo 12.
+<sup>1</sup> ...[^6-1]
 
 <sup>2</sup> Per l’ammissione ai cicli di studio con diploma per docenti di scuola professionale a titolo principale nonché per docenti di scuola specializzata superiore a titolo principale sono inoltre necessari un titolo di maturità (maturità professionale o maturità liceale) oppure la prova di una qualifica equivalente, eventualmente completata con una qualificazione complementare.
 
-<sup>3</sup> ...[^6-4]
+<sup>3</sup> ...[^6-2]
 
-<sup>4</sup> Per quanto riguarda i cicli di formazione, il Consiglio dello IUFFP istituisce una commissione d’ammissione. I compiti di tale commissione sono disciplinati mediante direttive emanate dal direttore dello IUFFP.[^6-5]
+<sup>4</sup> Per quanto riguarda i cicli di formazione, il Consiglio della SUFFP istituisce una commissione d’ammissione. I compiti di tale commissione sono disciplinati mediante direttive emanate dal direttore della SUFFP.[^6-3]
 
 <sup>5</sup> Le condizioni d’ammissione per i cicli di formazione continua sono disciplinate nei piani di studio.
 
-[^6-1]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^6-2]: [[RU 2005 1389](https://fedlex.data.admin.ch/eli/oc/2005/208), [2010 4555](https://fedlex.data.admin.ch/eli/oc/2010/653), [2014 59](https://fedlex.data.admin.ch/eli/oc/2014/3)[4575](https://fedlex.data.admin.ch/eli/oc/2014/769). [RU 2017 5261](https://fedlex.data.admin.ch/eli/oc/2017/586)art. 23]. Vedi ora l’O del DEFR dell’11 set. 2017 ([RS 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)).
+[^6-1]: Abrogato dal n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, con effetto dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
+[^6-2]: Abrogato dal n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, con effetto dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
 [^6-3]: Nuovo testo giusta il n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
-[^6-4]: Abrogato dal n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, con effetto dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
-[^6-5]: Nuovo testo giusta il n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
 
 #### Art. 7
 
@@ -146,12 +140,12 @@ La durata dei cicli di formazione secondo l’articolo 1 lettere a–e è retta 
 - a. articolo 45 e seguenti OFPr[^7-2];
 - b. articolo 12 capoverso 1 lettera b dell’ordinanza del DEFR dell’11 marzo 2005[^7-3] concernente le esigenze minime per il riconoscimento dei cicli di formazione e degli studi postdiploma delle scuole specializzate superiori.
 
-<sup>2</sup> Il ciclo di studio bachelor BSc comprende 120 punti di credito e il ciclo di studio master MSc 90–120 punti di credito.[^7-4]
+<sup>2</sup> Il ciclo di studio bachelor BSc comprende 180 punti di credito ECTS e il ciclo di studio master MSc 120 punti di credito ECTS.[^7-4]
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
 [^7-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
 [^7-3]: [[[RU 2005 1389](https://fedlex.data.admin.ch/eli/oc/2005/208), [2010 4555](https://fedlex.data.admin.ch/eli/oc/2010/653), [2014 59](https://fedlex.data.admin.ch/eli/oc/2014/3)[4575](https://fedlex.data.admin.ch/eli/oc/2014/769). [RU 2017 5261](https://fedlex.data.admin.ch/eli/oc/2017/586)art. 23]. Vedi ora l’art. 13 cpv. 1 lett. b. dell’O del DEFR dell’11 set. 2017 ([RS 412.101.61](https://fedlex.data.admin.ch/eli/cc/2017/586)).
-[^7-4]: Nuovo testo giusta il n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^7-4]: Nuovo testo giusta il n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
 #### Art. 8
 
@@ -169,7 +163,7 @@ I cicli di formazione continua equivalgono ai seguenti punti di credito ECTS:
 
 **Date dei semestri**
 
-Il direttore dello IUFFP stabilisce annualmente le date dei semestri dello IUFFP d’intesa con le scuole universitarie svizzere.
+Il direttore della SUFFP stabilisce annualmente le date dei semestri della SUFFP d’intesa con le scuole universitarie svizzere.
 
 #### Art. 10
 
@@ -177,14 +171,14 @@ Il direttore dello IUFFP stabilisce annualmente le date dei semestri dello IUFFP
 
 <sup>1</sup>
 
-Gli studenti dei cicli di studio con diploma, del ciclo di studio bachelor BSc, del ciclo di studio master MSc e del ciclo di formazione continua MAS sono immatricolati allo IUFFP se:[^10-1]
+Gli studenti dei cicli di studio con diploma, del ciclo di studio bachelor BSc, del ciclo di studio master MSc e del ciclo di formazione continua MAS sono immatricolati alla SUFFP se:[^10-1]
 
 - a. sono ammessi alla rispettiva formazione o formazione continua; e
 - b. hanno pagato le tasse d’iscrizione e le tasse di frequenza entro i termini stabiliti.
 
 <sup>2</sup>
 
-Gli studenti dei cicli di studio con certificato, nonché i partecipanti a un ciclo o a un modulo di formazione continua sono iscritti allo IUFFP se:
+Gli studenti dei cicli di studio con certificato, nonché i partecipanti a un ciclo o a un modulo di formazione continua sono iscritti alla SUFFP se:
 
 - a. sono ammessi alla rispettiva formazione o formazione continua; e
 - b. hanno pagato le tasse d’iscrizione e le tasse di frequenza entro i termini stabiliti.
@@ -201,12 +195,12 @@ L’exmatricolazione o la revoca dell’iscrizione avviene:
 
 - a. alla conclusione della formazione o formazione continua;
 - b. su richiesta della persona interessata;
-- c. per decisione dello IUFFP;
+- c. per decisione della SUFFP;
 - d. se le tasse di frequenza non sono pagate entro i termini stabiliti.
 
 <sup>2</sup>
 
-Lo IUFFP decide l’exmatricolazione o la revoca dell’iscrizione di una persona se quest’ultima:
+La SUFFP decide l’exmatricolazione o la revoca dell’iscrizione di una persona se quest’ultima:
 
 - a. è stata immatricolata o iscritta per errore oppure sulla base di dati non veritieri;
 - b. non ha rispettato i termini per la proroga dell’immatricolazione o dell’iscrizione, senza motivi gravi; oppure
@@ -232,10 +226,9 @@ Ogni ciclo di formazione e ogni ciclo di formazione continua è disciplinato in 
 - h. le attestazioni di formazione e il titolo di studio finale;
 - i. l’entrata in vigore.
 
-<sup>2</sup> I piani di studio emanati dal Consiglio dello IUFFP sono pubblicati sul sito web dello IUFFP[^12-1].[^12-2]
+<sup>2</sup> I piani di studio emanati dal Consiglio della SUFFP sono pubblicati sul sito web della SUFFP.[^12-1]
 
-[^12-1]: www.iuffp.swiss
-[^12-2]: Nuovo testo giusta il n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
+[^12-1]: Nuovo testo giusta il n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
 #### Art. 13
 
@@ -257,7 +250,7 @@ La descrizione dei moduli contiene le indicazioni seguenti:
 - h. conoscenze preliminari o moduli necessari;
 - i. moduli successivi.
 
-<sup>3</sup> I moduli sono stabiliti dal direttore dello IUFFP.
+<sup>3</sup> I moduli sono stabiliti dal direttore della SUFFP.
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del Consiglio dello IUFFP del 20 mag. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2059](https://fedlex.data.admin.ch/eli/oc/2019/377)).
 
@@ -267,7 +260,7 @@ La descrizione dei moduli contiene le indicazioni seguenti:
 
 <sup>1</sup> Le offerte di formazione continua sotto forma di corsi con attestato di frequenza sono pubblicate in modo consono ai destinatari nell’ambito di un programma dei corsi a pubblicazione periodica.
 
-<sup>2</sup> I programmi dei corsi sono approvati dal responsabile nazionale del Dipartimento formazione continua dello IUFFP.
+<sup>2</sup> I programmi dei corsi sono approvati dal responsabile nazionale del Dipartimento formazione continua della SUFFP.
 
 #### Art. 15
 
@@ -277,7 +270,7 @@ La descrizione dei moduli contiene le indicazioni seguenti:
 
 <sup>2</sup> I motivi delle assenze dovute a forza maggiore devono essere documentati e comunicati alla direzione degli studi.
 
-<sup>3</sup> Il direttore dello IUFFP emana direttive in merito alla gestione delle assenze.
+<sup>3</sup> Il direttore della SUFFP emana direttive in merito alla gestione delle assenze.
 
 <sup>4</sup> I docenti tengono un controllo delle presenze.
 
@@ -285,19 +278,21 @@ La descrizione dei moduli contiene le indicazioni seguenti:
 
 **Computo di prestazioni di studio regolamentate**
 
-<sup>1</sup> Il responsabile nazionale del dipartimento dello IUFFP può computare sui cicli di formazione o di formazione continua le prestazioni di studio conseguite presso lo IUFFP o presso altre istituzioni paragonabili se il volume di ore di studio è equivalente e sono comprovate le competenze richieste.
+<sup>1</sup> Il responsabile nazionale del dipartimento della SUFFP può computare sui cicli di formazione o di formazione continua le prestazioni di studio conseguite presso la SUFFP o presso altre istituzioni paragonabili se il volume di ore di studio è equivalente e sono comprovate le competenze richieste.
 
-<sup>2</sup> Il direttore dello IUFFP emana direttive in merito al computo delle prestazioni di studio regolamentate sui cicli di formazione e sui cicli di formazione continua.
+<sup>2</sup> Il direttore della SUFFP emana direttive in merito al computo delle prestazioni di studio regolamentate sui cicli di formazione e sui cicli di formazione continua.
 
 #### Art. 17
 
 **Computo di competenze acquisite al di fuori dei cicli di studio regolamentati**
 
-<sup>1</sup> Il responsabile nazionale del dipartimento dello IUFFP può computare le competenze acquisite al di fuori di cicli di studio regolamentati.
+<sup>1</sup> Il responsabile nazionale del dipartimento della SUFFP può computare ai cicli di studio con diploma le competenze acquisite al di fuori di cicli di studio regolamentati.[^17-1]
 
-<sup>2</sup> Il Consiglio dello IUFFP emana direttive sulla procedura inerente al computo di tali competenze.
+<sup>2</sup> Il Consiglio della SUFFP emana direttive sulla procedura inerente al computo di tali competenze.
 
 <sup>3</sup> Può essere ammesso alla procedura di computo chi ha un’esperienza documentata di almeno cinque anni nel campo corrispondente al titolo finale.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
 ## Sezione 5: Procedura di qualificazione
 
@@ -311,7 +306,7 @@ La descrizione dei moduli contiene le indicazioni seguenti:
 
 <sup>3</sup> Per i cicli di formazione con titolo di bachelor, master o diploma è richiesto un lavoro finale. Anche per i cicli di formazione continua possono essere previsti lavori finali.[^18-1]
 
-<sup>4</sup> I punti di credito ECTS possono essere utilizzati per conseguire il titolo finale fino a sei anni al massimo dopo la conclusione del semestre in cui sono stati acquisiti. Il responsabile nazionale del dipartimento dello IUFFP può concedere una proroga per motivi validi.
+<sup>4</sup> I punti di credito ECTS possono essere utilizzati per conseguire il titolo finale fino a sei anni al massimo dopo la conclusione del semestre in cui sono stati acquisiti. Il responsabile nazionale del dipartimento della SUFFP può concedere una proroga per motivi validi.
 
 <sup>5</sup> Il titolo finale di un ciclo di studio può essere acquisito soltanto se sono completamente adempiute le condizioni d’ammissione, se sono state pagate tutte le tasse d’iscrizione e di frequenza e se sono stati superati gli esami di modulo del rispettivo ciclo di studio e il lavoro finale. Le prestazioni di studio computate in virtù dell’articolo 16 e le competenze computate in virtù dell’articolo 17 sono tenute in considerazione per il rilascio dei titoli finali del ciclo di studio.
 
@@ -387,7 +382,9 @@ I singoli esami di modulo e il lavoro finale sono valutati con una nota in base 
 
 <sup>2</sup> Se nel lavoro finale lunghi passaggi sono ripresi da altri documenti senza che ne sia indicata la fonte, l’esaminatore attribuisce al lavoro finale la nota F.
 
-<sup>3</sup> L’inganno nell’ambito di una procedura di qualificazione comporta le misure disciplinari secondo l’articolo 34 dell’ordinanza IUFFP.
+<sup>3</sup> L’inganno nell’ambito di una procedura di qualificazione comporta le misure disciplinari secondo l’articolo 31 della legge del 25 settembre 2020 sulla SUFFP.[^23-1]
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
 #### Art. 24
 
@@ -397,7 +394,7 @@ I singoli esami di modulo e il lavoro finale sono valutati con una nota in base 
 
 <sup>2</sup> Le pagelle e le decisioni della commissione d’esame sono conservate per dieci anni.
 
-<sup>3</sup> Lo IUFFP può pubblicare i lavori finali o renderli accessibili in altra forma. Può archiviarli a tempo indeterminato. Sono salve le disposizioni sui diritti d’autore e la protezione dei dati.
+<sup>3</sup> La SUFFP può pubblicare i lavori finali o renderli accessibili in altra forma. Può archiviarli a tempo indeterminato. Sono salve le disposizioni sui diritti d’autore e la protezione dei dati.
 
 ## Sezione 6: Opposizione e ricorso
 
@@ -405,7 +402,7 @@ I singoli esami di modulo e il lavoro finale sono valutati con una nota in base 
 
 **Opposizione**
 
-<sup>1</sup> Contro le decisioni dei responsabili nazionali dei dipartimenti dello IUFFP può essere fatta opposizione.
+<sup>1</sup> Contro le decisioni dei responsabili nazionali dei dipartimenti della SUFFP può essere fatta opposizione.
 
 <sup>2</sup> Le note delle procedure d’esame superate non possono essere oggetto di opposizione.
 
@@ -415,7 +412,7 @@ I singoli esami di modulo e il lavoro finale sono valutati con una nota in base 
 
 <sup>1</sup> L’opposizione dev’essere presentata entro 30 giorni dalla comunicazione della decisione. Questo termine non è prorogabile.
 
-<sup>2</sup> L’opposizione dev’essere presentata per scritto al direttore dello IUFFP (Kirchlindachstrasse 79, Casella postale, CH-3052 Zollikofen).
+<sup>2</sup> L’opposizione dev’essere presentata per scritto al direttore della SUFFP (Kirchlindachstrasse 79, Casella postale, CH-3052 Zollikofen).
 
 <sup>3</sup> L’opposizione deve contenere una richiesta e una motivazione.
 
@@ -423,13 +420,15 @@ I singoli esami di modulo e il lavoro finale sono valutati con una nota in base 
 
 **Ricorso**
 
-Le decisioni su opposizione rese dal direttore dello IUFFP possono essere impugnate, per scritto e con indicazione delle relative motivazioni, davanti al Tribunale amministrativo federale entro 30 giorni dalla comunicazione della decisione.
+Le decisioni su opposizione rese dal direttore della SUFFP possono essere impugnate, per scritto e con indicazione delle relative motivazioni, davanti al Tribunale amministrativo federale entro 30 giorni dalla comunicazione della decisione.
 
-## Sezione 7: Ordinamento disciplinare
+## Sezione 7: ...
 
 #### Art. 28
 
-Gli studenti che ostacolano in modo grave gli organi o i collaboratori dello IUFFP nello svolgimento del loro lavoro, che ostacolano altri studenti durante i loro studi o che disturbano in modo sconveniente i corsi e le lezioni possono essere oggetto delle misure disciplinari secondo l’articolo 34 dell’ordinanza IUFFP.
+[^28-1]
+
+[^28-1]: Abrogato dal n. I dell’O del Consiglio della SUFFP del 17 giu. 2021, con effetto dal 1° ago. 2021 ([RU 2021 459](https://fedlex.data.admin.ch/eli/oc/2021/459)).
 
 ## Sezione 8: Disposizioni finali
 
@@ -437,7 +436,7 @@ Gli studenti che ostacolano in modo grave gli organi o i collaboratori dello IUF
 
 **Diritto previgente: abrogazione**
 
-Il regolamento degli studi IUFFP del 22 settembre 2006[^29-1] è abrogato.
+Il regolamento degli studi SUFFP del 22 settembre 2006[^29-1] è abrogato.
 
 [^29-1]: [[RU 2006 4261](https://fedlex.data.admin.ch/eli/oc/2006/649)]
 
