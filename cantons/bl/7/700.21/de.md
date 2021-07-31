@@ -1,0 +1,105 @@
+---
+canton: BL
+number: "700.21"
+title: Verordnung über das Lage- und Führungsinformationssystem LAFIS
+language: de
+version: 2021-08-01
+version_adopted: 2021-06-29
+adopted: 2021-06-29
+in_force: 2021-08-01
+url: "https://bl.clex.ch/app/de/texts_of_law/700.21"
+pdf: "https://bl.clex.ch/api/de/versions/3044/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über das Lage- und Führungsinformationssystem LAFIS
+
+Vom 29.06.2021 (Stand 01.08.2021)
+
+Der Regierungsrat des Kantons Basel-Landschaft,
+
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 44a des Polizeigesetzes vom 28. November 1996[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 700](https://bl.clex.ch/data/700/de/art44a)
+
+#### § 1
+
+**Anwendungsbereich**
+
+<sup>1</sup> Das Lage- und Führungsinformationssystem LAFIS bezweckt das Führen eines generellen Lagebildes durch den Austausch ereignisbezogener Daten mit anderen Organisationen in folgenden Fällen:
+
+- a. besondere polizeiliche Ereignisse (Sonderlagen, Grossereignisse Katastrophen usw.);
+- b. Ereignisse des Bevölkerungsschutzes;
+- c. kantonale Lagen mit Einbezug der Führungsstäbe der Regionen (RFS) und der Gemeinden (GFS);
+- d. kantonsübergreifende Lagen mit Einbezug des Kantonalen Krisenstabs (KKS);
+- e. überregionale Lagen im interkantonalen Führungsverbund;
+- f. überregionale Lagen mit Einbezug des Bundes;
+- g. kantonale Lagen mit Einbezug von Privaten.
+
+#### § 2
+
+**Datenzugriff**
+
+<sup>1</sup> Der Online-Zugriff auf LAFIS umfasst folgende Daten:
+
+- a. die laufend erfassten Ereignismeldungen in einem Journal, welche sich aus den Meldungen, Pendenzen und Entscheidungen der Einsatzkräfte am Ereignisort, aus den Entscheidungen der Einsatzleitung sowie aus den von der Einsatzleitung gestützt auf § 44a Polizeigesetz[^2-1] zur Aufgabenerfüllung erforderlichen beigezogenen Personen- und Sachdaten ergeben;
+- b. die Koordination der im Ereignisfall eingesetzten Mittel;
+- c. die Karte mit der Lagedarstellung der Probleme und Mittel;
+- d. Anhänge wie Pläne, Fotos usw.
+
+[^2-1]: [SGS 700](https://bl.clex.ch/data/700/de/art44a)
+
+#### § 3
+
+**Nutzungsberechtigung**
+
+<sup>1</sup> Nutzungsberechtigt sind alle Personen von öffentlich-rechtlichen oder zivilen Organisationen des Kantons Basel-Landschaft sowie von weiteren Kantonen, sofern sie in engem Zusammenhang mit der Einsatzbewältigung in einem kantonalen, interkantonalen oder internationalen Führungsverbund stehen.
+
+<sup>2</sup> Die Polizei Basel-Landschaft und der Kantonale Krisenstab Basel-Landschaft sind im Ereignisfall für die Erteilung der Eintrags- und Abfrageberechtigungen der Nutzungsberechtigten innerhalb des Anwendungsbereichs von LAFIS zuständig, wobei die Entscheidung zur Freigabe der Daten bei der ereigniserstellenden Organisation liegt.
+
+<sup>3</sup> Eintragungs- und abrufberechtigt sind:
+
+- a. Polizei Basel-Landschaft;
+- b. Kantonaler Krisenstab Basel-Landschaft;
+- c. Regionaler Führungsstab Allschwil- Schönenbuch;
+- d. Regionaler Führungsstab Altenberg;
+- e. Regionaler Führungsstab Argus;
+- f. Regionaler Führungsstab Birs;
+- g. Regionaler Führungsstab Ebenrain;
+- h. Regionaler Führungsstab Ergolz;
+- i. Regionaler Führungsstab Laufental;
+- j. Regionaler Führungsstab Leimental;
+- k. Regionaler Führungsstab Oberes Baselbiet;
+- l. Gemeindeführungsstab Birsfelden;
+- m. Gemeindeführungsstab Muttenz;
+- n. Gemeindeführungsstab Münchenstein;
+- o. Gemeindeführungsstab Pratteln;
+- p. zivile Führungsstäbe (Chemieunternehmen, Grossveranstaltungen usw.).
+
+#### § 4
+
+**Protokollierung der Einträge und Abfragen**
+
+<sup>1</sup> Die Polizei Basel-Landschaft und der Kantonale Krisenstab Basel-Landschaft sind im Ereignisfall für die Erteilung und Kontrolle der Eintrags- und Abfrageberechtigungen der Nutzungsberechtigten zuständig, wobei die Entscheidung zur Freigabe der Daten bei der ereigniserstellenden Organisation liegt.
+
+#### § 5
+
+**Aufbewahrung der Daten und Löschung**
+
+<sup>1</sup> Mit Abschluss der Lage werden die Daten automatisch für die Dauer von 1 Jahr archiviert; danach werden die Daten vollumfänglich und unwiederbringlich gelöscht.
+
+<sup>2</sup> Falls die Daten zu einer Lage mit deren Abschluss nicht gelöscht werden sollen, muss vor Ablauf der Jahresfrist ein Antrag an den Verein LAFIS gestellt werden.
+
+#### § 6
+
+**Datenschutz**
+
+<sup>1</sup> Alle Tätigkeiten im Rahmen des Lage- und Führungsinformationssystems LAFIS unterstehen der eidgenössischen und kantonalen Gesetzgebung über den Datenschutz.
+
+<sup>2</sup> Für den Betrieb gelten die Vorschriften des Nutzungsreglements und den Nutzungsbestimmungen des Vereins LAFIS.
+
+GS 2021.060
