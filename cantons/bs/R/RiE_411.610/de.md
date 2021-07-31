@@ -4,13 +4,13 @@ number: RiE 411.610
 title: Reglement für die Schulen der Gemeinden Bettingen und Riehen
 short: Schulreglement
 language: de
-version: 2019-08-01
-valid_until: 2021-07-31
-version_adopted: 2019-07-02
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-07-06
 adopted: 2009-06-16
 in_force: 2009-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20411.610"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4683/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5302/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Schulreglement | Riehen: Einwohnergemeinde
 
 (Schulreglement)
 
-Vom 16. Juni 2009 (Stand 1. August 2019)
+Vom 16. Juni 2009 (Stand 1. August 2021)
 
 Der Gemeinderat Riehen
 
@@ -78,10 +78,11 @@ erlässt gestützt auf die Ordnung für die Schulen der Gemeinden Bettingen und 
 - c) die Zuteilung zu einem Schulstandort;
 - d) die Versetzung an einen anderen Schulstandort;
 - e) die verstärkten Massnahmen;
-- f) den befristeten Schulausschluss ab fünf Tagen sowie den definitiven Schulausschluss;
+- f) den befristeten Schulausschluss ab fünf Tagen sowie den definitiven Schulausschluss vom Unterricht;
 - g) die Elternbeiträge für den Besuch einer Schule mit Tagesstrukturen;
 - h) das Schulgeld für auswärtige Schülerinnen und Schüler;
-- i) Erlass von Ordnungsbussen gemäss kantonalem Schulrecht.
+- i) Erlass von Ordnungsbussen gemäss kantonalem Schulrecht;
+- j) den Ausschluss aus der schulinternen Tagesstruktur bei Nichtbezahlung der Elternbeiträge sowie Ausschluss aus der schulexternen Tagesstruktur bei Nichtbezahlung der Elternbeiträge oder aufgrund des Verhaltens einer Schülerin oder eines Schülers.
 
 <sup>2</sup> Bei besonderen Vorkommnissen in der Schule legt die Abteilungsleitung in Absprache mit den Schulleitungen und den zuständigen Stellen der Gemeinde sowie in Koordination mit der Leiterin oder dem Leiter der Volksschule das Vorgehen fest.
 
@@ -125,7 +126,7 @@ erlässt gestützt auf die Ordnung für die Schulen der Gemeinden Bettingen und 
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Schulleitungen sind für Entscheide zuständig, sofern nicht die Leitung Gemeindeschulen gemäss den §§ 4 bis 6 zuständig ist.
+<sup>1</sup> Die Schulleitungen sind für Entscheide zuständig, sofern nicht die Abteilungsleitung gemäss den §§ 4 bis 6 zuständig ist.
 
 #### § 8
 
@@ -196,7 +197,7 @@ c) zwei schulinterne Mitglieder:
 
 <sup>4</sup> Bei Konflikten in der Schule sind die Präsidien und die Schulratsmitglieder zur Verschwiegenheit verpflichtet.
 
-<sup>5</sup> Nach Beendigung des Amts übergeben sie alle Dokumente, die sie im Zusammenhang mit ihrem Amt erhalten haben, der Leitung Gemeindeschulen. Sie sind weiterhin zur Verschwiegenheit verpflichtet.
+<sup>5</sup> Nach Beendigung des Amts übergeben sie alle Dokumente, die sie im Zusammenhang mit ihrem Amt erhalten haben, der zuständigen Abteilungsleitung. Sie sind weiterhin zur Verschwiegenheit verpflichtet.
 
 #### § 10b
 
@@ -433,11 +434,15 @@ c) zwei schulinterne Mitglieder:
 
 #### § 32
 
-**Entschädigung für die Arbeit in Arbeitsgruppen**
+**Entschädigung für Aufgaben ausserhalb des Berufsauftrags**
 
 <sup>1</sup> Die Arbeit von Lehrpersonen in Arbeitsgruppen auf übergeordneter Ebene, namentlich in kommunalen, kantonalen oder regionalen Arbeitsgruppen, wird mit einem Sitzungsgeld entschädigt, sofern die Sitzungen in der unterrichtsfreien Zeit stattfinden.
 
 <sup>2</sup> Die Höhe des Sitzungsgeldes richtet sich nach den kantonalen Richtlinien.
+
+<sup>3</sup> Nebenämter und Mentorate, insbesondere für die Verwaltung von Material, die Betreuung der schulinternen Bibliotheken, die Pensenlegungen und für die Einsätze bei Aufnahmeprüfungen, werden mit einer Pauschalen entschädigt. Die Verwaltungsleiterin oder der Verwaltungsleiter legt diese in Absprache mit der Abteilungsleitung und der Leitung des Fachbereichs Personal in einer Weisung fest.
+
+<sup>4</sup> Nachhilfeunterricht und freiwillige Hausaufgabenhilfe werden pro 2 Lektionen à 45 Minuten mit einer Unterrichtlektion entschädigt.
 
 #### § 33
 
