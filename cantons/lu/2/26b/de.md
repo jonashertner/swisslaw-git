@@ -4,13 +4,13 @@ number: 26b
 title: Verordnung über die Informatiksicherheit und über die Nutzung von Informatikmitteln
 short: Informatiksicherheitsverordnung
 language: de
-version: 2020-01-01
-valid_until: 2021-07-31
-version_adopted: 2019-12-10
+version: 2021-08-01
+valid_until: 2021-08-31
+version_adopted: 2021-03-02
 adopted: 2016-11-22
 in_force: 2017-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/26b"
-pdf: "https://srl.lu.ch/api/de/versions/3527/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3774/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3527/pdf_file"
 
 (Informatiksicherheitsverordnung)
 
-vom 22.11.2016 (Stand 01.01.2020)
+vom 22.11.2016 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -51,7 +51,9 @@ beschliesst:
 
 <sup>2</sup> Sie gilt jedoch auch für die gemäss Absatz 1 ausgenommenen sowie für weitere Stellen, Körperschaften, Organe und Anwenderinnen und Anwender, soweit diese Informatikmittel des Kantons Luzern benutzen.
 
-<sup>3</sup> Soweit diese Verordnung nichts anderes bestimmt, gelten für die Lernenden der kantonalen Schulen sinngemäss dieselben Vorschriften wie für die übrigen Anwenderinnen und Anwender.
+<sup>3</sup> Soweit diese Verordnung nichts anderes bestimmt, gelten für die Lernenden der kantonalen Schulen sinngemäss dieselben Vorschriften wie für die übrigen Anwenderinnen und Anwender. Falls Lernenden kantonale Geräte mit erweiterten Benutzerrechten zur Verfügung gestellt werden, gelten für diese Geräte die Bestimmungen für nichtkantonale Geräte.
+
+<sup>4</sup> Soweit die in den Absätzen 1–3 genannten Stellen, Körperschaften, Organe und Anwenderinnen und Anwender zur Bearbeitung von Informationen des Kantons Luzern nichtkantonale Geräte nutzen, finden für diese Geräte die §§ 4, 7, 8 Absätze 1 und 2, 9–16, 18, 20, 24 Absatz 3 und 26 keine Anwendung.
 
 #### § 3
 
@@ -59,7 +61,7 @@ beschliesst:
 
 <sup>1</sup> Informationen im Sinn dieser Verordnung sind Sach- und Personendaten.
 
-<sup>2</sup> Der Begriff der Informatikmittel richtet sich nach dem Informatikgesetz vom 7. März 2005[^3-1]. Informatikmittel sind Geräte, Einrichtungen und Dienste, wie insbesondere Computersysteme, Computerprogramme, Kommunikationsdienste, die der elektronischen Erfassung, Verarbeitung, Speicherung, Übermittlung, Auswertung, Archivierung oder Vernichtung von Informationen dienen. Falls damit Informationen des Kantons Luzern bearbeitet werden, fallen mit Ausnahme der §§ 4, 7, 8 Absätze 1 und 2, 9-16, 18, 20, 24 Absatz 3 und 26 auch nichtkantonale Geräte darunter.
+<sup>2</sup> Der Begriff der Informatikmittel richtet sich nach dem Informatikgesetz vom 7. März 2005[^3-1]. Informatikmittel sind Geräte, Einrichtungen und Dienste, wie insbesondere Computersysteme, Computerprogramme, Kommunikationsdienste, die der elektronischen Erfassung, Verarbeitung, Speicherung, Übermittlung, Auswertung, Archivierung oder Vernichtung von Informationen dienen.
 
 <sup>3</sup> Die Begriffe der Personendaten und der Organe richten sich nach dem Gesetz über den Schutz von Personendaten (Datenschutzgesetz) vom 2. Juli 1990[^3-2].
 
