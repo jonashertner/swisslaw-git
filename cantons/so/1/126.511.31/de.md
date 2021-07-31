@@ -3,20 +3,20 @@ canton: SO
 number: "126.511.31"
 title: Verordnung über die Sitzungsgelder und die Sitzungspauschalen
 language: de
-version: 2021-04-01
-valid_until: 2021-07-31
-version_adopted: 2021-01-25
+version: 2021-08-01
+valid_until: 2021-09-30
+version_adopted: 2021-03-30
 adopted: 2002-09-23
 in_force: 2003-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.511.31"
-pdf: "https://bgs.so.ch/api/de/versions/5069/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5108/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Sitzungsgelder und die Sitzungspauschalen
 
-Vom 23.09.2002 (Stand 01.04.2021)
+Vom 23.09.2002 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
