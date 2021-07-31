@@ -4,11 +4,11 @@ title: Legge federale del 21 dicembre 1948 sulla navigazione aerea (LNA)
 short: LNA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: it
-version: 2021-01-01
+version: 2021-08-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20210801/it/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210101/it"
 
 (LNA**[^t-1]**)
 
-del 21 dicembre 1948 (Stato 1° gennaio 2021)
+del 21 dicembre 1948 (Stato 1° agosto 2021)
 
 [^t-1]: Abbreviazione introdotta dal n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -202,7 +202,7 @@ L’UFAC può concludere con autorità aeronautiche estere o istituzioni interna
 <sup>2</sup> …[^6-3]
 
 [^6-1]: Nuovo testo giusta il n. I della LF del 18 giu. 1993, in vigore dal 1° gen. 1995 ([RU 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 540](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
-[^6-2]: Nuovo testo giusta il n. 82 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^6-2]: Nuovo testo giusta l’all. n. 82 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^6-3]: Abrogato dal n. I della LF del 1° ott. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4263](https://fedlex.data.admin.ch/eli/fga/2009/850)).
 
 ### 5. Allegati alla Convenzione di Chicago e collaborazione europea
@@ -488,7 +488,7 @@ L’UFAC può, d’intesa con le direzioni competenti del Dipartimento federale 
 
 <sup>2</sup> Sono riservate le competenze generali della polizia della Confederazione e dei Cantoni su gli aerodromi, gli idroscali e gli altri terreni messi al servizio della navigazione aerea.
 
-[^21-1]: Introdotto dal n. 6 dell’all. alla L del 20 mar. 2008 sulla coercizione ([RU 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [FF 2006 2327](https://fedlex.data.admin.ch/eli/fga/2006/250)). Abrogato dal n. I della LF del 16 giu. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^21-1]: Introdotto dall’all. n. 6 della L del 20 mar. 2008 sulla coercizione ([RU 2008 5463](https://fedlex.data.admin.ch/eli/oc/2008/759); [FF 2006 2327](https://fedlex.data.admin.ch/eli/fga/2006/250)). Abrogato dal n. I della LF del 16 giu. 2017, con effetto dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### 2. Guardie di sicurezza nel traffico aereo
 
@@ -1269,7 +1269,7 @@ Entro gli allineamenti non può essere eseguita alcuna trasformazione edilizia o
 <sup>3</sup> I principi dell’indebito arricchimento s’applicano per analogia ai casi in cui è stata versata un’indennità. In caso di cambiamento di proprietario, il nuovo proprietario è tenuto alla restituzione. In caso di lite, decide la Commissione di stima. …[^37s-2]
 
 [^37s-1]: Introdotto dal n. I 13 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^37s-2]: Per. abrogato dal n. 82 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^37s-2]: Per. abrogato dall’all. n. 82 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### C. Atti preparatori
 
@@ -2340,7 +2340,11 @@ Con riserva degli articoli 89 capoverso 3, 89*a* capoverso 3 e 97 della presente
 [^96-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^96-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-### 2. Reati a bordo di aeromobili svizzeri
+### 2. Reati a bordo di aeromobili svizzeri o di aeromobili stranieri che atterrano in Svizzera
+
+[^part2-tit5-chap2-lvlI-lvl2-1]
+
+[^part2-tit5-chap2-lvlI-lvl2-1]: Nuovo testo giusta l’all. del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero il Protocollo emendativo della Convenzione di Tokyo, in vigore dal 1° ago. 2021 ([RU 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 97
 
@@ -2348,15 +2352,18 @@ Con riserva degli articoli 89 capoverso 3, 89*a* capoverso 3 e 97 della presente
 
 <sup>1</sup> Il diritto penale svizzero è applicabile anche agli atti commessi fuori della Svizzera a bordo di un aeromobile svizzero.
 
+<sup>1bis</sup> È applicabile anche ai crimini e ai delitti, nonché alle contravvenzioni di cui all’articolo 91 capoverso 1 lettera g, commessi fuori della Svizzera a bordo di un aeromobile straniero se l’aeromobile atterra in Svizzera e l’autore è ancora a bordo.[^97-2]
+
 <sup>2</sup> I membri dell’equipaggio di un aeromobile svizzero soggiacciono inoltre al diritto penale svizzero anche se hanno commesso il reato fuori dell’aeromobile nell’adempimento delle loro funzioni professionali.
 
 <sup>3</sup> Il giudizio è ammesso soltanto se l’autore si trova nella Svizzera e non è stato estradato all’estero o quando è stato estradato alla Confederazione a cagione dell’atto commesso.
 
-<sup>4</sup> L’articolo 6 capoversi 3 e 4 del Codice penale svizzero[^97-2] è applicabile.[^97-3]
+<sup>4</sup> L’articolo 6 capoversi 3 e 4 del Codice penale svizzero[^97-3] è applicabile.[^97-4]
 
 [^97-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977, in vigore dal 1° gen. 1978 ([RU 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1235](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
-[^97-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^97-3]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^97-2]: Introdotto dall’all. del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero il Protocollo emendativo della Convenzione di Tokyo, in vigore dal 1° ago. 2021 ([RU 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468); [FF 2020 4579](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+[^97-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^97-4]: Nuovo testo giusta il n. I della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### II. Giurisdizione
 

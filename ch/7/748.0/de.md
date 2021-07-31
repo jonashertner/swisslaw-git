@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. Dezember 1948 über die Luftfahrt (Luftfahrtgesetz,
 short: LFG
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: de
-version: 2021-01-01
+version: 2021-08-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20210801/de/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210101/de"
 
 (Luftfahrtgesetz, LFG)**[^t-1]**
 
-vom 21. Dezember 1948 (Stand am 1. Januar 2021)
+vom 21. Dezember 1948 (Stand am 1. August 2021)
 
 [^t-1]: Abkürzung eingefügt gemäss Ziff. I des BG vom 24. Juni 1977, in Kraft seit 1. Jan. 1978 ([AS 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [BBl 1976 III 1232](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 
@@ -2320,7 +2320,11 @@ Soweit die Artikel 89 Absatz 3, 89*a* Absatz 3 und 97 dieses Gesetzes oder die A
 [^96-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^96-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-### 2. Strafbare Handlungen an Bord von schweizerischen Luftfahrzeugen
+### 2. Strafbare Handlungen an Bord von schweizerischen Luftfahrzeugen oder von ausländischen Luftfahrzeugen, die in der Schweiz landen
+
+[^part2-tit5-chap2-lvlI-lvl2-1]
+
+[^part2-tit5-chap2-lvlI-lvl2-1]: Fassung gemäss Anhang des BB vom 18. Dez. 2020 über die Genehmigung des Prot. zur Änderung des Abk. von Tokio, in Kraft seit 1. Aug. 2021 ([AS 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 97
 
@@ -2328,15 +2332,18 @@ Soweit die Artikel 89 Absatz 3, 89*a* Absatz 3 und 97 dieses Gesetzes oder die A
 
 <sup>1</sup> Das schweizerische Strafrecht gilt auch für Taten, die an Bord eines schweizerischen Luftfahrzeugs ausserhalb der Schweiz verübt werden.
 
+<sup>1bis</sup> Es gilt auch für Verbrechen und Vergehen sowie für Übertretungen nach Artikel 91 Absatz 1 Buchstabe g, die an Bord eines ausländischen Luftfahrzeugs ausserhalb der Schweiz begangen werden, wenn das Luftfahrzeug in der Schweiz landet und der Täter sich noch an Bord befindet.[^97-2]
+
 <sup>2</sup> Mitglieder der Besatzung eines schweizerischen Luftfahrzeugs unterstehen dem schweizerischen Strafrecht, auch wenn sie die Tat ausserhalb des Luftfahrzeugs im Zusammenhang mit ihren dienstlichen Verrichtungen verübt haben.
 
 <sup>3</sup> Die gerichtliche Beurteilung ist nur zulässig, wenn sich der Täter in der Schweiz befindet und nicht an das Ausland ausgeliefert wird oder wenn er der Eidgenossenschaft wegen dieser Tat ausgeliefert wird.
 
-<sup>4</sup> Artikel 6 Absätze 3 und 4 des Strafgesetzbuchs[^97-2] ist anwendbar.[^97-3]
+<sup>4</sup> Artikel 6 Absätze 3 und 4 des Strafgesetzbuchs[^97-3] ist anwendbar.[^97-4]
 
 [^97-1]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977, in Kraft seit 1. Jan. 1978 ([AS 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [BBl 1976 III 1232](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
-[^97-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^97-3]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^97-2]: Eingefügt durch Anhang des BB vom 18. Dez. 2020 über die Genehmigung des Prot. zur Änderung des Abk. von Tokio, in Kraft seit 1. Aug. 2021 ([AS 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468); [BBl 2020 5123](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+[^97-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^97-4]: Fassung gemäss Ziff. I des BG vom 16. Juni 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [BBl 2016 7133](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### II. Gerichtsbarkeit
 

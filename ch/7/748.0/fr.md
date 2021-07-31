@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 décembre 1948 sur l'aviation (LA)"
 short: LA
 eli: "https://fedlex.data.admin.ch/eli/cc/1950/471_491_479"
 language: fr
-version: 2021-01-01
+version: 2021-08-01
 adopted: 1948-12-21
 in_force: 1950-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1950/471_491_479/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-1950-471_491_479-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1950/471_491_479/20210101/fr"
 
 (LA)**[^t-1]** **[^t-2]**
 
-du 21 décembre 1948 (Etat le 1<sup>er</sup> janvier 2021)
+du 21 décembre 1948 (Etat le 1<sup>er</sup> août 2021)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 24 juin 1977, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1267](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> janv. 1995 ([RO 1994 3010](https://fedlex.data.admin.ch/eli/oc/1994/3010_3010_3010); [FF 1992 I 587](https://fedlex.data.admin.ch/eli/fga/1992/1_607_587_540)).
@@ -2327,7 +2327,11 @@ Une concession accordée en vertu des art. 28, 30 ou 37[^93-1] peut être retir�
 [^96-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 [^96-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
-### 2. Actes punissables commis à bord d’aéronefs suisses
+### 2. Actes punissables commis à bord d’aéronefs suisses ou à bord d’aéronefs étrangers atterrissant en Suisse
+
+[^part2-tit5-chap2-lvlI-lvl2-1]
+
+[^part2-tit5-chap2-lvlI-lvl2-1]: Nouvelle teneur selon l’annexe de l’AF du 18 déc. 2020 portant approbation et mise en œuvre du protocole portant amendement de la convention de Tokyo, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468); [FF 2020 4981](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
 
 #### Art. 97
 
@@ -2335,15 +2339,18 @@ Une concession accordée en vertu des art. 28, 30 ou 37[^93-1] peut être retir�
 
 <sup>1</sup> Le droit pénal suisse s’applique également aux actes commis en dehors de la Suisse, à bord d’un aéronef suisse.
 
+<sup>1bis</sup> Il s’applique également aux crimes et aux délits ainsi qu’aux contraventions visées à l’art. 91, al. 1, let. g, commis à bord d’un aéronef étranger en dehors de la Suisse lorsque l’aéronef atterrit en Suisse et que l’auteur est toujours à bord.[^97-2]
+
 <sup>2</sup> De plus, les membres de l’équipage d’un aéronef suisse sont soumis au droit pénal suisse s’ils ont commis l’acte hors de l’aéronef dans l’exercice de leurs fonctions professionnelles.
 
 <sup>3</sup> Un jugement ne peut être prononcé que si l’auteur se trouve en Suisse et n’en est pas extradé ou s’il y a été extradé en raison de cet acte.
 
-<sup>4</sup> L’art. 6, al. 3 et 4, du code pénal[^97-2] est applicable.[^97-3]
+<sup>4</sup> L’art. 6, al. 3 et 4, du code pénal[^97-3] est applicable.[^97-4]
 
 [^97-1]: Nouvelle teneur selon le ch. I de la LF du 24 juin 1977, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 2110](https://fedlex.data.admin.ch/eli/oc/1977/2110_2110_2110); [FF 1976 III 1267](https://fedlex.data.admin.ch/eli/fga/1976/3_1232_1267_1235)).
-[^97-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^97-3]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
+[^97-2]: Introduit par l’annexe de l’AF du 18 déc. 2020 portant approbation et mise en œuvre du protocole portant amendement de la convention de Tokyo, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 468](https://fedlex.data.admin.ch/eli/oc/2021/468); [FF 2020 4981](https://fedlex.data.admin.ch/eli/fga/2020/1224)).
+[^97-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^97-4]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 ### II. Juridiction
 
