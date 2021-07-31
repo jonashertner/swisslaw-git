@@ -4,13 +4,13 @@ number: "817.191"
 title: Ordonnance sur le contrôle des viandes
 short: OCoV
 language: fr
-version: 2021-04-01
-valid_until: 2021-07-31
-version_adopted: 2021-02-17
+version: 2021-08-01
+valid_until: 2025-10-31
+version_adopted: 2021-06-30
 adopted: 1996-10-23
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/817.191"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2171/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2325/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2171/pdf_file"
 
 (OCoV)
 
-du 23.10.1996 (état au 01.04.2021)
+du 23.10.1996 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -47,7 +47,7 @@ arrête:
 
 <sup>1</sup> L'Office des affaires vétérinaires exécute les dispositions de la législation sur les denrées alimentaires relevant du champ d'application de la présente ordonnance.
 
-<sup>2</sup> L'Office des affaires vétérinaires, le Laboratoire cantonal et l'Office du médecin cantonal coordonnent leur activité d'exécution.
+<sup>2</sup> Le Service vétérinaire cantonal, le Laboratoire cantonal et l'Office de la santé coordonnent leur activité d'exécution.
 
 <sup>3</sup> Pour des tâches de contrôle spéciales, il peut être fait appel à la collaboration d'autres autorités.
 
