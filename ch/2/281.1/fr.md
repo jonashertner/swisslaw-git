@@ -4,11 +4,11 @@ title: Loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la failli
 short: LP
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: fr
-version: 2020-10-20
+version: 2021-08-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20201020/fr/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20201020-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20201020/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20201020/fr"
 
 (LP)**[^t-1]**
 
-du 11 avril 1889 (Etat le 20 octobre 2020)
+du 11 avril 1889 (Etat le 1<sup>er</sup> août 2021)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3473,7 +3473,7 @@ Dans les délais fixés pour les créances de première et de deuxième classes,
 
 #### Art. 223
 
-<sup>1</sup> L’office fait fermer et met sous scellés les magasins, dépôts de marchandises, ateliers, débits, etc., à moins que ces Établiissements ne puissent être administrés sous contrôle jusqu’à la première assemblée des créanciers.
+<sup>1</sup> L’office fait fermer et met sous scellés les magasins, dépôts de marchandises, ateliers, débits, etc., à moins que ces établissements ne puissent être administrés sous contrôle jusqu’à la première assemblée des créanciers.
 
 <sup>2</sup> Il prend sous sa garde l’argent comptant, les valeurs, livres de comptabilité, livres de ménage et actes de quelque importance.
 
@@ -3748,6 +3748,43 @@ Les dispositions des art. 8 à 11, 13, 14, al. 2, ch. 1, 2 et 4, ainsi que des a
 
 [^242-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
+### 3*a*. Restitution de cryptoactifs
+
+#### Art. 242a
+
+[^242a-1]
+
+<sup>1</sup> L’administration de la faillite rend une décision sur la restitution des cryptoactifs dont le failli a le pouvoir de disposer à l’ouverture de la faillite et qui sont revendiqués par un tiers.
+
+<sup>2</sup>
+
+La revendication est fondée lorsque le failli s’est engagé à les tenir en tout temps à la disposition du tiers et que ceux-ci:
+
+- a. sont attribués individuellement à ce tiers, ou
+- b. sont attribués à une communauté et que la part qui revient au tiers est clairement déterminée.
+
+<sup>3</sup> L’administration de la faillite impartit à celui dont elle conteste le droit un délai de 20 jours pour intenter son action au for de la faillite. Passé ce délai, la revendication du tiers est périmée.
+
+<sup>4</sup> Les frais de restitution sont à la charge du requérant. L’administration de la faillite peut exiger qu’il en fasse l’avance.
+
+[^242a-1]: Introduit par le ch. I 2 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### 3*b*. Données: accès et restitution
+
+#### Art. 242b
+
+[^242b-1]
+
+<sup>1</sup> Un tiers qui atteste un droit légal ou contractuel à des données dont la masse a le pouvoir de disposer peut exiger, selon le type de droit dont il dispose, d’accéder à ces données ou de les faire restituer par la masse qui a le pouvoir d’en disposer.
+
+<sup>2</sup> L’administration impartit à celui dont elle conteste le droit un délai de 20 jours pour intenter son action au for de la faillite. Les données ne doivent pas être détruites ni réalisées tant que la décision du juge n’est pas définitive.
+
+<sup>3</sup> Les frais d’accès aux données ou de leur restitution sont à la charge du requérant. L’administration de la faillite peut exiger qu’il en fasse l’avance.
+
+<sup>4</sup> Le droit d’accès prévu par les dispositions fédérales ou cantonales en matière de protection des données est réservé.
+
+[^242b-1]: Introduit par le ch. I 2 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
 ### 4. Encaissement des créances. Réalisation d’urgence
 
 #### Art. 243
@@ -3786,7 +3823,7 @@ Les créances inscrites au registre foncier sont admises avec l’intérêt cour
 
 ### D. État de collocation
 
-### 1. Établiissement
+### 1. Établissement
 
 #### Art. 247
 

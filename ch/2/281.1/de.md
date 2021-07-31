@@ -4,11 +4,11 @@ title: Bundesgesetz vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG
 short: SchKG
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: de
-version: 2020-10-20
+version: 2021-08-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20201020/de/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20201020-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20201020/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20210801/de/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20201020/de"
 
 (SchKG)**[^t-1]**
 
-vom 11. April 1889 (Stand am 20. Oktober 2020)
+vom 11. April 1889 (Stand am 1. August 2021)
 
 [^t-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3726,6 +3726,43 @@ Die Artikel 8–11, 13, 14 Absatz 2 Ziffern 1, 2 und 4 sowie die Artikel 17–19
 <sup>3</sup> Beansprucht die Masse bewegliche Sachen, die sich im Gewahrsam oder Mitgewahrsam eines Dritten befinden, oder Grundstücke, die im Grundbuch auf den Namen eines Dritten eingetragen sind, als Eigentum des Schuldners, so muss sie gegen den Dritten klagen.
 
 [^242-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+
+### 3*a*. Herausgabe kryptobasierter Vermögenswerte
+
+#### Art. 242a
+
+[^242a-1]
+
+<sup>1</sup> Die Konkursverwaltung trifft eine Verfügung über die Herausgabe kryptobasierter Vermögenswerte, über die der Gemeinschuldner zum Zeitpunkt der Konkurseröffnung die Verfügungsmacht innehat und die von einem Dritten beansprucht werden.
+
+<sup>2</sup>
+
+Der Anspruch ist begründet, wenn der Gemeinschuldner sich verpflichtet hat, die kryptobasierten Vermögenswerte für den Dritten jederzeit bereitzuhalten und diese:
+
+- a. dem Dritten individuell zugeordnet sind; oder
+- b. einer Gemeinschaft zugeordnet sind und ersichtlich ist, welcher Anteil am Gemeinschaftsvermögen dem Dritten zusteht.
+
+<sup>3</sup> Hält die Konkursverwaltung den Anspruch für unbegründet, so setzt sie dem Dritten eine Frist von 20 Tagen, innert der er beim Gericht am Konkursort Klage einreichen kann. Hält er diese Frist nicht ein, so ist der Anspruch verwirkt.
+
+<sup>4</sup> Die Kosten für die Herausgabe sind von demjenigen zu übernehmen, der diese verlangt. Die Konkursverwaltung kann einen entsprechenden Vorschuss verlangen.
+
+[^242a-1]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### 3*b*. Zugang zu Daten und deren Herausgabe
+
+#### Art. 242b
+
+[^242b-1]
+
+<sup>1</sup> Befinden sich Daten in der Verfügungsmacht der Konkursmasse, so kann jeder Dritte, der eine gesetzliche oder vertragliche Berechtigung an den Daten nachweist, je nach Art der Berechtigung den Zugang zu diesen Daten oder deren Herausgabe aus der Verfügungsmacht der Konkursmasse verlangen.
+
+<sup>2</sup> Hält die Konkursverwaltung den Anspruch für unbegründet, so setzt sie dem Dritten eine Frist von 20 Tagen, innert der er beim Gericht am Konkursort Klage einreichen kann. Bis zum rechtskräftigen Entscheid des Gerichts dürfen die Daten nicht vernichtet oder verwertet werden.
+
+<sup>3</sup> Die Kosten für den Zugang zu den Daten oder für deren Herausgabe sind von demjenigen zu übernehmen, der den Zugang verlangt. Die Konkursverwaltung kann einen entsprechenden Vorschuss verlangen.
+
+<sup>4</sup> Vorbehalten bleibt das Auskunftsrecht nach den Datenschutzbestimmungen des Bundes oder der Kantone.
+
+[^242b-1]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### 4. Forderungseinzug. Notverkauf
 

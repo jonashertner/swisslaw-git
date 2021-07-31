@@ -4,11 +4,11 @@ title: "Legge federale dell'11 aprile 1889 sulla esecuzione e sul fallimento (LE
 short: LEF
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: it
-version: 2020-10-20
+version: 2021-08-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20201020/it/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20201020-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20201020/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20210801/it/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20201020/it"
 
 (LEF)**[^t-1]**
 
-dell’11 aprile 1889 (Stato 20 ottobre 2020)
+dell’11 aprile 1889 (Stato 1° agosto 2021) (Stato 1° agosto 2021)
 
 [^t-1]: Abbreviazione introdotta dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3738,6 +3738,43 @@ Le disposizioni contenute negli articoli 8 a 11, 13, 14 capoverso 2 numeri 1, 2 
 <sup>3</sup> La massa che rivendica come proprietà del fallito beni mobili in possesso o copossesso di terzi oppure fondi iscritti nel registro fondiario a nome di terzi deve promuovere azione contro di essi.
 
 [^242-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+
+### 3*a*. Restituzione di beni crittografici
+
+#### Art. 242a
+
+[^242a-1]
+
+<sup>1</sup> L’amministrazione del fallimento decide se devono essere restituiti i beni crittografici di cui il fallito ha la facoltà di disporre al momento della dichiarazione di fallimento e che sono rivendicati da un terzo.
+
+<sup>2</sup>
+
+La pretesa del terzo è fondata se il fallito si è impegnato a mettere in ogni momento a disposizione del terzo i beni crittografici e questi sono attribuiti:
+
+- a. individualmente al terzo; o
+- b. a una comunione e la parte che spetta al terzo è chiaramente determinata.
+
+<sup>3</sup> Se ritiene infondata la pretesa del terzo, l’amministrazione del fallimento gli impartisce un termine di venti giorni per promuovere l’azione avanti al giudice del luogo del fallimento. Se il terzo non osserva questo termine, il diritto è perento.
+
+<sup>4</sup> Le spese per la restituzione sono a carico del richiedente. L’amministrazione del fallimento può pretendere una conveniente anticipazione delle medesime.
+
+[^242a-1]: Introdotto dal n. I 2 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### 3*b*. Accesso ai dati e loro restituzione
+
+#### Art. 242b
+
+[^242b-1]
+
+<sup>1</sup> Il terzo che dimostra un diritto legale o contrattuale ai dati di cui la massa ha la facoltà di disporre può, a seconda del tipo di diritto, chiedere l’accesso a tali dati o la loro restituzione da parte della massa.
+
+<sup>2</sup> Se ritiene infondata la pretesa del terzo, l’amministrazione del fallimento gli impartisce un termine di venti giorni per promuovere l’azione avanti al giudice del luogo del fallimento. I dati non possono essere distrutti o realizzati prima del passaggio in giudicato della decisione del giudice.
+
+<sup>3</sup> Le spese per l’accesso ai dati o per la loro restituzione sono a carico del richiedente. L’amministrazione del fallimento può pretendere una conveniente anticipazione delle medesime.
+
+<sup>4</sup> È fatto salvo il diritto d’accesso secondo le disposizioni federali o cantonali sulla protezione dei dati.
+
+[^242b-1]: Introdotto dal n. I 2 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### 4. Riscossione dei crediti. Realizzazione d’urgenza
 

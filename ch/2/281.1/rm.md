@@ -4,11 +4,11 @@ title: "Lescha federala dals 11 d'avrigl 1889 dadavart la scussiun ed il concurs
 short: LSC
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: rm
-version: 2020-10-20
+version: 2021-08-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20201020/rm/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20201020-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20201020/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20210801/rm/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20210801-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20210801/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LSC)**[^t-1]**
 
-dals 11 d’avrigl 1889 (versiun dals 20 d’october 2020)
+dals 11 d’avrigl 1889 (versiun dal 1. d’avust 2021)
 
 [^t-1]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -277,7 +277,7 @@ Cunter in funcziunari u emploià pon vegnir prendidas las suandantas mesiras dis
 
 <sup>5</sup> El coordinescha la communicaziun electronica tranter ils uffizis da scussiun e da concurs, ils uffizis dal register funsil e dal register da commerzi, las dretgiras ed il public.[^15-3]
 
-[^15-1]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 17 da zer. 2005 davart il Tribunal federal, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^15-1]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 17 da zer. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^15-2]: Abolì tras la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, cun effect dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^15-3]: Integrà tras la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -326,7 +326,7 @@ Cunter in funcziunari u emploià pon vegnir prendidas las suandantas mesiras dis
 
 Il recurs tar il Tribunal federal sa drizza tenor la Lescha federala dals 17 da zercladur 2005[^19-2] davart il Tribunal federal.
 
-[^19-1]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 17 da zer. 2005 davart il Tribunal federal, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^19-1]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 17 da zer. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^19-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 
 ### 4. Termins da recurs per la scussiun sin cambialas
@@ -339,7 +339,7 @@ Per la scussiun sin cambialas importan ils termins per far recurs mo 5 dis; l’
 
 [^tit1-lvlI-lvlM-lvl5-1]
 
-[^tit1-lvlI-lvlM-lvl5-1]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 17 da zer. 2005 davart il Tribunal federal, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^tit1-lvlI-lvlM-lvl5-1]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 17 da zer. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 20a
 
@@ -360,10 +360,10 @@ Per la procedura davant las autoritads da surveglianza chantunalas valan las sua
 <sup>3</sup> Dal rest reglan ils chantuns la procedura.
 
 [^20a-1]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^20a-2]: Abolì tras la cifra 6 da l’agiunta da la LF dals 17 da zer. 2005 davart il Tribunal federal, cun effect dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^20a-3]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 17 da zer. 2005 davart il Tribunal federal, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^20a-2]: Abolì tras la cifra 6 da l’agiunta da la LF dals 17 da zer. 2005 davart il TF, cun effect dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^20a-3]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 17 da zer. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^20a-4]: Versiun tenor la cifra I 6 da l’O da l’AF dals 20 da dec. 2006 davart l’adattaziun da decrets a las disposiziuns da la LF davart il TF e da la LF davart il TAF, en vigur dapi il 1. da schan. 2007 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
-[^20a-5]: Integrà tras la cifra 6 da l’agiunta da la LF dals 17 da zer. 2005 davart il Tribunal federal, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^20a-5]: Integrà tras la cifra 6 da l’agiunta da la LF dals 17 da zer. 2005 davart il TF, en vigur dapi il 1. da schan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 6. Decisiun da recurs
 
@@ -3728,6 +3728,43 @@ Ils artitgels 8–11, 13, 14 alinea 2 cifras 1, 2 e 4 sco er ils artitgels 17–
 <sup>3</sup> Sche la massa pretenda che chaussas moviblas ch’èn en possess u en cumpossess d’in terz, u che bains immobigliars ch’èn inscrits en il register funsil sin il num d’in terz, sajan proprietad dal debitur, sto ella purtar plant cunter il terz.
 
 [^242-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+
+### 3*a*. Consegna da valurs da facultad criptograficas
+
+#### Art. 242a
+
+[^242a-1]
+
+<sup>1</sup> L’administraziun dal concurs pronunzia ina disposiziun davart la consegna da valurs da facultad criptograficas, da las qualas il concursit ha la cumpetenza da disponer il mument da la decleraziun da concurs e las qualas vegnan pretendidas d’in terz.
+
+<sup>2</sup>
+
+La pretensiun è motivada, sch’il concursit è s’obligà da tegnair a disposiziun las valurs da facultad criptograficas da tut temp per il terz e sche questas valurs:
+
+- a. èn attribuidas individualmain al terz; u
+- b. èn attribuidas ad ina cuminanza ed igl è determinà cleramain, tge part da la facultad cuminaivla che tutga al terz.
+
+<sup>3</sup> Sche l’administraziun dal concurs è da l’avis che la pretensiun saja nunmotivada, fixescha ella in termin da 20 dis per il terz, entaifer il qual el po purtar plant davant la dretgira dal lieu da concurs. Sch’el n’observa betg quest termin, scada il dretg.
+
+<sup>4</sup> Ils custs per la consegna ston vegnir surpigliads da quel che pretenda la consegna. L’administraziun dal concurs po pretender in pajament anticipà correspundent.
+
+[^242a-1]: Integrà tras la cifra I 2 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. d’avust 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### 3*b*. Access a datas e consegna da datas
+
+#### Art. 242b
+
+[^242b-1]
+
+<sup>1</sup> Mintga terz che cumprova in dretg legal u contractual sin datas, da las qualas la massa da concurs ha la cumpetenza da disponer, po pretender – tut tenor il tip dal dretg – ch’el survegnia access a questas datas u che la massa da concurs consegnia las datas or da sia cumpetenza da disponer.
+
+<sup>2</sup> Sche l’administraziun dal concurs è da l’avis che la pretensiun saja nunmotivada, fixescha ella in termin da 20 dis per il terz, entaifer il qual el po purtar plant davant la dretgira dal lieu da concurs. Fin ch’ina decisiun legalmain valaivla da la dretgira n’è betg avant maun, na dastgan las datas betg vegnir destruidas u utilisadas.
+
+<sup>3</sup> Ils custs per l’access a las datas u per la consegna da las datas ston vegnir surpigliads da quel che pretenda l’access. L’administraziun dal concurs po pretender in pajament anticipà correspundent.
+
+<sup>4</sup> Resalvà resta il dretg da dar infurmaziuns tenor las disposiziuns davart la protecziun da datas da la Confederaziun u dals chantuns.
+
+[^242b-1]: Integrà tras la cifra I 2 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. d’avust 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### 4. Pretensiun dals debits. Vendita sfurzada
 
