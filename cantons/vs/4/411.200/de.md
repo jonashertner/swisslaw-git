@@ -3,33 +3,35 @@ canton: VS
 number: "411.200"
 title: Verordnung über die überregionalen Strukturen der Orientierungsschule
 language: de
-version: 2012-09-01
-corrected: 2017-09-06
-version_adopted: 2011-01-12
+version: 2021-08-01
+version_adopted: 2021-09-01
 adopted: 2011-01-12
 in_force: 2011-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/411.200"
-pdf: "https://lex.vs.ch/api/de/versions/545/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2950/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die überregionalen Strukturen der Orientierungsschule
 
-vom 12. Januar 2011
+vom 12.01.2011 (Stand 01.08.2021)
 
-Der Staatsrat des Kantons Wallis eingesehen die Artikel 8, 43, 56, 58 und 59 des Gesetzes über die Orientierungsschule vom 10. September 2009;
+Der Staatsrat des Kantons Wallis
 
-auf Antrag des Departements für Erziehung, Kultur und Sport, verordnet:
+eingesehen die Artikel 8, 43, 56, 58 und 59 des Gesetzes über die Orientierungsschule vom 10. September 2009;
 
-### 1. Abschnitt: Allgemeines
+auf Antrag des für die Bildung zuständigen Departements,
+
+verordnet:
+
+## 1 Allgemeines
 
 #### Art. 1
 
 **Anwendungsbereich**
 
-Die vorliegende Verordnung ist auf alle Orientierungsschulen des Kantons Wallis anwendbar. Sie regelt die überregionalen Strukturen.
+<sup>1</sup> Die vorliegende Verordnung ist auf alle Orientierungsschulen des Kantons Wallis anwendbar. Sie regelt die überregionalen Strukturen.
 
 #### Art. 2
 
@@ -43,13 +45,13 @@ Die vorliegende Verordnung ist auf alle Orientierungsschulen des Kantons Wallis 
 
 **Definition**
 
-Unter «überregionaler Struktur» versteht man jede schulische Organisationsform, die eine Zusammenführung von Schülern aus mehreren Orientierungsschulen oder eine Koordination von mehreren Orientierungsschulen erfordert, damit besondere Aufgaben wahrgenommen werden können.
+<sup>1</sup> Unter "überregionaler Struktur" versteht man jede schulische Organisationsform, die eine Zusammenführung von Schülern aus mehreren Orientierungsschulen oder eine Koordination von mehreren Orientierungsschulen erfordert, damit besondere Aufgaben wahrgenommen werden können.
 
 #### Art. 4
 
 **Aufgaben und Ziele**
 
-Eine überregionale Struktur hat die Aufgabe, auf besondere und spezifische Bedürfnisse im Bereich Erziehung, Schule oder anerkannter, persönlicher Projekte zu antworten.
+<sup>1</sup> Eine überregionale Struktur hat die Aufgabe, auf besondere und spezifische Bedürfnisse im Bereich Erziehung, Schule oder anerkannter, persönlicher Projekte zu antworten.
 
 #### Art. 5
 
@@ -59,57 +61,57 @@ Eine überregionale Struktur hat die Aufgabe, auf besondere und spezifische Bed�
 
 <sup>2</sup> Der Staatsrat definiert die Beteiligung des Kantons, der Gemeinden, der Eltern und der Partner.
 
-<sup>3</sup> Das DEKS beschliesst Weisungen und/oder Leistungsaufträge für jede überregionale Struktur und bezeichnet die betroffenen Orientierungsschulen. <sup>1</sup>
+<sup>3</sup> Das für die Bildung zuständige Departement (nachstehend: das Departement) beschliesst Weisungen und/oder Leistungsaufträge für jede überregionale Struktur und bezeichnet die betroffenen Orientierungsschulen.
 
 #### Art. 6
 
-<sup>1</sup> Schulgeld
+**Schulgeld**
 
-Das Schulgeld geht ausschliesslich zulasten der Gemeinden.
+<sup>1</sup> Das Schulgeld geht ausschliesslich zulasten der Gemeinden.
 
 #### Art. 7
 
 **Zusammenarbeit**
 
-DEKS und Gemeinden arbeiten bei der Organisation der überregionalen Strukturen zusammen.
+<sup>1</sup> Das Departement und Gemeinden arbeiten bei der Organisation der überregionalen Strukturen zusammen.
 
-### 2. Abschnitt Überregionale Strukturen für die Entwicklung der Persönlichkeit
+## 2 Überregionale Strukturen für die Entwicklung der Persönlichkeit
 
-### 1. Kapitel Beteiligung der Partner
+### 2.1 Beteiligung der Partner
 
-#### Art. 7bis
+#### Art. 7a
 
-<sup>1</sup> Beteiligung der Wohngemeinde
+**Beteiligung der Wohngemeinde**
 
-Die Wohngemeinde entrichtet der Gemeinde respektive der Gemeindevereinigung, welche Schüler in einer Partnerschule des Sports, nachfolgend PSS, oder in einer immersiven Unterrichtsform unterrichtet, im Sinne eines Schulgeldes einen jährlichen Betrag von 2000 Franken und übernimmt die Transportkosten des Schülers. Sie beteiligt sich an den Essenskosten gemäss der auf Gemeindeebene geltenden Regelung.
+<sup>1</sup> Die Wohngemeinde entrichtet der Gemeinde respektive der Gemeindevereinigung, welche Schüler in einer Partnerschule des Sports (nachfolgend: PSS) oder in einer immersiven Unterrichtsform aufnimmt, im Sinne eines Schulgeldes einen jährlichen Beitrag von 2'000 Franken pro Schüler sowie den vom Staatsrat festgesetzten Pauschalbetrag pro Schüler im Sinne von Artikel 7 Absatz 1 des Reglements betreffend die Übernahme von Kosten für Schulmaterial und kulturelle und sportliche Aktivitäten in Zusammenhang mit der obligatorischen Schule. Die Wohngemeinde übernimmt die Transportkosten des Schülers und beteiligt sich an den Essenskosten gemäss der auf Gemeindeebene geltenden Regelung.
 
-#### Art. 7ter
+#### Art. 7b
 
-<sup>1</sup> Beteiligung der Gast-Orientierungsschule
+**Beteiligung der Gast-Orientierungsschule**
 
-<sup>1</sup> Die Gast-Orientierungsschule übernimmt das allfällige Schulgeld, welches die von der Wohngemeinde bezahlten 2000 Franken übersteigt.
+<sup>1</sup> Die Gast-Orientierungsschule übernimmt die allfälligen Schulgelder, welche den von der Wohngemeinde bezahlten jährlichen Beitrag und Pauschalbetrag übersteigen, die in Artikel 7a Absatz 1 erster Satz der vorliegenden Verordnung aufgeführt sind.
 
 <sup>2</sup> Die Gast-Orientierungsschule stellt den aufgenommenen Schülern ihre Infrastruktur sowie ihre Verwaltungsstruktur zur Verfügung.
 
-#### Art. 7quater
+#### Art. 7c
 
-<sup>1</sup> Beteiligung der Eltern
+**Beteiligung der Eltern**
 
-Die Eltern übernehmen die Essenskosten gemäss der auf Gemeindeebene geltenden Regelung sowie allfällige zusätzliche Kosten.
+<sup>1</sup> Die Eltern übernehmen die Essenskosten gemäss der auf Gemeindeebene geltenden Regelung sowie allfällige zusätzliche Kosten.
 
-### 2. Kapitel: Struktur Sport-Kunst-Ausbildung
+### 2.2 Struktur Sport-Kunst-Ausbildung
 
 #### Art. 8
 
 **Ziele**
 
-Die Struktur Sport-Kunst-Ausbildung, nachstehend S-K-A genannt, richtet sich an Schüler, die im Bereich Sport oder Kunst besonders begabt sind. Sie ermöglicht es, die Anforderungen des normalen Schulalltags mit dem Praktizieren einer sportlichen oder künstlerischen Tätigkeit auf hohem Niveau zu vereinbaren.
+<sup>1</sup> Die Struktur Sport-Kunst-Ausbildung (nachstehend: S-K-A) richtet sich an Schüler, die im Bereich Sport oder Kunst besonders begabt sind. Sie ermöglicht es, die Anforderungen des normalen Schulalltags mit dem Praktizieren einer sportlichen oder künstlerischen Tätigkeit auf hohem Niveau zu vereinbaren.
 
 #### Art. 9
 
-<sup>1</sup> Massnahmen S-K-A
+**Massnahmen S-K-A**
 
-Unter den möglichen S-K-A-Massnahmen versteht man „individuelle Massnahmen“, nachfolgend IM, oder den Besuch einer PSS.
+<sup>1</sup> Unter den möglichen S-K-A-Massnahmen versteht man "individuelle Massnahmen" (nachfolgend: IM) oder den Besuch einer PSS.
 
 #### Art. 10
 
@@ -119,33 +121,33 @@ Unter den möglichen S-K-A-Massnahmen versteht man „individuelle Massnahmen“
 
 <sup>2</sup> Die Gewährung von IM unterliegt der Kompetenz der Kommission S-K-A.
 
-<sup>3</sup> Jede Orientierungsschule, die einen oder mehrere Schüler mit IM unterrichtet, muss die Organisation dieser Massnahmen regeln. <sup>1</sup>
+<sup>3</sup> Jede Orientierungsschule, die einen oder mehrere Schüler mit IM unterrichtet, muss die Organisation dieser Massnahmen regeln.
 
 <sup>4</sup> IM werden als prioritäre Massnahmen angesehen, da sie es ermöglichen, den Schüler weiterhin in seinem sozialen und schulischen Umfeld zu betreuen.
 
 #### Art. 11
 
-**Partnerschule des Sports – PSS**
+**Partnerschule des Sports - PSS**
 
-<sup>1</sup> Das DEKS bestimmt die PSS und teilt ihnen einen Leistungsauftrag zu.
+<sup>1</sup> Das Departement bestimmt die PSS und teilt ihnen einen Leistungsauftrag zu.
 
 <sup>2</sup> Der Besuch einer PSS wird nur dann erlaubt, wenn die IM nicht eine zufrieden stellende künstlerische oder sportliche Entwicklung des betroffenen Schülers garantieren.
 
 <sup>3</sup> Der Besuch einer PSS unterliegt der Zustimmung der Kommission S-K-A.
 
-<sup>4</sup> Die PSS setzt die Klauseln des Leistungsauftrags um, der mit dem DEKS vereinbart wurde, und hält sich an diese. <sup>1</sup>
+<sup>4</sup> Die PSS setzt die Klauseln des Leistungsauftrags um, der mit dem Departement vereinbart wurde, und hält sich an diese.
 
 #### Art. 12
 
 **Aufgaben der Sportverbände und der Kunstausbildungsstätten**
 
-<sup>1</sup> Die Sportverbände und die Kunstausbildungsstätten legen der S-K-A-Kommission ein Konzept vor, in dem mindestens die Kriterien definiert sind, welche Anspruch auf Massnahmen geben. <sup>1</sup>
+<sup>1</sup> Die Sportverbände und die Kunstausbildungsstätten legen der S-K-A-Kommission ein Konzept vor, in dem mindestens die Kriterien definiert sind, welche Anspruch auf Massnahmen geben.
 
 <sup>2</sup> Die Kommission S-K-A gibt ihre Stellungnahme zum Konzept ab.
 
-<sup>3</sup> Das Konzept muss vom DEKS genehmigt werden.
+<sup>3</sup> Das Konzept muss vom Departement genehmigt werden.
 
-<sup>4</sup> Die Sportverbände und die Kunstausbildungsstätten arbeiten primär mit der S-K-A-Kommission, danach mit den Schuldirektionen der Orientierungsschulen und den PSS zusammen. <sup>1</sup>
+<sup>4</sup> Die Sportverbände und die Kunstausbildungsstätten arbeiten primär mit der S-K-A-Kommission, danach mit den Schuldirektionen der Orientierungsschulen und den PSS zusammen.
 
 #### Art. 13
 
@@ -153,23 +155,27 @@ Unter den möglichen S-K-A-Massnahmen versteht man „individuelle Massnahmen“
 
 <sup>1</sup> Die Kommission S-K-A wird vom Staatsrat ernannt.
 
-<sup>2</sup> Sie setzt sich aus Vertretern des DEKS zusammen.
+<sup>2</sup> Sie setzt sich aus Vertretern des Departements zusammen.
 
-<sup>3</sup> Die S-K-A-Kommission hat insbesondere folgende Kompetenzen: <sup>1</sup> a) sie setzt das vom Staatsrat angenommene kantonale S-K-A-Konzept um;
+<sup>3</sup> Die S-K-A-Kommission hat insbesondere folgende Kompetenzen:
 
-- b) sie gibt dem DEKS Vormeinungen ab zu den Konzepten der Sportverbände und der Kunstausbildungsstätten;
-
+- a) sie setzt das vom Staatsrat angenommene kantonale S-K-A-Konzept um;
+- b) sie gibt dem Departement Vormeinungen ab zu den Konzepten der Sportverbände und der Kunstausbildungsstätten;
 - c) sie kontrolliert deren Anwendung;
-
 - d) sie entscheidet über die Massnahmen, die zugunsten eines Schülers umgesetzt werden;
-
 - e) sie stellt die Information an die verschiedenen Partner sicher.
 
-#### Art. 14 bis
+#### Art. 14
 
-**16 <sup>1</sup>**
+**…**
 
-Aufgehoben
+#### Art. 15
+
+**…**
+
+#### Art. 16
+
+**…**
 
 #### Art. 17
 
@@ -177,13 +183,13 @@ Aufgehoben
 
 <sup>1</sup> Der Kanton gewährt jeder PSS Hilfe, um für die Umsetzung der Massnahmen S-K-A eine optimale Ausgangslage zu schaffen.
 
-<sup>2</sup> Die Auswirkung der Einschulung von Schülern in die PSS wird vom DEKS in der Stundendotation der OS der Wohngemeinde gewichtet.
+<sup>2</sup> Die Auswirkung der Einschulung von Schülern in die PSS wird vom Departement in der Stundendotation der OS der Wohngemeinde gewichtet.
 
 #### Art. 18
 
 **Verhalten des Schülers**
 
-<sup>1</sup> Der Schüler verpflichtet sich, das Schulreglement einzuhalten und im schulischen und sportlichen beziehungsweise künstlerischen Bereich seine Leistungen zu erbringen. <sup>1</sup>
+<sup>1</sup> Der Schüler verpflichtet sich, das Schulreglement einzuhalten und im schulischen und sportlichen beziehungsweise künstlerischen Bereich seine Leistungen zu erbringen.
 
 <sup>2</sup> Zeigt sich der Schüler undiszipliniert oder unmotiviert, können die Massnahmen S-K-A aufgehoben werden.
 
@@ -201,21 +207,21 @@ Aufgehoben
 
 **Information**
 
-Die Information in Bezug auf die Strukturen S-K-A untersteht der alleinigen Kompetenz der Kommission S-K-A.
+<sup>1</sup> Die Information in Bezug auf die Strukturen S-K-A untersteht der alleinigen Kompetenz der Kommission S-K-A.
 
 #### Art. 21
 
 **Kontrolle**
 
-Die Kommission S-K-A beauftragt den Schulinspektor des Schulkreises, Kontrollen durchzuführen.
+<sup>1</sup> Die Kommission S-K-A beauftragt den Schulinspektor des Schulkreises, Kontrollen durchzuführen.
 
-### 3. Kapitel: Immersiver Unterricht
+### 2.3 Immersiver Unterricht
 
 #### Art. 22
 
 **Definition**
 
-Unter immersivem Unterricht versteht man die Verwendung einer Fremdsprache in der Klasse als Lernmittel für traditionelle schulische Fächer und als Kommunikationsmittel.
+<sup>1</sup> Unter immersivem Unterricht versteht man die Verwendung einer Fremdsprache in der Klasse als Lernmittel für traditionelle schulische Fächer und als Kommunikationsmittel.
 
 #### Art. 23
 
@@ -237,33 +243,33 @@ Unter immersivem Unterricht versteht man die Verwendung einer Fremdsprache in de
 
 **Aufgaben des Büros für Schüleraustausch**
 
-Folgende Aufgaben fallen in den Bereich des Büros für Schüleraustausch, nachstehend BSA:
+<sup>1</sup> Folgende Aufgaben fallen in den Bereich des Büros für Schüleraustausch (nachstehend: BSA):
 
-- Kontaktaufnahme mit den verschiedenen Partnern, um die Möglichkeit eines immersiven Unterrichts zu fördern;
-
-- Gewährleistung der Kommunikation mit den Partnern;
-
-- Aktualisierung der Statistik.
+- a) Kontaktaufnahme mit den verschiedenen Partnern, um die Möglichkeit eines immersiven Unterrichts zu fördern;
+- b) Gewährleistung der Kommunikation mit den Partnern;
+- c) Aktualisierung der Statistik.
 
 #### Art. 26
 
 **Mögliche Formen immersiven Unterrichts**
 
-Es gibt folgende Formen immersiven Unterrichts: ganzjähriger Besuch einer Immersionsklasse, darin eingeschlossen der immersive Sprachaustausch; immersiver Sprachaufenthalt; bilingualer Studiengang.
+<sup>1</sup> Es gibt folgende Formen immersiven Unterrichts: ganzjähriger Besuch einer Immersionsklasse, darin eingeschlossen der immersive Sprachaustausch; immersiver Sprachaufenthalt; bilingualer Studiengang.
 
 #### Art. 27
 
 **Immersionsklasse**
 
-<sup>1</sup> Unter dem Begriff Immersionsklasse versteht man eine Regelklasse, in die bis zu vier Schüler der anderen Sprachregion des Kantons integriert werden. <sup>1</sup>
+<sup>1</sup> Unter dem Begriff Immersionsklasse versteht man eine Regelklasse, in die bis zu vier Schüler der anderen Sprachregion des Kantons integriert werden.
 
 <sup>2</sup> Alle Schüler im Orientierungsschulalter können einen Antrag auf die Eingliederung in eine Immersionsklasse stellen.
 
-<sup>3</sup> Auf Antrag der Eltern kann ein Schüler seine obligatorische Schulzeit verlängern und ein 10. Schuljahr in einer 3.OS der anderen Sprachregion des Kantons absolvieren.
+<sup>3</sup> Auf Antrag der Eltern kann ein Schüler seine obligatorische Schulzeit verlängern und ein 12. Schuljahr in einer 11OS der anderen Sprachregion des Kantons absolvieren.
 
 <sup>4</sup> Der Besuch einer Immersionsklasse ist grundsätzlich nur im Kanton Wallis möglich.
 
-<sup>5</sup> Die Dauer des Besuchs einer Immersionsklasse ist auf ein Schuljahr beschränkt. Es ist nicht möglich, ein zweites Jahr eine Immersionsklasse zu besuchen.
+<sup>5</sup> Die Dauer des Besuchs einer Immersionsklasse ist auf ein Schuljahr beschränkt.
+
+<sup>6</sup> Am Ende des Schuljahres in Immersion, kann der Schüler mit dem Einverständnis der Schuldirektion der Gastschule seine obligatorische Schulzeit in der anderen Sprachregion des Kantons weiterführen. Er gilt ab dann als normaler Schüler. Der Schüler profitiert in diesem Fall von den Leistungen, welche in den Artikeln 7a bis 7c der vorliegenden Verordnung beschrieben sind.
 
 #### Art. 28
 
@@ -271,7 +277,7 @@ Es gibt folgende Formen immersiven Unterrichts: ganzjähriger Besuch einer Immer
 
 <sup>1</sup> Der Schüler wird der Verantwortung der Schule unterstellt, die eine Immersionsklasse führt und dafür sorgt, optimale Bedingungen für den Empfang und die Integration des Schülers in sein neues schulisches Umfeld zu schaffen.
 
-<sup>2</sup> Die Eltern sind für die Lebensbedingungen (Transport, Mahlzeiten, evt. Wohnsituation…) des Schülers zuständig, der eine Immersionsklasse besucht.
+<sup>2</sup> Die Eltern sind für die Lebensbedingungen (Transport, Mahlzeiten, evt. Wohnsituation, usw.) des Schülers zuständig, der eine Immersionsklasse besucht.
 
 #### Art. 29
 
@@ -287,7 +293,7 @@ Es gibt folgende Formen immersiven Unterrichts: ganzjähriger Besuch einer Immer
 
 **Immersionsklasse in Form eines Sprachaustausches**
 
-<sup>1</sup> Von einem Sprachaustausch spricht man, wenn zwei Schüler aus verschiedenen Sprachregionen die Schule des jeweils anderen besuchen. <sup>1</sup>
+<sup>1</sup> Von einem Sprachaustausch spricht man, wenn zwei Schüler aus verschiedenen Sprachregionen die Schule des jeweils anderen besuchen.
 
 <sup>2</sup> Das Vorgehen für die Organisation eines Sprachaustausches beinhaltet die Vormeinung der Direktion der Orientierungsschulen des laufenden Schuljahres.
 
@@ -305,11 +311,19 @@ Es gibt folgende Formen immersiven Unterrichts: ganzjähriger Besuch einer Immer
 
 <sup>1</sup> Das Zulassungsverfahren für die Immersionsklasse ohne Austausch erfordert die Vormeinung der Direktion der Orientierungsschule, die im laufenden Schuljahr besucht wird, und einen formellen Antrag an die Direktion der Orientierungsschule, welche den Schüler aufnimmt, mit einer Kopie an das BSA. Nachdem die Vormeinung der aktuell besuchten Orientierungsschule geprüft und die Eltern angehört wurden, erlaubt die Direktion der Gast-OS dem Schüler, die Immersionsklasse zu besuchen.
 
-Absätze 2 bis 6 aufgehoben
+<sup>2</sup> …
+
+<sup>3</sup> …
+
+<sup>4</sup> …
+
+<sup>5</sup> …
+
+<sup>6</sup> …
 
 #### Art. 32
 
-<sup>1</sup> Immersiver Sprachaufenthalt
+**Immersiver Sprachaufenthalt**
 
 <sup>1</sup> Unter dem Begriff Immersiver Sprachaufenthalt versteht man einen Aufenthalt ausserhalb des Kantons Wallis, ohne Begleitung der Familie, bei dem eine zertifizierten Bestätigung einer anerkannten Instanz erworben wird.
 
@@ -319,7 +333,7 @@ Absätze 2 bis 6 aufgehoben
 
 <sup>4</sup> Die Sprachaufenthalte finden ausserhalb der Schulzeit in den Schulferien statt.
 
-<sup>5</sup> Aus organisatorischen und effizienztechnischen Gründen können gemäss den vom DEKS festgelegten Modalitäten und entsprechend dem Reglement betreffend Urlaube und die im Rahmen der obligatorischen Schulpflicht anwendbaren Disziplinarmassnahmen Urlaubstage gewährt werden. 27 Halbtage dürfen nicht überschritten werden.
+<sup>5</sup> Aus organisatorischen und effizienztechnischen Gründen können gemäss den vom Departement festgelegten Modalitäten und entsprechend dem Reglement betreffend Urlaube und die im Rahmen der obligatorischen Schulpflicht anwendbaren Disziplinarmassnahmen Urlaubstage gewährt werden. 27 Halbtage dürfen nicht überschritten werden.
 
 <sup>6</sup> Um Anspruch auf Urlaubstage zu erhalten, wird der zuständigen Behörde ein Programm des immersiven Sprachaufenthalts unterbreitet.
 
@@ -327,7 +341,7 @@ Absätze 2 bis 6 aufgehoben
 
 <sup>8</sup> Die Organisation eines immersiven Sprachaufenthaltes liegt in der Verantwortung der Eltern des Schülers, welche die damit verbundenen Kosten tragen.
 
-<sup>9</sup> Die vorliegende Verordnung regelt einzig die immersiven Sprachaufenthalte. Andere Formen für Sprachaustausche oder Sprachaufenthalte (Aktivitäten in einer Klasse, Gruppe, Schulprojekte ...) innerhalb des Kantons, in der Schweiz oder im Ausland können an der Orientierungsschule vorgeschlagen und organisiert werden.
+<sup>9</sup> Die vorliegende Verordnung regelt einzig die immersiven Sprachaufenthalte. Andere Formen für Sprachaustausche oder Sprachaufenthalte (Aktivitäten in einer Klasse, Gruppe, Schulprojekte, usw.) innerhalb des Kantons, in der Schweiz oder im Ausland können an der Orientierungsschule vorgeschlagen und organisiert werden.
 
 #### Art. 33
 
@@ -345,31 +359,31 @@ Absätze 2 bis 6 aufgehoben
 
 **Kontrolle**
 
-Der Inspektor des Schulkreises wacht in Zusammenarbeit mit dem BSA, den Schuldirektionen und den Klassenlehrern über den reibungslosen Ablauf des immersiven Unterrichts.
+<sup>1</sup> Der Inspektor des Schulkreises wacht in Zusammenarbeit mit dem BSA, den Schuldirektionen und den Klassenlehrern über den reibungslosen Ablauf des immersiven Unterrichts.
 
-### 3. Abschnitt Überregionale Strukturen mit pädagogischem Auftrag
+## 3 Überregionale Strukturen mit pädagogischem Auftrag
 
-### 1. Kapitel: Vorlehrklassen
+### 3.1 Vorlehrklassen
 
 #### Art. 35
 
 **Vorlehrklassen**
 
-Die Vorlehrklasse ist eine überregionale Struktur, die dem Amt für Sonderschulwesen angegliedert ist.
+<sup>1</sup> Die Vorlehrklasse ist eine überregionale Struktur, die dem Amt für Sonderschulwesen angegliedert ist.
 
 #### Art. 36
 
 **Ziele**
 
-Die Vorlehrklasse soll die schulischen Fähigkeiten von Schülern mit Schwierigkeiten fördern und ihnen eine harmonische Integration in die Berufswelt ermöglichen.
+<sup>1</sup> Die Vorlehrklasse soll die schulischen Fähigkeiten von Schülern mit Schwierigkeiten fördern und ihnen eine harmonische Integration in die Berufswelt ermöglichen.
 
 #### Art. 37
 
 **Kompetenzen**
 
-<sup>1</sup> Das DEKS entscheidet über den Standort und die Anzahl der Vorlehrklassen.
+<sup>1</sup> Das Departement entscheidet über den Standort und die Anzahl der Vorlehrklassen.
 
-<sup>2</sup> Die Organisation und die Verwaltung einer Vorlehrklasse überträgt das DEKS der Direktion der betroffenen Orientierungsschule.
+<sup>2</sup> Die Organisation und die Verwaltung einer Vorlehrklasse überträgt das Departement der Direktion der betroffenen Orientierungsschule.
 
 #### Art. 38
 
@@ -387,19 +401,19 @@ Die Vorlehrklasse soll die schulischen Fähigkeiten von Schülern mit Schwierigk
 
 **Lehrpersonal**
 
-Als Klassenlehrer für die Vorlehrklasse werden grundsätzlich Hilfs- und Sonderschullehrer eingesetzt.
+<sup>1</sup> Als Klassenlehrer für die Vorlehrklasse werden grundsätzlich Hilfs- und Sonderschullehrer eingesetzt.
 
 #### Art. 40
 
 **Verantwortungen**
 
-Der Schüler wird in administrativer und pädagogischer Hinsicht der Orientierungsschule unterstellt, welche die Vorlehrklasse beherbergt.
+<sup>1</sup> Der Schüler wird in administrativer und pädagogischer Hinsicht der Orientierungsschule unterstellt, welche die Vorlehrklasse beherbergt.
 
 #### Art. 41
 
 **Schüler**
 
-Die Vorlehrklasse richtet sich in erster Linie an Schüler des Hilfs- und Sonderschulwesens und an Schüler der 2. OS, die ihre obligatorische Schulzeit absolviert haben und nicht promoviert wurden.
+<sup>1</sup> Die Vorlehrklasse richtet sich in erster Linie an Schüler des Hilfs- und Sonderschulwesens und an Schüler der 10OS, die ihre obligatorische Schulzeit absolviert haben und nicht promoviert wurden.
 
 #### Art. 42
 
@@ -415,17 +429,17 @@ Die Vorlehrklasse richtet sich in erster Linie an Schüler des Hilfs- und Sonder
 
 <sup>1</sup> Die Wohngemeinde des Schülers übernimmt die Schulkosten. Der Betrag entspricht jenem, den die Gemeinden an die Orientierungsschule bezahlen, der die Vorlehrklasse angegliedert ist.
 
-<sup>2</sup> Die Transportkosten zum Schulort gehen zulasten der Wohngemeinde, welche ebenfalls 70 Prozent der Essenskosten übernimmt. <sup>1</sup>
+<sup>2</sup> Die Transportkosten zum Schulort gehen zulasten der Wohngemeinde, welche ebenfalls 70 Prozent der Essenskosten übernimmt.
 
-<sup>3</sup> Die Transportkosten zum Praktikumsort werden von den Eltern übernommen.
+<sup>3</sup> Die Transportkosten zum Praktikumsort werden von der Wohngemeinde übernommen.
 
-<sup>4</sup> Die Eltern beteiligen sich zu 30 Prozent an den Essenskosten. <sup>1</sup>
+<sup>4</sup> Die Eltern beteiligen sich zu 30 Prozent an den Essenskosten.
 
 <sup>5</sup> Die Gemeinde, welche die Vorlehrklasse beherbergt, stellt ihre Räumlichkeiten und ihre administrative Infrastruktur zur Verfügung.
 
 <sup>6</sup> Die Schuldirektion der OS, welche die Vorlehrklasse organisiert, informiert die Wohngemeinde des Schülers über die Schul- und die Transportkosten und über die Beteiligung an den Kosten für Mahlzeiten.
 
-### 2. Kapitel: Besondere Platzierung
+### 3.2 Besondere Platzierung
 
 #### Art. 44
 
@@ -433,15 +447,17 @@ Die Vorlehrklasse richtet sich in erster Linie an Schüler des Hilfs- und Sonder
 
 <sup>1</sup> Die Sonderplatzierung ist eine vom Inspektor des Schulkreises vorgeschlagene erzieherische Massnahme.
 
-<sup>2</sup> Die Sonderplatzierung kann für eine befristete Zeit in Form einer Platzierung in einer Anschlussklasse, oder, falls es die Situation erfordert, in Form einer Überweisung in eine andere OS bis zum Ende des Schuljahres realisiert werden. Dem Schüler und den Eltern können andere Arten von Massnahmen vorgeschlagen werden.
+<sup>2</sup> Die Sonderplatzierung kann für eine befristete Zeit in Form einer Platzierung in einer Anschlussklasse, oder, falls es die Situation erfordert, in Form einer Überweisung in eine andere OS bis zum Ende des Schuljahres realisiert werden.
 
-<sup>3</sup> Um die Schuldirektionen bei der Betreuung von verhaltensauffälligen Schülern zu unterstützen, stehen ihnen drei Organe zur Verfügung: Fachpersonen für Verhaltensauffälligkeiten, Anschlussklassen und die kantonale Einheit.
+<sup>3</sup> Dem Schüler und den Eltern können andere Arten von Massnahmen vorgeschlagen werden.
+
+<sup>4</sup> Um die Schuldirektionen bei der Betreuung von verhaltensauffälligen Schülern zu unterstützen, stehen ihnen drei Organe zur Verfügung: Fachpersonen für Verhaltensauffälligkeiten, Anschlussklassen und die kantonale Einheit.
 
 #### Art. 45
 
 **Fachperson für Verhaltensauffälligkeiten**
 
-Eine Fachperson für Verhaltensauffälligkeiten erstellt im Auftrag des Inspektors eine erste Standortbestimmung und unterstützt die Direktion und die Lehrpersonen, die von verhaltensauffälligen Schülern verursachten Schwierigkeiten zu meistern.
+<sup>1</sup> Eine Fachperson für Verhaltensauffälligkeiten erstellt im Auftrag des Inspektors eine erste Standortbestimmung und unterstützt die Direktion und die Lehrpersonen, die von verhaltensauffälligen Schülern verursachten Schwierigkeiten zu meistern.
 
 #### Art. 46
 
@@ -455,15 +471,12 @@ Eine Fachperson für Verhaltensauffälligkeiten erstellt im Auftrag des Inspekto
 
 **Aufgaben der kantonalen Einheit**
 
-Folgende Aufgaben fallen unter die Zuständigkeit der kantonalen Einheit:
+<sup>1</sup> Folgende Aufgaben fallen unter die Zuständigkeit der kantonalen Einheit:
 
-- rasche Intervention im Fall einer besonders schweren Krise;
-
-- Beratung und Unterstützung der betroffenen Personen;
-
-- Anbieten von erzieherischen Massnahmen;
-
-- Koordination der Umsetzung der erzieherischen Massnahmen zwischen den verschiedenen betroffenen Organen.
+- a) rasche Intervention im Fall einer besonders schweren Krise;
+- b) Beratung und Unterstützung der betroffenen Personen;
+- c) Anbieten von erzieherischen Massnahmen;
+- d) Koordination der Umsetzung der erzieherischen Massnahmen zwischen den verschiedenen betroffenen Organen.
 
 #### Art. 48
 
@@ -477,7 +490,7 @@ Folgende Aufgaben fallen unter die Zuständigkeit der kantonalen Einheit:
 
 **Organisation der Anschlussklasse**
 
-<sup>1</sup> Das DEKS entscheidet über die Schaffung einer Anschlussklasse.
+<sup>1</sup> Das Departement entscheidet über die Schaffung einer Anschlussklasse.
 
 <sup>2</sup> Der Schülerbestand der Anschlussklasse ist begrenzt.
 
@@ -505,15 +518,15 @@ Folgende Aufgaben fallen unter die Zuständigkeit der kantonalen Einheit:
 
 <sup>2</sup> In Zusammenarbeit mit der Fachperson für Verhaltensauffälligkeiten, der kantonalen Einheit und der Schuldirektion der Orientierungsschule und nach Anhörung der Eltern und des Schülers schlägt der Inspektor des Schulkreises den Eltern die Platzierung des Schülers in die Anschlussklasse vor.
 
-<sup>3</sup> Lehnen die Eltern die Platzierung ab, entscheidet das DEKS.
+<sup>3</sup> Lehnen die Eltern die Platzierung ab, entscheidet das Departement.
 
 #### Art. 52
 
-<sup>1</sup> Lehrpersonal der Anschlussklasse und der kantonalen Einheit
+**Lehrpersonal der Anschlussklasse und der kantonalen Einheit**
 
 <sup>1</sup> Die Fachlehrpersonen und die Lehrpersonen der Anschlussklasse erhalten das gleiche Statut wie die Lehrpersonen der obligatorischen Schulzeit. Sie unterstehen der administrativen Verantwortung und der pädagogischen Aufsicht des Amts für Sonderschulwesen.
 
-<sup>2</sup> Aufgehoben
+<sup>2</sup> …
 
 #### Art. 53
 
@@ -521,17 +534,15 @@ Folgende Aufgaben fallen unter die Zuständigkeit der kantonalen Einheit:
 
 <sup>1</sup> Eine Sonderplatzierung muss ohne finanzielle Nachteile für die Eltern durchführbar sein.
 
-<sup>2</sup> Die Wohngemeinde übernimmt die Transportkosten und subventioniert die Essenskosten zu 70 Prozent.[^53-1]
+<sup>2</sup> Die Wohngemeinde übernimmt die Transportkosten und subventioniert die Essenskosten zu 70 Prozent.
 
-<sup>2bis</sup> Die Eltern übernehmen 30 Prozent der Essenskosten.[^53-1]
+<sup>2<sup>bis</sup></sup> Die Eltern übernehmen 30 Prozent der Essenskosten.
 
-<sup>3</sup> Für einen reibungslosen Ablauf der Anschlussklasse stellt das DEKS die nötigen Räumlichkeiten zur Verfügung.
+<sup>3</sup> Für einen reibungslosen Ablauf der Anschlussklasse stellt das Departement die nötigen Räumlichkeiten zur Verfügung.
 
 <sup>4</sup> Die Besoldung des Lehrpersonals der kantonalen Einheit und der Anschlussklasse sowie die Kosten der Betreuung und Verwaltung der Schüler gehen zu Lasten des ordentlichen Kantonsbudgets.
 
 <sup>5</sup> Der Kanton entschädigt jene Betriebe, die einem Schüler der Anschlussklasse einen Praktikumsplatz bieten.
-
-[^53-1]: Änderung vom 20.06.2012 Abl. Nr. 27/2012 1.09.2012
 
 #### Art. 54
 
@@ -545,15 +556,15 @@ Folgende Aufgaben fallen unter die Zuständigkeit der kantonalen Einheit:
 
 **Ende einer Platzierung in einer Anschlussklasse**
 
-Am Ende einer Platzierung in der Anschlussklasse wird in Gegenwart eines Vertreters der kantonalen Einheit, der Schuldirektion, des Klassenlehrers und der Eltern eine Schlussbilanz gezogen. Falls nötig, können zu diesem Gespräch weitere Personen hinzugezogen werden.
+<sup>1</sup> Am Ende einer Platzierung in der Anschlussklasse wird in Gegenwart eines Vertreters der kantonalen Einheit, der Schuldirektion, des Klassenlehrers und der Eltern eine Schlussbilanz gezogen. Falls nötig, können zu diesem Gespräch weitere Personen hinzugezogen werden.
 
-### 4. Abschnitt: Schlussbestimmungen
+## 4 Schlussbestimmungen
 
 #### Art. 56
 
 **Streitigkeiten**
 
-<sup>1</sup> Die Schwierigkeiten, die bei der Auslegung oder bei der Anwendung dieser Verordnung entstehen können, werden unter Vorbehalt der Beschwerde an den Staatsrat innert dreissig Tagen vom Departement für Erziehung, Kultur und Sport entschieden.
+<sup>1</sup> Die Schwierigkeiten, die bei der Auslegung oder bei der Anwendung dieser Verordnung entstehen können, werden unter Vorbehalt der Beschwerde an den Staatsrat innert dreissig Tagen vom Departement entschieden.
 
 <sup>2</sup> Das Beschwerdeverfahren wird im Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege geregelt.
 
@@ -561,7 +572,7 @@ Am Ende einer Platzierung in der Anschlussklasse wird in Gegenwart eines Vertret
 
 **Aufhebung**
 
-Das Allgemeine Reglement über die Orientierungsschule vom 16. September 1987 wird aufgehoben.
+<sup>1</sup> Das Allgemeine Reglement über die Orientierungsschule vom 16. September 1987 wird aufgehoben.
 
 #### Art. 58
 
@@ -569,14 +580,6 @@ Das Allgemeine Reglement über die Orientierungsschule vom 16. September 1987 wi
 
 <sup>1</sup> Das Departement ist mit der Ausführung der vorliegenden Verordnung beauftragt.
 
-<sup>2</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht und tritt auf das Schuljahr 2011/2012 in Kraft.
+<sup>2</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht und tritt auf das Schuljahr 2011-2012 in Kraft.
 
-So angenommen im Staatsrat zu Sitten, den 12. Januar 2011.
-
-Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Philipp Spörri
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**1.09.2011**
-
-Abl. Nr. 8/2011
+CSW BO/Abl. 8/2011
