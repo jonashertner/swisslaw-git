@@ -3,11 +3,11 @@ sr: "0.632.314.491"
 title: "Accordo del 17 settembre 1992 tra gli Stati dell'AELS e Israele (con Protocollo, Conclusioni e all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2477_2477_2477"
 language: it
-version: 2010-07-05
+version: 2021-08-01
 adopted: 1992-09-17
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2477_2477_2477/20100705/it/xml/fedlex-data-admin-ch-eli-cc-1993-2477_2477_2477-20100705-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2477_2477_2477/20100705/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2477_2477_2477/20210801/it/xml/fedlex-data-admin-ch-eli-cc-1993-2477_2477_2477-20210801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2477_2477_2477/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2477_2477_2477/20100705/it"
 
 RU **1993** 2477; FF **1993** I 354
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso a Ginevra il 17 settembre 1992 Approvato dall’Assemblea federale il 17 marzo 1993[^t-2] Ratificato dalla Svizzera con strumento depositato l’11 maggio 1993 Entrato in vigore per la Svizzera il 1° luglio 1993
+Concluso a Ginevra il 17 settembre 1992
 
-(Stato 5 luglio 2010)
+Approvato dall’Assemblea federale il 17 marzo 1993[^t-1]
 
-[^t-1]: Traduzione dal testo originale inglese.
-[^t-2]: Art. 1 cpv. 1 lett. a – c del DF del 17 mar. 1993 ([RU 1993 2476](https://fedlex.data.admin.ch/eli/oc/1993/2476_2476_2476)).
+Ratificato dalla Svizzera con strumento depositato l’11 maggio 1993
+
+Entrato in vigore per la Svizzera il 1° luglio 1993
+
+(Stato 1° agosto 2021)
+
+[^t-1]: Art. 1 cpv. 1 lett. a – c del DF del 17 mar. 1993 ([RU 1993 2476](https://fedlex.data.admin.ch/eli/oc/1993/2476_2476_2476)).
 
 Preambolo
 
@@ -35,19 +40,19 @@ e lo Stato d’Israele
 
 (in seguito Israele)
 
-Vista la Convenzione istitutiva dell’Associazione Europea di libero scambio (AELS)[^ingress-1],
+Vista la Convenzione istitutiva dell’Associazione Europea di libero scambio (AELS)[^ingress-1];
 
-Visti gli accordi di libero scambio e gli strumenti relativi stipulati tra Israele e i suoi principali partner commerciali,
+Visti gli accordi di libero scambio e gli strumenti relativi stipulati tra Israele e i suoi principali partner commerciali;
 
-Vista la cooperazione che si è instaurata in favore degli accordi citati, nonché tra i diversi Stati dell’AELS e Israele,
+Vista la cooperazione che si è instaurata in favore degli accordi citati, nonché tra i diversi Stati dell’AELS e Israele;
 
-Desiderosi di adottare provvedimenti volti a promuovere uno sviluppo armonico dei loro scambi commerciali, di incrementare e diversificare la loro mutua cooperazione nei settori d’interesse comune, compresi quelli non coperti dal presente Accordo, in modo da creare un quadro globale e un ambiente stimolante, basati sulla parità di trattamento, la non discriminazione e un insieme equilibrato di diritti e obblighi,
+Desiderosi di adottare provvedimenti volti a promuovere uno sviluppo armonico dei loro scambi commerciali, di incrementare e diversificare la loro mutua cooperazione nei settori d’interesse comune, compresi quelli non coperti dal presente Accordo, in modo da creare un quadro globale e un ambiente stimolante, basati sulla parità di trattamento, la non discriminazione e un insieme equilibrato di diritti e obblighi;
 
-Richiamato l’interesse reciproco che gli Stati dell’AELS e Israele ripongono nel consolidamento permanente del sistema multilaterale di scambi nonché nella loro qualità di Parti contraenti all’Accordo generale sulle tariffe doganali[^ingress-2] e il commercio, le cui clausole e strumenti costituiscono il fondamento della loro politica commerciale esterna,
+Richiamato l’interesse reciproco che gli Stati dell’AELS e Israele ripongono nel consolidamento permanente del sistema multilaterale di scambi nonché nella loro qualità di Parti contraenti all’Accordo generale sulle tariffe doganali[^ingress-2] e il commercio, le cui clausole e strumenti costituiscono il fondamento della loro politica commerciale esterna;
 
-Risoluti ad adottare a tal fine disposizioni volte ad abolire progressivamente gli ostacoli agli scambi tra gli Stati dell’AELS e Israele, conformemente alle prescrizioni dell’Accordo generale sulle tariffe doganali e il commercio, in particolare alle clausole relative alla creazione di zone di libero scambio,
+Risoluti ad adottare a tal fine disposizioni volte ad abolire progressivamente gli ostacoli agli scambi tra gli Stati dell’AELS e Israele, conformemente alle prescrizioni dell’Accordo generale sulle tariffe doganali e il commercio, in particolare alle clausole relative alla creazione di zone di libero scambio;
 
-Desiderosi di assumere una parte sempre più attiva nel processo d’integrazione economica,
+Desiderosi di assumere una parte sempre più attiva nel processo d’integrazione economica;
 
 Constatato che nessun disposto del presente Accordo potrebbe essere interpretato al fine di esonerare gli Stati che vi partecipano (in seguito Parti) dagli obblighi derivanti da altri Accordi internazionali,
 
@@ -205,7 +210,7 @@ Tenendo conto delle norme e discipline convenute nel quadro dell’Accordo gener
 
 <sup>4.</sup> Appena ragionevolmente possibile dopo l’entrata in vigore del presente Accordo, il Comitato misto intavolerà discussioni al fine di giungere a un’intesa sull’estensione progressiva dell’elenco delle imprese pubbliche nonché delle imprese di approvvigionamento coperte dalle presenti disposizioni per quel che riguarda i loro acquisti di merci che superano le soglie richieste.
 
-[^14-1]: RS **0.632.231.42**
+[^14-1]: [RU **1979** 2149, 2383; [1988 855](https://fedlex.data.admin.ch/eli/oc/1988/855_855_855)art. 1 cpv. 1, [856](https://fedlex.data.admin.ch/eli/oc/1988/856_856_856). [RU 1996 609](https://fedlex.data.admin.ch/eli/oc/1996/609_609_609)]. Vedi ora il Acc. riveduto del 15 apr. 1994 sugli appalti pubblici ([RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)).
 [^14-2]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
 
 #### Art. 15
@@ -471,11 +476,110 @@ Il Governo di Norvegia[^37-1], in qualità di Governo depositario, notifica a tu
 
 [^37-1]: Nuova locuzione giusta la Dec. n. 5/1996 del Comitato misto AELS–Israele del 14 feb. 1996, in vigore per la Svizzera dal 13 mag. 2004 ([RU 2010 4525](https://fedlex.data.admin.ch/eli/oc/2010/642)).
 
-*In fede di che,* i plenipotenziari sottoscritti, debitamente autorizzati, hanno firmato il presente Accordo. Fatto a Ginevra il 17 settembre 1992, in un solo esemplare in lingua inglese depositato presso il Governo di Svezia. Il Governo depositario ne trasmetterà copia certificata conforme a tutti gli Stati firmatari e aderenti. Protocollo d’intesa Diritti all’importazione 1. Israele rinnova il suo impegno, nei confronti del GATT, di ridurre i diritti all’importazione dal 2 all’1% al più tardi il 31 dicembre 1994. 2. Gli Stati dell’AELS e Israele hanno convenuto che questo prelievo è assoggettato alle disposizioni dell’Articolo 22, a partire dall’entrata in vigore dell’Accordo. Tasse portuali 3. Poiché le loro opinioni circa la compatibilità della struttura attuale delle tasse portuali percepite in Israele divergono dalle prescrizioni dell’Accordo, le Parti hanno convenuto che, al più presto dopo l’entrata in vigore dell’Accordo, la questione sarà sollevata in seno al Comitato misto al fine di trovare una soluzione accettabile per tutti. Applicazione della maggiorazione TAMA alle merci importate in Israele 4. Israele provvede affinché l’imposta sull’acquisto di merci importate venga calcolata sulla base a) del prezzo all’ingrosso dichiarato, o b) del valore cif più una maggiorazione detta TAMA. Gli importatori omologati possono scegliere uno di questi due metodi. Gli importatori non omologati continuano a pagare l’imposta sull’acquisto sulla base della maggiorazione TAMA. 5. L’unico criterio determinante per ottenere lo statuto d’importatore omologato é il seguente: a. L’importatore ha importato in Israele, nel corso dell’anno civile precedente quello per il quale ha richiesto lo statuto d’importatore omologato, merci di qualsiasi origine, il cui valore globale supera il valore limite dell’anno in cui egli sollecita lo statuto. Questo valore limite ammonta per ogni anno a: 1992 300 000 dollari 1993 200 000 dollari 1994 100 000 dollari 1995 e anni seguenti 50 000 dollari b. Nel corso dei cinque anni precedenti, l’importatore non ha commesso infrazioni di natura fiscale passibili di una pena di detenzione e di una multa che lo espongono, se è recidivo, al divieto di vendere merci del tipo per il quale l’infrazione è stata commessa. 6. Un importatore che in passato ha ottenuto lo statuto d’importatore omologato può esserne privato soltanto se: a. è stato dimostrato colpevole di un’infrazione di natura fiscale ai sensi del paragrafo 5 lettera b); o, b. durante l’anno civile precedente e durante almeno un altro anno dei cinque precedenti, non è riuscito a importare merci per un valore totale superiore al valore limite applicabile per l’anno in corso. 7. I moduli di richiesta di statuto devono essere semplici e chiari e contenere una disposizione che indica la scelta fatta dal richiedente tra il valore reale del prezzo all’ingrosso e il calcolo della maggiorazione TAMA, come base per la determinazione dell’imposta sull’acquisto. Una volta decisa, questa scelta determinerà il trattamento fiscale dell’importatore per i dodici mesi a venire e potrà in seguito essere modificata in ogni momento, soltanto su richiesta dell’importatore. A partire dal 1° gennaio 1995, Israele applica un sistema obbligatorio di dichiarazione del prezzo all’ingrosso per tutti gli importatori omologati. 8. Ogni importatore può depositare presso il responsabile del distretto una domanda di statuto d’importatore omologato. La decisione di quest’ultimo è comunicata entro ventuno giorni. Se essa è positiva, è conferito all’importatore lo statuto d’importatore omologato. Se è negativa, il responsabile del distretto espone per iscritto i motivi del rifiuto della domanda secondo le modalità esposte nel paragrafo 5. 9. L’importatore omologato che sceglie di pagare l’imposta al consumo calcolata sulla base del prezzo all’ingrosso reale è invitato a depositare una dichiarazione di prezzo all’ingrosso (per le merci assoggettate all’imposta sull’acquisto) insieme alla sua dichiarazione d’importazione. Tale dichiarazione deve essere conforme alle prescrizioni degli articoli 1 e 17 della legge sull’imposta al consumo. L’obbligo di tenere un registro, di inviare rapporti periodici, nonché le procedure di verifica dei conti e di ricorso applicabili agli importatori corrispondono a quelli applicati ai produttori locali. 10. Israele adotta provvedimenti per garantire che il coefficiente TAMA applicabile a ogni prodotto non superi il livello che rispecchia la pratica seguita realmente dai grossisti per questo prodotto. I tassi di maggiorazione TAMA saranno calcolati sulla base dell’aumento effettivo del prezzo all’ingrosso di un campione preso a caso presso importatori omologati e non omologati. 11. Su richiesta degli Stati dell’AELS, Israele fornisce un elenco dei coefficienti TAMA applicabili e, se gli Stati dell’AELS lo richiedono per determinati prodotti, una spiegazione della metodologia applicata al calcolo dei tassi di maggiorazione TAMA per tali prodotti. Nello stesso modo, Israele notifica agli Stati dell’AELS tutti i cambiamenti dei coefficienti TAMA. Licenze d’importazione e d’esportazione 12. Le licenze automatiche dovrebbero essere concesse in modo tale che non comportino restrizioni degli scambi. Tali licenze dovrebbero in ogni caso essere rilasciate entro quattordici giorni. All’entrata in vigore dell’Accordo, le Parti hanno convenuto inoltre di comunicarsi reciprocamente un elenco degli articoli che sono oggetto di licenze automatiche d’importazione. Regole d’origine 13. In merito alla nota 7 dell’Allegato I al Protocollo B, è stato convenuto che fino al momento in cui Israele diventerà Parte all’Accordo relativo all’attuazione dell’Articolo VII del GATT[^t-3], questo Paese definirà il «valore in dogana» in conformità della Convezione sul valore in dogana delle merci. 14. Israele intende aderire all’accordo relativo all’applicazione dell’articolo VII del GATT al più tardi cinque anni dopo l’entrata in vigore del presente Accordo. Valori limite 15. Gli Stati dell’AELS e Israele hanno convenuto che al più tardi il 1° gennaio 1997, i valori limite indicati all’articolo 8 paragrafi 1 e 2 del Protocollo B, relativi alla dichiarazione dell’esportatore, si situano – per i piccoli pacchi e i bagagli personali dei viaggiatori – allo stesso livello dei valori limite applicati a quel momento secondo gli accordi di libero scambio stipulati tra gli Stati dell’AELS e Paesi terzi. Monopoli di Stato 16. L’Articolo 9 dell’Accordo si applica alla Svizzera e al Liechtenstein per quanto concerne i monopoli di Stato del sale e della polvere da sparo e al monopolio islandese del concime, soltanto se questi Stati sono tenuti a soddisfare gli obblighi corrispondenti in virtù dell’accordo stipulato tra gli Stati dell’AELS e le Comunità europee e i loro Stati membri sullo Spazio economico europeo. 17. L’articolo 9 sarà applicato al più tardi a decorrere dal 1° gennaio 1995, per quanto riguarda il monopolio austriaco del sale. Restrizioni degli scambi per motivi religiosi o rituali 18. Le Parti hanno convenuto che i divieti o le restrizioni all’importazione, all’esportazione o al transito di merci, per motivi religiosi o rituali, sono compatibili con l’Accordo, a condizione che siano applicate in conformità del principio del trattamento nazionale e secondo le condizioni e le disposizioni previste nell’articolo 8 dell’Accordo. Diritti di proprietà intellettuale 19. In applicazione dell’articolo 15 dell’Accordo, le Parti provvedono: a. alla ratifica, il 1° gennaio 1995, della Convenzione internazionale del 26 ottobre 1961 per la protezione degli artisti, interpreti o esecutori, dei produttori di fonogrammi e di organismi di radiodiffusione (Convenzione di Roma), alla sua adesione e al suo rispetto nonché ad emanare la legislazione necessaria per rendere effettivo l’atto citato; b. affinché, nei cinque anni successivi all’entrata in vigore dell’Accordo, le licenze rilasciate per motivi di non applicazione siano utilizzate nella misura necessaria per approvvigionare in modo preponderante il mercato interno a condizioni commerciali ragionevoli. Aiuti pubblici 20. Le norme applicabili agli aiuti pubblici e la loro esecuzione saranno riesaminate prima della fine del 1995, segnatamente per adeguarle ai cambiamenti che potrebbero intervenire nelle relazioni tra le Parti e le Comunità europee per quel che concerne gli aiuti pubblici. Procedura d’arbitrato 21. Gli Stati dell’AELS e Israele considerano che una procedura d’arbitrato potrebbe essere presa in esame per le vertenze che non possono essere regolate tramite consultazione tra le Parti in causa o in seno al Comitato misto. Il Comitato misto prosegue l’esame di questa procedura. Cooperazione 22. Il Comitato misto può discutere le possibilità e le modalità per promuovere le relazioni commerciali, mediante la cooperazione nell’ambito degli scambi. Conclusioni congiunte AELS/Israele sulle esportazioni provenienti dai Territori È stato concluso un accordo che permetterà l’esportazione di prodotti industriali e agricoli provenienti dai Territori, da parte d’Israele, verso gli Stati dell’AELS. Secondo questo accordo, Israele adotterà disposizioni adeguate affinché tali esportazioni possano svolgersi senza scontrarsi con difficoltà amministrative. Alle esportazioni verso gli Stati dell’AELS provenienti da produttori ed esportatori arabi dei Territori, sono applicate procedure simili a quelle applicate alle loro esportazioni verso la Comunità europea. I produttori e gli esportatori arabi dei Territori possono instaurare liberamente relazioni e negoziare con compratori degli Stati dell’AELS per promuovere i loro interessi commerciali. Nei Territori, le Camere di commercio arabe locali sono abilitate a rilasciare certificati d’origine.
+*In fede di che,* i plenipotenziari sottoscritti, debitamente autorizzati, hanno firmato il presente Accordo. Fatto a Ginevra il 17 settembre 1992, in un solo esemplare in lingua inglese depositato presso il Governo di Svezia. Il Governo depositario ne trasmetterà copia certificata conforme a tutti gli Stati firmatari e aderenti.
 
-[^t-3]: [RS 0.632.231.3](https://fedlex.data.admin.ch/eli/cc/1979/2468_2472_2472)
+Protocollo d’intesa
 
-Lista degli allegati**[^t-4]**
+Diritti all’importazione
+
+\1. Israele rinnova il suo impegno, nei confronti del GATT, di ridurre i diritti all’importazione dal 2 all’1% al più tardi il 31 dicembre 1994.
+
+\2. Gli Stati dell’AELS e Israele hanno convenuto che questo prelievo è assoggettato alle disposizioni dell’Articolo 22, a partire dall’entrata in vigore dell’Accordo.
+
+Tasse portuali
+
+\3. Poiché le loro opinioni circa la compatibilità della struttura attuale delle tasse portuali percepite in Israele divergono dalle prescrizioni dell’Accordo, le Parti hanno convenuto che, al più presto dopo l’entrata in vigore dell’Accordo, la questione sarà sollevata in seno al Comitato misto al fine di trovare una soluzione accettabile per tutti.
+
+Applicazione della maggiorazione TAMA alle merci importate in Israele
+
+\4. Israele provvede affinché l’imposta sull’acquisto di merci importate venga calcolata sulla base a) del prezzo all’ingrosso dichiarato, o b) del valore cif più una maggiorazione detta TAMA. Gli importatori omologati possono scegliere uno di questi due metodi. Gli importatori non omologati continuano a pagare l’imposta sull’acquisto sulla base della maggiorazione TAMA.
+
+\5. L’unico criterio determinante per ottenere lo statuto d’importatore omologato é il seguente:
+
+- a. L’importatore ha importato in Israele, nel corso dell’anno civile precedente quello per il quale ha richiesto lo statuto d’importatore omologato, merci di qualsiasi origine, il cui valore globale supera il valore limite dell’anno in cui egli sollecita lo statuto. Questo valore limite ammonta per ogni anno a:
+
+<table>
+<tr><td>1992</td><td>300 000 dollari</td></tr>
+<tr><td>1993</td><td>200 000 dollari</td></tr>
+<tr><td>1994</td><td>100 000 dollari</td></tr>
+<tr><td>1995 e anni seguenti</td><td>50 000 dollari</td></tr>
+</table>
+
+- b. Nel corso dei cinque anni precedenti, l’importatore non ha commesso infrazioni di natura fiscale passibili di una pena di detenzione e di una multa che lo espongono, se è recidivo, al divieto di vendere merci del tipo per il quale l’infrazione è stata commessa.
+
+\6. Un importatore che in passato ha ottenuto lo statuto d’importatore omologato può esserne privato soltanto se:
+
+- a. è stato dimostrato colpevole di un’infrazione di natura fiscale ai sensi del paragrafo 5 lettera b); o,
+- b. durante l’anno civile precedente e durante almeno un altro anno dei cinque precedenti, non è riuscito a importare merci per un valore totale superiore al valore limite applicabile per l’anno in corso.
+
+\7. I moduli di richiesta di statuto devono essere semplici e chiari e contenere una disposizione che indica la scelta fatta dal richiedente tra il valore reale del prezzo all’ingrosso e il calcolo della maggiorazione TAMA, come base per la determinazione dell’imposta sull’acquisto. Una volta decisa, questa scelta determinerà il trattamento fiscale dell’importatore per i dodici mesi a venire e potrà in seguito essere modificata in ogni momento, soltanto su richiesta dell’importatore. A partire dal 1° gennaio 1995, Israele applica un sistema obbligatorio di dichiarazione del prezzo all’ingrosso per tutti gli importatori omologati.
+
+\8. Ogni importatore può depositare presso il responsabile del distretto una domanda di statuto d’importatore omologato. La decisione di quest’ultimo è comunicata entro ventuno giorni. Se essa è positiva, è conferito all’importatore lo statuto d’importatore omologato. Se è negativa, il responsabile del distretto espone per iscritto i motivi del rifiuto della domanda secondo le modalità esposte nel paragrafo 5.
+
+\9. L’importatore omologato che sceglie di pagare l’imposta al consumo calcolata sulla base del prezzo all’ingrosso reale è invitato a depositare una dichiarazione di prezzo all’ingrosso (per le merci assoggettate all’imposta sull’acquisto) insieme alla sua dichiarazione d’importazione. Tale dichiarazione deve essere conforme alle prescrizioni degli articoli 1 e 17 della legge sull’imposta al consumo. L’obbligo di tenere un registro, di inviare rapporti periodici, nonché le procedure di verifica dei conti e di ricorso applicabili agli importatori corrispondono a quelli applicati ai produttori locali.
+
+\10. Israele adotta provvedimenti per garantire che il coefficiente TAMA applicabile a ogni prodotto non superi il livello che rispecchia la pratica seguita realmente dai grossisti per questo prodotto. I tassi di maggiorazione TAMA saranno calcolati sulla base dell’aumento effettivo del prezzo all’ingrosso di un campione preso a caso presso importatori omologati e non omologati.
+
+\11. Su richiesta degli Stati dell’AELS, Israele fornisce un elenco dei coefficienti TAMA applicabili e, se gli Stati dell’AELS lo richiedono per determinati prodotti, una spiegazione della metodologia applicata al calcolo dei tassi di maggiorazione TAMA per tali prodotti. Nello stesso modo, Israele notifica agli Stati dell’AELS tutti i cambiamenti dei coefficienti TAMA.
+
+Licenze d’importazione e d’esportazione
+
+\12. Le licenze automatiche dovrebbero essere concesse in modo tale che non comportino restrizioni degli scambi. Tali licenze dovrebbero in ogni caso essere rilasciate entro quattordici giorni. All’entrata in vigore dell’Accordo, le Parti hanno convenuto inoltre di comunicarsi reciprocamente un elenco degli articoli che sono oggetto di licenze automatiche d’importazione.
+
+Regole d’origine
+
+\13. In merito alla nota 7 dell’Allegato I al Protocollo B, è stato convenuto che fino al momento in cui Israele diventerà Parte all’Accordo relativo all’attuazione dell’Articolo VII del GATT[^t-2], questo Paese definirà il «valore in dogana» in conformità della Convezione sul valore in dogana delle merci.
+
+\14. Israele intende aderire all’accordo relativo all’applicazione dell’articolo VII del GATT al più tardi cinque anni dopo l’entrata in vigore del presente Accordo.
+
+Valori limite
+
+\15. Gli Stati dell’AELS e Israele hanno convenuto che al più tardi il 1° gennaio 1997, i valori limite indicati all’articolo 8 paragrafi 1 e 2 del Protocollo B, relativi alla dichiarazione dell’esportatore, si situano – per i piccoli pacchi e i bagagli personali dei viaggiatori – allo stesso livello dei valori limite applicati a quel momento secondo gli accordi di libero scambio stipulati tra gli Stati dell’AELS e Paesi terzi.
+
+Monopoli di Stato
+
+\16. L’Articolo 9 dell’Accordo si applica alla Svizzera e al Liechtenstein per quanto concerne i monopoli di Stato del sale e della polvere da sparo e al monopolio islandese del concime, soltanto se questi Stati sono tenuti a soddisfare gli obblighi corrispondenti in virtù dell’accordo stipulato tra gli Stati dell’AELS e le Comunità europee e i loro Stati membri sullo Spazio economico europeo.
+
+\17. L’articolo 9 sarà applicato al più tardi a decorrere dal 1° gennaio 1995, per quanto riguarda il monopolio austriaco del sale.
+
+Restrizioni degli scambi per motivi religiosi o rituali
+
+\18. Le Parti hanno convenuto che i divieti o le restrizioni all’importazione, all’esportazione o al transito di merci, per motivi religiosi o rituali, sono compatibili con l’Accordo, a condizione che siano applicate in conformità del principio del trattamento nazionale e secondo le condizioni e le disposizioni previste nell’articolo 8 dell’Accordo.
+
+Diritti di proprietà intellettuale
+
+\19. In applicazione dell’articolo 15 dell’Accordo, le Parti provvedono:
+
+- a. alla ratifica, il 1° gennaio 1995, della Convenzione internazionale del 26 ottobre 1961 per la protezione degli artisti, interpreti o esecutori, dei produttori di fonogrammi e di organismi di radiodiffusione (Convenzione di Roma), alla sua adesione e al suo rispetto nonché ad emanare la legislazione necessaria per rendere effettivo l’atto citato;
+- b. affinché, nei cinque anni successivi all’entrata in vigore dell’Accordo, le licenze rilasciate per motivi di non applicazione siano utilizzate nella misura necessaria per approvvigionare in modo preponderante il mercato interno a condizioni commerciali ragionevoli.
+
+Aiuti pubblici
+
+\20. Le norme applicabili agli aiuti pubblici e la loro esecuzione saranno riesaminate prima della fine del 1995, segnatamente per adeguarle ai cambiamenti che potrebbero intervenire nelle relazioni tra le Parti e le Comunità europee per quel che concerne gli aiuti pubblici.
+
+Procedura d’arbitrato
+
+\21. Gli Stati dell’AELS e Israele considerano che una procedura d’arbitrato potrebbe essere presa in esame per le vertenze che non possono essere regolate tramite consultazione tra le Parti in causa o in seno al Comitato misto. Il Comitato misto prosegue l’esame di questa procedura.
+
+Cooperazione
+
+\22. Il Comitato misto può discutere le possibilità e le modalità per promuovere le relazioni commerciali, mediante la cooperazione nell’ambito degli scambi.
+
+## Conclusioni congiunte AELS/Israele sulle esportazioni provenienti dai Territori
+
+[^t-2]: [RS 0.632.231.3](https://fedlex.data.admin.ch/eli/cc/1979/2468_2472_2472)
+
+È stato concluso un accordo che permetterà l’esportazione di prodotti industriali e agricoli provenienti dai Territori, da parte d’Israele, verso gli Stati dell’AELS. Secondo questo accordo, Israele adotterà disposizioni adeguate affinché tali esportazioni possano svolgersi senza scontrarsi con difficoltà amministrative. Alle esportazioni verso gli Stati dell’AELS provenienti da produttori ed esportatori arabi dei Territori, sono applicate procedure simili a quelle applicate alle loro esportazioni verso la Comunità europea.
+
+I produttori e gli esportatori arabi dei Territori possono instaurare liberamente relazioni e negoziare con compratori degli Stati dell’AELS per promuovere i loro interessi commerciali.
+
+Nei Territori, le Camere di commercio arabe locali sono abilitate a rilasciare certificati d’origine.
+
+### Lista degli allegati****
+
+[^annexu1-lvlu2-lvlu1-1]
+
+[^annexu1-lvlu2-lvlu1-1]: Questi doc. (con l’eccezione del Prot. d’intesa e dei conclusioni congiunte AELS/Israele sulle esportazioni provenienti dai territori) non sono pubblicati nella RU (vedi anche [RU 2008 3967](https://fedlex.data.admin.ch/eli/oc/2008/535); [2010 4529](https://fedlex.data.admin.ch/eli/oc/2010/644);[2021 436](https://fedlex.data.admin.ch/eli/oc/2021/436), [437](https://fedlex.data.admin.ch/eli/oc/2021/437)). Possono essere ottenute in inglese presso l’Ufficio federale delle costruzioni e della logistica, Pubblicazioni federali, 3003 Berna. Sono inoltre disponibili in Internet sul sito del Segretariato dell’AELS: www.efta.int &gt; Global trade relations &gt; Free Trade Agreements &gt; Israel
 
 <table>
 <tr><td>**Record of Unde****r****standings**</td><td>Relating to the Agreement between the EFTA States and Israel; Protocollo d’intesa</td></tr>
@@ -502,10 +606,12 @@ Lista degli allegati**[^t-4]**
 <tr><td>**Annex III**</td><td>Referred to in Paragraph 2 of Article 6 *(deleted)* – Customs duties on exports and charges having equivalent effect</td></tr>
 <tr><td>**Annex IV**</td><td>Referred to in Paragraph 2 of Article 7 *(deleted)* – Quantitative restrictions and measures having equivalent effect</td></tr>
 <tr><td>**Annex V**</td><td>Referred to in Article 15 – Protection of intellectual property</td></tr>
-<tr><td>**Annex VI und VII**</td><td>…[^t-5]</td></tr>
+<tr><td>**Annex VI und VII**</td><td>…</td></tr>
 <tr><td>**Protocol D**</td><td>Concerning the treatment that may be applied by Liechtenstein and Switzerland to imports of certain products subject to the scheme for building up compulsory reserves</td></tr>
 <tr><td>**Annex VIII**</td><td>Referred to in Article 25<sup>bis</sup> – Constitution and functioning of the Arbitral Tribunal</td></tr>
 <tr><td>**Joint Commi****t****tee Decisions**</td><td></td></tr>
+<tr><td>No 2-18</td><td>Amendment to Annex I</td></tr>
+<tr><td>No 1-18</td><td>Amendment to Protocol A</td></tr>
 <tr><td>No 1-06</td><td>Amendments to Articles 18 and 23 and Annex II, and deletion of Annexes VI and VIII – State Aid</td></tr>
 <tr><td>No 4-05</td><td>Amendment to Article 22 concerning balance of payments difficulties</td></tr>
 <tr><td>No 3-05</td><td>Mutual administrative assistance in customs matters</td></tr>
@@ -533,17 +639,14 @@ Lista degli allegati**[^t-4]**
 <tr><td>No 1-93</td><td>Rules of procedure Joint Committee</td></tr>
 </table>
 
-## Campo d’applicazione il l° luglio 1993
-
-[^t-4]: Questi doc. (con l’eccezione del Prot. d’intesa e dei conclusioni congiunte AELS/Israele sulle esportazioni provenienti dai territori) non sono pubblicati né nella RU né nella RS (vedi anche [RU 2008 3967](https://fedlex.data.admin.ch/eli/oc/2008/535)). Sono disponibili solo in inglese e possono essere consultati sul sito Internet dell’AELS, all’indirizzo seguente: http://www.efta.int/free-trade/free-trade-agreements/israel/
-[^t-5]: Abrogati dalla Dec. n. 1/2006 del Comitato misto AELS–Israele del 3 lug. 2006, con effetto, per la Svizzera, dal 5 lug. 2010 ([RU 2010 4529](https://fedlex.data.admin.ch/eli/oc/2010/644)).
+### Campo d’applicazione il l° luglio 1993
 
 <table>
-<tr><td colspan="2">Stati partecipanti</td><td>Ratificazione</td><td></td><td>Entrata in vigore</td><td></td></tr>
-<tr><td colspan="2">Israele</td><td>28 dicembre</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Liechtenstein<sup>a</sup></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">Norvegia</td><td>22 dicembre</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Svezia</td><td>10 dicembre</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Svizzera</td><td>11 maggio</td><td>1993</td><td>1° luglio</td><td>1993</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Applicazione provvisoria dal 1° mar. 1993.</td></tr>
+<tr><td>Stati partecipanti</td><td>Ratificazione</td><td></td><td>Entrata in vigore</td><td></td></tr>
+<tr><td>Israele</td><td>28 dicembre</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Liechtenstein <sup>a</sup></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Norvegia</td><td>22 dicembre</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Svezia</td><td>10 dicembre</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Svizzera</td><td>11 maggio</td><td>1993</td><td>1° luglio</td><td>1993</td></tr>
+<tr><td colspan="5"><sup>a</sup> Applicazione provvisoria dal 1° mar. 1993.</td></tr>
 </table>

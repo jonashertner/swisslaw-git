@@ -3,11 +3,11 @@ sr: "0.632.314.491"
 title: "Abkommen vom 17. September 1992 zwischen den EFTA-Staaten und Israel (mit Verständigungsprotokoll, Erkl. und Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2477_2477_2477"
 language: de
-version: 2010-07-05
+version: 2021-08-01
 adopted: 1992-09-17
 in_force: 1993-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2477_2477_2477/20100705/de/xml/fedlex-data-admin-ch-eli-cc-1993-2477_2477_2477-20100705-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2477_2477_2477/20100705/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2477_2477_2477/20210801/de/xml/fedlex-data-admin-ch-eli-cc-1993-2477_2477_2477-20210801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2477_2477_2477/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2477_2477_2477/20100705/de"
 
 AS **1993** 2477; BBl **1993** I 320
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Genf am 17. September 1992 Von der Bundesversammlung genehmigt am 17. März 1993[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 11. Mai 1993 In Kraft getreten für die Schweiz am 1. Juli 1993
+Abgeschlossen in Genf am 17. September 1992 Von der Bundesversammlung genehmigt am 17. März 1993[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 11. Mai 1993 In Kraft getreten für die Schweiz am 1. Juli 1993
 
-(Stand am 5. Juli 2010)
+(Stand am 1. August 2021)
 
-[^t-1]: Übersetzung des englischen Originaltextes
-[^t-2]: Art. 1 Abs. 1 Bst. a‒c des BB vom 17. März 1993 ([AS 1993 2476](https://fedlex.data.admin.ch/eli/oc/1993/2476_2476_2476)).
+[^t-1]: Art. 1 Abs. 1 Bst. a‒c des BB vom 17. März 1993 ([AS 1993 2476](https://fedlex.data.admin.ch/eli/oc/1993/2476_2476_2476)).
 
 Präambel
 
@@ -203,7 +202,7 @@ Unter Berücksichtigung der im Rahmen des Allgemeinen Zoll‑ und Handelsabkomme
 <sup>4.</sup> Sobald als möglich nach dem Inkrafttreten dieses Abkommens hält der Gemischte Ausschuss Beratungen ab, mit dem Ziel, zu einer Übereinkunft über die schrittweise Erweiterung der Liste der öffentlichen Unternehmen und Versorgungsunternehmen zu gelangen, welche bei der Beschaffung von Warenlieferungen über bestimmte Schwellenwerte diesen Bestimmungen unterstellt werden sollen.
 
 [^14-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
-[^14-2]: SR **0.632.231.42**
+[^14-2]: [[AS 1979 2149](https://fedlex.data.admin.ch/eli/oc/1979/2149_2153_2153), [2383](https://fedlex.data.admin.ch/eli/oc/1979/2383_2387_2387); [1988 855](https://fedlex.data.admin.ch/eli/oc/1988/855_855_855)Art. 1 Abs. 1, [856](https://fedlex.data.admin.ch/eli/oc/1988/856_856_856). [AS 1996 609](https://fedlex.data.admin.ch/eli/oc/1996/609_609_609)]. Siehe heute: das revidierte Übereinkommen vom 15. Apr. 1994 über das öffentliche Beschaffungswesen ([SR 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)).
 
 #### Art. 15
 
@@ -468,16 +467,115 @@ Die Regierung Norwegens[^37-1], die als Depositar handelt, notifiziert allen Sta
 
 [^37-1]: Formulierung gemäss Beschluss 5/1996 des Gemischten Ausschusses EFTA-Israel vom 14. Febr. 1996, für die Schweiz in Kraft seit 13. Mai 2004 ([AS 2010 4525](https://fedlex.data.admin.ch/eli/oc/2010/642)).
 
-*Zu Urkund dessen* haben die Unterzeichner, die hiezu gebührend bevollmächtigt sind, das vorliegende Abkommen unterzeichnet. Geschehen zu Genf, am 17. September 1992, in einer einzigen verbindlichen Ausfertigung in englischer Sprache, die bei der Regierung Schwedens hinterlegt wird. Der Depositar wird allen Signatarstaaten und Staaten, die diesem Abkommen beitreten, eine beglaubigte Abschrift übermitteln. Verständigungsprotokoll Einfuhrabgabe 1. Israel bekräftigt seine gegenüber dem GATT eingegangene Verpflichtung, die Einfuhrabgabe spätestens am 31. Dezember 1994 von 2 auf 1 % zu senken. 2. Die EFTA‑Staaten und Israel vereinbaren, dass die Erhebung dieser Abgabe mit dem Inkrafttreten des Abkommens den Bestimmungen von Artikel 22 unterliegt. Hafengebühren 3. In Anbetracht des Umstandes, dass die Parteien unterschiedliche Auffassungen über die Vereinbarkeit der gegenwärtigen Struktur der israelischen Hafengebühren mit den Anforderungen des Abkommens aufweisen, vereinbaren sie, die Angelegenheit unmittelbar nach Inkrafttreten des Abkommens im Gemischten Ausschuss aufzuwerfen, mit dem Ziel, zu einer von allen annehmbaren Lösung zu gelangen. Anwendung des TAMA‑Zuschlages auf die in Israel eingeführten Waren 4. Israel stellt sicher, dass die Konsumsteuer für Importwaren aufgrund entweder a) des angegebenen Engrospreises oder b) des cif‑Wertes plus TAMA‑Zuschlag berechnet wird. Die registrierten Importeure können zwischen diesen beiden Methoden wählen. Die nicht‑registrierten Importeure bezahlen die Konsumsteuer weiterhin aufgrund der Berechnung mit TAMA‑Zuschlag. 5. Das einzige Kriterium zur Erlangung des Status eines registrierten Importeurs ist das folgende: a) Der Importeur hat während des Jahres, das dem Kalenderjahr vorausgeht, in welchem er den Status als registrierter Importeur beantragt, Waren beliebigen Ursprungs in Israel eingeführt, deren Gesamtwert den Schwellenwert für das Jahr, in dem der Status beantragt wird, übersteigt. Der Schwellenwert für jedes Jahr beträgt: 1992 = 300 000 Dollar 1993 = 200 000 Dollar 1994 = 100 000 Dollar 1995 und die folgenden Jahre = 50 000 Dollar b) Der Importeur hat innerhalb der fünf letzten Jahre keine Steuerdelikte begangen, wofür er mit Gefängnis und Busse bestraft und, sofern er rückfällig geworden ist, mit einem Verkaufsverbot für jene Waren belegt werden kann, bezüglich welcher das Vergehen begangen wurde. 6. Ein Importeur, dem vorgängig der registrierte Status gewährt wurde, kann diesen Status verlieren, wenn er: a) eines Steuerdeliktes gemäss Absatz 5 Buchstabe b) überführt wurde oder b) während des vorangegangenen Kalenderjahres und während mindestens eines zusätzlichen Jahres innerhalb der vorangegangenen fünf Jahre Einfuhren getätigt hat, deren Gesamtwert den für das laufende Jahr geltenden Schwellenwert nicht übersteigt. 7. Gesuchsformulare sollen einfach und verständlich sein und eine Rubrik enthalten, aus der hervorgeht, welche Wahl der Gesuchsteller zwischen dem tatsächlichen Engroswert und der Berechnung mit TAMA‑Zuschlag als Grundlage für die Festsetzung der Konsumsteuer getroffen hat. Diese Entscheidung ist für die steuerliche Behandlung des Importeurs während der zwölf folgenden Monate ausschlaggebend; sie kann danach jederzeit, jedoch nur auf Antrag des Importeurs geändert werden. Ab 1. Januar 1995 wendet Israel für alle registrierten Importeure ein obligatorisches Engrospreis‑Deklarationssystem an. 8. Jeder Importeur kann beim Distriktsbeamten ein Gesuch um Gewährung des registrierten Status stellen. Der Entscheid des Distriktsbeamten wird dem Importeur innert 21 Tagen mitgeteilt. Fällt er positiv aus, erhält der Importeur unverzüglich den registrierten Status. Im Fall eines abschlägigen Entscheides gibt der Distriktsbeamte die Gründe für die Ablehnung des Gesuches gemäss den in Absatz 5 festgelegten Bedingungen schriftlich bekannt. 9. Ein registrierter Importeur, welcher die Konsumsteuer aufgrund des tatsächlichen Engrospreises zu entrichten beabsichtigt, hat zusammen mit seiner Einfuhrdeklaration eine Engrospreisdeklaration (für die der Konsumsteuer unterliegenden Waren) einzureichen. Diese Erklärung muss den Anforderungen der Artikel 1 und 17 des Konsumsteuergesetzes entsprechen. Die für die Importeure geltende Pflicht zur Buchführung und zur Abgabe von periodischen Berichten sowie die Buchprüfungs‑ und Rekursverfahren entsprechen jenen, welche für die einheimischen Produzenten Anwendung finden. 10. Israel ergreift Massnahmen, welche sicherstellen, dass der für ein Produkt anwendbare TAMA‑Koeffizient den Stand, welcher die tatsächliche Praxis der Grossisten für dieses Produkt wiedergibt, nicht übersteigt. Der Ansatz des TAMA-Zuschlages wird auf der Grundlage des tatsächlichen Engrospreisaufschlages einer Stichprobe registrierter und nicht‑registrierter Importeure berechnet. 11. Auf Ersuchen der EFTA‑Staaten unterbreitet Israel eine Liste aller geltenden TAMA‑Koeffizienten und (sofern von den EFTA‑Staaten für bestimmte Erzeugnisse verlangt) eine erklärende Darstellung der Methodologie, gemäss welcher die TAMA‑Ansätze auf diesen Erzeugnissen berechnet wurden. Auf Ersuchen notifiziert Israel den EFTA‑Staaten ferner jede Änderung der TAMA‑Koeffizienten. Einfuhr‑ und Ausfuhrbewilligungen 12. Allfällige automatische Bewilligungen sollten in einer den Handel nicht einschränkenden Weise erteilt werden. Derartige Bewilligungen sollten in jedem Fall innert 14 Tagen erteilt werden. Die Parteien vereinbaren zudem, sich mit dem Inkrafttreten des Abkommens gegenseitig eine Liste von Erzeugnissen zu unterbreiten, für welche die Einfuhrbewilligungen automatisch erteilt werden. Ursprungsregeln 13. Was die erklärende Notiz Nr. 7 in Anhang 1 von Protokoll B anbetrifft, so besteht Einvernehmen darüber, dass Israel bis zu seinem Beitritt zum Abkommen über die Durchführung von Artikel VII des GATT[^t-3] den «Zollwert» im Einklang mit dem Übereinkommen über den Zollwert der Waren bestimmen wird. 14. Israel beabsichtigt, dem GATT‑Abkommen über die Durchführung von Artikel VII des GATT spätestens fünf Jahre nach Inkrafttreten des vorliegenden Abkommens beizutreten. Wertgrenzen 15. Die EFTA‑Staaten und Israel vereinbaren, dass für die in Artikel 8 Absatz 1 und 2 von Protokoll B bezüglich der Ausfuhrerklärungen angegebenen Wertgrenzen für kleine Pakete und Reisegepäck spätestens vom 1. Januar 1997 an jene Sätze gelten sollen, welche dannzumal gemäss den Freihandelsabkommen der EFTA‑Staaten mit anderen Drittländern angewandt werden sollen. Staatliche Monopole 16. Artikel 9 des Abkommens findet hinsichtlich des Salz‑ und Pulverregals auf die Schweiz und Liechtenstein und hinsichtlich des isländischen Düngemittelmonopols nur soweit Anwendung, als diese Länder entsprechende Verpflichtungen aus dem Abkommen zwischen den EFTA‑Staaten und den Europäischen Gemeinschaften und ihrer Mitgliedstaaten über den Europäischen Wirtschaftsraum zu erfüllen haben. 17. Auf das österreichische Salzmonopol ist Artikel 9 spätestens am 1. Januar 1995 anwendbar. Handelsbeschränkungen aus religiösen oder rituellen Gründen 18. Die Parteien vereinbaren, dass Einfuhr‑, Ausfuhr‑ oder Durchfuhrbeschränkungen aus religiösen oder rituellen Gründen mit dem Abkommen vereinbar sind, sofern sie im Einklang mit dem Grundsatz der Inländerbehandlung und gemäss den in Artikel 8 des Abkommens festgelegten Voraussetzungen und Bestimmungen angewandt werden. Rechte am geistigen Eigentum 19. Die Parteien unternehmen im Einklang mit Artikel 15 des Abkommens Schritte, um a) bis zum 1. Januar 1995 bezüglich des internationalen Abkommens vom 26. Oktober 1961 zum Schutz der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen (Rom Abkommen) die Ratifikation, den Beitritt sowie die Einhaltung sicherzustellen und alle Gesetze zu erlassen, welche notwendig sind, um dies zu ermöglichen; b) während eines Zeitraums von fünf Jahren nach dem Inkrafttreten des Abkommens sicherzustellen, dass aufgrund unterlassener Ausübung erteilte Lizenzen in dem Masse verwendet werden, als sie zur Belieferung des einheimischen Marktes zu angemessenen Handelsbedingungen notwendig sind. Staatliche Beihilfen 20. Die Regeln betreffend die staatlichen Beihilfen und ihre Anwendung werden vor Ende 1995 überprüft, namentlich um sie an alle Änderungen anzupassen, welche in den Beziehungen der Parteien mit den Europäischen Gemeinschaften hinsichtlich der staatlichen Beihilfen eintreten könnten. Schiedsverfahren 21. Die EFTA‑Staaten und Israel sind der Auffassung, dass für Streitfälle, die nicht durch Konsultationen zwischen den betroffenen Parteien oder im Gemischten Ausschuss beigelegt werden können, ein Schiedsverfahren erwogen werden könnte. Eine derartige Möglichkeit wird im Gemischten Ausschuss weiter überprüft. Zusammenarbeit 22. Der Gemischte Ausschuss kann Möglichkeiten und Modalitäten zur Förderung der Handelsbeziehungen durch Zusammenarbeit besprechen in Bereichen, welche mit dem Handel verbunden sind. Gemeinsame Erklärung EFTA/Israel über Ausfuhren aus den Territorien Es wurde eine Vereinbarung getroffen, welche die Ausfuhr von Industriegütern und landwirtschaftlichen Erzeugnissen aus den Gebieten über Israel in die EFTA‑Staaten ermöglichen wird. Gemäss dieser Vereinbarung trifft Israel geeignete Massnahmen, damit derartige Ausfuhren ohne administrative Hindernisse erfolgen können. Für Ausfuhren der arabischen Produzenten und Exporteure aus den Gebieten in die EFTA‑Staaten gelten Verfahren, die mit jenen für die Ausfuhren in die Europäische Gemeinschaft vergleichbar sind. Zur Förderung ihrer Handelsinteressen bleibt es arabischen Produzenten und Exporteuren in den Gebieten unbenommen, mit Käufern aus den EFTA‑Staaten in Verbindung zu treten und mit ihnen zu verhandeln. Lokale arabische Handelskammern in den Gebieten sind befugt, Ursprungszeugnisse auszustellen.
+*Zu Urkund dessen* haben die Unterzeichner, die hiezu gebührend bevollmächtigt sind, das vorliegende Abkommen unterzeichnet. Geschehen zu Genf, am 17. September 1992, in einer einzigen verbindlichen Ausfertigung in englischer Sprache, die bei der Regierung Schwedens hinterlegt wird. Der Depositar wird allen Signatarstaaten und Staaten, die diesem Abkommen beitreten, eine beglaubigte Abschrift übermitteln.
 
-[^t-3]: [SR 0.632.231.3](https://fedlex.data.admin.ch/eli/cc/1979/2468_2472_2472)
+Verständigungsprotokoll
 
-Liste der Anhänge**[^t-4]**
+Einfuhrabgabe
+
+\1. Israel bekräftigt seine gegenüber dem GATT eingegangene Verpflichtung, die Einfuhrabgabe spätestens am 31. Dezember 1994 von 2 auf 1 % zu senken.
+
+\2. Die EFTA‑Staaten und Israel vereinbaren, dass die Erhebung dieser Abgabe mit dem Inkrafttreten des Abkommens den Bestimmungen von Artikel 22 unterliegt.
+
+Hafengebühren
+
+\3. In Anbetracht des Umstandes, dass die Parteien unterschiedliche Auffassungen über die Vereinbarkeit der gegenwärtigen Struktur der israelischen Hafengebühren mit den Anforderungen des Abkommens aufweisen, vereinbaren sie, die Angelegenheit unmittelbar nach Inkrafttreten des Abkommens im Gemischten Ausschuss aufzuwerfen, mit dem Ziel, zu einer von allen annehmbaren Lösung zu gelangen.
+
+Anwendung des TAMA‑Zuschlages auf die in Israel eingeführten Waren
+
+\4. Israel stellt sicher, dass die Konsumsteuer für Importwaren aufgrund entweder a) des angegebenen Engrospreises oder b) des cif‑Wertes plus TAMA‑Zuschlag berechnet wird. Die registrierten Importeure können zwischen diesen beiden Methoden wählen. Die nicht‑registrierten Importeure bezahlen die Konsumsteuer weiterhin aufgrund der Berechnung mit TAMA‑Zuschlag.
+
+\5. Das einzige Kriterium zur Erlangung des Status eines registrierten Importeurs ist das folgende:
+
+- a) Der Importeur hat während des Jahres, das dem Kalenderjahr vorausgeht, in welchem er den Status als registrierter Importeur beantragt, Waren beliebigen Ursprungs in Israel eingeführt, deren Gesamtwert den Schwellenwert für das Jahr, in dem der Status beantragt wird, übersteigt. Der Schwellenwert für jedes Jahr beträgt:
 
 <table>
-<tr><td>**Record of Unde****r****standings**</td><td>Relating to the Agreement between the EFTA States and Israel; Verständigungsprotokoll</td></tr>
+<tr><td>1992</td><td>=</td><td>300 000 Dollar</td></tr>
+<tr><td>1993</td><td>=</td><td>200 000 Dollar</td></tr>
+<tr><td>1994</td><td>=</td><td>100 000 Dollar</td></tr>
+<tr><td>1995 und die folgenden Jahre</td><td>=</td><td>50 000 Dollar</td></tr>
+</table>
+
+- b) Der Importeur hat innerhalb der fünf letzten Jahre keine Steuerdelikte begangen, wofür er mit Gefängnis und Busse bestraft und, sofern er rückfällig geworden ist, mit einem Verkaufsverbot für jene Waren belegt werden kann, bezüglich welcher das Vergehen begangen wurde.
+
+\6. Ein Importeur, dem vorgängig der registrierte Status gewährt wurde, kann diesen Status verlieren, wenn er:
+
+- a) eines Steuerdeliktes gemäss Absatz 5 Buchstabe b) überführt wurde oder
+- b) während des vorangegangenen Kalenderjahres und während mindestens eines zusätzlichen Jahres innerhalb der vorangegangenen fünf Jahre Einfuhren getätigt hat, deren Gesamtwert den für das laufende Jahr geltenden Schwellenwert nicht übersteigt.
+
+\7. Gesuchsformulare sollen einfach und verständlich sein und eine Rubrik enthalten, aus der hervorgeht, welche Wahl der Gesuchsteller zwischen dem tatsächlichen Engroswert und der Berechnung mit TAMA‑Zuschlag als Grundlage für die Festsetzung der Konsumsteuer getroffen hat. Diese Entscheidung ist für die steuerliche Behandlung des Importeurs während der zwölf folgenden Monate ausschlaggebend; sie kann danach jederzeit, jedoch nur auf Antrag des Importeurs geändert werden. Ab 1. Januar 1995 wendet Israel für alle registrierten Importeure ein obligatorisches Engrospreis‑Deklarationssystem an.
+
+\8. Jeder Importeur kann beim Distriktsbeamten ein Gesuch um Gewährung des registrierten Status stellen. Der Entscheid des Distriktsbeamten wird dem Importeur innert 21 Tagen mitgeteilt. Fällt er positiv aus, erhält der Importeur unverzüglich den registrierten Status. Im Fall eines abschlägigen Entscheides gibt der Distriktsbeamte die Gründe für die Ablehnung des Gesuches gemäss den in Absatz 5 festgelegten Bedingungen schriftlich bekannt.
+
+\9. Ein registrierter Importeur, welcher die Konsumsteuer aufgrund des tatsächlichen Engrospreises zu entrichten beabsichtigt, hat zusammen mit seiner Einfuhrdeklaration eine Engrospreisdeklaration (für die der Konsumsteuer unterliegenden Waren) einzureichen. Diese Erklärung muss den Anforderungen der Artikel 1 und 17 des Konsumsteuergesetzes entsprechen. Die für die Importeure geltende Pflicht zur Buchführung und zur Abgabe von periodischen Berichten sowie die Buchprüfungs‑ und Rekursverfahren entsprechen jenen, welche für die einheimischen Produzenten Anwendung finden.
+
+\10. Israel ergreift Massnahmen, welche sicherstellen, dass der für ein Produkt anwendbare TAMA‑Koeffizient den Stand, welcher die tatsächliche Praxis der Grossisten für dieses Produkt wiedergibt, nicht übersteigt. Der Ansatz des TAMA-Zuschlages wird auf der Grundlage des tatsächlichen Engrospreisaufschlages einer Stichprobe registrierter und nicht‑registrierter Importeure berechnet.
+
+\11. Auf Ersuchen der EFTA‑Staaten unterbreitet Israel eine Liste aller geltenden TAMA‑Koeffizienten und (sofern von den EFTA‑Staaten für bestimmte Erzeugnisse verlangt) eine erklärende Darstellung der Methodologie, gemäss welcher die TAMA‑Ansätze auf diesen Erzeugnissen berechnet wurden. Auf Ersuchen notifiziert Israel den EFTA‑Staaten ferner jede Änderung der TAMA‑Koeffizienten.
+
+Einfuhr‑ und Ausfuhrbewilligungen
+
+\12. Allfällige automatische Bewilligungen sollten in einer den Handel nicht einschränkenden Weise erteilt werden. Derartige Bewilligungen sollten in jedem Fall innert 14 Tagen erteilt werden. Die Parteien vereinbaren zudem, sich mit dem Inkrafttreten des Abkommens gegenseitig eine Liste von Erzeugnissen zu unterbreiten, für welche die Einfuhrbewilligungen automatisch erteilt werden.
+
+Ursprungsregeln
+
+\13. Was die erklärende Notiz Nr. 7 in Anhang 1 von Protokoll B anbetrifft, so besteht Einvernehmen darüber, dass Israel bis zu seinem Beitritt zum Abkommen über die Durchführung von Artikel VII des GATT[^t-2] den «Zollwert» im Einklang mit dem Übereinkommen über den Zollwert der Waren bestimmen wird.
+
+\14. Israel beabsichtigt, dem GATT‑Abkommen über die Durchführung von Artikel VII des GATT spätestens fünf Jahre nach Inkrafttreten des vorliegenden Abkommens beizutreten.
+
+Wertgrenzen
+
+\15. Die EFTA‑Staaten und Israel vereinbaren, dass für die in Artikel 8 Absatz 1 und 2 von Protokoll B bezüglich der Ausfuhrerklärungen angegebenen Wertgrenzen für kleine Pakete und Reisegepäck spätestens vom 1. Januar 1997 an jene Sätze gelten sollen, welche dannzumal gemäss den Freihandelsabkommen der EFTA‑Staaten mit anderen Drittländern angewandt werden sollen.
+
+Staatliche Monopole
+
+\16. Artikel 9 des Abkommens findet hinsichtlich des Salz‑ und Pulverregals auf die Schweiz und Liechtenstein und hinsichtlich des isländischen Düngemittelmonopols nur soweit Anwendung, als diese Länder entsprechende Verpflichtungen aus dem Abkommen zwischen den EFTA‑Staaten und den Europäischen Gemeinschaften und ihrer Mitgliedstaaten über den Europäischen Wirtschaftsraum zu erfüllen haben.
+
+\17. Auf das österreichische Salzmonopol ist Artikel 9 spätestens am 1. Januar 1995 anwendbar.
+
+Handelsbeschränkungen aus religiösen oder rituellen Gründen
+
+\18. Die Parteien vereinbaren, dass Einfuhr‑, Ausfuhr‑ oder Durchfuhrbeschränkungen aus religiösen oder rituellen Gründen mit dem Abkommen vereinbar sind, sofern sie im Einklang mit dem Grundsatz der Inländerbehandlung und gemäss den in Artikel 8 des Abkommens festgelegten Voraussetzungen und Bestimmungen angewandt werden.
+
+Rechte am geistigen Eigentum
+
+\19. Die Parteien unternehmen im Einklang mit Artikel 15 des Abkommens Schritte, um
+
+- a) bis zum 1. Januar 1995 bezüglich des internationalen Abkommens vom 26. Oktober 1961 zum Schutz der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen (Rom Abkommen) die Ratifikation, den Beitritt sowie die Einhaltung sicherzustellen und alle Gesetze zu erlassen, welche notwendig sind, um dies zu ermöglichen;
+- b) während eines Zeitraums von fünf Jahren nach dem Inkrafttreten des Abkommens sicherzustellen, dass aufgrund unterlassener Ausübung erteilte Lizenzen in dem Masse verwendet werden, als sie zur Belieferung des einheimischen Marktes zu angemessenen Handelsbedingungen notwendig sind.
+
+Staatliche Beihilfen
+
+\20. Die Regeln betreffend die staatlichen Beihilfen und ihre Anwendung werden vor Ende 1995 überprüft, namentlich um sie an alle Änderungen anzupassen, welche in den Beziehungen der Parteien mit den Europäischen Gemeinschaften hinsichtlich der staatlichen Beihilfen eintreten könnten.
+
+Schiedsverfahren
+
+\21. Die EFTA‑Staaten und Israel sind der Auffassung, dass für Streitfälle, die nicht durch Konsultationen zwischen den betroffenen Parteien oder im Gemischten Ausschuss beigelegt werden können, ein Schiedsverfahren erwogen werden könnte. Eine derartige Möglichkeit wird im Gemischten Ausschuss weiter überprüft.
+
+Zusammenarbeit
+
+\22. Der Gemischte Ausschuss kann Möglichkeiten und Modalitäten zur Förderung der Handelsbeziehungen durch Zusammenarbeit besprechen in Bereichen, welche mit dem Handel verbunden sind.
+
+## Gemeinsame Erklärung EFTA/Israel über Ausfuhren aus den Territorien
+
+[^t-2]: [SR 0.632.231.3](https://fedlex.data.admin.ch/eli/cc/1979/2468_2472_2472)
+
+Es wurde eine Vereinbarung getroffen, welche die Ausfuhr von Industriegütern und landwirtschaftlichen Erzeugnissen aus den Gebieten über Israel in die EFTA‑Staaten ermöglichen wird. Gemäss dieser Vereinbarung trifft Israel geeignete Massnahmen, damit derartige Ausfuhren ohne administrative Hindernisse erfolgen können. Für Ausfuhren der arabischen Produzenten und Exporteure aus den Gebieten in die EFTA‑Staaten gelten Verfahren, die mit jenen für die Ausfuhren in die Europäische Gemeinschaft vergleichbar sind.
+
+Zur Förderung ihrer Handelsinteressen bleibt es arabischen Produzenten und Exporteuren in den Gebieten unbenommen, mit Käufern aus den EFTA‑Staaten in Verbindung zu treten und mit ihnen zu verhandeln.
+
+Lokale arabische Handelskammern in den Gebieten sind befugt, Ursprungszeugnisse auszustellen.
+
+### Liste der Anhänge****
+
+[^annexu1-lvlu2-lvlu1-1]
+
+[^annexu1-lvlu2-lvlu1-1]: Diese Dokumente werden (mit Ausnahme des Verständigungsprotokolls und der gemeinsamen Erklärung über Ausfuhren aus den Territorien) weder in der AS noch der SR veröffentlicht ([AS 2008 3967](https://fedlex.data.admin.ch/eli/oc/2008/535); [2010 4529](https://fedlex.data.admin.ch/eli/oc/2010/644); [2021 436](https://fedlex.data.admin.ch/eli/oc/2021/436), [437](https://fedlex.data.admin.ch/eli/oc/2021/437)). Sie sind nur in englischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int &gt; Global Trade Relations &gt; Free Trade Agreements &gt; Israel
+
+<table>
+<tr><td>**Record of Understandings**</td><td>Relating to the Agreement between the EFTA States and Israel; Verständigungsprotokoll</td></tr>
 <tr><td>**Agreed Minutes**</td><td>Minutes agreed on signing the Free Trade Agreement between the EFTA States and Israel</td></tr>
-<tr><td>**Joint Concl****u****sions**</td><td>Joint EFTA-Israel Conclusions on exports from the territories; Gemeinsame Erklärung EFTA/Israel über Ausfuhren aus den Territorien</td></tr>
+<tr><td>**Joint Conclusions**</td><td>Joint EFTA-Israel Conclusions on exports from the territories; Gemeinsame Erklärung EFTA/Israel über Ausfuhren aus den Territorien</td></tr>
 <tr><td>**Declarations**</td><td>by Israel and EFTA States concerning Article 18 of the Agreement</td></tr>
 <tr><td>**Annex I**</td><td>Referred to in Sub-Paragraph (a) of Article 2 – Products not covered by the Agreement</td></tr>
 <tr><td>**Protocol A**</td><td>Referred to in Sub-Paragraph 1(b) of Article 2 – Processed agricultural products</td></tr>
@@ -499,10 +597,12 @@ Liste der Anhänge**[^t-4]**
 <tr><td>**Annex III**</td><td>Referred to in Paragraph 2 of Article 6 *(deleted)* – Customs duties on exports and charges having equivalent effect</td></tr>
 <tr><td>**Annex IV**</td><td>Referred to in Paragraph 2 of Article 7 *(deleted)* – Quantitative restrictions and measures having equivalent effect</td></tr>
 <tr><td>**Annex V**</td><td>Referred to in Article 15 – Protection of intellectual property</td></tr>
-<tr><td>**Annex VI und VII**</td><td>…[^t-5]</td></tr>
+<tr><td>**Annex VI und VII**</td><td>…</td></tr>
 <tr><td>**Protocol D**</td><td>Concerning the treatment that may be applied by Liechtenstein and Switzerland to imports of certain products subject to the scheme for building up compulsory reserves</td></tr>
 <tr><td>**Annex VIII**</td><td>Referred to in Article 25<sup>bis</sup> – Constitution and functioning of the Arbitral Tribunal</td></tr>
-<tr><td>**Joint Commi****t****tee Decisions**</td><td></td></tr>
+<tr><td>**Joint Committee Decisions**</td><td></td></tr>
+<tr><td>No 2-18</td><td>Amendment to Annex I</td></tr>
+<tr><td>No 1-18</td><td>Amendment to Protocol A</td></tr>
 <tr><td>No 1-06</td><td>Amendments to Articles 18 and 23 and Annex II, and deletion of Annexes VI and VIII – State Aid</td></tr>
 <tr><td>No 4-05</td><td>Amendment to Article 22 concerning balance of payments difficulties</td></tr>
 <tr><td>No 3-05</td><td>Mutual administrative assistance in customs matters</td></tr>
@@ -530,10 +630,7 @@ Liste der Anhänge**[^t-4]**
 <tr><td>No 1-93</td><td>Rules of procedure Joint Committee</td></tr>
 </table>
 
-## Geltungsbereich am 1. Juli 1993
-
-[^t-4]: Diese Dokumente werden (mit Ausnahme des Verständigungsprotokolls und der gemeinsamen Erklärung über Ausfuhren aus den Territorien) weder in der AS noch der SR veröffentlicht ([AS 2008 3967](https://fedlex.data.admin.ch/eli/oc/2008/535)). Sie sind nur in englischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: http://www.efta.int/free-trade/free-trade-agreements/israel/
-[^t-5]: Aufgehoben durch Beschluss 1/2006 des Gemischten Ausschusses EFTA–Israel vom 3. Juli 2006, mit Wirkung für die Schweiz seit 5. Juli 2010 ([AS 2010 4529](https://fedlex.data.admin.ch/eli/oc/2010/644)).
+### Geltungsbereich am 1. Juli 1993
 
 <table>
 <tr><td colspan="2">Vertragsstaaten</td><td>Ratifikation</td><td></td><td>Inkrafttreten</td><td></td></tr>
