@@ -4,13 +4,13 @@ number: "412.4.22"
 title: Règlement concernant les examens de certificat de culture générale
 short: RCCG
 language: fr
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-01-07
+version: 2021-08-01
+valid_until: 2022-01-31
+version_adopted: 2021-05-26
 adopted: 2008-06-10
 in_force: 2008-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.4.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6437/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6844/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Examens de certificat de culture générale – R
 
 (RCCG)
 
-du 10.06.2008 (version entrée en vigueur le 01.08.2020)
+du 10.06.2008 (version entrée en vigueur le 01.08.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -104,22 +104,11 @@ Arrête:
 
 #### Art. 8
 
-**Commission cantonale des examens de l'enseignement secondaire du deuxième degré – Participation**
-
-<sup>1</sup> Le président ou la présidente du jury, le directeur ou la directrice et le ou la secrétaire du jury de l'ECGF et de l'ECG du Collège du Sud font partie de la Commission cantonale des examens de l'enseignement secondaire du deuxième degré.
+**…**
 
 #### Art. 9
 
-**Commission cantonale des examens de l'enseignement secondaire du deuxième degré – Compétences**
-
-<sup>1</sup> En matière de certificat de culture générale, la Commission cantonale:
-
-- a) contrôle l'application du règlement à l'ECGF et à l'ECG du Collège du Sud;
-- b) détermine les ouvrages auxiliaires et les instruments de travail autorisés pour les épreuves écrites;
-- c) s'assure, au sujet des examens, de l'équivalence des exigences dans les écoles;
-- d) fixe les dates de la session ordinaire;
-- e) fixe la durée des congés accordés aux personnes candidates pour leur préparation;
-- f) propose à la Direction les changements à apporter au présent règlement.
+**…**
 
 #### Art. 10
 

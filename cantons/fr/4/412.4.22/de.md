@@ -4,13 +4,13 @@ number: "412.4.22"
 title: Reglement über die Abschlussprüfungen an Fachmittelschulen
 short: FMSPR
 language: de
-version: 2020-08-01
-valid_until: 2021-07-31
-version_adopted: 2020-01-07
+version: 2021-08-01
+valid_until: 2022-01-31
+version_adopted: 2021-05-26
 adopted: 2008-06-10
 in_force: 2008-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.4.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/6437/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6844/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Abschlussprüfungen an Fachmittelschulen – R
 
 (FMSPR)
 
-vom 10.06.2008 (Fassung in Kraft getreten am 01.08.2020)
+vom 10.06.2008 (Fassung in Kraft getreten am 01.08.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -104,22 +104,11 @@ beschliesst:
 
 #### Art. 8
 
-**Kantonale Prüfungskommission der Sekundarstufe 2 – Zusammensetzung**
-
-<sup>1</sup> Der kantonalen Prüfungskommission der Sekundarstufe 2 gehören die Präsidentin oder der Präsident der Prüfungskommission, die Direktorin oder der Direktor und die Sekretärin oder der Sekretär der Prüfungskommission der FMSF und der FMS des Kollegiums des Südens an.
+**…**
 
 #### Art. 9
 
-**Kantonale Prüfungskommission der Sekundarstufe 2 – Befugnisse**
-
-<sup>1</sup> In Bezug auf den Fachmittelschulausweis hat die kantonale Prüfungskommission folgende Befugnisse:
-
-- a) Sie kontrolliert die Anwendung des Reglements in der FMSF und in der FMS des Kollegiums des Südens.
-- b) Sie bestimmt, welche Nachschlagewerke und Hilfsmittel bei den schriftlichen Prüfungen erlaubt sind.
-- c) Sie vergewissert sich der Gleichwertigkeit der Prüfungsanforderungen in den Schulen.
-- d) Sie legt die Daten der ordentlichen Prüfungssession fest.
-- e) Sie setzt die Dauer des Vorbereitungsurlaubs für die Kandidatinnen und Kandidaten fest.
-- f) Sie beantragt der Direktion allfällige Änderungen des vorliegenden Reglements.
+**…**
 
 #### Art. 10
 
