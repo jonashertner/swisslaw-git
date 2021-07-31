@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 15 agosto 2012 concernente la sicurezza dei giocat
 short: OSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/573"
 language: it
-version: 2019-12-01
+version: 2021-08-01
 adopted: 2012-08-15
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20191201/it/xml/fedlex-data-admin-ch-eli-cc-2012-573-20191201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20191201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2012-573-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20191201/it"
 
 (Ordinanza sui giocattoli, OSG)
 
-del 15 agosto 2012 (Stato 1° dicembre 2019) (Stato 1° dicembre 2019)
+del 15 agosto 2012 (Stato 1° agosto 2021)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -452,7 +452,7 @@ L’ordinanza del 27 marzo 2002[^24-1] sui giocattoli è abrogata.
 
 <sup>2</sup> Essi possono essere consegnati ai consumatori fino ad esaurimento delle scorte.
 
-[^25b-1]: Introdotto dal n. I dell’O dell’UFSP del 14 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)).
+[^25b-1]: Introdotto dal n. I dell’O dell’USAV del 14 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)).
 
 #### Art. 25c
 
@@ -468,7 +468,7 @@ I giocattoli che non corrispondono alla modifica del 16 dicembre 2016 della pres
 
 I giocattoli che non corrispondono alla modifica del 12 marzo 2018 della presente ordinanza possono essere importati e fabbricati secondo il diritto anteriore fino al 30 aprile 2019. Possono essere consegnati ai consumatori fino a esaurimento delle scorte.
 
-[^25d-1]: Introdotto dal n. I dell’O dell’UFSP del 12 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)).
+[^25d-1]: Introdotto dal n. I dell’O dell’USAV del 12 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)).
 
 #### Art. 25e
 
@@ -479,6 +479,14 @@ I giocattoli che non corrispondono alla modifica del 12 marzo 2018 della present
 <sup>2</sup> I giocattoli che non adempiono gli altri requisiti della modifica del 23 ottobre 2019 possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore fino al 30 novembre 2020. Essi possono essere consegnati ai consumatori fino a esaurimento delle scorte.
 
 [^25e-1]: Introdotto dal n. I dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+
+#### Art. 25f
+
+**Disposizione transitoria della modifica del 30 giugno 2021 relativa all’allegato 2**[^25f-1]
+
+I giocattoli non conformi alla modifica del 30 giugno 2021 relativa all’allegato 2 della presente ordinanza possono essere importati e fabbricati secondo il diritto anteriore sino al 31 luglio 2022. Essi possono essere forniti ai consumatori fino a esaurimento delle scorte.
+
+[^25f-1]: Introdotto dal n. I dell’O dell’USAV del 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
 
 #### Art. 26
 
@@ -539,7 +547,7 @@ Allegato 2*[^t-2]*
 
 ## Requisiti particolari di sicurezza relativi ai giocattoli
 
-[^t-2]: Aggiornato dal n. II cpv. 1 dell’O dell’UFSP del 25 nov. 2013 ([RU 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), dal n. II 3 dell’O del DFI del 5 giu. 2015 ([RU 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), dal n. II cpv. 1 dell’O dell’UFSP del 14 set. 2015 ([RU 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), dai n. I e II cpv. 1 dell’O del DFI del 16 dic. 2016 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), dalla correzione del 30 mag. 2017 ([RU 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), dal n. II dell’O dell’UFSP del 12 mar. 2018 ([RU 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)) e dal n. II cpv. 1 dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+[^t-2]: Aggiornato dal n. II cpv. 1 dell’O dell’UFSP del 25 nov. 2013 ([RU 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), dal n. II 3 dell’O del DFI del 5 giu. 2015 ([RU 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), dal n. II cpv. 1 dell’O dell’USAV del 14 set. 2015 ([RU 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), dai n. I e II cpv. 1 dell’O del DFI del 16 dic. 2016 ([RU 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), dalla correzione del 30 mag. 2017 ([RU 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), dal n. II dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)), dal n. II cpv. 1 dell’O del DFI del 23 ott. 2019 ([RU 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)) e dal n. II dell’O dell’USAV del 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
 
 ### 1. Proprietà fisico-meccaniche
 
@@ -636,7 +644,7 @@ Allegato 2*[^t-2]*
 <tr><td>(7)</td><td>Maleato di dietile</td><td>141-05-9</td></tr>
 <tr><td>(8)</td><td>Diidrocumarina</td><td>119-84-6</td></tr>
 <tr><td>(9)</td><td>2,4-diidrossi-3-metil-benzaldeide</td><td>6248-20-0</td></tr>
-<tr><td>(10)</td><td>3,7-dimetil-2-octen-1-olo (6,7-diidrogeraniolo)</td><td>40607-48-5</td></tr>
+<tr><td>(10)</td><td>...</td><td></td></tr>
 <tr><td>(11)</td><td>4,6-dimetil-8-terz-butil-cumarina</td><td>17874-34-9</td></tr>
 <tr><td>(12)</td><td>Citraconato di dimetile</td><td>617-54-9</td></tr>
 <tr><td>(13)</td><td>7,11-dimetil-4,6,10-dodecatrien-3-one</td><td>26651-96-7</td></tr>
@@ -682,6 +690,9 @@ Allegato 2*[^t-2]*
 <tr><td>(53)</td><td>Isoeugenolo</td><td>97-54-1</td></tr>
 <tr><td>(54)</td><td>Estratti di Evernia prunastri</td><td>90028-68-5</td></tr>
 <tr><td>(55)</td><td>Estratti di Evernia furfuracea</td><td>90028-67-4</td></tr>
+<tr><td>(56)</td><td>Atranolo (2,6-diidrossi-4-metil-benzaldeide)</td><td>526-37-4</td></tr>
+<tr><td>(57)</td><td>Cloratranolo (3-cloro-2,6-diidrossi-4-metil-benzaldeide)</td><td>57074-21-2</td></tr>
+<tr><td>(58)</td><td>Carbonato di metileptino</td><td>111-12-6</td></tr>
 </table>
 
 - b. Le seguenti fragranze allergizzanti devono essere dichiarate sul giocattolo, su un’etichetta fissa o su un foglietto illustrativo se sono aggiunte in concentrazioni superiori a 100 mg/kg del giocattolo o della parte del giocattolo:
@@ -691,7 +702,7 @@ Allegato 2*[^t-2]*
 <tr><td>(1)</td><td>Alcol anisilico</td><td>105-13-5</td></tr>
 <tr><td>(2)</td><td>Benzoato di benzile</td><td>120-51-4</td></tr>
 <tr><td>(3)</td><td>Cinnamato di benzile</td><td>103-41-3</td></tr>
-<tr><td>(4)</td><td>Citronellolo</td><td>106-22-9</td></tr>
+<tr><td>(4)</td><td>Citronellolo</td><td>106-22-9; 1117-61-9; 7540-51-4</td></tr>
 <tr><td>(5)</td><td>Farnesolo</td><td>4602-84-0</td></tr>
 <tr><td>(6)</td><td>Esilcinnamaldeide</td><td>101-86-0</td></tr>
 <tr><td>(7)</td><td>Liliale</td><td>80-54-6</td></tr>
@@ -699,6 +710,67 @@ Allegato 2*[^t-2]*
 <tr><td>(9)</td><td>Linaiolo</td><td>78-70-6</td></tr>
 <tr><td>(10)</td><td>Metileptin carbonato</td><td>111-12-6</td></tr>
 <tr><td>(11)</td><td>3-metil-4-(2,6,6-trimetil-2-cicloesen-1-il)-3-buten-2-one</td><td>127-51-5</td></tr>
+<tr><td>(12)</td><td>Acetilcedrene</td><td>32388-55-9</td></tr>
+<tr><td>(13)</td><td>Salicilato di amile</td><td>2050-08-0</td></tr>
+<tr><td>(14)</td><td>Trans-anetolo</td><td>4180-23-8</td></tr>
+<tr><td>(15)</td><td>Benzaldeide</td><td>100-52-7</td></tr>
+<tr><td>(16)</td><td>Canfora</td><td>76-22-2; 464-49-3</td></tr>
+<tr><td>(17)</td><td>Carvone</td><td>99-49-0; 6485-40-1; 2244-16-8</td></tr>
+<tr><td>(18)</td><td>Ossido di beta-cariofillene</td><td>87-44-5</td></tr>
+<tr><td>(19)</td><td>Rose ketone-4 (damascenone)</td><td>23696-85-7</td></tr>
+<tr><td>(20)</td><td>Alfa-damascone (TMCHB)</td><td>43052-87-5; 23726-94-5</td></tr>
+<tr><td>(21)</td><td>Cis-beta-damascone</td><td>23726-92-3</td></tr>
+<tr><td>(22)</td><td>Delta-damascone</td><td>57378-68-4</td></tr>
+<tr><td>(23)</td><td>Acetato di dimetilbenzile carbinile (DMBCA)</td><td>151-05-3</td></tr>
+<tr><td>(24)</td><td>Hexadecanolactone</td><td>109-29-5</td></tr>
+<tr><td>(25)</td><td>Hexamethylindanopyran</td><td>1222-05-5</td></tr>
+<tr><td>(26)</td><td>(dl)-limonene</td><td>138-86-3</td></tr>
+<tr><td>(27)</td><td>Acetato di linalile</td><td>115-95-7</td></tr>
+<tr><td>(28)</td><td>Mentolo</td><td>1490-04-6; 89-78-1; 2216-51-5</td></tr>
+<tr><td>(29)</td><td>Salicilato di metile</td><td>119-36-8</td></tr>
+<tr><td>(30)</td><td>3-metil-5-(2,2,3-trimetil-3-ciclopenten-1-il)pent-4-en-2-olo</td><td>67801-20-1</td></tr>
+<tr><td>(31)</td><td>Alfa-pinene</td><td>80-56-8</td></tr>
+<tr><td>(32)</td><td>Beta-pinene</td><td>127-91-3</td></tr>
+<tr><td>(33)</td><td>Propilidenftalide</td><td>17369-59-4</td></tr>
+<tr><td>(34)</td><td>Salicilaldeide</td><td>90-02-8</td></tr>
+<tr><td>(35)</td><td>Alfa-santalolo</td><td>115-71-9</td></tr>
+<tr><td>(36)</td><td>Beta-santalolo</td><td>77-42-9</td></tr>
+<tr><td>(37)</td><td>Sclareolo</td><td>515-03-7</td></tr>
+<tr><td>(38)</td><td>Alfa-terpineolo</td><td>10482-56-1; 98-55-5</td></tr>
+<tr><td>(39)</td><td>Terpineolo (miscela di isomeri)</td><td>8000-41-7</td></tr>
+<tr><td>(40)</td><td>Terpinolene</td><td>586-62-9</td></tr>
+<tr><td>(41)</td><td>Tetrametil acetiloctaidronaftaleni</td><td>54464-57-2; 54464-59-4; 68155-66-8; 68155-67-9</td></tr>
+<tr><td>(42)</td><td>Trimetil benzenpropanolo (majantol)</td><td>103694-68-4</td></tr>
+<tr><td>(43)</td><td>Vanillina</td><td>121-33-5</td></tr>
+<tr><td>(44)</td><td>Cananga odorata e olio di ylang-ylang</td><td>83863-30-3; 8006-81-3</td></tr>
+<tr><td>(45)</td><td>Olio di corteccia di Cedrus atlantica</td><td>92201-55-3; 8000-27-9</td></tr>
+<tr><td>(46)</td><td>Olio di foglie di Cinnamomum cassia</td><td>8007-80-5</td></tr>
+<tr><td>(47)</td><td>Olio di corteccia di Cinnamomum zeylanicum</td><td>84649-98-9</td></tr>
+<tr><td>(48)</td><td>Olio di fiori di Citrus aurantium amara</td><td>8016-38-4</td></tr>
+<tr><td>(49)</td><td>Olio di buccia di Citrus aurantium amara</td><td>72968-50-4</td></tr>
+<tr><td>(50)</td><td>Olio estratto dalla buccia di Citrus bergamia</td><td>89957-91-5</td></tr>
+<tr><td>(51)</td><td>Olio estratto dalla buccia di Citrus limonum</td><td>84929-31-7</td></tr>
+<tr><td>(52)</td><td>Olio estratto dalla buccia di Citrus sinensis (sin.: Aurantium dulcis)</td><td>97766-30-8; 8028-48-6</td></tr>
+<tr><td>(53)</td><td>Oli di Cymbopogon citratus/Cymbopogon schoenanthus</td><td>89998-14-1; 8007-02-01; 89998-16-3</td></tr>
+<tr><td>(54)</td><td>Olio di foglie di Eucalyptus spp.</td><td>92502-70-0; 8000-48-4</td></tr>
+<tr><td>(55)</td><td>Olio di foglie/di fiori di Eugenia caryophyllus</td><td>8000-34-8</td></tr>
+<tr><td>(56)</td><td>Jasminum grandiflorum/Jasminum officinale</td><td>84776-64-7; 90045-94-6; 8022-96-6</td></tr>
+<tr><td>(57)</td><td>Juniperus virginiana</td><td>8000-27-9; 85085-41-2</td></tr>
+<tr><td>(58)</td><td>Olio di frutti di Laurus nobilis</td><td>8007-48-5</td></tr>
+<tr><td>(59)</td><td>Olio di foglie di Laurus nobilis</td><td>8002-41-3</td></tr>
+<tr><td>(60)</td><td>Olio di semi di Laurus nobilis</td><td>84603-73-6</td></tr>
+<tr><td>(61)</td><td>Lavandula hybrida</td><td>91722-69-9</td></tr>
+<tr><td>(62)</td><td>Lavandula officinalis</td><td>84776-65-8</td></tr>
+<tr><td>(63)</td><td>Menta piperita</td><td>8006-90-4; 84082-70-2</td></tr>
+<tr><td>(64)</td><td>Mentha spicata</td><td>84696-51-5</td></tr>
+<tr><td>(65)</td><td>Narcissus spp.; vari, tra cui</td><td>90064-25-8</td></tr>
+<tr><td>(66)</td><td>Pelargonium graveolens</td><td>90082-51-2; 8000-46-2</td></tr>
+<tr><td>(67)</td><td>Pinus mugo</td><td>90082-72-7</td></tr>
+<tr><td>(68)</td><td>Pinus pumila</td><td>97676-05-6</td></tr>
+<tr><td>(69)</td><td>Pogostemon cablin</td><td>8014-09-3; 84238-39-1</td></tr>
+<tr><td>(70)</td><td>Olio di fiori di rosa (Rosa spp.); vari, tra cui</td><td>8007-01-0, 93334-48-6, 84696-47-9, 84604-12-6, 90106-38-0, 84604-13-7, 92347-25-6</td></tr>
+<tr><td>(71)</td><td>Santalum album</td><td>84787-70-2; 8006-87-9</td></tr>
+<tr><td>(72)</td><td>Trementina (essenza)</td><td>8006-64-2; 9005-90-7; 8052-14-0</td></tr>
 </table>
 
 - 10\. Giochi olfattivi da tavolo, kit cosmetici e giochi gustativi
@@ -719,8 +791,8 @@ Allegato 2*[^t-2]*
   - a. Fatta salva l’applicazione dei numeri 3 e 4, non possono essere superati i seguenti valori limite nella prova di migrazione dei giocattoli e dei loro componenti:
 
 <table>
-<tr><td>Elemento o composto</td><td>mg/kg di materiale per giocattoli secco, fragile, in polvere o flessibile</td><td>mg/kg di materiale per giocattoli liquido o colloso</td><td>mg/kg di materiale rimovibile dal giocattolo mediante raschiatura</td></tr>
-<tr><td>Alluminio</td><td>5625</td><td>1406</td><td>70000</td></tr>
+<tr><th>Elemento o composto</th><th>mg/kg di materiale per giocattoli secco, fragile, in polvere o flessibile</th><th>mg/kg di materiale per giocattoli liquido o colloso</th><th>mg/kg di materiale rimovibile dal giocattolo mediante raschiatura</th></tr>
+<tr><td>Alluminio</td><td>2250</td><td>560</td><td>28130</td></tr>
 <tr><td>Antimonio</td><td>45</td><td>11,3</td><td>560</td></tr>
 <tr><td>Arsenico</td><td>3,8</td><td>0,9</td><td>47</td></tr>
 <tr><td>Bario</td><td>1500</td><td>375</td><td>18750</td></tr>
@@ -754,12 +826,13 @@ Allegato 2*[^t-2]*
 <tr><td>TCPP</td><td>13674-84-5</td><td>5 mg/kg (valore limite per il contenuto)</td></tr>
 <tr><td>TDCP</td><td>13674-87-8</td><td>5 mg/kg (valore limite per il contenuto)</td></tr>
 <tr><td>Bisfenolo A</td><td>80-05-7</td><td>0,04 mg/l (valore limite di migrazione) secondo le procedure conformi alle norme EN 71-10:2005 e EN 71-11:2005[^annex2-lvlu1-lvl3-16]</td></tr>
-<tr><td>Formammide</td><td>75-12-7</td><td>20 μg/m<sup>3</sup> (valore limite di emissione) dopo un massimo di 28 giorni dall’inizio della prova di emissione dei materiali per giocattoli in schiuma contenenti oltre 200 mg/kg (valore soglia riferita al contenuto).</td></tr>
 <tr><td>1,2-benzisotiazol-3(2H)-one</td><td>2634-33-5</td><td>5 mg/kg (tenore limite) in materiali a base acquosa per giocattoli, conformemente ai metodi di cui alle norme EN 71-10:2005 e EN 71-11:2005</td></tr>
 <tr><td>Massa di reazione di: 5-cloro-2-metil-4-isotiazolin-3-one (n. CE 247-500-7) e 2‑metil-2H-isotiazol-3- one (n. CE 220-239-6) (3:1)</td><td>55965-84-9</td><td>1 mg/kg (tenore limite) in materiali a base acquosa</td></tr>
 <tr><td>5-cloro-2-metilisotiazolin-3(2H)‑one</td><td>26172-55-4</td><td>0,75 mg/kg (tenore limite) in materiali a base acquosa</td></tr>
 <tr><td>2-metilisotiazolin-3(2H)-one</td><td>2682-20-4</td><td>0,25 mg/kg (tenore limite) in materiali a base acquosa</td></tr>
 <tr><td>Fenolo</td><td>108-95-2</td><td>5 mg/l (limite di migrazione) nei materiali polimerici conformemente ai metodi indicati nelle norme EN 71-10:2005 ed EN 71-11:2005. 10 mg/kg (tenore limite) come conservante conformemente ai metodi indicati nelle norme EN 71-10:2005 ed EN 71-11:2005</td></tr>
+<tr><td>Formammide</td><td>75-12-7</td><td>20 μg/m<sup>3</sup> (valore limite di emissione) dopo un massimo di 28 giorni dall’inizio della prova di emissione dei materiali per giocattoli in schiuma contenenti oltre 200 mg/kg (valore soglia riferita al contenuto).</td></tr>
+<tr><td>Formaldeide</td><td>50-00-0</td><td>1,5 mg/l (limite di migrazione) nei materiali polimerici per giocattoli 0,1 ml/m<sup>3</sup> (limite di emissione) nei materiali composti a base di legno per giocattoli 30 mg/kg (tenore limite) nei materiali tessili per giocattoli 30 mg/kg (tenore limite) nei cuoi e nelle pelli per giocattoli 30 mg/kg (tenore limite) nei materiali cartacei per giocattoli 10 mg/kg (tenore limite) nei materiali a base acquosa per giocattoli (valore soglia riferita al contenuto)</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl3-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
@@ -777,7 +850,7 @@ Allegato 2*[^t-2]*
 [^annex2-lvlu1-lvl3-13]: N. CAS 26761-40-0 e 68515-49-1; n. EINECS 247-977-1 e 271-091-4
 [^annex2-lvlu1-lvl3-14]: N. CAS 117-84-0; n. EINECS 204-214-7
 [^annex2-lvlu1-lvl3-15]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^annex2-lvlu1-lvl3-16]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex2-lvlu1-lvl3-16]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 
 ### 4. Proprietà elettriche
 
@@ -804,7 +877,7 @@ Allegato 2*[^t-2]*
 - 1\. I giocattoli non devono contenere nuclidi o sostanze radioattivi in forme o proporzioni che possono nuocere alla salute del bambino.
 - 2\. Per il resto sono applicabili le disposizioni dell’ordinanza del 22 giugno 1994[^annex2-lvlu1-lvl6-1] sulla radioprotezione.
 
-[^annex2-lvlu1-lvl6-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^annex2-lvlu1-lvl6-1]: [[RU 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947), [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)n. II 2, [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129), [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26)[934](https://fedlex.data.admin.ch/eli/oc/2000/140)[2894](https://fedlex.data.admin.ch/eli/oc/2000/504), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 7, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)all. n. 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778), [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)art. 10 n. 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 22, [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 n. II 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4), [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)n. I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)all. 6 n. 3; [RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)art. 200]. Vedi ora l’O del 26 apr. 2017 ([RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)).
 
 Allegato 3*[^t-3]*
 
@@ -833,7 +906,7 @@ Se necessario per l’uso sicuro, le avvertenze devono contenere le opportune re
 
 - 1\.1 I giocattoli potenzialmente pericolosi per i bambini di età inferiore a 36 mesi devono recare un’avvertenza quale: «Avvertenza. Non adatto a bambini di età inferiore a 36 mesi.» oppure «Avvertenza. Non adatto a bambini di età inferiore a tre anni.» oppure il seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20191201/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20210801/it/xml/image/image1.png)
 
 - 1\.2 Questa avvertenza deve essere accompagnata da una breve indicazione dei pericoli specifici che impongono tale precauzione. Tale indicazione complementare può anche essere contenuta nelle istruzioni per l’uso.
 - 1\.3 Il presente numero non si applica ai giocattoli che, per funzioni, dimensioni, caratteristiche, proprietà o altri ragioni cogenti, sono manifestamente inadatti a bambini di età inferiore a 36 mesi.
@@ -908,14 +981,14 @@ Allegato 4*[^t-4]*
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)). Aggiornato dal n. II dell’O dell’USAV del 30 giu. 2021, in vigore dal 1° ago. 2021 ([RU 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
 [^annex4-lvlu1-1]: Le norme possono essere consultate gratuitamente od ottenute a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
 
 <table>
 <tr><td>Numero</td><td>Titolo</td></tr>
 <tr><td>SN EN 71-1:2015 + A1:2018</td><td>Sicurezza dei giocattoli – Parte 1: Proprietà meccaniche e fisiche</td></tr>
 <tr><td>SN EN 71-2:2011 con corrigendum A1:2014</td><td>Sicurezza dei giocattoli – Parte 2: Infiammabilità</td></tr>
-<tr><td>SN EN 71-3:2013 con corrigendum A3:2018</td><td>Sicurezza dei giocattoli – Parte 3: Migrazione di alcuni elementi</td></tr>
+<tr><td>SN EN 71-3:2019</td><td>Sicurezza dei giocattoli – Parte 3: Migrazione di alcuni elementi</td></tr>
 <tr><td>SN EN 71-4:2013</td><td>Sicurezza dei giocattoli – Parte 4: Set sperimentali per chimica e attività connesse</td></tr>
 <tr><td>SN EN 71-5:2016</td><td>Sicurezza dei giocattoli – Parte 5: Giochi chimici (set), esclusi i set sperimentali per chimica</td></tr>
 <tr><td>SN EN 71-7:2014 + A2:2018</td><td>Sicurezza dei giocattoli – Parte 7: Pitture a dito – Requisiti e metodi di prova</td></tr>

@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 15 août 2012 sur la sécurité des jouets (Ordonna
 short: OSJo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/573"
 language: fr
-version: 2019-12-01
+version: 2021-08-01
 adopted: 2012-08-15
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20191201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-573-20191201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20191201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2012-573-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20191201/fr"
 
 (Ordonnance sur les jouets, OSJo)
 
-du 15 août 2012 (Etat le 1<sup>er</sup> décembre 2019)
+du 15 août 2012 (Etat le 1<sup>er</sup> août 2021)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -481,6 +481,14 @@ Les jouets qui ne sont pas conformes à la modification du 12 mars 2018 peuvent 
 
 [^25e-1]: Introduit par le ch. I de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
 
+#### Art. 25f
+
+**Disposition transitoire de la modification du 30 juin 2021 relative à l’annexe 2**[^25f-1]
+
+Les jouets qui ne sont pas conformes à la modification du 30 juin 2021 relative à l’annexe 2 peuvent encore être importés et fabriqués selon l’ancien droit jusqu’au 31 juillet 2022. Ils peuvent être remis au consommateur jusqu’à épuisement des stocks.
+
+[^25f-1]: Introduit par le ch. I de l’O de l’OSAV du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
+
 #### Art. 26
 
 **Entrée en vigueur**
@@ -540,7 +548,7 @@ Annexe 2*[^t-2]*
 
 ## Exigences de sécurité particulières pour les jouets
 
-[^t-2]: Mise à jour selon le ch. II al. 1 de l’O du DFI du 25 nov. 2013 ([RO 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), le ch. II 3 de l’O du DFI du 5 juin 2015 ([RO 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), les ch. I et II al. 1 de l’O du DFI du 16 déc. 2016, ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), l’erratum du 30 mai 2017 ([RO 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), le ch. II de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)) et le ch. II al. 1 de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+[^t-2]: Mise à jour selon le ch. II al. 1 de l’O du DFI du 25 nov. 2013 ([RO 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), le ch. II 3 de l’O du DFI du 5 juin 2015 ([RO 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), le ch. II al. 1 de l’O de l’OSAV du 14 sept. 2015 ([RO 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), les ch. I et II al. 1 de l’O du DFI du 16 déc. 2016, ([RO 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), l’erratum du 30 mai 2017 ([RO 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), le ch. II de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)), le ch. II al. 1 de l’O du DFI du 23 oct. 2019 ([RO 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)) et le ch. II de l’O de l’OSAV du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
 
 ### 1. Propriétés physiques et mécaniques
 
@@ -643,7 +651,7 @@ Annexe 2*[^t-2]*
 <tr><td>(7)</td><td>Maléate diéthylique</td><td>141-05-9</td></tr>
 <tr><td>(8)</td><td>Dihydrocoumarine</td><td>119-84-6</td></tr>
 <tr><td>(9)</td><td>2,4-dihydroxy-3-methylbenzaldéhyde</td><td>6248-20-0</td></tr>
-<tr><td>(10)</td><td>3,7-dimethyle-2-octen-1-ol (6,7-dihydrogéraniol)</td><td>40607-48-5</td></tr>
+<tr><td>(10)</td><td>…</td><td></td></tr>
 <tr><td>(11)</td><td>4,6-dimethyle-8-tert-butylcoumarine</td><td>17874-34-9</td></tr>
 <tr><td>(12)</td><td>Citraconate de diméthyle</td><td>617-54-9</td></tr>
 <tr><td>(13)</td><td>7,11-diméthyle-4,6,10-dodécatrien-3-one</td><td>26651-96-7</td></tr>
@@ -668,7 +676,7 @@ Annexe 2*[^t-2]*
 <tr><td>(32)</td><td>Huile de racine de costus (*Saussurea lappa Clarke*)</td><td>8023-88-9</td></tr>
 <tr><td>(33)</td><td>7-Ethoxy-4-methylcoumarine</td><td>87-05-8</td></tr>
 <tr><td>(34)</td><td>Hexahydrocoumarine</td><td>700-82-3</td></tr>
-<tr><td>(35)</td><td>Baume du Pérou, brut (Exsudation de *Myrox**y**lon Pereirae Klotzsch*)</td><td>8007-00-9</td></tr>
+<tr><td>(35)</td><td>Baume du Pérou, brut (Exsudation de *Myroxylon Pereirae Klotzsch*)</td><td>8007-00-9</td></tr>
 <tr><td>(36)</td><td>2-pentylidène-cyclohexanone</td><td>25677-40-1</td></tr>
 <tr><td>(37)</td><td>3,6,10-triméthyl-3,5,9-undécatrien-2-one</td><td>1117-41-5</td></tr>
 <tr><td>(38)</td><td>Huile de verbena (*Lippia citriodora Kunth*).</td><td>8024-12-2</td></tr>
@@ -689,6 +697,9 @@ Annexe 2*[^t-2]*
 <tr><td>(53)</td><td>Isoeugenol</td><td>97-54-1</td></tr>
 <tr><td>(54)</td><td>Extraits de mousse de chêne</td><td>90028-68-5</td></tr>
 <tr><td>(55)</td><td>Extraits de mousse d’arbre</td><td>90028-67-4</td></tr>
+<tr><td>(56)</td><td>Atranol (2,6-dihydroxy-4-méthylbenzaldéhyde)</td><td>526-37-4</td></tr>
+<tr><td>(57)</td><td>Chloroatranol (3-chloro-2,6-dihydroxy-4-méthylbenzaldéhyde)</td><td>57074-21-2</td></tr>
+<tr><td>(58)</td><td>Heptine carbonate de méthyle</td><td>111-12-6</td></tr>
 </table>
 
 - b. Les substances parfumantes allergisantes ci-après doivent être indiquées sur le jouet, sur une étiquette jointe ou sur un feuillet d’accompagnement, si elles ont été ajoutées aux jouets à des concentrations dépassant 100 mg/kg du jouet ou des pièces de celui-ci:
@@ -698,7 +709,7 @@ Annexe 2*[^t-2]*
 <tr><td>(1)</td><td>Alcool anisique</td><td>105-13-5</td></tr>
 <tr><td>(2)</td><td>Benzoate de benzyle</td><td>120-51-4</td></tr>
 <tr><td>(3)</td><td>Cinnamate de benzyle</td><td>103-41-3</td></tr>
-<tr><td>(4)</td><td>Citronellol</td><td>106-22-9</td></tr>
+<tr><td>(4)</td><td>Citronellol</td><td>106-22-9; 1117-61-9; 7540-51-4</td></tr>
 <tr><td>(5)</td><td>Farnesol</td><td>4602-84-0</td></tr>
 <tr><td>(6)</td><td>Hexylcinnamaldéhyde</td><td>101-86-0</td></tr>
 <tr><td>(7)</td><td>Lilial</td><td>80-54-6</td></tr>
@@ -706,6 +717,67 @@ Annexe 2*[^t-2]*
 <tr><td>(9)</td><td>Linalol</td><td>78-70-6</td></tr>
 <tr><td>(10)</td><td>Methyl heptine carbonate</td><td>111-12-6</td></tr>
 <tr><td>(11)</td><td>3-méthyl-4-(2,6,6-tri-méthyl-2-cyclohexène-1-yl)-3-butène-2-one</td><td>127-51-5</td></tr>
+<tr><td>(12)</td><td>Acétylcédrène</td><td>32388-55-9</td></tr>
+<tr><td>(13)</td><td>Salicylate d’amyle</td><td>2050-08-0</td></tr>
+<tr><td>(14)</td><td>trans-Anéthole</td><td>4180-23-8</td></tr>
+<tr><td>(15)</td><td>Benzaldéhyde</td><td>100-52-7</td></tr>
+<tr><td>(16)</td><td>Camphre</td><td>76-22-2; 464-49-3</td></tr>
+<tr><td>(17)</td><td>Carvone</td><td>99-49-0; 6485-40-1; 2244-16-8</td></tr>
+<tr><td>(18)</td><td>β-Caryophyllène (ox.)</td><td>87-44-5</td></tr>
+<tr><td>(19)</td><td>Cétone-4 de rose (Damascénone)</td><td>23696-85-7</td></tr>
+<tr><td>(20)</td><td>α-Damascone (TMCHB)</td><td>43052-87-5; 23726-94-5</td></tr>
+<tr><td>(21)</td><td>cis-β-Damascone</td><td>23726-92-3</td></tr>
+<tr><td>(22)</td><td>δ-Damascone</td><td>57378-68-4</td></tr>
+<tr><td>(23)</td><td>Acétate de diméthylbenzyle carbinyle (DMBCA)</td><td>151-05-3</td></tr>
+<tr><td>(24)</td><td>Hexadécanolactone</td><td>109-29-5</td></tr>
+<tr><td>(25)</td><td>Hexaméthylindanopyrane</td><td>1222-05-5</td></tr>
+<tr><td>(26)</td><td>(DL)-Limonène</td><td>138-86-3</td></tr>
+<tr><td>(27)</td><td>Acétate de linalyle</td><td>115-95-7</td></tr>
+<tr><td>(28)</td><td>Menthol</td><td>1490-04-6; 89-78-1; 2216-51-5</td></tr>
+<tr><td>(29)</td><td>Salicylate de méthyle</td><td>119-36-8</td></tr>
+<tr><td>(30)</td><td>3-méthyl-5-(2,2,3-triméthyl-3-cyclopenten-1-yl)pent-4- en-2-ol</td><td>67801-20-1</td></tr>
+<tr><td>(31)</td><td>α-Pinène</td><td>80-56-8</td></tr>
+<tr><td>(32)</td><td>β-Pinène</td><td>127-91-3</td></tr>
+<tr><td>(33)</td><td>Phtalure de propylidène</td><td>17369-59-4</td></tr>
+<tr><td>(34)</td><td>Salicylaldéhyde</td><td>90-02-8</td></tr>
+<tr><td>(35)</td><td>α-Santalol</td><td>115-71-9</td></tr>
+<tr><td>(36)</td><td>β-Santalol</td><td>77-42-9</td></tr>
+<tr><td>(37)</td><td>Sclaréol</td><td>515-03-7</td></tr>
+<tr><td>(38)</td><td>α-Terpinéol</td><td>10482-56-1; 98-55-5</td></tr>
+<tr><td>(39)</td><td>Terpinéol (mélange d’isomères)</td><td>8000-41-7</td></tr>
+<tr><td>(40)</td><td>Terpinolène</td><td>586-62-9</td></tr>
+<tr><td>(41)</td><td>Tétraméthylacétyloctahydronaphtalènes</td><td>54464-57-2; 54464-59-4; 68155-66-8; 68155-67-9</td></tr>
+<tr><td>(42)</td><td>Triméthylbenzènepropanol (Majantol)</td><td>103694-68-4</td></tr>
+<tr><td>(43)</td><td>Vanilline</td><td>121-33-5</td></tr>
+<tr><td>(44)</td><td>Cananga odorata et huile d’ylang-ylang</td><td>83863-30-3; 8006-81-3</td></tr>
+<tr><td>(45)</td><td>Huile d’écorce de Cedrus atlantica</td><td>92201-55-3; 8000-27-9</td></tr>
+<tr><td>(46)</td><td>Huile de feuille de Cinnamomum cassia</td><td>8007-80-5</td></tr>
+<tr><td>(47)</td><td>Huile d’écorce de Cinnamomum zeylanicum</td><td>84649-98-9</td></tr>
+<tr><td>(48)</td><td>Huile de fleur de Citrus aurantium amara</td><td>8016-38-4</td></tr>
+<tr><td>(49)</td><td>Huile de zeste de Citrus aurantium amara</td><td>72968-50-4</td></tr>
+<tr><td>(50</td><td>Huile de zeste de Citrus bergamia exprimé</td><td>89957-91-5</td></tr>
+<tr><td>(51)</td><td>Huile de zeste de Citrus limonum exprimé</td><td>84929-31-7</td></tr>
+<tr><td>(52)</td><td>Huile de zeste de Citrus sinensis (syn.: Aurantium dulcis) exprimé</td><td>97766-30-8; 8028-48-6</td></tr>
+<tr><td>(53)</td><td>Huiles de Cymbopogon citratus/schoenanthus</td><td>89998-14-1; 8007-02-01; 89998-16-3</td></tr>
+<tr><td>(54)</td><td>Huile de feuille d’Eucalyptus spp.</td><td>92502-70-0; 8000-48-4</td></tr>
+<tr><td>(55)</td><td>Huile de feuille/fleur d’Eugenia caryophyllus</td><td>8000-34-8</td></tr>
+<tr><td>(56)</td><td>Jasminum grandiflorum/officinale</td><td>84776-64-7; 90045-94-6; 8022-96-6</td></tr>
+<tr><td>(57)</td><td>Juniperus virginiana</td><td>8000-27-9; 85085-41-2</td></tr>
+<tr><td>(58)</td><td>Huile de fruit de Laurus nobilis</td><td>8007-48-5</td></tr>
+<tr><td>(59)</td><td>Huile de feuille de Laurus nobilis</td><td>8002-41-3</td></tr>
+<tr><td>(60)</td><td>Huile de graine de Laurus nobilis</td><td>84603-73-6</td></tr>
+<tr><td>(61)</td><td>Lavandula hybrida</td><td>91722-69-9</td></tr>
+<tr><td>(62)</td><td>Lavandula officinalis</td><td>84776-65-8</td></tr>
+<tr><td>(63)</td><td>Mentha piperita</td><td>8006-90-4; 84082-70-2</td></tr>
+<tr><td>(64)</td><td>Mentha spicata</td><td>84696-51-5</td></tr>
+<tr><td>(65)</td><td>Narcissus spp., divers, y compris</td><td>90064-25-8</td></tr>
+<tr><td>(66)</td><td>Pelargonium graveolens</td><td>90082-51-2; 8000-46-2</td></tr>
+<tr><td>(67)</td><td>Pinus mugo</td><td>90082-72-7</td></tr>
+<tr><td>(68)</td><td>Pinus pumila</td><td>97676-05-6</td></tr>
+<tr><td>(69)</td><td>Pogostemon cablin</td><td>8014-09-3; 84238-39-1</td></tr>
+<tr><td>(70)</td><td>Huile de fleur de rose (Rosa spp.), divers, y compris</td><td>8007-01-0, 93334-48-6, 84696-47-9, 84604-12-6, 90106-38-0, 84604-13-7, 92347-25-6</td></tr>
+<tr><td>(71)</td><td>Santalum album</td><td>84787-70-2; 8006-87-9</td></tr>
+<tr><td>(72)</td><td>Thérébentine (essence)</td><td>8006-64-2; 9005-90-7; 8052-14-0</td></tr>
 </table>
 
 - 10\.
@@ -730,7 +802,7 @@ Annexe 2*[^t-2]*
 
 <table>
 <tr><th>Élément ou liaison</th><th>mg/kg de matière de jouet sèche, friable, poudreuse ou souple</th><th>mg/kg de matière de jouet liquide ou collante</th><th>mg/kg de matière grattée du jouet</th></tr>
-<tr><td>Aluminium</td><td>5625</td><td>1406</td><td>70000</td></tr>
+<tr><td>Aluminium</td><td>2250</td><td>560</td><td>28130</td></tr>
 <tr><td>Antimoine</td><td>45</td><td>11,3</td><td>560</td></tr>
 <tr><td>Arsenic</td><td>3,8</td><td>0,9</td><td>47</td></tr>
 <tr><td>Baryum</td><td>1500</td><td>375</td><td>18750</td></tr>
@@ -759,17 +831,19 @@ Annexe 2*[^t-2]*
 - 15\. Les valeurs limites spécifiques pour les substances chimiques utilisées dans des jouets destinés à l’usage d’enfants de moins de 36 mois ou dans d’autres jouets destinés à être mis en bouche sont les suivantes:
 
 <table>
-<tr><td>Substance</td><td>Numéro CAS</td><td>Valeur limite</td></tr>
-<tr><td>TCEP</td><td>115-96-8</td><td>5 mg/kg (valeur limite pour la teneur)</td></tr>
-<tr><td>TCPP</td><td>13674-84-5</td><td>5 mg/kg (valeur limite pour la teneur)</td></tr>
-<tr><td>TDCP</td><td>13674-87-8</td><td>5 mg/kg (valeur limite pour la teneur)</td></tr>
-<tr><td>Bisphénol A</td><td>80-05-7</td><td>0,04 mg/l (limite spécifique de migration) conformément aux procédures selon les normes EN 71‑10:2005 et EN 71-11:2005[^annex2-lvlu1-lvl3-16]</td></tr>
-<tr><td>Formamide</td><td>75-12-7</td><td>20 μg/m<sup>3</sup> (limite d’émission) après une période maximale de 28 jours à compter du commencement du test des émissions des matériaux de jouet en mousse présentant une teneur en formamide supérieure à 200 mg/kg (valeur seuil basée sur la teneur)</td></tr>
-<tr><td>1,2-benzisothiazol-3(2H)-one</td><td>2634-33-5</td><td>5 mg/kg (teneur limite) dans les matériaux aqueux pour jouets, conformément aux méthodes fixées dans les normes EN 71-10:2005 et EN 71-11:2005</td></tr>
-<tr><td>Masse de réaction de la 5-chloro-2-méthyl-4-isothiazolin‑3-one [n<sup>o</sup> CE 247-500-7] et de la 2-méthyl-2H‑isothiazol-3-one [n<sup>o</sup> CE 220-239-6] (3:1)</td><td>55965-84-9</td><td>1 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</td></tr>
-<tr><td>5-chloro-2-méthyl-isothiazolin-3(2H)-one</td><td>26172-55-4</td><td>0,75 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</td></tr>
-<tr><td>2-méthyl-isothiazolin‑3(2H)-one</td><td>2682-20-4</td><td>0,25 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</td></tr>
-<tr><td>Phénol</td><td>108-95-2</td><td>5 mg/l (limite spécifique de migration) dans les matériaux polymères conformément aux méthodes établies par les normes EN 71‑10:2005 et EN 71-11:2005 10 mg/kg (teneur limite) pour les utilisations en tant qu’agent conservateur conformément aux méthodes établies par les normes EN 71‑10:2005 et EN 71-11:2005</td></tr>
+<tr><th>Substance</th><th>Numéro CAS</th><th>Valeur limite</th></tr>
+<tr><th>TCEP</th><th>115-96-8</th><th>5 mg/kg (valeur limite pour la teneur)</th></tr>
+<tr><th>TCPP</th><th>13674-84-5</th><th>5 mg/kg (valeur limite pour la teneur)</th></tr>
+<tr><th>TDCP</th><th>13674-87-8</th><th>5 mg/kg (valeur limite pour la teneur)</th></tr>
+<tr><th>Bisphénol A</th><th>80-05-7</th><th>0,04 mg/l (limite spécifique de migration) conformément aux procédures selon les normes EN 71‑10:2005 et EN 71-11:2005[^annex2-lvlu1-lvl3-16]</th></tr>
+<tr><th>Formamide</th><th>75-12-7</th><th>20 μg/m<sup>3</sup> (limite d’émission) après une période maximale de 28 jours à compter du commencement du test des émissions des matériaux de jouet en mousse présentant une teneur en formamide supérieure à 200 mg/kg (valeur seuil basée sur la teneur)</th></tr>
+<tr><th>1,2-benzisothiazol-3(2H)-one</th><th>2634-33-5</th><th>5 mg/kg (teneur limite) dans les matériaux aqueux pour jouets, conformément aux méthodes fixées dans les normes EN 71-10:2005 et EN 71-11:2005</th></tr>
+<tr><th>Masse de réaction de la 5-chloro-2-méthyl-4-isothiazolin‑3-one [n<sup>o</sup> CE 247-500-7] et de la 2-méthyl-2H‑isothiazol-3-one [n<sup>o</sup> CE 220-239-6] (3:1)</th><th>55965-84-9</th><th>1 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</th></tr>
+<tr><th>5-chloro-2-méthyl-isothiazolin-3(2H)-one</th><th>26172-55-4</th><th>0,75 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</th></tr>
+<tr><th>2-méthyl-isothiazolin‑3(2H)-one</th><th>2682-20-4</th><th>0,25 mg/kg (teneur limite) dans les matériaux aqueux pour jouets</th></tr>
+<tr><th>Substance</th><th>Numéro CAS</th><th>Valeur limite</th></tr>
+<tr><th>Phénol</th><th>108-95-2</th><th>5 mg/l (limite spécifique de migration) dans les matériaux polymères conformément aux méthodes établies par les normes EN 71‑10:2005 et EN 71-11:2005 10 mg/kg (teneur limite) pour les utilisations en tant qu’agent conservateur conformément aux méthodes établies par les normes EN 71‑10:2005 et EN 71-11:2005</th></tr>
+<tr><th>Formaldéhyde</th><th>50-00-0</th><th>1,5 mg/l (limite de migration) dans les matériaux polymères des jouets 0,1 ml/m<sup>3</sup> (limite d’émission) dans les matériaux composites à base de bois des jouets 30 mg/kg (teneur limite) dans les matériaux textiles des jouets 30 mg/kg (teneur limite) dans les matériaux en cuir des jouets 30 mg/kg (teneur limite) dans les matériaux en papier des jouets 10 mg/kg (teneur limite) dans les matériaux à base aqueuse des jouets (valeur seuil basée sur la teneur)</th></tr>
 </table>
 
 [^annex2-lvlu1-lvl3-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
@@ -817,7 +891,7 @@ Annexe 2*[^t-2]*
 - 1\. Les jouets ne doivent contenir ni éléments ni substances radioactives sous des formes ou dans des proportions susceptibles de nuire à la santé des enfants.
 - 2\. Pour le reste, les dispositions de l’ordonnance du 22 juin 1994 sur la radioprotection[^annex2-lvlu1-lvl6-1] s’appliquent.
 
-[^annex2-lvlu1-lvl6-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^annex2-lvlu1-lvl6-1]: [[RO 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)ch. II 2; [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [934](https://fedlex.data.admin.ch/eli/oc/2000/140), [2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 7; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)annexe 7 ch. 3, [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)annexe ch. 7; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 44, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778)ch. I et III; **2008** 3153 art. 10 ch. 2, 5747 annexe ch. 22; **2010** 5191 art. 20 ch. 4, 5395 annexe 2 ch. II 3; **2011** 5227 ch. I 2.7; **2012** 7065 ch. I 5, 7157; **2013** 3041 ch. I 5, 3407 annexe 6 ch. 3. [RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)art. 105 let. b]. Voir actuellement l’O du 26 avr. 2017 ([RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)).
 
 Annexe 3*[^t-3]*
 
@@ -846,7 +920,7 @@ Si cela est nécessaire pour assurer une utilisation sûre, les avertissements s
 
 - 1\.1 Les jouets qui sont susceptibles de présenter un danger pour les enfants de moins de 36 mois doivent s’accompagner d’un avertissement, tel que: «Attention. Ne convient pas aux enfants de moins de 36 mois» ou «Attention. Ne convient pas aux enfants de moins de trois ans», ou un avertissement sous la forme du graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20191201/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20210801/fr/xml/image/image1.png)
 
 - 1\.2 Cet avertissement s’accompagne d’une brève indication sur le danger précis justifiant cette précaution. Cette indication complémentaire peut également figurer dans la notice d’emploi.
 - 1\.3 Le présent chiffre ne s’applique pas aux jouets qui, en raison de leurs fonctions, dimensions, caractéristiques, propriétés ou autres éléments probants, ne sont manifestement pas susceptibles d’être destinés aux enfants de moins de 36 mois.
@@ -921,14 +995,14 @@ Annexe 4*[^t-4]*
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+[^t-4]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019 ([RO 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)). Mise à jour par le ch. II de l’O de l’OSAV du 30 juin 2021, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
 [^annex4-lvlu1-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
 
 <table>
 <tr><td>Numéro</td><td>Titre</td></tr>
 <tr><td>SN EN 71-1:2015 + A1:2018</td><td>Sécurité des jouets – Partie 1: Propriétés mécaniques et physiques</td></tr>
 <tr><td>SN EN 71-2:2011 avec rectificatif A1:2014</td><td>Sécurité des jouets – Partie 2: Inflammabilité</td></tr>
-<tr><td>SN EN 71-3:2013 avec rectificatif A3:2018</td><td>Sécurité des jouets – Partie 3: Migration de certains éléments</td></tr>
+<tr><td>SN EN 71-3:2019</td><td>Sécurité des jouets – Partie 3: Migration de certains éléments</td></tr>
 <tr><td>SN EN 71-4:2013</td><td>Sécurité des jouets – Partie 4: Coffrets d’expériences chimiques et d’activités connexes</td></tr>
 <tr><td>SN EN 71-5:2016</td><td>Sécurité des jouets – Partie 5: Jeux chimiques (coffrets), autres que les coffrets d’expériences chimiques</td></tr>
 <tr><td>SN EN 71-7:2014 + A2:2018</td><td>Sécurité des jouets – Partie 7: Peintures au doigt – Exigences et méthodes d’essai</td></tr>

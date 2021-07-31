@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 15. August 2012 über die Sicherheit von Spielzeu
 short: VSS
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/573"
 language: de
-version: 2019-12-01
+version: 2021-08-01
 adopted: 2012-08-15
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20191201/de/xml/fedlex-data-admin-ch-eli-cc-2012-573-20191201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20191201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2012-573-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/573/20191201/de"
 
 (Spielzeugverordnung, VSS)
 
-vom 15. August 2012 (Stand am 1. Dezember 2019)
+vom 15. August 2012 (Stand am 1. August 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -483,6 +483,14 @@ Spielzeug, das der Änderung vom 12. März 2018 nicht genügt, darf noch bis zum
 
 [^25e-1]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
 
+#### Art. 25f
+
+**Übergangsbestimmung zur Änderung vom 30. Juni 2021 betreffend Anhang 2**[^25f-1]
+
+Spielzeug, das der Änderung vom 30. Juni 2021 betreffend Anhang 2 nicht entspricht, darf noch bis 31. Juli 2022 nach bisherigem Recht eingeführt und hergestellt werden. Es darf noch bis zur Erschöpfung der Bestände an die Konsumentinnen und Konsumenten abgegeben werden.
+
+[^25f-1]: Eingefügt durch Ziff. I der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
+
 #### Art. 26
 
 **Inkrafttreten**
@@ -542,7 +550,7 @@ Anhang 2*[^t-2]*
 
 ## Besondere Sicherheitsanforderungen an Spielzeug
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V des BAG vom 25. Nov. 2013 ([AS 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), Ziff. II 3 der V des EDI vom 5. Juni 2015 ([AS 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), Ziff. I und II Abs. 1 der V des EDI vom 16. Dez. 2016 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), der Berichtigung vom 30. Mai 2017 ([AS 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), Ziff. II der V des BLV vom 12. März 2018 ([AS 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)) und Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V des BAG vom 25. Nov. 2013 ([AS 2013 5297](https://fedlex.data.admin.ch/eli/oc/2013/844)), Ziff. II 3 der V des EDI vom 5. Juni 2015 ([AS 2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)), Ziff. II Abs. 1 der V des BLV vom 14. Sept. 2015 ([AS 2015 3459](https://fedlex.data.admin.ch/eli/oc/2015/603)), Ziff. I und II Abs. 1 der V des EDI vom 16. Dez. 2016 ([AS 2017 1525](https://fedlex.data.admin.ch/eli/oc/2017/163)), der Berichtigung vom 30. Mai 2017 ([AS 2017 3261](https://fedlex.data.admin.ch/eli/oc/2017/334)), Ziff. II der V des BLV vom 12. März 2018 ([AS 2018 1575](https://fedlex.data.admin.ch/eli/oc/2018/235)), Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019 ([AS 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)) und Ziff. II der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
 
 ### 1. Physikalische und mechanische Eigenschaften
 
@@ -645,7 +653,7 @@ Anhang 2*[^t-2]*
 <tr><td>(7)</td><td>Diethylmaleat</td><td>141-05-9</td></tr>
 <tr><td>(8)</td><td>Dihydrocumarin</td><td>119-84-6</td></tr>
 <tr><td>(9)</td><td>2.4-Dihydroxy-3-methylbenzaldehyd</td><td>6248-20-0</td></tr>
-<tr><td>(10)</td><td>3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol)</td><td>40607-48-5</td></tr>
+<tr><td>(10)</td><td>...</td><td></td></tr>
 <tr><td>(11)</td><td>4,6-Dimethyl-8-tert-butylcumarin</td><td>17874-34-9</td></tr>
 <tr><td>(12)</td><td>Dimethylcitraconat</td><td>617-54-9</td></tr>
 <tr><td>(13)</td><td>7,11-Dimethyl-4,6,10-dodecatrien-3-on</td><td>26651-96-7</td></tr>
@@ -691,6 +699,9 @@ Anhang 2*[^t-2]*
 <tr><td>(53)</td><td>Isoeugenol</td><td>97-54-1</td></tr>
 <tr><td>(54)</td><td>Eichenmoosextrakt</td><td>90028-68-5</td></tr>
 <tr><td>(55)</td><td>Baummoosextrakt</td><td>90028-67-4</td></tr>
+<tr><td>(56)</td><td>Atranol (2,6-Dihydroxy-4-methyl-benzaldeyd)</td><td colspan="2">526-37-4</td></tr>
+<tr><td>(57)</td><td>Chloroatranol (3-Chlor-2,6-dihydroxy-4-méthyl-benzaldehyd)</td><td colspan="2">57074-21-2</td></tr>
+<tr><td>(58)</td><td>Methylheptincarbonat</td><td colspan="2">111-12-6</td></tr>
 </table>
 
 - b. Die folgenden allergenen Duftstoffe müssen auf dem Spielzeug, einer daran befestigten Etikette oder auf einem Begleitzettel angegeben werden, wenn sie in Konzentrationen von mehr als 100 mg pro Kilogramm Spielzeug oder Spielzeugteilen zugesetzt werden:
@@ -700,7 +711,7 @@ Anhang 2*[^t-2]*
 <tr><td>(1)</td><td>Anisylalkohol</td><td>105-13-5</td></tr>
 <tr><td>(2)</td><td>Benzylbenzoat</td><td>120-51-4</td></tr>
 <tr><td>(3)</td><td>Benzylcinnamat</td><td>103-41-3</td></tr>
-<tr><td>(4)</td><td>Citronellol</td><td>106-22-9</td></tr>
+<tr><td>(4)</td><td>Citronellol</td><td>106-22-9; 1117-61-9; 7540-51-4</td></tr>
 <tr><td>(5)</td><td>Farnesol</td><td>4602-84-0</td></tr>
 <tr><td>(6)</td><td>Hexylzimtaldehyd</td><td>101-86-0</td></tr>
 <tr><td>(7)</td><td>Lilial</td><td>80-54-6</td></tr>
@@ -708,6 +719,67 @@ Anhang 2*[^t-2]*
 <tr><td>(9)</td><td>Linalool</td><td>78-70-6</td></tr>
 <tr><td>(10)</td><td>Methylheptincarbonat</td><td>111-12-6</td></tr>
 <tr><td>(11)</td><td>3-Methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)- 3-buten-2-on</td><td>127-51-5</td></tr>
+<tr><td>(12)</td><td>Acetilcedren</td><td colspan="2">32388-55-9</td></tr>
+<tr><td>(13)</td><td>Amylsalicylat</td><td colspan="2">2050-08-0</td></tr>
+<tr><td>(14)</td><td>trans-Anethole</td><td colspan="2">4180-23-8</td></tr>
+<tr><td>(15)</td><td>Benzaldeyd</td><td colspan="2">100-52-7</td></tr>
+<tr><td>(16)</td><td>Campher</td><td colspan="2">76-22-2; 464-49-3</td></tr>
+<tr><td>(17)</td><td>Carvon</td><td colspan="2">99-49-0; 6485-40-1; 2244-16-8</td></tr>
+<tr><td>(18)</td><td>Beta-Caryophyllen (ox.)</td><td colspan="2">87-44-5</td></tr>
+<tr><td>(19)</td><td>Rosen-Keton-4 (Damascenon)</td><td colspan="2">23696-85-7</td></tr>
+<tr><td>(20)</td><td>Alpha-Damascon (TMCHB)</td><td colspan="2">43052-87-5; 23726-94-5</td></tr>
+<tr><td>(21)</td><td>Cis-beta-Damascon</td><td colspan="2">23726-92-3</td></tr>
+<tr><td>(22)</td><td>Delta-Damascon</td><td colspan="2">57378-68-4</td></tr>
+<tr><td>(23)</td><td>Dimethylbenzylcarbinylacetat (DMBCA)</td><td colspan="2">151-05-3</td></tr>
+<tr><td>(24)</td><td>Hexadecanolacton</td><td colspan="2">109-29-5</td></tr>
+<tr><td>(25)</td><td>Hexamethylindenopyran</td><td colspan="2">1222-05-5</td></tr>
+<tr><td>(26)</td><td>(DL)-Limonen</td><td colspan="2">138-86-3</td></tr>
+<tr><td>(27)</td><td>Linalylacetat</td><td colspan="2">115-95-7</td></tr>
+<tr><td>(28)</td><td>Menthol</td><td colspan="2">1490-04-6; 89-78-1; 2216-51-5</td></tr>
+<tr><td>(29)</td><td>Methylsalicylat</td><td colspan="2">119-36-8</td></tr>
+<tr><td>(30)</td><td>3-Methyl-5-(2,2,3-trimethyl-3-cyclopenten-1-yl)pent-4- en-2-ol</td><td colspan="2">67801-20-1</td></tr>
+<tr><td>(31)</td><td>alpha-Pinen</td><td colspan="2">80-56-8</td></tr>
+<tr><td>(32)</td><td>beta-Pinen</td><td colspan="2">127-91-3</td></tr>
+<tr><td>(33)</td><td>Propylidenphthalid</td><td colspan="2">17369-59-4</td></tr>
+<tr><td>(34)</td><td>Salicylaldehyd</td><td colspan="2">90-02-8</td></tr>
+<tr><td>(35)</td><td>alpha-Santalol</td><td colspan="2">115-71-9</td></tr>
+<tr><td>(36)</td><td>beta-Sanatalol</td><td colspan="2">77-42-9</td></tr>
+<tr><td>(37)</td><td>Sclareol</td><td colspan="2">515-03-7</td></tr>
+<tr><td>(38)</td><td>alpha-Terpineol</td><td colspan="2">10482-56-1; 98-55-5</td></tr>
+<tr><td>(39)</td><td>Terpineol (Isomerengemisch)</td><td colspan="2">8000-41-7</td></tr>
+<tr><td>(40)</td><td>Terpinolen</td><td colspan="2">586-62-9</td></tr>
+<tr><td>(41)</td><td>Tetramethylacetyloctahydronaphthalene</td><td colspan="2">54464-57-2; 54464-59-4; 68155-66-8; 68155-67-9</td></tr>
+<tr><td>(42)</td><td>Trimethylbenzolpropanol (Majantol)</td><td colspan="2">103694-68-4</td></tr>
+<tr><td>(43)</td><td>Vanillin</td><td colspan="2">121-33-5</td></tr>
+<tr><td>(44)</td><td>Cananga odorata und Ylang-Ylang-Öl</td><td colspan="2">83863-30-3; 8006-81-3</td></tr>
+<tr><td>(45)</td><td>Rindenöl aus Cedrus Atlantica</td><td colspan="2">92201-55-3; 8000-27-9</td></tr>
+<tr><td>(46)</td><td>Blätteröl aus chinesischem Zimtkassie</td><td colspan="2">8007-80-5</td></tr>
+<tr><td>(47)</td><td>Rindenöl aus Ceylonzimt</td><td colspan="2">84649-98-9</td></tr>
+<tr><td>(48)</td><td>Blütenöl aus der Bitterorange</td><td colspan="2">8016-38-4</td></tr>
+<tr><td>(49)</td><td>Fruchtschalenöl aus der Bitterorange</td><td colspan="2">72968-50-4</td></tr>
+<tr><td>(50)</td><td>Fruchtschalenöl aus dem Bergamottenbaum, ausgepresst</td><td colspan="2">89957-91-5</td></tr>
+<tr><td>(51)</td><td>Fruchtschalenöl aus Zitronen, ausgepresst</td><td colspan="2">84929-31-7</td></tr>
+<tr><td>(52)</td><td>Fruchtschalenöl aus Orangen der Art Citrus sinensis (Syn.: Aurantium dulcis), ausgepresst</td><td colspan="2">97766-30-8; 8028-48-6</td></tr>
+<tr><td>(53)</td><td>Öle aus Zitronengras der Arten Cymbopogon citratus/schoenanthus</td><td colspan="2">89998-14-1; 8007-02-01; 89998-16-3</td></tr>
+<tr><td>(54)</td><td>Blätteröl aus Eukalyptus der Art Eucalyptus spp</td><td colspan="2">92502-70-0; 8000-48-4</td></tr>
+<tr><td>(55)</td><td>Blatt-/Blütenöl aus der Gewürznelke Eugenia caryophyllus</td><td colspan="2">8000-34-8</td></tr>
+<tr><td>(56)</td><td>Echter Jasmin (Jasminum grandiflorum/officinale)</td><td colspan="2">84776-64-7; 90045-94-6; 8022-96-6</td></tr>
+<tr><td>(57)</td><td>Virginischer Wacholder (Juniperus virginiana)</td><td colspan="2">8000-27-9; 85085-41-2</td></tr>
+<tr><td>(58)</td><td>Fruchtöl aus echtem Lorbeer</td><td colspan="2">8007-48-5</td></tr>
+<tr><td>(59)</td><td>Blätteröl aus echtem Lorbeer</td><td colspan="2">8002-41-3</td></tr>
+<tr><td>(60)</td><td>Kernöl aus echtem Lorbeer</td><td colspan="2">84603-73-6</td></tr>
+<tr><td>(61)</td><td>Lavendel</td><td colspan="2">91722-69-9</td></tr>
+<tr><td>(62)</td><td>Echter Lavendel</td><td colspan="2">84776-65-8</td></tr>
+<tr><td>(63)</td><td>Pfefferminze</td><td colspan="2">8006-90-4; 84082-70-2</td></tr>
+<tr><td>(64)</td><td>Grüne Minze</td><td colspan="2">84696-51-5</td></tr>
+<tr><td>(65)</td><td>Narzisse</td><td colspan="2">90064-25-8</td></tr>
+<tr><td>(66)</td><td>Duftgeranie</td><td colspan="2">90082-51-2; 8000-46-2</td></tr>
+<tr><td>(67)</td><td>Bergkiefer</td><td colspan="2">90082-72-7</td></tr>
+<tr><td>(68)</td><td>Zwergkiefer</td><td colspan="2">97676-05-6</td></tr>
+<tr><td>(69)</td><td>Indisches Patschuli</td><td colspan="2">8014-09-3; 84238-39-1</td></tr>
+<tr><td>(70)</td><td>Rosenblütenöl, verschiedene einschliesslich</td><td colspan="2">8007-01-0, 93334-48-6, 84696-47-9, 84604-12-6, 90106-38-0, 84604-13-7, 92347-25-6</td></tr>
+<tr><td>(71)</td><td>Sandelholzbaum</td><td colspan="2">84787-70-2; 8006-87-9</td></tr>
+<tr><td>(72)</td><td>Terpentinöl</td><td colspan="2">8006-64-2; 9005-90-7; 8052-14-0</td></tr>
 </table>
 
 - 10\.
@@ -732,7 +804,7 @@ Anhang 2*[^t-2]*
 
 <table>
 <tr><th>Element oder Verbindung</th><th>mg/kg in trockenen, brüchigen, staubförmigen oder geschmeidigen Spielzeugmaterialien</th><th>mg/kg in flüssigen oder haftenden Spielzeugmaterialien</th><th>mg/kg in abgeschabten Spielzeugmaterialien</th></tr>
-<tr><td>Aluminium</td><td>5625</td><td>1406</td><td>70000</td></tr>
+<tr><td>Aluminium</td><td>2250</td><td>560</td><td>28130</td></tr>
 <tr><td>Antimon</td><td>45</td><td>11,3</td><td>560</td></tr>
 <tr><td>Arsen</td><td>3,8</td><td>0,9</td><td>47</td></tr>
 <tr><td>Barium</td><td>1500</td><td>375</td><td>18750</td></tr>
@@ -761,7 +833,7 @@ Anhang 2*[^t-2]*
 - 15\. Für chemische Stoffe, die in Spielzeug verwendet werden, das zur Verwendung durch Kinder unter 36 Monaten bestimmt ist, oder in anderem Spielzeug, das dazu bestimmt ist, in den Mund genommen zu werden, gelten folgende spezifischen Grenzwerte:
 
 <table>
-<tr><td>Stoff</td><td>CAS-Nummer</td><td>Grenzwert</td></tr>
+<tr><th>Stoff</th><th>CAS-Nummer</th><th>Grenzwert</th></tr>
 <tr><td>TCEP</td><td>115-96-8</td><td>5 mg/kg (Grenzwert für den Gehalt)</td></tr>
 <tr><td>TCPP</td><td>13674-84-5</td><td>5 mg/kg (Grenzwert für den Gehalt)</td></tr>
 <tr><td>TDCP</td><td>13674-87-8</td><td>5 mg/kg (Grenzwert für den Gehalt)</td></tr>
@@ -772,6 +844,7 @@ Anhang 2*[^t-2]*
 <tr><td>5-Chlor-2-methylisothiazolin-3(2H)-on</td><td>26172-55-4</td><td>0,75 mg/kg (Gehaltsgrenzwert) in wässrigem Spielzeugmaterial</td></tr>
 <tr><td>2-Methylisothiazolin-3(2H)-on</td><td>2682-20-4</td><td>0,25 mg/kg (Gehaltsgrenzwert) in wässrigem Spielzeugmaterial</td></tr>
 <tr><td>Phenol</td><td>108-95-2</td><td>5 mg/l (Migrationsgrenzwert) in polymeren Materialien entsprechend den Verfahren nach EN 71-10:2005 und EN 71-11:2005 10 mg/kg (Gehaltsgrenzwert) als Konservierungsmittel entsprechend den Verfahren nach EN 71-10:2005 und EN 71-11:2005</td></tr>
+<tr><td>Formaldehyd</td><td>50-00-0</td><td>1,5 mg/l (Migrationsgrenzwert) in polymeren Spielzeugmaterialien 0,1 ml/m<sup>3</sup> (Emissionsgrenzwert) in Materialien aus Kunstharzsperrholz für Spielzeug 30 mg/kg (Gehaltsgrenzwert) in Textilmateriealien für Spielzeug 30 mg/kg (Gehaltsgrenzwert) in Ledermaterialien für Spielzeug 30 mg/kg (Gehaltsgrenzwert) in Papiermaterialien für Spielzeug 10 mg/kg (Gehaltsgrenzwert) in wasserbasierten Materialien für Spielzeug (Gehaltsschwellenwert)</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl3-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
@@ -819,7 +892,7 @@ Anhang 2*[^t-2]*
 - 1\. Spielzeug darf keine radioaktiven Nuklide oder Stoffe in einer Form oder in solchen Anteilen enthalten, welche die Gesundheit eines Kindes beeinträchtigen können.
 - 2\. Im Übrigen gelten die Bestimmungen der Strahlenschutzverordnung vom 22. Juni 1994[^annex2-lvlu1-lvl6-1].
 
-[^annex2-lvlu1-lvl6-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^annex2-lvlu1-lvl6-1]: [[AS 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947), [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)Ziff. II 2, [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129), [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26)[[934](https://www.fedlex.admin.ch/eli/oc/2000/140/de)](https://fedlex.data.admin.ch/eli/oc/2000/140)[[2894](https://www.fedlex.admin.ch/eli/oc/2000/504/de)](https://fedlex.data.admin.ch/eli/oc/2000/504), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 7, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Anhang 7 Ziff. 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Anhang Ziff. 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778), [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)Art. 10 Ziff. 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Anhang Ziff. 22, [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 Ziff. 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Anhang 2 Ziff. II 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.[[7](https://www.fedlex.admin.ch/eli/oc/2011/4/de)](https://fedlex.data.admin.ch/eli/oc/2011/4), [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)Ziff. I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)Anhang 6 Ziff. 3. [AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)Art. 200]. Siehe heute: die Strahlenschutzverordnung vom 26. April 2017 ([SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)).
 
 Anhang 3*[^t-3]*
 
@@ -850,7 +923,7 @@ Wenn es für den sicheren Gebrauch erforderlich ist, sind in Warnhinweisen geeig
 
 - 1\.1 Spielzeug, das für Kinder unter 36 Monaten gefährlich sein könnte, muss mit einem Warnhinweis versehen sein, beispielsweise: «Achtung. Nicht für Kinder unter 36 Monaten geeignet.» oder «Achtung. Nicht für Kinder unter drei Jahren geeignet.» oder in Form der folgenden Abbildung:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20191201/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/573/20210801/de/xml/image/image1.png)
 
 - 1\.2 Dieser Warnhinweis muss ergänzt werden durch einen kurzen Hinweis auf die besonderen Gefahren, die diese Vorsichtsmassregel erforderlich machen. Der ergänzende Hinweis kann auch aus der Gebrauchsanweisung hervorgehen.
 - 1\.3 Diese Ziffer gilt nicht für Spielzeug, das aufgrund seiner Funktion, seiner Abmessungen, seiner Merkmale und Eigenschaften oder aus anderen zwingenden Gründen offensichtlich nicht für Kinder unter 36 Monaten bestimmt sein kann.
@@ -925,14 +998,14 @@ Anhang 4*[^t-4]*
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)).
+[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3367](https://fedlex.data.admin.ch/eli/oc/2019/614)). Bereinigt gemäss Ziff. II der V des BLV vom 30. Juni 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 425](https://fedlex.data.admin.ch/eli/oc/2021/425)).
 [^annex4-lvlu1-1]: Die Normen können kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
 
 <table>
 <tr><th>Nummer</th><th>Titel</th></tr>
 <tr><td>SN EN 71-1:2015 + A1:2018</td><td>Sicherheit von Spielzeug – Teil 1: Mechanische und physikalische Eigenschaften</td></tr>
 <tr><td>SN EN 71-2:2011 mit Berichtigung A1:2014</td><td>Sicherheit von Spielzeug – Teil 2: Entflammbarkeit</td></tr>
-<tr><td>SN EN 71-3:2013 mit Berichtigung A3:2018</td><td>Sicherheit von Spielzeug – Teil 3: Migration bestimmter Elemente</td></tr>
+<tr><td>SN EN 71-3:2019</td><td>Sicherheit von Spielzeug – Teil 3: Migration bestimmter Elemente</td></tr>
 <tr><td>SN EN 71-4:2013</td><td>Sicherheit von Spielzeug – Teil 4: Experimentierkästen für chemische und ähnliche Versuche</td></tr>
 <tr><td>SN EN 71-5:2016</td><td>Sicherheit von Spielzeug – Teil 5: Chemisches Spielzeug (Sets), ausgenommen Experimentierkästen</td></tr>
 <tr><td>SN EN 71-7:2014 + A2:2018</td><td>Sicherheit von Spielzeug – Teil 7: Fingermalfarben – Anforderungen und Prüfverfahren</td></tr>
