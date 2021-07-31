@@ -4,13 +4,13 @@ number: "415.0.11"
 title: "Reglement für das Lehrpersonal, das der Direktion für Erziehung, Kultur und Sport untersteht"
 short: LPR
 language: de
-version: 2018-05-01
-valid_until: 2021-07-31
-version_adopted: 2018-04-17
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-05-26
 adopted: 2016-03-14
 in_force: 2016-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/415.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5187/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6845/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Lehrpersonal – R
 
 (LPR)
 
-vom 14.03.2016 (Fassung in Kraft getreten am 01.05.2018)
+vom 14.03.2016 (Fassung in Kraft getreten am 01.08.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -58,7 +58,7 @@ beschliesst:
 <sup>1</sup> Das Lehrpersonal im Sinne dieses Reglements umfasst:
 
 - a) die Lehrpersonen der Primarschulen, der Sonderklassen und der Orientierungsschule;
-- b) die Lehrpersonen und die Vorsteherinnen und Vorsteher der Mittelschulen.
+- b) die Lehrpersonen der Mittelschulen.
 
 #### Art. 4
 

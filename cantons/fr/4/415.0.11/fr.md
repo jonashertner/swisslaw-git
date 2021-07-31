@@ -4,13 +4,13 @@ number: "415.0.11"
 title: "Règlement relatif au personnel enseignant de la Direction de l'instruction publique, de la culture et du sport"
 short: RPEns
 language: fr
-version: 2018-05-01
-valid_until: 2021-07-31
-version_adopted: 2018-04-17
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-05-26
 adopted: 2016-03-14
 in_force: 2016-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/415.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5187/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6845/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Personnel enseignant – R
 
 (RPEns)
 
-du 14.03.2016 (version entrée en vigueur le 01.05.2018)
+du 14.03.2016 (version entrée en vigueur le 01.08.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -58,7 +58,7 @@ Arrête:
 <sup>1</sup> Par personnel enseignant, on entend:
 
 - a) les enseignants et enseignantes des écoles primaires et du cycle d'orientation;
-- b) les professeur-e-s et les proviseur-e-s des écoles du secondaire du deuxième degré.
+- b) les enseignants et enseignantes des écoles du secondaire du deuxième degré.
 
 #### Art. 4
 
