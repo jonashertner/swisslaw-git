@@ -3,20 +3,19 @@ canton: BL
 number: "645.21"
 title: Verordnung über den Schulpsychologischen Dienst
 language: de
-version: 2008-08-01
-valid_until: 2021-07-31
-version_adopted: 2008-04-22
+version: 2021-08-01
+version_adopted: 2021-06-22
 adopted: 2008-04-22
 in_force: 2008-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/645.21"
-pdf: "https://bl.clex.ch/api/de/versions/257/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3042/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Schulpsychologischen Dienst
 
-Vom 22.04.2008 (Stand 01.08.2008)
+Vom 22.04.2008 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1], beschliesst:
 
@@ -52,9 +51,11 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 
 <sup>2</sup> Sie entscheiden über die zur Beratung notwendigen psychologischen Abklärungen und Methoden.
 
-<sup>3</sup> Die Inanspruchnahme schulpsychologischer Leistungen ist freiwillig und kostenlos.
+<sup>3</sup> Die Inanspruchnahme schulpsychologischer Leistungen ist in der Regel freiwillig und kostenlos.
 
 <sup>4</sup> Die Anmeldung einer Schülerin oder eines Schülers erfolgt durch die Erziehungsberechtigten, mit deren Einwilligung durch die Lehrperson oder Dritte.
+
+<sup>4<sup>bis</sup></sup> Bei angeordneten Abklärungen erfolgt die Anmeldung durch das Amt für Volksschulen
 
 <sup>5</sup> Urteilsfähige Jugendliche können sich auch selbst anmelden.
 
