@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sulla formazione professionale (Legg
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: it
-version: 2019-01-01
+version: 2021-08-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2003-674-20210801-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20210801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20190101/it"
 
 (Legge sulla formazione professionale, LFPr)
 
-del 13 dicembre 2002 (Stato 1° gennaio 2019) (Stato 1° gennaio 2019)
+del 13 dicembre 2002 (Stato 1° agosto 2021) (Stato 1° agosto 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -77,7 +77,7 @@ La presente legge promuove e sviluppa:
 - d. la permeabilità fra cicli e tipi di formazione nell’ambito della formazione professionale e fra quest’ultima e gli altri settori di formazione;
 - e. la trasparenza del sistema della formazione professionale.
 
-[^3-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^3-1]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 4
 
@@ -280,7 +280,7 @@ Le ordinanze in materia di formazione disciplinano in particolare:
 <sup>4</sup> ...[^19-2]
 
 [^19-1]: Nuova espr. giusta il n. I 8 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^19-2]: Introdotto dall’art. 21 n. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RU 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)). Abrogato dal n. 4 dell’all. alla LF del 26 set. 2014, con effetto dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^19-2]: Introdotto dall’art. 21 n. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RU 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [FF 2003 6699](https://fedlex.data.admin.ch/eli/fga/2003/1274)). Abrogato dall’all. n. 4 della LF del 26 set. 2014, con effetto dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 ### Sezione 3: Operatori
 
@@ -535,7 +535,7 @@ Unicamente i titolari di un diploma di formazione professionale di base e di for
 
 <sup>3</sup> I Cantoni provvedono allo svolgimento degli esami di maturità professionale e rilasciano gli attestati. A titolo complementare anche la Confederazione può organizzare tali esami.
 
-[^39-1]: Abrogato dal n. II 2 dell’all. alla LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, con effetto dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
+[^39-1]: Abrogato dall’all. n. II 2 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, con effetto dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 
 #### Art. 40
 
@@ -611,47 +611,20 @@ La Confederazione può proporre corsi di formazione agli altri responsabili dell
 
 #### Art. 48
 
-**Promozione della pedagogia per la formazione professionale; Istituto universitario federale per la formazione professionale (Istituto)[^48-1]**
+**Promozione della pedagogia per la formazione professionale**[^48-1]
 
 <sup>1</sup> La Confederazione promuove la pedagogia per la formazione professionale.
 
-<sup>2</sup>
+<sup>2</sup> A tale scopo gestisce la Scuola universitaria federale per la formazione professionale (SUFFP). I compiti e l’organizzazione della SUFFP sono disciplinati nella legge del 25 settembre 2020[^48-2] sulla SUFFP.
 
-A tale scopo gestisce un Istituto di formazione superiore incaricato:
-
-- a. della formazione e della formazione continua dei responsabili della formazione professionale, in particolare dei docenti qualora i Cantoni non ne abbiano la competenza;
-- b. della ricerca, di studi, di progetti pilota e della fornitura di servizi nel settore della formazione professionale e della formazione professionale continua.
-
-<sup>3</sup> Il Consiglio federale può affidare all’Istituto altri compiti di interesse nazionale.
-
-<sup>4</sup> Esso disciplina l’organizzazione dell’Istituto. Mediante un’adeguata suddivisione tiene conto delle esigenze dei Cantoni e delle regioni linguistiche.
-
-<sup>5</sup> I conti, il preventivo e la pianificazione finanziaria dell’Istituto sottostanno alla legge federale del 6 ottobre 1989[^48-2] sulle finanze della Confederazione. In casi particolari il Consiglio federale può prevedere deroghe, sempreché i compiti dell’Istituto lo giustifichino.
-
-<sup>6</sup> Un emolumento può essere riscosso per offerte di formazione e prestazioni di servizi dell’Istituto. Il Consiglio federale emana le disposizioni d’esecuzione.
-
-<sup>7</sup> Per sostituire o completare l’Istituto, il Consiglio federale può creare unitamente ai Cantoni altri istituti corrispondenti o riconoscere quelli esistenti.
-
-<sup>8</sup> L’Istituto collabora con istituzioni di formazione adeguate.
-
-[^48-1]: Nuovo testo giusta il n. 1 dell’all. alla LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
-[^48-2]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985), [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)n. II, [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042), [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11, [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5, [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2, [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327),[2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114), [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)all. n. II 7 [4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 6 [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 3 [2143](https://fedlex.data.admin.ch/eli/oc/2004/246). [RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)art. 64]. Vedi ora la LF del 7 ott. 2005 sulle finanze della Confederazione ([RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
+[^48-1]: Nuovo testo giusta l’art. 36 della L del 25 set. 2020 sulla SUFFP, in vigore dal 1° ago. 2021 ([RU 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 627](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^48-2]: [RS 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414)
 
 #### Art. 48a
 
-**Prestazioni commerciali**[^48a-1]
+[^48a-1]
 
-<sup>1</sup>
-
-L’Istituto può fornire a terzi prestazioni commerciali se queste:
-
-- a. sono strettamente correlate ai compiti principali;
-- b. non pregiudicano l’adempimento dei compiti principali; e
-- c. non richiedono considerevoli risorse materiali o di personale supplementari.
-
-<sup>2</sup> Le prestazioni commerciali sono fornite sulla base di una contabilità analitica, a prezzi che consentano almeno di coprire i costi. Il DEFR può concedere deroghe per singole prestazioni, a condizione di non entrare in tal modo in concorrenza con l’economia privata.
-
-[^48a-1]: Introdotto dal n. 1 dell’all. della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^48a-1]: Introdotto dall’all. n. 1 della LF del 18 giu. 2010 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)). Abrogato dall’art. 36 della L del 25 set. 2020 sulla SUFFP, con effetto dal 1° ago. 2021 ([RU 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 627](https://fedlex.data.admin.ch/eli/fga/2020/67)).
 
 ## Capitolo 7: Orientamento professionale, negli studi e nella carriera
 
@@ -844,6 +817,7 @@ Mediante decreto federale semplice, l’Assemblea federale approva di volta in v
   - 2\. i contributi di cui all’articolo 56 per l’organizzazione degli esami federali di professione e degli esami professionali federali superiori nonché per i cicli di formazione nelle scuole specializzate superiori,
   - 3\. i contributi di cui all’articolo 56*a* alle persone che hanno seguito i corsi di preparazione;
 
+- a<sup>bis</sup>.[^59-2] il limite di spesa per le indennità da versare alla SUFFP secondo l’articolo 48 capoverso 2;
 - b.
 
   il credito d’impegno per:
@@ -854,6 +828,7 @@ Mediante decreto federale semplice, l’Assemblea federale approva di volta in v
 <sup>2</sup> Un quarto delle spese dell’ente pubblico per la formazione professionale conformemente alla presente legge rappresenta il valore indicativo per la partecipazione alle spese da parte della Confederazione. La Confederazione versa un importo pari al massimo al 10 per cento di questa partecipazione come contributo per progetti e prestazioni secondo gli articoli 54 e 55.
 
 [^59-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2016, in vigore dal 1° gen. 2018 ([RU 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^59-2]: Introdotta dall’art. 36 della L del 25 set. 2020 sulla SUFFP, in vigore dal 1° ago. 2021 ([RU 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 627](https://fedlex.data.admin.ch/eli/fga/2020/67)).
 
 ### Sezione 2: Fondo per la formazione professionale
 
@@ -880,7 +855,7 @@ Il Consiglio federale può procedere in questo senso a condizione che:
 
 <sup>7</sup> La SEFRI esercita la vigilanza sui fondi dichiarati di obbligatorietà generale. L’ordinanza disciplina i dettagli della presentazione dei conti e della revisione.
 
-[^60-1]: Nuovo testo del per. giusta il n. 13 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^60-1]: Nuovo testo del per. giusta l’all. n. 13 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^60-2]: [RS 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
 
 ## Capitolo 9: Rimedi giuridici, disposizioni penali, esecuzione
@@ -899,8 +874,8 @@ Le autorità di ricorso sono:
 
 <sup>2</sup> Per il rimanente, la procedura è retta dalle disposizioni generali sulla procedura amministrativa federale.
 
-[^61-1]: Nuovo testo giusta il n. 35 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^61-2]: Abrogate dal n. 35 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^61-1]: Nuovo testo giusta l’all. n. 35 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^61-2]: Abrogate dall’all. n. 35 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Sezione 2: Disposizioni penali
 
@@ -1044,7 +1019,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 Data dell’entrata in vigore: 1° gennaio 2004[^74-1]
 
-[^74-1]: DCF del 19 nov. 2003
+[^74-1]: DCF del 19 nov. 2003.
 
 Allegato
 

@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on Vocational and Professional Education
 short: VPETA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: en
-version: 2019-01-01
+version: 2021-08-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20190101/en/xml/fedlex-data-admin-ch-eli-cc-2003-674-20190101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20190101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2003-674-20210801-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20210801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Vocational and Professional Education and Training Act, VPETA)
 
-of 13 December 2002 (Status as of 1 January 2019)
+of 13 December 2002 (Status as of 1 August 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -55,7 +55,7 @@ In order to fulfil the purpose of this Act:
 
 This Act applies to all occupational and professional fields except those covered by the higher education sector:
 
-- a. upper-secondary level vocational education and training (VET), including general education subjects taught in the preparatory course for the Federal Vocational Baccalaureate (FVB) Examination;
+- a. upper-secondary level vocational education and training (VET), including subjects taught in the preparatory course for the Federal Vocational Baccalaureate (FVB) Examination;
 - b. tertiary-level professional education;
 - c. job-related continuing education and training;
 - d. qualification procedures, qualifications and titles;
@@ -135,7 +135,7 @@ The Confederation may promote VPET initiatives intended to help disadvantaged re
 
 <sup>1</sup> Regulations on the VET and professional education sectors shall ensure the greatest possible permeability both within the VET and professional education sectors as well as between the VET and professional education sectors and other sectors of the education system.
 
-<sup>2</sup> Technical or general skills, knowledge and know-how gained outside usual formal education and training pathways (non-formal learning) as well as professional or non-professional experience (informal learning) shall also be recognised and/or validated where appropriate.
+<sup>2</sup> The professional or non-professional experience or technical or general skills gained outside usual formal education and training pathways shall also be recognised and/or validated where appropriate.
 
 #### Art. 10
 
@@ -151,7 +151,7 @@ Host companies and VET schools shall ensure that the rights of learners to be co
 
 <sup>2</sup> Public providers competing with unsubsidised private providers must charge market prices for their job-related CET courses.
 
-## Chapter 2 Vocational Education and Training (VET)
+## Chapter 2 Vocational Education and Training
 
 ### Section 1 General Provisions
 
@@ -247,9 +247,9 @@ VET normally occurs at the following learning locations:
 
 <sup>3</sup> On completion of a three-year or four-year VET programme, learners shall take a final examination to obtain the Federal VET Diploma.
 
-<sup>4</sup> Holders of the Federal VET Diploma who pass the FVB Examination on general education subjects are issued with the Federal Vocational Baccalaureate.
+<sup>4</sup> Holders of the Federal VET Diploma who obtain passing scores on the FVB Examination after completing the preparatory course for that examination shall be issued the Federal Vocational Baccalaureate.
 
-<sup>5</sup> Competences acquired through non-formal or informal learning may be validated through specific qualification procedures leading to issuance of a Federal VET Diploma.
+<sup>5</sup> Competences acquired through non-formal learning may be validated through specific qualification procedures leading to issuance of a Federal VET Diploma.
 
 #### Art. 18
 
@@ -274,10 +274,10 @@ The VET ordinances shall cover the following aspects in particular:
 - a. the subject matter and duration of the corresponding VET programme;
 - b. the objectives and requirements of the workplace training segment;
 - c. the objectives and requirements of the classroom instruction segment;
-- d. the scope of course content and the distribution of VET content across learning locations;
+- d. the scope of training content and distribution across learning locations;
 - e. qualification procedures, qualifications and titles.
 
-<sup>3</sup> Qualification procedures to validate non-formal or informal learning shall be based on corresponding VET ordinances.
+<sup>3</sup> Qualification procedures to validate non-formal learning shall be based on corresponding VET ordinances.
 
 <sup>4</sup> …[^19-2]
 
@@ -292,7 +292,7 @@ The VET ordinances shall cover the following aspects in particular:
 
 <sup>1</sup> The host companies responsible for the workplace training segment of VET programmes shall strive to ensure that learners progress as much as possible and shall monitor learner progress periodically.
 
-<sup>2</sup> In order to provide workplace training within the framework of a VET programme, host companies must first obtain a permit from the local cantonal authority; no fees may be charged for the issuance of such permits.
+<sup>2</sup> Host companies must first obtain a permit from the local cantonal authority; no fees may be charged for the issuance of such permits.
 
 #### Art. 21
 
@@ -324,11 +324,11 @@ VET schools shall have an independent education mandate to do the following:
 
 <sup>2</sup> Mandatory courses shall be free of charge.
 
-<sup>3</sup> Anyone in the host company or VET school who meets the prerequisites may attend optional courses without salary deduction. Attendance of these courses shall be arranged by agreement with the host company. If no such agreement can be reached, the local cantonal authority shall decide.
+<sup>3</sup> Any learner who meets the prerequisites at the host company and VET school may attend optional courses without salary deduction. Attendance of these courses shall be arranged by agreement with the host company. If no such agreement can be reached, the local cantonal authority shall decide.
 
 <sup>4</sup> If a learner is required to attend a remedial course in order to successfully complete his or her VET programme, then the VET school shall reach a special agreement with the company and the learner to organise such a course. If no such agreement can be reached, the local cantonal authority shall decide. Learners may attend these courses without salary deduction.
 
-<sup>5</sup> At the request of trade associations, SERI may authorise specialised courses to be offered at the intercantonal level if the following conditions are met: the courses enable educational objectives to be reached more effectively, the courses increase host company willingness to provide workplace training within the framework of VET programmes, the course can be given without excessive additional cost and there are no significant disadvantages for participants.
+<sup>5</sup> At the request of trade associations, SERI may authorise specialised courses to be offered at the intercantonal level if the following conditions are met: the courses enable training objectives to be reached more effectively, the courses increase host company willingness to provide workplace training within the framework of VET programmes, the course can be given without excessive additional cost and there are no significant disadvantages for participants.
 
 #### Art. 23
 
@@ -362,23 +362,23 @@ Supervisory activities shall also include the following:
 - d. ensuring that apprenticeship contracts are in line with statutory provisions;
 - e. ensuring that contracting parties abide by the terms of their apprenticeship contracts.
 - [tab] <sup>4</sup> If a joint request is made by education and training providers and the learners, the Cantons shall decide on the following matters:
-- a. validation of non-formal or informal learning mentioned in Article 17 paragraph 5;
+- a. validation of non-formal learning under Article 17 paragraph 5;
 - b. cases referred to in Article 18 paragraph 1.
 - [tab] <sup>5</sup> Within the framework of their supervisory activities, the Cantons may:
 - a. claim back all or part of the federal funding given to the third parties referred to in Article 52 paragraph 2 sentence 2;
 - b. terminate an apprenticeship contract.
 
-### Section 5 Federal Vocational Baccalaureate (FVB)
+### Section 5 Federal Vocational Baccalaureate
 
 #### Art. 25
 
 <sup>1</sup> The FVB certifies that the holder has the prerequisite knowledge and skills needed to attend a university of applied sciences.
 
-<sup>2</sup> The general education subjects referred to in Article 17 paragraph 4 may also be attended after a learner obtains the Federal VET Diploma.
+<sup>2</sup> The preparatory course for the FVB Examination referred to in Article 17 paragraph 4 may also be attended after a learner obtains the Federal VET Diploma.
 
 <sup>3</sup> The Cantons shall ensure that there is an adequate supply of preparatory courses for the FVB Examination.
 
-<sup>4</sup> The general education subjects taught in the preparatory course for the FVB Examination shall be free of charge at public schools. Private schools offering similar general education subjects may qualify for federal and/or cantonal funding.
+<sup>4</sup> The preparatory course for the FVB Examination shall be free of charge at public schools. Federal or cantonal subsidies may be paid to private schools.
 
 <sup>5</sup> The Federal Council shall establish the rules applying to the FVB.
 
@@ -398,16 +398,16 @@ Supervisory activities shall also include the following:
 
 A tertiary-level professional qualification may be obtained:
 
-- a. by preparing for a federal professional examination;
+- a. by preparing for a federal professional examination or advanced federal professional examination;
 - b. by enrolling in a federally recognised study programme at a professional education institution.
 
 #### Art. 28
 
-**Federal professional examinations**
+**Federal professional examinations and advanced federal professional examinations**
 
-<sup>1</sup> Suitable professional experience and expertise are required in order to take federal professional examinations.
+<sup>1</sup> Suitable professional experience and expertise are required in order to take a federal professional examination or an advanced federal professional examination.
 
-<sup>2</sup> The corresponding professional organisations shall establish admission requirements, course content, qualification procedures, qualifications and titles. They shall take into account completed courses of study. The regulations shall be subject to approval by SERI. These regulations shall be published in the Federal Gazette in the form of a reference made in accordance with Article 13 paragraph 1 letter g and 3 of the Publications Act of 18 June 2004[^28-1].[^28-2]
+<sup>2</sup> The corresponding professional organisations shall establish admission requirements, course content, qualification procedures, qualifications and titles. They shall take into account completed courses of study. The examination rules shall be subject to approval by SERI. They shall be published in the Federal Gazette in the form of a reference made in accordance with Article 13 paragraph 1 letter g and 3 of the Publications Act of 18 June 2004[^28-1].[^28-2]
 
 <sup>3</sup> The Federal Council shall establish the requirements and procedures for obtaining approval.
 
@@ -420,9 +420,9 @@ A tertiary-level professional qualification may be obtained:
 
 **Professional education institutions**
 
-<sup>1</sup> Anyone wishing to attend a federally recognised study programme leading to issuance of a tertiary-level professional qualification must have sufficient professional experience, unless such professional experience is included in the course of study.
+<sup>1</sup> Anyone wishing to attend a federally recognised study programme at a professional qualification institution must have sufficient professional experience, unless such professional experience is included in the course of study.
 
-<sup>2</sup> The full-time study programme at a professional education institution shall last a minimum of two years, including traineeships at host companies. The part-time study programme shall last a minimum of three years.
+<sup>2</sup> The full-time study programme shall last a minimum of two years, including traineeships at host companies. The part-time study programme shall last a minimum of three years.
 
 <sup>3</sup> The Federal Department of Economic Affairs, Education and Research (EAER)[^29-1] shall work with professional organisations to establish the minimum requirements for federal recognition of study programmes and continuing education and training at professional education institutions. They shall establish the admission requirements, course content, qualification procedures, qualifications and titles.
 
@@ -453,7 +453,7 @@ The Cantons shall ensure an adequate supply of job-related CET courses.
 
 **Measures taken by the Confederation**
 
-<sup>1</sup> The Confederation shall lend support to job-related CET.
+<sup>1</sup> The Confederation shall support job-related CET.
 
 <sup>2</sup>
 
@@ -484,7 +484,7 @@ Professional competence shall be certified on the basis of a general examination
 
 <sup>1</sup> The Federal Council shall establish the rules applying to qualification procedures. It shall be responsible for ensuring the quality and comparability of qualification procedures. The assessment criteria used for qualification procedures must be objective and transparent and ensure equal opportunities.
 
-<sup>2</sup> Access to qualification procedures shall not be dependent on attendance of specific courses of study. SERI shall establish the conditions whereby candidates may be admitted to qualification procedures.
+<sup>2</sup> Access to qualification procedures shall not be contingent upon attendance of specific courses of study. SERI shall establish the conditions whereby candidates may be admitted to qualification procedures.
 
 #### Art. 35
 
@@ -518,7 +518,7 @@ Only holders of an upper secondary-level vocational qualification or a tertiary-
 
 #### Art. 39
 
-**Federal Vocational Baccalaureate (FVB)**
+**Federal Vocational Baccalaureate**
 
 <sup>1</sup> The FVB shall be awarded to holders of the Federal VET Diploma who obtain passing scores on the FVB Examination or whose competences have been validated through an equivalent qualification procedure.
 
@@ -548,9 +548,9 @@ Only holders of an upper secondary-level vocational qualification or a tertiary-
 
 #### Art. 42
 
-**Federal professional examinations**
+**Federal professional examinations and advanced federal professional examinations**
 
-<sup>1</sup> Federal professional examinations are governed by examination rules established in Article 28 paragraph 2 of this Act.
+<sup>1</sup> Federal professional examinations and advanced federal professional examinations are governed by the rules established for these examinations (Article 28 paragraph 2).
 
 <sup>2</sup> The Confederation shall be responsible for overall supervision of these examinations.
 
@@ -558,7 +558,7 @@ Only holders of an upper secondary-level vocational qualification or a tertiary-
 
 **Tertiary-level professional qualifications; entry into the register**
 
-<sup>1</sup> Candidates who obtain passing scores on a federal professional examination shall be awarded a tertiary-level professional qualification conferring either ‘chartered professional’ or ‘higher chartered professional’ status.
+<sup>1</sup> Candidates who obtain passing scores on a federal professional examination or an advanced federal professional examination shall be awarded the corresponding tertiary-level professional qualification.
 
 <sup>2</sup> Both types of professional qualifications shall be issued by SERI.
 
@@ -566,11 +566,11 @@ Only holders of an upper secondary-level vocational qualification or a tertiary-
 
 #### Art. 44
 
-**Federally recognised study programmes**
+**Professional education institutions**
 
-<sup>1</sup> Candidates who complete a federally recognised study programme and obtain passing scores on the final examination or equivalent qualification procedure shall be awarded a tertiary-level professional qualification conferring ‘higher chartered professional’ status.
+<sup>1</sup> Candidates enrolled in a professional education institution who obtain passing scores on the final examination or equivalent qualification procedure shall be awarded the corresponding tertiary-level professional qualification.
 
-<sup>2</sup> The examination procedure and equivalent qualification procedures are subject to the minimum requirements established in Article 29 paragraph 3.
+<sup>2</sup> The examination procedure and equivalent qualification procedures are subject to the minimum requirements (Article 29 paragraph 3).
 
 ## Chapter 6 Training of Professionals working within VPET system
 
@@ -602,47 +602,20 @@ The Confederation may establish training programmes designed for other professio
 
 #### Art. 48
 
-**Promotion of vocational pedagogy; Swiss Federal Institute for Vocational Education and Training (SFIVET)[^48-1]**
+**Support for vocational pedagogy**[^48-1]
 
-<sup>1</sup> The Confederation shall promote vocational pedagogy.
+<sup>1</sup> The Confederation shall support vocational pedagogy.
 
-<sup>2</sup>
+<sup>2</sup> For this purpose, it runs the Swiss Federal University for Vocational Education and Training (SFUVET). The remit and structure of SFUVET are laid down in the SFUVET Act of 25 September 2020[^48-2].
 
-For this purpose, it shall establish a higher education institution responsible for the following:
-
-- a. providing basic and continuing training of professionals within the VPET system, particularly vocational school teachers, insofar as this does not overlap with similar activities carried out by the Cantons;
-- b. carrying out research, studies, pilot projects and providing services relating to the VET, professional education and job-related CET sectors.
-
-<sup>3</sup> The Federal Council may give SFIVET other tasks that serve the interests of Switzerland as a whole.
-
-<sup>4</sup> The Federal Council shall regulate SFIVET, whose campuses shall be established in several locations to better serve the needs of the Cantons and Switzerland’s linguistic regions.
-
-<sup>5</sup> All accounting, budgetary and financial planning activities carried out by SFIVET are subject to the Financial Budget Act of 6 October 1989[^48-2]. In special cases, the Federal Council may provide for exceptions if this enables SFIVET to carry out its tasks more effectively.
-
-<sup>6</sup> SFIVET may charge a fee for the training and services that it provides. The Federal Council shall issue the implementing provisions.
-
-<sup>7</sup> Acting on behalf of SFIVET or alongside it, the Federal Council may work with the Cantons to devise new courses or recognise existing ones.
-
-<sup>8</sup> SFIVET shall work with appropriate education and training institutions.
-
-[^48-1]: Amended by Annex No 1 of the FA of 18 June 2010, in force since 1 Jan. 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
-[^48-2]: [[AS 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985), [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)No II, [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042), [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Annex No 2 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 11, [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)Art. 7 No 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Annex No 5, [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Annex No 7, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)Art. 31 No 2, [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327),[2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114)[3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Annex No II 7 [4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 6 [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Annex No II 3 [2143](https://fedlex.data.admin.ch/eli/oc/2004/246). [AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)Art. 64]. See now the Financial Budget Act of 7 October 2005 ([SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
+[^48-1]: Amended by Art. 36 of SFUVET Act of 25 Sept. 2020, in force since 1 Aug. 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^48-2]: [SR 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414)
 
 #### Art. 48a
 
-**Commercial services**[^48a-1]
+[^48a-1]
 
-<sup>1</sup>
-
-SFIVET may provide commercial services to third parties, provided these services:
-
-- a. are closely related to its core activities;
-- b. do not compromise the fulfilment of its core activities; and
-- c. do not require substantial additional material or human resources.
-
-<sup>2</sup> Commercial services must be provided on the basis of cost and activity accounts at prices that are at least high enough to cover the costs. The EAER may permit exceptions for certain services that are not provided in competition with the private sector.
-
-[^48a-1]: Inserted by Annex No 1 of the FA of 18 June 2010, in force since 1 Jan. 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^48a-1]: Inserted by Annex No 1 of the FA of 18 June 2010 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)). Repealed by Art. 36 of the SFUVET Act of 25 Sept. 2020, with effect from 1 Aug. 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
 
 ## Chapter 7 Vocational, Educational and Career Guidance
 
@@ -668,7 +641,7 @@ SFIVET may provide commercial services to third parties, provided these services
 
 <sup>1</sup> The Cantons shall be responsible for providing vocational, educational and career guidance.
 
-<sup>2</sup> The Cantons shall ensure that vocational, educational and career guidance activities fall in line with labour market measures provided for in the Unemployment Insurance Act of 25 June 1982[^51-1].
+<sup>2</sup> They shall ensure that vocational, educational and career guidance activities fall in line with labour market measures provided for in the Unemployment Insurance Act of 25 June 1982[^51-1].
 
 [^51-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
@@ -690,10 +663,10 @@ The Confederation shall pay the remaining portion of funding to:
 
 - a. the Cantons and third parties so that they may carry out projects designed to develop and improve the quality of VET and professional education (Art. 54);
 - b. the Cantons and third parties so that they may carry out specific activities that serve the public interest (Art. 55);
-- c. third parties so that they may organise federal professional examinations and offer federally recognised study programmes at professional education institutions (Art. 56);
-- d.[^52-1] persons who have completed a preparatory course for a federal professional examination. (Art. 56*a*).
+- c. third parties so that they may organise federal professional examinations, advanced federal professional examinations and other study programmes at professional education institutions (Art. 56);
+- d.[^52-1] persons who have completed a preparatory course for a federal professional examination or advanced federal professional examination. (Art. 56*a*).
 
-[^52-1]: Inserted by No I of FA of 16 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^52-1]: Inserted by No I of the FA of 16 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 53
 
@@ -713,14 +686,14 @@ Lump-sum funding shall be used for the following purpose:
   - 2\. measures to prepare learners for upper-secondary level VET programmes (Art. 12),
   - 3\. VET schools (Art. 21),
   - 4\. branch courses or similar third-party training courses (Art. 23),
-  - 5\. general education subjects taught in the preparatory course for the FVB Examination (Art. 25),
-  - 6\. preparatory courses for federal professional examinations (Art. 28),
-  - 7\. federally recognised study programmes at professional education institutions (Art. 29),
+  - 5\. the preparatory course for the FVB Examination (Art. 25),
+  - 6\. preparatory courses for a federal professional examination or an advanced federal professional examination (Art. 28),
+  - 7\. study programmes at professional education institutions (Art. 29),
   - 8\. job-related CET (Art. 30–32),
   - 9\. training events for workplace trainers (Art. 45),
   - 10\. qualification of vocational, educational and career guidance counsellors (Art. 50);
 
-- b. examination and other qualification procedures (Art. 40 para. 1) are subject to the provisions of Article 52 paragraph 3 letter c.
+- b. the conduct of examinations and other qualification procedures (Art. 40 para. 1) is subject to the provisions of Article 52 paragraph 3 letter c.
 
 [^53-1]: Amended by No II 4 of the FA of 6 Oct. 2006 on New System of Fiscal Equalisation and Division of Tasks between the Confederation and Cantons, in force since 1 Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
@@ -740,38 +713,38 @@ Specific activities that serve the public interest include the following:
 
 - a. measures to promote true gender equality as well as access to education and job-related CET for people with disabilities (Art. 3 let. c);
 - b. information and documentation (Art. 5 let. a);
-- c. the creation of teaching materials for linguistic minorities (Art. 5 let. b);
+- c. the creation of teaching materials intended for linguistic minorities (Art. 5 let. b);
 - d. measures to improve understanding and exchange between the linguistic communities (Art. 6);
-- e. measures to help disadvantaged regions and groups (Art. 7);
+- e. measures intended to help disadvantaged regions and groups (Art. 7);
 - f. measures to help young people confronted with academic, language or social barriers to gain greater access to VET programmes (Art. 7);
-- g measures to help people to remain employed or find new employment (Art. 32 para. 2);
-- h measures to improve the coordination, transparency and quality of VET programmes (Art. 32 para. 3);
+- g measures to help people to remain economically active or find new employment (Art. 32 para. 2);
+- h support measures designed to improve the coordination, transparency and quality of job-related CET (Art. 32 para. 3);
 - i. measures to promote other qualification procedures (Art. 35);
-- j. measures designed to maintain and expand apprenticeship programmes (Art. 1 para. 1).
+- j. measures designed to maintain and expand the number of available apprenticeship positions (Art. 1 para. 1).
 
-<sup>2</sup> Subsidies for public-interest services shall only be paid if the services are planned for the long-term, and can only be provided if subsidised.
+<sup>2</sup> Subsidies for public-interest services shall only be paid if the services are planned for the long-term, and require particular financial support in order to be provided.
 
-<sup>3</sup> The Federal Council may decide that specific services in the public interest qualify for subsidies.
+<sup>3</sup> The Federal Council may decide that other services in the public interest qualify for subsidies.
 
 <sup>4</sup> The Federal Council shall establish the criteria for the granting of subsidies.
 
 #### Art. 56
 
-**Subsidies for federal professional examinations and federally recognised study programmes at professional education institutions**
+**Subsidies for federal professional examinations, advanced federal professional examinations; study programmes at professional education institutions**
 
-The Confederation may provide subsidies to professional organisations wishing to create federal professional examinations and federally recognised study programmes at professional education institutions.
+The Confederation may provide subsidies to professional organisations wishing to conduct federal professional examinations, advanced federal professional examinations and study programmes at professional education institutions.
 
 #### Art. 56a
 
-**Subsidies to persons completing preparatory courses for federal professional examinations**[^56a-1]
+**Subsidies to persons completing preparatory courses for federal professional examinations and advanced federal professional examinations**[^56a-1]
 
-<sup>1</sup> The Confederation may pay persons who complete a preparatory course for a federal professional examination (Art. 28).
+<sup>1</sup> The Confederation may pay persons who complete a preparatory course for a federal professional examination or advanced federal professional examination (Art. 28).
 
 <sup>2</sup> These subsidies may not exceed 50 per cent of eligible course fees.
 
 <sup>3</sup> The Federal Council shall establish the prerequisites for entitlement to a subsidy, the subsidy rate and eligible course fees.
 
-<sup>4</sup> The Confederation may, at the request of persons attending preparatory courses for federal professional examinations, make an advance payment of part of the subsidy amount. The Federal Council shall decide on the specific details.
+<sup>4</sup> The Confederation may, at the request of persons attending a preparatory course for a federal professional examination or an advanced federal professional examination, make an advance payment of part of the subsidy amount. The Federal Council shall decide on the specific details.
 
 [^56a-1]: Inserted by No I of FA of 16 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
@@ -785,12 +758,12 @@ The Confederation may provide subsidies to professional organisations wishing to
 
 It shall process the following data in the information system:
 
-- a. information for identification of recipients of subsidies under Article 56*a* paragraphs 1 and 4;
-- b. information for identification of persons completing preparatory courses for federal professional examinations under Article 28;
+- a. information to identify recipients of subsidies under Article 56*a* paragraphs 1 and 4;
+- b. information to identify persons completing a preparatory course for a federal professional examination or an advanced federal professional examination under Article 28;
 - c. the national insurance number under Article 50*c* of the Federal Act of 20 December 1946[^56b-2] on Old-Age and Survivors Insurance of the persons referred to in letters a and b;
 - d. information about the subsidy amounts received in the cases referred to in Article 56*a* paragraphs 1 and 4;
-- e. information about persons who complete a preparatory course for a federal professional examination;
-- f. information about the completed preparatory course for a federal professional examination.
+- e. information about the preparatory courses;
+- f. information about the successfully completed federal professional examination or advanced federal professional examination.
 
 <sup>3</sup> The Federal Council shall enact provisions on the structure and operation of the information system and on data security, the duration of data storage and deletion of data.
 
@@ -832,19 +805,21 @@ For each multi-year subsidy period, the Federal Assembly shall issue a simple Fe
   the expenditure limits for:
 
   - 1\. the fixed subsidies paid to the Cantons referred to in Article 53,
-  - 2\. the subsidies referred to in Article 56 for organising federal professional examinations and study programmes at professional education institutions,
-  - 3\. the subsidies referred to in Article 56*a* to persons who complete a preparatory course for a federal professional examination;
+  - 2\. the subsidies referred to in Article 56 for organising federal professional examinations, advanced federal professional examinations and study programmes at professional education institutions,
+  - 3\. the subsidies referred to in Article 56*a* to persons who complete a preparatory course;
 
+- a<sup>bis</sup>.[^59-2] the details of subsidy payments to SFUVET under Article 48 paragraph 2;
 - b.
 
   the guaranteed budget for:
 
-  - 1\. subsidies referred to in Article 54 for VET development and quality improvement projects,
-  - 2\. subsidies referred to in Article 54 for specific services in the public interest.
+  - 1\. subsidies referred to in Article 54 for projects that seek to develop and improve the quality of the VPET system,
+  - 2\. subsidies referred to in Article 55 for specific activities that serve the public interest.
 
 <sup>2</sup> As a guideline, the Confederation’s share of education funding should be one quarter of public expenditure on the VPET system under this Act. No more than ten per cent of the Confederation’s share of the costs shall be allocated as a subsidy under Articles 54 and 55 for projects and activities.
 
 [^59-1]: Amended by No I of FA of 16 Dec. 2016, in force since 1 Jan. 2018 ([AS 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^59-2]: Inserted by Art. 36 of the SFUVET Act of 25 Sept. 2020, in force since 1 Aug. 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
 
 ### Section 2 VPET Funds
 
@@ -897,7 +872,7 @@ The appeal authorities are:
 
 #### Art. 62
 
-**Offences**
+**Infringements and negligence**
 
 <sup>1</sup> shall be liable to a fine.
 
@@ -958,13 +933,13 @@ The Cantons shall be responsible for implementing all measures that have not bee
 
 **Delegation of tasks to third parties**
 
-The Confederation and the Cantons may delegate implementation to professional organisations may charge fees for consultation and services rendered.[^67-1]
+The Confederation and the Cantons may delegate implementation to professional organisations. These organisations may charge fees for consultation and services rendered.[^67-1]
 
-[^67-1]: Second part of sentence inserted by No II of the FA of 17 Dec. 2004, in force since 5 Oct. 2005 ([AS 2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [BBl 2004 145](https://fedlex.data.admin.ch/eli/fga/2004/49)).
+[^67-1]: Sentence inserted by No II of the FA of 17 Dec. 2004, in force since 5 Oct. 2005 ([AS 2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [BBl 2004 145](https://fedlex.data.admin.ch/eli/fga/2004/49)).
 
 #### Art. 68
 
-**Recognition of foreign qualifications; International cooperation and mobility**
+**Recognition of foreign vocational and professional qualifications; International cooperation and mobility**
 
 <sup>1</sup> The Federal Council shall establish criteria for the recognition of foreign vocational and professional qualifications that fall within the scope of application of this Act.
 
@@ -972,7 +947,7 @@ The Confederation and the Cantons may delegate implementation to professional or
 
 #### Art. 69
 
-**Federal Commission for Vocational and Professional Education and Training (EBBK)**
+**Federal Commission for Vocational and Professional Education and Training**
 
 <sup>1</sup> The Federal Council shall create a Federal Commission for Vocational and Professional Education and Training (EBBK).
 
@@ -980,7 +955,7 @@ The Confederation and the Cantons may delegate implementation to professional or
 
 <sup>3</sup> The EBBK shall be run by the State Secretary of SERI.
 
-<sup>4</sup> SERI shall act as the EBBK Secretariat.
+<sup>4</sup> SERI shall run the EBBK Secretariat.
 
 #### Art. 70
 
@@ -990,14 +965,14 @@ The Confederation and the Cantons may delegate implementation to professional or
 
 The EBBK shall carry out the following tasks:
 
-- a. the provision of advice to the Confederation on general matters relating to the VET and professional education sectors as well as on matters relating to development, coordination and harmonisation with general education sector policies;
-- b. the assessment of VPET development projects referred to in Article 54, requests for funding of specific activities that serve the public interest referred to in Article 55, requests for funding of professional education activities referred to in Article 56 as well as activities relating to research, studies, pilot projects and services relating to the VET, professional education and job-related CET sectors referred to in Article 48 paragraph 2 letter b.
+- a. the provision of advice to the Confederation on general matters relating to the VPET system as well as on matters relating to development, coordination and harmonisation with general education sector policies;
+- b. the assessment of VPET development projects referred to in Article 54, requests for funding of specific activities that serve the public interest referred to in Article 55, subsidies for professional education referred to in Article 56 as well as activities relating to research, studies, pilot projects and services relating to the VET, professional education and job-related CET sectors referred to in Article 48 paragraph 2 letter b.
 
-<sup>2</sup> The EBBK may also submit its own proposals and recommendations to grant funding agencies in relation to projects under assessment.
+<sup>2</sup> The EBBK may also submit its own proposals and provide grant funding agencies with recommendations on projects under assessment.
 
 #### Art. 71
 
-**Federal Vocational Baccalaureate Commission (FVBC)**
+**Federal Vocational Baccalaureate Commission**
 
 The Federal Council shall appoint a Federal Vocational Baccalaureate Commission (FVBC).[^71-1] The FVBC shall act as an advisory body for all matters relating to the FVB, particularly the recognition of qualification procedures.
 
@@ -1009,7 +984,7 @@ The Federal Council shall appoint a Federal Vocational Baccalaureate Commission 
 
 **Repeal and amendment of current legislation**
 
-The repeals and amendment of current legislation is regulated in the Annex.
+The repeal and amendment of current legislation are regulated in the Annex.
 
 #### Art. 73
 
@@ -1056,4 +1031,4 @@ The following enactments are amended as follows:
 
 [^annexu1-lvlu1-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)No I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 No 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 No 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 para. 2 and Annex No 1, **1998** 1822 Art. 2, **1999** 2374 No I 2, **2003** 187 Annex No II 2]
 [^annexu1-lvlu1-2]: [[AS 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973)]
-[^annexu1-lvlu1-3]: The amendments may be consulted under [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)..
+[^annexu1-lvlu1-3]: The amendments may be consulted under [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674).

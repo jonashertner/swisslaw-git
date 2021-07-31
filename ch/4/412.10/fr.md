@@ -4,11 +4,11 @@ title: Loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFP
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: fr
-version: 2019-01-01
+version: 2021-08-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2003-674-20210801-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20210801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20190101/fr"
 
 (LFPr)
 
-du 13 décembre 2002 (Etat le 1<sup>er</sup> janvier 2019)
+du 13 décembre 2002 (Etat le 1<sup>er</sup> août 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -608,47 +608,20 @@ La Confédération peut offrir des cours de formation aux autres responsables de
 
 #### Art. 48
 
-**Encouragement de la formation pédagogique des enseignants; Institut fédéral des hautes études en formation professionnelle (institut)[^48-1]**
+**Encouragement de la formation pédagogique des enseignants**[^48-1]
 
 <sup>1</sup> La Confédération encourage la pédagogie professionnelle.
 
-<sup>2</sup>
+<sup>2</sup> Elle gère à cet effet la Haute école fédérale en formation professionnelle (HEFP). Les tâches et l’organisation de cette institution sont réglées dans la loi du 25 septembre 2020 sur la HEFP[^48-2].
 
-A cet effet, elle entretient un institut de niveau haute école chargé:
-
-- a. d’assurer la formation et la formation continue des responsables de la formation professionnelle, notamment des enseignants, lorsque la compétence n’en appartient pas aux cantons;
-- b. de faire de la recherche, de mener des études et des projets pilotes et de fournir des prestations de services dans le domaine de la formation professionnelle et de la formation continue à des fins professionnelles.
-
-<sup>3</sup> Le Conseil fédéral peut charger l’institut d’autres tâches d’intérêt national.
-
-<sup>4</sup> Le Conseil fédéral réglemente l’institut. Il le scinde en antennes régionales de manière à tenir compte des besoins des cantons et des régions linguistiques.
-
-<sup>5</sup> Le compte, le budget et la planification financière de l’institut sont régis par la loi fédérale du 6 octobre 1989 sur les finances de la Confédération[^48-2]. Le Conseil fédéral peut, dans des cas particuliers, prévoir des dérogations pour autant que les tâches de l’institut le justifient.
-
-<sup>6</sup> Un émolument peut être exigé pour les offres de formation et les prestations de l’institut. Le Conseil fédéral édicte les dispositions d’exécution.
-
-<sup>7</sup> Le Conseil fédéral peut, en collaboration avec les cantons, créer une institution remplaçant l’institut ou le complétant ou reconnaître des institutions existantes.
-
-<sup>8</sup> L’institut collabore avec des établissements de formation appropriés.
-
-[^48-1]: Nouvelle teneur selon le ch. 1 de l'annexe à la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6525](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
-[^48-2]: [[RO 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985), [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)ch. II, [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042), [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)annexe ch. 2 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 11, [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 ch. 3 [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)annexe ch. 5, [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)annexe ch. 7, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 ch. 2, [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327), [2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114)[3543](https://fedlex.data.admin.ch/eli/oc/2003/510)annexe ch. II 7 [4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 6 [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)annexe ch. II 3 [2143](https://fedlex.data.admin.ch/eli/oc/2004/246). [RO 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)art. 64]. Voir actuellement la L du 7 oct. 2005 ([RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
+[^48-1]: Nouvelle teneur selon l’art. 36 de la L du 25 sept. 2020 sur la HEFP, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 641](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^48-2]: [RS 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414)
 
 #### Art. 48a
 
-**Prestations commerciales**[^48a-1]
+[^48a-1]
 
-<sup>1</sup>
-
-L’institut peut fournir des prestations commerciales à des tiers pour autant que ces prestations remplissent les conditions suivantes:
-
-- a. elles sont liées étroitement à ses tâches principales;
-- b. elles n’entravent pas l’exécution de ses tâches principales;
-- c. elles n’exigent pas d’importantes ressources matérielles et humaines supplémentaires.
-
-<sup>2</sup> Les prestations commerciales sont fournies à des prix permettant au moins de couvrir les coûts calculés sur la base d’une comptabilité analytique. Le DEFR peut autoriser des dérogations pour certaines prestations à condition qu’elles n’entrent pas en concurrence avec le secteur privé.
-
-[^48a-1]: Introduit par le ch. 1 de l’annexe à la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6525](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^48a-1]: Introduit par le ch. 1 de l’annexe à la LF du 18 juin 2010 ([RO 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6525](https://fedlex.data.admin.ch/eli/fga/2009/1281)). Abrogé par l’art. 36 de la L du 25 sept. 2020 sur la HEFP, avec effet au 1<sup>er</sup> août 2021 ([RO 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 641](https://fedlex.data.admin.ch/eli/fga/2020/67)).
 
 ## Chapitre 7 Orientation professionnelle, universitaire et de carrière
 
@@ -842,6 +815,7 @@ L’Assemblée fédérale approuve pour chaque période de subventionnement plur
   - 2\. les subventions destinées à la tenue des examens professionnels fédéraux et des examens professionnels fédéraux supérieurs ainsi qu’aux filières de formation des écoles supérieures en vertu de l’art. 56,
   - 3\. les subventions versées en vertu de l’art. 56*a* aux personnes ayant suivi des cours préparatoires;
 
+- a<sup>bis</sup>. [^59-2] le plafond des dépenses fixé pour les indemnités versées à la HEFP en vertu de l’art. 48, al. 2;
 - b.
 
   le crédit d’engagement pour:
@@ -852,6 +826,7 @@ L’Assemblée fédérale approuve pour chaque période de subventionnement plur
 <sup>2</sup> La participation de la Confédération équivaut à une valeur indicative correspondant au quart du montant des dépenses affectées par les pouvoirs publics à la formation professionnelle en vertu de la présente loi. La Confédération attribue un montant correspondant à 10 % au plus de cette participation à des projets et prestations conformément aux art. 54 et 55.
 
 [^59-1]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^59-2]: Introduit par l’art. 36 de la L du 25 sept. 2020 sur la HEFP, en vigueur depuis le 1<sup>er</sup> août 2021 ([RO 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [FF 2020 641](https://fedlex.data.admin.ch/eli/fga/2020/67)).
 
 ### Section 2 Fonds en faveur de la formation professionnelle
 

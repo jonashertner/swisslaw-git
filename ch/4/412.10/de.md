@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Berufsbildung (Berufsbildun
 short: BBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: de
-version: 2019-01-01
+version: 2021-08-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2003-674-20210801-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20210801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20190101/de"
 
 (Berufsbildungsgesetz, BBG)
 
-vom 13. Dezember 2002 (Stand am 1. Januar 2019)
+vom 13. Dezember 2002 (Stand am 1. August 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -277,7 +277,7 @@ Die Bildungsverordnungen regeln insbesondere:
 
 <sup>3</sup> Die Qualifikationsverfahren für die nicht formalisierten Bildungen orientieren sich an den entsprechenden Bildungsverordnungen.
 
-<sup>4</sup> …[^19-2]
+<sup>4</sup> ...[^19-2]
 
 [^19-1]: Ausdruck gemäss Ziff. I 8 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^19-2]: Eingefügt durch Art. 21 Ziff. 2 des Publikationsgesetzes vom 18. Juni 2004 ([AS 2004 4929](https://fedlex.data.admin.ch/eli/oc/2004/745); [BBl 2003 7711](https://fedlex.data.admin.ch/eli/fga/2003/1274)). Aufgehoben durch Anhang Ziff. 4 des BG vom 26. Sept. 2014, mit Wirkung seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
@@ -520,7 +520,7 @@ Nur Inhaberinnen und Inhaber eines Abschlusses der beruflichen Grundbildung und 
 
 <sup>1</sup> Das eidgenössische Berufsmaturitätszeugnis erhält, wer ein eidgenössisches Fähigkeitszeugnis besitzt und die vom Bund anerkannte Berufsmaturitätsprüfung bestanden oder ein gleichwertiges Qualifikationsverfahren erfolgreich durchlaufen hat.
 
-<sup>2</sup> …[^39-1]
+<sup>2</sup> ...[^39-1]
 
 <sup>3</sup> Die Kantone sorgen für die Durchführung der Berufsmaturitätsprüfungen und stellen die Zeugnisse aus. Ergänzend kann auch der Bund solche Prüfungen durchführen.
 
@@ -600,47 +600,20 @@ Für die Bildung von anderen Berufsbildungsverantwortlichen wie Prüfungsexperti
 
 #### Art. 48
 
-**Förderung der Berufspädagogik; Eidgenössisches Hochschulinstitut für Berufsbildung (Institut)[^48-1]**
+**Förderung der Berufspädagogik**[^48-1]
 
 <sup>1</sup> Der Bund fördert die Berufspädagogik.
 
-<sup>2</sup>
+<sup>2</sup> Er führt zu diesem Zweck die Eidgenössische Hochschule für Berufsbildung (EHB). Die Aufgaben und die Organisation der EHB sind im EHB-Gesetz vom 25. September 2020[^48-2] geregelt.
 
-Er führt zu diesem Zweck ein Institut auf Hochschulstufe, das folgende Aufgaben hat:
-
-- a. Bildung und Weiterbildung von Berufsbildungsverantwortlichen, insbesondere von Lehrkräften, soweit nicht die Kantone zuständig sind;
-- b. Forschung, Studien, Pilotversuche und Dienstleistungen im Bereich der Berufsbildung und der berufsorientierten Weiterbildung.
-
-<sup>3</sup> Der Bundesrat kann das Institut mit weiteren Aufgaben von gesamtschweizerischem Interesse betrauen.
-
-<sup>4</sup> Der Bundesrat regelt das Institut. Durch eine geeignete Untergliederung nimmt er auf die Bedürfnisse der Kantone und der Sprachregionen Rücksicht.
-
-<sup>5</sup> Für Rechnung, Voranschlag und Finanzplanung des Instituts gilt das Finanzhaushaltsgesetz vom 6. Oktober 1989[^48-2]. Der Bundesrat kann in besonderen Fällen Abweichungen vorsehen, soweit es die Aufgaben des Instituts rechtfertigen.
-
-<sup>6</sup> Für Bildungsangebote und Dienstleistungen des Instituts kann eine Gebühr erhoben werden. Der Bundesrat erlässt die Ausführungsbestimmungen.
-
-<sup>7</sup> Der Bundesrat kann an Stelle des Instituts oder in Ergänzung dazu zusammen mit den Kantonen eine entsprechende Einrichtung schaffen oder bestehende anerkennen.
-
-<sup>8</sup> Das Institut arbeitet mit geeigneten Bildungsinstitutionen zusammen.
-
-[^48-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
-[^48-2]: [[AS 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985), [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)Ziff. II, [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042), [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)Anhang Ziff. 2 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 11, [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)Art. 7 Ziff. 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 5, [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 7, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)Art. 31 Ziff. 2, [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327),[2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114)[3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 7 [4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 6 [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 3 [2143](https://fedlex.data.admin.ch/eli/oc/2004/246). [AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)Art. 64]. Siehe heute das Finanzhaushaltgesetz vom 7. Okt. 2005 ([SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
+[^48-1]: Fassung gemäss Art. 36 des EHB-Gesetzes vom 25. Sept. 2020, in Kraft seit 1. Aug. 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^48-2]: [SR 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414)
 
 #### Art. 48a
 
-**Gewerbliche Leistungen**[^48a-1]
+[^48a-1]
 
-<sup>1</sup>
-
-Das Institut kann Dritten gewerbliche Leistungen erbringen, wenn diese Leistungen:
-
-- a. mit den Hauptaufgaben in einem engen Zusammenhang stehen;
-- b. die Erfüllung der Hauptaufgaben nicht beeinträchtigen; und
-- c. keine bedeutenden zusätzlichen sachlichen und personellen Mittel erfordern.
-
-<sup>2</sup> Gewerbliche Leistungen sind auf der Grundlage einer Kosten- und Leistungsrechnung zu mindestens kostendeckenden Preisen zu erbringen. Das WBF kann für bestimmte Leistungen Ausnahmen zulassen, wenn dadurch die Privatwirtschaft nicht konkurrenziert wird.
-
-[^48a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^48a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. Juni 2010 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)). Aufgehoben durch Art. 36 des EHB-Gesetzes vom 25. Sept. 2020, mit Wirkung 1. Aug. 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
 
 ## 7. Kapitel: Berufs-, Studien- und Laufbahnberatung
 
@@ -833,6 +806,7 @@ Die Bundesversammlung bewilligt jeweils mit einfachem Bundesbeschluss für eine 
   - 2\. die Beiträge nach Artikel 56 an die Durchführung eidgenössischer Berufsprüfungen und eidgenössischer höherer Fachprüfungen sowie an Bildungsgänge höherer Fachschulen,
   - 3\. die Beiträge nach Artikel 56*a* an Absolventinnen und Absolventen von vorbereitenden Kursen;
 
+- a<sup>bis</sup>.[^59-2] den Zahlungsrahmen für die Abgeltungen für die EHB nach Artikel 48 Absatz 2;
 - b.
 
   den Verpflichtungskredit für:
@@ -843,6 +817,7 @@ Die Bundesversammlung bewilligt jeweils mit einfachem Bundesbeschluss für eine 
 <sup>2</sup> Als Richtgrösse für die Kostenbeteiligung des Bundes gilt ein Viertel der Aufwendungen der öffentlichen Hand für die Berufsbildung nach diesem Gesetz. Von seiner Kostenbeteiligung entrichtet der Bund höchstens 10 Prozent als Beitrag nach den Artikeln 54 und 55 an Projekte und Leistungen.
 
 [^59-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^59-2]: Eingefügt durch Art. 36 des EHB-Gesetzes vom 25. Sept. 2020, in Kraft seit 1. Aug. 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
 
 ### 2. Abschnitt: Berufsbildungsfonds
 
@@ -884,7 +859,7 @@ Rechtsmittelbehörden sind:
 
 - a. eine vom Kanton bezeichnete kantonale Behörde für Verfügungen kantonaler Behörden und von Anbietern mit kantonalem Auftrag;
 - b.[^61-1] das SBFI für andere Verfügungen von Organisationen ausserhalb der Bundesverwaltung;
-- c. und d.[^61-2] …
+- c. und d.[^61-2] ...
 
 <sup>2</sup> Im Übrigen richtet sich das Verfahren nach den allgemeinen Bestimmungen über die Bundesverwaltungsrechtspflege.
 
@@ -1050,7 +1025,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annexu1-lvlu1-3]
+...[^annexu1-lvlu1-3]
 
 [^annexu1-lvlu1-1]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1, **1998** 1822 Art. 2, **1999** 2374 Ziff. I 2, **2003** 187 Anhang Ziff. II 2]
 [^annexu1-lvlu1-2]: [[AS 1992 1973](https://fedlex.data.admin.ch/eli/oc/1992/1973_1973_1973)]

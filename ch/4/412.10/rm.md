@@ -4,11 +4,11 @@ title: Lescha federala dals 13 da december 2002 davart la furmaziun professiunal
 short: LFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/674"
 language: rm
-version: 2019-01-01
+version: 2021-08-01
 adopted: 2002-12-13
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20190101/rm/xml/fedlex-data-admin-ch-eli-cc-2003-674-20190101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20190101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/674/20210801/rm/xml/fedlex-data-admin-ch-eli-cc-2003-674-20210801-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/674/20210801/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LFPr)
 
-dals 13 da december 2002 (versiun dal 1. da schaner 2019)
+dals 13 da december 2002 (versiun dal 1. d’avust 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -602,47 +602,20 @@ La Confederaziun po metter a disposiziun purschidas per la furmaziun d’autras 
 
 #### Art. 48
 
-**Promoziun da la pedagogia per la furmaziun professiunala; Institut federal da pedagogia per la furmaziun professiunala (institut)[^48-1]**
+**Promoziun da la pedagogia per la furmaziun professiunala**[^48-1]
 
 <sup>1</sup> La Confederaziun promova la pedagogia per la furmaziun professiunala.
 
-<sup>2</sup>
+<sup>2</sup> Per quest intent maina ella la Scola auta federala per la furmaziun professiunala (SAFFP). Las incumbensas e l’organisaziun da la SAFFP èn regladas en la Lescha dals 25 da settember 2020[^48-2] davart la SAFFP.
 
-Per quest intent maina ella in institut sin il stgalim da scola auta; quest institut ha las suandantas incumbensas:
-
-- a. garantir la furmaziun e la furmaziun supplementara da las persunas responsablas per la furmaziun professiunala, en spezial da las persunas d’instrucziun, uschenavant ch’ils chantuns n’èn betg cumpetents;
-- b. perscrutaziun, studis, experiments da pilot e servetschs en il sectur da la furmaziun professiunala e da la furmaziun supplementara orientada a la professiun.
-
-<sup>3</sup> Il Cussegl federal po surdar a l’institut ulteriuras incumbensas ch’èn d’in interess naziunal.
-
-<sup>4</sup> Il Cussegl federal regla l’institut. Tras ina subdivisiun adattada resguarda el ils basegns dals chantuns e da las regiuns linguisticas.
-
-<sup>5</sup> Per il quint, per il preventiv e per la planisaziun da finanzas da l’institut vala la Lescha federala dals 6 d’october 1989[^48-2] davart las finanzas da la Confederaziun. En cas spezials po il Cussegl federal prevair divergenzas, uschenavant che las incumbensas da l’institut giustifitgeschan quai.
-
-<sup>6</sup> Per purschidas da furmaziun e per servetschs da l’institut po vegnir adossada ina taxa. Il Cussegl federal decretescha las disposiziuns executivas.
-
-<sup>7</sup> Il Cussegl federal po – ensemen cun ils chantuns – crear ina instituziun che remplazza u che cumplettescha l’institut u renconuscher instituziuns existentas.
-
-<sup>8</sup> L’institut collavura cun instituziuns da furmaziun adattadas.
-
-[^48-1]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 18 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
-[^48-2]: [[AS 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985), [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)cifra II, [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042), [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)agiunta cifra 2 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)agiunta cifra 11, [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 cifra 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)agiunta cifra 5, [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)agiunta cifra 7, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 cifra 2, [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327), [2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114), [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)agiunta cifra II 7 [4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 6 [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)agiunta cifra II 3 [2143](https://fedlex.data.admin.ch/eli/oc/2004/246). [AS 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)art. 64]. Vesair ussa la LF dals 7 d’oct. 2005 davart las finanzas da la Confederaziun ([SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
+[^48-1]: Versiun tenor l’art. 36 da la LF dals 25 da sett. 2020 davart la SAFFP, en vigur dapi il 1. d’avust 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
+[^48-2]: [SR 412.106](https://fedlex.data.admin.ch/eli/cc/2021/414)
 
 #### Art. 48a
 
-**Prestaziun pajadas**[^48a-1]
+[^48a-1]
 
-<sup>1</sup>
-
-L’institut po far prestaziuns pajadas per terzs, sche questas prestaziuns:
-
-- a. han in stretg connex cun las incumbensas principalas da l’institut;
-- b. na pericliteschan betg che las incumbensas principalas vegnian ademplidas;
-- c. na dovran naginas capacitads persunalas e materialas supplementaras.
-
-<sup>2</sup> Prestaziuns pajadas pon vegnir fatgas a basa d’ina calculaziun dals custs e da las prestaziuns fixond pretschs ch’èn permettan almain da cuvrir ils custs. Il DEFR po permetter excepziuns per tschertas prestaziuns, sche l’economia privata na vegn betg concurrenzada tras quai.
-
-[^48a-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 18 da zer. 2010, en vigur dapi il 1. da schan. 2011 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^48a-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 18 da zer. 2010 ([AS 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [BBl 2009 7207](https://fedlex.data.admin.ch/eli/fga/2009/1281)). Abolì tras l’art. 36 da la LF dals 25 da sett. 2020 davart la SAFFP, cun effect dapi il 1. d’avust 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
 
 ## 7. chapitel Cussegliaziun da professiun, da studi e da carriera
 
@@ -835,6 +808,7 @@ L’Assamblea federala permetta per ina perioda da contribuziun da plirs onns, m
   - 2\. las contribuziuns tenor l’artitgel 56 per la realisaziun dals examens professiunals federals e dals examens professiunals federals superiurs sco er per scolaziuns da scolas spezialisadas superiuras,
   - 3\. las contribuziuns tenor l’artitgel 56*a* ad absolvents da curs preparatorics;
 
+- a<sup>bis</sup>.[^59-2] la limita per las indemnisaziuns pajadas a la SAFFP tenor l’artitgel 48 alinea 2;
 - b.
 
   il credit d’impegn per:
@@ -845,6 +819,7 @@ L’Assamblea federala permetta per ina perioda da contribuziun da plirs onns, m
 <sup>2</sup> La participaziun da la Confederaziun als custs correspunda a circa in quart da l’import che vegn pajà dal maun public per la furmaziun professiunala tenor questa lescha. Da sia participaziun als custs paja la Confederaziun maximalmain 10 pertschient sco contribuziun per projects e per prestaziuns tenor ils artitgels 54 e 55.
 
 [^59-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2017 5143](https://fedlex.data.admin.ch/eli/oc/2017/564); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^59-2]: Integrà tras l’art. 36 da la LF dals 25 da sett. 2020 davart la SAFFP, en vigur dapi il 1. d’avust 2021 ([AS 2021 414](https://fedlex.data.admin.ch/eli/oc/2021/414); [BBl 2020 661](https://fedlex.data.admin.ch/eli/fga/2020/67)).
 
 ### 2. part Fond per la furmaziun professiunala
 
