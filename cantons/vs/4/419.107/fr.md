@@ -1,488 +1,527 @@
 ---
 canton: VS
 number: "419.107"
-title: "Ordonnance concernant la formation professionnelle des enseignants de l'enseignement secondaire du degré I et du degré II général"
-short: OFPES
+title: "Ordonnance sur la formation à l'enseignement du degré secondaire I et/ou du degré secondaire II"
+short: OFES
 language: fr
-version: 2013-08-01
-corrected: 2017-09-07
-version_adopted: 2013-05-29
+version: 2021-08-01
+version_adopted: 2021-04-21
 adopted: 2021-04-21
 in_force: 2021-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/419.107"
-pdf: "https://lex.vs.ch/api/fr/versions/472/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2887/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant la formation professionnelle des enseignants de l'enseignement secondaire du degré I et du degré II général (OFPES)
+# Ordonnance sur la formation à l'enseignement du degré secondaire I et/ou du degré secondaire II
 
-du 25 juin 2008
+(OFES)
+
+du 21.04.2021 (état 01.08.2021)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l'article 13 de la Constitution cantonale vu la loi sur l'instruction publique du 4 juillet 1962;
+vu l'article 57 alinéa 2 de la Constitution cantonale;
 
-vu la loi sur la Haute école pédagogique du 4 octobre 1996;
+vu les articles 22 à 24 de la loi sur la Haute école pédagogique du 4 octobre 1996 (LHEP);
 
-sur la proposition du Département de l'éducation, de la culture et du sport,
+vu la loi d'adhésion à l'accord intercantonal sur la reconnaissance des diplômes de fin d'études du 11 mai 1995;
 
-ordonne:
+vu le règlement de la CDIP sur la reconnaissance des certificats de maturité gymnasiale du 16 janvier 1995 (RRM);
 
-### Section 1 Généralités
+vu le règlement concernant la reconnaissance des diplômes d’enseignement du degré primaire, du degré secondaire I et pour les écoles de maturité de la Conférence suisse des directeurs cantonaux de l’instruction publique (CDIP) du 28 mars 2019;
+
+sur la proposition du département en charge de la formation,
+
+ordonne: [^ingress-1]
+
+[^ingress-1]: Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction, vise indifféremment l’homme ou la femme.
+
+## 1 Dispositions générales
 
 #### Art. 1
 
 **Champ d'application**
 
-La présente ordonnance régit la formation professionnelle à la HEP-VS des candidats à l'enseignement au secondaire du degré I et/ou du degré II général.
+<sup>1</sup> La présente ordonnance fixe les dispositions relatives aux buts, à l'admission, à l'organisation des études et aux modalités d'évaluation et de certification de la formation à l'enseignement dans les écoles du degré secondaire I et/ou du degré secondaire II à la Haute école pédagogique du Valais (ci-après: la HEP-VS).
+
+<sup>2</sup> Elle comprend également l'organisation des études pour l'obtention d'un diplôme additionnel pour enseigner des disciplines supplémentaires ou les mêmes disciplines dans des degrés d'enseignement supplémentaires.
+
+<sup>3</sup> Les modalités d'application de la présente ordonnance sont précisées dans un règlement interne de la HEP-VS.
 
 #### Art. 2
 
-**Formation - Cursus**
+**But de la formation**
 
-<sup>1</sup> La formation professionnelle dispensée à la HEP-VS est consécutive à une formation académique et scientifique préalable, attestée par un titre délivré par une université ou une école polytechnique et conforme aux conditions générales d'admission prévues dans la présente ordonnance.
+<sup>1</sup> Les filières de formation à l'enseignement dans les écoles du degré secondaire I et pour les écoles de maturité sont consécutives à une formation scientifique (bachelor et/ou master). Elles permettent aux étudiants d'acquérir les compétences professionnelles pour l'enseignement d'une ou deux disciplines et d'obtenir un premier diplôme d'enseignement reconnu par la Conférence suisse des directeurs cantonaux de l’instruction publique (ci-après: la CDIP).
 
-<sup>2</sup> Le Département de l'éducation, de la culture et du sport (DECS) peut ouvrir cette formation professionnelle à des enseignants bénéficiant de titres reconnus par l'ordonnance concernant les titres et diplômes pour l'enseignement dans les écoles de l'enseignement secondaire du degré I et du degré II général (OTES) du 25 juin 2008.
+<sup>2</sup> Les filières menant à l'obtention d'un diplôme additionnel permettent d'ajouter des disciplines ou des degrés d'enseignement à un premier diplôme d'enseignement reconnu par la CDIP.
+
+<sup>3</sup> Les objectifs de formation sont déclinés dans les plans d'études dont le contenu est conforme aux exigences de la reconnaissance intercantonale des diplômes d’enseignement édictées par la CDIP.
 
 #### Art. 3
 
-**Filières**
+**Modalités de formation**
 
-<sup>1</sup> Les candidats à la formation professionnelle ont, en fonction de leur(s) titre(s), le choix entre les filières suivantes:
+<sup>1</sup> La formation s'effectue à temps partiel.
 
-- a) formation à l'enseignement secondaire du degré I pour les titulaires d'un bachelor;
-
-- b) formation à l'enseignement secondaire du degré I et II général pour les titulaires d'un master/licence;
-
-- c) formation à l'enseignement secondaire du degré II général pour les titulaires d'un master/licence.
-
-<sup>2</sup> Chacune des filières offre une ou deux disciplines de spécialisations prévues dans le règlement des études.
+<sup>2</sup> Le Conseil d'Etat peut, sur proposition de la HEP-VS, proposer d'organiser également certaines filières à plein temps.
 
 #### Art. 4
 
-**Modes de formation**
+**Durée de la formation**
 
-Le Conseil d'Etat sur proposition du DECS décide d'organiser la formation à temps partiel ou à plein temps.
+<sup>1</sup> La durée de la formation dépend du diplôme visé. Elle dure:
+
+- a) 6 semestres pour la filière menant au diplôme d'enseignement du degré secondaire I;
+- b) 4 semestres pour la filière menant au diplôme d'enseignement pour les écoles de maturité;
+- c) 6 semestres pour la filière menant au diplôme d'enseignement du degré secondaire I et pour les écoles de maturité;
+- d) entre 2 et 4 semestres pour la filière menant à un diplôme additionnel.
+
+<sup>2</sup> La durée complète de la formation peut être prolongée de 2 semestres au maximum. Un dépassement de cette durée entraîne un échec définitif. En cas de dépassement, l'étudiant est exclu de la formation et exmatriculé. Les cas particuliers sont réservés.
+
+<sup>3</sup> Un congé d'études peut être octroyé pour un semestre et renouvelable une fois. Il est comptabilisé dans la durée maximale de la formation. Le règlement d'études en précise les modalités.
+
+<sup>4</sup> Une interruption provisoire des études est possible en cas d'absence liée à un accident, une maladie, un congé maternité, une obligation militaire ou un cas de force majeure avéré. Elle n'est pas comptabilisée dans la durée maximale de la formation. Le règlement d'études en précise les modalités.
 
 #### Art. 5
 
-**Durée de la formation**
+**Crédits ECTS (European Credit Transfer System)**
 
-<sup>1</sup> La durée de la formation dépend:
+<sup>1</sup> Le nombre de crédits ECTS requis dépend du diplôme visé:
 
-- a) de la filière choisie, respectivement du nombre de crédits requis;
+- a) 110 ECTS sont requis pour la formation à l'enseignement dans les écoles du degré secondaire I, qui délivre un titre de Master;
+- b) 60 crédits ECTS sont requis pour la formation qui délivre un certificat comportant la mention "diplôme d'enseignement pour les écoles de maturité";
+- c) 110 ECTS sont requis pour la formation qui délivre un diplôme comportant la mention "diplôme d'enseignement du degré secondaire I et pour les écoles de maturité".
 
-- b) du mode de formation (plein temps ou à temps partiel).
-
-<sup>2</sup> La durée complète de la formation ne peut toutefois pas excéder le nombre maximal de semestres défini dans le règlement des études de chaque filière. En cas de dépassement, l'étudiant est exclu de la formation et exmatriculé; les cas particuliers sont réservés.
+<sup>2</sup> En cas d'exmatriculation en cours de formation, les crédits obtenus restent valables pour une durée de 5 ans à compter de la date de notification de l'exmatriculation.
 
 #### Art. 6
 
-**Crédits requis**
+**Collaboration**
 
-<sup>1</sup> Selon la filière et la spécialisation choisie dans une ou deux disciplines, la délivrance d'un titre d'aptitude à l'enseignement requiert:
+<sup>1</sup> La HEP-VS peut collaborer avec les institutions de même vocation tels que d'autres HEP ou universités, notamment pour l'organisation de modules de formation.
 
-- a) de 90 à 120 crédits ECTS pour l'enseignement au secondaire du degré I;
-
-- b) de 90 à 120 crédits ECTS pour l'enseignement au secondaire du degré I et du degré II général;
-
-- c) 60 crédits ECTS pour l'enseignement au secondaire du degré II.
-
-<sup>2</sup> Une année académique d'études à plein temps représente en principe 60 crédits.
+<sup>2</sup> La HEP-VS collabore avec les directions des écoles et des établissements scolaires dans lesquels enseignent les étudiants de la HEP-VS, ainsi qu'avec ceux qui accueillent des stagiaires.
 
 #### Art. 7
 
-**Langues d'enseignement**
+**Commission de la formation à l'enseignement du degré secondaire I et II**
 
-<sup>1</sup> Les langues d'enseignement sont en règle générale le français et/ou l'allemand; certains enseignements peuvent cependant être donnés dans une autre langue.
+<sup>1</sup> La commission de la formation à l'enseignement du degré secondaire I et II (ci-après la commission) est composée des membres suivants:
 
-<sup>2</sup> Le choix de la langue d'enseignement par module incombe à la direction de la HEP-VS.
+- a) un membre de la direction de la HEP-VS qui préside la commission et le responsable de la formation à la HEP-VS;
+- b) un représentant des directeurs des écoles du degré secondaire I;
+- c) deux représentants des directeurs des écoles du degré secondaire II, soit un pour les Lycées-Collèges et un pour les Ecoles de commerce et de culture générale et les écoles pré-professionnelles;
+- d) un représentant des associations professionnelles des enseignants du degré secondaire I et un représentant des associations professionnelles des enseignants du degré secondaire II;
+- e) un représentant du Service de l’enseignement.
+
+<sup>2</sup> Sur demande de la HEP-VS, les entités composant la commission désignent leur-s représentant-s. Elles assurent le remplacement de leurs représentants en cas de démission en cours de mandat.
+
+<sup>3</sup> Le mandat des membres est de 4 ans. Il peut être renouvelé une fois, à l’exception des personnes membres de la commission en raison de leur fonction.
+
+<sup>4</sup> La commission:
+
+- a) veille au respect des procédures concernant les admissions et les examens finaux;
+- b) préavise sur demande de la direction les réclamations en cas d'échec définitif.
+
+<sup>5</sup> Les membres de la commission sont soumis au secret de fonction.
+
+## 2 Admission
 
 #### Art. 8
 
-**Collaborations**
+**Conditions générales**
 
-<sup>1</sup> La HEP peut collaborer avec les institutions de même vocation (autres HEP / universités, etc.) notamment sous forme de mandats de prestations à confier ou à remplir.
+<sup>1</sup> Les conditions d'admission dépendent du diplôme visé:
 
-<sup>2</sup> D'entente avec le Département, elle collabore avec les directions des écoles/établissements scolaires dans lesquels enseignent des étudiants à temps partiel à la HEP-VS ainsi qu'avec celles qui accueillent des stagiaires.
+- a) pour la filière menant au diplôme d'enseignement du degré secondaire I, le candidat à une formation monodisciplinaire doit être titulaire d'un bachelor qui comptabilise au minimum 110 crédits ECTS dans une des disciplines enseignables prévue à l'annexe du règlement de la Conférence des directeurs cantonaux de l'instruction publique (CDIP) concernant la reconnaissance des diplômes d’enseignement du degré primaire, du degré secondaire I et pour les écoles de maturité;
+- b) pour la filière menant au diplôme d'enseignement du degré secondaire I, le candidat à une formation bi-disciplinaire, le bachelor doit comptabiliser au minimum 100 crédits ECTS cumulés dans deux disciplines enseignables. Dans ce cas, chaque discipline doit comptabiliser au minimum 30 crédits ECTS;
+- c) pour la filière menant au diplôme d'enseignement pour les écoles de maturité, le candidat à une formation monodisciplinaire doit être titulaire d'un Master, la discipline enseignable, prévue dans le Règlement de la CDIP sur la reconnaissance des certificats de maturité gymnasiale (RRM), comptabilisant 120 crédits ECTS dont 30 crédits ECTS au minimum obtenus dans le cursus de Master;
+- d) pour la filière menant au diplôme d'enseignement pour les écoles de maturité, le candidat à une formation bi-disciplinaire, la discipline enseignable A doit comptabiliser 120 crédits ECTS dont 30 crédits ECTS au minimum obtenus dans le cursus de Master et la discipline enseignable B doit comptabiliser au minimum 90 crédits ECTS dont 30 ECTS au minimum obtenus dans le cursus de Master;
+- e) pour la filière menant au diplôme d'enseignement du degré secondaire I et pour les écoles de maturité, le candidat à cette formation doit remplir les conditions fixées aux lettres c ou d du présent article;
+- f) l'admission à une filière menant à un diplôme additionnel nécessite, en plus, un premier diplôme d'enseignement reconnu par la CDIP.
 
-<sup>3</sup> Le Conseil d'Etat nomme une commission de coordination réunissant des représentants du DECS, des établissements scolaires concernés et des associations professionnelles.
+<sup>2</sup> La liste des disciplines enseignables menant à un diplôme reconnu sur le plan fédéral est publiée par la CDIP.
 
 #### Art. 9
 
-**Gestion et contrôle de la qualité**
+**Disciplines à reconnaissance cantonale**
 
-La HEP-VS applique un système de contrôle de la qualité et d'évaluation interne qui prend en compte l'évaluation de l'ensemble des partenaires à la formation.
-
-### Section 2 Admission
+<sup>1</sup> D'autres disciplines que celles prévues par la CDIP peuvent être reconnues comme disciplines enseignables dans l'ordonnance concernant les diplômes (OTES). Elles permettent l'obtention d'une reconnaissance cantonale.
 
 #### Art. 10
 
-**Conditions générales**
+**Exigences de connaissance de la langue d'enseignement principale**
 
-<sup>1</sup> Pour être admis à la formation offerte à la HEP-VS dans les filières prévues par la présente Ordonnance, les candidats doivent:
+<sup>1</sup> Pour être admis à la formation offerte à la HEP-VS dans les filières prévues par la présente ordonnance, le candidat doit être en mesure de prouver leur maîtrise du français. Le candidat n'étant pas de langue maternelle française et ayant suivi un cursus universitaire non francophone doit produire un certificat de niveau C2 daté de moins de 3 ans au moment de l'admission, selon la classification du portfolio européen des langues.
 
-- a) être titulaire d'un bachelor/master ou licence dans une/des discipline(s) enseignable(s) dans l'un et/ou l'autre des degrés secondaires considérés;
+<sup>2</sup> Le candidat qui se destine exclusivement à l'enseignement d'une langue étrangère vivante au degré secondaire II doit attester d'une maîtrise du français d'un niveau B2 minimum.
 
-- b) avoir obtenu dans lesdites disciplines (disciplines enseignables) le nombre de crédits fixé dans le règlement d'études de la filière choisie;
-
-- c) être en mesure de prouver une certaine maîtrise de l'allemand, respectivement du français (selon standard défini dans le Règlement des études);
-
-- d) remplir les conditions requises par le mode de formation proposé (plein temps ou à temps partiel) conformément aux dispositions prévues aux articles 11 et 12.
-
-<sup>2</sup> La commission d'admission statue sur les demandes d'équivalences portant sur les exigences prévues aux lettres a, b et c de l'alinéa précédent.
-
-<sup>3</sup> Le dossier de candidature à la formation doit répondre aux conditions et délais fixés par la HEP-VS.
+<sup>3</sup> Le candidat à l'enseignement d'une langue étrangère vivante et possédant un bachelor ou un master antérieur à 2015 doit présenter un certificat de maîtrise de la langue à enseigner. Selon la classification du portfolio européen des langues, le niveau attendu est C1 pour un candidat visant un diplôme d'enseignement du degré secondaire I et C2 pour un candidat visant un diplôme d'enseignement pour les écoles de maturité.
 
 #### Art. 11
 
-**Admission à la formation à plein temps**
+**Equivalence des titres étrangers**
 
-La formation à plein temps requiert une totale disponibilité de la part de l'étudiant.
+<sup>1</sup> Les candidats titulaires de titres académiques étrangers doivent remplir les conditions fixées par les recommandations de la Conférence des recteurs des Universités suisses (CRUS), représentée par swissuniversities.
 
 #### Art. 12
 
-**Admission à la formation à temps partiel**
+**Conditions formelles**
 
-<sup>1</sup> Outre les conditions générales prévues à l'article 10, le candidat à une formation à temps partiel doit:
+<sup>1</sup> Le dossier de candidature à la formation doit répondre aux conditions et délais fixés par la HEP-VS.
 
-- a) être au bénéfice d'une nomination à temps partiel dans un établissement scolaire pour l'enseignement de la / des discipline(s) de spécialisation correspondant à celle(s) choisie(s) pour sa formation professionnelle;
-
-- b) bénéficier d'une disponibilité d'horaire compatible avec la formation envisagée.
-
-<sup>2</sup> En cas de rupture des rapports de service, l'étudiant est exmatriculé.
-
-<sup>3</sup> La commission d'admission peut donner accès à la formation à temps partiel à des candidats ne disposant pas ou plus d'un engagement dans un établissement scolaire.
+<sup>2</sup> Les candidats n'ayant pas déposé de candidature à la HEP-VS dans les délais prévus et obtenant un engagement en Valais sont admis, si toutes les conditions sont remplies, l'année académique qui suit leur engagement.
 
 #### Art. 13
 
-**Commission d'admission**
+**Priorités à l'admission**
 
-<sup>1</sup> Le Conseil d'État nomme la Commission d'admission.
+<sup>1</sup> L'accès à la formation est destiné en premier lieu à des candidats au bénéfice d'un engagement dans une école du degré concerné par le diplôme visé.
 
-<sup>2</sup> L'admission définitive des candidats leur est communiquée par écrit. L'immatriculation en découle automatiquement. Dans les cas de report de la formation, le candidat n'est pas immatriculé.
+<sup>2</sup> L'accès à la formation à temps partiel à des candidats ne disposant pas d'un engagement dans un établissement scolaire se règle de la manière suivante:
+
+- a) sont admis prioritairement les candidats qui ont achevé leurs études scientifiques et sont titulaires d'un titre de bachelor ou de master, selon la filière d'études visée. Si leur nombre dépasse les capacités d'accueil de la HEP-VS (notamment le personnel enseignant ou les praticiens formateurs), les candidats au bénéfice d'une expérience dans l'enseignement sont prioritaires;
+- b) si les capacités d'accueil de la HEP-VS le permettent, sont admis ensuite les candidats visant l'obtention d'un bachelor ou d'un master avant leur immatriculation à la HEP-VS. Dans ce cas, les candidats se destinant à l'enseignement de disciplines pour lesquelles une pénurie d'enseignants est prévisible sont privilégiés.
+
+<sup>3</sup> La HEP-VS communique par écrit aux candidats non admis les motifs fondant la décision.
+
+## 3 Organisation de la formation
 
 #### Art. 14
 
-**Report de la formation**
+**Année académique**
 
-<sup>1</sup> Si le nombre d'admissions à la formation excède la capacité d'accueil de l'école, l'entrée en formation peut être reportée d'une année.
+<sup>1</sup> L'année académique est organisée selon le cadre fixé par Swissuniversities et le calendrier valaisan en matière de jours fériés et de vacances scolaires.
 
-<sup>2</sup> Les critères à prendre en compte pour les admissions prioritaires sont notamment les besoins de l'enseignement (pléthore/pénurie) ainsi que les ressources en personnel enseignant de la HEP-VS et d'encadrement (maîtres-formateurs) dans les établissements scolaires accueillant des stagiaires.
+<sup>2</sup> La formation de terrain s'adapte au calendrier scolaire valaisan.
 
-### Section 3 Organisation de la formation
+<sup>3</sup> Selon les filières et les années de formation, les études représentent une activité comprise entre 40 et 50 pour cent. Le règlement d'études de la formation précise le pourcentage pour chaque année de formation.
+
+<sup>4</sup> La formation à plein temps représente une activité de 100 pour cent.
 
 #### Art. 15
 
-**Année académique**
+**Dispositions d'exécution**
 
-<sup>1</sup> L'année académique compte en principe 38 semaines effectives, divisées en deux semestres de 19 semaines.
-
-<sup>2</sup> La rentrée académique est fixée en principe à la semaine 38.
-
-<sup>3</sup> Peuvent déroger à ce calendrier pour des raisons d'organisation:
-
-- a) le module d'introduction aux études;
-
-- b) les modules de la formation de terrain, qui sont à adapter au calendrier de l'année scolaire des établissements scolaires d'accueil des stagiaires.
+<sup>1</sup> La formation est régie par un règlement d'études, des plans d'études et des directives édictées par la HEP-VS. Ces documents fixent les modalités d'application des dispositions de la présente ordonnance.
 
 #### Art. 16
 
-**Règlement d'études**
+**Plans d'études**
 
-Chaque filière est régie par un règlement d'études qui fixe notamment le plan d'études ainsi que les modalités d'application des dispositions de la présente ordonnance qui s'y réfèrent.
+<sup>1</sup> Les plans d'études des différentes filières s'articulent autour des domaines de formation suivants:
+
+- a) l'introduction à la profession;
+- b) la formation en sciences de l'éducation;
+- c) la formation didactique;
+- d) la formation de terrain;
+- e) la formation à la recherche et le mémoire professionnel, prévus uniquement dans le plan d'études de la formation à l'enseignement pour le degré secondaire I;
+- f) la formation optionnelle professionnalisante;
+- g) le certificat de formation complémentaire à la pédagogie professionnelle, pour personnes autorisées à enseigner dans les écoles de maturité, proposé facultativement aux étudiants du cursus pour l'enseignement au degré secondaire II.
+
+<sup>2</sup> Les plans d'études sont organisés par modules, en principe répartis par semestre.
+
+<sup>3</sup> Les plans d'études précisent le nombre de crédits attribués à chacun des modules.
+
+<sup>4</sup> Pour des raisons d'organisation, la HEP-VS peut regrouper des modules de différents plans d'études.
 
 #### Art. 17
 
-**Plans d'études - Domaines de formation**
+**Organisation particulière de certains domaines de formation**
 
-<sup>1</sup> Les plans d'études des différentes filières proposées s'articulent autour des domaines de formation suivants:
+<sup>1</sup> Les modules confiés à d'autres hautes écoles peuvent être organisés dans leurs infrastructures et peuvent être anticipés ou retardés d'une ou deux semaines par rapport au calendrier académique de la HEP-VS et au calendrier scolaire valaisan.
 
-- a) l'introduction aux études;
-
-- b) la formation en sciences de l'éducation;
-
-- c) la formation didactique (générale et de branche);
-
-- d) la formation spécifique;
-
-- e) la formation de terrain;
-
-- f) le mémoire professionnel, prévu uniquement dans le plan d'études de la filière du diplôme d'enseignement pour le degré secondaire I. <sup>2</sup>
-
-- g) la formation personnelle et optionnelle.
-
-<sup>2</sup> Les plans d'études sont conçus par semestre.
-
-<sup>3</sup> Ils répartissent les modules et fixent le nombre de crédits attribués à chacun d'eux (module).
-
-<sup>4</sup> Les plans d'études prévoient également les modalités et délais des principales étapes du développement du mémoire professionnel.
+<sup>2</sup> Les modules de la formation de terrain, réalisés sous la forme de stages, sont accomplis sous la responsabilité de praticiens formateurs.
 
 #### Art. 18
 
-**Regroupement de modules**
+**Prises en compte des études déjà effectuées**
 
-Pour des raisons d'organisation, la direction de la HEP-VS peut regrouper des modules des différentes filières et des semestres d'études.
+<sup>1</sup> L'étudiant peut présenter auprès de la HEP-VS une demande de prise en compte des études déjà effectuées.
+
+<sup>2</sup> En règle générale, la prise en compte des études déjà effectuées se fonde sur les normes de la CDIP en la matière.
+
+<sup>3</sup> Les demandes doivent être déposées conformément à la procédure décrite dans le règlement d'études.
+
+<sup>4</sup> La HEP-VS statue sur les demandes.
+
+<sup>5</sup> Les crédits ECTS obtenus dans le cadre d'études antérieures et pour lesquelles l'étudiant demande une prise en compte doivent avoir été obtenus, depuis 5 ans au plus, à la date du dépôt de la candidature à l'admission à la HEP-VS.
 
 #### Art. 19
 
-**Filières de formation**
+**Validation d'acquis de l'expérience**
 
-<sup>1</sup> Les différentes filières sont organisées selon des dispositifs qui favorisent:
+<sup>1</sup> La validation d'acquis de l'expérience est possible pour les étudiants de la filière d'enseignement pour le degré secondaire I et est définie dans une directive de la HEP-VS.
 
-- a) l'alternance entre formation théorique et formation pratique;
-
-- b) l'alternance entre la formation en institution et la formation sur le terrain;
-
-- c) l'articulation entre l'enseignement et la recherche.
-
-<sup>2</sup> Ces filières sont organisées sous forme de modules.
+## 4 Certification des modules
 
 #### Art. 20
 
-**Formation terrain**
+**Certification des modules**
 
-Les modules de la formation de terrain réalisés sous la forme de stages sont accomplis sous la responsabilité de maîtres-formateurs.
+<sup>1</sup> Chaque module est évalué et validé par l'obtention de crédits ECTS dont le nombre est fixé dans les plans d'études.
+
+<sup>2</sup> Les modules faisant l’objet d’une évaluation certificative reçoivent une note ou une appréciation:
+
+- a) en cas de note, celle-ci est attribuée selon l’échelle de 1 à 6. La note 1 correspond à l’absence de maîtrise, la note 4 à un niveau de maîtrise suffisant et la note 6 à un excellent niveau de maîtrise. Les notes sont attribuées par demi-point, ou
+- b) en cas d'appréciation, le module est "validé" ou "échec".
+
+<sup>3</sup> Sauf cas de force majeure, la non-participation ou la non restitution de documents de certification dans les délais prescrits entraîne la notification d'un premier échec sanctionné par la note 1, ou "échec".
+
+<sup>4</sup> Toute fraude ou plagiat, avéré ou tenté, est immédiatement sanctionné par la note 0, ou un "échec". Les sanctions prévues à l'article 32 de la présente ordonnance sont réservées.
 
 #### Art. 21
 
-**Crédits, qualifications et évaluation des modules**
+**Conditions de réussite**
 
-<sup>1</sup> Chaque module est évalué et validé par l'obtention de crédits dont le nombre est fixé dans le règlement d'études.
+<sup>1</sup> Pour obtenir les crédits d'un module, les étudiants doivent, dans les délais prévus par le règlement des études par la HEP-VS, obtenir:
 
-<sup>2</sup> Les modules crédités font l'objet d'une qualification exprimée par les appréciations suivantes: A: Excellent, B: Très bien, C: Bien, D: Satisfaisant, E: Passable, F: Insuffisant.
+- a) une note égale ou supérieure à 4, ou
+- b) l'appréciation "validé"
 
-<sup>3</sup> Chaque module peut aussi être validé via une prise en compte des études déjà effectuées. La procédure y relative est conduite par la commission d'admission. <sup>2</sup>
+<sup>2</sup> En cas d'échec, soit une note inférieure à 4 ou une appréciation "échec", la remédiation d'un module n'est autorisée qu'une seule fois, en principe au plus tard pour la fin du semestre suivant.
+
+<sup>3</sup> L'échec définitif à un module est prononcé lorsque les performances de l'étudiant dans ce module demeurent insuffisantes après la remédiation. Sont réservées des circonstances particulières documentées.
 
 #### Art. 22
 
-**Evaluations en cours d'études**
+**Echec définitif et exclusion**
 
-<sup>1</sup> Tout au long de la formation, les étudiants font l'objet d'évaluations portant sur les connaissances et les compétences.
+<sup>1</sup> L'étudiant est exclu de la formation dans les cas suivants:
 
-<sup>2</sup> Pour obtenir les crédits d'un module, les étudiants doivent, dans les délais prévus dans le règlement d'études, obtenir la qualification «E » au minimum.
+- a) échec définitif à un module du plan d'études;
+- b) non-obtention des crédits nécessaires exigés dans le plan d'études;
+- c) dépassement du nombre maximal de semestres autorisés;
+- d) inaptitude avérée ou répétée à garantir l'intégrité des élèves confiés dans le cadre de la formation.
 
-<sup>3</sup> La remédiation d'un module n'est autorisée qu'une seule fois et doit intervenir dans le délai fixé par le formateur responsable, en principe au plus tard pour la fin du semestre suivant.
-
-<sup>4</sup> La direction de la HEP-VS est responsable de la gestion des appréciations. Elle établit et communique aux étudiants à la fin de chaque semestre et de chaque année académique un bilan individuel des crédits obtenus.
-
-### Section 4 Evaluation finale
+## 5 Examens finaux
 
 #### Art. 23
 
-**Admission à l'évaluation finale**
+**Contenu des examens finaux**
 
-Pour pouvoir se présenter à l'évaluation finale, l'étudiant doit:
+<sup>1</sup> Pour les candidats au diplôme d'enseignement du degré secondaire I, les examens finaux comprennent:
 
-- a) s'être inscrit dans les délais fixés par la direction;
+- a) l'examen sur le terrain;
+- b) la production écrite et la soutenance d'un bilan de compétences;
+- c) la production écrite d'un mémoire professionnel et sa soutenance.
 
-- b) avoir obtenu à la date arrêtée par la direction tous les crédits prévus dans le règlement d'études;
+<sup>2</sup> Pour les candidats au diplôme d'enseignement du degré secondaire I et pour les écoles de maturité, les examens finaux comprennent:
 
-- c) avoir déposé dans les délais fixés les documents écrits relatifs aux parties de l'évaluation finale.
+- a) l'examen sur le terrain;
+- b) la production écrite et la soutenance d'un bilan de compétences.
+
+<sup>3</sup> Pour les candidats au diplôme d'enseignement pour les écoles de maturité, les examens finaux comprennent:
+
+- a) l'examen sur le terrain;
+- b) la production écrite et la soutenance d'un bilan de compétences.
+
+<sup>4</sup> Pour les candidats à un diplôme additionnel, l'exigence de l'une ou l'autre des parties des examens finaux est annoncée dans le plan d'études remis en début de formation.
+
+<sup>5</sup> Les modalités des différentes parties des examens finaux sont précisées par la HEP-VS dans des documents dédiés.
+
+<sup>6</sup> Les conditions de réussite prévues pour la certification des modules s'appliquent également à chaque partie des examens finaux.
 
 #### Art. 24
 
-**Evaluation**
+**Conditions d'admission aux examens finaux**
 
-<sup>1</sup> Pour le diplôme d'enseignement pour le degré secondaire I, l'évaluation finale comprend les parties suivantes: <sup>2</sup> a) l'examen sur le terrain;
+<sup>1</sup> Pour pouvoir se présenter à la soutenance du bilan de compétences et du mémoire professionnel, l'étudiant doit:
 
-- b) la soutenance d'un bilan de compétences;
-
-- c) la soutenance d'un mémoire professionnel.
-
-<sup>2</sup> Pour le diplôme d'enseignement pour le degré secondaire I et les écoles de maturité, l'évaluation finale comprend les parties suivantes: <sup>2</sup> a) l'examen sur le terrain;
-
-- b) la présentation d'un portfolio et la soutenance d'un bilan de compétences.
-
-<sup>3</sup> Pour le diplôme d'enseignement pour les écoles de maturité, l'évaluation finale comprend les parties suivantes: <sup>2</sup> a) l'examen sur le terrain;
-
-- b) la présentation d'un portfolio et la soutenance d'un bilan de compétences.
-
-<sup>4</sup> Les modalités des différentes parties de l'évaluation finale sont détaillées dans le règlement d'études de chaque filière.
-
-<sup>5</sup> Chacune des parties de l'évaluation finale prévues aux alinéas précédents doit être au minimum suffisante (« E ») pour que l'évaluation soit réussie.
-
-<sup>6</sup> En cas d'échec, l'étudiant ne remédie que la partie jugée F « insuffisante », au plus tard pour la fin du semestre suivant.
-
-<sup>7</sup> Cette remédiation ne peut être effectuée qu'une seule fois, un deuxième échec est éliminatoire.
+- a) avoir obtenu à la date arrêtée par la HEP-VS tous les crédits prévus jusqu'à ce stade dans le plan d'études de sa filière, y compris ceux de l'examen de terrain;
+- b) avoir déposé dans les délais fixés par la HEP-VS, les documents écrits relatifs à ces deux parties des examens finaux.
 
 #### Art. 25
 
-**Experts**
+**Déroulement des examens finaux**
 
-Le DECS désigne les jurys d'experts fonctionnant pour l'évaluation finale.
+<sup>1</sup> L'examen de terrain a lieu lors du dernier semestre d'études.
+
+<sup>2</sup> La soutenance du mémoire professionnel et du bilan de compétences ont lieu lors des sessions d'examens organisées par la HEP-VS.
+
+<sup>3</sup> L'étudiant qui souhaite différer la passation de l'une ou l'autre des parties des examens finaux en informe la HEP-VS. Une prolongation d'études d'un, voire de 2 semestres, est alors organisée. Il n'est pas possible de repousser les examens finaux plus d'une fois.
 
 #### Art. 26
 
-**Présence de tiers**
+**Jurys des examens finaux**
 
-Outre les membres du jury d'experts peuvent assister aux différentes parties de l'évaluation finale un membre de la direction de la HEP-VS, un représentant du DECS et un/des représentant(s) de la CDIP.
+<sup>1</sup> La composition des jurys diffère selon la partie des examens finaux concernée.
+
+<sup>2</sup> Le jury de l'examen de terrain est composé de:
+
+- a) un formateur de la HEP-VS, qui assume la présidence du jury;
+- b) un représentant du département qui, par son service compétent, le désigne;
+- c) un praticien formateur de la ou des disciplines concernées.
+
+<sup>3</sup> Le jury de la soutenance du bilan de compétences est composé de deux formateurs HEP dont l'un assume la présidence.
+
+<sup>4</sup> Le jury du mémoire professionnel est composé du directeur du mémoire, qui assume la présidence du jury, et d'un lecteur externe.
+
+<sup>5</sup> Les délibérations des jurys ont lieu à huis clos. Pour l'examen de terrain, la décision est prise à la majorité. Pour les deux autres parties, la voix du président du jury est prépondérante.
 
 #### Art. 27
 
-**Commission d'évaluation finale**
+**Rôle de la commission de la formation dans les examens finaux**
 
-<sup>1</sup> Le Conseil d'Etat nomme une commission d'évaluation finale.
+<sup>1</sup> La commission veille à ce qu'une procédure d'évaluation uniforme soit appliquée à l'appréciation des prestations et au déroulement des examens. A ce titre, la HEP-VS est tenue de l'informer d'éventuelles irrégularités de procédure.
 
-<sup>2</sup> La commission a notamment pour attribution de traiter toute question liée à l'évaluation finale. A ce titre, il lui incombe en particulier de veiller à ce qu'une procédure d'évaluation uniforme soit appliquée à l'appréciation des prestations et au déroulement des évaluations.
-
-<sup>3</sup> Elle seule est habilitée, le cas échéant, à modifier une évaluation; elle ne peut le faire qu'après avoir entendu le jury d'experts concerné.
-
-### Section 5 Titres
+## 6 Certificats de diplôme et titres
 
 #### Art. 28
 
 **Désignation**
 
-<sup>1</sup> Les titres décernés par le département et la HEP-VS à la fin de la formation sont, selon la filière: <sup>2</sup>
+<sup>1</sup> Les certificats de diplôme, décernés par la HEP-VS à la fin de la formation sont les suivants:
 
-- a) le diplôme d'enseignement pour le degré secondaire I; ce titre peut être complété par celui de «Master of Arts in Secundary Education» ou «Master of Sciences in Secundary Education» ; <sup>2</sup>
+- a) le diplôme d'enseignement du degré secondaire I; il est accompagné du titre de "Master of Arts in Secondary Education";
+- b) le diplôme d'enseignement du degré secondaire I et pour les écoles de maturité;
+- c) le diplôme d'enseignement pour les écoles de maturité;
+- d) le diplôme additionnel.
 
-- b) le diplôme d'enseignement pour le degré secondaire I et les écoles de maturité; <sup>1,2</sup>
+<sup>2</sup> Les diplômes susmentionnés précisent la ou les disciplines de spécialisation dans lesquelles le diplômé est habilité à enseigner.
 
-- c) le diplôme d'enseignement pour les écoles de maturité. <sup>2</sup>
+<sup>3</sup> En fonction du certificat de diplôme obteniu, le diplômé est habilité à porter le titre de:
 
-<sup>2</sup> Les titres susmentionnés précisent la ou les disciplines de spécialisation.
+- a) enseignant diplômé du degré secondaire I (CDIP);
+- b) enseignant diplômé pour les écoles de maturité (CDIP);
+- c) enseignant diplômé du degré secondaire I et les écoles de maturité (CDIP).
 
-<sup>3</sup> Le cas échéant, en fonction de la formation choisie, ils portent la mention «bilingue» ou «connaissances de langues renforcées».
-
-### Section 6 Etudiants
+## 7 Etudiants
 
 #### Art. 29
 
-**Encadrement par les formateurs ressources**
+**Présence et participation aux différents modules**
 
-<sup>1</sup> L'étudiant est suivi par un formateur ressource (ci-après le formateur) qui l'accompagne notamment dans l'élaboration de son portfolio ou de son mémoire professionnel et le conseille durant toute la durée des études.
+<sup>1</sup> La présence est obligatoire aux modules désignés dans les plans d'études. Il s'agit notamment des stages et des didactiques disciplinaires.
 
-<sup>2</sup> Le formateur de chaque étudiant est désigné par la direction parmi les collaborateurs de la HEP-VS.
+<sup>2</sup> Les demandes de congé sont réglées par les directives de la HEP-VS.
 
 #### Art. 30
 
-**Portfolio de formation**
+**Taxes et frais**
 
-<sup>1</sup> Chaque étudiant élabore un portfolio qu'il développe durant tout son cursus de formation.
-
-<sup>2</sup> Le portfolio s'inscrit dans la démarche de soutenance du bilan de compétences.
+<sup>1</sup> Le Conseil d'Etat fixe le montant semestriel d'écolage ainsi que celui des frais divers dans un règlement spécifique.
 
 #### Art. 31
 
-**Devoirs**
+**Droit de participation**
 
-<sup>1</sup> L'étudiant admis à la HEP-VS s'engage à respecter les réglementations et directives de l'école.
+<sup>1</sup> Les étudiants participent à la réflexion sur le fonctionnement et le développement de l'institution, en particulier pour ce qui concerne leur formation.
 
-<sup>2</sup> Les sanctions pour manquement aux règles de comportement sont prévues par le règlement d'études. Les sanctions peuvent aller jusqu'au renvoi de l'école.
+<sup>2</sup> Ils participent également au processus d'évaluation de la qualité.
 
 #### Art. 32
 
-**Présence et participation aux différents modules**
+**Sanctions**
 
-<sup>1</sup> La présence et la participation aux modules prévus par le plan d'études sont obligatoires.
+<sup>1</sup> La direction de la HEP-VS peut prononcer des sanctions:
 
-<sup>2</sup> Les reconnaissances d'équivalences dûment notifiées libèrent l'étudiant des modules concernés. Les crédits ECTS sont automatiquement enregistrés dans le dossier de l'étudiant.
+- a) en cas de fraude ou de plagiat tenté ou avéré;
+- b) si l'étudiant refuse de se conformer aux règlementations et directives de la HEP-VS;
+- c) si l'étudiant a un comportement incompatible avec la fonction d'enseignant, notamment s'il est inapte à garantir l'intégrité des élèves confiés dans le cadre de la formation.
 
-<sup>3</sup> Les demandes de congé sont réglées par les directives internes ad hoc de la HEP-VS.
+<sup>2</sup> En fonction de la gravité, la sanction peut être:
+
+- a) un avertissement;
+- b) un avertissement assorti d'une menace de suspension;
+- c) la suspension des études durant une année ou l'exclusion.
+
+## 8 Praticiens formateurs
 
 #### Art. 33
 
-**Ecolage et frais matériel**
+**Formation**
 
-Le Conseil d'Etat fixe le montant semestriel d'écolage ainsi que celui des frais divers.
+<sup>1</sup> La HEP-VS évalue les besoins en praticiens formateurs. Elle fixe le nombre d'admissions à la formation et le nombre de sessions annuelles de formation.
 
-### Section 7 Maîtres-formateurs
+<sup>2</sup> La HEP-VS dispense la formation de base et la formation continue nécessaires à l'exercice du mandat de praticien formateur.
+
+<sup>3</sup> Ces formations sont régies par des dispositions spécifiques édictées par la HEP-VS, en concertation avec le service compétent du département.
+
+<sup>4</sup> Le département veille à favoriser et faciliter le recrutement et la formation des praticiens formateurs.
 
 #### Art. 34
 
-**Formation**
+**Admission à la formation de praticien formateur**
 
-<sup>1</sup> La HEP-VS évalue régulièrement les besoins en maîtres-formateurs. Elle fixe le nombre et le rythme des admissions à la formation.
+<sup>1</sup> Peut être admis à la formation de praticien formateur, l'enseignant en poste qui est:
 
-<sup>2</sup> La HEP-VS dispense la formation de base et la formation continue nécessaires au mandat des maîtres-formateurs. Sur présentation de dossiers, la direction de la HEP-VS décide d'éventuelles équivalences
+- a) porteur des titres d'enseignement reconnus par le canton, et
+- b) au bénéfice d'une expérience professionnelle en principe d'au moins 5 ans.
 
-<sup>3</sup> Ces formations sont régies par des dispositions spécifiques édictées par la HEP-VS, d'entente avec le Service compétent du Département.
-
-<sup>4</sup> Le Département veille à favoriser et faciliter le recrutement et la formation des maîtres-formateurs.
+<sup>2</sup> La demande d'admission à la formation de praticien formateur exige l'accord de la direction des établissements dans lesquels il enseigne.
 
 #### Art. 35
 
-**Admission à la formation**
+**Missions**
 
-<sup>1</sup> Peuvent être admis à la formation de maître-formateur, les enseignants:
+<sup>1</sup> Pour leur activité, les praticiens formateurs sont mandatés par la HEP-VS. Ils remplissent leur mission conformément aux objectifs fixés par l'institution.
 
-- a) porteurs des titres d'enseignement reconnus par le canton;
+<sup>2</sup> Les praticiens formateurs accueillent des stagiaires uniquement dans les disciplines d'enseignement figurant sur leur diplôme. En cas de pénurie de praticiens formateurs dans une discipline d'enseignement, des exceptions sont possibles.
 
-- b) au bénéfice d'une expérience professionnelle en principe d'au moins cinq ans.
+<sup>3</sup> Les tâches de formation et d'évaluation des praticiens formateurs sont fixées dans les directives de la HEP-VS.
 
-<sup>2</sup> La procédure d'admission à la formation exige l'accord de la direction de l'école/l'établissement concerné et le préavis de l'inspecteur.
+<sup>4</sup> Outre leurs missions de formation et d'évaluation sur le terrain, les praticiens formateurs peuvent être appelés à fonctionner comme experts dans le cadre de l'examen de terrain.
 
 #### Art. 36
 
-**Missions**
+**Prise en charge des coûts de formation**
 
-<sup>1</sup> Pour leur activité, les maîtres-formateurs sont mandatés par la HEP-VS. Ils remplissent leur mission de formation en partenariat avec celle-ci, conformément aux objectifs fixés par la HEP-VS.
+<sup>1</sup> Les coûts de la formation dispensée par la HEP-VS aux praticiens formateurs sont pris en charge par cette dernière.
 
-<sup>2</sup> Les tâches de formation et d'évaluation des maîtres-formateurs sont fixées dans le règlement des études de chaque filière.
-
-<sup>3</sup> Outre leurs missions de formation et d'évaluation dans le terrain, les maîtres-formateurs peuvent être appelés à fonctionner comme experts dans les différentes parties de l'évaluation finale.
+<sup>2</sup> Les coûts liés aux éventuels remplacements des praticiens formateurs dans leurs poste d’enseignant pour le suivi de cette formation sont pris en charge par le département conformément aux dispositions y relatives.
 
 #### Art. 37
 
-**Frais de formation**
+**Disponibilités**
 
-Les coûts de la formation dispensée par la HEP-VS aux maîtres-formateurs sont pris en charge par le Département. Il en va de même des frais de remplacement.
+<sup>1</sup> Une fois formés, les praticiens formateurs sont tenus d'accepter deux stagiaires consécutifs au degré secondaire I et trois stagiaires consécutifs au degré secondaire II (durée d'accueil de 6 ans). Une pause d'un, voire de 2 ans, est possible entre les stagiaires.
+
+<sup>2</sup> En cas de non respect de l'obligation prévue à l'alinéa précédent, le département se réserve le droit d'exiger le remboursement des coûts de formation.
+
+<sup>3</sup> Les directions d'écoles/établissements veillent au recrutement des praticiens formateurs et au renouvellement de l'effectif. Les besoins en termes de couverture des disciplines sont communiqués par la HEP-VS aux directions d'écoles/établissements.
 
 #### Art. 38
 
-**Disponibilités**
+**Contrat de suivi d'un stagiaire et rétribution**
 
-<sup>1</sup> Une fois formé, le maître-formateur est en principe tenu d'accepter l'accueil de stagiaires durant cinq années au minimum.
+<sup>1</sup> Le suivi d'un stagiaire fait l'objet d'un contrat entre la HEP-VS et le praticien formateur concerné.
 
-<sup>2</sup> En cas de non respect de l'obligation prévue à l'alinéa précédent, le Département se réserve le droit d'exiger le remboursement des coûts de formation.
+<sup>2</sup> Le règlement sur la rétribution des intervenants par la Haute école pédagogique du Valais fixe la rétribution des praticiens formateurs.
 
-<sup>3</sup> Les directions d'écoles/établissements de stage veillent au recrutement des maîtres-formateurs et au renouvellement de l'effectif. Elles font en sorte que les disciplines enseignées soient équitablement représentées.
+## 9 Dispositions finales
 
 #### Art. 39
 
-**Contrat et rétribution**
+**Réclamation et voies de recours**
 
-<sup>1</sup> Chaque module de la formation de terrain fait l'objet d'un contrat entre la HEP-VS, la direction de l'école/établissement et le maître-formateur concerné.
+<sup>1</sup> Les décisions relatives aux résultats des évaluations certificatives des modules et aux sanctions prononcées peuvent faire l’objet d’une réclamation écrite auprès de la direction de la HEP-VS. La procédure est fixée dans un règlement de la HEP-VS.
 
-<sup>2</sup> La rétribution des tâches de formation et d'évaluation est fixée par le Conseil d'Etat.
+<sup>2</sup> La décision sur réclamation peut faire l'objet d'un recours dans un délai de 30 jours auprès du Conseil d'Etat. La procédure est régie par la loi sur la procédure et la juridiction administratives (LPJA).
+
+<sup>3</sup> Les décisions du Conseil d'Etat peuvent être déférées au Tribunal cantonal. La procédure est réglée par la LPJA.
+
+## 10 Dispositions transitoires
 
 #### Art. 40
 
-**Défraiement**
+**Certifications par qualification**
 
-Les défraiements relatifs aux visites, aux supervisions ou aux évaluations finales que les représentants de la HEP-VS ou les jurys d'experts réalisent auprès des établissements employeurs ou des établissements de stage sont pris en charge par le Département conformément aux dispositions sur les indemnités de déplacement.
+<sup>1</sup> Jusqu'au 31 juillet 2022, les certifications prévues à l'article 20 alinéa 2 de la présente ordonnance sont exprimées par les qualifications suivante: A: Excellent, B: Très bien, C: Bien, D: Satisfaisant, E: Passable, F: Insuffisant.
 
-### Section 8 Dispositions finales
+<sup>2</sup> Jusqu'au 31 juillet 2022, la non-participation ou la non restitution de documents de certification dans les délais prescrits, sauf cas de force majeure, entraîne la notification d'un premier échec sanctionné par un "F".
+
+<sup>3</sup> Jusqu'au 31 juillet 2022, toute fraude ou plagiat, avéré ou tenté, est immédiatement sanctionné par un "F". Les sanctions prévues à l'article 32 de la présente ordonnance restent réservées.
 
 #### Art. 41
 
-**Recours**
+**Conditions de réussite**
 
-<sup>1</sup> Les contestations pouvant survenir dans l'application de la présente ordonnance font l'objet d'une décision du Conseil d'Etat.
+<sup>1</sup> Jusqu'au 31 juillet 2022, pour obtenir les crédits d'un module, les étudiants doivent, dans les délais prévus par le règlement des études par la HEP-VS, obtenir une qualification de A à E.
 
-<sup>2</sup> La procédure de recours est régie par la loi sur la procédure et la juridiction administratives.
+<sup>2</sup> Jusqu'au 31 juillet 2023, en cas d'échec sanctionné par l'appréciation "F", la remédiation d'un module n'est autorisée qu'une seule fois, en principe au plus tard pour la fin du semestre suivant.
 
-#### Art. 42
-
-**Entrée en vigueur**
-
-La présente ordonnance est publiée au Bulletin officiel pour entrer en vigueur avec effet rétroactif au 1<sup>er</sup> mars 2008.
-
-Le président du Conseil d'Etat: Jean-Michel Cina Le chancelier d'Etat: Henri v. Roten
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-**1.03.2008**
-
-vigueur RO/VS 2008,252
-
-## Autres notes
-
-- [1] Modification du 24.06.2009 BO No 40/2009 1.08.2009
-- [2] Modification du 29.05.2013 BO No 24/2013 1.08.2013
+RCV RO/AGS 2021-052

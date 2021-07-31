@@ -1,488 +1,527 @@
 ---
 canton: VS
 number: "419.107"
-title: Verordnung über die Berufsbildung der Lehrpersonen an den Schulen der Sekundarstufe I und der allgemeinen Sekundarstufe II
-short: VBBLK
+title: Verordnung über die Ausbildung für den Unterricht auf der Sekundarstufe I und/oder der Sekundarstufe II
+short: VAUS
 language: de
-version: 2013-08-01
-corrected: 2017-09-07
-version_adopted: 2013-05-29
+version: 2021-08-01
+version_adopted: 2021-04-21
 adopted: 2021-04-21
 in_force: 2021-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/419.107"
-pdf: "https://lex.vs.ch/api/de/versions/472/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2887/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Berufsbildung der Lehrpersonen an den Schulen der Sekundarstufe I und der allgemeinen Sekundarstufe II (VBBLK)
+# Verordnung über die Ausbildung für den Unterricht auf der Sekundarstufe I und/oder der Sekundarstufe II
 
-vom 25. Juni 2008
+(VAUS)
+
+vom 21.04.2021 (Stand 01.08.2021)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen den Artikel 13 der Kantonsverfassung;
+eingesehen Artikel 57 Absatz 2 der Kantonsverfassung;
 
-eingesehen das Gesetz über das öffentliche Unterrichtswesen vom 4. Juli 1962;
+eingesehen Artikel 22 bis 24 des Gesetzes über die Pädagogische Hochschule Wallis vom 4. Oktober 1996 (GPH);
 
-eingesehen das Gesetz über die Pädagogische Hochschule vom 4. Oktober 1996;
+eingesehen das Gesetz über den Beitritt zur interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 11. Mai 1995;
 
-auf Antrag des Departements für Erziehung, Kultur und Sport,
+eingesehen das Reglement der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar 1995 (MAR);
 
-verordnet:
+eingesehen das Reglement über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) vom 28. März 2019;
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+auf Antrag des für die Bildung zuständigen Departements,
+
+verordnet:[^ingress-1]
+
+[^ingress-1]: In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann und Frau.
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Geltungsbereich**
+**Anwendungsbereich**
 
-Diese Verordnung regelt die Berufsbildung der Kandidaten für das Lehramt der Sekundarstufe I und der allgemeinen Sekundarstufe II an der Pädagogischen Hochschule Wallis (PH-VS).
+<sup>1</sup> Die vorliegende Verordnung legt die Bestimmungen betreffend die Ausbildungsziele, die Zulassung zur Ausbildung, die Organisation der Ausbildung und die Modalitäten der Evaluation und Zertifizierung der Ausbildung für den Unterricht an Schulen der Sekundarstufe I und/oder der Sekundarstufe II an der Pädagogischen Hochschule des Wallis (nachstehend PH-VS) fest.
+
+<sup>2</sup> Sie umfasst zudem die Organisation des Studiums für den Erwerb eines Erweiterungsdiploms, um zusätzliche Fächer oder dieselben Fächer auf zusätzlichen Schulstufen zu unterrichten.
+
+<sup>3</sup> Die Anwendungsmodalitäten der vorliegenden Verordnung werden in einem internen Reglement der PH-VS präzisiert.
 
 #### Art. 2
 
-**Ausbildung - Studium**
+**Ausbildungsziel**
 
-<sup>1</sup> Die Berufsbildung an der PH-VS wird gemäss den allgemeinen Zulassungsbedingungen nach dieser Verordnung nach einer akademischen und wissenschaftlichen Ausbildung absolviert, die mit einem von einer Universität oder einer Technischen Hochschule ausgestellten Titel abgeschlossen wurde.
+<sup>1</sup> Die Ausbildungsgänge für den Unterricht an Schulen der Sekundarstufe I und Maturitätsschulen werden im Anschluss an ein fachwissenschaftliches Studium (Bachelor und/oder Master) absolviert. Die Ausbildungen vermitteln den Studenten jene beruflichen Kompetenzen, die für den Unterricht von einem oder zwei Fächern notwendig sind, und ermöglichen ihnen den Erwerb eines ersten, von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (nachstehend EDK) anerkannten, Lehrdiploms.
 
-<sup>2</sup> Das Departement für Erziehung, Kultur und Sport (DEKS) kann diese Berufsbildung für Lehrkräfte eröffnen, die über ein gemäss Verordnung über die Titel und Diplomen für den Unterricht in den Schulen der Sekundarstufe I und der allgemeinen Sekundarstufe II (VTUS) vom 25. Juni 2008 ermächtigt.
+<sup>2</sup> Die Ausbildungsgänge zum Erwerb eines Erweiterungsdiploms ermöglichen es, ein bereits erhaltenes EDK-anerkanntes Lehrdiplom durch zusätzliche Fächer oder Schulstufen zu ergänzen.
+
+<sup>3</sup> Die Ausbildungsziele sind in den Studienplänen festgelegt, deren Inhalt den von der EDK vorgegebenen Anforderungen der interkantonalen Anerkennung der Lehrdiplome entspricht.
 
 #### Art. 3
 
-**Studiengänge**
+**Ausbildungsmodalitäten**
 
-<sup>1</sup> Die Kandidaten für die Berufsbildung haben je nach ihren Titeln die Wahl zwischen folgenden Studiengängen:
+<sup>1</sup> Es handelt sich um ein Teilzeitstudium.
 
-- a) Ausbildung für den Unterricht der Sekundarstufe I für die Inhaber eines Bachelors;
-
-- b) Ausbildung für den Unterricht der Sekundarstufe I und der allgemeinen Sekundarstufe II für die Inhaber eines Masters/Lizenziats;
-
-- c) Ausbildung für den Unterricht der allgemeinen Sekundarstufe II für die Inhaber eines Masters/Lizentiats.
-
-<sup>2</sup> Jeder Studiengang bietet eine Spezialisierung in einem oder zwei Fächern gemäss dem Studienreglement.
+<sup>2</sup> Der Staatsrat kann, auf Vorschlag der PH-VS, vorschlagen, bestimmte Ausbildungsgänge in Vollzeit zu organisieren.
 
 #### Art. 4
 
-**Ausbildungsart**
+**Ausbildungsdauer**
 
-Der Staatsrat beschliesst auf Antrag des DEKS, ob die Ausbildung als Teilzeit- oder als Vollzeitausbildung angeboten wird.
+<sup>1</sup> Die Ausbildungsdauer hängt vom angestrebten Diplom ab. Sie dauert:
+
+- a) 6 Semester für den Ausbildungsgang zum Erwerb des Lehrdiploms für die Sekundarstufe I;
+- b) 4 Semester für den Ausbildungsgang zum Erwerb des Lehrdiploms für Maturitätsschulen;
+- c) 6 Semester für den Ausbildungsgang zum Erwerb des Lehrdiploms der Sekundarstufe I und für Maturitätsschulen;
+- d) zwischen 2 und 4 Semester für den Ausbildungsgang zum Erwerb eines Erweiterungsdiploms.
+
+<sup>2</sup> Die Gesamtdauer der Ausbildung kann um maximal 2 Semester verlängert werden. Eine Überschreitung dieser Zeitdauer hat das definitive Nichtbestehen zur Folge. Bei Überschreiten wird der Student von der Ausbildung ausgeschlossen und exmatrikuliert. Sonderfälle bleiben vorbehalten.
+
+<sup>3</sup> Ein Beurlaubung kann für ein Semester gewährt und einmal verlängert werden. Sie wird an die Höchstdauer der Ausbildung angerechnet. Die Modalitäten sind im Studienreglement festgelegt.
+
+<sup>4</sup> Eine vorübergehende Unterbrechung des Studiums ist im Falle der Abwesenheit aufgrund von Unfall, Krankheit, Mutterschaftsurlaub, Wehrdienst oder nachgewiesener höherer Gewalt möglich. Sie wird nicht an die Höchstdauer der Ausbildung angerechnet. Die Modalitäten sind im Studienreglement festgelegt.
 
 #### Art. 5
 
-**Ausbildungsdauer**
+**ECTS-Kreditpunkte (European Credit Transfer System)**
 
-<sup>1</sup> Die Ausbildungsdauer hängt ab:
+<sup>1</sup> Die Anzahl der erforderlichen ECTS-Kreditpunkte hängt vom angestrebten Diplom ab:
 
-- a) vom gewählten Studiengang, d. h. von der geforderten Anzahl Kreditpunkte;
+- a) 110 ECTS-Kreditpunkte für die Ausbildung zum Unterricht an Schulen der Sekundarstufe I, für die ein Mastertitel verliehen wird;
+- b) 60 ECTS-Kreditpunkte für die Ausbildung, für die ein Diplom mit dem Vermerk "Lehrdiplom für Maturitätsschulen" verliehen wird;
+- c) 110 ECTS-Kreditpunkte für die Ausbildung, für die ein Diplom mit dem Vermerk "Lehrdiplom für die Sekundarstufe I und für Maturitätsschulen" verliehen wird.
 
-- b) von der Ausbildungsart (Vollzeit oder Teilzeit).
-
-<sup>2</sup> Die vollständige Ausbildungsdauer darf jedoch die höchste Semesterzahl, die im Studienreglement jedes Studiengangs festgehalten wird, nicht übersteigen. Überschreitet ein Student diese Höchstdauer, so wird er von der Ausbildung ausgeschlossen und exmatrikuliert; besondere Fälle bleiben vorbehalten.
+<sup>2</sup> Im Falle einer Exmatrikulation während der Ausbildung bleiben die erreichten Kreditpunkte für einen Zeitraum von 5 Jahren ab dem Datum der Mitteilung der Exmatrikulation gültig.
 
 #### Art. 6
 
-**Erforderliche Kreditpunkte**
+**Zusammenarbeit**
 
-<sup>1</sup> Je nach Studiengang und je nachdem, ob eine Spezialisierung in einem oder zwei Fächern gewählt wird, braucht es für ein Unterrichtsdiplom:
+<sup>1</sup> Die PH-VS kann mit bereichsgleichen Institutionen wie z. B. anderen PH oder Universitäten zusammenarbeiten, insbesondere zur Organisation von Ausbildungsmodulen.
 
-- a) zwischen 90 und 120 ECTS-Kreditpunkte für den Unterricht an der Sekundarstufe I;
-
-- b) zwischen 90 und 120 ECTS-Kreditpunkte für den Unterricht an der Sekundarstufe I und an der allgemeinen Sekundarstufe II;
-
-- c) 60 ECTS-Kreditpunkte für den Unterricht an der allgemeinen Sekundarstufe II.
-
-<sup>2</sup> Ein Studienjahr der Vollzeitausbildung entspricht grundsätzlich 60 Kreditpunkten.
+<sup>2</sup> Die PH-VS arbeitet mit den Direktionen der Schulen und Bildungsinstitutionen zusammen, an denen Studenten der PH-VS unterrichten, sowie mit jenen, die Praktikanten aufnehmen.
 
 #### Art. 7
 
-**Unterrichtssprachen**
+**Ausbildungskommission für den Unterricht auf der Sekundarstufe I und II**
 
-<sup>1</sup> Unterrichtssprachen sind im Allgemeinen Deutsch und/oder Französisch; gewisse Fächer können aber auch in einer anderen Sprache unterrichtet werden.
+<sup>1</sup> Die Ausbildungskommission für den Unterricht auf der Sekundarstufe I und II (nachstehend die Kommission) setzt sich zusammen aus:
 
-<sup>2</sup> Für die Wahl der Unterrichtssprache in den einzelnen Ausbildungsmodulen ist die Direktion der PH-VS zuständig.
+- a) einem Mitglied der Direktion der PH-VS, das der Kommission vorsteht und dem Ausbildungsverantwortlichen der PH-VS;
+- b) einem Vertreter der Direktoren der Schulen der Sekundarstufe I;
+- c) zwei Vertretern der Direktoren der Schulen der Sekundarstufe II, sprich einem für die Gymnasien und einem für die Handels- und Fachmittelschulen und die Schulen für Berufsvorbereitung;
+- d) einem Vertreter der Berufsverbände für Lehrpersonen der Sekundarstufe I und einem Vertreter der Berufsverbände für Lehrpersonen der Sekundarstufe II;
+- e) einem Vertreter der Dienststelle für Unterrichtswesen.
+
+<sup>2</sup> Auf Anfrage der PH-VS ernennen die vorgenannten Kommissionmitglieder ihre(n) Vertreter. Sie gewährleisten die Stellvertretung ihrer Vertreter im Fall eines Rücktritts vor Ablauf der Amtszeit.
+
+<sup>3</sup> Die Amtszeit der Mitglieder beträgt 4 Jahre. Sie kann einmal verlängert werden, mit Ausnahme von Personen, die aufgrund ihrer Funktion Mitglied der Kommission sind.
+
+<sup>4</sup> Die Kommission:
+
+- a) überwacht die Einhaltung der Verfahren im Zusammenhang mit der Zulassung und den Abschlussprüfungen;
+- b) gibt auf Anfrage der Direktion ihre Vormeinung zu Beschwerden im Fall eines definitiven Nichtbestehens ab.
+
+<sup>5</sup> Die Mitglieder der Kommission unterstehen dem Amtsgeheimnis.
+
+## 2 Zulassung
 
 #### Art. 8
 
-**Zusammenarbeit**
+**Allgemeine Bedingungen**
 
-<sup>1</sup> Die PH kann mit anderen Institutionen, die dasselbe Ziel verfolgen (andere PH/Universitäten usw.) zusammenarbeiten; diese Zusammenarbeit kann namentlich die Form von Leistungsaufträgen für übertragene oder auszuführende Leistungen haben.
+<sup>1</sup> Die Zulassungsbedingungen hängen vom angestrebten Diplom ab:
 
-<sup>2</sup> Im Einverständnis mit dem Departement arbeitet sie mit den Direktionen der Schulen/Institutionen, an denen die Studierenden in der Teilzeitausbildung unterrichten, und mit denjenigen, die Praktikanten aufnehmen, zusammen.
+- a) für den Lehrgang des Diploms für die Lehrtätigkeit an den Schulen der Sekundarstufe I muss sich der Kandidat für eine Ausbildung in Bezug auf ein einziges Fach im Besitz eines Bachelorabschlusses befinden, der mindestens 110 ECTS-Kreditpunkte in einem der im Anhang des Reglements der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen vorgesehenen lehrbaren Fächer ausweist;
+- b) für den Lehrgang des Diploms für die Lehrtätigkeit an den Schulen der Sekundarstufe I muss sich der Kandidat im Fall einer Ausbildung in zwei Fächern im Besitz eines Bachelorabschlusses befinden, der kumuliert mindestens 100 ECTS-Kreditpunkte in zwei lehrbaren Fächern ausweist. In diesem Fall muss jedes Fach mindestens 30 ECTS-Kreditpunkte betragen;
+- c) für den Lehrgang des Diploms für die Lehrtätigkeit an Maturitätsschulen muss sich der Kandidat für eine Ausbildung in Bezug auf ein einziges Fach im Besitz eines Masterabschlusses befinden, der im lehrbaren Fach, wie im Reglement der EDK über die Anerkennung von gymnasialen Maturitätsausweisen (MAR) vorgesehen, 120 ECTS-Kreditpunkte ausweist, von denen mindestens 30 ECTS-Kreditpunkte im Master erlangt worden sind;
+- d) für den Lehrgang des Diploms für die Lehrtätigkeit an Maturitätsschulen muss der Kandidat im Fall einer Ausbildung in zwei Fächern für das Lehrfach A 120 ECTS-Kreditpunkte ausweisen, von denen mindestens 30 ECTS-Kreditpunkte im Master erlangt worden sind, und für das Lehrfach B mindestens 90 ECTS-Kreditpunkte ausweisen, von denen mindestens 30 ECTS-Kreditpunkte im Master erlangt worden sind;
+- e) für den Lehrgang des Diploms für die Lehrtätigkeit an den Schulen der Sekundarstufe I und den Maturitätsschulen muss der Kandidat die unter Buchstabe c oder d des vorliegenden Artikels festgelegten Bedingungen erfüllen;
+- f) für die Zulassung zum Lehrgang für ein Erweiterungsdiplom ist zusätzlich ein bereits erhaltenes EDK-anerkanntes Lehrdiplom erforderlich.
 
-<sup>3</sup> Der Staatsrat ernennt eine Koordinationskommission, die aus Vertretern des DEKS, der betreffenden Schulen und der Berufsverbände besteht.
+<sup>2</sup> Die Liste der lehrbaren Fächer für ein auf Bundesebene anerkanntes Diplom wird von der EDK veröffentlicht.
 
 #### Art. 9
 
-**Qualitätsmanagement**
+**Fächer mit kantonaler Anerkennung**
 
-Die PH-VS wendet ein internes System des Qualitätsmanagements an, bei dem die Entwicklung aller Partner der Ausbildung berücksichtigt wird.
-
-### 2. Abschnitt: Zulassung
+<sup>1</sup> Andere als die von der EDK vorgesehenen Fächer können in der Verordnung über die Diplome (VTUS) als lehrbare Fächer anerkannt werden. Eine kantonale Anerkennung kann erhalten werden.
 
 #### Art. 10
 
-**Allgemeine Voraussetzungen**
+**Kenntnis der Hauptunterrichtssprache**
 
-<sup>1</sup> Um zur an der PH-VS angebotenen Ausbildung in den Studiengängen nach dieser Verordnung zugelassen zu werden, müssen die Kandidaten:
+<sup>1</sup> Um zur von der PH-VS angebotenen Ausbildung in den von der vorliegenden Verordnung vorgesehenen Ausbildungsgängen zugelassen zu werden, muss der Kandidat seine Kenntnis der deutschen Sprache nachweisen können. Der Kandidat, der nicht deutscher Muttersprache ist und eine nicht deutsche Universitätsausbildung absolviert hat, muss ein Zertifikat auf Stufe C2 gemäss des Gemeinsamen europäischen Referenzrahmens für Sprachen vorweisen, das zum Zeitpunkt der Zulassung nicht älter als 3 Jahre sein darf.
 
-- a) Inhaber eines Bachelor/Master oder eines Lizentiats in einem oder mehreren Unterrichtsfächern in der gewählten Sekundarstufe sein;
+<sup>2</sup> Der Kandidat, der ausschliesslich eine lebende Fremdsprache als Lehrfach auf der Sekundarstufe II wählt, muss seine Deutschkenntnisse auf mindestens Stufe B2 nachweisen.
 
-- b) In diesen Fächern (Unterrichtsfächern) die Anzahl Kreditpunkte, die im Studienreglement des gewählten Studiengangs festgelegt werden, erhalten haben;
-
-- c) Nachweisen können, dass sie über gewissen Grundlagen in Deutsch oder Französisch verfügen (nach Standard, der im Studienreglement festgehalten wird);
-
-- d) die für die angebotene Ausbildungsart (Vollzeit oder Teilzeit) erforderlichen Voraussetzungen gemäss den Bestimmungen der Artikel 11 und 12 erfüllen.
-
-<sup>2</sup> Die Zulassungskommission entscheidet über Gesuche um Anerkennung einer gleichwertigen Ausbildung, die den Anforderungen nach Buchstabe a, b und c von Absatz 1 entspricht.
-
-<sup>3</sup> Das Kandidaturdossier muss den Bedingungen entsprechen und innert der Fristen eingereicht werden, die von der PH-VS festgelegt werden.
+<sup>3</sup> Der Kandidat, der eine lebende Fremdsprache als Lehrfach wählt und sich im Besitz eines Bachelor- oder Masterabschlusses befindet, den er vor 2015 abgeschlossen hat, muss ein Zertifikat über die sprachliche Kompetenz in der zu unterrichtenden Sprache vorweisen. Die gemäss der Klassifikation des Gemeinsamen europäischen Referenzrahmens für Sprachen erwartete Kompetenzstufe ist für den Kandidaten, der ein Lehrdiplom für die Sekundarstufe I anstrebt, C1 und für den Kandidaten, der ein Lehrdiplom für Maturitätsschulen anstrebt, C2.
 
 #### Art. 11
 
-**Zulassungsbedingungen für eine Vollzeitausbildung**
+**Gleichwertigkeit ausländischer Abschlüsse**
 
-Das Vollzeitstudium setzt voraus, dass der Kandidat ganz für die Ausbildung zur Verfügung steht.
+<sup>1</sup> Kandidaten mit ausländischen akademischen Abschlüssen müssen die in den Empfehlungen der Rektorenkonferenz der schweizerischen Hochschulen (swissuniversities) festgelegten Bedingungen erfüllen.
 
 #### Art. 12
 
-**Zulassungsbedingungen für eine Teilzeitausbildung**
+**Formelle Bedingungen**
 
-<sup>1</sup> Nebst den allgemeinen Voraussetzungen nach Artikel 10 muss der Kandidat für eine Teilzeitausbildung:
+<sup>1</sup> Das Bewerbungsdossier muss den durch die PH-VS festgelegten Bedingungen und Fristen entsprechen.
 
-- a) über eine Ernennung an einer Schule für ein Teilzeitpensum für den Unterricht im oder in den Spezialisierungsfächern verfügen, die demjenigen oder denjenigen entsprechen, das oder die er für seine Berufsbildung gewählt hat;
-
-- b) zeitlich so verfügbar, dass es mit der entsprechenden Ausbildung vereinbar ist.
-
-<sup>2</sup> Wird das Arbeitsverhältnis beendetwird der Student grundsätzlich exmatrikuliert.
-
-<sup>3</sup> Die Zulassungskommission hat die Kompetenz zu entscheiden, Kandidaten in die Teilzeitausbildung aufzunehmen, die nicht oder nicht mehr an einer Schule angestellt sind.
+<sup>2</sup> Die Kandidaten, die ihr Bewerbungsdossier nicht innert der vorgesehenen Fristen bei der PH-VS eingereicht haben und die eine Anstellung im Wallis erhalten, werden, wenn alle Bedingungen erfüllt sind, im akademischen Jahr nach ihrer Anstellung zugelassen.
 
 #### Art. 13
 
-**Zulassungskommission**
+**Vorrang bei der Zulassung**
 
-<sup>1</sup> Der Staatsrat ernennt die Zulassungskommission.
+<sup>1</sup> Der Zugang zur Ausbildung ist in erster Linie für Kandidaten bestimmt, die sich in einer Anstellung an einer Schule der Stufe des angestrebten Diploms befinden.
 
-<sup>2</sup> Die definitive Aufnahme wird den Kandidaten schriftlich mitgeteilt. Damit ist der Kandidat automatisch eingeschrieben. Bei einem Aufschub des Ausbildungsbeginns wird der Kandidat nicht eingeschrieben.
+<sup>2</sup> Der Zugang zur Teilzeitausbildung für Kandidaten, die sich nicht in einer Anstellung an einer Schule befinden, ist wie folgt geregelt:
+
+- a) vorrangig zugelassen werden die Kandidaten, die ein fachwissenschaftliches Studium absolviert haben und sich, je nach angestrebtem Studiengang, im Besitz eines Bachelor- oder Mastertitels befinden. Falls die Anzahl Kandidaturen die Aufnahmekapazitäten der PH-VS übersteigt (insbesondere Lehrpersonen oder Praktikumslehrpersonen), haben die Kandidaten mit Unterrichtserfahrung Vorrang;
+- b) wenn es die Aufnahmekapazitäten der PH-VS zulassen, werden danach die Kandidaten zugelassen, die vor ihrer Immatrikulation an der PH-VS einen Bachelor- oder Masterabschluss anstreben. In diesem Fall haben die Kandidaten Vorrang, die Lehrfächer wählen, in denen ein Lehrermangel absehbar ist.
+
+<sup>3</sup> Die PH-VS informiert die nicht zugelassenen Kandidaten schriftlich über die Gründe für diese Entscheidung.
+
+## 3 Organisation der Ausbildung
 
 #### Art. 14
 
-**Aufschub des Ausbildungsbeginns**
+**Akademisches Jahr**
 
-<sup>1</sup> Wenn die Zahl der Zulassungen die Aufnahmekapazität der Schule übersteigen, kann der Ausbildungsbeginn um ein Jahr aufgeschoben werden.
+<sup>1</sup> Das akademische Jahr ist nach dem von swissuniversities vorgegebenen Rahmen und dem Walliser Kalender der Feiertage und Schulferien organisiert.
 
-<sup>2</sup> In einem solchen Fall werden Dringlichkeitskriterien berücksichtigt, namentlich die Bedürfnisse des Unterrichts (zu viele/zu wenige Lehrpersonen) und ob es in dem Fach genügend Lehrkräfte an der PH-VS und genügend Praktikumslehrer (Praktikumslehrpersonen) in den Schulen, die Praktikanten aufnehmen, gibt.
+<sup>2</sup> Die praktische Ausbildung ist an den Walliser Schulkalender angepasst.
 
-### 3. Abschnitt: Organisation der Ausbildung
+<sup>3</sup> Je nach Studiengang und Ausbildungsjahr stellt das Studium ein Pensum zwischen 40 und 50 Prozent dar. Das Studienreglement des Studiengangs präzisiert den Prozentsatz für jedes Ausbildungsjahr.
+
+<sup>4</sup> Die Ausbildung in Vollzeit stellt ein Pensum von 100 Prozent dar.
 
 #### Art. 15
 
-**Studienjahr**
+**Ausführungsbestimmungen**
 
-<sup>1</sup> Das Studienjahr umfasst grundsätzlich 38 Arbeitswochen, die sich in zwei 19-wöchige Semester aufteilen.
-
-<sup>2</sup> Das Studienjahr beginnt grundsätzlich in der Woche 38.
-
-<sup>3</sup> Aus organisatorischen Gründen kann in folgenden Fällen von diesem Kalender abgewichen werden:
-
-- a) beim Modul zur Einführung ins Studium;
-
-- b) bei den praktischen Modulen, die möglichst auf das Schuljahr der Schulen, die Praktikanten aufnehmen, abgestimmt werden.
+<sup>1</sup> Die Ausbildung wird durch ein Studienreglement, Studienpläne und von der PH-VS erlassene Richtlinien geregelt. Diese Dokumente legen die Anwendungsmodalitäten der Bestimmungen der vorliegenden Verordnung fest.
 
 #### Art. 16
 
-**Studienreglemente**
+**Studienpläne**
 
-Jeder Studiengang verfügt über ein Studienreglement, in dem namentlich der Studienplan und die Anwendungsmodalitäten der entsprechenden Bestimmungen dieser Verordnung festgelegt werden.
+<sup>1</sup> Die Studienpläne der verschiedenen Studiengänge umfassen die folgenden Ausbildungsbereiche:
+
+- a) Berufseinführung;
+- b) Ausbildung in Erziehungswissenschaften;
+- c) Ausbildung in Didaktik;
+- d) praktische Ausbildung;
+- e) Ausbildung in der Forschungsarbeit und Diplomschlussarbeit, nur im Studienplan der Ausbildung für den Unterricht auf der Sekundarstufe I vorgesehen;
+- f) optionale berufsqualifizierende Ausbildung;
+- g) das Zertifikat der Zusatzausbildung in Berufspädagogik für Personen mit Lehrbefähigung für Maturitätsschulen, welches fakultativ für Studenten des Studiengangs für den Unterricht auf der Sekundarstufe II angeboten wird.
+
+<sup>2</sup> Die Studienpläne sind in Modulen organisiert, die grundsätzlich nach Semester unterteilt sind.
+
+<sup>3</sup> Die Studienpläne präzisieren die Anzahl der Kreditpunkte für jedes Modul.
+
+<sup>4</sup> Aus organisatorischen Gründen kann die PH-VS Module verschiedener Studienpläne zusammenfassen.
 
 #### Art. 17
 
-**Studienpläne - Ausbildungsbereiche**
+**Besondere Organisation bestimmter Ausbildungsbereiche**
 
-<sup>1</sup> Den Mittelpunkt der Studienpläne der Studiengänge bilden folgende Ausbildungsbereiche:
+<sup>1</sup> Module, die anderen Hochschulen übertragen werden, können in deren Einrichtungen organisiert und um eine oder 2 Wochen gegenüber dem akademischen Kalender der PH-VS und dem Walliser Schulkalender nach vorne oder hinten verschoben werden.
 
-- a) die Einführung in das Studium;
-
-- b) die Ausbildung in Erziehungswissenschaften;
-
-- c) die (allgemeine und fachbezogene) didaktische Ausbildung;
-
-- d) die spezifische Ausbildung;
-
-- e) die Praxisausbildung;
-
-- f) die berufliche Diplomarbeit erscheint nur im Studienplan des Studiengangs für den Unterricht an Schulen der Sekundarstufe I. <sup>2</sup>
-
-- g) die persönliche Ausbildung und die Wahlfächer.
-
-<sup>2</sup> Die Studienpläne sind semesterweise aufgebaut.
-
-<sup>3</sup> Sie legen die Zahl der ECTS-Kreditpunkte fest, die jedem Semester (Modul) zugeteilt werden.
-
-<sup>4</sup> Die Studienpläne legen ebenfalls die Modalitäten und die Fristen für die wichtigsten Etappen der Entwicklung der beruflichen Diplomarbeit fest.
+<sup>2</sup> Die Module der praktischen Ausbildung, die in Form von Praktika absolviert werden, erfolgen unter der Verantwortung von Praktikumslehrpersonen.
 
 #### Art. 18
 
-**Zusammenfassung von Modulen**
+**Berücksichtigung der bereits absolvierten Studien**
 
-Aus organisatorischen Gründen kann die Direktion der PH-VS Module aus verschiedenen Studiengängen und Studiensemestern zusammenfassen.
+<sup>1</sup> Der Student kann bei der PH-VS die Berücksichtigung bereits absolvierter Studien beantragen.
+
+<sup>2</sup> In der Regel basiert die Berücksichtigung bereits absolvierter Studien auf den diesbezüglichen Normen der EDK.
+
+<sup>3</sup> Die Anträge müssen gemäss dem Verfahren gestellt werden, das im Studienreglement festgelegt ist.
+
+<sup>4</sup> Die PH-VS befindet über die Anträge.
+
+<sup>5</sup> Die im Rahmen früherer Studien erworbenen ECTS-Kreditpunkte, für die der Student die Berücksichtigung beantragt, müssen innerhalb der letzten 5 Jahre vor dem Datum der Einreichung des Bewerbungsdossiers für die Zulassung an der PH-VS erlangt worden sein.
 
 #### Art. 19
 
-**Ausbildungsbestimmungen**
+**Validierung der Berufserfahrung**
 
-<sup>1</sup> Die verschiedenen Studiengänge werden nach Dispositiven organisiert, die folgende Punkte fördern:
+<sup>1</sup> Die Möglichkeit der Validierung der Berufserfahrung besteht für Studenten des Studiengangs zum Lehrdiplom für die Sekundarstufe I und wird in einer Richtlinie der PH-VS definiert.
 
-- a) den Wechsel zwischen theoretischer und praktischer Ausbildung;
-
-- b) den Wechsel zwischen Ausbildung an der PH-VS und praktischer Ausbildung;
-
-- c) die Verbindung zwischen Lehre und Forschung.
-
-<sup>2</sup> Die Studiengänge sind auf Modulen aufgebaut.
+## 4 Zertifizierung der Module
 
 #### Art. 20
 
-**Praktische Ausbildung**
+**Zertifizierung der Module**
 
-Die Module der praktischen Ausbildung werden in Form von Praktika unter der Aufsicht von Praktikumslehrpersonen absolviert.
+<sup>1</sup> Jedes Modul wird durch den Erwerb von ECTS-Kreditpunkten, deren Anzahl in den Studienplänen festgelegt ist, bewertet und validiert.
+
+<sup>2</sup> Die Module mit einer zertifizierenden Bewertung erhalten eine Note oder eine Beurteilung:
+
+- a) Noten werden gemäss der Skala von 1 bis 6 vergeben. Die Note 1 entspricht fehlender Kompetenz, die Note 4 genügender Kompetenz und die Note 6 ausgezeichneter Kompetenz. Die Abstufung erfolgt in halben Noten.
+- b) Im Fall einer Beurteilung wird das Modul mit "bestanden" oder "nicht bestanden" beurteilt.
+
+<sup>3</sup> Ausser in Fällen von höherer Gewalt hat die Nichtteilnahme oder die Nichtrückgabe von Zertifizierungsdokumenten innert der vorgeschriebenen Fristen ein erstes Nichtbestehen zur Folge, das mit der Note 1 oder der Beurteilung "nicht bestanden" sanktioniert wird.
+
+<sup>4</sup> Jeder Betrug oder jedes Plagiat, ob nachgewiesen oder versucht, wird unverzüglich mit der Note 0 oder der Beurteilung "nicht bestanden" sanktioniert. Die in Artikel 32 der vorliegenden Verordnung vorgesehenen Sanktionen bleiben vorbehalten.
 
 #### Art. 21
 
-**Kreditpunkte, Qualifikationen und Bewertung der Module**
+**Bedingungen für das Bestehen**
 
-<sup>1</sup> Jedes Modul wird bewertet und mit Kreditpunkten validiert, deren Zahl im Studienplan festgelegt wird.
+<sup>1</sup> Um die Kreditpunkte eines Moduls zu erhalten, müssen die Studenten innert der vom Studienreglement der PH-VS vorgesehenen Fristen:
 
-<sup>2</sup> Die Module, für die Kreditpunkte erteilt werden, werden mit folgenden Beurteilungen bewertet: A: Ausgezeichnet, B: Sehr gut, C: Gut, D: Genügend, E: Befriedigend, F: Ungenügend.
+- a) mindestens die Note 4, oder
+- b) die Beurteilung "bestanden" erlangen.
 
-<sup>3</sup> Jedes Modul kann auch unter Berücksichtigung der bereits absolvierten Studien validiert werden. Das betreffende Verfahren wird durch die Zulassungskommission durchgeführt. <sup>2</sup>
+<sup>2</sup> Im Falle des Nichtbestehens, sprich einer tieferen Note als 4 oder der Beurteilung "nicht bestanden", kann das Modul maximal einmal und grundsätzlich bis spätestens zum Ende des nächsten Semesters wiederholt werden.
+
+<sup>3</sup> Das definitive Nichtbestehen eines Moduls wird ausgesprochen, wenn die Leistungen des Studenten in diesem Modul nach der Wiederholung ungenügend bleiben. Besondere, dokumentierte Umstände bleiben vorbehalten.
 
 #### Art. 22
 
-**Bewertung während des Studiums**
+**Definitives Nichtbestehen und Ausschluss**
 
-<sup>1</sup> Während der ganzen Ausbildung werden die Kenntnisse und Kompetenzen der Studierenden evaluiert.
+<sup>1</sup> Der Student wird in den folgenden Fällen von der Ausbildung ausgeschlossen:
 
-<sup>2</sup> Um die Kreditpunkte eines Moduls zu erhalten, müssen die Studenten in der im Studienplan vorgesehenen Zeitspanne eine Mindestbewertung ''E" erlangen.
+- a) definitives Nichtbestehen eines Moduls des Studienplans;
+- b) Nichterreichen der notwendigen, im Studienplan verlangten Kreditpunkte;
+- c) Überschreitung der maximal erlaubten Anzahl Semester;
+- d) nachgewiesene oder wiederholte Unfähigkeit, die Integrität der dem Studenten im Rahmen der Ausbildung anvertrauten Schüler sicherzustellen.
 
-<sup>3</sup> Ein Modul darf nur ein einziges Mal nachgebessert werden; die Verbesserung muss in der Frist, die vom verantwortlichen Ausbildner festgelegt wird, grundsätzlich spätestens auf Ende des folgenden Semesters gemacht werden.
-
-<sup>4</sup> Die Direktion der PH-VS ist verantwortlich für die Verwaltung der Bewertungen. Sie erstellt am Ende jedes Semester und jedes Studienjahr eine individuelle Bilanz der erhaltenen Kreditpunkte und teilt sie den Studenten mit.
-
-### 4. Abschnitt: Schlussevaluation
+## 5 Abschlussprüfungen
 
 #### Art. 23
 
-**Zulassung zur Schlussevaluation**
+**Inhalt der Abschlussprüfungen**
 
-Um sich zur Schlussevaluation zu stellen, muss die Studierenden:
+<sup>1</sup> Für die Kandidaten des Lehrdiploms für die Sekundarstufe I umfassen die Abschlussprüfungen:
 
-- a) sich in den von der Direktion festgelegten Fristen angemeldet haben;
+- a) die praktische Prüfung;
+- b) das Verfassen und die Verteidigung einer Kompetenzenbilanz;
+- c) das Verfassen und die Verteidigung einer beruflichen Abschlussarbeit.
 
-- b) am Datum, das von der Direktion festgelegt wird, alle Kreditpunkte, die im Studienplan vorgesehen sind, erreicht haben;
+<sup>2</sup> Für die Kandidaten des Lehrdiploms für die Sekundarstufe I und für Maturitätsschulen umfassen die Abschlussprüfungen:
 
-- c) in den vorgegebenen Fristen alle schriftlichen Unterlagen zu den Teilen der Abschlussprüfung eingereicht haben.
+- a) die praktische Prüfung;
+- b) das Verfassen und die Verteidigung einer Kompetenzenbilanz.
+
+<sup>3</sup> Für die Kandidaten des Lehrdiploms für Maturitätsschulen umfassen die Abschlussprüfungen:
+
+- a) die praktische Prüfung;
+- b) das Verfassen und die Verteidigung einer Kompetenzenbilanz.
+
+<sup>4</sup> Für die Kandidaten des Erweiterungsdiploms werden die Anforderungen für die einzelnen Teile der Abschlussprüfungen im Studienplan bekanntgegeben, der zu Beginn der Ausbildung abgegeben wird.
+
+<sup>5</sup> Die Modalitäten der verschiedenen Teile der Abschlussprüfungen werden von der PH-VS in eigenen Dokumenten präzisiert.
+
+<sup>6</sup> Die für die Zertifizierung der Module vorgesehenen Bestehensanforderungen gelten auch für jeden Teil der Abschlussprüfungen.
 
 #### Art. 24
 
-**Bewertung**
+**Bedingungen für die Zulassung zu den Abschlussprüfungen**
 
-<sup>1</sup> Die Schlussevaluation für das Diplom für die Lehrtätigkeit an den Schulen der Sekundarstufe I umfasst folgende Teile: <sup>2</sup> a) die praktische Prüfung;
+<sup>1</sup> Um sich zur Verteidigung der Kompetenzenbilanz und der beruflichen Abschlussarbeit zu stellen, muss der Student:
 
-- b) die Verteidigung der Bilanz der Kompetenzen;
-
-- c) die Verteidigung der beruflichen Diplomarbeit.
-
-<sup>2</sup> Die Schlussevaluation für das Diplom für die Lehrtätigkeit an den Schulen der Sekundarstufe I und den Maturitätsschulen umfasst folgende Teile: <sup>2</sup> a) die praktische Prüfung;
-
-- b) die Vorstellung eines Portfolios und die Verteidigung der Bilanz der Kompetenzen.
-
-<sup>3</sup> Die Schlussevaluation für das Diplom für die Lehrtätigkeit an den Maturitätsschulen umfasst folgende Teile: <sup>2</sup> a) die praktische Prüfung;
-
-- b) die Vorstellung eines Portfolios und die Verteidigung der Bilanz der Kompetenzen.
-
-<sup>4</sup> Die Modalitäten der verschiedenen Teile der Schlussevaluation werden im Studienreglement jedes Studiengangs ausführlich erläutert.
-
-<sup>5</sup> Jeder Teil der Schlussevaluation der vorhergehenden Absätze muss mindestens genügend (E) sein, damit die Evaluation bestanden ist.
-
-<sup>6</sup> Bei einem Misserfolg muss der Student nur den Teil, der mit F «ungenügend» beurteilt wurde, spätestens bis zum Ende des folgenden Semesters wiederholen.
-
-<sup>7</sup> Jeder Teil der Schlussevaluation darf nur einmal wiederholt werden. Ein zweiter Misserfolg bedingt den Ausschluss.
+- a) innert der von der PH-VS festgelegten Frist alle im Studienplan seines Studiengangs bis zu diesem Stadium vorgesehenen Kreditpunkte, einschliesslich der Kreditpunkte der praktischen Prüfung, erreicht haben;
+- b) innert der von der PH-VS festgelegten Fristen die schriftlichen Arbeiten der entsprechenden zwei Teile der Abschlussprüfungen eingereicht haben.
 
 #### Art. 25
 
-**Experten**
+**Ablauf der Abschlussprüfungen**
 
-Die DEKS bezeichnet die Expertenkommissionen für die Schlussevaluation.
+<sup>1</sup> Die praktische Prüfung findet während des letzten Studiensemesters statt.
+
+<sup>2</sup> Die Verteidigung der beruflichen Abschlussarbeit und der Kompetenzenbilanz findet während der von der PH-VS organisierten Prüfungssessionen statt.
+
+<sup>3</sup> Ein Student, der einen Teil der Abschlussprüfungen auf einen späteren Zeitpunkt verschieben möchte, informiert die PH-VS darüber. In diesem Fall wird eine Verlängerung des Studiums um ein oder 2 Semester organisiert. Es ist nicht möglich, die Abschlussprüfungen mehr als einmal zu verschieben.
 
 #### Art. 26
 
-**Anwesenheit von Drittpersonen**
+**Jurys der Abschlussprüfungen**
 
-Ausser den Mitgliedern der Expertenkommission können den verschiedenen Teilen der Schlussevaluation ein Mitglied der Direktion der PH-VS, ein Vertreter des DEKS und ein oder mehrere Vertreter der EDK beiwohnen.
+<sup>1</sup> Die Jurys setzen sich je nach dem betreffenden Teil der Abschlussprüfungen unterschiedlich zusammen.
+
+<sup>2</sup> Die Jury der praktischen Prüfung setzt sich zusammen aus:
+
+- a) einem Ausbilder der PH-VS, der den Vorsitz der Jury einnimmt;
+- b) einem Vertreter des Departements, das diesen über seine zuständige Dienststelle bestimmt;
+- c) einer Praktikumslehrperson des betroffenen Fachs oder der betroffenen Fächer.
+
+<sup>3</sup> Die Jury der Kompetenzenbilanz setzt sich zusammen aus zwei Ausbildern der PH-VS, von denen eine den Vorsitz einnimmt.
+
+<sup>4</sup> Die Jury der beruflichen Abschlussarbeit setzt sich zusammen aus dem Betreuer der Abschlussarbeit, der den Vorsitz der Jury einnimmt, und einem externen Leser.
+
+<sup>5</sup> Die Beratungen der Jurys finden unter Ausschluss der Öffentlichkeit statt. Bei der praktischen Prüfung wird die Entscheidung von der Mehrheit getroffen. Bei den anderen beiden Teilen entscheidet die Stimme des Vorsitzenden der Jury.
 
 #### Art. 27
 
-**Schlussevaluationskommission**
+**Rolle der Ausbildungskommission bei den Abschlussprüfungen**
 
-<sup>1</sup> Der Staatsrat ernennt eine Schlussevaluationskommission.
+<sup>1</sup> Die Kommission gewährleistet die Anwendung eines einheitlichen Evaluationsverfahren bei der Beurteilung der Leistungen und überwacht den Ablauf der Prüfungen. Die PH-VS ist diesbezüglich verpflichtet, sie über etwaige Unregelmässigkeiten zu informieren.
 
-<sup>2</sup> Der Kommission obliegt namentlich die Behandlung aller Fragen im Zusammenhang mit der Schlussevaluation. Sie wacht vor allem über die Anwendung eines einheitlichen Evaluationsverfahrens bei der Bewertung der Leistungen und den regulären Ablauf der Prüfungen.
-
-<sup>3</sup> Sie allein ist befugt, nach Anhörung der betroffenen Expertenkommission allenfalls eine Bewertung abzuändern; die kann dies nur tun nach Abschprache mit dem betroffenen Experten.
-
-### 5. Abschnitt: Diplome
+## 6 Diplom- und Abschlussurkunde
 
 #### Art. 28
 
 **Bezeichnung**
 
-<sup>1</sup> Vom Departement und der PH-VS werden am Ende der Ausbildung je nach Studiengang folgende Diplôme verliehen: <sup>2</sup>
+<sup>1</sup> Folgende Diplomurkunden werden von der PH-VS am Ende der Ausbildung verliehen:
 
-- a) das Diplom für die Lehrtätigkeit an den Schulen der Sekundarstufe I; dieser Titel kann durch denjenigen des « Master of Arts in Secundary Education» oder «Master of Sciences in Secundary Education » ergänzt werden ; <sup>2</sup>
+- a) Lehrdiplom für die Sekundarstufe I, einhergehend mit dem Titel "Master of Arts in Secondary Education";
+- b) Lehrdiplom für die Sekundarstufe I und für Maturitätsschulen;
+- c) Lehrdiplom für Maturitätsschulen;
+- d) Erweiterungsdiplom.
 
-- b) das Diplom für die Lehrtätigkeit an den Schulen der Sekundarstufe I und den Maturitätsschulen ; <sup>1,2</sup>
+<sup>2</sup> Die oben genannten Diplome benennen das Spezialisierungsfach oder die Spezialisierungsfächer, in denen der Diplomierte zum Unterricht befähigt ist.
 
-- c) das Diplom für die Lehrtätigkeit an den Maturitätsschulen. <sup>2</sup>
+<sup>3</sup> Je nach erlangtem Diplom berechtigt dies den Diplomierten zum Tragen des Titels als:
 
-<sup>2</sup> Auf den oben genannten Diplomen werden das oder die Spezial-Fächer erwähnt.
+- a) diplomierter Lehrer für die Sekundarstufe I (EDK);
+- b) diplomierter Lehrer für Maturitätsschulen (EDK);
+- c) diplomierter Lehrer für die Sekundarstufe I und Maturitätsschulen (EDK).
 
-<sup>3</sup> Je nach der gewählten Ausbildung tragen die Diplome den Vermerk «zweisprachiges Diplom» oder «Diplom mit besonderem Gewicht auf den sprachlichen Kenntnissen».
-
-### 6. Abschnitt: Studierenden
+## 7 Studenten
 
 #### Art. 29
 
-**Betreuung durch die Mentoren**
+**Präsenz und Teilnahme an den Modulen**
 
-<sup>1</sup> Der Student wird von einem Mentoren begleitet, der ihn während des ganzen Studiums namentlich bei der Ausarbeitung des Portfolios und der beruflichen Diplomarbeit betreut und berät.
+<sup>1</sup> Die Anwesenheit zu den vom Studienplan vorgesehenen Modulen ist obligatorisch. Es handelt sich insbesondere um die Praktika und die Fachdidaktiken.
 
-<sup>2</sup> Für jeden Studenten wird von der Direktion aus den Mitarbeitern der PH-VS ein Mentor bezeichnet.
+<sup>2</sup> Die Anträge auf Beurlaubung werden von den Richtlinien der PH-VS geregelt.
 
 #### Art. 30
 
-**Ausbildungsportfolio**
+**Studiengebühr und Kosten**
 
-<sup>1</sup> Jeder Student legt ein Portfolio an, das ihn während der ganzen Ausbildung begleitet.
-
-<sup>2</sup> Das Portfolio gehört zum Verfahren bei der Verteidigung der Bilanz der Kompetenzen.
+<sup>1</sup> Der Staatsrat legt die Höhe der Semestergebühren und der diversen Kosten in einem eigenen Reglement fest.
 
 #### Art. 31
 
-**Pflichten**
+**Teilnahmerecht**
 
-<sup>1</sup> Die Studenten, die an die PH-VS aufgenommen werden, verpflichten sich, die Reglemente und Weisungen der Schule zu beachten.
+<sup>1</sup> Die Studenten beteiligen sich an den Überlegungen zum Betrieb und zur Entwicklung der Einrichtung, insbesondere im Hinblick auf ihre Ausbildung.
 
-<sup>2</sup> Die Strafen bei Widerhandlung gegen die Verhaltensregeln werden im Studienreglement festgelegt. Die Sanktionen können bis zum Wegweisen von der Schule gehen.
+<sup>2</sup> Sie beteiligen sich ausserdem am Qualitätsbewertungsprozess.
 
 #### Art. 32
 
-**Teilnahme und Mitwirkung an den verschiedenen Modulen**
+**Sanktionen**
 
-<sup>1</sup> Die Teilnahme und die Mitwirkung an den Modulen, die im Studienplan vorgesehen sind obligatorisch.
+<sup>1</sup> Die Direktion der PH-VS kann Sanktionen aussprechen:
 
-<sup>2</sup> Mit den gebührend mitgeteilten Anerkennungen von gleichwertigen Leistungen wird der Studierende vom Besuch der betreffenden Modulen befreit. Die ECTS-Kreditpunkte werden automatisch im Dossier des Studenten eingetragen.
+- a) im Fall von nachgewiesenem oder versuchtem Betrug oder Plagiat;
+- b) wenn sich der Student weigert, die Reglemente und Richtlinien der PH-VS einzuhalten;
+- c) wenn das Verhalten des Studenten nicht mit seiner Funktion als Lehrperson vereinbar ist, insbesondere wenn er unfähig ist, die Integrität der ihm im Rahmen seiner Ausbildung anvertrauten Schüler sicherzustellen.
 
-<sup>3</sup> Urlaubsgesuche werden in internen Weisungen der PH-VS geregelt.
+<sup>2</sup> Je nach Schwere sind folgende Sanktionen möglich:
+
+- a) eine Verwarnung;
+- b) eine Verwarnung mit Androhung der Suspendierung;
+- c) die Suspendierung des Studiums für ein Jahr oder der Ausschluss vom Studium.
+
+## 8 Praktikumslehrpersonen
 
 #### Art. 33
 
-**Schulgeld und Materialkosten**
+**Ausbildung**
 
-Der Staatsrat legt den Betrag des Schulgelds pro Semester und der verschiedenen Kosten fest.
+<sup>1</sup> Die PH-VS evaluiert den Bedarf an Praktikumslehrpersonen. Sie bestimmt die Anzahl der zur Ausbildung Zugelassenen sowie die Anzahl der jährlichen Lehrveranstaltungen.
 
-### 7. Abschnitt: Praktikumslehrpersonen
+<sup>2</sup> Die PH-VS erteilt die für den Auftrag der Praktikumslehrperson notwendige Aus- und Weiterbildung.
+
+<sup>3</sup> Diese Ausbildungen werden von besonderen Bestimmungen geregelt, welche die PH-VS in Absprache mit der zuständigen Dienststelle des Departements erlässt.
+
+<sup>4</sup> Das Departement achtet darauf, die Rekrutierung und Ausbildung der Praktikumslehrpersonen zu fördern und zu erleichtern.
 
 #### Art. 34
 
-**Ausbildung**
+**Zulassung zur Ausbildung als Praktikumslehrperson**
 
-<sup>1</sup> Die PH-VS evaluiert regelmässig die Bedürfnisse an Praktikumslehrpersonen. Sie legt die Zahl und die Perioden der Zulassung zur Ausbildung fest.
+<sup>1</sup> Als Praktikumslehrperson zugelassen werden können Lehrpersonen, die:
 
-<sup>2</sup> Die PH-VS erteilt die Grundbildung und die Weiterbildung, die für den Auftrag der Praktikumslehrpersonen nötig sind. Auf Grund der vorgelegten Unterlagen entscheidet die Direktion der PH-VS über allfällige als gleichwertig anerkannte Leistungen.
+- a) über eine vom Kanton anerkannte Lehrerqualifikation verfügen, und
+- b) über mindestens 5 Jahre Berufserfahrung verfügen.
 
-<sup>3</sup> Diese Ausbildungen werden in besonderen Bestimmungen geregelt, die von der PH-VS im Einverständnis der zuständigen Dienststelle des Departements herausgegeben werden.
-
-<sup>4</sup> Das Departement sorgt dafür, dass die Rekrutierung und die Ausbildung der Praktikumslehrpersonen gefördert und erleichtert wird.
+<sup>2</sup> Für den Antrag auf Zulassung zur Ausbildung als Praktikumslehrperson ist die Zustimmung der Direktion der Institution erforderlich, in der die Praktikumslehrperson unterrichtet.
 
 #### Art. 35
 
-**Zulassung zur Ausbildung**
+**Auftrag**
 
-<sup>1</sup> Zur Ausbildung als Praktikumslehrpersonen können Lehrpersonen zugelassen werden, die:
+<sup>1</sup> Die Praktikumslehrpersonen sind Beauftragte der PH-VS. Ihren Ausbildungsauftrag erfüllen sie im Einklang mit den durch die Institution festgelegten Zielsetzungen.
 
-- a) Inhaber eines vom Kanton anerkannten Unterrichtstitels sind;
+<sup>2</sup> Die Praktikumslehrpersonen nehmen Praktikanten nur in den Lehrfächern an, die ihrem Diplom entsprechen. Im Falle eines Mangels an Praktikumslehrpersonen in einem Lehrfach sind Ausnahmen möglich.
 
-- b) grundsätzlich mindestens über eine 5-jährige Berufserfahrung verfügen.
+<sup>3</sup> Die Ausbildungsaufgaben und die Evaluation der Praktikumslehrpersonen sind in den Richtlinien der HP-VS festgelegt.
 
-<sup>2</sup> Das Aufnahmeverfahren für die Ausbildung erfordert die Einwilligung der Direktion der betreffenden Schule/Institution und die Stellungnahme des Inspektors.
+<sup>4</sup> Über ihren praktischen Ausbildungs- und Evaluationsauftrag hinaus können Praktikumslehrpersonen als Experten im Rahmen der praktischen Prüfung beigezogen werden.
 
 #### Art. 36
 
-**Auftrag**
+**Übernahme der Ausbildungskosten**
 
-<sup>1</sup> Für ihre Tätigkeit werden die Praktikumslehrpersonen von der PH-VS beauftragt. Ihren Ausbildungsauftrag erfüllen sie in Partnerschaft mit ihr, gemäss den von der PH-VS festgelegten Zielsetzungen.
+<sup>1</sup> Die Kosten des durch die PH-VS erteilten Unterrichts für die Praktikumslehrpersonen gehen zu Lasten der PH-VS.
 
-<sup>2</sup> Die Ausbildungs- und Beurteilungsaufgaben der Praktikumslehrpersonen werden im Studienreglement jedes Studiengangs beschrieben.
-
-<sup>3</sup> Über ihren Evaluations- und Bildungsauftrag in der Praxis hinaus können Praktikumslehrpersonen als Experten in den verschiedenen Teilen der Schlussevaluation beigezogen werden.
+<sup>2</sup> Die Kosten für allfällige Stellvertretungen der Praktikumslehrpersonen als Lehrperson während deren Ausbildung gehen zu Lasten des Departements gemäss den entsprechenden Bestimmungen.
 
 #### Art. 37
 
-**Ausbildungskosten**
+**Verfügbarkeit**
 
-Die Kosten der Ausbildung der Praktikumslehrpersonen, die von der PH-VS erteilt wird, werden vom Departement übernommen. Das gilt auch für die Kosten der Stellvertretung.
+<sup>1</sup> Nach ihrer Ausbildung sind die Praktikumslehrpersonen gehalten, während 6 Jahren hintereinander zwei Praktikanten in der Sekundarstufe I und hintereinander drei Praktikanten in der Sekundarstufe II anzunehmen. Eine ein- bis zweijährige Pause zwischen den Praktikanten ist möglich.
+
+<sup>2</sup> Im Falle des Nichteinhaltens der im vorangehenden Absatz vorgesehenen Verpflichtung behält sich das Departement das Recht vor, die Rückerstattung der Ausbildungskosten zu verlangen.
+
+<sup>3</sup> Die Direktionen der Schulen/Einrichtungen gewährleisten die Rekrutierung der Praktikumslehrpersonen und die Neubesetzung des Personals. Die PH-VS informiert die Direktionen der Schulen/Einrichtungen über den Bedarf an abzudeckenden Fächern.
 
 #### Art. 38
 
-**Verfügbarkeit**
+**Vertrag über die Betreuung eines Praktikanten und Entlohnung**
 
-<sup>1</sup> Nach ihrer Ausbildung ist die Praktikumslehrperson grundsätzlich gehalten, während mindestens fünf Jahren Praktikanten aufzunehmen.
+<sup>1</sup> Die Betreuung eines Praktikanten wird durch einen Vertrag zwischen der PH-VS und der betroffenen Praktikumslehrperson geregelt.
 
-<sup>2</sup> Wenn Absatz 1 nicht beachtet wird, behält sich das Departement das Recht vor, die Ausbildungskosten teilweise zurück zu fordern.
+<sup>2</sup> Die Entlohnung der Praktikumslehrpersonen ist im Reglement über die Besoldung der externen Auftragnehmer durch die Pädagogische Hochschule Wallis festgelegt.
 
-<sup>3</sup> Die Direktion der Schulen, die Praktikanten aufnehmen, sorgen für die Rekrutierung der Praktikumslehrpersonen und die Erneuerung der Bestände. Sie sorgen auch dafür, dass die Unterrichtsfächer ausgeglichen vertreten sind.
+## 9 Schlussbestimmungen
 
 #### Art. 39
 
-**Vertrag und Entlöhnung**
+**Einsprache und Rechtsmittel**
 
-<sup>1</sup> Jedes praktische Ausbildungsmodul bildet Gegenstand eines Vertrages zwischen der PH-VS, der Direktion der Schule und der betroffenen Praktikumslehrperson.
+<sup>1</sup> Gegen Entscheide über die Ergebnisse der zertifizierenden Bewertungen der Module und der ausgesprochenen Sanktionen kann schriftlich Einsprache bei der Direktion der PH-VS erhoben werden. Das Verfahren richtet sich nach einem Reglement der PH-VS.
 
-<sup>2</sup> Die Entlöhnung der Ausbildungs- und Bewertungsaufgaben wird vom Staatsrat festgelegt.
+<sup>2</sup> Gegen einen Einspracheentscheid kann innerhalb von 30 Tagen beim Staatsrat Beschwerde eingereicht werden. Das Beschwerdeverfahren unterliegt den Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG).
+
+<sup>3</sup> Die Entscheide des Staatsrates können an das Kantonsgericht weitergezogen werden. Das Verfahren ist im VVRG geregelt.
+
+## 10 Übergangsbestimmungen
 
 #### Art. 40
 
-**Übernahme von Auslagen**
+**Zertifizierungen durch Qualifikation**
 
-Die für die Vertreter der PH-VS oder die Expertenkommissionen anfallenden Auslagen für den Besuch, die Aufsicht und die Schlussevaluationen bei den anstellenden Schulen und den Schulen, die Praktikanten aufnehmen, werden vom Departement entsprechend den Bestimmungen über die Reiseentschädigungen übernommen.
+<sup>1</sup> Bis zum 31. Juli 2022 werden die in Artikel 20 Absatz 2 der vorliegenden Verordnung vorgesehenen Zertifizierungen durch die folgenden Qualifikationen ausgedrückt: A: Ausgezeichnet, B: Sehr gut, C: Gut, D: Befriedigend, E: Genügend, F: Ungenügend.
 
-### 8. Abschnitt: Schlussbestimmungen
+<sup>2</sup> Bis zum 31. Juli 2022 hat die Nichtteilnahme oder die Nichtrückgabe von Zertifizierungsdokumenten innert der vorgeschriebenen Fristen, ausser in Fällen höherer Gewalt, ein erstes Nichtbestehen zur Folge, das mit einem "F" sanktioniert wird.
+
+<sup>3</sup> Bis zum 31. Juli 2022 wird jeder Betrug oder jedes Plagiat, ob nachgewiesen oder versucht, unverzüglich mit einem "F" sanktioniert. Die in Artikel 32 der vorliegenden Verordnung vorgesehenen Sanktionen bleiben vorbehalten.
 
 #### Art. 41
 
-**Streitigkeiten**
+**Bedingungen für das Bestehen**
 
-<sup>1</sup> Streitigkeiten, die in Anwendung dieser Verordnung entstehen können, werden vom Staatsrat entschieden.
+<sup>1</sup> Bis zum 31. Juli 2022 müssen die Studenten, um die Kreditpunkte eines Moduls zu erhalten, innert der vom Studienreglement der PH-VS vorgeschriebenen Fristen eine Qualifikation von A bis E erreichen.
 
-<sup>2</sup> Das Beschwerdeverfahren richtet sich nach dem Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege.
+<sup>2</sup> Bis zum 31. Juli 2023 kann ein Modul, im Falle eines mit einem "F" sanktionierten Nichtbestehens, maximal einmal und grundsätzlich bis spätestens zum Ende des nächsten Semesters wiederholt werden.
 
-#### Art. 42
-
-**Inkrafttreten**
-
-Diese Verordnung wird im Amtsblatt veröffentlicht, und tritt rückwirkend auf den 1. März 2008 in Kraft.
-
-Der Präsident des Staatsrats: Jean-Michel Cina Der Staatskanzler: Henri v. Roten
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**1.03.2008**
-
-GS/VS 2008,260
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 24.06.2009 Abl. Nr. 40/2009 1.08.2009
-- [2] Änderung vom 29.05.2013 Abl. Nr. 24/2013 1.08.2013
+CSW RO/AGS 2021-052
