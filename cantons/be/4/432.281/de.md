@@ -4,13 +4,13 @@ number: "432.281"
 title: Verordnung über die sonderpädagogischen Massnahmen
 short: "Sonderpädagogikverordnung, SPMV"
 language: de
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-30
 adopted: 2013-05-08
 in_force: 2013-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.281"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2120/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2313/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2120/pdf_file"
 
 (Sonderpädagogikverordnung, SPMV)
 
-vom 08.05.2013 (Stand 01.03.2021)
+vom 08.05.2013 (Stand 01.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -108,9 +108,9 @@ beschliesst:
 
 **2. Kostenübernahmegarantie**
 
-<sup>1</sup> Die Erteilung einer Kostenübernahmegarantie gemäss IVSE oder bilateraler Vereinbarung an eine Institution eines anderen Kantons erfolgt durch das Alters- und Behindertenamt (ALBA) der Gesundheits-, Sozial- und Integrationsdirektion.
+<sup>1</sup> Die Erteilung einer Kostenübernahmegarantie gemäss IVSE oder bilateraler Vereinbarung an eine Institution eines anderen Kantons erfolgt durch das Amt für Integration und Soziales (AIS) der Gesundheits-, Sozial- und Integrationsdirektion.
 
-<sup>2</sup> Sie setzt einen positiven Entscheid des ALBA über den Anspruch auf eine sonderpädagogische Massnahme gemäss dieser Verordnung voraus.
+<sup>2</sup> Sie setzt einen positiven Entscheid des AIS über den Anspruch auf eine sonderpädagogische Massnahme gemäss dieser Verordnung voraus.
 
 ### 2.2 Sonderschulung
 
@@ -124,7 +124,7 @@ beschliesst:
 
 <sup>2</sup> Sie setzt während der Volksschulzeit die Bewilligung einer anderweitigen Schulung gemäss Artikel 18 Absatz 2 VSG voraus.
 
-<sup>3</sup> Das ALBA steuert und finanziert die Sonderschulen durch Leistungsvertrag.
+<sup>3</sup> Das AIS steuert und finanziert die Sonderschulen durch Leistungsvertrag.
 
 #### Art. 9
 
@@ -142,7 +142,7 @@ beschliesst:
 
 **Allgemeines**
 
-<sup>1</sup> Eine separative Sonderschulung bedarf einer auf Gesuch hin erteilten Bewilligung des ALBA.
+<sup>1</sup> Eine separative Sonderschulung bedarf einer auf Gesuch hin erteilten Bewilligung des AIS.
 
 <sup>2</sup> Sie muss in einer dem Bedarf der Sonderschülerin oder des Sonderschülers entsprechenden Sonderschule durchgeführt werden.
 
@@ -204,7 +204,7 @@ beschliesst:
 
 **Heilpädagogische Unterstützung 1. Finanzierung**
 
-<sup>1</sup> Das ALBA finanziert die für die integrative Sonderschulung erforderlichen heilpädagogischen Unterstützungsleistungen.
+<sup>1</sup> Das AIS finanziert die für die integrative Sonderschulung erforderlichen heilpädagogischen Unterstützungsleistungen.
 
 <sup>2</sup> Es beauftragt durch Leistungsvertrag Sonderschulen mit der Erbringung der heilpädagogischen Unterstützung und gewährt diesen die erforderlichen Lektionen in Form von Kontingenten.
 
@@ -222,7 +222,7 @@ beschliesst:
 
 **Voraussetzung**
 
-<sup>1</sup> Das ALBA gewährt Kindern und Jugendlichen mit einer Intelligenzminderung auf Gesuch hin Beiträge für heilpädagogische Unterstützungslektionen in privaten Volksschulen, wenn
+<sup>1</sup> Das AIS gewährt Kindern und Jugendlichen mit einer Intelligenzminderung auf Gesuch hin Beiträge für heilpädagogische Unterstützungslektionen in privaten Volksschulen, wenn
 
 - a ein Bedarf an Sonderschulung ausgewiesen ist,
 - b die Schulung an der betreffenden privaten Volksschule dem Bildungsbedarf entspricht und
@@ -230,7 +230,7 @@ beschliesst:
 
 <sup>2</sup> Bezüglich der maximalen Anzahl an Unterstützungslektionen gilt Artikel 18 Absatz 2.
 
-<sup>3</sup> Der Beitrag pro Lektion wird vom ALBA festgelegt und direkt der Schule ausgerichtet.
+<sup>3</sup> Der Beitrag pro Lektion wird vom AIS festgelegt und direkt der Schule ausgerichtet.
 
 <sup>4</sup> Er entspricht den effektiven Gehaltskosten der privaten Volksschule für die durchführende Lehrkraft, maximal jedoch den Lohnkosten, die den Ansätzen gemäss der Lehreranstellungsgesetzgebung entsprechen.
 
@@ -250,7 +250,7 @@ beschliesst:
 
 **Voraussetzung**
 
-<sup>1</sup> Das ALBA gewährt Kindern und Jugendlichen auf Gesuch hin Entschädigungen für pädagogisch-therapeutische Massnahmen, wenn die leistungserbringende Person über die erforderliche, von der EDK anerkannte Ausbildung verfügt.
+<sup>1</sup> Das AIS gewährt Kindern und Jugendlichen auf Gesuch hin Entschädigungen für pädagogisch-therapeutische Massnahmen, wenn die leistungserbringende Person über die erforderliche, von der EDK anerkannte Ausbildung verfügt.
 
 #### Art. 22
 
@@ -287,11 +287,11 @@ beschliesst:
 
 **Finanzierung 1. Grundsatz**
 
-<sup>1</sup> Die Entschädigungen des ALBA für pädagogisch-therapeutische Massnahmen werden grundsätzlich nach Tarifen bemessen und direkt an die Leistungserbringerinnen und Leistungserbringer ausbezahlt.
+<sup>1</sup> Die Entschädigungen des AIS für pädagogisch-therapeutische Massnahmen werden grundsätzlich nach Tarifen bemessen und direkt an die Leistungserbringerinnen und Leistungserbringer ausbezahlt.
 
-<sup>2</sup> Die Leistungen des Früherziehungsdienstes des Kantons Bern werden vom ALBA durch Leistungsvertrag gesteuert und finanziert.
+<sup>2</sup> Die Leistungen der Früherziehung des Kantons Bern werden vom AIS durch Leistungsvertrag gesteuert und finanziert.
 
-<sup>3</sup> Logopädie und Psychomotorik für Sonderschülerinnen und Sonderschüler werden vom ALBA durch Leistungsvertrag mit den Sonderschulen finanziert.
+<sup>3</sup> Logopädie und Psychomotorik für Sonderschülerinnen und Sonderschüler werden vom AIS durch Leistungsvertrag finanziert.
 
 #### Art. 26
 
@@ -317,7 +317,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Das ALBA bewilligt Kindern und Jugendlichen auf Gesuch hin die stationäre Unterbringung in einem Sonderschulheim, wenn diese aufgrund der Sonderschulung erforderlich ist.
+<sup>1</sup> Das AIS bewilligt Kindern und Jugendlichen auf Gesuch hin die stationäre Unterbringung in einem Sonderschulheim, wenn diese aufgrund der Sonderschulung erforderlich ist.
 
 <sup>2</sup> Es gewährt Kindern und Jugendlichen auf Gesuch hin Beiträge an eine stationäre Unterbringung, wenn eine solche aufgrund einer Sonderschulung erforderlich ist oder dafür aufgrund des Volksschulbesuchs ein behinderungsbedingter Bedarf besteht und sie ausserhalb eines Sonderschulheims erfolgt.
 
@@ -332,7 +332,7 @@ beschliesst:
 
 <sup>1</sup> Beiträge an eine stationäre Unterbringung in einem Sonderschulheim setzen grundsätzlich den Besuch der entsprechenden Sonderschule voraus.
 
-<sup>2</sup> Eine zur Gewährleistung des Übertritts von der Sonderschule in die Volksschule weiterhin erforderliche Unterbringung in einem Sonderschulheim bedarf einer auf Gesuch hin erteilten Bewilligung des ALBA und darf maximal ein Jahr dauern.
+<sup>2</sup> Eine zur Gewährleistung des Übertritts von der Sonderschule in die Volksschule weiterhin erforderliche Unterbringung in einem Sonderschulheim bedarf einer auf Gesuch hin erteilten Bewilligung des AIS und darf maximal ein Jahr dauern.
 
 #### Art. 30
 
@@ -340,15 +340,15 @@ beschliesst:
 
 <sup>1</sup> Eine stationäre Unterbringung erfolgt teil- oder vollzeitlich während der Schultage; ausnahmsweise ist sie auch an Wochenenden oder in den Ferien möglich.
 
-<sup>2</sup> Der Bedarf an der stationären Unterbringung wird durch das ALBA regelmässig überprüft.
+<sup>2</sup> Der Bedarf an der stationären Unterbringung wird durch das AIS regelmässig überprüft.
 
 #### Art. 31
 
 **Finanzierung**
 
-<sup>1</sup> Das ALBA finanziert stationäre Unterbringungen in Sonderschulheimen durch Leistungsvertrag, wobei die Sonderschulheime bei den Eltern einen Kostgeldbeitrag erheben.
+<sup>1</sup> Das AIS finanziert stationäre Unterbringungen in Sonderschulheimen durch Leistungsvertrag, wobei die Sonderschulheime bei den Eltern einen Kostgeldbeitrag erheben.
 
-<sup>2</sup> In den übrigen Fällen gewährt das ALBA den Kindern und Jugendlichen einen Beitrag von 56 Franken pro Übernachtung und zahlt diesen den Stellen, welche die Kinder und Jugendlichen unterbringen, direkt aus.
+<sup>2</sup> In den übrigen Fällen gewährt das AIS den Kindern und Jugendlichen einen Beitrag von 56 Franken pro Übernachtung und zahlt diesen den Stellen, welche die Kinder und Jugendlichen unterbringen, direkt aus.
 
 ## 4 Transportkosten
 
@@ -356,7 +356,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Das ALBA gewährt Kindern und Jugendlichen auf Gesuch hin Beiträge für Transportkosten, die
+<sup>1</sup> Das AIS gewährt Kindern und Jugendlichen auf Gesuch hin Beiträge für Transportkosten, die
 
 - a aufgrund bewilligter sonderpädagogischer Massnahmen oder
 - b behinderungsbedingt aufgrund des Besuchs der Volksschule entstehen.
@@ -367,7 +367,7 @@ beschliesst:
 
 **Kostenübernahme**
 
-<sup>1</sup> Das ALBA übernimmt die Kosten, die den Preisen der öffentlichen Transportmittel für Fahrten auf dem direkten Weg entsprechen.
+<sup>1</sup> Das AIS übernimmt die Kosten, die den Preisen der öffentlichen Transportmittel für Fahrten auf dem direkten Weg entsprechen.
 
 <sup>2</sup> Kann der Weg zu einer Sonderschule nicht mit öffentlichen Transportmitteln zurückgelegt werden, so werden die Kosten der von der Sonderschule organisierten Transporte entschädigt.
 
@@ -403,7 +403,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Das ALBA gewährt Kindern und Jugendlichen auf Gesuch hin Beiträge an die Verpflegungs- und Betreuungskosten, wenn an ganztägigen Schultagen in Sonderschulen oder behinderungsbedingt in Volksschulen eine auswärtige Mittagsverpflegung notwendig ist.
+<sup>1</sup> Das AIS gewährt Kindern und Jugendlichen auf Gesuch hin Beiträge an die Verpflegungs- und Betreuungskosten, wenn an ganztägigen Schultagen in Sonderschulen oder behinderungsbedingt in Volksschulen eine auswärtige Mittagsverpflegung notwendig ist.
 
 <sup>2</sup> Erfolgt die Mittagsverpflegung und -betreuung durch die besuchte Sonderschule, so sind diese für Schülerinnen und Schüler an ganztägigen Schultagen integrierter Bestandteil der separativen Sonderschulung und bedürfen keines Gesuchs.
 
@@ -411,9 +411,9 @@ beschliesst:
 
 **Finanzierung**
 
-<sup>1</sup> Das ALBA finanziert die Kosten für die Verpflegung und Betreuung in Sonderschulen durch Leistungsvertrag, wobei die Sonderschulen von den Eltern einen Kostgeldbeitrag erheben.
+<sup>1</sup> Das AIS finanziert die Kosten für die Verpflegung und Betreuung in Sonderschulen durch Leistungsvertrag, wobei die Sonderschulen von den Eltern einen Kostgeldbeitrag erheben.
 
-<sup>2</sup> In den übrigen Fällen gewährt das ALBA den Kindern und Jugendlichen einen Beitrag von sieben Franken pro Mittagessen und zahlt diesen den Stellen, welche die Kinder und Jugendlichen verpflegen und betreuen, direkt aus.
+<sup>2</sup> In den übrigen Fällen gewährt das AIS den Kindern und Jugendlichen einen Beitrag von sieben Franken pro Mittagessen und zahlt diesen den Stellen, welche die Kinder und Jugendlichen verpflegen und betreuen, direkt aus.
 
 ## 6 Verfahren
 
@@ -423,7 +423,7 @@ beschliesst:
 
 <sup>1</sup> Das Verfahren zur Gewährung von Beiträgen oder Entschädigungen oder zur Bewilligung von Massnahmen wird auf Gesuch hin und in Ausnahmefällen von Amtes wegen eröffnet.
 
-<sup>2</sup> Die Berechtigten haben die Gesuche beim ALBA auf dem amtlichen Formular einzureichen, das im Internet abrufbar ist.
+<sup>2</sup> Die Berechtigten haben die Gesuche beim AIS auf dem amtlichen Formular einzureichen, das im Internet abrufbar ist.
 
 <sup>3</sup> Berichte von bereits konsultierten Ärztinnen und Ärzten, Therapeutinnen und Therapeuten sowie Fachstellen oder anderen Fachpersonen sind dem Gesuch beizulegen, soweit sie mit diesem in Zusammenhang stehen.
 
@@ -439,7 +439,7 @@ beschliesst:
 
 **Abklärung 1. Allgemein**
 
-<sup>1</sup> Das ALBA prüft, ob die Anspruchsvoraussetzungen erfüllt sind.
+<sup>1</sup> Das AIS prüft, ob die Anspruchsvoraussetzungen erfüllt sind.
 
 <sup>2</sup> Es achtet dabei auf die Unabhängigkeit der den Bedarf abklärenden Stellen gegenüber den Durchführungsstellen.
 
@@ -453,7 +453,7 @@ beschliesst:
 
 **Entscheid**
 
-<sup>1</sup> Das ALBA trifft und eröffnet seine Entscheide grundsätzlich durch Verfügung.
+<sup>1</sup> Das AIS trifft und eröffnet seine Entscheide grundsätzlich durch Verfügung.
 
 <sup>2</sup> Begünstigende Entscheide können auch in anderer Form getroffen und eröffnet werden, auf Verlangen ist jedoch auch für diese Entscheide eine Verfügung zu erlassen.
 
@@ -471,7 +471,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Das ALBA erteilt Betriebsbewilligungen für Sonderschulen.
+<sup>1</sup> Das AIS erteilt Betriebsbewilligungen für Sonderschulen.
 
 <sup>2</sup> Zu den schulischen Aspekten hört es vorgängig das Amt für Kindergarten, Volksschule und Beratung der Bildungs- und Kulturdirektion an.
 
@@ -487,11 +487,11 @@ beschliesst:
 
 **Voraussetzungen**
 
-<sup>1</sup> Die Schulleitung muss über die für ihre Tätigkeit erforderliche, von der EDK anerkannte oder vom ALBA als ausreichend qualifizierte Ausbildung verfügen.
+<sup>1</sup> Die Schulleitung muss über die für ihre Tätigkeit erforderliche, von der EDK anerkannte oder vom AIS als ausreichend qualifizierte Ausbildung verfügen.
 
 <sup>2</sup> Personen, die mit der Schulung, Erziehung sowie der Durchführung pädagogisch-therapeutischer Massnahmen betraut sind, sowie die medizinischen Hilfspersonen müssen über die für ihre Tätigkeit erforderliche, von der EDK beziehungsweise dem Bundesamt für Berufsbildung und Technologie anerkannte Ausbildung verfügen.
 
-<sup>3</sup> Die ärztliche und die zahnärztliche Überwachung müssen sichergestellt sein, und soweit es die Art der Behinderung erfordert, sind Fachärztinnen oder Fachärzte beizuziehen.
+<sup>3</sup> Die ärztliche und die zahnärztliche Überwachung müssen sichergestellt sein, und soweit es die Art der Behinderung erfordert, sind Fachärztinnen und Fachärzte beizuziehen.
 
 <sup>4</sup> Die Schule muss über eine Schulordnung verfügen, in der insbesondere die Absenzen und Dispensationen analog der Volksschulgesetzgebung geregelt sind.
 
@@ -499,7 +499,7 @@ beschliesst:
 
 **Änderungen**
 
-<sup>1</sup> Die bewilligten Sonderschulen haben wesentliche Änderungen im Betrieb, insbesondere Wechsel in der Schulleitung oder wesentliche Änderungen in der Schulorganisation, vorgängig dem ALBA mitzuteilen.
+<sup>1</sup> Die bewilligten Sonderschulen haben wesentliche Änderungen im Betrieb, insbesondere Wechsel in der Schulleitung oder wesentliche Änderungen in der Schulorganisation, vorgängig dem AIS mitzuteilen.
 
 ### 7.2 Aufsicht
 
@@ -507,7 +507,7 @@ beschliesst:
 
 **Aufsichtsorgan**
 
-<sup>1</sup> Das ALBA übt die Aufsicht über die Sonderschulen aus.
+<sup>1</sup> Das AIS übt die Aufsicht über die Sonderschulen aus.
 
 <sup>2</sup> In Fragen der schulischen Aufsicht zieht es das Amt für Kindergarten, Volksschule und Beratung der Bildungs- und Kulturdirektion bei.
 
@@ -515,7 +515,7 @@ beschliesst:
 
 **Kontrollen**
 
-<sup>1</sup> Das ALBA überprüft mittels periodischer Kontrollbesuche die Einhaltung der gesetzlichen Vorschriften und der Bewilligungsauflagen.
+<sup>1</sup> Das AIS überprüft mittels periodischer Kontrollbesuche die Einhaltung der gesetzlichen Vorschriften und der Bewilligungsauflagen.
 
 <sup>2</sup> Es kann Berichte einholen und Kontrollen durch Fachleute anordnen.
 

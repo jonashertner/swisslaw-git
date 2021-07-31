@@ -4,13 +4,13 @@ number: "432.281"
 title: Ordonnance sur les mesures de pédagogie spécialisée
 short: "Ordonnance sur la pédagogie spécialisée, OPSpéc"
 language: fr
-version: 2021-03-01
-valid_until: 2021-07-31
-version_adopted: 2020-12-16
+version: 2021-08-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-30
 adopted: 2013-05-08
 in_force: 2013-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.281"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2120/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2313/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2120/pdf_file"
 
 (Ordonnance sur la pédagogie spécialisée, OPSpéc)
 
-du 08.05.2013 (état au 01.03.2021)
+du 08.05.2013 (état au 01.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -108,9 +108,9 @@ arrête:
 
 **2. Garantie de participation aux frais**
 
-<sup>1</sup> La garantie de participation aux frais de l’institution de l’autre canton prévue par la CIIS ou par voie de convention bilatérale est octroyée par l’Office des personnes âgées et des personnes handicapées (OPAH) de la Direction de la santé, des affaires sociales et de l’intégration.
+<sup>1</sup> La garantie de participation aux frais de l’institution de l’autre canton prévue par la CIIS ou par voie de convention bilatérale est octroyée par l’Office de l'intégration et de l'action sociale (OIAS) de la Direction de la santé, des affaires sociales et de l’intégration.
 
-<sup>2</sup> Elle requiert que l’OPAH ait reconnu le droit aux prestations de pédagogie spécialisée au sens de la présente ordonnance.
+<sup>2</sup> Elle requiert que l’OIAS ait reconnu le droit aux prestations de pédagogie spécialisée au sens de la présente ordonnance.
 
 ### 2.2 Scolarisation spécialisée
 
@@ -124,7 +124,7 @@ arrête:
 
 <sup>2</sup> Elle nécessite une autorisation d’autre forme de scolarisation au sens de l’article 18, alinéa 2 LEO pendant la scolarité obligatoire.
 
-<sup>3</sup> L’OPAH pilote et finance les écoles spécialisées par contrat de prestations.
+<sup>3</sup> L’OIAS pilote et finance les écoles spécialisées par contrat de prestations.
 
 #### Art. 9
 
@@ -142,7 +142,7 @@ arrête:
 
 **Dispositions générales**
 
-<sup>1</sup> La scolarisation spécialisée séparée nécessite une autorisation à demander à l’OPAH.
+<sup>1</sup> La scolarisation spécialisée séparée nécessite une autorisation à demander à l’OIAS.
 
 <sup>2</sup> Elle s’effectue dans une école répondant aux besoins des élèves nécessitant des mesures pédagogiques particulières.
 
@@ -204,7 +204,7 @@ arrête:
 
 **Soutien pédagogique spécialisé 1. Financement**
 
-<sup>1</sup> L’OPAH finance les prestations de soutien pédagogique spécialisé nécessaire à la scolarisation spécialisée intégrée.
+<sup>1</sup> L’OIAS finance les prestations de soutien pédagogique spécialisé nécessaire à la scolarisation spécialisée intégrée.
 
 <sup>2</sup> Il charge les écoles spécialisées de fournir les prestations requises pour le soutien pédagogique spécialisé par contrat de prestations et autorise les leçons nécessaires sous forme de contingents.
 
@@ -222,7 +222,7 @@ arrête:
 
 **Conditions**
 
-<sup>1</sup> L’OPAH octroie sur demande des contributions individuelles pour le soutien pédagogique spécialisé des enfants et adolescents souffrant d’un handicap mental dans les établissements privés de la scolarité obligatoire lorsque
+<sup>1</sup> L’OIAS octroie sur demande des contributions individuelles pour le soutien pédagogique spécialisé des enfants et adolescents souffrant d’un handicap mental dans les établissements privés de la scolarité obligatoire lorsque
 
 - a le besoin de scolarisation spécialisée est présenté;
 - b la scolarisation correspond au besoin de formation et
@@ -230,7 +230,7 @@ arrête:
 
 <sup>2</sup> Le nombre maximal de leçons de soutien est fixé à l’article 18, alinéa 2.
 
-<sup>3</sup> L’OPAH fixe le montant de la subvention par leçon, qu’il verse directement à l’école.
+<sup>3</sup> L’OIAS fixe le montant de la subvention par leçon, qu’il verse directement à l’école.
 
 <sup>4</sup> La subvention correspond au coût effectif du salaire du personnel de l’établissement privé, sans dépasser cependant les coûts de traitements selon la législation sur le statut du personnel enseignant.
 
@@ -250,7 +250,7 @@ arrête:
 
 **Condition**
 
-<sup>1</sup> L’OPAH octroie sur demande des indemnités pour des mesures pédago-thérapeutiques dispensées par des personnes ayant suivi la formation adéquate et reconnue par la CDIP.
+<sup>1</sup> L’OIAS octroie sur demande des indemnités pour des mesures pédago-thérapeutiques dispensées par des personnes ayant suivi la formation adéquate et reconnue par la CDIP.
 
 #### Art. 22
 
@@ -287,7 +287,7 @@ arrête:
 
 **Financement 1. Principe**
 
-<sup>1</sup> L’OPAH octroie des indemnités pour les mesures pédago-thérapeutiques, qu’il fixe sur une base tarifaire et verse directement aux fournisseurs de prestations.
+<sup>1</sup> L’OIAS octroie des indemnités pour les mesures pédago-thérapeutiques, qu’il fixe sur une base tarifaire et verse directement aux fournisseurs de prestations.
 
 <sup>2</sup> Il pilote et finance les prestations du Service éducatif itinérant du canton de Berne par contrat de prestations.
 
@@ -317,7 +317,7 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> L’OPAH autorise sur demande la prise en charge à caractère résidentiel en foyer scolaire spécialisé des enfants et des adolescents qui en ont besoin pour suivre la scolarisation spécialisée.
+<sup>1</sup> L’OIAS autorise sur demande la prise en charge à caractère résidentiel en foyer scolaire spécialisé des enfants et des adolescents qui en ont besoin pour suivre la scolarisation spécialisée.
 
 <sup>2</sup> Il subventionne sur demande les frais de prise en charge résidentielle hors foyer scolaire spécialisé des enfants et des adolescents qui en ont besoin pour suivre la scolarisation spécialisée ou qui, de par leur handicap, requièrent un hébergement pour fréquenter l’école obligatoire.
 
@@ -332,7 +332,7 @@ arrête:
 
 <sup>1</sup> L’octroi d’une contribution aux frais de prise en charge résidentielle en foyer scolaire spécialisé présuppose la fréquentation de l’école spécialisée correspondante.
 
-<sup>2</sup> Une prolongation de la prise en charge résidentielle, afin de garantir le passage de l’école spécialisée à l’école obligatoire, nécessite une autorisation délivrée sur demande par l’OPAH et ne peut dépasser une année.
+<sup>2</sup> Une prolongation de la prise en charge résidentielle, afin de garantir le passage de l’école spécialisée à l’école obligatoire, nécessite une autorisation délivrée sur demande par l’OIAS et ne peut dépasser une année.
 
 #### Art. 30
 
@@ -340,15 +340,15 @@ arrête:
 
 <sup>1</sup> La prise en charge résidentielle à temps partiel ou complet a lieu pendant les jours d’école et est possible, à titre exceptionnel pendant les week-ends et les vacances.
 
-<sup>2</sup> L’OPAH réexamine régulièrement le besoin de prise en charge résidentielle.
+<sup>2</sup> L’OIAS réexamine régulièrement le besoin de prise en charge résidentielle.
 
 #### Art. 31
 
 **Financement**
 
-<sup>1</sup> L’OPAH finance la prise en charge résidentielle en foyer scolaire spécialisé par contrat de prestations, une participation aux frais étant prélevée par cet établissement auprès des parents.
+<sup>1</sup> L’OIAS finance la prise en charge résidentielle en foyer scolaire spécialisé par contrat de prestations, une participation aux frais étant prélevée par cet établissement auprès des parents.
 
-<sup>2</sup> Pour les autres formes d’hébergement, l’OPAH verse directement un montant de 56 francs par nuitée aux personnes ou à l’institution qui accueillent l’enfant ou l’adolescent.
+<sup>2</sup> Pour les autres formes d’hébergement, il verse directement un montant de 56 francs par nuitée aux personnes ou à l’institution qui accueillent l’enfant ou l’adolescent.
 
 ## 4 Frais de transport
 
@@ -356,7 +356,7 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> Sur demande, l’OPAH octroie des subventions pour les frais de transport des enfants et adolescents qui sont
+<sup>1</sup> Sur demande, l’OIAS octroie des subventions pour les frais de transport des enfants et adolescents qui sont
 
 - a occasionnés par des mesures de pédagogie spécialisée autorisées ou
 - b liés à leur handicap lorsqu’ils fréquentent l’école obligatoire.
@@ -367,7 +367,7 @@ arrête:
 
 **Prise en charge des frais**
 
-<sup>1</sup> L’OPAH prend en charge les frais équivalant au prix des transports publics pour un trajet direct.
+<sup>1</sup> L’OIAS prend en charge les frais équivalant au prix des transports publics pour un trajet direct.
 
 <sup>2</sup> S’il n’est pas possible d’atteindre l’école spécialisée par les transports publics, le coût du transport organisé par celle-ci est indemnisé.
 
@@ -403,7 +403,7 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> Sur demande, l’OPAH octroie des subventions pour les repas et la prise en charge d’enfants et d’adolescents, lorsque un repas doit être pris à l’extérieur pendant la pause de midi des jours entiers qu’ils passent à l’école spécialisée ou, en raison de leur handicap, à l’école obligatoire.
+<sup>1</sup> Sur demande, l’OIAS octroie des subventions pour les repas et la prise en charge d’enfants et d’adolescents, lorsque un repas doit être pris à l’extérieur pendant la pause de midi des jours entiers qu’ils passent à l’école spécialisée ou, en raison de leur handicap, à l’école obligatoire.
 
 <sup>2</sup> Une demande n’est pas nécessaire si les repas et la prise en charge de midi sont assurés par l’école fréquentée et font partie intégrante de la scolarisation spécialisée séparée.
 
@@ -411,9 +411,9 @@ arrête:
 
 **Financement**
 
-<sup>1</sup> L’OPAH finance les frais de repas et de prise en charge au sein de l’école spécialisée par contrat de prestations, une participation aux frais étant prélevée par cette école spécialisée auprès des parents.
+<sup>1</sup> L’OIAS finance les frais de repas et de prise en charge au sein de l’école spécialisée par contrat de prestations, une participation aux frais étant prélevée par cette école spécialisée auprès des parents.
 
-<sup>2</sup> Dans les autres cas, l’OPAH verse directement un montant de sept francs par repas de midi aux personnes ou à l’institution qui accueillent l’enfant ou l’adolescent.
+<sup>2</sup> Dans les autres cas, il verse directement un montant de sept francs par repas de midi aux personnes ou à l’institution qui accueillent l’enfant ou l’adolescent.
 
 ## 6 Procédure
 
@@ -423,7 +423,7 @@ arrête:
 
 <sup>1</sup> Sauf cas exceptionnels où la procédure d’octroi de subventions et d’indemnités ou d’autorisation de mesures est ouverte d’office, une demande doit être déposée.
 
-<sup>2</sup> Elle est adressée par les ayants droit à l’OPAH au moyen de la formule officielle téléchargeable sur Internet.
+<sup>2</sup> Elle est adressée par les ayants droit à l’OIAS au moyen de la formule officielle téléchargeable sur Internet.
 
 <sup>3</sup> Les rapports des médecins, des thérapeutes, des services spécialisés et autres professionnels consultés y sont joints, dans la mesure où ils présentent un lien avec la demande.
 
@@ -439,7 +439,7 @@ arrête:
 
 **Examen 1. Dispositions générales**
 
-<sup>1</sup> L’OPAH examine si les conditions d’octroi sont remplies.
+<sup>1</sup> L’OIAS examine si les conditions d’octroi sont remplies.
 
 <sup>2</sup> Ce faisant, il veille à l’indépendance de l’organe d’évaluation des besoins par rapport à celui d’exécution.
 
@@ -453,9 +453,9 @@ arrête:
 
 **Décision**
 
-<sup>1</sup> L’OPAH prend et notifie ses décisions en principe par voie de décision formelle.
+<sup>1</sup> L’OIAS rend et notifie ses décisions en principe par voie de décision formelle.
 
-<sup>2</sup> Les décisions favorables peuvent être prises et notifiées sous une autre forme. Sur demande, l’OPAH est toutefois tenu de rendre une décision formelle.
+<sup>2</sup> Les décisions favorables peuvent être prises et notifiées sous une autre forme. Sur demande, l’OIAS est toutefois tenu de rendre une décision formelle.
 
 #### Art. 44
 
@@ -471,7 +471,7 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> L’OPAH délivre les autorisations d’exploiter aux écoles spécialisées.
+<sup>1</sup> L’OIAS délivre les autorisations d’exploiter aux écoles spécialisées.
 
 <sup>2</sup> Il consulte préalablement l’Office de l’école obligatoire et du conseil de la Direction de l’instruction publique et de la culture quant aux aspects scolaires.
 
@@ -487,7 +487,7 @@ arrête:
 
 **Conditions**
 
-<sup>1</sup> La direction de l’école possède la formation nécessaire reconnue par la CDIP ou une formation qualifiée de suffisante par l’OPAH pour exercer son activité.
+<sup>1</sup> La direction de l’école possède la formation nécessaire reconnue par la CDIP ou une formation qualifiée de suffisante par l’OIAS pour exercer son activité.
 
 <sup>2</sup> Les personnes auxquelles est confiée l’exécution des mesures scolaires, éducatives, pédago-thérapeutiques ou paramédicales possèdent la formation nécessaire reconnue par la CDIP ou par l’Office fédéral de la formation professionnelle et de la technologie pour exercer leur activité.
 
@@ -499,7 +499,7 @@ arrête:
 
 **Modifications**
 
-<sup>1</sup> Les écoles spécialisées autorisées signalent à l’avance à l’OPAH les modifications majeures qu’elles prévoient d’effectuer dans la gestion et dans l’organisation de leur établissement, en particulier les changements de direction.
+<sup>1</sup> Les écoles spécialisées autorisées signalent à l’avance à l’OIAS les modifications majeures qu’elles prévoient d’effectuer dans la gestion et dans l’organisation de leur établissement, en particulier les changements de direction.
 
 ### 7.2 Surveillance
 
@@ -507,7 +507,7 @@ arrête:
 
 **Organe de surveillance**
 
-<sup>1</sup> L’OPAH exerce la surveillance des écoles spécialisées.
+<sup>1</sup> L’OIAS exerce la surveillance des écoles spécialisées.
 
 <sup>2</sup> Pour les questions concernant la surveillance scolaire, il fait appel à l’Office de l’école obligatoire et du conseil de la Direction de l’instruction publique et de la culture.
 
@@ -515,7 +515,7 @@ arrête:
 
 **Contrôles**
 
-<sup>1</sup> L’OPAH vérifie l’application des prescriptions légales et des charges contenues dans les autorisations en procédant à des visites de contrôle régulières.
+<sup>1</sup> L’OIAS vérifie l’application des prescriptions légales et des charges contenues dans les autorisations en procédant à des visites de contrôle régulières.
 
 <sup>2</sup> Il peut demander des rapports et ordonner que des contrôles soient effectués par des spécialistes.
 
