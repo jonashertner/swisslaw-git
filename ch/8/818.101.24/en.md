@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-07-21
+version: 2021-08-02
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210721/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210721-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210721/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210802/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210802-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210802/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 21 July 2021)
+of 19 June 2020 (Status as of 2 August 2021)
 
 The Swiss Federal Council,
 
@@ -98,7 +98,7 @@ The following persons are exempt from this ban on entry:
 
 <sup>2quater</sup> The State Secretariat for Migration (SEM) shall issue the required directives on exceptions to the ban on entry.[^4-10]
 
-<sup>3</sup> Decisions taken by the competent authorities may be enforced immediately. Article 65 of the FNIA applies *mutatis m**u**tandis*. An appeal may be filed against the SEM decision within 30 days of notification. The appeal does not have suspensive effect.
+<sup>3</sup> Decisions taken by the competent authorities may be enforced immediately. Article 65 of the FNIA applies *mutatis mutandis*. An appeal may be filed against the SEM decision within 30 days of notification. The appeal does not have suspensive effect.
 
 <sup>4</sup> The criminal provisions of Article 115 FNIA apply *mutatis mutandis*. In the event of any violation of the provision on entry, a ban on entry may also be imposed.
 
@@ -731,11 +731,11 @@ Personal protective equipment that was permitted under Article 24 of the previou
 
 Annex 1*[^t-1]*
 
-(Art. 3 para. 3, Art. 4 para. 2<sup>ter</sup> and Art. 5)
+(Art. 3 para. 3, 4 para. 2<sup>ter</sup> and 5)
 
 ## List of high-risk countries and regions
 
-[^t-1]: Amended by No I of the O of 12 July 2021, in force since 19 July 2021 ([AS 2021 446](https://fedlex.data.admin.ch/eli/oc/2021/446)).
+[^t-1]: Amended by No I of the FDJP O of 28 July 2021, in force since 2 August 2021 ([AS 2021 462](https://fedlex.data.admin.ch/eli/oc/2021/462)).
 
 ### 1. High-risk countries and regions (Art. 3 para. 2 let. a)
 
@@ -768,14 +768,13 @@ All countries and regions outside the Schengen area, with the exception of:
 - – North Macedonia
 - – Qatar
 - – Romania
-- – Rwanda
 - – San Marino
 - – Saudi Arabia
 - – Serbia
 - – South Korea
 - – Singapore
 - – Taiwan
-- – Thailand
+- – Ukraine
 - – United States of America
 
 ### 2. High-risk countries and regions with a variant of the Sars-CoV-2 virus that carries a higher risk of infection or causes a more severe form of the disease in comparison with the variant of the virus prevalent in the Schengen area (Art. 3 para. 2 let. b)
@@ -1045,7 +1044,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), by the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) and the by No II para. 2 of the O of 25 Aug. 2021, in force since 1 July 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)) and the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) and the by No II para. 2 of the O of 25 Aug. 2021, in force since 1 July 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1197,9 +1196,9 @@ Annex 6*[^t-8]*
 
 ### 1.3 Analyses for Sars-CoV-2 antibodies
 
-- 1\.3.1
+- [tab]
 
-  The Confederation shall pay the costs of analyses for Sars-CoV-2 antibodies:
+  1.3.1 The Confederation shall pay the costs of analyses for Sars-CoV-2 antibodies:
 
   - a. if instructed to do so by the responsible cantonal body;
   - b. if instructed to do so by a doctor four weeks after the second vaccination in the case of person with severe immosuppression;

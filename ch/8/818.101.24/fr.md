@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-07-21
+version: 2021-08-02
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210721/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210721-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210721/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210802/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210802-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210802/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210721/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 21 juillet 2021)
+du 19 juin 2020 (Etat le 2 août 2021)
 
 Le Conseil fédéral suisse,
 
@@ -333,7 +333,7 @@ La Confédération peut distribuer contre paiement sur le marché, par elle-mêm
 
 **Exceptions pour les dispositifs médicaux: généralités[^23-1]**
 
-<sup>1</sup> Swissmedic peut, sur demande, autoriser la mise sur le marché et la mise en service de dispositifs médicaux pour lesquels aucune procédure d’évaluation de la conformité au sens de l’art. 10 de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux (ODim)[^23-2] n’a été réalisée, si leur utilisation en vue de prévenir et de combattre le coronavirus en Suisse relève de l’intérêt de la santé publique ou de la sécurité ou de la santé des patients et si, compte tenu de leur destination, il est démontré de façon suffisante qu’ils remplissent les exigences fondamentales et qu’ils sont efficaces et performants.
+<sup>1</sup> Swissmedic peut, sur demande, autoriser la mise sur le marché et la mise en service de dispositifs médicaux pour lesquels aucune procédure d’évaluation de la conformité au sens de l’art. 23 de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux (ODim)[^23-2] [^23-3] n’a été réalisée, si leur utilisation en vue de prévenir et de combattre le coronavirus en Suisse relève de l’intérêt de la santé publique ou de la sécurité ou de la santé des patients et si, compte tenu de leur destination, il est démontré de façon suffisante qu’ils remplissent les exigences fondamentales et qu’ils sont efficaces et performants.
 
 <sup>2</sup> Dans le cadre de l’évaluation des risques visée à l’al. 1, Swissmedic tient compte en particulier du besoin d’acquisition démontré par l’OFSP en vue de prévenir et de combattre le coronavirus en Suisse.
 
@@ -341,22 +341,23 @@ La Confédération peut distribuer contre paiement sur le marché, par elle-mêm
 
 <sup>4</sup>
 
-Les masques faciaux pour lesquels aucune procédure d’évaluation de la conformité au sens de l’art. 10 ODim n’a été menée peuvent être mis sur le marché sans autorisation visée à l’al. 1:
+Les masques faciaux pour lesquels aucune procédure d’évaluation de la conformité au sens de l’art. 23 ODim n’a été menée peuvent être mis sur le marché sans autorisation visée à l’al. 1:
 
 - a. s’ils sont mis sur le marché uniquement pour une utilisation non médicale, et
 - b. s’ils portent une mention indiquant expressément qu’ils ne sont pas destinés à une utilisation médicale.
 
 <sup>5</sup> Les masques faciaux mis sur le marché en vertu de l’al. 4 ne peuvent pas être utilisés dans les hôpitaux et les cabinets médicaux pour le contact direct avec les patients.
 
-<sup>5bis</sup> L’application SwissCovid visée par l’ordonnance du 24 juin 2020 sur le système de traçage de proximité pour le coronavirus SARS-CoV-2[^23-3] et par l’ordonnance du 30 juin 2021 sur un système visant à informer d’une infection possible au coronavirus SARS-CoV-2 lors de manifestations[^23-4] n’est pas soumise aux dispositions sur l’évaluation de la conformité des dispositifs médicaux.[^23-5]
+<sup>5bis</sup> L’application SwissCovid visée par l’ordonnance du 24 juin 2020 sur le système de traçage de proximité pour le coronavirus SARS-CoV-2[^23-4] et par l’ordonnance du 30 juin 2021 sur un système visant à informer d’une infection possible au coronavirus SARS-CoV-2 lors de manifestations[^23-5] n’est pas soumise aux dispositions sur l’évaluation de la conformité des dispositifs médicaux.[^23-6]
 
 <sup>6</sup> Les obligations concernant l’observation des produits au sens de l’ODim, en particulier l’obligation de collecter et de déclarer les incidents graves, continuent de s’appliquer.
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^23-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^23-3]: [RS 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
-[^23-4]: [RS 818.102.4](https://fedlex.data.admin.ch/eli/cc/2021/411)
-[^23-5]: Introduit par l’art.18 de l’O du 30 juin 2021, en vigueur du 1<sup>er</sup> juillet 2021 au 31 juin 2022 ([RO 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)).
+[^23-3]: Le renvoi a été adapté au 26 mai 2021 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^23-4]: [RS 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
+[^23-5]: [RS 818.102.4](https://fedlex.data.admin.ch/eli/cc/2021/411)
+[^23-6]: Introduit par l’art.18 de l’O du 30 juin 2021, en vigueur du 1<sup>er</sup> juillet 2021 au 31 juin 2022 ([RO 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)).
 
 #### Art. 23a
 
@@ -733,7 +734,7 @@ Annexe 1*[^t-1]*
 
 ## Liste des pays et régions à risque
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du 12 juill. 2021, en vigueur depuis le 17 juill. 2021([RO 2021 446](https://fedlex.data.admin.ch/eli/oc/2021/446)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 juill. 2021, en vigueur depuis le 2 août 2021 ([RO 2021 462](https://fedlex.data.admin.ch/eli/oc/2021/462)).
 
 ### 1. Liste des pays et régions à risque (art. 3, al. 2, let. a)
 
@@ -768,13 +769,12 @@ Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 - – Nouvelle-Zélande
 - – Qatar
 - – Roumanie
-- – Rwanda
 - – Saint-Marin
 - – Saint-Siège
 - – Serbie
 - – Singapour
 - – Taïwan
-- – Thaïlande
+- – Ukraine
 
 ### 2. Pays et régions à risque avec un variant du virus SARS-CoV-2 dont le risque d’infection ou d’évolution grave de la maladie est plus élevé que pour le variant du virus qui prévaut dans l’espace Schengen (art. 3, al. 2, let. b)
 

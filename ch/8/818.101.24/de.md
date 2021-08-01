@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-07-21
+version: 2021-08-02
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210721/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210721-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210721/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210802/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210802-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210802/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210721/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 21. Juli 2021)
+vom 19. Juni 2020 (Stand am 2. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -333,7 +333,7 @@ Der Bund kann wichtige medizinische Güter gegen Bezahlung im Markt selber oder 
 
 **Ausnahmen für Medizinprodukte: Allgemeines[^23-1]**
 
-<sup>1</sup> Die Swissmedic kann auf Gesuch hin das Inverkehrbringen und die Inbetriebnahme von Medizinprodukten, für die kein Konformitätsbewertungsverfahren nach Artikel 10 der Medizinprodukteverordnung vom 17. Oktober 2001[^23-2] (MepV) durchgeführt wurde, bewilligen, wenn deren Verwendung zur Verhütung und Bekämpfung des Coronavirus in der Schweiz im Interesse der öffentlichen Gesundheit oder der Patientensicherheit oder -gesundheit liegt und unter Berücksichtigung ihrer Zweckbestimmung die Erfüllung der grundlegenden Anforderungen sowie die Wirksamkeit und Leistung ausreichend nachgewiesen werden.
+<sup>1</sup> Die Swissmedic kann auf Gesuch hin das Inverkehrbringen und die Inbetriebnahme von Medizinprodukten, für die kein Konformitätsbewertungsverfahren nach Artikel 23 der Medizinprodukteverordnung vom 1. Juli 2020[^23-2] (MepV)[^23-3] durchgeführt wurde, bewilligen, wenn deren Verwendung zur Verhütung und Bekämpfung des Coronavirus in der Schweiz im Interesse der öffentlichen Gesundheit oder der Patientensicherheit oder -gesundheit liegt und unter Berücksichtigung ihrer Zweckbestimmung die Erfüllung der grundlegenden Anforderungen sowie die Wirksamkeit und Leistung ausreichend nachgewiesen werden.
 
 <sup>2</sup> Im Rahmen der Risikoabwägung nach Absatz 1 berücksichtigt die Swissmedic insbesondere den durch das BAG ausgewiesenen Beschaffungsbedarf zur Verhütung und Bekämpfung des Coronavirus in der Schweiz.
 
@@ -341,22 +341,23 @@ Der Bund kann wichtige medizinische Güter gegen Bezahlung im Markt selber oder 
 
 <sup>4</sup>
 
-Gesichtsmasken, für die kein Konformitätsbewertungsverfahren nach Artikel 10 MepV durchgeführt wurde, können ohne Bewilligung nach Absatz 1 in Verkehr gebracht werden, wenn sie:
+Gesichtsmasken, für die kein Konformitätsbewertungsverfahren nach Artikel 23 MepV durchgeführt wurde, können ohne Bewilligung nach Absatz 1 in Verkehr gebracht werden, wenn sie:
 
 - a. ausschliesslich für die nicht medizinische Verwendung in Verkehr gebracht werden; und
 - b. ausdrücklich als nicht für die medizinische Verwendung gekennzeichnet sind.
 
 <sup>5</sup> Gesichtsmasken, die nach Absatz 4 in Verkehr gebracht werden, dürfen nicht in Spitälern oder Arztpraxen für den direkten Kontakt mit Patientinnen und Patienten angewendet werden.
 
-<sup>5bis</sup> Die SwissCovid-App gemäss der Verordnung vom 24. Juni 2020[^23-3] über das Proximity-Tracing-System für das Coronavirus Sars-CoV-2 und gemäss der Verordnung vom 30. Juni 2021[^23-4] über ein System zur Benachrichtigung über eine mögliche Ansteckung mit dem Coronavirus Sars-CoV-2 an Veranstaltungen ist von den Bestimmungen über die Konformitätsbewertung von Medizinprodukten ausgenommen.[^23-5]
+<sup>5bis</sup> Die SwissCovid-App gemäss der Verordnung vom 24. Juni 2020[^23-4] über das Proximity-Tracing-System für das Coronavirus Sars-CoV-2 und gemäss der Verordnung vom 30. Juni 2021[^23-5] über ein System zur Benachrichtigung über eine mögliche Ansteckung mit dem Coronavirus Sars-CoV-2 an Veranstaltungen ist von den Bestimmungen über die Konformitätsbewertung von Medizinprodukten ausgenommen.[^23-6]
 
 <sup>6</sup> Die Pflichten zur Produktebeobachtung nach der MepV, insbesondere die Sammel- und Meldepflichten betreffend schwerwiegende Vorkommnisse, gelten weiterhin.
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^23-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^23-3]: [SR 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
-[^23-4]: [SR 818.102.4](https://fedlex.data.admin.ch/eli/cc/2021/411)
-[^23-5]: Eingefügt durch Art. 18 der V vom 30. Juni 2021 über ein System zur Benachrichtigung über eine mögliche Ansteckung mit dem Coronavirus Sars-CoV-2 an Veranstaltungen, in Kraft vom 1. Juli 2021 bis zum 30. Juni 2022 ([AS 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)).
+[^23-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 26. Mai 2021 angepasst. Die Anpassung wurde im ganhzen Text vorgenommen.
+[^23-4]: [SR 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
+[^23-5]: [SR 818.102.4](https://fedlex.data.admin.ch/eli/cc/2021/411)
+[^23-6]: Eingefügt durch Art. 18 der V vom 30. Juni 2021 über ein System zur Benachrichtigung über eine mögliche Ansteckung mit dem Coronavirus Sars-CoV-2 an Veranstaltungen, in Kraft vom 1. Juli 2021 bis zum 30. Juni 2022 ([AS 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)).
 
 #### Art. 23a
 
@@ -729,11 +730,11 @@ Persönliche Schutzausrüstungen, die gestützt auf Artikel 24 des bisherigen Re
 
 Anhang 1*[^t-1]*
 
-(Art. 3 Abs. 3, Art. 4 Abs. 2<sup>ter</sup> und Art. 5)
+(Art. 3 Abs. 3, 4 Abs. 2<sup>ter</sup> und 5)
 
 ## Liste der Risikoländer und -regionen
 
-[^t-1]: Fassung gemäss Ziff. I der V vom 12. Juli 2021, in Kraft seit 19. Juli 2021 ([AS 2021 446](https://fedlex.data.admin.ch/eli/oc/2021/446)).
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Juli 2021, in Kraft seit 2. Aug. 2021 ([AS 2021 462](https://fedlex.data.admin.ch/eli/oc/2021/462)).
 
 ### 1. Risikoländer und -regionen (Art. 3 Abs. 2 Bst. a)
 
@@ -765,14 +766,13 @@ Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Montenegro
 - – Neuseeland
 - – Nordmazedonien
-- – Ruanda
 - – Rumänien
 - – San Marino
 - – Saudi-Arabien
 - – Serbien
 - – Singapur
 - – Taiwan
-- – Thailand
+- – Ukraine
 - – Vereinigte Staaten
 - – Zypern
 
