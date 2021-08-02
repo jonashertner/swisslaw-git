@@ -4,13 +4,13 @@ number: "213.1"
 title: Volksschulgesetz
 short: VSG
 language: de
-version: 2021-08-01
-valid_until: 2021-08-02
-version_adopted: 2020-08-04
+version: 2021-08-03
+valid_until: 2022-12-31
+version_adopted: 2021-08-03
 adopted: 1983-01-13
 in_force: 1983-04-16
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3213/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3214/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3213/pdf_file"
 
 (VSG)
 
-vom 13.01.1983 (Stand 01.08.2021)
+vom 13.01.1983 (Stand 03.08.2021)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -472,7 +472,7 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Der Kanton sorgt für behinderungsspezifische Beratung und Unterstützung.
 
-<sup>3</sup> Sind die Voraussetzungen nach Abs. 1 dieser Bestimmung nicht erfüllt, besuchen Schülerinnen und Schüler mit besonderem Bildungsbedarf eine Sonderschule.
+<sup>3</sup> Sind die Voraussetzungen nach Abs. 1 dieser Bestimmung nicht erfüllt, besuchen Schülerinnen und Schüler mit besonderem Bildungsbedarf eine Sonderschule. Das zuständige Departement und die Sonderschulen stellen gemeinsam sicher, dass jeder Schülerin und jedem Schüler, für die oder den der Besuch einer Sonderschule verfügt wurde, ein entsprechender Platz zur Verfügung steht.
 
 #### Art. 35ter
 
