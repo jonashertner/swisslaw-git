@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 23. Juni 2021 über Massnahmen zur Bekämpfung der Covid-19-Epidemie im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung internationaler Personenverkehr)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: de
-version: 2021-06-26
+version: 2021-08-04
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210626/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210626-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210626/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210804/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210804-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210804/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210626/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 23. Juni 2021 (Stand am 26. Juni 2021)
+vom 23. Juni 2021 (Stand am 4. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -283,7 +283,7 @@ Die Grenzkontrollbehörden können Personen bei der Einreise aus Staaten oder Ge
 
 Diese Verordnung tritt am 26. Juni 2021 um 00.00 Uhr in Kraft.
 
-Anhang 1
+Anhang 1*[^t-1]*
 
 (Art. 2 Abs. 2 und 3, 3 Abs. 1 Bst. a, 4 Abs. 2, 7 Abs. 6, 8 Abs. 1 und 2 Bst. e und f sowie 12 Abs. 1)
 
@@ -291,17 +291,16 @@ Anhang 1
 
 [^annex1-lvlu1-1]
 
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 3. Aug. 2021, in Kraft seit 4. Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete mit einer besorgniserregenden Virusvariante, die immunevasiv ist oder von der noch nicht klar ist, ob sie immunevasiv ist (Art. 2 Abs. 1 und 2)
 
+Diese Liste enthält zurzeit keine Einträge.
+
 ### 2. Staaten und Gebiete mit einer besorgniserregenden Virusvariante, die nicht immunevasiv ist (Art. 2 Abs. 1 und 3)
 
-Indien
-
-Nepal
-
-Vereinigtes Königreich
+Diese Liste enthält zurzeit keine Einträge.
 
 Anhang 2
 

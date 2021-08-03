@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: "Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l'epidemia di COVID-19 nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 traffico internazionale viaggiatori)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: it
-version: 2021-06-26
+version: 2021-08-04
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210626/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210626-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210626/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210804/it/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210804-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210804/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210626/it"
 
 (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 
-del 23 giugno 2021 (Stato 26 giugno 2021)
+del 23 giugno 2021 (Stato 4 agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -283,25 +283,24 @@ Le autorità di controllo alla frontiera possono controllare in funzione del ris
 
 La presente ordinanza entra in vigore il 26 giugno 2021 alle ore 00.00.
 
-Allegato 1
+Allegato 1*[^t-1]*
 
-(art. 2 cpv. 2 e 3, 3 cpv. 1 lett. a, 4 cpv. 2, 7 cpv. 6, 8 cpv. 1 e 2 lett. e f, 12 cpv. 1)
+(art. 2 cpv. 2 e 3, 3 cpv. 1 lett. a, 4 cpv. 2, 7 cpv. 6, 8 cpv. 1 e 2 lett. e nonché f, 12 cpv. 1)
 
 ## Elenco degli Stati e delle regioni con una variante preoccupante del virus****
 
 [^annex1-lvlu1-1]
 
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 3 ago. 2021, in vigore dal 4 ago. 2021 ([RU 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)).
 [^annex1-lvlu1-1]: Uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
 
 ### 1. Stati e regioni con una variante preoccupante del virus immunoevasiva o la cui immunoevasività non è ancora stata chiarita (art. 2 cpv. 1 e 2)
 
+Questo elenco attualmente non contiene voci.
+
 ### 2. Stati e regioni con una variante preoccupante del virus non immunoevasiva (art. 2 cpv. 1 e 3)
 
-India
-
-Nepal
-
-Regno Unito
+Questo elenco attualmente non contiene voci.
 
 Allegato 2
 

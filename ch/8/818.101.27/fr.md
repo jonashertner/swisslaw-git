@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 23 juin 2021 sur les mesures destinées à lutter contre la pandémie de COVID-19 dans le domaine du transport international de voyageurs (Ordonnance COVID-19 transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: fr
-version: 2021-06-26
+version: 2021-08-04
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210626/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210626-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210626/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210804/fr/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210804-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210804/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210626/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 23 juin 2021 (Etat le 26 juin 2021)
+du 23 juin 2021 (Etat le 4 août 2021)
 
 Le Conseil fédéral suisse,
 
@@ -283,7 +283,7 @@ Les autorités chargées des contrôles à la frontière peuvent effectuer des c
 
 La présente ordonnance entre en vigueur le 26 juin 2021 à 0 h 00.
 
-Annexe 1
+Annexe 1*[^t-1]*
 
 (art. 2, al. 2 et 3, 3, al. 1, let. a, 4, al. 2, 7, al. 6, 8, al. 1 et 2, let. e et f, et 12, al. 1)
 
@@ -291,17 +291,16 @@ Annexe 1
 
 [^annex1-lvlu1-1]
 
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 3 août 2021, en vigueur depuis le 4 août 2021 ([RO 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)).
 [^annex1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
-### 1. États et zones avec un variant préoccupant du virus résistant aux anticorps ou dont on ne sait pas encore s’il résiste aux anticorps (art. 2, al. 1 et 2)
+### 1. états ou zones avec un variant préoccupant du virus résistant aux anticorps ou dont on ne sait pas encore s’il résiste aux anticorps (art. 2, al. 1 et 2)
 
-### 2. États ou zones avec un variant préoccupant du virus qui n’est pas résistant aux anticorps (art. 2, al. 1 et 3)
+La liste ne contient actuellement aucune entrée.
 
-Inde
+### 2. états ou zones avec un variant préoccupant du virus qui n’est pas résistant aux anticorps (art. 2, al. 1 et 3)
 
-Népal
-
-Royaume-Uni
+La liste ne contient actuellement aucune entrée.
 
 Annexe 2
 

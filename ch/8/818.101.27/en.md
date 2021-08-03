@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 23 June 2021 on Measures to Combat the COVID-19 epidemic in International Travel (COVID-19 Ordinance on International Travel)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: en
-version: 2021-06-26
+version: 2021-08-04
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210626/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210626-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210626/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210804/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210804-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210804/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 23 June 2021 (Status as of 26 June 2021)
+of 23 June 2021 (Status as of 4 August 2021)
 
 The Swiss Federal Council,
 
@@ -285,25 +285,24 @@ The border control authorities may conduct risk-based checks on persons entering
 
 This Ordinance comes into force on 26 June 2021 at 00.00.
 
-Annex 1
+Annex 1*[^t-1]*
 
-(Art. 2 para. 2 and 3, 3 para. 1 let. a, 4 para. 2, 7 para. 6, 8 para. 1 and 2 let. e and f and 12 para. 1)
+(Art. 2 paras. 2 and 3, 3 para. 1 let. a, 4 para. 2, 7 para. 6, 8 paras. 1 and 2 let. e and f and 12 para. 1)
 
 ## List of countries and regions with a variant of the virus of concern****
 
 [^annex1-lvlu1-1]
 
+[^t-1]: Amended by No I of the FDHA O of 3 Aug. 2021, in force since 4 Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
-### 1. Countries and regions with a variant of the virus of concern that is immune evasive is or the immune evasive status of which is unclear (Art. 2 para. 1 and 2)
+### 1. Countries and regions with a variant of the virus of concern that is immune evasive is or the immune evasive status of which is unclear (Art. 2 paras. 1 and 2)
 
-### 2. Countries and regions with a variant of the virus of concern that is not immune evasive (Art. 2 para. 1 and 3)
+There are no entries currently on this list
 
-India
+### 2. Countries and regions with a variant of the virus of concern that is not immune evasive (Art. 2 paras. 1 and 3)
 
-Nepal
-
-United Kingdom
+There are no entries currently on this list
 
 Annex 2
 
@@ -322,7 +321,7 @@ Annex 2
   - c. is authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered.
 
 - 1\.2 The vaccination is regarded as being effective for 12 months from the date on which it was administered in full; the Janssen vaccine is regarded as being effective for 12 months from the 22nd day after it was administered in full.
-- 1\.3 Proof of vaccination may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 1 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex2-lvlu1-lvl1-1] or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Ordinance on Certificates.
+- 1\.3 Proof of vaccination may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 1 of the COVID-19 Certificates Ordinance of 4 June 2021[^annex2-lvlu1-lvl1-1] or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Certificates Ordinance.
 - 1\.4
 
   Proof may also be provided in a different form from that in number 1.3. It must be a form of proof that is customary at the time. In addition to the surname, forename and date of birth of the person concerned, it must include the following information:
@@ -335,7 +334,7 @@ Annex 2
 ### 2 Persons who have recovered
 
 - 2\.1 Proof of recovery remains valid for 6 months from the 11th day following confirmation of the infection.
-- 2\.2 Proof of recovery may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 2 of the COVID-19 Ordinance on Certificates of 4 June 2021 or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Ordinance on Certificates.
+- 2\.2 Proof of recovery may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 2 of the COVID-19 Certificates Ordinance of 4 June 2021 or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Certificates Ordinance.
 - 2\.3
 
   Proof may also be provided in a different form from that in number 2.2. It must be a form of proof that is customary at the time. In addition to the surname, forename and date of birth of the person concerned, it must include the following information:
