@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Convention du 20 mai 1987 relative à un régime de transit commun (avec appendices et prot. add.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: fr
-version: 2021-06-01
+version: 2021-08-10
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/fr/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210810-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210810/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 28 octobre 1987
 
 Entrée en vigueur le 1<sup>er</sup> janvier 1988
 
-(État le 1<sup>er</sup> juin 2021)
+(État le 10 août 2021)
 
 [^t-1]: Cette Conv. comprenait primitivement les parties contractantes suivantes: la CEE, la République d’Autriche, la République de Finlande, la République d’Islande, le Royaume de Norvège, le Royaume de Suède et la Confédération suisse. La République d’Autriche, la République de Finlande et le Royaume de Suède ont adhéré aux Communautés européennes le 1<sup>er</sup> janv. 1995 et, depuis cette date, ne sont plus des parties contractantes autonomes à la Conv. La Pologne, la Slovaquie, la Tchéquie et la Hongrie ont adhéré à la Conv. le 1<sup>er</sup> juil. 1996 ([RO 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Suite à leur adhésion à l’UE, ces 4 pays ne sont plus des parties contractantes autonomes à la Conv. depuis le 1<sup>er</sup> mai 2004. Sont également parties contractantes la République de Croatie depuis le 1<sup>er</sup> juil. 2012 ([RO 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la République de Turquie depuis le 1<sup>er</sup> déc. 2012 ([RO 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), la Macédoine depuis le 1<sup>er</sup> juil 2015 ([RO 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) et la Serbie depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
 [^t-2]: Art. 1 al. 1 let. b de l’AF du 8 oct. 1987 ([RO 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -447,7 +447,7 @@ Appendice I[^t-3]
 
 ## Procédures de transit commun
 
-[^t-3]: Nouvelle teneur selon l’art. 1 ch. 2 de la D n° 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Mis à jour par l’art. 1 ch. 1 et 2 de la D n<sup>o</sup> 1/2017 de la Commission mixte UE-AELE du 5 déc. 2017 ([RO 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), l’art. 1 ch. 1 de la D n° 1/2019 de la Commission mixte UE-AELE du 4 déc. 2019 ([RO 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) et l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2021 de la Commission mixte UE-AELE du 1<sup>er</sup> juin 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> juin 2021 ([RO 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+[^t-3]: Nouvelle teneur selon l’art. 1 ch. 2 de la D n° 1/2016 de la Commission mixte UE-AELE du 28 avr. 2016 ([RO 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Mis à jour par l’art. 1 ch. 1 et 2 de la D n<sup>o</sup> 1/2017 de la Commission mixte UE-AELE du 5 déc. 2017 ([RO 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), l’art. 1 ch. 1 de la D n° 1/2019 de la Commission mixte UE-AELE du 4 déc. 2019 ([RO 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) et l’art. 1 ch. 1 de la D n<sup>o</sup> 1/2021 de la Commission mixte UE-AELE du 1<sup>er</sup> juin 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> juin 2021 ([RO 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)). Erratum du 10 août 2021 ([RO 2021 478](https://fedlex.data.admin.ch/eli/oc/2021/478)).
 
 ### Titre I Dispositions générales
 
@@ -2365,13 +2365,13 @@ Annexe II de l’appendice I
   La déclaration de transit papier utilisée dans le cadre d’un plan de continuité des opérations est reconnaissable par toutes les parties concernées par l’opération de transit afin d’éviter des problèmes au bureau de douane de passage, au bureau de douane de destination et lors de l’arrivée dans les locaux du destinataire agréé. Pour cette raison, les documents utilisés sont limités de la manière suivante:
 
   - – un document administratif unique (DAU), ou
-  - – un DAU imprimé sur un papier ordinaire par le système informatique de l’opérateur économique comme prévu à l’annexe B6 de l’appendice III; à partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), un DAU imprimé sur un papier ordinaire par le système informatique de l’opérateur économique comme prévu à l’annexe B6*bis* de l’appendice III, ou
-  - – un document d’accompagnement transit (TAD), complété si nécessaire par la liste d’articles (Lol); à partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), un document d’accompagnement transit (TAD), complété par la liste d’articles (LoI).
+  - – un DAU imprimé sur un papier ordinaire par le système informatique de l’opérateur économique comme prévu à l’annexe B6 de l’appendice III; à partir des dates de déploiement de la mise à niveau du NSTI mentionnées à l’annexe de la décision d’exécution (UE) 2016/578, un DAU imprimé sur un papier ordinaire par le système informatique de l’opérateur économique comme prévu à l’annexe B6<sup>bis</sup> de l’appendice III, ou
+  - – un document d’accompagnement transit (TAD), complété si nécessaire par la liste d’articles (Lol); à partir des dates de déploiement de la mise à niveau du NSTI mentionnées à l’annexe de la décision d’exécution (UE) 2016/578, un document d’accompagnement transit (TAD), complété par la liste d’articles (LoI).
 
 - 2\.2 La déclaration de transit peut être complétée par un ou plusieurs formulaires complémentaires à l’aide du formulaire figurant à l’appendice 3 de l’annexe I de la convention sur la simplification des formalités dans les échanges de marchandises conclue à Interlaken le 20 mai 1987 («la convention DAU»). Les formulaires font partie intégrante de la déclaration. Des listes de chargement établies conformément à l’annexe B5 de l’appendice III et au moyen du formulaire figurant à l’annexe B4 de l’appendice III peuvent être utilisées en lieu et place des formulaires complémentaires, comme partie descriptive de la déclaration de transit établie par écrit, dont elles font partie intégrante.
-- À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), des listes de chargement établies conformément à l’annexe B5<sup>bis</sup> de l’appendice III et au moyen du formulaire figurant à l’annexe B4*bis* de l’appendice III peuvent être utilisées en lieu et place des formulaires complémentaires, comme partie descriptive de la déclaration de transit établie par écrit, dont elles font partie intégrante.
+- À partir des dates de déploiement de la mise à niveau du NSTI mentionnées à l’annexe de la décision d’exécution (UE) 2016/578, des listes de chargement établies conformément à l’annexe B5<sup>bis</sup> de l’appendice III et au moyen du formulaire figurant à l’annexe B4<sup>bis</sup> de l’appendice III peuvent être utilisées en lieu et place des formulaires complémentaires, comme partie descriptive de la déclaration de transit établie par écrit, dont elles font partie intégrante.
 - 2\.3 Aux fins de l’application du point 2.1 de la présente annexe, la déclaration de transit est complétée conformément à l’ annexe B6 de l’appendice III.
-- À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), aux fins de l’application du point 2.1 de la présente annexe, la déclaration de transit est complétée conformément à l’annexe B6*bis* de l’appendice III.
+- À partir des dates de déploiement de la mise à niveau du NSTI mentionnées à l’annexe de la décision d’exécution (UE) 2016/578, aux fins de l’application du point 2.1 de la présente annexe, la déclaration de transit est complétée conformément à l’annexe B6<sup>bis</sup> de l’appendice III.
 
 ### Chapitre II Modalités d’application
 
@@ -2380,7 +2380,7 @@ Annexe II de l’appendice I
 
   Les modalités d’application sont les suivantes:
 
-  - – la déclaration de transit est complétée et présentée au bureau de douane de départ accompagnée des exemplaires n<sup>os</sup> 1, 4 et 5 du DAU conformément à la convention DAU ou accompagnée de deux exemplaires du TAD, complétés si nécessaire par la Lol, conformément aux annexes A3, A4, A5 et A6 de l’appendice III; à partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), la déclaration de transit est complétée et présentée au bureau de douane de départ accompagnée des exemplaires n<sup>os</sup> 1, 4 et 5 du DAU conformément à la convention DAU ou accompagnée de deux exemplaires du TAD, complétés si nécessaire par la Lol, conformément aux annexes A3*bis*, A4*bis*, A5*bis* et A6*bis* de l’appendice III;
+  - – la déclaration de transit est complétée et présentée au bureau de douane de départ accompagnée des exemplaires n<sup>os</sup> 1, 4 et 5 du DAU conformément à la convention DAU ou accompagnée de deux exemplaires du TAD, complétés si nécessaire par la Lol, conformément aux annexes A3, A4, A5 et A6 de l’appendice III; à partir des dates de déploiement de la mise à niveau du NSTI mentionnées à l’annexe de la décision d’exécution (UE) 2016/578, la déclaration de transit est complétée et présentée au bureau de douane de départ accompagnée des exemplaires n<sup>o</sup> 1, n<sup>o</sup> 4 et n<sup>o</sup> 5 du DAU conformément à la convention DAU ou accompagnée de deux exemplaires du TAD, complétés si nécessaire par la LoI, conformément aux annexes A3<sup>bis</sup>, A4<sup>bis</sup>, A5<sup>bis</sup> et A6<sup>bis</sup> de l’appendice III;
   - – la déclaration de transit est enregistrée dans la case C à l’aide d’un système de numérotation différent de celui du système de transit électronique;
   - – le plan de continuité des opérations est mentionné sur les copies de la déclaration de transit avec l’un des cachets à l’aide des formulaires figurant à l’annexe B7 de l’appendice III, dans la case A du document administratif unique (DAU) ou à la place du MRN et du code à barres pour le TAD;
   - – l’expéditeur agréé remplit toutes les obligations et conditions concernant les inscriptions à porter dans la déclaration et l’utilisation du cachet spécial visé aux points 22 à 25 de la présente annexe, en utilisant respectivement les cases C et D;
@@ -2482,14 +2482,14 @@ Annexe II de l’appendice I
 - 19\.5 Chaque pays fournit à la Commission des informations sur les éléments d’identification des certificats en cours de validité qui n’ont pas été restitués ou qui ont été déclarés volés, perdus ou falsifiés. La Commission en informe les autres pays en conséquence.
 - 20\. Listes de chargement spéciales
 - 20\.1 L’autorité douanière peut accepter la déclaration de transit complétée par des listes de chargement qui ne respectent pas toutes les exigences établies à l’annexe B5 de l’appendice III.
-- À partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), l’autorité douanière peut accepter la déclaration de transit complétée par des listes de chargement qui ne respectent pas toutes les exigences établies à l’annexe B5<sup>bis</sup> de l’appendice III.
+- À partir des dates de déploiement de la mise à niveau du NSTI mentionnées à l’annexe de la décision d’exécution (UE) 2016/578, l’autorité douanière peut accepter la déclaration de transit complétée par des listes de chargement qui ne respectent pas toutes les exigences établies à l’annexe B5<sup>bis</sup> de l’appendice III.
 -
 
   Ces listes ne peuvent être utilisées que:
 
   - – si elles sont émises par des entreprises dont les écritures sont basées sur un système de traitement électronique des données;
   - – si elles sont conçues et remplies de façon qu’elles puissent être exploitées sans difficultés par l’autorité douanière;
-  - – si elles incluent, pour chaque article, les informations requises en vertu de l’annexe B5 de l’appendice III; à partir des dates du déploiement de la mise à niveau du système de transit électronique visé à l’art. 4, mentionnées à l’annexe de la décision (UE) 2016/578 du 11 avril 2016 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO L 99 du 15.4.2016, p. 6), elles incluent, pour chaque article, les informations requises en vertu de l’annexe B5<sup>bis</sup> de l’appendice III.
+  - – si elles incluent, pour chaque article, les informations requises en vertu de l’annexe B5 de l’appendice III; à partir des dates de déploiement de la mise à niveau du NSTI mentionnées à l’annexe de la décision d’exécution (UE) 2016/578, elles incluent, pour chaque article, les informations requises en vertu de l’annexe B5<sup>bis</sup> de l’appendice III.
 
 - 20\.2 Peut également être autorisée, l’utilisation, en tant que listes de chargement visées au point 20.1 de la présente annexe, de listes descriptives qui sont établies aux fins de l’accomplissement des formalités d’expédition/d’exportation, même si ces listes sont émises par des entreprises dont les écritures ne sont pas basées sur un système de traitement électronique des données.
 - 20\.3 Le titulaire du régime dont les écritures sont basées sur un système de traitement électronique des données et qui utilise déjà des listes de chargement spéciales peut les utiliser également pour les opérations de transit commun ne portant que sur un seul type de marchandises, si cette facilité est rendue nécessaire compte tenu du système du titulaire du régime.
@@ -4666,7 +4666,7 @@ Annexe A3 de l’appendice III
 
 ## Modèle de document d’accompagnement transit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/fr/xml/image/image1.png)
 
 Annexe A4 de l’appendice III
 
@@ -5772,7 +5772,7 @@ Annexe B9 de l’appendice III
 
 ## Modèle d’un cachet spécial utilisé par un expéditeur agréé
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/fr/xml/image/image2.png)
 
 - 1\. Les armoiries ou tous autres signes ou lettres caractérisant le pays
 - 2\. Numéro de référence du bureau de douane de départ
@@ -5786,7 +5786,7 @@ Annexe B10 de l’appendice III
 ## TC 11 – RECEPISSE
 
 <table>
-<tr><td>TC 11 – RECEPISSE Le bureau de douane de destination situé à ............ (lieu, nom et numéro de référence) certifie que la déclaration de transit T1, T2, T2F<sup>(1)</sup> enregistrée le .................. (jj/mm/aa) sous le n<sup>o</sup> .................. (MRN<sup>(2)</sup>) par le bureau de douane de départ situé à .............................. (lieu, nom et numéro de référence) lui a été remis. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image3.png) Fait à ..............., le ............... (jj/mm/aa) ............................................................ (Signature) <sup>(1)</sup> Biffer les mentions inutiles. <sup>(2)</sup> En cas de panne temporaire du système de transit électronique, veuillez indiquer un numéro utilisé dans le cadre du PCA.</td></tr>
+<tr><td>TC 11 – RECEPISSE Le bureau de douane de destination situé à ............ (lieu, nom et numéro de référence) certifie que la déclaration de transit T1, T2, T2F<sup>(1)</sup> enregistrée le .................. (jj/mm/aa) sous le n<sup>o</sup> .................. (MRN<sup>(2)</sup>) par le bureau de douane de départ situé à .............................. (lieu, nom et numéro de référence) lui a été remis. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/fr/xml/image/image3.png) Fait à ..............., le ............... (jj/mm/aa) ............................................................ (Signature) <sup>(1)</sup> Biffer les mentions inutiles. <sup>(2)</sup> En cas de panne temporaire du système de transit électronique, veuillez indiquer un numéro utilisé dans le cadre du PCA.</td></tr>
 </table>
 
 Annexe B11 de l’appendice III
@@ -5795,7 +5795,7 @@ Annexe B11 de l’appendice III
 
 (transit par chemin de fer)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/fr/xml/image/image4.png)
 
 Annexe C1 de l’appendice III
 
@@ -5925,7 +5925,6 @@ Engagement de la caution approuvé le
 - (3) Les références à la Principauté d’Andorre et à la République de Saint-Marin ne valent qu’à l’égard des opérations de transit de l’Union.
 - (4) Lorsque la possibilité d’élection de domicile n’est pas prévue dans la législation du pays, la caution désigne, dans ce pays, un mandataire autorisé à recevoir toute communication qui lui est destinée et les engagements prévus au point 4, deuxième et quatrième alinéas, doivent être stipulés *mutatis mutandis*. Les juridictions respectives des lieux de domicile de la caution ou de ses mandataires sont compétentes pour connaître des litiges concernant le présent cautionnement.
 - (5) Le signataire doit faire précéder sa signature de la mention manuscrite suivante: «Bon à titre de caution».
-- [tab]
 
 Annexe C3 de l’appendice III
 
@@ -5933,11 +5932,11 @@ Annexe C3 de l’appendice III
 
 *(Recto)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/fr/xml/image/image5.png)
 
 *(Verso)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/fr/xml/image/image6.png)
 
 Normes techniques applicables au titre
 
@@ -6689,7 +6688,7 @@ Le présent appendice s’appliquera à partir de la date de mise à niveau du s
 
 Modèle de document d’accompagnement transit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/fr/xml/image/image7.png)
 
 Annexe A4<sup>bis</sup> de l’appendice III<sup>bis</sup>
 
@@ -6772,7 +6771,7 @@ La présente annexe s’appliquera à partir de la date de mise à niveau du sys
 
 Modèle de liste d’articles
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/fr/xml/image/image8.png)
 
 Annexe A6<sup>bis</sup> de l’appendice III<sup>bis</sup>
 

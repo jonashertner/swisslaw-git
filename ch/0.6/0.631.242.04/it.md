@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Convenzione del 20 maggio 1987 relativa ad un regime comune di transito (con appendici e Protocollo addizionale)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: it
-version: 2021-06-01
+version: 2021-08-10
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210810-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210810/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Conclusa il 20 maggio 1987 Approvata dall’Assemblea federale l’8 ottobre 1987[^t-2] Strumento di ratificazione depositato dalla Svizzera il 28 ottobre 1987 Entrata in vigore il 1° gennaio 1988
 
-(Stato 1° giugno 2021)
+(Stato 10 agosto 2021)
 
 [^t-1]: La Conv. concerneva originariamente le seguenti Parti contraenti: Comunità economica europea, Repubblica d’Austria, Repubblica di Finlandia, Repubblica d’Islanda, Regno di Norvegia, Regno di Svezia e Confederazione Svizzera. Il 1° gen. 1995, la Repubblica d’Austria, la Repubblica di Finlandia e il Regno di Svezia hanno aderito alle Comunità europee e da tale data non sono più Parti contraenti autonome della Conv. Il 1° lug. 1996, la Repubblica di Polonia, la Repubblica slovacca, la Repubblica ceca e la Repubblica di Ungheria hanno aderito alla Conv. ([RU 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Con l’adesione all’Unione Europea, dal 1° mag. 2004 questi paesi non sono più Parti contraenti autonome della Conv. La Repubblica di Croazia ha aderito alla Conv. il 1° lug. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la Repubblica della Turchia il 1° dic. 2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), l’ex Repubblica Jugoslava di Macedonia il 1° lug. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) e la Repubblica di Serbia il 1° feb. 2016 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
 [^t-2]: Art. 1 n. 1 lett. b del DF dell’8 ott. 1987 ([RU 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -451,7 +451,7 @@ Appendice I[^t-3]
 
 ## Procedure di transito comune
 
-[^t-3]: Nuovo testo giusta l’art. 1 n. 2 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Aggiornata dall’art. 1 n. 1 e 2 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 1 della Dec. n. 1/2019 del Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) e dall’art. 1 n. 1 della Dec. n. 1/2021 del Comitato congiunto UE-PTC del 1° giu. 2021, in vigore per la Svizzera dal 1° giu. 2021 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)).
+[^t-3]: Nuovo testo giusta l’art. 1 n. 2 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)). Aggiornata dall’art. 1 n. 1 e 2 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 1 della Dec. n. 1/2019 del Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) e dall’art. 1 n. 1 della Dec. n. 1/2021 del Comitato congiunto UE-PTC del 1° giu. 2021, in vigore per la Svizzera dal 1° giu. 2021 ([RU 2022 590](https://fedlex.data.admin.ch/eli/oc/2022/590)). Correzione del 10 ago. 2021 ([RU 2021 478](https://fedlex.data.admin.ch/eli/oc/2021/478)).
 
 ### Titolo I: Disposizioni Generali
 
@@ -2370,14 +2370,14 @@ Allegato II dell’appendice I
 
   - – un documento amministrativo unico (DAU); o
   - – un DAU stampato su carta normale dal sistema informatico dell’operatore economico, come previsto nell’appendice III, allegato B6, o
-  - a decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6), un DAU stampato su carta normale dal sistema informatico dell’operatore economico, come previsto nell’appendice III, allegato B6 *bis*; o
+  - a decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578, un DAU stampato su carta normale dal sistema informatico dell’operatore economico, come previsto nell’appendice III, allegato B6 *bis*; o
   - – un documento di accompagnamento transito (DAT), integrato, se necessario, dall’elenco degli articoli (EdA),
-  - a decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6), un documento di accompagnamento transito (DAT) integrato dall’elenco degli articoli (EdA).
+  - a decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578, un documento di accompagnamento transito (DAT) integrato dall’elenco degli articoli (EdA);
 
 - 2\.2. La dichiarazione di transito può essere completata con uno o più formulari complementari, utilizzando il formulario di cui all’allegato I, appendice 3, della Convenzione relativa alla semplificazione delle formalità negli scambi di merci, firmata a Interlaken il 20 maggio 1987 («Convenzione DAU»). I formulari costituiscono parte integrante della dichiarazione. Distinte di carico conformi all’appendice III, allegato B5, e fornite utilizzando il modello di cui all’appendice III, allegato B4, possono essere utilizzate come parte descrittiva di una dichiarazione di transito scritta, di cui formano parte integrante, al posto dei formulari complementari.
-- A decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6), distinte di carico conformi all’appendice III, allegato B5 *bis*, e redatte utilizzando il modello che figura nell’appendice III, allegato B4 *bis*, possono essere utilizzate come parte descrittiva di una dichiarazione di transito scritta, di cui formano parte integrante, al posto dei formulari complementari.
+- A decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578, distinte di carico conformi all’appendice III, allegato B5 *bis*, e redatte utilizzando il modello che figura nell’appendice III, allegato B4 *bis*, possono essere utilizzate come parte descrittiva di una dichiarazione di transito scritta, di cui formano parte integrante, al posto dei formulari complementari.
 - 2\.3. Ai fini dell’applicazione del punto 2.1 del presente allegato, la dichiarazione di transito è compilata conformemente all’appendice III, allegato B6.
-- A decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6), ai fini dell’applicazione del punto 2.1 del presente allegato, la dichiarazione di transito è compilata conformemente all’appendice III, allegato B6 *bis.*
+- A decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578, ai fini dell’applicazione del punto 2.1 del presente allegato, la dichiarazione di transito è compilata conformemente all’appendice III, allegato B6 *bis*.
 
 ### Capitolo II: Modalità di applicazione
 
@@ -2387,7 +2387,7 @@ Allegato II dell’appendice I
   Le modalità di applicazione sono le seguenti:
 
   - – la dichiarazione di transito è compilata e presentata all’ufficio doganale di partenza negli esemplari 1, 4 e 5 del DAU in conformità della Convenzione DAU, o in due esemplari del DAT, integrati, se necessario, dall’elenco degli articoli, in conformità dell’appendice III, allegati A3, A4, A5 e A6;
-  - a decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6), la dichiarazione di transito è compilata e presentata all’ufficio doganale di partenza negli esemplari 1, 4 e 5 del DAU in conformità della Convenzione DAU, o in due esemplari del DAT, integrati, se necessario, dall’elenco degli articoli, in conformità dell’appendice III, allegati A3 *bis*, A4 *bis*, A5 *bis* e A6 *bis*;
+  - a decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578, la dichiarazione di transito è compilata e presentata all’ufficio doganale di partenza negli esemplari 1, 4 e 5 del DAU in conformità della Convenzione DAU, o in due esemplari del DAT, integrati, se necessario, dall’elenco degli articoli, in conformità dell’appendice III, allegati A3 *bis*, A4 *bis*, A5 *bis* e A6 *bis*;
   - – la dichiarazione di transito è registrata nella casella C con un sistema di numerazione diverso da quello del sistema di transito elettronico;
   - – la procedura di continuità operativa è indicata sugli esemplari della dichiarazione di transito con uno dei timbri di cui all’appendice III, allegato B7, nella casella A del DAU o al posto dell’MRN e del codice a barre nel DAT;
   - – lo speditore autorizzato rispetta tutti gli obblighi e le condizioni relativi alle diciture da riportare nella dichiarazione e all’uso del timbro speciale di cui ai punti 22-25 del presente allegato, utilizzando rispettivamente le caselle C e D;
@@ -2489,7 +2489,7 @@ Allegato II dell’appendice I
 - 19\.5 Ciascun paese trasmette alla Commissione informazioni sugli elementi identificativi dei certificati in corso di validità che non sono stati restituiti o che sono stati dichiarati rubati, perduti o falsificati. La Commissione ne dà di conseguenza notizia agli altri paesi.
 - 20\. Distinte di carico speciali
 - 20\.1. L’autorità doganale può accettare la dichiarazione di transito integrata da distinte di carico che non rispondono a tutte le condizioni di cui all’appendice III, allegato B5.
-- A decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6), l’autorità doganale può accettare la dichiarazione di transito integrata da distinte di carico che non rispondono a tutte le condizioni di cui all’appendice III, allegato B5 *bis*.
+- A decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578, l’autorità doganale può accettare la dichiarazione di transito integrata da distinte di carico che non rispondono a tutte le condizioni di cui all’appendice III, allegato B5 *bis*.
 -
 
   Tali distinte possono essere utilizzate unicamente:
@@ -2497,7 +2497,7 @@ Allegato II dell’appendice I
   - – se sono stilate da imprese le cui scritture sono basate su un sistema di trattamento elettronico dei dati;
   - – se sono concepite e compilate in modo da poter essere utilizzate senza difficoltà dall’autorità doganale;
   - – se citano, per ogni articolo, le informazioni richieste nell’appendice III, allegato B5;
-  - a decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578 della Commissione, dell’11 aprile 2016, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU L 99 del 15.4.2016, pag. 6), se citano, per ogni articolo, le informazioni richieste nell’appendice III, allegato B5 *bis*.
+  - a decorrere dalla data di introduzione dell’aggiornamento del NCTS di cui all’allegato della decisione di esecuzione (UE) 2016/578, l’autorità doganale può accettare la dichiarazione di transito integrata da distinte di carico che non rispondono a tutte le condizioni di cui all’appendice III, allegato B5 *bis*.
 
 - 20\.2. Può inoltre essere autorizzato l’uso, come distinte di carico di cui al punto 20.1 del presente allegato, di elenchi descrittivi stilati ai fini dell’espletamento delle formalità di spedizione/esportazione, anche se tali elenchi sono stilati dalle imprese le cui scritture non sono basate su un sistema di trattamento elettronico dei dati.
 - 20\.3. Il titolare del regime le cui scritture sono basate su un sistema di trattamento elettronico dei dati e che già utilizza distinte di carico speciali può essere autorizzato a utilizzare tali distinte anche per le operazioni di transito comune concernenti un solo tipo di merci, nella misura in cui tale semplificazione sia necessaria in funzione del sistema informatico del suddetto titolare.
@@ -4706,7 +4706,7 @@ Allegato A3 dell’appendice III
 
 ## Modello di documento d’accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image1.png)
 
 Allegato A4 dell’appendice III
 
@@ -5813,7 +5813,7 @@ Allegato B9 dell’appendice III
 
 ## Modello di timbro speciale utilizzato da uno speditore autorizzato
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image2.png)
 
 - 1\. Stemma o altri simboli o lettere che caratterizzano il Paese
 - 2\. Numero di riferimento dell’ufficio doganale di partenza
@@ -5827,7 +5827,7 @@ Allegato B10 dell’appendice III
 ## TC 11 – RICEVUTA
 
 <table>
-<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
+<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
 </table>
 
 Allegato B11 dell’appendice III
@@ -5836,7 +5836,7 @@ Allegato B11 dell’appendice III
 
 (transito per ferrovia)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image4.png)
 
 Allegato C1 dell’appendice III
 
@@ -5973,11 +5973,11 @@ Allegato C3 dell’appendice III
 
 *(recto)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image5.png)
 
 *(verso)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image6.png)
 
 Requisiti tecnici applicabili ai certificati
 
@@ -6716,7 +6716,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di documento di accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image7.png)
 
 Allegato A4 bis dell’appendice III bis
 
@@ -6799,7 +6799,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di elenco degli articoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210601/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210810/it/xml/image/image8.png)
 
 Allegato A6 bis dell’appendice III bis
 
