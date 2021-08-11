@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Vorgezogene Verordnungsrevision Tierarzneimittelrecht
 document: Vernehmlassungsvorlage-2
 language: de

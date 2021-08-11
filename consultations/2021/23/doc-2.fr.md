@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision anticipée d’ordonnances touchant le droit des médicaments vétérinaires
 document: Projet mis en consultation-2
 language: fr

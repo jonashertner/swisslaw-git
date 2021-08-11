@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione anticipata delle ordinanze concernenti il diritto sui medicamenti veterinari
 document: Progetto posto in consultazione
 language: it
