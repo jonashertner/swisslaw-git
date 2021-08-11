@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verkehrszulassungs- und der Strassenverkehrskontrollverordnung
 document: Vernehmlassungsvorlage
 language: de

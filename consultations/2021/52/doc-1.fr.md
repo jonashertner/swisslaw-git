@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance réglant l’admission à la circulation routière et de l’ordonnance sur le contrôle de la circulation routière
 document: Projet mis en consultation
 language: fr

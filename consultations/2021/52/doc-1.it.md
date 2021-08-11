@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica delle ordinanze sull’ammissione alla circolazione e sul controllo della circolazione stradale
 document: Progetto posto in consultazione
 language: it
