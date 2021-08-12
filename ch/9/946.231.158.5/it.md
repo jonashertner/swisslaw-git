@@ -3,18 +3,18 @@ sr: "946.231.158.5"
 title: Ordinanza del 24 giugno 2020 che istituisce provvedimenti nei confronti del Nicaragua
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
 language: it
-version: 2020-08-25
+version: 2021-08-13
 adopted: 2020-06-24
 in_force: 2020-06-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20200825/it/xml/fedlex-data-admin-ch-eli-cc-2020-470-20200825-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20200825/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20210813/it/xml/fedlex-data-admin-ch-eli-cc-2020-470-20210813-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20210813/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Nicaragua
 
-del 24 giugno 2020 (Stato 25 agosto 2020) (Stato 25 agosto 2020)
+del 24 giugno 2020 (Stato 13 agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -140,6 +140,9 @@ Allegato*[^t-1]*
 
 (art. 2 cpv. 1 lett. a, 3 cpv. 1, 4 lett. a e 8)
 
-## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito e imprese e organizzazioni soggette alle sanzioni finanziarie
+## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito e imprese e organizzazioni soggette alle sanzioni finanziarie****
 
-[^t-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’allegato presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
+[^annexu1-lvlu1-1]
+
+[^t-1]: Aggiornato dal n. I dell’O del DEFR del 12 ago. 2021, in vigore dal 13 ago. 2021 ([RU 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)).
+[^annexu1-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’allegato presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.

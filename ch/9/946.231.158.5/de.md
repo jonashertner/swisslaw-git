@@ -3,18 +3,18 @@ sr: "946.231.158.5"
 title: Verordnung vom 24. Juni 2020 über Massnahmen gegenüber Nicaragua
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
 language: de
-version: 2020-08-25
+version: 2021-08-13
 adopted: 2020-06-24
 in_force: 2020-06-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20200825/de/xml/fedlex-data-admin-ch-eli-cc-2020-470-20200825-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20200825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20210813/de/xml/fedlex-data-admin-ch-eli-cc-2020-470-20210813-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20210813/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Nicaragua
 
-vom 24. Juni 2020 (Stand am 25. August 2020)
+vom 24. Juni 2020 (Stand am 13. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -142,4 +142,7 @@ Anhang*[^t-1]*
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
-[^t-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annexu1-lvlu1-1]
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 12. Aug. 2021, in Kraft seit vom 13. Aug. 2021 ([AS 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)).
+[^annexu1-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.

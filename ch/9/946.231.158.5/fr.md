@@ -3,18 +3,18 @@ sr: "946.231.158.5"
 title: "Ordonnance du 24 juin 2020 instituant des mesures à l'encontre du Nicaragua"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/470"
 language: fr
-version: 2020-08-25
+version: 2021-08-13
 adopted: 2020-06-24
 in_force: 2020-06-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20200825/fr/xml/fedlex-data-admin-ch-eli-cc-2020-470-20200825-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20200825/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/470/20210813/fr/xml/fedlex-data-admin-ch-eli-cc-2020-470-20210813-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/470/20210813/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Nicaragua
 
-du 24 juin 2020 (Etat le 25 août 2020)
+du 24 juin 2020 (Etat le 13 août 2021)
 
 Le Conseil fédéral suisse,
 
@@ -140,6 +140,9 @@ Annexe*[^t-1]*
 
 (art. 2, al. 1, let. a, 3, al. 1, 4, let. a, et 8)
 
-## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
+## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières****
 
-[^t-1]: La présente annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annexu1-lvlu1-1]
+
+[^t-1]: Mise à jour par le ch. I de l’O du DEFR du 12 août 2021, en vigueur depuis le 13 août 2021 ([RO 2021 486](https://fedlex.data.admin.ch/eli/oc/2021/486)).
+[^annexu1-lvlu1-1]: La présente annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
