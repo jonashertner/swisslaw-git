@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Verordnung über die Registrierung von Krebserkrankungen (KRV)
 document: Vernehmlassungsvorlage
 language: de

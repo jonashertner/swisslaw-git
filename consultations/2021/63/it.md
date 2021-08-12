@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione dell’Ordinanza sulla registrazione delle malattie tumorali (ORMT)
 document: Progetto posto in consultazione
 language: it

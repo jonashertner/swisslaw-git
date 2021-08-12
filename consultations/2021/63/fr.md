@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’Ordonnance sur l’enregistrement des maladies oncologiques (OEMO)
 document: Projet mis en consultation
 language: fr
