@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification d’ordonnances relevant de l’Office fédéral de l’énergie (OFEN) avec entrée en vigueur le 1er janvier 2022
 document: Projet mis en consultation OSPEX
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifiche di ordinanze nell’ambito dell’Ufficio federale dell’energia (UFE) con entrata in vigore il 1° gennaio 2022
 document: Progetto posto in consultazione OASAE
 language: it
