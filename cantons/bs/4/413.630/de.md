@@ -4,13 +4,13 @@ number: "413.630"
 title: Verordnung über die Abschlüsse an der Fachmaturitätsschule Basel-Stadt
 short: Abschlussverordnung FMS
 language: de
-version: 2019-08-12
-valid_until: 2021-08-15
-version_adopted: 2019-03-19
+version: 2021-08-16
+valid_until: 2023-08-13
+version_adopted: 2021-05-25
 adopted: 2005-04-05
 in_force: 2005-08-15
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/413.630"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4677/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5513/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Abschlussverordnung FMS | Mittelschulen
 
 (Abschlussverordnung FMS)
 
-Vom 5. April 2005 (Stand 12. August 2019)
+Vom 5. April 2005 (Stand 16. August 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -35,13 +35,15 @@ beschliesst:
 
 #### § 1
 
-<sup>1</sup> Die Verordnung regelt die Organisation und Durchführung der Abschlussprüfungen an der Fachmaturitätsschule Basel-Stadt.
+**Gegenstand**
+
+<sup>1</sup> Die Verordnung regelt die Abschlüsse und die Abschlussprüfungen sowie die sonstigen Leistungsnachweise zur Erlangung der Abschlüsse an der Fachmaturitätsschule Basel-Stadt.
 
 <sup>2</sup> …
 
 <sup>3</sup> …
 
-## II. Abschlussprüfungen, selbstständige Arbeit und Fachmaturitätsarbeit
+## II. Abschlussprüfungen, selbstständige Arbeit und Fachmaturitätsarbeit sowie zusätzliche Leistungen für die Fachmaturität
 
 #### § 2
 
@@ -52,6 +54,8 @@ beschliesst:
 <sup>2</sup> Vorgezogene Prüfungen zum Fachmittelschulausweis am Ende des 2. Semesters der 2. Klasse sind in Geographie möglich.
 
 #### § 2a
+
+**Zulassung**
 
 <sup>1</sup> Zu den Abschlussprüfungen werden Schülerinnen und Schüler zugelassen, die den Unterricht der letzten beiden Jahre vor dem Fachmittelschulabschluss regelmässig besucht haben.
 
@@ -67,7 +71,7 @@ beschliesst:
 
 <sup>1</sup> Die Prüfungsleitung obliegt dem Rektorat. Sie ist für die Durchführung der Prüfungen zuständig, entscheidet über die Dispensationen und teilt mit, ob der Fachmittelschulausweis bzw. das Fachmaturitätszeugnis erteilt oder verweigert wird.
 
-<sup>2</sup> Die Prüfungsleitung bestimmt die Modalitäten der Prüfungen, der Praktika, der selbstständigen Arbeit und der Fachmaturitätsarbeit, soweit sie nicht in dieser Verordnung festgelegt sind.
+<sup>2</sup> Die Prüfungsleitung legt die Modalitäten der Prüfungen, der Praktika, der selbstständigen Arbeit und der Fachmaturitätsarbeit sowie die detaillierten Anforderungen an die zusätzlichen Leistungen für die Fachmaturität in einem Reglement fest.
 
 #### § 4
 
@@ -173,6 +177,8 @@ beschliesst:
 
 #### § 14
 
+**Zustandekommen der Noten der geprüften Fächer**
+
 <sup>1</sup> Die Erfahrungsnote eines geprüften Faches ist das ungerundete arithmetische Mittel aus den letzten beiden Zeugnisnoten des betreffenden Faches. Bei geprüften Fächerkombinationen ist die Erfahrungsnote das ungerundete arithmetische Mittel der jeweils zwei letzten Zeugnisnoten beider Fächer.
 
 <sup>2</sup> Die Prüfungsnote ist die Note der praktischen Prüfung, der schriftlichen Prüfung oder das ungerundete arithmetische Mittel aus der schriftlichen und mündlichen Prüfung.
@@ -190,6 +196,8 @@ beschliesst:
 <sup>3</sup> Als Note wird in den nicht geprüften Fächern die Erfahrungsnote des entsprechenden Faches in den Fachmittelschulausweis eingetragen.
 
 #### § 16
+
+**Zustandekommen der Noten der nicht geprüften Fächer**
 
 <sup>1</sup> Die Erfahrungsnote ist das arithmetische Mittel der beiden letzten Zeugnisnoten im betreffenden Fach.
 
@@ -227,15 +235,17 @@ beschliesst:
 
 <sup>3</sup> Wer den Abgabetermin aus triftigem Grunde nicht einhalten kann, hat vor Ablauf des Abgabetermins ein Gesuch um Fristverlängerung an die Prüfungsleitung einzureichen. Nicht oder zu spät eingereichte selbstständige Arbeiten bzw. Fachmaturitätsarbeiten werden mit der Note 1 bewertet. Bei zu spät eingereichten selbstständigen Arbeiten bzw. Fachmaturitätsarbeiten bleiben begründete Ausnahmen vorbehalten.
 
+<sup>4</sup> Wer die Präsentation der Fachmaturitätsarbeit aus triftigen Gründen nicht antreten kann, hat dies der Prüfungsleitung umgehend mitzuteilen und im Falle von gesundheitlichen Gründen umgehend ein Arztzeugnis einzureichen. Ohne triftigen Grund nicht angetretene Präsentationen werden mit der Note 1 bewertet.
+
 #### § 20
 
-**Bestehensnormen**
+**Bestehen des Fachmittelschulabschlusses**
 
-<sup>1</sup> Der Fachmittelschulausweis wird erteilt, wenn gleichzeitig[^20-1]
+<sup>1</sup> Der Fachmittelschulausweis wird erteilt, wenn[^20-1]:
 
 - a) der Durchschnitt aus allen Abschlussnoten inkl. der Note der selbstständigen Arbeit 4,0 erreicht
 - b) höchstens drei Noten ungenügend sind
-- c) die Summe aller Notenabweichungen von 4,0 nach unten nicht mehr als 2,0 beträgt
+- c) die Summe aller Notenabweichungen von 4,0 nach unten nicht mehr als 2,0 beträgt und
 - d) die Besonderen Schulanlässe (Projektwoche, Land- und Sozialpraktikum, Kulturprojekt, berufsfeldbezogenes Praktikum, Studienreise) absolviert worden sind.
 
 <sup>2</sup> Dispensationen haben keinen Einfluss auf das Bestehen.
@@ -252,7 +262,7 @@ beschliesst:
 
 #### § 22
 
-**Abschlusskonferenz/Fachmaturitätskonferenz, Validierung der Noten**
+**Abschlusskonferenz, Validierung der Noten**
 
 <sup>1</sup> Nach der Prüfung führt die Prüfungsleitung mit den Examinatorinnen und Examinatoren, den Expertinnen und Experten, den Betreuungspersonen der selbstständigen Arbeiten sowie denjenigen Lehrkräften, die in den nicht geprüften Fächern den abschliessenden Unterricht erteilt haben, eine Abschlusskonferenz durch.
 
@@ -262,7 +272,9 @@ beschliesst:
 
 #### § 23
 
-<sup>1</sup> Nach dem Erbringen der praktischen Leistungen bzw. dem Nachweis der ergänzten Allgemeinbildung und dem Erstellen der Fachmaturitätsarbeiten führt die Prüfungsleitung mit den Betreuungspersonen und Expertinnen und Experten der Fachmaturitätsarbeiten sowie den Lehrpersonen der erweiterten Allgemeinbildung eine Fachmaturitätskonferenz durch.
+**Fachmaturitätskonferenz, Validierung der Noten**
+
+<sup>1</sup> Nach dem Erbringen der zusätzlichen Leistungen und dem Erstellen der Fachmaturitätsarbeiten führt die Prüfungsleitung mit den Betreuungspersonen und Expertinnen und Experten der Fachmaturitätsarbeiten sowie den Lehrpersonen der erweiterten Allgemeinbildung eine Fachmaturitätskonferenz durch.
 
 <sup>2</sup> An der Fachmaturitätskonferenz werden die Leistungsbewertungen für die Fachmaturität überprüft und validiert.
 
@@ -286,7 +298,7 @@ beschliesst:
 
 <sup>1</sup> Die Prüfungsleitung ist über das Fernbleiben oder den Rücktritt einer Schülerin oder eines Schülers von den Abschlussprüfungen umgehend zu benachrichtigen.
 
-<sup>2</sup> Kann eine Schülerin oder ein Schüler aus gesundheitlichen Gründen an einer Abschlussprüfung nicht teilnehmen oder tritt eine Schülerin oder ein Schüler während einer Prüfung aus gesundheitlichen Gründen von dieser zurück, ist ein ärztliches Zeugnis beizubringen.
+<sup>2</sup> Kann eine Schülerin oder ein Schüler aus gesundheitlichen Gründen an einer Abschlussprüfung nicht teilnehmen oder tritt eine Schülerin oder ein Schüler während einer Prüfung aus gesundheitlichen Gründen von dieser zurück, ist umgehend ein ärztliches Zeugnis beizubringen.
 
 <sup>3</sup> Der Fachmittelschulausweis wird verweigert, wenn eine Schülerin oder ein Schüler ohne ausreichende Begründung einer Abschlussprüfung fernbleibt oder von einer begonnenen Abschlussprüfung zurücktritt.
 
@@ -294,7 +306,7 @@ beschliesst:
 
 #### § 26
 
-**Wiederholung von Abschlusselementen zur Erlangung des Fachmittelschulausweises bzw. der Fachmaturität**
+**Wiederholung von Abschlusselementen zur Erlangung des Fachmittelschulausweises**
 
 <sup>1</sup> Wer die Bedingungen für die Erlangung des Fachmittelschulausweises nicht erfüllt hat, kann entweder das letzte Schuljahr und die Prüfungen oder nur die Prüfungen oder nur die selbstständige Arbeit wiederholen.
 
@@ -310,7 +322,9 @@ beschliesst:
 
 #### § 27
 
-<sup>1</sup> Wer nach dem Erwerb des Fachmittelschulausweises die Bedingungen für die Erlangung der Fachmaturität nicht erfüllt hat, kann die praktischen Leistungen bzw. den Nachweis über die erweiterte Allgemeinbildung nochmals erbringen und/oder eine neue Fachmaturitätsarbeit erstellen.
+**Wiederholung von Prüfungsleistungen zur Erlangung der Fachmaturität**
+
+<sup>1</sup> Wer nach dem Erwerb des Fachmittelschulausweises die Bedingungen für die Erlangung der Fachmaturität nicht erfüllt hat, kann die zusätzlichen Leistungen nochmals erbringen und/oder eine neue Fachmaturitätsarbeit erstellen.
 
 <sup>2</sup> Zur Erlangung der Fachmaturität sind maximal zwei Versuche zulässig.
 
@@ -327,7 +341,7 @@ beschliesst:
 - e) die Abschlussnoten der berufsfeldbezogenen Fächer,
 - f) den Titel und die Note der selbstständigen Arbeit,
 - g) die Besonderen Schulanlässe (Projektwoche, Kulturprojekt, Studienreise) mit Prädikat,
-- h) die Bestätigung des absolvierten Land- und Sozialpraktikums,
+- h) die Bestätigung der absolvierten allgemeinen Praxiswochen,
 - i) die Bestätigung des berufsfeldbezogenen Praktikums,
 - j) das Ausstellungsdatum des Fachmittelschulausweises,
 - k) die Unterschriften der Vorsteherin bzw. des Vorstehers des Erziehungsdepartementes und der Rektorin oder des Rektors der Fachmaturitätsschule.
@@ -336,7 +350,7 @@ beschliesst:
 
 #### § 29
 
-<sup>1</sup> Der Fachmittelschulausweis enthält:
+<sup>1</sup> Das Fachmaturitätszeugnis enthält:
 
 - a) die Bezeichnung der Schule und die gewählte Fachrichtung,
 - b) den Vermerk «gesamtschweizerisch anerkannter Fachmaturität»,
@@ -346,9 +360,9 @@ beschliesst:
 - f) den Titel und die Note der selbstständigen Arbeit,
 - g) den Titel und die Note der Fachmaturitätsarbeit,
 - h) die Besonderen Schulanlässe (Projektwoche, Kulturprojekt, Studienreise) mit Prädikat,
-- i) die Bestätigung des absolvierten Land- und Sozialpraktikums,
-- j) die Bestätigung des absolvierten berufsspezifischen Praktikums,
-- k) die Beurteilung des fachrichtungsspezifischen Praktikums bzw. der zusätzlichen Allgemeinbildung für den Zugang an eine Pädagogische Hochschule,
+- i) die Bestätigung der absolvierten allgemeinen Praxiswochen,
+- j) die Bestätigung und Beurteilung der absolvierten zusätzlichen Leistungen,
+- k) …
 - l) das Ausstellungsdatum der Fachmaturität,
 - m) die Unterschriften der Vorsteherin bzw. des Vorstehers des Erziehungsdepartementes und der Rektorin oder des Rektors der Fachmaturitätsschule.
 
