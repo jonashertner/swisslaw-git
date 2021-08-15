@@ -4,13 +4,13 @@ number: "410.700"
 title: Verordnung über die Beurteilung und die Schullaufbahnentscheide der Schülerinnen und Schüler der Volksschule und der weiterführenden Schulen
 short: "Schullaufbahnverordnung, SLV"
 language: de
-version: 2019-08-12
-valid_until: 2021-08-15
-version_adopted: 2019-06-18
+version: 2021-08-16
+valid_until: 2022-08-14
+version_adopted: 2021-05-25
 adopted: 2012-09-11
 in_force: 2013-08-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4678/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5312/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Schullaufbahnverordnung | Schulen
 
 (Schullaufbahnverordnung, SLV)
 
-Vom 11. September 2012 (Stand 12. August 2019)
+Vom 11. September 2012 (Stand 16. August 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -472,7 +472,7 @@ beschliesst:
 <sup>4</sup> Am Standortgespräch nehmen teil:
 
 - a) die zuständige Lehrperson;
-- b) die Schülerinnen und Schüler: im 3. und 4. Schuljahr auf Wunsch, ab dem 5. Schuljahr obligatorisch;
+- b) die Schülerinnen und Schüler: vom 1. bis 4. Schuljahr auf Wunsch, ab dem 5. Schuljahr obligatorisch;
 - c) die Erziehungsberechtigten: bis zum 12. Schuljahr immer, ab dem 13. Schuljahr auf Wunsch der Schülerinnen und Schüler oder des Lehrpersonenteams;
 - d) in der BM für die lehrbegleitende Ausbildung (BM 1) die Berufsbildnerinnen und -bildner.
 
@@ -820,6 +820,14 @@ Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ergibt m
 
 <sup>2</sup> Die Schülerinnen und Schüler, welche die freiwillige Aufnahmeprüfung nach § 57b Abs. 2 des Schulgesetzes bestanden haben, können definitiv in die entsprechende weiterführende Schule übertreten. Die freiwillige Aufnahmeprüfung findet in der ersten Hälfte des zweiten Semesters des 11. Schuljahres statt.
 
+#### § 68a
+
+**Verfahren in nachobligatorischen berufsvorbereitenden Angeboten für den Übertritt in die FMS, IMS, WMS und BM**
+
+<sup>1</sup> Absolventinnen und Absolventen der Volksschule, die ein berufsvorbereitendes Angebot besuchen, können in sinngemässer Anwendung von § 57b Abs. 2 des Schulgesetzes in der zweiten Hälfte des Vorbereitungsjahres die freiwillige Aufnahmeprüfung absolvieren.
+
+<sup>2</sup> Sie können, wenn sie die freiwillige Aufnahmeprüfung bestanden haben, in die FMS provisorisch, in die IMS, WMS und BM definitiv übertreten.
+
 #### § 69
 
 **Berechtigung für den Übertritt in das Gymnasium**
@@ -1041,7 +1049,7 @@ Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ergibt m
 
 #### § 88
 
-<sup>1</sup> Die Lernberichte werden aufgrund der Angaben der zuständigen Lehrperson ausgefertigt, von der zuständigen Lehrperson unterzeichnet und den Schülerinnen und Schülern abgegeben.
+<sup>1</sup> Die Lernberichte werden aufgrund der Angaben der zuständigen Lehrperson ausgefertigt und den Schülerinnen und Schülern abgegeben.
 
 <sup>2</sup> Die am Standortgespräch teilnehmenden Schülerinnen und Schüler und Erziehungsberechtigten haben mit ihrer Unterschrift auf dem Lernbericht zu bestätigen, dass das Standortgespräch stattgefunden hat und sie den Lernbericht zur Kenntnis genommen haben.
 
