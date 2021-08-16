@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.35"
 title: "Verordnung über die Massnahmen des Wiederankurbelungsplans zur Bewältigung der Auswirkungen der COVID-19-Epidemie im Zuständigkeitsbereich der Direktion für Erziehung, Kultur und Sport"
 language: de
-version: 2021-07-01
-valid_until: 2021-08-16
-version_adopted: 2021-06-28
+version: 2021-08-17
+valid_until: 2021-12-31
+version_adopted: 2021-08-17
 adopted: 2020-11-24
 in_force: 2020-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.35"
-pdf: "https://bdlf.fr.ch/api/de/versions/6879/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6896/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6879/pdf_file"
 
 COVID-19, Wiederankurbelungsplan – EKSD-Massnahmen – V
 
-vom 24.11.2020 (Fassung in Kraft getreten am 01.07.2021)
+vom 24.11.2020 (Fassung in Kraft getreten am 17.08.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -281,10 +281,10 @@ beschliesst:
 
 <sup>1</sup> Für den Vollzug dieser Verordnung werden zwei Fonds geschaffen:
 
-- a) ein Fonds von 8'750'000 Franken für die Finanzhilfen, der zur Hälfte vom Bund (Art. 11 Abs. 3 des COVID-19-Gesetzes des Bundes) und zur Hälfte vom Staat gespiesen wird;
+- a) ein Fonds von 17'990'000 Franken für die Finanzhilfen, der zur Hälfte vom Bund (Art. 11 Abs. 3 des Covid-19-Gesetzes des Bundes) und zur Hälfte vom Staat gespiesen wird;
 - b) ein Fonds für die zusätzlichen kantonalen Unterstützungsbeiträge (Art. 22b), zu dem der Staat 25'000 Franken und die kantonale Kommission der Loterie Romande 175'000 Franken beisteuert, wobei ein allfälliger Restbetrag an diese zurückfliesst.
 
-<sup>2</sup> Der Anteil des Staates an diesen beiden Fonds wird aus dem Wiederankurbelungsfonds, mit dem Betrag von 4'400'000 für den Kulturbereich gemäss Dekret, finanziert.
+<sup>2</sup> Der Anteil des Staates an diesen beiden Fonds wird aus dem Wiederankurbelungsfonds, mit dem Betrag von 4'400'000 für den Kulturbereich gemäss Dekret, finanziert. Dieser Betrag wurde per Staatsratsbeschluss vom 26. Mai 2021 um 4'620'000 Franken aufgestockt.
 
 ## 5 Massnahmen im Bereich des Sports
 

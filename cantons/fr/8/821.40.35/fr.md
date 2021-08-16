@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.35"
 title: "Ordonnance relative aux mesures du plan de relance pour contrer les effets du coronavirus relevant de la Direction de l'instruction publique, de la culture et du sport"
 language: fr
-version: 2021-07-01
-valid_until: 2021-08-16
-version_adopted: 2021-06-28
+version: 2021-08-17
+valid_until: 2021-12-31
+version_adopted: 2021-08-17
 adopted: 2020-11-24
 in_force: 2020-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.35"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6879/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6896/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6879/pdf_file"
 
 COVID-19, plan de relance – Mesures DICS – O
 
-du 24.11.2020 (version entrée en vigueur le 01.07.2021)
+du 24.11.2020 (version entrée en vigueur le 17.08.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -281,10 +281,10 @@ Arrête:
 
 <sup>1</sup> Deux fonds sont créés pour l'application de la présente ordonnance:
 
-- a) un fonds de 8'750'000 francs pour les aides financières, alimenté pour moitié par la Confédération (art. 11 al. 3 de la loi fédérale COVID-19) et pour moitié par l'Etat;
+- a) un fonds de 17'990'000 francs pour les aides financières, alimenté pour moitié par la Confédération (art. 11 al. 3 de la loi fédérale COVID-19) et pour moitié par l'Etat;
 - b) un fonds pour des soutiens cantonaux supplémentaires (art. 22b), alimenté par l'Etat à raison de 25'000 francs ainsi que par la Commission cantonale de la Loterie romande à raison de 175'000 francs, étant précisé qu'un éventuel solde lui sera restitué.
 
-<sup>2</sup> La part de l'Etat à ces deux fonds est financée par le fonds de relance, dans la limite du montant de 4'400'000 francs prévu pour le domaine de la culture par le décret.
+<sup>2</sup> La part de l'Etat à ces deux fonds est financée par le fonds de relance, dans la limite du montant de 4'400'000 francs prévu pour le domaine de la culture par le décret. Par arrêté du Conseil d'Etat du 26 mai 2021, ce montant a été complété de 4'620'000 francs.
 
 ## 5 Mesures dans le domaine du sport
 
