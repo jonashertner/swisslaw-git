@@ -4,72 +4,61 @@ number: "213.500"
 title: Ordinanza sullo stato civile del Cantone dei Grigioni
 short: OSCC
 language: it
-version: 2013-01-01
-corrected: 2014-10-09
-version_adopted: 2012-12-11
+version: 2018-07-01
+corrected: 2021-08-17
+version_adopted: 2018-02-20
 adopted: 2007-03-20
 in_force: 2007-04-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/213.500"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1697/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/2896/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza sullo stato civile del Cantone dei Grigioni (OSCC)
+# Ordinanza sullo stato civile del Cantone dei Grigioni
+
+(OSCC)
+
+del 20.03.2007 (stato 01.07.2018)
 
 emanata dal Governo il 20 marzo 2007
 
-visti l'art. 45 della Costituzione cantonale[^t-1] e l'art. 20 della legge d'introduzione al Codice civile svizzero[^t-2]
+visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 20 della legge d'introduzione al Codice civile svizzero[^ingress-2]
 
-I. Disposizioni generali
+[^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-2]: CSC [210.100](https://www.gr-lex.gr.ch/data/210.100/it)
 
-[^t-1]: CSC 110.100
-[^t-2]: CSC 210.100
+## 1. Disposizioni generali
 
 #### Art. 1
 
 **Circondari dello stato civile**
 
-<sup>1</sup> I comuni e i circoli politici che formano un circondario dello stato civile disciplinano tramite accordi amministrativi la sede, il nome, l'organizzazione e la ripartizione delle spese amministrative. Gli accordi sono soggetti all'approvazione del Governo.
+<sup>1</sup> L'ente responsabile di un circondario dello stato civile (ente responsabile) disciplina l'organizzazione e la ripartizione delle spese amministrative in un accordo. Tale accordo va portato a conoscenza dell'autorità cantonale di vigilanza.
 
-<sup>2</sup>[^1-1]Vengono definiti circondari dello stato civile:
+<sup>2</sup> Vengono definiti circondari dello stato civile:
 
-- 1\. Albula-Davos con sede a Davos e ufficio a Tiefencastel, comprendente i Circoli di Alvaschein, Belfort, Bergün, Davos e Surses;
-
-- 2\. Cadi con sede a Trun, comprendente il Circolo di Disentis;
-
-- 3\. Inn/En con sede a Ramosch, comprendente i Circoli di Ramosch, Suot Tasna, Sur Tasna e Val Müstair;
-
-- 4\. Hinterrhein con sede a Cazis, comprendente i Circoli di Avers, Domleschg, Rheinwald, Schams e Thusis;
-
-- 5\. Ilanz con sede a Ilanz, comprendente i Circoli di Ilanz, Ruis e Safien;
-
-- 6\. Imboden con sede a Domat/Ems, comprendente i Circoli di Rhäzüns e Trins;
-
-- 7\. Landquart con sede a Landquart, comprendente i Circoli di Fünf Dörfer e Maienfeld;
-
-- 8\. Lumnezia/Lugnez con sede a Camuns, comprendente il Circolo di Lumnezia/Lugnez;
-
-- 9\. Moesano con sede a Sta. Maria i.C., comprendente i Circoli di Calanca, Mesocco e Roveredo;
-
-- 10\. Engadina Alta/Bregaglia con sede a St. Moritz, comprendente i Circoli di Bregaglia e dell'Engadina Alta;
-
-- 11\. Plessur con sede a Coira, comprendente i Circoli di Coira, Churwalden e Schanfigg;
-
-- 12\. Prettigovia con sede a Schiers, comprendente i Circoli di Jenaz, Klosters, Küblis, Luzein, Schiers e Seewis;
-
-- 13\. Valposchiavo con sede a Poschiavo, comprendente i Circoli di Brusio e Poschiavo.
-
-[^1-1]: Testo giusta DG del 20 dicembre 2011; entrato in vigore il 1° gennaio 2012 1.1.2013 1
+- 1\. Albula con sede dell'ufficio a Tiefencastel, comprendente la Regione Albula;
+- 2\. Imboden con sede dell'ufficio a Domat/Ems, comprendente la Regione Imboden;
+- 3\. Inn/En con sede dell'ufficio a Scuol, comprendente la Regione Engiadina Bassa/Val Müstair;
+- 4\. Landquart con sede dell'ufficio a Landquart, comprendente la Regione Landquart;
+- 5\. Maloja con sede dell'ufficio a St. Moritz, comprendente la Regione Maloja;
+- 6\. Moesa con sede dell'ufficio a Sta. Maria i.C., comprendente la Regione Moesa;
+- 7\. Plessur con sede dell'ufficio a Coira, comprendente la Regione Plessur;
+- 8\. Prättigau/Davos con sede dell'ufficio a Davos, comprendente la Regione Prättigau/Davos;
+- 9\. Surselva con sede dell'ufficio a Ilanz/Glion, comprendente la Regione Surselva;
+- 10\. Bernina con sede dell'ufficio a Poschiavo, comprendente la Regione Bernina;
+- 11\. Viamala con sede dell'ufficio a Cazis, comprendente la Regione Viamala.
+- 12\. …
+- 13\. …
 
 #### Art. 2
 
 **Lingua ufficiale**
 
-<sup>1</sup> La lingua ufficiale corrisponde alla lingua della comunità linguistica autoctona del circondario dello stato civile. Le lingue ufficiali di un circondario dello stato civile plurilingue corrispondono alle lingue ufficiali dei comuni e circoli politici che formano il circondario dello stato civile.
+<sup>1</sup> La lingua ufficiale corrisponde alla lingua della comunità linguistica autoctona del circondario dello stato civile. Le lingue ufficiali di un circondario dello stato civile plurilingue corrispondono alle lingue ufficiali dell'ente responsabile.
 
-<sup>2</sup> Gli estratti di precedenti registri dei cittadini, delle famiglie e dei registri particolari vengono redatti nella lingua ufficiale dell'ufficio dello stato civile competente. In circondari dello stato civile plurilingui gli estratti devono essere redatti in una lingua ufficiale, secondo il desiderio del richiedente.
+<sup>2</sup> …
 
 <sup>3</sup> In un circondario dello stato civile monolingue con romancio quale lingua ufficiale, su richiesta del richiedente gli estratti devono essere redatti in tedesco.
 
@@ -77,13 +66,13 @@ I. Disposizioni generali
 
 **Ufficiale dello stato civile 1. Attestato professionale**
 
-Gli ufficiali dello stato civile che non sono in possesso dell'attestato professionale richiesto dal diritto federale, devono conseguirlo entro tre anni dalla nomina. In casi eccezionali motivati, l'autorità cantonale di vigilanza può prolungare questo termine.
+<sup>1</sup> Gli ufficiali dello stato civile che non sono in possesso dell'attestato professionale richiesto dal diritto federale, devono conseguirlo entro tre anni dalla nomina. In casi eccezionali motivati, l'autorità cantonale di vigilanza può prolungare questo termine.
 
 #### Art. 4
 
 **2. Supplenza**
 
-<sup>1</sup> Con il consenso dei comuni e circoli politici che formano un circondario dello stato civile, un ufficiale dello stato civile può essere nominato supplente di un altro circondario dello stato civile.
+<sup>1</sup> Con il consenso dell'ente responsabile, a un ufficiale dello stato civile può essere affidata la supplenza per un altro circondario dello stato civile.
 
 <sup>2</sup> Se esistono circostanze particolari l'autorità cantonale di vigilanza designa un supplente straordinario. La sfera di attività può essere adeguata alle circostanze particolari.
 
@@ -99,101 +88,92 @@ Gli ufficiali dello stato civile che non sono in possesso dell'attestato profess
 
 **Locali e orari d'apertura**
 
-<sup>1</sup> I comuni e circoli politici che formano un circondario dello stato civile mettono a disposizione dell'ufficio dello stato civile perlomeno un locale dignitoso per lo svolgimento di matrimoni e per la documentazione di
+<sup>1</sup> L'ente responsabile mette a disposizione dell'ufficio dello stato civile perlomeno un locale dignitoso per lo svolgimento di matrimoni e per la documentazione di unioni domestiche registrate, nonché locali adeguati per le altre attività dello stato civile.
 
-**2**
+<sup>2</sup> Esso stabilisce gli orari d'apertura dell'ufficio dello stato civile e gli orari nei quali è possibile unire in matrimonio gli sposi e documentare unioni domestiche registrate.
 
-1.1.2013 unioni domestiche registrate, nonché locali adeguati per le altre attività dello stato civile.
-
-<sup>2</sup> Essi stabiliscono gli orari d'apertura dell'ufficio dello stato civile e gli orari nei quali è possibile unire in matrimonio gli sposi e documentare unioni domestiche registrate.
-
-<sup>3</sup>[^6-1]Essi fissano un sabato al mese nel quale è possibile celebrare matrimoni e documentare unioni domestiche registrate. I locali designati vanno considerati a seconda del bisogno. In caso di controversie decide l'autorità di vigilanza.
-
-[^6-1]: Introduzione giusta DG del 23 febbraio 2010; entrata in vigore il 1° aprile 2010
-[^6-2]: Introduzione giusta DG del 21 dicembre 2010; entrata in vigore il 1° gennaio 1.1.2013 3
+<sup>3</sup> Esso fissa un sabato al mese nel quale è possibile celebrare matrimoni e documentare unioni domestiche registrate. I locali designati vanno considerati a seconda del bisogno. In caso di controversie decide l'autorità di vigilanza.
 
 #### Art. 6a
 
-**Esenzione da tasse**[^6-2]
+**Esenzione da tasse**
 
-<sup>1</sup> I comuni politici e i circoli che costituiscono un circondario dello stato civile possono prevedere che la tassa per matrimoni e per la documentazione di unioni domestiche registrate, come pure per la trasferta di servizio effettuata a questo proposito venga interamente o parzialmente condonata.
+<sup>1</sup> L'ente responsabile può stabilire che la tassa per matrimoni e per la documentazione di unioni domestiche registrate, come pure per la trasferta di servizio effettuata a questo proposito venga interamente o parzialmente condonata.
 
-<sup>2</sup> L'esenzione da tasse va disciplinata nell'accordo.
+<sup>2</sup> …
 
 #### Art. 7
 
 **Sicurezza dei dati**
 
-I comuni e circoli politici che formano un circondario dello stato civile provvedono a una conservazione sicura dei registri, dei documenti giustificativi e dei supporti elettronici di dati.
+<sup>1</sup> L'ente responsabile provvede a una conservazione sicura dei registri, dei documenti giustificativi e dei supporti elettronici di dati.
+
+#### Art. 7a
+
+**Accesso al registro centrale delle persone e degli oggetti**
+
+<sup>1</sup> L'ufficio dello stato civile può accedere ai dati di cui necessita per adempiere i compiti attribuitigli dalla legge. Il diritto d'accesso non si estende a dati personali degni di particolare protezione o a profili della personalità.
+
+<sup>2</sup> L'accesso ai dati può avvenire tramite una procedura di richiamo. Sono possibili interrogazioni di massa.
+
+<sup>3</sup> Per il resto si applicano le disposizioni della legge sui registri degli abitanti e su altri registri delle persone e degli oggetti[^7a-1].
+
+[^7a-1]: CSC [171.200](https://www.gr-lex.gr.ch/data/171.200/it)
 
 #### Art. 8
 
 **Costi 1. Costi di gestione Infostar**
 
-I costi di gestione e di ammortamento fatturati dalla Confederazione per l'utilizzo della banca dati dello stato civile vengono prima finanziati dal Cantone e in seguito addebitati ai circondari dello stato civile in proporzione al numero dei loro abitanti.
+<sup>1</sup> I costi di gestione e di ammortamento fatturati dalla Confederazione per l'utilizzo della banca dati dello stato civile vengono prima finanziati dal Cantone e in seguito addebitati ai circondari dello stato civile in proporzione al numero dei loro abitanti.
 
 #### Art. 9
 
 **2. Trasferimento di iscrizioni a registro**
 
-La tariffa oraria per il trasferimento nel registro dello stato civile informatizzato di iscrizioni a registro grossolanamente errate ammonta a 60 franchi.
+<sup>1</sup> La tariffa oraria per il trasferimento nel registro dello stato civile informatizzato di iscrizioni a registro grossolanamente errate ammonta a 60 franchi.
 
-### II. Attività
+## 2. Attività
 
 #### Art. 10
 
 **Documentazione 1. Competenza**
 
-Sono competenti per la documentazione di cambiamenti dello stato civile:
+<sup>1</sup> Sono competenti per la documentazione di cambiamenti dello stato civile:
 
 - a) l'ufficio dello stato civile competente per il luogo di attinenza per:
-
-- decisioni estere,
-
-- documenti esteri,
-
-- decisioni amministrative della Confederazione;
-
-- cambiamenti di nome in caso di domicilio all'estero;
-
-- naturalizzazioni (nel nuovo luogo di attinenza);
-
-- svincoli dall'attinenza (nel precedente luogo di attinenza);
-
-–[^10-1]curatele generali e loro annullamento;
-
+  - 1\. decisioni estere,
+  - 2\. documenti esteri,
+  - 3\. decisioni amministrative della Confederazione;
+  - 4\. …
+  - 5\. naturalizzazioni (nel nuovo luogo di attinenza);
+  - 6\. svincoli dall'attinenza (nel precedente luogo di attinenza);
+  - 7\. curatele generali e loro annullamento;
 - b) l'ufficio dello stato civile competente nel luogo della decisione per:
+  - 1\. sentenze giudiziarie emanate in Svizzera (nella sede del tribunale di prima istanza);
+  - 2\. cambiamenti di nome;
+  - 3\. riconoscimenti testamentari di bambini;
+  - 4\. decisioni d'adozione delle autorità di protezione dei minori e degli adulti.
 
-- sentenze giudiziarie emanate in Svizzera (nella sede del tribunale di prima istanza);
-
-- cambiamenti di nome in caso di domicilio nel Cantone;
-
-- riconoscimenti testamentari di bambini.
-
-[^10-1]: Testo giusta art. 39 O relativa alla protezione dei minori e degli adulti; CSC 215.010; entrato in vigore il 1° gennaio 2013
-[^10-2]: Testo giusta DG del 23 febbraio 2010; entrato in vigore il 1° aprile 2010
+<sup>2</sup> Negli altri casi la competenza spetta all'ufficio dello stato civile del domicilio dell'interessato oppure all'ufficio dello stato civile che dovrà in seguito procedere a un ulteriore atto d'ufficio.
 
 #### Art. 11
 
-**2. Comunicazione di decisioni giudiziarie e amministrative**[^10-2]
+**2. Comunicazione di decisioni giudiziarie e amministrative**
 
-I tribunali e le autorità amministrative comunicano immediatamente all'ufficio dello stato civile competente secondo l'articolo 10 le loro decisioni passate in giudicato che comportano una modifica dello stato civile (art. 43 cpv. 3 e 5 OSC[^11-1]).
+<sup>1</sup> I tribunali e le autorità amministrative comunicano immediatamente all'ufficio dello stato civile competente secondo l'articolo 10 le loro decisioni passate in giudicato che comportano una modifica dello stato civile (art. 43 cpv. 3 e 5 OSC[^11-1]).
 
-[^11-1]: RS 211.112.2
+[^11-1]: RS [211.112.2](https://db.clex.ch/link/Bund/211.112.2/it)
 
 #### Art. 12
 
 **Partecipazione dell'autorità cantonale di vigilanza 1. Fatti di stato civile in Svizzera con un legame con l'estero**
 
-<sup>1</sup>[^12-1]L'ufficio dello stato civile sottopone all'autorità cantonale di vigilanza gli atti per esame, qualora una persona straniera venga iscritta nel registro dello stato civile. L'autorità di vigilanza può:
+<sup>1</sup> L'ufficio dello stato civile sottopone all'autorità cantonale di vigilanza gli atti per esame, qualora una persona straniera venga iscritta nel registro dello stato civile. L'autorità di vigilanza può:
 
 - a) stabilire eccezioni all'obbligo di esame degli atti;
-
 - b) sottoporre altri casi all'obbligo di esame degli atti.
 
 <sup>2</sup> L'autorità cantonale di vigilanza può esonerare totalmente o parzialmente da questo obbligo un ufficio dello stato civile.
-
-[^12-1]: Testo giusta DG del 21 dicembre 2010; entrato in vigore il 1° gennaio 2011 4 1.1.2013
 
 #### Art. 13
 
@@ -205,39 +185,51 @@ I tribunali e le autorità amministrative comunicano immediatamente all'ufficio 
 
 #### Art. 14
 
-**Pubblicazione di fatti di stato civile**
+**…**
 
-La pubblicazione di fatti di stato civile è ammissibile nei limiti dell'articolo 57 OSC[^14-1].
+#### Art. 14a
 
-[^14-1]: RS 211.112.2
+**Indicazione dell'origine in caso di attinenza (aggiunta tra parentesi) 1. Richiesta**
+
+<sup>1</sup> Richieste secondo l'articolo 71 capoverso 3 della legge sui comuni del Cantone dei Grigioni[^14a-1] devono essere presentate su modulo ufficiale, allegando una fotocopia del passaporto o della carta d'identità, all'ufficio dello stato civile competente per il luogo di attinenza. Persone non residenti nel Cantone dei Grigioni devono inoltre allegare un certificato di domicilio.
+
+<sup>2</sup> I coniugi o le persone che vivono in unione domestica registrata possono presentare richiesta congiunta, se il comune di attinenza precedente che deve essere iscritto tra parentesi è lo stesso.
+
+<sup>3</sup> I figli possono essere inclusi nella richiesta dei genitori o di un genitore, se:
+
+- a) al momento della presentazione della richiesta sono minorenni;
+- b) hanno la stessa attinenza dei genitori richiedenti o del genitore richiedente; e
+- c) è dato il consenso di chi detiene l'autorità parentale.
+
+<sup>4</sup> A partire da 16 anni compiuti, i figli minorenni devono dichiarare per iscritto la propria volontà.
+
+[^14a-1]: CSC [175.050](https://www.gr-lex.gr.ch/data/175.050/it)
+
+#### Art. 14b
+
+**2. Emolumenti**
+
+<sup>1</sup> L'emolumento in caso di accoglimento della richiesta ammonta a 75 franchi per una persona singola e a 10 franchi di supplemento per ogni persona inclusa in una richiesta congiunta.
+
+<sup>2</sup> Per il resto sono applicabili le disposizioni dell'ordinanza sulle spese nelle procedure amministrative[^14b-1].
+
+[^14b-1]: CSC [370.120](https://www.gr-lex.gr.ch/data/370.120/it)
 
 #### Art. 15
 
 **Procedura di ricorso**
 
-La procedura di ricorso si conforma alle disposizioni della legge sulla giustizia amministrativa[^15-1] relative al ricorso amministrativo.
+<sup>1</sup> La procedura di ricorso si conforma alle disposizioni della legge sulla giustizia amministrativa[^15-1] relative al ricorso amministrativo.
 
-[^15-1]: CSC 370.100
+[^15-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
-### III. Disposizioni finali
+## 3. Disposizioni finali
 
 #### Art. 16
 
-**Modifica del diritto previgente**
+**Modifica del diritto previgente[^16-1]**
 
-L'ordinanza sulla delegazione di competenze del Governo ai dipartimenti del 22 dicembre 1969[^16-1] viene modificata come segue:
-
-[^16-1]: CSC 170.340
-
-### Titolo
-
-### Ordinanza sulla delega di competenze del Governo ai Dipartimenti e agli uffici
-
-#### Art. 1
-
-**cpv. 1**
-
-Le seguenti pratiche elencate nell'articolo 15 della legge d'introduzione del 12 giugno 1994 al Codice civile svizzero vengono affidate per il disbrigo all'Ufficio per questioni di polizia e di diritto civile:
+[^16-1]: Le modifiche del diritto previgente non vengono indicate.
 
 #### Art. 17
 
@@ -247,4 +239,6 @@ Le seguenti pratiche elencate nell'articolo 15 della legge d'introduzione del 12
 
 <sup>2</sup> A questa data viene abrogata l'ordinanza sullo stato civile (OSCC) del 1° febbraio 2005[^17-1].
 
-[^17-1]: AGS 2005, FUC 354 1.1.2013 5
+[^17-1]: AGS 2005, FUC 354
+
+-
