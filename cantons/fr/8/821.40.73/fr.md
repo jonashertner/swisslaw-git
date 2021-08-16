@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Ordonnance relative aux mesures cantonales pour freiner la propagation du coronavirus
 language: fr
-version: 2021-06-01
-valid_until: 2021-08-16
-version_adopted: 2021-06-01
+version: 2021-08-17
+valid_until: 2021-08-31
+version_adopted: 2021-08-17
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6838/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6895/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6838/pdf_file"
 
 COVID-19, mesures cantonales – O
 
-du 10.11.2020 (version entrée en vigueur le 01.06.2021)
+du 10.11.2020 (version entrée en vigueur le 17.08.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -69,7 +69,7 @@ Arrête:
 
 <sup>2</sup> …
 
-<sup>3</sup> Les événements et manifestations autorisés en vertu de l'article 6 de l'ordonnance fédérale COVID-19 situation particulière doivent avoir un plan de protection, agréé par le préfet, qui prévoit notamment le port du masque facial et la distance interpersonnelle en permanence entre les participants et participantes ainsi que la désinfection obligatoire des mains. L'organisateur doit garantir l'élaboration et la mise en œuvre du plan de protection et doit prévoir de collecter de manière électronique les coordonnées des participants et participantes lorsque cela est exigé par le droit fédéral ou cantonal, les conserver durant quatorze jours, puis les détruire.
+<sup>3</sup> Les événements et manifestations autorisés en vertu de l'article 6 de l'ordonnance fédérale COVID-19 situation particulière doivent avoir un plan de protection, qui prévoit un système d'information clair, la gestion des flux ainsi que la désinfection obligatoire des mains. L'organisateur doit garantir l'élaboration et la mise en œuvre du plan de protection, qui doit en tout temps être disponible pour les autorités. Il peut prévoir de collecter de manière électronique les coordonnées des participants et participantes, de les conserver durant quatorze jours, puis de les détruire.
 
 <sup>3a</sup> …
 
@@ -128,65 +128,27 @@ Arrête:
 
 #### Art. 6
 
-**Enseignement – Dispositions générales (pour tous les degrés d'enseignement)**
-
-<sup>1</sup> Le port d'un masque facial est obligatoire pour tous les étudiants et étudiantes ainsi que pour tous les élèves dès le niveau du cycle d'orientation sur tout le périmètre de l'établissement de formation, y compris pendant les pauses, ainsi que lors des déplacements entre l'arrêt de transport public et l'établissement de formation lorsque la distance interpersonnelle ne peut pas être respectée. La Direction de l'instruction publique, de la culture et du sport peut décider du port obligatoire d'un masque facial pour les élèves de l'école primaire si la situation sanitaire le justifie.
-
-<sup>2</sup> L'ensemble du personnel (enseignant, pédago-thérapeutique, administratif, technique et d'intendance) ou toute autre personne intervenant ponctuellement dans l'établissement de formation doit porter un masque facial et respecter les règles en matière de distance interpersonnelle dans la mesure du possible, sur tout le périmètre de l'établissement de formation, y compris pendant les pauses.
-
-<sup>3</sup> Les mesures de protection spécifiques de chaque degré voire filière d'enseignement sont fixées par des concepts de protection élaborés et adoptés par la Direction compétente, après consultation du bureau de l'Organe cantonal de conduite (OCC). Les procédures à suivre en cas de suspicion ou de constatation de cas de maladie figurent également dans ces concepts.
-
-<sup>4</sup> Les voyages à l'étranger, autres que les voyages individuels d'échange, sont interdits jusqu'à la fin de l'année scolaire 2020/21. Les stages professionnels individuels à l'étranger peuvent être maintenus.
+**…**
 
 #### Art. 7
 
-**Enseignement – Scolarité obligatoire et enseignement secondaire supérieur (S2 et formation professionnelle, y compris cours interentreprises)**
-
-<sup>1</sup> L'enseignement présentiel est maintenu, moyennant un plan de protection, au sens de l'article 4 de l'ordonnance fédérale COVID-19 situation particulière.
-
-<sup>2</sup> Sur la proposition des autorités sanitaires, les Directions compétentes peuvent organiser l'enseignement sous une autre forme, notamment en divisant les classes ou en dispensant l'enseignement partiellement ou totalement à distance.
-
-<sup>3</sup> Les camps scolaires et voyages d'études, ainsi que d'autres activités similaires comprenant une nuitée, sont interdits jusqu'au terme de l'année scolaire 2020/21.
-
-<sup>4</sup> Les mesures de protection applicables à l'enseignement de l'éducation physique et du sport sont publiées sur le site Internet du Service du sport.
-
-<sup>5</sup> Dans les transports scolaires organisés par les communes, le port du masque facial est obligatoire dès 12 ans. Selon les circonstances, les communes peuvent rendre le port du masque facial obligatoire pour des élèves plus jeunes.
+**…**
 
 #### Art. 8
 
-**Enseignement – Tertiaire**
-
-<sup>1</sup> L'enseignement de niveau tertiaire s'effectue conformément aux modalités fixées à l'article 6d de l'ordonnance fédérale COVID-19 situation particulière.
+**…**
 
 #### Art. 9
 
-**Enseignement – Au sein du Conservatoire**
-
-<sup>1</sup> Le port du masque facial est obligatoire pour l'ensemble du personnel (enseignant, administratif, technique et d'intendance) et les élèves dès 12 ans sur tout le périmètre du Conservatoire, sauf cas particuliers.
+**…**
 
 #### Art. 10
 
-**Enseignement – Fourniture et prise en charge des masques faciaux**
-
-<sup>1</sup> Les élèves, ou leurs parents, ainsi que les étudiants et étudiantes se procurent les masques faciaux, qui sont des effets personnels, à leurs propres frais.
-
-<sup>2</sup> Sont réservées certaines situations d'enseignement spécifique (p. ex. au sein de la Haute Ecole de santé ou pour des travaux en laboratoire ou en atelier) pour lesquelles les masques faciaux ou tout autre matériel de protection sont fournis par l'école.
-
-<sup>3</sup> Les masques faciaux sont fournis gratuitement au personnel (enseignant, pédago-thérapeutique, administratif, technique et d'intendance).
-
-<sup>4</sup> Les Directions concernées ou le Service de la formation professionnelle sont responsables de la commande des masques faciaux et, le cas échéant, de tout autre matériel de protection pour le personnel ainsi que pour les situations d'enseignement spécifiques au sens de l'alinéa 2 auprès du fournisseur désigné pour elles. En cas de montant insuffisant à leur budget, elles transmettent à leur Direction une demande de crédit complémentaire, conformément à la législation sur les finances de l'Etat.
+**…**
 
 #### Art. 11
 
-**Autres formations et cours**
-
-<sup>1</sup> L'enseignement relatif aux autres formations, en particulier dans le domaine des loisirs, s'effectue conformément aux modalités fixées à l'article 6d de l'ordonnance fédérale COVID-19 situation particulière. L'enseignement peut être donné à distance.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
-
-<sup>4</sup> Des dérogations peuvent être octroyées en application de l'article 7 de l'ordonnance fédérale COVID-19 situation particulière.
+**…**
 
 #### Art. 12
 
@@ -208,7 +170,7 @@ Arrête:
 
 **Durée de validité**
 
-<sup>1</sup> Les présentes mesures portent effet jusqu'au 19 août 2021. En fonction de la situation sanitaire, elles peuvent être adaptées ou leur durée de validité, prolongée. Sont réservées les éventuelles mesures ultérieures prévues par le droit fédéral.
+<sup>1</sup> Les présentes mesures portent effet jusqu'à leur abrogation. En fonction de la situation sanitaire, elles peuvent être adaptées. Sont réservées les éventuelles mesures ultérieures prévues par le droit fédéral.
 
 <sup>2</sup> Elles remplacent les mesures consignées dans l'arrêté du 3 novembre 2020, publié dans la Feuille officielle du 6 novembre 2020, concernant les mesures cantonales pour freiner la propagation du coronavirus.
 

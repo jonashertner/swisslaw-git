@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Verordnung über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus
 language: de
-version: 2021-06-01
-valid_until: 2021-08-16
-version_adopted: 2021-06-01
+version: 2021-08-17
+valid_until: 2021-08-31
+version_adopted: 2021-08-17
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/de/versions/6838/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6895/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6838/pdf_file"
 
 COVID-19, kantonale Massnahmen – V
 
-vom 10.11.2020 (Fassung in Kraft getreten am 01.06.2021)
+vom 10.11.2020 (Fassung in Kraft getreten am 17.08.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -69,7 +69,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Die gemäss Artikel 6 der COVID-19-Verordnung besondere Lage des Bundes erlaubten Veranstaltungen müssen über ein von der Oberamtsperson genehmigtes Schutzkonzept verfügen, das namentlich das ständige Tragen einer Gesichtsmaske, die durchgehende Einhaltung des Abstands zwischen den Teilnehmenden und die obligatorische Händedesinfektion vorsieht. Die Organisatorin oder der Organisator stellt die Ausarbeitung und Umsetzung des Schutzkonzepts sicher und sorgt für die elektronische Erfassung der Kontaktdaten der Teilnehmenden, wenn es das Bundesrecht oder das kantonale Recht verlangt; er oder sie bewahrt die Daten 14 Tage auf und vernichtet sie dann.
+<sup>3</sup> Die gemäss Artikel 6 der COVID-19-Verordnung besondere Lage des Bundes erlaubten Veranstaltungen müssen über ein Schutzkonzept verfügen, das ein System für klare Information, die Steuerung der Besucherströme und die obligatorische Händedesinfektion vorsieht. Die Organisatorin oder der Organisator sorgt für die Ausarbeitung und Umsetzung des Schutzkonzepts, das für die Behörden jederzeit verfügbar sein muss. Sie oder er kann vorsehen, die Kontaktdaten der Teilnehmenden elektronisch zu erfassen, sie 14 Tage aufzubewahren und sie dann zu vernichten.
 
 <sup>3a</sup> …
 
@@ -128,65 +128,27 @@ beschliesst:
 
 #### Art. 6
 
-**Bildungsbereich – Allgemeine Bestimmungen (alle Bildungsstufen)**
-
-<sup>1</sup> Für alle Studierenden sowie sämtliche Schülerinnen und Schüler ab Orientierungsstufe besteht auf dem gesamten Gelände der Bildungseinrichtung, auch in den Pausen, und auf dem Weg von einer Haltestelle des öffentlichen Verkehrs zur Bildungseinrichtung eine Maskenpflicht, wenn der Abstand nicht eingehalten werden kann. Die Direktion für Erziehung, Kultur und Sport kann das Tragen einer Gesichtsmaske für Schülerinnen und Schüler der Primarschule für obligatorisch erklären, sofern die gesundheitliche Lage es gebietet.
-
-<sup>2</sup> Das gesamte Personal (Lehrpersonal, pädagogisch-therapeutisches Fachpersonal sowie administratives, technisches und Hauswartpersonal) und alle Personen, die gelegentlich in der Bildungseinrichtung tätig sind, müssen auf dem gesamten Gelände der Bildungseinrichtung, auch in den Pausen, eine Gesichtsmaske tragen und sich wenn immer möglich an die Abstandsregeln halten.
-
-<sup>3</sup> Die spezifischen Schutzmassnahmen für jede Schulstufe und jeden Bildungsgang werden in Schutzkonzepten festgelegt, die von der zuständigen Direktion nach Anhören des Büros des kantonalen Führungsorgans (KFO) erarbeitet und verabschiedet werden. In diesen Konzepten werden auch die Verfahren beschrieben, die bei Verdacht auf eine Ansteckung oder bei Diagnose einer Erkrankung zu durchlaufen sind.
-
-<sup>4</sup> Reisen ins Ausland mit Ausnahme von individuellen Auslandreisen zum Schüleraustausch sind bis zum Ende des Schuljahres 2020/21 verboten. Individuelle Berufspraktika im Ausland können weiterhin durchgeführt werde.
+**…**
 
 #### Art. 7
 
-**Bildungsbereich – Obligatorische Schule und Mittelschulunterricht (S2 und Berufsbildung, einschliesslich überbetrieblicher Kurse)**
-
-<sup>1</sup> Der Präsenzunterricht wird beibehalten, sofern ein Schutzkonzept im Sinne von Artikel 4 der COVID-19-Verordnung besondere Lage des Bundes eingehalten wird.
-
-<sup>2</sup> Auf Vorschlag der Gesundheitsbehörden können die zuständigen Direktionen den Unterricht in einer anderen Form organisieren, beispielsweise indem Klassen aufgeteilt werden oder durch die Umstellung auf teilweisen oder vollständigen Fernunterricht.
-
-<sup>3</sup> Schullager und Studienreisen sowie ähnliche Aktivitäten mit Übernachtung sind bis Ende des Schuljahres 2020/21 verboten.
-
-<sup>4</sup> Die Schutzmassnahmen für den Bewegungs- und Sportunterricht werden auf der Website des Sportamtes veröffentlicht.
-
-<sup>5</sup> Bei den von den Gemeinden organisierten Schülertransporten ist das Tragen einer Gesichtsmaske für Schülerinnen und Schüler ab 12 Jahren obligatorisch. Den Umständen entsprechend können die Gemeinden das Tragen einer Gesichtsmaske für jüngere Schülerinnen und Schüler obligatorisch erklären.
+**…**
 
 #### Art. 8
 
-**Bildungsbereich – Tertiärstufe**
-
-<sup>1</sup> Die Ausbildung im Tertiärbereich richtet sich nach den Bestimmungen von Artikel 6d der COVID-19-Verordnung besondere Lage des Bundes.
+**…**
 
 #### Art. 9
 
-**Bildungsbereich – Konservatorium**
-
-<sup>1</sup> Für das gesamte Personal (Lehrpersonal sowie administratives, technisches und Hauswartpersonal) und für die Schülerinnen und Schüler ab 12 Jahren gilt auf dem gesamten Gelände des Konservatoriums eine Maskenpflicht; besondere Fälle bleiben vorbehalten.
+**…**
 
 #### Art. 10
 
-**Bildungsbereich – Bereitstellung von Gesichtsmasken und Kostenübernahme**
-
-<sup>1</sup> Die Schülerinnen und Schüler oder ihre Eltern und die Studierenden beschaffen sich die Gesichtsmasken, die als persönliche Gegenstände gelten, auf eigene Kosten.
-
-<sup>2</sup> Ausgenommen davon sind bestimmte besondere Unterrichtssituationen (z. B. an der Hochschule für Gesundheit oder Labor- und Werkstattarbeiten), für welche die Gesichtsmasken oder anderes Schutzmaterial von der Schule bereitgestellt werden.
-
-<sup>3</sup> Dem Personal (Lehrpersonal, pädagogisch-therapeutisches Fachpersonal sowie administratives, technisches und Hauswartpersonal) werden Gesichtsmasken kostenlos zur Verfügung gestellt.
-
-<sup>4</sup> Die betreffenden Direktionen und das Amt für Berufsbildung sind dafür verantwortlich, bei den für sie bezeichneten Lieferfirmen die Gesichtsmasken und gegebenenfalls alles andere Schutzmaterial für das Personal und für die besonderen Unterrichtssituationen nach Absatz 2 zu bestellen. Reicht der Budgetbetrag nicht aus, so beantragen sie ihrer Direktion einen Zusatzkredit gemäss der Gesetzgebung über den Finanzhaushalt des Staates.
+**…**
 
 #### Art. 11
 
-**Andere Bildungsgänge und Kurse**
-
-<sup>1</sup> Bei den übrigen Bildungsgängen, insbesondere im Freizeitbereich, richtet sich der Unterricht nach den Bestimmungen von Artikel 6d der COVID-19-Verordnung besondere Lage des Bundes. Fernunterricht ist möglich.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
-
-<sup>4</sup> In Anwendung von Artikel 7 der COVID-19-Verordnung besondere Lage des Bundes können Ausnahmen bewilligt werden.
+**…**
 
 #### Art. 12
 
@@ -208,7 +170,7 @@ beschliesst:
 
 **Geltungsdauer**
 
-<sup>1</sup> Diese Massnahmen gelten bis 19. August 2021. Je nach gesundheitlicher Situation können die Massnahmen angepasst oder kann ihre Gültigkeitsdauer verlängert werden. Allfällige spätere bundesrechtliche Massnahmen bleiben vorbehalten.
+<sup>1</sup> Diese Massnahmen gelten bis zu ihrer Aufhebung. Je nach gesundheitlicher Situation können die Massnahmen angepasst werden. Allfällige spätere bundesrechtliche Massnahmen bleiben vorbehalten.
 
 <sup>2</sup> Sie ersetzen die Massnahmen gemäss Beschluss vom 3. November 2020 über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus, der im Amtsblatt vom 6. November 2020 veröffentlicht wurde.
 
