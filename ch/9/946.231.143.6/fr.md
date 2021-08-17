@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordonnance du 11 novembre 2015 instituant des mesures à l'encontre de la République islamique d'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: fr
-version: 2021-04-28
+version: 2021-08-18
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20210428/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20210428-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20210428/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20210818/fr/xml/fedlex-data-admin-ch-eli-cc-2016-15-20210818-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20210818/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la République islamique d’Iran
 
-du 11 novembre 2015 (Etat le 28 avril 2021)
+du 11 novembre 2015 (Etat le 18 août 2021)
 
 Le Conseil fédéral suisse,
 
@@ -243,8 +243,8 @@ Il est interdit d’honorer les créances des personnes physiques, entreprises e
 - b. les personnes physiques, entreprises et entités citées aux annexes 5, 6 et 7;
 - c. les personnes physiques, entreprises et entités agissant selon les instructions ou pour le compte des personnes physiques ou entités visées aux let. a ou b.
 
-[^11-1]: [[RO 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61), [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453), [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)ch. I 15 [955](https://fedlex.data.admin.ch/eli/oc/2013/197)[2155](https://fedlex.data.admin.ch/eli/oc/2013/459)[3285](https://fedlex.data.admin.ch/eli/oc/2013/632)[5499](https://fedlex.data.admin.ch/eli/oc/2013/879),[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519)[3365 4697](https://fedlex.data.admin.ch/eli/oc/3365/4697), [2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283)[2727](https://fedlex.data.admin.ch/eli/oc/2015/512)[2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
-[^11-2]: [[RO 2007 403](https://fedlex.data.admin.ch/eli/oc/2007/80), [2008 1821](https://fedlex.data.admin.ch/eli/oc/2008/270)[4101](https://fedlex.data.admin.ch/eli/oc/2008/574), [2010 2879](https://fedlex.data.admin.ch/eli/oc/2010/381)[3569](https://fedlex.data.admin.ch/eli/oc/2010/517)]
+[^11-1]: [[RO 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)ch. I 15, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519),[3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789); [2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
+[^11-2]: [[RO 2007 403](https://fedlex.data.admin.ch/eli/oc/2007/80); [2008 1821](https://fedlex.data.admin.ch/eli/oc/2008/270), [4101](https://fedlex.data.admin.ch/eli/oc/2008/574); [2010 2879](https://fedlex.data.admin.ch/eli/oc/2010/381), [3569](https://fedlex.data.admin.ch/eli/oc/2010/517)]
 
 ## Section 6 Exécution et dispositions pénales
 
@@ -270,7 +270,7 @@ Il est interdit d’honorer les créances des personnes physiques, entreprises e
 
 <sup>3</sup> Le SECO poursuit et juge les infractions aux art. 9 et 10 LEmb; il peut ordonner des saisies ou des confiscations.
 
-## Section 7 Reprise automatique de listes, publication et dispositions finales
+## Section 7 Reprise automatique de listes, publication et dispositions finales****
 
 [^sec7-1]
 
@@ -298,7 +298,7 @@ Les inscriptions figurant aux annexes 5 à 7 ne sont publiées ni au Recueil off
 
 L’ordonnance du 19 janvier 2011 instituant des mesures à l’encontre de la République islamique d’Iran[^15-1] est abrogée.
 
-[^15-1]: [[RO 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61), [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453), [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)ch. I 15 [955](https://fedlex.data.admin.ch/eli/oc/2013/197)[2155](https://fedlex.data.admin.ch/eli/oc/2013/459)[3285](https://fedlex.data.admin.ch/eli/oc/2013/632)[5499](https://fedlex.data.admin.ch/eli/oc/2013/879),[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519)[3365 4697](https://fedlex.data.admin.ch/eli/oc/3365/4697),[2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283)[2727](https://fedlex.data.admin.ch/eli/oc/2015/512)[2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
+[^15-1]: [[RO 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)ch. I 15, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519),[3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789);[2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
 
 #### Art. 16
 
@@ -579,7 +579,7 @@ Les ch. 1 à 3 ne s’appliquent pas:
 
 - b) aux logiciels qui se trouvent dans le domaine public.
 
-Annexe 5[^t-1]
+Annexe 5*[^t-1]*
 
 (art. 7, al. 1, 10, al. 1 et 2, 11, let. b, 14 et 14*a*)
 
@@ -589,25 +589,31 @@ Annexe 5[^t-1]
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies[^annex5-lvlu1-1].
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies*[^annex5-lvlu1-1]*.
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex5-lvlu1-2].
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies*[^annex5-lvlu1-2]*.
 
 [^annex5-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: www.un.org/fr/sc &gt; 2231 (2015) &gt; Liste établie en application de la résolution 2231 (2015).
 [^annex5-lvlu1-2]: La banque de données SESAM est librement accessible Internet: www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
-Annexe 6[^t-2]
+Annexe 6*[^t-2]*
 
 (art. 7, al. 1, 10, al. 1 et 3, et 11, let. b)
 
-## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
+## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières****
 
-[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)[1477](https://fedlex.data.admin.ch/eli/oc/2016/281)[3699](https://fedlex.data.admin.ch/eli/oc/2016/623), [2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59), [2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349), [2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)[4093](https://fedlex.data.admin.ch/eli/oc/2019/714), [2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)[4933](https://fedlex.data.admin.ch/eli/oc/2020/878)). Elle peut être commandée au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annex6-lvlu1-1]
 
-Annexe 7[^t-3]
+[^t-2]: Mise à jour par le ch. I des O du DEFR du 27 janv. 2016 ([RO 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 31 oct. 2016 ([RO 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), du 26 janv. 2017 ([RO 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), du 19 juin 2018 ([RO 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), du 17 juin 2019 ([RO 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), du 29 nov. 2019 ([RO 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), du 6 juil. 2020 ([RO 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), du 26 nov. 2020 ([RO 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)) et du 17 août 2021, en vigueur depuis le 18 août 2021 ([RO 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)).
+[^annex6-lvlu1-1]: Cette annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consultée sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+
+Annexe 7*[^t-3]*
 
 (art. 7, al. 1, et 11, let. b)
 
-## Personnes physiques visées par les sanctions financières
+## Personnes physiques visées par les sanctions financières****
 
-[^t-3]: Cette annexe n’est pas publiée au RO ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281); [2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273); [2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245); [2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261); [2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278); [2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)). Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^annex7-lvlu1-1]
+
+[^t-3]: Mise à jour par le ch. I des O du DEFR du 17 mai 2016 ([RO 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), du 1<sup>er</sup> mai 2017 ([RO 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), du 23 avr. 2018 ([RO 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), du 7 mai 2019 ([RO 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), du 29 avr. 2020 ([RO 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)) et du 27 avr. 2021, en vigueur depuis le 28 avr. 2021 ([RO 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)).
+[^annex7-lvlu1-1]: Cette annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.

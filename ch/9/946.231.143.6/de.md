@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 11. November 2015 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: de
-version: 2021-04-28
+version: 2021-08-18
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20210428/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20210428-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20210428/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20210818/de/xml/fedlex-data-admin-ch-eli-cc-2016-15-20210818-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20210818/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 11. November 2015 (Stand am 28. April 2021)
+vom 11. November 2015 (Stand am 18. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -243,8 +243,8 @@ Es ist verboten, Forderungen der folgenden natürlichen Personen, Unternehmen un
 - b. natürliche Personen, Unternehmen und Organisationen nach den Anhängen 5–7;
 - c. natürliche Personen, Unternehmen und Organisationen, die im Auftrag oder zugunsten von Personen oder Organisationen nach Buchstabe a oder b handeln.
 
-[^11-1]: [[AS 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61), [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453), [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)Ziff. I 15 [955](https://fedlex.data.admin.ch/eli/oc/2013/197)[2155](https://fedlex.data.admin.ch/eli/oc/2013/459)[3285](https://fedlex.data.admin.ch/eli/oc/2013/632)[5499](https://fedlex.data.admin.ch/eli/oc/2013/879),[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519)[3365 4697](https://fedlex.data.admin.ch/eli/oc/3365/4697),[2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283)[2727](https://fedlex.data.admin.ch/eli/oc/2015/512)[2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
-[^11-2]: [[AS 2007 403](https://fedlex.data.admin.ch/eli/oc/2007/80), [2008 1821](https://fedlex.data.admin.ch/eli/oc/2008/270)[4101](https://fedlex.data.admin.ch/eli/oc/2008/574), [2010 2879](https://fedlex.data.admin.ch/eli/oc/2010/381)[3569](https://fedlex.data.admin.ch/eli/oc/2010/517)]
+[^11-1]: [[AS 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)Ziff. I 15, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519),[3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789);[2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
+[^11-2]: [[AS 2007 403](https://fedlex.data.admin.ch/eli/oc/2007/80); [2008 1821](https://fedlex.data.admin.ch/eli/oc/2008/270), [4101](https://fedlex.data.admin.ch/eli/oc/2008/574); [2010 2879](https://fedlex.data.admin.ch/eli/oc/2010/381), [3569](https://fedlex.data.admin.ch/eli/oc/2010/517)]
 
 ## 6. Abschnitt: Vollzug und Strafbestimmungen
 
@@ -294,7 +294,7 @@ Die Einträge nach den Anhängen 5–7 werden weder in der Amtlichen Sammlung de
 
 Die Verordnung vom 19. Januar 2011[^15-1] über Massnahmen gegenüber der Islamischen Republik Iran wird aufgehoben.
 
-[^15-1]: [[AS 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61), [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453), [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)Ziff. I 15 [955](https://fedlex.data.admin.ch/eli/oc/2013/197)[2155](https://fedlex.data.admin.ch/eli/oc/2013/459)[3285](https://fedlex.data.admin.ch/eli/oc/2013/632)[5499](https://fedlex.data.admin.ch/eli/oc/2013/879),[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519)[3365 4697](https://fedlex.data.admin.ch/eli/oc/3365/4697),[2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283)[2727](https://fedlex.data.admin.ch/eli/oc/2015/512)[2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
+[^15-1]: [[AS 2011 383](https://fedlex.data.admin.ch/eli/oc/2011/61); [2012 3869](https://fedlex.data.admin.ch/eli/oc/2012/453); [2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)Ziff. I 15, [955](https://fedlex.data.admin.ch/eli/oc/2013/197), [2155](https://fedlex.data.admin.ch/eli/oc/2013/459), [3285](https://fedlex.data.admin.ch/eli/oc/2013/632), [5499](https://fedlex.data.admin.ch/eli/oc/2013/879);[2014 3055](https://fedlex.data.admin.ch/eli/oc/2014/519),[3365](https://fedlex.data.admin.ch/eli/oc/2014/584), [4697](https://fedlex.data.admin.ch/eli/oc/2014/789);[2015 1369](https://fedlex.data.admin.ch/eli/oc/2015/283), [2727](https://fedlex.data.admin.ch/eli/oc/2015/512), [2843](https://fedlex.data.admin.ch/eli/oc/2015/531)]
 
 #### Art. 16
 
@@ -574,7 +574,7 @@ Ausgenommen von den Ziffern 1–3 ist:
 
 - b. Software, die allgemein zugänglich ist.
 
-Anhang 5[^t-1]
+Anhang 5*[^t-1]*
 
 (Art. 7 Abs. 1, 10 Abs. 1 und 2, 11 Bst. b sowie Art. 14 und 14*a*)
 
@@ -591,18 +591,24 @@ Anhang 5[^t-1]
 [^annex5-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: www.un.org/en/sc/ &gt; 2231 (2015) &gt; 2231 list.
 [^annex5-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden.
 
-Anhang 6[^t-2]
+Anhang 6*[^t-2]*
 
 (Art. 7 Abs. 1, 10 Abs. 1 und 3 sowie 11 Bst. b)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten****
 
-[^t-2]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)[1477](https://fedlex.data.admin.ch/eli/oc/2016/281)[3699](https://fedlex.data.admin.ch/eli/oc/2016/623), [2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59), [2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349), [2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)[4093](https://fedlex.data.admin.ch/eli/oc/2019/714), [2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)[4933](https://fedlex.data.admin.ch/eli/oc/2020/878)). Er kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex6-lvlu1-1]
 
-Anhang 7[^t-3]
+[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 27. Jan. 2016 ([AS 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 31. Okt. 2016 ([AS 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), vom 26. Jan. 2017 ([AS 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), vom 19. Juni 2018 ([AS 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), vom 17. Juni 2019 ([AS 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), vom 29. Nov. 2019 ([AS 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), vom 6. Juli 2020 ([AS 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), vom 26. Nov. 2020 ([AS 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)) und vom 17. Aug. 2021, in Kraft seit 18. Aug. 2021 ([AS 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)).
+[^annex6-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Er kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+
+Anhang 7*[^t-3]*
 
 (Art. 7 Abs. 1 und 11 Bst. b)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen richten
+## Natürliche Personen, gegen die sich die Finanzsanktionen richten****
 
-[^t-3]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281); [2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273); [2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245); [2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261); [2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278); [2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex7-lvlu1-1]
+
+[^t-3]: Bereinigt gemäss Ziff. I der V des WBF vom 17. Mai 2016 ([AS 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), vom 1. Mai 2017 ([AS 2017 2697](https://fedlex.data.admin.ch/eli/oc/2017/273)), vom 23. April 2018 ([AS 2018 1657](https://fedlex.data.admin.ch/eli/oc/2018/245)), vom 7. Mai 2019 ([AS 2019 1341](https://fedlex.data.admin.ch/eli/oc/2019/261)), vom 29. April 2020 ([AS 2020 1411](https://fedlex.data.admin.ch/eli/oc/2020/278)) und vom 27. April 2021, in Kraft seit 28. April 2021 ([AS 2021 248](https://fedlex.data.admin.ch/eli/oc/2021/248)).
+[^annex7-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
