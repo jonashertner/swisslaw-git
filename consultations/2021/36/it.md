@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Rapporto sulla politica di sicurezza 2021
 document: Progetto posto in consultazione
 language: it

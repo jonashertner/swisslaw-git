@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Sicherheitspolitischer Bericht 2021
 document: Vernehmlassungsvorlage
 language: de

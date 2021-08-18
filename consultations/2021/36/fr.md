@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Rapport sur la politique de la sécurité 2021
 document: Projet mis en consultation
 language: fr
