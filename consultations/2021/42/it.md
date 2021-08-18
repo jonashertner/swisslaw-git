@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Pacchetto di ordinanze Iniziativa parlamentare 19.475 «Ridurre il rischio associato all’uso di pesticidi»
 document: Progetto posto in consultazione
 language: it

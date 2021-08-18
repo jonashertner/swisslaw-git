@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Train d’ordonnances Initiative parlementaire 19.475 «Réduire le risque de l’utilisation de pesticides»
 document: Projet mis en consultation
 language: fr

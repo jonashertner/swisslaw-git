@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungspaket Parlamentarische Initiative 19.475 «Das Risiko beim Einsatz von Pestiziden reduzieren»
 document: Vernehmlassungsvorlage
 language: de
