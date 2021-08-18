@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur les précurseurs de substances explosibles
 document: Projet mis en consultation
 language: fr

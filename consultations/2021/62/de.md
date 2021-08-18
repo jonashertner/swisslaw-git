@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über Vorläuferstoffe für explosionsfähige Stoffe (Vorläuferstoffverordnung)
 document: Vernehmlassungsvorlage
 language: de
