@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur les droits politiques (ODP) et de l’ordonnance de la ChF sur le vote électronique (OVotE)
 document: Projet mis en consultation-2
 language: fr

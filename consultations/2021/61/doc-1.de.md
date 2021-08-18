@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über die politischen Rechte (VPR) und der Verordnung der BK über die elektronische Stimmabgabe (VEleS)
 document: Vernehmlassungsvorlage
 language: de

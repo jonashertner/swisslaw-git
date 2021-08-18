@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sui diritti politici (ODP) e dell’ordinanza della CaF concernente il voto elettronico (OVE)
 document: Progetto posto in consultazione
 language: it
