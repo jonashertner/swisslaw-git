@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur l’allégement des coûts de la réglementation pour les entreprises (Loi sur l’allégement des entreprises)
 document: Projet mis en consultation
 language: fr

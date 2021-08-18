@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sullo sgravio delle imprese dai costi normativi (Legge sullo sgravio delle imprese)
 document: Progetto posto in consultazione
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Entlastung der Unternehmen von Regulierungskosten (Unternehmensentlastungsgesetz)
 document: Vernehmlassungsvorlage
 language: de
