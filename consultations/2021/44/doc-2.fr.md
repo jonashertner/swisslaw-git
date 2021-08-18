@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Mise en place d’un frein à la réglementation (Modification de l’art. 159, al. 3, de la Constitution fédérale et modification de la loi sur le Parlement)"
 document: Projet mis en consultation
 language: fr

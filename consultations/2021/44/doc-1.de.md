@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Einführung einer Regulierungsbremse (Änderung von Art. 159 Abs. 3 der Bundesverfassung und Änderung des Parlamentsgesetzes)
 document: Vernehmlassungsvorlage-2
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Introduzione di un freno alla regolamentazione (modifica dell’art. 159 cpv. 3 della Costituzione federale e modifica della legge sul Parlamento)
 document: Progetto posto in consultazione
 language: it
