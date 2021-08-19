@@ -4,13 +4,13 @@ number: "311.4"
 title: Verordnung über die kantonalen Ordnungsbussen und den Vollzug der Ordnungsbussengesetzgebung durch die Transportpolizei
 short: KOV
 language: de
-version: 2017-01-01
-valid_until: 2021-08-19
-version_adopted: 2016-11-07
+version: 2021-08-20
+valid_until: 2026-05-31
+version_adopted: 2021-06-01
 adopted: 2016-11-07
 in_force: 2017-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/311.4"
-pdf: "https://bgs.so.ch/api/de/versions/4575/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5105/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4575/pdf_file"
 
 (KOV)
 
-Vom 07.11.2016 (Stand 01.01.2017)
+Vom 07.11.2016 (Stand 20.08.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -70,7 +70,7 @@ beschliesst:
 
 **Trunkenheit und unanständiges Benehmen**
 
-<sup>1</sup> Unanständiges, Sitte und Anstand verletzendes Verhalten in der Öffentlichkeit, insbesondere Verüben eines Skandals im angetrunkenen Zustand (§ 23 Abs. 2 des Gesetzes über das kantonale Strafrecht und die Einführung des Schweizerischen Strafgesetzbuches vom 14. September 1941[^5-1]): 100 Franken.
+<sup>1</sup> Unanständiges, Sitte und Anstand verletzendes Verhalten in der Öffentlichkeit, insbesondere Verüben eines Skandals im angetrunkenen Zustand (§ 23 Abs. 2 Gesetz über das kantonale Strafrecht und die Einführung des Schweizerischen Strafgesetzbuches vom 14. September 1941[^5-1]): 100 Franken.
 
 [^5-1]: BGS [311.1.](https://bgs.so.ch/data/311.1./de)
 
@@ -78,13 +78,21 @@ beschliesst:
 
 **Verletzung der generellen Leinenpflicht**
 
-<sup>1</sup> Verletzung der generellen Leinenpflicht (§ 15 des Gesetzes über das Halten von Hunden vom 7. November 2006[^6-1] i. V. m. § 4 Abs. 1 der Verordnung über das Halten von Hunden vom 6. März 2007[^6-2])
+<sup>1</sup> Verletzung der generellen Leinenpflicht (§ 15 Gesetz über das Halten von Hunden vom 7. November 2006[^6-1] i. V. m. § 4 Abs. 1 Verordnung über das Halten von Hunden vom 6. März 2007[^6-2])
 
 - a) im Wald in den Monaten Mai und Juni — 80 Franken
 - b) in den entsprechend bezeichneten öffentlichen Räumen — 80 Franken
 
 [^6-1]: BGS [614.71.](https://bgs.so.ch/data/614.71./de)
 [^6-2]: BGS [614.72.](https://bgs.so.ch/data/614.72./de)
+
+#### § 7
+
+**Missachtung des Feuerverbots**
+
+<sup>1</sup> Missachtung des Feuerverbots (§ 39<sup>bis</sup> Gesetz über die Kantonspolizei vom 23. September 1990[^7-1]): 200 Franken.
+
+[^7-1]: BGS [511.11.](https://bgs.so.ch/data/511.11./de)
 
 RRB Nr. 2016/1919 vom 7. November 2016.
 
