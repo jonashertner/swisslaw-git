@@ -3,18 +3,18 @@ sr: "944.3"
 title: Legge federale del 18 giugno 1993 concernente i viaggi «tutto compreso»
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152"
 language: it
-version: 1994-07-01
+version: 2021-08-20
 adopted: 1993-06-18
 in_force: 1994-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152/19940701/it/xml/fedlex-data-admin-ch-eli-cc-1993-3152_3152_3152-19940701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3152_3152_3152/19940701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152/20210820/it/xml/fedlex-data-admin-ch-eli-cc-1993-3152_3152_3152-20210820-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3152_3152_3152/20210820/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale concernente i viaggi «tutto compreso»
 
-del 18 giugno 1993 (Stato 1° luglio 1994)
+del 18 giugno 1993 (Stato 20 agosto 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -22,7 +22,7 @@ visti gli articoli 31<sup>sexies</sup> e 64 della Costituzione federale[^ingress
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)
 
 ## Sezione 1: Definizioni
@@ -204,9 +204,11 @@ Se, dopo la partenza, non è fornita una parte essenziale delle prestazioni conv
 - a. predisporre soluzioni alternative affinché il viaggio «tutto compreso» possa essere continuato;
 - b. risarcire al consumatore eventuali danni; l’importo risarcito è la differenza tra il prezzo delle prestazioni previste e quello delle prestazioni fornite.
 
-<sup>2</sup> Se sono possibili alternative o se il consumatore non le accetta per validi motivi, l’organizzatore deve adoperarsi per fornirgli un mezzo di trasporto equivalente per il ritorno al luogo di partenza o ad altro luogo convenuto. Inoltre l’organizzatore è tenuto a risarcirgli il danno.
+<sup>2</sup> Se non sono possibili alternative o se il consumatore non le accetta per validi motivi, l’organizzatore deve adoperarsi per fornirgli un mezzo di trasporto equivalente per il ritorno al luogo di partenza o ad altro luogo convenuto.[^13-1] Inoltre l’organizzatore è tenuto a risarcirgli il danno.
 
 <sup>3</sup> I provvedimenti di cui nel presente articolo non danno diritto ad alcun supplemento di prezzo.
+
+[^13-1]: Correzione della Commissione di redazione dell’AF del 20 ago. 2021 ([RU 2021 496](https://fedlex.data.admin.ch/eli/oc/2021/496)).
 
 #### Art. 14
 

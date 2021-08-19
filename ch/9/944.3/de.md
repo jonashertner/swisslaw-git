@@ -3,18 +3,18 @@ sr: "944.3"
 title: Bundesgesetz vom 18. Juni 1993 über Pauschalreisen
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152"
 language: de
-version: 1994-07-01
+version: 2021-08-20
 adopted: 1993-06-18
 in_force: 1994-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152/19940701/de/xml/fedlex-data-admin-ch-eli-cc-1993-3152_3152_3152-19940701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3152_3152_3152/19940701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152/20210820/de/xml/fedlex-data-admin-ch-eli-cc-1993-3152_3152_3152-20210820-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3152_3152_3152/20210820/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Pauschalreisen
 
-vom 18. Juni 1993 (Stand am 1. Juli 1994)
+vom 18. Juni 1993 (Stand am 20. August 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -22,7 +22,7 @@ gestützt auf die Artikel 31<sup>sexies</sup> und 64 der Bundesverfassung[^ingre
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)
 
 ## 1. Abschnitt: Begriffe
@@ -208,9 +208,11 @@ Wird nach der Abreise ein erheblicher Teil der vereinbarten Leistungen nicht erb
 - a. angemessene Vorkehrungen zu treffen, damit die Pauschalreise weiter durchgeführt werden kann;
 - b. den dem Konsumenten daraus entstandenen Schaden zu ersetzen; die Höhe des Schadenersatzes entspricht dem Unterschied zwischen dem Preis der vorgesehenen und jenem der erbrachten Dienstleistungen.
 
-<sup>2</sup> Können diese Vorkehrungen nicht getroffen werden oder lehnt sie der Konsument aus wichtigen Gründen ab, so hat der Veranstalter für eine gleichwertige Beförderungsmöglichkeit zu sorgen, mit welcher der Konsument zum Ort der Abreise zurückkehren oder an einen anderen mit ihm vereinbarten Ort reisen kann. Ausserdem hat er den dem Konsumenten daraus entstandenen Schaden zu ersetzen.
+<sup>2</sup> Können diese Vorkehrungen nicht getroffen werden oder lehnt sie der Konsument aus wichtigen Gründen ab, so hat der Veranstalter für eine gleichwertige Beförderungsmöglichkeit zu sorgen, mit welcher der Konsument zum Ort der Abreise zurückkehren oder an einen anderen mit ihm vereinbarten Ort reisen kann.[^13-1] Ausserdem hat er den dem Konsumenten daraus entstandenen Schaden zu ersetzen.
 
 <sup>3</sup> Die Massnahmen dieses Artikels begründen keinen Preisaufschlag.
+
+[^13-1]: Die Berichtigung der RedK der BVers vom 20. Aug. 2021 betrifft nur den italienischen Text ([AS 2021 496](https://fedlex.data.admin.ch/eli/oc/2021/496)).
 
 #### Art. 14
 

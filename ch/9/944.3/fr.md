@@ -3,18 +3,18 @@ sr: "944.3"
 title: Loi fédérale du 18 juin 1993 sur les voyages à forfait
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152"
 language: fr
-version: 1994-07-01
+version: 2021-08-20
 adopted: 1993-06-18
 in_force: 1994-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152/19940701/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3152_3152_3152-19940701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3152_3152_3152/19940701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152/20210820/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3152_3152_3152-20210820-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3152_3152_3152/20210820/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les voyages à forfait
 
-du 18 juin 1993 (Etat le 1<sup>er</sup> juillet 1994)
+du 18 juin 1993 (État le 20 août 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -22,7 +22,7 @@ vu les articles 31<sup>sexies</sup> et 64 de la constitution fédérale[^ingress
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)
 
 ## Section 1 Définitions
@@ -204,9 +204,11 @@ Lorsque, après le départ du consommateur, une part importante des prestations 
 - a. prendre d’autres dispositions appropriées pour la continuation du voyage à forfait et
 - b. réparer le dommage subi par le consommateur à concurrence de la différence entre le prix des prestations prévues et celles effectivement fournies.
 
-<sup>2</sup> Lorsqu’il n’est pas possible de prendre les arrangements prévus au 1<sup>er</sup> alinéa ou que le consommateur les refuse pour de justes motifs, l’organisateur doit, le cas échéant, s’efforcer de fournir au consommateur un moyen de transport équivalent qui ramènera celui-ci au lieu de départ ou à un autre lieu de retour convenu, et réparer le dommage qu’il a subi.
+<sup>2</sup> Lorsqu’il n’est pas possible de prendre les arrangements prévus au 1<sup>er</sup> alinéa ou que le consommateur les refuse pour de justes motifs, l’organisateur doit, le cas échéant, s’efforcer de fournir au consommateur un moyen de transport équivalent qui ramènera celui-ci au lieu de départ ou à un autre lieu de retour convenu, et réparer le dommage qu’il a subi.[^13-1]
 
 <sup>3</sup> Les mesures prévues aux 1<sup>er</sup> et 2<sup>e</sup> alinéas ne donnent lieu à aucun supplément de prix.
+
+[^13-1]: Erratum de la CdR de l’Ass. féd. du 20 août 2021, ne concerne que le texte italien ([RO 2021 496](https://fedlex.data.admin.ch/eli/oc/2021/496)).
 
 #### Art. 14
 
@@ -254,7 +256,7 @@ L’organisateur et le détaillant ne sont pas responsables envers le consommate
 
 <sup>1</sup> L’organisateur ou le détaillant partie au contrat doit garantir le remboursement des montants payés et le rapatriement du consommateur en cas d’insolvabilité ou de faillite.
 
-<sup>2</sup> Il doit apporter la preuve de cette garantie à la demande du consommateur. A défaut, le consommateur peut résilier le contrat.
+<sup>2</sup> Il doit apporter la preuve de cette garantie à la demande du consommateur. À défaut, le consommateur peut résilier le contrat.
 
 <sup>3</sup> Le consommateur doit communiquer par écrit la résiliation à l’organisateur ou au détaillant avant la date du départ.
 

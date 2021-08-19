@@ -3,11 +3,11 @@ sr: "944.3"
 title: Federal Act of 18 June 1993 on Package Travel
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152"
 language: en
-version: 1994-07-01
+version: 2021-08-20
 adopted: 1993-06-18
 in_force: 1994-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152/19940701/en/xml/fedlex-data-admin-ch-eli-cc-1993-3152_3152_3152-19940701-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3152_3152_3152/19940701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3152_3152_3152/20210820/en/xml/fedlex-data-admin-ch-eli-cc-1993-3152_3152_3152-20210820-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3152_3152_3152/20210820/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,18 +16,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3152_3152_3152/19940701/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 18 June 1993 (Status as of 1 July 1994)
+of 18 June 1993 (Status as of 20 August 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
-Based on Article 31<sup>sexies</sup> and 64 of the Federal Constitution[^ingress-1], and having considered the Federal Council Dispatch of 24 February 1993[^ingress-2],
+based on Articles 31<sup>sexies</sup> and 64 of the Federal Constitution[^ingress-1], and having considered the Federal Council Dispatch of 24 February 1993[^ingress-2],
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)
 
-## Section 1: Definitions
+## Section 1 Definitions
 
 #### Art. 1
 
@@ -63,7 +63,7 @@ Consumer[^2-3] means:
 [^2-2]: Footnote relevant to German version only.
 [^2-3]: Footnote relevant to German version only.
 
-## Section 2: Brochures
+## Section 2 Brochures
 
 #### Art. 3
 
@@ -72,7 +72,7 @@ The organiser or retailer who publishes a brochure is bound by the particulars c
 - a. by mutual agreement of the parties to the contract;
 - b. if the brochure has expressly made reference to the possibility of modification, and provided that such modifications have been clearly communicated to the consumer prior to the conclusion of the contract.
 
-## Section 3: Information for the Consumer
+## Section 3 Information for the Consumer
 
 #### Art. 4
 
@@ -80,7 +80,7 @@ The organiser or retailer who publishes a brochure is bound by the particulars c
 
 <sup>1</sup> The organiser or the retailer must communicate all the terms and conditions of the contract to the consumer in writing before the contract is concluded.
 
-<sup>2</sup> The terms of the contract may also be brought to the consumer’s attention in another appropriate form, provided that they are confirmed to him in writing before the contract is concluded. The obligation to confirm in writing does not apply if compliance would prevent the conclusion of the contract,.
+<sup>2</sup> The terms of the contract may also be brought to the consumer’s attention in another appropriate form, provided that they are confirmed to him in writing before the contract is concluded. The obligation to confirm in writing does not apply if compliance would prevent the conclusion of the contract.
 
 <sup>3</sup>
 
@@ -99,11 +99,11 @@ The organiser or retailer shall provide the consumer, in writing or any other ap
 
 - a. the times and places of intermediate stops and transport connections;
 - b. the seat to be occupied by the traveller;
-- c. the name, address and telephone number of the organiser's or retailer's local representative or, failing that, of local agencies on whose assistance a consumer in difficulty could call; where even no such agencies exist, the consumer must in any case be provided with an emergency telephone number or any other information that will enable him to contact the organiser or the retailer;
-- d. in the case of journeys or stays abroad by minors, information enabling direct contact to be established with the child or the person responsible at the child's place of stay;
+- c. the name, address and telephone number of the organiser’s or retailer’s local representative or, failing that, of local agencies on whose assistance a consumer in difficulty could call; where even no such agencies exist, the consumer must in any case be provided with an emergency telephone number or any other information that will enable him to contact the organiser or the retailer;
+- d. in the case of journeys or stays abroad by minors, information enabling direct contact to be established with the child or the person responsible at the child’s place of stay;
 - e. information on the optional conclusion of an insurance policy to cover the cost of cancellation by the consumer or the cost of assistance, including repatriation, in the event of accident or illness.
 
-## Section 4: Content of the Contract
+## Section 4 Content of the Contract
 
 #### Art. 6
 
@@ -116,7 +116,7 @@ Irrespective of the kind of services agreed, the following elements must be incl
 - c. the special requirements of the consumer that have been accepted by the organiser or the retailer;
 - d. whether a minimum number of persons is required for the package to take place and, if so, the latest date for informing the consumer of cancellation;
 - e. the price of the package as well as the payment schedule and method of payment;
-- f. periods within which the consumer must make any complaint concerning failure to perform or improper performance of the contract:
+- f. periods within which the consumer must make any complaint concerning failure to perform or improper performance of the contract;
 - g. the name and address of the insurer, where appropriate.
 
 <sup>2</sup>
@@ -132,16 +132,17 @@ Depending on the particular package agreed on, the following elements must be in
 - g. the requirements for a price revision under Article 7;
 - h. details of any dues, taxes or fees chargeable for certain services, such as landing, embarkation or disembarkation fees at ports and airports, and tourist taxes, where such costs are not included in the package.
 
-## Section 5: Price Increases
+## Section 5 Price Increases
 
 #### Art. 7
 
 The price laid down in the contract may only be increased where:
 
 - a. the contract expressly provides for that possibility and states precisely how the revised price is to be calculated;
-- b. it takes place at least three weeks prior to the departure date; and it is based solely on an increase in transportation costs, including the cost of fuel, on an increase in dues chargeable for certain services, such as landing taxes or embarkation or disembarkation fees at ports and airports, or on modifications to the exchange rates applied to the particular package.
+- b. it takes place at least three weeks prior to the departure date; and
+- c. it is based solely on an increase in transportation costs, including the cost of fuel, on an increase in dues chargeable for certain services, such as landing taxes or embarkation or disembarkation fees at ports and airports, or on modifications to the exchange rates applied to the particular package.
 
-## Section 6: Significant Changes to the Contract
+## Section 6 Significant Changes to the Contract
 
 #### Art. 8
 
@@ -175,7 +176,7 @@ If the consumer withdraws from the contract he or she is entitled to either:
 
 <sup>4</sup> A claim for damages due to non-performance of the contract remains reserved.
 
-## Section 7: Cancellation of the Package
+## Section 7 Cancellation of the Package
 
 #### Art. 11
 
@@ -185,10 +186,10 @@ If the consumer withdraws from the contract he or she is entitled to either:
 
 The consumer is not, however, entitled to claim for damages for non-performance of the contract:
 
-- a. if the cancellation is on the grounds that the number of persons enrolled for the package is less than the minimum number required and the consumer is informed of the cancellation, in writing, within the period indicated in the contract, or
+- a. if the cancellation is on the grounds that the number of persons enrolled for the package is less than the minimum number required and the consumer is informed of the cancellation, in writing, within the period indicated in the contract; or
 - b. if the cancellation is due to force majeure. Overbooking is not considered a case of force majeure.
 
-## Section 8: Non-Performance and Improper Performance of the Contract
+## Section 8 Non-Performance and Improper Performance of the Contract
 
 #### Art. 12
 
@@ -209,9 +210,11 @@ Where, after departure, a significant proportion of the services contracted for 
 - a. make suitable alternative arrangements for the continuation of the package;
 - b. compensate the consumer for the loss suffered; the quantum of damages corresponds to the difference between the services offered and those supplied.
 
-<sup>2</sup> If it is impossible to make such arrangements or these are not accepted by the consumer for good reasons, the organiser must provide the consumer with equivalent transport back to the place of departure, or to another return-point to which the consumer has agreed. In addition, the organiser must compensate the consumer for the loss suffered therefrom.
+<sup>2</sup> If it is impossible to make such arrangements or these are not accepted by the consumer for good reasons, the organiser must provide the consumer with equivalent transport back to the place of departure, or to another return-point to which the consumer has agreed.[^13-1] In addition, the organiser must compensate the consumer for the loss suffered therefrom.
 
 <sup>3</sup> The measures under this Article do not justify any extra charge to the consumer.
+
+[^13-1]: The correction of the federal drafting committee of 20 August 2021 concerns the Italian text only ([RU 2021 496](https://fedlex.data.admin.ch/eli/oc/2021/496)).
 
 #### Art. 14
 
@@ -245,7 +248,7 @@ The organiser or the retailer are not liable to the consumer where the non-perfo
 
 <sup>2</sup> In the matter of other damages, liability may be reduced to double the amount of the total price of the package by means of a contractual clause, save for damages caused wilfully or through gross negligence.
 
-## Section 9: Assignment of the Booking
+## Section 9 Assignment of the Booking
 
 #### Art. 17
 
@@ -253,7 +256,7 @@ The organiser or the retailer are not liable to the consumer where the non-perfo
 
 <sup>2</sup> This person and the consumer shall be jointly and severally liable to the organiser or the retailer party to the contract for payment of the price and for any additional costs arising from such transfer.
 
-## Section 10: Security
+## Section 10 Security
 
 #### Art. 18
 
@@ -263,13 +266,13 @@ The organiser or the retailer are not liable to the consumer where the non-perfo
 
 <sup>3</sup> The withdrawal must be communicated to the organiser or the retailer in writing before the departure date.
 
-## Section 11: Mandatory Law
+## Section 11 Mandatory Law
 
 #### Art. 19
 
 Any deviation from this Act to the disadvantage of the consumer is prohibited unless explicitly provided for therein.
 
-## Section 12: Referendum and Commencement
+## Section 12 Referendum and Commencement
 
 #### Art. 20
 
@@ -279,4 +282,4 @@ Any deviation from this Act to the disadvantage of the consumer is prohibited un
 
 Commencement date: 1 July 1994[^20-1]
 
-[^20-1]: FCD of 30 Nov. 1993 ([AS 1994 3158](https://fedlex.data.admin.ch/eli/oc/1994/3158_3158_3158)).
+[^20-1]: FCD of 30 Nov. 1993.
