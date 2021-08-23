@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: Verordnung vom 1. Juni 2012 über Massnahmen gegenüber Guinea-Bissau
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: de
-version: 2020-08-25
+version: 2021-08-24
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20200825/de/xml/fedlex-data-admin-ch-eli-cc-2012-374-20200825-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20200825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20210824/de/xml/fedlex-data-admin-ch-eli-cc-2012-374-20210824-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20210824/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Guinea-Bissau
 
-vom 1. Juni 2012 (Stand am 25. August 2020)
+vom 1. Juni 2012 (Stand am 24. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -162,6 +162,9 @@ Anhang 2*[^t-2]*
 
 (Art. 1 Abs. 1 und 3 Abs. 1 und 3)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten****
 
-[^t-2]: In der AS nicht veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[1221](https://fedlex.data.admin.ch/eli/oc/2013/264)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.
+[^annex2-lvlu1-1]
+
+[^t-2]: Bereinigt gemäss Ziff. I 14 der V vom 19. Dez. 2012 über die Änd. der Veröffentlichung der Anhänge von Embargoverordnungen ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 17. April 2013 ([AS 2013 1221](https://fedlex.data.admin.ch/eli/oc/2013/264)) und vom 23. Aug. 2021, in Kraft seit 24. Aug. 2021 ([AS 2021 502](https://fedlex.data.admin.ch/eli/oc/2021/502)).
+[^annex2-lvlu1-1]: Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos eingesehen werden.

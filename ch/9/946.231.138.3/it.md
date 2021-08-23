@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: Ordinanza del 1° giugno 2012 che istituisce provvedimenti nei confronti della Guinea-Bissau
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: it
-version: 2020-08-25
+version: 2021-08-24
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20200825/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20200825-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20200825/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20210824/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20210824-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20210824/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Guinea-Bissau
 
-del 1° giugno 2012 (Stato 25 agosto 2020) (Stato 25 agosto 2020)
+del 1° giugno 2012 (Stato 24 agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -162,6 +162,9 @@ Allegato 2*[^t-2]*
 
 (art. 1 cpv. 1 e 3 cpv. 1 e 3)
 
-## Persone fisiche interessate dalle sanzioni finanziarie e dal divieto di entrata e di transito nonché imprese e organizzazioni interessate dalle sanzioni finanziarie
+## Persone fisiche interessate dalle sanzioni finanziarie e dal divieto di entrata e di transito nonché imprese e organizzazioni interessate dalle sanzioni finanziarie****
 
-[^t-2]: Non pubblicato nella RU ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)e [1221](https://fedlex.data.admin.ch/eli/oc/2013/264)). È possibile ordinare il contenuto degli all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarli al seguente indirizzo Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi.
+[^annex2-lvlu1-1]
+
+[^t-2]: Aggiornato dal n. I 14 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), dai n. I delle O del DEFR del 17 apr. 2013 ([RU 2013 1221](https://fedlex.data.admin.ch/eli/oc/2013/264)) e del 23 ago. 2021, in vigore dal 24 ago. 2021 ([RU 2021 502](https://fedlex.data.admin.ch/eli/oc/2021/502)).
+[^annex2-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarli al seguente indirizzo Internet: www.seco.admin.ch &gt; Temi &gt; Politica economica esterna &gt; Sanzioni / Embarghi.
