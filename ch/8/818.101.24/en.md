@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-08-02
+version: 2021-08-25
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210802/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210802-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210802/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210825/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210825-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210825/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 2 August 2021)
+of 19 June 2020 (Status as of 25 August 2021)
 
 The Swiss Federal Council,
 
@@ -335,7 +335,7 @@ The Confederation may sell the essential medical goods on the market in return f
 
 **Exceptions for medical devices. General[^23-1]**
 
-<sup>1</sup> In response to an application, Swissmedic may authorise the placing on the market and use of medical devices that have not undergone a conformity assessment procedure in accordance with Article 10 the Medical Devices Ordinance of 17 October 2001[^23-2] (MedDO), provided their use for preventing and combating the coronavirus in Switzerland is in the interests of public health or patient safety or health and provided, taking account of their intended purpose, their fulfilment of the essential requirements and their effectiveness and performance are adequately proven.
+<sup>1</sup> In response to an application, Swissmedic may authorise the placing on the market and use of medical devices that have not undergone a conformity assessment procedure in accordance with Article 23 the Medical Devices Ordinance of 1 July 2020[^23-2][^23-3] (MedDO), provided their use for preventing and combating the coronavirus in Switzerland is in the interests of public health or patient safety or health and provided, taking account of their intended purpose, their fulfilment of the essential requirements and their effectiveness and performance are adequately proven.
 
 <sup>2</sup> When assessing the risks under paragraph 1, Swissmedic shall in particular take account of the procurement needs identified by the FOPH for preventing and combating the coronavirus in Switzerland.
 
@@ -343,22 +343,23 @@ The Confederation may sell the essential medical goods on the market in return f
 
 <sup>4</sup>
 
-Facemasks which have not undergone a conformity assessment procedure under Article 10 MedDO may be placed on the market without authorisation under paragraph 1 provided they:
+Facemasks which have not undergone a conformity assessment procedure under Article 23 MedDO may be placed on the market without authorisation under paragraph 1 provided they:
 
 - a. are placed on the market exclusively for non-medical use; and
 - b. are expressly labelled as being for non-medical use.
 
 <sup>5</sup> Facemasks placed on the market in accordance with paragraph 3<sup>bis</sup> may not be used in hospitals or medical practices by persons in direct contact with patients.
 
-<sup>5bis</sup> The SwissCovid app as specified in the Ordinance of 24 June 2020[^23-3] on the Proximity Tracing System for the Coronavirus Sars-CoV-2 and as specified in the Ordinance of 30 June 2021[^23-4] on a Notification System for possible Infection with the Coronavirus Sars-CoV-2 at Events is not subject to the provisions on the conformity assessment of medical devices.[^23-5]
+<sup>5bis</sup> The SwissCovid app as specified in the Ordinance of 24 June 2020[^23-4] on the Proximity Tracing System for the Coronavirus Sars-CoV-2 and as specified in the Ordinance of 30 June 2021[^23-5] on a Notification System for possible Infection with the Coronavirus Sars-CoV-2 at Events is not subject to the provisions on the conformity assessment of medical devices.[^23-6]
 
 <sup>6</sup> The obligations in relation to product surveillance under the MedDO, in particular to collecting reports of incidents, continue to apply.
 
 [^23-1]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^23-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^23-3]: [SR 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
-[^23-4]: [SR 818.102.4](https://fedlex.data.admin.ch/eli/cc/2021/411)
-[^23-5]: Inserted by Art. 18 of the O of 30 June 2021 on a Notification System for possible Infection with the Coronavirus Sars-CoV-2 at Events, in force from 1 July 2021 until 30 June 2022 ([AS 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)).
+[^23-3]: The reference was amended on 26 May 2021 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). The amendment has been made throughout the text.
+[^23-4]: [SR 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
+[^23-5]: [SR 818.102.4](https://fedlex.data.admin.ch/eli/cc/2021/411)
+[^23-6]: Inserted by Art. 18 of the O of 30 June 2021 on a Notification System for possible Infection with the Coronavirus Sars-CoV-2 at Events, in force from 1 July 2021 until 30 June 2022 ([AS 2021 411](https://fedlex.data.admin.ch/eli/oc/2021/411)).
 
 #### Art. 23a
 
@@ -826,7 +827,7 @@ Annex 4*[^t-5]*
 
 ## List of important medicinal products, medical devices and protective equipment (Essential Medical Goods)
 
-[^t-5]: Amended by No I of the FOPH O of 6 Oct. 2020 (List of important medical products and list of active substances for the treatment of COVID-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Revised in accordance with No II para. 1 of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), No I para. 1 of the FDHA O of 14 April 2021 (Amendment of the lists of important medical products and of active substances for the treatment of COVID-19 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)) and No II of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-5]: Amended by No I of the FOPH O of 6 Oct. 2020 (List of important medical products and list of active substances for the treatment of COVID-19) ([AS 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Revised by No II para. 1 of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), No I para. 1 of the FDHA O of 14 April 2021 (Amendment of the lists of important medical products and of active substances for the treatment of COVID-19 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)), No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), and No I of the FDHA O of 17 Aug. 2021 (Amendment of the List of important medical products and list of active substances for the treatment of COVID-19), in force since 25 Aug. 2021 ([AS 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)).
 
 ### 1. Active substances or medicinal products with the listed active substances
 
@@ -926,6 +927,8 @@ Annex 4*[^t-5]*
 
 \48. Infusion solutions
 
+\49. Sotrovimab
+
 ### 2. Medical devices within the meaning of the Medical Devices Ordinance of 17 October 2001****
 
 [^annex4-lvlu1-lvl2-1]
@@ -986,10 +989,11 @@ Annex 5*[^t-6]*
 
 ## List of active substances for the treatment of COVID-19
 
-[^t-6]: Amended by No I paragraph 2 of the FDHA O of 14 April 2021 (Amendment of lists of important medical products and of active substances for the treatment of COVID-19), in force since 15 April 2021 ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
+[^t-6]: Amended by No I para. 2 of the FDHA O of 14 April 2021 (Amendment of lists of important medical products and of active substances for the treatment of COVID-19) ([AS 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)). Revised by No I of the FDHA O of 17 Aug. 2021 (Amendment of the List of important medical products and list of active substances for the treatment of COVID-19), in force since 25 Aug. 2021 ([AS 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)).
 
 - [tab] 1. Casirivimab/imdevimab
 - 2\. Bamlanivimab/etesevimab
+- 3\. Sotrovimab
 
 Annex 5a*[^t-7]*
 
@@ -1044,7 +1048,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)) and the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) and the by No II para. 2 of the O of 25 Aug. 2021, in force since 1 July 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) and the by No II para. 2 of the O of 25 Aug. 2021, in force since 1 July 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1196,13 +1200,13 @@ Annex 6*[^t-8]*
 
 ### 1.3 Analyses for Sars-CoV-2 antibodies
 
-- [tab]
+- 1\.3.1
 
-  1.3.1 The Confederation shall pay the costs of analyses for Sars-CoV-2 antibodies:
+  The Confederation shall pay the costs of analyses for Sars-CoV-2 antibodies:
 
   - a. if instructed to do so by the responsible cantonal body;
   - b. if instructed to do so by a doctor four weeks after the second vaccination in the case of person with severe immosuppression;
-  - c. if instructed to do so by a doctor with a view to deicding whether a specific person should undergo therapy with monoclonal antibodies.
+  - c. if instructed to do so by a doctor with a view to deciding whether a specific person should undergo therapy with monoclonal antibodies.
 
 - 1\.3.2
 
@@ -1582,7 +1586,7 @@ Annex 7*[^t-9]*
 
 ## Diseases and genetic anomalies that make the persons concerned persons at high risk
 
-[^t-9]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Aug. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und No II of the O of 12 May 2021, in force since 17 Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Aug. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) and No II of the O of 12 May 2021, in force since 17 Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 

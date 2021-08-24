@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-08-02
+version: 2021-08-25
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210802/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210802-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210802/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210825/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210825-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210825/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210802/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 2 agosto 2021)
+del 19 giugno 2020 (Stato 25 agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -826,7 +826,7 @@ Allegato 4*[^t-5]*
 
 ## Elenco dei medicamenti, dei dispositivi medici e dei dispositivi di protezione importanti (materiale medico importante)
 
-[^t-5]: Nuovo testo giusta il n. I dell’O dell’UFSP del 19 ott. 2020 (Elenco del materiale medico importante e elenco dei principi attivi per il trattamento del COVID-19 ([RU 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Aggiornato dal n. II cpv. 1 dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), dal n. I cpv. 1 dell’O del DFI del 14 apr. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19) ([RU 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-5]: Nuovo testo giusta il n. I dell’O dell’UFSP del 19 ott. 2020 (Elenco del materiale medico importante e elenco dei principi attivi per il trattamento del COVID-19 ([RU 2020 4129](https://fedlex.data.admin.ch/eli/oc/2020/753)). Aggiornato dal n. II cpv. 1 dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)), dal n. I cpv. 1 dell’O del DFI del 14 apr. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19) ([RU 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)), dal n. II dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)) e dal n. I dell’O dell’DFI del 17 ago. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19), in vigore dal 25 ago. 2021 ([RU 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)).
 
 ### 1. Principi attivi nonché medicamenti contenenti i principi attivi elencati
 
@@ -878,8 +878,9 @@ Allegato 4*[^t-5]*
 - 46\. Bamlanivimab/Etesevimab
 - 47\. Ossigeno medicinale
 - 48\. Soluzioni per infusioni
+- 49\. Sotrovimab
 
-### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici
+### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001****relativa ai dispositivi medici
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -898,7 +899,7 @@ Allegato 4*[^t-5]*
 
 ### 3. Dispositivi di protezione individuale e altri dispositivi
 
-### 3.1 Dispositivi di protezione individuale ai sensi dell’ordinanza del 25 ottobre 2017 sui DPI
+### 3.1 Dispositivi di protezione individuale ai sensi dell’ordinanzadel 25 ottobre 2017**** sui DPI
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -919,14 +920,15 @@ Allegato 4*[^t-5]*
 
 Allegato 5*[^t-6]*
 
-(art. 21 cpv. 1 e 3, 22 cpv. 1)
+(art. 21 cpv. 1 e 3 e 22 cpv. 1)
 
 ## Elenco dei principi attivi per il trattamento del COVID-19
 
-[^t-6]: Nuovo testo giusta il n. I cpv. 2 dell’O del DFI del 14 apr. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19), in vigore dal 15 apr. 2021 ([RU 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)).
+[^t-6]: Nuovo testo giusta il n. I cpv. 2 dell’O del DFI del 14 apr. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19 ([RU 2021 212](https://fedlex.data.admin.ch/eli/oc/2021/212)) e dal n. I dell’O dell’DFI del 17 ago. 2021 (Modifica degli elenchi del materiale medico importante e dei principi attivi per il trattamento del COVID-19), in vigore dal 25 ago. 2021 ([RU 2021 493](https://fedlex.data.admin.ch/eli/oc/2021/493)).
 
 - 1\. Casirivimab/Imdevimab
 - 2\. Bamlanivimab/Etesevimab
+- 3\. Sotrovimab
 
 Allegato 5a*[^t-7]*
 
