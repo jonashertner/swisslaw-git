@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-08-01
-valid_until: 2021-08-25
-version_adopted: 2021-06-30
+version: 2021-08-26
+valid_until: 2021-09-12
+version_adopted: 2021-08-25
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2336/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2354/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2336/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 01.08.2021)
+du 04.11.2020 (état au 26.08.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -430,7 +430,7 @@ arrête:
 
 <sup>2b</sup> L'article 6a est valable jusqu'au 31 mai 2021.
 
-<sup>2c</sup> Les articles 3 à 5, 6b et 16d à 16h sont valables jusqu'au 31 août 2021.
+<sup>2c</sup> Les articles 3 à 5, 6b et 16d à 16h sont valables jusqu'au 30 septembre 2021.
 
 <sup>2d</sup> …
 

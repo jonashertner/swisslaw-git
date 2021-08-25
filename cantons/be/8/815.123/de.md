@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-08-01
-valid_until: 2021-08-25
-version_adopted: 2021-06-30
+version: 2021-08-26
+valid_until: 2021-09-12
+version_adopted: 2021-08-25
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2336/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2354/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2336/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 01.08.2021)
+vom 04.11.2020 (Stand 26.08.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -430,7 +430,7 @@ beschliesst:
 
 <sup>2b</sup> Artikel 6a gilt bis zum 31. Mai 2021.
 
-<sup>2c</sup> Die Artikel 3 bis 5, 6b, 16d bis 16h gelten bis zum 31. August 2021.
+<sup>2c</sup> Die Artikel 3 bis 5, 6b, 16d bis 16h gelten bis zum 30. September 2021.
 
 <sup>2d</sup> …
 
