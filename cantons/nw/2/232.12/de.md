@@ -4,18 +4,20 @@ number: "232.12"
 title: "Vereinbarung der Kantone Schwyz, Obwalden und Nidwalden über die Zusammenarbeit im Datenschutz"
 language: de
 version: 2016-07-01
+corrected: 2021-08-26
 version_adopted: 2016-02-01
 adopted: 2016-02-01
 in_force: 2016-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/232.12"
-pdf: "https://gesetze.nw.ch/api/de/versions/502/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/84/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Vereinbarung der Kantone Schwyz, Obwalden und Nidwalden über die Zusammenarbeit im Datenschutz
 
-vom 01.02.2016 (Stand 01.07.2016)
+vom 1. Februar 2016<sup>1</sup>
 
 #### Art. 1
 
@@ -43,9 +45,11 @@ vom 01.02.2016 (Stand 01.07.2016)
 
 <sup>1</sup> Die Parlamente der Vereinbarungskantone bewilligen das jährliche Globalbudget. Nach Abzug von 10% gemäss Abs. 3 wird das Globalbudget nach Massgabe der ständigen Wohnbevölkerung wie folgt aufgeteilt:
 
-- a) Schwyz: — 66%
-- b) Obwalden: — 16%
-- c) Nidwalden: — 18%
+- a) Schwyz 66%
+
+- b) Obwalden 16%
+
+- c) Nidwalden 18% Für allfällige Nachtragskredite gilt der Verteilschlüssel gemäss Bst. a bis c.
 
 <sup>2</sup> Mit dem Globalbudget sind sämtliche zur Erfüllung der Aufgabe notwendigen Personal- und Sachaufwände der beauftragten Person, ihrer Stellvertretung und des Personals zu decken.
 
@@ -60,16 +64,20 @@ vom 01.02.2016 (Stand 01.07.2016)
 <sup>2</sup> Sie führt über ihre Tätigkeit detailliert Buch. Sie weist namentlich ihre zeitliche Beanspruchung aus:
 
 - a) für ihre Tätigkeit im Bereich des Öffentlichkeitsprinzips im Kanton Schwyz,
+
 - b) für die ordentliche Aufsichtstätigkeit im Datenschutz in den einzelnen Gemeinwesen,
+
 - c) für Beratungen und Stellungnahmen in Datenschutzfragen, um die sie von Behörden und Verwaltungsstellen der einzelnen Gemeinwesen angegangen wird,
+
 - d) für die Beratung von Privaten in Datenschutzfragen,
+
 - e) für die Öffentlichkeitsarbeit und für die Erfüllung der Rechenschaftspflicht im Datenschutz.
 
 <sup>3</sup> Diese Aufzeichnungen stehen den zuständigen Organen der Vereinbarungskantone zur Verfügung. Personendaten werden zu diesem Zweck anonymisiert.
 
 #### Art. 6
 
-<sup>1</sup> Der Kostenteiler nach Art. 4 Abs. 1 wird auf Beginn einer neuen Amtsdauer überprüft und nötigenfalls angepasst. Massgebend ist die ständige Wohnbevölkerung per Ende des Vorjahres.
+Der Kostenteiler nach Art. 4 Abs. 1 wird auf Beginn einer neuen Amtsdauer überprüft und nötigenfalls angepasst. Massgebend ist die ständige Wohnbevölkerung per Ende des Vorjahres.
 
 #### Art. 7
 
@@ -81,4 +89,6 @@ vom 01.02.2016 (Stand 01.07.2016)
 
 [^7-1]: A 2008, 2185
 
-A 2016, 782
+## Weitere Fussnoten
+
+- [1] A 2016, 782
