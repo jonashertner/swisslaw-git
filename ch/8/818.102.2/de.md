@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-07-12
+version: 2021-08-30
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210712/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210712-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210712/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210830/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210830-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210830/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210712/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 12. Juli 2021)
+vom 4. Juni 2021 (Stand am 30. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -276,13 +276,13 @@ Covid-19-Genesungszertifikate enthalten neben dem allgemeinen Inhalt aller Covid
 Ein Covid-19-Testzertifikat wird ausgestellt bei einem negativen Ergebnis:
 
 - a. einer molekularbiologischen Analyse auf Sars-CoV-2;
-- b.[^19-1] eines Sars-CoV-2-Schnelltests zur Fachanwendung nach Artikel 24*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^19-2], sofern dieser in der EU für die Ausstellung eines digitalen COVID-Zertifikats der EU zugelassen ist.
+- b.[^19-1] eines Sars-CoV-2-Schnelltests zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^19-2].
 
 <sup>1bis</sup> Das BAG führt eine aktualisierte Liste der Sars-CoV-2-Schnelltests nach Absatz 1 Buchstabe b und veröffentlicht sie auf seiner Website[^19-3].[^19-4]
 
 <sup>2</sup> Anträge auf Ausstellung von Testzertifikaten können spätestens anlässlich der Probeentnahme gestellt werden.
 
-[^19-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^19-1]: Fassung gemäss Ziff. IV der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^19-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^19-3]: www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Fachinformationen über die Covid-19-Testung.
 [^19-4]: Eingefügt durch Ziff. I der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).

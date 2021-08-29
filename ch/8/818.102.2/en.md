@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2021-07-12
+version: 2021-08-30
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210712/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210712-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210712/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210830/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210830-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210830/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 12 July 2021)
+of 4 June 2021 (Status as of 30 August 2021)
 
 The Swiss Federal Council,
 
@@ -278,13 +278,13 @@ In addition to the general content of all COVID-19 certificates, COVID-19 recove
 A COVID-19 test certificate shall be issued in the event of a negative result of:
 
 - a. a molecular-biological analysis for Sars-CoV-2;
-- b.[^19-1] a Sars-CoV-2 rapid test for specialist use in accordance with Article 24*a* of the COVID-19 Ordinance 3 of 19 June 2020[^19-2], provided that it is approved in the EU for issuing an EU Digital COVID Certificate.
+- b.[^19-1] a Sars-CoV-2 rapid test for specialist use in accordance with Article 24*a* of the COVID-19 Ordinance 3 of 19 June 2020[^19-2].
 
 <sup>1bis</sup> The FOPH shall maintain an updated list of Sars-CoV-2 rapid tests in accordance with paragraph 1 letter b, and publish it on its website[^19-3].[^19-4]
 
 <sup>2</sup> Requests for test certificates may be submitted at the latest when the sample is taken.
 
-[^19-1]: Amended by No I of the O of 30 June 2021, in force since 3 July 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^19-1]: Amended by No IV of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^19-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^19-3]: www.bag.admin.ch &gt; Diseases &gt; Infectious diseases: Outbreaks, Epidemics, Pandemics &gt; Current outbreaks and epidemics &gt; Coronavirus &gt; Information for healthcare professionals &gt; Specialist information on COVID-19 testing
 [^19-4]: Inserted by No I of the O of 30 June 2021, in force since 3 July 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).

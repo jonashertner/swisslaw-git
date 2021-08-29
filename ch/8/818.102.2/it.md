@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-07-12
+version: 2021-08-30
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210712/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210712-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210712/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210830/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210830-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210830/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210712/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 12 luglio 2021) (Stato 12 luglio 2021)
+del 4 giugno 2021 (Stato 30 agosto 2021) (Stato 30 agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -276,16 +276,15 @@ Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di gu
 Un certificato di test COVID-19 è emesso in caso di risultato negativo di:
 
 - a. un’analisi di biologia molecolare per il rilevamento del SARS-CoV-2;
-- b.[^19-1] un test rapido SARS-CoV-2 per uso professionale secondo l’articolo 24*a* dell’ordinanza 3 COVID-19 del 19 giugno 2020[^19-2] a condizione che tale test sia stato autorizzato nell’UE ai fini dell’emissione di un certificato digitale COVID dell’UE.
+- b.[^19-1] un test rapido SARS-CoV-2 per uso professionale secondo l’articolo 24*a* capoverso 1 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^19-2].
 
-<sup>1bis</sup> L’UFSP tiene un elenco aggiornato dei test rapidi SARS-CoV-2 secondo il capoverso 1 lettera b e lo pubblica sul proprio sito Internet[^19-3].[^19-4]
+<sup>1bis</sup> In deroga al capoverso 1, non può essere emesso il certificato per le analisi SARS-CoV-2 di cui la Confederazione assume le spese secondo l’allegato 6 numeri 1.1.1 lettere a–e h–j, 1.2.1, 1.4.1 lettere a–e, h, i e m, 2.1.1 lettera c, 2.2.1 lettera c, 3.1.1 lettera c nonché 3.2.1 lettera c dell’ordinanza 3 COVID-19.[^19-3]
 
 <sup>2</sup> Le richieste per l’emissione di certificati di test possono essere presentate al più tardi al momento del prelievo del campione.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 3 lug. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^19-1]: Nuovo testo giusta il n. IV dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^19-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^19-3]: www.ufsp.admin.ch &gt; Malattie &gt; Malattie infettive: insorgenze, epidemie, pandemie &gt; Insorgenze e epidemie attuali &gt; Coronavirus &gt; Informazioni per i professionisti della salute &gt; Informazioni specialistiche sui test COVID-19.
-[^19-4]: Introdotto dal n. I dell’O del 30 giu. 2021, in vigore dal 3 lug. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^19-3]: Introdotto dal n. I dell’O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)). Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 20
 
