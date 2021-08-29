@@ -3,11 +3,11 @@ sr: "830.31"
 title: Ordinanza del 20 marzo 2020 sui provvedimenti in caso di perdita di guadagno in relazione con il coronavirus (COVID-19) (Ordinanza COVID-19 perdita di guadagno)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: it
-version: 2021-07-01
+version: 2021-08-30
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2020-167-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20210830/it/xml/fedlex-data-admin-ch-eli-cc-2020-167-20210830-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210830/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210701/it"
 
 (Ordinanza COVID-19 perdita di guadagno)
 
-del 20 marzo 2020 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 20 marzo 2020 (Stato 30 agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -126,8 +126,8 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 [^2-13]: Introdotto dal n. I dell’O del 16 apr. 2020 ([RU 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-14]: Introdotto dal n. I dell’O del 1° lug. 2020 ([RU 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Nuovo testo giusta il n. I dell’O del 31 mar. 2021, in vigore dal 1° apr. 2021 ([RU 2021 183](https://fedlex.data.admin.ch/eli/oc/2021/183)).
 [^2-15]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^2-16]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 ago. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
-[^2-17]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 ago. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^2-16]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 set. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^2-17]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 set. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^2-18]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
 [^2-19]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-20]: Abrogato dal n. I dell’O dell’11 set. 2020, con effetto dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
@@ -153,8 +153,8 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 [^3-3]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^3-4]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^3-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^3-6]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 ago. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
-[^3-7]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 ago. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^3-6]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 set. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^3-7]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 set. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 4
 
@@ -193,7 +193,7 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 [^5-5]: Introdotto dal n. I dell’O del 18 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 390](https://fedlex.data.admin.ch/eli/oc/2021/390)).
 [^5-6]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^5-7]: Introdotto dal n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^5-8]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 ago. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^5-8]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 set. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^5-9]: Abrogato dal n. I dell’O dell’11 set. 2020, con effetto dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 
 #### Art. 6
