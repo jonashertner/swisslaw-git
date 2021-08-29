@@ -4,13 +4,13 @@ number: "837.211"
 title: Verordnung zum Gesetz zum Bundesgesetz über die Krankenversicherung
 short: V KVGG
 language: de
-version: 2020-09-01
-valid_until: 2021-08-29
-version_adopted: 2020-08-12
+version: 2021-08-30
+valid_until: 2022-08-31
+version_adopted: 2021-08-18
 adopted: 2016-03-16
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/837.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2882/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3077/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2882/pdf_file"
 
 (V KVGG)
 
-Vom 16.03.2016 (Stand 01.09.2020)
+Vom 16.03.2016 (Stand 30.08.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -204,7 +204,7 @@ beschliesst:
 
 **Geltendmachung der Differenzkosten gemäss § 17 Abs. 3 KVGG**
 
-<sup>1</sup> Für das Jahr 2017 besteht seitens der Gemeinden ein einmaliges Anrecht auf Rückerstattung für Personen, die vor dem 1. Oktober 2016 Sozialhilfe bezogen haben. Diese ausserordentliche Rückerstattung basiert auf den folgenden hypothetischen Richtprämien: Erwachsene Fr. 4077.–, junge Erwachsene Fr. 3861.– und Kinder Fr. 900.–.
+<sup>1</sup> Für das Jahr 2017 besteht seitens der Gemeinden ein einmaliges Anrecht auf Rückerstattung für Personen, die vor dem 1. Oktober 2016 Sozialhilfe bezogen haben. Diese ausserordentliche Rückerstattung basiert auf den folgenden hypothetischen Richtprämien: Erwachsene Fr. 4'077.–, junge Erwachsene Fr. 3'861.– und Kinder Fr. 900.–.
 
 #### § 15
 
