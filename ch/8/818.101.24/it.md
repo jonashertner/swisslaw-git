@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-08-25
+version: 2021-08-30
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210825/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210825-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210825/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210830/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210830-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210830/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210825/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 25 agosto 2021)
+del 19 giugno 2020 (Stato 30 agosto 2021)
 
 Il Consiglio federale svizzero,
 
@@ -331,7 +331,7 @@ La Confederazione può distribuire il materiale medico importante contro pagamen
 
 #### Art. 23
 
-**Deroghe per i dispositivi medici: in generale[^23-1]**
+**Deroghe per i dispositivi medici[^23-1]**
 
 <sup>1</sup> Swissmedic può, su richiesta, autorizzare l’immissione in commercio e la messa in esercizio di dispositivi medici non sottoposti a una procedura di valutazione della conformità secondo l’articolo 23 dell’ordinanza del 1° luglio 2020[^23-2] relativa ai dispositivi medici (ODmed)[^23-3] se il loro impiego per prevenire e combattere il coronavirus in Svizzera è nell’interesse della salute pubblica oppure della sicurezza o della salute dei pazienti e se, tenendo conto dello scopo a cui sono destinati, ne sono dimostrati in misura sufficiente l’adempimento delle esigenze fondamentali, nonché l’efficacia e la prestazione.
 
@@ -352,7 +352,7 @@ Le mascherine facciali che non sono state sottoposte a una procedura di valutazi
 
 <sup>6</sup> Restano in vigore gli obblighi di sorveglianza sui dispositivi secondo l’ODmed, in particolare gli obblighi di raccolta e di notifica degli eventi gravi.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^23-1]: Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^23-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^23-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 26 mag. 2021. Di detta modifica è tenuto conto in tutto il presente testo.
 [^23-4]: [RS 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
@@ -397,33 +397,23 @@ I test rapidi non automatizzati per il rilevamento diretto del SARS-CoV-2 sul si
 
 <sup>1bis</sup> Possono essere eseguiti anche in e da organizzazioni di cure e d’aiuto a domicilio nonché da assistenti secondo la legge federale del 19 giugno 1959[^24-6] su l’assicurazione per l’invalidità (LAI).[^24-7]
 
-<sup>2</sup> I test rapidi SARS-CoV-2 possono essere eseguiti anche al di fuori delle strutture di cui al capoverso 1, a condizione che un dirigente di laboratorio, un medico o un farmacista si assuma la responsabilità del rispetto dei requisiti di cui agli articoli 24–24*b*.
+<sup>2</sup> I test rapidi SARS-CoV-2 possono essere eseguiti anche al di fuori della sede delle strutture di cui al capoverso 1, a condizione che un dirigente di laboratorio, un medico o un farmacista si assuma la responsabilità del rispetto dei requisiti di cui al presente articolo e agli articoli 24–24*b*.[^24-8]
 
-<sup>3</sup>
-
-I test rapidi SARS-CoV-2 basati su procedure di rilevamento di biologia molecolare possono essere eseguiti soltanto:
-
-- a. nelle strutture di cui al capoverso 1 lettera a;
-- b. al di fuori di queste strutture, a condizione che il dirigente di laboratorio di tale struttura si assuma la responsabilità dell’esecuzione dei test.
+<sup>3</sup> Se le strutture di cui al capoverso 1 lettera a offrono test rapidi SARS-CoV-2 al di fuori della loro sede, devono notificare queste offerte al Cantone.[^24-9]
 
 <sup>4</sup>
 
-Le strutture di cui ai capoversi 1 lettera b e 1<sup>bis</sup> possono eseguire test rapidi SARS-CoV-2 per uso professionale senza l’autorizzazione di cui all’articolo 16 LEp e al di fuori di sistemi chiusi se soddisfano i requisiti seguenti:[^24-8]
+Le strutture di cui ai capoversi 1 lettera b e 1<sup>bis</sup> possono eseguire test rapidi SARS-CoV-2 per uso professionale senza l’autorizzazione di cui all’articolo 16 LEp e al di fuori di sistemi chiusi se soddisfano i requisiti seguenti:[^24-10]
 
 - a. sono previsti e rispettati provvedimenti di sicurezza e piani di protezione adeguati per la protezione delle persone, degli animali, dell’ambiente e della diversità biologica;
-- b.[^24-9] i test sono eseguiti soltanto da persone appositamente formate e secondo le istruzioni del fabbricante del test;
+- b.[^24-11] i test sono eseguiti soltanto da persone appositamente formate e secondo le istruzioni del fabbricante del test;
 - c. i risultati dei test sono interpretati sotto la sorveglianza di persone con le conoscenze tecniche specifiche necessarie; a tal fine è anche possibile rivolgersi a specialisti esterni;
 - d. le strutture tengono una documentazione che dimostri la tracciabilità e la qualità dei sistemi di test impiegati. La documentazione deve essere conservata;
 - e. le strutture sono autorizzate dal Cantone a eseguire i test.
 
-<sup>4bis</sup>
+<sup>4bis</sup> I test rapidi SARS-CoV-2 destinati a essere utilizzati dal pubblico per l’autodiagnosi (test autodiagnostici SARS-CoV-2) possono essere dispensati e impiegati se sono destinati, secondo le indicazioni del fabbricante, a essere utilizzati per l’autodiagnosi e certificati di conseguenza.[^24-12]
 
-I test rapidi SARS-CoV-2 destinati a essere utilizzati dal pubblico per l’autodiagnosi (test autodiagnostici SARS-CoV-2) possono essere dispensati e impiegati se:
-
-- a. sono destinati, secondo le indicazioni del fabbricante, a essere utilizzati dal pubblico per l’autodiagnosi e certificati di conseguenza;
-- b. soddisfano i requisiti dell’articolo 24*a* e i criteri minimi secondo l’allegato 5*a* numero 3.[^24-10]
-
-<sup>5</sup> Sono considerati test rapidi SARS-CoV-2 i metodi che permettono di rilevare direttamente la presenza degli antigeni o dell’acido ribonucleico del SARS-CoV-2. I test non sono automatizzati e richiedono uno strumentario minimo; è automatizzata tutt’al più la lettura dei risultati.
+<sup>5</sup> Sono considerati test rapidi SARS-CoV-2 i metodi che permettono di rilevare direttamente la presenza degli antigeni del SARS-CoV-2. I test non sono automatizzati e richiedono uno strumentario minimo; è automatizzata tutt’al più la lettura dei risultati.[^24-13]
 
 [^24-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 [^24-2]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
@@ -432,34 +422,22 @@ I test rapidi SARS-CoV-2 destinati a essere utilizzati dal pubblico per l’auto
 [^24-5]: Nuovo testo giusta il n. I dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie), in vigore dal 28 gen. 2021 ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 [^24-6]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^24-7]: Introdotto dal n. I dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie) ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-8]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-9]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-10]: Introdotto dal n. I dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^24-8]: Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-9]: Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-10]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-11]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-12]: Introdotto dal n. I dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-13]: Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 24a
 
-**Test rapidi SARS-CoV-2 ammessi[^24a-2]**[^24a-1]
+**Test rapidi SARS-CoV-2 ammessi per uso professionale**[^24a-1]
 
-<sup>1</sup> Per i test rapidi per il SARS-CoV-2 possono essere impiegati soltanto sistemi di test per i quali una validazione indipendente effettuata da un laboratorio autorizzato secondo l’articolo 16 LEp ha dimostrato che l’affidabilità e la prestazione soddisfano i criteri minimi secondo l’allegato 5*a*.[^24a-3]
+<sup>1</sup> Per i test rapidi per il SARS-CoV-2 per uso professionale possono essere impiegati soltanto sistemi di test ammessi nell’UE per l’emissione del certificato COVID digitale dell’UE.
 
-<sup>2</sup> Al posto dei sistemi di test di cui al capoverso 1, in casi specifici possono essere impiegati anche sistemi di test che sono stati validati da un laboratorio europeo riconosciuto o da una struttura europea riconosciuta, a condizione che l’UFSP riconosca questa validazione.[^24a-4]
+<sup>2</sup> In deroga al capoverso 1, possono essere impiegati anche altri sistemi di test a condizione che i test rapidi SARS-CoV-2 siano eseguiti da laboratori autorizzati secondo l’articolo 16 LEp e da centri di prelievo di campioni da essi gestiti.
 
-<sup>3</sup> I sistemi di test di cui ai capoversi 1 e 2 possono essere impiegati soltanto se ciò non mette in pericolo l’approvvigionamento sufficiente di materiale per i test dei laboratori di cui all’articolo 24 capoverso 1 lettera a.
-
-<sup>4</sup> Il DFI può adeguare l’allegato 5*a* all’evoluzione tecnico-scientifica.
-
-<sup>5</sup>
-
-I capoversi 1–4 non si applicano ai test rapidi per il SARS-CoV-2 eseguiti:
-
-- a. dai laboratori autorizzati secondo l’articolo 16 LEp e dai centri di prelievo di campioni da essi gestiti;
-- b. da strutture che non sono laboratori, nelle quali però un contratto disciplina la vigilanza e la responsabilità diretta e attiva di un laboratorio autorizzato e l’attività è gestita da quest’ultimo.[^24a-5]
-
-[^24a-1]: Introdotto dal n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
-[^24a-2]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24a-3]: Nuovo testo giusta il n. I dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie), in vigore dal 28 gen. 2021 ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^24a-4]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24a-5]: Nuovo testo giusta il n. I dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie), in vigore dal 28 gen. 2021 ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24a-1]: Introdotto dal n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 24b
 
@@ -474,11 +452,9 @@ Se dopo il risultato positivo di un test rapido SARS-CoV-2 non è eseguito un te
 
 **Elenco dei test rapidi SARS-CoV-2**[^24c-1]
 
-<sup>1</sup> L’UFSP pubblica un elenco dei test rapidi SARS-CoV-2 che possono essere impiegati.
+<sup>1</sup> L’UFSP tiene aggiornati e pubblica sul proprio sito Internet elenchi dei test rapidi SARS-CoV-2 per uso professionale secondo l’articolo 24*a* e dei test autodiagnostici per il SARS-CoV-2 secondo l’articolo 24 capoverso 4<sup>bis</sup>.
 
-<sup>2</sup> Pubblica l’elenco sul proprio sito Internet e lo tiene aggiornato.
-
-[^24c-1]: Introdotto dal n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^24c-1]: Introdotto dal n. I dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) 21 dic. 2020 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 24d
 
@@ -527,8 +503,11 @@ Possono a tal fine obbligare gli ospedali e le cliniche a:
 
 <sup>5</sup> Nel quadro delle prestazioni secondo l’allegato 6, i fornitori di prestazioni non possono fatturare ulteriori spese alle persone sottoposte al test. Devono inoltre far usufruire al debitore della rimunerazione gli sconti diretti o indiretti sugli importi secondo l’allegato 6.
 
+<sup>6</sup> Se il fornitore di prestazioni offre prestazioni di cui all’allegato 6 che sono a carico della persona sottoposta a test, prima del test deve informare quest’ultima sulla possibilità dell’assunzione delle spese secondo l’articolo 26*b*.[^26-3]
+
 [^26-1]: Nuovo testo giusta il n. I dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26-3]: Introdotto dal n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 26a
 
@@ -627,7 +606,7 @@ In caso di assemblee di società, l’organizzatore può disporre, a prescindere
 
 [^chap4a-1]
 
-[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 ago. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 set. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 27a
 
@@ -712,6 +691,14 @@ I dispositivi di protezione individuale autorizzati in virtù dell’articolo 24
 <sup>3</sup> Le domande pendenti al momento dell’entrata in vigore della modifica del 23 giugno 2021 sono trattate in virtù dell’articolo 23*a* del diritto anteriore.
 
 [^28b-1]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 26 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+
+#### Art. 28c
+
+**Disposizione transitoria della modifica del 25 agosto 2021**[^28c-1]
+
+I test rapidi SARS-CoV-2 per uso professionale utilizzati sulla base dell’articolo 24*a* del diritto anteriore possono continuare a essere utilizzati fino al 25 ottobre 2021 a condizione che siano adempiuti i requisiti di cui all’articolo 24.
+
+[^28c-1]: Introdotto dal n. I dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 29
 
@@ -932,50 +919,7 @@ Allegato 5*[^t-6]*
 
 Allegato 5a*[^t-7]*
 
-(art. 23*a* cpv. 2 lett. e, 24 cpv. 4<sup>bis</sup> lett. b e 24*a* cpv. 1)
-
-## Criteri minimi per determinare l’affidabilità e la prestazione dei test rapidi SARS-CoV-2
-
-[^t-7]: Introdotto dal n. III cpv. 1 dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-
-### 1 In generale
-
-- 1\.1 I test da sottoporre a validazione devono essere confrontati con una reazione a catena della polimerasi-trascrittasi inversa in tempo reale (*Reverse Transcription-Polymerase Chain Reaction*, RT-PCR) a partire da un tampone nasofaringeo. Per calcolare la specificità dei test rapidi SARS-CoV-2 basati su procedure di rilevamento di biologia molecolare a partire da un campione di saliva, il test da sottoporre a validazione può essere confrontato con una RT-PCR a partire da un campione di saliva.
-- 1\.2 Per l’impiego dei test rapidi SARS-CoV-2 è richiesta una validazione indipendente.
-
-### 2 Criteri per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico
-
-### 2.1 Criteri di validazione clinica
-
-- 2\.1.1 L’esame della sensibilità e della specificità nella validazione clinica deve basarsi su almeno 100 campioni positivi e 300 campioni negativi al SARS-CoV-2. I campioni utilizzati devono provenire da pazienti sintomatici secondo i criteri clinici stabiliti dall’UFSP che sono stati testati entro 0–4 giorni dalla comparsa dei sintomi.
-- 2\.1.2 La sensibilità dei test deve attestarsi almeno all’85 per cento e la specificità almeno al 99 per cento.
-
-### 2.2 Criteri di validazione tecnica per i test rapidi degli antigeni SARS-CoV-2 eseguiti a partire da un tampone nasofaringeo
-
-- 2\.2.1 L’esame della sensibilità e della specificità nella validazione tecnica deve basarsi su almeno 100 campioni positivi e 300 campioni negativi al SARS-CoV-2, di cui almeno 50 devono avere una carica virale minima di 10e5 copie di virus/ml.
-- 2\.2.2
-
-  I test antigenici rapidi SARS-CoV-2 da sottoporre a validazione devono soddisfare i seguenti requisiti minimi di sensibilità in funzione del numero di copie del materiale di partenza:
-
-  - – per 10e7 copie/ml: 95 %
-  - – per 10e6 copie/ml: 90 %
-  - – per 10e5 copie/ml: 80 %
-
-- 2\.2.3 La specificità deve attestarsi almeno al 99 per cento.
-
-### 3 Criteri di validazione clinica per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard di screening e i test autodiagnostici SARS-CoV-2
-
-### 3.1 Sensibilità
-
-- 3\.1.1 L’esame della sensibilità deve basarsi su almeno 100 campioni positivi al SARS-CoV-2. I campioni utilizzati devono provenire da pazienti sintomatici testati entro 0–7 giorni dalla comparsa dei sintomi.
-- 3\.1.2 La sensibilità dei test deve attestarsi almeno all’80 per cento.
-
-### 3.2 Specificità
-
-- 3\.2.1 L’esame della specificità deve basarsi su almeno 100 campioni negativi al SARS-CoV-2. I campioni utilizzati devono provenire da pazienti asintomatici senza rischio concreto di esposizione.
-- 3\.2.2 La specificità dei test deve attestarsi almeno al 97 per cento.
-- 3\.3 Reattività incrociata: esame anche di campioni con un’elevata concentrazione di coronavirus umani affini, compresi almeno i coronavirus umani 229E, OC43, NL63 e HKU1.
-- 3\.4 Interferenza: esame anche di campioni positivi a un agente patogeno che può provocare sintomi analoghi (influenza A, B; RSV) o che potrebbe interferire con il principio del test (*Staphylococcus aureus* positivo alla proteina A in caso di tampone nasofaringeo come matrice del campione).
+[^t-7]: Introdotto dal n. III cpv. 1 dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Abrogato dal n. II cpv. 1 dell’O del 25 ago. 2021, con effetto dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 Allegato 6*[^t-8]*
 
@@ -983,7 +927,7 @@ Allegato 6*[^t-8]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) e dal n. II cpv. 2 dell’O del 25 ago. 2021, in vigore dal 21 lug. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) e dal n. II cpv. 2 dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -1004,10 +948,10 @@ Allegato 6*[^t-8]*
 
     dopo il risultato positivo:
 
-    - – di un test rapido SARS-CoV-2 per uso professionale, indipendentemente dal fatto che il test sia stato eseguito con un test rapido SARS-CoV-2 secondo lo standard diagnostico o lo standard di screening,
+    - – di un test rapido SARS-CoV-2 per uso professionale,
     - – di un test autodiagnostico SARS-CoV-2;
 
-  - i. dopo un risultato positivo di un’analisi di biologia molecolare aggregata secondo i numeri 1.2, 2.2 o 3.2;
+  - i. dopo un risultato positivo di un’analisi di biologia molecolare aggregata;
   - j. nell’ambito dello studio e del controllo di un focolaio su ordine di un medico.
 
 - 1\.1.2
@@ -1040,10 +984,12 @@ Allegato 6*[^t-8]*
   Per le analisi di biologia molecolare per il SARS-CoV-2 assume al massimo 153.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
   - a. per il prelievo del campione:
+  - a. per il prelievo del campione:
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
 <tr><td>Colloquio con il paziente e prelievo del campione, compreso il materiale di protezione</td><td>22.50 fr.</td></tr>
+<tr><td>Sorveglianza del prelievo del campione da parte della persona da testare e attribuzione del campione alla persona</td><td>15 fr.</td></tr>
 <tr><td>Invio del risultato del test alla persona testata e alle autorità competenti secondo l’articolo 12 capoverso 1 LEp e, in caso d’infezione accertata, richiesta del codice di attivazione generato dal sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 (sistema TP), nonché per l’emissione del certificato del test COVID-19</td><td>2.50 fr.</td></tr>
 <tr><td>Colloquio medico-paziente dettagliato per stabilire l’indicazione da parte del medico, se del caso</td><td>22.50 fr.</td></tr>
 </table>
@@ -1104,14 +1050,14 @@ Allegato 6*[^t-8]*
 
 - 1\.2.3
 
-  Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 337.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+  Per le analisi di biologia molecolare aggregate per il SARS-CoV-2 assume al massimo 315 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
   - a. per il prelievo del campione:
 
 <table>
 <tr><td>Prestazione</td><td>Importo massimo</td></tr>
 <tr><td>Colloquio con il paziente e prelievo del campione, compreso il materiale di protezione</td><td>22.50 fr.</td></tr>
-<tr><td>Colloquio medico-paziente dettagliato per stabilire l’indicazione da parte del medico, se del caso</td><td>22.50 fr.</td></tr>
+<tr><td>Sorveglianza del prelievo del campione da parte della persona da testare e attribuzione del campione alla persona</td><td>15 fr.</td></tr>
 </table>
 
 - b. per l’analisi di biologia molecolare aggregata:
@@ -1199,7 +1145,7 @@ Allegato 6*[^t-8]*
 
 - 1\.4.1
 
-  La Confederazione assume le spese per le analisi immunologiche degli antigeni SARS-CoV-2 e per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico soltanto nei seguenti casi:
+  La Confederazione assume le spese per le analisi immunologiche degli antigeni SARS-CoV-2 e per i test rapidi SARS-CoV-2 per uso professionale soltanto nei seguenti casi:
 
   - a. per le persone sintomatiche;
   - b. per i contatti in quarantena;
@@ -1208,14 +1154,14 @@ Allegato 6*[^t-8]*
   - e. per le persone informate dall’app SwissCovid di essere potenzialmente entrate in contatto stretto con una persona infettata dal SARS-CoV-2; la Confederazione assume le spese per un singolo test, eseguito al più presto a partire dal quinto giorno dopo la segnalazione dell’app SwissCovid;
   - f. per le persone domiciliate all’estero che lavorano o seguono una formazione in Svizzera, se per entrare nello Stato estero di residenza è richiesto il risultato negativo di un’analisi immunologica degli antigeni SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale e i costi non sono assunti in altro modo;
   - g. per le persone domiciliate in Svizzera che lavorano o seguono una formazione all’estero, se per entrare nello Stato estero è richiesto il risultato negativo di un’analisi immunologica degli antigeni SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale e i costi non sono assunti in altro modo;
-  - h. dopo il risultato positivo di un’analisi di biologia molecolare aggregata secondo i numeri 1.2, 2.2, 3.2;
+  - h. dopo il risultato positivo di un’analisi di biologia molecolare aggregata;
   - i. nell’ambito dello studio e del controllo di un focolaio su ordine di un medico;
-  - j. per tutte le persone che non rientrano nelle lettere a–i.
+  - j.[^annex6-lvlu1-lvl1-lvl14-1] per tutte le persone che non rientrano nelle lettere a–i.
 
-- 1\.4.2 Assume inoltre le spese per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard di screening nei casi di cui al numero 1.4.1 lettere f, g e j.
+- 1\.4.2 ...
 - 1\.4.3
 
-  Assume le spese per le analisi immunologiche degli antigeni SARS-CoV-2 e i test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico e lo standard di screening soltanto se le prestazioni sono fornite dai seguenti fornitori di prestazioni:
+  Assume le spese soltanto se le prestazioni sono fornite dai seguenti fornitori di prestazioni:
 
   - a.
 
@@ -1238,7 +1184,7 @@ Allegato 6*[^t-8]*
 
 - 1\.4.4
 
-  Per le analisi immunologiche degli antigeni SARS-CoV-2 e i test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico e lo standard di screening assume al massimo 88.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+  Per le analisi immunologiche degli antigeni SARS-CoV-2 e i test rapidi SARS-CoV-2 per uso professionale assume al massimo 88.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
   - a. per il prelievo del campione:
 
@@ -1249,7 +1195,7 @@ Allegato 6*[^t-8]*
 <tr><td>Colloquio medico-paziente dettagliato per stabilire l’indicazione da parte del medico, se del caso</td><td>22.50 fr.</td></tr>
 </table>
 
-- b. per l’analisi immunologica degli antigeni SARS-CoV-2 e il test rapido SARS-CoV-2 per uso professionale secondo lo standard diagnostico e lo standard di screening:
+- b. per l’analisi immunologica degli antigeni SARS-CoV-2 e il test rapido SARS-CoV-2 per uso professionale:
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
@@ -1260,6 +1206,8 @@ Allegato 6*[^t-8]*
 <tr><td>– per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp</td><td>17 fr.</td></tr>
 <tr><td>– per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>24 fr.</td></tr>
 </table>
+
+[^annex6-lvlu1-lvl1-lvl14-1]: In vigore fino al 30 set. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 ### 1.5 Rilevamento di biologia molecolare di una o più varianti di SARS-CoV-2 preoccupanti
 
@@ -1310,11 +1258,11 @@ Allegato 6*[^t-8]*
 
 ### 2 Tariffe ridotte per i test mirati e ripetuti
 
-### 2.1 Test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico e lo standard di screening
+### 2.1 Test rapidi SARS-CoV-2 per uso professionale
 
 - 2\.1.1
 
-  La Confederazione assume le spese per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico e lo standard di screening solo nei seguenti casi:
+  La Confederazione assume le spese per i test rapidi SARS-CoV-2 per uso professionale solo nei seguenti casi:
 
   - a. per test mirati e ripetuti nelle scuole, nelle università e negli istituti di formazione ai fini della prevenzione e del rilevamento precoce dei focolai, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia;
   - b. in situazioni con una probabilità di trasmissione molto elevata, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia;
@@ -1344,7 +1292,7 @@ Allegato 6*[^t-8]*
     - 3\. da istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale,
     - 4\. da assistenti secondo la LAI.
 
-- 2\.1.3 Per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico o lo standard di screening assume al massimo 28 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 2\.1.3 Per i test rapidi SARS-CoV-2 per uso professionale assume al massimo 28 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
 <table>
 <tr><td>Prestazione</td><td>Importo massimo</td></tr>
@@ -1358,10 +1306,10 @@ Allegato 6*[^t-8]*
 
   La Confederazione assume le spese per le analisi di biologia molecolare aggregate per il SARS-CoV-2 solo nei seguenti casi:
 
-  - a. per test mirati e ripetuti nelle scuole, nelle università e negli istituti di formazione ai fini della prevenzione e del rilevamento precoce dei focolai, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia;
-  - b. in situazioni con una probabilità di trasmissione molto elevata, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia;
+  - a. per test mirati e ripetuti nelle scuole, nelle università e negli istituti di formazione ai fini della prevenzione e del rilevamento precoce dei focolai, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia o se i test sono coordinati mediante una piattaforma messa a disposizione dalla Confederazione;
+  - b. in situazioni con una probabilità di trasmissione molto elevata, se il servizio cantonale competente lo prevede e presenta all’UFSP una strategia o se i test sono coordinati mediante una piattaforma messa a disposizione dalla Confederazione;
   - c. per test limitati nel tempo nel contesto di focolai di infezione incontrollati, se previsto dal servizio cantonale competente;
-  - d. per test prima e durante i campi, per i partecipanti e gli accompagnatori, se il servizio cantonale competente presenta una strategia all’UFSP.
+  - d. per test prima e durante i campi, per i partecipanti e gli accompagnatori, se il servizio cantonale competente presenta una strategia all’UFSP o se i test sono coordinati mediante una piattaforma messa a disposizione dalla Confederazione.
 
 - 2\.2.2
 
@@ -1396,7 +1344,7 @@ Allegato 6*[^t-8]*
 
 <table>
 <tr><td>Prestazione</td><td>Importo massimo</td></tr>
-<tr><td>Prelievo del campione, compresi il materiale di protezione e il tempo di lavoro, e disbrigo dell’incarico</td><td>16.50 fr.</td></tr>
+<tr><td>Prelievo del campione, compresi il materiale di protezione e il tempo di lavoro</td><td>16.50 fr.</td></tr>
 </table>
 
 - b. per l’analisi di biologia molecolare aggregata:
@@ -1426,17 +1374,17 @@ Allegato 6*[^t-8]*
 
 - 3\.1.1
 
-  La Confederazione assume le spese per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard diagnostico solo nei seguenti casi:
+  La Confederazione assume le spese per i test rapidi SARS-CoV-2 per uso professionale solo nei seguenti casi:
 
   - a. per test mirati e ripetuti in ospedali, case di riposo e di cura nonché in istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale;
   - b. per test mirati e ripetuti in aziende e associazioni, se il servizio cantonale competente presenta una strategia all’UFSP;
   - c. per un contatto in quarantena, se nell’azienda in cui lavora sono eseguiti test mirati e ripetuti con almeno un test alla settimana;
   - d. in occasione di manifestazioni con limitazione d’accesso secondo l’articolo 15 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^annex6-lvlu1-lvl3-lvl31-1] o dell’articolo 6*b*<sup>quater</sup> dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020 nella versione modificata il 26 maggio 2021[^annex6-lvlu1-lvl3-lvl31-2].
 
-- 3\.1.2 Assume inoltre le spese per i test rapidi SARS-CoV-2 per uso professionale secondo lo standard di screening nei casi di cui al numero 3.1.1 lettere b e d.
+- 3\.1.2 ...
 - 3\.1.3
 
-  Assume le spese per i test rapidi SARS-CoV-2 per uso professionale secondo i numeri 3.1.1 e 3.1.2 soltanto se le prestazioni sono fornite:
+  Assume le spese per i test rapidi SARS-CoV-2 per uso professionale secondo il numero 3.1.1 soltanto se le prestazioni sono fornite:
 
   - 1\.
 
@@ -1453,7 +1401,7 @@ Allegato 6*[^t-8]*
   - 3\. da istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale,
   - 4\. da assistenti secondo la LAI.
 
-- 3\.1.4 Per i test rapidi SARS-CoV-2 per uso professionale secondo i numeri 3.1.1 e 3.1.2 assume al massimo 6.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 3\.1.4 Per i test rapidi SARS-CoV-2 per uso professionale secondo il numero 3.1.1 assume al massimo 6.50 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
@@ -1470,7 +1418,7 @@ Allegato 6*[^t-8]*
   La Confederazione assume le spese per le analisi di biologia molecolare aggregate per il SARS-CoV-2 solo nei seguenti casi:
 
   - a. per test mirati e ripetuti in ospedali, case di riposo e di cura nonché in altri istituti medico-sociali che accolgono persone a fini di trattamento, assistenza, riabilitazione o esercizio di una riabilitazione o occupazione professionale e sociale;
-  - b. per test mirati e ripetuti nelle aziende, se il servizio cantonale competente presenta una strategia all’UFSP;
+  - b. per test mirati e ripetuti in aziende, se il servizio cantonale competente presenta una strategia all’UFSP o se i test sono coordinati mediante una piattaforma messa a disposizione dalla Confederazione;
   - c. per un contatto in quarantena, se tra il personale dell’azienda in cui lavora sono eseguiti test mirati e ripetuti con almeno un test alla settimana.
 
 - 3\.2.2 Assume le spese soltanto se le prestazioni sono fornite da laboratori di cui all’articolo 54 capoverso 3 OAMal e laboratori d’ospedale di cui all’articolo 54 capoverso 2 OAMal che dispongono di un’autorizzazione secondo l’articolo 16 capoverso 1 LEp.
@@ -1490,25 +1438,29 @@ Allegato 6*[^t-8]*
 <tr><td>– per l’esecuzione di un’aggregazione centralizzata nei casi di cui al numero 3.2.1 lettere b e c, per ogni campione aggregato</td><td>18.50 fr.</td></tr>
 </table>
 
-### 3.3 Test autodiagnostici SARS-CoV-2
+### 3.3**** Test autodiagnostici SARS-CoV-2
+
+[^annex6-lvlu1-lvl3-lvl33-1]
+
+[^annex6-lvlu1-lvl3-lvl33-1]: In vigore fino al 30 set. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 - 3\.3.1 La Confederazione assume le spese per un massimo di cinque test autodiagnostici SARS-CoV-2 per persona sull’arco di 30 giorni, se dispensati dalle farmacie.
-- 3\.3.2 Per i test autodiagnostici SARS-CoV-2 assume al massimo 10 franchi. Questo importo comprende le prestazioni e i costi seguenti:
+- 3\.3.2 Per i test autodiagnostici SARS-CoV-2 assume al massimo 7.20 franchi. Questo importo comprende le prestazioni e i costi seguenti:
 
 <table>
 <tr><th>Prestazione</th><th>Importo massimo</th></tr>
-<tr><td>Per un test autodiagnostico SARS-CoV-2 dispensato direttamente con contatto personale con i clienti, solo il materiale necessario per il test, compresi il prezzo di fabbrica per la consegna, un supplemento dell’80 % sul prezzo di fabbrica per la consegna nonché l’IVA a un’aliquota del 7,7 %.</td><td>10 fr.</td></tr>
-<tr><td>Per un test autodiagnostico SARS-CoV-2 inviato, solo il materiale necessario per il test, compresi il prezzo di fabbrica per la consegna, un supplemento del 60 % sul prezzo di fabbrica per la consegna nonché l’IVA a un’aliquota del 7,7 %.</td><td>9 fr.</td></tr>
+<tr><td>Per un test autodiagnostico SARS-CoV-2 dispensato direttamente con contatto personale con i clienti, solo il materiale necessario per il test, compresi il prezzo di fabbrica per la consegna, un supplemento dell’80 % sul prezzo di fabbrica per la consegna nonché l’IVA a un’aliquota del 7,7 %.</td><td>7.20 fr.</td></tr>
+<tr><td>Per un test autodiagnostico SARS-CoV-2 inviato, solo il materiale necessario per il test, compresi il prezzo di fabbrica per la consegna, un supplemento del 60 % sul prezzo di fabbrica per la consegna nonché l’IVA a un’aliquota del 7,7 %.</td><td>6.40 fr.</td></tr>
 </table>
 
 - 3\.3.3 Non hanno diritto al rimborso delle spese dei test autodiagnostici
 
   SARS-CoV-2:
 
-  - a. le persone vaccinate secondo l’allegato 2 numero 1.1 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^annex6-lvlu1-lvl3-lvl33-1], se la vaccinazione risale a non più di 365 giorni dalla somministrazione dell’ultima dose; per il vaccino di Janssen il periodo considerato è di 365 giorni a partire dal ventiduesimo giorno dopo la vaccinazione;
+  - a. le persone vaccinate secondo l’allegato 2 numero 1.1 dell’ordinanza COVID-19 situazione particolare del 23 giugno 2021[^annex6-lvlu1-lvl3-lvl33-2], se la vaccinazione risale a non più di 365 giorni dalla somministrazione dell’ultima dose; per il vaccino di Janssen il periodo considerato è di 365 giorni a partire dal ventiduesimo giorno dopo la vaccinazione;
   - b. le persone che sono state contagiate dal SARS-CoV-2 e sono considerate guarite, per sei mesi a partire dall’undicesimo giorno dopo la conferma dell’infezione.
 
-[^annex6-lvlu1-lvl3-lvl33-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^annex6-lvlu1-lvl3-lvl33-2]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ### 4 Limitazioni
 
@@ -1523,7 +1475,7 @@ Allegato 7*[^t-9]*
 
 ## Malattie e anomalie genetiche che rendono le persone interessate particolarmente a rischio
 
-[^t-9]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 ago. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 set. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio particolare soltanto per determinate categorie di persone adulte. I criteri seguenti si riferiscono pertanto unicamente a persone adulte.
 

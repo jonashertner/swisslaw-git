@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-08-25
+version: 2021-08-30
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210825/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210825-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210830/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210830-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210830/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210825/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 25. August 2021)
+vom 19. Juni 2020 (Stand am 30. August 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -331,7 +331,7 @@ Der Bund kann wichtige medizinische Güter gegen Bezahlung im Markt selber oder 
 
 #### Art. 23
 
-**Ausnahmen für Medizinprodukte: Allgemeines[^23-1]**
+**Ausnahmen für Medizinprodukte[^23-1]**
 
 <sup>1</sup> Die Swissmedic kann auf Gesuch hin das Inverkehrbringen und die Inbetriebnahme von Medizinprodukten, für die kein Konformitätsbewertungsverfahren nach Artikel 23 der Medizinprodukteverordnung vom 1. Juli 2020[^23-2] (MepV)[^23-3] durchgeführt wurde, bewilligen, wenn deren Verwendung zur Verhütung und Bekämpfung des Coronavirus in der Schweiz im Interesse der öffentlichen Gesundheit oder der Patientensicherheit oder -gesundheit liegt und unter Berücksichtigung ihrer Zweckbestimmung die Erfüllung der grundlegenden Anforderungen sowie die Wirksamkeit und Leistung ausreichend nachgewiesen werden.
 
@@ -352,7 +352,7 @@ Gesichtsmasken, für die kein Konformitätsbewertungsverfahren nach Artikel 23 M
 
 <sup>6</sup> Die Pflichten zur Produktebeobachtung nach der MepV, insbesondere die Sammel- und Meldepflichten betreffend schwerwiegende Vorkommnisse, gelten weiterhin.
 
-[^23-1]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^23-1]: Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^23-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^23-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 26. Mai 2021 angepasst. Die Anpassung wurde im ganhzen Text vorgenommen.
 [^23-4]: [SR 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
@@ -397,33 +397,23 @@ Nicht automatisierte Einzelpatienten-Schnelltests zum direkten Nachweis von Sars
 
 <sup>1bis</sup> Sie dürfen auch in und durch Organisationen der Krankenpflege und Hilfe zu Hause sowie durch Assistenzpersonen nach dem Bundesgesetz vom 19. Juni 1959[^24-6] über die Invalidenversicherung (IVG) durchgeführt werden.[^24-7]
 
-<sup>2</sup> Sars-CoV-2-Schnelltests dürfen auch ausserhalb der in Absatz 1 erwähnten Einrichtungen durchgeführt werden, sofern eine Laborleiterin oder ein Laborleiter, eine Ärztin oder ein Arzt oder eine Apothekerin oder ein Apotheker die Verantwortung für die Einhaltung der Anforderungen der Artikel 24–24*b* übernimmt.
+<sup>2</sup> Sars-CoV-2-Schnelltests dürfen auch ausserhalb des Standortes der in Absatz 1 erwähnten Einrichtungen durchgeführt werden, sofern eine Laborleiterin oder ein Laborleiter, eine Ärztin oder ein Arzt oder eine Apothekerin oder ein Apotheker die Verantwortung für die Einhaltung der Anforderungen dieses Artikels und der Artikel 24*a* und 24*b* übernimmt.[^24-8]
 
-<sup>3</sup>
-
-Auf molekularbiologischen Nachweisverfahren basierende Sars-CoV-2-Schnelltests dürfen nur durchgeführt werden:
-
-- a. in Einrichtungen nach Absatz 1 Buchstabe a;
-- b. ausserhalb dieser Einrichtungen, sofern die Laborleiterin oder der Laborleiter einer solchen Einrichtung die Verantwortung für die Durchführung der Tests übernimmt.
+<sup>3</sup> Bieten Einrichtungen nach Absatz 1 Buchstabe a Sars-CoV-2-Schnelltests ausserhalb ihres Standortes an, so müssen sie diese Angebote dem Kanton melden.[^24-9]
 
 <sup>4</sup>
 
-Einrichtungen nach den Absätzen 1 Buchstabe b und 1<sup>bis</sup> dürfen Sars-CoV-2-Schnelltests zur Fachanwendung ohne Bewilligung nach Artikel 16 EpG und ausserhalb von geschlossenen Systemen durchführen, wenn sie die folgenden Anforderungen erfüllen:[^24-8]
+Einrichtungen nach den Absätzen 1 Buchstabe b und 1<sup>bis</sup> dürfen Sars-CoV-2-Schnelltests zur Fachanwendung ohne Bewilligung nach Artikel 16 EpG und ausserhalb von geschlossenen Systemen durchführen, wenn sie die folgenden Anforderungen erfüllen:[^24-10]
 
 - a. Geeignete Sicherheitsmassnahmen und Schutzkonzepte zum Schutz der Menschen, der Tiere, der Umwelt und der biologischen Vielfalt sind vorgesehen und werden eingehalten.
-- b.[^24-9] Die Tests werden nur durch dafür spezifisch geschulte Personen und gemäss den Anweisungen der Testhersteller durchgeführt.
+- b.[^24-11] Die Tests werden nur durch dafür spezifisch geschulte Personen und gemäss den Anweisungen der Testhersteller durchgeführt.
 - c. Die Testergebnisse werden unter Aufsicht von Personen mit der notwendigen spezifischen Fachexpertise interpretiert; dazu können auch externe Fachpersonen beigezogen werden.
 - d. Die Einrichtungen führen eine Dokumentation, mit der die Rückverfolgbarkeit und die Qualität der eingesetzten Testsysteme nachgewiesen wird. Die Dokumentation ist aufzubewahren.
 - e. Die Einrichtungen sind vom Kanton ermächtigt, solche Tests durchzuführen.
 
-<sup>4bis</sup>
+<sup>4bis</sup> Sars-CoV-2-Schnelltests für die Eigenanwendung durch das Publikum (Sars-CoV-2-Selbsttests) dürfen abgegeben und verwendet werden, wenn sie gemäss Angaben des Herstellers zur Eigenanwendung vorgesehen und entsprechend zertifiziert sind.[^24-12]
 
-Sars-CoV-2-Schnelltests für die Eigenanwendung durch das Publikum (Sars-CoV-2-Selbsttests) dürfen abgegeben und verwendet werden, wenn sie:
-
-- a. gemäss Angaben des Herstellers zur Eigenanwendung vorgesehen und entsprechend zertifiziert sind;
-- b. die Anforderungen nach Artikel 24*a* und die Mindestkriterien nach Anhang 5*a* Ziffer 3 erfüllen.[^24-10]
-
-<sup>5</sup> Als Sars-CoV-2-Schnelltests gelten direkte Nachweismethoden, die die Antigene oder die Ribonukleinsäure von Sars-CoV-2 nachweisen. Die Tests erfolgen nicht automatisiert und mit minimalem Instrumentarium; automatisiert erfolgt höchstens das Ablesen des Testresultats.
+<sup>5</sup> Als Sars-CoV-2-Schnelltests gelten direkte Nachweismethoden, die die Antigene von Sars-CoV-2 nachweisen. Die Tests erfolgen nicht automatisiert und mit minimalem Instrumentarium; automatisiert erfolgt höchstens das Ablesen des Testresultats.[^24-13]
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 [^24-2]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
@@ -432,34 +422,22 @@ Sars-CoV-2-Schnelltests für die Eigenanwendung durch das Publikum (Sars-CoV-2-S
 [^24-5]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 [^24-6]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^24-7]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-8]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-9]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-10]: Eingefügt durch Ziff. I der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^24-8]: Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-9]: Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-10]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-11]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-12]: Eingefügt durch Ziff. I der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-13]: Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 24a
 
-**Zulässige Sars-CoV-2-Schnelltests[^24a-2]**[^24a-1]
+**Zulässige Sars-CoV-2-Schnelltests zur Fachanwendung**[^24a-1]
 
-<sup>1</sup> Für Sars-CoV-2-Schnelltests dürfen nur Testsysteme verwendet werden, für die mittels einer unabhängigen Validierung durch ein nach Artikel 16 EpG bewilligtes Laboratorium nachgewiesen worden ist, dass deren Zuverlässigkeit und Leistung die Mindestkriterien nach Anhang 5*a* erfüllen.[^24a-3]
+<sup>1</sup> Für Sars-CoV-2-Schnelltests zur Fachanwendung dürfen nur Testsysteme verwendet werden, die in der EU für die Ausstellung des digitalen COVID-Zertifikats der EU zugelassen sind.
 
-<sup>2</sup> Statt der Testsysteme nach Absatz 1 können im Einzelfall auch Testsysteme verwendet werden, deren Validierung von einem europäisch anerkannten Laboratorium oder einer europäisch anerkannten Einrichtung durchgeführt wurde, sofern das BAG diese Validierung anerkennt.[^24a-4]
+<sup>2</sup> In Abweichung von Absatz 1 dürfen auch andere Testsysteme verwendet werden, sofern die Sars-CoV-2-Schnelltests durch nach Artikel 16 EpG bewilligte Laboratorien und von ihnen betriebene Probenentnahmestellen durchgeführt werden.
 
-<sup>3</sup> Die Testsysteme nach den Absätzen 1 und 2 dürfen nur verwendet werden, soweit dadurch eine genügende Versorgung mit Testmaterialien der Laboratorien nach Artikel 24 Absatz 1 Buchstabe a nicht gefährdet ist.
-
-<sup>4</sup> Das EDI kann Anhang 5*a* der technischen und wissenschaftlichen Entwicklung anpassen.
-
-<sup>5</sup>
-
-Die Absätze 1–4 gelten nicht für Sars-CoV-2-Schnelltests, die durchgeführt werden durch:
-
-- a. nach Artikel 16 EpG bewilligten Laboratorien und von ihnen betriebenen Probenentnahmestellen;
-- b. Einrichtungen, die keine Laboratorien sind, bei denen aber eine direkte und aktive Aufsicht und Verantwortung mit einem bewilligten Laboratorium vertraglich geregelt ist und die Aktivität von diesem betrieben wird.[^24a-5]
-
-[^24a-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
-[^24a-2]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24a-3]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^24a-4]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24a-5]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24a-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 24b
 
@@ -472,13 +450,11 @@ Erfolgt nach einem positiven Ergebnis eines Sars-CoV-2-Schnelltests keine Bestä
 
 #### Art. 24c
 
-**Liste der Sars-CoV-2-Schnelltests**[^24c-1]
+**Listen der Sars-CoV-2-Schnelltests**[^24c-1]
 
-<sup>1</sup> Das BAG führt eine Liste der Sars-CoV-2-Schnelltests, die verwendet werden können.
+Das BAG führt aktualisierte Listen der Sars-CoV-2-Schnelltests zur Fachanwendung nach Artikel 24*a* und der Sars-CoV-2-Selbsttests nach Artikel 24 Absatz 4<sup>bis</sup> und veröffentlicht die Listen auf seiner Webseite.
 
-<sup>2</sup> Es veröffentlicht die Liste auf seiner Webseite und aktualisiert sie.
-
-[^24c-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^24c-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 24d
 
@@ -527,8 +503,11 @@ Sie können zu diesem Zweck die Spitäler und Kliniken verpflichten:
 
 <sup>5</sup> Die Leistungserbringer dürfen den getesteten Personen im Rahmen der Leistungen nach Anhang 6 keine weiteren Kosten verrechnen. Sie müssen dem Schuldner der Vergütung zudem direkte oder indirekte Vergünstigungen auf den Kostenanteilen nach Anhang 6 weitergeben.
 
+<sup>6</sup> Bietet der Leistungserbringer Leistungen nach Anhang 6 an, die von der getesteten Person selber zu bezahlen sind, so muss er diese vor der Durchführung des Tests darüber informieren, dass eine Kostenübernahme nach Artikel 26*b* möglich wäre.[^26-3]
+
 [^26-1]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26-3]: Eingefügt durch Ziff. I der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 26a
 
@@ -627,7 +606,7 @@ Bei Versammlungen von Gesellschaften kann der Veranstalter ungeachtet der voraus
 
 [^chap4a-1]
 
-[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Aug. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 30. Sept. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 27a
 
@@ -711,6 +690,14 @@ Persönliche Schutzausrüstungen, die gestützt auf Artikel 24 des bisherigen Re
 <sup>3</sup> Gesuche, die beim Inkrafttreten der Änderung vom 23. Juni 2021 hängig sind, werden nach Artikel 23*a* des bisherigen Rechts behandelt.
 
 [^28b-1]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+
+#### Art. 28c
+
+**Übergangsbestimmung zur Änderung vom 25. August 2021**[^28c-1]
+
+Gestützt auf Artikel 24*a* des bisherigen Rechts zulässige Sars-CoV-2-Schnelltests zur Fachanwendung dürfen bis zum 25. Oktober 2021 weiter verwendet werden, sofern die Anforderungen nach Artikel 24 erfüllt sind.
+
+[^28c-1]: Eingefügt durch Ziff. I der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 29
 
@@ -936,50 +923,7 @@ Anhang 5*[^t-6]*
 
 Anhang 5a*[^t-7]*
 
-(Art. 23*a* Abs. 2 Bst. e, 24 Abs. 4<sup>bis</sup> Bst. b und 24*a* Abs. 1)
-
-## Mindestkriterien in Bezug auf die Zuverlässigkeit und Leistung von Sars-CoV-2-Schnelltests
-
-[^t-7]: Eingefügt durch Ziff. III Abs. 1 der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. III der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-
-### 1 Allgemeines
-
-- 1\.1 Die zu validierenden Tests müssen mit einer Realtime-Reverse-Transkriptase-Polymerase-Kettenreaktion (RT-PCR) aus Nase-Rachen-Abstrich verglichen werden. Für die Berechnung der Spezifität von auf molekularbiologischen Nachweisverfahren basierenden Sars-CoV-2-Schnelltests aus Speichelproben kann der zu validierende Test mit einer RT-PCR aus einer Speichelprobe verglichen werden.
-- 1\.2 Für die Verwendung von Sars-CoV-2-Schnelltests wird eine unabhängige Validierung vorausgesetzt.
-
-### 2 Kriterien für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard
-
-### 2.1 Kriterien für die klinische Validierung
-
-- 2\.1.1 Die Untersuchung von Sensitivität und Spezifität in der klinischen Validierung muss auf mindestens 100 Sars-CoV-2-positiven und 300 Sars-CoV-2-negativen Proben basieren. Die verwendeten Proben müssen von symptomatischen Patientinnen und Patienten gemäss den klinischen Kriterien des BAG stammen, welche innerhalb von 0–4 Tagen nach Beginn der Symptomatik getestet worden sind.
-- 2\.1.2 Die Sensitivität des Tests muss bei mindestens 85 Prozent und die Spezifität bei mindestens 99 Prozent liegen.
-
-### 2.2 Kriterien für die technische Validierung von Sars-CoV-2-Antigen-Schnelltests aus Nasen-Rachen-Abstrich
-
-- 2\.2.1 Die Untersuchung von Sensitivität und Spezifität in der technischen Validierung muss auf mindestens 100 Sars-CoV-2-positiven und 300 Sars-CoV-2-negativen Proben basieren, davon mindestens 50 Proben mit einer Viruslast von mindestens 10e5 Viruskopien/ml.
-- 2\.2.2
-
-  Die zu validierenden Sars-CoV-2-Antigen-Schnelltests haben folgende Mindestanforderungen betreffend die Sensitivität in Abhängigkeit der Kopienzahl des Ausgangsmaterials wie folgt zu erfüllen:
-
-  - – für 10e7 Kopien/ml: 95 %
-  - – für 10e6 Kopien/ml: 90 %
-  - – für 10e5 Kopien/ml: 80 %
-
-- 2\.2.3 Die Spezifität des Tests muss bei mindestens 99 Prozent liegen.
-
-### 3 Kriterien für die klinische Validierung von Sars-CoV-2-Schnelltests zur Fachanwendung gemäss Screening-Standard und von Sars-CoV-2-Selbsttests
-
-### 3.1 Sensitivität
-
-- 3\.1.1 Die Untersuchung der Sensitivität muss auf mindestens 100 Sars-CoV-2-positiven Proben basieren. Die verwendeten Proben müssen von symptomatischen Patientinnen und Patienten stammen, die innerhalb von 0–7 Tagen nach Beginn der Symptomatik getestet wurden.
-- 3\.1.2 Die Sensitivität des Tests muss bei mindestens 80 Prozent liegen.
-
-### 3.2 Spezifität
-
-- 3\.2.1 Die Untersuchung der Spezifität muss auf mindestens 100 Sars-CoV-2-negativen Proben basieren. Die verwendeten Proben müssen von symptomlosen Patientinnen und Patienten ohne konkretes Expositionsrisiko stammen.
-- 3\.2.2 Die Spezifität des Tests muss bei mindestens 97 Prozent liegen.
-- 3\.3 Kreuzreaktivität: Untersuchung auch von Proben mit hoher Konzentration an verwandten Humanen Coronaviren, darunter mindestens das Humane Coronavirus 229E, das Humane Coronavirus OC43, das Humane Coronavirus NL63 oder das Humane Coronavirus HKU1.
-- 3\.4 Interferenz: Untersuchung auch von Pathogen-positiven Proben, bei denen das Pathogen eine analoge Symptomatik hervorrufen kann (Influenza A, B; RSV) oder mit dem Testprinzip interferieren könnte (Protein-A-positive *Staphylococcus aureus* bei Nasenabstrichen als Probenmatrix).
+[^t-7]: Eingefügt durch Ziff. III Abs. 1 der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Aufgehoben durch Ziff. II Abs. 1 der V vom 25. Aug. 2021, mit Wirkung seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 Anhang 6*[^t-8]*
 
@@ -987,7 +931,7 @@ Anhang 6*[^t-8]*
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), vom 23. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) und Ziff. II Abs. 2 der V vom 25. Aug. 2021, in Kraft seit 21. Juli 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Bereinigt gemäss Ziff. II der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), vom 23. Juni 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), der Berichtigung vom 29. Juni 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) und Ziff. II Abs. 2 der V vom 25. Aug. 2021, in Kraft seit 30. Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 ### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 
@@ -1008,10 +952,10 @@ Anhang 6*[^t-8]*
 
     nach einem positiven Ergebnis:
 
-    - – bei einem Sars-CoV-2-Schnelltest zur Fachanwendung, unabhängig davon, ob der Test mit einem Sars-CoV-2 Schnelltest gemäss diagnostischem Standard oder gemäss Screening-Standard durchgeführt wurde,
+    - – bei einem Sars-CoV-2-Schnelltest zur Fachanwendung,
     - – bei einem Sars-CoV-2-Selbsttest;
 
-  - i. nach einem positiven Ergebnis einer gepoolten molekularbiologischen Analyse nach Ziffer 1.2, 2.2 oder 3.2;
+  - i. nach einem positiven Ergebnis einer gepoolten molekularbiologischen Analyse;
   - j. bei einer ärztlich angeordneten Ausbruchsuntersuchung und -kontrolle.
 
 - 1\.1.2
@@ -1048,6 +992,7 @@ Anhang 6*[^t-8]*
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
 <tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>22.50 Fr.</td></tr>
+<tr><td>Für die Überwachung der Entnahme der Probe durch die zu testende Person und die Zuordnung von Probe und Person</td><td>15 Fr.</td></tr>
 <tr><td>Für die Übermittlung des Testergebnisses an die getestete Person und an die zuständigen Behörden nach Artikel 12 Absatz 1 EpG und für die Anforderung des Freischaltcodes, der vom Proximity-Tracing-System für das Coronavirus Sars-CoV-2 (PT-System) generiert wird, bei nachgewiesener Infektion, sowie für die Ausstellung des Covid-19-Testzertifikats</td><td>2.50 Fr.</td></tr>
 <tr><td>Für ein ausführliches Arzt-Patienten-Gespräch zur Indikationsstellung durch die Ärztin oder den Arzt, sofern ein solches durchgeführt wird</td><td>22.50 Fr.</td></tr>
 </table>
@@ -1106,14 +1051,14 @@ Anhang 6*[^t-8]*
 
 - 1\.2.3
 
-  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens Fr. 337.50. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 315 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
 <table>
 <tr><td>Leistung</td><td>Höchstbetrag</td></tr>
 <tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>22.50 Fr.</td></tr>
-<tr><td>Für ein ausführliches Arzt-Patienten-Gespräch zur Indikationsstellung durch die Ärztin oder den Arzt, sofern ein solches durchgeführt wird</td><td>22.50 Fr.</td></tr>
+<tr><td>Für die Überwachung der Entnahme der Probe durch die zu testende Person und die Zuordnung von Probe und Person</td><td>15 Fr.</td></tr>
 </table>
 
 - b. für die gepoolte molekularbiologische Analyse:
@@ -1210,14 +1155,14 @@ Anhang 6*[^t-8]*
   - e. bei Personen, die von der SwissCovid-App benachrichtigt werden, dass sie potenziell mit einer mit Sars-CoV-2 infizierten Person engeren Kontakt hatten; der Bund übernimmt die Kosten für einen einzigen Test, der frühestens am fünften Tag nach Erhalt der Benachrichtigung der SwissCovid-App durchgeführt wird;
   - f. bei Personen mit Wohnsitz im Ausland, die in der Schweiz arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Wohnsitzstaat eine Pflicht zum Vorlegen eines negativen Ergebnisses einer immunologischen Analyse auf Sars-CoV-2-Antigene oder eines Sars-CoV-2-Schnelltests zur Fachanwendung angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
   - g. bei Personen mit Wohnsitz in der Schweiz, die im Ausland arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Staat eine Pflicht zum Vorlegen eines negativen Ergebnisses einer immunologischen Analyse auf Sars-CoV-2-Antigene oder eines Sars-CoV-2-Schnelltests zur Fachanwendung angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
-  - h. bei nach einem positiven Ergebnis einer gepoolten molekularbiologischen Analyse nach Ziffer 1.2, 2.2 oder 3.2;
+  - h. nach einem positiven Ergebnis einer gepoolten molekularbiologischen Analyse;
   - i. bei einer ärztlich angeordneten Ausbruchsuntersuchung und -kontrolle;
   - j.[^annex6-lvlu1-lvl1-lvl14-1] bei allen Personen, die nicht unter die Buchstaben a–i fallen.
 
-- 1\.4.2 Er übernimmt zudem die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss Screening-Standard in Fällen nach Ziffer 1.4.1 Buchstaben f, g und j.
+- 1\.4.2 ...
 - 1\.4.3
 
-  Er übernimmt die Kosten für immunologische Analysen auf Sars-CoV-2-Antigene und für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard und gemäss Screening-Standard nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden:
+  Er übernimmt die Kosten nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden:
 
   - a.
 
@@ -1240,7 +1185,7 @@ Anhang 6*[^t-8]*
 
 - 1\.4.4
 
-  Für immunologische Analysen auf Sars-CoV-2-Antigene und für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard und gemäss Screening-Standard übernimmt er höchstens 88.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+  Für immunologische Analysen auf Sars-CoV-2-Antigene und für Sars-CoV-2-Schnelltests zur Fachanwendung übernimmt er höchstens 88.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
@@ -1251,7 +1196,7 @@ Anhang 6*[^t-8]*
 <tr><td>Für ein ausführliches Arzt-Patienten-Gespräch zur Indikationsstellung durch die Ärztin oder den Arzt, sofern ein solches durchgeführt wird</td><td>22.50 Fr.</td></tr>
 </table>
 
-- b. für die immunologische Analyse auf Sars-CoV-2-Antigene und für einen Sars-CoV-2-Schnelltest zur Fachanwendung gemäss diagnostischem Standard und gemäss Screening-Standard:
+- b. für die immunologische Analyse auf Sars-CoV-2-Antigene und für einen Sars-CoV-2-Schnelltest zur Fachanwendung:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
@@ -1260,10 +1205,11 @@ Anhang 6*[^t-8]*
 <tr><td>– für die Auftragsabwicklung</td><td>5 Fr.</td></tr>
 <tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>41 Fr.</td></tr>
 <tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>17 Fr.</td></tr>
+<tr><td>[tab]</td><td></td></tr>
 <tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
 </table>
 
-[^annex6-lvlu1-lvl1-lvl14-1]: In Kraft bis zum 31. Aug. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^annex6-lvlu1-lvl1-lvl14-1]: In Kraft bis zum 30. Sept. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 ### 1.5 Molekularbiologischer Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten
 
@@ -1314,11 +1260,11 @@ Anhang 6*[^t-8]*
 
 ### 2 Reduzierter Tarif für gezielte und repetitive Testungen
 
-### 2.1 Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard und gemäss Screening-Standard
+### 2.1 Sars-CoV-2-Schnelltests zur Fachanwendung
 
 - 2\.1.1
 
-  Der Bund übernimmt die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard und gemäss Screening-Standard nur in folgenden Fällen:
+  Der Bund übernimmt die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung nur in folgenden Fällen:
 
   - a. bei gezielten und repetitiven Testungen in Schulen, Universitäten und Ausbildungsstätten zur Prävention und Früherkennung von Ausbrüchen, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
   - b. in Situationen mit deutlich erhöhter Übertragungswahrscheinlichkeit, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
@@ -1348,7 +1294,7 @@ Anhang 6*[^t-8]*
     - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
     - 4\. Assistenzpersonen nach dem IVG.
 
-- 2\.1.3 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung gemäss diagnostischem Standard oder gemäss Screening-Standard übernimmt er höchstens 28 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+- 2\.1.3 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung übernimmt er höchstens 28 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><td>Leistung</td><td>Höchstbetrag</td></tr>
@@ -1362,10 +1308,10 @@ Anhang 6*[^t-8]*
 
   Der Bund übernimmt die Kosten für gepoolte molekularbiologische Analysen auf Sars-CoV-2 nur in folgenden Fällen:
 
-  - a. bei gezielten und repetitiven Testungen in Schulen, Universitäten und Ausbildungsstätten zur Prävention und Früherkennung von Ausbrüchen, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
-  - b. in Situationen mit deutlich erhöhter Übertragungswahrscheinlichkeit, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
+  - a. bei gezielten und repetitiven Testungen in Schulen, Universitäten und Ausbildungsstätten zur Prävention und Früherkennung von Ausbrüchen, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt oder sofern die Testungen über eine vom Bund zur Verfügung gestellte Plattform koordiniert werden;
+  - b. in Situationen mit deutlich erhöhter Übertragungswahrscheinlichkeit, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt oder sofern die Testungen über eine vom Bund zur Verfügung gestellte Plattform koordiniert werden;
   - c. im Rahmen von zeitlich begrenzten Testungen im Umfeld unkontrollierter Infektionsausbrüche, sofern die zuständige kantonale Stelle dies vorsieht;
-  - d. bei Testungen vor und während Lagern für Teilnehmerinnen und Teilnehmer sowie Betreuerinnen und Betreuer, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt.
+  - d. bei Testungen vor und während Lagern für Teilnehmerinnen und Teilnehmer sowie Betreuerinnen und Betreuer, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt oder sofern die Testungen über eine vom Bund zur Verfügung gestellte Plattform koordiniert werden.
 
 - 2\.2.2
 
@@ -1400,7 +1346,7 @@ Anhang 6*[^t-8]*
 
 <table>
 <tr><td>Leistung</td><td>Höchstbetrag</td></tr>
-<tr><td>Für die Probenentnahme, einschliesslich des Schutzmaterials und Arbeitszeit, und für die Auftragsabwicklung</td><td>16.50 Fr.</td></tr>
+<tr><td>Für die Probenentnahme, einschliesslich des Schutzmaterials und der Arbeitszeit</td><td>16.50 Fr.</td></tr>
 </table>
 
 - b. für die gepoolte molekularbiologische Analyse:
@@ -1437,10 +1383,10 @@ Anhang 6*[^t-8]*
   - c. bei einer Kontaktperson, die sich in Quarantäne befindet, wenn im Betrieb, in dem die Kontaktperson arbeitet, eine gezielte und repetitive Testung mit mindestens einem Test pro Woche durchgeführt wird;
   - d. bei Veranstaltungen mit einer Zugangsbeschränkung nach Artikel 15 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^annex6-lvlu1-lvl3-lvl31-1] beziehungsweise nach Artikel 6*b*<sup>quater</sup> der Covid-19-Verordnung besondere Lage vom 19. Juni 2020 in der Fassung der Änderung vom 26. Mai 2021[^annex6-lvlu1-lvl3-lvl31-2].
 
-- 3\.1.2 Er übernimmt zudem die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss Screening-Standard in Fällen nach Ziffer 3.1.1 Buchstaben b und d.
+- 3\.1.2 ...
 - 3\.1.3
 
-  Er übernimmt die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung nach den Ziffern 3.1.1 und 3.1.2 nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden durch:
+  Er übernimmt die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung nach Ziffer 3.1.1 nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden:
 
   - 1\.
 
@@ -1457,7 +1403,7 @@ Anhang 6*[^t-8]*
   - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
   - 4\. Assistenzpersonen nach dem IVG.
 
-- 3\.1.4 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung nach den Ziffern 3.1.1 und 3.1.2 übernimmt er höchstens 6.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+- 3\.1.4 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung nach Ziffer 3.1.1 übernimmt er höchstens 6.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
@@ -1474,7 +1420,7 @@ Anhang 6*[^t-8]*
   Der Bund übernimmt die Kosten für gepoolte molekularbiologische Analysen auf Sars-CoV-2 nur in folgenden Fällen:
 
   - a. bei gezielten und repetitiven Testungen in Spitälern, Alters- und Pflegeheimen sowie anderen sozialmedizinischen Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen;
-  - b. bei gezielten und repetitiven Testungen in Betrieben, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt;
+  - b. bei gezielten und repetitiven Testungen in Betrieben, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt oder sofern die Testungen über eine vom Bund zur Verfügung gestellte Plattform koordiniert werden;
   - c. bei einer Kontaktperson, die sich in Quarantäne befindet, und wenn bei der Belegschaft des Betriebs, in dem die Kontaktperson arbeitet, eine gezielte und repetitive Testung mit mindestens einem Test pro Woche durchgeführt wird.
 
 - 3\.2.2 Er übernimmt die Kosten nur, wenn die Leistungen erbracht werden durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen.
@@ -1494,25 +1440,29 @@ Anhang 6*[^t-8]*
 <tr><td>– für die Durchführung eines zentralisierten Poolings in Fällen nach Ziffer 3.2.1 Buchstaben b und c pro Poolerstellung</td><td>18.50 Fr.</td></tr>
 </table>
 
-### 3.3 Sars-CoV-2-Selbsttests
+### 3.3**** Sars-CoV-2-Selbsttests
+
+[^annex6-lvlu1-lvl3-lvl33-1]
+
+[^annex6-lvlu1-lvl3-lvl33-1]: In Kraft bis zum 30. Sept. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 - 3\.3.1 Der Bund übernimmt die Kosten von maximal fünf Sars-CoV-2-Selbsttests pro Person innerhalb von 30 Tagen, sofern sie durch Apotheken abgegeben werden.
-- 3\.3.2 Für einen Sars-CoV-2-Selbsttest übernimmt er höchstens 10 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+- 3\.3.2 Für einen Sars-CoV-2-Selbsttest übernimmt er höchstens 7.20 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Für den Sars-CoV-2-Selbsttest bei direkter Abgabe mit persönlichem Kundenkontakt, nur das Testmaterial, darin enthalten: der Fabrikabgabepreis, ein Zuschlag von 80 % auf den Fabrikabgabepreis sowie die Mehrwertsteuer zu einem Satz von 7,7 %</td><td>10 Fr.</td></tr>
-<tr><td>Für den Sars-CoV-2-Selbsttest bei Versand, nur das Testmaterial, darin enthalten: der Fabrikabgabepreis, ein Zuschlag von 60 % auf den Fabrikabgabepreis sowie die Mehrwertsteuer zu einem Satz von 7,7 %</td><td>9 Fr.</td></tr>
+<tr><td>Für den Sars-CoV-2-Selbsttest bei direkter Abgabe mit persönlichem Kundenkontakt, nur das Testmaterial, darin enthalten: der Fabrikabgabepreis, ein Zuschlag von 80 % auf den Fabrikabgabepreis sowie die Mehrwertsteuer zu einem Satz von 7,7 %</td><td>7.20 Fr.</td></tr>
+<tr><td>Für den Sars-CoV-2-Selbsttest bei Versand, nur das Testmaterial, darin enthalten: der Fabrikabgabepreis, ein Zuschlag von 60 % auf den Fabrikabgabepreis sowie die Mehrwertsteuer zu einem Satz von 7,7 %</td><td>6.40 Fr.</td></tr>
 </table>
 
 - 3\.3.3
 
   Folgende Personen haben keinen Anspruch auf die Kostenübernahme von Sars-CoV-2-Selbsttests:
 
-  - a. Geimpfte Personen im Sinne von Anhang 2 Ziffer 1.1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^annex6-lvlu1-lvl3-lvl33-1], sofern die Impfung weniger als 365 Tage ab Verabreichung der letzten Dosis zurückliegt; beim Impfstoff von Janssen beträgt die Dauer 365 Tage ab dem 22. Tag nach erfolgter Impfung;
+  - a. Geimpfte Personen im Sinne von Anhang 2 Ziffer 1.1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^annex6-lvlu1-lvl3-lvl33-2], sofern die Impfung weniger als 365 Tage ab Verabreichung der letzten Dosis zurückliegt; beim Impfstoff von Janssen beträgt die Dauer 365 Tage ab dem 22. Tag nach erfolgter Impfung;
   - b. Personen, die sich mit Sars-CoV-2 angesteckt haben und als genesen gelten, während 6 Monaten ab dem 11. Tag nach der Bestätigung der Ansteckung.
 
-[^annex6-lvlu1-lvl3-lvl33-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^annex6-lvlu1-lvl3-lvl33-2]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ### 4 Limitationen
 
@@ -1527,7 +1477,7 @@ Anhang 7*[^t-9]*
 
 ## Erkrankungen und genetische Anomalien, welche die Betroffenen zu besonders gefährdeten Personen machen
 
-[^t-9]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. Aug. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) und vom 1. April 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und Ziff. II der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 30. Sept. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)) und vom 1. April 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) und Ziff. II der V vom 12. Mai 2021, in Kraft seit 17. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwachsener Personen von einer besonderen Gefährdung auszugehen. Die nachfolgenden Kriterien beziehen sich deshalb nur auf erwachsene Personen.
 

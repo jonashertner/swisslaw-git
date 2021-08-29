@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-08-25
+version: 2021-08-30
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210825/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210825-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210825/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210830/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210830-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210830/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 25 August 2021)
+of 19 June 2020 (Status as of 30 August 2021)
 
 The Swiss Federal Council,
 
@@ -333,7 +333,7 @@ The Confederation may sell the essential medical goods on the market in return f
 
 #### Art. 23
 
-**Exceptions for medical devices. General[^23-1]**
+**Exceptions for medical devices[^23-1]**
 
 <sup>1</sup> In response to an application, Swissmedic may authorise the placing on the market and use of medical devices that have not undergone a conformity assessment procedure in accordance with Article 23 the Medical Devices Ordinance of 1 July 2020[^23-2][^23-3] (MedDO), provided their use for preventing and combating the coronavirus in Switzerland is in the interests of public health or patient safety or health and provided, taking account of their intended purpose, their fulfilment of the essential requirements and their effectiveness and performance are adequately proven.
 
@@ -354,7 +354,7 @@ Facemasks which have not undergone a conformity assessment procedure under Artic
 
 <sup>6</sup> The obligations in relation to product surveillance under the MedDO, in particular to collecting reports of incidents, continue to apply.
 
-[^23-1]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^23-1]: Amended by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 [^23-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 [^23-3]: The reference was amended on 26 May 2021 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). The amendment has been made throughout the text.
 [^23-4]: [SR 818.101.25](https://fedlex.data.admin.ch/eli/cc/2022/207)
@@ -399,33 +399,23 @@ Non-automated single-patient rapid tests for direct detection of Sars-CoV-2 (Sar
 
 <sup>1bis</sup> They may also be carried out in and by organisations that provide nursing services and other assistance at home as well as by assistants as defined in the Federal Act of 19 June 1959[^24-6] on Invalidity Insurance (InvIA).[^24-7]
 
-<sup>2</sup> Sars-CoV-2 rapid tests may be carried out outside the facilities mentioned in paragraph 1, provided a laboratory manager, a doctor or a pharmacist accepts responsibility for complying with the requirements of Articles 24–24*b*.
+<sup>2</sup> Sars-CoV-2 rapid tests may also be carried out at a location outside the facilities mentioned in paragraph 1 provided a laboratory manager, a doctor or a pharmacist accepts responsibility for complying with the requirements of this article and Articles 24*a* and 24*b*.[^24-8]
 
-<sup>3</sup>
-
-Sars-CoV-2 rapid tests based on molecular-biological detection procedures may only be carried out:
-
-- a. in facilities under paragraph 1 letter a;
-- b. outside such facilities if a laboratory manager for such a facility accepts responsibility for carrying out the tests.
+<sup>3</sup> If facilities under paragraph 1 letter a offer Sars-CoV-2 rapid tests at a location outside the facilities, they must notify the canton of their offer.[^24-9]
 
 <sup>4</sup>
 
-Facilities under paragraphs 1 letter b and 1<sup>bis</sup> may carry out Sars-CoV-2 rapid tests for specialist use without a licence under Article 16 EpidA and outside closed systems provided they comply with the following conditions:[^24-8]
+Facilities under paragraphs 1 letter b and 1<sup>bis</sup> may carry out Sars-CoV-2 rapid tests for specialist use without a licence under Article 16 EpidA and outside closed systems provided they comply with the following conditions:[^24-10]
 
 - a. Suitable safety measures and precautionary measures plans to protect persons, animals, the environment and biological diversity have been prepared and implemented.
-- b.[^24-9] The tests are only carried out by persons specifically trained for this purpose according to the instructions provided by the test manufacturer.
+- b.[^24-11] The tests are only carried out by persons specifically trained for this purpose according to the instructions provided by the test manufacturer.
 - c. The test results are interpreted under the supervision of persons with the required expertise; external experts may also be consulted.
 - d. The facilities keep records that permit the traceability and prove the quality of the test systems used. The records must be preserved.
 - e. The facilities are authorised by the canton to carry out such tests.
 
-<sup>4bis</sup>
+<sup>4bis</sup> Sars-CoV-2 rapid tests for self-testing by the public (Sars-CoV-2 self-tests) may be supplied and used if they are intended for self-testing by the manufacturer and certified accordingly.[^24-12]
 
-Sars-CoV-2 rapid tests for self-testing by the public (Sars-CoV-2 self-tests) may be supplied and used if they:
-
-- a. are intended for self-testing by the manufacturer and certified accordingly or authorised by Swissmedic under Article 23*a*;
-- b. meet the requirements of Article 24*a* and the minimum criteria in Annex 5*a* number 3.[^24-10]
-
-<sup>5</sup> Sars-CoV-2 rapid tests are direct detection methods that detect the antigens to or the ribonucleic acids of Sars-CoV-2. The tests are not automated and are carried out with the minimum of instruments; only the reading of the test result may be automated.
+<sup>5</sup> Sars-CoV-2 rapid tests are direct detection methods that detect the antigens to Sars-CoV-2. The tests are not automated and are carried out with the minimum of instruments; only the reading of the test result may be automated.[^24-13]
 
 [^24-1]: Amended by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests), in force since 21 Dec. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
 [^24-2]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
@@ -434,34 +424,22 @@ Sars-CoV-2 rapid tests for self-testing by the public (Sars-CoV-2 self-tests) ma
 [^24-5]: Amended by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks), in force since 28 Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 [^24-6]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^24-7]: Inserted by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-8]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-9]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24-10]: Inserted by No I of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Amended by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^24-8]: Amended by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-9]: Amended by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-10]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-11]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-12]: Inserted by No I of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Amended by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^24-13]: Amended by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 24a
 
-**Permitted Sars-CoV-2 rapid tests[^24a-2]**[^24a-1]
+**Permitted Sars-CoV-2 rapid tests for specialist use**[^24a-1]
 
-<sup>1</sup> The only test systems that may be used for Sars-CoV-2 rapid tests are those whose reliability and performance have been proven to meet the minimum criteria under Annex 5*a* by independent validation carried out by a laboratory licensed under Article 16 EpidA.[^24a-3]
+<sup>1</sup> The only test systems that may be used for Sars-CoV-2 rapid tests for specialist use are those authorised in the EU for issuing the EU’s digital COVID certificate.
 
-<sup>2</sup> Instead of the test systems under paragraph 1, in specific cases test systems may also be used that have been validated by a laboratory or facility with European recognition, provided the FOPH recognises this validation.[^24a-4]
+<sup>2</sup> In derogation from paragraph 1, other test systems may also be used provided the Sars-CoV-2 rapid tests are carried out by laboratories licensed under Article 16 EpidA and the sample collection stations that they operate.
 
-<sup>3</sup> The test systems referred to in paragraphs 1 and 2 may only are used insofar as this does not jeopardise an adequate supply of test materials to the laboratories under Article 24 paragraph 1 letter a.
-
-<sup>4</sup> The FDHA may amend Annex 5*a* to take account of technical and scientific developments.
-
-<sup>5</sup>
-
-Paragraphs 1–4 do not apply to Sars-CoV-2 rapid tests that are carried out by:
-
-- a. laboratories licensed under Article 16 EpidA and the sample collection stations that they operate;
-- b. facilities that are not laboratories but which are under the direct, active and contractually regulated supervision of a licenced laboratory and whose activities are run by that laboratory.[^24a-5]
-
-[^24a-1]: Inserted by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests), in force since 21 Dec. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
-[^24a-2]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24a-3]: Amended by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks), in force since 28 Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^24a-4]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-[^24a-5]: Inserted by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks), in force since 28 Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24a-1]: Inserted by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 24b
 
@@ -474,13 +452,11 @@ If no confirmatory diagnosis is made following a positive result for a Sars-CoV-
 
 #### Art. 24c
 
-**List of Sars-CoV-2 rapid tests**[^24c-1]
+**Lists of Sars-CoV-2 rapid tests**[^24c-1]
 
-<sup>1</sup> The FOPH shall maintain a list of the Sars-CoV-2 rapid tests that may be used.
+The FOPH shall maintain continuously updated lists of Sars-CoV-2 rapid tests for specialist use in accordance with Article 24*a* and the Sars-CoV-2 self-tests in accordance with Article 24 paragraph 4<sup>bis</sup> and shall publish the lists on its website.
 
-<sup>2</sup> It shall publish the list on its website and keep it up to date.
-
-[^24c-1]: Inserted by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests), in force since 21 Dec. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^24c-1]: Inserted by No I of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 24d
 
@@ -529,8 +505,11 @@ For this purpose, they may require hospitals and clinics:
 
 <sup>5</sup> Service providers shall not charge persons tested as specified in Annex 6 any additional costs. They must pass on any sums that directly or indirectly cover any part of the cost shares in accordance with Annex 6 to the reimbursement debtor.
 
+<sup>6</sup> If the service provider offers services in accordance with Annex 6 that must be paid for by the person tested, it must inform the person concerned before carrying out the test that the costs may be covered under Article 26*b*.[^26-3]
+
 [^26-1]: Amended by No I of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26-3]: Inserted by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 26a
 
@@ -629,7 +608,7 @@ In the case of company meetings, the organiser may, regardless of the probable n
 
 [^chap4a-1]
 
-[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Aug. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 30 Sept. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 27a
 
@@ -713,6 +692,14 @@ Personal protective equipment that was permitted under Article 24 of the previou
 <sup>3</sup> Applications that are pending when the Amendment of 23 June 2021 comes into force shall be processed in accordance with Article 23*a* of the previous law.
 
 [^28b-1]: Inserted by No I of the O of 23 June 2021, in force since 26 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)).
+
+#### Art. 28c
+
+**Transitional provision to the Amendment of 25 August 2021**[^28c-1]
+
+Sars-CoV-2 rapid tests for specialist use that are permitted based on Article 24*a* of the previous law may continue to be used until 25 October 2021 provided the requirements of Article 24 are met.
+
+[^28c-1]: Inserted by No I of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 #### Art. 29
 
@@ -997,50 +984,7 @@ Annex 5*[^t-6]*
 
 Annex 5a*[^t-7]*
 
-(Art. 23*a* para. 2 let. e, 24 para. 4<sup>bis</sup> let. b and 24*a* para. 1)
-
-## Minimum criteria for the reliability and performance of Sars-CoV-2 rapid tests
-
-[^t-7]: Inserted by No III para. 1 of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No III of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
-
-### 1 General Remarks
-
-- 1\.1 The tests to be validated must be compared with a real-time reverse transcription polymerase chain reaction (RT-PCR) from a nasopharyngeal swab. For calculating the specificity of Sars-CoV-2 rapid tests of saliva samples based on molecular-biological detection procedures, the test to be validated can be compared with an RT-PCR from a saliva sample.
-- 1\.2 Independent validation is required for the use of Sars-CoV-2 rapid tests.
-
-### 2 Criteria for Sars-CoV-2 rapid tests for specialist use according to the diagnostic standard
-
-### 2.1 Criteria for clinical validation
-
-- 2\.1.1 The investigation of sensitivity and specificity in the clinical validation must be based on a minimum of 100 Sars-CoV-2-positive and 300 Sars-CoV-2-negative samples. The samples used must come from patients with symptoms in accordance with the FOPH clinical criteria who have been tested within 0–4 days of becoming symptomatic.
-- 2\.1.2 The sensitivity of the tests must be at least 85 per cent and the specificity at least 99 per cent.
-
-### 2.2 Criteria for the technical validation of Sars-CoV-2-rapid antigen tests from a nasopharyngeal swab
-
-- 2\.2.1 The sensitivity and specificity in the technical validation must be determined on the basis of a minimum of 100 Sars-CoV-2 positive and 300 Sars-CoV-2 negative samples, including at least 50 samples with a viral load of at least 10e5 virus copies/ml.
-- 2\.2.2
-
-  The Sars-CoV-2 rapid antigen tests to be validated must meet the following minimum requirements relating to sensitivity based on the number of copies of the starting material:
-
-  - – for 10e7 copies/ml: 95 %
-  - – for 10e6 copies/ml: 90 %
-  - – for 10e5 copies/ml: 80 %
-
-- 2\.2.3 The specificity of the test must be at least 99 per cent.
-
-### 3 Criteria for the clinical validation of Sars-CoV-2 rapid tests for specialist use according to the screening standard and of Sars-CoV-2 self-tests
-
-### 3.1 Sensitivity
-
-- 3\.1.1 The assessment of sensitivity must be based on at least 100 Sars-CoV-2-positive samples. The samples used must come from patients with symptoms who were tested within 0–7 days of developing symptoms.
-- 3\.1.2 The sensitivity of the test must be at least 80 per cent.
-
-### 3.2 Specificity
-
-- 3\.2.1 The assessment of specificity must be based on at least 100 Sars-CoV-2-negative samples. The samples used must come from patients with no symptoms and patients with no specific risk of exposure.
-- 3\.2.2 The specificity of the test must be at least 97 per cent.
-- 3\.3 Cross reactivity: Testing also of samples with high concentrations of related human coronaviruses, at least including human coronavirus 229E, human coronavirus OC43, human coronavirus NL63 or human coronavirus HKU1.
-- 3\.4 Interference: Testing also of pathogen-positive samples in which the pathogen can cause analogous symptoms (influenza A, B; RSV) or could interfere with the test principle (protein A-positive *Staphylococcus aureus* in nasal swabs as sample matrix).
+[^t-7]: Inserted by No III para. 1 of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Repealed by No II para. 1 of the O of 25 Aug. 2021, with effect from 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 Annex 6*[^t-8]*
 
@@ -1048,7 +992,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) and the by No II para. 2 of the O of 25 Aug. 2021, in force since 1 July 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) and the by No II para. 2 of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -1069,10 +1013,10 @@ Annex 6*[^t-8]*
 
     following a positive result from a:
 
-    - – Sars-CoV-2-rapid test for specialist use in accordance with numbers 1.4.1 letters d and j, 2.1 or 3.1, irrespective of whether the test carried out was a Sars-CoV-2 rapid test that meets the diagnostic standard or the screening standard,
-    - – Sars-CoV-2 self-test in accordance with Number 3.3;
+    - – Sars-CoV-2-rapid test for specialist use,
+    - – Sars-CoV-2 self-test;
 
-  - i. following a positive result from a pooled molecular-biological analysis in accordance with numbers 1.2, 2.2 or 3.2;
+  - i. following a positive result from a pooled molecular-biological analysis;
   - j. as part of outbreak investigation and control procedures ordered by a doctor.
 
 - 1\.1.2
@@ -1109,7 +1053,8 @@ Annex 6*[^t-8]*
 <table>
 <tr><td>Service</td><td>Maximum amount</td></tr>
 <tr><td>Patient consultation and taking sample, including protective materials</td><td>22.50 Fr.</td></tr>
-<tr><td>Reporting the test result to the person tested and to the responsible authorities under Article 12 paragraph 1 EpidA, and requesting the activation code generated by the Proximity Tracing System for the Coronavirus Sars-CoV-2 (PT System) when infection is detected</td><td>2.50 Fr.</td></tr>
+<tr><td>For supervising the taking of the sample by the person tested and assigning the sample to the person concerned 15 Fr.</td><td>15 Fr.</td></tr>
+<tr><td>Reporting the test result to the person tested and to the responsible authorities under Article 12 paragraph 1 EpidA, and requesting the activation code generated by the Proximity Tracing System for the Coronavirus Sars-CoV-2 (PT System) when infection is detected and for issuing the COVID-19 test certificate</td><td>2.50 Fr.</td></tr>
 <tr><td>Detailed doctor-patient consultation on the indications, where such is carried out</td><td>22.50 Fr.</td></tr>
 </table>
 
@@ -1167,14 +1112,14 @@ Annex 6*[^t-8]*
 
 - 1\.2.3
 
-  It shall pay a maximum of 337.50 francs for pooled molecular-biological analyses for Sars-CoV-2. This amount covers the following services and cost components:
+  It shall pay a maximum of 315 francs for pooled molecular-biological analyses for Sars-CoV-2. This amount covers the following services and cost components:
 
   - a. for taking a sample:
 
 <table>
 <tr><td>Service</td><td>Maximum amount</td></tr>
 <tr><td>Patient consultation and taking sample, including protective materials</td><td>22.50 Fr.</td></tr>
-<tr><td>Detailed doctor-patient consultation on the indications, where such is carried out</td><td>22.50 Fr.</td></tr>
+<tr><td>For supervising the taking of the sample by the person tested and assigning the sample to the person concerned</td><td>15 Fr.</td></tr>
 </table>
 
 - b. for the pooled molecular-biological analysis:
@@ -1205,7 +1150,7 @@ Annex 6*[^t-8]*
   The Confederation shall pay the costs of analyses for Sars-CoV-2 antibodies:
 
   - a. if instructed to do so by the responsible cantonal body;
-  - b. if instructed to do so by a doctor four weeks after the second vaccination in the case of person with severe immosuppression;
+  - b. if instructed to do so by a doctor four weeks after the second vaccination in the case of persons with severe immosuppression;
   - c. if instructed to do so by a doctor with a view to deciding whether a specific person should undergo therapy with monoclonal antibodies.
 
 - 1\.3.2
@@ -1271,14 +1216,14 @@ Annex 6*[^t-8]*
   - e. persons who have been notified by the SwissCovid app that they have potentially been in close contact with a person infected with Sars-CoV-2; the Confederation shall pay the costs of a single test that is carried out at the earliest on the fifth day following notification by the SwissCovid app;
   - f. persons resident abroad who work, study or train in Switzerland, in cases where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering their foreign country of residence and no other authority will cover the costs;
   - g. persons resident in Switzerland who work, study or train abroad where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering the foreign country concerned and no other authority will cover the costs;
-  - h. following a positive result from a pooled molecular-biological analysis in accordance with numbers 1.2, 2.2 or 3.2;
+  - h. following a positive result from a pooled molecular-biological analysis;
   - i. as part of outbreak investigation and control procedures ordered by a doctor;
   - j.[^annex6-lvlu1-lvl1-lvl14-1] any persons who do not fall within letters a–i.
 
-- 1\.4.2 It shall also pay the costs of Sars-CoV-2 rapid tests for specialist use according to the screening standard in cases under number 1.4.1 letters f, g and j.
+- 1\.4.2 ...
 - 1\.4.3
 
-  It shall pay the costs of immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use according to the diagnostic standard and according to the screening standard only if the services are provided:
+  It shall pay the costs only if the services are provided:
 
   - a.
 
@@ -1301,18 +1246,18 @@ Annex 6*[^t-8]*
 
 - 1\.4.4
 
-  It shall pay a maximum of 88.50 francs for immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use according to the diagnostic standard and according to the screening standard. This amount includes the following services and cost components:
+  It shall pay a maximum of 88.50 francs for immunological analyses for Sars-CoV-2 antigens and for Sars-CoV-2 rapid tests for specialist use. This amount includes the following services and cost components:
 
   - a. for taking a sample:
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
 <tr><td>Patient consultation and taking sample, including protective materials</td><td>22.50 Fr.</td></tr>
-<tr><td>Reporting the test result to the person tested and to the responsible authorities under Article 12 paragraph 1 EpidA and requesting the activation code generated by the PT system when infection is detected</td><td>2.50 Fr.</td></tr>
+<tr><td>Reporting the test result to the person tested and to the responsible authorities under Article 12 paragraph 1 EpidA and requesting the activation code generated by the PT system when infection is detected and for issuing the COVID-19 test certificate</td><td>2.50 Fr.</td></tr>
 <tr><td colspan="2">Detailed doctor-patient consultation on the indications, where such is carried out</td><td>22.50 Fr.</td></tr>
 </table>
 
-- b. for the immunological analysis for Sars-CoV-2 antigens and for a Sars-CoV-2 rapid test for specialist use according to the diagnostic standard and according to the screening standard:
+- b. for the immunological analysis for Sars-CoV-2 antigens and for a Sars-CoV-2 rapid test for specialist use:
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
@@ -1324,7 +1269,7 @@ Annex 6*[^t-8]*
 <tr><td>– order processing, overheads and sampling materials</td><td>24 Fr.</td></tr>
 </table>
 
-[^annex6-lvlu1-lvl1-lvl14-1]: In force until 31 Aug. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^annex6-lvlu1-lvl1-lvl14-1]: In force until 30 Sept. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 ### 1.5 Molecular-biological detection of one or more Sars-CoV-2 variants of concern
 
@@ -1375,11 +1320,11 @@ Annex 6*[^t-8]*
 
 ### 2 Reduced tariff for targeted and repetitive testing
 
-### 2.1 Sars-CoV-2 rapid tests rapid tests for specialist use according to the diagnostic standard and according to the screening standard
+### 2.1 Sars-CoV-2 rapid tests rapid tests for specialist use
 
 - 2\.1.1
 
-  The Confederation shall pay the costs of Sars-CoV-2 rapid tests for specialist use according to the diagnostic standard and according to the screening standard only in following cases:
+  The Confederation shall pay the costs of Sars-CoV-2 rapid tests for specialist use only in following cases:
 
   - a. in the case of targeted and repetitive testing in schools, universities and training centres in order to prevent and detect outbreaks, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH;
   - b. in situations with a significantly higher probability of transmission, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH;
@@ -1409,10 +1354,10 @@ Annex 6*[^t-8]*
     - 3\. socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment,
     - 4\. assistants as defined in the InvIA.
 
-- 2\.1.3 It shall pay shall pay a maximum of 28 francs for a Sars-CoV-2-rapid test for specialist use according to the diagnostic standard or according to the screening standard. The amount covers the following services and cost components:
+- 2\.1.3 It shall pay shall pay a maximum of 28 francs for a Sars-CoV-2-rapid test for specialist use. The amount covers the following services and cost components:
 
 <table>
-<tr><td>Service</td><td>Maximum amount</td></tr>
+<tr><th>Service</th><th>Maximum amount</th></tr>
 <tr><td>If the sample is not taken by the tested person him- or herself: taking the sample and conducting a test, including the test materials, the protective materials and working time, and for the analysis and order processing</td><td>28 Fr.</td></tr>
 <tr><td>If the sample is taken by the tested person him- or herself: taking the sample and conducting a test, including the test materials, the protective materials and working time, and for the analysis and order processing</td><td colspan="2">14 Fr.</td></tr>
 </table>
@@ -1423,9 +1368,9 @@ Annex 6*[^t-8]*
 
   The Confederation shall pay the costs of pooled molecular-biological analyses for Sars-CoV-2 only in following cases:
 
-  - a. in the case of targeted and repetitive testing in schools, universities and training centres in order to prevent and detect outbreaks, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH;
-  - b. in situations with a significantly higher probability of transmission, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH;
-  - c. in relation to testing over a limited period in connection with uncontrolled outbreaks of infection, provided the responsible authority or organisation in the canton makes provision for this.
+  - a. in the case of targeted and repetitive testing in schools, universities and training centres in order to prevent and detect outbreaks, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH or provided the testing is coordinated via a platform made available by the Confederation;
+  - b. in situations with a significantly higher probability of transmission, provided the responsible authority or organisation in the canton makes provision for this and submits a plan to the FOPH or provided the testing is coordinated via a platform made available by the Confederation;
+  - c. in relation to testing over a limited period in connection with uncontrolled outbreaks of infection, provided the responsible authority or organisation in the canton makes provision for this or provided the testing is coordinated via a platform made available by the Confederation.
 
 - 2\.2.2
 
@@ -1460,7 +1405,7 @@ Annex 6*[^t-8]*
 
 <table>
 <tr><td>Service</td><td>Maximum amount</td></tr>
-<tr><td>Taking the sample, including the protective materials, working time and order processing</td><td>16.50 Fr.</td></tr>
+<tr><td>Taking the sample, including the protective materials and working time</td><td>16.50 Fr.</td></tr>
 </table>
 
 - b. for the pooled molecular-biological analysis:
@@ -1497,10 +1442,10 @@ Annex 6*[^t-8]*
   - c. where a contact person is in quarantine and targeted and repetitive testing is carried in the business where the contact person works, with at least one test per week;
   - d. in the case of events with entry restrictions in accordance with Article 15 of the COVID-19 Special Situation Ordinance of 23 June 2021[^annex6-lvlu1-lvl3-lvl31-1] or, if applicable, Article 6*b*<sup>quater</sup> of the COVID-19 Special Situation Ordinance of 19 June 2020 in its version following the Amendment of 26 May 2021[^annex6-lvlu1-lvl3-lvl31-2].
 
-- 3\.1.2 It shall also pay the costs of Sars-CoV-2 rapid tests for specialist use according to the screening standard in cases under number 3.1.1 letters b and d.
+- 3\.1.2 ...
 - 3\.1.3
 
-  It shall pay the costs of Sars-CoV-2 rapid tests for specialist use under sections 3.1.1 and 3.1.2 only if the services are provided by:
+  It shall pay the costs of Sars-CoV-2 rapid tests for specialist use under section 3.1.1 only if the services are provided by:
 
   - 1\.
 
@@ -1517,7 +1462,7 @@ Annex 6*[^t-8]*
   - 3\. socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment;
   - 4\. assistants as defined in the InvIA.
 
-- 3\.1.4 It shall pay a maximum of 6.50 francs for a Sars-CoV-2 rapid test for specialist use under sections 3.1.1 and 3.1.2. This amount covers the following services and cost components:
+- 3\.1.4 It shall pay a maximum of 6.50 francs for a Sars-CoV-2 rapid test for specialist use under section 3.1.1. This amount covers the following services and cost components:
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
@@ -1535,7 +1480,7 @@ Annex 6*[^t-8]*
   The Confederation shall pay the costs of pooled molecular-biological analyses for Sars-CoV-2 only in following cases:
 
   - a. where targeted and repetitive testing is carried out in hospitals, homes for the elderly and care homes and other socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment;
-  - b. where targeted and repetitive testing is carried out in businesses and clubs, provided the responsible authority or organisation in the canton submits a plan to the FOPH;
+  - b. where targeted and repetitive testing is carried out in businesses and clubs, provided the responsible authority or organisation in the canton submits a plan to the FOPH or provided the testing is coordinated via a platform made available by the Confederation;
   - c. where a contact person is in quarantine and targeted and repetitive testing is carried out in the business where the contact person works, with at least one test per week.
 
 - 3\.2.2 It shall pay the costs only if the services are provided by laboratories under Article 54 paragraph 3 HIO and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA.
@@ -1553,25 +1498,29 @@ Annex 6*[^t-8]*
 <tr><td>– surcharge for additional sampling up to a maximum pool size of 25 – for conducting a centralised pool in cases under number 3.2.1 letters b and c for the creation of each pool [tab]</td><td>8 Fr. 18.50 Fr.</td></tr>
 </table>
 
-### 3.3 Sars-CoV-2 self-tests
+### 3.3**** Sars-CoV-2 self-tests
+
+[^annex6-lvlu1-lvl3-lvl33-1]
+
+[^annex6-lvlu1-lvl3-lvl33-1]: In force until 30 Sept. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 - 3\.3.1 The Confederation shall pay the costs of a maximum of five Sars-CoV-2 self-tests per person within any period of 30 days, provided they are supplied by pharmacies.
-- 3\.3.2 The Confederation shall pay a maximum of 10 francs for a Sars-CoV-2 self-test. The amount covers the following services and cost components:
+- 3\.3.2 The Confederation shall pay a maximum of 7.20 francs for a Sars-CoV-2 self-test. The amount covers the following services and cost components:
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
-<tr><td>For the Sars-CoV-2 self-test if supplied directly with person contact with the customer, test materials only, comprising: price ex factory, surcharge of 80 % on the price ex factory and Value Added Tax at a rate of 7.7 %</td><td>10 Fr.</td></tr>
-<tr><td>For the Sars-CoV-2 self-test if sent out, test materials only, comprising: price ex factory, surcharge of 60 % on the price ex factory and Value Added Tax at a rate of 7.7 %</td><td>9 Fr.</td></tr>
+<tr><td>For the Sars-CoV-2 self-test if supplied directly with person contact with the customer, test materials only, comprising: price ex factory, surcharge of 80% on the price ex factory and Value Added Tax at a rate of 7.7%</td><td>7.20 Fr.</td></tr>
+<tr><td>For the Sars-CoV-2 self-test if sent out, test materials only, comprising: price ex factory, surcharge of 60% on the price ex factory and Value Added Tax at a rate of 7.7%</td><td>9 Fr.</td></tr>
 </table>
 
 - 3\.3.3
 
   The following persons are not entitled to have the costs of Sars-CoV-2 self-tests covered:
 
-  - a. persons who have been vaccinated as defined in Annex 2 number 1.1 of the COVID-19 Special Situation Ordinance of 23 June 2021[^annex6-lvlu1-lvl3-lvl33-1], provided the final dose of the vaccine was administered less than 365 days prior to the test; in the case of the Janssen vaccine, the period is 365 days from the 22 day after the vaccine is administered in full;
+  - a. persons who have been vaccinated as defined in Annex 2 number 1.1 of the COVID-19 Special Situation Ordinance of 23 June 2021[^annex6-lvlu1-lvl3-lvl33-2], provided the final dose of the vaccine was administered less than 365 days prior to the test; in the case of the Janssen vaccine, the period is 365 days from the 22 day after the vaccine is administered in full;
   - b. persons who have been infected with Sars-CoV-2 and who have recovered, for 6 months from the 11th day after confirmation of the infection.
 
-[^annex6-lvlu1-lvl3-lvl33-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^annex6-lvlu1-lvl3-lvl33-2]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 ### 4 Limitations
 
@@ -1586,7 +1535,7 @@ Annex 7*[^t-9]*
 
 ## Diseases and genetic anomalies that make the persons concerned persons at high risk
 
-[^t-9]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Aug. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) and No II of the O of 12 May 2021, in force since 17 Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 30 Sept. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) and No II of the O of 12 May 2021, in force since 17 Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 
