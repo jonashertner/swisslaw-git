@@ -5,11 +5,12 @@ title: Gesetz über die Primarschule
 short: GPS
 language: de
 version: 2021-08-01
+corrected: 2021-08-30
 version_adopted: 2020-09-10
 adopted: 2013-11-15
 in_force: 2015-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/411.0"
-pdf: "https://lex.vs.ch/api/de/versions/2944/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2854/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -322,20 +323,6 @@ verordnet:[^ingress-1]
 **Besondere Aktivitäten**
 
 <sup>1</sup> Das Departement erlässt Weisungen für so genannte besondere Aktivitäten im Zusammenhang mit den Vorgaben der Lehrpläne, namentlich in den Bereichen Kultur, Religion, Gesundheit, Prävention und Sport
-
-<sup>2</sup> Die freiwilligen besonderen Aktivitäten können zum Teil zulasten der Eltern gehen.
-
-#### Art. 26a
-
-**Ausflüge, Veranstaltungen**
-
-<sup>1</sup> Die von der Schule während der Schulzeit organisierten Ausflüge und Veranstaltungen sind obligatorisch und unentgeltlich. Nur die Verpflegungskosten können den Eltern in Rechnung gestellt werden.
-
-<sup>2</sup> Die Eltern können aus stichhaltigen Gründen einen Dispens verlangen.
-
-<sup>3</sup> Für eine Reise, die länger als einen Tag dauert, ist das vorherige Einverständnis der Eltern erforderlich.
-
-<sup>4</sup> Dispensierte Schüler müssen in jedem Fall die Schule besuchen, wo für sie schulische oder ausserschulische Tätigkeiten geplant werden müssen.
 
 #### Art. 27
 
@@ -715,9 +702,9 @@ verordnet:[^ingress-1]
 
 <sup>2</sup> Für den Fall, dass das Kind in einer anderen Gemeinde als in der Wohnsitzgemeinde seiner Eltern eingeschult wird, können diese gemäss Verordnung des Staatsrates zu einer Beteiligung an den dadurch entstehenden zusätzlichen Kosten verpflichtet werden (Art. 28 des vorliegenden Gesetzes).
 
-<sup>3</sup> Die Eltern versorgen ihr Kind mit den geforderten und benötigten persönlichen Gegenständen und Ausstattungen. Diese werden in einem Reglement des Staatsrats festgelegt.
+<sup>3</sup> Die Eltern statten ihr Kind mit den üblich erforderlichen und notwendigen Schulmaterialien und -ausrüstungen aus.
 
-<sup>4</sup> Von den Eltern kann verlangt werden, dass sie sich in einem vernünftigen Rahmen finanziell an den freiwilligen besonderen Aktivitäten, die in Artikel 26 des vorliegenden Gesetzes definiert sind, beteiligen, wobei der Grundsatz der Verhältnismässigkeit gilt.
+<sup>4</sup> Von den Eltern kann verlangt werden, dass sie sich in einem vernünftigen Rahmen finanziell an den besonderen Aktivitäten, die in Artikel 26 des vorliegenden Gesetzes definiert sind, beteiligen, wobei der Grundsatz der Verhältnismässigkeit gilt.
 
 <sup>5</sup> Die kommunalen und interkantonalen Behörden legen die möglichen Kosten fest, die von den Eltern, deren Kind ausserschulisch betreut wird, zu tragen sind.
 

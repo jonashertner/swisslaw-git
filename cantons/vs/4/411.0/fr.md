@@ -5,11 +5,12 @@ title: "Loi sur l'enseignement primaire"
 short: LEP
 language: fr
 version: 2021-08-01
+corrected: 2021-08-30
 version_adopted: 2020-09-10
 adopted: 2013-11-15
 in_force: 2015-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/411.0"
-pdf: "https://lex.vs.ch/api/fr/versions/2944/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2854/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -322,20 +323,6 @@ ordonne:[^ingress-1]
 **Activités particulières**
 
 <sup>1</sup> Le Département édicte des directives pour des activités dites particulières, en lien avec les visées des plans d'études, notamment dans les domaines de la culture, de la religion, de la santé, de la prévention et du sport.
-
-<sup>2</sup> Les activités particulières facultatives peuvent être mises partiellement à la charge des parents.
-
-#### Art. 26a
-
-**Excursions, manifestations**
-
-<sup>1</sup> Les excursions et les manifestations organisées par l'école pendant le temps scolaire sont obligatoires et gratuites. Seuls les frais de repas peuvent être facturés aux parents.
-
-<sup>2</sup> Les parents, pour des motifs légitimes, peuvent demander une dispense.
-
-<sup>3</sup> Pour un déplacement de plus d'un jour, l'accord préalable des parents est exigé.
-
-<sup>4</sup> Dans tous les cas, les élèves dispensés sont tenus de se rendre en classe où des activités scolaires ou parascolaires doivent être prévues à leur intention.
 
 #### Art. 27
 
@@ -715,9 +702,9 @@ ordonne:[^ingress-1]
 
 <sup>2</sup> Dans le cas où l'enfant est scolarisé dans une autre commune que celle du domicile de ses parents, ceux-ci peuvent être appelés à participer aux frais supplémentaires découlant de cette situation conformément à l'ordonnance du Conseil d'Etat (art. 28 de la présente loi).
 
-<sup>3</sup> Les parents fournissent les effets et équipements personnels demandés et nécessaires à leur enfant. Ils sont définis dans un règlement du Conseil d’Etat.
+<sup>3</sup> Les parents fournissent les effets et équipements usuels demandés et nécessaires à leur enfant.
 
-<sup>4</sup> Les parents peuvent être appelés à participer financièrement, selon le principe de proportionnalité, à hauteur d'un montant raisonnable, pour toute activité particulière facultative définie à l'article 26 de la présente loi.
+<sup>4</sup> Ils peuvent être appelés à participer financièrement, selon le principe de proportionnalité, à hauteur d'un montant raisonnable, pour toute activité particulière définie à l'article 26 de la présente loi.
 
 <sup>5</sup> Les autorités communales ou intercommunales définissent les éventuels frais supportés par les parents lorsque leur enfant bénéficie d'un accueil extrascolaire.
 
