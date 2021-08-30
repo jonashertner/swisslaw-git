@@ -3,20 +3,20 @@ canton: BL
 number: "153.11"
 title: Verordnung zur Arbeitszeit
 language: de
-version: 2021-05-01
-valid_until: 2021-08-30
-version_adopted: 2021-04-20
+version: 2021-08-31
+valid_until: 2021-12-31
+version_adopted: 2021-08-31
 adopted: 2000-01-04
 in_force: 2000-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/153.11"
-pdf: "https://bl.clex.ch/api/de/versions/2985/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3085/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur Arbeitszeit
 
-Vom 04.01.2000 (Stand 01.05.2021)
+Vom 04.01.2000 (Stand 31.08.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -124,7 +124,7 @@ beschliesst:
 
 <sup>4</sup> Abweichungen von mehr als 80 Plusstunden am Jahresende verfallen entschädigungslos.
 
-<sup>4<sup>bis</sup></sup> Im Jahr 2020 wird keine Kappung der Stunden vorgenommen, die per Jahresende 80 Plusstunden übersteigen. Ende August 2021 verfällt der über 80 Plusstunden hinausgehende Teil des Zeitsaldos entschädigungslos.
+<sup>4<sup>bis</sup></sup> Im Jahr 2020 wird keine Kappung der Stunden vorgenommen, die per Jahresende 80 Plusstunden übersteigen.
 
 <sup>5</sup> …
 
