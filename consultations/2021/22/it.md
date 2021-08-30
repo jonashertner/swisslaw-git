@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione totale dell’ordinanza concernente i sistemi d’informazione per il servizio veterinario pubblico (O-SISVet), ora: ordinanza sui sistemi d’informazione dell’USAV per la filiera agroalimentare)"
 document: Progetto posto in consultazione
 language: it

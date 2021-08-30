@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Totalrevision der Verordnung über Informationssysteme für den öffentlichen Veterinärdienst (ISVet-V, neu: Verordnung über die Informationssysteme des BLV für die Lebensmittelkette)"
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision totale de l’ordonnance concernant les systèmes d’information du service vétérinaire public (OSIVét; nouveau titre: ordonnance concernant les systèmes d’information de l’OSAV pour la chaîne agroalimentaire)"
 document: Projet mis en consultation
 language: fr
