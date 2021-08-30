@@ -4,13 +4,13 @@ number: "821.40.63"
 title: Verordnung über wirtschaftliche Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch Beiträge für Härtefälle
 short: WMHV-COVID-19
 language: de
-version: 2021-06-19
-valid_until: 2021-08-30
-version_adopted: 2021-06-28
+version: 2021-08-31
+valid_until: 2021-12-23
+version_adopted: 2021-08-31
 adopted: 2020-11-16
 in_force: 2020-11-16
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.63"
-pdf: "https://bdlf.fr.ch/api/de/versions/6874/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6902/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, Beiträge für Härtefälle – V
 
 (WMHV-COVID-19)
 
-vom 16.11.2020 (Fassung in Kraft getreten am 19.06.2021)
+vom 16.11.2020 (Fassung in Kraft getreten am 31.08.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -392,7 +392,7 @@ beschliesst:
 - f) die Bestätigung, dass das Unternehmen bei den Steuern auf dem aktuellen Stand ist, insbesondere was die Einhaltung der Frist für die Abgabe der Steuererklärung, die Steuerzahlungen und das Inkasso der Quellensteuern seiner Angestellten betrifft;
 - g) einen aktueller Betreibungsregisterauszug;
 - h) …
-- i) die Steuerveranlagung der wirtschaftlich Berechtigten, deren Beteiligung am Kapital der Gesellschaft im Sinne von Artikel 12 Abs. 2 mindestens einen Drittel erreicht;
+- i) …
 - j) eine Bestätigung, dass das Unternehmen über keine private Versicherung verfügt, die den Umsatzrückgang ganz oder teilweise deckt, oder den Beleg über die Zahlung einer Entschädigung durch eine derartige Versicherung.
 
 <sup>3</sup> Bei Erneuerung des Gesuchs müssen nur die Belege nach Absatz 2 Bst. b, c und d erneut eingereicht werden.
@@ -480,7 +480,7 @@ beschliesst:
 
 <sup>3</sup> Gesuche im erleichterten Verfahren im Sinne von Artikel 17a müssen bis am 30. Juni 2021 eingereicht werden.
 
-<sup>4</sup> Für Unternehmen die ein Gesuch im ordentlichen Verfahren für einen Zeitraum stellen, der auf eine Härtefallhilfe im erleichterten Verfahren folgt, gilt die Frist nach Absatz 1 ab Empfang der Schlussabrechnung gemäss Artikel 13a Abs. 3 Bst. c.
+<sup>4</sup> Für Unternehmen, die ein Gesuch im ordentlichen Verfahren für einen Zeitraum stellen, der auf eine Härtefallhilfe im erleichterten Verfahren folgt, gilt eine Frist von zehn Tagen ab Empfang der Schlussabrechnung gemäss Artikel 13a Abs. 3 Bst. c.
 
 #### Art. 19
 

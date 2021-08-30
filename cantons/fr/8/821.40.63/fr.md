@@ -4,13 +4,13 @@ number: "821.40.63"
 title: Ordonnance sur les mesures économiques destinées à lutter contre les effets du coronavirus par un soutien aux cas de rigueur
 short: OMECR COVID-19
 language: fr
-version: 2021-06-19
-valid_until: 2021-08-30
-version_adopted: 2021-06-28
+version: 2021-08-31
+valid_until: 2021-12-23
+version_adopted: 2021-08-31
 adopted: 2020-11-16
 in_force: 2020-11-16
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.63"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6874/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6902/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, soutien aux cas de rigueur – O
 
 (OMECR COVID-19)
 
-du 16.11.2020 (version entrée en vigueur le 19.06.2021)
+du 16.11.2020 (version entrée en vigueur le 31.08.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -394,7 +394,7 @@ Arrête:
 - f) l'attestation que l'entreprise est à jour s'agissant de sa situation fiscale, notamment en ce qui concerne le respect des délais de dépôt de ses déclarations fiscales, le paiement de ses impôts et les retenues de l'impôt à la source de ses employé‑e‑s;
 - g) un extrait récent du registre des poursuites;
 - h) …
-- i) l'avis de taxation du ou des ayants droit économiques dont la participation au capital de la société atteint au moins un tiers dudit capital au sens de l'article 12 al. 2;
+- i) …
 - j) une confirmation que l'entreprise ne dispose pas d'une assurance privée permettant de couvrir tout ou partie des pertes de chiffre d'affaires ou une attestation des indemnités obtenues grâce à une telle assurance.
 
 <sup>3</sup> En cas de renouvellement de la demande, seuls les documents prévus à l'alinéa 2 let. b, c, et d doivent être produits à nouveau.
@@ -482,7 +482,7 @@ Arrête:
 
 <sup>3</sup> Pour les demandes en procédure allégée au sens de l'article 17a, la demande d'aide est introduite d'ici au 30 juin 2021.
 
-<sup>4</sup> Pour les entreprises qui déposent une demande en procédure ordinaire pour une période qui suit une aide en procédure allégée, le délai de l'alinéa 1 s'applique à compter de la réception du décompte final selon l'article 13a al. 3 let. c.
+<sup>4</sup> Pour les entreprises qui déposent une demande en procédure ordinaire pour une période qui suit une aide en procédure allégée, un délai de dix jours s'applique à compter de la réception du décompte final selon l'article 13a al. 3 let. c.
 
 #### Art. 19
 
