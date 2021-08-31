@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-08-30
+version: 2021-09-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210830/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210830-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210830/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210901/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210901-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 30 August 2021)
+of 19 June 2020 (Status as of 1 September 2021)
 
 The Swiss Federal Council,
 

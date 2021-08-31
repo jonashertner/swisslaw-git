@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-08-30
+version: 2021-09-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210830/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210830-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210830/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210830/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 30 août 2021)
+du 19 juin 2020 (Etat le 1<sup>er</sup> septembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -298,7 +298,7 @@ La Confédération peut distribuer contre paiement sur le marché, par elle-mêm
 
 **Exceptions à l’autorisation de mise sur le marché de médicaments**
 
-<sup>1</sup> En attendant la décision de Swissmedic, les médicaments fabriqués avec les substances actives énumérées à l’annexe 5 et destinés à tratier les patients atteints du COVID-19 peuvent être mis sur le marché sans autorisation si une demande d’autorisation correspondante a été déposée. Dans le cadre de l’examen des demandes d’autorisation, Swissmedic peut autoriser des divergences par rapport aux prescriptions de la législation sur les produits thérapeutiques, si une analyse bénéfice-risque a été effectuée pour ces médicaments.
+<sup>1</sup> En attendant la décision de Swissmedic, les médicaments fabriqués avec les substances actives énumérées à l’annexe 5 et destinés à traiter les patients atteints du COVID-19 peuvent être mis sur le marché sans autorisation si une demande d’autorisation correspondante a été déposée. Dans le cadre de l’examen des demandes d’autorisation, Swissmedic peut autoriser des divergences par rapport aux prescriptions de la législation sur les produits thérapeutiques, si une analyse bénéfice-risque a été effectuée pour ces médicaments.
 
 <sup>2</sup> Des modifications de l’autorisation d’un médicament autorisé en Suisse contenant une substance active énumérée à l’annexe 4, ch. 1, qui doivent permettre d’utiliser le médicament pour traiter en Suisse des patients atteints du COVID-19, peuvent être mises en œuvre immédiatement après le dépôt d’une demande correspondante jusqu’à la décision de Swissmedic. Swissmedic peut autoriser des divergences par rapport aux prescriptions de la législation sur les produits thérapeutiques, si une analyse bénéfice-risque a été effectuée pour les modifications de l’autorisation des médicaments contenant une substance active énumérée à l’annexe 4, ch. 1.[^21-1]
 
@@ -1489,7 +1489,7 @@ Annexe 6*[^t-8]*
 
 [^annex6-lvlu1-lvl3-lvl33-1]
 
-[^annex6-lvlu1-lvl3-lvl33-1]: En vigueur jusqu'au 30 sept. 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^annex6-lvlu1-lvl3-lvl33-1]: En vigueur jusqu’au 30 sept. 2021 ([RO 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
 
 - 3\.3.1 La Confédération prend en charge les coûts pour 5 autotests SARS-CoV-2 au maximum par personne sur 30 jours, à condition qu’ils aient été remis par une pharmacie.
 - 3\.3.2 Elle prend en charge au maximum 7,20 francs pour un autotest SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
