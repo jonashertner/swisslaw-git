@@ -4,13 +4,13 @@ number: "261.11"
 title: Reglement zur Ausführung des Gesetzes vom 20. September 1967 über das Notariat
 short: NR
 language: de
-version: 2016-07-01
-valid_until: 2021-08-31
-version_adopted: 2016-06-28
+version: 2021-09-01
+valid_until: 2022-01-31
+version_adopted: 2021-06-15
 adopted: 1986-10-07
 in_force: 1986-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/261.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5146/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6878/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Notariat – R
 
 (NR)
 
-vom 07.10.1986 (Fassung in Kraft getreten am 01.07.2016)
+vom 07.10.1986 (Fassung in Kraft getreten am 01.09.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -44,7 +44,7 @@ beschliesst:
 <sup>1</sup> Wer um die Erteilung eines Notariatspatents ersucht, hat der Notariatskommission (die Kommission) folgende Unterlagen einzureichen:
 
 - a) eine Bestätigung seiner Handlungsfähigkeit;
-- b) ein Leumundszeugnis;
+- b) …
 - c) einen Auszug aus dem Strafregister;
 - d) einen Auszug der Register des Betreibungs- und des Konkursamtes;
 - e) eine Wohnsitzbestätigung.

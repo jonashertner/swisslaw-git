@@ -4,13 +4,13 @@ number: "261.11"
 title: "Règlement d'exécution de la loi du 20 septembre 1967 sur le notariat"
 short: RN
 language: fr
-version: 2016-07-01
-valid_until: 2021-08-31
-version_adopted: 2016-06-28
+version: 2021-09-01
+valid_until: 2022-01-31
+version_adopted: 2021-06-15
 adopted: 1986-10-07
 in_force: 1986-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/261.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5146/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6878/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Notariat – R
 
 (RN)
 
-du 07.10.1986 (version entrée en vigueur le 01.07.2016)
+du 07.10.1986 (version entrée en vigueur le 01.09.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -44,7 +44,7 @@ Arrête:
 <sup>1</sup> Le candidat qui requiert l'octroi d'une patente de notaire doit produire à la Commission du notariat (ci-après: la Commission) les pièces suivantes:
 
 - a) une attestation selon laquelle il a l'exercice des droits civils;
-- b) un certificat de mœurs;
+- b) …
 - c) un extrait du casier judiciaire;
 - d) un extrait des registres de l'office des poursuites et de l'Office cantonal des faillites;
 - e) une attestation de domicile.
