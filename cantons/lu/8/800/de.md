@@ -4,13 +4,13 @@ number: "800"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2021-01-01
-valid_until: 2021-08-31
-version_adopted: 2020-10-26
+version: 2021-09-01
+valid_until: 2025-12-31
+version_adopted: 2021-05-10
 adopted: 2005-09-13
 in_force: 2006-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/800"
-pdf: "https://srl.lu.ch/api/de/versions/3701/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3802/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3701/pdf_file"
 
 (GesG)
 
-vom 13.09.2005 (Stand 01.01.2021)
+vom 13.09.2005 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -671,7 +671,7 @@ beschliesst:
 - e. regelt er die Zugriffsrechte auf Personendaten,
 - f. stellt er die Evaluation des Modellversuchs sicher.
 
-<sup>4</sup> Die Bestimmungen des Datenschutzgesetzes vom 2. Juli 1990[^53h-1] sind einzuhalten.
+<sup>4</sup> Die Bestimmungen des Kantonalen Datenschutzgesetzes vom 2. Juli 1990[^53h-1] sind einzuhalten.
 
 [^53h-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de)
 
