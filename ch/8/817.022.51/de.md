@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 27. Mai 2020 über gentechnisch veränderte Lebens
 short: VGVL
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/456"
 language: de
-version: 2020-07-01
+version: 2021-09-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2020-456-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2020-456-20210901-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20210901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20200701/de"
 
 (VGVL)
 
-vom 27. Mai 2020 (Stand am 1. Juli 2020)
+vom 27. Mai 2020 (Stand am 1. September 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -332,17 +332,22 @@ Anhang 2
 <tr><td>Soja MON89788 MON-89788-1</td><td>keine</td></tr>
 </table>
 
-Anhang 3
+Anhang 3*[^t-1]*
 
 (Art. 7)
 
 ## GVO-Erzeugnisse, die ohne Bewilligung des BLV in Verkehr gebracht werden dürfen
 
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 11. Aug. 2021, in Kraft seit 1. Sept. 2021 ([AS 2021 483](https://fedlex.data.admin.ch/eli/oc/2021/483)).
+
 GVO-Erzeugnisse bedürfen keiner Bewilligung des BLV für das Inverkehrbringen in der Schweiz, sofern sie die Voraussetzungen erfüllen, die in der zweiten Spalte aufgeführt sind. Das BLV führt eine Liste dieser Erzeugnisse und veröffentlich sie.
 
 <table>
 <tr><td>GVO-Erzeugnis</td><td>Einzuhaltende Vorschriften</td></tr>
-<tr><td>GVO-Erzeugnisse, die der Definition nach Artikel 31 Absatz 4 LGV entsprechen und die nach der Verordnung (EG) 2015/2283[^annex3-lvlu1-1] in Verkehr gebracht werden dürfen.</td><td>Die Vorschriften gemäss den einzelnen Durchführungsbeschlüssen und Meldungen sind einzuhalten. Die im Durchführungsbeschluss oder in der Meldung genannte Person, an die sich der Beschluss oder die Meldung richtet, gilt als Bewilligungsinhaberin oder -inhaber. Das genannte Produkt darf nur durch diese Person oder mit deren Einverständnis durch andere Personen in Verkehr gebracht werden.</td></tr>
+<tr><td>Endo-1,4-β-xylanase (EC 3.2.1.8[^annex3-lvlu1-1]) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung, bei der Herstellung von alkoholischen Getränken auf Getreide**basis, beim Brauen von Getränken auf Getreidebasis und bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus orzyae* (Stamm NZYM-FB).</td></tr>
+<tr><td>GVO-Erzeugnisse, die der Definition nach Artikel 31 Absatz 4 LGV entsprechen und die nach der Verordnung (EG) 2015/2283[^annex3-lvlu1-2] in Verkehr gebracht werden dürfen.</td><td>Die Vorschriften gemäss den einzelnen Durchführungsbeschlüssen und Meldungen sind einzuhalten. Die im Durchführungsbeschluss oder in der Meldung genannte Person, an die sich der Beschluss oder die Meldung richtet, gilt als Bewilligungsinhaberin oder -inhaber. Das genannte Produkt darf nur durch diese Person oder mit deren Einverständnis durch andere Personen in Verkehr gebracht werden.</td></tr>
+<tr><td>Phospholipase A2 (EC 3.1.1.43) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Eiern und rohen Pflanzenölen und -fetten sowie bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm PLA-54).</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: Verordnung (EU) 2015/2283 des Europäischen Parlaments und des Rates vom 25. November 2015 über neuartige Lebensmittel, zur Änderung der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 258/97 des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 1852/2001 der Kommission; Fassung gemäss ABl. L 327 vom 11.12.2015, S. 1.
+[^annex3-lvlu1-1]: IUBMB-Nummer für die Enzym-Nomenklatur
+[^annex3-lvlu1-2]: Verordnung (EU) 2015/2283 des Europäischen Parlaments und des Rates vom 25. November 2015 über neuartige Lebensmittel, zur Änderung der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 258/97 des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 1852/2001 der Kommission; Fassung gemäss ABl. L 327 vom 11.12.2015, S. 1.

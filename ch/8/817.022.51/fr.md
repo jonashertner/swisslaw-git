@@ -4,11 +4,11 @@ title: Ordonnance du DFI du 27 mai 2020 sur les denrées alimentaires génétiqu
 short: ODAlGM
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/456"
 language: fr
-version: 2020-07-01
+version: 2021-09-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-456-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-456-20210901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20210901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20200701/fr"
 
 (ODAlGM)
 
-du 27 mai 2020 (Etat le 1<sup>er</sup> juillet 2020)
+du 27 mai 2020 (Etat le 1<sup>er</sup> septembre 2021)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -329,17 +329,22 @@ Annexe 2
 <tr><td>Soja MON89788 MON-89788-1</td><td>aucune</td></tr>
 </table>
 
-Annexe 3
+Annexe 3*[^t-1]*
 
 (art. 7)
 
 ## Produits OGM qui peuvent être mis sur le marché sans autorisation de l’OSAV
 
+[^t-1]: Mise à jour par le ch. I de l’O du DFI du 11 août 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 483](https://fedlex.data.admin.ch/eli/oc/2021/483)).
+
 Aucune autorisation de l’OSAV n’est requise pour la mise sur le marché en Suisse des produits OGM qui remplissent les conditions figurant dans la deuxième colonne du tableau. L’OSAV établit et publie la liste de ces produits.
 
 <table>
 <tr><td>Produits OGM</td><td>Prescriptions à respecter</td></tr>
-<tr><td>Produits OGM qui correspondent à la définition de l’art. 31, al. 4, ODAlOUs et qui peuvent être mis sur le marché en vertu du règlement (CE) 2015/2283[^annex3-lvlu1-1].</td><td>Les prescriptions fixées dans les décisions d’exécution et dans les notifications doivent être respectées. La personne nommée comme destinataire dans la décision d’exécution ou dans la notification est réputée titulaire de l’autorisation. Le produit nommé peut être mis sur le marché uniquement par cette personne ou par des personnes ayant obtenu son accord.</td></tr>
+<tr><td>Endo-1,4-β-xylanase (EC 3.2.1.8[^annex3-lvlu1-1]) *Enzyme alimentaire utilisée pour le trai**tement de la fécule, pour la production de boissons* *alcooliques* *à base de céréales, pour le* *brassage* *de boissons à base de céréales et dans des processus de boulangerie.*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus orzyae* (souche NZYM-FB).</td></tr>
+<tr><td>Phospholipase A2 (EC 3.1.1.43) *Enzyme alimentaire utilisée pour le traitement des œufs et des huiles et graisses végétales crues et dans des processus de boulangerie.*</td><td>Produite par le micro-organisme génétiquement modifié *Aspergillus niger* (souche PLA-54).</td></tr>
+<tr><td>Produits OGM qui correspondent à la définition de l’art. 31, al. 4, ODAlOUs et qui peuvent être mis sur le marché en vertu du règlement (CE) 2015/2283[^annex3-lvlu1-2].</td><td>Les prescriptions fixées dans les décisions d’exécution et dans les notifications doivent être respectées. La personne nommée comme destinataire dans la décision d’exécution ou dans la notification est réputée titulaire de l’autorisation. Le produit nommé peut être mis sur le marché uniquement par cette personne ou par des personnes ayant obtenu son accord.</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: Règlement (UE) 2015/2283 du Parlement européen et du Conseil du 25 novembre 2015 relatif aux nouveaux aliments, modifiant le règlement (UE) n<sup>o</sup> 1169/2011 du Parlement européen et du Conseil en abrogeant le règlement (CE) n<sup>o</sup> 258/97 du Parlement européen et du Conseil et le règlement (CE) n<sup>o</sup> 1852/2001 de la Commission, JO L 327 du 11.12.2015, p. 1.
+[^annex3-lvlu1-1]: Numéro attribué par l’IUBMB pour la nomenclature des enzymes
+[^annex3-lvlu1-2]: Règlement (UE) 2015/2283 du Parlement européen et du Conseil du 25 novembre 2015 relatif aux nouveaux aliments, modifiant le règlement (UE) n<sup>o</sup> 1169/2011 du Parlement européen et du Conseil en abrogeant le règlement (CE) n<sup>o</sup> 258/97 du Parlement européen et du Conseil et le règlement (CE) n<sup>o</sup> 1852/2001 de la Commission, JO L 327 du 11.12.2015, p. 1.

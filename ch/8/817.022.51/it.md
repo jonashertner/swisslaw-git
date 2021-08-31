@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 27 maggio 2020 concernente le derrate alimentari ge
 short: ODerrGM
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/456"
 language: it
-version: 2020-07-01
+version: 2021-09-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2020-456-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20210901/it/xml/fedlex-data-admin-ch-eli-cc-2020-456-20210901-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20210901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20200701/it"
 
 (ODerrGM)
 
-del 27 maggio 2020 (Stato 1° luglio 2020)
+del 27 maggio 2020 (Stato 1° settembre 2021)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -332,17 +332,22 @@ Allegato 2
 <tr><td>Soia MON89788 MON-89788-1</td><td>nessuna</td></tr>
 </table>
 
-Allegato 3
+Allegato 3*[^t-1]*
 
 (art. 7)
 
 ## Prodotti OGM che possono essere immessi sul mercato senza autorizzazione dell’USAV
 
+[^t-1]: Aggiornato dal n. I dell’O del DFI dell’11 ago. 2021, in vigore dal 1° set. 2021 ([RU 2021 483](https://fedlex.data.admin.ch/eli/oc/2021/483)).
+
 I prodotti OGM non necessitano di alcuna autorizzazione dell’USAV per l’immissione sul mercato in Svizzera se soddisfano i requisiti che figurano nella seconda colonna. L’USAV stila e pubblica un elenco di questi prodotti.
 
 <table>
 <tr><td>Prodotto OGM</td><td>Prescrizioni da rispettare</td></tr>
-<tr><td>Prodotti OGM che corrispondono alla definizione di cui all’articolo 31 capoverso 4 ODerr e che possono essere immessi sul mercato secondo il regolamento (CE) 2015/2283[^annex3-lvlu1-1].</td><td>Devono essere rispettate le prescrizioni di cui alle singole decisioni di esecuzione e alle notifiche. La persona menzionata nella decisione di esecuzione o nella notifica e alla quale si rivolge la decisione o la notifica è considerata titolare dell’autorizzazione. Il prodotto menzionato può essere immesso sul mercato solo da questa persona oppure, con il suo consenso, da altre persone.</td></tr>
+<tr><td>Endo-1,4-beta-xinalasi (EC 3.2.1.8[^annex3-lvlu1-1]) *Enzima alimentare per l’uso nella* *trasfor**mazione* *dell’amido, nella fabbricazione di* *bevande* *alcoliche a base di cereali, nella* *fabbricazione* *di bevande a base di cereali* *nonché* *nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus orzyae* (ceppo NZYM-FB).</td></tr>
+<tr><td>Fosfolipasi A2 (EC 3.1.1.43) *Enzima alimentare per l’uso nella* *trasfor**mazione* *di uova e oli e grassi vegetali crudi nonché nei processi di cottura al forno.*</td><td>Fabbricato con il microorganismo geneticamente modificato *Aspergillus niger* (ceppo PLA-54).</td></tr>
+<tr><td>Prodotti OGM che corrispondono alla definizione di cui all’articolo 31 capoverso 4 ODerr e che possono essere immessi sul mercato secondo il regolamento (CE) 2015/2283[^annex3-lvlu1-2].</td><td>Devono essere rispettate le prescrizioni di cui alle singole decisioni di esecuzione e alle notifiche. La persona menzionata nella decisione di esecuzione o nella notifica e alla quale si rivolge la decisione o la notifica è considerata titolare dell’autorizzazione. Il prodotto menzionato può essere immesso sul mercato solo da questa persona oppure, con il suo consenso, da altre persone.</td></tr>
 </table>
 
-[^annex3-lvlu1-1]: Regolamento (UE) 2015/2283 del Parlamento europeo e del Consiglio, del 25 novembre 2015, relativo ai nuovi alimenti e che modifica il regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio e abroga il regolamento (CE) n. 258/97 del Parlamento europeo e del Consiglio e il regolamento (CE) n. 1852/2001 della Commissione, versione della GU L 327 dell’11.12.2015, pag. 1.
+[^annex3-lvlu1-1]: Numero IUBMB per la nomenclatura degli enzimi
+[^annex3-lvlu1-2]: Regolamento (UE) 2015/2283 del Parlamento europeo e del Consiglio, del 25 novembre 2015, relativo ai nuovi alimenti e che modifica il regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio e abroga il regolamento (CE) n. 258/97 del Parlamento europeo e del Consiglio e il regolamento (CE) n. 1852/2001 della Commissione, versione della GU L 327 dell’11.12.2015, pag. 1.
