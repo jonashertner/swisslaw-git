@@ -4,13 +4,12 @@ number: "5"
 title: Gesetz über die Niederlassung und den Aufenthalt
 short: NG
 language: de
-version: 2010-01-01
-valid_until: 2021-08-31
-version_adopted: 2009-09-14
+version: 2021-09-01
+version_adopted: 2021-05-10
 adopted: 1948-12-01
 in_force: 1949-04-01
 url: "https://srl.lu.ch/app/de/texts_of_law/5"
-pdf: "https://srl.lu.ch/api/de/versions/2236/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4184/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2236/pdf_file"
 
 (NG)
 
-vom 01.12.1948 (Stand 01.01.2010)
+vom 01.12.1948 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern beschliesst:
 
@@ -139,7 +138,7 @@ Der Grosse Rat des Kantons Luzern beschliesst:
 
 <sup>1</sup> Die Gemeinden verwahren die Schriften und führen über deren Ein- und Ausgang und über die ausgestellten Schriftenempfangsscheine genaue chronologische und alphabetische Kontrolle nach einheitlichen, vom Regierungsrat festgelegten Formularen.
 
-<sup>2</sup> Das Recht, Auskunft über die Personendaten der Einwohnerkontrolle zu verlangen und in sie Einsicht zu nehmen, richtet sich nach dem Gesetz über den Schutz von Personendaten vom 2. Juli 1990[^12-1].
+<sup>2</sup> Das Recht, Auskunft über die Personendaten der Einwohnerkontrolle zu verlangen und in sie Einsicht zu nehmen, richtet sich nach dem Kantonalen Datenschutzgesetz vom 2. Juli 1990[^12-1].
 
 <sup>3</sup> …
 
@@ -149,7 +148,7 @@ Der Grosse Rat des Kantons Luzern beschliesst:
 
 **Einwohnerregister**
 
-<sup>1</sup> Die Gemeinden führen gemäss den Vorgaben des Bundesgesetzes über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister (Registerharmonisierungsgesetz) vom 23. Juni 2006 ein Einwohnerregister in elektronischer Form.
+<sup>1</sup> Die Gemeinden führen gemäss den Vorgaben des Bundesgesetzes über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister (Registerharmonisierungsgesetz) vom 23. Juni 2006[^13-1] ein Einwohnerregister in elektronischer Form.
 
 <sup>2</sup> Im Einwohnerregister sind folgende Merkmale zu führen:
 
@@ -167,6 +166,8 @@ Der Grosse Rat des Kantons Luzern beschliesst:
 <sup>4</sup> Er bestimmt, wie die Merkmale zu führen sind, die nicht im amtlichen Katalog gemäss Artikel 4 Absatz 4 des Registerharmonisierungsgesetzes aufgeführt sind.
 
 <sup>5</sup> Die Gemeinden tauschen beim Wegzug und Zuzug von Personen die Daten der Einwohnerregister laufend untereinander aus.
+
+[^13-1]: SR [431.02](https://db.clex.ch/link/Bund/431.02/de)
 
 #### § 14
 
