@@ -3,16 +3,16 @@ sr: "0.946.292.492"
 title: "Accord de libre-échange du 6 juillet 2013 entre la République populaire de Chine et la Confédération suisse (avec annexes et prot. d'entente)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/332"
 language: fr
-version: 2014-07-01
+version: 2021-09-01
 adopted: 2013-07-06
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/332/20140701/fr/xml/fedlex-data-admin-ch-eli-cc-2014-332-20140701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/332/20140701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/332/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2014-332-20210901-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/332/20210901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord de libre-échange entre la Confédération suisse et la République populaire de Chine****
+# Accord de libre-échange entre la Confédération suisse et la République populaire de Chine
 
 RO **2014** 1783; FF **2013** 7325[^t-1]
 
@@ -24,44 +24,44 @@ Approuvé par l’Assemblée fédérale le 20 mars 2014[^t-2]
 
 Entré en vigueur par échange de notes le 1<sup>er</sup> juillet 2014
 
-(Etat le 1<sup>er</sup> juillet 2014)
+(État le 1<sup>er</sup> septembre 2021)
 
-[^t-1]: Les annexes ne sont pas publiées au RO. Les textes originaux de l’Ac. et les annexes peuvent être obtenus auprès de l’Office fédéral des constructions et de la logistique, Vente des publications fédérales, 3003 Berne, ou consultés sur le site internet du SECO: www.seco.admin.ch.
+[^t-1]: Les annexes ne sont pas publiées au RO. Les textes originaux de l’Ac. et les annexes peuvent être obtenus auprès de l’Office fédéral des constructions et de la logistique, Vente des publications fédérales, 3003 Berne, ou consultés sur le site internet du SECO: [www.seco.admin.ch](http://www.seco.admin.ch).
 [^t-2]: Art. 1 al. 1 let. a de l’AF du 20 mars 2014 ([RO 2014 1315](https://fedlex.data.admin.ch/eli/oc/2014/277)).
 
 *Préambule*
 
-la Confédération suisse (ci-après dénommée la «Suisse») et La République populaire de Chine (ci-après dénommée la «Chine»),
+La Confédération suisse (ci-après dénommée la «Suisse») et la République populaire de Chine (ci-après dénommée la «Chine»),
 
 ci-après dénommées individuellement «Partie» ou collectivement «Parties»,
 
-reconnaissant leurs relations et leur coopération étroites et de longue date dans les domaines politique et économique;
+reconnaissant leurs relations et leur coopération étroites et de longue date dans les domaines politique et économique,
 
-déterminées à renforcer les liens d’amitié et de collaboration entre les Parties en établissant et en approfondissant des relations étroites et durables;
+déterminées à renforcer les liens d’amitié et de collaboration entre les Parties en établissant et en approfondissant des relations étroites et durables,
 
-reconnaissant qu’un accord de libre-échange produit des bénéfices mutuels et améliore la coopération économique et commerciale bilatérale;
+reconnaissant qu’un accord de libre-échange produit des bénéfices mutuels et améliore la coopération économique et commerciale bilatérale,
 
-gardant à l’esprit que le développement économique, le développement social et la protection de l’environnement sont des éléments interdépendants du développement durable qui se renforcent mutuellement et que le rapprochement des relations économiques peut jouer un rôle important dans la promotion du développement durable;
+gardant à l’esprit que le développement économique, le développement social et la protection de l’environnement sont des éléments interdépendants du développement durable qui se renforcent mutuellement et que le rapprochement des relations économiques peut jouer un rôle important dans la promotion du développement durable,
 
-reconnaissant que le présent Accord devrait être mis en œuvre en vue de promouvoir le bien-être de la population des Parties, y compris l’amélioration du niveau de vie, de créer des emplois et de promouvoir le développement durable dans le respect des principes de protection et de sauvegarde de l’environnement;
+reconnaissant que le présent Accord devrait être mis en œuvre en vue de promouvoir le bien-être de la population des Parties, y compris l’amélioration du niveau de vie, de créer des emplois et de promouvoir le développement durable dans le respect des principes de protection et de sauvegarde de l’environnement,
 
-rappelant les progrès enregistrés en termes de relations bilatérales à la suite de l’instauration de relations diplomatiques et, en particulier, après la signature en 2007 du Mémorandum d’entente entre le gouvernement de la République populaire de Chine et le Conseil fédéral suisse concernant la promotion du dialogue et de la coopération, et s’engageant à approfondir et à développer le dialogue et la coopération dans ces domaines;
+rappelant les progrès enregistrés en termes de relations bilatérales à la suite de l’instauration de relations diplomatiques et, en particulier, après la signature en 2007 du Mémorandum d’entente entre le gouvernement de la République populaire de Chine et le Conseil fédéral suisse concernant la promotion du dialogue et de la coopération, et s’engageant à approfondir et à développer le dialogue et la coopération dans ces domaines,
 
-déterminées à promouvoir la prospérité, la démocratie, l’harmonie et le progrès social et à garantir la liberté, l’égalité, la justice et l’Etat de droit, réaffirmant leur engagement à respecter la Charte des Nations Unies et les normes fondamentales des relations internationales;
+déterminées à promouvoir la prospérité, la démocratie, l’harmonie et le progrès social et à garantir la liberté, l’égalité, la justice et l’État de droit, réaffirmant leur engagement à respecter la Charte des Nations Unies et les normes fondamentales des relations internationales,
 
-déterminées à garantir l’esprit de réciprocité et à promouvoir les relations commerciales mutuellement bénéfiques en mettant en place un régime commercial préférentiel bilatéral efficace et mutuellement avantageux;
+déterminées à garantir l’esprit de réciprocité et à promouvoir les relations commerciales mutuellement bénéfiques en mettant en place un régime commercial préférentiel bilatéral efficace et mutuellement avantageux,
 
-reconnaissant l’importance que revêtent la bonne gouvernance d’entreprise et la responsabilité sociale des entreprises en vue du développement durable, et affirmant leur volonté d’encourager les entreprises à respecter les normes et les principes internationalement reconnus à cet égard;
+reconnaissant l’importance que revêtent la bonne gouvernance d’entreprise et la responsabilité sociale des entreprises en vue du développement durable, et affirmant leur volonté d’encourager les entreprises à respecter les normes et les principes internationalement reconnus à cet égard,
 
-convaincues que le présent Accord renforcera les principes d’économie de marché et favorisera la compétitivité des entreprises des Parties sur les marchés mondiaux;
+convaincues que le présent Accord renforcera les principes d’économie de marché et favorisera la compétitivité des entreprises des Parties sur les marchés mondiaux,
 
-partageant la conviction de l’importance du système commercial multilatéral tel que concrétisé dans l’Accord de Marrakech instituant l’Organisation mondiale du commerce[^ingress-1] (ci-après dénommé «Accord sur l’OMC») et déterminées à le promouvoir et à le renforcer;
+partageant la conviction de l’importance du système commercial multilatéral tel que concrétisé dans l’Accord de Marrakech instituant l’Organisation mondiale du commerce[^ingress-1] (ci-après dénommé «Accord sur l’OMC») et déterminées à le promouvoir et à le renforcer,
 
 se fondant sur leurs droits et obligations respectifs au titre de l’Accord sur l’OMC et d’autres accords multilatéraux, régionaux et bilatéraux,
 
 sont convenues, dans l’intention de poursuivre les objectifs mentionnés ci-dessus, de conclure l’accord suivant (ci-après dénommé le «présent Accord»):
 
-[^ingress-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 ## Chapitre 1 Dispositions générales
 
@@ -86,8 +86,8 @@ Les objectifs du présent Accord, lequel se fonde sur des relations commerciales
 
 <sup>3.</sup> Les Parties interprètent et appliquent les dispositions du présent Accord à la lumière des objectifs présentés à l’al. 2 et dans le respect des règles d’interprétation usuelles du droit international public.
 
-[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.1
-[^11-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1B
+[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.1
+[^11-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1B
 
 #### Art. 1.2
 
@@ -95,7 +95,7 @@ Les objectifs du présent Accord, lequel se fonde sur des relations commerciales
 
 Sauf indication contraire, le présent Accord s’applique:
 
-- (a) pour la Chine, à la totalité du territoire douanier de la République populaire de Chine, y compris les espaces terrestres, maritimes et aériens, la zone économique exclusive et le plateau continental sur lesquels elle exerce des droits souverains et sa juridiction conformément au droit international et à son droit national; et
+- (a) pour la Chine, à la totalité du territoire douanier de la République populaire de Chine, y compris les espaces terrestres, maritimes et aériens, la zone économique exclusive et le plateau continental sur lesquels elle exerce des droits souverains et sa juridiction conformément au droit international et à son droit national, et
 - (b) pour la Suisse, le territoire de la Suisse, y compris ses espaces terrestres, ses eaux intérieures et son espace aérien, conformément au droit international et à son droit domestique.
 
 #### Art. 1.3
@@ -124,7 +124,7 @@ Chaque Partie garantit que les obligations et les engagements prévus par le pr�
 
 <sup>4.</sup> En cas d’incohérence entre les dispositions du présent article et les dispositions relatives à la transparence dans d’autres chapitres, ces dernières priment s’agissant de l’incohérence.
 
-<sup>5.</sup> Les points de contact établis à l’art. 14.2 facilitent la communication entre les Parties sur les sujets visés par le présent article. A la demande de l’autre Partie, le point de contact identifie le service ou la personne responsable de la question et se tient à disposition pour faciliter la communication entre les Parties, le cas échéant.
+<sup>5.</sup> Les points de contact établis à l’art. 14.2 facilitent la communication entre les Parties sur les sujets visés par le présent article. À la demande de l’autre Partie, le point de contact identifie le service ou la personne responsable de la question et se tient à disposition pour faciliter la communication entre les Parties, le cas échéant.
 
 [^15-1]: Aux fins du présent Ac., «jours» signifie jours calendaires.
 
@@ -144,13 +144,13 @@ Aucune disposition du présent Accord ne contraint les Parties à révéler des 
 
 <sup>2.</sup> Les termes de «marchandises» et «produits» ont la même signification, à moins que le contexte ne requière une distinction.
 
-[^21-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^21-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 2.2
 
 **Traitement national en matière d’impositions et de réglementation intérieures**
 
-Chaque Partie accorde le traitement national aux produits du territoire douanier de l’autre Partie conformément à l’art. III du GATT de 1994. A cette fin, l’art. III du GATT de 1994 et ses notes explicatives s’appliquent et sont incorporés mutatis mutandis au présent Accord et en font partie intégrante.
+Chaque Partie accorde le traitement national aux produits du territoire douanier de l’autre Partie conformément à l’art. III du GATT de 1994. À cette fin, l’art. III du GATT de 1994 et ses notes explicatives s’appliquent et sont incorporés mutatis mutandis au présent Accord et en font partie intégrante.
 
 #### Art. 2.3
 
@@ -161,15 +161,15 @@ Chaque Partie accorde le traitement national aux produits du territoire douanier
 Les droits de douane à l’importation comprennent les droits ou taxes, de quelque nature que ce soit, se rapportant à l’importation d’un produit, mais n’incluent pas:
 
 - (a) les impositions équivalentes à une taxe intérieure appliquées dans le respect de l’art. III, par. 2, du GATT de 1994;
-- (b) les droits antidumping ou les droits compensateurs appliqués dans le respect de l’art. VI du GATT de 1994, de l’Accord de l’OMC sur la mise en œuvre de l’art. VI du GATT de 1994[^23-1], ou de l’Accord de l’OMC sur les subventions et les mesures compensatoires[^23-2]; et
+- (b) les droits antidumping ou les droits compensateurs appliqués dans le respect de l’art. VI du GATT de 1994, de l’Accord de l’OMC sur la mise en œuvre de l’art. VI du GATT de 1994[^23-1], ou de l’Accord de l’OMC sur les subventions et les mesures compensatoires[^23-2], et
 - (c) les redevances et autres impositions se rapportant à l’importation correspondant au coût des services rendus, appliquées dans le respect des dispositions de l’art. VIII du GATT de 1994.
 
 <sup>2.</sup> Sauf disposition contraire du présent Accord, chaque Partie élimine ou réduit, dès l’entrée en vigueur du présent Accord, ses droits de douane imposés en rapport avec l’importation de produits originaires de l’autre Partie, conformément aux termes et conditions prévus dans sa liste d’engagements à l’Annexe I.
 
 <sup>3.</sup> Sauf disposition contraire du présent Accord, aucune Partie n’augmente ses droits de douane ou n’adopte de nouveaux droits de douane frappant un produit originaire de l’autre Partie si cela n’est pas en conformité avec les termes et conditions prévus dans sa liste d’engagements à l’Annexe I.
 
-[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.8
-[^23-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.13
+[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.8
+[^23-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.13
 
 #### Art. 2.4
 
@@ -189,11 +189,11 @@ Concernant les restrictions à l’exportation et à l’importation, l’art. X
 
 #### Art. 2.6
 
-**Entreprises commerciales d’Etat**
+**Entreprises commerciales d’État**
 
-S’agissant des entreprises commerciales d’Etat, l’art. XVII du GATT de 1994 et le Mémorandum d’accord sur l’interprétation de l’art. XVII du GATT de 1994[^26-1] s’appliquent; ils sont incorporés *mutatis mutandis* au présent Accord et en font partie intégrante.
+S’agissant des entreprises commerciales d’État, l’art. XVII du GATT de 1994 et le Mémorandum d’accord sur l’interprétation de l’art. XVII du GATT de 1994[^26-1] s’appliquent; ils sont incorporés *mutatis mutandis* au présent Accord et en font partie intégrante.
 
-[^26-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1.b
+[^26-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1B
 
 #### Art. 2.7
 
@@ -225,11 +225,11 @@ Aux fins du présent chapitre:
 - (f) «valeur en douane» s’entend de la valeur déterminée conformément à l’Accord sur la mise en œuvre de l’art. VII de l’Accord général sur les tarifs douaniers et le commerce de 1994[^31-1] (Accord de l’OMC sur l’évaluation en douane);
 - (g) «prix départ usine» s’entend du prix du produit, au départ de l’usine, payé au producteur établi dans une Partie et pour le compte duquel est effectuée la dernière ouvraison ou transformation, sous réserve que le prix inclue la valeur de toutes les matières utilisées, les salaires et les autres coûts, ainsi que le bénéfice, après déduction des taxes intérieures remboursées ou restituées lorsque le produit obtenu est exporté;
 - (h) «Système harmonisé» et «SH» s’entend du Système harmonisé de désignation et de codification des marchandises[^31-2];
-- (i) «chapitre», «position» et «sous-position» s’entendent d’un chapitre (codes à deux chiffres), d’une position (codes à quatre chiffres) ou d’une sous-position (codes à six chiffres) du Système harmonisé; et
+- (i) «chapitre», «position» et «sous-position» s’entendent d’un chapitre (codes à deux chiffres), d’une position (codes à quatre chiffres) ou d’une sous-position (codes à six chiffres) du Système harmonisé, et
 - (j) «service habilité» s’entend d’une entité désignée par la législation nationale d’une Partie ou par l’autorité gouvernementale d’une Partie pour délivrer un certificat d’origine.
 
-[^31-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.9
-[^31-2]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^31-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.9
+[^31-2]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 3.2
 
@@ -238,7 +238,7 @@ Aux fins du présent chapitre:
 Aux fins du présent Accord et sauf disposition contraire du présent chapitre, un produit est réputé originaire d’une Partie lorsque:
 
 - (a) il a été entièrement obtenu dans une Partie, conformément à l’art. 3.3;
-- (b) les matières non originaires utilisées dans l’ouvraison ou la transformation de ce produit ont subi une modification substantielle dans une Partie[^32-1], conformément à l’art. 3.4, et sont conformes aux autres dispositions applicables du présent chapitre; ou
+- (b) les matières non originaires utilisées dans l’ouvraison ou la transformation de ce produit ont subi une modification substantielle dans une Partie[^32-1], conformément à l’art. 3.4, et sont conformes aux autres dispositions applicables du présent chapitre, ou
 - (c) il a été produit dans une Partie uniquement à partir de matières originaires de l’une ou des deux Parties.
 
 [^32-1]: L’ouvraison ou la transformation du produit peut avoir lieu dans différentes usines au sein d’une Partie.
@@ -258,7 +258,7 @@ Aux fins de l’art. 3.2, let. (a), les produits suivants sont considérés comm
 - (g) les produits transformés ou fabriqués à bord d’un navire-usine enregistré dans une Partie et battant pavillon de cette Partie, exclusivement à partir des produits visés aux let. (e) et (f);
 - (h) les produits extraits du fond marin ou de son sous-sol, en dehors des eaux territoriales d’une Partie, à condition que cette dernière ait des droits d’exploitation de ce fond marin ou sous-sol en vertu de la législation nationale et conformément au droit international;
 - (i) les déchets et résidus provenant d’opérations de fabrication qui y sont effectuées et qui ne peuvent être utilisés que pour la récupération des matières premières;
-- (j) les produits usagés qui y sont collectés et qui ne peuvent être utilisés que pour la récupération des matières premières; et
+- (j) les produits usagés qui y sont collectés et qui ne peuvent être utilisés que pour la récupération des matières premières, et
 - (k) les produits qui y sont obtenus ou produits exclusivement à partir des produits visés aux let. (a) à (j).
 
 #### Art. 3.4
@@ -271,7 +271,7 @@ Aux fins de l’art. 3.2, let. (a), les produits suivants sont considérés comm
 
 <sup>3.</sup> Lorsque l’Annexe II se réfère à un pourcentage de la valeur des matières non originaires (VMN), il s’agit du pourcentage maximal de VMN autorisé par rapport au prix départ usine d’un produit. Le pourcentage se calcule selon la formule:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/332/20140701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/332/20210901/fr/xml/image/image1.png)
 
 <sup>4.</sup> La VMN est déterminée sur la base de la valeur en douane au moment de l’importation des matières non originaires, y compris les matières d’origine indéterminée. Lorsque cette valeur n’est pas connue et ne peut pas être établie, le premier prix vérifiable payé ou à payer pour les matières dans une Partie est déterminant.
 
@@ -331,7 +331,7 @@ Nonobstant l’art. 3.4, un produit n’est pas réputé originaire s’il a uni
 <sup>2.</sup> Conformément à l’al. 1,
 
 - (a) lorsqu’un assemblage d’articles est classé sous une seule position ou sous-position conformément à la règle générale 3 du Système harmonisé, l’ensemble constitue l’unité à prendre en considération;
-- (b) lorsqu’un envoi est composé d’un certain nombre de produits identiques classés sous une seule position ou sous-position du Système harmonisé, chaque produit est considéré séparément pour déterminer s’il peut être qualifié de produit originaire d’une Partie; et
+- (b) lorsqu’un envoi est composé d’un certain nombre de produits identiques classés sous une seule position ou sous-position du Système harmonisé, chaque produit est considéré séparément pour déterminer s’il peut être qualifié de produit originaire d’une Partie, et
 - (c) les emballages font partie du produit si, en vertu de la règle générale 5 du Système harmonisé, ils sont inclus et classés avec ce produit. Les emballages pour la vente au détail sont considérés comme des matières du produit lors du calcul de la valeur des matières non originaires utilisées pour sa production.
 
 <sup>3.</sup> Les matériaux d’emballages et conteneurs de transport utilisés pour protéger un produit pendant le transport ne sont pas pris en compte pour la détermination de l’origine du produit.
@@ -344,14 +344,14 @@ Nonobstant l’art. 3.4, un produit n’est pas réputé originaire s’il a uni
 
 Les accessoires, pièces de rechange et outillages ainsi que le matériel de formation et d’information fournis et classés avec le produit sont réputés faire partie intégrante du produit en question, à condition:
 
-- (a) qu’ils soient facturés ensemble; et
+- (a) qu’ils soient facturés ensemble, et
 - (b) que leurs quantités soient considérées comme normales pour le produit en question.
 
 <sup>2.</sup> Les accessoires, pièces de rechange, outillages ainsi que le matériel de formation et d’information sont considérés comme des matières du produit lors du calcul de la valeur des matières non originaires utilisées pour sa production.
 
 #### Art. 3.10
 
-**Eléments neutres**
+**Éléments neutres**
 
 Lorsque l’on détermine si un produit est un produit originaire, l’origine des éléments neutres utilisés pour la production, les essais ou les inspections du produit, mais qui n’entrent pas physiquement dans la composition finale des produits eux-mêmes, n’est pas prise en considération. La liste des éléments neutres suivante n’est pas exhaustive:
 
@@ -359,7 +359,7 @@ Lorsque l’on détermine si un produit est un produit originaire, l’origine d
 - (b) équipements, appareils et fournitures utilisés pour les tests ou l’inspection des produits;
 - (c) gants, lunettes, chaussures, vêtements, équipements et fournitures de sécurité;
 - (d) outils, matrices et moules;
-- (e) pièces de rechange et matériaux utilisés pour l’entretien des équipements et des bâtiments; et
+- (e) pièces de rechange et matériaux utilisés pour l’entretien des équipements et des bâtiments, et
 - (f) lubrifiants, graisses, composants et autres matières utilisés dans la production ou pour le fonctionnement des équipements et des bâtiments.
 
 #### Art. 3.11
@@ -390,12 +390,14 @@ Les conditions régissant l’acquisition du caractère originaire visées aux a
 
 Nonobstant l’al. 1, les produits originaires qui sont transportés à travers le territoire de pays tiers sont réputés être transportés directement d’une Partie à l’autre à condition:
 
-- (a) qu’ils ne subissent pas d’autres opérations que le déchargement, le rechargement ou toute opération destinée à assurer leur conservation en l’état; et
+- (a) qu’ils ne subissent pas d’autres opérations que le déchargement, le rechargement ou toute opération destinée à assurer leur conservation en l’état, et
 - (b) qu’ils restent sous surveillance douanière dans ces pays tiers.
 
 <sup>3.</sup> Aux fins de l’al. 1, un produit originaire peut être transporté par pipeline en empruntant le territoire de pays tiers.
 
-<sup>4.</sup> Les autorités douanières de la Partie importatrice peuvent exiger que l’importateur des produits visés ci-dessus apporte suffisamment de justificatifs prouvant, à leur satisfaction, que les conditions visées aux al. 2 et 3 sont satisfaites.
+<sup>4.</sup> Les autorités douanières de la Partie importatrice peuvent exiger que l’importateur des produits visés ci-dessus apporte suffisamment de justificatifs prouvant, à leur satisfaction, que les conditions visées à l’al. 2 sont satisfaites.[^313-1]
+
+[^313-1]: Nouvelle teneur selon la D du comité mixte Suisse-Chine du 14 sept. 2016, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 471](https://fedlex.data.admin.ch/eli/oc/2021/471)).
 
 ### Section II Procédures de mise en œuvre
 
@@ -405,7 +407,7 @@ Nonobstant l’al. 1, les produits originaires qui sont transportés à travers 
 
 Pour bénéficier du traitement tarifaire préférentiel au titre du présent Accord, l’une des preuves d’origine mentionnées ci-dessous doit être présentée aux autorités douanières de la Partie importatrice:
 
-- (a) un certificat d’origine, conformément à l’art. 3.15; ou
+- (a) un certificat d’origine, conformément à l’art. 3.15, ou
 - (b) une déclaration d’origine par un exportateur agréé, conformément à l’art. 3.16.
 
 #### Art. 3.15
@@ -466,7 +468,7 @@ Pour bénéficier du traitement tarifaire préférentiel au titre du présent Ac
 
 En vue du traitement tarifaire préférentiel conformément au présent chapitre, une Partie peut ne pas exiger la présentation d’une preuve d’origine et octroyer le traitement tarifaire préférentiel pour:
 
-- (a) tout envoi de produits originaires dont la valeur ne dépasse pas 600 USD ou le montant équivalent dans la monnaie de la Partie; ou
+- (a) tout envoi de produits originaires dont la valeur ne dépasse pas 600 USD ou le montant équivalent dans la monnaie de la Partie, ou
 - (b) d’autres produits originaires désignés par sa législation nationale.
 
 <sup>2.</sup> Les exemptions prévues à l’al. 1 ne s’appliquent pas si les autorités douanières de la Partie importatrice établissent que l’envoi fait partie d’une série d’importations dont il est légitime de considérer qu’elles ont été entreprises ou organisées en vue d’éviter d’avoir à présenter des preuves d’origine formelles.
@@ -498,7 +500,7 @@ Sauf disposition contraire du présent chapitre, la Partie importatrice peut ref
 - (a) la preuve d’origine ne répond pas aux exigences du présent chapitre;
 - (b) le respect de l’art. 3.13 n’est pas prouvé;
 - (c) il est prouvé sur la base des résultats du contrôle de l’origine dans la Partie exportatrice que la preuve d’origine n’est pas authentique ou qu’elle est inexacte;
-- (d) il s’agit d’un cas visé à l’art. 3.20, al. 7; ou
+- (d) il s’agit d’un cas visé à l’art. 3.20, al. 7, ou
 - (e) les produits ne répondent pas aux exigences du présent chapitre.
 
 #### Art. 3.22
@@ -509,7 +511,7 @@ Avant l’entrée en vigueur du présent Accord, les Parties s’échangent les 
 
 - (a) aux fins de l’art. 3.15, les noms et adresses des services habilités à délivrer les certificats d’origine, ainsi que des impressions des modèles des timbres officiels utilisés par ces services. Tout changement de nom, d’adresse ou de timbre officiel est communiqué dans les meilleurs délais à l’administration douanière de la Partie importatrice;
 - (b) aux fins de l’art. 3.16, les noms, numéros d’enregistrement et coordonnées des exportateurs agréés. Tout changement apporté aux informations ci‑dessus est communiqué dans les meilleurs délais à l’autre Partie;
-- (c) les adresses des autorités gouvernementales compétentes responsables des contrôles visés à l’art. 3.20 et des autres questions liées à la mise en œuvre ou à l’application du présent chapitre; et
+- (c) les adresses des autorités gouvernementales compétentes responsables des contrôles visés à l’art. 3.20 et des autres questions liées à la mise en œuvre ou à l’application du présent chapitre, et
 - (d) les informations relatives à l’interprétation, l’application et la gestion du présent chapitre.
 
 #### Art. 3.23
@@ -531,7 +533,7 @@ Le Sous-comité traite des questions suivantes:
 - (a) le suivi et le réexamen des mesures prises et la mise en œuvre des engagements;
 - (b) l’échange d’informations et l’examen des évolutions;
 - (c) les autres questions convenues par les Parties;
-- (d) les autres questions qui lui sont transférées par le Comité mixte; et
+- (d) les autres questions qui lui sont transférées par le Comité mixte, et
 - (e) l’établissement de recommandations ou de rapports à l’intention du Comité mixte, lorsque cela s’impose.
 
 <sup>3.</sup> Le Sous-comité est coprésidé par des représentants des administrations douanières des Parties. La Partie hôte assume la présidence. Le président prépare un ordre du jour provisoire pour chaque séance du Sous-comité en consultation avec l’autre Partie et le transmet à l’autre Partie avant la séance.
@@ -569,7 +571,7 @@ Aux fins du présent chapitre:
 
 - (b) «législation douanière» s’entend des dispositions statutaires et réglementaires d’une Partie relatives à l’importation, à l’exportation et au déplacement ou à l’entreposage de marchandises dont l’administration et l’application incombent spécifiquement aux douanes, et de tout règlement édicté par les douanes en vertu de leurs pouvoirs statutaires;
 - (c) «procédures douanières» s’entend du traitement appliqué par l’administration douanière d’une Partie aux marchandises et aux moyens de transport soumis à la législation douanière de cette Partie;
-- (d) «Accord sur l’évaluation en douane» s’entend de l’Accord sur la mise en œuvre de l’art. VII de l’Accord général sur les tarifs douaniers et le commerce de 1994, qui fait partie de l’Accord OMC; et
+- (d) «Accord sur l’évaluation en douane» s’entend de l’Accord sur la mise en œuvre de l’art. VII de l’Accord général sur les tarifs douaniers et le commerce de 1994, qui fait partie de l’Accord OMC, et
 - (e) «moyens de transport» s’entend des navires, véhicules, avions, matériels ferroviaires roulants et animaux de bât entrant sur le territoire ou le quittant chargés de personnes et/ou de marchandises.
 
 #### Art. 4.3
@@ -585,7 +587,7 @@ Les Parties, désireuses de veiller aux intérêts de leurs milieux d’affaires
 - (e) des exigences élevées en matière de service public;
 - (f) des contrôles gouvernementaux fondés sur la gestion des risques;
 - (g) la coopération, au sein de chaque Partie, entre les autorités douanières et les autres autorités présentes aux frontières;
-- (h) les consultations entres les Parties et leurs milieux d’affaires respectifs; et
+- (h) les consultations entres les Parties et leurs milieux d’affaires respectifs, et
 - (i) la garantie de la sécurité des échanges.
 
 #### Art. 4.4
@@ -622,7 +624,7 @@ Une Partie rend par écrit, dans un délai raisonnable et déterminé, une déci
 
 - (a) le classement tarifaire d’un produit;
 - (b) la méthode de la valeur transactionnelle utilisée pour le calcul de la valeur en douane dans des conditions données;
-- (c) les règles d’origine que la Partie accorde à un produit; et
+- (c) les règles d’origine que la Partie accorde à un produit, et
 - (d) les éventuels autres points convenus par les Parties.
 
 <sup>2.</sup> Une Partie refusant de rendre une décision anticipée en informe le requérant par écrit et dans les meilleurs délais, en précisant les motifs de son refus.
@@ -653,12 +655,12 @@ Une Partie rend par écrit, dans un délai raisonnable et déterminé, une déci
 Chaque Partie adopte ou maintient des procédures qui:
 
 - (a) permettent le dépôt et le traitement d’une demande électronique avant l’arrivée physique des marchandises, afin d’en accélérer le dédouanement;
-- (b) le cas échéant, permettent aux importateurs d’obtenir la libération de marchandises avant de satisfaire à toutes les exigences d’importation de cette Partie si l’importateur fournit des garanties suffisantes et lorsqu’il est décidé que ni examen supplémentaire, ni inspection physique, ni autre présentation ne sont nécessaires; et
+- (b) le cas échéant, permettent aux importateurs d’obtenir la libération de marchandises avant de satisfaire à toutes les exigences d’importation de cette Partie si l’importateur fournit des garanties suffisantes et lorsqu’il est décidé que ni examen supplémentaire, ni inspection physique, ni autre présentation ne sont nécessaires, et
 - (c) permettent de restituer la garantie dans les meilleurs délais lorsqu’elle n’est plus requise.
 
 #### Art. 4.8
 
-**Evaluation en douane**
+**Évaluation en douane**
 
 Les Parties appliquent aux marchandises échangées entre elles l’art. VII du GATT de 1994 et l’Accord sur l’évaluation en douane.[^48-1]
 
@@ -708,7 +710,7 @@ Les Parties appliquent aux marchandises échangées entre elles la Convention in
 
 Une Partie appliquant un système d’opérateurs économiques agréés ou des mesures de sécurité affectant les échanges commerciaux internationaux:
 
-- (a) accorde à l’autre Partie la possibilité de négocier la reconnaissance mutuelle des mesures d’autorisation et de sécurité, afin de faciliter le commerce international tout en garantissant des contrôles douaniers efficaces; et
+- (a) accorde à l’autre Partie la possibilité de négocier la reconnaissance mutuelle des mesures d’autorisation et de sécurité, afin de faciliter le commerce international tout en garantissant des contrôles douaniers efficaces, et
 - (b) s’inspire des normes internationales pertinentes, en particulier du Cadre de normes de l’OMD.
 
 #### Art. 4.14
@@ -794,7 +796,7 @@ Le Sous-comité traite des questions suivantes:
 - (g) les questions liées au classement tarifaire et à l’évaluation en douane;
 - (h) les autres questions relatives aux pratiques et aux procédures adoptées par les Parties qui risquent d’avoir un impact sur la rapidité du dédouanement des marchandises;
 - (i) les autres sujets convenus par les Parties;
-- (j) les autres sujets qui lui sont transférés par le Comité mixte; et
+- (j) les autres sujets qui lui sont transférés par le Comité mixte, et
 - (k) l’établissement de recommandations ou de rapports à l’intention du Comité mixte, lorsque cela s’impose.
 
 <sup>3.</sup> Le Sous-comité est présidé par des représentants des administrations douanières des Parties. Les Parties peuvent, avec accord mutuel et au cas par cas, inviter des représentants de l’industrie, d’associations économiques ou d’autres organisations concernées à participer à certains points de l’ordre du jour des réunions du Sous-comité.
@@ -843,7 +845,7 @@ Le présent chapitre s’applique aux échanges de marchandises entre le territo
 
 Si les conditions visées à l’al. 1 sont réunies, une Partie peut, dans les limites des proportions minimales requises pour prévenir le dommage ou la menace de dommage ou y remédier, et en vue de faciliter le réajustement:
 
-- (a) suspendre la réduction supplémentaire d’un taux de droit de douane prévu pour le produit par le présent Accord; ou
+- (a) suspendre la réduction supplémentaire d’un taux de droit de douane prévu pour le produit par le présent Accord, ou
 - (b)
 
   relever le taux de droit de douane du produit à un niveau n’excédant pas la plus faible valeur entre:
@@ -855,10 +857,10 @@ Si les conditions visées à l’al. 1 sont réunies, une Partie peut, dans les 
 
 Aucune Partie n’applique simultanément pour le même produit:
 
-- (a) une mesure de sauvegarde bilatérale; et
+- (a) une mesure de sauvegarde bilatérale, et
 - (b) une mesure au titre de l’art. XIX du GATT 1994 et de l’Accord de l’OMC sur les sauvegardes[^54-1].
 
-[^54-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.14
+[^54-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.14
 
 #### Art. 5.5
 
@@ -870,15 +872,15 @@ Aucune Partie n’applique simultanément pour le même produit:
 
 <sup>3.</sup> Une Partie ne peut appliquer une seconde fois à un même produit une mesure de sauvegarde bilatérale d’une durée équivalente à celle de sa première application que si la mesure en question n’a plus été appliquée pendant au minimum deux ans. Toutefois, aucune mesure de sauvegarde bilatérale ne peut être appliquée au même produit plus de deux fois.
 
-<sup>4.</sup> A l’expiration de la mesure de sauvegarde bilatérale, le taux du droit de douane est le taux qui aurait été appliqué en l’absence de la mesure.
+<sup>4.</sup> À l’expiration de la mesure de sauvegarde bilatérale, le taux du droit de douane est le taux qui aurait été appliqué en l’absence de la mesure.
 
 #### Art. 5.6
 
 **Procédures d’enquête et exigences en matière de transparence**
 
-<sup>1.</sup> La Partie importatrice ne peut appliquer une mesure de sauvegarde bilatérale qu’à l’issue d’une enquête menée par ses autorités compétentes conformément à l’art. 3 de l’Accord de l’OMC sur les sauvegardes. A ces fins, l’art. 3 de l’Accord de l’OMC sur les sauvegardes est incorporé *mutatis mutandis* au présent Accord et en fait partie intégrante.
+<sup>1.</sup> La Partie importatrice ne peut appliquer une mesure de sauvegarde bilatérale qu’à l’issue d’une enquête menée par ses autorités compétentes conformément à l’art. 3 de l’Accord de l’OMC sur les sauvegardes. À ces fins, l’art. 3 de l’Accord de l’OMC sur les sauvegardes est incorporé *mutatis mutandis* au présent Accord et en fait partie intégrante.
 
-<sup>2.</sup> Pour déterminer si l’augmentation des importations d’un produit originaire de l’autre Partie a causé ou menace de causer un dommage grave à une branche de production nationale, l’autorité compétente de la Partie importatrice applique les règles stipulées à l’art. 4 de l’Accord de l’OMC sur les sauvegardes. A ces fins, l’art. 4 de l’Accord de l’OMC sur les sauvegardes est incorporé *mut**a**tis mutandis* au présent Accord et en fait partie intégrante.
+<sup>2.</sup> Pour déterminer si l’augmentation des importations d’un produit originaire de l’autre Partie a causé ou menace de causer un dommage grave à une branche de production nationale, l’autorité compétente de la Partie importatrice applique les règles stipulées à l’art. 4 de l’Accord de l’OMC sur les sauvegardes. À ces fins, l’art. 4 de l’Accord de l’OMC sur les sauvegardes est incorporé *mutatis mutandis* au présent Accord et en fait partie intégrante.
 
 #### Art. 5.7
 
@@ -897,7 +899,7 @@ Aucune Partie n’applique simultanément pour le même produit:
 Une Partie informe dans les meilleurs délais l’autre Partie dans les cas suivants:
 
 - (a) l’ouverture d’une enquête;
-- (b) la découverte d’un dommage grave ou d’une menace de dommage grave dû à l’augmentation des importations; et
+- (b) la découverte d’un dommage grave ou d’une menace de dommage grave dû à l’augmentation des importations, et
 - (c) la décision d’appliquer ou de prolonger une mesure de sauvegarde bilatérale.
 
 <sup>2.</sup> La Partie dont émane la notification des cas visés à l’al. 1, let. b et c, fournit à l’autre Partie toutes les informations pertinentes, notamment la preuve d’un dommage grave ou de la menace d’un tel dommage en raison de l’accroissement des importations, une description précise du produit concerné, la mesure proposée ainsi que la date proposée de son introduction et sa durée probable. En cas de prolongation d’une mesure de sauvegarde bilatérale, elle fournit également la preuve que le maintien de la mesure est nécessaire pour prévenir ou remédier à un dommage grave et que la branche de production nationale a pris des mesures pour s’adapter.
@@ -928,16 +930,16 @@ Les objectifs du présent chapitre sont les suivants:
 
 - (a) faciliter les échanges commerciaux bilatéraux et l’accès aux marchés respectifs pour les produits tombant dans le champ d’application du présent chapitre et compléter l’Accord de l’OMC sur les obstacles techniques au commerce[^61-1] (ci-après dénommé «Accord OTC»);
 - (b) réduire autant que possible les coûts inutiles liés aux échanges commerciaux entre les Parties;
-- (c) faciliter l’échange d’informations et la coopération technique entre les Parties et accroître la compréhension mutuelle de leur système réglementaire respectif; et
+- (c) faciliter l’échange d’informations et la coopération technique entre les Parties et accroître la compréhension mutuelle de leur système réglementaire respectif, et
 - (d) renforcer la coopération entre les Parties dans le domaine des prescriptions techniques, des normes et des procédures d’évaluation de la conformité.
 
-[^61-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117),Annexe 1A.6
+[^61-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235),Annexe 1A.6
 
 #### Art. 6.2
 
 **Affirmation**
 
-Sauf disposition contraire du présent chapitre, l’Accord OTC s’applique entre les Parties pour ce qui est des prescriptions techniques, des normes et des procédures d’évaluation de la conformité; et est incorporé mutatis mutandis au présent Accord et en fait partie intégrante.
+Sauf disposition contraire du présent chapitre, l’Accord OTC s’applique entre les Parties pour ce qui est des prescriptions techniques, des normes et des procédures d’évaluation de la conformité, et est incorporé mutatis mutandis au présent Accord et en fait partie intégrante.
 
 #### Art. 6.3
 
@@ -963,7 +965,7 @@ En vue d’accroître la compréhension mutuelle de leurs systèmes respectifs, 
 - (b) la communication entre leurs autorités compétentes, l’échange d’informations relatives aux prescriptions techniques, aux normes, aux procédures d’évaluation de la conformité et aux bonnes pratiques réglementaires;
 - (c) le renforcement du rôle des normes internationales en tant que base des prescriptions techniques et des procédures d’évaluation de la conformité;
 - (d) l’encouragement de l’accréditation des entités chargées des évaluations de la conformité sur la base des normes et recommandations de l’Organisation internationale de normalisation (ISO) et de la Commission électronique internationale (CEI);
-- (e) l’encouragement de la reconnaissance des résultats d’évaluation de la conformité obtenus par des entités accréditées conformément à la let. d qui ont été reconnus au titre d’un accord ou d’une convention multilatéral(e) adéquat(e); et
+- (e) l’encouragement de la reconnaissance des résultats d’évaluation de la conformité obtenus par des entités accréditées conformément à la let. d qui ont été reconnus au titre d’un accord ou d’une convention multilatéral(e) adéquat(e), et
 - (f) les autres domaines convenus par les Parties.
 
 #### Art. 6.6
@@ -990,7 +992,7 @@ Les fonctions du Sous-comité OTC sont les suivantes:
 - (f) le cas échéant, proposer des accords annexes conformément à l’art. 6.9;
 - (g) coordonner la mise en œuvre des accords annexes conformément à l’art. 6.9;
 - (h) le cas échéant, procéder à des consultations sur toute question avant les réunions des organisations internationales compétentes;
-- (i) exercer les autres fonctions convenues par les Parties; et
+- (i) exercer les autres fonctions convenues par les Parties, et
 - (j) exécuter les autres tâches que le Comité mixte pourrait lui assigner.
 
 <sup>3.</sup> Le Sous-comité OTC, dont la présidence est exercée conjointement se réunit une fois par an à moins que les Parties n’en conviennent autrement. Les réunions du Sous-comité OTC peuvent être conduites selon toute méthode convenue au cas par cas et peuvent être combinées avec celles du Sous-comité des mesures sanitaires et phytosanitaires établi à l’art. 7.9.
@@ -1046,10 +1048,10 @@ Des consultations techniques sous les auspices du Sous-comité OTC sont organis�
 Les objectifs du présent chapitre sont les suivants:
 
 - (a) faciliter les échanges commerciaux bilatéraux et l’accès aux marchés respectifs pour les produits tombant dans le champ d’application du présent chapitre et promouvoir l’Accord de l’OMC sur l’application des mesures sanitaires et phytosanitaires[^71-1] (ci-après dénommé «Accord SPS»);
-- (b) faciliter l’échange d’informations et la coopération technique entre les Parties et accroître la compréhension mutuelle de leur système réglementaire respectif; et
+- (b) faciliter l’échange d’informations et la coopération technique entre les Parties et accroître la compréhension mutuelle de leur système réglementaire respectif, et
 - (c) renforcer la coopération entre les Parties dans le domaine des mesures sanitaires et phytosanitaires.
 
-[^71-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.4
+[^71-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.4
 
 #### Art. 7.2
 
@@ -1125,7 +1127,7 @@ Les fonctions du Sous-comité SPS sont les suivantes:
 - (f) le cas échéant, proposer des accords annexes conformément à l’art. 7.11;
 - (g) coordonner la mise en œuvre des accords annexes conformément à l’art. 7.11;
 - (h) le cas échéant, procéder à des consultations sur toute question avant les réunions des organisations internationales compétentes;
-- (i) exercer les autres fonctions convenues par les Parties; et
+- (i) exercer les autres fonctions convenues par les Parties, et
 - (j) exécuter les autres tâches que le Comité mixte pourrait lui assigner.
 
 <sup>3.</sup> Le Sous-comité SPS, dont la présidence est exercée conjointement, se réunit une fois par an à moins que les Parties n’en conviennent autrement. Les réunions du Sous-comité SPS peuvent être conduites selon toute méthode convenue au cas par cas et peuvent être combinées avec celles du Sous-comité OTC établi à l’art. 6.7.
@@ -1260,7 +1262,7 @@ Aux fins du présent chapitre:
 
   - (i) «est détenue» par des personnes d’une Partie si plus de 50 % de son capital social appartient en pleine propriété à des personnes de cette Partie,
   - (ii) «est contrôlée» par des personnes d’une Partie si ces personnes ont la capacité de nommer une majorité des administrateurs, ou sont autrement habilitées en droit à diriger ses opérations,
-  - (iii) «est affiliée» à une autre personne lorsqu’elle contrôle cette autre personne ou est contrôlée par elle; ou lorsqu’elle-même et l’autre personne sont toutes deux contrôlées par la même personne; et
+  - (iii) «est affiliée» à une autre personne lorsqu’elle contrôle cette autre personne ou est contrôlée par elle, ou lorsqu’elle-même et l’autre personne sont toutes deux contrôlées par la même personne, et
 
 - (r) l’expression «impôts directs» englobe tous les impôts sur le revenu total, sur le capital total ou sur des éléments du revenu ou du capital, y compris les impôts sur les plus-values réalisées sur la cession de biens, les impôts sur les mutations par décès, les successions et les donations, et les impôts sur les montants totaux des salaires ou traitements versés par les entreprises, ainsi que les impôts sur les plus-values en capital.
 
@@ -1276,7 +1278,7 @@ Aux fins du présent chapitre:
 
 <sup>2.</sup> Les traitements accordés en vertu d’autres accords, existants ou futurs, conclus par une Partie et notifiés aux termes de l’art. V ou de l’art. Vbis de l’AGCS ne sont pas soumis à l’al. 1.
 
-<sup>3.</sup> Si une Partie conclut ou amende un accord du type visé à l’al. 2, elle doit, à la demande de l’autre Partie, s’efforcer de lui accorder un traitement non moins favorable que celui accordé en vertu de cet accord. A la demande de l’autre Partie, la première Partie ménagera une possibilité adéquate à l’autre Partie de négocier l’incorporation dans le présent Accord d’un traitement non moins favorable que celui réservé au titre du premier accord.
+<sup>3.</sup> Si une Partie conclut ou amende un accord du type visé à l’al. 2, elle doit, à la demande de l’autre Partie, s’efforcer de lui accorder un traitement non moins favorable que celui accordé en vertu de cet accord. À la demande de l’autre Partie, la première Partie ménagera une possibilité adéquate à l’autre Partie de négocier l’incorporation dans le présent Accord d’un traitement non moins favorable que celui réservé au titre du premier accord.
 
 <sup>4.</sup> Les dispositions du présent chapitre ne seront pas interprétées comme empêchant les Parties de conférer ou d’accorder des avantages à des pays limitrophes pour faciliter les échanges, limités aux zones frontières contiguës, de services qui sont produits et consommés localement.
 
@@ -1294,7 +1296,7 @@ Dans les secteurs où des engagements en matière d’accès aux marchés sont c
 - (b) limitations concernant la valeur totale des transactions ou avoirs en rapport avec les services, sous forme de contingents numériques ou de l’exigence d’un examen des besoins économiques;
 - (c) limitations concernant le nombre total d’opérations de services ou la quantité totale de services produits, exprimées en unités numériques déterminées, sous forme de contingents ou de l’exigence d’un examen des besoins économiques[^84-2];
 - (d) limitations concernant le nombre total de personnes physiques qui peuvent être employées dans un secteur de services particulier, ou qu’un fournisseur de services peut employer et qui sont nécessaires pour la fourniture d’un service spécifique, et s’en occupent directement, sous forme de contingents numériques ou de l’exigence d’un examen des besoins économiques;
-- (e) mesures qui restreignent ou prescrivent des types spécifiques d’entité juridique ou de coentreprise par l’intermédiaire desquels un fournisseur de services peut fournir un service; et
+- (e) mesures qui restreignent ou prescrivent des types spécifiques d’entité juridique ou de coentreprise par l’intermédiaire desquels un fournisseur de services peut fournir un service, et
 - (f) limitations concernant la participation de capital étranger, exprimées sous forme d’une limite maximale en pourcentage de la détention d’actions par des étrangers, ou concernant la valeur totale d’investissements étrangers particuliers ou des investissements étrangers globaux.
 
 [^84-1]: Si une Partie contracte un engagement en matière d’accès aux marchés en relation avec la fourniture d’un service suivant le mode de fourniture visé à l’art. 8.2, let. (a), ch. (i), et si le mouvement transfrontières de capitaux constitue une partie essentielle du service lui-même, cette Partie s’engage par là à permettre ce mouvement de capitaux. Si une Partie contracte un engagement en matière d’accès aux marchés en relation avec la fourniture d’un service suivant le mode de fourniture visé à l’art. 8.2, let. (a), ch. (iii), elle s’engage par là à permettre les transferts de capitaux connexes vers son territoire.
@@ -1366,7 +1368,7 @@ Les Parties peuvent négocier des engagements pour ce qui est des mesures affect
 
 Les dispositions du présent article s’appliquent également, s’agissant des fournisseurs exclusifs de services, aux cas dans lesquels, en droit ou en fait, une Partie:
 
-- (a) autorise ou établit un petit nombre de fournisseurs de services; et
+- (a) autorise ou établit un petit nombre de fournisseurs de services, et
 - (b) empêche substantiellement la concurrence entre ces fournisseurs sur son territoire.
 
 #### Art. 8.11
@@ -1419,7 +1421,7 @@ Sous réserve que ces mesures ne soient pas appliquées de façon à constituer 
 - (e) incompatibles avec l’art. 8.3, à condition que la différence de traitement découle d’un accord visant à éviter la double imposition ou de dispositions visant à éviter la double imposition figurant dans tout autre accord ou arrangement international par lequel la Partie est liée.
 
 [^815-1]: L’exception concernant l’ordre public ne peut être invoquée que dans les cas où une menace véritable et suffisamment grave pèse sur l’un des intérêts fondamentaux de la société.
-[^815-2]: Les mesures qui visent à assurer l’imposition ou le recouvrement équitable ou effectif d’impôts directs comprennent les mesures prises par une Partie en vertu de son régime fiscal qui: (i) s’appliquent aux fournisseurs de services non-résidents en reconnaissance du fait que l’obligation fiscale des non-résidents est déterminée pour ce qui concerne les éléments imposables ayant leur source ou situés sur le territoire de la Partie; (ii) s’appliquent aux non-résidents afin d’assurer l’imposition ou le recouvrement des impôts sur le territoire de la Partie; (iii) s’appliquent aux non-résidents ou aux résidents afin d’empêcher l’évasion ou la fraude fiscales, y compris les mesures d’exécution; (iv) s’appliquent aux consommateurs de services fournis sur le territoire ou en provenance du territoire de l’autre Partie afin d’assurer l’imposition ou le recouvrement des impôts frappant ces consommateurs provenant de sources qui se trouvent sur le territoire de la Partie; (v) distinguent les fournisseurs de services assujettis à l’impôt sur les éléments imposables au niveau mondial des autres fournisseurs de services, en reconnaissance de la différence de nature de la base d’imposition qui existe entre eux; ou (vi) déterminent, attribuent ou répartissent les revenus, les bénéfices, les gains, les pertes, les déductions ou les avoirs des personnes ou succursales résidentes, ou entre personnes liées ou succursales de la même personne, afin de préserver la base d’imposition de la Partie. Les termes ou concepts relatifs à la fiscalité figurant à la let. (d) du présent article et dans la présente note de bas de page sont déterminés conformément aux définitions et concepts relatifs à la fiscalité, ou aux définitions et concepts équivalents ou similaires, contenus dans la législation intérieure de la Partie qui prend la mesure.
+[^815-2]: Les mesures qui visent à assurer l’imposition ou le recouvrement équitable ou effectif d’impôts directs comprennent les mesures prises par une Partie en vertu de son régime fiscal qui: (i) s’appliquent aux fournisseurs de services non-résidents en reconnaissance du fait que l’obligation fiscale des non-résidents est déterminée pour ce qui concerne les éléments imposables ayant leur source ou situés sur le territoire de la Partie; (ii) s’appliquent aux non-résidents afin d’assurer l’imposition ou le recouvrement des impôts sur le territoire de la Partie; (iii) s’appliquent aux non-résidents ou aux résidents afin d’empêcher l’évasion ou la fraude fiscales, y compris les mesures d’exécution; (iv) s’appliquent aux consommateurs de services fournis sur le territoire ou en provenance du territoire de l’autre Partie afin d’assurer l’imposition ou le recouvrement des impôts frappant ces consommateurs provenant de sources qui se trouvent sur le territoire de la Partie; (v) distinguent les fournisseurs de services assujettis à l’impôt sur les éléments imposables au niveau mondial des autres fournisseurs de services, en reconnaissance de la différence de nature de la base d’imposition qui existe entre eux, ou (vi) déterminent, attribuent ou répartissent les revenus, les bénéfices, les gains, les pertes, les déductions ou les avoirs des personnes ou succursales résidentes, ou entre personnes liées ou succursales de la même personne, afin de préserver la base d’imposition de la Partie. Les termes ou concepts relatifs à la fiscalité figurant à la let. (d) du présent article et dans la présente note de bas de page sont déterminés conformément aux définitions et concepts relatifs à la fiscalité, ou aux définitions et concepts équivalents ou similaires, contenus dans la législation intérieure de la Partie qui prend la mesure.
 
 #### Art. 8.16
 
@@ -1427,14 +1429,14 @@ Sous réserve que ces mesures ne soient pas appliquées de façon à constituer 
 
 Aucune disposition du présent chapitre n’est interprétée:
 
-- (a) comme obligeant l’une ou l’autre Partie à fournir des renseignements dont la divulgation serait, à son avis, contraire aux intérêts essentiels de sa sécurité; ou
+- (a) comme obligeant l’une ou l’autre Partie à fournir des renseignements dont la divulgation serait, à son avis, contraire aux intérêts essentiels de sa sécurité, ou
 - (b)
 
   comme empêchant l’une ou l’autre Partie de prendre toutes mesures qu’elle estime nécessaires à la protection des intérêts essentiels de sa sécurité:
 
   - [tab] (i) se rapportant à la fourniture de services destinés directement ou indirectement à assurer l’approvisionnement des forces armées,
   - [tab] (ii) se rapportant aux matières fissiles et fusionnables ou aux matières qui servent à leur fabrication,
-  - [tab] (iii) appliquées en temps de guerre ou en cas de grave tension internationale; ou
+  - [tab] (iii) appliquées en temps de guerre ou en cas de grave tension internationale, ou
 
 - (c) comme empêchant l’une ou l’autre Partie de prendre des mesures en application de ses engagements au titre de la Charte des Nations Unies, en vue du maintien de la paix et de la sécurité internationales.
 
@@ -1448,7 +1450,7 @@ Chaque Partie indique dans une liste les engagements spécifiques qu’elle cont
 
 - (a) les modalités, limitations et conditions concernant l’accès aux marchés;
 - (b) les conditions et restrictions concernant le traitement national;
-- (c) les engagements relatifs à des engagements additionnels visés à l’art. 8.6; et
+- (c) les engagements relatifs à des engagements additionnels visés à l’art. 8.6, et
 - (d) dans les cas appropriés, le délai pour la mise en œuvre de ces engagements, et la date d’entrée en vigueur de ces engagements.
 
 <sup>2.</sup> Les mesures incompatibles à la fois avec l’art. 8.4 et l’art. 8.5 sont traitées conformément aux dispositions prévues à l’art. XX, par. 2, de l’AGCS.
@@ -1463,12 +1465,12 @@ Chaque Partie indique dans une liste les engagements spécifiques qu’elle cont
 
 Une Partie peut modifier ou retirer un engagement figurant dans sa liste d’engagements spécifiques, à tout moment après une période de trois ans à compter de la date d’entrée en vigueur de cet engagement, pour autant que:
 
-- (a) elle notifie à l’autre Partie son intention de modifier ou de retirer un engagement au plus tard trois mois avant la date envisagée pour la mise en œuvre de la modification ou du retrait; et
+- (a) elle notifie à l’autre Partie son intention de modifier ou de retirer un engagement au plus tard trois mois avant la date envisagée pour la mise en œuvre de la modification ou du retrait, et
 - (b) à la suite de la notification de son intention à l’autre Partie, les Parties se consulteront et s’efforceront de parvenir à un accord sur une compensation adéquate.
 
 <sup>2.</sup> Au cours des négociations sur la compensation, les Parties s’efforceront de maintenir un niveau général d’engagements mutuellement avantageux qui ne soit pas moins favorable pour le commerce que celui prévu dans les listes d’engagements spécifiques avant la tenue des négociations.
 
-<sup>3.</sup> Si un accord visé à l’al. 1, let. (b), n’intervient pas entre la Partie apportant la modification et la Partie affectée dans les trois mois, la Partie affectée peut soumettre la question à arbitrage par un panel arbitral constitué selon les mêmes procédures que celles prévues aux al. 3 à 10 de l’art. 15.4. Ce panel arbitral présentera ses conclusions quant aux voies permettant de garantir que le niveau général d’engagements mutuellement avantageux au sens du présent chapitre est maintenu. Les art. 15.6 et 15.7 s’appliquent *mutatis muta**n**dis* aux procédures de ce panel arbitral.
+<sup>3.</sup> Si un accord visé à l’al. 1, let. (b), n’intervient pas entre la Partie apportant la modification et la Partie affectée dans les trois mois, la Partie affectée peut soumettre la question à arbitrage par un panel arbitral constitué selon les mêmes procédures que celles prévues aux al. 3 à 10 de l’art. 15.4. Ce panel arbitral présentera ses conclusions quant aux voies permettant de garantir que le niveau général d’engagements mutuellement avantageux au sens du présent chapitre est maintenu. Les art. 15.6 et 15.7 s’appliquent *mutatis mutandis* aux procédures de ce panel arbitral.
 
 <sup>4.</sup> La Partie apportant la modification ne peut pas modifier ou retirer son engagement tant qu’elle n’a pas procédé aux ajustements nécessaires en vertu des conclusions de l’arbitrage quant à savoir si les conditions énoncées à l’al. 1, let. (b), sont remplies au titre de l’al. 3. La modification, y compris la compensation, convenue par les Parties ou conforme aux résultats de l’arbitrage sera incorporée à l’Annexe VII dans le respect des procédures énoncées à l’art. 16.3.
 
@@ -1493,7 +1495,7 @@ Les fonctions du Sous-comité sont les suivantes:
 - (c) demander et fournir des renseignements sur les lois et réglementations de chaque Partie en matière de commerce des services;
 - (d) échanger des renseignements sur les possibilités dont disposent les fournisseurs de services de l’une et l’autre des Parties pour accéder à leurs marchés respectifs;
 - (e) examiner les possibilités et les avantages dont disposent les Parties pour améliorer et faciliter l’accès à leurs marchés respectifs pour les fournisseurs de services de l’autre Partie;
-- (f) proposer et examiner des suggestions pour améliorer le fonctionnement du présent chapitre; et
+- (f) proposer et examiner des suggestions pour améliorer le fonctionnement du présent chapitre, et
 - (g) exécuter d’autres tâches que le Comité mixte lui assigne.
 
 <sup>3.</sup> Le Sous-comité considérera l’établissement de groupes de travail, selon les besoins.
@@ -1525,14 +1527,14 @@ Les Parties reconnaissent l’importance de promouvoir les flux d’investisseme
 - (a) l’identification des possibilités d’investissement;
 - (b) l’échange d’informations sur les mesures de promotion de l’investissement à l’étranger;
 - (c) l’échange d’informations sur les règles relatives à l’investissement;
-- (d) l’aide aux investisseurs pour comprendre les règles relatives à l’investissement et le climat d’investissement propres aux Parties; et
+- (d) l’aide aux investisseurs pour comprendre les règles relatives à l’investissement et le climat d’investissement propres aux Parties, et
 - (e) la promotion d’un environnement juridique propice à l’augmentation des flux d’investissements.
 
 #### Art. 9.2
 
 **Clause de réexamen**
 
-<sup>1.</sup> A la demande d’une Partie, l’autre Partie fournit des informations sur les mesures qui ont un impact sur les investissements.
+<sup>1.</sup> À la demande d’une Partie, l’autre Partie fournit des informations sur les mesures qui ont un impact sur les investissements.
 
 <sup>2.</sup> Dans le but de faciliter progressivement les conditions d’investissement, les Parties s’engagent à réexaminer, au plus tard dans les deux ans suivant l’entrée en vigueur du présent Accord, le cadre juridique relatif aux investissements, le climat d’investissement ainsi que le flux des investissements entre leurs territoires.
 
@@ -1576,7 +1578,7 @@ Les Parties reconnaissent l’importance de promouvoir les flux d’investisseme
 
 <sup>6.</sup> Les Parties conviennent de réexaminer les dispositions du présent chapitre relatives à la protection des droits de propriété intellectuelle, à la demande d’une Partie et sous réserve d’un accord au sein du Comité mixte, en vue de maintenir les dispositions à jour avec les développements internationaux en matière de propriété intellectuelle d’une manière équilibrée et d’en assurer le bon fonctionnement en pratique au titre du présent Accord.
 
-[^111-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Annexe 1C
+[^111-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Annexe 1C
 
 #### Art. 11.2
 
@@ -1603,20 +1605,20 @@ Les Parties réaffirment leur engagement de satisfaire aux obligations au titre 
 - (f) l’Arrangement de Nice du 15 juin 1957 concernant la classification internationale des produits et des services aux fins de l’enregistrement des marques[^113-5], révisé par l’Acte de Genève de 1979;
 - (g) le Protocole du 27 juin 1989 relatif à l’arrangement de Madrid concernant l’enregistrement international des marques[^113-6];
 - (h) le Traité de l’OMPI du 20 décembre 1996 sur les interprétations et exécutions et les phonogrammes[^113-7] (ci-après dénommé «WPPT»);
-- (i) le Traité de l’OMPI du 20 décembre 1996 sur le droit d’auteur[^113-8]; et
+- (i) le Traité de l’OMPI du 20 décembre 1996 sur le droit d’auteur[^113-8], et
 - (j) la Convention internationale pour la protection des obtentions végétales de 1978[^113-9] (ci-après dénommée «la Convention UPOV de 1978»).
 
 <sup>2.</sup> Chaque Partie s’applique à ratifier le Traité de Beijing sur les interprétations et exécutions audiovisuelles ou à y adhérer.
 
-[^113-1]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^113-2]: [RS 0.231.15](https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659)
-[^113-3]: [RS 0.232.141.1](https://fedlex.data.admin.ch/eli/cc/1978/900_900_900)
-[^113-4]: [RS 0.232.145.1](https://fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262)
-[^113-5]: [RS 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020)
-[^113-6]: [RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
-[^113-7]: [RS 0.231.171.1](https://fedlex.data.admin.ch/eli/cc/2008/359)
-[^113-8]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
-[^113-9]: [RS 0.232.162](https://fedlex.data.admin.ch/eli/cc/1981/1907_1907_1907)
+[^113-1]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^113-2]: [RS 0.231.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1017)
+[^113-3]: [RS 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
+[^113-4]: [RS 0.232.145.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1099)
+[^113-5]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061)
+[^113-6]: [RS 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
+[^113-7]: [RS 0.231.171.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1020)
+[^113-8]: [RS 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
+[^113-9]: [RS 0.232.162](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1109)
 
 #### Art. 11.4
 
@@ -1649,14 +1651,14 @@ Dans le cadre du dialogue bilatéral relatif aux droits de propriété intellect
 
 Outre la protection prévue par les accords internationaux auxquels les deux Parties sont parties, chaque Partie:
 
-- (a) accorde et garantit *mutatis mutandis* une protection telle que prévue aux art. 5, 6, 7, 8 et 10 WPPT aux artistes interprètes ou exécutants pour leurs interprétations ou exécutions audio-visuelles; et
+- (a) accorde et garantit *mutatis mutandis* une protection telle que prévue aux art. 5, 6, 7, 8 et 10 WPPT aux artistes interprètes ou exécutants pour leurs interprétations ou exécutions audio-visuelles, et
 - (b) accorde et garantit *mutatis mutandis* une protection telle que prévue aux art. 11, 12, 13 et 14 WPPT aux producteurs de vidéogrammes.
 
 <sup>3.</sup>
 
 Une station radio ou une station de télévision a le droit d’interdire les actes suivants entrepris sans son autorisation:
 
-- (a) la rediffusion de ses programmes; et
+- (a) la rediffusion de ses programmes, et
 - (b) l’enregistrement sonore ou vidéo de ses programmes et la reproduction d’un tel enregistrement.
 
 <sup>4.</sup> En matière de protection des artistes interprètes ou exécutants pour leurs interprétations ou exécutions audio-visuelles ou de la protection des producteurs de vidéogrammes et des organismes de radiodiffusion, chaque Partie peut prévoir, dans sa législation nationale, des limitations ou exceptions de même nature que celles qui y sont prévues en ce qui concerne la protection du droit d’auteur sur les œuvres littéraires et artistiques.
@@ -1697,7 +1699,7 @@ Une station radio ou une station de télévision a le droit d’interdire les ac
 
 Pour les Parties, il s’agit d’assurer une protection à un niveau équivalent à celui prévu à l’art. 27, al. 1, de l’Accord sur les ADPIC. En plus des exceptions prévues à l’art. 27, al. 2, de l’Accord sur les ADPIC, les Parties peuvent exclure de la brevetabilité:
 
-- (a) les méthodes de traitement chirurgical ou thérapeutique du corps humain ou animal ou les méthodes de diagnostic appliquées au corps humain ou animal, cette disposition ne s’appliquant pas aux produits, notamment aux substances ou compositions, pour la mise en œuvre d’une de ces méthodes; et
+- (a) les méthodes de traitement chirurgical ou thérapeutique du corps humain ou animal ou les méthodes de diagnostic appliquées au corps humain ou animal, cette disposition ne s’appliquant pas aux produits, notamment aux substances ou compositions, pour la mise en œuvre d’une de ces méthodes, et
 - (b) les variétés végétales ou les races animales ou les procédés essentiellement biologiques d’obtention de végétaux ou d’animaux, cette disposition ne s’appliquant pas aux procédés microbiologiques ou aux produits obtenus par ces procédés.
 
 #### Art. 11.9
@@ -1716,13 +1718,13 @@ Pour les Parties, il s’agit d’assurer une protection à un niveau équivalen
 
 <sup>6.</sup> Lorsqu’il est découvert, après la délivrance du brevet, que le déposant de la demande n’a pas indiqué la source ou qu’il a délibérément fourni de faux renseignements, ou qu’il a enfreint d’autres lois et réglementations pertinentes, les Parties peuvent prévoir des conséquences juridiques adéquates.
 
-[^119-1]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^119-1]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 11.10
 
 **Protection des variétés végétales**
 
-1 Les Parties garantissent aux obtenteurs de variétés végétales nouvelles une protection adéquate et efficace de niveau au moins équivalent à celui prévu par la Convention UPOV de 1978.
+<sup>1.</sup> Les Parties garantissent aux obtenteurs de variétés végétales nouvelles une protection adéquate et efficace de niveau au moins équivalent à celui prévu par la Convention UPOV de 1978.
 
 <sup>2.</sup>
 
@@ -1731,7 +1733,7 @@ L’autorisation de l’obtenteur est requise au minimum concernant le matériel
 - (a) la production ou la reproduction (multiplication) à des fins d’écoulement commercial;
 - (b) le conditionnement aux fins de la reproduction ou de la multiplication commerciale;
 - (c) l’offre à la vente;
-- (d) la vente ou toute autre forme de commercialisation; et
+- (d) la vente ou toute autre forme de commercialisation, et
 - (e) l’importation ou l’exportation.
 
 <sup>3.</sup> L’obtenteur peut subordonner son autorisation à des conditions ou à des limitations.
@@ -1753,9 +1755,9 @@ Exceptions:
 
 <sup>6.</sup>
 
-A la demande d’une Partie, tous les deux ans après l’entrée en vigueur du présent Accord, les Parties:
+À la demande d’une Partie, tous les deux ans après l’entrée en vigueur du présent Accord, les Parties:
 
-- (a) discuteront l’ajout de nouveaux genres ou espèces si la protection est limitée à certains genres et espèces; et,
+- (a) discuteront l’ajout de nouveaux genres ou espèces si la protection est limitée à certains genres et espèces, et,
 - (b) sous réserve de leur accord, amenderont ou étendront l’Annexe IX en conséquence. Par ailleurs, les Parties conviennent d’échanger, après une période de deux ans suivant l’entrée en vigueur du présent Accord, les informations relatives à la protection des variétés essentiellement dérivées prévue par leur système de protection des variétés végétales, en vue d’examiner la possibilité d’un régime de protection plus exhaustif, notamment pour les variétés essentiellement dérivées.
 
 #### Art. 11.11
@@ -1845,7 +1847,7 @@ Les autorités compétentes sont habilitées à exiger du requérant qu’il dé
 Chaque Partie fait en sorte:
 
 - (a) qu’en cas de procédure judiciaire, les autorités judiciaires soient habilitées à ordonner au contrevenant de verser au détenteur du droit des dommages-intérêts adéquats en réparation du dommage effectivement subi du fait de l’atteinte portée au droit de propriété intellectuelle par le contrevenant, qui s’est sciemment livré à une activité portant une telle atteinte ou dont on peut raisonnablement supposer qu’il l’ait su;
-- (b) que pour déterminer le montant des dommages-intérêts en réparation de l’atteinte portée au droit de propriété intellectuelle, ses autorités judiciaires prennent en considération, entre autres, le dommage effectivement subi ou de déterminer un droit de licence équitable; et
+- (b) que pour déterminer le montant des dommages-intérêts en réparation de l’atteinte portée au droit de propriété intellectuelle, ses autorités judiciaires prennent en considération, entre autres, le dommage effectivement subi ou de déterminer un droit de licence équitable, et
 - (c) que les autorités judiciaires compétentes dans un litige sur une atteinte aux droits de propriété intellectuelle sont habilitées à ordonner, à la demande du détenteur du droit, que des mesures adéquates soient prises concernant les marchandises dont elles auront constaté qu’elles portent atteinte à un droit de propriété intellectuelle et, le cas échéant, concernant les principaux matériaux et instruments ayant servi à la création ou à la fabrication de ces marchandises. Ces mesures comprennent le retrait définitif de ces marchandises, matériaux et instruments des circuits commerciaux ou leur destruction. Lors de l’examen d’une demande de mesures correctives, la proportionnalité entre la gravité de l’atteinte et les mesures correctives ordonnées, ainsi que les intérêts des tiers sont à prendre en compte.
 
 #### Art. 11.20
@@ -1856,7 +1858,7 @@ Chaque Partie fait en sorte:
 
 Chaque Partie fait en sorte que ses autorités judiciaires soient habilitées à ordonner l’adoption de mesures provisoires efficaces dans les meilleurs délais:
 
-- (a) pour prévenir une atteinte à un droit de propriété intellectuelle, en particulier, pour empêcher l’introduction de marchandises, y compris des marchandises importées immédiatement après leur dédouanement, dans les circuits commerciaux relevant de leur compétence; et
+- (a) pour prévenir une atteinte à un droit de propriété intellectuelle, en particulier, pour empêcher l’introduction de marchandises, y compris des marchandises importées immédiatement après leur dédouanement, dans les circuits commerciaux relevant de leur compétence, et
 - b) pour sauvegarder les éléments de preuve pertinents relatifs à cette atteinte alléguée.
 
 <sup>2.</sup> Les autorités judiciaires sont habilitées à adopter des mesures provisoires sans que l’autre partie soit entendue dans les cas où cela est approprié, en particulier lorsque tout retard est de nature à causer un préjudice irréparable au détenteur du droit ou lorsqu’il existe un risque démontrable de destruction des éléments de preuve. Lorsqu’elles reçoivent une demande relative à l’adoption d’une mesure provisoire, les autorités judiciaires agissent rapidement et prennent une décision sans retard indu.
@@ -1948,7 +1950,7 @@ Rappelant le besoin, identifié dans le document final de Rio+20, de mobiliser d
 Afin de faciliter la mise en œuvre du présent chapitre et les communications qui s’y rapportent, les Parties désignent les points de contact suivants:
 
 - (a) pour la Chine: le Ministère du commerce (MOFCOM);
-- (b) pour la Suisse: le Secrétariat d’Etat à l’économie (SECO)
+- (b) pour la Suisse: le Secrétariat d’État à l’économie (SECO)
 
 <sup>2.</sup> Par le biais des points de contact visés à l’al. 1, une Partie peut demander des consultations au sein du Comité mixte pour toutes les questions relevant du présent chapitre. Les Parties s’efforcent de parvenir à une résolution mutuellement acceptable de l’affaire.
 
@@ -1972,21 +1974,21 @@ Les Parties réexaminent périodiquement au sein du Comité mixte les progrès r
 
 La coopération au titre du présent chapitre poursuit les objectifs suivants:
 
-- (a) faciliter la mise en œuvre du présent Accord afin d’améliorer le bien-être des populations des Parties; et
+- (a) faciliter la mise en œuvre du présent Accord afin d’améliorer le bien-être des populations des Parties, et
 - (b) créer et développer des possibilités de commerce et d’investissement durables en facilitant les échanges commerciaux et l’investissement entre les Parties et en renforçant la compétitivité et les capacités d’innovation, afin de promouvoir un développement et une croissance économiques durables.
 
 #### Art. 13.2
 
 **Méthodes et moyens**
 
-<sup>1.</sup> Les Parties coopèrent afin d’identifier et d’employer des méthodes et des moyens efficaces pour la mise en œuvre du présent chapitre. A cette fin, elles coordonnent leurs efforts avec les organisations internationales compétentes et développent, le cas échéant, des synergies avec d’autres formes de coopération bilatérale déjà en place entre les Parties.
+<sup>1.</sup> Les Parties coopèrent afin d’identifier et d’employer des méthodes et des moyens efficaces pour la mise en œuvre du présent chapitre. À cette fin, elles coordonnent leurs efforts avec les organisations internationales compétentes et développent, le cas échéant, des synergies avec d’autres formes de coopération bilatérale déjà en place entre les Parties.
 
 <sup>2.</sup>
 
 Pour la mise en œuvre du présent chapitre, les Parties recourent entre autres aux instruments suivants:
 
 - (a) l’échange d’informations et d’expertise, le renforcement des capacités et la formation;
-- (b) l’identification, le développement et la mise en œuvre en commun de projets de coopération, y compris des séminaires, des ateliers, des stages et des bourses; et
+- (b) l’identification, le développement et la mise en œuvre en commun de projets de coopération, y compris des séminaires, des ateliers, des stages et des bourses, et
 - (c) la coopération technique et administrative.
 
 <sup>3.</sup> Les Parties peuvent proposer et mettre en œuvre, le cas échéant, des projets et activités avec la participation d’experts, d’institutions et d’organisations nationaux et internationaux.
@@ -2001,7 +2003,7 @@ La coopération, telle qu’elle est définie dans le Programme de travail visé
 - (b) la coopération industrielle;
 - (c) la coopération dans les secteurs des services;
 - (d) la coopération agricole;
-- (e) le contrôle de la qualité, l’inspection et la quarantaine; et
+- (e) le contrôle de la qualité, l’inspection et la quarantaine, et
 - (f) l’innovation, la protection, l’application, la gestion et l’utilisation des droits de propriété intellectuelle.
 
 #### Art. 13.4
@@ -2016,7 +2018,7 @@ La coopération, telle qu’elle est définie dans le Programme de travail visé
 
 Les Parties désignent les autorités gouvernementales suivantes comme points de contact visant à faciliter la communication entre elles sur toute question relative aux marchés publics:
 
-- (a) pour la Chine: le Ministère des finances; et
+- (a) pour la Chine: le Ministère des finances, et
 - (b) pour la Suisse: le SECO.
 
 <sup>4.</sup> Les Parties conviennent d’engager des négociations sur les marchés publics dès que possible une fois achevées les négociations sur l’adhésion de la Chine à l’Accord de l’OMC sur les marchés publics (AMP), en vue de conclure, sur une base réciproque, un accord sur les marchés publics entre les Parties.
@@ -2043,7 +2045,7 @@ En vue de préciser les méthodes et le contenu de la coopération économique e
 
 **Mise en œuvre et suivi**
 
-<sup>1.</sup> Les points de contact désignés à l’art. 14.2 sont responsables de la gestion et du développement de la coopération au titre du présent chapitre et du Programme de travail. A cet effet, ils coopèrent et coordonnent leurs activités avec d’autres entités nationales et internationales compétentes, selon le cas.
+<sup>1.</sup> Les points de contact désignés à l’art. 14.2 sont responsables de la gestion et du développement de la coopération au titre du présent chapitre et du Programme de travail. À cet effet, ils coopèrent et coordonnent leurs activités avec d’autres entités nationales et internationales compétentes, selon le cas.
 
 <sup>2.</sup> Les points de contact informent le Comité mixte de la mise en œuvre du présent chapitre et du Programme de travail. Ils peuvent, le cas échéant, émettre des recommandations.
 
@@ -2067,7 +2069,7 @@ Le Comité mixte:
 - (b) continue d’examiner la possibilité d’éliminer les obstacles au commerce et d’autres mesures restrictives concernant le commerce entre la Chine et la Suisse;
 - (c) supervise le développement du présent Accord;
 - (d) supervise le travail de tous les sous-comités et groupes de travail institués en vertu du présent Accord;
-- (e) œuvre à résoudre les différends pouvant survenir quant à l’interprétation ou à l’application du présent Accord; et
+- (e) œuvre à résoudre les différends pouvant survenir quant à l’interprétation ou à l’application du présent Accord, et
 - (f) examine toute autre question susceptible d’affecter le fonctionnement du présent Accord.
 
 <sup>3.</sup> Le Comité mixte peut décider de mettre sur pied les sous-comités ou groupes de travail qu’il juge nécessaires pour l’assister dans l’accomplissement de ses tâches. Sauf disposition spécifique du présent Accord, les sous-comités et les groupes de travail agissent sur mandat du Comité mixte.
@@ -2086,7 +2088,7 @@ Le Comité mixte:
 
 Dans le but de faciliter la communication entre les Parties sur toute question relative au présent Accord, les Parties désignent les points de contact suivants:
 
-- (a) pour la Chine: MOFCOM; et
+- (a) pour la Chine: MOFCOM, et
 - (b) pour la Suisse: le SECO.
 
 ## Chapitre 15 Règlement des différends
@@ -2101,7 +2103,7 @@ Dans le but de faciliter la communication entre les Parties sur toute question r
 
 <sup>3.</sup> Aux fins de l’al. 2, une procédure de règlement des différends en vertu de l’Accord sur l’OMC est réputée engagée lorsqu’une Partie demande la constitution d’un panel arbitral tel que prévu à l’art. 6 du Mémorandum d’accord de l’OMC sur les règles et procédures régissant le règlement des différends[^151-1], tandis qu’une procédure de règlement des différends en vertu du présent Accord est réputée engagée lors de la présentation de la demande d’arbitrage conformément à l’al. 1 de l’art. 15.4.
 
-[^151-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 2
+[^151-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 2
 
 #### Art. 15.2
 
@@ -2147,12 +2149,12 @@ Tous les membres du panel arbitral:
 
 - (a) sont des experts ou ont une expérience en droit, en commerce international ou dans la résolution de différends découlant d’accords de commerce internationaux et, si possible, dans la matière en cause;
 - (b) sont choisis exclusivement sur la base de leur objectivité, de leur fiabilité et de la solidité de leur jugement;
-- (c) sont indépendants, n’ont pas de liens avec une Partie ou ne reçoivent pas d’instructions d’une Partie; et
+- (c) sont indépendants, n’ont pas de liens avec une Partie ou ne reçoivent pas d’instructions d’une Partie, et
 - (d) respectent un code de conduite conforme aux règles déterminantes établies dans le document WT/DSB/RC/1 de l’OMC.
 
 <sup>9.</sup> Si un membre nommé en vertu du présent article démissionne ou s’il n’est plus à même d’assumer son rôle, un successeur est nommé dans les quinze jours selon la procédure de sélection prévue pour la nomination du membre initial; le successeur a les mêmes pouvoirs et devoirs que le membre initial. Les travaux du panel arbitral sont suspendus pendant la nomination du successeur.
 
-<sup>10.</sup> A moins que les Parties n’en conviennent autrement dans les 30 jours suivant la date de réception de la demande d’arbitrage visée à l’al. 1, le mandat du panel est le suivant:
+<sup>10.</sup> À moins que les Parties n’en conviennent autrement dans les 30 jours suivant la date de réception de la demande d’arbitrage visée à l’al. 1, le mandat du panel est le suivant:
 
 «Examiner, à la lumière des dispositions pertinentes du présent Accord, l’affaire exposée dans la demande de constitution d’un panel arbitral selon l’art. 15.4 et rendre des conclusions de droit et de fait motivées en vue du règlement du différend.»
 
@@ -2168,7 +2170,7 @@ Tous les membres du panel arbitral:
 
 **Procédures du panel arbitral**
 
-<sup>1.</sup> A moins que les Parties n’en conviennent autrement, les procédures du panel arbitral se déroulent conformément aux règles de procédure figurant à l’Annexe X.
+<sup>1.</sup> À moins que les Parties n’en conviennent autrement, les procédures du panel arbitral se déroulent conformément aux règles de procédure figurant à l’Annexe X.
 
 <sup>2.</sup> En dehors des règles définies dans le présent article, le panel arbitral fixe, en consultant les Parties, ses propres règles de procédure pour ce qui a trait au droit des Parties d’être entendues et sa procédure de délibération.
 
@@ -2182,7 +2184,7 @@ Tous les membres du panel arbitral:
 
 <sup>2.</sup> En principe, le panel arbitral soumet aux Parties un rapport initial contenant ses conclusions et sa décision dans un délai de 90 jours, au plus, suivant la nomination de son dernier membre. En cas d’affaire urgente, le panel arbitral soumet son rapport initial dans les 60 jours, au plus, suivant la nomination de son dernier membre. Chaque Partie peut soumettre au panel arbitral ses remarques écrites sur le rapport initial dans les quatorze jours à compter de la réception dudit rapport.
 
-<sup>3.</sup> Dans des cas exceptionnels, si le panel arbitral estime qu’il n’est pas en mesure de rendre son rapport dans les 90 jours, il en informe les Parties par écrit, en précisant le motif de l’empêchement et une estimation du temps additionnel nécessaire. A moins que les Parties n’en conviennent autrement, ce temps additionnel ne dépasse pas les 30 jours.
+<sup>3.</sup> Dans des cas exceptionnels, si le panel arbitral estime qu’il n’est pas en mesure de rendre son rapport dans les 90 jours, il en informe les Parties par écrit, en précisant le motif de l’empêchement et une estimation du temps additionnel nécessaire. À moins que les Parties n’en conviennent autrement, ce temps additionnel ne dépasse pas les 30 jours.
 
 <sup>4.</sup> Le panel arbitral présente un rapport final aux Parties dans les 30 jours, ou 20 jours en cas d’affaire urgente, suivant la remise du rapport initial.
 
@@ -2226,7 +2228,7 @@ Tous les membres du panel arbitral:
 
 <sup>3.</sup> Dans sa notification de suspension de concessions et obligations, la Partie plaignante indique les concessions et obligations qu’elle entend suspendre, le motif de la suspension et la date à laquelle celle-ci prendra effet. Dans un délai de quinze jours à compter de la réception de cette notification, la Partie visée par la plainte peut demander que le panel arbitral établisse si les concessions et obligations que la Partie plaignante entend suspendre sont équivalentes ou non à celles affectées par la mesure jugée incompatible avec le présent Accord, et si la suspension proposée est conforme aux al. 1 et 2. Le panel arbitral rend sa décision dans les 60 jours à compter de la réception de cette demande. Les concessions et obligations ne sont pas suspendues avant que le panel arbitral ait rendu sa décision.
 
-<sup>4.</sup> La compensation et la suspension d’avantages sont des mesures temporaires; elles peuvent être appliquées par la Partie plaignante jusqu’à ce que la mesure jugée incompatible avec le présent Accord ait été retirée ou suffisamment amendée pour la rendre conforme au présent Accord, ou jusqu’à ce que les Parties aient réglé leur différend d’une autre manière. A cette fin, si la Partie visée par la plainte estime qu’elle a corrigé la non-conformité identifiée par le panel arbitral, elle peut le notifier à l’autre Partie par écrit, en fournissant une description des mesures appliquées pour corriger la non-conformité.
+<sup>4.</sup> La compensation et la suspension d’avantages sont des mesures temporaires; elles peuvent être appliquées par la Partie plaignante jusqu’à ce que la mesure jugée incompatible avec le présent Accord ait été retirée ou suffisamment amendée pour la rendre conforme au présent Accord, ou jusqu’à ce que les Parties aient réglé leur différend d’une autre manière. À cette fin, si la Partie visée par la plainte estime qu’elle a corrigé la non-conformité identifiée par le panel arbitral, elle peut le notifier à l’autre Partie par écrit, en fournissant une description des mesures appliquées pour corriger la non-conformité.
 
 #### Art. 15.11
 
@@ -2260,7 +2262,7 @@ Les annexes au présent Accord, y compris leurs appendices, font partie intégra
 
 <sup>2.</sup> Les amendements au présent Accord sont, après approbation par le Comité mixte, soumis aux Parties pour ratification, acceptation ou approbation, selon les exigences légales des Parties.
 
-<sup>3.</sup> A moins que les Parties n’en conviennent autrement, les amendements entrent en vigueur le premier jour du troisième mois suivant la notification, par la dernière Partie à satisfaire ses exigences légales, que ces dernières sont satisfaites.
+<sup>3.</sup> À moins que les Parties n’en conviennent autrement, les amendements entrent en vigueur le premier jour du troisième mois suivant la notification, par la dernière Partie à satisfaire ses exigences légales, que ces dernières sont satisfaites.
 
 #### Art. 16.4
 

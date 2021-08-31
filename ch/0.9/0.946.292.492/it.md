@@ -3,32 +3,27 @@ sr: "0.946.292.492"
 title: "Accordo di libero scambio del 6 luglio 2013 tra la Confederazione Svizzera e la Repubblica popolare Cinese (con all. e Prot. d'intesa)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/332"
 language: it
-version: 2014-07-01
+version: 2021-09-01
 adopted: 2013-07-06
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/332/20140701/it/xml/fedlex-data-admin-ch-eli-cc-2014-332-20140701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/332/20140701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/332/20210901/it/xml/fedlex-data-admin-ch-eli-cc-2014-332-20210901-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/332/20210901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Accordo di libero scambio tra la Confederazione Svizzera e la Repubblica popolare Cinese****
+# Accordo di libero scambio tra la Confederazione Svizzera e la Repubblica popolare Cinese
 
 RU **2014** 1783; FF **2013** 7031[^t-1]
 
-Traduzione*[^t-2]*
+Traduzione
 
-Firmato a Pechino il 6 luglio 2013
+Firmato a Pechino il 6 luglio 2013 Approvato dall’Assemblea federale il 20 marzo 2014[^t-2] Entrato in vigore mediante scambio di note il 1° luglio 2014
 
-Approvato dall’Assemblea federale il 20 marzo 2014[^t-3]
+(Stato 1° settembre 2021)
 
-Entrato in vigore mediante scambio di note il 1° luglio 2014
-
-(Stato 1° luglio 2014)
-
-[^t-1]: Gli all. non sono pubblicati nella RU. I testi originali dell’Acc. e gli all. possono essere ottenuti presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni federali, 3003 Berna, o consultati sul sito Internet della SECO, www.seco.admin.ch.
-[^t-2]: Dal testo originale francese.
-[^t-3]: Art. 1 cpv. 1 lett. a del DF del 20 mar. 2014 ([RU 2014 1315](https://fedlex.data.admin.ch/eli/oc/2014/277)).
+[^t-1]: Gli all. non sono pubblicati nella RU. I testi originali dell’Acc. e gli all. possono essere ottenuti presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni, 3003 Berna. È inoltre disponibile sul sito Internet del Segretariato di Stato dell’economia: www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik\_Wirtschaftliche\_ Zusammenarbeit/Wirtschaftsbeziehungen/Freihandelsabkommen/partner\_fha/ partner\_weltweit/china/Abkommenstexte.html.
+[^t-2]: Art. 1 cpv. 1 lett. a del DF del 20 mar. 2014 ([RU 2014 1315](https://fedlex.data.admin.ch/eli/oc/2014/277)).
 
 *Preambolo*
 
@@ -62,7 +57,7 @@ basandosi sui rispettivi diritti e obblighi derivanti dall’Accordo OMC e da al
 
 hanno convenuto, al fine di conseguire i suddetti obiettivi, di concludere il presente Accordo di libero scambio (di seguito denominato «presente Accordo»):
 
-[^ingress-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 ## Capitolo 1 Disposizioni generali
 
@@ -87,8 +82,8 @@ Gli obiettivi del presente Accordo, fondato su relazioni commerciali tra economi
 
 <sup>3.</sup> Le Parti interpretano e applicano le disposizioni del presente Accordo tenendo conto degli obiettivi definiti nel paragrafo 2 e conformemente alle norme consuetudinarie di interpretazione del diritto internazionale pubblico.
 
-[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1A.1
-[^11-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1B
+[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^11-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1B
 
 #### Art. 1.2
 
@@ -145,7 +140,7 @@ Nessuna disposizione del presente Accordo obbliga una Parte a divulgare informaz
 
 <sup>2.</sup> I termini «merci» e «prodotti» hanno il medesimo significato, a meno che il contesto non richieda una diversa interpretazione.
 
-[^21-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^21-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 2.2
 
@@ -169,8 +164,8 @@ Per «dazio all’importazione» s’intende qualsiasi diritto o tassa applicata
 
 <sup>3.</sup> Salvo altrimenti disposto nel presente Accordo, nessuna Parte può aumentare un dazio esistente o introdurre un nuovo dazio su un prodotto originario dell’altra Parte che non sia conforme ai termini e alle condizioni indicate nell’elenco di cui all’allegato I.
 
-[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1A.8
-[^23-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1A.13
+[^23-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.8
+[^23-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.13
 
 #### Art. 2.4
 
@@ -192,9 +187,9 @@ Le restrizioni all’importazione e all’esportazione sono rette dall’articol
 
 **Imprese commerciali di Stato**
 
-Per quanto riguarda le imprese commerciali di Stato si applicano gli articoli XVII del GATT 1994 e l’Intesa sull’interpretazione dell’articolo XVII del GATT 1994[^26-1], che sono inseriti nel presente Accordo e ne divengono parte integrante, *mutatis muta**n**dis.*
+Per quanto riguarda le imprese commerciali di Stato si applicano gli articoli XVII del GATT 1994 e l’Intesa sull’interpretazione dell’articolo XVII del GATT 1994[^26-1], che sono inseriti nel presente Accordo e ne divengono parte integrante, *mutatis mutandis.*
 
-[^26-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1.b
+[^26-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1B
 
 #### Art. 2.7
 
@@ -229,8 +224,8 @@ Ai fini del presente capitolo:
 - (i) per «capitolo», «voce» e «sottovoce» si intendono un capitolo (codici a due cifre), una voce (codici a quattro cifre) o sottovoce (codici a sei cifre) del Sistema armonizzato; e
 - (j) per «servizio autorizzato» s’intende qualsiasi ente istituito secondo le leggi nazionali di una Parte o dall’autorità governativa di una Parte per rilasciare un certificato d’origine.
 
-[^31-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1A.9
-[^31-2]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^31-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.9
+[^31-2]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 3.2
 
@@ -272,7 +267,7 @@ Ai fini dell’articolo 3.2 lettera (a), sono considerati interamente ottenuti i
 
 <sup>3.</sup> Laddove l’allegato II si riferisce a una percentuale del valore dei materiali non originari (VMN), essa esprime la percentuale VMN massima permessa in relazione al prezzo franco fabbrica del prodotto. Tale percentuale viene calcolata come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/332/20140701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/332/20210901/it/xml/image/image1.png)
 
 <sup>4.</sup> Il VMN viene determinato sulla base del valore in dogana al momento dell’importazione dei materiali non originari, compresi i materiali di origine non determinata. Se tale valore non è noto e non può essere individuato, si applica il primo prezzo verificabile pagato o pagabile per detti materiali in una Parte.
 
@@ -396,7 +391,9 @@ Fatto salvo il paragrafo 1, i prodotti originari trasportati attraverso i territ
 
 <sup>3.</sup> Ai fini del paragrafo 1, un prodotto originario può essere trasportato per mezzo di condutture attraverso i territori di Paesi terzi.
 
-<sup>4.</sup> Le autorità doganali della Parte importatrice possono chiedere che l’importatore dei suddetti prodotti esibisca sufficienti prove che confermino, a loro soddisfazione, l’adempimento delle condizioni di cui ai paragrafi 2 e 3.
+<sup>4.</sup> Le autorità doganali della Parte importatrice possono chiedere che l’importatore dei suddetti prodotti esibisca sufficienti prove che confermino, a loro soddisfazione, l’adempimento delle condizioni di cui al paragrafo 2.[^313-1]
+
+[^313-1]: Nuovo testo giusta la Dec. del Comitato misto Svizzera – Cina del 14 set. 2016, in vigore dal 1° set. 2021 ([RU 2021 471](https://fedlex.data.admin.ch/eli/oc/2021/471)).
 
 ### Sezione II Procedure di attuazione
 
@@ -859,7 +856,7 @@ In relazione allo stesso prodotto, nessuna Parte può applicare contemporaneamen
 - (a) una misura di salvaguardia bilaterale; e
 - (b) una misura di cui all’articolo XIX del GATT 1994 e all’Accordo dell’OMC sulle misure di salvaguardia[^54-1].
 
-[^54-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1A.14
+[^54-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.14
 
 #### Art. 5.5
 
@@ -932,7 +929,7 @@ Gli obiettivi del presente capitolo sono:
 - (c) agevolare lo scambio di informazioni e la cooperazione tecnica tra le Parti e migliorare la comprensione reciproca del sistema normativo dell’altra Parte; e
 - (d) rafforzare la cooperazione tra le Parti in materia di prescrizioni tecniche, norme e procedure di valutazione della conformità.
 
-[^61-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1A.6
+[^61-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.6
 
 #### Art. 6.2
 
@@ -1050,7 +1047,7 @@ Gli obiettivi del presente capitolo sono:
 - (b) agevolare lo scambio di informazioni e la cooperazione tecnica tra le Parti e favorire la comprensione reciproca del sistema normativo dell’altra Parte; e
 - (c) rafforzare la cooperazione tra le Parti in materia di misure sanitarie e fitosanitarie.
 
-[^71-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1A.4
+[^71-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.4
 
 #### Art. 7.2
 
@@ -1574,7 +1571,7 @@ Le Parti riconoscono l’importanza di promuovere flussi d’investimento e di t
 
 <sup>6.</sup> Su richiesta di una Parte e previo consenso del Comitato misto, le Parti convengono di riesaminare le disposizioni sulla protezione dei diritti di proprietà intellettuale contenute nel presente capitolo al fine di aggiornarle agli sviluppi internazionali in materia di proprietà intellettuale in maniera equilibrata e di garantirne il buon funzionamento pratico in virtù del presente Accordo.
 
-[^111-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 1C
+[^111-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1C
 
 #### Art. 11.2
 
@@ -1606,15 +1603,15 @@ Le Parti ribadiscono il loro impegno a rispettare gli obblighi concernenti la pr
 
 <sup>2.</sup> Ciascuna Parte si adopera al meglio per ratificare o aderire al Trattato di Pechino sulle interpretazioni ed esecuzioni audiovisive.
 
-[^113-1]: [RS 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^113-2]: [RS 0.231.15](https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659)
-[^113-3]: [RS 0.232.141.1](https://fedlex.data.admin.ch/eli/cc/1978/900_900_900)
-[^113-4]: [RS 0.232.145.1](https://fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262)
-[^113-5]: [RS 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020)
-[^113-6]: [RS 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
-[^113-7]: [RS 0.231.171.1](https://fedlex.data.admin.ch/eli/cc/2008/359)
-[^113-8]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
-[^113-9]: [RS 0.232.162](https://fedlex.data.admin.ch/eli/cc/1981/1907_1907_1907)
+[^113-1]: [RS 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^113-2]: [RS 0.231.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1017)
+[^113-3]: [RS 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
+[^113-4]: [RS 0.232.145.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1099)
+[^113-5]: [RS 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061)
+[^113-6]: [RS 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
+[^113-7]: [RS 0.231.171.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1020)
+[^113-8]: [RS 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
+[^113-9]: [RS 0.232.162](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1109)
 
 #### Art. 11.4
 
@@ -1714,7 +1711,7 @@ Per le Parti ciò significa garantire una protezione a un livello equivalente a 
 
 <sup>6.</sup> Se una volta concesso il brevetto si scopre che il richiedente non ha indicato la fonte o che ha deliberatamente fornito informazioni false, o che ha infranto altre leggi e regolamentazioni pertinenti, le Parti possono prevedere appropriate conseguenze giuridiche.
 
-[^119-1]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^119-1]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 11.10
 
@@ -2099,7 +2096,7 @@ Allo scopo di agevolare la comunicazione tra le Parti su qualsiasi questione ogg
 
 <sup>3.</sup> Ai fini del paragrafo 2 si considera scelta la procedura di composizione delle controversie contemplata dall’Accordo dell’OMC se una Parte richiede l’istituzione di un tribunale arbitrale di cui all’articolo 6 dell’Intesa sulla composizione delle controversie dell’OMC[^151-1], mentre si considera scelta la procedura di composizione delle controversie contemplata nel presente Accordo se viene presentata richiesta di arbitrato secondo l’articolo 15.4 paragrafo 1.
 
-[^151-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Allegato 2
+[^151-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 2
 
 #### Art. 15.2
 

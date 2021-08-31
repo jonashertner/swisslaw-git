@@ -3,32 +3,31 @@ sr: "0.946.292.492"
 title: Freihandelsabkommen vom 6. Juli 2013 zwischen der Schweizerischen Eidgenossenschaft und der Volksrepublik China (mit Anhängen und Verständigungsvereinbarung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/332"
 language: de
-version: 2014-07-01
+version: 2021-09-01
 adopted: 2013-07-06
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/332/20140701/de/xml/fedlex-data-admin-ch-eli-cc-2014-332-20140701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/332/20140701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/332/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2014-332-20210901-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/332/20210901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Freihandelsabkommen zwischen der Schweizerischen Eidgenossenschaft und der Volksrepublik China****
+# Freihandelsabkommen zwischen der Schweizerischen Eidgenossenschaft und der Volksrepublik China
 
 AS **2014** 1783; BBl **2013** 8165[^t-1]
 
-Übersetzung*[^t-2]*
+Übersetzung
 
 Unterzeichnet in Peking am 6. Juli 2013
 
-Von der Bundesversammlung genehmigt am 20. März 2014[^t-3]
+Von der Bundesversammlung genehmigt am 20. März 2014[^t-2]
 
 In Kraft getreten durch Notenaustausch am 1. Juli 2014
 
-(Stand am 1. Juli 2014)
+(Stand am 1. September 2021)
 
 [^t-1]: Die Anhänge werden in der AS nicht veröffentlicht. Die Originaltexte des Abkommens und der Anhänge können beim BBL, Verkauf Bundespublikationen, 3003 Bern bezogen oder auf der Internet-Seite des SECO www.seco.admin.ch konsultiert werden.
-[^t-2]: Übersetzung des französischen Originaltextes.
-[^t-3]: Art. 1 Abs. 1 Bst. a des BB vom 20. März 2014 ([AS 2014 1315](https://fedlex.data.admin.ch/eli/oc/2014/277))
+[^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 20. März 2014 ([AS 2014 1315](https://fedlex.data.admin.ch/eli/oc/2014/277))
 
 *Präambel*
 
@@ -62,7 +61,7 @@ aufbauend auf ihren jeweiligen Rechten und Pflichten gemäss dem WTO-Abkommen so
 
 haben zur Erreichung dieser Ziele folgendes Freihandelsabkommen (nachfolgend als «dieses Abkommen» bezeichnet) abgeschlossen:
 
-[^ingress-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 ## Kapitel 1 Allgemeine Bestimmungen
 
@@ -84,10 +83,11 @@ Die Ziele dieses Abkommens, das auf Handelsbeziehungen zwischen Marktwirtschafte
 - (f) die Erreichung eines besseren Verständnisses des öffentlichen Beschaffungswesens der Vertragsparteien und die Schaffung einer Grundlage für eine zukünftige Zusammenarbeit auf diesem Gebiet;
 - (g) der Abbau und die Vermeidung von unnötigen Handelsschranken, einschliesslich gesundheitspolizeilicher und pflanzenschutzrechtlicher Massnahmen;
 - (h) die Entwicklung des internationalen Handels auf eine, die zum Ziel der nachhaltigen Entwicklung beiträgt, und die Gewährleistung, dass dieses Ziel in den Handelsbeziehungen zwischen den Vertragsparteien integriert ist und widerspiegelt wird; und auf diese Weise einen Beitrag zur harmonischen Entwicklung und Ausweitung des Welthandels zu leisten.
-- [tab] 3. Die Auslegung und Anwendung der Bestimmungen dieses Abkommens durch die Vertragsparteien erfolgt im Lichte der Ziele von Absatz 2 und in Übereinstimmung mit den üblichen Auslegungsregeln des Völkerrechts.
 
-[^11-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.1
-[^11-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1B
+<sup>3.</sup> Die Auslegung und Anwendung der Bestimmungen dieses Abkommens durch die Vertragsparteien erfolgt im Lichte der Ziele von Absatz 2 und in Übereinstimmung mit den üblichen Auslegungsregeln des Völkerrechts.
+
+[^11-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.1
+[^11-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1B
 
 #### Art. 1.2
 
@@ -144,7 +144,7 @@ Keine Bestimmung in diesem Abkommen verpflichtet die Vertragsparteien, Informati
 
 <sup>2.</sup> Waren und Erzeugnisse haben die gleiche Bedeutung, sofern der Zusammenhang nichts anderes erfordert.
 
-[^21-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^21-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 2.2
 
@@ -168,8 +168,8 @@ Ein Einfuhrzoll bedeutet jegliche Abgabe oder Gebühr, die im Zusammenhang mit d
 
 <sup>3.</sup> Sofern in diesem Abkommen nicht anders bestimmt, erhöht keine Vertragspartei einen bestehenden Zoll oder führt einen neuen Zoll auf Einfuhren von Ursprungserzeugnissen der anderen Vertragspartei ein, der nicht mit den Bestimmungen und Bedingungen ihrer Liste in Anhang I übereinstimmt.
 
-[^23-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.8
-[^23-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.13
+[^23-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.8
+[^23-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.13
 
 #### Art. 2.4
 
@@ -193,7 +193,7 @@ In Bezug auf Ein- und Ausfuhrbeschränkungen ist Artikel XI GATT 1994 anwendbar 
 
 Betreffend staatliche Handelsunternehmen sind Artikel XVII GATT 1994 und die Vereinbarung zur Auslegung von Artikel XVII des Allgemeinen Zoll- und Handelsabkommens 1994[^26-1] anwendbar und werden hiermit *mutatis mutandis* in dieses Abkommen übernommen und zu dessen Bestandteil erklärt werden.
 
-[^26-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1.b
+[^26-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1B
 
 #### Art. 2.7
 
@@ -228,8 +228,8 @@ Für die Zwecke dieses Kapitels:
 - (i) bezeichnen «Kapitel», «Nummer» und «Unternummer» das Kapitel (die ersten zwei Stellen der Tarifnummer), die Nummer (die ersten vier Stellen der Tarifnummer) bzw. die Unternummer (die sechs Stellen der Tarifnummer) des Harmonisierten Systems; und
 - (j) bedeutet «autorisierte Behörde» eine Behörde, die nach nationalem Recht einer Vertragspartei oder durch die Regierungsbehörde einer Vertragspartei bezeichnet wurde, um ein Ursprungszeugnis auszustellen.
 
-[^31-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.9
-[^31-2]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^31-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.9
+[^31-2]: [SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 3.2
 
@@ -271,7 +271,7 @@ Für die Zwecke von Artikel 3.2 Buchstabe (a) gelten die folgenden Erzeugnisse a
 
 <sup>3.</sup> Wo der Anhang II auf einen Prozentsatz des Wertes von Nicht-Ursprungsvormaterialien (VNM) Bezug nimmt, ist damit der höchste Prozentsatz von VNM gemeint, der im Verhältnis zum Ab-Werk-Preis eines Erzeugnisses erlaubt ist. Dieser Prozentsatz berechnet sich wie folgt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/332/20140701/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/332/20210901/de/xml/image/image1.png)
 
 <sup>4.</sup> Der VNM wird auf der Grundlage des Zollwerts der Nicht-Ursprungsvormaterialien zum Zeitpunkt der Einfuhr bestimmt, einschliesslich Vormaterialien von unbekannter Herkunft. Falls dieser Wert nicht bekannt ist und nicht festgestellt werden kann, wird der erste feststellbare Preis, der in einer Vertragspartei für diese Vormaterialien bezahlt wurde oder zu bezahlen ist, angewandt.
 
@@ -395,7 +395,9 @@ Ungeachtet von Absatz 1 werden Ursprungserzeugnisse, die durch die Gebiete von N
 
 <sup>3.</sup> Für die Zwecke von Absatz 1 können Ursprungserzeugnisse durch Rohrleitungen in Nichtvertragsparteien geleitet werden.
 
-<sup>4.</sup> Die Zollbehörden der einführenden Vertragspartei können verlangen, dass der Importeur der oben genannten Erzeugnisse mittels geeigneter Nachweise belegt, dass die Bedingungen der Absätze 2 und 3 erfüllt wurden.
+<sup>4.</sup> Die Zollbehörden der einführenden Vertragspartei können verlangen, dass der Importeur der oben genannten Erzeugnisse mittels geeigneter Nachweise belegt, dass die Bedingungen von Absatz 2 erfüllt wurden.[^313-1]
+
+[^313-1]: Fassung gemäss Beschluss des Gemischten Ausschusses Schweiz-China vom 14. Sept. 2016, in Kraft seit 1. Sept. 2021 ([AS 2021 471](https://fedlex.data.admin.ch/eli/oc/2021/471)).
 
 ### Abschnitt II Durchführungsverfahren
 
@@ -858,7 +860,7 @@ Keine Vertragspartei trifft für das gleiche Erzeugnis gleichzeitig:
 - (a) eine bilaterale Schutzmassnahme; und
 - (b) eine Massnahme nach Artikel XIX GATT 1994 und dem WTO-Übereinkommen über Schutzmassnahmen[^54-1].
 
-[^54-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.14
+[^54-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.14
 
 #### Art. 5.5
 
@@ -931,7 +933,7 @@ Die Ziele dieses Kapitels sind:
 - (c) den Informationsaustausch und die technische Zusammenarbeit zwischen den Vertragsparteien zu erleichtern und das gegenseitige Verständnis ihrer jeweiligen Regulierungssysteme zu fördern; und
 - (d) die Zusammenarbeit zwischen den Vertragsparteien auf dem Gebiet der technischen Vorschriften, der Normen und der Konformitätsbewertungsverfahren zu stärken.
 
-[^61-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.6
+[^61-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.6
 
 #### Art. 6.2
 
@@ -951,7 +953,7 @@ Sofern in diesem Kapitel nicht anders bestimmt, ist zwischen den Vertragsparteie
 
 **Internationale Normen**
 
-- [tab] Für die Anwendung dieses Kapitels werden Normen, die insbesondere von der Internationalen Organisation für Normung (ISO), der Internationalen Elektrotechnischen Kommission (IEC), der Internationalen Fernmeldeunion (ITU) und der Codex Alimentarius Kommission (CAC) erlassen werden, als einschlägige internationale Normen im Sinne von Artikel 2.4 des TBT-Übereinkommens betrachtet.
+Für die Anwendung dieses Kapitels werden Normen, die insbesondere von der Internationalen Organisation für Normung (ISO), der Internationalen Elektrotechnischen Kommission (IEC), der Internationalen Fernmeldeunion (ITU) und der Codex Alimentarius Kommission (CAC) erlassen werden, als einschlägige internationale Normen im Sinne von Artikel 2.4 des TBT-Übereinkommens betrachtet.
 
 #### Art. 6.5
 
@@ -1049,7 +1051,7 @@ Die Ziele dieses Kapitels sind:
 - (b) den Informationsaustausch und die technische Zusammenarbeit zwischen den Vertragsparteien zu fördern und das gegenseitige Verständnis der Regulierungssysteme der Vertragsparteien zu verbessern; und
 - (c) die Zusammenarbeit zwischen den Vertragsparteien auf dem Gebiet der gesundheitspolizeilichen und pflanzenschutzrechtlichen Massnahmen zu verstärken.
 
-[^71-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.4
+[^71-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.4
 
 #### Art. 7.2
 
@@ -1209,8 +1211,8 @@ Für die Zwecke dieses Kapitels:
 
   - (i) die Errichtung, den Erwerb oder die Fortführung einer juristischen Person, oder
   - (ii) die Errichtung oder die Fortführung einer Zweigstelle oder einer Vertretung,
+  - [tab] im Hoheitsgebiet einer Vertragspartei zum Zweck der Erbringung einer Dienstleistung;
 
-- [tab] im Hoheitsgebiet einer Vertragspartei zum Zweck der Erbringung einer Dienstleistung;
 - (h)
 
   bedeutet der Begriff «Sektor» einer Dienstleistung:
@@ -1576,7 +1578,7 @@ Die Vertragsparteien anerkennen die Bedeutung der Förderung grenzüberschreiten
 
 <sup>6.</sup> Die Vertragsparteien vereinbaren, auf Ersuchen einer Vertragspartei und vorbehältlich einer Einigung im Gemischten Ausschuss, die Bestimmungen dieses Kapitels zum Schutz der Rechte an geistigem Eigentum zu überprüfen, um sie in ausgewogener Weise auf dem neusten Stand der internationalen Entwicklungen auf dem Gebiet des geistigen Eigentums zu halten und ihr gutes Funktionieren in der Praxis gemäss diesem Abkommen zu gewährleisten.
 
-[^111-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1C
+[^111-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1C
 
 #### Art. 11.2
 
@@ -1608,15 +1610,15 @@ Die Vertragsparteien bestätigen ihre Verpflichtungen aus den bestehenden intern
 
 <sup>2.</sup> Die Vertragsparteien unternehmen alle erforderlichen Schritte, um den Vertrag von Peking zum Schutz audiovisueller Darbietungen zu ratifizieren oder ihm beizutreten.
 
-[^113-1]: [SR 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^113-2]: [SR 0.231.15](https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659)
-[^113-3]: [SR 0.232.141.1](https://fedlex.data.admin.ch/eli/cc/1978/900_900_900)
-[^113-4]: [SR 0.232.145.1](https://fedlex.data.admin.ch/eli/cc/1981/1262_1262_1262)
-[^113-5]: [SR 0.232.112.7](https://fedlex.data.admin.ch/eli/cc/1962/985_1019_1020)
-[^113-6]: [SR 0.232.112.4](https://fedlex.data.admin.ch/eli/cc/1997/2350_2350_2350)
-[^113-7]: [SR 0.231.171.1](https://fedlex.data.admin.ch/eli/cc/2008/359)
-[^113-8]: [SR 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
-[^113-9]: [SR 0.232.162](https://fedlex.data.admin.ch/eli/cc/1981/1907_1907_1907)
+[^113-1]: [SR 0.232.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1030)
+[^113-2]: [SR 0.231.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1017)
+[^113-3]: [SR 0.232.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1083)
+[^113-4]: [SR 0.232.145.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1099)
+[^113-5]: [SR 0.232.112.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1061)
+[^113-6]: [SR 0.232.112.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1060)
+[^113-7]: [SR 0.231.171.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1020)
+[^113-8]: [SR 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
+[^113-9]: [SR 0.232.162](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1109)
 
 #### Art. 11.4
 
@@ -1716,7 +1718,7 @@ Für die Vertragsparteien bedeutet dies, einen Schutz auf einem Niveau sicherzus
 
 <sup>6.</sup> Falls nach der Erteilung eines Patents festgestellt wird, dass die Quelle in der Anmeldung nicht deklariert wurde oder dass absichtlich falsche Informationen eingereicht oder andere einschlägige Gesetze und Verordnungen verletzt wurden, können die Vertragsparteien angemessene rechtliche Konsequenzen vorsehen.
 
-[^119-1]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^119-1]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 11.10
 
@@ -2101,7 +2103,7 @@ Um die Kommunikation zwischen den Vertragsparteien zu allen Angelegenheiten im Z
 
 <sup>3.</sup> Für den Zweck von Absatz 2 gelten die Streitbeilegungsverfahren unter dem WTO-Abkommen als eingeleitet, sobald eine Vertragspartei die Einsetzung eines Schiedsgerichts nach Artikel 6 der WTO-Vereinbarung über Regeln und Verfahren für die Streitbeilegung[^151-1] beantragt hat. Ein Streitbeilegungsverfahren nach diesem Abkommen gilt als eingeleitet, wenn ein Antrag für ein Schiedsverfahren gemäss Absatz 1 von Artikel 15.4 gestellt wurde.
 
-[^151-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 2
+[^151-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 2
 
 #### Art. 15.2
 
