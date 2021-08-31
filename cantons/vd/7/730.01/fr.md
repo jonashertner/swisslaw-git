@@ -4,7 +4,7 @@ number: "730.01"
 title: "LOI du 16.05.2006 sur l'énergie (LVLEne)"
 short: LVLEne
 language: fr
-version: 2020-05-01
+version: 2021-09-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01?id=e7f13ccb-9bc3-4442-876e-c316278b9975"
 ---
 
@@ -65,9 +65,9 @@ décrète
 
 <sup>3</sup> Les définitions prévues par le droit fédéral sur l'énergie sont applicables dans le cadre de la présente loi et ses dispositions d'exécution.
 
-<sup>4</sup> On entend par planification énergétique territoriale la prise en compte et la coordination, dans la démarche d'aménagement du territoire, des infrastructures, des bâtiments et des systèmes techniques de manière à permettre un usage des ressources et une satisfaction des besoins correspondant au mieux aux buts de la loi.
+<sup>4</sup> La planification énergétique vise, à l'échelle d'un quartier, d'une commune, d'une agglomération ou d'une région, à créer les conditions propices à une utilisation efficace et rationnelle de l'énergie ainsi qu'à favoriser le recours et une meilleure intégration des énergies renouvelables locales.
 
-[^2-1]: Modif. 1 du 29.10.2013: Introduction Al. 3,4; entrée en vigueur au 01.07.2014; Abrogation Al. 1,2; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Modification Al. 4; entrée en vigueur au 01.09.2021; Introduction Art. 16c; entrée en vigueur au 01.09.2021; Introduction Art. 16d; entrée en vigueur au 01.09.2021; Introduction Art. 16e; entrée en vigueur au 01.09.2021; Introduction Art. 16f; entrée en vigueur au 01.09.2021; Introduction Art. 16g; entrée en vigueur au 01.09.2021; Introduction Art. 39a, Al. 9; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3, a-b; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3bis; entrée en vigueur au 01.09.2021; Introduction Art. 40c, Al. 3-4; entrée en vigueur au 01.09.2021; Introduction Art. 42a; entrée en vigueur au 01.09.2021
+[^2-1]: Modif. 1 du 29.10.2013: Introduction Al. 3,4; entrée en vigueur au 01.07.2014; Abrogation Al. 1,2; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Modification Al. 4; entrée en vigueur au 01.09.2021
 
 #### Art. 4
 
@@ -129,11 +129,11 @@ décrète
 
 **Renseignements et confidentialité [^10-1]**
 
-<sup>1</sup> L'Etat est habilité à recueillir les informations utiles sur les besoins et l'offre d'énergie dans le canton auprès des personnes susceptibles de les détenir, de préparer, de réaliser les mesures nécessaires et d'en analyser l'efficacité.
+<sup>1</sup> L'Etat est habilité à requérir les informations utiles sur les besoins et l'offre d'énergie dans le canton auprès des personnes susceptibles de les détenir, de préparer, de réaliser les mesures nécessaires et d'en analyser l'efficacité.
 
 <sup>2</sup> Les éléments obtenus dans ce cadre sont confidentiels et soumis au secret de fonction. Les secrets d'affaire et de fabrication sont garantis.
 
-[^10-1]: Modif. 5 du 04.05.2021: Modification Al. 1; entrée en vigueur au 01.09.2021; Introduction Art. 16c; entrée en vigueur au 01.09.2021; Introduction Art. 16d; entrée en vigueur au 01.09.2021; Introduction Art. 16e; entrée en vigueur au 01.09.2021; Introduction Art. 16f; entrée en vigueur au 01.09.2021; Introduction Art. 16g; entrée en vigueur au 01.09.2021; Introduction Art. 39a, Al. 9; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3, a-b; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3bis; entrée en vigueur au 01.09.2021; Introduction Art. 40c, Al. 3-4; entrée en vigueur au 01.09.2021; Introduction Art. 42a; entrée en vigueur au 01.09.2021
+[^10-1]: Modif. 5 du 04.05.2021: Modification Al. 1; entrée en vigueur au 01.09.2021
 
 #### Art. 12
 
@@ -157,7 +157,7 @@ décrète
 
 [^13-1]: Modif. 5 du 04.05.2021: Modification ; entrée en vigueur au 01.09.2021
 
-## Titre II Autorités compétentes et planification énergétique
+## Titre II Autorités compétentes
 
 [^13-1]
 
@@ -191,22 +191,23 @@ décrète
 
 <sup>4</sup> Les communes ont l'obligation de solliciter son avis avant de refuser une installation solaire ou un assainissement énergétique.
 
-<sup>5</sup> Elle est constituée de sept membres désignés par le Conseil d'Etat, sur proposition du département en charge de l'énergie (ci-après : le département), pour une durée de 5 ans. Le Conseil d'Etat désigne également le président et le vice-président.
+<sup>5</sup> Elle est constituée de sept membres désignés par le Conseil d'Etat, sur proposition du département en charge de l'énergie (ci-après : le département)[^14a-1], pour une durée de 5 ans. Le Conseil d'Etat désigne également le président et le vice-président.
 
 <sup>6</sup> Les domaines de l'énergie, de l'architecture, de la protection du patrimoine, de l'aménagement du territoire et de l'agriculture sont chacun représentés par un professionnel expérimenté. Les communes sont représentées par deux membres issus des autorités communales.
 
-<sup>7</sup> L'arrêté du 19 octobre 1977 sur les commissions[^14a-1] est applicable par analogie.
+<sup>7</sup> L'arrêté du 19 octobre 1977 sur les commissions[^14a-2] est applicable par analogie.
 
 [^14-2]: Modif. 1 du 29.10.2013: Introduction Art. 14a; entrée en vigueur au 01.07.2014
-[^14a-1]: Arrêté du 19.10.1977 sur les commissions ([BLV 172.115.5](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.115.5?id=2fd64f44-c2a5-46f7-ad22-3a1205a9b46d))
+[^14a-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^14a-2]: Arrêté du 19.10.1977 sur les commissions ([BLV 172.115.5](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.115.5?id=2fd64f44-c2a5-46f7-ad22-3a1205a9b46d))
 
 #### Art. 14b
 
-**Délégation [^14a-2]**
+**Délégation [^14a-3]**
 
 <sup>1</sup> Les autorités en charge de l'application de la présente loi peuvent déléguer l'exécution de certaines tâches. A cet effet, elles peuvent notamment confier des mandats de prestations à des personnes et des organisations privées ou publiques et les charger de l'exécution de certaines de leurs tâches. Elles supervisent leur activité.
 
-[^14a-2]: Modif. 1 du 29.10.2013: Introduction Art. 14b; entrée en vigueur au 01.07.2014
+[^14a-3]: Modif. 1 du 29.10.2013: Introduction Art. 14b; entrée en vigueur au 01.07.2014
 
 #### Art. 15
 
@@ -214,9 +215,9 @@ décrète
 
 <sup>1</sup> Chaque commune, ou groupement de communes, est encouragée à participer à l'application de la politique énergétique par l'élaboration d'un concept énergétique. Dans ce cas, le soutien de l'Etat est envisageable.
 
-<sup>2</sup> Lors de travaux réalisés sur leur territoire et relevant de leurs compétences, en particulier selon l'article 17 LATC[^15-1], les communes vérifient la conformité des projets avec la présente loi.
+<sup>2</sup> Lors de travaux réalisés sur leur territoire et relevant de leurs compétences, en particulier selon l'article 4, alinéa 4 LATC[^15-1], les communes requièrent la production d'un rapport des ingénieurs ou des architectes mandatés par le maître de l'ouvrage attestant la conformité des projets avec la présente loi.
 
-[^14b-1]: Modif. 1 du 29.10.2013: Modification Al. 1; entrée en vigueur au 01.07.2014; Introduction Al. 2; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Modification Al. 2; entrée en vigueur au 01.09.2021; Introduction Art. 16c; entrée en vigueur au 01.09.2021; Introduction Art. 16d; entrée en vigueur au 01.09.2021; Introduction Art. 16e; entrée en vigueur au 01.09.2021; Introduction Art. 16f; entrée en vigueur au 01.09.2021; Introduction Art. 16g; entrée en vigueur au 01.09.2021; Introduction Art. 39a, Al. 9; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3, a-b; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3bis; entrée en vigueur au 01.09.2021; Introduction Art. 40c, Al. 3-4; entrée en vigueur au 01.09.2021; Introduction Art. 42a; entrée en vigueur au 01.09.2021
+[^14b-1]: Modif. 1 du 29.10.2013: Modification Al. 1; entrée en vigueur au 01.07.2014; Introduction Al. 2; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Modification Al. 2; entrée en vigueur au 01.09.2021
 [^15-1]: Loi du 04.12.1985 sur l'aménagement du territoire et les constructions ([BLV 700.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/700.11?id=94980419-1c0b-4c3e-bf5d-6d37d57902ec))
 
 #### Art. 16
@@ -229,17 +230,29 @@ décrète
 - b. donner son préavis sur les options énergétiques importantes dans lesquelles l'Etat est impliqué en tant que détenteur de la puissance publique, propriétaire ou partenaire financier ;
 - c. donner son préavis au Conseil d'Etat sur des projets d'une certaine importance.
 
+[^16-1]: Modif. 5 du 04.05.2021: Introduction ; entrée en vigueur au 01.09.2021
+
+## Titre IIbis Planification énergétique
+
+[^16-1]
+
+[^titleTitreIIbis-1]: Modif. 5 du 04.05.2021: Introduction ; entrée en vigueur au 01.09.2021
+
+### Chapitre I Généralités
+
+[^titleTitreIIbis-1]
+
 #### Art. 16a
 
-**Territoire et énergie [^16-1]**
+**Territoire et énergie [^chapterChapitreI-1]**
 
-<sup>1</sup> L'Etat et les communes mènent une réflexion de planification énergétique territoriale au sens de l'article 3.
+<sup>1</sup> La planification énergétique incombe à l'Etat et aux communes.
 
-<sup>2</sup> Le Conseil d'Etat veille à la coordination des questions énergétiques dans la démarche d'aménagement du territoire en adoptant des directives internes ; celles-ci visent à doter les services concernés de procédures favorisant la réalisation de projets qui valorisent les énergies renouvelables locales et l'efficacité énergétique.
+<sup>2</sup> Les services de l'Etat concernés par la planification énergétique se concertent et se coordonnent entre eux et dans leurs relations avec les communes.
 
 <sup>3</sup> Les installations permettant la production d'énergie renouvelable et leur développement revêtent un intérêt prépondérant.
 
-[^16-1]: Modif. 1 du 29.10.2013: Introduction Art. 16a; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Modification Al. 1-2; entrée en vigueur au 01.09.2021; Introduction Art. 16c; entrée en vigueur au 01.09.2021; Introduction Art. 16d; entrée en vigueur au 01.09.2021; Introduction Art. 16e; entrée en vigueur au 01.09.2021; Introduction Art. 16f; entrée en vigueur au 01.09.2021; Introduction Art. 16g; entrée en vigueur au 01.09.2021; Introduction Art. 39a, Al. 9; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3, a-b; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3bis; entrée en vigueur au 01.09.2021; Introduction Art. 40c, Al. 3-4; entrée en vigueur au 01.09.2021; Introduction Art. 42a; entrée en vigueur au 01.09.2021
+[^chapterChapitreI-1]: Modif. 1 du 29.10.2013: Introduction Art. 16a; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Modification Al. 1-2; entrée en vigueur au 01.09.2021
 
 #### Art. 16b
 
@@ -248,6 +261,85 @@ décrète
 <sup>1</sup> L'Etat et les communes favorisent le recours à la mobilité durable.
 
 [^16a-1]: Modif. 1 du 29.10.2013: Introduction Art. 16b; entrée en vigueur au 01.07.2014
+
+#### Art. 16c
+
+**Études de planification énergétique [^16b-1]**
+
+<sup>1</sup> La planification énergétique s'appuie sur des études de base.
+
+<sup>2</sup> Le contenu de ces études est précisé dans le règlement.
+
+[^16b-1]: Modif. 5 du 04.05.2021: Introduction tArt; entrée en vigueur au 01.09.2021; Introduction Al. 1-2; entrée en vigueur au 01.09.2021; Introduction Art. 16c; entrée en vigueur au 01.09.2021
+[^16c-1]: Modif. 5 du 04.05.2021: Introduction ; entrée en vigueur au 01.09.2021
+
+### Chapitre II Planification énergétique cantonale
+
+[^16c-1]
+
+#### Art. 16d
+
+**Plans d'affectation cantonaux [^chapterChapitreII-1]**
+
+<sup>1</sup> Le canton réalise une planification énergétique dans le cadre de ses plans d'affectation selon les enjeux énergétiques et environnementaux en présence.
+
+<sup>2</sup> Les plans d'affectation cantonaux peuvent contenir dans leur règlement des mesures et des dispositions relatives :
+
+- a. à la valorisation et au recours à un ou plusieurs agents énergétiques renouvelables présents sur le territoire ;
+- b. au recours à des technologies particulièrement efficientes telles que des couplages chaleur-force ou des géostructures énergétiques ;
+- c. à une orientation des nouvelles constructions favorable à l'utilisation de l'énergie solaire ;
+- d. à la construction d'une centrale commune de chauffage ;
+- e. à l'obligation de raccorder des bâtiments à un réseau de chauffage à distance au sens de l'article 25 alinéa 2 ;
+- f. à des mesures conservatoires, telles que la réservation de surfaces pour la pose de conduites, permettant le raccordement ultérieur à un réseau thermique et
+- g. à la mise en œuvre de technologies intelligentes pour l'exploitation énergétique rationnelle des bâtiments et des quartiers.
+
+[^chapterChapitreII-1]: Modif. 5 du 04.05.2021: Introduction Art. 16d; entrée en vigueur au 01.09.2021
+[^16d-1]: Modif. 5 du 04.05.2021: Introduction ; entrée en vigueur au 01.09.2021
+
+### Chapitre III Planification énergétique communale et intercommunale
+
+[^16d-1]
+
+#### Art. 16e
+
+**Plans directeurs [^chapterChapitreIII-1]**
+
+<sup>1</sup> Le plan directeur intercommunal dans un périmètre compact d'agglomération au sens de l'article 20 LATC[^16e-1] doit comprendre une planification énergétique qui en fait partie intégrante.
+
+<sup>2</sup> Les éléments de cette planification énergétique sont précisés dans le règlement.
+
+<sup>3</sup> Les études de planification énergétique pour les plans directeurs intercommunaux au sens de l'article 20 LATC[^16e-2] peuvent faire l'objet d'une subvention.
+
+<sup>4</sup> Dans le cadre de l'élaboration des autres plans directeurs, l'Etat encourage les communes à réaliser une planification énergétique.
+
+[^chapterChapitreIII-1]: Modif. 5 du 04.05.2021: Introduction Art. 16e; entrée en vigueur au 01.09.2021
+[^16e-1]: Loi du 04.12.1985 sur l'aménagement du territoire et les constructions ([BLV 700.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/700.11?id=94980419-1c0b-4c3e-bf5d-6d37d57902ec))
+[^16e-2]: Loi du 04.12.1985 sur l'aménagement du territoire et les constructions ([BLV 700.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/700.11?id=94980419-1c0b-4c3e-bf5d-6d37d57902ec))
+
+#### Art. 16f
+
+**Plans d'affectation [^16e-3]**
+
+<sup>1</sup> Les plans d'affectation communaux qui concernent, même partiellement, un périmètre compact d'agglomération, un centre cantonal ou un centre régional tels que définis dans le plan directeur cantonal font l'objet d'une planification énergétique dans le cadre de leur élaboration.
+
+<sup>2</sup> Les autres plans d'affectation communaux font l'objet d'une planification énergétique dans le cadre de leur élaboration s'ils comprennent une nouvelle surface brute de plancher de plus de 10'000 m<sup>2</sup>.
+
+<sup>3</sup> Une demande de dispense peut être adressée au service en charge de l'énergie (ci-après : le service) dans le cadre de l'examen préliminaire.
+
+<sup>4</sup> Le service peut dispenser les communes de réaliser une planification énergétique :
+
+- a. sur le territoire communal qui fait déjà l'objet d'une planification énergétique ou ;
+- b. si la planification ne comporte pas d'enjeux énergétiques et environnementaux importants.
+
+[^16e-3]: Modif. 5 du 04.05.2021: Introduction Art. 16f; entrée en vigueur au 01.09.2021
+
+#### Art. 16g
+
+**Contenu des plans d'affectation [^16f-1]**
+
+<sup>1</sup> Les plans d'affectation des communes qui ont réalisé une planification énergétique peuvent contenir dans leur règlement les mesures et les dispositions prévues à l'article 16d alinéa 2.
+
+[^16f-1]: Modif. 5 du 04.05.2021: Introduction Art. 16g; entrée en vigueur au 01.09.2021
 
 ## Titre III Production
 
@@ -285,14 +377,15 @@ décrète
 
 **Cadastres et données énergétiques [^19-1]**
 
-<sup>1</sup> En collaboration avec les services spécialisés et les milieux concernés, le service en charge de l'énergie (ci-après : le service) établit et tient à jour des cadastres publics des rejets de chaleur importants et de leurs possibilités de valorisation, des ressources géothermiques, des possibilités hydrauliques, du potentiel de bois-énergie et des sites adaptés à l'énergie éolienne.
+<sup>1</sup> En collaboration avec les services spécialisés et les milieux concernés, le service en charge de l'énergie (ci-après : le service)[^20-1] établit et tient à jour des cadastres publics des rejets de chaleur importants et de leurs possibilités de valorisation, des ressources géothermiques, des possibilités hydrauliques, du potentiel de bois-énergie et des sites adaptés à l'énergie éolienne.
 
 <sup>2</sup> Les communes qui sont mises à contribution pour la fourniture des données sont associées à l'établissement du cadastre.
 
-<sup>3</sup> Le service gère les données relatives aux cadastres énergétiques, aux inventaires des zones de dessertes et d'approvisionnement énergétique (ainsi que toute autre donnée relative à la politique énergétique cantonale) conformément à la loi sur la géoinformation (LGéo-VD)[^20-1].
+<sup>3</sup> Le service gère les données relatives aux cadastres énergétiques, aux inventaires des zones de dessertes et d'approvisionnement énergétique (ainsi que toute autre donnée relative à la politique énergétique cantonale) conformément à la loi sur la géoinformation (LGéo-VD)[^20-2].
 
 [^19-1]: Modif. 1 du 29.10.2013: Modification Al. t,1; entrée en vigueur au 01.07.2014; Introduction Al. 3; entrée en vigueur au 01.07.2014
-[^20-1]: Loi du 08.05.2012 sur la géoinformation ([BLV 510.62](https://prestations.vd.ch/pub/blv-publication/actes/consolide/510.62?id=2696f358-6634-47e2-819c-abbab608d37e))
+[^20-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^20-2]: Loi du 08.05.2012 sur la géoinformation ([BLV 510.62](https://prestations.vd.ch/pub/blv-publication/actes/consolide/510.62?id=2696f358-6634-47e2-819c-abbab608d37e))
 
 ## Titre IV Distribution
 
@@ -418,7 +511,7 @@ décrète
 
 **Grands consommateurs – Définitions [^28b-2]**
 
-<sup>1</sup> On entend par "grands consommateurs" les consommateurs finaux, localisés sur un site, dont la consommation annuelle réelle ou prévisible de chaleur est supérieure à 5 GWh ou dont la consommation annuelle réelle ou prévisible d'électricité est supérieure à 0,5 GWh.
+<sup>1</sup> On entend par "grands consommateurs" les consommateurs localisés sur un site, dont la consommation annuelle réelle ou prévisible de chaleur est supérieure à 5 GWh ou dont la consommation annuelle réelle ou prévisible d'électricité est supérieure à 0,5 GWh.
 
 <sup>2</sup> Les mesures que les grands consommateurs peuvent être contraints à prendre sont considérées comme raisonnablement exigibles dès lors qu'elles répondent, cumulativement, aux critères suivants :
 
@@ -426,7 +519,7 @@ décrète
 - b. elles sont rentables sur la durée de l'investissement ;
 - c. il n'en résulte pas d'inconvénient majeur au niveau de l'exploitation.
 
-[^28b-2]: Modif. 1 du 29.10.2013: Introduction Art. 28c; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Introduction Art. 16c; entrée en vigueur au 01.09.2021; Introduction Art. 16d; entrée en vigueur au 01.09.2021; Introduction Art. 16e; entrée en vigueur au 01.09.2021; Introduction Art. 16f; entrée en vigueur au 01.09.2021; Introduction Art. 16g; entrée en vigueur au 01.09.2021; Modification Al. 1; entrée en vigueur au 01.09.2021; Introduction Art. 39a, Al. 9; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3, a-b; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3bis; entrée en vigueur au 01.09.2021; Introduction Art. 40c, Al. 3-4; entrée en vigueur au 01.09.2021; Introduction Art. 42a; entrée en vigueur au 01.09.2021
+[^28b-2]: Modif. 1 du 29.10.2013: Introduction Art. 28c; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Modification Al. 1; entrée en vigueur au 01.09.2021
 
 #### Art. 28d
 
@@ -596,7 +689,9 @@ sont interdits.
 
 <sup>8</sup> L'établissement d'un CECB n'est lié à aucune obligation d'assainissement énergétique des bâtiments.
 
-[^39-2]: Modif. 1 du 29.10.2013: Introduction Art. 39a; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Introduction Art. 16c; entrée en vigueur au 01.09.2021; Introduction Art. 16d; entrée en vigueur au 01.09.2021; Introduction Art. 16e; entrée en vigueur au 01.09.2021; Introduction Art. 16f; entrée en vigueur au 01.09.2021; Introduction Art. 16g; entrée en vigueur au 01.09.2021; Introduction Al. 9; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3, a-b; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3bis; entrée en vigueur au 01.09.2021; Introduction Art. 40c, Al. 3-4; entrée en vigueur au 01.09.2021; Introduction Art. 42a; entrée en vigueur au 01.09.2021
+<sup>9</sup> Le service peut accorder des subventions pour l'établissement d'un CECB Plus, même si ce dernier répond à une obligation légale.
+
+[^39-2]: Modif. 1 du 29.10.2013: Introduction Art. 39a; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Introduction Al. 9; entrée en vigueur au 01.09.2021
 [^39a-1]: Règlement du 04.10.2006 d'application de la loi du 16.05.2006 sur l'énergie ([BLV 730.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01.1?id=cdf012a7-8491-4e62-aeee-72bd1bf5a011))
 
 #### Art. 39b
@@ -651,11 +746,16 @@ sont interdits.
 
 <sup>2</sup> Les subventions sont allouées en fonction des priorités fixées par la politique énergétique cantonale.
 
-<sup>3</sup> Les bâtiments qui sont, de manière directe ou indirecte, majoritairement financés par l'Etat ne peuvent pas recevoir de subvention au sens de la présente loi.
+<sup>3</sup> Ne peuvent pas faire l'objet d'une subvention au sens de la présente loi :
+
+- a. les mesures concernant les bâtiments dont l'Etat est entièrement ou pour une part majoritaire propriétaire ;
+- b. les mesures prises dans le cadre de travaux de construction ou de rénovation majoritairement financés par l'Etat.
+
+<sup>3bis</sup> Lorsque le bénéficiaire touche déjà des subventions d'autres services de l'Etat, le service informe ces derniers de la décision d'octroi de la subvention.
 
 <sup>4</sup> Sauf si une disposition particulière de la présente loi ne le prévoit expressément, aucune aide financière ne peut être allouée pour le respect d'obligations légales.
 
-[^40a-1]: Modif. 1 du 29.10.2013: Introduction Art. 40b; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Introduction Art. 16c; entrée en vigueur au 01.09.2021; Introduction Art. 16d; entrée en vigueur au 01.09.2021; Introduction Art. 16e; entrée en vigueur au 01.09.2021; Introduction Art. 16f; entrée en vigueur au 01.09.2021; Introduction Art. 16g; entrée en vigueur au 01.09.2021; Introduction Art. 39a, Al. 9; entrée en vigueur au 01.09.2021; Modification Al. 3; entrée en vigueur au 01.09.2021; Introduction Al. 3, a-b; entrée en vigueur au 01.09.2021; Introduction Al. 3bis; entrée en vigueur au 01.09.2021; Introduction Art. 40c, Al. 3-4; entrée en vigueur au 01.09.2021; Introduction Art. 42a; entrée en vigueur au 01.09.2021
+[^40a-1]: Modif. 1 du 29.10.2013: Introduction Art. 40b; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Modification Al. 3; entrée en vigueur au 01.09.2021; Introduction Al. 3, a-b; entrée en vigueur au 01.09.2021; Introduction Al. 3bis; entrée en vigueur au 01.09.2021
 
 #### Art. 40c
 
@@ -665,7 +765,11 @@ sont interdits.
 
 <sup>2</sup> Les demandes de subvention sont accompagnées de tous les documents utiles ou requis.
 
-[^40b-1]: Modif. 1 du 29.10.2013: Introduction Art. 40c; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Introduction Art. 16c; entrée en vigueur au 01.09.2021; Introduction Art. 16d; entrée en vigueur au 01.09.2021; Introduction Art. 16e; entrée en vigueur au 01.09.2021; Introduction Art. 16f; entrée en vigueur au 01.09.2021; Introduction Art. 16g; entrée en vigueur au 01.09.2021; Introduction Art. 39a, Al. 9; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3, a-b; entrée en vigueur au 01.09.2021; Introduction Art. 40b, Al. 3bis; entrée en vigueur au 01.09.2021; Introduction Al. 3-4; entrée en vigueur au 01.09.2021; Introduction Art. 42a; entrée en vigueur au 01.09.2021
+<sup>3</sup> Le service peut sélectionner au moyen d'une procédure d'appel d'offres public les projets bénéficiant de subventions, notamment ceux portant sur l'utilisation rationnelle et économique de l'énergie, la production d'énergie électrique ou la production d'énergie thermique.
+
+<sup>4</sup> Le Conseil d'Etat fixe le cadre dans lequel les procédures d'appel d'offres public peuvent être mises en place par le service.
+
+[^40b-1]: Modif. 1 du 29.10.2013: Introduction Art. 40c; entrée en vigueur au 01.07.2014 · Modif. 5 du 04.05.2021: Introduction Al. 3-4; entrée en vigueur au 01.09.2021
 [^40c-1]: Règlement du 04.10.2006 d'application de la loi du 16.05.2006 sur l'énergie ([BLV 730.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01.1?id=cdf012a7-8491-4e62-aeee-72bd1bf5a011))
 
 #### Art. 40d
@@ -802,7 +906,7 @@ sont interdits.
 [^40m-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
 [^40m-2]: Modif. 5 du 04.05.2021: Modification ; entrée en vigueur au 01.09.2021
 
-## Titre VII Dispositions pénale et finale
+## Titre VII Dispositions pénale, transitoire et finale
 
 [^40m-2]
 
@@ -836,6 +940,15 @@ sont interdits.
 <sup>7</sup> Le service peut les mettre à la charge d'un tiers si les circonstances le justifient, notamment lorsque celui-ci a rendu nécessaire l'intervention de l'autorité ou a adopté un comportement téméraire ou abusif.
 
 [^41-3]: Modif. 1 du 29.10.2013: Modification Al. 1; entrée en vigueur au 01.07.2014; Introduction Al. 2-7; entrée en vigueur au 01.07.2014
+
+#### Art. 42a
+
+**Dispositions transitoires de la loi modifiante du 4 mai 2021 [^42-1]**
+
+<sup>1</sup> Les plans d'affectation communaux qui ont déjà fait l'objet d'un examen préliminaire au sens de l'article 36 LATC[^42a-1] à l'entrée en vigueur de la loi modifiante du 4 mai 2021 ne sont pas soumis aux obligations des alinéas 1 et 2 de l'article 16f.
+
+[^42-1]: Modif. 5 du 04.05.2021: Introduction tArt; entrée en vigueur au 01.09.2021; Introduction Al. 1; entrée en vigueur au 01.09.2021; Introduction Art. 42a; entrée en vigueur au 01.09.2021
+[^42a-1]: Loi du 04.12.1985 sur l'aménagement du territoire et les constructions ([BLV 700.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/700.11?id=94980419-1c0b-4c3e-bf5d-6d37d57902ec))
 
 #### Art. 43
 
