@@ -3,29 +3,32 @@ canton: VS
 number: "173.101"
 title: Règlement du ministère public du canton du Valais
 language: fr
-version: 2011-01-03
-corrected: 2017-09-01
-version_adopted: 2011-01-03
+version: 2021-09-01
+valid_until: 2022-11-30
+version_adopted: 2021-09-01
 adopted: 2011-01-03
 in_force: 2011-01-03
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.101"
-pdf: "https://lex.vs.ch/api/fr/versions/641/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2983/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement du ministère public du canton du Valais
 
-du 3 janvier 2011
+du 03.01.2011 (état 01.09.2021)
 
 Le bureau du ministère public du canton du Valais
 
-vu l'article 2 de la loi sur l'organisation des conseils et les rapports entre les pouvoirs du 28 mars 1996, la loi sur l'organisation de la justice du 11 février 2009 (LOJ), la législation cantonale relative à l'application du Code pénal suisse et du Code de procédure pénale suisse.
+vu l'article 2 de la loi sur l'organisation des conseils et les rapports entre les pouvoirs du 28 mars 1996 (LOCRP);
+
+vu la loi sur l'organisation de la justice du 11 février 2009 (LOJ);
+
+vu la législation cantonale relative à l'application du Code pénal suisse et du Code de procédure pénale suisse,
 
 arrête:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
@@ -51,21 +54,54 @@ arrête:
 
 <sup>4</sup> Sauf disposition contraire, le terme direction de l'office vise le procureur général et le procureur général adjoint pour l'ensemble des offices du canton, ainsi que le premier procureur pour l'office régional concerné.
 
-### Chapitre 2: Organisation interne
+#### Art. 2a
+
+**Nominations**
+
+<sup>1</sup> Le bureau du Ministère public procède à toutes les nominations qui ne relèvent pas d'une autre autorité.
+
+<sup>2</sup> Il met, en principe, au concours les postes vacants dans le Bulletin officiel. Il peut, en outre, procéder à la mise au concours par d'autres moyens notamment par une publication dans les principaux quotidiens. Si le résultat de la mise au concours est insuffisant, il peut être renoncé à repourvoir le poste ou celui-ci peut être repourvu par voie d'appel d'offres ou par une nouvelle mise au concours.
+
+<sup>3</sup> Lors d'une modification du taux d'activité ou pour un engagement limité dans le temps ou une affaire, la mise au concours publique n'est pas obligatoire.
+
+<sup>4</sup> Les nominations de procureurs, procureurs extraordinaires et substituts, ainsi que d'huissiers, sont publiées dans le Bulletin officiel.
+
+#### Art. 2b
+
+**Renominations**
+
+<sup>1</sup> Dans la mesure où il n'y a pas de motifs de refus de nouvelle nomination, les procureurs, procureurs extraordinaires et substituts nommés sont reconduits dans leur fonction pour une durée de quatre ans avec effet au 1<sup>er</sup> janvier suivant la réélection du bureau du Ministère public.
+
+<sup>2</sup> En cas de refus de renomination, une décision écrite et motivée doit être notifiée à l'intéressé six mois avant la fin de la période administrative. L'intéressé doit avoir la possibilité de se déterminer préalablement.
+
+#### Art. 2c
+
+**Assermentation et secret de fonction**
+
+<sup>1</sup> Le bureau du Ministère public assermente les procureurs, procureurs extraordinaires et substituts, ainsi que les huissiers après leur nomination et après chaque renomination.
+
+<sup>2</sup> La direction de l'office instruit le personnel administratif et les stagiaires sur le secret de fonction lors de leur entrée en fonction.
+
+#### Art. 2d
+
+**Démission des magistrats**
+
+<sup>1</sup> Les procureurs et substituts peuvent présenter leur démission en tout temps auprès de l’autorité de nomination. Ils observent un préavis de 6 mois pour la fin d’un mois.
+
+<sup>2</sup> L'autorité de nomination peut réduire ce délai.
+
+## 2 Organisation interne
 
 #### Art. 3
 
 **Compétence de l'office central**
 
-Peuvent être considérés comme des cas d'une importance particulière, outre ceux énoncés à l'article 7 LACPP, notamment les cas suivants:
+<sup>1</sup> Peuvent être considérés comme des cas d'une importance particulière, outre ceux énoncés à l'article 7 LACPP, notamment les cas suivants:
 
-- les infractions en série qui appellent un traitement uniforme;
-
-- les infractions qui doivent être attribuées à des procureurs ou collaborateurs spécialisés du ministère public central;
-
-- les infractions en rapport avec des événements majeurs;
-
-- les infractions impliquant des magistrats ou des membres de la police cantonale valaisanne.
+- a) les infractions en série qui appellent un traitement uniforme;
+- b) les infractions qui doivent être attribuées à des procureurs ou collaborateurs spécialisés du ministère public central;
+- c) les infractions en rapport avec des événements majeurs;
+- d) les infractions impliquant des magistrats ou des membres de la police cantonale valaisanne.
 
 #### Art. 4
 
@@ -85,7 +121,7 @@ Peuvent être considérés comme des cas d'une importance particulière, outre c
 
 <sup>3</sup> Le procureur général peut nommer un coordinateur cantonal pour des domaines spécialisés.
 
-<sup>4</sup> Le bureau du ministère public désigne les procureurs qui assument les tâches du ministère public des mineurs (art. 21 de la procédure pénale applicable aux mineurs; art. 26 al. 2 let. c LOJ).
+<sup>4</sup> Le bureau du ministère public désigne les procureurs qui assument les tâches du ministère public des mineurs (art. 21 de la loi fédérale sur la procédure pénale applicable aux mineurs et 26b al. 2 LOJ).
 
 #### Art. 6
 
@@ -119,11 +155,11 @@ Peuvent être considérés comme des cas d'une importance particulière, outre c
 
 **Collaboration avec la police**
 
-Le procureur général précise dans des directives les règles relatives à la collaboration des procureurs avec la police.
+<sup>1</sup> Le procureur général précise dans des directives les règles relatives à la collaboration des procureurs avec la police.
 
 #### Art. 10
 
-**Permanence (Service de piquet)**
+**Permanence (service de piquet)**
 
 <sup>1</sup> Les procureurs des offices régionaux assument la permanence à tour de rôle. Le procureur général peut également ordonner une permanence de l'office central.
 
@@ -133,13 +169,13 @@ Le procureur général précise dans des directives les règles relatives à la 
 
 **Entraide judiciaire internationale**
 
-Le procureur général arrête les directives relatives aux exigences prévalant dans les commissions rogatoires en matière d'entraide judiciaire internationale (art. 16 LACP et art. 354 ss CPP).
+<sup>1</sup> Le procureur général arrête les directives relatives aux exigences prévalant dans les commissions rogatoires en matière d'entraide judiciaire internationale (art. 16 LACPP et 54 ss CPP).
 
 #### Art. 12
 
 **Entraide judiciaire nationale**
 
-<sup>1</sup> Les requêtes d'entraide judiciaire nationales se font en principe par voie de communication directe entre les ministères publics concernés (art. 15 al.1 LACCP et art. 46 CPP).
+<sup>1</sup> Les requêtes d'entraide judiciaire nationales se font en principe par voie de communication directe entre les ministères publics concernés (art. 15 al. 1 LACPP et 46 CPP).
 
 <sup>2</sup> Le procureur général arrête des directives spécifiques à ce sujet.
 
@@ -155,7 +191,7 @@ Le procureur général arrête les directives relatives aux exigences prévalant
 
 **Administration et tenue des dossiers, comptabilité**
 
-Le procureur général arrête des directives relatives à l'administration et à la tenue des dossiers. Il arrête les directives sur la comptabilité dans les offices.
+<sup>1</sup> Le procureur général arrête des directives relatives à l'administration et à la tenue des dossiers. Il arrête les directives sur la comptabilité dans les offices.
 
 #### Art. 15
 
@@ -205,7 +241,23 @@ Le procureur général arrête des directives relatives à l'administration et �
 
 <sup>7</sup> Ne sont pas soumis à autorisation la publication d'ouvrages scientifiques, la participation à des projets scientifiques, l'activité de conférencier à l'occasion de manifestations scientifiques, la collaboration à des commissions scientifiques ou à des conférences, les conseils juridiques fournis par complaisance au sein du cercle familial ou au profit de personnes privées ainsi que des activités privées de type artistique ou scientifique. Toutefois, de telles activités ne sauraient entraver le travail de la fonction.
 
-<sup>8</sup> Si l'indemnité annuelle nette provenant des activités accessoires est supérieure au montant représentant les 20 pour cent du revenu annuel de travail, l'excédent devra être versé à la caisse de l'Etat. Cette obligation de cession ne vaut pas pour l'indemnité de travaux qui sont fournis durant le temps libre en cas d'emploi à temps partiel ou durant le congé octroyé ni pour celle provenant de droits d'auteur ou de licence qui découlent d'une activité artistique ou scientifique privée.
+<sup>8</sup> Si l'indemnité annuelle nette provenant des activités accessoires est supérieure au montant représentant les 20 pour cent du revenu annuel net de travail, l'excédent devra être versé à la caisse de l'Etat. Cette obligation de cession ne vaut pas pour l'indemnité de travaux qui sont fournis durant le temps libre en cas d'emploi à temps partiel ou durant le congé octroyé ni pour celle provenant de droits d'auteur ou de licence qui découlent d'une activité artistique ou scientifique privée.
+
+#### Art. 18a
+
+**Registre des liens d'intérêts**
+
+<sup>1</sup> Le registre des liens d'intérêts des magistrats du ministère public comprend:
+
+- a) son appartenance aux organes de direction ou de surveillance de corporations, entreprises, établissements ou fondations de droit privé ou de droit public;
+- b) les fonctions qu'il occupe au sein de commissions ou d'autres organes de la Confédération, du canton et des communes;
+- c) les activités accessoires.
+
+<sup>2</sup> Les modifications éventuelles sont annoncées dès qu'elles se produisent.
+
+<sup>3</sup> Les magistrats par la signature du formulaire des liens d'intérêts reconnaissent avoir déclaré tous leurs liens d'intérêts. Le bureau du Ministère public statue sur les cas douteux d'annonce des liens d'intérêts.
+
+<sup>4</sup> Le registre est publié sur le site officiel du Ministère public du canton du Valais.
 
 #### Art. 19
 
@@ -217,7 +269,7 @@ Le procureur général arrête des directives relatives à l'administration et �
 
 #### Art. 20
 
-**Personnel administratif / secrétariat**
+**Personnel administratif - Secrétariat**
 
 <sup>1</sup> Chaque office dispose d'un secrétariat accessible au public dont la gestion incombe à la direction de l'office.
 
@@ -237,11 +289,11 @@ Le procureur général arrête des directives relatives à l'administration et �
 
 <sup>9</sup> Les dispositions cantonales régissant le statut des fonctionnaires et les employés de l'Etat du Valais s'appliquent au personnel administratif.
 
-### Chapitre 3: Surveillance et lutte uniforme contre la criminalité
+## 3 Surveillance et lutte uniforme contre la criminalité
 
 #### Art. 21
 
-Contrôle préalable des ordonnances de classement, de non-entrée en matière et de suspension ainsi que des ordonnances pénales
+**Contrôle préalable des ordonnances de classement, de non-entrée en matière et de suspension ainsi que des ordonnances pénales**
 
 <sup>1</sup> L'approbation par la direction de l'office des ordonnances de classement, de non-entrée en matière et de suspension ainsi que des ordonnances pénales doit intervenir dans un délai de dix jours (art. 36 LACPP).
 
@@ -255,21 +307,19 @@ Contrôle préalable des ordonnances de classement, de non-entrée en matière e
 
 <sup>1</sup> Afin de garantir une lutte uniforme contre la criminalité, le procureur général émet des recommandations relatives à la fixation de la peine dans le domaine des infractions de masse telles la circulation routière, les stupéfiants, le droit des étrangers, la pornographie sur internet, etc.
 
-<sup>2</sup> Il s'inspire pour ce faire notamment des recommandations relatives à la fixation de la peine de la Conférence des autorités de poursuite pénale de la Suisse (CAPS) et de la Conférence des directeurs de département cantonaux de justice et de police (CCDJP).
+<sup>2</sup> Il s'inspire pour ce faire notamment des recommandations relatives à la fixation de la peine de la Conférence des procureurs de Suisse (CPS) et de la Conférence des directeurs de département cantonaux de justice et de police (CCDJP).
 
 <sup>3</sup> Le procureur général peut fixer des priorités en matière de poursuite pénale.
 
-### Chapitre 4: Consultation des dossiers, informations des autorités
-
-de surveillance, relations avec les médias
+## 4 Consultation des dossiers - Informations des autorités de surveillance - Relations avec les médias
 
 #### Art. 23
 
-Consultation des dossiers, informations des autorités de surveillance sur les cas de surveillance
+**Consultation des dossiers, informations des autorités de surveillance sur les cas de surveillance**
 
 <sup>1</sup> Le ministère public peut attirer l'attention des autorités, qui doivent pouvoir accéder au dossier pénal pour exercer leur devoir de surveillance légale, de leur droit de consulter le dossier au sens de l'article 101 alinéa 2 CPP.
 
-<sup>2</sup> La décision relative à la consultation des dossiers (art. 102/108 CPP) ou à l'information d'autorités (art. 75 CPP, art. 22 al. 2 de la loi du 9 octobre 2008 sur l'information du public, la protection des données et l'archivage / LIPDA) revêt en règle générale la forme d'une décision sujette à recours (art. 80 et 393 CPP).
+<sup>2</sup> La décision relative à la consultation des dossiers (art. 102 et 108 CPP) ou à l'information d'autorités (art. 75 CPP et 22 al. 3 de la loi sur l'information du public, la protection des données et l'archivage; LIPDA) revêt en règle générale la forme d'une décision sujette à recours (art. 80 et 393 CPP).
 
 #### Art. 24
 
@@ -287,7 +337,7 @@ Consultation des dossiers, informations des autorités de surveillance sur les c
 
 <sup>6</sup> Le procureur général édicte des directives spécifiques pour l'information du public et les relations avec les médias.
 
-### Chapitre 5: Archivage
+## 5 Archivage
 
 #### Art. 25
 
@@ -301,33 +351,47 @@ Consultation des dossiers, informations des autorités de surveillance sur les c
 
 <sup>4</sup> La direction de l'office attribue l'archivage des dossiers liquidés au personnel administratif. Le procureur en charge du dossier surveille l'archivage.
 
-<sup>5</sup> Le procureur général - contrôle l'application des dispositions relatives à l'archivage;
+<sup>5</sup> Le procureur général:
 
-- arrête les directives nécessaires pour la mise en oeuvre de l'archivage;
-
-- consulte, en cas de besoin, les archives cantonales en leur qualité d'organe spécialisé.
+- a) contrôle l'application des dispositions relatives à l'archivage;
+- b) arrête les directives nécessaires pour la mise en oeuvre de l'archivage;
+- c) consulte, en cas de besoin, les archives de l'Etat du Valais en leur qualité d'organe spécialisé.
 
 #### Art. 26
 
-**Dossiers ayant valeur archivistique et durée de conservation**
+**Durée de conservation des dossiers**
 
-<sup>1</sup> Les dossiers pénaux suivants sont conservés dans les archives du ministère public pendant dix ans à compter à partir de la liquidation définitive de la procédure (art. 369 CP et 103 al. 1 CPP) - les dossiers des procédures liquidées par décision de non-entrée en matière, par décision de classement ou par ordonnance pénale, qui ne sont pas restitués aux parties (art. 103 al. 2 CPP);
+<sup>1</sup> En principe, les dossiers pénaux sont conservés au moins jusqu'à l'expiration des délais de prescription de l'action pénale et de la peine (art. 103 al. 1 CPP).
 
-- les dossiers relatifs aux décisions ultérieures indépendantes (art. 363 al. 2 CPP);
+- a) …
+- b) …
+- c) …
 
-- les dossiers constitués dans des procédures relatives à la délimitation de la compétence et à la fixation du for ainsi qu'en matière d'entraide judiciaire;
+<sup>2</sup> Les dossiers pénaux suivants sont toutefois conservés dans les archives du ministère public pendant 20 ans à compter de la liquidation définitive de la procédure:
 
-<sup>2</sup> Les dossiers administratifs importants pour l'historique et l'évolution du ministère public sont archivés dans la mesure où ils ont valeur archivistique.
+- a) les dossiers des procédures liquidées par ordonnances de non-entrée en matière, par ordonnances de classement ou par ordonnances pénales, qui ne sont pas restitués aux parties (art. 103 al. 2 CPP);
+- b) les dossiers relatifs aux ordonnances ultérieures indépendantes (art. 363 al. 2 CPP);
+- c) les dossiers constitués dans des procédures relatives à la délimitation de la compétence et à la fixation du for ainsi qu’en matière d’entraide judiciaire.
 
-<sup>3</sup> Les demandes tendant à obtenir la consultation des dossiers sont également archivées.
+<sup>3</sup> Dans la mesure où ils ont une valeur archivistique, les dossiers pénaux présentant un intérêt historique ou scientifique sont conservés pendant 30 ans. Ont une valeur archivistique notamment les dossiers d’homicide, ainsi que ceux dans lesquels la prescription est de 30 ans.
+
+<sup>4</sup> Les dossiers imprescriptibles font l’objet d’un traitement archivistique spécifique. Ils ont une durée de conservation indéterminée afin de permettre une éventuelle reprise de la procédure.
+
+<sup>5</sup> Les dossiers administratifs importants pour l’historique et l’évolution du ministère public sont archivés dans la mesure où ils ont une valeur archivistique.
 
 #### Art. 27
 
-**Destruction ou transfert aux archives cantonales**
+**Destruction ou transfert aux archives de l’Etat du Valais**
 
-<sup>1</sup> Le délai de conservation de l'article 26 alinéa 1 du présent règlement écoulé, le dossier concerné sera détruit.
+<sup>1</sup> Le délai de conservation de l’article 26 écoulé, les dossiers ne devant pas être versés aux archives de l’Etat du Valais sont détruits.
 
-<sup>2</sup> Les dossiers qui ont une valeur historique ou qui présentent un intérêt scientifique seront proposés, après l'écoulement du délai de conservation, aux archives cantonales (art. 42 LIPDA).
+<sup>2</sup> A l’exception des dossiers liquidés par ordonnances pénales, ceux qui ont une valeur archivistique sont versés, après l’écoulement du délai de conservation de 30 ans, aux archives de l’Etat du Valais (art. 42 LIPDA).
+
+<sup>3</sup> Les dossiers liquidés par ordonnances pénales sont détruits après le délai de conservation de 20 ans pour les cas ordinaires et de 30 ans pour ceux qui ont une valeur archivistique.
+
+<sup>4</sup> La destruction de tout dossier est soumise à l’autorisation préalable des archives de l’Etat du Valais.
+
+<sup>5</sup> A des fins historiques, un échantillonnage de dossiers est, en outre, versé aux archives de l’Etat du Valais après le délai de conservation de l’article 26. Il comprend les 5 premiers dossiers liquidés chaque mois dans chaque office indépendamment du type d’affaires. Les causes transmises aux tribunaux ne sont pas comprises dans cet échantillonnage.
 
 #### Art. 28
 
@@ -337,10 +401,10 @@ Consultation des dossiers, informations des autorités de surveillance sur les c
 
 <sup>2</sup> Les dispositions des articles 369 CP et 103 CPP, ainsi que celles de la loi sur l'information du public, la protection des données et l'archivage s'appliquent à la consultation des dossiers archivés du 9 octobre 2008.
 
-### Chapitre 6: Entrée en vigueur
+## 6 Entrée en vigueur
 
 #### Art. 29
 
-Le présent règlement entre en vigueur le 3 janvier 2011.
+<sup>1</sup> Le présent règlement entre en vigueur le 3 janvier 2011.
 
-Ainsi adopté en séance du bureau du ministère public du 3 janvier 2011. Le procureur général du canton du Valais, Jean-Pierre Gross
+RCV BO/Abl. 2/2011

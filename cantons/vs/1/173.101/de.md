@@ -3,33 +3,32 @@ canton: VS
 number: "173.101"
 title: Reglement der Staatsanwaltschaft des Kantons Wallis
 language: de
-version: 2011-01-03
-corrected: 2017-09-01
-version_adopted: 2011-01-03
+version: 2021-09-01
+valid_until: 2022-11-30
+version_adopted: 2021-09-01
 adopted: 2011-01-03
 in_force: 2011-01-03
 url: "https://lex.vs.ch/app/de/texts_of_law/173.101"
-pdf: "https://lex.vs.ch/api/de/versions/641/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2983/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement der Staatsanwaltschaft des Kantons Wallis
 
-vom 3. Januar 2011
+vom 03.01.2011 (Stand 01.09.2021)
 
 Das Büro der Staatsanwaltschaft
 
-eingesehen Artikel 2 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten (GORBG) vom 28. März 1996;
+eingesehen Artikel 2 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28. März 1996 (GORBG);
 
-das Gesetz über die Rechtspflege vom 11. Februar 2009 (RPflG);
+eingesehen das Gesetz über die Rechtspflege vom 11. Februar 2009 (RPflG);
 
-die kantonale Gesetzgebung über die Einführung des Schweizerischen Strafgesetzbuches und der Schweizerischen Strafprozessordnung,
+eingesehen die kantonale Gesetzgebung über die Einführung des Schweizerischen Strafgesetzbuches und der Schweizerischen Strafprozessordnung,
 
 beschliesst:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -55,21 +54,54 @@ beschliesst:
 
 <sup>4</sup> Soweit nicht anders bestimmt, sind mit der Bezeichnung Amtsleitung der Generalstaatsanwalt und sein Stellvertreter für alle Ämter des Kantons und der Oberstaatsanwalt für das betreffende Regionale Amt gemeint.
 
-### 2. Kapitel: Interne Organisation
+#### Art. 2a
+
+**Ernennungen**
+
+<sup>1</sup> Alle Ernennungen, die nicht einer anderen Behörde vorbehalten bleiben, werden durch das Büro der Staatsanwaltschaft vorgenommen.
+
+<sup>2</sup> Grundsätzlich schreibt das Büro freie Stellen im Amtsblatt aus. Ausserdem kann die Ausschreibung auf anderen Wegen wie der Publikation in der Tagespresse erfolgen. Befriedigt das Ausschreibungsergebnis nicht, kann von einer Ernennung Umgang genommen, der Posten auf dem Berufungsweg besetzt oder nochmals ausgeschrieben werden.
+
+<sup>3</sup> Bei Veränderung des Beschäftigungsgrades oder für Anstellungen von kurzer Dauer kann von einer öffentlichen Ausschreibung abgesehen werden.
+
+<sup>4</sup> Die Ernennung von Staatsanwälten, ausserordentlichen Staatsanwälten und Substituten sowie der Weibel wird im Amtsblatt publiziert.
+
+#### Art. 2b
+
+**Wiederernennungen**
+
+<sup>1</sup> Sofern keine Gründe für eine Nichtwiederernennung vorliegen, werden alle ernannten Staatsanwälte, ausserordentliche Staatsanwälte und Substitute jeweils auf den 1. Januar, welcher der Wiederwahl des Büros der Staatsanwaltschaft folgt, für die Dauer von vier Jahren wieder ernannt.
+
+<sup>2</sup> Nichtwiederernennungen werden der betroffenen Person sechs Monate im Voraus schriftlich und begründet eröffnet. Sie muss vorgängig die Gelegenheit zur Stellungnahme haben.
+
+#### Art. 2c
+
+**Vereidigung und Amtsgeheimnis**
+
+<sup>1</sup> Das Büro der Staatsanwaltschaft vereidigt alle Staatsanwälte, ausserordentliche Staatsanwälte und Substituten sowie die Weibel nach ihrer Ernennung sowie nach jeder Wiederernennung.
+
+<sup>2</sup> Die Amtsleitung informiert das administrative Personal und die Praktikanten bei Amtsantritt über ihre Geheimhaltungspflicht.
+
+#### Art. 2d
+
+**Demission von Magistraten**
+
+<sup>1</sup> Die Staatsanwälte und Substituten können jederzeit bei der Ernennungsbehörde ihre Kündigung einreichen. Sie haben dabei eine Frist von 6 Monaten auf Ende jedes Monats zu beachten.
+
+<sup>2</sup> Die Ernennungsbehörde kann diese Frist verkürzen.
+
+## 2 Interne Organisation
 
 #### Art. 3
 
 **Zuständigkeit des Zentralen Amtes**
 
-Als Fälle von besonderer Bedeutung gelten ausser den in Artikel 7 EGStPO genannten Fällen insbesondere auch:
+<sup>1</sup> Als Fälle von besonderer Bedeutung gelten ausser den in Artikel 7 EGStPO genannten Fällen insbesondere auch:
 
-- Serienstraftaten, die einer einheitlichen Behandlung bedürfen;
-
-- Straftaten, die spezialisierten Staatsanwälten oder Mitarbeitern bei der Zentralen Staatsanwaltschaft zuzuweisen sind;
-
-- Straftaten im Zusammenhang mit Grossereignissen;
-
-- Straftaten, in die Magistraten oder Mitglieder der Walliser Kantonspolizei involviert sind.
+- a) Serienstraftaten, die einer einheitlichen Behandlung bedürfen;
+- b) Straftaten, die spezialisierten Staatsanwälten oder Mitarbeitern bei der Zentralen Staatsanwaltschaft zuzuweisen sind;
+- c) Straftaten im Zusammenhang mit Grossereignissen;
+- d) Straftaten, in die Magistraten oder Mitglieder der Walliser Kantonspolizei involviert sind.
 
 #### Art. 4
 
@@ -89,7 +121,7 @@ Als Fälle von besonderer Bedeutung gelten ausser den in Artikel 7 EGStPO genann
 
 <sup>3</sup> Der Generalstaatsanwalt kann für spezialisierte Bereiche einen kantonalen Koordinator einsetzen.
 
-<sup>4</sup> Das Büro der Staatsanwaltschaft bezeichnet die Staatsanwälte, welche die Aufgaben der Jugendstaatsanwaltschaft wahrnehmen (Art. 21 Jugendstrafprozessordnung; Art. 26 Abs. 2 Bst. c RPflG).
+<sup>4</sup> Das Büro der Staatsanwaltschaft bezeichnet die Staatsanwälte, welche die Aufgaben der Jugendstaatsanwaltschaft wahrnehmen (Art. 21 Schweizerische Jugendstrafprozessordnung und 26b Abs. 2 RPflG).
 
 #### Art. 6
 
@@ -123,7 +155,7 @@ Als Fälle von besonderer Bedeutung gelten ausser den in Artikel 7 EGStPO genann
 
 **Zusammenarbeit mit der Polizei**
 
-Der Generalstaatsanwalt regelt die Zusammenarbeit der Staatsanwälte mit der Polizei in den Weisungen näher.
+<sup>1</sup> Der Generalstaatsanwalt regelt die Zusammenarbeit der Staatsanwälte mit der Polizei in den Weisungen näher.
 
 #### Art. 10
 
@@ -137,7 +169,7 @@ Der Generalstaatsanwalt regelt die Zusammenarbeit der Staatsanwälte mit der Pol
 
 **Internationale Rechtshilfe**
 
-Der Generalstaatsanwalt erlässt Weisungen über die Anforderungen an Rechtshilfeersuchen in Fällen internationaler Rechtshilfe (Art. 16 EGStPO, Art. 354 ff. StPO).
+<sup>1</sup> Der Generalstaatsanwalt erlässt Weisungen über die Anforderungen an Rechtshilfeersuchen in Fällen internationaler Rechtshilfe (Art. 16 EGStPO und 54 ff. StPO).
 
 #### Art. 12
 
@@ -153,13 +185,13 @@ Der Generalstaatsanwalt erlässt Weisungen über die Anforderungen an Rechtshilf
 
 <sup>1</sup> Der Generalstaatsanwalt erlässt spezielle Weisungen über die Behandlung von Konflikten über die Zuständigkeit und den Gerichtsstand.
 
-<sup>2</sup> Er entscheidet in innerkantonalen Konflikten über den Gerichtsstand zwischen den regionalen Ämtern (Art. 40 Abs. 1 StPO; Art. 7 lit. c EGStPO).
+<sup>2</sup> Er entscheidet in innerkantonalen Konflikten über den Gerichtsstand zwischen den regionalen Ämtern (Art. 40 Abs. 1 StPO und Art. 7 Bst. c EGStPO).
 
 #### Art. 14
 
 **Dossierverwaltung, Dossierführung und Buchhaltung**
 
-Der Generalstaatsanwalt bestimmt in den Weisungen, wie die Dossiers zu verwalten und zu führen sind. Er erlässt Weisungen für die Buchhaltung in den Ämtern.
+<sup>1</sup> Der Generalstaatsanwalt bestimmt in den Weisungen, wie die Dossiers zu verwalten und zu führen sind. Er erlässt Weisungen für die Buchhaltung in den Ämtern.
 
 #### Art. 15
 
@@ -209,7 +241,23 @@ Der Generalstaatsanwalt bestimmt in den Weisungen, wie die Dossiers zu verwalten
 
 <sup>7</sup> Keiner Bewilligung bedürfen die Publikation von wissenschaftlichen Werken, die Beteiligung an wissenschaftlichen Projekten, die Referententätigkeit an wissenschaftlichen Veranstaltungen, die Mitarbeit in wissenschaftlichen Kommissionen oder an Konferenzen und die Rechtsberatung im Familienkreis oder von Privatpersonen aus Gefälligkeit sowie private künstlerische oder wissenschaftliche Tätigkeiten; durch solche Tätigkeiten darf die Arbeitsleistung für das Amt aber nicht leiden.
 
-<sup>8</sup> Übersteigt die jährliche Nettoentschädigung für die Nebenbeschäftigungen 20 Prozent des jährlichen Besoldungsbetrages, so ist der Mehrbetrag der Staatskasse abzuliefern. Diese Ablieferungspflicht gilt nicht für die Entschädigung von Arbeiten, die bei Beurlaubung oder Teilzeitbeschäftigung in der Freizeit geleistet werden, oder für Urheberrechte und Lizenzgebühren aus privater künstlerischer oder wissenschaftlicher Tätigkeit.
+<sup>8</sup> Übersteigt die jährliche Nettoentschädigung für die Nebenbeschäftigungen 20 Prozent des jährlichen Nettobesoldungsbetrages, so ist der Mehrbetrag der Staatskasse abzuliefern. Diese Ablieferungspflicht gilt nicht für die Entschädigung von Arbeiten, die bei Beurlaubung oder Teilzeitbeschäftigung in der Freizeit geleistet werden, oder für Urheberrechte und Lizenzgebühren aus privater künstlerischer oder wissenschaftlicher Tätigkeit.
+
+#### Art. 18a
+
+**Register der Interessenverbindungen**
+
+<sup>1</sup> Das Register der Interessenverbindungen der Magistraten der Staatsanwaltschaft umfasst:
+
+- a) seine Zugehörigkeit zu Führungs- und Aufsichtsgremien von Körperschaften, Unternehmen, Anstalten oder Stiftungen des privaten und des öffentlichen Rechts;
+- b) die Funktionen, die er in Kommissionen oder anderen Organen der Eidgenossenschaft, des Kantons und der Gemeinde ausübt;
+- c) die Nebenbeschäftigungen.
+
+<sup>2</sup> Allfällige Änderungen sind bei deren Eintreten bekannt zu geben.
+
+<sup>3</sup> Mit der Unterschrift auf dem Formular der Interessenverbindungen bestätigen die Magistraten alle ihre Interssenverbindungen bekannt gegeben zu haben. Das Büro der Staatsanwaltschaft entscheidet in Zweifelsfällen über die gemeldeten Interessenverbindungen.
+
+<sup>4</sup> Das Register wird auf der offiziellen Seite der Staatsanwaltschaft des Kantons Wallis publiziert.
 
 #### Art. 19
 
@@ -221,7 +269,7 @@ Der Generalstaatsanwalt bestimmt in den Weisungen, wie die Dossiers zu verwalten
 
 #### Art. 20
 
-**Administratives Personal / Sekretariat**
+**Administratives Personal - Sekretariat**
 
 <sup>1</sup> Jedes Amt verfügt über ein dem Publikum zugängliches Sekretariat, deren Führung der Amtsleitung obliegt.
 
@@ -241,15 +289,13 @@ Der Generalstaatsanwalt bestimmt in den Weisungen, wie die Dossiers zu verwalten
 
 <sup>9</sup> Für das administrative Personal gelten die kantonalen Bestimmungen über die Beamten und Angestellten des Staates Wallis.
 
-### 3. Kapitel: Aufsicht und einheitliche Kriminalitätsbekämpfung
+## 3 Aufsicht und einheitliche Kriminalitätsbekämpfung
 
 #### Art. 21
 
-Vorkontrolle von Einstellungs-, Nichtanhandnahme- und Sistierungsverfügungen sowie von Strafbefehlen
+**Vorkontrolle von Einstellungs-, Nichtanhandnahme- und Sistierungsverfügungen sowie von Strafbefehlen**
 
-<sup>1</sup> Die Genehmigung von Einstellungs-, Nichtanhandnahme- und Sistierungsverfügungen sowie von Strafbefehlen durch die Amtsleitung (Art.
-
-36 EGStPO) hat innert zehn Tagen zu erfolgen.
+<sup>1</sup> Die Genehmigung von Einstellungs-, Nichtanhandnahme- und Sistierungsverfügungen sowie von Strafbefehlen durch die Amtsleitung (Art. 36 EGStPO) hat innert zehn Tagen zu erfolgen.
 
 <sup>2</sup> Die Genehmigung ist ins Aktendossier aufzunehmen.
 
@@ -261,21 +307,19 @@ Vorkontrolle von Einstellungs-, Nichtanhandnahme- und Sistierungsverfügungen so
 
 <sup>1</sup> Der Generalstaatsanwalt erlässt zur Gewährleistung einer einheitlichen Kriminalitätsbekämpfung (Art. 6 Abs. 1 EGStPO) Empfehlungen für Strafmasse bei Massendelikten (wie Strassenverkehr, Betäubungsmittel, Ausländerrecht, Internet-Pornographie usw.).
 
-<sup>2</sup> Er folgt dabei den Strafmassempfehlungen nationaler Institutionen, namentlich der Konferenz der Strafverfolgungsbehörden der Schweiz oder der Konferenz der Kantonalen Justiz- und Polizeidirektoren.
+<sup>2</sup> Er folgt dabei den Strafmassempfehlungen nationaler Institutionen, namentlich der Schweizerischen Staatsanwälte-Konferenz (SSK) oder der Konferenz der Kantonalen Justiz- und Polizeidirektorinnen und –direktoren (KKJPD).
 
 <sup>3</sup> Der Generalstaatsanwalt kann allgemeine Verfolgungsprioritäten festlegen.
 
-### 4. Kapitel: Akteneinsicht, Mitteilungen an Aufsichtsbehörden
-
-und Beziehung zu den Medien
+## 4 Akteneinsicht, Mitteilungen an Aufsichtsbehörden und Beziehung zu den Medien
 
 #### Art. 23
 
-Akteneinsicht, Mitteilungen gegenüber Aufsichtsbehörden über Aufsichtstatbestände
+**Akteneinsicht, Mitteilungen gegenüber Aufsichtsbehörden über Aufsichtstatbestände**
 
 <sup>1</sup> Die Staatsanwaltschaft kann Behörden, die Strafakten für die Erfüllung ihrer gesetzlichen Aufsichtspflicht benötigen, auf das behördliche Akteneinsichtsrecht nach Artikel 101 Absatz 2 StPO hinweisen.
 
-<sup>2</sup> Der Entscheid über die Akteneinsicht (Art. 102/108 StPO) oder über die Mitteilung an eine andere Behörde (Art. 75 StPO; Art. 22 Abs. 3 Gesetz vom 9. Oktober 2008 betreffend die Information der Öffentlichkeit, den Datenschutz und die Archivierung) ergeht in der Regel in Form einer beschwerdefähigen Verfügung (Art. 80 und 393 StPO).
+<sup>2</sup> Der Entscheid über die Akteneinsicht (Art. 102 und 108 StPO) oder über die Mitteilung an eine andere Behörde (Art. 75 StPO und 22 Abs. 3 Gesetz betreffend die Information der Öffentlichkeit, den Datenschutz und die Archivierung; GIDA) ergeht in der Regel in Form einer beschwerdefähigen Verfügung (Art. 80 und 393 StPO).
 
 #### Art. 24
 
@@ -293,7 +337,7 @@ Akteneinsicht, Mitteilungen gegenüber Aufsichtsbehörden über Aufsichtstatbest
 
 <sup>6</sup> Der Generalstaatsanwalt erlässt über die Orientierung der Öffentlichkeit nähere Richtlinien.
 
-### 5. Kapitel: Archivierung
+## 5 Archivierung
 
 #### Art. 25
 
@@ -310,34 +354,44 @@ Akteneinsicht, Mitteilungen gegenüber Aufsichtsbehörden über Aufsichtstatbest
 <sup>5</sup> Der Generalstaatsanwalt:
 
 - a) kontrolliert die Anwendung der Vorschriften über die Archivierung;
-
 - b) erlässt die zur Vollziehung der Archivierungsvorschriften erforderlichen Weisungen und Massnahmen;
-
-- c) konsultiert soweit erforderlich das Staatsarchiv als beratendes Organ.
+- c) konsultiert soweit erforderlich das Staatsarchiv des Kantons Wallis als spezialisiertes Organ.
 
 #### Art. 26
 
-**Archivwürdige Akten und Aufbewahrungsdauer**
+**Aufbewahrungsdauer**
 
-<sup>1</sup> Die folgenden Prozessakten werden während zehn Jahren nach dem rechtskräftigen Abschluss des Verfahrens in den Archiven der Staatsanwaltschaft aufbewahrt (Art. 369 StGB und 103 Abs. 1 StPO):
+<sup>1</sup> Grundsätzlich werden die Akten mindestens bis zum Ablauf der Verfolgungs- und Vollstreckungsverjährung aufbewahrt (Art. 103 Abs. 1 StPO).
 
-- a) die Akten der durch Nichtanhandnahme, Einstellung oder Strafbefehl abgeschlossenen Verfahren, die nicht an die Parteien zurückgesandt werden (Art. 103 Abs. 2 StPO);
+- a) …
+- b) …
+- c) …
 
-- b) die Akten über selbständige nachträgliche Entscheide (Art. 363 Abs. 2 StPO);
+<sup>2</sup> Folgende Strafakten sind auf jeden Fall in den Archiven der Staatsanwaltschaft während 20 Jahren ab dem rechtskräftigen Abschluss des Verfahrens zu hinterlegen:
 
-- c) die Akten, die in Verfahren zur Abgrenzung der Zuständigkeit und zur Festsetzung des Gerichtsstandes sowie in Rechtshilfeverfahren erstellt worden sind;
+- a) die Akten der Verfahren, welche mit Nichtanhandnahme, Einstellung oder Strafbefehl abgeschlossenen wurden und die nicht an die Parteien zurückgesandt wurden (Art. 103 Abs. 2 StPO);
+- b) die Akten der Verfahren, welche mit selbständigen nachträglichen Entscheiden abgeschlossen wurden (Art. 363 Abs. 2 StPO);
+- c) Akten in Verfahren zur Abgrenzung der Zuständigkeit und zur Festsetzung des Gerichtsstandes sowie in Rechtshilfeverfahren erstellt worden sind.
 
-<sup>2</sup> Die Verwaltungsakten, die für die Geschichte und Entwicklung der Staatsanwaltschaft von Bedeutung sind, werden archiviert, soweit sie archivwürdig sind.
+<sup>3</sup> Falls die Akten archivwürdig sind, sind diejenigen Strafverfahren während 30 Jahren zu archivieren, welche einen historischen oder wissenschaftlichen Wert haben. Einen solchen Wert haben Akten, welche Morde betreffen sowie sämtliche Verfahren, welche eine Verjährung von 30 Jahren haben.
 
-<sup>3</sup> Ebenfalls archiviert werden die Gesuche um Einsichtnahme in die Akten.
+<sup>4</sup> Unverjährbare Verfahren haben eine eigene archivarische Behandlung. Sie haben eine unbegrenzte Aufbewahrungsdauer, damit eine jederzeitige Wiederaufnahme möglich ist.
+
+<sup>5</sup> Für die Geschichte und Entwicklung der Staatsanwaltschaft wichtige administrative Akten werden dann archiviert, wenn sie archivwürdig sind.
 
 #### Art. 27
 
 **Vernichtung oder Überführung ins Kantonsarchiv**
 
-<sup>1</sup> Nach Ablauf der Aufbewahrungsfrist von Artikel 26 Absatz 1 des vorliegenden Reglements sind die betreffenden Akten zu vernichten.
+<sup>1</sup> Nach Ablauf der Aufbewahrungsdauer gemäss Artikel 26 des vorliegenden Reglements sind diejenigen Akten, welche nicht ans Staatsarchiv übermittelt werden müssen zu vernichten.
 
-<sup>2</sup> Akten, die einen historischen Wert haben oder an denen ein wissenschaftliches Interesse besteht, sind nach Ablauf der Aufbewahrungsfrist dem Kantonsarchiv anzubieten (Art. 42 Abs. 1 des Gesetzes vom 9. Oktober 2008 über die Information der Öffentlichkeit, den Datenschutz und die Archivierung).
+<sup>2</sup> Ausser die durch Strafbefehl erledigten Verfahren, sind archivwürde Verfahren, nach einer Aufbewahrungsdauer von 30 Jahren dem Staatsarchiv zu übermitteln (Art. 42 GIDA).
+
+<sup>3</sup> Verfahren, welche durch Strafbefehl erledigt wurden, sind nach einer Aufbewahrungsdauer von 20 Jahren für ordentliche Verfahren und nach 30 Jahren bei archivwürdigen Verfahren zu vernichten.
+
+<sup>4</sup> Die Vernichtung sämtlicher Verfahrensakten unterliegen der Bewilligung durch das Staatsarchiv Wallis.
+
+<sup>5</sup> Aus historischen Gründen, wird eine Auswahl von Verfahrensakten ins Staatsarchiv Wallis nach der Aufbewahrungsdauer, gemäss Artikel 26 des vorliegenden Reglements. Es handelt sich dabei um die ersten 5 Verfahrensakten von jedem Monat von jedem Amt unabhängig von der Art des Verfahrens. Die an die Gerichte übermittelten Verfahren sind in dieser Auswahl nicht enthalten.
 
 #### Art. 28
 
@@ -347,12 +401,12 @@ Akteneinsicht, Mitteilungen gegenüber Aufsichtsbehörden über Aufsichtstatbest
 
 <sup>2</sup> Für die Einsichtnahme in die archivierten Akten gelten die Bestimmungen der Artikel 369 StGB und Artikel 103 StPO sowie des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008.
 
+## 6 Entrée en vigueur
+
 #### Art. 29
 
 **Inkrafttreten**
 
-Das vorliegende Reglement tritt am 3. Januar 2011 in Kraft.
+<sup>1</sup> Das vorliegende Reglement tritt am 3. Januar 2011 in Kraft.
 
-So angenommen in der Sitzung des Büros der Staatsanwaltschaft vom 3. Januar 2011.
-
-Der Generalstaatsanwalt des Kantons Wallis: Jean-Pierre Gross
+CSW BO/Abl. 2/2011
