@@ -3,31 +3,30 @@ sr: "0.632.316.891.1"
 title: "Accord de libre-échange du 26 juin 2002 entre les États de l'AELE et la République de Singapour (avec prot. d'entente et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/308"
 language: fr
-version: 2011-11-01
+version: 2021-09-01
 adopted: 2002-06-26
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/308/20111101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-308-20111101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/308/20111101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/308/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2003-308-20210901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/308/20210901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord de libre-échange entre les Etats de l’AELE et la République de Singapour
+# Accord de libre-échange entre les États de l’AELE et la République de Singapour
 
 RO **2003** 2019; FF **2002** 6228
 
-Traduction*[^t-1]*
+Traduction
 
-Conclu à Egilsstadir le 26 juin 2002 Approuvé par l’Assemblée fédérale le 10 décembre 2002[^t-2] Instrument de ratification déposé par la Suisse le 24 décembre 2002 Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 2003
+Conclu à Egilsstadir le 26 juin 2002 Approuvé par l’Assemblée fédérale le 10 décembre 2002[^t-1] Instrument de ratification déposé par la Suisse le 24 décembre 2002 Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 2003
 
-(Etat le 1<sup>er</sup> novembre 2011)
+(État le 1<sup>er</sup> septembre 2021)
 
-[^t-1]: Traduction du texte original anglais.
-[^t-2]: Art. 1 al. 1 let. a de l’AF du 10 déc. 2002 ([RO 2003 2018](https://fedlex.data.admin.ch/eli/oc/2003/307))
+[^t-1]: Art. 1 al. 1 let. a de l’AF du 10 déc. 2002 ([RO 2003 2018](https://fedlex.data.admin.ch/eli/oc/2003/307))
 
 La République d’Islande, la Principauté de Liechtenstein, le Royaume de Norvège et la Confédération suisse,
 
-(ci-après dénommés «les Etats de l’AELE»)
+(ci-après dénommés «les États de l’AELE»)
 
 et
 
@@ -37,7 +36,7 @@ la République de Singapour,
 
 ci-après dénommés «les Parties»,
 
-considérant l’importance des liens existant entre Singapour et les Etats de l’AELE et reconnaissant la volonté commune des Parties de renforcer ces liens en créant une zone de libre-échange, afin d’établir entre elles des relations étroites et durables,
+considérant l’importance des liens existant entre Singapour et les États de l’AELE et reconnaissant la volonté commune des Parties de renforcer ces liens en créant une zone de libre-échange, afin d’établir entre elles des relations étroites et durables,
 
 réaffirmant leur engagement envers les principes établis dans la Charte des Nations Unies[^ingress-1] et dans la Déclaration universelle des droits de l’homme,
 
@@ -61,8 +60,8 @@ reconnaissant que la libéralisation des échanges commerciaux devrait permettre
 
 ont décidé, en conséquence, de conclure l’Accord de libre-échange suivant, (ci-après dénommé «le présent Accord»):
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 ## I Dispositions générales
 
@@ -70,7 +69,7 @@ ont décidé, en conséquence, de conclure l’Accord de libre-échange suivant,
 
 **Objectifs**
 
-<sup>1.</sup> Les Etats de l’AELE et Singapour instituent une zone de libre-échange conformément aux dispositions du présent Accord.
+<sup>1.</sup> Les États de l’AELE et Singapour instituent une zone de libre-échange conformément aux dispositions du présent Accord.
 
 <sup>2.</sup>
 
@@ -81,11 +80,11 @@ Les objectifs du présent Accord, qui est basé sur des relations commerciales e
 - (c) obtenir une libéralisation plus avancée, sur une base mutuelle, des marchés publics des Parties;
 - (d) obtenir la libéralisation du commerce des services, conformément à l’art. V de l’Accord général sur le commerce des services[^1-2] (ci-après dénommé «AGCS»);
 - (e) créer mutuellement des possibilités d’investissement et garantir une protection constante des investisseurs et des investissements;
-- (f) assurer une protection adéquate et effective des droits de propriété intellectuelle, conformément aux normes internationales; et
+- (f) assurer une protection adéquate et effective des droits de propriété intellectuelle, conformément aux normes internationales, et
 - (g) contribuer ainsi, par la suppression des obstacles au commerce et à l’investissement, à l’expansion et au développement harmonieux des échanges commerciaux à l’échelle mondiale.
 
-[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117),Annexe 1A.1
-[^1-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1.B
+[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235),Annexe 1A.1
+[^1-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1B
 
 #### Art. 2
 
@@ -95,7 +94,7 @@ Les objectifs du présent Accord, qui est basé sur des relations commerciales e
 
 Sans préjudice de l’Annexe I, le présent Accord s’applique:
 
-- (a) au territoire terrestre, aux eaux intérieures et à la mer territoriale de chaque Partie, ainsi qu’à son espace aérien, conformément au droit international; et
+- (a) au territoire terrestre, aux eaux intérieures et à la mer territoriale de chaque Partie, ainsi qu’à son espace aérien, conformément au droit international, et
 - (b) au-delà des eaux territoriales, pour ce qui est des mesures prises par une Partie dans l’exercice de ses droits souverains ou de sa juridiction, conformément au droit international.
 
 <sup>2.</sup> L’Annexe II s’applique à la Norvège.
@@ -104,11 +103,11 @@ Sans préjudice de l’Annexe I, le présent Accord s’applique:
 
 **Relations économiques et commerciales régies par le présent Accord**
 
-<sup>1.</sup> Les dispositions du présent Accord s’appliquent aux relations économiques et commerciales entre, d’une part, les Etats de l’AELE et, d’autre part, Singapour, mais ne s’appliquent pas aux relations commerciales entre les différents Etats de l’AELE, sous réserve de dispositions contraires du présent Accord.
+<sup>1.</sup> Les dispositions du présent Accord s’appliquent aux relations économiques et commerciales entre, d’une part, les États de l’AELE et, d’autre part, Singapour, mais ne s’appliquent pas aux relations commerciales entre les différents États de l’AELE, sous réserve de dispositions contraires du présent Accord.
 
 <sup>2.</sup> En vertu de l’Union douanière établie entre la Suisse et la Principauté de Liechtenstein par le Traité du 29 mars 1923[^3-1], la Suisse représente la Principauté de Liechtenstein pour toutes les questions couvertes par le présent Accord.
 
-[^3-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^3-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 4
 
@@ -133,12 +132,12 @@ Chaque Partie est pleinement responsable du respect de toutes les obligations d�
 Le présent chapitre s’applique:
 
 - (a) aux produits relevant des chap. 25 à 97 du Système harmonisé de désignation et de codification des marchandises (SH)[^6-1];
-- (b) aux produits énumérés à l’Annexe III, en conformité avec les arrangements prévus dans cette Annexe; et
+- (b) aux produits énumérés à l’Annexe III, en conformité avec les arrangements prévus dans cette Annexe, et
 - (c) aux poissons et aux autres produits de la mer énumérés à l’Annexe IV.
 
-<sup>2.</sup> Singapour a conclu avec chacun des Etats de l’AELE un accord bilatéral sur le commerce des produits agricoles. Ces accords font partie des instruments instituant la zone de libre-échange entre les Etats de l’AELE et Singapour.
+<sup>2.</sup> Singapour a conclu avec chacun des États de l’AELE un accord bilatéral sur le commerce des produits agricoles. Ces accords font partie des instruments instituant la zone de libre-échange entre les États de l’AELE et Singapour.
 
-[^6-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^6-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 7
 
@@ -154,7 +153,7 @@ Le présent chapitre s’applique:
 
 **Droits de douane**
 
-<sup>1.</sup> Dès l’entrée en vigueur du présent Accord, les Parties suppriment tous les droits de douane existant sur les importations et les exportations de produits originaires d’un Etat de l’AELE ou de Singapour, à l’exception des produits énumérés à l’Annexe V. Aucun nouveau droit de douane n’est introduit.
+<sup>1.</sup> Dès l’entrée en vigueur du présent Accord, les Parties suppriment tous les droits de douane existant sur les importations et les exportations de produits originaires d’un État de l’AELE ou de Singapour, à l’exception des produits énumérés à l’Annexe V. Aucun nouveau droit de douane n’est introduit.
 
 <sup>2.</sup> Est réputé droit de douane tout droit ou toute taxe, quels qu’ils soient, se rapportant à l’importation ou à l’exportation d’un produit, y compris toute forme de surtaxe se rapportant à une telle importation ou exportation.
 
@@ -162,14 +161,14 @@ Le présent chapitre s’applique:
 
 Aucune disposition du présent chapitre n’empêche une Partie de prélever à tout moment à l’importation ou à l’exportation de tout produit provenant d’une autre Partie:
 
-- (a) des taxes équivalentes aux impôts internes, telles que des impôts indirects et autres impôts, perçus lors de l’importation ou de l’exportation et appliqués conformément à l’art. 11; ou
+- (a) des taxes équivalentes aux impôts internes, telles que des impôts indirects et autres impôts, perçus lors de l’importation ou de l’exportation et appliqués conformément à l’art. 11, ou
 - (b) des frais et autres taxes qui ne sont pas appliqués sur une base de valeur ajoutée, à condition qu’ils soient limités aux coûts approximatifs des services et qu’ils ne constituent ni une protection indirecte pour des produits de fabrication nationale ni une taxation des importations et des exportations à des fins fiscales.
 
 #### Art. 9
 
 **Restrictions à l’importation et à l’exportation**
 
-Dès l’entrée en vigueur du présent Accord, toute interdiction ou restriction à l’importation ou à l’exportation dans le cadre des échanges commerciaux entre les Etats de l’AELE et Singapour, à l’exception des droits de douane et des taxes, rendue effective au moyen de contingents, de licences d’importation et d’exportation ou d’autres mesures, est supprimée pour tous les produits originaires de chaque Partie.
+Dès l’entrée en vigueur du présent Accord, toute interdiction ou restriction à l’importation ou à l’exportation dans le cadre des échanges commerciaux entre les États de l’AELE et Singapour, à l’exception des droits de douane et des taxes, rendue effective au moyen de contingents, de licences d’importation et d’exportation ou d’autres mesures, est supprimée pour tous les produits originaires de chaque Partie.
 
 #### Art. 10
 
@@ -191,7 +190,7 @@ Les Parties appliquent le traitement national conformément à l’art. III du G
 
 <sup>2.</sup> Les principes établis au par. 1 sont appliqués conformément à l’Accord de l’OMC sur l’application des mesures sanitaires et phytosanitaires[^12-1], qui est ainsi introduit dans le présent Accord et en fait partie intégrante.
 
-[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117),Annexe 1A.4
+[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235),Annexe 1A.4
 
 #### Art. 13
 
@@ -201,22 +200,22 @@ Les Parties appliquent le traitement national conformément à l’art. III du G
 
 <sup>2.</sup>
 
-Les Parties renforcent leur coopération en matière de réglementations techniques, de normes et de procédures d’évaluation de la conformité en vue d’accroître la compréhension mutuelle de leurs systèmes respectifs et de faciliter l’accès à leurs marchés respectifs. A cet effet, elles coopèrent tout particulièrement afin de:
+Les Parties renforcent leur coopération en matière de réglementations techniques, de normes et de procédures d’évaluation de la conformité en vue d’accroître la compréhension mutuelle de leurs systèmes respectifs et de faciliter l’accès à leurs marchés respectifs. À cet effet, elles coopèrent tout particulièrement afin de:
 
 - (a) renforcer le rôle des normes internationales en tant que base des réglementations techniques, y compris les procédures d’évaluation de la conformité;
-- (b) promouvoir les organes d’accréditation de l’évaluation de la conformité sur la base des normes et des guides ISO/IEC correspondants; et
+- (b) promouvoir les organes d’accréditation de l’évaluation de la conformité sur la base des normes et des guides ISO/IEC correspondants, et
 - (c) encourager l’acceptation mutuelle des résultats des procédures d’évaluation de la conformité obtenus par les organes susmentionnés, qui auront été reconnus dans un accord multilatéral approprié entre leurs systèmes ou leurs organes d’accréditation respectifs.
 
 <sup>3.</sup>
 
 Les Parties s’emploient de façon expéditive, en relation avec le présent article, à:
 
-- (a) intensifier l’échange d’informations; et
+- (a) intensifier l’échange d’informations, et
 - (b) examiner avec compréhension toute demande écrite de consultation.
 
-<sup>4.</sup> Sans préjudice du par. 1, les Parties conviennent de tenir des consultations dans le cadre du Comité mixte afin d’aborder toute question pouvant se poser sur l’application des réglementations techniques, des normes et des procédures d’évaluation de la conformité, qui, selon Singapour ou un ou plusieurs Etats de l’AELE, crée ou risque de créer un obstacle au commerce entre les Parties, et ce en vue de trouver une solution appropriée en conformité avec l’Accord de l’OMC sur les obstacles techniques au commerce.
+<sup>4.</sup> Sans préjudice du par. 1, les Parties conviennent de tenir des consultations dans le cadre du Comité mixte afin d’aborder toute question pouvant se poser sur l’application des réglementations techniques, des normes et des procédures d’évaluation de la conformité, qui, selon Singapour ou un ou plusieurs États de l’AELE, crée ou risque de créer un obstacle au commerce entre les Parties, et ce en vue de trouver une solution appropriée en conformité avec l’Accord de l’OMC sur les obstacles techniques au commerce.
 
-[^13-1]: [RS 0.631.20](https://fedlex.data.admin.ch/eli/cc/1977/1437_1437_1437), Annexe 1A.6
+[^13-1]: [RS 0.631.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2023), Annexe 1A.6
 
 #### Art. 14
 
@@ -224,7 +223,7 @@ Les Parties s’emploient de façon expéditive, en relation avec le présent ar
 
 Les droits et obligations des Parties concernant les entreprises commerciales du secteur public sont régis par l’art. XVII du GATT 1994 et par le Mémorandum d’accord sur l’interprétation de l’art. XVII du GATT 1994[^14-1], qui sont ainsi introduits dans le présent Accord et en font partie intégrante.
 
-[^14-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.1.b
+[^14-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.1.b
 
 #### Art. 15
 
@@ -232,8 +231,8 @@ Les droits et obligations des Parties concernant les entreprises commerciales du
 
 Les droits et obligations des Parties concernant les subventions sont régis par les art. VI et XVI du GATT 1994, par l’Accord de l’OMC sur les subventions et les mesures compensatoires[^15-1] et par l’Accord de l’OMC sur l’agriculture[^15-2].
 
-[^15-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.13
-[^15-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.3
+[^15-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.13
+[^15-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.3
 
 #### Art. 16
 
@@ -243,7 +242,7 @@ Les droits et obligations des Parties concernant les subventions sont régis par
 
 <sup>2.</sup> Afin d’empêcher le dumping, les Parties prennent les mesures prévues au chap. V.
 
-[^16-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.8
+[^16-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.8
 
 #### Art. 17
 
@@ -255,7 +254,7 @@ Les droits et obligations des Parties concernant les subventions sont régis par
 
 De telles mesures consistent en l’augmentation du taux de taxation sur ce produit à un niveau ne dépassant pas celui du taux le plus bas entre:
 
-- (a) le taux de taxation appliqué à la nation la plus favorisée (NPF) et effectif au moment où la mesure est prise; et
+- (a) le taux de taxation appliqué à la nation la plus favorisée (NPF) et effectif au moment où la mesure est prise, et
 - (b) le taux de taxation appliqué à la NPF et effectif la veille de l’entrée en vigueur du présent Accord.
 
 <sup>3.</sup> Les mesures d’urgence sont prises pour une période ne dépassant pas une année. Dans des circonstances très exceptionnelles et après examen du Comité mixte, la durée maximale de ces mesures peut être de trois ans. La Partie qui prend de telles mesures présente un calendrier prévoyant leur élimination progressive. Aucune mesure n’est appliquée à l’importation d’un produit ayant déjà fait l’objet d’une telle mesure au cours des cinq années précédentes.
@@ -272,7 +271,7 @@ De telles mesures consistent en l’augmentation du taux de taxation sur ce prod
 
 <sup>9.</sup> Si, après le premier réexamen, les Parties décident de maintenir un tel mécanisme, elles procéderont ensuite à des réexamens tous les deux ans au sein du Comité mixte.
 
-[^17-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.14
+[^17-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.14
 
 #### Art. 18
 
@@ -284,7 +283,7 @@ De telles mesures consistent en l’augmentation du taux de taxation sur ce prod
 
 <sup>3.</sup> La Partie qui prend une mesure au sens du présent article le notifie dans les moindres délais aux autres Parties et au Comité mixte.
 
-[^18-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1A.1.c
+[^18-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1A.1.c
 
 #### Art. 19
 
@@ -330,17 +329,18 @@ Aucune disposition du présent chapitre n’est interprétée:
 
 <sup>2.</sup>
 
-Les dispositions du présent chapitre s’appliquent aux mesures qui affectent le commerce dans tous les secteurs de services, à l’exception des services aériens, y compris les services de transport aérien nationaux et internationaux, qu’ils soient réguliers ou non, ainsi que les services auxiliaires en rapport avec les services aériens, excepté:
+S’agissant des services de transports aériens, le présent chapitre ne s’applique pas aux mesures qui affectent les droits du trafic aérien, quelle que soit la façon dont ils ont été accordés, ni aux mesures qui affectent les services directement liés à l’exercice des droits du trafic aérien, exception faite pour les mesures qui affectent:
 
 - (a) les services de réparation et de maintenance des aéronefs;
-- (b) la vente ou la commercialisation des services de transport aérien;
-- (c) les services de systèmes informatisés de réservation (SIR)[^21-1].
+- (b) la vente et la commercialisation des services de transports aériens;
+- (c) les services de systèmes informatisés de réservation[^21-1].[^21-2]
 
-<sup>3.</sup> Les Etats de l’AELE et Singapour conviennent de réexaminer l’évolution de la situation dans le secteur des transports aériens en vue de réévaluer les besoins pour la coopération future dans ce secteur.
+<sup>3.</sup> Les États de l’AELE et Singapour conviennent de réexaminer l’évolution de la situation dans le secteur des transports aériens en vue de réévaluer les besoins pour la coopération future dans ce secteur.
 
 <sup>4.</sup> Aucune disposition du présent chapitre n’est interprétée comme imposant une quelconque obligation en matière de marchés publics.
 
-[^21-1]: Les expressions «services de réparation et de maintenance des aéronefs», «vente ou commercialisation des services de transport aérien» et «services de systèmes informatisés de réservation (SIR)» sont définies au par. 6 de l’Annexe sur les services de transport aérien de l’AGCS.
+[^21-1]: Les définitions de l’al. 6 de l’Annexe de l’AGCS sur les services de transport aérien sont incorporées au présent chapitre et en font partie intégrante.
+[^21-2]: Nouvelle teneur selon la D n<sup>o</sup> 1/2011 du comité mixte AELE-Singapour du 23 nov. 2011, en vigueur pour la Suisse depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 470](https://fedlex.data.admin.ch/eli/oc/2021/470)).
 
 #### Art. 22
 
@@ -362,7 +362,7 @@ Aux fins du présent chapitre:
 
   l’expression «présence commerciale» s’entend de tout type d’établissement commercial ou professionnel, y compris sous la forme:
 
-  - (i) de la constitution, de l’acquisition ou du maintien d’une personne morale; ou
+  - (i) de la constitution, de l’acquisition ou du maintien d’une personne morale, ou
   - (ii) de la création ou du maintien d’une succursale ou d’un bureau de représentation;
 
 - sur le territoire d’une Partie en vue de la fourniture d’un service;
@@ -379,7 +379,7 @@ Aux fins du présent chapitre:
 
   l’expression «service d’une autre Partie» s’entend d’un service qui est fourni:
 
-  - (i) en provenance du territoire ou sur le territoire de cette autre Partie ou, dans le cas des transports maritimes, par un navire immatriculé conformément à la législation de cette autre Partie ou par une personne de cette autre Partie qui fournit le service grâce à l’exploitation d’un navire et/ou à son utilisation totale ou partielle; ou
+  - (i) en provenance du territoire ou sur le territoire de cette autre Partie ou, dans le cas des transports maritimes, par un navire immatriculé conformément à la législation de cette autre Partie ou par une personne de cette autre Partie qui fournit le service grâce à l’exploitation d’un navire et/ou à son utilisation totale ou partielle, ou
   - (ii) dans le cas de la fourniture d’un service grâce à une présence commerciale ou à la présence de personnes physiques, par un fournisseur de services de cette autre Partie;
 
 - (i) le terme «personne» s’entend soit d’une personne physique soit d’une personne morale;
@@ -387,7 +387,7 @@ Aux fins du présent chapitre:
 
   l’expression «personne physique d’une Partie» s’entend d’une personne physique qui réside sur le territoire de cette Partie ou ailleurs et qui, conformément à la législation de cette Partie:
 
-  - (i) est un ressortissant de cette Partie; ou
+  - (i) est un ressortissant de cette Partie, ou
   - (ii) a le droit de résidence permanente dans cette Partie et bénéficie substantiellement du même traitement que celui accordé aux nationaux pour ce qui est des mesures affectant le commerce des services;
 
 - (k) l’expression «personne morale» s’entend de toute entité juridique dûment constituée ou autrement organisée conformément à la législation applicable, à des fins lucratives ou non, et détenue par le secteur privé ou par le secteur public, y compris toute société, société de fiducie («trust»), société de personnes, coentreprise, entreprise individuelle ou association;
@@ -395,12 +395,12 @@ Aux fins du présent chapitre:
 
   l’expression «personne morale d’une autre Partie» s’entend d’une personne morale:
 
-  - (i) qui est constituée ou autrement organisée conformément à la législation de cette autre Partie et qui effectue d’importantes opérations commerciales[^22-2] sur le territoire de toute Partie; cela inclut un fournisseur de services d’un membre de l’OMC qui n’est pas partie au présent Accord, qui est une personne morale constituée conformément à la législation d’une Partie et qui effectue d’importantes opérations commerciales sur le territoire des Parties; ou
+  - (i) qui est constituée ou autrement organisée conformément à la législation de cette autre Partie et qui effectue d’importantes opérations commerciales[^22-2] sur le territoire de toute Partie; cela inclut un fournisseur de services d’un membre de l’OMC qui n’est pas partie au présent Accord, qui est une personne morale constituée conformément à la législation d’une Partie et qui effectue d’importantes opérations commerciales sur le territoire des Parties, ou
   - (ii)
 
     dans le cas de la fourniture d’un service grâce à une présence commerciale, qui est détenue ou contrôlée:
 
-    - 1\. par des personnes physiques de cette autre Partie; ou
+    - 1\. par des personnes physiques de cette autre Partie, ou
     - 2\. par des personnes morales de cette autre Partie telles qu’elles sont identifiées au par. (l) (i);
 
 - (m)
@@ -409,7 +409,7 @@ Aux fins du présent chapitre:
 
   - (i) «est détenue» par des personnes d’une Partie si plus de 50 % de son capital social appartient en pleine propriété à des personnes de cette Partie;
   - (ii) «est contrôlée» par des personnes d’une Partie si ces personnes ont la capacité de nommer une majorité des administrateurs, ou sont autrement habilitées en droit à diriger ses opérations;
-  - (iii) «est affiliée» à une autre personne lorsqu’elle contrôle cette autre personne ou est contrôlée par elle; ou lorsqu’elle-même et l’autre personne sont toutes deux contrôlées par la même personne;
+  - (iii) «est affiliée» à une autre personne lorsqu’elle contrôle cette autre personne ou est contrôlée par elle, ou lorsqu’elle-même et l’autre personne sont toutes deux contrôlées par la même personne;
 
 - (n) l’expression «fournisseur monopolistique de services» s’entend de toute personne, publique ou privée, qui, sur le marché concerné du territoire d’une Partie, est agréée ou établie formellement ou dans les faits par cette Partie comme étant le fournisseur exclusif de ce service;
 - (o)
@@ -452,7 +452,7 @@ Dans les secteurs où des engagements en matière d’accès aux marchés sont c
 - (b) limitations concernant la valeur totale des transactions ou avoirs en rapport avec les services, sous forme de contingents numériques ou de l’exigence d’un examen des besoins économiques;
 - (c) limitations concernant le nombre total d’opérations de services ou la quantité totale de services produits, exprimées en unités numériques déterminées, sous forme de contingents ou de l’exigence d’un examen des besoins économiques[^24-2];
 - (d) limitations concernant le nombre total de personnes physiques qui peuvent être employées dans un secteur de services particulier, ou qu’un fournisseur de services peut employer et qui sont nécessaires pour la fourniture d’un service spécifique, et s’en s’occupent directement, sous forme de contingents numériques ou de l’exigence d’un examen des besoins économiques;
-- (e) mesures qui restreignent ou prescrivent des types spécifiques d’entité juridique ou de coentreprise par l’intermédiaire desquels un fournisseur de services peut fournir un service; et
+- (e) mesures qui restreignent ou prescrivent des types spécifiques d’entité juridique ou de coentreprise par l’intermédiaire desquels un fournisseur de services peut fournir un service, et
 - (f) limitations concernant la participation de capital étranger, exprimées sous forme d’une limite maximale en pourcentage de la détention d’actions par des étrangers, ou concernant la valeur totale d’investissements étrangers particuliers ou globaux.
 
 [^24-1]: Si une Partie contracte un engagement en matière d’accès aux marchés en relation avec la fourniture d’un service suivant le mode de fourniture visé à l’art. 22 (o) (i) et si le mouvement transfrontières de capitaux constitue une partie essentielle du service en lui‑même, cette Partie s’engage par là à permettre ce mouvement transfrontières de capitaux. Si une Partie contracte un engagement en matière d’accès aux marchés en relation avec la fourniture d’un service suivant le mode de fourniture visé à l’art. 22 (o) (iii), cette Partie s’engage par là à permettre les transferts de capitaux connexes vers son territoire.
@@ -488,7 +488,7 @@ Chaque Partie indique dans une Liste les engagements spécifiques qu’elle cont
 
 - (a) les modalités, limitations et conditions concernant l’accès aux marchés;
 - (b) les conditions et restrictions concernant le traitement national;
-- (c) les engagements relatifs à des engagements additionnels; et
+- (c) les engagements relatifs à des engagements additionnels, et
 - (d) dans les cas appropriés, le délai pour la mise en œuvre de ces engagements.
 
 <sup>3.</sup> Les mesures incompatibles à la fois avec les art. 24 et 25 sont inscrites dans la colonne relative à l’art. 24. Dans ce cas, l’inscription est considérée comme introduisant une condition ou une restriction concernant également l’art. 25.
@@ -505,7 +505,7 @@ Chaque Partie indique dans une Liste les engagements spécifiques qu’elle cont
 
 <sup>2.</sup> Chaque Partie maintient, ou institue aussitôt que possible, des tribunaux ou des procédures judiciaires, arbitraux ou administratifs qui permettent, à la demande d’un fournisseur de services d’une autre Partie qui est affecté, de réexaminer dans les moindres délais les décisions administratives affectant le commerce des services et, dans les cas où cela est justifié, de prendre des mesures correctives appropriées. Dans les cas où ces procédures ne sont pas indépendantes de l’organisme chargé de prendre la décision administrative en question, la Partie fait en sorte qu’elles permettent en fait de procéder à une révision objective et impartiale.
 
-<sup>3.</sup> Dans les cas où une autorisation est requise pour la fourniture d’un service pour lequel un engagement spécifique a été pris, les autorités compétentes d’une Partie informent dans les moindres délais le requérant, après la présentation d’une demande jugée complète au regard des lois et réglementations intérieures, de la décision concernant la demande. A la demande du requérant, les autorités compétentes de la Partie fournissent, sans retard indu, des renseignements sur ce qu’il advient de la demande.
+<sup>3.</sup> Dans les cas où une autorisation est requise pour la fourniture d’un service pour lequel un engagement spécifique a été pris, les autorités compétentes d’une Partie informent dans les moindres délais le requérant, après la présentation d’une demande jugée complète au regard des lois et réglementations intérieures, de la décision concernant la demande. À la demande du requérant, les autorités compétentes de la Partie fournissent, sans retard indu, des renseignements sur ce qu’il advient de la demande.
 
 <sup>4.</sup>
 
@@ -519,7 +519,7 @@ Les Parties réexaminent ensemble les résultats des négociations portant sur l
 
 Dans les secteurs où une Partie a contracté des engagements spécifiques, qui font l’objet des modalités, limitations, conditions ou restrictions qui y sont fixées, en attendant l’intégration des disciplines développées conformément au par. 4, cette Partie n’applique pas de prescriptions en matière de licences et de qualifications ni de normes techniques qui annulent ou compromettent ces engagements spécifiques d’une manière:
 
-- (a) qui n’est pas conforme aux critères indiqués au par. 4 (a), (b) ou (c); et
+- (a) qui n’est pas conforme aux critères indiqués au par. 4 (a), (b) ou (c), et
 - (b) à laquelle on n’aurait raisonnablement pas pu s’attendre de la part de cette Partie au moment où les engagements spécifiques dans ces secteurs ont été pris.
 
 <sup>6.</sup> Si une réglementation intérieure est préparée, adoptée et appliquée conformément aux normes internationales des organisations internationales compétentes appliquées par une Partie[^28-1], il y a une présomption réfutable que cette réglementation intérieure est conforme au présent article.
@@ -588,7 +588,7 @@ Sous réserve que ces mesures ne soient pas appliquées de façon à constituer 
 - (e) incompatibles avec l’art. 23, à condition que la différence de traitement découle d’un accord visant à éviter la double imposition ou de dispositions visant à éviter la double imposition figurant dans tout autre accord ou arrangement international par lequel une Partie est liée.
 
 [^33-1]: L’exception concernant l’ordre public ne peut être invoquée que dans les cas où une menace véritable et suffisamment grave pèse sur l’un des intérêts fondamentaux de la société.
-[^33-2]: Les mesures qui visent à assurer l’imposition ou le recouvrement équitables ou effectifs d’impôts directs comprennent les mesures prises par ’une Partie en vertu de son régime fiscal qui: <sup>(i)</sup> s’appliquent aux fournisseurs de services non résidents en reconnaissance du fait que l’obligation fiscale des non-résidents est déterminée pour ce qui concerne les éléments imposables ayant leur source ou situés sur le territoire de la Partie; ou (ii) s’appliquent aux non-résidents afin d’assurer l’imposition ou le recouvrement des impôts sur le territoire de la Partie; ou (iii) s’appliquent aux non-résidents ou aux résidents afin d’empêcher l’évasion ou la fraude fiscales, y compris les mesures d’exécution; ou (iv) s’appliquent aux consommateurs de services fournis sur le territoire ou en provenance du territoire d’une autre Partie afin d’assurer l’imposition ou le recouvrement des impôts frappant ces consommateurs provenant de sources qui se trouvent sur le territoire de la Partie; ou (v) distinguent les fournisseurs de services assujettis à l’impôt sur les éléments imposables au niveau mondial des autres fournisseurs de services, en reconnaissance de la différence de nature de la base d’imposition qui existe entre eux; ou (vi) déterminent, attribuent ou répartissent les revenus, les bénéfices, les gains, les pertes, les déductions ou les avoirs des personnes ou succursales résidentes, ou entre personnes liées ou succursales de la même personne, afin de préserver la base d’imposition de la Partie. Les termes ou concepts relatifs à la fiscalité figurant à l’art. 33 (d) et dans la présente note de bas de page sont déterminés conformément aux définitions et concepts relatifs à la fiscalité, ou aux définitions et concepts équivalents ou similaires, contenus dans la législation intérieure de la Partie qui prend la mesure.
+[^33-2]: Les mesures qui visent à assurer l’imposition ou le recouvrement équitables ou effectifs d’impôts directs comprennent les mesures prises par ’une Partie en vertu de son régime fiscal qui: <sup>(i)</sup> s’appliquent aux fournisseurs de services non résidents en reconnaissance du fait que l’obligation fiscale des non-résidents est déterminée pour ce qui concerne les élé ments imposables ayant leur source ou situés sur le territoire de la Partie, ou (ii) s’appliquent aux non-résidents afin d’assurer l’imposition ou le recouvrement des impôts sur le territoire de la Partie, ou (iii) s’appliquent aux non-résidents ou aux résidents afin d’empêcher l’évasion ou la fraude fiscales, y compris les mesures d’exécution, ou (iv) s’appliquent aux consommateurs de services fournis sur le territoire ou en provenance du territoire d’une autre Partie afin d’assurer l’imposition ou le recouvrement des impôts frappant ces consommateurs provenant de sources qui se trouvent sur le territoire de la Partie, ou (v) distinguent les fournisseurs de services assujettis à l’impôt sur les éléments imposables au niveau mondial des autres fournisseurs de services, en reconnaissance de la différence de nature de la base d’imposition qui existe entre eux, ou (vi) déterminent, attribuent ou répartissent les revenus, les bénéfices, les gains, les pertes, les déductions ou les avoirs des personnes ou succursales résidentes, ou entre personnes liées ou succursales de la même personne, afin de préserver la base d’imposition de la Partie. Les termes ou concepts relatifs à la fiscalité figurant à l’art. 33 (d) et dans la présente note de bas de page sont déterminés conformément aux définitions et concepts relatifs à la fiscalité, ou aux définitions et concepts équivalents ou similaires, contenus dans la législation intérieure de la Partie qui prend la mesure.
 
 #### Art. 34
 
@@ -676,9 +676,9 @@ Aux fins du présent chapitre:
 
 **Traitement national et traitement de la nation la plus favorisée**
 
-<sup>1.</sup> Chaque Partie accorde aux investisseurs et aux investissements des investisseurs d’une autre Partie, en ce qui concerne l’établissement, l’acquisition, l’expansion, le management, la conduite, l’exploitation et l’aliénation des investissements, un traitement non moins favorable que celui qu’elle accorde dans des situations similaires à ses propres investisseurs et à leurs investissements ou aux investisseurs de tout Etat tiers et à leurs investissements, le traitement le plus favorable étant déterminant.
+<sup>1.</sup> Chaque Partie accorde aux investisseurs et aux investissements des investisseurs d’une autre Partie, en ce qui concerne l’établissement, l’acquisition, l’expansion, le management, la conduite, l’exploitation et l’aliénation des investissements, un traitement non moins favorable que celui qu’elle accorde dans des situations similaires à ses propres investisseurs et à leurs investissements ou aux investisseurs de tout État tiers et à leurs investissements, le traitement le plus favorable étant déterminant.
 
-<sup>2.</sup> Si une Partie accorde aux investisseurs de tout Etat tiers ou à leurs investissements un traitement plus favorable en vertu d’un accord de libre-échange, une union douanière ou un accord similaire prévoyant également une libéralisation substantielle des investissements, elle n’est pas tenue d’accorder un tel traitement aux investisseurs d’une autre Partie ou à leurs investissements. Elle ménage néanmoins, à la demande d’une autre Partie, la possibilité de négocier les avantages ainsi accordés.
+<sup>2.</sup> Si une Partie accorde aux investisseurs de tout État tiers ou à leurs investissements un traitement plus favorable en vertu d’un accord de libre-échange, une union douanière ou un accord similaire prévoyant également une libéralisation substantielle des investissements, elle n’est pas tenue d’accorder un tel traitement aux investisseurs d’une autre Partie ou à leurs investissements. Elle ménage néanmoins, à la demande d’une autre Partie, la possibilité de négocier les avantages ainsi accordés.
 
 <sup>3.</sup> La norme de traitement national visée au par. 1 ne s’applique pas aux subventions accordées dans le cadre de la politique sociale ou de la politique de développement économique d’une Partie, même si ces subventions favorisent, directement ou indirectement, des entreprises ou des entrepreneurs locaux. Si une autre Partie considère que de telles subventions, dans un cas particulier, ont un effet de distorsion sérieux sur les possibilités d’investissement de ses propres investisseurs, elle peut demander des consultations sur ces questions. Ces demandes sont examinées avec compréhension.
 
@@ -692,9 +692,9 @@ Aux fins du présent chapitre:
 
 <sup>2.</sup> L’art. 40 s’applique aux mesures fiscales qui dévient du traitement national et sont nécessaires pour l’imposition ou le recouvrement équitables ou effectifs d’impôts directs[^41-1].
 
-<sup>3.</sup> Si une Partie accorde des avantages particuliers aux investisseurs de tout Etat tiers et à leurs investissements en vertu d’un accord pour éviter la double imposition, elle n’est pas tenue d’accorder de tels avantages aux investisseurs d’une autre Partie ni à leurs investissements.
+<sup>3.</sup> Si une Partie accorde des avantages particuliers aux investisseurs de tout État tiers et à leurs investissements en vertu d’un accord pour éviter la double imposition, elle n’est pas tenue d’accorder de tels avantages aux investisseurs d’une autre Partie ni à leurs investissements.
 
-[^41-1]: La note de bas de page 26 de l’art. 33 du chap. III (Services) s’applique également, *mut**a**tis mutandis*, au présent chapitre.
+[^41-1]: La note de bas de page 26 de l’art. 33 du chap. III (Services) s’applique également, *mutatis mutandis*, au présent chapitre.
 
 #### Art. 42
 
@@ -721,7 +721,7 @@ Chaque Partie autorise le libre transfert sans retard, dans son territoire et ho
 - (a) les profits, intérêts, dividendes, gains en capital, royalties et rémunérations ainsi que tout autre montant découlant d’un investissement;
 - (b) les paiements effectués en vertu d’un contrat, y compris de prêt;
 - (c) les montants supplémentaires destinés au maintien ou au développement d’un investissement;
-- (d) les produits de la vente ou de la liquidation de tout ou partie d’un investissement; et
+- (d) les produits de la vente ou de la liquidation de tout ou partie d’un investissement, et
 - (e) les salaires et autres rémunérations du personnel engagé à l’étranger en relation avec un investissement.
 
 <sup>2.</sup> Un transfert est considéré comme ayant été effectué «sans retard» s’il est effectué dans les délais normalement requis pour l’accomplissement des formalités de transfert, y compris les rapports de transferts de devises.
@@ -783,13 +783,13 @@ Dans le cas où une Partie (ou un organisme, une institution, une collectivité 
 
 Si le différend n’est pas réglé dans les six mois suivant la demande de consultations, il peut être renvoyé devant une juridiction civile ou administrative de la Partie concernée ou, si les deux parties au différend en conviennent, il est soumis à l’une des procédures suivantes:
 
-- (a) l’arbitrage en vertu de la Convention pour le règlement des différends relatifs aux investissements entre Etats et ressortissants d’autres Etats[^48-1] (la «Convention CIRDI»), si celle-ci est applicable;
+- (a) l’arbitrage en vertu de la Convention pour le règlement des différends relatifs aux investissements entre États et ressortissants d’autres États[^48-1] (la «Convention CIRDI»), si celle-ci est applicable;
 - (b) la conciliation ou l’arbitrage sur la base du règlement du Mécanisme supplémentaire du Centre international pour le règlement des différends relatifs aux investissements;
 - (c) l’arbitrage sur la base du Règlement d’arbitrage de la Commission des Nations Unies pour le droit commercial international (CNUDCI).
 
 <sup>3.</sup> Une Partie peut conclure des accords avec des investisseurs d’une autre Partie afin de leur donner son consentement inconditionnel et irrévocable à la soumission de tous les types de différends ou d’une partie d’entre eux à la conciliation ou à l’arbitrage international conformément au par. 2 ci-dessus. De tels accords sont notifiés au Dépositaire du présent Accord.
 
-[^48-1]: [RS 0.975.2](https://fedlex.data.admin.ch/eli/cc/1968/982_1022_938)
+[^48-1]: [RS 0.975.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4570)
 
 #### Art. 49
 
@@ -821,11 +821,11 @@ les art. 33, 34 et 35 ainsi que l’art. 19 (e) à (g).
 
 <sup>2.</sup> Les Parties conviennent de coopérer au sein du Comité mixte dans le but d’accroître la connaissance de leurs systèmes de marchés publics respectifs et de parvenir à une libéralisation et à une ouverture mutuelle plus avancées des marchés publics.
 
-[^51-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^51-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 
 #### Art. 52
 
-**Echange d’informations**
+**Échange d’informations**
 
 Les Parties échangent les noms et adresses des «points de contacts» chargés de fournir des informations sur les règles et les réglementations en matière de marchés publics.
 
@@ -849,7 +849,7 @@ Si, après l’entrée en vigueur du présent Accord, une Partie accorde à une 
 
 <sup>4.</sup> Les Parties conviennent, à la demande d’une Partie au Comité mixte et sous réserve de consensus au sein de celui-ci, de réexaminer les dispositions relatives à la protection des droits de propriété intellectuelle contenues dans le présent article et dans l’Annexe XII, en vue d’améliorer les niveaux de protection et d’éviter ou de corriger les distorsions au commerce qui résultent des niveaux actuels de protection des droits de propriété intellectuelle.
 
-[^54-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1.C
+[^54-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Annexe 1C
 
 ## VIII Dispositions institutionnelles
 
@@ -864,10 +864,10 @@ Si, après l’entrée en vigueur du présent Accord, une Partie accorde à une 
 Le Comité mixte:
 
 - (a) veille à la mise en œuvre du présent Accord;
-- (b) procède à l’examen des possibilités de poursuivre l’élimination des obstacles au commerce et des autres mesures restrictives affectant les échanges commerciaux entre les Etats de l’AELE et Singapour;
+- (b) procède à l’examen des possibilités de poursuivre l’élimination des obstacles au commerce et des autres mesures restrictives affectant les échanges commerciaux entre les États de l’AELE et Singapour;
 - (c) suit le développement du présent Accord;
 - (d) supervise les travaux de tous les sous-comités et groupes de travail constitués dans le cadre du présent Accord;
-- (e) s’efforce de régler les éventuels différends concernant l’interprétation ou l’application du présent Accord; et
+- (e) s’efforce de régler les éventuels différends concernant l’interprétation ou l’application du présent Accord, et
 - (f) examine toute autre question susceptible d’affecter l’exécution du présent Accord.
 
 <sup>3.</sup> Le Comité mixte peut décider la création des sous-comités et groupes de travail qu’il juge nécessaires pour l’assister dans l’accomplissement de ses tâches. Sous réserve de dispositions spécifiques du présent Accord, les sous-comités et groupes de travail agissent sur mandat du Comité mixte.
@@ -876,7 +876,7 @@ Le Comité mixte:
 
 <sup>5.</sup> Le Comité mixte prend ses décisions et formule ses recommandations par consensus.
 
-<sup>6.</sup> Le Comité mixte se réunit chaque fois que cela est nécessaire, mais normalement une fois tous les deux ans. Les séances ordinaires du Comité mixte sont coprésidées par un Etat de l’AELE et Singapour. Le Comité mixte établit son règlement intérieur.
+<sup>6.</sup> Le Comité mixte se réunit chaque fois que cela est nécessaire, mais normalement une fois tous les deux ans. Les séances ordinaires du Comité mixte sont coprésidées par un État de l’AELE et Singapour. Le Comité mixte établit son règlement intérieur.
 
 <sup>7.</sup> Chaque Partie peut demander à tout moment, par notification adressée aux autres Parties, la convocation d’une séance extraordinaire du Comité mixte. Cette séance se tient dans les 30 jours dès réception de la demande, à moins que les Parties n’en conviennent autrement.
 
@@ -890,7 +890,7 @@ Le Comité mixte:
 
 **Portée et champ d’application**
 
-<sup>1.</sup> Les dispositions du présent chapitre sont applicables à la prévention et au règlement de tous les différends relatifs au présent Accord entre un ou plusieurs Etats de l’AELE et Singapour.
+<sup>1.</sup> Les dispositions du présent chapitre sont applicables à la prévention et au règlement de tous les différends relatifs au présent Accord entre un ou plusieurs États de l’AELE et Singapour.
 
 <sup>2.</sup> Les différends portant sur une question qui relèvent à la fois du présent Accord et de l’Accord de l’OMC ou de tout autre accord négocié dans le cadre de ce dernier, auquel les Parties sont parties, peuvent être réglés selon le forum choisi par la Partie plaignante. Le choix d’un forum exclut l’autre.
 
@@ -910,7 +910,7 @@ Le Comité mixte:
 
 <sup>1.</sup> Les Parties s’efforcent à tout moment de trouver un accord sur l’interprétation et l’application du présent Accord et mettent tout en œuvre, au moyen de la coopération et des consultations, pour résoudre de façon mutuellement acceptable toute affaire pouvant affecter l’exécution de celui-ci.
 
-<sup>2.</sup> Un ou plusieurs Etats de l’AELE peuvent demander par écrit des consultations à Singapour, et vice versa, si une Partie considère qu’une mesure appliquée par la Partie ou les Parties à qui la demande est adressée n’est pas conforme au présent Accord ou que tout avantage découlant pour elle, directement ou indirectement, du présent Accord est compromis par une telle mesure[^58-1]. La Partie qui demande les consultations le notifie simultanément aux autres Parties. Les consultations ont lieu devant le Comité mixte, sous réserve du consentement de la Partie ou des Parties qui font la demande de consultations ou à qui cette demande est adressée.
+<sup>2.</sup> Un ou plusieurs États de l’AELE peuvent demander par écrit des consultations à Singapour, et vice versa, si une Partie considère qu’une mesure appliquée par la Partie ou les Parties à qui la demande est adressée n’est pas conforme au présent Accord ou que tout avantage découlant pour elle, directement ou indirectement, du présent Accord est compromis par une telle mesure[^58-1]. La Partie qui demande les consultations le notifie simultanément aux autres Parties. Les consultations ont lieu devant le Comité mixte, sous réserve du consentement de la Partie ou des Parties qui font la demande de consultations ou à qui cette demande est adressée.
 
 <sup>3.</sup> Les consultations ont lieu dans les 30 jours suivant la réception de la demande de les engager. Les consultations sur les affaires urgentes, y compris celles concernant des denrées agricoles périssables, commencent dans les 15 jours suivant la réception de la demande de les engager.
 
@@ -956,7 +956,7 @@ Le Comité mixte:
 
 **Procédure du panel arbitral**
 
-<sup>1.</sup> A moins que les parties au différend n’en disposent autrement, la procédure du panel arbitral se déroule conformément au modèle de Règles de procédure adopté lors de la première réunion du Comité mixte. Jusque-là, le panel arbitral fixe ses propres règles de procédure, à moins que les parties au différend n’en disposent autrement.
+<sup>1.</sup> À moins que les parties au différend n’en disposent autrement, la procédure du panel arbitral se déroule conformément au modèle de Règles de procédure adopté lors de la première réunion du Comité mixte. Jusque-là, le panel arbitral fixe ses propres règles de procédure, à moins que les parties au différend n’en disposent autrement.
 
 <sup>2.</sup>
 
@@ -964,20 +964,20 @@ Nonobstant le par. 1, toutes les procédures du panel arbitral garantissent:
 
 - (a) que les parties au différend ont droit à une audition au moins devant le panel arbitral et ont la possibilité de présenter par écrit leurs communications initiales et leurs argumentations;
 - (b) que les parties au différend sont invitées à participer à toutes les auditions menées par le panel arbitral;
-- (c) que les parties au différent ont accès à toutes les communications et tous les commentaires présentés au panel arbitral, sous réserve des exigences de confidentialité; et
+- (c) que les parties au différent ont accès à toutes les communications et tous les commentaires présentés au panel arbitral, sous réserve des exigences de confidentialité, et
 - (d) que les auditions, les délibérations, le rapport initial et toutes les communications écrites présentées au panel arbitral ainsi que toute autre communication qui lui est faite resteront confidentiels.
 
 <sup>3.</sup>
 
-A moins que les parties au différend n’en disposent autrement dans les 20 jours suivant le dépôt de la demande de constitution du panel arbitral, les termes de référence sont les suivants:
+À moins que les parties au différend n’en disposent autrement dans les 20 jours suivant le dépôt de la demande de constitution du panel arbitral, les termes de référence sont les suivants:
 
 - [tab] «Examiner, à la lumière des dispositions pertinentes du présent Accord, l’affaire exposée dans la demande de constitution du panel arbitral selon l’art. 59, rendre des conclusions de droit et de fait motivées et formuler, le cas échéant, des recommandations en vue du règlement du différend.»
 
-<sup>4.</sup> A la demande d’une partie au différend ou de sa propre initiative s’il l’estime approprié, le panel arbitral peut chercher à obtenir des informations scientifiques ou des conseils techniques d’experts.
+<sup>4.</sup> À la demande d’une partie au différend ou de sa propre initiative s’il l’estime approprié, le panel arbitral peut chercher à obtenir des informations scientifiques ou des conseils techniques d’experts.
 
 <sup>5.</sup> Le panel arbitral statue sur la base des dispositions du présent Accord, appliquées et interprétées conformément aux règles d’interprétation du droit international public.
 
-<sup>6.</sup> Les décisions du panel arbitral sont prises à la majorité des voix de ses membres. A défaut d’unanimité, les membres du panel arbitral peuvent émettre des avis particuliers. Aucun panel arbitral ne peut révéler qui de ses membres appartient à la majorité ou à la minorité**.**
+<sup>6.</sup> Les décisions du panel arbitral sont prises à la majorité des voix de ses membres. À défaut d’unanimité, les membres du panel arbitral peuvent émettre des avis particuliers. Aucun panel arbitral ne peut révéler qui de ses membres appartient à la majorité ou à la minorité**.**
 
 <sup>7.</sup> Les frais du panel arbitral, y compris la rémunération de ses membres, sont répartis également entre les parties au différend.
 
@@ -996,7 +996,7 @@ A moins que les parties au différend n’en disposent autrement dans les 20 jou
 Si tel est le cas, après avoir pris connaissance des commentaires écrits, le panel arbitral peut, de sa propre initiative ou à la demande d’une partie au différend:
 
 - (a) demander l’avis de toute partie au différend;
-- (b) reconsidérer son rapport; et
+- (b) reconsidérer son rapport, et
 - (c) procéder à tout autre examen qu’il juge approprié.
 
 #### Art. 63
@@ -1005,7 +1005,7 @@ Si tel est le cas, après avoir pris connaissance des commentaires écrits, le p
 
 <sup>1.</sup> Le panel arbitral présente un rapport final aux parties au différend, qui contient les données visées au par. 2 de l’art. 62, y compris les avis particuliers émis en l’absence d’unanimité, dans les 30 jours suivant la présentation du rapport initial.
 
-<sup>2.</sup> A moins que les parties au différend n’en disposent autrement, le rapport final est publié 15 jours après qu’il leur a été présenté.
+<sup>2.</sup> À moins que les parties au différend n’en disposent autrement, le rapport final est publié 15 jours après qu’il leur a été présenté.
 
 #### Art. 64
 
@@ -1035,7 +1035,7 @@ Une partie plaignante peut retirer sa plainte à tout moment avant la présentat
 
 <sup>9.</sup> La suspension des avantages est temporaire et n’est appliquée par la ou les Parties plaignantes que jusqu’au moment où les mesures considérées comme violant le présent Accord sont retirées ou amendées de manière à les rendre conformes au présent Accord, ou jusqu’au moment où les parties au différend sont parvenues à un accord mettant fin au différend.
 
-<sup>10.</sup> A la demande d’une partie au différend, le panel arbitral d’origine statue sur la conformité avec le rapport final des mesures d’application adoptées après la suspension des avantages et, à la lumière de cette décision, décide si la suspension des avantages doit prendre fin ou être modifiée. Le panel arbitral rend sa décision dans les 30 jours suivant la demande.
+<sup>10.</sup> À la demande d’une partie au différend, le panel arbitral d’origine statue sur la conformité avec le rapport final des mesures d’application adoptées après la suspension des avantages et, à la lumière de cette décision, décide si la suspension des avantages doit prendre fin ou être modifiée. Le panel arbitral rend sa décision dans les 30 jours suivant la demande.
 
 <sup>11.</sup> Les décisions rendues conformément aux par. 4, 5, 8 et 10 sont obligatoires.
 
@@ -1069,7 +1069,7 @@ Les Annexes et Appendices du présent Accord font partie intégrante de celui-ci
 
 <sup>1.</sup> Une fois approuvés par le Comité mixte, les amendements au présent Accord sont soumis aux Parties pour ratification, acceptation ou approbation, conformément à leurs exigences constitutionnelles respectives.
 
-<sup>2.</sup> A moins que le Comité mixte n’en décide autrement, les amendements entrent en vigueur le premier jour du troisième mois suivant le dépôt du dernier instrument de ratification, d’acceptation ou d’approbation.
+<sup>2.</sup> À moins que le Comité mixte n’en décide autrement, les amendements entrent en vigueur le premier jour du troisième mois suivant le dépôt du dernier instrument de ratification, d’acceptation ou d’approbation.
 
 <sup>3.</sup> Le texte des amendements et les instruments de ratification, d’acceptation ou d’approbation sont déposés auprès du Dépositaire.
 
@@ -1077,7 +1077,7 @@ Les Annexes et Appendices du présent Accord font partie intégrante de celui-ci
 
 **Adhésion**
 
-Tout Etat tiers peut devenir Partie au présent Accord. Les modalités et conditions de la participation d’un Etat tiers font l’objet d’un accord entre les Parties et l’Etat tiers.
+Tout État tiers peut devenir Partie au présent Accord. Les modalités et conditions de la participation d’un État tiers font l’objet d’un accord entre les Parties et l’État tiers.
 
 #### Art. 71
 
@@ -1093,9 +1093,9 @@ Tout Etat tiers peut devenir Partie au présent Accord. Les modalités et condit
 
 <sup>1.</sup> Le présent Accord est soumis à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation sont déposés auprès du Dépositaire.
 
-<sup>2.</sup> Le présent Accord entre en vigueur le 1<sup>er</sup> janvier 2003 pour les Etats signataires ayant déposé à cette date leur instrument de ratification, d’acceptation ou d’approbation auprès du Dépositaire, à condition que Singapour ait également déposé à cette date son instrument de ratification, d’acceptation ou d’approbation.
+<sup>2.</sup> Le présent Accord entre en vigueur le 1<sup>er</sup> janvier 2003 pour les États signataires ayant déposé à cette date leur instrument de ratification, d’acceptation ou d’approbation auprès du Dépositaire, à condition que Singapour ait également déposé à cette date son instrument de ratification, d’acceptation ou d’approbation.
 
-<sup>3.</sup> Si un Etat signataire dépose son instrument de ratification, d’acceptation ou d’approbation après le 1<sup>er</sup> janvier 2003, le présent Accord entre en vigueur le premier jour du troisième mois suivant le dépôt de l’instrument, à condition que le présent Accord entre en vigueur au plus tard à la même date pour Singapour.
+<sup>3.</sup> Si un État signataire dépose son instrument de ratification, d’acceptation ou d’approbation après le 1<sup>er</sup> janvier 2003, le présent Accord entre en vigueur le premier jour du troisième mois suivant le dépôt de l’instrument, à condition que le présent Accord entre en vigueur au plus tard à la même date pour Singapour.
 
 <sup>4.</sup> Chaque Partie peut, si ses exigences constitutionnelles le permettent, appliquer provisoirement le présent Accord pendant une période initiale commençant le 1<sup>er</sup> janvier 2003. L’application provisoire du présent Accord est notifiée au Dépositaire.
 
@@ -1105,7 +1105,7 @@ Tout Etat tiers peut devenir Partie au présent Accord. Les modalités et condit
 
 Le Gouvernement de la Norvège a la qualité de Dépositaire.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. Fait à Egilsstadir, le 26 juin 2002, en un exemplaire original en langue anglaise, déposé auprès du Gouvernement de la Norvège. Le Dépositaire transmet des copies certifiées conformes à tous les Etats signataires. (Suivent les signatures)
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. Fait à Egilsstadir, le 26 juin 2002, en un exemplaire original en langue anglaise, déposé auprès du Gouvernement de la Norvège. Le Dépositaire transmet des copies certifiées conformes à tous les États signataires. (Suivent les signatures)
 
 Protocole d’entente
 
@@ -1115,7 +1115,7 @@ Il est entendu que lorsque les termes employés dans les art. 19 et 33 sont les 
 
 S’il est entendu que les dispositions des chap. II, III et IV s’appliquent à l’infrastructure des télécommunications des Parties, aucune de ces dispositions n’empêche une Partie de prendre les mesures nécessaires pour protéger ses infrastructures critiques de télécommunication des tentatives délibérées de les rendre inutilisables ou de les endommager, à condition que ces mesures ne constituent pas soit un moyen de discrimination arbitraire ou injustifiée, soit une restriction déguisée au commerce des marchandises, au commerce des services ou aux investissements.
 
-[^annexu1-lvlu1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117),Annexe 2
+[^annexu1-lvlu1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235),Annexe 2
 
 ## Chapitre II
 
@@ -1137,7 +1137,7 @@ Les Parties conviennent d’encourager les initiatives en matière d’échange 
 
 ## Chapitres III, IV et VI
 
-Aux fins du présent Accord, les activités des entités non gouvernementales, y compris celles dans lesquelles le gouvernement de Singapour ou celui d’un Etat de l’AELE détient des parts, ne sont pas considérées comme des mesures prises par Singapour ou par cet Etat de l’AELE, à moins que ces entités n’exercent des pouvoirs délégués par leur gouvernement respectif*.*
+Aux fins du présent Accord, les activités des entités non gouvernementales, y compris celles dans lesquelles le gouvernement de Singapour ou celui d’un État de l’AELE détient des parts, ne sont pas considérées comme des mesures prises par Singapour ou par cet État de l’AELE, à moins que ces entités n’exercent des pouvoirs délégués par leur gouvernement respectif*.*
 
 ## Chapitre III
 
@@ -1186,15 +1186,15 @@ Singapour précise que l’engagement spécifique pour les *A. Employés transf�
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole d’entente.
 
-Fait à Egilsstadir, le 26 juin 2002, en un exemplaire original en langue anglaise, déposé auprès du Gouvernement de la Norvège. Le Dépositaire transmet des copies certifiées conformes à tous les Etats signataires.
+Fait à Egilsstadir, le 26 juin 2002, en un exemplaire original en langue anglaise, déposé auprès du Gouvernement de la Norvège. Le Dépositaire transmet des copies certifiées conformes à tous les États signataires.
 
 (Suivent les signatures)
 
-## Liste des annexes****
+## Liste des annexes
 
 [^annexVII-lvlu2-1]
 
-[^annexVII-lvlu2-1]: Ces documents (publiés en partie au [RO 2003 2019](https://fedlex.data.admin.ch/eli/oc/2003/308)) (à l’exception du protocole d’entente) ne sont publiés ni au RO ni au RS (voir [RO 2010 5433](https://fedlex.data.admin.ch/eli/oc/2010/771), [2012 1151](https://fedlex.data.admin.ch/eli/oc/2012/170)). Ils ne sont disponibles qu’en anglais et peuvent être consultés sur le site Internet de l’AELE à l’adresse suivante: http://www.efta.int/free-trade/free-trade-agreements/singapore/
+[^annexVII-lvlu2-1]: Ces documents (publiés en partie au [RO 2003 2019](https://fedlex.data.admin.ch/eli/oc/2003/308)) (à l’exception du protocole d’entente) ne sont publiés ni au RO ni au RS (voir [RO 2010 5433](https://fedlex.data.admin.ch/eli/oc/2010/771), [2012 1151](https://fedlex.data.admin.ch/eli/oc/2012/170)). Ils ne sont disponibles qu’en anglais et peuvent être consultés sur le site Internet de l’AELE à l’adresse suivante: http://www.efta.int &gt; Global Trade Relations &gt; Free Trade-Agreements &gt; Singapore
 
 <table>
 <tr><td></td><td>***Record of Understanding – Protocole d’entente***</td></tr>
@@ -1227,6 +1227,7 @@ Fait à Egilsstadir, le 26 juin 2002, en un exemplaire original en langue anglai
 <tr><td></td><td>Appendix 7 to Annex XI – Reservations by Switzerland</td></tr>
 <tr><td>**Annex XII**</td><td>Protection of intellectual property</td></tr>
 <tr><td></td><td>***Joint Committee Decisions***</td></tr>
+<tr><td>*No 1–11*</td><td>Amendments to Article 21 of Main Agreement</td></tr>
 <tr><td>*No 5–07*</td><td>Amendments to Appendices 1-3 to Annex I</td></tr>
 <tr><td>*No 4–07*</td><td>Amendments to Annex I</td></tr>
 <tr><td>*No 3–07*</td><td>Amendment to Annex IV</td></tr>
@@ -1239,7 +1240,7 @@ Fait à Egilsstadir, le 26 juin 2002, en un exemplaire original en langue anglai
 ## Champ d’application 1<sup>er</sup> janvier 2003
 
 <table>
-<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Islande</td><td>30 décembre</td><td>2002</td><td>1<sup>er</sup> janvier</td><td>2003</td></tr>
 <tr><td>Liechtenstein</td><td>30 décembre</td><td>2002</td><td>1<sup>er</sup> janvier</td><td>2003</td></tr>
 <tr><td>Norvège</td><td>19 décembre</td><td>2002</td><td>1<sup>er</sup> janvier</td><td>2002</td></tr>

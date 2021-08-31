@@ -3,11 +3,11 @@ sr: "0.632.316.891.1"
 title: "Accordo di libero scambio del 26 giugno 2002 tra gli Stati dell'AELS e la Repubblica di Singapore (con Prot. e all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/308"
 language: it
-version: 2011-11-01
+version: 2021-09-01
 adopted: 2002-06-26
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/308/20111101/it/xml/fedlex-data-admin-ch-eli-cc-2003-308-20111101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/308/20111101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/308/20210901/it/xml/fedlex-data-admin-ch-eli-cc-2003-308-20210901-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/308/20210901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/308/20111101/it"
 
 RU **2003** 2019; FF **2002** 5963
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso a Egilsstadir il 26 giugno 2002
+Concluso a Egilsstadir il 26 giugno 2002 Approvato dall’Assemblea federale il 10 dicembre 2002[^t-1] Ratificato dalla Svizzera con strumenti depositati il 24 dicembre 2002 Entrato in vigore per la Svizzera il 1° gennaio 2003
 
-Approvato dall’Assemblea federale il 10 dicembre 2002[^t-2]
+(Stato 1° settembre 2021)
 
-Ratificato dalla Svizzera con strumenti depositati il 24 dicembre 2002
-
-Entrato in vigore per la Svizzera il 1° gennaio 2003
-
-(Stato 1° novembre 2011)
-
-[^t-1]: Dal testo originale in lingua inglese.
-[^t-2]: Art. 1 cpv. 1 lett. a del DF del 10 dic. 2002 ([RU 2003 2018](https://fedlex.data.admin.ch/eli/oc/2003/307)).
+[^t-1]: Art. 1 cpv. 1 lett. a del DF del 10 dic. 2002 ([RU 2003 2018](https://fedlex.data.admin.ch/eli/oc/2003/307)).
 
 La Repubblica d’Islanda, il Principato del Liechtenstein, il Regno di Norvegia e la Confederazione Svizzera,
 
@@ -67,8 +60,8 @@ riconoscendo che la liberalizzazione del commercio dovrebbe permettere un’util
 
 hanno convenuto di concludere il presente Accordo di libero scambio, (denominato qui di seguito «il presente Accordo»):
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 ## I Disposizioni generali
 
@@ -90,8 +83,8 @@ Gli obiettivi del presente Accordo fondato su relazioni commerciali fra economie
 - (f) la garanzia di una protezione adeguata ed efficace dei diritti di proprietà intellettuale, conformemente alle norme internazionali in vigore; e
 - (g) di contribuire in tal modo, per mezzo dell’eliminazione degli ostacoli al commercio, all’espansione e allo sviluppo armoniosi del commercio mondiale.
 
-[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1
-[^1-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1.B
+[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1
+[^1-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1B
 
 #### Art. 2
 
@@ -114,7 +107,7 @@ Fatta salva l’Appendice I, il presente Accordo si applica:
 
 <sup>2.</sup> In virtù dell’unione doganale stabilita tra la Svizzera e il Principato del Liechtenstein dal Trattato del 29 marzo 1923[^3-1], la Svizzera rappresenta il Principato del Liechtenstein in tutte le questioni relative al presente Accordo.
 
-[^3-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^3-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 4
 
@@ -144,7 +137,7 @@ Il presente capitolo si applica:
 
 <sup>2.</sup> Singapore ha concluso con ciascuno Stato dell’AELS un accordo bilaterale sul commercio dei prodotti agricoli. Detti accordi sono parte integrante degli strumenti con i quali si istituisce una zona di libero scambio tra gli Stati dell’AELS e Singapore.
 
-[^6-1]: [RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^6-1]: [RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 7
 
@@ -197,7 +190,7 @@ Le Parti applicano il trattamento nazionale conformemente all’articolo III del
 
 <sup>2.</sup> I principi sanciti dal paragrafo 1 si applicano conformemente all’Accordo dell’OMC sull’applicazione di misure sanitarie e fitosanitarie[^12-1], il quale diviene in tal modo parte integrante del presente Accordo.
 
-[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.4
+[^12-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.4
 
 #### Art. 13
 
@@ -222,7 +215,7 @@ Nel quadro del presente articolo, le Parti si adoperano espressamente a:
 
 <sup>4.</sup> Fatto salvo il paragrafo 1, le Parti si accordano per tenere consultazioni nel quadro del Comitato misto in vista di trovare una soluzione appropriata, conformemente all’Accordo dell’OMC sugli ostacoli tecnici al commercio, se Singapore o uno degli Stati dell’AELS considera che uno o più Stati dell’AELS o Singapore ha preso misure che creano o potrebbero creare un ostacolo ingiustificato al commercio.
 
-[^13-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.6
+[^13-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.6
 
 #### Art. 14
 
@@ -230,7 +223,7 @@ Nel quadro del presente articolo, le Parti si adoperano espressamente a:
 
 I diritti e gli obblighi delle Parti concernenti le imprese commerciali del settore pubblico sono retti dall’articolo XVII del GATT 1994 e dall’Intesa sull’interpretazione dell’articolo XVII del GATT 1994[^14-1], i quali divengono in tal modo parte integrante del presente Accordo.
 
-[^14-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1.b
+[^14-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1.b
 
 #### Art. 15
 
@@ -238,8 +231,8 @@ I diritti e gli obblighi delle Parti concernenti le imprese commerciali del sett
 
 I diritti e gli obblighi delle Parti relativi alle sovvenzioni e alle misure compensative sono retti dagli articoli VI e XVI del GATT 1994, dall’Accordo dell’OMC sulle sovvenzioni e sulle misure compensative[^15-1] e dall’Accordo dell’OMC sull’agricoltura[^15-2].
 
-[^15-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.13
-[^15-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.3
+[^15-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.13
+[^15-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.3
 
 #### Art. 16
 
@@ -249,7 +242,7 @@ I diritti e gli obblighi delle Parti relativi alle sovvenzioni e alle misure com
 
 <sup>2.</sup> Al fine di impedire il dumping, le Parti adottano le misure necessarie previste nel capitolo 5.
 
-[^16-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.8
+[^16-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.8
 
 #### Art. 17
 
@@ -278,7 +271,7 @@ Tali misure consistono nell’aumento dell’aliquota del dazio applicabile a ta
 
 <sup>9.</sup> Se, dopo il primo riesame, decidono di mantenere tali misure, le Parti riesaminano le stesse successivamente ogni due anni in seno al Comitato misto.
 
-[^17-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.14
+[^17-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.14
 
 #### Art. 18
 
@@ -290,7 +283,7 @@ Tali misure consistono nell’aumento dell’aliquota del dazio applicabile a ta
 
 <sup>3.</sup> La Parte che adotta misure conformemente al presente articolo ne informa immediatamente le altri parti e il Comitato misto.
 
-[^18-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1A.1.c
+[^18-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1A.1.c
 
 #### Art. 19
 
@@ -331,19 +324,18 @@ Nessuna disposizione del presente capitolo può essere interpretata in modo tale
 
 <sup>1.</sup> Il presente capitolo si applica alle misure prese dai governi e dalle autorità centrali, regionali e locali nonché da istanze non governative nell’esercizio dei poteri conferiti dai governi e dalle autorità centrali, regionali e locali.
 
-<sup>2.</sup>
+2 Relativamente ai servizi di trasporto aereo, il presente capitolo non si applica alle misure concernenti i diritti di traffico, comunque concessi, o alle misure concernenti i servizi direttamente connessi all’esercizio di diritti di traffico, fatta eccezione per le misure concernenti:
 
-Il presente capitolo si applica a tutti i settori dei servizi, esclusi i servizi aerei, compresi i trasporti aerei nazionali e internazionali di linea e fuori linea, nonché i servizi ausiliari ad essi connessi, ad eccezione:
-
-- (a) dei servizi di riparazione e manutenzione degli aeromobili;
-- (b) della vendita e della commercializzazione dei servizi di trasporto aereo;
-- (c) dei servizi di sistemi telematici di prenotazione (CRS)[^21-1].
+- (a) i servizi di riparazione e manutenzione degli aeromobili;
+- (b) la vendita e la commercializzazione di servizi di trasporto aereo; oppure
+- (c) i sistemi telematici di prenotazione[^21-1].[^21-2]
 
 <sup>3.</sup> Gli Stati dell’AELS e Singapore si accordano per riesaminare gli sviluppi nel settore dei trasporti aerei al fine di valutare la necessità di un’ulteriore cooperazione in questo settore.
 
 <sup>4.</sup> Nessuna disposizione del presente capitolo può essere interpretata in modo tale da imporre un qualsiasi obbligo in materia di appalti pubblici.
 
-[^21-1]: Le nozioni di «servizi di riparazione e manutenzione degli aeromobili», «vendita e commercializzazione dei servizi di trasporto aereo» e «servizi di sistemi telematici di prenotazione (CRS)» sono definite nel paragrafo 6 dell’Appendice sui servizi di trasporto aereo del GATS.
+[^21-1]: Le definizioni del para. 6 dell’all. sui servizi di trasporto aereo del GATS sono inserite nel presente Acc. e divengono parte integrante del presente cap.
+[^21-2]: Nuovo testo giusta la Dec. 1/2011 del Comitato misto AELS – Singapore del 23 nov. 2011, in vigore per la Svizzera dal 1° set. 2021 ([RU 2021 470](https://fedlex.data.admin.ch/eli/oc/2021/470)).
 
 #### Art. 22
 
@@ -529,7 +521,7 @@ Nei settori nei quali una Parte abbia assunto impegni specifici salvo le disposi
 
 <sup>7.</sup> Nei settori in cui sono assunti impegni specifici concernenti servizi professionali, ciascuna Parte prevede procedure adeguate per la verifica della competenza dei professionisti di un’altra Parte.
 
-[^28-1]: L’espressione «organizzazioni internazionali pertinenti» si riferisce a organismi internazionali ai quali possono aderire gli organi pertinenti delle Parti.
+[^28-1]: L’espr. «organizzazioni internazionali pertinenti» si riferisce a organismi internazionali ai quali possono aderire gli organi pertinenti delle Parti.
 
 #### Art. 29
 
@@ -591,7 +583,7 @@ Fermo restando l’obbligo di non applicare le misure in maniera da causare disc
 - (e) incompatibili con l’articolo 23, purché il trattamento differenziato risulti da un accordo contro la doppia imposizione o da disposizioni contro la doppia imposizione contenute in altri accordi o convenzioni internazionali dai quali la Parte sia vincolata.
 
 [^33-1]: L’eccezione in materia di ordine pubblico può essere invocata esclusivamente ove uno degli interessi fondamentali della società sia esposto ad un rischio reale e sufficientemente grave.
-[^33-2]: Le misure finalizzate a garantire l’equa o efficace imposizione o riscossione delle imposte dirette comprendono i provvedimenti adottati da una Parte a norma del suo regime fiscale, che i) si applicano a fornitori di servizi non residenti, alla luce del fatto che l’imposta dovuta da soggetti non residenti viene determinata con riferimento a elementi imponibili provenienti dal territorio della Parte o ubicati nella stessa; o ii) si applicano a soggetti non residenti al fine di garantire l’imposizione o la riscossione di imposte nel territorio della Parte; o iii) si applicano a soggetti non residenti o residenti, al fine di impedire l’elusione o l’evasione fiscale, ivi comprese misure per garantire l’osservanza degli obblighi o iv) si applicano agli utilizzatori di servizi forniti nel territorio di un’altra Parte o provenienti dalla stessa, al fine di garantire l’imposizione o la riscossione di imposte su tali consumatori in relazione a fonti ubicate nel territorio della Parte; o v) operano una distinzione tra fornitori di servizi soggetti a imposizione a livello mondiale e altri fornitori di servizi, alla luce della differenza nella natura della base imponibile; o vi) determinano, attribuiscono o suddividono reddito, utili, guadagni, perdite, deduzioni o crediti di soggetti residenti o filiali o tra soggetti collegati o filiali dello stesso soggetto, al fine di salvaguardare la base imponibile della Parte. I termini o i concetti di natura fiscale contenuti nell’art. 33, par. d e nella presente nota sono determinati in base a definizioni e concetti fiscali, o a definizioni e concetti equivalenti o similari, a norma delle leggi interne della Parte che adotta la misura.
+[^33-2]: Le misure finalizzate a garantire l’equa o efficace imposizione o riscossione delle imposte dirette comprendono i provvedimenti adottati da una Parte a norma del suo regime fiscale, che: i) si applicano a fornitori di servizi non residenti, alla luce del fatto che l’imposta dovuta da soggetti non residenti viene determinata con riferimento a elementi imponibili provenienti dal territorio della Parte o ubicati nella stessa; o ii) si applicano a soggetti non residenti al fine di garantire l’imposizione o la riscossione di imposte nel territorio della Parte; o iii) si applicano a soggetti non residenti o residenti, al fine di impedire l’elusione o l’evasione fiscale, ivi comprese misure per garantire l’osservanza degli obblighi; o iv) si applicano agli utilizzatori di servizi forniti nel territorio di un’altra Parte: o provenienti dalla stessa, al fine di garantire l’imposizione o la riscossione di imposte su tali consumatori in relazione a fonti ubicate nel territorio della Parte; o v) operano una distinzione tra fornitori di servizi soggetti a imposizione a livello mondiale e altri fornitori di servizi, alla luce della differenza nella natura della base imponibile; o vi) determinano, attribuiscono o suddividono reddito, utili, guadagni, perdite, deduzioni o crediti di soggetti residenti o filiali o tra soggetti collegati o filiali dello stesso soggetto, al fine di salvaguardare la base imponibile della Parte. I termini o i concetti di natura fiscale contenuti nell’art. 33, par. d e nella presente nota sono determinati in base a definizioni e concetti fiscali, o a definizioni e concetti equivalenti o similari, a norma delle leggi interne della Parte che adotta la misura.
 
 #### Art. 34
 
@@ -697,7 +689,7 @@ Ai fini del presente capitolo:
 
 <sup>3.</sup> Se una Parte accorda privilegi particolari agli investitori di un Paese terzo e ai loro investimenti in virtù di un accordo concluso per evitare la doppia imposizione, detta Parte non è tenuta ad accordare privilegi agli investitori di un’altra Parte né ai loro investimenti.
 
-[^41-1]: La nota 25 concernente l’art. 33 del cap. III (Servizi) si applica parimenti, *mutatis mutandis*, al presente cap.
+[^41-1]: La nota 25 concernente l’art. 33 del cap. III (Servizi) si applica parimenti, *mutatis* *mutandis*, al presente cap.
 
 #### Art. 42
 
@@ -792,7 +784,7 @@ Se non sono risolte entro sei mesi dopo la data in cui è stato chiesto l’avvi
 
 <sup>3.</sup> Una Parte può concludere convenzioni con gli investitori di un’altra Parte, mediante i quali dà il suo consenso incondizionato e irrevocabile a sottoporre tutti i tipi di controversie o una parte di esse a una procedura di conciliazione o d’arbitrato internazionale conformemente al paragrafo 2. Siffatte convenzioni sono notificate al Depositario del presente Accordo.
 
-[^48-1]: [RS 0.975.2](https://fedlex.data.admin.ch/eli/cc/1968/982_1022_938)
+[^48-1]: [RS 0.975.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4570)
 
 #### Art. 49
 
@@ -824,7 +816,7 @@ gli articoli 33, 34 e 35 nonché l’articolo 19 (e), (f) e (g).
 
 <sup>2.</sup> Le Parti si dichiarano disposte a cooperare in seno al Comitato misto, al fine di approfondire le conoscenze inerenti ai rispettivi sistemi di appalti pubblici nonché di giungere a una maggiore liberalizzazione e a un’apertura reciproca degli appalti pubblici.
 
-[^51-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^51-1]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 
 #### Art. 52
 
@@ -852,7 +844,7 @@ Se, dopo l’entrata in vigore del presente Accordo, una Parte offre vantaggi su
 
 <sup>4.</sup> Su domanda di una Parte al Comitato misto e per quanto lo stesso vi acconsenta, le Parti convengono di riesaminare le disposizioni relative alla protezione dei diritti di proprietà intellettuale previste nel presente articolo e nell’Appendice XII, ai fini di estendere ulteriormente la protezione e di impedire le distorsioni degli scambi derivanti dal livello attuale di protezione dei diritti di proprietà intellettuale o di porre rimedio a tali distorsioni.
 
-[^54-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1.C
+[^54-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 1C
 
 ## VIII Disposizioni istituzionali
 
@@ -1118,7 +1110,7 @@ L’impiego degli stessi termini dell’articolo XX del GATT 1994 e dell’artic
 
 Vi è accordo sul fatto che le disposizioni dei capitoli II, III e IV si applicano pure all’infrastruttura delle telecomunicazioni delle Parti. Tuttavia, nessuna di queste disposizioni impedisce a una Parte di prendere i provvedimenti necessari alla protezione della propria infrastruttura di telecomunicazione, se essa è difettosa, da tentativi deliberati di renderla inutilizzabile o di danneggiarla, a condizione che queste misure non costituiscano uno strumento di discriminazione arbitraria o ingiustificata o un mezzo camuffato di restrizione al commercio dei beni, al commercio dei servizi o agli investimenti.
 
-[^annexu1-lvlu1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 2
+[^annexu1-lvlu1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Allegato 2
 
 ## Capitolo II
 
@@ -1193,11 +1185,11 @@ Fatto a Egilsstadir, il 26 giugno 2002, in un esemplare originale in lingua ingl
 
 (Seguono le firme)
 
-## Lista degli allegati****
+## Lista degli allegati
 
 [^annexVII-lvlu2-1]
 
-[^annexVII-lvlu2-1]: Questi doc. (in parte pubblicati nella [RU 2003 2019](https://fedlex.data.admin.ch/eli/oc/2003/308)) (con l’eccezione del Prot. d’intesa) non sono pubblicati né nella RU né nella RS (vedi [RU 2010 5433](https://fedlex.data.admin.ch/eli/oc/2010/771), [2012 1151](https://fedlex.data.admin.ch/eli/oc/2012/170)). Sono disponibili solo in inglese e possono essere consultati sul sito Internet dell’AELS, all’indirizzo seguente: http://www.efta.int/free-trade/free-trade-agreements/singapore/
+[^annexVII-lvlu2-1]: Questi doc. (in parte pubblicati nella [RU 2003 2019](https://fedlex.data.admin.ch/eli/oc/2003/308)) (con l’eccezione del Prot. d’intesa) non sono pubblicati nella RU (vedi [RU 2010 5433](https://fedlex.data.admin.ch/eli/oc/2010/771), [2012 1151](https://fedlex.data.admin.ch/eli/oc/2012/170)). Sono disponibili solo in inglese e possono essere consultati sul sito Internet dell’AELS, all’indirizzo seguente: http://www.efta.int/free-trade/free-trade-agreements/singapore/
 
 <table>
 <tr><td></td><td>***Record of Understanding – Protocollo d’intesa***</td></tr>
@@ -1230,6 +1222,7 @@ Fatto a Egilsstadir, il 26 giugno 2002, in un esemplare originale in lingua ingl
 <tr><td></td><td>Appendix 7 to Annex XI – Reservations by Switzerland</td></tr>
 <tr><td>**Annex XII**</td><td>Protection of intellectual property</td></tr>
 <tr><td></td><td>***Joint Committee Decisions***</td></tr>
+<tr><td>*No 1–11*</td><td>Amendment to Article 21</td></tr>
 <tr><td>*No 5–07*</td><td>Amendments to Appendices 1-3 to Annex I</td></tr>
 <tr><td>*No 4–07*</td><td>Amendments to Annex I</td></tr>
 <tr><td>*No 3–07*</td><td>Amendment to Annex IV</td></tr>

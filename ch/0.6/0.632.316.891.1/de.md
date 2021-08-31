@@ -3,11 +3,11 @@ sr: "0.632.316.891.1"
 title: Freihandelsabkommen vom 26. Juni 2002 zwischen den EFTA-Staaten und der Republik Singapur (mit Verständigungsprotokoll und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/308"
 language: de
-version: 2011-11-01
+version: 2021-09-01
 adopted: 2002-06-26
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/308/20111101/de/xml/fedlex-data-admin-ch-eli-cc-2003-308-20111101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/308/20111101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/308/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2003-308-20210901-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/308/20210901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,20 +16,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/308/20111101/de"
 
 AS **2003** 2019; BBl **2002** 6701
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in Egilsstadir am 26. Juni 2002
 
-Von der Bundesversammlung genehmigt am 10. Dezember 2002[^t-2]
+Von der Bundesversammlung genehmigt am 10. Dezember 2002[^t-1]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 24. Dezember 2002
 
 Für die Schweiz in Kraft getreten am 1. Januar 2003
 
-(Stand am 1. November 2011)
+(Stand am 1. September 2021)
 
-[^t-1]: Übersetzung des englischen Originaltextes.
-[^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 10. Dez. 2002 ([AS 2003 2018](https://fedlex.data.admin.ch/eli/oc/2003/307))
+[^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 10. Dez. 2002 ([AS 2003 2018](https://fedlex.data.admin.ch/eli/oc/2003/307))
 
 Die Republik Island, das Fürstentum Liechtenstein, das Königreich Norwegen und die Schweizerische Eidgenossenschaft
 
@@ -67,8 +66,8 @@ anerkennend, dass die Handelsliberalisierung die optimale Nutzung der Weltressou
 
 haben zur Erreichung oben genannter Ziele folgendes Abkommen: (nachfolgend als «dieses Abkommen» bezeichnet) abgeschlossen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 ## I Allgemeine Bestimmungen
 
@@ -90,8 +89,8 @@ Ziele dieses auf Handelsbeziehungen zwischen Marktwirtschaften basierenden Abkom
 - (f) die Sicherstellung eines angemessenen und wirksamen Schutzes des geistigen Eigentums gemäss internationalen Standards; und
 - (g) auf diese Weise, durch den Abbau von Handels- und Investitionshemmnissen, einen Beitrag zur harmonischen Entwicklung und Ausweitung des Welthandels zu leisten.
 
-[^1-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.1
-[^1-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1.B
+[^1-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.1
+[^1-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1B
 
 #### Art. 2
 
@@ -114,7 +113,7 @@ Unbeschadet von Anhang I ist dieses Abkommen anwendbar:
 
 <sup>2.</sup> Kraft des Vertrags vom 29. März 1923[^3-1] zwischen der Schweiz und Liechtenstein über die Zollunion vertritt die Schweiz das Fürstentum Liechtenstein in den darunter fallenden Angelegenheiten.
 
-[^3-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^3-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 4
 
@@ -144,7 +143,7 @@ Dieses Kapitel gilt für:
 
 <sup>2.</sup> Singapur hat mit jedem einzelnen EFTA-Staat ein bilaterales Abkommen über den Handel mit landwirtschaftlichen Erzeugnissen abgeschlossen. Diese Abkommen sind Bestandteil der Instrumente zur Errichtung einer Freihandelszone zwischen den EFTA-Staaten und Singapur.
 
-[^6-1]: [SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)
+[^6-1]: [SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)
 
 #### Art. 7
 
@@ -197,7 +196,7 @@ Die Vertragsparteien gewähren einander die Inländerbehandlung nach Artikel III
 
 <sup>2.</sup> Die Anwendung der in Absatz 1 genannten Grundsätze erfolgt nach dem WTO-Übereinkommen über die Anwendung gesundheitspolizeilicher und pflanzenschutzrechtlicher Massnahmen[^12-1], welches hiermit zum Bestandteil dieses Abkommens erklärt wird.
 
-[^12-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.4
+[^12-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.4
 
 #### Art. 13
 
@@ -213,14 +212,16 @@ Die Vertragsparteien verstärken ihre Zusammenarbeit im Bereich der technischen 
 - (b) der Förderung der Akkreditierung von Konformitätsbewertungsstellen auf der Basis der relevanten ISO/IEC-Normen und -richtlinien; sowie
 - (c) der Förderung der gegenseitigen Akzeptanz von Konformitätsbewertungsergebnissen der erwähnten Stellen, die im Rahmen eines entsprechenden multilateralen Abkommens zwischen ihren jeweiligen Akkreditierungssystemen oder Akkreditierungsstellen anerkannt worden sind.
 
-\3. Die Vertragsparteien verpflichten sich im Zusammenhang mit diesem Artikel ohne Verzug:
+<sup>3.</sup>
+
+Die Vertragsparteien verpflichten sich im Zusammenhang mit diesem Artikel ohne Verzug:
 
 - (a) den Informationsaustausch auszuweiten; und
 - (b) jedes schriftliche Gesuch um eine Konsultation wohlwollend in Erwägung zu ziehen.
 
 <sup>4.</sup> Unbeschadet von Absatz 1 vereinbaren die Vertragsparteien, im Gemischten Ausschuss Konsultationen aufzunehmen, um in Übereinstimmung mit dem WTO-Übereinkommen über die technischen Handelshemmnisse eine geeignete Lösung zu finden, falls Singapur oder ein EFTA-Staat der Ansicht ist, dass ein oder mehrere EFTA-Staaten beziehungsweise Singapur Massnahmen ergriffen haben, die ein Handelshemmnis schaffen oder schaffen könnten.
 
-[^13-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.6
+[^13-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.6
 
 #### Art. 14
 
@@ -228,7 +229,7 @@ Die Vertragsparteien verstärken ihre Zusammenarbeit im Bereich der technischen 
 
 Die Rechte und Pflichten der Vertragsparteien in Bezug auf die staatlichen Handelsunternehmen richten sich nach Artikel XVII GATT 1994 sowie nach der Vereinbarung über die Auslegung von Artikel XVII GATT 1994[^14-1], die hiermit zum Bestandteil dieses Abkommens erklärt werden.
 
-[^14-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.1.b
+[^14-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.1.b
 
 #### Art. 15
 
@@ -236,8 +237,8 @@ Die Rechte und Pflichten der Vertragsparteien in Bezug auf die staatlichen Hande
 
 Die Rechte und Pflichten der Vertragsparteien in Bezug auf Subventionen und Ausgleichsmassnahmen richten sich nach den Artikeln VI und XVI GATT 1994, dem WTO-Übereinkommen über Subventionen und Ausgleichsmassnahmen[^15-1] sowie dem WTO-Übereinkommen über die Landwirtschaft[^15-2].
 
-[^15-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.13
-[^15-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.3
+[^15-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.13
+[^15-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.3
 
 #### Art. 16
 
@@ -247,7 +248,7 @@ Die Rechte und Pflichten der Vertragsparteien in Bezug auf Subventionen und Ausg
 
 <sup>2.</sup> Um Dumpingpraktiken zu verhindern, ergreifen die Vertragsparteien die in Kapitel V vorgesehenen Massnahmen.
 
-[^16-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.8
+[^16-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.8
 
 #### Art. 17
 
@@ -276,7 +277,7 @@ Solche Massnahmen bestehen aus einer Zollerhöhung für diese Waren, wobei die Z
 
 <sup>9.</sup> Entscheiden sich die Vertragsparteien nach der ersten Überprüfung für die Fortführung eines solchen Mechanismus, so überprüfen sie diesen in der Folge alle zwei Jahre im Gemischten Ausschuss.
 
-[^17-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.14
+[^17-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.14
 
 #### Art. 18
 
@@ -288,7 +289,7 @@ Solche Massnahmen bestehen aus einer Zollerhöhung für diese Waren, wobei die Z
 
 <sup>3.</sup> Die Vertragspartei, die Massnahmen nach diesem Artikel einführt, unterrichtet unverzüglich die anderen Vertragsparteien und den Gemischten Ausschuss hiervon.
 
-[^18-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1A.1.c
+[^18-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1A.1.c
 
 #### Art. 19
 
@@ -334,17 +335,18 @@ Keine Bestimmung dieses Kapitels soll dahin ausgelegt werden:
 
 <sup>2.</sup>
 
-Dieses Kapitel gilt für alle Massnahmen, die den Dienstleistungsverkehr betreffen, mit Ausnahme von Dienstleistungen im Bereich der Luftfahrt, einschliesslich nationaler und internationaler Transportleistungen im Linien- oder im Nichtlinienverkehr, sowie der damit zusammenhängenden unterstützenden Dienstleistungen mit Ausnahme:
+Bezüglich Luftverkehrsdienstleistungen gilt dieses Kapitel weder für Massnahmen, die bereits gewährte Luftverkehrsrechte betreffen, wie auch immer diese gewährt wurden, noch für Massnahmen, welche Dienstleistungen betreffen, die unmittelbar mit der Ausübung von Luftverkehrsrechten zusammenhängen, sofern sie nicht Folgendes betreffen:
 
-- (a) von Luftfahrzeuginstandsetzungs- und -wartungsdienstleistungen;
-- (b) des Verkaufs und der Vermarktung von Luftverkehrsdienstleistungen;
-- (c) von Dienstleistungen computergestützter Reservationssysteme (CRS)[^21-1].
+- (a) Luftfahrzeuginstandsetzungs- und -wartungsdienstleistungen;
+- (b) Verkauf und Vermarktung von Luftverkehrsdienstleistungen; oder
+- (c) Dienstleistungen computergestützter Reservierungssysteme[^21-1].[^21-2]
 
 <sup>3.</sup> Die EFTA-Staaten und Singapur kommen überein, die Entwicklungen im Luftverkehrssektor zu prüfen, um den Bedarf nach weiterer Zusammenarbeit in diesem Bereich erneut zu beurteilen.
 
 <sup>4.</sup> Dieses Kapitel darf nicht so ausgelegt werden, als auferlege es den Vertragsparteien irgendwelche Pflichten in Bezug auf öffentliche Beschaffungen.
 
-[^21-1]: Die Begriffe «Luftfahrzeuginstandsetzungs- und -wartungsdienstleistungen» und «Dienstleistungen computergestützter Reservationssysteme (CRS)» werden in Abs. 6 des Anhangs über Luftverkehrsdienstleistungen des GATS definiert.
+[^21-1]: Die Begriffsbestimmungen in Absatz 6 des GATS-Anhangs über Luftverkehrsdienstleistungen werden hiermit zu Bestandteilen dieses Kapitels erklärt.
+[^21-2]: Fassung gemäss Beschluss Nr. 1/2011 des Gemischten Ausschusses EFTA-Singapur vom 23. Nov. 2011, in Kraft getreten für die Schweiz am 1. Sept. 2021 ([AS 2021 470](https://fedlex.data.admin.ch/eli/oc/2021/470)).
 
 #### Art. 22
 
@@ -592,7 +594,7 @@ Unter der Voraussetzung, dass solche Massnahmen nicht in einer Weise angewendet 
 - (e) die mit Artikel 23 unvereinbar sind, sofern die unterschiedliche Behandlung auf einem Doppelbesteuerungsabkommen oder auf Bestimmungen zur Vermeidung von Doppelbesteuerung in einem anderen internationalen Übereinkommen beruht, durch welches eine Vertragspartei gebunden ist.
 
 [^33-1]: Die Ausnahmeregelung in Bezug auf die öffentliche Ordnung kann nur in Anspruch genommen werden, wenn eine tatsächliche, ausreichend schwerwiegende Bedrohung der Grundwerte der Gesellschaft vorliegt.
-[^33-2]: Massnahmen, die auf eine gerechte oder tatsächlich wirksame Festsetzung oder Erhebung direkter Steuern abzielen, umfassen Massnahmen einer Vertragspartei im Rahmen ihres Steuersystems, die: (i) für gebietsfremde Dienstleistungserbringer in Anerkennung der Tatsache gelten, dass sich die Steuerpflicht Gebietsfremder nach den Steuerobjekten richtet, die im Hoheitsgebiet der Vertragspartei ihren Ursprung haben oder dort gelegen sind, oder (ii) für Gebietsfremde gelten, um die Festsetzung oder die Erhebung von Steuern im Hoheitsgebiet der Vertragspartei zu gewährleisten, oder (iii) für Gebietsfremde oder Gebietsansässige gelten, um Steuervermeidung oder ‑hinterziehung zu verhindern, einschliesslich Massnahmen, welche die Einhaltung der Rechtsvorschriften gewährleisten, oder (iv) für Nutzer von Dienstleistungen gelten, die in oder von dem Hoheitsgebiet einer anderen Vertragspartei aus erbracht werden, um die Besteuerung der Nutzer oder die Erhebung von Steuern aus Quellen im Hoheitsgebiet der Vertragspartei zu gewährleisten, oder (v) unterscheiden zwischen Dienstleistungserbringern, die hinsichtlich weltweiter Besteuerungsgrundlagen der Steuer unterliegen, und anderen Dienstleistungserbringern, in Anerkennung des Unterschiedes in der Art der Steuerbemessungsgrundlage zwischen beiden, oder vi) (dazu dienen, Einkommen, Gewinn, Wertzuwachs, Verlust, Abzüge oder anrechenbare Beträge in Bezug auf gebietsansässige Personen oder Zweigstellen oder verbundene Personen oder Zweigstellen derselben Person zu ermitteln, zuzuordnen oder aufzuteilen, um die Steuerbemessungsgrundlage der Vertragspartei zu sichern. Die steuerlichen Bestimmungen oder Begriffe in Art. 33 Bst. (d) und in dieser Fussnote werden in Übereinstimmung mit den steuerlichen Definitionen und Begriffen des innerstaatlichen Rechts oder gleichwertigen oder ähnlichen Definitionen und Begriffen der Vertragspartei, welche die Massnahme trifft, ausgelegt.
+[^33-2]: Massnahmen, die auf eine gerechte oder tatsächlich wirksame Festsetzung oder Erhebung direkter Steuern abzielen, umfassen Massnahmen einer Vertragspartei im Rahmen ihres Steuersystems, die: (i) für gebietsfremde Dienstleistungserbringer in Anerkennung der Tatsache gelten, dass sich die Steuerpflicht Gebietsfremder nach den Steuerobjekten richtet, die im Hoheitsgebiet der Vertragspartei ihren Ursprung haben oder dort gelegen sind, oder (ii) für Gebietsfremde gelten, um die Festsetzung oder die Erhebung von Steuern im Hoheitsgebiet der Vertragspartei zu gewährleisten, oder (iii) für Gebietsfremde oder Gebietsansässige gelten, um Steuervermeidung oder ‑hinterziehung zu verhindern, einschliesslich Massnahmen, welche die Einhaltung der Rechtsvorschriften gewährleisten, oder (iv) für Nutzer von Dienstleistungen gelten, die in oder von dem Hoheitsgebiet einer anderen Vertragspartei aus erbracht werden, um die Besteuerung der Nutzer oder die Erhebung von Steuern aus Quellen im Hoheitsgebiet der Vertragspartei zu gewährleisten, oder (v) unterscheiden zwischen Dienstleistungserbringern, die hinsichtlich weltweiter Besteuerungsgrundlagen der Steuer unterliegen, und anderen Dienstleistungserbringern, in Anerkennung des Unterschiedes in der Art der Steuerbemessungsgrundlage zwischen beiden, oder (vi) dazu dienen, Einkommen, Gewinn, Wertzuwachs, Verlust, Abzüge oder anrechenbare Beträge in Bezug auf gebietsansässige Personen oder Zweigstellen oder verbundene Personen oder Zweigstellen derselben Person zu ermitteln, zuzuordnen oder aufzuteilen, um die Steuerbemessungsgrundlage der Vertragspartei zu sichern. Die steuerlichen Bestimmungen oder Begriffe in Art. 33 Bst. (d) und in dieser Fussnote werden in Übereinstimmung mit den steuerlichen Definitionen und Begriffen des innerstaatlichen Rechts oder gleichwertigen oder ähnlichen Definitionen und Begriffen der Vertragspartei, welche die Massnahme trifft, ausgelegt.
 
 #### Art. 34
 
@@ -793,7 +795,7 @@ Führen diese Konsultationen innerhalb von sechs Monaten seit dem Antrag, solche
 
 <sup>3.</sup> Eine Vertragspartei kann mit den Investoren einer anderen Vertragspartei vertraglich Vereinbarungen abschliessen, in denen sie ihre unbedingte und unwiderrufliche Zustimmung dazu gibt, dass alle oder gewisse Arten von Streitigkeiten einem internationalen Schiedsverfahren gemäss Absatz 2 unterworfen werden. Solche Vereinbarungen können dem Depositar dieses Abkommens notifiziert werden.
 
-[^48-1]: [SR 0.975.2](https://fedlex.data.admin.ch/eli/cc/1968/982_1022_938)
+[^48-1]: [SR 0.975.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4570)
 
 #### Art. 49
 
@@ -825,7 +827,7 @@ die Artikel 33, 34 und 35 sowie Artikel 19 Buchstaben (e)–(g).
 
 <sup>2.</sup> Die Vertragsparteien erklären sich zur Zusammenarbeit im Gemischten Ausschuss bereit, um die Kenntnisse über ihre jeweiligen öffentlichen Beschaffungssysteme zu vertiefen und die öffentlichen Beschaffungsmärkte weiter zu liberalisieren und gegenseitig zu öffnen.
 
-[^51-1]: [SR 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^51-1]: [SR 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 
 #### Art. 52
 
@@ -853,7 +855,7 @@ Gewährt nach Inkrafttreten dieses Abkommens eine Vertragspartei einer Nichtvert
 
 <sup>4.</sup> Die Vertragsparteien vereinbaren, auf Antrag einer Vertragspartei an den Gemischten Ausschuss und sofern dieser sein Einverständnis erteilt, die in diesem Artikel und in Anhang XII enthaltenen Bestimmungen zum Schutz der Rechte an Geistigem Eigentum zu überprüfen mit dem Ziel, den Umfang des Schutzes weiter zu verbessern und Handelsverzerrungen, die sich aus dem gegenwärtigen Schutzumfang der Rechte an Geistigem Eigentum ergeben, zu vermeiden oder zu beseitigen.
 
-[^54-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 1.C
+[^54-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 1C
 
 ## VIII Institutionelle Bestimmungen
 
@@ -1119,7 +1121,7 @@ Wo in den Artikeln 19 und 33 dieselben Begriffe wie in Artikel XX GATT 1994 und 
 
 Es besteht Einvernehmen darüber, dass die Kapitel II, III und IV für die Telekommunikationsinfrastruktur der Vertragsparteien gelten. Nichts hindert jedoch eine Vertragspartei daran, Massnahmen zu ergreifen, die zum Schutz ihrer kritischen Telekommunikationsinfrastruktur vor vorsätzlichen Versuchen, diese Infrastruktur unbrauchbar zu machen oder zu beschädigen, erforderlich sind. Voraussetzung dafür ist, dass solche Massnahmen kein Mittel zur willkürlichen oder ungerechtfertigten Diskriminierung und keine verschleierte Beschränkung des Warenhandels, des Dienstleistungsverkehrs oder der Investitionstätigkeit darstellen.
 
-[^annexu1-lvlu1-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)Anhang 2
+[^annexu1-lvlu1-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)Anhang 2
 
 ## Kapitel II
 
@@ -1194,11 +1196,11 @@ Geschehen zu Egilsstadir, am 26. Juni 2002, in einer Originalausfertigung in eng
 
 (Es folgen die Unterschriften)
 
-## Liste der Anhänge****
+## Liste der Anhänge
 
-[^annexVII-lvlu2-1]
+[^annexu1-lvlu2-1]
 
-[^annexVII-lvlu2-1]: Diese Dokumente (teilweise publiziert in [AS 2003 2019](https://fedlex.data.admin.ch/eli/oc/2003/308)) werden (mit Ausnahme des Verständigungsprotokolls) weder in der AS noch der SR veröffentlicht (siehe [AS 2010 5433](https://fedlex.data.admin.ch/eli/oc/2010/771), [2012 1151](https://fedlex.data.admin.ch/eli/oc/2012/170)). Sie sind nur in englischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int/free-trade/free-trade-agreements/singapore/
+[^annexu1-lvlu2-1]: Diese Dokumente (teilweise publiziert in [AS 2003 2019](https://fedlex.data.admin.ch/eli/oc/2003/308)) werden (mit Ausnahme des Verständigungsprotokolls) weder in der AS noch der SR veröffentlicht (siehe [AS 2010 5433](https://fedlex.data.admin.ch/eli/oc/2010/771), [2012 1151](https://fedlex.data.admin.ch/eli/oc/2012/170)). Sie sind nur in englischer Originalsprache verfügbar und können eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int/free-trade/free-trade-agreements/singapore/
 
 <table>
 <tr><td></td><td>***Record of Understanding – Verständigungsprotokoll***</td></tr>
@@ -1231,6 +1233,7 @@ Geschehen zu Egilsstadir, am 26. Juni 2002, in einer Originalausfertigung in eng
 <tr><td></td><td>Appendix 7 to Annex XI – Reservations by Switzerland</td></tr>
 <tr><td>**Annex XII**</td><td>Protection of intellectual property</td></tr>
 <tr><td></td><td>***Joint Committee Decisions***</td></tr>
+<tr><td>*No 1–11*</td><td>Amendments to Article 21 of Main Agreement</td></tr>
 <tr><td>*No 5–07*</td><td>Amendments to Appendices 1-3 to Annex I</td></tr>
 <tr><td>*No 4–07*</td><td>Amendments to Annex I</td></tr>
 <tr><td>*No 3–07*</td><td>Amendment to Annex IV</td></tr>
@@ -1240,7 +1243,7 @@ Geschehen zu Egilsstadir, am 26. Juni 2002, in einer Originalausfertigung in eng
 <tr><td>*No 1–04*</td><td>Establishing the rules of procedure of the EFTA-Singapore Joint Committee</td></tr>
 </table>
 
-## Geltungsbereich am 1. Januar 2003
+Geltungsbereich am 1. Januar 2003
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
