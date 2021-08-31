@@ -4,13 +4,13 @@ number: "495.211"
 title: Verordnung zum Kulturgesetz
 short: VKG
 language: de
-version: 2019-09-01
-valid_until: 2021-08-31
-version_adopted: 2019-07-02
+version: 2021-09-01
+valid_until: 2024-10-31
+version_adopted: 2021-06-30
 adopted: 2009-11-04
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/495.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2748/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3075/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2748/pdf_file"
 
 (VKG)
 
-Vom 04.11.2009 (Stand 01.09.2019)
+Vom 04.11.2009 (Stand 01.09.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -209,9 +209,9 @@ beschliesst:
 
 <sup>2</sup> Die Hallwil-Stiftung hat das Recht, zwei Mitglieder der Kommission zu stellen, die Stiftung Schloss Lenzburg ein Mitglied.
 
-<sup>3</sup> Für das Schloss Hallwyl wird eine fünfköpfige Subkommission gebildet, bestehend aus den beiden von der Hallwil-Stiftung gestellten und drei vom Regierungsrat bestimmten Mitgliedern der Kommission.
+<sup>3</sup> …
 
-<sup>4</sup> Kommission und Subkommission konstituieren und organisieren sich selbst.
+<sup>4</sup> Die Kommission konstituiert und organisiert sich selbst.
 
 #### § 16
 
@@ -219,7 +219,7 @@ beschliesst:
 
 <sup>1</sup> Die Kommission Museum Aargau berät als Fachgremium die Museumsleitung bei der konzeptionellen Weiterentwicklung und Ergänzung der Sammlung sowie in wichtigen Belangen der Ausstellungs- und Vermittlungstätigkeit. Die Kommission ist vor Ankäufen, die den Betrag von Fr. 10'000.– übersteigen, anzuhören.
 
-<sup>2</sup> Der Subkommission Schloss Hallwyl obliegen die Aufgaben gemäss Schenkungsvertrag über die Abtretung des Schlosses Hallwyl vom 9. März 1994.
+<sup>2</sup> …
 
 ### 3.4. Aargauer Kantonsbibliothek
 
