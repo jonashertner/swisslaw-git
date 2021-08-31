@@ -1,363 +1,323 @@
 ---
 canton: VS
 number: "311.1"
-title: "Loi d'application du code pénal suisse"
+title: "Loi d'application du code pénal"
 short: LACP
 language: fr
-version: 2016-10-01
-corrected: 2017-09-05
-version_adopted: 2015-03-12
+version: 2021-09-01
+valid_until: 2023-12-31
+version_adopted: 2021-06-08
 adopted: 2016-05-12
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/311.1"
-pdf: "https://lex.vs.ch/api/fr/versions/591/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2935/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi d'application du code pénal suisse (LACP)
+# Loi d'application du code pénal
 
-du 14 septembre 2006
+(LACP)
+
+du 12.05.2016 (état 01.09.2021)
 
 Le Grand Conseil du canton du Valais
 
-vu les articles 333, 335, 338, 339ss, 356ss, 372ss, 381ss et 391 du code pénal suisse (CP);
+vu les articles 333, 335, 372 et suivants, 381 et suivants et 391 du code pénal suisse (CP);
 
-vu les articles 31 et 42 alinéas 1 et 2 de la Constitution cantonale;
+vu les articles 31 alinéa 1 lettre a, 32 alinéa 1 et 42 alinéas 1 et 2 de la Constitution cantonale;
 
-vu l'article 43 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996;
+vu les articles 40 et 43 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996;
 
 sur la proposition du Conseil d'Etat,
 
-ordonne:
+ordonne:[^ingress-1]
 
-### Chapitre 1: Dispositions générales
+[^ingress-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+
+## 1 Dispositions générales
 
 #### Art. 1
 
-**Objet**
+**Buts de la loi**
 
-<sup>1</sup> Sous réserve des prescriptions du droit fédéral, la présente loi fixe la compétence des autorités chargées de l'application du droit pénal fédéral, ainsi que la procédure à suivre devant ces autorités. Une loi spéciale arrête les dispositions d'application de la loi fédérale régissant la condition pénale des mineurs.
+<sup>1</sup> Sous réserve des prescriptions du droit fédéral, la présente loi:
 
-<sup>2</sup> Elle contient en outre les prescriptions cantonales complémentaires au droit pénal fédéral.
+- a) désigne les autorités chargées d'exécuter les ordonnances du ministère public assimilées à des jugements entrés en force et les jugements rendus par les tribunaux pénaux en vertu du code pénal suisse (CP), fixe leurs compétences et arrête la procédure à suivre devant ces autorités;
+- b) pourvoit à la mise en œuvre d'autres lois fédérales en matière pénale ne faisant pas l'objet d'une législation d'application spécifique.
 
-<sup>3</sup> La législation cantonale spéciale demeure réservée.
+<sup>2</sup> Elle édicte, en complément du droit fédéral et du droit concordataire, les dispositions traitant de l'exécution des peines et mesures.
+
+<sup>3</sup> Elle énonce les dispositions de droit pénal cantonal et communal.
 
 #### Art. 2
 
-<sup>2</sup> Affaires judiciaires et administratives
+**Droit complémentaire**
 
-<sup>1</sup> L'application du droit pénal fédéral est confiée, soit aux autorités judiciaires (chapitre 2), soit aux autorités administratives (chapitre 3).
+<sup>1</sup> Le Conseil d'Etat édicte, par voie d'ordonnance, le droit complémentaire en matière d'exécution des jugements pénaux conformément aux délégations de compétence prévues par la présente loi.
 
-<sup>2</sup> Les jugements, décisions et mesures que ni le droit pénal fédéral ni la présente loi n'attribuent expressément à une autorité relèvent:
-
-- a) du ministère public pour la poursuite des infractions;
-
-- b) de l'autorité judiciaire pour le jugement des infractions;
-
-- c) de l'autorité administrative pour l'exécution des jugements.
+<sup>2</sup> Il édicte les dispositions d'exécution des ordonnances du Conseil fédéral en matière d'exécution des jugements pénaux.
 
 #### Art. 3
 
-**Egalité entre femmes et hommes**
+**Application aux autres jugements pénaux**
 
-Toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
-
-### Chapitre 2: Affaires judiciaires pénales
+<sup>1</sup> Sauf disposition contraire, la présente loi s'applique à l'exécution des jugements et décisions rendus à l'encontre d'une personne adulte par les tribunaux pénaux et les autorités pénales en vertu du droit pénal fédéral accessoire.
 
 #### Art. 4
 
-<sup>2</sup> Autorité de poursuite et de jugement
+**Réserves de la loi**
 
-<sup>1</sup> La compétence et la procédure judiciaires pour la poursuite et le jugement des infractions sont réglées, sous réserve du droit fédéral, dans la loi sur l'organisation de la Justice, la loi d'application du code de procédure pénale suisse et la législation cantonale complémentaire.
+<sup>1</sup> Demeurent réservés:
 
-<sup>2</sup> La compétence des autorités administratives pour la répression des contraventions est réservée.
+- a) le code de procédure pénale suisse (CPP), la loi fédérale régissant la condition pénale des mineurs (DPMin), la loi fédérale sur la procédure pénale applicable aux mineurs (PPMin), la loi fédérale sur l'entraide internationale en matière pénale (EIMP) et la Convention sur le transfèrement des personnes condamnées;
+- b) la loi d'application du code de procédure pénale suisse (LACPP);
+- c) la loi d'application de la loi fédérale régissant la condition pénale des mineurs (LADPMin) et la loi d'application de la loi fédérale sur la procédure pénale applicable aux mineurs (LAPPMin);
+- d) la loi sur l'organisation de la Justice (LOJ), la loi sur l'assistance judiciaire (LAJ) et la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives (LTar);
+- e) les législations cantonale et communale spéciales en matière pénale.
 
-<sup>3</sup> Le chef du service de l’application des peines et mesures entendue, l'autorité d'instruction saisie, respectivement le juge de district ou le président de l'autorité de jugement saisi, peut autoriser l'exécution anticipée de la mesure (art. 58 al. 1 CP) ou de la peine privative de liberté (art. 75 al. 2 CP).
+## 2 Autorités compétentes pour l'exécution des jugements pénaux et procédures
 
 #### Art. 5
 
-<sup>2</sup> Juge de l'application des peines et mesures
+**Affaires judiciaires et administratives**
 
-<sup>1</sup> Sous réserve des compétences que le droit fédéral attribue expressément au ministère public, au juge du jugement, au juge de la révision ou au juge de la nouvelle infraction, le juge de l'application des peines et mesures statue chaque fois que le droit pénal fédéral réserve la compétence du juge pour une décision postérieure à l'entrée en force du jugement pénal, notamment:
+<sup>1</sup> L'exécution des jugements pénaux est confiée soit aux autorités judiciaires, respectivement au ministère public (chapitre 2.1), soit aux autorités administratives (chapitre 2.2).
 
-- a) convertir la peine pécuniaire ou l'amende en une peine privative de liberté de substitution, en suspendre l'exécution, accorder un délai de paiement supplémentaire pour le paiement de la peine pécuniaire, en réduire le montant ou la remplacer par un travail d'intérêt général (art. 36 al. 2, 3 et 4, 106 al. 5 CP);
+<sup>2</sup> Le département dont relève la sécurité est compétent pour rendre les décisions postérieures à un jugement pénal exécutoire que ni le droit fédéral ni la présente loi et ses dispositions d'exécution n'attribuent à une autorité judiciaire ou à une autre autorité administrative.
 
-- b) convertir le travail d'intérêt général en une peine pécuniaire ou une peine privative de liberté de substitution (art. 39 al. 1 CP);
-
-- c) prolonger les mesures thérapeutiques institutionnelles pour le traitement des troubles mentaux (art. 59 al. 4 CP) ou des addictions (art. 60 al. 4 CP);
-
-- d) lever la mesure institutionnelle thérapeutique, s'il n'y a pas ou plus d'établissement approprié, dont l'exécution est vouée à l'échec ou a atteint la durée maximale sans libération conditionnelle possible ou dont les modalités ne sont plus adéquates, et statuer sur le sort du condamné dont la mesure est levée (art. 62c al. 1 à 4 et 6 CP);
-
-- e) prolonger le délai d'épreuve ou le traitement ambulatoire; lever, modifier ou prolonger l'assistance de probation; modifier les règles de conduite, les révoquer ou en imposer de nouvelles (art. 46 al. 4, 62 al. 4 à 6, 64a al. 2 et 4, 87 al. 3, 95 al. 4 CP); ou encore révoquer le sursis ou ordonner la réintégration dans l'exécution de la peine, de la mesure ou de l'internement (art. 46 al. 4, 64a al. 3, 95 al. 5 CP);
-
-- f) prolonger le traitement ambulatoire ordonné en lieu et place du traitement institutionnel (art. 63 al. 4 CP) et se prononcer sur l'exécution de la peine suspendue (art. 63b CP).
-
-<sup>2</sup> De plus, et sous les mêmes réserves qu'à l'alinéa 1, il exerce les attributions suivantes:
-
-- a) rendre toutes les autres décisions relatives à la levée d'une mesure institutionnelle ou ambulatoire, notamment celles prévues aux articles 56 alinéa 6, 57 alinéa 3, 62c alinéa 5, et 63a du code pénal;
-
-- b) rendre toutes les décisions relatives à la libération conditionnelle d'une mesure thérapeutique institutionnelle (art. 62, 62d CP) ou d'un internement (art. 64a, 64b al. 1 lettre a CP), ainsi que prononcer une assistance de probation ou une règle de conduite;
-
-- c) examiner si les conditions d'un traitement thérapeutique institutionnel sont réunies par le condamné à l'internement avant ou pendant son exécution et saisir, le cas échéant, le juge du jugement (art. 64b al. 1 lettre b CP);
-
-- d) rendre toutes les décisions relatives à la libération conditionnelle d'une peine privative de liberté (art. 86, 87 al. 1, 89 al. 2 à 4, 95 al. 3 à 5 CP), ainsi que prononcer une assistance de probation ou une règle de conduite (art. 87 al. 2 CP);
-
-- e) se prononcer sur la levée de l'interdiction d'exercer une profession ou sur la limitation de sa durée ou de son contenu (art. 67a al. 3 à 5 CP).
+### 2.1 Autorités judiciaires et ministère public
 
 #### Art. 6
 
-**Autres affaires judiciaires pénales**
+**Juge du jugement - Juge de la révision**
 
-- a) président de l'autorité de jugement Les décisions postérieures à un jugement pénal exécutoire réservées par le droit fédéral à l'autorité de jugement relèvent de cette autorité ou, s'il s'agit d'un collège, de son président.
+<sup>1</sup> Les décisions postérieures à un jugement pénal exécutoire réservées par le droit fédéral à l'autorité de jugement relèvent de cette autorité ou, s'il s'agit d'un collège, de son président.
 
-#### Art. 7 b
+<sup>2</sup> Le prononcé ultérieur de l'internement en lieu et place de la peine privative de liberté relève du Tribunal cantonal en tant qu'autorité compétente pour la révision.
 
-**) président de l'autorité saisie d'une nouvelle infraction**
+#### Art. 7
 
-Si une mesure urgente doit être prise à l'égard d'un condamné en exécution de peine ou de mesure par l'autorité ayant à connaître d'une nouvelle infraction, celle-ci, ou son président s'il s'agit d'un collège, statue à titre provisoire.
+**Juge de la nouvelle infraction**
 
-[^7b-1]: Nouvelle teneur selon l'art. 47 ch. 5 de la loi BO No 13/2009 1.01.2011 d'application du code de procédure pénale 26/2010 suisse du 11.02.2009
+<sup>1</sup> Si une mesure urgente doit être prise à l'égard d'un condamné en exécution de peine ou de mesure par l'autorité ayant à connaître d'une nouvelle infraction, celle-ci, ou son président s'il s'agit d'un collège, statue à titre provisoire.
 
 #### Art. 8
 
-**c) cautionnement préventif**[^7b-1]
+**Ministère public**
 
-En matière de cautionnement préventif (art. 66 CP) indépendant d'une procédure pénale, la compétence et la procédure sont régies par les articles 372ss du code de procédure pénale suisse.
+<sup>1</sup> Le ministère public qui rend une décision dans une procédure d'ordonnance pénale est également compétent pour rendre les décisions ultérieures.
 
-[^8-1]: Nouvelle teneur selon l'art. 47 ch. 5 de la loi BO No 13/2009 1.01.2011 d'application du code de procédure pénale 26/2010 suisse du 11.02.2009
+<sup>2</sup> Il est compétent pour donner au service central spécialisé dans la répression de la pornographie les avis concernant la fabrication ou l'importation d'objets pornographiques.
 
 #### Art. 9
 
-**d) confiscation**[^8-1]
+**Juge ou tribunal de l'application des peines et mesures a) Compétence générale**
 
-En matière de confiscation (art. 69 à 72 CP) indépendante d'une procédure pénale, la compétence et la procédure sont régies par les articles 376ss du code de procédure pénale suisse.
-
-[^9-1]: Nouvelle teneur selon l'art. 47 ch. 5 de la loi BO No 13/2009 1.01.2011 d'application du code de procédure pénale 26/2010 suisse du 11.02.2009
+<sup>1</sup> Sous réserve des compétences que le droit fédéral attribue expressément, au juge du jugement, au juge de la révision, au juge de la nouvelle infraction ou au ministère public, le juge de l'application des peines et mesures statue chaque fois que le droit pénal fédéral réserve la compétence du juge pour une décision postérieure à l'entrée en force du jugement pénal.
 
 #### Art. 10
 
-**e) droit d'un tiers**[^9-1]
+**b) Compétences spéciales**
 
-Abrogé
+<sup>1</sup> De plus, et sous les mêmes réserves qu'à l'article 9, il exerce les attributions suivantes:
 
-[^10-1]: Nouvelle teneur selon l'art. 47 ch. 5 de la loi BO No 13/2009 1.01.2011 d'application du code de procédure pénale 26/2010 suisse du 11.02.2009
+- a) rendre toutes les décisions relatives à la levée d'une mesure institutionnelle ou ambulatoire;
+- b) rendre toutes les décisions relatives à la libération conditionnelle d'une mesure thérapeutique institutionnelle ou d'un internement, ainsi que prononcer une assistance de probation ou une règle de conduite;
+- c) examiner si les conditions d'un traitement thérapeutique institutionnel sont réunies par le condamné à l'internement avant ou pendant son exécution et saisir, le cas échéant, le juge du jugement;
+- d) rendre toutes les décisions relatives à la libération conditionnelle d'une peine privative de liberté, ainsi que prononcer une assistance de probation ou une règle de conduite;
+- e) rendre toutes les décisions relatives à l'exécution d'une interdiction d'activité, de contact ou de périmètre;
+- f) prolonger, lever ou modifier une règle de conduite ou une mesure d'assistance de probation.
 
 #### Art. 11
 
-**f) allocation au lésé**[^10-1]
+**c) Compétences du juge unique ou du tribunal**
 
-La procédure et la compétence concernant les demandes du lésé portant sur l'allocation en sa faveur des objets et des valeurs patrimoniales confisqués (art. 73 CP) sont régies par l'article 378 du code de procédure pénale suisse.
+<sup>1</sup> Dans la règle, le juge de l'application des peines et mesures statue comme juge unique.
 
-[^11-1]: Nouvelle teneur selon l'art. 47 ch. 5 de la loi BO No 13/2009 1.01.2011 d'application du code de procédure pénale 26/2010 suisse du 11.02.2009
+<sup>2</sup> Dans des cas particuliers, il peut déférer la cause au tribunal de l'application des peines et mesures.
+
+### 2.2 Autorités d'exécution et autres autorités
 
 #### Art. 12
 
-**g) exemption de peine**[^11-1]
+**Autorités d'exécution**
 
-Abrogé
-
-[^12-1]: Nouvelle teneur selon l'art. 47 ch. 5 de la loi BO No 13/2009 1.01.2011 d'application du code de procédure pénale 26/2010 suisse du 11.02.2009
-
-#### Art. 13
-
-**h) entraide judiciaire**[^12-1]
-
-Abrogé
-
-#### Art. 14 i
-
-**) objets pornographiques**
-
-L'autorité d'instruction cantonale est compétente pour donner au service central spécialisé dans la répression de la pornographie les avis concernant la fabrication ou l'importation d'objets pornographiques (art. 362 CP).
-
-[^14i-1]: Nouvelle teneur selon ch. III de la loi BO No 39/2012 1.01.2013 modifiant le droit applicable à la poursuite et au jugement des contraventions de droit cantonal et communal, et au prononcé des
-
-#### Art. 15
-
-**Abrogé**[^14i-1]
-
-#### Art. 16
-
-<sup>2</sup> Procédure a) devant le juge de l'application des peines et mesures
-
-La procédure applicable aux décisions prises par le juge de l'application des peines et mesures est régie par le droit fédéral (art. 364 et 365 CPP).
-
-[^16-1]: Nouvelle teneur selon l'art. 47 ch. 5 de la loi BO No 13/2009 1.01.2011 d'application du code de procédure pénale 26/2010 suisse du 11.02.2009
-
-#### Art. 17
-
-**b) devant une autre autorité judiciaire**[^16-1]
-
-Abrogé
-
-### Chapitre 3: Affaires administratives pénales
-
-### Section 1: Compétences et procédure en général
-
-#### Art. 18
-
-**Autorités administratives**
-
-Les autorités administratives chargées de l'exécution des peines et mesures sont:
+<sup>1</sup> Les autorités administratives chargées de l'exécution des peines et mesures sont notamment:
 
 - a) le département dont relève la sécurité (ci-après: département);
+- b) le service dont relève l'application des peines et mesures (ci-après: service);
+- c) l'autorité de probation;
+- d) la commission de dangerosité;
+- e) les autorités compétentes selon la législation spéciale pour rendre des prononcés pénaux administratifs.
 
-- b) abrogée[^18-1]
+<sup>2</sup> Demeurent réservées les dispositions de la présente loi et la législation spéciale attribuant une compétence particulière à une autre autorité.
 
-- c) le service de l’application des peines et mesures (SAPEM, ci-après: service);[^18-1]
-
-- d) abrogée[^18-1]
-
-- e) le département dont relèvent les finances publiques;
-
-- f) le tribunal de police.[^18-2]
-
-[^18-1]: Nouvelle teneur selon le décret du 13.12.2012 BO No 51/2012 1.01.2013 (valable jusqu'au 31.12.2017)
-[^18-2]: Nouvelle teneur selon ch. III de la loi BO No 39/2012 1.01.2013 modifiant le droit applicable à la poursuite et au jugement des contraventions de droit cantonal et communal, et au prononcé des
-
-#### Art. 19
+#### Art. 13
 
 **Département**
 
 <sup>1</sup> Le département est compétent pour:
 
-- a) décider de l'interruption d'une peine ou d'une mesure (art. 92 CP);
+- a) différer à la demande du condamné, pour des motifs sérieux et à brève échéance, une fois au plus sauf circonstance exceptionnelle, la date fixée pour subir la peine ou la mesure prononcée contre lui, si ce délai, assorti au besoin de conditions, paraît compatible avec l'ordre public;
+- b) accorder des facilités pour le paiement de la créance compensatrice en cas de nécessité et si cette mesure est de nature à favoriser la réinsertion sociale du condamné;
+- c) fixer la participation du condamné aux frais d'exécution de la peine ou de la mesure lorsqu'il refuse sans droit d'exécuter le travail qui lui est attribué (art. 60 al. 4);
+- d) décider de l'interruption d'une peine ou d'une mesure.
 
-- b) différer à la demande du condamné, pour des motifs sérieux et à brève échéance, une fois au plus, la date fixée pour subir la peine ou la mesure prononcée contre lui, si ce délai, assorti au besoin de conditions, paraît compatible avec l'ordre public;
+<sup>2</sup> L'article 5 alinéa 2 de la présente loi demeure réservé.
 
-- c) accorder des facilités pour le paiement de la créance compensatrice en cas de nécessité et si cette mesure est de nature à favoriser la réinsertion sociale du condamné;
+#### Art. 14
 
-- d) fixer la participation du condamné aux frais d'exécution de la peine ou de la mesure lorsqu'il refuse sans droit d'exécuter le travail qui lui est attribué (art. 46 al. 2 lettre c);
+**Service a) Unités d'organisation**
 
-- e) rendre les décisions postérieures à un jugement pénal exécutoire qui ne sont pas attribuées à une autorité judiciaire ou à une autre autorité administrative.
+<sup>1</sup> Pour l'exécution des jugements pénaux concernant les condamnés adultes, le service dispose des unités d'organisation suivantes:
 
-<sup>2</sup> Le département peut déléguer, par décision rendue publique, certaines de ses compétences au chef de service.[^19-1]
+- a) un office des sanctions et des mesures d'accompagnement (ci-après: office);
+- b) des établissements pour l'exécution des peines privatives de liberté;
+- c) un établissement pour jeunes adultes condamnés à une mesure thérapeutique institutionnelle.
 
-[^19-1]: Nouvelle teneur selon le décret du 13.12.2012 BO No 51/2012 1.01.2013 (valable jusqu'au 31.12.2017)
+<sup>2</sup> Demeurent réservées les dispositions de la LACPP, de la LADPMin et de la LAPPMin traitant des établissements de détention avant jugement et des établissements pour mineurs gérés par le service.
 
-#### Art. 20
+#### Art. 15
 
-<sup>4</sup> Service: a) unités d'organisation
+**b) Compétences**
 
-<sup>1</sup> Le service comprend:
+<sup>1</sup> Le service est:
 
-- a) un office des sanctions et des mesures d’accompagnement (OSAMA, ci-après: office);
+- a) l'autorité d'exécution au sens du CP;
+- b) l'autorité compétente au sens du CP lorsque celle-ci n'est pas désignée par une disposition spéciale de la présente loi.
 
-- b) les établissements de détention prévus par la législation en matière de procédure pénale des adultes;
+<sup>2</sup> Il assure la direction administrative du réseau probation (art. 16, 57, 58).
 
-- c) un établissement ouvert pour l'exécution des peines privatives de liberté en régime ordinaire ou facilité;
+<sup>3</sup> Les décisions sont rendues par le chef de service. Sauf disposition légale contraire, il peut déléguer ses compétences au chef de l'office ou à un responsable d'établissement qui agissent en son nom.
 
-- d) un établissement pour jeunes adultes condamnés à une mesure thérapeutique institutionnelle;
+<sup>4</sup> Le chef de service arrête dans une directive les compétences déléguées à ses représentants.
 
-- e) un établissement de détention de droit public prévu par la législation en matière de droit pénal des mineurs et de procédure pénale applicable aux mineurs.
+<sup>5</sup> Il peut confier à des entités publiques ou privées des tâches relatives à l'exécution des peines et des mesures.
 
-<sup>2</sup> Il assure la direction administrative du réseau probation (art. 22, 35 et 36).
+#### Art. 16
 
-[^20-1]: Nouvelle teneur selon le décret du 13.12.2012 BO No 51/2012 1.01.2013 (valable jusqu'au 31.12.2017)
+**Autorité de probation a) Organisation**
 
-#### Art. 21
-
-**b) compétences**[^20-1]
-
-<sup>1</sup> Le service est l'autorité d'exécution au sens du code pénal. Il exerce toutes les compétences qui ne sont pas attribuées par le droit fédéral ou la présente loi à l'autorité judiciaire ou à une autre autorité administrative.
-
-<sup>2</sup> Les décisions sur l'exécution de peines et de mesures au sens de l'article 78 alinéa 2 lettre b de la loi sur le Tribunal fédéral relèvent de la compétence du chef de service ou de son remplaçant. Pour le surplus, les attributions du chef de l'office et des responsables d'établissement sont arrêtées dans une ordonnance du Conseil d'Etat.
-
-<sup>3</sup> Le chef de service peut déléguer certaines de ses compétences au chef de l'office, aux responsables d'établissement ou à leurs adjoints, sur autorisation expresse du département, sous réserve des cas d'urgence.
-
-#### Art. 22
-
-**Autorité de probation: a) organisation**
-
-<sup>1</sup> L'autorité de probation est organisée en réseau. Elle apporte l'aide nécessaire sur requête du service et jouit d'une pleine autonomie de fonctionnement dans l'exécution de son mandat. Pour le surplus, les relations administratives entre l'autorité de probation et le service sont arrêtées par la présente loi.
+<sup>1</sup> L'autorité de probation est organisée en réseau. Elle apporte l'aide nécessaire sur requête du service et jouit d'une pleine autonomie de fonctionnement dans l'exécution de sa mission. Pour le surplus, les relations administratives entre l'autorité de probation et le service sont arrêtées par la présente loi.
 
 <sup>2</sup> Le réseau probation comprend:
 
-- a) des partenaires de droit public, notamment la Fondation Addiction Valais, les offices régionaux de placement, l'Hôpital du Valais / Réseau Santé Valais, les centres médico-sociaux régionaux, les services officiels de la curatelle, les services de l'administration cantonale susceptibles de contribuer à la réinsertion des condamnés ainsi que les polices cantonale et municipales;[^22-1]
+- a) des partenaires de droit public, notamment la Fondation Addiction Valais, les offices régionaux de placement, l'Hôpital du Valais, les centres médico-sociaux régionaux, les autorités de protection de l'adulte, les services de l'administration cantonale susceptibles de contribuer à la réinsertion des condamnés ainsi que les polices cantonale et municipales;
+- b) des partenaires de droit privé disposés à soutenir la réinsertion des condamnés selon les modalités fixées dans un mandat de prestations.
 
-- b) des partenaires de droit privé disposés à soutenir la réinsertion des condamnés selon les modalités fixées dans une convention de collaboration.
+<sup>3</sup> Les autorités de protection de l'adulte et les partenaires de droit privé ont droit à une rémunération arrêtée par mandat de prestations.
 
-<sup>3</sup> Les services officiels de la curatelle et les partenaires de droit privé ont droit à une rémunération arrêtée par convention.[^22-1]
+<sup>4</sup> Le service prépare les mandats de prestations, organise et coordonne l'activité des partenaires du réseau, et rémunère leurs prestations.
 
-<sup>4</sup> Le service négocie les conventions de collaboration, organise et coordonne l'activité des partenaires du réseau, et rémunère leurs prestations.
+#### Art. 17
 
-[^22-1]: Nouvelle teneur selon le décret du 13.12.2012 BO No 51/2012 1.01.2013 (valable jusqu'au 31.12.2017)
+**b) Missions**
 
-#### Art. 23 b
+<sup>1</sup> L'autorité de probation:
 
-**) missions**
+- a) fournit l'assistance de probation au sens du CP;
+- b) assure le suivi des règles de conduite;
+- c) fait rapport à l'autorité d'exécution en cas d'insoumission;
+- d) fournit l'assistance sociale facultative au sens du CP.
 
-L'autorité de probation:
+#### Art. 18
 
-- a) fournit l'assistance de probation au sens du code pénal (art. 93 CP);
+**Commission pour l'examen de la dangerosité a) Statut et composition**
 
-- b) assure le suivi des règles de conduite (art. 94 CP);
+<sup>1</sup> La commission pour l'examen de la dangerosité est une commission administrative interdisciplinaire, nommée par le Conseil d'Etat pour une période administrative. Elle peut siéger en sous-commissions.
 
-- c) fait rapport à l'autorité d'exécution en cas d'insoumission (art. 95 al. 3 CP);
+<sup>2</sup> La commission, respectivement chaque sous-commission, se compose:
 
-- d) fournit l'assistance sociale facultative au sens du code pénal (art. 96 CP).[^23b-1]
+- a) d'un représentant du pouvoir judiciaire;
+- b) d'un représentant du ministère public;
+- c) d'un juge de l'application des peines et mesures;
+- d) d'un représentant du service;
+- e) d'un avocat inscrit au registre cantonal;
+- f) d'un médecin spécialiste en psychiatrie et psychothérapie disposant de connaissances en médecine forensique.
 
-[^23b-1]: Nouvelle teneur selon le décret du 13.12.2012 BO No 51/2012 1.01.2013 (valable jusqu'au 31.12.2017)
+<sup>3</sup> En présence d'un condamné dangereux au sens de l'article 75a alinéas 1 et 3 CP, le médecin membre de la commission pour l'examen de la dangerosité peut contacter le médecin traitant.
+
+<sup>4</sup> Dans un cas particulier, la commission peut s'adjoindre les services d'un spécialiste avec voix consultative.
+
+<sup>5</sup> Pour le surplus, l'organisation et le fonctionnement de la commission sont arrêtés dans une ordonnance du Conseil d'Etat.
+
+#### Art. 19
+
+**b) Compétences**
+
+<sup>1</sup> La commission se prononce sur la dangerosité du condamné pour la collectivité dans les cas prévus par le droit fédéral en se référant notamment à sa situation, à sa personnalité, à ses antécédents et à son état mental.
+
+<sup>2</sup> Le juge de l'application des peines et mesures ou le service peut soumettre d'autres condamnés à l'examen de la commission.
+
+#### Art. 20
+
+**Autorités pénales administratives**
+
+<sup>1</sup> Les autorités administratives compétentes en première instance pour la répression des contraventions veillent à l'exécution des prononcés pénaux administratifs.
+
+#### Art. 21
+
+**Autres autorités a) Grand Conseil**
+
+<sup>1</sup> Le Grand Conseil exerce le droit de grâce pour les jugements pénaux prononcés par les autorités cantonales.
+
+#### Art. 22
+
+**b) Commission de justice**
+
+<sup>1</sup> Dans le domaine de l'exécution des peines et mesures, la commission de justice est compétente pour:
+
+- a) examiner les recours en grâce et établir un préavis à l'intention du Grand Conseil;
+- b) visiter les détenus et internés placés dans les établissements cantonaux ainsi que les détenus et internés jugés en Valais et placés dans les établissements d'autres cantons, afin de contrôler l'exécution de leurs obligations, le respect de leurs droits et les conditions de vie dans l'établissement.
+
+#### Art. 23
+
+**c) Autorité compétente pour porter plainte en raison de la violation d'une obligation d'entretien**
+
+<sup>1</sup> Les autorités ayant qualité pour porter plainte en raison de la violation d'une obligation d'entretien sont:
+
+- a) le service cantonal de l'action sociale;
+- b) l'autorité de protection de l'enfant et de l'adulte, dans les cas où le service cantonal de l'action sociale n'est pas saisi du cas;
+- c) le conseil municipal, si la commune verse une allocation d'assistance.
 
 #### Art. 24
 
-**Département dont relèvent les finances publiques**
+**d) Département dont relève la santé publique**
 
-<sup>1</sup> Le département dont relèvent les finances publiques veille à l'exécution des jugements dans la mesure où la confiscation de certains biens ou leur dévolution à l'Etat est ordonnée. La procédure est arrêtée par une ordonnance du Conseil d'Etat.
+<sup>1</sup> Le département dont relève la santé publique est l'autorité compétente pour recevoir, à des fins statistiques, les annonces en matière d'interruption de grossesse.
 
-<sup>2</sup> Le produit des amendes, confiscations et dévolutions est acquis au canton sauf dispositions légales contraires.
-
-#### Art. 24a
-
-<sup>3</sup> Tribunal de police
-
-<sup>1</sup> Le tribunal de police veille à l'exécution des jugements sanctionnant les contraventions de sa compétence. Demeure réservé l'article 66 de la présente loi pour la conversion de l'amende.
-
-<sup>2</sup> Les courtes peines privatives de liberté sont exécutées dans un service de l’application des peines et mesures. La commune fait l'avance des frais.
-
-<sup>3</sup> L'administration municipale peut être appelée à collaborer pour le recouvrement de l'amende ainsi que pour l'exécution des confiscations et dévolutions dont le produit est acquis à la commune.
+### 2.3 Procédures
 
 #### Art. 25
 
-**Autres autorités: a) Grand Conseil**
+**Affaires judiciaires**
 
-Pour les jugements pénaux prononcés par les autorités cantonales, le droit de grâce est exercé par le Grand Conseil.
+<sup>1</sup> L'autorité judiciaire et le ministère public appliquent les dispositions du CPP traitant de la procédure en cas de décisions judiciaires ultérieures indépendantes lorsque, en matière d'exécution des peines et mesures (art. 6 à 9), le droit fédéral réserve la compétence du juge.
 
-#### Art. 26 b
+<sup>2</sup> Le juge ou le tribunal de l'application des peines et mesures statuant en qualité d'autorité compétente ou autorité d'exécution au sens du CP (art. 10 et 11) applique:
 
-**) Commission de justice**
+- a) les règles du CPP traitant des décisions judiciaires ultérieures indépendantes et des mesures de contrainte;
+- b) la loi sur la procédure et la juridiction administratives (LPJA) pour le surplus.
 
-Dans le domaine de l'exécution des peines et mesures, la Commission de justice est compétente pour:
+<sup>3</sup> La LACPP traite de la voie de recours.
 
-- a) examiner les recours en grâce et établir un préavis à l'intention du Grand Conseil (art. 381 lettre b CP);
+#### Art. 26
 
-- b) visiter les détenus et internés placés dans les établissements cantonaux ainsi que les détenus et internés jugés en Valais et placés dans les établissements d'autres cantons afin de contrôler l'exécution de leurs obligations, le respect de leurs droits et les conditions de vie dans l'établissement.
+**Affaires administratives - Règles de procédure**
 
-#### Art. 27 c
+<sup>1</sup> Sous réserve des dispositions du droit fédéral, la LPJA s'applique aux décisions prises par l'autorité administrative.
 
-**) autorité compétente pour porter plainte en raison de la violation**
+<sup>2</sup> N'a pas d'effet suspensif, sauf décision contraire du juge saisi, le recours de droit administratif contre:
 
-d'une obligation d'entretien Les autorités ayant qualité pour porter plainte en raison de la violation d'une obligation d'entretien sont:
+- a) le refus de différer la date d'exécution de la peine ou de la mesure;
+- b) une sanction disciplinaire.
 
-- a) le service cantonal de l'action sociale;
+<sup>3</sup> Sauf dispositions contraires, les décisions de première instance des autorités administratives sont susceptibles d'un recours de droit administratif auprès d'un juge du Tribunal cantonal.
 
-- b) l'autorité de protection de l'enfant et de l'adulte, dans les cas où le service cantonal de l'action sociale n'est pas saisi du cas;[^27c-1]
+#### Art. 27
 
-- c) le conseil municipal, si la commune verse une allocation d'assistance.
-
-[^27c-1]: Nouvelle teneur selon le décret du 13.12.2012 BO No 51/2012 1.01.2013 (valable jusqu'au 31.12.2017)
-
-#### Art. 28 d
-
-**) département dont relève la santé publique**
-
-Le département dont relève la santé publique est l'autorité compétente pour recevoir, à des fins statistiques, les annonces en matière d'interruption de grossesse (art. 119 al. 5 CP).
-
-#### Art. 28a
-
-<sup>6</sup> Obligation de renseigner
+**Instruction dans les affaires judiciaires et administratives a) Obligation de renseigner**
 
 <sup>1</sup> Les autorités administratives chargées de l'exécution des peines et mesures se prêtent mutuellement assistance et se communiquent tous les renseignements nécessaires à l'accomplissement de leurs missions.
 
@@ -365,33 +325,26 @@ Le département dont relève la santé publique est l'autorité compétente pour
 
 <sup>3</sup> Les partenaires de droit public du réseau probation sont astreints à la même obligation de renseigner.
 
-<sup>4</sup> Demeurent réservées les dispositions du code de procédure pénale concernant les modalités appli-cables en cas de demande de consultation de dossiers.
+<sup>4</sup> Demeurent réservées les dispositions du CPP concernant les modalités applicables en cas de demande de consultation de dossiers.
 
-#### Art. 28b
+#### Art. 28
 
-<sup>6</sup> Devoir de signalement
+**b) Devoir de signalement**
 
 <sup>1</sup> Le médecin psychiatre et le psychologue en charge d'un condamné dont le caractère dangereux est présumé (art. 75a al. 1 let. a et al. 3 CP) et qui est astreint:
 
-- a) à un traitement institutionnel (art. 59 CP),
-
-- b) à un traitement pour graves troubles du développement de la personnalité (art. 61 CP),
-
-- c) à un traitement ambulatoire (art. 63 CP),
-
-- d) à un internement (art. 64 CP),
-
-- e) à une assistance de probation (art. 93 CP),
-
-- f) à une règle de conduite à caractère médical ou psychothérapeutique (art.
-
-94 CP), sont tenus d'informer par écrit le médecin psychiatre membre de la commission de dangerosité (art. 52 al. 2 let. e) sur les faits pertinents qui peuvent avoir une influence, du point de vue de la sécurité publique, sur les mesures en cours, sur les allégements dans l'exécution (art. 75a al. 2 CP) ou, d'une manière générale, sur l'appréciation de la dangerosité de la personne suivie.
+- a) à un traitement institutionnel (art. 59 CP);
+- b) à un traitement pour graves troubles du développement de la personnalité (art. 61 CP);
+- c) à un traitement ambulatoire (art. 63 CP);
+- d) à un internement (art. 64 CP);
+- e) à une assistance de probation (art. 93 CP);
+- f) à une règle de conduite à caractère médical ou psychothérapeutique (art. 94 CP),
 
 <sup>2</sup> Ils apprécient de cas en cas si l'état de fait dont ils ont connaissance constitue un fait pertinent au sens de l'ordonnance, sans pour autant transmettre un diagnostic ni se prononcer sur un risque de récidive.
 
-<sup>3</sup> Le médecin psychiatre ainsi avisé informe immédiatement le juge de l'application des peines et mesures (art. 5) et le service (art. 18 let. c) sur le fait pertinent qui lui a été signalé, à charge pour l'autorité pénale compétente de prendre les mesures super-provisionnelles et provisionnelles nécessaires.
+<sup>3</sup> Le médecin psychiatre ainsi avisé informe immédiatement le service (art. 12 al. 1 let. b) sur le fait pertinent qui lui a été signalé. Au besoin, le service relaie l'information sans délai, à charge pour l’autorité compétente de prendre les mesures super-provisionnelles et provisionnelles nécessaires.
 
-<sup>4</sup> Le service convoque sans délai la commission de dangerosité et la renseigne sur le fait pertinent signalé, à charge pour celle-ci d'évaluer la situation du condamné dangereux et de faire rapport au juge de l'application des peines et mesures et au service.
+<sup>4</sup> Lorsque le service ne peut déterminer de manière catégorique si le détenu signalé représente un danger pour la sécurité publique, il convoque sans délai la commission de dangerosité et la renseigne sur le fait pertinent signalé, à charge pour celle-ci d’évaluer la situation du condamné dangereux et de faire rapport au service.
 
 <sup>5</sup> L'autorité administrative ou judiciaire compétente en matière d'exécution de la sanction informe le médecin psychiatre ou le psychologue sur le statut du condamné à l'égard duquel il a un devoir de signalement.
 
@@ -399,656 +352,674 @@ Le département dont relève la santé publique est l'autorité compétente pour
 
 #### Art. 29
 
-**Procédure**
+**Droit de grâce a) Mémoire-demande**
 
-<sup>1</sup> Sous réserve des dispositions du droit fédéral, la loi sur la procédure et la juridiction administratives s'applique aux décisions prises par l'autorité administrative.
+<sup>1</sup> La demande de grâce doit être présentée sous la forme d'un mémoire signé par le condamné ou par son représentant autorisé. Le mémoire doit être adressé au Conseil d'Etat au plus tard 40 jours avant le début des sessions du Grand Conseil réservées à l'examen des demandes de grâce.
 
-<sup>2</sup> Sauf dispositions contraires, les décisions de première instance des autorités administratives sont susceptibles d'un recours de droit administratif à un juge du Tribunal cantonal.
+<sup>2</sup> La demande de grâce doit être motivée et accompagnée:
 
-<sup>3</sup> Le recours de droit administratif contre le refus de différer la date d'exécution de la peine ou de la mesure (art. 19 lettre b) n'a pas d'effet suspensif sauf décision contraire du juge saisi.
+- a) d'une copie du(des) jugement(s) se rapportant à la cause;
+- b) d'un extrait du casier judiciaire;
+- c) d'une quittance attestant le paiement des frais de justice, le cas échéant, d'un exposé des motifs pour lesquels ce paiement n'a pas eu lieu;
+- d) des pièces donnant tous renseignements utiles sur la situation personnelle, familiale, professionnelle et financière du requérant;
+- e) des pièces nécessaires à l'examen des motifs allégués.
 
-### Section 2: Peines pécuniaires, travail d'intérêt général, mesures
-
-d'accompagnement, casier judiciaire
-
-### 2.1 Peine pécuniaire - Amende
+<sup>3</sup> Si ces formalités sont observées, la demande doit être traitée sans délai. Si elles ne le sont pas après sommation, le Grand Conseil la déclarera irrecevable sur la base du dossier.
 
 #### Art. 30
 
-**Peine pécuniaire - Amende**
+**b) Enquête - Rapport**
 
-<sup>1</sup> En règle générale, le service accorde au condamné la faculté de payer la peine pécuniaire ou l'amende par acomptes (art. 35 al. 1, 106 al. 5 CP), en fonction du nombre de jours-amende ou du montant de la peine. L'exécution doit intervenir dans un délai de douze mois, délai pouvant être prolongé jusqu'au double pour des motifs sérieux d'ordre personnel, familial ou professionnel.
+<sup>1</sup> Le Conseil d'Etat procède à une enquête et établit un rapport qui est remis aux députés le jour prévu pour le traitement.
 
-<sup>2</sup> A défaut de paiement d'un acompte dans le délai fixé, la procédure de l'exécution de la peine pécuniaire ou de l'amende porte alors sur la totalité du solde dû.
-
-<sup>3</sup> S'il a de sérieuses raisons de penser que le condamné veut se soustraire à la peine pécuniaire (art. 35 al. 2 CP), il peut demander des sûretés sous forme de gage immobilier grevant un immeuble sis en Suisse, d'un cautionnement solidaire donné par une caution domiciliée en Suisse ou d'une garantie bancaire délivrée par un institut ayant son siège en Suisse.
-
-<sup>4</sup> Abrogé[^30-1]
-
-<sup>5</sup> Le recouvrement de la peine pécuniaire et de l'amende est arrêté, pour le surplus, dans une ordonnance du Conseil d'Etat.
-
-[^30-1]: Nouvelle teneur selon le décret du 13.12.2012 BO No 51/2012 1.01.2013 (valable jusqu'au 31.12.2017)
-
-### 2.2 Travail d'intérêt général
+<sup>2</sup> Il sera fait de ce rapport confidentiel un usage compatible avec les principes généraux régissant la protection de la personnalité.
 
 #### Art. 31
 
-**Principes**
+**c) Effet suspensif**
 
-<sup>1</sup> Le travail d'intérêt général est aménagé de telle manière que les atteintes aux droits de la personne condamnée soient globalement comparables à celles occasionnées par d'autres méthodes d'exécution.
+<sup>1</sup> La demande de grâce ne suspend pas l'exécution de la peine.
 
-<sup>2</sup> Il est accompli au profit d'institutions sociales, d'oeuvres d'utilité publique ou de personnes dans le besoin, ou encore pour le compte d'une administration (bénéficiaire). A défaut de bénéficiaire, cette peine peut être accomplie auprès d'un atelier exploité par l'Etat, exécutant des tâches au profit de la collectivité.
+<sup>2</sup> Sur requête motivée et pour autant que la demande soit recevable en la forme, l'effet suspensif peut être accordé si les conditions cumulatives suivantes sont réalisées:
 
-<sup>3</sup> Le service conclut avec le bénéficiaire et le condamné un contrat fixant:
+- a) la demande n'est pas dépourvue de chances de succès;
+- b) le requérant n'a pas encore commencé à subir sa peine;
+- c) à défaut, l'exercice du droit de grâce serait vidé de sa substance.
 
-- a) les modalités d'exécution du travail d'intérêt général;
+<sup>3</sup> La décision sur l'effet suspensif relève du Conseil d'Etat.
 
-- b) le responsable de l'organisation du travail et de la surveillance auprès du bénéficiaire;
-
-- c) l'obligation pour le bénéficiaire d'informer sans délai le service de tout manquement commis par le condamné, et de tout incident causé ou subi par ce dernier;
-
-- d) l'obligation pour le bénéficiaire d'attester de l'exécution du travail en fin d'exercice.
+<sup>4</sup> Le recours de droit administratif au Tribunal cantonal est recevable contre le refus d'effet suspensif. Il n'a pas d'effet suspensif, sauf décision contraire du Tribunal cantonal.
 
 #### Art. 32
 
-**Régime juridique**
+**d) Exclusion de la grâce**
 
-<sup>1</sup> La personne condamnée travaille pendant son temps libre, sans être rémunérée.
+<sup>1</sup> La grâce est exclue en ce qui concerne:
 
-<sup>2</sup> La durée des déplacements et le temps des repas ne sont pas comptés comme travail d'intérêt général; les frais de repas ou de déplacements entre le domicile et le lieu d'exécution de la peine sont à la charge de la personne condamnée.
-
-<sup>3</sup> Le travail d'intérêt général doit être effectué sur une période fixée de cas en cas par l'autorité compétente, mais qui ne peut pas dépasser deux ans. En règle générale, au moins dix heures de travail doivent être fournies chaque semaine. La suspension provisoire de l'exécution de la peine peut être décidée pour un motif grave.
-
-<sup>4</sup> La durée du travail d'intérêt général peut être cumulée avec celle prévue par la législation sur le travail. Toutefois, la durée hebdomadaire de l'activité professionnelle habituelle et du travail d'intérêt général ne doit pas priver la personne intéressée de tout repos quotidien ou hebdomadaire.
-
-<sup>5</sup> La loi sur la responsabilité des collectivités publiques et de leurs agents s'applique à la couverture des dommages causés à autrui par une personne condamnée lors de l'exécution du travail d'intérêt général.
-
-<sup>6</sup> La personne condamnée qui exécute une peine sous la forme de travail d'intérêt général est assurée contre les risques d'accident, à titre supplétif, par l'Etat.
+- a) les mesures;
+- b) les inscriptions au casier judiciaire;
+- c) les peines prescrites;
+- d) la condamnation aux frais;
+- e) les mesures et sanctions administratives.
 
 #### Art. 33
 
-**Procédure**
+**e) Décision**
 
-<sup>1</sup> Dans le but de désigner le bénéficiaire, le service se renseigne sur la personnalité du condamné, vérifie son aptitude à accomplir un travail déterminé et entend l'intéressé.
+<sup>1</sup> La décision du Grand Conseil intervient par vote au scrutin secret. Il est fait en sorte que l'identité du requérant ne soit pas connue du public.
 
-<sup>2</sup> Il détermine la nature et la forme du travail à exécuter, ainsi que les jours et heures auxquels il doit être accompli.
+<sup>2</sup> La grâce peut comporter la remise partielle ou totale des peines principales et accessoires, consister dans une commutation de peine et être assortie de certaines conditions.
 
-<sup>3</sup> Avant de commencer son travail, la personne condamnée signe une attestation par laquelle elle déclare:
+<sup>3</sup> En cas de rejet total ou partiel de la grâce, une nouvelle demande ne peut être introduite avant le délai d'une année à compter de la décision, sauf circonstance exceptionnelle dûment établie par le requérant.
 
-- a) ne pas être atteinte, à sa connaissance, d'une affection dangereuse pour autrui;
+## 3 Régime juridique de l'exécution des peines et mesures
 
-- b) être apte au travail qui lui est assigné;
-
-- c) s'astreindre à un devoir de confidentialité à propos des faits parvenus à sa connaissance lors de l'exécution de sa peine.
-
-<sup>4</sup> Si la personne condamnée ne respecte pas les conditions fixées dans l'accomplissement de sa tâche, le service suspend, au besoin, l'exécution de la peine et procède à l'instruction commandée par les circonstances. Il prononce, le cas échéant, un avertissement et fixe, si nécessaire, la date à laquelle l'exécution du travail d'intérêt général se poursuit.
-
-<sup>5</sup> Si, malgré un avertissement, la personne condamnée ne respecte pas les conditions fixées dans l'accomplissement de sa tâche, le service sollicite la conversion du travail d'intérêt général; il peut ordonner l'interruption de la peine jusqu'à droit connu sur la requête en conversion.
-
-<sup>6</sup> En cours d'exécution, la personne condamnée peut renoncer à purger sa peine sous la forme de travail d'intérêt général. A connaissance de la renonciation, le service sollicite la conversion du solde de la peine.
-
-<sup>7</sup> La procédure est arrêtée, pour le surplus, dans une ordonnance du Conseil d'Etat.
-
-### 2.3 Assistance de probation - Règles de conduite - Assistance
-
-sociale facultative - Mesures d'interdiction
+### 3.1 Dispositions générales
 
 #### Art. 34
 
-**Prononcé**
+**Réserve du droit fédéral et concordataire**
 
-L'autorité judiciaire statue sur l'assistance de probation ou les règles de conduite (art. 44 al. 2, 46 al. 2, 62 al. 3, 62a al. 1 et 5 lettres b et c, 63 al. 2, 64a al. 1, 87 al. 2, 89 al. 2, 94, 95 al. 1 et 2 CP).
+<sup>1</sup> En matière d'exécution des peines et mesures, demeurent réservés:
+
+- a) le droit fédéral, en particulier le CP et ses dispositions d'exécution, ainsi que le CPP;
+- b) le concordat latin sur la détention pénale des adultes ainsi que les règlements concordataires et autres actes de la Conférence latine des Chefs des Départements de justice et police.
 
 #### Art. 35
 
-**Mandat de prestation, entretien de réseau**
+**Champ d'application**
 
-<sup>1</sup> L'exécution du jugement ou de la décision prescrivant une assistance de probation ou des règles de conduite incombe au service.
+<sup>1</sup> Le régime juridique de l'exécution des peines et mesures arrêté par la présente loi est applicable:
 
-<sup>2</sup> Il initie la collaboration avec le partenaire du réseau en mesure de favoriser l'intégration sociale du condamné. Il lui soumet, préalablement, les documents utiles et sollicite un rapport si cet échange n'est pas survenu lors du prononcé du jugement ou de la décision (art. 95 al. 1 CP).
-
-<sup>3</sup> La délégation pour assistance (art. 93 al. 1 CP) fait l'objet d'un mandat de prestation.
-
-<sup>4</sup> L'assistance au condamné peut être pluridisciplinaire afin de satisfaire à plusieurs problématiques. Au moment d'initier une collaboration pluridisciplinaire, et en cours d'exercice, le service aménage des entretiens de réseau réunissant tous les partenaires concernés. L'entretien de réseau a pour objectif:
-
-- a) l'identification des problèmes faisant obstacle à l'insertion sociale;
-
-- b) le choix des moyens à mettre en oeuvre et l'attribution de mandats de prestation;
-
-- c) la définition des étapes du processus d'insertion;
-
-- d) l'évaluation périodique du processus d'insertion.
-
-<sup>5</sup> Les autres modalités de collaboration avec les partenaires du réseau sont arrêtées dans une ordonnance du Conseil d'Etat.
+- a) aux personnes condamnées par les autorités valaisannes et qui exécutent leur sanction en Valais;
+- b) aux personnes condamnées par les autorités d'un autre canton ou de la Confédération et dont l'exécution de la sanction est confiée au canton du Valais, les décisions relevant de la compétence des autorités du canton de jugement étant toutefois réservées;
+- c) aux personnes condamnées par les autorités valaisannes et qui exécutent leur sanction dans un autre canton, dans la mesure des compétences relevant du canton de jugement et sous réserve de délégation de compétence;
+- d) aux personnes condamnées par un Etat étranger et exécutant leur sanction dans le canton du Valais en application de la législation fédérale sur l'entraide pénale internationale ou de la Convention sur le transfèrement des personnes condamnées.
 
 #### Art. 36
 
-Prévention de la récidive, échec de la mise à l'épreuve, insoumission
+**Transmission des ordonnances et jugements**
 
-<sup>1</sup> Le partenaire en charge d'un mandat fait rapport au service chaque fois qu'une décision doit être prise à propos de la prolongation dans le temps ou du réaménagement de l'assistance de probation ou des règles de conduite, en particulier lorsque la prévention d'une récidive l'impose, en cas d'échec relatif de la mise à l'épreuve ou d'insoumission (art. 46 al. 2, 62 al. 4, 62a al. 5 lettre d et al. 6, 63 al. 4, 63a al. 4, 64a al. 2 et 4, 89 al. 2 et 3, 95 al. 3 à 5 CP).
+<sup>1</sup> Le ministère public transmet au service les ordonnances pénales dans les 14 jours suivant leur entrée en force.
 
-<sup>2</sup> Le service se détermine à l'attention de l'autorité compétente, d'office ou sur requête, après avoir procédé à sa propre évaluation du cas. Dans un cas de peu de gravité, il adresse au condamné un simple rappel à l'ordre.
+<sup>2</sup> Les tribunaux transmettent au service le dispositif des jugements dans les 14 jours suivant leur entrée en force; ils communiquent les jugements à brève échéance. Les jugements partiellement entrés en force doivent être communiqués et transmis dans les mêmes délais.
 
 #### Art. 37
 
-**Mesures ambulatoires à caractère médical**
+**Ordre d'exécution**
 
-Les articles 47 et 48 s'appliquent à la prise en charge des coûts des mesures ambulatoires à caractère médical.
+<sup>1</sup> L'ordre d'exécution de la sanction est l'injonction adressée au condamné, tendant à la mise en œuvre du jugement pénal entré en force, sans entraîner une modification de sa situation juridique.
+
+<sup>2</sup> Il n'est pas une décision administrative.
 
 #### Art. 38
 
-<sup>2</sup> Assistance sociale facultative
+**Droits fondamentaux**
 
-<sup>1</sup> En s'adressant aux partenaires du réseau probation, peut bénéficier d'une assistance sociale:
+<sup>1</sup> Le condamné en exécution d'une peine ou d'une mesure bénéficie des droits fondamentaux garantis par la Constitution.
 
-- a) le prévenu qui ne fait pas l'objet d'une détention avant jugement;
+<sup>2</sup> Toute restriction d'un droit fondamental doit satisfaire aux exigences posées par la Constitution.
 
-- b) le condamné exécutant sa peine en milieu ouvert.
+#### Art. 39
 
-<sup>2</sup> Au besoin, le service procède aux démarches nécessaires auprès des partenaires du réseau probation.
+**Buts de l'exécution**
 
-#### Art. 38a
+<sup>1</sup> L'exécution de la sanction doit, notamment dans un but de sécurité publique:
 
-<sup>5</sup> Interdiction géographique
+- a) amener le condamné à adopter un comportement responsable, respectueux des droits d'autrui et de la collectivité;
+- b) améliorer le comportement social du condamné;
+- c) faire prendre conscience au condamné des conséquences que représente son acte pour lui-même, pour la victime et pour la collectivité;
+- d) encourager la réparation des torts causés aux victimes;
+- e) favoriser, le cas échéant, la réinsertion professionnelle.
 
-<sup>1</sup> Le juge de l'application des peines et mesures est l'autorité compétente pour rendre toutes les décisions relatives à l'exécution de l'interdiction géographique.
+#### Art. 40
+
+**Lignes directrices**
+
+<sup>1</sup> Le chef de service élabore les lignes directrices en matière d'exécution des sanctions.
+
+<sup>2</sup> Il veille à leur mise en œuvre, notamment en supervisant et conseillant l'office et les établissements de détention.
+
+<sup>3</sup> Il est responsable de l'exécution des jugements pénaux dont la mise en œuvre incombe au canton.
+
+### 3.2 Exécution des sanctions pécuniaires
+
+#### Art. 41
+
+**Peine pécuniaire - Amende**
+
+<sup>1</sup> En règle générale, le service accorde au condamné la faculté de payer la peine pécuniaire ou l'amende par acomptes, en fonction du nombre de jours-amende ou du montant de la peine. L'exécution doit intervenir dans un délai de six mois. Il peut être prolongé jusqu'à une année pour des motifs sérieux d'ordre personnel, familial ou professionnel.
+
+<sup>2</sup> A défaut de paiement d'un acompte dans le délai fixé, la procédure de l'exécution de la peine pécuniaire ou de l'amende porte alors sur la totalité du solde dû.
+
+<sup>3</sup> Si le service a de sérieuses raisons de penser que le condamné veut se soustraire à la peine pécuniaire, il peut demander des sûretés sous forme de gage immobilier grevant un immeuble sis en Suisse, d'un cautionnement solidaire donné par une caution domiciliée en Suisse ou d'une garantie bancaire délivrée par un institut ayant son siège en Suisse.
+
+<sup>4</sup> Lorsque le recouvrement de l'amende est inexécutable par la voie de la poursuite, les autorités administratives compétentes, en première instance, pour rendre un prononcé pénal administratif, interviennent auprès du tribunal de l'application des peines et mesures pour demander la conversion de l'amende en peine privative de liberté de substitution.
+
+<sup>5</sup> Le service peut autoriser l'exécution de la sanction pécuniaire sous forme de travail d'intérêt général, l'article 53 alinéa 2 de la présente loi étant applicable par analogie.
+
+<sup>6</sup> Le recouvrement de la peine pécuniaire et de l'amende est arrêté, pour le surplus, dans une ordonnance du Conseil d'Etat.
+
+### 3.3 Exécution des mesures thérapeutiques institutionnelles et de l'internement
+
+#### Art. 42
+
+**Principes**
+
+<sup>1</sup> Le service désigne l'établissement approprié pour le placement de la personne astreinte à une mesure thérapeutique institutionnelle ou à un internement.
+
+<sup>2</sup> Au cours du suivi de l'exécution, il exerce toutes les attributions que le CP confie à l'autorité d'exécution ou à l'autorité compétente, sous réserve des attributions relevant de l'autorité judiciaire ou de l'autorité confédérée compétente pour rendre les décisions prévues à l'article 10 lettres a à c. Il introduit d'office la procédure devant cette autorité en lui adressant un dossier complet ainsi qu'une proposition.
+
+<sup>3</sup> Il peut transférer le condamné dans un autre établissement approprié si son état, son comportement ou la sécurité l'exige, si son traitement le requiert ou si sa réinsertion en est facilitée.
+
+<sup>4</sup> Les droits et les devoirs des personnes exécutant une mesure et des personnes internées sont définis dans une ordonnance du Conseil d'Etat (art. 55).
+
+#### Art. 43
+
+**Etablissement de détention institutionnelle ou d'internement**
+
+<sup>1</sup> L'établissement dans lequel est placé un condamné astreint à une mesure thérapeutique institutionnelle ou à un internement assure la garde, l'hébergement et l'encadrement du condamné.
+
+<sup>2</sup> Il pourvoit à la réalisation des objectifs assignés à la mesure ou à l'internement.
+
+#### Art. 44
+
+**Devoir d'information**
+
+<sup>1</sup> La personne chargée du traitement ou de la prise en charge psychiatrique doit établir, régulièrement ou sur demande du service, un rapport sur l'évolution de la prise en charge.
+
+<sup>2</sup> Le service et l'établissement conviennent des informations à transmettre dans le rapport.
+
+<sup>3</sup> La personne chargée du traitement ou de la prise en charge psychiatrique informe sans délai le service si le condamné se soustrait au traitement ou si elle n'est plus en mesure d'assurer le suivi du traitement.
+
+<sup>4</sup> La personne soumise au secret médical doit le respecter au moment de renseigner l'autorité, sous réserve de l'article 28.
+
+### 3.4 Exécution des autres mesures
+
+#### Art. 45
+
+**Traitement ambulatoire**
+
+<sup>1</sup> Le service désigne la personne chargée du traitement ambulatoire et ordonne, au besoin, le traitement institutionnel initial temporaire.
+
+<sup>2</sup> Au cours du suivi de l'exécution, il exerce toutes les attributions que le CP confie à l'autorité d'exécution ou à l'autorité compétente, sous réserve des attributions relevant de l'autorité judiciaire ou de l'autorité confédérée compétente pour rendre les décisions prévues à l'article 10 lettre a. Il introduit d'office la procédure devant cette autorité en lui adressant un dossier complet ainsi qu'une proposition.
+
+<sup>3</sup> La personne chargée du traitement est soumise au devoir d'information défini à l'article 44 de la présente loi.
+
+#### Art. 46
+
+**Interdiction de contact et interdiction géographique**
+
+<sup>1</sup> Le juge de l'application des peines et mesures est l'autorité compétente pour rendre toutes les décisions relatives à l'exécution de l'interdiction de contact et de l'interdiction géographique.
 
 <sup>2</sup> Le service:
 
 - a) introduit d'office la procédure devant le juge de l'application des peines et mesures en lui adressant un dossier complet ainsi qu'une proposition;
-
 - b) exécute les décisions, en particulier procède à la programmation et à la pose de l'appareil technique pouvant servir à localiser le condamné, informe celui-ci sur les modalités et la finalité de la mesure, ainsi que sur la sanction en cas d'infraction à l'interdiction de contact ou de périmètre;
-
 - c) accompagne le condamné pendant la durée de la mesure et prend les mesures commandées par les circonstances en cas d'inobservation de l'interdiction.
 
 <sup>3</sup> La police cantonale:
 
 - a) réceptionne l'alerte communiquée par l'organe de surveillance technique en cas d'inobservation de l'interdiction;
+- b) intervient sans délai auprès du condamné en infraction et le dénonce au service ainsi qu'au ministère public.
 
-- b) intervient sans délai auprès du condamné en infraction et le dénonce au service ainsi qu'au Ministère public.
+#### Art. 47
 
-#### Art. 38b
+**Interdiction de conduire**
 
-<sup>8</sup> Expulsion
+<sup>1</sup> Le service compétent pour l'admission des personnes à la circulation routière pourvoit à l'exécution de l'interdiction de conduire sur requête du service.
 
-<sup>1</sup> Le Service dont relève la police des étrangers est l'autorité compétente pour exécuter l'expulsion judiciaire; il y pourvoit par des actes matériels.
+#### Art. 48
 
-<sup>2</sup> Le Service statue toutefois sur le report de l'expulsion:
+**Expulsion**
+
+<sup>1</sup> Le service dont relève la police des étrangers est l'autorité compétente pour exécuter l'expulsion judiciaire. Il y pourvoit par des actes matériels.
+
+<sup>2</sup> Le service statue toutefois sur le report de l'expulsion:
 
 - a) sur requête du condamné;
-
 - b) d'office si les obstacles à l'exécution de l'expulsion sont portés à sa connaissance.
 
 <sup>3</sup> Sa décision est sujette à recours de droit administratif auprès d'un juge du Tribunal cantonal.
 
-<sup>4</sup> Sont réservées la détention en phase préparatoire à l'expulsion et la détention en vue de l'expulsion consécutive au prononcé d'expulsion de première instance au sens de la loi fédérale sur les étrangers.
+<sup>4</sup> Sont réservées la détention en phase préparatoire à l'expulsion et la détention en vue d'expulsion consécutive au prononcé d'expulsion de première instance au sens de la loi fédérale sur les étrangers.
 
-### 2.4 Casier judiciaire
+#### Art. 49
 
-#### Art. 39
+**Publication du jugement**
 
-**Service de coordination**
+<sup>1</sup> Le service procède à la publication du jugement selon les modalités arrêtées dans la décision judiciaire.
 
-<sup>1</sup> Le service fonctionne comme service cantonal de coordination au sens de la législation fédérale (art. 365 al. 1, 367 al. 5 CP).
+#### Art. 50
 
-<sup>2</sup> En plus des compétences fixées par la législation fédérale, le service de coordination exerce les tâches suivantes:
+**Confiscation a) Mesures immédiates préalables**
 
-- a) l'enregistrement de tous les jugements et de toutes les décisions ultérieures soumis à inscription et rendus par les autorités cantonales (art. 366 al. 1 et 2 CP);
+<sup>1</sup> Les prononcés de confiscation, ordonnés selon le CP ou le droit pénal accessoire, sont adressés par le ministère public et les tribunaux au service dès leur entrée en force, pour exécution. Les dispositions spéciales du droit fédéral sont réservées.
 
-- b) la communication de faits survenus pendant le délai d'épreuve, nécessitant une décision par l'autorité compétente;
+<sup>2</sup> Le service prend les mesures immédiates préalables à l'exécution proprement dite des prononcés, au besoin avec le concours d'un autre service de l'administration. La procédure est arrêtée dans une ordonnance du Conseil d'Etat.
 
-- c) le contrôle et, si nécessaire, l'exécution des éliminations qui doivent être opérées d'office (art. 369 CP);
+#### Art. 51
 
-- d) l'information au public et aux autorités concernant le casier judiciaire informatisé.
+**b) Mesures d'exécution**
 
-#### Art. 40
+<sup>1</sup> Suivant les instructions figurant sur le prononcé confiscatoire, le service:
 
-**Délai de communication**
+- a) ordonne la destruction, la mise hors d'usage ou/et l'éventuelle restitution des objets dangereux confisqués;
+- b) ordonne, sous réserve de l'allocation au lésé, la destruction des biens confisqués dont la valeur est modeste, voire nulle;
+- c) ordonne la réalisation immédiate des biens confisqués sujets à une dépréciation rapide ou à un entretien dispendieux et en verse le produit sur un compte de dépôt;
+- d) diffère la réalisation des autres valeurs patrimoniales confisquées jusqu'à l'expiration des délais dans lesquels les lésés et des tiers peuvent faire valoir des prétentions, puis en ordonne la réalisation et en verse le produit sur un compte de dépôt;
+- e) ordonne la consignation, sur un compte de dépôt distinct, des valeurs confisquées sous forme de comptes bancaires, papiers-valeurs et sommes d'argent;
+- f) gère les comptes de dépôt, les débite des sommes dues aux ayants droit et verse, en temps utile, le solde sur le compte de l'Etat.
 
-<sup>1</sup> Tous les jugements et décisions ultérieures, sujets à inscription, doivent être transmis au service de coordination dans les sept jours dès leur entrée en force. La transmission est effectuée par la dernière autorité cantonale saisie de la cause.
+<sup>2</sup> Il peut être renoncé à la destruction ou à la réalisation lorsque l'objet confisqué peut être utilisé par un service de l'administration.
 
-<sup>2</sup> La date de l'entrée en force est mentionnée sur la copie du jugement destinée au département.
+<sup>3</sup> Il est ouvert un compte de dépôt distinct au bilan de l'Etat pour chaque jugement ordonnant la confiscation, avec référence à la cote du prononcé.
 
-<sup>3</sup> Si, à la suite d'opposition ou d'appel d'un ou plusieurs condamnés, un jugement n'est que partiellement exécutoire, mention en est faite sur la copie.
+<sup>4</sup> La réalisation des valeurs patrimoniales s'opère par vente de gré à gré ou par vente aux enchères.
 
-#### Art. 41
+<sup>5</sup> Pour le surplus, une ordonnance du Conseil d'Etat arrête la procédure et le concours des autres services de l'administration aux mesures d'exécution de la confiscation.
 
-**Extraits et renseignements**
+#### Art. 52
 
-La communication d'extraits du casier judiciaire à des particuliers (art. 371 CP) est du ressort exclusif de l'Office fédéral de la justice. Les formulaires utilisés à cet effet peuvent être obtenus auprès des postes de police cantonale ainsi qu'auprès du service de coordination.
+**Créance compensatrice - Allocation au lésé**
 
-### Section 3: Sanctions privatives de liberté
+<sup>1</sup> Le service pourvoit à l'encaissement de la créance compensatrice.
 
-#### Art. 42
+<sup>2</sup> A défaut d'allocation au lésé dans le jugement pénal, le ministère public, le juge de district ou le président du tribunal d'arrondissement qui a connu de l'affaire en première instance statue sur la requête du lésé fondée sur l'article 73 alinéa 3 CP. La procédure en cas de décisions judiciaires ultérieures indépendantes s'applique. L'article 267 alinéas 3 à 6 CPP est applicable par analogie.
 
-**Etablissements**
+### 3.5 Exécution des peines privatives de liberté
 
-<sup>1</sup> Le canton crée et exploite les établissements d'exécution des peines et des mesures en adhérant, par une loi spéciale, à un accord intercantonal (concordat). Il réalise et gère les établissements et sections d'établissement que le concordat met à sa charge; il place les condamnés relevant de son autorité dans les structures concordataires (art. 58, 59 à 61, 64, 76 à 80, 377, 378 CP).
+#### Art. 53
 
-<sup>2</sup> Il crée et exploite de manière indépendante les établissements d'exécution des peines et mesures soustraits au champ d'application du concordat (art. 377 CP). Demeure réservé le placement auprès d'établissements privés de condamnés exécutant une peine sous forme de semi-détention ou de travail externe, ou une mesure au sens des articles 59 à 61 et 63 alinéa 3 du code pénal (art. 379 CP).
+**Exécution en milieu ouvert**
 
-#### Art. 42a
+<sup>1</sup> Le service accompagne le condamné pendant la durée du délai d'épreuve lorsque le sursis est assorti d'une assistance de probation ou d'une règle de conduite. Il introduit d'office la procédure devant l'autorité compétente lorsque le condamné se soustrait à la mesure d'accompagnement, lorsque celle-ci ne peut plus être exécutée ou n'est plus nécessaire.
 
-<sup>4</sup> Personnel pénitentiaire et personnel éducatif
+<sup>2</sup> Il peut autoriser l'exécution de la peine sous forme de travail d'intérêt général, en fixer les modalités, donner un avertissement au condamné en cas d'inobservation et ordonner, le cas échéant, l'exécution de la peine privative de liberté. Une ordonnance du Conseil d'Etat arrête les dispositions complémentaires, en particulier celles traitant de la responsabilité de l'Etat, de la couverture d'assurance du condamné, des rapports de l'Etat avec les bénéficiaires et de la procédure.
 
-<sup>1</sup> En fonction des principes retenus aux alinéas 2 et 3, le Conseil d'Etat arrête dans une ordonnance les droits et les devoirs spécifiques du personnel pénitentiaire et du personnel éducatif (ci-après personnel) afin que chaque détention soit gérée de manière à faciliter l'intégration dans la société: des personnes détenues, tout en respectant les besoins sécuritaires de la société, du personnel et des co-détenus.
+<sup>3</sup> Il peut autoriser l'exécution de tout ou partie de la peine sous forme des arrêts domiciliaires (surveillance électronique), en fixer les modalités, mettre fin aux arrêts domiciliaires ou limiter le temps libre accordé au condamné. Une ordonnance du Conseil d'Etat arrête les dispositions complémentaires, en particulier celles traitant du régime juridique et de la procédure.
+
+#### Art. 54
+
+**Exécution en milieu fermé**
+
+<sup>1</sup> Le service notifie au condamné l'ordonnance d'incarcération et délivre le mandat d'arrêt à l'encontre d'un condamné qui n'y donne pas suite.
+
+<sup>2</sup> Il décide du régime selon lequel la peine doit être exécutée et désigne l'établissement dans lequel le condamné sera incarcéré. Il arrête la planification de l'exécution de la peine et valide le plan d'exécution de la sanction établi par la direction de l'établissement de détention.
+
+<sup>3</sup> Il rend toutes les décisions relatives à la vie en détention et prononce les sanctions disciplinaires. Une ordonnance du Conseil d'Etat arrête la rémunération du condamné effectuant un travail ou suivant une formation, après déduction de la participation du condamné aux frais d'exécution qu'il occasionne (art. 60).
+
+<sup>4</sup> Il introduit d'office la procédure devant l'autorité compétente en matière de libération conditionnelle en lui adressant un dossier complet ainsi qu'une proposition. Si la libération conditionnelle est assortie d'une assistance de probation ou d'une règle de conduite, l'article 53 alinéa 1 est applicable par analogie.
+
+<sup>5</sup> Il introduit d'office la procédure devant l'autorité judiciaire compétente pour un changement de sanction en lui adressant un dossier complet ainsi qu'une proposition.
+
+#### Art. 55
+
+**Droits et devoirs de la personne détenue**
+
+<sup>1</sup> En complément des prescriptions fédérales et concordataires réglementant le régime de détention, les droits et devoirs de la personne détenue sont arrêtés dans une ordonnance du Conseil d'Etat traitant, notamment, des domaines suivants:
+
+- a) accueil et libération;
+- b) locaux de détention, literie et vêtements;
+- c) santé, médication et alimentation;
+- d) ordre, droit disciplinaire, mesures de sûreté et contrainte directe;
+- e) travail, formation et rémunération;
+- f) droits du détenu;
+- g) procédure;
+- h) exécution sous le régime de la semi-détention.
+
+<sup>2</sup> L'ordonnance doit:
+
+- a) prendre en compte la Recommandation du Comité des Ministres aux Etats membres du Conseil de l'Europe sur les Règles pénitentiaires européennes;
+- b) favoriser un cadre de vie carcérale aligné autant que possible sur les aspects positifs de la vie en société;
+- c) ne restreindre les droits de la personne détenue ou ne lui imposer des obligations que dans la mesure requise par la privation de liberté et par les exigences de la vie collective dans l'établissement;
+- d) limiter le recours aux mesures de contrainte directes aux seuls cas où celles-ci sont indispensables au maintien de l'ordre, de la sécurité et du bon fonctionnement de l'établissement, ou encore pour des impératifs de sécurité publique.
+
+#### Art. 56
+
+**Personnel pénitentiaire et personnel éducatif**
+
+<sup>1</sup> En fonction des principes retenus aux alinéas 2 et 3, le Conseil d'Etat arrête dans une ordonnance les droits et les devoirs spécifiques du personnel pénitentiaire et du personnel éducatif (ci-après: personnel) afin que chaque détention soit gérée de manière à faciliter l'intégration dans la société des personnes détenues, tout en respectant les besoins sécuritaires de la collectivité, du personnel et des codétenus.
 
 <sup>2</sup> Le recrutement, la formation et les conditions de travail doivent permettre au personnel de fournir un haut niveau de prise en charge des personnes détenues, conforme aux buts assignés par la loi pénale à l'exécution des peines et mesures privatives de liberté.
 
 <sup>3</sup> Le personnel a l'obligation:
 
 - a) de traiter chaque personne détenue avec humanité et dans le respect de sa dignité humaine;
-
 - b) de s'abstenir d'utiliser la force sauf en cas de légitime défense, de tentative d'évasion ou de résistance à un ordre licite, le cas échéant en dernier recours et de manière proportionnée;
-
 - c) de collaborer activement avec les autorités de surveillance.
 
-<sup>4</sup> Demeure réservée la législation sur le personnel de l'Etat.
+<sup>4</sup> Demeure réservée la législation sur le personnel de l'Etat du Valais.
 
-#### Art. 43
+### 3.6 Assistance de probation - Règles de conduite - Assistance sociale facultative
 
-**Plan d'exécution**
+#### Art. 57
 
-<sup>1</sup> Le plan d'exécution de la peine ou de la mesure:
+**Mandat de prestations - Entretien de réseau**
 
-- a) aménage la sanction, de manière à concrétiser les buts assignés à la peine ou à la mesure;
+<sup>1</sup> L'exécution du jugement ou de la décision prescrivant une assistance de probation ou des règles de conduite incombe au service.
 
-- b) arrête les étapes du séjour dans l'établissement;
+<sup>2</sup> Le service initie la collaboration avec le partenaire du réseau en mesure de favoriser l'intégration sociale du condamné et de lui apporter l'aide nécessaire. Préalablement, il soumet au partenaire du réseau les documents utiles et sollicite un rapport si cet échange n'est pas survenu lors du prononcé du jugement ou de la décision.
 
-- c) fixe les modalités des relations avec le monde extérieur;
+<sup>3</sup> La délégation pour assistance fait l'objet d'un mandat de prestations.
 
-- d) détermine les conditions d'admission à un cours de formation ou de perfectionnement ainsi que les mesures d'encouragement à la fréquentation de ces cours en cas de détention de longue durée.
+<sup>4</sup> L'assistance au condamné peut être pluridisciplinaire. Au moment d'initier une collaboration pluridisciplinaire, et en cours d'exercice, le service aménage des entretiens de réseau réunissant tous les partenaires concernés. L'entretien de réseau a pour objectifs:
 
-<sup>2</sup> Il est établi par l'établissement, en collaboration avec la personne concernée ou son représentant légal; il est soumis pour approbation à l'office.[^43-1]
+- a) l'identification des problèmes faisant obstacle à l'insertion sociale;
+- b) le choix des moyens à mettre en œuvre et l'attribution de mandats de prestations;
+- c) la définition des étapes du processus d'insertion;
+- d) l'évaluation périodique du processus d'insertion.
 
-<sup>3</sup> Il peut être réévalué périodiquement, d'office ou sur requête.
+<sup>5</sup> Les autres modalités de collaboration avec les partenaires du réseau sont arrêtées dans une ordonnance du Conseil d'Etat.
 
-<sup>4</sup> Abrogé[^43-1]
+#### Art. 58
 
-[^43-1]: Nouvelle teneur selon le décret du 13.12.2012 BO No 51/2012 1.01.2013 (valable jusqu'au 31.12.2017)
+**Prévention de la récidive - Echec de la mise à l'épreuve - Insoumission**
 
-#### Art. 44
+<sup>1</sup> Le partenaire en charge d'un mandat fait rapport au service chaque fois qu'une décision doit être prise à propos de la prolongation dans le temps ou du réaménagement de l'assistance de probation ou des règles de conduite, en particulier lorsque la prévention d'une récidive l'impose, en cas d'échec de la mise à l'épreuve ou d'insoumission.
 
-<sup>4</sup> Droits et devoirs de la personne détenue
+<sup>2</sup> Le service se détermine à l'attention de l'autorité compétente, d'office ou sur requête, après avoir procédé à sa propre évaluation du cas.
 
-<sup>1</sup> En complément des prescriptions fédérales et concordataires traitant du régime de détention, les droits et devoirs de la personne détenue sont arrêtés dans une ordonnance du Conseil d'Etat traitant, notamment, des domaines suivants:
+#### Art. 59
 
-- a) accueil et élargissement;
+**Assistance sociale facultative**
 
-- b) locaux de détention, literie et vêtements;
+<sup>1</sup> L'assistance sociale facultative est assurée par le réseau probation auquel peut s'adresser directement la personne intéressée.
 
-- c) santé, médication et alimentation forcées;
+<sup>2</sup> Au besoin, le service procède aux démarches nécessaires auprès des partenaires du réseau probation.
 
-- d) ordre, droit disciplinaire et mesures de contrainte;
+### 3.7 Frais
 
-- e) travail et formation;
+#### Art. 60
 
-- f) loisirs et relations avec le monde extérieur;
+**Frais d'exécution des peines et mesures**
 
-- g) contrôles et inspections;
+<sup>1</sup> Les frais d'exécution des peines et mesures sont à la charge du canton de jugement.
 
-- h) procédure, réclamation et plainte;
+<sup>2</sup> Toutefois, le condamné exécutant sa sanction en régime de détention, de semi-détention, de travail externe, de travail et logement externes ou de travail sous surveillance électronique est tenu de participer aux frais de l'exécution conformément aux prescriptions de la Conférence latine des Chefs des Départements de justice et police. A défaut de prescriptions concordataires, la participation est calculée comme il suit:
 
-- i) exécution en semi-détention et par journées séparées.
+- a) 25 pour cent de la rémunération perçue pour sa prestation de travail fournie dans l'établissement d'exécution;
+- b) 10 pour cent du gain qu'il réalise par une activité dans le cadre de la semi-détention, du travail externe ou du travail effectué sous surveillance électronique, mais au plus à concurrence du prix de pension concordataire ou du prix effectif de l'exécution de la peine sous surveillance électronique.
 
-<sup>2</sup> L'ordonnance doit:
+<sup>3</sup> Le condamné qui refuse, sans droit, d'exécuter le travail qui lui est attribué participe aux frais d'exécution de la sanction conformément aux prescriptions concordataires, à défaut à raison de 25 pour cent de son revenu et jusqu'à 50 pour cent de sa fortune.
 
-- a) prendre en compte la Recommandation du Comité des Ministres aux Etats membres du Conseil de l'Europe sur les Règles pénitentiaires européennes;
+<sup>4</sup> La décision fixant la participation du condamné aux frais d'exécution pour refus sans droit d'exécuter un travail est sujette à recours au Conseil d'Etat, puis au Tribunal cantonal. La prétention de l'Etat se prescrit par dix ans dès la libération définitive.
 
-- b) favoriser un cadre de vie carcérale aligné autant que possible sur les aspects positifs de la vie en société;
+<sup>5</sup> Les frais d'exécution occasionnés par le condamné en provenance d'un autre canton sont facturés à l'autorité de placement par le service.
 
-- c) ne restreindre les droits de la personne détenue ou ne lui imposer des obligations que dans la mesure requise par la privation de liberté et par les exigences de la vie collective dans l'établissement;
+#### Art. 61
 
-- d) limiter le recours aux mesures de contrainte directes aux seuls cas où celles-ci sont indispensables au maintien de l'ordre, de la sécurité et du bon fonctionnement de l'établissement, ou encore pour des impératifs de sécurité publique.
-
-<sup>3</sup> Le recours contre une sanction disciplinaire est adressé à un juge du Tribunal cantonal. Il n'a pas d'effet suspensif, sauf décision contraire du juge saisi. La loi sur la procédure et la juridiction administratives est applicable pour le surplus.
-
-#### Art. 45
-
-**Travail, rémunération**
-
-<sup>1</sup> Le travail auquel est astreint le détenu (art. 81 CP) est attribué en fonction des possibilités de l'établissement et donne droit à une rémunération.
-
-<sup>2</sup> La fréquentation d'un cours de formation ou de perfectionnement prévu dans le plan d'exécution donne droit à une rémunération réduite de moitié.
-
-<sup>3</sup> Le Conseil d'Etat fixe dans un arrêté la rémunération brute allouée aux condamnés; celle-ci comporte une part de rémunération en nature correspondant à la participation du condamné aux frais d'exécution qu'il occasionne.
-
-<sup>4</sup> La rémunération nette est créditée sur le compte libre, le compte réservé et le compte bloqué.
-
-#### Art. 46
-
-**Frais d'exécution des peines et des mesures**
-
-<sup>1</sup> Les frais d'exécution des peines et des mesures sont à la charge du canton de jugement.
-
-<sup>2</sup> Toutefois, le condamné est astreint à participer aux frais de l'exécution, à raison de:
-
-- a) 50 pour cent de la rémunération perçue pour sa prestation de travail fournie dans l'établissement d'exécution (rémunération en nature);
-
-- b) 30 pour cent du gain qu'il réalise par une activité dans le cadre de la semi-détention et du travail externe, mais au plus à concurrence du prix de pension concordataire;
-
-- c) 30 pour cent de son revenu et jusqu'au 50 pour cent de sa fortune s'il refuse, sans droit, d'exécuter le travail qui lui est attribué, mais au plus à concurrence du prix de pension concordataire.
-
-<sup>3</sup> Les frais d'exécution occasionnés par le condamné en provenance d'un autre canton sont réclamés à l'autorité de placement par le service, sous déduction de la participation du condamné à ces frais.
-
-<sup>4</sup> La décision fixant la participation du condamné aux frais d'exécution pour refus sans droit d'exécuter un travail est sujette à recours au Conseil d'Etat, puis au Tribunal cantonal. La prétention de l'Etat se prescrit par un an dès la libération définitive, mais au plus tard par dix ans à compter de celle-ci.
-
-#### Art. 47
-
-**Frais médicaux**
-
-- a) détenu soumis à la LAMal
+**Frais médicaux a) Détenus soumis à la LAMal**
 
 <sup>1</sup> La loi fédérale sur l'assurance-maladie (LAMal) règle la prise en charge des coûts des prestations dont a bénéficié un détenu soumis à cette loi.
 
-<sup>2</sup> La prise en charge des primes de l'assurance obligatoire des soins, de la franchise, de la quote-part des coûts dépassant la franchise et de la contribution aux coûts d'hospitalisation, est arrêtée par la législation du canton dans lequel le détenu était régulièrement établi au moment de son arrestation ou de son jugement.
+<sup>2</sup> La prise en charge des primes de l'assurance obligatoire des soins, de la franchise, de la quote-part des coûts dépassant la franchise et de la contribution aux coûts d'hospitalisation, est arrêtée par la législation du canton dans lequel le détenu était régulièrement établi au moment de l'arrestation, de l'exécution anticipée ou du jugement.
 
-<sup>3</sup> Le service vérifie que le détenu soumis à la LAMal est assuré pour les soins et signale ce dernier à l'autorité compétente du canton dans lequel il était régulièrement établi au moment de son arrestation ou de son jugement.
+<sup>3</sup> Le service vérifie que le détenu soumis à la LAMal est assuré pour les soins et signale ce dernier à l'autorité compétente du canton dans lequel il était régulièrement établi au moment de l'arrestation, de l'exécution anticipée ou du jugement.
 
 <sup>4</sup> Les frais liés au traitement, mais non couverts par la LAMal, constituent des frais d'exécution de la peine ou de la mesure.
 
-[^47-1]: Nouvelle teneur selon l'art. 47 ch. 5 de la loi BO No 13/2009 1.01.2011 d'application du code de procédure pénale 26/2010 suisse du 11.02.2009
+#### Art. 62
 
-#### Art. 48
-
-**b) détenu non soumis à la LAMal**[^47-1]
+**b) Détenus non soumis à la LAMal**
 
 <sup>1</sup> Le détenu non soumis à la LAMal prend en charge les coûts des prestations dont il a bénéficié lorsque sa situation de fortune ou le produit de son travail le permet.
 
 <sup>2</sup> Dans les autres cas, les frais médicaux sont supportés:
 
-- a) par le canton qui a ordonné la détention avant jugement, pendant la durée de cette mesure;
-
+- a) par le canton qui a ordonné la détention avant jugement en cas d'exécution anticipée, pendant la durée de cette mesure;
 - b) en conformité des dispositions du concordat des cantons latins sur la détention pénale des adultes pendant l'exécution de la peine privative de liberté, de la mesure ou de l'internement.
 
-[^48-1]: Nouvelle teneur selon l'art. 47 ch. 5 de la loi BO No 13/2009 1.01.2011 d'application du code de procédure pénale 26/2010 suisse du 11.02.2009
+#### Art. 63
 
-#### Art. 49
+**c) Frais dentaires ou ophtalmologiques**
 
-**c) frais dentaires**[^48-1]
+<sup>1</sup> Les frais dentaires ou ophtalmologiques, qui ne sont pas à la charge de l'assurance obligatoire des soins, sont supportés par le détenu lorsque sa situation de fortune ou le produit de son travail le permet.
 
-<sup>1</sup> Les frais dentaires, qui ne sont pas à la charge de l'assurance obligatoire des soins, sont supportés par le détenu lorsque sa situation de fortune ou le produit de son travail le permet.
+<sup>2</sup> Dans les autres cas, ces frais sont supportés par le canton de jugement ou le canton dont dépend le détenu, dans la mesure où ils sont absolument nécessaires au plan médical.
 
-<sup>2</sup> Dans les autres cas, les frais dentaires sont supportés:
-
-- a) par le canton qui a ordonné la détention avant jugement, pendant la durée de cette mesure;
-
-- b) en conformité des dispositions du concordat des cantons latins sur la détention pénale des adultes pendant l'exécution de la peine privative de liberté, de la mesure ou de l'internement.
-
-#### Art. 50
+#### Art. 64
 
 **Placement thérapeutique institutionnel**
 
-Sauf convention contraire, les articles 47 à 49 règlent la prise en charge des frais médicaux en cas de placement dans un établissement thérapeutique.
+<sup>1</sup> Sauf convention contraire, les articles 61 à 63 règlent la prise en charge des frais médicaux en cas de placement dans un établissement thérapeutique.
 
-#### Art. 51
+#### Art. 65
+
+**Mesures ambulatoires à caractère médical**
+
+<sup>1</sup> Les articles 61 et 62 s'appliquent à la prise en charge des coûts des prestations médicales dont bénéficie un condamné astreint à un traitement ambulatoire, à une règle de conduite ou à une assistance de probation.
+
+#### Art. 66
 
 **Risque d'accident et de maladie professionnels**
 
 <sup>1</sup> Le service qui place un détenu contre rémunération hors de l'établissement informe l'employeur qu'il doit assurer le détenu contre le risque d'accident et de maladie professionnels.
 
-<sup>2</sup> Lorsque le détenu travaille dans l'établissement, le canton du siège supporte les conséquences financières des risques d'accident et de maladie professionnels.
+## 4 Droit pénal cantonal et communal
 
-### Section 4: Commission de dangerosité
-
-#### Art. 52
-
-**Composition**
-
-<sup>1</sup> La commission pour l'examen de la dangerosité est une commission administrative interdisciplinaire, nommée par le Conseil d'Etat pour une période administrative.
-
-<sup>2</sup> Elle se compose:
-
-- a) d'un représentant du Pouvoir judiciaire et d'un représentant du ministère public;
-
-- b) du juge de l'application des peines et mesures;
-
-- c) d'un représentant du service;
-
-- d) d'un avocat inscrit au registre cantonal;
-
-- e) du médecin-chef ou d'un médecin-adjoint d'un service cantonal de psychiatrie;
-
-- f) d'un médecin ou d'un psychologue de la commission cantonale d'aide aux victimes d'infractions.
-
-<sup>3</sup> Dans un cas particulier, la commission peut s'adjoindre les services d'un spécialiste avec voix délibérative. Pour le surplus, l'organisation et le fonctionnement de la commission sont arrêtés dans une ordonnance du Conseil d'Etat.
-
-#### Art. 53
-
-**Compétences**
-
-<sup>1</sup> La commission se prononce sur la dangerosité du condamné (art. 75a al. 3 CP) pour la collectivité dans les cas prévus par le droit fédéral (art. 62d al. 2, 64b al. 2 lettre c, 75a al. 1, 90 al. 4bis CP) en se référant notamment à sa situation, à sa personnalité, à ses antécédents et à son état mental.
-
-<sup>2</sup> Le juge de l'application des peines et mesures et le service peuvent soumettre d'autres condamnés à l'examen de la commission.
-
-### Chapitre 4: Droit de grâce
-
-#### Art. 54
-
-<sup>1</sup> Mémoire recours
-
-<sup>1</sup> Le recours en grâce doit être présenté sous la forme d'un mémoire signé par le condamné ou par son représentant autorisé. Le mémoire doit être adressé au Conseil d'Etat au plus tard 40 jours avant le début des sessions du Grand Conseil réservée à l'examen des recours en grâce.
-
-<sup>2</sup> Le recours en grâce doit être motivé et accompagné:
-
-- a) des pièces nécessaires à l'examen du cas;
-
-- b) des pièces donnant tous renseignements utiles sur la situation personnelle, familiale, professionnelle et financière du recourant;
-
-- c) d'une copie du (des) jugement(s) se rapportant à la cause;
-
-- d) d'un extrait du casier judiciaire;
-
-- e) d'une quittance attestant le paiement des frais de justice, le cas échéant, d'un exposé des motifs pour lesquels ce paiement n'a pas eu lieu.
-
-<sup>3</sup> Si ces formalités sont observées, le recours doit être traité sans délai. Si elles ne le sont pas après sommation, le Grand Conseil le déclarera irrecevable sur la base du dossier.
-
-#### Art. 55
-
-**Enquête - Rapport**
-
-<sup>1</sup> Le Conseil d'Etat procède à une enquête et établit un rapport qui est remis aux députés le jour prévu pour le traitement.
-
-<sup>2</sup> Il sera fait de ce rapport confidentiel un usage compatible avec les principes généraux régissant la protection de la personnalité.
-
-#### Art. 56
-
-**Effet suspensif**
-
-<sup>1</sup> Le recours en grâce ne suspend pas l'exécution de la peine.
-
-<sup>2</sup> Sur requête motivée et pour autant que le recours soit recevable en la forme, l'effet suspensif peut être accordé si les conditions cumulatives suivantes sont réalisées :
-
-- a) le recours n'est pas dépourvu de chances de succès,
-
-- b) le recourant n'a pas encore commencé à subir sa peine,
-
-- c) à défaut, l'exercice du droit de grâce est vidé de sa substance.
-
-<sup>3</sup> La décision sur l'effet suspensif relève du Conseil d'Etat, qui statue en unique instance cantonale.
-
-#### Art. 57
-
-**Exclusion de la grâce**
-
-La grâce est exclue en ce qui concerne:
-
-- a) les mesures;
-
-- b) les inscriptions au casier judiciaire;
-
-- c) les peines prescrites;
-
-- d) la condamnation aux frais;
-
-- e) les mesures et sanctions administratives.
-
-#### Art. 58
-
-**Décision sur recours**
-
-<sup>1</sup> La décision du Grand Conseil intervient par vote au bulletin secret; de plus, il sera fait en sorte que l'identité du requérant ne soit pas connue du public.
-
-<sup>2</sup> La grâce peut comporter la remise partielle ou totale des peines principales et accessoires, consister dans une commutation de peine et être assortie de certaines conditions.
-
-<sup>3</sup> En cas de rejet total ou partiel de la grâce, une nouvelle demande ne peut être introduite avant le délai d'une année à compter de la décision, sauf circonstance exceptionnelle dûment établie par le recourant.
-
-### Chapitre 5: Droit pénal cantonal
-
-#### Art. 59
-
-<sup>2</sup> Droit de fond et droit de procédure
-
-<sup>1</sup> Les dispositions du Livre premier du code pénal, à l'exception des dispositions sur la conversion de l'amende et le travail d'intérêt général, s'appliquent à la répression des infractions de droit cantonal ou communal, sous réserve des prescriptions particulières de la législation cantonale ou communale.
-
-<sup>2</sup> La procédure est régie par le code de procédure pénale suisse et ses dispositions d'application.
-
-#### Art. 60
-
-**Règlements communaux**
-
-Dans les limites de la législation fédérale et de l'article 61 de la présente loi, les communes sont compétentes pour légiférer sur les contraventions de police.
-
-#### Art. 61
-
-<sup>7</sup> Prostitution de rue
-
-Abrogé.
-
-### Chapitre 6: Dispositions transitoires et finales
-
-#### Art. 62
-
-**Prononcé et exécution des mesures**
-
-<sup>1</sup> Dans un délai de douze mois à compter de l'entrée en vigueur du nouveau droit, le juge ou le président du tribunal ayant statué en dernière instance cantonale examine d'office si les personnes internées selon les articles 42 et 43 chiffre 1 alinéa 2 de l'ancien droit remplissent les conditions d'une mesure thérapeutique (art. 59 à 61 ou 63 CP).
-
-<sup>2</sup> Dans l'affirmative, le juge ordonne cette mesure. Dans le cas contraire, l'internement se poursuit conformément au nouveau droit.
-
-#### Art. 63
-
-**Casier judiciaire cantonal**
-
-Après l'introduction complète du casier judiciaire informatisé, les fiches du casier judiciaire cantonal servent exclusivement à l'exécution des peines.
-
-#### Art. 64
-
-**Régime transitoire**
-
-Les dispositions de la présente loi définissant les compétences des autorités judiciaires et administratives s'appliquent à l'exécution des jugements pénaux prononcés en application de l'ancien droit.
-
-#### Art. 65
-
-**Modification du droit en vigueur**
-
-- 1\. La loi d'organisation judiciaire du 27 juin 2000 est modifiée comme il suit: (devenu caduc par la loi sur l'organisation de la Justice du 11 février 2009 ; RS/VS 173.1)
-
-- 2\. Le code de procédure pénale du 22 février 1962 est modifié comme il suit: (devenu caduc par la loi d'application du code de procédure pénale suisse du 11 février 2009 ; RS/VS 312.0)
-
-- 3\. La loi sur la procédure et la juridiction administratives du 6 octobre 1976 est modifiée comme il suit:
-
-#### Art. 34h
-
-**Compétence matérielle**
-
-- cf. texte modifié
-
-#### Art. 34i
-
-**Procédure sommaire a) principe**
-
-- cf. texte modifié
-
-#### Art. 34k
-
-**b) réclamation - appel**
-
-- cf. texte modifié
-
-#### Art. 34l
-
-**Procédure ordinaire**
-
-- cf. texte modifié
-
-#### Art. 66
-
-**Prononcés pénaux administratifs**
-
-<sup>1</sup> Les autorités administratives compétentes pour la répression des contraventions veillent à l'exécution des prononcés pénaux administratifs.
-
-<sup>2</sup> Lorsque le recouvrement de l'amende est inexécutable par la voie de la poursuite, les autorités administratives compétentes interviennent auprès du juge de l'application des peines et mesures pour demander la conversion de l'amende en peine privative de liberté de substitution si la législation spéciale prévoit ce mode de recouvrement.[^66-1]
-
-[^66-1]: Nouvelle teneur selon ch. III de la loi BO No 39/2012 1.01.2013 modifiant le droit applicable à la poursuite et au jugement des contraventions de droit cantonal et communal, et au prononcé des
+### 4.1 Dispositions générales
 
 #### Art. 67
 
-**Abrogations**
+**Champ d'application**
 
-<sup>1</sup> Sont abrogées toutes les dispositions contraires à la présente loi, notamment:
-
-- a) la loi d'application du code pénal suisse du 16 mai 1990;
-
-- b) le règlement sur le casier judiciaire informatisé du 15 décembre 1999;
-
-- c) le règlement sur les établissements de détention du canton du Valais du 10 décembre 1993;
-
-- d) le règlement fixant l'organisation et le fonctionnement de la commission de libération conditionnelle du 26 mars 1997;
-
-- e) le règlement concernant l'examen des condamnés présentant un risque accru du 9 avril 1997;
-
-- f) le règlement sur le patronage du 14 octobre 1992;
-
-- g) l'ordonnance d'application de l'ordonnance 3 relative au code pénal suisse sur le travail d'intérêt général (OTIG) du 18 août 1999.
-
-<sup>2</sup> L'article 68 alinéa 2 de la présente loi demeure réservé.
+<sup>1</sup> Le présent chapitre traite de la poursuite, du jugement et de l'exécution des infractions prévues par le droit cantonal et par le droit communal.
 
 #### Art. 68
 
-**Entrée en vigueur**
+**Poursuite et jugement des infractions**
 
-<sup>1</sup> Le Conseil d'Etat fixe la date d'entrée en vigueur de la présente loi et édicte les dispositions d'exécution nécessaires.
+<sup>1</sup> Les autorités compétentes et la procédure applicable pour la poursuite et le jugement des infractions de droit cantonal et de droit communal sont désignées:
 
-<sup>2</sup> Jusqu'à l'entrée en vigueur des ordonnances et règlements prévus par la présente loi, demeurent en force, dans la mesure où leurs dispositions ne contreviennent pas aux règles susmentionnées, les ordonnances et règlements du Conseil d'Etat adoptés en exécution de la loi d'application du code pénal suisse du 16 mai 1990.
+- a) par la LACPP, lorsque l'auteur est une personne adulte;
+- b) par la LAPPMin, lorsque l'auteur est une personne mineure.
 
 #### Art. 69
 
-**Votation populaire**
+**Exécution des sanctions a) Autorités compétentes**
 
-<sup>1</sup> Edictés en application d'une loi fédérale, les articles 1 à 58, 62 à 64, 66 et 67 ne sont pas soumis au référendum facultatif.
+<sup>1</sup> L'exécution des jugements et décisions sanctionnant une infraction de droit cantonal ou communal commise par une personne adulte incombe:
 
-<sup>2</sup> Les articles 59 à 61 et 65 sont soumis au référendum facultatif.
+- a) à l'autorité administrative qui a rendu le prononcé pénal administratif en première instance;
+- b) au service, si le prononcé a été rendu par le ministère public ou un tribunal.
 
-Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 14septembre 2006.
+<sup>2</sup> La LADPMin désigne les autorités compétentes pour l'exécution des sentences prononcées contre un mineur.
 
-Le président du Grand Conseil: Albert Bétrisey Le chef du Service parlementaire: Claude Bumann
+#### Art. 70
 
-### Dispositions transitoires selon modification du 12 mars 2015
+**b) Droit applicable**
 
-Les articles 28a et 28b s'appliquent dès leur entrée en vigueur aux mesures d'exécution en cours.
+<sup>1</sup> Les dispositions du chapitre 3 de la présente loi s'appliquent par analogie à l'exécution des sanctions réprimant une infraction de droit cantonal ou de droit communal commise par une personne adulte. De plus:
 
-### Dispositions transitoires selon modification du 12 mai 2016
+- a) les peines privatives de liberté de substitution réprimant une infraction de droit communal peuvent être exécutées dans un établissement de détention du canton, à charge pour la commune de faire l'avance des frais;
+- b) l'administration communale peut être appelée, pour les infractions de droit communal, à collaborer pour le recouvrement de l'amende ainsi que pour l'exécution des confiscations et dévolutions dont le produit est acquis à la commune.
 
-L'article 38b s'applique dès son entrée en vigueur.
+<sup>2</sup> La LADPMin régit l'exécution des sanctions réprimant une infraction de droit cantonal ou de droit communal commise par une personne mineure.
 
-**Entrée en**
+### 4.2 Conditions de la répression et peines applicables
 
-### Intitulé et modifications Publication
+#### Art. 71
 
-vigueur Loi d'application du code pénal suisse RO/VS 2006, 24;
+**Principes**
 
-**1.01.2007**
+<sup>1</sup> Sous réserve des articles 72 à 74, les dispositions générales du CP s'appliquent, à titre de droit cantonal supplétif, à la répression des infractions de droit cantonal ou de droit communal commises par une personne adulte.
 
-**320**
+<sup>2</sup> La LADPMin définit le droit pénal matériel cantonal applicable à la répression des infractions de droit cantonal ou de droit communal commises par une personne mineure.
 
-### (LACP) du 14 septembre 2006
+<sup>3</sup> Les dispositions contraires de la législation spéciale sont réservées.
 
-amendes d'ordre du 13.09.2012
+#### Art. 72
 
-## Autres notes
+**Condition de lieu**
 
-- [1] Nouvelle teneur selon ch. II de la BO No 45/2008 1.03.2009 modification du 9.10.2008 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs
-- [5] Modification du 13 novembre 2014 BO No 51/2014; BO 01.01.2015 No 4/2015
-- [6] Modification du 12 mars 2015 BO No 14/2015; BO 03.07.2015 No 27/2015
-- [7] Modification (Loi sur la prostitution (LProst) BO No 14/2015; BO 01.01.2016 du 12 mars 2015, art. 34) No 40/2015
-- [8] Modification du 12 mai 2016 BO No 24/2016; BO 01.10.2016 No 34/2016
+<sup>1</sup> Le droit pénal cantonal est applicable à quiconque commet une infraction de droit cantonal sur le territoire cantonal.
+
+<sup>2</sup> Le droit pénal communal est applicable à quiconque commet une infraction de droit communal sur le territoire communal.
+
+#### Art. 73
+
+**Négligence**
+
+<sup>1</sup> Sauf disposition contraire, les contraventions de droit cantonal ou de droit communal ne sont pas punissables lorsqu'elles ont été commises par négligence.
+
+#### Art. 74
+
+**Amende**
+
+<sup>1</sup> L'amende ne peut être inférieure à 10 francs, ni supérieure à 10'000 francs.
+
+<sup>2</sup> Dans les cas expressément prévus par la loi, l'amende peut atteindre 100'000 francs.
+
+<sup>3</sup> En cas de récidive ou de concours d'infractions, l'autorité peut doubler le montant de l'amende.
+
+<sup>4</sup> Lorsque le recouvrement de l'amende est inexécutable par la voie de la poursuite, l'autorité administrative compétente, en première instance, pour rendre un prononcé pénal administratif, intervient auprès du juge de l'application des peines et mesures pour demander la conversion de l'amende en une peine privative de liberté de substitution.
+
+### 4.3 Infractions de droit cantonal ou de droit communal
+
+#### Art. 75
+
+**Contraventions de police**
+
+<sup>1</sup> Dans les limites du droit fédéral, la législation cantonale spéciale définit les actes punissables dont la nature ou la gravité n'entraîne pas une incrimination du droit fédéral.
+
+<sup>2</sup> Dans les limites du droit fédéral et du droit cantonal, la commune est compétente pour légiférer sur les contraventions de police.
+
+#### Art. 76
+
+**Infractions de droit administratif et de procédure**
+
+<sup>1</sup> Le canton et les communes peuvent prévoir des sanctions pour inobservation des lois administratives et de procédure de leur compétence.
+
+## 5 Dispositions d'application d'autres lois fédérales en matière pénale
+
+### 5.1 Loi fédérale sur le droit pénal administratif (DPA)
+
+#### Art. 77
+
+**Jonction des causes**
+
+<sup>1</sup> Le ministère public est compétent pour consentir à une jonction des causes par-devant l'autorité de poursuite pénale (art. 20 al. 3 DPA).
+
+#### Art. 78
+
+**Perquisition**
+
+<sup>1</sup> Le procureur général désigne le procureur ou le fonctionnaire de police qui assiste à la perquisition (art. 49 al. 2 DPA).
+
+#### Art. 79
+
+**Mandat d'arrêt et mise en liberté**
+
+<sup>1</sup> Le tribunal des mesures de contrainte est compétent pour:
+
+- a) entendre la personne arrêtée provisoirement et décerner le mandat d'arrêt ou ordonner sa mise en liberté (art. 51 al. 3 à 5 DPA);
+- b) recevoir l'avis de plainte contre la mise en liberté de la personne arrêtée provisoirement (art. 51 al. 6 DPA);
+- c) décerner le mandat d'arrêt (art. 51 al. 2 DPA);
+- d) se faire amener l'inculpé placé sous mandat d'arrêt (art. 54 al. 2 DPA);
+- e) interroger l'inculpé placé sous mandat d'arrêt (art. 55 al. 1 DPA);
+- f) prolonger la détention préventive (art. 57 al. 2 DPA);
+- g) veiller à ce que la détention préventive soit exécutée régulièrement (art. 58 al. 1 DPA);
+- h) statuer sur une demande de mise en liberté provisoire, tant que le dossier n'a pas été transmis au tribunal pour jugement (art. 59 al. 3 DPA).
+
+#### Art. 80
+
+**Jugement**
+
+<sup>1</sup> La LACPP détermine le tribunal compétent pour statuer:
+
+- a) lorsque le département fédéral compétent envisage le prononcé d'une peine ou d'une mesure privative de liberté (art. 21 al. 1 DPA);
+- b) lorsque la personne touchée par un prononcé pénal de l'administration demande à être jugée par un tribunal (art. 21 al. 2 DPA).
+
+#### Art. 81
+
+**Peine privative de liberté de substitution**
+
+<sup>1</sup> Le tribunal de l'application des peines et mesures est compétent pour fixer la peine privative de liberté de substitution lorsque la peine pécuniaire ou l'amende a été prononcée par l'administration (art. 10 DPA).
+
+### 5.2 Loi fédérale sur l'entraide internationale en matière pénale (EIMP) - Loi fédérale sur la coopération avec la Cour pénale internationale (LCPI) - Loi fédérale relative au Traité conclu avec les Etats-Unis d'Amérique sur l'entraide judiciaire en matière pénale (LTEJUS)
+
+#### Art. 82
+
+**Principes**
+
+<sup>1</sup> L'office central du ministère public exerce les attributions conférées par l'EIMP, la LCPI ou la LTEJUS à l'autorité compétente, à l'autorité cantonale, à l'autorité de poursuite pénale ou à l'autorité d'exécution, sous réserve des articles 83 à 86.
+
+<sup>2</sup> Il exerce toutes les compétences en matière d'entraide internationale que la législation cantonale ne confère pas à une autre autorité.
+
+<sup>3</sup> Lorsque la procédure concerne un mineur, l'autorité compétente est désignée par la LAPPMin.
+
+<sup>4</sup> Demeure réservé l'article 55 alinéa 4 CPP lorsque la tâche d'entraide judiciaire est confiée à une autorité judiciaire, sauf en matière d'exequatur (art. 85).
+
+#### Art. 83
+
+**Police cantonale**
+
+<sup>1</sup> La police cantonale procède à l'arrestation, la fouille, la perquisition et la saisie (art. 44 et 45 EIMP) et donne les avis d'exécution (art. 46 EIMP).
+
+<sup>2</sup> Elle exécute la décision d'extradition (art. 57 al. 2 EIMP).
+
+<sup>3</sup> Le commandement de la police cantonale est compétent pour présenter les demandes d'entraide de la police (art. 75a EIMP).
+
+#### Art. 84
+
+**Demandes d'entraide judiciaire**
+
+<sup>1</sup> Les demandes d'entraide judiciaire (art. 75 EIMP) sont présentées par:
+
+- a) le tribunal pendant les débats;
+- b) l'office central du ministère public durant les autres phases de la procédure.
+
+#### Art. 85
+
+**Exequatur**
+
+<sup>1</sup> Le juge de l'application des peines et mesures est compétent pour prononcer l'exequatur de la décision pénale étrangère (art. 105 et 106 EIMP).
+
+<sup>2</sup> Il statue en appliquant, par analogie, les dispositions du CPP sur les décisions judiciaires ultérieures indépendantes.
+
+<sup>3</sup> L'appel est recevable contre les décisions du juge de l'application des peines et mesures. Les dispositions du CPP traitant de l'appel s'appliquent par analogie.
+
+#### Art. 86
+
+**Service**
+
+<sup>1</sup> Le service est l'autorité compétente pour requérir l'Office fédéral de la justice d'engager la procédure d'extradition aux fins d'exécution de la sanction d'un condamné se trouvant à l'étranger et pour donner suite à ses requêtes (art. 30 al. 2 EIMP). Les frais de la procédure d'extradition sont supportés par le condamné. Le service en fait l'avance.
+
+<sup>2</sup> Il est compétent pour requérir auprès de l'Office fédéral de la police l'exécution d'un jugement pénal suisse par un Etat étranger et se prononcer sur l'utilisation d'établissements pénitentiaires valaisans pour l'exécution de jugements pénaux étrangers délégués à la Suisse (art. 94 ss EIMP).
+
+<sup>3</sup> Il est compétent pour adresser à l'Office fédéral de la justice des demandes de transfèrement et pour s'entretenir avec lui des demandes de transfèrement présentées à la Suisse.
+
+### 5.3 Loi fédérale sur la surveillance de la correspondance par poste et télécommunication (LSCPT)
+
+#### Art. 86a
+
+**Surveillance de la correspondance par poste et télécommunication**
+
+<sup>1</sup> En dehors de la procédure pénale, l’office est compétent pour ordonner la surveillance au sens de la loi fédérale sur la surveillance de la correspondance par poste et télécommunication, d’une personne condamnée se situant sous l’autorité d’exécution du canton du Valais.
+
+<sup>2</sup> Le tribunal des mesures de contrainte est compétent pour autoriser la surveillance.
+
+<sup>3</sup> La décision du tribunal est sujette à recours auprès d’un juge du Tribunal cantonal. Les articles 379 à 397 CPP s’appliquent par analogie.
+
+## 6 Disposition finale
+
+#### Art. 87
+
+<sup>1</sup> Le Conseil d'Etat arrête les dispositions nécessaires à l'application du présent acte législatif.
+
+## T1 Disposition transitoire
+
+#### Art. T1-1
+
+**Droit transitoire**
+
+<sup>1</sup> La présente loi s'applique aux affaires et procédures pendantes lors de son entrée en vigueur.
+
+## T2 Disposition transitoire de la modification du 13.09.2019
+
+#### Art. T2-1
+
+<sup>1</sup> Le présent acte législatif s'applique aux affaires et procédures pendantes lors de son entrée en vigueur.
+
+RCV BO/Abl. 24/2016, 40/2017
