@@ -3,20 +3,20 @@ canton: SG
 number: "216.15"
 title: Statut der Pädagogischen Hochschule St.Gallen
 language: de
-version: 2016-08-01
-corrected: 2016-11-15
-version_adopted: 2016-07-01
+version: 2021-09-01
+valid_until: 2023-08-31
+version_adopted: 2020-09-02
 adopted: 2007-08-16
 in_force: 2007-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/216.15"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2149/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3069/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Statut der Pädagogischen Hochschule St.Gallen
 
-vom 16.08.2007 (Stand 01.08.2016)
+vom 16.08.2007 (Stand 01.09.2021)
 
 Der Rat der Pädagogischen Hochschule des Kantons St.Gallen
 
@@ -80,17 +80,18 @@ als Statut:[^ingress-2]
 
 <sup>1</sup> Die Hochschule führt folgende Prorektorate:
 
-- a) Ausbildung Kindergarten- und Primarstufe;
-- b) Ausbildung Sekundarstufe I und II;
+- a) Ausbildung;
+- b) …
 - c) …
 - d) …
-- e) Forschung und Weiterbildung.
+- e) Forschung und Entwicklung;
+- f) Weiterbildung und Dienstleistungen.
 
 #### Art. 5
 
 **Studienbereiche**
 
-<sup>1</sup> Die Hochschule führt organisatorisch mehrere Studienbereiche, die den entsprechenden Prorektoraten Ausbildung unterstellt sind.
+<sup>1</sup> Die Hochschule führt organisatorisch mehrere Studienbereiche, die dem Prorektorat Ausbildung unterstellt sind.
 
 <sup>2</sup> Zweck der Studienbereiche ist es, einen die Zielstufen übergreifenden fachlichen Austausch unter den Dozierenden zu fördern sowie die wissenschaftlichen Fachdisziplinen zu vertreten und weiterzuentwickeln.
 
@@ -98,23 +99,23 @@ als Statut:[^ingress-2]
 
 #### Art. 6
 
-**Institute a) allgemein**
+**Institute**
 
 <sup>1</sup> Der Hochschule können Institute ohne eigene Rechtspersönlichkeit angegliedert sein.
 
-<sup>2</sup> Die Institute sind dem Prorektorat Forschung und Weiterbildung unterstellt.
+<sup>2</sup> Die Institute sind dem Prorektorat Forschung und Entwicklung oder dem Prorektorat Weiterbildung und Dienstleistungen unterstellt.
 
 <sup>3</sup> Eine vom Hochschulrat erlassene Satzung regelt Zweck, Aufgaben und Organisation der Institute.
 
 #### Art. 7
 
-**b) Beirat Forschung, Entwicklung und Beratung**
+**Wissenschaftlicher Beirat**
 
-<sup>1</sup> Der Hochschulrat wählt auf Vorschlag der Rektorin oder des Rektors einen Beirat «Forschung, Entwicklung und Beratung» aus wenigstens fünf sachverständigen Persönlichkeiten aus Wissenschaft, Wirtschaft oder pädagogischer Praxis.
+<sup>1</sup> Der Hochschulrat wählt auf Vorschlag der Rektorin oder des Rektors einen wissenschaftlichen Beirat aus wenigstens vier sachverständigen Persönlichkeiten.
 
 <sup>2</sup> Die Rektorin oder der Rektor präsidiert den Beirat.
 
-<sup>3</sup> Der Beirat berät und unterstützt den Bereich «Forschung, Entwicklung und Beratung» in der Erfüllung seiner Aufgaben.
+<sup>3</sup> Der Beirat berät die Hochschule aus wissenschaftlicher Perspektive in Fragen der Ausbildung, der Forschung und Entwicklung, der Weiterbildung und der Dienstleistungen sowie bei der strategischen Planung.
 
 #### Art. 8
 
@@ -263,6 +264,20 @@ als Statut:[^ingress-2]
 <sup>1</sup> Wer in Ausübung eines Amtes oder in einem Anstellungs- oder Auftragsverhältnis von Hochschulangelegenheiten Kenntnis nimmt, die nach Vorschrift oder nach den Umständen geheim zu halten sind, ist zur Verschwiegenheit verpflichtet.
 
 <sup>2</sup> Die Schweigepflicht besteht auch nach dem Ausscheiden aus dem Amt beziehungsweise nach Auflösung des Anstellungs- oder Auftragsverhältnisses.
+
+#### Art. 23a
+
+**Verzicht auf Rechte an Erfindungen und urheberrechtlich geschützten Werken**
+
+<sup>1</sup> Soweit dieser Artikel nichts anderes bestimmt, richtet sich der Verzicht auf die Rechte an Erfindungen und an urheberrechtlich geschützten Werken nach [Art. 70](https://www.gesetzessammlung.sg.ch/data/143.1/de/art70) des Personalgesetzes vom 25. Januar 2011[^23a-1].
+
+<sup>2</sup> Die Mitarbeiterin oder der Mitarbeiter behält den Anspruch, als Erfinderin oder Erfinder oder Urheberin oder Urheber genannt zu werden.
+
+<sup>3</sup> Beabsichtigt die Hochschule keine eigene Verwertung, kann die Mitarbeiterin oder der Mitarbeiter die Übertragung der Rechte an Erfindungen und urheberrechtlich geschützten Werken beantragen. Über den Antrag entscheidet die Rektorin oder der Rektor.
+
+<sup>4</sup> Überträgt die Hochschule Rechte an Erfindungen und urheberrechtlich geschützten Werken auf die Mitarbeiterin oder den Mitarbeiter, behält die Hochschule das Recht auf unentgeltliche und unbeschränkte Nutzung innerhalb der Hochschule, insbesondere für Lehre und zu wissenschaftlichen Zwecken. Diese Bestimmung gilt auch nach Beendigung des Arbeitsverhältnisses weiter.
+
+[^23a-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
 #### Art. 24
 
@@ -451,7 +466,7 @@ als Statut:[^ingress-2]
 
 **Wahl**
 
-<sup>1</sup> Die Rektorin oder der Rektor wird durch den Hochschulrat gewählt. Der Konvent kann Vorschläge einreichen.
+<sup>1</sup> Die Rektorin oder der Rektor wird durch den Hochschulrat gewählt. Die Wiederwahl ist möglich.
 
 #### Art. 42
 
@@ -492,11 +507,11 @@ als Statut:[^ingress-2]
 
 **Wahl**
 
-<sup>1</sup> Die Wahl der Prorektorinnen oder Prorektoren erfolgt durch den Hochschulrat. Der Konvent kann Vorschläge einreichen. Die Wiederwahl ist möglich.
+<sup>1</sup> Die Wahl der Prorektorinnen oder Prorektoren erfolgt durch den Hochschulrat. Die Wiederwahl ist möglich.
 
 #### Art. 45
 
-**Aufgaben Prorektorate Ausbildung**
+**Aufgaben Prorektorat Ausbildung**
 
 <sup>1</sup> Die Prorektorin oder der Prorektor leitet den ihr oder ihm zugewiesenen Verantwortungsbereich. Ihr oder ihm obliegt insbesondere:
 
@@ -524,22 +539,42 @@ als Statut:[^ingress-2]
 
 #### Art. 47a
 
-**Aufgaben Prorektorat Forschung und Weiterbildung**
+**Aufgaben Prorektorat Forschung und Entwicklung**
 
 <sup>1</sup> Die Prorektorin oder der Prorektor leitet den ihr oder ihm zugewiesenen Verantwortungsbereich. Ihr oder ihm obliegt insbesondere:
 
-- a) Ausarbeitung und Umsetzung der Forschungs- und Weiterbildungsstrategie gemäss Leitbild und Entwicklungsplan;
-- b) Leitung der Konferenz der Leiterinnen und Leiter der Institute;
-- c) Vorbereitung neuer Weiterbildungsangebote zuhanden des Rektorats;
-- d) Organisation der internen Weiterbildung des Personals der Hochschule;
-- e) Leitung der Regionalen Didaktischen Zentren (RDZ);
+- a) Ausarbeitung und Umsetzung der Strategie im Bereich Forschung und Entwicklung gemäss Leitbild und Entwicklungsplan;
+- b) Leitung der Konferenz der Leiterinnen und Leiter der dem Prorektorat unterstellten Institute;
+- c) …
+- d) …
+- e) …
 - f) projektbezogene Zusammenarbeit mit den anderen Prorektoraten und mit den Studienbereichsleitungen;
 - g) Erstellung des Jahresbudgets, der Jahresrechnung und des Jahresberichts im Verantwortungsbereich;
 - h) Verantwortung für die jährliche persönliche Zielvereinbarung der unterstellten Mitarbeitenden;
 - i) Rekrutierung, Förderung und Weiterqualifikation der wissenschaftlichen Mitarbeitenden und Assistierenden;
 - j) Sicherstellung des Qualitätsmanagements im Verantwortungsbereich;
-- k) Vertretung des Prorektorats Forschung und Weiterbildung gegen aussen;
-- l) Mitarbeit in Forschungsorganisationen und in interkantonalen und internationalen Organisationen der Weiterbildung und des Wissenstransfers.
+- k) Vertretung des Prorektorats gegen aussen;
+- l) Mitarbeit in Forschungsorganisationen und in Organisationen des Wissenstransfers.
+
+<sup>2</sup> Die Prorektorin oder der Prorektor kann einzelne ihr oder ihm zugewiesene Aufgaben und Befugnisse an Stabsmitarbeitende delegieren.
+
+#### Art. 47b
+
+**Aufgaben Prorektorat Weiterbildung und Dienstleistungen**
+
+<sup>1</sup> Die Prorektorin oder der Prorektor leitet den ihr oder ihm zugewiesenen Verantwortungsbereich. Ihr oder ihm obliegt insbesondere:
+
+- a) Ausarbeitung und Umsetzung der Strategie im Bereich Weiterbildung und Dienstleistungen gemäss Leitbild und Entwicklungsplan;
+- b) Leitung der Konferenz der Leiterinnen und Leiter der dem Prorektorat unterstellten Institute;
+- c) Vorbereitung neuer Weiterbildungsangebote zuhanden des Rektorats;
+- d) Weiterentwicklung der akademischen Personalentwicklung;
+- e) Leitung der Regionalen Didaktischen Zentren (RDZ);
+- f) projektbezogene Zusammenarbeit mit den anderen Prorektoraten und mit den Studienbereichsleitungen;
+- g) Erstellung des Jahresbudgets, der Jahresrechnung und des Jahresberichts im Verantwortungsbereich;
+- h) Verantwortung für die jährliche persönliche Zielvereinbarung der unterstellten Mitarbeitenden;
+- i) Sicherstellung des Qualitätsmanagements im Verantwortungsbereich;
+- j) Vertretung des Prorektorats gegen aussen;
+- k) Mitarbeit in Organisationen der Weiterbildung und des Wissenstransfers.
 
 <sup>2</sup> Die Prorektorin oder der Prorektor kann einzelne ihr oder ihm zugewiesene Aufgaben und Befugnisse an Stabsmitarbeitende delegieren.
 
@@ -561,12 +596,12 @@ als Statut:[^ingress-2]
 
 - a) Organisation und Leitung der Studienbereichskonferenz;
 - b) wissenschaftliche und didaktische Weiterentwicklung der Fachbereiche;
-- c) Entwicklung von Angeboten und Projekten in den Leistungsbereichen «Ausbildung», «Weiterbildung», «Forschung und Entwicklung» und «Beratung» in Kooperation mit den Prorektorinnen oder Prorektoren;
+- c) Entwicklung von Angeboten und Projekten in den Leistungsbereichen Lehre, Weiterbildung, Forschung, Entwicklung und Dienstleistungen in Kooperation mit den Prorektorinnen oder Prorektoren;
 - d) Sicherstellung des Qualitätsmanagements im Studienbereich;
 - e) Mitwirkung bei der Personalauswahl und -entwicklung;
 - f) Kooperation mit den Prorektoraten;
 - g) Kooperation mit den Verantwortlichen der Berufspraktischen Ausbildung;
-- h) Angebot von Dienstleistungen für das Prorektorat Forschung und Weiterbildung;
+- h) …
 - i) Organisation von Foren, Tagungen und Kongressen.
 
 <sup>3</sup> Die Studienbereiche organisieren sich selbst.
@@ -606,7 +641,8 @@ als Statut:[^ingress-2]
 
 - a) Stellungnahme zu Erlassentwürfen;
 - b) Bestellung von Kommissionen;
-- c) Möglichkeit zur Unterbreitung von Vorschlägen zur Wahl der Rektorin oder des Rektors, der Prorektorinnen oder Prorektoren sowie der Vertretung der Dozierenden in der Rekurs- und der Disziplinarkommission;
+- c) Möglichkeit der Beteiligung der Konventsvertretung an der Vorbereitung der Wahl der Rektorin oder des Rektors sowie der Prorektorinnen oder Prorektoren;
+- c<sup>bis</sup>) Möglichkeit zur Unterbreitung von Vorschlägen zur Wahl der Vertretung der Dozierenden in der Rekurs- und der Disziplinarkommission;
 - d) Mitsprache bei der Erarbeitung des Leitbilds und der Umsetzungsmassnahmen;
 - e) Stellungnahme zu Studienordnung und Studienplänen;
 - f) Wahl einer Vertretung des Konvents im Rektorat auf die Amtsdauer von zwei Jahren mit der Möglichkeit der Wiederwahl.
@@ -699,9 +735,7 @@ als Statut:[^ingress-2]
 <sup>1</sup> Dem Mittelbau gehören an:
 
 - a) wissenschaftliche Mitarbeitende und Assistierende der Hochschule, die nicht immatrikuliert sind;
-- b) weitere Mitarbeitende in Leistungsbereichen der Hochschule.[^58-1]
-
-[^58-1]: Leistungsbereiche der Hochschule sind «Ausbildung», «Weiterbildung», «Forschung und Entwicklung» und «Dienstleistungen».
+- b) weitere Mitarbeitende in Leistungsbereichen der Hochschule.
 
 #### Art. 59
 
