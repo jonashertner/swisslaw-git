@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Placing on the Market and Handling of Bi
 short: OBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: en
-version: 2020-12-15
+version: 2021-09-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20201215/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20201215-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20201215/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20210901/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20210901-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20210901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Ordinance on Biocidal Products, OBP)
 
-of 18 May 2005 (Status as of 15 December 2020)
+of 18 May 2005 (Status as of 1 September 2021)
 
 The Swiss Federal Council,
 
@@ -2064,25 +2064,25 @@ This Ordinance comes into force on 1 August 2005.
 
 Annex 1*[^t-1]*
 
-(Art. 7 para. 1, 8 para. 1, 9 para. 1, 10 para. 1, 11 para. 2 and 3, 11*h* let. a, 22, 31 para. 1, 62*c* para. 1, 62*d* para. 3)
+(Art. 7 para. 1, 8 para. 1, 9 para. 1, 10 para. 1, 11 para. 2 and 3, 11*h* let. a, 22, 31 para. 1 and 62*c* para. 1)
 
 ## List of active substances suitable for the simplified procedure****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by No I of the FOPH O of 21 Feb. 2020, in force since 1 April 2020 ([AS 2020 731](https://fedlex.data.admin.ch/eli/oc/2020/135)).
-[^annex1-lvlu1-1]: The list of active substances suitable for the simplified procedure is not published in the Official Compilation. The list may be viewed free of charge at www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products &gt; Annex 1. The version of 1 April 2020 applies.
+[^t-1]: Amended by No I of the FOPH O of 4 Aug. 2021, in force since 1 Sept. 2021 ([AS 2021 488](https://fedlex.data.admin.ch/eli/oc/2021/488)).
+[^annex1-lvlu1-1]: The list of active substances suitable for the simplified procedure is not published in the Official Compilation. The list may be viewed free of charge at www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products &gt; Annex 1. The version of 1 Sept. 2021 applies.
 
 Annex 2*[^t-2]*
 
-(Art. 7 para. 1, 8 para. 1, 9 para. 1 and 3, 10 para. 1, 11 para. 2 and 3, 22, 31 para. 1,62 para. 2, 62*a* para. 4 and 62*c* para. 1)
+(Art. 7 para. 1, 8 para. 1, 9 para. 1 and 3, 10 para. 1, 11 para. 2 and 3, 22, 31 para. 1, 62 para. 2 and 62*c* para. 1)
 
 ## Union list of approved active substances****
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Amended by No I of the FOPH O of 19 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5297](https://fedlex.data.admin.ch/eli/oc/2020/916)).
-[^annex2-lvlu1-1]: The Union list of approved active substances is not published in the Official Compilation. The Union list may be viewed free of charge at www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products &gt; Annex 2. The version of 15 Dec. 2020 applies.
+[^t-2]: Amended by No I of the FOPH O of 4 Aug. 2021, in force since 1 Sept. 2021 ([AS 2021 488](https://fedlex.data.admin.ch/eli/oc/2021/488)).
+[^annex2-lvlu1-1]: The Union list of approved active substances is not published in the Official Compilation. The Union list may be viewed free of charge at www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products &gt; Annex 2. The version of 1 Sept. 2021 applies.
 
 Annex 3*[^t-3]*
 
