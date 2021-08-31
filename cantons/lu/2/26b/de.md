@@ -4,13 +4,13 @@ number: 26b
 title: Verordnung über die Informatiksicherheit und über die Nutzung von Informatikmitteln
 short: Informatiksicherheitsverordnung
 language: de
-version: 2021-08-01
-valid_until: 2021-08-31
-version_adopted: 2021-03-02
+version: 2021-09-01
+valid_until: 2024-12-31
+version_adopted: 2021-08-23
 adopted: 2016-11-22
 in_force: 2017-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/26b"
-pdf: "https://srl.lu.ch/api/de/versions/3774/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3808/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://srl.lu.ch/api/de/versions/3774/pdf_file"
 
 (Informatiksicherheitsverordnung)
 
-vom 22.11.2016 (Stand 01.08.2021)
+vom 22.11.2016 (Stand 01.09.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 2 Absatz 2, 19 Absatz 3, 20 Absätze 2 und 4 des Informatikgesetzes vom 7. März 2005[^ingress-1], § 7 Absatz 2 des Datenschutzgesetzes vom 2. Juli 1990[^ingress-2] sowie § 81 des Personalgesetzes vom 26. Juni 2001[^ingress-3],
+gestützt auf die §§ 2 Absatz 2, 19 Absatz 3, 20 Absätze 2 und 4 des Informatikgesetzes vom 7. März 2005[^ingress-1], § 7 Absatz 2 des Kantonalen Datenschutzgesetzes vom 2. Juli 1990[^ingress-2] sowie § 81 des Personalgesetzes vom 26. Juni 2001[^ingress-3],
 
 auf Antrag des Finanzdepartementes,
 
@@ -63,7 +63,7 @@ beschliesst:
 
 <sup>2</sup> Der Begriff der Informatikmittel richtet sich nach dem Informatikgesetz vom 7. März 2005[^3-1]. Informatikmittel sind Geräte, Einrichtungen und Dienste, wie insbesondere Computersysteme, Computerprogramme, Kommunikationsdienste, die der elektronischen Erfassung, Verarbeitung, Speicherung, Übermittlung, Auswertung, Archivierung oder Vernichtung von Informationen dienen.
 
-<sup>3</sup> Die Begriffe der Personendaten und der Organe richten sich nach dem Gesetz über den Schutz von Personendaten (Datenschutzgesetz) vom 2. Juli 1990[^3-2].
+<sup>3</sup> Die Begriffe der Personendaten und der Organe richten sich nach dem Gesetz über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^3-2].
 
 <sup>4</sup> Anonym bedeutet, dass keine Rückschlüsse auf eine einzelne Person möglich sind.
 
@@ -141,7 +141,7 @@ beschliesst:
 
 <sup>2</sup> Die Organe und die Dienststelle Informatik sind befugt, für ihren Zuständigkeitsbereich die Klassifikation zu verfeinern und zusätzliche Weisungen zu erlassen. Darin können Behandlungsregeln aufgenommen werden, welche von den Anwenderinnen und Anwendern im Umgang mit klassifizierten Informationen zu beachten sind.
 
-<sup>3</sup> Vertrauliche und geheime Informationen, namentlich besonders schützenswerte Personendaten und Persönlichkeitsprofile, dürfen nur verschlüsselt übertragen und auf Endgeräten gespeichert werden. Der oder die kantonale Datenschutzbeauftragte kann für die Speicherung von Personendaten und Persönlichkeitsprofilen auf Endgeräten Ausnahmen bewilligen.
+<sup>3</sup> Vertrauliche und geheime Informationen, namentlich besonders schützenswerte Personendaten und Persönlichkeitsprofile, dürfen nur verschlüsselt übertragen und auf Endgeräten gespeichert werden. Der oder die Beauftragte für den Datenschutz kann für die Speicherung von Personendaten und Persönlichkeitsprofilen auf Endgeräten Ausnahmen bewilligen.
 
 #### § 9
 
@@ -175,7 +175,7 @@ beschliesst:
 
 <sup>2</sup> Sicherheitsmassnahmen und Notfallkonzepte für Informationen und Informatikmittel mit der Klassifizierung «geheim» oder «Verfügbarkeit während 7x24 Stunden» sind jährlich durch die Organe oder eine unabhängige externe Stelle zu überprüfen.
 
-<sup>3</sup> Der oder die kantonale Datenschutzbeauftragte überprüft periodisch die Sicherheit, die Massnahmen und deren Umsetzung bei personenbezogenen Daten.
+<sup>3</sup> Der oder die Beauftragte für den Datenschutz überprüft periodisch die Sicherheit, die Massnahmen und deren Umsetzung bei personenbezogenen Daten.
 
 <sup>4</sup> Die in der vorliegenden Verordnung enthaltenen Regelungen zur Klassifizierung und zur Behandlung klassifizierter Informationen und Informatikmittel gelten nur insofern, als sie den übergeordneten bundes- und kantonalrechtlichen Vorgaben zur Vertraulichkeit von Informationen und Informatikmitteln nicht widersprechen.
 
@@ -313,7 +313,7 @@ beschliesst:
 - b. die Schutzziele gemäss § 7 dieser Verordnung oder
 - c. den wirtschaftlichen Einsatz von Informatikmitteln,
 
-<sup>2</sup> Vorkommnisse oder Schwachstellen im Zusammenhang mit Personendaten sind von den zuständigen Organisations- und Informatikbeauftragten dem oder der kantonalen Datenschutzbeauftragten zu melden.
+<sup>2</sup> Vorkommnisse oder Schwachstellen im Zusammenhang mit Personendaten sind von den zuständigen Organisations- und Informatikbeauftragten dem oder der Beauftragten für den Datenschutz zu melden.
 
 <sup>3</sup> Die zuständigen Organisations- und Informatikbeauftragten müssen ein Verfahren vorsehen, das eine schnelle, planmässige und wirksame Reaktion auf sicherheitsrelevante Vorkommnisse ermöglicht. Für Informationen und Informatikmittel mit Verfügbarkeit während 7x24 Stunden ist ein spezielles Notfallkonzept zu erstellen.
 
@@ -384,7 +384,7 @@ beschliesst:
 
 <sup>1</sup> Die Organe und die Dienststelle Informatik haben die Informatikmittel in ihrem Zuständigkeitsbereich zu überwachen und zu kontrollieren.
 
-<sup>2</sup> Die zuständigen Organe können die Ausführung von Aufgaben im Bereich der Überwachung und Kontrolle an andere Organe oder unabhängige Dritte delegieren. Der Leiter oder die Leiterin der Dienststelle Informatik und der oder die Datenschutzbeauftragte sind durch die Organe vor der Delegation rechtzeitig zu orientieren.
+<sup>2</sup> Die zuständigen Organe können die Ausführung von Aufgaben im Bereich der Überwachung und Kontrolle an andere Organe oder unabhängige Dritte delegieren. Der Leiter oder die Leiterin der Dienststelle Informatik und der oder die Beauftragte für den Datenschutz sind durch die Organe vor der Delegation rechtzeitig zu orientieren.
 
 #### § 29
 
@@ -416,11 +416,11 @@ beschliesst:
 
 <sup>1</sup> Die zuständigen Departementssekretärinnen und -sekretäre, der Staatsschreiber oder die Staatsschreiberin, der Präsident oder die Präsidentin des Kantonsgerichtes, der Leiter oder die Leiterin der Dienststelle Informatik und der oder die kantonale Beauftragte für Informationssicherheit können ausnahmsweise einzelne personenbezogene Auswertungen zur Gewährleistung der technischen Sicherheit, der Funktionsfähigkeit oder der Verfügbarkeit der Informatikmittel anordnen, wenn eine ernsthafte Gefährdung besteht und personenbezogene Auswertungen zur Störungsbehebung unumgänglich sind.
 
-<sup>2</sup> Bei begründetem Verdacht auf Missbrauch von Informatikmitteln können die Departementssekretärinnen und -sekretäre, der Staatsschreiber oder die Staatsschreiberin und der Präsident oder die Präsidentin des Kantonsgerichtes ausnahmsweise einzelne personenbezogene Auswertungen anordnen, welche sich auch auf den Inhalt von E-Mails und auf Internetzugriffe beziehen. Über personenbezogene Auswertungen, welche sich auf den Inhalt von E-Mails und auf Internetzugriffe beziehen, müssen betroffene Personen sowie der oder die Datenschutzbeauftragte vorgängig schriftlich informiert werden.
+<sup>2</sup> Bei begründetem Verdacht auf Missbrauch von Informatikmitteln können die Departementssekretärinnen und -sekretäre, der Staatsschreiber oder die Staatsschreiberin und der Präsident oder die Präsidentin des Kantonsgerichtes ausnahmsweise einzelne personenbezogene Auswertungen anordnen, welche sich auch auf den Inhalt von E-Mails und auf Internetzugriffe beziehen. Über personenbezogene Auswertungen, welche sich auf den Inhalt von E-Mails und auf Internetzugriffe beziehen, müssen betroffene Personen sowie der oder die Beauftragte für den Datenschutz vorgängig schriftlich informiert werden.
 
 <sup>3</sup> Der Leiter oder die Leiterin der Dienststelle Informatik ist für die Durchführung von personenbezogenen Auswertungen zuständig. Die Auswertungen können manuell oder mittels spezieller Software durchgeführt werden.
 
-<sup>4</sup> Dem oder der Datenschutzbeauftragten und den betroffenen Personen ist nachträglich über die durchgeführten Auswertungen Bericht zu erstatten. Den betroffenen Personen sind die sie betreffenden Auswertungsresultate mitzuteilen, ausser wenn eine solche Auswertung im Rahmen eines Ermittlungs- oder Strafverfahrens erfolgt ist und die Strafprozessordnung darauf Anwendung findet.
+<sup>4</sup> Dem oder der Beauftragten für den Datenschutz und den betroffenen Personen ist nachträglich über die durchgeführten Auswertungen Bericht zu erstatten. Den betroffenen Personen sind die sie betreffenden Auswertungsresultate mitzuteilen, ausser wenn eine solche Auswertung im Rahmen eines Ermittlungs- oder Strafverfahrens erfolgt ist und die Strafprozessordnung darauf Anwendung findet.
 
 #### § 32
 
