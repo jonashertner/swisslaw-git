@@ -3,24 +3,23 @@ canton: LU
 number: 26a
 title: Informatikverordnung
 language: de
-version: 2019-01-01
-valid_until: 2021-08-31
-version_adopted: 2018-11-20
+version: 2021-09-01
+version_adopted: 2021-08-23
 adopted: 2016-06-17
 in_force: 2016-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/26a"
-pdf: "https://srl.lu.ch/api/de/versions/3350/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3806/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Informatikverordnung
 
-vom 17.06.2016 (Stand 01.01.2019)
+vom 17.06.2016 (Stand 01.09.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 2 Absatz 2, 17 Absatz 2 und 21 Absatz 1 des Informatikgesetzes vom 7. März 2005[^ingress-1] sowie § 7 Absatz 2 des Datenschutzgesetzes vom 2. Juli 1990[^ingress-2],
+gestützt auf die §§ 2 Absatz 2, 17 Absatz 2 und 21 Absatz 1 des Informatikgesetzes vom 7. März 2005[^ingress-1] sowie § 7 Absatz 2 des Kantonalen Datenschutzgesetzes vom 2. Juli 1990[^ingress-2],
 
 auf Antrag des Finanzdepartementes,
 
