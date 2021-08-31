@@ -4,7 +4,7 @@ number: "171.01"
 title: LOI du 08.05.2007 sur le Grand Conseil (LGC)
 short: LGC
 language: fr
-version: 2021-07-01
+version: 2021-09-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01?id=f2e96e40-e605-4a11-8df5-73896762e321"
 ---
 
@@ -46,9 +46,10 @@ décrète
 
 **Election**
 
-<sup>1</sup> Les élections générales pour le renouvellement du Grand Conseil ont lieu tous les cinq ans, au printemps, conformément à l'article 92 de la Constitution et aux dispositions de la loi sur l'exercice des droits politiques [^3-1] .
+<sup>1</sup> Les élections générales pour le renouvellement du Grand Conseil ont lieu tous les cinq ans, au printemps, conformément à l'article 92 de la Constitution [^3-1] et aux dispositions de la loi sur l'exercice des droits politiques [^3-2] .
 
-[^3-1]: Loi du 16.05.1989 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=44f134d8-94c3-4ae6-8902-ad85c6ff0f81))
+[^3-1]: [Constitution fédérale de la Confédération suisse du 18.04.1999, RS 101](https://www.admin.ch/opc/fr/classified-compilation/19995395/index.html)
+[^3-2]: Loi du 16.05.1989 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=44f134d8-94c3-4ae6-8902-ad85c6ff0f81))
 
 #### Art. 4
 
@@ -82,7 +83,7 @@ décrète
 
 <sup>2</sup> Après le service religieux à la Cathédrale, l'assemblée se lève et le président du Bureau provisoire donne lecture de la formule du serment en ces termes :
 
-"Vous promettez d'être fidèle à la Constitution fédérale et à la Constitution du Canton de Vaud [^7-1] .
+"Vous promettez d'être fidèle à la Constitution fédérale [^7-1] et à la Constitution du Canton de Vaud [^7-2] .
 
 "Vous promettez de maintenir et de défendre, en toute occasion et de tout votre pouvoir, les droits, la liberté et l'indépendance de votre pays ; de procurer et d'avancer son honneur et profit, comme aussi d'éviter ou d'empêcher tout ce qui pourrait lui porter perte ou dommage.
 
@@ -94,7 +95,8 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>4</sup> Dans la formule du serment, les mots "aux principes de la religion" sont supprimés pour le député qui en fait la demande écrite.
 
-[^7-1]: Constitution du Canton de Vaud du 14.04.2003 ([BLV 101.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277))
+[^7-1]: [Constitution fédérale de la Confédération suisse du 18.04.1999, RS 101](https://www.admin.ch/opc/fr/classified-compilation/19995395/index.html)
+[^7-2]: Constitution du Canton de Vaud du 14.04.2003 ([BLV 101.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277))
 
 ## Chapitre III Statut des députés
 
@@ -124,9 +126,17 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>2</sup> Les députés qui ont des intérêts personnels et directs dans un objet traité par le Grand Conseil sont tenus de les signaler quand ils s'expriment à son sujet lors d'une séance du Grand Conseil ou d'une de ses commissions.
 
+#### Art. 9a
+
+**Interdiction d'accepter ou de solliciter des libéralités ou d'autres avantages [^9-1]**
+
+<sup>1</sup> Les membres du Grand Conseil ne doivent ni accepter, ni solliciter, ni se faire promettre des libéralités ou d'autres avantages directement ou indirectement liés à l'exercice de leur fonction, que ce soit pour eux-mêmes ou pour des tiers. Font exception les libéralités ou les avantages usuels et de faible valeur.
+
+[^9-1]: Modif. 19 du 18.05.2021: Introduction Art. 9a; entrée en vigueur au 01.09.2021
+
 #### Art. 10
 
-**Droit à l'information des députés [^9-1]**
+**Droit à l'information des députés [^9a-1]**
 
 <sup>1</sup> Tout député est en droit d'obtenir du Conseil d'Etat les informations utiles à l'exercice de son mandat parlementaire. Il peut également obtenir les renseignements de nature technique directement des collaborateurs de l'administration. En cas de doute, le collaborateur en avise sa hiérarchie qui, si ce dernier n'est pas autorisé à donner les renseignements demandés, désignera la ou les personnes chargées de le faire.
 
@@ -146,7 +156,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>6</sup> Les dispositions particulières relatives au droit à l'information des commissions sont réservées.
 
-[^9-1]: Modif. 7 du 05.04.2011: Modification Al. 1,3-6; entrée en vigueur au 01.07.2011; Introduction Al. 1bis; entrée en vigueur au 01.07.2011
+[^9a-1]: Modif. 7 du 05.04.2011: Modification Al. 1,3-6; entrée en vigueur au 01.07.2011; Introduction Al. 1bis; entrée en vigueur au 01.07.2011
 
 #### Art. 11
 
@@ -190,7 +200,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 <sup>5</sup> Le secret de fonction des commissions d'enquête parlementaires et de leurs membres est régi par l'article 76 de la présente loi.
 
 [^12-1]: Modif. 7 du 05.04.2011: Modification Al. 1,5; entrée en vigueur au 01.07.2011; Introduction Al. 3bis; entrée en vigueur au 01.07.2011
-[^13-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ( [BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
+[^13-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ([BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
 
 #### Art. 14
 
@@ -219,11 +229,12 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>2</sup> Est réputé démissionnaire le député qui refuse de prêter serment dans le délai imparti par le Bureau.
 
-<sup>3</sup> Lorsque, en cours de législature, un député perd la qualité de citoyen actif au sens de l'article 74 de la Constitution , le Grand Conseil constate, après enquête du Conseil d'Etat et sur préavis du Bureau, qu'il ne remplit plus les conditions d'éligibilité.
+<sup>3</sup> Lorsque, en cours de législature, un député perd la qualité de citoyen actif au sens de l'article 74 de la Constitution [^15-1] , le Grand Conseil constate, après enquête du Conseil d'Etat et sur préavis du Bureau, qu'il ne remplit plus les conditions d'éligibilité.
 
-<sup>4</sup> Il y a lieu à élection complémentaire selon la loi sur l'exercice des droits politiques [^15-1] .
+<sup>4</sup> Il y a lieu à élection complémentaire selon la loi sur l'exercice des droits politiques [^15-2] .
 
-[^15-1]: Loi du 16.05.1989 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=44f134d8-94c3-4ae6-8902-ad85c6ff0f81))
+[^15-1]: [Constitution fédérale de la Confédération suisse du 18.04.1999, RS 101](https://www.admin.ch/opc/fr/classified-compilation/19995395/index.html)
+[^15-2]: Loi du 16.05.1989 sur l'exercice des droits politiques ([BLV 160.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/160.01?id=44f134d8-94c3-4ae6-8902-ad85c6ff0f81))
 
 ### Section II Indemnisation
 
@@ -249,7 +260,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>2</sup> Dans la mesure où tout ou partie des indemnités des députés sont assujetties aux assurances sociales, l'Etat acquitte la totalité des cotisations.
 
-[^17-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ( [BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
+[^17-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ([BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
 
 #### Art. 18
 
@@ -264,7 +275,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 <sup>4</sup> Les indemnités des séances plénières sont dues aux députés lors d'absence pour maternité, paternité, ou adoption, pour une durée et aux conditions égales aux congés offerts au personnel de l'Etat de Vaud soumis à la loi sur le personnel.
 
 [^17-2]: Modif. 18 du 20.04.2021: Introduction Al. 4; entrée en vigueur au 01.07.2021
-[^18-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ( [BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
+[^18-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ([BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
 
 #### Art. 19
 
@@ -315,7 +326,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>7</sup> Si la vacance survient après le 31 décembre, l'un des vice-présidents exerce la charge présidentielle, jusqu'au terme du mandat. Il est alors immédiatement éligible à la présidence.
 
-[^22-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ( [BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
+[^22-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ([BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
 
 #### Art. 23
 
@@ -335,7 +346,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 [^22-2]: Modif. 3 du 19.05.2009: Introduction Al. 4bis; entrée en vigueur au 01.01.2011 · Modif. 21 du 21.12.2022: Introduction Al. 3bis; entrée en vigueur au 01.04.2023
 [^23-1]: Loi du 19.05.2009 d'introduction du Code de procédure pénale suisse ( [BLV 312.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/312.01?id=2d30c3c5-8940-44d6-b00e-f0b57ff7f499))
-[^23-2]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ( [BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
+[^23-2]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ([BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
 
 #### Art. 24
 
@@ -485,7 +496,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>2</sup> La procédure budgétaire décidée par le Conseil d'Etat s'applique sous réserve de la présente loi.
 
-<sup>3</sup> Suivant les instructions du Bureau, le Secrétariat général élabore un projet de budget, qui est transmis au Département des finances , pour préavis technique, puis au Bureau.
+<sup>3</sup> Suivant les instructions du Bureau, le Secrétariat général élabore un projet de budget, qui est transmis au Département des finances[^35-1] , pour préavis technique, puis au Bureau.
 
 <sup>4</sup> Le Bureau présente le projet de budget de fonctionnement du Grand Conseil à ce dernier. Le Conseil d'Etat en est informé.
 
@@ -496,10 +507,11 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 <sup>7</sup> Sur proposition du secrétaire général et après consultation du Conseil d'Etat, le Bureau fixe l'effectif du personnel et les moyens à disposition du Secrétariat général pour accomplir ses missions. Il propose le budget correspondant au Grand Conseil.
 
 [^sectionSectionVI-1]: Modif. 7 du 05.04.2011: Modification Al. 7; entrée en vigueur au 01.07.2011
+[^35-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 36
 
-**Crédits supplémentaires au budget du Grand Conseil [^35-1]**
+**Crédits supplémentaires au budget du Grand Conseil [^35-2]**
 
 <sup>1</sup> Les dispositions de la loi sur les finances [^36-1] relatives aux crédits supplémentaires s'appliquent à ceux relatifs au budget du Grand Conseil, sous réserve des alinéas 2 et 3 ci-dessous.
 
@@ -507,10 +519,11 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>3</sup> Lorsque le crédit supplémentaire est compensé, il est octroyé par le Bureau si le montant est inférieur ou égal à un million de francs et par la Commission des finances au-delà.
 
-<sup>4</sup> Lorsque le crédit supplémentaire n'est pas compensé, il est octroyé par la Commission des finances sur proposition du Bureau du Grand Conseil. La Commission des finances est nantie du préavis du Département des finances .
+<sup>4</sup> Lorsque le crédit supplémentaire n'est pas compensé, il est octroyé par la Commission des finances sur proposition du Bureau du Grand Conseil. La Commission des finances est nantie du préavis du Département des finances[^36-2] .
 
-[^35-1]: Modif. 23 du 19.11.2024: Modification Al. 1; entrée en vigueur au 01.03.2025; Introduction Al. 5; entrée en vigueur au 01.03.2025
+[^35-2]: Modif. 23 du 19.11.2024: Modification Al. 1; entrée en vigueur au 01.03.2025; Introduction Al. 5; entrée en vigueur au 01.03.2025
 [^36-1]: Loi du 20.09.2005 sur les finances ([BLV 610.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/610.11?id=dd5e9f93-2be9-407c-85ec-e667ab4a151e))
+[^36-2]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 ## Chapitre V Commissions
 
@@ -572,7 +585,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>2</sup> Le règlement [^41-1] fixe les conditions de remplacement au sein des commissions.
 
-[^41-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ( [BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
+[^41-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ([BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
 
 #### Art. 42
 
@@ -838,7 +851,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 [^sectionSectionIII-1]: Modif. 9 du 29.05.2012: Modification Al. 2; entrée en vigueur au 01.07.2012
 [^59-1]: Décret du 29.05.2012 arrêtant la liste des commissions thématiques pour la législature 2012-2017 ([BLV 171.013](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.013?id=4e087f74-f568-4015-90ce-85a1706ccaba))
-[^59-2]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ( [BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
+[^59-2]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ([BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
 
 ### Section IV Commission thématique en charge des affaires extérieures
 
@@ -850,14 +863,16 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>2</sup> Elle préavise en particulier :
 
-- a. en matière d'exercice par le canton des droits réservés par les articles 141 et 160 de la Constitution fédérale ;
+- a. en matière d'exercice par le canton des droits réservés par les articles 141 et 160 de la Constitution fédérale [^60-1] ;
 - b. sur le rapport annuel du Conseil d'Etat sur la politique extérieure du canton.
 
 <sup>3</sup> Elle peut être consultée par le Conseil d'Etat ou l'un de ses membres sur tout objet relatif aux relations extérieures du canton.
 
+[^60-1]: [Constitution fédérale de la Confédération suisse du 18.04.1999, RS 101](https://www.admin.ch/opc/fr/classified-compilation/19995395/index.html)
+
 #### Art. 61
 
-**Conclusion de traités et concordats [^60-1]**
+**Conclusion de traités et concordats [^60-2]**
 
 <sup>1</sup> Avant de conclure ou d'amender un traité avec l'étranger ou une convention intercantonale auquel sont associés plusieurs cantons, et dont l'approbation ou la modification est soumise au référendum obligatoire ou facultatif, le Conseil d'Etat soumet à temps et de manière complète le résultat des négociations au Bureau du Grand Conseil, qui saisit la commission thématique en charge des affaires extérieures.
 
@@ -869,7 +884,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>5</sup> La Convention relative à la participation des Parlements cantonaux dans le cadre de l'élaboration, de la ratification, de l'exécution et de la modification des conventions intercantonales et des traités des cantons avec l'étranger est réservée.
 
-[^60-1]: Modif. 5 du 21.09.2010: Modification Al. 5; entrée en vigueur au 01.12.2010
+[^60-2]: Modif. 5 du 21.09.2010: Modification Al. 5; entrée en vigueur au 01.12.2010
 
 #### Art. 62
 
@@ -1158,13 +1173,15 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 **Sanctions**
 
-<sup>1</sup> Celui qui, étant témoin, aura fait une déposition fausse ou, étant expert, aura fait un constat ou un rapport faux devant la commission d'enquête, sera puni conformément à l'article 307 du Code pénal suisse .
+<sup>1</sup> Celui qui, étant témoin, aura fait une déposition fausse ou, étant expert, aura fait un constat ou un rapport faux devant la commission d'enquête, sera puni conformément à l'article 307 du Code pénal suisse [^75-1] .
 
 <sup>2</sup> Celui qui, sans motif légal, refuse de faire une déclaration ou de remettre des documents encourra les sanctions prévues à l'article 292 du Code pénal suisse.
 
+[^75-1]: [Code pénal suisse du 21.12.1937, RS 311.0](https://www.admin.ch/opc/fr/classified-compilation/19370083/index.html)
+
 #### Art. 76
 
-**Secret de fonction [^75-1]**
+**Secret de fonction [^75-2]**
 
 <sup>1</sup> L'article 12, alinéa 3 de la présente loi est applicable à la commission d'enquête et à ses membres.
 
@@ -1172,7 +1189,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>3</sup> Les personnes participant à l'enquête sont soumises au même secret de fonction que les membres de la commission.
 
-[^75-1]: Modif. 7 du 05.04.2011: Modification Al. 1-3; entrée en vigueur au 01.07.2011
+[^75-2]: Modif. 7 du 05.04.2011: Modification Al. 1-3; entrée en vigueur au 01.07.2011
 
 #### Art. 77
 
@@ -1548,7 +1565,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>4</sup> Le règlement [^112-1] fixe les modalités pratiques.
 
-[^112-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ( [BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
+[^112-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ([BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
 
 ### Section III Simple question
 
@@ -1842,7 +1859,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 **Participation du Conseil d'Etat**
 
-<sup>1</sup> Le Conseil d'Etat a, dans ses relations avec le Grand Conseil, les droits et les devoirs résultant de la Constitution et de la présente loi.
+<sup>1</sup> Le Conseil d'Etat a, dans ses relations avec le Grand Conseil, les droits et les devoirs résultant de la Constitution [^137-1] et de la présente loi.
 
 <sup>2</sup> Le Conseil d'Etat doit être représenté lorsque le Grand Conseil siège. Ses membres sont présents lors de la discussion de la gestion, du budget et des comptes de leur département.
 
@@ -1851,6 +1868,8 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 <sup>4</sup> Il a le droit de retirer jusqu'au vote définitif un projet ou un contre-projet présenté par lui. Il a aussi le droit de proposer des amendements et sous-amendements en séance plénière.
 
 <sup>5</sup> Sous réserve de l'article 84, alinéa 2 de la présente loi, l'ordre du jour du Grand Conseil n'est pas modifié suite à l'absence de l'un ou l'autre des membres du Conseil d'Etat.
+
+[^137-1]: Constitution du Canton de Vaud du 14.04.2003 ([BLV 101.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277))
 
 #### Art. 138
 
@@ -2183,7 +2202,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>2</sup> Les articles 92 et suivants sont applicables par analogie.
 
-[^165-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ( [BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
+[^165-1]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ([BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
 
 #### Art. 166
 
