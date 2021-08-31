@@ -4,13 +4,12 @@ number: "40"
 title: Gesetz über die Verwaltungsrechtspflege
 short: VRG
 language: de
-version: 2019-01-01
-valid_until: 2021-08-31
-version_adopted: 2018-09-10
+version: 2021-09-01
+version_adopted: 2021-05-10
 adopted: 1972-07-03
 in_force: 1973-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/40"
-pdf: "https://srl.lu.ch/api/de/versions/3316/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3793/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3316/pdf_file"
 
 (VRG)
 
-vom 03.07.1972 (Stand 01.01.2019)
+vom 03.07.1972 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -1465,6 +1464,12 @@ beschliesst:
 **14. Aktenheft**
 
 <sup>1</sup> Die Behörde legt für jedes Rechtsmittelverfahren ein Aktenheft an, in das alle Rechtsschriften, Protokolle, Beweisurkunden und andere Akten zu legen sind.
+
+#### § 141a
+
+**15. Veröffentlichung und Zugang zu Rechtsmittelentscheiden**
+
+<sup>1</sup> Bei der Veröffentlichung von Rechtsmittelentscheiden und der Gewährung des Zugangs zu Rechtsmittelentscheiden ist dem Persönlichkeits- und Datenschutz insbesondere durch Unkenntlichmachen der Namen der Parteien Rechnung zu tragen.
 
 ### 3.2 Verwaltungsbeschwerde
 
