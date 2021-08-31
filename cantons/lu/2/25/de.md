@@ -4,13 +4,12 @@ number: "25"
 title: Gesetz über die Harmonisierung amtlicher Register
 short: Registergesetz
 language: de
-version: 2013-01-01
-valid_until: 2021-08-31
-version_adopted: 2012-09-10
+version: 2021-09-01
+version_adopted: 2021-05-10
 adopted: 2009-05-25
 in_force: 2009-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/25"
-pdf: "https://srl.lu.ch/api/de/versions/2553/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3788/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2553/pdf_file"
 
 (Registergesetz)
 
-vom 25.05.2009 (Stand 01.01.2013)
+vom 25.05.2009 (Stand 01.09.2021)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -222,9 +221,7 @@ beschliesst:
 
 **Auskunfts- und Einsichtsrecht**
 
-<sup>1</sup> Das Recht, Auskunft über die Personendaten der Register gemäss den §§ 8–11 zu verlangen und in sie Einsicht zu nehmen, richtet sich nach dem Datenschutzgesetz vom
-
-\2. Juli 1990[^18-1].
+<sup>1</sup> Das Recht, Auskunft über die Personendaten der Register gemäss den §§ 8–11 zu verlangen und in sie Einsicht zu nehmen, richtet sich nach dem Kantonalen Gesetz über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^18-1].
 
 [^18-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
 
@@ -232,7 +229,7 @@ beschliesst:
 
 **Sperrvermerke**
 
-<sup>1</sup> Sperrvermerke im Einwohnerregister der Gemeinde gemäss § 11 Absatz 4 des Datenschutzgesetzes werden auch in die kantonale Einwohnerplattform übernommen.
+<sup>1</sup> Sperrvermerke im Einwohnerregister der Gemeinde gemäss § 11 Absatz 4 des Kantonalen Datenschutzgesetzes werden auch in die kantonale Einwohnerplattform übernommen.
 
 #### § 20
 
