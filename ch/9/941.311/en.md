@@ -4,11 +4,11 @@ title: "Ordinance of 8 May 1934 on the Control of Trade in Precious Metals and A
 short: PMCO
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: en
-version: 2020-01-01
+version: 2021-09-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/en/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/en/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20210901-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20210901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20200101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(Precious Metals Control Ordinance, PMCO)**[^t-1]**
+(Precious Metals Control Ordinance, PMCO)[^t-1]
 
-of 8 May 1934 (Status as of 1 January 2020)
+of 8 May 1934 (Status as of 1 September 2021)
 
 [^t-1]: Amended by No I of the O of 17 Feb. 1993, in force since 1 April 1993 ([AS 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -443,7 +443,7 @@ The Central Office is responsible for all business matters involved in supervisi
 [^34-1]: Fourth sentence repealed by No IV 82 of the O of 22 Aug. 2007 on the formal adjustment of federal law, with effect from 1 Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^34-2]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-## Section 2**** Definitions of Provisions on Article Categories and Fineness****
+## Section 2 Definitions of Provisions on Article Categories and Fineness
 
 [^chap2-1][^chap2-2]
 
@@ -551,7 +551,7 @@ The Central Office issues the required provisions on:
 - a. the permissible surface coatings for precious metal articles, multi-metal articles and plated articles;
 - b. the colour combinations of metal alloys in the case of mixed articles and multi-metal articles.
 
-## Section 3**** Fineness Marks, Other Marks and Stamps
+## Section 3 Fineness Marks, Other Marks and Stamps
 
 [^chap3-1]
 
@@ -693,7 +693,7 @@ Tableware and cutlery may be marked with the silver content. The Central Office 
 
 *Repealed*
 
-## Section 4**** Responsibility Mark
+## Section 4 Responsibility Mark
 
 [^chap4-1]
 
@@ -1398,18 +1398,19 @@ This provision has effect subject to the following state treaties:
 - a. Convention of 15 November 1972[^126-2] on the Control and Marking of Articles of Precious Metals;
 - b. Agreement of 14 February 1972[^126-3] between the Swiss Confederation and the Republic of Austria on the reciprocal recognition of official hallmarks on watch-cases of precious metals;
 - c. Exchange of Letters of 30 October 1935[^126-4] between Switzerland and Spain on the hallmarking of precious metals;
-- d. Agreement of 2 June 1987[^126-5] between the Swiss Federal Council and the Government of the Republic of France on the reciprocal recognition of official hallmarks on precious metal articles;
-- e. Agreement of 15 January 1970[^126-6] between the Swiss Confederation and the Republic of Italy on the reciprocal recognition of stamps on precious metal articles;
-- f.[^126-7] Agreement of 14 December 2011[^126-8] between the Swiss Federal Council and the Government of the Russian Federation on the reciprocal recognition of official hallmarks on watch industry products made of precious metals.
+- d.[^126-5] Agreement of 19 June 2018[^126-6] between the Swiss Federal Council and the Government of the Republic of France on the reciprocal recognition of official hallmarks on precious metal and multi-metal articles;
+- d. Agreement of 15 January 1970[^126-7] between the Swiss Confederation and the Republic of Italy on the reciprocal recognition of stamps on precious metal articles;
+- f.[^126-8] Agreement of 14 December 2011[^126-9] between the Swiss Federal Council and the Government of the Russian Federation on the reciprocal recognition of official hallmarks on watch industry products made of precious metals.
 
 [^126-1]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^126-2]: [SR 0.941.31](https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013)
 [^126-3]: [SR 0.941.316.3](https://fedlex.data.admin.ch/eli/cc/1973/576_578_577)
 [^126-4]: [SR 0.941.333.2](https://fedlex.data.admin.ch/eli/cc/1989/251_251_251)
-[^126-5]: [SR 0.941.334.91](https://fedlex.data.admin.ch/eli/cc/2021/473)
-[^126-6]: [SR 0.941.345.4](https://fedlex.data.admin.ch/eli/cc/1974/752_753_753)
-[^126-7]: Inserted by No I of the O of 2 Nov. 2011, in force since 2 Aug. 2013 ([AS 2013 2345](https://fedlex.data.admin.ch/eli/oc/2013/494)).
-[^126-8]: [SR 0.941.366.5](https://fedlex.data.admin.ch/eli/cc/2013/499)
+[^126-5]: Amended by No I of the O of 18 April 2018, in force since 1 Sept. 2021 ([AS 2021 472](https://fedlex.data.admin.ch/eli/oc/2021/472)).
+[^126-6]: [SR 0.941.334.91](https://fedlex.data.admin.ch/eli/cc/2021/473)
+[^126-7]: [SR 0.941.345.4](https://fedlex.data.admin.ch/eli/cc/1974/752_753_753)
+[^126-8]: Inserted by No I of the O of 2 Nov. 2011, in force since 2 Aug. 2013 ([AS 2013 2345](https://fedlex.data.admin.ch/eli/oc/2013/494)).
+[^126-9]: [SR 0.941.366.5](https://fedlex.data.admin.ch/eli/cc/2013/499)
 
 #### Art. 127
 
@@ -2063,7 +2064,7 @@ Banking precious metals are:
 
 [^184185-1]: Repealed by No I of the O of 19 June 1995, with effect from 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-## Section 11 Fees****
+## Section 11 Fees
 
 [^chap11-1]
 
@@ -2147,7 +2148,7 @@ Federal Council Decree of 13 March 1916[^190-15] on the Trade in Gold, Silver an
 [^190-14]: [AS **9** 291, **37** 19]
 [^190-15]: [AS **32** 85]
 
-## Final Provision of 19 June 1995****
+## Final Provision of 19 June 1995
 
 [^u1-1]
 
@@ -2155,11 +2156,11 @@ Federal Council Decree of 13 March 1916[^190-15] on the Trade in Gold, Silver an
 
 Precious metal articles that satisfy the new conditions but are still stamped with the old official hallmark may continue to be placed on the market.
 
-Annex I*[^t-2]*
+Annex I[^t-2]
 
 [^t-2]: Repealed by Art. 22 of the O of 4 Nov. 1981 on Fees for Precious Metal Controls, with effect from 1 Jan. 1982 ([AS 1981 1806](https://fedlex.data.admin.ch/eli/oc/1981/1806_1806_1806)).
 
-Annex II*[^t-3]*
+Annex II[^t-3]
 
 ## Official hallmarks, Assay Offices mark, distinctive symbols of the Assay Offices, Assayer’s Mark of the Assay Offices
 
@@ -2177,9 +2178,9 @@ Number 1
 (Art. 109 para. 1)
 
 <table>
-<tr><td>Large hallmark: [tab] Dimensions: [tab] Height: 1.6 mm Width: 2 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/en/xml/image/image1.png)</td></tr>
+<tr><td>Large hallmark: [tab] Dimensions: [tab] Height: 1.6 mm Width: 2 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/en/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">Small hallmark:</td><td></td></tr>
-<tr><td>[tab] Dimensions: [tab] Height: 0.8 mm Width: 1 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/en/xml/image/image2.png)</td></tr>
+<tr><td>[tab] Dimensions: [tab] Height: 0.8 mm Width: 1 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/en/xml/image/image2.png)</td></tr>
 </table>
 
 Note:
@@ -2193,7 +2194,7 @@ Number 2
 (Art. 58 para. 3)
 
 <table>
-<tr><td>Dimensions: Side length: 0.8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/en/xml/image/image3.png)</td></tr>
+<tr><td>Dimensions: Side length: 0.8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/en/xml/image/image3.png)</td></tr>
 </table>
 
 Note:
@@ -2240,8 +2241,8 @@ Examples:
 
 Federal Assay Offices:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/en/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/en/xml/image/image4.png)
 
 Cantonal Assay Offices:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/en/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/en/xml/image/image5.png)

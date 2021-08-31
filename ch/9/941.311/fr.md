@@ -4,20 +4,20 @@ title: "Ordonnance du 8 mai 1934 sur le contrôle du commerce des métaux préci
 short: OCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: fr
-version: 2020-01-01
+version: 2021-09-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20210901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20210901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le contrôle du commerce des métaux précieux et des ouvrages en métaux précieux
 
-(Ordonnance sur le contrôle des métaux précieux, OCMP)**[^t-1]**
+(Ordonnance sur le contrôle des métaux précieux, OCMP)[^t-1]
 
-du 8 mai 1934 (Etat le 1<sup>er</sup> janvier 2020)
+du 8 mai 1934 (Etat le 1<sup>er</sup> septembre 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 1993, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -352,9 +352,9 @@ Le bureau central règle toutes les affaires qui découlent de la surveillance d
 
 <sup>1</sup> Les essayeurs du commerce ont le droit de déterminer, pour le compte de tiers, le titre des matières pour la fonte et des produits de la fonte.[^28-1]
 
-<sup>2</sup> Ils ne sont pas autorisés à contrôler et à poinçonner officiellement des ouvrages en métaux précieux. [^28-2]
+<sup>2</sup> Ils ne sont pas autorisés à contrôler et à poinçonner officiellement des ouvrages en métaux précieux.[^28-2]
 
-<sup>3</sup> L’acquisition d’une patente de fondeur est régie par les prescriptions des art. 165 à 165*c*. [^28-3]
+<sup>3</sup> L’acquisition d’une patente de fondeur est régie par les prescriptions des art. 165 à 165*c*.[^28-3]
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^28-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
@@ -433,7 +433,7 @@ Le bureau central règle toutes les affaires qui découlent de la surveillance d
 [^34-1]: Phrase abrogée par le ch. IV 82 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^34-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-## Chapitre II**** Dispositions sur les catégories d’ouvrages et le titre
+## Chapitre II Dispositions sur les catégories d’ouvrages et le titre
 
 [^chap2-1]
 
@@ -540,7 +540,7 @@ Le bureau central émet les prescriptions nécessaires concernant:
 - a. les perfectionnements de surface admis pour les ouvrages en métaux précieux, les ouvrages multimétaux et les ouvrages plaqués;
 - b. les combinaisons de couleurs des alliages métalliques utilisés dans les ouvrages mixtes et les ouvrages multimétaux.
 
-## Chapitre III**** Indication du titre, désignations et mentions
+## Chapitre III Indication du titre, désignations et mentions
 
 [^chap3-1]
 
@@ -619,7 +619,7 @@ Les ouvrages plaqués peuvent être marqués de la façon suivante:
   avec le mot «plaqué» accompagné de la mention du procédé de fabrication désigné par l’une des lettres suivantes:
 
   - 1\. «L» pour le plaqué laminé,
-  - 2\. «G» pour le plaqué galvanique; et
+  - 2\. «G» pour le plaqué galvanique, et
 
 - b. avec un poinçon de maître.
 
@@ -639,7 +639,7 @@ Les boîtes de montre plaquées or et leurs parties complémentaires peuvent aus
   - 2\. «GP» pour tous les autres types de plaqué,
   - 3\. «GC» pour les «coiffes or»;
 
-- b. avec les chiffres indiquant l’épaisseur du revêtement en micromètres; et
+- b. avec les chiffres indiquant l’épaisseur du revêtement en micromètres, et
 - c. avec un poinçon de maître.
 
 <sup>5</sup> Le bureau central émet des prescriptions concernant l’admission d’autres désignations, dont celle des ouvrages partiellement plaqués.
@@ -682,7 +682,7 @@ L’indication de la quantité d’argent déposée est admise pour les ustensil
 
 Abrogés
 
-## Chapitre IV**** Poinçon du maître
+## Chapitre IV Poinçon du maître
 
 [^chap4-1]
 
@@ -915,7 +915,7 @@ Le registre contient les indications suivantes:
 
 #### Art. 76 à 80
 
-Abrogés
+*Abrogés*
 
 ## Chapitre V Contrôle et poinçonnement officiel
 
@@ -941,7 +941,7 @@ Abrogés
 
 <sup>3</sup> Le contrôle doit être requis par le fabricant de boîtes de montre au bureau de contrôle de son arrondissement, conformément à l’art. 13, al. 1, de la loi.
 
-<sup>4</sup> Il peut être fait abstraction du poinçonnement officiel pour les boîtes de montre à l’état brut ou fini qui sont expédiées à destination d’Etats où le contrôle des boîtes est obligatoire. Demeurent réservées les dispositions de l’art. 138. Le bureau central établit, d’après les dispositions légales étrangères, les cas où la condition précitée est remplie et les porte à la connaissance des intéressés par des instructions appropriées, qui sont complétées périodiquement. Ces instructions sont communiquées aux bureaux de douane qui sont compétents pour effectuer les vérifications à la sortie.
+<sup>4</sup> Il peut être fait abstraction du poinçonnement officiel pour les boîtes de montre à l’état brut ou fini qui sont expédiées à destination d’États où le contrôle des boîtes est obligatoire. Demeurent réservées les dispositions de l’art. 138. Le bureau central établit, d’après les dispositions légales étrangères, les cas où la condition précitée est remplie et les porte à la connaissance des intéressés par des instructions appropriées, qui sont complétées périodiquement. Ces instructions sont communiquées aux bureaux de douane qui sont compétents pour effectuer les vérifications à la sortie.
 
 [^82-1]: Nouvelle teneur de la phrase selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^82-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
@@ -1185,7 +1185,7 @@ Pour l’essai analytique des ouvrages, la matière nécessaire est prélevée e
 
 <sup>2</sup> Si la contestation est fondée et qu’on se trouve en présence d’une fraude au sens de l’art. 47 de la loi, la marchandise est séquestrée et une plainte pénale est déposée.
 
-<sup>3</sup> Si la contestation est fondée, sans qu’on puisse admettre la fraude, le bureau central inflige une amende d’ordre au requérant et l’invite à munir les ouvrages d’un poinçon de maître réglementaire. A cet effet, on rend au requérant les ouvrages non poinçonnés.
+<sup>3</sup> Si la contestation est fondée, sans qu’on puisse admettre la fraude, le bureau central inflige une amende d’ordre au requérant et l’invite à munir les ouvrages d’un poinçon de maître réglementaire. À cet effet, on rend au requérant les ouvrages non poinçonnés.
 
 ### 5. Frais
 
@@ -1344,7 +1344,7 @@ Après le poinçonnement, le bureau de contrôle restitue les ouvrages au requé
 
 <sup>1</sup> Lorsque le finissage ou le polissage d’un ouvrage entraîne l’enlèvement ou la détérioration de poinçons, un nouveau poinçonnement doit être demandé auprès du bureau de contrôle qui a procédé au premier poinçonnement.
 
-<sup>2</sup> S’il est prouvé que les pièces à poinçonner de nouveau ont déjà été poinçonnées, on procède au poinçonnement sans les essayer à nouveau. A défaut de cette preuve, un nouvel essai doit être fait.
+<sup>2</sup> S’il est prouvé que les pièces à poinçonner de nouveau ont déjà été poinçonnées, on procède au poinçonnement sans les essayer à nouveau. À défaut de cette preuve, un nouvel essai doit être fait.
 
 <sup>3</sup> Les prescriptions des art. 84 à 120 sont applicables par analogie.
 
@@ -1384,21 +1384,22 @@ Le bureau de contrôle conserve pendant 5 ans tous les documents relatifs au con
 
 Demeurent réservés les accords internationaux suivants:
 
-- a. convention du 15 novembre 1972[^126-2] sur le contrôle et le poinçonnement des ouvrages en métaux précieux;
-- b. convention du 14 février 1972[^126-3] entre la Confédération suisse et la République d’Autriche sur la reconnaissance réciproque des poinçons officiels apposés sur les boîtes de montres en métaux précieux;
-- c. échange de lettres du 30 octobre 1935[^126-4] entre la Suisse et l’Espagne concernant le poinçonnement des métaux précieux;
-- d. convention du 2 juin 1987[^126-5] entre le Conseil fédéral suisse et le Gouvernement de la République française relative à la reconnaissance réciproque des poinçons officiels apposés sur les ouvrages en métaux précieux;
-- e. convention du 15 janvier 1970[^126-6] entre la Confédération suisse et la République italienne relative à la reconnaissance réciproque des poinçons apposés sur les ouvrages en métaux précieux;
-- f.[^126-7] Convention du 14 décembre 2011 entre le Conseil fédéral suisse et le Gouvernement de la Fédération de Russie relative à la reconnaissance réciproque des poinçons officiels apposés sur les ouvrages en métaux précieux de l’industrie horlogère[^126-8].
+- a. Convention du 15 novembre 1972[^126-2] sur le contrôle et le poinçonnement des ouvrages en métaux précieux;
+- b. Convention du 14 février 1972[^126-3] entre la Confédération suisse et la République d’Autriche sur la reconnaissance réciproque des poinçons officiels apposés sur les boîtes de montres en métaux précieux;
+- c. Échange de lettres du 30 octobre 1935[^126-4] entre la Suisse et l’Espagne concernant le poinçonnement des métaux précieux;
+- d.[^126-5] Convention du 19 juin 2018[^126-6] entre le Conseil fédéral suisse et le Gouvernement de la République française relative à la reconnaissance réciproque des poinçons officiels apposés sur les ouvrages en métaux précieux et les ouvrages multimétaux;
+- e. Convention du 15 janvier 1970[^126-7] entre la Confédération suisse et la République italienne relative à la reconnaissance réciproque des poinçons apposés sur les ouvrages en métaux précieux;
+- f.[^126-8] Convention du 14 décembre 2011 entre le Conseil fédéral suisse et le Gouvernement de la Fédération de Russie relative à la reconnaissance réciproque des poinçons officiels apposés sur les ouvrages en métaux précieux de l’industrie horlogère[^126-9].
 
 [^126-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^126-2]: [RS 0.941.31](https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013)
 [^126-3]: [RS 0.941.316.3](https://fedlex.data.admin.ch/eli/cc/1973/576_578_577)
 [^126-4]: [RS 0.941.333.2](https://fedlex.data.admin.ch/eli/cc/1989/251_251_251)
-[^126-5]: [RS 0.941.334.91](https://fedlex.data.admin.ch/eli/cc/2021/473)
-[^126-6]: [RS 0.941.345.4](https://fedlex.data.admin.ch/eli/cc/1974/752_753_753)
-[^126-7]: Introduite par le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 2 août 2013 ([RO 2013 2345](https://fedlex.data.admin.ch/eli/oc/2013/494)).
-[^126-8]: [RS 0.941.366.5](https://fedlex.data.admin.ch/eli/cc/2013/499)
+[^126-5]: Nouvelle teneur selon le ch. I de l’O du 18 avr. 2018, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 472](https://fedlex.data.admin.ch/eli/oc/2021/472)).
+[^126-6]: [RS 0.941.334.91](https://fedlex.data.admin.ch/eli/cc/2021/473)
+[^126-7]: [RS 0.941.345.4](https://fedlex.data.admin.ch/eli/cc/1974/752_753_753)
+[^126-8]: Introduite par le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 2 août 2013 ([RO 2013 2345](https://fedlex.data.admin.ch/eli/oc/2013/494)).
+[^126-9]: [RS 0.941.366.5](https://fedlex.data.admin.ch/eli/cc/2013/499)
 
 #### Art. 127
 
@@ -1423,7 +1424,7 @@ Même s’ils ne sont pas conformes aux dispositions de la loi, les ouvrages sui
 - g. les cadeaux d’ancienneté envoyés par des entreprises à leurs collaborateurs.
 
 [^128-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
-[^128-2]: Nouvelle teneur selon le ch. 62 de l’annexe 4 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^128-2]: Nouvelle teneur selon l’annexe 4 ch. 62 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### 3. Procédure
 
@@ -1505,7 +1506,7 @@ Les échantillons de marchandises importés temporairement au sens de l’art. 2
 
 La Direction générale des douanes décide par quels bureaux de douane les ouvrages soumis à la loi peuvent être exportés.
 
-[^136-1]: Nouvelle teneur selon le ch. 62 de l’annexe 4 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^136-1]: Nouvelle teneur selon l’annexe 4 ch. 62 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### b. Déclaration d’exportation
 
@@ -1552,7 +1553,7 @@ L’art. 131 est applicable au contrôle à l’exportation des ouvrages soumis 
 <sup>3</sup> Pour déterminer si ces conditions sont remplies, les art. 129 à 132 seront appliqués par analogie.
 
 [^140-1]: Abrogé par le ch. I de l’O du 17 fév. 1993, avec effet au 1<sup>er</sup> avr. 1995 ([RO 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
-[^140-2]: Nouvelle teneur selon le ch. 62 de l’annexe 4 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^140-2]: Nouvelle teneur selon l’annexe 4 ch. 62 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### 2. Traitement des ouvrages entreposés
 
@@ -1562,7 +1563,7 @@ L’art. 131 est applicable au contrôle à l’exportation des ouvrages soumis 
 
 <sup>2</sup> Les dispositions des art. 129 à 132 sont applicables par analogie.
 
-[^141-1]: Nouvelle teneur selon le ch. 62 de l’annexe 4 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^141-1]: Nouvelle teneur selon l’annexe 4 ch. 62 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## Chapitre VII …
 
@@ -1662,7 +1663,7 @@ Les demandes émanant de particuliers doivent être accompagnées:
 
 - a. d’une attestation de domicile délivrée par l’autorité communale;
 - b. d’un extrait de l’inscription au registre suisse du commerce;
-- c. d’un extrait du casier judiciaire suisse; et
+- c. d’un extrait du casier judiciaire suisse, et
 - d. d’une attestation des autorités communales ou cantonales compétentes certifiant la conformité des installations techniques et des locaux servant à la fonte des métaux précieux aux exigences en matière de protection de l’environnement et de lutte contre l’incendie.
 
 <sup>2</sup>
@@ -1670,7 +1671,7 @@ Les demandes émanant de particuliers doivent être accompagnées:
 Les demandes émanant de sociétés commerciales ou coopératives, ainsi que de sociétés étrangères doivent être accompagnées:
 
 - a. d’un extrait de l’inscription au registre suisse du commerce;
-- b. d’un extrait du casier judiciaire suisse des dirigeants et des personnes appelées à traiter des opérations commerciales relatives aux matières pour la fonte et aux produits de la fonte; et
+- b. d’un extrait du casier judiciaire suisse des dirigeants et des personnes appelées à traiter des opérations commerciales relatives aux matières pour la fonte et aux produits de la fonte, et
 - c. d’une attestation des autorités communales ou cantonales compétentes certifiant la conformité des installations techniques et des locaux servant à la fonte des métaux précieux aux exigences en matière de protection de l’environnement et de lutte contre l’incendie.
 
 [^165b-1]: Introduit par le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
@@ -1729,7 +1730,7 @@ Lors de la publication de l’octroi et du retrait de la patente de fondeur dans
 
 [^167-1]: Abrogé par le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### IV. Exercice de la profession patentée.
+### III. Exercice de la profession patentée.
 
 ### 1. Obligations du titulaire
 
@@ -1776,7 +1777,7 @@ Lors de la publication de l’octroi et du retrait de la patente de fondeur dans
 
 [^168b-1]: Introduit par le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### V. Comptabilité
+### IV. Comptabilité
 
 #### Art. 168c
 
@@ -1793,7 +1794,7 @@ Doivent apparaître dans la comptabilité au moins:
 - c. la date de réception de la marchandise;
 - d. la description précise et, le cas échéant, la composition de la marchandise ainsi que, pour les produits de la fonte, leur désignation;
 - e. le poids de la marchandise lors de la réception;
-- f. le poids de la marchandise après la fonte; et
+- f. le poids de la marchandise après la fonte, et
 - g. la liquidation de la transaction.
 
 <sup>3</sup> Les dispositions de l’art. 33 sont également applicables aux essayeurs du commerce qui sont titulaires de la patente de fondeur.
@@ -1803,7 +1804,7 @@ Doivent apparaître dans la comptabilité au moins:
 [^168c-1]: Introduit par le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 [^168c-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### VI. Surveillance
+### V. Surveillance
 
 #### Art. 168d
 
@@ -1817,7 +1818,7 @@ Doivent apparaître dans la comptabilité au moins:
 
 [^168d-1]: Introduit par le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### VII. Poinçon de fondeur
+### VI. Poinçon de fondeur
 
 [^chap8-lvlVI-1]
 
@@ -1841,7 +1842,7 @@ Doivent apparaître dans la comptabilité au moins:
 
 [^170-1]: Abrogé par le ch. I de l’O du 19 juin 1995, avec effet au 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-### VIII. Autorisation individuelle de fondeur
+### VII. Autorisation individuelle de fondeur
 
 ### 1. Autorisation
 
@@ -1879,7 +1880,7 @@ Doivent apparaître dans la comptabilité au moins:
 
 [^172-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-### IX. Essayage des produits de la fonte
+### VIII. Essayage des produits de la fonte
 
 ### 1. Conditions
 
@@ -2003,7 +2004,7 @@ Sont réputés métaux précieux bancaires:
 
 [^chap9-lvlI-lvl2-1]
 
-[^chap9-lvlI-lvl2-1]: Nouvelle teneur selon le ch. 62 de l’annexe 4 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^chap9-lvlI-lvl2-1]: Nouvelle teneur selon l’annexe 4 ch. 62 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 #### Art. 180
 
@@ -2049,7 +2050,7 @@ Sont réputés métaux précieux bancaires:
 
 [^184185-1]: Abrogés par le ch. I de l’O du 19 juin 1995, avec effet au 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-## Chapitre XI Taxes****
+## Chapitre XI Taxes
 
 [^chap11-1]
 
@@ -2085,7 +2086,7 @@ Sont réputés métaux précieux bancaires:
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 1934.
 
-<sup>2</sup> A partir de cette date sont abrogées toutes les prescriptions contraires, notamment les arrêtés et règlements ci-après énumérés:
+<sup>2</sup> À partir de cette date sont abrogées toutes les prescriptions contraires, notamment les arrêtés et règlements ci-après énumérés:
 
 Règlement d’exécution du 15 novembre 1892[^190-1] concernant le contrôle et la garantie du titre des ouvrages d’or et d’argent.
 
@@ -2133,7 +2134,7 @@ Arrêté du Conseil fédéral du 13 mars 1916[^190-15] concernant le commerce de
 [^190-14]: [RO **9** 247 **37** 19]
 [^190-15]: [RO **32** 85]
 
-## Disposition finale de la modification du 19 juin 1995****
+## Disposition finale de la modification du 19 juin 1995
 
 [^u1-1]
 
@@ -2141,11 +2142,11 @@ Arrêté du Conseil fédéral du 13 mars 1916[^190-15] concernant le commerce de
 
 Les ouvrages en métaux précieux qui correspondent aux nouvelles prescriptions mais portent un ancien poinçon officiel peuvent être mis dans le commerce tels quels.
 
-Annexe I*[^t-2]*
+Annexe I[^t-2]
 
 [^t-2]: Abrogée par l’art. 22 de l’O du 4 nov. 1981 sur les taxes du contrôle des métaux précieux, avec effet au 1<sup>er</sup> janv. 1982 ([RO 1981 1806](https://fedlex.data.admin.ch/eli/oc/1981/1806_1806_1806)).
 
-Annexe II*[^t-3]*
+Annexe II[^t-3]
 
 Poinçon officiel (poinçon de garantie), marque des bureaux de contrôle, signes distinctifs des bureaux de contrôle, poinçons d’essayeur des bureaux de contrôle:
 
@@ -2156,13 +2157,15 @@ Poinçon officiel (poinçon de garantie), marque des bureaux de contrôle, signe
 
 Chiffre 1
 
-**Reproduction du poinçon officiel (poinçon de garantie)**
+### Reproduction du poinçon officiel (poinçon de garantie)
+
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
 (art. 109, al. 1)
 
 <table>
-<tr><td>**Grand poinçon:** Dimensions: Hauteur: 1,6 mm Largeur: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/fr/xml/image/image1.png)</td></tr>
-<tr><td>**Petit poinçon:** Dimensions: Hauteur: 0,8 mm Largeur: 1 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/fr/xml/image/image1.png)</td></tr>
+<tr><td>**Grand poinçon:** Dimensions: Hauteur: 1,6 mm Largeur: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/fr/xml/image/image1.png)</td></tr>
+<tr><td>**Petit poinçon:** Dimensions: Hauteur: 0,8 mm Largeur: 1 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/fr/xml/image/image1.png)</td></tr>
 </table>
 
 Note:
@@ -2171,12 +2174,12 @@ Le poinçon officiel (tête de saint-bernard) porte le signe distinctif du burea
 
 Chiffre 2
 
-**Reproduction de la marque des bureaux de contrôle**
+### Reproduction de la marque des bureaux de contrôle
 
 (art. 58, al. 3)
 
 <table>
-<tr><td>Dimension: 0,8 mm de côté</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/fr/xml/image/image2.png)</td></tr>
+<tr><td>Dimension: 0,8 mm de côté</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/fr/xml/image/image2.png)</td></tr>
 </table>
 
 Note:
@@ -2185,7 +2188,7 @@ La marque porte le signe distinctif du bureau de contrôle. Ce signe se trouve �
 
 Chiffre 3
 
-**Signes distinctifs des bureaux de contrôle**
+### Signes distinctifs des bureaux de contrôle
 
 (art. 109, al. 2)
 
@@ -2204,7 +2207,7 @@ Chiffre 3
 
 Chiffre 4
 
-**Reproduction des poinçons d’essayeur des bureaux de contrôle**
+### Reproduction des poinçons d’essayeur des bureaux de contrôle
 
 (art. 173)
 
@@ -2212,10 +2215,8 @@ Exemples:
 
 Bureaux fédéraux:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/fr/xml/image/image3.png)
 
 Bureaux cantonaux:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/fr/xml/image/image3.png)
-
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/fr/xml/image/image3.png)

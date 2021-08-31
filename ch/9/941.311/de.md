@@ -4,20 +4,20 @@ title: "Verordnung vom 8. Mai 1934 über die Kontrolle des Verkehrs mit Edelmeta
 short: EMKV
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: de
-version: 2020-01-01
+version: 2021-09-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/de/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/de/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20210901-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20210901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Kontrolle des Verkehrs mit Edelmetallen und Edelmetallwaren
 
-(Edelmetallkontrollverordnung, EMKV)**[^t-1]**
+(Edelmetallkontrollverordnung, EMKV)[^t-1]
 
-vom 8. Mai 1934 (Stand am 1. Januar 2020)
+vom 8. Mai 1934 (Stand am 1. September 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 17. Febr. 1993, in Kraft seit 1. April 1993 ([AS 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -441,7 +441,7 @@ Das Zentralamt besorgt alle Geschäfte, welche die Überwachung des Verkehrs mit
 [^34-1]: Vierter Satz aufgehoben durch Ziff. IV 82 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^34-2]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-## Zweiter Abschnitt:**** Begriffe und Bestimmungen über die Warenkategorien und den Feingehalt****
+## Zweiter Abschnitt: Begriffe und Bestimmungen über die Warenkategorien und den Feingehalt
 
 [^chap2-1][^chap2-2]
 
@@ -549,7 +549,7 @@ Das Zentralamt erlässt die nötigen Vorschriften über:
 - a. die zulässigen Oberflächenveredlungen für Edelmetallwaren, Mehrmetallwaren und Plaquéwaren;
 - b. die Farbkombinationen von Metalllegierungen bei zusammengesetzten Waren und Mehrmetallwaren.
 
-## Dritter Abschnitt:**** Angabe des Feingehalts, Bezeichnungen und Vermerke
+## Dritter Abschnitt: Angabe des Feingehalts, Bezeichnungen und Vermerke
 
 [^chap3-1]
 
@@ -689,9 +689,9 @@ Die Bezeichnung von Tafelgeräten und -bestecken mit der Angabe der abgeschieden
 
 #### Art. 53–57
 
-Aufgehoben
+*Aufgehoben*
 
-## Vierter Abschnitt:**** Verantwortlichkeitsmarke
+## Vierter Abschnitt: Verantwortlichkeitsmarke
 
 [^chap4-1]
 
@@ -924,7 +924,7 @@ Das Register enthält folgende Angaben:
 
 #### Art. 76–80
 
-Aufgehoben
+*Aufgehoben*
 
 ## Fünfter Abschnitt: Amtliche Prüfung und Stempelung
 
@@ -1396,18 +1396,19 @@ Vorbehalten bleiben folgende Staatsverträge:
 - a. Übereinkommen vom 15. November 1972[^126-2] betreffend die Prüfung und Bezeichnung von Edelmetallgegenständen;
 - b. Abkommen vom 14. Februar 1972[^126-3] zwischen der Schweizerischen Eidgenossenschaft und der Republik Österreich über die gegenseitige Anerkennung der amtlichen Punzen auf Uhrgehäusen aus Edelmetall;
 - c. Briefwechsel vom 30. Oktober 1935[^126-4] zwischen der Schweiz und Spanien betreffend die Punzierung der Edelmetalle;
-- d. Abkommen vom 2. Juni 1987[^126-5] zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die gegenseitige Anerkennung der amtlichen Stempel auf Edelmetallwaren;
-- e. Abkommen vom 15. Januar 1970[^126-6] zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über die gegenseitige Anerkennung der Stempel auf Edelmetallwaren;
-- f.[^126-7] Abkommen vom 14. Dezember 2011[^126-8] zwischen dem Schweizerischen Bundesrat und der Regierung der Russischen Föderation über die gegenseitige Anerkennung amtlicher Stempel auf Waren der Uhrenbranche aus Edelmetallen.
+- d.[^126-5] Abkommen vom 19. Juni 2018[^126-6] zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die gegenseitige Anerkennung der amtlichen Stempel auf Edelmetall- und Mehrmetallwaren;
+- e. Abkommen vom 15. Januar 1970[^126-7] zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über die gegenseitige Anerkennung der Stempel auf Edelmetallwaren;
+- f.[^126-8] Abkommen vom 14. Dezember 2011[^126-9] zwischen dem Schweizerischen Bundesrat und der Regierung der Russischen Föderation über die gegenseitige Anerkennung amtlicher Stempel auf Waren der Uhrenbranche aus Edelmetallen.
 
 [^126-1]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^126-2]: [SR 0.941.31](https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013)
 [^126-3]: [SR 0.941.316.3](https://fedlex.data.admin.ch/eli/cc/1973/576_578_577)
 [^126-4]: [SR 0.941.333.2](https://fedlex.data.admin.ch/eli/cc/1989/251_251_251)
-[^126-5]: [SR 0.941.334.91](https://fedlex.data.admin.ch/eli/cc/2021/473)
-[^126-6]: [SR 0.941.345.4](https://fedlex.data.admin.ch/eli/cc/1974/752_753_753)
-[^126-7]: Eingefügt durch Ziff. I der V vom 2. Nov. 2011, in Kraft seit 2. Aug. 2013 ([AS 2013 2345](https://fedlex.data.admin.ch/eli/oc/2013/494)).
-[^126-8]: [SR 0.941.366.5](https://fedlex.data.admin.ch/eli/cc/2013/499)
+[^126-5]: Fassung gemäss Ziff. I der V vom 18. April 2018, in Kraft seit 1. Sept. 2021 ([AS 2021 472](https://fedlex.data.admin.ch/eli/oc/2021/472)).
+[^126-6]: [SR 0.941.334.91](https://fedlex.data.admin.ch/eli/cc/2021/473)
+[^126-7]: [SR 0.941.345.4](https://fedlex.data.admin.ch/eli/cc/1974/752_753_753)
+[^126-8]: Eingefügt durch Ziff. I der V vom 2. Nov. 2011, in Kraft seit 2. Aug. 2013 ([AS 2013 2345](https://fedlex.data.admin.ch/eli/oc/2013/494)).
+[^126-9]: [SR 0.941.366.5](https://fedlex.data.admin.ch/eli/cc/2013/499)
 
 #### Art. 127
 
@@ -2059,13 +2060,13 @@ Als Bankedelmetalle gelten:
 
 [^184185-1]: Aufgehoben durch Ziff. I der V vom 19. Juni 1995, mit Wirkung seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-## Elfter Abschnitt: Gebühren****
+## Elfter Abschnitt: Gebühren
 
 [^chap11-1]
 
 [^chap11-1]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-### Gebühren
+### I. Gebühren
 
 #### Art. 186
 
@@ -2143,7 +2144,7 @@ Bundesratsbeschluss vom 13. März 1916[^190-15] betreffend den Handel mit Gold-,
 [^190-14]: [AS **9** 291, **37** 19]
 [^190-15]: [AS **32** 85]
 
-## Schlussbestimmung vom 19. Juni 1995****
+## Schlussbestimmung vom 19. Juni 1995
 
 [^u1-1]
 
@@ -2151,11 +2152,11 @@ Bundesratsbeschluss vom 13. März 1916[^190-15] betreffend den Handel mit Gold-,
 
 Edelmetallwaren, welche den neuen Vorschriften entsprechen, aber noch mit einem alten amtlichen Stempel versehen sind, dürfen weiterhin in Verkehr gebracht werden.
 
-Anhang I*[^t-2]*
+Anhang I[^t-2]
 
 [^t-2]: Aufgehoben durch Art. 22 der V vom 4. Nov. 1981 über die Gebühren für die Edelmetallkontrolle, mit Wirkung seit 1. Jan. 1982 ([AS 1981 1806](https://fedlex.data.admin.ch/eli/oc/1981/1806_1806_1806)).
 
-Anhang II*[^t-3]*
+Anhang II[^t-3]
 
 ## Amtliche Stempel (Garantiepunzen), Marke der Kontrollämter, besondere Kennzeichen der Kontrollämter, Prüferzeichen der Kontrollämter
 
@@ -2168,13 +2169,13 @@ Anhang II*[^t-3]*
 
 Ziffer 1
 
-**Abbildung der amtlichen Stempel (Garantiepunzen)**
+### Abbildung der amtlichen Stempel (Garantiepunzen)
 
 (Art. 109 Abs. 1)
 
 <table>
-<tr><td>**Grosse Punze:** Dimensionen: Höhe: 1,6 mm Breite: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/de/xml/image/image1.png)</td></tr>
-<tr><td>**Kleine Punze:** Dimensionen: Höhe: 0,8 mm Breite: 1 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/de/xml/image/image1.png)</td></tr>
+<tr><td>**Grosse Punze:** Dimensionen: Höhe: 1,6 mm Breite: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/de/xml/image/image1.png)</td></tr>
+<tr><td>**Kleine Punze:** Dimensionen: Höhe: 0,8 mm Breite: 1 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/de/xml/image/image1.png)</td></tr>
 </table>
 
 Anmerkung:
@@ -2183,12 +2184,12 @@ Der amtliche Stempel (Bernhardinerkopf) trägt das Kennzeichen des Kontrollamtes
 
 Ziffer 2
 
-**Abbildung der Marke der Kontrollämter**
+### Abbildung der Marke der Kontrollämter
 
 (Art. 58 Abs. 3)
 
 <table>
-<tr><td>Dimensionen: Seitenlänge: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/de/xml/image/image2.png)</td></tr>
+<tr><td>Dimensionen: Seitenlänge: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/de/xml/image/image2.png)</td></tr>
 </table>
 
 Anmerkung:
@@ -2197,7 +2198,7 @@ Die Marke trägt das Kennzeichen des Kontrollamtes. Dieses befindet sich an der 
 
 Ziffer 3
 
-**Kennzeichen der Kontrollämter**
+### Kennzeichen der Kontrollämter
 
 (Art. 109 Abs. 2)
 
@@ -2216,7 +2217,7 @@ Ziffer 3
 
 Ziffer 4
 
-**Abbildung der Prüferzeichen der Kontrollämter**
+### Abbildung der Prüferzeichen der Kontrollämter
 
 (Art. 173)
 
@@ -2224,8 +2225,8 @@ Beispiele
 
 Eidgenössische Kontrollämter:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/de/xml/image/image3.png)
 
 Kantonale Kontrollämter:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/de/xml/image/image3.png)

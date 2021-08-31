@@ -4,20 +4,20 @@ title: "Ordinanza dell'8 maggio 1934 sul controllo del commercio in metalli prez
 short: OCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: it
-version: 2020-01-01
+version: 2021-09-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/it/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/it/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20210901-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20210901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul controllo del commercio in metalli preziosi e in lavori di metalli preziosi
 
-(Ordinanza sul controllo dei metalli preziosi, OCMP)**[^t-1]**
+(Ordinanza sul controllo dei metalli preziosi, OCMP)[^t-1]
 
-dell’8 maggio 1934 (Stato 1° gennaio 2020)
+dell’8 maggio 1934 (Stato 1° settembre 2021) (Stato 1° settembre 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 17 feb. 1993, in vigore dal 1° apr. 1993 ([RU 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -432,7 +432,7 @@ L’ufficio centrale regola tutti gli affari risultanti dalla sorveglianza del c
 [^34-1]: Quarto per. abrogato dal n. IV 82 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^34-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-## Capo secondo:**** Disposizioni sulle categorie di lavori e sul titolo
+## Capo secondo: Disposizioni sulle categorie di lavori e sul titolo
 
 [^chap2-1]
 
@@ -543,7 +543,7 @@ L’Ufficio centrale emana le necessarie prescrizioni su:
 - a. le rifiniture di superficie ammesse per lavori di metalli preziosi, lavori plurimetallici e lavori placcati;
 - b. le combinazioni di colori delle leghe metalliche nei lavori misti e plurimetallici.
 
-## Capo terzo:**** Indicazione del titolo, designazioni e menzioni
+## Capo terzo: Indicazione del titolo, designazioni e menzioni
 
 [^chap3-1]
 
@@ -683,9 +683,9 @@ La designazione dei servizi da tavola e delle posate con l’indicazione della q
 
 #### Art. 53 a 57
 
-Abrogati
+*Abrogati*
 
-## Capo quattro:**** Marchio d’artefice
+## Capo quattro: Marchio d’artefice
 
 [^chap4-1]
 
@@ -918,7 +918,7 @@ Il registro contiene le indicazioni seguenti:
 
 #### Art. 76 a 80
 
-Abrogati
+*Abrogati*
 
 ## Capo quinto: Controllo e marchiatura ufficiale
 
@@ -1389,18 +1389,19 @@ Sono fatti salvi i seguenti trattati internazionali:
 - a. Convenzione del 15 novembre 1972[^126-2] concernente il controllo e la punzonatura di lavori in metallo prezioso;
 - b. Convenzione del 14 febbraio 1972[^126-3] tra la Confederazione Svizzera e la Repubblica d’Austria concernente il riconoscimento reciproco dei marchi ufficiali di garanzia impressi sulle casse d’orologio di metalli preziosi;
 - c. Scambio di lettere del 30 ottobre 1935[^126-4] tra la Svizzera e la Spagna concernente la punzonatura dei metalli preziosi;
-- d. Convenzione del 2 giugno 1987[^126-5] tra il Consiglio federale svizzero e il Governo della Repubblica Francese relativa al riconoscimento reciproco dei marchi ufficiali impressi sui lavori in metalli preziosi;
-- e. Convenzione del 15 gennaio 1970[^126-6] tra la Confederazione Svizzera e la Repubblica italiana relativa al riconoscimento reciproco dei marchi impressi sui lavori in metalli preziosi;
-- f.[^126-7] Convenzione del 14 dicembre 2011[^126-8] tra il Consiglio federale della Confederazione Svizzera e il Governo della Federazione Russa relativa al riconoscimento reciproco dei marchi ufficiali impressi sui lavori di metalli preziosi dell’industria orologiera.
+- d.[^126-5] Convenzione del 19 giugno 2018[^126-6] tra il Consiglio federale svizzero e il Governo della Repubblica Francese relativa al riconoscimento reciproco dei marchi ufficiali impressi sui lavori di metalli preziosi e sui lavori plurimetallici;
+- e. Convenzione del 15 gennaio 1970[^126-7] tra la Confederazione Svizzera e la Repubblica italiana relativa al riconoscimento reciproco dei marchi impressi sui lavori in metalli preziosi;
+- f.[^126-8] Convenzione del 14 dicembre 2011[^126-9] tra il Consiglio federale della Confederazione Svizzera e il Governo della Federazione Russa relativa al riconoscimento reciproco dei marchi ufficiali impressi sui lavori di metalli preziosi dell’industria orologiera.
 
 [^126-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^126-2]: [RS 0.941.31](https://fedlex.data.admin.ch/eli/cc/1975/1013_1014_1013)
 [^126-3]: [RS 0.941.316.3](https://fedlex.data.admin.ch/eli/cc/1973/576_578_577)
 [^126-4]: [RS 0.941.333.2](https://fedlex.data.admin.ch/eli/cc/1989/251_251_251)
-[^126-5]: [RS 0.941.334.91](https://fedlex.data.admin.ch/eli/cc/2021/473)
-[^126-6]: [RS 0.941.345.4](https://fedlex.data.admin.ch/eli/cc/1974/752_753_753)
-[^126-7]: Introdotta dal n. I dell’O del 2 nov. 2011, in vigore dal 2 ago. 2013 ([RU 2013 2345](https://fedlex.data.admin.ch/eli/oc/2013/494)).
-[^126-8]: [RS 0.941.366.5](https://fedlex.data.admin.ch/eli/cc/2013/499)
+[^126-5]: Nuovo testo giusta il n. I dell’O del 18 apr. 2018, in vigore dal 1° set. 2021 ([RU 2021 472](https://fedlex.data.admin.ch/eli/oc/2021/472)).
+[^126-6]: [RS 0.941.334.91](https://fedlex.data.admin.ch/eli/cc/2021/473)
+[^126-7]: [RS 0.941.345.4](https://fedlex.data.admin.ch/eli/cc/1974/752_753_753)
+[^126-8]: Introdotta dal n. I dell’O del 2 nov. 2011, in vigore dal 2 ago. 2013 ([RU 2013 2345](https://fedlex.data.admin.ch/eli/oc/2013/494)).
+[^126-9]: [RS 0.941.366.5](https://fedlex.data.admin.ch/eli/cc/2013/499)
 
 #### Art. 127
 
@@ -1731,7 +1732,7 @@ Nella pubblicazione sul Foglio ufficiale svizzero di commercio del rilascio o de
 
 [^167-1]: Abrogato dal n. I dell’O del 26 mag. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### IV. Esercizio della professione a cui autorizza la patente
+### III. Esercizio della professione a cui autorizza la patente
 
 ### 1. Obblighi generali
 
@@ -1778,7 +1779,7 @@ Nella pubblicazione sul Foglio ufficiale svizzero di commercio del rilascio o de
 
 [^168b-1]: Introdotto dal n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### V. Contabilità
+### IV. Contabilità
 
 #### Art. 168c
 
@@ -1805,7 +1806,7 @@ La contabilità deve contenere almeno le seguenti indicazioni:
 [^168c-1]: Introdotto dal n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 [^168c-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### VI. Vigilanza
+### V. Vigilanza
 
 #### Art. 168d
 
@@ -1819,7 +1820,7 @@ La contabilità deve contenere almeno le seguenti indicazioni:
 
 [^168d-1]: Introdotto dal n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### VII. Marchio di fonditore
+### VI. Marchio di fonditore
 
 [^chap8-lvlVI-1]
 
@@ -1843,7 +1844,7 @@ La contabilità deve contenere almeno le seguenti indicazioni:
 
 [^170-1]: Abrogato dal n. I dell’O del 19 giu. 1995, con effetto dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-### VIII. Patente individuale di fonditore
+### VII. Patente individuale di fonditore
 
 [^chap8-lvlVII-1]
 
@@ -1881,7 +1882,7 @@ La contabilità deve contenere almeno le seguenti indicazioni:
 
 [^172-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-### IX. Saggio dei prodotti della fusione
+### VIII. Saggio dei prodotti della fusione
 
 [^chap8-lvlVIII-1]
 
@@ -2047,13 +2048,13 @@ Sono considerati metalli preziosi bancari:
 
 [^184185-1]: Abrogati dal n. I dell’O del 19 giu. 1995, con effetto dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-## Capo undecimo: Tasse****
+## Capo undecimo: Tasse
 
 [^chap11-1]
 
 [^chap11-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-### Tasse
+### I. Tasse
 
 #### Art. 186
 
@@ -2131,7 +2132,7 @@ Decreto del Consiglio federale del 13 marzo 1916[^190-15] concernente il commerc
 [^190-14]: [RU **9** 247 **37** 19]
 [^190-15]: [RU **32** 85]
 
-## Disposizione finale della modifica del 19 giugno 1995****
+## Disposizione finale della modifica del 19 giugno 1995
 
 [^u1-1]
 
@@ -2139,11 +2140,11 @@ Decreto del Consiglio federale del 13 marzo 1916[^190-15] concernente il commerc
 
 I lavori di metalli preziosi che sono conformi alle nuove prescrizioni ma recano ancora un vecchio marchio ufficiale possono essere messi in commercio.
 
-Allegato I*[^t-2]*
+Allegato I[^t-2]
 
 [^t-2]: Abrogato dall’art. 22 dell’O del 4 nov. 1981 sulla tariffa del controllo dei metalli preziosi, con effetto dal 1° gen. 1982 ([RU 1981 1806](https://fedlex.data.admin.ch/eli/oc/1981/1806_1806_1806)).
 
-Allegato II*[^t-3]*
+Allegato II[^t-3]
 
 ## Marchio ufficiale (marchio di garanzia), marchio degli uffici di controllo, segno distintivo degli uffici di controllo, marchio di saggiatore degli uffici di controllo
 
@@ -2156,13 +2157,13 @@ Allegato II*[^t-3]*
 
 Numero 1
 
-**Riproduzione del marchio ufficiale (marchio di garanzia)**
+### Riproduzione del marchio ufficiale (marchio di garanzia)
 
 (art. 109 cpv. 1)
 
 <table>
-<tr><td>**Marchio grande:** Dimensioni: Altezza: 1,6 mm Larghezza: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/it/xml/image/image1.png)</td></tr>
-<tr><td>**Marchio piccolo:** Dimensioni: Altezza: 0,8 mm Larghezza: 1 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/it/xml/image/image1.png)</td></tr>
+<tr><td>**Marchio grande:** Dimensioni: Altezza: 1,6 mm Larghezza: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/it/xml/image/image1.png)</td></tr>
+<tr><td>**Marchio piccolo:** Dimensioni: Altezza: 0,8 mm Larghezza: 1 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/it/xml/image/image1.png)</td></tr>
 </table>
 
 Nota:
@@ -2171,12 +2172,12 @@ Il marchio ufficiale (testa di San Bernardo) porta il segno distintivo dell’uf
 
 Numero 2
 
-**Riproduzione del marchio degli uffici di controllo**
+### Riproduzione del marchio degli uffici di controllo
 
 (art. 58 cpv. 3)
 
 <table>
-<tr><td>Dimensioni: lato: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/it/xml/image/image2.png)</td></tr>
+<tr><td>Dimensioni: lato: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/it/xml/image/image2.png)</td></tr>
 </table>
 
 Nota:
@@ -2185,7 +2186,7 @@ Il marchio porta il segno distintivo dell’ufficio di controllo. Tale segno si 
 
 Numero 3
 
-**Segni distintivi degli uffici di controllo**
+### Segni distintivi degli uffici di controllo
 
 (art. 109 cpv. 2)
 
@@ -2204,7 +2205,7 @@ Numero 3
 
 Numero 4
 
-**Riproduzione del marchio di saggiatore degli uffici di controllo**
+### Riproduzione del marchio di saggiatore degli uffici di controllo
 
 (art. 173)
 
@@ -2212,8 +2213,8 @@ Esempi:
 
 Uffici federali di controllo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/it/xml/image/image3.png)
 
 Uffici cantonali di controllo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20200101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/it/xml/image/image3.png)
