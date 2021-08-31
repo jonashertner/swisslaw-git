@@ -4,13 +4,13 @@ number: 900b
 title: Verordnung über Härtefallmassnahmen für Luzerner Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung Covid-19
 language: de
-version: 2021-06-19
-valid_until: 2021-08-31
-version_adopted: 2021-06-18
+version: 2021-09-01
+valid_until: 2021-11-26
+version_adopted: 2021-08-31
 adopted: 2022-03-29
 in_force: 2022-03-30
 url: "https://srl.lu.ch/app/de/texts_of_law/900b"
-pdf: "https://srl.lu.ch/api/de/versions/3748/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3818/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3748/pdf_file"
 
 (Kantonale Härtefallverordnung Covid-19)
 
-vom 09.12.2020 (Stand 19.06.2021)
+vom 09.12.2020 (Stand 01.09.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -165,7 +165,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat setzt für den Entscheid über die Gesuche eine Expertengruppe ein.
 
-<sup>2</sup> Die Expertengruppe besteht aus je einem unabhängigen Vertreter oder einer unabhängigen Vertreterin aus der Wirtschaft und aus der Treuhandbranche, einem Vertreter oder einer Vertreterin einer gemeinnützigen Organisation, einem unabhängigen externen Juristen oder einer unabhängigen externen Juristin, Vertreterinnen und Vertretern der Dienststellen Raum und Wirtschaft sowie Steuern, der Wirtschaftsförderung, des Sozialversicherungszentrums und des Finanzdepartementes. Das externe Wirtschaftsprüfungsunternehmen hat als Beisitzerin beratende Funktion.
+<sup>2</sup> Die Expertengruppe besteht aus einem unabhängigen Vertreter oder einer unabhängigen Vertreterin aus der Wirtschaft oder aus der Treuhandbranche, einem Vertreter oder einer Vertreterin einer gemeinnützigen Organisation, Vertreterinnen und Vertretern der Dienststellen Raum und Wirtschaft sowie Steuern, der Wirtschaftsförderung, des Sozialversicherungszentrums und des Finanzdepartementes. Das externe Wirtschaftsprüfungsunternehmen und der Rechtsdienst des Finanzdepartementes haben als Beisitzende beratende Funktion.
 
 <sup>3</sup> Die Expertengruppe entscheidet gestützt auf den Antrag des externen Wirtschaftsprüfungsunternehmens frei.
 
