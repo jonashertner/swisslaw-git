@@ -4,13 +4,13 @@ number: "585"
 title: Gesetz über das Archivwesen
 short: Archivgesetz
 language: de
-version: 2019-07-01
-valid_until: 2021-08-31
-version_adopted: 2018-12-03
+version: 2021-09-01
+valid_until: 2025-05-31
+version_adopted: 2021-05-10
 adopted: 2003-06-16
 in_force: 2004-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/585"
-pdf: "https://srl.lu.ch/api/de/versions/3411/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3797/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3411/pdf_file"
 
 (Archivgesetz)
 
-vom 16.06.2003 (Stand 01.07.2019)
+vom 16.06.2003 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -68,7 +68,7 @@ beschliesst:
 
 <sup>4</sup> Archivgut sind Unterlagen, die das Staatsarchiv zwecks dauernder Aufbewahrung übernommen und für die amtliche und die private Nutzung aufbereitet hat.
 
-<sup>5</sup> Für die Begriffe «besonders schützenswerte Personendaten» und «betroffene Person» gelten die Definitionen des Gesetzes über den Schutz von Personendaten (Datenschutzgesetz) vom 2. Juli 1990[^3-1].
+<sup>5</sup> Für die Begriffe «Personendaten», «besonders schützenswerte Personendaten» und «betroffene Person» gelten die Definitionen des Gesetzes über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^3-1]. Sie umfassen in diesem Gesetz auch Angaben über bestimmte oder bestimmbare juristische Personen oder Personengesellschaften des Handelsrechts.
 
 <sup>6</sup> Deposita sind nichtstaatliche Unterlagen, die das Staatsarchiv zur Aufbewahrung und Nutzung entgegennimmt.
 
@@ -109,6 +109,8 @@ beschliesst:
 **Anbietepflicht**
 
 <sup>1</sup> Die öffentlichen Organe bieten alle Unterlagen, die sie zur Erfüllung ihrer Aufgaben nicht mehr benötigen oder deren Aufbewahrungsfrist abgelaufen ist, dem Staatsarchiv zur Übernahme an.
+
+<sup>2</sup> Sie können dem Staatsarchiv die für die Vorbereitung der Übernahme erforderlichen Zugriffsrechte zu den elektronischen Informations-, Geschäftsverwaltungs- und Dokumentationssystemen einräumen. Die öffentlichen Organe sind für die Zugriffsverwaltung verantwortlich.
 
 #### § 7
 
