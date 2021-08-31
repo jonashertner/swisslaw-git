@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Verordnung über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus
 language: de
-version: 2021-08-17
-valid_until: 2021-08-31
-version_adopted: 2021-08-17
+version: 2021-09-01
+valid_until: 2021-11-29
+version_adopted: 2021-08-24
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/de/versions/6895/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6901/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6895/pdf_file"
 
 COVID-19, kantonale Massnahmen – V
 
-vom 10.11.2020 (Fassung in Kraft getreten am 17.08.2021)
+vom 10.11.2020 (Fassung in Kraft getreten am 01.09.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -116,9 +116,61 @@ beschliesst:
 
 #### Art. 4
 
-**Einrichtungen des Gesundheitswesens**
+**Risikoinstitutionen – Besuche**
 
-<sup>1</sup> Besuche in Gesundheitseinrichtungen werden gemäss den Richtlinien des Kantonsarztamtes angepasst. Die Spitäler und das Geburtshaus halten sich an die vom Kantonsarztamt genehmigten Richtlinien der Spitalkoordinierungsstelle.
+<sup>1</sup> Besuche in Risikoinstitutionen werden gemäss den Richtlinien des Kantonsarztamtes angepasst. Die Spitäler und das Geburtshaus halten sich an die vom Kantonsarztamt genehmigten Richtlinien der Spitalkoordinierungsstelle.
+
+<sup>2</sup> Zu den Risikoinstitutionen im Sinn dieser Verordnung gehören Spitäler, Kliniken, das Geburtshaus, Ambulanzdienste, Einrichtungen und Tagesstrukturen für ältere Personen, Hilfs- und Hauspflegedienste sowie Sondereinrichtungen für Menschen mit Behinderung und für Suchtkranke.
+
+<sup>3</sup> Für Besuche in den Risikoinstitutionen wird das Covid-19-Zertifikat empfohlen. Die Risikoinstitute können das Zertifikat verlangen und müssen Ausnahmen vorsehen, namentlich bei Situationen am Lebensende und bei Notfällen.
+
+#### Art. 4a
+
+**Risikoinstitutionen – Personal**
+
+<sup>1</sup> Das Personal mit Kontakt zu den Personen, die in den Risikoinstitutionen betreut werden (das betroffene Personal), muss den Nachweis eines gültigen Covid-19-Zertifikats im Sinne der Bundesgesetzgebung oder eines negativen Covid-19-Tests, der im Rahmen des Testens für Unternehmen erfolgt, erbringen.
+
+<sup>2</sup> Die Institution führt für ihr betroffenes Personal, das über kein gültiges Covid-19-Zertifikat verfügt, ein Testverfahren ein, wobei sie sich an das kantonale Verfahren für das repetitive und breite Testen hält.
+
+<sup>3</sup> Die Institution ist für die Kontrolle der Anforderungen nach Absatz 1 zuständig.
+
+<sup>4</sup> Die Institution führt eine Liste mit dem geimpften oder genesenen Personal, das über ein Covid-19-Zertifikat verfügt, wobei sie dafür sorgt, dass die Datenschutzgesetzgebung eingehalten wird. Sie kommuniziert die Zahl der geimpften und genesenen Personen regelmässig dem Kantonsarztamt.
+
+<sup>5</sup> Die Anforderungen für das betroffene Personal gelten sinngemäss für externe Akteurinnen und Akteure, die Kontakt mit den betreuten Personen haben.
+
+#### Art. 4b
+
+**Risikoinstitutionen – Kontrolle und Sanktionen**
+
+<sup>1</sup> Das Kantonsarztamt ist für die Überprüfung der Einhaltung der Vorschriften nach Artikel 4a mit geeigneten Mitteln zuständig, namentlich mit der Überprüfung vor Ort.
+
+<sup>2</sup> Der Verstoss gegen die Vorschriften nach Artikel 4a kann mit einer Sanktion gemäss EpG geahndet werden.
+
+#### Art. 4c
+
+**Kantonspolizei – Personal**
+
+<sup>1</sup> Wenn es die Umstände und Einsätze erfordern, kann das gesamte oder ein Teil des Personals der Kantonspolizei analog zu Artikel 4a verpflichtet werden, den Nachweis eines gültigen Covid-19-Zertifikats im Sinne der Bundesgesetzgebung oder eines negativen Covid-19-Tests zu erbringen.
+
+<sup>2</sup> Die Kantonspolizei führt eine Liste mit dem geimpften oder genesenen Personal, das über ein Covid-19-Zertifikat verfügt, wobei sie dafür sorgt, dass die Datenschutzgesetzgebung eingehalten wird. Sie kommuniziert der Sicherheits- und Justizdirektion jeden Monat die Zahl der geimpften und genesenen Personen.
+
+#### Art. 4d
+
+**Kantonspolizei – Kontrolle und Sanktionen**
+
+<sup>1</sup> Die Kantonspolizei ist für die Überprüfung der Einhaltung der Vorschriften nach Artikel 4c mit geeigneten Mitteln zuständig.
+
+<sup>2</sup> Der Verstoss gegen die Vorschriften nach Artikel 4c kann mit einer Sanktion gemäss EpG geahndet werden.
+
+#### Art. 4e
+
+**Inspektorinnen und Inspektoren anderer Dienststellen, die ihm Rahmen der G3C COVID-19 (Koordinationsgruppe der Covid-Kontrollstelle) zum Einsatz kommen**
+
+<sup>1</sup> Wenn es die Umstände und Einsätze erfordern und das Covid-19-Zertifikat für den Zugang zum kontrollierten Ort obligatorisch ist, kann es von den Inspektorinnen und Inspektoren der anderen Dienststellen, die im Rahmen der G3C COVID-19 zum Einsatz kommen, verlangt werden.
+
+<sup>2</sup> Die Vorsteherinnen und Vorsteher der erwähnten Dienststellen sind für die Überprüfung der Einhaltung der Vorschriften nach Absatz 1 mit geeigneten Mitteln zuständig.
+
+<sup>3</sup> Der Verstoss gegen die Vorschriften nach Absatz 1 kann mit einer Sanktion gemäss EpG geahndet werden.
 
 #### Art. 5
 

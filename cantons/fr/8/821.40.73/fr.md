@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Ordonnance relative aux mesures cantonales pour freiner la propagation du coronavirus
 language: fr
-version: 2021-08-17
-valid_until: 2021-08-31
-version_adopted: 2021-08-17
+version: 2021-09-01
+valid_until: 2021-11-29
+version_adopted: 2021-08-24
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6895/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6901/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6895/pdf_file"
 
 COVID-19, mesures cantonales – O
 
-du 10.11.2020 (version entrée en vigueur le 17.08.2021)
+du 10.11.2020 (version entrée en vigueur le 01.09.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -116,9 +116,61 @@ Arrête:
 
 #### Art. 4
 
-**Etablissements de soins**
+**Institutions à risque – Visites**
 
-<sup>1</sup> Les visites dans les établissements de soins sont adaptées selon les directives du Service du médecin cantonal. Les hôpitaux et la maison de naissance se conforment aux directives de la cellule de coordination hospitalière validées par le Service du médecin cantonal.
+<sup>1</sup> Les visites dans les institutions à risque sont adaptées selon les directives du Service du médecin cantonal. Les hôpitaux et la maison de naissance se conforment aux directives de la cellule de coordination hospitalière validées par le Service du médecin cantonal.
+
+<sup>2</sup> Sont considérées comme institutions à risque au sens de la présente ordonnance les hôpitaux, les cliniques, la maison de naissance, les services d'ambulances, les établissements et foyers de jour pour personnes âgées, les services d'aide et de soins à domicile ainsi que les institutions spécialisées pour les personnes en situation de handicap et souffrant d'addiction.
+
+<sup>3</sup> Le certificat COVID-19 est recommandé pour les visites dans les institutions à risque. Celles-ci peuvent en exiger la présentation et doivent prévoir des exceptions, notamment pour les situations de fin de vie et les urgences.
+
+#### Art. 4a
+
+**Institutions à risque – Personnel**
+
+<sup>1</sup> Le personnel en contact avec les personnes prises en charge dans les institutions à risque (ci-après: personnel concerné) doit prouver qu'il est titulaire d'un certificat COVID-19 valable au sens de la législation fédérale ou qu'il dispose d'un test négatif au COVID-19 réalisé dans le cadre du testing en entreprise.
+
+<sup>2</sup> L'institution met en place une procédure de tests pour son personnel concerné qui ne dispose pas d'un certificat COVID-19 valable, dans le respect de la procédure cantonale relative aux tests répétitifs à large échelle.
+
+<sup>3</sup> L'institution est responsable de contrôler les exigences prévues à l'alinéa 1.
+
+<sup>4</sup> L'institution tient une liste du personnel vacciné ou guéri disposant d'un certificat COVID-19 en veillant à respecter la législation sur la protection des données. Elle communique régulièrement le nombre de personnes vaccinées ou guéries au Service du médecin cantonal.
+
+<sup>5</sup> Les exigences prévues pour le personnel concerné s'appliquent par analogie aux intervenants et intervenantes extérieurs en contact avec les personnes prises en charge.
+
+#### Art. 4b
+
+**Institutions à risque – Contrôle et sanctions**
+
+<sup>1</sup> Le Service du médecin cantonal est compétent pour contrôler le respect des prescriptions de l'article 4a par des moyens appropriés, notamment une vérification sur place.
+
+<sup>2</sup> La violation des prescriptions de l'article 4a peut faire l'objet d'une sanction conformément à la LEp.
+
+#### Art. 4c
+
+**Police cantonale – Personnel**
+
+<sup>1</sup> Lorsque les circonstances et les missions l'exigent, tout ou partie du personnel de la Police cantonale peut, par analogie à l'article 4a, être astreint à prouver qu'il est titulaire d'un certificat COVID-19 valable au sens de la législation fédérale ou qu'il dispose d'un test négatif au COVID-19.
+
+<sup>2</sup> La Police cantonale tient une liste du personnel vacciné ou guéri disposant d'un certificat COVID-19 en veillant à respecter la législation sur la protection des données. Elle communique chaque mois le nombre de personnes vaccinées ou guéries à la Direction de la sécurité et de la justice.
+
+#### Art. 4d
+
+**Police cantonale – Contrôle et sanctions**
+
+<sup>1</sup> La Police cantonale est compétente pour contrôler le respect des prescriptions de l'article 4c par des moyens appropriés.
+
+<sup>2</sup> La violation des prescriptions de l'article 4c peut faire l'objet d'une sanction conformément à la LEp.
+
+#### Art. 4e
+
+**Inspecteurs des autres services intervenant dans le cadre du Groupe de coordination contrôles COVID (G3C COVID-19)**
+
+<sup>1</sup> Lorsque les circonstances ou les missions l'exigent et que le certificat COVID-19 est obligatoire pour accéder au lieu contrôlé, ce dernier peut être exigible pour les inspecteurs des autres services intervenant dans le cadre du G3C COVID-19.
+
+<sup>2</sup> Les chefs des services précités sont compétents pour contrôler le respect des prescriptions de l'alinéa 1 par des moyens appropriés.
+
+<sup>3</sup> La violation des prescriptions de l'alinéa 1 peut faire l'objet d'une sanction conformément à la LEp.
 
 #### Art. 5
 
