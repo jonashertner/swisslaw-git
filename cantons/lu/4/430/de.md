@@ -4,13 +4,12 @@ number: "430"
 title: Gesetz über die Berufsbildung und die Weiterbildung
 short: BWG
 language: de
-version: 2016-08-01
-valid_until: 2021-08-31
-version_adopted: 2016-03-14
+version: 2021-09-01
+version_adopted: 2021-05-10
 adopted: 2005-09-12
 in_force: 2006-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/430"
-pdf: "https://srl.lu.ch/api/de/versions/2872/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3819/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2872/pdf_file"
 
 (BWG)
 
-vom 12.09.2005 (Stand 01.08.2016)
+vom 12.09.2005 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -46,8 +45,6 @@ beschliesst:
 **Einbettung der Berufsbildung und der Weiterbildung**
 
 <sup>1</sup> Die Berufsbildung und die Weiterbildung sind wie folgt in das Bildungswesen eingebettet:
-
-Grafik gemäss Anhang 1
 
 ## 2 Bildungsziele
 
@@ -93,8 +90,6 @@ Grafik gemäss Anhang 1
 **Übersicht über die Berufsbildung und die Weiterbildung**
 
 <sup>1</sup> Die Berufsbildung und die Weiterbildung gliedern sich wie folgt:
-
-Grafik gemäss Anhang 2
 
 <sup>2</sup> Die Inhalte der Brückenangebote, der Berufslehren, der eidgenössischen Berufs- und der höheren Fachprüfungen, der höheren Fachschulen und der berufsorientierten Weiterbildung richten sich nach dem Bundesrecht.
 
