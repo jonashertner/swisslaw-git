@@ -1,25 +1,25 @@
 ---
 canton: LU
 number: "38"
-title: Gesetz über den Schutz von Personendaten
-short: "Datenschutzgesetz, DSG"
+title: Kantonales Gesetz über den Schutz von Personendaten
+short: "Kantonales Datenschutzgesetz, KDSG"
 language: de
-version: 2012-01-01
-valid_until: 2021-08-31
-version_adopted: 2011-06-20
+version: 2021-09-01
+valid_until: 2025-05-31
+version_adopted: 2021-05-10
 adopted: 1990-07-02
 in_force: 1991-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/38"
-pdf: "https://srl.lu.ch/api/de/versions/2249/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3786/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über den Schutz von Personendaten
+# Kantonales Gesetz über den Schutz von Personendaten
 
-(Datenschutzgesetz, DSG)
+(Kantonales Datenschutzgesetz, KDSG)
 
-vom 02.07.1990 (Stand 01.01.2012)
+vom 02.07.1990 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -41,19 +41,27 @@ beschliesst:
 
 **Begriffe**
 
-<sup>1</sup> Personendaten sind Angaben über eine bestimmte oder bestimmbare natürliche oder juristische Person oder eine Personengesellschaft des Handelsrechts.
+<sup>1</sup> Personendaten sind Angaben über eine bestimmte oder bestimmbare natürliche Person.
 
-<sup>2</sup> Besonders schützenswerte Personendaten sind Angaben über die religiöse, weltanschauliche oder politische Haltung, die Intimsphäre, die Gesundheit, die ethnische Zugehörigkeit, über Massnahmen der Sozialhilfe, über administrative und strafrechtliche Massnahmen und Sanktionen sowie über eine Zusammenstellung von Daten, die eine Beurteilung wesentlicher Aspekte der natürlichen Person (Persönlichkeitsprofil) erlaubt.
+<sup>2</sup> Besonders schützenswerte Personendaten sind Angaben über natürliche Personen, bei welchen eine besondere Gefahr für Persönlichkeits- und Grundrechtsverletzungen besteht, insbesondere
 
-<sup>3</sup> Betroffene Person ist die Person oder Personengesellschaft, auf welche sich die Angaben beziehen.
+- a. Daten über die religiöse, weltanschauliche oder politische Haltung,
+- b. Daten über die Gesundheit, die Intimsphäre, das Erbgut oder die ethnische Zugehörigkeit,
+- c. mit speziellen technischen Verfahren gewonnene Daten zu den physischen, physiologischen oder verhaltenstypischen Merkmalen einer Person, welche die eindeutige Identifizierung dieser Person ermöglichen oder bestätigen (biometrische Daten),
+- d. Daten über verwaltungs- und strafrechtliche Massnahmen und Sanktionen sowie Massnahmen der Sozialhilfe,
+- e. Zusammenstellungen von Daten, die eine Beurteilung wesentlicher Aspekte der natürlichen Person erlaubt (Persönlichkeitsprofil).
 
-<sup>4</sup> Bearbeiten von Personendaten ist, unabhängig von den angewendeten Mitteln und Verfahren, jeder Umgang mit Daten, wie das Erheben, Beschaffen, Aufzeichnen, Sammeln, Verwenden, Umarbeiten, Bekanntgeben, Archivieren und Vernichten.
+<sup>3</sup> Betroffene Person ist die Person, von der Personendaten bearbeitet werden.
+
+<sup>4</sup> Bearbeiten von Personendaten ist, unabhängig von den angewendeten Mitteln und Verfahren, jeder Umgang mit Daten, wie das Erheben, Beschaffen, Aufbewahren, Aufzeichnen, Sammeln, Speichern auf elektronischen Datenträgern, Verwenden, Umarbeiten, Bekanntgeben, Archivieren, Löschen und Vernichten. Bekanntgeben ist das Übermitteln oder das Zugänglichmachen von Personendaten, insbesondere durch Einsichtgewähren, Weitergeben oder Veröffentlichen.
+
+<sup>4<sup>bis</sup></sup> Profiling ist jede Art der automatisierten Bearbeitung von Personendaten, die darin besteht, dass diese Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insbesondere um die Arbeitsleistung, die wirtschaftliche Lage, die Gesundheit, persönliche Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder vorherzusagen.
 
 <sup>5</sup> Ein Verknüpfen von Personendaten verschiedener Datenbanken ist jedes regelmässige, automatische oder manuelle Ergänzen der zu einer Person in einer Datenbank vorliegenden Daten durch Daten einer anderen Datenbank.
 
-<sup>6</sup> Eine Datensammlung ist ein Bestand von Personendaten, der so aufgebaut ist, dass die Daten nach den betroffenen Personen erschliessbar sind.
+<sup>6</sup> …
 
-<sup>7</sup> Inhaber einer Datensammlung ist jenes Organ, das über den Zweck und Inhalt einer Datensammlung entscheidet.
+<sup>7</sup> Verantwortliches Organ ist das Organ, das, allein oder zusammen mit anderen Organen, über den Zweck und die Mittel der Bearbeitung von Personendaten entscheidet.
 
 <sup>8</sup> Organe sind Behörden, Dienststellen und Verwaltungseinheiten, die für ein Gemeinwesen handeln, und private Personen, soweit ihnen öffentliche Aufgaben übertragen sind.
 
@@ -65,16 +73,28 @@ beschliesst:
 
 - a. den Kanton,
 - b. die Gemeinden,
-- c. andere Gemeinwesen gemäss § 1 des Gesetzes über die Verwaltungsrechtspflege[^3-1], die der Regierungsrat dem Gesetz unterstellt.
+- c. andere Gemeinwesen gemäss § 1 des Gesetzes über die Verwaltungsrechtspflege vom 3. Juli 1972[^3-1],
+- d. die übrigen Personen und Organisationen des öffentlichen und des privaten Rechts, denen kantonale Aufgaben übertragen sind.
 
-<sup>2</sup> Es wird nicht angewendet auf
+<sup>2</sup> Der Teil 3 dieses Gesetzes gilt nicht für Notizen und Agenden, die als Hilfsmittel bei der Aufgabenerfüllung dienen.
 
-- a. hängige Verfahren der Zivil- und Strafrechtspflege sowie hängige verwaltungsrechtliche Verfahren mit Ausnahme von erstinstanzlichen Verwaltungsverfahren,
-- b. Geschäfte, über welche die Stimmberechtigten oder Parlamente beschliessen,
-- c. öffentliche Register des Privatrechtsverkehrs,
-- d. verwaltungsinterne Akten wie Notizbücher und Agenden, die dem Inhaber als persönliche Arbeitsmittel dienen.
+- a. …
+- b. …
+- c. …
+- d. …
+
+<sup>3</sup> Die Prozess- und Verfahrensordnungen regeln das Bearbeiten von Personendaten und die Rechte der betroffenen Personen in Gerichts- und Verwaltungsverfahren. Auf erstinstanzliche Verwaltungsverfahren sind die Bestimmungen dieses Gesetzes anwendbar.
+
+<sup>4</sup> Soweit Organe parlamentarische oder gerichtliche Befugnisse ausüben, unterliegen sie der Überwachung durch die zuständige Aufsichtsstelle gemäss § 22 nicht.
+
+<sup>5</sup> Soweit ein Organ am wirtschaftlichen Wettbewerb teilnimmt und dabei privatrechtlich handelt, sind auf seine Datenbearbeitungen die Bestimmungen des Bundesgesetzes über den Datenschutz vom 25. September 2020[^3-2] anwendbar. Die Aufsicht richtet sich nach den §§ 22–24b.
+
+<sup>6</sup> Vorbehalten bleiben besondere Vorschriften, die das Bearbeiten von Daten und insbesondere die Rechte der betroffenen Personen regeln.
 
 [^3-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
+[^3-2]: SR [235.1](https://db.clex.ch/link/Bund/235.1/de)
+
+## 1a Bearbeiten von Personendaten
 
 #### § 4
 
@@ -94,9 +114,12 @@ beschliesst:
 
 **Voraussetzungen des Bearbeitens von Personendaten**
 
-<sup>1</sup> Organe dürfen Personendaten zur Erfüllung von Aufgaben bearbeiten, für die eine Rechtsgrundlage besteht.
+<sup>1</sup> Organe dürfen Personendaten bearbeiten, wenn
 
-<sup>2</sup> Besonders schützenswerte Personendaten dürfen sie bearbeiten, wenn es
+- a. dafür eine Rechtsgrundlage besteht oder
+- b. dies zur Erfüllung von Aufgaben erforderlich ist, für die eine Rechtsgrundlage besteht.
+
+<sup>2</sup> Sie dürfen besonders schützenswerte Personendaten bearbeiten oder ein Profiling vornehmen, wenn es
 
 - a. ein formelles Gesetz ausdrücklich vorsieht,
 - b. für eine in einem formellen Gesetz umschriebene Aufgabe unentbehrlich ist,
@@ -111,7 +134,7 @@ beschliesst:
 
 <sup>1</sup> Das Verknüpfen von Personendaten verschiedener Datenbanken ist nur dann erlaubt, wenn sichergestellt ist, dass alle datenbearbeitenden Personen nur diejenigen Daten bearbeiten können, die sie für ihre Arbeit typischerweise und regelmässig benötigen.
 
-<sup>2</sup> In Einzelfällen können Daten entweder bei der zugriffsberechtigten Person oder über ein automatisiertes Abrufverfahren beschafft werden, sofern der Zugriff gespeichert und vom Inhaber der Datensammlung sowie vom Beauftragten für den Datenschutz überprüft werden kann.
+<sup>2</sup> In Einzelfällen können Daten entweder bei der zugriffsberechtigten Person oder über ein automatisiertes Abrufverfahren beschafft werden, sofern der Zugriff protokolliert und vom verantwortlichen Organ sowie von dem oder der Beauftragten für den Datenschutz überprüft werden kann.
 
 #### § 6
 
@@ -119,17 +142,50 @@ beschliesst:
 
 <sup>1</sup> Für den Datenschutz ist jedes Organ verantwortlich, das Personendaten bearbeitet oder bearbeiten lässt.
 
-<sup>2</sup> Lässt ein Organ andere Organe für sich Personendaten bearbeiten, überbindet es ihnen durch Auflagen, Vereinbarungen oder in anderer Weise die Mitverantwortung für den Datenschutz.
+<sup>1<sup>bis</sup></sup> Das verantwortliche Organ stellt mit technischen und organisatorischen Massnahmen die Einhaltung des Datenschutzes sicher. Die Massnahmen müssen insbesondere dem Stand der Technik, der Art und dem Umfang der Datenbearbeitung sowie den Risiken, welche die Bearbeitung für die Rechte der betroffenen Personen mit sich bringt, angemessen sein.
 
-<sup>3</sup> Bearbeiten mehrere Organe Personendaten aus einer Datensammlung, trägt in erster Linie der Inhaber der Datensammlung die Verantwortung; jedes Organ bleibt für seinen Bereich mitverantwortlich.
+<sup>2</sup> Es kann das Bearbeiten von Personendaten einem anderen Organ oder Dritten übertragen, wenn
+
+- a. keine rechtliche Bestimmung oder vertragliche Vereinbarung entgegensteht,
+- b. sichergestellt ist, dass die Personendaten nur so bearbeitet werden, wie es das verantwortliche Organ selbst tun dürfte; insbesondere darf das Bearbeiten von Personendaten nicht ohne vorgängige schriftliche Zustimmung des verantwortlichen Organs weiteren Auftragsdatenbearbeitern übertragen werden.
+
+<sup>3</sup> Bearbeiten mehrere Organe Personendaten aus einem Datenbestand oder mehreren Datenbeständen, regeln sie die Verantwortlichkeit.
+
+<sup>4</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
 
 #### § 7
 
-**Datensicherung**
+**Melde- und Informationspflichten bei unbefugter Datenbearbeitung**
 
-<sup>1</sup> Organe sorgen durch angemessene technische und organisatorische Massnahmen für die Sicherung von Personendaten. Sie sichern sie insbesondere vor Verlust, Fälschung, Entwendung sowie vor Kenntnisnahme, Kopieren und Bearbeiten durch Unbefugte.
+<sup>1</sup> Die verantwortlichen Organe melden dem oder der Beauftragten für den Datenschutz unverzüglich unbefugte Datenbearbeitungen, insbesondere durch Verlust, Fälschung, Entwendung und Kenntnisnahme durch nicht berechtigte Dritte, wenn diese voraussichtlich zu einem hohen Risiko für die Persönlichkeit oder die Grundrechte der betroffenen Personen führen.
+
+<sup>1<sup>bis</sup></sup> Sie informieren die betroffenen Personen, wenn es zu deren Schutz erforderlich ist oder wenn der oder die Beauftragte für den Datenschutz es verlangt, und soweit erforderlich andere Organe und Dritte. Die Information kann eingeschränkt oder aufgeschoben oder es kann darauf verzichtet werden, wenn überwiegende öffentliche Interessen dies erfordern oder wenn die Information einen unverhältnismässigen Aufwand verursacht.
 
 <sup>2</sup> Der Regierungsrat kann weitere Vorschriften erlassen.
+
+#### § 7a
+
+**Datenschutz-Folgenabschätzung und Vorabkonsultation**
+
+<sup>1</sup> Das verantwortliche Organ prüft bei Vorhaben zur Datenbearbeitung die Auswirkungen auf den Datenschutz. Besteht voraussichtlich ein hohes Risiko für die Persönlichkeit oder die Grundrechte der betroffenen Personen, führt das Organ eine Datenschutz-Folgenabschätzung durch.
+
+<sup>2</sup> Ergibt sich aus den Abklärungen, dass die vorgesehene Datenbearbeitung ein hohes Risiko für die Persönlichkeit oder die Grundrechte der Betroffenen zur Folge hätte, obwohl Massnahmen vorgesehen sind, holt das Organ die Stellungnahme des oder der Beauftragten für den Datenschutz ein. Er oder sie gibt innert angemessener Frist eine Empfehlung ab und schlägt geeignete Massnahmen vor.
+
+<sup>3</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+#### § 7b
+
+**Datenschutzberater oder -beraterin**
+
+<sup>1</sup> Die vom Regierungsrat durch Verordnung bestimmten weiteren Organe und das Kantonsgericht bezeichnen einen Datenschutzberater oder eine Datenschutzberaterin.
+
+<sup>2</sup> Der Datenschutzberater oder die Datenschutzberaterin
+
+- a. unterstützt die Mitarbeiterinnen und Mitarbeiter der Organisationseinheiten, die Personendaten bearbeiten, bei der Einhaltung der Vorschriften über den Datenschutz,
+- b. sorgt für die notwendigen Datenschutz-Folgenabschätzungen gemäss § 7a,
+- c. ist Ansprechperson des oder der Beauftragten für den Datenschutz.
+
+<sup>3</sup> Der Regierungsrat kann die übrigen Gemeinwesen verpflichten, einen Datenschutzberater oder eine Datenschutzberaterin zu bezeichnen.
 
 ## 2 Besondere Formen des Bearbeitens
 
@@ -143,12 +199,22 @@ beschliesst:
 
 <sup>2</sup> Die zu befragende Person muss erkennen können, dass Personendaten erhoben werden, es sei denn, die Erfüllung der öffentlichen Aufgabe werde dadurch ernstlich gefährdet oder verunmöglicht.
 
-<sup>3</sup> Das Organ gibt sich der zu befragenden Person zu erkennen und weist sie auf das Bestehen einer Auskunftspflicht und gegebenenfalls auf die Folgen einer Verletzung der Auskunftspflicht hin.
+<sup>3</sup> Das Organ weist die Person auf das Bestehen einer Auskunftspflicht und gegebenenfalls auf die Folgen einer Verletzung der Auskunftspflicht hin.
 
-<sup>4</sup> Die Rechtsgrundlage, der Zweck des Bearbeitens und die vorgesehenen Empfänger der Personendaten werden der befragten Person angegeben, wenn
+<sup>4</sup> Es informiert die Person über
 
-- a. sie es verlangt oder
-- b. die Personendaten mit einem Formular erhoben werden, das sie grundsätzlich nicht in Anwesenheit des Organs auszufüllen hat.
+- a. das für die Erhebung verantwortliche Organ und gibt dessen Kontaktdaten bekannt,
+- b. die Rechtsgrundlage und den Zweck der Datenerhebung,
+- c. die bearbeiteten Personendaten oder die Kategorien der bearbeiteten Daten,
+- d. die Dauer der Aufbewahrung der Personendaten oder die Kriterien für die Festlegung der Aufbewahrungsdauer,
+- e. die Empfänger der Personendaten oder die Kategorien der Empfänger, falls die Daten Dritten bekannt gegeben werden sollen,
+- f. die Rechte der betroffenen Person.
+
+<sup>5</sup> Auf die Information kann verzichtet werden, wenn
+
+- a. die Datenbearbeitung im Gesetz vorgesehen ist oder
+- b. die betroffene Person bereits über die Angaben gemäss Absatz 4 verfügt oder
+- c. die Information der betroffenen Person nicht oder nur mit unverhältnismässigem Aufwand möglich ist.
 
 ### 2.2 Bekanntgeben von Personendaten
 
@@ -211,47 +277,55 @@ beschliesst:
 - e. die Bekanntgabe im Einzelfall erforderlich ist, um das Leben oder die körperliche Integrität der betroffenen Person zu schützen,
 - f. die betroffene Person die Daten allgemein zugänglich gemacht und eine Bearbeitung nicht ausdrücklich untersagt hat.
 
-<sup>3</sup> Der Beauftragte für den Datenschutz muss über die Garantien nach Absatz 2a informiert werden. Der Regierungsrat regelt das Nähere.
+<sup>3</sup> Der oder die Beauftragte für den Datenschutz muss über die Garantien nach Absatz 2a informiert werden.
+
+<sup>4</sup> Der Regierungsrat kann weitere Vorschriften erlassen.
 
 ### 2.3 Archivieren und Vernichten von Personendaten
 
 #### § 13
 
-**Nicht mehr benötigte Datensammlungen**
+<sup>1</sup> Benötigt ein Organ Datenbestände voraussichtlich nicht mehr, werden sie nach den dafür geltenden Vorschriften archiviert oder vernichtet.
 
-<sup>1</sup> Benötigt ein Organ Datensammlungen voraussichtlich nicht mehr, werden sie nach den dafür geltenden Vorschriften archiviert oder vernichtet. Vorbehalten bleiben die Bestimmungen von Absatz 2 sowie des § 18 Absatz 1.
+<sup>2</sup> …
 
-<sup>2</sup> Personendaten, die von der Polizei im Zusammenhang mit bestimmten die öffentliche Sicherheit und Ordnung gefährdenden Ereignissen erhoben worden sind, müssen spätestens 100 Tage nach dem Ereignis vernichtet werden, soweit sie nicht für ein Straf-, Zivil- oder Verwaltungsverfahren beigezogen wurden.
-
-<sup>3</sup> Der Regierungsrat kann weitere Vorschriften erlassen.
+<sup>3</sup> Der Regierungsrat kann weitere Vorschriften erlassen. Insbesondere kann er Löschfristen und Massnahmen zur regelmässigen Überprüfung der Notwendigkeit von Personendatenbeständen festlegen.
 
 ## 3 Kontrollrechte der betroffenen Person
 
 #### § 14
 
-**Register**
+**Verzeichnis der Datenbearbeitungstätigkeiten**
 
-<sup>1</sup> Jedes Gemeinwesen führt über seine Datensammlungen ein Register.
+<sup>1</sup> Die von der obersten Verwaltungsbehörde des Gemeinwesens bezeichneten Organe und das Kantonsgericht führen ein Verzeichnis über die Datenbearbeitungstätigkeiten in ihrem Zuständigkeitsbereich.
 
-<sup>2</sup> Nicht in das Register aufgenommen werden Datensammlungen, die
+<sup>2</sup> Das Verzeichnis ist öffentlich. Es nennt mindestens
 
-- a. nur kurzfristig geführt werden,
-- b. rechtmässig veröffentlicht sind.
+- a. die Kontaktdaten,
+- b. die Rechtsgrundlage und den Zweck der Datenbearbeitung,
+- c. die Kategorien der betroffenen Personen und der bearbeiteten Personendaten,
+- d. die Kategorien der Empfängerinnen und Empfänger.
 
-<sup>3</sup> Das Register enthält für jede Datensammlung Angaben über die Rechtsgrundlage, den Zweck, die Mittel und Verfahren des Bearbeitens, die Art und Herkunft der Personendaten und deren regelmässige Empfänger, den Inhaber der Datensammlung, andere an der Datensammlung beteiligte Organe sowie das Vorhandensein und den Aufbewahrungsort von Kopien.
+<sup>3</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
 
 #### § 15
 
 **Auskunft**
 
-<sup>1</sup> Jede Person kann mündlich oder schriftlich Auskunft verlangen
+<sup>1</sup> Jede Person kann beim verantwortlichen Organ mündlich oder schriftlich Auskunft verlangen, ob Personendaten über sie vorhanden sind. Sie hat sich über ihre Identität auszuweisen.
 
-- a. beim Organ, welches das Register führt, über dessen Inhalt,
-- b. beim Inhaber der Datensammlung, ob über sie Personendaten bearbeitet werden. Sie hat sich über ihre Identität auszuweisen.
+- a. …
+- b. …
 
-<sup>2</sup> Der Inhaber der Datensammlung gibt ihr unter Hinweis auf die Angaben gemäss § 14 Absatz 3 Auskunft über alle in der Datensammlung über sie vorhandenen Personendaten.
+<sup>2</sup> Das Organ muss der betroffenen Person mindestens Auskunft geben über
 
-<sup>3</sup> Die Auskunft wird in allgemein verständlicher Form auf Verlangen mündlich oder schriftlich erteilt. Soweit die Mittel und Verfahren des Bearbeitens es zulassen, ist Einsicht in das Register oder in die Personendaten zu gewähren.
+- a. die über sie vorhandenen Personendaten,
+- b. die Rechtsgrundlage und den Zweck der Datenbearbeitung,
+- c. soweit möglich die Herkunft der Personendaten und allfällige Empfänger bei Weitergabe,
+- d. die Aufbewahrungsdauer der Personendaten oder die Kriterien für die Festlegung der Aufbewahrungsdauer,
+- e. ihre Rechte, insbesondere auf Berichtigung unrichtiger Personendaten.
+
+<sup>3</sup> Die Auskunft wird in allgemein verständlicher Form auf Verlangen mündlich oder schriftlich erteilt. Soweit die Mittel und Verfahren des Bearbeitens es zulassen, ist Einsicht in die Personendaten zu gewähren.
 
 <sup>4</sup> Kann die Auskunft oder Einsicht der Person selbst nicht gewährt werden, weil sie dadurch zu stark belastet werden könnte oder andere wichtige Gründe dagegen sprechen, kann sie einer Person ihres Vertrauens gewährt werden.
 
@@ -269,9 +343,9 @@ beschliesst:
 
 **Berichtigung**
 
-<sup>1</sup> Jede Person kann vom Inhaber der Datensammlung verlangen, dass unrichtige Personendaten über sie berichtigt werden.
+<sup>1</sup> Jede Person kann vom verantwortlichen Organ verlangen, dass unrichtige Personendaten über sie berichtigt werden.
 
-<sup>2</sup> Bestreitet der Inhaber der Datensammlung die Unrichtigkeit, hat er die Richtigkeit der Personendaten zu beweisen. Die betroffene Person hat im Rahmen des Zumutbaren bei der Abklärung mitzuwirken.
+<sup>2</sup> Bestreitet das Organ die Unrichtigkeit, hat es die Richtigkeit der Personendaten zu beweisen. Die betroffene Person hat im Rahmen des Zumutbaren bei der Abklärung mitzuwirken.
 
 <sup>3</sup> Kann weder die Richtigkeit noch die Unrichtigkeit von Personendaten, insbesondere von solchen, die eine Wertung enthalten, bewiesen werden, kann die betroffene Person einen entsprechenden Vermerk aufnehmen lassen.
 
@@ -279,16 +353,16 @@ beschliesst:
 
 **Andere Ansprüche**
 
-<sup>1</sup> Jede Person kann vom Inhaber der Datensammlung verlangen, dass
+<sup>1</sup> Jede Person kann vom verantwortlichen Organ verlangen, dass
 
 - a. ein widerrechtliches Bearbeiten von Personendaten unterlassen wird,
-- b. unbefugt bearbeitete Personendaten vernichtet oder die Folgen sonst wie beseitigt werden.
+- b. unbefugt bearbeitete Personendaten gelöscht oder vernichtet oder die Folgen sonst wie beseitigt werden.
 
 <sup>2</sup> Weist die betroffene Person ein schutzwürdiges Interesse nach,
 
 - a. ist die Widerrechtlichkeit einer Bearbeitung durch das verantwortliche Organ festzustellen,
 - b. ist der Entscheid des angegangenen Organs den von ihr bezeichneten Organen und Dritten bekanntzugeben,
-- c. kann sie vom verantwortlichen Organ verlangen, dass es die Bekanntgabe von bestimmten Personendaten sperrt.
+- c. kann sie vom verantwortlichen Organ verlangen, dass es die Bearbeitung von bestimmten Personendaten einschränkt und insbesondere die Bekanntgabe von bestimmten Personendaten sperrt.
 
 <sup>3</sup> Das Organ kann die Sperrung verweigern, wenn
 
@@ -297,11 +371,11 @@ beschliesst:
 
 #### § 19
 
-**Ablehnung des Begehrens**
+**Entscheid und Mitteilung**
 
 <sup>1</sup> Soweit das angegangene Organ dem Begehren um Auskunft, Einsicht, Berichtigung oder Erfüllung eines Anspruchs gemäss § 18 nicht entspricht, erlässt es einen Entscheid.
 
-<sup>2</sup> Werden überwiegende öffentliche oder private Interessen Dritter im Sinn von § 16 bereits durch die Eröffnung von Gründen zur Einschränkung der Auskunft gefährdet, kann die Einschränkung ohne Entscheid vorgenommen werden. Der Beauftragte für den Datenschutz ist unverzüglich darüber zu informieren.
+<sup>2</sup> …
 
 #### § 20
 
@@ -309,71 +383,100 @@ beschliesst:
 
 <sup>1</sup> Die Ausübung der Kontrollrechte ist kostenfrei. Der Regierungsrat regelt die Ausnahmen. Er kann namentlich dann Kosten vorsehen, wenn ein unverhältnismässiger Aufwand damit verbunden ist.
 
-## 4 Rechtsschutz, Aufsicht, Strafbestimmung
+## 4 Aufsicht
 
 #### § 21
 
-**Rechtsschutz**
-
-<sup>1</sup> Die Anfechtung von Entscheiden, die in Anwendung dieses Gesetzes erlassen werden, richtet sich, unter Einschluss der Kosten des Verfahrens, nach dem Gesetz über die Verwaltungsrechtspflege[^21-1].
-
-<sup>2</sup> Der Beauftragte für den Datenschutz ist zur Anfechtung von Entscheiden im Sinn von § 24 Absatz 4 befugt.
-
-[^21-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
+**…**
 
 #### § 22
 
-**Aufsicht**
+**Aufsichtsstelle**
 
-<sup>1</sup> Der Regierungsrat wählt als kantonale Aufsichtsstelle einen Beauftragten für den Datenschutz. Die Wahl bedarf der Genehmigung durch den Kantonsrat[^22-1].
+<sup>1</sup> Der Kantonsrat wählt auf Antrag des Regierungsrates einen Beauftragten oder eine Beauftragte für den Datenschutz auf eine Amtsdauer von vier Jahren. Wiederwahl ist möglich.
 
-<sup>2</sup> Der Beauftragte ist fachlich selbständig und unabhängig; administrativ ist er der Staatskanzlei zugeordnet.
+<sup>1<sup>bis</sup></sup> Bei der erstmaligen Wahl des oder der Beauftragten legt der Regierungsrat jeweils den Besoldungsrahmen und die Besoldungsentwicklung fest.
 
-<sup>3</sup> Die dem Gesetz unterstellten Gemeinwesen können eine eigene Aufsichtsstelle schaffen. Der Beauftragte für den Datenschutz übt in diesem Fall die Oberaufsicht aus.
+<sup>1<sup>ter</sup></sup> Der Regierungsrat kann das Arbeitsverhältnis aus wichtigen Gründen vor Ablauf der Amtsdauer auflösen. Die Auflösung aus wichtigen Gründen bedarf der Genehmigung durch die Geschäftsleitung des Kantonsrates.
 
-[^22-1]: Gemäss Änderung vom 28. April 2008, in Kraft seit dem 1. August 2008 (G 2008 256), wurde in den §§ 22 und 23 die Bezeichnung «Grosser Rat» durch «Kantonsrat» ersetzt.
+<sup>2</sup> Der oder die Beauftragte ist fachlich selbständig und unabhängig; administrativ ist er oder sie der Staatskanzlei zugeordnet.
+
+<sup>3</sup> …
+
+#### § 22a
+
+**Wählbarkeit, Unvereinbarkeiten**
+
+<sup>1</sup> Wählbar als Beauftragter oder Beauftragte für den Datenschutz ist eine in Datenschutzfragen ausgewiesene Fachperson.
+
+<sup>2</sup> Er oder sie darf kein anderes öffentliches Amt ausüben.
+
+<sup>3</sup> Das zuständige Organ des Gemeinwesens kann eine Nebenbeschäftigung bewilligen, soweit diese die Ausübung des Amtes, insbesondere die Unabhängigkeit des Amtsinhabers oder der Amtsinhaberin, nicht beeinträchtigt.
+
+#### § 22b
+
+**Finanz- und Personalkompetenzen**
+
+<sup>1</sup> Der oder die Beauftragte für den Datenschutz verfügt über die im Voranschlag bewilligten Kredite in eigener Kompetenz.
+
+<sup>2</sup> Er oder sie ist für alle personalrechtlichen Entscheide betreffend seine oder ihre Mitarbeiterinnen und Mitarbeiter zuständig, insbesondere für die Begründung, die Umgestaltung und die Beendigung von Arbeitsverhältnissen. Im Übrigen finden die Bestimmungen des Personalgesetzes vom 26. Juni 2001[^22b-1] Anwendung.
+
+[^22b-1]: SRL Nr. [51](https://srl.lu.ch/data/51/de)
 
 #### § 23
 
 **Aufgaben**
 
-<sup>1</sup> Der Beauftragte für den Datenschutz
+<sup>1</sup> Der oder die Beauftragte für den Datenschutz
 
 - a. überwacht die Einhaltung der Vorschriften über den Datenschutz,
-- b. berät die verantwortlichen Organe in Fragen des Datenschutzes und der Datensicherung,
-- c. erteilt den betroffenen Personen Auskunft über ihre Rechte,
-- d. vermittelt zwischen Organen und Personen in allen Anständen über den Datenschutz, namentlich bei Begehren um Auskunft, Berichtigung und Unterlassung,
-- e. reicht in hängigen Verfahren auf Ersuchen von entscheidenden Organen oder Rechtsmittelbehörden Stellungnahmen zu Datenschutzfragen ein,
-- f. orientiert die Organe über wesentliche Anliegen des Datenschutzes,
+- b. verfolgt die massgeblichen Entwicklungen und berät die verantwortlichen Organe in Fragen des Datenschutzes,
+- c. erteilt den betroffenen Personen Auskunft über ihre Rechte und behandelt aufsichtsrechtliche Anzeigen innert angemessener Frist,
+- c<sup>bis</sup>. gibt gegenüber den Organen Empfehlungen zu Datenbearbeitungen ab,
+- d. …
+- e. reicht in hängigen Verfahren auf Ersuchen von entscheidenden Organen oder Rechtsmittelbehörden und in Vernehmlassungsverfahren zu Entwürfen von rechtsetzenden Erlassen Stellungnahmen zu Datenschutzfragen ein,
+- f. orientiert die Organe und die Öffentlichkeit über wesentliche Anliegen des Datenschutzes,
 - g. sorgt für die Instruktion der Mitarbeiter von Organen über den Datenschutz,
-- h. kontrolliert im Voraus Bearbeitungsmethoden, welche die Persönlichkeit einer grösseren Anzahl von Personen verletzen könnten,
+- h. nimmt zu Datenbearbeitungen Stellung, die ein hohes Risiko für Verletzungen von Persönlichkeits- und Grundrechten der betroffenen Personen bergen,
 - i. veröffentlicht Stellungnahmen,
 - j. arbeitet mit den Kontrollorganen der anderen Kantone, des Bundes und des Auslandes zusammen,
-- k. erstattet dem Regierungsrat jährlich Bericht über seine Tätigkeit und stellt gleichzeitig der Aufsichts- und Kontrollkommission des Kantonsrates eine Kopie zu; der Bericht wird öffentlich zugänglich gemacht.
+- k. …
 
-<sup>2</sup> Er führt für den Kanton das Register über die Datensammlungen.
+<sup>2</sup> …
+
+<sup>3</sup> Der oder die Beauftragte erstattet dem Regierungsrat jährlich Bericht über die Schwerpunkte der Tätigkeit der Aufsichtsstelle. Er oder sie stellt den Tätigkeitsbericht der Aufsichts- und Kontrollkommission sowie der Planungs- und Finanzkommission des Kantonsrates zu und veröffentlicht ihn im Internet. Regierungsrat und Kantonsrat nehmen vom Bericht Kenntnis.
 
 #### § 24
 
 **Befugnisse**
 
-<sup>1</sup> Die verantwortlichen Organe[^24-1] sind verpflichtet, den Beauftragten für den Datenschutz bei der Erfüllung seiner Aufgaben zu unterstützen.
+<sup>1</sup> Die verantwortlichen Organe sind verpflichtet, den Beauftragten oder die Beauftragte für den Datenschutz bei der Erfüllung seiner oder ihrer Aufgaben zu unterstützen.
 
-<sup>2</sup> Der Beauftragte kann ungeachtet allfälliger Geheimhaltungsvorschriften bei Organen schriftlich und mündlich Auskünfte über das Bearbeiten von Personendaten einholen, Einsicht in Datensammlungen und ihre Unterlagen nehmen und sich das Bearbeiten von Personendaten vorführen lassen.
+<sup>2</sup> Der oder die Beauftragte kann ungeachtet allfälliger Geheimhaltungsvorschriften bei Organen schriftlich und mündlich Auskünfte über das Bearbeiten von Personendaten einholen, Einsicht in alle Daten und weitere Unterlagen nehmen und sich das Bearbeiten von Personendaten vorführen lassen.
 
-<sup>3</sup> Ergibt die Abklärung, dass Datenschutzvorschriften verletzt werden, fordert der Beauftragte das verantwortliche oder dessen vorgesetztes Organ auf, die erforderlichen Massnahmen zu ergreifen.
+<sup>3</sup> Ergibt die Abklärung, dass Datenschutzvorschriften verletzt werden, kann der oder die Beauftragte eine Empfehlung abgeben. Das Organ hat zu erklären, ob es der Empfehlung Folge leisten wird.
 
-<sup>4</sup> Folgt das Organ einer Aufforderung des Beauftragten nicht, erlässt es einen Entscheid.
+<sup>4</sup> Leistet das Organ der Empfehlung nicht Folge, kann der oder die Beauftragte entsprechende Massnahmen verfügen. Vorsorgliche Verfügungen bleiben vorbehalten.
 
-<sup>5</sup> Der Beauftragte darf unter Vorbehalt besonderer Geheimhaltungsvorschriften Kenntnisse, die er bei seiner Tätigkeit erlangt, nur so weit bekanntgeben, als es zur Erfüllung seiner Aufgabe notwendig ist. Die Geheimhaltungspflicht besteht nach Beendigung des Dienstverhältnisses weiter.
+<sup>5</sup> Der oder die Beauftragte darf unter Vorbehalt besonderer Geheimhaltungsvorschriften Kenntnisse, die er oder sie bei seiner oder ihrer Tätigkeit erlangt, nur so weit bekanntgeben, als es zur Erfüllung seiner oder ihrer Aufgabe notwendig ist. Die Geheimhaltungspflicht besteht nach Beendigung des Dienstverhältnisses weiter.
 
-[^24-1]: Gemäss Gesetz über die Videoüberwachung vom 20. Juni 2011, in Kraft seit dem 1. Januar 2012 (G 2011 229), wurde in § 24 die Bezeichnung «Behörde» durch die Bezeichnung «Organ» ersetzt.
+## 4a Strafbestimmung und Rechtsschutz
 
 #### § 24a
 
 **Strafbestimmung**
 
 <sup>1</sup> Wer Personendaten im Auftrag bearbeitet und sich dabei vorsätzlich auftragswidrig verhält, wird auf Antrag mit Busse bestraft.
+
+#### § 24b
+
+**Rechtsschutz**
+
+<sup>1</sup> Die Anfechtung von Entscheiden, die in Anwendung dieses Gesetzes erlassen werden, richtet sich, unter Einschluss der Kosten des Verfahrens, nach dem Gesetz über die Verwaltungsrechtspflege[^24b-1].
+
+<sup>2</sup> Entscheide des oder der Beauftragten für den Datenschutz sind mit Verwaltungsgerichtsbeschwerde beim Kantonsgericht anfechtbar. Zur Beschwerde befugt sind die betroffenen Organe. Dem Kantonsgericht steht auch die Ermessenskontrolle zu.
+
+[^24b-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
 
 ## 5 Schlussbestimmungen
 
@@ -385,11 +488,13 @@ beschliesst:
 
 #### § 26
 
-**Übergangsbestimmung**
+**…**
 
-<sup>1</sup> Innert zwei Jahren nach Inkrafttreten des Gesetzes haben die Gemeinwesen ihre Datensammlungen dem neuen Recht anzupassen.
+#### § 26a
 
-<sup>2</sup> Die Erstellung der Register ist unverzüglich an die Hand zu nehmen.
+**Übergangsbestimmung zur Änderung vom 10. Mai 2021**
+
+<sup>1</sup> Die erstmalige Wahl des oder der Beauftragten für den Datenschutz auf Amtsdauer gemäss § 22 Absatz 1 findet auf den 1. Januar 2022 für den Rest der Amtsdauer 2019–2023 statt. Der bisherige Mandatsträger übt das Amt bis 31. Dezember 2021 aus und kann wiedergewählt werden.
 
 #### § 27
 
