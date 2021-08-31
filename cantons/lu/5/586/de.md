@@ -4,13 +4,12 @@ number: "586"
 title: Verordnung zum Archivgesetz
 short: Archivverordnung
 language: de
-version: 2017-04-01
-valid_until: 2021-08-31
-version_adopted: 2017-03-14
+version: 2021-09-01
+version_adopted: 2021-08-23
 adopted: 2003-12-09
 in_force: 2004-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/586"
-pdf: "https://srl.lu.ch/api/de/versions/3038/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3810/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3038/pdf_file"
 
 (Archivverordnung)
 
-vom 09.12.2003 (Stand 01.04.2017)
+vom 09.12.2003 (Stand 01.09.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -75,9 +74,9 @@ beschliesst:
 
 **Aktenführung**
 
-<sup>1</sup> Die öffentlichen Organe sorgen für eine ordnungsgemässe Aktenführung und eine systematische Ablage.
+<sup>1</sup> Die öffentlichen Organe sorgen für eine systematische und ordnungsgemässe Aktenführung.
 
-<sup>2</sup> Die Unterlagen sind regelmässig und vollständig in die Ablage überzuführen.
+<sup>2</sup> …
 
 #### § 4
 
@@ -85,7 +84,7 @@ beschliesst:
 
 <sup>1</sup> Die öffentlichen Organe bewahren ihre Unterlagen sachgerecht und sicher auf und bewahren sie vor Missbrauch, Beschädigung und Verlust.
 
-<sup>2</sup> Sie sind für die Unterlagen bis zur Ablieferung an das Staatsarchiv verantwortlich im Sinn des Datenschutzgesetzes vom 2. Juli 1990[^4-1].
+<sup>2</sup> Sie sind für die Unterlagen bis zur Ablieferung an das Staatsarchiv verantwortlich im Sinn des Kantonalen Datenschutzgesetzes vom 2. Juli 1990[^4-1].
 
 [^4-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de)
 
@@ -112,6 +111,12 @@ beschliesst:
 - a. den Umfang einer Ablieferung (Anzahl Bände, Schachteln usw.),
 - b. den Inhalt der Lieferung,
 - c. den Zeitraum, den die Unterlagen abdecken (Datum der ältesten und der jüngsten Aufzeichnung).
+
+#### § 6a
+
+**Vereinbarung über Unterlagensicherung**
+
+<sup>1</sup> Das Staatsarchiv kann mit den öffentlichen Organen das Nähere zur Sicherung der Unterlagen nach den §§ 3-6 in den elektronischen Informations-, Geschäftsverwaltungs- und Dokumentationssystemen durch Vereinbarung regeln.
 
 #### § 7
 
