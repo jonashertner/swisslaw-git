@@ -4,13 +4,13 @@ number: "51"
 title: Gesetz über das öffentlich-rechtliche Arbeitsverhältnis
 short: "Personalgesetz, PG"
 language: de
-version: 2020-08-01
-valid_until: 2021-08-31
-version_adopted: 2019-02-18
+version: 2021-09-01
+valid_until: 2025-12-31
+version_adopted: 2021-05-10
 adopted: 2001-06-26
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/51"
-pdf: "https://srl.lu.ch/api/de/versions/3605/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3794/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3605/pdf_file"
 
 (Personalgesetz, PG)
 
-vom 26.06.2001 (Stand 01.08.2020)
+vom 26.06.2001 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -821,7 +821,7 @@ Es gelten folgende Abweichungen:
 
 <sup>2</sup> Wurde die oder der Angestellte durch den Regierungsrat gewählt, ist die Vorsteherin oder der Vorsteher des Departementes, dessen Dienstaufsicht die oder der Angestellte untersteht, für die übrigen personalrechtlichen Entscheide zuständig. Personalrechtliche Entscheide im Sinn von § 70 Absatz 1 erlässt der Regierungsrat.
 
-<sup>3</sup> Wurde die oder der Angestellte von einem gesetzgebenden Organ gewählt, ist die oberste Dienstaufsichtsbehörde für die übrigen personalrechtlichen Entscheide zuständig. Ist der Regierungsrat oberste Dienstaufsichtsbehörde, gilt Absatz 2. Für die dem Kantonsgericht unterstellten Gerichte und Organisationseinheiten gilt die Verordnung des Kantonsgerichtes.
+<sup>3</sup> Wurde die oder der Angestellte von einem gesetzgebenden Organ gewählt, ist die oberste Dienstaufsichtsbehörde für die übrigen personalrechtlichen Entscheide zuständig. Ist der Regierungsrat oberste Dienstaufsichtsbehörde, gilt Absatz 2. Für die der Staatskanzlei administrativ zugeordneten Funktionen ist der Staatsschreiber oder die Staatsschreiberin zuständig. Für die dem Kantonsgericht unterstellten Gerichte und Organisationseinheiten gilt die Verordnung des Kantonsgerichtes.
 
 ### 9.3 Rechtsschutz
 
