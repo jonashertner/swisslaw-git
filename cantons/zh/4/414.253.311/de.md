@@ -3,28 +3,29 @@ canton: ZH
 number: "414.253.311"
 title: "Studienordnung für die Bachelorstudiengänge Applied Digital Life Sciences, Biomedizinische Labordiagnostik, Biotechnologie, Chemie, Facility Management, Food Science und Umweltingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2021-09-01
+version: "2021-09-01"
+nachtrag: "114"
+valid_until: 2021-11-01
 adopted: 2009-11-12
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_311-2009_11_12-2010_03_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_311-2009_11_12-2010_03_01-114.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Studienordnung für die Bachelorstudiengänge Biotechnologie, Chemie, Lebensmitteltechnologie, Umweltingenieurwesen und Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften
+# Studienordnung für die Bachelorstudiengänge Biomedizinische Labordiagnostik, Biotechnologie, Chemie, Facility Management, Lebensmitteltechnologie und Umweltingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften
 
-(vom 12. November 2009)[^t-1]
+(vom 12. November 2009)[^t-2][^t-1]
 
 Die Hochschulleitung,
 
-gestützt auf § 2 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) vom 29. Januar 2008[^t-2],
+gestützt auf § 2 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) vom 29. Januar 2008[^t-3],
 
 beschliesst:
 
-[^t-1]: OS 65, 31. Vom Fachhochschulrat genehmigt am 15. Dezember 2009.
-[^t-2]: LS 414.252.3.
+[^t-1]: Fassung gemäss B vom 20. August 2020 (OS 76, 234; ABl 2021-04-30). In Kraft seit 1. September 2021.
+[^t-2]: OS 65, 31. Vom Fachhochschulrat genehmigt am 15. Dezember 2009.
+[^t-3]: LS 414.252.3.
 
 ### A. Allgemeine Bestimmungen
 
@@ -40,15 +41,13 @@ Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung 
 
 § 2.[^1-1] Einzelheiten zu den Studiengängen, zu den zu belegenden Modulen, den Modulgruppen, den Modultypen und der Anzahl ECTS-Credits pro Modul, werden in einem Anhang geregelt.
 
-[^1-1]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 7
-
-#### § 3
-
 **Studiengänge und Studienform**
 
-<sup>1</sup> Am Departement Life Sciences und Facility Management der ZHAW können in den aufgeführten Bachelorstudiengängen folgende Vertiefungen angeboten werden:
+§ 3.[^1-2] <sup>1</sup> Am Departement Life Sciences und Facility Management der ZHAW werden die Bachelorstudiengänge Biomedizinische Labordiagnostik, Biotechnologie, Chemie, Facility Management, Lebensmitteltechnologie und Umweltingenieurwesen angeboten.
 
-a.[^3-1] Biotechnologie – Bioprozessentwicklung und Bioengineering,
+<sup>2</sup> In den nachfolgend aufgeführten Bachelorstudiengängen können folgende Vertiefungen angeboten werden:
+
+a.[^1-1] Biotechnologie – Bioprozessentwicklung und Bioengineering,
 
 - Molekular-, Mikro- und Zellbiologie,
 
@@ -60,21 +59,19 @@ a.[^3-1] Biotechnologie – Bioprozessentwicklung und Bioengineering,
 
 **1**
 
-- 1\. 1. 21 - 111 c.[^3-2] Facility Management
-
-- Immobilien,
+1.10. 21 - 114 c.[^1-3] Facility Management – Immobilien,
 
 - Gebäudesysteme,
 
 - Services und Events,
 
-- Workplace, d.[^3-3] Lebensmitteltechnologie
+- Workplace, d.[^1-4] Lebensmitteltechnologie
 
 - Food Safety and Quality,
 
 - Food Management and Sustainability,
 
-- Food Processing and Automation, e.[^3-4] Umweltingenieurwesen
+- Food Processing and Automation, e.[^1-5] Umweltingenieurwesen
 
 - Umweltsysteme und Nachhaltige Entwicklung,
 
@@ -86,18 +83,19 @@ a.[^3-1] Biotechnologie – Bioprozessentwicklung und Bioengineering,
 
 - Urbane Ökosysteme.
 
-<sup>2</sup> Die Bachelorstudiengänge können als Vollzeit- und als Teilzeitstudium angeboten werden.
+<sup>3</sup> Die Bachelorstudiengänge können als Vollzeit- und als Teilzeitstudium angeboten werden.
 
-[^3-1]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 7
-[^3-2]: Fassung gemäss B vom 23. August 2018 (OS 74, 24; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
-[^3-3]: Fassung gemäss B vom 22. August 2019 (OS 75, 32; ABl 2019-11-01). In Kraft seit 1. April 2020.
-[^3-4]: Fassung gemäss B vom 10. Mai 2016 (OS 71, 235; ABl 2016-06-10). In Kraft seit 1. August 2016.
+[^1-1]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+[^1-2]: Fassung gemäss B vom 20. August 2020 (OS 76, 234; ABl 2021-04-30). In Kraft seit 1. September 2021.
+[^1-3]: Fassung gemäss B vom 23. August 2018 (OS 74, 24; ABl 2018-12-07). In Kraft seit 1. Februar 2019. 1.10. 21 - 114 7
+[^1-4]: Fassung gemäss B vom 22. August 2019 (OS 75, 32; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^1-5]: Fassung gemäss B vom 10. Mai 2016 (OS 71, 235; ABl 2016-06-10). In Kraft seit 1. August 2016.
 
 #### § 4
 
 **Anrechnung von ECTS-Credits15**
 
-An der ZHAW oder andernorts erworbene ECTS-Credits[^3-1] können höchstens zehn Jahre ab dem Semester ihres Erwerbs angerechnet werden. Über Ausnahmen entscheidet die Studienleitung.
+An der ZHAW oder andernorts erworbene ECTS-Credits[^1-1] können höchstens zehn Jahre ab dem Semester ihres Erwerbs angerechnet werden. Über Ausnahmen entscheidet die Studienleitung.
 
 ### B. Zulassung zum Studium
 
@@ -113,7 +111,7 @@ Für nicht prüfungsfrei zugelassene Studienanwärterinnen und Studienanwärter 
 
 ### C. Eintritt ins dritte Semester
 
-[^hCEintrittinsdrit-1]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 7
+[^hCEintrittinsdrit-1]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
 #### § 7
 
@@ -161,6 +159,20 @@ Die Bachelorarbeit ist eine praxisbezogene Arbeit. Sie wird mit einem schriftlic
 
 Für Leistungsnachweise in der Bachelorarbeit kann eine einmalige Nachbesserung erbracht werden, wenn die Gesamtbewertung der Bachelorarbeit zwischen 3,5 und 3,9 liegt. Für eine erfolgreiche Nachbesserung wird die Note 4,0 erteilt.
 
+**Praxismodule**
+
+§ 12 a.[^12-1] <sup>1</sup> Im Studiengang Biomedizinische Labordiagnostik werden Praxismodule in ausgewählten Institutionen des Gesundheitswesens oder der Industrie durchgeführt (z.B. Laboratorien von Spitälern, Privat- und Industrielaboren).
+
+<sup>2</sup> Die Organisation der Module obliegt der ZHAW.
+
+<sup>3</sup> Die Wiederholung eines Praxismoduls ist ausgeschlossen, wenn schwerwiegende Gründe, die in der Person der oder des Studierenden liegen, einer Wiederholung des Praktikums entgegenstehen. Die Studienleitung entscheidet.
+
+**3**
+
+1.10. 21 - 114
+
+[^12-1]: Eingefügt durch B vom 20. August 2020 (OS 76, 234; ABl 2021-04-30). In Kraft seit 1. September 2021.
+
 ### E. Module und Kurse
 
 #### § 13
@@ -169,11 +181,9 @@ Für Leistungsnachweise in der Bachelorarbeit kann eine einmalige Nachbesserung 
 
 Ein Modul ist bestanden, wenn a. die Modulnote 4,00 oder die Modulgruppennote, zu welcher das Modul gehört, 4,00 erreicht ist und b. keine Kursnote unter 2,5 liegt und c. alle Kurse, die nicht benotet werden, bestanden sind.
 
-**3**
-
-- 1\. 1. 21 - 111 § 14.[^13-1] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
-
 **Überzählige ECTS-Credits15 aus Wahlpflichtmodulen**
+
+§ 14.[^13-1] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
 
 <sup>2</sup> Die Studienleitung regelt,
 
@@ -201,6 +211,8 @@ Der Termin für die Anmeldungen wird von der Studienleitung bekannt gegeben. Bei
 
 § 16.[^hFStudienabschluss-1] Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:
 
+- Bachelor of Science ZFH in Biomedizinischer Labordiagnostik,
+
 - Bachelor of Science ZFH in Biotechnologie mit Vertiefung in [gewählte Vertiefungsrichtung],
 
 - Bachelor of Science ZFH in Chemie mit Vertiefung in [gewählte Vertiefungsrichtung],
@@ -211,20 +223,21 @@ Der Termin für die Anmeldungen wird von der Studienleitung bekannt gegeben. Bei
 
 - Bachelor of Science ZFH in Umweltingenieurwesen mit Vertiefung in [gewählte Vertiefungsrichtung].
 
-[^hFStudienabschluss-1]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 7
+[^hFStudienabschluss-1]: Fassung gemäss B vom 20. August 2020 (OS 76, 234; ABl 2021-04-30). In Kraft seit 1. September 2021.
+[^hFStudienabschluss-2]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
 #### § 17
 
 **Bestehensvoraussetzungen**
 
-Das Studium ist bestanden, wenn aus Pflicht- und Wahlpflichtmodulen des Studienganges gemäss Anhang 180 ECTS-Credits[^hFStudienabschluss-1] erworben oder anerkannt wurden.
+Das Studium ist bestanden, wenn aus Pflicht- und Wahlpflichtmodulen des Studienganges gemäss Anhang 180 ECTS-Credits[^hFStudienabschluss-2] erworben oder anerkannt wurden.
 
 **Abschlussnote**
 
 § 18.[^17-1] Die Abschlussnote setzt sich aus den Noten aller promotionsrelevanten Module zusammen. Die Modulnoten werden nach ECTS-Credits[^17-2] gewichtet.
 
 [^17-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 32; ABl 2019-11-01). In Kraft seit 1. April 2020.
-[^17-2]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 7
+[^17-2]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
 ### G. Schluss- und Übergangsbestimmungen
 
@@ -254,6 +267,10 @@ Das Studium ist bestanden, wenn aus Pflicht- und Wahlpflichtmodulen des Studieng
 
 § 21.[^hHÜbergangsbestimmu-1] Studierende, die ihr Studium vor dem Herbstsemester 2015/ 2016 aufgenommen und dieses bis Ende Frühlingssemester 2017 beendet haben, schliessen mit den Vertiefungstiteln gemäss der vor der Änderung vom 26. März 2015 geltenden Regelung ab.
 
+**5**
+
+1.10. 21 - 114
+
 [^hHÜbergangsbestimmu-1]: Eingefügt durch B vom 26. März 2015 (OS 70, 173; ABl 2015-04-24). In Kraft seit 1. August 2015.
 [^hHÜbergangsbestimmu-2]: Eingefügt durch B vom 10. Mai 2016 (OS 71, 235; ABl 2016-06-10). In Kraft seit 1. August 2016.
 
@@ -264,10 +281,6 @@ Das Studium ist bestanden, wenn aus Pflicht- und Wahlpflichtmodulen des Studieng
 **Studiengang Umweltingenieurwesen**
 
 § 22.[^hIÜbergangsbestimmu-1] Für Studierende, die ihr Studium vor dem Herbstsemester 2016/2017 aufgenommen haben, richten sich die Vertiefungstitel nach den Übergangsbestimmungen gemäss Anhang zur Studienordnung.
-
-**5**
-
-- 1\. 1. 21 - 111
 
 [^hIÜbergangsbestimmu-1]: Eingefügt durch B vom 10. Mai 2016 (OS 71, 235; ABl 2016-06-10). In Kraft seit 1. August 2016.
 [^hIÜbergangsbestimmu-2]: Eingefügt durch B vom 23. August 2018 (OS 74, 24; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
@@ -309,17 +322,21 @@ Das Studium ist bestanden, wenn aus Pflicht- und Wahlpflichtmodulen des Studieng
 <sup>2</sup> Studierende im Teilzeitstudium, die ihr Studium auf Herbstsemester 2019/2020 oder 2020/2021 aufgenommen haben, schliessen mit den Vertiefungstiteln gemäss der nach der Änderung vom 20. August 2020 geltenden Regelung ab.
 
 [^hLÜbergangsbestimmu-1]: Eingefügt durch B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
-[^hLÜbergangsbestimmu-2]: Fassung gemäss B vom 20. August 2020 (OS 75, 574; ABl 2020-10-23). In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 7
+[^hLÜbergangsbestimmu-2]: Fassung gemäss B vom 20. August 2020 (OS 76, 234; ABl 2021-04-30). In Kraft seit 1. September 2021.
 
-### Anhang zur Studienordnung für die Bachelorstudiengänge Biotechnologie, Chemie, Facility Management, Lebensmitteltechnologie und Umweltingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften
+### Anhang zur Studienordnung für die Bachelorstudiengänge Biomedizinische Labordiagnostik, Biotechnologie, Chemie, Facility Management, Lebensmitteltechnologie und Umweltingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften
 
 [^hLÜbergangsbestimmu-2]
 
-Der Anhang zur Studienordnung für die Bachelorstudiengänge Biotechnologie, Chemie, Facility Management, Lebensmitteltechnologie und Umweltingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
+Der Anhang zur Studienordnung für die Bachelorstudiengänge Biomedizinische Labordiagnostik, Biotechnologie, Chemie, Facility Management, Lebensmitteltechnologie und Umweltingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
 Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter (www.zhaw.ch) eingesehen werden.
+
+**9**
+
+1.10. 21 - 114
 
 ## Weitere Fussnoten
 
