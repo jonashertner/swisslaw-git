@@ -4,13 +4,13 @@ number: "36"
 title: "Verordnung über die Organisation, die Führung und die Kontrolle der kantonalen Verwaltung"
 short: "Organisationsverordnung, OV"
 language: de
-version: 2017-09-01
-valid_until: 2021-08-31
-version_adopted: 2017-07-04
+version: 2021-09-01
+valid_until: 2023-02-28
+version_adopted: 2021-08-23
 adopted: 2017-07-04
 in_force: 2017-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/36"
-pdf: "https://srl.lu.ch/api/de/versions/3315/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3814/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3315/pdf_file"
 
 (Organisationsverordnung, OV)
 
-vom 04.07.2017 (Stand 01.09.2017)
+vom 04.07.2017 (Stand 01.09.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -148,13 +148,52 @@ beschliesst:
 
 #### § 13
 
-**Informations- und Dokumentationssysteme**
+**Informations-, Geschäftsverwaltungs- und Dokumentationssysteme**
 
-<sup>1</sup> Die kantonale Verwaltung führt die zur Nachvollziehbarkeit ihrer Tätigkeit und zur Führung der Geschäftsprozesse notwendigen elektronischen Informations- und Dokumentationssysteme.
+<sup>1</sup> Die Verwaltung führt die zur Nachvollziehbarkeit ihrer Tätigkeit geeigneten elektronischen Informations-, Geschäftsverwaltungs- und Dokumentationssysteme.
 
-<sup>2</sup> Die Dienststellen sorgen für die systematische und ordnungsgemässe Aktenführung und Geschäftskontrolle. Insbesondere stellen sie die Erfassung der geschäftsrelevanten Informationen und den sorgfältigen Umgang damit sicher.
+<sup>2</sup> Die Departemente und die Dienststellen sorgen für die systematische und ordnungsgemässe Führung der Geschäfte sowie die Erfassung der geschäftsrelevanten Informationen in den elektronischen Systemen und stellen die laufende Geschäftskontrolle sicher.
 
-<sup>3</sup> Im Übrigen gelten die Bestimmungen der Datenschutz-, der Informatik- und der Archivgesetzgebung.
+<sup>3</sup> Sie stellen den sorgfältigen Umgang mit den in den elektronischen Systemen erfassten Informationen sicher und tragen dabei insbesondere der Informations- und Datensicherheit sowie den Anforderungen der Archivierung Rechnung.
+
+#### § 13a
+
+**Übertragung von Einsendungen in ein elektronisches Format**
+
+<sup>1</sup> Die von der Staatskanzlei bezeichneten Mitarbeiterinnen und Mitarbeiter des Postdienstes sind berechtigt, die bei der Verwaltung auf dem Postweg eintreffenden Einsendungen zu öffnen. Soweit sich die darin enthaltenen Dokumente dafür eignen, werden sie in ein elektronisches Dateiformat übertragen und umgehend in das Geschäftsverwaltungssystem der Verwaltungseinheit übermittelt.
+
+<sup>2</sup> Vom Öffnen ausgenommen sind die als persönlich oder vertraulich bezeichneten Einsendungen sowie Einsendungen mit besonderen Vermerken.
+
+<sup>3</sup> Bei der Übertragung in das elektronische Dateiformat ist nach dem Stand der Technik sicherzustellen, dass das elektronische Dokument mit dem Papierdokument übereinstimmt und dass es nicht verändert werden kann, ohne dass sich dies feststellen lässt. Die bei der Übertragung erfassten Absenderdaten und die elektronischen Dokumente sind von der Staatskanzlei spätestens nach sechs Monaten zu löschen.
+
+<sup>4</sup> Die Staatskanzlei hält die Papierdokumente, die in das elektronische Format übertragen und übermittelt worden sind, während mindestens 20 Arbeitstagen seit dem Posteingang für die Dienststellen zur Verfügung.
+
+<sup>5</sup> Sie regelt das Nähere zur vollständigen Übertragung in das elektronische Format sowie zur vorübergehenden Aufbewahrung und zur Vernichtung der auf dem elektronischen Weg weitergeleiteten Postsendungen durch Weisung.
+
+<sup>6</sup> Die Staatskanzlei kann mit den Dienststellen besondere Vereinbarungen treffen.
+
+#### § 13b
+
+**Physische Aufbewahrung von Geschäftsdokumenten**
+
+<sup>1</sup> Die Dienststellen beurteilen bei der Erfassung von Dokumenten in der elektronischen Geschäftsverwaltung, ob diese zusätzlich physisch aufzubewahren sind. Sie haben insbesondere Dokumente physisch aufzubewahren,
+
+- a. bei denen dies rechtlich vorgeschrieben ist,
+- b. die benötigt werden, um einen rechtserheblichen Sachverhalt zu beweisen, insbesondere wegen handschriftlicher Unterschriften,
+- c. deren weitere Verwendung in Verfahren nach den Bestimmungen des Gesetzes über die Verwaltungsrechtspflege vom 3. Juli 1972[^13b-1] erforderlich ist,
+- d. die dem Absender oder der Absenderin der Postsendung zurückzugeben oder einem Dritten auszuhändigen sind, insbesondere Urkunden und ähnliche Nachweise.
+
+[^13b-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
+
+#### § 13c
+
+**Datenschutz**
+
+<sup>1</sup> Die Bearbeitung von Personendaten und insbesondere die Auskunft über Personendaten richten sich nach dem Kantonalen Datenschutzgesetz vom 2. Juli 1990[^13c-1].
+
+<sup>2</sup> Das berechtigte Organ der juristischen Person und der Personengesellschaft des Handelsrechts kann Auskunft darüber verlangen, ob Angaben über die eigene juristische Person oder Personengesellschaft in der Verwaltung vorhanden sind. § 15 des Kantonalen Datenschutzgesetzes gilt sinngemäss.
+
+[^13c-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de) in der geänderten Fassung vom 10. Mai 2021 (G 2021-054).
 
 ### 5.2 Führung des Departementes
 
