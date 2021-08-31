@@ -4,13 +4,13 @@ number: II A/2/3
 title: Landratsverordnung
 short: LRV
 language: de
-version: 2018-07-01
-valid_until: 2021-08-31
-version_adopted: 2018-08-29
+version: 2021-09-01
+valid_until: 2021-12-31
+version_adopted: 2019-12-04
 adopted: 1994-04-13
 in_force: 1994-06-29
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.2.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2048/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2244/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2048/pdf_file"
 
 (LRV)
 
-Vom 13.04.1994 (Stand 01.07.2018)
+Vom 13.04.1994 (Stand 01.09.2021)
 
 Der Landrat des Kantons Glarus,
 
@@ -175,6 +175,20 @@ beschliesst:
 <sup>1</sup> Der Präsident mahnt das Publikum nötigenfalls zur Ruhe und sorgt für Disziplin. Wer die Verhandlungen stört, wird nach erfolgloser Mahnung weggewiesen.
 
 <sup>2</sup> Bei fortgesetzter Störung und Kundgebungen wird die Tribüne geräumt und wenn erforderlich die Sitzung unterbrochen.
+
+#### Art. 15a
+
+**Aufzeichnung und Übertragung der Beratungen**
+
+<sup>1</sup> Die Beratungen des Landrates werden in Bild und Ton aufgezeichnet.
+
+<sup>2</sup> Die Aufzeichnungen öffentlicher Beratungen werden in Echtzeit über das Internet übertragen.
+
+<sup>3</sup> ...[^15a-1]
+
+<sup>4</sup> Das Büro regelt die Einzelheiten.
+
+[^15a-1]: Tritt zu einem späteren Zeitpunkt in Kraft.
 
 #### Art. 16
 
@@ -1199,7 +1213,7 @@ beschliesst:
 
 **Wortmeldung**
 
-<sup>1</sup> Wer zu einem in Beratung stehenden Geschäft sprechen will, meldet sich durch Handaufheben beim Präsidenten. Niemand darf sprechen, ohne das Wort erhalten zu haben.
+<sup>1</sup> Wer zu einem in Beratung stehenden Geschäft sprechen will, meldet sich beim Präsidenten. Niemand darf sprechen, ohne das Wort erhalten zu haben.
 
 <sup>2</sup> Kein Ratsmitglied soll mehr als zweimal zum selben Gegenstand sprechen; davon ausgenommen sind die Berichterstatter von Kommissionen.
 
@@ -1566,15 +1580,21 @@ beschliesst:
 - g. die Ordnungsrufe;
 - h. bei elektronischen Abstimmungen das Abstimmungsverhalten der Stimmenden.
 
-<sup>2</sup> Werden die Verhandlungen auf Tonträger aufgenommen, dienen die Aufnahmen ausschliesslich als Hilfsmittel der Protokollführung.
+<sup>2</sup> …
 
 <sup>3</sup> Das Protokoll ist innerhalb einer Amtsdauer fortlaufend zu nummerieren.
 
+<sup>4</sup> Das schriftliche, vom Büro genehmigte Protokoll ist massgebend.
+
+#### Art. 127a
+
+**Hilfsmittel**
+
+<sup>1</sup> Zur Erstellung des Protokolls können technische Hilfsmittel verwendet werden.
+
 #### Art. 128
 
-**Aufnahme im vollen Wortlaut**
-
-<sup>1</sup> Der Rat kann die Aufnahme der Verhandlungen über besonders wichtige Beratungsgegenstände im vollen Wortlaut beschliessen. Das Ratssekretariat trifft dazu die notwendigen Vorkehrungen.
+**…**
 
 #### Art. 129
 
