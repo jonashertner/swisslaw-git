@@ -3,13 +3,13 @@ canton: TG
 number: "414.26"
 title: Reglement über den Studiengang Sekundarstufe I der Pädagogischen Hochschule Thurgau
 language: de
-version: 2013-03-09
-valid_until: 2021-08-31
-version_adopted: 2012-11-16
+version: 2021-09-01
+valid_until: 2023-09-17
+version_adopted: 2020-08-31
 adopted: 2011-02-24
 in_force: 2011-03-19
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/414.26"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/631/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2382/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,29 +18,57 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/631/pdf_file"
 
 Studiengang Sekundarstufe I - Reglement PHTG
 
-vom 24.02.2011 (Stand 09.03.2013)
+vom 24.02.2011 (Stand 01.09.2021)
+
+Erlassen vom Hochschulrat der Pädagogischen Hochschule Thurgau gestützt auf § 13 Abs. 1 Ziff. 5 des Gesetzes über die tertiäre Bildung (Tertiärbildungsgesetz)[^ingress-1].
+
+[^ingress-1]: RB [414.2](https://www.rechtsbuch.tg.ch/data/414.2/de)
 
 ## 1. Allgemeine Bestimmungen
 
 #### § 1
 
-**Ausbildungsziel**
+**Ziele, Umfang und Struktur der Ausbildung**
 
-<sup>1</sup> Der Studiengang Sekundarstufe I führt zur Lehrbefähigung für die Sekundarstufe I.
+<sup>1</sup> Der Studiengang Sekundarstufe I der Pädagogischen Hochschule Thurgau (PHTG) führt zur Lehrbefähigung für die Sekundarstufe I (Schuljahre 9 bis 11) gemäss Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen[^1-1].
+
+<sup>2</sup> Es können zusätzlich Lehrbefähigungen für weitere Fächer der Sekundarstufe I erworben werden.
+
+<sup>3</sup> Ziele, Umfang, Struktur und Profilbildung des im Modulsystem konzipierten Studiengangs werden im Studienplan geregelt.
+
+[^1-1]: [https://edudoc.ch/record/202452/files/Regl\_Lehrdiplome\_d.pdf](https://edudoc.ch/record/202452/files/Regl_Lehrdiplome_d.pdf)
+
+#### § 1a
+
+**Aufnahmekommission**
+
+<sup>1</sup> Für das Zulassungs- und Aufnahmeverfahren wird eine Aufnahmekommission eingesetzt.
+
+<sup>2</sup> Sie setzt sich zusammen aus dem Prorektor oder der Prorektorin Lehre und den Leitern oder Leiterinnen Aufnahmeverfahren aller Studiengänge.
 
 #### § 2
 
 **Generelle Zulassung**
 
-<sup>1</sup> Wer über eine gymnasiale Maturität verfügt, wird ohne Aufnahmeverfahren zum Studium zugelassen.
+<sup>1</sup> Wer über eine gymnasiale Maturität oder ein schweizerisches Hochschuldiplom verfügt, wird ohne Aufnahmeverfahren zum Studium zugelassen.
 
-<sup>2</sup> Berufsmaturanden und Berufsmaturandinnen, welche eine Ergänzungsprüfung gemäss dem Reglement über die Anerkennung von Berufsmaturitätsausweisen für die Zulassung zu den universitären Hochschulen (Passerellenreglement) bestanden haben, sind wie gymnasiale Maturandinnen und Maturanden zugelassen.
+<sup>2</sup> Wer über eine Berufsmaturität oder Fachmaturität verfügt und die Ergänzungsprüfung gemäss dem Reglement der EDK über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen[^2-1] bestanden hat, ist wie Inhaber und Inhaberinnen einer gymnasialen Maturität zugelassen.
 
-<sup>3</sup> Bei Personen, die über eine ausländische Maturität oder den Abschluss einer Fachhochschule verfügen, kann die Schulleitung zusätzliche Leistungen verlangen. Sie erlässt entsprechende Richtlinien.
+<sup>3</sup> Bei Personen, die über eine ausländische Maturität oder ein ausländisches Hochschuldiplom verfügen, kann die Aufnahmekommission für die Zulassung aufgrund einer Gleichwertigkeitsprüfung zusätzliche Leistungen verlangen oder Auflagen anordnen. Die Hochschulleitung erlässt ergänzende Richtlinien.
 
-<sup>4</sup> Personen, die über ein von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) anerkanntes Lehrdiplom für die Vorschul- und Primarstufe oder die Primarstufe verfügen, welches im Rahmen eines Bachelorstudiums an einer Hochschule erworben wurde, sind direkt zum Masterstudium zugelassen.
+<sup>4</sup> Personen, die über ein von der EDK anerkanntes Lehrdiplom für die Primarstufe (Schuljahre 3 bis 8, alle sechs Schuljahre oder einen Teil davon) verfügen, welches im Rahmen eines Bachelorstudiums an einer Hochschule erworben wurde, sind direkt zum Masterstudium zugelassen.
 
-<sup>5</sup> Inhaber und Inhaberinnen eines von der EDK anerkannten altrechtlichen Lehrdiploms für die Vorschul- und Primarstufe oder die Primarstufe sind direkt zum Masterstudium zugelassen, wenn sie über eine mindestens dreijährige Unterrichtspraxis auf der Sekundarstufe I und / oder der Primarstufe bei einem Beschäftigungsgrad von mindestens 50 Prozent verfügen.
+<sup>5</sup> Inhaber und Inhaberinnen eines von der EDK anerkannten altrechtlichen Lehrdiploms für die Primarstufe (Schuljahre 3 bis 8) sind direkt zum Masterstudium zugelassen, wenn sie über eine mindestens dreijährige Unterrichtspraxis auf der Sekundarstufe I und / oder der Primarstufe (Schuljahre 3 bis 8) bei einem Beschäftigungsgrad von mindestens 50 Prozent verfügen.
+
+[^2-1]: [https://edudoc.ch/record/93449/files/Regl\_Passerelle\_d.pdf](https://edudoc.ch/record/93449/files/Regl_Passerelle_d.pdf)
+
+#### § 2a
+
+**Persönliche Zulassungsvoraussetzungen**
+
+<sup>1</sup> Die Zulassung zum Studium setzt Vertrauenswürdigkeit und einen guten Leumund voraus.
+
+<sup>2</sup> Bewerber und Bewerberinnen ohne deutschsprachigen Vorbildungsausweis auf Sekundarstufe II müssen Deutschkenntnisse auf dem Niveau C2 gemäss dem Gemeinsamen Europäischen Referenzrahmen nachweisen.
 
 #### § 3
 
@@ -48,74 +76,71 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 <sup>1</sup> Der Prorektor oder die Prorektorin Lehre legt die Anmeldetermine fest und publiziert sie.
 
-<sup>2</sup> Der Anmeldung sind sämtliche für die Aufnahme oder die Zulassung zum Aufnahmeverfahren erforderlichen Unterlagen beizulegen, so namentlich Nachweise über Ausbildungsabschlüsse, andere Qualifikationen oder die Berufserfahrung. Es können zusätzliche Unterlagen verlangt werden.
+<sup>2</sup> Der Anmeldung sind sämtliche für die Aufnahme oder die Zulassung zum Aufnahmeverfahren erforderlichen Unterlagen beizulegen, so namentlich Nachweise über Ausbildungsabschlüsse, andere Qualifikationen oder die Berufserfahrung und den Allgemeinbildungsstand. Es können zusätzliche Unterlagen verlangt werden.
+
+<sup>3</sup> Zur Abklärung der Vertrauenswürdigkeit und des Leumunds ist ein aktueller Strafregisterauszug oder bei Wohnsitz im Ausland eine gleichwertige Urkunde vorzulegen. Die Aufnahmekommission kann weitere Abklärungen anordnen und insbesondere Einsicht in Strafurteile verlangen.
+
+<sup>4</sup> Die Kosten für die einzureichenden Unterlagen und Abklärungen trägt der Kandidat oder die Kandidatin.
 
 #### § 4
 
 **Spezielle Zulassung**
 
-<sup>1</sup> Nach erfolgreichem Durchlaufen eines Aufnahmeverfahrens wird zugelassen, wer über eine der folgenden Vorbildungen verfügt:
+<sup>1</sup> Wer über eine der folgenden Vorbildungen verfügt, kann über ein Aufnahmeverfahren zugelassen werden:
 
-- 1\. Fachmaturität;
-- 2\. Diplom einer dreijährigen Diplom- oder Fachmittelschule;
-- 3\. Berufsmaturität;
-- 4\. Abschluss einer mindestens dreijährigen anerkannten Berufsausbildung und mehrjährige Berufserfahrung.
+- 1\. Fachmaturität
+- 2\. Diplom einer Fachmittelschule
+- 3\. Berufsmaturität
+- 4\. Abschluss einer mindestens dreijährigen anerkannten Berufsausbildung und mehrjährige Berufserfahrung
 
-<sup>2</sup> Das Aufnahmeverfahren umfasst:
+<sup>2</sup> Die PHTG kann das Aufnahmeverfahren extern durchführen lassen. Es bestätigt die Äquivalenz zur Ergänzungsprüfung gemäss dem Reglement der EDK über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen.
 
-- 1\. eine Standortbestimmung zur Abklärung der Voraussetzungen und
-- 2\. eine Aufnahmeprüfung, in der die Kandidaten und Kandidatinnen den Allgemeinwissensstand auf gymnasialem Maturitätsniveau nachzuweisen haben.
-
-<sup>3</sup> Der Prorektor oder die Prorektorin Lehre ist zuständig für die Organisation und Durchführung der Aufnahmeverfahren.
-
-<sup>4</sup> Bei Personen, die den Nachweis eines Allgemeinwissensstands auf gymnasialem Maturitätsniveau im Rahmen eines Aufnahmeverfahrens einer anderen Lehrerbildungsinstitution bereits erbracht haben, kann die sofortige Aufnahme vorgenommen werden.
+<sup>3–4</sup> …
 
 #### § 5
 
-**Aufnahmeprüfung**
-
-<sup>1</sup> Der Fächerkanon und das Niveau der Aufnahmeprüfung entsprechen demjenigen der Passerelle von der Berufsmaturität an die universitären Hochschulen.
-
-<sup>2</sup> Die Aufnahmeprüfung kann in den Fächern, in denen sie nicht bestanden wurde, einmal wiederholt werden.
-
-<sup>3</sup> Zwischen Beginn der Aufnahmeprüfung und Wiederholung darf nicht mehr als ein Jahr liegen.
+**…**
 
 #### § 5a
 
 **Zulassung sur dossier**
 
-<sup>1</sup> Nach bestandener Prüfung sur dossier wird zugelassen, wer über folgende Voraussetzungen verfügt:
+<sup>1</sup> Für die Zulassung sur dossier sind die folgenden Voraussetzungen zu erfüllen:
 
-- 1\. Mindestalter 30 Jahre;
-- 2\. Berufsmaturität oder gleichwertige Vorbildung;
-- 3\. nachgewiesene Berufstätigkeit im Umfang von 300 Stellenprozenten nach Abschluss der Ausbildung; dieser Umfang kann auf Berufstätigkeiten im Zeitraum von maximal 7 Jahren verteilt sein.
+- 1\. Mindestalter 30 Jahre
+- 2\. Berufsmaturität oder gleichwertige Vorbildung
+- 3\. nachgewiesene Berufstätigkeit im Umfang von 300 Stellenprozenten nach Abschluss der Ausbildung; dieser Umfang kann auf Berufstätigkeiten im Zeitraum von maximal sieben Jahren verteilt sein
 
-<sup>2</sup> Die Prüfung sur dossier umfasst:
+<sup>2</sup> Das Zulassungsverfahren sur dossier umfasst
 
-- 1\. eine Standortbestimmung zur Abklärung der Voraussetzungen;
+- 1\. eine Standortbestimmung und
 - 2\. eine Prüfung, in der die Kandidaten und Kandidatinnen den Nachweis ihrer Studierfähigkeit zu erbringen haben.
 
-<sup>3</sup> Der Prorektor oder die Prorektorin Lehre ist zuständig für die Organisation und Durchführung der Prüfung sur dossier. Die Schulleitung erlässt dazu entsprechende Richtlinien.
+<sup>3</sup> Der Prorektor oder die Prorektorin Lehre ist zuständig für die Organisation und Durchführung des Zulassungsverfahrens sur dossier. Die Hochschulleitung erlässt ergänzende Richtlinien.
+
+#### § 5b
+
+**Zulassung zum nachträglichen Erwerb einer zusätzlichen Lehrbefähigung**
+
+<sup>1</sup> Zum Erwerb einer Lehrbefähigung für zusätzliche Fächer wird zugelassen, wer über ein von der EDK anerkanntes Lehrdiplom für die Sekundarstufe I verfügt.
 
 #### § 6
 
-**Aufnahmebeschränkung**
+**Aufnahmebeschränkung für Personen mit Wohnsitz im Ausland**
 
-<sup>1</sup> Die Zahl der zu Studium oder Aufnahmeverfahren zugelassenen Personen mit Wohnsitz im Ausland ist beschränkt. Sie wird jährlich vom Schulrat festgelegt.
+<sup>1</sup> Die Zahl der zu Studium oder Aufnahmeverfahren zugelassenen Personen mit zivilrechtlichem Wohnsitz im Ausland ist beschränkt.
 
 #### § 7
 
 **Wartefrist**
 
-<sup>1</sup> Wer an einer anderen Pädagogischen Hochschule oder anerkannten Lehrerbildungsinstitution infolge Nichteignung zum Beruf, einer strafrechtlichen Verurteilung, eines disziplinarrechtlichen Vergehens oder Nichtbestehens von Prüfungen oder Praktika endgültig vom Weiterstudium ausgeschlossen wurde, kann frühestens nach einer zweijährigen Wartefrist zum Studium an der Pädagogischen Hochschule Thurgau zugelassen werden.
+<sup>1</sup> Wer an der PHTG, einer anderen Pädagogischen Hochschule oder einer anerkannten Lehrerbildungsinstitution infolge Nichteignung zum Beruf, einer strafrechtlichen Verurteilung, eines disziplinarrechtlichen Vergehens oder Nichtbestehens von Leistungsnachweisen, Praktika oder weiteren Qualifikationsleistungen vom Weiterstudium ausgeschlossen wurde, kann frühestens nach einer zweijährigen Wartefrist zum Studium zugelassen werden.
 
-<sup>2</sup> Erfolgte ein Ausschluss aufgrund des Nichtbestehens von Prüfungen oder Praktika, ist eine Zulassung zum Studium vor Ablauf der Wartefrist möglich, wenn der Student oder die Studentin nachweist, dass die Anforderungen, die zum Nichtbestehen geführt haben, nicht Bestandteil des Studiengangs sind, für den die Zulassung beantragt wird.
+<sup>2</sup> Erfolgte der Ausschluss aufgrund des Nichtbestehens von Leistungsnachweisen, Praktika oder weiteren Qualifikationsleistungen ist eine Zulassung zum Studium vor Ablauf der Wartefrist möglich, wenn der Student oder die Studentin nachweist, dass die Anforderungen, die zum Nichtbestehen geführt haben, nicht Bestandteil des Studiengangs sind, für den die Zulassung beantragt wird.
 
 #### § 8
 
-**Abweichungen**
-
-<sup>1</sup> Die Schulleitung kann aus wichtigen Gründen ausnahmsweise zugunsten eines Kandidaten oder einer Kandidatin von den Aufnahmebestimmungen abweichen.
+**…**
 
 #### § 9
 
@@ -127,38 +152,46 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 <sup>3</sup> Es besteht kein Rechtsanspruch auf eine Zulassung und den Erwerb von Qualifikationen oder Abschlüssen.
 
-#### § 10
+#### § 9a
 
-**Facherweiterung**
+**Zulassungsentscheid**
 
-<sup>1</sup> Zur Erweiterung eines Lehrdiploms können im Rahmen des Studiengangs Sekundarstufe I zusätzliche Lehrbefähigungen erworben werden. Die Zulassung erfordert ein schweizerisch anerkanntes Lehrdiplom für die Sekundarstufe I. Im Weiteren gelten die gleichen Zulassungsvoraussetzungen wie für den regulären Studiengang.
+<sup>1</sup> Sind die Zulassungsvoraussetzungen zweifelsfrei erfüllt, wird die Aufnahme bestätigt.
 
-<sup>2</sup> Es sind die gleichen Studienziele und Studienleistungen zu erreichen wie für die entsprechende Qualifikation im regulären Studium.
+<sup>2</sup> Ergeben sich Zweifel an der Erfüllung der Zulassungsvoraussetzungen, entscheidet die Aufnahmekommission. Ausserdem entscheidet sie über die Nichtzulassung aufgrund der Aufnahmebeschränkung für Personen mit Wohnsitz im Ausland.
 
-<sup>3</sup> Die Anrechnung bereits erbrachter Studienleistungen ist möglich.
+<sup>3</sup> Gegen Entscheide der Aufnahmekommission kann innert zehn Tagen bei der Hochschulleitung Einsprache geführt werden.
 
-#### § 11
+#### § 10–11
 
-**Anrechnung von Studienleistungen**
+**…**
 
-<sup>1</sup> Bereits absolvierte, für die Erlangung des Diploms relevante Studienleistungen können angerechnet werden.
+#### § 11a
 
-## 2. Eignungsabklärung
+**Beginn des Studiums**
+
+<sup>1</sup> Der reguläre Eintritt ins Studium erfolgt zu Beginn des Herbstsemesters.
+
+<sup>2</sup> Abweichungen sind möglich, insbesondere bei Wiederaufnahme des Studiums, bei Wechsel von einer anderen Pädagogischen Hochschule und beim Erwerb einer weiteren Lehrbefähigung.
+
+## 2. Berufseignungsabklärung
 
 #### § 12
 
-**Vorausgesetzte Eignung**
+**Vorausgesetzte Berufseignung**
 
 <sup>1</sup> Die Berufseignung der Studenten und Studentinnen wird abgeklärt, insbesondere in den folgenden überfachlichen Bereichen:
 
-- 1\. Kommunikation;
-- 2\. Reflexion;
-- 3\. Lern- und Arbeitsverhalten;
-- 4\. Belastbarkeit.
+- 1\. Kommunikation
+- 2\. Reflexion
+- 3\. Lern- und Arbeitsverhalten
+- 4\. Belastbarkeit
 
-<sup>2</sup> Zusätzlich wird die Sprachkompetenz Deutsch überprüft. Die Schulleitung erlässt entsprechende Richtlinien.
+<sup>2</sup> Zusätzlich wird die Sprachkompetenz Deutsch überprüft.
 
-<sup>3</sup> Auf Verlangen ist ein Strafregisterauszug oder eine ärztliche Bescheinigung beizubringen.
+<sup>3</sup> Auf Verlangen ist eine Bescheinigung eines Vertrauensarztes der PHTG und ein aktueller Strafregisterauszug oder bei Wohnsitz im Ausland eine gleichwertige Urkunde beizubringen. Allfällige Kosten trägt der Kandidat oder die Kandidatin.
+
+<sup>4</sup> Die Hochschulleitung erlässt ergänzende Richtlinien.
 
 #### § 13
 
@@ -166,41 +199,41 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 <sup>1</sup> Die ordentliche Abklärung erfolgt während des ersten Studienjahres.
 
-<sup>2</sup> Die Beurteilung der Eignungsvoraussetzungen basiert auf einer Standortbestimmung, die sich aus folgenden Elementen zusammensetzt:
+<sup>2</sup> Die Beurteilung der vorausgesetzten Berufseignung basiert auf einer Standortbestimmung, die sich aus folgenden Elementen zusammensetzt:
 
-- 1\. Selbsteinschätzung des Studenten oder der Studentin im Rahmen eines Berichtes;
-- 2\. Einschätzung der Dozenten und Dozentinnen, welche den Studenten oder die Studentin unterrichten;
-- 3\. Beurteilung der Leistungen in den Praktika;
-- 4\. Einschätzung eines Mentors oder einer Mentorin;
-- 5\. Sprachkompetenzprüfung Deutsch.
+- 1\. Selbsteinschätzung des Studenten oder der Studentin im Rahmen eines Berichtes
+- 2\. Einschätzung der Dozenten und Dozentinnen, die den Studenten oder die Studentin unterrichten
+- 3\. Beurteilung der Leistungen in den Praktika
+- 4\. Einschätzung eines Mentors oder einer Mentorin
+- 5\. Sprachkompetenzprüfung Deutsch
 
 #### § 14
 
-**Mentor und Mentorin**
+**Zuständigkeiten und Verfahren**
 
-<sup>1</sup> Der Student oder die Studentin wird während der berufspraktischen Ausbildung durch einen Mentor oder eine Mentorin begleitet.
+<sup>1</sup> Der Student oder die Studentin wird während der Berufseignungsabklärung durch einen Mentor oder eine Mentorin begleitet.
 
-<sup>2</sup> Der Mentor oder die Mentorin koordiniert die Standortbestimmung und wertet sie aus.
+<sup>2</sup> Der Leiter oder die Leiterin des Studiengangs koordiniert die Standortbestimmung und wertet sie aus.
 
 <sup>3</sup> Ergeben sich aus der Standortbestimmung keine Zweifel an der Berufseignung, teilt dies der Leiter oder die Leiterin des Studiengangs dem Studenten oder der Studentin schriftlich mit.
 
-<sup>4</sup> Ergeben sich aus der Standortbestimmung Zweifel an der Berufseignung oder steht die Nichteignung zumindest in Teilen fest, leitet der Mentor oder die Mentorin die Angelegenheit an die Beurteilungskonferenz weiter. Die Weiterleitung kann mit einem Antrag verbunden werden.
+<sup>4</sup> Ergeben sich aus der Standortbestimmung Zweifel an der Berufseignung oder steht die Nichteignung zumindest in Teilen fest, leitet der Leiter oder die Leiterin des Studiengangs die Angelegenheit an die Beurteilungskonferenz weiter. Die Weiterleitung kann mit einem Antrag verbunden werden.
 
 #### § 15
 
 **Beurteilungskonferenz**
 
-<sup>1</sup> Die Beurteilungskonferenz setzt sich zusammen aus allen Dozenten und Dozentinnen, welche den Studenten oder die Studentin unterrichten, sowie dem Mentor oder der Mentorin. Sie wird vom Leiter oder von der Leiterin des Studiengangs geführt.
+<sup>1</sup> Die Beurteilungskonferenz setzt sich zusammen aus allen Dozenten und Dozentinnen, die den Studenten oder die Studentin unterrichten, dem Mentor oder der Mentorin sowie dem Leiter oder der Leiterin des Studiengangs. Sie wird vom Leiter oder von der Leiterin des Studiengangs geführt.
 
-<sup>2</sup> Bei Zweifeln an der Eignung kann sie die Abklärungszeit verlängern oder vertiefte Abklärungen treffen und hierzu weitere Beurteilungspersonen beiziehen. Der Student oder die Studentin ist zur Mitarbeit verpflichtet. Die Beurteilungskonferenz teilt dem Studenten oder der Studentin das Ergebnis der Abklärungen mit.
+<sup>2</sup> Bei Zweifeln an der Berufseignung kann die Beurteilungskonferenz die Abklärungszeit verlängern oder vertiefte Abklärungen treffen und hierzu weitere Beurteilungspersonen beiziehen. Der Student oder die Studentin ist zur Mitwirkung verpflichtet. Der Leiter oder die Leiterin des Studiengangs teilt dem Studenten oder der Studentin das Ergebnis der Abklärungen mit.
 
-<sup>3</sup> Bei zumindest teilweise fehlender Eignung ordnet die Beurteilungskonferenz in den betreffenden Teilbereichen Auflagen zur Verbesserung an, wenn Aussicht auf genügende Entwicklung besteht. Allfällige Kosten gehen zu Lasten des Studenten oder der Studentin.
+<sup>3</sup> Bei zumindest teilweise fehlender Berufseignung ordnet die Beurteilungskonferenz in den betreffenden Teilbereichen Auflagen zur Verbesserung an, wenn Aussicht auf genügende Entwicklung besteht. Allfällige Kosten gehen zu Lasten des Studenten oder der Studentin.
 
 #### § 16
 
 **Ausschluss**
 
-<sup>1</sup> Besteht keine Aussicht auf genügende Entwicklung in den betreffenden Teilbereichen oder hat trotz angeordneter Auflagen keine genügende Entwicklung stattgefunden, ordnet die Schulleitung den Ausschluss an.
+<sup>1</sup> Besteht keine Aussicht auf genügende Entwicklung in den betreffenden Teilbereichen oder hat trotz angeordneter Auflagen keine genügende Entwicklung stattgefunden, ordnet die Hochschulleitung den Ausschluss vom Studium an der PHTG an.
 
 #### § 17
 
@@ -210,21 +243,21 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 <sup>2</sup> Die Grundsätze gemäss den Bestimmungen für die ordentliche Abklärung gelten sinngemäss.
 
-## 3. Leistungsnachweis
+## 3. Leistungsnachweise
 
 #### § 18
 
 **Leistungsnachweise**
 
-<sup>1</sup> Ein Leistungsnachweis belegt die erfolgreiche Teilnahme an einem Ausbildungsmodul oder mehreren Modulen.
+<sup>1</sup> Ein Leistungsnachweis belegt die erfolgreiche Teilnahme an einem Modul oder mehreren Modulen.
 
 <sup>2</sup> Leistungsnachweise werden vom zuständigen Dozenten oder der zuständigen Dozentin durchgeführt.
 
-<sup>3</sup> Der Prorektor oder die Prorektorin Lehre kann den Zusammenzug von Leistungsnachweisen mehrerer Lehrveranstaltungen für die Qualifikation anordnen. Die Schulleitung regelt die Verrechnung der Qualifikationen der Leistungsnachweise zu einer zusammenfassenden Qualifikation durch Richtlinien.
+<sup>3</sup> Der Prorektor oder die Prorektorin Lehre kann den Zusammenzug von Leistungsnachweisen mehrerer Module für die Qualifikation anordnen. Er oder sie regelt die Verrechnung der Qualifikationen der Leistungsnachweise zu einer zusammenfassenden Qualifikation.
 
 <sup>4</sup> Der Prorektor oder die Prorektorin Lehre kann bei nachgewiesener genügender Leistungsfähigkeit von Leistungsnachweisen befreien. Er oder sie setzt die Qualifikation aufgrund der nachgewiesenen Leistungsfähigkeit fest.
 
-<sup>5</sup> Wer unerlaubte Hilfsmittel verwendet oder sich anderweitig Vorteile verschafft, hat den Leistungsnachweis nicht erfüllt.
+<sup>5</sup> Wer unerlaubte Hilfsmittel verwendet oder sich anderweitig unerlaubte Vorteile verschafft, hat den Leistungsnachweis nicht erfüllt.
 
 #### § 19
 
@@ -232,14 +265,14 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 <sup>1</sup> Leistungsnachweise können insbesondere folgende Formen aufweisen:
 
-- 1\. mündliche Prüfung;
-- 2\. schriftliche Prüfung;
-- 3\. Referat;
-- 4\. Präsentation;
-- 5\. schriftliche Arbeit;
-- 6\. praktische Arbeit;
-- 7\. Portfolio;
-- 8\. Präsenzleistungen.
+- 1\. mündliche Prüfung
+- 2\. schriftliche Prüfung
+- 3\. Referat
+- 4\. Präsentation
+- 5\. schriftliche Arbeit
+- 6\. praktische Arbeit
+- 7\. Portfolio
+- 8\. Präsenzleistungen
 
 <sup>2</sup> Sie können aus mehreren Teilen mit verschiedenen Formen bestehen.
 
@@ -247,19 +280,19 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 **Leistungsbeurteilung**
 
-<sup>1</sup> Der zuständige Dozent oder die zuständige Dozentin beurteilt die Leistung entweder anhand der Bewertungsskala des Europäischen Systems zur Anrechnung von Studienleistungen (ECTS) oder mit den Prädikaten „erfüllt“ und „nicht erfüllt“.
+<sup>1</sup> Der zuständige Dozent oder die zuständige Dozentin beurteilt die Leistung entweder anhand der Bewertungsskala des European Credit Transfer and Accumulation System (ECTS) oder mit den Prädikaten «erfüllt» und «nicht erfüllt».
 
 <sup>2</sup> Der Prorektor oder die Prorektorin Lehre bestimmt, wann die Skala und wann die Beurteilung durch Prädikate zur Anwendung gelangt.
 
 <sup>3</sup> Die Skala sieht folgende Noten vor:
 
-- 1\. A: hervorragend;
-- 2\. B: sehr gut;
-- 3\. C: gut;
-- 4\. D: befriedigend;
-- 5\. E: ausreichend;
-- 6\. FX: nicht bestanden (Verbesserung erforderlich);
-- 7\. F: nicht bestanden (erhebliche Verbesserung erforderlich).
+- 1\. A: hervorragend
+- 2\. B: sehr gut
+- 3\. C: gut
+- 4\. D: befriedigend
+- 5\. E: ausreichend
+- 6\. FX: nicht bestanden (Verbesserung erforderlich)
+- 7\. F: nicht bestanden (erhebliche Verbesserung erforderlich)
 
 <sup>4</sup> Bei Verwendung der Skala gilt ein Leistungsnachweis als erfüllt, wenn er mindestens mit der Note E beurteilt wurde.
 
@@ -267,23 +300,25 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 **Nichterfüllen des Leistungsnachweises**
 
-<sup>1</sup> Ein nicht erfüllter zusammengefasster oder Einzelleistungsnachweis kann in der Regel bis zum Ende des jeweils nächsten Semesters einmal wiederholt werden.
+<sup>1</sup> Ein nicht erfüllter Leistungsnachweis kann zweimal wiederholt werden.
 
-<sup>2</sup> Wird der Leistungsnachweis wieder nicht erfüllt, müssen alle betroffenen Module wiederholt werden.
+<sup>2</sup> Ist ein Modul wegen nicht erfüllter Präsenzleistung nicht bestanden, ist die Wiederholung des entsprechenden Moduls zwingend. In den übrigen Fällen des Nichtbestehens eines Leistungsnachweises kann beim Leiter oder bei der Leiterin des Studiengangs eine Modulwiederholung auf freiwilliger Basis beantragt werden.
 
-<sup>3</sup> In einer Modulwiederholung ist eine erneute Wiederholung des Leistungsnachweises nicht möglich.
+<sup>3</sup> …
 
-<sup>3<sup>bis</sup></sup> Bei einem nicht bestandenen Praktikum ist eine Wiederholung des Leistungsnachweises nicht möglich. Das Nichtbestehen führt zur einmaligen Modulwiederholung.
+<sup>3<sup>bis</sup></sup> Ein nicht bestandenes Praktikum kann einmal wiederholt werden.
+
+<sup>3<sup>ter</sup></sup> Ein wiederholter Leistungsnachweis wird maximal mit dem Prädikat «erfüllt» beziehungsweise mit der Note «E» beurteilt.
 
 <sup>4</sup> Der Prorektor oder die Prorektorin Lehre kann auf Antrag der für den Leistungsnachweis verantwortlichen Dozenten oder Dozentinnen Ausnahmen erlauben und gleichzeitig Auflagen oder andere Massnahmen anordnen.
 
-<sup>5</sup> Die Schulleitung regelt weitere Details durch Richtlinien.
+<sup>5</sup> Die Hochschulleitung erlässt ergänzende Richtlinien.
 
 #### § 22
 
 **Endgültiges Nichterfüllen**
 
-<sup>1</sup> Wird der Leistungsnachweis auch nach wiederholtem Modul nicht erfüllt oder erweisen sich die angeordneten Massnahmen als nicht wirksam, ordnet die Schulleitung den Ausschluss an.
+<sup>1</sup> Wird der Leistungsnachweis auch bei der zweiten Wiederholung oder ein Praktikum bei der Wiederholung nicht erfüllt oder erweisen sich die angeordneten Massnahmen als nicht wirksam, ordnet die Hochschulleitung den Ausschluss vom Studium an der PHTG an.
 
 #### § 23
 
@@ -295,9 +330,9 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 **Anerkennung von Ausbildungsteilen**
 
-<sup>1</sup> Der Prorektor oder die Prorektorin Lehre entscheidet über die Anerkennung von bereits absolvierten formalen Bildungsleistungen sowie von nicht formal erworbenen Kompetenzen.
+<sup>1</sup> Bereits vor dem Studium erbrachte formale, nicht-formale oder informelle Studien- und Bildungsleistungen können gemäss den Vorgaben von Art. 12 des Reglements der EDK über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen angerechnet werden.
 
-<sup>2</sup> Die Schulleitung regelt das Anrechnungsverfahren durch Richtlinien.
+<sup>2</sup> Die Hochschulleitung regelt das Anrechnungsverfahren durch Richtlinien.
 
 ## 4. Zwischenabschluss
 
@@ -307,13 +342,13 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 <sup>1</sup> Das Bachelorstudium gilt als erfolgreich abgeschlossen, wenn
 
-- 1\. die Eignungsabklärung erfolgreich abgeschlossen wurde;
-- 2\. Studienleistungen im Umfang von mindestens 180 ECTS-Kreditpunkten erworben wurden und
+- 1\. die Eignungsabklärung erfolgreich abgeschlossen wurde,
+- 2\. Studienleistungen im Umfang von mindestens 180 ECTS-Kreditpunkten erworben und
 - 3\. die entsprechenden Leistungen im Portfolio erbracht wurden.
 
-<sup>2</sup> Ein Bachelor-Abschluss im Rahmen einer Ausbildung zur Lehrperson der Vorschul- und Primarstufe oder der Primarstufe mit einem von der Schweizerischen Konferenz der Erziehungsdirektoren (EDK) anerkannten Lehrdiplom gilt als gleichwertiger Zwischenabschluss.
+<sup>1<sup>bis</sup></sup> Es wird der Titel «Bachelor of Arts PHTG in Secondary Education» verliehen. Dieser Titel ist nicht mit einer Lehrbefähigung verbunden.
 
-<sup>3</sup> Ein von der EDK anerkanntes Lehrdiplom für die Vorschul- und Primarstufe oder die Primarstufe gilt als gleichwertiger Zwischenabschluss, wenn der Inhaber oder die Inhaberin über eine mindestens dreijährige Unterrichtspraxis auf der Sekundarstufe I und/oder der Primarstufe bei einem Beschäftigungsgrad von mindestens 50 Prozent verfügt.
+<sup>2–3</sup> …
 
 ## 5. Masterarbeit
 
@@ -321,19 +356,27 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 **Masterarbeit**
 
-<sup>1</sup> Mit der Masterarbeit weisen die Studierenden nach, dass sie eine berufsrelevante Fragestellung unter Berücksichtigung wissenschaftlicher Methoden und Erkenntnisse bearbeiten können.
+<sup>1</sup> Mit der Masterarbeit weisen die Studenten und Studentinnen nach, dass sie eine berufsrelevante Fragestellung unter Berücksichtigung wissenschaftlicher Methoden und Erkenntnisse bearbeiten können.
 
-<sup>2</sup> Die Schulleitung erlässt Richtlinien zum Verfassen der Masterarbeit.
+<sup>2</sup> Die Hochschulleitung erlässt Richtlinien zum Verfassen der Masterarbeit.
+
+#### § 26a
+
+**Bewertung**
+
+<sup>1</sup> Der zuständige Dozent oder die zuständige Dozentin bewertet die Masterarbeit gemeinsam mit einem Experten oder einer Expertin anhand der ECTS-Bewertungsskala.
+
+<sup>2</sup> Besonders herausragende Arbeiten können prämiert und im Einverständnis mit dem Autor oder der Autorin publiziert werden.
 
 #### § 27
 
-**Annahmeschein**
+**Annahme**
 
-<sup>1</sup> Die Annahme der Masterarbeit wird mit der Ausstellung eines Annahmescheines bestätigt.
+<sup>1</sup> Die Annahme der Masterarbeit wird bestätigt.
 
 <sup>2</sup> Masterarbeiten gelten als angenommen, wenn sie
 
-- 1\. fristgerecht abgegeben wurden;
+- 1\. fristgerecht abgegeben wurden und
 - 2\. mindestens mit der Note E beurteilt wurden.
 
 <sup>3</sup> Masterarbeiten werden nicht angenommen, wenn sie ohne wichtigen Grund nach Ablauf der gesetzten Frist abgegeben wurden oder wenn unerlaubte Hilfsmittel verwendet wurden.
@@ -346,7 +389,7 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 <sup>1</sup> Ungenügende Arbeiten werden unter Ansetzung einer Nachfrist zur einmaligen Verbesserung zurückgewiesen.
 
-<sup>2</sup> Bleibt die verbesserte Arbeit ungenügend oder unterbleibt die Verbesserung, ordnet die Schulleitung den Ausschluss an.
+<sup>2</sup> Bleibt die verbesserte Arbeit ungenügend oder unterbleibt die Verbesserung, ordnet die Hochschulleitung den Ausschluss vom Studium an der PHTG an.
 
 ## 6. Diplomprüfungen
 
@@ -354,7 +397,7 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 **Anmeldung**
 
-<sup>1</sup> Der Prorektor oder die Prorektorin Lehre legt die Anmeldefristen für die Prüfungen fest.
+<sup>1</sup> Der Prorektor oder die Prorektorin Lehre legt die Anmeldefristen für die Diplomprüfungen fest.
 
 #### § 30
 
@@ -364,7 +407,7 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 <sup>2</sup> Das Portfolio besteht aus einer geordneten und kommentierten Sammlung von Dokumenten individueller Lernerfahrungen. Es wird während der Ausbildung selbstverantwortlich geführt.
 
-<sup>3</sup> Die Schulleitung erlässt Richtlinien zur Führung der Portfolios.
+<sup>3</sup> Die Hochschulleitung erlässt Richtlinien zur Führung der Portfolios.
 
 #### § 31
 
@@ -372,8 +415,8 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 <sup>1</sup> Zur Diplomprüfung wird zugelassen, wer
 
-- 1\. das Bachelorstudium erfolgreich abgeschlossen hat oder über einen gleichwertigen Zwischenabschluss verfügt;
-- 2\. das Portfolio fristgerecht abgegeben hat;
+- 1\. das Bachelorstudium erfolgreich abgeschlossen hat oder über einen gleichwertigen Zwischenabschluss verfügt,
+- 2\. das Portfolio fristgerecht abgegeben hat und
 - 3\. zur Prüfung angemeldet ist.
 
 #### § 32
@@ -382,7 +425,7 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 <sup>1</sup> Der Prorektor oder die Prorektorin Lehre ist für die Durchführung der Prüfungen verantwortlich und ernennt die Prüfenden sowie die Experten und Expertinnen.
 
-<sup>2</sup> Die Prüfenden führen die Prüfungen durch und werden hierbei und in der Bewertung von den Experten oder Expertinnen beraten.
+<sup>2</sup> Die Prüfenden werden in der Durchführung der Prüfung und in der Bewertung von den Experten oder Expertinnen beraten.
 
 #### § 33
 
@@ -390,11 +433,11 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 <sup>1</sup> Kolloquium und Portfolio werden anhand der ECTS-Bewertungsskala bewertet.
 
-<sup>2</sup> Die Schulleitung erlässt Richtlinien zur Verrechnung der Einzelqualifikationen zu einer Gesamtqualifikation.
+<sup>2</sup> Der Prorektor oder die Prorektorin Lehre regelt die Verrechnung der Einzelqualifikationen zu einer Gesamtqualifikation.
 
 #### § 34
 
-**Bewertung und Verfahren bei Nichtbestehen**
+**Bestehen und Wiederholung**
 
 <sup>1</sup> Die Diplomprüfung ist bestanden, wenn sie mindestens mit der Note E beurteilt wurde.
 
@@ -402,33 +445,30 @@ vom 24.02.2011 (Stand 09.03.2013)
 
 <sup>3</sup> Eine nicht bestandene Diplomprüfung kann einmal wiederholt werden. Die Wiederholung kann sowohl Nachbesserungen des Portfolios als auch ein erneutes Kolloquium oder beides umfassen.
 
-<sup>4</sup> Bei erneutem Nichtbestehen ordnet die Schulleitung den Ausschluss an.
+<sup>4</sup> Bei erneutem Nichtbestehen ordnet die Hochschulleitung den Ausschluss vom Studium an der PHTG an.
+
+## 6a. Studienabschluss und Titel
 
 #### § 35
 
 **Lehrdiplom und Diplomzeugnis**
 
-<sup>1</sup> Das Lehrdiplom enthält:
-
-- 1\. die Bezeichnung der Hochschule und des Kantons;
-- 2\. die Angaben zur Person des oder der Diplomierten;
-- 3\. den Vermerk „Lehrdiplom für die Sekundarstufe I“;
-- 4\. die Fachbereiche, für welche die Unterrichtsberechtigung besteht;
-- 5\. die Unterschrift der zuständigen Stelle;
-- 6\. den Ort und das Datum.
+<sup>1</sup> Das Lehrdiplom wird gemäss den Vorgaben des Reglements der EDK über die Anerkennung von Lehrdiplomen für den Unterricht auf der Primarstufe, der Sekundarstufe I und an Maturitätsschulen ausgestellt und enthält zusätzlich insbesondere das Thema der Masterarbeit.
 
 <sup>2</sup> Das Diplomzeugnis enthält die Abschlussnoten aller Studienfächer und der Diplomprüfung.
 
-<sup>3</sup> Im Diplomzusatz („Diploma Supplement“) werden die erreichten Leistungen näher umschrieben.
+<sup>3</sup> Im Diplomzusatz («Diploma Supplement») werden die erreichten Leistungen näher umschrieben.
+
+<sup>4</sup> Wer den Studiengang erfolgreich abgeschlossen hat, ist berechtigt, sich als «diplomierter Lehrer für die Sekundarstufe I (EDK)» oder «diplomierte Lehrerin für die Sekundarstufe I (EDK)» zu bezeichnen.
+
+<sup>5</sup> Zudem wird der Titel «Master of Arts PHTG in Secondary Education» verliehen.
+
+<sup>6</sup> Lehrbefähigungen für zusätzliche Fächer der Sekundarstufe werden mit einem Erweiterungsdiplom nach den Vorgaben der EDK bescheinigt
 
 ## 7. Schlussbestimmung
 
 #### § 36
 
-**Inkrafttreten**
-
-<sup>1</sup> Das Reglement tritt nach Genehmigung des Regierungsrates mit der Veröffentlichung im Amtsblatt in Kraft[^36-1].
-
-[^36-1]: Vom Regierungsrat genehmigt am 15. März 2011, in Kraft getreten am 19. März 2011.
+**…**
 
 ABl. 11/2011
