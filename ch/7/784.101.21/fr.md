@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 26 mai 2016 sur les installations de télécomm
 short: OOIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: fr
-version: 2021-05-01
+version: 2021-09-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210501/fr"
 
 (OOIT)
 
-du 26 mai 2016 (Etat le 1<sup>er</sup> mai 2021)
+du 26 mai 2016 (Etat le 1<sup>er</sup> septembre 2021)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -113,17 +113,19 @@ Les prescriptions techniques et administratives sur la mise en place et l’expl
 
 Les installations émettrices pour radioamateurs disponibles dans le commerce, neuves ou usagées, peuvent être remises uniquement:
 
-- a.[^7-1] aux titulaires d’une attestation au sens de l’art. 34, al. 2, OUS[^7-2] contre quittance et présentation de ladite attestation;
+- a.[^7-1] aux titulaires d’un indicatif d’appel au sens de l’art. 47*f* de l’ordonnance du 6 octobre 1997 sur les ressources d’adressage dans le domaine des télécommunications[^7-2] contre quittance et contre présentation de la facture de l’année en cours concernant l’émolument perçu pour la gestion de l’indicatif d’appel (art. 46, al. 8, de l’ordonnance du 18 novembre 2020 sur les redevances et émoluments dans le domaine des télécommunications[^7-3]);
 - b. aux opérateurs économiques, contre quittance.
 
-<sup>3</sup> La quittance doit comporter le nombre, la marque et le type des installations de radiocommunication remises, l’adresse et la signature de la personne à qui les installations ont été remises et, le cas échéant, le numéro de la concession présentée. Elle ne doit pas être signée lorsque les installations sont envoyées par la poste.
+<sup>3</sup> La quittance doit comporter le nombre d’installations de radiocommunication remises, leur marque et leur type, l’adresse et la signature de la personne à qui les installations ont été remises et, le cas échéant, l’indicatif d’appel figurant sur la facture présentée. Elle ne doit pas être signée lorsque les installations sont envoyées par la poste.[^7-4]
 
 <sup>4</sup> Quiconque remet une installation de radiocommunication, conformément à l’al. 2, let. a, doit conserver la quittance pendant deux ans.
 
 <sup>5</sup> Quiconque remet des installations, conformément aux art. 6, al. 2, et 25, al. 1, let. a, OIT doit conserver pendant cinq ans les pièces justificatives concernant la mise à disposition sur le marché, en particulier le bulletin de livraison et la facture.
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)).
-[^7-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^7-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 5 juil. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
+[^7-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^7-3]: [RS 784.106](https://fedlex.data.admin.ch/eli/cc/2020/1028)
+[^7-4]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 5 juil. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
 
 #### Art. 8
 
@@ -179,7 +181,7 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
 
-Annexe 2[^t-2]
+Annexe 2*[^t-2]*
 
 (art. 2, al. 1)
 
@@ -187,7 +189,7 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour selon le ch. I de l'O du 23 mars 2021, en vigueur depuis le 1 <sup>er</sup> mai 2021 ([RO 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour selon le ch. I de l’O de l’OFCOM du 23 mars 2021 ([RO 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)) et le ch. II de l’O de l’OFCOM du 5 juil. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
 [^annex2-lvlu1-1]: Les prescriptions applicables aux interfaces peuvent être obtenues gratuitement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consultées gratuitement sur son site à l’adresse suivante: www.ofcom.ch &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Appareils et installations &gt; Prescriptions techniques d’interface (RIR).
 
 <table>
@@ -201,7 +203,7 @@ Annexe 2[^t-2]
 <tr><td>RIR0201</td><td>Émetteurs de radiodiffusion terrestre</td><td>16</td></tr>
 <tr><td>RIR0203</td><td>Services pour réalisation de programmes et d’événements spéciaux (PMSE)</td><td>21</td></tr>
 <tr><td>RIR0301</td><td>Faisceaux hertziens point à multipoint</td><td>11</td></tr>
-<tr><td>RIR0302</td><td>Faisceaux hertziens point à point</td><td>26</td></tr>
+<tr><td>RIR0302</td><td>Faisceaux hertziens point à point</td><td>27</td></tr>
 <tr><td>RIR0501</td><td>Téléphonie digitale cellulaire</td><td>17</td></tr>
 <tr><td>RIR0503</td><td>Téléphones sans fil</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Équipements radio pour services d’urgence</td><td>11</td></tr>
@@ -226,9 +228,9 @@ Annexe 2[^t-2]
 <tr><td>RIR1007</td><td>Télécommandes de modèles réduits</td><td>9</td></tr>
 <tr><td>RIR1008</td><td>Applications à courte portée non spécifiques</td><td>22</td></tr>
 <tr><td>RIR1009</td><td>Microphones sans fil</td><td>25</td></tr>
-<tr><td>RIR1010</td><td>Systèmes de transmission de données à large bande</td><td>17</td></tr>
+<tr><td>RIR1010</td><td>Systèmes de transmission de données à large bande</td><td>18</td></tr>
 <tr><td>RIR1011</td><td>Identification par fréquence radio (RFID)</td><td>12</td></tr>
-<tr><td>RIR1012</td><td>Télématique des transports et du trafic (TTT)</td><td>14</td></tr>
+<tr><td>RIR1012</td><td>Télématique des transports et du trafic (TTT)</td><td>15</td></tr>
 <tr><td>RIR1013</td><td>Applications audio sans fil</td><td>16</td></tr>
 <tr><td>RIR1021</td><td>Télécommande, transmission de données et télémétrie à puissance élevée</td><td>12</td></tr>
 <tr><td>RIR1023</td><td>Applications à bande ultra large (UWB)</td><td>11</td></tr>
@@ -328,7 +330,7 @@ Annexe 6*[^t-4]*
 
 <sup>2</sup> Il contient le symbole suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/fr/xml/image/image1.png)
 
 <sup>3</sup> Pour une installation de radiocommunication portant la marque suisse de con-formité selon l’annexe 1, ch. 1, OIT, il mentionne, en dessous ou à côté du symbole figurant à l’al. 2, l’abréviation de la Suisse (CH).
 
@@ -346,13 +348,13 @@ Annexe 6*[^t-4]*
 <sup>7</sup> Exemple, à caractère informatif:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/fr/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/fr/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Règlement d’exécution (UE) 2017/1354 de la Commission du 20 juillet 2017 précisant comment présenter les informations prévues à l’art. 10, par. 10, de la directive 2014/53/UE du Parlement européen et du Conseil, version du JO L 190 du 21.7.2017, p. 7.

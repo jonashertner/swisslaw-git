@@ -4,11 +4,11 @@ title: Verordnung des BAKOM vom 26. Mai 2016 über Fernmeldeanlagen (VFAV)
 short: VFAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: de
-version: 2021-05-01
+version: 2021-09-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210901-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210501/de"
 
 (VFAV)
 
-vom 26. Mai 2016 (Stand am 1. Mai 2021)
+vom 26. Mai 2016 (Stand am 1. September 2021)
 
 Das Bundesamt für Kommunikation (BAKOM),
 
@@ -113,17 +113,19 @@ Die technischen und administrativen Vorschriften über das Erstellen und Betreib
 
 Die im Handel erhältlichen, neuen oder gebrauchten Sendeanlagen für die Teilnahme am Amateurfunk dürfen nur abgegeben werden an:
 
-- a.[^7-1] Inhaberinnen und Inhaber einer Bescheinigung nach Artikel 34 Absatz 2 VNF[^7-2] gegen Quittung und Vorweisung dieser Bescheinigung;
+- a.[^7-1] Inhaberinnen und Inhaber eines Rufzeichens nach Artikel 47*f* der Verordnung vom 6. Oktober 1997[^7-2] über die Adressierungselemente im Fernmeldebereich gegen Quittung und gegen Vorweisung der Rechnung des laufenden Jahres betreffend die Verwaltungsgebühr für die Verwaltung eines Rufzeichens (Art. 46 Abs. 8 der Fernmeldegebührenverordnung vom 18. November 2020[^7-3]);
 - b. Wirtschaftsakteurinnen gegen Quittung.
 
-<sup>3</sup> Die Quittung muss Anzahl, Marke und Typ der abgegebenen Funkanlagen, Adresse und Unterschrift der Person, welcher die Funkanlagen abgegeben wurden, und gegebenenfalls die Nummer der vorgewiesenen Konzession enthalten. Die Quittung muss nicht unterzeichnet werden, wenn die Funkanlagen per Post zugestellt werden.
+<sup>3</sup> Die Quittung muss die Anzahl der abgegebenen Funkanlagen, deren Marke und Typ, die Adresse und Unterschrift der Person, welcher die Funkanlagen abgegeben wurden, und gegebenenfalls das auf der vorgewiesenen Rechnung angegebene Rufzeichen enthalten. Die Quittung muss nicht unterzeichnet werden, wenn die Funkanlagen per Post zugestellt werden.[^7-4]
 
 <sup>4</sup> Wer Funkanlagen nach Absatz 2 Buchstabe a abgibt, muss die Quittung zwei Jahre aufbewahren.
 
 <sup>5</sup> Wer Funkanlagen nach den Artikeln 6 Absatz 2 und 25 Absatz 1 Buchstabe a FAV abgibt, muss die Belege zur Bereitstellung auf dem Markt, insbesondere Lieferschein und Rechnung, fünf Jahre aufbewahren.
 
-[^7-1]: Fassung gemäss Ziff. I der V des BAKOM vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)).
-[^7-2]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^7-1]: Fassung gemäss Ziff. I der V des BAKOM vom 5. Juli 2021, in Kraft seit 1. Sept. 2021 ([AS 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
+[^7-2]: [SR 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^7-3]: [SR 784.106](https://fedlex.data.admin.ch/eli/cc/2020/1028)
+[^7-4]: Fassung gemäss Ziff. I der V des BAKOM vom 5. Juli 2021, in Kraft seit 1. Sept. 2021 ([AS 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
 
 #### Art. 8
 
@@ -187,7 +189,7 @@ Anhang 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 23. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)).
+[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 23. März 2021 ([AS 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)) und Ziff. II der V des BAKOM vom 5. Juli 2021, in Kraft seit 1. Sept. 2021 ([AS 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
 [^annex2-lvlu1-1]: Die anwendbaren Vorschriften für Schnittstellen können beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, bezogen werden und sind im Internet unter folgender Adresse abrufbar: www.bakom.ch &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Geräte und Anlagen &gt; Technische Schnittstellenanforderungen (RIR).
 
 <table>
@@ -201,7 +203,7 @@ Anhang 2*[^t-2]*
 <tr><td>RIR0201</td><td>Terrestrische Rundfunksender</td><td>16</td></tr>
 <tr><td>RIR0203</td><td>Funkanwendungen für Programmerstellung und bei Veranstaltungen (PMSE)</td><td>21</td></tr>
 <tr><td>RIR0301</td><td>Punkt-zu-Multipunkt-Richtfunkanlagen</td><td>11</td></tr>
-<tr><td>RIR0302</td><td>Punkt-zu-Punkt-Richtfunkanlagen</td><td>26</td></tr>
+<tr><td>RIR0302</td><td>Punkt-zu-Punkt-Richtfunkanlagen</td><td>27</td></tr>
 <tr><td>RIR0501</td><td>Digitale zellulare Telefonie</td><td>17</td></tr>
 <tr><td>RIR0503</td><td>Drahtlose Telefone</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Funkanlagen für Notfalldienste</td><td>11</td></tr>
@@ -226,9 +228,9 @@ Anhang 2*[^t-2]*
 <tr><td>RIR1007</td><td>Modell-Fernsteuerungen</td><td>9</td></tr>
 <tr><td>RIR1008</td><td>Allgemeiner Kurzstreckenfunk</td><td>22</td></tr>
 <tr><td>RIR1009</td><td>Drahtlose Mikrofonanlagen</td><td>25</td></tr>
-<tr><td>RIR1010</td><td>Breitband-Datenübertragungssysteme</td><td>17</td></tr>
+<tr><td>RIR1010</td><td>Breitband-Datenübertragungssysteme</td><td>18</td></tr>
 <tr><td>RIR1011</td><td>Hochfrequenz-Identifikationsanlagen (RFID)</td><td>12</td></tr>
-<tr><td>RIR1012</td><td>Transport- und Verkehrstelematik (TTT)</td><td>14</td></tr>
+<tr><td>RIR1012</td><td>Transport- und Verkehrstelematik (TTT)</td><td>15</td></tr>
 <tr><td>RIR1013</td><td>Drahtlose Audioanlagen</td><td>16</td></tr>
 <tr><td>RIR1021</td><td>Fernsteuern, Fernmessen und Datenübertragung mit höheren Leistungen</td><td>12</td></tr>
 <tr><td>RIR1023</td><td>Ultra-Breitband-Anwendungen (UWB)</td><td>11</td></tr>
@@ -328,7 +330,7 @@ Anhang 6*[^t-4]*
 
 <sup>2</sup> Es enthält das folgende Symbol:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/de/xml/image/image1.png)
 
 <sup>3</sup> Für eine Funkanlage, die das schweizerische Konformitätskennzeichen gemäss Anhang 1 Ziffer 1 FAV trägt, enthält es neben oder unter dem Symbol gemäss Absatz 2 die Abkürzung der Schweiz (CH).
 
@@ -346,13 +348,13 @@ Anhang 6*[^t-4]*
 <sup>7</sup> Beispiel mit informativem Charakter:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/de/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Durchführungsverordnung (EU) 2017/1354 der Kommission vom 20. Juli 2017 zur Festlegung der Aufmachung von Informationen gemäss Artikel 10 Absatz 10 der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 190 vom 21.7.2017, S. 7.

@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFCOM sugli impianti di telecomunicazione (OOIT)"
 short: OOIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: it
-version: 2021-05-01
+version: 2021-09-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/it/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/it/xml/fedlex-data-admin-ch-eli-cc-2016-307-20210901-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20210501/it"
 
 (OOIT)
 
-del 26 maggio 2016 (Stato 1° maggio 2021)
+del 26 maggio 2016 (Stato 1° settembre 2021)
 
 L’Ufficio federale delle comunicazioni (UFCOM),
 
@@ -112,17 +112,19 @@ Le prescrizioni tecniche e amministrative concernenti l’installazione e l’es
 
 I trasmettitori per radioamatori disponibili in commercio, nuovi o usati, possono essere ceduti unicamente:
 
-- a.[^7-1] ai titolari di una attestazione ai sensi dell’articolo 34 capoverso 2 OUS[^7-2] dietro ricevuta e presentazione di tale attestazione;
+- a.[^7-1] ai titolari di un indicativo di chiamata ai sensi dell’articolo 47*f* dell'ordinanza del 6 ottobre 1997[^7-2] concernente gli elementi d’indirizzo nel settore delle telecomunicazioni, dietro ricevuta e presentazione della fattura dell'anno in corso in merito alla tassa riscossa per la gestione dell'indicativo di chiamata (art. 46 cpv. 8 dell’ordinanza del 18 novembre 2020[^7-3] sulle tasse nel settore delle telecomunicazioni);
 - b. agli operatori economici, dietro ricevuta.
 
-<sup>3</sup> La ricevuta deve recare il numero, il marchio e il tipo degli impianti di radiocomunicazione ceduti, l’indirizzo e la firma della persona a cui sono stati ceduti, nonché, eventualmente, il numero della concessione presentata. La ricevuta non dev’essere firmata se la consegna degli impianti avviene per posta.
+<sup>3</sup> La ricevuta deve recare il numero, il marchio e il tipo degli impianti di radiocomunicazione ceduti, l’indirizzo e la firma della persona a cui sono stati ceduti, nonché, eventualmente, l'indicativo di chiamata riportato sulla fattura presentata. La ricevuta non dev’essere firmata se la consegna degli impianti avviene per posta.[^7-4]
 
 <sup>4</sup> Chiunque cede un impianto di radiocomunicazione conformemente al capoverso 2 lettera a deve conservare la ricevuta per due anni.
 
 <sup>5</sup> Chiunque cede impianti conformemente agli articoli 6 capoverso 2 e 25 capoverso 1 lettera a OIT deve conservare per cinque anni le pezze giustificative della messa a disposizione sul mercato, in particolare il bollettino di consegna e la fattura.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)).
-[^7-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^7-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 5 lug. 2021, in vigore dal 1° set. 2021 ([RU 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
+[^7-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
+[^7-3]: [RS 784.106](https://fedlex.data.admin.ch/eli/cc/2020/1028)
+[^7-4]: Nuovo testo giusta il n. I dell’O dell’UFCOM del 5 lug. 2021, in vigore dal 1° set. 2021 ([RU 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
 
 #### Art. 8
 
@@ -186,7 +188,7 @@ Allegato 2*[^t-2]*
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. II dell’O dell’UFCOM del 18 nov. 2020 ([RU 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Aggiornato dal n. I dell’O dell’UFCOM del 23 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)).
+[^t-2]: Nuovo testo giusta il n. II dell’O dell’UFCOM del 18 nov. 2020 ([RU 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Aggiornato dal n. I dell’O dell’UFCOM del 23 mar. 2021 ([RU 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)) e dal n. II dell’O dell’UFCOM del 5 lug. 2021, in vigore dal 1° set. 2021 ([RU 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
 [^annex2-lvlu1-1]: Le prescrizioni applicabili alle interfacce sono ottenibili gratuitamente presso l’Ufficio federale delle comunicazioni, rue de l’Avenir 44, casella postale, 2501 Bienne oppure consultabili in rete al seguente indirizzo: www.ufcom.ch &gt; L’UFCOM &gt; Basi legali &gt; Prassi d’esecuzione &gt; Apparecchi e impianti &gt; Prescrizioni tecniche delle interfacce (RIR).
 
 <table>
@@ -200,7 +202,7 @@ Allegato 2*[^t-2]*
 <tr><td>RIR0201</td><td>Emittenti di radiodiffusione terrestre</td><td>16</td></tr>
 <tr><td>RIR0203</td><td>Servizi per realizzazione di programmi e di eventi speciali (PMSE)</td><td>21</td></tr>
 <tr><td>RIR0301</td><td>Ponti radio punto a multipunto</td><td>11</td></tr>
-<tr><td>RIR0302</td><td>Ponti radio punto a punto</td><td>26</td></tr>
+<tr><td>RIR0302</td><td>Ponti radio punto a punto</td><td>27</td></tr>
 <tr><td>RIR0501</td><td>Telefonia digitale cellulare</td><td>17</td></tr>
 <tr><td>RIR0503</td><td>Telefoni senza filo</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Impianti di radiocomunicazione del servizio di emergenza</td><td>11</td></tr>
@@ -225,9 +227,9 @@ Allegato 2*[^t-2]*
 <tr><td>RIR1007</td><td>Telecomandi di modelli ridotti</td><td>9</td></tr>
 <tr><td>RIR1008</td><td>Applicazioni non specifiche a corta portata</td><td>22</td></tr>
 <tr><td>RIR1009</td><td>Microfoni senza filo</td><td>25</td></tr>
-<tr><td>RIR1010</td><td>Sistemi di trasmissione dati a banda larga</td><td>17</td></tr>
+<tr><td>RIR1010</td><td>Sistemi di trasmissione dati a banda larga</td><td>18</td></tr>
 <tr><td>RIR1011</td><td>Identificazione tramite radiofrequenza (RFID)</td><td>12</td></tr>
-<tr><td>RIR1012</td><td>Telematica dei trasporti e del traffico (TTT)</td><td>14</td></tr>
+<tr><td>RIR1012</td><td>Telematica dei trasporti e del traffico (TTT)</td><td>15</td></tr>
 <tr><td>RIR1013</td><td>Applicazioni audio senza filo</td><td>16</td></tr>
 <tr><td>RIR1021</td><td>Telecomando, trasmissione di dati e telemetria a potenza elevata</td><td>12</td></tr>
 <tr><td>RIR1023</td><td>Applicazioni a banda ultra larga (UWB)</td><td>11</td></tr>
@@ -327,7 +329,7 @@ Allegato 6*[^t-4]*
 
 <sup>2</sup> Include il seguente simbolo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/it/xml/image/image1.png)
 
 <sup>3</sup> Per un impianto di radiocomunicazione recante il marchio di conformità svizzero secondo l’allegato 1 numero 1 OIT riporta, sotto o accanto al simbolo di cui al capoverso 2, l’abbreviazione della Svizzera (CH).
 
@@ -345,13 +347,13 @@ Allegato 6*[^t-4]*
 <sup>7</sup> Esempio a carattere informativo:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/it/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/it/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210501/it/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20210901/it/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Regolamento di esecuzione (UE) 2017/1354 della Commissione, del 20 luglio 2017, che specifica le modalità di presentazione delle informazioni di cui all’articolo 10, paragrafo 10, della direttiva 2014/53/UE del Parlamento europeo e del Consiglio, versione GU L 190 del 21.7.2017, pag. 7.
