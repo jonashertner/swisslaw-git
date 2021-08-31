@@ -3,20 +3,20 @@ canton: LU
 number: 800a
 title: Spitalgesetz
 language: de
-version: 2020-06-01
-valid_until: 2021-08-31
-version_adopted: 2020-01-27
+version: 2021-09-01
+valid_until: 2024-06-30
+version_adopted: 2021-05-10
 adopted: 2006-09-11
 in_force: 2007-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/800a"
-pdf: "https://srl.lu.ch/api/de/versions/3577/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3798/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Spitalgesetz
 
-vom 11.09.2006 (Stand 01.06.2020)
+vom 11.09.2006 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -182,7 +182,7 @@ beschliesst:
 
 **Datenschutz**
 
-<sup>1</sup> Soweit dieses Gesetz keine besonderen Bestimmungen über den Datenschutz enthält, kommen bei der Bearbeitung von Personendaten die Bestimmungen des Datenschutzgesetzes vom 2. Juli 1990[^6g-1] zur Anwendung.
+<sup>1</sup> Soweit dieses Gesetz keine besonderen Bestimmungen über den Datenschutz enthält, kommen bei der Bearbeitung von Personendaten die Bestimmungen des Kantonalen Gesetzes über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^6g-1] zur Anwendung.
 
 <sup>2</sup> Das medizinische Personal der Listenspitäler ist in Bezug auf die Datenbekanntgabe nach diesem Gesetz vom Berufsgeheimnis nach Artikel 321 des Schweizerischen Strafgesetzbuches[^6g-2] befreit, soweit es diesem untersteht.
 
