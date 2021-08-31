@@ -4,11 +4,11 @@ title: "Verordnung des EFD vom 4. April 2007 über Zollerleichterungen für Ware
 short: ZEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/252"
 language: de
-version: 2021-08-01
+version: 2021-09-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2007-252-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2007-252-20210901-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20210901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20210801/de"
 
 (Zollerleichterungsverordnung, ZEV)
 
-vom 4. April 2007 (Stand am 1. August 2021)
+vom 4. April 2007 (Stand am 1. September 2021)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -424,7 +424,7 @@ Anhang 1*[^t-1]*
 
 ## Zollerleichterungen je nach Verwendungszweck
 
-[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 16. März 2016 ([AS 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Bereinigt gemäss Ziff. I der V des EFD vom 12. Aug. 2016 ([AS 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), vom 28. Okt. 2016 ([AS 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), vom 28. Okt. 2016 ([AS 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), der OZD vom 11. Nov. 2016 ([AS 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des EFD vom 11. Aug. 2017 ([AS 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), vom 1. Nov. 2017 ([AS 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), der OZD vom 4. Dez. 2018 ([AS 2018 4947](https://fedlex.data.admin.ch/eli/oc/2018/778)), vom 22. Sept. ([AS 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), des EFD vom 17. Nov. 2020 ([AS 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), der OZD vom 23. März 2021 ([AS 2021 170](https://fedlex.data.admin.ch/eli/oc/2021/170)), Ziff. II der V des EFD vom 29. Juni 2021 ([AS 2021 408](https://fedlex.data.admin.ch/eli/oc/2021/408), [467](https://fedlex.data.admin.ch/eli/oc/2021/467)) und Ziff. I der V des EZV vom 20. Juli 2021, in Kraft seit 1. Aug. 2021 ([AS 2021 452](https://fedlex.data.admin.ch/eli/oc/2021/452)).
+[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 16. März 2016 ([AS 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Bereinigt gemäss Ziff. I der V des EFD vom 12. Aug. 2016 ([AS 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), vom 28. Okt. 2016 ([AS 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), vom 28. Okt. 2016 ([AS 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), der OZD vom 11. Nov. 2016 ([AS 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des EFD vom 11. Aug. 2017 ([AS 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), vom 1. Nov. 2017 ([AS 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), der OZD vom 4. Dez. 2018 ([AS 2018 4947](https://fedlex.data.admin.ch/eli/oc/2018/778)), vom 22. Sept. ([AS 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), des EFD vom 17. Nov. 2020 ([AS 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), der OZD vom 23. März 2021 ([AS 2021 170](https://fedlex.data.admin.ch/eli/oc/2021/170)), Ziff. II der V des EFD vom 29. Juni 2021 ([AS 2021 408](https://fedlex.data.admin.ch/eli/oc/2021/408), [467](https://fedlex.data.admin.ch/eli/oc/2021/467)) und Ziff. I der V des OZD vom 17. Aug. 2021, in Kraft seit 1. Sept. 2021 ([AS 2021 508](https://fedlex.data.admin.ch/eli/oc/2021/508)).
 
 <table>
 <tr><th>Tarifnummer</th><th>Warenbezeichnung</th><th>Verwendung</th><th>Zollansatz Fr. je 100 kg brutto</th></tr>
@@ -468,10 +468,10 @@ Anhang 1*[^t-1]*
 <tr><td>1008. 10 29</td><td>Buchweizen</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>2.––</td></tr>
 <tr><td>1008. 29 29</td><td>Hirse</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>frei</td></tr>
 <tr><td>1008. 30 20</td><td>Kanariensaat</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>2.––</td></tr>
-<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>3.50</td></tr>
-<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>3.50</td></tr>
+<tr><td>1008. 40 29</td><td>Fonio (*Digitaria spp.*)</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>4.––</td></tr>
+<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>4.––</td></tr>
 <tr><td>1008. 60 39</td><td>Triticale</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>4.50</td></tr>
-<tr><td>1008. 90 27</td><td>Anderes Getreide</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>3.50</td></tr>
+<tr><td>1008. 90 27</td><td>Anderes Getreide</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td>4.––</td></tr>
 <tr><td>1102. 20 10</td><td>Mehl von Mais</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>20.—</td></tr>
 <tr><td>1102. 90 51</td><td>Mehl von Reis</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>20.—</td></tr>
 <tr><td>1102. 90 61</td><td>Mehl von anderem Getreide</td><td>zur menschlichen Ernährung ohne Futtermittelanfall</td><td>20.—</td></tr>
