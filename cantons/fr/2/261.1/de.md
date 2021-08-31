@@ -4,13 +4,12 @@ number: "261.1"
 title: Gesetz über das Notariat
 short: NG
 language: de
-version: 2016-07-01
-valid_until: 2021-08-31
-version_adopted: 2016-03-17
+version: 2021-09-01
+version_adopted: 2021-05-20
 adopted: 1967-09-20
 in_force: 1968-02-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/261.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/5756/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7151/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Notariat – G
 
 (NG)
 
-vom 20.09.1967 (Fassung in Kraft getreten am 01.07.2016)
+vom 20.09.1967 (Fassung in Kraft getreten am 01.09.2021)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -69,7 +68,7 @@ beschliesst:
 
 - a) Schweizerbürger sein;
 - b) handlungsfähig sein;
-- c) einen guten Leumund besitzen;
+- c) …
 - d) nicht wegen strafrechtlicher Handlungen verurteilt worden sein, die mit dem Notariatsberuf unvereinbar sind, es sei denn, diese Verurteilung erscheine nicht mehr im Strafregisterauszug für Privatpersonen;
 - e) weder in Konkurs stehen noch einen endgültigen Verlustschein gegen sich bestehen haben;
 - f) Inhaber des freiburgischen Notariatsfähigkeitsausweises sein;
@@ -131,7 +130,7 @@ beschliesst:
 
 <sup>3</sup> Der Notar darf sein Siegel nur auf Urkunden setzen, die er in seiner Funktion als Träger eines öffentlichen Amtes erstellt.
 
-[^10-1]: Heute: Sicherheits- und Justizdirektion.
+[^10-1]: Heute: Sicherheits-, Justiz- und Sportdirektion.
 
 #### Art. 11
 

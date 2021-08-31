@@ -4,13 +4,12 @@ number: "261.1"
 title: Loi sur le notariat
 short: LN
 language: fr
-version: 2016-07-01
-valid_until: 2021-08-31
-version_adopted: 2016-03-17
+version: 2021-09-01
+version_adopted: 2021-05-20
 adopted: 1967-09-20
 in_force: 1968-02-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/261.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5756/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7151/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Notariat – L
 
 (LN)
 
-du 20.09.1967 (version entrée en vigueur le 01.07.2016)
+du 20.09.1967 (version entrée en vigueur le 01.09.2021)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -69,7 +68,7 @@ Décrète:
 
 - a) être de nationalité suisse;
 - b) avoir l'exercice des droits civils;
-- c) être de bonnes mœurs;
+- c) …
 - d) ne pas avoir fait l'objet d'une condamnation pénale pour des faits incompatibles avec l'exercice de la profession de notaire, à moins que cette condamnation ne figure plus sur l'extrait privé du casier judiciaire;
 - e) ne pas être en faillite ni être l'objet d'un acte de défaut de biens définitif;
 - f) être titulaire du brevet fribourgeois de capacité de notaire;
@@ -131,7 +130,7 @@ Décrète:
 
 <sup>3</sup> Le notaire ne peut apposer son sceau que sur les documents ressortissant à sa fonction d'officier public.
 
-[^10-1]: Actuellement: Direction de la sécurité et de la justice.
+[^10-1]: Actuellement: Direction de la sécurité, de la justice et du sport.
 
 #### Art. 11
 
