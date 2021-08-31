@@ -4,13 +4,12 @@ number: "425.140"
 title: Ordinanza sulla scuola specializzata
 short: OSS
 language: it
-version: 2017-08-01
-corrected: 2019-05-22
-version_adopted: 2017-07-04
+version: 2021-09-01
+version_adopted: 2021-08-31
 adopted: 2008-09-02
 in_force: 2008-09-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.140"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2808/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3187/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,14 +18,13 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2808/pdf_file"
 
 (OSS)
 
-del 02.09.2008 (stato 01.08.2017)
+del 02.09.2008 (stato 01.09.2021)
 
 emanata dal Governo il 2 settembre 2008
 
-visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge sulle scuole medie[^ingress-2]
+visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 [^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
-[^ingress-2]: CSC [425.000](https://www.gr-lex.gr.ch/data/425.000/it)
 
 ## 1. Disposizioni generali
 
@@ -34,9 +32,9 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Oggetto, campo d'applicazione**
 
-<sup>1</sup> La presente ordinanza disciplina in particolare la promozione alla classe successiva e l'ottenimento del certificato di scuola specializzata e della maturità specializzata per la scuola specializzata gestita secondo le disposizioni della Conferenza dei direttori cantonali della pubblica educazione
+<sup>1</sup> La presente ordinanza disciplina in particolare la promozione alla classe successiva e l'ottenimento del certificato di scuola specializzata e della maturità specializzata per la scuola specializzata gestita secondo le disposizioni della Conferenza svizzera dei direttori cantonali della pubblica educazione (CDPE).
 
-<sup>2</sup> I regolamenti di scuole medie private che divergono da disposizioni che rientrano nel campo d'applicazione della presente ordinanza necessitano dell'approvazione del Governo.
+<sup>2</sup> I regolamenti di scuole medie superiori private che divergono da disposizioni che rientrano nel campo d'applicazione della presente ordinanza necessitano dell'approvazione del Governo.
 
 #### Art. 2
 
@@ -56,7 +54,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Programma d'insegnamento**
 
-<sup>1</sup> L'insegnamento è impartito secondo i programmi emanati o approvati dal Governo e allestiti conformemente alle raccomandazioni della Conferenza dei direttori cantonali della pubblica educazione.
+<sup>1</sup> L'insegnamento è impartito secondo i programmi emanati o approvati dal Governo e allestiti conformemente alle raccomandazioni della CDPE.
 
 ## 2. La scuola specializzata
 
@@ -67,27 +65,37 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 <sup>1</sup> I campi professionali sono:
 
 - 1\. pedagogia con le materie:
-  - a) musica II;
-  - b) psicologia;
-  - c) forma e colore;
+  - a) forma e colore;
+  - b) musica II;
+  - c) fenomeni naturalistici;
+  - d) psicologia/pedagogia;
+  - e) psicologia/pedagogia/filosofia;
 - 2\. lavoro sociale con le materie:
-  - a) economia e diritto;
-  - b) psicologia;
-  - c) economia domestica;
+  - a) economia domestica/educazione alimentare;
+  - b) psicologia/pedagogia;
+  - c) psicologia/pedagogia/filosofia;
+  - d) sociologia;
+  - e) economia e diritto;
 - 3\. salute con le materie:
   - a) biologia umana;
-  - b) psicologia;
-  - c) fisica e chimica.
+  - b) fenomeni naturalistici;
+  - c) fisica/chimica;
+  - d) psicologia/pedagogia;
+  - e) psicologia/pedagogia/filosofia.
 
-<sup>2</sup> Alla fine del secondo anno di formazione gli allievi svolgono un periodo di pratica extrascolastica della durata di quattro settimane. L'azienda di pratica è attiva in uno dei campi professionali della scuola specializzata.
+<sup>2</sup> Entro la fine del secondo anno di formazione gli allievi svolgono un periodo di pratica extrascolastica della durata di quattro settimane. L'azienda di pratica è attiva in uno dei campi professionali della scuola specializzata.
+
+<sup>3</sup> Nel corso della formazione gli allievi svolgono due settimane di progetto riferite al campo professionale.
 
 #### Art. 6
 
 **Materie di promozione**
 
-<sup>1</sup> Sono materie di promozione una lingua cantonale quale lingua prima, una lingua nazionale quale seconda lingua, l'inglese quale terza lingua, la matematica, la biologia, la fisica e la chimica, la geografia, la storia e la civica, le arti visive, la musica, la psicologia/pedagogia, lo sport nonché nel secondo e nel terzo anno le tre materie del campo professionale scelto.
+<sup>1</sup> Sono materie di promozione una lingua cantonale quale lingua prima, una lingua nazionale quale seconda lingua, inglese quale terza lingua, matematica, fisica/chimica/biologia, geografia, storia, economia e diritto, arti figurative/arte, musica, psicologia/pedagogia, sport nonché nel secondo e nel terzo anno le materie del campo professionale scelto.
 
 <sup>2</sup> Il romancio o l'italiano possono essere definiti lingua prima insieme al tedesco. Per il calcolo del voto di promozione nella prima lingua combinata, le due lingue vengono considerate in misura del 50 per cento ciascuna.
+
+<sup>3</sup> Nel terzo anno di formazione, nel settore di studio delle materie artistiche gli allievi devono frequentare almeno una delle due materie arti figurative/arte e musica.
 
 #### Art. 7
 
@@ -99,7 +107,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Lavoro autonomo**
 
-<sup>1</sup> Nel terzo anno di formazione, gli allievi realizzano e presentano da soli o in gruppo un lavoro autonomo scritto o commentato per iscritto.
+<sup>1</sup> Durante il secondo o il terzo anno di formazione, gli allievi realizzano e presentano da soli o in gruppo un lavoro autonomo scritto o commentato per iscritto con riferimento al campo professionale scelto.
 
 <sup>2</sup> La direzione scolastica disciplina i dettagli circa la stesura e la valutazione del lavoro.
 
@@ -107,7 +115,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Ammissione all'esame finale**
 
-<sup>1</sup> Se per quanto concerne la frequenza della scuola non esiste un'autorizzazione d'eccezione dell'Ufficio, l'ammissione all'esame finale presuppone la frequenza di una scuola media nel Cantone dei Grigioni durante almeno gli ultimi due anni prima dell'esame finale nonché prestazioni sufficienti per la promozione nella classe finale.
+<sup>1</sup> Se per quanto concerne la frequenza della scuola non esiste un'autorizzazione d'eccezione del Dipartimento, l'ammissione all'esame finale presuppone la frequenza di una scuola media superiore nel Cantone dei Grigioni durante almeno gli ultimi due anni prima dell'esame finale nonché prestazioni sufficienti per la promozione nella classe finale.
 
 #### Art. 10
 
@@ -118,12 +126,16 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 - 1\. lingua prima — 180 minuti
 - 2\. seconda lingua — 180 minuti
 - 3\. matematica — 180 minuti
-- 4\. una materia dei settori di studio scienze naturali, scienze sociali, arti e sport — 120 minuti
+- 4\. una materia dai quattro settori di studio: — 120 minuti
+  - a) matematica, scienze naturali, informatica;
+  - b) scienze umane e sociali;
+  - c) materie artistiche;
+  - d) sport
 - 5\. una materia riferita al campo professionale:
   - a) tranne forma e colore — 120 minuti
   - b) forma e colore — 240 minuti
 
-<sup>2</sup> Sono oggetto dell'esame orale la lingua prima, la seconda lingua e l'inglese. L'Ufficio stabilisce su proposta della direzione scolastica una materia non esaminata già per iscritto dai settori di studio delle scienze naturali o delle scienze sociali, nonché una materia riferita al campo professionale.
+<sup>2</sup> Sono oggetto dell'esame orale la lingua prima, la seconda lingua e l'inglese. L'Ufficio stabilisce su proposta della direzione scolastica una materia non esaminata già per iscritto dai settori di studio matematica, scienze naturali, informatica o scienze umane e sociali, nonché una materia riferita al campo professionale.
 
 <sup>3</sup> L'esame orale dura 15 minuti; in precedenza viene concesso un tempo di preparazione sotto sorveglianza di 15 minuti.
 
@@ -131,15 +143,17 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Certificato di scuola specializzata**
 
-<sup>1</sup> Con riguardo all'aspetto del certificato di scuola specializzata fanno stato le disposizioni della Conferenza dei direttori cantonali della pubblica educazione. Il certificato di scuola specializzata può inoltre contenere il voto in insegnamento strumentale, in sport nonché indicazioni riguardo al luogo e all'azienda della pratica extrascolastica.
+<sup>1</sup> Con riguardo all'aspetto del certificato di scuola specializzata fanno stato le disposizioni della CDPE. Il certificato di scuola specializzata può contenere iscrizioni supplementari, in particolare i voti in insegnamento strumentale e in sport nonché indicazioni riguardo al luogo e all'azienda della pratica extrascolastica.
 
 <sup>2</sup> Nel certificato di scuola specializzata vengono indicati voti interi e mezzi voti, eventuali risultati intermedi non vengono arrotondati ai fini del calcolo del voto da inserire nel certificato di scuola specializzata.
+
+<sup>3</sup> I certificati di scuola specializzata sono firmati dal direttore del Dipartimento nonché dal direttore della rispettiva scuola media superiore.
 
 #### Art. 12
 
 **Condizioni per il superamento**
 
-<sup>1</sup> Il superamento dell'esame finale si conforma alle disposizioni della Conferenza dei direttori cantonali della pubblica educazione, sulla base dei voti del certificato di scuola specializzata.
+<sup>1</sup> Il superamento dell'esame finale si conforma alle disposizioni della CDPE, sulla base dei voti del certificato di scuola specializzata.
 
 #### Art. 13
 
@@ -151,7 +165,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Ammissione alla maturità specializzata**
 
-<sup>1</sup> I titolari di un certificato di scuola specializzata nei settori sanitario o sociale possono conseguire la relativa maturità specializzata secondo le direttive della Conferenza dei direttori cantonali della pubblica educazione.
+<sup>1</sup> I titolari di un certificato di scuola specializzata nei settori sanitario o sociale possono conseguire la relativa maturità specializzata secondo le direttive della CDPE.
 
 <sup>2</sup> La formazione volta al conseguimento della maturità specializzata può di norma essere iniziata entro tre anni dal conseguimento del certificato di scuola specializzata.
 
@@ -173,9 +187,11 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Periodo di pratica e lavoro di maturità specializzata**
 
-<sup>1</sup> Durante il ciclo di formazione va svolto un periodo di pratica e va redatto un lavoro di maturità specializzata. Fanno stato le disposizioni della Conferenza dei direttori cantonali della pubblica educazione.
+<sup>1</sup> Durante il ciclo di formazione va svolto un periodo di pratica e va redatto un lavoro di maturità specializzata. Fanno stato le disposizioni della CDPE.
 
 <sup>2</sup> Il Dipartimento disciplina mediante istruzioni in particolare i dettagli relativi al periodo di pratica e al lavoro di maturità specializzata.
+
+<sup>3</sup> Entro il 31 gennaio, la rispettiva sede di formazione propone per approvazione all'Ufficio gli esperti per il lavoro di maturità specializzata.
 
 #### Art. 17a
 
@@ -189,7 +205,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Certificato di maturità specializzata**
 
-<sup>1</sup> Il certificato di maturità specializzata viene consegnato conformemente alle disposizioni della Conferenza dei direttori cantonali della pubblica educazione nel luogo di rilascio del certificato e viene firmato anche dalla direzione della scuola specializzata della rispettiva sede di formazione.
+<sup>1</sup> Il certificato di maturità specializzata viene consegnato conformemente alle disposizioni della CDPE nel luogo di rilascio del certificato e viene firmato dal direttore del Dipartimento nonché dai direttori delle scuole medie superiori nel luogo di rilascio del certificato e nella sede di formazione.
 
 ## 4. La maturità specializzata pedagogica
 
@@ -197,7 +213,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Ammissione alla maturità specializzata**
 
-<sup>1</sup> I titolari di un certificato di scuola specializzata nel campo professionale della pedagogia possono conseguire la corrispondente maturità specializzata secondo le direttive della Conferenza dei direttori cantonali della pubblica educazione.
+<sup>1</sup> I titolari di un certificato di scuola specializzata nel campo professionale della pedagogia possono conseguire la corrispondente maturità specializzata secondo le direttive della CDPE.
 
 <sup>2</sup> La formazione volta al conseguimento della maturità specializzata può di norma essere iniziata entro tre anni dal conseguimento del certificato di scuola specializzata.
 
@@ -205,7 +221,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Sede di formazione e luogo di rilascio del certificato**
 
-<sup>1</sup> La sede di formazione per il conseguimento della maturità specializzata pedagogica è la Scuola media evangelica di Schiers. A quest'ultima competono in particolare la direzione amministrativa e operativa nonché lo svolgimento del ciclo di formazione e l'organizzazione della presentazione del lavoro di maturità specializzata.
+<sup>1</sup> La sede di formazione per il conseguimento della maturità specializzata pedagogica è la Scuola media superiore evangelica di Schiers. A quest'ultima competono in particolare la direzione amministrativa e operativa nonché lo svolgimento del ciclo di formazione e l'organizzazione della presentazione del lavoro di maturità specializzata.
 
 <sup>2</sup> Il luogo di rilascio del certificato è la rispettiva scuola specializzata. A quest'ultima competono in particolare l'assistenza durante il lavoro di maturità specializzata e la sua valutazione.
 
@@ -213,7 +229,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Coordinamento con l'Alta scuola pedagogica dei Grigioni**
 
-<sup>1</sup> La direzione della Scuola media evangelica di Schiers collabora con la direzione dell'Alta scuola pedagogica dei Grigioni e coordina con essa il termine di iscrizione al ciclo di formazione per l'ottenimento della maturità specializzata.
+<sup>1</sup> La direzione della Scuola media superiore evangelica di Schiers collabora con la direzione dell'Alta scuola pedagogica dei Grigioni e coordina con essa il termine di iscrizione al ciclo di formazione per l'ottenimento della maturità specializzata.
 
 <sup>2</sup> …
 
@@ -221,7 +237,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Programma d'insegnamento, esami, voti**
 
-<sup>1</sup> La formazione e gli esami per la maturità specializzata nel campo professionale della pedagogia si conformano alle disposizioni della Conferenza dei direttori cantonali della pubblica educazione. La formazione è strutturata in moduli. Il programma d'insegnamento viene emanato dal Governo.
+<sup>1</sup> La formazione e gli esami per la maturità specializzata nel campo professionale della pedagogia si conformano alle disposizioni della CDPE. La formazione è strutturata in moduli. Il programma d'insegnamento viene emanato dal Governo.
 
 <sup>2</sup> Le materie d'esame nella lingua prima e nella seconda lingua sono due lingue cantonali oppure una lingua cantonale e l'inglese.
 
@@ -241,9 +257,9 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Organizzazione dell'esame**
 
-<sup>1</sup> Gli esami vengono organizzati e svolti dalla Scuola media evangelica di Schiers.
+<sup>1</sup> Gli esami vengono organizzati e svolti dalla Scuola media superiore evangelica di Schiers.
 
-<sup>2</sup> L'Ufficio designa gli esperti esaminatori.
+<sup>2</sup> Entro il 31 gennaio, l'Alta scuola pedagogica dei Grigioni propone per approvazione all'Ufficio gli esperti per gli esami.
 
 #### Art. 23a
 
@@ -261,7 +277,7 @@ visti l'art. 45 della Costituzione cantonale[^ingress-1] e l'art. 19 della legge
 
 **Certificato di maturità specializzata**
 
-<sup>1</sup> Il certificato di maturità specializzata viene consegnato conformemente alle disposizioni della Conferenza dei direttori cantonali della pubblica educazione nel luogo di rilascio del certificato e viene firmato anche dalla direzione della scuola specializzata della rispettiva sede di formazione.
+<sup>1</sup> Il certificato di maturità specializzata viene consegnato conformemente alle disposizioni della CDPE nel luogo di rilascio del certificato e viene firmato dal direttore del Dipartimento nonché dai direttori delle scuole medie superiori nel luogo di rilascio del certificato e nella sede di formazione.
 
 ## 5. Disposizioni finali
 

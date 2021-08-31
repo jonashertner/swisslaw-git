@@ -1,32 +1,30 @@
 ---
 canton: GR
 number: "425.140"
-title: Ordinaziun davart la scola media professiunala
-short: OSMP
+title: Ordinaziun davart la scola media spezialisada
+short: OSMS
 language: rm
-version: 2017-08-01
-corrected: 2019-05-22
-version_adopted: 2017-07-04
+version: 2021-09-01
+version_adopted: 2021-08-31
 adopted: 2008-09-02
 in_force: 2008-09-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.140"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2808/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3187/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun davart la scola media professiunala
+# Ordinaziun davart la scola media spezialisada
 
-(OSMP)
+(OSMS)
 
-dals 02-09-2008 (versiun dals 01-08-2017)
+dals 02-09-2008 (versiun dals 01-09-2021)
 
-sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1] e sin l'art. 19 da la lescha davart las scolas medias[^ingress-2]
+Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1]
 
 relaschada da la regenza ils 2 da settember 2008
 
 [^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
-[^ingress-2]: DG [425.000](https://www.gr-lex.gr.ch/data/425.000/rm)
 
 ## 1. Disposiziuns generalas
 
@@ -34,7 +32,7 @@ relaschada da la regenza ils 2 da settember 2008
 
 **Object, champ d'applicaziun**
 
-<sup>1</sup> Questa ordinaziun regla cunzunt la promoziun en la proxima classa pli auta sco er l'acquisiziun dal certificat da scola media professiunala e da la maturitad spezialisada per la scola media professiunala che vegn manada tenor las disposiziuns da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica.
+<sup>1</sup> Questa ordinaziun regla cunzunt la promoziun en la proxima classa pli auta sco er l'acquisiziun dal certificat da scola media spezialisada e da la maturitad spezialisada per la scola media spezialisada che vegn manada tenor las disposiziuns da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica (CDEP).
 
 <sup>2</sup> Reglaments da scolas medias privatas che divergeschan da disposiziuns en il champ d'applicaziun da questa ordinaziun basegnan l'approvaziun da la regenza.
 
@@ -50,15 +48,15 @@ relaschada da la regenza ils 2 da settember 2008
 
 **Durada da la scolaziun**
 
-<sup>1</sup> La scolaziun per cuntanscher il certificat da scola media professiunala dura per regla 3 onns. Suenter la finiziun cun success po vegnir fatga la maturitad spezialisada entaifer 1 onn.
+<sup>1</sup> La scolaziun per cuntanscher il certificat da scola media spezialisada dura per regla 3 onns. Suenter la finiziun cun success po vegnir fatga la maturitad spezialisada entaifer 1 onn.
 
 #### Art. 4
 
 **Plan d'instrucziun**
 
-<sup>1</sup> L'instrucziun sto vegnir dada tenor ils plans d'instrucziun che vegnan relaschads u approvads da la regenza e ch'èn structurads tenor las prescripziuns da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica.
+<sup>1</sup> L'instrucziun sto vegnir dada tenor ils plans d'instrucziun che vegnan relaschads u approvads da la regenza e ch'èn structurads tenor las prescripziuns da la CDEP.
 
-## 2. La scola media professiunala
+## 2. La scola media spezialisada
 
 #### Art. 5
 
@@ -67,27 +65,37 @@ relaschada da la regenza ils 2 da settember 2008
 <sup>1</sup> Ils champs da professiun èn:
 
 - 1\. pedagogia cun ils roms:
-  - a) musica II;
-  - b) psicologia;
-  - c) furma e colur;
+  - a) furma e colur;
+  - b) musica II;
+  - c) fenomens da las scienzas natiralas;
+  - d) psicologia/pedagogia;
+  - e) psicologia/pedagogia/filosofia;
 - 2\. lavur sociala cun ils roms:
-  - a) economia e dretg;
-  - b) psicologia;
-  - c) economia da chasa;
+  - a) economia da chasa/scienza dal nutriment;
+  - b) psicologia/pedagogia;
+  - c) psicologia/pedagogia/filosofia;
+  - d) sociologia;
+  - e) economia e dretg;
 - 3\. sanadad cun ils roms:
   - a) biologia umana;
-  - b) psicologia;
-  - c) fisica e chemia.
+  - b) fenomens da las scienzas natiralas;
+  - c) fisica/chemia;
+  - d) psicologia/pedagogia;
+  - e) psicologia/pedagogia/filosofia.
 
-<sup>2</sup> A la fin dal segund onn da scolaziun absolvan las scolaras ed ils scolars in praticum da 4 emnas ordaifer la scola. Il manaschi da praticum è activ en in dals champs da professiun da la scola media professiunala.
+<sup>2</sup> Fin la fin dal segund onn da scolaziun absolvan las scolaras ed ils scolars in praticum da 4 emnas ordaifer la scola. Il manaschi da praticum è activ en in dals champs da professiun da la scola media spezialisada.
+
+<sup>3</sup> En il decurs da la scolaziun absolvan las scolaras ed ils scolars duas emnas da project che han in connex cun il champ da professiun.
 
 #### Art. 6
 
 **Roms da promoziun**
 
-<sup>1</sup> Ils roms da promoziun èn ina lingua chantunala sco emprima lingua, ina lingua naziunala sco segunda lingua, englais sco terza lingua, matematica, biologia, fisica e chemia, geografia, istorgia ed instrucziun civica, furmar creativ, musica, psicologia/pedagogia, sport sco er en il segund e terz onn ils trais roms dal champ da professiun elegì.
+<sup>1</sup> Ils roms da promoziun èn ina lingua chantunala sco emprima lingua, ina lingua naziunala sco segunda lingua, englais sco terza lingua, matematica, fisica/chemia/biologia, geografia, istorgia, economia e dretg, furmar creativ/art, musica, psicologia/pedagogia, sport sco er en il segund e terz onn ils roms dal champ da professiun elegì.
 
 <sup>2</sup> Rumantsch u talian po vegnir designà ensemen cun tudestg sco emprima lingua. Per calcular la nota da promoziun per l'emprima lingua cumbinada vegnan resguardadas tuttas duas linguas cun mintgamai 50 pertschient.
+
+<sup>3</sup> En il terz onn da scolaziun ston las scolaras ed ils scolars frequentar en il sectur d'emprender "roms artistics" almain in dals dus roms furmar creativ/art e musica.
 
 #### Art. 7
 
@@ -99,7 +107,7 @@ relaschada da la regenza ils 2 da settember 2008
 
 **Lavur independenta**
 
-<sup>1</sup> En il terz onn da scolaziun fan e preschentan las scolaras ed ils scolars – sulets u en ina gruppa – ina lavur independenta en scrit u commentada en scrit.
+<sup>1</sup> Durant il segund u il terz onn da scolaziun fan e preschentan las scolaras ed ils scolars – sulets u en ina gruppa – ina lavur independenta en scrit u commentada en scrit che ha in connex cun il champ da professiun elegì.
 
 <sup>2</sup> La direcziun da la scola regla ils detagls per far e per valitar questa lavur.
 
@@ -107,7 +115,7 @@ relaschada da la regenza ils 2 da settember 2008
 
 **Admissiun a l'examen final**
 
-<sup>1</sup> Sch'i n'è betg avant maun ina permissiun excepziunala da l'uffizi per frequentar la scola, pretenda l'admissiun a l'examen final la frequentaziun d'ina scola media en il chantun Grischun durant almain ils 2 ultims onns avant l'examen final e prestaziuns suffizientas per ina promoziun en la classa finala.
+<sup>1</sup> Sch'i n'è betg avant maun ina permissiun excepziunala dal departament per frequentar la scola, pretenda l'admissiun a l'examen final la frequentaziun d'ina scola media en il chantun Grischun durant almain ils 2 ultims onns avant l'examen final e prestaziuns suffizientas per ina promoziun en la classa finala.
 
 #### Art. 10
 
@@ -118,28 +126,34 @@ relaschada da la regenza ils 2 da settember 2008
 - 1\. emprima lingua — 180 minutas
 - 2\. segunda lingua — 180 minutas
 - 3\. matematica — 180 minutas
-- 4\. in rom dals secturs d'emprender scienzas natiralas, scienzas socialas, activitads artisticas e sport — 120 minutas
+- 4\. in rom dals quatter secturs d'emprender: — 120 minutas
+  - a) matematica, scienzas natiralas, informatica;
+  - b) scienzas umanas e socialas;
+  - c) roms artistics;
+  - d) sport
 - 5\. in rom relativ al champ da professiun:
   - a) cun excepziun da furma e colur — 120 minutas
   - b) furma e colur — 240 minutas
 
-<sup>2</sup> Examinadas a bucca vegnan l'emprima lingua, la segunda lingua ed englais. Sin proposta da la direcziun da la scola fixescha l'uffizi in rom or dals secturs d'emprender scienzas natiralas u scienzas socialas che n'è anc betg vegnì examinà en scrit sco er in rom relativ al champ da professiun.
+<sup>2</sup> Examinadas a bucca vegnan l'emprima lingua, la segunda lingua ed englais. Sin proposta da la direcziun da la scola fixescha l'uffizi in rom or dals secturs d'emprender matematica, scienzas natiralas, informatica u scienzas umanas e socialas che n'è anc betg vegnì examinà en scrit sco er in rom relativ al champ da professiun.
 
 <sup>3</sup> L'examen a bucca dura 15 minutas. Avant vegn concedida ina preparaziun survegliada da 15 minutas.
 
 #### Art. 11
 
-**Certificat da scola media professiunala**
+**Certificat da scola media spezialisada**
 
-<sup>1</sup> Per concepir il certificat da scola media professiunala valan las disposiziuns da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica. Il certificat da scola media professiunala po cuntegnair supplementarmain la nota per l'instrucziun d'in instrument, per sport sco er il renviament al lieu ed al manaschi dal praticum ordaifer la scola.
+<sup>1</sup> Per concepir il certificat da scola media spezialisada valan las disposiziuns da la CDEP. Il certificat da scola media spezialisada po cuntegnair inscripziuns supplementaras, en spezial las notas per l'instrucziun d'in instrument e per sport sco er il renviament al lieu ed al manaschi dal praticum ordaifer la scola.
 
-<sup>2</sup> En il certificat da scola media professiunala vegnan dadas notas entiras e mesas notas, senza dentant arrundar eventuals resultats intermediars per calcular las notas dal certificat da scola media professiunala.
+<sup>2</sup> En il certificat da scola media spezialisada vegnan dadas notas entiras e mesas notas, senza dentant arrundar eventuals resultats intermediars per calcular las notas dal certificat da scola media spezialisada.
+
+<sup>3</sup> Ils certificats da scola media spezialisada vegnan suttascrits da la scheffa u dal schef dal departament sco er da la manadra u dal manader da la scola media respectiva.
 
 #### Art. 12
 
 **Premissas per reussir l'examen final**
 
-<sup>1</sup> La reussida da l'examen final sa drizza sin basa da las notas dal certificat da scola media professiunala tenor las disposiziuns da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica.
+<sup>1</sup> La reussida da l'examen final sa drizza sin basa da las notas dal certificat da scola media spezialisada tenor las disposiziuns da la CDEP.
 
 #### Art. 13
 
@@ -151,9 +165,9 @@ relaschada da la regenza ils 2 da settember 2008
 
 **Admissiun a la maturitad spezialisada**
 
-<sup>1</sup> Titularas e titulars d'in certificat d'ina scola media professiunala en ils champs da professiun sanadad u lavur sociala pon far la maturitad spezialisada correspundenta tenor las directivas da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica.
+<sup>1</sup> Titularas e titulars d'in certificat d'ina scola media spezialisada en ils champs da professiun sanadad u lavur sociala pon far la maturitad spezialisada correspundenta tenor las directivas da la CDEP.
 
-<sup>2</sup> La scolaziun da maturitad spezialisada po vegnir cumenzada per regla fin il pli tard 3 onns suenter ch'il certificat da scola media professiunala è vegnì acquistà.
+<sup>2</sup> La scolaziun da maturitad spezialisada po vegnir cumenzada per regla fin il pli tard 3 onns suenter ch'il certificat da scola media spezialisada è vegnì acquistà.
 
 #### Art. 15
 
@@ -163,7 +177,7 @@ relaschada da la regenza ils 2 da settember 2008
 
 <sup>2</sup> Il lieu da scola per far la maturitad spezialisada en lavur sociala è la scola chantunala grischuna. Quella è particularmain responsabla per la direcziun administrativa dal studi e per l'organisaziun da la preschentaziun da la lavur da maturitad spezialisada.
 
-<sup>3</sup> Il lieu, nua che l'examen final vegn fatg, è la scola media professiunala respectiva. Quella assista particularmain las scolaras ed ils scolars durant il praticum ed assista e giuditgescha la lavur da maturitad spezialisada.
+<sup>3</sup> Il lieu, nua che l'examen final vegn fatg, è la scola media spezialisada respectiva. Quella assista particularmain las scolaras ed ils scolars durant il praticum ed assista e giuditgescha la lavur da maturitad spezialisada.
 
 #### Art. 16
 
@@ -173,9 +187,11 @@ relaschada da la regenza ils 2 da settember 2008
 
 **Praticum e lavur da maturitad spezialisada**
 
-<sup>1</sup> Durant il studi sto vegnir absolvì in praticum e redigida ina lavur da maturitad spezialisada. Valair valan las disposiziuns da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica.
+<sup>1</sup> Durant il studi sto vegnir absolvì in praticum e redigida ina lavur da maturitad spezialisada. Valair valan las disposiziuns da la CDEP.
 
 <sup>2</sup> En directivas regla il departament en spezial ils detagls davart il praticum e davart la lavur da maturitad spezialisada.
+
+<sup>3</sup> Il lieu da scola respectiv propona a l'uffizi fin ils 31 da schaner per l'approvaziun las expertas ed ils experts per la lavur da maturitad spezialisada.
 
 #### Art. 17a
 
@@ -187,9 +203,9 @@ relaschada da la regenza ils 2 da settember 2008
 
 #### Art. 17b
 
-**Attestat da scola media professiunala**
+**Attestat da maturitad spezialisada**
 
-<sup>1</sup> L'attestat da scola media professiunala vegn emess al lieu d'examen tenor las disposiziuns da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica e consutsegnà da la direcziun da la scola media professiunala dal lieu da scola respectiv.
+<sup>1</sup> L'attestat da maturitad spezialisada vegn emess al lieu d'examen tenor las disposiziuns da la CDEP e suttascrit da la scheffa u dal schef dal departament sco er da las manadras e dals manaders da las scolas medias spezialisadas dal lieu d'examen e dal lieu da scola.
 
 ## 4. La maturitad spezialisada en pedagogia
 
@@ -197,9 +213,9 @@ relaschada da la regenza ils 2 da settember 2008
 
 **Admissiun a la maturitad spezialisada**
 
-<sup>1</sup> Las titularas ed ils titulars d'in certificat d'ina scola media professiunala en il champ da professiun pedagogia pon far la maturitad spezialisada correspundenta tenor las prescripziuns da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica.
+<sup>1</sup> Las titularas ed ils titulars d'in certificat d'ina scola media spezialisada en il champ da professiun pedagogia pon far la maturitad spezialisada correspundenta tenor las prescripziuns da la CDEP.
 
-<sup>2</sup> La scolaziun da maturitad spezialisada po vegnir cumenzada per regla fin il pli tard 3 onns suenter ch'il certificat da scola media professiunala è vegnì acquistà.
+<sup>2</sup> La scolaziun da maturitad spezialisada po vegnir cumenzada per regla fin il pli tard 3 onns suenter ch'il certificat da scola media spezialisada è vegnì acquistà.
 
 #### Art. 19
 
@@ -207,7 +223,7 @@ relaschada da la regenza ils 2 da settember 2008
 
 <sup>1</sup> Il lieu da scola per far la maturitad spezialisada en pedagogia è la scola media evangelica da Schiers. Quella è particularmain responsabla per la direcziun administrativa ed operativa sco er per la realisaziun dal studi e per l'organisaziun da la preschentaziun da la lavur da maturitad spezialisada.
 
-<sup>2</sup> Il lieu, nua che l'examen final vegn fatg, è la scola media professiunala respectiva. Quella assista e giuditgescha particularmain la lavur da maturitad spezialisada.
+<sup>2</sup> Il lieu, nua che l'examen final vegn fatg, è la scola media spezialisada respectiva. Quella assista e giuditgescha particularmain la lavur da maturitad spezialisada.
 
 #### Art. 20
 
@@ -221,7 +237,7 @@ relaschada da la regenza ils 2 da settember 2008
 
 **Plan d'instrucziun, examens, notas dal rom**
 
-<sup>1</sup> La scolaziun ed ils examens per la maturitad spezialisada dal champ da professiun pedagogia sa drizzan tenor las disposiziuns da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica. La scolaziun è structurada en moda modulara. Il plan d'instrucziun vegn relaschà da la regenza.
+<sup>1</sup> La scolaziun ed ils examens per la maturitad spezialisada dal champ da professiun pedagogia sa drizzan tenor las disposiziuns da la CDEP. La scolaziun è structurada en moda modulara. Il plan d'instrucziun vegn relaschà da la regenza.
 
 <sup>2</sup> Ils roms d'examen da l'emprima lingua e da la segunda lingua èn duas linguas chantunalas u ina lingua chantunala ed englais.
 
@@ -243,13 +259,13 @@ relaschada da la regenza ils 2 da settember 2008
 
 <sup>1</sup> Ils examens vegnan organisads e realisads da la scola media evangelica da Schiers.
 
-<sup>2</sup> L'uffizi determinescha las expertas ed ils experts da l'examen.
+<sup>2</sup> La scola auta da pedagogia dal Grischun propona a l'uffizi fin ils 31 da schaner per l'approvaziun las expertas ed ils experts per ils examens.
 
 #### Art. 23a
 
 **Premissas per reussir, pussaivladad da repeter la maturitad spezialisada**
 
-<sup>1</sup> Per conceder l'attestat da scola media professiunala valan las suandantas premissas:
+<sup>1</sup> Per conceder l'attestat da scola media spezialisada valan las suandantas premissas:
 
 - 1\. la media da las notas dals roms d'examen e da la lavur da maturitad spezialisada importa almain 4;
 - 2\. maximalmain 2 notas dals roms d'examen èn insuffizientas;
@@ -259,9 +275,9 @@ relaschada da la regenza ils 2 da settember 2008
 
 #### Art. 23b
 
-**Attestat da scola media professiunala**
+**Attestat da maturitad spezialisada**
 
-<sup>1</sup> L'attestat da scola media professiunala vegn emess al lieu d'examen tenor las disposiziuns da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica e consutsegnà da la direcziun da la scola media professiunala dal lieu da scola respectiv.
+<sup>1</sup> L'attestat da maturitad spezialisada vegn emess al lieu d'examen tenor las disposiziuns da la CDEP e suttascrit da la scheffa u dal schef dal departament sco er da las manadras e dals manaders da las scolas medias spezialisadas dal lieu d'examen e dal lieu da scola.
 
 ## 5. Disposiziuns finalas
 
