@@ -3,20 +3,19 @@ canton: LU
 number: "26"
 title: Informatikgesetz
 language: de
-version: 2013-08-01
-valid_until: 2021-08-31
-version_adopted: 2012-12-10
+version: 2021-09-01
+version_adopted: 2021-05-10
 adopted: 2005-03-07
 in_force: 2005-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/26"
-pdf: "https://srl.lu.ch/api/de/versions/2806/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3789/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Informatikgesetz
 
-vom 07.03.2005 (Stand 01.08.2013)
+vom 07.03.2005 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -50,13 +49,13 @@ beschliesst:
 
 **Begriffe**
 
-<sup>1</sup> Die Begriffe «Personendaten», «besonders schützenswerte Personendaten», «betroffene Person», «Bearbeiten von Personendaten», «Datensammlung», «Inhaber einer Datensammlung» sowie «Organ» richten sich nach dem kantonalen Datenschutzgesetz.
+<sup>1</sup> Die Begriffe «Personendaten», «besonders schützenswerte Personendaten», «betroffene Person», «Bearbeiten von Personendaten», «Profiling», «verantwortliches Organ» sowie «Organ» richten sich nach dem Kantonalen Gesetz über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^3-1]. Sie umfassen in diesem Gesetz in der Regel auch Angaben über bestimmte oder bestimmbare juristische Personen oder Personengesellschaften des Handelsrechts.
 
 <sup>2</sup> Der Begriff Informatik umfasst die Steuerung, Planung und Einführung sowie den Betrieb und Unterhalt von Prozessen und Techniken, welche der maschinellen oder maschinell unterstützten Bearbeitung von Informationen aller Art dienen.
 
 <sup>3</sup> Informatikmittel sind Geräte, Einrichtungen und Dienste, wie insbesondere Computersysteme, Computerprogramme, Kommunikationsdienste, die der elektronischen Erfassung, Verarbeitung, Speicherung, Übermittlung, Auswertung, Archivierung oder Vernichtung von Informationen dienen.
 
-<sup>4</sup> Zentrale Datenbanken bestehen aus Datensammlungen verschiedener Organe. Sie können sich an einem beliebigen Ort befinden. Datenwarenhäuser und Datendrehscheiben sind zentrale Datenbanken.
+<sup>4</sup> Zentrale Datenbanken bestehen aus zusammengeführten Datenbeständen verschiedener Organe. Sie können sich an einem beliebigen Ort befinden. Datenwarenhäuser und Datendrehscheiben sind zentrale Datenbanken.
 
 <sup>5</sup> Datenwarenhäuser (data warehouses) dienen der dauerhaften Speicherung von Daten.
 
@@ -66,6 +65,8 @@ beschliesst:
 
 <sup>8</sup> Eine Auslagerung ist das Zurückgreifen eines Organs auf Informatikmittel Dritter zur Erfüllung seiner Aufgaben. Organe innerhalb eines Gemeinwesens gelten nicht als Dritte.
 
+[^3-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+
 #### § 4
 
 **Grundsätze**
@@ -74,9 +75,7 @@ beschliesst:
 
 <sup>2</sup> Der Informatikeinsatz muss wirtschaftlich sein, der Erfüllung der öffentlichen Aufgaben dienen und den Bedürfnissen der Benutzerinnen und Benutzer entsprechen.
 
-<sup>3</sup> Techniken, die geeignet sind, aus Daten oder Personendaten besonders schützenswerte Personendaten oder Persönlichkeitsprofile herzustellen, dürfen nur dann eingesetzt werden, wenn die Voraussetzungen gemäss § 5 Absatz 2 des Datenschutzgesetzes[^4-1] erfüllt sind.
-
-[^4-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+<sup>3</sup> Techniken, die geeignet sind, aus Daten oder Personendaten besonders schützenswerte Personendaten herzustellen oder damit ein Profiling vorzunehmen, dürfen nur dann eingesetzt werden, wenn die Voraussetzungen gemäss § 5 Absatz 2 des Kantonalen Datenschutzgesetzes erfüllt sind.
 
 ## 2 Zentrale Datenbanken und Abrufverfahren
 
@@ -98,7 +97,7 @@ beschliesst:
 - h. Verantwortlichkeiten,
 - i. Publikation gemäss § 10.
 
-<sup>3</sup> Der Regierungsrat kann, nachdem er die Stellungnahme des oder der Beauftragten für den Datenschutz eingeholt hat, vor Inkrafttreten eines formellen Gesetzes eine zentrale Datenbank mit besonders schützenswerten Personendaten oder Persönlichkeitsprofilen während einer einmaligen befristeten Zeitspanne von höchstens fünf Jahren bewilligen, wenn
+<sup>3</sup> Der Regierungsrat kann, nachdem er die Stellungnahme des oder der Beauftragten für den Datenschutz eingeholt hat, vor Inkrafttreten eines formellen Gesetzes eine zentrale Datenbank mit besonders schützenswerten Personendaten oder Resultaten von Profilings während einer einmaligen befristeten Zeitspanne von höchstens fünf Jahren bewilligen, wenn
 
 - a. die Aufgaben, die diese Bearbeitung erforderlich machen, in einem formellen Gesetz geregelt sind,
 - b. ausreichende Massnahmen zur Verhinderung von Persönlichkeitsverletzungen getroffen werden,
@@ -121,15 +120,15 @@ beschliesst:
 
 <sup>4</sup> Der Betreiber und jede von ihm mit Aufgaben des Betriebs betraute Person ist über die von ihm wahrgenommenen Personendaten zur Verschwiegenheit verpflichtet.
 
-<sup>5</sup> § 6 Absatz 3 des Datenschutzgesetzes ist auf zentrale Datenbanken nicht anwendbar.
+<sup>5</sup> § 6 Absatz 3 des Kantonalen Datenschutzgesetzes ist auf zentrale Datenbanken nicht anwendbar.
 
 #### § 7
 
 **Zugriffsverwaltung und Löschung der Personendaten**
 
-<sup>1</sup> Der Umfang der Zugriffs- und Bearbeitungsberechtigung von Organen auf Personendaten einer zentralen Datenbank bestimmt sich nach Massgabe des Datenschutzgesetzes und ist technisch und organisatorisch auf geeignete Weise sicherzustellen. § 6 Absatz 3 bleibt vorbehalten.
+<sup>1</sup> Der Umfang der Zugriffs- und Bearbeitungsberechtigung von Organen auf Personendaten einer zentralen Datenbank bestimmt sich nach Massgabe des Kantonalen Datenschutzgesetzes und ist technisch und organisatorisch auf geeignete Weise sicherzustellen. § 6 Absatz 3 bleibt vorbehalten.
 
-<sup>2</sup> Werden die in einem Datenwarenhaus gespeicherten Personendaten von keinem beteiligten Organ mehr benötigt, sind sie dem zuständigen Archiv zur Übernahme anzubieten. Werden sie vom Archiv als nicht archivwürdig eingestuft, sind sie umgehend zu löschen.
+<sup>2</sup> Werden die in einem Datenwarenhaus gespeicherten Personendaten von keinem beteiligten Organ mehr benötigt, sind sie dem zuständigen Archiv zur Übernahme anzubieten. Werden sie vom Archiv als nicht archivwürdig eingestuft, sind sie umgehend zu löschen oder zu vernichten.
 
 #### § 8
 
@@ -149,13 +148,13 @@ beschliesst:
 
 #### § 10
 
-**Publikation und Register**
+**Publikation**
 
-<sup>1</sup> Die Errichtung von Datenwarenhäusern ist vom Betreiber vor der Betriebsaufnahme im Kantonsblatt zu publizieren. In der Publikation sind für jedes Datenwarenhaus die daran beteiligten Organe und die entsprechenden Datensammlungen sowie der Betreiber aufzuführen. Ferner hat die Publikation für jede Datensammlung Auskunft zu geben über die Rechtsgrundlage, den Zweck, die Mittel und Verfahren des Bearbeitens, die Art und Herkunft der Personendaten und deren regelmässige Empfänger sowie über das Vorhandensein und den Aufbewahrungsort von Kopien.
+<sup>1</sup> Die Errichtung von Datenwarenhäusern ist vom Betreiber vor der Betriebsaufnahme im Kantonsblatt zu publizieren. In der Publikation sind für jedes Datenwarenhaus die daran beteiligten Organe und die entsprechenden Datenbestände sowie der Betreiber aufzuführen. Ferner hat die Publikation für jeden Datenbestand Auskunft zu geben über die Rechtsgrundlage, den Zweck, die Mittel und Verfahren des Bearbeitens, die Art und Herkunft der Personendaten und deren regelmässige Empfänger sowie über das Vorhandensein und den Aufbewahrungsort von Kopien.
 
-<sup>2</sup> In der Publikation sind ferner die Kontrollrechte jeder Person sowie die zuständigen Aufsichtsstellen für den Datenschutz gemäss diesem Gesetz und dem Datenschutzgesetz anzugeben.
+<sup>2</sup> In der Publikation sind ferner die Kontrollrechte jeder Person sowie die zuständigen Aufsichtsstellen für den Datenschutz gemäss diesem Gesetz und dem Kantonalen Datenschutzgesetz anzugeben.
 
-<sup>3</sup> Die zuständige Aufsichtsstelle für den Datenschutz führt ein Register über die Datenwarenhäuser. Das Register enthält die Angaben gemäss Absatz 1.
+<sup>3</sup> Die Angaben gemäss Absatz 1 sind in das Verzeichnis der Datenbearbeitungstätigkeiten aufzunehmen.
 
 #### § 11
 
@@ -163,14 +162,14 @@ beschliesst:
 
 <sup>1</sup> Jede Person kann bei der zuständigen Aufsichtsstelle für den Datenschutz Auskunft verlangen
 
-- a. über den Inhalt des Registers,
+- a. über den Inhalt des Verzeichnisses der Datenbearbeitungstätigkeiten,
 - b. ob über sie in einem Datenwarenhaus Personendaten gespeichert sind; sie hat sich dabei über ihre Identität auszuweisen.
 
 <sup>2</sup> Die zuständige Aufsichtsstelle für den Datenschutz und der oder die zuständige Informatikverantwortliche prüfen gemeinsam, ob über die betroffene Person im Datenwarenhaus Personendaten gespeichert sind und welchen Organen dafür Zugriffs- oder Bearbeitungsrechte zustehen. Der zuständigen Aufsichtsstelle für den Datenschutz und dem oder der Informatikverantwortlichen stehen die dazu erforderlichen Zutrittsrechte zu den Räumen und Anlagen des Betreibers sowie die erforderlichen Zugriffs- und Bearbeitungsrechte auf im Datenwarenhaus gespeicherte Personendaten zu. Der Betreiber hat alle für die Prüfung notwendige Unterstützung zu leisten.
 
 <sup>3</sup> Die zuständige Aufsichtsstelle für den Datenschutz gibt der betroffenen Person Auskunft darüber, welche am Datenwarenhaus beteiligten Organe berechtigt sind, auf ihre Personendaten zuzugreifen oder sie zu bearbeiten. Die zuständige Aufsichtsstelle für den Datenschutz darf diese Auskunft aus überwiegenden öffentlichen Interessen oder überwiegenden privaten Interessen Dritter oder der betroffenen Person einschränken, mit Auflagen versehen oder verweigern.
 
-<sup>4</sup> Das Verfahren betreffend Auskunft über die über eine betroffene Person vorhandenen Personendaten sowie betreffend Einsicht, Berichtigung und anderen Ansprüchen richtet sich nach dem Datenschutzgesetz. Auf Begehren der betroffenen Person leitet die zuständige Aufsichtsstelle für den Datenschutz bei den Organen, welche berechtigt sind, auf ihre Personendaten zuzugreifen oder sie zu bearbeiten, das Verfahren ein.
+<sup>4</sup> Das Verfahren betreffend Auskunft über die über eine betroffene Person vorhandenen Personendaten sowie betreffend Einsicht, Berichtigung und andere Ansprüche richtet sich nach dem Kantonalen Datenschutzgesetz. Auf Begehren der betroffenen Person leitet die zuständige Aufsichtsstelle für den Datenschutz bei den Organen, welche berechtigt sind, auf ihre Personendaten zuzugreifen oder sie zu bearbeiten, das Verfahren ein.
 
 <sup>5</sup> Die Aufsichtsstellen für den Datenschutz und die Informatikverantwortlichen sind über die von ihnen wahrgenommenen Personendaten zur Verschwiegenheit verpflichtet.
 
@@ -218,13 +217,13 @@ beschliesst:
 
 <sup>1</sup> Der Auftragnehmer, einschliesslich dessen Mitarbeitende und Hilfspersonen, muss diejenigen Amts-, Berufs- und besonderen Geheimhaltungspflichten übernehmen sowie die Bestimmungen über den Datenschutz und die Informatiksicherheit einhalten, an welche das auslagernde Organ gebunden ist.
 
-<sup>2</sup> Er hat dem auslagernden Organ, der zuständigen Behörde für den Datenschutz sowie der Finanzkontrolle Zutritt zu den Räumen und Anlagen sowie die erforderlichen Zugriffsrechte auf die entsprechenden Daten zu gewähren und sie angemessen zu unterstützen.
+<sup>2</sup> Er hat dem auslagernden Organ, der zuständigen Aufsichtsstelle für den Datenschutz sowie der Finanzkontrolle Zutritt zu den Räumen und Anlagen sowie die erforderlichen Zugriffsrechte auf die entsprechenden Daten zu gewähren und sie angemessen zu unterstützen.
 
 #### § 16
 
 **Kontrollrechte der betroffenen Person**
 
-<sup>1</sup> Als Inhaber der Datensammlung gilt das auslagernde Organ.
+<sup>1</sup> Als Inhaber der Datensammlung gilt das verantwortliche Organ.
 
 <sup>2</sup> Werden beim Auftragnehmer Kontrollrechte gemäss Datenschutzrecht geltend gemacht, hat dieser die betroffene Person an das auslagernde Organ zu verweisen und eine materielle Bearbeitung der Begehren zu unterlassen.
 
@@ -246,9 +245,9 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Informatikmittel sind durch den Inhaber einer Datensammlung beziehungsweise den Betreiber einer zentralen Datenbank gegen Verlust und unerwünschte Einwirkungen zu sichern. Personendaten sind vor unbefugtem Zugriff und unbefugter Bearbeitung zu schützen.
+<sup>1</sup> Die Informatikmittel sind durch das verantwortliche Organ beziehungsweise den Betreiber einer zentralen Datenbank gegen Verlust und unerwünschte Einwirkungen zu sichern. Personendaten sind vor unbefugtem Zugriff und unbefugter Bearbeitung zu schützen.
 
-<sup>2</sup> Die Organe der Informatik unterstützen die Inhaber von Datensammlungen und die Betreiber von zentralen Datenbanken bei der Festlegung und der Umsetzung von Sicherheitsmassnahmen.
+<sup>2</sup> Die Organe der Informatik unterstützen die verantwortlichen Organe und die Betreiber von zentralen Datenbanken bei der Festlegung und der Umsetzung von Sicherheitsmassnahmen.
 
 #### § 19
 
