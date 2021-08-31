@@ -3,11 +3,11 @@ sr: "0.946.293.671"
 title: Handelsabkommen vom 11. Februar 2019 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland (mit Anhängen und Gemeinsamen Erkl.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1071"
 language: de
-version: 2021-01-01
+version: 2021-09-01
 adopted: 2019-02-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20210901-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20210901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 19. Juni 2020[^t-1]
 
 In Kraft getreten durch Noteaustausch am 1. Januar 2021
 
-(Stand am 1. Januar 2021)
+(Stand am 1. September 2021)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 19. Juni 2020 ([AS 2020 6603](https://fedlex.data.admin.ch/eli/oc/2020/1070))
 
@@ -36,87 +36,111 @@ mit dem Wunsch, dass die Rechte und Pflichten gemäss den zwischen der Schweiz u
 
 sind wie folgt übereingekommen:
 
-## ........1 **Art. 1**Inkorporierung der Handelsabkommen Schweiz–EU
+#### Art. 1
 
-\1. Die Bestimmungen der folgenden Abkommen («Handelsabkommen Schweiz–EU»), die gelten, unmittelbar bevor sie für das Vereinigte Königreich nicht mehr zur Anwendung kommen, werden zum Bestandteil dieses Abkommens erklärt und finden vorbehältlich der Bestimmungen dieses Instruments *mutatis mutandis* Anwendung:
+**Inkorporierung der Handelsabkommen Schweiz–EU**
 
-- (a) Abkommen in Form eines Briefwechsels vom 21. Juli 1972[^lvl........1-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Wirtschaftsgemeinschaft über bestimmte Erzeugnisse der Landwirtschaft und der Fischerei, wie nachträglich angepasst durch die weiteren Abkommen vom 5. Februar 1981[^lvl........1-2], 14. Juli 1986[^lvl........1-3] und 18. Januar 1996 (die «Briefwechsel über Fischerei und Landwirtschaft»);
-- (b) Abkommen zwischen der Europäischen Wirtschaftsgemeinschaft und der Schweizerischen Eidgenossenschaft, abgeschlossen in Brüssel am 22. Juli 1972[^lvl........1-4] (das «Freihandelsabkommen»);
-- (c) Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über bestimmte Aspekte des öffentlichen Beschaffungswesens, abgeschlossen in Luxemburg am 21. Juni 1999[^lvl........1-5] (das «Abkommen über das öffentliche Beschaffungswesen»);
-- (d) Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über die gegenseitige Anerkennung von Konformitätsbewertungen, abgeschlossen in Luxemburg am 21. Juni 1999[^lvl........1-6] (das «Abkommen über die gegenseitige Anerkennung»);
-- (e) Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über den Handel mit landwirtschaftlichen Erzeugnissen, abgeschlossen in Luxemburg am 21. Juni 1999[^lvl........1-7] (das «Agrarabkommen»);
-- (f) Abkommen in Form eines Briefwechsels zwischen der Europäischen Gemeinschaft und den einzelnen im Rahmen des Allgemeinen Präferenzsystems Zollpräferenzen gewährenden EFTA-Ländern (Norwegen und Schweiz), wonach die Waren mit Bestandteilen mit Ursprung in Norwegen oder der Schweiz bei ihrer Ankunft im Zollgebiet der Gemeinschaft wie Waren behandelt werden, die Bestandteile mit Ursprung in der Gemeinschaft enthalten (Gegenseitigkeitsabkommen), abgeschlossen in Brüssel am 14. Dezember 2000[^lvl........1-8] (der «APS-Briefwechsel»);
-- (g) Abkommen über die Zusammenarbeit zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits zur Bekämpfung von Betrug und sonstigen rechtswidrigen Handlungen, die ihre finanziellen Interessen beeinträchtigen, abgeschlossen in Luxemburg am 26. Oktober 2004[^lvl........1-9] (das «Betrugsbekämpfungsabkommen»); und
-- (h) Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über die Erleichterung der Kontrollen und Formalitäten im Güterverkehr und über zollrechtliche Sicherheitsmassnahmen, abgeschlossen in Brüssel am 25. Juni 2009[^lvl........1-10] (das «Zollsicherheitsabkommen»).
+<sup>1.</sup>
 
-\2. Die folgenden Bestimmungen finden keine Anwendung, sofern der jeweilige Gemischte Ausschuss gemäss Absatz 3 nichts Anderes entscheidet:
+Die Bestimmungen der folgenden Abkommen («Handelsabkommen Schweiz–EU»), die gelten, unmittelbar bevor sie für das Vereinigte Königreich nicht mehr zur Anwendung kommen, werden zum Bestandteil dieses Abkommens erklärt und finden vorbehältlich der Bestimmungen dieses Instruments *mutatis mutandis* Anwendung:
+
+- (a) Abkommen in Form eines Briefwechsels vom 21. Juli 1972[^1-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Wirtschaftsgemeinschaft über bestimmte Erzeugnisse der Landwirtschaft und der Fischerei, wie nachträglich angepasst durch die weiteren Abkommen vom 5. Februar 1981[^1-2], 14. Juli 1986[^1-3] und 18. Januar 1996 (die «Briefwechsel über Fischerei und Landwirtschaft»);
+- (b) Abkommen zwischen der Europäischen Wirtschaftsgemeinschaft und der Schweizerischen Eidgenossenschaft, abgeschlossen in Brüssel am 22. Juli 1972[^1-4] (das «Freihandelsabkommen»);
+- (c) Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über bestimmte Aspekte des öffentlichen Beschaffungswesens, abgeschlossen in Luxemburg am 21. Juni 1999[^1-5] (das «Abkommen über das öffentliche Beschaffungswesen»);
+- (d) Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über die gegenseitige Anerkennung von Konformitätsbewertungen, abgeschlossen in Luxemburg am 21. Juni 1999[^1-6] (das «Abkommen über die gegenseitige Anerkennung»);
+- (e) Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über den Handel mit landwirtschaftlichen Erzeugnissen, abgeschlossen in Luxemburg am 21. Juni 1999[^1-7] (das «Agrarabkommen»);
+- (f) Abkommen in Form eines Briefwechsels zwischen der Europäischen Gemeinschaft und den einzelnen im Rahmen des Allgemeinen Präferenzsystems Zollpräferenzen gewährenden EFTA-Ländern (Norwegen und Schweiz), wonach die Waren mit Bestandteilen mit Ursprung in Norwegen oder der Schweiz bei ihrer Ankunft im Zollgebiet der Gemeinschaft wie Waren behandelt werden, die Bestandteile mit Ursprung in der Gemeinschaft enthalten (Gegenseitigkeitsabkommen), abgeschlossen in Brüssel am 14. Dezember 2000[^1-8] (der «APS-Briefwechsel»);
+- (g) Abkommen über die Zusammenarbeit zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits zur Bekämpfung von Betrug und sonstigen rechtswidrigen Handlungen, die ihre finanziellen Interessen beeinträchtigen, abgeschlossen in Luxemburg am 26. Oktober 2004[^1-9] (das «Betrugsbekämpfungsabkommen»); und
+- (h) Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über die Erleichterung der Kontrollen und Formalitäten im Güterverkehr und über zollrechtliche Sicherheitsmassnahmen, abgeschlossen in Brüssel am 25. Juni 2009[^1-10] (das «Zollsicherheitsabkommen»).
+
+<sup>2.</sup>
+
+Die folgenden Bestimmungen finden keine Anwendung, sofern der jeweilige Gemischte Ausschuss gemäss Absatz 3 nichts Anderes entscheidet:
 
 - (a) die Anhänge 4–6, 9 und 11 des Inkorporierten Agrarabkommens;
 - (b) Kapitel 1–11, 13 und 16–20 von Anhang 1 des Inkorporierten Abkommens über die gegenseitige Anerkennung; und
 - (c) das Inkorporierte Zollsicherheitsabkommen.
 
-\3. Mit Inkrafttreten dieses Abkommens prüfen die Vertragsparteien im jeweiligen Gemischten Ausschuss den Gegenstand der in Absatz 2 erwähnten Bestimmungen und beurteilen, wie stark die innerstaatlichen Gesetzgebungen der Vertragsparteien in den von diesen Bestimmungen abgedeckten Bereichen angesichts der Entwicklungen in zwischen einer der Vertragsparteien und Drittparteien abgeschlossenen Vereinbarungen voneinander abweichen oder übereinstimmen, mit dem Ziel, die Fortgeltung der Handelsvereinbarungen zwischen den Vertragsparteien soweit wie möglich sicherzustellen. Der jeweilige Gemischte Ausschuss kann beschliessen, die in Absatz 2 erwähnten Bestimmungen *mutatis mutandis*, mit oder ohne weitere Anpassungen, anzuwenden oder diese Bestimmungen zu ersetzen.
+<sup>3.</sup> Mit Inkrafttreten dieses Abkommens prüfen die Vertragsparteien im jeweiligen Gemischten Ausschuss den Gegenstand der in Absatz 2 erwähnten Bestimmungen und beurteilen, wie stark die innerstaatlichen Gesetzgebungen der Vertragsparteien in den von diesen Bestimmungen abgedeckten Bereichen angesichts der Entwicklungen in zwischen einer der Vertragsparteien und Drittparteien abgeschlossenen Vereinbarungen voneinander abweichen oder übereinstimmen, mit dem Ziel, die Fortgeltung der Handelsvereinbarungen zwischen den Vertragsparteien soweit wie möglich sicherzustellen. Der jeweilige Gemischte Ausschuss kann beschliessen, die in Absatz 2 erwähnten Bestimmungen *mutatis mutandis*, mit oder ohne weitere Anpassungen, anzuwenden oder diese Bestimmungen zu ersetzen.
 
-[^lvl........1-1]: [SR 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
-[^lvl........1-2]: [SR 0.632.290.15](https://fedlex.data.admin.ch/eli/cc/1981/367_367_367)
-[^lvl........1-3]: [SR 0.632.401.813](https://fedlex.data.admin.ch/eli/cc/1987/201_201_201)
-[^lvl........1-4]: [SR 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949). Zur Vermeidung allfälliger Zweifel sei darauf hingewiesen, dass das Zusatzprotokoll über die gegenseitige Amtshilfe im Zollbereich ein integraler Bestandteil des Freihandelsabkommens ist.
-[^lvl........1-5]: [SR 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
-[^lvl........1-6]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^lvl........1-7]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^lvl........1-8]: [SR 0.632.401.021](https://fedlex.data.admin.ch/eli/cc/2019/84)
-[^lvl........1-9]: [SR 0.351.926.81](https://fedlex.data.admin.ch/eli/cc/2009/211)
-[^lvl........1-10]: [SR 0.631.242.05](https://fedlex.data.admin.ch/eli/cc/2011/150)
+[^1-1]: [SR 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
+[^1-2]: [SR 0.632.290.15](https://fedlex.data.admin.ch/eli/cc/1981/367_367_367)
+[^1-3]: [SR 0.632.401.813](https://fedlex.data.admin.ch/eli/cc/1987/201_201_201)
+[^1-4]: [SR 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949). Zur Vermeidung allfälliger Zweifel sei darauf hingewiesen, dass das Zusatzprotokoll über die gegenseitige Amtshilfe im Zollbereich ein integraler Bestandteil des Freihandelsabkommens ist.
+[^1-5]: [SR 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
+[^1-6]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^1-7]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^1-8]: [SR 0.632.401.021](https://fedlex.data.admin.ch/eli/cc/2019/84)
+[^1-9]: [SR 0.351.926.81](https://fedlex.data.admin.ch/eli/cc/2009/211)
+[^1-10]: [SR 0.631.242.05](https://fedlex.data.admin.ch/eli/cc/2011/150)
 
-## ........1 **Art. 2**Begriffsbestimmungen und Auslegungen
+#### Art. 2
 
-\1. In diesem Instrument bedeutet:
+**Begriffsbestimmungen und Auslegungen**
+
+<sup>1.</sup>
+
+In diesem Instrument bedeutet:
 
 - (a) «*mutatis mutandis*» mit den technischen Anpassungen, die nötig sind, damit die Handelsabkommen Schweiz–EU so angewendet werden können, als wären sie unter Berücksichtigung von Ziel und Zweck dieses Abkommens zwischen den Vertragsparteien abgeschlossen worden;
 - (b) «Inkorporierte Abkommen» die Bestimmungen der Handelsabkommen Schweiz–EU, wie sie in dieses Instrument inkorporiert sind und durch dieses abgeändert werden;
 - (c) «dieses Instrument» die vorliegenden Artikel 1–9 und die Bestimmungen der Anhänge, die die Inkorporierten Abkommen abändern; und
 - (d) «dieses Abkommen» dieses Instrument und die Inkorporierten Abkommen.
 
-\2. In einem Inkorporierten Abkommen bedeutet «dieses Abkommen» das Inkorporierte Abkommen.
+<sup>2.</sup> In einem Inkorporierten Abkommen bedeutet «dieses Abkommen» das Inkorporierte Abkommen.
 
-## ........1 **Art. 3**Ziel
+#### Art. 3
+
+**Ziel**
 
 Das übergeordnete Ziel dieses Abkommens ist der Erhalt der bestehenden Handelsbeziehungen zwischen den Vertragsparteien gemäss den Handelsabkommen Schweiz–EU und die Bereitstellung einer Plattform zur weiteren Handelsliberalisierung und zur Weiterentwicklung der Handelsbeziehungen zwischen ihnen.
 
-## ........1 **Art. 4**Räumlicher Geltungsbereich
+#### Art. 4
+
+**Räumlicher Geltungsbereich**
 
 Die Bestimmungen dieses Abkommens finden im Umfang und unter den Voraussetzungen, die unter den Handelsabkommen Schweiz–EU galten, unmittelbar bevor diese für das Vereinigte Königreich nicht mehr anwendbar waren, Anwendung auf die Schweiz einerseits und andererseits auf das Vereinigte Königreich und die folgenden Hoheitsgebiete, für deren internationale Beziehungen das Vereinigte Königreich verantwortlich ist:
 
 - (a) Gibraltar;
 - (b) die Kanalinseln und die Isle of Man; und
-- (c) die souveränen Basisgebiete Akrotiri und Dhekelia in Zypern[^lvl........1-11].
+- (c) die souveränen Basisgebiete Akrotiri und Dhekelia in Zypern[^4-1].
 
-[^lvl........1-11]: Angesichts der Regelungen des diesem Abk. angefügten Briefwechsels vom 8. Juli 2019 wenden das Vereinigte Königreich von Grossbritannien und Nordirland und die Schweizerische Eidgenossenschaft das Abkommen nicht auf die souveränen Basisgebiete an.
+[^4-1]: Angesichts der Regelungen des diesem Abk. angefügten Briefwechsels vom 8. Juli 2019 wenden das Vereinigte Königreich von Grossbritannien und Nordirland und die Schweizerische Eidgenossenschaft das Abkommen nicht auf die souveränen Basisgebiete an.
 
-## ........1 **Art. 5**Fortführung von Fristen
+#### Art. 5
 
-\1. Sofern dieses Instrument nichts anderes vorsieht gilt:
+**Fortführung von Fristen**
+
+<sup>1.</sup>
+
+Sofern dieses Instrument nichts anderes vorsieht gilt:
 
 - (a) falls eine in den Handelsabkommen Schweiz–EU vorgesehene Frist noch nicht verstrichen ist, wird der Rest dieser Frist in dieses Abkommen inkorporiert; und
 - (b) falls eine in den Handelsabkommen Schweiz–EU vorgesehene Frist verstrichen ist, bleiben alle daraus entstehenden Rechte und Pflichten zwischen den Vertragsparteien weiterhin anwendbar.
 
-\2. Ungeachtet von Absatz 1 bleiben Verweise in einem Inkorporierten Abkommen auf eine Frist in Bezug auf ein Verfahren oder eine andere administrative Angelegenheit wie Überprüfungsverfahren, Verfahren des Gemischten Ausschusses oder Notifikationen unberührt.
+<sup>2.</sup> Ungeachtet von Absatz 1 bleiben Verweise in einem Inkorporierten Abkommen auf eine Frist in Bezug auf ein Verfahren oder eine andere administrative Angelegenheit wie Überprüfungsverfahren, Verfahren des Gemischten Ausschusses oder Notifikationen unberührt.
 
-## ........1 **Art. 6**Gemischte Ausschüsse
+#### Art. 6
 
-\1. Ein von den Vertragsparteien unter einem Inkorporierten Abkommen eingesetzter Gemischter Ausschuss stellt insbesondere das ordnungsgemässe Funktionieren dieses Inkorporierten Abkommens ab dem Zeitpunkt sicher, ab dem die Handelsabkommen Schweiz–EU auf das Vereinigte Königreich nicht mehr anwendbar sind.
+**Gemischte Ausschüsse**
 
-\2. Der von den Vertragsparteien unter dem Inkorporierten Freihandelsabkommen eingesetzte Gemischte Ausschuss stellt zusätzlich zu seiner Rolle gemäss Absatz 1 sicher, dass dieses Instrument ordnungsgemäss funktioniert.
+<sup>1.</sup> Ein von den Vertragsparteien unter einem Inkorporierten Abkommen eingesetzter Gemischter Ausschuss stellt insbesondere das ordnungsgemässe Funktionieren dieses Inkorporierten Abkommens ab dem Zeitpunkt sicher, ab dem die Handelsabkommen Schweiz–EU auf das Vereinigte Königreich nicht mehr anwendbar sind.
 
-\3. Zwecks zweifelsfreiem Verständnis gelten die Beschlüsse eines unter einem Handelsabkommen Schweiz–EU geschaffenen Gemischten Ausschusses, die gelten, unmittelbar bevor dieses Handelsabkommen Schweiz–EU für das Vereinigte Königreich nicht mehr anwendbar ist, und die die Vertragsparteien dieses Abkommens betreffen, als *mutatis mutandis* von dem durch das entsprechende Inkorporierte Abkommen geschaffenen Gemischten Ausschuss verabschiedet.
+<sup>2.</sup> Der von den Vertragsparteien unter dem Inkorporierten Freihandelsabkommen eingesetzte Gemischte Ausschuss stellt zusätzlich zu seiner Rolle gemäss Absatz 1 sicher, dass dieses Instrument ordnungsgemäss funktioniert.
 
-## ........1 **Art. 7**Änderungen
+<sup>3.</sup> Zwecks zweifelsfreiem Verständnis gelten die Beschlüsse eines unter einem Handelsabkommen Schweiz–EU geschaffenen Gemischten Ausschusses, die gelten, unmittelbar bevor dieses Handelsabkommen Schweiz–EU für das Vereinigte Königreich nicht mehr anwendbar ist, und die die Vertragsparteien dieses Abkommens betreffen, als *mutatis mutandis* von dem durch das entsprechende Inkorporierte Abkommen geschaffenen Gemischten Ausschuss verabschiedet.
 
-\1. Die Vertragsparteien können schriftlich vereinbaren, dieses Abkommen zu ändern. Eine gemäss diesem Artikel gemachte Änderung tritt am ersten Tag des zweiten Monats in Kraft, nachdem die Mitteilung der zweiten Vertragspartei erfolgt ist, dass ihre internen Verfahren abgeschlossen sind, oder zu einem anderen von den Vertragsparteien vereinbarten Zeitpunkt.
+#### Art. 7
 
-\2. Ungeachtet von Absatz 1 kann ein gemäss einem Inkorporierten Abkommen eingesetzter Gemischter Ausschuss beschliessen, einen Anhang, eine Anlage, ein Protokoll oder eine Note dieses Inkorporierten Abkommens abzuändern, vorbehältlich der relevanten Bestimmungen des betreffenden Inkorporierten Abkommens.
+**Änderungen**
 
-## ........1 **Art. 8**Überprüfung
+<sup>1.</sup> Die Vertragsparteien können schriftlich vereinbaren, dieses Abkommen zu ändern. Eine gemäss diesem Artikel gemachte Änderung tritt am ersten Tag des zweiten Monats in Kraft, nachdem die Mitteilung der zweiten Vertragspartei erfolgt ist, dass ihre internen Verfahren abgeschlossen sind, oder zu einem anderen von den Vertragsparteien vereinbarten Zeitpunkt.
+
+<sup>2.</sup> Ungeachtet von Absatz 1 kann ein gemäss einem Inkorporierten Abkommen eingesetzter Gemischter Ausschuss beschliessen, einen Anhang, eine Anlage, ein Protokoll oder eine Note dieses Inkorporierten Abkommens abzuändern, vorbehältlich der relevanten Bestimmungen des betreffenden Inkorporierten Abkommens.
+
+#### Art. 8
+
+**Überprüfung**
 
 Mit dem Ziel, ihre engen Handels- und Wirtschaftsbeziehungen aufrechtzuerhalten und weiterzuentwickeln, führen die Vertragsparteien innerhalb von 24 Monaten ab Inkrafttreten dieses Abkommens exploratorische Gespräche durch, um dieses Abkommen zu ersetzen, zu modernisieren oder weiterzuentwickeln. Die Vertragsparteien können dabei Folgendes in Betracht ziehen:
 
@@ -124,23 +148,27 @@ Mit dem Ziel, ihre engen Handels- und Wirtschaftsbeziehungen aufrechtzuerhalten 
 - (b) Entwicklungen in anderen internationalen Foren, insbesondere in der WTO; und
 - (c) zusätzliche Bereiche, wie Handelserleichterung, Dienstleistungshandel, Schutz der Rechte an geistigem Eigentum, Arbeit, Umwelt, handelspolitische Schutzmassnahmen und Streitschlichtung.
 
-## ........1 **Art. 9**Inkrafttreten, vorläufige Anwendung und Beendigung
+#### Art. 9
 
-\1. Ausser in den Fällen, in denen sie vor der Kündigung oder Beendigung liegende Kündigungsfristen vorsehen, werden die Bestimmungen der Handelsabkommen Schweiz–EU, die die Authentifizierung von Texten, das Inkrafttreten, die vorläufige Anwendung, die Dauer, die Kündigung oder Beendigung erlauben, nicht in dieses Abkommen inkorporiert.
+**Inkrafttreten, vorläufige Anwendung und Beendigung**
 
-\2. Dieses Abkommen wird von den Vertragsparteien gemäss ihren innerstaatlichen Verfahren genehmigt.
+<sup>1.</sup> Ausser in den Fällen, in denen sie vor der Kündigung oder Beendigung liegende Kündigungsfristen vorsehen, werden die Bestimmungen der Handelsabkommen Schweiz–EU, die die Authentifizierung von Texten, das Inkrafttreten, die vorläufige Anwendung, die Dauer, die Kündigung oder Beendigung erlauben, nicht in dieses Abkommen inkorporiert.
 
-\3. Dieses Abkommen tritt in Kraft, wenn die Handelsabkommen Schweiz–EU nicht mehr auf das Vereinigte Königreich Anwendung finden, sofern sich die Vertragsparteien bis zu diesem Zeitpunkt gegenseitig mitgeteilt haben, dass sie ihre innerstaatlichen Verfahren abgeschlossen haben. Andernfalls tritt dieses Abkommen am ersten Tag des zweiten Monats in Kraft, nachdem die Mitteilung der zweiten Vertragspartei erfolgt ist, dass ihre entsprechenden innerstaatlichen Verfahren abgeschlossen sind.
+<sup>2.</sup> Dieses Abkommen wird von den Vertragsparteien gemäss ihren innerstaatlichen Verfahren genehmigt.
 
-\4. Bis zum Inkrafttreten wenden die Vertragsparteien dieses Abkommen gemäss ihren jeweiligen internen Anforderungen und Verfahren vorläufig an, sobald die Handelsabkommen Schweiz–EU nicht mehr auf das Vereinigte Königreich Anwendung finden. Eine Vertragspartei kann die vorläufige Anwendung dieses Abkommens mit schriftlicher Notifikation an die andere Vertragspartei beenden. Die Beendigung wird am ersten Tag des zweiten Monats nach dieser Notifikation wirksam. Wird dieses Abkommen vorläufig angewandt, ist der Begriff «Inkrafttreten dieses Abkommens» als der Zeitpunkt zu verstehen, an dem eine solche vorläufige Anwendung Geltung erlangt.
+<sup>3.</sup> Dieses Abkommen tritt in Kraft, wenn die Handelsabkommen Schweiz–EU nicht mehr auf das Vereinigte Königreich Anwendung finden, sofern sich die Vertragsparteien bis zu diesem Zeitpunkt gegenseitig mitgeteilt haben, dass sie ihre innerstaatlichen Verfahren abgeschlossen haben. Andernfalls tritt dieses Abkommen am ersten Tag des zweiten Monats in Kraft, nachdem die Mitteilung der zweiten Vertragspartei erfolgt ist, dass ihre entsprechenden innerstaatlichen Verfahren abgeschlossen sind.
 
-\5. Eine Vertragspartei kann dieses Abkommen oder jedes Inkorporierte Abkommen beenden, indem sie die andere Vertragspartei über ihre Absicht notifiziert. Dieses Abkommen oder das Inkorporierte Abkommen, das diese Vertragspartei beenden will, tritt zwölf Monate nach Erhalt dieser Notifikation ausser Kraft, sofern im Inkorporierten Abkommen, das beendet werden soll, nichts anderes geregelt ist.
+<sup>4.</sup> Bis zum Inkrafttreten wenden die Vertragsparteien dieses Abkommen gemäss ihren jeweiligen internen Anforderungen und Verfahren vorläufig an, sobald die Handelsabkommen Schweiz–EU nicht mehr auf das Vereinigte Königreich Anwendung finden. Eine Vertragspartei kann die vorläufige Anwendung dieses Abkommens mit schriftlicher Notifikation an die andere Vertragspartei beenden. Die Beendigung wird am ersten Tag des zweiten Monats nach dieser Notifikation wirksam. Wird dieses Abkommen vorläufig angewandt, ist der Begriff «Inkrafttreten dieses Abkommens» als der Zeitpunkt zu verstehen, an dem eine solche vorläufige Anwendung Geltung erlangt.
+
+<sup>5.</sup> Eine Vertragspartei kann dieses Abkommen oder jedes Inkorporierte Abkommen beenden, indem sie die andere Vertragspartei über ihre Absicht notifiziert. Dieses Abkommen oder das Inkorporierte Abkommen, das diese Vertragspartei beenden will, tritt zwölf Monate nach Erhalt dieser Notifikation ausser Kraft, sofern im Inkorporierten Abkommen, das beendet werden soll, nichts anderes geregelt ist.
 
 *Zu Urkund dessen* haben die hierzu von ihrer jeweiligen Regierung gehörig befugten Unterzeichnenden dieses Abkommen unterzeichnet. Geschehen zu Bern am 11. Februar 2019 in zwei Urschriften in deutscher und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. Im Falle von Abweichungen zwischen den Sprachversionen ist der englische Wortlaut massgebend. Für die Regierung der Schweizerischen Eidgenossenschaft: Guy Parmelin Für die Regierung des Vereinigten Königreichs von Grossbritannien und Nordirland: Liam Fox
 
-Anhang 1
+Anhang 1*[^t-2]*
 
 ## Änderungen des Freihandelsabkommens
+
+[^t-2]: Bereinigt gemäss Beschlusses Nr. 2/2021 des gemischten Handelsausschusses vom 16. Juli 2021, provisorisch angewendet ab 1. Sept. 2021 ([AS 2021 546](https://fedlex.data.admin.ch/eli/oc/2021/546)).
 
 Für die Zwecke dieses Abkommen wird das Inkorporierte Freihandelsabkommen[^annex1-lvlu1-1] wie folgt geändert:
 
@@ -152,692 +180,850 @@ Für die Zwecke dieses Abkommen wird das Inkorporierte Freihandelsabkommen[^anne
 - (b) Artikel 1 Absatz 3 wird nicht inkorporiert.
 - (c) Die Artikel 2, 3, 4 und 5 werden wie folgt ersetzt:
 
-### ........1 «**Art. 2**Anwendung von Preisausgleichsmassnahmen
+### «**Art. 2**Anwendung von Preisausgleichsmassnahmen
 
 [^annex1-lvlu1-1]: [SR 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
 [^annex1-lvlu1-2]: [SR 0.632.401.23](https://fedlex.data.admin.ch/eli/cc/2005/238)
 
 Um Unterschieden bei den Kosten der landwirtschaftlichen Rohstoffe, die für die Herstellung der in Tabelle I genannten Erzeugnisse verwendet werden, Rechnung zu tragen, schliesst das Abkommen die Anwendung von Preisausgleichsmassnahmen in Form der Erhebung von Agrarteilbeträgen bei der Einfuhr dieser Erzeugnisse nicht aus.
 
-### ........1 **Art. 3**Preisausgleichsmassnahmen bei Einfuhren
-
-\1. Eine Vertragspartei kann Agrarteilbeträge erheben, um den unterschiedlichen Kosten der in Tabelle III aufgeführten landwirtschaftlichen Rohstoffe Rechnung zu tragen.
-
-\2. Der von der Schweiz angewandte Agrarteilbetrag für die in Tabelle I aufgeführten Erzeugnisse mit Ursprung im Vereinigten Königreich darf den Agrarteilbetrag, den die Schweiz gemäss Protokoll Nr. 2 des Freihandelsabkommens für die gleichen Erzeugnisse mit Ursprung in der Europäischen Union anwendet, nicht überschreiten. Für die in Tabelle IV aufgeführten Erzeugnisse mit Ursprung im Vereinigten Königreich wird von der Schweiz kein Zoll erhoben.
-
-\3. Wenn der inländische Referenzpreis der Schweiz für landwirtschaftliche Rohstoffe, der in Protokoll Nr. 2 des Freihandelsabkommens festgelegt ist, niedriger ist als der inländische Rohstoffpreis des Vereinigten Königreichs für diesen landwirtschaftlichen Rohstoff, kann das Vereinigte Königreich Preisausgleichsmassnahmen gemäss Artikel 2 für Erzeugnisse anwenden, die diesen landwirtschaftlichen Rohstoff enthalten. In diesem Fall notifiziert das Vereinigte Königreich der Schweiz den entsprechenden inländischen Rohstoffpreis. Der vom Vereinigten Königreich erhobene Agrarteilbetrag für Erzeugnisse mit Ursprung in der Schweiz darf den Agrarteilbetrag, den die Europäische Union gemäss Protokoll Nr. 2 des Freihandelsabkommens für Erzeugnisse mit Ursprung in der Schweiz erhebt, nicht überschreiten.
-
-\4. Ungeachtet der Absätze 2 und 3 kann eine Vertragspartei in Fällen, in denen die Inlandspreise für landwirtschaftliche Rohstoffe im Vereinigten Königreich erheblich vom inländischen Referenzpreis der Europäischen Union gemäss Protokoll Nr. 2 des Freihandelsabkommens abweichen, im unter diesem Abkommen eingesetzten Gemischten Ausschuss Konsultationen über alle erforderlichen Anpassungen der Vorschriften zur Erhebung des Agrarteilbetrags gemäss diesem Protokoll beantragen.
-
-### ........1 **Art. 4**Referenzpreise
-
-Die Schweiz notifiziert dem Vereinigten Königreich die in Protokoll Nr. 2 des Freihandelsabkommens festgelegten Referenzpreise für landwirtschaftliche Rohstoffe der Schweiz und der Europäischen Union.
-
-### ........1 **Art. 5**Überprüfung von Preisen
-
-Der Gemischte Ausschuss überprüft auf Antrag einer Vertragspartei die gemäss Artikel 3 Absatz 3 und Artikel 4 von den Vertragsparteien notifizierten Preise.»
-
-- (d) In Artikel 7 Absatz 1 wird «, die Anhänge dieser Tabellen» nicht inkorporiert.
-- (e) Tabelle III wird ersetzt durch:
-
-Tabelle III
-
-Landwirtschaftliche Rohstoffe, für die ein Preisausgleich zur Anwendung kommt
-
-<table>
-<tr><td>Landwirtschaftlicher Rohstoff</td></tr>
-<tr><td>Weichweizen</td></tr>
-<tr><td>Hartweizen</td></tr>
-<tr><td>Roggen</td></tr>
-<tr><td>Gerste</td></tr>
-<tr><td>Mais</td></tr>
-<tr><td>Weichweizenmehl</td></tr>
-<tr><td>Vollmilchpulver</td></tr>
-<tr><td>Magermilchpulver</td></tr>
-<tr><td>Butter</td></tr>
-<tr><td>Weisszucker</td></tr>
-<tr><td>Eier</td></tr>
-<tr><td>Kartoffeln, frisch</td></tr>
-<tr><td>Pflanzliche Fette</td></tr>
-</table>
-
-- (f) Tabelle IV wird ersetzt durch:
-
-Tabelle IV
-
-Schweizerische Einfuhrregelung
-
-Für die in der folgenden Tabelle aufgeführten Erzeugnisse wird kein Zoll erhoben.
-
-<table>
-<tr><th>Schweizerische Zollposition im HS 2012</th><th>Anmerkungen</th></tr>
-<tr><td>1901.9099</td><td></td></tr>
-<tr><td>1904.9020</td><td></td></tr>
-<tr><td>1905.9040</td><td></td></tr>
-<tr><td>2103.2000</td><td></td></tr>
-<tr><td>ex 2103.9000</td><td>Ausgenommen Mango-Chutney, flüssig</td></tr>
-<tr><td>2104.1000</td><td></td></tr>
-<tr><td>2106.9010</td><td></td></tr>
-<tr><td>2106.9024</td><td></td></tr>
-<tr><td>2106.9029</td><td></td></tr>
-<tr><td>2106.9030</td><td></td></tr>
-<tr><td>2106.9040</td><td></td></tr>
-<tr><td>2106.9099</td><td></td></tr>
-<tr><td>ex 2202.9090</td><td>Milcherzeugnisse der Positionen 0401 und 0402 enthaltend</td></tr>
-<tr><td>2208.9010</td><td></td></tr>
-<tr><td>2208.9021</td><td></td></tr>
-<tr><td>2208.9022</td><td></td></tr>
-<tr><td>2208.9099</td><td></td></tr>
-</table>
-
-\3. Das Protokoll Nr. 3[^annex1-lvlu1-lvl........1-1] über die Bestimmung des Begriffs «Erzeugnisse mit Ursprung in» oder «Ursprungserzeugnisse» und über die Methoden der Zusammenarbeit der Verwaltungen wird durch den Text in der Anlage ersetzt.
-
-\4. In Zusammenhang mit dem Zusatzprotokoll[^annex1-lvlu1-lvl........1-2] über die gegenseitige Amtshilfe im Zollbereich findet die Gemeinsame Erklärung der Parteien des Zusatzprotokolls, die eine Arbeitsgruppe zur Unterstützung bei der Verwaltung des Zusatzprotokolls einsetzt, mit derselben Rechtswirkung *mutatis mutandis* Anwendung zwischen den Vertragsparteien dieses Abkommens, vorbehältlich der Bestimmungen dieses Instruments.
-
-[^annex1-lvlu1-lvl........1-1]: [SR 0.632.401.31](https://fedlex.data.admin.ch/eli/cc/2013/584-2)
-[^annex1-lvlu1-lvl........1-2]: [SR 0.632.401.02](https://fedlex.data.admin.ch/eli/cc/1999/297)
-
 Anlage zu Anhang 1
 
-## «Protokoll Nr. 3 über die Bestimmung des Begriffs «Erzeugnisse mit Ursprung in» oder «Ursprungserzeugnisse» und über die Methoden der Zusammenarbeit der Verwaltungen
+## Protokoll Nr. 3
 
-### Titel I: Allgemeine Bestimmungen
+über die Bestimmung des Begriffs «Erzeugnisse mit Ursprung in» oder «Ursprungserzeugnisse» und Methoden der Zusammenarbeit der Verwaltungen
 
-### ........1 **Art. 1**Begriffsbestimmungen
+### Inhaltsübersicht
 
-Für die Zwecke dieses Protokolls gelten folgende Begriffsbestimmungen:
+Titel I Allgemeines
 
-- (a) «Herstellen» ist jede Be- oder Verarbeitung einschliesslich Zusammenbau oder besondere Vorgänge.
-- (b) «Vormaterial» sind jegliche Zutaten, Rohstoffe, Komponenten oder Teile usw., die beim Herstellen des Erzeugnisses verwendet werden.
-- (c) «Erzeugnis» ist die hergestellte Ware, auch wenn sie zur späteren Verwendung in einem anderen Herstellungsvorgang bestimmt ist.
-- (d) «Waren» sind sowohl Vormaterialien als auch Erzeugnisse.
-- (e) «Zollwert» ist der Wert, der nach dem Übereinkommen zur Durchführung des Artikels VII des Allgemeinen Zoll- und Handelsabkommens 1994 (WTO-Übereinkommen über den Zollwert)[^annexu1-lvlu1-titI-lvl........1-1] festgelegt wird.
-- (f) «Ab-Werk-Preis» ist der Preis des Erzeugnisses ab Werk, der dem Hersteller im Vereinigten Königreich oder in der Schweiz gezahlt wird, in dessen Unternehmen die letzte Be- oder Verarbeitung durchgeführt worden ist, sofern dieser Preis den Wert aller verwendeten Vormaterialien umfasst, abzüglich aller internen Abgaben, die erstattet werden oder erstattet werden können, wenn das hergestellte Erzeugnis ausgeführt wird.
-- (g) «Wert der Vormaterialien» ist der Zollwert der verwendeten Vormaterialien ohne Ursprungseigenschaft zum Zeitpunkt der Einfuhr oder, wenn dieser nicht bekannt ist und nicht festgestellt werden kann, der erste feststellbare Preis, der im Vereinigten Königreich oder in der Schweiz für die Vormaterialien gezahlt wird.
-- (h) «Wert der Vormaterialien mit Ursprungseigenschaft» ist der Wert dieser Vormaterialien nach Buchstabe g), der *mutatis mutandis* anzuwenden ist.
-- (i) «Wertzuwachs» ist der Ab-Werk-Preis abzüglich des Zollwerts der verwendeten Vormaterialien, die die Ursprungseigenschaft eines der in den Artikeln 3 und 4 genannten anderen Länder, mit denen die Kumulierung zulässig ist, besitzen oder, wenn der Zollwert nicht bekannt ist und nicht festgestellt werden kann, der erste feststellbare Preis, der im Vereinigten Königreich oder in der Schweiz für die Vormaterialien gezahlt wird.
-- (j) «Kapitel» und «Position» sind die Kapitel und Positionen (vierstellige Codes) der Nomenklatur des Harmonisierten Systems zur Bezeichnung und Codierung der Waren (in diesem Protokoll «Harmonisiertes System» oder «HS» genannt).
-- (k) «einreihen» ist die Einreihung von Erzeugnissen oder Vormaterialien in eine bestimmte Position.
-- (l) «Sendung» sind Erzeugnisse, die entweder gleichzeitig von einem Ausführer an einen Empfänger oder mit einem einzigen Frachtpapier oder - bei Fehlen eines solchen Papiers - mit einer einzigen Rechnung vom Ausführer an den Empfänger versandt werden.
-- (m) «Inkorporierte Anhänge I-IVb» sind die Anhänge I-IVb der Anlage I des Regionalen Übereinkommens über die Pan-Europa-Mittelmeer-Präferenzursprungsregeln, da diese Anhänge durch Artikel 39 dieses Protokolls inkorporiert werden;
-- (n) «Gebiete» sind die Gebiete einschliesslich der Küstenmeere.
-- (o) «Euro» bezeichnet die Einheitswährung der Europäischen Währungsunion.
+Art. 1 Begriffsbestimmungen
 
-[^annexu1-lvlu1-titI-lvl........1-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+Titel II Bestimmung des Begriffs «Erzeugnisse mit Ursprung in» oder «Ursprungserzeugnisse»
 
-### Titel II: Bestimmung des Begriffs «Erzeugnisse mit Ursprung in» oder «Ursprungserzeugnisse»
+Art. 2 Allgemeine Vorschriften
 
-### ........1 **Art. 2**Allgemeine Bestimmungen
+Art. 3 Vollständig gewonnene oder hergestellte Erzeugnisse
 
-\1. Für die Zwecke dieses Abkommens gelten als Ursprungserzeugnisse des Vereinigten Königreichs:
+Art. 4 Ausreichende Be- oder Verarbeitungen
 
-- (a) Erzeugnisse, die im Sinne des Artikels 5 im Vereinigten Königreich vollständig gewonnen oder hergestellt worden sind; und
-- (b) Erzeugnisse, die im Vereinigten Königreich unter Verwendung von Vormaterialien hergestellt worden sind, die dort nicht vollständig gewonnen oder hergestellt worden sind, vorausgesetzt, dass diese Vormaterialien im Vereinigten Königreich im Sinne des Artikels 6 in ausreichendem Masse be- oder verarbeitet worden sind;
+Art. 5 Toleranzregel
 
-\2. Für die Zwecke dieses Abkommens gelten als Ursprungserzeugnisse der Schweiz:
+Art. 6 Nicht ausreichende Be- oder Verarbeitungen
 
-- (a) Erzeugnisse, die im Sinne des Artikels 5 in der Schweiz vollständig gewonnen oder hergestellt worden sind; und
-- (b) Erzeugnisse, die in der Schweiz unter Verwendung von Vormaterialien hergestellt worden sind, die dort nicht vollständig gewonnen oder hergestellt worden sind, vorausgesetzt, dass diese Vormaterialien in der Schweiz im Sinne des Artikels 6 in ausreichen dem Masse be- oder verarbeitet worden sind.
+Art. 7 Ursprungskumulierung
 
-### ........1 **Art. 3**Kumulierung im Vereinigten Königreich
+Art. 8 Voraussetzungen für die Anwendung der Ursprungskumulierung
 
-\1. Unbeschadet des Artikels 2 Absatz 1 gelten als Ursprungserzeugnisse des Vereinigten Königreichs Erzeugnisse, die dort unter Verwendung von Vormaterialien mit Ursprung in der Schweiz (einschliesslich Liechtensteins[^annexu1-lvlu1-titII-lvl........1-1]), Island, Norwegen, der Türkei oder in der Europäischen Union hergestellt worden sind, sofern die im Vereinigten Königreich vorgenommene Be- oder Verarbeitung über die in Artikel 7 genannten Behandlungen hinausgeht. Diese Vormaterialien brauchen nicht in ausreichendem Masse be- oder verarbeitet worden zu sein.
+Art. 9 Massgebende Einheit
 
-\2. Unbeschadet des Artikels 2 Absatz 1 gelten als Ursprungserzeugnisse des Vereinigten Königreichs Erzeugnisse, die dort unter Verwendung von Vormaterialien mit Ursprung in einem der in Anhang A dieses Protokolls genannten Länder hergestellt worden sind, sofern die im Vereinigten Königreich vorgenommene Be- oder Verarbeitung über die in Artikel 7 genannten Behandlungen hinausgeht. Diese Vormaterialien brauchen nicht in ausreichendem Masse be- oder verarbeitet worden zu sein.
+Art. 10 Warenzusammenstellungen
 
-\3. Unbeschadet des Artikels 2 Absatz 1 gilt eine in Island, Norwegen oder der Europäischen Union vorgenommen Be- oder Verarbeitung als im Vereinigten Königreich vorgenommen, sofern die hergestellten Erzeugnisse anschliessend im Vereinigten Königreich einer Be- oder Verarbeitung unterzogen werden, welche über die in Artikel 7 genannten Behandlungen hinausgeht.
+Art. 11 Neutrale Elemente
 
-\4. Geht die im Vereinigten Königreich vorgenommene Be- oder Verarbeitung nicht über die in Artikel 7 genannten Behandlungen hinaus, so gilt das hergestellte Erzeugnis für die Kumulierung gemäss Absatz 1 und 2 nur dann als Ursprungserzeugnis des Vereinigten Königreichs, wenn der dort erzielte Wertzuwachs den Wert der verwendeten Vormaterialien mit Ursprung in einem der anderen Länder übersteigt. Anderenfalls gilt das hergestellte Erzeugnis als Ursprungserzeugnis des Landes, auf das der höchste Wert der bei der Herstellung im Vereinigten Königreich verwendeten Vormaterialien entfällt.
+Art. 12 Buchmässige Trennung
 
-\5. Geht die im Vereinigten Königreich durchgeführte Be- oder Verarbeitung nicht über die in Artikel 7 genannte Behandlung hinaus, so gilt das hergestellte Erzeugnis für die Kumulierung gemäss Absatz 3 nur dann als Ursprungserzeugnis des Vereinigten Königreichs, wenn der Wertzuwachs dort höher ist als der Wertzuwachs in einem der anderen Länder.
+Titel III Territoriale Auflagen
 
-\6. Ursprungserzeugnisse der in den Absätzen 1 bis 2 genannten Länder, die im Vereinigten Königreich keiner Be- oder Verarbeitung unterzogen worden sind, behalten ihre Ursprungseigenschaft, wenn sie in eines dieser Länder ausgeführt werden.
+Art. 13 Territorialitätsprinzip
 
-\7. Die Kumulierung nach diesem Artikel ist nur unter der Voraussetzung zulässig, dass:
+Art. 14 Nichtveränderung
 
-- (a) zwischen den am Erwerb der Ursprungseigenschaft beteiligten Ländern und dem Bestimmungsland ein Präferenzhandelsabkommen nach Artikel XXIV des GATT 1994[^annexu1-lvlu1-titII-lvl........1-2] Anwendung findet[^annexu1-lvlu1-titII-lvl........1-3];
-- (b) die Vormaterialien und Erzeugnisse die Ursprungseigenschaft aufgrund von Ursprungsregeln erworben haben, die mit den Regeln dieses Protokolls übereinstimmen; und
-- (c) Bekanntmachungen über die Erfüllung der Voraussetzungen für die Anwendung der Kumulierung in den Vertragsparteien veröffentlicht worden sind.
+Art. 15 Ausstellungen
 
-\8. Das Vereinigte Königreich teilt der Schweiz die Einzelheiten der jeweils anwendbaren Abkommen mit den in den Absätzen 1 bis 2 genannten anderen Ländern mit, einschliesslich des Tages ihres Inkrafttretens und der jeweiligen Ursprungsregeln.
+Titel IV Rückvergütung oder Befreiung
 
-[^annexu1-lvlu1-titII-lvl........1-1]: Aufgrund des Zollvertrages zwischen der Schweiz und Liechtenstein werden Erzeugnisse mit Ursprung in Liechtenstein als Ursprungserzeugnisse der Schweiz angesehen.
-[^annexu1-lvlu1-titII-lvl........1-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^annexu1-lvlu1-titII-lvl........1-3]: Die Vertragsparteien anerkennen das Bestreben, die bestehenden Rechte und Pflichten zwischen ihnen aufrechtzuerhalten, und dass vorgesehen ist, dass das Vereinigte Königreich und die Europäische Union ein Präferenzabkommen gemäss Artikel XXIV des Allgemeinen Zoll- und Handelsabkommens 1994 abschliessen werden. In Anbetracht dessen kann die (in den Absätzen 1 bis 6 des vorliegenden Artikels vorgesehene) Kumulierung in Bezug auf die Europäische Union bis zur allfälligen Anwendbarkeit eines solchen Abkommens jedoch für einen Übergangszeitraum von drei Jahren fortgesetzt werden, sofern das Vereinigte Königreich und die Europäische Union über Vereinbarungen über die Zusammenarbeit der Verwaltungen verfügen, die eine ordnungsgemässe Anwendung dieses Artikels gewährleisten, und dass zwischen der Europäischen Union und der Schweiz ein Präferenzhandelsabkommen nach Artikel XXIV des GATT 1994 anwendbar ist. Spätestens sechs Monate vor Ablauf der Übergangszeit konsultieren die Vertragsparteien, ob die Frist verlängert werden soll. Diese Bestimmung kann durch Beschluss des Gemischten Ausschusses geändert und die Übergangszeit verlängert werden. Sollte eine solche Änderung erforderlich sein, so sind die Vertragsparteien bestrebt, Vereinbarungen zu treffen, die für den Handel zwischen ihnen nicht weniger vorteilhaft sind.
+Art. 16 Zollrückvergütung oder Zollbefreiung
 
-### ........1 **Art. 4**Kumulierung in der Schweiz
+Titel V Nachweis der Ursprungseigenschaft
 
-\1. Unbeschadet des Artikels 2 Absatz 2 gelten als Ursprungserzeugnisse der Schweiz Erzeugnisse, die dort unter Verwendung von Vormaterialien mit Ursprung im Vereinigten Königreich, in Island, Norwegen, der Türkei oder in der Europäischen Union hergestellt worden sind, sofern die in der Schweiz vorgenommene Be- oder Verarbeitung über die in Artikel 7 genannten Behandlungen hinausgeht. Diese Vormaterialien brauchen nicht in ausreichendem Masse be- oder verarbeitet worden zu sein.
+Art. 17 Allgemeine Vorschriften
 
-\2. Unbeschadet des Artikels 2 Absatz 2 gelten als Ursprungserzeugnisse der Schweiz Erzeugnisse, die dort unter Verwendung von Vormaterialien mit Ursprung in einem der in Anhang A dieses Protokolls genannten Länder sofern die in der Schweiz vorgenommene Be- oder Verarbeitung über die in Artikel 7 genannten Behandlungen hinausgeht. Diese Vormaterialien brauchen nicht in ausreichendem Masse be- oder verarbeitet worden zu sein.
+Art. 18 Voraussetzungen für die Ausfertigung einer Ursprungserklärung
 
-\3. Geht die in der Schweiz vorgenommene Be- oder Verarbeitung nicht über die in Artikel 7 genannten Behandlungen hinaus, so gilt das hergestellte Erzeugnis nur dann als Ursprungserzeugnis der Schweiz, wenn der dort erzielte Wertzuwachs den Wert der verwendeten Vormaterialien mit Ursprung in einem der in den Absätzen 1 bis 2 genannten anderen Länder übersteigt. Anderenfalls gilt das hergestellte Erzeugnis als Ursprungserzeugnis des Landes, auf das der höchste Wert der bei der Herstellung in der Schweiz verwendeten Vormaterialien entfällt.
+Art. 19 Ermächtigter Ausführer
 
-\4. Ursprungserzeugnisse der in den Absätzen 1 bis 2 genannten Länder, die in der Schweiz keiner Be- oder Verarbeitung unterzogen worden sind, behalten ihre Ursprungseigenschaft, wenn sie in eines dieser Länder ausgeführt werden.
+Art. 20 Verfahren für die Ausstellung der Warenverkehrsbescheinigung EUR.1
 
-\5. Die Kumulierung nach diesem Artikel ist nur unter der Voraussetzung zulässig, dass:
+Art. 20<sup>bis</sup> Elektronisch ausgestellte Warenverkehrsbescheinigungen EUR.1
 
-- (a) zwischen den am Erwerb der Ursprungseigenschaft beteiligten Ländern und dem Bestimmungsland ein Präferenzhandelsabkommen nach Artikel XXIV des GATT 1994 Anwendung findet[^annexu1-lvlu1-titII-lvl........1-4];
-- (b) die Vormaterialien und Erzeugnisse die Ursprungseigenschaft aufgrund von Ursprungsregeln erworben haben, die mit den Regeln dieses Protokolls übereinstimmen; und
-- (c) Bekanntmachungen über die Erfüllung der Voraussetzungen für die Anwendung der Kumulierung in den Vertragsparteien veröffentlicht worden sind.
+Art. 21 Nachträglich ausgestellte Warenverkehrsbescheinigung EUR.1
 
-\6. Die Schweiz teilt dem Vereinigten Königreich die Einzelheiten der Abkommen mit den in den Absätzen 1 bis 2 genannten anderen Ländern mit, einschliesslich des Tages ihres Inkrafttretens und der jeweiligen Ursprungsregeln.
+Art. 22 Ausstellung eines Duplikats der Warenverkehrsbescheinigung EUR.1
 
-[^annexu1-lvlu1-titII-lvl........1-4]: Die Vertragsparteien anerkennen das Bestreben, die bestehenden Rechte und Pflichten zwischen ihnen aufrechtzuerhalten, und dass vorgesehen ist, dass das Vereinigte Königreich und die Europäische Union ein Präferenzabkommen gemäß Artikel XXIV des Allgemeinen Zoll- und Handelsabkommens von 1994 abschliessen werden. In Anbetracht dessen kann die (in den Absätzen 1–4 des vorliegenden Artikels) vorgesehene Kumulierung in Bezug auf die Europäische Union bis zur allfälligen Anwendbarkeit eines solchen Abkommens jedoch für einen Übergangszeitraum von drei Jahren fortgesetzt werden, sofern das Vereinigte Königreich und die Europäische Union über Vereinbarungen über die Zusammenarbeit der Verwaltungen verfügen, die eine ordnungsgemässe Anwendung dieses Artikels gewährleisten und dass zwischen der Europäischen Union und der Schweiz ein Präferenzhandelsabkommen nach Artikel XXIV des GATT 1994 anwendbar ist. Spätestens sechs Monate vor Ablauf der Übergangszeit konsultieren die Vertragsparteien, ob die Frist verlängert werden soll. Diese Bestimmung kann durch Beschluss des Gemischten Ausschusses geändert und die Übergangszeit verlängert werden. Sollte eine solche Änderung erforderlich sein, so sind die Vertragsparteien bestrebt, Vereinbarungen zu treffen, die für den Handel zwischen ihnen nicht weniger vorteilhaft sind.
+Art. 23 Geltungsdauer der Ursprungsnachweise
 
-### ........1 **Art. 5**Vollständig gewonnene oder hergestellte Erzeugnisse
+Art. 24 Freizonen
 
-\1. Als im Vereinigten Königreich oder in der Schweiz vollständig gewonnen oder hergestellt gelten:
+Art. 25 Einfuhranforderungen
 
-- (a) dort aus dem Boden oder dem Meeresgrund gewonnene mineralische Erzeugnisse;
-- (b) dort geerntete pflanzliche Erzeugnisse;
-- (c) lebende Tiere, dort geboren oder ausgeschlüpft und dort aufgezogen;
-- (d) Erzeugnisse von dort aufgezogenen, lebenden Tieren;
-- (e) dort erzielte Jagdbeute und Fischfänge;
-- (f) Erzeugnisse der Seefischerei und andere von eigenen Schiffen ausserhalb der Küstenmeere der Vertragsparteien aus dem Meer gewonnene Erzeugnisse;
-- (g) Erzeugnisse, die an Bord eigener Fabrikschiffe ausschliesslich aus den unter Buchstabe f genannten Erzeugnissen hergestellt werden;
-- (h) dort gesammelte Altwaren, die nur zur Gewinnung von Rohstoffen verwendet werden können, einschliesslich gebrauchter Reifen, die nur zur Runderneuerung oder als Abfall verwendet werden können;
-- (i) bei einer dort ausgeübten Produktionstätigkeit anfallende Abfälle und Schrott;
-- (j) aus dem Meeresboden oder Meeresuntergrund ausserhalb der eigenen Küstenmeere gewonnene Erzeugnisse, sofern sie zum Zwecke der Nutzbarmachung Ausschliesslichkeitsrechte über diesen Teil des Meeresbodens oder Meeresuntergrunds ausüben; und
-- (k) Waren, die dort ausschliesslich aus unter den Buchstaben a bis j aufgeführten Erzeugnissen hergestellt werden.
+Art. 26 Einfuhr in Teilsendungen
 
-\2. Die Begriffe «eigene Schiffe» und «eigene Fabrikschiffe» in Absatz 1 Buchstabe f bzw. g sind nur anwendbar auf Schiffe und Fabrikschiffe:
+Art. 27 Ausnahme vom Ursprungsnachweis
 
-- (a) die im Vereinigten Königreich oder in der Schweiz ins Schiffsregister eingetragen oder dort angemeldet sind;
-- (b) die unter der Flagge des Vereinigten Königreichs oder der Schweiz fahren;
-- (c) die mindestens zur Hälfte Eigentum von Staatsangehörigen der Schweiz, des Vereinigten Königreichs oder eines Mitgliedstaates der Europäischen Union oder einer Gesellschaft sind, die ihren Hauptsitz in einem dieser Staaten hat, bei der der oder die Geschäftsführer, der Vorsitzende des Vorstands oder Aufsichtsrats und die Mehrheit der Mitglieder dieser Organe Staatsangehörige des Vereinigten Königreichs, eines Mitgliedstaates der Europäischen Union oder der Schweiz sind und – im Falle von Personengesellschaften und Gesellschaften mit beschränkter Haftung – ausserdem das Geschäftskapital mindestens zur Hälfte den betreffenden Staaten oder öffentlich-rechtlichen Körperschaften oder Staatsangehörigen dieser Staaten gehört;
-- (d) deren Schiffsführung aus Staatsangehörigen der Schweiz, des Vereinigten Königreichs, oder eines Mitgliedstaates der Europäischen Union besteht; und
-- (e) deren Besatzung zu mindestens 75 v.H. aus Staatsangehörigen der Schweiz, des Vereinigten Königreichs oder eines Mitgliedstaates der Europäischen Union besteht.
+Art. 28 Abweichungen und Formfehler
 
-### ........1 **Art. 6**In ausreichendem Masse be- oder verarbeitete Erzeugnisse
+Art. 29 Lieferantenerklärung
 
-\1. Für die Zwecke des Artikels 2 gelten Erzeugnisse, die nicht vollständig gewonnen oder hergestellt worden sind, als in ausreichendem Masse be- oder verarbeitet, wenn die Bedingungen des Inkorporierten Anhangs II erfüllt sind.
+Art. 30 In Euro ausgedrückte Beträge
 
-In den Bedingungen des Inkorporierten Anhangs II sind für alle unter dieses Abkommen fallenden Erzeugnisse die Be- oder Verarbeitungen festgelegt, die an den bei der Herstellung der Erzeugnisse verwendeten Vormaterialien ohne Ursprungseigenschaft vorgenommen werden müssen; sie gelten nur für diese Vormaterialien. Folgerichtig hat ein Erzeugnis, das nach den Bedingungen der Liste die Ursprungseigenschaft erworben hat und bei der Herstellung eines anderen Erzeugnisses verwendet wird, die für das andere Erzeugnis geltenden Bedingungen nicht zu erfüllen; die gegebenenfalls bei der Herstellung des ersten Erzeugnisses verwendeten Vormaterialien ohne Ursprungseigenschaft bleiben demnach unberücksichtigt.
+Titel VI Grundsätze der Zusammenarbeit und Nachweise
 
-\2. Vormaterialien ohne Ursprungseigenschaft, die nach den Bedingungen des Inkorporierten Anhangs II nicht bei der Herstellung eines Erzeugnisses verwendet werden dürfen, können abweichend von Absatz 1 dennoch verwendet werden:
+Art. 31 Nachweise, Aufbewahrung von Ursprungsnachweisen und Belegen
 
-- (a) wenn ihr Gesamtwert 10 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet; und
-- (b) wenn die gegebenenfalls im Inkorporierten Anhang II aufgeführten Vomhundertsätze für den höchsten zulässigen Wert von Vormaterialien ohne Ursprungseigenschaft durch die Anwendung dieses Absatzes nicht überschritten werden.
+Art. 32 Streitbeilegung
 
-Dieser Absatz gilt nicht für Erzeugnisse der Kapitel 50–63 des Harmonisierten Systems.
+Titel VII Zusammenarbeit der Verwaltungen
 
-\3. Die Absätze 1 und 2 gelten vorbehaltlich des Artikels 7.
+Art. 33 Notifizierung und Zusammenarbeit
 
-### ........1 **Art. 7**Nicht ausreichende Be- oder Verarbeitung
+Art. 34 Prüfung der Ursprungsnachweise
 
-\1. Unbeschadet des Absatzes 2 gelten folgende Be- oder Verarbeitungen ohne Rücksicht darauf, ob die Bedingungen des Artikels 6 erfüllt sind, als nicht ausreichend, um die Ursprungseigenschaft zu verleihen:
+Art. 35 Prüfung der Lieferantenerklärungen
 
-- (a) Behandlungen, die dazu bestimmt sind, die Erzeugnisse während des Transports oder der Lagerung in ihrem Zustand zu erhalten;
-- (b) Teilen oder Zusammenstellen von Packstücken;
-- (c) Waschen, Reinigen, Entfernen von Staub, Oxid, Öl, Farbe oder anderen Beschichtungen;
-- (d) Bügeln von Textilien;
-- (e) einfaches Anstreichen oder Polieren;
-- (f) Schälen, teilweises oder vollständiges Bleichen, Polieren oder Glasieren von Getreide und Reis;
-- (g) Färben von Zucker oder Formen von Würfelzucker;
-- (h) Enthülsen, Entsteinen oder Schälen von Früchten, Nüssen und Gemüse;
-- (i) Schärfen, einfaches Schleifen oder einfaches Zerteilen;
-- (j) Sieben, Aussondern, Einordnen, Sortieren (einschliesslich des Zusammenstellens von Sortimenten);
-- (k) einfaches Abfüllen in Flaschen, Dosen, Fläschchen, Säcke, Etuis oder Schachteln, Befestigen auf Brettchen sowie alle anderen einfachen Verpackungsvorgänge;
-- (l) Anbringen oder Aufdrucken von Marken, Etiketten, Logos oder anderen gleichartigen Unterscheidungszeichen auf den Erzeugnissen selbst oder auf ihren Umschliessungen;
-- (m) einfaches Mischen von Erzeugnissen, auch verschiedener Arten;
-- (n) Mischen von Zucker mit jedem anderen Material;
-- (o) einfaches Zusammenfügen von Teilen eines Erzeugnisses zu einem vollständigen Erzeugnis oder Zerlegen von Erzeugnissen in Einzelteile;
-- (p) Zusammentreffen von zwei oder mehr der unter den Buchstaben a‒n genannten Behandlungen; oder
-- (q) Schlachten von Tieren.
+Art. 36 Sanktionen
 
-\2. Bei der Beurteilung, ob die an einem Erzeugnis vorgenommenen Be- oder Verarbeitungen als nicht ausreichend im Sinne des Absatzes 1 gelten, sind alle im Vereinigten Königreich oder in der Schweiz an diesem Erzeugnis vorgenommenen Be- oder Verarbeitungen in Betracht zu ziehen.
+Titel VIII Anwendung des Protokolls Nr. 3
 
-### ........1 **Art. 8**Massgebende Einheit
+Art. 37 Europäischer Wirtschaftsraum
 
-\1. Massgebende Einheit für die Anwendung dieses Protokolls ist die für die Einreihung in die Position des Harmonisierten Systems massgebende Einheit jedes Erzeugnisses.
+Art. 38 Liechtenstein
 
-Daraus ergibt sich:
+Art. 39 Republik San Marino
 
-- (a) dass jede Gruppe oder Zusammenstellung von Erzeugnissen, die nach dem Harmonisierten System in eine einzige Position eingereiht wird, als Ganzes die massgebende Einheit darstellt; und
-- (b) dass bei einer Sendung mit gleichen Erzeugnissen, die in dieselbe Position des Harmonisierten Systems eingereiht werden, jedes Erzeugnis für sich betrachtet werden muss.
+Art. 40 Fürstentum Andorra
 
-\2. Werden Umschliessungen nach der Allgemeinen Vorschrift 5 zum Harmonisierten System wie das darin enthaltene Erzeugnis eingereiht, so werden sie auch für die Bestimmung des Ursprungs wie das Erzeugnis behandelt.
+Art. 41 Ceuta und Melilla
 
-### ........1 **Art. 9**Zubehör, Ersatzteile und Werkzeuge
+Art. 42 Erzeugnisse im Durchgangsverkehr oder in Lagerung
 
-Zubehör, Ersatzteile und Werkzeuge, die mit Geräten, Maschinen oder Fahrzeugen geliefert werden, werden mit diesen zusammen als Einheit angesehen, wenn sie als Bestandteil der Normalausrüstung in deren Preis enthalten sind oder nicht gesondert in Rechnung gestellt werden.
-
-### ........1 **Art. 10**Warenzusammenstellungen
-
-Warenzusammenstellungen im Sinne der Allgemeinen Vorschrift 3 zum Harmonisierten System gelten als Ursprungserzeugnisse, wenn alle Bestandteile Ursprungserzeugnisse sind. Jedoch gilt eine Warenzusammenstellung, die aus Bestandteilen mit Ursprungseigenschaft und Bestandteilen ohne Ursprungseigenschaft besteht, in ihrer Gesamtheit als Ursprungserzeugnis, sofern der Wert der Bestandteile ohne Ursprungseigenschaft 15 v. H. des Ab-Werk-Preises der Warenzusammenstellung nicht überschreitet.
-
-### ........1 **Art. 11**Neutrale Elemente
-
-Bei der Feststellung, ob ein Erzeugnis Ursprungserzeugnis ist, braucht der Ursprung folgender gegebenenfalls bei seiner Herstellung verwendeter Erzeugnisse nicht berücksichtigt zu werden:
-
-- (a) Energie und Brennstoffe;
-- (b) Anlagen und Ausrüstung;
-- (c) Maschinen und Werkzeuge; oder
-- (d) Erzeugnisse, die nicht in die endgültige Zusammensetzung des Erzeugnisses eingehen und nicht eingehen sollen.
-
-### Titel III: Territoriale Auflagen
-
-### ........1 **Art. 12**Territorialitätsprinzip
-
-\1. Vorbehaltlich der Artikel 3 und 4 und des Absatzes 3 dieses Artikels müssen die in Titel II genannten Bedingungen für den Erwerb der Ursprungseigenschaft ohne Unterbrechung im Vereinigten Königreich oder in der Schweiz erfüllt werden.
-
-\2. Ursprungswaren, die aus dem Vereinigten Königreich oder aus der Schweiz in ein anderes Land ausgeführt und anschliessend wieder eingeführt werden, gelten vorbehaltlich der Artikel 3 und 4 als Erzeugnisse ohne Ursprungseigenschaft, es sei denn, den Zollbehörden kann glaubhaft dargelegt werden:
-
-- (a) dass die wieder eingeführten Waren dieselben wie die ausgeführten Waren sind; und
-- (b) dass diese Waren während ihres Verbleibs in dem betreffenden Land oder während des Transports keine Behandlung erfahren haben, die über das zur Erhaltung ihres Zustands erforderliche Mass hinausgeht.
-
-\3. Der Erwerb der Ursprungseigenschaft nach Titel II wird durch eine Be- oder Verarbeitung, die ausserhalb des Vereinigten Königreichs oder der Schweiz an aus dem Vereinigten Königreich oder aus der Schweiz ausgeführten und anschliessend wieder eingeführten Vormaterialien vorgenommen wird, nicht beschadet, sofern:
-
-- (a) die genannten Vormaterialien im Vereinigten Königreich oder in der Schweiz vollständig gewonnen oder hergestellt oder vor ihrer Ausfuhr einer Be- oder Verarbeitung unterzogen worden sind, die über die Be- oder Verarbeitungen im Sinne des Artikels 7 hinausgeht; und
-- (b)
-
-  den Zollbehörden glaubhaft dargelegt werden kann:
-
-  - i) dass die wieder eingeführten Waren durch Be- oder Verarbeitung der ausgeführten Vormaterialien hergestellt worden sind, und
-  - ii) dass der nach diesem Artikel ausserhalb des Vereinigten Königreichs oder der Schweiz insgesamt erzielte Wertzuwachs 10 v. H. des Ab-Werk-Preises des Erzeugnisses, für das die Ursprungseigenschaft beansprucht wird, nicht überschreitet.
-
-\4. Für die Zwecke des Absatzes 3 finden die in Titel II genannten Bedingungen für den Erwerb der Ursprungseigenschaft auf die Be- oder Verarbeitung ausserhalb des Vereinigten Königreichs oder der Schweiz keine Anwendung. Findet jedoch nach dem Inkorporierten Anhang II für die Bestimmung des Ursprungs des Erzeugnisses eine Regel Anwendung, die einen höchsten zulässigen Wert für alle verwendeten Vormaterialien ohne Ursprungseigenschaft vorsieht, so dürfen der Gesamtwert der im Gebiet der betreffenden Vertragspartei verwendeten Vormaterialien ohne Ursprungseigenschaft und der nach diesem Artikel ausserhalb des Vereinigten Königreichs oder der Schweiz insgesamt erzielte Wertzuwachs zusammengenommen den angegebenen Vomhundertsatz nicht überschreiten.
-
-\5. Im Sinne der Absätze 3 und 4 bedeutet der Begriff «insgesamt erzielter Wertzuwachs» alle ausserhalb des Vereinigten Königreichs oder der Schweiz entstandenen Kosten einschliesslich des Wertes der dort verwendeten Vormaterialien.
-
-\6. Die Absätze 3 und 4 gelten nicht für Erzeugnisse, die die Bedingungen des Inkorporierten Anhangs II nicht erfüllen und nur durch Anwendung der allgemeinen Toleranz nach Artikel 6 Absatz 2 als in ausreichendem Masse be- oder verarbeitet angesehen werden können.
-
-\7. Die Absätze 3 und 4 gelten nicht für Erzeugnisse der Kapitel 50–63 des Harmonisierten Systems.
-
-\8. Die unter diesen Artikel fallende Be- oder Verarbeitung ausserhalb des Vereinigten Königreichs oder der Schweiz wird im Rahmen der passiven Veredelung oder eines ähnlichen Verfahrens vorgenommen.
-
-### ........1 **Art. 13**Unmittelbare Beförderung
-
-\1. Die im Rahmen dieses Abkommens vorgesehene Präferenzbehandlung gilt nur für den Voraussetzungen dieses Protokolls entsprechende Erzeugnisse, die unmittelbar zwischen den Vertragsparteien oder im Durchgangsverkehr durch die Gebiete der in den Artikeln 3 und 4 genannten anderen Länder und Gebiete, mit denen die Kumulierung zulässig ist, befördert werden. Jedoch können Erzeugnisse durch andere Gebiete befördert werden, gegebenenfalls auch mit einer Umladung oder vorübergehenden Einlagerung in diesen Gebieten, sofern sie unter der zollamtlichen Überwachung der Behörden des Durchfuhr- oder Einlagerungslands bleiben und dort nur entladen, verladen oder aufgeteilt werden oder eine auf die Erhaltung ihres Zustands gerichtete Behandlung erfahren. Ursprungserzeugnisse können in Rohrleitungen durch andere Gebiete als die der Vertragsparteien befördert werden.
-
-\2. Sendungen, die sich im Gebiet der EU im Transit befinden, können aufgeteilt werden, sofern sie unter der Aufsicht der Zollbehörden des EU-Durchfuhrlandes bleiben.
-
-\3. Der Nachweis, dass die in Absatz 1 und 2 genannten Voraussetzungen erfüllt sind, ist zu erbringen, indem den Zollbehörden des Einfuhrlands eines der folgenden Papiere vorgelegt wird:
-
-- (a) ein durchgehendes Frachtpapier, mit dem die Beförderung vom Ausfuhrland durch das Durchfuhrland erfolgt ist; oder
-- (b)
-
-  eine von den Zollbehörden des Durchfuhrlands ausgestellte Bescheinigung mit folgenden Angaben:
-
-  - (i) genaue Beschreibung der Erzeugnisse,
-  - (ii) Datum des Ent- und Wiederverladens der Erzeugnisse oder der Ein- und Ausschiffung unter Angabe der benutzten Schiffe oder sonstigen Beförderungsmittel, und
-  - (iii) Bedingungen des Verbleibs der Erzeugnisse im Durchfuhrland; oder
-
-- (c) falls diese Papiere nicht vorgelegt werden können, alle sonstigen beweiskräftigen Unterlagen.
-
-### ........1 **Art. 14**Ausstellungen
-
-\1. Werden Ursprungserzeugnisse zu einer Ausstellung in ein Land versandt, bei dem es sich nicht um eines der in den Artikeln 3 und 4 genannten anderen Länder, mit denen die Kumulierung zulässig ist, handelt, und nach der Ausstellung zur Einfuhr ins Vereinigte Königreich oder in die Schweiz verkauft, so erhalten sie bei der Einfuhr die Begünstigungen dieses Abkommens, sofern den Zollbehörden glaubhaft dargelegt wird:
-
-- (a) dass ein Ausführer diese Erzeugnisse aus dem Vereinigten Königreich oder aus der Schweiz in das Ausstellungsland versandt und dort ausgestellt hat;
-- (b) dass dieser Ausführer die Erzeugnisse einem Empfänger im Vereinigten Königreich oder in der Schweiz verkauft oder überlassen hat;
-- (c) dass die Erzeugnisse während oder unmittelbar nach der Ausstellung in dem Zustand, in dem sie zur Ausstellung versandt worden waren, versandt worden sind; und
-- (d) dass die Erzeugnisse ab dem Zeitpunkt, zu dem sie zu der Ausstellung versandt wurden, nicht zu anderen Zwecken als zur Vorführung auf der Ausstellung verwendet worden sind.
-
-\2. Nach Massgabe des Titels V ist ein Ursprungsnachweis auszustellen oder auszufertigen und den Zollbehörden der einführenden Vertragspartei unter den üblichen Voraussetzungen vorzulegen. Darin sind Bezeichnung und Anschrift der Ausstellung anzugeben. Falls erforderlich, kann ein zusätzlicher Nachweis über die Umstände verlangt werden, unter denen die Erzeugnisse ausgestellt worden sind.
-
-\3. Absatz 1 gilt für Handels-, Industrie-, Landwirtschafts- und Handwerksmessen oder -ausstellungen und ähnliche öffentliche Veranstaltungen, bei denen die Erzeugnisse unter zollamtlicher Überwachung bleiben; ausgenommen sind Veranstaltungen zu privaten Zwecken für den Verkauf ausländischer Erzeugnisse in Läden oder Geschäftslokalen.
-
-### Titel IV: Zollvergütung und Zollbefreiung
-
-### ........1 **Art. 15**Verbot der Zollrückvergütung und der Zollbefreiung
-
-\1. Vormaterialien ohne Ursprungseigenschaft, die im Vereinigten Königreich oder in der Schweiz bei der Herstellung von Ursprungserzeugnissen verwendet worden sind, für die nach Massgabe des Titels V ein Ursprungsnachweis ausgestellt oder ausgefertigt wird, dürfen im Vereinigten Königreich oder in der Schweiz nicht Gegenstand einer wie auch immer gearteten Zollrückvergütung oder Zollbefreiung sein.
-
-\2. Absatz 1 betrifft im Vereinigten Königreich oder in der Schweiz geltende Regelungen, nach denen Zölle oder Abgaben gleicher Wirkung auf bei der Herstellung von Ursprungserzeugnissen verwendeten Vormaterialien vollständig oder teilweise erstattet, erlassen oder nicht erhoben werden, sofern die Erstattung, der Erlass oder die Nichterhebung ausdrücklich oder faktisch gewährt wird, wenn die aus den betreffenden Vormaterialien hergestellten Erzeugnisse ausgeführt werden, nicht dagegen, wenn diese Erzeugnisse in den zollrechtlich freien Verkehr übergehen.
-
-\3. Der Ausführer von Erzeugnissen mit Ursprungsnachweis hat auf Verlangen der Zollbehörden jederzeit alle zweckdienlichen Unterlagen vorzulegen, um nachzuweisen, dass für die bei der Herstellung dieser Erzeugnisse verwendeten Vormaterialien ohne Ursprungseigenschaft keine Zollrückvergütung gewährt worden ist und sämtliche für solche Vormaterialien geltenden Zölle und Abgaben gleicher Wirkung tatsächlich entrichtet worden sind.
-
-\4. Die Absätze 1 bis 3 gelten auch für Umschliessungen im Sinne des Artikels 8 Absatz 2, für Zubehör, Ersatzteile und Werkzeuge im Sinne des Artikels 9 sowie für Warenzusammenstellungen im Sinne des Artikels 10, wenn es sich dabei um Erzeugnisse ohne Ursprungseigenschaft handelt.
-
-\5. Die Absätze 1 bis 4 gelten nur für Vormaterialien, die unter dieses Abkommen fallen.
-
-### Titel V: Nachweis der Ursprungseigenschaft
-
-### ........1 **Art. 16**Allgemeine Bestimmungen
-
-\1. Ursprungserzeugnisse des Vereinigten Königreichs erhalten bei der Einfuhr in die Schweiz und Ursprungserzeugnisse der Schweiz erhalten bei der Einfuhr im Vereinigten Königreich die Begünstigungen dieses Abkommens, sofern:
-
-- (a) eine Warenverkehrsbescheinigung EUR.1 nach dem Muster im Inkorporierten Anhang III*a* vorgelegt wird;
-- (b) eine Warenverkehrsbescheinigung EUR-MED nach dem Muster im Inkorporierten Anhang IIIb vorgelegt wird; oder
-- (c) in den in Artikel 22 Absatz 1 genannten Fällen vom Ausführer eine Erklärung mit dem im Inkorporierten Anhang IV*a* oder IV*b* angegebenen Wortlaut auf einer Rechnung, einem Lieferschein oder einem anderen Handelspapier abgegeben wird, in dem die Erzeugnisse so genau bezeichnet sind, dass die Feststellung der Nämlichkeit möglich ist (im Folgenden «Ursprungserklärung» bzw. «Ursprungserklärung EUR-MED» genannt).
-
-\2. Abweichend von Absatz 1 erhalten Ursprungserzeugnisse im Sinne dieses Protokolls in den in Artikel 27 genannten Fällen die Begünstigungen dieses Abkommens, ohne dass einer der in Absatz 1 genannten Nachweise vorgelegt werden muss.
-
-\3. Sind an der Kumulierung nur das Vereinigte Königreich, die EU, EFTA-Staaten, die Färöer-Inseln, die Türkei, die Republik Albanien, Bosnien und Herzegowina, die Republik Mazedonien, Montenegro, die Republik Serbien, die Republik Kosovo, die Republik Moldau oder Georgien beteiligt, kann ungeachtet der Artikel 17 Absatz 5 und Artikel 22 Absatz 3 der Ursprungsnachweis eine Warenverkehrsbescheinigung EUR.1 oder eine Ursprungserklärung sein.
-
-### ........1 **Art. 17**Verfahren für die Ausstellung der Warenverkehrsbescheinigung EUR.1 oder EUR-MED
-
-\1. Die Warenverkehrsbescheinigung EUR.1 oder EUR-MED wird von den Zollbehörden der ausführenden Vertragspartei auf schriftlichen Antrag ausgestellt, der vom Ausführer oder unter der Verantwortung des Ausführers von seinem bevollmächtigten Vertreter gestellt worden ist.
-
-\2. Für die Zwecke des Absatzes 1 füllt der Ausführer oder sein bevollmächtigter Vertreter die Formblätter für die Warenverkehrsbescheinigung EUR.1 oder EUR‑ MED und den Antrag nach dem Muster des Inkorporierten Anhangs III*a* bzw. III*b* aus. Die Formblätter sind nach den internen Rechtsvorschriften des Ausfuhrlands in einer der Amtssprachen einer Vertragspartei auszufüllen. Werden sie handschriftlich ausgefüllt, so muss dies mit Tinte in Druckschrift erfolgen. Die Warenbezeichnung ist in dem dafür vorgesehenen Feld ohne Zeilenzwischenraum einzutragen. Ist das Feld nicht vollständig ausgefüllt, so ist unter der letzten Zeile der Warenbezeichnung ein waagerechter Strich zu ziehen und der nicht ausgefüllte Teil des Feldes durchzustreichen.
-
-\3. Der Ausführer, der die Ausstellung der Warenverkehrsbescheinigung EUR.1 oder EUR-MED beantragt, hat auf Verlangen der Zollbehörden des Ausfuhrlandes, in dem die Warenverkehrsbescheinigung EUR.1 oder EUR-MED ausgestellt wird, jederzeit alle zweckdienlichen Unterlagen zum Nachweis der Ursprungseigenschaft der betreffenden Erzeugnisse sowie der Erfüllung der übrigen Voraussetzungen dieses Protokolls vorzulegen.
-
-\4. Unbeschadet des Absatzes 5 wird von den Zollbehörden des Vereinigten Königreichs oder der Schweiz eine Warenverkehrsbescheinigung EUR.1 ausgestellt:
-
-- (a) wenn die betreffenden Erzeugnisse ohne Anwendung der Kumulierung mit Vormaterialien mit Ursprung in einem der in den Absätzen 2 der Artikel 3 und 4 genannten Länder als Ursprungserzeugnisse des Vereinigten Königreichs, der Schweiz oder eines anderen in den Absätzen 1 der Artikel 3 und 4 genannten Länder, mit denen die Kumulierung zulässig ist, angesehen werden können und die übrigen Voraussetzungen dieses Protokolls erfüllt sind; oder
-- (b) wenn die betreffenden Erzeugnisse ohne Anwendung der Kumulierung mit Vormaterialien mit Ursprung in einem der in den Artikeln 3 und 4 genannten Länder als Ursprungserzeugnisse eines der in den Absätzen 2 der Artikel 3 und 4 genannten Länder, mit denen die Kumulierung zulässig ist, angesehen werden können und die übrigen Voraussetzungen dieses Protokolls erfüllt sind, sofern im Ursprungsland eine Warenverkehrsbescheinigung EUR-MED oder eine Ursprungserklärung EUR-MED ausgestellt bzw. ausgefertigt worden ist.
-
-\5. Eine Warenverkehrsbescheinigung EUR-MED wird von den Zollbehörden des Vereinigten Königreichs oder der Schweiz ausgestellt, wenn die betreffenden Erzeugnisse als Ursprungserzeugnisse des Vereinigten Königreichs, der Schweiz oder eines der in den Artikeln 3 und 4 genannten anderen Länder, mit denen die Kumulierung zulässig ist, angesehen werden können, die Voraussetzungen dieses Protokolls erfüllt sind und:
-
-- (a) die Kumulierung mit Vormaterialien mit Ursprung in einem der in den Absätzen 2 der Artikel 3 und 4 genannten Länder angewandt wurde; oder
-- (b) die Erzeugnisse als Vormaterialien im Rahmen der Kumulierung bei der Herstellung von Erzeugnissen für die Ausfuhr in eines der in den Absätzen 2 der Artikel 3 und 4 genannten anderen Länder verwendet werden können; oder
-- (c) die Erzeugnisse aus dem Bestimmungsland in eines der in den Absätzen 2 der Artikel 3 und 4 genannten Länder wieder ausgeführt werden können.
-
-\6. In Feld 7 der Warenverkehrsbescheinigung EUR-MED ist einer der folgenden Vermerke in englischer Sprache einzutragen:
-
-- (a)
-
-  wenn die Ursprungseigenschaft durch Anwendung der Kumulierung mit Vormaterialien mit Ursprung in einem oder mehreren der in den Artikeln 3 und 4 genannten Länder erworben wurde:
-
-  - [tab] «CUMULATION APPLIED WITH ...» (Name des Landes/der Länder)
-
-- (b)
-
-  wenn die Ursprungseigenschaft ohne Anwendung der Kumulierung mit Vormaterialien mit Ursprung in einem oder mehreren der in den Artikeln 3 und 4 genannten Länder erworben wurde:
-
-  - [tab] «NO CUMULATION APPLIED».
-
-\7. Die Zollbehörden, die die Warenverkehrsbescheinigung EUR.1 oder EUR-MED ausstellen, treffen die erforderlichen Massnahmen, um die Ursprungseigenschaft der Erzeugnisse und die Erfüllung der übrigen Voraussetzungen dieses Protokolls zu überprüfen. Sie sind befugt, zu diesem Zweck die Vorlage von Beweismitteln zu verlangen und jede Art von Überprüfung der Buchführung des Ausführers oder sonstige von ihnen für zweckdienlich erachtete Kontrolle durchzuführen. Sie achten auch darauf, dass die in Absatz 2 genannten Formblätter ordnungsgemäss ausgefüllt sind. Sie prüfen insbesondere, ob das Feld mit der Warenbezeichnung so ausgefüllt ist, dass jede Möglichkeit eines missbräuchlichen Zusatzes ausgeschlossen ist.
-
-\8. In Feld 11 der Warenverkehrsbescheinigung EUR.1 oder EUR-MED ist das Datum der Ausstellung anzugeben.
-
-\9. Die Warenverkehrsbescheinigung EUR.1 oder EUR-MED wird von den Zollbehörden ausgestellt und zur Verfügung des Ausführers gehalten, sobald die Ausfuhr tatsächlich erfolgt oder gewährleistet ist.
-
-### ........1 **Art. 18**Nachträglich ausgestellte Warenverkehrsbescheinigung EUR.1 oder EUR-MED
-
-\1. Abweichend von Artikel 17 Absatz 9 kann die Warenverkehrsbescheinigung EUR.1 oder EUR-MED ausnahmsweise nach der Ausfuhr der Erzeugnisse, auf die sie sich bezieht, ausgestellt werden:
-
-- (a) wenn sie infolge eines Irrtums, eines unverschuldeten Versehens oder besonderer Umstände bei der Ausfuhr nicht ausgestellt worden ist; oder
-- (b) wenn den Zollbehörden glaubhaft dargelegt wird, dass eine Warenverkehrsbescheinigung EUR.1 oder EUR-MED ausgestellt, aber bei der Einfuhr aus formalen Gründen nicht angenommen worden ist.
-
-\2. Abweichend von Artikel 17 Absatz 9 kann die Warenverkehrsbescheinigung EUR-MED nach der Ausfuhr der Erzeugnisse, auf die sie sich bezieht und für die bei der Ausfuhr eine Warenverkehrsbescheinigung EUR.1 ausgestellt worden ist, ausgestellt werden, sofern den Zollbehörden glaubhaft dargelegt wird, dass die Voraussetzungen des Artikels 17 Absatz 5 erfüllt sind.
-
-\3. Für die Zwecke der Absätze 1 und 2 hat der Ausführer in seinem Antrag Ort und Datum der Ausfuhr der Erzeugnisse, auf die sich die Warenverkehrsbescheinigung EUR.1 oder EUR-MED bezieht, sowie die Gründe für den Antrag anzugeben.
-
-\4. Die Zollbehörden dürfen eine Warenverkehrsbescheinigung EUR.1 oder EUR-MED nachträglich erst ausstellen, nachdem sie geprüft haben, ob die Angaben im Antrag des Ausführers mit den Angaben in den entsprechenden Unterlagen übereinstimmen.
-
-\5. Die gemäss Absatz 1 nachträglich ausgestellte Warenverkehrsbescheinigung EUR.1 oder EUR-MED ist mit folgendem Vermerk in englischer Sprache zu versehen:
-
-- «ISSUED RETROSPECTIVELY»
-
-\6. Die nach Absatz 2 nachträglich ausgestellte Warenverkehrsbescheinigung EUR-MED ist mit folgendem Vermerk in englischer Sprache zu versehen:
-
-- «ISSUED RETROSPECTIVELY (Original EUR.1 no ... [Datum und Ort der Ausstellung])»
-
-\7. Der in Absatz 5 genannte Vermerk ist in Feld 7 der Warenverkehrsbescheinigung EUR.1 oder EUR-MED einzutragen.
-
-### ........1 **Art. 19**Ausstellung eines Duplikats der Warenverkehrsbescheinigung EUR.1 oder EUR-MED
-
-\1. Bei Diebstahl, Verlust oder Vernichtung einer Warenverkehrsbescheinigung EUR.1 oder EUR-MED kann der Ausführer bei den Zollbehörden, die die Bescheinigung ausgestellt haben, ein Duplikat beantragen, das anhand der in ihrem Besitz befindlichen Ausfuhrpapiere ausgefertigt wird.
-
-\2. Das in Übereinstimmung mit Absatz 1 ausgestellte Duplikat ist mit folgendem Vermerk in englischer Sprache zu versehen:
-
-- «DUPLICATE»
-
-\3. Der in Absatz 2 genannte Vermerk ist in Feld 7 der Warenverkehrsbescheinigung EUR.1 oder EUR-MED einzutragen.
-
-\4. Das Duplikat trägt das Datum des Originals der Warenverkehrsbescheinigung EUR.1 oder EUR-MED und gilt mit Wirkung ab diesem Tag.
-
-### ........1 **Art. 20**Ausstellung der Warenverkehrsbescheinigung EUR.1 oder EUR‑MED auf der Grundlage eines vorher ausgestellten oder ausgefertigten Ursprungsnachweises
-
-Werden Ursprungserzeugnisse im Vereinigten Königreich oder in der Schweiz der Überwachung einer Zollstelle unterstellt, so kann der ursprüngliche Ursprungsnachweis im Hinblick auf den Versand sämtlicher oder eines Teils dieser Erzeugnisse zu anderen Zollstellen im Vereinigten Königreich oder in der Schweiz durch eine oder mehrere Warenverkehrsbescheinigungen EUR.1 oder EUR-MED ersetzt werden. Diese Warenverkehrsbescheinigungen EUR.1 oder EUR-MED werden von derjenigen Zollstelle ausgestellt, unter deren Überwachung sich die Erzeugnisse befinden.
-
-### ........1 **Art. 21**Buchmässige Trennung
-
-\1. Ist die getrennte Lagerung von Vormaterialien mit Ursprungseigenschaft und Vormaterialien ohne Ursprungseigenschaft, die gleich und untereinander austauschbar sind, mit erheblichen Kosten oder tatsächlichen Schwierigkeiten verbunden, so können die Zollbehörden dem Beteiligten auf schriftlichen Antrag die Bewilligung erteilen, diese Lagerbestände nach der Methode der so genannten buchmässigen Trennung zu verwalten.
-
-\2. Diese Methode muss gewährleisten, dass in einem bestimmten Bezugszeitraum die Zahl der hergestellten Erzeugnisse, die als Ursprungserzeugnisse angesehen werden können, der Zahl der Erzeugnisse entspricht, die bei räumlicher Trennung der Lagerbestände hätte hergestellt werden können.
-
-\3. Die Zollbehörden können die Bewilligung von allen ihnen zweckdienlich erscheinenden Voraussetzungen abhängig machen.
-
-\4. Die Anwendung der Methode und die Aufzeichnungen richten sich nach den allgemein anerkannten Buchführungsgrundsätzen, die in derjenigen Vertragspartei gelten, in der das Erzeugnis hergestellt worden ist.
-
-\5. Der Begünstigte der in Absatz 1 erwähnten Erleichterung kann für die Menge der Erzeugnisse, die als Ursprungserzeugnisse angesehen werden können, Ursprungsnachweise ausfertigen bzw. beantragen. Auf Verlangen der Zollbehörden hat der Begünstigte eine Erklärung über die Art der Verwaltung dieser Mengen vorzulegen.
-
-\6. Die Zollbehörden überwachen die Verwendung der Bewilligung und können diese jederzeit widerrufen, wenn der Begünstigte von der Bewilligung in jeglicher unzulässigen Weise Gebrauch macht oder jegliche andere Voraussetzung dieses Protokolls nicht erfüllt.
-
-### ........1 **Art. 22**Voraussetzungen für die Ausfertigung der Ursprungserklärung oder der Ursprungserklärung EUR-MED
-
-\1. Eine in Artikel 16 Absatz 1 Buchstabe c genannte Ursprungserklärung oder Ursprungserklärung EUR-MED kann ausgefertigt werden:
-
-- (a) von einem ermächtigten Ausführer im Sinne des Artikels 23; oder
-- (b) von jedem Ausführer für Sendungen bestehend aus einem oder mehreren Packstücken, die Ursprungserzeugnisse enthalten, deren Wert 6000 Euro je Sendung nicht überschreitet.
-
-\2. Unbeschadet des Absatzes 3 kann eine Ursprungserklärung ausgefertigt werden:
-
-- (a) wenn die betreffenden Erzeugnisse ohne Anwendung der Kumulierung mit Vormaterialien mit Ursprung in einem der in den Absätzen 2 der Artikel 3 und 4 genannten Länder als Ursprungserzeugnisse des Vereinigten Königreichs, der Schweiz oder eines anderen in den Absätzen 1 der Artikel 3 und 4 genannten Länder, mit denen die Kumulierung zulässig ist, angesehen werden können und die übrigen Voraussetzungen dieses Protokolls erfüllt sind; oder
-- (b) wenn die betreffenden Erzeugnisse ohne Anwendung der Kumulierung mit Vormaterialien mit Ursprung in einem der in den Artikeln 3 und 4 genannten Länder als Ursprungserzeugnisse eines der in den Absätzen 2 der Artikel 3 und 4 genannten Länder, mit denen die Kumulierung zulässig ist, angesehen werden können und die übrigen Voraussetzungen dieses Protokolls erfüllt sind, sofern im Ursprungsland eine Warenverkehrsbescheinigung EUR-MED oder eine Ursprungserklärung EUR-MED ausgestellt bzw. ausgefertigt worden ist.
-
-\3. Eine Ursprungserklärung EUR-MED kann ausgefertigt werden, wenn die betreffenden Erzeugnisse als Ursprungserzeugnisse des Vereinigten Königreichs, der Schweiz, oder eines der in den Artikeln 3 und 4 genannten anderen Länder, mit denen die Kumulierung zulässig ist, angesehen werden können, die Voraussetzungen dieses Protokolls erfüllt sind und:
-
-- (a) die Kumulierung mit Vormaterialien mit Ursprung in einem der in den Absätzen 2 der Artikel 3 und 4 genannten Länder angewandt wurde; oder
-- (b) die Erzeugnisse als Vormaterialien im Rahmen der Kumulierung bei der Herstellung von Erzeugnissen für die Ausfuhr in eines der in den Absätzen 2 der Artikel 3 und 4 genannten Länder verwendet werden können; oder
-- (c) die Erzeugnisse aus dem Bestimmungsland in eines der in den Absätzen 2 der Artikel 3 und 4 genannten Länder wieder ausgeführt werden können.
-
-\4. Die Ursprungserklärung EUR-MED ist mit einem der folgenden Vermerke in englischer Sprache zu versehen:
-
-- (a)
-
-  wenn die Ursprungseigenschaft durch Anwendung der Kumulierung mit Vormaterialien mit Ursprung in einem oder mehreren der in den Artikeln 3 und 4 genannten Länder erworben wurde:
-
-  - [tab] «CUMULATION APPLIED WITH ...» (Name des Landes/der Länder)
-
-- (b)
-
-  wenn die Ursprungseigenschaft ohne Anwendung der Kumulierung mit Vormaterialien mit Ursprung in einem oder mehreren der in den Artikeln 3 und 4 genannten Länder erworben wurde:
-
-  - [tab] «NO CUMULATION APPLIED».
-
-\5. Der Ausführer, der eine Ursprungserklärung oder eine Ursprungserklärung EUR-MED ausfertigt, hat auf Verlangen der Zollbehörden des Ausfuhrlands jederzeit alle zweckdienlichen Unterlagen zum Nachweis der Ursprungseigenschaft der betreffenden Erzeugnisse sowie der Erfüllung der übrigen Voraussetzungen dieses Protokolls vorzulegen.
-
-\6. Die Ursprungserklärung oder die Ursprungserklärung EUR-MED ist vom Ausführer maschinenschriftlich oder mechanografisch auf der Rechnung, dem Lieferschein oder einem anderen Handelspapier mit dem Wortlaut und in einer der Sprachfassungen des Inkorporierten Anhangs IVa bzw. IVb nach Massgabe der internen Rechtsvorschriften des Ausfuhrlands auszufertigen. Wird die Erklärung handschriftlich erstellt, so muss dies mit Tinte in Druckschrift erfolgen.
-
-\7. Die Erklärungen auf der Rechnung und die Erklärungen auf der Rechnung EUR-MED sind vom Ausführer eigenhändig zu unterzeichnen. Ein ermächtigter Ausführer im Sinne des Artikels 23 braucht jedoch solche Erklärungen nicht zu unterzeichnen, wenn er sich gegenüber den Zollbehörden des Ausfuhrlands schriftlich verpflichtet, die volle Verantwortung für jede Ursprungserklärung zu übernehmen, die ihn so identifiziert, als ob er sie eigenhändig unterzeichnet hätte.
-
-\8. Die Ursprungserklärung oder die Ursprungserklärung EUR-MED kann vom Ausführer bei der Ausfuhr der Erzeugnisse oder nach deren Ausfuhr ausgefertigt werden, vorausgesetzt, dass sie in der einführenden Vertragspartei spätestens zwei Jahre nach der Einfuhr der betreffenden Erzeugnisse vorgelegt wird.
-
-### ........1 **Art. 23**Ermächtigter Ausführer
-
-\1. Die Zollbehörden der ausführenden Vertragspartei können einen Ausführer (im Folgenden «ermächtigter Ausführer» genannt), der häufig unter dieses Abkommen fallende Erzeugnisse ausführt, dazu ermächtigen, ohne Rücksicht auf den Wert dieser Erzeugnisse Erklärungen auf der Rechnung oder Erklärungen auf der Rechnung EUR-MED auszufertigen. Ein Ausführer, der eine solche Bewilligung beantragt, muss jede von den Zollbehörden für erforderlich gehaltene Gewähr für die Kontrolle der Ursprungseigenschaft der Erzeugnisse und der Erfüllung der übrigen Voraussetzungen dieses Protokolls bieten.
-
-\2. Die Zollbehörden können die Bewilligung des Status eines ermächtigten Ausführers von allen ihnen zweckdienlich erscheinenden Voraussetzungen abhängig machen.
-
-\3. Die Zollbehörden erteilen dem ermächtigten Ausführer eine Bewilligungsnummer, die in der Ursprungserklärung oder der Ursprungserklärung EUR-MED anzugeben ist.
-
-\4. Die Zollbehörden überwachen die Verwendung der Bewilligung durch den ermächtigten Ausführer.
-
-\5. Die Zollbehörden können die Bewilligung jederzeit widerrufen. Sie widerrufen sie, wenn der ermächtigte Ausführer die in Absatz 1 genannte Gewähr nicht mehr bietet, die in Absatz 2 genannten Voraussetzungen nicht mehr erfüllt oder von der Bewilligung in unzulässiger Weise Gebrauch macht.
-
-### ........1 **Art. 24**Geltungsdauer der Ursprungsnachweise
-
-\1. Ein Ursprungsnachweis bleibt vier Monate nach dem Datum der Ausstellung im Ausfuhrland gültig und ist innerhalb dieser Frist den Zollbehörden der einführenden Vertragspartei vorzulegen.
-
-\2. Ursprungsnachweise, die den Zollbehörden der einführenden Vertragspartei nach Ablauf der in Absatz 1 genannten Vorlagefrist vorgelegt werden, können zur Gewährung der Präferenzbehandlung angenommen werden, wenn die Frist aufgrund aussergewöhnlicher Umstände nicht eingehalten werden konnte.
-
-\3. In anderen Fällen von verspäteter Vorlage können die Zollbehörden der einführenden Vertragspartei die Ursprungsnachweise annehmen, wenn ihnen die Erzeugnisse vor Ablauf der Vorlagefrist gestellt worden sind.
-
-### ........1 **Art. 25**Vorlage der Ursprungsnachweise
-
-Die Ursprungsnachweise sind den Zollbehörden des Einfuhrlands nach den dort geltenden Verfahrensvorschriften vorzulegen. Diese Behörden können eine Übersetzung des Ursprungsnachweises verlangen; sie können ausserdem verlangen, dass die Einfuhrzollanmeldung durch eine Erklärung des Einführers ergänzt wird, aus der hervorgeht, dass die Erzeugnisse die Voraussetzungen für die Anwendung dieses Abkommens erfüllen.
-
-### ........1 **Art. 26**Einfuhr in Teilsendungen
-
-Werden auf Antrag des Einführers und unter den von den Zollbehörden der einführenden Vertragspartei festgelegten Voraussetzungen zerlegte oder noch nicht zusammengesetzte Erzeugnisse der Abschnitte XVI und XVII oder der Positionen 7308 und 9406 des Harmonisierten Systems im Sinne der Allgemeinen Vorschrift 2 a zum Harmonisierten System in Teilsendungen eingeführt, so ist den Zollbehörden bei der Einfuhr der ersten Teilsendung ein einziger Ursprungsnachweis vorzulegen.
-
-### ........1 **Art. 27**Ausnahmen von Ursprungsnachweisen
-
-\1. Erzeugnisse, die in Kleinsendungen von Privatpersonen an Privatpersonen versandt werden oder die sich im persönlichen Gepäck von Reisenden befinden, werden ohne Vorlage eines Ursprungsnachweises als Ursprungserzeugnisse angesehen, sofern es sich um Einfuhren nichtkommerzieller Art handelt und erklärt wird, dass die Voraussetzungen dieses Protokolls erfüllt sind, wobei an der Richtigkeit dieser Erklärung kein Zweifel bestehen darf. Bei Postversand kann diese Erklärung auf der Zollinhaltserklärung CN22/CN23 oder einem dieser beigefügten Blatt abgegeben werden.
-
-\2. Als Einfuhren nichtkommerzieller Art gelten solche, die gelegentlich erfolgen und ausschliesslich aus Erzeugnissen bestehen, die zum persönlichen Ge- oder Verbrauch der Empfänger oder Reisenden oder zum Ge- oder Verbrauch in deren Haushalt bestimmt sind; dabei dürfen diese Erzeugnisse weder durch ihre Beschaffenheit noch durch ihre Menge zu der Vermutung Anlass geben, dass ihre Einfuhr aus kommerziellen Gründen erfolgt.
-
-\3. Ausserdem darf der Gesamtwert der Erzeugnisse bei Kleinsendungen 500 Euro und bei den im persönlichen Gepäck von Reisenden enthaltenen Waren 1’200 Euro nicht überschreiten.
-
-### ........1 **Art. 28**Belege
-
-Bei den in Artikel 17 Absatz 3 und Artikel 22 Absatz 5 genannten Unterlagen zum Nachweis dafür, dass Erzeugnisse, für die eine Warenverkehrsbescheinigung EUR.1 oder EUR-MED oder eine Ursprungserklärung oder eine Ursprungserklärung EUR-MED vorliegt, tatsächlich als Ursprungserzeugnisse des Vereinigten Königreichs, der Schweiz oder eines der anderen in den Artikeln 3 und 4 genannten Länder angesehen werden können und die übrigen Voraussetzungen dieses Protokolls erfüllt sind, kann es sich unter anderem um folgende Unterlagen handeln:
-
-- (a) unmittelbarer Nachweis der vom Ausführer oder Lieferanten angewandten Verfahren zur Herstellung der betreffenden Waren, z.B. aufgrund seiner geprüften Bücher oder seiner internen Buchführung;
-- (b) Belege über die Ursprungseigenschaft der bei der Herstellung verwendeten Vormaterialien, sofern diese Belege im Vereinigten Königreich oder in der Schweiz ausgestellt oder ausgefertigt worden sind, wo sie nach den internen Rechtsvorschriften verwendet werden;
-- (c) Belege über die im Vereinigten Königreich oder in der Schweiz an den betreffenden Vormaterialien vorgenommenen Be- oder Verarbeitungen, sofern diese Belege im Vereinigten Königreich oder in der Schweiz ausgestellt oder ausgefertigt worden sind, wo sie nach den internen Rechtsvorschriften verwendet werden;
-- (d) Warenverkehrsbescheinigungen EUR.1 oder EUR-MED oder Erklärungen auf der Rechnung oder Erklärungen auf der Rechnung EUR-MED zum Nachweis für die Ursprungseigenschaft der bei der Herstellung verwendeten Vormaterialien, sofern diese Belege im Vereinigten Königreich oder in der Schweiz nach Massgabe dieses Protokolls oder in einem anderen der in den Artikeln 3 und 4 genannten Länder aufgrund von Ursprungsregeln ausgestellt bzw. ausgefertigt worden sind, die mit den Regeln dieses Protokolls übereinstimmen; oder
-- (e) geeignete Belege über die nach Artikel 12 ausserhalb des Vereinigten Königreich, der Schweiz oder der anderen in den Artikeln 3 und 4 genannten Länder vorgenommenen Be- und Verarbeitungen zum Nachweis dafür, dass die Voraussetzungen des genannten Artikels erfüllt sind.
-
-### ........1 **Art. 29**Aufbewahrung der Ursprungsnachweise und Belege
-
-\1. Ein Ausführer, der die Ausstellung einer Warenverkehrsbescheinigung EUR.1 oder EUR-MED beantragt, hat die in Artikel 17 Absatz 3 genannten Unterlagen mindestens drei Jahre lang aufzubewahren.
-
-\2. Ein Ausführer, der eine Ursprungserklärung oder eine Ursprungserklärung EUR-MED ausfertigt, hat eine Kopie dieser Erklärung sowie die in Artikel 22 Absatz 5 genannten Unterlagen mindestens drei Jahre lang aufzubewahren.
-
-\3. Die Zollbehörden der ausführenden Vertragspartei, die eine Warenverkehrsbescheinigung EUR.1 oder EUR-MED ausstellen, haben das in Artikel 17 Absatz 2 genannte Antragsformblatt mindestens drei Jahre lang aufzubewahren.
-
-\4. Die Zollbehörden der einführenden Vertragspartei haben die ihnen vorgelegten Warenverkehrsbescheinigungen EUR.1, Warenverkehrsbescheinigungen EUR-MED und Erklärungen auf der Rechnung und Erklärungen auf der Rechnung EUR-MED mindestens drei Jahre lang aufzubewahren.
-
-### ........1 **Art. 30**Abweichungen und Formfehler
-
-\1. Bei geringfügigen Abweichungen zwischen den Angaben in den Ursprungsnachweisen und den Angaben in den Unterlagen, die der Zollstelle zur Erfüllung der Einfuhrförmlichkeiten für die Erzeugnisse vorgelegt werden, ist der Ursprungsnachweis nicht allein dadurch ungültig, sofern einwandfrei nachgewiesen wird, dass sich das Papier auf die gestellten Erzeugnisse bezieht.
-
-\2. Eindeutige Formfehler wie Tippfehler in einem Ursprungsnachweis sollten nicht zur Ablehnung dieses Nachweises führen, wenn diese Fehler keinen Zweifel an der Richtigkeit des Ursprungsnachweises entstehen lassen.
-
-### ........1 **Art. 31**In Euro ausgedrückte Beträge
-
-\1. Für die Zwecke des Artikels 22 Absatz 1 Buchstabe b und des Artikels 27 Absatz 3 werden in den Fällen, in welchen die Erzeugnisse in einer anderen Währung als Euro in Rechnung gestellt werden, die Beträge in den Landeswährungen der in den Artikeln 3 und 4 genannten Länder, die den in Euro ausgedrückten Beträgen entsprechen, von den betreffenden Ländern jährlich festgelegt.
-
-\2. Für die Begünstigungen des Artikels 22 Absatz 1 Buchstabe b und des Artikels 27 Absatz 3 ist der von der betreffenden Vertragspartei festgelegte Betrag in derjenigen Währung massgebend, in der die Rechnung ausgestellt ist.
-
-\3. Für die Umrechnung der in Euro ausgedrückten Beträge in die Landeswährungen gilt der Euro-Kurs der jeweiligen Landeswährung am ersten Arbeitstag des Monats Oktober, und sie gelten ab dem 1. Januar des folgenden Jahres. Die Vertragsparteien teilen einander die Beträge mit.
-
-\4. Eine Vertragspartei kann den Betrag, der sich aus der Umrechnung eines in Euro ausgedrückten Betrages in seine Landeswährung ergibt, auf- oder abrunden. Der gerundete Betrag darf um höchstens 5 v.H. vom Ergebnis der Umrechnung abweichen. Eine Vertragspartei kann den Betrag in seiner Landeswährung, der dem in Euro ausgedrückten Betrag entspricht, unverändert beibehalten, sofern sich durch die Umrechnung dieses Betrages zum Zeitpunkt der in Absatz 3 vorgesehenen jährlichen Anpassung der Gegenwert in Landeswährung vor dem Runden um weniger als 15 v.H. erhöht. Der Gegenwert in Landeswährung kann unverändert beibehalten werden, sofern die Umrechnung zu einer Verringerung dieses Gegenwerts führen würde.
-
-\5. Die in Euro ausgedrückten Beträge werden auf Antrag einer der Vertragsparteien vom Unterausschuss für Zoll- und Ursprungsfragen überprüft. Bei dieser Überprüfung prüft der Unterausschuss für Zoll- und Ursprungsfragen, ob es erstrebenswert ist, die Auswirkungen dieser Beschränkungen in realen Werten zu erhalten. Zu diesem Zweck kann er beschliessen, die in Euro ausgedrückten Beträge zu ändern.
-
-### Titel VI: Methoden der Zusammenarbeit der Verwaltungen
-
-### ........1 **Art. 32**Gegenseitige Amtshilfe
-
-\1. Die Zollbehörden der Vertragsparteien übermitteln einander die Musterabdrücke der Stempel, die ihre Zollstellen bei der Ausstellung der Warenverkehrsbescheinigungen EUR.1 und EUR-MED verwenden, und teilen einander die Anschriften der Zollbehörden mit, die für die Prüfung dieser Bescheinigungen, der Erklärungen auf der Rechnung und der Erklärungen auf der Rechnung EUR-MED zuständig sind.
-
-\2. Um die ordnungsgemässe Anwendung dieses Protokolls zu gewährleisten, leisten die Vertragsparteien einander über ihre Zollverwaltungen Amtshilfe bei der Prüfung der Echtheit der Warenverkehrsbescheinigungen EUR.1, Warenverkehrsbescheinigungen EUR-MED, der Ursprungserklärungen und der Ursprungserklärungen EUR-MED sowie der Richtigkeit der Angaben in diesen Nachweisen.
-
-### ........1 **Art. 33**Prüfung der Ursprungsnachweise
-
-\1. Nachträgliche Prüfungen von Ursprungsnachweisen erfolgen stichprobenweise oder immer dann, wenn die Zollbehörden der einführenden Vertragspartei begründete Zweifel an der Echtheit der Papiere, der Ursprungseigenschaft der betreffenden Erzeugnisse oder der Erfüllung der übrigen Voraussetzungen dieses Protokolls haben.
-
-\2. Für die Zwecke des Absatzes 1 senden die Zollbehörden der einführenden Vertragspartei die Warenverkehrsbescheinigung EUR.1 oder EUR-MED und die Rechnung, wenn sie vorgelegt worden ist, die Ursprungserklärung oder die Ursprungserklärung EUR-MED oder eine Kopie dieser Papiere an die Zollbehörden der ausführenden Vertragspartei zurück, gegebenenfalls unter Angabe der Gründe, die eine Untersuchung rechtfertigen. Zur Begründung des Ersuchens um nachträgliche Prüfung übermitteln sie alle Unterlagen und teilen alle ihnen bekannten Umstände mit, die auf die Unrichtigkeit der Angaben in dem Ursprungsnachweis schliessen lassen.
-
-\3. Die Prüfung wird von den Zollbehörden der ausführenden Vertragspartei durchgeführt. Sie sind befugt, zu diesem Zweck die Vorlage von Beweismitteln zu verlangen und jede Art von Überprüfung der Buchführung des Ausführers oder sonstige von ihnen für zweckdienlich erachtete Kontrolle durchzuführen.
-
-\4. Beschliessen die Zollbehörden der einführenden Vertragspartei, bis zum Eingang des Ergebnisses der Nachprüfung die Präferenzbehandlung für die betreffenden Erzeugnisse nicht zu gewähren, so bieten sie dem Einführer an, die Erzeugnisse vorbehaltlich der für notwendig erachteten Sicherungsmassnahmen freigeben.
-
-\5. Das Ergebnis dieser Prüfung ist den Zollbehörden, die um die Prüfung ersucht haben, so bald wie möglich mitzuteilen. Anhand dieses Ergebnisses muss sich eindeutig feststellen lassen, ob die Papiere echt sind und ob die Erzeugnisse als Ursprungserzeugnisse des Vereinigten Königreichs, der Schweiz oder eines der in den Artikeln 3 und 4 genannten anderen Länder angesehen werden können und die übrigen Voraussetzungen dieses Protokolls erfüllt sind.
-
-\6. Ist im Falle begründeter Zweifel zehn Monate nach dem Tag des Ersuchens um nachträgliche Prüfung noch keine Antwort eingegangen oder enthält die Antwort keine ausreichenden Angaben, um über die Echtheit des betreffenden Papiers oder den tatsächlichen Ursprung der Erzeugnisse entscheiden zu können, so lehnen die ersuchenden Zollbehörden die Gewährung der Präferenzbehandlung ab, es sei denn, dass aussergewöhnliche Umstände vorliegen.
-
-### ........1 **Art. 34**Streitbeilegung
-
-\1. Streitigkeiten im Zusammenhang mit dem Prüfungsverfahren gemäss Artikels 33, die zwischen den Zollbehörden, die um eine Prüfung ersucht haben, und den für diese Prüfung zuständigen Zollbehörden entstehen, oder Fragen zur Auslegung dieses Protokolls sind dem Gemischten Ausschuss vorzulegen.
-
-\2. Streitigkeiten zwischen dem Einführer und den Zollbehörden des Einfuhrlands sind stets nach dem Recht des betreffenden Landes beizulegen.
-
-### ........1 **Art. 35**Sanktionen
-
-Sanktionen werden gegen denjenigen angewandt, der ein Schriftstück mit falschen Angaben anfertigt oder anfertigen lässt, um eine Präferenzbehandlung von Erzeugnissen zu erlangen.
-
-### ........1 **Art. 36**Freizonen
-
-\1. Die Vertragsparteien treffen alle erforderlichen Massnahmen, um zu verhindern, dass Erzeugnisse mit Ursprungsnachweis, die während ihrer Beförderung zeitweilig in einer Freizone in ihrem Gebiet verbleiben, dort ausgetauscht oder anderen als den üblichen auf die Erhaltung ihres Zustands gerichteten Behandlungen unterzogen werden.
-
-\2. Abweichend von Absatz 1 stellen die zuständigen Behörden in Fällen, in denen Ursprungserzeugnisse des Vereinigten Königreichs oder der Schweiz mit Ursprungsnachweis in eine Freizone eingeführt und dort einer Behandlung oder Bearbeitung unterzogen werden, auf Antrag des Ausführers eine neue Warenverkehrsbescheinigung EUR.1 oder EUR-MED aus, wenn die Behandlung oder Bearbeitung den Bestimmungen dieses Protokolls entspricht.
-
-### Titel VII: Schlussbestimmungen
-
-### ........1 **Art. 37**Ceuta und Melilla
-
-Der Begriff «Europäische Union», der in diesem Protokoll verwendet wird, deckt Ceuta und Melilla nicht ab. Für die Zwecke dieses Protokolls gelten Erzeugnisse mit Ursprung Ceuta und Melilla nicht als Erzeugnisse mit Ursprung aus der Europäischen Union.
-
-### ........1 **Art. 38**Übergangsbestimmungen für Durchgangs- und Lagerwaren
-
-Die Bestimmungen dieses Abkommens können auf Waren angewendet werden, die die Voraussetzungen dieses Protokolls erfüllen und die sich bei Inkrafttreten dieses Abkommens im Durchgangsverkehr oder im Vereinigten Königreich oder in der Schweiz in vorübergehender Verwahrung, in einem Zolllager oder in einer Freizone befinden, sofern den Zollbehörden des Einfuhrlands innerhalb von zwölf Monaten nach diesem Zeitpunkt eine von den Zollbehörden des Ausfuhrlands nachträglich ausgestellte Warenverkehrsbescheinigung EUR.1 oder EUR-MED sowie Unterlagen zum Nachweis der unmittelbaren Beförderung nach Artikel 13 vorgelegt werden.
-
-### ........1 **Art. 39**Anhänge
-
-\1. Die Anhänge I–IV*b* der Anlage I des Regionalen -Übereinkommens über Pan-Europa-Mittelmeer-Präferenzursprungsregeln werden in dieses Protokoll inkorporiert und in dieses aufgenommen und gelten *mutatis mutandis* vorbehaltlich der folgenden Änderungen:
-
-- (a)
-
-  In Anhang I:
-
-  - (i) Alle Bezugnahmen auf «Artikel 5 dieses Anhangs» sind als Bezugnahmen auf «Artikel 6 dieses Protokolls» zu verstehen; und
-  - (ii) in Absatz 3.1 der Anmerkung 3 wird «eine Vertragspartei» durch «eines der anderen in den Artikeln 3 und 4 genannten Länder, auf die die Kumulierung anwendbar ist» ersetzt.
-
-- (b)
-
-  In jedem der Anhänge IV*a* und IV*b*:
-
-  - (i) nur die englische, französische, deutsche und italienische Fassung der Ursprungserklärung wird aufgenommen; und
-  - (ii) der zweite Satz der Fussnote 2 wird nicht aufgenommen.
-
-\2. Die Anhänge zu diesem Protokoll sind ein integraler Bestandteil davon.
-
-Anhang A
-
-## Liste gemäss Absatz 2 von Artikel 3 und 4
-
-\1. Die Demokratische Volksrepublik Algerien
-
-\2. Die Arabische Republik Ägypten
-
-\3. Der Staat Israel
-
-\4. Das Haschemitische Königreich Jordanien
-
-\5. Die Libanesische Republik
-
-\6. Das Königreich Marokko
-
-\7. Palästinensische Befreiungsorganisation zugunsten der Palästinensischen Behörde des Westjordanlandes und des Gazastreifens
-
-\8. Die Syrisch-Arabische Republik
-
-\9. Die Tunesische Republik
-
-\10. Die Republik Albanien
-
-\11. Bosnien und Herzegowina
-
-\12. Die Republik Mazedonien
-
-\13. Montenegro
-
-\14. Republik Serbien
-
-\15. Republik Kosovo
-
-\16. Das Königreich Dänemark in Bezug auf die Färöer-Inseln
-
-\17. Die Republik Moldau
-
-\18. Georgien
-
-\19. Ukraine
-
-Anhang B
-
-## Gemeinsame Erklärung zum Fürstentum Andorra
-
-\1. Erzeugnisse mit Ursprung im Fürstentum Andorra, die unter die Kapitel 25–97 des Harmonisierten Systems fallen und die die Bedingungen von Artikel 3 Absatz 7 Buchstabe b) und Artikel 4 Absatz 5 Buchstabe b) des Protokolls Nr. 3 zum Inkorporierten Freihandelsabkommen erfüllen, werden von den Vertragsparteien als Ursprungserzeugnisse der Europäischen Union im Sinne des Inkorporierten Freihandelsabkommens und des Inkorporierten Agrarabkommens anerkannt.
-
-\2. Das Protokoll Nr. 3 gilt *mutatis mutandis* für die Bestimmung der Ursprungseigenschaft der vorgenannten Erzeugnisse.
-
-Anhang C
-
-## Gemeinsame Erklärung zur Republik San Marino
-
-\1. Erzeugnisse mit Ursprung in der Republik San Marino, die die Bedingungen von Artikel 3 Absatz 7 Buchstabe b) und von Artikel 4 Absatz 5 Buchstabe b) des Protokolls Nr. 3 zum Inkorporierten Freihandelsabkommen erfüllen, werden von den Vertragsparteien als Ursprungserzeugnisse der Europäischen Union im Sinne des Inkorporierten Freihandelsabkommens und des Inkorporierten Agrarabkommens anerkannt.
-
-\2. Das Protokoll Nr. 3 gilt *mutatis mutandis* für die Bestimmung der Ursprungseigenschaft der vorgenannten Erzeugnisse.»
+Liste der Anhänge
+
+Anhang I Einleitende Bemerkungen zur Liste in Anhang II
+
+Anhang II Liste der Be- oder Verarbeitungen, die an Vormaterialien ohne Ursprungseigenschaft vorgenommen werden müssen, um der Ware die Ursprungseigenschaft zu verleihen
+
+Anhang III Wortlaut der Ursprungserklärung
+
+Anhang IV Muster der Warenverkehrsbescheinigung EUR.1 und des Antrags auf Ausstellung einer Warenverkehrsbescheinigung EUR.1
+
+Anhang V Sonderbedingungen für Erzeugnisse mit Ursprung in Ceuta und Melilla
+
+Anhang VI Lieferantenerklärung
+
+Anhang VII Langzeit-Lieferantenerklärung
+
+Anhang VIII Länderliste
+
+Anhang I
+
+## Einleitende Bemerkungen zur Liste in Anhang II
+
+Bemerkung 1 – Allgemeine Einleitung
+
+In der Liste sind für alle Erzeugnisse die Bedingungen festgelegt, die zu erfüllen sind, damit diese Erzeugnisse als in ausreichendem Masse be- oder verarbeitet im Sinne von Titel II Artikel 4 dieses Protokolls angesehen werden können. Je nach Erzeugnis gibt es vier verschiedene Arten von Regeln:
+
+- a) durch die Be- oder Verarbeitung wird ein Höchstanteil an Vormaterialien ohne Ursprungseigenschaft nicht überschritten;
+- b) infolge der Be- oder Verarbeitung ist das betreffende Erzeugnis in eine andere vierstellige Position oder sechsstellige Unterposition des Harmonisierten Systems einzureihen als die verwendeten Vormaterialien;
+- c) es findet ein bestimmter Be- oder Verarbeitungsvorgang statt;
+- d) die Be- oder Verarbeitung erfolgt mit vollständig gewonnenen oder hergestellten Vormaterialien.
+
+Bemerkung 2 – Aufbau der Liste
+
+- 2\.1. Die ersten beiden Spalten in der Liste beschreiben die hergestellten Erzeugnisse. In Spalte 1 steht die Position oder das Kapitel nach dem Harmonisierten System, in Spalte 2 die Warenbezeichnung, die im Harmonisierten System für diese Position oder dieses Kapital verwendet wird. Für jede Eintragung in den ersten beiden Spalten ist in Spalte 3 eine Regel vorgesehen. Steht vor der Eintragung in Spalte 1 ein «ex», so bedeutet dies, dass die Regel in Spalte 3 nur für jenen Teil der Position oder des Kapitels gilt, der in Spalte 2 genannt ist.
+- 2\.2. In Spalte 1 sind in bestimmten Fällen mehrere Positionen zusammengefasst oder Kapitel angeführt; dementsprechend ist die zugehörige Warenbezeichnung in Spalte 2 in allgemeiner Form enthalten. Die entsprechende Regel in Spalte 3 bezieht sich dann auf alle Erzeugnisse, die nach dem Harmonisierten System in die Positionen des Kapitels oder in jede der Positionen einzureihen sind, die in Spalte 1 zusammengefasst sind.
+- 2\.3. Sind in dieser Liste verschiedene Regeln angeführt, die auf verschiedene Erzeugnisse einer Position anzuwenden sind, so enthält jede Eintragung die Bezeichnung jenes Teils der Position, auf die sich die entsprechende Regel in Spalte 3 bezieht.
+- 2\.4. Sind in Spalte 3 zwei alternative, durch «oder» getrennte Regeln angeführt, so kann der Ausführer zwischen diesen wählen.
+
+Bemerkung 3 – Beispiele zur richtigen Anwendung der Regeln
+
+- 3\.1. Titel II Artikel 4 dieses Protokolls betreffend Erzeugnisse, welche die Ursprungseigenschaft erworben haben und zur Herstellung anderer Erzeugnisse verwendet werden, gilt unabhängig davon, ob die Ursprungseigenschaft in dem Unternehmen erworben wurde, in dem diese Erzeugnisse verwendet werden, oder in einem anderen Unternehmen in einer Vertragspartei.
+- 3\.2. Gemäss Titel II Artikel 6 dieses Protokolls muss die vorgenommene Be- oder Verarbeitung über die in diesem Artikel aufgelisteten Vorgänge hinausgehen. Andernfalls kann keine Präferenzzollbehandlung gewährt werden, auch wenn die in nachstehender Liste genannten Bedingungen erfüllt sind.
+- Vorbehaltlich Titel II Artikel 6 dieses Protokolls legen die Regeln in der Liste das Mindestausmass der erforderlichen Be- oder Verarbeitungen fest, ein darüber hinausgehender Bearbeitungsvorgang verleiht gleichfalls die Ursprungseigenschaft; umgekehrt verleiht ein weniger weit gehender Herstellungsvorgang nicht die Ursprungseigenschaft.
+- Wenn daher eine Regel vorsieht, dass Vormaterial ohne Ursprungseigenschaft einer bestimmten Verarbeitungsstufe verwendet werden kann, ist auch die Verwendung von Vormaterial dieser Art auf einer niedrigeren Verarbeitungsstufe zulässig, nicht aber die Verwendung von solchem Vormaterial auf einer höheren Verarbeitungsstufe.
+- Wenn eine Regel vorsieht, dass Vormaterial ohne Ursprungseigenschaft einer bestimmten Verarbeitungsstufe nicht verwendet werden kann, ist die Verwendung von Vormaterial dieser Art auf einer niedrigeren Verarbeitungsstufe zulässig, nicht aber die Verwendung von solchem Vormaterial auf einer höheren Verarbeitungsstufe.
+- Beispiel: Sieht die Listenregel für Kapitel 19 vor, dass «Vormaterialien ohne Ursprungseigenschaft der Positionen 1101 bis 1108 20 v. H. des Gewichts nicht überschreiten darf», so ist die Verwendung (also die Einfuhr) von Getreide des Kapitels 10 (Vormaterialien auf einer niedrigeren Verarbeitungsstufe) uneingeschränkt zulässig.
+- 3\.3. Wenn eine Regel das «Herstellen aus Vormaterialien jeder Position» erlaubt, können unbeschadet der Bemerkung 3.2 Vormaterialien jeder Position (auch Vormaterialien der Position der hergestellten Ware mit derselben Warenbezeichnung) verwendet werden, wenn die besonderen Beschränkungen beachtet werden, die die Regel gegebenenfalls enthält.
+- Jedoch bedeutet der Ausdruck «Herstellen aus Vormaterialien jeder Position, einschliesslich aus anderen Vormaterialien der Position ...» oder «Herstellen aus Vormaterialien jeder Position, einschliesslich aus anderen Vormaterialien derselben Position wie der hergestellten Ware», dass Vormaterialien jeder Position verwendet werden können, mit Ausnahme derjenigen, die dieselbe Warenbezeichnung haben wie die, die sich aus Spalte 2 ergibt.
+- 3\.4. Wenn eine Regel in der Liste vorsieht, dass ein Erzeugnis aus mehr als einem Vormaterial hergestellt werden kann, bedeutet dies, dass eines oder mehrere dieser Vormaterialien verwendet werden können. Es müssen aber nicht alle verwendet werden.
+- 3\.5. Wenn eine Regel in der Liste vorsieht, dass ein Erzeugnis aus einem bestimmten Vormaterial hergestellt werden muss, so schliesst diese Bedingung die Verwendung anderer Vormaterialien nicht aus, die ihrer Natur nach nicht unter diese Regel fallen können.
+- 3\.6. Sind in einer Regel in dieser Liste als Höchstwert für die zulässigen Vormaterialien ohne Ursprungseigenschaft zwei Vomhundertsätze vorgesehen, so dürfen diese nicht zusammengezählt werden. Der Gesamtwert aller Vormaterialien ohne Ursprungseigenschaft darf den höheren der vorgesehenen Vomhundertsätze niemals überschreiten. Darüber hinaus dürfen die einzelnen Vomhundertsätze bezüglich der jeweiligen Vormaterialien, für die sie vorgesehen sind, nicht überschritten werden.
+
+Bemerkung 4 – Allgemeine Bestimmungen für bestimmte landwirtschaftliche Erzeugnisse
+
+- 4\.1. Landwirtschaftliche Erzeugnisse der Kapitel 6, 7, 8, 9, 10 und 12 sowie der Position 2401, die im Gebiet einer Vertragspartei angebaut oder geerntet werden, gelten auch dann als Erzeugnisse mit Ursprung in dieser Vertragspartei, wenn sie aus Saatgut, Bulben, Zwiebeln, Knollen, Wurzelstöcken, Stecklingen, Pfröpflingen, Sprossen, Knospen oder anderen lebenden Teilen von Pflanzen erzeugt werden, die eingeführt wurden.
+- 4\.2. In Fällen, in denen für den Gehalt an Zucker ohne Ursprungseigenschaft in einem Erzeugnis eine Höchstgrenze gilt, wird zu deren Berechnung das Gewicht der Zucker der Positionen 1701 (Saccharose) und 1702 (z. B. Fructose, Glucose, Lactose, Maltose, Isoglucose oder Invertzuckercreme) berücksichtigt, die bei der Herstellung des Enderzeugnisses und beim Herstellen der in dem Enderzeugnis verarbeiteten Erzeugnisse ohne Ursprungseigenschaft verwendet worden sind.
+
+Bemerkung 5 – In Bezug auf bestimmte Spinnstofferzeugnisse verwendete Begriffe
+
+- 5\.1. Der in der Liste verwendete Begriff «natürliche Fasern» bezieht sich auf alle Fasern, die nicht künstlich oder synthetisch sind. Er ist auf die Verarbeitungsstufen vor dem Spinnen beschränkt und schliesst auch Abfälle ein. Sofern nichts anderes bestimmt ist, umfasst er daher auch Fasern, die gekrempelt, gekämmt oder auf andere Weise bearbeitet, aber noch nicht gesponnen sind.
+- 5\.2. Der Begriff «natürliche Fasern» umfasst Rosshaar der Position 0511, Seide der Positionen 5002 und 5003, Wolle, feine und grobe Tierhaare der Positionen 5101 bis 5105, Baumwolle der Positionen 5201 bis 5203 und andere pflanzliche Spinnstoffe der Positionen 5301 bis 5305.
+- 5\.3. Die Begriffe «Spinnmasse», «chemische Materialien» und «Materialien für die Papierherstellung» stehen in dieser Liste als Beispiel für alle nicht in die Kapitel 50 bis 63 einzureihenden Vormaterialien, die für die Herstellung künstlicher oder synthetischer Fasern oder Garne oder solcher aus Papier verwendet werden können.
+- 5\.4. Der in dieser Liste verwendete Begriff «synthetische oder künstliche Spinnfasern» bezieht sich auf Kabel aus synthetischen oder künstlichen Filamenten, synthetische oder künstliche Spinnfasern oder Abfälle der Positionen 5501 bis 5507.
+- 5\.5. «Bedrucken» (in Kombination mit Weben, Wirken/Stricken, Tuften oder Beflocken) ist definiert als ein Verfahren, wodurch der Spinnstoff mithilfe von Sieb-, Walz-, Digital- oder Sublimationsdrucktechniken eine dauerhafte objektiv bewertbare Funktion, wie Farbe, Design oder technische Leistung, erhält.
+- 5\.6. «Bedrucken» (als eigenständige Behandlung) ist definiert als ein Verfahren, bei dem der Spinnstoff eine dauerhafte objektiv bewertbare Funktion, wie Farbe, Design oder technische Leistung, erhält, und zwar mithilfe von Sieb-, Walz-, Digital- oder Sublimationsdrucktechniken und mindestens zwei Vor- oder Nachbehandlungen (wie Reinigen, Bleichen, Merzerisieren, Thermofixieren, Aufhellen, Kalandrieren, krumpfecht Ausrüsten, Fixieren, Dekatieren, Tränken oder Ausbessern und Noppen), sofern der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet.
+
+Bemerkung 6 – Toleranzen für Erzeugnisse, die aus verschiedenen textilen Vormaterialien hergestellt sind
+
+- 6\.1. Wird bei einem Erzeugnis in der Liste auf diese Bemerkung verwiesen, so werden die in Spalte 3 der Liste vorgesehenen Bedingungen auf keines der bei der Herstellung dieses Erzeugnisses verwendeten textilen Grundmaterialien angewendet, die zusammengenommen 15 v. H. oder weniger des Gesamtgewichts aller verwendeten textilen Grundmaterialien ausmachen. (Siehe auch die Bemerkungen 6.3 und 6.4).
+- 6\.2. Diese Toleranz nach Bemerkung 6.1 kann jedoch nur auf Mischerzeugnisse angewandt werden, die aus zwei oder mehr textilen Grundmaterialien hergestellt sind.
+  - [tab] Textile Grundmaterialien sind:
+  - – Seide;
+  - – Wolle;
+  - – grobe Tierhaare;
+  - – feine Tierhaare;
+  - – Rosshaar;
+  - – Baumwolle;
+  - – Materialien für die Papierherstellung und Papier;
+  - – Flachs;
+  - – Hanf;
+  - – Jute und andere textile Bastfasern;
+  - – Sisal und andere textile Agavefasern;
+  - – Kokos, Abaca, Ramie und andere pflanzliche Spinnstoffe;
+  - – synthetische Spinnfasern aus Polypropylen;
+  - – synthetische Spinnfasern aus Polyester;
+  - – synthetische Spinnfasern aus Polyamid;
+  - – synthetische Spinnfasern aus Polyacrylnitril;
+  - – synthetische Spinnfasern aus Polyimid;
+  - – synthetische Spinnfasern aus Polytetrafluorethylen;
+  - – synthetische Spinnfasern aus Poly(phenylensulfid);
+  - – synthetische Spinnfasern aus Poly(vinylchlorid);
+  - – andere synthetische Spinnfasern;
+  - – künstliche Spinnfasern aus Viskose;
+  - – andere künstliche Spinnfasern;
+  - – elektrische Leitfilamente;
+  - – synthetische Spinnfasern aus Polypropylen;
+  - – synthetische Spinnfasern aus Polyester;
+  - – synthetische Spinnfasern aus Polyamid;
+  - – synthetische Spinnfasern aus Polyacrylnitril;
+  - – synthetische Spinnfasern aus Polyimid;
+  - – synthetische Spinnfasern aus Polytetrafluorethylen;
+  - – synthetische Spinnfasern aus Poly(phenylensulfid);
+  - – synthetische Spinnfasern aus Poly(vinylchlorid);
+  - – andere synthetische Spinnfasern;
+  - – künstliche Spinnfasern aus Viskose;
+  - – andere künstliche Spinnfasern;
+  - – Polyurethangarne mit Zwischenstücken aus elastischen Polyethersegmenten, auch umsponnen;
+  - – Erzeugnisse der Position 5605 (Metallgarne), bestehend aus einer Seele aus Aluminiumfolie oder aus Kunststofffolie, auch mit Aluminiumpulver überzogen, mit einer Dicke von nicht mehr als 5 mm, die durch Kleben mit durchsichtigem oder farbigem Klebstoff zwischen zwei Lagen Kunststoff-Folie eingefügt ist;
+  - – andere Erzeugnisse der Position 5605;
+  - – Glasfasern;
+  - – Metallfasern;
+  - – Mineralfasern.
+
+- 6\.3. Diese Toleranz erhöht sich auf 20 v. H. für Erzeugnisse aus «Polyurethangarnen mit Zwischenstücken aus elastischen Polyethersegmenten, auch umsponnen».
+- 6\.4. Diese Toleranz erhöht sich auf 30 v. H. für Erzeugnisse aus Streifen von nicht mehr als 5 mm, bestehend aus einer Seele aus Aluminiumfolie oder aus Kunststofffolie, auch mit Aluminiumpulver überzogen, die durch Kleben mit durchsichtigem oder farbigem Klebstoff zwischen zwei Lagen Kunststofffolie eingefügt ist.
+
+Bemerkung 7 – Andere Toleranzen für bestimmte Spinnstofferzeugnisse
+
+- 7\.1. Wird bei einem Erzeugnis in der Liste auf diese Bemerkung verwiesen, so können textile Vormaterialien, ausgenommen Futter und Einlagestoffe, die nicht die Regel erfüllen, die in Spalte 3 der Liste für die betreffenden Konfektionswaren vorgesehen ist, dennoch verwendet werden, vorausgesetzt, dass sie zu einer anderen Position gehören als das hergestellte Erzeugnis und ihr Wert 15 v. H. des Ab-Werk-Preises des hergestellten Erzeugnisses nicht überschreitet.
+- 7\.2. Unbeschadet der Bemerkung 6.3 können Vormaterialien, die nicht zu den Kapiteln 50 bis 63 gehören, ohne Rücksicht darauf, ob sie Spinnstoffe enthalten oder nicht, unbeschränkt verwendet werden.
+- 7\.3. Der Wert der nicht zu den Kapiteln 50 bis 63 gehörenden Vormaterialien ohne Ursprungseigenschaft muss bei der Berechnung des Wertes der verwendeten Vormaterialien ohne Ursprungseigenschaft berücksichtigt werden, wenn eine Prozentregel gilt.
+
+Bemerkung 8 – Definition begünstigter Verfahren und einfacher Verfahren für bestimmte Erzeugnisse des Kapitels 27
+
+- 8\.1.
+
+  Als «begünstigte Verfahren» im Sinne der Positionen ex 2707 und 2713 gelten:
+
+  - a) die Vakuumdestillation;
+  - b) die Redestillation zur weitgehenden Zerlegung;
+  - c) das Kracken;
+  - d) das Reformieren;
+  - e) die Raffination mit Selektiv-Lösemitteln;
+  - f) das Verfahren, das sämtliche der folgenden Schritte umfasst: die Behandlung mit konzentrierter Schwefelsäure, Oleum oder Schwefelsäureanhydrid, die Neutralisation mit Alkalien, das Bleichen und Reinigen mit von Natur aktiven Erden, mit Bleicherde, Aktivkohle oder Bauxit;
+  - g) die Polymerisation;
+  - h) die Alkylierung;
+  - i) die Isomerisation.
+
+- 8\.2.
+
+  Als «begünstigte Verfahren» im Sinne der Positionen 2710, 2711 und 2712 gelten:
+
+  - a) die Vakuumdestillation;
+  - b) die Redestillation zur weitgehenden Zerlegung;
+  - c) das Kracken;
+  - d) das Reformieren;
+  - e) die Raffination mit Selektiv-Lösemitteln;
+  - f) das Verfahren, das sämtliche der folgenden Schritte umfasst: die Behandlung mit konzentrierter Schwefelsäure, Oleum oder Schwefelsäureanhydrid, die Neutralisation mit Alkalien, das Bleichen und Reinigen mit von Natur aktiven Erden, mit Bleicherde, Aktivkohle oder Bauxit;
+  - g) die Polymerisation;
+  - h) die Alkylierung;
+  - i) die Isomerisation;
+  - j) nur für Schweröle der Position ex 2710: das Entschwefeln unter Verwendung von Wasserstoff, wenn dabei der Schwefelgehalt der verarbeiteten Erzeugnisse um mindestens 85 v. H. vermindert wird (Methode ASTM D 1266-59 T);
+  - k) nur für Erzeugnisse der Position 2710: das Entparaffinieren, ausgenommen einfaches Filtern;
+  - l) nur für Schweröle der Position ex 2710: die Behandlung mit Wasserstoff bei einem Druck über 20 bar und einer Temperatur über 250 °C mit Hilfe eines Katalysators zu anderen Zwecken als zum Entschwefeln, wenn dabei der Wasserstoff aktiv an einer chemischen Reaktion beteiligt ist. Die Nachbehandlung von Schmierölen der Position ex 2710 mit Wasserstoff (zum Beispiel Hydrofinishing oder Entfärbung) zur Verbesserung insbesondere der Farbe oder der Stabilität gilt jedoch nicht als begünstigtes Verfahren;
+  - m) nur für Heizöl der Position ex 2710: die atmosphärische Destillation, wenn bei der Destillation der Erzeugnisse nach der Methode ASTM D 86 bei 300 °C einschliesslich der Destillationsverluste weniger als 30 RHT übergehen;
+  - n) nur für Schweröle, andere als Gasöl und Heizöl der Position ex 2710: die Bearbeitung durch elektrische Hochfrequenz-Entladung;
+  - o) nur für Produkte in Rohform der Position ex 2712 (andere als Vaselin, Ozokerit, Montanwachs oder Torfwachs, Paraffin mit einem Gehalt an Öl von weniger als 0,75 GHT): die Entölung durch fraktionierte Kristallisation.
+
+- 8\.3. Im Sinne der Positionen ex 2707 und 2713 verleihen einfache Behandlungen wie Reinigen, Klären, Entsalzen, Abscheiden des Wassers, Filtern, Färben, Markieren, die Erzielung eines bestimmten Schwefelgehalts durch Mischen von Erzeugnissen mit unterschiedlichem Schwefelgehalt, alle Kombinationen dieser Behandlungen oder ähnliche Behandlungen nicht die Ursprungseigenschaft.
+
+Bemerkung 9 – Definition begünstigter Verfahren und einfacher Verfahren für bestimmte Erzeugnisse der Kapitel
+
+- 9\.1. Erzeugnisse des Kapitels 30, die in einer Vertragspartei unter Verwendung von Zellkulturen hergestellt werden, gelten als Erzeugnisse mit Ursprung in dieser Vertragspartei. Der Begriff «Zellkultur» ist definiert als die Kultivierung menschlicher, tierischer und pflanzlicher Zellen unter kontrollierten Bedingungen (z. B. genau festgelegte Temperatur, Nährmedium, Gasgemisch, pH‑Wert) ausserhalb eines lebenden Organismus.
+- 9\.2. Erzeugnisse der Kapitel 29 (ausgenommen 2905.43-2905.44), 30, 32, 33 (ausgenommen 3302.10, 3301) 34, 35 (ausgenommen 35.01, 3502.11-3502.19, 3502.20, 35.05), 36, 37, 38 (ausgenommen 3809.10, 38.23, 3824.60, 38.26) und 39 (ausgenommen 39.16-39.26) die in einer Vertragspartei durch Fermentierung hergestellt werden, gelten als Erzeugnisse mit Ursprung in dieser Vertragspartei. «Fermentierung» ist ein biotechnologischer Prozess, bei dem menschliche, tierische und pflanzliche Zellen, Bakterien, Hefen, Pilze oder Enzyme zur Herstellung von Erzeugnissen der Kapitel 29 bis 39 verwendet werden.
+- 9\.3. Die folgenden Umwandlungen werden gemäss Artikel 4 Absatz 1 als ausreichend erachtet bei Erzeugnissen der Kapitel 28, 29 (ausgenommen 2905.43-2905.44), 30, 32, 33 (ausgenommen 3302.10, 3301) 34, 35 (ausgenommen 35.01, 3502.11-3502.19, 3502.20, 35.05), 36, 37, 38 (ausgenommen 3809.10, 38.23, 3824.60, 38.26) und 39 (ausgenommen 39.16-39.26):
+- – Chemische Reaktion: Eine «chemische Reaktion» ist ein Prozess (einschliesslich eines biochemischen Prozesses), bei dem durch Auflösung intramolekularer Bindungen und Bildung neuer intramolekularer Bindungen oder durch Änderung der räumlichen Anordnung von Atomen in einem Molekül ein Molekül mit einer neuen Struktur entsteht. Eine chemische Reaktion kann durch eine Änderung der «CAS-Nummer» ausgedrückt werden.
+- – Folgende Verfahren sollten nicht für Ursprungszwecke in Betracht gezogen werden: a) Auflösen in Wasser oder anderen Lösungsmitteln, b) Entzug von Lösungsmitteln einschliesslich des Lösungsmittels Wasser oder c) Hinzufügen oder Entzug von Kristallwasser. Eine chemische Reaktion gemäss der obigen Definition ist als ursprungsverleihend anzusehen.
+- – Mischungen und Gemische: Das absichtliche und bezogen auf die Anteile kontrollierte Mischen oder Vermengen (einschliesslich Verteilen) von Vormaterialien, ausser der Zugabe von Verdünnungsmitteln, zur Einhaltung vorher festgelegter Spezifikationen, das zur Herstellung einer Ware führt, deren physikalische oder chemische Eigenschaften für die Zwecke oder die Verwendung der Ware relevant sind und sich von denen der eingesetzten Vormaterialien unterscheiden, ist als ursprungsverleihend anzusehen.
+- –
+
+  Reinigung: Die Reinigung ist als ursprungsverleihend anzusehen, sofern diese im Gebiet einer Vertragspartei oder beider Vertragsparteien erfolgt und dazu führt, dass eines der folgenden Kriterien erfüllt ist:
+
+  - a) die Reinigung einer Ware führt zur Beseitigung von mindestens 80 % der enthaltenen Verunreinigungen; oder
+  - b)
+
+    die Verringerung oder Beseitigung von Verunreinigungen führt zu einer Ware mit geeigneter Qualität für einen oder mehrere der folgenden Verwendungszwecke:
+
+    - i) Stoffe in pharmazeutischer, medizinischer, kosmetischer, Veterinär- oder Lebensmittelqualität,
+    - ii) chemische Erzeugnisse und Reagenzien zur Verwendung im Analyse-, Diagnose- oder Laborbereich,
+    - iii) Elemente und Bauteile zur Verwendung in der Mikroelektronik,
+    - iv) optische Spezialzwecke,
+    - v) Verwendung in der Biotechnik (z. B. in der Zellkulturtechnik, in der Gentechnik oder als Katalysatoren),
+    - vi) Träger zur Verwendung in Trennverfahren, oder
+    - vii) nukleare Verwendungszwecke.
+
+- – Änderung der Partikelgrösse: Die absichtliche und kontrollierte Änderung der Partikelgrösse einer Ware auf andere Weise als durch einfaches Zerkleinern oder Zermahlen, die zu einer Ware führt, deren spezifische Partikelgrösse, Partikelgrössenverteilung oder Oberfläche für die Verwendungszwecke der entstehenden Ware relevant sind und deren physikalische oder chemische Eigenschaften sich von denen der eingesetzten Vormaterialien unterscheiden, ist als ursprungverleihend anzusehen.
+- – Standardvormaterialien: Standardvormaterialien (einschliesslich Standardlösungsmitteln) sind vom Hersteller zertifizierte Präparate für Analyse-, Kalibrierungs- und Referenzzwecke mit präzisen Reinheitsgraden oder Anteilen. Die Herstellung von Standardvormaterialien ist als ursprungsverleihend anzusehen.
+- – Isomerentrennung: Das Isolieren oder Abtrennen einzelner Isomere aus einem Isomerengemisch ist als ursprungsverleihend anzusehen.
+
+Anhang II
+
+## Liste der Be- oder Verarbeitungen, die an Vormaterialien ohne Ursprungseigenschaft vorgenommen werden müssen, um der Ware die ursprungseigenschaft zu verleihen
+
+<table>
+<tr><th>Position</th><th>Warenbezeichnung</th><th>Be- oder Verarbeitungen von Vormaterialien ohne Ursprungseigenschaft, die Ursprung verleihen</th></tr>
+<tr><th>(1)</th><th>(2)</th><th>(3)</th></tr>
+<tr><td>Kapitel 1</td><td>Lebende Tiere</td><td>Alle Tiere des Kapitels 1 müssen vollständig gewonnen oder hergestellt sein</td></tr>
+<tr><td>Kapitel 2</td><td>Fleisch und geniessbare Schlachtnebenerzeugnisse</td><td>Herstellen, bei dem alles Fleisch und alle geniessbaren Schlachtnebenerzeugnisse in den Erzeugnissen dieses Kapitels vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>Kapitel 3</td><td>Fische und Krebstiere, Weichtiere und andere wirbellose Wassertiere</td><td>Herstellen, bei dem alle verwendeten Vormaterialien des Kapitels 3 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>Kapitel 4</td><td>Milch und Milcherzeugnisse; Vogeleier; natürlicher Honig; geniessbare Waren tierischen Ursprungs, anderweit weder genannt noch inbegriffen</td><td>Herstellen, bei dem alle verwendeten Vormaterialien des Kapitels 4 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>ex Kapitel 5</td><td>Andere Waren tierischen Ursprungs, anderweit weder genannt noch inbegriffen, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position</td></tr>
+<tr><td>ex 0511 91</td><td>Ungeniessbare Fischrogen und Fischmilch</td><td>Aller Rogen und alle Fischmilch sind vollständig gewonnen oder hergestellt</td></tr>
+<tr><td>Kapitel 6</td><td>Lebende Pflanzen und Waren des Blumenhandels; Bulben, Zwiebeln, Knollen, Wurzelknollen und Wurzelstöcke; Schnittblumen und Pflanzenteile zu Binde- oder Zierzwecken</td><td>Herstellen, bei dem alle verwendeten Vormaterialien des Kapitels 6 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>Kapitel 7</td><td>Gemüse, Pflanzen, Wurzeln und Knollen, die zu Ernährungszwecken verwendet werden</td><td>Herstellen, bei dem alle verwendeten Vormaterialien des Kapitels 7 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>Kapitel 8</td><td>Geniessbare Früchte und Nüsse; Schalen von Zitrusfrüchten oder von Melonen</td><td>Herstellen, bei dem alle Früchte, Nüsse und Schalen von Zitrusfrüchten oder von Melonen des Kapitels 8 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>Kapitel 9</td><td>Kaffee, Tee, Mate und Gewürze</td><td>Herstellen aus Vormaterialien jeder Position</td></tr>
+<tr><td>Kapitel 10</td><td>Getreide</td><td>Herstellen, bei dem alle verwendeten Vormaterialien des Kapitels 10 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>Kapitel 11</td><td>Müllereierzeugnisse; Malz; Stärke; Inulin; Kleber von Weizen</td><td>Herstellen, bei dem alle verwendeten Vormaterialien der Kapitel 8, 10 und 11, der Positionen 0701, 0714, 2302 und 2303 sowie der Unterposition 0710 10 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>Kapitel 12</td><td>Ölsamen und ölhaltige Früchte; verschiedene Samen und Früchte; Pflanzen zum Gewerbe- oder Heilgebrauch; Stroh und Futter</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>ex Kapitel 13</td><td>Schellack; Gummen, Harze und andere Pflanzensäfte und Pflanzenauszüge, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position</td></tr>
+<tr><td>ex 1302</td><td>Pektinstoffe, Pektinate und Pektate</td><td>Herstellen aus Vormaterialien jeder Position, bei dem das Gewicht des verwendeten Zuckers 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 14</td><td>Flechtstoffe und andere Waren pflanzlichen Ursprungs, anderweit weder genannt noch inbegriffen</td><td>Herstellen aus Vormaterialien jeder Position</td></tr>
+<tr><td>ex Kapitel 15</td><td>Tierische und pflanzliche Fette und Öle; Erzeugnisse ihrer Spaltung; geniessbare verarbeitete Fette; Wachse tierischen und pflanzlichen Ursprungs, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>1504 bis 1506</td><td>Fette und Öle sowie deren Fraktionen, von Fischen oder Meeressäugetieren; Wollfett und daraus stammende Fettstoffe, einschliesslich Lanolin; andere tierische Fette und Öle sowie deren Fraktionen, auch raffiniert, jedoch nicht chemisch modifiziert</td><td>Herstellen aus Vormaterialien jeder Position</td></tr>
+<tr><td>1508</td><td>Erdnussöl und seine Fraktionen, auch raffiniert, jedoch nicht chemisch modifiziert</td><td>Herstellen aus Vormaterialien jeder Unterposition, ausgenommen aus Vormaterialien derselben Unterposition wie das Erzeugnis</td></tr>
+<tr><td>1509 und 1510</td><td>Olivenöl und seine Fraktionen</td><td>Herstellen, bei dem alle verwendeten pflanzlichen Vormaterialien vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>1511</td><td>Palmöl und seine Fraktionen, auch raffiniert, jedoch nicht chemisch modifiziert</td><td>Herstellen aus Vormaterialien jeder Unterposition, ausgenommen aus Vormaterialien derselben Unterposition wie das Erzeugnis</td></tr>
+<tr><td>ex 1512</td><td>Sonnenblumenöl und seine Fraktionen</td><td></td></tr>
+<tr><td></td><td>– zu technischen oder industriellen Zwecken, ausgenommen zum Herstellen von Lebensmitteln</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis,</td></tr>
+<tr><td></td><td>– andere</td><td>Herstellen, bei dem alle verwendeten pflanzlichen Vormaterialien vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>1515</td><td>Andere pflanzliche Fette und fette Öle (einschliesslich Jojobaöl) sowie deren Fraktionen, auch raffiniert, jedoch nicht chemisch modifiziert</td><td>Herstellen aus Vormaterialien jeder Unterposition, ausgenommen aus Vormaterialien derselben Unterposition wie das Erzeugnis</td></tr>
+<tr><td>ex 1516</td><td>Fette und Öle sowie deren Fraktionen, von Fischen</td><td>Herstellen aus Vormaterialien jeder Position</td></tr>
+<tr><td>1520</td><td>Glycerin, roh; Glycerinwasser und Glycerinunterlaugen</td><td>Herstellen aus Vormaterialien jeder Position</td></tr>
+<tr><td>Kapitel 16</td><td>Zubereitungen von Fleisch, Fischen oder von Krebstieren, Weichtieren und anderen wirbellosen Wassertieren</td><td>Herstellen, bei dem alle verwendeten Vormaterialien der Kapitel 2, 3 und 16 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>ex Kapitel 17</td><td>Zucker und Zuckerwaren, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>1702</td><td>Andere Zucker, einschliesslich chemisch reine Lactose, Maltose, Glucose und Fructose, fest; Zuckersirupe, ohne Zusatz von Aroma- oder Farbstoffen; Invertzuckercreme, auch mit natürlichem Honig vermischt; Zucker und Melassen, karamellisiert:</td><td></td></tr>
+<tr><td></td><td>– chemische reine Maltose und Fructose</td><td>Herstellen aus Vormaterialien jeder Position, einschliesslich anderer Vormaterialien der Position 1702</td></tr>
+<tr><td></td><td>– andere</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem das Gewicht der verwendeten Vormaterialien der Positionen 1101 bis 1108, 1701 und 1703 30 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>1704</td><td>Zuckerwaren ohne Kakaogehalt (einschliesslich weisser Schokolade)</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem – das Gewicht des verwendeten Zuckers 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet oder – der Wert des verwendeten Zuckers 30 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 18</td><td>Kakao und Zubereitungen aus Kakao, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem das Gewicht des verwendeten Zuckers 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex 1806</td><td>Schokolade und andere kakaohaltige Lebensmittelzubereitungen, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem – das Gewicht des verwendeten Zuckers 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet oder – der Wert des verwendeten Zuckers 30 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>1806 10</td><td>Kakaopulver mit Zusatz von Zucker oder anderen Süssmitteln</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem das Gewicht des verwendeten Zuckers 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>1901</td><td>Malzextrakt; Lebensmittelzubereitungen aus Mehl, Grütze, Griess, Stärke oder Malzextrakt, ohne Gehalt an Kakao oder mit einem Gehalt an Kakao, berechnet als vollständig entfetteter Kakao, von weniger als 40 GHT, anderweit weder genannt noch inbegriffen; Lebensmittelzubereitungen aus Waren der Positionen 0401 bis 0404, ohne Gehalt an Kakao oder mit einem Gehalt an Kakao, berechnet als vollständig entfetteter Kakao, von weniger als 5 GHT, anderweit weder genannt noch inbegriffen:</td><td></td></tr>
+<tr><td></td><td>– Malzextrakt</td><td>Herstellen aus Getreide des Kapitels 10</td></tr>
+<tr><td></td><td>– andere</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem das Einzelgewicht des verwendeten Zuckers und der verwendeten Vormaterialien des Kapitels 4 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>1902</td><td>Teigwaren, auch gekocht oder gefüllt (mit Fleisch oder anderen Stoffen) oder in anderer Weise zubereitet, z. B. Spaghetti, Makkaroni, Nudeln, Lasagne, Gnocchi, Ravioli, Cannelloni; Couscous, auch zubereitet</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem – das Gewicht der verwendeten Vormaterialien der Positionen 1006 und 1101 bis 1108 20 v. H. des Gewichts des Enderzeugnisses nicht überschreitet und – das Gewicht der verwendeten Vormaterialien der Kapitel 2, 3 und 16 20 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>1903</td><td>Tapiokasago und Sago aus anderen Stärken, in Form von Flocken, Graupen, Perlen, Krümeln und dergleichen</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Kartoffelstärke der Position 1108</td></tr>
+<tr><td>1904</td><td>Lebensmittel, durch Aufblähen oder Rösten von Getreide oder Getreideerzeugnissen hergestellt (z. B. Cornflakes); Getreide (ausgenommen Mais) in Form von Körnern oder Flocken oder anders bearbeiteten Körnern, ausgenommen Mehl, Grobgriess und Feingriess, vorgekocht oder in anderer Weise zubereitet, anderweit weder genannt noch inbegriffen</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem – das Gewicht der verwendeten Vormaterialien der Positionen 1006 und 1101 bis 1108 20 v. H. des Gewichts des Enderzeugnisses nicht überschreitet und – das Gewicht des verwendeten Zuckers 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>1905</td><td>Backwaren, auch kakaohaltig; Hostien, leere Oblatenkapseln von der für Arzneiwaren verwendeten Art, Siegeloblaten, getrocknete Teigblätter aus Mehl oder Stärke und ähnliche Waren</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem das Gewicht der verwendeten Vormaterialien der Positionen 1006 und 1101 bis 1108 20 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 20</td><td>Zubereitungen von Gemüse, Früchten, Nüssen oder anderen Pflanzenteilen, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>2002 und 2003</td><td>Tomaten, Pilze und Trüffeln, anders als mit Essig oder Essigsäure zubereitet oder haltbar gemacht</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem alle verwendeten Vormaterialien des Kapitels 7 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>2006</td><td>Gemüse, Früchte, Nüsse, Fruchtschalen und andere Pflanzenteile, mit Zucker haltbar gemacht (durchtränkt und abgetropft, glasiert oder kandiert)</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem das Gewicht des verwendeten Zuckers 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>2007</td><td>Konfitüren, Fruchtgelees, Marmeladen, Fruchtmuse und Fruchtpasten, durch Kochen hergestellt, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem das Gewicht des verwendeten Zuckers 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex 2008</td><td>[tab] Andere Erzeugnisse als – Schalenfrüchte, ohne Zusatz von Zucker oder Alkohol – Erdnussbutter; Mischungen auf der Grundlage von Getreide; Palmherzen; Mais – Früchte, in anderer Weise als in Wasser oder Dampf gegart, ohne Zusatz von Zucker; gefroren</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem das Gewicht des verwendeten Zuckers 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>2009</td><td>Fruchtsäfte (einschliesslich Traubenmost) und Gemüsesäfte, nicht gegoren, ohne Zusatz von Alkohol, auch mit Zusatz von Zucker oder anderen Süssmitteln</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem das Gewicht des verwendeten Zuckers 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 21</td><td>Verschiedene Lebensmittelzubereitungen, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>2103</td><td>– Zubereitungen zum Herstellen von Würzsossen und zubereitete Würzsossen; zusammengesetzte Würzmittel</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch darf Senfmehl, auch zubereitet, oder Senf verwendet werden</td></tr>
+<tr><td></td><td>– Senfmehl, auch zubereitet, und Senf</td><td>Herstellen aus Vormaterialien jeder Position</td></tr>
+<tr><td>2105</td><td>Speiseeis, auch kakaohaltig</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem – das Einzelgewicht des verwendeten Zuckers und der verwendeten Vormaterialien des Kapitels 4 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet und – das Gesamtgewicht des verwendeten Zuckers und der verwendeten Vormaterialien des Kapitels 4 60 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>2106</td><td>Lebensmittelzubereitungen, anderweit weder genannt noch inbegriffen</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem das Gewicht des verwendeten Zuckers 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 22</td><td>Getränke, alkoholhaltige Flüssigkeiten und Essig, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem alle verwendeten Vormaterialien der Unterpositionen 0806 10, 2009 61 und 2009 69 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>2202</td><td>Wasser, einschliesslich Mineralwasser und kohlensäurehaltiges Wasser, mit Zusatz von Zucker, anderen Süssmitteln oder Aromastoffen, und andere nicht alkoholhaltige Getränke, ausgenommen Frucht- und Gemüsesäfte der Position 2009</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>2207 und 2208</td><td>Ethylalkohol mit einem Alkoholgehalt von mehr oder weniger als 80 % vol, unvergällt; Branntwein, Likör und andere alkoholhaltige Getränke</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien der Position 2207 oder 2208, bei dem alle verwendeten Vormaterialien der Unterpositionen 0806 10, 2009 61 und 2009 69 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>ex Kapitel 23</td><td>Rückstände und Abfälle der Lebensmittelindustrie; zubereitetes Futter, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>2309</td><td>Zubereitungen von der zur Fütterung verwendeten Art</td><td>[tab] Herstellen, bei dem – alle verwendeten Vormaterialien der Kapitel 2 und 3 vollständig gewonnen oder hergestellt sind, – das Gewicht der verwendeten Vormaterialien der Kapitel 10 und 11 und der Positionen 2302 und 2303 20 v. H. des Gewichts des Enderzeugnisses nicht überschreitet, – das Einzelgewicht des verwendeten Zuckers und der verwendeten Vormaterialien des Kapitels 4 40 v. H. des Gewichts des Enderzeugnisses nicht überschreitet und – das Gesamtgewicht des verwendeten Zuckers und der verwendeten Vormaterialien des Kapitels 4 50 v. H. des Gewichts des Enderzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 24</td><td>Tabak und verarbeitete Tabakersatzstoffe, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, bei dem das Gewicht der verwendeten Vormaterialien der Position 2401 30 v. H. des Gesamtgewichts der verwendeten Vormaterialien des Kapitels 24 nicht überschreitet</td></tr>
+<tr><td>2401</td><td>Tabak, unverarbeitet; Tabakabfälle</td><td>Herstellen, bei dem alle verwendeten Vormaterialien der Position 2401 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>ex 2402</td><td>Zigaretten, aus Tabak oder Tabakersatzstoffen</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis und aus Rauchtabak der Unterposition 2403 19, bei dem mindestens 10 GHT aller verwendeten Vormaterialien der Position 2401 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>ex 2403</td><td>Erzeugnisse zum Inhalieren durch Erhitzen oder durch andere Verfahren, ohne Verbrennung</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, bei dem mindestens 10 GHT aller verwendeten Vormaterialien der Position 2401 vollständig gewonnen oder hergestellt sind</td></tr>
+<tr><td>ex Kapitel 25</td><td>Salz; Schwefel; Steine und Erden; Gips, Kalk und Zement, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 70 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex 2519</td><td>Natürliches Magnesiumcarbonat (Magnesit), gebrochen, in luftdicht verschlossenen Behältnissen, und Magnesiumoxid, auch chemisch rein, ausgenommen geschmolzene Magnesia und totgebrannte (gesinterte) Magnesia</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch darf natürliches Magnesiumcarbonat (Magnesit) verwendet werden</td></tr>
+<tr><td>Kapitel 26</td><td>Erze sowie Schlacken und Aschen</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>ex Kapitel 27</td><td>Mineralische Brennstoffe, Mineralöle und Erzeugnisse ihrer Destillation; bituminöse Stoffe; Mineralwachse, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex 2707</td><td>Öle, in denen die aromatischen Bestandteile in Bezug auf das Gewicht gegenüber den nicht aromatischen Bestandteilen überwiegen und die ähnlich sind den Mineralölen und anderen Erzeugnissen der Destillation des Hochtemperatur-Steinkohlenteers, bei deren Destillation bis 250 °C mindestens 65 RHT übergehen (einschliesslich der Benzin-Benzol-Gemische), zur Verwendung als Kraft- oder Heizstoffe</td><td>Raffination und/oder ein oder mehrere begünstigte Verfahren(1) oder andere Verfahren, bei denen alle verwendeten Vormaterialien in eine andere Position als das Erzeugnis einzureihen sind. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>2710</td><td>Erdöl und Öl aus bituminösen Mineralien, ausgenommen rohe Öle; Zubereitungen mit einem Gehalt an Erdöl oder Öl aus bituminösen Mineralien von 70 GHT oder mehr, in denen diese Öle den Charakter der Waren bestimmen, anderweit weder genannt noch inbegriffen; Ölabfälle</td><td>Raffination und/oder ein oder mehrere begünstigte Verfahren(1) oder andere Verfahren, bei denen alle verwendeten Vormaterialien in eine andere Position als das Erzeugnis einzureihen sind. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>2711</td><td>Erdgas und andere gasförmige Kohlenwasserstoffe</td><td>Raffination und/oder ein oder mehrere begünstigte Verfahren(1) oder andere Verfahren, bei denen alle verwendeten Vormaterialien in eine andere Position als das Erzeugnis einzureihen sind. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>2712</td><td>Vaselin; Paraffin, mikrokristallines Erdölwachs, paraffinische Rückstände («slack wax»), Ozokerit, Montanwachs, Torfwachs, andere Mineralwachse und ähnliche durch Synthese oder andere Verfahren gewonnene Erzeugnisse, auch gefärbt</td><td>Raffination und/oder ein oder mehrere begünstigte Verfahren(1) oder andere Verfahren, bei denen alle verwendeten Vormaterialien in eine andere Position als das Erzeugnis einzureihen sind. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>2713</td><td>Petrolkoks, Bitumen aus Erdöl und andere Rückstände aus Erdöl oder Öl aus bituminösen Mineralien</td><td>Raffination und/oder ein oder mehrere begünstigte Verfahren(1) oder andere Verfahren, bei denen alle verwendeten Vormaterialien in eine andere Position als das Erzeugnis einzureihen sind. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 28</td><td>Anorganische chemische Erzeugnisse; anorganische oder organische Verbindungen von Edelmetallen, von Seltenerdmetallen, von radioaktiven Elementen oder von Isotopen</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 20 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 29</td><td>Organische chemische Erzeugnisse, ausgenommen:</td><td>Begünstigte Verfahren(4) oder Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 20 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex 2901</td><td>Acyclische Kohlenwasserstoffe, zur Verwendung als Kraft- oder Heizstoffe</td><td>Begünstigte Verfahren(4) oder Raffination und/oder ein oder mehrere begünstigte Verfahren(1) oder Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex 2902</td><td>Cyclane und Cyclene (ausgenommen Azulene), Benzol, Toluol, Xylole, zur Verwendung als Kraft- oder Heizstoffe</td><td>Begünstigte Verfahren(4) oder Raffination und/oder ein oder mehrere begünstigte Verfahren(1) oder Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex 2905</td><td>Metallalkoholate von Alkoholen dieser Position oder von Ethanol</td><td>Begünstigte Verfahren(4) oder Herstellen aus Vormaterialien jeder Position, einschliesslich aus anderen Vormaterialien der Position 2905. Jedoch dürfen Metallalkoholate dieser Position verwendet werden, wenn ihr Gesamtwert 20 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 30</td><td>Pharmazeutische Erzeugnisse</td><td>Begünstigte Verfahren(4) oder Herstellen aus Vormaterialien jeder Position</td></tr>
+<tr><td>Kapitel 31</td><td>Düngemittel</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 20 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 32</td><td>Gerb- und Farbstoffauszüge; Tannine und ihre Derivate; Farbstoffe, Pigmente und andere Farbmittel; Anstrichfarben und Lacke; Kitte; Tinten</td><td>Begünstigte Verfahren(4) oder Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 20 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 33</td><td>Ätherische Öle und Resinoide; zubereitete Riech-, Körperpflege- oder Schönheitsmittel</td><td>Begünstigte Verfahren(4) oder Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 20 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 34</td><td>Seifen, organische grenzflächenaktive Stoffe, zubereitete Waschmittel, zubereitete Schmiermittel, künstliche Wachse, zubereitete Wachse, Schuhcreme, Scheuerpulver und dergleichen, Kerzen und ähnliche Erzeugnisse, Modelliermassen, «Dentalwachs» und Zubereitungen für zahnärztliche Zwecke auf der Grundlage von Gips</td><td>Begünstigte Verfahren(4) oder Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 20 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 35</td><td>Eiweissstoffe; modifizierte Stärke; Klebstoffe; Enzyme</td><td>Begünstigte Verfahren(4) oder Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 20 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 40 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 36</td><td>Pulver und Sprengstoffe; pyrotechnische Artikel; Zündhölzer; Zündmetall-Legierungen; leicht entzündliche Stoffe</td><td>Begünstigte Verfahren(4) oder Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 20 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 37</td><td>Erzeugnisse zu fotografischen oder kinematografischen Zwecken</td><td>Begünstigte Verfahren(4) oder Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 20 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 38</td><td>Verschiedene Erzeugnisse der chemischen Industrie, ausgenommen:</td><td>Begünstigte Verfahren(4) oder Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Vormaterialien derselben Position wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 20 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex 3811</td><td>Zubereitete Antiklopfmittel, Antioxidantien, Antigums, Viskositätsverbesserer, Antikorrosivadditive und andere zubereitete Additive für Mineralöle (einschliesslich Kraftstoffe) oder für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten:</td><td>Begünstigte Verfahren(4) oder</td></tr>
+<tr><td></td><td>– zubereitete Additive für Schmieröle, Erdöl oder Öl aus bituminösen Mineralien enthaltend</td><td>Herstellen, bei dem der Wert aller verwendeten Vormaterialien der Position 3811 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex 3824 99 und ex 3826 00</td><td>Biodiesel</td><td>Herstellen, bei dem Biodiesel durch Umesterung und/oder Veresterung oder Wasserstoffbehandlung gewonnen wird</td></tr>
+<tr><td>Kapitel 39</td><td>Kunststoffe und Waren daraus</td><td>Begünstigte Verfahren(4) oder Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Vormaterialien derselben Unterposition wie das Erzeugnis verwendet werden, wenn ihr Gesamtwert 20 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 40</td><td>Kautschuk und Waren daraus, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex 4012</td><td>Luftreifen, Vollreifen oder Hohlkammerreifen, runderneuert, aus Kautschuk</td><td>Runderneuern von gebrauchten Reifen</td></tr>
+<tr><td>ex Kapitel 41</td><td>Häute, Felle (andere als Pelzfelle) und Leder, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis,</td></tr>
+<tr><td>4104 bis 4106</td><td>Gegerbte, auch getrocknete Häute und Felle, enthaart, auch gespalten, aber nicht zugerichtet</td><td>Nachgerben von vorgegerbtem Leder oder Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>Kapitel 42</td><td>Lederwaren; Sattlerwaren; Reiseartikel, Handtaschen und ähnliche Behältnisse; Waren aus Därmen</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 43</td><td>Pelzfelle und künstliches Pelzwerk; Waren daraus, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>ex 4302</td><td>Pelzfelle, gegerbt oder zugerichtet, zusammengesetzt:</td><td></td></tr>
+<tr><td></td><td>– in Platten, Kreuzen oder ähnlichen Formen</td><td>Bleichen oder Färben mit Zuschneiden und Zusammensetzen von nicht zusammengesetzten gegerbten oder zugerichteten Pelzfellen</td></tr>
+<tr><td></td><td>– andere</td><td>Herstellen aus nicht zusammengesetzten gegerbten oder zugerichteten Pelzfellen</td></tr>
+<tr><td>4303</td><td>Bekleidung, Bekleidungszubehör und andere Waren, aus Pelzfellen</td><td>Herstellen aus nicht zusammengesetzten gegerbten oder zugerichteten Pelzfellen der Position 4302</td></tr>
+<tr><td>ex Kapitel 44</td><td>Holz und Holzwaren; Holzkohle, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex 4407</td><td>Holz, in der Längsrichtung gesägt oder gesäumt, gemessert oder geschält, mit einer Dicke von mehr als 6 mm, gehobelt, geschliffen oder an den Enden verbunden</td><td>Hobeln, Schleifen oder an den Enden verbinden</td></tr>
+<tr><td>ex 4408</td><td>Furnierblätter (einschliesslich der durch Messern von Lagenholz gewonnenen Blätter) und Blätter für Sperrholz, mit einer Dicke von 6 mm oder weniger, an den Kanten verbunden, und anderes Holz, in der Längsrichtung gesägt, gemessert oder geschält, mit einer Dicke von 6 mm oder weniger, gehobelt, geschliffen oder an den Enden verbunden</td><td>Hobeln, Schleifen oder an den Enden verbinden</td></tr>
+<tr><td>ex 4410 bis ex 4413</td><td>Gefrieste oder profilierte Holzleisten und Holzfriese für Möbel, Rahmen, Innenausstattungen, elektrische Leitungen oder für ähnliche Zwecke</td><td>Friesen oder Profilieren</td></tr>
+<tr><td>ex 4415</td><td>Kisten, Kistchen, Verschläge, Trommeln und ähnliche Verpackungsmittel, aus Holz</td><td>Herstellen aus noch nicht auf die erforderlichen Masse zugeschnittenen Brettern</td></tr>
+<tr><td>ex 4418</td><td>– Bautischler- und Zimmermannsarbeiten, aus Holz</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Verbundplatten mit Hohlraum-Mittellagen und Schindeln («shingles» und «shakes») verwendet werden.</td></tr>
+<tr><td></td><td>– gefrieste oder profilierte Leisten und Friese</td><td>Friesen oder Profilieren</td></tr>
+<tr><td>ex 4421</td><td>Holz für Zündhölzer, vorgerichtet; Holznägel für Schuhe</td><td>Herstellen aus Holz jeder Position, ausgenommen aus Holzdraht der Position 4409</td></tr>
+<tr><td>Kapitel 45</td><td>Kork und Korkwaren</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 46</td><td>Flechtwaren; Korbmacherwaren</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 47</td><td>Halbstoffe aus Holz oder anderen cellulosehaltigen Faserstoffen; Papier oder Pappe (Abfälle und Ausschuss) zur Wiedergewinnung</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 48</td><td>Papier und Pappe; Waren aus Papierhalbstoff, Papier oder Pappe</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 49</td><td>Bücher, Zeitungen, Bilddrucke und andere Erzeugnisse des grafischen Gewerbes; hand- oder maschinengeschriebene Schriftstücke und Pläne</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis; oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 50</td><td>Seide, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>ex 5003</td><td>Abfälle von Seide (einschliesslich nicht abhaspelbare Kokons, Garnabfälle und Reissspinnstoff), gekrempelt oder gekämmt</td><td>Krempeln oder Kämmen von Abfällen von Seide</td></tr>
+<tr><td>5004 bis ex 5006</td><td>Seidengarne, Schappeseidengarne oder Bouretteseidengarne</td><td>(2) Spinnen von natürlichen Fasern oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Spinnen oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Zwirnen oder Zwirnen mit einem anderen mechanischen Vorgang</td></tr>
+<tr><td>5007</td><td>Gewebe aus Seide, Schappeseide oder Bourretteseide</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern, mit Weben oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Weben oder Zwirnen oder ein anderer mechanischer Vorgang, mit Weben oder Weben mit Färben oder Färben von Garnen, mit Weben oder Weben mit Bedrucken oder Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td>ex Kapitel 51</td><td>Wolle, feine und grobe Tierhaare; Garne und Gewebe aus Rosshaar, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>5106 bis 5110</td><td>Garne aus Wolle, feinen oder groben Tierhaaren oder Rosshaar</td><td>(2) Spinnen von natürlichen Fasern oder Extrudieren von Chemiefasern, mit Spinnen oder Zwirnen mit einem anderen mechanischen Vorgang</td></tr>
+<tr><td>5111 bis 5113</td><td>Gewebe aus Wolle, feinen oder groben Tierhaaren oder Rosshaar</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern, mit Weben oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Weben oder Weben mit Färben oder Färben von Garnen, mit Weben oder Weben mit Bedrucken oder Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td>ex Kapitel 52</td><td>Baumwolle, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>5204 bis 5207</td><td>Nähgarne und andere Garne aus Baumwolle</td><td>(2) Spinnen von natürlichen Fasern oder Extrudieren von Chemiefasern, mit Spinnen oder Zwirnen mit einem anderen mechanischen Vorgang</td></tr>
+<tr><td>5208 bis 5212</td><td>Gewebe aus Baumwolle</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern, mit Weben oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Weben oder Zwirnen oder ein anderer mechanischer Vorgang, mit Weben oder Weben mit Färben oder Bestreichen oder mit Lagen Versehen oder Färben von Garnen, mit Weben oder Weben mit Bedrucken oder Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td>ex Kapitel 53</td><td>Andere pflanzliche Spinnstoffe; Papiergarne und Gewebe aus Papiergarnen, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>5306 bis 5308</td><td>Garne aus anderen pflanzlichen Spinnstoffen; Papiergarne</td><td>(2) Spinnen von natürlichen Fasern oder Extrudieren von Chemiefasern, mit Spinnen oder Zwirnen mit einem anderen mechanischen Vorgang</td></tr>
+<tr><td>5309 bis 5311</td><td>Gewebe aus anderen pflanzlichen Spinnstoffen; Gewebe aus Papiergarnen:</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern, mit Weben oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Weben oder Weben mit Färben oder Bestreichen oder mit Lagen Versehen oder Färben von Garnen, mit Weben oder Weben mit Bedrucken oder Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td>5401 bis 5406</td><td>Garne, Monofile und Nähgarne aus synthetischen oder künstlichen Filamenten</td><td>(2) Spinnen von natürlichen Fasern oder Extrudieren von Chemiefasern, mit Spinnen oder Zwirnen mit einem anderen mechanischen Vorgang</td></tr>
+<tr><td>5407 und 5408</td><td>Gewebe aus Garnen aus synthetischen oder künstlichen Filamenten</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern, mit Weben oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Weben oder Zwirnen oder ein anderer mechanischer Vorgang, mit Weben oder Färben von Garnen, mit Weben oder Weben mit Färben oder Bestreichen oder mit Lagen Versehen oder Weben mit Bedrucken oder Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td>5501 bis 5507</td><td>Synthetische oder künstliche Spinnfasern</td><td>Extrudieren von Chemiefasern</td></tr>
+<tr><td>5508 bis 5511</td><td>Garne und Nähgarne aus synthetischen oder künstlichen Spinnfasern</td><td>(2) Spinnen von natürlichen Fasern oder Extrudieren von Chemiefasern, mit Spinnen oder Zwirnen mit einem anderen mechanischen Vorgang</td></tr>
+<tr><td>5512 bis 5516</td><td>Gewebe aus synthetischen oder künstlichen Spinnfasern:</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern, mit Weben oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Weben oder Zwirnen oder ein anderer mechanischer Vorgang, mit Weben oder Weben mit Färben oder Bestreichen oder mit Lagen Versehen oder Färben von Garnen, mit Weben oder Weben mit Bedrucken oder Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td>ex Kapitel 56</td><td>Watte, Filze und Vliesstoffe; Spezialgarne; Bindfäden, Seile und Taue; Seilerwaren, ausgenommen:</td><td>(2) Spinnen von natürlichen Fasern oder Extrudieren von Chemiefasern, mit Spinnen</td></tr>
+<tr><td>5601</td><td>Watte aus Spinnstoffen und Waren daraus; Spinnfasern mit einer Breite von 5 mm oder weniger (Scherstaub), Knoten und Noppen, aus Spinnstoffen</td><td>Spinnen von natürlichen Fasern oder Extrudieren von Chemiefasern, mit Spinnen oder Beflocken mit Färben oder Bedrucken oder Bestreichen, Beflocken, mit Lagen Versehen oder Metall Aufdampfen, mit mindestens zwei weiteren wichtigen Vor- oder Nachbehandlungen (wie Kalandrieren oder krumpfecht Ausrüsten, Thermofixieren, Fixieren), sofern der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>5602</td><td>Filze, auch getränkt, bestrichen, überzogen oder mit Lagen versehen:</td><td></td></tr>
+<tr><td></td><td>– Nadelfilze</td><td>(2) Extrudieren von Chemiefasern, mit Gewebebildung Jedoch dürfen – Monofile aus Polypropylen der Position 5402, – Spinnfasern aus Polypropylen der Position 5503 oder 5506 oder – Spinnkabel aus Filamenten aus Polypropylen der Position 5501, bei denen jeweils eine Faser oder ein Filament einen Titer von weniger als 9 dtex aufweist, verwendet werden, wenn ihr Gesamtwert 40 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Bei Filz aus natürlichen Fasern ausschliesslich Bilden vliesartiger Gewebe</td></tr>
+<tr><td></td><td>– andere</td><td>(2) Extrudieren von Chemiefasern, mit Gewebebildung oder Bei anderen Filzen aus natürlichen Fasern ausschliesslich Bilden vliesartiger Gewebe</td></tr>
+<tr><td>5603</td><td>Vliesstoffe, auch getränkt, bestrichen, überzogen oder mit Lagen versehen</td><td></td></tr>
+<tr><td>5603 11 bis 5603 14</td><td>Vliesstoffe, auch getränkt, bestrichen, überzogen oder mit Lagen versehen, aus synthetischen oder künstlichen Filamenten</td><td>Herstellen aus – gerichteten oder zufällig angeordneten Filamenten oder – Substanzen oder Polymeren natürlichen, synthetischen oder künstlichen Ursprungs, in beiden Fällen mit Verarbeiten zu nicht gewebten Erzeugnissen</td></tr>
+<tr><td>5603 91 bis 5603 94</td><td>Vliesstoffe, auch getränkt, bestrichen, überzogen oder mit Lagen versehen, nicht aus synthetischen oder künstlichen Filamenten</td><td>Herstellen aus – gerichteten oder zufällig angeordneten Spinnfasern [tab] und/oder – Schnittfasern natürlichen, synthetischen oder künstlichen Ursprungs, in beiden Fällen mit Verarbeiten zu nicht gewebten Erzeugnissen</td></tr>
+<tr><td>5604</td><td>Fäden und Kordeln aus Kautschuk, mit einem Überzug aus Spinnstoffen; Streifen und dergleichen der Position 5404 oder 5405, Garne aus Spinnstoffen, mit Kautschuk oder Kunststoff getränkt, bestrichen, überzogen oder umhüllt:</td><td></td></tr>
+<tr><td></td><td>Kautschukfäden und -kordeln, mit einem Überzug aus Spinnstoffen</td><td>Herstellen aus Kautschukfäden und -kordeln, nicht mit einem Überzug aus Spinnstoffen</td></tr>
+<tr><td></td><td>- andere</td><td>(2) Spinnen von natürlichen Fasern oder Extrudieren von Chemiefasern, mit Spinnen oder Zwirnen mit einem anderen mechanischen Vorgang</td></tr>
+<tr><td>5605</td><td>Metallgarne und metallisierte Garne, auch umsponnen, bestehend aus Streifen und dergleichen der Position 5404 oder 5405 oder aus Garnen aus Spinnstoffen, in Verbindung mit Metall in Form von Fäden, Streifen oder Pulver oder mit Metall überzogen</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern oder Extrudieren von Chemiefasern, mit Spinnen oder Zwirnen mit einem anderen mechanischen Vorgang</td></tr>
+<tr><td>5606</td><td>Gimpen, umsponnene Streifen und dergleichen der Position 5404 oder 5405 (ausgenommen Waren der Position 5605 und umsponnene Garne aus Rosshaar); Chenillegarne; «Maschengarne»</td><td>(2) Extrudieren von Chemiefasern, mit Spinnen oder Zwirnen mit Gimpen oder Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern oder Beflocken mit Färben</td></tr>
+<tr><td>Kapitel 57</td><td>Teppiche und andere Fussbodenbeläge, aus Spinnstoffen:</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern, mit Weben oder Tuften oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Weben oder Tuften oder Herstellen aus Kokos-, Sisal- oder Jutegarnen oder klassischem Ringgarn aus Viskose oder Tuften mit Färben oder mit Bedrucken oder Beflocken mit Färben oder mit Bedrucken oder Extrudieren von Chemiefasern mit Techniken zur Vliesbildung, einschliesslich Nadeln Jutegewebe kann als Teppichgrund verwendet werden</td></tr>
+<tr><td>ex Kapitel 58</td><td>Spezialgewebe; getuftete Spinnstofferzeugnisse; Spitzen; Tapisserien; Posamentierwaren; Stickereien, ausgenommen:</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern, mit Weben oder Tuften oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Weben oder Tuften oder Weben mit Färben oder Beflocken oder Bestreichen oder mit Lagen Versehen oder Metall Aufdampfen oder Tuften mit Färben oder mit Bedrucken oder Beflocken mit Färben oder mit Bedrucken oder Färben von Garnen, mit Weben oder Weben mit Bedrucken oder Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td>5805</td><td>Tapisserien, handgewebt (Gobelins, Flandrische Gobelins, Aubusson, Beauvais und ähnliche), und Tapisserien als Nadelarbeit (z. B. Petit Point, Kreuzstich), auch konfektioniert</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>5810</td><td>Stickereien als Meterware, Streifen oder als Motive</td><td>Besticken, bei dem der Wert aller verwendeten Vormaterialien jeder Position, ausgenommen des Werts derselben Position wie das Erzeugnis, 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>5901</td><td>Gewebe, mit Leim oder stärkehaltigen Stoffen bestrichen, von der zum Einbinden von Büchern, zum Herstellen von Futteralen, Kartonagen oder zu ähnlichen Zwecken verwendeten Art; Pausleinwand; präparierte Malleinwand; Bougram und ähnliche Erzeugnisse für die Hutmacherei</td><td>Weben mit Färben oder Beflocken oder Bestreichen oder mit Lagen Versehen oder Metall Aufdampfen oder Beflocken mit Färben oder mit Bedrucken</td></tr>
+<tr><td>5902</td><td>Reifencordgewebe aus hochfesten Garnen aus Nylon oder anderen Polyamiden, Polyestern oder Viskose:</td><td></td></tr>
+<tr><td></td><td>– mit einem Anteil an textilen Vormaterialien von nicht mehr als 90 GHT</td><td>Weben</td></tr>
+<tr><td></td><td>– andere</td><td>Extrudieren von Chemiefasern, mit Weben</td></tr>
+<tr><td>5903</td><td>Gewebe, mit Kunststoff getränkt, bestrichen, überzogen oder mit Lagen aus Kunststoff versehen, andere als solche der Position 5902</td><td>Weben mit Tränken oder Bestreichen oder Überziehen oder mit Lagen Versehen oder Metall Aufdampfen oder Weben mit Bedrucken oder Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td>5904</td><td>Linoleum, auch zugeschnitten; Bodenbeläge, bestehend aus einer Spinnstoffunterlage mit einer Deckschicht oder einem Überzug, auch zugeschnitten</td><td>(2) Weben mit Färben oder Bestreichen oder mit Lagen Versehen oder Metall Aufdampfen Jutegewebe kann als Teppichgrund verwendet werden</td></tr>
+<tr><td>5905</td><td>Wandverkleidungen aus Spinnstoffen: – mit Kunststoff getränkt, bestrichen, überzogen oder mit Lagen aus Kautschuk, Kunststoff oder anderem Material versehen</td><td>Weben, Stricken oder Bilden vliesartiger Gewebe mit Tränken oder Bestreichen oder Überziehen oder mit Lagen Versehen oder Metall Aufdampfen</td></tr>
+<tr><td></td><td>– andere</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern, mit Weben oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Weben oder Weben, Stricken oder Bilden vliesartiger Gewebe mit Färben oder Bestreichen oder mit Lagen Versehen oder Weben mit Bedrucken oder Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td>5906</td><td>Kautschutierte Gewebe, andere als solche der Position 5902: – Gewirke und Gestricke</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern, mit Wirken/Stricken oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Wirken/Stricken oder Wirken oder Stricken, mit Kautschutieren oder Kautschutieren, mit mindestens zwei weiteren wichtigen Vor- oder Nachbehandlungen (wie Kalandrieren oder krumpfecht Ausrüsten, Thermofixieren, Fixieren), sofern der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td></td><td>– andere Gewebe aus synthetischem Filamentgarn, mit einem Anteil an textilen Vormaterialien von mehr als 90 GHT</td><td>Extrudieren von Chemiefasern, mit Weben</td></tr>
+<tr><td></td><td>– andere</td><td>Weben, Stricken oder Verfahren zur Vliesbildung, mit Färben oder Bestreichen/Kautschutieren oder Färben von Garnen mit Weben, Stricken oder Verfahren zur Vliesbildung oder Kautschutieren, mit mindestens zwei weiteren wichtigen Vor- oder Nachbehandlungen (wie Kalandrieren oder krumpfecht Ausrüsten, Thermofixieren, Fixieren), sofern der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>5907</td><td>Andere Gewebe, getränkt, bestrichen oder überzogen; bemalte Gewebe für Theaterdekorationen, Atelierhintergründe oder dergleichen</td><td>Weben, Stricken oder Bilden vliesartiger Gewebe mit Färben oder Bedrucken oder Bestreichen oder Tränken oder Überziehen oder Beflocken mit Färben oder mit Bedrucken oder Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td>5908</td><td>Dochte, gewebt, geflochten, gewirkt oder gestrickt, aus Spinnstoffen, für Lampen, Kocher, Feuerzeuge, Kerzen oder dergleichen; Glühstrümpfe und schlauchförmige Gewirke oder Gestricke für Glühstrümpfe, auch getränkt:</td><td></td></tr>
+<tr><td></td><td>– Glühstrümpfe, getränkt</td><td>Herstellen aus schlauchförmigen Gewirken für Glühstrümpfe</td></tr>
+<tr><td></td><td>– andere</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis,</td></tr>
+<tr><td>5909 bis 5911</td><td>Waren des technischen Bedarfs aus Spinnstoffen:</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern, mit Weben oder Extrudieren von Chemiefasern, mit Weben oder Weben mit Färben oder Bestreichen oder mit Lagen Versehen oder Bestreichen, Beflocken, mit Lagen Versehen oder Metall Aufdampfen, mit mindestens zwei weiteren wichtigen Vor- oder Nachbehandlungen (wie Kalandrieren oder krumpfecht Ausrüsten, Thermofixieren, Fixieren), sofern der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 60</td><td>Gewirke und Gestricke</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern, mit Wirken/Stricken oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Wirken/Stricken oder Wirken/Stricken mit Färben oder Beflocken oder Bestreichen oder mit Lagen Versehen oder Bedrucken oder Beflocken mit Färben oder mit Bedrucken oder Färben von Garnen, mit Wirken/Stricken oder Zwirnen oder Texturieren mit Wirken/Stricken, wenn der Wert der verwendeten nicht gezwirnten/nicht texturierten Garne 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 61</td><td>Bekleidung und Bekleidungszubehör, aus Gewirken oder Gestricken:</td><td></td></tr>
+<tr><td></td><td>- hergestellt durch Zusammennähen oder sonstiges Zusammenfügen von zwei oder mehr zugeschnittenen oder abgepassten gewirkten oder gestrickten Teilen</td><td>(2)(3) Wirken oder Stricken mit Konfektionieren (einschliesslich Zuschneiden)</td></tr>
+<tr><td></td><td>– andere</td><td>(2) Spinnen von natürlichen und/oder synthetischen oder künstlichen Spinnfasern, mit Wirken oder Stricken oder Extrudieren von Garnen aus synthetischen oder künstlichen Filamenten, mit Wirken oder Stricken oder Stricken und Konfektionieren in einem Arbeitsgang</td></tr>
+<tr><td>ex Kapitel 62</td><td>Bekleidung und Bekleidungszubehör, ausgenommen aus Gewirken oder Gestricken, ausgenommen:</td><td>(2)(3) Weben mit Konfektionieren (einschliesslich Zuschneiden) oder Konfektionieren (einschliesslich Zuschneiden) nach Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td>ex 6202, ex 6204, ex 6206, ex 6209 und ex 6211</td><td>Bekleidung für Frauen, Mädchen oder Kleinkinder, bestickt; anderes konfektioniertes Bekleidungszubehör für Kleinkinder, bestickt</td><td>(3) Weben mit Konfektionieren (einschliesslich Zuschneiden) oder Herstellen aus nicht bestickten Geweben, wenn der Wert der verwendeten nicht bestickten Gewebe 40 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex 6210 und ex 6216</td><td>Feuerschutzausrüstung aus Geweben, mit einer Folie aus aluminisiertem Polyester überzogen</td><td>(2)(3) Weben mit Konfektionieren (einschliesslich Zuschneiden) oder Bestreichen oder mit Lagen Versehen, wenn der Wert der verwendeten nicht bestrichenen oder mit Lagen versehenen Gewebe 40 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet, mit Konfektionieren (einschliesslich Zuschneiden)</td></tr>
+<tr><td>ex 6212</td><td>Büstenhalter, Hüftgürtel, Korsette, Hosenträger, Strumpfhalter, Strumpfbänder und ähnliche Waren, Teile davon, auch aus Gewirken oder Gestricken, hergestellt durch Zusammennähen oder sonstiges Zusammenfügen von zwei oder mehr zugeschnittenen oder abgepassten gewirkten oder gestrickten Teilen</td><td>(2)(3) Stricken mit Konfektionieren (einschliesslich Zuschneiden) oder Konfektionieren (einschliesslich Zuschneiden) nach Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td>6213 und 6214</td><td>Taschentücher, Ziertaschentücher, Schals, Umschlagtücher, Halstücher, Kragenschoner, Kopftücher, Schleier und ähnliche Waren:</td><td></td></tr>
+<tr><td></td><td>– bestickt</td><td>(2)(3) Weben mit Konfektionieren (einschliesslich Zuschneiden) oder Herstellen aus nicht bestickten Geweben, wenn der Wert der verwendeten nicht bestickten Gewebe 40 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Konfektionieren (einschliesslich Zuschneiden) nach Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td></td><td>– andere</td><td>(2)(3) Weben mit Konfektionieren (einschliesslich Zuschneiden) oder Konfektionieren nach Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td>6217</td><td>Anderes konfektioniertes Bekleidungszubehör; Teile von Bekleidung oder von Bekleidungszubehör, ausgenommen solche der Position 6212:</td><td></td></tr>
+<tr><td></td><td>– bestickt</td><td>(3) Weben mit Konfektionieren (einschliesslich Zuschneiden) oder Herstellen aus nicht bestickten Geweben, wenn der Wert der verwendeten nicht bestickten Gewebe 40 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Konfektionieren nach Bedrucken (als eigenständige Behandlung)</td></tr>
+<tr><td></td><td>– Feuerschutzausrüstung aus Geweben, mit einer Folie aus aluminisiertem Polyester überzogen</td><td>(3) Weben mit Konfektionieren (einschliesslich Zuschneiden) oder Bestreichen oder mit Lagen Versehen, wenn der Wert der verwendeten nicht bestrichenen oder mit Lagen versehenen Gewebe 40 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet, mit Konfektionieren (einschliesslich Zuschneiden)</td></tr>
+<tr><td></td><td>– Einlagen für Kragen und Manschetten, zugeschnitten</td><td>Herstellen – aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, und – bei dem der Wert aller verwendeten Vormaterialien 40 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td></td><td>– andere</td><td>(3) Weben mit Konfektionieren (einschliesslich Zuschneiden)</td></tr>
+<tr><td>ex Kapitel 63</td><td>Andere konfektionierte Spinnstoffwaren; Warenzusammenstellungen; Altwaren und Lumpen, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>6301 bis 6304</td><td>Decken, Bettwäsche usw.; Gardinen usw.; andere Waren zur Innenausstattung:</td><td></td></tr>
+<tr><td></td><td>– aus Filz oder Vliesstoffen</td><td>(<sup>2</sup>) Bilden vliesartiger Gewebe mit Konfektionieren (einschliesslich Zuschneiden)</td></tr>
+<tr><td></td><td>– andere</td><td></td></tr>
+<tr><td></td><td>– bestickt</td><td>(2)(3) Weben oder Wirken/Stricken mit Konfektionieren (einschliesslich Zuschneiden) oder Herstellen aus nicht bestickten Geweben (andere als gewirkte oder gestrickte), wenn der Wert der verwendeten nicht bestickten Gewebe 40 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td></td><td>[tab] -- andere</td><td>(2)(3) Weben oder Wirken/Stricken mit Konfektionieren (einschliesslich Zuschneiden)</td></tr>
+<tr><td>6305</td><td>Säcke und Beutel zu Verpackungszwecken</td><td>(2) Extrudieren von Chemiefasern oder Spinnen von natürlichen und/oder synthetischen oder künstlichen Fasern, mit Weben oder Stricken und Konfektionieren (einschliesslich Zuschneiden)</td></tr>
+<tr><td>6306</td><td>Planen und Markisen; Zelte; Segel für Wasserfahrzeuge, für Surfbretter und für Landfahrzeuge; Campingausrüstungen:</td><td></td></tr>
+<tr><td></td><td>– aus Vliesstoffen</td><td>(2)(3) Bilden vliesartiger Gewebe mit Konfektionieren (einschliesslich Zuschneiden)</td></tr>
+<tr><td></td><td>– andere</td><td>(2)(3) Weben mit Konfektionieren (einschliesslich Zuschneiden)</td></tr>
+<tr><td>6307</td><td>Andere konfektionierte Waren, einschliesslich Schnittmuster zum Herstellen von Bekleidung</td><td>Herstellen, bei dem der Wert aller verwendeten Vormaterialien 40 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>6308</td><td>Warenzusammenstellungen, aus Geweben und Garn, auch mit Zubehör, für die Herstellung von Teppichen, Tapisserien, bestickten Tischdecken oder Servietten oder ähnlichen Spinnstoffwaren, in Aufmachungen für den Einzelverkauf</td><td>Jede Ware in der Warenzusammenstellung muss die Regel erfüllen, die anzuwenden wäre, wenn sie nicht in der Warenzusammenstellung enthalten wäre. Jedoch dürfen Waren ohne Ursprungseigenschaft verwendet werden, wenn ihr Gesamtwert 15 v. H. des Ab-Werk-Preises der Warenzusammenstellung nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 64</td><td>Schuhe, Gamaschen und ähnliche Waren; Teile davon, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Zusammensetzungen aus Schuhoberteilen, die mit einer Brandsohle oder anderen Bodenteilen verbunden sind, der Position 6406</td></tr>
+<tr><td>6406</td><td>Schuhteile (einschliesslich Schuhoberteile, auch an Sohlen befestigt, nicht jedoch an Laufsohlen); Einlegesohlen, Fersenstücke und ähnliche herausnehmbare Waren; Gamaschen und ähnliche Waren sowie Teile davon</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>Kapitel 65</td><td>Kopfbedeckungen und Teile davon</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>Kapitel 66</td><td>Regenschirme, Sonnenschirme, Gehstöcke, Sitzstöcke, Peitschen, Reitpeitschen und Teile davon</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 67</td><td>Zugerichtete Federn und Daunen und Waren aus Federn oder Daunen; künstliche Blumen; Waren aus Menschenhaaren</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 68</td><td>Waren aus Steinen, Gips, Zement, Asbest, Glimmer oder ähnlichen Stoffen</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 70 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 69</td><td>Keramische Waren</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>ex Kapitel 70</td><td>Glas und Glaswaren</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>7010</td><td>Flaschen, Glasballons, Korbflaschen, Flakons, Krüge, Töpfe, Röhrchen, Ampullen und andere Behältnisse aus Glas, zu Transport- oder Verpackungszwecken; Konservengläser; Stopfen, Deckel und andere Verschlüsse aus Glas</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis oder Schleifen von Glaswaren, wenn der Gesamtwert der verwendeten nicht geschliffenen Glaswaren 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>7013</td><td>Glaswaren zur Verwendung bei Tisch, in der Küche, bei der Toilette, im Büro, zur Innenausstattung oder zu ähnlichen Zwecken (ausgenommen Waren der Position 7010 oder 7018)</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>ex Kapitel 71</td><td>Echte Perlen oder Zuchtperlen, Edelsteine oder Schmucksteine, Edelmetalle, Edelmetallplattierungen und Waren daraus; Fantasieschmuck; Münzen, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 70 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex 7102, ex 7103 und ex 7104</td><td>Edelsteine und Schmucksteine (natürliche, synthetische oder rekonstituierte), bearbeitet</td><td>Herstellen aus Vormaterialien jeder Unterposition, ausgenommen aus Vormaterialien derselben Unterposition wie das Erzeugnis</td></tr>
+<tr><td>7106, 7108 und 7110</td><td>Edelmetalle:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien der Position 7106, 7108 und 7110, oder elektrolytisches, thermisches oder chemisches Trennen von Edelmetallen der Position 7106, 7108 oder 7110 oder Legieren von Edelmetallen der Position 7106, 7108 oder 7110 untereinander oder mit unedlen Metallen oder Reinigen</td></tr>
+<tr><td></td><td>– in Rohform</td><td></td></tr>
+<tr><td></td><td>– als Halbzeug oder Pulver</td><td>Herstellen aus Edelmetallen in Rohform</td></tr>
+<tr><td>ex 7107, ex 7109 und ex 7111</td><td>Metalle, mit Edelmetallen plattiert, als Halbzeug</td><td>Herstellen aus mit Edelmetallen plattierten Metallen, in Rohform</td></tr>
+<tr><td>ex Kapitel 72</td><td>Eisen und Stahl, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>7207</td><td>Halbzeug aus Eisen oder nichtlegiertem Stahl</td><td>Herstellen aus Vormaterialien der Position 7201, 7202, 7203, 7204 oder 7205</td></tr>
+<tr><td>7208 bis 7212</td><td>Flachgewalzte Erzeugnisse aus Eisen oder nichtlegiertem Stahl</td><td>Herstellen aus Halbzeug der Position 7207</td></tr>
+<tr><td>7213 bis 7216</td><td>Flachgewalzte Erzeugnisse, Walzdraht, Stabstahl und Profile aus Eisen oder nichtlegiertem Stahl</td><td>Herstellen aus Rohblöcken (Ingots) oder anderen Rohformen der Position 7206</td></tr>
+<tr><td>7217</td><td>Draht aus Eisen oder nichtlegiertem Stahl</td><td>Herstellen aus Halbzeug der Position 7207</td></tr>
+<tr><td>7218 91 und 7218 99</td><td>Halbzeug</td><td>Herstellen aus Vormaterialien der Position 7201, 7202, 7203, 7204 oder 7205</td></tr>
+<tr><td>7219 bis 7222</td><td>Flachgewalzte Erzeugnisse, Walzdraht, Stabstahl und Profile aus nicht rostendem Stahl</td><td>Herstellen aus Rohblöcken (Ingots) oder anderen Rohformen der Position 7218</td></tr>
+<tr><td>7223</td><td>Draht aus nicht rostendem Stahl</td><td>Herstellen aus Halbzeug der Position 7218</td></tr>
+<tr><td>7224 90</td><td>Halbzeug</td><td>Herstellen aus Vormaterialien der Position 7201, 7202, 7203, 7204 oder 7205</td></tr>
+<tr><td>7225 bis 7228</td><td>Flachgewalzte Erzeugnisse, Walzdraht und Stabstahl, warmgewalzt, in Ringen regellos aufgehaspelt; Profile, aus anderem legierten Stahl; Hohlbohrerstäbe aus legiertem oder nichtlegiertem Stahl</td><td>Herstellen aus Stahl in Rohblöcken (Ingots) oder anderen Rohformen der Position 7206, 7218 oder 7224</td></tr>
+<tr><td>7229</td><td>Draht aus anderem legiertem Stahl</td><td>Herstellen aus Halbzeug der Position 7224</td></tr>
+<tr><td>ex Kapitel 73</td><td>Waren aus Eisen oder Stahl, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>ex 7301</td><td>Spundwanderzeugnisse</td><td>Herstellen aus Vormaterialien der Position 7207</td></tr>
+<tr><td>7302</td><td>Oberbaumaterial für Bahnen, aus Eisen oder Stahl, wie Schienen, Leitschienen und Zahnstangen, Weichenzungen, Herzstücke, Zungenverbindungsstangen und anderes Material für Kreuzungen oder Weichen, Bahnschwellen, Laschen, Schienenstühle, Winkel, Unterlagsplatten, Klemmplatten, Spurplatten und Spurstangen, und anderes für das Verlegen, Zusammenfügen oder Befestigen von Schienen besonders hergerichtetes Material</td><td>Herstellen aus Vormaterialien der Position 7206</td></tr>
+<tr><td>7304, 7305 und 7306</td><td>Rohre und Hohlprofile, aus Eisen oder Stahl</td><td>Herstellen aus Vormaterialien der Positionen 7206 bis 7212 und 7218 oder 7224</td></tr>
+<tr><td>ex 7307</td><td>Rohrformstücke, Rohrverschlussstücke und Rohrverbindungsstücke aus nicht rostendem Stahl (ISO Nr. X5CrNiMo 1712), aus mehreren Teilen bestehend</td><td>Drehen, Bohren, Aufreiben, Gewindeschneiden, Entgraten und Sandstrahlen von Schmiederohlingen, deren Gesamtwert 35 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>7308</td><td>Konstruktionen und Konstruktionsteile (z. B. Brücken und Brückenelemente, Schleusentore, Türme, Gittermaste, Pfeiler, Säulen, Gerüste, Dächer, Dachstühle, Tore, Türen, Fenster, und deren Rahmen und Verkleidungen, Tor- und Türschwellen, Tür- und Fensterläden, Geländer), aus Eisen oder Stahl, ausgenommen vorgefertigte Gebäude der Position 9406; zu Konstruktionszwecken vorgearbeitete Bleche, Stäbe, Profile, Rohre und dergleichen, aus Eisen oder Stahl</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen durch Schweissen hergestellte Profile der Position 7301 nicht verwendet werden</td></tr>
+<tr><td>ex 7315</td><td>Gleitschutzketten</td><td>Herstellen, bei dem der Wert aller verwendeten Vormaterialien der Position 7315 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 74</td><td>Kupfer und Waren daraus, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>7403</td><td>Raffiniertes Kupfer und Kupferlegierungen, in Rohform</td><td>Herstellen aus Vormaterialien jeder Position</td></tr>
+<tr><td>7408</td><td>Draht aus Kupfer</td><td>Herstellen – aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, und – bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 75</td><td>Nickel und Waren daraus</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>ex Kapitel 76</td><td>Aluminium und Waren daraus, ausgenommen:</td><td>Herstellen – aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, und – bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>7601</td><td>Aluminium in Rohform</td><td>Herstellen – aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, und – bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet oder Herstellen durch thermische oder elektrolytische Behandlung von nichtlegiertem Aluminium oder Abfällen und Schrott, aus Aluminium</td></tr>
+<tr><td>7602</td><td>Abfälle und Schrott, aus Aluminium</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>ex 7616</td><td>Andere Waren aus Aluminium, ausgenommen Gewebe, Gitter und Geflechte aus Aluminiumdraht, und Streckbleche aus Aluminium</td><td>Herstellen – aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis. Jedoch dürfen Gewebe, Gitter und Geflechte aus Aluminiumdraht oder Streckbleche aus Aluminium verwendet werden, und – bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 78</td><td>Blei und Waren daraus</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>Kapitel 79</td><td>Zink und Waren daraus</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>Kapitel 80</td><td>Zinn und Waren daraus</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis</td></tr>
+<tr><td>Kapitel 81</td><td>Andere unedle Metalle; Cermets; Waren daraus</td><td>Herstellen aus Vormaterialien jeder Position</td></tr>
+<tr><td>ex Kapitel 82</td><td>Werkzeuge, Schneidwaren und Essbestecke, aus unedlen Metallen; Teile davon, aus unedlen Metallen, ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8206</td><td>Zusammenstellungen von Werkzeugen aus zwei oder mehr der Positionen 8202 bis 8205, in Aufmachungen für den Einzelverkauf</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien der Positionen 8202 bis 8205. Jedoch darf die Warenzusammenstellung auch Waren der Positionen 8202 bis 8205 enthalten, wenn ihr Gesamtwert 15 v. H. des Ab-Werk-Preises der Warenzusammenstellung nicht überschreitet</td></tr>
+<tr><td>Kapitel 83</td><td>Verschiedene Waren aus unedlen Metallen</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 84</td><td>Kernreaktoren, Kessel, Maschinen, Apparate und mechanische Geräte; Teile davon; ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8407</td><td>Hub- und Rotationskolbenverbrennungsmotoren mit Fremdzündung</td><td>Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8408</td><td>Kolbenverbrennungsmotoren mit Selbstzündung (Diesel- oder Halbdieselmotoren)</td><td>Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8425 bis 8430</td><td>Flaschenzüge; Zugwinden und Spille; Hubwinden; Derrickkrane; Kabelkrane, Laufkrane, Verladebrücken und andere Krane; fahrbare Hubportale, Portalhubkraftkarren und Krankraftkarren; Gabelstapler; andere mit Hebevorrichtung ausgerüstete Karren zum Fördern und für das Hantieren Andere Maschinen, Apparate und Geräte zum Heben, Beladen, Entladen oder Fördern (z. B. Aufzüge, Rolltreppen, Stetigförderer und Seilschwebebahnen) Selbstfahrende Planiermaschinen (Bulldozer und Angledozer), Erd- oder Strassenhobel (Grader), Schürfwagen (Scraper), Bagger, Schürf- und andere Schaufellader, Strassenwalzen und andere Bodenverdichter Andere Maschinen, Apparate und Geräte zur Erdbewegung, zum Planieren, Verdichten oder Bohren des Bodens oder zum Abbauen von Erzen oder anderen Mineralien; Rammen und Pfahlzieher; Schneeräumer</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis und aus Position 8431, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8444 bis 8447</td><td>Maschinen zum Düsenspinnen, Verstrecken, Texturieren oder Schneiden von synthetischen oder künstlichen Spinnstoffen: Maschinen zum Vorbereiten oder Aufbereiten von Spinnstoffen; Maschinen zum Spinnen, Dublieren oder Zwirnen von Spinnstoffen und andere Maschinen und Apparate zum Herstellen von Spinnstoffgarnen; Maschinen zum Spulen (einschliesslich Schussspulmaschinen), Wickeln oder Haspeln von Spinnstoffen sowie Maschinen zum Vorbereiten von Spinnstoffgarnen zur Verwendung auf Maschinen der Position 8446 oder 8447 Webmaschinen: Wirk-, Strick-, Nähwirk-, Gimpen-, Tüll-, Spitzen-, Stick-, Posamentier-, Flecht-, Netzknüpf- und Tuftingmaschinen</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis und aus Position 8448, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8456 bis 8465</td><td>Werkzeugmaschinen zum Abtragen von Stoffen aller Art; Bearbeitungszentren, Mehrwegemaschinen und Transfermaschinen, zum Bearbeiten von Metallen Drehmaschinen zur spanabhebenden Metallbearbeitung Werkzeugmaschinen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis und aus Position 8466, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8470 bis 8472</td><td>Rechenmaschinen und Geräte im Taschenformat, zum Aufzeichnen, Wiedergeben und Anzeigen von Daten, mit Rechenfunktionen; Abrechnungsmaschinen, Frankiermaschinen, Fahrkarten- oder Eintrittskarten-Ausgabemaschinen u. ä. Maschinen, mit Rechenwerk; Registrierkassen Automatische Datenverarbeitungsmaschinen und ihre Einheiten; Leser, magnetische oder optische, Maschinen zum Aufzeichnen von Daten auf Datenträger in codierter Form und Maschinen zum Verarbeiten solcher Daten Andere Büromaschinen</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis und aus Position 8473, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 85</td><td>Elektrische Maschinen, Apparate, Geräte und andere elektrotechnische Waren, Teile davon; Tonaufnahme- oder Tonwiedergabegeräte, Bild- und Tonaufzeichnungs- oder ‑wiedergabegeräte, für das Fernsehen, Teile und Zubehör für diese Geräte; ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8501 bis 8502</td><td>Elektromotoren und elektrische Generatoren Stromerzeugungsaggregate und elektrische rotierende Umformer</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis und aus Position 8503, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8519, 8521</td><td>Tonaufnahmegeräte; Tonwiedergabegeräte; Tonaufnahme- und ‑wiedergabegeräte Videogeräte zur Bild- und Tonaufzeichnung oder -wiedergabe, auch mit eingebautem Videotuner</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis und aus Position 8522, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8525 bis 8528</td><td>Sendegeräte für den Rundfunk oder das Fernsehen, Fernsehkameras, Digitalkameras und Videokameraaufnahmegeräte Funkmessgeräte (Radargeräte), Funknavigationsgeräte und Funkfernsteuergeräte Rundfunkempfangsgeräte Monitore und Projektoren, ohne eingebautes Fernsehempfangsgerät Fernsehempfangsgeräte oder Bildaufzeichnungs- oder -wiedergabegeräte</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis und aus Position 8529, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8535 bis 8537</td><td>Elektrische Geräte zum Schliessen, Unterbrechen, Schützen oder Verbinden von elektrischen Stromkreisen; Verbinder für optische Fasern, Bündel aus optischen Fasern oder optische Kabel; Tafeln, Felder, Konsolen, Pulte, Schränke und andere Träger, zum elektrischen Schalten oder Steuern oder für die Stromverteilung</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis und aus Position 8538, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8542 31 bis 8542 39</td><td>Monolithisch integrierte Schaltungen</td><td>Diffusion, bei der durch selektives Aufbringen eines geeigneten Dotierungsstoffes auf ein Halbleitersubstrat integrierte Schaltungen gebildet werden, auch wenn der Zusammenbau und/oder das Testen in einem Land stattfinden, das keine Vertragspartei ist, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8544 bis 8548</td><td>Isolierte Drähte, Kabel und andere isolierte elektrische Leiter, Kabel aus optischen Fasern Kohleelektroden, Kohlebürsten, Lampenkohlen, Batterie- und Elementekohlen und andere Waren für elektrotechnische Zwecke, aus Grafit oder anderem Kohlenstoff Elektrische Isolatoren aus Stoffen aller Art Isolierteile für elektrische Maschinen, Apparate oder Geräte, Isolierrohre und Verbindungsstücke dazu, aus unedlen Metallen, mit Innenisolierung Abfälle und Schrott von elektrischen Primärelementen, Primärbatterien und Akkumulatoren; ausgebrauchte elektrische Primärelemente, Primärbatterien und Akkumulatoren; elektrische Teile von Maschinen, Apparaten und Geräten, in diesem Kapitel anderweit weder genannt noch inbegriffen</td><td>Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 86</td><td>Schienenfahrzeuge und ortsfestes Gleismaterial, Teile davon; ortsfestes Gleismaterial für Schienenwege und Teile davon; mechanische (auch elektromechanische) Signalgeräte für Verkehrswege</td><td>Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 87</td><td>Zugmaschinen, Kraftwagen, Krafträder, Fahrräder und andere nicht schienengebundene Landfahrzeuge, Teile davon und Zubehör, ausgenommen:</td><td>Herstellen, bei dem der Wert aller verwendeten Vormaterialien 45 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8708</td><td>Teile und Zubehör für Fahrzeuge der Positionen 8701 bis 8705</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>8711</td><td>Krafträder (einschliesslich Mopeds) und Fahrräder mit Hilfsmotor, auch mit Beiwagen; Beiwagen</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 88</td><td>Luftfahrzeuge und Raumfahrzeuge, Teile davon</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 89</td><td>Wasserfahrzeuge und schwimmende Vorrichtungen</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis; jedoch dürfen Rümpfe der Position 8906 nicht verwendet werden, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 40 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>ex Kapitel 90</td><td>Mess-, Prüf- oder Präzisionsinstrumente, -apparate und -geräte; medizinische und chirurgische Instrumente, Apparate und Geräte; Teile und Zubehör dafür ausgenommen:</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>9001 50</td><td>Brillengläser aus anderen Stoffen als Glas</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, wobei eines der folgenden Verfahren durchgeführt wird: – Oberflächenbearbeiten der halbfertigen Linse zu einem fertigen Brillenglas mit optischer Korrektur zum Einbau in ein Brillengestell – Beschichten einer Linse mittels geeigneter Verfahren zur Verbesserung des Sehvermögens und zum Schutz des Brillenträgers oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 91</td><td>Uhrmacherwaren</td><td>Herstellen, bei dem der Wert aller verwendeten Vormaterialien 40 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 92</td><td>Musikinstrumente; Teile und Zubehör für diese Instrumente</td><td>Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 93</td><td>Waffen und Munition; Teile und Zubehör dafür</td><td>Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 94</td><td>Möbel; medizinisch-chirurgische Möbel; Bettausstattungen und ähnliche Waren; Beleuchtungskörper, anderweit weder genannt noch inbegriffen; Reklameleuchten, Leuchtschilder, beleuchtete Namensschilder und dergleichen; vorgefertigte Gebäude</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 95</td><td>Spielzeug, Spiele, Unterhaltungsartikel und Sportgeräte; Teile und Zubehör dafür</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 96</td><td>Verschiedene Waren</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis, oder Herstellen, bei dem der Wert aller verwendeten Vormaterialien 50 v. H. des Ab-Werk-Preises des Erzeugnisses nicht überschreitet</td></tr>
+<tr><td>Kapitel 97</td><td>Kunstgegenstände, Sammlungsstücke und Antiquitäten</td><td>Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie das Erzeugnis,</td></tr>
+<tr><td colspan="3"><sup>(1)</sup> Die begünstigten Verfahren sind in den Bemerkungen 8.1 und 8.3 aufgeführt. <sup>(2)</sup> Zu den besonderen Vorschriften für Erzeugnisse, die aus verschiedenen textilen Vormaterialien bestehen, siehe Bemerkung 6. <sup>(3)</sup> Siehe Bemerkung 7. <sup>(4)</sup> Siehe Bemerkung 9.</td></tr>
+</table>
+
+Anhang III
+
+## Wortlaut der Ursprungserklärung
+
+Die Ursprungserklärung, deren Wortlaut nachstehend wiedergegeben ist, ist gemäss den Fussnoten auszufertigen. Die Fussnoten brauchen jedoch nicht wiedergegeben werden.
+
+Englische Fassung
+
+The exporter of the products covered by this document (customs authorization N<sup>o</sup>………<sup>1</sup>) declares that, except where otherwise clearly indicated, these products are of ……………..<sup>2</sup> preferential origin.
+
+Französische Fassung
+
+L’exportateur des produits couverts par le présent document (autorisation douanière n<sup>o</sup> ………<sup>1</sup>) déclare que, sauf indication claire du contraire, ces produits ont l’origine préférentielle ……………..<sup>2</sup>.
+
+Deutsche Fassung
+
+Der Ausführer (Ermächtigter Ausführer; Bewilligungs-Nr. ……… <sup>1</sup>) der Waren, auf die sich dieses Handelspapier bezieht, erklärt, dass diese Waren, soweit nicht anders angegeben, präferenzbegünstigte …………….. <sup>2</sup> Ursprungswaren sind.
+
+Italienische Fassung
+
+L’esportatore delle merci contemplate nel presente documento (autorizzazione doganale n. ……… <sup>1</sup>) dichiara che, salvo indicazione contraria, le merci sono di origine preferenziale …………….. <sup>2</sup>.
+
+........................................................................................................................................
+
+(Ort und Datum)<sup>3</sup>
+
+........................................................................................................................................
+
+(Unterschrift des Ausführers sowie Name des Unterzeichners der Erklärung in Druckschrift) <sup>4</sup>
+
+- <sup>1</sup> Wird die Ursprungserklärung von einem ermächtigten Ausführer ausgefertigt, so ist die Bewilligungsnummer des ermächtigten Ausführers an dieser Stelle einzutragen. Wird die Ursprungserklärung nicht von einem ermächtigten Ausführer ausgefertigt, so werden die Wörter in Klammern weggelassen bzw. wird der Raum leer gelassen.
+- <sup>2</sup> Der Ursprung der Erzeugnisse ist anzugeben. Betrifft die Ursprungserklärung ganz oder teilweise Erzeugnisse mit Ursprung in Ceuta und Melilla, so bringt der Ausführer auf dem Papier, auf dem die Erklärung ausgefertigt wird, deutlich sichtbar die Kurzbezeichnung ‚CM’ an.
+- <sup>3</sup> Diese Angaben können entfallen, wenn sie in dem Papier selbst enthalten sind.
+- <sup>4</sup> In Fällen, in denen der Ausführer nicht unterzeichnen muss, entfällt auch der Name des Unterzeichners.
+
+## Warenverkehrsbescheinigung EUR.1
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/de/xml/image/image1.png)
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/de/xml/image/image2.png)
+
+### Anmerkungen
+
+- 1\. Die Warenverkehrsbescheinigung darf weder Radierungen noch Übermalungen aufweisen. Etwaige Änderungen sind so vorzunehmen, dass die irrtümlichen Eintragungen gestrichen und gegebenenfalls die beabsichtigten Eintragungen hinzugefügt werden. Jede so vorgenommene Änderung muss von demjenigen, der die Bescheinigung ausgefüllt hat, gebilligt und von den Zollbehörden des ausstellenden Staats oder Gebiets bestätigt werden.
+- 2\. Zwischen den in der Warenverkehrsbescheinigung angeführten Warenposten dürfen keine Zwischenräume bestehen, jedem Warenposten muss eine laufende Nummer vorangehen. Unmittelbar unter dem letzten Warenposten ist ein waagrechter Schlussstrich zu ziehen. Leerfelder sind durch Streichungen unbrauchbar zu machen.
+- 3\. Die Waren sind nach dem Handelsbrauch so genau zu bezeichnen, dass die Feststellung der Nämlichkeit möglich ist.
+
+## Antrag auf Ausstellung einer Warenverkehrsbescheinigung EUR.1
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/de/xml/image/image3.png)
+
+Anhang IV
+
+## Muster der Warenverkehrsbescheinigung EUR.1 und des Antrags auf Ausstellung einer Warenverkehrsbescheinigung EUR.1
+
+### Druckanweisungen
+
+- 1\. Jede Bescheinigung hat das Format 210 × 297 mm, wobei die Länge höchstens 5 mm weniger und 8 mm mehr betragen darf. Es ist weisses, holzfreies, geleimtes Schreibpapier mit einem Quadratmetergewicht von mindestens 25 g zu verwenden. Dieses ist mit einem grünen, guillochierten Überdruck zu versehen, auf dem jede mechanisch oder chemisch vorgenommene Verfälschung sichtbar wird.
+- 2\. Die zuständigen Behörden der Vertragsparteien können sich den Druck der Bescheinigungen vorbehalten oder ihn Druckereien überlassen, die sie hierzu ermächtigt haben. In diesem Fall muss in jeder Bescheinigung auf diese Ermächtigung hingewiesen werden. Jede Bescheinigung muss den Namen und die Anschrift oder das Kennzeichen der Druckerei enthalten. Sie trägt ferner zur Kennzeichnung eine Seriennummer, die auch aufgedruckt sein kann
+
+## Erklärung des Ausführers/exporteurs
+
+Der Unterzeichner, Ausführer/Exporteur der auf der Vorderseite beschriebenen Waren,
+
+*Erklärt,* dass diese Waren die Voraussetzungen erfüllen, um die beigefügte Bescheinigung zu erlangen;
+
+*Beschreibt* den Sachverhalt, aufgrund dessen diese Waren die vorgenannten Voraussetzungen erfüllen, wie folgt
+
+........................................................................................................................................
+
+........................................................................................................................................
+
+........................................................................................................................................
+
+........................................................................................................................................
+
+*Legt* folgende Nachweise *vor*<sup>(1):</sup>
+
+........................................................................................................................................
+
+........................................................................................................................................
+
+........................................................................................................................................
+
+........................................................................................................................................
+
+*Verpflichtet sich*, auf Verlangen der zuständigen Behörden alle zusätzlichen Nachweise zu erbringen, die für die Ausstellung der beigefügten Bescheinigung erforderlich sind, und gegebenenfalls jede Kontrolle seiner Buchführung und der Herstellungsbedingungen für die oben bezeichneten Waren durch die genannten Behörden zu dulden;
+
+*Beantragt,* die Ausstellung der beigefügten Bescheinigung für diese Waren.
+
+........................................................................................................................................
+
+(Ort und Datum)
+
+........................................................................................................................................
+
+(Unterschrift)
+
+\_
+
+- <sup>(1)</sup> Zum Beispiel Einfuhrpapiere, Warenverkehrsbescheinigungen, Rechnungen, Erklärungen des Herstellers usw. über die bei der Herstellung verwendeten Erzeugnisse oder die in unverändertem Zustand wieder ausgeführten Waren.
+
+Anhang V
+
+## Sonderbedingungen für Erzeugnisse mit Ursprung in Ceuta und Melilla
+
+### Einziger Artikel
+
+\1. Sofern sie den Bestimmungen der Nichtveränderungsregel in Artikel 14 der Anlage A entsprechen, gelten folgende Erzeugnisse als:
+
+- (1)
+
+  Ursprungserzeugnisse Ceutas und Melillas:
+
+  - a) Erzeugnisse, die in Ceuta und Melilla vollständig gewonnen oder hergestellt worden sind;
+  - b)
+
+    Erzeugnisse, die in Ceuta und Melilla unter Verwendung anderer als in Ceuta und Melilla vollständig gewonnener oder hergestellter Erzeugnisse hergestellt worden sind, vorausgesetzt, dass:
+
+    - i) diese Erzeugnisse im Sinne des Artikels 4 dieses Protokolls in ausreichendem Masse be- oder verarbeitet worden sind, oder
+    - ii) diese Erzeugnisse Ursprungserzeugnisse einer der Vertragsparteien sind, sofern sie Be- oder Verarbeitungen unterzogen worden sind, die über die in Artikel 6 dieses Protokolls genannte Behandlung hinausgehen;
+
+- (2)
+
+  Ursprungserzeugnisse in einer der Vertragsparteien:
+
+  - a) Erzeugnisse, die in einer der Vertragspartei vollständig gewonnen oder hergestellt worden sind;
+  - b)
+
+    Erzeugnisse, die in einer der Vertragspartei unter Verwendung anderer als in einer der Vertragspartei vollständig gewonnener oder hergestellter Erzeugnisse hergestellt worden sind, vorausgesetzt, dass:
+
+    - i) diese Erzeugnisse im Sinne des Artikels 4 dieses Protokolls in ausreichendem Masse be- oder verarbeitet worden sind, oder
+    - ii) diese Erzeugnisse Ursprungserzeugnisse Ceutas und Melillas oder der Europäischen Union sind, sofern sie Be- oder Verarbeitungen unterzogen worden sind, die über die in Artikel 6 dieses Protokolls genannte Behandlung hinausgehen.
+
+- [tab] 2. Ceuta und Melilla gelten als ein Gebiet.
+
+\3. Der Ausführer oder sein bevollmächtigter Vertreter ist verpflichtet, in Feld 2 der Warenverkehrsbescheinigung EUR.1 oder in Ursprungserklärungen den Vermerk «Name der ausführenden Vertragspartei» und «Ceuta und Melilla» einzutragen. Bei Ursprungserzeugnissen Ceutas und Melillas ist ferner die Ursprungseigenschaft in Feld 4 der Warenverkehrsbescheinigung EUR.1 oder in die Ursprungserklärung einzutragen.
+
+\4. Die spanischen Zollbehörden gewährleisten die Anwendung dieses Protokolls in Ceuta und Melilla.
+
+Anhang VI
+
+## Lieferantenerklärung
+
+Die Lieferantenerklärung mit nachstehendem Wortlaut ist gemäss den Fussnoten auszufertigen. Die Fussnoten brauchen jedoch nicht wiedergegeben zu werden.
+
+### Lieferantenerklärung
+
+für Waren, die in der anderen Vertragspartei oder einem in Anhang VIII erwähnten Land be- oder verarbeitet worden sind, ohne die Präferenzursprungseigenschaft erlangt zu haben
+
+Der Unterzeichnete, Lieferant der in dem beigefügten Papier aufgeführten Waren, erklärt:
+
+\1. Folgende Vormaterialien ohne Ursprung in [Namen der betreffenden Vertragspartei angeben] wurden in [Namen der betreffenden Vertragsparteien angeben] bei der Herstellung dieser Waren verwendet:
+
+<table>
+<tr><td>Bezeichnung der gelieferten Waren <sup>(1)</sup></td><td>Bezeichnung der verwendeten Vormaterialien ohne Ursprungseigenschaft</td><td>HS-Position der verwendeten Vormaterialien ohne Ursprungseigenschaft <sup>(2)</sup></td><td>Wert der verwendeten Vormaterialien ohne Ursprungseigenschaft <sup>(2)(3)</sup></td></tr>
+<tr><td colspan="3">Gesamtwert</td><td></td></tr>
+</table>
+
+\2. Alle anderen in [Namen der betreffenden Vertragspartei angeben] bei der Herstellung dieser Waren verwendeten Vormaterialien besitzen die Ursprungseigenschaft in [Namen der betreffenden Vertragspartei oder des in Anhang VIII erwähnten Landes angeben].
+
+\3. Folgende Waren wurden ausserhalb von [Namen der betreffenden Vertragspartei angeben] gemäss Artikel 13 dieses Protokolls be- oder verarbeitet und haben dort insgesamt folgenden Wertzuwachs erzielt:
+
+<table>
+<tr><td>Bezeichnung der gelieferten Waren</td><td>Ausserhalb von [Namen der betreffenden Vertragspartei angeben] insgesamt erzielter Wertzuwachs<sup>(4)</sup></td></tr>
+<tr><td></td><td>(Ort und Datum)</td></tr>
+<tr><td></td><td>(Anschrift und Unterschrift des Lieferanten sowie Name des Unterzeichners der Erklärung in Druckschrift)</td></tr>
+</table>
+
+- <sup>(1)</sup> Betreffen die Rechnungen, Lieferscheine oder sonstigen Handelspapiere, denen die Erklärung beigefügt ist, verschiedene Waren oder Waren, die nicht in gleichem Umfang Vormaterialien ohne Ursprungseigenschaft enthalten, so hat sie der Lieferant eindeutig voneinander zu unterscheiden.
+- Beispiel:
+- Das Papier betrifft verschiedene Modelle von Elektromotoren der Position 8501 zur Verwendung bei der Herstellung von Waschmaschinen der Position 8450. Art und Wert der bei der Herstellung dieser Motoren verwendeten Vormaterialien ohne Ursprungseigenschaft unterscheiden sich von einem Modell zum anderen. In Spalte 1 ist daher zwischen den Modellen zu unterscheiden, und die in den übrigen Spalten verlangten Angaben sind für jedes Modell getrennt aufzuführen, damit der Hersteller der Waschmaschinen die Ursprungseigenschaft seiner Erzeugnisse je nach dem verwendeten Elektromotor richtig beurteilen kann.
+- <sup>(2)</sup> Die Angaben in diesen Spalten sind nur zu machen, soweit sie erforderlich sind.
+- Beispiele:
+- Die Regel für Bekleidung des ex-Kapitels 62 sieht vor, dass Weben mit Konfektionieren (einschliesslich Zuschneiden) zulässig ist. Verwendet ein Hersteller solcher Bekleidung in einer Vertragspartei aus der Europäischen Union eingeführtes Gewebe, das dort durch Weben von Garn ohne Ursprungseigenschaft hergestellt worden ist, so reicht es aus, wenn der Lieferant der Europäischen Union in seiner Erklärung das verwendete Garn ohne Ursprungseigenschaft beschreibt; es ist nicht erforderlich, die HS-Position und den Wert dieses Garns anzugeben.
+- Ein Hersteller von Draht aus Eisen der HS-Position 7217, der zur Herstellung Eisenstäbe ohne Ursprungseigenschaft verwendet hat, sollte in der zweiten Spalte «Stäbe aus Eisen» angeben. Wird dieser Draht zur Herstellung einer Maschine verwendet, bei der die Ursprungsregel die Verwendung von Vormaterialien ohne Ursprungseigenschaft auf einen bestimmten Vomhundertsatz begrenzt, so muss in der dritten Spalte der Wert der Stäbe ohne Ursprungseigenschaft angegeben werden.
+- <sup>(3)</sup> «Wert der Vormaterialien ohne Ursprungseigenschaft» ist der Zollwert der verwendeten Vormaterialien ohne Ursprungseigenschaft zum Zeitpunkt der Einfuhr oder, wenn der Zollwert nicht bekannt ist oder nicht festgestellt werden kann, der erste feststellbare Preis, der in [den Namen der betreffenden Vertragspartei angeben] für die Vormaterialien gezahlt wird.
+- Der genaue Wert jedes Vormaterials ohne Ursprungseigenschaft ist je Einheit der in der ersten Spalte aufgeführten Ware anzugeben.
+- <sup>(4)</sup> «Insgesamt erzielter Wertzuwachs» bezeichnet alle ausserhalb von [Namen der betreffenden Vertragspartei angeben] entstandenen Kosten einschliesslich des Wertes aller dort hinzugefügten Vormaterialien. Der genaue insgesamt erzielte Wertzuwachs ausserhalb von [Namen der betreffenden Vertragspartei angeben] ist je Einheit der in der ersten Spalte aufgeführten Ware anzugeben.
+
+Anhang VII
+
+## Langzeit-Lieferantenerklärung
+
+Die Langzeit-Lieferantenerklärung mit nachstehendem Wortlaut ist gemäss den Fussnoten auszufertigen. Die Fussnoten brauchen jedoch nicht wiedergegeben zu werden.
+
+## Langzeit-Lieferantenerklärung
+
+für Waren, die in der anderen Vertragspartei oder einem in Anhang VIII erwähnten Land be- oder verarbeitet worden sind, ohne die Präferenzursprungseigenschaft erlangt zu haben
+
+Der Unterzeichnete, Lieferant der in dem beigefügten Papier bezeichneten Waren, die regelmässig an <sup>(1)</sup>............................. geliefert werden, erklärt Folgendes:
+
+\1. Folgende Vormaterialien ohne Ursprung in [Namen der betreffenden Vertragspartei angeben] wurden in [Namen der betreffenden Vertragspartei angeben] bei der Herstellung dieser Waren verwendet:
+
+<table>
+<tr><td>Bezeichnung der gelieferten Waren <sup>(2)</sup></td><td>Bezeichnung der verwendeten Vormaterialien ohne Ursprungseigenschaft</td><td>HS-Position der verwendeten Vormaterialien ohne Ursprungseigenschaft <sup>(3)</sup></td><td>Wert der verwendeten Vormaterialien ohne Ursprungseigenschaft <sup>(3)(4)</sup></td></tr>
+<tr><td colspan="3">Gesamtwert</td><td></td></tr>
+</table>
+
+\2. Alle anderen in [Namen der betreffenden Vertragspartei angeben] bei der Herstellung dieser Waren verwendeten Vormaterialien besitzen die Ursprungseigenschaft in [Namen der betreffenden Vertragspartei oder des in Anhang VIII erwähnten Landes angeben].
+
+\3. Folgende Waren wurden ausserhalb von [Namen der betreffenden Vertragspartei angeben] gemäss Artikel 13 dieses Protokolls be- oder verarbeitet und haben dort insgesamt folgenden Wertzuwachs erzielt:
+
+<table>
+<tr><td>Bezeichnung der gelieferten Waren</td><td>Ausserhalb von [Namen der betreffenden Vertragspartei angeben] insgesamt erzielter Wertzuwachs<sup>(4)</sup></td></tr>
+</table>
+
+Diese Erklärung gilt für alle weiteren Sendungen dieser Waren vom...................................................................
+
+bis.................................................................. <sup>(6)</sup>
+
+Ich verpflichte mich,..................................................<sup>(1)</sup> unverzüglich zu unterrichten, wenn diese Erklärung nicht mehr gültig ist.
+
+<table>
+<tr><td></td><td>(Ort und Datum)</td></tr>
+<tr><td></td><td>(Anschrift und Unterschrift des Lieferanten sowie Name des Unterzeichners der Erklärung in Druckschrift)</td></tr>
+</table>
+
+- <sup>(1)</sup> Name und Anschrift des Empfängers der Waren.
+- <sup>(2)</sup> Betreffen die Rechnungen, Lieferscheine oder sonstigen Handelspapiere, denen die Erklärung beigefügt ist, verschiedene Waren oder Waren, die nicht in gleichem Umfang Vormaterialien ohne Ursprungseigenschaft enthalten, so hat sie der Lieferant eindeutig voneinander zu unterscheiden.
+- Beispiel:
+- Das Papier betrifft verschiedene Modelle von Elektromotoren der Position 8501 zur Verwendung bei der Herstellung von Waschmaschinen der Position 8450. Art und Wert der bei der Herstellung dieser Motoren verwendeten Vormaterialien ohne Ursprungseigenschaft unterscheiden sich von einem Modell zum anderen. In Spalte 1 ist daher zwischen den Modellen zu unterscheiden, und die in den übrigen Spalten verlangten Angaben sind für jedes Modell getrennt aufzuführen, damit der Hersteller der Waschmaschinen die Ursprungseigenschaft seiner Erzeugnisse je nach dem verwendeten Elektromotor richtig beurteilen kann.
+- <sup>(3)</sup> Die Angaben in diesen Spalten sind nur zu machen, soweit sie erforderlich sind.
+- Beispiele:
+- Die Regel für Bekleidung des ex-Kapitels 62 sieht vor, dass Weben mit Konfektionieren (einschliesslich Zuschneiden) zulässig ist. Verwendet ein Hersteller solcher Bekleidung in einer Vertragspartei aus der Europäischen Union eingeführtes Gewebe, das dort durch Weben von Garn ohne Ursprungseigenschaft hergestellt worden ist, so reicht es aus, wenn der Lieferant der Europäischen Union in seiner Erklärung das verwendete Garn ohne Ursprungseigenschaft beschreibt; es ist nicht erforderlich, die HS-Position und den Wert dieses Garns anzugeben.
+- Ein Hersteller von Draht aus Eisen der HS-Position 7217, der zur Herstellung Eisenstäbe ohne Ursprungseigenschaft verwendet hat, sollte in der zweiten Spalte «Stäbe aus Eisen» angeben. Wird dieser Draht zur Herstellung einer Maschine verwendet, bei der die Ursprungsregel die Verwendung von Vormaterialien ohne Ursprungseigenschaft auf einen bestimmten Vomhundertsatz begrenzt, so muss in der dritten Spalte der Wert der Stäbe ohne Ursprungseigenschaft angegeben werden.
+- <sup>(4)</sup> «Wert der Vormaterialien ohne Ursprungseigenschaft» ist der Zollwert der verwendeten Vormaterialien ohne Ursprungseigenschaft zum Zeitpunkt der Einfuhr oder, wenn der Zollwert nicht bekannt ist oder nicht festgestellt werden kann, der erste feststellbare Preis, der in [den Namen der betreffenden Vertragspartei angeben] für die Vormaterialien gezahlt wird.
+- Der genaue Wert jedes Vormaterials ohne Ursprungseigenschaft ist je Einheit der in der ersten Spalte aufgeführten Ware anzugeben.
+- <sup>(5)</sup> «Insgesamt erzielter Wertzuwachs» bezeichnet alle ausserhalb von [Namen der betreffenden Vertragspartei angeben] entstandenen Kosten einschliesslich des Wertes aller dort hinzugefügten Vormaterialien. Der genaue insgesamt erzielte Wertzuwachs ausserhalb von [Namen der betreffenden Vertragspartei angeben] ist je Einheit der in der ersten Spalte aufgeführten Ware anzugeben.
+- <sup>(6)</sup> Daten einsetzen. Die Geltungsdauer der Langzeit-Lieferantenerklärung sollte vorbehaltlich der Voraussetzungen, die von den Zollbehörden der Vertragspartei festgelegt werden, in der die Erklärung ausgefertigt wird, normalerweise 12 Monate nicht überschreiten.
+
+Anhang VIII
+
+## Länderliste
+
+- 1\. Demokratische Volksrepublik Algerien
+- 2\. Arabische Republik Ägypten
+- 3\. Europäische Union
+- 4\. Island
+- 5\. Staat Israel
+- 6\. Haschemitisches Königreich Jordanien
+- 7\. Libanesische Republik
+- 8\. Königreich Marokko
+- 9\. Königreich Norwegen
+- 10\. Palästinensische Befreiungsorganisation (PLO) zugunsten der Palästinensischen Behörde für das Westjordanland und den Gaza-Streifen
+- 11\. Arabische Republik Syrien
+- 12\. Tunesische Republik
+- 13\. Republik Türkei
+- 14\. Republik Albanien
+- 15\. Bosnien und Herzegowina
+- 16\. Republik Nordmazedonien
+- 17\. Montenegro
+- 18\. Republik Serbien
+- 19\. Republik Kosovo
+- 20\. Königreich Dänemark in Bezug auf die Färöer-Inseln
+- 21\. Republik Moldova
+- 22\. Georgien
+- 23\. Ukraine
 
 Anhang 2
 
@@ -892,7 +1078,7 @@ Für die Zwecke dieses Abkommens wird das Inkorporierte Abkommen über die gegen
 
 \2. Artikel 12 wird ersetzt durch:
 
-### ........1 «**Art. 12**Informationsaustausch
+### «**Art. 12**Informationsaustausch
 
 [^annex3-lvlu1-1]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
 
@@ -955,11 +1141,11 @@ Amtliche GMP-Inspektorate nach Abschnitt II.»
 
 \6. Die Gemeinsame Erklärung der Vertragsparteien des Abkommens über die gegenseitige Anerkennung zur gegenseitigen Anerkennung der Guten klinischen Praxis (GCP) und der GCP-Inspektionen finden unter Vorbehalt der Bestimmungen dieses Instruments mit derselben Rechtswirkung *mutatis mutandis* Anwendung zwischen den Vertragsparteien.
 
-Anhang 4*[^t-2]*
+Anhang 4*[^t-3]*
 
 ## Änderungen des Agrarabkommens
 
-[^t-2]: Bereinigt gemäss Beschluss Nr. 1/2021 des gemischten Ausschusses für Landwirtschaft Schweiz–Vereinigtes Königreich vom 1. Jan. 2021, in Kraft seit 1. Jan. 2021 ([AS 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)).
+[^t-3]: Bereinigt gemäss Beschluss Nr. 1/2021 des gemischten Ausschusses für Landwirtschaft Schweiz–Vereinigtes Königreich vom 1. Jan. 2021, in Kraft seit 1. Jan. 2021 ([AS 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)).
 
 Für die Zwecke dieses Abkommens wird das Inkorporierte Agrarabkommen[^annex4-lvlu1-1] wie folgt geändert:
 
@@ -998,7 +1184,7 @@ Für die Zwecke dieses Abkommens wird das Inkorporierte Agrarabkommen[^annex4-lv
 - (a) In Artikel 2 Absatz 1 wird «einheitliches» nicht inkorporiert.
 - (b) Artikel 8 wird ersetzt durch:
 
-### ........1 «**Art. 8**Homonyme Namen
+### «**Art. 8**Homonyme Namen
 
 [^annex4-lvlu1-1]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
 
@@ -1283,49 +1469,63 @@ Anlage C zu Anhang 4
 
 ## Landwirtschaftliche Erzeugnisse und Lebensmittel aus ökologischem Landbau
 
-### ........1 **Art. 1**Ziel
+#### Art. 1
+
+**Ziel**
 
 Dieser Anhang gilt für:
 
 - a. Erzeugnisse aus ökologischem Landbau aus dem Vereinigten Königreich gemäss Anlage I;
 - b. Erzeugnisse aus ökologischem Landbau aus der Schweiz gemäss Anlage II.
 
-### ........1 **Art. 2**Einfuhr und Inverkehrbringen von ökologischen Erzeugnissen aus dem Vereinigten Königreich
+#### Art. 2
 
-\1. Die Schweiz gibt ihre Zustimmung dazu, dass die in Anlage I aufgeführten ökologischen Erzeugnisse aus dem Vereinigten Königreich in ihr Hoheitsgebiet eingeführt und als ökologische Erzeugnisse in Verkehr gebracht werden, sofern eine der Kontrollbehörden in Anlage III bescheinigt hat, dass diese Erzeugnisse in Übereinstimmung mit den Rechtsvorschriften für ökologische Erzeugnisse in Anlage IV Teil 2 produziert wurden.
+**Einfuhr und Inverkehrbringen von ökologischen Erzeugnissen aus dem Vereinigten Königreich**
 
-\2. Einem Erzeugnis, das gemäss diesem Artikel vom Vereinigten Königreich in die Schweiz eingeführt wird, muss eine Kontrollbescheinigung beigelegt sein, die den Vorgaben nach Artikel 16*c* und Anhang 9 Teil A der Verordnung des WBF über die biologische Landwirtschaft (SR *910.181*) entspricht. Die Kontrollbescheinigung muss in Deutsch, Französisch, Italienisch oder Englisch erstellt sein.
+<sup>1.</sup> Die Schweiz gibt ihre Zustimmung dazu, dass die in Anlage I aufgeführten ökologischen Erzeugnisse aus dem Vereinigten Königreich in ihr Hoheitsgebiet eingeführt und als ökologische Erzeugnisse in Verkehr gebracht werden, sofern eine der Kontrollbehörden in Anlage III bescheinigt hat, dass diese Erzeugnisse in Übereinstimmung mit den Rechtsvorschriften für ökologische Erzeugnisse in Anlage IV Teil 2 produziert wurden.
 
-### ........1 **Art. 3**Einfuhr und Inverkehrbringen von biologischen Erzeugnissen aus der Schweiz
+<sup>2.</sup> Einem Erzeugnis, das gemäss diesem Artikel vom Vereinigten Königreich in die Schweiz eingeführt wird, muss eine Kontrollbescheinigung beigelegt sein, die den Vorgaben nach Artikel 16*c* und Anhang 9 Teil A der Verordnung des WBF über die biologische Landwirtschaft (SR *910.181*) entspricht. Die Kontrollbescheinigung muss in Deutsch, Französisch, Italienisch oder Englisch erstellt sein.
 
-\1. Das Vereinigte Königreich gibt seine Zustimmung dazu, dass die in Anlage II aufgeführten ökologischen Erzeugnisse aus der Schweiz in sein Hoheitsgebiet eingeführt und als ökologische Erzeugnisse in Verkehr gebracht werden, sofern die betreffenden Erzeugnisse den in Anlage IV Teil 1 aufgeführten Rechtsvorschriften für ökologische Erzeugnisse entsprechen.
+#### Art. 3
 
-\2. Dieser Artikel hindert das Vereinigte Königreich nicht daran, zu verlangen, dass einem gemäss diesem Artikel von der Schweiz in das Vereinigte Königreich eingeführten Erzeugnis eine Kontrollbescheinigung beigelegt werden muss. Die Bestimmungen zur Notifizierung nach Artikel 8 Absatz 2 dieses Abkommens gelten für alle Rechts- und Verwaltungsvorschriften des Vereinigten Königreichs, die entsprechende Anforderungen festlegen.
+**Einfuhr und Inverkehrbringen von biologischen Erzeugnissen aus der Schweiz**
 
-### ........1 **Art. 4**Informationsaustausch
+<sup>1.</sup> Das Vereinigte Königreich gibt seine Zustimmung dazu, dass die in Anlage II aufgeführten ökologischen Erzeugnisse aus der Schweiz in sein Hoheitsgebiet eingeführt und als ökologische Erzeugnisse in Verkehr gebracht werden, sofern die betreffenden Erzeugnisse den in Anlage IV Teil 1 aufgeführten Rechtsvorschriften für ökologische Erzeugnisse entsprechen.
 
-\1. Jede Vertragspartei notifiziert der anderen Vertragspartei schriftlich und rechtzeitig in den folgenden Fällen:
+<sup>2.</sup> Dieser Artikel hindert das Vereinigte Königreich nicht daran, zu verlangen, dass einem gemäss diesem Artikel von der Schweiz in das Vereinigte Königreich eingeführten Erzeugnis eine Kontrollbescheinigung beigelegt werden muss. Die Bestimmungen zur Notifizierung nach Artikel 8 Absatz 2 dieses Abkommens gelten für alle Rechts- und Verwaltungsvorschriften des Vereinigten Königreichs, die entsprechende Anforderungen festlegen.
+
+#### Art. 4
+
+**Informationsaustausch**
+
+<sup>1.</sup>
+
+Jede Vertragspartei notifiziert der anderen Vertragspartei schriftlich und rechtzeitig in den folgenden Fällen:
 
 - a. Änderungen bezüglich der von der Vertragspartei anerkannten Kontrollbehörden und von deren Codenummern;
 - b. wesentlicher Nichteinhaltung der Bestimmungen für die Bio-Zertifizierung der Vertragspartei.
 
-\2. Für die Zwecke von Absatz 1*b* bedeutet «wesentlich» jegliche Nichteinhaltung, die die Integrität des voraussichtlich in die andere Vertragspartei ausgeführten ökologischen Erzeugnisses erheblich beeinträchtigt.
+<sup>2.</sup> Für die Zwecke von Absatz 1*b* bedeutet «wesentlich» jegliche Nichteinhaltung, die die Integrität des voraussichtlich in die andere Vertragspartei ausgeführten ökologischen Erzeugnisses erheblich beeinträchtigt.
 
-\3. Bis zum 31. März jedes Jahres übermittelt jede Vertragspartei der anderen Vertragspartei einen Jahresbericht über die Durchführung und Durchsetzung der durch die Vertragspartei im Vorjahr durchgeführten Kontrollmassnahmen.
+<sup>3.</sup> Bis zum 31. März jedes Jahres übermittelt jede Vertragspartei der anderen Vertragspartei einen Jahresbericht über die Durchführung und Durchsetzung der durch die Vertragspartei im Vorjahr durchgeführten Kontrollmassnahmen.
 
-### ........1 **Art. 5**Arbeitsgruppe für ökologische Erzeugnisse
+#### Art. 5
 
-\1. Die gemäss Artikel 6 Absatz 7 dieses Abkommens eingesetzte Arbeitsgruppe für ökologische Erzeugnisse (die «Arbeitsgruppe») prüft alle Fragen, die sich im Zusammenhang mit diesem Anhang und seiner Durchführung stellen.
+**Arbeitsgruppe für ökologische Erzeugnisse**
 
-\2. Die Arbeitsgruppe prüft regelmässig die Entwicklung der unter diesen Anhang fallenden Rechts- und Verwaltungsvorschriften der Vertragsparteien.
+<sup>1.</sup> Die gemäss Artikel 6 Absatz 7 dieses Abkommens eingesetzte Arbeitsgruppe für ökologische Erzeugnisse (die «Arbeitsgruppe») prüft alle Fragen, die sich im Zusammenhang mit diesem Anhang und seiner Durchführung stellen.
 
-### ........1 **Art. 6**Geltungsdauer und Überprüfung
+<sup>2.</sup> Die Arbeitsgruppe prüft regelmässig die Entwicklung der unter diesen Anhang fallenden Rechts- und Verwaltungsvorschriften der Vertragsparteien.
 
-\1. Dieser Anhang gilt für eine Übergangszeit von 24 Monaten ab dem Inkrafttreten oder der vorläufigen Anwendung des Handelsabkommens zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, welches am 11. Februar 2019 in Bern unterzeichnet wurde.
+#### Art. 6
 
-\2. Spätestens sechs Monate vor Ablauf der Übergangszeit prüft die Arbeitsgruppe, ob dieser Anhang weiterhin Anwendung finden oder durch einen umfassenderen Anhang ersetzt werden soll. Auf Empfehlung der Arbeitsgruppe entscheidet der Gemischte Ausschuss, ob dieser Anhang mit oder ohne Anpassungen während einer verlängerten Übergangszeit Anwendung findet oder ob er ersetzt wird.
+**Geltungsdauer und Überprüfung**
 
-\3. Eine Vertragspartei kann der anderen Vertragspartei jederzeit ihren Beschluss zur Beendigung oder Aussetzung der Anwendung dieses Anhangs notifizieren. Eine solche Beendigung oder Aussetzung tritt 30 Tage nach Erhalt der Notifikation bei der anderen Vertragspartei in Kraft.
+<sup>1.</sup> Dieser Anhang gilt für eine Übergangszeit von 24 Monaten ab dem Inkrafttreten oder der vorläufigen Anwendung des Handelsabkommens zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, welches am 11. Februar 2019 in Bern unterzeichnet wurde.
+
+<sup>2.</sup> Spätestens sechs Monate vor Ablauf der Übergangszeit prüft die Arbeitsgruppe, ob dieser Anhang weiterhin Anwendung finden oder durch einen umfassenderen Anhang ersetzt werden soll. Auf Empfehlung der Arbeitsgruppe entscheidet der Gemischte Ausschuss, ob dieser Anhang mit oder ohne Anpassungen während einer verlängerten Übergangszeit Anwendung findet oder ob er ersetzt wird.
+
+<sup>3.</sup> Eine Vertragspartei kann der anderen Vertragspartei jederzeit ihren Beschluss zur Beendigung oder Aussetzung der Anwendung dieses Anhangs notifizieren. Eine solche Beendigung oder Aussetzung tritt 30 Tage nach Erhalt der Notifikation bei der anderen Vertragspartei in Kraft.
 
 Anlage I
 

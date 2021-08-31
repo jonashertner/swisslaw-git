@@ -3,11 +3,11 @@ sr: "0.946.293.671"
 title: "Accord commercial du 11 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (avec annexes et déclarations)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1071"
 language: fr
-version: 2021-01-01
+version: 2021-09-01
 adopted: 2019-02-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20210901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20210901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Approuvé par l’Assemblée fédérale le 19 juin 2020[^t-1]
 
 Entré en vigueur par échange de notes le 1<sup>er</sup> janvier 2021
 
-(Etat le 1<sup>er</sup> janvier 2021)
+(Etat le 1<sup>er</sup> septembre 2021)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 19 juin 2020 ([RO 2020 6603](https://fedlex.data.admin.ch/eli/oc/2020/1070))
 
@@ -36,87 +36,111 @@ désirant que les droits et obligations découlant des accords liés au commerce
 
 sont convenus de ce qui suit:
 
-## ........1 **Art. 1**Incorporation des accords commerciaux Suisse–UE
+#### Art. 1
 
-\1. Les dispositions des accords suivants («accords commerciaux Suisse–UE») en vigueur immédiatement avant qu’ils cessent de s’appliquer au Royaume-Uni sont incorporées au présent Accord et en font partie intégrante *mutatis mutandis*, sous réserve des dispositions du présent Instrument:
+**Incorporation des accords commerciaux Suisse–UE**
 
-- (a) Accord sous forme d’échange de lettres du 21 juillet 1972 entre la Confédération suisse et la Communauté européenne concernant certains produits agricoles et de la pêche[^lvl........1-1], et ses modifications successives apportées par les accords ultérieurs du 5 février 1981[^lvl........1-2], du 14 juillet 1986[^lvl........1-3] et du 18 janvier 1996 («échanges de lettres sur la pêche et l’agriculture»);
-- (b) Accord entre la Communauté économique européenne et la Confédération suisse, conclu à Bruxelles le 22 juillet 1972 («accord de libre-échange»)[^lvl........1-4];
-- (c) Accord entre la Communauté économique européenne et la Confédération suisse sur certains aspects relatifs aux marchés publics, conclu à Luxembourg le 21 juin 1999 («accord sur les marchés publics»)[^lvl........1-5];
-- (d) Accord entre la Communauté économique européenne et la Confédération suisse relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité, conclu à Luxembourg le 21 juin 1999 («accord relatif à la reconnaissance mutuelle»)[^lvl........1-6];
-- (e) Accord entre la Communauté économique européenne et la Confédération suisse relatif aux échanges de produits agricoles, conclu à Luxembourg le 21 juin 1999 («accord agricole»)[^lvl........1-7];
-- (f) Accord sous forme d’échange de lettres entre la Communauté européenne et chacun des pays de l’AELE donneurs de préférences tarifaires dans le cadre du système de préférences généralisées (Norvège et Suisse), prévoyant que les marchandises incorporant un élément d’origine norvégienne ou suisse seront traitées à leur arrivée sur le territoire douanier de la communauté européenne comme des marchandises incorporant un élément d’origine communautaire (accord réciproque), conclu à Bruxelles le 14 décembre 2000 («échange de lettres-SPG»)[^lvl........1-8];
-- (g) Accord de coopération entre la Communauté européenne et ses États membres d’une part, et, d’autre part, la Confédération suisse, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers, conclu à Luxembourg le 26 octobre 2004 («accord sur la lutte contre la fraude»)[^lvl........1-9], et
-- (h) Accord entre la Communauté européenne et la Confédération suisse relatif à la facilitation des contrôles et des formalités lors du transport des marchandises ainsi qu’aux mesures douanières de sécurité, conclu à Bruxelles le 25 juin 2009 («accord sur la facilitation et la sécurité douanières»)[^lvl........1-10].
+<sup>1.</sup>
 
-\2. Les dispositions suivantes ne s’appliquent pas, à moins que le Comité mixte compétent conformément au par. 3 n’en décide autrement:
+Les dispositions des accords suivants («accords commerciaux Suisse–UE») en vigueur immédiatement avant qu’ils cessent de s’appliquer au Royaume-Uni sont incorporées au présent Accord et en font partie intégrante *mutatis mutandis*, sous réserve des dispositions du présent Instrument:
+
+- (a) Accord sous forme d’échange de lettres du 21 juillet 1972 entre la Confédération suisse et la Communauté européenne concernant certains produits agricoles et de la pêche[^1-1], et ses modifications successives apportées par les accords ultérieurs du 5 février 1981[^1-2], du 14 juillet 1986[^1-3] et du 18 janvier 1996 («échanges de lettres sur la pêche et l’agriculture»);
+- (b) Accord entre la Communauté économique européenne et la Confédération suisse, conclu à Bruxelles le 22 juillet 1972 («accord de libre-échange»)[^1-4];
+- (c) Accord entre la Communauté économique européenne et la Confédération suisse sur certains aspects relatifs aux marchés publics, conclu à Luxembourg le 21 juin 1999 («accord sur les marchés publics»)[^1-5];
+- (d) Accord entre la Communauté économique européenne et la Confédération suisse relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité, conclu à Luxembourg le 21 juin 1999 («accord relatif à la reconnaissance mutuelle»)[^1-6];
+- (e) Accord entre la Communauté économique européenne et la Confédération suisse relatif aux échanges de produits agricoles, conclu à Luxembourg le 21 juin 1999 («accord agricole»)[^1-7];
+- (f) Accord sous forme d’échange de lettres entre la Communauté européenne et chacun des pays de l’AELE donneurs de préférences tarifaires dans le cadre du système de préférences généralisées (Norvège et Suisse), prévoyant que les marchandises incorporant un élément d’origine norvégienne ou suisse seront traitées à leur arrivée sur le territoire douanier de la communauté européenne comme des marchandises incorporant un élément d’origine communautaire (accord réciproque), conclu à Bruxelles le 14 décembre 2000 («échange de lettres-SPG»)[^1-8];
+- (g) Accord de coopération entre la Communauté européenne et ses États membres d’une part, et, d’autre part, la Confédération suisse, pour lutter contre la fraude et toute autre activité illégale portant atteinte à leurs intérêts financiers, conclu à Luxembourg le 26 octobre 2004 («accord sur la lutte contre la fraude»)[^1-9], et
+- (h) Accord entre la Communauté européenne et la Confédération suisse relatif à la facilitation des contrôles et des formalités lors du transport des marchandises ainsi qu’aux mesures douanières de sécurité, conclu à Bruxelles le 25 juin 2009 («accord sur la facilitation et la sécurité douanières»)[^1-10].
+
+<sup>2.</sup>
+
+Les dispositions suivantes ne s’appliquent pas, à moins que le Comité mixte compétent conformément au par. 3 n’en décide autrement:
 
 - (a) les annexes 4 à 6, 9 et 11 de l’accord agricole incorporé;
 - (b) les chapitres 1 à 11, 13 et 16 à 20 de l’annexe 1 de l’accord incorporé relatif à la reconnaissance mutuelle, et
 - (c) l’accord incorporé sur la facilitation et la sécurité douanières.
 
-\3. Dès l’entrée en vigueur du présent Accord, les Parties examinent, au sein du Comité mixte compétent, l’objet couvert par les dispositions visées au par. 2 et évaluent le niveau de divergence ou de concordance de leurs législations nationales dans les domaines couverts par ces dispositions, à la lumière des développements dans les arrangements conclus entre chacune des Parties et des tierces parties, dans le but d’assurer dans la mesure du possible la continuation des arrangements commerciaux entre les Parties. Le Comité mixte compétent peut décider d’appliquer les dispositions visées au par. 2 *mutatis mutandis*, avec ou sans modifications supplémentaires, ou de remplacer ces dispositions.
+<sup>3.</sup> Dès l’entrée en vigueur du présent Accord, les Parties examinent, au sein du Comité mixte compétent, l’objet couvert par les dispositions visées au par. 2 et évaluent le niveau de divergence ou de concordance de leurs législations nationales dans les domaines couverts par ces dispositions, à la lumière des développements dans les arrangements conclus entre chacune des Parties et des tierces parties, dans le but d’assurer dans la mesure du possible la continuation des arrangements commerciaux entre les Parties. Le Comité mixte compétent peut décider d’appliquer les dispositions visées au par. 2 *mutatis mutandis*, avec ou sans modifications supplémentaires, ou de remplacer ces dispositions.
 
-[^lvl........1-1]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
-[^lvl........1-2]: [RS 0.632.290.15](https://fedlex.data.admin.ch/eli/cc/1981/367_367_367)
-[^lvl........1-3]: [RS 0.632.401.813](https://fedlex.data.admin.ch/eli/cc/1987/201_201_201)
-[^lvl........1-4]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949). Dans un souci de clarté, il est précisé que le Protocole additionnel relatif à l’assistance administrative mutuelle en matière douanière fait partie intégrante de l’accord de libre-échange.
-[^lvl........1-5]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
-[^lvl........1-6]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^lvl........1-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^lvl........1-8]: [RS 0.632.401.021](https://fedlex.data.admin.ch/eli/cc/2019/84)
-[^lvl........1-9]: [RS 0.351.926.81](https://fedlex.data.admin.ch/eli/cc/2009/211)
-[^lvl........1-10]: [RS 0.631.242.05](https://fedlex.data.admin.ch/eli/cc/2011/150)
+[^1-1]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
+[^1-2]: [RS 0.632.290.15](https://fedlex.data.admin.ch/eli/cc/1981/367_367_367)
+[^1-3]: [RS 0.632.401.813](https://fedlex.data.admin.ch/eli/cc/1987/201_201_201)
+[^1-4]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949). Dans un souci de clarté, il est précisé que le Protocole additionnel relatif à l’assistance administrative mutuelle en matière douanière fait partie intégrante de l’accord de libre-échange.
+[^1-5]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
+[^1-6]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^1-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^1-8]: [RS 0.632.401.021](https://fedlex.data.admin.ch/eli/cc/2019/84)
+[^1-9]: [RS 0.351.926.81](https://fedlex.data.admin.ch/eli/cc/2009/211)
+[^1-10]: [RS 0.631.242.05](https://fedlex.data.admin.ch/eli/cc/2011/150)
 
-## ........1 **Art. 2**Définitions et interprétation
+#### Art. 2
 
-\1. Dans le présent Instrument:
+**Définitions et interprétation**
+
+<sup>1.</sup>
+
+Dans le présent Instrument:
 
 - (a) «*mutatis mutandis*» désigne les adaptations techniques nécessaires pour appliquer les accords commerciaux Suisse-UE comme s’ils avaient été conclus entre les Parties, compte tenu du but et de l’objet du présent Accord;
 - (b) «les accords incorporés» désigne les dispositions des accords commerciaux Suisse-UE incorporés et modifiés par le présent Instrument;
 - (c) «le présent Instrument» désigne les présents art. 1 à 9 et les dispositions des annexes qui modifient les accords incorporés, et
 - (d) «le présent Accord» désigne le présent Instrument et les accords incorporés.
 
-\2. Dans un accord incorporé, «le présent Accord» désigne l’accord incorporé.
+<sup>2.</sup> Dans un accord incorporé, «le présent Accord» désigne l’accord incorporé.
 
-## ........1 **Art. 3**Objectif
+#### Art. 3
+
+**Objectif**
 
 L’objectif premier du présent Accord est de maintenir les relations commerciales existantes entre les Parties conformément aux accords commerciaux Suisse–UE et de fournir une plateforme pour poursuivre la libéralisation des échanges et le développement des relations commerciales entre elles.
 
-## ........1 **Art. 4**Champ d’application territorial
+#### Art. 4
+
+**Champ d’application territorial**
 
 Les dispositions du présent Accord s’appliquent, dans la mesure et aux conditions qui étaient applicables dans les accords commerciaux Suisse-UE immédiatement avant que ceux-ci cessent de s’appliquer au Royaume-Uni, d’une part à la Suisse et, d’autre part, au Royaume-Uni et aux territoires suivants dont il assure les relations internationales:
 
 - (a) Gibraltar;
 - (b) les Îles Anglo-Normandes et l’Île de Man, et
-- (c) les bases militaires souveraines d’Akrotiri et de Dhekelia dans l’Île de Chypre[^lvl........1-11].
+- (c) les bases militaires souveraines d’Akrotiri et de Dhekelia dans l’Île de Chypre[^4-1].
 
-[^lvl........1-11]: Compte tenu des dispositions mentionnées dans l’échange de lettres du 8 juillet 2019 joint à cet accord, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord et la Confédération suisse n’appliquent pas l’Accord aux bases militaires souveraines.
+[^4-1]: Compte tenu des dispositions mentionnées dans l’échange de lettres du 8 juillet 2019 joint à cet accord, le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord et la Confédération suisse n’appliquent pas l’Accord aux bases militaires souveraines.
 
-## ........1 **Art. 5**Maintien des délais
+#### Art. 5
 
-\1. À moins que le présent Instrument n’en dispose autrement:
+**Maintien des délais**
+
+<sup>1.</sup>
+
+À moins que le présent Instrument n’en dispose autrement:
 
 - (a) si un délai prévu dans les accords commerciaux Suisse–UE n’est pas encore échu, le délai restant est incorporé dans le présent Accord, et
 - (b) si un délai prévu dans les accords commerciaux Suisse–UE est échu, tous les droits et obligations en résultant continuent de s’appliquer entre les Parties.
 
-\2. Nonobstant le par. 1, les renvois, dans un accord incorporé, à un délai concernant une procédure ou toute autre affaire administrative, comme un réexamen, une procédure du Comité mixte ou une notification, ne sont pas touchés.
+<sup>2.</sup> Nonobstant le par. 1, les renvois, dans un accord incorporé, à un délai concernant une procédure ou toute autre affaire administrative, comme un réexamen, une procédure du Comité mixte ou une notification, ne sont pas touchés.
 
-## ........1 **Art. 6**Comités mixtes
+#### Art. 6
 
-\1. Un Comité mixte institué par les Parties en application d’un accord incorporé veille en particulier au bon fonctionnement de cet accord incorporé à partir du moment où les accords commerciaux Suisse-UE cessent de s’appliquer au Royaume-Uni.
+**Comités mixtes**
 
-\2. Outre son rôle conformément au par. 1, le Comité mixte institué par les Parties en application de l’accord de libre-échange incorporé veille au bon fonctionnement du présent Instrument.
+<sup>1.</sup> Un Comité mixte institué par les Parties en application d’un accord incorporé veille en particulier au bon fonctionnement de cet accord incorporé à partir du moment où les accords commerciaux Suisse-UE cessent de s’appliquer au Royaume-Uni.
 
-\3. À des fins de bonne compréhension, les décisions adoptées par un Comité mixte institué en application d’un accord commercial Suisse–UE en vigueur immédiatement avant que cet accord commercial Suisse–UE cesse de s’appliquer au Royaume-Uni, et qui concernent les Parties au présent Accord, sont réputées avoir été adoptées, *mutatis mutandis*, par le Comité mixte institué par l’accord incorporé correspondant.
+<sup>2.</sup> Outre son rôle conformément au par. 1, le Comité mixte institué par les Parties en application de l’accord de libre-échange incorporé veille au bon fonctionnement du présent Instrument.
 
-## ........1 **Art. 7**Modifications
+<sup>3.</sup> À des fins de bonne compréhension, les décisions adoptées par un Comité mixte institué en application d’un accord commercial Suisse–UE en vigueur immédiatement avant que cet accord commercial Suisse–UE cesse de s’appliquer au Royaume-Uni, et qui concernent les Parties au présent Accord, sont réputées avoir été adoptées, *mutatis mutandis*, par le Comité mixte institué par l’accord incorporé correspondant.
 
-\1. Les Parties peuvent convenir, par écrit, de modifier le présent Accord. Une modification effectuée en application du présent article entre en vigueur le premier jour du deuxième mois suivant la notification de la seconde Partie informant de l’accomplissement de ses procédures internes, ou à un autre moment convenu par les Parties.
+#### Art. 7
 
-\2. Nonobstant le par. 1, un Comité mixte institué en application d’un accord incorporé peut décider de modifier une annexe, un appendice, un protocole ou une note de cet accord incorporé, sous réserve des dispositions pertinentes de l’accord incorporé concerné.
+**Modifications**
 
-## ........1 **Art. 8**Réexamen
+<sup>1.</sup> Les Parties peuvent convenir, par écrit, de modifier le présent Accord. Une modification effectuée en application du présent article entre en vigueur le premier jour du deuxième mois suivant la notification de la seconde Partie informant de l’accomplissement de ses procédures internes, ou à un autre moment convenu par les Parties.
+
+<sup>2.</sup> Nonobstant le par. 1, un Comité mixte institué en application d’un accord incorporé peut décider de modifier une annexe, un appendice, un protocole ou une note de cet accord incorporé, sous réserve des dispositions pertinentes de l’accord incorporé concerné.
+
+#### Art. 8
+
+**Réexamen**
 
 En vue de maintenir et de développer leurs étroites relations économiques et commerciales, les Parties mènent des entretiens exploratoires dans un délai de 24 mois à compter de l’entrée en vigueur du présent Accord pour remplacer, moderniser ou développer cet accord. Peuvent être envisagés par les Parties:
 
@@ -124,23 +148,27 @@ En vue de maintenir et de développer leurs étroites relations économiques et 
 - (b) des développements dans d’autres forums internationaux, en particulier au sein de l’OMC, et
 - (c) des domaines additionnels tels que la facilitation des échanges, le commerce des services, la protection des droits de propriété intellectuelle, le travail, l’environnement, les instruments de défense commerciale et le règlement des différends.
 
-## ........1 **Art. 9**Entrée en vigueur, application provisoire et extinction
+#### Art. 9
 
-\1. À l’exception des cas où elles prévoient un délai de dénonciation ou d’extinction, les dispositions des accords commerciaux Suisse–UE qui permettent l’authentification des textes, l’entrée en vigueur, l’application provisoire, la durée, la dénonciation ou l’extinction ne sont pas incorporées au présent Accord.
+**Entrée en vigueur, application provisoire et extinction**
 
-\2. Le présent Accord est approuvé par les Parties conformément à leurs procédures internes.
+<sup>1.</sup> À l’exception des cas où elles prévoient un délai de dénonciation ou d’extinction, les dispositions des accords commerciaux Suisse–UE qui permettent l’authentification des textes, l’entrée en vigueur, l’application provisoire, la durée, la dénonciation ou l’extinction ne sont pas incorporées au présent Accord.
 
-\3. Le présent Accord entre en vigueur lorsque les accords commerciaux Suisse–EU cessent de s’appliquer au Royaume-Uni, à condition que les Parties se soient notifiées mutuellement avant cette date l’accomplissement des procédures internes nécessaires à cet effet. Après cette date, le présent Accord entre en vigueur le premier jour du deuxième mois suivant la notification de la seconde Partie informant de l’accomplissement de ses procédures internes.
+<sup>2.</sup> Le présent Accord est approuvé par les Parties conformément à leurs procédures internes.
 
-\4. Jusqu’à l’entrée en vigueur du présent Accord, les Parties appliquent le présent Accord à titre provisoire, conformément à leurs exigences et procédures internes, dès que les accords commerciaux Suisse–UE cessent de s’appliquer au Royaume-Uni. Une Partie peut mettre fin à l’application provisoire du présent Accord par notification écrite à l’autre Partie. L’extinction prend effet le premier jour du deuxième mois suivant cette notification. Si le présent Accord est appliqué à titre provisoire, l’expression «entrée en vigueur du présent Accord» s’entend de la date à laquelle cette application provisoire prend effet.
+<sup>3.</sup> Le présent Accord entre en vigueur lorsque les accords commerciaux Suisse–EU cessent de s’appliquer au Royaume-Uni, à condition que les Parties se soient notifiées mutuellement avant cette date l’accomplissement des procédures internes nécessaires à cet effet. Après cette date, le présent Accord entre en vigueur le premier jour du deuxième mois suivant la notification de la seconde Partie informant de l’accomplissement de ses procédures internes.
 
-\5. Une Partie peut dénoncer le présent Accord, ou tout accord incorporé, en informant l’autre Partie de ses intentions. Le présent Accord, ou l’accord incorporé, que cette Partie entend dénoncer cesse d’être en vigueur douze mois après réception de la notification, à moins que l’accord incorporé qui est dénoncé n’en dispose autrement.
+<sup>4.</sup> Jusqu’à l’entrée en vigueur du présent Accord, les Parties appliquent le présent Accord à titre provisoire, conformément à leurs exigences et procédures internes, dès que les accords commerciaux Suisse–UE cessent de s’appliquer au Royaume-Uni. Une Partie peut mettre fin à l’application provisoire du présent Accord par notification écrite à l’autre Partie. L’extinction prend effet le premier jour du deuxième mois suivant cette notification. Si le présent Accord est appliqué à titre provisoire, l’expression «entrée en vigueur du présent Accord» s’entend de la date à laquelle cette application provisoire prend effet.
+
+<sup>5.</sup> Une Partie peut dénoncer le présent Accord, ou tout accord incorporé, en informant l’autre Partie de ses intentions. Le présent Accord, ou l’accord incorporé, que cette Partie entend dénoncer cesse d’être en vigueur douze mois après réception de la notification, à moins que l’accord incorporé qui est dénoncé n’en dispose autrement.
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet par leurs Gouvernements respectifs, ont signé le présent Accord. Fait à Berne le 11 février 2019 en deux exemplaires originaux, l’un en allemand et l’autre en anglais, les deux textes étant également authentiques. En cas de divergence, le texte anglais prévaut. Pour le Gouvernement de la Confédération suisse: Guy Parmelin Pour le Gouvernement du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord: Liam Fox
 
-Annexe 1
+Annexe 1*[^t-2]*
 
 ## Modifications de l’accord de libre-échange
+
+[^t-2]: Mise à jour par la D n° 2/2021 du comité mixte du commerce Suisse‒Royaume-Uni du 16 juil. 2021, appliquée de manière provisoire dès le 1<sup>er</sup> sept. 2021 ([RO 2021 546](https://fedlex.data.admin.ch/eli/oc/2021/546)).
 
 Aux fins du présent Accord, l’accord de libre-échange[^annex1-lvlu1-1] incorporé est modifié comme suit:
 
@@ -152,692 +180,1516 @@ Aux fins du présent Accord, l’accord de libre-échange[^annex1-lvlu1-1] incor
 - (b) L’art. 1, par. 3, n’est pas incorporé.
 - (c) Les art. 2, 3, 4 et 5 sont remplacés comme suit:
 
-### ........1 «**Art. 2**Application de mesures de compensation des prix
+### «**Art. 2**Application de mesures de compensation des prix
 
 [^annex1-lvlu1-1]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
 [^annex1-lvlu1-2]: [RS 0.632.401.23](https://fedlex.data.admin.ch/eli/cc/2005/238)
 
 Pour tenir compte de différences du coût des matières premières agricoles utilisées dans la fabrication des produits mentionnés au tableau I, l’accord n’exclut pas l’application de mesures de compensation des prix, à savoir le prélèvement d’éléments agricoles à l’importation de ces produits.
 
-### ........1 **Art. 3**Mesures de compensation des prix à l’importation
-
-\1. Une Partie peut prélever des éléments agricoles pour tenir compte de différences du coût des matières premières agricoles spécifiées au tableau III.
-
-\2. L’élément agricole appliqué par la Suisse pour les produits originaires du Royaume-Uni spécifiés au tableau I ne dépasse pas l’élément agricole que la Suisse applique pour les mêmes produits originaires de l’Union européenne conformément au Protocole n<sup>o</sup> 2 de l’accord de libre-échange. La Suisse ne prélève aucun droit de douane sur les produits originaires du Royaume-Uni spécifiés au tableau IV.
-
-\3. Si le prix de référence intérieur suisse pour les matières premières agricoles qui est fixé au Protocole n<sup>o</sup> 2 de l’accord de libre-échange est inférieur au prix intérieur de la matière première au Royaume-Uni pour cette matière première agricole, le Royaume-Uni peut, conformément à l’art. 2, appliquer des mesures de compensation des prix aux produits contenant cette matière première agricole. Dans ce cas, le Royaume-Uni notifie à la Suisse le prix intérieur correspondant de la matière première. L’élément agricole prélevé par le Royaume-Uni sur des produits originaires de la Suisse ne doit pas dépasser l’élément agricole que l’Union européenne prélève sur des produits originaires de la Suisse conformément au Protocole n<sup>o</sup> 2 de l’accord de libre-échange.
-
-\4. Nonobstant les par. 2 et 3, dans les cas où les prix intérieurs pour les matières premières agricoles au Royaume-Uni diffèrent considérablement du prix intérieur de référence de l’Union européenne conformément au Protocole n<sup>o</sup> 2 de l’accord de libre-échange, une Partie peut demander la tenue de consultations au sein du Comité mixte institué en application du présent Accord sur toutes les adaptions nécessaires des règles sur le prélèvement de l’élément agricole conformément au présent Protocole.
-
-### ........1 **Art. 4**Prix de référence
-
-La Suisse notifie au Royaume-Uni les prix de référence pour les matières premières agricoles de la Suisse et de l’Union européenne fixés dans le Protocole n<sup>o</sup> 2 de l’accord de libre-échange.
-
-### ........1 **Art. 5**Réexamen des prix
-
-À la demande d’une Partie, le Comité mixte réexamine les prix notifiés par les Parties, conformément à l’art. 3, par. 3, et à l’art. 4.»
-
-- (d) À l’art. 7, par. 1, «, les appendices des tableaux» n’est pas incorporé.
-- (e) Le tableau III est remplacé par:
-
-Tableau III
-
-Matières premières agricoles qui peuvent faire l’objet de mesures de compensation des prix
-
-<table>
-<tr><td>Matière première agricole</td></tr>
-<tr><td>Blé tendre</td></tr>
-<tr><td>Blé dur</td></tr>
-<tr><td>Seigle</td></tr>
-<tr><td>Orge</td></tr>
-<tr><td>Maïs</td></tr>
-<tr><td>Farine de blé tender</td></tr>
-<tr><td>Lait entier en poudre</td></tr>
-<tr><td>Lait écrémé en poudre</td></tr>
-<tr><td>Beurre</td></tr>
-<tr><td>Sucre blanc</td></tr>
-<tr><td>Œufs</td></tr>
-<tr><td>Pommes de terre fraîches</td></tr>
-<tr><td>Graisse végétale</td></tr>
-</table>
-
-- (f) Le tableau IV est remplacé par:
-
-Tableau IV
-
-Régime suisse des importations
-
-Le droit de douane pour les produits énumérés dans le tableau ci-dessous est égal à zéro.
-
-<table>
-<tr><th>N° du tarif douanier suisse dans le SH 2012</th><th>Observations</th></tr>
-<tr><td>1901.9099</td><td></td></tr>
-<tr><td>1904.9020</td><td></td></tr>
-<tr><td>1905.9040</td><td></td></tr>
-<tr><td>2103.2000</td><td></td></tr>
-<tr><td>ex 2103.9000</td><td>Autres que chutney de mangue liquide</td></tr>
-<tr><td>2104.1000</td><td></td></tr>
-<tr><td>2106.9010</td><td></td></tr>
-<tr><td>2106.9024</td><td></td></tr>
-<tr><td>2106.9029</td><td></td></tr>
-<tr><td>2106.9030</td><td></td></tr>
-<tr><td>2106.9040</td><td></td></tr>
-<tr><td>2106.9099</td><td></td></tr>
-<tr><td>ex 2202.9090</td><td>Contenant des composants laitiers des n<sup>o</sup> 0401 et 0402</td></tr>
-<tr><td>2208.9010</td><td></td></tr>
-<tr><td>2208.9021</td><td></td></tr>
-<tr><td>2208.9022</td><td></td></tr>
-<tr><td>2208.9099</td><td></td></tr>
-</table>
-
-\3. Le Protocole n<sup>o</sup> 3[^annex1-lvlu1-lvl........1-1] relatif à la définition de la notion de «produits originaires» et aux méthodes de coopération administrative est remplacé par le texte en appendice.
-
-\4. S’agissant du Protocole additionnel relatif à l’assistance administrative mutuelle en matière douanière[^annex1-lvlu1-lvl........1-2], la déclaration commune des parties au protocole additionnel, qui crée un groupe de travail chargé d’apporter une assistance dans la gestion du protocole additionnel, s’applique *mutatis mutandis* aux Parties au présent Accord et avec les mêmes effets juridiques, sous réserve des dispositions du présent Instrument.
-
-[^annex1-lvlu1-lvl........1-1]: [RS 0.632.401.31](https://fedlex.data.admin.ch/eli/cc/2013/584-2)
-[^annex1-lvlu1-lvl........1-2]: [RS 0.632.401.02](https://fedlex.data.admin.ch/eli/cc/1999/297)
-
 Appendice à l’annexe 1
 
-## «Protocole n<sup>o</sup> 3 relatif à la définition de la notion de «produits originaires» et aux méthodes de coopération administrative
+## Protocole n<sup>o</sup> 3
 
-### Titre I Dispositions générales
+relatif à la définition de la notion de «produits originaires» et aux méthodes de coopération administrative
 
-### ........1 **Art. 1**Définitions
+## Table des matières
+
+Titre I Dispositions générales
+
+Art. 1<sup>er</sup> Définitions
+
+Titre II Définition de la notion de produits originaires
+
+Art. 2 Conditions générales
+
+Art. 3 Produits entièrement obtenus
+
+Art. 4 Ouvraisons ou transformations suffisantes
+
+Art. 5 Règle de tolérance
+
+Art. 6 Ouvraisons ou transformations insuffisantes
+
+Art. 7 Cumul de l’origine
+
+Art. 8 Conditions d’application du cumul de l’origine
+
+Art. 9 Unité à prendre en considération
+
+Art. 10 Assortiments
+
+Art. 11 Éléments neutres
+
+Art. 12 Séparation comptable
+
+Titre III Conditions territoriales
+
+Art. 13 Principe de territorialité
+
+Art. 14 Non-modification
+
+Art. 15 Expositions
+
+Titre IV Ristournes ou exonérations
+
+Art. 16 Ristournes ou exonérations des droits de douane
+
+Titre V Preuve de l’origine
+
+Art. 17 Conditions générales
+
+Art. 18 Conditions d’établissement d’une déclaration d’origine
+
+Art. 19 Exportateur agréé
+
+Art. 20 Procédure de délivrance d’un certificat de circulation des marchandises EUR.1
+
+Art. 20<sup>bis</sup> Certificats de circulation des marchandises EUR.1 émis par voie électronique
+
+Art. 21 Certificats de circulation des marchandises EUR.1 délivrés a posteriori
+
+Art. 22 Délivrance d’un duplicata du certificat de circulation des marchandises EUR.1
+
+Art. 23 Validité de la preuve de l’origine
+
+Art. 24 Zones franches
+
+Art. 25 Exigences à l’importation
+
+Art. 26 Importation par envois échelonnés
+
+Art. 27 Exemption de la preuve de l’origine
+
+Art. 28 Discordances et erreurs formelles
+
+Art. 29 Déclarations du fournisseur
+
+Art. 30 Montants exprimés en euros
+
+Titre VI Principes de coopération et pièces justificatives
+
+Art. 31 Pièces justificatives, conservation des preuves de l’origine et des documents probants
+
+Art. 32 Règlement des différends
+
+Titre VII Coopération administrative
+
+Art. 33 Notification et coopération
+
+Art. 34 Contrôle de la preuve de l’origine
+
+Art. 35 Contrôle des déclarations du fournisseur
+
+Art. 36 Sanctions
+
+Titre VIII Application du protocole n<sup>o</sup> 3
+
+Art. 37 Espace économique européen
+
+Art. 38 Liechtenstein
+
+Art. 39 République de Saint-Marin
+
+Art. 40 Principauté d’Andorre
+
+Art. 41 Ceuta et Melilla
+
+Art. 42 Produits en transit ou en entrepôt
+
+## Liste des annexes
+
+Annexe I Notes introductives à la liste de l’annexe II
+
+Annexe II Liste des ouvraisons ou transformations à appliquer aux matières non originaires pour que le produit transformé puisse obtenir le caractère originaire
+
+Annexe III Texte de la déclaration d’origine
+
+Annexe IV Modèles de certificat de circulation des marchandises EUR.1 et de demande de certificat de circulation des marchandises EUR.1
+
+Annexe V Conditions particulières relatives aux produits originaires de Ceuta et Melilla
+
+Annexe VI Déclaration du fournisseur
+
+Annexe VII Déclaration à long terme du fournisseur
+
+Annexe VIII Liste des États
+
+## Titre I Dispositions générales
+
+#### Art. 1
+
+**<sup>er</sup> Définitions**
 
 Aux fins du présent protocole, on entend par:
 
-- (a) «fabrication»: toute ouvraison ou transformation, y compris l’assemblage ou les opérations spécifiques;
-- (b) «matière»: tout ingrédient, toute matière première, tout composant ou toute partie, etc., utilisé dans la fabrication d’un produit;
-- (c) «produit»: le produit obtenu, même s’il est destiné à être utilisé ultérieurement au cours d’une autre opération de fabrication;
-- (d) «marchandises»: les matières et les produits;
-- (e) «valeur en douane»: la valeur déterminée conformément à l’accord de 1994 relatif à la mise en œuvre de l’art. VII de l’accord général sur les tarifs douaniers et le commerce[^annexu1-lvlu1-titI-lvl........1-1];
-- (f) «prix départ usine»: le prix payé pour le produit départ usine au fabricant en Suisse ou au Royaume-Uni dans l’entreprise duquel s’est effectuée la dernière ouvraison ou transformation, y compris la valeur de toutes les matières mises en œuvre et déduction faite de toutes les taxes intérieures qui sont ou peuvent être restituées lorsque le produit obtenu est exporté;
-- (g) «valeur des matières»: la valeur en douane au moment de l’importation des matières non originaires mises en œuvre ou, si elle n’est pas connue ou ne peut être établie, le premier prix vérifiable payé pour les matières en Suisse ou au Royaume-Uni;
-- (h) «valeur des matières originaires»: la valeur de ces matières telle que définie à la lettre g) appliqué mutatis mutandis;
-- (i) «valeur ajoutée»: le prix départ usine, diminué de la valeur en douane de toutes les matières utilisées qui sont originaires des autres pays visés aux art. 3 et 4 avec lesquels le cumul est applicable, ou, si la valeur en douane n’est pas connue ou ne peut être établie, le premier prix vérifiable payé pour les matières en Suisse ou au Royaume-Uni;
-- (j) «chapitres» et «positions»: les chapitres et les positions (à quatre chiffres) uti-lisés dans la nomenclature qui constitue le système harmonisé de désignation et de codification des marchandises, dénommé dans le présent Protocole «Système harmonisé» ou «SH»;
-- (k) «classé»: le terme faisant référence au classement d’un produit ou d’une matière dans une position déterminée;
-- (l) «envoi»: les produits envoyés simultanément par un même exportateur à un même destinataire ou transportés sous le couvert d’un document de transport unique de l’exportateur au destinataire ou, en l’absence d’un tel document, couverts par une facture unique;
-- (m) «annexes incorporées I à IV*b*»: les annexes I à IV*b* de l’appendice I de la Convention régionale sur les règles d’origine préférentielles paneuroméditerranéennes, incorporées par l’art. 39 du présent Protocole;
-- (n) «territoires»: les territoires, y compris les eaux territoriales;
-- (o) «euro»: la monnaie unique de l’Union monétaire européenne.
+- a) «chapitres», «positions» et «sous-positions», les chapitres, les positions et les sous-positions (codes à quatre ou six chiffres) utilisés dans la nomenclature constituant le système harmonisé de désignation et de codification des marchandises (le «système harmonisé»), assorti des modifications visées par la recommandation du Conseil de coopération douanière du 26 juin 2004;
+- b) «classé», le terme faisant référence au classement de marchandises dans une position ou une sous-position spécifique du système harmonisé;
+- c)
 
-[^annexu1-lvlu1-titI-lvl........1-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+  «envoi», les produits qui sont:
 
-### Titre II Définition de la notion de «produits originaires»
+  - i) envoyés simultanément par un même exportateur à un même destinataire, ou
+  - ii) acheminés de l’exportateur au destinataire sous le couvert d’un document de transport unique ou, à défaut de ce document, sous le couvert d’une facture unique;
 
-### ........1 **Art. 2**Conditions générales
+- d) «valeur en douane», la valeur déterminée conformément à l’accord relatif à la mise en œuvre de l’art. VII de l’accord général sur les tarifs douaniers et le commerce de 1994 (accord de l’OMC sur la valeur en douane)[^annexu1-titI-1-1];
+- e) «prix départ usine», le prix payé pour le produit au fabricant de la partie dans l’entreprise duquel s’est effectuée la dernière ouvraison ou transformation, y compris la valeur de toutes les matières mises en œuvre et tous les autres coûts liés à sa production, et déduction faite de toutes les taxes intérieures qui sont ou peuvent être restituées lorsque le produit obtenu est exporté. Si la dernière ouvraison ou transformation a été sous-traitée à un fabricant, le terme «fabricant» désigne l’entreprise qui a fait appel au sous-traitant.
+- Si le prix effectivement payé ne reflète pas tous les coûts liés à la fabrication du produit qui sont effectivement supportés dans la partie, on entend par «prix départ usine» la somme de tous ces coûts, déduction faite de toutes les taxes intérieures qui sont ou peuvent être restituées lorsque le produit obtenu est exporté;
+- f) «matières fongibles» ou «produits fongibles», des matières ou produits qui sont de nature et de qualité commerciale identiques, qui possèdent les mêmes caractéristiques techniques et physiques et qui ne peuvent être distingués les uns des autres;
+- g) «marchandises», les matières et les produits;
+- h) «fabrication», toute ouvraison ou transformation, y compris l’assemblage;
+- i) «matière», tout ingrédient, toute matière première, tout composant ou toute partie, etc., utilisé dans la fabrication du produit;
+- j) «proportion maximale de matières non originaires», la proportion maximale de matières non originaires autorisée pour qu’il soit possible de considérer une fabrication comme une ouvraison ou transformation suffisante pour conférer au produit le caractère originaire. Elle peut être exprimée sous la forme d’un pourcentage du prix départ usine du produit ou d’un pourcentage du poids net de ces matières mises en œuvre, classées dans un groupe de chapitres, un chapitre, une position ou une sous-position spécifiques;
+- k) «produit», le produit obtenu, même s’il est destiné à être utilisé ultérieurement au cours d’une autre opération de fabrication;
+- l) «territoire», le territoire terrestre, les eaux intérieures et la mer territoriale d’une partie;
+- m) «valeur ajoutée», le prix départ usine du produit, diminué de la valeur en douane de toutes les matières utilisées qui sont originaires de l’autre partie ou de l’un des États visés à l’annexe VIII avec lequel le cumul est applicable, ou, si la valeur en douane n’est pas connue ou ne peut être établie, le premier prix vérifiable payé pour les matières dans la partie exportatrice;
+- n) «valeur des matières non originaires», la valeur en douane au moment de l’importation des matières non originaires mises en œuvre ou, si elle n’est pas connue ou ne peut être établie, le premier prix vérifiable payé pour les matières dans la partie exportatrice. Lorsque la valeur des matières originaires mises en œuvre doit être établie, les dispositions du présent point sont appliquées mutatis mutandis.
 
-\1. Aux fins de la mise en œuvre de cet accord, les produits suivants sont considérés comme originaires du Royaume-Uni:
+[^annexu1-titI-1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)annexe 1A.8
 
-- (a) les produits entièrement obtenus au Royaume-Uni au sens de l’art. 5, et
-- (b) les produits obtenus au Royaume-Uni et contenant des matières qui n’y ont pas été entièrement obtenues, à condition que ces matières aient fait l’objet, au Royaume-Uni, d’ouvraisons ou de transformations suffisantes au sens de l’art. 6.
+## Titre II Définition de la notion de produits originaires
 
-\2. Aux fins de la mise en œuvre de cet accord, les produits suivants sont considérés comme originaires de Suisse:
+#### Art. 2
 
-- (a) les produits entièrement obtenus en Suisse au sens de l’art. 5, et
-- (b) les produits obtenus en Suisse et contenant des matières qui n’y ont pas été entièrement obtenues, à condition que ces matières aient fait l’objet, en Suisse, d’ouvraisons ou de transformations suffisantes au sens de l’art. 6.
+**Conditions générales**
 
-### ........1 **Art. 3**Cumul au Royaume-Uni
+Aux fins de la mise en œuvre de l’accord, les produits suivants sont considérés comme originaires d’une partie:
 
-\1. Sans préjudice des dispositions de l’art. 2, par. 1, des produits sont considérés comme originaires du Royaume-Uni, s’ils y sont obtenus par incorporation de matières originaires de Suisse (y compris le Liechtenstein[^annexu1-lvlu1-titII-lvl........1-1]), d’Islande, de Norvège, de Turquie ou de l’Union européenne, à condition que ces matières aient fait l’objet, au Royaume-Uni, d’ouvraisons ou de transformations allant au-delà des opérations visées à l’art. 7. Il n’est pas exigé que ces matières y aient fait l’objet d’ouvraisons ou de transformations suffisantes.
+- (a) les produits entièrement obtenus dans une partie au sens de l’art. 3;
+- (b) les produits obtenus dans une partie et contenant des matières qui n’y ont pas été entièrement obtenues, à condition que ces matières aient fait l’objet, dans cette partie, d’ouvraisons ou de transformations suffisantes au sens de l’art. 4.
 
-\2. Sans préjudice des dispositions de l’art. 2, par. 1, des produits sont considérés comme originaires du Royaume-Uni s’ils y sont obtenus par incorporation de matières originaires de l’un des pays énumérés à l’annexe A du présent protocole, à condition que ces matières aient fait l’objet, au Royaume-Uni, d’ouvraisons ou de transformations allant au-delà des opérations visées à l’art. 7. Il n’est pas exigé que ces matières y aient fait l’objet d’ouvraisons ou de transformations suffisantes.
+#### Art. 3
 
-\3. Sans préjudice des dispositions de l’art. 2, par. 1, les ouvraisons ou transformations effectuées en Islande, en Norvège ou dans l’Union européenne sont considérées comme ayant été effectuées au Royaume-Uni si les produis obtenus font l’objet d’ouvraisons ou de transformations ultérieures au Royaume-Uni allant au-delà des opérations visées à l’art. 7.
+**Produits entièrement obtenus**
 
-\4. Lorsque les ouvraisons ou transformations effectuées au Royaume-Uni ne vont pas au-delà des opérations visées à l’art. 7, le produit obtenu est considéré comme originaire du Royaume-Uni aux fins du cumul visé aux paragraphes 1 et 2 uniquement lorsque la valeur ajoutée qui y a été apportée est supérieure à la valeur des matières utilisées originaires de l’un des autres pays. Si tel n’est pas le cas, le produit obtenu est considéré comme originaire du pays qui a fourni la plus forte valeur en matières originaires utilisées lors de la fabrication au Royaume-Uni.
+<sup>1.</sup>
 
-\5. Lorsque les ouvraisons ou transformations effectuées au Royaume-Uni ne vont pas au-delà des opérations visées à l’art. 7, le produit obtenu est considéré pour le cumul comme originaire du Royaume-Uni conformément au par. 3 uniquement lorsque la valeur ajoutée y est supérieure à la valeur ajoutée dans l’un des autres pays.
+Sont considérés comme entièrement obtenus dans une partie:
 
-\6. Les produits originaires d’un des pays mentionnés aux par. 1 et 2 qui ne subissent aucune ouvraison ou transformation au Royaume-Uni conservent leur origine lorsqu’ils sont exportés vers un de ces pays.
+- a) les produits minéraux et l’eau naturelle extraits de son sol ou de ses fonds marins ou océaniques;
+- b) les végétaux, y compris les plantes aquatiques, et produits du règne végétal qui y sont cultivés ou récoltés;
+- c) les animaux vivants qui y sont nés et élevés;
+- d) les produits provenant d’animaux vivants qui y font l’objet d’un élevage;
+- e) les produits issus d’animaux abattus qui y sont nés et y ont été élevés;
+- f) les produits de la chasse ou de la pêche qui y sont pratiquées;
+- g) les produits de l’aquaculture, si les poissons, crustacés, mollusques et autres invertébrés aquatiques y sont nés ou y ont été élevés à partir d’œufs, de larves, d’alevins ou de juvéniles;
+- h) les produits de la pêche maritime et autres produits tirés de la mer par ses navires hors de toute mer territoriale;
+- i) les produits fabriqués à bord de ses navires-usines, exclusivement à partir de produits visés à l’al. h);
+- j) les articles usagés y collectés ne pouvant servir qu’à la récupération des matières premières;
+- k) les déchets provenant d’opérations manufacturières qui y sont effectuées;
+- l) les produits extraits du sol ou du sous-sol marin situé hors de ses eaux territoriales, pour autant que la partie dispose de droits exclusifs d’exploitation;
+- m) les marchandises qui y sont fabriquées exclusivement à partir de produits visés aux al. a) à l).
 
-\7. Le cumul prévu au présent article ne peut être appliqué qu’aux conditions suivantes:
+<sup>2.</sup>
 
-- (a) un accord commercial préférentiel conforme à l’art. XXIV de l’accord général sur les tarifs douaniers et le commerce de 1994[^annexu1-lvlu1-titII-lvl........1-2] existe entre les pays participant à l’acquisition du caractère originaire et le pays de destination[^annexu1-lvlu1-titII-lvl........1-3];
-- (b) les matières et produits ont acquis leur caractère originaire par l’application de règles d’origine identiques à celles qui figurent dans le présent protocole, et
-- (c) des avis précisant que les conditions nécessaires à l’application du cumul sont remplies ont été publiées dans les Parties.
+Au par. 1, al. h) et i), les termes «ses navires» et «ses navires-usines» ne s’appliquent qu’aux navires et navires-usines qui satisfont à chacune des conditions suivantes:
 
-\8. Le Royaume-Uni fournit à la Suisse les détails des accords pertinents, y compris leurs dates d’entrée en vigueur et les règles d’origine qui y correspondent, appliqués avec les autres pays mentionnés aux par. 1 et 2.
+- a) ils sont immatriculés dans la partie exportatrice ou importatrice;
+- b) ils battent pavillon de la partie exportatrice ou importatrice;
+- c)
 
-[^annexu1-lvlu1-titII-lvl........1-1]: En raison de l’accord douanier entre le Liechtenstein et la Suisse, les produits originaires du Liechtenstein sont considérés comme originaires de Suisse.
-[^annexu1-lvlu1-titII-lvl........1-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
-[^annexu1-lvlu1-titII-lvl........1-3]: Les Parties reconnaissent vouloir maintenir les droits et obligations existant entre elles, et qu’il est prévu que le Royaume-Uni et l’Union européenne concluent un accord préférentiel conforme à l’art. XXIV de l’Accord général sur les tarifs douaniers et le commerce de 1994. À la lumière de ce qui précède, à moins et jusqu’à ce que cet accord soit applicable, le cumul (prévu aux par. 1 à 6 du présent article) avec l’Union européenne peut néanmoins continuer de s’appliquer pendant une période transitoire de trois ans si des conventions sur la coopération administrative garantissant une application en bonne et due forme du présent article existent entre le Royaume-Uni et l’Union européenne, et si un accord commercial préférentiel conforme à l’art. XXIV du GATT 1994 existe entre l’Union européenne et la Suisse. Au moins six mois avant la fin de la période transitoire, les Parties se consultent sur l’opportunité de prolonger le délai. Cette disposition peut être modifiée, et la période transitoire être prolongée, par décision du Comité mixte. Si une telle modification est nécessaire, les Parties s’efforcent de prendre des dispositions qui ne soient pas moins favorables au commerce entre elles.
+  ils remplissent l’une des conditions suivantes:
 
-### ........1 **Art. 4**Cumul en Suisse
+  - i) ils appartiennent, à au moins 50 %, à des ressortissants de la partie exportatrice ou importatrice ou d’un État membre de l’Union européenne, ou
+  - ii)
 
-\1. Sans préjudice des dispositions de l’art. 2, par. 2, des produits sont considérés comme originaires de Suisse, s’ils y sont obtenus par incorporation de matières originaires du Royaume-Uni, d’Islande, de Norvège, de Turquie ou de l’Union européenne, à condition que ces matières aient fait l’objet, dans la Suisse, d’ouvraisons ou de transformations allant au-delà des opérations visées à l’art. 7. Il n’est pas exigé que ces matières y aient fait l’objet d’ouvraisons ou de transformations suffisantes.
+    ils appartiennent à des sociétés:
 
-\2. Sans préjudice des dispositions de l’art. 2, par. 2, des produits sont considérés comme originaires de Suisse s’ils y sont obtenus par incorporation de matières originaires de l’un des pays énumérés à l’annexe A du présent protocole, à condition que ces matières aient fait l’objet, dans la Suisse, d’ouvraisons ou de transformations allant au-delà des opérations visées à l’art. 7. Il n’est pas exigé que ces matières y aient fait l’objet d’ouvraisons ou de transformations suffisantes.
+    - – dont le siège social et le lieu principal d’activité économique sont situés dans la partie exportatrice ou importatrice ou un État membre de l’Union européenne, et
+    - – qui sont détenues au moins à 50 % par la partie exportatrice ou importatrice ou un État membre de l’Union européenne, ou par des collectivités publiques ou des ressortissants de ces États.
 
-\3. Lorsque les ouvraisons ou transformations effectuées dans la Suisse ne vont pas au-delà des opérations visées à l’art. 7, le produit obtenu est considéré comme originaire de Suisse aux fins du cumul visé aux par. 1 et 2 uniquement lorsque la valeur ajoutée qui y a été apportée est supérieure à la valeur des matières utilisées originaires de l’une des autres parties. Si tel n’est pas le cas, le produit obtenu est considéré comme originaire du pays qui a fourni la plus forte valeur en matières originaires utilisées lors de la fabrication dans la Suisse.
+<sup>3.</sup> Aux fins du par. 2, lorsque la Suisse est concernée, les expressions «partie exportatrice» et «partie importatrice» incluent l’Islande, le Liechtenstein et la Norvège.
 
-\4. Les produits originaires de l’un des pays mentionnés aux par. 1 et 2 qui ne subissent aucune ouvraison ou transformation en Suisse conservent leur origine lorsqu’ils sont exportés vers l’un de ces pays.
+#### Art. 4
 
-\5. Le cumul prévu au présent article ne peut être appliqué qu’aux conditions suivantes:
+**Ouvraisons ou transformations suffisantes**
 
-- (a) un accord commercial préférentiel conforme à l’art. XXIV de l’accord général sur les tarifs douaniers et le Commerce de 1994 existe entre les pays participant à l’acquisition du caractère originaire et le pays de destination[^annexu1-lvlu1-titII-lvl........1-4];
-- (b) les matières et produits ont acquis leur caractère originaire par l’application de règles d’origine identiques à celles qui figurent dans le présent protocole, et
-- (c) des avis précisant que les conditions nécessaires à l’application du cumul sont remplies ont été publiées dans les Parties.
+<sup>1.</sup> Sans préjudice du par. 3 et de l’art. 6, les produits non entièrement obtenus dans une partie sont considérés comme suffisamment ouvrés ou transformés lorsque les conditions fixées dans la liste de l’annexe II pour les marchandises concernées sont remplies.
 
-\6. La Suisse fournit au Royaume-Uni les détails des accords pertinents, notamment leur date d’entrée en vigueur et les règles d’origine qui y correspondent, appliqués avec les autres pays mentionnés aux par. 1 et 2.
+<sup>2.</sup> Si un produit ayant acquis le caractère originaire dans une partie conformément au par. 1 est mis en œuvre dans la fabrication d’un autre produit, il n’est pas tenu compte des matières non originaires qui peuvent avoir été mises en œuvre dans sa fabrication.
 
-[^annexu1-lvlu1-titII-lvl........1-4]: Les Parties reconnaissent vouloir maintenir les droits et obligations existant entre elles, et qu’il est prévu que le Royaume-Uni et l’Union européenne concluent un accord préférentiel conforme à l’art. XXIV de l’Accord général sur les tarifs douaniers et le commerce de 1994. À la lumière de ce qui précède, à moins et jusqu’à ce que cet accord soit applicable, le cumul (prévu aux par. 1 à 4 du présent article) avec l’Union européenne peut néanmoins continuer de s’appliquer pendant une période transitoire de trois ans si des conventions sur la coopération administrative garantissant une application en bonne et due forme du présent article existent entre le Royaume-Uni et l’Union européenne, et si un accord commercial préférentiel conforme à l’art. XXIV du GATT 1994 existe entre l’Union européenne et la Suisse. Au moins six mois avant la fin de la période transitoire, les Parties se consultent sur l’opportunité de prolonger le délai. Cette disposition peut être modifiée, et la période transitoire être prolongée, par décision du Comité mixte. Si une telle modification est nécessaire, les Parties s’efforcent de prendre des dispositions qui ne soient pas moins favorables au commerce entre elles.
+<sup>3.</sup> Le respect des exigences du par. 1 est vérifié pour chaque produit.
 
-### ........1 **Art. 5**Produits entièrement obtenus
+Toutefois, lorsque la règle applicable se fonde sur le respect d’une proportion maximale de matières non originaires, les autorités douanières de la partie exportatrice peuvent autoriser les exportateurs à calculer le prix départ usine du produit et la valeur des matières non originaires sur une base moyenne, comme indiqué au par. 4 du présent article, afin de prendre en compte les fluctuations des coûts et des taux de change.
 
-\1. Sont considérés comme entièrement obtenus en Suisse ou au Royaume-Uni:
+<sup>4.</sup> Si le par. 3, deuxième alinéa, s’applique, le prix moyen départ usine du produit et la valeur moyenne des matières non originaires mises en œuvre sont calculés, respectivement, sur la base de la somme des prix départ usine facturés pour toutes les ventes de produits identiques effectuées au cours de l’année fiscale précédente et de la somme des valeurs de toutes les matières non originaires mises en œuvre dans la fabrication de produits identiques au cours de l’année fiscale précédente telle qu’elle est définie dans la partie exportatrice; si l’on ne dispose pas des chiffres correspondant à un exercice fiscal complet, il est possible de se limiter à une période plus brève, qui ne peut toutefois pas être inférieure à trois mois.
 
-- (a) les produits minéraux extraits de son sol ou de son fond de mer ou d’océan;
-- (b) les produits du règne végétal qui y sont récoltés;
-- (c) les animaux vivants qui y sont nés et élevés;
-- (d) les produits provenant d’animaux vivants qui y font l’objet d’un élevage;
-- (e) les produits de la chasse ou de la pêche qui y sont pratiquées;
-- (f) les produits de la pêche maritime et autres produits tirés de la mer en dehors des eaux territoriales par les navires des Parties;
-- (g) les produits fabriqués à bord de ses navires-usines, exclusivement à partir de produits visés à la let. f);
-- (h) les articles usagés y collectés et ne pouvant servir qu’à la récupération des matières premières, y compris les pneumatiques usagés ne pouvant servir qu’au rechapage ou ne pouvant être utilisés que comme déchets;
-- (i) les déchets provenant d’opérations manufacturières qui y sont effectuées;
-- (j) les produits extraits du sol ou du sous-sol marin situé hors de ses eaux territoriales, pour autant qu’ils ait des droits exclusifs d’exploitation sur ce sol ou sous-sol, et
-- (k) les marchandises qui y sont fabriquées exclusivement à partir de produits visés aux let. a) à j).
+<sup>5.</sup> Les exportateurs ayant opté pour le calcul sur la base de moyennes appliquent systématiquement cette méthode au long de l’année suivant l’année fiscale de référence ou, le cas échéant, au long de l’année suivant la période plus courte utilisée comme référence. Ils peuvent cesser d’appliquer cette méthode s’ils constatent, sur une année fiscale donnée ou sur une période représentative plus courte d’au moins trois mois, la disparition des fluctuations de coûts ou de taux de change qui justifiaient le recours à ladite méthode.
 
-\2. Les expressions «ses navires» et «ses navires-usines» au par. 1, points f) et g), ne sont applicables qu’aux navires et navires-usines:
+<sup>6.</sup> Aux fins de la vérification du respect de la proportion maximale de matières non originaires, les moyennes visées au par. 4 du présent article sont utilisées en lieu et place, respectivement, du prix départ usine et de la valeur des matières non originaires.
 
-- (a) qui sont immatriculés ou enregistrés en Suisse ou au Royaume-Uni;
-- (b) qui battent pavillon de la Suisse ou du Royaume-Uni;
-- (c) qui appartiennent pour moitié au moins à des ressortissants de la Suisse, du Royaume-Uni ou d’un État membre de l’Union européenne, ou à une société dont le siège principal est situé dans l’un de ces états, dont le ou les gérants, le président du conseil d’administration ou de surveillance et la majorité des membres de ces conseils sont des ressortissants du Royaume-Uni, d’un État membre de l’Union européenne ou de la Suisse et dont, en outre, en ce qui concerne les sociétés de personnes ou les sociétés à responsabilité limitée, la moitié du capital au moins appartient aux États concernés, à des collectivités publiques ou à des ressortissants de ces États;
-- (d) dont l’état-major est composé de ressortissants de la Suisse, du Royaume-Uni ou d’un État membre de l’Union européenne, et
-- (e) dont l’équipage est composé, dans une proportion de 75 % au moins, de la Suisse, du Royaume-Uni ou d’un État membre de l’Union européenne.
+#### Art. 5
 
-### ........1 **Art. 6**Produits suffisamment ouvrés ou transformés
+**Règle de tolérance**
 
-\1. Aux fins de l’art. 2, les produits non entièrement obtenus sont considérés comme suffisamment ouvrés ou transformés lorsque les conditions indiquées dans la liste de l’annexe II incorporé sont remplies.
+<sup>1.</sup>
 
-Les conditions spécifiées à l’annexe II incorporée indiquent, pour tous les produits couverts par le présent Accord, l’ouvraison ou la transformation qui doit être effectuée sur les matières non originaires mises en œuvre dans la fabrication de ces produits; elles s’appliquent exclusivement à ces matières. Il s’ensuit que, si un produit qui a acquis le caractère originaire en remplissant les conditions fixées dans la liste est mis en œuvre dans la fabrication d’un autre produit, les conditions applicables au produit dans lequel il est incorporé ne lui sont pas applicables, et il n’est pas tenu compte des matières non originaires qui peuvent avoir été mises en œuvre dans sa fabrication.
+Par dérogation à l’art. 4 et sous réserve des par. 2 et 3, les matières non originaires qui, conformément aux conditions fixées dans la liste de l’annexe II, ne doivent pas être mises en œuvre dans la fabrication d’un produit déterminé peuvent néanmoins l’être, à condition que leur poids net total ou la valeur évaluée pour le produit en question ne dépasse pas:
 
-\2. Par dérogation au par. 1, les matières non originaires qui, conformément aux conditions fixées dans la liste de l’annexe II incorporé pour un produit déterminé, ne doivent pas être mises en œuvre dans la fabrication de ce produit peuvent néanmoins l’être, à condition que:
+- a) 15 % du poids net du produit relevant des chap. 2 et 4 à 24 du système harmonisé, autres que les produits de la pêche transformés du chapitre 16;
+- b) 15 % du prix départ usine du produit pour les produits autres que ceux visés à l’al. a).
+- Le présent paragraphe ne s’applique pas aux produits relevant des chap. 50 à 63 du système harmonisé, pour lesquels s’appliquent les tolérances mentionnées dans les notes 6 et 7 de l’annexe I.
 
-- (a) leur valeur totale n’excède pas 10 % du prix départ usine du produit, et
-- (b) l’application du présent paragraphe n’entraîne pas un dépassement du ou des pourcentages qui pourraient être indiqués dans l’annexe II incorporée en ce qui concerne la valeur maximale des matières non originaires.
+<sup>2.</sup> Le par. 1 n’autorise aucun dépassement du ou des pourcentages correspondant à la proportion maximale de matières non originaires indiquée dans les règles fixées dans la liste de l’annexe II.
 
-Le présent paragraphe ne s’applique pas aux produits relevant des chap. 50 à 63 du Système harmonisé.
+<sup>3.</sup> Les par. 1 et 2 ne s’appliquent pas aux produits qui sont entièrement obtenus dans une partie au sens de l’art. 3. Toutefois, sans préjudice de l’art. 6 et de l’art. 9, par. 1, la tolérance prévue par ces dispositions s’applique néanmoins au produit pour lequel la règle fixée dans la liste de l’annexe II exige que les matières qui sont utilisées dans la fabrication de ce produit soient entièrement obtenues.
 
-\3. Les par. 1 et 2 s’appliquent sous réserve de l’art. 7.
+#### Art. 6
 
-### ........1 **Art. 7**Ouvraisons ou transformations insuffisantes
+**Ouvraisons ou transformations insuffisantes**
 
-\1. Sans préjudice du par. 2, les opérations suivantes sont considérées comme des ouvraisons ou des transformations insuffisantes pour conférer le caractère de produits originaires, que les conditions de l’art. 6 soient ou non remplies:
+<sup>1.</sup>
 
-- (a) les manipulations destinées à assurer la conservation en l’état des produits pendant leur transport et leur stockage;
-- (b) les divisions et réunions de colis;
-- (c) le lavage, le nettoyage; le dépoussiérage, l’enlèvement d’oxyde, d’huile, de peinture ou d’autres revêtements;
-- (d) le repassage ou le pressage des textiles;
-- (e) les opérations simples de peinture et de polissage;
-- (f) le dépanouillage, le blanchiment partiel ou complet, le lissage et le glaçage des céréales ou du riz;
-- (g) les opérations consistant à ajouter des colorants au sucre ou à former des morceaux de sucre;
-- (h) l’épluchage, le dénoyautage ou l’écorçage des fruits, des noixet des légumes;
-- (i) l’aiguisage, le simple ponçage ou le simple coupage;
-- (j) le criblage, le tamisage, le triage, le classement, le calibrage, l’assortiment (y compris la composition de jeux de marchandises);
-- (k) la simple mise en bouteilles, en canettes, en flacons, en sacs, en étuis, en boîtes ou la fixation sur cartes, sur planchettes ou toute autre opération simple de conditionnement;
-- (l) l’apposition ou l’impression sur les produits ou sur leurs emballages de marques, d’étiquettes, de logos et d’autres signes distinctifs similaires;
-- (m) le simple mélange de produits, même d’espèces différentes;
-- (n) le mélange de sucre et de toute autre matière;
-- (o) le simple assemblage de parties en vue de constituer un produit complet ou le démontage de produits en parties;
-- (p) le cumul de deux ou plusieurs opérations visées aux points (a) à (n), ou
-- (q) l’abattage des animaux.
+Sans préjudice du par. 2, les opérations suivantes sont considérées comme des ouvraisons ou transformations insuffisantes pour conférer le caractère de produits originaires, que les conditions de l’art. 4 soient ou non remplies:
 
-\2. Toutes les opérations effectuées en Suisse ou au Royaume-Uni sur un produit déterminé seront considérées conjointement pour déterminer si l’ouvraison ou la transformation subie par ce produit doit être jugée insuffisante au sens du par. 1.
+- a) les manipulations destinées à assurer la conservation en l’état des produits pendant leur transport et leur stockage;
+- b) les divisions et réunions de colis;
+- c) le lavage, le nettoyage; le dépoussiérage, l’enlèvement d’oxyde, d’huile, de peinture ou d’autres revêtements;
+- d) le repassage ou le pressage des textiles;
+- e) les opérations simples de peinture et de polissage;
+- f) le décorticage et la mouture partielle ou totale du riz; le lissage et le glaçage des céréales ou du riz;
+- g) les opérations consistant à colorer ou aromatiser le sucre, ou à le mouler en morceaux; la mouture totale ou partielle du sucre cristallisé;
+- h) l’épluchage, le dénoyautage ou l’écorçage des fruits et des légumes;
+- i) l’aiguisage, le simple broyage ou le simple coupage;
+- j) le criblage, le tamisage, le triage, le classement, le calibrage, l’assortiment; (y compris la composition de jeux de marchandises);
+- k) la simple mise en bouteilles, en canettes, en flacons, en sacs, en étuis, en boîtes, sur cartes, sur planchettes ou toute autre opération simple de conditionnement;
+- l) l’apposition ou l’impression, sur les produits ou sur leurs emballages, de marques, d’étiquettes, de logos ou d’autres signes distinctifs similaires;
+- m) le simple mélange de produits, même d’espèces différentes;
+- n) le mélange de sucre et de toute autre matière;
+- o) la simple addition d’eau, la dilution, la déshydratation ou la dénaturation des produits;
+- p) le simple assemblage de parties en vue de constituer un produit complet ou le démontage de produits en parties;
+- q) l’abattage des animaux, ou
+- r) le cumul de deux ou plusieurs opérations visées aux al. a) à q).
 
-### ........1 **Art. 8**Unité à prendre en considération
+<sup>2.</sup> Toutes les opérations effectuées dans la partie exportatrice sur un produit déterminé sont prises en considération pour déterminer si l’ouvraison ou la transformation subie par ce produit doit être considérée comme insuffisante au sens du par. 1.
 
-\1. L’unité à prendre en considération pour l’application du présent Protocole est le produit retenu comme unité de base pour la détermination du classement fondée sur la nomenclature du Système harmonisé.
+#### Art. 7
 
-Il s’ensuit que:
+**Cumul de l’origine**
 
-- (a) lorsqu’un produit composé d’un groupe ou assemblage d’articles est classé dans une seule position aux termes du Système harmonisé, l’ensemble constitue l’unité à prendre en considération, et
-- (b) lorsqu’un envoi est composé d’un certain nombre de produits identiques classés sous la même position du Système harmonisé, les dispositions du présent Protocole s’appliquent à chacun de ces produits pris individuellement.
+<sup>1.</sup> Sans préjudice de l’art. 2, des produits sont considérés comme originaires de la partie exportatrice lorsqu’ils sont exportés vers l’autre partie s’ils y sont obtenus par incorporation de matières originaires de cette autre partie ou de l’un des États visés à l’annexe VIII, à condition que ces matières aient fait l’objet, dans la partie exportatrice, d’ouvraisons ou de transformations allant au-delà des opérations visées à l’art. 6. Il n’est pas exigé que ces matières y aient fait l’objet d’ouvraisons ou de transformations suffisantes.
 
-\2. Lorsque, en application de la règle générale n<sup>o</sup> 5 du Système harmonisé, les emballages sont classés avec le produit qu’ils contiennent, ils doivent être considérés comme formant un tout avec le produit aux fins de la détermination de l’origine.
+<sup>2.</sup> Lorsque les ouvraisons ou transformations effectuées dans la partie exportatrice ne vont pas au-delà des opérations visées à l’art. 6, le produit obtenu par incorporation de matières originaires de cette autre partie ou de l’un des États visés à l’annexe VIII est considéré comme originaire de la partie exportatrice uniquement lorsque la valeur ajoutée y apportée est supérieure à la valeur des matières utilisées originaires de cette autre partie ou de l’un des États visés à l’annexe VIII. Si tel n’est pas le cas, le produit obtenu est considéré comme originaire de la partie ou de l’un des États visés à l’annexe VIII qui a fourni la plus forte valeur en matières originaires utilisées lors de la fabrication dans la partie exportatrice.
 
-### ........1 **Art. 9**Accessoires, pièces de rechange et outillage
+<sup>3.</sup> Sans préjudice de l’art. 2 et à l’exclusion des produits relevant des chap. 50 à 63, les ouvraisons ou transformations effectuées dans la partie qui n’est pas la partie exportatrice ou dans l’un des États visés à l’annexe VIII sont considérées comme ayant été effectuées dans la partie exportatrice si les produits obtenus font ensuite l’objet d’ouvraisons ou de transformations dans ladite partie exportatrice.
 
-Les accessoires, pièces de rechange et outillages livrés avec un matériel, une machine, un appareil ou un véhicule qui font partie de l’équipement normal et sont compris dans le prix ou ne sont pas facturés à part sont considérés comme formant un tout avec le matériel, la machine, l’appareil ou le véhicule considéré.
+<sup>4.</sup> Sans préjudice de l’art. 2, en ce qui concerne les produits visés aux chap. 50 à 63 et uniquement dans le cadre du commerce bilatéral entre les parties, les ouvraisons ou transformations effectuées dans la partie importatrice sont considérées comme ayant été effectuées dans la partie exportatrice si les produits font ensuite l’objet d’ouvraisons ou de transformations dans ladite partie exportatrice.
 
-### ........1 **Art. 10**Assortiments
+Aux fins du présent paragraphe, les participants au processus de stabilisation et d’association de l’Union européenne et la République de Moldova doivent être considérés comme une seule zone de cumul.
 
-Les assortiments au sens de la règle générale n<sup>o</sup> 3 du système harmonisé sont considérés comme originaires, à condition que tous les articles entrant dans leur composition soient originaires. Toutefois, un assortiment composé d’articles originaires et non originaires est considéré comme originaire dans son ensemble, à condition que la valeur des articles non originaires n’excède pas 15 % du prix départ usine de l’assortiment.
+<sup>5.</sup> Chaque partie étend l’application du par. 3 à l’importation de produits relevant des chap. 50 à 63 de manière unilatérale.
 
-### ........1 **Art. 11**Éléments neutres
+<sup>6.</sup> Aux fins du cumul au sens des par. 3 et 4, les produits originaires ne sont considérés comme originaires de la partie exportatrice que s’ils y ont fait l’objet d’ouvraisons ou de transformations allant au-delà des opérations visées à l’art. 6.
 
-Pour déterminer si un produit est originaire, il n’est pas nécessaire de déterminer l’origine des éléments suivants qui pourraient être utilisés dans sa fabrication:
+<sup>7.</sup> Les produits originaires des parties ou de l’un des États visés à l’annexe VIII qui ne subissent aucune ouvraison ou transformation dans la partie exportatrice conservent leur origine lorsqu’ils sont exportés vers l’autre partie.
 
-- (a) énergie et combustibles;
-- (b) installations et équipements;
-- (c) machines et outils, ou
-- (d) marchandises qui n’entrent pas, et ne sont pas destinées à entrer dans la composition finale du produit.
+#### Art. 8
 
-### Titre III Conditions territoriales
+**Conditions d’application du cumul de l’origine**
 
-### ........1 **Art. 12**Principe de territorialité
+<sup>1.</sup>
 
-\1. Les conditions énoncées au titre II en ce qui concerne l’acquisition du caractère originaire doivent être remplies sans interruption en Suisse ou au Royaume-Uni, sous réserve des art. 3 et 4 et du par. 3 du présent article.
+Le cumul prévu à l’art. 7 ne peut être appliqué qu’aux conditions suivantes:
 
-\2. Sous réserve des art. 3 et 4, lorsque des marchandises originaires exportées de Suisse ou du Royaume-Uni vers un autre pays y sont retournées, elles sont considérées comme étant non originaires, à moins qu’il puisse être démontré à la satisfaction des autorités douanières:
+- a) un accord commercial préférentiel conforme à l’art. XXIV de l’Accord général sur les tarifs douaniers et le commerce de 1994 (GATT) existe entre l’un des États visés à l’annexe VIII participant à l’acquisition du caractère originaire et chaque partie, et
+- b) les marchandises ont acquis leur caractère originaire par l’application de règles d’origine identiques à celles qui figurent dans le présent protocole.
 
-- (a) que les marchandises retournées sont les mêmes que celles qui ont été exportées, et
-- (b) qu’elles n’ont pas subi d’opérations au-delà de ce qui est nécessaire pour assurer leur conservation en l’état pendant qu’elles étaient dans cet autre paysou qu’elles étaient exportées.
+<sup>2.</sup> Nonobstant le par. 1, al. b), le cumul prévu à l’art. 7 peut être appliqué aux biens ayant acquis leur caractère originaire par l’application des règles d’origine conformément à l’appendice I et aux dispositions pertinentes de l’appendice II de la Convention régionale sur les règles d’origine préférentielles paneuroméditerranéennes ou d’autres règles d’origine dont les parties peuvent convenir par la suite[^annexu1-titII-8-1].
 
-\3. L’acquisition du caractère originaire dans les conditions énoncées au titre II n’est pas affectée par une ouvraison ou transformation effectuée en dehors de Suisse ou du Royaume-Uni sur des matières exportées de Suisse ou du Royaume-Uni et ultérieurement réimportées, à condition:
+<sup>3.</sup> Des avis précisant que les conditions nécessaires à l’application du cumul sont remplies sont publiés dans une publication officielle de chaque partie, selon ses propres procédures.
 
-- (a) que lesdites matières soient entièrement obtenues en Suisse et au Royaume-Uni ou qu’elles y aient subi, avant leur exportation, une ouvraison ou transformation allant au-delà des opérations visées à l’art. 7, et
-- (b)
+Le cumul prévu à l’art. 7 s’applique à partir de la date indiquée dans ces avis.
 
-  qu’il puisse être démontré, à la satisfaction des autorités douanières:
+<sup>4.</sup> La preuve d’origine porte la mention en anglais «CUMULATION APPLIED WITH [nom de la partie ou de l’État visé à l’annexe XVIII concerné, en anglais]» lorsque les produits ont obtenu le caractère originaire par application du cumul de l’origine conformément à l’art. 7.
 
-  - i) que les marchandises réimportées résultent de l’ouvraison ou de la transformation des matières exportées, et
-  - ii) que la valeur ajoutée totale acquise en dehors de Suisse ou du Royaume-Uni par l’application du présent article n’excède pas 10 % du prix départ usine du produit final pour lequel le caractère originaire est allégué.
+Dans les cas où un certificat de circulation des marchandises EUR.1 est utilisé comme preuve de l’origine, cette mention est inscrite dans la case 7 du certificat de circulation des marchandises EUR.1.
 
-\4. Aux fins de l’application du par. 3, les conditions énoncées au titre II concernant l’acquisition du caractère originaire ne s’appliquent pas aux ouvraisons ou aux transformations effectuées en dehors de Suisse ou du Royaume-Uni. Néanmoins, lorsque, dans l’annexe II incorporée, une règle fixant la valeur maximale de toutes matières non originaires mises en œuvre est appliquée pour la détermination du caractère originaire du produit final, la valeur totale des matières non originaires mises en œuvre sur le territoire de la Partie concernée et la valeur ajoutée totale acquise en dehors de Suisse ou du Royaume-Uni par application du présent article ne doivent pas excéder le pourcentage indiqué.
+<sup>5.</sup> Les parties peuvent décider de déroger à l’obligation d’inclure la mention visée au par. 4[^annexu1-titII-8-2].
 
-\5. Aux fins de l’application des par. 3 et 4, par «valeur ajoutée totale», on entend l’ensemble des coûts accumulés en dehors de Suisse ou du Royaume-Uni, y compris la valeur des matières qui y sont ajoutées.
+<sup>6.</sup> Les parties conviennent de réexaminer périodiquement la possibilité d’étendre le cumul aux États ayant conclu un accord de libre-échange avec chaque partie. Le premier réexamen a lieu au plus tard deux ans après l’entrée en vigueur de la décision n<sup>o</sup> 2/2021 du Comité mixte du commerce Suisse‒Royaume-Uni.
 
-\6. Les par. 3 et 4 ne s’appliquent pas aux produits qui ne remplissent pas les conditions énoncées dans l’annexe II incorporée ou qui ne peuvent être considérés comme suffisamment ouvrés ou transformés qu’en application de la tolérance générale de l’art. 6, par. 2.
+[^annexu1-titII-8-1]: Les parties conviennent que le présent paragraphe s’applique à l’Accord de commerce et de coopération du 24 décembre 2020 entre l’Union européenne et la Communauté européenne de l’énergie atomique, d’une part, et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, d’autre part, et à l’Accord de libre-échange du 29 décembre 2020 entre le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord et la République de Turquie, à partir de l’application provisoire de la décision n<sup>o</sup> 2/2021 du Comité mixte du commerce Suisse‒Royaume-Uni.
+[^annexu1-titII-8-2]: Les parties conviennent de déroger à l’obligation d’inclure sur la preuve d’origine la mention visée à l’art. 8, par. 4.
 
-\7. Les par. 3 et 4 ne s’appliquent pas aux produits relevant des chap. 50 à 63 du Système harmonisé.
+#### Art. 9
 
-\8. Toutes les ouvraisons ou transformations effectuées en dehors de Suisse ou du Royaume-Uni dans les conditions prévues par le présent article sont réalisées sous couvert du régime de perfectionnement passif ou de régimes similaires.
+**Unité à prendre en considération**
 
-### ........1 **Art. 13**Transport direct
+<sup>1.</sup>
 
-\1. Le régime préférentiel prévu par cet accord s’applique uniquement aux produits remplissant les conditions du présent Protocole qui sont transportés directement entre les Parties ou à travers les territoires des autres pays et territoires avec lesquels le cumul est applicable conformément aux art. 3 et 4. Toutefois, le transport de produits peut s’effectuer à travers d’autres territoires, le cas échéant avec transbordement ou entreposage temporaire dans ces territoires, pour autant que les produits restent sous la surveillance des autorités douanières du pays de transit ou d’entreposage et qu’ils ne subissent pas d’autres opérations que le déchargement, le rechargement ou le fractionnement, ou toute autre opération destinée à assurer leur conservation en l’état. Le transport par canalisation des produits originaires peut s’effectuer à travers des territoires autres que ceux des Parties.
+L’unité à prendre en considération pour l’application du présent protocole est le produit retenu comme unité de base pour la détermination du classement fondée sur la nomenclature du système harmonisé. Il s’ensuit que:
 
-\2. Les envois qui se trouvent en transit sur le territoire de l’UE peuvent être fractionnés, pour autant qu’ils restent sous la surveillance des autorités douanières de l’État membre où le transit est effectué.
+- a) lorsqu’un produit composé d’un groupe ou d’un assemblage d’articles est classé dans une seule position aux termes du système harmonisé, l’ensemble constitue l’unité à prendre en considération;
+- b) lorsqu’un envoi est composé d’un certain nombre de produits identiques classés dans la même position du système harmonisé, chacun de ces produits doit être pris en considération lors de l’application des dispositions du présent protocole.
 
-\3. La preuve que les conditions visées aux par. 1 et 2 ont été réunies est fournie par la production aux autorités douanières de la Partie importatrice:
+<sup>2.</sup> Lorsque, en application de la règle générale n<sup>o</sup> 5 du système harmonisé, les emballages sont classés avec le produit qu’ils contiennent, ils doivent être considérés comme formant un tout avec le produit aux fins de la détermination de l’origine.
 
-- (a) soit d’un document de transport sous le couvert duquel s’est effectuée la traversée de la Partie exportatrice au pays de transit;
-- (b)
+<sup>3.</sup> Les accessoires, pièces de rechange et outillages livrés avec un matériel, une machine, un appareil ou un véhicule, qui font partie de l’équipement normal et sont compris dans le prix départ usine, sont considérés comme formant un tout avec le matériel, la machine, l’appareil ou le véhicule considéré.
 
-  soit d’une attestation délivrée par les autorités douanières du pays de transit contenant:
+#### Art. 10
 
-  - (i) une description exacte des produits,
-  - (ii) les dates du déchargement et du rechargement des produits, avec indication des navires ou autres moyens de transport utilisés, et
-  - (iii) la certification des conditions dans lesquelles les produits ont séjourné dans le pays de transit;
+**Assortiments**
 
-- (c) soit, à défaut, de tout autre document probant.
+<sup>1.</sup> Les assortiments au sens de la règle générale n<sup>o</sup> 3 du système harmonisé sont considérés comme originaires, à condition que tous les articles entrant dans leur composition soient originaires.
 
-### ........1 **Art. 14**Expositions
+<sup>2.</sup> Nonobstant le par. 1, lorsqu’un assortiment est composé de produits originaires et non originaires, l’ensemble de l’assortiment sera réputé originaire à condition que la valeur des articles non originaires n’excède pas 15 % du prix départ usine de l’assortiment.
 
-\1. Les produits originaires envoyés pour être exposés dans un pays autre que ceux visés aux art. 3 et 4 avec lesquels le cumul est applicable et qui sont vendus, à la fin de l’exposition, en vue d’être importés en Suisse ou au Royaume-Uni, bénéficient à l’importation des dispositions du présent Accord, pour autant qu’il soit démontré à la satisfaction des autorités douanières:
+#### Art. 11
 
-- (a) qu’un exportateur a expédié ces produits de Suisse ou du Royaume-Uni vers le pays de l’exposition et les y a exposés;
-- (b) que cet exportateur a vendu les produits ou les a cédés à un destinataire en Suisse ou au Royaume-Uni;
-- (c) que les produits ont été expédiés durant l’exposition ou immédiatement après dans l’état où ils ont été expédiés en vue de l’exposition, et
-- (d) que, depuis le moment où ils ont été expédiés en vue de l’exposition, les produits n’ont pas été utilisés à des fins autres que la présentation à cette exposition.
+**Éléments neutres**
 
-\2. Une preuve de l’origine est délivrée ou établie conformément au titre V et produite selon les modalités habituelles aux autorités douanières de la Partie importatrice. La désignation et l’adresse de l’exposition y sont indiquées. Au besoin, il peut être demandé une preuve documentaire supplémentaire de la nature des produits et des conditions dans lesquelles ils ont été exposés.
+Pour déterminer si un produit est originaire, il n’est pas tenu compte de l’origine des éléments suivants susceptibles d’être utilisés dans sa fabrication:
 
-\3. Le par. 1 est applicable à toutes les expositions, foires ou manifestations publiques analogues à caractère commercial, industriel, agricole ou artisanal, autres que celles qui sont organisées à des fins privées dans des locaux ou des magasins commerciaux et ayant pour objet la vente de produits étrangers, pendant lesquelles les produits restent sous contrôle de la douane.
+- a) énergie et combustibles;
+- b) installations et équipements;
+- c) machines et outils, ou
+- d) toute autre marchandise qui n’entre pas et n’est pas destinée à entrer dans la composition finale du produit.
 
-### Titre IV Ristourne ou exonération des droits de douane
+#### Art. 12
 
-### ........1 **Art. 15**Interdiction des ristournes ou exonérations des droits de douane
+**Séparation comptable**
 
-\1. Les matières non originaires mises en œuvre dans la fabrication de produits originaires de Suisse ou du Royaume-Uni pour lesquels une preuve de l’origine est délivrée ou établie conformément au titre V ne bénéficient, ni en Suisse, ni au Royaume-Uni, d’une ristourne ou d’une exonération des droits de douane sous quelque forme que ce soit.
+<sup>1.</sup> Si des matières fongibles originaires et non originaires sont utilisées dans l’ouvraison ou la transformation d’un produit, les opérateurs économiques peuvent assurer la gestion de produits en utilisant la méthode de la séparation comptable, sans conserver les matières dans des stocks séparés.
 
-\2. L’interdiction visée au par. 1 s’applique à tout arrangement en vue du remboursement, de la remise ou du non-paiement partiel ou total des droits de douane ou des taxes d’effet équivalent applicables en Suisse ou au Royaume-Uni aux matières mises en œuvre dans la fabrication si ce remboursement, cette remise ou ce non-paiement s’applique, expressément ou en fait, lorsque les produits obtenus à partir desdites matières sont exportés et non destinés à la consommation nationale.
+<sup>2.</sup> Les opérateurs économiques peuvent assurer la gestion des produits originaires et non originaires de la position 1701 en utilisant la méthode de la séparation comptable, sans conserver les produits dans des stocks séparés.
 
-\3. L’exportateur de produits couverts par une preuve de l’origine doit pouvoir produire à tout moment, à la demande des autorités douanières, tous les documents appropriés établissant qu’aucune ristourne na été octroyée pour les matières non originaires mises en œuvre dans la fabrication de ces produits, et que tous les droits de douane ou taxes d’effet équivalent applicables à ces matières ont été effectivement acquittés.
+<sup>3.</sup> La partie exportatrice peut exiger que l’application de la séparation comptable soit soumise à autorisation préalable des autorités douanières. Les autorités douanières peuvent accorder l’autorisation subordonnée à toutes conditions qu’elles estiment appropriées et doivent surveiller l’utilisation qui est faite de l’autorisation. Les autorités douanières peuvent retirer l’autorisation lorsque le bénéficiaire en fait un usage abusif de quelque façon que ce soit ou ne remplit pas l’une des autres conditions fixées dans le présent protocole.
 
-\4. Les par. 1 à 3 s’appliquent également aux emballages au sens de l’art. 8, par. 2, aux accessoires, pièces de rechange et outillages au sens de l’art. 9, ainsi qu’aux produits d’assortiments au sens de l’art. 10, dès lors qu’ils ne sont pas originaires.
+L’usage de la séparation comptable n’est permis que s’il est garanti qu’à tout moment, le nombre de produits obtenus qui peuvent être considérés comme originaires de la partie exportatrice n’est pas supérieur au nombre qui aurait été obtenu sur la base d’une méthode de séparation physique des stocks.
 
-\5. Les dispositions des par. 1 à 4 s’appliquent uniquement aux matières couvertes par le présent Accord.
+La méthode est appliquée et son utilisation enregistrée conformément aux principes de comptabilité généralement admis qui sont applicables dans la partie exportatrice.
 
-### Titre V Preuve de l’origine
+<sup>4.</sup> Le bénéficiaire de la méthode visée aux par. 1 et 2 doit établir ou demander des preuves de l’origine pour la quantité de produits qui peuvent être considérés comme originaires de la partie exportatrice. À la demande des autorités douanières, le bénéficiaire est tenu de fournir une déclaration sur la façon dont ces quantités ont été gérées.
 
-### ........1 **Art. 16**Dispositions générales
+## Titre III Conditions territoriales
 
-\1. Les produits originaires du Royaume-Uni, à leur importation en Suisse, et les produits originaires de la Suisse, à leur importation au Royaume-Uni, bénéficient des dispositions du présent Accord pour autant que soit présenté:
+#### Art. 13
 
-- (a) un certificat de circulation des marchandises EUR.1, dont le modèle figure à l’annexe III*a* incorporée;
-- (b) un certificat de circulation des marchandises EUR-MED, dont le modèle figure à l’annexe III*b* incorporée, ou
-- (c) dans les cas visés à l’art. 22, par. 1, une déclaration (ci-après dénommée «déclaration d’origine» ou «déclaration d’origine EUR-MED») établie par l’exportateur sur une facture, un bon de livraison ou tout autre document commercial, décrivant les produits concernés d’une manière suffisamment détaillée pour pouvoir les identifier. Le texte des déclarations d’origine figure à l’annexe IV*a* et IV*b* incorporée.
+**Principe de territorialité**
 
-\2. Nonobstant le par. 1, dans les cas visés à l’art. 27, les produits originaires au sens du présent Protocole sont admis au bénéfice de cet accord sans qu’il soit nécessaire de produire aucune des preuves de l’origine visées au par. 1.
+<sup>1.</sup> Sous réserve des art. 7 et 8 et du par. 3, les conditions énoncées au titre II doivent être remplies sans interruption dans la partie concernée.
 
-\3. Nonobstant l’art. 17, par. 5, et l’art. 22, par. 3, la preuve de l’origine peut être un certificat de circulation des marchandises EUR.1 ou une déclaration d’origine si le cumul n’implique que le Royaume-Uni, l’UE, les États de l’AELE, les Îles Féroé, la Turquie, la République d’Albanie, la Bosnie et Herzégovine, l’ancienne République yougoslave de Macédoine, le Monténégro, la République de Serbie, la République du Kosovo, la République de Moldova ou la Géorgie.
+<sup>2.</sup>
 
-### ........1 **Art. 17**Procédure de délivrance d’un certificat de circulation des marchandises EUR.1 ou EUR-MED
+Si des produits originaires exportés d’une partie vers un autre pays y sont retournés, ils sont considérés comme étant non originaires, à moins qu’il puisse être démontré, à la satisfaction des autorités douanières:
 
-\1. Le certificat de circulation des marchandises EUR.1 ou EUR-MED est délivré par les autorités douanières de la Partie exportatrice sur demande écrite établie par l’exportateur ou, sous la responsabilité de celui-ci, par son représentant habilité.
+- a) que les produits retournés sont les mêmes que ceux qui ont été exportés, et
+- b) qu’ils n’ont pas subi d’opérations allant au-delà de ce qui est nécessaire pour assurer leur conservation en l’état pendant qu’ils se trouvaient dans ce pays ou qu’ils étaient exportés.
 
-\2. Aux fins de l’application du par. 1, l’exportateur ou son représentant habilité remplit le certificat de circulation des marchandises EUR.1 ou EUR.MED et le formulaire de demande, dont les modèles figurent aux annexes III*a* et III*b* incorporées. Ces formulaires sont complétés dans une des langues officielles d’une Partie, conformément aux dispositions du droit interne du pays d’exportation. Les formulaires remplis à la main sont complétés à l’encre et en caractères d’imprimerie. Les produits sont désignés dans la case réservée à cet effet, sans interligne. Lorsque la case n’est pas complètement remplie, un trait horizontal doit être tiré en dessous de la dernière ligne de la désignation, l’espace non utilisé devant être bâtonné.
+<sup>3.</sup>
 
-\3. L’exportateur sollicitant la délivrance d’un certificat de circulation des marchandises EUR.1 ou EUR-MED doit pouvoir présenter à tout moment, à la demande des autorités douanières du pays d’exportation où le certificat de circulation des marchandises EUR.1 ou EUR-MED est délivré, tous les documents appropriés prouvant le caractère originaire des produits concernés ainsi que le respect des autres conditions prévues par le présent Protocole.
+L’acquisition du caractère originaire dans les conditions énoncées au titre II n’est pas affectée par une ouvraison ou transformation effectuée en dehors de la partie exportatrice sur des matières exportées de cette partie et ultérieurement réimportées, à condition que:
 
-\4. Sans préjudice du par. 5, un certificat de circulation des marchandises EUR.1 est délivré par les autorités douanières de Suisse ou du Royaume-Uni:
+- a) ces matières soient entièrement obtenues dans la partie contractante exportatrice ou qu’elles y aient subi une ouvraison ou transformation allant au-delà des opérations énumérées à l’art. 6 avant leur exportation, et
+- b)
 
-- (a) si les produits concernés peuvent être considérés comme des produits originaires de Suisse, du Royaume-Uni ou de l’un des pays visés aux par. 1 des art. 3 et 4, avec lesquels le cumul est applicable, sans application du cumul avec des matières originaires de l’un des pays visés aux par. 2 des art. 3 et 4, et qu’ils remplissent les autres conditions du présent Protocole, ou
-- (b) si les produits concernés peuvent être considérés comme des produits originaires de l’un des pays visés aux par. 2 des art. 3 et 4, avec lesquels le cumul est applicable, sans application du cumul avec des matières originaires de l’un des pays visés aux art. 3 et 4, et qu’ils remplissent les autres conditions du présent Protocole, pour autant qu’un certificat de circulation des marchandises EUR-MED ou une déclaration d’origine EUR-MED ait été établi ou délivré dans le pays d’origine.
+  qu’il puisse être démontré à la satisfaction des autorités douanières:
 
-\5. Un certificat de circulation des marchandises EUR-MED est délivré par les autorités douanières de Suisse ou du Royaume-Uni si les produits concernés peuvent être considérés comme des produits originaires de Suisse, du Royaume-Uni ou de l’un des pays visés aux art. 3 et 4 avec lesquels le cumul est applicable et qu’ils remplissent les conditions du présent Protocole et:
+  - i) que les produits réimportés résultent de l’ouvraison ou de la transformation des matières exportées, et
+  - ii) que la valeur ajoutée totale acquise en dehors de la partie exportatrice par l’application du présent article n’excède pas 10 % du prix départ usine du produit final pour lequel le caractère originaire est allégué.
 
-- (a) si le cumul a été appliqué avec des matières originaires de l’un des pays visés aux art. 3, par. 2, et 4, par. 2, ou
-- (b) si les produits peuvent être mis en œuvre dans le cadre du cumul comme matières dans la fabrication de produits destinés à être exportés vers l’un des autres pays visés aux art. 3, par. 2, et 4, par. 2, ou
-- (c) si les produits peuvent être réexportés du pays de destination vers l’un des pays visés aux art. 3, par. 2, et 4, par. 2.
+<sup>4.</sup> Aux fins de l’application du par. 3, les conditions énumérées au titre II concernant l’acquisition du caractère originaire ne s’appliquent pas aux ouvraisons ou aux transformations effectuées en dehors de la partie exportatrice. Néanmoins, lorsque, dans la liste de l’annexe II, une règle fixant la valeur maximale de toutes les matières non originaires incorporées est appliquée pour la détermination du caractère originaire du produit final, la valeur totale des matières non originaires incorporées sur le territoire de la partie exportatrice, conjuguées à la valeur ajoutée totale acquise en dehors de ladite partie par application du présent article ne doivent pas excéder le pourcentage indiqué.
 
-\6. Le certificat de circulation des marchandises EUR-MED doit comporter l’une des déclarations suivantes, en anglais, dans la case 7:
+<sup>5.</sup> Aux fins de l’application des par. 3 et 4, on entend par «valeur ajoutée totale» l’ensemble des coûts accumulés en dehors de la partie exportatrice, y compris la valeur des matières qui y sont incorporées.
 
-- (a)
+<sup>6.</sup> Les par. 3 et 4 ne s’appliquent pas aux produits qui ne remplissent pas les conditions énoncées dans la liste de l’annexe II ou qui ne peuvent être considérés comme suffisamment ouvrés ou transformés que si la tolérance générale de l’art. 4 est appliquée.
 
-  si l’origine a été obtenue par l’application du cumul avec l’un ou plusieurs des pays visés aux art. 3 et 4:
+<sup>7.</sup> Les ouvraisons ou transformations relevant du présent article qui sont effectuées en dehors de la partie exportatrice sont réalisées sous couvert du régime de perfectionnement passif ou de régimes similaires.
 
-  - [tab] «CUMULATION APPLIED WITH ...» (nom du/des pays)
+#### Art. 14
 
-- (b)
+**Non-modification**
 
-  si l’origine a été obtenue sans l’application du cumul avec l’un ou plusieurs pays visés aux art. 3 et 4:
+<sup>1.</sup> Le régime préférentiel prévu par le présent accord s’applique uniquement aux produits remplissant les conditions du présent protocole et déclaré à l’importation dans une des parties, pour autant que ces produits soient les mêmes que ceux exportés de depuis la partie exportatrice. Ils doivent n’avoir subi aucune modification ou transformation d’aucune sorte, ni fait l’objet d’opérations autres que pour assurer leur conservation en l’état ou l’ajout ou l’apposition de marques, d’étiquettes, de scellés ou toute autre documentation spécifique pour garantir le respect des exigences nationales de la partie importatrice effectuées sous la surveillance des autorités douanières des pays tiers de transit ou de fractionnement, avant d’être déclarés en vue de leur mise en libre pratique.
 
-  - [tab] «NO CUMULATION APPLIED»
+<sup>2.</sup> Il est possible de procéder à l’entreposage des produits ou des envois à condition qu’ils restent sous la surveillance des autorités douanières des pays tiers de transit.
 
-\7. Les autorités douanières délivrant des certificats de circulation des marchandises EUR.1 ou EUR-MED prennent toutes les mesures nécessaires afin de contrôler le caractère originaire des produits et le respect des autres conditions prévues par le présent Protocole. À cet effet, elles sont habilitées à exiger toutes les preuves et à effectuer tous les contrôles des comptes de l’exportateur ou tout autre contrôle qu’elles estiment utiles. Elles doivent aussi veiller à ce que les formulaires visés au par. 2 soient dûment remplis. Elles vérifient notamment si le cadre réservé à la désignation des marchandises a été rempli de façon à exclure toute possibilité d’adjonction frauduleuse.
+<sup>3.</sup> Sans préjudice du titre V du présent protocole, il est possible de procéder au fractionnement des envois, à condition que ceux-ci restent sous la surveillance des autorités douanières des pays tiers de fractionnement.
 
-\8. La date de délivrance du certificat de circulation des marchandises EUR.1 ou EUR-MED doit être indiquée dans la case 11 du certificat.
+<sup>4.</sup>
 
-\9. Le certificat de circulation des marchandises EUR.1 ou EUR-MED est délivré par les autorités douanières et tenu à la disposition de l’exportateur dès que l’exportation réelle est effectuée ou assurée.
+En cas de doute, la partie importatrice peut demander à l’importateur ou à son représentant de présenter à tout moment tous les documents appropriés pour apporter la preuve de la conformité au présent article, qui peut être fournie par tout document justificatif, et notamment:
 
-### ........1 **Art. 18**Certificats de circulation des marchandises EUR.1 ou EUR-MED délivrés a posteriori
+- a) des documents de transport contractuels tels que des connaissements;
+- b) des preuves factuelles ou concrètes basées sur le marquage ou la numérotation des emballages;
+- c) un certificat de non-manipulation fourni par les autorités douanières des pays de transit ou de fractionnement ou tout autre document prouvant que les marchandises sont restées sous la surveillance des autorités douanières des pays de transit ou de fractionnement, ou
+- d) toute preuve liée aux marchandises elles-mêmes.
 
-\1. Par dérogation à l’art. 17, par. 9, un certificat de circulation des marchandises EUR.1 ou EUR-MED peut, à titre exceptionnel, être délivré après l’exportation des produits auxquels il se rapporte:
+#### Art. 15
 
-- (a) s’il n’a pas été délivré lors de l’exportation par suite d’erreurs, d’omissions involontaires ou de circonstances particulières, ou
-- (b) s’il est démontré, à la satisfaction des autorités douanières, qu’un certificat de circulation des marchandises EUR.1 ou EUR-MED a été délivré, mais qu’il n’a pas été accepté à l’importation pour des raisons techniques.
+**Expositions**
 
-\2. Par dérogation à l’art. 17, par. 9, un certificat de circulation des marchandises EUR-MED peut être délivré après l’exportation des produits auxquels il se rapporte et pour lesquels un certificat de circulation des marchandises EUR.1 a été délivré au moment de l’exportation, pour autant qu’il soit démontré, à la satisfaction des autorités douanières, que les conditions visées à l’art. 17, par. 5, sont remplies.
+<sup>1.</sup>
 
-\3. Pour l’application des par. 1 et 2, l’exportateur doit indiquer dans sa demande le lieu et la date de l’exportation des produits auxquels le certificat de circulation des marchandises EUR.1 ou EUR-MED se rapporte, ainsi que les raisons de sa demande.
+Les produits originaires envoyés pour être exposés dans un pays autre que ceux visés aux art. 7 et 8 avec lesquels le cumul est applicable et qui sont vendus, à la fin de l’exposition, en vue d’être importés dans une partie, bénéficient à l’importation du présent accord, pour autant qu’il soit démontré, à la satisfaction des autorités douanières:
 
-\4. Les autorités douanières ne peuvent délivrer un certificat de circulation des marchandises EUR.1 ou EUR-MED a posteriori qu’après avoir vérifié que les indications contenues dans la demande de l’exportateur sont conformes à celles du dossier correspondant.
+- a) qu’un exportateur a expédié ces produits d’une partie vers le pays de l’exposition et les y a exposés;
+- b) que les produits ont été vendus ou cédés par cet exportateur à un destinataire de l’autre partie;
+- c) que les produits ont été expédiés durant l’exposition ou immédiatement après dans l’état où ils ont été expédiés en vue de l’exposition, et
+- d) que, depuis le moment où ils ont été expédiés en vue de l’exposition, les produits n’ont pas été utilisés à des fins autres que la présentation à cette exposition.
 
-\5. Les certificats de circulation des marchandises EUR.1 ou EUR-MED délivrés a posteriori conformément au par. 1 doivent être revêtus de la mention suivante, en anglais:
+<sup>2.</sup> Une preuve de l’origine est délivrée ou établie conformément au titre V du présent protocole et produite selon les modalités habituelles aux autorités douanières de la partie importatrice. La désignation et l’adresse de l’exposition y sont indiquées. Au besoin, il peut être demandé une preuve documentaire supplémentaire des conditions dans lesquelles les produits ont été exposés.
 
-- «ISSUED RETROSPECTIVELY»
+<sup>3.</sup> Le par. 1 est applicable à toutes les expositions, foires ou manifestations publiques analogues, de caractère commercial, industriel, agricole ou artisanal, autres que celles qui sont organisées à des fins privées dans des locaux ou magasins commerciaux et qui ont pour objet la vente de produits étrangers, et pendant lesquelles les produits restent sous contrôle de la douane.
 
-\6. Les certificats de circulation des marchandises EUR-MED délivrés a posteriori en application du par. 2 doivent être revêtus de la mention suivante, en anglais:
+## Titre IV Ristournes ou exonérations
 
-- «ISSUED RETROSPECTIVELY (Original EUR.1 no ... [date et lieu de la délivrance])»
+#### Art. 16
 
-\7. La mention visée au par. 5 est apposée dans la case 7 du certificat de circulation des marchandises EUR.1 ou EUR-MED.
+**Ristournes ou exonérations des droits de douane**
 
-### ........1 **Art. 19**Délivrance d’un duplicata du certificat de circulation des marchandises EUR.1 ou EUR-MED
+<sup>1.</sup> Les matières non originaires mises en œuvre dans la fabrication de produits relevant des chap. 50 à 63 du système harmonisé, originaires d’une partie et pour lesquels une preuve de l’origine est délivrée ou établie conformément au titre V du présent protocole, ne bénéficient pas, dans la partie exportatrice, d’une ristourne ou d’une exonération des droits de douane sous quelque forme que ce soit.
 
-\1. En cas de vol, de perte ou de destruction d’un certificat de circulation des marchandises EUR.1 ou EUR-MED, l’exportateur peut demander un duplicata aux autorités douanières qui l’ont délivré sur la base des documents d’exportation qui sont en leur possession.
+<sup>2.</sup> L’interdiction prévue au par. 1 s’applique à tout arrangement en vue du remboursement, de la remise ou du non-paiement partiel ou total des droits de douane ou des taxes d’effet équivalent applicables dans la partie exportatrice aux matières mises en œuvre dans la fabrication si ce remboursement, cette remise ou ce non-paiement s’applique, expressément ou en fait, lorsque les produits obtenus à partir de ces matières sont exportés et non lorsqu’ils sont destinés à la consommation nationale.
 
-\2. Le duplicata délivré conformément au par. 1 doit être revêtu de la mention suivante, en anglais:
+<sup>3.</sup> L’exportateur de produits couverts par une preuve de l’origine doit pouvoir produire à tout moment, à la demande des autorités douanières, tous les documents appropriés établissant qu’aucune ristourne n’a été obtenue pour les matières non originaires utilisées dans la fabrication des produits concernés, et que tous les droits de douane ou taxes d’effet équivalent applicables à ces matières ont été effectivement acquittés.
 
-- «DUPLICATE»
+<sup>4.</sup> L’interdiction prévue au par. 1 ne s’applique pas aux échanges entre les parties pour les produits qui ont obtenu le caractère originaire par application du cumul de l’origine couvert par l’art. 7, par. 4 ou 5.
 
-\3. La mention visée au par. 2 est apposée dans la case 7 du certificat de circulation des marchandises EUR.1 ou EUR-MED.
+## Titre V Preuve de l’origine
 
-\4. Le duplicata, sur lequel est reproduite la date de délivrance du certificat de circulation des marchandises EUR.1 ou EUR-MED original, prend effet à partir de cette date.
+#### Art. 17
 
-### ........1 **Art. 20**Délivrance de certificats de circulation des marchandises EUR.1 ou EUR-MED sur la base d’une preuve de l’origine délivrée ou établie antérieurement
+**Conditions générales**
 
-Lorsque des produits originaires sont placés sous le contrôle d’un bureau de douane en Suisse ou au Royaume-Uni, il est possible de remplacer la preuve de l’origine initiale par un ou plusieurs certificats de circulation des marchandises EUR.1 ou EUR-MED aux fins de l’envoi de ces produits ou de certains d’entre eux ailleurs en Suisse ou au Royaume-Uni. Le ou les certificats de circulation des marchandises EUR.1 ou EUR-MED de remplacement sont délivrés par le bureau de douane sous le contrôle duquel sont placés les produits.
+<sup>1.</sup>
 
-### ........1 **Art. 21**Séparation comptable
+Les produits originaires d’une des parties, lorsqu’ils sont importés dans l’autre partie, bénéficient des dispositions du présent accord, sur présentation d’une des preuves de l’origine suivantes:
 
-\1. Lorsque la tenue de stocks distincts de matières originaires et non originaires qui sont identiques et interchangeables entraîne un coût ou des difficultés matérielles considérables, les autorités douanières peuvent, à la demande écrite des intéressés, autoriser le recours à la méthode dite de la séparation comptable pour gérer de tels stocks.
+- a) un certificat de circulation des marchandises EUR.1, dont le modèle figure à l’annexe IV du présent protocole;
+- b) dans les cas précisés à l’art. 18, par. 1, une déclaration, ci-après dénommée «déclaration d’origine», établie par l’exportateur sur une facture, un bon de livraison ou tout autre document commercial décrivant les produits concernés de manière suffisamment détaillée pour pouvoir les identifier; le texte de la déclaration d’origine figure à l’annexe III du présent protocole.
 
-\2. Cette méthode doit garantir que, pour une période de référence donnée, le nombre de produits obtenus qui peuvent être considérés comme «originaires» est identique à celui qui aurait été obtenu s’il y avait eu séparation physique des stocks.
+<sup>2.</sup> Nonobstant le par. 1, dans les cas visés à l’art. 27, les produits originaires au sens du présent protocole sont admis au bénéfice des dispositions du présent accord sans qu’il soit nécessaire de produire aucune des preuves de l’origine visées au par. 1.
 
-\3. Les autorités douanières peuvent subordonner l’octroi de l’autorisation aux conditions qu’elles estiment appropriées.
+<sup>3.</sup> Sans préjudice du par. 1 du présent article, les parties peuvent convenir, dans le cadre du commerce préférentiel entre elles, de remplacer les preuves de l’origine visées au par. 1, al. a) et b), par des déclarations d’origine établies par des exportateurs enregistrés dans une base de données électronique conformément à la législation nationale des parties.
 
-\4. La méthode est appliquée et son utilisation enregistrée conformément aux principes de comptabilité généralement admis dans la Partie où le produit a été fabriqué.
+Le recours à une déclaration d’origine établie par les exportateurs enregistrés dans une base de données électronique ayant fait l’objet d’un accord entre les parties, entre une partie et l’un des États visés à l’annexe VIII ou entre des États visés à l’Annexe VIII n’empêche pas l’utilisation du cumul avec une partie ou l’un des États énoncés à l’annexe VIII.
 
-\5. Le bénéficiaire de cet allègement peut, selon le cas, établir ou demander des preuves de l’origine pour la quantité de produits qui peuvent être considérés comme originaires. À la demande des autorités douanières, le bénéficiaire est tenu de fournir une déclaration sur la façon dont ces quantités ont été gérées.
+<sup>4.</sup> Aux fins de l’application de l’art. 7, en cas d’application de l’art. 8, par. 5, l’exportateur établi dans une partie qui délivre une preuve de l’origine sur la base d’une autre preuve de l’origine qui a été exemptée de l’obligation d’inclure la mention visée à l’art. 8, par. 4, doit prendre toutes les mesures nécessaires pour garantir que les conditions d’application du cumul sont remplies et être disposé à présenter aux autorités douanières tous les documents pertinents.
 
-\6. Les autorités douanières contrôlent l’utilisation faite de l’autorisation et peuvent révoquer celle-ci, dès lors que le bénéficiaire en fait un usage abusif de quelque façon que ce soit, ou ne remplit pas l’une des autres conditions fixées dans le présent Protocole.
+#### Art. 18
 
-### ........1 **Art. 22**Condition d’établissement de la déclaration d’origine ou de la déclaration d’origine EUR-MED
+**Conditions d’établissement d’une déclaration d’origine**
 
-\1. Une déclaration d’origine ou une déclaration d’origine EUR-MED au sens de l’art. 16, par. 1, let. c peut être établie:
+<sup>1.</sup>
 
-- (a) par un exportateur agréé au sens de l’art. 23, ou
-- (b) par tout exportateur pour tout envoi constitué d’un ou de plusieurs colis contenant des produits originaires dont la valeur totale n’excède pas 6000 EUR.
+Une déclaration d’origine visée à l’art. 17, par. 1, al. b), peut être établie:
 
-\2. Sans préjudice du par. 3, une déclaration d’origine peut être établie:
+- a) par un exportateur agréé au sens de l’art. 19, ou
+- b) par tout exportateur pour tout envoi constitué d’un ou plusieurs colis contenant des produits originaires dont la valeur totale n’excède pas 6 000 EUR.
 
-- (a) si les produits concernés peuvent être considérés comme des produits originaires de Suisse, du Royaume-Uni ou de l’un des autres pays visés aux par. 1 des art. 3 et 4 avec lesquels le cumul est applicable, sans application du cumul avec des matières originaires de l’un des pays visés au par. 2 des art. 3 et 4, et que les autres conditions du présent Protocole sont remplies, ou
-- (b) si les produits concernés peuvent être considérés comme des produits originaires de l’un des pays visés aux par. 2 des art. 3 et 4, avec lesquels le cumul est applicable, sans application du cumul avec des matières originaires de l’un des pays visés aux art. 3 et 4, et que les autres conditions du présent Protocole sont remplies, pour autant qu’un certificat EUR-MED ou une déclaration d’origine EUR-MED ait été délivré ou établi dans le pays d’origine.
+<sup>2.</sup> Une déclaration d’origine peut être établie si les produits en question peuvent être considérés comme des produits originaires d’une partie et qu’ils remplissent les autres conditions du présent protocole.
 
-\3. Une déclaration d’origine EUR-MED peut être établie si les produits concernés peuvent être considérés comme des produits originaires de Suisse, du Royaume-Uni ou de l’un des autres pays visés aux art. 3 et 4 avec lesquels le cumul est applicable, que les conditions du présent Protocole sont remplies, et
+<sup>3.</sup> L’exportateur établissant une déclaration d’origine doit pouvoir présenter à tout moment, à la demande des autorités douanières de la partie exportatrice, tous les documents appropriés prouvant le caractère originaire des produits concernés ainsi que le respect des autres conditions prévues par le présent protocole.
 
-- (a) si le cumul a été appliqué avec des matière originaires de l’un des pays visés aux art. 3, par. 2, et 4, par. 2, ou;
-- (b) si les produits peuvent être mis en œuvre dans le cadre du cumul comme matières dans la fabrication de produits destinés à être exportés dans l’un des pays visés aux art. 3, par. 2, et 4, par. 2, ou
-- (c) si les produits peuvent être réexportés du pays de destination vers l’un des pays visés aux art. 3, par. 2, et 4, par. 2.
+<sup>4.</sup> L’exportateur établit la déclaration d’origine en dactylographiant, en tamponnant ou en imprimant sur la facture, le bon de livraison ou tout autre document commercial la déclaration dont le texte figure à l’annexe III du présent protocole, en utilisant l’une des versions linguistiques de ladite annexe, et conformément aux dispositions de droit interne du pays d’exportation. Si la déclaration est établie à la main, elle doit l’être à l’encre et en caractères d’imprimerie.
 
-\4. Une déclaration d’origine EUR-MED doit comporter l’une des déclarations suivantes, en anglais:
+<sup>5.</sup> Les déclarations d’origine portent la signature manuscrite de l’exportateur. Toutefois, un exportateur agréé au sens de l’art. 19 n’est pas tenu de signer ces déclarations, à condition de présenter aux autorités douanières de la partie exportatrice un engagement écrit par lequel il accepte la responsabilité entière de toute déclaration d’origine l’identifiant, comme si elle avait été signée de sa propre main. Chaque partie autorise l’envoi de la déclaration d’origine par voie électronique directement depuis l’exportateur d’une partie à l’importateur de l’autre partie. Cette approche autorise l’utilisation de signatures électroniques ou de codes d’identification.
 
-- (a)
+<sup>6.</sup> Une déclaration d’origine peut être établie par l’exportateur au moment où les produits auxquels elle se rapporte sont exportés ou après exportation (la «déclaration d’origine a posteriori»), pour autant que sa présentation dans le pays d’importation intervienne dans les deux ans qui suivent l’importation des produits auxquels elle se rapporte.
 
-  si l’origine a été obtenue par l’application du cumul avec des matières originaires de l’un ou de plusieurs des pays visés aux art. 3 et 4:
+En cas de fractionnement d’un envoi conformément à l’art. 14, par. 3 et à condition que le même délai de deux ans soit respecté, la déclaration d’origine a posteriori est établie par l’exportateur de la partie exportatrice des produits.
 
-  - [tab] «CUMULATION APPLIED WITH ...» (nom du/des pays)
+#### Art. 19
 
-- (b)
+**Exportateur agréé**
 
-  si l’origine a été obtenue sans l’application du cumul avec des matières originaires de l’un ou de plusieurs des pays visés aux art. 3 et 4:
+<sup>1.</sup> Les autorités douanières de la partie exportatrice peuvent, sous réserve des exigences nationales, autoriser tout exportateur établi dans cette partie (l’«exportateur agréé») à établir des déclarations d’origine quelle que soit la valeur des produits concernés.
 
-  - [tab] «NO CUMULATION APPLIED»
+<sup>2.</sup> L’exportateur qui sollicite cette autorisation doit offrir, à la satisfaction des autorités douanières, toutes les garanties nécessaires pour contrôler le caractère originaire des produits ainsi que le respect de toutes les autres conditions du présent protocole.
 
-\5. L’exportateur établissant une déclaration d’origine ou une déclaration d’origine EUR-MED doit pouvoir présenter à tout moment, à la demande des autorités douanières du pays d’exportation, tous les documents appropriés prouvant le caractère originaire des produits concernés ainsi que le respect des autres conditions prévues par le présent Protocole.
+<sup>3.</sup> Les autorités douanières attribuent à l’exportateur agréé un numéro d’autorisation douanière, qui doit figurer sur la déclaration d’origine.
 
-\6. L’exportateur établit la déclaration d’origine ou la déclaration d’origine EURMED en dactylographiant ou en imprimant sur la facture, le bon de livraison ou tout autre document commercial la déclaration dont les textes figurent aux annexes IVa et IVb incorporées, en utilisant l’une des versions linguistiques de ces annexes, conformément aux dispositions du droit interne de la Partie exportatrice. Si la déclaration est établie à la main, elle doit l’être à l’encre et en caractères d’imprimerie.
+<sup>4.</sup> Les autorités douanières contrôlent le bon usage qui est fait de l’autorisation. Elles peuvent révoquer l’autorisation si l’exportateur agréé fait un usage abusif de celle-ci et doivent le faire lorsque l’exportateur agréé n’offre plus les garanties visées au par. 2.
 
-\7. Les déclarations sur facture et les déclarations sur facture EUR-MED portent la signature manuscrite originale de l’exportateur. Toutefois, un exportateur agréé au sens de l’art. 23 n’est pas tenu de signer ces déclarations, à condition de présenter aux autorités douanières de la Partie exportatrice un engagement écrit par lequel il accepte la responsabilité entière de toute déclaration d’origine l’identifiant, comme si elle avait été signée de sa propre main.
+#### Art. 20
 
-\8. Une déclaration d’origine ou une déclaration d’origine EUR-MED peut être établie par l’exportateur au moment où les produits sont exportés ou après exportation, pour autant que sa présentation dans la Partie importatrice n’intervienne pas plus de deux ans après l’importation des produits auxquels elle se rapporte.
+**Procédure de délivrance d’un certificat de circulation des marchandises EUR.1**
 
-### ........1 **Art. 23**Exportateur agréé
+<sup>1.</sup> Le certificat de circulation des marchandises EUR.1 est délivré par les autorités douanières de la partie exportatrice sur demande écrite établie par l’exportateur ou, sous la responsabilité de celui-ci, par son représentant habilité.
 
-\1. Les autorités douanières de la Partie exportatrice peuvent autoriser tout exportateur (ci-après dénommé «exportateur agréé») effectuant fréquemment des exportations de produits couverts par le présent Accord à établir des déclarations sur facture ou des déclarations sur facture EUR-MED, quelle que soit la valeur des produits concernés. L’exportateur qui sollicite cette autorisation doit offrir, à la satisfaction des autorités douanières, toutes les garanties nécessaires au contrôle du caractère originaire des produits ainsi que du respect de toutes les autres conditions du présent Protocole.
+<sup>2.</sup> À cet effet, l’exportateur ou son représentant habilité remplit le certificat de circulation des marchandises EUR.1 et le formulaire de demande, dont les modèles figurent à l’annexe IV du présent protocole. Ces formulaires sont complétés dans l’une des langues officielles d’une partie, conformément aux dispositions du droit interne de la partie exportatrice. Les formulaires remplis à la main sont complétés à l’encre et en caractères d’imprimerie. Les produits sont désignés dans la case réservée à cet effet, sans interligne. Lorsque la case n’est pas complètement remplie, un trait horizontal est tiré en dessous de la dernière ligne de la désignation, l’espace non utilisé étant bâtonné.
 
-\2. Les autorités douanières peuvent subordonner l’octroi du statut d’exportateur à toute condition qu’elles estiment appropriée.
+<sup>3.</sup> L’exportateur sollicitant la délivrance d’un certificat de circulation des marchandises EUR.1 doit pouvoir présenter à tout moment, à la demande des autorités douanières de la partie exportatrice où le certificat de circulation des marchandises EUR.1 est délivré, tous les documents appropriés prouvant le caractère originaire des produits concernés ainsi que le respect des autres conditions prévues par le présent protocole.
 
-\3. Les autorités douanières attribuent à l’exportateur agréé un numéro d’autorisation douanière, qui doit figurer sur la déclaration d’origine ou sur la déclaration d’origine EUR-MED.
+<sup>4.</sup> Un certificat d’origine est délivré par les autorités compétentes de la partie exportatrice si les produits concernés peuvent être considérés comme des produits originaires d’une partie et qu’ils remplissent les autres conditions du présent protocole.
 
-\4. Les autorités douanières contrôlent l’usage qui est fait de l’autorisation par l’exportateur agréé.
+<sup>5.</sup> Les autorités douanières délivrant des certificats de circulation des marchandises EUR.1 prennent toutes les mesures nécessaires afin de contrôler le caractère originaire des produits et le respect des autres conditions prévues par le présent protocole. À cet effet, celles-ci sont habilitées à exiger toutes les pièces justificatives et à procéder à toute inspection de la comptabilité de l’exportateur ou à tout autre contrôle qu’elles jugent utile. Elles doivent aussi veiller à ce que les formulaires visés au par. 2 soient dûment remplis. Elles vérifient notamment si le cadre réservé à la désignation des produits a été rempli de façon à exclure toute possibilité d’adjonctions frauduleuses.
 
-\5. Les autorités douanières peuvent révoquer l’autorisation à tout moment. Elles doivent le faire lorsque l’exportateur agréé n’offre plus les garanties visées au par. 1, ne remplit plus les conditions visées au par. 2 ou abuse d’une manière quelconque de l’autorisation.
+<sup>6.</sup> La date de délivrance du certificat de circulation des marchandises EUR.1 doit être indiquée dans la case 11 du certificat de circulation des marchandises EUR.1.
 
-### ........1 **Art. 24**Validité de la preuve de l’origine
+<sup>7.</sup> Un certificat de circulation des marchandises EUR.1 est délivré par les autorités douanières et tenu à la disposition de l’exportateur dès que l’exportation réelle est effectuée ou assurée.
 
-\1. Une preuve de l’origine est valable pendant quatre mois à compter de la date de délivrance dans la Partie exportatrice et doit être soumise dans ce même délai aux autorités douanières de la Partie importatrice.
+#### Art. 20<sup>bis</sup>
 
-\2. Les preuves de l’origine qui sont présentées aux autorités douanières de la Partie importatrice après expiration du délai de présentation prévu au par. 1 peuvent être acceptées aux fins de l’application du régime préférentiel lorsque le non-respect du délai est dû à des circonstances exceptionnelles.
+**Certificats de circulation des marchandises EUR.1 émis par voie électronique**
 
-\3. En dehors de ces cas de présentation tardive, les autorités douanières de la Partie importatrice peuvent accepter les preuves de l’origine lorsque les produits leur ont été présentés avant l’expiration dudit délai.
+<sup>1.</sup> En lieu et place des dispositions relatives à la délivrance de certificats de circulation des marchandises, les parties acceptent des certificats de circulation des marchandises EUR.1 émis par voie électronique. S’agissant du système numérisé servant à délivrer des certificats de circulation des marchandises EUR.1, les exigences formelles relatives aux certificats de circulation des marchandises EUR.1 émis par voie électronique sont exposées au par. 3.
 
-### ........1 **Art. 25**Production de la preuve de l’origine
+<sup>2.</sup> Les parties s’informent de la disponibilité de la procédure de délivrance de certificats de circulation des marchandises EUR.1par voie électronique et des problèmes techniques ayant trait à la mise en place d’une telle procédure (délivrance, fourniture et vérification d’un certificat électronique).
 
-Les preuves de l’origine sont produites aux autorités douanières du pays d’importation conformément aux procédures applicables dans ce pays. Ces autorités peuvent exiger la traduction d’une preuve de l’origine. Elles peuvent également exiger que la déclaration d’importation soit accompagnée d’une déclaration par laquelle l’importateur atteste que les produits remplissent les conditions requises pour l’application du présent Accord.
+<sup>3.</sup>
 
-### ........1 **Art. 26**Importation par envois échelonnés
+Les par. 1 et 2 de l’annexe IV ne s’appliquent pas si le certificat de circulation des marchandises est émis et validé par voie électronique; les dispositions suivantes s’appliquent:
 
-Lorsque, à la demande de l’importateur et aux conditions fixées par les autorités douanières du pays d’importation, les produits démontés ou non montés, au sens de la règle générale n<sup>o</sup> 2 a) du Système harmonisé, relevant des sections XVI et XVII ou des n<sup>os</sup> 7308 et 9406 du Système harmonisé sont importés par envois échelonnés, une seule preuve de l’origine est produite aux autorités douanières lors de l’importation du premier envoi.
+- a) les cachets à l’encre utilisés par les autorités douanières ou gouvernementales compétentes pour la validation du certificat de circulation des marchandises EUR.1 (case 11) peuvent être remplacés par une image ou des cachets électroniques;
+- b) les cases 11 et 12 peuvent contenir des signatures en fac-similé ou des signatures électroniques au lieu des signatures originales;
+- c) l’information demandée à la case 11 concernant la forme et le numéro du document d’exportation est indiquée uniquement lorsqu’elle est requise par la législation nationale de la partie exportatrice;
+- d) le certificat est pourvu d’un numéro de série ou d’un code permettant de l’identifier, et
+- e) il est émis dans l’une des langues officielles des parties ou en anglais.
 
-### ........1 **Art. 27**Exemptions de la preuve de l’origine
+#### Art. 21
 
-\1. Sont admis comme produits originaires, sans qu’il y ait lieu de produire une preuve de l’origine, les produits qui font l’objet de petits envois adressés à des particuliers par des particuliers ou qui sont contenus dans les bagages personnels des voyageurs, pour autant qu’il s’agisse d’importations dépourvues de tout caractère commercial, dès lors qu’ils sont déclarés comme répondant aux conditions du présent Protocole et qu’il n’existe aucun doute quant à la sincérité d’une telle déclaration. En cas d’envoi par la poste, cette déclaration peut être faite sur la déclaration en douane CN22/CN23 ou sur une feuille annexée à ce document.
+**Certificats de circulation des marchandises EUR.1 délivrés a posteriori**
 
-\2. Sont considérées comme dépourvues de tout caractère commercial les importations qui présentent un caractère occasionnel et qui portent uniquement sur des produits réservés à l’usage personnel ou familial des destinataires ou des voyageurs, ces produits ne devant traduire, par leur nature et leur quantité, aucune préoccupation d’ordre commercial.
+<sup>1.</sup>
 
-\3. En outre, la valeur globale de ces produits ne peut pas excéder 500 EUR en ce qui concerne les petits envois ou 1200 EUR en ce qui concerne le contenu des bagages personnels des voyageurs.
+Nonobstant l’art. 20, par. 8, un certificat de circulation des marchandises EUR.1 peut être délivré après l’exportation des produits auxquels il se rapporte:
 
-### ........1 **Art. 28**Documents probants
+- a) s’il n’a pas été délivré au moment de l’exportation par suite d’erreurs, d’omissions involontaires ou de circonstances particulières;
+- b) s’il est démontré, à la satisfaction des autorités douanières, qu’un certificat de circulation des marchandises EUR.1 a été délivré, mais n’a pas été accepté à l’importation pour des raisons techniques;
+- c) si la destination finale des produits concernés n’était pas connue au moment de l’exportation et a été déterminée au cours de leur transport ou entreposage et après un éventuel fractionnement de l’envoi, conformément à l’art. 14, par. 3,
+- d) si un certificat de circulation des marchandises EUR.1 ou EUR.MED a été délivré conformément aux dispositions de la convention paneuroméditerranéenne pour les produits qui sont également originaires conformément au présent protocole. L’exportateur prend toutes les mesures nécessaires pour garantir que les conditions d’application du cumul sont remplies et être disposé à présenter aux autorités douanières tous les documents pertinents prouvant que le produit est originaire conformément au présent protocole, ou
+- e) si un certificat de circulation des marchandises EUR.1 a été délivré sur la base de l’application de l’art. 8, par. 5, et que l’application de l’art. 8, par. 4, est requise lors de l’importation dans l’un des États visés à l’annexe VIII.
 
-Les documents visés à l’art. 17, par. 3, et à l’art. 22, par. 5, destinés à établir que les produits couverts par un certificat de circulation des marchandises EUR.1 ou EURMED ou une déclaration d’origine ou une déclaration d’origine EUR-MED peuvent être considérés comme des produits originaires de Suisse, du Royaume-Uni ou de l’un des pays visés aux art. 3 et 4 et satisfont aux autres conditions du présent Protocole, peuvent notamment se présenter sous les formes suivantes:
+<sup>2.</sup> Aux fins de l’application du par. 1, l’exportateur indique dans sa demande le lieu et la date de l’exportation des produits auxquels le certificat de circulation des marchandises EUR.1 se rapporte ainsi que les raisons de sa demande.
 
-- (a) preuve directe des opérations effectuées par l’exportateur ou le fournisseur afin d’obtenir les marchandises concernées, contenue, par exemple, dans ses comptes ou sa comptabilité interne;
-- (b) documents établissant le caractère originaire des matières mises en œuvre, délivrés ou établis en Suisse ou au Royaume-Uni, où ces documents sont utilisés conformément au droit interne;
-- (c) documents établissant l’ouvraison ou la transformation des matières subie en Suisse ou au Royaume-Uni, établis ou délivrés en Suisse ou au Royaume-Uni, où ces documents sont utilisés conformément au droit interne;
-- (d) certificats de circulation des marchandises EUR.1 ou EUR-MED, déclarations sur facture ou déclarations sur facture EUR-MED établissant le caractère originaire des matières mises en œuvre, délivrés ou établis en Suisse ou au Royaume-Uni conformément au présent Protocole ou dans l’un des autres pays visés aux art. 3 et 4 conformément à des règles d’origine identiques aux règles du présent Protocole;
-- (e) preuves appropriées concernant l’ouvraison ou la transformation subie en dehors de la Suisse, du Royaume-Uni ou des autres pays visés aux art. 3 et 4 par application de l’art. 12, établissant que les conditions de cet article ont été satisfaites.
+<sup>3.</sup> Les autorités douanières peuvent délivrer un certificat de circulation des marchandises EUR.1 a posteriori dans un délai de deux ans à compter de la date de l’exportation, et ce uniquement après avoir vérifié si les indications contenues dans la demande de l’exportateur sont conformes à celles du dossier correspondant.
 
-### ........1 **Art. 29**Conservation des preuves de l’origine et des documents probants
+<sup>4.</sup> Nonobstant l’art. 20, par. 3, les certificats de circulation des marchandises EUR.1 délivrés a posteriori sont revêtus de la mention suivante: «ISSUED RETROSPECTIVELY».
 
-\1. L’exportateur sollicitant la délivrance d’un certificat de circulation des marchandises EUR.1 ou EUR-MED doit conserver pendant trois ans au moins les documents visés à l’art. 17, par. 3.
+<sup>5.</sup> La mention visée au par. 4 est apposée dans la case 7 du certificat de circulation des marchandises EUR.1.
 
-\2. L’exportateur établissant une déclaration d’origine ou une déclaration d’origine EUR-MED conserve pendant trois ans au moins une copie de ladite déclaration, de même que les documents visés à l’art. 22, par. 5.
+#### Art. 22
 
-\3. Les autorités douanières de la Partie exportatrice qui délivrent un certificat de circulation des marchandises EUR.1 ou EUR-MED conservent pendant trois ans au moins le formulaire de demande visé à l’art.17, par. 2.
+**Délivrance d’un duplicata du certificat de circulation des marchandises EUR.1**
 
-\4. Les autorités douanières de la Partie importatrice conservent pendant trois ans au moins les certificats de circulation des marchandises EUR.1 ou EUR-MED ainsi que les déclarations sur facture et les déclarations sur facture EURMED qui leur sont présentés.
+<sup>1.</sup> En cas de vol, de perte ou de destruction d’un certificat de circulation des marchandises EUR.1, l’exportateur peut réclamer un duplicata aux autorités douanières qui l’ont délivré sur la base des documents d’exportation qui sont en leur possession.
 
-### ........1 **Art. 30**Discordances et erreurs formelles
+<sup>2.</sup> Nonobstant l’art. 20, par. 3, le duplicata délivré conformément au par. 1 est revêtu de la mention suivante: «DUPLICATE».
 
-\1. La constatation de légères discordances entre les mentions portées sur une preuve de l’origine et celles portées sur les documents présentés au bureau de douane en vue de l’accomplissement des formalités d’importation des produits n’entraîne pas ipso facto la non-validité de la preuve de l’origine, s’il est dûment établi que ce document correspond au produit présenté.
+<sup>3.</sup> La mention visée au par. 2 est apposée dans la case 7 du duplicata du certificat de circulation des marchandises EUR.1.
 
-\2. Les erreurs formelles manifestes telles que les fautes de frappe dans une preuve de l’origine n’entraînent pas le refus du document si ces erreurs ne sont pas de nature à mettre en doute l’exactitude dudit document.
+<sup>4.</sup> Le duplicata, sur lequel doit être reproduite la date de délivrance du certificat de circulation des marchandises EUR.1 original, prend effet à cette date.
 
-### ........1 **Art. 31**Montants exprimés en euros
+#### Art. 23
 
-\1. Pour l’application des dispositions de l’art. 22, par. 1, let. b), et de l’art. 27, par. 3, lorsque les produits sont facturés dans une monnaie autre que l’euro, les montants exprimés dans la monnaie nationale des pays visés aux art. 3 et 4, équivalents aux montants en euros, sont fixés annuellement par chacun des pays concernés.
+**Validité de la preuve de l’origine**
 
-\2. Un envoi bénéficie des dispositions de l’art. 22, par. 1, let. b), ou de l’art. 27, par. 3, sur la base de la monnaie dans laquelle la facture est libellée, selon le montant fixé par la Partie concernée.
+<sup>1.</sup> Une preuve de l’origine est valable pendant dix mois à compter de la date de délivrance ou d’établissement dans la partie exportatrice et doit être présentée dans ce même délai aux autorités douanières de la partie importatrice.
 
-\3. Les montants à utiliser dans une monnaie nationale donnée sont la contre-valeur dans cette monnaie des montants exprimés en euros au premier jour ouvrable du mois d’octobre et sont appliqués à partir du 1<sup>er</sup> janvier de l’année suivante. Les Parties se communiquent mutuellement les montants considérés.
+<sup>2.</sup> Les preuves de l’origine qui sont présentées aux autorités douanières de la partie importatrice après la période de validité visée au par. 1 peuvent être acceptées aux fins de l’application de préférences tarifaires lorsque le non-respect de la date limite de présentation de ces documents est dû à des circonstances exceptionnelles.
 
-\4. Une Partie peut arrondir à la hausse ou à la baisse le montant résultant de la conversion dans sa monnaie nationale d’un montant exprimé en euros. Le montant arrondi ne peut différer de plus de 5 % du montant résultant de la conversion. Une Partie peut maintenir inchangée la contre-valeur dans sa monnaie nationale d’un montant exprimé en euros si, au moment de l’adaptation annuelle prévue au par. 3, la conversion de ce montant se traduit, avant toute opération d’arrondissement, par une augmentation de moins de 15 % de sa contre-valeur en monnaie nationale. La contre-valeur en monnaie nationale peut être maintenue inchangée si la conversion se traduit par une diminution de cette contre-valeur.
+<sup>3.</sup> Dans les autres cas de présentation tardive, les autorités douanières de la partie importatrice peuvent accepter les preuves de l’origine lorsque les produits leur ont été présentés avant l’expiration de cette date limite.
 
-\5. Sur demande de l’une des Parties, les montants exprimés en euros font l’objet d’un réexamen par le Comité mixte. Lors de ce réexamen, celui-ci examine l’opportunité de préserver les effets des limites concernées en termes réels. À cette fin, il est habilité à décider de modifier les montants exprimés en euros.
+#### Art. 24
 
-### Titre VI Méthodes de coopération administrative
+**Zones franches**
 
-### ........1 **Art. 32**Coopération administrative
+<sup>1.</sup> Les parties prennent toutes les mesures nécessaires pour garantir que les produits qui sont échangés sous le couvert d’une preuve de l’origine et qui séjournent, au cours de leur transport, dans une zone franche située sur leur territoire n’y fassent pas l’objet de substitutions ou de manipulations autres que les manipulations usuelles destinées à prévenir leur détérioration.
 
-\1. Les autorités douanières des Parties se communiquent mutuellement les spécimens des empreintes des cachets utilisés dans leurs bureaux pour la délivrance des certificats de circulation des marchandises EUR.1 et EUR-MED, ainsi que les adresses des autorités douanières compétentes pour la vérification de ces certificats, des déclarations sur facture et des déclarations sur facture EUR-MED.
+<sup>2.</sup> Par dérogation au par. 1, lorsque des produits originaires d’une partie ou de l’un des États visés à l’annexe VIII sont importés dans une zone franche sous le couvert d’une preuve de l’origine et subissent un traitement ou une transformation, une nouvelle preuve de l’origine peut être délivrée ou établie, si le traitement ou la transformation subie est conforme aux dispositions du présent protocole.
 
-\2. Afin de garantir une application correcte du présent Protocole, les Parties se prêtent mutuellement assistance, par l’entremise de leurs administrations douanières respectives, pour le contrôle de l’authenticité des certificats de circulation des marchandises EUR.1 ou EUR-MED, des déclarations d’origine ou des déclarations d’origine EUR-MED et de l’exactitude des renseignements fournis dans lesdits documents.
+#### Art. 25
 
-### ........1 **Art. 33**Contrôle de la preuve de l’origine
+**Exigences à l’importation**
 
-\1. Le contrôle a posteriori des preuves de l’origine est effectué par sondage ou chaque fois que les autorités douanières de la Partie importatrice ont des doutes fondés en ce qui concerne l’authenticité de ces documents, le caractère originaire des produits concernés ou le respect des autres conditions prévues par le présent Protocole.
+Les preuves de l’origine sont présentées aux autorités douanières de la partie importatrice conformément aux procédures applicables dans cette partie.
 
-\2. Pour l’application des dispositions du par. 1, les autorités douanières de la Partie importatrice renvoient le certificat de circulation des marchandises EUR.1 ou EUR-MED et la facture, si elle a été présentée, la déclaration d’origine ou la déclaration d’origine EUR-MED, ou une copie de ces documents, aux autorités douanières de la Partie exportatrice en indiquant, le cas échéant, les motifs justifiant une enquête. À l’appui de leur demande de contrôle a posteriori, elles fournissent tous les documents et tous les renseignements obtenus qui donnent à penser que les mentions portées sur la preuve de l’origine sont inexactes.
+#### Art. 26
 
-\3. Le contrôle est effectué par les autorités douanières de la Partie exportatrice. À cet effet, elles sont habilitées à exiger toute preuve et à effectuer tout type de contrôle des comptes de l’exportateur ou tout autre contrôle qu’elles estiment utile.
+**Importation par envois échelonnés**
 
-\4. Si les autorités douanières de la Partie importatrice décident de surseoir à l’octroi du traitement préférentiel pour les produits concernés dans l’attente des résultats du contrôle, elles offrent à l’importateur la mainlevée des produits, sous réserve des mesures conservatoires jugées nécessaires.
+Lorsque, à la demande de l’importateur et en fonction des conditions fixées par les autorités douanières de la partie importatrice, des produits démontés ou non montés, au sens de la règle générale n<sup>o</sup> 2a) pour l’interprétation du système harmonisé, relevant des sections XVI et XVII ou des n<sup>os</sup> 7308 et 9406 sont importés par envois échelonnés, une seule preuve de l’origine pour ces produits est produite aux autorités douanières lors de l’importation du premier envoi.
 
-\5. Les autorités douanières sollicitant ce contrôle sont informées dans les meilleurs délais de ses résultats. Ceux-ci indiquent clairement si les documents sont authentiques et si les produits concernés peuvent être considérés comme des produits originaires de Suisse, du Royaume-Uni ou de l’un des autres pays visés aux art. 3 et 4, et remplissent les autres conditions prévues par le présent Protocole.
+#### Art. 27
 
-\6. En cas de doutes fondés et en l’absence de réponse à l’expiration d’un délai de dix mois après la date de la demande de contrôle, ou si la réponse ne comporte pas de renseignements suffisants pour déterminer l’authenticité du document en cause ou l’origine réelle des produits, les autorités douanières qui sollicitent le contrôle refusent le bénéfice des préférences sauf en cas de circonstances exceptionnelles.
+**Exemption de la preuve de l’origine**
 
-### ........1 **Art. 34**Règlement des différends
+<sup>1.</sup> Sont admis comme produits originaires, sans qu’il y ait lieu de produire une preuve de l’origine, les produits qui font l’objet de petits envois adressés à des particuliers par des particuliers ou qui sont contenus dans les bagages personnels des voyageurs, pour autant qu’il s’agisse d’importations dépourvues de tout caractère commercial, dès lors qu’elles sont déclarées comme répondant aux conditions du présent protocole et qu’il n’existe aucun doute quant à la sincérité d’une telle déclaration.
 
-\1. Lorsque des litiges survenus à l’occasion des contrôles visés à l’art. 33 ne peuvent pas être réglés entre les autorités douanières ayant sollicité le contrôle et les autorités douanières responsables de sa réalisation ou soulèvent une question d’interprétation du présent Protocole, ils sont soumis au Comité mixte.
+<sup>2.</sup>
 
-\2. Dans tous les cas, le règlement des litiges entre l’importateur et les autorités douanières du pays d’importation s’effectue conformément à la législation de ce pays.
+Sont considérées comme dépourvues de tout caractère commercial les importations qui satisfont à toutes les conditions suivantes:
 
-### ........1 **Art. 35**Sanctions
+- a) elles présentent un caractère occasionnel;
+- b) elles portent uniquement sur des produits réservés à l’usage personnel des destinataires, des voyageurs ou de leurs familles, et
+- c) par la nature et la quantité des produits concernés, elles ne font de toute évidence l’objet d’aucune opération de type commercial.
 
-Des sanctions sont appliquées à quiconque établit ou fait établir un document contenant des données inexactes en vue de faire admettre un produit au bénéfice du régime préférentiel.
+<sup>3.</sup> La valeur globale de ces produits ne peut pas excéder 500 EUR en ce qui concerne les petits envois ou 1 200 EUR dans le cas de produits faisant partie des bagages personnels des voyageurs.
 
-### ........1 **Art. 36**Zones franches
+#### Art. 28
 
-\1. Les Parties prennent toutes les mesures nécessaires pour éviter que les produits qui sont échangés sous le couvert d’une preuve de l’origine et qui séjournent, au cours de leur transport, dans une zone franche située sur leur territoire n’y fassent l’objet de substitutions ou de manipulations autres que les manipulations usuelles destinées à assurer leur conservation en l’état.
+**Discordances et erreurs formelles**
 
-\2. Par dérogation au par. 1, lorsque des produits originaires de Suisse ou du Royaume-Uni importés dans une zone franche sous couvert d’une preuve de l’origine subissent un traitement ou une transformation, les autorités douanières compétentes délivrent un nouveau certificat de circulation des marchandises EUR.1 ou EUR-MED à la demande de l’exportateur, si le traitement ou la transformation mis en œuvre sont conformes aux dispositions du présent Protocole.
+<sup>1.</sup> La constatation de légères discordances entre les mentions portées sur une preuve de l’origine et celles portées sur les documents produits au bureau de douane en vue de l’accomplissement des formalités d’importation des produits n’entraîne pas ipso facto la non-validité de la preuve de l’origine, s’il est dûment établi que ce document correspond aux produits présentés.
 
-### Titre VII Dispositions finales
+<sup>2.</sup> Les erreurs formelles manifestes telles que les fautes de frappe dans une preuve de l’origine n’entraînent pas le refus des documents visés au par. 1 si ces erreurs ne sont pas de nature à mettre en doute l’exactitude des déclarations contenues dans ces documents.
 
-### ........1 **Art. 37**Ceuta et Melilla
+#### Art. 29
 
-L’expression «Union européenne» utilisées dans le présent Protocole ne couvre pas Ceuta et Melilla. Aux fins du présent Protocole, les produits originaires de Ceuta et Melilla ne sont pas considérés comme originaires de l’Union européenne.
+**Déclarations du fournisseur**
 
-### ........1 **Art. 38**Dispositions transitoires relatives aux marchandises en transit ou en entrepôt
+<sup>1.</sup> Lorsqu’un certificat de circulation des marchandises EUR.1 est délivré ou qu’une déclaration d’origine est établie, dans l’une des parties, pour des produits originaires dont la fabrication met en œuvre, conformément à l’art. 7, par. 3 ou 4, des marchandises importées de l’autre partie ou de l’un des États visés à l’annexe VIII et y ayant subi une ouvraison ou transformation sans avoir acquis le caractère originaire à titre préférentiel, il est tenu compte de la déclaration du fournisseur concernant ces marchandises conformément aux dispositions du présent article.
 
-Les dispositions du présent Accord peuvent s’appliquer aux marchandises qui satisfont aux conditions du Protocole et qui, à la date d’entrée en vigueur du présent Accord, sont en transit ou se trouvent en dépôt temporaire, en entrepôt douanier ou en zone franche en Suisse ou au Royaume-Uni, sous réserve de la production, dans un délai de douze mois à compter de cette date, aux autorités douanières de l’État d’importation, d’un certificat de circulation des marchandises EUR.1 ou EUR-MED établi a posteriori par les autorités douanières de l’État d’exportation ainsi que des documents justifiant du transport direct des marchandises conformément à l’art. 13.
+<sup>2.</sup> La déclaration du fournisseur visée au par. 1 sert de preuve de l’ouvraison ou de la transformation subie dans une partie ou l’un des États visés à l’annexe VIII par les marchandises concernées pour déterminer si les produits dont la fabrication met en œuvre ces marchandises peuvent être considérés comme des produits originaires de la partie exportatrice et remplissent les autres conditions prévues par le présent protocole.
 
-### ........1 **Art. 39**Annexes
+<sup>3.</sup> Sauf dans les cas prévus au par. 4, une déclaration distincte du fournisseur doit être établie par le fournisseur pour chaque envoi de marchandises, sous la forme prévue à l’annexe VI, sur une feuille annexée à la facture, au bon de livraison ou à tout autre document commercial désignant les marchandises en cause avec suffisamment de détails pour permettre leur identification.
 
-\1. Les annexes I à IV*b* de l’appendice I de la Convention régionale sur les règles d’origine préférentielles paneuro-méditerranéennes sont incorporées au présent Protocole et en font partie intégrante; elles s’appliquent *mutatis mutandis* sous réserve des modifications suivantes:
+<sup>4.</sup> Lorsqu’un fournisseur livre régulièrement à un client donné des marchandises pour lesquelles l’ouvraison ou la transformation subie dans une partie ou l’un des États visés à l’annexe VIII est censée rester constante pour une période donnée, il peut remettre une déclaration du fournisseur unique pour couvrir les envois ultérieurs desdites marchandises (la «déclaration à long terme du fournisseur»). Une déclaration à long terme du fournisseur peut normalement être valable pour une période d’une durée maximale de deux ans à compter de la date d’établissement de la déclaration. Les autorités douanières de la partie ou de l’État concerné visé à l’annexe VIII où la déclaration est établie fixent les conditions dans lesquelles des périodes de validité plus longues sont admises. La déclaration à long terme du fournisseur est établie par ce dernier selon la forme prévue à l’annexe VII et désigne les marchandises en cause avec suffisamment de détails pour permettre leur identification. Elle est fournie au client concerné avant le premier envoi des marchandises qu’elle couvre ou au moment de ce premier envoi. Le fournisseur informe immédiatement son client lorsque la déclaration à long terme n’est plus valable pour les marchandises livrées.
 
-- (a)
+<sup>5.</sup> La déclaration du fournisseur visée aux par. 3 et 4 est dactylographiée ou imprimée dans l’une des langues officielles de la partie ou de l’État concerné visé à l’annexe VIII, conformément au droit interne de la partie ou de l’État où la déclaration est établie, et porte la signature manuscrite originale du fournisseur. Elle peut aussi être établie à la main; dans ce cas, elle est écrite à l’encre en caractères d’imprimerie.
 
-  Dans l’annexe I:
+<sup>6.</sup> Le fournisseur qui établit une déclaration doit pouvoir produire à tout moment, à la demande des autorités douanières de la partie ou de l’État concerné visé à l’annexe VIII dans lequel la déclaration est établie, tous les documents appropriés établissant que les informations contenues dans cette déclaration sont correctes.
 
-  - (i) toutes les références à «l’art. 5 du présent appendice» s’entendent comme renvoyant à «l’art. 6 du présent Protocole», et
-  - (ii) au point 3.1 de la note 3, «une Partie contractante» est remplacé par «l’un des autres pays visés aux art. 3 et 4 avec lesquels le cumul est applicable».
+#### Art. 30
 
-- (b)
+**Montants exprimés en euros**
 
-  Dans les annexes IVa et IVb:
+<sup>1.</sup> Aux fins de l’application de l’art. 18, par. 1, al. b), et de l’art. 27, par. 3, lorsque les produits sont facturés dans une monnaie autre que l’euro, les montants exprimés dans la monnaie nationale d’une partie équivalents aux montants en euros sont fixés annuellement par cette partie.
 
-  - (i) seules les versions anglaise, française, allemande et italienne de la déclaration d’origine sont incorporées, et
-  - (ii) la deuxième phrase de la note de bas de page 2 n’est pas incorporée.
+<sup>2.</sup> Un envoi bénéficie de l’art. 18, par. 1, al. b), ou de l’art. 27, par. 3, sur la base de la monnaie dans laquelle la facture est libellée, selon le montant fixé par la partie concernée.
 
-\2. Les annexes du présent Protocole en font partie intégrante.
+<sup>3.</sup> Les montants à utiliser dans une monnaie nationale donnée sont la contre-valeur dans cette monnaie des montants exprimés en euros au premier jour ouvrable du mois d’octobre et sont appliqués à dater du 1<sup>er</sup> janvier de l’année suivante. Les parties se notifient les montants considérés .
 
-Annexe A
+<sup>4.</sup> Une partie peut arrondir au niveau supérieur ou inférieur le montant résultant de la conversion dans sa monnaie nationale d’un montant exprimé en euros. Le montant arrondi ne peut différer de plus de 5 % du montant résultant de la conversion. Une partie peut maintenir inchangée la contre-valeur dans sa monnaie nationale d’un montant exprimé en euros si, au moment de l’adaptation annuelle prévue au par. 3, la conversion de ce montant se traduit, avant toute opération d’arrondissement, par une augmentation de moins de 15 % de sa contre-valeur en monnaie nationale. La contre-valeur en monnaie nationale peut être maintenue inchangée si la conversion se traduit par une diminution de cette contre-valeur.
 
-## Liste des pays visés au deuxième paragraphe des art. 3 et 4
+<sup>5.</sup> Les montants exprimés en euros font l’objet d’un réexamen par le comité mixte à la demande d’une partie. Lors de ce réexamen, le comité mixte étudie l’opportunité de préserver les effets des limites concernées en termes réels. À cette fin, il est habilité à décider de modifier les montants exprimés en euros.
 
-\1. La République algérienne démocratique et populaire
+## Titre VI Principes de coopération et pièces justificatives
 
-\2. La République arabe d’Égypte
+#### Art. 31
 
-\3. L’État d’Israël
+**Pièces justificatives, conservation des preuves de l’origine et des documents probants**
 
-\4. Le Royaume hachémite de Jordanie
+<sup>1.</sup> L’exportateur qui a établi une déclaration d’origine ou a demandé un certificat de circulation des marchandises EUR.1 doit conserver une copie papier ou une version électronique de ces preuves de l’origine ainsi que tous les documents étayant le caractère originaire du produit, pendant un délai d’au moins trois ans à compter de la date de la délivrance ou de l’établissement de la déclaration d’origine.
 
-\5. La République libanaise
+<sup>2.</sup> Le fournisseur établissant une déclaration du fournisseur doit conserver une copie de la déclaration et de l’ensemble des factures, bons de livraison ou autres documents commerciaux auxquels cette déclaration est annexée, de même que les documents visés à l’art. 29, par. 6, pendant un délai d’au moins trois ans.
 
-\6. Le Royaume du Maroc
+Le fournisseur établissant une déclaration à long terme du fournisseur doit conserver une copie de la déclaration et de l’ensemble des factures, bons de livraison ou autres documents commerciaux afférents aux marchandises couvertes par cette déclaration adressés au client concerné, de même que les documents visés à l’art. 29, par. 6, pendant un délai d’au moins trois ans. Ce délai commence à courir à compter de la date d’expiration de la validité de la déclaration à long terme du fournisseur.
 
-\7. L’Organisation de libération de la Palestine, agissant pour le compte de l’Autorité palestinienne de la Cisjordanie et de la Bande de Gaza
+<sup>3.</sup>
 
-\8. La République arabe syrienne
+Aux fins du par. 1, les documents étayant le caractère originaire sont, entre autres, les éléments suivants:
 
-\9. La République tunisienne
+- a) preuve directe des opérations effectuées par l’exportateur ou le fournisseur afin d’obtenir le produit, contenue, par exemple, dans ses comptes ou sa comptabilité interne;
+- b) documents établissant le caractère originaire des matières mises en œuvre, délivrés ou établis dans la partie ou l’État concerné visé à l’annexe VIII conformément à sa législation nationale;
+- c) documents établissant l’ouvraison ou la transformation des matières subie dans la partie ou l’État concerné visé à l’annexe VIII, établis ou délivrés dans cette partie ou cet État conformément à sa législation nationale;
+- d) les déclarations d’origine, des certificats de circulation des marchandises EUR.1 établissant le caractère originaire des matières mises en œuvre, délivrés ou établis dans une partie conformément au présent protocole;
+- e) preuves appropriées concernant l’ouvraison ou la transformation subie en dehors des parties par application des art. 13 et 14, attestant le respect des prescriptions de ces articles.
 
-\10. La République d’Albanie
+<sup>4.</sup> Les autorités douanières de la partie exportatrice qui délivrent des certificats de circulation des marchandises EUR.1 conservent le formulaire de demande visé à l’art. 20, par. 2, pendant au moins trois ans.
 
-\11. La Bosnie-et-Herzégovine
+<sup>5.</sup> Les autorités douanières de la partie importatrice conservent les déclarations d’origine ainsi que les certificats de circulation des marchandises EUR.1 qui leur sont présentés pendant au moins trois ans.
 
-\12. L’ancienne République yougoslave de Macédoine
+<sup>6.</sup> Les déclarations du fournisseur, établies dans une partie ou l’un des États visés à l’annexe VIII prouvant l’ouvraison ou la transformation subie dans cette partie ou cet État par les matières mises en œuvre, sont considérées comme un document, tel que visé aux art. 18, par. 3, 20, par. 4, et 29, par. 6, destiné à établir que les produits couverts par un certificat de circulation des marchandises EUR.1 ou une déclaration d’origine peuvent être considérés comme des produits originaires de cette partie ou de cet État et satisfont aux autres conditions prévues dans le présent protocole.
 
-\13. Le Monténégro
+#### Art. 32
 
-\14. La République de Serbie
+**Règlement des différends**
 
-\15. La République du Kosovo
+Lorsque des différends survenus à l’occasion des contrôles visés aux art. 34 et 35 ou en relation avec l’interprétation du présent protocole ne peuvent être réglés entre les autorités douanières ayant sollicité le contrôle et celles responsables de sa réalisation, ils sont soumis au comité mixte.
 
-\16. Le Royaume du Danemark en ce qui concerne les Îles Féroé
+Dans tous les cas, le règlement des différends entre l’importateur et les autorités douanières de la partie importatrice s’effectue conformément à la législation de ce pays.
 
-\17. La République de Moldavie
+## Titre VII Coopération administrative
 
-\18. La Géorgie
+#### Art. 33
 
-\19. L’Ukraine
+**Notification et coopération**
 
-Annexe B
+<sup>1.</sup> Les autorités douanières des parties se communiquent mutuellement les spécimens des empreintes des cachets utilisés dans leurs bureaux pour la délivrance des certificats de circulation des marchandises EUR.1, les modèles des numéros d’autorisation des exportateurs agréés ainsi que les adresses des autorités douanières compétentes pour la vérification de ces certificats et des déclarations d’origine.
 
-## Déclaration commune concernant la Principauté d’Andorre
+<sup>2.</sup> Afin de garantir une application correcte du présent protocole, les parties contractantes se prêtent mutuellement assistance, par l’entremise des autorités douanières compétentes, pour le contrôle de l’authenticité des certificats de circulation des marchandises EUR.1 et des déclarations d’origine, des déclarations du fournisseur et de l’exactitude des renseignements fournis dans ces documents.
 
-\1. Les produits originaires de la Principauté d’Andorre relevant des chap. 25 à 97 du Système harmonisé et satisfaisant aux conditions de l’art. 3, par 7, let. b) et de l’art. 4, par. 5, let. b) du protocole n<sup>o</sup> 3 de l’accord de libre-échange incorporé sont acceptés par les Parties comme produits originaires de l’Union européenne au sens de l’accord de libre-échange incorporé et de l’accord agricole incorporé.
+#### Art. 34
 
-\2. Le protocole n<sup>o</sup> 3 s’applique *mutatis mutandis* pour la définition du caractère originaire des produits mentionnés ci-dessus.
+**Contrôle de la preuve de l’origine**
 
-Annexe C
+<sup>1.</sup> Le contrôle a posteriori des preuves de l’origine est effectué par sondage ou chaque fois que les autorités douanières de la partie importatrice ont des doutes fondés en ce qui concerne l’authenticité de ces documents, le caractère originaire des produits concernés ou le respect des autres conditions prévues par le présent protocole.
 
-## Déclaration commune concernant la République de Saint-Marin
+<sup>2.</sup> Lorsqu’elles présentent une demande de contrôle a posteriori, les autorités douanières de la partie importatrice renvoient le certificat de circulation des marchandises EUR.1 et la facture, et, si elle a été présentée, la déclaration d’origine ou une copie de ces documents, aux autorités douanières de la partie exportatrice en indiquant, le cas échéant, les motifs justifiant la demande de contrôle. À l’appui de leur demande de contrôle a posteriori, elles fournissent tous les documents et tous les renseignements obtenus qui font penser que les mentions portées sur la preuve de l’origine sont inexactes.
 
-\1. Les produits originaires de la République de Saint-Marin satisfaisant aux conditions de l’art. 3, par. 7, let. b) et de l’art. 4, par. 5, let. b) du protocole n<sup>o</sup> 3 de l’accord de libre-échange incorporé sont acceptés par les Parties comme produits originaires de l’Union européenne au sens de l’accord de libre-échange incorporé et de l’accord agricole incorporé.
+<sup>3.</sup> Le contrôle est effectué par les autorités douanières de la partie exportatrice. À cet effet, celles-ci sont habilitées à exiger toutes les pièces justificatives et à procéder à toute inspection de la comptabilité de l’exportateur ou à tout autre contrôle qu’elles jugent utile.
 
-\2. Le protocole n<sup>o</sup> 3 s’applique *mutatis mutandis* pour la définition du caractère originaire des produits mentionnés ci-dessus.»
+<sup>4.</sup> Si les autorités douanières de la partie importatrice décident de surseoir à l’octroi du traitement préférentiel pour les produits concernés dans l’attente des résultats du contrôle, elles offrent à l’importateur la mainlevée des produits, sous réserve des mesures conservatoires jugées nécessaires.
+
+<sup>5.</sup> Les autorités douanières sollicitant le contrôle sont informées dans les meilleurs délais de ses résultats. Ces résultats indiquent clairement si les documents sont authentiques et si les produits concernés peuvent être considérés comme des produits originaires d’une des parties et remplissent les autres conditions prévues par le présent protocole.
+
+<sup>6.</sup> En cas de doutes fondés et en l’absence de réponse à l’expiration d’un délai de dix mois après la date de la demande de contrôle ou si la réponse ne comporte pas de renseignements suffisants pour déterminer l’authenticité du document en cause ou l’origine réelle des produits, les autorités douanières qui sollicitent le contrôle refusent le bénéfice des préférences, sauf en cas de circonstances exceptionnelles.
+
+#### Art. 35
+
+**Contrôle des déclarations du fournisseur**
+
+<sup>1.</sup> Le contrôle a posteriori des déclarations du fournisseur ou des déclarations à long terme du fournisseur peut être effectué par sondage ou chaque fois que les autorités douanières d’une partie où ces déclarations ont été prises en considération pour délivrer un certificat de circulation des marchandises EUR.1 ou pour établir une déclaration d’origine ont des doutes fondés quant à l’authenticité du document ou à l’exactitude des renseignements fournis dans ce document.
+
+<sup>2.</sup> Aux fins de l’application des dispositions du par. 1, les autorités douanières de la partie visée au par. 1 renvoient la déclaration du fournisseur ou la déclaration à long terme du fournisseur et la ou les factures, le(s) bon(s) de livraison ou tout autre document commercial concernant les marchandises couvertes par cette déclaration aux autorités douanières de l’autre partie ou de l’État concerné visé à l’annexe VIII où la déclaration a été établie, en indiquant, le cas échéant, les motifs de fond ou de forme de la demande de contrôle.
+
+À l’appui de leur demande de contrôle a posteriori, elles joignent tous les documents et renseignements obtenus qui donnent à penser que les mentions portées sur la déclaration du fournisseur ou la déclaration à long terme du fournisseur sont inexactes.
+
+<sup>3.</sup> Le contrôle est effectué par les autorités douanières de la partie ou de l’État concerné visé à l’annexe VIII où la déclaration du fournisseur ou la déclaration à long terme du fournisseur est établie. À cet effet, elles sont habilitées à exiger toutes les preuves et à effectuer tous les contrôles des comptes du fournisseur ou tout autre contrôle qu’elles estiment utile.
+
+<sup>4.</sup> Les autorités douanières sollicitant le contrôle sont informées dans les meilleurs délais de ses résultats. Ceux-ci indiquent clairement si les informations figurant dans la déclaration du fournisseur ou la déclaration à long terme du fournisseur sont correctes et permettent de déterminer si et dans quelle mesure cette déclaration peut être prise en considération pour la délivrance d’un certificat de circulation des marchandises EUR.1 ou l’établissement d’une déclaration d’origine.
+
+#### Art. 36
+
+**Sanctions**
+
+Chaque partie prévoit des sanctions pénales, civiles ou administratives dans les cas de violations de sa législation nationale liées au présent protocole.
+
+## Titre VIII Application du protocole n<sup>o</sup> 3
+
+#### Art. 37
+
+**Espace économique européen**
+
+Les marchandises originaires de l’Espace économique européen (EEE) au sens du protocole 4 à l’accord sur l’Espace économique européen, fait à Bruxelles le 17 mars 1993, doivent être considérées comme originaires de l’Union européenne, d’Islande, du Liechtenstein ou de Norvège (les «parties contractantes à l’accord EEE») lorsqu’elles sont exportées de l’Union européenne, d’Islande, du Liechtenstein ou de Norvège vers l’une des parties, à condition que les accords commerciaux préférentiels visés à l’art. 8 soient applicables entre chaque partie et les parties contractantes à l’accord EEE.
+
+#### Art. 38
+
+**Liechtenstein**
+
+Sans préjudice de l’art. 2, un produit originaire du Liechtenstein, en raison de l’existence de l’union douanière entre la Suisse et le Liechtenstein, est considéré comme originaire de Suisse.
+
+#### Art. 39
+
+**République de Saint-Marin**
+
+Sans préjudice de l’art. 2, un produit originaire de la République de Saint-Marin est considéré, en raison de l’existence de l’union douanière entre l’Union européenne et la République de Saint-Marin, comme originaire de l’Union européenne.
+
+#### Art. 40
+
+**Principauté d’Andorre**
+
+Sans préjudice de l’art. 2, un produit originaire de la Principauté d’Andorre relevant des chap. 25 à 97 du système harmonisé est considéré, en raison de l’existence de l’union douanière entre l’Union européenne et la Principauté d’Andorre, comme originaire de l’Union européenne.
+
+#### Art. 41
+
+**Ceuta et Melilla**
+
+<sup>1.</sup> Aux fins du présent protocole, le terme «Union européenne» ne comprend pas Ceuta et Melilla.
+
+<sup>2.</sup> Les produits originaires d’une partie bénéficient à tous égards, lors de leur importation à Ceuta et Melilla, du même régime douanier que celui qui est appliqué aux produits originaires du territoire douanier de l’Union européenne en vertu du protocole n<sup>o</sup> 2 de l’acte d’adhésion du Royaume d’Espagne et de la République portugaise et aux adaptations des traités[^annexu1-titVIII-41-1]. Les parties accordent aux importations de produits couverts par le présent accord et originaires de Ceuta et Melilla le même régime douanier que celui qu’elles accordent aux produits importés de l’Union européenne et originaires de celle-ci.
+
+<sup>3.</sup> Aux fins du par. 2 concernant les produits originaires de Ceuta et Melilla, le présent protocole s’applique *mutatis mutandis*, sous réserve des conditions particulières définies à l’annexe V.
+
+[^annexu1-titVIII-41-1]: JO CE L 302 du 15.11.1985, p. 23.
+
+#### Art. 42
+
+**Produits en transit ou en entrepôt**
+
+Les dispositions de la présente annexe peuvent s’appliquer aux produits qui, à la date d’application provisoire ou, si cette date est antérieure, à celle de l’entrée en vigueur de la décision n<sup>o</sup> 2/2021 du Comité mixte du commerce Suisse‒Royaume-Uni sont en transit ou sous surveillance douanière dans un entrepôt douanier ou une zone franche. Pour ce type de produits, une preuve d’origine peut être établie a posteriori dans un délai de deux ans à compter de la date d’application provisoire de la décision, à condition que les dispositions du présent protocole et en particulier l’art. 14 soient respectées.
+
+Annexe I
+
+## Notes introductives à la liste de l’annexe II
+
+Note 1 — Introduction générale
+
+Dans la liste figurent, pour tous les produits, les conditions requises pour que ces produits puissent être considérés comme suffisamment ouvrés ou transformés au sens du titre II, art. 4 du présent protocole. Il existe à cet égard quatre catégories de règles, qui varient selon les produits:
+
+- a) respect d’une proportion maximale de matières non originaires utilisées lors de l’ouvraison ou de la transformation;
+- b) réalisation d’une ouvraison ou d’une transformation aboutissant à des produits manufacturés classés dans une position (code à quatre chiffres) ou dans une sous-position (code à six chiffres) du système harmonisé différentes de la position (code à quatre chiffres) ou de la sous-position (code à six chiffres) dans lesquelles sont classées les matières mises en œuvre;
+- c) réalisation d’une opération spécifique d’ouvraison ou de transformation;
+- d) ouvraison ou transformation mettant en œuvre des matières entièrement obtenues spécifiques.
+
+Note 2 – Structure de la liste
+
+- 2\.1. Les deux premières colonnes de la liste décrivent le produit obtenu. La colonne (1) précise le numéro de la position ou du chapitre du système harmonisé et la colonne (2) précise la désignation des marchandises figurant dans le système pour cette position ou ce chapitre. En face des mentions reprises dans les deux premières colonnes, une règle est exposée dans la colonne (3). Lorsque, dans certains cas, le code de la colonne (1) est précédé d’un «ex», cela indique que la règle figurant dans la colonne (3) ne s’applique qu’à la partie de la position décrite dans la colonne (2).
+- 2\.2. Lorsque plusieurs numéros de position sont regroupés dans la colonne (1) ou qu’un numéro de chapitre y est mentionné et que les produits figurant dans la colonne (2) sont, en conséquence, désignés en termes généraux, la règle correspondante énoncée dans la colonne (3) s’applique à tous les produits qui, dans le cadre du système harmonisé, sont classés dans les différentes positions du chapitre concerné ou dans les positions regroupées dans la colonne (1).
+- 2\.3. Lorsque la liste indique différentes règles applicables à différents produits relevant d’une même position, chaque tiret comporte la désignation relative à la partie de la position faisant l’objet de la règle correspondante énoncée dans la colonne (3).
+- 2\.4. Lorsque la colonne (3) indique deux règles distinctes séparées par la conjonction «ou», il appartient à l’exportateur de choisir celle qu’il veut utiliser.
+
+Note 3 – Exemples de la manière d’appliquer les règles
+
+- 3\.1. Les dispositions du titre II, art. 4, du présent protocole concernant les produits qui ont acquis le caractère originaire et qui sont mis en œuvre dans la fabrication d’autres produits s’appliquent, que ce caractère ait été acquis dans l’usine où ces produits sont mis en œuvre ou dans une autre usine d’une partie.
+- 3\.2. En application du titre II, art. 6, du présent protocole, les opérations d’ouvraison ou de transformation effectuées doivent aller au-delà des opérations dont la liste figure dans cet article. Si ce n’est pas le cas, les marchandises ne sont pas admissibles au bénéfice du traitement tarifaire préférentiel, même si les conditions énoncées sur la liste ci-dessous sont remplies.
+- Sous réserve du titre II, art. 6, du présent protocole, les règles figurant dans la liste fixent le degré minimal d’ouvraison ou de transformation à effectuer; il en résulte que les ouvraisons ou transformations allant au-delà confèrent, elles aussi, le caractère originaire et qu’à l’inverse, les ouvraisons ou transformations restant en deçà de ce seuil ne confèrent pas le caractère originaire.
+- En d’autres termes, si une règle prévoit que des matières non originaires se trouvant à un stade d’élaboration déterminé peuvent être utilisées, l’utilisation de telles matières se trouvant à un stade moins avancé est, elle aussi, autorisée, alors que l’utilisation de telles matières se trouvant à un stade plus avancé ne l’est pas.
+- Si une règle prévoit que des matières non originaires se trouvant à un stade d’élaboration déterminé ne peuvent pas être utilisées, l’utilisation de telles matières se trouvant à un stade moins avancé est autorisée, alors que l’utilisation de telles matières se trouvant à un stade plus avancé ne l’est pas.
+- Exemple: lorsque la règle de la liste pour le chapitre 19 impose que «les matières non originaires des n<sup>os</sup> 1101 à 1108 ne puissent pas dépasser 20 % en poids», l’utilisation (c’est-à-dire l’importation) de céréales du chap. 10 (matières à un stade antérieur de fabrication) n’est pas limitée.
+- 3\.3. Sans préjudice de la note 3.2, lorsqu’une règle utilise l’expression «fabrication à partir de matières de toute position», les matières de toute position (même les matières de la même désignation et de la même position que le produit) peuvent être utilisées, sous réserve, toutefois, des restrictions particulières susceptibles d’être aussi énoncées dans la règle.
+- Toutefois, lorsqu’une règle utilise l’expression «fabrication à partir de matières de toute position, y compris à partir des autres matières du n<sup>o</sup> ...» ou «fabrication à partir de matières de toute position, y compris à partir des autres matières de la même position que le produit», les matières de toute position peuvent être utilisées, à l’exclusion des matières de la même désignation que le produit telle qu’elle apparaît dans la colonne (2) de la liste.
+- 3\.4. Lorsqu’une règle de la liste précise qu’un produit peut être fabriqué à partir de plusieurs matières, cela signifie qu’une ou plusieurs de ces matières peuvent être utilisées. Elle n’implique évidemment pas que toutes ces matières doivent être utilisées simultanément.
+- 3\.5. Lorsqu’une règle prévoit, dans la liste, qu’un produit doit être fabriqué à partir d’une matière déterminée, cette condition n’empêche évidemment pas l’utilisation d’autres matières qui, en raison de leur nature même, ne peuvent pas satisfaire à cette règle.
+- 3\.6. S’il est prévu, dans une règle de la liste, deux pourcentages concernant la valeur maximale de matières non originaires pouvant être utilisées, ces pourcentages ne peuvent pas être additionnés. Il s’ensuit que la valeur maximale de toutes les matières non originaires utilisées ne peut jamais excéder le plus élevé des pourcentages considérés. En outre, les pourcentages spécifiques qui s’appliquent à des produits particuliers ne doivent pas être dépassés.
+
+Note 4 – Dispositions générales relatives à certaines marchandises agricoles
+
+- 4\.1. Les marchandises agricoles relevant des chap. 6, 7, 8, 9, 10 et 12 et de la position 2401 qui sont cultivées ou récoltées sur le territoire d’une partie sont considérées comme originaires du territoire de cette partie, même si elles ont été cultivées à partir de semences, de bulbes, de rhizomes, de boutures, de greffons, de pousses, de bourgeons ou d’autres parties vivantes de végétaux importées.
+- 4\.2. Dans les cas où la quantité de sucre non originaire incorporé à un produit donné fait l’objet de limitations, le calcul de ces limitations prend en compte le poids des sucres relevant des n<sup>os</sup> 1701 (saccharose) et 1702 (comme le fructose, le glucose, le lactose, le maltose, l’isoglucose ou le sucre inverti) mis en œuvre dans la fabrication du produit final, ainsi que dans la fabrication des produits non originaires incorporés dans le produit final.
+
+Note 5 – Terminologie utilisée en ce qui concerne certains produits textiles
+
+- 5\.1. L’expression «fibres naturelles», lorsqu’elle est utilisée dans la liste, se rapporte aux fibres autres que les fibres artificielles ou synthétiques Elle doit être limitée aux fibres dans tous les états où elles peuvent se trouver avant la filature, y compris les déchets, et, sauf dispositions contraires, elle couvre les fibres qui ont été cardées, peignées ou autrement travaillées pour la filature, mais non filées.
+- 5\.2. L’expression «fibres naturelles» couvre le crin du n<sup>o</sup> 0511, la soie des n<sup>os</sup> 5002 et 5003, ainsi que la laine, les poils fins et les poils grossiers des n<sup>os</sup> 5101 à 5105, les fibres de coton des n<sup>os</sup> 5201 à 5203 et les autres fibres d’origine végétale des n<sup>os</sup> 5301 à 5305.
+- 5\.3. Les expressions «pâtes textiles», «matières chimiques» et «matières destinées à la fabrication du papier» utilisées dans la liste désignent les matières non classées dans les chap. 50 à 63, qui peuvent être utilisées en vue de fabriquer des fibres ou des fils synthétiques ou artificiels ou des fibres ou fils de papier.
+- 5\.4. L’expression «fibres synthétiques ou artificielles discontinues» utilisée dans la liste couvre les câbles de filaments, les fibres discontinues et les déchets de fibres synthétiques ou artificielles discontinues des n<sup>os</sup> 5501 à 5507.
+- 5\.5. L’impression (lorsqu’elle est accompagnée du tissage, du tricotage/crochet, du touffetage ou du flocage) est définie comme une technique par laquelle un substrat textile reçoit une fonction objectivement déterminée, telle que la couleur, la conception ou une qualité technique, de caractère permanent, en utilisant des techniques de sérigraphie, de rouleau, de transfert ou numériques.
+- 5\.6. L’impression (en qualité d’opération unique) est définie comme une technique par laquelle un substrat textile reçoit une fonction objectivement déterminée, telle que la couleur, la conception ou une qualité technique, de caractère permanent, en utilisant des techniques de sérigraphie, de rouleau, de transfert ou numériques, accompagnée au moins de deux opérations de préparation ou de finissage (telles que lavage, blanchiment, mercerisage, thermofixage, lainage, calandrage, opération de rétrécissement, fini permanent, décatissage, imprégnation, stoppage et épincetage), à condition que la valeur des matières utilisées n’excède pas 50 % du prix départ usine du produit.
+
+Note 6 – Tolérances applicables aux produits constitués d’un mélange de matières textiles
+
+- 6\.1. Lorsqu’il est fait référence à la présente note pour un produit déterminé de la liste, les conditions exposées dans la colonne (3) ne doivent pas être appliquées aux différentes matières textiles de base qui sont utilisées dans la fabrication de ce produit lorsque, considérées ensemble, elles représentent 15 % ou moins du poids total de toutes les matières textiles de base utilisées (Voir également les notes 6.3 et 6.4).
+- 6\.2. Toutefois, la tolérance mentionnée dans la note 6.1 s’applique uniquement aux produits mélangés qui ont été obtenus à partir de deux ou plusieurs matières textiles de base.
+  - [tab] Les matières textiles de base sont les suivantes:
+  - – la soie;
+  - – la laine;
+  - – les poils grossiers d’animaux;
+  - – les poils fins d’animaux;
+  - – le crin;
+  - – le coton;
+  - – les matières servant à la fabrication du papier et le papier;
+  - – le lin;
+  - – le chanvre;
+  - – le jute et les autres fibres libériennes;
+  - – le sisal et les autres fibres textiles du genre «agave»;
+  - – le coco, l’abaca, la ramie et les autres fibres textiles végétales;
+  - – les fibres synthétiques ou artificielles de filaments de polypropylène;
+  - – les fibres synthétiques ou artificielles de filaments de polyester;
+  - – les fibres synthétiques ou artificielles de filaments de polyamide;
+  - – les fibres synthétiques ou artificielles de filaments de polyacrylonitrile;
+  - – les fibres synthétiques ou artificielles de filaments de polyimide;
+  - – les fibres synthétiques ou artificielles de filaments de polytétrafluoroéthylène;
+  - – les fibres synthétiques ou artificielles de filaments de poly(sulfure de phénylène);
+  - – les fibres synthétiques ou artificielles de filaments de poly(chlorure de vinyle);
+  - – les autres fibres synthétiques ou artificielles de filaments;
+  - – les fibres synthétiques ou artificielles de filaments de viscose;
+  - – les autres fibres synthétiques ou artificielles de filaments;
+  - – les filaments conducteurs électriques;
+  - – les fibres synthétiques ou artificielles discontinues de polypropylène;
+  - – les fibres synthétiques ou artificielles discontinues de polyester;
+  - – les fibres synthétiques ou artificielles discontinues de polyamide;
+  - – les fibres synthétiques ou artificielles discontinues de polyacrylonitrile;
+  - – les fibres synthétiques ou artificielles discontinues de polyimide;
+  - – les fibres synthétiques ou artificielles discontinues de polytétrafluoroéthylène;
+  - – les fibres synthétiques ou artificielles discontinues de poly(sulfure de phénylène);
+  - – les fibres synthétiques ou artificielles discontinues de poly(chlorure de vinyle);
+  - – les autres fibres synthétiques ou artificielles discontinues;
+  - – les fibres synthétiques ou artificielles discontinues de viscose;
+  - – les autres fibres synthétiques ou artificielles discontinues;
+  - – les fils de polyuréthanes segmentés avec des segments souples de polyéthers même guipés;
+  - – les produits du nº 5605 (filés métalliques et fils métallisés) formés d’une âme consistant soit en une bande mince d’aluminium, soit en une pellicule de matière plastique recouverte ou non de poudre d’aluminium, d’une largeur n’excédant pas 5 mm, cette âme étant insérée par collage entre deux pellicules de matière plastique à l’aide d’une colle transparente ou colorée;
+  - – les autres produits de la position 5605;
+  - – les fibres de verre;
+  - – les fibres métalliques;
+  - – les fibres minérales.
+
+- 6\.3. Dans le cas des produits incorporant des «fils de polyuréthanes segmentés avec des segments souples de polyéthers, même guipés», cette tolérance est de 20 % en ce qui concerne les fils.
+- 6\.4. Dans le cas des produits formés d’«une âme consistant soit en une bande mince d’aluminium, soit en une pellicule de matière plastique recouverte ou non de poudre d’aluminium, d’une largeur n’excédant pas 5 mm, cette âme étant insérée par collage entre deux pellicules de matière plastique à l’aide d’une colle transparente ou colorée», cette tolérance est de 30 % en ce qui concerne cette âme.
+
+Note 7 – Autres tolérances applicables à certains produits textiles
+
+- 7\.1. Pour les produits textiles confectionnés qui font l’objet, sur la liste, d’une note de bas de page renvoyant à la présente note introductive, les matières textiles (à l’exception des doublures et des toiles tailleurs) qui ne répondent pas à la règle fixée dans la colonne (3) de la liste pour le produit confectionné concerné peuvent être utilisées à condition qu’elles soient classées dans une position différente de celle du produit et que leur valeur n’excède pas 15 % du prix départ usine du produit.
+- 7\.2. Sans préjudice de la note 6.3, les matières qui ne sont pas classées dans les chap. 50 à 63 peuvent être utilisées librement dans la fabrication des produits textiles, qu’elles contiennent ou non des matières textiles.
+- 7\.3. Lorsqu’une règle de pourcentage s’applique, la valeur des matières non originaires qui ne sont pas classées dans les chap. 50 à 63 doit être prise en considération dans le calcul de la valeur des matières non originaires incorporées.
+
+Note 8 — Définition des traitements spécifiques et des opérations simples effectués dans le cas de certains produits du chapitre 27
+
+- 8\.1.
+
+  Les «traitements spécifiques» au sens des n<sup>os</sup> ex 2707 et 2713 sont les suivants:
+
+  - a) la distillation sous vide;
+  - b) la redistillation par un procédé de fractionnement très poussé;
+  - c) le craquage;
+  - d) le reformage;
+  - e) l’extraction par solvants sélectifs;
+  - f) le traitement comportant l’ensemble des opérations suivantes: traitement à l’acide sulfurique concentré ou à l’oléum ou à l’anhydride sulfurique; neutralisation par des agents alcalins; décoloration et épuration par la terre active par sa nature, la terre activée, le charbon actif ou la bauxite;
+  - g) la polymérisation;
+  - h) l’alkylation;
+  - i) l’isomérisation.
+
+- 8\.2.
+
+  Les «traitements spécifiques» au sens des n<sup>os</sup> 2710, 2711 et 2712 sont les suivants:
+
+  - a) la distillation sous vide;
+  - b) la redistillation par un procédé de fractionnement très poussé;
+  - c) le craquage;
+  - d) le reformage;
+  - e) l’extraction par solvants sélectifs;
+  - f) le traitement comportant l’ensemble des opérations suivantes: traitement à l’acide sulfurique concentré ou à l’oléum ou à l’anhydride sulfurique; neutralisation par des agents alcalins; décoloration et épuration par la terre active par sa nature, la terre activée, le charbon actif ou la bauxite;
+  - g) la polymérisation;
+  - h) l’alkylation;
+  - i) l’isomérisation;
+  - j) la désulfuration, avec emploi d’hydrogène, uniquement en ce qui concerne les huiles lourdes relevant du n<sup>o</sup> ex 2710, conduisant à une réduction d’au moins 85 % de la teneur en soufre des produits traités (méthode ASTM D 1266-59 T);
+  - k) le déparaffinage par un procédé autre que la simple filtration, uniquement en ce qui concerne les produits relevant du n<sup>o</sup> 2710;
+  - l) le traitement à l’hydrogène, autre que la désulfuration, uniquement en ce qui concerne les huiles lourdes relevant du n<sup>o</sup> ex 2710, dans lequel l’hydrogène participe activement à une réaction chimique réalisée à une pression supérieure à 20 bars et à une température supérieure à 250 °C à l’aide d’un catalyseur. Les traitements de finition à l’hydrogène d’huiles lubrifiantes relevant du n<sup>o</sup> ex 2710 ayant notamment pour but d’améliorer la couleur ou la stabilité (par exemple, hydrofinishing ou décoloration) ne sont, en revanche, pas considérés comme des traitements spécifiques;
+  - m) la distillation atmosphérique, uniquement en ce qui concerne les fuel oils relevant du n<sup>o</sup> ex 2710, à condition que ces produits distillent en volume, y compris les pertes, moins de 30 % à 300 °C, d’après la méthode ASTM D 86;
+  - n) le traitement par l’effluve électrique à haute fréquence, uniquement en ce qui concerne les huiles lourdes autres que le gazole et les «fuel oils» du n<sup>o</sup> ex 2710;
+  - o) le déshuilage par cristallisation fractionnée, uniquement en ce qui concerne les produits du n<sup>o</sup> ex 2712, autres que la vaseline, l’ozokérite, la cire de lignite, la cire de tourbe ou la paraffine contenant en poids moins de 0,75 % d’huile.
+
+- 8\.3. Au sens des n<sup>os</sup> ex 2707 et 2713, les opérations simples telles que le nettoyage, la décantation, le dessalage, la séparation de l’eau, le filtrage, la coloration, le marquage, l’obtention d’une teneur en soufre donnée par mélange de produits ayant des teneurs en soufre différentes, toute combinaison de ces opérations ou toute opération similaire ne confèrent pas l’origine.
+
+Note 9 – Définition des traitements et opérationsspécifiques effectués dans le cas de certains produits
+
+- 9\.1. les produits relevant du chapitre 30 qui sont obtenus dans une partie au moyen de cultures cellulaires sont considérés comme des produits originaires de cette partie. On entend par «culture cellulaire» la culture de cellules humaines, animales et végétales dans des conditions contrôlées (telles que températures définies, milieu de croissance, mélange de gaz, pH) en dehors d’un organisme vivant.
+- 9\.2. les produits relevant des chap. 29 (à l’exclusion de: 2905 43 et 2905 44), 30, 32, 33 (à l’exclusion de: 3302 10, 3301) 34, 35 (à l’exclusion de: 3501, 3502 11-3502 19, 3502 20, 3505), 36, 37, 38 (à l’exclusion de: 3809 10, 3823, 3824 60, 3826) et 39 (à l’exclusion de: 3916-3926) obtenus dans une partie par fermentation sont considérés comme originaires de cette partie. La «fermentation» est un procédé biotechnologique dans lequel des cellules humaines, animales ou végétales, des bactéries, des levures, des champignons ou des enzymes sont utilisés pour fabriquer des produits relevant des chap. 29 à 39.
+- 9\.3. les transformations suivantes sont jugées suffisantes, conformément à l’art. 4, par. 1, pour les produits relevant des chap. 28, 29 (à l’exclusion de: 2905 43 et 2905 44), 30, 32, 33 (à l’exclusion de: 3302 10, 3301) 34, 35 (à l’exclusion de: 3501, 3502 11-3502 19, 3502 20, 3505), 36, 37, 38 (à l’exclusion de: 3809 10, 3823, 3824 60, 3826) et 39 (à l’exclusion de: 3916-3926):
+- – Réaction chimique: une «réaction chimique» désigne un processus (y compris un processus biochimique) qui a pour résultat une molécule présentant une nouvelle structure, par rupture des liens intramoléculaires et formation de nouveaux liens intramoléculaires, ou par modification de la disposition spatiale des atomes dans une molécule. Une réaction chimique peut être exprimée par une modification du «numéro CAS».
+- – Ne sont pas pris en considération aux fins de l’obtention du caractère originaire les processus suivants: a) la dissolution dans l’eau ou dans d’autres solvants; b) l’élimination de solvants (y compris l’eau), ou c) l’addition ou l’élimination de l’eau de cristallisation. La réaction chimique telle que définie ci-dessus doit être considérée comme conférant le caractère originaire.
+- – Mélanges: tout mélange délibéré et proportionnellement contrôlé de matières (y compris la dispersion) autre que l’addition de diluants réalisé en vue de respecter des spécifications prédéterminées et débouchant sur la production d’une marchandise dotée de caractéristiques physiques ou chimiques propres aux fins et utilisations de la marchandise et différentes de celles des matières initiales, doit être considéré comme conférant l’origine.
+- –
+
+  Purification: la purification doit être considérée comme conférant le caractère originaire dès lors qu’elle a lieu sur le territoire de l’une des parties ou des deux, sous réserve que l’un des critères suivants soit rempli:
+
+  - a) purification d’une marchandise entraînant l’élimination d’au moins 80 % de la teneur en impuretés existantes, ou
+  - b)
+
+    réduction ou élimination des impuretés permettant d’obtenir une marchandise adéquate pour une ou plusieurs des applications ci-après:
+
+    - i) substances pharmaceutiques, médicinales, cosmétiques, vétérinaires ou alimentaires,
+    - ii) produits et réactifs chimiques utilisés à des fins d’analyse, de diagnostic ou en laboratoire,
+    - iii) éléments et composants à usage microélectronique,
+    - iv) produits à usages optiques spécifiques,
+    - v) utilisation à des fins biotechniques (par exemple dans la culture de cellules, la technologie génétique ou comme catalyseur),
+    - vi) supports utilisés dans les processus de séparation, ou
+    - vii) usages de qualité nucléaire.
+
+- – Modification de la taille des particules: la modification délibérée et contrôlée de la taille des particules d’une marchandise, autre que le simple concassage ou pressage, aboutissant à une marchandise ayant une taille de particule définie, une répartition définie de la taille des particules ou une zone de surface définie, pertinente pour l’usage auquel elle est destinée et présentant des caractéristiques physiques ou chimiques différentes de celles des matières premières, doit être considérée comme conférant le caractère originaire.
+- – Matériaux de référence: les matériaux de référence (y compris les solutions de référence) sont des préparations indiquées à des fins d’analyse, d’étalonnage ou de référencement, présentant des degrés de pureté ou des proportions précis, certifiés par le fabricant. La fabrication de matériaux de référence doit être considérée comme conférant le caractère originaire.
+- – Séparation des isomères: l’isolement ou la séparation des isomères d’un mélange d’isomères doit être considéré comme conférant le caractère originaire.
+
+Annexe II
+
+## Liste des ouvraisons ou transformations à appliquer aux matières non originaires pour que le produit transformé puisse obtenir le caractère originaire
+
+<table>
+<tr><th>Position SH</th><th>Désignation du produit</th><th>Ouvraison ou transformation appliquée à des matières non originaires conférant le caractère de produit originaire</th></tr>
+<tr><th>(1)</th><th>(2)</th><th>(3)</th></tr>
+<tr><td>Chapitre 1</td><td>Animaux vivants</td><td>Tous les animaux du chapitre 1 doivent être entièrement obtenus</td></tr>
+<tr><td>Chapitre 2</td><td>Viandes et abats comestibles</td><td>Fabrication dans laquelle toutes les viandes et tous les abats comestibles contenus dans les produits de ce chapitre doivent être entièrement obtenus.</td></tr>
+<tr><td>Chapitre 3</td><td>Poissons et crustacés, mollusques et autres invertébrés aquatiques</td><td>Fabrication dans laquelle toutes les matières du chapitre 3 utilisées doivent être entièrement obtenues</td></tr>
+<tr><td>Chapitre 4</td><td>Lait et produits de la laiterie; œufs d’oiseaux, miel naturel, produits comestibles d’origine animale, non dénommés ni compris ailleurs</td><td>Fabrication dans laquelle toutes les matières du chapitre 4 utilisées doivent être entièrement obtenues</td></tr>
+<tr><td>ex Chapitre 5</td><td>Autres produits d’origine animale, non dénommés ni compris ailleurs; à l’exclusion des</td><td>Fabrication à partir de matières de toute position</td></tr>
+<tr><td>ex 0511 91</td><td>Œufs et laitances de poissons impropres à l’alimentation humaine</td><td>La totalité des œufs et de la laitance doivent être intégralement obtenus.</td></tr>
+<tr><td>Chapitre 6</td><td>Plantes vivantes et produits de la floriculture; bulbes, racines et produits similaires; fleurs coupées et feuillages d’ornement</td><td>Fabrication dans laquelle toutes les matières du chapitre 6 utilisées doivent être entièrement obtenues</td></tr>
+<tr><td>Chapitre 7</td><td>Légumes, plantes, racines et tubercules alimentaires</td><td>Fabrication dans laquelle toutes les matières du chapitre 7 utilisées doivent être entièrement obtenues</td></tr>
+<tr><td>Chapitre 8</td><td>Fruits comestibles; Écorces d’agrumes ou de melons</td><td>Fabrication dans laquelle tous les fruits, fruits à coques et écorces d’agrumes ou de melons du chapitre 8 sont entièrement obtenus</td></tr>
+<tr><td>Chapitre 9</td><td>Café, thé, maté et épices</td><td>Fabrication à partir de matières de toute position</td></tr>
+<tr><td>Chapitre 10</td><td>Céréales</td><td>Fabrication dans laquelle toutes les matières du chapitre 10 utilisées doivent être entièrement obtenues</td></tr>
+<tr><td>Chapitre 11</td><td>Produits de la minoterie; malt; fécules et amidons; inuline; gluten de froment</td><td>Fabrication dans laquelle toutes les matières mises en œuvre qui relèvent des chap. 8, 10 et 11, positions 0701, 0714, 2302 et 2303, et sous-position 0710 10, doivent être entièrement obtenues.</td></tr>
+<tr><td>Chapitre 12</td><td>Graines et fruits oléagineux; graines, semences et fruits divers; plantes industrielles ou médicinales; pailles et fourrages</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>ex Chapitre 13</td><td>Gomme laque; gommes, résines et autres sucs et extraits végétaux; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position</td></tr>
+<tr><td>ex 1302</td><td>Matières pectiques, pectinates et pectates</td><td>Fabrication à partir de matières de toute position dans laquelle le poids du sucre mis en œuvre n’excède pas 40 % du poids du produit final.</td></tr>
+<tr><td>Chapitre 14</td><td>Matières à tresser et autres produits d’origine végétale, non dénommés ni compris ailleurs</td><td>Fabrication à partir de matières de toute position</td></tr>
+<tr><td>ex Chapitre 15</td><td>Graisses et huiles animales ou végétales; produits de leur dissociation; graisses alimentaires élaborées; cires d’origine animale ou végétale; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>1504 à 1506</td><td>Graisses et huiles de poissons et de mammifères marins et leurs fractions; graisse de suint et substances grasses dérivées, y compris la lanoline; autres graisses et huiles animales et leurs fractions, même raffinées, mais non chimiquement modifiées:</td><td>Fabrication à partir de matières de toute position</td></tr>
+<tr><td>1508</td><td>Huile d’arachide et ses fractions, même raffinées, mais non chimiquement modifiées</td><td>Fabrication à partir de matières de toute sous-position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>1509 et 1510</td><td>Huile d’olive et ses fractions</td><td>Fabrication dans laquelle toutes les matières végétales mises en œuvre doivent être entièrement obtenues.</td></tr>
+<tr><td>1511</td><td>Huile de palme et ses fractions, même raffinées, mais non chimiquement modifiées</td><td>Fabrication à partir de matières de toute sous-position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>ex 1512</td><td>Huiles de graines de tournesol et leurs fractions:</td><td></td></tr>
+<tr><td></td><td>– destinées à des usages techniques ou industriels autres que la fabrication de produits pour l’alimentation humaine</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td></td><td>– autres</td><td>Fabrication dans laquelle toutes les matières végétales mises en œuvre doivent être entièrement obtenues.</td></tr>
+<tr><td>1515</td><td>Autres graisses et huiles végétales (y compris l’huile de jojoba) et leurs fractions, fixes, même raffinées, mais non chimiquement modifiées</td><td>Fabrication à partir de matières de toute sous-position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>ex 1516</td><td>Graisses et huiles et leurs fractions, de poissons</td><td>Fabrication à partir de matières de toute position</td></tr>
+<tr><td>1520</td><td>Glycérol brut; eaux et lessives glycérineuses</td><td>Fabrication à partir de matières de toute position</td></tr>
+<tr><td>Chapitre 16</td><td>Préparations de viandes, de poissons ou de crustacés, de mollusques ou d’autres invertébrés aquatiques</td><td>Fabrication dans laquelle toutes les matières des chap. 2, 3 et 16 utilisées doivent être entièrement obtenues</td></tr>
+<tr><td>ex Chapitre 17</td><td>Sucres et sucreries; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>1702</td><td>Autres sucres, y compris le lactose, le maltose, le glucose et le fructose (lévulose) chimiquement purs, à l’état solide; sirops de sucres sans addition d’aromatisants ou de colorants; succédanés du miel, même mélangés de miel naturel; sucres et mélasses caramélisés:</td><td></td></tr>
+<tr><td></td><td>– maltose ou fructose chimiquement purs</td><td>Fabrication à partir de matières de toute position, y compris à partir des autres matières du n<sup>o</sup> 1702</td></tr>
+<tr><td></td><td>– Autres</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, dans laquelle le poids des matières des nos 1101 à 1108, 1701 et 1703 utilisées ne doit pas excéder 30 % du poids du produit final.</td></tr>
+<tr><td>1704</td><td>Sucreries sans cacao (y compris le chocolat blanc)</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, dans laquelle: – le poids du sucre mis en œuvre n’excède pas 40 % du poids du produit final ou – la valeur du sucre mis en œuvre n’excède pas 30 % du prix départ usine du produit</td></tr>
+<tr><td>ex Chapitre 18</td><td>Cacao et ses préparations; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position exceptée celle du produit, dans laquelle le poids du sucre mis en œuvre n’excède pas 40 % du poids du produit final</td></tr>
+<tr><td>ex 1806</td><td>Chocolat et autres préparations alimentaires contenant du cacao; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, dans laquelle: – le poids du sucre mis en œuvre n’excède pas 40 % du poids du produit final ou – la valeur du sucre mis en œuvre n’excède pas 30 % du prix départ usine du produit</td></tr>
+<tr><td>1806 10</td><td>Poudre de cacao avec addition de sucre ou d’autres édulcorants</td><td>Fabrication à partir de matières de toute position exceptée celle du produit, dans laquelle le poids du sucre mis en œuvre n’excède pas 40 % du poids du produit final</td></tr>
+<tr><td>1901</td><td>Extraits de malt; préparations alimentaires de farines, gruaux, semoules, amidons, fécules ou extraits de malt, ne contenant pas de cacao ou contenant moins de 40 % en poids de cacao calculés sur une base entièrement dégraissée, non dénommées ni comprises ailleurs; préparations alimentaires de produits des n<sup>os</sup> 0401 à 0404, ne contenant pas de cacao ou contenant moins de 5 % en poids de cacao calculés sur une base entièrement dégraissée, non dénommées ni comprises ailleurs:</td><td></td></tr>
+<tr><td></td><td>– extraits de malt</td><td>Fabrication à partir des céréales du chapitre 10</td></tr>
+<tr><td></td><td>– Autres</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, dans laquelle le poids individuel du sucre et des matières du chapitre 4 mises en œuvre ne doit pas excéder 40 % du poids du produit final</td></tr>
+<tr><td>1902</td><td>Pâtes alimentaires, même cuites ou farcies (de viande ou d’autres substances) ou bien autrement préparées, telles que spaghetti, macaroni, nouilles, lasagnes, gnocchi, ravioli, cannelloni; couscous, même préparé:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, dans laquelle: – le poids des matières des nos 1006 et 1101 à 1108 utilisées ne doit pas excéder 20 % du poids du produit final, et – le poids des matières mises en œuvre relevant des chap. 2, 3 et 16 ne doit pas excéder 20 % du poids du produit final</td></tr>
+<tr><td>1903</td><td>Tapioca et ses succédanés préparés à partir de fécules, sous forme de flocons, grumeaux, grains perlés, criblures ou formes similaires</td><td>Fabrication à partir de matières de toute position, à l’exclusion de la fécule de pommes de terre du n<sup>o</sup> 1108</td></tr>
+<tr><td>1904</td><td>Produits à base de céréales obtenus par soufflage ou grillage (corn flakes, par exemple); céréales (autres que le maïs) en grains ou sous forme de flocons ou d’autres grains travaillés (à l’exception de la farine, du gruau et de la semoule), précuites ou autrement préparées, non dénommées ni comprises ailleurs</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, dans laquelle: – le poids des matières des nos 1006 et 1101 à 1108 utilisées ne doit pas excéder 20 % du poids du produit final, et – le poids du sucre mis en œuvre n’excède pas 40 % du poids du produit final</td></tr>
+<tr><td>1905</td><td>Produits de la boulangerie, de la pâtisserie ou de la biscuiterie, même additionnés de cacao; hosties, cachets vides des types utilisés pour médicaments, pains à cacheter, pâtes séchées de farine, d’amidon ou de fécule en feuilles et produits similaires</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, dans laquelle le poids des matières des nos 1006 et 1101 à 1108 mises en œuvre ne doit pas excéder 20 % du poids du produit final</td></tr>
+<tr><td>ex Chapitre 20</td><td>Préparations de légumes, de fruits ou d’autres parties de plantes; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>2002 et 2003</td><td>Tomates, champignons et truffes, préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, dans laquelle toutes les matières du chapitre 7 utilisées doivent être entièrement obtenues</td></tr>
+<tr><td>2006</td><td>Légumes, fruits, écorces de fruits et autres parties de plantes, confits au sucre (égouttés, glacés ou cristallisés)</td><td>Fabrication à partir de matières de toute position exceptée celle du produit, dans laquelle le poids du sucre mis en œuvre n’excède pas 40 % du poids du produit final</td></tr>
+<tr><td>2007</td><td>Confitures, gelées, marmelades, purées et pâtes de fruits, obtenues par cuisson, avec ou sans addition de sucre ou d’autres édulcorants</td><td>Fabrication à partir de matières de toute position exceptée celle du produit, dans laquelle le poids du sucre mis en œuvre n’excède pas 40 % du poids du produit final</td></tr>
+<tr><td>ex 2008</td><td>Les produits, autres que: – Fruits à coques, sans addition de sucre ou d’alcool – Beurre d’arachide; mélanges à base de céréales; cœurs de palmier; maïs – Fruits (y compris les fruits à coques), cuits autrement qu’à l’eau ou à la vapeur, sans addition de sucre, congelés</td><td>Fabrication à partir de matières de toute position exceptée celle du produit, dans laquelle le poids du sucre mis en œuvre n’excède pas 40 % du poids du produit final</td></tr>
+<tr><td>2009</td><td>Jus de fruits (y compris les moûts de raisins) ou de légumes, non fermentés, sans addition d’alcool, avec ou sans addition de sucre ou d’autres édulcorants</td><td>Fabrication à partir de matières de toute position exceptée celle du produit, dans laquelle le poids du sucre mis en œuvre n’excède pas 40 % du poids du produit final</td></tr>
+<tr><td>ex Chapitre 21</td><td>Préparations alimentaires diverses; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>2103</td><td>– Préparations pour sauces et sauces préparées; condiments et assaisonnements composés</td><td>Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. La farine de moutarde ou la moutarde préparée peuvent toutefois être utilisées</td></tr>
+<tr><td></td><td>– Farine de moutarde et moutarde préparée</td><td>Fabrication à partir de matières de toute position</td></tr>
+<tr><td>2105</td><td>Glaces de consommation, même contenant du cacao</td><td>Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit, dans laquelle: – le poids individuel du sucre et des matières du chapitre 4 mis en œuvre n’excède pas 40 % du poids du produit final et – le poids total combiné du sucre et des matières du chapitre 4 mis en œuvre n’excède pas 60 % du poids du produit final</td></tr>
+<tr><td>2106</td><td>Préparations alimentaires non dénommées ni comprises ailleurs</td><td>Fabrication à partir de matières de toute position exceptée celle du produit, dans laquelle le poids du sucre mis en œuvre n’excède pas 40 % du poids du produit final</td></tr>
+<tr><td>ex Chapitre 22</td><td>Boissons, liquides alcooliques et vinaigres; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit, dans laquelle toutes les matières mises en œuvre qui relèvent des nos 0806 10, 2009 61 et 2009 69 sont entièrement obtenues</td></tr>
+<tr><td>2202</td><td>Eaux, y compris les eaux minérales et les eaux gazéifiées, additionnées de sucre ou d’autres édulcorants ou aromatisées, et autres boissons non alcooliques, à l’exclusion des jus de fruits ou de légumes du n<sup>o</sup> 2009</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>2207 et 2208</td><td>Alcool éthylique non dénaturé d’un titre alcoométrique volumique supérieur ou inférieur à 80 % vol; eaux-de-vie, liqueurs et autres boissons spiritueuses</td><td>Fabrication à partir de matières de toute position excepté les n<sup>os</sup> 2207 et 2208, dans laquelle toutes les matières mises en œuvre qui relèvent des sous-positions 0806 10, 2009 61 et 2009 69 doivent être entièrement obtenues</td></tr>
+<tr><td>ex Chapitre 23</td><td>Résidus et déchets des industries alimentaires; aliments préparés pour animaux; à l’exclusion des</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>2309</td><td>Préparations des types utilisés pour l’alimentation des animaux</td><td>Fabrication dans laquelle: – toutes les matières des chap. 2 et 3 mises en œuvre sont entièrement obtenues, – le poids des matières mises en œuvre qui relèvent des chap. 10 et 11 et des positions 2302 et 2303 n’excède pas 20 % du poids du produit final, – le poids individuel du sucre et des matières du chapitre 4 mis en œuvre n’excède pas 40 % du poids du produit final, et – le poids total combiné du sucre et des matières du chapitre 4 mis en œuvre n’excède pas 50 % du poids du produit final</td></tr>
+<tr><td>ex Chapitre 24</td><td>Tabacs et succédanés de tabac fabriqués; à l’exclusion de:</td><td>Fabrication à partir de matières de toute position, dans laquelle le poids des matières de la position 2401 mises en œuvre n’excède pas 30 % du poids total des matières du chapitre 24 mises en œuvre</td></tr>
+<tr><td>2401</td><td>Tabacs bruts ou non fabriqués; déchets de tabac</td><td>Fabrication dans laquelle toutes les matières de la position 2401 utilisées doivent être entièrement obtenues</td></tr>
+<tr><td>ex 2402</td><td>Cigarettes, en tabac ou en succédanés de tabac</td><td>Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit et du tabac à fumer de la sous-position 2403 19, dans laquelle au moins 10 % en poids de toutes les matières du nº 2401 utilisées sont entièrement obtenues</td></tr>
+<tr><td>ex 2403</td><td>Produits destinés à l’inhalation par diffusion chauffée ou d’autres moyens, sans combustion</td><td>Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit, dans laquelle 10 % au moins en poids de toutes les matières du n<sup>o</sup> 2401 utilisées sont entièrement obtenues</td></tr>
+<tr><td>ex Chapitre 25</td><td>Sel; soufre; terres et pierres; plâtres, chaux et ciments; à l’exclusion des</td><td>Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 70 % du prix départ usine du produit</td></tr>
+<tr><td>ex 2519</td><td>Carbonate de magnésium naturel (magnésite) broyé et mis en récipients hermétiques et oxyde de magnésium, même pur, à l’exclusion de la magnésie électrofondue et de la magnésie calcinée à mort (frittée)</td><td>Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, le carbonate de magnésium naturel (magnésite) peut être utilisé</td></tr>
+<tr><td>Chapitre 26</td><td>Minerais, scories et cendres</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>ex Chapitre 27</td><td>Combustibles minéraux, huiles minérales et produits de leur distillation; matières bitumineuses; cires minérales; à l’exclusion de:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex 2707</td><td>Huiles dans lesquelles les constituants aromatiques prédominent en poids par rapport aux constituants non aromatiques, similaires aux huiles minérales obtenues par distillation de goudrons de houille de haute température, distillant plus de 65 % de leur volume jusqu’à 250 °C (y compris les mélanges d’essence de pétrole et de benzol), destinées à être utilisées comme carburants ou comme combustibles</td><td>Opérations de raffinage et/ou un ou plusieurs traitements spécifiques <sup>(1)</sup> ou Autres opérations, dans lesquelles toutes les matières utilisées doivent être classées dans une position différente de celle du produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>2710</td><td>Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes; préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l’élément de base; déchets d’huiles</td><td>Opérations de raffinage et/ou un ou plusieurs traitements spécifiques <sup>(1)</sup> ou Autres opérations, dans lesquelles toutes les matières utilisées doivent être classées dans une position différente de celle du produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>2711</td><td>Gaz de pétrole et autres hydrocarbures gazeux</td><td>Opérations de raffinage et/ou un ou plusieurs traitements spécifiques <sup>(1)</sup> ou Autres opérations, dans lesquelles toutes les matières utilisées doivent être classées dans une position différente de celle du produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>2712</td><td>Vaseline; paraffine, cire de pétrole microcristalline, slack wax, ozokérite, cire de lignite, cire de tourbe, autres cires minérales et produits similaires obtenus par synthèse ou par d’autres procédés, même colorés</td><td>Opérations de raffinage et/ou un ou plusieurs traitements spécifiques <sup>(1)</sup> ou Autres opérations, dans lesquelles toutes les matières utilisées doivent être classées dans une position différente de celle du produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>2713</td><td>Coke de pétrole, bitume de pétrole et autres résidus des huiles de pétrole ou de minéraux bitumineux</td><td>Opérations de raffinage et/ou un ou plusieurs traitements spécifiques <sup>(1)</sup> ou Autres opérations, dans lesquelles toutes les matières utilisées doivent être classées dans une position différente de celle du produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 28</td><td>Produits chimiques inorganiques; composés inorganiques ou organiques de métaux précieux, d’éléments radioactifs, de métaux des terres rares ou d’isotopes</td><td>Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 20 % du prix départ usine du produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex Chapitre 29</td><td>Produits chimiques organiques; à l’exclusion de:</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 20 % du prix départ usine du produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex 2901</td><td>Hydrocarbures acycliques utilisés comme carburants ou comme combustibles</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou Opérations de raffinage et/ou un ou plusieurs traitements spécifiques <sup>(1)</sup> ou Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex 2902</td><td>Cyclanes et cyclènes (à l’exclusion des azulènes), benzène, toluène et xylènes, utilisés comme carburants ou comme combustibles</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou Opérations de raffinage et/ou un ou plusieurs traitements spécifiques <sup>(1)</sup> ou Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex 2905</td><td>Alcoolates métalliques des alcools de la présente position et de l’éthanol</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou Fabrication à partir de matières de toute position, y compris à partir des autres matières du nº 2905. Toutefois, les alcoolates métalliques de la présente position peuvent être utilisés, à condition que leur valeur totale n’excède pas 20 % du prix départ usine du produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 30</td><td>Produits pharmaceutiques</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou Fabrication à partir de matières de toute position</td></tr>
+<tr><td>Chapitre 31</td><td>Engrais</td><td>Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 20 % du prix départ usine du produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 32</td><td>Extraits tannants ou tinctoriaux; tanins et leurs dérivés; pigments et autres matières colorantes; peintures et vernis; mastics; encres</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 20 % du prix départ usine du produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 33</td><td>Huiles essentielles et résinoïdes; produits de parfumerie ou de toilette préparés et préparations cosmétiques</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 20 % du prix départ usine du produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 34</td><td>Savons, agents de surface organiques, préparations pour lessives, préparations lubrifiantes, cires artificielles, cires préparées, produits d’entretien, bougies et articles similaires, pâtes à modeler, «cires pour l’art dentaire» et compositions pour l’art dentaire à base de plâtre</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 20 % du prix départ usine du produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 35</td><td>Matières albuminoïdes; amidons modifiés; colles; enzymes</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 20 % du prix départ usine du produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 40 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 36</td><td>Explosifs; produits pyrotechniques; allumettes; alliages pyrophoriques; matières inflammables</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 20 % du prix départ usine du produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 37</td><td>Produits photographiques ou cinématographiques</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 20 % du prix départ usine du produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex Chapitre 38</td><td>Produits divers des industries chimiques; à l’exclusion des:</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 20 % du prix départ usine du produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex 3811</td><td>Préparations antidétonantes, inhibiteurs d’oxydation, additifs peptisants, améliorants de viscosité, additifs anticorrosifs et autres additifs préparés, pour huiles minérales (y compris l’essence) ou pour autres liquides utilisés aux mêmes fins que les huiles minérales:</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou</td></tr>
+<tr><td></td><td>– Additifs préparés pour lubrifiants contenant des huiles de pétrole ou de minéraux bitumineux</td><td>Fabrication dans laquelle la valeur de toutes les matières du n<sup>o</sup> 3811 utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex 3824 99 et ex 3826 00</td><td>Biodiesel</td><td>Fabrication dans laquelle du biodiesel est obtenu par transesthérification, et/ou esthérification ou par hydrotraitement</td></tr>
+<tr><td>Chapitre 39</td><td>Matières plastiques et ouvrages en ces matières</td><td>Traitement(s) spécifique(s) <sup>(4)</sup> ou Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, des matières de la même position que le produit peuvent être utilisées, à condition que leur valeur totale n’excède pas 20 % du prix départ usine du produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex Chapitre 40</td><td>Caoutchouc et ouvrages en caoutchouc; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex 4012</td><td>Pneumatiques et bandages (pleins ou creux), rechapés en caoutchouc</td><td>Rechapage de pneumatiques ou de bandages (pleins ou creux) usagés</td></tr>
+<tr><td>ex Chapitre 41</td><td>Peaux (autres que les pelleteries) et cuirs; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>4104 à 4106</td><td>Cuirs et peaux épilés et peaux d’animaux dépourvus de poils, tannés ou en croûte, même refendus, mais non autrement préparés</td><td>Retannage de peaux ou de cuirs prétannés ou Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>Chapitre 42</td><td>Ouvrages en cuir; articles de bourrellerie ou de sellerie; articles de voyage, sacs à main et contenants similaires; ouvrages en boyau</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex Chapitre 43</td><td>Pelleteries et fourrures; pelleteries factices; à l’exclusion des</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>ex 4302</td><td>Pelleteries tannées ou apprêtées, assemblées:</td><td></td></tr>
+<tr><td></td><td>– Nappes, sacs, croix, carrés et présentations similaires</td><td>Blanchiment ou teinture, avec coupe et assemblage de peaux tannées ou apprêtées, non assemblées</td></tr>
+<tr><td></td><td>– Autres</td><td>Fabrication à partir de peaux tannées ou apprêtées, non assemblées</td></tr>
+<tr><td>4303</td><td>Vêtements, accessoires du vêtement et autres articles en pelleteries</td><td>Fabrication à partir de peaux tannées ou apprêtées, non assemblées du n<sup>o</sup> 4302</td></tr>
+<tr><td>ex Chapitre 44</td><td>Bois et ouvrages en bois; charbon de bois; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex 4407</td><td>Bois sciés ou dédossés longitudinalement, tranchés ou déroulés, d’une épaisseur excédant 6 mm, rabotés, poncés ou collés par assemblage en bout</td><td>Rabotage, ponçage ou collage par assemblage en bout</td></tr>
+<tr><td>ex 4408</td><td>Feuilles pour placage (y compris celles obtenues par tranchage de bois stratifié) et feuilles pour contreplaqués, d’une épaisseur n’excédant pas 6 mm, tranchées, et autres bois sciés longitudinalement, tranchés ou déroulés, d’une épaisseur n’excédant pas 6 mm, rabotés, poncés ou collés par assemblage en bout</td><td>Jointage, rabotage, ponçage ou collage par assemblage en bout</td></tr>
+<tr><td>ex 4410 à ex 4413</td><td>Baguettes et moulures en bois pour meubles, cadres, décors intérieurs, conduites électriques et similaires</td><td>Transformation sous forme de baguettes ou de moulures</td></tr>
+<tr><td>ex 4415</td><td>Caisses, caissettes, cageots, cylindres et emballages similaires, en bois</td><td>Fabrication à partir de planches non coupées à dimension</td></tr>
+<tr><td>ex 4418</td><td>– Ouvrages de menuiserie et pièces de charpente pour construction, en bois</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit. Toutefois, des panneaux cellulaires en bois ou des bardeaux (shingles et shakes) peuvent être utilisés.</td></tr>
+<tr><td></td><td>– Baguettes et moulures</td><td>Transformation sous forme de baguettes ou de moulures</td></tr>
+<tr><td>ex 4421</td><td>Bois préparés pour allumettes; chevilles en bois pour chaussures</td><td>Fabrication à partir de bois de toute position, à l’exclusion des bois filés du n<sup>o</sup> 4409</td></tr>
+<tr><td>Chapitre 45</td><td>Liège et ouvrages en liège</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 46</td><td>Ouvrages de sparterie ou de vannerie</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 47</td><td>Pâtes de bois ou d’autres matières fibreuses cellulosiques; papier ou carton à recycler (déchets et rebuts)</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 48</td><td>Papiers et cartons; ouvrages en pâte de cellulose, en papier ou en carton</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 49</td><td>Produits de l’édition, de la presse ou des autres industries graphiques; textes manuscrits ou dactylographiés et plans</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex Chapitre 50</td><td>Soie; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>ex 5003</td><td>Déchets de soie (y compris les cocons non dévidables, les déchets de fils et les effilochés), cardés ou peignés</td><td>Cardage ou peignage de déchets de soie</td></tr>
+<tr><td>5004 à ex 5006</td><td>Fils de soie et fils de déchets de soie</td><td><sup>(2)</sup> Filage de fibres naturelles ou Extrusion de filaments synthétiques ou artificiels continus combinée à un filage ou Extrusion de filaments synthétiques ou artificiels continus combinée à un retordage ou Retordage combiné à toute autre opération mécanique</td></tr>
+<tr><td>5007</td><td>Tissus de soie ou de déchets de soie</td><td><sup>(2)</sup> Filage de fibres discontinues naturelles et/ou synthétiques ou artificielles, associé à du tissage ou Extrusion de fils de filaments synthétiques ou artificiels combinée à un tissage ou Retordage, ou toute opération mécanique, combiné à un tissage ou Tissage combiné à une teinture ou Teinture de fils combiné à un tissage ou Tissage combiné à une impression ou Impression (en tant qu’opération indépendante)</td></tr>
+<tr><td>ex Chapitre 51</td><td>Laine, poils fins ou grossiers; fils et tissus de crin; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>5106 à 5110</td><td>Fils de laine, de poils fins ou grossiers ou de crin</td><td><sup>(2)</sup> Filage de fibres naturelles ou Extrusion de fibres synthétiques ou artificielles combinée à un filage ou Retordage combiné à toute autre opération mécanique</td></tr>
+<tr><td>5111 à 5113</td><td>Tissus de laine, de poils fins ou grossiers ou de crin:</td><td><sup>(2)</sup> Filage de fibres discontinues naturelles et/ou synthétiques ou artificielles, associé à du tissage ou Extrusion de fils de filaments synthétiques ou artificiels combinée à un tissage ou Tissage combiné à une teinture ou Teinture de fils combiné à un tissage ou Tissage combiné à une impression ou Impression (en tant qu’opération indépendante)</td></tr>
+<tr><td>ex Chapitre 52</td><td>Coton; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>5204 à 5207</td><td>Fils de coton</td><td><sup>(2)</sup> Filage de fibres naturelles ou Extrusion de fibres synthétiques ou artificielles combinée à un filage ou Retordage combiné à toute autre opération mécanique</td></tr>
+<tr><td>5208 à 5212</td><td>Tissus de coton</td><td><sup>(2)</sup> Filage de fibres discontinues naturelles et/ou synthétiques ou artificielles, associé à du tissage ou Extrusion de fils de filaments synthétiques ou artificiels combinée à un tissage ou Retordage, ou toute opération mécanique, combiné à un tissage ou Tissage combiné à une teinture, une enduction ou une stratification ou Teinture de fils combiné à un tissage ou Tissage combiné à une impression ou Impression (en tant qu’opération indépendante)</td></tr>
+<tr><td>ex Chapitre 53</td><td>Autres fibres textiles végétales; fils de papier et tissus de fils de papier; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>5306 à 5308</td><td>Fils d’autres fibres textiles végétales; fils de papier</td><td><sup>(2)</sup> Filage de fibres naturelles ou Extrusion de fibres synthétiques ou artificielles combinée à un filage ou Retordage combiné à toute autre opération mécanique</td></tr>
+<tr><td>5309 à 5311</td><td>Tissus d’autres fibres textiles végétales; tissus de fils de papier</td><td><sup>(2)</sup> Filage de fibres discontinues naturelles et/ou synthétiques ou artificielles, associé à du tissage ou Extrusion de fils de filaments synthétiques ou artificiels combinée à un tissage ou Tissage combiné à une teinture, une enduction ou une stratification ou Teinture de fils combiné à un tissage ou Tissage combiné à une impression ouv Impression (en tant qu’opération indépendante)</td></tr>
+<tr><td>5401 à 5406</td><td>Fils, monofilaments et fils de filaments synthétiques ou artificiels</td><td><sup>(2)</sup> Filage de fibres naturelles ou Extrusion de fibres synthétiques ou artificielles combinée à un filage ou Retordage combiné à toute autre opération mécanique</td></tr>
+<tr><td>5407 et 5408</td><td>Tissus de fils de filaments synthétiques ou artificiels</td><td><sup>(2)</sup> Filage de fibres discontinues naturelles et/ou synthétiques ou artificielles, associé à du tissage ou Extrusion de fils de filaments synthétiques ou artificiels combinée à un tissage ou Retordage, ou toute opération mécanique, combiné à un tissage ou Teinture de fils combiné à un tissage ou Tissage combiné à une teinture, une enduction ou une stratification ou Tissage combiné à une impression ou Impression (en tant qu’opération indépendante)</td></tr>
+<tr><td>5501 à 5507</td><td>Fibres synthétiques ou artificielles discontinues</td><td>Extrusion de fibres artificielles ou synthétiques.</td></tr>
+<tr><td>5508 à 5511</td><td>Fils à coudre et autres fils de fibres synthétiques ou artificielles discontinues</td><td><sup>(2)</sup> Filage de fibres naturelles ou Extrusion de fibres synthétiques ou artificielles combinée à un filage ou Retordage combiné à toute autre opération mécanique</td></tr>
+<tr><td>5512 à 5516</td><td>Tissus de fibres synthétiques ou artificielles discontinues:</td><td><sup>(2)</sup> Filage de fibres discontinues naturelles et/ou synthétiques ou artificielles, associé à du tissage ou Extrusion de fils de filaments synthétiques ou artificiels combinée à un tissage ou Retordage, ou toute opération mécanique, combiné à un tissage ou Tissage combiné à une teinture, une enduction ou une stratification ou Teinture de fils combiné à un tissage ou Tissage combiné à une impression ou Impression (en tant qu’opération indépendante)</td></tr>
+<tr><td>ex Chapitre 56</td><td>Ouates, feutres et non tissés; fils spéciaux; ficelles, cordes et cordages; articles de corderie; à l’exclusion des:</td><td><sup>(2)</sup> Filage de fibres naturelles ou Extrusion de fibres synthétiques ou artificielles combinée à un filage</td></tr>
+<tr><td>5601</td><td>Ouates de matières textiles et articles en ces ouates; fibres textiles d’une longueur n’excédant pas 5 mm (tontisses), nœuds et noppes (boutons) de matières textiles</td><td>Filage de fibres naturelles ou Extrusion de fibres synthétiques ou artificielles combinée à un filage ou Flocage accompagné de teinture ou d’impression ou Enduction, flocage, stratification ou métallisation, combinés à au moins deux opérations principales de préparation ou de finissage (telles que calandrage, test de résistance au rétrécissement, thermofixage, fini permanent) à condition que la valeur des matières mises en œuvre ne dépasse pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>5602</td><td>Feutres, même imprégnés, enduits, recouverts ou stratifiés:</td><td></td></tr>
+<tr><td></td><td>– Feutres aiguilletés</td><td><sup>(2)</sup> Extrusion de fibres synthétiques ou artificielles combinée à la fabrication de tissu. Toutefois: – des fils de filaments de polypropylène du n<sup>o</sup> 5402, – des fibres de polypropylène des n<sup>os</sup> 5503 ou 5506, ou – des câbles de filaments de polypropylène du n<sup>o</sup> 5501, dont le titre de chaque fibre ou filament constitutif est, dans tous les cas, inférieur à 9 décitex, peuvent être utilisés pour autant que leur valeur totale n’excède pas 40 % du prix départ usine du produit ou fabrication de tissu non-tissé uniquement dans le cas des feutres élaborés à partir de fibres naturelles</td></tr>
+<tr><td></td><td>– Autres</td><td><sup>(2)</sup> Extrusion de fibres synthétiques ou artificielles combinée à la fabrication de tissu, ou Formation de non-tissés uniquement, dans le cas des autres feutres élaborés à partir de fibres naturelles</td></tr>
+<tr><td>5603</td><td>Non-tissés, même imprégnés, enduits, recouverts ou stratifiés</td><td></td></tr>
+<tr><td>5603 11 à 5603 14</td><td>Non-tissés, même imprégnés, enduits, recouverts ou stratifiés de filaments synthétiques ou artificiels</td><td>Fabrication à partir – de filaments à orientation déterminée ou aléatoire ou – de substances ou de polymères d’origine naturelle, synthétique ou artificielle, suivie dans les deux cas par une consolidation formant un non-tissé</td></tr>
+<tr><td>5603 91 à 5603 94</td><td>Non-tissés, même imprégnés, enduits, recouverts ou stratifiés, autres que de filaments synthétiques ou artificiels</td><td>Fabrication à partir – de fibres discontinues à orientation déterminée ou aléatoire et/ou – de fils coupés d’origine naturelle, synthétique ou artificielle, suivie dans les deux cas par une consolidation formant un non-tissé</td></tr>
+<tr><td>5604</td><td>Fils et cordes de caoutchouc, recouverts de textiles; fils textiles, lames et formes similaires des n<sup>os</sup> 5404 ou 5405, imprégnés, enduits, recouverts ou gainés de caoutchouc ou de matière plastique:</td><td></td></tr>
+<tr><td></td><td>– Fils et cordes de caoutchouc, recouverts de textiles</td><td>Fabrication à partir de fils ou de cordes de caoutchouc, non recouverts de matières textiles</td></tr>
+<tr><td></td><td>– Autres</td><td><sup>(2)</sup> Filage de fibres naturelles ou Extrusion de fibres synthétiques ou artificielles combinée à un filage ou Retordage combiné à toute autre opération mécanique</td></tr>
+<tr><td>5605</td><td>Filés métalliques et fils métallisés, même guipés, constitués par des fils textiles, des lames ou formes similaires des n<sup>os</sup> 5404 ou 5405, combinés avec du métal sous forme de fils, de lames ou de poudres, ou recouverts de métal</td><td><sup>(2)</sup> Filage de fibres naturelles et/ou synthétiques ou artificielles discontinues ou Extrusion de fibres synthétiques ou artificielles combinée à un filage ou Retordage combiné à toute autre opération mécanique</td></tr>
+<tr><td>5606</td><td>Fils guipés, lames et formes similaires des n<sup>os</sup> 5404 ou 5405 guipées, autres que ceux du n<sup>o</sup> 5605 et autres que les fils de crins guipés; fils de chenille; fils dits «de chaînette»</td><td><sup>(2)</sup> Extrusion de fibres synthétiques ou artificielles combinée à un filage ou Détordage combiné à un guipage ouvv Filage de fibres naturelles et/ou synthétiques ou artificielles discontinues ou Flocage combiné à une teinture</td></tr>
+<tr><td>Chapitre 57</td><td>Tapis et autres revêtements de sol en matières textiles:</td><td><sup>(2)</sup> Filage de fibres naturelles et/ou synthétiques ou artificielles discontinues combiné à un tissage ou à un touffetage ou Extrusion de filaments synthétiques ou artificiels combinée à un tissage ou à un touffetage ou Fabrication à partir de fils de coco, de sisal, de jute ou de fibranne filée sur un métier continu à anneaux classique ou Touffetage combiné à une teinture ou une impression ou Flocage combiné à une teinture ou une impression ou Extrusion de fibres synthétiques ou artificielles combinée à des techniques de fabrication de non-tissés, y compris l’aiguilletage De la toile de jute peut être utilisée en tant que support.</td></tr>
+<tr><td>ex Chapitre 58</td><td>Tissus spéciaux; surfaces textiles touffetées; dentelles; tapisseries; passementeries; broderies à l’exclusion des:</td><td><sup>(2)</sup> Filage de fibres naturelles, synthétiques ou artificielles discontinues combiné à un tissage ou à un touffetage ou Extrusion de filaments synthétiques ou artificiels combinée à un tissage ou à un touffetage ou Tissage combiné à une teinture, à un flocage, à une enduction, à une stratification ou à une métallisation ou Touffetage combiné à une teinture ou une impression ou Flocage combiné à une teinture ou une impression ou Teinture de fils combiné à un tissage ou Tissage combiné à une impression ou Impression (en tant qu’opération indépendante)</td></tr>
+<tr><td>5805</td><td>Tapisseries tissées à la main (genre Gobelins, Flandres, Aubusson, Beauvais et similaires) et tapisseries à l’aiguille (au petit point, au point de croix, par exemple), même confectionnées</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>5810</td><td>Broderies en pièces, en bandes ou en motifs</td><td>Broderie dans laquelle la valeur de toutes les matières utilisées de toute position, à l’exclusion de celle dont relève le produit, ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>5901</td><td>Tissus enduits de colle ou de matières amylacées, des types utilisés pour la reliure, le cartonnage, la gainerie ou usages similaires; toiles à calquer ou transparentes pour le dessin; toiles préparées pour la peinture; bougran et tissus similaires raidis des types utilisés pour la chapellerie</td><td>Tissage combiné à une teinture, à un flocage, à une enduction, à une stratification ou à une métallisation ou Flocage combiné à une teinture ou une impression</td></tr>
+<tr><td>5902</td><td>Nappes tramées pour pneumatiques obtenues à partir de fils à haute ténacité de nylon ou d’autres polyamides, de polyesters ou de rayonne viscose</td><td></td></tr>
+<tr><td></td><td>– Contenant 90 % ou moins en poids de matières textiles</td><td>Tissage</td></tr>
+<tr><td></td><td>– Autres</td><td>Extrusion de fibres synthétiques ou artificielles combinée à un tissage</td></tr>
+<tr><td>5903</td><td>Tissus imprégnés, enduits ou recouverts de matière plastique ou stratifiés avec de la matière plastique, autres que ceux du n<sup>o</sup> 5902</td><td>Tissage combiné à une imprégnation, à une enduction, à un recouvrement, à une stratification ou à une métallisation ou Tissage combiné à une impression ou Impression (en tant qu’opération indépendante)</td></tr>
+<tr><td>5904</td><td>Linoléums, même découpés; revêtements de sol consistant en un enduit ou un recouvrement appliqué sur support de matières textiles, même découpés</td><td><sup>(2)</sup> Tissage combiné à une teinture, à une enduction, à une stratification ou à une métallisation De la toile de jute peut être utilisée en tant que support.</td></tr>
+<tr><td>5905</td><td>Revêtements muraux en matières textiles: – Imprégnés, enduits ou recouverts de caoutchouc, de matière plastique ou d’autres matières, ou stratifiés avec du caoutchouc, de la matière plastique ou d’autres matières</td><td>Tissage, tricotage ou formation de non-tissé combiné à une imprégnation, à une enduction, à un recouvrement, à une stratification ou à une métallisation</td></tr>
+<tr><td></td><td>– Autres</td><td><sup>(2)</sup> Filage de fibres discontinues naturelles et/ou synthétiques ou artificielles, associé à du tissage ou Extrusion de fils de filaments synthétiques ou artificiels combinée à un tissage ou Tissage, tricotage ou formation de non-tissé combiné à une imprégnation, à une enduction ou à une stratification ou Tissage combiné à une impression ou Impression (en tant qu’opération indépendante)</td></tr>
+<tr><td>5906</td><td>Tissus caoutchoutés, autres que ceux du nº 5902: **–** Étoffes de bonneterie</td><td><sup>(2)</sup> Filage de fibres naturelles et/ou synthétiques ou artificielles discontinues combiné à une bonneterie ou Extrusion de filaments synthétiques ou artificiels combinée à une bonneterie ou Bonneterie combinée à un caoutchoutage ou Caoutchoutage combiné à au moins deux opérations principales de préparation ou de finissage (telles que calandrage, test de résistance au rétrécissement, thermofixage, fini permanent) à condition que la valeur des matières non originaires mises en œuvre ne dépasse pas 50 % du prix départ usine du produit</td></tr>
+<tr><td></td><td>– autres tissus obtenus à partir de fils de filaments synthétiques, contenant plus de 90 % en poids de matières textiles</td><td>Extrusion de fibres synthétiques ou artificielles combinée à un tissage</td></tr>
+<tr><td></td><td>**–** Autres</td><td>Tissage, tricotage ou procédé de fabrication de non-tissés combiné à une teinture ou à un revêtement en caoutchouc ou Teinture de fils combiné à un tissage, à un tricotage ou à un procédé de fabrication de non-tissés ou Caoutchoutage combiné à au moins deux opérations principales de préparation ou de finissage (telles que calandrage, test de résistance au rétrécissement, thermofixage, fini permanent) à condition que la valeur des matières non originaires mises en œuvre ne dépasse pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>5907</td><td>Autres tissus imprégnés, enduits ou recouverts; toiles peintes pour décors de théâtres, fonds d’atelier ou usages analogues</td><td>Tissage, tricotage ou procédé de fabrication de non-tissés combiné à une teinture, à une impression, à une enduction, à une imprégnation ou à un recouvrement ou Flocage combiné à une teinture ou une impression ou Impression (en tant qu’opération indépendante)</td></tr>
+<tr><td>5908</td><td>Mèches tissées, tressées ou tricotées, en matières textiles, pour lampes, réchauds, briquets, bougies ou similaires; manchons à incandescence et étoffes tubulaires tricotées servant à leur fabrication, même imprégnés:</td><td></td></tr>
+<tr><td></td><td>– Manchons à incandescence, imprégnés</td><td>Fabrication à partir d’étoffes tubulaires tricotées/en bonneterie</td></tr>
+<tr><td></td><td>– Autres</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>5909 à 5911</td><td>Produits et articles textiles pour usages techniques:</td><td><sup>(2)</sup> Filage de fibres naturelles et/ou synthétiques ou artificielles discontinues combiné à un tissage ou Extrusion de fibres synthétiques ou artificielles combinée à un tissage ou Tissage combiné à une teinture, une enduction ou une stratification ou Enduction, flocage, stratification ou métallisation, combinés à au moins deux opérations principales de préparation ou de finissage (telles que calandrage, test de résistance au rétrécissement, thermofixage, fini permanent) à condition que la valeur des matières mises en œuvre ne dépasse pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 60</td><td>Étoffes de bonneterie</td><td><sup>(2)</sup> Filage de fibres naturelles et/ou synthétiques ou artificielles discontinues combiné à une bonneterie ou Extrusion de filaments synthétiques ou artificiels combinée à une bonneterie ou Bonneterie combinée à une teinture, à un flocage, à une enduction, à une stratification ou à une impression ou Flocage combiné à une teinture ou une impression ou Teinture de fils combinée à une bonneterie ou Torsion ou texturation combinée à une bonneterie, à condition que la valeur des fils non originaires non tordus ou non texturés utilisés ne dépasse pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 61</td><td>Vêtements et accessoires du vêtement, en bonneterie:</td><td></td></tr>
+<tr><td></td><td>– Obtenus par assemblage par couture ou autrement de deux ou plusieurs pièces de bonneterie qui ont été découpées en forme ou obtenues directement en forme</td><td><sup>(2)(3)</sup> Bonneterie combinée à une confection (y compris une coupe de tissu)</td></tr>
+<tr><td></td><td>– Autres</td><td><sup>(2)</sup> Filage de fibres naturelles et/ou synthétiques ou artificielles discontinues combiné à une bonneterie ou Extrusion de filaments synthétiques ou artificiels combinée à une bonneterie ou Tricotage et confection en une seule opération</td></tr>
+<tr><td>ex Chapitre 62</td><td>Vêtements et accessoires du vêtement, autres qu’en bonneterie; à l’exclusion des:</td><td><sup>(2)(3)</sup> Tissage combiné à une confection (y compris une coupe de tissu) ou Confection (y compris une coupe de tissu) précédée d’impression (en tant qu’opération indépendante)</td></tr>
+<tr><td>6202, ex 6204, ex 6206, ex 6209 et ex 6211</td><td>Vêtements pour femmes, fillettes et bébés, et autres accessoires confectionnés du vêtement pour bébés, brodés</td><td><sup>(3)</sup> Tissage combiné à une confection (y compris une coupe de tissu) ou Fabrication à partir de tissus non brodés dont la valeur n’excède pas 40 % du prix départ usine du produit</td></tr>
+<tr><td>ex 6210 et ex 6216</td><td>Équipements antifeu en tissus recouverts d’une feuille de polyester aluminisée</td><td><sup>(2)(3)</sup> Tissage combiné à une confection (y compris une coupe de tissu) ou Enduction ou stratification combinée à une confection (y compris une coupe de tissu), à condition que la valeur des tissus non enduits et non stratifiés utilisés ne dépasse pas 40 % du prix départ usine du produit</td></tr>
+<tr><td>ex 6212</td><td>Soutiens-gorge, corsets, gaines, bustiers, porte-jarretelles, jarretières et articles similaires, et leurs parties, en bonneterie, obtenus par assemblage par couture ou autrement d’au moins deux pièces de bonneterie qui ont été découpées en forme ou obtenues directement en forme</td><td><sup>(2)(3</sup> Tricotage combiné à une confection (y compris une coupe de tissu) ou Confection (y compris une coupe de tissu) précédée d’impression (en tant qu’opération indépendante)</td></tr>
+<tr><td>6213 et 6214</td><td>Mouchoirs, pochettes, châles, écharpes, foulards, cache-nez, cache-col, mantilles, voiles et voilettes et articles similaires:</td><td></td></tr>
+<tr><td></td><td>- Brodés</td><td><sup>(2)(3)</sup> Tissage combiné à une confection (y compris une coupe de tissu) ou Fabrication à partir de tissus non brodés dont la valeur n’excède pas 40 % du prix départ usine du produit ou Confection (y compris une coupe de tissu) précédée d’impression (en tant qu’opération indépendante)</td></tr>
+<tr><td></td><td>– Autres</td><td><sup>(2)(3)</sup> Tissage combiné à une confection (y compris une coupe de tissu) ou Confection précédée d’impression (en tant qu’opération indépendante)</td></tr>
+<tr><td>6217</td><td>Autres accessoires confectionnés du vêtement; parties de vêtements ou d’accessoires du vêtement, autres que celles du n<sup>o</sup> 6212:</td><td></td></tr>
+<tr><td></td><td>– Brodés</td><td><sup>(3)</sup> Tissage combiné à une confection (y compris une coupe de tissu) ou Fabrication à partir de tissus non brodés dont la valeur n’excède pas 40 % du prix départ usine du produit ou Confection précédée d’impression (en tant qu’opération indépendante)</td></tr>
+<tr><td></td><td>Équipements antifeu en tissus recouverts d’une feuille de polyester aluminisée</td><td><sup>(3)</sup> Tissage combiné à une confection (y compris une coupe de tissu) ou Enduction ou stratification combinée à une confection (y compris une coupe de tissu), à condition que la valeur des tissus non enduits et non stratifiés utilisés ne dépasse pas 40 % du prix départ usine du produit</td></tr>
+<tr><td></td><td>– Triplures pour cols et poignets, découpées</td><td>Fabrication: – à partir de matières de toute position à l’exclusion de celle dont relève le produit, et – dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 40 % du prix départ usine du produit</td></tr>
+<tr><td></td><td>– Autres</td><td><sup>(3)</sup> Tissage combiné à une confection (y compris une coupe de tissu)</td></tr>
+<tr><td>ex Chapitre 63</td><td>Autres articles textiles confectionnés; assortiments; friperie et chiffons; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>6301 à 6304</td><td>Couvertures, linge de lit, etc.; rideaux, etc.; autres articles d’ameublement:</td><td></td></tr>
+<tr><td></td><td>– En feutre, en non-tissés</td><td><sup>(2)</sup> Procédé de fabrication de non-tissés combiné à une confection (y compris une coupe de tissu)</td></tr>
+<tr><td></td><td>– Autres:</td><td></td></tr>
+<tr><td></td><td>-- Brodés</td><td><sup>(2)(3)</sup> Tissage ou bonneterie combiné à une confection (y compris une coupe de tissu) ou Fabrication à partir de tissus (autres qu’en bonneterie) non brodés dont la valeur n’excède pas 40 % du prix départ usine du produit</td></tr>
+<tr><td></td><td>-- Autres</td><td><sup>(2)(3)</sup> Tissage ou bonneterie combiné à une confection (y compris une coupe de tissu)</td></tr>
+<tr><td>6305</td><td>Sacs et sachets d’emballage</td><td><sup>(2)</sup> Extrusion de fibres synthétiques ou artificielles ou filage de fibres naturelles et/ou synthétiques ou artificielles discontinue, combinés à un tissage ou à un tricotage et à une confection (y compris une coupe de tissu)</td></tr>
+<tr><td>6306</td><td>Bâches et stores d’extérieur; tentes; voiles pour embarcations, planches à voile ou chars à voile; articles de campement:</td><td></td></tr>
+<tr><td></td><td>– En non-tissés</td><td><sup>(2)(3)</sup> Procédé de fabrication de non-tissés combiné à une confection (y compris une coupe de tissu)</td></tr>
+<tr><td></td><td>– Autres</td><td><sup>(2)(3)</sup> Tissage combiné à une confection (y compris une coupe de tissu)</td></tr>
+<tr><td>6307</td><td>Autres articles confectionnés, y compris les patrons de vêtements</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 40 % du prix départ usine du produit</td></tr>
+<tr><td>6308</td><td>Assortiments composés de pièces de tissus et de fils, même avec accessoires, pour la confection de tapis, de tapisseries, de nappes de table ou de serviettes brodées, ou d’articles textiles similaires, en emballages pour la vente au détail</td><td>Chacun des articles de l’assortiment doit respecter la règle qui lui serait applicable s’il n’était pas inclus dans l’assortiment. Toutefois, des articles non originaires peuvent être incorporés, à condition que leur valeur totale n’excède pas 15 % du prix départ usine de l’assortiment.</td></tr>
+<tr><td>ex Chapitre 64</td><td>Chaussures, guêtres et articles analogues; parties de ces objets; à l’exclusion des</td><td>Fabrication à partir de matières de toute position, à l’exclusion des assemblages formés de dessus de chaussures fixés aux semelles premières ou à d’autres parties inférieures du n<sup>o</sup> 6406</td></tr>
+<tr><td>6406</td><td>Parties de chaussures (y compris les dessus même fixés à des semelles autres que les semelles extérieures); semelles intérieures amovibles, talonnettes et articles similaires amovibles; guêtres, jambières et articles similaires, et leurs parties</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>Chapitre 65</td><td>Coiffures et parties de coiffures</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>Chapitre 66</td><td>Parapluies, ombrelles, parasols, cannes, cannes-sièges, fouets, cravaches et leurs parties</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 67</td><td>Plumes et duvet apprêtés et articles en plumes ou en duvet; fleurs artificielles; ouvrages en cheveux</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 68</td><td>Ouvrages en pierres, plâtre, ciment, amiante, mica ou matières analogues</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 70 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 69</td><td>Produits céramiques</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>ex Chapitre 70</td><td>Verre et ouvrages en verre</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>7010</td><td>Bonbonnes, bouteilles, flacons, bocaux, pots, emballages tubulaires, ampoules et autres récipients de transport ou d’emballage, en verre; bocaux à conserves en verre; bouchons, couvercles et autres dispositifs de fermeture, en verre</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produitv ou Taille d’objets en verre, à condition que la valeur de l’objet en verre non taillé n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>7013</td><td>Objets en verre pour le service de la table, pour la cuisine, la toilette, le bureau, l’ornementation des appartements ou usages similaires, autres que ceux des n<sup>os</sup> 7010 ou 7018</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>ex Chapitre 71</td><td>Perles fines ou de culture, pierres gemmes ou similaires, métaux précieux, plaqués ou doublés de métaux précieux et ouvrages en ces matières; bijouterie de fantaisie; monnaies; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 70 % du prix départ usine du produit</td></tr>
+<tr><td>ex 7102, ex 7103 et ex 7104</td><td>Pierres gemmes (précieuses ou fines) et pierres synthétiques ou reconstituées, travaillées</td><td>Fabrication à partir de matières de toute sous-position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>7106, 7108 et 7110</td><td>Métaux précieux:</td><td>Fabrication à partir de matières de toute position, à l’exclusion des matières des n<sup>os</sup> 7106, 7108 et 7110 ou séparation électrolytique, thermique ou chimique de métaux précieux des n<sup>os</sup> 7106, 7108 ou 7110 ou fusion et/ou alliage des métaux précieux des n<sup>os</sup> 7106, 7108 ou 7110 entre eux ou avec des métaux communs ou purification</td></tr>
+<tr><td></td><td>– Sous formes brutes</td><td></td></tr>
+<tr><td></td><td>– Sous formes mi-ouvrées ou en poudre</td><td>Fabrication à partir de métaux précieux, sous forme brute</td></tr>
+<tr><td>ex 7107, ex 7109 et ex 7111</td><td>Métaux plaqués ou doublés de métaux précieux, sous formes mi-ouvrées</td><td>Fabrication à partir de métaux plaqués ou doublés de métaux précieux, sous forme brute</td></tr>
+<tr><td>ex Chapitre 72</td><td>Fonte, fer et acier; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>7207</td><td>Demi-produits en fer ou en aciers non alliés</td><td>Fabrication à partir des matières des n<sup>os</sup> 7201, 7202, 7203, 7204 ou 7205</td></tr>
+<tr><td>7208 à 7212</td><td>Produits laminés plats, en fer ou en aciers non alliés</td><td>Fabrication à partir de demi-produits du n<sup>o</sup> 7207</td></tr>
+<tr><td>7213 à 7216</td><td>Barres et profilés et fil machine, en fer ou en aciers non alliés</td><td>Fabrication à partir des aciers en lingots ou autres formes primaires du n<sup>o</sup> 7206</td></tr>
+<tr><td>7217</td><td>Fils en fer ou en aciers non alliés</td><td>Fabrication à partir de demi-produits du n<sup>o</sup> 7207</td></tr>
+<tr><td>7218 91 et 7218 99</td><td>Demi-produits</td><td>Fabrication à partir des matières des n<sup>os</sup> 7201, 7202, 7203, 7204 ou 7205</td></tr>
+<tr><td>7219 à 7222</td><td>Produits laminés plats, fil machine, barres et profilés en aciers inoxydables</td><td>Fabrication à partir des aciers en lingots ou autres formes primaires du n<sup>o</sup> 7218</td></tr>
+<tr><td>7223</td><td>Fils en aciers inoxydables</td><td>Fabrication à partir de demi-produits du n<sup>o</sup> 7218</td></tr>
+<tr><td>7224 90</td><td>Demi-produits</td><td>Fabrication à partir des matières des n<sup>os</sup> 7201, 7202, 7203, 7204 ou 7205</td></tr>
+<tr><td>7225 à 7228</td><td>Produits laminés plats, fil machine, barres et fils machines laminés à chaud; barres et profilés en autres aciers alliés; barres creuses pour le forage en aciers alliés ou non alliés</td><td>Fabrication à partir des aciers en lingots ou autres formes primaires des n<sup>os</sup> 7206, 7218 ou 7224</td></tr>
+<tr><td>7229</td><td>Fils en autres aciers alliés</td><td>Fabrication à partir de demi-produits du n<sup>o</sup> 7224</td></tr>
+<tr><td>ex Chapitre 73</td><td>Ouvrages en fonte, fer ou acier; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>ex 7301</td><td>Palplanches</td><td>Fabrication à partir des matières du n<sup>o</sup> 7207</td></tr>
+<tr><td>7302</td><td>Éléments de voies ferrées, en fonte, fer ou acier: rails, contre-rails et crémaillères, aiguilles, pointes de cœur, tringles d’aiguillage et autres éléments de croisement ou changement de voies, traverses, éclisses, coussinets, coins, selles d’assise, plaques de serrage, plaques et barres d’écartement et autres pièces spécialement conçues pour la pose, le jointement ou la fixation des rails</td><td>Fabrication à partir des matières du n<sup>o</sup> 7206</td></tr>
+<tr><td>7304, 7305 et 7306</td><td>Tubes, tuyaux et profilés creux, en fer ou en acier</td><td>Fabrication à partir des matières des n<sup>os</sup> 7206 à 7212 et 7218 ou 7224</td></tr>
+<tr><td>ex 7307</td><td>Accessoires de tuyauterie en aciers inoxydables (ISO n<sup>o</sup> X5CrNiMo 1712) consistant en plusieurs pièces</td><td>Tournage, perçage, alésage, filetage, ébavurage et sablage d’ébauches forgées dont la valeur ne doit pas excéder 35 % du prix départ usine du produit</td></tr>
+<tr><td>7308</td><td>Constructions et parties de constructions (ponts et éléments de ponts, portes d’écluses, tours, pylônes, piliers, colonnes, charpentes, toitures, portes et fenêtres et leurs cadres, chambranles et seuils, rideaux de fermeture, balustrades, par exemple), en fonte, fer ou acier, à l’exception des constructions préfabriquées du n<sup>o</sup> 9406; tôles, barres, profilés, tubes et similaires, en fonte, fer ou acier, préparés en vue de leur utilisation dans la construction</td><td>Fabrication à partir de matières de toute position à l’exception de celle dont relève le produit. Toutefois, les profilés obtenus par soudage du n<sup>o</sup> 7301 ne peuvent pas être utilisés</td></tr>
+<tr><td>ex 7315</td><td>Chaînes antidérapantes</td><td>Fabrication dans laquelle la valeur de toutes les matières du nº 7315 utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex Chapitre 74</td><td>Cuivre et ouvrages en cuivre; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>7403</td><td>Cuivre affiné et alliages de cuivre sous forme brute:</td><td>Fabrication à partir de matières de toute position</td></tr>
+<tr><td>7408</td><td>Fil de cuivre</td><td>Fabrication: – à partir de matières de toute position à l’exclusion de celle dont relève le produit, et – dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 75</td><td>Nickel et ouvrages en nickel</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>ex Chapitre 76</td><td>Aluminium et ouvrages en aluminium; à l’exclusion des:</td><td>Fabrication: – à partir de matières de toute position à l’exclusion de celle dont relève le produit, et – dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>7601</td><td>Aluminium sous forme brute</td><td>Fabrication: – à partir de matières de toute position à l’exclusion de celle dont relève le produit, et – dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit ou Fabrication par traitement thermique ou électrolytique à partir d’aluminium non allié ou de déchets et débris d’aluminium</td></tr>
+<tr><td>7602</td><td>Déchets et débris d’aluminium</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>ex 7616</td><td>Ouvrages en aluminium autres que toiles métalliques (y compris les toiles continues ou sans fin), grillages et treillis, en fils métalliques, de tôles ou bandes déployées, en aluminium</td><td>Fabrication: – à partir de matières de toute position à l’exclusion de celle dont relève le produit. Toutefois, peuvent être utilisés des toiles métalliques (y compris les toiles continues ou sans fin), des grillages et treillis, en fils métalliques, des tôles ou bandes déployées, en aluminium, et – dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 78</td><td>Plomb et ouvrages en plomb</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>Chapitre 79</td><td>Zinc et ouvrages en zinc</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>Chapitre 80</td><td>Étain et ouvrages en étain</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td>Chapitre 81</td><td>Autres métaux communs; cermets; ouvrages en ces matières</td><td>Fabrication à partir de matières de toute position</td></tr>
+<tr><td>ex Chapitre 82</td><td>Outils et outillage, articles de coutellerie et couverts de table, en métaux communs; parties de ces articles, en métaux communs; à l’exclusion des</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>8206</td><td>Outils d’au moins deux des n<sup>os</sup> 8202 à 8205, conditionnés en assortiments pour la vente au détail</td><td>Fabrication à partir de matières de toute position, à l’exclusion des matières des n<sup>os</sup> 8202 à 8205. Toutefois, des outils des n<sup>os</sup> 8202 à 8205 peuvent être utilisés dans la composition de l’assortiment, à condition que leur valeur totale n’excède pas 15 % du prix départ usine de cet assortiment</td></tr>
+<tr><td>Chapitre 83</td><td>Ouvrages divers en métaux communs</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex Chapitre 84</td><td>Réacteurs nucléaires, chaudières, machines, appareils et engins mécaniques; parties de ces machines ou appareils, à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>8407</td><td>Moteurs à piston alternatif ou rotatif, à allumage par étincelles (moteurs à explosion)</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>8408</td><td>Moteurs à piston, à allumage par compression (moteur diesel ou semi-diesel)</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>8425 à 8430</td><td>Palans; treuils et cabestans; crics et vérins: Bigues; grues et blondins; ponts roulants, portiques de déchargement ou de manutention, ponts-grues, chariots-cavaliers et chariots-grues Chariots-gerbeurs; autres chariots de manutention munis d’un dispositif de levage Autres machines et appareils de levage, de chargement, de déchargement ou de manutention (ascenseurs, escaliers mécaniques, transporteurs, téléphériques, par exemple) Bouteurs (bulldozers), bouteurs biais (angledozers), niveleuses, décapeuses (scrapers), pelles mécaniques, excavateurs, chargeuses et chargeuses-pelleteuses, compacteuses et rouleaux compresseurs, autopropulsés Autres machines et appareils de terrassement, nivellement, décapage, excavation, compactage, extraction ou forage de la terre, des minéraux ou des minerais; sonnettes de battage et machines pour l’arrachage des pieux; chasse-neige</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit et du n<sup>o</sup> 8431, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>8444 à 8447</td><td>Machines pour le filage (extrusion), l’étirage, la texturation ou le tranchage des matières textiles synthétiques ou artificielles: Machines pour la préparation des matières textiles; machines pour la filature, le doublage ou le retordage des matières textiles et autres machines et appareils pour la fabrication des fils textiles; machines à bobiner (y compris les canetières) ou à dévider les matières textiles et machines pour la préparation des fils textiles en vue de leur utilisation sur les machines du n<sup>o</sup> 8446 ou 8447 Métiers à tisser: Machines et métiers à bonneterie, de couture-tricotage, à guipure, à tulle, à dentelle, à broderie, à passementerie, à tresses, à filet ou à touffeter</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit et du n<sup>o</sup> 8448, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>8456 à 8465</td><td>Machines-outils travaillant par enlèvement de toute matière, Centres d’usinage, machines à poste fixe et machines à stations multiples, pour le travail des métaux Tours travaillant par enlèvement de métal Machines-outils:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle du produit et du n<sup>o</sup> 8466, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>8470 à 8472</td><td>Machines à calculer et machines de poche permettant d’enregistrer, de reproduire et d’afficher des informations, comportant une fonction de calcul; postage- machines comptables, machines à affranchir, à établir les tickets et machines similaires, comportant un dispositif de calcul; caisses enregistreuses Machines automatiques de traitement de l’information et leurs unités; lecteurs magnétiques ou optiques, machines de mise d’informations sur support sous forme codée et machines de traitement de ces données Autres machines de bureau</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle du produit et du n<sup>o</sup> 8473, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex Chapitre 85</td><td>Machines, appareils et matériels électriques et leurs parties; appareils d’enregistrement ou de reproduction du son; appareils d’enregistrement ou de reproduction des images et du son en télévision, et parties et accessoires de ces appareils; à l’exclusion des:</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>8501 à 8502</td><td>Moteurs et machines génératrices, électriques Groupes électrogènes et convertisseurs rotatifs électriques</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle du produit et du n<sup>o</sup> 8503, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>8519, 8521</td><td>Appareils d’enregistrement du son; appareils de reproduction du son Appareils d’enregistrement ou de reproduction vidéophoniques, même incorporant un récepteur de signaux vidéophoniques</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle du produit et du n<sup>o</sup> 8522, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>8525 à 8528</td><td>Appareils d’émission pour la radiodiffusion ou la télévision, caméras de télévision, appareils photographiques numériques et caméscopes Appareils de radiodétection et de radiosondage (radars), appareils de radionavigation et appareils de radiotélécommande Appareils récepteurs pour la radiodiffusion Moniteurs et projecteurs, n’incorporant pas d’appareil de réception de télévision; appareils récepteurs de télévision, même incorporant un appareil récepteur de radiodiffusion ou un appareil d’enregistrement ou de reproduction du son ou des images</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle du produit et du n<sup>o</sup> 8529, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>8535 à 8537</td><td>Appareillage pour la coupure, le sectionnement, la protection, le branchement, le raccordement ou la connexion des circuits électriques; connecteurs de fibres optiques, faisceaux ou câbles de fibres optiques; tableaux, panneaux, consoles, pupitres, armoires et autres supports pour la commande ou la distribution électrique</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle du produit et du n<sup>o</sup> 8538, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>8542 31 à 8542 39</td><td>Circuits intégrés monolithiques</td><td>Opération de diffusion, dans laquelle les circuits intégrés sont formés sur un support semi-conducteur, grâce à l’introduction sélective d’un dopant adéquat, qu’il soit ou non assemblé et/ou testé dans un pays non partie ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>8544 à 8548</td><td>Fils, câbles et autres conducteurs isolés pour l’électricité, câbles de fibres optiques Électrodes en charbon, balais en charbon, charbons pour lampes ou pour piles et autres articles en graphite ou en autre carbone, pour usages électriques Isolateurs en toutes matières pour l’électricité Pièces isolantes pour machines, appareils ou installations électriques, tubes isolateurs et leurs pièces de raccordement, en métaux communs, isolés intérieurement Déchets et débris de piles, de batteries de piles et d’accumulateurs électriques; piles et batteries de piles électriques hors d’usage et accumulateurs électriques hors d’usage; parties électriques de machines ou d’appareils, non dénommées ni comprises ailleurs dans le présent chapitre</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 86</td><td>Véhicules et matériel pour voies ferrées ou similaires et leurs parties; matériel fixe de voies ferrées ou similaires et leurs parties; appareils mécaniques (y compris électromécaniques) de signalisation pour voies de communications</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>ex Chapitre 87</td><td>Voitures automobiles, tracteurs, cycles et autres véhicules terrestres, leurs parties et accessoires; à l’exclusion des:</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 45 % du prix départ usine du produit</td></tr>
+<tr><td>8708</td><td>Parties et accessoires des véhicules des n<sup>os</sup> 8701 à 8705</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>8711</td><td>Motocycles (y compris les cyclomoteurs) et cycles équipés d’un moteur auxiliaire, avec ou sans side-cars; side-cars</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées ne doit pas excéder 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 88</td><td>Navigation aérienne ou spatiale</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 89</td><td>Navigation maritime ou fluviale</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit; Toutefois, les coques du n<sup>o</sup> 8906 ne peuvent pas être utilisées, ouv Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 40 % du prix départ usine du produit</td></tr>
+<tr><td>ex Chapitre 90</td><td>Instruments et appareils d’optique, de photographie ou de cinématographie, de mesure, de contrôle ou de précision; instruments et appareils médico-chirurgicaux; leurs parties et accessoires; à l’exclusion de</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>9001 50</td><td>Verres de lunetterie en matières autres que le verre</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle l’une des opérations suivantes est réalisée: – usinage de la surface de verres semi-finis les transformant en verres optiques correcteurs finis destinés à être enchâssés dans une monture; – revêtement des verres par des traitements appropriés pour améliorer la vision de l’utilisateur et assurer sa sécurité ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 91</td><td>Horlogerie</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 40 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 92</td><td>Instruments de musique; parties et accessoires de ces instruments</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 93</td><td>Armes, munitions et leurs parties et accessoires</td><td>Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 94</td><td>Meubles; articles de literie, matelas, sommiers, coussins et articles rembourrés similaires; appareils d’éclairage non dénommés ni compris ailleurs; lampes-réclames, enseignes lumineuses, plaques indicatrices lumineuses et articles similaires; constructions préfabriquées</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 95</td><td>Jouets, jeux, articles pour divertissements ou pour sports; leurs parties et accessoires</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 96</td><td>Ouvrages divers</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit, ou Fabrication dans laquelle la valeur de toutes les matières utilisées n’excède pas 50 % du prix départ usine du produit</td></tr>
+<tr><td>Chapitre 97</td><td>Objets d’art, de collection ou d’antiquité</td><td>Fabrication à partir de matières de toute position à l’exclusion de celle dont relève le produit</td></tr>
+<tr><td colspan="3"><sup>(1)</sup> Les conditions particulières relatives aux «traitements spécifiques» sont exposées dans les notes introductives 8.1 et 8.3. <sup>(2)</sup> Les conditions particulières applicables aux produits constitués d’un mélange de matières textiles sont exposées dans la note introductive 6. <sup>(3)</sup> Voir la note introductive 7. <sup>(4)</sup> Voir la note introductive 9.</td></tr>
+</table>
+
+Annexe III
+
+## Texte de la déclaration d’origine
+
+La déclaration d’origine, dont le texte figure ci-après, doit être établie conformément aux notes figurant en bas de page. Il n’est toutefois pas nécessaire de reproduire ces notes.
+
+Version anglaise
+
+The exporter of the products covered by this document (customs authorisation
+
+N<sup>o</sup> ………<sup>(1)</sup>) declares that, except where otherwise clearly indicated, these products are of ……………..<sup>(2)</sup> preferential origin.
+
+Version française
+
+L’exportateur des produits couverts par le présent document (autorisation douanière n<sup>o</sup> ………<sup>(1)</sup>) déclare que, sauf indication claire du contraire, ces produits ont l’origine préférentielle ……………..<sup>(2)</sup>.
+
+Version allemande
+
+Der Ausführer (Ermächtigter Ausführer; Bewilligungs-Nr. ………<sup>(1)</sup>) der Waren, auf die sich dieses Handelspapier bezieht, erklärt, dass diese Waren, soweit nicht anders angegeben, präferenzbegünstigte ……………..<sup>(2)</sup> Ursprungswaren sind.
+
+Version italienne
+
+L’esportatore delle merci contemplate nel presente documento (autorizzazione doganale n. ………<sup>(1)</sup>) dichiara che, salvo indicazione contraria, le merci sono di origine preferenziale ……………..<sup>(2)</sup>.
+
+........................................................................................................................................
+
+(Lieu et date)<sup>(3)</sup>
+
+........................................................................................................................................
+
+(Signature de l’exportateur et indication, en toutes lettres, du nom de la personne qui signe la déclaration)<sup>(4)</sup>
+
+- <sup>(</sup><sup>)</sup> Lorsque la déclaration d’origine est établie par un exportateur agréé, le numéro d’autorisation de cet exportateur doit être mentionné ici. Lorsque la déclaration d’origine n’est pas établie par un exportateur agréé, les mots entre parenthèses doivent être omis ou l’espace doit être laissé blanc.
+- <sup>(2)</sup> L’origine des produits doit être indiquée. Lorsque la déclaration d’origine se rapporte, en totalité ou en partie, à des produits originaires de Ceuta et Melilla, l’exportateur est tenu de les identifier clairement, au moyen du sigle «CM», dans le document sur lequel la déclaration est établie.
+- <sup>(3)</sup> Ces indications sont facultatives si les informations figurent dans le document proprement dit.
+- <sup>(4)</sup> Dans les cas où l’exportateur n’est pas tenu de signer, la dispense de signature dégage aussi de l’obligation d’indiquer le nom du signataire.
+
+## Certificat de circulation EUR.1
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/fr/xml/image/image1.png)
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/fr/xml/image/image2.png)
+
+## Notes
+
+- 1\. Le certificat ne doit comporter ni grattages ni surcharges. Les modifications éventuelles qui y sont apportées doivent être effectuées en biffant les indications erronées et en ajoutant, le cas échéant, les indications voulues. Toute modification ainsi opérée doit être approuvée par celui qui a établi le certificat et visée par les autorités douanières du pays ou territoire de délivrance.
+- 2\. Les articles indiqués sur le certificat doivent se suivre sans interligne, et chaque article doit être précédé d’un numéro d’ordre. Une ligne horizontale doit être tracée immédiatement au-dessous du dernier article. Les espaces non utilisés doivent être bâtonnés de façon à rendre impossible toute adjonction ultérieure.
+- 3\. Les marchandises sont désignées selon les usages commerciaux, avec les précisions suffisantes pour en permettre l’identification.
+
+## Demande de certificat de circulation des marchandises EUR.1
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20210901/fr/xml/image/image3.png)
+
+Annexe IV
+
+## Modèles de certificat de circulation des marchandises EUR.1 et de demande de certificat de circulation des marchandises EUR.1
+
+### Règles d’impression
+
+- 1\. Chaque formulaire doit mesurer 210 x 297 mm, avec une tolérance maximale de 5 millimètres en moins et de 8 millimètres en plus étant admise en ce qui concerne la longueur. Le papier à utiliser est un papier de couleur blanche sans pâtes mécaniques, collé pour écritures et pesant au minimum 25 g/m2. Il est revêtu d’une impression de fond guillochée de couleur verte rendant apparente toute falsification par moyens mécaniques ou chimiques.
+- 2\. Les autorités compétentes des parties peuvent se réserver l’impression des certificats ou en confier le soin à des imprimeries ayant reçu leur agrément. Dans ce dernier cas, référence à cet agrément est faite sur chaque certificat. Chaque certificat est revêtu d’une mention indiquant le nom et l’adresse de l’imprimeur ou d’un signe permettant l’identification de celui-ci. Il porte en outre un numéro de série, imprimé ou non, destiné à l’individualiser.
+
+### Déclaration de l’exportateur
+
+Je soussigné, exportateur des marchandises désignées au recto,
+
+*Déclare* que ces marchandises remplissent les conditions requises pour l’obtention du certificat ci-annexé;
+
+Précise les circonstances qui ont permis à ces marchandises de remplir ces conditions:
+
+........................................................................................................................................
+
+........................................................................................................................................
+
+........................................................................................................................................
+
+........................................................................................................................................
+
+Présente les pièces justificatives suivantes[^annexIV-lvlu1-lvlu2-1]:
+
+........................................................................................................................................
+
+........................................................................................................................................
+
+........................................................................................................................................
+
+........................................................................................................................................
+
+*M’engage* à présenter, à la demande des autorités compétentes, toutes justifications supplémentaires que celles-ci jugeraient nécessaires en vue de la délivrance du certificat ci-annexé, ainsi qu’à accepter, le cas échéant, tout contrôle par lesdites autorités de ma comptabilité et des circonstances de la fabrication des marchandises susvisées;
+
+*Demande* la délivrance du certificat ci-annexé pour ces marchandises.
+
+........................................................................................................................................
+
+(Lieu et date)
+
+........................................................................................................................................
+
+(Signature)
+
+[^annexIV-lvlu1-lvlu2-1]: Par exemple: documents d’importation, certificats de circulation, factures, déclarations du fabricant, etc., se référant aux produits mis en œuvre ou aux marchandises réexportées en l’état.
+
+Annexe V
+
+## Conditions particulières relatives aux produits originaires de Ceuta et Melilla
+
+### Article unique
+
+\1. Sous réserve qu’ils respectent le principe de non-modification énoncé à l’art. 14 de l’appendice A, sont considérés comme:
+
+- 1)
+
+  produits originaires de Ceuta et Melilla:
+
+  - a) les produits entièrement obtenus à Ceuta et Melilla;
+  - b)
+
+    les produits obtenus à Ceuta et Melilla dans la fabrication desquels sont entrés des produits autres que les produits entièrement obtenus à Ceuta et Melilla, à condition que:
+
+    - i) ces produits aient fait l’objet d’ouvraisons ou de transformations suffisantes au sens de l’art. 4 du présent protocole, ou
+    - ii) ces produits soient originaires de l’une des parties, pour autant qu’ils aient été soumis à des ouvraisons ou transformations allant au-delà des opérations visées à l’art. 6 du présent protocole;
+
+- 2)
+
+  produits originaires de l’une des parties:
+
+  - a) les produits entièrement obtenus dans l’une des parties;
+  - b)
+
+    les produits obtenus dans l’une des parties dans la fabrication desquels sont entrés des produits autres que des produits entièrement obtenus dans l’une des parties, à condition que:
+
+    - i) ces produits aient fait l’objet d’ouvraisons ou de transformations suffisantes au sens de l’art. 4 du présent protocole, ou
+    - ii) ces produits soient originaires de Ceuta et Melilla ou de l’Union européenne, pour autant qu’ils aient été soumis à des ouvraisons ou transformations allant au-delà des opérations visées à l’art. 6 du présent protocole.
+
+\2. Ceuta et Melilla sont considérés comme un seul territoire.
+
+\3. L’exportateur ou son représentant habilité est tenu d’indiquer le nom de la partie exportatrice et la mention «Ceuta et Melilla» dans la case 2 du certificat de circulation des marchandises EUR.1 ou dans la déclaration d’origine. De plus, dans le cas de produits originaires de Ceuta et Melilla, le caractère originaire doit être indiqué dans la case 4 du certificat de circulation des marchandises EUR.1 ou dans la déclaration d’origine.
+
+\4. Les autorités douanières espagnoles sont chargées d’assurer à Ceuta et Melilla l’application du présent protocole.
+
+Annexe VI
+
+## Déclaration du fournisseur
+
+La déclaration du fournisseur, dont le texte figure ci-après, doit être établie conformément aux notes figurant en bas de page. Il n’est toutefois pas nécessaire de reproduire ces notes.
+
+### Déclaration du fournisseur
+
+relative à des marchandises ayant subi une ouvraison ou une transformation dans l’autre partie ou l’un des États visés à l’annexe VIII sans acquérir le caractère originaire à titre préférentiel
+
+Je soussigné, fournisseur des marchandises énumérées dans le document annexé, déclare que:
+
+\1. Les matières suivantes qui ne sont pas originaires de [indiquer le nom de la partie concernée] ont été utilisées pour [indiquer le nom de la partie concernée] pour produire ces marchandises:
+
+<table>
+<tr><td>Désignation des marchandises fournies <sup>(1)</sup></td><td>Description des matières non originaires utilisées</td><td>Position SH des matières non originaires utilisées <sup>(2)</sup></td><td>Valeur des matières non originaires utilisées <sup>(2)(3)</sup></td></tr>
+<tr><td colspan="3">Valeur totale</td><td></td></tr>
+</table>
+
+\2. Toutes les autres matières utilisées dans [indiquer le nom de la partie concernée] pour produire ces marchandises sont originaires de [indiquer le nom de la partie concernée ou de l’État concerné visé à l’annexe VIII];
+
+\3. Les marchandises mentionnées ci-après ont subi une ouvraison ou une transformation hors de [indiquer le nom de la partie concernée] conformément à l’art. 13 du présent protocole et y ont acquis la valeur ajoutée totale précisée ci-dessous:
+
+<table>
+<tr><td>Désignation des marchandises fournies</td><td>Valeur ajoutée totale acquise hors de [indiquer le nom de la partie concernée]<sup>(4)</sup></td></tr>
+<tr><td></td><td>(Lieu et date)</td></tr>
+<tr><td></td><td>(Adresse et signature du fournisseur, et indication, en toutes lettres, du nom de la personne qui signe la déclaration)</td></tr>
+</table>
+
+- <sup>(1)</sup> Lorsque la facture, le bon de livraison ou un autre document commercial auquel la déclaration est annexée se rapporte à des marchandises de différents types ou à des marchandises ne comportant pas la même proportion de matières non originaires, le fournisseur est tenu de les distinguer clairement.
+- Exemple:
+- Le document présenté se rapporte à différents modèles de moteurs électriques relevant de la position 8501, utilisés dans la fabrication de machines à laver de la position 8450. La nature et la valeur des matières non originaires entrant dans la fabrication de ces moteurs varient d’un modèle à l’autre. Une distinction doit donc être établie entre ces modèles dans la première colonne, et les indications à porter dans les autres colonnes doivent figurer séparément pour chacun d’eux, de façon à permettre au fabricant des machines à laver de procéder à une évaluation correcte du caractère originaire de ses produits en fonction du modèle de moteur électrique qu’il utilise.
+- <sup>(2)</sup> Les informations demandées dans ces colonnes ne doivent être fournies que si elles sont nécessaires.
+- Exemples:
+- La règle applicable aux vêtements de l’ex chapitre 62 admet l’utilisation de tissage combiné à une confection (y compris une coupe de tissu). Si le fabricant de ces vêtements, établi dans une partie, utilise du tissu importé de l’Union européenne où il a été obtenu à partir de fils non originaires, il suffit que, dans sa déclaration, le fournisseur de l’Union européenne indique «fils» comme désignation de la matière non originaire, sans qu’il soit nécessaire d’indiquer la position ni la valeur des fils en question.
+- Un fabricant de fil de fer de la position 7217 qui produit ce fil à partir de barres non originaires doit indiquer «barres de fer» dans la deuxième colonne. Si ce fil de fer est appelé à entrer dans la fabrication d’une machine dont la règle d’origine limite la proportion de matières non originaires utilisées à un pourcentage déterminé de sa valeur, il convient d’indiquer la valeur des barres non originaires dans la troisième colonne.
+- <sup>(3)</sup> Les termes «valeur des matières non originaires» désignent la valeur en douane, au moment de l’importation, des matières non originaires utilisées ou, si elle n’est pas connue et ne peut être établie, le premier prix vérifiable payé pour ces matières dans [indiquer le nom de la partie concernée].
+- La valeur exacte des différentes matières non originaires utilisées doit être précisée par unité des marchandises mentionnées dans la première colonne.
+- <sup>(4)</sup> Les termes «valeur ajoutée totale» désignent les différents coûts accumulés hors de [indiquer le nom de la partie concernée], y compris la valeur de toutes les matières qui y ont été incorporées. Le montant exact de la valeur ajoutée totale acquise hors de [indiquer le nom de la partie concernée] doit être précisé par unité des marchandises mentionnées dans la première colonne.
+
+Annexe VII
+
+## Déclaration à long terme du fournisseur
+
+La déclaration à long terme du fournisseur, dont le texte figure ci-après, doit être établie conformément aux notes figurant en bas de page. Il n’est toutefois pas nécessaire de reproduire ces notes.
+
+### Déclaration à long terme du fournisseur
+
+relative à des marchandises ayant subi une ouvraison ou une transformation dans l’autre partie ou l’un des États visés à l’annexe VIII sans acquérir le caractère originaire à titre préférentiel
+
+Je soussigné, fournisseur des marchandises énumérées dans le document fourni en annexe, qui sont régulièrement envoyées à <sup>(1)</sup> ……………. déclare que:
+
+\1. Les matières suivantes qui ne sont pas originaires de [indiquer le nom de la partie concernée] ont été utilisées pour [indiquer le nom de la partie concernée] pour produire ces marchandises:
+
+<table>
+<tr><td>Désignation des marchandises fournies <sup>(2)</sup></td><td>Description des matières non originaires utilisées</td><td>Position SH des matières non originaires utilisées <sup>(3)</sup></td><td>Valeur des matières non originaires utilisées <sup>(3)(4)</sup></td></tr>
+<tr><td colspan="3">Valeur totale</td><td></td></tr>
+</table>
+
+- [tab] 2. Toutes les autres matières utilisées dans [indiquer le nom de la partie concernée] pour produire ces marchandises sont originaires de [indiquer le nom de la partie concernée ou de l’État concerné visé à l’annexe VIII];
+- [tab] 3. Les marchandises mentionnées ci-après ont subi une ouvraison ou une transformation hors de [indiquer le nom de la partie concernée] conformément à l’art. 13 du présent protocole et y ont acquis la valeur ajoutée totale précisée ci-dessous:
+
+<table>
+<tr><td>Désignation des marchandises fournies</td><td>Valeur ajoutée totale acquise hors de [indiquer le nom de la partie concernée]<sup>(5)</sup></td></tr>
+</table>
+
+La présente déclaration est valable pour toutes les expéditions futures de ces marchandises effectuées du ...........................................................................................
+
+au………………………………………………<sup>(6)</sup>
+
+Je m’engage à informer immédiatement ……………….. <sup>(1)</sup> de la cessation éventuelle de validité de la présente déclaration.
+
+<table>
+<tr><td></td><td>(Lieu et date)</td></tr>
+<tr><td></td><td>(Adresse et signature du fournisseur, et indication, en toutes lettres, du nom de la personne qui signe la déclaration)</td></tr>
+</table>
+
+- <sup>(1)</sup> Nom et adresse du client.
+- <sup>(2)</sup> Lorsque la facture, le bon de livraison ou un autre document commercial auquel la déclaration est annexée se rapporte à des marchandises de différents types ou à des marchandises ne comportant pas la même proportion de matières non originaires, le fournisseur est tenu de les distinguer clairement.
+- Exemple:
+- Le document présenté se rapporte à différents modèles de moteurs électriques relevant de la position 8501, utilisés dans la fabrication de machines à laver de la position 8450. La nature et la valeur des matières non originaires entrant dans la fabrication de ces moteurs varient d’un modèle à l’autre. Une distinction doit donc être établie entre ces modèles dans la première colonne, et les indications à porter dans les autres colonnes doivent figurer séparément pour chacun d’eux, de façon à permettre au fabricant des machines à laver de procéder à une évaluation correcte du caractère originaire de ses produits en fonction du modèle de moteur électrique qu’il utilise.
+- <sup>(3)</sup> Les informations demandées dans ces colonnes ne doivent être fournies que si elles sont nécessaires.
+- Exemples:
+- La règle applicable aux vêtements de l’ex chapitre 62 admet l’utilisation de tissage combiné à une confection (y compris une coupe de tissu). Si le fabricant de ces vêtements, établi dans une partie, utilise du tissu importé de l’Union européenne où il a été obtenu à partir de fils non originaires, il suffit que, dans sa déclaration, le fournisseur de l’Union européenne indique «fils» comme désignation de la matière non originaire, sans qu’il soit nécessaire d’indiquer la position ni la valeur des fils en question.
+- Un fabricant de fil de fer de la position 7217 qui produit ce fil à partir de barres non originaires doit indiquer «barres de fer» dans la deuxième colonne. Si ce fil de fer est appelé à entrer dans la fabrication d’une machine dont la règle d’origine limite la proportion de matières non originaires utilisées à un pourcentage déterminé de sa valeur, il convient d’indiquer la valeur des barres non originaires dans la troisième colonne.
+- <sup>(4)</sup> Les termes «valeur des matières non originaires» désignent la valeur en douane, au moment de l’importation, des matières non originaires utilisées ou, si elle n’est pas connue et ne peut être établie, le premier prix vérifiable payé pour ces matières dans [indiquer le nom de la partie concernée].
+- La valeur exacte des différentes matières non originaires utilisées doit être précisée par unité des marchandises mentionnées dans la première colonne.
+- <sup>(5)</sup> Les termes «valeur ajoutée totale» désignent les différents coûts accumulés hors de [indiquer le nom de la partie concernée], y compris la valeur de toutes les matières qui y ont été incorporées. Le montant exact de la valeur ajoutée totale acquise hors de [indiquer le nom de la partie concernée] doit être précisé par unité des marchandises mentionnées dans la première colonne.
+- <sup>(6)</sup> Indiquer les dates. La période de validité de la déclaration à long terme du fournisseur ne devrait pas normalement dépasser 12 mois, sous réserve des conditions fixées par les autorités douanières de la partie où la déclaration à long terme du fournisseur est établie.
+
+Annexe VIII
+
+## Liste des États
+
+- 1\. République algérienne démocratique et populaire
+- 2\. République arabe d’Égypte
+- 3\. Union européenne
+- 4\. Islande
+- 5\. État d’Israël
+- 6\. Royaume hachémite de Jordanie
+- 7\. République libanaise
+- 8\. Royaume du Maroc
+- 9\. Royaume de Norvège
+- 10\. Organisation de libération de la Palestine, agissant pour le compte de l’Autorité palestinienne de la Cisjordanie et de la Bande de Gaza
+- 11\. République arabe syrienne
+- 12\. République tunisienne
+- 13\. République de Turquie
+- 14\. République d’Albanie
+- 15\. Bosnie et Herzégovine
+- 16\. République de Macédoine du Nord
+- 17\. Monténégro
+- 18\. République de Serbie
+- 19\. République du Kosovo
+- 20\. Royaume du Danemark en ce qui concerne les Îles Féroé
+- 21\. République de Moldova
+- 22\. Géorgie
+- 23\. Ukraine
 
 Annexe 2
 
@@ -892,7 +1744,7 @@ Aux fins du présent Accord, l’accord relatif à la reconnaissance mutuelle[^a
 
 \2. L’art. 12 est remplacé par:
 
-### ........1 «**Art. 12**Échange d’informations
+### «**Art. 12**Échange d’informations
 
 [^annex3-lvlu1-1]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
 
@@ -955,11 +1807,11 @@ les services officiels d’inspection BPF visés à la section II.»
 
 \6. La déclaration commune sur la reconnaissance des bonnes pratiques cliniques et des inspections BPC des Parties de l’accord relatif à la reconnaissance mutuelle s’applique *mutatis mutandis* avec les mêmes effets juridiques entre les Parties, sous réserve des dispositions du présent instrument.
 
-Annexe 4*[^t-2]*
+Annexe 4*[^t-3]*
 
 ## Modification de l’accord agricole
 
-[^t-2]: Mise à jour par la D n<sup>o</sup> 1/2021 du Comité mixte de l’agriculture Suisse–Royaume-Uni du 1<sup>er</sup> janv. 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2021 ([RO 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)).
+[^t-3]: Mise à jour par la D n<sup>o</sup> 1/2021 du Comité mixte de l’agriculture Suisse–Royaume-Uni du 1<sup>er</sup> janv. 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2021 ([RO 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)).
 
 Aux fins du présent Accord, l’accord agricole[^annex4-lvlu1-1] incorporé est modifié comme suit:
 
@@ -998,7 +1850,7 @@ Aux fins du présent Accord, l’accord agricole[^annex4-lvlu1-1] incorporé est
 - (a) À l’art. 2, par. 1, «uniforme» n’est pas incorporé.
 - (b) L’art. 8 est remplacé par:
 
-### ........1 «**Art. 8**Dénominations homonymes
+### «**Art. 8**Dénominations homonymes
 
 [^annex4-lvlu1-1]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
 
@@ -1283,49 +2135,63 @@ Appendice C à l’annexe 4
 
 ## Relative aux produits agricoles et denrées alimentaires obtenus selon le mode de production biologique
 
-### ........1 **Art. 1**Champ d’application
+#### Art. 1
+
+**Champ d’application**
 
 La présente annexe s’applique aux:
 
 - a. produits obtenus selon le mode de production biologique et provenant du Royaume-Uni qui figurent à l’appendice I;
 - b. produits obtenus selon le mode de production biologique et provenant de Suisse qui figurent à l’appendice II.
 
-### ........1 **Art. 2**Importation et commercialisation de produits biologiques en provenance du Royaume-Uni
+#### Art. 2
 
-\1. La Suisse accepte l’importation sur son territoire et la mise sur le marché en tant que produits biologiques, des produits obtenus selon le mode de production biologique et provenant du Royaume-Uni qui sont énumérés à l’appendice I pour autant que l’un des organismes de contrôle figurant à l’appendice III ait certifié que lesdits produits ont été obtenus conformément aux dispositions de la législation sur l’agriculture biologique mentionnées à l’appendice IV, partie 2.
+**Importation et commercialisation de produits biologiques en provenance du Royaume-Uni**
 
-\2. Un produit en provenance du Royaume-Uni qui est importé en Suisse au titre du présent article doit être accompagné d’un certificat de contrôle établi conformément à l’art. 16*c* et à l’annexe 9, partie A, de l’ordonnance du DEFR sur l’agriculture biologique (RS *910.181*). Le certificat de contrôle doit être rédigé en allemand, en français, en italien ou en anglais.
+<sup>1.</sup> La Suisse accepte l’importation sur son territoire et la mise sur le marché en tant que produits biologiques, des produits obtenus selon le mode de production biologique et provenant du Royaume-Uni qui sont énumérés à l’appendice I pour autant que l’un des organismes de contrôle figurant à l’appendice III ait certifié que lesdits produits ont été obtenus conformément aux dispositions de la législation sur l’agriculture biologique mentionnées à l’appendice IV, partie 2.
 
-### ........1 **Art. 3**Importation et commercialisation de produits biologiques en provenance de Suisse
+<sup>2.</sup> Un produit en provenance du Royaume-Uni qui est importé en Suisse au titre du présent article doit être accompagné d’un certificat de contrôle établi conformément à l’art. 16*c* et à l’annexe 9, partie A, de l’ordonnance du DEFR sur l’agriculture biologique (RS *910.181*). Le certificat de contrôle doit être rédigé en allemand, en français, en italien ou en anglais.
 
-\1. Le Royaume-Uni accepte l’importation sur son territoire et la mise sur le marché en tant que produits biologiques, des produits obtenus selon le mode de production biologique et provenant de Suisse qui sont énumérés à l’appendice II pour autant que lesdits produits respectent les dispositions de la législation sur l’agriculture biologique mentionnées à l’appendice IV, partie 1.
+#### Art. 3
 
-\2. Le présent article n’empêche pas le Royaume-Uni de demander qu’un produit importé de Suisse au Royaume-Uni au titre du présent article soit accompagné d’un certificat de contrôle. Les dispositions relatives à la notification de l’art. 8 (2) de l’Accord agricole incorporé est applicable aux dispositions législatives, réglementaires et administratives du Royaume-Uni qui imposent de telles exigences.
+**Importation et commercialisation de produits biologiques en provenance de Suisse**
 
-### ........1 **Art. 4**Échange d’informations
+<sup>1.</sup> Le Royaume-Uni accepte l’importation sur son territoire et la mise sur le marché en tant que produits biologiques, des produits obtenus selon le mode de production biologique et provenant de Suisse qui sont énumérés à l’appendice II pour autant que lesdits produits respectent les dispositions de la législation sur l’agriculture biologique mentionnées à l’appendice IV, partie 1.
 
-\1. Chaque Partie fournit des informations à l’autre Partie par écrit et en temps voulu dans les cas suivants:
+<sup>2.</sup> Le présent article n’empêche pas le Royaume-Uni de demander qu’un produit importé de Suisse au Royaume-Uni au titre du présent article soit accompagné d’un certificat de contrôle. Les dispositions relatives à la notification de l’art. 8 (2) de l’Accord agricole incorporé est applicable aux dispositions législatives, réglementaires et administratives du Royaume-Uni qui imposent de telles exigences.
+
+#### Art. 4
+
+**Échange d’informations**
+
+<sup>1.</sup>
+
+Chaque Partie fournit des informations à l’autre Partie par écrit et en temps voulu dans les cas suivants:
 
 - a. changements concernant les organismes de contrôle reconnus par la Partie et les numéros de code de ces organismes;
 - b. non-respect significatif des dispositions relatives à la certification bio de la Partie.
 
-\2. Aux fins de l’application du par. 1*b*, le terme «significatif» désigne toute non-conformité affectant sensiblement l’intégrité du produit biologique qui sera probablement exporté sur le territoire de l’autre Partie.
+<sup>2.</sup> Aux fins de l’application du par. 1*b*, le terme «significatif» désigne toute non-conformité affectant sensiblement l’intégrité du produit biologique qui sera probablement exporté sur le territoire de l’autre Partie.
 
-\3. Chaque Partie transmet, d’ici au 31 mars de chaque année, à l’autre Partie un rapport annuel sur la mise en œuvre et l’application des mesures de contrôle de la Partie pendant l’année précédente.
+<sup>3.</sup> Chaque Partie transmet, d’ici au 31 mars de chaque année, à l’autre Partie un rapport annuel sur la mise en œuvre et l’application des mesures de contrôle de la Partie pendant l’année précédente.
 
-### ........1 **Art. 5**Groupe de travail pour les produits biologiques
+#### Art. 5
 
-\1. Le Groupe de travail pour les produits biologiques (ci-après dénommé Groupe de travail), institué selon l’art. 6, par. 7, du présent Accord, examine toute question relative à la présente annexe et à sa mise en œuvre.
+**Groupe de travail pour les produits biologiques**
 
-\2. Le Groupe de travail examine périodiquement l’évolution des dispositions législatives et réglementaires respectives des Parties dans les domaines couverts par la présente annexe.
+<sup>1.</sup> Le Groupe de travail pour les produits biologiques (ci-après dénommé Groupe de travail), institué selon l’art. 6, par. 7, du présent Accord, examine toute question relative à la présente annexe et à sa mise en œuvre.
 
-### ........1 **Art. 6**Durée de validité et réexamen
+<sup>2.</sup> Le Groupe de travail examine périodiquement l’évolution des dispositions législatives et réglementaires respectives des Parties dans les domaines couverts par la présente annexe.
 
-\1. La présente annexe sera appliquée pendant une période transitoire de 24 mois, après l’entrée en vigueur ou l’application provisoire de l’accord commercial entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, qui a eu lieu à Berne le 11 février 2019.
+#### Art. 6
 
-\2. Au moins six mois avant la fin de la période transitoire, le Groupe de travail examinera si la présente annexe doit être encore appliquée ou remplacée par une annexe plus complète. Le Comité mixte peut, sur recommandation du Groupe de travail, décider de continuer à appliquer la présente annexe, avec ou sans modifications, pendant une période transitoire prolongée, ou de la remplacer.
+**Durée de validité et réexamen**
 
-\3. Chaque Partie peut à tout moment communiquer sa décision de mettre fin à l’application de la présente annexe ou de la suspendre. L’extinction ou la suspension prend effet 30 jours après réception de la notification par l’autre partie.
+<sup>1.</sup> La présente annexe sera appliquée pendant une période transitoire de 24 mois, après l’entrée en vigueur ou l’application provisoire de l’accord commercial entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, qui a eu lieu à Berne le 11 février 2019.
+
+<sup>2.</sup> Au moins six mois avant la fin de la période transitoire, le Groupe de travail examinera si la présente annexe doit être encore appliquée ou remplacée par une annexe plus complète. Le Comité mixte peut, sur recommandation du Groupe de travail, décider de continuer à appliquer la présente annexe, avec ou sans modifications, pendant une période transitoire prolongée, ou de la remplacer.
+
+<sup>3.</sup> Chaque Partie peut à tout moment communiquer sa décision de mettre fin à l’application de la présente annexe ou de la suspendre. L’extinction ou la suspension prend effet 30 jours après réception de la notification par l’autre partie.
 
 Appendice I
 
