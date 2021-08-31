@@ -3,24 +3,23 @@ canton: LU
 number: "6"
 title: Vollziehungsverordnung zum Gesetz über die Niederlassung und den Aufenthalt
 language: de
-version: 2013-01-01
-valid_until: 2021-08-31
-version_adopted: 2012-12-04
+version: 2021-09-01
+version_adopted: 2021-08-23
 adopted: 1954-12-23
 in_force: 1955-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/6"
-pdf: "https://srl.lu.ch/api/de/versions/2237/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3804/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollziehungsverordnung zum Gesetz über die Niederlassung und den Aufenthalt
 
-vom 23.12.1954 (Stand 01.01.2013)
+vom 23.12.1954 (Stand 01.09.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 9, 13 und 17 des Gesetzes über die Niederlassung und den Aufenthalt vom 1. Dezember 1948[^ingress-1] und auf § 9 des Datenschutzgesetzes vom 2. Juli 1990[^ingress-2],
+gestützt auf die §§ 9, 13 und 17 des Gesetzes über die Niederlassung und den Aufenthalt vom 1. Dezember 1948[^ingress-1] und auf § 9 des Kantonalen Datenschutzgesetzes vom 2. Juli 1990[^ingress-2],
 
 beschliesst:
 
