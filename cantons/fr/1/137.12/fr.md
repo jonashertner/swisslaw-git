@@ -3,13 +3,13 @@ canton: FR
 number: "137.12"
 title: Règlement sur le stage et les examens de notaire
 language: fr
-version: 2017-07-01
-valid_until: 2021-08-31
-version_adopted: 2017-06-27
+version: 2021-09-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-15
 adopted: 1977-12-13
 in_force: 1978-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/137.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5082/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6877/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5082/pdf_file"
 
 Notaires, stages et examens – R
 
-du 13.12.1977 (version entrée en vigueur le 01.07.2017)
+du 13.12.1977 (version entrée en vigueur le 01.09.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -39,7 +39,7 @@ Arrête:
 <sup>2</sup> Pour obtenir cette autorisation, le requérant notaire doit:
 
 - a) avoir l'exercice des droits civils;
-- b) être de bonnes mœurs;
+- b) …
 - c) ne pas avoir été condamné pour des actes contraires à la dignité de la profession, à moins d'avoir été réhabilité;
 - d) être titulaire d'une licence en droit d'une université suisse;
 - e) être engagé pour la durée du stage par un ou des maîtres de stage visés à l'article 7.
@@ -51,7 +51,7 @@ Arrête:
 <sup>1</sup> Le requérant notaire doit présenter sa demande par écrit et produire:
 
 - a) une attestation selon laquelle il a l'exercice des droits civils;
-- b) un certificat de mœurs;
+- b) …
 - c) un extrait du casier judiciaire;
 - d) son diplôme de licencié en droit ou une attestation y relative;
 - e) les pièces attestant son engagement comme stagiaire.

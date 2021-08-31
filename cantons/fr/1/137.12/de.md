@@ -3,13 +3,13 @@ canton: FR
 number: "137.12"
 title: Reglement über das Notariatspraktikum und die Notariatsprüfungen
 language: de
-version: 2017-07-01
-valid_until: 2021-08-31
-version_adopted: 2017-06-27
+version: 2021-09-01
+valid_until: 2022-12-31
+version_adopted: 2021-06-15
 adopted: 1977-12-13
 in_force: 1978-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/137.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/5082/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6877/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5082/pdf_file"
 
 Notariat, Praktika und Examen – R
 
-vom 13.12.1977 (Fassung in Kraft getreten am 01.07.2017)
+vom 13.12.1977 (Fassung in Kraft getreten am 01.09.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -39,7 +39,7 @@ beschliesst:
 <sup>2</sup> Um diese Bewilligung zu erlangen, muss der Bewerber für ein Notariatspraktikum:
 
 - a) handlungsfähig sein;
-- b) einen guten Leumund besitzen;
+- b) …
 - c) nicht wegen Handlungen verurteilt worden sein, die der Würde des Berufs widersprechen, ausser er sei rehabilitiert worden;
 - d) das Rechtslizentiat einer schweizerischen Universität besitzen;
 - e) für die Dauer des Praktikums auf einem oder mehreren der in Artikel 7 angegebenen Büros angestellt sein.
@@ -51,7 +51,7 @@ beschliesst:
 <sup>1</sup> Der Bewerber für ein Notariatspraktikum hat ein schriftliches Gesuch einzureichen und folgende Ausweise vorzulegen:
 
 - a) eine Bescheinigung darüber, dass er handlungsfähig ist;
-- b) ein Leumundszeugnis;
+- b) …
 - c) einen Auszug aus dem Strafregister;
 - d) sein Rechtslizentiatendiplom oder eine diesbezügliche Bescheinigung;
 - e) Bescheinigungen über seine Anstellung als Praktikant.
