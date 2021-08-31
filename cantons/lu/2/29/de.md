@@ -4,13 +4,12 @@ number: "29"
 title: Gesetz über die Geoinformation und die amtliche Vermessung
 short: "Geoinformationsgesetz, GIG"
 language: de
-version: 2015-06-01
-valid_until: 2021-08-31
-version_adopted: 2014-11-03
+version: 2021-09-01
+version_adopted: 2021-05-10
 adopted: 2003-09-08
 in_force: 2004-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/29"
-pdf: "https://srl.lu.ch/api/de/versions/2240/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4529/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2240/pdf_file"
 
 (Geoinformationsgesetz, GIG)
 
-vom 08.09.2003 (Stand 01.06.2015)
+vom 08.09.2003 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -69,7 +68,7 @@ beschliesst:
 - e. Datenbanken sind nach bestimmten Kriterien geordnete Sammlungen von Datensätzen.
 - f. Geografische Informationssysteme (GIS) sind digitale Systeme, mit denen raumbezogene Daten erfasst, analysiert, geordnet, verknüpft, modelliert und gespeichert werden.
 - g. Als amtliche Vermessungen gelten die zur Anlage und Führung des Grundbuchs vom Bund anerkannten Vermessungen.
-- h. Inhaber oder Inhaberin einer Datensammlung ist jenes Organ, das über den Zweck und den Inhalt einer Datensammlung entscheidet.
+- h. Verantwortliches Organ ist das Organ, das, allein oder zusammen mit anderen Organen, über den Zweck und die Mittel der Bearbeitung von Daten entscheidet.
 
 #### § 4
 
@@ -136,7 +135,7 @@ beschliesst:
 
 **Datenschutz**
 
-<sup>1</sup> Werden Personendaten bearbeitet, gelten die Vorschriften des Bundes und des Kantons über den Datenschutz. Der Inhaber oder die Inhaberin einer Datensammlung hat dafür Gewähr zu leisten, dass er oder sie die datenschutzrechtlichen Bestimmungen einhält.
+<sup>1</sup> Werden Personendaten bearbeitet, gelten die Vorschriften des Bundes und des Kantons über den Datenschutz. Das verantwortliche Organ hat dafür Gewähr zu leisten, dass die datenschutzrechtlichen Bestimmungen eingehalten werden.
 
 <sup>2</sup> Lässt es der Zweck der Datenbearbeitung zu, sind Personendaten so zu anonymisieren, dass die betroffenen Personen nicht bestimmbar sind. Auf die Erfassung von Personendaten, die nicht erforderlich sind, ist zu verzichten. Insbesondere dürfen keine Persönlichkeitsprofile im Sinn der Datenschutzgesetzgebung entstehen.
 
@@ -249,7 +248,7 @@ beschliesst:
 
 **Schutzrechte an GIS-Datenbanken**
 
-<sup>1</sup> Schutzrechte, die bei der Bearbeitung und Nachführung von GIS-Datenbanken entstehen, gehen an das Gemeinwesen über, welches Inhaber einer Datensammlung ist.
+<sup>1</sup> Schutzrechte, die bei der Bearbeitung und Nachführung von GIS-Datenbanken entstehen, gehen an das Gemeinwesen über, zu dem das verantwortliche Organ gehört.
 
 <sup>2</sup> Das jeweilige Gemeinwesen kann die Verwendung und Verwertung seiner eigenen GIS-Datenbanken und -Grundlagen zu gewerblichen Zwecken und für Veröffentlichungen bewilligen.
 
