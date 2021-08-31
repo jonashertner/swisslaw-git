@@ -3,20 +3,20 @@ canton: SG
 number: "320.31"
 title: Taxordnung des Kantonsspitals St.Gallen
 language: de
-version: 2020-07-01
-valid_until: 2021-08-31
-version_adopted: 2020-05-15
+version: 2021-09-01
+valid_until: 2022-08-31
+version_adopted: 2021-07-01
 adopted: 2016-12-15
 in_force: 2017-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.31"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2974/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3208/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Taxordnung des Kantonsspitals St.Gallen
 
-vom 15.12.2016 (Stand 01.07.2020)
+vom 15.12.2016 (Stand 01.09.2021)
 
 Der Verwaltungsrat der Spitalverbunde
 
@@ -42,6 +42,10 @@ als Taxordnung:[^ingress-2]
 **Taxtarif**
 
 <sup>1</sup> Der Verwaltungsrat der Spitalverbunde erlässt gestützt auf diesen Erlass je einen Taxtarif für das Kantonsspital St.Gallen, das Institut für Rechtsmedizin am Kantonsspital St.Gallen und die Rettung St.Gallen, welche die jeweils gültigen betragsmässigen Preise und Abrechnungsregeln enthalten.
+
+<sup>2</sup> Die Preise für Leistungen, für welche der Taxtarif Rettung St.Gallen keine Regelung trifft, werden durch die in der Rettung St.Gallen zusammenarbeitenden Spitalverbunde mit den Leistungsempfängern oder Garanten durch Vereinbarung geregelt (z.B. für Nonmedical-Einsätze, Seniorennotruf, Pistenrettung, Sonderfahrten, Rückholungen aus dem Ausland usw.).
+
+<sup>3</sup> Für Leistungen eines Rettungsdienstes mit von einem Spitalverbund delegierten Leistungsauftrag für das Versorgungsgebiet der vier Spitalverbunde des Kantons St.Gallen wird der jeweilige Tarif des entsprechenden Rettungsdienstes, der die Leistung erbringt, angewendet.
 
 #### Art. 3
 
