@@ -4,108 +4,137 @@ number: "211.701"
 title: Standeskommissionsbeschluss über die Stiftungsaufsicht
 short: StKB Stiftungsaufsicht
 language: de
-version: 2014-09-16
-corrected: 2018-09-04
-version_adopted: 2014-09-16
+version: 2021-09-01
+version_adopted: 2021-07-06
 adopted: 2021-07-06
 in_force: 2021-09-01
 url: "https://ai.clex.ch/app/de/texts_of_law/211.701"
-pdf: "https://ai.clex.ch/api/de/versions/266/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2093/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss über die Stiftungsaufsicht
 
-vom 26. September 19771
+(StKB Stiftungsaufsicht)
 
-Die Standeskommission des Kantons Appenzell I. Rh.,
+vom 06.07.2021 (Stand 01.09.2021)
 
-gestützt auf Art. 84 des Schweizerischen Zivilgesetzbuches (ZGB) vom 10. Dezember 1907 und Art. 6 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB) vom 29. April 2012,2
+Die Standeskommission des Kantons Appenzell I.Rh.,
+
+gestützt auf Art. 84 des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907 (ZGB) und Art. 99 Abs. 3 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 29. April 2012 (EG ZGB),
 
 beschliesst:
 
-#### Art. 13
+## I. Allgemeines
 
-<sup>1</sup> Die Stiftungen im Kanton Appenzell I. Rh., mit Ausnahme der Familienstiftungen und der kirchlichen Stiftungen, stehen unter der Aufsicht des Volkswirtschaftsdepartementes (nachfolgend Departement genannt).
+#### Art. 1
 
-<sup>2</sup> Genehmigung und Nichtgenehmigung der Rechnungen und Berichte sowie alle Anordnungen werden auf Antrag seines Sekretariates durch das Departement verfügt.
+**Geltungsbereich**
 
-#### Art. 24
+<sup>1</sup> Dieser Beschluss regelt die Aufsicht über Stiftungen im Sinne von Art. 80 ff. ZGB.
 
-<sup>1</sup> Der Handelsregisterführer\* hat den Registereintrag gemäss Art. 101–104 HRegV vorzunehmen.
+<sup>2</sup> Er ist nicht anwendbar auf Vorsorgeeinrichtungen, Familienstiftungen und kirchliche Stiftungen sowie auf Stiftungen, die der Aufsicht des Bundes unterstehen.
 
-<sup>2</sup> Hat der Handelsregisterführer Verdacht oder Zweifel an der Wahrheit der Angaben, ist er verpflichtet, den wahren Sachverhalt zu erforschen.
+#### Art. 2
 
-#### Art. 35
+**Zuständigkeit**
 
-Das Departement hat die der Aufsichtsbehörde in Art. 83 und Art. 84 ZGB übertragenen Aufgaben zu erfüllen. Es hat insbesondere dafür zu sorgen, dass das Stiftungsvermögen seinem Zweck gemäss verwendet wird und hat bei zweckwidriger Verwendung die notwendigen Verfügungen zu erlassen.
+<sup>1</sup> Die Stiftungsaufsicht ist kantonale Aufsichts- und zuständige Kantonsbehörde, soweit das übergeordnete Recht nicht etwas anderes bestimmt.
 
-#### Art. 41
+## II. Pflichten der Stiftung
 
-Die Reglemente der Stiftungen sind dem Departementes zur Kenntnisnahme einzureichen. Diese sind auf Übereinstimmung mit der Stiftungsurkunde sowie den gesetzlichen Bestimmungen zu prüfen.
+#### Art. 3
 
-#### Art. 52
+**Jährliche Berichterstattung**
 
-<sup>1</sup> Das Departementes hat von den Stiftungsverwaltungen jährlich Berichterstattung und Rechnungsablegung (Bilanz, Betriebsrechnung und Wertschriftenverzeichnis) zu verlangen (Frist 3 Monate nach Rechnungsabschluss). Diese haben sich auf den Vermögensausweis zu erstrecken. Die Betriebsrechnung muss soweit detailliert sein, dass daraus einerseits die Einkünfte und anderseits die Verwendung des Stiftungsvermögens und -ertrages ersichtlich ist. Falls notwendig ist das Departement befugt, Einblick in die Belege zu nehmen und von den Stiftungsorganen die erforderlichen Aufschlüsse über die Stiftungsleistungen zu verlangen.
+<sup>1</sup> Die Stiftung reicht der Aufsichtsbehörde die jährlichen Berichte unaufgefordert innert sechs Monaten nach Abschluss des Geschäftsjahrs ein.
 
-<sup>2</sup> Für die Kontrolle der zweckmässigen Verwendung des Stiftungsvermögens ist dem Departement ein Verzeichnis der Versicherten und/oder ein Verzeichnis über die ausgerichteten Kassenleistungen einzureichen. Ist ein Verzeichnis einmal eingereicht, sind nur noch Mutationen zu melden.
+<sup>2</sup> Sie stellt zu
 
-#### Art. 63
+- a) Bericht über die Geschäftstätigkeit;
+- b) Jahresrechnung (inkl. Vorjahreszahlen) bestehend aus Bilanz, Erfolgsrechnung und Anhang;
+- c) Wertschriftenverzeichnis;
+- d) Bericht der Revisionsstelle oder, wenn die Stiftung von der Pflicht zur Bezeichnung einer Revisionsstelle befreit ist, eine Vollständigkeitserklärung;
+- e) Protokoll des Stiftungsrats über die Genehmigung der Jahresrechnung.
 
-<sup>1</sup> Bei Personalfürsorgestiftungen von Unternehmen hat das Departement dafür zu sorgen, dass das Stiftungsvermögen unter Rücksicht auf die Leistungsfähigkeit des Unternehmens vom Geschäftsvermögen des Unternehmens ausgeschieden und sichergestellt wird. Dabei sind die Richtlinien im Anhang verbindlich.
+<sup>3</sup> Die Stiftungsaufsicht kann Einsicht in die Belege nehmen und weitere Unterlagen oder Auskünfte verlangen.
 
-<sup>2</sup> Die Personalfürsorgestiftungen, die nicht selbst die nötigen Anforderungen treffen, dass die statutarischen Leistungen den vorhandenen Mitteln entsprechen, sind durch das Departement hiezu anzuhalten.
+#### Art. 4
 
-<sup>3</sup> Das Departement ist zu diesem Zweck berechtigt, nötigenfalls auf Kosten der Stiftung ein Gutachten eines Fachmannes über versicherungstechnische Grundlagen einzuholen.
+**Reglemente**
 
-#### Art. 74
+<sup>1</sup> Die Stiftung reicht unaufgefordert neue oder geänderte Reglemente ein.
 
-Wenn das Departement eine Änderung der Organisation der Stiftung (Art. 85 ZGB) oder eine Änderung des Stiftungszweckes (Art. 86 ZGB) für notwendig erachtet, hat es von Amtes wegen der Standeskommission Antrag zu stellen.
+#### Art. 5
 
-#### Art. 81
+**Informationspflicht**
 
-Ist ein Auflösungsgrund der Stiftung gegeben, so hat das Departement zu prüfen, ob der Zweck der Stiftung tatsächlich nicht mehr erreicht werden kann. Die Löschung im Handelsregister darf nur mit Zustimmung des Departementes oder auf Weisung des Richters vorgenommen werden.
+<sup>1</sup> Die Stiftung informiert die Stiftungsaufsicht unverzüglich über Vorgänge, die auf ihr Vermögen oder auf ihre weitere Tätigkeit wesentlichen Einfluss haben.
 
-#### Art. 92
+## III. Aufgaben der Stiftungsaufsicht
 
-<sup>1</sup> Handelt die Stiftungsverwaltung dem Stifterwillen, dem Gesetz oder den Vorschriften der Aufsichtsbehörden zuwider, ist das Departement befugt, die Stiftungsverwaltung zu mahnen, ihr eine angemessene Busse bis max. Fr. 500.— anzudrohen bzw. aufzuerlegen oder, falls eine pflichtwidrige Unterlassung vorliegt, Ersatzvornahme zu verfügen.
+#### Art. 6
 
-<sup>2</sup> Erachtet es das Departement als notwendig, ist es ermächtigt, einen Beschluss der Stiftungsverwaltung aufzuheben bzw. abzuändern. In schwerwiegenden Fällen kann es die Stiftungsverwaltung ihrer Funktion entheben und, unter Vorbehalt nachträglicher Bestätigung durch den Richter, diese sogar absetzen. Dem Departement steht das Recht zu, gegen die Stiftungsverwaltung Zivilklage zu erheben.
+**Grundsatz**
 
-#### Art. 103
+<sup>1</sup> Die Stiftungsaufsicht nimmt die ihr von der Gesetzgebung übertragenen Aufgaben wahr.
 
-#### Art. 114
+<sup>2</sup> Sie nimmt Einsicht in die eingereichten Unterlagen. Diese Einsichtnahme bewirkt keine Entlastung der verantwortlichen Stiftungsorgane.
 
-Das Departement bezieht für die Prüfung der jährlichen Stiftungsrechnungen sowie für andere durch die Stiftung veranlasste Beschlüsse eine Staatsgebühr gemäss dem kantonalen Gebührentarif.
+<sup>3</sup> Sie führt ein Register über die ihr unterstellten Stiftungen und macht dieses der Öffentlichkeit zugänglich.
 
-#### Art. 125
+#### Art. 7
 
-Das Departement ist berechtigt, die buchhalterische Prüfung der Landesbuchhaltung zu übertragen.
+**Verfügungen**
 
-#### Art. 131
+<sup>1</sup> Die Stiftungsaufsicht erlässt Verfügungen insbesondere über
 
-#### Art. 142
+- a) die Unterstellung der Stiftung unter ihre Aufsicht;
+- b) die Änderung oder Neuschrift der Stiftungsurkunde, soweit das Gesetz nicht eine andere Behörde bezeichnet;
+- c) die Prüfung des Berichts über die Geschäftstätigkeit und der Jahresrechnung;
+- d) die Befreiung von der gesetzlichen Revisionsstellenpflicht;
+- e) die Genehmigung von Vermögensübertragungen und Fusionen;
+- f) die Aufhebung der Stiftung.
 
-Dieser Beschluss tritt nach Annahme durch die Standeskommission in Kraft.
+#### Art. 8
 
-## Weitere Fussnoten
+**Aufsichtsmittel**
 
-- [1] Mit Revisionen vom 6. Mai 1986, 20. Dezember 1994, 1. Juli 2003 und 16. September 2014.
-- [2] Titel und Ingress abgeändert durch StKB vom 1. Juli 2003. Ingress abgeändert durch StKB vom 16. September 2014.
-- [3] Abgeändert durch StKB vom 20. Dezember 1994 und 1. Juli 2003.
-- [4] Abgeändert durch StKB vom 1. Juli 2003.
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [5] Abgeändert durch StKB vom 20. Dezember 1994 und 1. Juli 2003.
-- [1] Abgeändert durch StKB vom 20. Dezember 1994 und 1. Juli 2003.
-- [2] Abgeändert durch StKB vom 20. Dezember 1994 und 1. Juli 2003.
-- [3] Abgeändert durch StKB vom 20. Dezember 1994 und 1. Juli 2003.
-- [4] Abgeändert durch StKB vom 20. Dezember 1994 und 1. Juli 2003.
-- [1] Abgeändert durch StKB vom 20. Dezember 1994 und 1. Juli 2003.
-- [2] Abgeändert durch StKB vom 20. Dezember 1994 und 1. Juli 2003.
-- [3] Angefügt (Abs. 2) durch StKB vom 20. Dezember 1994. Aufgehoben durch StKB vom 1. Juli 2003.
-- [4] Abgeändert durch StKB vom 1. Juli 2003.
-- [5] Abgeändert durch StKB vom 20. Dezember 1994 und 1. Juli 2003.
-- [1] Abgeändert durch StKB vom 6. Mai 1986. Aufgehoben durch StKB vom 1. Juli 2003.
-- [2] Abgeändert durch StKB vom 1. Juli 2003.
+<sup>1</sup> Bei Rechtsverletzungen trifft die Stiftungsaufsicht die erforderlichen Anordnungen, falls notwendig als vorsorgliche Massnahmen.
+
+<sup>2</sup> Sie kann insbesondere
+
+- a) den Stiftungsorganen oder der Revisionsstelle Weisungen erteilen;
+- b) Mahnungen und Verwarnungen aussprechen;
+- c) Beschlüsse der Stiftungsorgane ändern oder aufheben;
+- d) Stiftungsorgane abberufen und eine Sachwalterin oder einen Sachwalter einsetzen;
+- e) Gutachten einholen;
+- f) Ersatzvornahme anordnen;
+- g) Bussen bis Fr. 2'000.-- verhängen.
+
+#### Art. 9
+
+**Datenschutz**
+
+<sup>1</sup> Die Stiftungsaufsicht verwaltet die für die Wahrnehmung der Aufsichtstätigkeit notwendigen Daten. Sie betreffen insbesondere Stiftungszweck, Stiftungsart, Adressen der verantwortlichen Personen, Gründungsdaten, Reglemente, Rechnungsablagen sowie Bilanzzahlen.
+
+<sup>2</sup> Die Bekanntgabe von Daten richtet sich nach den kantonalen Datenschutzbestimmungen.
+
+#### Art. 10
+
+**Gebühren**
+
+<sup>1</sup> Die Stiftungsaufsicht erhebt für ihre Tätigkeit wie die Prüfung der jährlichen Berichterstattung eine Gebühr gemäss kantonaler Gebührenregelung.
+
+## IV. Schlussbestimmung
+
+#### Art. 11
+
+**Inkrafttreten und Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Der Standeskommissionsbeschluss über die Stiftungsaufsicht vom 26. September 1977 wird aufgehoben.
+
+<sup>2</sup> Dieser Beschluss tritt am 1. September 2021 in Kraft.
+
+cGS 2021-18
