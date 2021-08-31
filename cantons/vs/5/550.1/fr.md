@@ -4,13 +4,13 @@ number: "550.1"
 title: Loi sur la police cantonale
 short: LPol
 language: fr
-version: 2018-01-01
-corrected: 2018-11-20
-version_adopted: 2016-11-11
+version: 2021-09-01
+valid_until: 2021-09-30
+version_adopted: 2021-06-08
 adopted: 2016-11-11
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/550.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2390/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2934/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2390/pdf_file"
 
 (LPol)
 
-du 11.11.2016 (état 01.01.2018)
+du 11.11.2016 (état 01.09.2021)
 
 Le Grand Conseil du canton du Valais
 
@@ -395,7 +395,7 @@ ordonne:[^ingress-1]
 
 **Surveillance de la correspondance par poste et télécommunication**
 
-<sup>1</sup> L’officier de service est compétent pour ordonner la surveillance, en dehors d’une procédure pénale, de la correspondance limitée à l’identification des usagers et aux données relatives au trafic en vue de retrouver une personne disparue au sens de la loi fédérale sur la surveillance de la correspondance par poste et télécommunication.
+<sup>1</sup> En dehors d’une procédure pénale, l’officier de service est compétent pour ordonner, en cas d’urgence, une surveillance au sens de la loi fédérale sur la surveillance de la correspondance par poste et télécommunication en vue de retrouver une personne disparue.
 
 <sup>2</sup> Le tribunal des mesures de contrainte est compétent pour autoriser la surveillance.
 
@@ -876,7 +876,7 @@ ordonne:[^ingress-1]
 - c) du logement;
 - d) des indemnités;
 - e) des congés;
-- f) de la procédure disciplinaire relative au blâme.
+- f) des mesures administratives.
 
 ## 7 Police municipale - Statut, missions et collaboration
 
@@ -1095,5 +1095,13 @@ ordonne:[^ingress-1]
 **Dispositions d'exécution**
 
 <sup>1</sup> Le Conseil d'Etat édicte les dispositions d'exécution de la présente loi.
+
+## T1 Disposition transitoire de la modification du 09.05.2019
+
+#### Art. T1-1
+
+**Procédures pendantes**
+
+<sup>1</sup> Les procédures pendantes lors de l’entrée en vigueur de la modification de la présente loi sont poursuivies conformément à l’ancien droit.
 
 RCV BO/Abl. 49/2016, 49/2017

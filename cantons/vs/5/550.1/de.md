@@ -4,13 +4,13 @@ number: "550.1"
 title: Gesetz über die Kantonspolizei
 short: PolG
 language: de
-version: 2018-01-01
-corrected: 2018-11-20
-version_adopted: 2016-11-11
+version: 2021-09-01
+valid_until: 2021-09-30
+version_adopted: 2021-06-08
 adopted: 2016-11-11
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/550.1"
-pdf: "https://lex.vs.ch/api/de/versions/2390/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2934/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2390/pdf_file"
 
 (PolG)
 
-vom 11.11.2016 (Stand 01.01.2018)
+vom 11.11.2016 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -395,7 +395,7 @@ verordnet:[^ingress-1]
 
 **Überwachung des Post- und Fernmeldeverkehrs**
 
-<sup>1</sup> Ausserhalb des Strafverfahrens ist der Dienstoffizier für die Anordnung der Überwachung des Post- und Fernmeldeverkehrs zuständig, die sich auf die Identifizierung der Teilnehmer und auf die Verkehrsdaten zwecks Auffindens einer vermissten Person gemäss Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs beschränkt.
+<sup>1</sup> Ausserhalb eines Strafverfahrens ist der Dienstoffizier zuständig, um im Notfall im Sinne des Bundesgesetzes betreffend die Überwachung des Post- und Fernmeldeverkehrs, zwecks Auffindens einer vermissten Person, eine Überwachung anzuordnen.
 
 <sup>2</sup> Das Zwangsmassnahmengericht ist für die Bewilligung der Überwachung zuständig.
 
@@ -541,7 +541,7 @@ verordnet:[^ingress-1]
 
 <sup>3</sup> Die Artikel 141 und 283 StPO sind sinngemäss anwendbar.
 
-<sup>4</sup> Personen, die einer präventiven Observation unterzogen werden, können bei einem Richter des Kantonsgerichtes Beschwerde einreichen. Die Artikel 379 bis 397 StPO werden sinngemäss angewendet.
+<sup>4</sup> Personen, die einer präventiven Observation unterzogen werden, können bei einem Richter des Kantonsgerichtes Beschwerde einreichen. Die Artikel 393 bis 397 StPO werden sinngemäss angewendet.
 
 #### Art. 43
 
@@ -876,7 +876,7 @@ verordnet:[^ingress-1]
 - c) die Unterkunft;
 - d) die Entschädigungen;
 - e) den Urlaub;
-- f) das Disziplinarfahren betreffend den Verweis.
+- f) die administrativen Massnahmen.
 
 ## 7 Gemeindepolizei - Status, Aufträge und Zusammenarbeit
 
@@ -1095,5 +1095,13 @@ verordnet:[^ingress-1]
 **Vollzugsbestimmungen**
 
 <sup>1</sup> Der Staatsrat erlässt die Vollzugsbestimmungen zu diesem Gesetz.
+
+## T1 Übergangsbestimmung der Änderung vom 09.05.2019
+
+#### Art. T1-1
+
+**Hängige Verfahren**
+
+<sup>1</sup> Zum Zeitpunkt des Inkrafttretens der Änderung des vorliegenden Gesetzes hängige Verfahren werden nach den Bestimmungen des bisherigen Rechts zu Ende geführt.
 
 CSW BO/Abl. 49/2016, 49/2017
