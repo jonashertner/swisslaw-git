@@ -3,26 +3,24 @@ canton: AG
 number: "420.530"
 title: Vertrag über die Aufnahme von Schülerinnen und Schülern des Kantons Aargau an basellandschaftlichen Gymnasien
 language: de
-version: 1997-08-11
-valid_until: 2021-08-31
-version_adopted: 1998-06-02
+version: 2021-09-01
+valid_until: 2025-07-31
+version_adopted: 2021-06-23
 adopted: 1998-06-02
 in_force: 1997-08-11
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/420.530"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2977/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3020/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vertrag über die Aufnahme von Schülerinnen und Schülern des Kantons Aargau an basellandschaftlichen Gymnasien
 
-Vom 02.06.1998 (Stand 11.08.1997)
+Vom 02.06.1998 (Stand 01.09.2021)
 
-Zwischen den Kantonen Aargau und Basel-Landschaft, vertreten durch ihre Regierungen,
+Zwischen den Kantonen Basel-Landschaft und Aargau, vertreten durch ihre Regierungsräte,
 
-wird zur Sicherung des längerfristigen Zugangs von Schülerinnen und Schülern des Kantons Aargau an basellandschaftliche Gymnasien sowie auf dem Weg zur gemeinsamen Trägerschaft über das Gymnasium Muttenz
-
-folgende Vereinbarung getroffen:
+wird folgende Vereinbarung getroffen:
 
 #### § 1
 
@@ -71,6 +69,14 @@ folgende Vereinbarung getroffen:
 <sup>3</sup> Aargauische Schülerinnen und Schüler, die im Zeitpunkt der Kündigung des Vertrages im Kanton Basel-Landschaft in Ausbildung stehen, haben Anspruch darauf, ihre Schulzeit hier zu beenden. Während dieser Zeit bleibt der Kanton Aargau im genannten Umfang kostenpflichtig.
 
 [^6-1]: AGS Bd. 14 S. 541 (SAR 420.530)
+
+#### § 7
+
+<sup>1</sup> Der Vertrag wird im gegenseitigen Einvernehmen per 31. Juli 2025 aufgehoben.
+
+<sup>2</sup> Schülerinnen und Schüler aus dem Kanton Aargau, die im Zeitpunkt der Aufhebung des Vertrages in einem basellandschaftlichen Gymnasium in Ausbildung stehen, haben Anspruch darauf, ihre Schulzeit hier zu beenden. Während dieser Zeit bleibt der Kanton Aargau entsprechend den Vereinbarungen dieses Vertrages zahlungspflichtig.
+
+<sup>3</sup> Der Regierungsrat des Kantons Basel-Landschaft wählt auf Vorschlag des Regierungsrates des Kantons Aargau letztmals für die Amtsperiode vom 1. August 2024 bis 31. Juli 2028 zwei Vertreterinnen oder Vertreter in den Schulrat des Gymnasiums Muttenz.
 
 Liestal, 2. Juni 1998
 
