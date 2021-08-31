@@ -3,20 +3,20 @@ canton: LU
 number: "37"
 title: Verordnung über die Aufgaben der Departemente und der Staatskanzlei sowie die Gliederung der Departemente in Dienststellen
 language: de
-version: 2020-01-01
-valid_until: 2021-08-31
-version_adopted: 2019-11-19
+version: 2021-09-01
+valid_until: 2023-10-31
+version_adopted: 2021-08-23
 adopted: 2003-05-06
 in_force: 2003-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/37"
-pdf: "https://srl.lu.ch/api/de/versions/3508/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3807/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Aufgaben der Departemente und der Staatskanzlei sowie die Gliederung der Departemente in Dienststellen
 
-vom 06.05.2003 (Stand 01.01.2020)
+vom 06.05.2003 (Stand 01.09.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -226,7 +226,7 @@ beschliesst:
   - 14\. …
   - 15\. Dienstaufsicht: Staatsanwaltschaft
 - f. Staatskanzlei
-  - 1\. administrativ zugeordnet: Finanzkontrolle, kantonaler Datenschutzbeauftragter oder kantonale Datenschutzbeauftragte
+  - 1\. administrativ zugeordnet: Finanzkontrolle, Beauftragter oder Beauftragte für den Datenschutz
 
 ## 4 Schlussbestimmungen
 
