@@ -4,11 +4,11 @@ title: Ordonnance du 9 mars 2007 sur les services de télécommunication (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: fr
-version: 2021-07-01
+version: 2021-09-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210901-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210701/fr"
 
 (OST)
 
-du 9 mars 2007 (Etat le 1<sup>er</sup> juillet 2021)
+du 9 mars 2007 (Etat le 1<sup>er</sup> septembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -248,7 +248,12 @@ Les fournisseurs de services de télécommunication doivent:
 - b. permettre à leurs clients de mesurer la qualité de leur propre accès à Internet fixe ou mobile, pour autant que ceux-ci aient accès aux appareils utilisés pour les mesures;
 - c. consolider les résultats et informer leurs clients et le public de la qualité des services d’accès à Internet.
 
-<sup>2</sup> ...[^10e-2]
+<sup>2</sup>
+
+Ils doivent au minimum, pour chaque service fourni:
+
+- a.[^10e-2] mesurer et publier le débit de transmission de données effectivement atteint, la latence et, pour les communications de téléphonie mobile, la puissance du signal;
+- b. [^10e-3] ...
 
 <sup>3</sup> Les informations sur la qualité doivent permettre des comparaisons entre les offres des différents fournisseurs. Elles doivent aussi être publiées sous forme de cartes géographiques.
 
@@ -259,7 +264,8 @@ Les fournisseurs de services de télécommunication doivent:
 <sup>6</sup> Les informations mentionnées dans le présent article doivent être publiées sur une page Internet librement accessible. L’OFCOM peut prévoir que les informations doivent être publiées sur la même page Internet.
 
 [^10e-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^10e-2]: Entre en vigueur le 1<sup>er</sup> sept. 2021, respectivement le 1<sup>er</sup> janv. 2024 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-2]: En vigueur depuis le 1<sup>er</sup> sept. 2021, mais les informations ne doivent être publiées qu’à partir du 1<sup>er</sup> janvier 2022 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-3]: Entre en vigueur le 1<sup>er</sup> janv. 2024 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10f
 
@@ -576,7 +582,7 @@ Les prix plafonds suivants (taxe sur la valeur ajoutée non comprise) sont appli
 
 <sup>3</sup> Les frais imputables à la gestion du mécanisme de financement sont couverts par les redevances destinées au financement du service universel.
 
-## Chapitre 4**** Obligations découlant de la fourniture de services spécifiques
+## Chapitre 4 Obligations découlant de la fourniture de services spécifiques
 
 [^chap4-1]
 
@@ -711,7 +717,7 @@ Les fournisseurs du service téléphonique public doivent assurer aux utilisateu
 
 <sup>2</sup> Les prix des communications facturés aux malentendants, aux malvoyants et aux personnes à mobilité réduite dans le cadre de ces services doivent être non discriminatoires par rapport aux autres tarifs.
 
-## Chapitre 4*a* Portabilité des numéros****
+## Chapitre 4*a* Portabilité des numéros
 
 [^chap4a-1]
 
@@ -788,7 +794,7 @@ Les fournisseurs de services de télécommunication ayant l’obligation d’ass
 
 [^34e-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## Chapitre 4*b***** Libre choix du fournisseur des liaisons nationales et internationales
+## Chapitre 4*b* Libre choix du fournisseur des liaisons nationales et internationales
 
 [^chap4b-1]
 
@@ -1457,7 +1463,7 @@ Dans le cadre de l’instruction, l’OFCOM peut mener des négociations en vue 
 
 <sup>3</sup> Lorsque le fournisseur occupant une position dominante ne peut prouver qu’il respecte le principe de l’alignement sur les coûts, la ComCom décide sur la base de valeurs comparables conformes aux usages du marché et du secteur en question. Elle peut également fixer les prix sur la base de ses propres modélisations des prix et des coûts ou d’autres méthodes appropriées, en particulier lorsqu’aucune valeur comparable n’est disponible.
 
-## Chapitre 8 Utilisation de terrains du domaine public, autres raccordements et co-utilisation****
+## Chapitre 8 Utilisation de terrains du domaine public, autres raccordements et co-utilisation
 
 [^chap8-1]
 
@@ -1556,7 +1562,7 @@ Est réputée dédommagement approprié pour la co-utilisation d’installations
 
 [^79-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## Chapitre 9 Secret des télécommunications, protection des données et protection des enfants et des jeunes****
+## Chapitre 9 Secret des télécommunications, protection des données et protection des enfants et des jeunes
 
 [^chap9-1]
 
@@ -1712,7 +1718,7 @@ Les fournisseurs d’accès à Internet informent leurs clients des possibilité
 
 ## Chapitre 10 Intérêts nationaux importants
 
-### Section 1 Prestations de sécurité****
+### Section 1 Prestations de sécurité
 
 [^chap10-sec1-1]
 
@@ -1796,7 +1802,7 @@ Les fournisseurs de services de télécommunication peuvent être amenés à off
 
 [^95-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-### Section 3 Sécurité****
+### Section 3 Sécurité
 
 [^chap10-sec3-1]
 

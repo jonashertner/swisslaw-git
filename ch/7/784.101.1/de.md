@@ -4,11 +4,11 @@ title: Verordnung vom 9. März 2007 über Fernmeldedienste (FDV)
 short: FDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: de
-version: 2021-07-01
+version: 2021-09-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210901-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210701/de"
 
 (FDV)
 
-vom 9. März 2007 (Stand am 1. Juli 2021)
+vom 9. März 2007 (Stand am 1. September 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -249,7 +249,12 @@ Die Anbieterinnen von Fernmeldediensten müssen:
 - b. ihren Kundinnen und Kunden ermöglichen, die Qualität des eigenen festen oder mobilen Internetzugangsdienstes zu messen, soweit diese Zugriff auf die für die Messung benutzten Geräte haben;
 - c. die Ergebnisse konsolidieren und ihre Kundinnen und Kunden sowie die Öffentlichkeit über die Qualität der Internetzugangsdienste informieren.
 
-<sup>2</sup> ...[^10e-2]
+<sup>2</sup>
+
+Sie müssen für jeden der angebotenen Dienste mindestens:
+
+- a.[^10e-2] die tatsächlich erreichte Datenübertragungsrate, die Verzögerung und bei Mobilfunkverbindungen die Signalstärke messen und veröffentlichen;
+- b.[^10e-3] ...
 
 <sup>3</sup> Die Informationen über die Qualität müssen Vergleiche zwischen den Angeboten der verschiedenen Anbieterinnen erlauben. Sie müssen auch in Form von geografischen Karten veröffentlicht werden.
 
@@ -260,7 +265,8 @@ Die Anbieterinnen von Fernmeldediensten müssen:
 <sup>6</sup> Die Veröffentlichungen nach diesem Artikel müssen auf einer frei zugänglichen Internetseite erfolgen. Das BAKOM kann vorsehen, dass die Veröffentlichungen auf derselben Internetseite erfolgen müssen.
 
 [^10e-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^10e-2]: Tritt am 1. Sept. 2021 resp. am 1. Jan. 2024 in Kraft ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-2]: In Kraft seit 1. Sept. 2021, wobei die Veröffentlichung erst ab 1. Jan. 2022 erfolgen muss ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-3]: Tritt am 1. Jan. 2024 in Kraft ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10f
 
@@ -577,7 +583,7 @@ Es gelten folgende Preisobergrenzen (ohne Mehrwertsteuer):
 
 <sup>3</sup> Die Kosten für die Verwaltung des Finanzierungsmechanismus werden durch die Abgaben zur Finanzierung der Grundversorgung gedeckt.
 
-## 4. Kapitel:**** Aus der Erbringung bestimmter Dienste abgeleitete Pflichten
+## 4. Kapitel: Aus der Erbringung bestimmter Dienste abgeleitete Pflichten
 
 [^chap4-1]
 
@@ -712,7 +718,7 @@ Die Anbieterinnen des öffentlichen Telefondienstes müssen die Kommunikationsf�
 
 <sup>2</sup> Die Verbindungsgebühren, die Personen mit Hör-, Seh- oder Mobilitätsbehinderung im Rahmen dieser Dienste verrechnet werden, müssen gegenüber den übrigen Tarifen diskriminierungsfrei sein.
 
-## 4*a**.* Kapitel: Nummernportabilität****
+## 4*a**.* Kapitel: Nummernportabilität
 
 [^chap4a-1]
 
@@ -783,7 +789,7 @@ Die Anbieterinnen von Fernmeldediensten, die verpflichtet sind, die Nummernporta
 
 [^34e-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## 4*b**.* Kapitel:**** Freie Wahl der Anbieterin für nationale und internationale Verbindungen
+## 4*b**.* Kapitel: Freie Wahl der Anbieterin für nationale und internationale Verbindungen
 
 [^chap4b-1]
 
@@ -1453,7 +1459,7 @@ Das BAKOM kann im Rahmen der Instruktion eine Schlichtungsverhandlung durchführ
 
 <sup>3</sup> Kann die marktbeherrschende Anbieterin die Einhaltung der Kostenorientierung nicht nachweisen, so verfügt die ComCom auf Grund von markt- und branchenüblichen Vergleichswerten. Sie kann die Preise auch gestützt auf eigene Preis- und Kostenmodellierungen oder andere geeignete Methoden verfügen, insbesondere, wenn keine geeigneten Vergleichswerte verfügbar sind.
 
-## 8. Kapitel: Inanspruchnahme von Grund und Boden im Gemeingebrauch, weitere Anschlüsse und Mitbenutzung****
+## 8. Kapitel: Inanspruchnahme von Grund und Boden im Gemeingebrauch, weitere Anschlüsse und Mitbenutzung
 
 [^chap8-1]
 
@@ -1552,7 +1558,7 @@ Als angemessenes Entgelt für die Mitbenutzung von Anlagen anderer Anbieterinnen
 
 [^79-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## 9. Kapitel: Fernmeldegeheimnis, Datenschutz sowie Kinder- und Jugendschutz****
+## 9. Kapitel: Fernmeldegeheimnis, Datenschutz sowie Kinder- und Jugendschutz
 
 [^chap9-1]
 
@@ -1708,7 +1714,7 @@ Die Anbieterinnen von Internetzugängen informieren ihre Kundinnen und Kunden ü
 
 ## 10. Kapitel: Wichtige Landesinteressen
 
-### 1. Abschnitt: Sicherheitskommunikation****
+### 1. Abschnitt: Sicherheitskommunikation
 
 [^chap10-sec1-1]
 
@@ -1792,7 +1798,7 @@ Die Anbieterinnen von Fernmeldediensten können zur Unterstützung der Organe na
 
 [^95-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-### 3. Abschnitt: Sicherheit****
+### 3. Abschnitt: Sicherheit
 
 [^chap10-sec3-1]
 

@@ -4,11 +4,11 @@ title: Ordinance of 9 March 2007 on Telecommunications Services (OTS)
 short: OTS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: en
-version: 2021-07-01
+version: 2021-09-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210701/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210701-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20210901/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20210901-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20210901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OTS)
 
-of 9 March 2007 (Status as of 1 July 2021)
+of 9 March 2007 (Status as of 1 September 2021)
 
 The Swiss Federal Council,
 
@@ -56,8 +56,8 @@ Any person transmitting data:
 
 - a. within a building;
 - b. on a real property, on two adjacent or opposite real properties, separated by a road, path, railway line or watercourse;
-- a. within an enterprise, between the parent company and subsidiaries or within a group;
-- b. within statutory bodies and between them;
+- c. within an enterprise, between the parent company and subsidiaries or within a group;
+- d. within statutory bodies and between them;
 - e.[^2-1] when transmitting information free of change within groups with no central organisation
 
 [^2-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
@@ -253,7 +253,12 @@ Telecommunications service providers must:
 - b. enable their customers to measure the quality of their own fixed-network or mobile internet access service, provided the customers have access to the required measuring equipment;
 - c. compile the results and inform their customers and the public about the quality of the internet access services.
 
-<sup>2</sup> ...[^10e-2]
+<sup>2</sup>
+
+For each service offered, they must as a minimum:
+
+- a.[^10e-2] measure and publish the data transmission rate effectively achieved, the delay and in the case of mobile communications connections, the signal strength;
+- b.[^10e-3] ...
 
 <sup>3</sup> The information on quality must allow comparisons to be made between the offers of the various providers. They must also be published in the form of geographical maps.
 
@@ -264,7 +269,8 @@ Telecommunications service providers must:
 <sup>6</sup> The information on quality in accordance with this Article must be published on a freely accessible website. OFCOM may provide that the publications must appear on the same website.
 
 [^10e-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^10e-2]: Provisions come into force on 1 Sept. 2021 and 1 Jan. 2024 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-2]: In force since 1 Sept. 2021, with publication required from 1 Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^10e-3]: Comes into force on 1 Jan. 2024 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 10f
 
@@ -646,7 +652,7 @@ Providers of the public telephony service must assure the routing of emergency c
 
 [^29a-1]
 
-[^29a-1]: Comes into force on 1 Jan. 2022 (AS 2020 6183).
+[^29a-1]: Comes into force on 1 Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 29b
 
@@ -663,7 +669,7 @@ Providers of the public telephony service must assure the routing of emergency c
 <sup>5</sup> The alarm centres shall bear only the costs of using the caller location service.
 
 [^29b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^29b-2]: Comes into force on 1 Jan. 2022 (AS 2020 6183).
+[^29b-2]: Comes into force on 1 Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 30
 
@@ -720,9 +726,9 @@ Public telephony service providers must guarantee the communication capability o
 
 ## Chapter 4*a* Number Portability****
 
-[^chap4b-1]
+[^chap4a-1]
 
-[^chap4b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap4a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 34
 
@@ -791,9 +797,9 @@ Telecommunications service providers that are required to guarantee number porta
 
 ## Chapter 4*b***** Free Choice of Provider for National and International Connections
 
-[^chap5-1]
+[^chap4b-1]
 
-[^chap5-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap4b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 34f
 
@@ -1093,7 +1099,7 @@ If OFCOM establishes that the Agent is not fulfilling its obligations, it may:
 
 **Rights**[^51-1]
 
-All telecommunications service providers are entitled to have access to the facilities and services of the provider with a dominant position in the market (the “dominant provider”).
+All telecommunications service providers are entitled to have access to the facilities and services of the provider with a dominant position in the market (the «dominant provider»).
 
 [^51-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
@@ -1461,9 +1467,9 @@ Within the framework of its examination, OFCOM may institute conciliation procee
 
 ## Chapter 8 Use of Land in Public Use, Other Connections and Joint Use****
 
-[^chap9-1]
+[^chap8-1]
 
-[^chap9-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap8-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 75
 
@@ -1560,9 +1566,9 @@ Appropriate compensation for the joint use of installations of other providers i
 
 ## Chapter 9 Telecommunications Confidentiality and Data Protection and Protecting Children and Other Minors****
 
-[^chap10-1]
+[^chap9-1]
 
-[^chap10-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap9-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 80
 
@@ -1716,9 +1722,9 @@ Internet access providers shall inform their customers about the options for pro
 
 ### Section 1 Security Communication****
 
-[^chap11-sec1-1]
+[^chap10-sec1-1]
 
-[^chap11-sec1-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap10-sec1-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 90
 
@@ -1800,9 +1806,9 @@ Telecommunications service providers may enlisted to support the bodies referred
 
 ### Section 3 Security****
 
-[^chap11-sec3-1]
+[^chap10-sec3-1]
 
-[^chap11-sec3-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap10-sec3-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
 #### Art. 96
 
@@ -1899,9 +1905,9 @@ The persons entrusted with carrying out statistical work are subject to professi
 
 #### Art. 104
 
-<sup>1</sup> Providers of international telecommunications services or providers whose services might cause damaging interference shall have the status of “Recognised Operating Agencies” as defined in Article 19 of the International Telecommunication Union Convention of 22 December 1992[^104-1] (ITU Convention).
+<sup>1</sup> Providers of international telecommunications services or providers whose services might cause damaging interference shall have the status of «Recognised Operating Agencies» as defined in Article 19 of the International Telecommunication Union Convention of 22 December 1992[^104-1] (ITU Convention).
 
-<sup>2</sup> The Secretary-General of the International Telecommunication Union (ITU) may recognise as “Sector Members” (Article 19, ITU Convention) other telecommunications service providers and other organisations or institutions with a registered office or commercial activities in Switzerland if they guarantee that they fulfil the ITU’s requirements. [^104-2]
+<sup>2</sup> The Secretary-General of the International Telecommunication Union (ITU) may recognise as «Sector Members» (Article 19, ITU Convention) other telecommunications service providers and other organisations or institutions with a registered office or commercial activities in Switzerland if they guarantee that they fulfil the ITU’s requirements.[^104-2]
 
 [^104-1]: [SR 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
 [^104-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
