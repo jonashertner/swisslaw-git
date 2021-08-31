@@ -4,11 +4,11 @@ title: "Ordinance of 5 June 2015 on Protection against Dangerous Substances and 
 short: ChemO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/366"
 language: en
-version: 2020-12-15
+version: 2021-09-01
 adopted: 2015-06-05
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/fedlex-data-admin-ch-eli-cc-2015-366-20201215-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20201215/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/fedlex-data-admin-ch-eli-cc-2015-366-20210901-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20210901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemicals Ordinance, ChemO)
 
-of 5 June 2015 (Status as of 15 December 2020)
+of 5 June 2015 (Status as of 1 September 2021)
 
 The Swiss Federal Council,
 
@@ -1843,17 +1843,17 @@ If in this Ordinance reference is made to provisions of the REACH Regulation or 
 
 Annex 2*[^t-2]*
 
-(Art. 2 para. 5, 3, 6 para. 2 and 4, 14 para. 1 let. b, 20 para. 1, 43 para. 1, 84 let. a)
+(Art. 2 para. 5, 3, 6 para. 2 and 4, 14 para. 1 let. b, 20 para. 1, 43 para. 1 and 84 let. a)
 
 ## List of applicable technical provisions
 
-[^t-2]: Amended by No I para. 1 of the FOPH O of 1 Nov. 2016 (AS **2016** 4041). Revised by No I of the FOPH O of 5 Feb. 2018 (AS **2018** 707), No II para. 1 of the O of 31 Jan. 2018 (AS **2018** 801), No I of the FOPH O of 31 Oct. 2018 (AS **2018** 4063), of 23 May 2019 (RU **2019** 1923), 21 Feb. 2020 (AS **2020** 727), Annexe No 1 of the O of 18 Nov. 2020 (AS **2020** 5125) and No I of the FOPH O of 19 Nov. 2020, in force since 15 Dec. 2020 (AS **2020** 5293).
+[^t-2]: Amended by No I para. 1 of the FOPH O of 1 Nov. 2016 (AS **2016** 4041). Revised by No I of the FOPH O of 5 Feb. 2018 (AS **2018** 707), of 31 Oct. 2018 (AS **2018** 4063), of 23 May 2019 (RU **2019** 1923), 21 Feb. 2020 (AS **2020** 727), Annexe No 1 of the O of 18 Nov. 2020 (AS **2020** 5125), No I of the FOPH O of 19 Nov. 2020, (AS **2020** 5293) and of 4 Aug. 2021, in force since 1 Sept. 2021 (AS **2021** 487).
 
 ### 1 Technical provisions for classification, labelling and packaging of substances and preparations
 
 For classification, labelling and packaging of substances and preparations, Annexes I–VII to the CLP Regulation[^annex2-lvlu1-lvl1-1] apply.
 
-[^annex2-lvlu1-lvl1-1]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353 of 31.12.2008, p. 1; last amended by Regulation (EU) 2020/217, OJ L 44 of 18.2.2020, p.1.
+[^annex2-lvlu1-lvl1-1]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353 of 31.12.2008, p. 1; last amended by Regulation (EU) 2021/849, OJ L 188 of 28.5.2021, p. 27.
 
 ### 2 Methods for testing the properties of substances and preparations
 
@@ -1864,7 +1864,7 @@ Tests designed to determine the properties of substances and preparations shall 
 - c. the test methods specified in the UN Manual of Tests and Criteria[^annex2-lvlu1-lvl2-3].
 
 [^annex2-lvlu1-lvl2-1]: Commission Regulation (EC) No 440/2008 of 30 May 2008 laying down test methods pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), OJ L 142 of 31.5.2008, p. 1; last amended by Regulation (EU) 2019/1390, OJ L 247 of 26.9.2019, p. 1.
-[^annex2-lvlu1-lvl2-2]: The OECD Guidelines for the Testing of Chemicals are available online free of charge at: www.oecd.org/chemicalsafety/testing/oecdguidelinesforthetestingofchemicals.htm.
+[^annex2-lvlu1-lvl2-2]: The OECD Guidelines for the Testing of Chemicals are available online free of charge at: www.oecd-ilibrary.org/environment/oecd-guidelines-for-the-testing-of-chemicals\_72d77764-en.
 [^annex2-lvlu1-lvl2-3]: The Manual (seventh revised edition 2019) is available free of charge online at: www.unece.org/trans/danger/publi/manual/rev7/manrev7-files\_e.html
 
 ### 3 Requirements for the Safety Data Sheet
@@ -1937,16 +1937,22 @@ Substances that are listed in Regulation (EU) 2020/217[^annex2-lvlu1-lvl10-1] (1
 
 [^annex2-lvlu1-lvl11-1]: Commission Delegated Regulation (EU) 2020/1182 of 19 May 2020 amending, for the purposes of its adaptation to technical and scientific progress, Part 3 of Annex VI to Regulation (EC) No 1272/2008 of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures, OJ L 261 of 11.8.2020, p. 2.
 
+### 12 Transitional provision to the amendment of 4 August 2021
+
+Substances that are listed in Regulation (EU) 2021/849[^annex2-lvlu1-lvl12-1] (17th ATP) and preparations that contain such substances a may be supplied until 16 December 2022 if their classification and labelling do not meet the requirements of the said Regulation.
+
+[^annex2-lvlu1-lvl12-1]: Commission Delegated Regulation (EU) 2021/849 of 11 March 2021 amending, for the purposes of its adaptation to technical and scientific progress, Part 3 of Annex VI to Regulation (EC) No 1272/2008 of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures, OJ L 188 of 28.5.2021, p. 27.
+
 Annex 3*[^t-3]*
 
-(Art. 70 para. 1 and 84 let. b)
+(Art. 5 para. 2 and 3, 19 let. c and d, 70 para. 1 and 84 let. b)
 
 ## List of substances of very high concern (candidate list)****
 
 [^annex3-lvlu1-1]
 
-[^t-3]: Amended by No I of the FOPH O of 19 Nov. 2020, in force since 16 dec. 2020 ([AS 2020 5293](https://fedlex.data.admin.ch/eli/oc/2020/915)).
-[^annex3-lvlu1-1]: The content of the candidate list is not published in the AS. The list may be inspected free of charge at www.anmeldestelle.admin.ch &gt; Themen &gt; Chemikalienrecht and Wegleitungen &gt; Chemikalienrecht &gt; Chemikalienverordnung. It has been updated to 15 Dec. 2020 and contains 209 substances and substance groups.
+[^t-3]: Amended by No I of the O of 4 Aug. 2021, in force since 1 Sept. 2021 ([AS 2021 487](https://fedlex.data.admin.ch/eli/oc/2021/487)).
+[^annex3-lvlu1-1]: The content of the candidate list is not published in the AS. The list may be inspected free of charge at www.anmeldestelle.admin.ch &gt; Themen &gt; Chemikalienrecht and Wegleitungen &gt; Chemikalienrecht &gt; Chemikalienverordnung. It has been updated to 1 Sept. 2021 and contains 211 substances and substance groups.
 
 Annex 4*[^t-4]*
 
@@ -2106,10 +2112,10 @@ Annex 5*[^t-5]*
 ### 1.1 Group 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image1.png) in conjunction with</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Fatal if swallowed, or H310: Fatal in contact with skin, or H330: Fatal if inhaled, or combinations of the above hazard statements</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image2.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image1.png) in conjunction with</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Fatal if swallowed, or H310: Fatal in contact with skin, or H330: Fatal if inhaled, or combinations of the above hazard statements</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image2.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances and preparations labelled as follows in accordance with Annex 1.10 to the ORRChem[^annex5-lvlu1-lvl1-lvl11-2]:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image3.png) in conjunction with</td><td>H340: May cause genetic defects, or H350: May (*if inhaled*) cause cancer, or H360: May damage fertility or the unborn child</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image3.png) in conjunction with</td><td>H340: May cause genetic defects, or H350: May (*if inhaled*) cause cancer, or H360: May damage fertility or the unborn child</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl1-lvl11-1]: The number of the hazard statement need not appear in the labelling.
@@ -2118,12 +2124,12 @@ Annex 5*[^t-5]*
 ### 1.2 Group 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image1.png) in conjunction with</td><td>H301: Toxic if swallowed, or H311: Toxic in contact with skin, or H331: Toxic if inhaled, or combinations of the above hazard statements</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image3.png) in conjunction with</td><td>H370: Causes damage to organs, or H372: Causes damage to organs through prolonged or repeated exposure</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image4.png) in conjunction with</td><td>H314: Causes severe skin burns and eye damage.</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image1.png) in conjunction with</td><td>H301: Toxic if swallowed, or H311: Toxic in contact with skin, or H331: Toxic if inhaled, or combinations of the above hazard statements</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image3.png) in conjunction with</td><td>H370: Causes damage to organs, or H372: Causes damage to organs through prolonged or repeated exposure</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image4.png) in conjunction with</td><td>H314: Causes severe skin burns and eye damage.</td></tr>
 <tr><td>d.</td><td colspan="2">Containers with a content of more than 1 kg labelled as follows:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image5.png) in conjunction with</td><td>H410: Very toxic to aquatic life with long lasting effects. (Substances and preparations in Group 2 are those that must be labelled H410, because they are classified as «Aquatic Chronic 1».)</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image6.png) in conjunction with</td><td>H250: Catches fire spontaneously if exposed to air, or H260: In contact with water releases flammable gases which may ignite spontaneously, or H261: In contact with water releases flammable gases</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image5.png) in conjunction with</td><td>H410: Very toxic to aquatic life with long lasting effects. (Substances and preparations in Group 2 are those that must be labelled H410, because they are classified as «Aquatic Chronic 1».)</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image6.png) in conjunction with</td><td>H250: Catches fire spontaneously if exposed to air, or H260: In contact with water releases flammable gases which may ignite spontaneously, or H261: In contact with water releases flammable gases</td></tr>
 <tr><td>f.</td><td></td><td>H230: May react explosively even in the absence of air, or H231: May react explosively even in the absence of air at elevated pressure and/or temperature, or EUH019: May form explosive peroxides, or EUH029: Contact with water liberates toxic gas, or EUH031: Contact with acids liberates toxic gas, or EUH032: Contact with acids liberates very toxic gas</td></tr>
 </table>
 
@@ -2132,10 +2138,10 @@ Annex 5*[^t-5]*
 ### 2.1 Group 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image7.png) in conjunction with</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Very toxic if swallowed, or R27: Very toxic in contact with skin, or R26: Very toxic by inhalation, or combinations of the above R phrases</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image8.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image7.png) in conjunction with</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Very toxic if swallowed, or R27: Very toxic in contact with skin, or R26: Very toxic by inhalation, or combinations of the above R phrases</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image8.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances and preparations labelled as follows in accordance with Annex 1.10 to the ORRChem:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image7.png) in conjunction with</td><td>R46: May cause heritable genetic damage, or R45: May cause cancer, or R49: May cause cancer by inhalation, or R60: May impair fertility, or R61: May cause harm to the unborn child</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image7.png) in conjunction with</td><td>R46: May cause heritable genetic damage, or R45: May cause cancer, or R49: May cause cancer by inhalation, or R60: May impair fertility, or R61: May cause harm to the unborn child</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl2-lvl21-1]: The number of the R phrase need not appear in the labelling.
@@ -2143,12 +2149,12 @@ Annex 5*[^t-5]*
 ### 2.2 Group 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image7.png) in conjunction with</td><td>R25: Toxic if swallowed, or R24: Toxic in contact with skin, or R23: Toxic by inhalation, or combinations of the above R phrases</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image7.png) in conjunction with</td><td>R39: Danger of very serious irreversible effects, or R48: Danger of serious damage to health by prolonged exposure</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image9.png) in conjunction with</td><td>R35: Causes severe burns, or R34: Causes burns</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image7.png) in conjunction with</td><td>R25: Toxic if swallowed, or R24: Toxic in contact with skin, or R23: Toxic by inhalation, or combinations of the above R phrases</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image7.png) in conjunction with</td><td>R39: Danger of very serious irreversible effects, or R48: Danger of serious damage to health by prolonged exposure</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image9.png) in conjunction with</td><td>R35: Causes severe burns, or R34: Causes burns</td></tr>
 <tr><td>d.</td><td colspan="2">Containers with a content of more than 1 kg labelled as follows:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image10.png) in conjunction with</td><td>R50/53: Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20201215/en/xml/image/image11.png) in conjunction with</td><td>R17: Spontaneously flammable in air, or R15: Contact with water liberates extremely flammable gases</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image10.png) in conjunction with</td><td>R50/53: Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment.</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20210901/en/xml/image/image11.png) in conjunction with</td><td>R17: Spontaneously flammable in air, or R15: Contact with water liberates extremely flammable gases</td></tr>
 <tr><td>f.</td><td></td><td>R6: Explosive with or without contact with air, or R19: May form explosive peroxides, or R29: Contact with water liberates toxic gas, or R31: Contact with acids liberates toxic gas, or R32: Contact with acids liberates very toxic gas.</td></tr>
 </table>
 
@@ -2160,8 +2166,6 @@ Annex 6
 
 The following legislation shall be amended as follows:
 
-### ...
+...[^annex6-lvlu2-1]
 
-[^annex6-lvlu2-lvlu1-1]
-
-[^annex6-lvlu2-lvlu1-1]: The amendments may be consulted under [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)..
+[^annex6-lvlu2-1]: The amendments may be consulted under [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)..
