@@ -4,13 +4,13 @@ number: "892"
 title: Sozialhilfegesetz
 short: SHG
 language: de
-version: 2020-03-01
-valid_until: 2021-08-31
-version_adopted: 2019-12-02
+version: 2021-09-01
+valid_until: 2022-12-31
+version_adopted: 2021-05-10
 adopted: 2015-03-16
 in_force: 2016-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/892"
-pdf: "https://srl.lu.ch/api/de/versions/3552/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3800/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3552/pdf_file"
 
 (SHG)
 
-vom 16.03.2015 (Stand 01.03.2020)
+vom 16.03.2015 (Stand 01.09.2021)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -564,7 +564,7 @@ beschliesst:
 
 <sup>1</sup> Die Einwohnergemeinde prüft das Gesuch um Bevorschussung auf Vollständigkeit. Sie kontrolliert und ergänzt die Personalien und trägt die zur Berechnung des Anspruchs notwendigen Steuerdaten ein. Zu diesem Zweck kann sie die erforderlichen Daten des Elternteils, in dessen Haushalt das minderjährige Kind lebt, oder die erforderlichen Daten des volljährigen Kindes von der kantonalen Einwohnerplattform gemäss § 9 des Registergesetzes vom 25. Mai 2009[^52a-1] und von der Steuerdatenbank gemäss § 135 des Steuergesetzes vom 22. November 1999[^52a-2] beschaffen, sofern die betroffene Person schriftlich in die Datenbeschaffung einwilligt.
 
-<sup>2</sup> Zugriff auf die Einwohnerplattform und die Steuerdatenbank erhalten nur diejenigen Einwohnergemeinden, welche die Beschränkung der Zugriffsrechte in technischer, organisatorischer, personeller und administrativer Hinsicht gemäss § 7 des Gesetzes über den Schutz von Personendaten vom 2. Juli 1990[^52a-3] gewährleisten.
+<sup>2</sup> Zugriff auf die Einwohnerplattform und die Steuerdatenbank erhalten nur diejenigen Einwohnergemeinden, welche die Beschränkung der Zugriffsrechte in technischer, organisatorischer, personeller und administrativer Hinsicht gemäss § 6 Absatz 1<sup>bis</sup> des Kantonalen Datenschutzgesetzes vom 2. Juli 1990[^52a-3] gewährleisten.
 
 [^52a-1]: SRL Nr. [25](https://srl.lu.ch/data/25/de)
 [^52a-2]: SRL Nr. [620](https://srl.lu.ch/data/620/de)
