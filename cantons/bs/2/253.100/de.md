@@ -4,13 +4,12 @@ number: "253.100"
 title: Übertretungsstrafgesetz
 short: ÜStG
 language: de
-version: 2020-07-01
-valid_until: 2021-08-31
-version_adopted: 2019-02-13
+version: 2021-09-01
+version_adopted: 2021-06-23
 adopted: 2019-02-13
 in_force: 2020-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/253.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4908/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5887/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4908/pdf_file"
 
 (ÜStG)
 
-Vom 13. Februar 2019 (Stand 1. Juli 2020)
+Vom 13. Februar 2019 (Stand 1. September 2021)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -103,9 +102,25 @@ beschliesst:
 
 **Betteln**
 
-<sup>1</sup> Mit Busse wird bestraft, wer andere Personen zum Betteln schickt oder als Mitglied einer Bande bettelt.
+<sup>1</sup> Mit Busse wird bestraft, wer:
 
-<sup>2</sup> Die durch Betteln erlangten Vermögenswerte können sichergestellt und eingezogen werden.
+- a) in organisierter Art und Weise bettelt;
+- b) andere Personen zum Betteln schickt;
+- c) beim Betteln täuschende oder unlautere Methoden anwendet.
+
+<sup>2</sup> Mit Busse wird bestraft, wer im öffentlichen Raum oder an allgemein zugänglichen Orten bettelt und dabei die öffentliche Sicherheit, Ruhe und Ordnung stört, namentlich wer:
+
+- a) in aufdringlicher oder aggressiver Art und Weise bettelt;
+- b) innerhalb von fünf Metern um Ein- und Ausgänge von Bahnhöfen sowie innerhalb von fünf Metern um Haltestellen des öffentlichen Verkehrs und Schiffsanlegestellen bettelt;
+- c) innerhalb von fünf Metern um Geld-, Zahlungs- und Fahrkartenautomaten oder Parkuhren bettelt;
+- d) innerhalb von fünf Metern um Ein- und Ausgänge von Ladengeschäften, Banken, Poststellen, Museen, Theatern, Kinos, Wohn- und Bürogebäuden oder öffentlichen Gebäuden und Einrichtungen bettelt;
+- e) innerhalb von fünf Metern um Ein- und Ausgänge von Hotels, Restaurants sowie auf oder innerhalb von fünf Metern um deren Boulevardbereiche bettelt;
+- f) auf Märkten sowie innerhalb von fünf Metern um Verkaufsstände oder Buvetten bettelt;
+- g) in öffentlichen Parks[^9-1], Gärten, Friedhöfen, Spielplätzen, Schulanlagen, Unterführungen sowie innerhalb von fünf Metern um deren Ein- und Ausgänge bettelt.
+
+<sup>3</sup> Die durch strafbares Betteln nach Abs. 1 erlangten Vermögenswerte können sichergestellt und eingezogen werden.
+
+[^9-1]: Das Wort «Parks» wurde gemäss Urteil des Bundesgerichts vom 13. März 2023 ([1C\_537/2021](https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?highlight_docid=aza%3A%2F%2Faza://13-03-2023-1C_537-2021&lang=de&zoom=&type=show_document)) gestrichen.
 
 #### § 10
 
