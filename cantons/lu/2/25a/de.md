@@ -4,13 +4,13 @@ number: 25a
 title: Verordnung zum Registergesetz
 short: Registerverordnung
 language: de
-version: 2020-07-27
-valid_until: 2021-08-31
-version_adopted: 2020-07-21
+version: 2021-09-01
+valid_until: 2021-12-31
+version_adopted: 2021-08-23
 adopted: 2009-11-27
 in_force: 2010-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/25a"
-pdf: "https://srl.lu.ch/api/de/versions/3625/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3805/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3625/pdf_file"
 
 (Registerverordnung)
 
-vom 27.11.2009 (Stand 27.07.2020)
+vom 27.11.2009 (Stand 01.09.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -87,7 +87,7 @@ beschliesst:
 
 <sup>5</sup> Die Zugriffsberechtigungen werden individuell für jene Personen vergeben, die innerhalb der Stelle mit der Erfüllung der entsprechenden gesetzlich verankerten Aufgabe beauftragt sind.
 
-<sup>6</sup> Die zugriffsberechtigten Stellen tragen für die aus einem kantonalen Register bezogenen Daten die Verantwortung für die Einhaltung der Vorschriften über den Datenschutz, insbesondere von § 5a des Datenschutzgesetzes vom 2. Juli 1990[^4-1], der Informatikgesetzgebung sowie dieser Verordnung hinsichtlich der Zugriffsberechtigungen.
+<sup>6</sup> Die zugriffsberechtigten Stellen tragen für die aus einem kantonalen Register bezogenen Daten die Verantwortung für die Einhaltung der Vorschriften über den Datenschutz, insbesondere von § 5a des Kantonalen Datenschutzgesetzes vom 2. Juli 1990[^4-1], der Informatikgesetzgebung sowie dieser Verordnung hinsichtlich der Zugriffsberechtigungen.
 
 [^4-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de)
 
