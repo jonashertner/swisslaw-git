@@ -4,13 +4,13 @@ number: "837.140"
 title: Dekret zur Prämienverbilligung
 short: DPV
 language: de
-version: 2020-09-01
-valid_until: 2021-08-31
-version_adopted: 2020-06-23
+version: 2021-09-01
+valid_until: 2022-08-31
+version_adopted: 2021-06-08
 adopted: 2016-12-13
 in_force: 2017-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/837.140"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2881/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3019/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2881/pdf_file"
 
 (DPV)
 
-Vom 13.12.2016 (Stand 01.09.2020)
+Vom 13.12.2016 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -33,7 +33,7 @@ beschliesst:
 
 **Kantonsbeitrag**
 
-<sup>1</sup> Der Kantonsbeitrag gemäss § 4 Abs. 3 KVGG für das Jahr 2021 beträgt Fr. 133,5 Mio.
+<sup>1</sup> Der Kantonsbeitrag gemäss § 4 Abs. 3 KVGG für das Jahr 2022 beträgt Fr. 142,2 Mio.
 
 #### § 2
 
