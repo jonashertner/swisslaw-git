@@ -3,20 +3,19 @@ canton: LU
 number: 28a
 title: Statistikgesetz
 language: de
-version: 2009-08-01
-valid_until: 2021-08-31
-version_adopted: 2009-05-25
+version: 2021-09-01
+version_adopted: 2021-05-10
 adopted: 2006-02-13
 in_force: 2006-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/28a"
-pdf: "https://srl.lu.ch/api/de/versions/2558/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3790/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Statistikgesetz
 
-vom 13.02.2006 (Stand 01.08.2009)
+vom 13.02.2006 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -82,9 +81,9 @@ beschliesst:
 
 <sup>7</sup> Erhebungsstellen im Sinn dieses Gesetzes sind die in der Anordnung für die Datenbeschaffung als verantwortlich bezeichneten Organisationen.
 
-<sup>8</sup> Die Definitionen von Personendaten und besonders schützenswerten Personendaten gemäss dem Gesetz über den Schutz von Personendaten (Datenschutzgesetz) vom 2. Juli 1990[^3-2] gelten auch für dieses Gesetz.
+<sup>8</sup> Die Definitionen von Personendaten und besonders schützenswerten Personendaten gemäss dem Kantonalen Gesetz über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^3-2] gelten auch für dieses Gesetz. Sie umfassen in diesem Gesetz auch Angaben über bestimmte oder bestimmbare juristische Personen oder Personengesellschaften des Handelsrechts.
 
-<sup>9</sup> Personenbezogene Daten sind anonymisierte Individualdaten, bei welchen Rückschlüsse auf die natürliche oder juristische Person ohne grossen Aufwand möglich sind.
+<sup>9</sup> Personenbezogene Daten sind anonymisierte Individualdaten, bei welchen Rückschlüsse auf die natürliche oder juristische Person oder auf eine Personengesellschaft des Handelsrechts ohne grossen Aufwand möglich sind.
 
 [^3-1]: SRL Nr. [20](https://srl.lu.ch/data/20/de)
 [^3-2]: SRL Nr. [38](https://srl.lu.ch/data/38/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
@@ -237,7 +236,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat legt bei der Anordnung einer Erhebung fest, in welchem Ausmass die Gemeinden und andere dem Gesetz unterstellte Stellen bei der Durchführung mitwirken müssen.
 
-<sup>2</sup> Er kann dabei die Übernahme von Daten aus Datensammlungen anordnen, sofern die Rechtsgrundlage der Datensammlungen die Verwendung für statistische Zwecke nicht ausdrücklich ausschliesst. Unterliegen diese Daten einer gesetzlich verankerten Geheimhaltungspflicht, dürfen sie nicht weitergegeben werden.
+<sup>2</sup> Er kann dabei die Übernahme von Daten aus Datenbeständen anordnen, sofern deren Rechtsgrundlage die Verwendung für statistische Zwecke nicht ausdrücklich ausschliesst. Unterliegen diese Daten einer gesetzlich verankerten Geheimhaltungspflicht, dürfen sie nicht weitergegeben werden.
 
 <sup>3</sup> Für besondere Aufwendungen oder freiwillig erbrachte zusätzliche Leistungen kann der Regierungsrat eine Entschädigung vorsehen.
 
@@ -297,7 +296,7 @@ beschliesst:
 
 <sup>2</sup> Eine Verwendung zu nicht statistischen Zwecken ist zulässig, wenn eine ausdrückliche gesetzliche Grundlage oder die schriftliche Einwilligung der betroffenen Personen vorliegt.
 
-<sup>3</sup> Personendaten im Sinn des Datenschutzgesetzes dürfen unter Vorbehalt von § 10 Absatz 2 und § 23 Absatz 4 niemandem zugänglich gemacht werden.
+<sup>3</sup> Personendaten dürfen unter Vorbehalt von § 10 Absatz 2 und § 23 Absatz 4 niemandem zugänglich gemacht werden.
 
 #### § 23
 
