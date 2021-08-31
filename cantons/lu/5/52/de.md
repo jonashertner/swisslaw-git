@@ -4,13 +4,13 @@ number: "52"
 title: Verordnung zum Personalgesetz
 short: "Personalverordnung, PVO"
 language: de
-version: 2021-08-01
-valid_until: 2021-08-31
-version_adopted: 2020-06-30
+version: 2021-09-01
+valid_until: 2021-12-31
+version_adopted: 2021-08-23
 adopted: 2002-09-24
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/52"
-pdf: "https://srl.lu.ch/api/de/versions/3762/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3813/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://srl.lu.ch/api/de/versions/3762/pdf_file"
 
 (Personalverordnung, PVO)
 
-vom 24.09.2002 (Stand 01.08.2021)
+vom 24.09.2002 (Stand 01.09.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 1 Absatz 3, 3 Absatz 3, 8 Absatz 3, 21 Absatz 3, 22 Absatz 4, 38 Absatz 1a, 43 Absatz 3, 47, 53 Absatz 2, 57, 59 Absatz 5, 60 Absatz 4, 61 Absatz 1, 66, 69 Absatz 4 und 81 Absatz 1 des Personalgesetzes vom 26. Juni 2001[^ingress-1] sowie auf § 7 Absatz 2 des Datenschutzgesetzes vom 2. Juli 1990[^ingress-2],
+gestützt auf die §§ 1 Absatz 3, 3 Absatz 3, 8 Absatz 3, 21 Absatz 3, 22 Absatz 4, 38 Absatz 1a, 43 Absatz 3, 47, 53 Absatz 2, 57, 59 Absatz 5, 60 Absatz 4, 61 Absatz 1, 66, 69 Absatz 4 und 81 Absatz 1 des Personalgesetzes vom 26. Juni 2001[^ingress-1] sowie auf § 7 Absatz 2 des Kantonalen Datenschutzgesetzes vom 2. Juli 1990[^ingress-2],
 
 auf Antrag des Finanzdepartementes,
 
@@ -854,9 +854,11 @@ beschliesst:
 
 **c. Kontrollrechte der betroffenen Person**
 
-<sup>1</sup> Als Inhaber der Datensammlung gilt die Dienststelle Personal.
+<sup>1</sup> Als verantwortlich für die Personendaten im Sinn des Kantonalen Datenschutzgesetzes vom 2. Juli 1990[^61c-1] gilt die Dienststelle Personal.
 
-<sup>2</sup> Die betroffene Person hat ihre Kontrollrechte gemäss Datenschutzrecht bei der Dienststelle Personal geltend zu machen. Der Auftragnehmer ist nicht befugt, solche Begehren materiell zu bearbeiten.
+<sup>2</sup> Die betroffene Person hat ihre Kontrollrechte gemäss den §§ 14 ff. des Kantonalen Datenschutzgesetzes bei der Dienststelle Personal geltend zu machen. Der Auftragnehmer ist nicht befugt, solche Begehren materiell zu bearbeiten.
+
+[^61c-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de)
 
 ## 13 Beurteilungs- und Fördergespräch
 
