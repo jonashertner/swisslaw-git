@@ -3,20 +3,19 @@ canton: LU
 number: "39"
 title: Gesetz über die Videoüberwachung
 language: de
-version: 2018-02-01
-valid_until: 2021-08-31
-version_adopted: 2017-10-30
+version: 2021-09-01
+version_adopted: 2021-05-10
 adopted: 2011-06-20
 in_force: 2012-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/39"
-pdf: "https://srl.lu.ch/api/de/versions/3221/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3792/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Videoüberwachung
 
-vom 20.06.2011 (Stand 01.02.2018)
+vom 20.06.2011 (Stand 01.09.2021)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -92,7 +91,7 @@ beschliesst:
 
 **Rechtsverweis**
 
-<sup>1</sup> Soweit das Gesetz nichts anderes vorschreibt, kommen die Bestimmungen des Gesetzes über den Schutz von Personendaten (Datenschutzgesetz) vom 2. Juli 1990[^6-1] zur Anwendung.
+<sup>1</sup> Soweit das Gesetz nichts anderes vorschreibt, kommen die Bestimmungen des Kantonalen Gesetzes über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^6-1] zur Anwendung.
 
 [^6-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de)
 
