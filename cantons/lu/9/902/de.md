@@ -4,13 +4,12 @@ number: "902"
 title: Kantonales Landwirtschaftsgesetz
 short: KLwG
 language: de
-version: 2020-01-01
-valid_until: 2021-08-31
-version_adopted: 2019-02-18
+version: 2021-09-01
+version_adopted: 2021-05-10
 adopted: 1995-09-12
 in_force: 1996-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/902"
-pdf: "https://srl.lu.ch/api/de/versions/3506/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3801/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3506/pdf_file"
 
 (KLwG)
 
-vom 12.09.1995 (Stand 01.01.2020)
+vom 12.09.1995 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -79,7 +78,7 @@ beschliesst:
 
 <sup>2</sup> Die Gemeinden bezeichnen eine verantwortliche Person. Diese kann auch für Kontrollaufgaben (Erstkontrollen) beigezogen werden.
 
-<sup>3</sup> Die Betriebsdaten sind entsprechend den Bestimmungen des Datenschutzgesetzes[^6-1] den vom Regierungsrat in der Verordnung angeführten Stellen und Organisationen vollständig oder in Teilen zugänglich.
+<sup>3</sup> Die Betriebsdaten sind den vom Regierungsrat in der Verordnung angeführten Stellen und Organisationen vollständig oder in Teilen zugänglich. Vorbehalten bleiben die Bestimmungen des Kantonalen Gesetzes über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^6-1].
 
 <sup>4</sup> Der Regierungsrat kann im Interesse einer effizienten Verwaltung auch Dritten, die mit dem Vollzug der Landwirtschaftsgesetzgebung gemäss § 7 betraut sind, Einsicht in die Daten gewähren.
 
