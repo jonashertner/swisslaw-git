@@ -4,13 +4,13 @@ number: "620"
 title: Steuergesetz
 short: StG
 language: de
-version: 2021-01-01
-valid_until: 2021-08-31
-version_adopted: 2019-06-17
+version: 2021-09-01
+valid_until: 2021-12-31
+version_adopted: 2021-05-10
 adopted: 1999-11-22
 in_force: 2001-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/620"
-pdf: "https://srl.lu.ch/api/de/versions/3681/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3811/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3681/pdf_file"
 
 (StG)
 
-vom 22.11.1999 (Stand 01.01.2021)
+vom 22.11.1999 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -1898,7 +1898,7 @@ beschliesst:
 
 <sup>4</sup> Die Auskunftspflicht umfasst alle Daten, die zur Feststellung der Steuerpflicht und zur Festsetzung des Einkommens und Vermögens dienen können. Dazu gehören namentlich die Personalien, Angaben über den Zivilstand, den Wohn- und Aufenthaltsort, das Arbeitsverhältnis, die Erwerbstätigkeit, Rechtsgeschäfte, Subventionen und andere Leistungen aus öffentlichen Kassen.
 
-<sup>5</sup> Die Daten dürfen den mit dem Vollzug dieses Gesetzes betrauten Behörden auch auf Listen oder elektronischen Datenträgern weitergegeben oder mittels eines Abrufverfahrens zugänglich gemacht werden. Die Personendaten und die zu deren Bearbeitung verwendeten Datenträger, EDV-Programme und Programmdokumentationen sind vor unbefugtem Bearbeiten, Verändern, Zerstören sowie vor Entwendung zu schützen.
+<sup>5</sup> Die Daten dürfen den mit dem Vollzug dieses Gesetzes betrauten Behörden auch auf Listen oder elektronischen Datenträgern weitergegeben oder mittels eines Abrufverfahrens zugänglich gemacht werden. Die Daten und die zu deren Bearbeitung verwendeten Datenträger, EDV-Programme und Programmdokumentationen sind vor unbefugtem Bearbeiten, Verändern, Zerstören sowie vor Entwendung zu schützen.
 
 <sup>6</sup> Verweigert die andere Behörde die Amtshilfe, kann die Steuerbehörde innert 30 Tagen Beschwerde beim Kantonsgericht erheben.
 
