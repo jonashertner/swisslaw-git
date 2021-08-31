@@ -4,13 +4,12 @@ number: "305"
 title: Gesetz über den Justizvollzug
 short: JVG
 language: de
-version: 2016-07-01
-valid_until: 2021-08-31
-version_adopted: 2015-09-14
+version: 2021-09-01
+version_adopted: 2021-05-10
 adopted: 2015-09-14
 in_force: 2016-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/305"
-pdf: "https://srl.lu.ch/api/de/versions/2816/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3795/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2816/pdf_file"
 
 (JVG)
 
-vom 14.09.2015 (Stand 01.07.2016)
+vom 14.09.2015 (Stand 01.09.2021)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -270,7 +269,7 @@ beschliesst:
 
 **Dateneinsicht für Fachpersonen**
 
-<sup>1</sup> Psychiaterinnen und Psychiater, Ärztinnen und Ärzte, Psychologinnen und Psychologen und andere Fachpersonen, die mit einer Begutachtung oder Behandlung betraut sind, dürfen in die Vollzugsakten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, Einsicht nehmen, soweit die Aktenkenntnis für ihre Aufgabenerfüllung erforderlich ist.
+<sup>1</sup> Psychiaterinnen und Psychiater, Ärztinnen und Ärzte, Psychologinnen und Psychologen und andere Fachpersonen, die mit einer Begutachtung oder Behandlung betraut sind, dürfen in die Vollzugsakten, einschliesslich besonders schützenswerter Personendaten, Persönlichkeitsprofile und Ergebnisse von Profilings, Einsicht nehmen, soweit die Aktenkenntnis für ihre Aufgabenerfüllung erforderlich ist.
 
 #### § 23
 
