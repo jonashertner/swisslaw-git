@@ -1,0 +1,121 @@
+---
+sr: "0.632.401.3"
+title: Beschluss Nr. 2/2021 des Gemischten Ausschusses EU-Schweiz vom 12. August 2021 zur Änderung des Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Schweizerischen Eidgenossenschaft durch die Ersetzung des Protokolls Nr. 3 über die Bestimmung des Begriffs «Erzeugnisse mit Ursprung in» oder «Ursprungserzeugnisse» und über die Methoden der Zusammenarbeit der Verwaltungen
+eli: "https://fedlex.data.admin.ch/eli/cc/2021/727"
+language: de
+version: 2021-09-01
+adopted: 2021-08-12
+in_force: 2021-09-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/727/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2021-727-20210901-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/727/20210901/de"
+---
+
+> Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
+
+# Beschluss Nr. 2/2021 des Gemischten Ausschusses EU-Schweiz vom 12. August 2021
+
+AS **2021** 727
+
+zur Änderung des Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Schweizerischen Eidgenossenschaft durch die Ersetzung des Protokolls Nr. 3 über die Bestimmung des Begriffs «Erzeugnisse mit Ursprung in» oder «Ursprungserzeugnisse» und über die Methoden der Zusammenarbeit der Verwaltungen
+
+Angenommen am 12. August 2021 In Kraft getreten am 31. August 2021 mit Wirkung ab 1. September 2021
+
+(Stand am 1. September 2021)
+
+Originaltext
+
+Der Gemischte Ausschuss EU-Schweiz,
+
+gestützt auf das Abkommen zwischen der Europäischen Wirtschaftsgemeinschaft und der Schweizerischen Eidgenossenschaft vom 22. Juli 1972[^ingress-1], insbesondere auf Artikel 3 seines Protokolls Nr. 3 über die Bestimmung des Begriffs «Erzeugnisse mit Ursprung in» oder «Ursprungserzeugnisse» und über die Methoden der Zusammenarbeit der Verwaltungen[^ingress-2],
+
+in Erwägung nachstehender Gründe:
+
+(1) Artikel 11 des Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Schweizerischen Eidgenossenschaft (im Folgenden «Abkommen») verweist auf das Protokoll Nr. 3 zum Abkommen (im Folgenden «Protokoll Nr. 3»), in dem die Ursprungsregeln festgelegt sind.
+
+(2) Nach Artikel 3 des Protokolls Nr. 3 kann der mit Artikel 29 des Abkommens eingesetzte Gemischte Ausschuss beschliessen, die Bestimmungen des Protokolls Nr. 3 zu ändern.
+
+(3) Das Regionale Übereinkommen über Pan-Europa-Mittelmeer-Präferenzursprungsregeln[^ingress-3] (im Folgenden «Übereinkommen») zielt darauf ab, die in den zwischen den Vertragsparteien des Übereinkommens abgeschlossenen bilateralen Freihandelsabkommen eingerichteten bilateralen Systeme von Ursprungsregeln unbeschadet der in diesen bilateralen Abkommen festgelegten Grundsätze in einen multilateralen Rahmen umzuwandeln.
+
+(4) Die Union und die Schweiz haben das Übereinkommen am 15. Juni 2011 unterzeichnet.
+
+(5) Die Union und die Schweiz haben ihre Annahmeurkunden am 26. März 2012 bzw. am 28. November 2011 beim Verwahrer des Übereinkommens hinterlegt. Daher trat das Übereinkommen gemäss seinem Artikel 10 Absatz 3 am 1. Mai 2012 für die Union und am 1. Januar 2012 für die Schweiz in Kraft.
+
+(6) Die Union und die Schweiz sind übereingekommen, bis zum Abschluss und Inkrafttreten der Änderung des Übereinkommens alternative Ursprungsregeln anzuwenden, die auf den Regeln des geänderten Übereinkommens beruhen, und die bilateral als alternative Ursprungsregeln zu den im Übereinkommen festgelegten Regeln angewandt werden können.
+
+(7) Das Protokoll Nr. 3 sollte daher durch ein neues Protokoll ersetzt werden, welches alternative Ursprungsregeln enthält. Zudem sollte das neue Protokoll eine dynamische Bezugnahme auf das Übereinkommen enthalten, so dass stets auf die neueste geltende Fassung des Übereinkommens verwiesen wird,
+
+hat folgenden Beschluss erlassen:
+
+[^ingress-1]: [SR 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
+[^ingress-2]: [SR 0.632.401.3](https://fedlex.data.admin.ch/eli/cc/2021/727)
+[^ingress-3]: [SR 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19)
+
+#### Art.1
+
+Das Protokoll Nr. 3 zum Abkommen über die Bestimmung des Begriffs «Erzeugnisse mit Ursprung in» oder «Ursprungserzeugnisse» und über die Methoden der Zusammenarbeit der Verwaltungen erhält die Fassung des Anhangs dieses Beschlusses.
+
+#### Art.2
+
+Dieser Beschluss tritt am Tag seiner Annahme in Kraft.
+
+Er gilt ab dem 1. September 2021.
+
+Geschehen zu Brüssel am 31. August 2021
+
+<table>
+<tr><td></td><td>Im Namen des Gemischten Ausschusses: Der Präsident, Marco Dueerkop</td></tr>
+</table>
+
+Anhang
+
+## Protokoll Nr. 3 über die Bestimmung des Begriffs «Erzeugnisse mit Ursprung in» oder «Ursprungserzeugnisse» und über die Methoden der Zusammenarbeit der Verwaltungen
+
+#### Art.1
+
+**Geltende Ursprungsregeln**
+
+<sup>(1)</sup> Für die Zwecke des Abkommens sind Anlage I und die einschlägigen Bestimmungen der Anlage II zum Regionalen Übereinkommen über Pan-Europa-Mittelmeer- Präferenzursprungsregeln[^annexu1-lvlu1-1-1](im Folgenden «Übereinkommen») in ihrer neuesten und im Amtsblatt der Europäischen Union veröffentlichten Fassung anwendbar.
+
+<sup>(2)</sup> Alle Bezugnahmen auf das «jeweilige Abkommen» in Anlage I und in den einschlägigen Bestimmungen der Anlage II zum Übereinkommen sind als Bezugnahmen auf das Abkommen zu verstehen.
+
+<sup>(3)</sup> Sind an der Kumulierung nur EFTA-Staaten, die Färöer, die Europäische Union, die Republik Türkei, die Teilnehmer des Stabilisierungs- und Assoziierungsprozesses, die Republik Moldau, Georgien und die Ukraine beteiligt, so kann ungeachtet des Artikels 16 Absatz 5 und des Artikels 21 Absatz 3 der Anlage I zum Übereinkommen der Ursprungsnachweis eine Warenverkehrsbescheinigung EUR.1 oder eine Ursprungserklärung sein.
+
+[^annexu1-lvlu1-1-1]: [SR 0.946.31](https://fedlex.data.admin.ch/eli/cc/2012/19)
+
+#### Art.2
+
+**Alternativ geltende Ursprungsregeln**
+
+<sup>(1)</sup> Unbeschadet des Artikels 1 dieses Protokolls gelten für die Zwecke des Abkommens Erzeugnisse, die gemäss den alternativen anwendbaren Ursprungsregeln in Anlage A zu diesem Protokoll (im Folgenden «Übergangsregeln») die Präferenzursprungseigenschaft erlangen, auch als Ursprungserzeugnisse der Europäischen Union oder der Schweiz.
+
+<sup>(2)</sup> Die Übergangsregeln gelten bis zum Inkrafttreten der Änderung des Übereinkommens, auf der die Übergangsregeln beruhen.
+
+#### Art.3
+
+**Streitbeilegung**
+
+<sup>(1)</sup> Streitigkeiten im Zusammenhang mit den Prüfungsverfahren nach Anlage I Artikel 32 des Übereinkommens oder nach Anlage A Artikel 34 dieses Protokolls, die zwischen den Zollbehörden, die um eine Prüfung ersucht haben, und den für diese Prüfung zuständigen Zollbehörden nicht beigelegt werden können, sind dem Gemischten Ausschuss vorzulegen.
+
+<sup>(2)</sup> Streitigkeiten zwischen dem Einführer und den Zollbehörden des Einfuhrlands sind stets nach dem Recht des Einfuhrlands beizulegen.
+
+#### Art.4
+
+**Änderung des Protokolls**
+
+Der Gemischte Ausschuss kann beschliessen, die Bestimmungen dieses Protokolls zu ändern.
+
+#### Art.5
+
+**Rücktritt vom Übereinkommen**
+
+<sup>(1)</sup> Sofern die Europäische Union oder die Schweiz dem Verwahrer des Übereinkommens schriftlich ihre Absicht ankündigen, von dem Übereinkommen gemäß dessen Artikel 9 zurückzutreten, leiten die Europäische Union und die Schweiz unverzüglich Verhandlungen über Ursprungsregeln für die Zwecke des Abkommens einKumulierung nur zwischen der Europäischen Union und der Schweiz zulässig ist.
+
+<sup>(2)</sup> Bis zum Inkrafttreten der neu ausgehandelten Ursprungsregeln werden auf das Abkommen weiterhin die Ursprungsregeln der Anlage I und gegebenenfalls die einschlägigen Bestimmungen der Anlage II des Übereinkommens angewandt, die zum Zeitpunkt des Rücktritts gelten. Jedoch werden ab dem Zeitpunkt des Rücktritts die Ursprungsregeln der Anlage I und gegebenenfalls die einschlägigen Bestimmungen der Anlage II des Übereinkommens so ausgelegt, dass eine bilaterale Kumulierung nur zwischen der Europäischen Union und der Schweiz zulässig ist.
+
+Anlage A
+
+## Alternativ geltende Ursprungsregeln****
+
+[^annexA-lvlu1-1]
+
+[^annexA-lvlu1-1]: Anlage A zum Anhang des Beschlusses Nr. 2/2021 in englischer Originalsprache kann eingesehen werden auf der Internetseite der EFTA unter folgender Adresse: www.efta.int &gt; Legal Texts &gt; EFTA Convention &gt; Annexes and Protocols. Eine deutsche Übersetzung der alternativen Ursprungsregeln ist in [BBl 2021 346](https://fedlex.data.admin.ch/eli/fga/2021/346)veröffentlicht.
