@@ -4,20 +4,20 @@ number: "865"
 title: Einführungsgesetz zum Bundesgesetz über die Krankenversicherung
 short: EGKVG
 language: de
-version: 2019-01-01
-valid_until: 2021-08-31
-version_adopted: 2018-09-10
+version: 2021-09-01
+valid_until: 2025-12-31
+version_adopted: 2021-05-10
 adopted: 1998-03-23
 in_force: 1998-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/865"
-pdf: "https://srl.lu.ch/api/de/versions/3335/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3799/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zum Bundesgesetz über die Krankenversicherung
 
-vom 23.03.1998 (Stand 01.01.2019)
+vom 23.03.1998 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -131,7 +131,7 @@ beschliesst:
 
 <sup>7</sup> Der Regierungsrat regelt das Nähere zur Liste, insbesondere das Zugriffsrecht, durch Verordnung. Er kann das Einsichtsrecht nach Absatz 5 einschränken und die Einsicht in die Liste für kostenpflichtig erklären.
 
-<sup>8</sup> Im Übrigen gelten die §§ 15 und 17–20 des Gesetzes über den Schutz von Personendaten (Datenschutzgesetz) vom 2. Juli 1990[^5a-2].
+<sup>8</sup> Im Übrigen gelten die §§ 15 und 17–20 des Kantonalen Gesetzes über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^5a-2].
 
 <sup>9</sup> Für die Kosten, die aus der Führung der Liste entstehen, gilt sinngemäss der Kostenteiler gemäss § 5 Absatz 4.
 
