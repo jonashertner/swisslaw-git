@@ -4,13 +4,13 @@ number: "20"
 title: Gesetz über die Organisation von Regierung und Verwaltung
 short: "Organisationsgesetz, OG"
 language: de
-version: 2018-02-01
-valid_until: 2021-08-31
-version_adopted: 2017-10-30
+version: 2021-09-01
+valid_until: 2025-05-31
+version_adopted: 2021-05-10
 adopted: 1995-03-13
 in_force: 1995-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/20"
-pdf: "https://srl.lu.ch/api/de/versions/3220/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3787/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3220/pdf_file"
 
 (Organisationsgesetz, OG)
 
-vom 13.03.1995 (Stand 01.02.2018)
+vom 13.03.1995 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -270,6 +270,16 @@ beschliesst:
 
 [^21a-1]: SRL Nr. [600](https://srl.lu.ch/data/600/de)
 [^21a-2]: SRL Nr. [51](https://srl.lu.ch/data/51/de)
+
+#### § 21b
+
+**Informations-, Geschäftsverwaltungs- und Dokumentationssysteme, Datenbearbeitung**
+
+<sup>1</sup> Die Verwaltung führt zur Erfüllung ihrer gesetzlichen Aufgaben elektronische Informations-, Geschäftsverwaltungs- und Dokumentationssysteme.
+
+<sup>2</sup> Sie bearbeitet Personendaten und Angaben über juristische Personen und Personengesellschaften des Handelsrechts sowie Sachdaten im Rahmen ihrer Aufgabenerfüllung. Vorbehalten bleiben die Bestimmungen der Datenschutz-, der Informatik- und der Archivgesetzgebung.
+
+<sup>3</sup> Der Regierungsrat kann weitere Vorschriften erlassen.
 
 ### 2.2 Verwaltungsorganisation
 
