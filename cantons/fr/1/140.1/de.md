@@ -4,13 +4,13 @@ number: "140.1"
 title: Gesetz über die Gemeinden
 short: GG
 language: de
-version: 2021-01-01
-valid_until: 2021-08-31
-version_adopted: 2020-08-21
+version: 2021-09-01
+valid_until: 2021-12-31
+version_adopted: 2021-05-20
 adopted: 1980-09-25
 in_force: 1982-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/140.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6681/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6923/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,9 +21,9 @@ Gemeinden – G
 
 (GG)
 
-vom 25.09.1980 (Fassung in Kraft getreten am 01.01.2021)
+vom 25.09.1980 (Fassung in Kraft getreten am 01.09.2021)
 
-Der Grosse Rat des Kantons Freiburg[^ingress-1]
+Der Grosse Rat des Kantons Freiburg
 
 gestützt auf die Verfassung des Kantons Freiburg vom 16. Mai 2004;
 
@@ -32,8 +32,6 @@ nach Einsicht in die Botschaft des Staatsrates vom 30. Dezember 1977;
 auf Antrag dieser Behörde,
 
 beschliesst:
-
-[^ingress-1]: Aufgrund des COVID-19 werden bestimmte Fristen dieses Gesetzes durch die Verordnung vom 3. Juni 2020 über eine zeitlich begrenzte Änderung bestimmter Fristen der Gesetzgebung über die Gemeinden, klassifiert unter der Nummer SGF [821.40.52](https://bdlf.fr.ch/data/821.40.52/de), ergänzt.
 
 ## 1 Allgemeine Bestimmungen
 
@@ -353,9 +351,7 @@ beschliesst:
 
 <sup>2<sup>bis</sup></sup> Das Gesuch um freiwillige Einführung nennt die Zahl der Generalräte innerhalb der Grenzen von Artikel 27.
 
-<sup>3</sup> Der Generalrat wird auf den Zeitpunkt der Gesamterneuerung der Gemeindebehörden eingesetzt, die der Abstimmung folgt. Die Einsetzung des Generalrats kann jedoch nur dann erfolgen, wenn die Abstimmung mindestens 6 Monate vor der Gesamterneuerung der Gemeindebehörden stattgefunden hat.[^26-1]
-
-[^26-1]: Abweichung von Art. 26 Abs. 3: siehe SGF [821.40.52](https://bdlf.fr.ch/data/821.40.52/de).
+<sup>3</sup> Der Generalrat wird auf den Zeitpunkt der Gesamterneuerung der Gemeindebehörden eingesetzt, die der Abstimmung folgt. Die Einsetzung des Generalrats kann jedoch nur dann erfolgen, wenn die Abstimmung mindestens 6 Monate vor der Gesamterneuerung der Gemeindebehörden stattgefunden hat.
 
 #### Art. 27
 
@@ -369,11 +365,9 @@ beschliesst:
 
 <sup>2</sup> Die Gemeinden können die Zahl der Generalräte in Abweichung von Absatz 1 auf 30 bis 80 Mitglieder festlegen.
 
-<sup>3</sup> Jede Änderung der Zahl der Generalräte, die vom Generalrat beschlossen oder durch eine Initiative beantragt wurde, kann nur erfolgen, wenn der Beschluss oder die Initiative mindestens 6 Monate vor der Gesamterneuerung der Gemeindebehörden in Kraft getreten, bzw. in der Volksabstimmung angenommen worden ist.[^27-1]
+<sup>3</sup> Jede Änderung der Zahl der Generalräte, die vom Generalrat beschlossen oder durch eine Initiative beantragt wurde, kann nur erfolgen, wenn der Beschluss oder die Initiative mindestens 6 Monate vor der Gesamterneuerung der Gemeindebehörden in Kraft getreten, bzw. in der Volksabstimmung angenommen worden ist.
 
 <sup>4</sup> Die Beschlüsse und die Abstimmungsergebnisse über die Zahl der Generalräte müssen dem Oberamtmann und dem Amt für Gemeinden mitgeteilt werden.
-
-[^27-1]: Abweichung von Art. 27 Abs. 3: siehe SGF [821.40.52](https://bdlf.fr.ch/data/821.40.52/de).
 
 #### Art. 28
 
@@ -425,7 +419,7 @@ beschliesst:
 
 **Organisation – Vorsitz**
 
-<sup>1</sup> Der Präsident und der Vizepräsident werden für eine Dauer von zwölf Monaten gewählt. Sie sind in der gleichen Legislaturperiode nicht wieder als solche wählbar.[^32-1]
+<sup>1</sup> Der Präsident und der Vizepräsident werden für eine Dauer von zwölf Monaten gewählt. Sie sind in der gleichen Legislaturperiode nicht wieder als solche wählbar.
 
 <sup>2</sup> Dem Präsidenten obliegen folgende Aufgaben:
 
@@ -434,8 +428,6 @@ beschliesst:
 - c) Er vertritt den Generalrat nach aussen und steht mit dem Gemeinderat in Verbindung.
 
 <sup>3</sup> Der Vizepräsident oder bei seiner Verhinderung ein Stimmenzähler vertreten den Präsidenten, wenn dieser verhindert ist oder sich an der Diskussion beteiligen will.
-
-[^32-1]: Abweichung von Art. 32 Abs. 1: siehe SGF [821.40.52](https://bdlf.fr.ch/data/821.40.52/de).
 
 #### Art. 33
 
@@ -665,13 +657,11 @@ beschliesst:
 
 <sup>2</sup> Die Gemeinden können die Grösse des Gemeinderats in Abweichung von Absatz 1 auf fünf, sieben oder neun Mitglieder festlegen. Die gesetzlichen Bestimmungen im Bereich der Gemeindezusammenschlüsse bleiben vorbehalten.
 
-<sup>3</sup> Jede Änderung der Zahl der Gemeinderäte bedarf eines Beschlusses der Gemeindeversammlung oder des Generalrates, der spätestens sechs Monate vor der Gesamterneuerung der Gemeindebehörden in Kraft treten muss.[^54-1]
+<sup>3</sup> Jede Änderung der Zahl der Gemeinderäte bedarf eines Beschlusses der Gemeindeversammlung oder des Generalrates, der spätestens sechs Monate vor der Gesamterneuerung der Gemeindebehörden in Kraft treten muss.
 
 <sup>4</sup> Bei einem Gemeindezusammenschluss kann die Fusionsvereinbarung die Zahl der Gemeinderäte der neuen Gemeinde enthalten. Bei einer Änderung der Zahl der Gemeinderäte muss der entsprechende Beschluss mindestens sechs Monate vor der Gesamterneuerung der Gemeindebehörden in Kraft treten.
 
 <sup>5</sup> Die Beschlüsse über die Zahl der Gemeinderäte müssen dem Oberamtmann und dem Amt für Gemeinden mitgeteilt werden.
-
-[^54-1]: Abweichung von Art. 54 Abs. 3: siehe SGF [821.40.52](https://bdlf.fr.ch/data/821.40.52/de).
 
 #### Art. 55
 
@@ -776,7 +766,7 @@ beschliesst:
 - e) Er sorgt für die öffentliche Ruhe und Ordnung auf dem Gemeindegebiet und ergreift im Falle eines Notstandes die gebotenen Massnahmen.
 - f) Er stellt das Gemeindepersonal an, setzt dessen Besoldung fest und überwacht seine Tätigkeit.
 - g) Er führt die Prozesse, in denen die Gemeinde als Partei auftritt.
-- h) Er stellt Leumundszeugnisse und die übrigen gesetzlich vorgesehenen Bescheinigungen aus.
+- h) Er stellt die gesetzlich vorgesehenen Bescheinigungen aus.
 - i) Er spricht die in den Gemeindereglementen vorgesehenen Bussen aus.
 - j) Er stellt die Information der Öffentlichkeit sicher.
 - k) Er beschliesst gemäss dem Gesetz über das freiburgische Bürgerrecht über die Erteilung des Gemeindebürgerrechts.
@@ -1709,13 +1699,11 @@ beschliesst:
 
 <sup>3</sup> Die Fusionsvereinbarung muss von allen betroffenen Gemeinden gutgeheissen werden.
 
-<sup>4</sup> Die Fusionsvereinbarung wird von den Gemeinderäten der betreffenden Gemeinden innert 30 Tagen nach Unterzeichnung der Vereinbarung im Amtsblatt veröffentlicht. Die Gemeinderäte stellen die Fusionsvereinbarung anschliessend den Personen, die im bezeichneten Perimeter wohnen, gemeinsam vor. Wenn möglich wird eine gemeinsame Veranstaltung durchgeführt.[^134d-1]
+<sup>4</sup> Die Fusionsvereinbarung wird von den Gemeinderäten der betreffenden Gemeinden innert 30 Tagen nach Unterzeichnung der Vereinbarung im Amtsblatt veröffentlicht. Die Gemeinderäte stellen die Fusionsvereinbarung anschliessend den Personen, die im bezeichneten Perimeter wohnen, gemeinsam vor. Wenn möglich wird eine gemeinsame Veranstaltung durchgeführt.
 
 <sup>5</sup> Der Urnengang muss in allen Gemeinden gleichzeitig stattfinden. Die Abstimmung muss innert 90 Tagen nach der Veröffentlichung der Fusionsvereinbarung durchgeführt werden. Ausserdem gilt das Gesetz über die Ausübung der politischen Rechte sinngemäss.
 
 <sup>6</sup> Sobald die Fusionsvereinbarung angenommen worden ist, wird sie dem Grossen Rat zur Genehmigung weitergeleitet.
-
-[^134d-1]: Siehe auch SGF [821.40.52](https://bdlf.fr.ch/data/821.40.52/de).
 
 #### Art. 135
 
@@ -1773,15 +1761,13 @@ beschliesst:
 
 #### Art. 136c
 
-**Übergangsordnung – Verschiebung der Gesamterneuerungswahlen[^136c-1]**
+**Übergangsordnung – Verschiebung der Gesamterneuerungswahlen**
 
 <sup>1</sup> Wird ein Zusammenschluss, der am 1. Januar eines auf eine Gesamterneuerung der Gemeindebehörden folgenden Jahres in Kraft tritt, spätestens am 30. November des Jahres vor dieser Erneuerung promulgiert, so verlängert sich für diese Gemeinden die Legislaturperiode, und ihre gewählten Gemeindebehörden bleiben bis zum Inkrafttreten des Zusammenschlusses im Amt.
 
 <sup>2</sup> In diesen Gemeinden werden die Gesamterneuerungswahlen durch die Wahl ihrer Vertreter in den Behörden der neuen Gemeinde ersetzt, die vor dem Inkrafttreten des Zusammenschlusses stattfindet. Der Staatsrat beruft die Stimmberechtigten der betreffenden Gemeinden ein.
 
 <sup>3</sup> Die gemäss Absatz 2 gewählten Gemeindebehörden treten ihr Amt beim Inkrafttreten des Zusammenschlusses an und bleiben bis zum Ende der betreffenden Legislaturperiode im Amt.
-
-[^136c-1]: Siehe auch SGF [821.40.52](https://bdlf.fr.ch/data/821.40.52/de).
 
 #### Art. 137
 
@@ -1883,7 +1869,7 @@ beschliesst:
 
 <sup>2</sup> Das Amt für Gemeinden erfüllt die ihm von der Gesetzgebung oder der Direktion übertragenen Aufgaben. Die Finanzaufsicht wird durch die Gesetzgebung über den Finanzhaushalt der Gemeinden definiert.
 
-[^145-1]: Heute: Direktion der Institutionen, der Land- und Forstwirtschaft.
+[^145-1]: Heute: Direktion der Institutionen und der Land- und Forstwirtschaft.
 
 #### Art. 146
 
@@ -2057,11 +2043,9 @@ beschliesst:
 
 **Gemeindeverfügungen – Bürgerbeschwerde**
 
-<sup>1</sup> Jeder Beschluss der Gemeindeversammlung, des Generalrates oder deren Büros kann innert dreissig Tagen, durch Beschwerde an den Oberamtmann angefochten werden.[^154-1]
+<sup>1</sup> Jeder Beschluss der Gemeindeversammlung, des Generalrates oder deren Büros kann innert dreissig Tagen, durch Beschwerde an den Oberamtmann angefochten werden.
 
 <sup>2</sup> Die Beschwerdebefugnis steht den Mitgliedern der Gemeindeversammlung oder des Generalrates sowie dem Gemeinderat zu.
-
-[^154-1]: Abweichung von Art. 154 Abs. 1: siehe SGF [821.40.52](https://bdlf.fr.ch/data/821.40.52/de).
 
 #### Art. 155
 

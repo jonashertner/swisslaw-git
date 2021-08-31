@@ -4,13 +4,13 @@ number: "140.1"
 title: Loi sur les communes
 short: LCo
 language: fr
-version: 2021-01-01
-valid_until: 2021-08-31
-version_adopted: 2020-08-21
+version: 2021-09-01
+valid_until: 2021-12-31
+version_adopted: 2021-05-20
 adopted: 1980-09-25
 in_force: 1982-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/140.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6681/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6923/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,9 +21,9 @@ Communes – L
 
 (LCo)
 
-du 25.09.1980 (version entrée en vigueur le 01.01.2021)
+du 25.09.1980 (version entrée en vigueur le 01.09.2021)
 
-Le Grand Conseil du canton de Fribourg[^ingress-1]
+Le Grand Conseil du canton de Fribourg
 
 Vu la Constitution du canton de Fribourg du 16 mai 2004;
 
@@ -32,8 +32,6 @@ Vu le message du Conseil d'Etat du 30 décembre 1977;
 Sur la proposition de cette autorité,
 
 Décrète:
-
-[^ingress-1]: En raison du COVID-19, certains délais de cette loi sont modifiés par l'ordonnance du 3 juin 2020 modifiant temporairement certains délais relevant de la législation sur les communes classée sous le numéro RSF [821.40.52](https://bdlf.fr.ch/data/821.40.52/fr).
 
 ## 1 Dispositions générales
 
@@ -353,9 +351,7 @@ Décrète:
 
 <sup>2<sup>bis</sup></sup> La demande de l'introduction facultative indique le nombre de conseillers généraux, dans les limites de l'article 27.
 
-<sup>3</sup> Le conseil général est institué pour le renouvellement intégral des autorités communales qui suit le vote. L'introduction du conseil général ne peut toutefois intervenir que si le vote a eu lieu six mois au moins avant le renouvellement intégral des autorités communales.[^26-1]
-
-[^26-1]: Dérogation à l'art. 26 al. 3: voir RSF [821.40.52](https://bdlf.fr.ch/data/821.40.52/fr).
+<sup>3</sup> Le conseil général est institué pour le renouvellement intégral des autorités communales qui suit le vote. L'introduction du conseil général ne peut toutefois intervenir que si le vote a eu lieu six mois au moins avant le renouvellement intégral des autorités communales.
 
 #### Art. 27
 
@@ -369,11 +365,9 @@ Décrète:
 
 <sup>2</sup> En dérogation à l'alinéa 1, les communes peuvent prévoir le nombre de conseillers généraux qui doit se situer entre 30 et 80 membres.
 
-<sup>3</sup> Tout changement du nombre de conseillers généraux, décidé par le conseil général ou proposé par une initiative, ne peut intervenir que si la décision est entrée en force ou que l'initiative ait été acceptée en votation populaire au moins six mois avant le renouvellement intégral des autorités communales.[^27-1]
+<sup>3</sup> Tout changement du nombre de conseillers généraux, décidé par le conseil général ou proposé par une initiative, ne peut intervenir que si la décision est entrée en force ou que l'initiative ait été acceptée en votation populaire au moins six mois avant le renouvellement intégral des autorités communales.
 
 <sup>4</sup> Les décisions et les résultats des votes relatifs au nombre de conseillers généraux doivent être communiqués au préfet et au Service des communes.
-
-[^27-1]: Dérogation à l'art. 27 al. 3: voir RSF [821.40.52](https://bdlf.fr.ch/data/821.40.52/fr).
 
 #### Art. 28
 
@@ -425,7 +419,7 @@ Décrète:
 
 **Organisation – Présidence**
 
-<sup>1</sup> Le président et le vice-président sont élus pour une période de douze mois. Ils ne peuvent être réélus dans leur fonction au cours d'une même législature.[^32-1]
+<sup>1</sup> Le président et le vice-président sont élus pour une période de douze mois. Ils ne peuvent être réélus dans leur fonction au cours d'une même législature.
 
 <sup>2</sup> Le président a les attributions suivantes:
 
@@ -434,8 +428,6 @@ Décrète:
 - c) il représente le conseil général à l'extérieur et assure les relations avec le conseil communal.
 
 <sup>3</sup> Le vice-président, à son défaut un scrutateur, remplace le président empêché ou qui veut prendre part à la discussion.
-
-[^32-1]: Dérogation à l'art. 32 al. 1: voir RSF [821.40.52](https://bdlf.fr.ch/data/821.40.52/fr).
 
 #### Art. 33
 
@@ -665,13 +657,11 @@ Décrète:
 
 <sup>2</sup> En dérogation à l'alinéa 1, les communes peuvent fixer la taille du conseil communal à cinq, sept ou neuf membres. Les dispositions légales en matière de fusions demeurent réservées.
 
-<sup>3</sup> Tout changement du nombre de conseillers communaux ne peut intervenir que moyennant une décision de l'assemblée communale ou du conseil général entrée en force au moins six mois avant le renouvellement intégral des autorités communales.[^54-1]
+<sup>3</sup> Tout changement du nombre de conseillers communaux ne peut intervenir que moyennant une décision de l'assemblée communale ou du conseil général entrée en force au moins six mois avant le renouvellement intégral des autorités communales.
 
 <sup>4</sup> En cas de fusion de communes, la convention de fusion peut prévoir le nombre de conseillers communaux de la nouvelle entité communale. En cas de changement du nombre de conseillers communaux, cette décision doit entrer en force au moins six mois avant le renouvellement intégral des autorités communales.
 
 <sup>5</sup> Les décisions relatives au nombre de conseillers communaux doivent être communiquées au préfet et au Service des communes.
-
-[^54-1]: Dérogation à l'art. 54 al. 3: voir RSF [821.40.52](https://bdlf.fr.ch/data/821.40.52/fr).
 
 #### Art. 55
 
@@ -776,7 +766,7 @@ Décrète:
 - e) de veiller à l'ordre et à la sécurité publics sur le territoire de la commune et de prendre les mesures exigées par un état de nécessité;
 - f) d'engager le personnel communal, de fixer son traitement et de surveiller son activité;
 - g) de soutenir les procès auxquels la commune est partie;
-- h) de délivrer les certificats de mœurs et les autres certificats prévus par la loi;
+- h) de délivrer les certificats prévus par la loi;
 - i) de prononcer les amendes prévues par les règlements communaux;
 - j) d'assurer l'information du public;
 - k) de décider de l'octroi du droit de cité communal, conformément à la loi sur le droit de cité fribourgeois;
@@ -1709,13 +1699,11 @@ Décrète:
 
 <sup>3</sup> La convention de fusion doit être approuvée par chacune des communes concernées.
 
-<sup>4</sup> La convention de fusion est publiée par les conseils communaux des communes concernées dans la Feuille officielle, dans le délai de trente jours dès la signature de la convention. Les conseils communaux réunis présentent ensuite la convention de fusion et son contenu aux personnes habitant dans le périmètre désigné si possible lors d'une manifestation commune.[^134d-1]
+<sup>4</sup> La convention de fusion est publiée par les conseils communaux des communes concernées dans la Feuille officielle, dans le délai de trente jours dès la signature de la convention. Les conseils communaux réunis présentent ensuite la convention de fusion et son contenu aux personnes habitant dans le périmètre désigné si possible lors d'une manifestation commune.
 
 <sup>5</sup> Le vote aux urnes doit avoir lieu simultanément dans toutes les communes, dans le délai de nonante jours dès la publication de la convention de fusion. Pour le surplus, la loi sur l'exercice des droits politiques est applicable par analogie.
 
 <sup>6</sup> Une fois acceptée, la convention de fusion est transmise au Grand Conseil pour approbation.
-
-[^134d-1]: Voir aussi RSF [821.40.52](https://bdlf.fr.ch/data/821.40.52/fr).
 
 #### Art. 135
 
@@ -1773,15 +1761,13 @@ Décrète:
 
 #### Art. 136c
 
-**Régime de transition – Elections générales reportées[^136c-1]**
+**Régime de transition – Elections générales reportées**
 
 <sup>1</sup> Lorsqu'une fusion entrant en vigueur le 1<sup>er</sup> janvier de l'année suivant le renouvellement intégral des autorités communales est promulguée au plus tard le 30 novembre de l'année qui précède ce renouvellement, la législature se prolonge pour ces communes, et leurs élus restent en fonction jusqu'à l'entrée en vigueur de la fusion.
 
 <sup>2</sup> Pour ces communes, les élections générales sont remplacées par l'élection de leurs représentants au sein des autorités de la nouvelle commune, qui a lieu préalablement à l'entrée en vigueur de la fusion. Le Conseil d'Etat convoque les corps électoraux des communes concernées.
 
 <sup>3</sup> Les autorités communales élues en vertu de l'alinéa 2 du présent article entrent en fonction à la date de l'entrée en vigueur de la fusion et demeurent en fonction jusqu'à la fin de la législature concernée.
-
-[^136c-1]: voir aussi RSF [821.40.52](https://bdlf.fr.ch/data/821.40.52/fr).
 
 #### Art. 137
 
@@ -2057,11 +2043,9 @@ Décrète:
 
 **Décisions communales – Recours du citoyen actif**
 
-<sup>1</sup> Toute décision de l'assemblée communale, du conseil général ou de leur bureau peut, dans les trente jours, faire l'objet d'un recours au préfet.[^154-1]
+<sup>1</sup> Toute décision de l'assemblée communale, du conseil général ou de leur bureau peut, dans les trente jours, faire l'objet d'un recours au préfet.
 
 <sup>2</sup> Ont qualité pour recourir les membres de l'assemblée communale ou du conseil général ainsi que le conseil communal.
-
-[^154-1]: Dérogation à l'art. 154 al. 1: voir RSF [821.40.52](https://bdlf.fr.ch/data/821.40.52/fr).
 
 #### Art. 155
 
