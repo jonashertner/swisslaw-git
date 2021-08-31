@@ -3,20 +3,19 @@ canton: LU
 number: 39a
 title: Verordnung zum Gesetz über die Videoüberwachung
 language: de
-version: 2013-08-01
-valid_until: 2021-08-31
-version_adopted: 2013-05-21
+version: 2021-09-01
+version_adopted: 2021-08-23
 adopted: 2011-09-27
 in_force: 2012-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/39a"
-pdf: "https://srl.lu.ch/api/de/versions/2650/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3809/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die Videoüberwachung
 
-vom 27.09.2011 (Stand 01.08.2013)
+vom 27.09.2011 (Stand 01.09.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -47,7 +46,7 @@ beschliesst:
 
 **Einsatz**
 
-<sup>1</sup> Beim Einsatz von Bildübermittlungs- und Bildaufzeichnungsgeräten müssen die Grundsätze der Verhältnismässigkeit gemäss § 5 der Verordnung zum Datenschutzgesetz vom 26. Februar 1991[^2-1] beachtet werden.
+<sup>1</sup> Beim Einsatz von Bildübermittlungs- und Bildaufzeichnungsgeräten müssen die Grundsätze der Verhältnismässigkeit gemäss § 5 der Kantonalen Datenschutzverordnung vom 26. Februar 1991[^2-1] beachtet werden.
 
 [^2-1]: SRL Nr. [38b](https://srl.lu.ch/data/38b/de). Auf diese Verordnung wird im Folgenden nicht mehr hingewiesen.
 
@@ -81,7 +80,7 @@ beschliesst:
 
 **Datensicherung**
 
-<sup>1</sup> Die aufgezeichneten Personendaten sind gemäss § 6 der Verordnung zum Datenschutzgesetz zu sichern. Das verantwortliche Organ im Sinn von § 4 Absatz 3 des Gesetzes über die Videoüberwachung instruiert diejenigen Personen entsprechend, die Zugang zu den Daten haben.
+<sup>1</sup> Die aufgezeichneten Personendaten sind gemäss § 6 der Kantonalen Datenschutzverordnung zu sichern. Das verantwortliche Organ im Sinn von § 4 Absatz 3 des Gesetzes über die Videoüberwachung instruiert diejenigen Personen entsprechend, die Zugang zu den Daten haben.
 
 #### § 6
 
