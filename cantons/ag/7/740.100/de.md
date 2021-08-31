@@ -4,13 +4,13 @@ number: "740.100"
 title: Gesetz über die Geoinformation im Kanton Aargau
 short: "Kantonales Geoinformationsgesetz, KGeoIG"
 language: de
-version: 2020-07-01
-valid_until: 2021-08-31
-version_adopted: 2016-09-20
+version: 2021-09-01
+valid_until: 2024-06-30
+version_adopted: 2019-09-17
 adopted: 2011-05-24
 in_force: 2012-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/740.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2852/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3015/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2852/pdf_file"
 
 (Kantonales Geoinformationsgesetz, KGeoIG)
 
-Vom 24.05.2011 (Stand 01.07.2020)
+Vom 24.05.2011 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -109,12 +109,14 @@ beschliesst:
 
 <sup>1</sup> Die zuständigen Stellen gewährleisten die nachhaltige Verfügbarkeit der Geobasisdaten.
 
-<sup>2</sup> Die Geobasisdaten des Bundesrechts und des kantonalen Rechts können mit Daten des kantonalen Objektregistersystems und des Grundbuchs verknüpft werden, wenn dies der Erfüllung der Aufgaben des Kantons oder der Gemeinden dient. Der Regierungsrat regelt die Einzelheiten durch Verordnung.
+<sup>2</sup> Die Geobasisdaten des Bundesrechts und des kantonalen Rechts können mit Daten des eidgenössischen Gebäude- und Wohnungsregisters (GWR), des Einwohnerregisters, des Grundbuchs, der Aargauischen Gebäudeversicherung oder mit den durch den Kanton gemäss § 19 Abs. 1<sup>bis</sup> des Gesetzes über die Register und das Meldewesen (Register- und Meldegesetz, RMG) vom 18. November 2008[^8-1], zur Verfügung gestellten Daten verknüpft werden, wenn dies der Erfüllung der Aufgaben des Kantons oder der Gemeinden dient. Der Regierungsrat regelt die Einzelheiten durch Verordnung.
 
 <sup>3</sup> Der Regierungsrat regelt für die Geobasisdaten des kantonalen Rechts durch Verordnung:
 
 - a) Art und Weise der Archivierung,
 - b) Art und Periodizität der Historisierung.
+
+[^8-1]: SAR [122.200](https://gesetzessammlungen.ag.ch/data/122.200/de)
 
 ### 2.3. Zugang und Nutzung
 
