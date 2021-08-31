@@ -4,13 +4,13 @@ number: "350"
 title: Gesetz über die Luzerner Polizei
 short: PolG
 language: de
-version: 2020-01-01
-valid_until: 2021-08-31
-version_adopted: 2019-09-09
+version: 2021-09-01
+valid_until: 2022-12-31
+version_adopted: 2021-05-10
 adopted: 1998-01-27
 in_force: 1998-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/350"
-pdf: "https://srl.lu.ch/api/de/versions/3453/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3796/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3453/pdf_file"
 
 (PolG)
 
-vom 27.01.1998 (Stand 01.01.2020)
+vom 27.01.1998 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -86,33 +86,33 @@ beschliesst:
 <sup>1</sup> Die Luzerner Polizei kann zur recht- und zweckmässigen Erfüllung ihrer Aufgaben
 
 - a. Personendaten bearbeiten,
-- b. geeignete Datenbearbeitungssysteme sowie Datensammlungen führen,
-- c. besonders schützenswerte Personendaten bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben unentbehrlich ist.
+- b. geeignete Datenbearbeitungssysteme führen,
+- c. besonders schützenswerte Personendaten bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben unentbehrlich ist,
+- d. Profilings vornehmen, insbesondere für kriminalpolizeiliche Zwecke.
 
 <sup>2</sup> Sie kann zur recht- und zweckmässigen Erfüllung ihrer Aufgaben auch nicht verifizierte Personendaten bearbeiten. Die Daten sind auf ihre Richtigkeit zu überprüfen. Stellen sich die Daten als unrichtig heraus, sind sie zu vernichten oder als unrichtig zu kennzeichnen.
 
-<sup>3</sup> Soweit dieses Gesetz nichts anderes regelt, gelten die Bestimmungen des Gesetzes über den Schutz von Personendaten (Datenschutzgesetz) vom 2. Juli 1990[^4-1].
+<sup>3</sup> Soweit dieses Gesetz nichts anderes regelt, gelten die Bestimmungen des Kantonalen Gesetzes über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^4-1].
 
 <sup>4</sup> Für die Überwachung von öffentlich zugänglichen Orten durch Bildübermittlungs- und Bildaufzeichnungsgeräte gelten die Bestimmungen des Gesetzes über die Videoüberwachung vom 20. Juni 2011[^4-2].
 
-[^4-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de)
+[^4-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
 [^4-2]: SRL Nr. [39](https://srl.lu.ch/data/39/de)
 
 #### § 4bis
 
 **Datenbekanntgabe**
 
-<sup>1</sup> Die Luzerner Polizei kann anderen Behörden und Dritten Personendaten unter den Voraussetzungen des Datenschutzgesetzes[^4bis-1] bekannt geben.
+<sup>1</sup> Die Luzerner Polizei kann anderen Behörden und Dritten Personendaten unter den Voraussetzungen des Kantonalen Datenschutzgesetzes bekannt geben.
 
 <sup>2</sup> Die Behörden des Kantons und der Gemeinden geben der Luzerner Polizei im Rahmen ihrer Verpflichtungen zur Leistung von Amts- und Rechtshilfe sowie unter der Voraussetzung von § 9 des Datenschutzgesetzes Personendaten bekannt.
 
 <sup>3</sup> Die Datenbekanntgabe im Abrufverfahren mittels Drittsystems ist den kantonalen Migrations-, Strafverfolgungs- und Strassenverkehrsbehörden erlaubt, sofern
 
-- a. das Drittsystem die Regeln des Datenschutzgesetzes und des Informatikgesetzes vom 7. März 2005[^4bis-2] gewährleistet und
+- a. das Drittsystem die Regeln des Datenschutzgesetzes und des Informatikgesetzes vom 7. März 2005[^4bis-1] gewährleistet und
 - b. die Datenbekanntgabe protokolliert wird.
 
-[^4bis-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de)
-[^4bis-2]: SRL Nr. [26](https://srl.lu.ch/data/26/de)
+[^4bis-1]: SRL Nr. [26](https://srl.lu.ch/data/26/de)
 
 #### § 4ter
 
