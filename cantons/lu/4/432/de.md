@@ -3,20 +3,20 @@ canton: LU
 number: "432"
 title: Verordnung zum Gesetz über die Berufsbildung und die Weiterbildung
 language: de
-version: 2021-08-01
-valid_until: 2021-08-31
-version_adopted: 2021-05-18
+version: 2021-09-01
+valid_until: 2021-12-31
+version_adopted: 2021-08-23
 adopted: 2006-06-06
 in_force: 2006-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/432"
-pdf: "https://srl.lu.ch/api/de/versions/3775/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3812/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die Berufsbildung und die Weiterbildung
 
-vom 06.06.2006 (Stand 01.08.2021)
+vom 06.06.2006 (Stand 01.09.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -843,7 +843,7 @@ beschliesst:
 
 <sup>1</sup> Die Fachpersonen für Information und Beratung arbeiten mit den Bildungspartnern und den kantonalen Stellen zusammen.
 
-<sup>2</sup> Sie dürfen ohne ausdrückliche Zustimmung der Ratsuchenden keine Beratungs- und Abklärungsergebnisse an Dritte weitergeben. Für die Bearbeitung von Personendaten gelten die Bestimmungen des Gesetzes über den Schutz von Personendaten (Datenschutzgesetz) vom 2. Juli 1990[^72-1].
+<sup>2</sup> Sie dürfen ohne ausdrückliche Zustimmung der Ratsuchenden keine Beratungs- und Abklärungsergebnisse an Dritte weitergeben. Für die Bearbeitung von Personendaten gelten die Bestimmungen des Gesetzes über den Schutz von Personendaten (Kantonales Datenschutzgesetz) vom 2. Juli 1990[^72-1].
 
 [^72-1]: SRL Nr. [38](https://srl.lu.ch/data/38/de)
 
