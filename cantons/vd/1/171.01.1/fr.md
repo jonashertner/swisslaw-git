@@ -4,7 +4,7 @@ number: "171.01.1"
 title: "RÈGLEMENT du 29.05.2007 d'application de la loi du 8 mai 2007 sur le Grand Conseil (RLGC)"
 short: RLGC
 language: fr
-version: 2015-01-01
+version: 2021-09-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd"
 ---
 
@@ -67,6 +67,14 @@ arrête
 <sup>1</sup> Chaque député est tenu, au cours des débats ou des séances de commission auxquelles il participe, de signaler ses intérêts et liens personnels et directs avant de s'exprimer sur un sujet en rapport avec lesdits intérêts ou liens.
 
 <sup>2</sup> Le président de séance ou le Bureau du Grand Conseil veille au respect de cette obligation et, le cas échéant, mentionne lui-même ces intérêts et liens, une fois que le député concerné a terminé son intervention.
+
+#### Art. 6a
+
+**(art. 9a de la loi) [^6-1]**
+
+<sup>1</sup> Le Bureau du Grand Conseil édicte une directive en matière de dons, libéralités ou autres avantages liés au mandat de député. Les présidents des groupes politiques et la commission thématique en charge des institutions et des droits politiques sont consultés.
+
+[^6-1]: Modif. 4 du 18.05.2021: Introduction Art. 6a; entrée en vigueur au 01.09.2021
 
 #### Art. 7
 
