@@ -4,13 +4,13 @@ number: "673.100"
 title: Gesetz über die Gebäudeversicherung
 short: "Gebäudeversicherungsgesetz, GebVG"
 language: de
-version: 2017-01-01
-valid_until: 2021-08-31
-version_adopted: 2016-09-13
+version: 2021-09-01
+valid_until: 2021-12-31
+version_adopted: 2019-09-17
 adopted: 2006-09-19
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/673.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2302/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3014/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2302/pdf_file"
 
 (Gebäudeversicherungsgesetz, GebVG)
 
-Vom 19.09.2006 (Stand 01.01.2017)
+Vom 19.09.2006 (Stand 01.09.2021)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -558,7 +558,7 @@ beschliesst:
 
 **Zusammenarbeit mit den Gemeinden**
 
-<sup>1</sup> Der Regierungsrat erlässt durch Verordnung Bestimmungen über den gegenseitigen Datenaustausch und dessen Abgeltung zwischen Gemeinden und Gebäudeversicherung im Bereich der obligatorischen Versicherung.
+<sup>1</sup> …
 
 <sup>2</sup> Die Gemeinden haben mit der Erteilung von Baubewilligungen für Gebäude auf die Pflicht zur Anmeldung für die obligatorische Versicherung aufmerksam zu machen. Sie sind zudem zur ersatzweisen Vornahme dieser Anmeldung befugt.
 
@@ -569,6 +569,23 @@ beschliesst:
 **Zusammenarbeit beim Kanton**
 
 <sup>1</sup> Für die Zusammenarbeit innerhalb der kantonalen Verwaltung gelten die Bestimmungen des Organisationsgesetzes. Der Regierungsrat regelt durch Verordnung die gegenseitige Abgeltung von Leistungen.
+
+#### § 49a
+
+**Weitergabe von Daten**
+
+<sup>1</sup> Die Gemeinden, Grundbuchämter sowie die kantonalen Amtsstellen sind verpflichtet, der Gebäudeversicherung diejenigen gebäudebezogenen Personen-, Grundstücks- und Vermessungsdaten unentgeltlich zur Verfügung zu stellen, die sie zur Erfüllung ihrer Aufgaben benötigt.
+
+<sup>2</sup> Die Gebäudeversicherung teilt den Gemeinden, den Grundbuchämtern und Nachführungsstellen der amtlichen Vermessung und den kantonalen Amtsstellen die bei ihr vorhandenen gebäudebezogenen Daten unentgeltlich mit, die diese zur Erfüllung ihrer Aufgaben benötigen.
+
+#### § 49b
+
+**Gebäudeidentifikator**
+
+<sup>1</sup> Die Gebäudeversicherung stellt die Verbindung ihrer gebäudebezogenen Daten zum Gebäudeidentifikator (EGID) gemäss Art. 10 Abs. 3<sup>bis</sup> des Bundesstatistikgesetzes (BStatG) vom 9. Oktober 1992[^49b-1] sowie gemäss der Verordnung über das eidgenössische Gebäude- und Wohnungsregister (VGWR) vom 9. Juni 2017[^49b-2] sicher.
+
+[^49b-1]: SR [431.01](https://db.clex.ch/link/Bund/431.01/de)
+[^49b-2]: SR [431.841](https://db.clex.ch/link/Bund/431.841/de)
 
 ## 5. Verfahren und Rechtsschutz
 
