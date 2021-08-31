@@ -3,20 +3,20 @@ canton: SG
 number: "320.32"
 title: "Taxordnung der Spitalregion Rheintal Werdenberg Sarganserland, des Spitals Linth und der Spitalregion Fürstenland Toggenburg"
 language: de
-version: 2017-06-01
-valid_until: 2021-08-31
-version_adopted: 2017-05-17
+version: 2021-09-01
+valid_until: 2022-08-31
+version_adopted: 2021-07-01
 adopted: 2017-05-17
 in_force: 2017-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.32"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2237/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3220/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Taxordnung der Spitalregion Rheintal Werdenberg Sarganserland, des Spitals Linth und der Spitalregion Fürstenland Toggenburg
 
-vom 17.05.2017 (Stand 01.06.2017)
+vom 17.05.2017 (Stand 01.09.2021)
 
 Der Verwaltungsrat der Spitalverbunde
 
@@ -45,7 +45,19 @@ als Taxordnung:[^ingress-2]
 
 **Taxtarif**
 
-<sup>1</sup> Der Verwaltungsrat der Spitalverbunde erlässt gestützt auf diesen Erlass einen Taxtarif für die drei regionalen Spitalverbunde, der die jeweils gültigen betragsmässigen Preise und Abrechnungsregeln enthält.
+<sup>1</sup> Der Verwaltungsrat der Spitalverbunde erlässt gestützt auf diesen Erlass einen Taxtarif für die drei regionalen Spitalverbunde und die Rettung St.Gallen, welche die jeweils gültigen betragsmässigen Preise und Abrechnungsregeln enthalten.
+
+<sup>2</sup> Die Preise für Leistungen, für welche der Taxtarif Rettung St.Gallen keine Regelung trifft, werden durch die in der Rettung St.Gallen zusammenarbeitenden Spitalverbunde mit den Leistungsempfängern oder Garanten durch Vereinbarung geregelt (z.B. für Nonmedical-Einsätze, Seniorennotruf, Pistenrettung, Sonderfahrten, Rückholungen aus dem Ausland usw.).
+
+#### Art. 2bis
+
+**Regio 144**
+
+<sup>1</sup> Die Preise für sämtliche Rettungs- und Transportdienstleistungen der Regio 144 werden durch die zuständigen Organe der Regio 144[^2bis-1] festgelegt oder mit den Leistungsempfängern oder Garanten durch Vereinbarung geregelt.
+
+<sup>2</sup> Für Leistungen eines Rettungsdienstes mit von einem Spitalverbund delegierten Leistungsauftrag für das Versorgungsgebiet der vier Spitalverbunde des Kantons St.Gallen wird der jeweilige Tarif des entsprechenden Rettungsdienstes, der die Leistung erbringt, angewendet.
+
+[^2bis-1]: Die Regio 144 AG ist eine privatrechtliche Aktiengesellschaft, an der das Spital Linth beteiligt ist. Sie hat den statutarischen Zweck, Rettungsdienstleistungen sowie Patiententransporte und Notarztdienstleistungen zu erbringen (Art. 3 der Statuten).
 
 #### Art. 3
 
@@ -55,9 +67,7 @@ als Taxordnung:[^ingress-2]
 
 #### Art. 4
 
-**Eingriffsliste**
-
-<sup>1</sup> Die Geschäftsleitungen der drei regionalen Spitalverbunde erlassen gestützt auf diesen Erlass und den Taxtarif jeweils eine Eingriffsliste für die Kategorisierung der Eingriffe der Halbprivat- und Privatpatientinnen und -patienten.
+**…**
 
 #### Art. 5
 
@@ -98,7 +108,7 @@ als Taxordnung:[^ingress-2]
 
 **Stationäre Halbprivat- und Privatpatientinnen und -patienten und stationäre allgemeine Patientinnen und Patienten**
 
-<sup>1</sup> Als stationäre Halbprivat- und Privatpatientinnen und -patienten gelten Patientinnen und Patienten, die als Selbstzahler oder aufgrund einer entsprechenden Versicherung die Behandlung durch eine Kaderärztin bzw. einen Kaderarzt oder deren bzw. dessen Stellvertretung wünschen.
+<sup>1</sup> Als stationäre Halbprivat- und Privatpatientinnen und -patienten gelten Patientinnen und Patienten, die als Selbstzahler oder aufgrund einer entsprechenden Versicherung die Behandlung durch eine Fachärztin bzw. einen Facharzt oder deren bzw. dessen Stellvertretung wünschen.
 
 <sup>2</sup> Stationäre Halbprivat- und Privatpatientinnen und -patienten werden in einem Einzel- oder in einem Zweibettzimmer betreut, wenn nicht betriebliche Gründe die Betreuung in einem Mehrbettzimmer erfordern. Es besteht kein Anspruch auf einen bestimmten Ausstattungsgrad des Einzel- oder Zweitbettzimmers wie eine eigene Nasszelle. Massgeblich ist lediglich die Anzahl Patientinnen und Patienten, die sich das Zimmer teilen.
 
@@ -112,8 +122,8 @@ als Taxordnung:[^ingress-2]
 
 <sup>1</sup> Allgemeine Patientinnen und Patienten können im Rahmen der betrieblichen Möglichkeiten gegen Aufpreis:
 
-- a) in einem Einzel- oder Zweibettzimmer untergebracht werden. Es besteht kein Anspruch auf einen bestimmten Ausstattungsgrad des Zimmers wie eine eigene Nasszelle. Massgeblich ist lediglich die Anzahl Patientinnen und Patienten, die sich das Zimmer teilen;
-- b) die Behandlung durch eine Kaderärztin bzw. einen Kaderarzt oder deren bzw. dessen Stellvertretung in Anspruch nehmen.
+- a) in einem Einzelzimmer untergebracht werden. Es besteht kein Anspruch auf einen bestimmten Ausstattungsgrad des Zimmers wie eine eigene Nasszelle. Massgeblich ist lediglich die Anzahl Patientinnen und Patienten, die sich das Zimmer teilen;
+- b) die Behandlung durch eine frei gewählte Fachärztin bzw. einen frei gewählten Facharzt oder deren bzw. dessen Stellvertretung in Anspruch nehmen.
 
 <sup>2</sup> Das Angebot nach Abs. 1 Bst. a dieser Bestimmung kann nicht mit dem Angebot nach Abs. 1 Bst. b dieser Bestimmung kombiniert werden.
 
@@ -141,7 +151,7 @@ als Taxordnung:[^ingress-2]
 
 <sup>1</sup> Rechnungen werden innert 30 Tagen beglichen, sofern nicht eine andere Zahlungsfrist vereinbart worden ist.
 
-<sup>2</sup> Nach Ablauf der Frist werden ein Verzugszins von fünf Prozent und der Ersatz der Selbstkosten für die Zahlungsaufforderung verrechnet.
+<sup>2</sup> Nach Ablauf der Frist werden ein Verzugszins von fünf Prozent und der Ersatz der Selbstkosten für die Zahlungsaufforderung verrechnet, sofern nicht eine andere Regelung vereinbart worden ist.
 
 ## II. Kostengutsprache und Vorschuss
 
@@ -185,17 +195,18 @@ als Taxordnung:[^ingress-2]
 - b) Pauschalen für unbewertete SwissDRG-Fallpauschalen[^15-2];
 - c) Zusatzentgelte[^15-3];
 - d) Taxen für besondere Leistungen;
-- e) Pauschalen für die psychosomatische Abteilung;
+- e) Tagespauschalen gemäss PCG-Katalog TARPSY SwissDRG[^15-4];
 - f) Pauschalen für Nichtpflichtleistungen;
 - g) Tarife für Gutachten und Autopsien;
 - h) Taxen für Halbprivat- und Privatpatientinnen und -patienten.
 
-<sup>2</sup> Für Personen im Straf- oder Massnahmenvollzug ohne Wohnsitz im Kanton St.Gallen werden der einweisenden Behörde diejenigen Kosten in Rechnung gestellt, die nach Art. 41 Abs. 3 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^15-4] nicht von einem Versicherer übernommen werden.
+<sup>2</sup> Für Personen im Straf- oder Massnahmenvollzug ohne Wohnsitz im Kanton St.Gallen werden der einweisenden Behörde diejenigen Kosten in Rechnung gestellt, die nach Art. 41 Abs. 3 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^15-5] nicht von einem Versicherer übernommen werden.
 
 [^15-1]: Vgl. Art. 49 des BG über die Krankenversicherung vom 18. März 1994, SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 [^15-2]: Anlage 1 des Fallpauschalen-Katalogs SwissDRG.
 [^15-3]: Anlagen 2 und 3 des Fallpauschalen-Katalogs SwissDRG.
-[^15-4]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+[^15-4]: Vgl. Art. 49 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994, SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+[^15-5]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
 #### Art. 16
 
@@ -208,7 +219,7 @@ als Taxordnung:[^ingress-2]
 - c) Abrechnungsgrouper SwissDRG (Webgrouper);
 - d) Diagnosenklassifikation ICD-10-GM;
 - e) Schweizerische Operationsklassifikation (CHOP);
-- f) Regeln und Definitionen zur Fallabrechnung unter SwissDRG;
+- f) Regeln und Definitionen zur Fallabrechnung unter SwissDRG und TARPSY;
 - g) Medizinisches Kodierhandbuch und Rundschreiben des Bundesamtes für Statistik;
 - h) Reglement für die Durchführung der Kodierrevision unter SwissDRG;
 - i) Finanzierung neuer Leistungen und Abbildung von innovativen Untersuchungs- und Behandlungsmethoden unter SwissDRG.
@@ -219,10 +230,14 @@ als Taxordnung:[^ingress-2]
 
 <sup>1</sup> Stationären Halbprivat- und Privatpatientinnen und -patienten werden zusätzlich zu den Kosten der allgemeinen Abteilung in Rechnung gestellt:
 
-- a) Aufpreis für Behandlung als Halbprivat- oder Privatpatientinnen und -patienten;
-- b) Aufpreis für freie Arztwahl.
+- a) Mehrleistungsfallpauschale;
+- b) Zuschlag je Aufenthaltstag.
 
-<sup>2</sup> Patientinnen und Patienten, die von der allgemeinen Abteilung in die Halbprivat- oder Privatabteilung oder von der Halbprivat- oder Privatabteilung in die allgemeine Abteilung übertreten, werden nur für die Zeit des Aufenthalts in der Halbprivat- oder Privatabteilung die Zuschläge nach Abs. 1 dieser Bestimmung verrechnet.
+<sup>2</sup> …
+
+<sup>2<sup>bis</sup></sup> Bei Patientinnen und Patienten, die im Laufe ihres Aufenthaltes die Abteilung (Allgemeine Abteilung, Halbprivate Abteilung oder Private Abteilung) wechseln, ist für die Berechnung des Zuschlags nach Abs. 1 Bst. a dieser Bestimmung die Abteilung beim Austritt der Patientin bzw. des Patienten für den gesamten Aufenthalt massgebend.
+
+<sup>3</sup> Der Zuschlag nach Abs. 1 Bst. b dieser Bestimmung wird anteilsmässig nach der Liegedauer auf der entsprechenden Abteilung in Rechnung gestellt.
 
 ### 2. Ambulante Patientinnen und Patienten
 
@@ -272,13 +287,13 @@ als Taxordnung:[^ingress-2]
 
 <sup>1</sup> Dieser Erlass wird in der Gesetzessammlung des Kantons St.Gallen sowie auf den Internetseiten der drei regionalen Spitalverbunde[^20-1] publiziert.[^20-2]
 
-<sup>2</sup> Der Taxtarif der drei regionalen Spitalverbunde wird auf deren Internetseiten[^20-3] publiziert.
+<sup>2</sup> Die Taxtarife der drei regionalen Spitalverbunde und der Rettung St.Gallen werden auf deren Internetseiten[^20-3] publiziert.
 
-<sup>3</sup> Die Pauschalpreisreglemente für Selbstzahlerinnen und Selbstzahler und die Eingriffslisten der drei regionalen Spitalverbunde werden auf deren jeweiliger Internetseite[^20-4] publiziert.
+<sup>3</sup> Die Pauschalpreisreglemente für Selbstzahlerinnen und Selbstzahler der drei regionalen Spitalverbunde werden auf deren jeweiliger Internetseite[^20-4] publiziert.
 
 [^20-1]: www.srrws.ch; www.spital-linth.ch; www.srft.ch.
 [^20-2]: Art. 35 Abs. 2 des Statuts der Spitalverbunde des Kantons St.Gallen, sGS [320.30](https://www.gesetzessammlung.sg.ch/data/320.30/de).
-[^20-3]: www.srrws.ch; www.spital-linth.ch; www.srft.ch.
+[^20-3]: www.srrws.ch; www.spital-linth.ch; www.srft.ch; www.rettung-sg.ch.
 [^20-4]: www.srrws.ch; www.spital-linth.ch; www.srft.ch.
 
 nGS 2017-040
