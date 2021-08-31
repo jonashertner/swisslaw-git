@@ -4,13 +4,13 @@ number: "262"
 title: "Verordnung zum Gesetz über die Organisation der Gerichte und Behörden in Zivil-, Straf- und verwaltungsgerichtlichen Verfahren"
 short: "Justizverordnung, JusV"
 language: de
-version: 2021-01-01
-valid_until: 2021-08-31
-version_adopted: 2020-02-11
+version: 2021-09-01
+valid_until: 2022-08-31
+version_adopted: 2021-05-03
 adopted: 2013-03-26
 in_force: 2013-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/262"
-pdf: "https://srl.lu.ch/api/de/versions/3649/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3815/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3649/pdf_file"
 
 (Justizverordnung, JusV)
 
-vom 26.03.2013 (Stand 01.01.2021)
+vom 26.03.2013 (Stand 01.09.2021)
 
 Das Kantonsgericht des Kantons Luzern,
 
@@ -104,7 +104,7 @@ beschliesst:
 - a. der Präsident oder die Präsidentin,
 - b. die Geschäftsleitung,
 - c. die erweiterte Geschäftsleitung,
-- d. der Leiter oder die Leiterin der Administration.
+- d. …
 
 #### § 5
 
@@ -126,7 +126,7 @@ beschliesst:
 
 **Geschäftsleitung a. Zusammensetzung**
 
-<sup>1</sup> Die Geschäftsleitung besteht aus dem Präsidenten oder der Präsidentin, dem stellvertretenden Präsidenten oder der stellvertretenden Präsidentin und dem Leiter oder der Leiterin der Administration.
+<sup>1</sup> Die Geschäftsleitung besteht aus dem Präsidenten oder der Präsidentin und dem stellvertretenden Präsidenten oder der stellvertretenden Präsidentin.
 
 #### § 7
 
@@ -148,7 +148,7 @@ beschliesst:
 
 <sup>1</sup> Die erweiterte Geschäftsleitung besteht aus je einem Vertreter oder einer Vertreterin der in § 13 Absatz 1 aufgeführten Gerichte, nämlich dem Präsidenten oder der Präsidentin und dem stellvertretenden Präsidenten oder der stellvertretenden Präsidentin der Gruppe sowie den Gerichtspräsidentinnen und -präsidenten der übrigen Gerichte.
 
-<sup>2</sup> Der Leiter oder die Leiterin der Administration hat beratende Stimme.
+<sup>2</sup> …
 
 #### § 9
 
@@ -168,12 +168,14 @@ beschliesst:
 
 **Leiter oder Leiterin der Administration**
 
-<sup>1</sup> Der Leiter oder die Leiterin der Administration ist zuständig für
+<sup>1</sup> Der Leiter oder die Leiterin der Administration oder der Stellvertreter oder die Stellvertreterin berät und unterstützt die Geschäftsleitung.
 
-- a. den Einsatz der Kanzleimitarbeiterinnen und -mitarbeiter der Gruppe,
-- b. die Koordination der Einreihung von Gerichtsschreiberinnen und Gerichtsschreibern sowie des Kanzleipersonals,
-- c. die Koordination der Berufsausbildung für die Lernenden in den Kanzleien der Gerichte,
-- d. die administrative Zusammenarbeit mit der Dienststelle Personal.
+- a. …
+- b. …
+- c. …
+- d. …
+
+<sup>2</sup> Der Leiter oder die Leiterin der Administration oder der Stellvertreter oder die Stellvertreterin hat Antragsrecht und beratende Stimme in der Geschäftsleitung und in der erweiterten Geschäftsleitung.
 
 #### § 11
 
@@ -183,11 +185,11 @@ beschliesst:
 
 #### § 12
 
-**Wahl der Organe**
+**Wahl der Organe und des Leiters und der Leiterin der Administration**
 
 <sup>1</sup> Das Kantonsgericht wählt den Präsidenten oder die Präsidentin der Gruppe.
 
-<sup>2</sup> Die erweiterte Geschäftsleitung wählt den stellvertretenden Präsidenten oder die stellvertretende Präsidentin und den Leiter oder die Leiterin der Administration.
+<sup>2</sup> Die erweiterte Geschäftsleitung wählt den stellvertretenden Präsidenten oder die stellvertretende Präsidentin und den Leiter oder die Leiterin der Administration und den Stellvertreter oder die Stellvertreterin.
 
 <sup>3</sup> Die Amtsdauer beträgt vier Jahre. Sie ist identisch mit der Amtsperiode der erstinstanzlichen Gerichte.
 
