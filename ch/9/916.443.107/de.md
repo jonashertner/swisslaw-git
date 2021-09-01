@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Verordnung des BLV vom 6. August 2021 über Massnahmen gegen die Verschleppung der Afrikanischen Schweinepest im Verkehr mit den Mitgliedstaaten der Europäischen Union, Island und Norwegen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: de
-version: 2021-08-10
+version: 2021-09-02
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20210810/de/xml/fedlex-data-admin-ch-eli-cc-2021-474-20210810-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20210810/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20210902/de/xml/fedlex-data-admin-ch-eli-cc-2021-474-20210902-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20210902/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen gegen die Verschleppung der Afrikanischen Schweinepest im Verkehr mit den Mitgliedstaaten der Europäischen Union, Island und Norwegen
 
-vom 6. August 2021 (Stand am 10. August 2021)
+vom 6. August 2021 (Stand am 2. September 2021)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -59,13 +59,14 @@ Sie regelt die Einfuhr der folgenden Tiere und Tierprodukte aus Mitgliedstaaten 
 
 Die Einfuhr von lebenden Tieren und Tierprodukten nach Artikel 1 Absatz 2 aus den folgenden Gebieten der betroffenen Mitgliedstaaten ist verboten:
 
-- a. aus den in der Durchführungsverordnung (EU) 2021/605[^2-1] geregelten Sperrzonen;
-- b. aus den gestützt auf die Delegierte Verordnung (EU) 2020/687[^2-2] festgelegten infizierten Zonen und Sperrzonen.
+- a.[^2-1] aus den in der Durchführungsverordnung (EU) 2021/605[^2-2] geregelten Sperrzonen;
+- b. aus den gestützt auf die Delegierte Verordnung (EU) 2020/687[^2-3] festgelegten infizierten Zonen und Sperrzonen.
 
 <sup>2</sup> Die Einfuhr von lebenden Wildschweinen aus dem gesamten Hoheitsgebiet von Mitgliedstaaten der EU, Island und Norwegen ist verboten.
 
-[^2-1]: Durchführungsverordnung (EU) 2021/605 der Kommission vom 7. April 2021 mit besonderen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest, ABl. L 129 vom 15.4.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2021/1268, ABl. L 277 vom 2.8.2021, S. 99.
-[^2-2]: Delegierte Verordnung (EU) 2020/687 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften für die Prävention und Bekämpfung bestimmter gelisteter Seuchen, ABl. L 174 vom 3.6.2020, S. 64; geändert durch Delegierte Verordnung (EU) 2021/1140, ABl. L 247 vom 13.7.2021, S. 50.
+[^2-1]: Fassung gemäss Ziff. I der V des BLV vom 31. Aug. 2021, in Kraft seit 2. Sept. 2021 ([AS 2021 516](https://fedlex.data.admin.ch/eli/oc/2021/516)).
+[^2-2]: Durchführungsverordnung (EU) 2021/605 der Kommission vom 7. April 2021 mit besonderen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest, ABl. L 129 vom 15.4.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2021/1371, ABl. L 294 vom 17.8.2021, S. 14.
+[^2-3]: Delegierte Verordnung (EU) 2020/687 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften für die Prävention und Bekämpfung bestimmter gelisteter Seuchen, ABl. L 174 vom 3.6.2020, S. 64; geändert durch Delegierte Verordnung (EU) 2021/1140, ABl. L 247 vom 13.7.2021, S. 50.
 
 #### Art. 3
 
@@ -124,11 +125,13 @@ Die Verordnung des BLV vom 18. Dezember 2017[^8-1] über Massnahmen gegen die Ve
 
 Diese Verordnung tritt am 10. August 2021 in Kraft.
 
-Anhang
+Anhang*[^t-1]*
 
 (Art. 3)
 
 ## Betroffene Mitgliedstaaten und Gebiete
+
+[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 31. Aug. 2021, in Kraft seit 2. Sept. 2021 ([AS 2021 516](https://fedlex.data.admin.ch/eli/oc/2021/516)).
 
 ### 1 Sperrzonen nach der Durchführungsverordnung (EU) 2021/605
 
@@ -136,18 +139,18 @@ Die Mitgliedstaaten der EU und die dort geltenden Sperrzonen nach Artikel 2 Absa
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsverordnung (EU) 2021/605</td><td>Durchführungsverordnung (EU) 2021/605 der Kommission vom 7. April 2021 mit besonderen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest, ABl. L 129 vom 15.4.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2021/1268, ABl. L 277 vom 2.8.2021, S. 99.</td></tr>
+<tr><td>Durchführungsverordnung (EU) 2021/605</td><td>Durchführungsverordnung (EU) 2021/605 der Kommission vom 7. April 2021 mit besonderen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest, ABl. L 129 vom 15.4.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2021/1371, ABl. L 294 vom 17.8.2021, S. 14.</td></tr>
 </table>
 
-In Anhang I der obengenannten Durchführungsverordnung werden bestimmte Gebiete von betroffenen Mitgliedstaaten entsprechend dem Risiko der Verschleppung des Virus der Afrikanischen Schweinepest in die folgenden drei Teile eingeteilt:
+Im Anhang des obengenannten Durchführungsbeschlusses werden bestimmte Gebiete von betroffenen Mitgliedstaaten entsprechend dem Risiko der Verschleppung des Virus der Afrikanischen Schweinepest in die folgenden drei Teile eingeteilt:
 
 - Teil I Gebiet geregelt aufgrund des Risikos, das von einem nahegelegenen Gebiet mit infizierter Wildschweinpopulation (Teil II) ausgeht.
 - Teil II Gebiet geregelt aufgrund der infizierten Wildschweinpopulation.
 - Teil III Gebiet geregelt aufgrund von infizierten Schweinehaltungen und infizierter Wildschweinpopulation.
 
-### Mitgliedstaaten mit Sperrzonen in Teil I
+### Mitgliedstaaten mit Gebieten in Teil I
 
-In folgenden Mitgliedstaaten der EU bestehen Sperrzonen nach Anhang I Teil I der Durchführungsverordnung (EU) 2021/605:
+In folgenden Mitgliedstaaten der EU bestehen Gebiete nach dem Anhang I Teil I der Durchführungsverordnung (EU) 2021/605:
 
 Deutschland
 
@@ -165,9 +168,9 @@ Slowakei
 
 Ungarn
 
-### Mitgliedstaaten mit Sperrzonen in Teil II
+### Mitgliedstaaten mit Gebieten in Teil II
 
-In folgenden Mitgliedstaaten der EU bestehen Sperrzonen nach Anhang I Teil II der Durchführungsverordnung (EU) 2021/605:
+In folgenden Mitgliedstaaten der EU bestehen Gebiete nach dem Anhang I Teil II der Durchführungsverordnung (EU) 2021/605:
 
 Bulgarien
 
@@ -185,9 +188,9 @@ Slowakei
 
 Ungarn
 
-### Mitgliedstaaten mit Sperrzonen in Teil III
+### Mitgliedstaaten mit Gebieten in Teil III
 
-In folgenden Mitgliedstaaten der EU bestehen Sperrzonen nach Anhang I Teil III der Durchführungsverordnung (EU) 2021/605:
+In folgenden Mitgliedstaaten der EU bestehen Gebiete nach dem Anhang I Teil III der Durchführungsverordnung (EU) 2021/605:
 
 Bulgarien
 
