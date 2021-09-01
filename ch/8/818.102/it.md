@@ -3,11 +3,11 @@ sr: "818.102"
 title: "Legge federale del 25 settembre 2020 sulle basi legali delle ordinanze del Consiglio federale volte a far fronte all'epidemia di COVID-19 (Legge COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: it
-version: 2021-07-01
+version: 2021-09-02
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210902/it/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210902-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210902/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210701/it"
 
 (Legge COVID-19)
 
-del 25 settembre 2020 (Stato 1° luglio 2021)
+del 25 settembre 2020 (Stato 2 settembre 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -112,7 +112,7 @@ La Confederazione adotta i provvedimenti seguenti di concerto con i Cantoni:
 - d. definisce un piano vaccinale che garantisca al maggior numero possibile di persone che lo desiderano di farsi vaccinare entro fine maggio 2021 al più tardi;
 - e. permette di allentare, abbreviare o abolire progressivamente l’obbligo di quarantena se, mediante provvedimenti alternativi quali la vaccinazione, test periodici o altro, è possibile garantire una riduzione comparabile della propagazione del virus.[^3-3]
 
-[^3-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^3-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Correzione della Conissione di redazione dell’AF del 25 ago. 2021, pubblicata il 2 set. 2021 ([RU 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^3-2]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^3-3]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
@@ -206,7 +206,7 @@ In caso di chiusura delle frontiere, il Consiglio federale adotta i provvediment
 
 <sup>5</sup> La Confederazione può mettere a disposizione dei Cantoni e di terzi un sistema per il rilascio del documento.
 
-[^6a-1]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^6a-1]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Correzione della Conissione di redazione dell’AF del 25 ago. 2021, pubblicata il 2 set. 2021 ([RU 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 
 #### Art. 7
 
@@ -309,7 +309,7 @@ Il Consiglio federale è autorizzato a esonerare dalla responsabilità per l’o
 
 <sup>7</sup> Il sostegno a eventi regionali e locali compete ai Cantoni.
 
-[^11a-1]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 30 apr. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^11a-1]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 30 apr. 2022 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Correzione della Conissione di redazione dell’AF del 25 ago. 2021, pubblicata il 2 set. 2021 ([RU 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^11a-2]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
 
 #### Art. 12
@@ -518,7 +518,7 @@ Il Consiglio federale può emanare disposizioni concernenti:
 
 <sup>5</sup> Il Consiglio federale può dichiarare applicabili le disposizioni della LPGA. Può prevedere deroghe all’articolo 24 capoverso 1 LPGA per quanto concerne l’estinzione del diritto e all’articolo 49 capoverso 1 LPGA per quanto concerne l’applicabilità della procedura semplificata.
 
-[^15-1]: Nuovo testo del per. giusta il n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 1° apr. 2021 al 31 dic. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
+[^15-1]: Nuovo testo del per. giusta il n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 1° apr. 2021 al 31 dic. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)
 [^15-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 16
@@ -572,7 +572,7 @@ In deroga alla LADI[^17a-2], l’indennità per lavoro ridotto è determinata co
 
 - b. in caso di occupazione a tempo parziale, il reddito e l’importo minimo dell’indennità per lavoro ridotto sono determinati conformemente alla lettera a in proporzione alla percentuale lavorativa.
 
-[^17a-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 1° dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
+[^17a-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Cultura, casi di rigore, sport, assicurazione contro la disoccupazione, multe disciplinari), in vigore dal 1° dic. 2020 al 31 dic. 2021 ([RU 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354); [FF 2020 7713](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)). Correzione della Conissione di redazione dell’AF del 25 ago. 2021, pubblicata il 2 set. 2021 ([RU 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^17a-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 17b
@@ -585,7 +585,7 @@ In deroga alla LADI[^17a-2], l’indennità per lavoro ridotto è determinata co
 
 <sup>3</sup> In deroga all’articolo 38 capoverso 1 LADI, i diritti all’indennità di cui ai capoversi 1 e 2 devono essere fatti valere entro il 30 aprile 2021 presso la cassa di disoccupazione competente.
 
-[^17b-1]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2021, il cpv. 1 in vigore dal 1° set. 2020 al 31 dic. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^17b-1]: Introdotto dal n. I della LF del 19 mar. 2021 (Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi), in vigore dal 20 mar. 2021 al 31 dic. 2021, il cpv. 1 in vigore dal 1° set. 2020 al 31 dic. 2021 ([RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)
 [^17b-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 17c

@@ -3,11 +3,11 @@ sr: "818.102"
 title: Federal Act of 25 September 2020 on the Statutory Principles for Federal Council Ordinances on Combating the COVID-19 Epidemic (COVID-19 Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: en
-version: 2021-07-01
+version: 2021-09-02
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210701/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210701-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210902/en/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210902-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210902/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Act)
 
-of 25 September 2020 (Status as of 1 July 2021)
+of 25 September 2020 (Status as of 2 September 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -115,7 +115,7 @@ The Confederation shall take the following measures in close consultation with t
 - d. a vaccination plan that guarantees the most widespread coverage of those willing to vaccinated by the end of May 2021 at the latest;
 - e. opportunities to relax, shorten the application of or lift quarantine requirements step-by-step if a comparable reduction in transmission can be guaranteed by alternatives such as vaccination, regular testing or other measures.[^3-3]
 
-[^3-1]: Amended by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^3-1]: Amended by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Correction by the FA Drafting Committee dated 25 Aug. 2021, published 2 Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^3-2]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^3-3]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
@@ -209,7 +209,7 @@ In relation to the closure of borders, the Federal Council shall wherever possib
 
 <sup>5</sup> The Confederation may provide the cantons and third parties with a system for issuing certificates.
 
-[^6a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^6a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Correction by the FA Drafting Committee dated 25 Aug. 2021, published 2 Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 
 #### Art. 7
 
@@ -311,7 +311,7 @@ The Federal Council is authorised to exempt persons who issue customs declaratio
 
 <sup>7</sup> Support for regional and local events is a matter for the cantons.
 
-[^11a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 30 April 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^11a-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 30 April 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Correction by the FA Drafting Committee dated 25 Aug. 2021, published 2 Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^11a-2]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
 
 #### Art. 12
@@ -518,11 +518,10 @@ The Federal Council may issue provisions on:
 
 <sup>4</sup> The Federal Council shall ensure that compensation is paid on the basis of the self-declared loss of earnings. The accuracy of the information shall in particular be verified by means of random tests.
 
-<sup>5</sup> The Federal Council may declare the provisions of the GSSLA to be applicable. It may provide for derogations from Article 24 paragraph 1 GSSLA relating to the expiry of the right to claim and Article 49 paragraph 1 GSSLA relating to the application of the informal procedure.[^15-3]
+<sup>5</sup> The Federal Council may declare the provisions of the GSSLA to be applicable. It may provide for derogations from Article 24 paragraph 1 GSSLA relating to the expiry of the right to claim and Article 49 paragraph 1 GSSLA relating to the application of the informal procedure.
 
-[^15-1]: Second sentence amended by No I of the FA of 19 March 2021 Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 1 April 2021 to 30 June 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^15-1]: Second sentence amended by No I of the FA of 19 March 2021 Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 1 April 2021 to 31 dic. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153)[354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^15-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^15-3]: In force until 31 Dec. 2021 (Art. 21 para. 10).
 
 #### Art. 16
 
@@ -575,7 +574,7 @@ In derogation from the UIA[^17a-2], short-time work compensation is calculated a
 
 - b. in the case of part-time work, the income and the minimum amount for the short-time work compensation in accordance with letter a is calculated in proportion to the full-time equivalent.
 
-[^17a-1]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 1 Dec. 2020 to 31 Dic 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153)[354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)[1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
+[^17a-1]: Inserted by No I of the FA of 18 Dec. 2020 (Culture. Hardship Cases. Sport, Unemployment Insurance, Fixed Penalty Fines), in force from 1 Dec. 2020 to 31 Dec. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)[1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)). Correction by the FA Drafting Committee dated 25 Aug. 2021, published 2 Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^17a-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 17b
@@ -588,7 +587,7 @@ In derogation from the UIA[^17a-2], short-time work compensation is calculated a
 
 <sup>3</sup> In derogation from Article 38 paragraph 1 UIA, rights to payment that have been newly created paragraphs 1 and 2 must be claimed by 30 April 2021 from the responsible unemployment insurance fund.
 
-[^17b-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2021, para. 1 in force from 1 Sept. 2020 to 31 Dec. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285). [2021 1935](https://fedlex.data.admin.ch/eli/fga/2021/1935)).
+[^17b-1]: Inserted by No I of the FA of 19 March 2021 (Hardship Cases, Unemployment Insurance, Childcare, Creative Artists, Events), in force from 20 March 2021 to 31 Dec. 2021, para. 1 in force from 1 Sept. 2020 to 31 Dec. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153)[354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^17b-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 17c

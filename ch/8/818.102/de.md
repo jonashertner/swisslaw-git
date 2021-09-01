@@ -3,11 +3,11 @@ sr: "818.102"
 title: Bundesgesetz vom 25. September 2020 über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: de
-version: 2021-07-01
+version: 2021-09-02
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210902/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210902-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210902/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210701/de"
 
 (Covid-19-Gesetz)
 
-vom 25. September 2020 (Stand am 1. Juli 2021)
+vom 25. September 2020 (Stand am 2. September 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -113,7 +113,7 @@ Der Bund trifft die folgenden Massnahmen in enger Abstimmung mit den Kantonen:
 - d. einen Impfplan, der eine möglichst breite Durchimpfung der Impfwilligen bis spätestens Ende Mai 2021 sicherstellt;
 - e. Möglichkeiten, die Quarantäne schrittweise zu lockern, zu verkürzen oder aufzuheben, wenn durch Alternativen wie Impfung, regelmässige Tests oder andere Massnahmen eine vergleichbare Reduktion der Verbreitung gesichert werden kann.[^3-3]
 
-[^3-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^3-1]: Fassung gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Berichtigung der RedK der BVers vom 25. Aug. 2021, veröffentlicht am 2. Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^3-2]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^3-3]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 
@@ -207,7 +207,7 @@ Bei Grenzschliessung ergreift der Bundesrat die notwendigen Massnahmen, um die R
 
 <sup>5</sup> Der Bund kann den Kantonen sowie Dritten ein System für die Erteilung von Nachweisen zur Verfügung stellen.
 
-[^6a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^6a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 31. Dez. 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Berichtigung der RedK der BVers vom 25. Aug. 2021, veröffentlicht am 2. Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 
 #### Art. 7
 
@@ -309,7 +309,7 @@ Der Bundesrat wird ermächtigt, die Haftung für die Zollschuld für Personen, d
 
 <sup>7</sup> Die Unterstützung von regionalen und lokalen Veranstaltungen ist Sache der Kantone.
 
-[^11a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 30. April 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^11a-1]: Eingefügt durch Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 20. März 2021 bis zum 30. April 2022 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)). Berichtigung der RedK der BVers vom 25. Aug. 2021, veröffentlicht am 2. Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^11a-2]: [SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
 
 #### Art. 12
@@ -476,10 +476,10 @@ Der Bundesrat ergreift im Medienbereich die folgenden Massnahmen:
 - c. Die Abonnementskosten der Basisdienste Text der Nachrichtenagentur Keystone-SDA werden in Bezug auf die Nutzungsrechte für elektronische Medien im Umfang der am 1. Juni 2020 geltenden Tarife aus bisher nicht verwendetem Ertrag aus der Abgabe für Radio und Fernsehen getragen; es ist ein Kostendach von 10 Millionen Franken einzuhalten.
 - d.[^14-2]
 
-  das Bundesamt für Kommunikation kann auf Gesuch hin Zahlungen aus der Abgabe für Radio und Fernsehen an folgende private Radio- und Fernsehunternehmen tätigen:
+  Das Bundesamt für Kommunikation kann auf Gesuch hin Zahlungen aus der Abgabe für Radio und Fernsehen an folgende private Radio- und Fernsehunternehmen tätigen:
 
-  - 1\. die kommerziellen Radiostationen mit einer gültigen FM-Konzession,
-  - 2\. komplementäre Radiostationen mit einer Konzession,
+  - 1\. die kommerziellen Radiostationen mit einer gültigen FM-Konzession;
+  - 2\. komplementäre Radiostationen mit einer Konzession;
   - 3\. konzessionierte regionale TV-Stationen.
 
 <sup>1bis</sup> Die Zahlungen nach Absatz 1 Buchstabe d erfolgen auf der Grundlage des belegten Rückgangs der Einnahmen aus Werbung und Sponsoring zwischen 2019 und 2021, wobei höchstens 20 Millionen Franken ausbezahlt werden. Voraussetzung für die Gewährung dieser Hilfe ist die schriftliche Zusicherung der Hilfeempfängerinnen und -empfänger gegenüber dem Bundesamt für Kommunikation, das erhaltene Geld zurückzuzahlen, wenn für das Jahr 2021 eine Dividende ausbezahlt wird.[^14-3]
@@ -516,11 +516,10 @@ Der Bundesrat kann Bestimmungen erlassen über:
 
 <sup>4</sup> Der Bundesrat stellt sicher, dass Entschädigungen auf der Grundlage des selbstdeklarierten Erwerbsausfalls ausgerichtet werden. Die Richtigkeit der Angaben wird insbesondere mittels Stichproben überprüft.
 
-<sup>5</sup> Der Bundesrat kann die Bestimmungen des ATSG anwendbar erklären. Er kann Abweichungen von Artikel 24 Absatz 1 ATSG betreffend das Erlöschen des Anspruchs und Artikel 49 Absatz 1 ATSG betreffend die Anwendbarkeit des formlosen Verfahrens vorsehen.[^15-3]
+<sup>5</sup> Der Bundesrat kann die Bestimmungen des ATSG anwendbar erklären. Er kann Abweichungen von Artikel 24 Absatz 1 ATSG betreffend das Erlöschen des Anspruchs und Artikel 49 Absatz 1 ATSG betreffend die Anwendbarkeit des formlosen Verfahrens vorsehen.
 
-[^15-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 1. April 2021 bis zum 30. Juni 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^15-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 1. April 2021 bis zum 31. Dez. 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^15-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^15-3]: In Kraft bis 31. Dez. 2021 (Art. 21 Abs. 10).
 
 #### Art. 16
 
@@ -573,7 +572,7 @@ In Abweichung des AVIG[^17a-2] bemisst sich die Kurzarbeitsentschädigung wie fo
 
 - b. bei einem Teilzeitpensum werden das Einkommen und der Mindestbetrag für die Kurzarbeitsentschädigung gemäss Buchstabe a im Verhältnis zum Arbeitspensum berechnet.
 
-[^17a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 1. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980), [2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [2021 354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359), [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [2021 1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)).
+[^17a-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 1. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153), [354](https://fedlex.data.admin.ch/eli/oc/2021/354); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285), [1093](https://fedlex.data.admin.ch/eli/fga/2021/1093)). Berichtigung der RedK der BVers vom 25. Aug. 2021, veröffentlicht am 2. Sept. 2021 ([AS 2021 527](https://fedlex.data.admin.ch/eli/oc/2021/527)).
 [^17a-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 17b
