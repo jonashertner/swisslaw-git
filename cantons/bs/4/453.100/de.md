@@ -1,169 +1,264 @@
 ---
 canton: BS
 number: "453.100"
-title: Verordnung über die Einführung des Bundesgesetzes über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister im Kanton Basel-Stadt
-short: "Registerharmonisierungsverordnung, EV RHG"
+title: Verordnung über das kantonale Gebäude- und Wohnungsregister und das kantonale Gebäudemodell
+short: VGWR BS
 language: de
-version: 2017-07-01
-valid_until: 2021-09-01
-version_adopted: 2017-06-27
+version: 2021-09-02
+version_adopted: 2021-08-24
 adopted: 2021-08-24
 in_force: 2021-09-02
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/453.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4202/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5362/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Einführung des Bundesgesetzes über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister im Kanton Basel-Stadt
+# Verordnung über das kantonale Gebäude- und Wohnungsregister und das kantonale Gebäudemodell
 
 Registerharmonisierungsverordnung | Dokumentation / Register
 
-(Registerharmonisierungsverordnung, EV RHG)
+(VGWR BS)
 
-Vom 23. Dezember 2008 (Stand 1. Juli 2017)
+Vom 24. August 2021 (Stand 2. September 2021)
 
-Der Regierungsrat des Kantons Basel-Stadt,
+Der Regierungsrat des Kantons Basel Stadt,
 
-gestützt auf Art. 21 des Bundesgesetzes über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister (Registerharmonisierungsgesetz, RHG) vom 23. Juni 2006[^ingress-1],
+gestützt auf § 5 Abs. 3 des Gesetzes über die öffentliche Statistik (StatG) [^ingress-1] vom 21. Mai 2014, unter Verweis auf seine Erläuterungen Nr. [P211082](https://www.regierungsrat.bs.ch/geschaefte/regierungsratsbeschluesse.html?previousAction1=search&previousAction2=&previousAction3=&previousAction4=&action=geschaeft&geschaeftId=b5b2c2b69aa14213b14d00fb992de5ff&praesidialNr=P211082&monat=&sort=&bis=&dokumentVersion=&jahr=&sitzungId=&searchTerm=&dokumentAnsicht=&von=&dokumentId=),
 
 beschliesst:
 
-[^ingress-1]: SR [431.02](https://db.clex.ch/link/Bund/431.02/de).
+[^ingress-1]: SG [453.200](https://www.gesetzessammlung.bs.ch/data/453.200/de)
 
-## I. Zweck
+## 1. Allgemeine Bestimmungen
 
 #### § 1
 
-<sup>1</sup> Diese Verordnung führt das Bundesgesetz über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister (Registerharmonisierungsgesetz) und die dazugehörigen Ausführungserlasse des Bundes, soweit dies dem Kanton obliegt, aus. Sie führt weiter das Meldeverfahren gemäss dem Gesetz über das Aufenthaltswesen (Aufenthaltsgesetz) aus.
+**Zweck**
 
-## II. Geltungsbereich
+<sup>1</sup> Diese Verordnung regelt Inhalt und Zuständigkeiten in Bezug auf das Gebäude- und Wohnungsregister des Kantons Basel-Stadt (GWR-BS) und das kantonale Gebäudemodell.
+
+<sup>2</sup> Das GWR-BS gilt als Referenzinformationssystem für Zwecke der Statistik, Forschung und Planung sowie zur Erfüllung weiterer gesetzlicher Aufgaben.
+
+<sup>3</sup> Das kantonale Gebäudemodell gibt die inhaltliche und organisatorische Struktur des kantonsinternen Datenmanagements für Gebäudedaten vor.
 
 #### § 2
 
-<sup>1</sup> Diese Verordnung gilt für die folgenden kantonalen und kommunalen Register:
+**Begriffe**
 
-- a) Einwohnerregister
-- b) Register für Kollektivhaushalte
-- c) Gebäude- und Wohnungsregister
+<sup>1</sup> Es werden die Begriffe aus Art. 2 der Verordnung über das eidgenössische Gebäude- und Wohnungsregister vom 9. Juni 2017 (VGWR) verwendet.
 
-## III. Begriffe
+<sup>2</sup> Zusätzlich bedeuten in dieser Verordnung:
+
+- a) Raumgruppe: Baulich zusammenhängende, in sich geschlossene Gesamtheit von Räumen innerhalb eines Gebäudes;
+- b) Wohnung: definiert gemäss Art. 2 lit. c VGWR; eine Wohnung ist ein Raumgruppentyp;
+- c) separater Wohnraum: Bewohnbares Einzelzimmer ohne eigene Kocheinrichtung, das nicht zu einer Wohnung gehört; ein separater Wohnraum ist ein Raumgruppentyp;
+- d) öffentliche Organe: Organisationseinheiten des Kantons, der Gemeinden und der juristischen Personen des kantonalen oder kommunalen öffentlichen Rechts, die eine öffentliche Aufgabe erfüllen sowie Private, soweit ihnen von Kanton oder Gemeinden die Erfüllung öffentlicher Aufgaben übertragen ist;
+- e) administrative Wohnungsnummer (AWN): Eine Wohnungsnummer gemäss Art. 8 Abs. 3 lit. b VGWR, welche nach der Richtlinie zur Wohnungsnummerierung vom Februar 2008 des Bundesamtes für Statistik (BFS) vergeben wird und welche eine Wohnung bzw. einen separaten Wohnraum innerhalb eines Gebäudes eindeutig kennzeichnet;
+- f) statistische Raumeinheit: Räumliche Unterteilung des Kantons zu Zwecken der Statistik, Planung und Forschung in statistisches Wohnviertel, statistischer Bezirk, statistischer Block und statistische Blockseite.
+
+## 2. Das Gebäude- und Wohnungsregister
+
+### 2.1 Aufgaben der zentralen Statistikstelle
 
 #### § 3
 
-<sup>1</sup> In dieser Verordnung bedeuten:
+**Kantonale Koordinationsstelle**
 
-- a) Wohnung: Gesamtheit der Räume, die eine bauliche Einheit bilden und einen eigenen Zugang entweder von aussen oder von einem gemeinsamen Bereich innerhalb des Gebäudes (Treppenhaus) haben. Ein Einfamilienhaus besteht im eidgenössischen Gebäude- und Wohnungsregister aus einer Wohnung; Einfamilienhäuser mit Einliegerwohnungen und dergleichen werden als Mehrfamilienhäuser erfasst.
-- b) Wohnungsnummer: Eine gemäss der Richtlinie zur Wohnungsnummerierung des Bundesamts für Statistik vergebene Nummer, welche eine Wohnung innerhalb eines Gebäudes eindeutig kennzeichnet. Diese wird von Behörden, Eigentümerinnen und Eigentümern, Liegenschaftsverwaltungen und Mieterinnen und Mietern verwendet.
-
-## IV. Zuständige amtsstelle gemäss Art. 9 RHG
+<sup>1</sup> Die zentrale Statistikstelle ist die kantonale Koordinationsstelle gemäss Art. 5 Abs. 1 VGWR.
 
 #### § 4
 
-<sup>1</sup> Die Fachstelle für Informatik und Organisation des Finanzdepartements ist für die Koordination, Durchführung und Qualitätskontrolle der Harmonisierung zuständig.
+**Registerführung**
 
-## V. Einwohnerregister
+<sup>1</sup> Die zentrale Statistikstelle führt das GWR-BS gemäss § 5 Abs. 3 StatG.
+
+<sup>2</sup> Sie führt im GWR-BS zusätzliche Informationen für die kantonale Nutzung.
 
 #### § 5
 
-**…**
+**Merkmalskatalog**
+
+<sup>1</sup> Die zentrale Statistikstelle führt das GWR-BS basierend auf dem Merkmalskatalog des BFS.
+
+<sup>2</sup> Für die zusätzlichen Informationen gemäss § 4 Abs. 2 führt die zentrale Statistikstelle einen eigenen Merkmalskatalog. Sie aktualisiert den Merkmalskatalog jährlich und publiziert ihn auf ihrer Internetseite.
+
+<sup>3</sup> Merkmale, die Daten eines anderen öffentlichen Organs betreffen, werden nach Anhörung ebendessen durch die Vorsteherin oder den Vorsteher des Präsidialdepartements beschlossen.
+
+<sup>4</sup> Die zentrale Statistikstelle arbeitet bezüglich der zusätzlichen Informationen und deren Spezifizierungen mit den unter § 6 aufgeführten Stellen zusammen und legt nach deren Anhörung die Qualitätsanforderungen fest.
 
 #### § 6
 
-**…**
+**Zusammenarbeit mit öffentlichen Organen und Privaten**
+
+<sup>1</sup> Die zentrale Statistikstelle arbeitet als kantonale registerführende Stelle des anerkannten Registers gemäss Art. 4 lit. e VGWR mit dem BFS zusammen. Sie arbeitet insbesondere mit dem BFS die Vereinbarung gemäss Art. 6 Abs. 2 VGWR aus.
+
+<sup>2</sup> Sie bezieht insbesondere von den folgenden öffentlichen Organen und Privaten die zur Führung des GWR-BS notwendigen Informationen:
+
+- a) Bau- und Gastgewerbeinspektorat;
+- b) Grundbuch- und Vermessungsamt;
+- c) Städtebau & Architektur;
+- d) Tiefbauamt;
+- e) Amt für Umwelt und Energie;
+- f) Rettung;
+- g) Bevölkerungsdienste und Migration;
+- h) Zentrale Informatikdienste IT BS;
+- i) Gebäudeversicherung des Kantons Basel-Stadt;
+- j) Industrielle Werke Basel IWB;
+- k) öffentliche Organe als Eigentümervertreter;
+- l) private Bauherren und / oder Hauseigentümer bzw. Liegenschaftsverwaltungen;
+- m) Einwohnergemeinden Bettingen und Riehen;
+- n) zuständige Stelle des kantonalen Gebäudemodells gemäss § 17 dieser Verordnung.
 
 #### § 7
 
-**…**
+**Vergabe der Administrativen Wohnungsnummer (AWN)**
+
+<sup>1</sup> Die zentrale Statistikstelle vergibt die AWN. Diese darf nur mit Zustimmung der zentralen Statistikstelle verändert werden.
 
 #### § 8
 
-**…**
+**Definition der statistischen Raumeinheiten**
 
-## VI. Register für Kollektivhaushalte
+<sup>1</sup> Die zentrale Statistikstelle definiert die statistischen Raumeinheiten und führt sie je Gebäude im GWR-BS.
+
+### 2.2 Inhalt des GWR-BS
 
 #### § 9
 
-**…**
+**Im GWR-BS geführte Objekte**
 
-## VII. Gebäude- und Wohnungsregister
+<sup>1</sup> Im GWR-BS werden folgende Objekte geführt:
+
+- a) Bauprojekte;
+- b) alle Gebäude sowie ihre Eingänge (einschliesslich der Adressen) und
+- c) bei Gebäuden mit Wohnnutzung mindestens die dazugehörigen Raumgruppen des Typs Wohnung und die bewohnten Raumgruppen des Typs separater Wohnraum;
+- d) weitere gebaute Objekte und weitere Arten von Bauprojekten, insbesondere die gemäss der Verordnung über die Durchführung von statistischen Erhebungen des Bundes (Statistikerhebungsverordnung) vom 30. Juni 1993 (Liste der statistischen Erhebungen Ziffern 41 und 42) an den Bund zu liefernden Angaben.
+
+<sup>2</sup> Es gelten die Ausnahmen gemäss Art. 7 Abs. 3 und 4 VGWR.
+
+<sup>3</sup> Bauprojekte und geplante Gebäude sowie ihre Eingänge und ihre Wohnungen müssen spätestens beim Erteilen der Baubewilligung geführt werden.
 
 #### § 10
 
-**1. Führung von Wohnungsnummern**
+**Im GWR-BS geführte Informationen**
 
-<sup>1</sup> Die Wohnungsnummern werden im Gebäude- und Wohnungsregister des Kantons Basel-Stadt zusammen mit den Merkmalen gemäss der Verordnung über das eidgenössische Gebäude und Wohnungsregister vom 31. Mai 2000 geführt.
+<sup>1</sup> Zu jedem Bauprojekt werden die in Art. 8 Abs. 1 VGWR genannten Informationen geführt.
+
+<sup>2</sup> Zusätzlich zu den Informationen gemäss Art. 8 Abs. 2 VGWR werden zu jedem Gebäude folgende Informationen geführt:
+
+- a) Informationen zu den Gebäuden gemäss Versicherungsobjekt Gebäudeversicherung Basel-Stadt;
+- b) Bruttogeschossfläche.
+
+<sup>3</sup> Zusätzlich zu den gemäss Art. 8 Abs. 3 VGWR zu jeder Wohnung zu führenden Informationen werden im GWR-BS zu jeder Raumgruppe folgende zusätzliche Informationen geführt:
+
+- a) Hilfsmerkmale zur Festlegung der Nutzungsart der Wohnung;
+- b) Belegungsart;
+- c) Wohnungsidentifikatoren von Dritten.
+
+<sup>4</sup> Eine Information nach den Abs. 1-3 kann in Merkmale unterteilt werden.
+
+<sup>5</sup> Die Merkmale und Ausprägungen, Nomenklaturen und Kodierungen der gemäss Art. 8 Abs. 1-3 VGWR zu führenden Informationen richten sich nach dem Merkmalskatalog des Bundesamtes für Statistik gemäss Art. 3 Abs. 1 VGWR.
+
+<sup>6</sup> Die Merkmale und Ausprägungen, Nomenklaturen und Kodierungen der zusätzlichen Informationen in den Abs. 1-3 richten sich nach dem Merkmalskatalog der zentralen Statistikstelle gemäss § 5 Abs. 2 dieser Verordnung.
+
+<sup>7</sup> Die zentrale Statistikstelle kann für die Führung des GWR-BS oder für statistische Auswertungen weitere Merkmale, insbesondere technische Felder oder Hilfsmerkmale, ins GWR-BS aufnehmen.
+
+### 2.3 Datengewinnung und Datenquellen
 
 #### § 11
 
-**2. Wohnungsnummern**
+**Meldepflicht**
 
-<sup>1</sup> Einfamilienhäusern wird automatisch die Wohnungsnummer 1 zugeteilt. Bei anderen Gebäuden erfolgt die Vergabe der Wohnungsnummer gemäss der Richtlinie zur Wohnungsnummerierung des Bundesamts für Statistik.
+<sup>1</sup> Daten aus Registern des Kantons und der Gemeinden sind der registerführenden Stelle sowie von ihr beauftragten Dritten für die Nachführung des GWR-BS zur Verfügung zu stellen.
+
+<sup>2</sup> Öffentliche Organe und Private, insbesondere die in § 6 Abs. 2 genannten, sind verpflichtet, der registerführenden Stelle sowie von ihr beauftragten Dritten die Informationen nach § 10 zu liefern.
+
+<sup>3</sup> Die Lieferung der Daten gemäss Abs. 1 und 2 erfolgt unentgeltlich und innerhalb von angemessenen Fristen.
 
 #### § 12
 
-**3. Nutzung der Wohnungsnummern durch die Einwohnerkontrolle**
+**Datenquellen**
 
-<sup>1</sup> Die Einwohnerkontrolle nutzt die Wohnungsnummern zwecks Zuweisung des eidgenössischen Wohnungsidentifikators (EWID) zu Einwohnerinnen und Einwohnern.
+<sup>1</sup> Für die Nachführung der im GWR-BS geführten Objekte und Informationen können insbesondere die Datenquellen gemäss Art. 9 Abs. 2 VGWR verwendet werden.
 
-<sup>2</sup> Die Nutzung der Wohnungsnummern und die Feststellung, welche Einwohnerinnen und Einwohner in welcher Wohnung wohnen, unterliegen den Bestimmungen der Verordnung über den kantonalen Datenmarkt vom 12. Juli 2005.
+<sup>2</sup> Zur Plausibilisierung des GWR-BS können zusätzlich zu den Datenquellen gemäss Art. 9 Abs. 2 lit. h VGWR auch die Angaben aus den Befragungen gemäss § 7 der Verordnung über die öffentliche Statistik (Statistikverordnung) vom 12. Mai 2015 verwendet werden. Im Rahmen der Befragungen ist darauf hinzuweisen, dass die Daten für die Plausibilisierung des GWR-BS verwendet werden können.
+
+### 2.4 Verwendung und Bekanntgabe von Daten aus dem GWR-BS
 
 #### § 13
 
-**4. Pflicht zur Führung und Bekanntgabe der Wohnungsnummern**
+**Dateneignerschaft**
 
-<sup>1</sup> Eigentümerinnen und Eigentümer sowie Liegenschaftsverwaltungen sind verpflichtet, Wohnungsnummern in Miet- und Kaufverträgen aufzuführen.
+<sup>1</sup> Die zentrale Statistikstelle ist im Sinne von § 6 Abs. 1 des Gesetzes über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG) vom 9. Juni 2010 verantwortlich für die im GWR-BS enthaltenen Daten.
 
-<sup>2</sup> Die zuständige Amtsstelle oder von ihr beauftragte Dritte sind berechtigt, bei Bedarf von den Industriellen Werken Basel und anderen registerführenden Stellen, von Eigentümerinnen und Eigentümern sowie von Liegenschaftsverwaltungen Auskunft zu Wohnungsnummern oder weitere Angaben im Zusammenhang mit dem eidgenössischen Gebäude- und Wohnungsregister zu verlangen. Diese sind unentgeltlich innert gesetzter Frist zu erteilen.
+<sup>2</sup> Sie entscheidet über die Bekanntgabe und Verwendung dieser Daten nach Massgabe der Bestimmungen dieser Verordnung und deren Anhang sowie der Berechtigungsstufen gemäss Anhang 1 VGWR.
 
 #### § 14
 
-**5. Erstmalige Zuteilung der Wohnungsnummern an bestehende Wohnungen**
+**Verwendung der Daten zu statistischen Zwecken durch die zentrale Statistikstelle**
 
-<sup>1</sup> Das Finanzdepartement gibt in einem mit der Schweizerischen Post zu schliessenden Vertrag dieser den Auftrag,
+<sup>1</sup> Das GWR-BS dient der zentralen Statistikstelle als Grundlage für Teile der kantonalen öffentlichen Statistik gemäss § 5 Abs. 2 StatG.
 
-– den bestehenden Wohnungen eine Wohnungsnummer zuzuteilen und
+<sup>2</sup> Insbesondere kann die zentrale Statistikstelle auf der Grundlage des GWR-BS:
 
-– festzuhalten, welche Einwohnerinnen und Einwohner in welcher Wohnung wohnen.
-
-<sup>2</sup> Das Statistische Amt ist berechtigt, der Schweizerischen Post zur Erfüllung ihres Auftrages Gebäude- und Wohnungsdaten zur weiteren Bearbeitung zu übergeben.
-
-<sup>3</sup> Die Bewohnerinnen und Bewohner und die Eigentümerinnen und Eigentümer von Wohnungen sowie die Liegenschaftsverwaltungen sind verpflichtet, der Schweizerischen Post zur Erfüllung ihres Auftrages die erforderlichen Auskünfte zu erteilen.
-
-<sup>4</sup> Die Eigentümerinnen und die Eigentümer oder die Liegenschaftsverwaltungen erstellen pro Gebäude eine Liste mit Angaben zu den einzelnen Wohnungen und den Namen der jeweiligen Wohnungsinhaberinnen und Wohnungsinhabern sowie allfällig bekannten weiteren Mitbewohnerinnen und -bewohnern; stellen die Wohnungs- und Bewohnerlisten den Behörden oder beauftragten Dritten im vorgeschriebenen Format zu.
-
-<sup>5</sup> Die Mitarbeiterinnen und Mitarbeiter der Schweizerischen Post sind berechtigt, Gebäude zur Erfüllung ihres Auftrages zu begehen.
+- a) statistische Auswertungen vornehmen;
+- b) Stichproben für kantonale Befragungen gemäss § 7 Abs. 2 der Statistikverordnung ziehen.
 
 #### § 15
 
-<sup>1</sup> Soweit die Schweizerische Post den ihr gemäss § 14 Abs. 1 dieser Verordnung erteilten Auftrag erfüllt, untersteht sie den Bestimmungen des kantonalen Gesetzes über den Schutz von Personendaten (Datenschutzgesetz) vom 18. März 1992.
+**Verwendung der Daten des GWR- BS zur Erfüllung gesetzlicher Aufgaben und für Forschung**
 
-<sup>2</sup> Die Schweizerische Post darf die ihr in Erfüllung ihres Auftrages zugänglich gemachten und selbst erhobenen Daten nur im Rahmen der Erbringung ihres Leistungsauftrages zur Registerharmonisierung verwenden.
+<sup>1</sup> Die zentrale Statistikstelle stellt öffentlichen Organen zum Zweck der Planung sowie für die Erfüllung weiterer gesetzlicher Aufgaben notwendige Daten der Berechtigungsstufen A und B gemäss Anhang zur Verfügung, soweit sie nicht gemäss der Verordnung über den Datenmarkt (Datenmarktverordnung, DMV) vom 4. Juli 2017 zur Verfügung gestellt werden müssen.
+
+<sup>2</sup> Sie stellt Forschungsinstitutionen zum Zwecke der Forschung Daten der Berechtigungsstufen A und B gemäss Anhang zur Verfügung.
+
+<sup>3</sup> Für die Nutzung der Daten ist ein begründetes Gesuch an die zentrale Statistikstelle zu richten. Die Nutzungsbedingungen werden in einem Datennutzungsvertrag geregelt.
+
+<sup>4</sup> Daten der Berechtigungsstufe B gemäss Anhang müssen nach Abschluss der Bearbeitung vernichtet werden.
+
+<sup>5</sup> Daten der Berechtigungsstufe C gemäss Anhang sind für Dritte nicht zugänglich.
 
 #### § 16
 
-**6. Zuteilung der Wohnungsnummern in neu- und umgebauten Wohnungen**
+**Gebühren**
 
-<sup>1</sup> In neu- oder umgebauten Gebäuden versieht die Bauherrschaft oder die von ihr mit dem Bau beauftragte Person die Wohnungen entsprechend der Richtlinie zur Wohnungsnummerierung des Bundesamts für Statistik mit einer Wohnungsnummer.
+<sup>1</sup> Die Gebühren richten sich nach der Verordnung über die Erhebung von Gebühren der zentralen Statistikstelle (Gebührenverordnung) vom 12. Mai 2015.
 
-<sup>2</sup> Die Wohnungsnummern werden der zuständigen Stelle zusammen mit dem für das eidgenössische Gebäude- und Wohnungsregister benötigen Angaben in dem dafür vorgesehenen Zusatz-Formular zum Baugesuch gemeldet.
-
-<sup>3</sup> Die Einhaltung der Richtlinie zur Wohnungsnummerierung des Bundesamts für Statistik wird von der zuständigen Amtsstelle geprüft.
-
-<sup>4</sup> Die Mitarbeiter und Mitarbeiterinnen der zuständigen Amtsstelle oder von ihr beauftragte Dritte sind befugt, ein Gebäude zu begehen, sofern dies für die Vergabe oder Überprüfung der Wohnungsnummer notwendig ist.
-
-<sup>5</sup> Wohnungsnummern dürfen, einmal vergeben, nur mit Zustimmung der zuständigen Amtsstelle verändert werden.
-
-## VIII. Systematische Nutzung der neuen AHV-Versichertennummer als Personenidentifikator
+## 3. Kantonales Gebäudemodell
 
 #### § 17
 
-**…**
+**Zuständigkeiten**
 
-## IX. Schlussbestimmung
+<sup>1</sup> Die Konferenz für Organisation und Informatik (KOI) beschliesst den Inhalt des kantonalen Gebäudemodells.
+
+<sup>2</sup> Das Grundbuch- und Vermessungsamt des Bau- und Verkehrsdepartements ist als zuständige Stelle für die Koordination und Weiterentwicklung des kantonalen Gebäudemodells zuständig.
 
 #### § 18
 
-<sup>1</sup> Diese Verordnung ist zu publizieren. Sie wird am 1. Januar 2009 wirksam.
+**Inhalt**
 
-KB 31.12.2008
+<sup>1</sup> Die KOI bestimmt die inhaltliche und organisatorische Struktur des kantonalen Gebäudemodells, kann neue Inhalte aufnehmen lassen und deren Konkretisierung der zuständigen Stelle gemäss § 17 Abs. 2 delegieren.
+
+<sup>2</sup> Das kantonale Gebäudemodell beinhaltet alle im GWR-BS nach Massgabe der VGWR geführten Informationen.
+
+#### § 19
+
+**Verfahren**
+
+<sup>1</sup> Die KOI beschliesst auf Antrag der zuständigen Stelle gemäss § 17 Abs. 2 den Inhalt des kantonalen Gebäudemodells nach Massgabe von § 18 Abs. 1 und 2.
+
+<sup>2</sup> Die zuständige Stelle gemäss § 17 Abs. 2 stellt den Antrag nach Anhörung der anderen involvierten Stellen, insbesondere der Zentralen Informatikdienste, des Statistischen Amts und des Bau- und Gastgewerbeinspektorats.
+
+#### § 20
+
+**Wirkung**
+
+<sup>1</sup> Sämtliche Objekte, Informationen und Merkmale, welche in Zusammenhang mit den Inhalten des Gebäudemodells von einem öffentlichen Organ im Rahmen seiner gesetzlichen Aufgabe geführt werden, richten sich nach den Vorgaben des kantonalen Gebäudemodells.
+
+*Schlussbestimmung*
+
+Diese Verordnung ist zu publizieren; sie tritt am fünften Tag nach der Publikation in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung über die Einführung des Bundesgesetzes über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister im Kanton Basel-Stadt (Registerharmonisierungsverordnung, EV RHG) vom 23. Dezember 2008 aufgehoben.
+
+KB 28.08.2021
