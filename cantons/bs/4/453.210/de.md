@@ -4,13 +4,12 @@ number: "453.210"
 title: Verordnung über die öffentliche Statistik
 short: Statistikverordnung
 language: de
-version: 2015-12-31
-valid_until: 2021-09-01
-version_adopted: 2015-12-22
+version: 2021-09-02
+version_adopted: 2021-08-24
 adopted: 2015-05-12
 in_force: 2015-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/453.210"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5230/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5360/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Statistikverordnung | Dokumentation und Register
 
 (Statistikverordnung)
 
-Vom 12. Mai 2015 (Stand 31. Dezember 2015)
+Vom 12. Mai 2015 (Stand 2. September 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -59,6 +58,8 @@ beschliesst:
 <sup>1</sup> Die zentrale Statistikstelle ist in der Regel für die Durchführung und Koordination von Erhebungen des Bundes zuständig, an denen der Kanton für das Kantonsgebiet mitzuwirken hat. Dies gilt auch für kantonale Ergänzungen von Erhebungen des Bundes.
 
 <sup>2</sup> Ist nicht die zentrale Statistikstelle für die Durchführung oder Koordination einer Bundeserhebung zuständig, informiert das zuständige öffentliche Organ die zentrale Statistikstelle.
+
+<sup>3</sup> Die zentrale Statistikstelle ist die kantonal zuständige Stelle gemäss Art. 9 des Bundesgesetzes über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister (Registerharmonisierungsgesetz, RHG) vom 23. Juni 2006.
 
 #### § 4
 
@@ -189,7 +190,7 @@ beschliesst:
 
 <sup>3</sup> Spätestens nach Ablauf einer Frist von 12 Jahren nach der Erstellung eines Statistikproduktes werden die zugrundeliegenden Rohdaten aus den Beständen der zentralen Statistikstelle gelöscht.
 
-<sup>4</sup> Spätestens nach Ablauf einer Frist von 30 Jahren nach Erstellung eines Statistikproduktes werden die Indikatoren der zugrundeliegenden Basisdaten aus den Beständen der zentralen Statistikstelle gelöscht.
+<sup>4</sup> Spätestens nach Ablauf einer Frist von 30 Jahren nach Erstellung eines Statistikproduktes werden die Identifikatoren der zugrundeliegenden Basisdaten aus den Beständen der zentralen Statistikstelle gelöscht.
 
 <sup>5</sup> In begründeten Einzelfällen kann die Vorsteherin oder der Vorsteher des Präsidialdepartements nach Anhörung der oder des Datenschutzbeauftragten des Kantons Basel-Stadt die in Abs. 3 und 4 genannten Fristen verlängern.
 
