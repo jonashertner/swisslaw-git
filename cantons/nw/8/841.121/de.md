@@ -4,12 +4,12 @@ number: "841.121"
 title: Gegenrechtserklärung der Kantonsregierungen von Luzern und Nidwalden über die Anerkennung der Jagdfähigkeitsausweise
 language: de
 version: 1967-01-01
-corrected: 2021-06-14
+corrected: 2021-09-03
 version_adopted: 1966-11-21
 adopted: 1966-11-21
 in_force: 1967-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/841.121"
-pdf: "https://gesetze.nw.ch/api/de/versions/377/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/479/pdf_file"
 text: pdf
 ---
 
@@ -17,7 +17,7 @@ text: pdf
 
 # Gegenrechtserklärung der Kantonsregierungen von Luzern und Nidwalden über die Anerkennung der Jagdfähigkeitsausweise
 
-vom 13. Oktober / 21. November 1996[^t-1]
+vom 13. Oktober / 21. November 1966[^t-1]
 
 1.
 
@@ -35,8 +35,4 @@ Die Regierungen der Kantone Luzern und Nidwalden stimmen der gegenseitigen Anerk
 
 Die vorliegende Gegenrechtserklärung tritt mit dem 1. Januar 1967 in Rechtskraft.
 
-**1**
-
-Stand: 1. Juli 2008
-
-[^t-1]: A 1966, 1209
+[^t-1]: A 1966, 1209 Stand: 1. Juli 2008 1
