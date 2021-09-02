@@ -4,32 +4,24 @@ number: "867.121"
 title: Statuten des Schweizerischen Pools für Erdbebenversicherung
 language: de
 version: 1979-01-01
-valid_until: 2023-05-17
+corrected: 2021-09-03
 version_adopted: 1978-12-05
 adopted: 1978-12-05
 in_force: 1979-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/867.121"
-pdf: "https://gesetze.nw.ch/api/de/versions/550/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/410/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Statuten des Schweizerischen Pools für Erdbebenversicherung
 
-vom 05.12.1978 (Stand 01.01.1979)
+vom 5. Dezember 1978[^t-1]
 
-#### Ziff. 1
+- 1\. Name, Rechtsform und Sitz Der «Schweizerische Pool für Erdbebenversicherung», im folgenden «Pool» genannt, ist eine einfache Gesellschaft im Sinne von Artikel 530 OR[^t-2] mit Sitz in Bern.
 
-**Name, Rechtsform und Sitz[^Ziff1-1]**
-
-<sup>1</sup> Der «Schweizerische Pool für Erdbebenversicherung», im folgenden «Pool» genannt, ist eine einfache Gesellschaft im Sinne von Artikel 530 OR[^Ziff1-2] mit Sitz in Bern.
-
-[^Ziff1-1]: Massgebend für die Auslegung ist der deutsche Text.
-[^Ziff1-2]: SR 220
-
-#### Ziff. 2
-
-**Beitritt**
+- 2\. Beitritt
 
 <sup>1</sup> Beitrittsberechtigt sind öffentlich-rechtliche und private Versicherer sowie Dritte, die an der Erdbebenversicherung interessiert sind.
 
@@ -39,9 +31,7 @@ vom 05.12.1978 (Stand 01.01.1979)
 
 <sup>4</sup> Aus wichtigen Gründen kann ein Beitrittsgesuch abgelehnt werden. Ein derartiger Entscheid bedarf der Genehmigung der Poolversammlung.
 
-#### Ziff. 3
-
-**Versicherungsdeckung**
+- 3\. Versicherungsdeckung
 
 <sup>1</sup> Der Pool ist entschädigungspflichtig für Trümmer-, Feuer- und Explosionsschäden als Folge eines Erdbebens wenigstens der Stärke VII der MSK-Skala.
 
@@ -51,11 +41,9 @@ vom 05.12.1978 (Stand 01.01.1979)
 
 <sup>4</sup> Die Poolversammlung kann aus wichtigen Gründen Einschränkungen in der Versicherungsdeckung beschliessen. Derartige Beschlüsse dürfen nicht mit rückwirkender Geltung gefasst werden.
 
-#### Ziff. 4
+- 4\. Jährliche Einlagen
 
-**Jährliche Einlagen**
-
-<sup>1</sup> Die jährliche Einlage je Mitglied und Sparte hat wenigstens 10'000 Franken oder ein Mehrfaches davon zu betragen.
+<sup>1</sup> Die jährliche Einlage je Mitglied und Sparte hat wenigstens 10 000 Franken oder ein Mehrfaches davon zu betragen.
 
 <sup>2</sup> Jedes Mitglied ist berechtigt, seine Einlage jährlich neu festzusetzen. Ohne anderslautenden Bericht bis 31. Dezember wird für das nächste Geschäftsjahr angenommen, die Einlage bleibe die gleiche wie im laufenden Jahr. Die jährliche Einlage ist bis spätestens 20. Januar zu entrichten.
 
@@ -67,17 +55,13 @@ vom 05.12.1978 (Stand 01.01.1979)
 
 <sup>6</sup> Die Anlage der Einlagen obliegt der Poolleitung. Sie ist verpflichtet, die Einlagen sicher anzulegen. Über die Anlagen ist der Poolversammlung jährlich Bericht zu erstatten.
 
-#### Ziff. 5
-
-**Rückversicherung**
+- 5\. Rückversicherung
 
 <sup>1</sup> Die Poolleitung ist ermächtigt, Rückversicherungsverträge abzuschliessen.
 
 <sup>2</sup> Die Prämien dürfen einen Drittel der mittleren Einlagen der letzten drei Jahre nicht übersteigen. Die Poolversammlung ist berechtigt, aus wichtigen Gründen höhere Ausgaben für die Prämien zu beschliessen.
 
-#### Ziff. 6
-
-**Schadenfall**
+- 6\. Schadenfall
 
 <sup>1</sup> Im Schadenfall ist die Poolleitung vom Poolmitglied unverzüglich zu benachrichtigen.
 
@@ -93,19 +77,15 @@ vom 05.12.1978 (Stand 01.01.1979)
 
 <sup>7</sup> Bei verspätet oder nach der Behebung eingereichten Schadenanzeigen ist die Poolleitung berechtigt, die Entschädigung angemessen zu kürzen oder den Schaden abzulehnen.
 
-#### Ziff. 7
+- 7\. Allgemeiner Selbstbehalt
 
-**Allgemeiner Selbstbehalt**
-
-<sup>1</sup> Jeder Versicherte eines Poolmitgliedes hat im Schadenfall für jedes versicherte Objekt einen Selbstbehalt von zehn Prozent, mindestens 5'000 Franken, zu übernehmen. Die Poolversammlung ist ermächtigt, den allgemeinen Selbstbehalt zu erhöhen.
+<sup>1</sup> Jeder Versicherte eines Poolmitgliedes hat im Schadenfall für jedes versicherte Objekt einen Selbstbehalt von zehn Prozent, mindestens 5000 Franken, zu übernehmen. Die Poolversammlung ist ermächtigt, den allgemeinen Selbstbehalt zu erhöhen.
 
 <sup>2</sup> Der Selbstbehalt gemäss Ziffer 7 Abs. 1 ersetzt bei Erdbebenschäden anderslautende gesetzliche oder vertragliche Bestimmungen über den allgemeinen Selbstbehalt. Individuell vereinbarte Selbstbehalte in einzelnen Versicherungsverträgen sind vor dem allgemeinen Selbstbehalt gemäss Ziffer 7 Abs. 1 in Abzug zu bringen.
 
 <sup>3</sup> Sind nur wenige Erdbebenschäden entstanden und sind die Entschädigungszahlungen verhältnismässig gering, ist jedes Mitglied berechtigt, am Ende des Schadenjahres zu beschliessen, die Schäden zulasten seiner Einlage voll zu vergüten. Allfällige Verpflichtungen des Mitgliedes dem Pool gegenüber sind vorab zu gewährleisten.
 
-#### Ziff. 8
-
-**Zahlung der Entschädigung**
+- 8\. Zahlung der Entschädigung
 
 <sup>1</sup> Die Schadenzahlungen werden frühestens am Ende des Kalenderjahres, in dem sich das Beben ereignet hat, fällig.
 
@@ -123,9 +103,7 @@ vom 05.12.1978 (Stand 01.01.1979)
 
 <sup>8</sup> Die Poolversammlung entscheidet, ob Solidaritätszahlungen zurückzuerstatten sind. Gegebenenfalls entscheidet sie über die Höhe der Rückzahlungen und über die Rückerstattungsfrist. Dabei hat sie die Finanzkraft der vom Schaden betroffenen Mitglieder angemessen zu berücksichtigen.
 
-#### Ziff. 9
-
-**Austritt**
+- 9\. Austritt
 
 <sup>1</sup> Jedes Poolmitglied kann auf das Ende eines Kalenderjahres aus dem Pool austreten. Ein Austritt bedeutet keine Kündigung nach Artikel 545 Absatz 1 Ziffer 6 OR.
 
@@ -135,11 +113,9 @@ vom 05.12.1978 (Stand 01.01.1979)
 
 <sup>4</sup> Ein Austritt entbindet nicht von der Rückerstattungspflicht für bezogene Solidaritätsleistungen oder andern Verbindlichkeiten, soweit sie während der Dauer der Zugehörigkeit zum Pool entstanden sind.
 
-## 1 Organisation der Pools
+Organisation der Pools
 
-#### Ziff. 10
-
-**Poolversammlung**
+- 10\. Poolversammlung
 
 <sup>1</sup> Teilnahmeberechtigt an der Poolversammlung sind alle Poolmitglieder vom Zeitpunkt der Aufnahme an.
 
@@ -149,18 +125,29 @@ vom 05.12.1978 (Stand 01.01.1979)
 
 <sup>4</sup> Die Poolversammlung:
 
-- 1\. hat die Zahl der Mitglieder der Poolleitung zu bestimmen. Sie wählt deren Mitglieder und den Präsidenten;
-- 2\. umschreibt die Aufgaben der Geschäftsstelle und wählt die Geschäfts- und Kontrollstelle für drei Jahre;
-- 3\. hat die Jahresrechnung und den Geschäftsbericht zu genehmigen. Mit deren Genehmigung erteilt sie der Poolleitung sowie der Geschäftsstelle Décharge;
-- 4\. erlässt ein Organisationsreglement und die erforderlichen Ausführungsbeschlüsse zu diesen Statuten;
-- 5\. hat eine Beitrittsverweigerung der Poolleitung zu genehmigen (Ziff. 2., Abs. 4);
-- 6\. hat vom jährlichen Bericht über die Anlage der Poolmittel Kenntnis zu nehmen (Ziff. 4., Abs. 6);
-- 7\. hat höhere Ausgaben für die Rückversicherung zu genehmigen (Ziff. 5., Abs. 2);
-- 8\. hat eine Erhöhung des allgemeinen Selbstbehalts zu genehmigen (Ziff. 7., Abs. 1);
-- 9\. hat eine Änderung der Höhe der Pflichtreserve zu beschliessen (Ziff. 8., Abs. 5);
-- 10\. hat über die Kürzung der Entschädigungen im Schadenfall und über deren Höhe zu entscheiden (Ziff. 8., Abs. 7);
-- 11\. hat die Höhe und die Frist für die Rückerstattung von Solidaritätszahlungen zu genehmigen (Ziff. 8., Abs. 8);
-- 12\. beschliesst Statutenänderungen und entscheidet über eine Aufhebung des Pools.
+hat die Zahl der Mitglieder der Poolleitung zu bestimmen. Sie wählt deren Mitglieder und den Präsidenten;
+
+umschreibt die Aufgaben der Geschäftsstelle und wählt die Geschäfts- und Kontrollstelle für drei Jahre;
+
+hat die Jahresrechnung und den Geschäftsbericht zu genehmigen. Mit deren Genehmigung erteilt sie der Poolleitung sowie der Geschäftsstelle Décharge;
+
+erlässt ein Organisationsreglement und die erforderlichen Ausführungsbeschlüsse zu diesen Statuten;
+
+hat eine Beitrittsverweigerung der Poolleitung zu genehmigen (Ziff. 2., Abs. 4);
+
+hat vom jährlichen Bericht über die Anlage der Poolmittel Kenntnis zu nehmen (Ziff. 4., Abs. 6);
+
+hat höhere Ausgaben für die Rückversicherung zu genehmigen (Ziff. 5., Abs. 2);
+
+hat eine Erhöhung des allgemeinen Selbstbehalts zu genehmigen (Ziff. 7., Abs. 1);
+
+hat eine Änderung der Höhe der Pflichtreserve zu beschliessen (Ziff. 8., Abs. 5);
+
+hat über die Kürzung der Entschädigungen im Schadenfall und über deren Höhe zu entscheiden (Ziff. 8., Abs. 7);
+
+hat die Höhe und die Frist für die Rückerstattung von Solidaritätszahlungen zu genehmigen (Ziff. 8., Abs. 8);
+
+beschliesst Statutenänderungen und entscheidet über eine Aufhebung des Pools.
 
 <sup>5</sup> Jährlich ist zu einer ordentlichen Poolversammlung einzuladen; diese hat spätestens Ende September stattzufinden.
 
@@ -172,21 +159,19 @@ vom 05.12.1978 (Stand 01.01.1979)
 
 <sup>9</sup> Zu einer ausserordentlichen Poolversammlung ist einzuladen, wenn zwei Mitglieder das verlangen.
 
-<sup>10</sup> Ein Mitglied kann sich in der Poolversammlung durch ein anderes vertreten lassen. Kein Mitglied darf mehr als ein anderes vertreten.
+<sup>1</sup> 0 Ein Mitglied kann sich in der Poolversammlung durch ein anderes vertreten lassen. Kein Mitglied darf mehr als ein anderes vertreten.
 
-<sup>11</sup> Die Poolversammlung wird vom Präsidenten der Poolleitung geleitet.
+<sup>1</sup> 1 Die Poolversammlung wird vom Präsidenten der Poolleitung geleitet.
 
 <sup>12</sup> Über Sachgeschäfte wird grundsätzlich offen, bei Wahlen grundsätzlich geheim abgestimmt.
 
-<sup>13</sup> Für Beschlüsse genügt die einfache Mehrheit der abgegebenen Stimmen, bei Wahlen ist im ersten Wahlgang das absolute Mehr der abgegebenen Stimmen erforderlich, im zweiten Wahlgang gilt das relative Mehr.
+<sup>1</sup> 3 Für Beschlüsse genügt die einfache Mehrheit der abgegebenen Stimmen, bei Wahlen ist im ersten Wahlgang das absolute Mehr der abgegebenen Stimmen erforderlich, im zweiten Wahlgang gilt das relative Mehr.
 
-<sup>14</sup> Bei Beschlüssen gemäss Ziffer 10, Poolversammlung, Abs. 4, 8, 9, 11 und 12 ist eine Zweidrittelsmehrheit aller Poolmitglieder erforderlich.
+<sup>1</sup> 4 Bei Beschlüssen gemäss Ziffer 10, Poolversammlung, Abs. 4, 8, 9, 11 und 12 ist eine Zweidrittelsmehrheit aller Poolmitglieder erforderlich.
 
-<sup>15</sup> Im übrigen gelten die Bestimmungen über die Generalversammlung der Aktiengesellschaft sinngemäss.
+<sup>1</sup> 5 Im übrigen gelten die Bestimmungen über die Generalversammlung der Aktiengesellschaft sinngemäss.
 
-#### Ziff. 11
-
-**Poolleitung**
+- 11\. Poolleitung
 
 <sup>1</sup> Die Mitglieder der Poolleitung werden für eine Amtsdauer von vier Jahren gewählt. Sie sind wiederwählbar, längstens jedoch bis zu dem Zeitpunkt, da sie ihre Tätigkeit beim Mitglied aufgeben.
 
@@ -198,21 +183,25 @@ vom 05.12.1978 (Stand 01.01.1979)
 
 <sup>5</sup> Die Poolleitung:
 
-- 1\. hat die Interessen des Pools wahrzunehmen und ihn nach aussen zu vertreten;
-- 2\. hat über die Beitrittsgesuche und die Anlage der Poolmittel zu entscheiden (Ziff. 2., Abs. 3 und Ziff. 4., Abs. 6);
-- 3\. schliesst die erforderlichen Rückversicherungsverträge ab (Ziff. 5., Abs. 1);
-- 4\. nimmt Schadenmeldungen entgegen und genehmigt die Schadenschätzungen (Ziff. 6., Abs. 1 und Ziff. 6., Abs. 6);
-- 5\. entscheidet über die Entschädigungsleistung bei verspätet oder nach der Behebung eingereichten Schadenanzeigen (Ziff. 6., Abs. 7);
-- 6\. erstellt zuhanden der Mitglieder die erforderlichen Abrechnungen über die Versicherungsprämien, die Verwaltungskosten und andere Auslagen;
-- 7\. ist zuständig für alle Beschlüsse, die nicht der Poolversammlung vorbehalten sind.
+hat die Interessen des Pools wahrzunehmen und ihn nach aussen zu vertreten;
+
+hat über die Beitrittsgesuche und die Anlage der Poolmittel zu entscheiden (Ziff. 2., Abs. 3 und Ziff. 4., Abs. 6);
+
+schliesst die erforderlichen Rückversicherungsverträge ab (Ziff. 5., Abs. 1);
+
+nimmt Schadenmeldungen entgegen und genehmigt die Schadenschätzungen (Ziff. 6., Abs. 1 und Ziff. 6., Abs. 6);
+
+entscheidet über die Entschädigungsleistung bei verspätet oder nach der Behebung eingereichten Schadenanzeigen (Ziff. 6., Abs. 7);
+
+erstellt zuhanden der Mitglieder die erforderlichen Abrechnungen über die Versicherungsprämien, die Verwaltungskosten und andere Auslagen;
+
+ist zuständig für alle Beschlüsse, die nicht der Poolversammlung vorbehalten sind.
 
 <sup>6</sup> Die Poolleitung kann Ausschüsse bilden und ihnen bestimmte Befugnisse übertragen.
 
 <sup>7</sup> Die Poolleitung entscheidet über die Zeichnungsberechtigung ihrer Mitglieder und der Geschäftsstelle.
 
-#### Ziff. 12
-
-**Kontrollstelle**
+- 12\. Kontrollstelle
 
 <sup>1</sup> Die Kontrollstelle hat die Rechnungen zu prüfen. Die Bestimmungen der Artikel 728 bis 731 OR gelten sinngemäss.
 
@@ -220,18 +209,15 @@ vom 05.12.1978 (Stand 01.01.1979)
 
 <sup>3</sup> Artikel 541 OR bleibt in jedem Fall vorbehalten.
 
-#### Ziff. 13
-
-**Streitigkeiten**
+- 13\. Streitigkeiten
 
 <sup>1</sup> Streitigkeiten zwischen dem Poolmitglied und einem Versicherten beurteilen sich nach den gesetzlichen oder vertraglichen Bestimmungen wie alle andern Streitigkeiten aus dem betreffenden Versicherungsverhältnis.
 
 <sup>2</sup> Streitigkeiten zwischen dem Mitglied und dem Pool werden durch ein Schiedsgericht beurteilt. Jede Partei ernennt einen Schiedsrichter. Der Vorsitzende des dreiköpfigen Schiedsgerichts wird vom Präsidenten des Bundesgerichts bestimmt. Massgebend ist das eidgenössische und ergänzend das bernische Zivilprozessrecht. Gerichtsstand ist Bern.
 
-#### Ziff. 14
+- 14\. Gründung Diese Statuten wurden an der Gründungsversammlung vom 5. Dezember 1978 genehmigt. Der Pool wird auf 1. Januar 1979 auf unbestimmte Dauer gegründet.
 
-**Gründung**
+Massgebend für die Auslegung ist der deutsche Text.
 
-<sup>1</sup> Diese Statuten wurden an der Gründungsversammlung vom 5. Dezember 1978 genehmigt. Der Pool wird auf 1. Januar 1979 auf unbestimmte Dauer gegründet.
-
-A 1980, 1032
+[^t-1]: A 1980, 1032
+[^t-2]: SR 220
