@@ -5,62 +5,56 @@ title: Interkantonale Vereinbarung über den schweizerischen Hochschulbereich
 short: Hochschulkonkordat
 language: de
 version: 2015-02-03
+corrected: 2021-09-03
 version_adopted: 2013-06-20
 adopted: 2013-06-20
 in_force: 2015-02-03
 url: "https://gesetze.nw.ch/app/de/texts_of_law/315.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/516/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/450/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung über den schweizerischen Hochschulbereich
+# Interkantonale Vereinbarung über den schweizerischen Hochschulbereich (Hochschulkonkordat)
 
-(Hochschulkonkordat)
+vom 20. Juni 2013<sup>1</sup>
 
-vom 20.06.2013 (Stand 03.02.2015)
+Die Schweizerische Konferenz der kantonalen Erziehungsdirektoren(EDK), gestützt auf Artikel 63a Absätze 3 und 4 der Schweizerischen Bundesverfassung (BV), beschliesst:
 
-Die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK),
-
-gestützt auf Artikel 63a Absätze 3 und 4 der Schweizerischen Bundesverfassung (BV),
-
-beschliesst:[^ingress-1]
-
-[^ingress-1]: Vom Landrat genehmigt am 26. November 2014, A 2014, 2133; A 2015, 307
-
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Die Vereinbarung regelt die Zusammenarbeit der Vereinbarungskantone untereinander und mit dem Bund bei der Koordination im schweizerischen Hochschulbereich. Insbesondere schafft sie die Grundlage, um im Rahmen des Bundesgesetzes über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (HFKG)[^1-1] gemeinsam mit dem Bund
+Die Vereinbarung regelt die Zusammenarbeit der Vereinbarungskantone untereinander und mit dem Bund bei der Koordination im schweizerischen Hochschulbereich. Insbesondere schafft sie die Grundlage, um im Rahmen des Bundesgesetzes über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (HFKG)<sup>2</sup> gemeinsam mit dem Bund a. für die Koordination, die Qualität und die Wettbewerbsfähigkeit des gesamtschweizerischen Hochschulbereichs zu sorgen, namentlich durch die Einrichtung gemeinsamer Organe;
 
-- a) für die Koordination, die Qualität und die Wettbewerbsfähigkeit des gesamtschweizerischen Hochschulbereichs zu sorgen, namentlich durch die Einrichtung gemeinsamer Organe;
-- b) die Qualitätssicherung und die Akkreditierung zu regeln;
-- c) die Aufgabenteilung in besonders kostenintensiven Bereichen zu gewährleisten;
-- d) die in Artikel 3 HFKG definierten Ziele umzusetzen.
+- b. die Qualitätssicherung und die Akkreditierung zu regeln;
 
-[^1-1]: SR 414.20
+- c. die Aufgabenteilung in besonders kostenintensiven Bereichen zu gewährleisten;
+
+- d. die in Artikel 3 HFKG definierten Ziele umzusetzen.
 
 #### Art. 2
 
 **Vereinbarungskantone**
 
-<sup>1</sup> Die Vereinbarungskantone sind Mitglieder der Schweizerischen Hochschulkonferenz und auf diese Weise gemeinsam mit dem Bund an der Koordination im Hochschulbereich beteiligt.
+<sup>1</sup> Die Vereinbarungskantone sind Mitglieder der Schweizerischen-Hochschulkonferenz und auf diese Weise gemeinsam mit dem Bund an der Koordination im Hochschulbereich beteiligt.
 
-<sup>2</sup> Sie sind Hochschulkantone, sofern sie Träger einer anerkannten Hochschule oder einer Institution gemäss Artikel 3 Buchstabe d sind.
+<sup>2</sup> Sie sind Hochschulkantone, sofern sie Träger einer anerkannten-Hochschule oder einer Institution gemäss Artikel 3 Buchstabe d sind.
 
 #### Art. 3
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Vereinbarung ist anwendbar auf
+Die Vereinbarung ist anwendbar auf a. kantonale und interkantonale Universitäten,
 
-- a) kantonale und interkantonale Universitäten,
-- b) kantonale und interkantonale Fachhochschulen und
-- c) kantonale und interkantonale Pädagogische Hochschulen sowie
-- d) von den Kantonen geführte Institutionen der Hochschullehre im Bereich der Grundausbildung, die vom Bund als beitragsberechtigt anerkannt sind.
+- b. kantonale und interkantonale Fachhochschulen und
+
+- c. kantonale und interkantonale Pädagogische Hochschulen sowie
+
+- d. von den Kantonen geführte Institutionen der Hochschullehre im Bereich der Grundausbildung, die vom Bund als beitragsberechtigt anerkannt sind.
 
 #### Art. 4
 
@@ -72,7 +66,7 @@ beschliesst:[^ingress-1]
 
 <sup>3</sup> Wird die Zusammenarbeitsvereinbarung nicht abgeschlossen oder aufgehoben, ergreifen die Vereinbarungskantone die nötigen Massnahmen, um die Koordination ihrer Hochschulpolitik zu gewährleisten.
 
-## 2 Gemeinsame Organe
+### II. GEMEINSAME ORGANE
 
 #### Art. 5
 
@@ -84,8 +78,9 @@ beschliesst:[^ingress-1]
 
 <sup>3</sup> Im Weiteren bestehen folgende gemeinsame Organe:
 
-- a) die Rektorenkonferenz der schweizerischen Hochschulen;
-- b) der Schweizerische Akkreditierungsrat mit der Schweizerischen Agentur für Akkreditierung und Qualitätssicherung (Schweizerische Akkreditierungsagentur).
+- a. die Rektorenkonferenz der schweizerischen Hochschulen;
+
+- b. der Schweizerische Akkreditierungsrat mit der Schweizerischen Agentur für Akkreditierung und Qualitätssicherung (Schweizerische Akkreditierungsagentur).
 
 <sup>4</sup> Zuständigkeiten, Organisation und Beschlussverfahren der gemeinsamen Organe regeln das HFKG und die Zusammenarbeitsvereinbarung.
 
@@ -93,7 +88,7 @@ beschliesst:[^ingress-1]
 
 **Schweizerische Hochschulkonferenz**
 
-<sup>1</sup> Die Schweizerische Hochschulkonferenz ist das oberste hochschulpolitische Organ der Schweiz. Sie sorgt als Plenarversammlung oder als Hochschulrat im Rahmen der im HFKG definierten Zuständigkeiten und Verfahren für die Koordination im schweizerischen Hochschulbereich durch Bund und Kantone.
+<sup>1</sup> Die Schweizerische Hochschulkonferenz ist das oberste hochschulpolitische Organ der Schweiz. Sie sorgt als Plenarversammlung oder als Hochschulrat im Rahmen der im HFKG definierten Zuständigkeiten und Verfahren für die Koordination im schweizerischen Hochschul-bereich durch Bund und Kantone.
 
 <sup>2</sup> Die Erziehungsdirektorinnen und Erziehungsdirektoren der Vereinbarungskantone sind Mitglieder der Plenarversammlung der Schweizerischen Hochschulkonferenz.
 
@@ -103,9 +98,11 @@ beschliesst:[^ingress-1]
 
 #### Art. 7
 
-**Gewichtung der Stimmen bei Beschlüssen des Hochschulrats**
+**Gewichtung der Stimmen bei Beschlüssen des**
 
-<sup>1</sup> Für die Gewichtung der Stimmen bei Beschlüssen des Hochschulrats gemäss Artikel 17 HFKG erhält jede kantonale Vertretung im Hochschulrat eine Anzahl Punkte proportional zur Anzahl immatrikulierter Studierender, die auf dem Gebiet des Kantons an den kantonalen Hochschulen und an interkantonalen Hochschulen oder deren Teilschulen studieren. Die Mitglieder des Hochschulrats erhalten im Minimum einen Punkt. Die Zuteilung der Punkte ist im Anhang dargestellt.
+### Hochschulrats
+
+Für die Gewichtung der Stimmen bei Beschlüssen des Hochschulrats gemäss Artikel 17 HFKG erhält jede kantonale Vertretung im Hochschulrat eine Anzahl Punkte proportional zur Anzahl immatrikulierter Studierender, die auf dem Gebiet des Kantons an den kantonalen Hochschulen und an interkantonalen Hochschulen oder deren Teilschulen studieren. Die Mitglieder des Hochschulrats erhalten im Minimum einen Punkt. Die Zuteilung der Punkte ist im Anhang dargestellt.
 
 #### Art. 8
 
@@ -115,19 +112,19 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Der Beitrag gemäss Absatz 1 wird von den Vereinbarungskantonen nach folgendem Verteilschlüssel getragen:
 
-- a) eine Hälfte entsprechend ihrer Einwohnerzahl;
-- b) eine Hälfte von den Hochschulträgern entsprechend der Zahl der von ihnen vertretenen Studierenden.
+- a. eine Hälfte entsprechend ihrer Einwohnerzahl;
 
-<sup>3</sup> Die Hochschulträger beteiligen sich entsprechend der Zahl der von ihnen vertretenen Studierenden zu höchstens 50 Prozent
+- b. eine Hälfte von den Hochschulträgern entsprechend der Zahl der von ihnen vertretenen Studierenden.
 
-- a) an den Kosten der Rektorenkonferenz, soweit sich diese aus der Erfüllung der Aufgaben gemäss HFKG ergeben,
-- b) und an den Kosten des Schweizerischen Akkreditierungsrats und dessen Akkreditierungsagentur, soweit diese nicht durch Gebühren gemäss Artikel 35 Absatz 1 HFKG gedeckt sind.
+<sup>3</sup> Die Hochschulträger beteiligen sich entsprechend der Zahl der von ihnen vertretenen Studierenden zu höchstens 50 Prozent a. an den Kosten der Rektorenkonferenz, soweit sich diese aus der Erfüllung der Aufgaben gemäss HFKG ergeben,
+
+- b. und an den Kosten des Schweizerischen Akkreditierungsrats und dessen Akkreditierungsagentur, soweit diese nicht durch Gebühren gemäss Artikel 35 Absatz 1 HFKG gedeckt sind.
 
 <sup>4</sup> Trägerschaften mit mehreren Kantonen regeln selbstständig, wie diese Kosten unter den beteiligten Kantonen aufgeteilt werden.
 
 <sup>5</sup> Die Zusammenarbeitsvereinbarung enthält die Grundsätze, nach denen die Schweizerische Hochschulkonferenz die Tragung der Kosten der Rektorenkonferenz regelt.
 
-## 3 Konferenz der Vereinbarungskantone
+### III. KONFERENZ DER VEREINBARUNGSKANTONE
 
 #### Art. 9
 
@@ -145,18 +142,15 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Sie schlägt der Plenarversammlung der Schweizerischen Hochschulkonferenz zwei Erziehungsdirektorinnen oder Erziehungsdirektoren zur Wahl als Vizepräsidentin oder als Vizepräsidenten vor.
 
-## 4 Interkantonale Finanzierung der Hochschulen
+### IV. INTERKANTONALE FINANZIERUNG DER HOCHSCHULEN
 
 #### Art. 11
 
 **Interkantonale Hochschulbeiträge**
 
-<sup>1</sup> Die interkantonalen Hochschulbeiträge werden auf der Grundlage der Interkantonalen Universitätsvereinbarung (IUV) vom 20. Februar 1997[^11-1] und der Interkantonalen Fachhochschulvereinbarung (FHV) vom 12. Juli 2003[^11-2] ausgerichtet.
+Die interkantonalen Hochschulbeiträge werden auf der Grundlage der Interkantonalen Universitätsvereinbarung (IUV) vom 20. Februar 1997<sup>3</sup> und der Interkantonalen Fachhochschulvereinbarung (FHV) vom 12. Juli 2003<sup>4</sup> ausgerichtet.
 
-[^11-1]: NG 315.2
-[^11-2]: NG 317.21
-
-## 5 Titelschutz
+### V. TITELSCHUTZ
 
 #### Art. 12
 
@@ -166,7 +160,7 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Wer einen Titel führt, der auf Basis kantonalen oder interkantonalen Rechts geschützt ist, ohne dass er über den entsprechenden anerkannten Ausbildungsabschluss verfügt, oder wer einen entsprechenden Titel verwendet, der den Eindruck erweckt, er habe einen anerkannten Ausbildungsabschluss erworben, wird mit Busse bestraft. Fahrlässigkeit ist strafbar. Die Strafverfolgung obliegt den Kantonen.
 
-## 6 Schlussbestimmungen
+### VI. SCHLUSSBESTIMMUNGEN
 
 #### Art. 13
 
@@ -192,7 +186,7 @@ beschliesst:[^ingress-1]
 
 **Beitritt**
 
-<sup>1</sup> Der Beitritt zu dieser Vereinbarung wird dem Vorstand der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren gegenüber erklärt.
+Der Beitritt zu dieser Vereinbarung wird dem Vorstand der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren gegenüber erklärt.
 
 #### Art. 16
 
@@ -210,51 +204,128 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Das Inkrafttreten ist dem Bund zur Kenntnis zu bringen.
 
-## A1 Anhang: Vertretung im Hochschulrat gemäss Artikel 6 und Zuordnung von Punkten bei der Gewichtung der Stimmen bei Beschlüssen des Hochschulrats gemäss Artikel 7
+**Bern, 20. Juni 2013**
 
-#### Art. A1-1
+Im Namen der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren
 
-<sup>1</sup> Die Berechnung der Punkte erfolgt alle zwei Jahre aufgrund der Durchschnittswerte der vorangehenden Jahre. Die Konferenz der Vereinbarungskantone veröffentlicht die jeweils aktuelle Zuteilung in diesem Anhang zur Vereinbarung. Die nachstehend aufgelisteten Punkte basieren auf dem Durchschnitt der Studierendenzahlen 2014/2015 und 2015/2016 (Quelle: Bundesamt für Statistik) sowie auf den Angaben der Kantone.
+Die Präsidentin:
 
-### A1.1 Vertretung im Hochschulrat und Punkteverteilung
+### Isabelle Chassot
 
-#### Art. A1-2
+Der Generalsekretär:
 
-**1. Vertretung der Universitätskantone im Hochschulrat**
+### Hans Ambühl
 
-<sup>1</sup> Vertretung der Universitätskantone im Hochschulrat:
+### Vertretung im Hochschulrat gemäss Artikel 6 und Zuordnung von Punkten bei der Gewichtung der Stimmen bei Beschlüssen des Hochschulrats gemäss Artikel 7<sup>1</sup> Die Berechnung der Punkte erfolgt alle zwei Jahre aufgrund der Durch-
 
-<table>
-<tr><th>Kanton</th><th>Punkte</th></tr>
-<tr><td>Zürich: Universität Zürich, Zürcher Fachhochschule, Pädagogische Hochschule Zürich, Interkantonale Hochschule für Heilpädagogik</td><td>45</td></tr>
-<tr><td>Bern: Universität Bern, Berner Fachhochschule, Pädagogische Hochschule Bern, Standorte der Haute école pédagogique BEJUNE und der Haute école spécialisée de Suisse occidentale im Kanton Bern</td><td>24</td></tr>
-<tr><td>Waadt: Universität Lausanne, Haute école pédagogique du canton de Vaud, Standorte der Haute école spécialisée de Suisse occidentale im Kanton Waadt</td><td>22</td></tr>
-<tr><td>Genf: Universität Genf, Standorte der Haute école spécialisée de Suisse occidentale im Kanton Genf</td><td>20</td></tr>
-<tr><td>Basel-Stadt: Universität Basel, Standorte der Fachhochschule Nordwestschweiz im Kanton Basel-Stadt</td><td>16</td></tr>
-<tr><td>Freiburg: Universität Freiburg, Pädagogische Hochschule Freiburg, Standorte der Haute école spécialisée de Suisse occidentale im Kanton Freiburg</td><td>13</td></tr>
-<tr><td>St. Gallen: Universität St. Gallen, Pädagogische Hochschule St. Gallen, Schweizer Hochschule für Logopädie Rorschach, Standorte der Fachhochschule Ostschweiz im Kanton St. Gallen</td><td>13</td></tr>
-<tr><td>Luzern: Universität Luzern, Standorte der Fachhochschule Zentralschweiz (Hochschule Luzern) im Kanton Luzern, Pädagogische Hochschule Luzern</td><td>11</td></tr>
-<tr><td>Tessin: Universität der italienischen Schweiz, Scuola universitaria professionale della Svizzera italiana</td><td>7</td></tr>
-<tr><td>Neuenburg: Universität Neuenburg, Standorte der Haute école spécialisée de Suisse occidentale im Kanton Neuenburg, Standorte der Haute école pédagogique BEJUNE im Kanton Neuenburg</td><td>6</td></tr>
-</table>
+schnittswerte der vorangehenden Jahre. Die Konferenz der Vereinbarungskantone veröffentlicht die jeweils aktuelle Zuteilung in diesem Anhang zur Vereinbarung. Die nachstehend aufgelisteten Punkte basieren auf dem Durchschnitt der Studierendenzahlen 2014/2015 und 2015/2016 (Quelle: Bundesamt für Statistik) sowie auf den Angaben der Kantone.
 
-#### Art. A1-3
+****
 
-**Weitere Vertretungen im Hochschulrat gemäss Artikel 6 Absatz 3**
+### VERTRETUNG IM HOCHSCHULRAT UND PUNKTEVERTEILUNG
 
-<sup>1</sup> Gemäss Artikel 6 Absatz 3 wählt die Konferenz der Vereinbarungskantone jeweils auf vier Jahre jene vier weiteren Trägerkantone, die im Hochschulrat Einsitz nehmen. Basierend auf dieser Bestimmung können die Mitträgerkantone der unter Punkt 1 genannten Hochschulen und die Trägerkantone folgend die in den Hochschulrat gewählt werden:
+**Punkte**
 
-- 1\. Pädagogische Hochschule Wallis
-- 2\. Pädagogische Hochschule Graubünden
-- 3\. Pädagogische Hochschule Thurgau
-- 4\. Pädagogische Hochschule Schaffhausen
-- 5\. Pädagogische Hochschule Schwyz
-- 6\. Pädagogische Hochschule Zug
-- 7\. Standorte der Haute école pédagogique BEJUNE im Kanton Jura
-- 8\. Standorte der Fachhochschule Nordwestschweiz in den Kantonen Aargau, Basel-Landschaft, Solothurn
-- 9\. Standorte der Haute école spécialisée de Suisse occidentale in den Kantonen Wallis und Jura
-- 10\. Standorte der Fachhochschule Ostschweiz im Kanton Graubünden
+- 1\. Vertretung der Universitätskantone im Hochschulrat
 
-<sup>2</sup> Die Zahl der Studierenden sämtlicher Hochschulen entspricht einem Total von 193 Punkten. Davon entfallen 16 Punkte auf die unter Ziffer 2 des Anhangs aufgeführten Hochschulen.
+### Zürich:
 
-A 2014, 2133, 2134; A 2015, 307
+**45**
+
+Universität Zürich, Zürcher Fachhochschule, Pädagogische Hochschule Zürich, Interkantonale Hochschule für Heilpädagogik
+
+### Bern:
+
+**24**
+
+Universität Bern, Berner Fachhochschule, Pädagogische Hochschule Bern, Standorte der Haute école pédagogique BEJUNE und der Haute école spécialisée de Suisse occidentale im Kanton Bern
+
+### Waadt:
+
+**22**
+
+Universität Lausanne, Haute école pédagogique du canton de Vaud, Standorte der Haute école spécialisée de Suisse occidentale im Kanton Waadt
+
+### Genf:
+
+**20**
+
+Universität Genf, Standorte der Haute école spécialisée de Suisse occidentale im Kanton Genf
+
+### Basel-Stadt:
+
+**16**
+
+Universität Basel, Standorte der Fachhochschule Nordwestschweiz im Kanton Basel-Stadt
+
+### Freiburg:
+
+**13**
+
+Universität Freiburg, Pädagogische Hochschule Freiburg, Standorte der Haute école spécialisée de Suisse occidentale im Kanton Freiburg
+
+### St. Gallen:
+
+**13**
+
+Universität St. Gallen, Pädagogische Hochschule St. Gallen, Schweizer Hochschule für Logopädie Rorschach, Standorte der Fachhochschule Ostschweiz im Kanton St. Gallen
+
+**9**
+
+Stand: 1. Februar 2017
+
+### Luzern:
+
+**11**
+
+Universität Luzern, Standorte der Fachhochschule Zentralschweiz (Hochschule Luzern) im Kanton Luzern, Pädagogische Hochschule Luzern
+
+### Tessin:
+
+**7**
+
+Universität der italienischen Schweiz, Scuola universitaria professionale della Svizzera italiana
+
+### Neuenburg:
+
+**6**
+
+Universität Neuenburg, Standorte der Haute école spécialisée de Suisse occidentale im Kanton Neuenburg, Standorte der Haute école pédagogique BEJUNE im Kanton Neuenburg
+
+- 2\. Weitere Vertretungen im Hochschulrat gemäss Artikel 6 Absatz 3
+
+### Gemäss Artikel 6 Absatz 3 wählt die Konferenz der Vereinbarungskan-
+
+tone jeweils auf vier Jahre jene vier weiteren Trägerkantone, die im
+
+### Hochschulrat Einsitz nehmen. Basierend auf dieser Bestimmung kön-
+
+nen die Mitträgerkantone der unter Punkt 1 genannten Hochschulen und die Trägerkantone folgend die in den Hochschulrat gewählt werden:  Pädagogische Hochschule Wallis  Pädagogische Hochschule Graubünden  Pädagogische Hochschule Thurgau  Pädagogische Hochschule Schaffhausen  Pädagogische Hochschule Schwyz  Pädagogische Hochschule Zug  Standorte der Haute école pédagogique BEJUNE im Kanton Jura  Standorte der Fachhochschule Nordwestschweiz in den Kantonen
+
+### Aargau, Basel-Landschaft, Solothurn
+
+ Standorte der Haute école spécialisée de Suisse occidentale in den
+
+### Kantonen Wallis und Jura
+
+ Standorte der Fachhochschule Ostschweiz im Kanton Graubünden
+
+### Die Zahl der Studierenden sämtlicher Hochschulen entspricht einem Total von 193 Punkten. Davon entfallen 16 Punkte auf die unter Ziffer 2
+
+des Anhangs aufgeführten Hochschulen.
+
+### II.
+
+Die Änderungen treten auf den 1. Januar 2017 in Kraft.
+
+<sup>1</sup> Beschluss der Konferenz der Vereinbarungskantone 23. Juni 2016, A 2017, 82; in Kraft seit 1. Januar 2017
+
+10
+
+## Weitere Fussnoten
+
+- [1] A 2014, 2134; vom Landrat genehmigt am 26. November 2014, A 2014, 2133; A 2015,
+- [307] ; in Kraft für den Kanton Nidwalden seit dem 3. Februar 2015
+- [2] SR 414.20
+- [3] NG 315.2
+- [4] NG 317.21
