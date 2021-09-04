@@ -4,13 +4,12 @@ number: IX B/24/1
 title: Kantonales Geldspielgesetz
 short: KGG
 language: de
-version: 2021-01-01
-valid_until: 2021-09-04
-version_adopted: 2020-09-23
+version: 2021-09-05
+version_adopted: 2021-09-05
 adopted: 2021-09-05
 in_force: 2021-09-05
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-B.24.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2200/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2245/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2200/pdf_file"
 
 (KGG)
 
-Vom 23.09.2020 (Stand 01.01.2021)
+Vom 05.09.2021 (Stand 05.09.2021)
 
-Der Landrat,
+Die Landsgemeinde,
 
-gestützt auf Artikel 89 Absatz 1 Buchstabe f in Verbindung mit Artikel 69 Absatz 1 der Verfassung des Kantons Glarus[^ingress-1], Artikel 28, 32 Absatz 1, 41 Absatz 1, 85, 107 Absatz 2, 122 Absatz 1 und 125 ff. des Bundesgesetzes über Geldspiele (BGS)[^ingress-2],
+gestützt auf Artikel 69 Absatz 1 der Verfassung des Kantons Glarus[^ingress-1], Artikel 28, 32 Absatz 1, 41 Absatz 1, 85, 107 Absatz 2, 122 Absatz 1 und 125 ff. des Bundesgesetzes über Geldspiele (BGS)[^ingress-2],
 
 erlässt:
 
@@ -223,7 +222,7 @@ erlässt:
 
 #### Art. 20
 
-**Entscheide über die Verwendung der Reingewinne von Gross- spielen**
+**Entscheide über die Verwendung der Reingewinne von Grossspielen**
 
 <sup>1</sup> Der Rechtsschutz richtet sich vorbehältlich Absatz 2 nach dem Gesetz über die Verwaltungsrechtspflege[^20-1].
 
@@ -241,4 +240,4 @@ erlässt:
 
 <sup>2</sup> Die Rückerstattung von Mitteln aus den Fonds richtet sich nach neuem Recht.
 
-SBE 2020 43
+SBE 2021 20
