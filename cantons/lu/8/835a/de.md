@@ -4,13 +4,13 @@ number: 835a
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: VCov19
 language: de
-version: 2021-07-10
-valid_until: 2021-09-05
-version_adopted: 2021-07-06
+version: 2021-09-06
+valid_until: 2021-09-30
+version_adopted: 2021-09-02
 adopted: 2021-12-03
 in_force: 2021-12-06
 url: "https://srl.lu.ch/app/de/texts_of_law/835a"
-pdf: "https://srl.lu.ch/api/de/versions/3764/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3820/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3764/pdf_file"
 
 (VCov19)
 
-vom 13.10.2020 (Stand 10.07.2021)
+vom 13.10.2020 (Stand 06.09.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -67,15 +67,33 @@ beschliesst:
 
 **…**
 
+#### § 3abis
+
+**Schutzkonzept in Bildungseinrichtungen**
+
+<sup>1</sup> Die Bildungseinrichtungen der obligatorischen Schule und der Sekundarstufe II müssen ein Schutzkonzept gemäss Artikel 10 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021[^3abis-1] erarbeiten und umsetzen. Für die öffentlichen Schulen regelt das Bildungs- und Kulturdepartement das Nähere in einer Weisung.
+
+[^3abis-1]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
+
 #### § 3b
 
-**Bildungseinrichtungen**
+**Testen in Bildungseinrichtungen**
 
 <sup>1</sup> Die kommunalen Sekundarschulen, die kantonalen Gymnasien und Fachmittelschulen sowie das Fach- und Wirtschaftsmittelschulzentrum Luzern sind verpflichtet, für Lernende und Lehrpersonen mindestens einmal pro Woche einen Test auf SARS-CoV-2 durchzuführen.
 
 <sup>2</sup> Die Teilnahme an den Tests ist für die Lernenden und die Lehrpersonen freiwillig.
 
 <sup>3</sup> Das Bildungs- und Kulturdepartement kann organisatorische Vorschriften erlassen.
+
+#### § 3c
+
+**Maskenpflicht in Bildungseinrichtungen**
+
+<sup>1</sup> Die Lernenden der 5. und 6. Klassen der Primarschule und die Lernenden der Sekundarstufe I und II, die Lehrpersonen und Fachpersonen der schulischen Dienste sowie Dritte müssen in den Innenräumen der Bildungseinrichtungen eine Gesichtsmaske tragen.
+
+<sup>2</sup> Von der Pflicht zum Tragen einer Gesichtsmaske ausgenommen sind Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können; für den Nachweis medizinischer Gründe gilt Artikel 5 Absatz 1b Covid-19-Verordnung besondere Lage[^3c-1].
+
+[^3c-1]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
 
 #### § 4
 
