@@ -3,11 +3,11 @@ sr: "0.103.3"
 title: Convenzione internazionale del 20 dicembre 2006 per la protezione di tutte le persone dalla sparizione forzata
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/757"
 language: it
-version: 2020-05-04
+version: 2021-09-06
 adopted: 2006-12-20
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20200504/it/xml/fedlex-data-admin-ch-eli-cc-2016-757-20200504-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20200504/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20210906/it/xml/fedlex-data-admin-ch-eli-cc-2016-757-20210906-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20210906/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di ratifica depositato dalla Svizzera il 2 dicembre 2016
 
 Entrata in vigore per la Svizzera il 1° gennaio 2017
 
-(Stato 4 maggio 2020)
+(Stato 6 settembre 2021)
 
 [^t-1]: [RU 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756)
 
@@ -496,9 +496,9 @@ La presente Convenzione non pregiudica le disposizioni del diritto internazional
 
 <sup>2.</sup> Il Segretario generale delle Nazioni Unite trasmette una copia certificata conforme della presente Convenzione a tutti gli Stati menzionati nell’articolo 38.
 
-*(Seguono le firme)*
+(Seguono le firme)
 
-Campo d’applicazione il 4 maggio 2020**[^t-2]**
+Campo d’applicazione il 6 settembre 2021**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -506,7 +506,7 @@ Campo d’applicazione il 4 maggio 2020**[^t-2]**
 <tr><td>Argentina</td><td>14 dicembre</td><td>2007</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Armenia</td><td>24 gennaio</td><td>2011</td><td>23 febbraio</td><td>2011</td></tr>
 <tr><td>Austria</td><td>7 giugno</td><td>2012</td><td>7 luglio</td><td>2012</td></tr>
-<tr><td>Belgio</td><td>2 giugno</td><td>2011</td><td>2 luglio</td><td>2011</td></tr>
+<tr><td>Belgio\*<sup>\*</sup></td><td>2 giugno</td><td>2011</td><td>2 luglio</td><td>2011</td></tr>
 <tr><td>Belize</td><td>14 agosto</td><td>2015 A</td><td>13 settembre</td><td>2015</td></tr>
 <tr><td>Benin</td><td>2 novembre</td><td>2017</td><td>2 dicembre</td><td>2017</td></tr>
 <tr><td>Bolivia</td><td>17 dicembre</td><td>2008</td><td>23 dicembre</td><td>2010</td></tr>
@@ -522,10 +522,10 @@ Campo d’applicazione il 4 maggio 2020**[^t-2]**
 <tr><td>Dominica</td><td>13 maggio</td><td>2019 A</td><td>12 giugno</td><td>2019</td></tr>
 <tr><td>Ecuador</td><td>20 ottobre</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Figi<sup>\*</sup></td><td>19 agosto</td><td>2019 A</td><td>18 settembre</td><td>2019</td></tr>
-<tr><td>Francia</td><td>23 settembre</td><td>2008</td><td>23 dicembre</td><td>2010</td></tr>
+<tr><td>Francia\*\*</td><td>23 settembre</td><td>2008</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Gabon</td><td>19 gennaio</td><td>2011</td><td>18 febbraio</td><td>2011</td></tr>
 <tr><td>Gambia</td><td>28 settembre</td><td>2018</td><td>28 ottobre</td><td>2018</td></tr>
-<tr><td>Germania<sup>\*</sup></td><td>24 settembre</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
+<tr><td>Germania\* \*\*</td><td>24 settembre</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Giappone</td><td>23 luglio</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Grecia</td><td>9 luglio</td><td>2015</td><td>8 agosto</td><td>2015</td></tr>
 <tr><td>Honduras</td><td>1° aprile</td><td>2008</td><td>23 dicembre</td><td>2010</td></tr>
@@ -545,13 +545,14 @@ Campo d’applicazione il 4 maggio 2020**[^t-2]**
 <tr><td>Niger</td><td>24 luglio</td><td>2015</td><td>23 agosto</td><td>2015</td></tr>
 <tr><td>Nigeria</td><td>27 luglio</td><td>2009 A</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Norvegia<sup>\*</sup></td><td>22 agosto</td><td>2019</td><td>21 settembre</td><td>2019</td></tr>
-<tr><td>Paesi Bassi</td><td>23 marzo</td><td>2011</td><td>22 aprile</td><td>2011</td></tr>
+<tr><td>Oman\*</td><td>12 giugno</td><td>2020 A</td><td>12 luglio</td><td>2020</td></tr>
+<tr><td>Paesi Bassi\*\*</td><td>23 marzo</td><td>2011</td><td>22 aprile</td><td>2011</td></tr>
 <tr><td>Aruba</td><td>21 dicembre</td><td>2017</td><td>21 dicembre</td><td>2017</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>23 marzo</td><td>2011</td><td>22 aprile</td><td>2011</td></tr>
 <tr><td>Panama</td><td>24 giugno</td><td>2011</td><td>24 luglio</td><td>2011</td></tr>
 <tr><td>Paraguay</td><td>3 agosto</td><td>2010</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Perù</td><td>26 settembre</td><td>2012 A</td><td>26 ottobre</td><td>2012</td></tr>
-<tr><td>Portogallo</td><td>27 gennaio</td><td>2014</td><td>26 febbraio</td><td>2014</td></tr>
+<tr><td>Portogallo\*\*</td><td>27 gennaio</td><td>2014</td><td>26 febbraio</td><td>2014</td></tr>
 <tr><td>Rep. Centrafricana</td><td>11 ottobre</td><td>2016 A</td><td>10 novembre</td><td>2016</td></tr>
 <tr><td>Samoa</td><td>27 novembre</td><td>2012</td><td>27 dicembre</td><td>2012</td></tr>
 <tr><td>Seicelle</td><td>18 gennaio</td><td>2017 A</td><td>17 febbraio</td><td>2017</td></tr>
@@ -560,16 +561,17 @@ Campo d’applicazione il 4 maggio 2020**[^t-2]**
 <tr><td>Slovacchia</td><td>15 dicembre</td><td>2014</td><td>14 gennaio</td><td>2015</td></tr>
 <tr><td>Spagna</td><td>24 settembre</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Sri Lanka</td><td>25 maggio</td><td>2016</td><td>24 giugno</td><td>2016</td></tr>
-<tr><td>Svizzera<sup>\*</sup></td><td>2 dicembre</td><td>2016</td><td>1 gennaio</td><td>2017</td></tr>
+<tr><td>Sudan\*</td><td>10 agosto</td><td>2021 A</td><td>9 settembre</td><td>2021</td></tr>
+<tr><td>Svizzera\* \*\*</td><td>2 dicembre</td><td>2016</td><td>1° gennaio</td><td>2017</td></tr>
 <tr><td>Togo</td><td>21 luglio</td><td>2014</td><td>20 agosto</td><td>2014</td></tr>
 <tr><td>Tunisia</td><td>29 giugno</td><td>2011</td><td>29 luglio</td><td>2011</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>14 agosto</td><td>2015 A</td><td>13 settembre</td><td>2015</td></tr>
 <tr><td>Uruguay</td><td>4 marzo</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Zambia</td><td>4 aprile</td><td>2011</td><td>4 maggio</td><td>2011</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, ad eccezione delle riserve e dichiarazioni della Svizzera. I testi in francese ed in inglese si possono consultare sul sito internet dell’Organizzazione delle Nazioni Unite (ONU): https://treaties.un.org o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. [tab]</td></tr>
 </table>
 
-[^t-2]: [RU 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757), [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474)e [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757); [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474); [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310); [2021 536](https://fedlex.data.admin.ch/eli/oc/2021/536). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
 
 Dichiarazioni
 
@@ -579,7 +581,7 @@ Dichiarazioni
 
 \2. Conformemente all’articolo 32 della Convenzione, la Svizzera riconosce la competenza del Comitato sulle sparizioni forzate a ricevere ed esaminare comunicazioni in cui uno Stato parte lamenta che un altro Stato parte non sta adempiendo agli obblighi derivanti dalla Convenzione.
 
-## Stati che hanno dichiarato di riconoscere la competenza del Comitato sulle sparizioni forzate, conformemente agli articoli 31 e 32 della Convenzione
+Stati che hanno dichiarato di riconoscere la competenza del Comitato sulle sparizioni forzate, conformemente agli articoli 31 e 32 della Convenzione
 
 Albania
 
@@ -605,6 +607,8 @@ Lituania
 
 Mali
 
+Messico (art. 31)
+
 Montenegro
 
 Paesi Bassi e Parte caraibica (Bonaire, Sant’Eustachio e Saba)
@@ -612,6 +616,8 @@ Paesi Bassi e Parte caraibica (Bonaire, Sant’Eustachio e Saba)
 Perù (art. 31)
 
 Portogallo
+
+Repubblica Ceca
 
 Serbia
 

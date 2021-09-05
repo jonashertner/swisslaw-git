@@ -3,11 +3,11 @@ sr: "0.103.3"
 title: Internationales Übereinkommen vom 20. Dezember 2006 zum Schutz aller Personen vor dem Verschwindenlassen
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/757"
 language: de
-version: 2020-05-04
+version: 2021-09-06
 adopted: 2006-12-20
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20200504/de/xml/fedlex-data-admin-ch-eli-cc-2016-757-20200504-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20200504/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20210906/de/xml/fedlex-data-admin-ch-eli-cc-2016-757-20210906-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20210906/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 2. Dezember 2016
 
 In Kraft getreten für die Schweiz am 1. Januar 2017
 
-(Stand am 4. Mai 2020)
+(Stand am 6. September 2021)
 
 [^t-1]: [AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756)
 
@@ -500,14 +500,14 @@ Dieses Übereinkommen lässt die Bestimmungen des humanitären Völkerrechts ein
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 4. Mai 2020**[^t-2]**
+Geltungsbereich am 6. September 2021**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>8. November</td><td>2007</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Argentinien</td><td>14. Dezember</td><td>2007</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Armenien</td><td>24. Januar</td><td>2011</td><td>23. Februar</td><td>2011</td></tr>
-<tr><td>Belgien</td><td>2. Juni</td><td>2011</td><td>2. Juli</td><td>2011</td></tr>
+<tr><td>Belgien\*\*</td><td>2. Juni</td><td>2011</td><td>2. Juli</td><td>2011</td></tr>
 <tr><td>Belize</td><td>14. August</td><td>2015 B</td><td>13. September</td><td>2015</td></tr>
 <tr><td>Benin</td><td>2. November</td><td>2017</td><td>2. Dezember</td><td>2017</td></tr>
 <tr><td>Bolivien</td><td>17. Dezember</td><td>2008</td><td>23. Dezember</td><td>2010</td></tr>
@@ -516,11 +516,11 @@ Geltungsbereich am 4. Mai 2020**[^t-2]**
 <tr><td>Burkina Faso</td><td>3. Dezember</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Chile</td><td>8. Dezember</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Costa Rica</td><td>16. Februar</td><td>2012</td><td>17. März</td><td>2012</td></tr>
-<tr><td>Deutschland\*</td><td>24. September</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
+<tr><td>Deutschland\* \*\*</td><td>24. September</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Dominica</td><td>13. Mai</td><td>2019 B</td><td>12. Juni</td><td>2019</td></tr>
 <tr><td>Ecuador</td><td>20. Oktober</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Fidschi\*</td><td>19. August</td><td>2019 B</td><td>18. September</td><td>2019</td></tr>
-<tr><td>Frankreich</td><td>23. September</td><td>2008</td><td>23. Dezember</td><td>2010</td></tr>
+<tr><td>Frankreich\*\*</td><td>23. September</td><td>2008</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Gabun</td><td>19. Januar</td><td>2011</td><td>18. Februar</td><td>2011</td></tr>
 <tr><td>Gambia</td><td>28. September</td><td>2018</td><td>28. Oktober</td><td>2018</td></tr>
 <tr><td>Griechenland</td><td>9. Juli</td><td>2015</td><td>8. August</td><td>2015</td></tr>
@@ -542,36 +542,38 @@ Geltungsbereich am 4. Mai 2020**[^t-2]**
 <tr><td>Mexiko</td><td>18. März</td><td>2008</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Mongolei</td><td>12. Februar</td><td>2015</td><td>14. März</td><td>2015</td></tr>
 <tr><td>Montenegro</td><td>20. September</td><td>2011</td><td>20. Oktober</td><td>2011</td></tr>
-<tr><td>Niederlande</td><td>23. März</td><td>2011</td><td>22. April</td><td>2011</td></tr>
+<tr><td>Niederlande\*\*</td><td>23. März</td><td>2011</td><td>22. April</td><td>2011</td></tr>
 <tr><td>Aruba</td><td>21. Dezember</td><td>2017</td><td>21. Dezember</td><td>2017</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>23. März</td><td>2011</td><td>22. April</td><td>2011</td></tr>
 <tr><td>Niger</td><td>24. Juli</td><td>2015</td><td>23. August</td><td>2015</td></tr>
 <tr><td>Nigeria</td><td>27. Juli</td><td>2009 B</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Norwegen\*</td><td>22. August</td><td>2019</td><td>21. September</td><td>2019</td></tr>
+<tr><td>Oman\*</td><td>12. Juni</td><td>2020 B</td><td>12. Juli</td><td>2020</td></tr>
 <tr><td>Österreich</td><td>7. Juni</td><td>2012</td><td>7. Juli</td><td>2012</td></tr>
 <tr><td>Panama</td><td>24. Juni</td><td>2011</td><td>24. Juli</td><td>2011</td></tr>
 <tr><td>Paraguay</td><td>3. August</td><td>2010</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Peru</td><td>26. September</td><td>2012 B</td><td>26. Oktober</td><td>2012</td></tr>
-<tr><td>Portugal</td><td>27. Januar</td><td>2014</td><td>26. Februar</td><td>2014</td></tr>
+<tr><td>Portugal\*\*</td><td>27. Januar</td><td>2014</td><td>26. Februar</td><td>2014</td></tr>
 <tr><td>Sambia</td><td>4. April</td><td>2011</td><td>4. Mai</td><td>2011</td></tr>
 <tr><td>Samoa</td><td>27. November</td><td>2012</td><td>27. Dezember</td><td>2012</td></tr>
-<tr><td>Schweiz\*</td><td>2. Dezember</td><td>2016</td><td>1. Januar</td><td>2017</td></tr>
+<tr><td>Schweiz\* \*\*</td><td>2. Dezember</td><td>2016</td><td>1. Januar</td><td>2017</td></tr>
 <tr><td>Senegal</td><td>11. Dezember</td><td>2008</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Serbien</td><td>18. Mai</td><td>2011</td><td>17. Juni</td><td>2011</td></tr>
 <tr><td>Seychellen</td><td>18. Januar</td><td>2017 B</td><td>17. Februar</td><td>2017</td></tr>
 <tr><td>Slowakei</td><td>15. Dezember</td><td>2014</td><td>14. Januar</td><td>2015</td></tr>
 <tr><td>Spanien</td><td>24. September</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Sri Lanka</td><td>25. Mai</td><td>2016</td><td>24. Juni</td><td>2016</td></tr>
+<tr><td>Sudan\*</td><td>10. August</td><td>2021 B</td><td>9. September</td><td>2021</td></tr>
 <tr><td>Togo</td><td>21. Juli</td><td>2014</td><td>20. August</td><td>2014</td></tr>
 <tr><td>Tschechische Republik</td><td>8. Februar</td><td>2017</td><td>10. März</td><td>2017</td></tr>
 <tr><td>Tunesien</td><td>29. Juni</td><td>2011</td><td>29. Juli</td><td>2011</td></tr>
 <tr><td>Ukraine\*</td><td>14. August</td><td>2015 B</td><td>13. September</td><td>2015</td></tr>
 <tr><td>Uruguay</td><td>4. März</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>11. Oktober</td><td>2016 B</td><td>10. November</td><td>2016</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757), [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474), [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757); [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474); [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310); [2021 536](https://fedlex.data.admin.ch/eli/oc/2021/536). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.
 
 Erklärungen
 
@@ -584,5 +586,5 @@ Erklärungen
 ## Staaten, die nach Artikel 31 und 32 des Übereinkommens erklärt haben, die Zuständigkeit des Ausschusses zur Entgegennahme und Prüfung von Mitteilungen anzuerkennen
 
 <table>
-<tr><td>Albanien Argentinien Belgien Bosnien und Herzegowina Chile Deutschland Ecuador Frankreich Japan (Art. 32) Litauen Mali Montenegro</td><td>Niederlande und Karibische Gebiete (Bonaire, Sint Eustatius und Saba) Österreich Peru (Art. 31) Portugal Schweiz Serbien Slowakei Spanien Sri Lanka (Art. 32) Ukraine Uruguay</td></tr>
+<tr><td>Albanien Argentinien Belgien Bosnien und Herzegowina Chile Deutschland Ecuador Frankreich Japan (Art. 32) Litauen Mali Mexiko (Art. 31) Montenegro</td><td>Niederlande und Karibische Gebiete (Bonaire, Sint Eustatius und Saba) Österreich Peru (Art. 31) Portugal Schweiz Serbien Slowakei Spanien Sri Lanka (Art. 32) Tschechische Republik Ukraine Uruguay</td></tr>
 </table>

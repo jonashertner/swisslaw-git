@@ -3,11 +3,11 @@ sr: "0.103.3"
 title: Convention internationale du 20 décembre 2006 pour la protection de toutes les personnes contre les disparitions forcées
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/757"
 language: fr
-version: 2020-05-04
+version: 2021-09-06
 adopted: 2006-12-20
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20200504/fr/xml/fedlex-data-admin-ch-eli-cc-2016-757-20200504-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20200504/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20210906/fr/xml/fedlex-data-admin-ch-eli-cc-2016-757-20210906-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20210906/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 2 décembre 2016
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 2017
 
-(Etat le 4 mai 2020)
+(Etat le 6 septembre 2021)
 
 [^t-1]: [RO 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756)
 
@@ -498,16 +498,16 @@ La présente Convention est sans préjudice des dispositions du droit internatio
 
 (Suivent les signatures)
 
-Champ d’application le 4 mai 2020**[^t-2]**
+Champ d’application le 6 septembre 2021**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>8 novembre</td><td>2007</td><td>23 décembre</td><td>2010</td></tr>
-<tr><td>Allemagne\*</td><td>24 septembre</td><td>2009</td><td>23 décembre</td><td>2010</td></tr>
+<tr><td>Allemagne\* \*\*</td><td>24 septembre</td><td>2009</td><td>23 décembre</td><td>2010</td></tr>
 <tr><td>Argentine</td><td>14 décembre</td><td>2007</td><td>23 décembre</td><td>2010</td></tr>
 <tr><td>Arménie</td><td>24 janvier</td><td>2011</td><td>23 février</td><td>2011</td></tr>
 <tr><td>Autriche</td><td>7 juin</td><td>2012</td><td>7 juillet</td><td>2012</td></tr>
-<tr><td>Belgique</td><td>2 juin</td><td>2011</td><td>2 juillet</td><td>2011</td></tr>
+<tr><td>Belgique\*\*</td><td>2 juin</td><td>2011</td><td>2 juillet</td><td>2011</td></tr>
 <tr><td>Belize</td><td>14 août</td><td>2015 A</td><td>13 septembre</td><td>2015</td></tr>
 <tr><td>Bénin</td><td>2 novembre</td><td>2017</td><td>2 décembre</td><td>2017</td></tr>
 <tr><td>Bolivie</td><td>17 décembre</td><td>2008</td><td>23 décembre</td><td>2010</td></tr>
@@ -523,7 +523,7 @@ Champ d’application le 4 mai 2020**[^t-2]**
 <tr><td>Équateur</td><td>20 octobre</td><td>2009</td><td>23 décembre</td><td>2010</td></tr>
 <tr><td>Espagne</td><td>24 septembre</td><td>2009</td><td>23 décembre</td><td>2010</td></tr>
 <tr><td>Fidji\*</td><td>19 août</td><td>2019 A</td><td>18 septembre</td><td>2019</td></tr>
-<tr><td>France</td><td>23 septembre</td><td>2008</td><td>23 décembre</td><td>2010</td></tr>
+<tr><td>France\*\*</td><td>23 septembre</td><td>2008</td><td>23 décembre</td><td>2010</td></tr>
 <tr><td>Gabon</td><td>19 janvier</td><td>2011</td><td>18 février</td><td>2011</td></tr>
 <tr><td>Gambie</td><td>28 septembre</td><td>2018</td><td>28 octobre</td><td>2018</td></tr>
 <tr><td>Grèce</td><td>9 juillet</td><td>2015</td><td>8 août</td><td>2015</td></tr>
@@ -545,12 +545,13 @@ Champ d’application le 4 mai 2020**[^t-2]**
 <tr><td>Niger</td><td>24 juillet</td><td>2015</td><td>23 août</td><td>2015</td></tr>
 <tr><td>Nigéria</td><td>27 juillet</td><td>2009 A</td><td>23 décembre</td><td>2010</td></tr>
 <tr><td>Norvège\*</td><td>22 août</td><td>2019</td><td>21 septembre</td><td>2019</td></tr>
+<tr><td>Oman\*</td><td>12 juin</td><td>2020 A</td><td>12 juillet</td><td>2020</td></tr>
 <tr><td>Panama</td><td>24 juin</td><td>2011</td><td>24 juillet</td><td>2011</td></tr>
 <tr><td>Paraguay</td><td>3 août</td><td>2010</td><td>23 décembre</td><td>2010</td></tr>
-<tr><td>Pays-Bas</td><td>23 mars</td><td>2011</td><td>22 avril</td><td>2011</td></tr>
+<tr><td>Pays-Bas\*\*</td><td>23 mars</td><td>2011</td><td>22 avril</td><td>2011</td></tr>
 <tr><td>Aruba</td><td>21 décembre</td><td>2017</td><td>21 décembre</td><td>2017</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>23 mars</td><td>2011</td><td>22 avril</td><td>2011</td></tr>
-<tr><td>Portugal</td><td>27 janvier</td><td>2014</td><td>26 février</td><td>2014</td></tr>
+<tr><td>Portugal\*\*</td><td>27 janvier</td><td>2014</td><td>26 février</td><td>2014</td></tr>
 <tr><td>Pérou</td><td>26 septembre</td><td>2012 A</td><td>26 octobre</td><td>2012</td></tr>
 <tr><td>République centrafricaine</td><td>11 octobre</td><td>2016 A</td><td>10 novembre</td><td>2016</td></tr>
 <tr><td>République tchèque</td><td>8 février</td><td>2017</td><td>10 mars</td><td>2017</td></tr>
@@ -560,16 +561,17 @@ Champ d’application le 4 mai 2020**[^t-2]**
 <tr><td>Sri Lanka</td><td>25 mai</td><td>2016</td><td>24 juin</td><td>2016</td></tr>
 <tr><td>Sénégal</td><td>11 décembre</td><td>2008</td><td>23 décembre</td><td>2010</td></tr>
 <tr><td>Seychelles</td><td>18 janvier</td><td>2017 A</td><td>17 février</td><td>2017</td></tr>
-<tr><td>Suisse\*</td><td>2 décembre</td><td>2016</td><td>1 janvier</td><td>2017</td></tr>
+<tr><td>Soudan\*</td><td>10 août</td><td>2021 A</td><td>9 septembre</td><td>2021</td></tr>
+<tr><td>Suisse\* \*\*</td><td>2 décembre</td><td>2016</td><td>1 janvier</td><td>2017</td></tr>
 <tr><td>Togo</td><td>21 juillet</td><td>2014</td><td>20 août</td><td>2014</td></tr>
 <tr><td>Tunisie</td><td>29 juin</td><td>2011</td><td>29 juillet</td><td>2011</td></tr>
 <tr><td>Ukraine\*</td><td>14 août</td><td>2015 A</td><td>13 septembre</td><td>2015</td></tr>
 <tr><td>Uruguay</td><td>4 mars</td><td>2009</td><td>23 décembre</td><td>2010</td></tr>
 <tr><td>Zambie</td><td>4 avril</td><td>2011</td><td>4 mai</td><td>2011</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l'adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757), [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474), [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757); [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474); [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310); [2021 536](https://fedlex.data.admin.ch/eli/oc/2021/536). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
 
 Déclarations
 
@@ -579,7 +581,7 @@ Déclarations
 
 \2. Conformément à l’art. 32 de la Convention, la Suisse reconnaît la compétence du Comité des disparitions forcées pour recevoir et examiner des communications par lesquelles un État Partie prétend qu’un autre État partie ne s’acquitte pas de ses obligations au titre de la Convention.
 
-## États ayant déclaré reconnaître la compétence du Comité des disparitions forcées, conformément aux art. 31 et 32 de la Convention
+## États ayant déclarés reconnaître la compétence du Comité des disparitions forcées, conformément aux art. 31 et 32 de la Convention
 
 Albanie
 
@@ -607,6 +609,8 @@ Lituanie
 
 Mali
 
+Mexique (art. 31)
+
 Monténégro
 
 Pays-Bas et Partie caraïbe (Bonaire, Sint Eustatius et Saba)
@@ -614,6 +618,8 @@ Pays-Bas et Partie caraïbe (Bonaire, Sint Eustatius et Saba)
 Pérou (art. 31)
 
 Portugal
+
+République tchèque
 
 Serbie
 
