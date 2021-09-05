@@ -4,28 +4,31 @@ number: "273.42"
 title: Vereinbarung über die Mitbenutzung des Untersuchungs- und Strafgefängnisses des Kantons Nidwalden durch den Kanton Uri
 language: de
 version: 1987-04-26
+corrected: 2021-09-06
 version_adopted: 1986-11-10
 adopted: 1986-11-10
 in_force: 1987-04-26
 url: "https://gesetze.nw.ch/app/de/texts_of_law/273.42"
-pdf: "https://gesetze.nw.ch/api/de/versions/552/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/119/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Vereinbarung über die Mitbenutzung des Untersuchungs- und Strafgefängnisses des Kantons Nidwalden durch den Kanton Uri
 
-vom 10.11.1986 (Stand 26.04.1987)
+vom 10. November 1986[^t-1]
 
 Die Kantone Nidwalden und Uri,
 
-gestützt auf Art. 382 Absatz 2 des Schweizerischen Strafgesetzbuches[^ingress-1],
+gestützt auf Art. 382 Absatz 2 des Schweizerischen Strafgesetzbuches[^t-2],
 
 vereinbaren:
 
-[^ingress-1]: SR 311.0
+[^t-1]: A 1986, 1653; vom Landrat des Kantons Nidwalden genehmigt am 3. Dezember 1986, A 1986, 1652; vom Bundesrat genehmigt am 10. September 1987
+[^t-2]: SR 311.0
 
-## 1 Errichtung und Betrieb
+### I. ERRICHTUNG UND BETRIEB
 
 #### Art. 1
 
@@ -33,9 +36,9 @@ vereinbaren:
 
 <sup>1</sup> Der Kanton Nidwalden erstellt und betreibt beim Werkhof der N2 in Stans/Oberdorf ein Untersuchungs- und Strafgefängnis und zwei Dienstwohnungen.
 
-<sup>2</sup> Als Grundlage dient das Projekt «Nidwalden und Uri» vom 25. August /12. / 16. September 1986.
+<sup>2</sup> Als Grundlage dient das Projekt „Nidwalden und Uri“ vom 25. August/12./16. September 1986.
 
-## 2 Benutzungsrecht; Betreuung
+### II. BENUTZUNGSRECHT; BETREUUNG
 
 #### Art. 2
 
@@ -44,6 +47,7 @@ vereinbaren:
 <sup>1</sup> Der Kanton Nidwalden überlässt dem Kanton Uri von insgesamt 20 Zellen (23 Betten) 8 Zellen (9 Betten) für die Durchführung:
 
 - 1\. der Untersuchungshaft;
+
 - 2\. kurzer Freiheitsstrafen in allen Vollzugsformen.
 
 <sup>2</sup> Die beiden Kantone bieten einander zur Benutzung Zellen an, die sie nicht benötigen. Beansprucht der andere Kanton die angebotenen Zellen nicht, können diese Drittkantonen überlassen werden.
@@ -52,18 +56,20 @@ vereinbaren:
 
 **Betreuung**
 
-<sup>1</sup> Der Kanton Nidwalden verpflichtet sich, die Gefangenen aus Uri gleich zu betreuen wie jene aus Nidwalden.
+Der Kanton Nidwalden verpflichtet sich, die Gefangenen aus Uri gleich zu betreuen wie jene aus Nidwalden.
 
-## 3 Beitragsleistungen
+### III. BEITRAGSLEISTUNGEN
 
 #### Art. 4
 
 **Beitragsarten**
 
-<sup>1</sup> Der Kanton Uri verpflichtet sich, dem Kanton Nidwalden jährlich Beiträge zu leisten an:
+Der Kanton Uri verpflichtet sich, dem Kanton Nidwalden jährlich Beiträge zu leisten an:
 
 - 1\. die Abschreibung der Nettobaukosten und die Verzinsung der Bauschuld;
+
 - 2\. die fixen Nettobetriebskosten;
+
 - 3\. die variablen Nettobetriebskosten.
 
 #### Art. 5
@@ -106,7 +112,7 @@ vereinbaren:
 
 <sup>3</sup> Die Beiträge an die Abschreibung der Nettobaukosten sowie an die Verzinsung der Bauschuld sind solange geschuldet, als die Vereinbarung dauert, längstens aber bis das Bauwerk amortisiert beziehungsweise die Bauschuld getilgt ist.
 
-## 4 Amtshandlungen
+### IV. AMTSHANDLUNGEN
 
 #### Art. 9
 
@@ -116,11 +122,9 @@ vereinbaren:
 
 <sup>2</sup> Sie dürfen die Gefangenen jederzeit ins Gefängnis überbringen und dort abholen.
 
-<sup>3</sup> Vorbehalten bleiben die Bestimmungen des Schweizerischen Strafgesetzbuches[^9-1], über die Amtshandlungen in andern Kantonen.
+<sup>3</sup> Vorbehalten bleiben die Bestimmungen des Schweizerischen Strafgesetzbuches über die Amtshandlungen in andern Kantonen.
 
-[^9-1]: SR 311.0
-
-## 5 Betriebskommission für das Untersuchungs- und Strafgefängnis
+### V. BETRIEBSKOMMISSION FÜR DAS UNTERSUCHUNGS- UND STRAFGEFÄNGNIS
 
 #### Art. 10
 
@@ -142,13 +146,13 @@ vereinbaren:
 
 <sup>3</sup> Sie ist bei baulichen Massnahmen, beim Erlass der Anstaltsordnung sowie bei Personal- und Betreuungsfragen anzuhören.
 
-## 6 Weitere Bestimmungen
+### VI. WEITERE BESTIMMUNGEN
 
 #### Art. 12
 
 **Bauliche Massnahmen**
 
-<sup>1</sup> Unterhalts-, Wiederherstellungs- und Erneuerungsarbeiten, die sich auf die Beitragsleistungen des Kantons Uri wesentlich auswirken, bedürfen der Zustimmung des Regierungsrates des Kantons Uri.
+Unterhalts-, Wiederherstellungs- und Erneuerungsarbeiten, die sich auf die Beitragsleistungen des Kantons Uri wesentlich auswirken, bedürfen der Zustimmung des Regierungsrates des Kantons Uri.
 
 #### Art. 13
 
@@ -158,7 +162,7 @@ vereinbaren:
 
 <sup>2</sup> Die Bewerber aus den beiden Kantonen sind einander gleichgestellt.
 
-## 7 Übergangs- und Schlussbestimmungen
+### VII. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 14
 
@@ -180,11 +184,6 @@ vereinbaren:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Vereinbarung tritt in Kraft, sobald sie in beiden Kantonen durch die zuständige Behörde genehmigt worden ist[^16-1] und die Nidwaldner Landsgemeinde den Baubeschluss gefasst hat.
+<sup>1</sup> Diese Vereinbarung tritt in Kraft, sobald sie in beiden Kantonen durch die zuständige Behörde genehmigt worden ist und die Nidwaldner Landsgemeinde den Baubeschluss gefasst hat.
 
-<sup>2</sup> Sie bedarf der Genehmigung des Bundesrates[^16-2].
-
-[^16-1]: Vom Landrat des Kantons Nidwalden genehmigt am 3. Dezember 1986
-[^16-2]: Vom Bundesrat genehmigt am 10. September 1987
-
-A 1986, 1652, 1653
+<sup>2</sup> Sie bedarf der Genehmigung des Bundesrates.
