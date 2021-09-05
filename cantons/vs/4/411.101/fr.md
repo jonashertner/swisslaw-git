@@ -4,12 +4,12 @@ number: "411.101"
 title: Règlement concernant les congés et les mesures disciplinaires applicables dans les limites de la scolarité obligatoire
 language: fr
 version: 2021-08-01
-valid_until: 2025-07-31
+corrected: 2021-09-06
 version_adopted: 2021-09-01
 adopted: 2004-07-14
 in_force: 2004-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/411.101"
-pdf: "https://lex.vs.ch/api/fr/versions/2949/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2803/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -94,7 +94,7 @@ arrête:
 
 <sup>1</sup> Sauf motifs ou empêchements dûment justifiés, tous les élèves sont tenus de prendre part aux excursions et manifestations organisées par l'école.
 
-<sup>2</sup> Pour un déplacement de plus d'un jour et/ou selon la nature de l'activité prévue, l'accord des parents est nécessaire.
+<sup>2</sup> Pour un déplacement de plus d'un jour et/ou selon la nature et le coût des activités prévues, l'accord des parents est nécessaire.
 
 #### Art. 8
 

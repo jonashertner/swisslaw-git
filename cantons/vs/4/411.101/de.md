@@ -4,12 +4,12 @@ number: "411.101"
 title: Reglement betreffend Urlaube und die im Rahmen der obligatorischen Schulpflicht anwendbaren Disziplinarmassnahmen
 language: de
 version: 2021-08-01
-valid_until: 2025-07-31
+corrected: 2021-09-06
 version_adopted: 2021-09-01
 adopted: 2004-07-14
 in_force: 2004-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/411.101"
-pdf: "https://lex.vs.ch/api/de/versions/2949/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2803/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -94,7 +94,7 @@ beschliesst:
 
 <sup>1</sup> Sofern nicht berechtige Gründe oder Verhinderungen vorliegen, sind alle Schüler verpflichtet, an den von der Schule organisierten Ausflügen und Anlässen teilzunehmen.
 
-<sup>2</sup> Bei Reisen von mehr als einem Tag und/oder je nach Art der geplanten Aktivität muss das Einverständnis der Eltern eingeholt werden.
+<sup>2</sup> Für Ausflüge, die länger als einen Tag dauern, und /oder je nach Art und Kosten der Aktivitäten ist die Zustimmung der Eltern notwendig.
 
 #### Art. 8
 
