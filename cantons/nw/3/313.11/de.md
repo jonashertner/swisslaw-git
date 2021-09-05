@@ -5,33 +5,34 @@ title: Vollzugsverordnung zum Einführungsgesetz zur Bundesgesetzgebung über di
 short: "Kantonale Berufsbildungsverordnung, kBBV"
 language: de
 version: 2020-01-01
+corrected: 2021-09-06
 version_adopted: 2019-12-10
 adopted: 2008-07-01
 in_force: 2008-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/313.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/557/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/435/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung
+# Vollzugsverordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung (Kantonale Berufsbildungsverordnung, kBBV)
 
-(Kantonale Berufsbildungsverordnung, kBBV)
-
-vom 01.07.2008 (Stand 01.01.2020)
+vom 01. Juli 2008[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 39 des Einführungsgesetzes vom 23. Januar 2008 zur Bundesgesetzgebung über die Berufsbildung (Kantonales Berufsbildungsgesetz, kBBG)[^ingress-1] und Art. 26 des Gesetzes vom 17. April 2002 über das Bildungswesen (Bildungsgesetz)[^ingress-2],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 39 des Einführungsgesetzes vom 23. Januar 2008 zur Bundesgesetzgebung über die Berufsbildung (Kantonales Berufsbildungsgesetz, kBBG)[^t-2] und Art. 26 des Gesetzes vom 17. April 2002 über das Bildungswesen (Bildungsgesetz)[^t-3],
 
 beschliesst:
 
-[^ingress-1]: NG 313.1
-[^ingress-2]: NG 311.1
+[^t-1]: A 2008, 1481
+[^t-2]: NG 313.1
+[^t-3]: NG 311.1
 
-## 1 Berufliche Grundbildung
+### I. BERUFLICHE GRUNDBILDUNG
 
-### 1.1 Bildung in beruflicher Praxis
+### A. Bildung in beruflicher Praxis
 
 #### § 1
 
@@ -42,15 +43,18 @@ beschliesst:
 <sup>2</sup> Zur Aufrechterhaltung und Erweiterung des Lehrstellenangebots trifft das Amt für Berufsbildung und Mittelschule (Amt) insbesondere folgende Massnahmen:
 
 - 1\. Unterstützung von Schülerinnen und Schülern beim Übertritt von der obligatorischen Schule in die berufliche Grundbildung;
+
 - 2\. Begleitung und Beratung von Anbietern der Bildung in beruflicher Praxis;
+
 - 3\. Information und Kommunikation;
+
 - 4\. Unterstützung von Lehrbetriebsverbünden.
 
 #### § 2
 
 **Zulassung**
 
-<sup>1</sup> Zur beruflichen Grundbildung wird zugelassen, wer das 15. Altersjahr vollendet und die obligatorische Schulpflicht abgeschlossen hat. Über Ausnahmen entscheidet das Amt.
+Zur beruflichen Grundbildung wird zugelassen, wer das 15. Altersjahr vollendet und die obligatorische Schulpflicht abgeschlossen hat. Über Ausnahmen entscheidet das Amt.
 
 #### § 3
 
@@ -74,9 +78,11 @@ beschliesst:
 
 #### § 5
 
-**Beratung und Begleitung 1. allgemein**
+**Beratung und Begleitung**
 
-<sup>1</sup> Das Amt berät die Lehrvertragsparteien in allen Fragen der beruflichen Grundbildung und versucht bei Uneinigkeit zu vermitteln.
+### 1. allgemein
+
+Das Amt berät die Lehrvertragsparteien in allen Fragen der beruflichen Grundbildung und versucht bei Uneinigkeit zu vermitteln.
 
 #### § 6
 
@@ -90,14 +96,20 @@ beschliesst:
 
 **Lehraufsicht**
 
-<sup>1</sup> Das Amt übt die Aufsicht über die berufliche Grundbildung gemäss Art. 24 BBG[^7-1] aus.
+<sup>1</sup> Das Amt übt die Aufsicht über die berufliche Grundbildung gemäss Art.
+
+24 BBG[^7-1] aus.
 
 <sup>2</sup> Die Lehraufsicht wird insbesondere wahrgenommen durch:
 
 - 1\. Betriebsbesuche;
+
 - 2\. die Anordnung von Zwischenqualifizierungen;
+
 - 3\. die Durchführung und Auswertung von Evaluationen in der beruflichen Praxis;
+
 - 4\. die Auswertung der Ergebnisse von Qualifikationsverfahren;
+
 - 5\. die Kontrolle der Einhaltung der Lehrverträge durch die Lehrvertragsparteien.
 
 <sup>3</sup> Das Amt kann zur Wahrnehmung der Lehraufsicht Fachberaterinnen oder Fachberater beiziehen.
@@ -110,7 +122,9 @@ beschliesst:
 
 #### § 8
 
-**Bildungsbewilligung 1. Erteilung**
+**Bildungsbewilligung**
+
+### 1. Erteilung
 
 <sup>1</sup> Das Amt erteilt den Anbietern der Bildung in beruflicher Praxis die Bildungsbewilligung, wenn die gesetzlichen Anforderungen erfüllt sind.
 
@@ -121,7 +135,9 @@ beschliesst:
 <sup>4</sup> Eine Ausnahmebewilligung kann erteilt werden, wenn die Berufsbildnerin beziehungsweise der Berufsbildner folgende Voraussetzungen erfüllt:
 
 - 1\. eidgenössisches Fähigkeitszeugnis im betreffenden Beruf oder gleichwertiger Abschluss;
+
 - 2\. Tätigkeit seit mindestens einem Jahr im Ausbildungsbetrieb;
+
 - 3\. mindestens fünfjährige einschlägige Berufserfahrung oder mindestens dreijährige einschlägige Berufserfahrung mit Führungsfunktion in einem entsprechenden Betrieb.
 
 <sup>5</sup> Das Amt kann zur Abklärung Fachberaterinnen oder Fachberater beiziehen.
@@ -130,22 +146,27 @@ beschliesst:
 
 **2. Verweigerung und Entzug**
 
-<sup>1</sup> Das Amt kann die Bildungsbewilligung verweigern oder entziehen, wenn:
+Das Amt kann die Bildungsbewilligung verweigern oder entziehen, wenn:
 
 - 1\. die Bildung in beruflicher Praxis ungenügend ist;
+
 - 2\. die Berufsbildnerin beziehungsweise der Berufsbildner nicht über die notwendigen fachlichen und persönlichen Eigenschaften verfügt;
+
 - 3\. die Berufsbildnerin beziehungsweise der Berufsbildner die Pflichten verletzt;
+
 - 4\. der Ausbildungsbetrieb betriebliche oder andere gesetzliche Voraussetzungen nicht erfüllt.
 
 #### § 10
 
 **Überschreitung der Höchstzahl**
 
-<sup>1</sup> Das Amt kann einem Anbieter der Bildung in beruflicher Praxis aus wichtigen Gründen die Überschreitung der Höchstzahl der Ausbildungsverhältnisse in einem Beruf bewilligen.
+Das Amt kann einem Anbieter der Bildung in beruflicher Praxis aus wichtigen Gründen die Überschreitung der Höchstzahl der Ausbildungsverhältnisse in einem Beruf bewilligen.
 
 #### § 11
 
-**Berufsbildnerinnen und Berufsbildner 1. Kursangebote**
+**Berufsbildnerinnen und Berufsbildner**
+
+### 1. Kursangebote
 
 <sup>1</sup> Das Amt sorgt für ein ausreichendes Angebot an Kursen für Berufsbildnerinnen und Berufsbildner.
 
@@ -155,9 +176,9 @@ beschliesst:
 
 **2. Kursbesuch**
 
-<sup>1</sup> Jede Berufsbildnerin beziehungsweise jeder Berufsbildner hat die vom Amt vorgeschriebenen Kurse zu besuchen. Wurden die geforderten Kompetenzen anderweitig erworben, kann das Amt die Berufsbildnerin beziehungsweise den Berufsbildner ganz oder teilweise vom Kursbesuch befreien.
+Jede Berufsbildnerin beziehungsweise jeder Berufsbildner hat die vom Amt vorgeschriebenen Kurse zu besuchen. Wurden die geforderten Kompetenzen anderweitig erworben, kann das Amt die Berufsbildnerin beziehungsweise den Berufsbildner ganz oder teilweise vom Kursbesuch befreien.
 
-### 1.2 Überbetriebliche Kurse
+### B. Überbetriebliche Kurse
 
 #### § 13
 
@@ -181,9 +202,9 @@ beschliesst:
 
 <sup>2</sup> Die Anbieter der Bildung in beruflicher Praxis sind zuständig für die Anmeldung und haben den Lernenden den Besuch der Kurse zu ermöglichen.
 
-### 1.3 Schulische Bildung
+### C. Schulische Bildung
 
-### 1.3.1 Allgemeine Bestimmungen
+### 1. Allgemeine Bestimmungen
 
 #### § 15
 
@@ -213,27 +234,31 @@ beschliesst:
 
 <sup>4</sup> Können sich die Lehrvertragsparteien über den Besuch von Stütz- und Förderangeboten oder der Berufsmittelschule nicht einigen, entscheidet das Amt.
 
+[^17-1]: Fassung gemäss Regierungsratsbeschluss vom 3. November 2015; A 2015, 1771, in Kraft seit 1. Januar 2016
+
 #### § 17a
 
-**Zeugnisse**
+**Zeugnisse[^17-1]**
 
 <sup>1</sup> Zeugnisse geben am Ende jedes Semesters Auskunft über Schulbesuch und Leistungen sowie über die Promotion in das nächste Semester, sofern das Bundesrecht diese vorsieht.
 
 <sup>2</sup> Die Schulleitung stellt das Zeugnis auf Antrag der Lehrpersonen aus.
 
+[^17a-1]: Fassung gemäss Regierungsratsbeschluss vom 13. Juli 2010, A 2010, 1382, in Kraft seit 1. August 2010
+
 #### § 18
 
-**Schuljahr**
+**Schuljahr[^17a-1]**
 
-<sup>1</sup> Das Schuljahr umfasst 38 bis 39 Unterrichtswochen.
+Das Schuljahr umfasst 38 bis 39 Unterrichtswochen.
 
-### 1.3.2 Absenzen
+- 2\. Absenzen
 
 #### § 19
 
 **Grundsatz**
 
-<sup>1</sup> Als Absenz gilt jede nicht besuchte Unterrichtsstunde.
+Als Absenz gilt jede nicht besuchte Unterrichtsstunde.
 
 #### § 20
 
@@ -252,8 +277,11 @@ beschliesst:
 <sup>1</sup> Als Gründe für vorhersehbare Absenzen gelten insbesondere:
 
 - 1\. wichtige Anlässe in der Familie;
+
 - 2\. Militär-, Zivilschutz- oder Feuerwehrdienst;
+
 - 3\. Urlaub für ausserschulische Jugendarbeit gemäss Art. 329e OR[^21-1];
+
 - 4\. die Teilnahme an Leiterkursen von Jugend und Sport.
 
 <sup>2</sup> Für vorhersehbare Absenzen ist der Schulleitung spätestens drei Wochen vor der Abwesenheit ein begründetes Gesuch einzureichen.
@@ -282,13 +310,13 @@ beschliesst:
 
 **Nacharbeit**
 
-<sup>1</sup> Die Lernenden sind verpflichtet, den versäumten Unterrichtsstoff so rasch als möglich selbständig nachzuarbeiten.
+Die Lernenden sind verpflichtet, den versäumten Unterrichtsstoff so rasch als möglich selbständig nachzuarbeiten.
 
 #### § 24
 
 **Absenzenkontrolle**
 
-<sup>1</sup> Die Schulleitung regelt die Absenzenkontrolle.
+Die Schulleitung regelt die Absenzenkontrolle.
 
 #### § 25
 
@@ -297,19 +325,20 @@ beschliesst:
 <sup>1</sup> Als unentschuldigt gilt:
 
 - 1\. jede nicht bewilligte Absenz;
+
 - 2\. jede Absenz, deren Entschuldigung von der Klassenlehrperson oder der Schulleitung als unbegründet abgelehnt wurde.
 
 <sup>2</sup> Bei unentschuldigten Absenzen trifft die Klassenlehrperson disziplinarische Massnahmen gemäss Art. 32 Abs. 1 kBBG[^25-1]; vorbehalten bleiben Massnahmen der Schulleitung oder des Amtes gemäss Art. 32 Abs. 2 und 3 kBBG sowie die Einreichung eines Strafantrages gemäss § 60.
 
 [^25-1]: NG 313.1
 
-### 1.3.3 Unterricht
+### 3. Unterricht
 
 #### § 26
 
 **Gestaltung des Unterrichts**
 
-<sup>1</sup> Die Lehrperson hat das Recht, im Rahmen des Lehrplans und unter Verwendung der obligatorischen Lehrmittel den Unterricht frei zu gestalten.
+Die Lehrperson hat das Recht, im Rahmen des Lehrplans und unter Verwendung der obligatorischen Lehrmittel den Unterricht frei zu gestalten.
 
 #### § 27
 
@@ -333,17 +362,19 @@ beschliesst:
 
 **Disziplin**
 
-<sup>1</sup> Die Schulleitung und die Lehrpersonen benachrichtigen spätestens bei wiederholten disziplinarischen Verstössen den Anbieter der Bildung in beruflicher Praxis sowie die Inhaber der elterlichen Sorge.
+Die Schulleitung und die Lehrpersonen benachrichtigen spätestens bei wiederholten disziplinarischen Verstössen den Anbieter der Bildung in beruflicher Praxis sowie die Inhaber der elterlichen Sorge.
+
+[^29-1]: Fassung gemäss Regierungsratsbeschluss vom 1. Juli 2014, A 2014, 1281; in Kraft seit 1. August 2014
 
 #### § 29a
 
-**Unregelmässigkeiten bei Prüfungen**
+**Unregelmässigkeiten bei Prüfungen[^29-1]**
 
 <sup>1</sup> Die Benützung unerlaubter Hilfsmittel sowie andere Unregelmässigkeiten führen zu einer Bewertung der Prüfung mit der Note 1 (sehr schwach).
 
 <sup>2</sup> Liegt lediglich der Verdacht einer Unregelmässigkeit vor, hat die Lernende oder der Lernende die Prüfung mit neuen Aufgaben zu wiederholen.
 
-### 1.3.4 Lehrpersonen
+- 4\. Lehrpersonen
 
 #### § 30
 
@@ -374,17 +405,18 @@ beschliesst:
 <sup>1</sup> Das Mentorat bezweckt:
 
 - 1\. Lehrpersonen ohne Unterrichtserfahrung auf der Sekundarstufe II in den Beruf einzuführen;
+
 - 2\. neue Lehrpersonen in den Schulbetrieb zu integrieren.
 
 <sup>2</sup> Das Verfahren und die Aufgaben des Mentorats werden im Qualitätskonzept geregelt.
 
-### 1.3.5 Qualitätssicherung und ‑entwicklung
+### 5. Qualitätssicherung und -entwicklung
 
 #### § 33
 
 **Konzept**
 
-<sup>1</sup> Die Schulleitung erarbeitet unter Mitwirkung der Lehrerkonferenz ein Konzept zur Qualitätssicherung und ‑entwicklung.
+<sup>1</sup> Die Schulleitung erarbeitet unter Mitwirkung der Lehrerkonferenz ein Konzept zur Qualitätssicherung und -entwicklung.
 
 <sup>2</sup> Es berücksichtigt die Interessen der Schule als Betrieb sowie diejenigen aller Beteiligten und verpflichtet sie zur kontinuierlichen Schulentwicklung.
 
@@ -405,8 +437,11 @@ beschliesst:
 <sup>1</sup> Das Konzept regelt insbesondere die Verfahren:
 
 - 1\. zur periodischen Beurteilung der Lehrpersonen;
+
 - 2\. zur Förderung und Entwicklung der Lehrpersonen;
+
 - 3\. zum Vorgehen bei erheblichen individuellen Qualitätsdefiziten von Lehrpersonen;
+
 - 4\. zur periodischen Überprüfung der Schulorganisation und des Schulbetriebs.
 
 <sup>2</sup> Die Beurteilung des übrigen Personals erfolgt gemäss der Personalgesetzgebung[^35-1].
@@ -417,31 +452,31 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Im Konzept werden die Aufgaben und Zuständigkeiten für die Qualitätssicherung und ‑entwicklung geregelt.
+Im Konzept werden die Aufgaben und Zuständigkeiten für die Qualitätssicherung und -entwicklung geregelt.
 
 #### § 37
 
 **Dokumentation**
 
-<sup>1</sup> Die Aktivitäten im Bereich der Qualitätssicherung und ‑entwicklung werden dokumentiert.
+<sup>1</sup> Die Aktivitäten im Bereich der Qualitätssicherung und -entwicklung werden dokumentiert.
 
 <sup>2</sup> Das Konzept regelt den Zugang zu den Dokumenten.
 
-### 1.4 Qualifikationsverfahren
+### D. Qualifikationsverfahren
 
-### 1.4.1 Organisation
+### 1. Organisation
 
 #### § 38
 
 **Zusammenarbeit**
 
-<sup>1</sup> Das Amt arbeitet bei der Organisation und der Durchführung von Qualifikationsverfahren mit den Organisationen der Arbeitswelt und anderen Kantonen zusammen.
+Das Amt arbeitet bei der Organisation und der Durchführung von Qualifikationsverfahren mit den Organisationen der Arbeitswelt und anderen Kantonen zusammen.
 
 #### § 39
 
 **Übertragung**
 
-<sup>1</sup> Das Amt kann die Durchführung von Qualifikationsverfahren ganz oder teilweise Organisationen der Arbeitswelt oder ausserkantonalen Prüfungsorganisationen übertragen.
+Das Amt kann die Durchführung von Qualifikationsverfahren ganz oder teilweise Organisationen der Arbeitswelt oder ausserkantonalen Prüfungsorganisationen übertragen.
 
 #### § 40
 
@@ -452,10 +487,15 @@ beschliesst:
 <sup>2</sup> Es ist insbesondere zuständig für:
 
 - 1\. die Befreiung von Lernenden von Teilen des Qualifikationsverfahrens sowie für die Gewährung von Prüfungserleichterungen gemäss Art. 35 Abs. 3 BBV[^40-1];
+
 - 2\. die Ernennung der Expertinnen und Experten sowie der Kantonsvertreterinnen und Kantonsvertreter in ausserkantonalen Prüfungsgremien;
+
 - 3\. die Überwachung des ordnungsgemässen Ablaufs der Qualifikationsverfahren;
+
 - 4\. den Erlass von Anordnungen und Weisungen;
+
 - 5\. die Erstellung des jährlichen Prüfungsprogramms;
+
 - 6\. die Ausstellung des eidgenössischen Berufsattestes und des eidgenössischen Fähigkeitszeugnisses sowie allfälliger kantonaler Ausweise.
 
 [^40-1]: SR 412.101
@@ -464,9 +504,9 @@ beschliesst:
 
 **Benutzung der Infrastruktur**
 
-<sup>1</sup> Für Qualifikationsverfahren sind verfügbare Räume und Einrichtungen von überbetrieblichen Kursen und der Berufsfachschule gegen entsprechende Abgeltung zur Verfügung zu stellen.
+Für Qualifikationsverfahren sind verfügbare Räume und Einrichtungen von überbetrieblichen Kursen und der Berufsfachschule gegen entsprechende Abgeltung zur Verfügung zu stellen.
 
-### 1.4.2 Rechte und Pflichten der Lernenden
+- 2\. Rechte und Pflichten der Lernenden
 
 #### § 42
 
@@ -494,21 +534,22 @@ beschliesst:
 
 <sup>2</sup> Das Gesuch ist mit der Anmeldung zum Qualifikationsverfahren unter Beilage von Arztzeugnissen einzureichen.
 
-### 1.4.3 Anerkennung und Validierung von Lernleistungen
+- 3\. Anerkennung und Validierung von Lernleistungen
 
 #### § 45
 
 **Anerkennung von Lernleistungen**
 
-<sup>1</sup> Das Amt entscheidet in Zusammenarbeit mit den betroffenen Organisationen der Arbeitswelt über die Anerkennung erworbener, nicht formalisierter Bildung und die Zulassung zu Qualifikationsverfahren.
+Das Amt entscheidet in Zusammenarbeit mit den betroffenen Organisationen der Arbeitswelt über die Anerkennung erworbener, nicht formalisierter Bildung und die Zulassung zu Qualifikationsverfahren.
 
 #### § 46
 
 **Validierung**
 
-<sup>1</sup> Das Amt stellt einen Ausweis für die erworbene, nicht formalisierte Bildung aus wenn:
+Das Amt stellt einen Ausweis für die erworbene, nicht formalisierte Bildung aus wenn:
 
 - 1\. die Kompetenzen, die ausserhalb üblicher Bildungsgänge durch berufliche oder ausserberufliche Praxiserfahrung erworben worden sind, zusammengestellt und dokumentiert sind;
+
 - 2\. diese Kompetenzen durch die vom Amt bezeichnete Stelle (Betrieb, Schule, Organisation der Arbeitswelt) institutionell überprüft und anerkannt worden sind.
 
 #### § 47
@@ -519,7 +560,7 @@ beschliesst:
 
 <sup>2</sup> Es prüft die Voraussetzungen, welche die Lernenden mitbringen müssen und legt die noch zu erbringenden Lernleistungen fest.
 
-## 2 Höhere Berufsbildung
+### II. HÖHERE BERUFSBILDUNG
 
 #### § 48
 
@@ -531,11 +572,13 @@ beschliesst:
 
 #### § 49
 
-**Vorbereitungsangebote für eidgenössische Berufs- und höhere Fachprüfungen**
+**Vorbereitungsangebote für eidgenössische**
 
-<sup>1</sup> Berufsverbände, weitere Bildungsinstitutionen sowie die Berufsfachschule können Vorbereitungskurse für eidgenössische Berufs- und höhere Fachprüfungen anbieten.
+### Berufs- und höhere Fachprüfungen
 
-## 3 Weiterbildung
+Berufsverbände, weitere Bildungsinstitutionen sowie die Berufsfachschule können Vorbereitungskurse für eidgenössische Berufs- und höhere Fachprüfungen anbieten.
+
+### III. WEITERBILDUNG
 
 #### § 50
 
@@ -556,14 +599,16 @@ beschliesst:
 <sup>2</sup> Gefördert werden insbesondere Angebote und Massnahmen:
 
 - 1\. für situationsbedingt benachteiligte Bevölkerungsgruppen;
+
 - 2\. zu spezifischen Sachgebieten und Themen, welche die Kultur, den gesellschaftlichen Zusammenhalt und Wandel betreffen;
+
 - 3\. zur Unterstützung von Personen, welche von tiefgreifenden wirtschaftlichen oder technologischen Veränderungen betroffen sind.
 
 <sup>3</sup> Beitragsgesuche können von Institutionen eingereicht werden, die über ein anerkanntes Qualitätssicherungssystem verfügen.
 
 [^51-1]: NG 313.1
 
-## 4 Berufs-, Studien- und Laufbahnberatung
+### IV. BERUFS-, STUDIEN- UND LAUFBAHNBERATUNG
 
 #### § 52
 
@@ -579,9 +624,9 @@ beschliesst:
 
 **Kostenpflicht**
 
-<sup>1</sup> Leistungen im Rahmen von Vereinbarungen sowie erweiterte diagnostische Testverfahren sind kostenpflichtig.
+Leistungen im Rahmen von Vereinbarungen sowie erweiterte diagnostische Testverfahren sind kostenpflichtig.
 
-## 5 Finanzierung
+### V. FINANZIERUNG
 
 #### § 54
 
@@ -590,11 +635,17 @@ beschliesst:
 <sup>1</sup> Der Kanton trägt, nach Abzug der Beiträge Dritter, die Kosten für:
 
 - 1\. den obligatorischen Unterricht im Rahmen der Vorbereitung auf die berufliche Grundbildung, sofern die Brückenangebote vom Kanton geführt werden;
+
 - 2\. den obligatorischen Berufsfachschul- und Berufsmaturitätsunterricht an der kantonalen Berufsfachschule;
+
 - 3\. die Durchführung von Prüfungen und anderen Qualifikationsverfahren der beruflichen Grundbildung, soweit diese Vollzugsverordnung keine abweichenden Bestimmungen enthält;
+
 - 4\. die höhere Berufsbildung an der kantonalen Berufsfachschule;
+
 - 5\. die Bildung von Berufsbildungsverantwortlichen, insbesondere Prüfungsexpertinnen und Prüfungsexperten;
+
 - 6\. die fachkundige individuelle Begleitung in der zweijährigen beruflichen Grundbildung gemäss Art. 18 BBG[^54-1];
+
 - 7\. die Beratungs- und Informationsdienstleistungen der Berufs-, Studien- und Laufbahnberatung für Personen aller Bildungsstufen, soweit diese Vollzugsverordnung keine abweichenden Bestimmungen enthält.
 
 <sup>2</sup> Für den Besuch von Freikursen und Weiterbildungskursen im Rahmen der Vorbereitung auf die berufliche Grundbildung und der beruflichen Grundbildung kann die Schulleitung Gebühren festlegen.
@@ -603,9 +654,11 @@ beschliesst:
 
 #### § 55
 
-**Kantonsbeiträge 1. Grundsätze**
+**Kantonsbeiträge**
 
-<sup>1</sup> Der Kanton leistet Beiträge an Dritte, denen er Aufgaben gemäss Art. 53 Abs. 2 BBG[^55-1] überträgt.
+### 1. Grundsätze
+
+<sup>1</sup> Der Kanton leistet Beiträge an Dritte, denen er Aufgaben gemäss Art. 53 Abs. 2 BBG[^h1Grundsätze-1] überträgt.
 
 <sup>2</sup> Die Höhe der Kantonsbeiträge richtet sich grundsätzlich nach den Bundesvorgaben und den interkantonalen Vereinbarungen.
 
@@ -613,19 +666,19 @@ beschliesst:
 
 <sup>4</sup> Das Amt ist zuständig, Kostengutsprachen gegenüber Bildungsanbietern zu leisten.
 
-[^55-1]: SR 412.10
+[^h1Grundsätze-1]: SR 412.10
 
 #### § 56
 
 **2. Höhere Berufsbildung**
 
-<sup>1</sup> An private Anbieterinnen oder Anbieter, die im Kanton Angebote der höheren Berufsbildung führen, kann der Kanton zusätzlich einen Standortbeitrag von höchstens 50 Prozent der ordentlichen Pauschalbeiträge gemäss § 55 entrichten.
+An private Anbieterinnen oder Anbieter, die im Kanton Angebote der höheren Berufsbildung führen, kann der Kanton zusätzlich einen Standortbeitrag von höchstens 50 Prozent der ordentlichen Pauschalbeiträge gemäss § 55 entrichten.
 
 #### § 57
 
 **3. Kurse für Berufsbildnerinnen und Berufsbildner**
 
-<sup>1</sup> Der Kanton leistet Pauschalbeiträge an die obligatorischen Kurse für Berufsbildnerinnen und Berufsbildner gemäss Art. 45 BBG[^57-1]. Diese betragen 50 bis 80 Prozent der anerkannten Kosten.
+Der Kanton leistet Pauschalbeiträge an die obligatorischen Kurse für Berufsbildnerinnen und Berufsbildner gemäss Art. 45 BBG[^57-1]. Diese betragen 50 bis 80 Prozent der anerkannten Kosten.
 
 [^57-1]: SR 412.10
 
@@ -633,29 +686,31 @@ beschliesst:
 
 **4. Weiterbildung**
 
-<sup>1</sup> Der Kanton kann im Rahmen der verfügbaren Mittel Beiträge an die Kosten der Weiterbildung gemäss § 51 entrichten. Diese betragen höchstens 50 Prozent der anerkannten Kosten.
+Der Kanton kann im Rahmen der verfügbaren Mittel Beiträge an die Kosten der Weiterbildung gemäss § 51 entrichten. Diese betragen höchstens 50 Prozent der anerkannten Kosten.
 
 #### § 59
 
 **5. Projekte**
 
-<sup>1</sup> Der Kanton kann im Rahmen der verfügbaren Mittel Beiträge an Pilotprojekte gemäss Art. 14 kBBG[^59-1] entrichten. Diese decken höchstens 60 Prozent der anerkannten Kosten.
+Der Kanton kann im Rahmen der verfügbaren Mittel Beiträge an Pilotprojekte gemäss Art. 14 kBBG[^59-1] entrichten. Diese decken höchstens 60 Prozent der anerkannten Kosten.
 
 [^59-1]: NG 313.1
 
-## 7 Straf-, Übergangs- und Schlussbestimmungen
+### VII. STRAF-, ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
+
+[^hVIISTRAFÜBERGAN-1]: Fassung gemäss Regierungsratsbeschluss vom 10. Dezember 2019; A 2019, 2233; in Kraft seit 1. Januar 2020
 
 #### § 60
 
-**Strafantrag**
+**Strafantrag[^hVIISTRAFÜBERGAN-1]**
 
-<sup>1</sup> Die Berufsbildungskommission ist zuständig, bei Verstössen gemäss Art. 38 bei der Staatsanwaltschaft einen Strafantrag einzureichen.
+Die Berufsbildungskommission ist zuständig, bei Verstössen gemäss Art. 38 bei der Staatsanwaltschaft einen Strafantrag einzureichen.
 
 #### § 61
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Reglement vom 23. September 2003 über die Lehrabschlussprüfung im Fach Allgemeinbildung für gewerblich-industrielle Berufe (Prüfungsreglement ABU)[^61-1] wird aufgehoben.
+Das Reglement vom 23. September 2003 über die Lehrabschlussprüfung im Fach Allgemeinbildung für gewerblich-industrielle Berufe (Prüfungsreglement ABU)[^61-1] wird aufgehoben.
 
 [^61-1]: A 2003, 1395
 
@@ -663,7 +718,7 @@ beschliesst:
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Die Lehrabschlussprüfung im Fach Allgemeinbildung für gewerblich-industrielle Berufe richtet sich für Lernende, die ihre Ausbildung vor dem 1. August 2007 begonnen haben, nach dem Prüfungsreglement ABU vom 23. September 2003[^62-1].
+<sup>1</sup> Die Lehrabschlussprüfung im Fach Allgemeinbildung für gewerblichindustrielle Berufe richtet sich für Lernende, die ihre Ausbildung vor dem 01. August 2007 begonnen haben, nach dem Prüfungsreglement ABU vom 23. September 2003[^62-1].
 
 <sup>2</sup> Im Rahmen der regionalen Koordination kann das Amt während drei Jahren nach Inkrafttreten dieser Vollzugsverordnung im Einzelfall zusätzliche Beiträge an die Kosten der überbetrieblichen Kurse entrichten.
 
@@ -673,6 +728,4 @@ beschliesst:
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt auf den 1. August 2008 in Kraft.
-
-A 2008, 1481
+Diese Verordnung tritt auf den 1. August 2008 in Kraft.
