@@ -5,35 +5,37 @@ title: Zentralschweizer Fachhochschul-Verordnung
 short: ZFHVo
 language: de
 version: 2021-01-01
-valid_until: 2022-12-31
+corrected: 2021-09-07
 version_adopted: 2021-03-19
 adopted: 2012-12-14
 in_force: 2013-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/317.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/566/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/157/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Zentralschweizer Fachhochschul-Verordnung
 
-vom 14.12.2012 (Stand 01.01.2021)
+vom 14. Dezember 2012[^t-1]
 
 Der Konkordatsrat der Fachhochschule Zentralschweiz,
 
-gestützt auf Artikel 19 Absatz 1b der Zentralschweizer Fachhochschul-Vereinbarung vom 15. September 2011[^ingress-1],
+gestützt auf Artikel 19 Absatz 1b der Zentralschweizer Fachhochschul-Vereinbarung vom 15. September 2011[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 317.11
+[^t-1]: A 2013, 37
+[^t-2]: NG 317.11
 
-## 1 Allgemeines
+### A. ALLGEMEINES
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Diese Verordnung regelt den Vollzug der Zentralschweizer Fachhochschul-Vereinbarung vom 15. September 2011[^1-1].
+Diese Verordnung regelt den Vollzug der Zentralschweizer Fachhochschul-Vereinbarung vom 15. September 2011[^1-1].
 
 [^1-1]: NG 317.11
 
@@ -41,11 +43,11 @@ beschliesst:
 
 **Name**
 
-<sup>1</sup> Die Fachhochschule trägt den Namen «Hochschule Luzern».
+<sup>1</sup> Die Fachhochschule trägt den Namen „Hochschule Luzern“.
 
-<sup>2</sup> Das Erscheinungsbild enthält die Bezeichnung «FH Zentralschweiz». Im Übrigen liegt das Erscheinungsbild in der Zuständigkeit der Fachhochschulleitung.
+<sup>2</sup> Das Erscheinungsbild enthält die Bezeichnung „FH Zentralschweiz“. Im Übrigen liegt das Erscheinungsbild in der Zuständigkeit der Fachhochschulleitung.
 
-## 2 Finanzierung
+### B. FINANZIERUNG
 
 #### Art. 3
 
@@ -57,9 +59,11 @@ beschliesst:
 
 <sup>3</sup> Der Fachhochschulrat legt dem Konkordatsrat die rollende 4-jährige Finanzplanung jährlich zur Kenntnisnahme vor.
 
+[^3-1]: Fassung gemäss Beschluss des Konkordatsrats vom 19. März 2021, A 2021, 723; in Kraft seit 1. Januar 2021
+
 #### Art. 4
 
-**Standards der Rechnungslegung**
+**Standards der Rechnungslegung[^3-1]**
 
 <sup>1</sup> Für die Rechnungslegung der Fachhochschule sind die Standards von Swiss GAAP FER mit Ausnahme von Standard Nr. 13 anzuwenden.
 
@@ -74,8 +78,11 @@ beschliesst:
 <sup>2</sup> Gründe für eine allfällige Anpassung der jährlichen Finanzierungsbeiträge sind:
 
 - a. unerwartet hohe Aufwand- oder Ertragsüberschüsse;
+
 - b. gravierende Veränderungen in den volkswirtschaftlichen Rahmenbedingungen (Teuerung, Steuererträge u.Ä.):
+
 - c. Veränderungen in den Beitragstarifen des Bundes oder der Kantone (FHV-Beiträge);
+
 - d. im Leistungsauftrag nicht vorgesehene Änderungen des Umfangs der zu erbringenden Leistungen (z.B. Eröffnung oder Schliessung von Studiengängen).
 
 <sup>3</sup> Veränderungen in den Studierendenzahlen haben direkten Einfluss auf die von den Kantonen zu leistenden FHV-Beiträge. Sie fliessen in die rollende Finanzplanung ein, sind jedoch nicht Gegenstand des jährlichen Finanzierungsbeschlusses.
@@ -90,9 +97,9 @@ beschliesst:
 
 #### Art. 7
 
-**Eigenkapital 1. Pflichtreserve**
+**Eigenkapital**
 
-<sup>1</sup> Die Pflichtreserve beträgt höchstens 5 Prozent des Jahresumsatzes gemäss der letzten genehmigten Jahresrechnung.
+- 1\. Pflichtreserve Die Pflichtreserve beträgt höchstens 5 Prozent des Jahresumsatzes gemäss der letzten genehmigten Jahresrechnung.
 
 #### Art. 8
 
@@ -100,7 +107,7 @@ beschliesst:
 
 <sup>1</sup> Die freie Reserve beträgt höchstens 5 Prozent des Jahresumsatzes gemäss der letzten genehmigten Jahresrechnung.
 
-<sup>2</sup> Die Fachhochschulleitung kann zulasten der freien Reserve pro Rechnungsjahr in eigener Kompetenz über maximal 250'000 Franken verfügen. Über darüber hinausgehende Entnahmen aus der freien Reserve entscheidet der Fachhochschulrat.
+<sup>2</sup> Die Fachhochschulleitung kann zulasten der freien Reserve pro Rechnungsjahr in eigener Kompetenz über maximal 250‘000 Franken verfügen. Über darüber hinausgehende Entnahmen aus der freien Reserve entscheidet der Fachhochschulrat.
 
 #### Art. 9
 
@@ -112,32 +119,32 @@ beschliesst:
 
 [^9-1]: NG 317.11
 
-## 3 Bauliche Infrastruktur
+### C. BAULICHE INFRASTRUKTUR
 
 #### Art. 10
 
 **Kompetenzen für den Abschluss von Mietverträgen**
 
-<sup>1</sup> Mietverträge mit einer Mietzinssumme von über 200'000 Franken pro Jahr bedürfen der einstimmigen Genehmigung durch den Konkordatsrat.
+Mietverträge mit einer Mietzinssumme von über 200‘000 Franken pro Jahr bedürfen der einstimmigen Genehmigung durch den Konkordatsrat.
 
 #### Art. 11
 
-**Infrastrukturplanung und Liegenschaftenbewirtschaftung durch die Standortkantone**
+**Infrastrukturplanung und Liegenschaften-**
 
-<sup>1</sup> Die Leistungen der Standortkantone im Bereich der Infrastrukturplanung und der Liegenschaftsbewirtschaftung und deren Entschädigung werden zwischen Konkordatsrat und Standortkantonen durch Leistungsvereinbarung geregelt.
+bewirtschaftung durch die Standortkantone
+
+Die Leistungen der Standortkantone im Bereich der Infrastrukturplanung und der Liegenschaftsbewirtschaftung und deren Entschädigung werden zwischen Konkordatsrat und Standortkantonen durch Leistungsvereinbarung geregelt.
 
 #### Art. 12
 
 **Raumkosten**
 
-<sup>1</sup> Nutzt die Fachhochschule Gebäude, die einem Vereinbarungskanton gehören, ist ein Mietzins festzulegen, der auf dem Anschaffungs- oder dem Erstellungswert basiert. Dabei sind die durch den Bund und die übrigen Vereinbarungskantone an den Bau des Gebäudes geleisteten Beiträge abzuziehen.
+Nutzt die Fachhochschule Gebäude, die einem Vereinbarungskanton gehören, ist ein Mietzins festzulegen, der auf dem Anschaffungs- oder dem Erstellungswert basiert. Dabei sind die durch den Bund und die übrigen Vereinbarungskantone an den Bau des Gebäudes geleisteten Beiträge abzuziehen.
 
-## 4 Schlussbestimmungen
+### D. SCHLUSSBESTIMMUNGEN
 
 #### Art. 13
 
 **Inkrafttreten**
 
-<sup>1</sup> Die Verordnung tritt am 1. Januar 2013 in Kraft. Sie ist zu veröffentlichen.
-
-A 2013, 37
+Die Verordnung tritt am 1. Januar 2013 in Kraft. Sie ist zu veröffentlichen.
