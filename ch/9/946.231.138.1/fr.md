@@ -3,18 +3,18 @@ sr: "946.231.138.1"
 title: "Ordonnance du 24 février 2010 instituant des mesures à l'encontre de la Guinée"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/117"
 language: fr
-version: 2020-08-25
+version: 2021-09-07
 adopted: 2010-02-24
 in_force: 2010-02-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20200825/fr/xml/fedlex-data-admin-ch-eli-cc-2010-117-20200825-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20200825/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20210907/fr/xml/fedlex-data-admin-ch-eli-cc-2010-117-20210907-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20210907/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Guinée
 
-du 24 février 2010 (Etat le 25 août 2020)
+du 24 février 2010 (Etat le 7 septembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -137,6 +137,9 @@ Annexe 2*[^t-2]*
 
 (art. 2 et 4)
 
-## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
+## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières****
 
-[^t-2]: Non publiée au RO ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [2018 3907](https://fedlex.data.admin.ch/eli/oc/2018/623)). Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos.
+[^annex2-lvlu1-1]
+
+[^t-2]: Nouvelle teneur selon le ch. I 13 de l’O du 19 déc. 2012 modifiant la publication des annexes aux ordonnances relatives aux embargos ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Mise à jour par le ch. I des O du DEFR du 7 nov. 2018 ([RO 2018 3907](https://fedlex.data.admin.ch/eli/oc/2018/623)) et du 6 sept. 2021, en vigueur depuis le 7 sept. 2021 ([RO 2021 535](https://fedlex.data.admin.ch/eli/oc/2021/535)).
+[^annex2-lvlu1-1]: Non publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Thèmes &gt; Politique économique extérieure &gt; Sanctions / Embargos.

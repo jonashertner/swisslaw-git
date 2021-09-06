@@ -3,18 +3,18 @@ sr: "946.231.138.1"
 title: Verordnung vom 24. Februar 2010 über Massnahmen gegenüber Guinea
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/117"
 language: de
-version: 2020-08-25
+version: 2021-09-07
 adopted: 2010-02-24
 in_force: 2010-02-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20200825/de/xml/fedlex-data-admin-ch-eli-cc-2010-117-20200825-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20200825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/117/20210907/de/xml/fedlex-data-admin-ch-eli-cc-2010-117-20210907-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/117/20210907/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Guinea
 
-vom 24. Februar 2010 (Stand am 25. August 2020)
+vom 24. Februar 2010 (Stand am 7. September 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -137,6 +137,9 @@ Anhang 2*[^t-2]*
 
 (Art. 2 und 4)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten****
 
-[^t-2]: In der AS nicht veröffentlicht ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35), [2018 3907](https://fedlex.data.admin.ch/eli/oc/2018/623)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^annex2-lvlu1-1]
+
+[^t-2]: Fassung gemäss Ziff. I 13 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Bereinigt gemäss Ziff. I der V des WBF vom 7. Nov. 2018 ([AS 2018 3907](https://fedlex.data.admin.ch/eli/oc/2018/623)) und vom 6. Sept. 2021, in Kraft seit 7. Sept. 2021 ([AS 2021 535](https://fedlex.data.admin.ch/eli/oc/2021/535)).
+[^annex2-lvlu1-1]: In der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Themen &gt; Aussen-wirtschaft &gt; Sanktionen/Embargos eingesehen werden.
