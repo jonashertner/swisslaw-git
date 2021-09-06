@@ -5,23 +5,24 @@ title: Interkantonale Universitätsvereinbarung
 short: IUV
 language: de
 version: 2011-12-01
-valid_until: 2021-12-31
+corrected: 2021-09-07
 version_adopted: 2011-12-01
 adopted: 2019-06-27
 in_force: 2022-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/315.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/574/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/154/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Universitätsvereinbarung
+# Interkantonale Universitätsvereinbarung (IUV)
 
-(IUV)
+vom 20. Februar 1997[^t-1]
 
-vom 20.02.1997 (Stand 01.12.2011)
+I. ALLGEMEINE BESTIMMUNGEN
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: A 1998, 1139, SR 414.23; vom Landrat genehmigt am 17. Juni 1998; A 1998, 1138
 
 #### Art. 1
 
@@ -65,25 +66,25 @@ vom 20.02.1997 (Stand 01.12.2011)
 
 **Fürstentum Liechtenstein**
 
-<sup>1</sup> Dieser Vereinbarung kann auch das Fürstentum Liechtenstein beitreten. Ihm stehen alle Rechte und Pflichten eines Vereinbarungskantons zu.
+Dieser Vereinbarung kann auch das Fürstentum Liechtenstein beitreten. Ihm stehen alle Rechte und Pflichten eines Vereinbarungskantons zu.
 
 #### Art. 6
 
 **Kantone als Mitträger von Universitäten**
 
-<sup>1</sup> Vereinbarungskantone, die finanzielle Mitträger einer Universität sind, haben dem betreffenden Universitätskanton keine Beiträge aufgrund dieser Vereinbarung zu entrichten, sofern ihre finanzielle Leistung die Beiträge nach Abschnitt 4 dieser Vereinbarung erreicht oder übersteigt.
+Vereinbarungskantone, die finanzielle Mitträger einer Universität sind, haben dem betreffenden Universitätskanton keine Beiträge aufgrund dieser Vereinbarung zu entrichten, sofern ihre finanzielle Leistung die Beiträge nach Abschnitt IV dieser Vereinbarung erreicht oder übersteigt.
 
 #### Art. 7
 
 **Zahlungspflichtiger Kanton**
 
-<sup>1</sup> Zahlungspflichtig ist der Vereinbarungskanton, in dem Studierende zum Zeitpunkt der Erlangung des Universitätszulassungsausweises gesetzlichen Wohnsitz hatten (Art. 23–26 ZGB[^7-1]).
+<sup>1</sup> Zahlungspflichtig ist der Vereinbarungskanton, in dem Studierende zum Zeitpunkt der Erlangung des Universitätszulassungsausweises gesetzlichen Wohnsitz hatten (Art. 23-26 ZGB[^7-1].
 
 <sup>2</sup> Für Studierende, die nach Erlangung eines ersten universitären Abschlusses (Lizentiat, Diplom oder ähnliches) ein Zweitstudium aufnehmen, ist der Vereinbarungskanton zahlungspflichtig, in dem diese zum Zeitpunkt der Aufnahme des Zweitstudiums (Semesterbeginn) gesetzlichen Wohnsitz hatten.
 
 [^7-1]: SR 210
 
-## 2 Studierende
+### II. STUDIERENDE
 
 #### Art. 8
 
@@ -94,6 +95,7 @@ vom 20.02.1997 (Stand 01.12.2011)
 <sup>2</sup> Für die folgenden Studienstufen werden Beiträge geleistet:
 
 - a) Stufe vor dem Erstabschluss: Lizentiats- oder Diplomstudiengänge und solche mit einem nichtakademischen Abschluss;
+
 - b) Stufe Doktorat: Doktoratsstudiengänge.
 
 <sup>3</sup> Für beurlaubte Studierende werden keine Beiträge geleistet.
@@ -106,15 +108,17 @@ vom 20.02.1997 (Stand 01.12.2011)
 
 <sup>2</sup> Die Studierenden werden je einer der drei nachfolgenden Fakultätsgruppen zugeordnet:
 
-- a) Fakultätsgruppe I: Studierende der Geistes- und Sozialwissenschaften;
-- b) Fakultätsgruppe II: Studierende der Exakten-, Natur- und technischen Wissenschaften, der Pharmazie, der Ingenieurwissenschaften und der vorklinischen Ausbildung (erstes und zweites Studienjahr der Human-, Zahn- und Veterinärmedizin);
-- c) Fakultätsgruppe III: Studierende der klinischen Ausbildung der Human-, Zahn- und Veterinärmedizin ab drittem Studienjahr.
+Fakultätsgruppe I: Studierende der Geistes- und Sozialwissenschaften;
+
+Fakultätsgruppe II: Studierende der Exakten-, Natur- und technischen Wissenschaften, der Pharmazie, der Ingenieurwissenschaften und der vorklinischen Ausbildung (erstes und zweites Studienjahr der Human-, Zahn- und Veterinärmedizin);
+
+Fakultätsgruppe III: Studierende der klinischen Ausbildung der Human-, Zahn- und Veterinärmedizin ab drittem Studienjahr.
 
 <sup>3</sup> In Zweifelsfällen entscheidet die Kommission Universitätsvereinbarung über die Zuordnung von Studiengängen zu einer Fakultätsgruppe.
 
 <sup>4</sup> Den Vereinbarungskantonen wird Einsicht in die Namenslisten der Studierenden gewährt, für welche sie Beiträge leisten.
 
-## 3 Hochschulzugang und Gleichbehandlung
+### III. HOCHSCHULZUGANG UND GLEICHBEHANDLUNG
 
 #### Art. 10
 
@@ -128,7 +132,9 @@ vom 20.02.1997 (Stand 01.12.2011)
 
 #### Art. 11
 
-**Behandlung von Studierenden aus Nichtvereinbarungskantonen**
+**Behandlung von Studierenden aus**
+
+### Nichtvereinbarungskantonen
 
 <sup>1</sup> Studierende aus Nichtvereinbarungskantonen haben keinen Anspruch auf Gleichbehandlung.
 
@@ -136,19 +142,23 @@ vom 20.02.1997 (Stand 01.12.2011)
 
 <sup>3</sup> Ihnen werden zusätzliche Gebühren auferlegt, die mindestens den Beiträgen gemäss Artikel 12 entsprechen.
 
-## 4 Beiträge
+### IV. BEITRÄGE
+
+[^hIVBEITRÄGE-1]: A 2013, 769; Beschluss der Kommission Universitätsvereinbarung vom 1. Dezember 2011
 
 #### Art. 12
 
-**Beitragshöhe**
+**Beitragshöhe[^hIVBEITRÄGE-1]**
 
 <sup>1</sup> Die Pauschalbeträge pro Studierenden belaufen sich auf:
 
-<table>
-<tr><th>Studienjahr</th><th>Fakultätsgruppe I</th><th>Fakultätsgruppe II</th><th>Fakultätsgruppe III</th></tr>
-<tr><td>Ab Studienjahr 2005/2006</td><td>Fr. 10'090.–</td><td>Fr. 24'430.–</td><td>Fr. 48'860.–</td></tr>
-<tr><td>Ab Studienjahr 2013/14</td><td>Fr. 10'000.–</td><td>Fr. 25'700.–</td><td>Fr. 51'400.–</td></tr>
-</table>
+Fakultätsgruppe Fakultätsgruppe Fakultätsgruppe
+
+**III**
+
+I II
+
+Ab Studienjahr 2005/2006 10‘090 Franken 24‘430 Franken 48‘860 Franken Ab Studienjahr 2013/14 10‘000 Franken 25‘700 Franken 51‘400 Franken
 
 <sup>2</sup> Je die Hälfte der oben erwähnten Beiträge ist für die Studierenden im Wintersemester und im Sommersemester zu entrichten.
 
@@ -164,9 +174,8 @@ vom 20.02.1997 (Stand 01.12.2011)
 
 **Dauer der Zahlungspflicht**
 
-<sup>1</sup> Die Zahlungspflicht ist zeitlich begrenzt auf
+<sup>1</sup> Die Zahlungspflicht ist zeitlich begrenzt auf a) 12 Semester für immatrikulierte Studierende eines Studienfaches der Fakultätsgruppen I und II;
 
-- a) 12 Semester für immatrikulierte Studierende eines Studienfaches der Fakultätsgruppen I und II;
 - b) 16 Semester für immatrikulierte Studierende eines Studienfaches der Fakultätsgruppe III.
 
 <sup>2</sup> Berücksichtigt wird die gesamte Immatrikulationsdauer an einer oder mehreren Schweizer Universitäten und Institutionen universitärer Lehre.
@@ -177,9 +186,9 @@ vom 20.02.1997 (Stand 01.12.2011)
 
 **Abzug bei hohen Studiengebühren**
 
-<sup>1</sup> Die Universitätskantone können angemessene individuelle Studiengebühren erheben. Übersteigen diese Gebühren eine von der Kommission Universitätsvereinbarung festgelegte Höchstgrenze, werden die in Artikel 12 festgelegten Beiträge an den betreffenden Universitätskanton entsprechend gekürzt.
+Die Universitätskantone können angemessene individuelle Studiengebühren erheben. Übersteigen diese Gebühren eine von der Kommission Universitätsvereinbarung festgelegte Höchstgrenze, werden die in Artikel 12 festgelegten Beiträge an den betreffenden Universitätskanton entsprechend gekürzt.
 
-## 5 Vollzug
+### V. VOLLZUG
 
 #### Art. 16
 
@@ -191,17 +200,17 @@ vom 20.02.1997 (Stand 01.12.2011)
 
 <sup>3</sup> Eine Vertreterin oder ein Vertreter des Bundes nimmt mit beratender Stimme an den Sitzungen teil.
 
-<sup>4</sup> Der Kommission Universitätsvereinbarung obliegen insbesondere die folgenden Aufgaben: Sie
+<sup>4</sup> Der Kommission Universitätsvereinbarung obliegen insbesondere die folgenden Aufgaben: Sie a) beaufsichtigt die Tätigkeit der Geschäftsstelle;
 
-- a) beaufsichtigt die Tätigkeit der Geschäftsstelle;
 - b) trifft die laufenden Sachentscheide, die sich beim Vollzug der Vereinbarung stellen;
+
 - c) stellt in wichtigen Fragen Anträge an die Regierungen der Vereinbarungskantone; die Vorstände der EDK und der FDK sind in der Regel vorher anzuhören.
 
 #### Art. 17
 
 **Geschäftsstelle**
 
-<sup>1</sup> Geschäftsstelle der Vereinbarung ist das Sekretariat der EDK. Sie besorgt die laufenden Geschäfte der Vereinbarung.
+Geschäftsstelle der Vereinbarung ist das Sekretariat der EDK. Sie besorgt die laufenden Geschäfte der Vereinbarung.
 
 #### Art. 18
 
@@ -215,7 +224,7 @@ vom 20.02.1997 (Stand 01.12.2011)
 
 **Verrechnung**
 
-<sup>1</sup> Beiträge, die ein Vereinbarungskanton zu leisten hat, werden mit seinen Forderungen aus dieser Vereinbarung verrechnet.
+Beiträge, die ein Vereinbarungskanton zu leisten hat, werden mit seinen Forderungen aus dieser Vereinbarung verrechnet.
 
 #### Art. 20
 
@@ -225,31 +234,29 @@ vom 20.02.1997 (Stand 01.12.2011)
 
 <sup>2</sup> Die Kommission Universitätsvereinbarung kann beschliessen, den Zinsertrag für weitere Aufgaben zu verwenden, die sich aus dem Vollzug der Vereinbarung ergeben.
 
-## 6 Rechtspflege
+### VI. RECHTSPFLEGE
 
 #### Art. 21
 
 **Schiedsinstanz**
 
-<sup>1</sup> Eine von der Kommission Universitätsvereinbarung eingesetzte Schiedsinstanz entscheidet endgültig über strittige Fragen betreffend die Studierendenzahl, die Zuordnung der Studierenden zu einer der drei Fakultätsgruppen und die Zahlungspflicht eines Kantons.
+Eine von der Kommission Universitätsvereinbarung eingesetzte Schiedsinstanz entscheidet endgültig über strittige Fragen betreffend die Studierendenzahl, die Zuordnung der Studierenden zu einer der drei Fakultätsgruppen und die Zahlungspflicht eines Kantons.
 
 #### Art. 22
 
 **Bundesgericht**
 
-<sup>1</sup> Das Bundesgericht entscheidet gemäss Artikel 83 Absatz 1 Buchstabe b des Bundesgesetzes über die Bundesrechtspflege vom 16. Dezember 1943[^22-1] auf staatsrechtliche Klage über Streitigkeiten, die sich aus dieser Vereinbarung zwischen Kantonen ergeben können; vorbehalten bleibt Artikel 21.
+Das Bundesgericht entscheidet gemäss Artikel 83 Absatz 1 Buchstabe b des Bundesgesetzes über die Bundesrechtspflege vom 16. Dezember 1943[^22-1] auf staatsrechtliche Klage über Streitigkeiten, die sich aus dieser Vereinbarung zwischen Kantonen ergeben können; vorbehalten bleibt Artikel 21.
 
 [^22-1]: SR 173.110
 
-## 7 Schlussbestimmungen
+### VII. SCHLUSSBESTIMMUNGEN
 
 #### Art. 23
 
 **Beitritt**
 
-<sup>1</sup> Der Beitritt zu dieser Vereinbarung ist dem Generalsekretariat der EDK mitzuteilen[^23-1].
-
-[^23-1]: Vom Landrat genehmigt am 17. Juni 1998
+Der Beitritt zu dieser Vereinbarung ist dem Generalsekretariat der EDK mitzuteilen.
 
 #### Art. 24
 
@@ -265,7 +272,7 @@ vom 20.02.1997 (Stand 01.12.2011)
 
 **Mindestzahl der Vereinbarungskantone**
 
-<sup>1</sup> Diese Vereinbarung ist nur rechtsgültig, wenn und solange mindestens je die Hälfte der Universitäts- und der Nichtuniversitätskantone ihren Beitritt erklärt haben.
+Diese Vereinbarung ist nur rechtsgültig, wenn und solange mindestens je die Hälfte der Universitäts- und der Nichtuniversitätskantone ihren Beitritt erklärt haben.
 
 #### Art. 26
 
@@ -274,6 +281,7 @@ vom 20.02.1997 (Stand 01.12.2011)
 <sup>1</sup> Die Kommission Universitätsvereinbarung kann:
 
 - a. die Höhe der Beiträge nach Massgabe der Entwicklung der Ausbildungskosten anpassen, erstmalig auf den 1. Januar 2004;
+
 - b. die Höhe der Abzüge für hohe Wanderungsverluste anpassen, soweit eine massgebliche Situationsveränderung eintritt, erstmalig auf den 1. Januar 2004.
 
 <sup>2</sup> Die Anpassung der Beiträge darf die Teuerung nach Massgabe des Landesindexes der Konsumentenpreise nicht überschreiten.
@@ -286,6 +294,4 @@ vom 20.02.1997 (Stand 01.12.2011)
 
 **Weiterdauer der Verpflichtungen**
 
-<sup>1</sup> Kündigt ein Kanton die Vereinbarung, bleiben seine Verpflichtungen aus dieser Vereinbarung bezüglich der zum Zeitpunkt des Austritts immatrikulierten Studierenden weiter bestehen.
-
-A 1998, 1138, 1139
+Kündigt ein Kanton die Vereinbarung, bleiben seine Verpflichtungen aus dieser Vereinbarung bezüglich der zum Zeitpunkt des Austritts immatrikulierten Studierenden weiter bestehen.
