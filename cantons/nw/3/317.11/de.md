@@ -4,20 +4,22 @@ number: "317.11"
 title: Zentralschweizer Fachhochschul-Vereinbarung
 language: de
 version: 2013-01-01
+corrected: 2021-09-07
 version_adopted: 2011-09-15
 adopted: 2011-09-15
 in_force: 2013-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/317.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/565/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/155/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Zentralschweizer Fachhochschul-Vereinbarung
 
-vom 15.09.2011 (Stand 01.01.2013)
+vom 15. September 2011<sup>1</sup>
 
-## 1 Allgemeines
+A. ALLGEMEINES
 
 #### Art. 1
 
@@ -59,11 +61,14 @@ vom 15.09.2011 (Stand 01.01.2013)
 
 #### Art. 5
 
-**Förderung der Forschung und Entwicklung sowie des Wissenstransfers**
+**Förderung der Forschung und Entwicklung sowie des**
+
+### Wissenstransfers
 
 <sup>1</sup> Die Fachhochschule fördert im Rahmen des Leistungsauftrags:
 
 - a. die Forschung und Entwicklung;
+
 - b. den Austausch von Wissen, Können und Technologie mit Wirtschaft und Gesellschaft.
 
 <sup>2</sup> Sie kann sich hierfür an Institutionen oder Unternehmen beteiligen.
@@ -74,7 +79,7 @@ vom 15.09.2011 (Stand 01.01.2013)
 
 **Freiheit von Lehre und Forschung**
 
-<sup>1</sup> Die Fachhochschule wahrt bei ihren Tätigkeiten ihre Unabhängigkeit sowie die Freiheit von Lehre und Forschung.
+Die Fachhochschule wahrt bei ihren Tätigkeiten ihre Unabhängigkeit sowie die Freiheit von Lehre und Forschung.
 
 #### Art. 7
 
@@ -84,13 +89,13 @@ vom 15.09.2011 (Stand 01.01.2013)
 
 <sup>2</sup> Im Leistungsauftrag können der Fachhochschule auch Ausbildungsaufgaben anderer Bildungsstufen übertragen werden, sofern diese von regionalem Interesse sind und in einem inhaltlichen Zusammenhang mit dem Ausbildungsangebot der Fachhochschule stehen.
 
-## 2 Aus- und Weiterbildung
+### B. AUS- UND WEITERBILDUNG
 
 #### Art. 8
 
 **Grundsatz**
 
-<sup>1</sup> Zulassung zum Fachhochschulstudium sowie Studienformen und ‑umfang, erforderliche Studienleistungen, Abschlüsse und Titel richten sich nach den Bestimmungen des Bundesrechts und der interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen.
+Zulassung zum Fachhochschulstudium sowie Studienformen und -umfang, erforderliche Studienleistungen, Abschlüsse und Titel richten sich nach den Bestimmungen des Bundesrechts und der interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen.
 
 #### Art. 9
 
@@ -99,13 +104,17 @@ vom 15.09.2011 (Stand 01.01.2013)
 <sup>1</sup> Der Konkordatsrat kann auf Antrag des Fachhochschulrats befristete Zulassungsbeschränkungen verfügen. Er kann:
 
 - a. die Zulassung zu den Bachelor- und Masterstudiengängen beschränken, wenn die Nachfrage nach Studienplätzen das Angebot übersteigt;
+
 - b. die Zulassung von ausländischen Studierenden beschränken, die sich zum Zwecke der Ausbildung in der Schweiz aufhalten.
 
 <sup>2</sup> Als Beschränkungsmassnahmen kommen insbesondere in Betracht:
 
 - a. Berücksichtigung von Eignungskriterien;
+
 - b. Berücksichtigung der Dauer der praktischen Tätigkeit;
+
 - c. Wartelisten;
+
 - d. Zuweisung an andere Fachhochschulen zur Einschreibung im Rahmen von Vereinbarungen mit anderen Schulträgern.
 
 <sup>3</sup> Beschränkungsmassnahmen können einzeln oder kumulativ angeordnet werden.
@@ -122,7 +131,7 @@ vom 15.09.2011 (Stand 01.01.2013)
 
 <sup>4</sup> Nachdiplomstudien und Weiterbildungsveranstaltungen sind kostendeckend in Rechnung zu stellen. Der Konkordatsrat regelt die Ausnahmen.
 
-## 3 Angehörige der Fachhochschule
+### C. ANGEHÖRIGE DER FACHHOCHSCHULE
 
 #### Art. 11
 
@@ -158,16 +167,18 @@ vom 15.09.2011 (Stand 01.01.2013)
 
 <sup>2</sup> Bei schwerwiegenden Disziplinarfällen ist der Ausschluss vom Studium an der Fachhochschule möglich.
 
-## 4 Zuständigkeit kantonaler Behörden
+### D. ZUSTÄNDIGKEIT KANTONALER BEHÖRDEN
 
 #### Art. 15
 
 **Parlamente der Trägerkantone**
 
-<sup>1</sup> Die Parlamente der Trägerkantone haben die Oberaufsicht über die Fachhochschule; sie:
+Die Parlamente der Trägerkantone haben die Oberaufsicht über die Fachhochschule; sie:
 
 - a. nehmen den mehrjährigen Leistungsauftrag zur Kenntnis;
+
 - b. nehmen die Berichterstattung zum mehrjährigen Leistungsauftrag zur Kenntnis;
+
 - c. wählen ihre Mitglieder der Interparlamentarischen Fachhochschulkommission.
 
 #### Art. 16
@@ -181,12 +192,19 @@ vom 15.09.2011 (Stand 01.01.2013)
 <sup>3</sup> Die IFHK ist Organ der gemeinsamen Oberaufsicht der Parlamente. Sie:
 
 - a. überprüft den Vollzug dieser Vereinbarung und erstattet den Parlamenten Bericht;
+
 - b. nimmt zum mehrjährigen Leistungsauftrag Stellung;
+
 - c. nimmt die Berichterstattung zum mehrjährigen Leistungsauftrag, den Jahresbericht und den Revisionsbericht zur Kenntnis;
+
 - d. wird vom Konkordatsrat und den Organen der Fachhochschule angemessen informiert;
+
 - e. kann in die Akten der Fachhochschule Einsicht nehmen und von ihren Organen Auskünfte einholen;
+
 - f. kann dem Konkordatsrat Änderungen dieser Vereinbarung beantragen;
+
 - g. kann den Parlamenten besondere oberaufsichtsrechtliche Massnahmen beantragen;
+
 - h. kann der Revisionsstelle Aufträge erteilen.
 
 #### Art. 17
@@ -196,7 +214,9 @@ vom 15.09.2011 (Stand 01.01.2013)
 <sup>1</sup> Die Regierungen der Trägerkantone:
 
 - a. wählen ihre Vertreterinnen und Vertreter in den Konkordatsrat;
+
 - b. genehmigen den mehrjährigen Leistungsauftrag;
+
 - c. genehmigen die Berichterstattung zum mehrjährigen Leistungsauftrag.
 
 <sup>2</sup> Ein Beschluss gemäss Absatz 1b kommt nur zustande, wenn alle Regierungen zustimmen.
@@ -218,22 +238,34 @@ vom 15.09.2011 (Stand 01.01.2013)
 <sup>1</sup> Der Konkordatsrat:
 
 - a. bereitet die Geschäfte vor, die von den Regierungen zu beschliessen sind, und stellt diesen Antrag;
+
 - b. regelt den Vollzug der Vereinbarung in der Fachhochschulverordnung und bei Bedarf in der Personalverordnung;
+
 - c. beschliesst zuhanden des Fachhochschulrats strategische Vorgaben zur Erarbeitung des Entwicklungs- und Finanzplans;
+
 - d. genehmigt den Entwicklungs- und Finanzplan zuhanden des Bundes sowie die Infrastruktur- und Investitionsplanung;
+
 - e. beschliesst die ordentlichen Finanzierungsbeiträge der Trägerkantone gemäss Art. 28 sowie ausserordentliche Beiträge gemäss Art. 30 Absatz 3 und genehmigt das jährliche Budget;
+
 - f. beschliesst Zulassungsbeschränkungen gemäss Art. 9;
+
 - g. wählt die Präsidentin oder den Präsidenten des Fachhochschulrats;
+
 - h. wählt die übrigen Mitglieder des Fachhochschulrats;
+
 - i. legt die Vergütung des Fachhochschulrats fest;
+
 - j. wählt eine fachlich ausgewiesene Revisionsstelle;
+
 - k. genehmigt den Jahresbericht und die Jahresrechnung;
+
 - l. verabschiedet die Berichterstattung zum mehrjährigen Leistungsauftrag zuhanden der Trägerkantone;
+
 - m. erfüllt weitere Aufgaben, die ihm durch diese Vereinbarung zugewiesen sind.
 
-<sup>2</sup> Beschlüsse gemäss Absatz 1b–f müssen einstimmig erfolgen. Alle übrigen Beschlüsse erfolgen mit einfachem Mehr der Mitglieder.
+<sup>2</sup> Beschlüsse gemäss Absatz 1b-f müssen einstimmig erfolgen. Alle übrigen Beschlüsse erfolgen mit einfachem Mehr der Mitglieder.
 
-## 5 Organe der Fachhochschule
+### E. ORGANE DER FACHHOCHSCHULE
 
 #### Art. 20
 
@@ -242,7 +274,9 @@ vom 15.09.2011 (Stand 01.01.2013)
 <sup>1</sup> Organe der Fachhochschule sind:
 
 - a. der Fachhochschulrat;
+
 - b. die Fachhochschulleitung;
+
 - c. die Revisionsstelle.
 
 <sup>2</sup> Das Statut kann weitere Organe vorsehen.
@@ -261,19 +295,30 @@ vom 15.09.2011 (Stand 01.01.2013)
 
 **Zuständigkeiten des Fachhochschulrats**
 
-<sup>1</sup> Der Fachhochschulrat:
+Der Fachhochschulrat:
 
 - a. ist verantwortlich für die Erfüllung des mehrjährigen Leistungsauftrags;
+
 - b. überwacht die Qualität der Leistungen der Fachhochschule;
+
 - c. regelt die Organisation der Fachhochschule und die Aufgaben der Fachhochschulleitung in einem Statut;
+
 - d. stellt dem Konkordatsrat Antrag zu besonderen personalrechtlichen Bestimmungen;
+
 - e. wählt die Fachhochschulleitung;
+
 - f. stellt dem Konkordatsrat Antrag zum Entwicklungs- und Finanzplan, zum mehrjährigen Leistungsauftrag und zu den jährlichen Finanzierungsbeiträgen gemäss Art. 28;
+
 - g. verabschiedet das jährliche Budget zuhanden des Konkordatsrats;
+
 - h. verabschiedet den Jahresbericht und die Jahresrechnung zuhanden des Konkordatsrats;
+
 - i. nimmt zuhanden des Konkordatsrats Stellung zum Revisionsbericht;
+
 - j. verabschiedet die Berichterstattung zum mehrjährigen Leistungsauftrag zuhanden des Konkordatsrats;
+
 - k. erlässt die notwendigen Reglemente;
+
 - l. erfüllt die weiteren Aufgaben, die ihm durch diese Vereinbarung oder das Vollzugsrecht zugewiesen sind.
 
 #### Art. 23
@@ -292,7 +337,7 @@ vom 15.09.2011 (Stand 01.01.2013)
 
 <sup>2</sup> Sie erstattet dem Konkordatsrat Bericht und stellt Antrag zur Genehmigung oder Rückweisung der Jahresrechnung.
 
-## 6 Steuerung und Finanzierung
+### F. STEUERUNG UND FINANZIERUNG
 
 #### Art. 25
 
@@ -303,8 +348,11 @@ vom 15.09.2011 (Stand 01.01.2013)
 <sup>2</sup> Im Leistungsauftrag werden insbesondere festgelegt:
 
 - a. die Entwicklungsschwerpunkte;
+
 - b. die Leistungs- und Finanzziele der Fachhochschule;
+
 - c. die geplanten Finanzierungsbeiträge der Trägerkantone;
+
 - d. die Berichterstattung.
 
 <sup>3</sup> Der Leistungsauftrag hat in der Regel eine Laufzeit von vier Jahren.
@@ -328,10 +376,15 @@ vom 15.09.2011 (Stand 01.01.2013)
 <sup>1</sup> Die Fachhochschule finanziert ihre Aufwendungen durch:
 
 - a. Beiträge der Trägerkantone;
+
 - b. Beiträge des Bundes;
+
 - c. Beiträge der Nicht-Trägerkantone für ihre Studierenden;
+
 - d. Gebühren der Studierenden;
+
 - e. Entgelte für Leistungen an Dritte;
+
 - f. weitere Drittmittel.
 
 <sup>2</sup> Dienstleistungen sind grundsätzlich kostendeckend zu erbringen.
@@ -353,13 +406,18 @@ vom 15.09.2011 (Stand 01.01.2013)
 <sup>1</sup> Die Finanzierungsbeiträge der Trägerkantone setzen sich zusammen aus:
 
 - a. den Beiträgen pro studierende Person aus den Trägerkantonen, wie sie gemäss interkantonalem Recht auch für Studierende aus Nicht-Trägerkantonen geschuldet sind;
+
 - b. dem Globalbeitrag an die Betriebskosten;
+
 - c. der Finanzierung der baulichen Infrastruktur;
+
 - d. dem Sockelbeitrag für die anwendungsorientierte Forschung und Entwicklung;
+
 - e. der Abgeltung der Standortvorteile durch die Standortkantone der Fachhochschule;
+
 - f. der Pauschale für die Finanzierung der Aufwendungen des Konkordatsrats und der Interparlamentarischen Fachhochschulkommission.
 
-<sup>2</sup> Von der Summe der Beiträge gemäss Absatz 1b–d wird die Abgeltung des Standortvorteils gemäss Absatz 1e in Abzug gebracht. Die verbleibenden Beiträge werden nach Massgabe der durchschnittlichen Zahl der Studierenden des vorletzten Kalenderjahrs auf die Trägerkantone aufgeteilt.
+<sup>2</sup> Von der Summe der Beiträge gemäss Absatz 1b-d wird die Abgeltung des Standortvorteils gemäss Absatz 1e in Abzug gebracht. Die verbleibenden Beiträge werden nach Massgabe der durchschnittlichen Zahl der Studierenden des vorletzten Kalenderjahrs auf die Trägerkantone aufgeteilt.
 
 <sup>3</sup> Die Finanzierung der baulichen Infrastruktur ist so zu bemessen, dass damit die laufenden Kosten für die bauliche Infrastruktur einschliesslich Abschreibungen und Verzinsungen gedeckt werden können.
 
@@ -417,7 +475,7 @@ vom 15.09.2011 (Stand 01.01.2013)
 
 **Steuerfreiheit**
 
-<sup>1</sup> Die Fachhochschule ist in den Trägerkantonen von allen kantonalen und kommunalen Steuern befreit.
+Die Fachhochschule ist in den Trägerkantonen von allen kantonalen und kommunalen Steuern befreit.
 
 #### Art. 35
 
@@ -429,7 +487,7 @@ vom 15.09.2011 (Stand 01.01.2013)
 
 <sup>3</sup> Die Organe der Fachhochschule und die Mitarbeitenden haften für Schäden, die sie der Fachhochschule aus absichtlicher oder grobfahrlässiger Pflichtverletzung verursachen.
 
-## 7 Rechtspflege
+### G. RECHTSPFLEGE
 
 #### Art. 36
 
@@ -471,15 +529,13 @@ vom 15.09.2011 (Stand 01.01.2013)
 
 <sup>2</sup> In Fällen, in denen eine einvernehmliche Beilegung einer Streitigkeit nicht möglich ist, richtet sich das Verfahren zur Streitschlichtung nach den Bestimmungen der Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (IRV) vom 24. Juni 2005.
 
-## 8 Schlussbestimmungen
+### H. SCHLUSSBESTIMMUNGEN
 
 #### Art. 40
 
 **Beitritt**
 
-<sup>1</sup> Der Beitritt zu dieser Vereinbarung wird dem Konkordatsrat des Zentralschweizer Fachhochschul-Konkordats vom 2. Juli 1999 (FHZ-Konkordat)[^40-1] gegenüber erklärt.
-
-[^40-1]: A 2000, 103
+Der Beitritt zu dieser Vereinbarung wird dem Konkordatsrat des Zentralschweizer Fachhochschul-Konkordats vom 2. Juli 1999 (FHZ-Konkordat)<sup>2</sup> gegenüber erklärt.
 
 #### Art. 41
 
@@ -495,14 +551,13 @@ vom 15.09.2011 (Stand 01.01.2013)
 
 **Inkrafttreten der Vereinbarung**
 
-<sup>1</sup> Der Konkordatsrat des FHZ-Konkordats vom 2. Juli 1999[^42-1] legt das Datum des Inkrafttretens dieser Vereinbarung fest. Bedingung für das Inkrafttreten ist der Beitritt aller Zentralschweizer Kantone[^42-2].
+<sup>1</sup> Der Konkordatsrat des FHZ-Konkordats vom 2. Juli 1999[^42-1] legt das Datum des Inkrafttretens dieser Vereinbarung fest. Bedingung für das Inkrafttreten ist der Beitritt aller Zentralschweizer Kantone.
 
 <sup>2</sup> Das Inkrafttreten ist dem Bund zur Kenntnis zu geben.
 
 <sup>3</sup> Mit Inkrafttreten dieser Vereinbarung wird das FHZ-Konkordat vom 2. Juli 1999 aufgehoben.
 
 [^42-1]: A 2000, 103
-[^42-2]: Vom Landrat genehmigt am 28. März 2012; in Kraft seit 1. Januar 2013
 
 #### Art. 43
 
@@ -518,4 +573,6 @@ vom 15.09.2011 (Stand 01.01.2013)
 
 [^43-1]: A 2000, 103
 
-A 2012, 541, 996
+## Weitere Fussnoten
+
+- [1] A 2012, 541; vom Landrat genehmigt am 28. März 2012, A 2012, 541, 996; in Kraft seit 1. Januar 2013
