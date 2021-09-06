@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-08-30
+version: 2021-09-07
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210830/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210830-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210830/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210907/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210907-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210907/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210830/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 30. August 2021)
+vom 4. Juni 2021 (Stand am 7. September 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -311,11 +311,12 @@ Covid-19-Testzertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Z
 
 <sup>1</sup> Die anerkannten Zertifikate zur Bescheinigung von Impfungen, der Genesung oder von Tests, die von einem Mitgliedstaat der Europäischen Union (EU) oder einem Staat der Europäischen Freihandelsassoziation (EFTA) ausgestellt wurden, werden in Anhang 5 aufgeführt.
 
-<sup>2</sup> Das Eidgenössische Finanzdepartement (EFD) führt Anhang 5 nach Anhörung des Eidgenössischen Departements des Innern (EDI) und des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) laufend nach.
+<sup>2</sup> Das Eidgenössische Departement des Innern (EDI) führt Anhang 5 nach Anhörung des Eidgenössischen Finanzdepartements (EFD) und des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) laufend nach.[^22-1]
 
-<sup>3</sup> Es nimmt diejenigen Zertifikate in den Anhang auf, die gemäss den in der EU anwendbaren Bestimmungen ausgestellt wurden und deren Herkunftsstaaten Gegenrecht gewähren. Es kann jedoch darauf verzichten, Zertifikate für Impfstoffe aufzunehmen, die über keine Zulassung der Europäischen Arzneimittelagentur für die EU gemäss der Verordnung (EG) Nr. 726/2004[^22-1] verfügen.
+<sup>3</sup> Es nimmt diejenigen Zertifikate in den Anhang auf, die gemäss den in der EU anwendbaren Bestimmungen ausgestellt wurden und deren Herkunftsstaaten Gegenrecht gewähren. Es kann jedoch darauf verzichten, Zertifikate für Impfstoffe aufzunehmen, die über keine Zulassung der Europäischen Arzneimittelagentur für die EU gemäss der Verordnung (EG) Nr. 726/2004[^22-2] verfügen.
 
-[^22-1]: Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur, ABl. L 136 vom 30.04.2004, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 2019/5, ABl. L 4 vom 7.1.2018, S. 24.
+[^22-1]: Fassung gemäss Ziff. I der V vom 1. Sept. 2021, in Kraft seit 7. Sept. 2021 ([AS 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
+[^22-2]: Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur, ABl. L 136 vom 30.04.2004, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 2019/5, ABl. L 4 vom 7.1.2018, S. 24.
 
 #### Art. 23
 
@@ -323,7 +324,7 @@ Covid-19-Testzertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Z
 
 <sup>1</sup> Die anerkannten ausländischen Zertifikate zur Bescheinigung von Impfungen, der Genesung oder von Tests, die nicht von einem Mitgliedstaat der EU oder einem EFTA-Staat ausgestellt wurden, werden in Anhang 5 aufgeführt.
 
-<sup>2</sup> Sobald die Europäische Kommission die Gleichwertigkeit eines oder mehrerer interoperabler Zertifikate aus Drittstaaten anerkennt, führt das EFD Anhang 5 entsprechend nach.
+<sup>2</sup> Sobald die Europäische Kommission die Gleichwertigkeit eines oder mehrerer interoperabler Zertifikate aus Drittstaaten anerkennt, führt das EDI Anhang 5 entsprechend nach.[^23-1]
 
 <sup>3</sup>
 
@@ -334,6 +335,8 @@ Es kann Zertifikate weiterer Staaten aufnehmen, sofern die folgenden Voraussetzu
 - c. Es gelten für die Ausstellung der jeweiligen Zertifikate Voraussetzungen, die denjenigen nach dieser Verordnung gleichwertig sind.
 
 <sup>4</sup> Es streicht diejenigen Zertifikate von der Liste, welche die Voraussetzungen nicht mehr erfüllen.
+
+[^23-1]: Fassung gemäss Ziff. I der V vom 1. Sept. 2021, in Kraft seit 7. Sept. 2021 ([AS 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
 
 #### Art. 24
 
@@ -465,9 +468,11 @@ Das BIT ist das datenschutzrechtlich verantwortliche Bundesorgan im Rahmen:
 
 #### Art. 33
 
-**Nachführung der Anhänge 1–4**
+**Nachführung der Anhänge 1–4**[^33-1]
 
-Das EFD führt nach Anhörung des EDI und des EDA die Anhänge 1–4 entsprechend den international harmonisierten Normen nach, um die Interoperabilität mit den Zertifikaten möglichst vieler Staaten und die internationale Anerkennung der nach dieser Verordnung ausgestellten Zertifikate zu erreichen.
+Das EDI führt nach Anhörung des EFD und des EDA die Anhänge 1–4 entsprechend den international harmonisierten Normen nach, um die Interoperabilität mit den Zertifikaten möglichst vieler Staaten und die internationale Anerkennung der nach dieser Verordnung ausgestellten Zertifikate zu erreichen.
+
+[^33-1]: Fassung gemäss Ziff. I der V vom 1. Sept. 2021, in Kraft seit 7. Sept. 2021 ([AS 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
 
 #### Art. 34
 

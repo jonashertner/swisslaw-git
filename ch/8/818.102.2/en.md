@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2021-08-30
+version: 2021-09-07
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210830/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210830-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210830/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210907/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210907-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210907/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 30 August 2021)
+of 4 June 2021 (Status as of 7 September 2021)
 
 The Swiss Federal Council,
 
@@ -313,11 +313,12 @@ In addition to the general content of all COVID-19 certificates, COVID-19 test c
 
 <sup>1</sup> The recognised vaccination, recovery and test certificates issued by a member state of the European Union (EU) or a state of the European Free Trade Association (EFTA) are listed in Annex 5.
 
-<sup>2</sup> The Federal Department of Finance (FDF) shall update Annex 5 continuously in consultation with the Federal Department of Home Affairs (FDHA) and the Federal Department of Foreign Affairs (FDFA).
+<sup>2</sup> The Federal Department of Home Affairs (FDHA) shall update Annex 5 continuously in consultation with the Federal Department of Finance (FDF) and the Federal Department of Foreign Affairs (FDFA).[^22-1]
 
-<sup>3</sup> It shall include in the Annex certificates that were issued in accordance with the provisions applicable in the EU and whose states of origin grant reciprocal rights. However, it may decide not to include certificates for vaccines that are not authorised for the EU by the European Medicines Agency in accordance with Regulation (EC) No. 726/2004[^22-1].
+<sup>3</sup> It shall include in the Annex certificates that were issued in accordance with the provisions applicable in the EU and whose states of origin grant reciprocal rights. However, it may decide not to include certificates for vaccines that are not authorised for the EU by the European Medicines Agency in accordance with Regulation (EC) No. 726/2004[^22-2].
 
-[^22-1]: Regulation (EC) No. 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, OJ L 136 of 30.04.2004, p. 1; last amended by Regulation (EC) No. 2019/5, OJ L 4 of 7.1.2018, p. 24.
+[^22-1]: Amended by No I of the O of 1 Sept. 2021, in force since 7 Sept. 2021 ([AS 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
+[^22-2]: Regulation (EC) No. 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, OJ L 136 of 30.04.2004, p. 1; last amended by Regulation (EC) No. 2019/5, OJ L 4 of 7.1.2018, p. 24.
 
 #### Art. 23
 
@@ -325,7 +326,7 @@ In addition to the general content of all COVID-19 certificates, COVID-19 test c
 
 <sup>1</sup> The recognised foreign certificates attesting vaccination, recovery or testing that have not been issued by an EU or EFTA member state are listed in Annex 5.
 
-<sup>2</sup> As soon as the European Commission recognises the equivalence of one or more interoperable certificates from third countries, the FDF shall update Annex 5 accordingly.
+<sup>2</sup> As soon as the European Commission recognises the equivalence of one or more interoperable certificates from third countries, the FDHA shall update Annex 5 accordingly.[^23-1]
 
 <sup>3</sup>
 
@@ -336,6 +337,8 @@ It may include certificates from other states provided the following requirement
 - c. Requirements equivalent to those under this Ordinance apply to the issuance of the respective certificates.
 
 <sup>4</sup> It shall delete those certificates that no longer meet the requirements from the list.
+
+[^23-1]: Amended by No I of the O of 1 Sept. 2021, in force since 7 Sept. 2021 ([AS 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
 
 #### Art. 24
 
@@ -467,9 +470,11 @@ The FOITT is the federal body responsible under the data protection legislation 
 
 #### Art. 33
 
-**Updating Annexes 1 to 4**
+**Updating Annexes 1 to 4**[^33-1]
 
-After consulting the FDHA and the FDFA, the FDF shall update Annexes 1 to 4 in accordance with the internationally harmonised standards in order to achieve interoperability with the certificates of as many states as possible and international recognition of the certificates issued in accordance with this Ordinance.
+In consultation with the FDF and the FDFA, the FDHA shall update Annexes 1 to 4 in accordance with the internationally harmonised standards in order to achieve interoperability with the certificates of as many states as possible and international recognition of the certificates issued in accordance with this Ordinance.
+
+[^33-1]: Amended by No I of the O of 1 Sept. 2021, in force since 7 Sept. 2021 ([AS 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
 
 #### Art. 34
 
@@ -485,7 +490,7 @@ This Ordinance comes into force on 7 June 2021 at 00.00 and applies until 31 Dec
 
 Annex 1*[^t-1]*
 
-(Arts. 12, 28*a* para. 3 lit. a, 29 para. 2 lit. c No 2 and 33)
+(Arts. 12, 28*a* para. 3 let. a, 29 para. 2 let. c No 2 and 33)
 
 ## General content of COVID-19 certificates
 

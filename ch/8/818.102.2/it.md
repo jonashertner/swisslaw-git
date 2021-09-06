@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-08-30
+version: 2021-09-07
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210830/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210830-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210830/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210907/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210907-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210907/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210830/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 30 agosto 2021) (Stato 30 agosto 2021)
+del 4 giugno 2021 (Stato 7 settembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -310,11 +310,12 @@ Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di te
 
 <sup>1</sup> I certificati riconosciuti attestanti l’avvenuta vaccinazione, la guarigione o l’esecuzione di test che sono stati emessi da uno Stato membro dell’Unione europea (UE) o dell’Associazione di libero scambio (AELS) figurano nell’allegato 5.
 
-<sup>2</sup> Previa consultazione del Dipartimento federale dell’interno (DFI) e del Dipartimento federale degli affari esteri (DFAE), il Dipartimento federale delle finanze (DFF) aggiorna costantemente l’allegato 5.
+<sup>2</sup> Previa consultazione del Dipartimento federale delle finanze (DFF) e del Dipartimento federale degli affari esteri (DFAE), il Dipartimento federale dell’interno (DFI) aggiorna costantemente l’allegato 5.[^22-1]
 
-<sup>3</sup> Il DFF inserisce nell’allegato i certificati emessi conformemente alle disposizioni applicabili nell’UE e i cui Stati di origine accordano la reciprocità. Può tuttavia rinunciare a inserirvi i certificati per i vaccini che non hanno ottenuto l’autorizzazione nell’UE dall’Agenzia europea per i medicinali conformemente al Regolamento (CE) n. 726/2004[^22-1].
+<sup>3</sup> Il DFF inserisce nell’allegato i certificati emessi conformemente alle disposizioni applicabili nell’UE e i cui Stati di origine accordano la reciprocità. Può tuttavia rinunciare a inserirvi i certificati per i vaccini che non hanno ottenuto l’autorizzazione nell’UE dall’Agenzia europea per i medicinali conformemente al Regolamento (CE) n. 726/2004[^22-2].
 
-[^22-1]: Regolamento (CE) n. 26/2004 del Parlamento europeo e del Consiglio del 31 marzo 2004 che istituisce procedure comunitarie per l’autorizzazione e la sorveglianza dei medicinali per uso umano e veterinario, e che istituisce l’agenzia europea per i medicinali, GU L 136 del 30.04.2004, pag. 1; modificato da ultimo dal regolamento (CE) n. 2019/5, GU L 4 del 7.1.2018, pag. 24.
+[^22-1]: Nuovo testo giusta il n. I dell’O del 1° set. 2021, in vigore dal 7 set. 2021 ([RU 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
+[^22-2]: Regolamento (CE) n. 26/2004 del Parlamento europeo e del Consiglio del 31 marzo 2004 che istituisce procedure comunitarie per l’autorizzazione e la sorveglianza dei medicinali per uso umano e veterinario, e che istituisce l’agenzia europea per i medicinali, GU L 136 del 30.04.2004, pag. 1; modificato da ultimo dal regolamento (CE) n. 2019/5, GU L 4 del 7.1.2018, pag. 24.
 
 #### Art. 23
 
@@ -322,17 +323,21 @@ Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di te
 
 <sup>1</sup> I certificati esteri riconosciuti attestanti l’avvenuta vaccinazione, la guarigione o l’esecuzione di test, che non sono stati emessi da uno Stato membro dell’UE o dell’AELS, figurano nell’allegato 5.
 
-<sup>2</sup> Non appena la Commissione europea riconosce l’equivalenza di uno o più certificati interoperabili di Stati terzi, il DFF aggiorna di conseguenza l’allegato 5.
+<sup>2</sup> Non appena la Commissione europea riconosce l’equivalenza di uno o più certificati interoperabili di Stati terzi, il DFI aggiorna di conseguenza l’allegato 5.[^23-1]
 
 <sup>3</sup>
 
-Il DFF può inserirvi i certificati di altri Stati se sono soddisfatte le seguenti condizioni:
+Il DFI può inserirvi i certificati di altri Stati se sono soddisfatte le seguenti condizioni:[^23-2]
 
 - a. il certificato estero contiene le informazioni di cui all’articolo 12 e all’articolo 14, 17 o 20 in combinato disposto con i pertinenti allegati;
 - b. l’autenticità, l’integrità e la validità delle informazioni di cui alla lettera a possono essere verificate elettronicamente;
 - c. le condizioni per l’emissione dei relativi certificati sono equivalenti a quelle stabilite nella presente ordinanza.
 
-<sup>4</sup> Il DFF cancella dall’elenco i certificati che non soddisfano più le condizioni.
+<sup>4</sup> Il DFI cancella dall’elenco i certificati che non soddisfano più le condizioni.[^23-3]
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del 1° set. 2021, in vigore dal 7 set. 2021 ([RU 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
+[^23-2]: Nuovo testo giusta il n. I dell’O del 1° set. 2021, in vigore dal 7 set. 2021 ([RU 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
+[^23-3]: Nuovo testo giusta il n. I dell’O del 1° set. 2021, in vigore dal 7 set. 2021 ([RU 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
 
 #### Art. 24
 
@@ -464,9 +469,11 @@ L’UFIT è l’organo federale responsabile degli aspetti legali di protezione 
 
 #### Art. 33
 
-**Aggiornamento degli allegati 1–4**
+**Aggiornamento degli allegati 1–4**[^33-1]
 
-Previa consultazione del DFI e del DFAE, il DFF aggiorna gli allegati 1–4 secondo le norme armonizzate a livello internazionale al fine di ottenere l’interoperabilità con i certificati di un numero possibilmente elevato di Stati e il riconoscimento internazionale dei certificati emessi secondo la presente ordinanza.
+Previa consultazione del DFF e del DFAE, il DFI aggiorna gli allegati 1–4 secondo le norme armonizzate a livello internazionale al fine di ottenere l’interoperabilità con i certificati di un numero possibilmente elevato di Stati e il riconoscimento internazionale dei certificati emessi secondo la presente ordinanza.
+
+[^33-1]: Nuovo testo giusta il n. I dell’O del 1° set. 2021, in vigore dal 7 set. 2021 ([RU 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
 
 #### Art. 34
 
