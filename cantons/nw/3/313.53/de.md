@@ -5,22 +5,24 @@ title: Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der hö
 short: HFSV
 language: de
 version: 2014-01-01
+corrected: 2021-09-07
 version_adopted: 2012-03-22
 adopted: 2012-03-22
 in_force: 2014-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/313.53"
-pdf: "https://gesetze.nw.ch/api/de/versions/563/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/146/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen
+# Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen (HFSV)
 
-(HFSV)
+vom 22. März 2012[^t-1]
 
-vom 22.03.2012 (Stand 01.01.2014)
+I. ALLGEMEINE BESTIMMUNGEN
 
-## 1 Allgemeine Bestimmungen
+[^t-1]: A 2012, 1797; vom Landrat genehmigt am 21. November 2012, A 2012, 1796; in Kraft für den Kanton Nidwalden durch Beschluss des Vorstandes der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren vom 24. Oktober 2013 seit 1. Januar 2014
 
 #### Art. 1
 
@@ -42,7 +44,7 @@ vom 22.03.2012 (Stand 01.01.2014)
 
 <sup>3</sup> Zwei oder mehrere Kantone können untereinander von dieser Vereinbarung abweichende finanzielle Regelungen treffen.
 
-## 2 Beitragsberechtigung
+### II. BEITRAGSBERECHTIGUNG
 
 #### Art. 3
 
@@ -51,7 +53,9 @@ vom 22.03.2012 (Stand 01.01.2014)
 <sup>1</sup> Voraussetzungen für die Beitragsberechtigung eines Bildungsgangs sind:
 
 - a. die Anerkennung des Bildungsgangs durch das zuständige Bundesamt,
+
 - b. der Abschluss einer Leistungsvereinbarung zwischen Standortkanton und Bildungsanbieter, aus welcher namentlich die Gewährleistung der Kostentransparenz ersichtlich ist, und
+
 - c. die Meldung des Standortkantons gemäss Artikel 4.
 
 <sup>2</sup> Bildungsgänge gemäss Artikel 7 bedürfen zusätzlich eines begründeten Antrags der zuständigen Fachdirektorenkonferenz.
@@ -66,7 +70,7 @@ vom 22.03.2012 (Stand 01.01.2014)
 
 <sup>2</sup> Die Geschäftsstelle führt eine Liste der beitragsberechtigten Bildungsgänge. Diese wird jeweils auf Beginn eines neuen Studienjahres angepasst.
 
-## 3 Beiträge
+### III. BEITRÄGE
 
 #### Art. 5
 
@@ -79,8 +83,11 @@ vom 22.03.2012 (Stand 01.01.2014)
 <sup>3</sup> Bei Studierenden, welche die Voraussetzungen von Absatz 2 nicht erfüllen, gilt als Wohnsitzkanton:
 
 - a. der Heimatkanton für Schweizerinnen und Schweizer, deren Eltern im Ausland wohnen oder die elternlos im Ausland wohnen; bei mehreren Heimatkantonen gilt das zuletzt erworbene Bürgerrecht,
+
 - b. der zugewiesene Kanton für mündige Flüchtlinge und Staatenlose, die elternlos sind oder deren Eltern im Ausland wohnen,
+
 - c. der Kanton des zivilrechtlichen Wohnsitzes für mündige Ausländerinnen und Ausländer, die elternlos sind oder deren Eltern im Ausland wohnen, und
+
 - d. in allen übrigen Fällen der Kanton, in dem sich bei Ausbildungsbeginn der zivilrechtliche Wohnsitz der Eltern beziehungsweise der Sitz der zuletzt zuständigen Vormundschaftsbehörde befindet.
 
 #### Art. 6
@@ -92,6 +99,7 @@ vom 22.03.2012 (Stand 01.01.2014)
 <sup>2</sup> Für die Festlegung der Höhe der Pauschalbeiträge gemäss Absatz 1 gelten folgende Grundsätze:
 
 - a. Ermittlung der durchschnittlichen gewichteten Ausbildungskosten (Bruttobildungskosten) pro Bildungsgang und Studierende beziehungsweise Studierenden nach Massgabe der Ausbildungsdauer (Anzahl Semester), der Anzahl anrechenbarer Lektionen und der durchschnittlichen Klassengrösse, wobei die Konferenz der Vereinbarungskantone die maximale Anzahl anrechenbarer Lektionen und die minimale Referenzklassengrösse festlegt;
+
 - b. die Beiträge decken 50 Prozent der gemäss litera a ermittelten durchschnittlichen Kosten.
 
 #### Art. 7
@@ -118,23 +126,27 @@ vom 22.03.2012 (Stand 01.01.2014)
 
 <sup>2</sup> Die Konferenz der Vereinbarungskantone kann für Studiengebühren je Bildungsgang anrechenbare Mindest- und Höchstbeträge festlegen. Übersteigen die Studiengebühren die festgelegte Höchstgrenze, werden die Beiträge für den betreffenden Bildungsgang entsprechend gekürzt.
 
-## 4 Studierende
+### IV. STUDIERENDE
 
 #### Art. 10
 
-**Behandlung von Studierenden aus Vereinbarungskantonen**
+**Behandlung von Studierenden aus**
 
-<sup>1</sup> Die Kantone und die auf ihrem Gebiet befindlichen Schulen gewähren den Studierenden, deren Bildungsgang dieser Vereinbarung untersteht, mit Bezug auf den Ausbildungszugang die gleiche Rechtsstellung wie den eigenen Studierenden.
+### Vereinbarungskantonen
+
+Die Kantone und die auf ihrem Gebiet befindlichen Schulen gewähren den Studierenden, deren Bildungsgang dieser Vereinbarung untersteht, mit Bezug auf den Ausbildungszugang die gleiche Rechtsstellung wie den eigenen Studierenden.
 
 #### Art. 11
 
-**Behandlung von Studierenden aus Nichtvereinbarungskantonen**
+**Behandlung von Studierenden aus**
 
-<sup>1</sup> Studierende sowie Studienanwärterinnen und ‑anwärter aus Kantonen, welche dieser Vereinbarung nicht beigetreten sind, haben keinen Anspruch auf Gleichbehandlung. Sie können zu einem Bildungsgang zugelassen werden, wenn die Studierenden aus den Vereinbarungskantonen Aufnahme gefunden haben.
+### Nichtvereinbarungskantonen
+
+<sup>1</sup> Studierende sowie Studienanwärterinnen und -anwärter aus Kantonen, welche dieser Vereinbarung nicht beigetreten sind, haben keinen Anspruch auf Gleichbehandlung. Sie können zu einem Bildungsgang zugelassen werden, wenn die Studierenden aus den Vereinbarungskantonen Aufnahme gefunden haben.
 
 <sup>2</sup> Studierenden aus Kantonen, welche dieser Vereinbarung nicht beigetreten sind, werden zusätzlich zu den Studiengebühren Ausbildungsgebühren überbunden, die mindestens der Abgeltung nach den Artikeln 6 oder 7 entsprechen.
 
-## 5 Vollzug
+### V. VOLLZUG
 
 #### Art. 12
 
@@ -142,11 +154,12 @@ vom 22.03.2012 (Stand 01.01.2014)
 
 <sup>1</sup> Die Konferenz der Vereinbarungskantone setzt sich aus den Bildungsdirektorinnen und Bildungsdirektoren der Kantone zusammen, die der Vereinbarung beigetreten sind.
 
-<sup>2</sup> Sie entscheidet abschliessend über alle Fragen im Zusammenhang mit der Vereinbarung, insbesondere
+<sup>2</sup> Sie entscheidet abschliessend über alle Fragen im Zusammenhang mit der Vereinbarung, insbesondere a. legt sie die Höhe der Beiträge im Sinne von Artikel 6 und 7 fest,
 
-- a. legt sie die Höhe der Beiträge im Sinne von Artikel 6 und 7 fest,
 - b. legt sie die maximale Anzahl anrechenbarer Lektionen und die minimale Referenzklassengrösse gemäss Artikel 6 Absatz 2 litera a fest,
+
 - c. legt sie die Mindest- und Höchstbeiträge für Studiengebühren je Bildungsgang gemäss Artikel 9 fest, und
+
 - d. genehmigt sie die Berichterstattung der Geschäftsstelle.
 
 <sup>3</sup> Die Beschlüsse gemäss Absatz 2 literae a bis c bedürfen der Mehrheit von zwei Dritteln der Konferenzmitglieder.
@@ -160,11 +173,17 @@ vom 22.03.2012 (Stand 01.01.2014)
 <sup>2</sup> Der Geschäftsstelle obliegen insbesondere die folgenden Aufgaben:
 
 - a. die Liste der beitragsberechtigten Bildungsgänge zu führen,
+
 - b. für die Erhebung der Kosten für die Bildungsgänge der höheren Fachschulen gemäss Artikel 6 zu sorgen,
+
 - c. die Geschäfte, für deren Entscheid die Konferenz der Vereinbarungskantone zuständig ist, vorzubereiten,
+
 - d. Vorschläge für die Anpassung der Beiträge auszuarbeiten und zu überprüfen,
+
 - e. Koordinationsaufgaben wahrzunehmen,
+
 - f. Verfahrensfragen zu regeln, darunter namentlich Regelungen betreffend die Rechnungslegung, die Beitragszahlung, die Termine und Stichdaten festzulegen, und
+
 - g. der Konferenz der Vereinbarungskantone jährlich Bericht zu erstatten.
 
 <sup>3</sup> Die Kosten für den Vollzug dieser Vereinbarung werden durch die Vereinbarungskantone nach Massgabe der Bevölkerungszahl getragen. Sie werden ihnen jährlich in Rechnung gestellt.
@@ -177,41 +196,41 @@ vom 22.03.2012 (Stand 01.01.2014)
 
 <sup>2</sup> Kann die Streitigkeit nicht beigelegt werden, entscheidet auf Klage hin das Bundesgericht gemäss Artikel 120 Absatz 1 litera b des Bundesgerichtsgesetzes.
 
-## 6 Schlussbestimmungen
+### V. SCHLUSSBESTIMMUNGEN
 
 #### Art. 15
 
 **Beitritt**
 
-<sup>1</sup> Der Beitritt zu dieser Vereinbarung wird dem Vorstand der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren gegenüber erklärt.
+Der Beitritt zu dieser Vereinbarung wird dem Vorstand der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren gegenüber erklärt.
 
 #### Art. 16
 
 **Inkrafttreten**
 
-<sup>1</sup> Der Vorstand der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren setzt die Vereinbarung in Kraft, wenn ihr 10 Kantone beigetreten sind, frühestens aber auf den Beginn des Studienjahres 2013/2014[^16-1]
+<sup>1</sup> Der Vorstand der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren setzt die Vereinbarung in Kraft, wenn ihr 10 Kantone beigetreten sind, frühestens aber auf den Beginn des Studienjahres 2013/2014.
 
 <sup>2</sup> Falls ein Kanton Träger oder Mittträger einer Schule oder Institution ist, welche den betreffenden Bildungsgang anbietet, kann er während einer Übergangsfrist von 5 Jahren ab Inkrafttreten der Vereinbarung seine Beitragsleistung für einen ausserkantonalen Schulbesuch von einer Bewilligung abhängig machen.
 
 <sup>3</sup> Das Inkrafttreten ist dem Bund zur Kenntnis zu bringen.
 
-[^16-1]: Vom Landrat genehmigt am 21. November 2012, in Kraft für den Kanton Nidwalden durch Beschluss des Vorstandes der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren vom 24. Oktober 2013 seit 1. Januar 2014.
-
 #### Art. 17
 
 **Kündigung**
 
-<sup>1</sup> Die Vereinbarung kann unter Einhaltung einer Frist von zwei Jahren jeweils auf den 30. September durch schriftliche Erklärung an die Geschäftsstelle gekündigt werden, erstmals jedoch nach fünf Beitrittsjahren.
+Die Vereinbarung kann unter Einhaltung einer Frist von zwei Jahren jeweils auf den 30. September durch schriftliche Erklärung an die Geschäftsstelle gekündigt werden, erstmals jedoch nach fünf Beitrittsjahren.
 
 #### Art. 18
 
 **Weiterdauer der Verpflichtungen**
 
-<sup>1</sup> Kündigt ein Kanton die Vereinbarung, bleiben seine Verpflichtungen aus dieser Vereinbarung für die zum Zeitpunkt des Austritts in Ausbildung befindlichen Studierenden bestehen.
+Kündigt ein Kanton die Vereinbarung, bleiben seine Verpflichtungen aus dieser Vereinbarung für die zum Zeitpunkt des Austritts in Ausbildung befindlichen Studierenden bestehen.
 
 #### Art. 19
 
-**Interkantonale Fachschulvereinbarung vom 27. August 1998**
+**Interkantonale Fachschulvereinbarung vom 27. August**
+
+### 1998
 
 <sup>1</sup> Mit dem Beitritt eines Kantons zur HFSV werden die höheren Fachschulen dieses Kantons automatisch aus dem Anhang der FSV 1998 gestrichen.
 
@@ -221,6 +240,9 @@ vom 22.03.2012 (Stand 01.01.2014)
 
 **Fürstentum Liechtenstein**
 
-<sup>1</sup> Dieser Vereinbarung kann das Fürstentum Liechtenstein auf der Grundlage seiner eigenen Gesetzgebung beitreten. Ihm stehen alle Rechte und Pflichten eines Vereinbarungskantons zu.
+Dieser Vereinbarung kann das Fürstentum Liechtenstein auf der Grundlage seiner eigenen Gesetzgebung beitreten. Ihm stehen alle Rechte und Pflichten eines Vereinbarungskantons zu.
 
-A 2012, 1796, 1797
+## Weitere Fussnoten
+
+- [3] NG 114.1
+- [4] SR 173.110
