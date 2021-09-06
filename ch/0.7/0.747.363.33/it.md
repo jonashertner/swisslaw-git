@@ -3,11 +3,11 @@ sr: "0.747.363.33"
 title: "Convenzione internazionale del 1<sup>o</sup> novembre 1974 per la salvaguardia della vita umana in mare"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/128_128_128"
 language: it
-version: 2019-03-20
+version: 2021-09-07
 adopted: 1974-11-01
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20190320/it/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20190320-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20190320/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20210907/it/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20210907-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20210907/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificata con strumenti scambiati dalla Svizzera il 1<sup>o</sup> ottobre 1981
 
 Entrata in vigore per la Svizzera il 1<sup>o</sup> gennaio 1982
 
-(Stato 20 marzo 2019)
+(Stato 7 settembre 2021)
 
 [^t-1]: [RU 1982 125](https://fedlex.data.admin.ch/eli/oc/1982/125_125_125)
 
@@ -48,7 +48,7 @@ a) I Governi contraenti si impegnano a dare effetto alle disposizioni della pres
 
 b) I Governi contraenti si impegnano a promulgare tutte le leggi, tutti i decreti, ordini e regolamenti ed a prendere tutte le altre disposizioni necessarie per dare alla Convenzione la sua piena ed intera applicazione, al fine di garantire che, dal punto di vista della sicurezza della vita umana, una nave sia idonea al servizio al quale è destinata.
 
-[^I-1]: Testo non pubblicato nella RU. Si possono ottenere degli esemplari a parte presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni federali, 3003 Berna.
+[^I-1]: Testo non pubblicato nella RU ([RU 1984 256](https://fedlex.data.admin.ch/eli/oc/1984/256_256_256); [1985 1606](https://fedlex.data.admin.ch/eli/oc/1985/1606_1606_1606); [1987 1050](https://fedlex.data.admin.ch/eli/oc/1987/1050_1050_1050); [1990 595](https://fedlex.data.admin.ch/eli/oc/1990/595_595_595)[596](https://fedlex.data.admin.ch/eli/oc/1990/596_596_596); [1993 2513](https://fedlex.data.admin.ch/eli/oc/1993/2513_2513_2513); **1997** 464). Si possono ottenere degli esemplari a parte presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni federali, 3003 Berna.
 
 #### Art. II
 
@@ -192,13 +192,9 @@ b) Appena la presente Convenzione entrerà in vigore, il Segretario Generale del
 
 La presente Convenzione è stata fatta in un solo esemplare in lingua cinese, francese, inglese, russa e spagnola, ciascun testo facente ugualmente fede. Sono state fatte delle traduzioni ufficiali della presente Convenzione nelle lingue araba, italiana e tedesca che sono depositate con la copia originale munita delle firme.
 
-*In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo dai loro Governi, hanno apposto le loro firme alla presente Convenzione.
+*In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo dai loro Governi, hanno apposto le loro firme alla presente Convenzione. Fatto a Londra il primo novembre millenovecentosettantaquattro. (Si omettono le firme)
 
-Fatto a Londra il primo novembre millenovecentosettantaquattro.
-
-(Si omettono le firme)
-
-Campo d’applicazione il 20 marzo 2019**[^t-2]**
+Campo d’applicazione il 7 settembre 2021**[^t-2]**
 
 <table>
 <tr><th colspan="2">Stati partecipanti</th><th colspan="2">Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th colspan="2"></th><th>Entrata in vigore</th><th></th></tr>
@@ -352,6 +348,7 @@ Campo d’applicazione il 20 marzo 2019**[^t-2]**
 <tr><td colspan="2">Saint Vincent e Grenadine</td><td colspan="2">28 ottobre</td><td colspan="2">1983 A</td><td>28 gennaio</td><td>1984</td></tr>
 <tr><td colspan="2">Salomone, Isole</td><td colspan="2">30 giugno</td><td colspan="2">2004 A</td><td>30 settembre</td><td>2004</td></tr>
 <tr><td colspan="2">Samoa</td><td colspan="2">14 marzo</td><td colspan="2">1997 A</td><td>14 giugno</td><td>1997</td></tr>
+<tr><td colspan="2">San Marino</td><td colspan="2">19 aprile</td><td colspan="2">2021 A</td><td>19 luglio</td><td>2021</td></tr>
 <tr><td colspan="2">São Tomé e Príncipe</td><td colspan="2">29 ottobre</td><td colspan="2">1998 A</td><td>29 gennaio</td><td>1999</td></tr>
 <tr><td colspan="2">Seicelle</td><td colspan="2">10 maggio</td><td colspan="2">1988 A</td><td>10 agosto</td><td>1988</td></tr>
 <tr><td colspan="2">Senegal</td><td colspan="2">16 gennaio</td><td colspan="2">1997 A</td><td>16 aprile</td><td>1997</td></tr>
@@ -379,18 +376,18 @@ Campo d’applicazione il 20 marzo 2019**[^t-2]**
 <tr><td colspan="2">Turkmenistan</td><td colspan="2">4 febbraio</td><td colspan="2">2009 A</td><td>4 maggio</td><td>2009</td></tr>
 <tr><td colspan="2">Tuvalu</td><td colspan="2">22 agosto</td><td colspan="2">1985 A</td><td>22 novembre</td><td>1985</td></tr>
 <tr><td colspan="2">Ucraina</td><td colspan="2">1° novembre</td><td colspan="2">1974 F</td><td>25 maggio</td><td>1980</td></tr>
+<tr><td colspan="2">Uganda</td><td colspan="2">3 aprile</td><td colspan="2">2019 A</td><td>3 luglio</td><td>2019</td></tr>
 <tr><td colspan="2">Ungheria</td><td colspan="2">9 gennaio</td><td colspan="2">1980</td><td>25 maggio</td><td>1980</td></tr>
 <tr><td colspan="2">Uruguay</td><td colspan="2">30 aprile</td><td colspan="2">1979 A</td><td>25 maggio</td><td>1980</td></tr>
 <tr><td colspan="2">Vanuatu</td><td colspan="2">28 luglio</td><td colspan="2">1982 A</td><td>28 ottobre</td><td>1982</td></tr>
 <tr><td colspan="2">Venezuela</td><td colspan="2">29 marzo</td><td colspan="2">1983</td><td>29 giugno</td><td>1983</td></tr>
 <tr><td colspan="2">Vietnam</td><td colspan="2">18 dicembre</td><td colspan="2">1990 A</td><td>18 marzo</td><td>1991</td></tr>
 <tr><td colspan="2">Yemen</td><td colspan="2">6 marzo</td><td colspan="2">1979 A</td><td>25 maggio</td><td>1980</td></tr>
-<tr><td colspan="8">\* Riserve e dichiarazioni.</td></tr>
-<tr><td colspan="8">Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione marittima internazionale (IMO): www.imo.org &gt; fr &gt; Qui nous sommes &gt; Conventions &gt; Liste des conventions oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="8">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="8"><sup>a</sup> Dal 24 ago. 1999 al 19 dic. 1999, la Convenzione era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 10 dic. 1999, la Convenzione è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
 <tr><td colspan="8"><sup>b</sup> Dal 24 ago. 1999 al 19 dic. 1999, la Convenzione era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 10 dic. 1999, la Convenzione è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
 <tr><td colspan="8"><sup>c</sup> La Conv. non si applica a Tokelau</td></tr>
 <tr><td colspan="8"><sup>d</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: Completa quelli in [RU 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128)[1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562), [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255), [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231), [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871), [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153), [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841), [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869), [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463), [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199), [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671)e [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128), [1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562); [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255); [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231); [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871); [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153); [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841); [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199); [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671); [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201); [2021 544](https://fedlex.data.admin.ch/eli/oc/2021/544). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (www.fedlex.admin.ch/it/treaty).

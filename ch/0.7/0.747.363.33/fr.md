@@ -3,11 +3,11 @@ sr: "0.747.363.33"
 title: "Convention internationale du 1<sup>er</sup> novembre 1974 pour la sauvegarde de la vie humaine en mer"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/128_128_128"
 language: fr
-version: 2019-03-20
+version: 2021-09-07
 adopted: 1974-11-01
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20190320/fr/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20190320-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20190320/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20210907/fr/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20210907-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20210907/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Londres le 1<sup>er</sup> novembre 1974 Approuvée par l’Assemblée fédérale le 9 juin 1981[^t-1] Instrument de ratification déposé par la Suisse le 1<sup>er</sup> octobre 1981 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1982
 
-(Etat le 20 mars 2019)
+(Etat le 7 septembre 2021)
 
 [^t-1]: [RO 1982 127](https://fedlex.data.admin.ch/eli/oc/1982/127_127_127)
 
@@ -42,13 +42,13 @@ a) Les Gouvernements contractants s’engagent à donner effet aux dispositions 
 
 b) Les Gouvernements contractants s’engagent à promulguer toutes lois, tous décrets, ordres et règlements et à prendre toutes autres mesures nécessaires pour donner à la Convention son plein et entier effet, afin de garantir que, du point de vue de la sauvegarde de la vie humaine, un navire est apte au service auquel il est destiné.
 
-[^I-1]: Non publiés au RO, le texte de cette annexe et ses modifications ne figurent pas dans le présent recueil. (Voir [RO 1984 256](https://fedlex.data.admin.ch/eli/oc/1984/256_256_256), [1985 1606](https://fedlex.data.admin.ch/eli/oc/1985/1606_1606_1606), [1987 1050](https://fedlex.data.admin.ch/eli/oc/1987/1050_1050_1050), [1990 595](https://fedlex.data.admin.ch/eli/oc/1990/595_595_595)[596](https://fedlex.data.admin.ch/eli/oc/1990/596_596_596), [1993 2513](https://fedlex.data.admin.ch/eli/oc/1993/2513_2513_2513), **1997** 464). On peut en obtenir des exemplaires tirés à part, auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
+[^I-1]: Non publiés au RO, le texte de cette annexe et ses modifications ne figurent pas dans le présent recueil (voir [RO 1984 256](https://fedlex.data.admin.ch/eli/oc/1984/256_256_256); [1985 1606](https://fedlex.data.admin.ch/eli/oc/1985/1606_1606_1606); [1987 1050](https://fedlex.data.admin.ch/eli/oc/1987/1050_1050_1050); [1990 595](https://fedlex.data.admin.ch/eli/oc/1990/595_595_595), [596](https://fedlex.data.admin.ch/eli/oc/1990/596_596_596); [1993 2513](https://fedlex.data.admin.ch/eli/oc/1993/2513_2513_2513); **1997** 464). On peut en obtenir des exemplaires tirés à part, auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
 
 #### Art. II
 
 **Champ d’application**
 
-La présente Convention s’applique aux navires qui sont autorisés à battre le pavillon d’un Etat dont le gouvernement est un Gouvernement contractant.
+La présente Convention s’applique aux navires qui sont autorisés à battre le pavillon d’un État dont le gouvernement est un Gouvernement contractant.
 
 #### Art. III
 
@@ -115,7 +115,7 @@ b) Amendements après examen par l’Organisation:
 
 - i) tout amendement proposé par un Gouvernement contractant est soumis au Secrétaire général de l’Organisation et diffusé par celui-ci à tous les Membres de l’Organisation et à tous les Gouvernements contractants six mois au moins avant son examen;
 - ii) tout amendement proposé et diffusé suivant la procédure ci-dessus est soumis au Comité de la sécurité maritime de l’Organisation pour examen;
-- iii) les Gouvernement contractants des Etats, qu’ils soient ou non Membres de l’Organisation, sont autorisés à participer aux délibérations du Comité de la sécurité maritime aux fins de l’examen et de l’adoption des amendements;
+- iii) les Gouvernement contractants des États, qu’ils soient ou non Membres de l’Organisation, sont autorisés à participer aux délibérations du Comité de la sécurité maritime aux fins de l’examen et de l’adoption des amendements;
 - iv) les amendements sont adoptés à la majorité des deux tiers des Gouvernements contractants présents et votants au sein du Comité de la sécurité maritime élargi conformément à l’al. iii) du présent paragraphe (ci-après dénommé «Comité de la sécurité maritime élargi») à condition qu’un tiers au moins des Gouvernements contractants soient présents au moment du vote;
 - v) s’ils sont adoptés conformément à l’al. iv) du présent paragraphe, les amendements sont communiqués par le Secrétaire général de l’Organisation à tous les Gouvernements contractants, aux fins d’acceptation;
 - vi) 1) un amendement à un article de la Convention ou au chap. I de son Annexe est réputé avoir été accepté à la date à laquelle il a été accepté par les deux tiers des Gouvernements contractants;
@@ -136,8 +136,8 @@ c) Amendement par une conférence:
 - i) à la demande d’un Gouvernement contractant appuyée par un tiers au moins des Gouvernements contractants, l’Organisation convoque une conférence des Gouvernements contractants pour examiner les amendements à la présente Convention;
 - ii) tout amendement adopté par cette conférence à la majorité des deux tiers des Gouvernements contractants présents et votants est communiqué par le Secrétaire général de l’Organisation à tous les Gouvernements contractants aux fins d’acceptation;
 - iii) à moins que la conférence n’en décide autrement, l’amendement est réputé avoir été accepté et entre en vigueur selon les procédures prévues respectivement aux alinéas vi) et vii) du paragraphe b) du présent article, à condition que les références au Comité de la sécurité maritime élargi dans ces alinéas soient considérées comme des références à la conférence.
-- d) i) Un Gouvernement contractant ayant accepté un amendement à l’Annexe qui est entré en vigueur n’est pas tenu d’étendre le bénéfice de la présente Convention pour ce qui est d’un certificat délivré à un navire habilité à battre le pavillon d’un Etat dont le gouvernement a, conformément au sous-alinéa vi) 2) du par. b) du présent article, élevé une objection contre ledit amendement, et n’a pas retiré cette objection, mais seulement dans la mesure où ce certificat s’applique à des points qui sont visés par l’amendement en question.
-- ii) Un Gouvernement contractant ayant accepté un amendement à l’Annexe qui est entré en vigueur doit étendre le bénéfice de la présente Convention pour ce qui est d’un certificat délivré à un navire habilité à battre le pavillon d’un Etat dont le gouvernement a notifié au Secrétaire général de l’Organisation, conformément au sous-alinéa vii 2) du par. b) du présent article, qu’il se dispense de donner effet à l’amendement.
+- d) i) Un Gouvernement contractant ayant accepté un amendement à l’Annexe qui est entré en vigueur n’est pas tenu d’étendre le bénéfice de la présente Convention pour ce qui est d’un certificat délivré à un navire habilité à battre le pavillon d’un État dont le gouvernement a, conformément au sous-alinéa vi) 2) du par. b) du présent article, élevé une objection contre ledit amendement, et n’a pas retiré cette objection, mais seulement dans la mesure où ce certificat s’applique à des points qui sont visés par l’amendement en question.
+- ii) Un Gouvernement contractant ayant accepté un amendement à l’Annexe qui est entré en vigueur doit étendre le bénéfice de la présente Convention pour ce qui est d’un certificat délivré à un navire habilité à battre le pavillon d’un État dont le gouvernement a notifié au Secrétaire général de l’Organisation, conformément au sous-alinéa vii 2) du par. b) du présent article, qu’il se dispense de donner effet à l’amendement.
 
 #### Art. IX
 
@@ -145,9 +145,9 @@ c) Amendement par une conférence:
 
 b) La ratification, l’acceptation, l’approbation ou l’adhésion s’effectuent par le dépôt d’un instrument à cet effet auprès du Secrétaire général de l’Organisation.
 
-c) Le Secrétaire général de l’Organisation informe les gouvernements de tous les Etats ayant signé la présente Convention ou y ayant adhéré de toute signature ou du dépôt de tout instrument de ratification, d’acceptation d’approbation ou d’adhésion et de la date de ce dépôt.
+c) Le Secrétaire général de l’Organisation informe les gouvernements de tous les États ayant signé la présente Convention ou y ayant adhéré de toute signature ou du dépôt de tout instrument de ratification, d’acceptation d’approbation ou d’adhésion et de la date de ce dépôt.
 
-a) La présente Convention reste ouverte à la signature, au siège de l’Organisation, du 1<sup>er</sup> novembre 1974 au 1<sup>er</sup> juillet 1975, et reste ensuite ouverte à l’adhésion. Les Etats peuvent devenir Parties à la présente Convention par:
+a) La présente Convention reste ouverte à la signature, au siège de l’Organisation, du 1<sup>er</sup> novembre 1974 au 1<sup>er</sup> juillet 1975, et reste ensuite ouverte à l’adhésion. Les États peuvent devenir Parties à la présente Convention par:
 
 - i) signature sans réserve quant à la ratification, l’acceptation ou l’approbation; ou
 - ii) signature sous réserve de ratification, d’acceptation ou d’approbation suivie de ratification, d’acceptation ou d’approbation; ou
@@ -157,7 +157,7 @@ a) La présente Convention reste ouverte à la signature, au siège de l’Organ
 
 **Entrée en vigueur**
 
-a) La présente Convention entre en vigueur douze mois après la date à laquelle au moins vingt-cinq Etats dont les flottes marchandes représentent au total 50 p. 100 au moins du tonnage brut de la flotte mondiale des navires de commerce sont devenus Parties à la Convention conformément aux dispositions de l’art. IX.
+a) La présente Convention entre en vigueur douze mois après la date à laquelle au moins vingt-cinq États dont les flottes marchandes représentent au total 50 p. 100 au moins du tonnage brut de la flotte mondiale des navires de commerce sont devenus Parties à la Convention conformément aux dispositions de l’art. IX.
 
 b) Tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion déposé après la date d’entrée en vigueur de la présente Convention prend effet trois mois après la date du dépôt.
 
@@ -177,7 +177,7 @@ c) La dénonciation prend effet un an après la date à laquelle le Secrétaire 
 
 **Dépôt et enregistrement**
 
-a) La présente Convention est déposée auprès du Secrétaire général de l’Organisation qui en adresse des copies certifiées conformes aux gouvernements de tous les Etats qui ont signé la Convention ou qui y adhèrent.
+a) La présente Convention est déposée auprès du Secrétaire général de l’Organisation qui en adresse des copies certifiées conformes aux gouvernements de tous les États qui ont signé la Convention ou qui y adhèrent.
 
 b) Dès l’entrée en vigueur de la présente Convention, son texte est transmis par le Secrétaire général de l’Organisation au Secrétaire général de l’Organisation des Nations Unies pour être enregistré et publié conformément à l’Art. 102 de la Charte des Nations Unies[^XII-1].
 
@@ -191,10 +191,10 @@ La présente Convention est établie en un seul exemplaire en langues anglaise, 
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet par leurs gouvernements, ont apposé leur signature à la présente Convention. Fait à Londres ce premier novembre mil neuf cent soixante-quatorze. (Suivent les signatures)
 
-Champ d’application de la convention le 20 mars 2019**[^t-2]**
+Champ d’application de la convention le 7 septembre 2021**[^t-2]**
 
 <table>
-<tr><th colspan="3">Etats parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th colspan="3">États parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td colspan="3">Afrique du Sud</td><td colspan="2">23 mai</td><td colspan="2">1980 A</td><td>25 mai</td><td>1980</td></tr>
 <tr><td colspan="3">Albanie</td><td colspan="2">7 juin</td><td colspan="2">2004 A</td><td>7 septembre</td><td>2004</td></tr>
 <tr><td colspan="3">Algérie</td><td colspan="2">3 novembre</td><td colspan="2">1983 A</td><td>3 février</td><td>1984</td></tr>
@@ -240,14 +240,14 @@ Champ d’application de la convention le 20 mars 2019**[^t-2]**
 <tr><td colspan="3">Danemark</td><td colspan="2">8 mars</td><td colspan="2">1978</td><td>25 mai</td><td>1980</td></tr>
 <tr><td colspan="3">Djibouti</td><td colspan="2">1<sup>er</sup> mars</td><td colspan="2">1984 A</td><td>1<sup>er</sup> juin</td><td>1984</td></tr>
 <tr><td colspan="3">Dominique</td><td colspan="2">21 juin</td><td colspan="2">2000 A</td><td>21 septembre</td><td>2000</td></tr>
-<tr><td colspan="3">Egypte</td><td colspan="2">4 septembre</td><td colspan="2">1981</td><td>4 décembre</td><td>1981</td></tr>
-<tr><td colspan="3">Emirats arabes unis</td><td colspan="2">15 décembre</td><td colspan="2">1983 A</td><td>15 mars</td><td>1984</td></tr>
-<tr><td colspan="3">Equateur</td><td colspan="2">28 mai</td><td colspan="2">1982 A</td><td>28 août</td><td>1982</td></tr>
-<tr><td colspan="3">Erythrée</td><td colspan="2">22 avril</td><td colspan="2">1996 A</td><td>22 juillet</td><td>1996</td></tr>
+<tr><td colspan="3">Égypte</td><td colspan="2">4 septembre</td><td colspan="2">1981</td><td>4 décembre</td><td>1981</td></tr>
+<tr><td colspan="3">Émirats arabes unis</td><td colspan="2">15 décembre</td><td colspan="2">1983 A</td><td>15 mars</td><td>1984</td></tr>
+<tr><td colspan="3">Équateur</td><td colspan="2">28 mai</td><td colspan="2">1982 A</td><td>28 août</td><td>1982</td></tr>
+<tr><td colspan="3">Érythrée</td><td colspan="2">22 avril</td><td colspan="2">1996 A</td><td>22 juillet</td><td>1996</td></tr>
 <tr><td colspan="3">Espagne</td><td colspan="2">5 septembre</td><td colspan="2">1978</td><td>25 mai</td><td>1980</td></tr>
 <tr><td colspan="3">Estonie</td><td colspan="2">16 décembre</td><td colspan="2">1991 A</td><td>16 mars</td><td>1992</td></tr>
-<tr><td colspan="3">Etats-Unis</td><td colspan="2">7 septembre</td><td colspan="2">1978</td><td>25 mai</td><td>1980</td></tr>
-<tr><td colspan="3">Ethiopie</td><td colspan="2">18 juillet</td><td colspan="2">1985 A</td><td>18 octobre</td><td>1985</td></tr>
+<tr><td colspan="3">États-Unis</td><td colspan="2">7 septembre</td><td colspan="2">1978</td><td>25 mai</td><td>1980</td></tr>
+<tr><td colspan="3">Éthiopie</td><td colspan="2">18 juillet</td><td colspan="2">1985 A</td><td>18 octobre</td><td>1985</td></tr>
 <tr><td colspan="3">Fidji</td><td colspan="2">4 mars</td><td colspan="2">1983 A</td><td>4 juin</td><td>1983</td></tr>
 <tr><td colspan="3">Finlande</td><td colspan="2">21 novembre</td><td colspan="2">1980 A</td><td>21 février</td><td>1981</td></tr>
 <tr><td colspan="3">France\*</td><td colspan="2">25 mai</td><td colspan="2">1977</td><td>25 mai</td><td>1980</td></tr>
@@ -265,8 +265,8 @@ Champ d’application de la convention le 20 mars 2019**[^t-2]**
 <tr><td colspan="3">Haïti</td><td colspan="2">6 avril</td><td colspan="2">1989 A</td><td>6 juillet</td><td>1989</td></tr>
 <tr><td colspan="3">Honduras</td><td colspan="2">24 septembre</td><td colspan="2">1985 A</td><td>24 décembre</td><td>1985</td></tr>
 <tr><td colspan="3">Hongrie</td><td colspan="2">9 janvier</td><td colspan="2">1980</td><td>25 mai</td><td>1980</td></tr>
-<tr><td colspan="3">Iles Cook</td><td colspan="2">30 juin</td><td colspan="2">2003 A</td><td>30 septembre</td><td>2003</td></tr>
-<tr><td colspan="3">Iles Marshall</td><td colspan="2">26 avril</td><td colspan="2">1988 A</td><td>26 juillet</td><td>1988</td></tr>
+<tr><td colspan="3">Îles Cook</td><td colspan="2">30 juin</td><td colspan="2">2003 A</td><td>30 septembre</td><td>2003</td></tr>
+<tr><td colspan="3">Îles Marshall</td><td colspan="2">26 avril</td><td colspan="2">1988 A</td><td>26 juillet</td><td>1988</td></tr>
 <tr><td colspan="3">Inde</td><td colspan="2">16 juin</td><td colspan="2">1976 A</td><td>25 mai</td><td>1980</td></tr>
 <tr><td colspan="3">Indonésie</td><td colspan="2">17 février</td><td colspan="2">1981</td><td>17 mai</td><td>1981</td></tr>
 <tr><td colspan="3">Iran</td><td colspan="2">17 octobre</td><td colspan="2">1994</td><td>17 janvier</td><td>1995</td></tr>
@@ -311,6 +311,7 @@ Champ d’application de la convention le 20 mars 2019**[^t-2]**
 <tr><td colspan="3">Norvège</td><td colspan="2">15 février</td><td colspan="2">1977</td><td>25 mai</td><td>1980</td></tr>
 <tr><td colspan="3">Nouvelle-Zélande <sup>c</sup></td><td colspan="2">23 février</td><td colspan="2">1990 A</td><td>23 mai</td><td>1990</td></tr>
 <tr><td colspan="3">Oman</td><td colspan="2">25 avril</td><td colspan="2">1985 A</td><td>25 juillet</td><td>1985</td></tr>
+<tr><td colspan="3">Ouganda</td><td colspan="2">3 avril</td><td colspan="2">2019 A</td><td>3 juillet</td><td>2019</td></tr>
 <tr><td colspan="3">Pakistan</td><td colspan="2">10 avril</td><td colspan="2">1985 A</td><td>10 juillet</td><td>1985</td></tr>
 <tr><td colspan="3">Palaos</td><td colspan="2">29 septembre</td><td colspan="2">2011</td><td>29 décembre</td><td>2011</td></tr>
 <tr><td colspan="3">Panama</td><td colspan="2">9 mars</td><td colspan="2">1978 A</td><td>25 mai</td><td>1980</td></tr>
@@ -335,19 +336,20 @@ Champ d’application de la convention le 20 mars 2019**[^t-2]**
 <tr><td colspan="3">[tab] Bermudes</td><td colspan="2">8 juin</td><td colspan="2">1988</td><td>23 juin</td><td>1988</td></tr>
 <tr><td colspan="3">[tab] Gibraltar</td><td colspan="2">1<sup>er</sup> novembre</td><td colspan="2">1988</td><td>1<sup>er</sup> décembre</td><td>1988</td></tr>
 <tr><td colspan="3">[tab] Guernesey</td><td colspan="2">30 janvier</td><td colspan="2">2004</td><td>30 janvier</td><td>2004</td></tr>
-<tr><td colspan="3">[tab] Ile de Man</td><td colspan="2">9 avril</td><td colspan="2">1985</td><td>1<sup>er</sup> juillet</td><td>1985</td></tr>
-<tr><td colspan="3">[tab] Iles Cayman</td><td colspan="2">9 mai</td><td colspan="2">1988</td><td>23 juin</td><td>1988</td></tr>
-<tr><td colspan="3">[tab] Iles Falkland</td><td colspan="2">30 janvier</td><td colspan="2">2004</td><td>30 janvier</td><td>2004</td></tr>
-<tr><td colspan="3">[tab] Iles Turques et Caïques</td><td colspan="2">7 juillet</td><td colspan="2">2004</td><td>7 juillet</td><td>2004</td></tr>
-<tr><td colspan="3">[tab] Iles Vierges britanniques</td><td colspan="2">10 juin</td><td colspan="2">2004</td><td>10 juin</td><td>2004</td></tr>
+<tr><td colspan="3">[tab] Île de Man</td><td colspan="2">9 avril</td><td colspan="2">1985</td><td>1<sup>er</sup> juillet</td><td>1985</td></tr>
+<tr><td colspan="3">[tab] Îles Cayman</td><td colspan="2">9 mai</td><td colspan="2">1988</td><td>23 juin</td><td>1988</td></tr>
+<tr><td colspan="3">[tab] Îles Falkland</td><td colspan="2">30 janvier</td><td colspan="2">2004</td><td>30 janvier</td><td>2004</td></tr>
+<tr><td colspan="3">[tab] Îles Turques et Caïques</td><td colspan="2">7 juillet</td><td colspan="2">2004</td><td>7 juillet</td><td>2004</td></tr>
+<tr><td colspan="3">[tab] Îles Vierges britanniques</td><td colspan="2">10 juin</td><td colspan="2">2004</td><td>10 juin</td><td>2004</td></tr>
 <tr><td colspan="3">[tab] Jersey</td><td colspan="2">30 janvier</td><td colspan="2">2004</td><td>30 janvier</td><td>2004</td></tr>
 <tr><td colspan="3">[tab] Montserrat</td><td colspan="2">19 mai</td><td colspan="2">2004</td><td>19 mai</td><td>2004</td></tr>
 <tr><td colspan="3">[tab] Sainte-Hélène</td><td colspan="2">10 juin</td><td colspan="2">2004</td><td>10 juin</td><td>2004</td></tr>
 <tr><td colspan="3">Russie</td><td colspan="2">9 janvier</td><td colspan="2">1980</td><td>25 mai</td><td>1980</td></tr>
 <tr><td colspan="3">Sainte-Lucie</td><td colspan="2">20 mai</td><td colspan="2">2004 A</td><td>20 août</td><td>2004</td></tr>
 <tr><td colspan="3">Saint-Kitts-et-Nevis</td><td colspan="2">11 juin</td><td colspan="2">2004 A</td><td>11 septembre</td><td>2004</td></tr>
+<tr><td colspan="3">Saint-Marin</td><td colspan="2">19 avril</td><td colspan="2">2021 A</td><td>19 juillet</td><td>2021</td></tr>
 <tr><td colspan="3">Saint-Vincent-et-les Grenadines</td><td colspan="2">28 octobre</td><td colspan="2">1983 A</td><td>28 janvier</td><td>1984</td></tr>
-<tr><td colspan="3">Salomon, Iles</td><td colspan="2">30 juin</td><td colspan="2">2004 A</td><td>30 septembre</td><td>2004</td></tr>
+<tr><td colspan="3">Salomon, Îles</td><td colspan="2">30 juin</td><td colspan="2">2004 A</td><td>30 septembre</td><td>2004</td></tr>
 <tr><td colspan="3">Samoa</td><td colspan="2">14 mars</td><td colspan="2">1997 A</td><td>14 juin</td><td>1997</td></tr>
 <tr><td colspan="3">Sao Tomé-et-Principe</td><td colspan="2">29 octobre</td><td colspan="2">1998 A</td><td>29 janvier</td><td>1999</td></tr>
 <tr><td colspan="3">Sénégal</td><td colspan="2">16 janvier</td><td colspan="2">1997 A</td><td>16 avril</td><td>1997</td></tr>
@@ -379,10 +381,10 @@ Champ d’application de la convention le 20 mars 2019**[^t-2]**
 <tr><td colspan="3">Vietnam</td><td colspan="2">18 décembre</td><td colspan="2">1990 A</td><td>18 mars</td><td>1991</td></tr>
 <tr><td colspan="3">Yémen</td><td colspan="2">6 mars</td><td colspan="2">1979 A</td><td>25 mai</td><td>1980</td></tr>
 <tr><td>\*</td><td colspan="8">Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation maritime internationale: www.imo.org &gt; fr &gt; Qui nous sommes &gt; Conventions &gt; Liste des conventions ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="8">Du 25 mai 1980 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="8">Du 24 août 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. A partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 10 déc. 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td><sup>a</sup></td><td colspan="8">Du 25 mai 1980 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
+<tr><td><sup>b</sup></td><td colspan="8">Du 24 août 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 10 déc. 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
 <tr><td><sup>c</sup></td><td colspan="8">La conv. n’est pas applicable à Tokelau.</td></tr>
 <tr><td><sup>d</sup></td><td colspan="8">La conv. s’applique au Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128)[1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562), [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255), [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231), [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871), [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153), [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841), [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869), [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463), [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199), [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671), [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128), [1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562); [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255); [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231); [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871); [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153); [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841); [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199); [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671); [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201); [2021 544](https://fedlex.data.admin.ch/eli/oc/2021/544). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: (www.fedlex.admin.ch/fr/treaty).
