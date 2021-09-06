@@ -5,30 +5,28 @@ title: Vollzugsverordnung zum Gesetz über die Förderung des kulturellen Lebens
 short: Kulturförderungsverordnung
 language: de
 version: 2004-07-01
+corrected: 2021-09-07
 version_adopted: 2004-06-29
 adopted: 2004-06-29
 in_force: 2004-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/321.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/570/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/165/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung zum Gesetz über die Förderung des kulturellen Lebens
+# Vollzugsverordnung zum Gesetz über die Förderung des kulturellen Lebens (Kulturförderungsverordnung)
 
-(Kulturförderungsverordnung)
-
-vom 29.06.2004 (Stand 01.07.2004)
+vom 29. Juni 2004<sup>1</sup>
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 8, 17 und 19 des Gesetzes vom 4. Februar 2004 über die Förderung des kulturellen Lebens (Kulturförderungsgesetz)[^ingress-1],
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 8, 17 und 19 des Gesetzes vom 4. Februar 2004 über die Förderung des kulturellen Lebens (Kulturförderungsgesetz)<sup>2</sup>,
 
 beschliesst:
 
-[^ingress-1]: NG 321.1
-
-## 1 Nidwaldner Museum
+### I. NIDWALDNER MUSEUM
 
 #### § 1
 
@@ -40,16 +38,23 @@ beschliesst:
 
 #### § 2
 
-**Sammlung 1. Bestand**
+**Sammlung**
+
+- 1\. Bestand
 
 <sup>1</sup> Die Sammlung besteht aus Objekten im Eigentum des Kantons sowie aus Objekten Dritter, die das Museum als Deposita in die Sammlung aufgenommen hat.
 
 <sup>2</sup> Sie enthält Objekte, die für Nidwalden oder den Kulturraum Zentralschweiz von Bedeutung sind und:
 
 - 1\. die von künstlerischem Wert sind;
+
 - 2\. die von wissenschaftlichem Wert sind, insbesondere Bodenaltertümer, Zeugnisse aus Brauchtum, Wirtschafts- und Alltagsleben;
+
 - 3\. die von staatspolitischem oder historischem Wert sind, insbesondere Siegel, Siegelstempel, Banner und sonstige Staatsaltertümer;
-- 4\. die von der Ausfuhr bedroht, der Vernichtung preisgegeben oder im ursprünglichen Zusammenhang nicht mehr zu erhalten sind.
+
+**1**
+
+1.8.2004 - 38 4. die von der Ausfuhr bedroht, der Vernichtung preisgegeben oder im ursprünglichen Zusammenhang nicht mehr zu erhalten sind.
 
 <sup>3</sup> In der Form von Schenkungen oder von Deposita kann das Museum auch Objekte aller Art entgegen nehmen, die in keinem direkten Bezug zu Nidwalden stehen.
 
@@ -64,6 +69,7 @@ beschliesst:
 <sup>2</sup> Das Inventar kann eingesehen werden:
 
 - 1\. für wissenschaftliche Arbeiten;
+
 - 2\. von den Eigentümerinnen oder Eigentümern betreffend ihrer Deposita.
 
 #### § 4
@@ -76,11 +82,13 @@ beschliesst:
 
 #### § 5
 
-**Sammlungsobjekte im Eigentum des Kantons 1. Erwerb**
+**Sammlungsobjekte im Eigentum des Kantons**
+
+### 1. Erwerb
 
 <sup>1</sup> Die Museumsleitung entscheidet über den Erwerb von Sammlungsobjekten.
 
-<sup>2</sup> Übersteigt der Kaufpreis eines Objektes den Betrag von Fr. 5'000.–, entscheidet die Kulturkommission auf Antrag der Museumsleitung.
+<sup>2</sup> Übersteigt der Kaufpreis eines Objektes den Betrag von Fr. 5‘000.-, entscheidet die Kulturkommission auf Antrag der Museumsleitung.
 
 <sup>3</sup> Ergeben sich durch die Annahme von Schenkungen für den Kanton über den Aufwand für die Restaurierung hinaus erhebliche Folgekosten, entscheidet die zuständige Direktion.
 
@@ -106,7 +114,9 @@ beschliesst:
 
 #### § 8
 
-**Deposita 1. Annahme**
+**Deposita**
+
+### 1. Annahme
 
 <sup>1</sup> Die Museumsleitung entscheidet über die Annahme von Einzelobjekten als Deposita.
 
@@ -120,17 +130,23 @@ beschliesst:
 
 <sup>2</sup> Restaurierungsaufträge bedürfen der schriftlichen Zustimmung der Eigentümerin oder des Eigentümers.
 
-<sup>3</sup> Sind Deposita auf Kosten des Kantons restauriert worden, können sie von der Eigentümerin oder vom Eigentümer nur zurückgezogen werden, wenn dem Kanton die Restaurierungskosten ganz oder teilweise ersetzt worden sind; bei der Berechnung des Rückerstattungsbetrages sind für jedes volle Jahr seit dem Datum der Restaurierungsrechnung 3 Prozent vom Rechnungsbetrag in Abzug zu bringen.
+<sup>3</sup> Sind Deposita auf Kosten des Kantons restauriert worden, können sie von der Eigentümerin oder vom Eigentümer nur zurückgezogen werden, wenn dem Kanton die Restaurierungskosten ganz oder teilweise ersetzt worden sind; bei der Berechnung des Rückerstattungsbetrages sind für jedes volle Jahr seit dem Datum der Restaurierungsrechnung 3¯ Prozent vom Rechnungsbetrag in Abzug zu bringen.
+
+**3**
+
+1.8.2004 - 38
 
 #### § 10
 
 **3. Rückgabe**
 
-<sup>1</sup> Deposita, für die das Museum keine Verwendung mehr hat, sind der Eigentümerin oder dem Eigentümer zurückzugeben.
+Deposita, für die das Museum keine Verwendung mehr hat, sind der Eigentümerin oder dem Eigentümer zurückzugeben.
 
 #### § 11
 
-**Ausleihe 1. dauernde**
+**Ausleihe**
+
+### 1. dauernde
 
 <sup>1</sup> Dauerleihgaben von Sammlungsobjekten an Dritte sind untersagt.
 
@@ -144,19 +160,24 @@ beschliesst:
 
 **2. vorübergehende**
 
-<sup>1</sup> Die vorübergehende Ausleihe von Sammlungsobjekten an andere Museen oder artverwandte Institutionen für Ausstellungen ist zulässig, sofern die Objekte nicht besonders gefährdet werden und die Empfängerin oder der Empfänger die Leihgabe angemessen versichert.
+Die vorübergehende Ausleihe von Sammlungsobjekten an andere Museen oder artverwandte Institutionen für Ausstellungen ist zulässig, sofern die Objekte nicht besonders gefährdet werden und die Empfängerin oder der Empfänger die Leihgabe angemessen versichert.
 
 #### § 13
 
-**Ausstellungen 1. Ziel**
+**Ausstellungen**
+
+### 1. Ziel
 
 <sup>1</sup> Das Museum bringt in öffentlichen Ausstellungen Aspekte aus Geschichte und Kultur Nidwaldens zur Darstellung.
 
 <sup>2</sup> Die Ausstellungen verfolgen das Ziel:
 
 - 1\. über einen Teil des Tätigkeitsbereiches des Museums eingehender zu informieren;
+
 - 2\. vertiefte Einblicke in einzelne Kulturepochen zu vermitteln;
+
 - 3\. historische Ereignisse oder Persönlichkeiten und ihr Werk zur Darstellung zu bringen;
+
 - 4\. Künstlerinnen und Künstlern Gelegenheit zu geben, in Einzel- oder Gruppenausstellungen der Öffentlichkeit Einblick in ihr Schaffen zu ermöglichen.
 
 <sup>3</sup> Museumspädagogische Angebote erleichtern das Verständnis der Ausstellungen.
@@ -191,9 +212,9 @@ beschliesst:
 
 **Private Sammeltätigkeit**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter des Museums dürfen nur eigene private Sammlungen aufbauen, sofern sich diese nicht mit dem Sammelbereich des Museums überschneiden.
+Die Mitarbeiterinnen und Mitarbeiter des Museums dürfen nur eigene private Sammlungen aufbauen, sofern sich diese nicht mit dem Sammelbereich des Museums überschneiden.
 
-## 2 Kantonsbibliothek
+### II. KANTONSBIBLIOTHEK
 
 #### § 18
 
@@ -202,6 +223,10 @@ beschliesst:
 <sup>1</sup> Die Kantonsbibliothek wird fachlich, wissenschaftlich und administrativ von der Kantonsbibliothekarin oder dem Kantonsbibliothekar geleitet.
 
 <sup>2</sup> Die Leitung der Kantonsbibliothek sorgt für einen kundenorientierten Betrieb, die Öffentlichkeitsarbeit und erfüllt alle Aufgaben betreffend die Kantonsbibliothek, soweit diese nicht einer anderen Instanz übertragen sind.
+
+**5**
+
+1.8.2004 - 38
 
 #### § 19
 
@@ -237,11 +262,9 @@ beschliesst:
 
 <sup>1</sup> Die Leitung der Kantonsbibliothek entscheidet über den Erwerb von Werken und die Veräusserung von Dubletten.
 
-<sup>2</sup> Über die Übernahme anderer Bibliotheken, Familienarchive und weiterer Bestände gemäss Art. 10 Abs. 2 Ziff. 6 des Kulturförderungsgesetzes[^22-1] entscheidet die zuständige Direktion auf Antrag des Amtes für Kultur.
+<sup>2</sup> Über die Übernahme anderer Bibliotheken, Familienarchive und weiterer Bestände gemäss Art. 10 Abs. 2 Ziff. 6 des Kulturförderungsgesetzes<sup>2</sup> entscheidet die zuständige Direktion auf Antrag des Amtes für Kultur.
 
 <sup>3</sup> Der Erlös aus dem Verkauf von Werken und Dubletten fliesst in den Kulturfonds und ist für Belange der Kantonsbibliothek zu verwenden.
-
-[^22-1]: NG 321.1
 
 #### § 23
 
@@ -261,7 +284,7 @@ beschliesst:
 
 <sup>3</sup> Die Ausleihe von Manuskripten oder von Werken, die mehr als hundert Jahre alt sind, sowie von Werken, die sich wegen ihres Wertes, Inhaltes oder ihrer Unersetzlichkeit für die Ausleihe nicht eignen, kann die Leitung der Kantonsbibliothek nur in begründeten Ausnahmefällen gestatten.
 
-## 3 Organisation, Kulturfonds
+### III. ORGANISATION, KULTURFONDS
 
 #### § 25
 
@@ -282,14 +305,20 @@ beschliesst:
 <sup>1</sup> Die Kulturkommission erfüllt folgende Aufgaben:
 
 - 1\. Entscheid über die Erteilung von Aufträgen, die Veranstaltung von Wettbewerben, die Unterstützung von Arbeiten und Veranstaltungen, die Verleihung von Auszeichnungen sowie die Zuerkennung von Förderungsbeiträgen;
-- 2\. Entscheid über alle eingehenden Gesuche und Projekte im Bereich der Kulturförderung;
+
+**7**
+
+1.8.2004 - 38 2. Entscheid über alle eingehenden Gesuche und Projekte im Bereich der Kulturförderung;
+
 - 3\. Abschluss von Leistungsvereinbarungen gemäss Art. 5 Abs. 2 des Kulturförderungsgesetzes[^26-1];
+
 - 4\. Beratung des Regierungsrates für Kunst am Bau bei kantonseigenen Bauten;
+
 - 5\. die weiteren ihr durch die Gesetzgebung übertragenen Aufgaben.
 
 <sup>2</sup> Sie bemüht sich um eine möglichst grosse Transparenz und Öffentlichkeit ihrer Arbeit.
 
-<sup>3</sup> Sie kann Entscheide über Beiträge bis Fr. 2'000.– an einen Ausschuss delegieren.
+<sup>3</sup> Sie kann Entscheide über Beiträge bis Fr. 2'000.- an einen Ausschuss delegieren.
 
 [^26-1]: NG 321.1
 
@@ -303,12 +332,14 @@ beschliesst:
 
 [^27-1]: NG 321.1
 
-## 4 Schlussbestimmung
+### IV. SCHLUSSBESTIMMUNG
 
 #### § 28
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Juli 2004 in Kraft.
+Diese Verordnung tritt am 1. Juli 2004 in Kraft.
 
-A 2004, 1139
+## Weitere Fussnoten
+
+- [1] A 2004, 1139
