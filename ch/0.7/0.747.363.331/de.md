@@ -3,11 +3,11 @@ sr: "0.747.363.331"
 title: Protokoll von 1978 vom 17. Februar 1978 zu dem Internationalen Übereinkommen vom 1974 zum Schutz des menschlichen Lebens auf See
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321"
 language: de
-version: 2017-01-01
+version: 2021-09-07
 adopted: 1978-02-17
 in_force: 1982-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20170101/de/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20170101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20210907/de/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20210907-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20210907/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,7 +18,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20170101/de"
 
 Abgeschlossen in London am 17. Februar 1978 Schweizerische Beitrittsurkunde hinterlegt am 1. April 1982 In Kraft getreten für die Schweiz am 1. Juli 1982
 
-(Stand am 1. Januar 2017)
+(Stand am 7. September 2021)
 
 Die Vertragsparteien dieses Protokolls
 
@@ -38,9 +38,9 @@ sind wie folgt übereingekommen:
 
 **Allgemeine Verpflichtungen**
 
-Die Vertragsparteien dieses Protokolls verpflichten sich, diesem Protokoll und seiner Anlage,[^I-1] die Bestandteil des Protokolls ist, Wirksamkeit zu verleihen. Jede Bezugnahme auf das Protokoll ist gleichzeitig eine Bezugnahme auf seine Anlage.
+Die Vertragsparteien dieses Protokolls verpflichten sich, diesem Protokoll und seiner Anlage[^I-1], die Bestandteil des Protokolls ist, Wirksamkeit zu verleihen. Jede Bezugnahme auf das Protokoll ist gleichzeitig eine Bezugnahme auf seine Anlage.
 
-[^I-1]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1987 930](https://fedlex.data.admin.ch/eli/oc/1987/930_930_930); [1993 2514](https://fedlex.data.admin.ch/eli/oc/1993/2514_2514_2514); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 31, 4010 Basel eingesehen werden
+[^I-1]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1987 930](https://fedlex.data.admin.ch/eli/oc/1987/930_930_930); [1993 2514](https://fedlex.data.admin.ch/eli/oc/1993/2514_2514_2514); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 31, 4010 Basel eingesehen werden.
 
 #### Art. II
 
@@ -123,7 +123,7 @@ Dieses Protokoll ist in einer Urschrift in chinesischer, englischer, französisc
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 11. August 2016[^t-1]
+Geltungsbereich am 7. September 2021[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -215,11 +215,13 @@ Geltungsbereich am 11. August 2016[^t-1]
 <tr><td>Palau</td><td>29. September</td><td>2011 B</td><td>29. Dezember</td><td colspan="2">2011</td></tr>
 <tr><td>Panama</td><td>14. Juli</td><td>1982 B</td><td>14. Oktober</td><td colspan="2">1982</td></tr>
 <tr><td>Peru</td><td>16. Juli</td><td>1982 B</td><td>16. Oktober</td><td colspan="2">1982</td></tr>
+<tr><td>Philippinen</td><td>24. April</td><td>2018 B</td><td>24. Juli</td><td colspan="2">2018</td></tr>
 <tr><td>Polen</td><td>15. März</td><td>1984</td><td>15. Juni</td><td colspan="2">1984</td></tr>
 <tr><td>Portugal\*</td><td>7. November</td><td>1983 B</td><td>7. Februar</td><td colspan="2">1984</td></tr>
 <tr><td>Rumänien</td><td>14. Januar</td><td>2008 B</td><td>14. April</td><td colspan="2">2008</td></tr>
 <tr><td>Russland</td><td>12. Mai</td><td>1981 B</td><td>12. August</td><td colspan="2">1981</td></tr>
 <tr><td>Samoa</td><td>14. März</td><td>1997 B</td><td>14. Juni</td><td colspan="2">1997</td></tr>
+<tr><td>San Marino</td><td>21. April</td><td>2021 B</td><td>21. Juli</td><td colspan="2">2021</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>29. Oktober</td><td>1998 B</td><td>29. Januar</td><td colspan="2">1999</td></tr>
 <tr><td>Saudi-Arabien</td><td>2. März</td><td>1990 B</td><td>2. Juni</td><td colspan="2">1990</td></tr>
 <tr><td>Schweden</td><td>21. Dezember</td><td>1979</td><td>1. Mai</td><td colspan="2">1981</td></tr>
@@ -262,4 +264,4 @@ Geltungsbereich am 11. August 2016[^t-1]
 <tr><td colspan="6"><sup>b</sup> Vom 24. Aug. 1999 bis zum 19. Dez. 1999 war das Protokoll auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 10. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-[^t-1]: [AS 1982 1321](https://fedlex.data.admin.ch/eli/oc/1982/1321_1321_1321), [1983 248](https://fedlex.data.admin.ch/eli/oc/1983/248_248_248), [1984 276](https://fedlex.data.admin.ch/eli/oc/1984/276_276_276), [1985 232](https://fedlex.data.admin.ch/eli/oc/1985/232_232_232), [1986 872](https://fedlex.data.admin.ch/eli/oc/1986/872_872_872), [1987 1154](https://fedlex.data.admin.ch/eli/oc/1987/1154_1154_1154), [1989 842](https://fedlex.data.admin.ch/eli/oc/1989/842_842_842), [1990 1870](https://fedlex.data.admin.ch/eli/oc/1990/1870_1870_1870), [2005 1315](https://fedlex.data.admin.ch/eli/oc/2005/200), [2008 4605](https://fedlex.data.admin.ch/eli/oc/2008/639), [2013 3017](https://fedlex.data.admin.ch/eli/oc/2013/585)und [2016 2957](https://fedlex.data.admin.ch/eli/oc/2016/493). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: [AS 1982 1321](https://fedlex.data.admin.ch/eli/oc/1982/1321_1321_1321); [1983 248](https://fedlex.data.admin.ch/eli/oc/1983/248_248_248); [1984 276](https://fedlex.data.admin.ch/eli/oc/1984/276_276_276); [1985 232](https://fedlex.data.admin.ch/eli/oc/1985/232_232_232); [1986 872](https://fedlex.data.admin.ch/eli/oc/1986/872_872_872); [1987 1154](https://fedlex.data.admin.ch/eli/oc/1987/1154_1154_1154); [1989 842](https://fedlex.data.admin.ch/eli/oc/1989/842_842_842); [1990 1870](https://fedlex.data.admin.ch/eli/oc/1990/1870_1870_1870); [2005 1315](https://fedlex.data.admin.ch/eli/oc/2005/200); [2008 4605](https://fedlex.data.admin.ch/eli/oc/2008/639); [2013 3017](https://fedlex.data.admin.ch/eli/oc/2013/585); [2016 2957](https://fedlex.data.admin.ch/eli/oc/2016/493); [2021 545](https://fedlex.data.admin.ch/eli/oc/2021/545). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.

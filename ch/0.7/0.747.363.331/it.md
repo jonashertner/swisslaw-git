@@ -3,24 +3,26 @@ sr: "0.747.363.331"
 title: Protocollo del 1978 del 17 febbraio 1978 relativo alla Convenzione internazionale del 1974 per la salvaguardia della vita umana in mare
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321"
 language: it
-version: 2017-01-01
+version: 2021-09-07
 adopted: 1978-02-17
 in_force: 1982-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20170101/it/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20170101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20210907/it/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20210907-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20210907/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Protocollo del 1978 relativo alla Convenzione internazionale del 1974 per la salvaguardia della vita umana in mare
 
-Traduzione[^t-1]
+Traduzione
 
-Conchiuso a Londra il 17 febbraio 1978 Strumento d’adesione depositato dalla Svizzera il 1° aprile 1982 Entrato in vigore per la Svizzera il 1° luglio 1982
+Conchiuso a Londra il 17 febbraio 1978
 
-(Stato 1° gennaio 2017)
+Strumento d’adesione depositato dalla Svizzera il 1° aprile 1982
 
-[^t-1]: RU **1982** 1321 Dal testo originale francese.
+Entrato in vigore per la Svizzera il 1° luglio 1982
+
+(Stato 7 settembre 2021)
 
 Le Parti contraenti del presente Protocollo,
 
@@ -34,7 +36,7 @@ Considerando che l’obiettivo può ottimamente essere raggiunto con la stipula 
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^ingress-1]: RU **1982** 1321 RS **0.747.363.33**
 
 #### Art. I
 
@@ -42,7 +44,7 @@ hanno convenuto quanto segue:
 
 Le Parti contraenti del presente Protocollo si impegnano a dar effetto alle disposizioni del presente Protocollo e del suo Annesso[^I-1] che ne costituisce parte integrante. Qualsiasi riferimento al presente Protocollo deve considerarsi riferimento anche al suo Annesso.
 
-[^I-1]: Questo all. ed i suoi emendamenti, non sono pubblicati nella RU ([RU 1987 930](https://fedlex.data.admin.ch/eli/oc/1987/930_930_930); [1993 2514](https://fedlex.data.admin.ch/eli/oc/1993/2514_2514_2514); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 31, 4010 Basilea.
+[^I-1]: Questo allegato e i suoi emendamenti non sono pubblicati nella RU ([RU 1987 930](https://fedlex.data.admin.ch/eli/oc/1987/930_930_930); [1993 2514](https://fedlex.data.admin.ch/eli/oc/1993/2514_2514_2514); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx.](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx.%20) Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 31, 4010 Basilea.
 
 #### Art. II
 
@@ -132,7 +134,7 @@ Il presente Protocollo viene redatto in originale unico nelle lingue cinese, ing
 
 (Si omettono le firme)
 
-Campo d’applicazione l’11 agosto 2016[^t-2]
+Campo d’applicazione il 7 settembre 2021[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -157,8 +159,8 @@ Campo d’applicazione l’11 agosto 2016[^t-2]
 <tr><td>Ceca, Repubblica</td><td>19 ottobre</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Cile</td><td>15 luglio</td><td>1992 A</td><td>15 ottobre</td><td>1992</td></tr>
 <tr><td>Cina</td><td>17 dicembre</td><td>1982 A</td><td>17 marzo</td><td>1983</td></tr>
-<tr><td>Hong Kong<sup>a</sup></td><td>5 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
-<tr><td>Macao<sup>b</sup></td><td>10 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
+<tr><td>Hong Kong <sup>a</sup></td><td>5 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Macao <sup>b</sup></td><td>10 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
 <tr><td>Cipro</td><td>11 ottobre</td><td>1985 A</td><td>11 gennaio</td><td>1986</td></tr>
 <tr><td>Colombia</td><td>31 ottobre</td><td>1980 A</td><td>1° maggio</td><td>1981</td></tr>
 <tr><td>Comore</td><td>22 novembre</td><td>2000 A</td><td>22 febbraio</td><td>2001</td></tr>
@@ -177,6 +179,7 @@ Campo d’applicazione l’11 agosto 2016[^t-2]
 <tr><td>Estonia</td><td>16 dicembre</td><td>1991 A</td><td>16 marzo</td><td>1992</td></tr>
 <tr><td>Etiopia</td><td>3 gennaio</td><td>1986 A</td><td>3 aprile</td><td>1986</td></tr>
 <tr><td>Figi</td><td>28 luglio</td><td>2004 A</td><td>28 ottobre</td><td>2004</td></tr>
+<tr><td>Filippine</td><td>24 aprile</td><td>2018 A</td><td>24 luglio</td><td>2018</td></tr>
 <tr><td>Finlandia</td><td>30 aprile</td><td>1981 A</td><td>1° maggio</td><td>1981</td></tr>
 <tr><td>Francia</td><td>21 dicembre</td><td>1979</td><td>1° maggio</td><td>1981</td></tr>
 <tr><td>Germania<sup>\*</sup></td><td>6 giugno</td><td>1980</td><td>1° maggio</td><td>1981</td></tr>
@@ -241,6 +244,7 @@ Campo d’applicazione l’11 agosto 2016[^t-2]
 <tr><td>Saint Lucia</td><td>20 maggio</td><td>2004 A</td><td>20 agosto</td><td>2004</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>13 luglio</td><td>1987 A</td><td>13 ottobre</td><td>1987</td></tr>
 <tr><td>Samoa</td><td>14 marzo</td><td>1997 A</td><td>14 giugno</td><td>1997</td></tr>
+<tr><td>San Marino</td><td>21 aprile</td><td>2021 A</td><td>21 luglio</td><td>2021</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>29 ottobre</td><td>1998 A</td><td>29 gennaio</td><td>1999</td></tr>
 <tr><td>Seicelle</td><td>10 maggio</td><td>1988 A</td><td>10 agosto</td><td>1988</td></tr>
 <tr><td>Senegal</td><td>16 gennaio</td><td>1997 A</td><td>16 aprile</td><td>1997</td></tr>
@@ -266,11 +270,11 @@ Campo d’applicazione l’11 agosto 2016[^t-2]
 <tr><td>Uruguay</td><td>30 aprile</td><td>1979 A</td><td>1° maggio</td><td>1981</td></tr>
 <tr><td>Vanuatu</td><td>28 luglio</td><td>1982 A</td><td>28 ottobre</td><td>1982</td></tr>
 <tr><td>Vietnam</td><td>12 ottobre</td><td>1992 A</td><td>12 gennaio</td><td>1993</td></tr>
-<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi inglesi possono essere consultati sul sito Internet dell’Organizzazione internazionale per la navigazione marittima (IMO): http://www.imo.org (vedi 'Legal') oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="6"><sup>a</sup> Dal 25 nov. 1981 al 30 giu. 1997, il protocollo era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 5 giu. 1997, il protocollo è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 <tr><td colspan="6"><sup>b</sup> Dal 24 ago. 1999 al 19 dic. 1999, il protocollo era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 10 dic. 1999, il Protocollo è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
 </table>
 
 - [tab]
 
-[^t-2]: [RU 1982 1321](https://fedlex.data.admin.ch/eli/oc/1982/1321_1321_1321), [1983 248](https://fedlex.data.admin.ch/eli/oc/1983/248_248_248), [1984 276](https://fedlex.data.admin.ch/eli/oc/1984/276_276_276), [1985 232](https://fedlex.data.admin.ch/eli/oc/1985/232_232_232), [1986 872](https://fedlex.data.admin.ch/eli/oc/1986/872_872_872), [1987 1154](https://fedlex.data.admin.ch/eli/oc/1987/1154_1154_1154), [1989 842](https://fedlex.data.admin.ch/eli/oc/1989/842_842_842), [1990 1870](https://fedlex.data.admin.ch/eli/oc/1990/1870_1870_1870), [2005 1315](https://fedlex.data.admin.ch/eli/oc/2005/200), [2008 4605](https://fedlex.data.admin.ch/eli/oc/2008/639), [2013 3017](https://fedlex.data.admin.ch/eli/oc/2013/585)e [2016 2957](https://fedlex.data.admin.ch/eli/oc/2016/493). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-1]: [RU 1982 1321](https://fedlex.data.admin.ch/eli/oc/1982/1321_1321_1321); [1983 248](https://fedlex.data.admin.ch/eli/oc/1983/248_248_248); [1984 276](https://fedlex.data.admin.ch/eli/oc/1984/276_276_276); [1985 232](https://fedlex.data.admin.ch/eli/oc/1985/232_232_232); [1986 872](https://fedlex.data.admin.ch/eli/oc/1986/872_872_872); [1987 1154](https://fedlex.data.admin.ch/eli/oc/1987/1154_1154_1154); [1989 842](https://fedlex.data.admin.ch/eli/oc/1989/842_842_842); [1990 1870](https://fedlex.data.admin.ch/eli/oc/1990/1870_1870_1870); [2005 1315](https://fedlex.data.admin.ch/eli/oc/2005/200); [2008 4605](https://fedlex.data.admin.ch/eli/oc/2008/639); [2013 3017](https://fedlex.data.admin.ch/eli/oc/2013/585); [2016 2957](https://fedlex.data.admin.ch/eli/oc/2016/493); [2021 545](https://fedlex.data.admin.ch/eli/oc/2021/545). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

@@ -3,11 +3,11 @@ sr: "0.747.363.331"
 title: Protocole de 1978 du 17 février 1978 relatif à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321"
 language: fr
-version: 2017-01-01
+version: 2021-09-07
 adopted: 1978-02-17
 in_force: 1982-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20170101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20210907/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20210907-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20210907/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,7 +18,7 @@ Texte original
 
 Conclu à Londres le 17 février 1978 Instrument d’adhésion déposé par la Suisse le 1<sup>er</sup> avril 1982 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 1982
 
-(État le 1<sup>er</sup> janvier 2017)
+(État le 7 septembre 2021)
 
 Les Parties au présent Protocole,
 
@@ -128,7 +128,7 @@ Le présent Protocole est établi en un seul exemplaire original en langues angl
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet par leurs gouvernements respectifs, ont apposé leur signature au présent Protocole. Fait à Londres ce dix-sept février mil neuf cent soixante-dix-huit. (Suivent les signatures)
 
-Champ d’application le 11 août 2016[^t-1]
+Champ d’application le 7 septembre 2021[^t-1]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -227,6 +227,7 @@ Champ d’application le 11 août 2016[^t-1]
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>8 juillet</td><td>1980</td><td>1<sup>er</sup> mai</td><td>1981</td></tr>
 <tr><td>Sint Maarten</td><td>8 juillet</td><td>1980</td><td>1<sup>er</sup> mai</td><td>1981</td></tr>
 <tr><td>Pérou</td><td>16 juillet</td><td>1982 A</td><td>16 octobre</td><td>1982</td></tr>
+<tr><td>Philippines</td><td>24 avril</td><td>2018 A</td><td>24 juillet</td><td>2018</td></tr>
 <tr><td>Pologne</td><td>15 mars</td><td>1984</td><td>15 juin</td><td>1984</td></tr>
 <tr><td>Portugal<sup>\*</sup></td><td>7 novembre</td><td>1983 A</td><td>7 février</td><td>1984</td></tr>
 <tr><td>République tchèque</td><td>19 octobre</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
@@ -239,6 +240,7 @@ Champ d’application le 11 août 2016[^t-1]
 <tr><td>Russie</td><td>12 mai</td><td>1981 A</td><td>12 août</td><td>1981</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>11 juin</td><td>2004 A</td><td>11 septembre</td><td>2004</td></tr>
 <tr><td>Sainte-Lucie</td><td>20 mai</td><td>2004 A</td><td>20 août</td><td>2004</td></tr>
+<tr><td>Saint-Marin</td><td>21 avril</td><td>2021 A</td><td>21 juillet</td><td>2021</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>13 juillet</td><td>1987 A</td><td>13 octobre</td><td>1987</td></tr>
 <tr><td>Samoa</td><td>14 mars</td><td>1997 A</td><td>14 juin</td><td>1997</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>29 octobre</td><td>1998 A</td><td>29 janvier</td><td>1999</td></tr>
@@ -265,4 +267,4 @@ Champ d’application le 11 août 2016[^t-1]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & listes de code, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 25 nov. 1981 au 30 juin 1997, le protocole était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 24 août 1999 au 19 déc. 1999, le protocole était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 10 déc. 1999, le protocole est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-1]: [RO 1982 1321](https://fedlex.data.admin.ch/eli/oc/1982/1321_1321_1321); [1983 248](https://fedlex.data.admin.ch/eli/oc/1983/248_248_248); [1984 276](https://fedlex.data.admin.ch/eli/oc/1984/276_276_276); [1985 232](https://fedlex.data.admin.ch/eli/oc/1985/232_232_232); [1986 872](https://fedlex.data.admin.ch/eli/oc/1986/872_872_872); [1987 1154](https://fedlex.data.admin.ch/eli/oc/1987/1154_1154_1154); [1989 842](https://fedlex.data.admin.ch/eli/oc/1989/842_842_842); [1990 1870](https://fedlex.data.admin.ch/eli/oc/1990/1870_1870_1870); [2005 1315](https://fedlex.data.admin.ch/eli/oc/2005/200); [2008 4605](https://fedlex.data.admin.ch/eli/oc/2008/639); [2013 3017](https://fedlex.data.admin.ch/eli/oc/2013/585); [2016 2957](https://fedlex.data.admin.ch/eli/oc/2016/493). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-1]: [RO 1982 1321](https://fedlex.data.admin.ch/eli/oc/1982/1321_1321_1321); [1983 248](https://fedlex.data.admin.ch/eli/oc/1983/248_248_248); [1984 276](https://fedlex.data.admin.ch/eli/oc/1984/276_276_276); [1985 232](https://fedlex.data.admin.ch/eli/oc/1985/232_232_232); [1986 872](https://fedlex.data.admin.ch/eli/oc/1986/872_872_872); [1987 1154](https://fedlex.data.admin.ch/eli/oc/1987/1154_1154_1154); [1989 842](https://fedlex.data.admin.ch/eli/oc/1989/842_842_842); [1990 1870](https://fedlex.data.admin.ch/eli/oc/1990/1870_1870_1870); [2005 1315](https://fedlex.data.admin.ch/eli/oc/2005/200); [2008 4605](https://fedlex.data.admin.ch/eli/oc/2008/639); [2013 3017](https://fedlex.data.admin.ch/eli/oc/2013/585); [2016 2957](https://fedlex.data.admin.ch/eli/oc/2016/493); [2021 545](https://fedlex.data.admin.ch/eli/oc/2021/545). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
