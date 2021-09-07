@@ -3,11 +3,11 @@ sr: "0.814.82"
 title: Übereinkommen von Minamata vom 10. Oktober 2013 über Quecksilber
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/467"
 language: de
-version: 2021-02-26
+version: 2021-09-08
 adopted: 2013-10-10
 in_force: 2017-08-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20210226/de/xml/fedlex-data-admin-ch-eli-cc-2017-467-20210226-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20210226/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20210908/de/xml/fedlex-data-admin-ch-eli-cc-2017-467-20210908-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20210908/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 25. Mai 2016[^t-2]
 
 In Kraft getreten für die Schweiz am 16. August 2017
 
-(Stand am 26. Februar 2021)
+(Stand am 8. September 2021)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 18. Dez. 2015 ([AS 2017 3915](https://fedlex.data.admin.ch/eli/oc/2017/466)).
 [^t-2]: Berichtigung vom 5. Nov. 2019 ([AS 2019 3439](https://fedlex.data.admin.ch/eli/oc/2019/626)).
@@ -1071,7 +1071,7 @@ Bei Uneinigkeit darüber, ob die Vergleichskommission für die Prüfung einer ih
 
 Die Kosten der Vergleichskommission werden von den Streitparteien zu gleichen Teilen getragen, wenn sie nichts anderes vereinbaren. Die Kommission führt über alle ihre Kosten Buch und legt den Parteien eine Schlussabrechnung vor.
 
-Geltungsbereich am 26. Februar 2021**[^t-3]**
+Geltungsbereich am 8. September 2021**[^t-3]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1082,6 +1082,7 @@ Geltungsbereich am 26. Februar 2021**[^t-3]**
 <tr><td>Argentinien<sup>\*</sup></td><td>25. September</td><td>2017</td><td>24. Dezember</td><td>2017</td></tr>
 <tr><td>Armenien<sup>\*</sup></td><td>13. Dezember</td><td>2017</td><td>13. März</td><td>2018</td></tr>
 <tr><td>Bahamas</td><td>12. Februar</td><td>2020 B</td><td>12. Mai</td><td>2020</td></tr>
+<tr><td>Bahrain</td><td>6. Juli</td><td>2021 B</td><td>4. Oktober</td><td>2021</td></tr>
 <tr><td>Benin</td><td>7. November</td><td>2016</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Belgien</td><td>26. Februar</td><td>2018</td><td>27. Mai</td><td>2018</td></tr>
 <tr><td>Bolivien</td><td>26. Januar</td><td>2016</td><td>16. August</td><td>2017</td></tr>
@@ -1089,13 +1090,15 @@ Geltungsbereich am 26. Februar 2021**[^t-3]**
 <tr><td>Brasilien</td><td>8. August</td><td>2017</td><td>6. November</td><td>2017</td></tr>
 <tr><td>Bulgarien</td><td>18. Mai</td><td>2017</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Burkina Faso</td><td>10. April</td><td>2017</td><td>16. August</td><td>2017</td></tr>
+<tr><td>Burundi</td><td>26. März</td><td>2021</td><td>24. Juni</td><td>2021</td></tr>
 <tr><td>Chile</td><td>27. August</td><td>2018</td><td>25. November</td><td>2018</td></tr>
 <tr><td>China</td><td>31. August</td><td>2016</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Hongkong</td><td>31. August</td><td>2016</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Macau</td><td>31. August</td><td>2016</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Costa Rica</td><td>19. Januar</td><td>2017</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Côte d’Ivoire</td><td>1. Oktober</td><td>2019</td><td>30. Dezember</td><td>2019</td></tr>
-<tr><td>Dänemark <sup>a</sup></td><td>18. Mai</td><td>2017</td><td>16. August</td><td>2017</td></tr>
+<tr><td>Dänemark</td><td>18. Mai</td><td>2017</td><td>16. August</td><td>2017</td></tr>
+<tr><td>Grönland</td><td>10. Februar</td><td>2021</td><td>10. Februar</td><td>2021</td></tr>
 <tr><td>Deutschland<sup>\*</sup></td><td>15. September</td><td>2017</td><td>14. Dezember</td><td>2017</td></tr>
 <tr><td>Dominikanische Republik</td><td>20. März</td><td>2018</td><td>18. Juni</td><td>2018</td></tr>
 <tr><td>Dschibuti</td><td>23. September</td><td>2014</td><td>16. August</td><td>2017</td></tr>
@@ -1123,6 +1126,8 @@ Geltungsbereich am 26. Februar 2021**[^t-3]**
 <tr><td>Jamaika<sup>\*</sup></td><td>19. Juli</td><td>2017</td><td>17. Oktober</td><td>2017</td></tr>
 <tr><td>Japan</td><td>2. Februar</td><td>2016</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Jordanien</td><td>12. November</td><td>2015</td><td>16. August</td><td>2017</td></tr>
+<tr><td>Kambodscha</td><td>8. April</td><td>2021</td><td>7. Juli</td><td>2021</td></tr>
+<tr><td>Kamerun</td><td>10. März</td><td>2021</td><td>8. Juni</td><td>2021</td></tr>
 <tr><td>Kanada\*</td><td>7. April</td><td>2017</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Katar</td><td>4. November</td><td>2020 B</td><td>2. Februar</td><td>2021</td></tr>
 <tr><td>Kiribati</td><td>28. Juli</td><td>2017 B</td><td>26. Oktober</td><td>2017</td></tr>
@@ -1153,13 +1158,14 @@ Geltungsbereich am 26. Februar 2021**[^t-3]**
 <tr><td>Montenegro</td><td>10. Juni</td><td>2019</td><td>8. September</td><td>2019</td></tr>
 <tr><td>Namibia<sup>\*</sup></td><td>6. September</td><td>2017 B</td><td>5. Dezember</td><td>2017</td></tr>
 <tr><td>Nicaragua</td><td>29. Oktober</td><td>2014</td><td>16. August</td><td>2017</td></tr>
-<tr><td>Niederlande\* <sup>b</sup></td><td>18. Mai</td><td>2017</td><td>16. August</td><td>2017</td></tr>
+<tr><td>Niederlande\* <sup>a</sup></td><td>18. Mai</td><td>2017</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Niger</td><td>9. Juni</td><td>2017</td><td>7. September</td><td>2017</td></tr>
 <tr><td>Nigeria</td><td>1. Februar</td><td>2018</td><td>2. Mai</td><td>2018</td></tr>
 <tr><td>Nordmazedonien</td><td>12. März</td><td>2020</td><td>10. Juni</td><td>2020</td></tr>
 <tr><td>Norwegen\*</td><td>12. Mai</td><td>2017</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Oman</td><td>23. Juni</td><td>2020 B</td><td>21. September</td><td>2020</td></tr>
 <tr><td>Österreich\*</td><td>12. Juni</td><td>2017</td><td>10. September</td><td>2017</td></tr>
+<tr><td>Pakistan</td><td>16. Dezember</td><td>2020</td><td>16. März</td><td>2021</td></tr>
 <tr><td>Palästina</td><td>18. März</td><td>2019 B</td><td>16. Juni</td><td>2019</td></tr>
 <tr><td>Palau</td><td>21. Juni</td><td>2017</td><td>19. September</td><td>2017</td></tr>
 <tr><td>Panama</td><td>29. September</td><td>2015</td><td>16. August</td><td>2017</td></tr>
@@ -1178,6 +1184,7 @@ Geltungsbereich am 26. Februar 2021**[^t-3]**
 <tr><td>Senegal</td><td>3. März</td><td>2016</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Seychellen\*</td><td>13. Januar</td><td>2015</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Sierra Leone</td><td>1. November</td><td>2016</td><td>16. August</td><td>2017</td></tr>
+<tr><td>Simbabwe</td><td>19. August</td><td>2021</td><td>17. November</td><td>2021</td></tr>
 <tr><td>Singapur</td><td>22. September</td><td>2017</td><td>21. Dezember</td><td>2017</td></tr>
 <tr><td>Slowakei</td><td>31. Mai</td><td>2017</td><td>29. August</td><td>2017</td></tr>
 <tr><td>Slowenien</td><td>23. Juni</td><td>2017</td><td>21. September</td><td>2017</td></tr>
@@ -1187,6 +1194,7 @@ Geltungsbereich am 26. Februar 2021**[^t-3]**
 <tr><td>Südafrika</td><td>29. April</td><td>2019</td><td>28. Juli</td><td>2019</td></tr>
 <tr><td>Suriname</td><td>2. August</td><td>2018 B</td><td>31. Oktober</td><td>2018</td></tr>
 <tr><td>Syrien</td><td>26. Juli</td><td>2017</td><td>24. Oktober</td><td>2017</td></tr>
+<tr><td>Tansania</td><td>5. Oktober</td><td>2020</td><td>3. Januar</td><td>2021</td></tr>
 <tr><td>Thailand\*</td><td>22. Juni</td><td>2017 B</td><td>20. September</td><td>2017</td></tr>
 <tr><td>Togo</td><td>3. Februar</td><td>2017</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Tonga</td><td>22. Oktober</td><td>2018 B</td><td>20. Januar</td><td>2019</td></tr>
@@ -1200,8 +1208,9 @@ Geltungsbereich am 26. Februar 2021**[^t-3]**
 <tr><td>Vereinigtes Königreich</td><td>23. März</td><td>2018</td><td>21. Juni</td><td>2018</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>6. November</td><td>2013</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Vietnam</td><td>23. Juni</td><td>2017</td><td>21. September</td><td>2017</td></tr>
+<tr><td>Zentralafrikanische Republik</td><td>31. März</td><td>2021</td><td>29. Juni</td><td>2021</td></tr>
 <tr><td>Zypern</td><td>25. Februar</td><td>2020</td><td>25. Mai</td><td>2020</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland und die Färöer. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
+[^t-3]: [AS 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130), [540](https://fedlex.data.admin.ch/eli/oc/2021/540). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse www.fedlex.admin.ch/de/treaty veröffentlicht.
