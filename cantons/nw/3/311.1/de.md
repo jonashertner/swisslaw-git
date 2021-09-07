@@ -5,21 +5,20 @@ title: Gesetz über das Bildungswesen
 short: "Bildungsgesetz, BiG"
 language: de
 version: 2016-01-01
-valid_until: 2025-12-31
+corrected: 2021-09-08
 version_adopted: 2015-05-27
 adopted: 2002-04-17
 in_force: 2002-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/311.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/580/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/121/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über das Bildungswesen
+# Gesetz über das Bildungswesen (Bildungsgesetz, BiG)<sup>22</sup>
 
-(Bildungsgesetz, BiG)
-
-vom 17.04.2002 (Stand 01.01.2016)
+vom 17. April 2002<sup>1</sup>
 
 Der Landrat von Nidwalden,
 
@@ -27,7 +26,7 @@ gestützt auf Art. 60 und in Ausführung von Art. 14–20 und 24 der Kantonsverf
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -37,7 +36,7 @@ beschliesst:
 
 <sup>2</sup> Die öffentlichen Schulen orientieren sich bei der Erziehung an christlichen, humanistischen und demokratischen Wertvorstellungen.
 
-<sup>3</sup> Sie fördern die Entwicklung zur eigenständigen, verantwortungsbewussten und toleranten Persönlichkeit. Sie unterstützen die jungen Menschen beim Erwerb der Grundlagen für deren gesellschaftliche und wirtschaftliche Lebenstüchtigkeit.
+<sup>3</sup> Sie fördern die Entwicklung zur eigenständigen, verantwortungsbewussten und toleranten Persönlichkeit. Sie unterstützen die jungen Menschen beim Erwerb der Grundlagen für deren gesellschaftliche und wirtschaftliche Lebenstüchtigkeit.<sup>22</sup>
 
 #### Art. 2
 
@@ -51,11 +50,13 @@ beschliesst:
 
 **Begriffe**
 
-<sup>1</sup> In diesem Gesetz bedeuten:
+In diesem Gesetz bedeuten:
 
-- 1\. Direktion: die für das Bildungswesen zuständige Direktion;
-- 2\. Gemeinde: Schulgemeinde;
-- 3\. Eltern: Personen, denen die elterliche Sorge beziehungsweise die Erziehungsberechtigung zusteht.
+Direktion: die für das Bildungswesen zuständige Direktion;
+
+Gemeinde: Schulgemeinde;
+
+Eltern: Personen, denen die elterliche Sorge beziehungsweise die Erziehungsberechtigung zusteht.
 
 #### Art. 4
 
@@ -81,11 +82,9 @@ beschliesst:
 
 **Datenerhebung**
 
-<sup>1</sup> Die Direktion erhebt die für die Planung und Führung des Bildungswesens notwendigen Personendaten sowie die Verwaltungsdaten der Bildungsinstitutionen, die vom Bundesstatistikgesetz[^6-1] erfasst werden.
+<sup>1</sup> Die Direktion erhebt die für die Planung und Führung des Bildungswesens notwendigen Personendaten sowie die Verwaltungsdaten der Bildungsinstitutionen, die vom Bundesstatistikgesetz<sup>2</sup> erfasst werden.
 
 <sup>2</sup> Der Regierungsrat kann mit dieser Aufgabe einen regionalen Dienst oder einen anderen Kanton beauftragen.
-
-[^6-1]: SR 431.01
 
 #### Art. 7
 
@@ -113,7 +112,7 @@ beschliesst:
 
 <sup>2</sup> Die Zielsetzungen der unterstützenden Person dürfen dem Zweck des Bildungsauftrages nicht widersprechen.
 
-## 2 Gliederung des Bildungswesens
+### II. GLIEDERUNG DES BILDUNGSWESENS
 
 #### Art. 10
 
@@ -121,42 +120,35 @@ beschliesst:
 
 <sup>1</sup> Die Volksschule umfasst die Kindergartenstufe, die Primarstufe, die Sekundarstufe I ohne Untergymnasium (Orientierungsschule) sowie die Sonderschulung.
 
-<sup>2</sup> Die Führung und Organisation der Volksschule richtet sich in Ergänzung zu diesem Gesetz nach der Volksschulgesetzgebung[^10-1].
-
-[^10-1]: NG 312
+<sup>2</sup> Die Führung und Organisation der Volksschule richtet sich in Ergänzung zu diesem Gesetz nach der Volksschulgesetzgebung<sup>3</sup>.
 
 #### Art. 11
 
-**…**
+**..<sup>20</sup>**
 
 #### Art. 12
 
 **Mittelschule**
 
-<sup>1</sup> Ausbildung und Betrieb der kantonalen Mittelschule richten sich in Ergänzung zu diesem Gesetz nach der Mittelschulgesetzgebung[^12-1].
-
-[^12-1]: NG 314
+Ausbildung und Betrieb der kantonalen Mittelschule richten sich in Ergänzung zu diesem Gesetz nach der Mittelschulgesetzgebung<sup>4</sup>.
 
 #### Art. 13
 
 **Berufliche Grundausbildung**
 
-<sup>1</sup> Die berufliche Grundausbildung richtet sich in Ergänzung zu diesem Gesetz nach der eidgenössischen[^13-1] und der kantonalen Berufsbildungsgesetzgebung[^13-2].
-
-[^13-1]: SR 412
-[^13-2]: NG 313
+Die berufliche Grundausbildung richtet sich in Ergänzung zu diesem Gesetz nach der eidgenössischen<sup>5</sup> und der kantonalen Berufsbildungsgesetzgebung<sup>6</sup>.
 
 #### Art. 14
 
 **Tertiäre Bildung**
 
-<sup>1</sup> Die Tertiärstufe besteht aus den Universitäten, den Fachhochschulen und den höheren berufsbildenden Schulen gemäss der Berufsbildungsgesetzgebung.
+Die Tertiärstufe besteht aus den Universitäten, den Fachhochschulen und den höheren berufsbildenden Schulen gemäss der Berufsbildungsgesetzgebung.
 
 #### Art. 15
 
 **Jugendarbeit**
 
-<sup>1</sup> In Zusammenarbeit mit den Jugendorganisationen, den Landeskirchen und den interessierten Fachstellen hilft der Kanton mit, die Entwicklung der Jugendlichen in den Gemeinden und im Kanton zu fördern, insbesondere durch die Leistung von Beiträgen an die Aus- und Fortbildung von Jugendgruppenleiterinnen und ‑leitern.
+In Zusammenarbeit mit den Jugendorganisationen, den Landeskirchen und den interessierten Fachstellen hilft der Kanton mit, die Entwicklung der Jugendlichen in den Gemeinden und im Kanton zu fördern, insbesondere durch die Leistung von Beiträgen an die Aus- und Fortbildung von Jugendgruppenleiterinnen und -leitern.
 
 #### Art. 16
 
@@ -164,13 +156,13 @@ beschliesst:
 
 <sup>1</sup> Der Kanton fördert und unterstützt die Erwachsenenbildung. Diese umfasst die persönliche, soziale, kulturelle und berufliche Weiterbildung.
 
-<sup>2</sup> Er gewährt hierfür Beiträge an Veranstaltungen sowie an die Aus- und Weiterbildung von Kursleiterinnen und ‑leitern der Erwachsenenbildung, sofern diese von gemeinnützigen Institutionen durchgeführt und durch die Veranstaltungen keine Gewinne erzielt werden.
+<sup>2</sup> Er gewährt hierfür Beiträge an Veranstaltungen sowie an die Aus- und Weiterbildung von Kursleiterinnen und -leitern der Erwachsenenbildung, sofern diese von gemeinnützigen Institutionen durchgeführt und durch die Veranstaltungen keine Gewinne erzielt werden.
 
 <sup>3</sup> Die Direktion fördert die Zusammenarbeit zwischen den Trägern der Erwachsenenbildung.
 
 <sup>4</sup> Die kantonalen Schulen und die Gemeindeschulen können Weiterbildungsveranstaltungen für Erwachsene anbieten. Die Schulleitung legt die Höhe der Kursbeiträge fest.
 
-## 3 Ausserkantonale Ausbildungsinstitutionen
+### III. AUSSERKANTONALE AUSBILDUNGSINSTITUTIONEN
 
 #### Art. 17
 
@@ -181,13 +173,12 @@ beschliesst:
 <sup>2</sup> In den interkantonalen Verträgen sind insbesondere festzulegen:
 
 - 1\. die Aufnahmebedingungen für Schülerinnen und Schüler aus Nidwalden;
+
 - 2\. die Beiträge des Kantons an die Betriebskosten der Schulen.
 
 <sup>3</sup> Sofern in den interkantonalen Verträgen keine andere Regelung getroffen wird, entrichtet der Kanton für jene Schülerinnen und Schüler Beiträge, die ihren zivilrechtlichen Wohnsitz in Nidwalden haben.
 
-<sup>4</sup> Im Rahmen dieser Abkommen wird angestrebt, den Einwohnerinnen und Einwohnern des Kantons den Zugang insbesondere zu Ausbildungen zu ermöglichen, deren Abschlüsse vom Bund oder im Rahmen der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen[^17-1] anerkannt sind.
-
-[^17-1]: NG 311.5
+<sup>4</sup> Im Rahmen dieser Abkommen wird angestrebt, den Einwohnerinnen und Einwohnern des Kantons den Zugang insbesondere zu Ausbildungen zu ermöglichen, deren Abschlüsse vom Bund oder im Rahmen der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen<sup>7</sup> anerkannt sind.
 
 #### Art. 18
 
@@ -198,15 +189,18 @@ beschliesst:
 <sup>2</sup> Der Regierungsrat ist zuständig für:
 
 - 1\. den Abschluss von Verträgen mit öffentlichen und privaten Schulen unter dem Vorbehalt der Genehmigung durch den Landrat;
+
 - 2\. die Vereinbarung von Änderungen der in interkantonalen Vereinbarungen und Verträgen enthaltenen Beiträge an die Betriebskosten;
+
 - 3\. den Abschluss von Anpassungen im Schul- und Ausbildungsverzeichnis von interkantonalen Vereinbarungen, die als Rahmenvereinbarung für mehrere Schulen gelten;
+
 - 4\. den Beschluss über die Leistung von Betriebskostenbeiträgen an Schulen zur Ermöglichung des Schulbesuchs von einzelnen Schülerinnen und Schülern.
 
 <sup>3</sup> Betriebskostenbeiträge gemäss Abs. 2 Ziff. 4 werden nur entrichtet, wenn die Ausbildungsabschlüsse der betreffenden Schule anerkannt sind.
 
 <sup>4</sup> Der Direktion obliegt die Aufsicht über die Einhaltung der interkantonalen Vereinbarungen und Verträge sowie die Kontrolle der in Rechnung gestellten Beiträge.
 
-## 4 Lehrpersonal
+### IV. LEHRPERSONAL
 
 #### Art. 19
 
@@ -214,19 +208,19 @@ beschliesst:
 
 <sup>1</sup> Den Unterricht an öffentlichen Schulen erteilen Hauptlehrerinnen und Hauptlehrer, ständige Lehrbeauftragte sowie Lehrbeauftragte.
 
-<sup>2</sup> Das Arbeitsverhältnis richtet sich unter dem Vorbehalt abweichender Bestimmungen dieses Gesetzes nach der kantonalen Personalgesetzgebung[^19-1].
+<sup>2</sup> Das Arbeitsverhältnis richtet sich unter dem Vorbehalt abweichender Bestimmungen dieses Gesetzes nach der kantonalen Personalgesetzgebung<sup>8</sup>.
 
-<sup>3</sup> Hauptlehrerinnen und ‑lehrer sind mit unbefristetem Vertrag angestellte Lehrpersonen mit einem vertraglich vereinbarten festen Pensum von mindestens 50 Prozent.
+<sup>3</sup> Hauptlehrerinnen und -lehrer sind mit unbefristetem Vertrag angestellte Lehrpersonen mit einem vertraglich vereinbarten festen Pensum von mindestens 50 Prozent.
 
 <sup>4</sup> Ständige Lehrbeauftragte erfüllen einen regelmässigen Lehrauftrag in einem Teilpensum. Sie werden mit unbefristetem Vertrag und einem vertraglich vereinbarten Mindestpensum angestellt.
 
 <sup>5</sup> Lehrbeauftragte erfüllen einen befristeten Lehrauftrag im Teil- oder Vollpensum. Sie werden mit befristetem Vertrag angestellt.
 
-[^19-1]: NG 165
-
 #### Art. 20
 
-**Anstellungsinstanz für Lehrpersonal der Gemeindeschulen**
+**Anstellungsinstanz für Lehrpersonal der**
+
+### Gemeindeschulen
 
 <sup>1</sup> Die Anstellungsinstanz für Lehrpersonen der Gemeindeschulen ist der Schulrat.
 
@@ -238,13 +232,11 @@ beschliesst:
 
 <sup>1</sup> Zur Erfüllung des Bildungs- und Erziehungsauftrages verfügt jede Lehrperson über die nötige Sach-, Sozial-, Selbst- und Methodenkompetenz.
 
-<sup>2</sup> Sie besitzt einen Ausbildungsabschluss, der gestützt auf die Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen[^21-1] anerkannt ist. Der Regierungsrat kann die Ausbildungsabschlüsse weiterer Ausbildungsinstitutionen anerkennen.
+<sup>2</sup> Sie besitzt einen Ausbildungsabschluss, der gestützt auf die Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen<sup>7</sup> anerkannt ist. Der Regierungsrat kann die Ausbildungsabschlüsse weiterer Ausbildungsinstitutionen anerkennen.
 
 <sup>3</sup> Die Direktion kann einen Lehrfähigkeitsausweis erteilen auch wenn kein anerkanntes Lehrdiplom vorliegt, jedoch der Nachweis gleichwertiger Ausbildung oder langjähriger Schulerfahrung erbracht wird.
 
 <sup>4</sup> Die Direktion kann einer Lehrperson die Lehrtätigkeit an einer öffentlichen Schule im Kanton verbieten, sofern schwerwiegende und begründete Zweifel bestehen, ob die Lehrperson über die Kompetenzen gemäss Abs. 1 verfügt.
-
-[^21-1]: NG 311.5
 
 #### Art. 22
 
@@ -255,16 +247,22 @@ beschliesst:
 <sup>2</sup> Sie haben insbesondere die folgenden Pflichten:
 
 - 1\. zu unterrichten und erziehen;
+
 - 2\. den Unterricht zu planen, vorzubereiten, zu organisieren und auszuwerten;
+
 - 3\. mit Eltern, anderen Lehrpersonen, der Schulleitung und den Behörden zusammenzuarbeiten;
+
 - 4\. bei der Gestaltung und Organisation des Schullebens und der Schulentwicklung mitzuwirken;
+
 - 5\. sich weiterzubilden.
 
 <sup>3</sup> Der Regierungsrat regelt die Einzelheiten des beruflichen Auftrags und die Unterrichtsverpflichtung in einer Vollzugsverordnung.
 
 #### Art. 23
 
-**Entlöhnung 1. Gemeindeschulen**
+**Entlöhnung**
+
+- 1\. Gemeindeschulen
 
 <sup>1</sup> Die Entlöhnung wird in einer unter den Gemeinden abzuschliessenden und vom Regierungsrat zu genehmigenden Vereinbarung festgelegt.
 
@@ -278,17 +276,15 @@ beschliesst:
 
 **2. kantonale Schulen**
 
-<sup>1</sup> Der Regierungsrat regelt die Entlöhnung an kantonalen Schulen in einer Vollzugsverordnung.
+Der Regierungsrat regelt die Entlöhnung an kantonalen Schulen in einer Vollzugsverordnung.
 
 #### Art. 25
 
 **Gesamtarbeitsvertrag**
 
-<sup>1</sup> Der Kanton und die Schulgemeinden können mit den mitwirkungsberechtigten Lehrerinnen- und Lehrerorganisationen einen Gesamtarbeitsvertrag für alle kantonalen Schulen und alle Gemeindeschulen im Sinne von Art. 85 des Personalgesetzes[^25-1] abschliessen.
+<sup>1</sup> Der Kanton und die Schulgemeinden können mit den mitwirkungsberechtigten Lehrerinnen- und Lehrerorganisationen einen Gesamtarbeitsvertrag für alle kantonalen Schulen und alle Gemeindeschulen im Sinne von Art. 85 des Personalgesetzes<sup>9</sup> abschliessen.
 
-<sup>2</sup> Dieser bedarf der Zustimmung des Regierungsrats und der Mehrheit der Schulgemeinden. Art. 23 Abs. 2–4 ist sinngemäss anwendbar.
-
-[^25-1]: NG 165.1
+<sup>2</sup> Dieser bedarf der Zustimmung des Regierungsrats und der Mehrheit der Schulgemeinden. Art. 23 Abs. 2-4 ist sinngemäss anwendbar.
 
 #### Art. 26
 
@@ -316,7 +312,7 @@ beschliesst:
 
 <sup>4</sup> Die mitwirkungsberechtigten Organisationen können für Gemeinleistungen, insbesondere im Bereich der Weiterbildung, vom Kanton finanziell unterstützt werden.
 
-## 5 Organisation
+### V. ORGANISATION
 
 #### Art. 28
 
@@ -327,8 +323,11 @@ beschliesst:
 <sup>2</sup> Er ist insbesondere zuständig für:
 
 - 1\. die Anerkennung von Ausbildungsabschlüssen gemäss Art. 5;
+
 - 2\. die Bewilligung oder Anordnung von Schulversuchen gemäss Art. 7;
+
 - 3\. die Genehmigung der Entlöhnungsvereinbarung der Gemeinden gemäss Art. 23 oder des Gesamtarbeitsvertrags gemäss Art. 25;
+
 - 4\. die Bezeichnung der mitwirkungsberechtigten Lehrerinnen- und Lehrerorganisationen gemäss Art. 27.
 
 #### Art. 29
@@ -340,10 +339,15 @@ beschliesst:
 <sup>2</sup> Sie ist insbesondere zuständig für:
 
 - 1\. die Sicherstellung der Zusammenarbeit mit den anderen Kantonen im Rahmen von regionalen und schweizerischen Konferenzen;
+
 - 2\. die Weiterentwicklung des Bildungssystems und die Anpassung an die aktuellen Erfordernisse;
+
 - 3\. die Aufsicht über private und öffentliche Bildungsinstitutionen gemäss Art. 5;
+
 - 4\. die Ferienregelung gemäss Art. 8;
+
 - 5\. die Erteilung von Lehrfähigkeitsausweisen gemäss Art. 21;
+
 - 6\. die Bestimmung von obligatorischen Weiterbildungsveranstaltungen gemäss Art. 26.
 
 #### Art. 30
@@ -357,18 +361,24 @@ beschliesst:
 <sup>3</sup> Sie hat folgende beratende Aufgaben:
 
 - 1\. Förderung des Bildungswesens;
+
 - 2\. Koordination zwischen den Bildungsbereichen;
+
 - 3\. Beratung des Regierungsrates und der zuständigen Direktion in wesentlichen bildungspolitischen Fragen.
 
 <sup>4</sup> Das Sekretariat wird von einer Mitarbeiterin oder einem Mitarbeiter der zuständigen Direktion geführt.
 
-## 6 Rechtsschutz
+### VI. RECHTSSCHUTZ
 
-#### Art. 31–32
+#### Art. 31
 
-**…**
+**…<sup>23</sup>**
 
-## 7 Übergangs- und Schlussbestimmungen
+#### Art. 32
+
+**…<sup>23</sup>**
+
+### VII. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 33
 
@@ -378,8 +388,10 @@ beschliesst:
 
 <sup>2</sup> Er regelt in Vollzugsverordnungen insbesondere:
 
-- 1\. …
+- 1\. ...<sup>21</sup>
+
 - 2\. das Arbeitsverhältnis der Lehrpersonen in Ergänzung zur kantonalen Personalgesetzgebung gemäss Art. 22 und 24;
+
 - 3\. die Weiterbildung für Lehrpersonen gemäss Art. 26.
 
 #### Art. 34
@@ -388,51 +400,43 @@ beschliesst:
 
 <sup>1</sup> Die Weiterbildungsschule wird auf den 1. August 2004 in die Zuständigkeit des Kantons überführt.
 
-<sup>2</sup> Bis zu diesem Zeitpunkt wird die Weiterbildungsschule als regionale Gemeindeschule gemäss Art. 52a des Gesetzes vom 30. April 1972 über das Bildungswesen[^34-1] geführt.
-
-[^34-1]: A 1985, 556
+<sup>2</sup> Bis zu diesem Zeitpunkt wird die Weiterbildungsschule als regionale Gemeindeschule gemäss Art. 52a des Gesetzes vom 30. April 1972 über das Bildungswesen<sup>10</sup> geführt.
 
 #### Art. 35
 
-**Änderung bisherigen Rechts 1. Berufsbildungsverordnung**
+**Änderung bisherigen Rechts**
 
-<sup>1</sup> Die Vollziehungsverordnung vom 5. Juli 1989 zum Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung[^35-1] wird wie folgt geändert: …
+### 1. Berufsbildungsverordnung
 
-[^35-1]: NG 313.11
+Die Vollziehungsverordnung vom 5. Juli 1989 zum Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung<sup>11</sup> wird wie folgt geändert: ...
 
 #### Art. 36
 
 **2. Mittelschulgesetz**
 
-<sup>1</sup> Das Gesetz vom 26. April 1987 über die kantonale Mittelschule[^36-1] wird wie folgt geändert: …
-
-[^36-1]: NG 314.1
+Das Gesetz vom 26. April 1987 über die kantonale Mittelschule<sup>12</sup> wird wie folgt geändert: ...
 
 #### Art. 37
 
 **3. Mittelschulverordnung**
 
-<sup>1</sup> Die Vollziehungsverordnung vom 28. Oktober 1987 zum Gesetz über die kantonale Mittelschule (Mittelschulverordnung)[^37-1] wird wie folgt geändert: …
-
-[^37-1]: NG 314.11
+Die Vollziehungsverordnung vom 28. Oktober 1987 zum Gesetz über die kantonale Mittelschule (Mittelschulverordnung)<sup>13</sup> wird wie folgt geändert: ...
 
 #### Art. 38
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere:
+Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere:
 
-- 1\. das Gesetz vom 30. April 1972 über das Bildungswesen[^38-1];
-- 2\. das Gesetz vom 28. April 1996 über die Förderung der Ausbildung[^38-2];
-- 3\. das Gesetz vom 27. April 1980 über Hochschulbeiträge[^38-3];
-- 4\. Art. 3 a des Einführungsgesetzes vom 26. April 1981 zur Bundesgesetzgebung über die Berufsbildung (Berufsbildungsgesetz)[^38-4];
-- 5\. die Paragrafen 14, 20 und 26 der Vollziehungsverordnung vom 28. Oktober 1987 zum Gesetz über die kantonale Mittelschule (Mittelschulverordnung[^38-5].
+- 1\. das Gesetz vom 30. April 1972 über das Bildungswesen<sup>15</sup>;
 
-[^38-1]: A 1972, 731
-[^38-2]: A 1996, 545
-[^38-3]: A 1980, 755
-[^38-4]: NG 313.1
-[^38-5]: NG 314.11
+- 2\. das Gesetz vom 28. April 1996 über die Förderung der Ausbildung<sup>16</sup>;
+
+- 3\. das Gesetz vom 27. April 1980 über Hochschulbeiträge<sup>17</sup>;
+
+- 4\. Art. 3 a des Einführungsgesetzes vom 26. April 1981 zur Bundesgesetzgebung über die Berufsbildung (Berufsbildungsgesetz)<sup>18</sup>;
+
+- 5\. die Paragrafen 14, 20 und 26 der Vollziehungsverordnung vom 28. Oktober 1987 zum Gesetz über die kantonale Mittelschule (Mittelschulverordnung<sup>13</sup>.
 
 #### Art. 39
 
@@ -440,8 +444,50 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz untersteht dem fakultativen Referendum.
 
-<sup>2</sup> Es tritt unter dem Vorbehalt des Inkrafttretens des Gesetzes vom 17. April 2002 über die Volksschule (Volksschulgesetz)[^39-1] auf den 1. August 2002 in Kraft.
+<sup>2</sup> Es tritt unter dem Vorbehalt des Inkrafttretens des Gesetzes vom 17. April 2002 über die Volksschule (Volksschulgesetz)<sup>19</sup> auf den 1. August 2002 in Kraft.
 
-[^39-1]: A 2002, 597, 1178
+<sup>1</sup> A 2002, 583, 1178
 
-A 2002, 583, 1178
+<sup>2</sup> SR 431.01
+
+<sup>3</sup> NG 312
+
+<sup>4</sup> NG 314
+
+<sup>5</sup> SR 412
+
+<sup>6</sup> NG 313
+
+<sup>7</sup> NG 311.5
+
+<sup>8</sup> NG 165
+
+<sup>9</sup> NG 165.1
+
+<sup>10</sup> A 1985, 556
+
+<sup>11</sup> NG 313.11
+
+<sup>12</sup> NG 314.1
+
+<sup>13</sup> NG 314.11
+
+<sup>14</sup> NG 921.1
+
+<sup>15</sup> A 1972, 731
+
+<sup>16</sup> A 1996, 545
+
+<sup>17</sup> A 1980, 755
+
+<sup>18</sup> NG 313.1
+
+<sup>19</sup> A 2002, 597, 1178
+
+<sup>20</sup> Fassung gemäss Landratsbeschluss vom 23. Januar 2008; A 2008, 165, 694; in Kraft seit 1. Januar 2008
+
+<sup>21</sup> Fassung gemäss Landratsbeschluss vom 27. Mai 2009, A 2009, 939, 1524; in Kraft seit 1. August 2009
+
+<sup>22</sup> Fassung gemäss Landratsbeschluss vom 14. Dezember 2011, A 2011, 1743; A 2012, 558; in Kraft seit 1. Januar 2013
+
+<sup>23</sup> Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
