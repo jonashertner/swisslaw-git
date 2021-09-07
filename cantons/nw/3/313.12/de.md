@@ -5,70 +5,76 @@ title: Vollzugsverordnung über die Brückenangebote für schulentlassene Jugend
 short: "Brückenangebotsverordnung, BrAV"
 language: de
 version: 2018-08-01
+corrected: 2021-09-08
 version_adopted: 2018-04-23
 adopted: 2008-12-09
 in_force: 2009-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/313.12"
-pdf: "https://gesetze.nw.ch/api/de/versions/585/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/140/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Vollzugsverordnung über die Brückenangebote für schulentlassene Jugendliche
+# Vollzugsverordnung über die Brückenangebote für schulentlassene Jugendliche (Brückenangebotsverordnung, BrAV)<sup>5</sup>
 
-(Brückenangebotsverordnung, BrAV)
-
-vom 09.12.2008 (Stand 01.08.2018)
+vom 9. Dezember 2008<sup>1</sup>
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 5 des Einführungsgesetzes vom 23. Januar 2008 zur Bundesgesetzgebung über die Berufsbildung (Kantonales Berufsbildungsgesetz, kBBG)[^ingress-1],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 5 des Einführungsgesetzes vom 23. Januar 2008 zur Bundesgesetzgebung über die Berufsbildung (Kantonales Berufsbildungsgesetz, kBBG)<sup>2</sup>,
 
 beschliesst:
 
-[^ingress-1]: NG 313.1
-
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### § 1
 
 **Zweck**
 
-<sup>1</sup> Brückenangebote bereiten Jugendliche, die nach der obligatorischen Schulzeit trotz Bemühungen bei der Suche nach einem Ausbildungsplatz oder wegen fehlender Berufswahlreife keine Anschlusslösung gefunden haben, auf die berufliche Grundbildung vor.
+<sup>1</sup> Brückenangebote bereiten Jugendliche, die nach der obligatorischen Schulzeit trotz Bemühungen bei der Suche nach einem Ausbildungsplatz oder wegen fehlender Berufswahlreife keine Anschlusslösung gefunden haben, auf die berufliche Grundbildung vor.<sup>6</sup>
 
 <sup>2</sup> Brückenangebote dauern in der Regel ein Jahr und unterstützen Jugendliche bei:
 
 - 1\. der Berufsfindung;
+
 - 2\. der Ausbildungsplatzsuche;
+
 - 3\. der Persönlichkeitsentwicklung;
+
 - 4\. dem Auf- und Ausbau von schulischen Grundlagen;
+
 - 5\. der Integration (Deutsch- und Kulturkenntnisse).
 
 #### § 2
 
-**Angebot 1. Grundsatz**
+**Angebot**
 
-<sup>1</sup> Die Inhalte der angebotenen Brückenangebote richten sich nach dem Rahmenlehrplan Brückenangebote Zentralschweiz.
+- 1\. Grundsatz<sup>6</sup> Die Inhalte der angebotenen Brückenangebote richten sich nach dem Rahmenlehrplan Brückenangebote Zentralschweiz.
+
+**1**
+
+Stand: 1. August 2018
 
 #### § 3
 
-**…**
+**…<sup>6</sup>**
 
 #### § 4
 
-**2. Kombiniertes Brückenangebot**
+**2. <sup>6</sup>Kombiniertes Brückenangebot**
 
-<sup>1</sup> Das Kombinierte Brückenangebot richtet sich an Jugendliche mit schulischen Leistungen im unteren bis mittleren Bereich, die in der Regel höchstens ein Fach im Niveau A besucht haben.
+<sup>1</sup> Das Kombinierte Brückenangebot richtet sich an Jugendliche mit schulischen Leistungen im unteren bis mittleren Bereich, die in der Regel höchstens ein Fach im Niveau A besucht haben.<sup>10</sup>
 
-<sup>2</sup> Es findet als Teilzeitunterricht ergänzt mit einem Betriebspraktikum statt.
+<sup>2</sup> Es findet als Teilzeitunterricht ergänzt mit einem Betriebspraktikum statt.<sup>6</sup>
 
 #### § 5
 
-**3. Integratives Brückenangebot**
+**3. <sup>6</sup>Integratives Brückenangebot**
 
 <sup>1</sup> Das Integrative Brückenangebot richtet sich an Jugendliche mit noch ungenügenden Deutschkenntnissen.
 
-<sup>2</sup> Es findet als Vollzeitunterricht statt.
+<sup>2</sup> Es findet als Vollzeitunterricht statt.<sup>6</sup>
 
 #### § 6
 
@@ -78,17 +84,19 @@ beschliesst:
 
 <sup>2</sup> Für persönliche Lehrmittel und Materialien sowie für Schulveranstaltungen werden Beiträge erhoben.
 
-## 2 Organisation
+### II. ORGANISATION
 
 #### § 7
 
 **Berufsfachschule**
 
-<sup>1</sup> Die Brückenangebote sind Teil des Leistungsangebots der Berufsfachschule.
+Die Brückenangebote sind Teil des Leistungsangebots der Berufsfachschule.
 
 #### § 8
 
-**Aufnahmekommission 1. Zusammensetzung**
+**Aufnahmekommission**
+
+### 1. Zusammensetzung
 
 <sup>1</sup> Die Direktion wählt eine Aufnahmekommission mit drei bis fünf Mitgliedern und bezeichnet die Präsidentin oder den Präsidenten.
 
@@ -98,38 +106,48 @@ beschliesst:
 
 **2. Aufgaben**
 
-<sup>1</sup> Die Aufnahmekommission ist zuständig für die Organisation und Durchführung des Aufnahmeverfahrens, insbesondere für:
+Die Aufnahmekommission ist zuständig für die Organisation und Durchführung des Aufnahmeverfahrens, insbesondere für:
 
 - 1\. die Festlegung der Termine für das Aufnahmeverfahren;
-- 2\. die Festlegung von Form und Inhalt der Bewerbungsunterlagen für das Aufnahmeverfahren;
+
+**3**
+
+2 2. die Festlegung von Form und Inhalt der Bewerbungsunterlagen für das Aufnahmeverfahren;
+
 - 3\. die Durchführung von Aufnahmegesprächen mit Gesuchstellerinnen und Gesuchstellern sowie den Beizug von Erziehungsberechtigten und Fachpersonen;
+
 - 4\. den Aufnahmeentscheid und die Zuweisung zu einem Brückenangebot.
 
-## 3 Aufnahmebedingungen
+### III. AUFNAHMEBEDINGUNGEN
 
 #### § 10
 
-**Kombiniertes Brückenangebot**
+**Kombiniertes Brückenangebot<sup>10</sup>**
 
 <sup>1</sup> In das Kombinierte Brückenangebot werden Jugendliche aufgenommen, welche die folgenden Kriterien erfüllen:
 
 - 1\. Abschluss der dritten Klasse der Orientierungsschule oder Abschluss des Integrativen Brückenangebots;
-- 2\.
-  - a) aktive Berufswahlbemühungen, sofern noch kein gefestigter Berufsentscheid vorliegt; oder
-  - b) erfolglose Bemühungen um einen Ausbildungsplatz, sofern ein realistischer Berufsentscheid vorliegt;
+
+- 2\. a) aktive Berufswahlbemühungen, sofern noch kein gefestigter Berufsentscheid vorliegt; oder
+
+- b) erfolglose Bemühungen um einen Ausbildungsplatz, sofern ein realistischer Berufsentscheid vorliegt;
+
 - 3\. Kenntnisse der deutschen Sprache, die eine nachhaltige berufliche Integration ermöglichen; und
+
 - 4\. Lernbereitschaft sowie Bereitschaft zur Zusammenarbeit.
 
 <sup>2</sup> Die Erfüllung der Aufnahmekriterien ist mittels geeigneter Instrumente und Methoden zu prüfen. Das Amt erlässt hierzu Richtlinien.
 
 #### § 11
 
-**Integratives Brückenangebot**
+**Integratives Brückenangebot<sup>10</sup>**
 
 <sup>1</sup> In das Integrative Brückenangebot werden Jugendliche aufgenommen, welche die folgenden Kriterien erfüllen:
 
 - 1\. Lebensalter in der Regel zwischen 15 und 25 Jahren;
+
 - 2\. schulische Bildung und Kenntnisse der deutschen Sprache, die eine nachhaltige berufliche Integration ermöglichen; und
+
 - 3\. Lernbereitschaft sowie Bereitschaft zur Zusammenarbeit.
 
 <sup>2</sup> Die Erfüllung der Aufnahmekriterien ist mittels geeigneter Instrumente und Methoden zu prüfen. Das Amt erlässt hierzu Richtlinien.
@@ -138,9 +156,11 @@ beschliesst:
 
 **Aufnahme bei ausserkantonalem Wohnsitz**
 
-<sup>1</sup> Jugendliche mit Wohnsitz in einem anderen Kanton können aufgenommen werden, sofern vom Wohnsitzkanton eine Kostengutsprache gemäss den Ansätzen der interkantonalen Vereinbarungen geleistet wird.
+Jugendliche mit Wohnsitz in einem anderen Kanton können aufgenommen werden, sofern vom Wohnsitzkanton eine Kostengutsprache gemäss den Ansätzen der interkantonalen Vereinbarungen geleistet wird.
 
-## 4 Aufnahmeverfahren
+Stand: 1. August 2018
+
+### IV. AUFNAHMEVERFAHREN
 
 #### § 13
 
@@ -162,9 +182,7 @@ beschliesst:
 
 **Aufnahmegebühr**
 
-<sup>1</sup> Mit der Einreichung des Gesuchs ist eine Aufnahmegebühr gemäss der Gebührengesetzgebung[^15-1] zu entrichten.
-
-[^15-1]: NG 265.5
+Mit der Einreichung des Gesuchs ist eine Aufnahmegebühr gemäss der Gebührengesetzgebung<sup>9</sup> zu entrichten.<sup>8</sup>
 
 #### § 16
 
@@ -183,9 +201,14 @@ beschliesst:
 <sup>1</sup> Die Aufnahmekommission weist aufgenommene Bewerberinnen und Bewerber einem geeigneten Brückenangebot zu. Sie beachtet dabei:
 
 - 1\. die schulische Leistungsfähigkeit;
+
 - 2\. die Berufswahlsituation;
+
 - 3\. die persönlichen Interessen und Ziele;
+
 - 4\. den individuellen Förderbedarf.
+
+4
 
 <sup>2</sup> Bewerberinnen und Bewerber haben kein Anrecht auf Zuweisung in ein bestimmtes Brückenangebot.
 
@@ -193,15 +216,15 @@ beschliesst:
 
 **Schulort**
 
-<sup>1</sup> Bei beschränkter Zahl an Ausbildungsplätzen kann das Amt für Berufsbildung und Mittelschule Zuweisungen an ausserkantonale Standorte vornehmen.
+Bei beschränkter Zahl an Ausbildungsplätzen kann das Amt für Berufsbildung und Mittelschule Zuweisungen an ausserkantonale Standorte vornehmen.
 
-## 5 Schulbetrieb
+### V. SCHULBETRIEB
 
 #### § 19
 
 **Ausbildungsvereinbarung**
 
-<sup>1</sup> Zwischen der Berufsfachschule, den Jugendlichen und den Erziehungsberechtigten wird eine Ausbildungsvereinbarung abgeschlossen.
+Zwischen der Berufsfachschule, den Jugendlichen und den Erziehungsberechtigten wird eine Ausbildungsvereinbarung abgeschlossen.
 
 #### § 20
 
@@ -215,28 +238,48 @@ beschliesst:
 
 **Disziplin**
 
-<sup>1</sup> Fehlt der nötige Einsatz und bringen die Disziplinarmassnahmen gemäss Art. 32 Abs. 1 und 2 des kBBG[^21-1] keinen Erfolg, entscheidet die Schulleitung nach Anhörung der Beteiligten über den Ausschluss aus dem Brückenangebot.
+Fehlt der nötige Einsatz und bringen die Disziplinarmassnahmen gemäss Art. 32 Abs. 1 und 2 des kBBG<sup>2</sup> keinen Erfolg, entscheidet die Schulleitung nach Anhörung der Beteiligten über den Ausschluss aus dem Brückenangebot.
 
-[^21-1]: NG 313.1
-
-## 6 Schlussbestimmungen
+### VI. SCHLUSSBESTIMMUNGEN
 
 #### § 22
 
-**…**
+**…<sup>7</sup>**
 
 #### § 23
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Die Vollzugsverordnung vom 18. November 2003 über die Brückenangebote für schulentlassene Jugendliche[^23-1] wird aufgehoben.
-
-[^23-1]: A 2003, 1631; NG 312.21
+Die Vollzugsverordnung vom 18. November 2003 über die Brückenangebote für schulentlassene Jugendliche<sup>4</sup> wird aufgehoben.
 
 #### § 24
 
 **Inkrafttreten**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 2009 in Kraft.
+Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
-A 2008, 2486
+**5**
+
+Stand: 1. August 2018
+
+<sup>1</sup> A 2008, 2486
+
+<sup>2</sup> NG 313.1
+
+<sup>3</sup> NG 311.1
+
+<sup>4</sup> A 2003, 1631; NG 312.21
+
+<sup>5</sup> Fassung gemäss Regierungsratsbeschluss vom 7. Dezember 2010, A 2010, 2179; in Kraft seit 1. August 2010
+
+<sup>6</sup> Fassung gemäss Regierungsratsbeschluss vom 11. November 2014, A 2014, 2024; in Kraft seit 1. August 2015
+
+<sup>7</sup> Fassung gemäss Regierungsratsbeschluss vom 3. November 2015; A 2015, 1771, in Kraft seit 1. Januar 2016
+
+<sup>8</sup> Fassung gemäss Regierungsratsbeschluss vom 12. Dezember 2017, A 2018, 16; in Kraft seit 1. März 2018
+
+<sup>9</sup> NG 265.5
+
+<sup>10</sup> Fassung gemäss Regierungsratsbeschluss vom 23. April 2018, A 2018, 825; in Kraft seit 1. August 2018
+
+6
