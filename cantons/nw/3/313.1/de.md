@@ -5,30 +5,31 @@ title: Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung
 short: "Kantonales Berufsbildungsgesetz, kBBG"
 language: de
 version: 2016-01-01
+corrected: 2021-09-08
 version_adopted: 2015-05-27
 adopted: 2008-01-23
 in_force: 2008-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/313.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/584/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/139/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung
+# Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung (Kantonales Berufsbildungsgesetz, kBBG)
 
-(Kantonales Berufsbildungsgesetz, kBBG)
-
-vom 23.01.2008 (Stand 01.01.2016)
+vom 23. Januar 2008[^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 16 und 60 der Kantonsverfassung, in Ausführung von Art. 66 des Bundesgesetzes vom 13. Dezember 2002 über die Berufsbildung (Berufsbildungsgesetz, BBG)[^ingress-1],
+gestützt auf Art. 16 und 60 der Kantonsverfassung, in Ausführung von Art. 66 des Bundesgesetzes vom 13. Dezember 2002 über die Berufsbildung (Berufsbildungsgesetz, BBG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: SR 412.10
+[^t-1]: A 2008, 165, 694; Datum des Inkrafttretens: 1. Januar 2008
+[^t-2]: SR 412.10
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -60,9 +61,9 @@ beschliesst:
 
 **Zusammenarbeit**
 
-<sup>1</sup> Der Kanton arbeitet beim Vollzug dieses Gesetzes und des Bundesgesetzes über die Berufsbildung mit dem Bund, den anderen Kantonen und den Organisationen der Arbeitswelt zusammen.
+Der Kanton arbeitet beim Vollzug dieses Gesetzes und des Bundesgesetzes über die Berufsbildung mit dem Bund, den anderen Kantonen und den Organisationen der Arbeitswelt zusammen.
 
-## 2 Leistungsangebot
+### II. LEISTUNGSANGEBOT
 
 #### Art. 5
 
@@ -75,14 +76,18 @@ beschliesst:
 <sup>3</sup> Als Brückenangebote können insbesondere geführt werden:
 
 - 1\. Integrative Brückenangebote;
+
 - 2\. Kombinierte Brückenangebote;
+
 - 3\. Schulische Brückenangebote.
 
 <sup>4</sup> Der Regierungsrat regelt die Führung, die Organisation, die Aufnahmebedingungen und das Aufnahmeverfahren in einer Vollzugsverordnung.
 
 #### Art. 6
 
-**Berufliche Grundbildung 1. Bildung in beruflicher Praxis, Lehrstellenmarketing**
+**Berufliche Grundbildung**
+
+### 1. Bildung in beruflicher Praxis, Lehrstellenmarketing
 
 <sup>1</sup> Der Kanton sorgt für die Beratung und die Begleitung der Lehrvertragsparteien.
 
@@ -108,7 +113,7 @@ beschliesst:
 
 **4. fachkundige individuelle Begleitung**
 
-<sup>1</sup> Der Kanton sorgt für die fachkundige individuelle Begleitung von Personen in der zweijährigen beruflichen Grundbildung.
+Der Kanton sorgt für die fachkundige individuelle Begleitung von Personen in der zweijährigen beruflichen Grundbildung.
 
 #### Art. 10
 
@@ -136,13 +141,13 @@ beschliesst:
 
 **Bildung der Berufsbildnerinnen und Berufsbildner**
 
-<sup>1</sup> Der Kanton sorgt für ein bedarfsgerechtes Angebot für die Aus- und Weiterbildung der Berufsbildnerinnen und Berufsbildner.
+Der Kanton sorgt für ein bedarfsgerechtes Angebot für die Aus- und Weiterbildung der Berufsbildnerinnen und Berufsbildner.
 
 #### Art. 13
 
 **Berufs-, Studien- und Laufbahnberatung**
 
-<sup>1</sup> Der Kanton sorgt für die allgemeine Information über die Bildungsangebote sowie für die individuelle Beratung bei Vorbereitung, Wahl und Gestaltung der beruflichen Laufbahn und bei der Anrechnung von individuellen Qualifikationsnachweisen.
+Der Kanton sorgt für die allgemeine Information über die Bildungsangebote sowie für die individuelle Beratung bei Vorbereitung, Wahl und Gestaltung der beruflichen Laufbahn und bei der Anrechnung von individuellen Qualifikationsnachweisen.
 
 #### Art. 14
 
@@ -152,7 +157,7 @@ beschliesst:
 
 <sup>2</sup> Zeichnet sich auf dem Markt für berufliche Grundbildung ein Ungleichgewicht ab oder besteht bereits ein solches, kann der Kanton ausgleichende Massnahmen treffen.
 
-## 3 Finanzierung
+### III. FINANZIERUNG
 
 #### Art. 15
 
@@ -170,29 +175,32 @@ beschliesst:
 
 #### Art. 16
 
-**Finanzierung einzelner Leistungen 1. Berufliche Grundbildung**
+**Finanzierung einzelner Leistungen**
+
+### 1. Berufliche Grundbildung
 
 <sup>1</sup> Der berufliche Unterricht einschliesslich Berufsmaturitätsunterricht ist für Lernende und Lehrbetriebe in der beruflichen Grundbildung unentgeltlich.
 
 <sup>2</sup> Für persönliche Lehrmittel und Materialien sowie für Schulveranstaltungen werden Beiträge erhoben.
 
-<sup>3</sup> In der Nachholbildung haben sich die Lernenden an den Kosten des Unterrichts zu beteiligen, soweit diese die Ansätze der interkantonalen Vereinbarungen[^16-1] übersteigen.
+<sup>3</sup> In der Nachholbildung haben sich die Lernenden an den Kosten des Unterrichts zu beteiligen, soweit diese die Ansätze der interkantonalen Vereinbarungen[^h1BeruflicheGrundb-1] übersteigen.[^h1BeruflicheGrundb-2]
 
-[^16-1]: Zur Zeit: NG 313.24; NG 313.71; NG 311.311
+[^h1BeruflicheGrundb-1]: Zur Zeit: NG 313.24; NG 313.71; NG 311.311
+[^h1BeruflicheGrundb-2]: Fassung gemäss Landratsbeschluss vom 27. Mai 2009, A 2009, 939, 1524, in Kraft seit 1. August 2009
 
 #### Art. 17
 
 **2. Berufs-, Studien- und Laufbahnberatung**
 
-<sup>1</sup> Die Dienstleistungen der Berufs-, Studien- und Laufbahnberatung sind unentgeltlich.
+Die Dienstleistungen der Berufs-, Studien- und Laufbahnberatung sind unentgeltlich.
 
 #### Art. 18
 
 **3. weitere Leistungen**
 
-<sup>1</sup> Der Kanton kann weitere Leistungen wie Pilotprojekte, Lehrstellenförderung, Massnahmen zur Bildungs- und Qualitätsentwicklung sowie die Information und Dokumentation mit Beiträgen unterstützen.
+Der Kanton kann weitere Leistungen wie Pilotprojekte, Lehrstellenförderung, Massnahmen zur Bildungs- und Qualitätsentwicklung sowie die Information und Dokumentation mit Beiträgen unterstützen.
 
-## 4 Organisation
+### IV. ORGANISATION
 
 #### Art. 19
 
@@ -203,22 +211,28 @@ beschliesst:
 <sup>2</sup> Er ist zuständig für:
 
 - 1\. die Wahl der Berufsbildungskommission;
+
 - 2\. die Wahl der Amtsleiterin oder des Amtsleiters;
+
 - 3\. die Erfüllung der weiteren ihm durch die Gesetzgebung zugewiesenen Aufgaben.
 
 #### Art. 20
 
 **Direktion**
 
-<sup>1</sup> Die Direktion ist zuständig für:
+Die Direktion ist zuständig für:
 
 - 1\. die Wahl der Rektorin oder des Rektors der Berufsfachschule;
+
 - 2\. die Festlegung der Mindestanforderungen für das Qualitätskonzept der Berufsfachschule;
+
 - 3\. die Erfüllung der weiteren ihr durch die Gesetzgebung zugewiesenen Aufgaben.
 
 #### Art. 21
 
-**Berufsbildungskommission 1. Zusammensetzung**
+**Berufsbildungskommission**
+
+### 1. Zusammensetzung
 
 <sup>1</sup> Die Berufsbildungskommission besteht aus sieben bis neun Mitgliedern aus Wirtschaft, Politik, Organisationen der Arbeitswelt und aus dem Volksschulbereich; die Vorsteherin oder der Vorsteher der Direktion gehört ihr von Amtes wegen als Präsidentin oder Präsident an.
 
@@ -233,11 +247,17 @@ beschliesst:
 <sup>2</sup> Sie ist zuständig für:
 
 - 1\. die Genehmigung des Qualitätsleitbilds der Berufsfachschule;
+
 - 2\. die Genehmigung des Qualitätskonzeptes der Berufsfachschule;
+
 - 3\. die Genehmigung des Konzepts zur Beurteilung der Lehrpersonen;
+
 - 4\. die Genehmigung des Voranschlages und der Jahresrechnung zuhanden des Regierungsrates;
+
 - 5\. die Genehmigung der jährlichen Berichterstattung über die Berufsbildung zuhanden des Regierungsrates;
+
 - 6\. die Mitwirkung bei der Wahl der Rektorin oder des Rektors der Berufsfachschule;
+
 - 7\. die Erfüllung der weiteren ihr durch die Gesetzgebung zugewiesenen Aufgaben.
 
 <sup>3</sup> Die Mitglieder der Berufsbildungskommission sind berechtigt, den Unterricht an der Berufsfachschule jederzeit im Sinne des Qualitätsmanagements zu besuchen.
@@ -253,27 +273,38 @@ beschliesst:
 <sup>2</sup> Es ist zuständig für:
 
 - 1\. die Vorbereitung der Geschäfte der Berufsbildungskommission;
+
 - 2\. die Beratung und Begleitung der Lehrvertragsparteien;
+
 - 3\. die Koordination zwischen den an der beruflichen Grundbildung Beteiligten;
+
 - 4\. die Erteilung der Bildungsbewilligung für Anbieterinnen und Anbieter der Bildung in beruflicher Praxis;
+
 - 5\. die Beaufsichtigung der Qualität der Bildung in beruflicher Praxis, einschliesslich der überbetrieblichen Kurse und vergleichbarer dritter Lernorte;
+
 - 6\. die Beaufsichtigung der Qualität der schulischen Bildung;
+
 - 7\. die Beaufsichtigung der Prüfungen und der anderen Qualifikationsverfahren;
+
 - 8\. die Genehmigung der Lehrverträge und die Aufsicht über deren Einhaltung durch die Vertragsparteien;
+
 - 9\. die Förderung und Koordination der berufsorientierten und allgemeinen Weiterbildung;
+
 - 10\. die Beurteilung der Rektorin oder des Rektors;
+
 - 11\. die Wahl der Prorektorinnen oder der Prorektoren;
+
 - 12\. die Erfüllung der weiteren ihm durch die Gesetzgebung zugewiesenen Aufgaben.
 
-## 5 Berufsfachschule
+### V. BERUFSFACHSCHULE
 
-### 5.1 Aufgaben und Zuständigkeiten
+### A. Aufgaben und Zuständigkeiten
 
 #### Art. 24
 
 **Grundsatz**
 
-<sup>1</sup> Der Kanton führt eine Berufsfachschule.
+Der Kanton führt eine Berufsfachschule.
 
 #### Art. 25
 
@@ -282,19 +313,22 @@ beschliesst:
 <sup>1</sup> Die Berufsfachschule:
 
 - 1\. vermittelt die schulische Bildung in der beruflichen Grundbildung;
+
 - 2\. stellt Angebote zur Vorbereitung auf die berufliche Grundbildung (Brückenangebote) bereit;
+
 - 3\. stellt Angebote für die berufliche Weiterbildung sowie für die allgemeine Weiterbildung für Erwachsene bereit;
+
 - 4\. stellt ein bedarfsgerechtes Angebot an Berufsmaturitätsunterricht bereit.
 
 <sup>2</sup> Sie berücksichtigt die unterschiedlichen Begabungen und trägt mit Stütz- und Förderangeboten den Bedürfnissen besonders befähigter Personen und von Personen mit Lernschwierigkeiten Rechnung.
 
 #### Art. 26
 
-**Qualitätssicherung und ‑entwicklung**
+**Qualitätssicherung und –entwicklung**
 
 <sup>1</sup> Die Qualität der Berufsfachschule ist zu sichern, zu entwickeln und regelmässig zu überprüfen.
 
-<sup>2</sup> Für die Qualitätssicherung und ‑entwicklung ist die Schulleitung verantwortlich. Sie legt dem Amt das Qualitätsleitbild und das schulinterne Qualitätskonzept zur Genehmigung vor und erstattet ihm Bericht über durchgeführte Massnahmen der Qualitätssicherung und über deren Ergebnisse.
+<sup>2</sup> Für die Qualitätssicherung und -entwicklung ist die Schulleitung verantwortlich. Sie legt dem Amt das Qualitätsleitbild und das schulinterne Qualitätskonzept zur Genehmigung vor und erstattet ihm Bericht über durchgeführte Massnahmen der Qualitätssicherung und über deren Ergebnisse.
 
 <sup>3</sup> Dem Amt obliegt die Aufsicht über die Umsetzung des Qualitätskonzepts. Es kann externe Überprüfungen anordnen und arbeitet dafür mit ausserkantonalen Institutionen zusammen. Bei bedeutenden Qualitätsmängeln hält es die Schulleitung zu entsprechenden Massnahmen an.
 
@@ -302,7 +336,9 @@ beschliesst:
 
 #### Art. 27
 
-**Schulleitung 1. Allgemeines**
+**Schulleitung**
+
+### 1. Allgemeines
 
 <sup>1</sup> Die Schulleitung ist das operative Führungsorgan und leitet die Schule.
 
@@ -317,23 +353,41 @@ beschliesst:
 <sup>2</sup> Die Schulleitung ist zuständig für:
 
 - 1\. die Organisation und Überwachung des Unterrichts;
+
 - 2\. die Organisation der schulischen Qualifikationsverfahren und der Berufsmaturitätsprüfungen;
+
 - 3\. die Festlegung der Stundenpläne;
+
 - 4\. die Orientierung der Lehrbetriebe, der Lernenden und deren Erziehungsberechtigten über den Schulbetrieb;
+
 - 5\. die Regelung der Mitwirkung der Lernenden;
+
 - 6\. die Anstellung der Lehrpersonen sowie des übrigen Schulpersonals;
+
 - 7\. die Übertragung von zusätzlichen Aufgaben an Lehrpersonen;
+
 - 8\. die Beurteilung der Prorektorinnen oder der Prorektoren;
-- 9\. die Qualitätssicherung und ‑entwicklung;
+
+- 9\. die Qualitätssicherung und -entwicklung;
+
 - 10\. die Vorbereitung des Konzepts zur Beurteilung der Lehrpersonen zuhanden des Amtes;
+
 - 11\. die Beurteilung der Lehrpersonen;
+
 - 12\. die Weiterbildung der Lehrpersonen;
+
 - 13\. das Weiterbildungsangebot für Erwachsene;
+
 - 14\. die Konzeption und Organisation von Stütz- und Förderangeboten;
+
 - 15\. die Anordnung von Stützkursen im Einvernehmen mit dem Lehrbetrieb und der lernenden Person;
+
 - 16\. die Vorbereitung des Voranschlages und der Jahresrechnung zuhanden des Amtes;
+
 - 17\. die jährliche Berichterstattung über die Berufsfachschule zuhanden des Amtes;
+
 - 18\. die Öffentlichkeitsarbeit sowie die Vertretung der Berufsfachschule nach aussen;
+
 - 19\. die Erfüllung der weiteren ihr durch die Gesetzgebung zugewiesenen Aufgaben.
 
 #### Art. 29
@@ -345,10 +399,12 @@ beschliesst:
 <sup>2</sup> Sie ist zuständig für:
 
 - 1\. die Mitwirkung in allen Fragen der Qualitätsentwicklung;
+
 - 2\. Anträge an die Schulleitung in Fragen des Unterrichts und der Schulorganisation;
+
 - 3\. die Erfüllung der weiteren ihr durch die Gesetzgebung zugewiesenen Aufgaben.
 
-### 5.2 Lernende
+### B. Lernende
 
 #### Art. 30
 
@@ -356,7 +412,9 @@ beschliesst:
 
 <sup>1</sup> Die Lernenden sind verpflichtet, die Berufsfachschule zu besuchen und die Schulordnung einzuhalten.
 
-<sup>2</sup> Der Regierungsrat regelt das Dispensations- und Absenzenwesen in der Vollzugsverordnung.
+<sup>2</sup> Der Regierungsrat regelt das Dispensations- und Absenzenwesen in der Vollzugsverordnung.[^30-1]
+
+[^30-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2009, A 2009, 939, 1524, in Kraft seit 1. August 2009
 
 #### Art. 31
 
@@ -375,13 +433,17 @@ beschliesst:
 <sup>2</sup> Können disziplinarische Schwierigkeiten nicht in der Klasse gelöst werden, kann die Schulleitung folgende Massnahmen ergreifen:
 
 - 1\. Aussprache;
+
 - 2\. schriftlicher Verweis;
+
 - 3\. Versetzung in eine andere Klasse.
 
 <sup>3</sup> Das Amt kann auf Antrag der Schulleitung folgende Massnahmen ergreifen:
 
 - 1\. vorübergehende Wegweisung vom Unterricht bis höchstens vier Wochen;
+
 - 2\. Zuweisung an eine andere Berufsfachschule;
+
 - 3\. fristlose Auflösung des Lehrvertrages von Amtes wegen oder Auflösung binnen bestimmter Frist.
 
 <sup>4</sup> Die Auflösung des Lehrvertrages aus disziplinarischen Gründen kann nur verfügt werden, wenn diese vorher in einem schriftlichen Verweis für den Fall angedroht wurde, dass die Lernende oder der Lernende binnen einer bestimmten Frist die Vorschriften wieder schwer verletzt.
@@ -390,13 +452,15 @@ beschliesst:
 
 **Auflösung des Lehrvertrages**
 
-<sup>1</sup> Als disziplinarische Gründe für die Auflösung des Lehrvertrages gelten:
+Als disziplinarische Gründe für die Auflösung des Lehrvertrages gelten:
 
 - 1\. schwere Tätlichkeit im Bereich der Berufsfachschule;
+
 - 2\. andere schwerwiegende Disziplinarverstösse;
+
 - 3\. Verurteilung wegen eines schweren Vergehens oder Verbrechens.
 
-## 6 Berufs- und Studienberatung
+### VI. BERUFS- UND STUDIENBERATUNG
 
 #### Art. 34
 
@@ -407,30 +471,40 @@ beschliesst:
 <sup>2</sup> Sie hat insbesondere folgende Aufgaben:
 
 - 1\. die allgemeine Aufklärung über Fragen der Berufswahl;
+
 - 2\. die individuelle Berufs-, Studien- und Laufbahnberatung für Jugendliche und Erwachsene.
+
 - 3\. die Führung eines Berufsinformationszentrums;
+
 - 4\. die Zusammenarbeit mit den Lehrpersonen und Schulen sowie deren Information;
+
 - 5\. den Nachweis von Lehrstellen;
+
 - 6\. die Koordination der Berufs- und Studienwahlvorbereitung in den Volksschulen und in der kantonalen Mittelschule;
+
 - 7\. die Zusammenarbeit mit den Zentralstellen für Berufsberatung anderer Kantone.
 
 #### Art. 35
 
 **Berufsinformationszentrum**
 
-<sup>1</sup> Im Berufsinformationszentrum werden berufs-, studien- und schulkundliche Dokumentationen für Schulen sowie Jugendliche und Erwachsene bereitgestellt.
+Im Berufsinformationszentrum werden berufs-, studien- und schulkundliche Dokumentationen für Schulen sowie Jugendliche und Erwachsene bereitgestellt.
 
-## 7 Rechtsschutz und Strafbestimmung
+### VII. RECHTSSCHUTZ UND STRAFBESTIMMUNG
+
+[^hVIIRECHTSSCHUTZUN-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 36
 
-**Einsprache**
+**Einsprache[^hVIIRECHTSSCHUTZUN-1]**
 
-<sup>1</sup> Gegen erstinstanzliche Entscheide kann binnen 20 Tagen nach erfolgter Zustellung Einsprache erhoben werden.
+Gegen erstinstanzliche Entscheide kann binnen 20 Tagen nach erfolgter Zustellung Einsprache erhoben werden.
+
+[^36-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
 
 #### Art. 37
 
-**…**
+**…[^36-1]**
 
 #### Art. 38
 
@@ -438,24 +512,25 @@ beschliesst:
 
 <sup>1</sup> Wer vorsätzlich gegen Art. 30 dieses Gesetzes oder dessen Ausführungsbestimmungen verstösst, wird mit Busse bis zu Fr. 5'000.– bestraft.
 
-<sup>2</sup> Zuständigkeit und Verfahren richten sich nach dem Gerichtsgesetz[^38-1] und der Schweizerischen Strafprozessordnung (StPO)[^38-2].
+<sup>2</sup> Zuständigkeit und Verfahren richten sich nach dem Gerichtsgesetz[^38-1] und der Schweizerischen Strafprozessordnung (StPO)[^38-2].[^38-3]
 
 [^38-1]: NG 261.1
 [^38-2]: SR 312.0
+[^38-3]: Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
 
-## 8 Übergangs- und Schlussbestimmungen
+### VIII. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 39
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
 
 #### Art. 40
 
 **Änderung des Bildungsgesetzes**
 
-<sup>1</sup> Art. 11 des Gesetzes vom 17. April 2002 über das Bildungswesen (Bildungsgesetz)[^40-1] wird aufgehoben.
+Art. 11 des Gesetzes vom 17. April 2002 über das Bildungswesen (Bildungsgesetz)[^40-1] wird aufgehoben.
 
 [^40-1]: NG 311.1
 
@@ -463,9 +538,9 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Einführungsgesetz vom 26. April 1981 zur Bundesgesetzgebung über die Berufsbildung (Berufsbildungsgesetz)[^41-1] und die Vollziehungsverordnung vom 5. Juli 1989 zum Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung (Berufsbildungsverordnung)[^41-2].
+Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Einführungsgesetz vom 26. April 1981 zur Bundesgesetzgebung über die Berufsbildung (Berufsbildungsgesetz)[^41-1] und die Vollziehungsverordnung vom 5. Juli 1989 zum Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung (Berufsbildungsverordnung)[^41-2].
 
-[^41-1]: NG 313.1; A 1981, 509
+[^41-1]: NG 313.1; A 1981,509
 [^41-2]: NG 313.11; A 1989, 861, 1203
 
 #### Art. 42
@@ -476,4 +551,6 @@ beschliesst:
 
 <sup>2</sup> Es tritt rückwirkend auf den 1. Januar 2008 in Kraft.
 
-A 2008, 165, 694
+## Weitere Fussnoten
+
+- [6] NG 263.1
