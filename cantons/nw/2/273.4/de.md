@@ -5,20 +5,20 @@ title: Gesetz über das kantonale Gefängnis
 short: "Gefängnisgesetz, GefG"
 language: de
 version: 2016-01-01
+corrected: 2021-09-08
 version_adopted: 2015-05-27
 adopted: 2006-10-25
 in_force: 2007-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/273.4"
-pdf: "https://gesetze.nw.ch/api/de/versions/579/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/118/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über das kantonale Gefängnis
+# Gesetz über das kantonale Gefängnis (Gefängnisgesetz, GefG)<sup>10</sup>
 
-(Gefängnisgesetz, GefG)
-
-vom 25.10.2006 (Stand 01.01.2016)
+vom 25. Oktober 2006<sup>1</sup>
 
 Der Landrat von Nidwalden,
 
@@ -26,13 +26,13 @@ gestützt auf Art. 60 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt den Vollzug von Freiheitsstrafen und Massnahmen im kantonalen Gefängnis.
+Dieses Gesetz regelt den Vollzug von Freiheitsstrafen und Massnahmen im kantonalen Gefängnis.
 
 #### Art. 2
 
@@ -41,16 +41,16 @@ beschliesst:
 <sup>1</sup> Das kantonale Gefängnis dient dem Vollzug:
 
 - 1\. der Untersuchungs- und Sicherheitshaft;
+
 - 2\. der Auslieferungs-, Vorbereitungs- und Ausschaffungshaft;
-- 3\. der Freiheitsstrafen an Erwachsenen und Freiheitsentzügen an Jugendlichen im Rahmen der Strafvollzugsgesetzgebung[^2-1];
+
+- 3\. der Freiheitsstrafen an Erwachsenen und Freiheitsentzügen an Jugendlichen im Rahmen der Strafvollzugsgesetzgebung<sup>2</sup>;
+
 - 4\. des polizeilichen Gewahrsams;
-- 5\. der Freiheitsstrafen gemäss Militärstrafgesetz[^2-2] im Rahmen der Strafvollzugsgesetzgebung[^2-3].
+
+- 5\. der Freiheitsstrafen gemäss Militärstrafgesetz<sup>3</sup> im Rahmen der Strafvollzugsgesetzgebung<sup>2</sup>.
 
 <sup>2</sup> Es kann administrativ festgenommene Personen bis zur Überführung in eine geeignete Anstalt aufnehmen.
-
-[^2-1]: NG 273.3
-[^2-2]: SR 321.0
-[^2-3]: NG 273.3
 
 #### Art. 3
 
@@ -60,16 +60,15 @@ beschliesst:
 
 <sup>2</sup> Vorbehalten bleiben:
 
-- 1\. die Art. 74–92 des Schweizerischen Strafgesetzbuches (StGB)[^3-1];
-- 2\. besondere Bestimmungen des Bundesgesetzes über Aufenthalt und Niederlassung der Ausländer (ANAG)[^3-2] und des Asylgesetzes (AsylG)[^3-3];
+- 1\. die Art. 74-92 des Schweizerischen Strafgesetzbuches (StGB)<sup>4</sup>;
+
+- 2\. besondere Bestimmungen des Bundesgesetzes über Aufenthalt und Niederlassung der Ausländer (ANAG)<sup>5</sup> und des Asylgesetzes (AsylG)<sup>6</sup>;
+
 - 3\. Anordnungen der Verfahrensleitung bei der Untersuchungs- oder Sicherheitshaft;
+
 - 4\. Anordnungen der Strafvollzugsbehörden.
 
-[^3-1]: SR 311.0
-[^3-2]: SR 142.20
-[^3-3]: SR 142.31
-
-## 2 Zuständigkeiten
+### II. ZUSTÄNDIGKEITEN
 
 #### Art. 4
 
@@ -80,7 +79,9 @@ beschliesst:
 <sup>2</sup> Sie ist insbesondere zuständig für:
 
 - 1\. den Erlass der Hausordnung und der Weisungen über den Gefängnisbetrieb;
+
 - 2\. die Wahl der Gefängnisärztin oder des Gefängnisarztes;
+
 - 3\. die Wahl der Seelsorgerinnen oder Seelsorger öffentlichrechtlich anerkannter Kirchen.
 
 #### Art. 5
@@ -94,9 +95,13 @@ beschliesst:
 <sup>3</sup> Sie ist insbesondere zuständig für die:
 
 - 1\. Sicherstellung der korrekten Behandlung, der ausreichenden Verpflegung und einer sauberen Unterkunft der Eingewiesenen;
+
 - 2\. Sicherstellung der ärztlichen und seelsorgerischen Betreuung der Eingewiesenen;
+
 - 3\. Aufrechterhaltung von Sicherheit, Ruhe und Ordnung;
+
 - 4\. administrative und betriebliche Führung des Gefängnisses;
+
 - 5\. Rechnungsführung nach den Weisungen der Finanzdirektion;
 
 <sup>4</sup> Sie kann im Bedarfsfall die Dienste der Polizei in Anspruch nehmen.
@@ -105,23 +110,23 @@ beschliesst:
 
 **Sozialamt**
 
-<sup>1</sup> Das Sozialamt ist zuständig für den Sozialdienst im kantonalen Gefängnis.
+Das Sozialamt ist zuständig für den Sozialdienst im kantonalen Gefängnis.
 
 #### Art. 7
 
 **Gefängnisärztinnen, Gefängnisärzte**
 
-<sup>1</sup> Den Gefängnisärztinnen oder Gefängnisärzten obliegt die Betreuung der Eingewiesenen und die Beratung der Gefängnisverwaltung in medizinischen Angelegenheiten.
+Den Gefängnisärztinnen oder Gefängnisärzten obliegt die Betreuung der Eingewiesenen und die Beratung der Gefängnisverwaltung in medizinischen Angelegenheiten.
 
 #### Art. 8
 
 **Seelsorgerinnen, Seelsorger**
 
-<sup>1</sup> Den Seelsorgerinnen oder Seelsorgern obliegt die regelmässige Betreuung der Eingewiesenen und die Beratung der Gefängnisverwaltung in seelsorgerischen Angelegenheiten.
+Den Seelsorgerinnen oder Seelsorgern obliegt die regelmässige Betreuung der Eingewiesenen und die Beratung der Gefängnisverwaltung in seelsorgerischen Angelegenheiten.
 
-## 3 Durchführung des Vollzugs
+### III. DURCHFÜHRUNG DES VOLLZUGS
 
-### 3.1 Allgemeine Vorschriften
+- a) Allgemeine Vorschriften
 
 #### Art. 9
 
@@ -139,16 +144,13 @@ beschliesst:
 
 **Strafgefangene**
 
-<sup>1</sup> Zur Aufnahme von Strafgefangenen bedarf es eines rechtskräftigen Urteils oder der Anordnung des vorzeitigen Strafantrittes nach Art. 236 der Schweizerischen Strafprozessordnung (StPO[^10-1]).
+<sup>1</sup> Zur Aufnahme von Strafgefangenen bedarf es eines rechtskräftigen Urteils oder der Anordnung des vorzeitigen Strafantrittes nach Art. 236 der Schweizerischen Strafprozessordnung (StPO<sup>11</sup>).<sup>10</sup>
 
 <sup>2</sup> Die Gefängnisverwaltung erstattet der Strafvollzugsbehörde auf Verlangen Bericht über das Verhalten von Strafgefangenen und bescheinigt ihr die von den Strafgefangenen verbüsste Zeit.
 
-<sup>3</sup> Die Strafgefangenen werden unter Vorbehalt von Art. 78 StGB[^10-2] in Gruppenhaft untergebracht.
+<sup>3</sup> Die Strafgefangenen werden unter Vorbehalt von Art. 78 StGB<sup>4</sup> in Gruppenhaft untergebracht.
 
 <sup>4</sup> Frauen und Männer, Erwachsene und Jugendliche sowie Strafgefangene und Untersuchungshäftlinge sind getrennt voneinander unterzubringen.
-
-[^10-1]: SR 312.0
-[^10-2]: SR 311.0
 
 #### Art. 11
 
@@ -158,11 +160,13 @@ beschliesst:
 
 <sup>2</sup> Sie halten ihre Zellen in Ordnung und behandeln die Einrichtungen des Gefängnisses mit Sorgfalt.
 
-### 3.2 Eintritt, Austritt
+- b) Eintritt, Austritt
 
 #### Art. 12
 
-**Eintritt 1. Effekten**
+**Eintritt**
+
+### 1. Effekten
 
 <sup>1</sup> Das Gefängnispersonal durchsucht beim Eintritt die persönlichen Gegenstände (Effekten) der Eingewiesenen. Diese können ihnen aus Gründen der Sicherheit, Ruhe und Ordnung sowie der Gesundheit und Hygiene jederzeit abgenommen werden.
 
@@ -174,11 +178,9 @@ beschliesst:
 
 **2. Untersuchungen**
 
-<sup>1</sup> Die Durchführung von Leibesvisitationen bei Eingewiesenen, die im Verdacht stehen, auf sich oder in ihrem Körper unerlaubte Gegenstände zu verbergen, richtet sich nach Art. 85 StGB[^13-1].
+<sup>1</sup> Die Durchführung von Leibesvisitationen bei Eingewiesenen, die im Verdacht stehen, auf sich oder in ihrem Körper unerlaubte Gegenstände zu verbergen, richtet sich nach Art. 85 StGB<sup>4</sup>.
 
 <sup>2</sup> Neu eintretende Eingewiesene können zur Abklärung allfälliger Beeinträchtigungen ihres Gesundheitszustandes einer physischen oder psychischen Untersuchung durch Fachpersonal unterzogen werden.
-
-[^13-1]: SR 311.0
 
 #### Art. 14
 
@@ -190,9 +192,9 @@ beschliesst:
 
 <sup>3</sup> Die abgenommenen Effekten, Schriften und das Bargeld unter Vorbehalt von Abs. 2 sind gegen unterschriftliche Bestätigung auszuhändigen.
 
-### 3.3 Gefängnisaufenthalt
+- c) Gefängnisaufenthalt
 
-### 3.3.1 Allgemein
+### 1. Allgemein
 
 #### Art. 15
 
@@ -203,7 +205,9 @@ beschliesst:
 <sup>2</sup> Als Sicherheitsmassnahmen kommen insbesondere in Betracht:
 
 - 1\. der Entzug von Einrichtungs- und Gebrauchsgegenständen oder Bekleidungsstücken und dergleichen, deren Missbrauch zu befürchten ist;
+
 - 2\. die Beschränkung oder der Entzug des Aufenthalts im Freien;
+
 - 3\. die Unterbringung in einer zweckdienlichen Zelle.
 
 <sup>3</sup> Die Sicherheitsmassnahmen sind aufzuheben, sobald der Grund zur Anordnung entfallen ist.
@@ -216,7 +220,7 @@ beschliesst:
 
 <sup>2</sup> Ordnung und Sicherheit müssen gewährleistet bleiben.
 
-### 3.3.2 Kleider, Effekten, Verpflegung, Genussmittel
+- 2\. Kleider, Effekten, Verpflegung, Genussmittel
 
 #### Art. 17
 
@@ -244,23 +248,25 @@ beschliesst:
 
 <sup>2</sup> Das Rauchen ist an den dafür vorgesehenen Örtlichkeiten gestattet.
 
-### 3.3.3 Gesundheits- und Krankenpflege
+- 3\. Gesundheits- und Krankenpflege
 
 #### Art. 20
 
 **Bewegung im Freien**
 
-<sup>1</sup> Die Eingewiesenen, die nicht ausserhalb des Gefängnisses arbeiten, haben in der Regel Anspruch auf einen täglichen Aufenthalt im Freien (Spazierhof) von einer Stunde, mindestens jedoch von einer halben Stunde.
+Die Eingewiesenen, die nicht ausserhalb des Gefängnisses arbeiten, haben in der Regel Anspruch auf einen täglichen Aufenthalt im Freien (Spazierhof) von einer Stunde, mindestens jedoch von einer halben Stunde.
 
 #### Art. 21
 
 **Körperpflege**
 
-<sup>1</sup> Die Eingewiesenen sind zur regelmässigen Körperpflege verpflichtet.
+Die Eingewiesenen sind zur regelmässigen Körperpflege verpflichtet.
 
 #### Art. 22
 
-**Ärztliche Betreuung 1. Allgemein**
+**Ärztliche Betreuung**
+
+### 1. Allgemein
 
 <sup>1</sup> Die ärztliche Betreuung ist gewährleistet und wird grundsätzlich durch die Gefängnisärztin oder den Gefängnisarzt sichergestellt.
 
@@ -292,7 +298,7 @@ beschliesst:
 
 <sup>2</sup> Sie sind auf das Vollzugsziel auszurichten und haben auf die Bedürfnisse des Eingewiesenen sowie die Gegebenheiten des Gefängnisses Rücksicht zu nehmen und die Bemühungen der Vollzugsorgane nachhaltig zu unterstützen.
 
-### 3.3.4 Arbeit, Versicherungen
+### 4. Arbeit, Versicherungen
 
 #### Art. 26
 
@@ -308,19 +314,22 @@ beschliesst:
 
 **Versicherungen**
 
-<sup>1</sup> Der Kanton versichert die Eingewiesenen angemessen gegen Unfall und Invalidität.
+Der Kanton versichert die Eingewiesenen angemessen gegen Unfall und Invalidität.
 
-### 3.3.5 Verkehr mit der Aussenwelt
+- 5\. Verkehr mit der Aussenwelt
 
 #### Art. 28
 
-**Briefverkehr 1. Im Allgemeinen**
+**Briefverkehr**
+
+### 1. Im Allgemeinen
 
 <sup>1</sup> Die Eingewiesenen haben das Recht, Briefe abzusenden und zu empfangen.
 
 <sup>2</sup> Die aus- und eingehende Post unterliegt der Kontrolle durch:
 
 - 1\. die Gefängnisverwaltung;
+
 - 2\. die Verfahrensleitung bei verhafteten Personen, sofern sie die Kontrolle nicht der Gefängnisverwaltung übertragen hat.
 
 <sup>3</sup> Briefe mit ungebührlichem Inhalt oder Mitteilungen, die sich auf das hängige Verfahren beziehen oder anderweitig gegen den Zweck der Haft verstossen, werden nicht weitergeleitet; die Eingewiesenen sind zu informieren, wenn ein Brief nicht weitergeleitet oder ausgehändigt, sondern zu ihren Akten gelegt wird.
@@ -329,11 +338,9 @@ beschliesst:
 
 **2. Im Besonderen**
 
-<sup>1</sup> Die Gefängnisverwaltung kann den freien Briefverkehr mit Geistlichen, Ärztinnen oder Ärzten, Anwältinnen oder Anwälten, Urkundspersonen, Beiständinnen und Beiständen, Vormundinnen und Vormündern sowie Personen mit vergleichbaren Aufgaben gestatten.
+<sup>1</sup> Die Gefängnisverwaltung kann den freien Briefverkehr mit Geistlichen, Ärztinnen oder Ärzten, Anwältinnen oder Anwälten, Urkundspersonen, Beiständinnen und Beiständen, Vormundinnen und Vormündern sowie Personen mit vergleichbaren Aufgaben gestatten.<sup>12</sup>
 
-<sup>2</sup> Der Briefverkehr mit der Strafverteidigung und den Aufsichtsbehörden darf nicht kontrolliert werden. Art. 235 StPO[^29-1] bleibt vorbehalten.
-
-[^29-1]: SR 312.0
+<sup>2</sup> Der Briefverkehr mit der Strafverteidigung und den Aufsichtsbehörden darf nicht kontrolliert werden. Art. 235 StPO<sup>11</sup> bleibt vorbehalten.<sup>10</sup>
 
 #### Art. 30
 
@@ -353,7 +360,9 @@ beschliesst:
 
 #### Art. 32
 
-**Besuche 1. Grundsatz, Bewilligungspflicht**
+**Besuche**
+
+### 1. Grundsatz, Bewilligungspflicht
 
 <sup>1</sup> Die Eingewiesenen dürfen im Rahmen der Hausordnung regelmässig Besuche empfangen.
 
@@ -377,7 +386,9 @@ beschliesst:
 
 #### Art. 35
 
-**4. Durchführung a) Im Allgemeinen**
+**4. Durchführung**
+
+- a) Im Allgemeinen
 
 <sup>1</sup> Die Besucherinnen oder Besucher haben sich über ihre Identität auszuweisen.
 
@@ -387,15 +398,15 @@ beschliesst:
 
 <sup>4</sup> Die Überwachung von Besuchen ist ohne Wissen der Beteiligten nicht zulässig. Vorbehalten bleiben strafprozessuale Massnahmen zur Sicherstellung einer Strafverfolgung.
 
-#### Art. 36
+#### Art. 36 b
 
-**b) Im Besonderen**
+**) Im Besonderen**
 
-<sup>1</sup> Die Gefängnisverwaltung kann Geistlichen, Ärztinnen oder Ärzten, Anwältinnen oder Anwälten, Urkundspersonen, Beiständinnen und Beiständen, Vormundinnen und Vormündern sowie Personen mit vergleichbaren Aufgaben innerhalb der Anstaltsordnung den freien Verkehr mit den Eingewiesenen gestatten.
+<sup>1</sup> Die Gefängnisverwaltung kann Geistlichen, Ärztinnen oder Ärzten, Anwältinnen oder Anwälten, Urkundspersonen, Beiständinnen und Beiständen, Vormundinnen und Vormündern sowie Personen mit vergleichbaren Aufgaben innerhalb der Anstaltsordnung den freien Verkehr mit den Eingewiesenen gestatten.<sup>12</sup>
 
 <sup>2</sup> Der Kontakt mit der Strafverteidigung ist zu gestatten. Ihre Besuche dürfen beaufsichtigt, die Gespräche aber nicht mitgehört werden. Eine inhaltliche Überprüfung der Korrespondenz und anwaltlicher Schriftstücke ist nicht gestattet. Der anwaltliche Kontakt kann bei Missbrauch von der Gefängnisverwaltung beziehungsweise der Verfahrensleitung eingeschränkt werden.
 
-### 3.3.6 Lesestoff, elektronische Geräte, Freizeit, Wareneinkauf
+### 6. Lesestoff, elektronische Geräte, Freizeit, Wareneinkauf
 
 #### Art. 37
 
@@ -404,7 +415,9 @@ beschliesst:
 <sup>1</sup> Die Eingewiesenen können:
 
 - 1\. auf eigene Kosten Zeitungen und Zeitschriften abonnieren;
+
 - 2\. die Gefängnisbibliothek unentgeltlich benützen;
+
 - 3\. in beschränkter Anzahl eigene Bücher und Zeitschriften ins Gefängnis mitnehmen.
 
 <sup>2</sup> Die Hausordnung bestimmt, unter welchen Voraussetzungen dieses Recht eingeschränkt werden kann.
@@ -433,9 +446,9 @@ beschliesst:
 
 **Wareneinkauf**
 
-<sup>1</sup> Für die Eingewiesenen besteht in der Regel einmal wöchentlich die Möglichkeit zum Wareneinkauf im Rahmen ihrer Guthaben beziehungsweise ihrer Barschaft sowie dem Verzeichnis der Artikel, die bei der Gefängnisverwaltung bestellt werden können.
+Für die Eingewiesenen besteht in der Regel einmal wöchentlich die Möglichkeit zum Wareneinkauf im Rahmen ihrer Guthaben beziehungsweise ihrer Barschaft sowie dem Verzeichnis der Artikel, die bei der Gefängnisverwaltung bestellt werden können.
 
-### 3.3.7 Betreuung
+- 7\. Betreuung
 
 #### Art. 41
 
@@ -455,13 +468,13 @@ beschliesst:
 
 <sup>3</sup> Seelsorgerinnen und Seelsorger dürfen weder Informationen noch Gegenstände zwischen den Eingewiesenen und Dritten vermitteln.
 
-## 4 Disziplinarrecht
+### IV. DISZIPLINARRECHT
 
 #### Art. 43
 
 **Disziplin**
 
-<sup>1</sup> Die Eingewiesen haben sich korrekt zu verhalten, die Vorschriften dieses Gesetzes und der sich darauf stützenden Erlasse sowie die Anordnungen der Gefängnisverwaltung und des Gefängnispersonals zu befolgen.
+Die Eingewiesen haben sich korrekt zu verhalten, die Vorschriften dieses Gesetzes und der sich darauf stützenden Erlasse sowie die Anordnungen der Gefängnisverwaltung und des Gefängnispersonals zu befolgen.
 
 #### Art. 44
 
@@ -470,33 +483,46 @@ beschliesst:
 <sup>1</sup> Disziplinartatbestände sind:
 
 - 1\. Flucht oder Vorbereitungshandlungen dazu;
-- 2\. Störung des Arbeitsbetriebes oder Arbeitsverweigerung;
-- 3\. mutwillige Sachbeschädigungen;
-- 4\. Ungehorsam oder Beschimpfungen gegenüber den Gefängnisorganen;
-- 5\. Drohungen oder Tätlichkeiten gegen Gefängnisorgane oder andere Eingewiesene;
-- 6\. unerlaubte Kontaktaufnahme mit anderen Eingewiesenen oder Personen ausserhalb des Gefängnisses;
-- 7\. hartnäckiges Vortäuschen von Krankheiten und vorsätzliche Verursachung von Gesundheitsschäden;
-- 8\. Urlaubsmissbrauch;
-- 9\. verspätete Rückkehr oder Nichtrückkehr von einer externen Beschäftigung;
-- 10\. Ein- und Ausführen, Vermittlung und Besitz von verbotenen Gegenständen, Waffen, Alkohol, Drogen sowie Schriftstücken und Bargeld unter Umgehung der Kontrolle;
-- 11\. Anstiftung oder Gehilfenschaft zu Disziplinartatbeständen anderer Eingewiesener gemäss Ziff. 1–10.
 
-<sup>2</sup> Für Anstiftung und Gehilfenschaft finden die Vorschriften des Allgemeinen Teils des Schweizerischen Strafgesetzbuches[^44-1] Anwendung.
+- 2\. Störung des Arbeitsbetriebes oder Arbeitsverweigerung;
+
+- 3\. mutwillige Sachbeschädigungen;
+
+- 4\. Ungehorsam oder Beschimpfungen gegenüber den Gefängnisorganen;
+
+- 5\. Drohungen oder Tätlichkeiten gegen Gefängnisorgane oder andere Eingewiesene;
+
+- 6\. unerlaubte Kontaktaufnahme mit anderen Eingewiesenen oder Personen ausserhalb des Gefängnisses;
+
+- 7\. hartnäckiges Vortäuschen von Krankheiten und vorsätzliche Verursachung von Gesundheitsschäden;
+
+- 8\. Urlaubsmissbrauch;
+
+- 9\. verspätete Rückkehr oder Nichtrückkehr von einer externen Beschäftigung;
+
+- 10\. Ein- und Ausführen, Vermittlung und Besitz von verbotenen Gegenständen, Waffen, Alkohol, Drogen sowie Schriftstücken und Bargeld unter Umgehung der Kontrolle;
+
+- 11\. Anstiftung oder Gehilfenschaft zu Disziplinartatbeständen anderer Eingewiesener gemäss Ziff. 1 – 10.
+
+<sup>2</sup> Für Anstiftung und Gehilfenschaft finden die Vorschriften des Allgemeinen Teils des Schweizerischen Strafgesetzbuches<sup>4</sup> Anwendung.
 
 <sup>3</sup> Die zivil- und strafrechtliche Verfolgung bleibt vorbehalten.
 
-[^44-1]: SR 311.0
-
 #### Art. 45
 
-**Disziplinarsanktionen 1. Allgemeines**
+**Disziplinarsanktionen**
+
+### 1. Allgemeines
 
 <sup>1</sup> Disziplinarische Sanktionen sind:
 
 - 1\. der Verweis;
+
 - 2\. der Entzug oder die Beschränkung der Verfügung über Geldmittel, der Freizeitbeschäftigung oder der Aussenkontakte bis höchstens 60 Tage;
+
 - 3\. Arrest bis höchstens 14 Tage;
-- 4\. Busse bis Fr. 1'000.–.
+
+- 4\. Busse bis Fr. 1'000.-.
 
 <sup>2</sup> Die Versetzung in eine andere Vollzugsanstalt ist keine Disziplinarmassnahme, sondern eine erzieherische oder eine sicherheitsbedingte Massnahme.
 
@@ -534,9 +560,10 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Zuständig für die Verfügung von Disziplinarsanktionen ist:
+Zuständig für die Verfügung von Disziplinarsanktionen ist:
 
 - 1\. die zuständige Direktion, soweit sich Disziplinarverstösse gegen die Gefängnisverwaltung richteten;
+
 - 2\. die Gefängnisverwaltung in allen übrigen Fällen. Bei Untersuchungs- und Sicherheitshäftlingen sind Disziplinarsanktionen nach vorgängiger Absprache mit der Verfahrensleitung anzuordnen.
 
 #### Art. 50
@@ -547,9 +574,11 @@ beschliesst:
 
 <sup>2</sup> Soweit sie für die Verfügung der Disziplinarsanktion nicht zuständig ist, unterbreitet die Gefängnisverwaltung die Akten zusammen mit ihrem Antrag der zuständigen Instanz.
 
+[^50-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+
 #### Art. 51
 
-**Rechtsschutz**
+**Rechtsschutz[^50-1]**
 
 <sup>1</sup> Gegen Disziplinarverfügungen der Gefängnisverwaltung kann binnen fünf Tagen nach deren Empfang Beschwerde bei der Direktion erhoben werden.
 
@@ -559,7 +588,7 @@ beschliesst:
 
 <sup>4</sup> Beschwerden haben keine aufschiebende Wirkung.
 
-## 5 Rechtsmittel- und Schlussbestimmungen
+### V. RECHTSMITTEL- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 52
 
@@ -573,13 +602,15 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
 
 #### Art. 54
 
 **Änderung der Ausländerkontrollverordnung**
 
-<sup>1</sup> Die Einführungsverordnung vom 25. September 1996 zum Bundesgesetz über Aufenthalt und Niederlassung der Ausländer (Ausländerkontrollverordnung)[^54-1] wird wie folgt geändert: ...
+Die Einführungsverordnung vom 25. September 1996 zum Bundesgesetz über Aufenthalt und Niederlassung der Ausländer (Ausländerkontrollverordnung)[^54-1] wird wie folgt geändert:
+
+§ 20 Abs. 3 ...
 
 [^54-1]: NG 122.2
 
@@ -587,7 +618,7 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere die Verordnung vom 20. September 1989 über das kantonale Gefängnis[^55-1].
+Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere die Verordnung vom 20. September 1989 über das kantonale Gefängnis[^55-1].
 
 [^55-1]: A 1989, 1171, 1498
 
@@ -599,4 +630,16 @@ beschliesst:
 
 <sup>2</sup> Es tritt auf den 1. Januar 2007 in Kraft.
 
-A 2006, 1745, A 2007, 5
+## Weitere Fussnoten
+
+- [1] A 2006, 1745, A 2007, 5
+- [2] NG 273.3
+- [3] SR 321.0
+- [4] SR 311.0
+- [5] SR 142.20
+- [6] SR 142.31
+- [7] NG 263.1
+- [10] Fassung gemäss Landratsbeschluss vom 9. Juni 2010, A 2010, 1031, 1575; in Kraft seit 1. Januar 2011
+- [11] SR 312.0
+- [12] Fassung gemäss Landratsbeschluss vom 14. Dezember 2011, A 2011, 1743; A 2012,
+- [558] ; in Kraft seit 1. Januar 2013
