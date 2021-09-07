@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Deuxième paquet de mesures de soutien pour les transports publics durant la crise du COVID-19
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Zweites Massnahmenpaket zur Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise
 document: Vernehmlassungsvorlage
 language: de
