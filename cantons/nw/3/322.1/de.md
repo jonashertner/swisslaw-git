@@ -5,30 +5,31 @@ title: Gesetz über den Schutz der Kulturgüter
 short: "Kantonales Kulturgüterschutzgesetz, kKGSG"
 language: de
 version: 2021-01-01
+corrected: 2021-09-08
 version_adopted: 2020-06-24
 adopted: 2020-06-24
 in_force: 2021-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/322.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/591/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/168/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über den Schutz der Kulturgüter
+# Gesetz über den Schutz der Kulturgüter (Kantonales Kulturgüterschutzgesetz, kKGSG)
 
-(Kantonales Kulturgüterschutzgesetz, kKGSG)
-
-vom 24.06.2020 (Stand 01.01.2021)
+vom 24. Juni 2020[^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 22 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 20. Juni 2014 über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen (KGSG)[^ingress-1],
+gestützt auf Art. 22 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 20. Juni 2014 über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen (KGSG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: SR 520.3
+[^t-1]: A 2020, 1384
+[^t-2]: SR 520.3
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -42,7 +43,11 @@ beschliesst:
 
 #### Art. 2
 
-**Inventare 1. Kulturgüter von nationaler und regionaler Bedeutung**
+**Inventare**
+
+- 1\. Kulturgüter von nationaler und regionaler
+
+### Bedeutung
 
 <sup>1</sup> Die Erstellung und Nachführung der Inventare für Kulturgüter von nationaler und regionaler Bedeutung (A- und B-Objekte) richtet sich nach Bundesrecht.
 
@@ -62,7 +67,7 @@ beschliesst:
 
 <sup>5</sup> Das Inventar ist regelmässig nachzuführen.
 
-## 2 Massnahmen und Mittel
+### II. MASSNAHMEN UND MITTEL
 
 #### Art. 4
 
@@ -83,25 +88,35 @@ beschliesst:
 <sup>1</sup> Massnahmen zum Schutz der Kulturgüter sind insbesondere:
 
 - 1\. die Erstellung von Sicherstellungsdokumenten und fotographischen oder digitalen Sicherheitskopien bei besonders schutzwürdigen Kulturgütern;
+
 - 2\. die Vorbereitung und Ausführung bautechnischer Vorkehrungen, wie Schutzverkleidungen, Stützen, Demontagen oder Installation von Brandmeldeanlagen für wertvolle Baudenkmäler sowie für grössere Sammlungsbestände;
+
 - 3\. die Planung von Notfallmassnahmen einschliesslich die Erstellung von fachtechnischen Einsatzplänen mit detaillierten Angaben über den Personal-, Zeit- und Materialbedarf für Hilfseinsätze, wie Evakuationen oder Brandbekämpfung;
+
 - 4\. der Bau und Unterhalt von einem oder mehreren Schutzräumen für bewegliche Kulturgüter (Kulturgüterschutzräume);
+
 - 5\. die Kennzeichnung der Kulturgüter von nationaler Bedeutung.
 
 <sup>2</sup> Bis Kulturgüterschutzräume zur Verfügung stehen, sind provisorische Auslagerungsorte vorzusehen.
 
 #### Art. 6
 
-**Zuständigkeiten 1. Kanton**
+**Zuständigkeiten**
+
+### 1. Kanton
 
 <sup>1</sup> Der Kanton ist für die Planung und die Durchführung der Schutzmassnahmen für Kulturgüter zuständig, die in seinem Eigentum oder ihm anvertraut sind.
 
 <sup>2</sup> Soweit dies nicht durch den Bund erfolgt, ist der Kanton weiter zuständig für:
 
 - 1\. die Festlegung der Schutzziele und der Schutzmassnahmenplanung;
+
 - 2\. die Erstellung der Sicherstellungsdokumente und fotographischen Sicherheitskopien sowie deren Aufbewahrung;
+
 - 3\. die Planung von Notfallmassnahmen;
+
 - 4\. den Bau und die zweckmässige Einrichtung der Kulturgüterschutzräume;
+
 - 5\. die Kennzeichnung der Kulturgüter von nationaler Bedeutung.
 
 #### Art. 7
@@ -116,11 +131,13 @@ beschliesst:
 
 **3. weitere Personen**
 
-<sup>1</sup> Weitere Personen sind unter Vorbehalt von Art. 6 und 7 für die Vorbereitung und Durchführung der Schutzmassnahmen der Kulturgüter zuständig, die in ihrem Eigentum oder ihnen anvertraut sind.
+Weitere Personen sind unter Vorbehalt von Art. 6 und 7 für die Vorbereitung und Durchführung der Schutzmassnahmen der Kulturgüter zuständig, die in ihrem Eigentum oder ihnen anvertraut sind.
 
 #### Art. 9
 
-**Vollzug 1. Auflagen, Vereinbarungen**
+**Vollzug**
+
+### 1. Auflagen, Vereinbarungen
 
 <sup>1</sup> Der Kanton kann Eigentümerinnen und Eigentümer beziehungsweise Besitzerinnen und Besitzer von Kulturgütern verpflichten, die erforderlichen baulichen und technischen Massnahmen zu deren Schutz zu treffen oder zu dulden.
 
@@ -136,13 +153,15 @@ beschliesst:
 
 <sup>2</sup> Stellen Eigentümerinnen und Eigentümer beziehungsweise Besitzerinnen und Besitzer von Kulturgütern Schädigungen dieser Kulturgüter fest, ist dem Kanton unverzüglich Meldung zu erstatten.
 
-## 3 Finanzielle Bestimmungen
+### III. FINANZIELLE BESTIMMUNGEN
 
 #### Art. 11
 
-**Kostentragung 1. Grundsatz**
+**Kostentragung**
 
-<sup>1</sup> Der Kanton, die politischen Gemeinden und Schulgemeinden sowie weitere Eigentümerinnen und Eigentümer sowie Besitzerinnen und Besitzer von Kulturgütern übernehmen nach Abzug allfälliger Beiträge Dritter die Kosten für diejenigen Aufgaben, für die sie zuständig sind; vorbehalten bleiben abweichende gesetzliche Bestimmungen zur Kostentragung.
+### 1. Grundsatz
+
+Der Kanton, die politischen Gemeinden und Schulgemeinden sowie weitere Eigentümerinnen und Eigentümer sowie Besitzerinnen und Besitzer von Kulturgütern übernehmen nach Abzug allfälliger Beiträge Dritter die Kosten für diejenigen Aufgaben, für die sie zuständig sind; vorbehalten bleiben abweichende gesetzliche Bestimmungen zur Kostentragung.
 
 #### Art. 12
 
@@ -156,7 +175,9 @@ beschliesst:
 
 #### Art. 13
 
-**Kantonsbeiträge an bauliche Massnahmen 1. allgemein**
+**Kantonsbeiträge an bauliche Massnahmen**
+
+### 1. allgemein
 
 <sup>1</sup> Der Kanton leistet auf Gesuch hin und im Rahmen der bewilligten Kredite Beiträge an bauliche und technische Massnahmen zum unmittelbaren Schutz von Kulturgütern.
 
@@ -184,7 +205,7 @@ beschliesst:
 
 <sup>3</sup> Beim Vorliegen besonderer Umstände kann der Kanton die Rückerstattung ganz oder teilweise erlassen.
 
-## 4 Straf-, Übergangs- und Schlussbestimmungen
+### IV. STRAF-, ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 16
 
@@ -193,7 +214,9 @@ beschliesst:
 <sup>1</sup> Soweit nicht Strafbestimmungen gemäss Bundesrecht zur Anwendung gelangen, wird mit Busse bestraft, wer:
 
 - 1\. die vorgeschriebenen Schutzmassnahmen an Kulturgütern, für die die jeweilige Person zuständig ist, nicht fristgerecht durchführt;
+
 - 2\. die Meldepflicht gemäss Art. 10 Abs. 2 missachtet;
+
 - 3\. bautechnische Anlagen und Einrichtungen im Sinne von Art. 15 ohne Bewilligung aufhebt oder beseitigt.
 
 <sup>2</sup> Die für den Kulturgüterschutz zuständigen Instanz des Kantons ist zur Strafanzeige verpflichtet, wenn die Widerhandlung nicht geringfügig ist.
@@ -204,19 +227,19 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
 
 #### Art. 18
 
 **Übergangsbestimmung**
 
-<sup>1</sup> An Kulturgüterschutzmassnahmen, die vor dem Inkrafttreten dieses Gesetzes getroffen worden sind, werden keine Kantonsbeiträge geleistet.
+An Kulturgüterschutzmassnahmen, die vor dem Inkrafttreten dieses Gesetzes getroffen worden sind, werden keine Kantonsbeiträge geleistet.
 
 #### Art. 19
 
 **Änderung bisherigen Rechts**
 
-<sup>1</sup> Das Gesetz vom 17. Dezember 2008 über die Aktenführung und die Archivierung (Archivierungsgesetz, ArchG)[^19-1] wird wie folgt geändert: …
+Das Gesetz vom 17. Dezember 2008 über die Aktenführung und die Archivierung (Archivierungsgesetz, ArchG)[^19-1] wird wie folgt geändert: …
 
 [^19-1]: NG 323.1
 
@@ -224,7 +247,7 @@ beschliesst:
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Das Einführungsgesetz vom 29. April 1979 zur Bundesgesetzgebung über den Schutz von Kulturgütern bei bewaffneten Konflikten[^20-1] wird aufgehoben.
+Das Einführungsgesetz vom 29. April 1979 zur Bundesgesetzgebung über den Schutz von Kulturgütern bei bewaffneten Konflikten[^20-1] wird aufgehoben.
 
 [^20-1]: A 1979, 669
 
@@ -235,5 +258,3 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz unterliegt dem fakultativen Referendum.
 
 <sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest.
-
-A 2020, 1384
