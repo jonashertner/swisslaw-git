@@ -4,52 +4,46 @@ number: "652.2"
 title: Landratsbeschluss über den Rahmenkredit zur Finanzierung touristischer Verkehrsangebote ohne Erschliessungsfunktion
 language: de
 version: 2021-02-23
-valid_until: 2021-12-30
+corrected: 2021-09-08
 version_adopted: 2020-12-16
 adopted: 2020-12-16
 in_force: 2021-02-23
 url: "https://gesetze.nw.ch/app/de/texts_of_law/652.2"
-pdf: "https://gesetze.nw.ch/api/de/versions/596/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/259/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Landratsbeschluss über den Rahmenkredit zur Finanzierung touristischer Verkehrsangebote ohne Erschliessungsfunktion
 
-vom 16.12.2020 (Stand 23.02.2021)
+vom 16. Dezember 2020[^t-1]
 
-Der Landrat von Nidwalden,
+Der Landrat von Nidwalden, gestützt auf Art. 61 Ziff. 4 der Kantonsverfassung, in Ausführung von Art. 28a des Bundesgesetzes vom 20. März 2009 über die Personenbeförderung (Personenbeförderungsgesetz, PBG)[^t-2] und von Art. 9 Ziff. 1 des Gesetzes vom 21. Oktober 2009 über den Finanzhaushalt des Kantons (Finanzhaushaltsgesetz, kFHG)[^t-3], beschliesst:
 
-gestützt auf Art. 61 Ziff. 4 der Kantonsverfassung, in Ausführung von Art. 28a des Bundesgesetzes vom 20. März 2009 über die Personenbeförderung (Personenbeförderungsgesetz, PBG)[^ingress-1] und von Art. 9 Ziff. 1 des Gesetzes vom 21. Oktober 2009 über den Finanzhaushalt des Kantons (Finanzhaushaltsgesetz, kFHG)[^ingress-2],
+1.
 
-beschliesst:
+Zur Unterstützung touristischer Angebote mit einer Personenbeförderungskonzession oder einer kantonalen Bewilligung zum Betrieb von Seilbahnen wird für das Jahr 2021 gestützt auf Art. 28a des Bundesgesetzes über die Personenbeförderung (Personenbeförderungsgesetz, PBG)[^t-2] ein Rahmenkredit von insgesamt 1.1 Mio. Franken (Nettobetrag) bewilligt.
 
-[^ingress-1]: SR 745.1
-[^ingress-2]: NG 511.1
+2.
 
-#### Ziff. 1
+Der Kanton leistet Finanzhilfen in Form von nicht rückzahlbaren Beiträgen (à-fonds-perdu).
 
-<sup>1</sup> Zur Unterstützung touristischer Angebote mit einer Personenbeförderungskonzession oder einer kantonalen Bewilligung zum Betrieb von Seilbahnen wird für das Jahr 2021 gestützt auf Art. 28a des Bundesgesetzes über die Personenbeförderung (Personenbeförderungsgesetz, PBG)[^Ziff1-1] ein Rahmenkredit von insgesamt 1.1 Mio. Franken (Nettobetrag) bewilligt.
+3.
 
-[^Ziff1-1]: SR 745.1
+Der Kanton leistet nicht rückzahlbare Beiträge, soweit sich der Bund gemäss Art. 28a des Personenbeförderungsgesetzes[^t-2] beteiligt.
 
-#### Ziff. 2
-
-<sup>1</sup> Der Kanton leistet Finanzhilfen in Form von nicht rückzahlbaren Beiträgen (à-fonds-perdu).
-
-#### Ziff. 3
-
-<sup>1</sup> Der Kanton leistet nicht rückzahlbare Beiträge, soweit sich der Bund gemäss Art. 28a des Personenbeförderungsgesetzes[^Ziff3-1] beteiligt.
-
-[^Ziff3-1]: SR 745.1
-
-#### Ziff. 4
+4.
 
 <sup>1</sup> Der Regierungsrat ist ermächtigt, die bundesrechtlichen Mindestvoraussetzungen für die Anspruchsberechtigung auf Finanzhilfe in einer Verordnung zu verschärfen.
 
+**1**
+
+Stand: 1. Januar 2021
+
 <sup>2</sup> Er erlässt die erforderlichen Bestimmungen zum Vollzug dieses Beschlusses in einer Verordnung, insbesondere die konkrete Ausgestaltung der Finanzhilfen sowie das Verfahren.
 
-#### Ziff. 5
+5.
 
 <sup>1</sup> Gegen Entscheide über Gesuche auf Härtefallmassnahmen kann binnen 10 Tagen Einsprache erhoben werden.
 
@@ -57,28 +51,29 @@ beschliesst:
 
 <sup>3</sup> Einsprachen und Beschwerden haben keine aufschiebende Wirkung.
 
-#### Ziff. 6
+6.
 
-<sup>1</sup> Der gesamte Nettobetrag des Kantons wird in der Bilanz des Jahres 2020 als Rückstellung bilanziert.
+Der gesamte Nettobetrag des Kantons wird in der Bilanz des Jahres 2020 als Rückstellung bilanziert.
 
-#### Ziff. 7
+7.
 
-<sup>1</sup> Der Rahmenkredit ist bis am 31. Dezember 2021 befristet.
+Der Rahmenkredit ist bis am 31. Dezember 2021 befristet.
 
-#### Ziff. 8
+8.
 
 <sup>1</sup> Dieser Beschluss unterliegt dem fakultativen Referendum.
 
 <sup>2</sup> Der Regierungsrat reicht diesen Beschluss und die kantonale Verordnung vor der Gewährung von Finanzhilfen dem Bund zur Prüfung ein.
 
-#### Ziff. 9
+9.
 
-<sup>1</sup> Dieser Beschluss tritt gemäss Art. 24 Abs. 1 des Gesetzes über die politischen Rechte im Kanton (Wahl- und Abstimmungsgesetz, WAG)[^Ziff9-1] in Kraft.
+<sup>1</sup> Dieser Beschluss tritt gemäss Art. 24 Abs. 1 des Gesetzes über die politischen Rechte im Kanton (Wahl- und Abstimmungsgesetz, WAG)[^t-4] in Kraft.
 
 <sup>2</sup> Der Regierungsrat ist ermächtigt, das Anmelde- und Prüfverfahren für Finanzhilfen vor Inkrafttreten dieses Beschlusses zu eröffnen.
 
 <sup>3</sup> Dieser Beschluss ist am 1. Januar 2021 in der Nidwaldner Gesetzessammlung zu veröffentlichen.
 
-[^Ziff9-1]: NG 132.2
-
-A 2020, 2510; A 2021, 489
+[^t-1]: A 2020, 2510; A 2021, 489; in Kraft seit 23. Februar 2021
+[^t-2]: SR 745.1
+[^t-3]: NG 511.1
+[^t-4]: NG 132.2
