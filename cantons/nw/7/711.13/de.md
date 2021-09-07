@@ -5,12 +5,12 @@ title: Verordnung zur Bekämpfung der Verbreitung des Coronavirus
 short: Kantonale Covid-19-Verordnung
 language: de
 version: 2021-08-23
-corrected: 2021-08-26
+corrected: 2021-09-08
 version_adopted: 2021-08-20
 adopted: 2020-11-03
 in_force: 2020-11-04
 url: "https://gesetze.nw.ch/app/de/texts_of_law/711.13"
-pdf: "https://gesetze.nw.ch/api/de/versions/491/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/498/pdf_file"
 text: pdf
 ---
 
@@ -38,7 +38,7 @@ beschliesst:
 <sup>2</sup> Die Massnahmen dienen dazu, die Verbreitung des Coronavirus (Covid-19) zu bekämpfen und Übertragungsketten zu unterbrechen.
 
 [^1-1]: Fassung gemäss Regierungsratsbeschluss vom 25. Juni 2021, A 2021, 1268; in Kraft seit 28. Juni 2021
-[^1-2]: Fassung gemäss Regierungsratsbeschluss vom 20. August 2021, A 2021, .....; in Kraft seit 23. August 2021
+[^1-2]: Fassung gemäss Regierungsratsbeschluss vom 20. August 2021, A 2021, 1572; in Kraft seit 23. August 2021
 
 #### § 2
 
