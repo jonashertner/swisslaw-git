@@ -4,251 +4,281 @@ number: "742.118"
 title: Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2021 für Pflegeleistungen in Alters- und Pflegeheimen
 language: de
 version: 2021-01-01
-valid_until: 2021-12-31
+corrected: 2021-09-08
 version_adopted: 2021-02-02
 adopted: 2025-09-16
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.118"
-pdf: "https://gesetze.nw.ch/api/de/versions/599/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/321/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
 # Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2021 für Pflegeleistungen in Alters- und Pflegeheimen
 
-vom 02.02.2021 (Stand 01.01.2021)
+vom 2. Februar 2021[^t-1]
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 28e ff. des Einführungsgesetzes vom 25. Oktober 2006 zum Bundesgesetz über die Krankenversicherung (Krankenversicherungsgesetz, kKVG)[^ingress-1],
+gestützt auf Art. 28e ff. des Einführungsgesetzes vom 25. Oktober 2006 zum Bundesgesetz über die Krankenversicherung (Krankenversicherungsgesetz, kKVG)[^t-2],
 
 beschliesst:
 
-[^ingress-1]: NG 742.1
+- 1\. Referenztaxen Die Referenztaxen gemäss Art. 28e Abs. 2 kkVG[^t-2] für Pflegeleistungen ausserkantonaler Pflegeheime betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
 
-#### Ziff. 1
+**Fr. 13.90 Fr. 39.10 Fr. 64.30 Fr. 89.60 Fr. 114.80**
 
-**Referenztaxen**
+- a. bei einem Pflegebedarf bis 20 Minuten
 
-<sup>1</sup> Die Referenztaxen gemäss Art. 28e Abs. 2 kkVG[^Ziff1-1] für Pflegeleistungen ausserkantonaler Pflegeheime betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
+- b. bei einem Pflegebedarf von 21 bis 40 Minuten
 
-Referenztaxen
+- c. bei einem Pflegebedarf von 41 bis 60 Minuten
 
-- a) bei einem Pflegebedarf bis 20 Minuten: — Fr. 13.90
-- b) bei einem Pflegebedarf von 21 bis 40 Minuten: — Fr. 39.10
-- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 64.30
-- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 89.60
-- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 114.80
-- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 140.00
-- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 165.30
-- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 190.50
-- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 215.70
-- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 241.00
-- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 266.20
-- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 291.40
+- d. bei einem Pflegebedarf von 61 bis 80 Minuten
 
-[^Ziff1-1]: NG 742.1
+- e. bei einem Pflegebedarf von 81 bis 100 Minuten
 
-#### Ziff. 2
+- f. bei einem Pflegebedarf von 101 bis 120 Minuten Fr. 140.00
 
-**Alterswohnheim Hungacher**
+- g. bei einem Pflegebedarf von 121 bis 140 Minuten Fr. 165.30
 
-<sup>1</sup> Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^Ziff2-1] für Pflegeleistungen des Pflegeheims Alterswohnheim Hungacher (Stiftung Altersfürsorge Beckenried) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
+- h. bei einem Pflegebedarf von 141 bis 160 Minuten Fr. 190.50
 
-- a) bei einem Pflegebedarf bis 20 Minuten: — Fr. 13.70
-- b) bei einem Pflegebedarf von 21 bis 40 Minuten: — Fr. 38.50
-- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 63.30
-- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 88.20
-- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 113.00
-- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 137.80
-- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 162.70
-- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 187.50
-- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 212.30
-- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 237.20
-- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 262.00
-- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 286.80
+- i. bei einem Pflegebedarf von 161 bis 180 Minuten Fr. 215.70
 
-[^Ziff2-1]: NG 742.1
+- j. bei einem Pflegebedarf von 181 bis 200 Minuten Fr. 241.00
 
-#### Ziff. 3
+- k. bei einem Pflegebedarf von 201 bis 220 Minuten Fr. 266.20
 
-**Alterswohnheim Buochs**
+- l. bei einem Pflegebedarf von mehr als 220 Minuten Fr. 291.40
 
-<sup>1</sup> Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^Ziff3-1] für Pflegeleistungen des Pflegeheims Alterswohnheim Buochs (Stiftung Altersfürsorge Buochs) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
+- 2\. Alterswohnheim Hungacher Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^t-2] für Pflegeleistungen des Pflegeheims Alterswohnheim Hungacher (Stiftung Altersfürsorge Beckenried) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
 
-- a) bei einem Pflegebedarf bis 20 Minuten: — Fr. 14.00
-- b) bei einem Pflegebedarf von 21 bis 40 Minuten: — Fr. 39.30
-- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 64.70
-- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 90.10
-- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 115.40
-- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 140.80
-- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 166.20
-- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 191.50
-- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 216.90
-- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 242.30
-- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 267.60
-- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 293.00
+**Fr. 13.70 Fr. 38.50 Fr. 63.30 Fr. 88.20 Fr. 113.00**
 
-[^Ziff3-1]: NG 742.1
+- a. bei einem Pflegebedarf bis 20 Minuten
 
-#### Ziff. 4
+- b. bei einem Pflegebedarf von 21 bis 40 Minuten
 
-**Altersheim Oeltrotte**
+- c. bei einem Pflegebedarf von 41 bis 60 Minuten
 
-<sup>1</sup> Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^Ziff4-1] für Pflegeleistungen des Pflegeheims Altersheim Oeltrotte (Altersstiftung Ennetbürgen) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
+- d. bei einem Pflegebedarf von 61 bis 80 Minuten
 
-- a) bei einem Pflegebedarf bis 20 Minuten: — Fr. 13.60
-- b) bei einem Pflegebedarf von 21 bis 40 Minuten: — Fr. 38.30
-- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 63.10
-- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 87.80
-- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 112.50
-- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 137.30
-- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 162.00
-- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 186.70
-- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 211.50
-- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 236.20
-- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 260.90
-- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 285.70
+- e. bei einem Pflegebedarf von 81 bis 100 Minuten
 
-[^Ziff4-1]: NG 742.1
+- f. bei einem Pflegebedarf von 101 bis 120 Minuten Fr. 137.80
 
-#### Ziff. 5
+- g. bei einem Pflegebedarf von 121 bis 140 Minuten Fr. 162.70
 
-**Alters- und Pflegeheim Heimet**
+- h. bei einem Pflegebedarf von 141 bis 160 Minuten Fr. 187.50
 
-<sup>1</sup> Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^Ziff5-1] für Pflegeleistungen des Pflegeheims Alters- und Pflegeheim Heimet (Alters- und Pflegeheim Heimet AG) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
+- i. bei einem Pflegebedarf von 161 bis 180 Minuten Fr. 212.30
 
-- a) bei einem Pflegebedarf bis 20 Minuten: — Fr. 13.70
-- b) bei einem Pflegebedarf von 21 bis 40 Minuten: — Fr. 38.60
-- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 63.60
-- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 88.50
-- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 113.40
-- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 138.40
-- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 163.30
-- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 188.20
-- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 213.20
-- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 238.10
-- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 263.00
-- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 288.00
+- j. bei einem Pflegebedarf von 181 bis 200 Minuten Fr. 237.20
 
-[^Ziff5-1]: NG 742.1
+- k. bei einem Pflegebedarf von 201 bis 220 Minuten Fr. 262.00
 
-#### Ziff. 6
+- l. bei einem Pflegebedarf von mehr als 220 Minuten Fr. 286.80
 
-**Seniorenzentrum Zwyden**
+- 3\. Alterswohnheim Buochs Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^t-2] für Pflegeleistungen des Pflegeheims Alterswohnheim Buochs (Stiftung Altersfürsorge Buochs) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
 
-<sup>1</sup> Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^Ziff6-1] für Pflegeleistungen des Pflegeheims Seniorenzentrum Zwyden (Stiftung Altersfürsorge Hergiswil NW) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
+**Fr. 14.00 Fr. 39.30 Fr. 64.70 Fr. 90.10 Fr. 115.40**
 
-- a) bei einem Pflegebedarf bis 20 Minuten: — Fr. 14.00
-- b) bei einem Pflegebedarf von 21 bis 40 Minuten: — Fr. 39.50
-- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 64.90
-- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 90.40
-- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 115.90
-- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 141.30
-- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 166.80
-- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 192.30
-- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 217.70
-- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 243.20
-- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 268.70
-- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 294.10
+- a. bei einem Pflegebedarf bis 20 Minuten
 
-[^Ziff6-1]: NG 742.1
+- b. bei einem Pflegebedarf von 21 bis 40 Minuten
 
-#### Ziff. 7
+- c. bei einem Pflegebedarf von 41 bis 60 Minuten
 
-**Wohnhaus Mettenweg**
+- d. bei einem Pflegebedarf von 61 bis 80 Minuten
 
-<sup>1</sup> Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^Ziff7-1] für Pflegeleistungen des Pflegeheims Wohnhaus Mettenweg (Politische Gemeinde Stans) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
+- e. bei einem Pflegebedarf von 81 bis 100 Minuten
 
-- a) bei einem Pflegebedarf bis 20 Minuten: — Fr. 13.60
-- b) bei einem Pflegebedarf von 21 bis 40 Minuten: — Fr. 38.30
-- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 63.10
-- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 87.80
-- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 112.50
-- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 137.30
-- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 162.00
-- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 186.70
-- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 211.50
-- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 236.20
-- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 260.90
-- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 285.70
+- f. bei einem Pflegebedarf von 101 bis 120 Minuten Fr. 140.80
 
-[^Ziff7-1]: NG 742.1
+- g. bei einem Pflegebedarf von 121 bis 140 Minuten Fr. 166.20
 
-#### Ziff. 8
+- h. bei einem Pflegebedarf von 141 bis 160 Minuten Fr. 191.50
 
-**Wohnheim Nägeligasse**
+- i. bei einem Pflegebedarf von 161 bis 180 Minuten Fr. 216.90
 
-<sup>1</sup> Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^Ziff8-1] für Pflegeleistungen des Pflegeheims Wohnheim Nägeligasse (Stiftung Alters- und Pflegeheim Nidwalden) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
+- j. bei einem Pflegebedarf von 181 bis 200 Minuten Fr. 242.30
 
-- a) bei einem Pflegebedarf bis 20 Minuten: — Fr. 14.00
-- b) bei einem Pflegebedarf von 21 bis 40 Minuten: — Fr. 39.50
-- c) bei einem Pflegebedarf von 41 bis 60 Minuten: — Fr. 64.90
-- d) bei einem Pflegebedarf von 61 bis 80 Minuten: — Fr. 90.40
-- e) bei einem Pflegebedarf von 81 bis 100 Minuten: — Fr. 115.90
-- f) bei einem Pflegebedarf von 101 bis 120 Minuten: — Fr. 141.30
-- g) bei einem Pflegebedarf von 121 bis 140 Minuten: — Fr. 166.80
-- h) bei einem Pflegebedarf von 141 bis 160 Minuten: — Fr. 192.30
-- i) bei einem Pflegebedarf von 161 bis 180 Minuten: — Fr. 217.70
-- j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 243.20
-- k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 268.70
-- l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 294.10
-- m) bei einem besonders hohen Pflegebedarf (Schwerstpflegebedürftige Stufe 13), wenn dies in einer Leistungsvereinbarung mit dem Kanton vereinbart wurde: — Fr. 338.70
-- n) bei einem besonders hohen Pflegebedarf (Schwerstpflegebedürftige Stufe 14), wenn dies in einer Leistungsvereinbarung mit dem Kanton vereinbart wurde: — Fr. 464.80
-- o) bei einem besonders hohen Pflegebedarf (Schwerstpflegebedürftige Stufe 15), wenn dies in einer Leistungsvereinbarung mit dem Kanton vereinbart wurde: — Fr. 545.00
+- k. bei einem Pflegebedarf von 201 bis 220 Minuten Fr. 267.60
 
-[^Ziff8-1]: NG 742.1
+- l. bei einem Pflegebedarf von mehr als 220 Minuten Fr. 293.00
 
-#### Ziff. 9
+- 4\. Altersheim Oeltrotte Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^t-2] für Pflegeleistungen des Pflegeheims Altersheim Oeltrotte (Altersstiftung Ennetbürgen) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
 
-**Geräte, Verbrauchsmaterial und Hilfsmittel**
+**Fr. 13.60 Fr. 38.30 Fr. 63.10 Fr. 87.80 Fr. 112.50**
 
-<sup>1</sup> Die Anwendung von Geräten, Verbrauchsmaterial und Hilfsmitteln, die zur Heiminfrastruktur gehören, ist in den Pflegetaxen inbegriffen. Dazu zählen insbesondere Absauggerät, lnhaliergerät, Atemtherapiegerät, Vernebler, Blutdruckapparat, Wund-Vakuum-Therapiegerät, Rollstuhl, Gehvelo oder Gehböckli.
+- a. bei einem Pflegebedarf bis 20 Minuten
 
-#### Ziff. 10
+- b. bei einem Pflegebedarf von 21 bis 40 Minuten
 
-**Inbegriffene Produktegruppen von Mittel und Gegenständen**
+- c. bei einem Pflegebedarf von 41 bis 60 Minuten
 
-<sup>1</sup> In den Pflegetaxen sind folgende Produktegruppen von Mittel- und Gegenständen gemäss Mittel- und Gegenstände-Liste[^Ziff10-1], die vom Arzt verordnet wurden, ausschliesslich bei der Pflegeleistung der Pflegeheime anfallen und direkt am Patienten angebracht oder verwendet werden, inbegriffen:
+- d. bei einem Pflegebedarf von 61 bis 80 Minuten
 
-<table>
-<tr><th>Nr.</th><th>Produktegruppe</th></tr>
-<tr><td>03</td><td>Applikationshilfen</td></tr>
-<tr><td>14</td><td>lnhalations- und Atemtherapiegeräte</td></tr>
-<tr><td>15</td><td>lnkontinenzhilfen</td></tr>
-<tr><td>16</td><td>Kälte- und/oder Wärmetherapie-Mittel</td></tr>
-<tr><td>17</td><td>Kompressionstherapiemittel</td></tr>
-<tr><td>21</td><td>Messgeräte für Körperzustände-/Funktionen</td></tr>
-<tr><td>34</td><td>Verbandmaterial</td></tr>
-<tr><td>99</td><td>Verschiedenes</td></tr>
-</table>
+- e. bei einem Pflegebedarf von 81 bis 100 Minuten
 
-[^Ziff10-1]: SR 832.112.31
+- f. bei einem Pflegebedarf von 101 bis 120 Minuten Fr. 137.30
 
-#### Ziff. 11
+- g. bei einem Pflegebedarf von 121 bis 140 Minuten Fr. 162.00
 
-**Nicht inbegriffene Produktegruppen von Mitteln und Gegenständen**
+- h. bei einem Pflegebedarf von 141 bis 160 Minuten Fr. 186.70
 
-<sup>1</sup> Folgende Produktegruppen von Mitteln und Gegenstanden sind von den Pflegetaxen nicht umfasst und können auf Verordnung des Arztes dem Krankenversicherer separat in Rechnung gestellt werden:
+- i. bei einem Pflegebedarf von 161 bis 180 Minuten Fr. 211.50
 
-<table>
-<tr><th>Nr.</th><th>Produktegruppe</th></tr>
-<tr><td>05</td><td>Bandagen</td></tr>
-<tr><td>06</td><td>Bestrahlungsgeräte</td></tr>
-<tr><td>09</td><td>Elektrostimulationsgeräte</td></tr>
-<tr><td>23</td><td>Orthesen</td></tr>
-<tr><td>24</td><td>Prothesen</td></tr>
-<tr><td>29</td><td>Stomaartikel</td></tr>
-<tr><td>30</td><td>therapeutische Bewegungsgeräte</td></tr>
-<tr><td>31</td><td>Tracheostoma-Artikel</td></tr>
-</table>
+- j. bei einem Pflegebedarf von 181 bis 200 Minuten Fr. 236.20
 
-#### Ziff. 12
+- k. bei einem Pflegebedarf von 201 bis 220 Minuten Fr. 260.90
 
-**Rechtsmittel**
+- l. bei einem Pflegebedarf von mehr als 220 Minuten Fr. 285.70
 
-<sup>1</sup> Gegen diesen Beschluss kann binnen 30 Tagen nach erfolgter Publikation beim Regierungsrat Einsprache erhoben werden (Art. 29 Abs. 1 kKVG[^Ziff12-1]).
+- 5\. Alters- und Pflegeheim Heimet Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^t-2] für Pflegeleistungen des Pflegeheims Alters- und Pflegeheim Heimet (Alters- und Pflegeheim Heimet AG) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
 
-[^Ziff12-1]: NG 742.1
+**Fr. 13.70 Fr. 38.60 Fr. 63.60 Fr. 88.50 Fr. 113.40**
 
-A 2021, 256
+- a. bei einem Pflegebedarf bis 20 Minuten
+
+- b. bei einem Pflegebedarf von 21 bis 40 Minuten
+
+- c. bei einem Pflegebedarf von 41 bis 60 Minuten
+
+- d. bei einem Pflegebedarf von 61 bis 80 Minuten
+
+- e. bei einem Pflegebedarf von 81 bis 100 Minuten
+
+- f. bei einem Pflegebedarf von 101 bis 120 Minuten Fr. 138.40
+
+- g. bei einem Pflegebedarf von 121 bis 140 Minuten Fr. 163.30
+
+- h. bei einem Pflegebedarf von 141 bis 160 Minuten Fr. 188.20
+
+- i. bei einem Pflegebedarf von 161 bis 180 Minuten Fr. 213.20
+
+- j. bei einem Pflegebedarf von 181 bis 200 Minuten Fr. 238.10
+
+- k. bei einem Pflegebedarf von 201 bis 220 Minuten Fr. 263.00
+
+- l. bei einem Pflegebedarf von mehr als 220 Minuten Fr. 288.00
+
+- 6\. Seniorenzentrum Zwyden Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^t-2] für Pflegeleistungen des Pflegeheims Seniorenzentrum Zwyden (Stiftung Altersfürsorge Hergiswil NW) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
+
+**Fr. 14.00 Fr. 39.50 Fr. 64.90 Fr. 90.40 Fr. 115.90**
+
+- a. bei einem Pflegebedarf bis 20 Minuten
+
+- b. bei einem Pflegebedarf von 21 bis 40 Minuten
+
+- c. bei einem Pflegebedarf von 41 bis 60 Minuten
+
+- d. bei einem Pflegebedarf von 61 bis 80 Minuten
+
+- e. bei einem Pflegebedarf von 81 bis 100 Minuten
+
+- f. bei einem Pflegebedarf von 101 bis 120 Minuten Fr. 141.30
+
+- g. bei einem Pflegebedarf von 121 bis 140 Minuten Fr. 166.80
+
+- h. bei einem Pflegebedarf von 141 bis 160 Minuten Fr. 192.30
+
+- i. bei einem Pflegebedarf von 161 bis 180 Minuten Fr. 217.70
+
+- j. bei einem Pflegebedarf von 181 bis 200 Minuten Fr. 243.20
+
+- k. bei einem Pflegebedarf von 201 bis 220 Minuten Fr. 268.70
+
+- l. bei einem Pflegebedarf von mehr als 220 Minuten Fr. 294.10
+
+- 7\. Wohnhaus Mettenweg Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^t-2] für Pflegeleistungen des Pflegeheims Wohnhaus Mettenweg (Politische Gemeinde Stans) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
+
+**Fr. 13.60 Fr. 38.30 Fr. 63.10 Fr. 87.80 Fr. 112.50**
+
+- a. bei einem Pflegebedarf bis 20 Minuten
+
+- b. bei einem Pflegebedarf von 21 bis 40 Minuten
+
+- c. bei einem Pflegebedarf von 41 bis 60 Minuten
+
+- d. bei einem Pflegebedarf von 61 bis 80 Minuten
+
+- e. bei einem Pflegebedarf von 81 bis 100 Minuten
+
+- f. bei einem Pflegebedarf von 101 bis 120 Minuten Fr. 137.30
+
+- g. bei einem Pflegebedarf von 121 bis 140 Minuten Fr. 162.00
+
+- h. bei einem Pflegebedarf von 141 bis 160 Minuten Fr. 186.70
+
+- i. bei einem Pflegebedarf von 161 bis 180 Minuten Fr. 211.50
+
+- j. bei einem Pflegebedarf von 181 bis 200 Minuten Fr. 236.20
+
+- k. bei einem Pflegebedarf von 201 bis 220 Minuten Fr. 260.90
+
+- l. bei einem Pflegebedarf von mehr als 220 Minuten Fr. 285.70
+
+- 8\. Wohnheim Nägeligasse Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^t-2] für Pflegeleistungen des Pflegeheims Wohnheim Nägeligasse (Stiftung Alters- und Pflegeheim Nidwalden) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2021 je Tag und Person:
+
+**Fr. 14.00 Fr. 39.50 Fr. 64.90 Fr. 90.40 Fr. 115.90**
+
+- a. bei einem Pflegebedarf bis 20 Minuten
+
+- b. bei einem Pflegebedarf von 21 bis 40 Minuten
+
+- c. bei einem Pflegebedarf von 41 bis 60 Minuten
+
+- d. bei einem Pflegebedarf von 61 bis 80 Minuten
+
+- e. bei einem Pflegebedarf von 81 bis 100 Minuten
+
+- f. bei einem Pflegebedarf von 101 bis 120 Minuten Fr. 141.30
+
+- g. bei einem Pflegebedarf von 121 bis 140 Minuten Fr. 166.80
+
+- h. bei einem Pflegebedarf von 141 bis 160 Minuten Fr. 192.30
+
+- i. bei einem Pflegebedarf von 161 bis 180 Minuten Fr. 217.70
+
+- j. bei einem Pflegebedarf von 181 bis 200 Minuten Fr. 243.20
+
+- k. bei einem Pflegebedarf von 201 bis 220 Minuten Fr. 268.70
+
+- l. bei einem Pflegebedarf von mehr als 220 Minuten Fr. 294.10
+
+**Fr. 338.70**
+
+- m. bei einem besonders hohen Pflegebedarf (Schwerstpflegebedürftige Stufe 13), wenn dies in einer Leistungsvereinbarung mit dem Kanton vereinbart wurde
+
+**Fr. 464.80**
+
+- n. bei einem besonders hohen Pflegebedarf (Schwerstpflegebedürftige Stufe 14), wenn dies in einer Leistungsvereinbarung mit dem Kanton vereinbart wurde
+
+**Fr. 545.00**
+
+- o. bei einem besonders hohen Pflegebedarf (Schwerstpflegebedürftige Stufe 15), wenn dies in einer Leistungsvereinbarung mit dem Kanton vereinbart wurde
+
+- 9\. Geräte, Verbrauchsmaterial und Hilfsmittel Die Anwendung von Geräten, Verbrauchsmaterial und Hilfsmitteln, die zur Heiminfrastruktur gehören, ist in den Pflegetaxen inbegriffen. Dazu zählen insbesondere Absauggerät, lnhaliergerät, Atemtherapiegerät, Vernebler, Blutdruckapparat, Wund-Vakuum-Therapiegerät, Rollstuhl, Gehvelo oder Gehböckli.
+
+- 10\. Inbegriffene Produktegruppen von Mittel und Gegenständen In den Pflegetaxen sind folgende Produktegruppen von Mittel- und Gegenständen gemäss Mittel- und Gegenstände-Liste[^t-3], die vom Arzt verordnet wurden, ausschliesslich bei der Pflegeleistung der Pflegeheime anfallen und direkt am Patienten angebracht oder verwendet werden, inbegriffen:
+
+03 Applikationshilfen 14 lnhalations- und Atemtherapiegeräte 15 lnkontinenzhilfen 16 Kälte- und/oder Wärmetherapie-Mittel 17 Kompressionstherapiemittel 21 Messgeräte für Körperzustände-/Funktionen 34 Verbandmaterial 99 Verschiedenes
+
+- 11\. Nicht inbegriffene Produktegruppen von Mitteln und
+
+[^t-1]: A 2021, 256
+[^t-2]: NG 742.1
+[^t-3]: SR 832.112.31
+
+### Gegenständen
+
+Folgende Produktegruppen von Mitteln und Gegenstanden sind von den Pflegetaxen nicht umfasst und können auf Verordnung des Arztes dem Krankenversicherer separat in Rechnung gestellt werden:
+
+05 Bandagen 06 Bestrahlungsgeräte 09 Elektrostimulationsgeräte 23 Orthesen 24 Prothesen 29 Stomaartikel 30 therapeutische Bewegungsgeräte 31 Tracheostoma-Artikel
+
+- 12\. Rechtsmittel Gegen diesen Beschluss kann binnen 30 Tagen nach erfolgter Publikation beim Regierungsrat Einsprache erhoben werden (Art. 29 Abs. 1 kKVG[^hGegenständen-1].
+
+[^hGegenständen-1]: NG 742.1
