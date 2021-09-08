@@ -3,11 +3,11 @@ sr: "0.814.021.5"
 title: "Änderung des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen, vom 15. Oktober 2016"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/820"
 language: de
-version: 2021-02-24
+version: 2021-09-09
 adopted: 2016-10-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20210224/de/xml/fedlex-data-admin-ch-eli-cc-2018-820-20210224-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20210224/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20210909/de/xml/fedlex-data-admin-ch-eli-cc-2018-820-20210909-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20210909/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 7. November 2018
 
 In Kraft getreten für die Schweiz am 1. Januar 2019
 
-(Stand am 24. Februar 2021)
+(Stand am 9. September 2021)
 
 Übersetzung
 
@@ -343,7 +343,7 @@ Jede Vertragspartei kann jederzeit vor Inkrafttreten dieser Änderung für sie e
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 24. Februar 2021**[^t-1]**
+Geltungsbereich am 9. September 2021**[^t-1]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -360,15 +360,20 @@ Geltungsbereich am 24. Februar 2021**[^t-1]**
 <tr><td>Benin</td><td>19. März</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Bhutan</td><td>27. September</td><td>2019</td><td>26. Dezember</td><td>2019</td></tr>
 <tr><td>Bolivien</td><td>9. Oktober</td><td>2020</td><td>7. Januar</td><td>2021</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>26. Mai</td><td>2021</td><td>24. August</td><td>2021</td></tr>
 <tr><td>Botsuana</td><td>19. September</td><td>2020</td><td>18. Dezember</td><td>2020</td></tr>
 <tr><td>Bulgarien</td><td>1. Mai</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Burkina Faso</td><td>26. Juli</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Burundi</td><td>26. März</td><td>2021</td><td>24. Juni</td><td>2021</td></tr>
 <tr><td>Chile</td><td>19. September</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>China<sup>\*</sup></td><td>17. Juni</td><td>2021</td><td>15. September</td><td>2021</td></tr>
+<tr><td>Macau</td><td>17. Juni</td><td>2021</td><td>15. September</td><td>2021</td></tr>
 <tr><td>Cook-Inseln</td><td>22. August</td><td>2019</td><td>20. November</td><td>2019</td></tr>
 <tr><td>Costa Rica</td><td>23. Mai</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Côte d’Ivoire</td><td>29. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>6. Dezember</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Deutschland</td><td>14. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Dominikanische Republik</td><td>14. April</td><td>2021</td><td>13. Juli</td><td>2021</td></tr>
 <tr><td>Ecuador</td><td>22. Januar</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Estland</td><td>27. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Eswatini</td><td>24. November</td><td>2020</td><td>22. Februar</td><td>2021</td></tr>
@@ -377,6 +382,7 @@ Geltungsbereich am 24. Februar 2021**[^t-1]**
 <tr><td>Finnland</td><td>14. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Frankreich</td><td>29. März</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Gabun</td><td>28. Februar</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Gambia</td><td>5. Mai</td><td>2021</td><td>3. August</td><td>2021</td></tr>
 <tr><td>Ghana</td><td>2. August</td><td>2019</td><td>31. Oktober</td><td>2019</td></tr>
 <tr><td>Grenada</td><td>29. Mai</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Griechenland</td><td>5. Oktober</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
@@ -387,10 +393,13 @@ Geltungsbereich am 24. Februar 2021**[^t-1]**
 <tr><td>Island</td><td>25. Januar</td><td>2021</td><td>25. April</td><td>2021</td></tr>
 <tr><td>Japan</td><td>18. Dezember</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Jordanien</td><td>16. Oktober</td><td>2019</td><td>14. Januar</td><td>2020</td></tr>
+<tr><td>Kambodscha</td><td>8. April</td><td>2021</td><td>7. Juli</td><td>2021</td></tr>
+<tr><td>Kamerun</td><td>24. August</td><td>2021</td><td>22. November</td><td>2021</td></tr>
 <tr><td>Kanada</td><td>3. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Kap Verde</td><td>28. Oktober</td><td>2020</td><td>26. Januar</td><td>2021</td></tr>
 <tr><td>Kirgisistan</td><td>8. September</td><td>2020</td><td>7. Dezember</td><td>2020</td></tr>
 <tr><td>Kiribati</td><td>26. Oktober</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Kolumbien</td><td>25. Februar</td><td>2021</td><td>26. Mai</td><td>2021</td></tr>
 <tr><td>Komoren</td><td>16. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Korea (Nord-)</td><td>21. September</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Kroatien</td><td>6. Dezember</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
@@ -432,6 +441,7 @@ Geltungsbereich am 24. Februar 2021**[^t-1]**
 <tr><td>Ruanda</td><td>23. Mai</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Rumänien</td><td>1. Juli</td><td>2020</td><td>29. September</td><td>2020</td></tr>
 <tr><td>Russland</td><td>3. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td>Sambia</td><td>15. März</td><td>2021</td><td>13. Juni</td><td>2021</td></tr>
 <tr><td>Samoa</td><td>23. März</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>San Marino</td><td>20. Oktober</td><td>2020</td><td>18. Januar</td><td>2021</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>4. Oktober</td><td>2019</td><td>2. Januar</td><td>2020</td></tr>
@@ -444,11 +454,13 @@ Geltungsbereich am 24. Februar 2021**[^t-1]**
 <tr><td>Slowenien</td><td>7. Dezember</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Sri Lanka</td><td>28. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Südafrika</td><td>1. August</td><td>2019</td><td>30. Oktober</td><td>2019</td></tr>
+<tr><td>Syrien</td><td>5. April</td><td>2021</td><td>4. Juli</td><td>2021</td></tr>
 <tr><td>Togo</td><td>8. März</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Tonga</td><td>17. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Trinidad und Tobago</td><td>17. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Tschad</td><td>26. März</td><td>2019</td><td>24. Juni</td><td>2019</td></tr>
 <tr><td>Tschechische Republik</td><td>27. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Tunesien</td><td>27. August</td><td>2021</td><td>25. November</td><td>2021</td></tr>
 <tr><td>Turkmenistan</td><td>31. August</td><td>2020</td><td>29. November</td><td>2020</td></tr>
 <tr><td>Tuvalu</td><td>21. September</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Uganda</td><td>21. Juni</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
@@ -457,9 +469,10 @@ Geltungsbereich am 24. Februar 2021**[^t-1]**
 <tr><td>Vanuatu</td><td>20. April</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>14. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Gibraltar</td><td>18. Oktober</td><td>2019</td><td>18. Oktober</td><td>2019</td></tr>
+<tr><td>Insel Man</td><td>25. Februar</td><td>2021</td><td>25. Februar</td><td>2021</td></tr>
 <tr><td>Vietnam</td><td>27. September</td><td>2019</td><td>26. Dezember</td><td>2019</td></tr>
 <tr><td>Zypern</td><td>22. Juli</td><td>2019</td><td>20. Oktober</td><td>2019</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Die Änderung des Montrealer Protokolls gilt nicht für Grönland. <sup>b</sup> Die Änderung des Montrealer Protokolls gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-1]: Diese Veröffentlichung ergänzt die früheren in [AS 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56)und [120](https://fedlex.data.admin.ch/eli/oc/2021/120). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
+[^t-1]: [AS 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56), [120](https://fedlex.data.admin.ch/eli/oc/2021/120), [554](https://fedlex.data.admin.ch/eli/oc/2021/554). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse www.fedlex.admin.ch/de/treaty veröffentlicht.
