@@ -3,20 +3,20 @@ canton: LU
 number: 736a
 title: Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 language: de
-version: 2021-06-15
-valid_until: 2021-09-09
-version_adopted: 2021-06-15
+version: 2021-09-10
+valid_until: 2021-12-13
+version_adopted: 2021-09-10
 adopted: 2017-07-04
 in_force: 2017-07-04
 url: "https://srl.lu.ch/app/de/texts_of_law/736a"
-pdf: "https://srl.lu.ch/api/de/versions/3752/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3827/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 
-vom 04.07.2017 (Stand 15.06.2021)
+vom 04.07.2017 (Stand 10.09.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -45,6 +45,7 @@ beschliesst:
 <tr><td>Escholzmatt-Marbach</td><td>27. August 2019</td><td>11. Februar 2020</td></tr>
 <tr><td>Inwil</td><td>27. Mai 2019</td><td>24. März 2020</td></tr>
 <tr><td>Hochdorf</td><td>29. November 2020</td><td>15. Juni 2021</td></tr>
+<tr><td>Nebikon</td><td>24. August 2020</td><td>10. September 2021</td></tr>
 </table>
 
 [^Ziff1-1]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
