@@ -4,12 +4,12 @@ number: "320.32"
 title: "Taxordnung der Spitalregion Rheintal Werdenberg Sarganserland, des Spitals Linth und der Spitalregion Fürstenland Toggenburg"
 language: de
 version: 2021-09-01
-valid_until: 2022-08-31
+corrected: 2021-09-10
 version_adopted: 2021-07-01
 adopted: 2017-05-17
 in_force: 2017-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.32"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3220/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3207/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -45,19 +45,7 @@ als Taxordnung:[^ingress-2]
 
 **Taxtarif**
 
-<sup>1</sup> Der Verwaltungsrat der Spitalverbunde erlässt gestützt auf diesen Erlass einen Taxtarif für die drei regionalen Spitalverbunde und die Rettung St.Gallen, welche die jeweils gültigen betragsmässigen Preise und Abrechnungsregeln enthalten.
-
-<sup>2</sup> Die Preise für Leistungen, für welche der Taxtarif Rettung St.Gallen keine Regelung trifft, werden durch die in der Rettung St.Gallen zusammenarbeitenden Spitalverbunde mit den Leistungsempfängern oder Garanten durch Vereinbarung geregelt (z.B. für Nonmedical-Einsätze, Seniorennotruf, Pistenrettung, Sonderfahrten, Rückholungen aus dem Ausland usw.).
-
-#### Art. 2bis
-
-**Regio 144**
-
-<sup>1</sup> Die Preise für sämtliche Rettungs- und Transportdienstleistungen der Regio 144 werden durch die zuständigen Organe der Regio 144[^2bis-1] festgelegt oder mit den Leistungsempfängern oder Garanten durch Vereinbarung geregelt.
-
-<sup>2</sup> Für Leistungen eines Rettungsdienstes mit von einem Spitalverbund delegierten Leistungsauftrag für das Versorgungsgebiet der vier Spitalverbunde des Kantons St.Gallen wird der jeweilige Tarif des entsprechenden Rettungsdienstes, der die Leistung erbringt, angewendet.
-
-[^2bis-1]: Die Regio 144 AG ist eine privatrechtliche Aktiengesellschaft, an der das Spital Linth beteiligt ist. Sie hat den statutarischen Zweck, Rettungsdienstleistungen sowie Patiententransporte und Notarztdienstleistungen zu erbringen (Art. 3 der Statuten).
+<sup>1</sup> Der Verwaltungsrat der Spitalverbunde erlässt gestützt auf diesen Erlass einen Taxtarif für die drei regionalen Spitalverbunde, der die jeweils gültigen betragsmässigen Preise und Abrechnungsregeln enthält.
 
 #### Art. 3
 
