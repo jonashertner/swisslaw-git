@@ -4,11 +4,11 @@ title: Ordinance of 23 June 2021 on Measures during the Special Situation to com
 short: COVID-19 Special Situation Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: en
-version: 2021-06-26
+version: 2021-09-13
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20210626/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20210626-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210626/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20210913/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20210913-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210913/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 23 June 2021 (Status as of 26 June 2021)
+of 23 June 2021 (Status as of 13 September 2021)
 
 The Swiss Federal Council,
 
@@ -106,22 +106,10 @@ The following persons are exempt from the requirement in paragraph 1:
 - c. persons in institutions that provide childcare outside the family or in educational institutions, in the event that wearing a face mask significantly impedes the provision of care or the ability to teach;
 - d. persons undergoing a medical or cosmetic procedure to the face;
 - e. performers, in particular speakers;
-- f.
+- f.[^6-1] persons in the sport and culture sectors who are exempted under a provision of this Ordinance from the requirement to wear a mask;
+- g.[^6-2] persons in publicly accessible businesses and establishments or at events to which access is restricted to persons with a certificate.
 
-  persons who are exempted under a provision of this Ordinance from the requirement to wear a mask:
-
-  - 1\. in the fields of sport, culture, leisure or entertainment,
-  - 2\. in restaurants, bars and clubs,
-  - 3\. at events.
-
-<sup>3</sup> Bathing establishments, including thermal baths and spas, may provide in their precautionary measures plans for exceptions to the requirement in paragraph 1.
-
-<sup>4</sup>
-
-Where entry to publicly accessible businesses and establishments or to events is restricted to persons with a certificate, the operators and organisers must provide that the persons working on the premises who are in contact with guests, customers or visitors:
-
-- a. can provide a certificate themselves; or
-- b. if not all can provide a certificate: all wear a face mask in indoor areas.
+<sup>3</sup> and <sup>4</sup> ...[^6-3]
 
 <sup>5</sup>
 
@@ -131,6 +119,10 @@ Socio-medical institutions may in consultation with the responsible cantonal aut
 - b. residents who were infected with Sars-CoV-2 and have recovered: for the period specified in Annex 2.
 
 <sup>6</sup> The persons who are regarded as vaccinated in terms of paragraph 5 letter a are defined in Annex 2.
+
+[^6-1]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^6-2]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^6-3]: Repealed by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), with effect from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 ## Section 3 Measures relating to Contact Quarantine and Isolation
 
@@ -263,63 +255,70 @@ If entry for persons aged 16 and over is not restricted to persons with a certif
 
 In restaurants, bars and clubs in which food and drinks are consumed on the premises, the following applies:
 
-- a.
+- a. Access to indoor areas must be restricted to persons aged 16 and over with a certificate.
+- b. Access to outdoor areas may be restricted to persons aged 16 and over with a certificate; however, Article 15 paragraph 1<sup>bis</sup> is reserved. If access to outdoor areas is not restricted, either the required distance must be maintained between each group of guests or effective partitioning must be in place.[^12-1]
 
-  In indoor areas:
+<sup>2</sup> ...[^12-2]
 
-  - 1\. either the required distance must be maintained between individual groups of guests or effective partitioning must be in place;
-  - 2\. guests must be seated; in particular, persons consuming food and drinks in the restaurant area must be seated;
-  - 3\. guests must wear a face mask if they are not sitting at their table;
-  - 4\. operators must record the contact data of one person in each group of guests.
-
-- b. In outdoor areas either the required distance must be maintained between individual groups of guests or effective partitioning must be in place.
-
-<sup>2</sup> If entry for persons aged 16 and over is restricted to persons with a certificate, paragraph 1 does not apply.
-
-<sup>3</sup>
-
-In workplace canteens, only the following applies:
-
-- a. Persons consuming food and drinks in the restaurant area must be seated.
-- b. In indoor areas all guests must maintain the required distance from each other.
-- c. Only persons working in the business concerned may be served.
+<sup>3</sup> Workplace canteens, restaurants and food outlets in airport transit zones and social institutions, in particular those open to the public, may choose not to restrict entry to persons aged 16 and over with a certificate. However, in this case, they are required to have appropriate precautionary measures in place, such as requiring guests or groups of guests to maintain the required distance from each other and to remain seated while consuming food and drinks.[^12-3]
 
 <sup>4</sup> For discotheques and dance venues, only Article 13 applies.
 
+[^12-1]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^12-2]: Repealed by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), with effect from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^12-3]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+
 #### Art. 13
 
-**Special provisions for discotheques and dance venues and other businesses and establishments in the culture, entertainment, leisure and sport sectors in which entry is restricted to persons with a certificate**
+**Special provisions for discotheques and dance venues and other businesses and establishments in the culture, entertainment, leisure and sport sectors**[^13-1]
 
-<sup>1</sup> Discotheques and dance venues must restrict entry for persons aged 16 and over to those with a certificate.
+<sup>1</sup> Discotheques and dance venues must restrict entry for persons aged 16 and over to those with a certificate and record guests’ contact details.
 
-<sup>2</sup> In publicly accessible businesses and establishments in the culture, entertainment, leisure and sport sectors in which entry for persons aged 16 and over is restricted to those with a certificate, no restrictions apply in terms of this Ordinance other than the requirement to draw up and implement a precautionary measures plan in accordance with Article 10 paragraph 3.
+<sup>2</sup> Publicly accessible businesses and establishments in the culture, entertainment, leisure and sport sectors in which visitors do not only have access to outdoor areas must restrict entry for persons aged 16 and over to those with a certificate Article 20 is reserved.
+
+[^13-1]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542), [547](https://fedlex.data.admin.ch/eli/oc/2021/547)).
 
 #### Art. 14
 
-**Events where entry is not restricted to persons with a certificate**
+**Outdoor events where entry is not restricted to persons with a certificate**[^14-1]
 
 <sup>1</sup>
 
-The following applies to events where entry is not restricted to persons with a certificate:
+Entry to outdoor events may be extended to persons other than those aged 16 or older with a certificate if the following conditions are met:
 
 - a.
 
   the maximum number of persons, whether visitors or participants, is 1000; with regard to the foregoing, the following applies:
 
   - 1\. if visitors must be seated, a maximum of 1000 visitors may be allowed entry;
-  - 2\. if visitors are allowed to stand or if they may move freely around, a maximum of 250 visitors may be allowed entry to indoor areas and 500 visitors to outdoor areas.
+  - 2\. if visitors are allowed to stand or if they may move freely around, a maximum of 500 visitors may be allowed entry to outdoor areas.
 
-- b. Establishments may be occupied to a maximum of two-thirds of their capacity.
-- c. Holding events at which people dance is prohibited.
+- b. The establishment is occupied to a maximum of two thirds of its capacity.
+- c. The visitors do not dance.
 
-<sup>2</sup>
+<sup>2</sup> In the case of events involving family and friends (private events) with a maximum of 50 persons that take place outdoors but not in publicly accessible establishments and businesses, Article 4 alone applies; there is no requirement to draw up and implement a precautionary measures plan.
 
-The following applies in addition to paragraph 1 to events in indoor areas:
+[^14-1]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
-- a. The requirement to wear a face mask is governed by Article 6; the required distance must be maintained wherever possible.
-- b. The consumption of food and drinks is only permitted in restaurant-type establishments. It is permitted in seating areas outside a restaurant-type establishment, provided contact data is recorded.
+#### Art. 14a
 
-<sup>3</sup> In the case of events involving family members and friends (private events) that are not held in publicly accessible establishments or businesses, a maximum of 30 persons may attend indoor events and a maximum of 50 persons may attend outdoor events. Only Article 4 applies. The requirement to draw up and implement a precautionary measures plan does not apply.
+**Indoor events where entry is not restricted to persons with a certificate**[^14a-1]
+
+<sup>1</sup>
+
+Entry to indoor events may be extended to persons other than those aged 16 or older with a certificate if the following conditions are met:
+
+- a. the maximum number of persons, whether visitors or participants, is 30;
+- b. the event is held by an association or other permanent group whose members are known to the organiser;
+- c. the establishment is occupied to a maximum of two thirds of its capacity;
+- d. the requirement to wear a face mask under Article 6 is observed and the required distance is maintained wherever possible;
+- e. food and drink are not consumed.
+
+<sup>2</sup> For religious events, funerals, events relating to the usual activities and services of authorities, events relating to the formation of political opinion and meetings of established self-help groups for addiction and mental health issues, the provisions under paragraph 1 letters c–e apply; furthermore, the contact data of the persons present must be recorded. The maximum number of persons allowed, whether visitors or participants, is 50.
+
+<sup>3</sup> In the case of private events with a maximum of 30 persons that are not held in indoor areas of publicly accessible establishments or businesses, only Article 4 applies. The requirement to draw up and implement a precautionary measures plan does not apply.
+
+[^14a-1]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 #### Art. 15
 
@@ -327,7 +326,11 @@ The following applies in addition to paragraph 1 to events in indoor areas:
 
 <sup>1</sup> For events in which entry for persons aged 16 and over is restricted to those with a certificate, subject to paragraph 2 no restrictions apply in terms of this Ordinance other than the requirement to draw up and implement a precautionary measures plan in accordance with Article 10 paragraph 3.
 
+<sup>1bis</sup> For outdoor events in which entry for persons aged 16 and over is restricted to those with a certificate, this restriction also applies to the outdoor areas of restaurants, bars and clubs related to the event.[^15-1]
+
 <sup>2</sup> Article 16 and 17 apply to events with more than 1000 persons.
+
+[^15-1]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 #### Art. 16
 
@@ -370,12 +373,15 @@ The canton shall revoke authorisation or shall issue additional restrictions if:
 
 #### Art. 18
 
-**Special Provisions for trade and consumer fairs**
+**Special Provisions for trade and consumer fairs**[^18-1]
 
-Trade and consumer fairs must draw up and implement a precautionary measures plan in accordance with Article 10. In addition, the following applies:
+The following applies to trade and consumer fairs:
 
-- a. If more than 1000 persons are present on any day, whether they are visitors or participants, fairs require authorisation from the competent cantonal authority; the authorisation requirements and the requirements for revoking authorisation in Article 16 paragraphs 2, 4 and 5 apply.
-- b. If entry for persons aged 16 and over is restricted to those with a certificate, no restrictions apply in terms of this Ordinance other than the requirement to draw up and implement a precautionary measures plan and the authorisation requirement in accordance with letter a.
+- a. If the fair does not take place exclusively outdoors, access must be restricted to persons aged 16 or over with a certificate.
+- b. The organiser must draw up and implement a precautionary measures plan in accordance with Article 10.
+- c. If more than 1000 persons are present on any day, whether they are visitors or participants, the fair must be authorised by the competent cantonal authority; the authorisation requirements and the requirements for revoking authorisation in Article 16 paragraphs 2, 4 and 5 apply.
+
+[^18-1]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 #### Art. 19
 
@@ -395,27 +401,47 @@ Restrictions on numbers do not apply to the following events:
 
 [^19-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 
+#### Art. 19a
+
+**Special provisions for tertiary-level educational institutions**[^19a-1]
+
+<sup>1</sup> If the canton or tertiary-level educational institution restricts access to teaching and research activities in a Bachelor or Master degree course or a PhD programme to certificate holders, no further measures are required under this Ordinance other than the requirement to draw up and implement a precautionary measures plan in accordance with Article 10 paragraph 3.
+
+<sup>2</sup>
+
+If access to teaching and research activities pursuant to paragraph 1 are not restricted, the following applies:
+
+- a. Rooms may be occupied to a maximum of two thirds of their capacity.
+- b. The requirement to wear a mask is pursuant to Article 6; furthermore, the required social distance must be maintained where possible.
+
+[^19a-1]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+
 #### Art. 20
 
-**Special provisions for persons carrying out sports or cultural activities**
+**Special provisions for persons engaging in sports or cultural activities**
 
-The following applies to persons carrying out sports or cultural activities:
+The following applies to persons engaging in sports or cultural activities:
 
 - a. The requirements to wear a face mask and to maintain the required distance do not apply.
-- b. If the activities are carried out as part of events, Articles 14 and 15 apply with regard to the number of persons and capacity restrictions.
+- b.[^20-1] If the activities are engaged in as part of events, Articles 14 and 15 apply with regard to access, the number of persons and capacity restrictions.
 - c. A precautionary measures plan must be drawn up and implemented only if the activities are carried out in groups of more than 5 persons; in the case of persons who carry out activities in terms of their employment, the requirements in Article 25 apply.
-- d.
+- d.[^20-2]
 
   In the case of activities in indoor areas:
 
-  - 1\. contact data must be recorded unless the establishment or business concerned restricts entry for persons aged 16 and over to those with a certificate;
+  - 1\. for persons aged 16 and over entry must be restricted to those with a certificate; this does not apply to activities of an association or other permanent group involving a maximum 30 persons who are known to the organiser, which take place regularly and are held in a separate room, such as training sessions or rehearsals;
   - 2\. effective ventilation must be available.
+
+[^20-1]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^20-2]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 #### Art. 21
 
-**Special provisions for child and youth work**
+**Special provisions for child and youth work**[^21-1]
 
-In the case of the activities of organisations and institutions involved in public child and youth work involving children and young people born in 2001 or later, only the requirement to draw up and implement a precautionary measures plan in accordance with Article 10 applies. The precautionary measures plan shall indicate the permitted activities.
+In the case of the activities of organisations and institutions involved in public child and youth work involving persons under the age of 16, only the requirement to draw up and implement a precautionary measures plan in accordance with Article 10 applies. The precautionary measures plan shall indicate the permitted activities.
+
+[^21-1]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 #### Art. 22
 
@@ -465,9 +491,15 @@ The operator and organisers must:
 
 <sup>2</sup> Employers shall take further measures in accordance with the STOP Principle (Substitution, Technical measures, Organisational measures, Personal protective equipment), in particular the option of working from home, physical separation, separate teams, regular ventilation of rooms or wearing face masks.
 
-<sup>3</sup> For the protection of particularly vulnerable employees, Article 27*a* of COVID-19 Ordinance 3 of 19 June 2020[^25-1] also applies.
+<sup>2bis</sup> They are entitled to verify that their employees hold a certificate pursuant to Article 3 if this serves the purpose of ensuring appropriate precautionary measures or implementation of a testing plan pursuant to Article 7 paragraph 4. The result of such a verification may not be used for any other purpose.[^25-1]
 
-[^25-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+<sup>2ter</sup> If the employer chooses to verify that its employees hold a certificate pursuant to Article 2<sup>bis</sup>, this and any resulting measures must be recorded in writing. The employees or their representative body must be consulted in advance.[^25-2]
+
+<sup>3</sup> For the protection of particularly vulnerable employees, Article 27*a* of COVID-19 Ordinance 3 of 19 June 2020[^25-3] also applies.
+
+[^25-1]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^25-2]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^25-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 26
 
@@ -503,12 +535,22 @@ The cantons are required to report the following to the Coordinated Medical Serv
 
 Any person who commits any of the following acts shall be liable to a fine:
 
-- a. as an operator or organiser, wilfully or negligently failing to comply with any of the following provisions: Article 10 paragraphs 1–3, Article 12, 13 paragraph 1, 14 paragraphs 1 and 2, 15 paragraph 1, 17 paragraph 1 and 20;
+- a.[^28-1] as an operator or organiser, wilfully or negligently failing to comply with any of the following provisions: Article 10 paragraphs 1–3, Articles 12, 13, 14 paragraph 1, 14*a* paragraphs 1 and 2, 15 paragraphs 1 and 1<sup>bis</sup>, 17 paragraph 1, 18 letters a and b and 20;
 - b. as an operator or organiser, wilfully or negligently processing contact data recorded pursuant to Article 11 for other purposes in contravention of Article 11 paragraph 3 or retaining such details for longer than 14 days after the person or persons concerned participated in the event or visited the establishment or business;
-- c. wilfully holding an event involving more persons than are permitted under Article 14 paragraphs 1 letters a and b and 3;
-- d. wilfully holding a large-scale event under Article 16 paragraph 1 or a trade or consumer fair under Article 18 letter a without the required authorisation or in derogation from the approved precautionary measures plan;
-- e. wilfully or negligently failing to wear a face mask in contravention of Article 5 paragraph 1, 6 paragraph 1 or 14 paragraph 2 letter a in enclosed areas of public transport vehicles or in publicly accessible indoor and outdoor areas of businesses and establishments, unless an exception pursuant to Article 5 paragraph 1 or 6 paragraph 2 or 4 applies;
-- f. as a guest of a restaurant, bar or club, wilfully contravening the requirement to be seated in Article 12 paragraph 1 letter a number 2;
+- c.[^28-2] wilfully holding an event involving more persons than are permitted under Articles 14 paragraphs 1 letter a and 2; and 14*a* paragraphs 1 letter a, 2 and 3
+- d.[^28-3] wilfully holding a large-scale event under Article 16 paragraph 1 or a trade or consumer fair under Article 18 letter c without the required authorisation or in derogation from the approved precautionary measures plan;
+- e.[^28-4] wilfully or negligently failing to wear a face mask in contravention of Article 5 paragraph 1, 6 paragraph 1 or 14*a* paragraph 1 letter d in enclosed areas of public transport vehicles or in publicly accessible indoor and outdoor areas of businesses and establishments, unless an exception pursuant to Article 5 paragraph 1 or 6 paragraph 2 applies;
+- f. .[^28-5] ...
+- g.[^28-6] as a visitor of an outdoor event without restricted access, wilfully contravening the requirement to be seated in Article 14 paragraph 1 letter a number 1;
+- h.[^28-7] as a person aged 16 or over without a valid certificate pursuant to Article 3, wilfully obtaining access to an establishment, business or event for which such a certificate is required.
+
+[^28-1]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^28-2]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^28-3]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^28-4]: Amended by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^28-5]: Repealed by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), with effect from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^28-6]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^28-7]: Inserted by No I of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 ## Section 8 Updating the Annexes
 
@@ -548,11 +590,13 @@ Authorisations for pilot projects that have been granted on the basis of Article
 
 This Ordinance comes into force on 26 June 2021 at 00.00.
 
-Annex 1
+Annex 1*[^t-1]*
 
-(Art. 10 para. 4, 11 para. 1 and 29)
+(Arts 10 para. 4, 11 para. 1 and 29)
 
 ## Requirements for precautionary measures plans
+
+[^t-1]: Revised by No II of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 ### 1 Precautionary measures plans for publicly accessible establishments and businesses and for events to which entry for persons aged 16 and over is not restricted to those with a certificate
 
@@ -610,15 +654,26 @@ Annex 1
 The precautionary measures plan shall include measures related to:
 
 - a. the orderly and uninterrupted conduct of entry checks, including the training of staff;
+- a<sup>bis</sup>. checking the identity of persons during entry checks pursuant to letter a; suitable photo ID must be shown;
+- a<sup>ter</sup>.
+
+  recording personal data during entry checks pursuant to letter a; the following shall apply:
+
+  - 1\. The operator or organiser must inform the persons affected in advance that their data will be processed.
+  - 2\. The data may not be used for any other purpose.
+  - 3\. The data may only be retained if this is required for the purposes of the entry check; it must be destroyed no later than 12 hours after the end of the event.
+
 - b. the provision of information to visitors and participants on the requirement to have a certificate and on the applicable hygiene and social distancing measures;
 - c. hygiene, in particular the provision of disinfectant, regular cleaning, and ventilation;
 - d. a requirement to wear a face mask for staff and other persons working at the event who come into contact with visitors on the premises.
 
-Annex 2
+Annex 2*[^t-2]*
 
 (Art. 6 para. 5 and 6, 7 para. 2 and 3 and 29)
 
 ## Requirements for an exemption from the requirement to wear a mask and from contact quarantine for persons who have been vaccinated or who have recovered
+
+[^t-2]: Revised by No II of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 ### 1 Persons who have been vaccinated
 
@@ -634,7 +689,7 @@ Annex 2
 
 ### 2 Persons who have recovered
 
-The period during which residents of socio-medical institutions who have recovered are exempt from the requirement to wear a mask (Art. 6 para. 5 let. b) and persons who have recovered are exempt from contact quarantine (Art. 7 para. 2 let. b), amounts to 6 months from the 11th day following confirmation of the infection.
+The period during which residents of socio-medical institutions who have recovered are exempt from the requirement to wear a mask (Art. 6 para. 5 let. b) and persons who have recovered are exempt from contact quarantine (Art. 7 para. 2 let. b), begins on the 11th day following confirmation of the infection and continues for 6 months from the date the infection was confirmed.
 
 Annex 3
 
