@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2021-06-26
+version: 2021-09-13
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210626/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210626-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210626/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210913/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210913-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210913/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210626/fr"
 
 (OAO)
 
-du 16 janvier 2019 (Etat le 26 juin 2021)
+du 16 janvier 2019 (Etat le 13 septembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -594,7 +594,7 @@ Annexe 2*[^t-2]*
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe de l’O du 27 janv. 2021 (Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre), en vigueur jusqu’au 31 déc. 2021 ([RO 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), l’annexe 2 ch. 1 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 27 janv. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)) et l’annexe 3 ch. 1 de l’O COVID-19 du 23 juin 2021 situation particulière, en vigueur depuis le 26 juin 2021 ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379), [398](https://fedlex.data.admin.ch/eli/oc/2021/398)).
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe de l’O du 27 janv. 2021 (Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre), en vigueur jusqu’au 31 déc. 2021 ([RO 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), l’annexe 2 ch. 1 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 27 janv. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), l’annexe 3 ch. 1 de l’O COVID-19 du 23 juin 2021 situation particulière ([RO 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) et le ch. III de l’O du 8 sept. 2021 (Extension de l’utilisation du certificat COVID-19), en vigueur du 13 sept. 2021 au 24 janv. 2022 ([RO 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 ### Contraventions à d’autres actes normatifs
 
@@ -724,9 +724,11 @@ Annexe 2*[^t-2]*
 <tr><td>14003. Ne pas porter sur soi l’autorisation de pratiquer le commerce itinérant dans l’exercice de cette activité (art. 14, al. 1, let. f, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>20</td></tr>
 <tr><td>**XV.** **...**</td><td></td></tr>
 <tr><td>XVI. Ordonnance COVID-19 du 19 juin 2020 situation particulière**[^annex2-lvlu1-lvlu1-25]**</td><td>[tab]</td></tr>
-<tr><td>16001. Organisation d’une manifestation privée interdite (art. 28, let. c, en relation avec l’art. 14, al. 3, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 200</td></tr>
-<tr><td>16002. Infractions à l’obligation de porter un masque facial dans les véhicules des transports publics, dans les espaces clos accessibles au public des installations et des établissements, ou lors de manifestations (art. 28, let. e, en relation avec l’art. 5, al. 1, 6, al. 1, ou 14, al. 2, let. a, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
-<tr><td>16003. Infractions en tant que client à l’obligation de rester assis dans les établissements de restauration, les bars et les boîtes de nuit (art. 28, let. f, en relation avec l’art. 12, al. 1, let. a, ch. 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
+<tr><td>16001. Organisation d’une manifestation privée interdite (art. 28, let. c, en rel. avec les art. 14, al. 2, ou 14*a*, al. 3, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 200</td></tr>
+<tr><td>16002. Infractions à l’obligation de porter un masque facial dans les véhicules des transports publics, dans les espaces clos accessibles au public des installations et des établissements, ou lors de manifestations (art. 28, let. e, en rel. avec les art. 5, al. 1, 6, al. 1, ou 14*a*, al. 1, let. d, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
+<tr><td>16003. ...</td><td>[tab]</td></tr>
+<tr><td>16004. Infractions en tant que visiteur à l’obligation de s’asseoir dans les manifestations à l’extérieur sans restrictions d’accès (art. 28, let. g, en rel. avec l’art. 14, al. 1, let. a, ch. 1, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
+<tr><td>16005. Accès non autorisé sans certificat valide à un lieu ou à une manifestation pour lesquels les personnes de 16 ans et plus doivent disposer d’un tel certificat (art. 28, let. h, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
 <tr><td>**XVII.** **Loi du 28 septembre 2012 sur les épidémies (LEp)**[^annex2-lvlu1-lvlu1-26]**, en relation avec l’ordonnance COVID-19 du 27 janvier 2021 mesures dans** **le domaine du transport international de voyageurs**[^annex2-lvlu1-lvlu1-27]</td><td>[tab]</td></tr>
 <tr><td>17001. Ne pas fournir la preuve d’un résultat négatif à une analyse de biologie moléculaire pour le SARS-CoV-2 lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp, en relation avec l’art. 7, al. 1, de l’ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)</td><td>[tab] 200</td></tr>
 <tr><td>[tab] 17002. Fournir des coordonnées incomplètes ou erronées lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp et 3, al. 1 et 2, de l’ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)</td><td>[tab] 100</td></tr>

@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2021-06-26
+version: 2021-09-13
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210626/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210626-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210626/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210913/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210913-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210913/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210626/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 26. Juni 2021)
+vom 16. Januar 2019 (Stand am 13. September 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -600,7 +600,7 @@ Anhang 2*[^t-2]*
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft bis zum 31. Dez. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), Anhang 2 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)) und Anhang 3 Ziff. 1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021, in Kraft seit 26. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379), [398](https://fedlex.data.admin.ch/eli/oc/2021/398)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft bis zum 31. Dez. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), Anhang 2 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), Anhang 3 Ziff. 1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) und Ziff. III der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -730,15 +730,11 @@ Anhang 2*[^t-2]*
 <tr><td>14003. Nichtmitführen der Bewilligung bei der Ausübung des Reisendengewerbes (Art. 14 Abs. 1 Bst. f und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 20</td></tr>
 <tr><td>XV. ...</td><td></td></tr>
 <tr><td>XVI. Covid-19-Verordnung besondere Lage vom 23. Juni 2021**[^annex2-lvlu1-lvlu1-25]**</td><td></td></tr>
-<tr><td>16001. Durchführung einer unzulässigen privaten Veranstaltung (Art. 28 Bst. c i.V.m. Art. 14 Abs. 3 Covid-19-Verordnung besondere Lage)</td><td>[tab] 200</td></tr>
-<tr><td>16002. Unbefugtes Nichttragen einer Gesichtsmaske in geschlossenen Bereichen von Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen von Einrichtungen und Betrieben oder an Veranstaltungen (Art. 28 Bst. e i.V.m. Art. 5 Abs. 1, 6 Abs. 1 oder 14 Abs. 2 Bst. a Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
-<tr><td>16003. Verstoss als Gast gegen die Sitzpflicht in Restaurations-, Bar- und Clubbetrieben (Art. 28 Bst. f i.V.m. Art. 12 Abs. 1 Bst. a Ziff. 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
-<tr><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>16001. Durchführung einer unzulässigen privaten Veranstaltung (Art. 28 Bst. c i.V.m. Art. 14 Abs. 2 oder 14*a* Abs. 3 Covid-19-Verordnung besondere Lage)</td><td>[tab] 200</td></tr>
+<tr><td>16002. Unbefugtes Nichttragen einer Gesichtsmaske in geschlossenen Bereichen von Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen von Einrichtungen und Betrieben oder an Veranstaltungen (Art. 28 Bst. e i.V.m. Art. 5 Abs. 1, 6 Abs. 1 oder 14*a* Abs. 1 Bst. d Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
+<tr><td>16003. ...</td><td>[tab]</td></tr>
+<tr><td>16004. Verstoss als Besucherin oder Besucher gegen die Sitzpflicht bei Veranstaltungen im Freien ohne Zugangsbeschränkung (Art. 28 Bst. g i.V.m. Art. 14 Abs. 1 Bst. a Ziff. 1 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
+<tr><td>16005. Unberechtigter Zutritt ohne gültiges Zertifikat zu einer Örtlichkeit oder Veranstaltung, für den für Personen ab 16 Jahren ein solches Zertifikat verlangt wird (Art. 28 Bst. h Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
 <tr><td>**XVII.** **Epidemiengesetz vom 28. September 2012**[^annex2-lvlu1-lvlu1-26] **(EpG) i.V.m.** **Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Januar 2021**[^annex2-lvlu1-lvlu1-27]</td><td>[tab]</td></tr>
 <tr><td>17001. Fehlender Nachweis einer molekularbiologischen Analyse auf Sars-Cov-2 mit negativem Ergebnis bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG i.V.m. Art. 7 Abs. 1 Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)</td><td>[tab] 200</td></tr>
 <tr><td>[tab] 17002. Fehlende oder falsche Angaben der Kontaktdaten bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG und Art. 3 Abs. 1 und 2 Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)</td><td>[tab] 100</td></tr>
