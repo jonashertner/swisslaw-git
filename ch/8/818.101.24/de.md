@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-09-01
+version: 2021-09-13
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210913/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210913-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210913/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210901/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 1. September 2021)
+vom 19. Juni 2020 (Stand am 13. September 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -721,7 +721,7 @@ Anhang 1*[^t-1]*
 
 ## Liste der Risikoländer und -regionen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 28. Juli 2021, in Kraft seit 2. Aug. 2021 ([AS 2021 462](https://fedlex.data.admin.ch/eli/oc/2021/462)).
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 7. Sept. 2021, in Kraft seit 13. Sept. 2021 ([AS 2021 548](https://fedlex.data.admin.ch/eli/oc/2021/548)).
 
 ### 1. Risikoländer und -regionen (Art. 3 Abs. 2 Bst. a)
 
@@ -738,21 +738,16 @@ Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Heiliger Stuhl
 - – Hongkong
 - – Irland
-- – Israel
 - – Japan
 - – Jordanien
 - – Kanada
 - – Katar
 - – Korea (Süd-)
-- – Kosovo
 - – Kroatien
-- – Libanon
 - – Macau
 - – Moldova
 - – Monaco
-- – Montenegro
 - – Neuseeland
-- – Nordmazedonien
 - – Rumänien
 - – San Marino
 - – Saudi-Arabien
@@ -760,7 +755,6 @@ Alle Staaten und Regionen ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Singapur
 - – Taiwan
 - – Ukraine
-- – Vereinigte Staaten
 - – Zypern
 
 ### 2. Risikoländer und -regionen mit einer Variante des Virus Sars-CoV-2, von der im Vergleich zu der im Schengen-Raum verbreiteten Virusvariante eine höhere Gefahr der Ansteckung oder eines schweren Krankheitsverlaufs ausgeht (Art. 3 Abs. 2 Bst. b)

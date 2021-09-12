@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-09-01
+version: 2021-09-13
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210913/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210913-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210913/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210901/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 1<sup>er</sup> septembre 2021)
+du 19 juin 2020 (Etat le 13 septembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -721,7 +721,7 @@ Annexe 1*[^t-1]*
 
 ## Liste des pays et régions à risque
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 28 juill. 2021, en vigueur depuis le 2 août 2021 ([RO 2021 462](https://fedlex.data.admin.ch/eli/oc/2021/462)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 7 sept. 2021, en vigueur depuis le 13 sept. 2021 ([RO 2021 548](https://fedlex.data.admin.ch/eli/oc/2021/548)).
 
 ### 1. Liste des pays et régions à risque (art. 3, al. 2, let. a)
 
@@ -740,19 +740,13 @@ Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 - – Chypre
 - – Corée (Sud)
 - – Croatie
-- – États-Unis
 - – Hong Kong
 - – Irlande
-- – Israël
 - – Japon
 - – Jordanie
-- – Kosovo
-- – Liban
 - – Macao
-- – Macédoine du Nord
 - – Moldova
 - – Monaco
-- – Monténégro
 - – Nouvelle-Zélande
 - – Qatar
 - – Roumanie
