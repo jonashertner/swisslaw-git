@@ -3,11 +3,11 @@ sr: "0.311.56"
 title: Übereinkommen vom 31. Oktober 2003 der Vereinten Nationen gegen Korruption
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/666"
 language: de
-version: 2018-08-03
+version: 2021-09-13
 adopted: 2003-10-31
 in_force: 2009-10-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/666/20180803/de/xml/fedlex-data-admin-ch-eli-cc-2009-666-20180803-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/666/20180803/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/666/20210913/de/xml/fedlex-data-admin-ch-eli-cc-2009-666-20210913-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/666/20210913/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2009** 5467; BBl **2007** 7349
 
 Abgeschlossen in New York am 31. Oktober 2003 Von der Bundesversammlung genehmigt am 20. März 2009[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 24. September 2009 In Kraft getreten für die Schweiz am 24. Oktober 2009
 
-(Stand am 3. August 2018)
+(Stand am 13. September 2021)
 
 [^t-1]: [AS 2009 5465](https://fedlex.data.admin.ch/eli/oc/2009/665)
 
@@ -1184,7 +1184,7 @@ Das Sekretariat:
 
 *Z**u* *U**rkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 3. August 2018**[^t-2]**
+Geltungsbereich am 13. September 2021**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1198,7 +1198,7 @@ Geltungsbereich am 3. August 2018**[^t-2]**
 <tr><td>Argentinien</td><td>28. August</td><td>2006</td><td>27. September</td><td>2006</td></tr>
 <tr><td>Armenien</td><td>8. März</td><td>2007 B</td><td>7. April</td><td>2007</td></tr>
 <tr><td>Aserbaidschan\*</td><td>1. November</td><td>2005</td><td>1. Dezember</td><td>2005</td></tr>
-<tr><td>Äthiopien\*</td><td>26. November</td><td>2007</td><td>26. Dezember</td><td>2007</td></tr>
+<tr><td>Äthiopien</td><td>26. November</td><td>2007</td><td>26. Dezember</td><td>2007</td></tr>
 <tr><td>Australien</td><td>7. Dezember</td><td>2005</td><td>6. Januar</td><td>2006</td></tr>
 <tr><td>Bahamas\*</td><td>10. Januar</td><td>2008 B</td><td>9. Februar</td><td>2008</td></tr>
 <tr><td>Bahrain\*</td><td>5. Oktober</td><td>2010</td><td>4. November</td><td>2010</td></tr>
@@ -1231,6 +1231,7 @@ Geltungsbereich am 3. August 2018**[^t-2]**
 <tr><td>Ecuador</td><td>15. September</td><td>2005</td><td>14. Dezember</td><td>2005</td></tr>
 <tr><td>El Salvador\*</td><td>1. Juli</td><td>2004</td><td>14. Dezember</td><td>2005</td></tr>
 <tr><td>Estland</td><td>12. April</td><td>2010 B</td><td>12. Mai</td><td>2010</td></tr>
+<tr><td>Eswatini</td><td>24. September</td><td>2012</td><td>24. Oktober</td><td>2012</td></tr>
 <tr><td>Europäische Union\*</td><td>12. November</td><td>2008</td><td>12. Dezember</td><td>2008</td></tr>
 <tr><td>Fidschi</td><td>14. Mai</td><td>2008 B</td><td>13. Juni</td><td>2008</td></tr>
 <tr><td>Finnland</td><td>20. Juni</td><td>2006</td><td>20. Juli</td><td>2006</td></tr>
@@ -1296,7 +1297,6 @@ Geltungsbereich am 3. August 2018**[^t-2]**
 <tr><td>Marshallinseln</td><td>17. November</td><td>2011 B</td><td>17. Dezember</td><td>2011</td></tr>
 <tr><td>Mauretanien</td><td>25. Oktober</td><td>2006 B</td><td>24. November</td><td>2006</td></tr>
 <tr><td>Mauritius</td><td>15. Dezember</td><td>2004</td><td>14. Dezember</td><td>2005</td></tr>
-<tr><td>Mazedonien</td><td>13. April</td><td>2007</td><td>13. Mai</td><td>2007</td></tr>
 <tr><td>Mexiko</td><td>20. Juli</td><td>2004</td><td>14. Dezember</td><td>2005</td></tr>
 <tr><td>Mikronesien</td><td>21. März</td><td>2012 B</td><td>20. April</td><td>2012</td></tr>
 <tr><td>Moldau\*</td><td>1. Oktober</td><td>2007</td><td>31. Oktober</td><td>2007</td></tr>
@@ -1314,6 +1314,7 @@ Geltungsbereich am 3. August 2018**[^t-2]**
 <tr><td>Niger</td><td>11. August</td><td>2008 B</td><td>10. September</td><td>2008</td></tr>
 <tr><td>Nigeria</td><td>14. Dezember</td><td>2004</td><td>14. Dezember</td><td>2005</td></tr>
 <tr><td>Niue</td><td>3. Oktober</td><td>2017 B</td><td>2. November</td><td>2017</td></tr>
+<tr><td>Nordmazedonien</td><td>13. April</td><td>2007</td><td>13. Mai</td><td>2007</td></tr>
 <tr><td>Norwegen</td><td>29. Juni</td><td>2006</td><td>29. Juli</td><td>2006</td></tr>
 <tr><td>Oman</td><td>9. Januar</td><td>2014 B</td><td>8. Februar</td><td>2014</td></tr>
 <tr><td>Österreich</td><td>11. Januar</td><td>2006</td><td>10. Februar</td><td>2006</td></tr>
@@ -1345,18 +1346,19 @@ Geltungsbereich am 3. August 2018**[^t-2]**
 <tr><td>Singapur\*</td><td>6. November</td><td>2009</td><td>6. Dezember</td><td>2009</td></tr>
 <tr><td>Slowakei</td><td>1. Juni</td><td>2006</td><td>1. Juli</td><td>2006</td></tr>
 <tr><td>Slowenien</td><td>1. April</td><td>2008 B</td><td>1. Mai</td><td>2008</td></tr>
+<tr><td>Somalia</td><td>11. August</td><td>2021 B</td><td>10. September</td><td>2021</td></tr>
 <tr><td>Spanien\*</td><td>19. Juni</td><td>2006</td><td>19. Juli</td><td>2006</td></tr>
 <tr><td>Sri Lanka</td><td>31. März</td><td>2004</td><td>14. Dezember</td><td>2005</td></tr>
 <tr><td>St. Lucia</td><td>18. November</td><td>2011 B</td><td>18. Dezember</td><td>2011</td></tr>
 <tr><td>Südafrika\*</td><td>22. November</td><td>2004</td><td>14. Dezember</td><td>2005</td></tr>
 <tr><td>Sudan</td><td>5. September</td><td>2014</td><td>5. Oktober</td><td>2014</td></tr>
 <tr><td>Südsudan</td><td>23. Januar</td><td>2015 B</td><td>22. Februar</td><td>2015</td></tr>
-<tr><td>Swasiland</td><td>24. September</td><td>2012</td><td>24. Oktober</td><td>2012</td></tr>
 <tr><td>Tadschikistan</td><td>25. September</td><td>2006 B</td><td>25. Oktober</td><td>2006</td></tr>
 <tr><td>Tansania</td><td>25. Mai</td><td>2005</td><td>14. Dezember</td><td>2005</td></tr>
 <tr><td>Thailand\*</td><td>1. März</td><td>2011</td><td>31. März</td><td>2011</td></tr>
 <tr><td>Timor-Leste</td><td>27. März</td><td>2009</td><td>26. April</td><td>2009</td></tr>
 <tr><td>Togo</td><td>6. Juli</td><td>2005</td><td>14. Dezember</td><td>2005</td></tr>
+<tr><td>Tonga</td><td>6. Februar</td><td>2020 B</td><td>7. März</td><td>2020</td></tr>
 <tr><td>Trinidad und Tobago</td><td>31. Mai</td><td>2006</td><td>30. Juni</td><td>2006</td></tr>
 <tr><td>Tschad</td><td>26. Juni</td><td>2018 B</td><td>26. Juli</td><td>2018</td></tr>
 <tr><td>Tschechische Republik</td><td>29. November</td><td>2013</td><td>29. Dezember</td><td>2013</td></tr>
@@ -1379,13 +1381,14 @@ Geltungsbereich am 3. August 2018**[^t-2]**
 <tr><td>Guernsey</td><td>9. November</td><td>2009</td><td>9. November</td><td>2009</td></tr>
 <tr><td>Insel Man</td><td>9. November</td><td>2009</td><td>9. November</td><td>2009</td></tr>
 <tr><td>Jersey</td><td>9. November</td><td>2009</td><td>9. November</td><td>2009</td></tr>
+<tr><td>Kaimaninseln</td><td>14. Dezember</td><td>2020</td><td>14. Dezember</td><td>2020</td></tr>
 <tr><td>Vietnam\*</td><td>19. August</td><td>2009</td><td>18. September</td><td>2009</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>6. Oktober</td><td>2006</td><td>5. November</td><td>2006</td></tr>
 <tr><td>Zypern</td><td>23. Februar</td><td>2009</td><td>25. März</td><td>2009</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. (Die Erklärungen der Vertragsstaaten gemäss Artikel 6 Absatz 3, 44 Absatz 6 Buchstabe a und 46 Absatz 13 und 14, sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt). \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. (Die Erklärungen der Vertragsstaaten gemäss Artikel 6 Absatz 3, 44 Absatz 6 Buchstabe a und 46 Absatz 13 und 14, sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt). \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2009 5467](https://fedlex.data.admin.ch/eli/oc/2009/666), [2010 87](https://fedlex.data.admin.ch/eli/oc/2010/26), [2012 903](https://fedlex.data.admin.ch/eli/oc/2012/147), [2013 1269](https://fedlex.data.admin.ch/eli/oc/2013/284), [2014 1193](https://fedlex.data.admin.ch/eli/oc/2014/250), [2017 2891](https://fedlex.data.admin.ch/eli/oc/2017/298), [2018 3001](https://fedlex.data.admin.ch/eli/oc/2018/462). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2009 5467](https://fedlex.data.admin.ch/eli/oc/2009/666); [2010 87](https://fedlex.data.admin.ch/eli/oc/2010/26); [2012 903](https://fedlex.data.admin.ch/eli/oc/2012/147); [2013 1269](https://fedlex.data.admin.ch/eli/oc/2013/284); [2014 1193](https://fedlex.data.admin.ch/eli/oc/2014/250); [2017 2891](https://fedlex.data.admin.ch/eli/oc/2017/298); [2018 3001](https://fedlex.data.admin.ch/eli/oc/2018/462); [2021 556](https://fedlex.data.admin.ch/eli/oc/2021/556). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.
 
 Erklärungen der Schweiz
 

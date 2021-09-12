@@ -3,11 +3,11 @@ sr: "0.311.56"
 title: Convenzione del 31 ottobre 2003 delle Nazioni Unite contro la corruzione
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/666"
 language: it
-version: 2018-08-03
+version: 2021-09-13
 adopted: 2003-10-31
 in_force: 2009-10-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/666/20180803/it/xml/fedlex-data-admin-ch-eli-cc-2009-666-20180803-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/666/20180803/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/666/20210913/it/xml/fedlex-data-admin-ch-eli-cc-2009-666-20210913-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/666/20210913/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di ratifica depositato dalla Svizzera il 24 settembre 2009
 
 Entrata in vigore per la Svizzera il 24 ottobre 2009
 
-(Stato 3 agosto 2018)
+(Stato 13 settembre 2021)
 
 [^t-1]: [RU 2009 5465](https://fedlex.data.admin.ch/eli/oc/2009/665)
 
@@ -1154,7 +1154,7 @@ La segreteria:
 
 *In fede di che,* i sottoscritti plenipotenziari, debitamente autorizzati dai loro rispettivi governi, hanno firmato la presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 3 agosto 2018**[^t-2]**
+Campo d’applicazione il 13 settembre 2021**[^t-2]**
 
 <table>
 <tr><th>Stati Parte</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1213,7 +1213,8 @@ Campo d’applicazione il 3 agosto 2018**[^t-2]**
 <tr><td>El Salvador\*</td><td>1° luglio</td><td>2004</td><td>14 dicembre</td><td>2005</td></tr>
 <tr><td>Emirati Arabi Uniti\*</td><td>22 febbraio</td><td>2006</td><td>24 marzo</td><td>2006</td></tr>
 <tr><td>Estonia</td><td>12 aprile</td><td>2010 A</td><td>12 maggio</td><td>2010</td></tr>
-<tr><td>Etiopia\*</td><td>26 novembre</td><td>2007</td><td>26 dicembre</td><td>2007</td></tr>
+<tr><td>Eswatini</td><td>24 settembre</td><td>2012</td><td>24 ottobre</td><td>2012</td></tr>
+<tr><td>Etiopia</td><td>26 novembre</td><td>2007</td><td>26 dicembre</td><td>2007</td></tr>
 <tr><td>Figi</td><td>14 maggio</td><td>2008 A</td><td>13 giugno</td><td>2008</td></tr>
 <tr><td>Filippine</td><td>8 novembre</td><td>2006</td><td>8 dicembre</td><td>2006</td></tr>
 <tr><td>Finlandia</td><td>20 giugno</td><td>2006</td><td>20 luglio</td><td>2006</td></tr>
@@ -1258,7 +1259,7 @@ Campo d’applicazione il 3 agosto 2018**[^t-2]**
 <tr><td>Liechtenstein</td><td>8 luglio</td><td>2010</td><td>7 agosto</td><td>2010</td></tr>
 <tr><td>Lituania</td><td>21 dicembre</td><td>2006</td><td>20 gennaio</td><td>2007</td></tr>
 <tr><td>Lussemburgo</td><td>6 novembre</td><td>2007</td><td>6 dicembre</td><td>2007</td></tr>
-<tr><td>Macedonia</td><td>13 aprile</td><td>2007</td><td>13 maggio</td><td>2007</td></tr>
+<tr><td>Macedonia del Nord</td><td>13 aprile</td><td>2007</td><td>13 maggio</td><td>2007</td></tr>
 <tr><td>Madagascar</td><td>22 settembre</td><td>2004</td><td>14 dicembre</td><td>2005</td></tr>
 <tr><td>Malawi</td><td>4 dicembre</td><td>2007</td><td>3 gennaio</td><td>2008</td></tr>
 <tr><td>Maldive</td><td>22 marzo</td><td>2007 A</td><td>21 aprile</td><td>2007</td></tr>
@@ -1301,6 +1302,7 @@ Campo d’applicazione il 3 agosto 2018**[^t-2]**
 <tr><td>Regno Unito\*\*</td><td>9 febbraio</td><td>2006</td><td>11 marzo</td><td>2006</td></tr>
 <tr><td>Bermuda</td><td>4 giugno</td><td>2018</td><td>4 giugno</td><td>2018</td></tr>
 <tr><td>Guernesey</td><td>9 novembre</td><td>2009</td><td>9 novembre</td><td>2009</td></tr>
+<tr><td>Isole Caimane</td><td>14 dicembre</td><td>2020</td><td>14 dicembre</td><td>2020</td></tr>
 <tr><td>Isole vergini britanniche</td><td>12 ottobre</td><td>2006</td><td>12 ottobre</td><td>2006</td></tr>
 <tr><td>Jersey</td><td>9 novembre</td><td>2009</td><td>9 novembre</td><td>2009</td></tr>
 <tr><td>Man, Isola di</td><td>9 novembre</td><td>2009</td><td>9 novembre</td><td>2009</td></tr>
@@ -1321,6 +1323,7 @@ Campo d’applicazione il 3 agosto 2018**[^t-2]**
 <tr><td>Singapore\*</td><td>6 novembre</td><td>2009</td><td>6 dicembre</td><td>2009</td></tr>
 <tr><td>Slovacchia</td><td>1° giugno</td><td>2006</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Slovenia</td><td>1° aprile</td><td>2008 A</td><td>1° maggio</td><td>2008</td></tr>
+<tr><td>Somalia</td><td>11 agosto</td><td>2021 A</td><td>10 settembre</td><td>2021</td></tr>
 <tr><td>Spagna\*</td><td>19 giugno</td><td>2006</td><td>19 luglio</td><td>2006</td></tr>
 <tr><td>Sri Lanka</td><td>31 marzo</td><td>2004</td><td>14 dicembre</td><td>2005</td></tr>
 <tr><td>Stati Uniti\*</td><td>30 ottobre</td><td>2006</td><td>30 novembre</td><td>2006</td></tr>
@@ -1329,12 +1332,12 @@ Campo d’applicazione il 3 agosto 2018**[^t-2]**
 <tr><td>Sudan del Sud</td><td>23 gennaio</td><td>2015 A</td><td>22 febbraio</td><td>2015</td></tr>
 <tr><td>Svezia</td><td>25 settembre</td><td>2007</td><td>25 ottobre</td><td>2007</td></tr>
 <tr><td>Svizzera</td><td>24 settembre</td><td>2009</td><td>24 ottobre</td><td>2009</td></tr>
-<tr><td>Swaziland</td><td>24 settembre</td><td>2012</td><td>24 ottobre</td><td>2012</td></tr>
 <tr><td>Tagikistan</td><td>25 settembre</td><td>2006 A</td><td>25 ottobre</td><td>2006</td></tr>
 <tr><td>Tanzania</td><td>25 maggio</td><td>2005</td><td>14 dicembre</td><td>2005</td></tr>
 <tr><td>Thailandia\*</td><td>1° marzo</td><td>2011</td><td>31 marzo</td><td>2011</td></tr>
 <tr><td>Timor Est</td><td>27 marzo</td><td>2009</td><td>26 aprile</td><td>2009</td></tr>
 <tr><td>Togo</td><td>6 luglio</td><td>2005</td><td>14 dicembre</td><td>2005</td></tr>
+<tr><td>Tonga</td><td>6 febbraio</td><td>2020 A</td><td>7 marzo</td><td>2020</td></tr>
 <tr><td>Trinidad e Tobago</td><td>31 maggio</td><td>2006</td><td>30 giugno</td><td>2006</td></tr>
 <tr><td>Tunisia\*</td><td>23 settembre</td><td>2008</td><td>23 ottobre</td><td>2008</td></tr>
 <tr><td>Turchia</td><td>9 novembre</td><td>2006</td><td>9 dicembre</td><td>2006</td></tr>
@@ -1352,10 +1355,10 @@ Campo d’applicazione il 3 agosto 2018**[^t-2]**
 <tr><td>Yemen\*</td><td>7 novembre</td><td>2005</td><td>14 dicembre</td><td>2005</td></tr>
 <tr><td>Zambia</td><td>7 dicembre</td><td>2007</td><td>6 gennaio</td><td>2008</td></tr>
 <tr><td>Zimbabwe</td><td>8 marzo</td><td>2007</td><td>7 aprile</td><td>2007</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. (Gli \* del campo d’applicazione di cui sopra non comprendono le dichiarazioni degli Stati Parte concernenti gli art. 6 par. 3, 44 par. 6 lett. a e 46 par. 13 e 14). Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faroe né alla Groenlandia. <sup>b</sup> La Conv. non si applica a Tokelau. <sup>c</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. (Gli \* del campo d’applicazione di cui sopra non comprendono le dichiarazioni degli Stati Parte concernenti gli art. 6 par. 3, 44 par. 6 lett. a e 46 par. 13 e 14). Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faroe né alla Groenlandia. <sup>b</sup> La Conv. non si applica a Tokelau. <sup>c</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2009 5467](https://fedlex.data.admin.ch/eli/oc/2009/666), [2010 87](https://fedlex.data.admin.ch/eli/oc/2010/26), [2012 903](https://fedlex.data.admin.ch/eli/oc/2012/147), [2013 1269](https://fedlex.data.admin.ch/eli/oc/2013/284), [2014 1193](https://fedlex.data.admin.ch/eli/oc/2014/250), [2017 2891](https://fedlex.data.admin.ch/eli/oc/2017/298)e [2018 3001](https://fedlex.data.admin.ch/eli/oc/2018/462). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2009 5467](https://fedlex.data.admin.ch/eli/oc/2009/666); [2010 87](https://fedlex.data.admin.ch/eli/oc/2010/26); [2012 903](https://fedlex.data.admin.ch/eli/oc/2012/147); [2013 1269](https://fedlex.data.admin.ch/eli/oc/2013/284); [2014 1193](https://fedlex.data.admin.ch/eli/oc/2014/250); [2017 2891](https://fedlex.data.admin.ch/eli/oc/2017/298); [2018 3001](https://fedlex.data.admin.ch/eli/oc/2018/462); [2021 556](https://fedlex.data.admin.ch/eli/oc/2021/556). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
 
 Dichiarazioni della Svizzera
 
