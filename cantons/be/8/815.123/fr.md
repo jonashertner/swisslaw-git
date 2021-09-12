@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-08-26
-valid_until: 2021-09-12
-version_adopted: 2021-08-25
+version: 2021-09-13
+valid_until: 2021-09-24
+version_adopted: 2021-09-15
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2354/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2373/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2354/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 26.08.2021)
+du 04.11.2020 (état au 13.09.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 31, alinéa 1, 33, 40, alinéas 1 et 2, 58 et 59 de la loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l’homme (loi sur les épidémies, LEp)[^ingress-1], les articles 2, 22, 23 et 24, alinéas 2 et 3 de l'ordonnance fédérale du 23 juin 2021 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière)[^ingress-2], ainsi que l'article 25, alinéas 1 et 2 de l'ordonnance fédérale 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (ordonnance 3 COVID-19)[^ingress-3],
+vu les articles 31, alinéa 1, 33, 40, alinéas 1 et 2, 58 et 59 de la loi fédérale du 28 septembre 2012 sur la lutte contre les maladies transmissibles de l’homme (loi sur les épidémies, LEp)[^ingress-1], les articles 2, 19a, 22, 23 et 24, alinéas 2 et 3 de l'ordonnance fédérale du 23 juin 2021 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière)[^ingress-2], ainsi que l'article 25, alinéas 1 et 2 de l'ordonnance fédérale 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (ordonnance 3 COVID-19)[^ingress-3],
 
 sur proposition de la Chancellerie d'Etat,
 
@@ -45,7 +45,7 @@ arrête:
 
 ## 2 Mesures cantonales
 
-### 2.1 Etablissements de restauration, bars et boîtes de nuit
+### 2.1 Collecte des coordonnées
 
 #### Art. 2–2a
 
@@ -55,7 +55,7 @@ arrête:
 
 **Coordonnées de la clientèle**
 
-<sup>1</sup> La collecte de coordonnées dans les établissements de restauration, les bars et les boîtes de nuit est régie par l’ordonnance COVID-19 situation particulière.
+<sup>1</sup> La collecte de coordonnées est régie par l’ordonnance COVID-19 situation particulière.
 
 <sup>2</sup> Les coordonnées suivantes doivent être collectées:
 
@@ -69,6 +69,8 @@ arrête:
 
 <sup>4</sup> La transmission au sens de l'alinéa 3 doit être automatique ou intervenir au moins une fois dans les 24 heures. Par ailleurs, la Direction de la santé, des affaires sociales et de l’intégration détermine la forme de la transmission.
 
+<sup>5</sup> L'obligation au titre de l'alinéa 3 ne s'applique pas à la collecte des coordonnées au sens de l'article 14a, alinéa 2 de l'ordonnance COVID-19 situation particulière.
+
 #### Art. 3a
 
 **Base de données centrale**
@@ -79,7 +81,7 @@ arrête:
 
 #### Art. 3b
 
-**Traitement des coordonées**
+**Traitement des coordonnées**
 
 <sup>1</sup> Les coordonnées collectées ne doivent être traitées à aucune autre fin que celle du traçage des contacts au sens de l'article 3a, alinéa 2.
 
@@ -117,7 +119,7 @@ arrête:
 
 **Coordonnées du personnel de l'établissement**
 
-<sup>1</sup> Les exploitants et exploitantes d'établissements de restauration, de bars et de boîtes de nuit sont tenus de recenser les personnes qui travaillent dans leur établissement respectif.
+<sup>1</sup> Les exploitants et exploitantes d'établissements soumis à l'obligation de collecter les coordonnées sont tenus de recenser les personnes qui travaillent dans leur établissement respectif.
 
 <sup>2</sup> Les coordonnées doivent être conservées dans une liste électronique ordonnée indiquant les heures de présence dans l'établissement et regroupées par jour.
 
@@ -129,17 +131,7 @@ arrête:
 
 ### 2.2 Manifestations
 
-#### Art. 6–6a
-
-**…**
-
-#### Art. 6b
-
-**Coordonnées des visiteurs et visiteuses**
-
-<sup>1</sup> L'article 3 s'applique par analogie à la collecte des coordonnées des visiteurs et visiteuses de manifestations, dans la mesure où il y est possible de consommer comme dans un établissement de restauration.
-
-#### Art. 7–8
+#### Art. 6–8
 
 **…**
 
@@ -154,6 +146,27 @@ arrête:
 #### Art. 9–12
 
 **…**
+
+#### Art. 12a
+
+**Obligation de porter un masque**
+
+<sup>1</sup> En complément de l'article 6 de l'ordonnance COVID-19 situation particulière, toute personne est tenue de porter un masque dans tous les espaces clos des écoles.
+
+<sup>2</sup> Cette obligation s’applique aux écoles visées par la législation sur les écoles moyennes et la législation sur la formation professionnelle, la formation continue et l’orientation professionnelle.
+
+<sup>3</sup> Cette obligation ne vaut pas pour
+
+- a les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales, pour autant que d’autres mesures de protection appropriées soient prises;
+- b toutes les personnes se trouvant dans une situation dans laquelle le port d'un masque facial entrave considérablement l’enseignement, pour autant que d’autres mesures de protection appropriées soient prises.
+
+#### Art. 12b
+
+**Obligation de présenter un certificat**
+
+<sup>1</sup> En vertu de la législation sur l'université, de la législation sur la Haute Ecole spécialisée bernoise et de la législation sur la Haute Ecole pédagogique germanophone, les hautes écoles sont compétentes pour limiter l'accès aux activités d'enseignement et de recherche conformément à l'article 19a de l'ordonnance COVID-19 situation particulière.
+
+<sup>2</sup> L'Université de Berne, la Haute Ecole spécialisée bernoise et la Haute Ecole pédagogique de Berne sont habilitées à enregistrer les nom, prénom et date de naissance ainsi que la date d'expiration du certificat afin d'éviter des vérifications répétées. Ces données doivent être supprimées immédiatement à l'expiration du certificat.
 
 ### 2.4
 
@@ -430,7 +443,7 @@ arrête:
 
 <sup>2b</sup> L'article 6a est valable jusqu'au 31 mai 2021.
 
-<sup>2c</sup> Les articles 3 à 5, 6b et 16d à 16h sont valables jusqu'au 30 septembre 2021.
+<sup>2c</sup> Les articles 3 à 5, 12a, 12b et 16d à 16h sont valables jusqu'au 24 janvier 2022.
 
 <sup>2d</sup> …
 
@@ -453,6 +466,14 @@ arrête:
 **Base de données centrale**
 
 <sup>1</sup> La modification de l'article 3 ainsi que les articles 3a à 3d sont applicables à partir du 10 mai 2021.
+
+## T2 Disposition transitoire de la modification du 15.09.2021
+
+#### Art. T2-1
+
+**Obligation de porter un masque**
+
+<sup>1</sup> La modification de l'article 12a est applicable à partir du 20 septembre 2021.
 
 Berne, le 4 novembre 2020
 

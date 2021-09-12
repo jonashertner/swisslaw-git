@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-08-26
-valid_until: 2021-09-12
-version_adopted: 2021-08-25
+version: 2021-09-13
+valid_until: 2021-09-24
+version_adopted: 2021-09-15
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2354/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2373/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2354/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 26.08.2021)
+vom 04.11.2020 (Stand 13.09.2021)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 31 Absatz 1, Artikel 33, Artikel 40 Absatz 1 und 2, Artikel 58 und Artikel 59 Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^ingress-1], Artikel 2, Artikel 22, Artikel 23 und Artikel 24 Absatz 2 und 3 der eidgenössischen Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)[^ingress-2] sowie Artikel 25 Absatz 1 und 2 der eidgenössischen Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19-Verordnung 3)[^ingress-3],
+gestützt auf Artikel 31 Absatz 1, Artikel 33, Artikel 40 Absatz 1 und 2, Artikel 58 und Artikel 59 Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^ingress-1], Artikel 2, Artikel 19a, Artikel 22, Artikel 23 und Artikel 24 Absatz 2 und 3 der eidgenössischen Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)[^ingress-2] sowie Artikel 25 Absatz 1 und 2 der eidgenössischen Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19-Verordnung 3)[^ingress-3],
 
 auf Antrag der Staatskanzlei,
 
@@ -45,7 +45,7 @@ beschliesst:
 
 ## 2 Kantonale Massnahmen
 
-### 2.1 Restaurations-, Bar- und Clubbetriebe
+### 2.1 Erhebung von Kontaktdaten
 
 #### Art. 2–2a
 
@@ -55,7 +55,7 @@ beschliesst:
 
 **Kontaktdaten von Gästen**
 
-<sup>1</sup> Die Erhebung von Kontaktdaten in Restaurations-, Bar- und Clubbetrieben richtet sich grundsätzlich nach der Covid-19-Verordnung besondere Lage.
+<sup>1</sup> Die Erhebung von Kontaktdaten richtet sich grundsätzlich nach der Covid-19-Verordnung besondere Lage.
 
 <sup>2</sup> Es sind folgende Angaben zu erheben:
 
@@ -68,6 +68,8 @@ beschliesst:
 <sup>3</sup> Die Kontaktdaten sind in Abweichung von Artikel 11 Absatz 2 Covid-19-Verordnung besondere Lage unaufgefordert an die zentrale Datenbank gemäss Artikel 3a zu übermitteln.
 
 <sup>4</sup> Die Übermittlung gemäss Absatz 3 hat automatisch oder mindestens einmal innert 24 Stunden zu erfolgen. Im Übrigen legt die Gesundheits-, Sozial- und Integrationsdirektion die Form der Übermittlung fest.
+
+<sup>5</sup> Die Pflicht gemäss Absatz 3 gilt nicht für Kontaktdatenerhebungen gemäss Artikel 14a Absatz 2 Covid-19-Verordnung besondere Lage.
 
 #### Art. 3a
 
@@ -117,7 +119,7 @@ beschliesst:
 
 **Kontaktdaten von im Betrieb arbeitenden Personen**
 
-<sup>1</sup> Die Betreiberinnen und Betreiber von Restaurations-, Bar- und Clubbetrieben müssen eine Liste der im jeweiligen Betrieb arbeitenden Personen führen.
+<sup>1</sup> Die Betreiberinnen und Betreiber von Betrieben, die der Kontaktdatenerhebung unterliegen, müssen eine Liste der im jeweiligen Betrieb arbeitenden Personen führen.
 
 <sup>2</sup> Die Kontaktdaten sind in einer gegliederten und nach Kalendertagen geführten elektronischen Liste mit den jeweiligen Einsatzzeiten im Betrieb aufzubewahren.
 
@@ -129,17 +131,7 @@ beschliesst:
 
 ### 2.2 Veranstaltungen
 
-#### Art. 6–6a
-
-**…**
-
-#### Art. 6b
-
-**Kontaktdaten von Besucherinnen und Besuchern**
-
-<sup>1</sup> Für die Erhebung der Kontaktdaten von Besucherinnen und Besuchern von Veranstaltungen gilt Artikel 3 sinngemäss, sofern ein mit einem Restaurationsbetrieb vergleichbares Konsumationsangebot besteht.
-
-#### Art. 7–8
+#### Art. 6–8
 
 **…**
 
@@ -154,6 +146,27 @@ beschliesst:
 #### Art. 9–12
 
 **…**
+
+#### Art. 12a
+
+**Maskentragpflicht**
+
+<sup>1</sup> In Ergänzung zu Artikel 6 der Covid-19-Verordnung besondere Lage muss jede Person in allen Innenräumen von Schulen eine Gesichtsmaske tragen.
+
+<sup>2</sup> Diese Pflicht gilt in Schulen gemäss der Mittelschulgesetzgebung und der Gesetzgebung über die Berufsbildung, die Weiterbildung und die Berufsberatung.
+
+<sup>3</sup> Diese Pflicht gilt nicht
+
+- a für Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind,
+- b für alle Personen in Situationen, in denen das Tragen einer Gesichtsmaske den Unterricht wesentlich erschwert, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind.
+
+#### Art. 12b
+
+**Zertifikatspflicht**
+
+<sup>1</sup> Die Hochschulen sind gemäss der Gesetzgebung über die Universität, der Gesetzgebung über die Berner Fachhochschule und der Gesetzgebung über die deutschsprachige Pädagogische Hochschule zuständig für die Beschränkung des Zugangs zu den Lehr- und Forschungsaktivitäten gemäss Artikel 19a Covid-19-Verordnung besondere Lage.
+
+<sup>2</sup> Die Universität Bern, die Berner Fachhochschule und die Pädagogische Hochschule Bern sind berechtigt, Name, Vorname, Geburtsdatum und Ablaufdatum des Zertifikats zu registrieren, um wiederholte Überprüfungen zu vermeiden. Nach Ablauf der Gültigkeitsdauer des Zertifikats sind die Daten unverzüglich zu löschen.
 
 ### 2.4
 
@@ -430,7 +443,7 @@ beschliesst:
 
 <sup>2b</sup> Artikel 6a gilt bis zum 31. Mai 2021.
 
-<sup>2c</sup> Die Artikel 3 bis 5, 6b, 16d bis 16h gelten bis zum 30. September 2021.
+<sup>2c</sup> Die Artikel 3 bis 5, 12a und 12b sowie 16d bis 16h gelten bis zum 24. Januar 2022.
 
 <sup>2d</sup> …
 
@@ -453,6 +466,14 @@ beschliesst:
 **Zentrale Datenbank**
 
 <sup>1</sup> Die Änderung von Artikel 3 sowie die Artikel 3a bis 3d sind ab 10. Mai 2021 anwendbar.
+
+## T2 Übergangsbestimmung der Änderung vom 15.09.2021
+
+#### Art. T2-1
+
+**Maskentragpflicht**
+
+<sup>1</sup> Die Änderung von Artikel 12a ist ab 20. September 2021 anwendbar.
 
 Bern, 4. November 2020
 
