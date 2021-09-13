@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de la loi sur l’aménagement du territoire (2e étape avec un contre-projet à l’initiative pour le paysage)
 document: Projet mis en consultation
 language: fr

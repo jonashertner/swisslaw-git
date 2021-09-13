@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision Raumplanungsgesetz (2. Etappe mit Gegenvorschlag zur Landschaftsinitiative)
 document: Vernehmlassungsvorlage
 language: de

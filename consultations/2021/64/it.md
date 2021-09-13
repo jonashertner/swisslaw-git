@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale della legge sulla pianificazione del territorio (seconda fase con controprogetto all’Iniziativa paesaggio)
 document: Progetto posto in consultazione
 language: it
