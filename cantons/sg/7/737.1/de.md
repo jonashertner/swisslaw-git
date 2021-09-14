@@ -5,11 +5,12 @@ title: Gesetz über Wohnbau- und Eigentumsförderung
 short: GWE
 language: de
 version: 2005-01-25
+corrected: 2021-09-15
 version_adopted: 2005-01-25
 adopted: 1992-01-09
 in_force: 1993-03-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/737.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3238/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1609/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -134,7 +135,7 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Die zuständige Stelle des Kantons[^11-1] erstellt für 25 Jahre den Mietzins- und Finanzierungsplan für die nach diesem Gesetz geförderten Wohnungen.
 
-[^11-1]: Bau- und Umweltdepartement, Art. [1](https://www.gesetzessammlung.sg.ch/data/737.11/de/art1) VGWE, sGS [737.11](https://www.gesetzessammlung.sg.ch/data/737.11/de).
+[^11-1]: Baudepartement, Art. [1](https://www.gesetzessammlung.sg.ch/data/737.11/de/art1) VGWE, sGS [737.11](https://www.gesetzessammlung.sg.ch/data/737.11/de).
 
 #### Art. 12
 
@@ -145,7 +146,7 @@ als Gesetz:[^ingress-2]
 <sup>2</sup> Sie teilt das Ergebnis der zuständigen Stelle des Kantons[^12-2] mit.
 
 [^12-1]: Art. 28 und 29 der eidgV zum Wohnbau- und Eigentumsförderungsgesetz vom 30. November 1981, SR 843.1.
-[^12-2]: Bau- und Umweltdepartement, Art. [1](https://www.gesetzessammlung.sg.ch/data/737.11/de/art1) VGWE, sGS [737.11](https://www.gesetzessammlung.sg.ch/data/737.11/de).
+[^12-2]: Baudepartement, Art. [1](https://www.gesetzessammlung.sg.ch/data/737.11/de/art1) VGWE, sGS [737.11](https://www.gesetzessammlung.sg.ch/data/737.11/de).
 
 #### Art. 13
 
@@ -175,7 +176,7 @@ als Gesetz:[^ingress-2]
 
 <sup>2</sup> Wird die Auskunftspflicht verletzt, werden Behörden durch unrichtige Angaben oder Unterdrückung von Tatsachen irregeführt oder wird Irreführung versucht, so können Zusicherung und Auszahlung von Zuschüssen verweigert werden.
 
-[^16-1]: Bau- und Umweltdepartement, Art. [1](https://www.gesetzessammlung.sg.ch/data/737.11/de/art1) VGWE, sGS [737.11](https://www.gesetzessammlung.sg.ch/data/737.11/de).
+[^16-1]: Baudepartement, Art. [1](https://www.gesetzessammlung.sg.ch/data/737.11/de/art1) VGWE, sGS [737.11](https://www.gesetzessammlung.sg.ch/data/737.11/de).
 
 #### Art. 17
 
