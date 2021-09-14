@@ -5,12 +5,12 @@ title: Strassengesetz
 short: StrG
 language: de
 version: 2021-07-01
-valid_until: 2025-12-31
+corrected: 2021-09-15
 version_adopted: 2021-04-13
 adopted: 1988-06-12
 in_force: 1989-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/732.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3227/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3189/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -209,7 +209,7 @@ als Gesetz:[^ingress-5]
 
 <sup>2</sup> Die zuständige Gemeindebehörde hat die Aufsicht über die Gemeindestrassen.
 
-[^16-1]: Bau- und Umweltdepartement, Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^16-1]: Baudepartement, Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 [^16-2]: Tiefbau- und Strassenverwaltung, Art. [1](https://www.gesetzessammlung.sg.ch/data/732.11/de/art1.) StrV, sGS [732.11](https://www.gesetzessammlung.sg.ch/data/732.11/de).
 
 ## II. Strassenbenutzung
@@ -1299,7 +1299,7 @@ als Gesetz:[^ingress-5]
 
 <sup>3</sup> Der vorläufige Strassenplan wird angepasst, wenn wesentliche Änderungen eintreten.
 
-[^122-1]: Bau- und Umweltdepartement, Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^122-1]: Baudepartement, Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 123
 
