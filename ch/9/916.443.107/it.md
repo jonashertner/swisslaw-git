@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Ordinanza dell’USAV del 6 agosto 2021 che istituisce provvedimenti contro la propagazione della peste suina africana nel traffico con Stati membri dell’Unione europea, Islanda e Norvegia"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: it
-version: 2021-09-02
+version: 2021-09-15
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20210902/it/xml/fedlex-data-admin-ch-eli-cc-2021-474-20210902-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20210902/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20210915/it/xml/fedlex-data-admin-ch-eli-cc-2021-474-20210915-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20210915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce provvedimenti contro la propagazione della peste suina africana nel traffico con Stati membri dell’Unione europea, Islanda e Norvegia
 
-del 6 agosto 2021 (Stato 2 settembre 2021)
+del 6 agosto 2021 (Stato 15 settembre 2021) (Stato 15 settembre 2021)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -64,8 +64,8 @@ L’importazione di animali vivi e prodotti di origine animale di cui all’arti
 
 <sup>2</sup> L’importazione di cinghiali vivi provenienti dall’intero territorio degli Stati membri dell’UE, dell’Islanda e della Norvegia è vietata.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 31 ago. 2021, in vigore dal 2 set. 2021 ([RU 2021 516](https://fedlex.data.admin.ch/eli/oc/2021/516)).
-[^2-2]: Regolamento di esecuzione (UE) 2021/605 della Commissione, del 7 aprile 2021, che stabilisce misure speciali di controllo della peste suina africana, GU L 129 del 15.4.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2021/1371, GU L 294 del 17.8.2021, pag. 14.
+[^2-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 13 set. 2021, in vigore dal 15 set. 2021 ([RU 2021 551](https://fedlex.data.admin.ch/eli/oc/2021/551)).
+[^2-2]: Regolamento di esecuzione (UE) 2021/605 della Commissione del 7 aprile 2021 che stabilisce misure speciali di controllo della peste suina africana, GU L 129 del 15.4.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2021/1453, GU L 313 del 6.9.2021, pag. 35.
 [^2-3]: Regolamento delegato (UE) 2020/687 della Commissione, del 17 dicembre 2019, che integra il regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio per quanto riguarda le norme relative alla prevenzione e al controllo di determinate malattie elencate; modificato dal regolamento delegato (UE) 2021/1140, GU L 247 del 13.7.2021, pag. 50
 
 #### Art. 3
@@ -131,7 +131,7 @@ Allegato*[^t-1]*
 
 ## Stati membri e zone interessati
 
-[^t-1]: Aggiornato dal n. II dell’O dell’USAV del 31 ago. 2021, in vigore dal 2 set. 2021 ([RU 2021 516](https://fedlex.data.admin.ch/eli/oc/2021/516)).
+[^t-1]: Nuovo testo giusta il n. II dell’O dell’USAV del 13 set. 2021, in vigore dal 15 set. 2021 ([RU 2021 551](https://fedlex.data.admin.ch/eli/oc/2021/551)).
 
 ### 1 Zone soggette a restrizioni disciplinate secondo il regolamento di esecuzione (UE) 2021/605
 
@@ -139,18 +139,18 @@ Gli Stati membri dell’Unione europea e le relative zone soggette a restrizioni
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Regolamento di esecuzione (UE) 2021/605</td><td>Regolamento di esecuzione (UE) 2021/605 della Commissione, del 7 aprile 2021, che stabilisce misure speciali di controllo della peste suina africana, GU L 129 del 15.4.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2021/1371, GU L 294 del 17.8.2021, pag. 14.</td></tr>
+<tr><td>Regolamento di esecuzione (UE) 2021/605</td><td>Regolamento di esecuzione (UE) 2021/605 della Commissione del 7 aprile 2021 che stabilisce misure speciali di controllo della peste suina africana, GU L 129 del 15.4.2021, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2021/1453, GU L 313 del 6.9.2021, pag. 35.</td></tr>
 </table>
 
 Nell’allegato I del regolamento di esecuzione sopra citato, determinate zone negli Stati membri interessati sono suddivise in base al rischio di introduzione della peste suina africana nelle tre parti seguenti:
 
-- Parte I zona disciplinata in base al rischio derivante dalla prossimità a una zona con popolazione di cinghiali infetta (parte II).
-- Parte II zona disciplinata in base alla popolazione di cinghiali infetta.
-- Parte III zona disciplinata in base alle detenzioni di suini e alla popolazione di cinghiali infette.
+- Parte I zona disciplinata in base al rischio derivante dalla prossimità a una zona con popolazione di cinghiali infetta (parte II)
+- Parte II zona disciplinata in base alla popolazione di cinghiali infetta
+- Parte III zona disciplinata in base alle detenzioni di suini e alla popolazione di cinghiali infette
 
-### Stati membri con zone figuranti nella parte I
+### Stati membri con zone soggette a restrizioni figuranti nella parte I
 
-Nei seguenti Stati membri dell’UE vi sono zone di cui all’allegato I parte I del regolamento di esecuzione (UE) 2021/605:
+Nei seguenti Stati membri dell’UE vi sono zone soggette a restrizioni di cui all’allegato I parte I del regolamento di esecuzione (UE) 2021/605:
 
 Estonia
 
@@ -168,9 +168,9 @@ Slovacchia
 
 Ungheria
 
-### Stati membri con zone figuranti nella parte II
+### Stati membri con zone soggette a restrizioni figuranti nella parte II
 
-Nei seguenti Stati membri dell’UE vi sono zone di cui all’allegato I parte II del regolamento di esecuzione (UE) 2021/605:
+Nei seguenti Stati membri dell’UE vi sono zone soggette a restrizioni di cui all’allegato I parte II del regolamento di esecuzione (UE) 2021/605:
 
 Bulgaria
 
@@ -188,9 +188,9 @@ Slovacchia
 
 Ungheria
 
-### Stati membri con zone figuranti nella parte III
+### Stati membri con zone soggette a restrizione figuranti nella parte III
 
-Nei seguenti Stati membri dell’UE vi sono zone di cui all’allegato I parte III del regolamento di esecuzione (UE) 2021/605:
+Nei seguenti Stati membri dell’UE vi sono zone soggette a restrizioni di cui all’allegato I parte III del regolamento di esecuzione (UE) 2021/605:
 
 Bulgaria
 
@@ -207,24 +207,3 @@ Polonia
 Romania
 
 Slovacchia
-
-### 2 Altre zone infette
-
-Non vi sono Stati membri dell’UE con zone infette secondo il regolamento delegato (UE) 2020/687[^annexu1-lvlu1-lvl2-1] ubicate al di fuori delle zone di cui al numero 1.
-
-[^annexu1-lvlu1-lvl2-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 1 lett. b.
-
-### 3 Altre zone soggette a restrizioni
-
-Gli Stati membri dell’UE nonché le zone soggette a restrizioni secondo il regolamento delegato (UE) 2020/687[^annexu1-lvlu1-lvl3-1] vigenti in aggiunta a quelli di cui al numero 1 sono stabiliti nella seguente decisione di esecuzione:
-
-<table>
-<tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Decisione di esecuzione (UE) 2021/1202</td><td>Decisione di esecuzione (UE) 2021/1202 della Commissione del 20 luglio 2021 relativa ad alcune misure di emergenza contro la peste suina africana in Estonia, versione della GU L 262 del 22.7.2021, pag. 1</td></tr>
-</table>
-
-Nel seguente Stato membro dell’UE vi sono tali zone soggette a restrizioni:
-
-Estonia
-
-[^annexu1-lvlu1-lvl3-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 1 lett. b.
