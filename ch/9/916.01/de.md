@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2021-09-01
+version: 2021-09-15
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210915/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210915-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210901/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. September 2021)
+vom 26. Oktober 2011 (Stand am 15. September 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -2891,7 +2891,7 @@ Anhang 3*[^t-3]*
 
 ## Zoll- und Teilzollkontingente
 
-[^t-3]: Bereinigt gemäss Ziff. I Abs. 1 der V vom 9. Dez. 2016 ([AS 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Ziff. I der V des BLW vom 16. Febr. 2021 ([AS 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), vom 29. April 2021 ([AS 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)), vom 15. Juni 2021 ([AS 2021 385](https://fedlex.data.admin.ch/eli/oc/2021/385)) und vom 18. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)).
+[^t-3]: Bereinigt gemäss Ziff. I Abs. 1 der V vom 9. Dez. 2016 ([AS 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Ziff. I der V des BLW vom 16. Febr. 2021 ([AS 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), vom 29. April 2021 ([AS 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)), vom 15. Juni 2021 ([AS 2021 385](https://fedlex.data.admin.ch/eli/oc/2021/385)), vom 18. Juni 2021 ([AS 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)) und vom 30. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -3010,6 +3010,7 @@ Anhang 3*[^t-3]*
 <tr><td>14</td><td>Kartoffeln und Kartoffelprodukte, davon:</td><td>**23 750**</td></tr>
 <tr><td>14.1</td><td>Saatkartoffeln</td><td>**4 000**</td></tr>
 <tr><td>14.2</td><td>Veredelungskartoffeln</td><td>**9 250**</td></tr>
+<tr><td>14.2.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2021: 15. September bis 31. Dezember 2021</td><td>**20 000**</td></tr>
 <tr><td>14.3</td><td>Speisekartoffeln</td><td>**6 500**</td></tr>
 <tr><td>14.3.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2021: 15. Mai bis 30. Juni 2021</td><td>5 000</td></tr>
 <tr><td>14.3.2</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2021: 1. bis 31. Juli 2021</td><td>5 000</td></tr>

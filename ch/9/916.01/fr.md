@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur l'importation de produits agricoles (O
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: fr
-version: 2021-09-01
+version: 2021-09-15
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210915/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210915-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210901/fr"
 
 (Ordonnance sur les importations agricoles, OIAgr)
 
-du 26 octobre 2011 (Etat le 1<sup>er</sup> septembre 2021)
+du 26 octobre 2011 (Etat le 15 septembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -2875,7 +2875,7 @@ Annexe 3*[^t-3]*
 
 ## Contingents tarifaires et contingents tarifaires partiels
 
-[^t-3]: Mise à jour par le ch. I al. 1 de l’O du 9 déc. 2016 ([RO 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), le ch II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), le ch. I des O de l’OFAG du 16 fév. 2021 ([RO 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), du 29 avr. 2021 ([RO 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)), du 15 juin 2021 ([RO 2021 385](https://fedlex.data.admin.ch/eli/oc/2021/385)) et du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)).
+[^t-3]: Mise à jour par le ch. I al. 1 de l’O du 9 déc. 2016 ([RO 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), le ch II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), le ch. I des O de l’OFAG du 16 fév. 2021 ([RO 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)), du 29 avr. 2021 ([RO 2021 251](https://fedlex.data.admin.ch/eli/oc/2021/251)), du 15 juin 2021 ([RO 2021 385](https://fedlex.data.admin.ch/eli/oc/2021/385)), du 18 juin 2021 ([RO 2021 397](https://fedlex.data.admin.ch/eli/oc/2021/397)) et du 30 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 537](https://fedlex.data.admin.ch/eli/oc/2021/537)).
 
 ### 1. Marché des équidés
 
@@ -2989,6 +2989,7 @@ Annexe 3*[^t-3]*
 <tr><td>14</td><td>Pommes de terre et produits à base de pommes de terre, dont:</td><td>23 750</td></tr>
 <tr><td>14.1</td><td>Pommes de terre de semence</td><td>**4 000**</td></tr>
 <tr><td>14.2</td><td>Pommes de terre destinées à la transformation</td><td>**9 250**</td></tr>
+<tr><td>14.2.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2021: du 15 septembre au 31 décembre 2021</td><td>**20 000**</td></tr>
 <tr><td>14.3</td><td>Pommes de terre de table</td><td>**6 500**</td></tr>
 <tr><td>14.3.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2021: dès le 15 mai jusqu’au 30 juin</td><td>5 000</td></tr>
 <tr><td>14.3.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2021: du 1<sup>er</sup> au 31 juillet 2021</td><td>5 000</td></tr>
