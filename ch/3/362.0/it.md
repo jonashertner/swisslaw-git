@@ -3,11 +3,11 @@ sr: "362.0"
 title: "Ordinanza dell' 8 marzo 2013 sulla parte nazionale del Sistema d'informazione di Schengen (N-SIS) e sull'ufficio SIRENE (Ordinanza N-SIS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: it
-version: 2021-07-01
+version: 2021-09-15
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210915/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210915-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210701/it"
 
 (Ordinanza N-SIS)
 
-dell’8 marzo 2013 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+dell’8 marzo 2013 (Stato 15 settembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -43,11 +43,11 @@ La presente ordinanza disciplina:
 
   la competenza per concludere trattati di portata limitata in relazione con i seguenti regolamenti:
 
-  - 1\. regolamento (UE) 2018/1861[^1-2],
-  - 2\. regolamento (UE) 2018/1862[^1-3],
-  - 3\. regolamento (UE) 2019/817[^1-4],
-  - 4\. regolamento (UE) 2019/818[^1-5],
-  - 5\. regolamento (UE) 2020/493[^1-6];
+  - 1\.[^1-2] regolamento (UE) 2018/1861[^1-3],
+  - 2\.[^1-4] regolamento (UE) 2018/1862[^1-5],
+  - 3\.[^1-6] regolamento (UE) 2019/817[^1-7],
+  - 4\.[^1-8] regolamento (UE) 2019/818[^1-9],
+  - 5\. regolamento (UE) 2020/493[^1-10];
 
 - c. l’organizzazione e i compiti dell’ufficio SIRENE;
 - d. lo scambio di informazioni supplementari eseguito dall’ufficio SIRENE;
@@ -61,11 +61,15 @@ La presente ordinanza disciplina:
 <sup>3</sup> Gli Accordi di associazione alla normativa di Schengen sono elencati nell’allegato 1.
 
 [^1-1]: Introdotta dal n. I dell’O del 1° lug. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2841](https://fedlex.data.admin.ch/eli/oc/2020/519)).
-[^1-2]: Regolamento (UE) 2018/1861 del Parlamento europeo e del Consiglio, del 28 novembre 2018, sull’istituzione, l’esercizio e l’uso del sistema d’informazione Schengen (SIS) nel settore delle verifiche di frontiera, che modifica la convenzione di applicazione dell’accordo di Schengen e abroga il regolamento (CE) n. 1987/2006, versione della GU L 312 del 7.12.2018, pag. 14.
-[^1-3]: Regolamento (UE) 2018/1862 del Parlamento europeo e del Consiglio, del 28 novembre 2018, sull’istituzione, l’esercizio e l’uso del sistema d’informazione Schengen (SIS) nel settore della cooperazione di polizia e della cooperazione giudiziaria in materia penale, che modifica e abroga la decisione 2007/533/GAI del Consiglio e che abroga il regolamento (CE) n. 1986/2006 del Parlamento europeo e del Consiglio e la decisione 2010/261/UE della Commissione, versione della GU L 312 del 7.12.2018, pag. 56.
-[^1-4]: Regolamento (UE) 2019/817 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore delle frontiere e dei visti e che modifica i regolamenti (CE) n. 767/2008, (UE) n. 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 e (UE) 2018/1861 del Parlamento europeo e del Consiglio e le decisioni 2004/512/CE e 2008/633/GAI del Consiglio, versione della GU L 135 del 22.5.2019, pag. 27.
-[^1-5]: Regolamento (UE) 2019/818 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore della cooperazione di polizia e giudiziaria, asilo e migrazione, e che modifica i regolamenti (UE) 2018/1726, (UE) 2018/1862 e (UE) 2019/816, versione della GU L 135 del 22.5.2019, pag. 85.
-[^1-6]: Regolamento (UE) 2020/493 del Parlamento europeo e del Consiglio, del 30 marzo 2020, sul sistema relativo ai documenti falsi e autentici online (FADO) e che abroga l’azione comune 98/700/GAI del Consiglio, versione della GU L 107 del 6.4.2020, pag. 1.
+[^1-2]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^1-3]: Regolamento (UE) 2018/1861 del Parlamento europeo e del Consiglio, del 28 novembre 2018, sull’istituzione, l’esercizio e l’uso del sistema d’informazione Schengen (SIS) nel settore delle verifiche di frontiera, che modifica la convenzione di applicazione dell’accordo di Schengen e abroga il regolamento (CE) n. 1987/2006, GU L 312 del 7.12.2018, pag. 14; modificato da ultimo dal regolamento (UE) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
+[^1-4]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^1-5]: Regolamento (UE) 2018/1862 del Parlamento europeo e del Consiglio, del 28 novembre 2018, sull’istituzione, l’esercizio e l’uso del sistema d’informazione Schengen (SIS) nel settore della cooperazione di polizia e della cooperazione giudiziaria in materia penale, che modifica e abroga la decisione 2007/533/GAI del Consiglio e che abroga il regolamento (CE) n. 1986/2006 del Parlamento europeo e del Consiglio e la decisione 2010/261/UE della Commissione, GU L 312 del 7.12.2018, pag. 56; modificato da ultimo dal regolamento (UE) 2021/1150, GU L 249 del 14.7.2021, pag. 1.
+[^1-6]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^1-7]: Regolamento (UE) 2019/817 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore delle frontiere e dei visti e che modifica i regolamenti (CE) n. 767/2008, (UE) n. 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 e (UE) 2018/1861 del Parlamento europeo e del Consiglio e le decisioni 2004/512/CE e 2008/633/GAI del Consiglio, GU L 135 del 22.5.2019, pag. 27; modificato da ultimo dal regolamento (UE) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
+[^1-8]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^1-9]: Regolamento (UE) 2019/818 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore della cooperazione di polizia e giudiziaria, asilo e migrazione, e che modifica i regolamenti (UE) 2018/1726, (UE) 2018/1862 e (UE) 2019/816, GU L 135 del 22.5.2019, pag. 85; modificato da ultimo dal regolamento (UE) 2021/1150, GU L 249 del 14.7.2021, pag. 1.
+[^1-10]: Regolamento (UE) 2020/493 del Parlamento europeo e del Consiglio, del 30 marzo 2020, sul sistema relativo ai documenti falsi e autentici online (FADO) e che abroga l’azione comune 98/700/GAI del Consiglio, versione della GU L 107 del 6.4.2020, pag. 1.
 
 #### Art. 2
 
@@ -279,15 +283,27 @@ Fedpol è competente per la conclusione di trattati internazionali in vista del 
 
 **Conclusione di trattati internazionali concernenti l’interoperabilità tra sistemi d’informazione della cooperazione Schengen/Dublino**
 
+<sup>1</sup>
+
 Fedpol è competente per la conclusione di trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea, sempre che questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA[^7b-1] e sempre che gli atti di esecuzione siano emanati sulla base degli articoli e paragrafi seguenti dei regolamenti (UE) 2019/817[^7b-2] e (UE) 2019/818[^7b-3] e disciplinino:
 
-- a. le modalità tecniche dei profili degli utenti del portale di ricerca europeo (art. 8 par. 2 dei regolamenti [UE] 2019/817 e [UE] 2019/818);
+- a.[^7b-4] le modalità tecniche dei profili degli utenti del portale di ricerca europeo (ESP; art. 8 par. 2 dei regolamenti [UE] 2019/817 e [UE] 2019/818);
 - b. le norme per creare collegamenti tra i dati di diversi sistemi d’informazione Schengen/Dublino (art. 28 par. 7 dei regolamenti [UE] 2019/817 e [UE] 2019/818);
-- c. le modalità di cooperazione tra gli Stati Schengen interessati, l’unità centrale ETIAS, Europol ed eu-LISA in caso di incidente di sicurezza (art. 43 par. 5 dei regolamenti [UE] 2019/817 e [UE] 2019/818).
+- c. le modalità di cooperazione tra gli Stati Schengen interessati, l’unità centrale ETIAS, Europol ed eu-LISA in caso di incidente di sicurezza (art. 43 par. 5 dei regolamenti [UE] 2019/817 e [UE] 2019/818);
+- d.[^7b-5] la procedura tecnica di consultazione da parte dell’ESP dei sistemi d’informazione Schengen/Dublino e delle loro componenti, dei dati Europol e delle banche dati Interpol e il formato delle risposte dell’ESP (art. 9 par. 7 dei regolamenti [UE] 2019/817 e [UE] 2019/818);
+- e.[^7b-6] i requisiti di prestazione e le modalità pratiche per il monitoraggio delle prestazioni del servizio comune di confronto biometrico (sBMS; art. 13 par. 5 dei regolamenti [UE] 2019/817 e [UE] 2019/818);
+- f.[^7b-7] le specifiche della soluzione tecnica per gestire le richieste di accesso dell’utente e agevolare la raccolta delle informazioni ai fini dell’elaborazione delle relazioni e delle statistiche (art. 74 par. 10 del regolamento [UE] 2019/818 e art. 78 par. 10 del regolamento [UE] 2019/817).
+
+<sup>2</sup> È competente per la conclusione di trattati internazionali in vista del recepimento di atti delegati della Commissione europea relativi ai regolamenti (UE) 2019/817 e (UE) 2019/818, sempre che questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA e sempre che gli atti delegati siano stati emanati sulla base dell’articolo 39 paragrafo 5 dei regolamenti (UE) 2019/817 e (UE) 2019/818 e disciplinino le modalità di funzionamento dell’archivio centrale di relazioni e statistiche (CRRS), comprese le garanzie specifiche per il trattamento dei dati personali e le norme di sicurezza applicabili all’archivio.[^7b-8]
 
 [^7b-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^7b-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 1 lett. b<sup>bis</sup> n. 3
 [^7b-3]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 1 lett. b<sup>bis</sup> n. 4
+[^7b-4]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^7b-5]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^7b-6]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^7b-7]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^7b-8]: Introdotto dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
 
 #### Art. 7c
 

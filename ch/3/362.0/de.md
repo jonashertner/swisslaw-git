@@ -3,11 +3,11 @@ sr: "362.0"
 title: Verordnung vom 8. März 2013 über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro (N-SIS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: de
-version: 2021-07-01
+version: 2021-09-15
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210915/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210915-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210701/de"
 
 (N-SIS-Verordnung)
 
-vom 8. März 2013 (Stand am 1. Juli 2021)
+vom 8. März 2013 (Stand am 15. September 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -43,11 +43,11 @@ Diese Verordnung regelt:
 
   die Kompetenz zum Abschluss von Verträgen von beschränkter Tragweite in Verbindung mit folgenden Verordnungen:
 
-  - 1\. Verordnung (EU) 2018/1861[^1-2],
-  - 2\. Verordnung (EU) 2018/1862[^1-3],
-  - 3\. Verordnung (EU) 2019/817[^1-4],
-  - 4\. Verordnung (EU) 2019/818[^1-5],
-  - 5\. Verordnung (EU 2020/493[^1-6];
+  - 1\.[^1-2] Verordnung (EU) 2018/1861[^1-3],
+  - 2\.[^1-4] Verordnung (EU) 2018/1862[^1-5],
+  - 3\.[^1-6] Verordnung (EU) 2019/817[^1-7],
+  - 4\.[^1-8] Verordnung (EU) 2019/818[^1-9],
+  - 5\. Verordnung (EU 2020/493[^1-10];
 
 - c. die Organisation und die Aufgaben des SIRENE-Büros;
 - d. den Austausch von Zusatzinformationen durch das SIRENE-Büro;
@@ -61,11 +61,15 @@ Diese Verordnung regelt:
 <sup>3</sup> Die Schengen-Assoziierungsabkommen sind in Anhang 1 aufgeführt.
 
 [^1-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 2841](https://fedlex.data.admin.ch/eli/oc/2020/519)).
-[^1-2]: Verordnung (EU) 2018/1861 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der Grenzkontrollen, zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und zur Änderung und Aufhebung der Verordnung (EG) Nr. 1987/2006, Fassung gemäss ABl. L 312 vom 7.12.2018, S. 14.
-[^1-3]: Verordnung (EU) 2018/1862 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der polizeilichen Zusammenarbeit und der justiziellen Zusammenarbeit in Strafsachen, zur Änderung und Aufhebung des Beschlusses 2007/533/JI des Rates und zur Aufhebung der Verordnung (EG) Nr. 1986/2006 des Europäischen Parlaments und des Rates und des Beschlusses 2010/261/EU der Kommission, Fassung gemäss ABl. L 312 vom 7.12.2018, S. 56.
-[^1-4]: Verordnung (EU) 2019/817 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen in den Bereichen Grenzen und Visa und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/1240, (EU) 2018/1726 und (EU) 2018/1861 des Europäischen Parlaments und des Rates, der Entscheidung 2004/512/EG des Rates und des Beschlusses 2008/633/JI des Rates, Fassung gemäss ABl. L 135 vom 22.5.2019, S. 27.
-[^1-5]: Verordnung (EU) 2019/818 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen (polizeiliche und justizielle Zusammenarbeit, Asyl und Migration) und zur Änderung der Verordnungen (EU) 2018/1726, (EU) 2018/1862 und (EU) 2019/816, Fassung gemäss ABl. L 135 vom 22.5.2019, S. 85.
-[^1-6]: Verordnung (EU) 2020/493 des Europäischen Parlaments und des Rates vom 30. März 2020 über das System über gefälschte und echte Dokumente online (FADO) und zur Aufhebung der Gemeinsamen Massnahme 98/700/JI des Rates, Fassung gemäss ABl. L 107 vom 6.4.2020, S. 1.
+[^1-2]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^1-3]: Verordnung (EU) 2018/1861 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der Grenzkontrollen, zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und zur Änderung und Aufhebung der Verordnung (EG) Nr. 1987/2006, ABl. L 312 vom 7.12.2018, S. 14; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
+[^1-4]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^1-5]: Verordnung (EU) 2018/1862 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der polizeilichen Zusammenarbeit und der justiziellen Zusammenarbeit in Strafsachen, zur Änderung und Aufhebung des Beschlusses 2007/533/JI des Rates und zur Aufhebung der Verordnung (EG) Nr. 1986/2006 des Europäischen Parlaments und des Rates und des Beschlusses 2010/261/EU der Kommission, ABl. L 312 vom 7.12.2018, S. 56; zuletzt geändert durch Verordnung (EU) 2021/1150, ABl. L 249 vom 14.7.2021, S. 1.
+[^1-6]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^1-7]: Verordnung (EU) 2019/817 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen in den Bereichen Grenzen und Visa und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/1240, (EU) 2018/1726 und (EU) 2018/1861 des Europäischen Parlaments und des Rates, der Entscheidung 2004/512/EG des Rates und des Beschlusses 2008/633/JI des Rates, ABl. L 135 vom 22.5.2019, S. 27; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
+[^1-8]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^1-9]: Verordnung (EU) 2019/818 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen (polizeiliche und justizielle Zusammenarbeit, Asyl und Migration) und zur Änderung der Verordnungen (EU) 2018/1726, (EU) 2018/1862 und (EU) 2019/816, ABl. L 135 vom 22.5.2019, S. 85; zuletzt geändert durch Verordnung (EU) 2021/1150, ABl. L 249 vom 14.7.2021, S. 1.
+[^1-10]: Verordnung (EU) 2020/493 des Europäischen Parlaments und des Rates vom 30. März 2020 über das System über gefälschte und echte Dokumente online (FADO) und zur Aufhebung der Gemeinsamen Massnahme 98/700/JI des Rates, Fassung gemäss ABl. L 107 vom 6.4.2020, S. 1.
 
 #### Art. 2
 
@@ -281,13 +285,23 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 
 Fedpol ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^7b-1] darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnungen (EU) 2019/817[^7b-2] und (EU) 2019/818[^7b-3] erlassen wurden und Folgendes regeln:
 
-- a. technische Einzelheiten zu den Nutzerprofilen für das Europäische Suchportal (Art. 8 Abs. 2 der Verordnungen (EU) 2019/817 und (EU) 2019/818);
+- a.[^7b-4] die technischen Einzelheiten zu den Nutzerprofilen für das Europäische Suchportal (ESP; Art. 8 Abs. 2 der Verordnungen [EU] 2019/817 und [EU] 2019/818);
 - b. Vorschriften für die Erstellung von Verknüpfungen zwischen Daten aus unterschiedlichen Informationssystemen (Art. 28 Abs. 7 der Verordnungen (EU) 2019/817 und (EU) 2019/818);
-- c. Modalitäten der Zusammenarbeit im Falle eines Sicherheitsvorfalls zwischen den betroffenen Schengen-Staaten, der ETIAS-Zentralstelle, Europol und eu-LISA (Art. 43 Abs. 5 der Verordnungen (EU) 2019/817 und (EU) 2019/818).
+- c. Modalitäten der Zusammenarbeit im Falle eines Sicherheitsvorfalls zwischen den betroffenen Schengen-Staaten, der ETIAS-Zentralstelle, Europol und eu-LISA (Art. 43 Abs. 5 der Verordnungen (EU) 2019/817 und (EU) 2019/818);
+- d.[^7b-5] das technische Verfahren für Abfragen der Schengen/Dublin-Informationssysteme und deren Komponenten, von Europol-Daten und Interpol-Datenbanken durch das ESP und das Format der vom ESP erteilten Antworten (Art. 9 Abs. 7 der Verordnungen [EU] 2019/817 und [EU] 2019/818);
+- e. [^7b-6] die Leistungsanforderungen und praktischen Vorkehrungen für die Überwachung der Leistung des Gemeinsamen Dienstes für den Abgleich biometrischer Daten (sBMS; Art. 13 Abs. 5 der Verordnungen [EU] 2019/817 und [EU] 2019/818);
+- f.[^7b-7] die Spezifikationen der technischen Lösung zur Verwaltung von Anträgen der Nutzer auf Zugang und zur Erleichterung der Erhebung der aufgeführten Informationen für die Zwecke der Erstellung von Berichten und Statistiken (Art. 74 Abs. 10 der Verordnung [EU] 2019/818 und Art. 78 Abs. 10 der Verordnung [EU] 2019/817).
+
+<sup>2</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zu den Verordnungen (EU) 2019/817 und (EU) 2019/818, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und sofern die delegierten Rechtsakte gestützt auf Artikel 39 Absatz 5 der Verordnungen (EU) 2019/817 und (EU) 2019/818 erlassen wurden und den Betrieb des zentralen Speichers für Berichte und Statistiken (CRRS), einschliesslich spezifischer Garantien für die Verarbeitung personenbezogener Daten und die für den Speicher geltenden Sicherheitsvorschriften, regeln.[^7b-8]
 
 [^7b-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^7b-2]: Siehe Fussnoten zu Art. 1 Abs. 1 Bst. b<sup>bis</sup> Ziff. 3
 [^7b-3]: Siehe Fussnoten zu Art. 1 Abs. 1 Bst. b<sup>bis</sup> Ziff. 4
+[^7b-4]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^7b-5]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^7b-6]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^7b-7]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
+[^7b-8]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 504](https://fedlex.data.admin.ch/eli/oc/2021/504)).
 
 #### Art. 7c
 
