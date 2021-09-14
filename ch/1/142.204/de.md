@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2021-01-01
+version: 2021-09-15
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20210915/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20210915-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20210915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20210101/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 1. Januar 2021)
+vom 15. August 2018 (Stand am 15. September 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -46,24 +46,30 @@ Die Verordnung regelt auch die Kompetenz zum Abschluss völkerrechtlicher Vertr�
 
 - a. Verordnung (EU) Nr. 514/2014[^1-1];
 - b. Verordnung (EU) Nr. 515/2014[^1-2];
-- c. Verordnung (EG) Nr. 810/2009[^1-3] (Visakodex);
-- d.[^1-4] Verordnung (EU) 2019/817[^1-5];
-- e.[^1-6] Verordnung (EU) 2019/818[^1-7];
-- f.[^1-8] Verordnung (EG) Nr. 1683/95[^1-9];
-- g.[^1-10] Verordnung (EG) Nr. 1030/2002[^1-11].[^1-12]
+- b<sup>bis</sup>.[^1-3] Verordnung (EU) 2017/2226[^1-4];
+- b<sup>ter</sup>.[^1-5] Verordnung (EU) 2018/1240[^1-6];
+- c. Verordnung (EG) Nr. 810/2009[^1-7] (Visakodex);
+- d.[^1-8] Verordnung (EU) 2019/817[^1-9];
+- e.[^1-10] Verordnung (EU) 2019/818[^1-11];
+- f.[^1-12] Verordnung (EG) Nr. 1683/95[^1-13];
+- g.[^1-14] Verordnung (EG) Nr. 1030/2002[^1-15].[^1-16]
 
 [^1-1]: Verordnung (EU) Nr. 514/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Festlegung allgemeiner Bestimmungen für den Asyl-, Migrations- und Integrationsfonds und das Instrument für die finanzielle Unterstützung der polizeilichen Zusammenarbeit, der Kriminalprävention und Kriminalitätsbekämpfung und des Krisenmanagements, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 112.
 [^1-2]: Verordnung (EU) Nr. 515/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Schaffung eines Instruments für die finanzielle Unterstützung für Aussengrenzen und Visa im Rahmen des Fonds für die innere Sicherheit und zur Aufhebung der Entscheidung Nr. 574/2007/EG, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 143.
-[^1-3]: Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex), ABl. L 243 vom 15.9.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1155, ABl. L 188 vom 12.7.2019, S. 25.
-[^1-4]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-5]: Verordnung (EU) 2019/817 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen in den Bereichen Grenzen und Visa und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/240, (EU) 2018/1726 und (EU) 2018/1861 des Europäischen Parlaments und des Rates, der Entscheidung 2004/512/EG des Rates und des Beschlusses 2008/633/JI des Rates, Fassung gemäss ABl. L 135 vom 22.5.2019, S. 27.
-[^1-6]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-7]: Verordnung (EU) 2019/818 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen (polizeiliche und justizielle Zusammenarbeit, Asyl und Migration) und zur Änderung der Verordnungen (EU) 2018/1726, (EU) 2018/1862 und (EU) 2019/816, Fassung gemäss ABl. L 135 vom 22.5.2019, S. 85.
-[^1-8]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-9]: Verordnung (EG) Nr. 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche Visagestaltung, ABl. L 164 vom 14.7.1995, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1370, ABl. L 198 vom 28.7.2017, S. 24.
-[^1-10]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-11]: Verordnung (EG) Nr. 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige, ABl. L 157 vom 15.6.2002, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1954, ABl. L 286 vom 1.11.2017, S. 9.
-[^1-12]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-3]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-4]: Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Aussengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011, ABl. L 327 vom 9.12.2017, S. 20; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
+[^1-5]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-6]: Verordnung (EU) 2018/1240 des Europäischen Parlaments und des Rates vom 12. September 2018 über die Einrichtung eines Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS) und zur Änderung der Verordnungen (EU) Nr. 1077/2011, (EU) Nr. 515/2014, (EU) 2016/399, (EU) 2016/1624 und (EU) 2017/2226, ABl. L 236 vom 19.9.2018, S. 1; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
+[^1-7]: Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex), ABl. L 243 vom 15.9.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2019/1155, ABl. L 188 vom 12.7.2019, S. 25.
+[^1-8]: Eingefügt durch Ziff. I der V vom 13. Mai 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-9]: Verordnung (EU) 2019/817 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen in den Bereichen Grenzen und Visa und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/240, (EU) 2018/1726 und (EU) 2018/1861 des Europäischen Parlaments und des Rates, der Entscheidung 2004/512/EG des Rates und des Beschlusses 2008/633/JI des Rates, ABl. L 135 vom 22.5.2019, S. 27; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
+[^1-10]: Eingefügt durch Ziff. I der V vom 13. Mai 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-11]: Verordnung (EU) 2019/818 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen (polizeiliche und justizielle Zusammenarbeit, Asyl und Migration) und zur Änderung der Verordnungen (EU) 2018/1726, (EU) 2018/1862 und (EU) 2019/816, ABl. L 135 vom 22.5.2019, S. 85; zuletzt geändert durch Verordnung (EU) 2021/1150, ABl. L 249 vom 14.7.2021, S. 1.
+[^1-12]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-13]: Verordnung (EG) Nr. 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche Visagestaltung, ABl. L 164 vom 14.7.1995, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1370, ABl. L 198 vom 28.7.2017, S. 24.
+[^1-14]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-15]: Verordnung (EG) Nr. 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige, ABl. L 157 vom 15.6.2002, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1954, ABl. L 286 vom 1.11.2017, S. 9.
+[^1-16]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -610,23 +616,33 @@ Die Modalitäten der Zusammenarbeit nach Artikel 94 Absatz 1 AIG umfassen nament
 
 **Abschluss völkerrechtlicher Verträge im Zusammenhang mit dem Einreise- und Ausreisesystem und dem Fonds für die innere Sicherheit[^34-1]**
 
-<sup>1</sup> Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten, welche die Europäische Kommission zur Entwicklung und technischen Umsetzung des Einreise- und Ausreisesystems gestützt auf Artikel 36 der Verordnung (EU) 2017/2226[^34-2] erlassen hat, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^34-3] (RVOG) darstellen.
+<sup>1</sup>
 
-<sup>2</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission, welche die Verfahren für die Berichterstattung über die Betriebskostenunterstützung im Rahmen der nationalen Programme der Schengen-Staaten betreffen und gestützt auf die Artikel 10 Absatz 6 und 11 Absatz 6 der Verordnung (EU) Nr. 515/2014[^34-4] erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.
+Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2017/2226[^34-2], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^34-3] (RVOG) darstellen und Folgendes regeln:
 
-<sup>2bis</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission, welche die Einführung eines Programms für die Entwicklung von IT-Systemen zur Unterstützung der Steuerung von Migrationsströmen über die Aussengrenzen betreffen und gestützt auf Artikel 5 Absatz 5 Buchstaben b und Artikel 15 und 17 der Verordnung (EU) Nr. 515/2014 erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.[^34-5]
+- a. die Voraussetzungen für den Betrieb des Web-Dienstes und die für den Web-Dienst geltenden Datenschutz- und Sicherheitsvorschriften (Art. 13 Abs. 7);
+- b. das Ausweichverfahren, falls Beförderungsunternehmen der Datenzugriff technisch nicht möglich ist, und die in diesen Fällen durch die ETIAS-Zentralstelle zu leistende Unterstützung und die Mittel zur Bereitstellung dieser Unterstützung (Art. 13*a* Abs. 3 und 4);
+- c. die Vorschriften über die von der Europäischen Kommission zu übermittelnden Informationen im Hinblick auf das Ausweichverfahren, wenn die Eingabe von Daten technisch nicht möglich ist oder für den Fall, dass das EES ausfällt (Art. 21 Abs. 2);
+- d. die Entwicklung und technische Unterstützung des Einreise- und Ausreisesystems (Art. 36);
+- e. die Informationen, über welche Drittstaatsangehörige, deren Daten im EES aufgezeichnet werden, zu unterrichten sind (Art. 50 Abs. 4);
+- f. die Spezifikation und Bedingungen für die Website, welche Informationen zum EES enthält (Art. 50 Abs. 5);
+- g. die Spezifikationen der technischen Lösung zur Erstellung von Statistiken (Art. 72 Abs. 8).[^34-4]
+
+<sup>2</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission, welche die Verfahren für die Berichterstattung über die Betriebskostenunterstützung im Rahmen der nationalen Programme der Schengen-Staaten betreffen und gestützt auf die Artikel 10 Absatz 6 und 11 Absatz 6 der Verordnung (EU) Nr. 515/2014[^34-5] erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.
+
+<sup>2bis</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission, welche die Einführung eines Programms für die Entwicklung von IT-Systemen zur Unterstützung der Steuerung von Migrationsströmen über die Aussengrenzen betreffen und gestützt auf Artikel 5 Absatz 5 Buchstaben b und Artikel 15 und 17 der Verordnung (EU) Nr. 515/2014 erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.[^34-6]
 
 <sup>3</sup>
 
-Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten und Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) Nr. 514/2014[^34-6], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und:[^34-7]
+Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten und Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) Nr. 514/2014[^34-7], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und:[^34-8]
 
 - a. die Meldungen der finanziellen Unregelmässigkeiten betreffen und gestützt auf Artikel 5 Absatz 6 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - b. das Arbeitsprogramm und die Soforthilfe betreffen und gestützt auf Artikel 6 Absatz 2 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - c. das Muster, nach dem die nationalen Programme erstellt werden, betreffen und gestützt auf Artikel 14 Absatz 4 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - d. die Bedingungen und Modalitäten des elektronischen Datenaustauschsystems betreffen und gestützt auf Artikel 24 Absatz 5 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
-- d<sup>bis</sup>.[^34-8] die Mindestvoraussetzungen für die Benennung der zuständigen Behörden in Bezug auf deren internes Umfeld, Kontrolltätigkeiten, Information, Kommunikation und Monitoring sowie Verfahrensregeln für die Erteilung und die Aufhebung der Benennung betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe a der Verordnung (EU) Nr. 514/2014 erlassen wurden;
-- d<sup>ter</sup>.[^34-9] die Regeln für die Überwachung und das Verfahren für die Überprüfung der Benennung der zuständigen Behörden betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe b der Verordnung (EU) Nr. 514/2014 erlassen wurden;
-- [tab] d<sup>quater</sup>.[^34-10] die Pflichten der zuständigen Behörden im Rahmen der öffentlichen Massnahmen sowie den Inhalt ihrer Verwaltungs- und Kontrollaufgaben betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe c der Verordnung (EU) Nr. 514/2014 erlassen wurden;
+- d<sup>bis</sup>.[^34-9] die Mindestvoraussetzungen für die Benennung der zuständigen Behörden in Bezug auf deren internes Umfeld, Kontrolltätigkeiten, Information, Kommunikation und Monitoring sowie Verfahrensregeln für die Erteilung und die Aufhebung der Benennung betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe a der Verordnung (EU) Nr. 514/2014 erlassen wurden;
+- d<sup>ter</sup>.[^34-10] die Regeln für die Überwachung und das Verfahren für die Überprüfung der Benennung der zuständigen Behörden betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe b der Verordnung (EU) Nr. 514/2014 erlassen wurden;
+- [tab] d<sup>quater</sup>.[^34-11] die Pflichten der zuständigen Behörden im Rahmen der öffentlichen Massnahmen sowie den Inhalt ihrer Verwaltungs- und Kontrollaufgaben betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe c der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - e. die Verfahren und Vorschriften zwecks Vereinheitlichung der Kontrollen durch die zuständige Behörden betreffen und gestützt auf Artikel 27 Absatz 5 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - f. die Muster für den Antrag auf Zahlung des Jahressaldos betreffen und gestützt auf Artikel 44 Absatz 3 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - g. die Modalitäten für das jährliche Rechnungsabschlussverfahren betreffen und gestützt auf Artikel 45 Absatz 2 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
@@ -635,15 +651,16 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 - j. die Muster für die jährlichen Durchführungsberichte und den Schlussbericht betreffen und gestützt auf Artikel 54 Absatz 8 der Verordnung (EU) Nr. 514/2014 erlassen wurden.
 
 [^34-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
-[^34-2]: Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Aussengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011, Fassung gemäss ABl. L 327 vom 9.12.2017, S. 20.
+[^34-2]: Vgl. die Fussnote zu Art. 1 Abs. 4 Bst. b<sup>bis</sup>
 [^34-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34-4]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. b.
-[^34-5]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-6]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. a.
-[^34-7]: Fassung gemäss Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-8]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-4]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34-5]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. b.
+[^34-6]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-7]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. a.
+[^34-8]: Fassung gemäss Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 [^34-9]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 [^34-10]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-11]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 
 #### Art. 34a
 
@@ -653,7 +670,8 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 
 Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2018/1240[^34a-2], sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EU) 2018/1240 erlassen wurden und sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34a-3] darstellen und Folgendes regeln:
 
-- a. ein Formular, das die Meldung von Missbrauch seitens gewerblicher Mittlerorganisationen ermöglicht (Art. 15 Abs. 5);
+- a.[^34a-4] die Festlegung der technischen Modalitäten für die Datenspeicherung (Art. 11 Abs. 10);
+- a<sup>bis</sup>.[^34a-5] ein Formular, das die Meldung von Missbrauch seitens gewerblicher Mittlerorganisationen ermöglicht (Art. 15 Abs. 5);
 - b. den Betrieb der öffentlichen Website und die Anwendung für Mobilgeräte sowie die entsprechenden Bestimmungen in Bezug auf Datenschutz und Datensicherheit (Art. 16 Abs. 10);
 - c. die Anforderungen an das Format der Personendaten, die in das Gesuchsformular aufzunehmen sind, sowie die Parameter und die Überprüfungen, die durchzuführen sind, um die Vollständigkeit des Gesuchs und die Kohärenz dieser Daten sicherzustellen (Art. 17 Abs. 9);
 - d. die Anforderungen an die Audio- und Videokommunikationsmittel sowie deren Einsatz (Art. 27 Abs. 5);
@@ -663,6 +681,7 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 - h. die Voraussetzungen für den Betrieb des Zugangs für Beförderungsunternehmen und die geltenden Datenschutz- und Sicherheitsvorschriften (Art. 45 Abs. 2);
 - i. das Authentifizierungssystem, das ausschliesslich den Beförderungsunternehmen vorbehalten ist (Art. 45 Abs. 3);
 - j. die Einzelheiten des Ausweichverfahrens (Art. 46 Abs. 4);
+- j<sup>bis</sup>.[^34a-6] die durch die ETIAS-Zentralstelle zu leistende Unterstützung der Beförderungsunternehmen und die Mittel zur Bereitstellung dieser Unterstützung (Art. 46 Abs. 5);
 - k. die Muster-Notfallpläne für den Fall, dass der Datenzugriff an den Schengen-Aussengrenzen technisch nicht möglich ist (Art. 48 Abs. 4);
 - l. das Muster eines Sicherheitsplans sowie eines Notfallplans zur Aufrechterhaltung und Wiederherstellung des Betriebs (Art. 59 Abs. 4);
 - m. die Massnahmen, die für die Entwicklung und die technische Implementierung des ETIAS-Zentralsystems, der einheitlichen nationalen Schnittstellen, der Kommunikationsinfrastruktur und des Zugangs für Beförderungsunternehmen notwendig sind (Art. 73 Abs. 3 Bst. b);
@@ -676,6 +695,7 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EU) 2018/1240, sofern die delegierten Rechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EU) 2018/1240 erlassen wurden und sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und Folgendes regeln:
 
 - a. die Anforderungen des Dienstes für sichere Konten, der es den Gesuchstellerinnen und Gesuchstellern ermöglicht, im Bedarfsfall zusätzliche Angaben oder Unterlagen zu übermitteln (Art. 6 Abs. 4);
+- a<sup>bis</sup>.[^34a-7] die Festlegung der Bedingungen für die Übereinstimmung zwischen den Daten in einem Datensatz, einer Ausschreibung oder Datei der anderen abgefragten EU-Informationssysteme (Art. 11 Abs. 9);
 - b. die Festlegung der Liste der Berufsgruppen (Art. 17 Abs. 3 und 5);
 - c. den Inhalt und das Format der Fragen an die Gesuchstellerin oder den Gesuchsteller (Art. 17 Abs. 5);
 - d. den Inhalt und das Format der zusätzlichen Fragen sowie die vorgegebene Liste von Antworten (Art. 17 Abs. 6);
@@ -693,6 +713,10 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 [^34a-1]: Eingefügt durch Ziff. I der V vom 13. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
 [^34a-2]: Verordnung (EU) 2018/1240 des Europäischen Parlaments und des Rates vom 12. September 2018 über die Einrichtung eines Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS) und zur Änderung der Verordnungen (EU) Nr. 1077/2011, (EU) Nr. 515/2014, (EU) 2016/399, (EU) 2016/1624 und (EU) 2017/2226, Fassung gemäss ABl. L 236 vom 19.9.2018, S. 1.
 [^34a-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34a-4]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34a-5]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34a-6]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34a-7]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 
 #### Art. 34b
 
@@ -720,7 +744,9 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zu den Verordnungen (EU) 2019/817[^34c-2] und (EU) 2019/818[^34c-3], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34c-4] darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnungen (EU) 2019/817 und (EU) 2019/818 erlassen wurden und Folgendes regeln:
 
 - a. ein Formular, das der Information einer betroffenen Person bei Vorliegen einer roten Verknüpfung zwischen zwei oder mehreren Schengen/Dublin-Informationssystemen dient (Art. 32 Abs. 5 der Verordnungen [EU] 2019/ 817 und [EU] 2019/818);
-- b. ein Formular, das der Information einer betroffenen Person bei Vorliegen einer weissen Verknüpfung zwischen zwei oder mehreren Schengen/Dublin-Informationssystemen dient (Art. 33 Abs. 6 der Verordnungen [EU] 2019/ 817 und [EU] 2019/818).
+- b. ein Formular, das der Information einer betroffenen Person bei Vorliegen einer weissen Verknüpfung zwischen zwei oder mehreren Schengen/Dublin-Informationssystemen dient (Art. 33 Abs. 6 der Verordnungen [EU] 2019/ 817 und [EU] 2019/818);
+- c.[^34c-5] die Einzelheiten der Mechanismen und Verfahren für die automatische Datenqualitätskontrolle sowie der gemeinsamen Datenqualitätsindikatoren und der Mindestqualitätsstandards für die Speicherung von Daten im EES, im VIS, im ETIAS, im SIS und im gemeinsamen BMS und im CIR, insbesondere bei biometrischen Daten (Art. 37 Abs. 4);
+- d.[^34c-6] die Einführung und Entwicklung eines universellen Nachrichtenformats zur Festlegung bestimmter inhaltlicher Elemente des grenzüberschreitenden Informationsaustauschs zwischen Informationssystemen und den zuständigen Behörden und Organisationen (Art. 38 Abs. 3).
 
 <sup>2</sup>
 
@@ -733,6 +759,8 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 [^34c-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. d.
 [^34c-3]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. e.
 [^34c-4]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34c-5]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34c-6]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 
 #### Art. 34d
 
@@ -1183,7 +1211,7 @@ Es kann im Einvernehmen mit den schweizerischen Grenzkontrollbehörden mit den a
 
 ...[^69-2]
 
-[^69-1]: [[AS 2008 5441](https://fedlex.data.admin.ch/eli/oc/2008/758)[6273](https://fedlex.data.admin.ch/eli/oc/2008/856)Ziff. III, [2009 5097](https://fedlex.data.admin.ch/eli/oc/2009/594)[6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 6, [2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168)[5763](https://fedlex.data.admin.ch/eli/oc/2010/815)[5767](https://fedlex.data.admin.ch/eli/oc/2010/816), [2011 3317](https://fedlex.data.admin.ch/eli/oc/2011/446), [2012 3817](https://fedlex.data.admin.ch/eli/oc/2012/444)[4891](https://fedlex.data.admin.ch/eli/oc/2012/582), [2013 2733](https://fedlex.data.admin.ch/eli/oc/2013/565), [2014 1393](https://fedlex.data.admin.ch/eli/oc/2014/296), [2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)Ziff. I 2 [1867](https://fedlex.data.admin.ch/eli/oc/2015/359)[3035](https://fedlex.data.admin.ch/eli/oc/2015/571)[3723](https://fedlex.data.admin.ch/eli/oc/2015/624)[4237](https://fedlex.data.admin.ch/eli/oc/2015/709)Ziff. III, [2016 1283](https://fedlex.data.admin.ch/eli/oc/2016/256)[3721](https://fedlex.data.admin.ch/eli/oc/2016/627), [2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)Ziff. I 2 [1683](https://fedlex.data.admin.ch/eli/oc/2017/177)[2549](https://fedlex.data.admin.ch/eli/oc/2017/239)[3273](https://fedlex.data.admin.ch/eli/oc/2017/339)]
+[^69-1]: [[AS 2008 5441](https://fedlex.data.admin.ch/eli/oc/2008/758), [6273](https://fedlex.data.admin.ch/eli/oc/2008/856)Ziff. III; [2009 5097](https://fedlex.data.admin.ch/eli/oc/2009/594), [6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 6; [2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168), [5763](https://fedlex.data.admin.ch/eli/oc/2010/815), [5767](https://fedlex.data.admin.ch/eli/oc/2010/816), [2011 3317](https://fedlex.data.admin.ch/eli/oc/2011/446); [2012 3817](https://fedlex.data.admin.ch/eli/oc/2012/444), [4891](https://fedlex.data.admin.ch/eli/oc/2012/582); [2013 2733](https://fedlex.data.admin.ch/eli/oc/2013/565); [2014 1393](https://fedlex.data.admin.ch/eli/oc/2014/296); [2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)Ziff. I 2, [1867](https://fedlex.data.admin.ch/eli/oc/2015/359), [3035](https://fedlex.data.admin.ch/eli/oc/2015/571), [3723](https://fedlex.data.admin.ch/eli/oc/2015/624), [4237](https://fedlex.data.admin.ch/eli/oc/2015/709)Ziff. III; [2016 1283](https://fedlex.data.admin.ch/eli/oc/2016/256), [3721](https://fedlex.data.admin.ch/eli/oc/2016/627); [2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)Ziff. I 2, [1683](https://fedlex.data.admin.ch/eli/oc/2017/177), [2549](https://fedlex.data.admin.ch/eli/oc/2017/239), [3273](https://fedlex.data.admin.ch/eli/oc/2017/339)]
 [^69-2]: Die Änderungen können unter [AS 2018 3087](https://fedlex.data.admin.ch/eli/oc/2018/493)konsultiert werden.
 
 #### Art. 70

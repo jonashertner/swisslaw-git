@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2021-01-01
+version: 2021-09-15
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20210915/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20210915-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20210915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20210101/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 15 agosto 2018 (Stato 15 settembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -46,24 +46,30 @@ La presente ordinanza disciplina parimenti la competenza di concludere trattati 
 
 - a. regolamento (UE) n. 514/2014[^1-1];
 - b. regolamento (UE) n. 515/2014[^1-2];
-- c. regolamento (CE) n. 810/2009[^1-3] (codice dei visti);
-- d.[^1-4] regolamento (UE) 2019/817[^1-5];
-- e.[^1-6] regolamento (UE) 2019/818[^1-7];
-- f.[^1-8] regolamento (CE) n. 1683/95[^1-9];
-- g.[^1-10] regolamento (CE) n. 1030/2002[^1-11].[^1-12]
+- b<sup>bis</sup>.[^1-3] regolamento (UE) 2017/2226[^1-4];
+- b<sup>ter</sup>.[^1-5] regolamento (UE) 2018/1240[^1-6];
+- c. regolamento (CE) n. 810/2009[^1-7] (codice dei visti);
+- [tab] d.[^1-8] regolamento (UE) 2019/817[^1-9];
+- e.[^1-10] regolamento (UE) 2019/818[^1-11];
+- f.[^1-12] regolamento (CE) n. 1683/95[^1-13];
+- g.[^1-14] regolamento (CE) n. 1030/2002[^1-15].[^1-16]
 
 [^1-1]: Regolamento (UE) n. 514/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, recante disposizioni generali sul Fondo asilo, migrazione e integrazione e sullo strumento di sostegno finanziario per la cooperazione di polizia, la prevenzione e la lotta alla criminalità e la gestione delle crisi, versione della GU L 150 del 20.5.2014, pag. 112.
 [^1-2]: Regolamento (UE) n. 515/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, che istituisce, nell’ambito del Fondo sicurezza interna, lo strumento di sostegno finanziario per le frontiere esterne e i visti e che abroga la decisione n. 574/2007/CE, versione della GU L 150 del 20.5.2014, pag. 143.
-[^1-3]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 lug. 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1155, GU L 188 del 12.7.2019, pag. 25.
-[^1-4]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-5]: Regolamento (UE) 2019/817 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore delle frontiere e dei visti e che modifica i regolamenti (CE) n. 767/2008, (UE) n. 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 e (UE) 2018/1861 del Parlamento europeo e del Consiglio e le decisioni 2004/512/CE e 2008/633/GAI del Consiglio, versione della GU L 135 del 22.5.2019, pag. 27.
-[^1-6]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-7]: Regolamento (UE) 2019/818 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi d’informazione dell’UE nel settore della cooperazione di polizia e giudiziaria, asilo e migrazione, e che modifica i regolamenti (UE) 2018/1726, (UE) 2018/1862 e (UE) 2019/816, versione della GU L 135 del 22.5.2019, pag. 85.
-[^1-8]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-9]: Regolamento (CE) n. 1683/95 del Consiglio, del 29 maggio 1995, che istituisce un modello uniforme per i visti, GU L 164 del 14.7.1995, pag. 1; modificato da ultimo dal regolamento (UE) 2017/1370, GU L 198 del 28.7.2017, pag. 24.
-[^1-10]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-11]: Regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002, che istituisce un modello uniforme per i permessi di soggiorno rilasciati a cittadini di paesi terzi, GU L 157 del 15.6.2002, pag. 1; da ultimo modificato dal regolamento (UE) 2017/1954, GU L 286 dell’1.11.2017, pag. 9.
-[^1-12]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-3]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-4]: Regolamento (UE) 2017/2226 del Parlamento europeo e del Consiglio, del 30 novembre 2017, che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, GU L 327 del 9.12.2017, pag. 20; modificato da ultimo dal regolamento (UE) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
+[^1-5]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-6]: Regolamento (UE) 2018/1240 del Parlamento europeo e del Consiglio, del 12 settembre 2018, che istituisce un sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) e che modifica i regolamenti (UE) n. 1077/2011, (UE) n. 515/2014, (UE) 2016/399, (UE) 2016/1624 e (UE) 2017/2226, GU L 236 del 19.9.2018, pag. 1; modificato da ultimo dal regolamento (EU) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
+[^1-7]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 lug. 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1155, GU L 188 del 12.7.2019, pag. 25.
+[^1-8]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-9]: Regolamento (UE) 2019/817 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore delle frontiere e dei visti e che modifica i regolamenti (CE) n. 767/2008, (UE) n. 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 e (UE) 2018/1861 del Parlamento europeo e del Consiglio e le decisioni 2004/512/CE e 2008/633/GAI del Consiglio, GU L 135 del 22.5.2019, pag. 27; modificato da ultimo dal regolamento (UE) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
+[^1-10]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-11]: Regolamento (UE) 2019/818 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore della cooperazione di polizia e giudiziaria, asilo e migrazione, e che modifica i regolamenti (UE) 2018/1726, (UE) 2018/1862 e (UE) 2019/816, GU L 135 del 22.5.2019, pag. 85; modificato da ultimo dal regolamento (UE) 2021/1150, GU L 249 del 14.7.2021, pag. 1.
+[^1-12]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-13]: Regolamento (CE) n. 1683/95 del Consiglio, del 29 maggio 1995, che istituisce un modello uniforme per i visti, GU L 164 del 14.7.1995, pag. 1; modificato da ultimo dal regolamento (UE) 2017/1370, GU L 198 del 28.7.2017, pag. 24.
+[^1-14]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-15]: Regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002, che istituisce un modello uniforme per i permessi di soggiorno rilasciati a cittadini di paesi terzi, GU L 157 del 15.6.2002, pag. 1; da ultimo modificato dal regolamento (UE) 2017/1954, GU L 286 dell’1.11.2017, pag. 9.
+[^1-16]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -610,7 +616,17 @@ Le modalità di cooperazione ai sensi dell’articolo 94 capoverso 1 LStrI compr
 
 **Conclusione di trattati internazionali legati al sistema di ingressi/uscite e al Fondo per la sicurezza interna[^34-1]**
 
-<sup>1</sup> La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione che la Commissione europea ha erogato ai fini dello sviluppo e dell’attuazione tecnica del sistema di ingressi/uscite conformemente all’articolo 36 del regolamento (UE) 2017/2226[^34-2], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* della legge del 21 marzo 1997[^34-3] sull’organizzazione del Governo e dell’Amministrazione (LOGA).[^34-4]
+<sup>1</sup>
+
+La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi al regolamento (UE) 2017/2226[^34-2], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* della legge del 21 marzo 1997[^34-3] sull’organizzazione del Governo e dell’Amministrazione (LOGA) e riguardino gli ambiti seguenti:
+
+- a. le condizioni per il funzionamento del servizio web e la protezione dei dati e le norme di sicurezza applicabili al servizio web (art. 13 par. 7);
+- b. la procedura sostitutiva in caso di impossibilità tecnica per i vettori di accedere ai dati nonché il sostegno operativo che l’unità centrale ETIAS fornisce in questi casi e i mezzi per fornirlo (art. 13<sup>bis</sup> par. 3 e 4);
+- c. le prescrizioni riguardanti le informazioni sulla procedura sostitutiva trasmesse dalla Commissione europea qualora l’inserimento dei dati sia tecnicamente impossibile o in caso di guasto del sistema centrale dell’EES (art. 21 par. 2);
+- d. lo sviluppo e l’assistenza tecnica del sistema di ingressi/uscite (art. 36);
+- e. le informazioni da fornire ai cittadini di paesi terzi i cui dati sono registrati nell’EES (art. 50 par. 4);
+- f. le specifiche e le condizioni per il sito web che contiene informazioni sull’EES (art. 50 par. 5);
+- g. le specifiche della soluzione tecnica per la compilazione di statistiche (art. 72 par. 8).[^34-4]
 
 <sup>2</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea riguardanti le procedure di rendicontazione in merito al sostegno operativo nell’ambito dei programmi nazionali degli Stati Schengen e erogati in virtù degli articoli 10 paragrafo 6 e 11 paragrafo 6 del regolamento (UE) n. 515/2014[^34-5], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA.
 
@@ -635,9 +651,9 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 - j. i modelli per le relazioni annuale e finale di esecuzione e siano emanati in virtù dell’articolo 54 paragrafo 8 del regolamento (UE) n. 514/2014.
 
 [^34-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
-[^34-2]: Regolamento (UE) n. 2017/2226 del Parlamento europeo e del Consiglio del 30 nov. 2017 che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, GU L 327 del 9.12.2017, pag. 20.
+[^34-2]: Cfr. la nota a piè di pagina relativa all’art. 1 cpv. 4 lett. b<sup>bis</sup>.
 [^34-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34-4]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
+[^34-4]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^34-5]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. b.
 [^34-6]: Introdotto dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 [^34-7]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. a.
@@ -654,7 +670,8 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 
 La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi al regolamento (UE) 2018/1240[^34a-2], sempreché gli atti di esecuzione siano emanati sulla base degli articoli e paragrafi seguenti del regolamento (UE) 2018/1240, questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA[^34a-3] e riguardino gli ambiti seguenti:
 
-- a. un modulo che consenta la segnalazione di abusi commessi da un intermediario commerciale (art. 15 par. 5);
+- a.[^34a-4] la definizione delle modalità tecniche per la conservazione dei dati (art. 11 par. 10);
+- a<sup>bis</sup>.[^34a-5] un modulo che consenta la segnalazione di abusi commessi da un intermediario commerciale (art. 15 par. 5);
 - b. il funzionamento del sito web pubblico e dell’applicazione per dispositivi mobili, nonché norme dettagliate sulla protezione e la sicurezza dei dati (art. 16 par. 10);
 - c. i requisiti concernenti il formato dei dati personali da inserire nel modulo di domanda nonché i parametri e le verifiche da applicare per garantire la completezza della domanda e la coerenza di tali dati (art. 17 par. 9);
 - d. i requisiti dei mezzi di comunicazione audio e video nonché il loro funzionamento (art. 27 par. 5);
@@ -664,6 +681,7 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 - h. le condizioni per il funzionamento del portale per i vettori e le norme applicabili concernenti la protezione dei dati e la sicurezza (art. 45 par. 2);
 - i. il metodo di autenticazione, riservato esclusivamente ai vettori (art. 45 par. 3);
 - j. i dettagli delle procedure sostitutive (art. 46 par. 4);
+- j<sup>bis</sup>.[^34a-6] il sostegno operativo che l’unità centrale ETIAS fornisce in questi casi ai vettori e i mezzi per fornirlo (art. 46 par. 5);
 - k. i piani d’emergenza tipo in caso di impossibilità tecnica di accedere ai dati alle frontiere esterne dello spazio Schengen (art. 48 par. 4);
 - l. il piano di sicurezza tipo e un piano di continuità operativa e di ripristino in caso di disastro tipo (art. 59 par. 4);
 - m. le misure necessarie per lo sviluppo e la realizzazione tecnica del sistema centrale ETIAS, delle interfacce uniformi nazionali, dell’infrastruttura di comunicazione e del portale per i vettori (art. 73 par. 3 lett. b);
@@ -677,6 +695,7 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea relativi al regolamento (UE) 2018/1240, sempreché gli atti delegati siano emanati sulla base degli articoli e paragrafi seguenti del regolamento (UE) 2018/1240, questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA e riguardino gli ambiti seguenti:
 
 - a. i requisiti del servizio di account sicuro che consente ai richiedenti di fornire all’occorrenza i documenti o le informazioni supplementari richiesti (art. 6 par. 4);
+- a<sup>bis</sup>.[^34a-7] la definizione delle condizioni per la corrispondenza tra i dati contenuti in una cartella, in una segnalazione o in un fascicolo degli altri sistemi di informazione dell’UE consultati (art. 11 par. 9);
 - b. l’elaborazione dell’elenco dei gruppi di posizioni lavorative (art. 17 par. 3 e 5);
 - c. il contenuto e il formato delle domande poste ai richiedenti (art. 17 par. 5);
 - d. il contenuto e il formato delle domande aggiuntive e l’elenco predefinito di risposte a tali domande (art. 17 par. 6);
@@ -694,6 +713,10 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 [^34a-1]: Introdotto dal n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
 [^34a-2]: Regolamento (UE) 2018/1240 del Parlamento europeo e del Consiglio, del 12 set. 2018, che istituisce un sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) e che modifica i regolamenti (UE) n. 1077/2011, (UE) n. 515/2014, (UE) 2016/399, (UE) 2016/1624 e (UE) 2017/2226, versione della GU L 236 del 19.9.2018, pag. 1.
 [^34a-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34a-4]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34a-5]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34a-6]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34a-7]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 
 #### Art. 34b
 
@@ -721,7 +744,9 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi ai regolamenti (UE) 2019/817[^34c-2] e (UE) 2019/818[^34c-3], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA[^34c-4] e gli atti di esecuzione siano emanati sulla base degli articoli e paragrafi seguenti dei regolamenti (UE) 2019/817 e (UE) 2019/818 e riguardino gli ambiti seguenti:
 
 - a. un modulo volto a informare la persona interessata della presenza di un collegamento rosso tra due o più sistemi d’informazione Schengen/Dublino (art. 32 par. 5 dei regolamenti [UE] 2019/817 e [UE] 2019/818);
-- b. un modulo volto a informare la persona interessata della presenza di un collegamento bianco tra due o più sistemi d’informazione Schengen/Dublino (art. 33 par. 6 dei regolamenti [UE] 2019/817 e [UE] 2019/818.
+- b. un modulo volto a informare la persona interessata della presenza di un collegamento bianco tra due o più sistemi d’informazione Schengen/Dublino (art. 33 par. 6 dei regolamenti [UE] 2019/817 e [UE] 2019/818;
+- c.[^34c-5] i dettagli delle procedure e dei meccanismi automatizzati di controllo della qualità dei dati, gli indicatori comuni della qualità dei dati e le norme minime di qualità per conservare i dati nel SIS, nell’Eurodac, nell’ECRIS-TCN, nel BMS e nel CIR, in particolare per quanto riguarda i dati biometrici (art. 37 par. 4);
+- d.[^34c-6] l’istituzione e lo sviluppo di un formato universale dei messaggi per definire le norme relative a determinati elementi relativi al contenuto dello scambio di informazioni transfrontaliero tra i sistemi di informazione, le autorità e/o le organizzazioni (art. 38 par. 3).
 
 <sup>2</sup>
 
@@ -734,6 +759,8 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 [^34c-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. d.
 [^34c-3]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. e.
 [^34c-4]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^34c-5]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34c-6]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 
 #### Art. 34d
 
