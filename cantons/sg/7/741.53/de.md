@@ -4,11 +4,12 @@ number: "741.53"
 title: "Interkantonale Vereinbarung über die Versorgung der Gebiete Kapf, Honegg und Landmark des Bezirks Oberegg durch das Elektrizitätswerk der politischen Gemeinde Altstätten"
 language: de
 version: 1997-06-24
+corrected: 2021-09-15
 version_adopted: 1997-06-24
 adopted: 1997-06-24
 in_force: 1997-06-24
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/741.53"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3249/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/300/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -36,7 +37,7 @@ als Vereinbarung:[^ingress-2]
 
 <sup>3</sup> Der Vertrag bedarf der Genehmigung der zuständigen Behörden[^1-1] der Vereinbarungskantone.
 
-[^1-1]: Im Kanton St.Gallen das Bau- und Umweltdepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. n GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^1-1]: Im Kanton St.Gallen das Baudepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. n GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 2
 
