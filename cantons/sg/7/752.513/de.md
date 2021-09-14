@@ -4,11 +4,12 @@ number: "752.513"
 title: "Vereinbarung zwischen den Kantonen St.Gallen und Appenzell Ausserrhoden über den Bau und Betrieb einer gemeinsamen zentralen Abwasserreinigungsanlage durch die st.gallischen politischen Gemeinden Rorschach, Rorschacherberg, Goldach, Thal, Rheineck und St.Margrethen sowie die appenzell-ausserrhodischen Einwohnergemeinden Heiden, Wolfhalden, Walzenhausen und Lutzenberg"
 language: de
 version: 1967-07-31
+corrected: 2021-09-15
 version_adopted: 1967-07-31
 adopted: 1967-07-31
 in_force: 1967-07-31
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/752.513"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3255/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1620/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -34,7 +35,7 @@ vereinbaren:[^ingress-3]
 <sup>2</sup> Zweck und Organisation des Verbandes sowie die Rechte und Pflichten der Vertragspartner unter sich und gegenüber dem Verband sind von den beteiligten Vertragspartnern in einem Organisationsstatut festzulegen. Dieses Statut unterliegt der Genehmigung durch die zuständigen Behörden[^1-2] der Vertragskantone. Es tritt nach beidseitiger Genehmigung in Kraft.
 
 [^1-1]: Der Zweckverband ist inzwischen gegründet worden.
-[^1-2]: Im Kanton St.Gallen das Bau- und Umweltdepartement; Art. [11](https://www.gesetzessammlung.sg.ch/data/752.1,/de/art11) Abs. 1 des EG zum eidgenössischen Gewässerschutzgesetz, sGS [752.1,](https://www.gesetzessammlung.sg.ch/data/752.1,/de) und Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. d<sup>bis</sup> GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^1-2]: Im Kanton St.Gallen das Baudepartement; Art. [11](https://www.gesetzessammlung.sg.ch/data/752.1,/de/art11) Abs. 1 des EG zum eidgenössischen Gewässerschutzgesetz, sGS [752.1,](https://www.gesetzessammlung.sg.ch/data/752.1,/de) und Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d<sup>bis</sup> GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 2
 
