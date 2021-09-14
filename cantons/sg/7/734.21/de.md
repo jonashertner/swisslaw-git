@@ -5,12 +5,12 @@ title: Rheingesetz
 short: RhG
 language: de
 version: 2010-01-01
-valid_until: 2025-08-31
+corrected: 2021-09-15
 version_adopted: 2007-05-17
 adopted: 1987-06-18
 in_force: 1988-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/734.21"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3233/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1218/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -69,7 +69,7 @@ als Gesetz:[^ingress-3]
 <sup>2</sup> Es untersteht dem zuständigen Departement[^3-2]. Der Regierungsrat regelt die Organisation.
 
 [^3-1]: Vgl. Art. [43](https://www.gesetzessammlung.sg.ch/data/911.1/de/art43) EG zum Schweizerischen Zivilgesetzbuch, sGS [911.1](https://www.gesetzessammlung.sg.ch/data/911.1/de).
-[^3-2]: Bau- und Umweltdepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^3-2]: Baudepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 4
 
@@ -123,7 +123,7 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Die Perimeterbeiträge sind jährlich im voraus fällig.
 
-[^9-1]: Bau- und Umweltdepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^9-1]: Baudepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 10
 
@@ -151,7 +151,7 @@ als Gesetz:[^ingress-3]
 
 <sup>1</sup> Das zuständige Departement[^13-1] erlässt die zum Vollzug dieses Gesetzes erforderlichen Verfügungen.
 
-[^13-1]: Bau- und Umweltdepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^13-1]: Baudepartement; Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. d GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 14
 
