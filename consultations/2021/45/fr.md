@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur le stockage obligatoire des semences
 document: Projet mis en consultation
 language: fr

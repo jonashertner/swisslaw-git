@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla costituzione di scorte obbligatorie di sementi
 document: Progetto posto in consultazione
 language: it

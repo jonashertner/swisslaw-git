@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Pflichtlagerhaltung von Saatgut (Saatgutpflichtlagerverordnung)
 document: Vernehmlassungsvorlage
 language: de
