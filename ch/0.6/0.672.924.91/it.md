@@ -3,29 +3,28 @@ sr: "0.672.924.91"
 title: Convenzione del 25 settembre 2013 tra il Consiglio federale svizzero e il Governo della Repubblica popolare Cinese per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (con Protocollo)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/623"
 language: it
-version: 2014-11-15
+version: 2021-09-17
 adopted: 2013-09-25
 in_force: 2014-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/623/20141115/it/xml/fedlex-data-admin-ch-eli-cc-2014-623-20141115-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/623/20141115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/623/20210917/it/xml/fedlex-data-admin-ch-eli-cc-2014-623-20210917-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/623/20210917/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione tra il Consiglio federale svizzero e il Governo della Repubblica popolare Cinese per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio
 
-Traduzione*[^t-1]*
+Traduzione
 
 Conclusa il 25 settembre 2013
 
-Approvata dall’Assemblea federale il 20 giugno 2014[^t-2]
+Approvata dall’Assemblea federale il 20 giugno 2014[^t-1]
 
 Entrata in vigore attraverso uno scambio di note il 15 novembre 2014
 
-(Stato 15 novembre 2014)
+(Stato 17 settembre 2021)
 
-[^t-1]: RU **2014** 3583; FF **2014** 45 Dal testo originale tedesco.
-[^t-2]: [RU 2014 3581](https://fedlex.data.admin.ch/eli/oc/2014/622)
+[^t-1]: [RU 2014 3581](https://fedlex.data.admin.ch/eli/oc/2014/622)
 
 Il Consiglio federale svizzero e il Governo della Repubblica popolare Cinese,
 
@@ -59,6 +58,8 @@ Le imposte attuali cui si applica la Convenzione sono in particolare:
   - (ii) le imposte sugli utili delle imprese («enterprise income tax»)
   - [tab] (qui di seguito indicate quali «imposta cinese»);
 
+- [tab]
+- [tab]
 - b) per quanto concerne la Svizzera:
 - le imposte federali, cantonali e comunali
   - (i) sul reddito (reddito complessivo, reddito del lavoro, reddito del patrimonio, utili industriali e commerciali, utili di capitale e altri redditi), e
@@ -217,7 +218,7 @@ Le disposizioni del presente paragrafo non riguardano l’imposizione della soci
 
 Tuttavia, tali dividendi sono imponibili anche nello Stato contraente di cui la società che paga i dividendi è residente e in conformità alla legislazione di detto Stato contraente, ma, se la persona che riceve i dividendi ne è il beneficiario effettivo, l’imposta così applicata non può eccedere:
 
-- a) il 5 per cento dell’importo lordo dei dividendi, se il beneficiario effettivo è una società (diversa da una società di persone) che detiene direttamente almeno il 10 per cento del capitale della società che paga i dividendi;
+- a)[^10-1] il 5 per cento dell’importo lordo dei dividendi, se il beneficiario effettivo è una società (diversa da una società di persone) che detiene direttamente almeno il 25 per cento del capitale della società che paga i dividendi;
 - b) 10 per cento dell’importo lordo dei dividendi, in tutti gli altri casi.
 
 <sup>3.</sup> A prescindere dal paragrafo 2, lo Stato contraente di cui è residente la società che paga i dividendi esclude dall’imposizione i dividendi pagati se il beneficiario dei dividendi è l’altro Stato contraente, una delle sue suddivisioni politiche o dei suoi enti locali, l’ente o i fondi appartenenti interamente a tale Stato – conformemente a quanto regolato di comune intesa dalle autorità competenti degli Stati contraenti – oppure la Banca nazionale.
@@ -229,6 +230,8 @@ Tuttavia, tali dividendi sono imponibili anche nello Stato contraente di cui la 
 <sup>6.</sup> Se una società residente di uno Stato contraente trae utili o redditi dall’altro Stato contraente, quest’ultimo non può applicare alcuna imposta sui dividendi pagati dalla società, a meno che tali dividendi siano pagati ad un residente di detto altro Stato o che la partecipazione generatrice dei dividendi si ricolleghi effettivamente ad una stabile organizzazione o a una sede fissa situata in detto altro Stato, né prelevare alcuna imposta a titolo di imposizione degli utili non distribuiti sugli utili non distribuiti della società, anche se i dividendi pagati o gli utili non distribuiti costituiscono in tutto o in parte utili o redditi realizzati in detto altro Stato.
 
 <sup>7.</sup> Se una persona emette o trasferisce azioni o altri diritti per cui vengono pagati dividendi e dall’emissione o dal trasferimento intende principalmente trarre vantaggio in virtù delle disposizioni del presente articolo, queste non si applicano.
+
+[^10-1]: Correzione della Segreteria di Stato per le questioni finanziarie internazionali del 17 set. 2021, pubblicata il 23 set. 2021 ([RU 2021 575](https://fedlex.data.admin.ch/eli/oc/2021/575)).
 
 #### Art. 11
 

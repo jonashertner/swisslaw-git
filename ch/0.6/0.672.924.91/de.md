@@ -3,11 +3,11 @@ sr: "0.672.924.91"
 title: Abkommen vom 25. September 2013 zwischen dem Schweizerischen Bundesrat und der Regierung der Volksrepublik China zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (mit Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/623"
 language: de
-version: 2014-11-15
+version: 2021-09-17
 adopted: 2013-09-25
 in_force: 2014-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/623/20141115/de/xml/fedlex-data-admin-ch-eli-cc-2014-623-20141115-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/623/20141115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/623/20210917/de/xml/fedlex-data-admin-ch-eli-cc-2014-623-20210917-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/623/20210917/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 20. Juni 2014[^t-1]
 
 In Kraft getreten durch Notenaustausch am 15. November 2014
 
-(Stand am 15. November 2014)
+(Stand am 17. September 2021)
 
 [^t-1]: [AS 2014 3581](https://fedlex.data.admin.ch/eli/oc/2014/622)
 
@@ -221,7 +221,7 @@ Dieser Absatz berührt nicht die Besteuerung der Gesellschaft in Bezug auf die G
 
 Diese Dividenden können jedoch auch in dem Vertragsstaat, in dem die die Dividenden zahlende Gesellschaft ansässig ist, nach dem Recht dieses Staates besteuert werden; die Steuer darf aber, wenn die zur Nutzung der Dividenden berechtigte Person im anderen Vertragsstaat ansässig ist, nicht übersteigen:
 
-- a) 5 Prozent des Bruttobetrags der Dividenden, wenn die zur Nutzung berechtigte Person eine Gesellschaft (jedoch keine Personengesellschaft) ist, die unmittelbar über mindestens 25 Prozent des Kapitals der die Dividenden zahlenden Gesellschaft verfügt;
+- a)[^10-1] 5 Prozent des Bruttobetrags der Dividenden, wenn die zur Nutzung berechtigte Person eine Gesellschaft (jedoch keine Personengesellschaft) ist, die unmittelbar über mindestens 25 Prozent des Kapitals der die Dividenden zahlenden Gesellschaft verfügt;
 - b) 10 Prozent des Bruttobetrags der Dividenden in allen anderen Fällen.
 
 <sup>3.</sup> Ungeachtet des Absatzes 2 nimmt der Vertragsstaat, in dem die die Dividenden zahlende Gesellschaft ansässig ist, die gezahlten Dividenden von der Besteuerung aus, wenn die nutzungsberechtigte Person der andere Vertragsstaat selbst, eine seiner politischen Unterabteilungen oder eine seiner lokalen Körperschaften oder eine vollständig diesem Staat gehörende Einrichtung oder ein vollständig diesem Staat gehörender Fonds, auf die sich die zuständigen Behörden der Vertragsstaaten in gegenseitigem Einvernehmen einigen, oder die Nationalbank ist.
@@ -233,6 +233,8 @@ Diese Dividenden können jedoch auch in dem Vertragsstaat, in dem die die Divide
 <sup>6.</sup> Bezieht eine in einem Vertragsstaat ansässige Gesellschaft Gewinne oder Einkünfte aus dem anderen Vertragsstaat, so darf dieser andere Staat weder die von der Gesellschaft gezahlten Dividenden besteuern, es sei denn, dass diese Dividenden an eine im anderen Staat ansässige Person gezahlt werden oder dass die Beteiligung, für die die Dividenden gezahlt werden, tatsächlich zu einer im anderen Staat gelegenen Betriebsstätte oder festen Einrichtung gehört, noch Gewinne der Gesellschaft einer Steuer für nicht ausgeschüttete Gewinne unterwerfen, selbst wenn die gezahlten Dividenden oder die nicht ausgeschütteten Gewinne ganz oder teilweise aus im anderen Staat erzielten Gewinnen oder Einkünften bestehen.
 
 <sup>7.</sup> Die Bestimmungen dieses Artikels sind nicht anwendbar, wenn es der Hauptzweck einer mit der Schaffung oder der Übertragung der Aktien oder anderer Rechte, aufgrund derer die Dividenden gezahlt werden, befassten Person war, mit dieser Schaffung oder Übertragung einen Vorteil aus diesem Artikel zu ziehen.
+
+[^10-1]: Die Berichtigung des Staatssekretariats für internationale Finanzfragen vom 17. Sept. 2021, publiziert am 23. Sept. 2021, betrifft nur den italienischen Text ([AS 2021 575](https://fedlex.data.admin.ch/eli/oc/2021/575)).
 
 #### Art. 11
 
@@ -489,7 +491,7 @@ Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vert
 
 Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekündigt wird. Jeder Vertragsstaat kann vom Tag des Inkrafttretens des Abkommens an dem anderen Vertragsstaat bis zum 30. Juni eines Kalenderjahres schriftlich die Kündigung auf diplomatischem Weg mitteilen. In diesem Fall findet das Abkommen keine Anwendung mehr auf Einkünfte oder Vermögen, die in den Steuerjahren erzielt beziehungsweise gehalten werden, die am oder nach dem 1. Januar des auf die Kündigung folgenden Kalenderjahres beginnen.
 
-*Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Peking, am 25. September 2013, im Doppel in deutscher, chinesischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung ist der englische Wortlaut massgebend. Für den Schweizerischen Bundesrat: Für die Regierung der Volksrepublik China: Jacques de Watteville Zhang Zhiyong
+*Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Peking, am 25. September 2013, im Doppel in deutscher, chinesischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung ist der englische Wortlaut massgebend. Für den Schweizerischen Bundesrat: Jacques de Watteville Für die Regierung der Volksrepublik China: Zhang Zhiyong
 
 Protokoll
 
@@ -540,6 +542,5 @@ haben anlässlich der Unterzeichnung dieses Abkommens zwischen den beiden Staate
 Geschehen zu Peking, am 25. September 2013, im Doppel in deutscher, chinesischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung ist der englische Wortlaut massgebend.
 
 <table>
-<tr><td>Für den Schweizerischen Bundesrat:</td><td>Für die Regierung der Volksrepublik China:</td></tr>
-<tr><td>Jacques de Watteville</td><td>Zhang Zhiyong</td></tr>
+<tr><td>Für den Schweizerischen Bundesrat: Jacques de Watteville</td><td>Für die Regierung der Volksrepublik China: Zhang Zhiyong</td></tr>
 </table>
