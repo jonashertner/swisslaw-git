@@ -4,405 +4,224 @@ number: "811.002"
 title: Standeskommissionsbeschluss über die Ausübung der anderen Berufe des Gesundheitswesens
 short: StKB andere Gesundheitsberufe
 language: de
-version: 2009-01-01
-corrected: 2018-12-24
-version_adopted: 2008-12-16
+version: 2019-01-01
+corrected: 2021-09-17
+version_adopted: 2021-09-14
 adopted: 2018-12-04
 in_force: 2019-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/811.002"
-pdf: "https://ai.clex.ch/api/de/versions/749/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/1604/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss über die Ausübung der anderen Berufe des Gesundheitswesens
 
-vom 27. Juni 20001
+vom 04.12.2018 (Stand 01.01.2019)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
-gestützt auf Art. 8 des Gesundheitsgesetzes vom 26. April 1998,2
+gestützt auf Art. 8 sowie Art. 14 Abs. 1 und 2 des Gesundheitsgesetzes vom 26. April 1998,
 
 beschliesst:
 
-### I. Allgemeine Bestimmungen
+## I. Allgemeine Bestimmungen
 
-#### Art. 13
+#### Art. 1
 
 **Geltungsbereich**
 
-Dieser Beschluss regelt:
+<sup>1</sup> Dieser Beschluss regelt:
 
-- a) die bewilligungspflichtigen Tätigkeiten und Berufe des Gesundheitswesens mit Ausnahme der medizinischen Berufe gemäss Art. 7 des Gesundheitsgesetzes;
-
+- a) die bewilligungspflichtigen Tätigkeiten und Berufe des Gesundheitswesens mit Ausnahme der medizinischen Berufe gemäss Gesundheitsgesetz;
 - b) die Voraussetzungen für die Erteilung der Berufsausübungsbewilligung;
-
 - c) den zulässigen Tätigkeitsbereich;
+- d) die Berufspflichten.
 
-- d) die allgemeinen und besonderen Berufspflichten.
-
-#### Art. 24
+#### Art. 2
 
 **Bewilligungspflichtige Tätigkeiten**
 
-Der Bewilligungspflicht untersteht, wer sich, unabhängig von der Methodik gegen Entgelt oder berufsmässig, in einem der Krankenversicherungsgesetzgebung als Leistungsgerbringer\* vorgesehenen Beruf betätigt oder eine in Kapitel II dieses Beschlusses aufgeführte Tätigkeit ausübt.
+<sup>1</sup> Der Bewilligungspflicht unterstehen Tätigkeiten, die folgenden Berufen zuzuordnen sind:
+
+- a) Dentalhygienikerin oder Dentalhygieniker
+- b) Drogistin oder Drogist
+- c) Hebamme oder Entbindungspfleger
+- d) Ergotherapeutin oder Ergotherapeut
+- e) Ernährungsberaterin oder Ernährungsberater
+- f) Logopädin oder Logopäde
+- g) medizinische Masseurin oder medizinischer Masseur
+- h) Naturheilpraktikerin oder Naturheilpraktiker
+- i) Osteopathin oder Osteopath
+- j) Optometristin oder Optometrist
+- k) Pflegefachfrau oder Pflegefachmann
+- l) Physiotherapeutin oder Physiotherapeut
+- m) Podologin oder Podologe
+- n) Psychotherapeutin oder Psychotherapeut
+- o) Rettungssanitäterin oder Rettungssanitäter
+- p) Tierphysiotherapeutin oder Tierphysiotherapeut
 
 #### Art. 3
 
-**Bewilligungfreie Tätigkeiten**
+**Bewilligungsfreie Tätigkeiten**
 
-<sup>1</sup> Die Berufsausübung unter der fachlichen Verantwortung einer Person mit einer Berufsausübungsbewilligung bedarf keiner Bewilligung.
+<sup>1</sup> Die Atlaslogie und die Craniosacraltherapie gelten nicht als Manipulationen an der Wirbelsäule im Sinne von Art. 11 Abs. 1 lit. g des Gesundheitsgesetzes und sind ohne Bewilligung zulässig.
 
-<sup>2</sup> Sie sind dafür verantwortlich, dass die ihnen fachlich unterstellten Personen die übertragenen Verrichtungen beherrschen; sie haben deren Ausführung zu überwachen.
+<sup>2</sup> Medizinische Praxisassistentinnen oder medizinische Praxisassistenten dürfen entgegen Art. 11 Abs. 1 lit. d des Gesundheitsgesetzes Blutentnahmen bewilligungsfrei vornehmen, sofern sie hierfür über die nötige Aus- und Weiterbildung verfügen.
 
 #### Art. 4
 
-Verbote und Die in Kapitel II dieses Beschlusses aufgeführten Berufsausübenden sowie Aus-Ausnahmen übende einer anderen komplementärmedizinischen Tätigkeit oder eines komplementärmedizinischen Verfahrens dürfen keine Geschlechtskrankheiten oder andere meldepflichtigen Krankheiten behandeln und keine chirurgischen, geburtshilflichen und gynäkologischen Eingriffe sowie keine Verrichtungen zur Veränderung der Empfängnis- oder Zeugungsfähigkeit vornehmen.
+**Berufsausübung in eigener fachlicher Verantwortung**
 
-#### Art. 51
+<sup>1</sup> Als Gesundheitsfachperson in eigener fachlicher Verantwortung tätig sein darf, wer die Berufsausübungsbewilligung des Kantons besitzt.
 
-Bewilligung Die Berufsausübungsbewilligung wird durch das Gesundheits- und Sozialdepartement (nachfolgend Departement genannt) erteilt.
+#### Art. 5
 
-#### Art. 62
+**Bewilligungsvoraussetzungen**
 
-Besondere Vor- <sup>1</sup>In Ergänzung zu Art. 10 ff. des Gesundheitsgesetzes wird die Bewilligung erteilt, aussetzungen wenn folgende Voraussetzungen erfüllt sind:
+<sup>1</sup> Die Berufsausübungsbewilligung wird der gesuchstellenden Person erteilt, wenn sie:
 
-- a) Besitz eines anerkannten Diploms in der entsprechenden Berufsart;
+- a) die Voraussetzungen von Art. 10 des Gesundheitsgesetzes erfüllt;
+- b) über ein eidgenössisches oder gesamtschweizerisch anerkanntes Diplom, einen eidgenössisch anerkannten ausländischen Bildungsabschluss, ein eidgenössisches Fähigkeitszeugnis, einen gesamtschweizerisch anerkannten Fähigkeitsausweis oder einen eidgenössischen Fachausweis verfügt;
+- c) einen Nachweis der für die Ausübung des Berufes notwendigen Infrastruktur, wie Räumlichkeiten, Einrichtungen und Apparate, gemäss Richtlinien der anerkannten Berufsverbände erbringt.
 
-- b) physische und psychische Fähigkeit zur Ausübung des Berufes;
+<sup>2</sup> Für die Bewilligungserteilung der in der Bundesgesetzgebung über die Psychologieberufe und die Gesundheitsberufe geregelten Berufe sind die Bewilligungsvoraussetzungen dieser Erlasse massgebend.
 
-- c) Nachweis der für die Ausübung des Berufes notwendigen Infrastruktur wie Räumlichkeiten, Einrichtungen und Apparate gemäss den Richtlinien der anerkannten Berufsverbände;
+#### Art. 6
 
-- d) Nachweis einer ausreichenden Berufshaftpflichtversicherung;
+**Sprachkenntnisse**
 
-<sup>2</sup> Die berufsspezifischen Bewilligungsvoraussetzungen werden bei den einzelnen Berufen (nachstehend Kapitel II) geregelt.
+<sup>1</sup> Die gesuchstellende Person hat, sofern die Aus- und Weiterbildung nicht mehrheitlich in der deutschen Sprache erfolgt sind, ein international anerkanntes Sprachdiplom in Deutsch der Niveaustufe B2 gemäss dem gemeinsamen europäischen Referenzrahmen für Sprachen nachzuweisen.
 
-### Art. 6bis3
+#### Art. 7
 
-Gleichwertigkeit <sup>1</sup>Der Nachweis der Gleichwertigkeit ausländischer Diplome erfolgt durch Vorweisen ausländischer einer Anerkennungsbescheinigung der vom Bund oder den Kantonen dafür be-Diplome zeichneten Stelle.
+**Zulässiger Tätigkeitsbereich**
 
-<sup>2</sup> Bei Berufen, für die keine solche Stelle bezeichnet ist, entscheidet das Departement über die Gleichwertigkeit.
+<sup>1</sup> Gesundheitsfachpersonen dürfen nur jene bewilligungspflichtigen Tätigkeiten ausüben, für die sie eine Berufsausübungsbewilligung haben. Sie haben sich dabei an die Grenzen ihrer fachlichen Kompetenzen zu halten.
 
-#### Art. 74
-
-Bewilligung eines Bei Personen, die für einen im Kanton Appenzell I.Rh. bewilligungspflichtigen Beruf anderen Kantons eine Bewilligung eines anderen Kantons besitzen, erfolgt die Anerkennung in einem einfachen Verfahren.
+<sup>2</sup> Sie sind verpflichtet, Personen oder Tiere, deren Zustand (tier-)ärztlicher Abklärung oder Behandlung erfordert, an einen entsprechenden Arzt oder eine Ärztin zu verweisen.
 
 #### Art. 8
 
-**Bewilligungsentzug**
+**Anstellung von Mitarbeitenden**
 
-Die Bewilligung kann entschädigungslos entzogen werden, wenn Bedingungen und Auflagen oder andere Vorschriften nicht eingehalten werden oder wenn wichtige öffentliche oder private Interessen es erfordern.
+<sup>1</sup> Bewilligungsinhaberinnen und Bewilligungsinhaber dürfen keine Gesundheitsfachpersonen, die eine der Bewilligungspflicht unterstellte Tätigkeit ausüben, anstellen:
 
-#### Art. 91
+- a) welche die bundesrechtlichen und kantonalen Bewilligungsvoraussetzungen zur Berufsausübung in eigener fachlicher Verantwortung nicht erfüllen;
+- b) denen die Berufsausübungsbewilligung in einem Kanton oder in einem anderen Land entzogen wurde;
+- c) denen gegenüber ein Berufsausübungsverbot ausgesprochen wurde.
 
-**Ankündigung**
+<sup>2</sup> Ausgenommen sind Anstellungen für die Dauer der Erlangung eines eidgenössischen oder gesamtschweizerisch anerkannten Diploms, eines eidgenössischen Weiterbildungstitels oder der eidgenössischen Anerkennung des ausländischen Diploms oder Weiterbildungstitels.
 
-<sup>1</sup> Die Ausübung eines bewilligungspflichtigen Berufes darf nur ankündigen, wer die zur Berufsausübung erforderliche Bewilligung besitzt. Die Ankündigung hat auf den Bewilligungsinhaber zu lauten.
+#### Art. 9
 
-<sup>2</sup> Die Ankündigung muss sachlich und darf nicht aufdringlich sein. Sie darf nicht zu Täuschungen Anlass geben. Die Angaben zu Spezialgebieten ist erlaubt.
+**Berufsausübung unter fachlicher Verantwortung**
+
+<sup>1</sup> Gesundheitsfachpersonen ohne Berufsausübungsbewilligung dürfen bewilligungspflichtige Tätigkeiten ausüben, wenn die Verantwortung über ihre Tätigkeit von einer Person des gleichen Berufs wahrgenommen wird. Die Verantwortungsübernahme muss vor Tätigkeitsbeginn schriftlich festgehalten werden.
+
+<sup>2</sup> Die die Verantwortung wahrnehmende Person muss über die Berufsausübungsbewilligung des Kantons verfügen.
+
+<sup>3</sup> Art. 8 dieses Erlasses ist sinngemäss anwendbar, auch wenn kein Arbeitsverhältnis zwischen der unterstellten Person und der die Verantwortung wahrnehmenden Person besteht. Die Verantwortung wahrnehmende Person ist für die Einhaltung dieser Voraussetzungen verantwortlich.
 
 #### Art. 10
 
-**Aufzeichnungen**
+**Besondere Berufspflicht fachverantwortlicher Personen**
 
-Der Bewilligungsinhaber sowie die ihm fachlich unterstellten Personen haben über ihre Berufstätigkeit Aufzeichnungen zu machen, welche Angaben zur behandelnden Person sowie das Wesentliche über Zeitraum und Art der Behandlung enthalten. Die Aufzeichnungen sind während mindestens zehn Jahren aufzubewahren.
+<sup>1</sup> Wer die Verantwortung für die Tätigkeit von anderen Personen übernimmt, hat dafür zu sorgen, dass die unterstellten Personen ihren Beruf sorgfältig und gewissenhaft ausüben, sich an die Grenzen ihrer Kompetenzen halten, die ihnen übertragenen Tätigkeiten beherrschen und die beruflichen Kenntnisse, Fähigkeiten und Fertigkeiten durch ihrem Tätigkeitsgebiet entsprechende Fortbildung vertiefen, erweitern und verbessern.
+
+<sup>2</sup> Es dürfen nur Verrichtungen übertragen werden, zu deren Beaufsichtigung die übertragende Person befähigt ist und die nicht durch sie persönlich verrichtet werden müssen.
+
+<sup>3</sup> Die verantwortliche Gesundheitsfachperson oder die Stellvertretung hat in der Regel während der Öffnungszeiten des Betriebes oder der Praxis anwesend zu sein und muss auch bei ihrer Abwesenheit eine genügende Aufsicht sicherstellen.
 
 #### Art. 11
 
-**Stellvertretung**
+**Ankündigung**
 
-Eine Stellvertretung kann, soweit dieser Beschluss nichts anderes bestimmt, nur übernehmen, wer die fachlichen und persönlichen Voraussetzungen für die Erteilung der Berufsausübungsbewilligung erfüllt.
+<sup>1</sup> Bei der Ankündigung der Leistungserbringung durch Gesundheitsfachpersonen dürfen keine Heilversprechen abgegeben werden.
+
+<sup>2</sup> Es dürfen nur die vom Bundesrecht anerkannten Berufsbezeichnungen und Titel verwendet werden.
 
 #### Art. 12
 
+**Patientendokumentation**
+
+<sup>1</sup> Von jeder Patientin und jedem Patienten ist eine laufend nachzuführende Dokumentation anzulegen. Daraus muss unmittelbar ersichtlich sein, welche Person einen Eintrag vorgenommen oder veranlasst hat.
+
+<sup>2</sup> Die Patientendokumentation kann schriftlich oder elektronisch geführt werden. Sie gibt insbesondere Auskunft über Untersuchungen, Diagnose, Therapie, Pflege und Behandlungsmassnahmen.
+
+<sup>3</sup> Die Dokumentation ist während mindestens 10 Jahren nach Abschluss der letzten Behandlung aufzubewahren.
+
+<sup>4</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber sorgt dafür, dass die Dokumentation auch nach ihrem oder seinem Tod oder nach der Aufgabe des Berufs oder Betriebs für die Patientinnen und Patienten unter Wahrung des Berufsgeheimnisses zugänglich bleibt.
+
+<sup>5</sup> Stirbt eine Bewilligungsinhaberin oder ein Bewilligungsinhaber oder wird ein Betrieb geschlossen, kann die Dokumentation dem Gesundheits- und Sozialdepartment gegen eine Gebühr zur Aufbewahrung übergeben werden. Die Gebühr ist vom Nachlass der verstorbenen Person oder vom Betrieb zu tragen.
+
+#### Art. 13
+
 **Schweigepflicht**
 
-Der Bewilligungsinhaber bewahrt Stillschweigen über Wahrnehmungen, die ihm in Folge seines Berufes anvertraut worden sind.
+<sup>1</sup> Gesundheitsfachpersonen und ihre Hilfspersonen bewahren Stillschweigen über Wahrnehmungen, die ihnen in Folge ihres Berufes anvertraut worden sind.
 
-### II. Besondere Bestimmungen für einzelne Berufe
+#### Art. 14
 
-#### Art. 132
+**Pflichten gegenüber der Aufsichtsbehörde**
 
-**Augenoptiker**
+<sup>1</sup> Bewilligungsinhaberinnen und Bewilligungsinhaber sowie ihre Hilfspersonen haben dem Departement und den von ihm beauftragten Dritten jederzeit zwecks Durchführung von Kontrollen den Zugang zu den Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren sowie die notwendigen Auskünfte zu erteilen.
 
-<sup>1</sup> Als Augenoptiker wird zugelassen, wer sich über das eidgenössische höhere Fachdiplom als Augenoptiker ausweist.
+#### Art. 15
 
-<sup>2</sup> Augenoptiker sind berechtigt, Korrektionsbestimmungen und kontaktlose Augendruckmessungen vorzunehmen sowie Kontaktlinsen anzupassen und abzugeben.
+**Mitteilungspflicht**
 
-#### Art. 141
+<sup>1</sup> Die Inhaberin oder der Inhaber einer Berufsausübungsbewilligung meldet dem Departement umgehend:
 
-**Chiropraktiker**
+- a) jede Änderung einer für die Erteilung der Bewilligung massgebenden Tatsache;
+- b) wesentliche Änderungen der betrieblichen Einrichtungen;
+- c) die Eröffnung, Verlegung und Aufgabe der Praxis oder des Betriebs.
 
-<sup>1</sup> Als Chiropraktor wird zugelassen, wer den Ausweis der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren über die bestandene interkantonale Fachprüfung für Chiropraktoren besitzt.
+## II. Besondere Bestimmungen für einzelne Berufe oder Tätigkeitsbereiche
 
-<sup>2</sup> Der Chiropraktor kann auf seinem Fachgebiet Patienten nach eigener Diagnose behandeln. Er ist zur Aufnahme von Röntgenbildern befugt.
+#### Art. 16
 
-<sup>3</sup> Absolventen des für die Zulassung zur interkantonalen Prüfung geforderten Praktikums können während ihrer Assistenztätigkeit für befristete Vertretungen zugelassen werden.
+**Naturheilpraktikerin oder Naturheilpraktiker**
 
-#### Art. 152
+<sup>1</sup> Inhaber und Inhaberinnen des von der Organisation der Arbeitswelt Alternativmedizin (OdA AM) ausgestellten Zertifikats OdA AM erhalten eine auf maximal fünf Jahre befristete Berufsausübungsbewilligung für eine supervidierte Tätigkeit. Die Supervision ist durch die Organisation der Arbeitswelt sicherzustellen.
 
-**Dentalhygieniker**
+#### Art. 17
 
-<sup>1</sup> Als Dentalhygieniker wird zugelassen, wer sich ausweist über:
+**Pflege**
 
-- a) einen Prüfungsausweis des Schweizerischen Roten Kreuzes SRK oder über eine dreijährige ausländische Ausbildung und einem vom SRK anerkannten Fachausweis nach zweijähriger unselbstständiger praktischer Tätigkeit in der Schweiz;
+<sup>1</sup> Nicht bewilligungspflichtig sind
 
-- b) einen Prüfungsausweis der Schweizerischen Zahnärztegesellschaft SSO oder eine zweijährige ausländische Ausbildung und ein vom SRK anerkannter Fachausweis nach dreijähriger unselbstständiger praktischer Tätigkeit in der Schweiz und dem Nachweis von 120 Stunden fachbezogener Fort- und Weiterbildung.
+- a) die Pflege von Familienangehörigen und von nahestehenden Personen; die pflegebedürftige Person entscheidet eigenverantwortlich, ob ihr eine Person nahesteht;
+- b) die häusliche Betreuung, bei der nicht die Pflege von Kranken im Vordergrund steht.
 
-<sup>2</sup> Der Dentalhygieniker ist berechtigt:
+#### Art. 18
 
-- a) selbstständig Zahnreinigungen und Zahnsteinentfernungen vorzunehmen, Patientinnen und Patienten bezüglich Mundhygiene und Prophylaxe zu beraten und anzuleiten sowie allgemeine Diagnostik zu betreiben;
+**Drogistin oder Drogist**
 
-- b) auf Verordnung eines praxisberechtigten Zahnarztes bzw. Arztes paradontaltherapeutische Leistungen zu erbringen, soweit diese Behandlung keine zahnärztliche Fachkenntnisse voraussetzt;
+<sup>1</sup> Für die fachverantwortliche Leitung einer Drogerie ist das Diplom der eidgenössischen höheren Fachprüfung als Drogistin oder Drogist erforderlich.
 
-<sup>3</sup> Dem Dentalhygieniker ist es untersagt, medizinische Risikopatienten zu behandeln, sowie Leitungs-, Lokal- und Oberflächenanästhesien durchzuführen.
+## III. Übergangs- und Schlussbestimmungen
 
-#### Art. 163
+#### Art. 19
 
-**Drogist**
+**Übergangsbestimmungen**
 
-<sup>1</sup> Als Drogist wird zugelassen, wer das Diplom der eidgenössischen höheren Fachprüfung als Drogist besitzt.
+<sup>1</sup> Berufsausübungsbewilligungen, die vor dem Inkrafttreten dieses Erlasses erteilt wurden, bleiben in Kraft. Ihr Inhalt richtet sich nach dem neuen Recht.
 
-<sup>2</sup> Der Drogist führt als verantwortlicher Leiter eine Drogerie. Der Bewilligungsinhaber hat in der Regel während der Öffnungszeiten des Betriebes anwesend zu sein. Als Stellvertreter wird zugelassen:
+<sup>2</sup> Für neu der Bewilligungspflicht unterstellte Tätigkeiten ist innerhalb von einem Jahr seit Inkrafttreten dieses Standeskommissionsbeschlusses ein Bewilligungsgesuch einzureichen. Wird kein Bewilligungsgesuch eingereicht oder wird ihm nicht entsprochen, ist die weitere Ausübung der Tätigkeit untersagt.
 
-- a) wer die Voraussetzungen für die selbständige Berufsausübung erfüllt;
+<sup>3</sup> Das Departement kann Personen, die vor Inkrafttreten dieses Standeskommissionsbeschlusses während mindestens drei Jahren einen der Bewilligungspflicht unterstellten Beruf in eigener Verantwortung ausgeübt haben, bei genügender Qualifikation die Berufsausübungsbewilligung für höchstens fünf Jahre erteilen, auch wenn die gesetzlich geforderten Voraussetzungen nicht erfüllt sind.
 
-- b) Personen mit dafür geeigneter Grund- und spezifischer Zusatzausbildung. Das Departement erlässt hierzu nähere Bestimmungen.
+#### Art. 20
 
-#### Art. 171
+**Aufhebung bisherigen Rechts**
 
-**Ergotherapeut**
+<sup>1</sup> Der Standeskommissionsbeschluss über die Ausübung der anderen Berufe des Gesundheitswesens vom 27. Juni 2000 wird aufgehoben.
 
-<sup>1</sup> Als Ergotherapeut wird zugelassen, wer sich über ein Diplom einer vom Departement anerkannten Schule für Ergotherapie ausweist.
+#### Art. 21
 
-<sup>2</sup> Der Ergotherapeut führt nach ärztlicher Anordnung Behandlungen durch, die darauf ausgerichtet sind, die körperlichen, kognitiven und sozialen Funktionen zu verbessern oder zu kompensieren.
+**Inkrafttreten**
 
-#### Art. 182
+<sup>1</sup> Dieser Beschluss tritt am 1. Januar 2019 in Kraft.
 
-**Ernährungsberater**
-
-<sup>1</sup> Als Ernährungsberater wird zugelassen, wer sich über ein Diplom einer vom Departement anerkannten Ausbildungsinstitution ausweist.
-
-<sup>2</sup> Der Ernährungsberater zeigt Zusammenhänge zwischen Ernährung und Krankheit auf und erstellt auf Grund der ärztlichen Diagnose ein dem Krankheitszustand angepasstes Ernährungsprogramm.
-
-#### Art. 193
-
-**Fachmann für Hörhilfe und Orthopädist**
-
-<sup>1</sup> Als schweizerisches Fähigkeitszeugnis gilt der erfolgreiche Lehrabschluss nach den Vorschriften des Bundes.
-
-<sup>2</sup> Der Fachmann für Hörhilfe und der Orthopädist fertigen und passen Geräte und Heilvorrichtungen an.
-
-#### Art. 204
-
-**Hebamme**
-
-<sup>1</sup> Als Hebamme wird zugelassen, wer ein vom Departement anerkanntes Diplom als Hebamme besitzt.
-
-<sup>2</sup> Die Hebamme berät, betreut und überwacht Schwangere, bereitet diese auf die Geburt vor, leitet Geburten und pflegt Wöchnerinnen und Neugeborene.
-
-<sup>3</sup> Bei Komplikationen während der Schwangerschaft, der Geburt oder des Wochenbettes ist die Hebamme verpflichtet, einen Arzt beizuziehen.
-
-<sup>4</sup> Aussergewöhnliche Befunde bei Mutter und Kind hat sie unverzüglich dem Arzt zu melden.
-
-<sup>5</sup> Bei Totgeburten ist die Hebamme verpflichtet, den Kantonsarzt zu benachrichtigen.
-
-#### Art. 211
-
-Krankenschwes- <sup>1</sup>Als Krankenschwester/ Krankenpfleger wird zugelassen, wer sich über ein Diplom ter / Kranken- einer vom Departement anerkannten Gesundheits- und Krankenpflegeschule auspfleger weist.
-
-<sup>2</sup> Diplome in allgemeiner Krankenpflege, psychiatrischer Krankenpflege, Kinderkrankenpflege sowie Wochen- und Säuglingspflege sind dem Diplomniveau II gleichgestellt.
-
-<sup>3</sup> Fähigkeitsausweise für die praktische Krankenpflege werden dem Diplomniveau I gleichgestellt, sofern der Inhaber eine vom Departement anerkannte Weiterbildung absolviert hat.
-
-<sup>4</sup> Der Krankenpfleger pflegt und betreut Kranke, Verunfallte oder Behinderte gemäss ihrem Ausbildungsniveau.
-
-<sup>5</sup> Diagnostische und therapeutische Verrichtungen dürfen nur nach Anordnung eines Arztes ausgeführt werden.
-
-<sup>6</sup> Nicht bewilligungspflichtig ist:
-
-- a) die Tätigkeit in einem Spital oder in einem Alters- und Pflegeheim;
-
-- b) die Pflege von Familienangehörigen;
-
-- c) die häusliche Betreuung, bei der nicht die Pflege von Kranken im Vordergrund steht.
-
-#### Art. 222
-
-Logopäde <sup>1</sup>Als Logopäde wird zugelassen, wer sich über ein Diplom einer vom Departement anerkannten Ausbildungsinstitution ausweist.
-
-<sup>2</sup> Der Logopäde ist befugt, Patienten mit komplexen Sprach-, Sprech-, Stimm- oder Schluckstörungen unter Berücksichtigung des klinisch-medizinischen Zustandes
-
-abzuklären und zu behandeln sowie die Angehörigen zu beraten.
-
-#### Art. 233
-
-Medizinischer <sup>1</sup>Als medizinischer Masseur wird zugelassen, wer sich über einen Abschluss an ei-Masseur ner vom Departement anerkannten Ausbildungsinstitution ausweist.
-
-<sup>2</sup> Der medizinische Masseur führt nach ärztlicher Anordnung passive physikalische Therapien durch.
-
-#### Art. 241
-
-**Naturheilpraktiker**
-
-<sup>1</sup> Zur Betätigung als Naturheilpraktiker wird zugelassen, wer eine der folgenden Voraussetzungen erfüllt:
-
-- a) bestandene eidgenössische höhere Fachprüfung im Berufsfeld der Alternativmedizin;
-
-- b) bestandene Prüfung der Schulprüfungs- und Anerkennungs-Kommission der Naturärztevereinigung der Schweiz;
-
-- c) bestandene Prüfung bei der Schweizerischen Berufsorganisation für Traditionelle Chinesische Medizin;
-
-- d) bestandene Prüfung beim Verein Schweizerische Homöopathie Prüfung;
-
-- e) Registrierung beim Erfahrungsmedizinischen Register;
-
-- f) anderes Qualitätslabel oder andere Prüfung von gesamtschweizerisch tätigen Institutionen oder Verbänden, soweit das Departement dieses bzw. diese anerkennt.
-
-<sup>2</sup> Der Naturheilpraktiker wendet jene Therapiemethode oder -methodengruppe an, über deren Registrierung oder bestandene Prüfung er sich bei der Erteilung der Bewilligung ausgewiesen hat.
-
-<sup>3</sup> Den Naturheilpraktikern sind untersagt:
-
-- a) chirurgische und geburtshilfliche Verrichtungen sowie die Behandlung von Geschlechtskrankheiten und übertragbaren Krankheiten;
-
-- b) venöse Blutentnahmen und Injektionen;
-
-- c) Manipulationen an der Wirbelsäule;
-
-- d) Elektrotherapien.
-
-<sup>4</sup> Der Naturheilpraktiker verweist den Patienten an einen Arzt, wenn der Zustand des Patienten eine ärztliche Untersuchung oder Behandlung erfordert.
-
-<sup>5</sup> Er führt seine Praxis in geeigneten und zweckmässig eingerichteten Räumen.
-
-### Art. 24bis2
-
-**Osteopath**
-
-<sup>1</sup> Als Osteopath wird zugelassen, wer den Ausweis der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren über die bestandene interkantonale Fachprüfung für Osteopathen besitzt.
-
-<sup>2</sup> Der Osteopath behandelt nach eigener osteopathischer Diagnose mit Hilfe osteopathischer Techniken und Manipulationen Gewebezustände, die sich in Einschränkungen der Beweglichkeit und funktionellen Störungen des Organismus äussern.
-
-<sup>3</sup> Der Osteopath darf keine anderen Interventionen vornehmen, keine Arzneimittel verschreiben, abgeben oder verabreichen und keine radiologischen Verfahren anwenden.
-
-<sup>4</sup> Er verweist den Patienten an einen Arzt, einen Zahnarzt oder einen Chiropraktor, wenn der Zustand eine ärztliche oder chiropraktische Untersuchung oder Behandlung erfordert.
-
-#### Art. 251
-
-**Physiotherapeut**
-
-<sup>1</sup> Als Physiotherapeut wird zugelassen, wer sich über ein Diplom einer vom Departement anerkannten Schule für Physiotherapie ausweist.
-
-<sup>2</sup> Der Physiotherapeut führt nach ärztlicher Anordnung aktive und passive physikalische Heilanwendungen durch, die darauf ausgerichtet sind, gestörte Funktionen des Bewegungsapparates und des Nervensystems zu verbessern sowie Schmerzen und Entzündungen zu lindern.
-
-#### Art. 262
-
-<sup>1</sup> Als Podologe wird zugelassen, wer sich über eine dreijährige Ausbil- Podologe (medidung bei einem vom Berufsverband anerkannten Lehrmeister oder einer zinische Fussvom Departement anerkannten Ausbildungsstätte ausweist.
-
-**pflege)**
-
-<sup>2</sup> Der Podologe behandelt Hühneraugen, Schwielen, Verhornungen und Warzen an den Füssen sowie verformte oder eingewachsene Zehennägel.
-
-<sup>3</sup> Er bringt am Fuss Wund- und Druckverbände an und betreibt Fussmassage und Fussgymnastik.
-
-<sup>4</sup> Er darf Fussstützen abgeben, die als Heilvorrichtungen registriert sind.
-
-#### Art. 273
-
-**Psychologe**
-
-<sup>1</sup> Als Psychologe wird zugelassen, wer sich ausweist über:
-
-- a) einen Studienabschluss in Psychologie als Hauptfach oder in einer entsprechenden Fächerverbindung an einer schweizerischen Universität;
-
-- b) ausreichende theoretische Kenntnisse auf wissenschaftlich anerkannter Grundlage über seelische Störungen von Kindern, Jugendlichen und Erwachsenen;
-
-- c) eine in der Regel wenigstens zweijährige, praxisorientierte, die psychopathologischen Zustände umfassende Weiterbildung in direktem, fachlich kontrolliertem Kontakt mit seelisch gestörten Kindern, Jugendlichen und Erwachsenen.
-
-<sup>2</sup> Der Psychologe ist zur psychologischen Beratung und zur psychodiagnostischen Beurteilung bei seelischen Krankheiten und seelischen Gesundheitsstörungen berechtigt.
-
-<sup>3</sup> Der Bewilligungsinhaber ist verpflichtet, einen Arzt beizuziehen, wenn der Zustand des Patienten ärztliche Abklärung oder Behandlung erfordert.
-
-#### Art. 281
-
-**Psychotherapeut**
-
-<sup>1</sup> Die Bewilligung zur psychotherapeutischen Tätigkeit wird Bewerbern ohne eidgenössisches Arztdiplom erteilt, wenn sie sich ausweisen über:
-
-- a) einen Studienabschluss in Psychologie als Hauptfach oder einer entsprechenden Fächerverbindung an einer schweizerischen Universität. Das Departement kann in begründeten Fällen eine abweichende Grundausbildung anerkennen;
-
-- b) einen vom Departement anerkannten Ausweis einer integralen psychotherapeutischen Spezialausbildung;
-
-- c) eine in der Regel insgesamt zweijährige Praxis in direktem, fachlich kontrolliertem Kontakt mit seelisch gestörten Personen.
-
-<sup>2</sup> Das Departement ist befugt, die Zulassungserfordernisse zu konkretisieren.
-
-<sup>3</sup> Der Psychotherapeut behandelt nach eigener Diagnose seelische Krankheiten und Verhaltensstörungen, bei denen Psychotherapie fachlich angezeigt ist.
-
-<sup>4</sup> Der Bewilligungsinhaber ist verpflichtet, einen Arzt beizuziehen, wenn der Zustand des Patienten ärztliche Abklärung oder Behandlung erfordert.
-
-#### Art. 292
-
-**Rettungssanitäter**
-
-<sup>1</sup> Als Rettungssanitäter wird zugelassen, wer über eine vom SRK oder dem Interverband für Rettungswesen anerkannte Ausbildung als Rettungssanitäter oder Transporthelfer verfügt.
-
-<sup>2</sup> Für den Rettungsdienst und die Tätigkeit des Rettungssanitäters sind die Richtlinien des Interverbandes für Rettungswesen massgeblich. Der verantwortliche Notarzt sorgt für die medizinische Qualität der Rettung und für die medizinischen Fortbildungsinhalte. Er hat bei der Delegation der Aufgaben und Kompetenzen die speziell erworbenen Kenntnisse des Rettungssanitäters zu berücksichtigen.
-
-#### Art. 303
-
-**Zahnprothetiker/Zahntechniker**
-
-<sup>1</sup> Als Zahnprothetiker/Zahntechniker wird zugelassen, wer eine in der Schweiz anerkannte Ausbildung mit Diplom abgeschlossen hat.
-
-<sup>2</sup> Der Zahnprothetiker ist berechtigt, selbstständig abnehmbaren Zahnersatz herzustellen und die dazu erforderlichen Zahnreinigungen, Abdrücke und Einpassungen vorzunehmen. Er darf die für die Berufsausübung gebräuchlichen, nicht rezeptpflichtigen Arzneimittel beziehen, anwenden und empfehlen. Er darf keine zahnärztlichen Eingriffe durchführen. Dies gilt namentlich für das Beschleifen von Zähnen sowie konservierende, orthodentische, chirurgische und parodontologische Behandlungen.
-
-<sup>3</sup> Der Zahntechniker betreibt ein zahntechnisches Laboratorium und führt technische Arbeiten aus, die ihm vom Zahnarzt zugewiesen werden. Verrichtungen an Patienten sind nur gestattet, wenn der behandelnde Zahnarzt diese durch schriftliche Erklärung bewilligt und die Verantwortung hiefür übernimmt.
-
-### III. Übergangs- und Schlussbestimmungen
-
-#### Art. 31
-
-Bestehende Be- Eine in diesem Beschluss erwähnte Tätigkeit, welche sich auf eine vor Inkrafttreten willigungen dieses Beschlusses erteilte Bewilligung stützt, wird weiterhin im Rahmen der erteilten Bewilligung gestattet.
-
-#### Art. 32
-
-**- Art. 331**
-
-#### Art. 34
-
-Inkrafttreten Dieser Beschluss tritt nach Annahme durch die Standeskommission in Kraft.
-
-## Weitere Fussnoten
-
-- [1] Mit Revision vom 16. August 2004, 13. Mai 2008 und 16. Dezember 2008.
-- [2] Titel abgeändert durch StKB vom 16. August 2004.
-- [3] Abgeändert durch StKB vom 16. August 2004.
-- [4] Abgeändert durch StKB vom 16. August 2004.
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter
-- [1] Abgeändert durch StKB vom 16. August 2004.
-- [2] Abgeändert durch StKB vom 16. August 2004.
-- [3] Eingefügt durch StKB vom 13. Mai 2008.
-- [4] Abgeändert durch StKB vom 16. August 2004 und 13. Mai 2008.
-- [1] Abgeändert (Marginalie) durch StKB vom 16. August 2004.
-- [2] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004.
-- [1] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004. Abgeändert (Abs. 1 und 3) durch StKB vom 13. Mai 2008.
-- [2] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004. Abs. 2 lit. c aufgehoben durch StKB vom 16. Dezember 2008 (Inkrafttreten: 1. Januar 2009)
-- [3] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004. Abs. 3 angefügt durch StKB vom 16. Dezember 2008 (Inkrafttreten: 1. Januar 2009).
-- [1] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004.
-- [2] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004.
-- [3] Abgeändert (Abs. 1 und Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004.
-- [4] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004. Abs. 6 aufgehoben durch StKB vom 16. Dezember 2008 (Inkrafttreten: 1. Januar 2009)
-- [1] Abgeändert (Abs. 2 und Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004.
-- [2] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004.
-- [3] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004.
-- [1] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004. Abgeändert durch StKB vom 13. Mai 2008. Abs. 2 letzter Satz aufgehoben durch StKB vom 16. Dezember 2008 (Inkrafttreten: 1. Januar 2009)
-- [2] Eingefügt durch StKB vom 13. Mai 2008.
-- [1] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004.
-- [2] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004.
-- [3] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004.
-- [1] Abgeändert (Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004.
-- [2] Abgeändert (Abs. 1 und Marginalie) und aufgehoben (Überschrift) durch StKB vom 16. August 2004.
-- [3] Abgeändert und aufgehoben (Überschrift) durch StKB vom 16. August 2004.
-- [1] Aufgehoben durch StKB vom 16. August 2004.
+cGS ----
