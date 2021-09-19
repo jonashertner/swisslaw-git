@@ -4,13 +4,13 @@ number: "320.113"
 title: Sonderverordnung 1 zur Begegnung von Störungen der öffentlichen Ordnung und Sicherheit sowie sozialen Notständen infolge des Coronavirus
 short: SonderV 20-1
 language: de
-version: 2021-08-01
-valid_until: 2021-09-19
-version_adopted: 2021-06-30
+version: 2021-09-20
+valid_until: 2021-09-30
+version_adopted: 2021-09-15
 adopted: 2020-04-01
 in_force: 2020-04-02
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/320.113"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3011/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3024/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3011/pdf_file"
 
 (SonderV 20-1)
 
-Vom 01.04.2020 (Stand 01.08.2021)
+Vom 01.04.2020 (Stand 20.09.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -153,6 +153,18 @@ beschliesst:
 [^9a-1]: SAR [651.100](https://gesetzessammlungen.ag.ch/data/651.100/de)
 [^9a-2]: SR [642.118.1](https://db.clex.ch/link/Bund/642.118.1/de)
 
+## 6<sup>bis</sup> Massnahmen im Bereich des öffentlich-rechtlichen Personalrechts
+
+#### § 9b
+
+**Überprüfung des Covid-Zertifikats durch den Arbeitgeber**
+
+<sup>1</sup> Die Arbeitgeber sind berechtigt, das Vorliegen eines Covid-Zertifikats gemäss Art. 3 der Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage) vom 23. Juni 2021[^9b-1] bei ihren Mitarbeitenden zu überprüfen, wenn dies der Festlegung angemessener Schutzmassnahmen oder der Umsetzung eines Testkonzepts dient. Das Ergebnis der Überprüfung darf nicht für andere Zwecke verwendet werden.
+
+<sup>2</sup> Sieht der Arbeitgeber die Überprüfung des Vorliegens eines Zertifikats gemäss Absatz 1 vor, hat er dies und die daraus abgeleiteten Massnahmen schriftlich festzuhalten. Die Mitarbeitenden oder deren Vertretung sind vorgängig anzuhören.
+
+[^9b-1]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
+
 ## 7. Massnahmen im Bereich des Bau-, Planungs- und Umweltrechts
 
 #### § 10
@@ -267,6 +279,8 @@ beschliesst:
 <sup>7</sup> Die Massnahmen gemäss den §§ 4a, 6a, 10–12b und 17 gelten bis zum 30. Juni 2021.
 
 <sup>8</sup> Die Massnahmen gemäss den §§ 8a und 9a gelten bis 31. Dezember 2021.
+
+<sup>9</sup> Die Massnahmen gemäss § 9b gelten bis 24. Januar 2022. Der Regierungsrat hebt sie ganz oder teilweise auf, sobald sie nicht mehr nötig sind.
 
 Aarau, 1. April 2020
 
