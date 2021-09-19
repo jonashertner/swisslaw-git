@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2021-09-13
+version: 2021-09-20
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210913/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210913-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210913/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210920/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210920-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210920/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210913/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 13. September 2021)
+vom 16. Januar 2019 (Stand am 20. September 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -600,7 +600,7 @@ Anhang 2*[^t-2]*
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft bis zum 31. Dez. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), Anhang 2 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), Anhang 3 Ziff. 1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) und Ziff. III der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft bis zum 31. Dez. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), Anhang 2 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), Anhang 3 Ziff. 1 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) und Ziff. III der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) und Anhang Ziff. 1 der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -735,9 +735,11 @@ Anhang 2*[^t-2]*
 <tr><td>16003. ...</td><td>[tab]</td></tr>
 <tr><td>16004. Verstoss als Besucherin oder Besucher gegen die Sitzpflicht bei Veranstaltungen im Freien ohne Zugangsbeschränkung (Art. 28 Bst. g i.V.m. Art. 14 Abs. 1 Bst. a Ziff. 1 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
 <tr><td>16005. Unberechtigter Zutritt ohne gültiges Zertifikat zu einer Örtlichkeit oder Veranstaltung, für den für Personen ab 16 Jahren ein solches Zertifikat verlangt wird (Art. 28 Bst. h Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
-<tr><td>**XVII.** **Epidemiengesetz vom 28. September 2012**[^annex2-lvlu1-lvlu1-26] **(EpG) i.V.m.** **Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Januar 2021**[^annex2-lvlu1-lvlu1-27]</td><td>[tab]</td></tr>
-<tr><td>17001. Fehlender Nachweis einer molekularbiologischen Analyse auf Sars-Cov-2 mit negativem Ergebnis bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG i.V.m. Art. 7 Abs. 1 Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)</td><td>[tab] 200</td></tr>
-<tr><td>[tab] 17002. Fehlende oder falsche Angaben der Kontaktdaten bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG und Art. 3 Abs. 1 und 2 Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)</td><td>[tab] 100</td></tr>
+<tr><td>**XVII.** **Epidemiengesetz vom 28. September 2012**[^annex2-lvlu1-lvlu1-26] **(EpG) i.V.m.** Covid-19-Verordnung internationaler Personenverkehr vom **23. Juni 2021**[^annex2-lvlu1-lvlu1-27]</td><td>[tab]</td></tr>
+<tr><td>17001. Fehlender Nachweis einer molekularbiologischen Analyse auf Sars-Cov-2 oder eines Sars-CoV-2-Schnelltests zur Fachanwendung mit negativem Ergebnis bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG i.V.m. Art. 8 Abs. 1 Covid-19-Verordnung internationaler Personenverkehr)</td><td>200</td></tr>
+<tr><td>17002. Fehlende oder falsche Angaben der Kontaktdaten bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG und Art. 3 Abs. 1 Covid-19-Verordnung internationaler Personenverkehr)</td><td>100</td></tr>
+<tr><td>17003. Nichtdurchführung eines Tests zwischen dem vierten und siebten Tag nach der Einreise (Art. 83 Abs. 1 Bst. k EpG und Art. 8 Abs. 3 Covid-19-Verordnung internationaler Personenverkehr)</td><td>200</td></tr>
+<tr><td>17004. Fehlende Meldung eines Testergebnisses des zwischen dem vierten und siebten Tag nach der Einreise durchgeführten Tests (Art. 83 Abs. 1 Bst. k EpG und Art. 10 Abs. 1 Covid-19-Verordnung internationaler Personenverkehr)</td><td>100</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
