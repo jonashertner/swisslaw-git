@@ -3,20 +3,22 @@ sr: "818.101.27"
 title: Verordnung vom 23. Juni 2021 über Massnahmen zur Bekämpfung der Covid-19-Epidemie im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung internationaler Personenverkehr)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: de
-version: 2021-08-04
+version: 2021-09-20
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210804/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210804-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210804/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210920/de/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210920-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210920/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs
+# Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie im Bereich des internationalen Personenverkehrs
 
-(Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
+(Covid-19-Verordnung internationaler Personenverkehr)**[^t-1]**
 
-vom 23. Juni 2021 (Stand am 4. August 2021)
+vom 23. Juni 2021 (Stand am 20. September 2021)
+
+[^t-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 Der Schweizerische Bundesrat,
 
@@ -30,22 +32,20 @@ verordnet:
 
 #### Art. 1
 
-<sup>1</sup> Diese Verordnung soll die grenzüberschreitende Ausbreitung des Coronavirus Sars-CoV-2 verhindern, insbesondere seiner besorgniserregenden Virusvarianten, die in der Schweiz noch nicht vorherrschend sind.
+[^1-1]
+
+<sup>1</sup> Diese Verordnung soll die grenzüberschreitende Ausbreitung des Coronavirus Sars-CoV-2 verhindern.
 
 <sup>2</sup>
 
-Sie regelt besondere grenzsanitarische Massnahmen für folgende Personen, die in die Schweiz einreisen:
+Sie regelt für Personen, die in die Schweiz einreisen:
 
-- a. Personen, die aus einem Staat oder Gebiet mit einer besorgniserregenden Virusvariante einreisen;
-- b. Personen, die mit dem Flugzeug einreisen.
+- a. die Erfassung von Kontaktdaten und soweit erforderlich von Gesundheitsdaten;
+- b. die Testpflicht.
 
-<sup>3</sup>
+<sup>3</sup> Sie regelt zudem für Personen, die aus einem Staat oder Gebiet mit einer besorgniserregenden Virusvariante einreisen, die Quarantäne und den Vollzug der Quarantäne.
 
-Sie regelt für die Personen nach Absatz 2 die folgenden Massnahmen:
-
-- a. die Erfassung von Kontaktdaten;
-- b. die Testpflicht vor der Einreise sowie im Flugverkehr vor dem Abflug;
-- c. die Pflicht zur Quarantäne und den Vollzug der Quarantäne.
+[^1-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ## 2. Abschnitt: Staat oder Gebiet mit einer besorgniserregenden Virusvariante
 
@@ -70,21 +70,22 @@ Massgebend für die Einstufung als Staat oder Gebiet mit einer besorgniserregend
 
 **Verpflichtete Personen**
 
-<sup>1</sup>
-
-Zur Erfassung von Kontaktdaten nach Artikel 49 der Epidemienverordnung vom 29. April 2015[^3-1] (Kontaktdaten) verpflichtet sind Personen, die:
-
-- a. aus einem Staat oder Gebiet nach Anhang 1 Ziffer 1 einreisen; oder
-- b. mit dem Flugzeug in die Schweiz einreisen.
+<sup>1</sup> Zur Erfassung von Kontaktdaten nach Artikel 49 der Epidemienverordnung vom 29. April 2015[^3-1] (Kontaktdaten) und soweit erforderlich von Gesundheitsdaten verpflichtet sind alle einreisenden Personen.[^3-2]
 
 <sup>2</sup>
 
-Ausgenommen von der Pflicht nach Absatz 1 sind Personen, die:
+Ausgenommen von dieser Pflicht sind Personen, die:[^3-3]
 
-- a. im Rahmen ihrer beruflichen Tätigkeit grenzüberschreitend Güter oder Personen befördern; oder
-- b. ohne Zwischenhalt durch die Schweiz durchreisen.
+- a. im Rahmen ihrer beruflichen Tätigkeit grenzüberschreitend Güter oder Personen befördern;
+- b. ohne Zwischenhalt durch die Schweiz durchreisen;
+- c.[^3-4] als Grenzgängerinnen und Grenzgänger in die Schweiz einreisen; oder
+- d.[^3-5] aus Gebieten an der Grenze zur Schweiz einreisen, mit denen ein enger wirtschaftlicher, gesellschaftlicher und kultureller Austausch stattfindet.
 
 [^3-1]: [SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
+[^3-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^3-3]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^3-4]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^3-5]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 #### Art. 4
 
@@ -97,9 +98,10 @@ Die Personen nach Artikel 3 müssen ihre Kontaktdaten vor der Einreise wie folgt
 - a. elektronisch über die vom Bundesamt für Gesundheit (BAG) zur Verfügung gestellte Plattform für die Kontaktdatenerfassung für Reisende[^4-1]; oder
 - b. auf den vom BAG in Papierform zur Verfügung gestellten Kontaktkarten.
 
-<sup>2</sup> Personen, die aus einem Staat oder Gebiet nach Anhang 1 Ziffer 1 und nicht mit einem Personenbeförderungsunternehmen nach Artikel 5 einreisen und ihre Kontaktdaten auf Kontaktkarten erfassen, müssen diese 14 Tage aufbewahren.
+<sup>2</sup> Personen, die nicht mit einem Personenbeförderungsunternehmen nach Artikel 5 einreisen und ihre Kontaktdaten auf Kontaktkarten erfassen, müssen diese 14 Tage aufbewahren.[^4-2]
 
 [^4-1]: Die Plattform für die Kontaktdatenerfassung für Reisende ist zugänglich unter https://swissplf.admin.ch
+[^4-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 #### Art. 5
 
@@ -137,55 +139,76 @@ Sobald es Kenntnis von der Einreise einer mit Sars-CoV-2 infizierten Person erh�
 
 <sup>5</sup> Die Kantone vernichten die Daten einen Monat, nachdem sie diese vom BAG oder von Dritten erhalten haben.
 
-## 4. Abschnitt: Flugverkehr: Testpflicht vor dem Abflug
+## 4. Abschnitt:**** Testpflicht vor der Abreise
+
+[^sec4-1]
+
+[^sec4-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 #### Art. 7
 
-<sup>1</sup> Die Luftverkehrsunternehmen müssen die Passagiere informieren, dass diese sich vor dem Abflug auf Sars-CoV-2 testen lassen müssen und dass sie zum Flugzeug nur zugelassen werden, wenn sie ein negatives Testergebnis vorweisen können.
+<sup>1</sup> Die Luftverkehrsunternehmen und die Busunternehmen, die Fernverkehrsreisen anbieten, müssen die Passagiere informieren, dass diese sich vor der Abreise auf Sars-CoV-2 testen lassen müssen und nur dann zum Flugzeug oder Bus zugelassen werden, wenn sie ein negatives Testergebnis vorweisen.
 
-<sup>2</sup>
+<sup>2</sup> Sie müssen vor der Abreise überprüfen, ob ein negatives Testergebnis vorliegt. Die Anforderungen an die Tests und die Testnachweise werden in Anhang 2*a* geregelt.
 
-Sie müssen vor dem Abflug überprüfen, ob ein negatives Testergebnis vorliegt, das auf einem Verfahren beruht, das dem Stand von Wissenschaft und Technik entspricht. Dabei gilt, dass die Probeentnahme für:
+<sup>3</sup> Die Luftverkehrsunternehmen und die Busunternehmen müssen Passagieren, die kein negatives Testergebnis vorweisen, den Zutritt zum Flugzeug oder Bus verweigern.
 
-- a. eine molekularbiologische Analyse auf Sars-CoV-2 nicht vor mehr als 72 Stunden durchgeführt worden sein darf;
-- b. einen immunologischen Sars-CoV-2-Schnelltest nicht vor mehr als 48 Stunden durchgeführt worden sein darf.
-
-<sup>3</sup>
-
-Das Dokument mit dem Testergebnis muss folgende Angaben enthalten:
-
-- a. Name, Vorname und Geburtsdatum der getesteten Person;
-- b. Datum und Zeit der Probeentnahme;
-- c. die Art der Testung nach Absatz 2 Buchstabe a oder b;
-- d. das Testergebnis selber.
-
-<sup>4</sup> Die Luftverkehrsunternehmen müssen Passagieren, die kein negatives Testergebnis nach Absatz 2 nachweisen können, den Zutritt zum Flugzeug verweigern.
-
-<sup>5</sup>
+<sup>4</sup>
 
 Sie dürfen folgende Passagiere ohne das Vorhandensein eines negativen Testergebnisses befördern:
 
-- a. Kinder unter 16 Jahren;
+- a. Personen unter 16 Jahren;
 - b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen dringend in die Schweiz transportiert werden müssen;
-- c. Personen, die das Schweizer Bürgerrecht oder einen von der Schweiz ausgestellten Aufenthaltstitel besitzen und keine Möglichkeit haben, sich innert nützlicher Frist oder mit vernünftigem Aufwand auf Sars-CoV-2 testen zu lassen; die fehlende Möglichkeit muss mit einer Selbstdeklaration bestätigt werden;
-- d. Personen, die auf der Durchreise einen schweizerischen Flughafen nutzen, ohne diesen vor der Weiterreise zu verlassen;
-- e. Personen, die den Nachweis erbringen, dass sie gegen Sars-CoV-2 geimpft sind; welche Personen als geimpft gelten, die Dauer, für welche die Impfung gilt, sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt;
-- f. Personen, die den Nachweis erbringen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Dauer der Ausnahme von der Testpflicht sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt;
-- g. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen Sars-CoV-2-Test machen können.
+- c. Personen, die auf der Durchreise einen schweizerischen Flughafen nutzen, ohne diesen vor der Weiterreise zu verlassen (Transitpassagiere);
+- d. Personen, die den Nachweis erbringen, dass sie gegen Sars-CoV-2 geimpft sind; wer als geimpft gilt, die Dauer, für welche die Impfung gilt, sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt;
+- e. Personen, die den Nachweis erbringen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Dauer der Ausnahme von der Testpflicht sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt;
+- f. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen Sars-CoV-2-Test machen können.
 
-<sup>6</sup> Bei Einreisen aus Staaten oder Gebieten nach Anhang 1 Ziffer 1 sind die Ausnahmen von der Testpflicht vor dem Abflug nach Absatz 5 Buchstaben e und f nicht anwendbar.
+<sup>5</sup> Bei Einreisen aus Staaten oder Gebieten nach Anhang 1 Ziffer 1 sind die Ausnahmen von der Testpflicht vor der Abreise nach Absatz 4 Buchstaben d und e nicht anwendbar.
 
 ## 5. Abschnitt: Test-, Quarantäne- und Meldepflicht der einreisenden Personen
 
 #### Art. 8
 
-**Zur Testung und Quarantäne verpflichtete Personen**
+**Testpflicht**[^8-1]
 
-<sup>1</sup> Zur Testung und zur Einhaltung der Quarantäne nach Artikel 9 verpflichtet sind Personen, die in die Schweiz einreisen und sich zu einem beliebigen Zeitpunkt innerhalb von 10 Tagen vor der Einreise in einem Staat oder Gebiet nach Anhang 1 aufgehalten haben.
+<sup>1</sup> In die Schweiz einreisende Personen müssen ein negatives Testergebnis vorweisen können. Die Anforderungen an die Tests sowie die Testnachweise werden in Anhang 2*a* geregelt.
 
 <sup>2</sup>
 
-Von der Test- und Quarantänepflicht nach Absatz 1 ausgenommen sind Personen:
+Wer bei der Einreise in die Schweiz kein negatives Testergebnis vorweisen kann, muss sich unverzüglich nach der Einreise testen lassen:
+
+- a. mit einer molekularbiologischen Analyse auf Sars-CoV-2; oder
+- b. mit einem Sars-CoV-2-Schnelltest zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^8-2].
+
+<sup>3</sup> Bei der Einreise testpflichtige Personen nach den Absätzen 1 und 2 müssen sich zwischen dem vierten und siebten Tag nach der Einreise erneut mit einem Test nach Absatz 2 testen lassen und dem Kanton ein Covid-19-Testzertifikat nach der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^8-3] vorlegen.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^8-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^8-3]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+
+#### Art. 9
+
+**Quarantänepflicht**[^9-1]
+
+<sup>1</sup> Personen, die aus einem Staat oder Gebiet nach Anhang 1 einreisen, müssen sich unverzüglich nach der Einreise auf direktem Weg in ihre Wohnung oder eine andere geeignete Unterkunft begeben und sich während zehn Tagen nach ihrer Einreise ständig dort aufhalten (Einreisequarantäne).
+
+<sup>2</sup> Ist die Person über einen Staat oder ein Gebiet ohne besorgniserregende Virusvariante eingereist, so kann die zuständige kantonale Behörde die Dauer des Aufenthalts in diesem Staat oder Gebiet an die Dauer der Einreisequarantäne anrechnen.
+
+<sup>3</sup> Personen in Einreisequarantäne können diese vorzeitig beenden, wenn sie sich mit einer molekularbiologischen Analyse auf Sars-CoV-2 oder mit einem Sars-CoV-2-Schnelltest zur Fachanwendung nach Artikel 24*a* Absatz 1 der Covid-19-Verordnung 3 vom 19. Juni 2020[^9-2] testen lassen und das Testergebnis negativ ausfällt. Der Test darf frühestens am siebten Tag der Quarantäne erfolgen. Die zuständige kantonale Behörde kann in begründeten Fällen die vorzeitige Beendigung der Einreisequarantäne aussetzen.
+
+<sup>4</sup> Personen, die die Einreisequarantäne vorzeitig beenden, müssen bis zum Zeitpunkt, in dem diese geendet hätte, ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und einen Abstand von mindestens 1,5 Metern zu anderen Personen einhalten.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^9-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+
+#### Art. 9a
+
+**Ausnahmen von der Testpflicht und der Quarantänepflicht**[^9a-1]
+
+<sup>1</sup>
+
+Von der Testpflicht nach Artikel 8 und der Quarantänepflicht nach Artikel 9 ausgenommen sind Personen:
 
 - a.
 
@@ -193,69 +216,80 @@ Von der Test- und Quarantänepflicht nach Absatz 1 ausgenommen sind Personen:
 
   - 1\. der Funktionsfähigkeit des Gesundheitswesens,
   - 2\. der öffentlichen Sicherheit und Ordnung,
-  - 3\. der Funktionsfähigkeit von institutionellen Begünstigten im Sinne von Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 2007[^8-1],
+  - 3\. der Funktionsfähigkeit von institutionellen Begünstigten im Sinne von Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 2007[^9a-2],
   - 4\. der diplomatischen und konsularischen Beziehungen der Schweiz;
 
 - b. die im Rahmen ihrer beruflichen Tätigkeit grenzüberschreitend Personen oder Güter befördern;
 - c. die sich als Transitpassagiere weniger als 24 Stunden in einem Staat oder Gebiet nach Anhang 1 aufgehalten haben;
-- d. die lediglich zur Durchreise in die Schweiz einreisen mit der Absicht und der Möglichkeit, direkt in ein anderes Land weiterzureisen;
-- e. die aus Staaten oder Gebieten nach Anhang 1 Ziffer 2 einreisen und die den Nachweis erbringen, dass sie gegen Sars-CoV-2 geimpft sind; welche Personen als geimpft gelten, die Dauer, für welche die Impfung gilt, sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt;
-- f. die aus Staaten oder Gebieten nach Anhang 1 Ziffer 2 einreisen und die den Nachweis erbringen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Dauer der Ausnahme sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt.
+- d. die ohne Zwischenhalt durch die Schweiz durchreisen;
+- e. die nicht aus Staaten oder Gebieten nach Anhang 1 Ziffer 1 einreisen und den Nachweis erbringen, dass sie gegen Sars-CoV-2 geimpft sind; welche Personen als geimpft gelten, die Dauer, für welche die Impfung gilt, sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt;
+- f. die nicht aus Staaten oder Gebieten nach Anhang 1 Ziffer 1 einreisen und den Nachweis erbringen, dass sie sich mit Sars-CoV-2 angesteckt haben und als genesen gelten; die Dauer der Ausnahme sowie die zugelassenen Nachweisarten werden in Anhang 2 geregelt;
+- g. die aus wichtigen medizinischen Gründen ohne Möglichkeit eines Aufschubs in die Schweiz einreisen;
+- h. die als Grenzgängerinnen und Grenzgänger einreisen.
 
-<sup>3</sup>
+<sup>2</sup>
 
-Von der Testpflicht nach Absatz 1 ebenfalls ausgenommen sind:
+Von der Testpflicht nach Artikel 8 ausgenommen sind zudem:
 
-- a. Kinder unter 16 Jahren;
-- b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen Sars-CoV-2-Test machen können.
+- a. Personen unter 16 Jahren;
+- b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen Sars-CoV-2-Test machen können;
+- c. Personen, die aus Gebieten an der Grenze zur Schweiz einreisen, mit denen ein enger wirtschaftlicher, gesellschaftlicher und kultureller Austausch stattfindet, sofern der entsprechende Staat oder das entsprechende Gebiet nicht in Anhang 1 Ziffer 1 aufgeführt ist.
 
-<sup>4</sup> Auf Personen, die Symptome einer Erkrankung mit Covid-19 aufweisen, ist Absatz 2 nicht anwendbar, es sei denn, die betreffende Person kann mit einem ärztlichen Attest nachweisen, dass die Symptome auf eine andere Ursache zurückzuführen sind.
+<sup>3</sup> Auf Personen, die Symptome einer Erkrankung mit Covid-19 aufweisen, ist Absatz 1 nicht anwendbar, es sei denn, die betreffende Person kann mit einem ärztlichen Attest nachweisen, dass die Symptome auf eine andere Ursache zurückzuführen sind.
 
-<sup>5</sup> Die zuständige kantonale Behörde kann in begründeten Fällen weitere Ausnahmen von der Test- und Quarantänepflicht bewilligen oder Erleichterungen gewähren.
+<sup>4</sup> Die zuständige kantonale Behörde kann in begründeten Fällen weitere Ausnahmen von der Test- und Quarantänepflicht bewilligen oder Erleichterungen gewähren.
 
-[^8-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-
-#### Art. 9
-
-**Test- und Quarantänepflicht**
-
-<sup>1</sup> Personen, die nach Artikel 8 zur Testung und Quarantäne verpflichtet sind, müssen nachweisen, dass sie sich innerhalb der letzten 72 Stunden mit einer molekularbiologischen Analyse auf Sars-CoV-2 oder innerhalb der letzten 48 Stunden mit einem immunologischen Sars-CoV-2-Schnelltest haben testen lassen und das Ergebnis des Tests negativ ausgefallen ist.
-
-<sup>2</sup> Sie sind verpflichtet, sich unverzüglich nach der Einreise auf direktem Weg in ihre Wohnung oder eine andere geeignete Unterkunft zu begeben. Sie müssen sich während 10 Tagen nach ihrer Einreise ständig dort aufhalten (Einreisequarantäne).
-
-<sup>3</sup> Ist die Person über einen Staat oder ein Gebiet ohne besorgniserregende Virusvariante eingereist, so kann die zuständige kantonale Behörde die Dauer des Aufenthalts in diesem Staat oder Gebiet an die Quarantäne nach Absatz 2 anrechnen.
-
-<sup>4</sup>
-
-Personen nach Absatz 1 und nach Artikel 7 Absatz 5 Buchstabe c, die bei der Einreise in die Schweiz keinen Test mit negativem Ergebnis vorweisen können, müssen sich unverzüglich nach der Einreise testen lassen:
-
-- a. mit einer molekularbiologischen Analyse auf Sars-CoV-2; oder
-- b. mit einem Sars-CoV-2-Schnelltest gemäss diagnostischem Standard.
-
-<sup>5</sup> Personen in Einreisequarantäne können die Quarantäne vorzeitig beenden, wenn sie sich mit einer molekularbiologischen Analyse auf Sars-CoV-2 oder mit einem Sars-CoV-2-Schnelltest gemäss diagnostischem Standard testen lassen und das Resultat negativ ausfällt. Der Test darf frühestens am siebten Tag der Quarantäne erfolgen. Die zuständige kantonale Behörde kann in begründeten Fällen die vorzeitige Beendigung der Quarantäne aussetzen.
-
-<sup>6</sup> Personen, die nach Absatz 5 die Einreisequarantäne vorzeitig beenden, müssen bis zu dem Zeitpunkt, bis zu dem die Quarantäne nach Absatz 2 gedauert hätte, ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und einen Abstand von mindestens 1,5 Metern zu anderen Personen einhalten.
+[^9a-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^9a-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 
 #### Art. 10
 
-**Meldepflicht**
-
-Wer gemäss dieser Verordnung verpflichtet ist, sich in Einreisequarantäne zu begeben, muss die Einreise innerhalb von zwei Tagen der zuständigen kantonalen Behörde melden und die Anweisungen dieser Behörde befolgen.
-
-## 6. Abschnitt: Kontrollen und Meldungen durch Grenzkontrollbehörden
-
-#### Art. 11
+**Meldepflichten**[^10-1]
 
 <sup>1</sup>
 
-Die Grenzkontrollbehörden können Personen bei der Einreise aus Staaten oder Gebieten mit einer besorgniserregenden Virusvariante in die Schweiz risikobasiert kontrollieren. Sie prüfen dabei:
+Wer sich nach Artikel 8 Absatz 3 testen lassen muss, muss das Covid-19-Testzertifikat nach der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^10-2] innerhalb von zwei Tagen der zuständigen kantonalen Behörde vorlegen und ihr:
 
-- a. das Vorliegen eines negativen Testergebnisses gemäss Artikel 9 Absatz 1;
+- a. die Nummer des nach Artikel 4 Absatz 1 Buchstabe a erstellten Einreiseformulars mitteilen; oder
+- b. eine Kopie der nach Artikel 4 Absatz 1 Buchstabe b erstellten Kontaktkarte zustellen.
+
+<sup>2</sup> Wer sich nach Artikel 9 in Einreisequarantäne begeben muss, muss die Einreise innerhalb von zwei Tagen der zuständigen kantonalen Behörde melden und die Anweisungen dieser Behörde befolgen.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^10-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+
+## 6. Abschnitt: Kontrollen und Meldungen****
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+
+#### Art. 11
+
+**Grenzkontrollbehörden[^11-1]**
+
+<sup>1</sup>
+
+Die Grenzkontrollbehörden können Personen bei der Einreise in die Schweiz risikobasiert kontrollieren. Sie prüfen dabei:[^11-2]
+
+- a.[^11-3] das Vorliegen eines negativen Testergebnisses gemäss Artikel 8 Absatz 1;
 - b. die Erfassung der Kontaktdaten gemäss Artikel 4 Absatz 1.
 
 <sup>2</sup> Kann die kontrollierte Person das negative Testergebnis oder die Erfassung der Kontaktdaten nicht nachweisen, so erstattet die Grenzkontrollbehörde der zuständigen kantonalen Behörde Meldung. Die Meldung umfasst Angaben zur eingereisten Person, zu Zeit und Ort der Kontrolle, zum angegebenen geplanten Aufenthaltsort in der Schweiz sowie das Kontrollergebnis.
 
 <sup>3</sup> Die Grenzkontrollbehörden können Ordnungsbussen erheben.
+
+[^11-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+
+#### Art. 11a
+
+**Kantone**[^11a-1]
+
+Die Kantone können das Vorliegen eines Testergebnisses nach Artikel 8 Absatz 3 überprüfen.
+
+[^11a-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ## 7. Abschnitt: Nachführung der Anhänge
 
@@ -264,6 +298,10 @@ Die Grenzkontrollbehörden können Personen bei der Einreise aus Staaten oder Ge
 <sup>1</sup> Das Eidgenössische Departement des Innern führt Anhang 1 nach Rücksprache mit dem Eidgenössischen Justiz- und Polizeidepartement, dem Eidgenössischen Finanzdepartement und dem Eidgenössischen Departement für auswärtige Angelegenheiten laufend nach.
 
 <sup>2</sup> Es führt Anhang 2 gemäss den aktuellen wissenschaftlichen Erkenntnissen und nach Anhörung der Eidgenössischen Kommission für Impffragen nach.
+
+<sup>3</sup> Es führt Anhang 2*a* gemäss den aktuellen wissenschaftlichen Erkenntnissen nach.[^12-1]
+
+[^12-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ## 8. Abschnitt: Schlussbestimmungen
 
@@ -283,15 +321,15 @@ Die Grenzkontrollbehörden können Personen bei der Einreise aus Staaten oder Ge
 
 Diese Verordnung tritt am 26. Juni 2021 um 00.00 Uhr in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1*[^t-2]*
 
-(Art. 2 Abs. 2 und 3, 3 Abs. 1 Bst. a, 4 Abs. 2, 7 Abs. 6, 8 Abs. 1 und 2 Bst. e und f sowie 12 Abs. 1)
+(Art. 2 Abs. 2 und 3, 3 Abs. 1 Bst. a, 7 Abs. 5, 9 Abs. 1, 9*a* Abs. 1 Bst. c, e und f und 2 Bst. c sowie 12 Abs. 1)
 
 ## Liste der Staaten und Gebiete mit einer besorgniserregenden Virusvariante****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 3. Aug. 2021, in Kraft seit 4. Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)).
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 3. Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete mit einer besorgniserregenden Virusvariante, die immunevasiv ist oder von der noch nicht klar ist, ob sie immunevasiv ist (Art. 2 Abs. 1 und 2)
@@ -302,11 +340,13 @@ Diese Liste enthält zurzeit keine Einträge.
 
 Diese Liste enthält zurzeit keine Einträge.
 
-Anhang 2
+Anhang 2*[^t-3]*
 
-(Art. 7 Abs. 5 Bst. e und f, 8 Abs. 2 Bst. e und f sowie 12 Abs. 2)
+(Art. 7 Abs. 4 Bst. d und e, 9*a* Abs. 1 Bst. e und f sowie 12 Abs. 2)
 
 ## Geimpfte und genesene Personen
+
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ### 1 Geimpfte Personen
 
@@ -315,8 +355,9 @@ Anhang 2
   Als geimpfte Personen gelten Personen, die mit einem Impfstoff geimpft wurden, der:
 
   - a. über eine Zulassung in der Schweiz verfügt und gemäss den Empfehlungen des BAG vollständig verimpft wurde;
-  - b. über eine Zulassung der Europäischen Arzneimittelagentur für die Europäische Union verfügt und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde; oder
-  - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
+  - b. über eine Zulassung der Europäischen Arzneimittelagentur für die Europäische Union verfügt und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde;
+  - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde; oder
+  - d. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a, b oder c zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
 - 1\.2 Die Dauer der Gültigkeit einer Impfung beträgt 12 Monate ab der vollständig erfolgten Impfung; beim Impfstoff von Janssen beträgt die Dauer 12 Monate ab dem 22. Tag nach erfolgter Impfung.
 - 1\.3 Der Nachweis für Geimpfte kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 1 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^annex2-lvlu1-lvl1-1] oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
@@ -331,7 +372,7 @@ Anhang 2
 
 ### 2 Genesene Personen
 
-- 2\.1 Die Dauer der Gültigkeit einer Genesung beträgt 6 Monate ab dem 11. Tag nach der Bestätigung der Ansteckung.
+- 2\.1 Die Dauer der Gültigkeit einer Genesung beginnt am 11. Tag nach der Bestätigung der Ansteckung und dauert sechs Monate ab Bestätigung der Ansteckung.
 - 2\.2 Der Nachweis für Genesung kann mit einem Covid-19-Zertifikat nach Artikel 1 Buchstabe a Ziffer 2 der Covid-19-Verordnung Zertifikate vom 4. Juni 2021 oder einem anerkannten ausländischen Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate erbracht werden.
 - 2\.3
 
@@ -339,6 +380,30 @@ Anhang 2
 
   - a. Bestätigung der Ansteckung einschliesslich Name und Adresse der bestätigenden Stelle (Teststelle, Ärztin oder Arzt, Apotheke, Spital);
   - b. Bestätigung der Aufhebung der Absonderung oder ärztliche Bestätigung der Genesung.
+
+Anhang 2a*[^t-4]*
+
+(Art. 7 Abs. 2, 8 Abs. 1 und 12 Abs. 3)
+
+## Anforderungen an Tests und Testnachweise
+
+[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+
+- 1\.
+
+  Das Testergebnis muss auf einem Verfahren beruhen, das dem Stand von Wissenschaft und Technik entspricht. Dabei gilt, dass die Probenentnahme für:
+
+  - a. eine molekularbiologische Analyse auf Sars-CoV-2 nicht vor mehr als 72 Stunden durchgeführt worden sein darf;
+  - b. ein Sars-CoV-2-Schnelltest zur Fachanwendung nicht vor mehr als 48 Stunden durchgeführt worden sein darf.
+
+- 2\.
+
+  Das Dokument mit dem Testergebnis muss folgende Angaben enthalten:
+
+  - a. Name, Vorname und Geburtsdatum der getesteten Person;
+  - b. Datum und Zeit der Probeentnahme;
+  - c. Art der Testung nach Ziffer 1 Buchstabe a oder b;
+  - d. Testergebnis.
 
 Anhang 3
 

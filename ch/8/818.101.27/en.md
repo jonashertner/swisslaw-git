@@ -3,22 +3,24 @@ sr: "818.101.27"
 title: Ordinance of 23 June 2021 on Measures to Combat the COVID-19 epidemic in International Travel (COVID-19 Ordinance on International Travel)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/380"
 language: en
-version: 2021-08-04
+version: 2021-09-20
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210804/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210804-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210804/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/380/20210920/en/xml/fedlex-data-admin-ch-eli-cc-2021-380-20210920-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/380/20210920/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Ordinance on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport
+# Ordinance on Measures to Combat the COVID-19 epidemic in International Passenger Transport
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-(COVID-19 Ordinance on International Passenger Transport Measures)
+(COVID-19 Ordinance on International Passenger Transport) **[^t-1]**
 
-of 23 June 2021 (Status as of 4 August 2021)
+of 23 June 2021 (Status as of 20 September 2021)
+
+[^t-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 The Swiss Federal Council,
 
@@ -26,28 +28,25 @@ on the basis of Article 41 paragraphs 1 and 3 of the Epidemics Act of 28 Septemb
 
 ordains:
 
-[^ingress-1]: AS **2021** 380 SR **818.101**
+[^ingress-1]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 
 ## Section 1 Purpose and Subject Matter
 
 #### Art. 1
 
-<sup>1</sup> This Ordinance aims to prevent the cross-border spread of the Sars-Cov-2 coronavirus, and in particular variants of the virus of concern that are not yet prevalent in Switzerland.
+[^1-1]
+
+<sup>1</sup> This Ordinance aims to prevent the cross-border spread of the Sars-Cov-2 coronavirus.
 
 <sup>2</sup>
 
-It regulates specific health related measures on entering Switzerland for the following persons:
+It regulates the following for persons entering Switzerland:
 
-- a. persons who enter Switzerland from a country or region with a variant of the virus of concern;
-- b. persons who enter Switzerland by air.
+- a. the recording of contact data and any other health data required;
+- b. the test requirement.
+- [tab] <sup>3</sup> It also regulates for persons who enter Switzerland from a country or region with a variant of the virus of concern, quarantine and its enforcement.
 
-<sup>3</sup>
-
-It regulates the following measures for the persons specified in paragraph 2:
-
-- a. recording contact data;
-- b. the requirement to be tested before entering Switzerland and before departure when travelling to Switzerland by air;
-- c. the requirement to quarantine and its enforcement.
+[^1-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ## Section 2 Countries and Regions with a Variant of the Virus of Concern
 
@@ -72,21 +71,24 @@ Categorisation as a country or region with a variant of the virus of concern req
 
 **Persons subject to the requirement**
 
-<sup>1</sup>
+<sup>1</sup> The requirement to record contact data pursuant to Article 49 of the Epidemics Ordinance of 29 April 2015[^3-1] and where necessary to record health data applies to all persons entering the country.[^3-2]
 
-The requirement to record contact data pursuant to Article 49 of the Epidemics Ordinance of 29 April 2015[^3-1] applies to persons who:
-
-- a. enter Switzerland from a country or region specified in Annex 1 number 1; or
-- b. enter Switzerland by air.
+- [tab]
 
 <sup>2</sup>
 
-An exemption to the requirement under paragraph 1 applies to persons who:
+An exemption to the requirement under paragraph 1 applies to persons who:[^3-3]
 
-- a. carry goods or passengers across the border in terms of their professional activities; or
-- b. travel through Switzerland without a stopover.
+- a. carry goods or passengers across the border in terms of their professionalactivities;
+- b. travel through Switzerland without a stopover;
+- c.[^3-4] enter the country as a cross-border commuter; or
+- d.[^3-5] enter the country from an area bordering on Switzerland which has strong econmic, social and cultural links to the country.
 
 [^3-1]: [SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
+[^3-2]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^3-3]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^3-4]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^3-5]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 #### Art. 4
 
@@ -99,9 +101,10 @@ The persons specified in Article 3 must record their contact data before entry a
 - a. online by means of the platform for recording contact data for travellers[^4-1] provided by the Federal Office of Public Health (FOPH); or
 - b. on the paper contact forms provided by the FOPH.
 
-<sup>2</sup> Persons who enter Switzerland from a country or region specified in Annex 1 number 1 but not as a passenger with a passenger transport operator pursuant to Article 5 and who record their contact details on a contact form must retain the form for 14 days.
+<sup>2</sup> Persons who enter Switzerland not as a passenger with a passenger transport operator pursuant to Article 5 and who record their contact details on a contact form must retain the form for 14 days.[^4-2]
 
 [^4-1]: The platform for recording contact data for travellers can be accessed at https://swissplf.admin.ch
+[^4-2]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 #### Art. 5
 
@@ -139,55 +142,76 @@ As soon as it is notified that a person infected with Sars-CoV-2 has entered Swi
 
 <sup>5</sup> The cantons shall destroy the data one month after they have received the same from the FOPH or from third parties.
 
-## Section 4 Air Travel: Requirement to be tested before Departure
+## Section 4 Air Travel:**** Requirement to be tested before departure
+
+[^sec4-1]
+
+[^sec4-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 #### Art. 7
 
-<sup>1</sup> Airlines must inform their passengers that they must be tested for Sars-CoV-2 before departure and that they will only be permitted to board the aircraft if they can provide a negative test result.
+<sup>1</sup> Airlines and coach companies offering long-distance journeys must inform their passengers that they must be tested for Sars-CoV-2 before departure and that they will only be permitted to board the aircraft or coach if they can provide a negative test result.
 
-<sup>2</sup>
+<sup>2</sup> Airlines must verify before departure whether a negative test result is available. The requirements for tests and proof of testing are regulated in Annex 2a.
 
-Airlines must verify before departure whether a negative test result is available that is based on a procedure that corresponds to the current state of the art in science and technology. The test sample for:
+<sup>3</sup> Airlines and coach companies must not permit passengers who are unable to provide a negative test result to board the aircraft or coach.
 
-- a. a molecular-biological analysis for Sars-CoV-2 must not have been taken more than 72 hours previously;
-- b. an immunological Sars-CoV-2-rapid test must not have been taken more than 48 hours previously.
-
-<sup>3</sup>
-
-The document with the test result must contain the following information:
-
-- a. the surname, first name and date of birth of the person tested;
-- b. the date and time of taking the sample;
-- c. the form of test pursuant to paragraph 2 letter a or b;
-- d. the test result itself.
-
-<sup>4</sup> Airlines must not permit passengers who are unable to provide a negative test result under paragraph 2 to board the aircraft.
-
-<sup>5</sup>
+<sup>4</sup>
 
 They may carry the following passengers without these passengers being required to produce a negative test result:
 
-- a. children under 16 years of age;
+- a. persons under 16 years of age;
 - b. persons who can provide a medical certificate to prove that they must be transported to Switzerland as a matter of urgency on medical grounds;
-- c. persons who have Swiss citizenship or hold a residence permit issued by Switzerland and who are unable to be tested for Sars-CoV-2 within a reasonable time or at reasonable expense; the persons concerned must sign a declaration confirming the lack of opportunity;
-- d. persons who are using a Swiss airport while in transit without leaving that airport before continuing their journey;
-- e. persons who provide proof that they have been vaccinated against Sars-CoV-2; the persons who are regarded as having been vaccinated, the duration for which the vaccination is regarded as effective and the accepted forms of proof regulated in Annex 2;
-- f. persons who provide proof that they have been infected with Sars-CoV-2 and have recovered; the duration of the exemption from the requirement to be tested and the accepted forms of proof are regulated in Annex 2;
-- g. persons who provide proof in the form of a medical certificate that they are unable on medical grounds to take a Sars-CoV-2 test.
+- c. persons who are using a Swiss airport while in transit without leaving that airport before continuing their journey (transit passengers);
+- d. persons who provide proof that they have been vaccinated against Sars-CoV-2; the persons who are regarded as having been vaccinated, the duration for which the vaccination is regarded as effective and the accepted forms of proof are regulated in Annex 2;
+- e. persons who provide proof that they have been infected with Sars-CoV-2 and have recovered; the duration of the exemption from the requirement to be tested and the accepted forms of proof are regulated in Annex 2;
+- f. persons who provide proof in the form of a medical certificate that they are unable on medical grounds to take a Sars-CoV-2 test.
 
-<sup>6</sup> Persons entering Switzerland from the countries or regions specified in Annex 1 number 1 are not eligible for the exemptions from the requirement to be tested before departure under paragraph 5 letters e and f.
+<sup>5</sup> Persons entering Switzerland from the countries or regions specified in Annex 1 number 1 are not eligible for the exemptions from the requirement to be tested before departure under paragraph 4 letters d and e.
 
 ## Section 5 Requirement for Persons entering Switzerland to be tested, to quarantine and to report
 
 #### Art. 8
 
-**Persons required to be tested and to quarantine**
+**Test requirement**[^8-1]
 
-<sup>1</sup> Persons entering Switzerland who have at any time within the 10 days before entry stayed in a country or region specified in Annex 1 must be tested and must comply with the rules on quarantine under Article 9.
+<sup>1</sup> Persons entering Switzerland must be able to show a negative test result. The test and proof of testing requirements are regulated in Annex 2*a*.
 
 <sup>2</sup>
 
-The following persons are exempted from the requirement to be tested and to quarantine under Article 7:
+Persons who are unable to provide proof of a negative test on entering Switzerland must immediately undergo one of the following tests on entry:
+
+- a. a molecular-biological analysis for Sars-CoV-2; or
+- b. a Sars-CoV-2 rapid test for specialist use in accordance with Article 24*a* paragraph 1 of COVID-19 Ordinance 3 of 19 June 2020[^8-2].
+
+<sup>3</sup> Persons who must take a test under paragraphs 1 and 2 must take an additional test in accordance with paragraph 2 between the fourth and seventh day after entering Switzerland and present to the canton a COVID-19 test certificate in accordance with the COVID-19 Certificates Ordinance of 4 June 2021[^8-3].
+
+[^8-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^8-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^8-3]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+
+#### Art. 9
+
+**Quarantine requirement**[^9-1]
+
+<sup>1</sup> Persons who enter Switzerland from a country or region listed in Annex 1 must on entry travel immediately and directly to their home or to other suitable accommodation. They must remain there without leaving at any time for 10 days following their entry (quarantine on entry).
+
+<sup>2</sup> Where a person has entered Switzerland from a country or region that does not have a variant of the virus of concern, the competent cantonal authority may take account of the duration of the person’s stay in that country or region when calculating the time to be spent in quarantine.
+
+<sup>3</sup> Persons required to quarantine on entry may leave quarantine within 10 days provided they undergo either a molecular-biological analysis for Sars-CoV-2 or a Sars-CoV-2-rapid test for specialist use in accordance with Article 24*a* paragraph 1 of COVID-19 Ordinance 3 of 19 June 2020[^9-2] and the result is negative. The test may be carried out at the earliest on the seventh day of quarantine. The competent cantonal authority may, in justified cases, suspend the early termination of quarantine.
+
+<sup>4</sup> Persons who leave quarantine early pursuant to paragraph 5 must wear a face mask and maintain a distance of at least 1.5 metres from other persons when outside their home or accommodation until the point in time at which quarantine under paragraph 2 would have ended.
+
+[^9-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^9-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+
+#### Art. 9a
+
+**Exemptions from the test and quarantine requirement**[^9a-1]
+
+<sup>1</sup>
+
+The following persons are exempted from the requirement to be tested under Article 8 and to quarantine from the requirement to under Article 9:
 
 - a.
 
@@ -195,69 +219,80 @@ The following persons are exempted from the requirement to be tested and to quar
 
   - 1\. the efficiency of the health service,
   - 2\. public security and order,
-  - 3\. the efficiency of institutional beneficiaries as defined in Article 2 paragraph 1 of the Host State Act of 22 June 2007[^8-1],
+  - 3\. the efficiency of institutional beneficiaries as defined in Article 2 paragraph 1 of the Host State Act of 22 June 2007[^9a-2],
   - 4\. Switzerland’s diplomatic and consular relations;
 
 - b. persons who in the course of their professional activities transport passengers or goods across borders;
 - c. persons who as transit passengers have stayed less than 24 hours in a country or region specified in Annex 1;
-- d. persons who enter Switzerland solely for the purpose of transiting the country and who intend and are able to travel on directly to another country;
-- e. persons who enter Switzerland from the countries or regions specified in Annex 1 number 2 and who can prove that they have been vaccinated against Sars-CoV-2; the persons who are regarded as having been vaccinated, the duration for which the vaccination is regarded as effective and the accepted forms of proof regulated in Annex 2;
-- f. persons who enter Switzerland from the countries or regions specified in Annex 1 number 2 and who can prove that they have been infected with Sars-CoV-2 and that they have recovered; the duration of the exemption and the accepted forms of proof are regulated in Annex 2.
+- d. persons who travel through Switzerland without stopping;
+- e. persons who do not enter Switzerland from the countries or regions specified in Annex 1 number 1 and who can prove that they have been vaccinated against Sars-CoV-2; the persons who are regarded as having been vaccinated, the duration for which the vaccination is regarded as effective and the accepted forms of proof regulated in Annex 2;
+- f. persons who do not enter Switzerland from the countries or regions specified in Annex 1 number 1 and who can prove that they have been infected with Sars-CoV-2 and that they have recovered; the duration of the exemption and the accepted forms of proof are regulated in Annex 2.
+- g. who enter Switzerland on important and immediate medical grounds;
+- h. who enter Switzerland as cross-border commuters.
 
 <sup>3</sup>
 
-The following persons are also exempted from the requirement to be tested in paragraph 1:
+The following persons are also exempted from the requirement to be tested in Article 8:
 
-- a. children under the age of 16;
+- a. persons under the age of 16;
 - b. persons who can prove that they are unable on medical grounds to take a Sars-CoV-2 test.
+- c. persons who enter Switzerland from a border region which has close economic, social and cultural ties with Switzerland, provided the country or region is not listed in Annex 1 number 1.
 
-<sup>4</sup> Paragraph 2 does not apply to persons displaying symptoms of COVID-19, unless the person concerned can provide certified medical evidence that the symptoms have a different cause.
+<sup>3</sup> Paragraph 1 does not apply to persons displaying symptoms of COVID-19, unless the person concerned can provide certified medical evidence that the symptoms have a different cause.
 
-<sup>5</sup> The competent cantonal authority may in justified cases permit further exemptions from the requirement to be tested and to quarantine or may relax certain conditions.
+<sup>4</sup> The competent cantonal authority may in justified cases permit further exemptions from the requirement to be tested and to quarantine or may relax certain conditions.
 
-[^8-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-
-#### Art. 9
-
-**Requirement to be tested and to quarantine**
-
-<sup>1</sup> Persons subject to the requirement to be tested and to quarantine under Article 8 must prove that they have undergone a molecular-biological analysis for Sars-CoV-2 within the past 72 hours or have taken a immunological Sars-CoV-2 rapid test within the past 48 hours and that the result of the test is negative.
-
-<sup>2</sup> They are required on entry to travel immediately and directly to their home or to other suitable accommodation. They must remain there without leaving at any time for 10 days following their entry (quarantine on entry).
-
-<sup>3</sup> Where a person has entered Switzerland from a country or region that does not have a variant of the virus of concern, the responsible cantonal authority may take account of the duration of the person’s stay in that country or region when calculating the time to be spent in quarantine under paragraph 2.
-
-<sup>4</sup>
-
-Persons under paragraph 1 and under Article 7 paragraph 5 letter c who are unable to provide proof of a negative test on entering Switzerland must immediately undergo one of the following tests on entry:
-
-- a. a molecular-biological analysis for Sars-CoV-2; or
-- b. a Sars-CoV-2 rapid test according to the diagnostic standard.
-
-<sup>5</sup> Persons required to quarantine on entry may leave quarantine within 10 days provided they undergo either a molecular-biological analysis for Sars-CoV-2 or a Sars-CoV-2-rapid test that meets the diagnostic standard and the result is negative. The test may be carried out at the earliest on the seventh day of quarantine. The competent cantonal authority may, in justified cases, suspend the early termination of quarantine.
-
-<sup>6</sup> Persons who leave quarantine early pursuant to paragraph 5 must wear a face mask and maintain a distance of at least 1.5 metres from other persons when outside their home or accommodation until the point in time at which quarantine under paragraph 2 would have ended.
+[^9a-1]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^9a-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 
 #### Art. 10
 
-**Requirement to report**
-
-Persons subject to the requirement to be tested and to quarantine on entry under this Ordinance must report to the responsible cantonal authority within two days of their arrival in Switzerland and must follow the instructions given by the authority.
-
-## Section 6 Checks and Reports by Border Control Authorities
-
-#### Art. 11
+**Requirement to report**[^10-1]
 
 <sup>1</sup>
 
-The border control authorities may conduct risk-based checks on persons entering Switzerland from countries or regions with a variant of the virus of concern. In doing so, they shall verify:
+Persons who must take a test under Article 8 paragraph 3 must present the COVID-19 test certificate in accordance with the COVID-19 Certificates Ordinance of 4 June 2021[^10-2] within two days to the competent cantonal authorities and:
 
-- a. that the person checked has tested negative in accordance with Article 9 paragraph 1;
+- a. inform them of the number of the contact form completed in accordance with Article 4 paragraph 1 letter a; or
+- b. provide them with a copy of the paper contact form in accordance with Article 4 paragraph 1 letter b.
+
+<sup>2</sup> Persons required to quarantine on entry under Article 9 must report to the competent cantonal authority within two days of their arrival in Switzerland and must follow the instructions given by the authority.
+
+[^10-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^10-2]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+
+## Section 6 Checks and Reports****
+
+[^sec6-1]
+
+[^sec6-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+
+#### Art. 11
+
+****Border control authories**[^11-1]**
+
+<sup>1</sup>
+
+The border control authorities may conduct risk-based checks on persons entering Switzerland. In doing so, they shall verify:[^11-2]
+
+- a.[^11-3] that the person checked has tested negative in accordance with Article 8 paragraph 1;
 - b. that the contact data of the person checked has been recorded in accordance with Article 4 paragraph 1.
 
-<sup>2</sup> If the person checked is unable to produce a negative test result or show that their contact data has been recorded, the border control authority shall report the matter to the responsible cantonal authority. The report shall include the details of the person checked, the time and place of the check, the address the person has specified in Switzerland, and the outcome of the check.
+<sup>2</sup> If the person checked is unable to produce a negative test result or show that their contact data has been recorded, the border control authority shall report the matter to the competent cantonal authority. The report shall include the details of the person checked, the time and place of the check, the address the person has specified in Switzerland, and the outcome of the check.
 
 <sup>3</sup> The border control authorities may impose fixed penalty fines.
+
+[^11-1]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^11-2]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^11-3]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+
+#### Art. 11a
+
+**Cantons**[^11a-1]
+
+The cantons may check that a negative test result has been provided in accordacne with Article 8 paragraph 3.
+
+[^11a-1]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ## Section 7 Updating the Annexes
 
@@ -266,6 +301,10 @@ The border control authorities may conduct risk-based checks on persons entering
 <sup>1</sup> The Federal Department of Home Affairs shall update Annex 1 continuously in consultation with the Federal Department of Justice and Police, the Federal Department of Finance and the Federal Department of Foreign Affairs.
 
 <sup>2</sup> It shall update Annex 2 in accordance with the latest scientific knowledge and in consultation with the Federal Commission for Vaccination.
+
+<sup>3</sup> It shall update Annex 2*a* in accordance with the latest scientific knowledge.[^12-1]
+
+[^12-1]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ## Section 8 Final Provisions
 
@@ -285,15 +324,15 @@ The border control authorities may conduct risk-based checks on persons entering
 
 This Ordinance comes into force on 26 June 2021 at 00.00.
 
-Annex 1*[^t-1]*
+Annex 1*[^t-2]*
 
-(Art. 2 paras. 2 and 3, 3 para. 1 let. a, 4 para. 2, 7 para. 6, 8 paras. 1 and 2 let. e and f and 12 para. 1)
+(Art. 2 paras 2 and 3, 3 para. 1 let. a, 7 para. 5, 9 para. 1, 9*a* para. 1 lets c, e and f, and 2 let. c, and 12 para. 1)
 
 ## List of countries and regions with a variant of the virus of concern****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by No I of the FDHA O of 3 Aug. 2021, in force since 4 Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)).
+[^t-2]: Amended by No I of the FDHA O of 3 Aug. 2021 ([AS 2021 465](https://fedlex.data.admin.ch/eli/oc/2021/465)). Revised in accordance with No II para. 1 of the O of 17 Sept. 2021 in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions with a variant of the virus of concern that is immune evasive is or the immune evasive status of which is unclear (Art. 2 paras. 1 and 2)
@@ -304,11 +343,13 @@ There are no entries currently on this list
 
 There are no entries currently on this list
 
-Annex 2
+Annex 2*[^t-3]*
 
-(Art. 7 para. 5 let. e and f, 8 para. 2 let. e and f and 12 para. 2)
+(Art. 7 para. 4 lets d and e, 9*a* para. 1 lets e and f and 12 para. 2)
 
 ## Persons who have been vaccinated and who have recovered
+
+[^t-3]: Revised by No II para. 1 of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ### 1 Persons who have been vaccinated
 
@@ -317,8 +358,9 @@ Annex 2
   Persons who have been vaccinated are persons who have received a vaccine that:
 
   - a. is authorised in Switzerland and which has been administered in full in accordance with the FOPH recommendations;
-  - b. has been authorised by the European Medicines Agency for the European Union and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered; or
-  - c. is authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered.
+  - b. has been authorised by the European Medicines Agency for the European Union and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered;
+  - c. is authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered; or
+  - d. has been shown to have the same composition as a vaccine licensed under letter a or b but marketed by a licence holder under a different name, and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
 
 - 1\.2 The vaccination is regarded as being effective for 12 months from the date on which it was administered in full; the Janssen vaccine is regarded as being effective for 12 months from the 22nd day after it was administered in full.
 - 1\.3 Proof of vaccination may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 1 of the COVID-19 Certificates Ordinance of 4 June 2021[^annex2-lvlu1-lvl1-1] or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Certificates Ordinance.
@@ -333,7 +375,7 @@ Annex 2
 
 ### 2 Persons who have recovered
 
-- 2\.1 Proof of recovery remains valid for 6 months from the 11th day following confirmation of the infection.
+- 2\.1 Proof of recovery is valid from the 11th day following confirmation of the infection and lasts six months following confirmation of the infection.
 - 2\.2 Proof of recovery may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 2 of the COVID-19 Certificates Ordinance of 4 June 2021 or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Certificates Ordinance.
 - 2\.3
 
@@ -341,6 +383,30 @@ Annex 2
 
   - a. confirmation of the infection including the name and address of the confirming body (test centre, doctor, pharmacy, hospital);
   - b. confirmation that isolation has been terminated or confirmation from a doctor of recovery.
+
+Annex 2a*[^t-4]*
+
+(Art. 7 para. 2, 8 para. 1 and 12 para. 3)
+
+## Test and proof of testing requirements
+
+[^t-4]: Inserted by No II para. 1 of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563))
+
+- 1\.
+
+  The test procedure must be an up-to-date scientfic and technical procedure, whereby:
+
+  - a. a molecular-biological analysis for Sars-CoV-2 may not have been taken more than 72 previously;
+  - b. a Sars-CoV-2 rapid test for specialist use may not have been taken more than 48 previously.
+
+- 2\.
+
+  The document showing the test result must contain the following information:
+
+  - a. Surname, first name and date of birth of the person tested;
+  - b. Date and time the test was carried out;
+  - c. Type of test under No 1 letter a or b;
+  - d. Test result.
 
 Annex 3
 
