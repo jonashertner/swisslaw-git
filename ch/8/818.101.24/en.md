@@ -3,22 +3,22 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-09-13
+version: 2021-09-20
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210913/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210913-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210913/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210920/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210920-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210920/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
 # Ordinance 3 on Measures to Combat the Coronavirus (COVID-19)
 
-English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only, has no legal force and may not be relied on in legal proceedings.
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 13 September 2021)
+of 19 June 2020 (Status as of 20 September 2021)
 
 The Swiss Federal Council,
 
@@ -608,7 +608,7 @@ In the case of company meetings, the organiser may, regardless of the probable n
 
 [^chap4a-1]
 
-[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 30 Sept. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Oct. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 #### Art. 27a
 
@@ -767,15 +767,16 @@ Annex 1a*[^t-2]*
 
 ## Persons who have been vaccinated
 
-[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021, in force since 26 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^t-2]: Inserted by Annex 3 of the COVID-19 Ordinance on International Passenger Transport Measures of 23 June 2021 ([AS 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Revised in accordance with Annex No. 3 I of the O of 17 Sept. 2021, in force since 20 September 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 - 1
 
   Persons who have been vaccinated are persons who have been vaccinated with a vaccine that:
 
   - a. is authorised in Switzerland and which has been administered in full in accordance with the FOPH recommendations;
-  - b. has been authorised by the European Medicines Agency for the European Union and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered; or
-  - c. has been authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered.
+  - b. has been authorised by the European Medicines Agency for the European Union and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered;
+  - c. has been authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered; or
+  - d. has been shown to have the same composition as a vaccine licensed under letters a, b or c, but marketed by the licence holder under another name, and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
 
 - 2 The period during which persons who have been vaccinated are exempt from the ban on entry under Article 4 paragraph 1 amounts to 12 months from the date of vaccination in full; the Janssen vaccine is regarded as being effective for 12 months from the 22nd day after it was administered in full.
 - 3 Proof of vaccination may be provided in the form of a COVID-19 certificate in accordance with Article 1 letter a number 1 of the COVID-19 Ordinance on Certificates of 4 June 2021[^annex1a-lvlu1-1] or a recognised foreign certificate in accordance with Section 7 of the COVID-19 Ordinance on Certificates.
@@ -785,6 +786,7 @@ Annex 1a*[^t-2]*
 
   - a. the date of vaccination;
   - b. the vaccine used.
+  - [tab]
 
 [^annex1a-lvlu1-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
 
@@ -986,7 +988,7 @@ Annex 6*[^t-8]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) and the by No II para. 2 of the O of 25 Aug. 2021, in force since 30 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^t-8]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No III of the O of 12 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Revised by No II of the O of 12 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), of 23 June 2021 ([AS 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), the correction dated 29 June 2021 ([AS 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), No II para. 2 of the O of 25 Aug. 2021 ([AS 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)) and Annex No. 3 I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ### 1 Standard tariff for symptom- and case-based testing
 
@@ -999,7 +1001,7 @@ Annex 6*[^t-8]*
   - a. persons who have symptoms;
   - b. contact persons who are in quarantine;
   - c. persons who wish to leave contact quarantine under Article 3*e* of the COVID-19 Special Situation Ordinance of 19 June 2020[^annex6-lvlu1-lvl1-lvl11-1] within 10 days;
-  - d. persons who wish to leave quarantine on entry under Article 7 paragraph 4 of the COVID-19 Ordinance on International Passenger Transport Measures of 27 January 2021[^annex6-lvlu1-lvl1-lvl11-2] within 10 days;
+  - d. ...
   - e. persons who have been notified by the SwissCovid app that they have potentially been in close contact with a person infected with Sars-CoV-2; the Confederation shall pay the costs of a single test that is carried out at the earliest on the fifth day following notification by the SwissCovid app;
   - f. persons resident abroad who work, study or train in Switzerland, in cases where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering their foreign country of residence and no other authority will cover the costs;
   - g. persons resident in Switzerland who work, study or train abroad where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering the foreign country concerned and no other authority will cover the costs;
@@ -1023,18 +1025,18 @@ Annex 6*[^t-8]*
 
     - 1\.
 
-      the following service providers under the HIA[^annex6-lvlu1-lvl1-lvl11-3]:
+      the following service providers under the HIA[^annex6-lvlu1-lvl1-lvl11-2]:
 
       - – doctors
       - – pharmacists
       - – hospitals
-      - – laboratories under Article 54 paragraph 3 of the Ordinance of 27 June 1995[^annex6-lvlu1-lvl1-lvl11-4] on Health Insurance (HIO) and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA
+      - – laboratories under Article 54 paragraph 3 of the Ordinance of 27 June 1995[^annex6-lvlu1-lvl1-lvl11-3] on Health Insurance (HIO) and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA
       - – care homes
       - – organisations that provide nursing services and other assistance at home,
 
     - 2\. test centres operated by or on behalf of a canton,
     - 3\. socio-medical institutions that admit persons for treatment or care, for rehabilitation or for socio-professional rehabilitation or employment,
-    - 4\. assistants as defined in the InvIA[^annex6-lvlu1-lvl1-lvl11-5];
+    - 4\. assistants as defined in the InvIA[^annex6-lvlu1-lvl1-lvl11-4];
 
   - b. when an analysis is conducted, by laboratories under Article 54 paragraph 3 HIO and hospital laboratories under Article 54 paragraph 2 HIO that are licensed under Article 16 paragraph 1 EpidA.
 
@@ -1071,10 +1073,9 @@ Annex 6*[^t-8]*
 </table>
 
 [^annex6-lvlu1-lvl1-lvl11-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex6-lvlu1-lvl1-lvl11-2]: [SR 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
-[^annex6-lvlu1-lvl1-lvl11-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^annex6-lvlu1-lvl1-lvl11-4]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^annex6-lvlu1-lvl1-lvl11-5]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annex6-lvlu1-lvl1-lvl11-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annex6-lvlu1-lvl1-lvl11-3]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
 ### 1. 2Pooled molecular-biological analyses for Sars-CoV-2
 
@@ -1206,7 +1207,7 @@ Annex 6*[^t-8]*
   - a. persons who have symptoms;
   - b. contact persons who are in quarantine;
   - c. persons who wish to leave contact quarantine under Article 3*e* of the COVID-19 Special Situation Ordinance within 10 days;
-  - d. persons who wish to leave quarantine on entry under Article 7 paragraph 4 of the COVID-19 Ordinance on International Passenger Transport Measures within 10 days;
+  - d. ...
   - e. persons who have been notified by the SwissCovid app that they have potentially been in close contact with a person infected with Sars-CoV-2; the Confederation shall pay the costs of a single test that is carried out at the earliest on the fifth day following notification by the SwissCovid app;
   - f. persons resident abroad who work, study or train in Switzerland, in cases where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering their foreign country of residence and no other authority will cover the costs;
   - g. persons resident in Switzerland who work, study or train abroad where they are required to produce a negative molecular-biological test result for Sars-CoV-2 when entering the foreign country concerned and no other authority will cover the costs;
@@ -1489,7 +1490,7 @@ Annex 6*[^t-8]*
 <tr><td>If conducted without being requested by another service provider, comprising:</td><td>255 Fr.</td></tr>
 <tr><td>– analysis with a minimum pool size of 4</td><td>82 Fr.</td></tr>
 <tr><td>– order processing, overheads and sampling materials</td><td>5 Fr.</td></tr>
-<tr><td>– surcharge for additional sampling up to a maximum pool size of 25 – for conducting a centralised pool in cases under number 3.2.1 letters b and c for the creation of each pool [tab]</td><td>8 Fr. 18.50 Fr.</td></tr>
+<tr><td>– surcharge for additional sampling up to a maximum pool size of 25 – for conducting a centralised pool in cases under number 3.2.1 letters b and c for the creation of each pool</td><td>8 Fr. 18.50 Fr.</td></tr>
 </table>
 
 ### 3.3**** Sars-CoV-2 self-tests
@@ -1529,7 +1530,7 @@ Annex 7*[^t-9]*
 
 ## Diseases and genetic anomalies that make the persons concerned persons at high risk
 
-[^t-9]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 30 Sept. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) and No II of the O of 12 May 2021, in force since 17 Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 Oct. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Revised in accordance with No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), of 1 April 2021 (List of Diseases that place Persons at High Risk) ([AS 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) and No II of the O of 12 May 2021, in force since 17 May 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 

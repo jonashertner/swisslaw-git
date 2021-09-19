@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-09-13
+version: 2021-09-20
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210913/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210913-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210913/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210920/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210920-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210920/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210913/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 13 settembre 2021)
+del 19 giugno 2020 (Stato 20 settembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -606,7 +606,7 @@ In caso di assemblee di società, l’organizzatore può disporre, a prescindere
 
 [^chap4a-1]
 
-[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 set. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 ott. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 #### Art. 27a
 
@@ -766,7 +766,7 @@ Allegato 1a*[^t-2]*
 
 ## Persone vaccinate
 
-[^t-2]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 26 giu. 2021 ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)).
+[^t-2]: Introdotto dall’all. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori ([RU 2021 380](https://fedlex.data.admin.ch/eli/oc/2021/380)). Aggiornato dall’all. n. 3 I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 - 1
 
@@ -774,7 +774,8 @@ Allegato 1a*[^t-2]*
 
   - a. è stato omologato in Svizzera ed è stato somministrato completamente secondo le raccomandazioni dell’UFSP;
   - b. è stato approvato dall’Agenzia europea per i medicinali per l’Unione europea ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
-  - c. è stato approvato secondo la Lista per l’uso di emergenza dell’OMS ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione.
+  - c. è stato approvato secondo la Lista per l’uso di emergenza dell’OMS ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
+  - d. presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo le lettere a, b o c, ma è immesso in commercio da un licenziatario con un altro nome, a condizione che la vaccinazione sia avvenuta in modo completo conformemente ai requisiti o alle raccomandazioni dello Stato in cui è stata effettuata.
 
 - 2 Il periodo durante il quale le persone vaccinate sono escluse dal divieto d’entrata di cui all’articolo 4 capoverso 1 è di dodici mesi a partire dalla vaccinazione completa; per il vaccino Janssen, la durata è di dodici mesi a partire dal ventiduesimo giorno dalla vaccinazione completa.
 - 3 La vaccinazione può essere attestata mediante un certificato COVID-19 secondo l’articolo 1 lettera a numero 1 dell’ordinanza del 4 giugno 2021[^annex1a-lvlu1-1] sui certificati COVID-19 o un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
@@ -789,7 +790,7 @@ Allegato 1a*[^t-2]*
 
 Allegato 2*[^t-3]*
 
-[^t-3]: Privo di oggetto a seguito dell’abrogazione dell’art. 8 (art. 6 n. 1 dell’O del 2 giu. 2020 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori; [RU 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
+[^t-3]: Privo di oggetto a seguito dell’abrogazione dell’art. 8 (art. 6 n. 1 dell’O del 2 giu. 2020 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori ([RU 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
 
 Allegato 3*[^t-4]*
 
@@ -921,7 +922,7 @@ Allegato 6*[^t-8]*
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)) e dal n. II cpv. 2 dell’O del 25 ago. 2021, in vigore dal 30 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)).
+[^t-8]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III dell’O del 12 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)). Aggiornato dal n. II delle O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)), del 23 giu. 2021 ([RU 2021 378](https://fedlex.data.admin.ch/eli/oc/2021/378)), dalla correzione del 29 giu. 2021 ([RU 2021 407](https://fedlex.data.admin.ch/eli/oc/2021/407)), dal n. II cpv. 2 dell’O del 25 ago. 2021 ([RU 2021 507](https://fedlex.data.admin.ch/eli/oc/2021/507)) e dall’all. n. 3 I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ### 1 Tariffe ordinarie per i test orientati ai sintomi e ai casi
 
@@ -933,8 +934,8 @@ Allegato 6*[^t-8]*
 
   - a. per le persone sintomatiche;
   - b. per i contatti in quarantena;
-  - c. per le persone che desiderano concludere anticipatamente la quarantena dei contatti secondo l’articolo 3*e* dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^annex6-lvlu1-lvl1-lvl11-1];
-  - d. per le persone che desiderano concludere anticipatamente la quarantena per le persone in entrata secondo l’articolo 7 capoverso 4 dell’ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori del 27 gennaio 2021[^annex6-lvlu1-lvl1-lvl11-2];
+  - c. per le persone che desiderano concludere anticipatamente la quarantena dei contatti secondo l’articolo 8 dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^annex6-lvlu1-lvl1-lvl11-1] [^annex6-lvlu1-lvl1-lvl11-2];
+  - d. ...
   - e. per le persone informate dall’app SwissCovid di essere potenzialmente entrate in contatto stretto con una persona infettata dal SARS-CoV-2; la Confederazione assume le spese per un singolo test, eseguito al più presto a partire dal quinto giorno dopo la segnalazione dell’app SwissCovid;
   - f. per le persone domiciliate all’estero che lavorano o seguono una formazione in Svizzera, se per entrare nello Stato estero di residenza è richiesto il risultato negativo di un’analisi di biologia molecolare per il SARS-CoV-2 e i costi non sono assunti in altro modo;
   - g. per le persone domiciliate in Svizzera che lavorano o seguono una formazione all’estero, se per entrare nello Stato estero è richiesto il risultato negativo di un’analisi di biologia molecolare per il SARS-CoV-2 e i costi non sono assunti in altro modo;
@@ -1009,7 +1010,7 @@ Allegato 6*[^t-8]*
 </table>
 
 [^annex6-lvlu1-lvl1-lvl11-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
-[^annex6-lvlu1-lvl1-lvl11-2]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
+[^annex6-lvlu1-lvl1-lvl11-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 26 giu. 2021.
 [^annex6-lvlu1-lvl1-lvl11-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^annex6-lvlu1-lvl1-lvl11-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 [^annex6-lvlu1-lvl1-lvl11-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
@@ -1144,7 +1145,7 @@ Allegato 6*[^t-8]*
   - a. per le persone sintomatiche;
   - b. per i contatti in quarantena;
   - c. per le persone che desiderano concludere anticipatamente la quarantena dei contatti secondo l’articolo 3*e* dell’ordinanza COVID-19 situazione particolare;
-  - d. per le persone che desiderano concludere anticipatamente la quarantena per le persone in entrata secondo l’articolo 7 capoverso 4 dell’ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori;
+  - d. ...
   - e. per le persone informate dall’app SwissCovid di essere potenzialmente entrate in contatto stretto con una persona infettata dal SARS-CoV-2; la Confederazione assume le spese per un singolo test, eseguito al più presto a partire dal quinto giorno dopo la segnalazione dell’app SwissCovid;
   - f. per le persone domiciliate all’estero che lavorano o seguono una formazione in Svizzera, se per entrare nello Stato estero di residenza è richiesto il risultato negativo di un’analisi immunologica degli antigeni SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale e i costi non sono assunti in altro modo;
   - g. per le persone domiciliate in Svizzera che lavorano o seguono una formazione all’estero, se per entrare nello Stato estero è richiesto il risultato negativo di un’analisi immunologica degli antigeni SARS-CoV-2 o di un test rapido SARS-CoV-2 per uso professionale e i costi non sono assunti in altro modo;
@@ -1469,7 +1470,7 @@ Allegato 7*[^t-9]*
 
 ## Malattie e anomalie genetiche che rendono le persone interessate particolarmente a rischio
 
-[^t-9]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 30 set. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
+[^t-9]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 ott. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109), [167](https://fedlex.data.admin.ch/eli/oc/2021/167), [218](https://fedlex.data.admin.ch/eli/oc/2021/218), [296](https://fedlex.data.admin.ch/eli/oc/2021/296), [378](https://fedlex.data.admin.ch/eli/oc/2021/378), [507](https://fedlex.data.admin.ch/eli/oc/2021/507), [563](https://fedlex.data.admin.ch/eli/oc/2021/563)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)), del 1° apr. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio) ([RU 2021 194](https://fedlex.data.admin.ch/eli/oc/2021/194)) e dal n. II dell’O del 12 mag. 2021, in vigore dal 17 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)).
 
 Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio particolare soltanto per determinate categorie di persone adulte. I criteri seguenti si riferiscono pertanto unicamente a persone adulte.
 
