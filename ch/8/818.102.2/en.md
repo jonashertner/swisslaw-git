@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2021-09-07
+version: 2021-09-20
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210907/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210907-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210907/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210920/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210920-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210920/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 7 September 2021)
+of 4 June 2021 (Status as of 20 September 2021)
 
 The Swiss Federal Council,
 
@@ -124,9 +124,25 @@ The cantons and the Surgeon General shall notify the FOITT of the designated iss
 
 **Issuers with more extensive rights**
 
-<sup>1</sup> The cantons shall ensure that requests for COVID-19 vaccination certificates or COVID-19 recovery certificates are processed, even if an issuer under Article 6 has no access to the relevant medical history or primary documentation for this purpose.
+<sup>1</sup>
+
+The cantons and the Surgeon General shall ensure that in the following cases requests for a COVID-19 vaccination certificate or COVID-19 recovery certificate are processed, even if an issuer under Article 6 has no access to the relevant medical history or primary documentation for this purpose:
+
+- a. if the person received the vaccination or recovered from the illness in Switzerland;
+- b.
+
+  if the person received the vaccination or recovered from the illness abroad:
+
+  - 1\. in the case of Swiss citizens,
+  - 2\. in the case of foreign nationals who are entitled to enter Switzerland under Article 4 of the COVID-19 Ordinance of 19 June 2020[^7-1] and can credibly demonstrate that they are planning to enter Switzerland or are already in Switzerland.[^7-2]
 
 <sup>2</sup> They shall designate at least one issuer for dealing with such requests.
+
+<sup>3</sup> The request for issuance of a COVID-19 vaccination certificate or COVID-19 recovery certificate under paragraph 1 must be submitted in an official language of the canton, in English or an officially certified translation into one of these languages must be provided together with the documents listed in Articles 13 paragraph 2 letter c and 16.[^7-3]
+
+[^7-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^7-2]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-3]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 #### Art. 8
 
@@ -182,13 +198,29 @@ A revocation request must contain the following:
 
 <sup>5</sup> Issuers, the FOITT and the competent cantonal authorities shall revoke certificates in the system for issuing COVID-19 certificates (Art. 26), which shall transmit the identifiers of the revoked certificates to the system for retrieving revoked certificates (Art. 27).
 
+<sup>6</sup>
+
+Issuers, the FOITT and the competent cantonal authorities shall document the revocation of certificates with the following information:
+
+- a. the unique certificate identifier;
+- b. information that makes it clear why the decision to revoke the certificate was made.[^10-1]
+
+[^10-1]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+
 #### Art. 11
 
 **Free of charge**
 
 <sup>1</sup> The requesting person shall not be charged for the issuance or revocation of COVID-19 certificates.
 
-<sup>2</sup> The cantons may make provision for issuers to charge an appropriate share of the cost if certificates have to be repeatedly reissued because they have been lost.
+<sup>2</sup>
+
+The cantons may make provision for issuers to charge an appropriate share of the cost in the following cases:
+
+- a. when a certificate has to be reissued repeatedly due to loss;
+- b. when issuing a certificate to persons in accordance with Article 7 paragraph 3 who do not have a place of residence in the canton concerned or, in the case of Swiss citizens living abroad, do not have their last place of residence or their home commune in the canton concerned.[^11-1]
+
+[^11-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 [AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ## Section 3 General Content of All COVID-19 Certificates
 
@@ -206,7 +238,13 @@ All COVID-19 certificates shall contain the following information in accordance 
 
 **Requirements**
 
-<sup>1</sup> A COVID-19 vaccination certificate shall be issued solely for vaccines authorised in Switzerland.
+<sup>1</sup> d. can be shown to have the same composition as a vaccine authorised in accordance with letters a, b or c, but which is marketed by the licence holder under another name (licensed products).[^13-1]
+
+A COVID-19 vaccination certificate shall be issued for vaccines that:
+
+- a. are authorised in Switzerland;
+- b. are authorised by the European Medicines Agency for the EU in accordance with Regulation (EC) No 726/2004[^13-2];
+- c. are authorised in accordance with the WHO Emergency Use Listing; or
 
 <sup>2</sup>
 
@@ -218,14 +256,42 @@ A COVID-19 vaccination certificate shall be issued for each dose:
 
   subsequent to the vaccination if no medical history or primary documentation is available and the administration of the vaccine, including the information in accordance with Article 14, can be reliably established from one of the following supporting documents:
 
-  - 1\. an international certificate of vaccination in accordance with the model in Annex 6 to the International Health Regulations (2005) of 23 May 2005[^13-1], indicating the vaccine administered and bearing the signature and stamp of the body responsible,
+  - 1\. an international certificate of vaccination in accordance with the model in Annex 6 to the International Health Regulations (2005) of 23 May 2005[^13-3], indicating the vaccine administered and bearing the signature and stamp of the body responsible,
   - 2\. confirmation of vaccination issued by a cantonal vaccination centre,
   - 3\. a vaccination record indicating the vaccine administered and bearing the signature or stamp of the body responsible in Switzerland,
   - 4\. any other Swiss or foreign document equivalent to one of the documents mentioned in numbers 1 to 3.
 
 <sup>3</sup> COVID-19 vaccination certificates in accordance with paragraph 2 letter c may only be issued by the issuers specified in Article 7.
 
-[^13-1]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+<sup>2bis</sup> A certificate shall only be issued for vaccines authorised in the EU but not in Switzerland and for their licensed products if a person has been fully vaccinated in accordance with the requirements or recommendations of the country in which the vaccination was carried out.[^13-4]
+
+<sup>2ter</sup>
+
+A certificate may be issued for vaccines that are authorised neither for Switzerland nor in the EU but which are permitted according to the WHO Emergency Use Listing, and for their licensed products, only under the following circumstances:
+
+- a. A person is fully vaccinated in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
+- b. The person requesting the certificate applies in person to the issuer.
+- c.
+
+  The person requesting the certificate is one of the following:
+
+  - 1\. a Swiss citizen,
+  - 2\. a foreign national holding a short stay permit, residence permit, settlement permit or cross-border commuter permit in accordance with Articles 32–35 of the Foreign Nationals and Integration Act of 16 December 2005[^13-5],
+  - 3\. a person temporarily admitted under Article 83 paragraph 1 of the Foreign Nationals and Integration Act,
+  - 4\. a person requiring protection in accordance with Article 66 of the Asylum Act of 26 June 1998[^13-6];
+  - 5\. a person seeking asylum who holds a permit or confirmation of their status in accordance with Article 30 of Asylum Ordinance 1 of 11 August 1999[^13-7],
+  - 6\. a holder of a legitimation card in accordance with Article 17 of the Host State Ordinance of 7 December 2007[^13-8],
+  - 7\. a holder of a Ci-permit in accordance with Article 22 paragraph 3 of the Host State Ordinance.[^13-9]
+
+[^13-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^13-2]: Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, OJ L 136, 30.4.2004, p. 1; last amended by Regulation (EU) No 2019/5, OJ. L 4, 7.1.2018, p. 24.
+[^13-3]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^13-4]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^13-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^13-6]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^13-7]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^13-8]: [SR 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
+[^13-9]: Inserted by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 #### Art. 14
 
@@ -326,7 +392,7 @@ In addition to the general content of all COVID-19 certificates, COVID-19 test c
 
 <sup>1</sup> The recognised foreign certificates attesting vaccination, recovery or testing that have not been issued by an EU or EFTA member state are listed in Annex 5.
 
-<sup>2</sup> As soon as the European Commission recognises the equivalence of one or more interoperable certificates from third countries, the FDHA shall update Annex 5 accordingly.[^23-1]
+<sup>2</sup> As soon as the European Commission makes a decision regarding the equivalence of one or more interoperable certificates from third countries, the FDHA shall update Annex 5 accordingly. However, it shall only accept certificates from the third countries listed in Annex 5, which grant Switzerland reciprocal rights.[^23-1]
 
 <sup>3</sup>
 
@@ -338,7 +404,7 @@ It may include certificates from other states provided the following requirement
 
 <sup>4</sup> It shall delete those certificates that no longer meet the requirements from the list.
 
-[^23-1]: Amended by No I of the O of 1 Sept. 2021, in force since 7 Sept. 2021 ([AS 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
+[^23-1]: Amended by No I of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 #### Art. 24
 
@@ -490,15 +556,15 @@ This Ordinance comes into force on 7 June 2021 at 00.00 and applies until 31 Dec
 
 Annex 1*[^t-1]*
 
-(Arts. 12, 28*a* para. 3 let. a, 29 para. 2 let. c No 2 and 33)
+(Arts 12, 28*a* para. 3 let. a, 29 para. 2 let. c No 2 and 33)
 
 ## General content of COVID-19 certificates
 
-[^t-1]: Revised by No II of the O of 30 June 2021, in force since 3 July 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-1]: Revised by No II of the O of 30 June 2021([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) and 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Details of the holder
 
-- a. Surname and first name(s) (in that order)
+- a. Officially recorded surname and first name(s) (in that order)
 - b. Date of birth
 
 ### 2 Details of the country in which the vaccine was administered or the test was carried out, and details of the electronic seal issuer
@@ -522,7 +588,7 @@ Annex 2*[^t-2]*
 
 ## Special provisions concerning COVID-19 vaccination certificates
 
-[^t-2]: Revised by Annex 3 No 3 of the COVID-19 Special Situation Ordinance of 23 June 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) and No II of the O of 30 June 2021, in force since 3 July 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-2]: Revised by Annex 3 No 3 of the COVID-19 Special Situation Ordinance of 23 June 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), No II of the O of 30 June 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) and 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Start of validity and maximum duration
 
@@ -530,14 +596,15 @@ Annex 2*[^t-2]*
 
   Start of validity:
 
-  - a. for two-dose vaccination (Comirnaty®, COVID-19 Vaccine Moderna, AstraZeneca, Sinopharm BIBP, Sinovac, Covishield™): on the day of administration of the second dose;
-  - b. for single-dose vaccination (Janssen): on the 22nd day after administration of the dose;
+  - a. for double-dose vaccination (Comirnaty, Spikevax, Vaxzevria, Sinopharm BIBP, Sinovac, Covishield): on the day of administration of the second dose;
+  - b. for single-dose vaccination (COVID-19 vaccine Janssen): on the 22nd day after administration of the dose;
   - c.
 
     for individuals with prior confirmed Sars-CoV-2 infection:
 
     - 1\. on the day of administration of the single dose of a vaccine referred to in letter a,
     - 2\. on the 22nd day after administration of the single dose of a vaccine referred to in letter b.
+    - d. in the case of additional doses: on the day the additional dose is administered.
 
 - 1\.2 Duration of validity: 365 days from the date of administration of the final dose.
 
@@ -549,6 +616,16 @@ Annex 2*[^t-2]*
 - d. Holder of the vaccine authorisation or, if not indicated for vaccine doses administered abroad, information on the manufacturer
 - e. Number of vaccine doses administered in a series and the total number of doses administered
 - f. Date on which the final dose was administered
+
+### 3 Combination of different vaccines in double-dose vaccinations
+
+Vaccination in which two doses of different vaccines are administered is considered to be full vaccination in the following combinations:
+
+- a. First dose: Comirnaty / Second dose: Spikevax;
+- b. First dose: Spikevax / Second dose: Comirnaty;
+- c. First dose: Vaxzevria or a licensed product of this vaccine / Second dose: Spikevax;
+- d. First dose: Vaxzevria or a licensed product of this vaccine / Second dose: Comirnaty.
+  - [tab]
 
 Annex 3
 
@@ -603,7 +680,7 @@ Annex 5*[^t-4]*
 
 ## List of recognised foreign certificates
 
-[^t-4]: Amended by No I of the O of 7 July 2021, in force since 9 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)).
+[^t-4]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Recognised certificates issued by an EU member state or an EFTA state
 
@@ -612,8 +689,9 @@ Annex 5*[^t-4]*
 
   Vaccination certificates are recognised only if they have been issued for vaccinations with a vaccine that:
 
-  - a. has authorisation for the EU from the European Medicines Agency; or
-  - b. is authorised in accordance with the WHO emergency use listing procedure.
+  - a. has authorisation for the EU from the European Medicines Agency;
+  - b. is authorised in accordance with the WHO emergency use listing procedure; or
+  - c. has been shown to have the same composition as a vaccine licensed under letter a or b but is marketed by a licence holder under a different name and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
 
 ### 2 Other recognised foreign certificates
 

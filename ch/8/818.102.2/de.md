@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2021-09-07
+version: 2021-09-20
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210907/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210907-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210907/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210920/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210920-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210920/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210907/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 7. September 2021)
+vom 4. Juni 2021 (Stand am 20. September 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -122,9 +122,25 @@ Die Kantone und der Oberfeldarzt melden die bezeichneten Ausstellerinnen und Aus
 
 **Ausstellerinnen und Aussteller mit weitergehenden Rechten**
 
-<sup>1</sup> Die Kantone sorgen dafür, dass Anträge auf Ausstellung von Covid-19-Impfzertifikaten oder -Genesungszertifikaten behandelt werden, auch wenn dafür keine Krankengeschichte oder Primärdokumentation bei einer Ausstellerin oder einem Aussteller nach Artikel 6 vorliegt.
+<sup>1</sup>
+
+Die Kantone und der Oberfeldarzt sorgen dafür, dass in den nachstehenden Fällen Anträge auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats behandelt werden, auch wenn dafür keine Krankengeschichte oder Primärdokumentation bei einer Ausstellerin oder einem Aussteller nach Artikel 6 vorliegt:
+
+- a. für eine in der Schweiz erhaltene Impfung oder durchgemachte Erkrankung;
+- b.
+
+  für eine im Ausland erhaltene Impfung oder durchgemachte Erkrankung:
+
+  - 1\. von Schweizerinnen und Schweizern,
+  - 2\. von Ausländerinnen und Ausländern, die nach Artikel 4 der Covid-19-Verordnung 3 vom 19. Juni 2020[^7-1] zur Einreise berechtigt sind und glaubhaft machen, dass sie eine Einreise in die Schweiz planen oder sich bereits in der Schweiz befinden.[^7-2]
 
 <sup>2</sup> Sie bezeichnen für die Behandlung solcher Anträge mindestens eine Ausstellerin oder einen Aussteller.
+
+<sup>3</sup> Der Antrag auf Ausstellung eines Covid-19-Impfzertifikats oder eines Covid-19-Genesungszertifikats nach Absatz 1 muss zusammen mit den Unterlagen nach den Artikeln 13 Absatz 2 Buchstabe c und 16 in einer Amtssprache des Kantons, in Englisch oder in einer amtlich beglaubigten Übersetzung in einer dieser Sprachen eingereicht werden.[^7-3]
+
+[^7-1]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^7-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-3]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 #### Art. 8
 
@@ -180,13 +196,29 @@ Ein Antrag auf Widerruf muss folgende Angaben enthalten:
 
 <sup>5</sup> Die Ausstellerinnen und Aussteller und das BIT sowie die zuständigen kantonalen Behörden nehmen den Widerruf im System zur Ausstellung von Covid-19-Zertifikaten (Art. 26) vor. Dieses übermittelt die Kennungen der widerrufenen Zertifikate dem System zur Abfrage von widerrufenen Zertifikaten (Art. 27).
 
+<sup>6</sup>
+
+Die Ausstellerinnen und Aussteller, das BIT sowie die zuständigen kantonalen Behörden dokumentieren den Widerruf von Zertifikaten mit folgenden Informationen:
+
+- a. eindeutige Zertifikatskennung;
+- b. Angaben, welche die Nachvollziehbarkeit des Entscheides über den Widerruf ermöglichen.[^10-1]
+
+[^10-1]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+
 #### Art. 11
 
 **Unentgeltlichkeit**
 
 <sup>1</sup> Die Ausstellung und der Widerruf von Covid-19-Zertifikaten sind für die antragstellende Person kostenlos.
 
-<sup>2</sup> Die Kantone können vorsehen, dass die Ausstellerinnen und Aussteller bei wiederholter Neuausstellung infolge Verlusts eines Zertifikats eine angemessene Kostenbeteiligung erheben können.
+<sup>2</sup>
+
+Die Kantone können vorsehen, dass die Ausstellerinnen und Aussteller in den folgenden Fällen eine angemessene Kostenbeteiligung erheben können:
+
+- a. bei wiederholter Neuausstellung infolge Verlusts eines Zertifikats;
+- b. bei der Ausstellung eines Zertifikats an Personen nach Artikel 7 Absatz 3, die keinen Wohnsitz oder, im Falle von Auslandschweizerinnen und Auslandschweizern, nicht ihre letzte Wohnsitz- oder ihre Heimatgemeinde im betreffenden Kanton haben.[^11-1]
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ## 3. Abschnitt: Allgemeiner Inhalt aller Covid-19-Zertifikate
 
@@ -204,7 +236,14 @@ Alle Covid-19-Zertifikate enthalten die folgenden Angaben nach Anhang 1:
 
 **Voraussetzungen**
 
-<sup>1</sup> Ein Covid-19-Impfzertifikat wird nur für in der Schweiz zugelassene Impfstoffe ausgestellt.
+<sup>1</sup>
+
+Ein Covid-19-Impfzertifikat wird für Impfstoffe ausgestellt, die:
+
+- a. über eine Zulassung in der Schweiz verfügen;
+- b. über eine Zulassung der Europäischen Arzneimittelagentur für die EU gemäss der Verordnung (EG) Nr. 726/2004[^13-1] verfügen;
+- c. gemäss dem «WHO Emergency Use Listing» zugelassen sind; oder
+- d. nachweislich dieselbe Zusammensetzung wie ein nach den Buchstaben a, b oder c zugelassener Impfstoff aufweisen, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht werden (Lizenzprodukte).[^13-2]
 
 <sup>2</sup>
 
@@ -216,14 +255,42 @@ Ein Covid-19-Impfzertifikat wird für jede Dosis ausgestellt:
 
   zu einem späteren Zeitpunkt nach der Impfung, wenn keine Krankengeschichte oder Primärdokumentation vorliegt und die Vornahme der Impfung einschliesslich der Angaben nach Artikel 14 aus einem der folgenden Belege verlässlich hervorgeht:
 
-  - 1\. internationale Impfbescheinigung nach dem Muster der Anlage 6 der Internationalen Gesundheitsvorschriften (2005) vom 23. Mai 2005[^13-1] mit Angabe des verabreichten Impfstoffs und mit der Unterschrift und dem Stempel der verantwortlichen Stelle,
+  - 1\. internationale Impfbescheinigung nach dem Muster der Anlage 6 der Internationalen Gesundheitsvorschriften (2005) vom 23. Mai 2005[^13-3] mit Angabe des verabreichten Impfstoffs und mit der Unterschrift und dem Stempel der verantwortlichen Stelle,
   - 2\. Bestätigung der vorgenommenen Impfung, die von einem kantonalen Impfzentrum ausgestellt wurde,
   - 3\. Impfausweis mit Angabe des verabreichten Impfstoffs und mit der Unterschrift oder dem Stempel der verantwortlichen Stelle in der Schweiz,
   - 4\. sonstiger in- oder ausländischer Nachweis, der einem der in den Ziffern 1–3 genannten Belege gleichwertig ist.
 
+<sup>2bis</sup> Für Impfstoffe, die nicht in der Schweiz, aber für die EU zugelassen sind, sowie deren Lizenzprodukte wird ein Zertifikat nur ausgestellt, wenn sie gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurden.[^13-4]
+
+<sup>2ter</sup>
+
+Für Impfstoffe, die weder in der Schweiz noch für die EU, aber gemäss dem «WHO Emergency Use Listing» zugelassen sind, sowie deren Lizenzprodukte wird ein Zertifikat nur unter folgenden Voraussetzungen ausgestellt:
+
+- a. Die Impfstoffe wurden gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft.
+- b. Die Antragstellerin oder der Antragsteller erscheint persönlich bei der Ausstellerin oder beim Aussteller.
+- c.
+
+  Die Antragstellerin oder der Antragsteller gehört einer der folgenden Personenkategorien an:
+
+  - 1\. Schweizerinnen oder Schweizer,
+  - 2\. Ausländerinnen oder Ausländer mit einer Kurzaufenthalts-, Aufent- halts-, Niederlassungs- oder Grenzgängerbewilligung nach den Artikeln 32–35 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^13-5],
+  - 3\. vorläufig Aufgenommene nach Artikel 83 Absatz 1 des Ausländer- und Integrationsgesetzes,
+  - 4\. Schutzbedürftige nach Artikel 66 des Asylgesetzes vom 26. Juni 1998[^13-6];
+  - 5\. asylsuchende Personen mit einem Ausweis oder einer Bestätigung nach Artikel 30 der Asylverordnung 1 vom 11. August 1999[^13-7],
+  - 6\. Personen mit einer Legitimationskarte nach Artikel 17 der Gaststaatverordnung vom 7. Dezember 2007[^13-8],
+  - 7\. Personen mit einem Ci-Ausweis nach Artikel 22 Absatz 3 der Gaststaatverordnung.[^13-9]
+
 <sup>3</sup> Covid-19-Impfzertifikate nach Absatz 2 Buchstabe c können nur von Ausstellerinnen und Ausstellern nach Artikel 7 ausgestellt werden.
 
-[^13-1]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^13-1]: Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europäischen Arzneimittel-Agentur, ABl. L 136 vom 30.04.2004, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 2019/5, ABl. L 4 vom 7.1.2018, S. 24.
+[^13-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^13-3]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^13-4]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^13-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^13-6]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^13-7]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^13-8]: [SR 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
+[^13-9]: Eingefügt durch Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 #### Art. 14
 
@@ -324,7 +391,7 @@ Covid-19-Testzertifikate enthalten neben dem allgemeinen Inhalt aller Covid-19-Z
 
 <sup>1</sup> Die anerkannten ausländischen Zertifikate zur Bescheinigung von Impfungen, der Genesung oder von Tests, die nicht von einem Mitgliedstaat der EU oder einem EFTA-Staat ausgestellt wurden, werden in Anhang 5 aufgeführt.
 
-<sup>2</sup> Sobald die Europäische Kommission die Gleichwertigkeit eines oder mehrerer interoperabler Zertifikate aus Drittstaaten anerkennt, führt das EDI Anhang 5 entsprechend nach.[^23-1]
+<sup>2</sup> Sobald die Europäische Kommission über die Gleichwertigkeit eines oder mehrerer interoperabler Zertifikate eines Drittstaates entscheidet, führt das EDI Anhang 5 entsprechend nach. Es nimmt jedoch nur Zertifikate aus Drittstaaten in Anhang 5 auf, die der Schweiz das Gegenrecht gewähren.[^23-1]
 
 <sup>3</sup>
 
@@ -336,7 +403,7 @@ Es kann Zertifikate weiterer Staaten aufnehmen, sofern die folgenden Voraussetzu
 
 <sup>4</sup> Es streicht diejenigen Zertifikate von der Liste, welche die Voraussetzungen nicht mehr erfüllen.
 
-[^23-1]: Fassung gemäss Ziff. I der V vom 1. Sept. 2021, in Kraft seit 7. Sept. 2021 ([AS 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
+[^23-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 #### Art. 24
 
@@ -492,11 +559,11 @@ Anhang 1*[^t-1]*
 
 ## Allgemeiner Inhalt der Covid-19-Zertifikate
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) und 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Angaben zur Inhaberin oder zum Inhaber
 
-- a. Name und Vorname (in dieser Reihenfolge)
+- a. amtlicher Name und amtliche Vornamen (in dieser Reihenfolge)
 - b. Geburtsdatum
 
 ### 2 Angaben zum Land, in dem der Impfstoff verabreicht oder der Test durchgeführt wurde, sowie Angaben zum Herausgeber
@@ -520,7 +587,7 @@ Anhang 2*[^t-2]*
 
 ## Besondere Bestimmungen über Covid-19-Impfzertifikate
 
-[^t-2]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) und Ziff. II der V vom 30. Juni 2021, in Kraft seit 3. Juli 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-2]: Bereinigt gemäss Anhang 3 Ziff. 3 der Covid-19-Verordnung besondere Lage vom 23. Juni 2021 ([AS 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)), Ziff. II der V vom 30. Juni 2021 ([AS 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) und 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Beginn und Höchstdauer der Gültigkeit
 
@@ -528,14 +595,16 @@ Anhang 2*[^t-2]*
 
   Beginn der Gültigkeit:
 
-  - a. für eine Impfung mit zwei Dosen (Comirnaty®, COVID-19 Vaccine Moderna, AstraZeneca, Sinopharm BIBP, Sinovac, Covishield™): am Tag der Verabreichung der zweiten Dosis;
-  - b. für eine Impfung mit einer Dosis (Janssen): am 22. Tag nach Verabreichung der Dosis;
+  - a. für eine Impfung mit zwei Dosen (Comirnaty, Spikevax, Vaxzevria, Sinopharm BIBP, Sinovac, Covishield): am Tag der Verabreichung der zweiten Dosis;
+  - b. für eine Impfung mit einer Dosis (COVID-19 Vaccine Janssen): am 22. Tag nach Verabreichung der Dosis;
   - c.
 
     für Personen mit einer zurückliegenden bestätigten Sars-CoV-2-Infektion:
 
     - 1\. am Tag der Verabreichung der einzigen Dosis einer Impfung nach Buchstabe a,
-    - 2\. am 22. Tag nach der Verabreichung der einzigen Dosis einer Impfung nach Buchstabe b.
+    - 2\. am 22. Tag nach der Verabreichung der einzigen Dosis einer Impfung nach Buchstabe b;
+
+  - d. im Falle von zusätzlichen Dosen: am Tag der Verabreichung der zusätzlichen Dosis.
 
 - 1\.2 Gültigkeitsdauer: 365 Tage ab Verabreichung der letzten Dosis.
 
@@ -547,6 +616,16 @@ Anhang 2*[^t-2]*
 - d. Inhaber der Zulassung des Impfstoffs oder, falls bei im Ausland verabreichten Impfdosen nicht gegeben, Angabe zum Hersteller
 - e. Anzahl der verabreichten Impfdosen in einer Serie und die Gesamtzahl der Impfdosen
 - f. Datum, an dem die letzte Dosis verabreicht wurde
+
+### 3 Kombination von unterschiedlichen Impfstoffen bei Impfungen mit zwei Dosen
+
+Eine Impfung gilt bei der Kombination von zwei Dosen unterschiedlicher Impfstoffe in den folgenden Konstellationen als vollständig:
+
+- a. Erstimpfung: Comirnaty / Zweitimpfung: Spikevax;
+- b. Erstimpfung: Spikevax / Zweitimpfung: Comirnaty;
+- c. Erstimpfung: Vaxzevria oder ein Lizenzprodukt dieses Impfstoffs / Zweitimpfung: Spikevax;
+- d. Erstimpfung: Vaxzevria oder ein Lizenzprodukt dieses Impfstoffs / Zweitimpfung: Comirnaty.
+  - [tab]
 
 Anhang 3
 
@@ -601,7 +680,7 @@ Anhang 5*[^t-4]*
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-4]: Fassung gemäss Ziff. I der V vom 7. Juli 2021, in Kraft seit 9. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)).
+[^t-4]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
@@ -610,8 +689,9 @@ Anhang 5*[^t-4]*
 
   Impfzertifikate sind nur anerkannt, wenn sie für Impfungen mit einem Impfstoff ausgestellt wurden, der:
 
-  - a. über eine Zulassung der Europäischen Arzneimittelagentur für die EU verfügt; oder
-  - b. gemäss dem «WHO Emergency Use Listing» zugelassen ist.
+  - a. über eine Zulassung der Europäischen Arzneimittelagentur für die EU verfügt;
+  - b. gemäss dem «WHO Emergency Use Listing» zugelassen ist; oder
+  - c. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a oder b zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
 ### 2 Weitere anerkannte ausländische Zertifikate
 

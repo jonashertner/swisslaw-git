@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2021-09-07
+version: 2021-09-20
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210907/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210907-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210907/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210920/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210920-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210920/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210907/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 7 settembre 2021)
+del 4 giugno 2021 (Stato 20 settembre 2021) (Stato 20 settembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -122,9 +122,25 @@ I Cantoni e il medico in capo dell’esercito effettuano una comunicazione all�
 
 **Emittenti con diritti più estesi**
 
-<sup>1</sup> I Cantoni provvedono affinché le richieste di emissione di certificati di vaccinazione COVID-19 o di certificati di guarigione dalla COVID-19 siano elaborate anche se a tal fine non è disponibile alcuna cartella clinica né documentazione primaria presso un emittente di cui all’articolo 6.
+<sup>1</sup>
+
+I Cantoni e il medico capo dell’esercito provvedono affinché, nei seguenti casi, le richieste di emissione di certificati di vaccinazione COVID-19 o di certificati di guarigione dalla COVID-19 siano elaborate anche se a tal fine non è disponibile alcuna cartella clinica né documentazione primaria presso un emittente di cui all’articolo 6:
+
+- a. per una vaccinazione ricevuta o una guarigione avvenuta in Svizzera;
+- b.
+
+  per una vaccinazione ricevuta o una guarigione avvenuta all’estero di:
+
+  - 1\. cittadini svizzeri,
+  - 2\. stranieri autorizzati a entrare in Svizzera secondo l’articolo 4 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^7-1] e che rendono verosimile che stanno pianificando di entrare in Svizzera o si trovano già in Svizzera.[^7-2]
 
 <sup>2</sup> Per l’elaborazione di tali richieste, designano almeno un emittente.
+
+<sup>3</sup> La richiesta di emissione di un certificato di vaccinazione COVID-19 o di un certificato di guarigione dalla COVID-19 di cui al capoverso 1, compresa la documentazione di cui agli articoli 13 capoverso 2 lettera c e 16, deve essere presentata in una lingua ufficiale del Cantone, in inglese o come traduzione autenticata ufficialmente in una di queste lingue.[^7-3]
+
+[^7-1]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^7-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^7-3]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 #### Art. 8
 
@@ -180,13 +196,29 @@ Una richiesta di revoca deve contenere le seguenti indicazioni:
 
 <sup>5</sup> Gli emittenti, l’UFIT e le autorità cantonali competenti registrano la revoca nel sistema per l’emissione di certificati COVID-19 (art. 26). Il sistema trasmette gli identificativi dei certificati revocati al sistema per la comparazione con i certificati revocati (art. 27).
 
+<sup>6</sup>
+
+Gli emittenti, le autorità cantonali competenti e l’UFIT documentano la revoca dei certificati con le seguenti informazioni:
+
+- a. identificativo univoco del certificato;
+- b. dati che garantiscono la trasparenza della decisione relativa alla revoca.[^10-1]
+
+[^10-1]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+
 #### Art. 11
 
 **Gratuità**
 
 <sup>1</sup> L’emissione e la revoca di certificati COVID-19 sono gratuite per il richiedente.
 
-<sup>2</sup> I Cantoni possono prevedere la possibilità per gli emittenti di chiedere una partecipazione adeguata ai costi se un certificato deve essere emesso più volte perché è andato perso.
+<sup>2</sup>
+
+I Cantoni possono prevedere la possibilità per gli emittenti di chiedere una partecipazione adeguata ai costi nei seguenti casi:
+
+- a. se un certificato deve essere emesso più volte perché è andato perso;
+- b. per le persone di cui all’articolo 7 capoverso 3 che non hanno un domicilio o, nel caso di Svizzeri all’estero, non hanno l’ultimo comune di domicilio o di attinenza nel Cantone interessato.[^11-1]
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ## Sezione 3: Contenuto generale di tutti i certificati COVID-19
 
@@ -204,7 +236,14 @@ Tutti i certificati COVID-19 contengono le seguenti informazioni di cui all’al
 
 **Condizioni**
 
-<sup>1</sup> Un certificato di vaccinazione COVID-19 è emesso soltanto per i vaccini omologati in Svizzera.
+<sup>1</sup>
+
+Un certificato di vaccinazione COVID-19 è emesso soltanto per vaccini che:
+
+- a. dispongono di un’omologazione in Svizzera;
+- b. dispongono di un’autorizzazione dell’Agenzia europea per i medicinali conformemente al regolamento (CE) n. 726/2004[^13-1];
+- c. sono autorizzati conformemente all’elenco per l’uso di emergenza dell’OMS; o
+- d. presentano comprovatamente la stessa composizione di un vaccino autorizzato secondo le lettere a, b o c, ma sono immessi in commercio da un licenziatario con un altro nome (prodotto su licenza).[^13-2]
 
 <sup>2</sup>
 
@@ -216,14 +255,42 @@ Un certificato di vaccinazione COVID-19 è emesso per ogni dose:
 
   in un momento successivo alla vaccinazione, in assenza di una cartella clinica o una documentazione primaria e se uno dei giustificativi seguenti indica in modo affidabile che la vaccinazione è avvenuta e contiene le informazioni di cui all’articolo 14:
 
-  - 1\. certificato internazionale di vaccinazione secondo il modello dell’allegato 6 del Regolamento sanitario internazionale (2005) del 23 maggio 2005[^13-1], con l’indicazione del vaccino somministrato e corredato della firma e del timbro del servizio responsabile,
+  - 1\. certificato internazionale di vaccinazione secondo il modello dell’allegato 6 del Regolamento sanitario internazionale (2005) del 23 maggio 2005[^13-3], con l’indicazione del vaccino somministrato e corredato della firma e del timbro del servizio responsabile,
   - 2\. attestazione dell’avvenuta vaccinazione, fornita da un centro di vaccinazione cantonale,
   - 3\. certificato di vaccinazione con l’indicazione del vaccino somministrato e corredato della firma o del timbro del servizio responsabile in Svizzera,
   - 4\. altri documenti svizzeri o esteri equivalenti a uno dei giustificativi menzionati nei numeri 1–3.
 
+<sup>2bis</sup> Per i vaccini non omologati in Svizzera, ma autorizzati nell’UE, nonché per i loro prodotti su licenza viene emesso un certificato soltanto se sono stati somministrati completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione.[^13-4]
+
+<sup>2ter</sup>
+
+Per i vaccini non omologati in Svizzera, né autorizzati nell’UE, ma autorizzati conformemente all’elenco per l’uso di emergenza dell’OMS, nonché per i loro prodotti su licenza viene emesso un certificato soltanto alle seguenti condizioni:
+
+- a. i vaccini sono stati somministrati completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
+- b. il richiedente si presenta personalmente presso l’emittente;
+- c.
+
+  il richiedente appartiene a una delle seguenti categorie di persone:
+
+  - 1\. cittadini svizzeri,
+  - 2\. stranieri titolari di un permesso di soggiorno di breve durata, di un permesso di dimora, di un permesso di domicilio o di un permesso per frontalieri secondo gli articoli 32–35 della legge del 16 dicembre 2005[^13-5] sugli stranieri e la loro integrazione,
+  - 3\. persone ammesse provvisoriamente secondo l’articolo 83 capoverso 1 della legge sugli stranieri e la loro integrazione,
+  - 4\. persone bisognose di protezione secondo l’articolo 66 della legge del 26 giugno 1998[^13-6] sull’asilo,
+  - 5\. persone richiedenti l’asilo titolari di una carta di soggiorno o di una conferma secondo l’articolo 30 dell’ordinanza 1 dell’11 agosto 1999[^13-7] sull’asilo,
+  - 6\. persone titolari di una carta di legittimazione secondo l’articolo 17 dell’ordinanza del 7 dicembre 2007[^13-8] sullo Stato ospite,
+  - 7\. persone titolari di un «permesso Ci» secondo l’articolo 22 capoverso 3 dell’ordinanza sullo Stato ospite.[^13-9]
+
 <sup>3</sup> I certificati di vaccinazione COVID-19 di cui al capoverso 2 lettera c possono essere emessi soltanto dagli emittenti di cui all’articolo 7.
 
-[^13-1]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^13-1]: Regolamento (CE) n. 726/2004 del Parlamento europeo e del Consiglio del 31 marzo 2004 che istituisce procedure comunitarie per l’autorizzazione e la sorveglianza dei medicinali per uso umano e veterinario, e che istituisce l’agenzia europea per i medicinali, GU L 136 del 30.4.2004, pag. 1; modificato da ultimo dal Regolamento (UE) n. 2019/5, GU L 4 del 7.1.2018, pag. 24.
+[^13-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^13-3]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^13-4]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^13-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^13-6]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^13-7]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^13-8]: [RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
+[^13-9]: Introdotto dal n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 #### Art. 14
 
@@ -323,7 +390,7 @@ Oltre al contenuto generale di tutti i certificati COVID-19, i certificati di te
 
 <sup>1</sup> I certificati esteri riconosciuti attestanti l’avvenuta vaccinazione, la guarigione o l’esecuzione di test, che non sono stati emessi da uno Stato membro dell’UE o dell’AELS, figurano nell’allegato 5.
 
-<sup>2</sup> Non appena la Commissione europea riconosce l’equivalenza di uno o più certificati interoperabili di Stati terzi, il DFI aggiorna di conseguenza l’allegato 5.[^23-1]
+<sup>2</sup> Non appena la Commissione europea riconosce l’equivalenza di uno o più certificati interoperabili di Stati terzi, il DFI aggiorna di conseguenza l’allegato 5. Tuttavia inserisce nell’allegato 5 soltanto i certificati di Stati terzi che concedono alla Svizzera la reciprocità.[^23-1]
 
 <sup>3</sup>
 
@@ -335,7 +402,7 @@ Il DFI può inserirvi i certificati di altri Stati se sono soddisfatte le seguen
 
 <sup>4</sup> Il DFI cancella dall’elenco i certificati che non soddisfano più le condizioni.[^23-3]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 1° set. 2021, in vigore dal 7 set. 2021 ([RU 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
+[^23-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 [^23-2]: Nuovo testo giusta il n. I dell’O del 1° set. 2021, in vigore dal 7 set. 2021 ([RU 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
 [^23-3]: Nuovo testo giusta il n. I dell’O del 1° set. 2021, in vigore dal 7 set. 2021 ([RU 2021 522](https://fedlex.data.admin.ch/eli/oc/2021/522)).
 
@@ -489,15 +556,15 @@ La presente ordinanza entra in vigore il 7 giugno 2021 alle ore 00.00 e ha effet
 
 Allegato 1*[^t-1]*
 
-(art. 12, 28a cpv. 3 lett. a, 29 cpv. 2 lett. c n. 2 e 33)
+(art. 12, 28*a* cpv. 3 lett. a, 29 cpv. 2 lett. c n. 2 e 33)
 
 ## Contenuto generale dei certificati COVID-19
 
-[^t-1]: Aggiornato dal n. II dell’O del 30 giu. 2021, in vigore dal 3 lug. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-1]: Aggiornato dai n. II delle O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) e del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Dati relativi al titolare
 
-- a. Cognome e nome (in quest’ordine)
+- a. Cognome ufficiale e nomi ufficiali (in quest’ordine)
 - b. Data di nascita
 
 ### 2 Informazioni sul Paese in cui è stato somministrato il vaccino o eseguito il test e informazioni sull’editore
@@ -521,7 +588,7 @@ Allegato 2*[^t-2]*
 
 ## Disposizioni particolari sui certificati di vaccinazione COVID-19
 
-[^t-2]: Aggiornato dall’all. 3 n. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) e dal n. II dell’O del 30 giu. 2021, in vigore dal 3 lug. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)).
+[^t-2]: Aggiornato dall’all. 3 n. 3 dell’O del 23 giu. 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare ([RU 2021 379](https://fedlex.data.admin.ch/eli/oc/2021/379)) e dai n. II delle O del 30 giu. 2021 ([RU 2021 410](https://fedlex.data.admin.ch/eli/oc/2021/410)) e del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Inizio e durata massima della validità
 
@@ -529,14 +596,16 @@ Allegato 2*[^t-2]*
 
   Inizio della validità:
 
-  - a. per una vaccinazione che prevede due dosi di vaccino (Comirnaty®, COVID-19 Vaccine Moderna, AstraZeneca, Sinopharm BIBP, Sinovac, Covishield™): il giorno della somministrazione della seconda dose;
-  - b. per una vaccinazione che prevede una dose unica di vaccino (Janssen): il 22° giorno dopo la somministrazione di tale dose;
+  - a. per una vaccinazione che prevede due dosi di vaccino (Comirnaty, Spikevax, Vaxzevria, Sinopharm BIBP, Sinovac, Covishield): il giorno della somministrazione della seconda dose;
+  - b. per una vaccinazione che prevede una dose unica (COVID-19 Vaccine Janssen): il 22° giorno dopo la somministrazione della dose;
   - c.
 
     per le persone con una pregressa infezione da SARS-CoV-2 confermata:
 
     - 1\. il giorno della somministrazione della dose unica di un vaccino secondo la lettera a,
-    - 2\. il 22° giorno dopo la somministrazione della dose unica di un vaccino secondo la lettera b.
+    - 2\. il 22° giorno dopo la somministrazione della dose unica di un vaccino secondo la lettera b;
+
+  - d. in caso di dosi supplementari: il giorno della somministrazione della dose supplementare.
 
 - 1\.2 Durata di validità di un certificato di vaccinazione COVID-19: 365 giorni calcolati dalla somministrazione dell’ultima dose.
 
@@ -548,6 +617,15 @@ Allegato 2*[^t-2]*
 - d. Titolare dell’omologazione del vaccino o, in assenza di tale indicazione per le dosi di vaccino somministrate all’estero, informazioni sul fabbricante
 - e. Quantità di dosi di vaccino somministrate nell’ambito di una serie e quantità complessiva di dosi di vaccino
 - f. Data di somministrazione dell’ultima dose
+
+### 3 Combinazione di vaccini diversi per le vaccinazioni con due dosi
+
+Una vaccinazione con una combinazione di due dosi di vaccini diversi è considerata completa con le seguenti combinazioni:
+
+- a. Prima vaccinazione: Comirnaty / seconda vaccinazione: Spikevax;
+- b. Prima vaccinazione: Spikevax / seconda vaccinazione: Comirnaty;
+- c. Prima vaccinazione: Vaxzevria (o un prodotto su licenza di questo vaccino) / seconda vaccinazione: Spikevax;
+- d. Prima vaccinazione: Vaxzevria (o un prodotto su licenza di questo vaccino) / seconda vaccinazione: Comirnaty.
 
 Allegato 3
 
@@ -600,17 +678,18 @@ Allegato 5*[^t-4]*
 
 ## Elenco dei certificati esteri riconosciuti
 
-[^t-4]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021, in vigore dal 9 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)).
+[^t-4]: Nuovo testo giusta il n. I dell’O del 7 lug. 2021 ([RU 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Aggiornato dal n. II dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ### 1 Certificati riconosciuti emessi da uno Stato membro dell’UE o dell’AELS
 
-- 1\.1. Sono riconosciuti i certificati di vaccinazione, di guarigione e di test emessi da uno Stato membro dell’UE o dell’AELS secondo il Regolamento (UE) 2021/953[^annex5-lvlu1-lvl1-1] e gli atti giuridici dell’UE adottati sulla base di tale regolamento.
+- 1\.1 Sono riconosciuti i certificati di vaccinazione, di guarigione e di test emessi da uno Stato membro dell’UE o dell’AELS secondo il Regolamento (UE) 2021/953[^annex5-lvlu1-lvl1-1] e gli atti giuridici dell’UE adottati sulla base di tale regolamento.
 - 1\.2
 
   I certificati di vaccinazione sono riconosciuti soltanto se sono stati emessi per le vaccinazioni con un vaccino che:
 
-  - a. ha ottenuto l’autorizzazione nell’UE dall’Agenzia europea per i medicinali; o
-  - b. è autorizzato conformemente all’elenco per l’uso di emergenza dell’OMS.
+  - a. ha ottenuto l’autorizzazione dell’Agenzia europea per i medicinali per l’UE;
+  - b. è autorizzato conformemente all’elenco per l’uso di emergenza dell’OMS; o
+  - c. presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo la lettera a o b, ma è immesso in commercio da un licenziatario con un altro nome ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione.
 
 ### 2 Altri certificati esteri riconosciuti
 
