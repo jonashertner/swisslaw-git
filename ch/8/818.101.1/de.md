@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2021-09-01
+version: 2021-09-20
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210901/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210920/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210920-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210920/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210901/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 1. September 2021)
+vom 29. April 2015 (Stand am 20. September 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -844,15 +844,17 @@ Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen un
   - 2\. Person, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind,
   - 3\. Auslandschweizerinnen und Auslandschweizer sowie deren enge Familienangehörige ohne Schweizer Bürgerrecht, die im gleichen Haushalt leben.[^64a-6]
 
+<sup>1bis</sup> Er übernimmt zudem die Kosten von Covid-19-Impfungen, die zwischen dem 1. Juli 2021 und dem 31. August 2021 bei Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind, durchgeführt worden sind.[^64a-7]
+
 <sup>2</sup>
 
 Die Apothekerinnen und Apotheker müssen:
 
-- a. über einen Fähigkeitsausweis nach dem Fähigkeitsprogramm FPH Impfen und Blutentnahme vom 1. Dezember 2011[^64a-7] verfügen;
+- a. über einen Fähigkeitsausweis nach dem Fähigkeitsprogramm FPH Impfen und Blutentnahme vom 1. Dezember 2011[^64a-8] verfügen;
 - b. vom Kanton mit der Durchführung von Covid-19-Impfungen beauftragt worden sein; und
 - c. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen.
 
-<sup>3</sup> Der Bund übernimmt für jede Impfung nach Absatz 1 eine Pauschale von Fr. 24.50.[^64a-8]
+<sup>3</sup> Der Bund übernimmt für jede Impfung nach Absatz 1 eine Pauschale von Fr. 24.50.[^64a-9]
 
 <sup>4</sup>
 
@@ -862,9 +864,9 @@ Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der 
 - b. die Überprüfung des Impfstatus und die Impfanamnese;
 - c. die Überprüfung von Kontraindikationen;
 - d. die Dokumentation;
-- e.[^64a-9] die Ausstellung der Impfbescheinigung und des Covid-19-Impfzertifikats.
+- e.[^64a-10] die Ausstellung der Impfbescheinigung und des Covid-19-Impfzertifikats.
 
-<sup>4bis</sup> ...[^64a-10]
+<sup>4bis</sup> ...[^64a-11]
 
 <sup>5</sup> Die Apothekerinnen und Apotheker dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
 
@@ -874,10 +876,11 @@ Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der 
 [^64a-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64a-5]: Fassung gemäss Anhang Ziff. 2 der V vom 17. Sept. 2021, in Kraft vom 1. Sept. 2021 bis zum 31. Dez. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^64a-6]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft vom 4. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
-[^64a-7]: Abrufbar unter: www.fphch.org/impfen-und-blutentnahme.
-[^64a-8]: Fassung gemäss Ziff. I der V vom 19. März 2021, in Kraft seit 1. März 2021 ([AS 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
-[^64a-9]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juni 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
-[^64a-10]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft vom 1. Juni 2021 bis zum 31. Aug. 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64a-7]: Eingefügt durch Anhang Ziff. 2 der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 31. Dez. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^64a-8]: Abrufbar unter: www.fphch.org/impfen-und-blutentnahme.
+[^64a-9]: Fassung gemäss Ziff. I der V vom 19. März 2021, in Kraft seit 1. März 2021 ([AS 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
+[^64a-10]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juni 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64a-11]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft vom 1. Juni 2021 bis zum 31. Aug. 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 #### Art. 64b
 
@@ -920,12 +923,14 @@ Der Bund übernimmt die Kosten von Covid-19-Impfungen, die bei den folgenden Per
 - b. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind;
 - c. Auslandschweizerinnen und Auslandschweizer sowie deren enge Familienangehörige ohne Schweizer Bürgerrecht, die im gleichen Haushalt leben.[^64c-2]
 
+<sup>1bis</sup> Er übernimmt zudem die Kosten von Covid-19-Impfungen, die zwischen dem 1. Juli 2021 und dem 31. August 2021 bei Personen nach Absatz 1 Buchstabe b durchgeführt worden sind.[^64c-3]
+
 <sup>2</sup>
 
 Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1:
 
-- a. weder nach Artikel 3 KVG[^64c-3] noch nach dem MVG[^64c-4] gegen Krankheit versichert sind; und
-- b.[^64c-5] ...
+- a. weder nach Artikel 3 KVG[^64c-4] noch nach dem MVG[^64c-5] gegen Krankheit versichert sind; und
+- b.[^64c-6] ...
 
 <sup>3</sup>
 
@@ -939,7 +944,7 @@ Er übernimmt die Kosten nur, wenn die Leistungserbringer:
 Er übernimmt für jede Impfung nach Absatz 1 eine der folgenden Pauschalen:
 
 - a. Fr. 14.50 für Impfungen in Impfzentren, in Spitälern und durch mobile Equipen;
-- b. Fr. 24.50 für Impfungen in Arztpraxen.[^64c-6]
+- b. Fr. 24.50 für Impfungen in Arztpraxen.[^64c-7]
 
 <sup>5</sup>
 
@@ -951,20 +956,21 @@ Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der 
 - d. die Dokumentation;
 - e. die Ausstellung der Impfbescheinigung.
 
-<sup>5bis</sup> ...[^64c-7]
+<sup>5bis</sup> ...[^64c-8]
 
 <sup>6</sup> Die Leistungserbringer dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
 
-<sup>7</sup> Für das Verfahren zur Übernahme der Kosten gilt Artikel 64*b* sinngemäss.[^64c-8]
+<sup>7</sup> Für das Verfahren zur Übernahme der Kosten gilt Artikel 64*b* sinngemäss.[^64c-9]
 
 [^64c-1]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021, in Kraft vom 4. Jan. 2021 bis zum 31. Dez. 2021, Abs. 7 in Kraft vom 4. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64c-2]: Fassung gemäss Ziff. I der V vom 25. Aug. 2021, in Kraft vom 1. Sept. 2021 bis zum 31. Dez. 2021 ([AS 2021 506](https://fedlex.data.admin.ch/eli/oc/2021/506)).
-[^64c-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64c-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^64c-5]: Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Juni 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
-[^64c-6]: Fassung gemäss Ziff. I der V vom 19. März 2021, in Kraft seit 1. März 2021 ([AS 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
-[^64c-7]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft vom 1. Juni 2021 bis zum 31. Aug. 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
-[^64c-8]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juni 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64c-3]: Eingefügt durch Anhang Ziff. 2 der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 31. Dez. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^64c-4]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64c-5]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^64c-6]: Aufgehoben durch Ziff. I der V vom 23. Juni 2021, mit Wirkung seit 1. Juni 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64c-7]: Fassung gemäss Ziff. I der V vom 19. März 2021, in Kraft seit 1. März 2021 ([AS 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
+[^64c-8]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft vom 1. Juni 2021 bis zum 31. Aug. 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64c-9]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juni 2021 ([AS 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 ### 3. Abschnitt: Warenverkehr
 

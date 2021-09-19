@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2021-09-01
+version: 2021-09-20
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210920/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210920-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210920/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).

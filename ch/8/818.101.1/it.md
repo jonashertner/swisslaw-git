@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2021-09-01
+version: 2021-09-20
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210901/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210920/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210920-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210920/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210901/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 1° settembre 2021)
+del 29 aprile 2015 (Stato 20 settembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -844,15 +844,17 @@ La Confederazione assume i costi delle vaccinazioni anti-COVID-19 effettuate dai
   - 2\. persone che esercitano un’attività lucrativa in Svizzera come frontalieri,
   - 3\. Svizzeri all’estero e loro familiari stretti senza cittadinanza svizzera che vivono nella stessa economia domestica.[^64a-6]
 
+<sup>1bis</sup> Assume inoltre i costi delle vaccinazioni anti-COVID-19 che sono state effettuate su persone che esercitano un’attività lucrativa in Svizzera come frontalieri tra il 1° luglio 2021 e il 31 agosto 2021.[^64a-7]
+
 <sup>2</sup>
 
 I farmacisti devono:
 
-- a. aver conseguito un certificato nel quadro del programma di formazione complementare FPH Vaccinazione e prelievo di sangue del 1° dicembre 2011[^64a-7];
+- a. aver conseguito un certificato nel quadro del programma di formazione complementare FPH Vaccinazione e prelievo di sangue del 1° dicembre 2011[^64a-8];
 - b. essere stati incaricati dal Cantone di effettuare vaccinazioni anti-COVID-19; e
 - c. adempiere le prescrizioni del Cantone sull’impiego del software prescritto per la fissazione degli appuntamenti, la registrazione dei dati, la documentazione e la stesura dei rapporti per il monitoraggio della vaccinazione.
 
-<sup>3</sup> La Confederazione assume un importo forfettario di 24.50 franchi per ogni vaccinazione effettuata secondo il capoverso 1.[^64a-8]
+<sup>3</sup> La Confederazione assume un importo forfettario di 24.50 franchi per ogni vaccinazione effettuata secondo il capoverso 1.[^64a-9]
 
 <sup>4</sup>
 
@@ -862,9 +864,9 @@ Con l’importo di cui al capoverso 3 sono indennizzate tutte le prestazioni for
 - b. la verifica dello stato vaccinale e l’anamnesi vaccinale;
 - c. la verifica delle controindicazioni;
 - d. la documentazione;
-- e.[^64a-9] il rilascio dell’attestato di vaccinazione e del certificato di vaccinazione COVID-19.
+- e.[^64a-10] il rilascio dell’attestato di vaccinazione e del certificato di vaccinazione COVID-19.
 
-<sup>4bis</sup> ...[^64a-10]
+<sup>4bis</sup> ...[^64a-11]
 
 <sup>5</sup> I farmacisti non possono addebitare alle persone vaccinate ulteriori costi nell’ambito della vaccinazione.
 
@@ -874,10 +876,11 @@ Con l’importo di cui al capoverso 3 sono indennizzate tutte le prestazioni for
 [^64a-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64a-5]: Nuovo testo giusta l’all. n. 2 dell’O del 17 set. 2021, in vigore dal 1° set. 2021 al 31 dicembre 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 [^64a-6]: Nuovo testo giusta il n. I dell’O del 3 feb. 2021, in vigore dal 4 feb. 2021 al 31 dic. 2021 ([RU 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
-[^64a-7]: Consultabile su [www.fphch.org/impfen-und-blutentnahme](https://www.fphch.org/impfen-und-blutentnahme)
-[^64a-8]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021, in vigore dal 1° mar. 2021 ([RU 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
-[^64a-9]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
-[^64a-10]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 al 31 ago. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64a-7]: Introdotto dall’all. n. 2 dell’O del 17 set. 2021, in vigore dal 20 set. 2021 al 31 dic. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^64a-8]: Consultabile su [www.fphch.org/impfen-und-blutentnahme](https://www.fphch.org/impfen-und-blutentnahme)
+[^64a-9]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021, in vigore dal 1° mar. 2021 ([RU 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
+[^64a-10]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64a-11]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 al 31 ago. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 #### Art. 64b
 
@@ -920,12 +923,14 @@ La Confederazione assume i costi delle vaccinazioni anti-COVID-19 effettuate sul
 - b. persone che esercitano un’attività lucrativa in Svizzera come frontalieri;
 - c. Svizzeri all’estero e loro familiari stretti senza cittadinanza svizzera che vivono nella stessa economia domestica.[^64c-2]
 
+<sup>1bis</sup> Assume inoltre i costi delle vaccinazioni anti-COVID-19 che sono state effettuate su persone di cui al capoverso 1 lettera b tra il 1° luglio 2021 e il 31 agosto 2021.[^64c-3]
+
 <sup>2</sup>
 
 Assume i costi soltanto se le persone di cui al capoverso 1:
 
-- a. non sono assicurate contro le malattie né secondo l’articolo 3 LAMal[^64c-3] né secondo la LAM[^64c-4];
-- b.[^64c-5] ...
+- a. non sono assicurate contro le malattie né secondo l’articolo 3 LAMal[^64c-4] né secondo la LAM[^64c-5];
+- b.[^64c-6] ...
 
 <sup>3</sup>
 
@@ -939,7 +944,7 @@ Assume i costi soltanto se i fornitori di prestazioni:
 Assume i seguenti importi forfettari per ogni vaccinazione effettuata secondo il capoverso 1:
 
 - a. 14.50 franchi per le vaccinazioni effettuate in centri di vaccinazione, in ospedali o da équipe mobili;
-- b. 24.50 franchi per le vaccinazioni effettuate in studi medici.[^64c-6]
+- b. 24.50 franchi per le vaccinazioni effettuate in studi medici.[^64c-7]
 
 <sup>5</sup>
 
@@ -951,20 +956,21 @@ Con l’importo di cui al capoverso 4 sono indennizzate tutte le prestazioni for
 - d. la documentazione;
 - e. il rilascio dell’attestato di vaccinazione.
 
-<sup>5bis</sup> ...[^64c-7]
+<sup>5bis</sup> ...[^64c-8]
 
 <sup>6</sup> I fornitori di prestazioni non possono addebitare alle persone vaccinate ulteriori costi nell’ambito della vaccinazione.
 
-<sup>7</sup> Alla procedura per l’assunzione dei costi si applica per analogia l’articolo 64*b*.[^64c-8]
+<sup>7</sup> Alla procedura per l’assunzione dei costi si applica per analogia l’articolo 64*b*.[^64c-9]
 
 [^64c-1]: Introdotto dal n. I dell’O del 3 feb. 2021, in vigore dal 4 gen. 2021 al 31 dic. 2021, cpv. 7 in vigore il 4 feb. 2021 al 31 dic. 2021 ([RU 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64c-2]: Nuovo testo giusta il n. I dell’O del 25 ago. 2021, in vigore dal 1° set. 2021 al 31 dic. 2021 ([RU 2021 506](https://fedlex.data.admin.ch/eli/oc/2021/506)).
-[^64c-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64c-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^64c-5]: Abrogata dal n. I dell’O del 23 giu. 2021, con effetto dal 1° giu. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
-[^64c-6]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021, in vigore dal 1° mar. 2021 ([RU 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
-[^64c-7]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 al 31 ago. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
-[^64c-8]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64c-3]: Introdotto dall’all. n. 2 dell’O del 17 set. 2021, in vigore dal 20 set. 2021 al 31 dic. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
+[^64c-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64c-5]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^64c-6]: Abrogata dal n. I dell’O del 23 giu. 2021, con effetto dal 1° giu. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64c-7]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021, in vigore dal 1° mar. 2021 ([RU 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
+[^64c-8]: Introdotto dal n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 al 31 ago. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
+[^64c-9]: Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° giu. 2021 ([RU 2021 377](https://fedlex.data.admin.ch/eli/oc/2021/377)).
 
 ### Sezione 3: Trasporto di merci
 
