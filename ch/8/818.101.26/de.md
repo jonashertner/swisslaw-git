@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 23. Juni 2021 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: de
-version: 2021-09-13
+version: 2021-09-20
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20210913/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20210913-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210913/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20210920/de/xml/fedlex-data-admin-ch-eli-cc-2021-379-20210920-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210920/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210913/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 23. Juni 2021 (Stand am 13. September 2021)
+vom 23. Juni 2021 (Stand am 20. September 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -53,7 +53,24 @@ Als Personen mit einem Zertifikat im Sinne dieser Verordnung gelten Personen, di
 - a. ein Covid-19-Zertifikat nach Artikel 1 Buchstabe a der Covid-19-Verordnung Zertifikate vom 4. Juni 2021[^3-1];
 - b. ein anerkanntes ausländisches Zertifikat nach dem 7. Abschnitt der Covid-19-Verordnung Zertifikate.
 
+<sup>2</sup>
+
+Einem Zertifikat nach Absatz 1 gleichgestellt sind weitere Nachweise für eine im Ausland erhaltene Impfung mit einem Impfstoff, der:
+
+- a. über eine Zulassung der Europäischen Arzneimittelagentur für die EU verfügt und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde;
+- b. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.[^3-2]
+
+<sup>3</sup>
+
+Der Nachweis muss einer aktuell üblichen Nachweisform entsprechen und in deutscher, englischer, französischer, italienischer oder spanischer Sprache oder in einer amtlich beglaubigten Übersetzung in einer dieser Sprachen eingereicht werden. Er muss neben dem Namen, Vornamen und Geburtsdatum der betreffenden Person folgende Angaben enthalten:
+
+- a. Ort oder Land, in dem die Impfung durchgeführt wurde;
+- b. Datum der Impfung;
+- c. verwendeter Impfstoff.[^3-3]
+
 [^3-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^3-2]: Eingefügt durch Ziff. III der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 10. Okt. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^3-3]: Eingefügt durch Ziff. III der V vom 17. Sept. 2021, in Kraft vom 20. Sept. 2021 bis zum 10. Okt. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ## 2. Abschnitt: Massnahmen gegenüber Personen
 
@@ -671,7 +688,7 @@ Anhang 2*[^t-2]*
 
 ## Vorgaben für die Ausnahmen von der Maskenpflicht und von der Kontaktquarantäne für geimpfte und genesene Personen
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft vom 13. Sept. 2021 bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 8. Sept. 2021 (Ausweitung der Verwendung des Covid-19-Zertifikats), in Kraft bis zum 24. Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) und Anhang Ziff. 4 der V vom 17. Sept. 2021, in Kraft seit 20. Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ### 1 Geimpfte Personen
 
@@ -681,7 +698,8 @@ Anhang 2*[^t-2]*
 
   - a. über eine Zulassung in der Schweiz verfügt und gemäss den Empfehlungen des BAG vollständig verimpft wurde;
   - b. über eine Zulassung der Europäischen Arzneimittelagentur für die Europäische Union verfügt und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde;
-  - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
+  - c. gemäss dem «WHO Emergency use listing» zugelassen ist und gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde;
+  - d. nachweislich dieselbe Zusammensetzung wie ein Impfstoff aufweist, der nach Buchstabe a, b oder c zugelassen ist, jedoch von einem Lizenznehmer unter anderem Namen in Verkehr gebracht wird, und der gemäss den Vorgaben oder Empfehlungen des Staates, in dem die Impfung durchgeführt wurde, vollständig verimpft wurde.
 
 - 1\.2 Die Dauer, während der geimpfte Bewohnerinnen und Bewohner sozialmedizinischer Institutionen von der Maskenpflicht (Art. 6 Abs. 5 Bst. a) und geimpfte Personen nach der Impfung von der Kontaktquarantäne (Art. 7 Abs. 2 Bst. a) ausgenommen sind, beträgt 12 Monate ab vollständig erfolgter Impfung; beim Impfstoff von Janssen beträgt die Dauer 12 Monate ab dem 22. Tag nach erfolgter Impfung.
 

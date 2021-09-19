@@ -4,11 +4,11 @@ title: Ordinance of 23 June 2021 on Measures during the Special Situation to com
 short: COVID-19 Special Situation Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: en
-version: 2021-09-13
+version: 2021-09-20
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20210913/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20210913-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210913/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20210920/en/xml/fedlex-data-admin-ch-eli-cc-2021-379-20210920-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210920/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 23 June 2021 (Status as of 13 September 2021)
+of 23 June 2021 (Status as of 20 September 2021)
 
 The Swiss Federal Council,
 
@@ -51,12 +51,32 @@ ordains:
 
 **Persons with a certificate**
 
+<sup>1</sup>
+
 Persons with a certificate in terms of this Ordinance are persons who hold one of the following certificates:
 
 - a. a COVID-19 certificate in accordance with Article 1 letter a of the COVID-19 Ordinance on Certificates of 4 June 2021[^3-1];
+- [tab]
 - b. a recognised foreign certificate in accordance with Section 7 of the COVID-19 Ordinance on Certificates.
 
+<sup>2</sup>
+
+Further proof of vaccination administered abroad equivalent to a certificate under paragraph 1 are those involving a vaccine that:
+
+- a. has authorisation for the EU from the European Medicines Agency and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out;
+- b. has been shown to have the same composition as a vaccine licensed under letter a but marketed by a licence holder under a different name, and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.[^3-2]
+
+<sup>3</sup>
+
+The proof must be a currently customary form of proof and be submitted in German, English, French, Italian or Spanish or in an officially certified translation in one of these languages. In addition to the surname, first name and date of birth of the person concerned, it must contain the following information:
+
+- a. the place or country in which the vaccine was administered;
+- b. the date of vaccination;
+- c. the vaccine administered.[^3-3]
+
 [^3-1]: [SR 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^3-2]: Inserted by No III of the O of 17 Sept. 2021, in force from 20 Sept. 2021 to 10 Oct. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^3-3]: Inserted by No III of the O of 17 Sept. 2021, in force from 20 Sept. 2021 to 10 Oct. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ## Section 2 Measures involving Persons
 
@@ -673,7 +693,7 @@ Annex 2*[^t-2]*
 
 ## Requirements for an exemption from the requirement to wear a mask and from contact quarantine for persons who have been vaccinated or who have recovered
 
-[^t-2]: Revised by No II of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force from 13 Sept. 2021 to 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^t-2]: Revised by No II of the O of 8 Sept. 2021 (Extension of use of COVID-19 certificate), in force until 24 Jan. 2022 ([AS 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) and Annex No 4 of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ### 1 Persons who have been vaccinated
 
@@ -683,7 +703,8 @@ Annex 2*[^t-2]*
 
   - a. is authorised in Switzerland and which has been administered in full in accordance with the FOPH recommendations;
   - b. has been authorised by the European Medicines Agency for the European Union and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered;
-  - c. has been authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered.
+  - c. has been authorised under the WHO Emergency Use Listing and has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was administered;
+  - d. has been shown to have the same composition as a vaccine licensed under letters a, b or c, but marketed by the licence holder under another name, and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
 
 - 1\.2 The period during which vaccinated residents of socio-medical institutions are exempt from the requirement to wear a mask (Art. 6 para. 5) and persons who have been vaccinated are exempt from contact quarantine (Art. 7 para. 2 let. a) shall amount to 12 months from the date of vaccination in full; the Janssen vaccine is regarded as being effective for 12 months from the 22nd day after it was administered in full.
 

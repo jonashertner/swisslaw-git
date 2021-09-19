@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinanza del 23 giugno 2021 sui provvedimenti per combattere l’epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/379"
 language: it
-version: 2021-09-13
+version: 2021-09-20
 adopted: 2021-06-23
 in_force: 2021-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20210913/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20210913-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210913/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/379/20210920/it/xml/fedlex-data-admin-ch-eli-cc-2021-379-20210920-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210920/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/379/20210913/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 23 giugno 2021 (Stato 13 settembre 2021) (Stato 13 settembre 2021)
+del 23 giugno 2021 (Stato 20 settembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -48,12 +48,31 @@ ordina:
 
 **Persone con un certificato**
 
+<sup>1</sup>
+
 Sono considerate persone con un certificato ai sensi della presente ordinanza le persone che dispongono di uno dei seguenti certificati:
 
 - a. un certificato COVID-19 secondo l’articolo 1 lettera a dell’ordinanza del 4 giugno 2021[^3-1] sui certificati COVID-19;
 - b. un certificato estero riconosciuto secondo la sezione 7 dell’ordinanza sui certificati COVID-19.
 
+<sup>2</sup>
+
+Sono equiparate a un certificato secondo il capoverso 1 le altre attestazioni fornite per una vaccinazione effettuata all’estero con un vaccino che:
+
+- a. ha ottenuto l’autorizzazione dell’Agenzia europea per i medicinali per l’UE ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
+- b. presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo la lettera a, ma è immesso in commercio da un licenziatario con un altro nome ed è stato somministrato completamente secondo le prescrizioni o le raccomandazioni dello Stato in cui è stata effettuata la vaccinazione.[^3-2]
+
+<sup>3</sup>
+
+L’attestazione deve corrispondere a una forma di attestazione attualmente consueta e deve essere presentata in tedesco, inglese, francese, italiano o spagnolo o come traduzione autenticata ufficialmente in una di queste lingue. Oltre al cognome, al nome e alla data di nascita del titolare, deve contenere le seguenti informazioni:
+
+- a. luogo o Paese in cui è stata somministrata la vaccinazione;
+- b. data della vaccinazione;
+- c. vaccino somministrato.[^3-3]
+
 [^3-1]: [RS 818.102.2](https://fedlex.data.admin.ch/eli/cc/2021/325)
+[^3-2]: Introdotto dal n. III dell’O del 17 set. 2021, in vigore dal 20 set. 2021 al 10 ott. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^3-3]: Introdotto dal n. III dell’O del 17 set. 2021, in vigore dal 20 set. 2021 al 10 ott. 2021 ([RU 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
 
 ## Sezione 2: Provvedimenti nei confronti delle persone
 
@@ -671,7 +690,7 @@ Allegato 2*[^t-2]*
 
 ## Prescrizioni relative all’esenzione delle persone vaccinate o guarite dall’obbligo della mascherina e della quarantena dei contatti
 
-[^t-2]: Aggiornato dal n. II dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore dal 13 set. 2021 al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)).
+[^t-2]: Aggiornato dal n. II dell’O dell’8 set. 2021 (Estensione dell’impiego del certificato COVID-19), in vigore fino al 24 gen. 2022 ([RU 2021 542](https://fedlex.data.admin.ch/eli/oc/2021/542)) e dall’all. n. 4 dell’O del 17 set. 2021, in vigore dal 20 set. 2021 ([RU 2021 563](https://fedlex.data.admin.ch/eli/oc/2021/563)).
 
 ### 1 Persone vaccinate
 
@@ -681,7 +700,8 @@ Allegato 2*[^t-2]*
 
   - a. omologato in Svizzera e che è stato interamente somministrato conformemente alle raccomandazioni dell’UFSP;
   - b. omologato dall’Agenzia europea per i medicinali per l’Unione europea e che è stato interamente somministrato conformemente alle prescrizioni o alle raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
-  - c. omologato secondo la Lista per l’uso di emergenza dell’OMS e che è stato interamente somministrato conformemente alle prescrizioni o alle raccomandazioni dello Stato in cui è stata effettuata la vaccinazione.
+  - c. omologato secondo la Lista per l’uso di emergenza dell’OMS e che è stato interamente somministrato conformemente alle prescrizioni o alle raccomandazioni dello Stato in cui è stata effettuata la vaccinazione;
+  - d. che presenta comprovatamente la stessa composizione di un vaccino autorizzato secondo le lettere a, b o c, ma è immesso in commercio da un licenziatario con un altro nome, a condizione che la vaccinazione sia avvenuta in modo completo conformemente ai requisiti o alle raccomandazioni dello Stato in cui è stata effettuata.
 
 - 1\.2 Il lasso di tempo durante il quale gli ospiti vaccinati di istituti medico-sociali sono esentati dall’obbligo della mascherina (art. 6 cpv. 5 lett. a) e le persone vaccinate sono esentate dall’obbligo della quarantena dei contatti dopo la vaccinazione (art. 7 cpv. 2 lett. a) è di dodici mesi a partire dal completamento della vaccinazione; per il vaccino di Janssen la durata è di dodici mesi a partire dal ventiduesimo giorno dopo la vaccinazione.
 
