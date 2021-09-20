@@ -3,18 +3,18 @@ sr: "131.227"
 title: "Verfassung des Kantons Aargau, vom 25. Juni 1980"
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga"
 language: de
-version: 2019-09-16
+version: 2021-09-21
 adopted: 1980-06-25
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20190916/de/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20190916-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20190916/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/de/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20210921-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Aargau
 
-vom 25. Juni 1980 (Stand am 16. September 2019)[^t-1]
+vom 25. Juni 1980 (Stand am 21. September 2021)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -305,7 +305,9 @@ Kanton und Gemeinden gewährleisten die öffentliche Ordnung und Sicherheit. Sie
 Durch Gesetz werden festgelegt:
 
 - a. die Entscheidungsbefugnisse des Erziehungsrates und seine Zuständigkeiten als vorberatendes Organ des Regierungsrates;
-- b. die Zuständigkeiten der Bezirksschulräte und der Schulpflegen.
+- b.[^31-1] die Zuständigkeiten der Bezirksschulräte und der Gemeinderäte.
+
+[^31-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 3 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### § 32
 
@@ -551,11 +553,9 @@ Dem Kanton stehen zur ausschliesslichen wirtschaftlichen Betätigung zu:
 
 #### § 55<sup>bis</sup>
 
-**f<sup>bis</sup>) Lotterien**[^55bis-1]
+[^55bis-1]
 
-Der Kanton regelt durch Gesetz die Ausgabe und die Durchführung von Lotterien zu gemeinnützigen und wohltätigen Zwecken. Er kann nichtstaatliche Lotterien zu gemeinnützigen oder wohltätigen Zwecken zulassen.
-
-[^55bis-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2000](http://www.admin.ch/ch/d/pore/va/20000924/index.html), in Kraft seit 1. Juli 2002. Gewährleistungsbeschluss vom 11. Dez. 2001 ([BBl 2001 6542](https://fedlex.data.admin.ch/eli/fga/2001/1125)Art. 1 Ziff. 6 [4879](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^55bis-1]: Aufgehoben in der [Volksabstimmung vom 29. Nov. 2020](http://www.admin.ch/ch/d/pore/va/20201129/index.html), mit Wirkung seit 1. Jan. 2021. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 3 Abs. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### § 56
 
@@ -905,7 +905,7 @@ Der Grosse Rat übt die Oberaufsicht über alle Behörden und Organe aus, die ka
 <sup>3</sup> Erfordern internationale oder interkantonale Verträge Verfassungsänderungen, sind diese vor der Genehmigung oder dem endgültigen Abschluss vorzunehmen.
 
 [^82-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^82-2]: [BS **1** 3; [AS 1949 1511](https://fedlex.data.admin.ch/eli/oc/1949/1511_1614_1544), [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807)[2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228)]. Den genannten Bestimmungen entsprechen heute die Art. 45, 136, 140, 141, 151, 159, 160 und 165 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^82-2]: [BS **1** 3; [AS 1949 1511](https://fedlex.data.admin.ch/eli/oc/1949/1511_1614_1544); [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807),[2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228)]. Den genannten Bestimmungen entsprechen heute die Art. 45, 136, 140, 141, 151, 159, 160 und 165 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 [^82-3]: Angenommen in der [Volksabstimmung vom 11. März. 2012](http://www.admin.ch/ch/d/pore/va/20120311/index.html), in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 11. März 2013 ([BBl 2013 2619](https://fedlex.data.admin.ch/eli/fga/2013/457)Art. 1 Ziff. 5 [195](https://fedlex.data.admin.ch/eli/fga/2013/6)).
 [^82-4]: Angenommen in der [Volksabstimmung vom 5. Juni 2005](http://www.admin.ch/ch/d/pore/va/20050605/index.html), in Kraft seit 1. Aug. 2005. Gewährleistungsbeschluss vom 12. Juni 2006 ([BBl 2006 6127](https://fedlex.data.admin.ch/eli/fga/2006/714)Art. 1 Ziff. 4 [2813](https://fedlex.data.admin.ch/eli/fga/2006/301)).
 
@@ -1875,7 +1875,7 @@ Initiative
 
 - – Behandlung von Initiativen durch den Grossen Rat 65
 
-**Interkantonale und internationale Vertr****ä****ge** s. Verträge
+**Interkantonale und internationale Verträge** s. Verträge
 
 **Jagdregal** 55<sup>1</sup><sup>a</sup>
 
@@ -1940,8 +1940,6 @@ Leben
 
 - – polizeilicher Schutz 27
 - – Recht auf Leben 15<sup>1</sup>
-
-**Lotterien** 55<sup>bis</sup>
 
 **Luftreinhaltung** s. Umweltschutz
 
@@ -2260,7 +2258,7 @@ Verhältnis
 - – zur Eidgenossenschaft 3
 - – Zuständigkeit des Regierungsrates 89<sup>2</sup><sup>c</sup>
 
-**Verhältnismässigkeit der öffentlichen Tä****tigkeit** 2
+**Verhältnismässigkeit der öffentlichen** **Tä****tigkeit** 2
 
 **Verhältniswahlverfahren** 61<sup>2</sup>
 

@@ -3,22 +3,23 @@ sr: "131.227"
 title: "Costituzione del Cantone di Argovia, del 25 giugno 1980"
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga"
 language: it
-version: 2019-09-16
+version: 2021-09-21
 adopted: 1980-06-25
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20190916/it/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20190916-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20190916/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/it/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20210921-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione del Cantone di Argovia
 
-Traduzione*[^t-1]*
+Traduzione[^t-1]
 
-del 25 giugno 1980 (Stato 16 settembre 2019) (Stato 16 settembre 2019)
+del 25 giugno 1980 (Stato 21 settembre 2021)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell'ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 Il Popolo argoviese,
 
@@ -309,7 +310,9 @@ Il Cantone e i Comuni garantiscono l’ordine e la sicurezza pubblici. Proteggon
 La legge determina:
 
 - a. i poteri decisionali del Consiglio dell’educazione e le sue competenze in quanto organo consultivo del Consiglio di Stato;
-- b. le competenze dei consigli scolastici distrettuali e delle commissioni scolastiche.
+- b.[^31-1] le competenze dei consigli scolastici distrettuali e dei consigli comunali.
+
+[^31-1]: Accettato nella [votazione popolare del 29 nov. 2020](http://www.admin.ch/ch/i/pore/va/20201129/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 3 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### § 32
 
@@ -333,7 +336,7 @@ La legge determina:
 
 <sup>1</sup> L’istruzione nelle scuole pubbliche e in altri istituti pubblici di formazione è gratuita per gli abitanti del Cantone. La legge determina le eccezioni.[^34-1]
 
-<sup>2</sup> ....[^34-2]
+<sup>2</sup> ...[^34-2]
 
 <sup>3</sup> Gli enti responsabili delle scuole prendono misure compensative in favore dei fanciulli che risultino svantaggiati a causa dell’ubicazione del loro domicilio, per ragioni d’ordine sociale o perché disabili.
 
@@ -555,11 +558,9 @@ Il Cantone ha il diritto esclusivo di esercitare a fini economici le seguenti at
 
 #### § 55<sup>bis</sup>
 
-**f<sup>bis</sup>) Lotterie**[^55bis-1]
+[^55bis-1]
 
-Il Cantone legifera sull’organizzazione e l’esercizio delle lotterie a fini di utilità pubblica e di beneficenza. Può autorizzare lotterie non statali quando servano a fini di utilità pubblica o di beneficenza.
-
-[^55bis-1]: Accettato nella [votazione popolare del 24 set. 2000](http://www.admin.ch/ch/i/pore/va/20000924/index.html), in vigore dal 1° lug. 2002. Garanzia dell’AF dell’11 dic. 2001 ([FF 2001 5802](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 n. 6 [4365](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^55bis-1]: Abrogato nella [votazione popolare del 29 nov. 2020](http://www.admin.ch/ch/i/pore/va/20201129/index.html), con effetto dal 1° gen. 2021. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 3 cpv. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### § 56
 
@@ -1700,7 +1701,6 @@ Compiti pubblici del Cantone
   - – energetico 54
   - – assicurazioni obbligatorie 56
   - – banca cantonale 57
-  - – lotterie 55<sup>bis</sup>
   - – obiettivi della politica economica cantonale 50
   - – partecipazioni 58
   - – prescrizioni di polizia economica 52
@@ -2121,8 +2121,6 @@ Istruzione
 - [tab] – personale 23
 - [tab] – privazione della 23
 
-**Lotterie** 55<sup>bis</sup>
-
 **Maggioritario**
 
 - [tab] – elezione del Consiglio di Stato 88
@@ -2176,7 +2174,6 @@ Organizzazione (i)
 - [tab] – della Confederazione 3
 - [tab] – delle comunità religiose 12
 - [tab] – delle imprese di approvvigionamento 54
-- [tab] – delle lotterie 55<sup>bis</sup>
 - [tab] – giudiziaria 97 ss
 - [tab] – private 39
 - [tab] – responsabilità 75
@@ -2317,7 +2314,6 @@ Sede ufficiale 71
 - [tab] – limiti ai diritti fondamentali 8
 - [tab] – responsabilità 75
 - [tab] – tassazione dello Stato 113
-- [tab]
 
 **Stranieri** 82
 
@@ -2464,4 +2460,3 @@ Voto
   - [tab] – facoltative 63, 131
 
 - [tab] v. anche Elezioni, Iniziativa, Referendum
-- [tab]

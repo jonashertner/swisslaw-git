@@ -3,22 +3,22 @@ sr: "131.227"
 title: "Constitution du canton d'Argovie, du 25 juin 1980"
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga"
 language: fr
-version: 2019-09-16
+version: 2021-09-21
 adopted: 1980-06-25
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20190916/fr/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20190916-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20190916/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/fr/xml/fedlex-data-admin-ch-eli-cc-1981-2_249_249_253_fga-20210921-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/2_249_249_253_fga/20210921/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution du Canton d’Argovie
 
-Traduction*[^t-1]*
+Traduction[^t-1]
 
-du 25 juin 1980 (Etat le 16 septembre 2019)[^t-2]
+du 25 juin 1980 (État le 21 septembre 2021)[^t-2]
 
-[^t-1]: Texte original allemand.
+[^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
 
 Le peuple argovien,
@@ -308,7 +308,9 @@ Le canton et les communes garantissent l’ordre et la sécurité publics. Ils p
 La loi détermine:
 
 - a. les pouvoirs de décision du conseil de l’éducation et ses compétences en tant qu’organe consultatif du Conseil d’État;
-- b. les compétences des conseils scolaires de district et des commissions scolaires.
+- b.[^31-1] les compétences des conseils scolaires de district et des conseils communaux.
+
+[^31-1]: Accepté en [votation populaire du 29 nov. 2020](http://www.admin.ch/ch/f/pore/va/20201129/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 3 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### § 32
 
@@ -557,11 +559,9 @@ Est réservé au canton, au titre d’activité économique exclusive:
 
 #### § 55<sup>bis</sup>
 
-**f<sup>bis</sup>. Loteries**[^55bis-1]
+[^55bis-1]
 
-Le canton légifère sur l’organisation et l’exploitation des loteries servant à des fins d’utilité publique et de bienfaisance. Il peut admettre des loteries indépendantes de l’État lorsqu’elles servent à des fins d’utilité publique ou de bienfaisance.
-
-[^55bis-1]: Accepté en [votation populaire du 24 sept. 2000](http://www.admin.ch/ch/f/pore/va/20000924/index.html), en vigueur depuis le 1<sup>er</sup> juil. 2002. Garantie de l’Ass. féd. du 11 déc. 2001 ([FF 2001 6190](https://fedlex.data.admin.ch/eli/fga/2001/1125)art. 1 ch. 6 [4659](https://fedlex.data.admin.ch/eli/fga/2001/813)).
+[^55bis-1]: Abrogé en [votation populaire du 29 nov. 2020](http://www.admin.ch/ch/f/pore/va/20201129/index.html), avec effet au 1<sup>er</sup> janv. 2021. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 3 al. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### § 56
 
@@ -2017,7 +2017,7 @@ Loi
 - – actes normatifs rétroactifs interdits 24
 - – exécution 87<sup>1</sup>
 - – initiative populaire 64, 65
-- – initiative demandant la modification d'une loi 62<sup>1</sup> <sup>d</sup>, 64
+- – initiative demandant la modification d’une loi 62<sup>1</sup> <sup>d</sup>, 64
 - – législation 78, 91
 - – régime transitoire 126–132
 - – urgence 78<sup>4</sup>
@@ -2028,8 +2028,6 @@ Logement
 - – encouragement de la construction d’habitations à loyer modéré 47<sup>3</sup>
 - – inviolabilité du domicile 15<sup>2</sup>
 - – offres 25<sup>2</sup> <sup>c</sup>
-
-**Loteries** 55<sup>bis</sup>
 
 **Majoritaire**, système 61<sup>3</sup>
 
@@ -2088,7 +2086,7 @@ Logement
 - – souveraineté 1
 - – initiative populaire v. Initiative
 
-**Planif****i****cation financière et des tâches** 116
+**Planification financière et des tâches** 116
 
 **Plans**, referendum 63<sup>1</sup> <sup>b</sup>
 
@@ -2271,7 +2269,6 @@ Taux d’imposition
   - – droit transitoire 128<sup>4</sup>
 
 - – vote populaire facultatif 63<sup>1</sup> <sup>c</sup>
-- [tab]
 
 **Transitoire**, régime transitoire 126–132
 
