@@ -4,22 +4,22 @@ title: "Verfassung der Republik und des Kantons Genf, vom 14. Oktober 2012 (KV-G
 short: KV-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: de
-version: 2020-09-17
+version: 2021-09-21
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20200917/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20200917-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20200917/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20210921/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20210921-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20210921/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung der Republik und des Kantons Genf
 
-Übersetzung*[^t-1]*
+Übersetzung[^t-1]
 
 (KV-GE)
 
-vom 14. Oktober 2012 (Stand am 17. September 2020)[^t-2]
+vom 14. Oktober 2012 (Stand am 21. September 2021)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
@@ -97,7 +97,7 @@ Das Gesetz regelt Erwerb und Verlust des Genfer Bürgerrechts.
 **Wappen und Devise**
 
 <table>
-<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20200917/de/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20210921/de/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 8
@@ -463,7 +463,9 @@ Das Recht auf unentgeltliche Nutzung des öffentlichen Grunds zur Sammlung von U
 
 <sup>3</sup> Berechtigt, in kommunalen Angelegenheiten zu wählen, abzustimmen sowie Initiativen und Referendumsbegehren zu unterzeichnen, sind die Personen mit ausländischem Bürgerrecht, die ihr achtzehntes Lebensjahr zurückgelegt haben und ihren rechtmässigen Wohnsitz seit mindestens acht Jahren in der Schweiz haben.
 
-<sup>4</sup> Die politischen Rechte von dauernd urteilsunfähigen Personen können durch Verfügung einer richterlichen Behörde entzogen werden.
+<sup>4</sup> …[^48-1]
+
+[^48-1]: Aufgehoben in der [Volksabstimmung vom 29. Nov. 2020](http://www.admin.ch/ch/d/pore/va/20201129/index.html), mit Wirkung seit 19. Dez. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 49
 
@@ -1027,7 +1029,12 @@ Die Mitglieder des Staatsrats üben ihr Mandat frei aus. Sie legen ihre Verbindu
 
 <sup>1</sup> Der Staatsrat ist eine Kollegialbehörde.
 
-<sup>2</sup> Er ernennt eines seiner Mitglieder für die Legislaturperiode zur Präsidentin oder zum Präsidenten.
+<sup>2</sup> Er ernennt jedes Jahr eines seiner Mitglieder zur Präsidentin oder zum Präsidenten und zur Vizepräsidentin oder zum Vizepräsidenten.[^105-1]
+
+<sup>3</sup> Die Wiederwahl für das Folgejahr ist ausgeschlossen. Die abtretende Präsidentin oder der abtretende Präsident kann nicht für das Folgejahr zur Vizepräsidentin oder zum Vizepräsidenten gewählt werden.[^105-2]
+
+[^105-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^105-2]: Angenommen in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 106
 
@@ -1037,7 +1044,9 @@ Die Mitglieder des Staatsrats üben ihr Mandat frei aus. Sie legen ihre Verbindu
 
 <sup>2</sup> Jede Änderung der Zusammensetzung der Departemente ist dem Grossen Rat zur Genehmigung zu unterbreiten. Dieser fasst seinen Entscheid durch Resolution an der auf den Vorschlag des Staatsrats folgenden Sitzung.
 
-<sup>3</sup> Die Präsidentin oder der Präsident des Staatsrats leitet das Präsidialdepartement. Dieses Departement ist namentlich zuständig für die auswärtigen Beziehungen, die Beziehungen zum «Genève internationale» und die Kohärenz der Regierungstätigkeit.
+<sup>3</sup> …[^106-1]
+
+[^106-1]: Aufgehoben in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), mit Wirkung seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 ### 4. Abschnitt: Zuständigkeiten
 
@@ -1517,7 +1526,21 @@ Der Staat beschafft seine Mittel namentlich aus:
 
 <sup>3</sup> Die Steuern der juristischen Personen sind so auszugestalten, dass die Wettbewerbsfähigkeit gewahrt wird und die Anstrengungen zur Sicherung und zum Ausbau der Vollbeschäftigung berücksichtigt werden.
 
-<sup>4</sup> Der Staat bekämpft den Steuerbetrug und die Steuerhinterziehung.
+<sup>4</sup> Der Staat handelt zugunsten einer Verringerung des interkantonalen Steuerwettbewerbs.[^155-1]
+
+<sup>5</sup> Der Staat bekämpft den Steuerbetrug und die Steuerhinterziehung.[^155-2]
+
+<sup>6</sup>
+
+Die kantonale Umsetzung der Steuerreformen des Bundes gehorcht folgenden Grundsätzen:
+
+- a. Aufrechterhaltung der Finanzierung des Service public und der Leistungen an die Bevölkerung;
+- b. Erhalt des kantonalen und kommunalen Steueraufkommens;
+- c. Verstärkung der Steuerprogression.[^155-3]
+
+[^155-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-2]: Angenommen in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-3]: Angenommen in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 156
 
@@ -1694,6 +1717,17 @@ Die kantonalen Behörden wenden sich mit allen ihnen zur Verfügung stehenden Mi
 <sup>1</sup> Die öffentlich-rechtlichen medizinischen Einrichtungen bieten je nach Spezifizierung Dienstleistungen in den Bereichen Pflege, Lehre und Forschung an.
 
 <sup>2</sup> Das Betriebsdefizit der öffentlich-rechtlichen medizinischen Einrichtungen wird durch eine jährlich im Staatsbudget auszuweisende Subvention gedeckt.
+
+#### Art. 174A
+
+**Genfer Institution zur häuslichen Pflege[^174A-2]**[^174A-1]
+
+<sup>1</sup> Die Genfer Institution des öffentlichen Rechts zur häuslichen Pflege stellt Leistungen im Bereich der Hauspflege und der Selbstständigkeit von Personen sicher.
+
+<sup>2</sup> Das Betriebsdefizit der Institution wird durch eine jährliche Subvention zulasten des Staatsbudgets getragen.
+
+[^174A-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^174A-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
 
 #### Art. 175
 
@@ -2221,6 +2255,10 @@ Artikel 131 gilt sinngemäss für die interne Kontrolle und Revision sowie für 
 
 <sup>2</sup> Personen, denen die politischen Rechte vor dem Inkrafttreten dieser Verfassung entzogen worden sind, bleiben bis zu einer Verfügung einer richterlichen Behörde, aber längstens während drei Jahren ohne politische Rechte. Sie können sich jederzeit an die Behörde nach dem vorangehenden Absatz oder an die im Ausführungsgesetz bestimmte richterliche Behörde wenden, die über den weiteren Entzug der politischen Rechte und gegebenenfalls dessen Umfang entscheiden wird.
 
+<sup>3</sup> Personen, denen die politischen Rechte bei Inkrafttreten des Verfassungsgesetzes vom 29. November 2020 entzogen waren, erhalten diese unverzüglich zurück.[^228-1]
+
+[^228-1]: Angenommen in der [Volksabstimmung vom 29. Nov. 2020](http://www.admin.ch/ch/d/pore/va/20201129/index.html), in Kraft seit 19. Dez. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+
 #### Art. 229
 
 **Übergangsbestimmung zu Art. 56–64 und 71–76 (Volksinitiativen)**
@@ -2728,6 +2766,11 @@ Passivrauchen 176
 Petition 33
 
 Pflanzenschutzmittel 187<sup>2</sup>
+
+Pflege
+
+- – medizinische Einrichtungen 174
+- – Hauspflege 174A
 
 Planung 134, 135, 152, 171
 

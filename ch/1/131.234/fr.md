@@ -4,11 +4,11 @@ title: "Constitution de la République et canton de Genève, du 14 octobre 2012 
 short: Cst-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: fr
-version: 2020-09-17
+version: 2021-09-21
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20200917/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20200917-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20200917/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20210921/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20210921-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20210921/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20200917/fr"
 
 (Cst-GE)
 
-du 14 octobre 2012 (Etat le 17 septembre 2020)[^t-1]
+du 14 octobre 2012 (Etat le 21 septembre 2021)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
 
@@ -94,7 +94,7 @@ La loi règle l’acquisition et la perte de la nationalité genevoise.
 **Armoiries et devise**
 
 <table>
-<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20200917/fr/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20210921/fr/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 8
@@ -460,7 +460,9 @@ Le droit d’utiliser le domaine public gratuitement afin de récolter des signa
 
 <sup>3</sup> Sont titulaires du droit d’élire, de voter et de signer des initiatives et des demandes de référendum sur le plan communal les personnes de nationalité étrangère âgées de 18 ans révolus qui ont leur domicile légal en Suisse depuis huit ans au moins.
 
-<sup>4</sup> Les droits politiques des personnes durablement incapables de discernement peuvent être suspendus par décision d’une autorité judiciaire.
+<sup>4</sup> ...[^48-1]
+
+[^48-1]: Abrogé en [votation populaire du 29 nov. 2020](http://www.admin.ch/ch/f/pore/va/20201129/index.html), avec effet au 19 déc. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 49
 
@@ -1024,7 +1026,12 @@ Les membres du Conseil d’État exercent librement leur mandat. Ils rendent pub
 
 <sup>1</sup> Le Conseil d’État est une autorité collégiale.
 
-<sup>2</sup> Il désigne parmi ses membres une présidente ou un président pour la durée de la législature.
+<sup>2</sup> Il nomme chaque année parmi ses membres sa présidente ou son président et sa vice-présidente ou son vice-président.[^105-1]
+
+<sup>3</sup> Ces mandats ne sont pas renouvelables l’année suivante. La présidente ou le président sortant n’est pas éligible à la vice-présidence l’année suivante.[^105-2]
+
+[^105-1]: Accepté en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^105-2]: Accepté en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 106
 
@@ -1034,7 +1041,9 @@ Les membres du Conseil d’État exercent librement leur mandat. Ils rendent pub
 
 <sup>2</sup> Toute modification de la composition des départements est soumise pour approbation au Grand Conseil. Ce dernier se détermine par voie de résolution à la séance qui suit la proposition du Conseil d’État.
 
-<sup>3</sup> La présidente ou le président du Conseil d’État dirige le département présidentiel. Ce département est chargé notamment des relations extérieures, des relations avec la Genève internationale et de la cohérence de l’action gouvernementale.
+<sup>3</sup> ...[^106-1]
+
+[^106-1]: Abrogé en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), avec effet au 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 ### Section 4 Compétences
 
@@ -1514,7 +1523,21 @@ Les ressources de l’État sont notamment:
 
 <sup>3</sup> Les impôts des personnes morales sont conçus de manière à préserver leur compétitivité, en prenant en considération les efforts qu’elles entreprennent pour maintenir et développer le plein emploi.
 
-<sup>4</sup> L’État lutte contre la fraude, la soustraction et l’escroquerie fiscales.
+<sup>4</sup> L’État agit en faveur de la réduction de la concurrence fiscale intercantonale.[^155-1]
+
+<sup>5</sup> L’État lutte contre la fraude, la soustraction et l’escroquerie fiscales.[^155-2]
+
+<sup>6</sup>
+
+La mise en œuvre cantonale des réformes fédérales de la fiscalité obéit aux principes suivants:
+
+- a. préservation du financement des services publics et des prestations à la population;
+- b. maintien du niveau des recettes fiscales cantonales et communales;
+- c. renforcement de la progressivité de l’impôt.[^155-3]
+
+[^155-1]: Accepté en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-2]: Accepté en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-3]: Accepté en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 156
 
@@ -1691,6 +1714,17 @@ Les autorités cantonales s’opposent par tous les moyens à leur disposition e
 <sup>1</sup> Les établissements médicaux de droit public fournissent, selon leurs spécificités, des prestations de soins, d’enseignement et de recherche.
 
 <sup>2</sup> Le déficit d’exploitation des établissements médicaux de droit public est couvert par une subvention portée chaque année au budget de l’État.
+
+#### Art. 174A
+
+**Institution genevoise de maintien à domicile (IMAD)[^174A-2]**[^174A-1]
+
+<sup>1</sup> L’Institution genevoise de maintien à domicile (IMAD), de droit public, assure des prestations pour le maintien à domicile et l’autonomie des personnes.
+
+<sup>2</sup> Le déficit d’exploitation de l’IMAD est couvert par une subvention portée chaque année au budget de l’État.
+
+[^174A-1]: Accepté en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^174A-2]: La dénomination de l’unité administrative a été adaptée en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 175
 
@@ -2194,7 +2228,7 @@ L’art. 131 s’applique par analogie au contrôle et à l’audit internes, ai
 
 #### Art. 226
 
-****Lég**Législation d’appli s cation**
+**Législation d’application**
 
 <sup>1</sup> Les modifications législatives requises par la présente constitution sont adoptées sans retard, mais au plus tard dans un délai de cinq ans dès son entrée en vigueur.
 
@@ -2217,6 +2251,10 @@ L’art. 131 s’applique par analogie au contrôle et à l’audit internes, ai
 <sup>1</sup> Dans l’attente d’une loi d’application, l’autorité judiciaire compétente en matière de protection de l’adulte peut suspendre les droits politiques en vertu de l’art. 48, al. 4. Elle statue sur l’étendue de la suspension.
 
 <sup>2</sup> Les personnes privées des droits politiques à l’entrée en vigueur de la présente constitution le restent jusqu’à décision d’une autorité judiciaire, mais au plus tard durant trois ans. Elles peuvent s’adresser en tout temps à l’autorité visée à l’alinéa précédent ou à l’autorité judiciaire désignée par la loi d’application, qui statuera sur la suspension ou non des droits politiques et le cas échéant sur son étendue.
+
+<sup>3</sup> Les personnes privées des droits politiques à l’entrée en vigueur de la loi constitutionnelle du 29 novembre 2020 recouvrent immédiatement ces droits.[^228-1]
+
+[^228-1]: Accepté en [votation populaire du 29 nov. 2020](http://www.admin.ch/ch/f/pore/va/20201129/index.html), en vigueur depuis le 19 déc. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 229
 
@@ -2404,7 +2442,6 @@ Citoyen
 
 - – Droit de cité 6
 - – Égalité v. Égalité
-- – suspension des droit politiques 48<sup>4</sup>
 - – Droits politiques 44 à 79
 
 Citoyenneté (préparation à la) 49
@@ -2437,6 +2474,8 @@ Comptes v. Budget
 
 Concertation 11<sup>1</sup>, 135<sup>2</sup>, 147<sup>3</sup>
 
+Concurrence fiscale intercantonale 155<sup>5</sup>
+
 Confédération
 
 - – canton membre 1<sup>2</sup>
@@ -2463,7 +2502,7 @@ Conseil d’État
 - – programme de législature 107
 - – séance du Grand Conseil 86
 
-**Conseil supérieur de la magistrature**125 à 127
+Conseil supérieur de la magistrature 125 à 127
 
 Conseil des États 52
 
@@ -2471,7 +2510,7 @@ Conseil municipal 140, 142
 
 Consommation 188
 
-**Constitution cantonale**
+Constitution cantonale
 
 - – dispositions transitoires 224 ss
 - – initiative v. Initiative
@@ -2518,7 +2557,7 @@ Députées/Députés
 - – généralités 81 à 85
 - – suppléants 82
 
-**Développement durable** 10, 145<sup>1</sup>, 157, 165
+Développement durable 10, 145<sup>1</sup>, 157, 165
 
 Devise 7
 
@@ -2646,7 +2685,7 @@ Environnement
 - – respect de l’ 13<sup>2</sup>, 166, 167<sup>1</sup>, 187<sup>1</sup>, 190<sup>1</sup>, 191<sup>2</sup>
 - – transports publics 190, 191
 
-Escroquerie fiscale 155<sup>4</sup>
+Escroquerie fiscale 155<sup>5</sup>
 
 Établissements autonomes de droit public
 
@@ -2691,7 +2730,7 @@ Expression (liberté d’) 26
 
 Famille 13<sup>2</sup>, 15<sup>3</sup>, 22, 149<sup>1</sup>, 178<sup>1</sup>, 205
 
-**Finances publiques** 96 à 98, 108, 143, 152 à 156
+Finances publiques 96 à 98, 108, 143, 152 à 156
 
 Fiscalité 155
 
@@ -2699,7 +2738,7 @@ Force publique 184
 
 Formation 15<sup>2</sup>, 24, 193 à 199
 
-**Fumée passive** (protection contre la) 176
+Fumée passive (protection contre la) 176
 
 Fusion de communes 138, 139, 235
 
@@ -2709,7 +2748,7 @@ Générations
 - – mixité intergénérationnelle 163
 - – solidarité intergénérationnelle 206
 
-Genève internationale 106<sup>3</sup>, 146, 147
+Genève internationale 146, 147
 
 Gestion des finances 152
 
@@ -2745,13 +2784,11 @@ Impôts
 - – généralités 96, 154<sup>1</sup>, 155
 - – référendum 66, 67, 69, 78
 
-Incapacité de discernement 48<sup>4</sup>
-
 Incompatibilité 83, 103, 142
 
 Indépendance 84, 104, 117
 
-**Information** 11, 16<sup>2</sup>, 26, 28, 114<sup>1</sup>, 188, 220
+Information 11, 16<sup>2</sup>, 26, 28, 114<sup>1</sup>, 188, 220
 
 Infrastructures 181<sup>2</sup>, 192
 
@@ -2760,6 +2797,8 @@ Initiative populaire
 - – cantonale 45 à 48, 56 à 64
 - – communale 45 à 48, 71 à 76
 - – intercommunale 136<sup>3</sup>
+
+Institution genevoise de maintien (IMAD) 174A
 
 Intégration 39<sup>1</sup>, 209<sup>1</sup>, 210<sup>1</sup>, 212<sup>3</sup>
 
@@ -2771,7 +2810,7 @@ Jeunesse 207
 
 Jugements (publicité des) 118
 
-**Juges** v. Magistrats du pouvoir judiciaire
+Juges v. Magistrats du pouvoir judiciaire
 
 Justice 1, 116<sup>3</sup>
 
@@ -2893,7 +2932,7 @@ Pouvoir
 
 Présidence
 
-- – du Conseil d’État 105, 106<sup>3</sup>, 114<sup>1</sup>
+- – du Conseil d’État 105, 114<sup>1</sup>
 - – du Grand Conseil 87
 
 Presse v. Médias
@@ -2909,7 +2948,7 @@ Produits phytosanitaires 187<sup>2</sup>
 
 Profession (libre choix de la) 35<sup>2</sup>
 
-**Programme de législature** v. Législature
+Programme de législature v. Législature
 
 Proportionnalité 9<sup>2</sup>, 43<sup>3</sup>
 
@@ -2940,7 +2979,7 @@ Règlement 79, 109
 
 Réinsertion 186, 214
 
-**Relations extérieures** 92, 106, 144 à 147
+Relations extérieures 92, 106, 144 à 147
 
 Religion
 
@@ -2948,7 +2987,7 @@ Religion
 - – laïcité 3, 193
 - – liberté de conscience et de croyance 25
 
-**Représentation des femmes et de****s****hommes** 50
+Représentation des femmes et deshommes 50
 
 République et canton
 
@@ -3024,7 +3063,7 @@ Surveillance
 
 Syndicats 36
 
-**Système majoritaire** v. Majoritaire
+Système majoritaire v. Majoritaire
 
 Système proportionnel cf Proportionnel
 
@@ -3037,15 +3076,15 @@ Territoire
 - – cantonal 4
 - – organisation du 132 à 143
 
-**Titularité** 48
+Titularité 48
 
-**Torture** (interdiction de la) 18<sup>2</sup>
+Torture (interdiction de la) 18<sup>2</sup>
 
-**Trafic aérien** 191A
+Trafic aérien 191A
 
 - – nuisances 191A<sup>3</sup>
 
-**Traités** v. Conventions intercantonales
+Traités v. Conventions intercantonales
 
 Transparence 51, 133, 148
 

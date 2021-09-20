@@ -4,22 +4,22 @@ title: "Costituzione della Repubblica e Cantone di Ginevra, del 14 ottobre 2012 
 short: Cost.-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: it
-version: 2020-09-17
+version: 2021-09-21
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20200917/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20200917-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20200917/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20210921/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20210921-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20210921/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione della Repubblica e Cantone di Ginevra
 
-Traduzione*[^t-1]*
+Traduzione[^t-1]
 
 (Cost.-GE)
 
-del 14 ottobre 2012 (Stato 17 settembre 2020)
+del 14 ottobre 2012 (Stato 21 settembre 2021)
 
 [^t-1]: Accettata nella votazione popolare del 14 ott. 2012, in vigore dal 1° giu. 2013. Garanzia federale del 20 mar. 2014 (FF **2014** 2701, **2013** 7969 7977). Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
 
@@ -96,7 +96,7 @@ La legge disciplina l’acquisto e la perdita della cittadinanza ginevrina.
 **Stemma e motto**
 
 <table>
-<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20200917/it/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20210921/it/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 8
@@ -462,7 +462,9 @@ Il diritto di utilizzare gratuitamente il suolo pubblico per la raccolta di firm
 
 <sup>3</sup> Sono titolari del diritto di eleggere, votare e firmare iniziative e domande di referendum a livello comunale le persone di nazionalità straniera che hanno compiuto 18 anni e sono legalmente domiciliate in Svizzera da almeno otto anni.
 
-<sup>4</sup> I diritti politici delle persone permanentemente incapaci di discernimento possono essere sospesi mediante decisione di un’autorità giudiziaria.
+<sup>4</sup> ...[^48-1]
+
+[^48-1]: Abrogato nella [votazione popolare del 29 nov. 2020](http://www.admin.ch/ch/i/pore/va/20201129/index.html), con effetto dal 19 dic. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 49
 
@@ -1026,7 +1028,12 @@ I membri del Consiglio di Stato esercitano liberamente il loro mandato. Rendono 
 
 <sup>1</sup> Il Consiglio di Stato è un’autorità collegiale.
 
-<sup>2</sup> Nomina tra i suoi membri un presidente per la durata della legislatura.
+<sup>2</sup> Nomina ogni anno tra i suoi membri il suo presidente e il suo vicepresidente.[^105-1]
+
+<sup>3</sup> Tali mandati non sono rinnovabili l’anno successivo. Il presidente uscente non può essere nominato vicepresidente l’anno successivo.[^105-2]
+
+[^105-1]: Accettato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^105-2]: Accettato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 106
 
@@ -1036,7 +1043,9 @@ I membri del Consiglio di Stato esercitano liberamente il loro mandato. Rendono 
 
 <sup>2</sup> Ogni modifica della composizione dei dipartimenti è sottoposta all’approvazione del Gran Consiglio. Esso si esprime mediante decisione durante la seduta che segue la proposta del Consiglio di Stato.
 
-<sup>3</sup> Il presidente del Consiglio di Stato dirige il dipartimento presidenziale. Tale dipartimento è incaricato in particolare di curare le relazioni esterne, le relazioni con la Ginevra internazionale e la coerenza dell’operato governativo.
+<sup>3</sup> ...[^106-1]
+
+[^106-1]: Abrogato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), con effetto dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 ### Sezione 4: Competenza
 
@@ -1516,7 +1525,21 @@ Le risorse dello Stato sono segnatamente:
 
 <sup>3</sup> Le imposte sulle persone giuridiche sono concepite in modo da preservare la competitività di queste ultime tenendo conto dei loro sforzi intesi a salvaguardare e sviluppare la piena occupazione.
 
-<sup>4</sup> Lo Stato combatte la frode e la sottrazione fiscale.
+<sup>4</sup> Lo Stato agisce in favore della riduzione della concorrenza fiscale intercantonale.[^155-1]
+
+<sup>5</sup> Lo Stato combatte la frode e la sottrazione fiscale.[^155-2]
+
+<sup>6</sup>
+
+L’attuazione cantonale delle riforme federali della fiscalità rispetta i principi seguenti:
+
+- a) preservazione del finanziamento dei servizi pubblici e delle prestazioni in favore della popolazione;
+- b) mantenimento del livello delle entrate fiscali cantonali e comunali;
+- c) rafforzamento della progressività dell’imposta.[^155-3]
+
+[^155-1]: Accettato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-2]: Accettato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-3]: Accettato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 156
 
@@ -1685,6 +1708,17 @@ Le autorità cantonali si oppongono con ogni mezzo di cui dispongono e nei limit
 <sup>2</sup> La vigilanza sulla loro formazione e la loro attività è di competenza dello Stato. Non può essere delegata.
 
 <sup>3</sup> Lo Stato sostiene chi assiste membri della famiglia.
+
+#### Art. 174A
+
+**Servizio ginevrino per il mantenimento a domicilio (IMAD)[^174A-2]**[^174A-1]
+
+<sup>1</sup> Il Servizio ginevrino per il mantenimento a domicilio (IMAD) è un ente di diritto pubblico che fornisce prestazioni in favore del mantenimento a domicilio e dell’autonomia delle persone.
+
+<sup>2</sup> Il disavanzo d’esercizio di tale servizio è coperto da una sovvenzione iscritta ogni anno nel preventivo dello Stato.
+
+[^174A-1]: Accettato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^174A-2]: La designazione dell’unità amministrative è stata adeguata in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 174
 
@@ -2180,7 +2214,7 @@ L’articolo 131 si applica per analogia al controllo e alla verifica interni ol
 
 **Entrata in vigore**
 
-<sup>1</sup> La presente Costituzione entra in vigore il 1<sup>°</sup> giugno 2013.
+<sup>1</sup> La presente Costituzione entra in vigore il 1° giugno 2013.
 
 <sup>2</sup> Gli articoli 229 capoverso 2 e 231 entrano in vigore al momento dell’approvazione della presente Costituzione da parte del corpo elettorale.
 
@@ -2219,6 +2253,10 @@ L’articolo 131 si applica per analogia al controllo e alla verifica interni ol
 <sup>1</sup> Nell’attesa di una legge di applicazione, l’autorità giudiziaria competente in materia di protezione degli adulti può sospendere i diritti politici giusta l’articolo 48 capoverso 4. Decide in merito all’entità della sospensione.
 
 <sup>2</sup> Le persone private dei diritti politici al momento dell’entrata in vigore della presente Costituzione restano prive di tali diritti fino alla decisione di un’autorità giudiziaria, ma al massimo per tre anni. Possono rivolgersi in qualsiasi momento all’autorità indicata nel capoverso precedente o all’autorità giudiziaria designata dalla legge di applicazione, che deciderà sulla sospensione o meno dei diritti politici e, se del caso, della sua entità.
+
+<sup>3</sup> Le persone private dei diritti politici riacquisiscono immediatamente tali diritti con l’entrata in vigore della legge costituzionale del 29 novembre 2020.[^228-1]
+
+[^228-1]: Accettato nella [votazione popolare del 29 nov. 2020](http://www.admin.ch/ch/i/pore/va/20201129/index.html), in vigore dal 19 dic. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 229
 
@@ -2519,6 +2557,8 @@ Comune(i) 132ss
 - – statuto dei 132
 - – titolarità dei diritti politici a livello cantonale 48
 - – vigilanza sui 137
+
+Concorrenza fiscale intercantonale 155
 
 Confederazione svizzera
 
@@ -2874,6 +2914,8 @@ Gran Consiglio 80ss
 - – Stato di necessità 113
 - – supplenza 81
 
+IMAD 147A
+
 Immissioni nocive 191A, 192A
 
 Imposta(e)
@@ -3085,6 +3127,8 @@ Maggioritario
 
 - – sistema 55
 
+Mantenimento a domicilio 174A
+
 Mobilità 190–192A
 
 Motto del Cantone 7
@@ -3100,6 +3144,7 @@ Nomine
 - – del
   - – cancelliere 114
   - – presidente del Consiglio di Stato 105
+  - – vicepresidente del Consiglio di Stato 105
 
 Ordine pubblico
 
