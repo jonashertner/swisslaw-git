@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de la loi fédérale sur la géoinformation (GeoIG)
 document: Projet mis en consultation
 language: fr
