@@ -3,18 +3,20 @@ sr: "131.229"
 title: "Costituzione della Repubblica e Cantone Ticino, del 14 dicembre 1997"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga"
 language: it
-version: 2020-03-11
+version: 2021-09-21
 adopted: 1997-12-14
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20200311/it/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20200311-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20200311/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20210921/it/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20210921-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20210921/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione della Repubblica e Cantone Ticino
 
-del 14 dicembre 1997 (Stato 11 marzo 2020) (Stato 11 marzo 2020)
+del 14 dicembre 1997 (Stato 21 settembre 2021)[^t-1]
+
+[^t-1]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 **Preambolo**
 
@@ -62,8 +64,11 @@ Lo stemma del Cantone è il seguente:
 
 <sup>3</sup> Il Cantone promuove le pari opportunità per i cittadini.[^4-2]
 
+<sup>4</sup> Lo Stato persegue i suoi scopi nel rispetto del principio della sussidiarietà.[^4-3]
+
 [^4-1]: Accettato nella [votazione popolare del 25 set. 2016](http://www.admin.ch/ch/i/pore/va/20160925/index.html), in vigore dal 1° apr. 2018. Garanzia dell’AF del 5 dic. 2017 ([FF 2018 35](https://fedlex.data.admin.ch/eli/fga/2018/7)art. 2, [2017 4997](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 [^4-2]: Accettato nella [votazione popolare del 5 giu. 2011](http://www.admin.ch/ch/i/pore/va/20110605/index.html), in vigore dal 28 giu. 2011. Garanzia dell’AF l’11 mar. 2015 ([FF 2015 2545](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 n. 8, [2014 7845](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^4-3]: Accettato nella [votazione popolare del 20 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200220/index.html), in vigore dal 20 feb. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 4, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 ### Capitale
 
@@ -418,7 +423,7 @@ La partecipazione alle votazioni e alle elezioni è un dovere civico.
 
 <sup>2</sup> L’esercizio del diritto di voto deve essere agevolato.
 
-## Titolo V<sup>bis</sup>:**** Regime finanziario
+## Titolo V<sup>bis</sup>: Regime finanziario
 
 [^titVbis-1]
 
@@ -450,7 +455,7 @@ La partecipazione alle votazioni e alle elezioni è un dovere civico.
 
 <sup>6</sup> Per decidere l’aumento del coefficiente d’imposta cantonale è necessaria la maggioranza qualificata di almeno 2/3 dei votanti in Gran Consiglio.
 
-## Titolo VI: Elezioni, iniziativa popolare, referendum e revoca****
+## Titolo VI: Elezioni, iniziativa popolare, referendum e revoca
 
 [^titVI-1]
 
@@ -1144,7 +1149,7 @@ L’art. 9*a* entra in vigore contemporaneamente alla nuova legge di applicazion
 
 [^96-1]: Accettato nella [votazione popolare del 22 set. 2013](http://www.admin.ch/ch/i/pore/va/20130922/index.html), in vigore dal 1° lug. 2016. Garanzia dell’AF dell’11 mar. 2015 ([FF 2015 2545](https://fedlex.data.admin.ch/eli/fga/2015/613)art. 1 n. 8, [2014 7845](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
-## Norma transitoria****
+## Norma transitoria
 
 [^lvlu12-1]
 
@@ -1591,6 +1596,8 @@ Revoca
 **Sindacati** 26
 
 **Stemma** 3
+
+**Sussidiarietà** 4<sup>4</sup>
 
 Ticinesi all’estero 30
 

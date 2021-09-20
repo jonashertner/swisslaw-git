@@ -3,20 +3,20 @@ sr: "131.229"
 title: "Verfassung von Republik und Kanton Tessin, vom 14. Dezember 1997"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga"
 language: de
-version: 2020-03-11
+version: 2021-09-21
 adopted: 1997-12-14
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20200311/de/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20200311-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20200311/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20210921/de/xml/fedlex-data-admin-ch-eli-cc-1998-5_5494_4818_4364_fga-20210921-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/5_5494_4818_4364_fga/20210921/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung von Republik und Kanton Tessin
 
-Übersetzung*[^t-1]*
+Übersetzung[^t-1]
 
-vom 14. Dezember 1997 (Stand am 11. März 2020)[^t-2]
+vom 14. Dezember 1997 (Stand am 21. September 2021)[^t-2]
 
 [^t-1]: Der Text in der italenischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
@@ -67,8 +67,11 @@ Der Kanton hat folgendes Wappen:
 
 <sup>3</sup> Der Kanton fördert die Chancengleichheit der Bürger.[^4-2]
 
+<sup>4</sup> Der Staat verfolgt seine Ziele unter Beachtung des Grundsatzes der Subsidiarität.[^4-3]
+
 [^4-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 1. April 2018. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 2, [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 [^4-2]: Angenommen in der [Volksabstimmung vom 5. Juni 2011](http://www.admin.ch/ch/d/pore/va/20110605/index.html), in Kraft seit 28. Juni 2011. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^4-3]: Angenommen in der [Volksabstimmung vom 9. Febr. 2020](http://www.admin.ch/ch/d/pore/va/20200209/index.html), in Kraft seit 28. Febr. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 4, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 ### Hauptort
 
@@ -421,7 +424,7 @@ Die Teilnahme an den Abstimmungen und Wahlen ist eine Bürgerpflicht.
 
 <sup>2</sup> Die Ausübung des Stimmrechts muss erleichtert werden.
 
-## Titel V<sup>bis</sup>:**** Finanzordnung
+## Titel V<sup>bis</sup>: Finanzordnung
 
 [^titVbis-1]
 
@@ -453,7 +456,7 @@ Die Teilnahme an den Abstimmungen und Wahlen ist eine Bürgerpflicht.
 
 <sup>6</sup> Die Erhöhung des kantonalen Steuerfusses bedarf der Zustimmung von zwei Dritteln der Stimmen im Grossen Rat.
 
-## Titel VI: Wahlen, Volksinitiative, Referendum und Abberufung****
+## Titel VI: Wahlen, Volksinitiative, Referendum und Abberufung
 
 [^titVI-1]
 
@@ -1149,7 +1152,7 @@ Artikel 9*a* tritt gleichzeitig mit dem Ausführungsgesetz in Kraft.
 
 [^96-1]: Angenommen in der [Volksabstimmung vom 22. Sept. 2013](http://www.admin.ch/ch/d/pore/va/20130922/index.html), in Kraft seit 1. Juli 2016. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 8, [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
-## Übergangsbestimmung****
+## Übergangsbestimmung
 
 [^lvlu12-1]
 
@@ -1551,6 +1554,8 @@ Stimmabgabe
 - [tab] – Stimmgeheimnis 31
 - [tab] – Stimmrecht 28
 - [tab] s. auch Wahlen, Wahlverfahren, Abstimmungen, Initiative, Referendum
+
+Subsidiarität 4<sup>4</sup>
 
 Umweltschutz 14<sup>m</sup>
 
