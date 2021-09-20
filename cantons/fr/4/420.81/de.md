@@ -3,13 +3,12 @@ canton: FR
 number: "420.81"
 title: Statuten der Vereinigung des Kantonalen Berufsbildungszentrums (VKBZ)
 language: de
-version: 2020-09-22
-valid_until: 2021-09-20
-version_adopted: 2020-06-17
+version: 2021-09-21
+version_adopted: 2021-06-16
 adopted: 2010-07-05
 in_force: 2010-08-17
 url: "https://bdlf.fr.ch/app/de/texts_of_law/420.81"
-pdf: "https://bdlf.fr.ch/api/de/versions/6605/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7024/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6605/pdf_file"
 
 Vereinigung des Kantonalen Berufsbildungszentrums – Statuten
 
-vom 05.07.2010 (Fassung in Kraft getreten am 22.09.2020)
+vom 05.07.2010 (Fassung in Kraft getreten am 21.09.2021)
 
 ## 1 Name und Sitz
 
@@ -28,13 +27,24 @@ vom 05.07.2010 (Fassung in Kraft getreten am 22.09.2020)
 
 <sup>2</sup> Die Vereinigung hat ihren Sitz in Freiburg.
 
-## 2 Zweck
+## 2 Zweck und Mitglieder
 
 #### Art. 2
 
 <sup>1</sup> Die Vereinigung fördert die Berufsbildung im Kanton Freiburg durch den Bau, den Unterhalt und den Betrieb der Räumlichkeiten und Einrichtungen, die für die Berufsbildung bestimmt sind.
 
 <sup>2</sup> Sie legt vor allem die Ausgaben im Sinne von Artikel 66 Abs. 1 des Gesetzes vom 13. Dezember 2007 über die Berufsbildung (BBiG) fest.
+
+#### Art. 2a
+
+**Mitglieder (Art. 11 BBiG)**
+
+<sup>1</sup> Die in Anwendung von Artikel 11 Abs. 1 des Gesetzes vom 13. Dezember 2007 über die Berufsbildung (BBiG) paritätisch bezeichneten Organisationen der Arbeitswelt sind:
+
+- a) die Handels- und Industriekammer des Kantons Freiburg (HIKF);
+- b) der Freiburger Arbeitgeberverband (FAV);
+- c) die Gewerkschaft Syna, Region Freiburg;
+- d) die Gewerkschaft Unia, Region Freiburg.
 
 ## 3 Organe der Vereinigung
 
@@ -52,14 +62,14 @@ vom 05.07.2010 (Fassung in Kraft getreten am 22.09.2020)
 
 <sup>1</sup> …
 
-<sup>1a</sup> Die Delegiertenversammlung (die Versammlung) setzt sich aus 26 Delegierten zusammen, die von den Vertreterinnen und Vertretern des Staats sowie von den Mitgliedern des Freiburger Gemeindeverbands, der Arbeitgeberverbände und der Arbeitnehmerverbände gewählt werden.
+<sup>1a</sup> Die Delegiertenversammlung (die Versammlung) setzt sich aus mindestens einer gewählten Person (die/der Delegierte) pro Mitglied der Vereinigung zusammen. Die Vertreterinnen und Vertreter der Freiburger Gemeinden werden vom Freiburger Gemeindeverband (FGV) gewählt.
 
 <sup>1b</sup> Die Delegierten üben ihr Stimmrecht im Namen ihrer jeweiligen Organisation aus. Die Stimmen werden wie folgt verteilt:
 
 - a) 6 Stimmen für den Staat;
-- b) 12 Stimmen für den Freiburger Gemeindeverband;
-- c) 6 Stimmen für die Arbeitgeberverbände;
-- d) 2 Stimmen für die Arbeitnehmerverbände.
+- b) 12 Stimmen für den FGV;
+- c) 6 Stimmen für die Arbeitgeberverbände, wobei jeder Verband 3 Stimmen hat;
+- d) 2 Stimmen für die Arbeitnehmerverbände, wobei jeder Verband eine Stimme hat.
 
 <sup>2</sup> Sie wird von Amtes wegen von der Staatsrätin oder vom Staatsrat geleitet, deren oder dessen Direktion für die Berufsbildung zuständig ist, oder gegebenenfalls von einer Person, die den Staat vertritt.
 
@@ -156,6 +166,8 @@ vom 05.07.2010 (Fassung in Kraft getreten am 22.09.2020)
 Diese Statuten sind vom Staatsrat am 17.08.2010 genehmigt worden.
 
 Die Änderungen vom 17.06.2020 sind vom Staatsrat am 22.09.2020 genehmigt worden.
+
+Die Änderungen vom 16.06.2021 sind vom Staatsrat am 21.09.2021 genehmigt worden.
 
 2010\_084
 

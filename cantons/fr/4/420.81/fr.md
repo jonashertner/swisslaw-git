@@ -3,13 +3,12 @@ canton: FR
 number: "420.81"
 title: "Statuts de l'Association du Centre professionnel cantonal (ACPC)"
 language: fr
-version: 2020-09-22
-valid_until: 2021-09-20
-version_adopted: 2020-06-17
+version: 2021-09-21
+version_adopted: 2021-06-16
 adopted: 2010-07-05
 in_force: 2010-08-17
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/420.81"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6605/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7024/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6605/pdf_file"
 
 Association du Centre professionnel cantonal – Statuts
 
-du 05.07.2010 (version entrée en vigueur le 22.09.2020)
+du 05.07.2010 (version entrée en vigueur le 21.09.2021)
 
 ## 1 Nom et siège
 
@@ -28,13 +27,24 @@ du 05.07.2010 (version entrée en vigueur le 22.09.2020)
 
 <sup>2</sup> L'Association a son siège à Fribourg.
 
-## 2 But
+## 2 But et membres
 
 #### Art. 2
 
 <sup>1</sup> L'Association a pour but d'aider au développement de la formation professionnelle dans le canton de Fribourg, par la construction, l'entretien et l'exploitation des locaux et installations destinés à la formation professionnelle.
 
 <sup>2</sup> Elle détermine en particulier les dépenses visées à l'article 66 al. 1 de la loi du 13 décembre 2007 sur la formation professionnelle (ci-après: LFP).
+
+#### Art. 2a
+
+**Membres (art. 11 LFP)**
+
+<sup>1</sup> Les organisations du monde du travail désignées paritairement en application de l'article 11 alinéa 1 de la loi du 13 décembre 2007 sur la formation professionnelle (LFP) sont:
+
+- a) la Chambre de commerce et d'industrie du canton de Fribourg (CCIF);
+- b) l'Union patronale du canton de Fribourg (UPCF);
+- c) le Syndicat Syna, région Fribourg;
+- d) le Syndicat Unia, région Fribourg.
 
 ## 3 Organes de l'Association
 
@@ -52,14 +62,14 @@ du 05.07.2010 (version entrée en vigueur le 22.09.2020)
 
 <sup>1</sup> …
 
-<sup>1a</sup> L'assemblée des délégué‑e‑s (ci-après: l'assemblée) se compose de vingt-six personnes élues par les représentants et représentantes de l'Etat ainsi que par les membres de l'Association des communes fribourgeoises, des associations patronales et des associations de travailleurs et travailleuses.
+<sup>1a</sup> L'assemblée des délégué‑e‑s (ci-après: l'assemblée) se compose d'au moins une personne nommée ou élue (ci-après: les délégué-e-s) par membre de l'Association. Le-a ou les représentant-e-s de l'ensemble des communes fribourgeoises sont élu-e-s par l'Association des communes fribourgeoises (ACF).
 
 <sup>1b</sup> Les délégué‑e‑s exercent le droit de vote au nom de leurs associations respectives. Les voix sont réparties de la manière suivante:
 
 - a) 6 voix pour l'Etat;
-- b) 12 voix pour l'Association des communes fribourgeoises;
-- c) 6 voix pour les associations patronales;
-- d) 2 voix pour les associations de travailleurs et travailleuses.
+- b) 12 voix pour l'ACF;
+- c) 6 voix pour les associations patronales, à raison de 3 chacune;
+- d) 2 voix pour les associations de travailleurs et travailleuses, à raison de 1 chacune.
 
 <sup>2</sup> Elle est présidée d'office par le conseiller d'Etat-Directeur ou la conseillère d'Etat-Directrice dont dépend la formation professionnelle ou, à défaut, par une personne représentant l'Etat.
 
@@ -156,6 +166,8 @@ du 05.07.2010 (version entrée en vigueur le 22.09.2020)
 Les présents statuts ont été approuvés par le Conseil d'Etat le 17.08.2010.
 
 Les modifications du 17.06.2020 ont été approuvées par le Conseil d'Etat le 22.09.2020.
+
+Les modifications du 16.06.2021 ont été approuvées par le Conseil d'Etat le 21.09.2021.
 
 2010\_084
 
