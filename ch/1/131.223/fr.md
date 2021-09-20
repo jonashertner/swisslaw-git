@@ -3,11 +3,11 @@ sr: "131.223"
 title: "Constitution du canton de Schaffhouse, du 17 juin 2002"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/1135_fga"
 language: fr
-version: 2011-03-02
+version: 2021-09-21
 adopted: 2002-06-17
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1135_fga/20110302/fr/xml/fedlex-data-admin-ch-eli-cc-2003-1135_fga-20110302-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/1135_fga/20110302/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1135_fga/20210921/fr/xml/fedlex-data-admin-ch-eli-cc-2003-1135_fga-20210921-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/1135_fga/20210921/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/1135_fga/20110302/fr"
 
 Traduction[^t-1]
 
-du 17 juin 2002 (État le 2 mars 2011)[^t-2]
+du 17 juin 2002 (État le 21 septembre 2021)[^t-2]
 
 [^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
@@ -395,6 +395,30 @@ Sont obligatoirement soumis au vote du peuple
 #### Art. 37
 
 Les partis politiques contribuent à la formation de l’opinion et de la volonté des électeurs.
+
+#### Art. 37a
+
+[^37a-1]
+
+<sup>1</sup>
+
+Les personnes physiques ou morales, telles que tous les partis et autres groupements politiques, les comités de campagne, les lobbys et autres organisations prenant part à des campagnes de votations ou à des élections relevant de la compétence du canton ou des communes, doivent publier leurs comptes. Doivent en particulier être publiés:
+
+- a. le budget global de la campagne électorale ou de votation;
+- b. la raison sociale des personnes morales ayant participé au financement, y compris les montants versés;
+- c. l’identité des personnes physiques ayant participé au financement, y compris les montants versés; sont exclus les donateurs dont les versements n’excèdent pas 3000 francs par année civile.
+
+<sup>2</sup> Les candidats à des fonctions publiques au niveau du canton et à des fonctions exécutives ou législatives au niveau des communes signalent leurs liens d’intérêts au moment où ils posent leur candidature.
+
+<sup>3</sup> Les personnes élues à une fonction publique signalent leurs liens d’intérêt au début de l’année civile conformément à l’al. 2.
+
+<sup>4</sup> L’administration cantonale ou un service indépendant vérifie l’exactitude des données fournies conformément aux al. 1 à 3 et établit un registre public accessible sur le site Internet du canton de Schaffhouse.
+
+<sup>5</sup> Les infractions commises par des candidats ou des élus ainsi que des personnes physiques ou morales, des partis, des groupements politiques, des comités de campagne, des lobbys ou d’autres organisations aux obligations prévues aux al. 1 à 3 de la présente disposition sont punis de l’amende.
+
+<sup>6</sup> La loi règle les modalités. Elle tient notamment compte du secret professionnel.
+
+[^37a-1]: Accepté en [votation populaire du 9 fév. 2020](http://www.admin.ch/ch/f/pore/va/20200209/index.html), en vigueur depuis le 9 fév. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 ## 4 A Autorités
 
@@ -1318,6 +1342,7 @@ Biens-fonds du patrimoine financier 66<sup>3b</sup>
 
 - – arrêté par le Conseil d’État 66<sup>2</sup>
 - – arrêté par le Grand Conseil 56<sup>a</sup>
+- – campagne électorale ou de votation 37*a*
 - – référendum facultatif 33<sup>1c</sup>
 
 Buts sociaux 22
@@ -1536,6 +1561,7 @@ Ecclésiastiques 111<sup>2</sup>
   - – responsable du contrôle des finances 101<sup>2</sup>
 
 - – procédure électorale 25
+- – publication des comptes de campagne 37*a*
 - – scrutin majoritaire 25<sup>4</sup>
 - – scrutin proportionnel 25<sup>1</sup>
 

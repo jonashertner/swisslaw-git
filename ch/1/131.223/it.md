@@ -3,11 +3,11 @@ sr: "131.223"
 title: "Costituzione del Cantone di Sciaffusa, del 17 giugno 2002"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/1135_fga"
 language: it
-version: 2011-03-02
+version: 2021-09-21
 adopted: 2002-06-17
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1135_fga/20110302/it/xml/fedlex-data-admin-ch-eli-cc-2003-1135_fga-20110302-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/1135_fga/20110302/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1135_fga/20210921/it/xml/fedlex-data-admin-ch-eli-cc-2003-1135_fga-20210921-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/1135_fga/20210921/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/1135_fga/20110302/it"
 
 Traduzione[^t-1]
 
-del 17 giugno 2002 (Stato 2 marzo 2011)[^t-2]
+del 17 giugno 2002 (Stato 21 settembre 2021)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
@@ -407,6 +407,30 @@ Gli aventi diritto di voto possono chiedere che siano sottoposti al voto del Pop
 #### Art. 37
 
 I partiti contribuiscono alla formazione dell’opinione e della volontà degli aventi diritto di voto.
+
+#### Art. 37a
+
+[^37a-1]
+
+<sup>1</sup>
+
+Le persone fisiche o giuridiche, quali tutti i partiti e altri gruppi politici, i comitati di campagne, i gruppi di interesse e altre organizzazioni che partecipano a campagne in vista di votazioni o elezioni che rientrano nella competenza del Cantone o dei Comuni, devono rendere pubbliche le loro finanze. Devono in particolare essere pubblicati:
+
+- a. il preventivo globale della campagna in vista di votazioni o elezioni;
+- b. la ragione sociale delle persone giuridiche che hanno partecipato al finanziamento, con l’indicazione dell’importo versato;
+- c. l’identità delle persone fisiche che hanno partecipato al finanziamento, con l’indicazione dell’importo versato; sono esclusi i donatori le cui liberalità non superano complessivamente 3000 franchi per anno civile.
+
+<sup>2</sup> Al momento di annunciare la loro candidatura, i candidati a un mandato pubblico sul piano cantonale come pure a livello esecutivo e legislativo comunale segnalano le loro relazioni d’interesse.
+
+<sup>3</sup> All’inizio dell’anno civile chi è stato eletto per un mandato pubblico ai sensi del capoverso 2 segnala le sue relazioni d’interesse.
+
+<sup>4</sup> L’amministrazione cantonale o un ente indipendente verificano la correttezza delle informazioni fornite secondo i capoversi 1–3 e compilano un registro pubblico accessibile sul sito Internet del Cantone di Sciaffusa.
+
+<sup>5</sup> Le persone candidate o elette a un mandato pubblico, nonché le persone fisiche o giuridiche, i partiti, i gruppi politici, i comitati di campagne, i gruppi di interesse e altre organizzazioni che violano gli obblighi di cui ai capoversi 1–3 sono puniti con una multa.
+
+<sup>6</sup> La legge disciplina i particolari. Tiene conto in particolare del segreto professionale.
+
+[^37a-1]: Accettato nella [votazione popolare del 9 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200209/index.html), in vigore dal 9 feb. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 ## 4 A Autorità
 
@@ -2156,12 +2180,16 @@ Proprietà
 
 Pubblicità 47
 
+Pubblicità delle finanze 37*a*
+
 Referendum
 
 - [tab] – decisione circa il lancio di un 57
 - [tab] – diritto d’urgenza 34
 - [tab] – riuscita formale del 33
 - [tab] – varianti 35
+
+Relazioni d’interesse 37*a*
 
 Responsabilità
 
@@ -2206,6 +2234,8 @@ Sede
 
 - [tab] – garanzia della via giudiziaria 17
 - [tab] – iniziativa del Cantone in sede federale 27, 57
+
+**Segreto professionale** 37*a*
 
 **Sesso(i)**
 

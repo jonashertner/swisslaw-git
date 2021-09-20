@@ -3,18 +3,18 @@ sr: "131.223"
 title: "Verfassung des Kantons Schaffhausen, vom 17. Juni 2002"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/1135_fga"
 language: de
-version: 2011-03-02
+version: 2021-09-21
 adopted: 2002-06-17
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1135_fga/20110302/de/xml/fedlex-data-admin-ch-eli-cc-2003-1135_fga-20110302-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/1135_fga/20110302/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/1135_fga/20210921/de/xml/fedlex-data-admin-ch-eli-cc-2003-1135_fga-20210921-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/1135_fga/20210921/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Schaffhausen
 
-vom 17. Juni 2002 (Stand am 2. März 2011)[^t-1]
+vom 17. Juni 2002 (Stand am 21. September 2021)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -390,6 +390,30 @@ Die Stimmberechtigten entscheiden obligatorisch über
 #### Art. 37
 
 Die politischen Parteien wirken bei der Meinungs- und Willensbildung der Stimmberechtigten mit.
+
+#### Art. 37a
+
+[^37a-1]
+
+<sup>1</sup>
+
+Natürliche und juristische Personen, wie alle Parteien und sonstigen politischen Gruppierungen, Kampagnenkomitees, Lobbyorganisationen und sonstige Organisationen, die sich an Abstimmungskämpfen sowie an Wahlen beteiligen, die in die Kompetenz von Kanton und Gemeinden fallen, müssen ihre Finanzen offenlegen. Unter die Offenlegungspflichten fallen insbesondere:
+
+- a. das Globalbudget für den betreffenden Wahl- oder Abstimmungskampf;
+- b. die Namen der juristischen Personen, die zur Finanzierung beigetragen haben, mit Angabe des jeweiligen Betrags;
+- c. die Namen der natürlichen Personen, die zur Finanzierung beigetragen haben, mit Angabe des jeweiligen Betrags; ausgenommen sind Spenderinnen und Spender, deren Zuwendung insgesamt 3000 Franken pro Kalenderjahr nicht übersteigt.
+
+<sup>2</sup> Alle Kandidierenden für alle öffentlichen Ämter auf kantonaler und für Exekutiven und Legislativen auf kommunaler Ebene legen ihre Interessenbindungen bei der Anmeldung ihrer Kandidatur offen.
+
+<sup>3</sup> Zu Beginn eines Kalenderjahres legen alle gewählten Mandatsträgerinnen und Mandatsträger in öffentlichen Ämtern gemäss Absatz 2 ihre Interessenbindungen offen.
+
+<sup>4</sup> Die kantonale Verwaltung oder eine unabhängige Stelle überprüfen die Richtigkeit der Angaben gemäss Absätzen 1–3 und erstellen ein öffentliches Register, einsehbar auf der Internetseite / Homepage des Kantons Schaffhausen.
+
+<sup>5</sup> Widerhandlungen von Kandidierenden und gewählten Mandatsträgerinnen und Mandatsträgern sowie von natürlichen und juristischen Personen, von Parteien, politischen Gruppierungen, Abstimmungskomitees, Lobbyorganisationen und sonstigen Organisationen gegen die Verpflichtungen von Absätzen 1–3 dieses Verfassungsartikels werden mit Busse sanktioniert.
+
+<sup>6</sup> Das Gesetz regelt die Einzelheiten. Es trägt namentlich dem Schutz von Berufsgeheimnissen Rechnung.
+
+[^37a-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2020](http://www.admin.ch/ch/d/pore/va/20200209/index.html), in Kraft seit 9. Febr. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 ## 4 B Behörden
 
@@ -845,7 +869,9 @@ Der Regierungsrat
 
 <sup>1</sup> Der Kanton orientiert sich bei der Erfüllung seiner Aufgaben an den Bedürfnissen und am Wohlergehen aller.
 
-<sup>2</sup> Der Kanton erfüllt eine Aufgabe nur
+<sup>2</sup>
+
+Der Kanton erfüllt eine Aufgabe nur:
 
 - a. wenn das private Angebot nicht ausreicht oder
 - b. wenn die Gemeinden sie nicht wirtschaftlich und wirksam erfüllen können oder
@@ -1524,6 +1550,8 @@ Liegenschaften des Finanzvermögens 66<sup>3b</sup>
 
 **Opferhilfe** 16
 
+**Parteien** politische 37, 37*a*
+
 **Partner**
 
 - – persönliche Unvereinbarkeit 43
@@ -1534,6 +1562,8 @@ Petitionen
 
 - – Petitionsrecht 19
 - – Behandlung 57<sup>1f</sup>
+
+**Politikfinanzierung** Offenlegung 37*a*
 
 **Privatsphäre** Schutz der 12<sup>1b</sup>
 
