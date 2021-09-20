@@ -3,20 +3,20 @@ sr: "131.214"
 title: "Constitution du canton d'Uri, du 28 octobre 1984"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/2_621_625_589_fga"
 language: fr
-version: 2020-03-11
+version: 2021-09-21
 adopted: 1984-10-28
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_621_625_589_fga/20200311/fr/xml/fedlex-data-admin-ch-eli-cc-1985-2_621_625_589_fga-20200311-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/2_621_625_589_fga/20200311/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_621_625_589_fga/20210921/fr/xml/fedlex-data-admin-ch-eli-cc-1985-2_621_625_589_fga-20210921-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/2_621_625_589_fga/20210921/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution du canton d’Uri
 
-Traduction*[^t-1]*
+Traduction[^t-1]
 
-du 28 octobre 1984 (Etat le 11 mars 2020)[^t-2]
+du 28 octobre 1984 (État le 21 septembre 2021)[^t-2]
 
 [^t-1]: Le texte en langue originale est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
 [^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
@@ -229,14 +229,14 @@ Les citoyens actifs élisent:
 - d.[^21-1] les juges du Tribunal de première instance;
 - e.[^21-2] les juges du Tribunal supérieur.
 
-[^21-1]: Accepté en votation populaire du 25 novembre 2018, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: « d. les juges du Tribunal supérieur. »
+[^21-1]: Accepté en votation populaire du 25 novembre 2018, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: «d. les juges du Tribunal supérieur.»
 [^21-2]: Accepté en votation populaire du 25 novembre 2018, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)).
 
 #### Art. 22
 
 **b. …**[^22-1]
 
-[^22-1]: Abrogé en votation populaire du 25 novembre 2018, avec effet au 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 (FF **2019** 6511 art. 1 3801). Jusqu’au 31.05.2023: « Élections obligatoires b. Sur le plan des arrondissements judiciaires Les citoyens actifs de l’arrondissement judiciaire d’Uri élisent les juges du Tribunal d’Uri, ceux de l’arrondissement judiciaire d’Ursern, les juges du Tribunal d’Ursern. »
+[^22-1]: Abrogé en votation populaire du 25 novembre 2018, avec effet au 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 (FF **2019** 6511 art. 1 3801). Jusqu’au 31.05.2023: «Élections obligatoires b. Sur le plan des arrondissements judiciaires Les citoyens actifs de l’arrondissement judiciaire d’Uri élisent les juges du Tribunal d’Uri, ceux de l’arrondissement judiciaire d’Ursern, les juges du Tribunal d’Ursern.»
 
 #### Art. 23
 
@@ -337,7 +337,7 @@ Sont sujets au référendum facultatif:
 
 <sup>3</sup> La loi sur les communes règle les votations et élections communales.[^30-4]
 
-[^30-1]: Accepté en votation populaire du 25 novembre 2018, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: <sup>«</sup> Les élections et les votations dans le canton et les arrondissements judiciaires ont lieu aux urnes. »
+[^30-1]: Accepté en votation populaire du 25 novembre 2018, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: <sup>«</sup>Les élections et les votations dans le canton et les arrondissements judiciaires ont lieu aux urnes.»
 [^30-2]: Abrogée en [votation populaire du 21 mai 2017](http://www.admin.ch/ch/f/pore/va/20170521/index.html), avec effet au 1<sup>er</sup> juin 2017. Garantie de l’Ass. féd. du 6 juin 2018 ([FF 2018 3917](https://fedlex.data.admin.ch/eli/fga/2018/1413)art. 1 [1161](https://fedlex.data.admin.ch/eli/fga/2018/464)).
 [^30-3]: Accepté en [votation populaire du 24 sept. 1989](http://www.admin.ch/ch/f/pore/va/19890924/index.html), en vigueur depuis le 24 sept. 1989. Garantie de l’Ass. féd. du 14 déc. 1990 ([FF 1990 III 1723](https://fedlex.data.admin.ch/eli/fga/1990/3__1723_)art. 1 ch. 2, II 437).
 [^30-4]: Accepté en [votation populaire du 21 mai 2017](http://www.admin.ch/ch/f/pore/va/20170521/index.html), en vigueur depuis le 1<sup>er</sup> juin 2017. Garantie de l’Ass. féd. du 6 juin 2018 ([FF 2018 3917](https://fedlex.data.admin.ch/eli/fga/2018/1413)art. 1 [1161](https://fedlex.data.admin.ch/eli/fga/2018/464)).
@@ -913,6 +913,10 @@ Les 64 sièges sont répartis entre les communes municipales selon leur populati
 
 <sup>2</sup> En ce qui concerne les autres prescriptions, le Grand Conseil édicte des ordonnances, sauf si la compétence de légiférer sur la matière en question appartient à une autre autorité.
 
+<sup>3</sup> Le Conseil d’État édicte des arrêtés de nécessité d’une durée limitée; ceux-ci doivent être soumis dès que possible au Grand Conseil qui décide s’ils doivent rester en vigueur et pour quelle durée.[^90-1]
+
+[^90-1]: Accepté en [votation populaire du 29 nov. 2020](http://www.admin.ch/ch/f/pore/va/20201129/index.html), en vigueur depuis le 15 déc. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+
 #### Art. 91
 
 **Compétences b. Décisions en matière financière**
@@ -949,7 +953,7 @@ Le Grand Conseil:
 - a. approuve les concordats normatifs;
 - b. approuve les rapports de gestion du Conseil d’État et du Tribunal supérieur;
 - c. exerce les droits de participation, sur le plan fédéral, accordés aux cantons par la constitution fédérale (art. 86, 89, 89<sup>bis</sup> et 93 de la constitution fédérale[^93-1]);
-- d.[^93-2] ...
+- d.[^93-2] …
 - e. exerce le droit de grâce;
 - f. statue sur les conflits de compétences, dans la mesure où ce n’est pas du ressort du Tribunal supérieur;
 - g. prend connaissance des plans établis par le Conseil d’État;
@@ -1080,11 +1084,11 @@ La justice civile est rendue par:
 
 <sup>2</sup> La loi peut attribuer des affaires civiles déterminées à des organes particuliers.
 
-<sup>3</sup> ...[^104-5]
+<sup>3</sup> …[^104-5]
 
 [^104-1]: Accepté en [votation populaire du 17 mai 1992](http://www.admin.ch/ch/f/pore/va/19920517/index.html), en vigueur depuis le 1<sup>er</sup> juin 1995. Garantie de l’Ass. féd. du 14 déc. 1993 ([FF 1993 IV 612](https://fedlex.data.admin.ch/eli/fga/1993/4__612_)art. 1 ch. 2, [2000 4851](https://fedlex.data.admin.ch/eli/fga/2000/1153)).
-[^104-2]: Accepté en votation populaire du 25 novembre 2018, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: « b. les présidents des tribunaux de première instance d’Uri et d’Ursern; »
-[^104-3]: Accepté en votation populaire du 25 novembre 2018, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: « c. les Tribunaux de première instance d’Uri et d’Ursern; »
+[^104-2]: Accepté en votation populaire du 25 novembre 2018, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: «b. les présidents des tribunaux de première instance d’Uri et d’Ursern;»
+[^104-3]: Accepté en votation populaire du 25 novembre 2018, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: «c. les Tribunaux de première instance d’Uri et d’Ursern;»
 [^104-4]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 2, [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 [^104-5]: Abrogé en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 2, [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
@@ -1113,9 +1117,9 @@ Les organes chargés de la justice pénale des mineurs sont:
 <sup>3</sup> La loi peut habiliter les autorités et les services administratifs cantonaux et communaux à prononcer des amendes de peu d’importance. Est réservé le droit de les déférer à un tribunal.
 
 [^105-1]: Accepté en [votation populaire du 17 mai 1992](http://www.admin.ch/ch/f/pore/va/19920517/index.html), en vigueur depuis le 1<sup>er</sup> juin 1995. Garantie de l’Ass. féd. du 14 déc. 1993 ([FF 1993 IV 612](https://fedlex.data.admin.ch/eli/fga/1993/4__612_)art. 1 ch. 2, [2000 4851](https://fedlex.data.admin.ch/eli/fga/2000/1153)).
-[^105-2]: Accepté en votation populaire du 25 novembre 2018, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: « b. le vice-président du tribunal de première instance d’Uri; »
-[^105-3]: Abrogé en votation populaire du 25 novembre 2018, avec effet au 31.05.2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: « c. le président du tribunal de première instance d’Ursern; »
-[^105-4]: Accepté en votation populaire du 25 novembre 2018, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: « d. les Tribunaux de première instance d’Uri et d’Ursern; »
+[^105-2]: Accepté en votation populaire du 25 novembre 2018, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: «b. le vice-président du tribunal de première instance d’Uri;»
+[^105-3]: Abrogé en votation populaire du 25 novembre 2018, avec effet au 31.05.2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: «c. le président du tribunal de première instance d’Ursern;»
+[^105-4]: Accepté en votation populaire du 25 novembre 2018, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 16 sept. 2019 ([FF 2019 6511](https://fedlex.data.admin.ch/eli/fga/2019/2380)art. 1 [3801](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Jusqu’au 31.05.2023: «d. les Tribunaux de première instance d’Uri et d’Ursern;»
 [^105-5]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 2, [4149](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 #### Art. 105a
@@ -1157,7 +1161,7 @@ La justice administrative est rendue par:
 
 <sup>5</sup> Dans les limites de la constitution, les différentes communes ont la faculté de conclure des conventions relatives à la répartition des tâches. Ces conventions requièrent l’approbation du Conseil d’État si elles sont conclues entre des communes de différents types.[^107-2]
 
-Disposition transitoire à l'art. 107
+Disposition transitoire à l’art. 107
 
 <sup>1</sup> Tout patrimoine à affectation spéciale doit être transféré à la commune qui, à l’avenir, accomplira les tâches correspondantes. Les conventions en la matière doivent être conclues au plus tard cinq années après l’entrée en vigueur de la constitution. Après l’écoulement de ce délai, le Conseil d’État peut lui-même prendre les mesures de substitution appropriées.
 
@@ -1206,7 +1210,7 @@ Le corps électoral est compétent pour:[^110-2]
 - a. voter des prescriptions juridiques;
 - b. approuver le budget et les comptes de la commune;
 - c. arrêter les impôts communaux;
-- d.[^110-3] ...
+- d.[^110-3] …
 - e.[^110-4] élire les membres du Grand Conseil, le Conseil municipal, la commission d’école et la commission des affaires sociales ainsi que, s’il n’existe pas de paroisse, le curé ou le pasteur du lieu;
 - f. voter les décrets de classification;
 - g. approuver les conventions relatives à la répartition des tâches et au partage des biens selon l’art. 107.
@@ -1500,6 +1504,7 @@ Conseil de l’éducation
 
 Conseil d’État
 
+- – arrêtés de nécessité 90<sup>3</sup>
 - – activités gouvernementale 97
 - – direction de l’administration 99
 - – élection 21, 95
@@ -1572,7 +1577,7 @@ Droit de vote
 
 **Écoles privées** 39
 
-**Écoles professionnelles et écoles sup****é****rieures** 38
+**Écoles professionnelles et écoles supérieures** 38
 
 Écoles publiques
 
@@ -1721,7 +1726,7 @@ Landesstatthalter
 
 **Objectifs de l’État** 2
 
-**Obligation d’exercer certaines fon****c****tions** 85
+**Obligation d’exercer certaines fonctions** 85
 
 **Obligations légales** 16
 

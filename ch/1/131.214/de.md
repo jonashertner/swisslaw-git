@@ -3,18 +3,18 @@ sr: "131.214"
 title: "Verfassung des Kantons Uri, vom 28. Oktober 1984"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/2_621_625_589_fga"
 language: de
-version: 2020-03-11
+version: 2021-09-21
 adopted: 1984-10-28
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_621_625_589_fga/20200311/de/xml/fedlex-data-admin-ch-eli-cc-1985-2_621_625_589_fga-20200311-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/2_621_625_589_fga/20200311/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_621_625_589_fga/20210921/de/xml/fedlex-data-admin-ch-eli-cc-1985-2_621_625_589_fga-20210921-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/2_621_625_589_fga/20210921/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Uri
 
-vom 28. Oktober 1984 (Stand am 11. März 2020)[^t-1]
+vom 28. Oktober 1984 (Stand am 21. September 2021)[^t-1]
 
 [^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
 
@@ -26,7 +26,7 @@ das sich in seiner grossen Mehrheit zum christlichen Glauben bekennt, gibt sich,
 
 die folgende Verfassung:
 
-## 1 1. Kapitel: Grundsätze
+## 1. Kapitel: Grundsätze
 
 #### Art. 1
 
@@ -40,7 +40,7 @@ die folgende Verfassung:
 
 **Staatsziele**
 
-Der Kanton und die Gemeinden streben insbesondere an,
+Der Kanton und die Gemeinden streben insbesondere an:
 
 - a. eine gerechte Ordnung für das friedliche Zusammenleben der Menschen zu schaffen;
 - b. Rechte und Freiheiten des Einzelnen und der Familie zu schützen und Grundlagen für deren Verwirklichung bereitzustellen;
@@ -76,7 +76,7 @@ Der Kanton, die Gemeinden und die übrigen öffentlichrechtlichen Körperschafte
 
 Enteignungen und Eigentumsbeschränkungen, die einer Enteignung gleichkommen, sind voll zu entschädigen.
 
-## 2 2. Kapitel: Staat und Kirche
+## 2. Kapitel: Staat und Kirche
 
 #### Art. 7
 
@@ -108,7 +108,7 @@ Jede Landeskirche hat innert fünf Jahren dem Regierungsrat ein Organisationssta
 
 Die Landeskirchen oder ihre Kirchgemeinden sind befugt, im Rahmen der kantonalen Gesetzgebung Steuern zu erheben.
 
-## 3 3. Kapitel: Grundrechte und Pflichten
+## 3. Kapitel: Grundrechte und Pflichten
 
 #### Art. 10
 
@@ -174,9 +174,9 @@ Grundrechte verpflichten alle Organe des Kantons, der Gemeinden und der übrigen
 
 Jeder hat seine gesetzlichen Pflichten dem Staat und der Allgemeinheit gegenüber zu erfüllen.
 
-## 4 4. Kapitel: Politische Rechte und Pflichten
+## 4. Kapitel: Politische Rechte und Pflichten
 
-### 4.1 1. Abschnitt: Stimmrecht
+### 1. Abschnitt: Stimmrecht
 
 #### Art. 17
 
@@ -212,7 +212,7 @@ Das Stimmrecht in Angelegenheiten der Korporationen und der Korporationsbürgerg
 
 Die Teilnahme an den Abstimmungen und Wahlen und an den Gemeindeversammlungen ist Bürgerpflicht.
 
-### 4.2 2. Abschnitt: Volkswahlen
+### 2. Abschnitt: Volkswahlen
 
 #### Art. 21
 
@@ -231,7 +231,7 @@ Die Stimmberechtigten wählen:
 
 #### Art. 22
 
-**b. ...**[^22-1]
+**b. …**[^22-1]
 
 [^22-1]: Aufgehoben in der [Volksabstimmung vom 25. Nov. 2018](http://www.admin.ch/ch/d/pore/va/20181125/index.html), mit Wirkung seit 1. Juni 2023. Gewährleistungsbeschluss vom 16. Sept. 2019 ([BBl 2019 6865](https://fedlex.data.admin.ch/eli/fga/2019/2380)Art. 1 [3929](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Bis zum 31.05.2023: «Obligatorische Volkswahl. b. bezirksweise. Die Stimmberechtigten des Gerichtsbezirks Uri wählen das Landgericht Uri, jene des Gerichtsbezirks Ursern das Landgericht Ursern.»
 
@@ -244,7 +244,7 @@ Die Stimmberechtigten der Gemeinde wählen die Landräte, ihre verfassungsmässi
 [^23-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2000](http://www.admin.ch/ch/d/pore/va/20000521/index.html), in Kraft seit 1. Jan. 2001. Gewährleistungsbeschluss vom 20. März 2001 ([BBl 2001 1374](https://fedlex.data.admin.ch/eli/fga/2001/285)Art. 1 Ziff. 2, [2000 5255](https://fedlex.data.admin.ch/eli/fga/2000/1153)).
 [^23-2]: Ausdruck angenommen in der [Volksabstimmung vom 21. Mai 2017](http://www.admin.ch/ch/d/pore/va/20170521/index.html), in Kraft seit 1. Juni 2017. Gewährleistungsbeschluss vom 6. Juni 2018 ([BBl 2018 3795](https://fedlex.data.admin.ch/eli/fga/2018/1413)Art. 1 [1207](https://fedlex.data.admin.ch/eli/fga/2018/464)). Die Anpassung wurde im ganzen Text berücksichtigt.
 
-### 4.3 3. Abschnitt: Volksabstimmungen
+### 3. Abschnitt: Volksabstimmungen
 
 #### Art. 24
 
@@ -323,7 +323,7 @@ Volksreferenden sind zulässig gegen:
 
 <sup>3</sup> Im Übrigen gelten die Bestimmungen für kantonale Volksinitiativen.
 
-### 4.4 4. Abschnitt: Abstimmungsordnung
+### 4. Abschnitt: Abstimmungsordnung
 
 #### Art. 30
 
@@ -331,7 +331,7 @@ Volksreferenden sind zulässig gegen:
 
 <sup>1</sup> Wahlen und Abstimmungen des Kantons werden an der Urne getroffen.[^30-1]
 
-<sup>2</sup> ...[^30-2] Landratswahlen nach dem Verhältniswahlsystem erfolgen an der Urne.[^30-3]
+<sup>2</sup> …[^30-2] Landratswahlen nach dem Verhältniswahlsystem erfolgen an der Urne.[^30-3]
 
 <sup>3</sup> Das Gemeindegesetz regelt die Abstimmungen und Wahlen der Gemeinden.[^30-4]
 
@@ -340,9 +340,9 @@ Volksreferenden sind zulässig gegen:
 [^30-3]: Angenommen in der [Volksabstimmung vom 24. Sept. 1989](http://www.admin.ch/ch/d/pore/va/19890924/index.html), in Kraft seit 24. Sept. 1989. Gewährleistungsbeschluss vom 14. Dez. 1990 ([BBl 1990 III 1799](https://fedlex.data.admin.ch/eli/fga/1990/3_1799__)Art. 1 Ziff. 2 II 473).
 [^30-4]: Angenommen in der [Volksabstimmung vom 21. Mai 2017](http://www.admin.ch/ch/d/pore/va/20170521/index.html), in Kraft seit 1. Juni 2017. Gewährleistungsbeschluss vom 6. Juni 2018 ([BBl 2018 3795](https://fedlex.data.admin.ch/eli/fga/2018/1413)Art. 1 [1207](https://fedlex.data.admin.ch/eli/fga/2018/464)).
 
-## 5 5. Kapitel: Öffentliche Aufgaben
+## 5. Kapitel: Öffentliche Aufgaben
 
-### 5.1 1. Abschnitt: Grundsätze
+### 1. Abschnitt: Grundsätze
 
 #### Art. 31
 
@@ -358,7 +358,7 @@ Der Kanton, die Gemeinden und die übrigen öffentlichrechtlichen Körperschafte
 
 <sup>2</sup> Das Enteignungsrecht steht dem Kanton, den Gemeinden, den Gemeindeverbänden und den Korporationen zu.
 
-### 5.2 2. Abschnitt: Bildungswesen und Kulturpflege
+### 2. Abschnitt: Bildungswesen und Kulturpflege
 
 #### Art. 33
 
@@ -434,7 +434,7 @@ Der Kanton und die Gemeinden pflegen das heimatliche Kulturgut und fördern kün
 
 Die Gesetzgebung führt die Grundsätze über das Bildungswesen und insbesondere über die Dauer der obligatorischen Schulpflicht sowie über die Kulturpflege näher aus.
 
-### 5.3 3. Abschnitt: Sozialhilfe
+### 3. Abschnitt: Sozialhilfe
 
 #### Art. 44
 
@@ -446,7 +446,7 @@ Die Gesetzgebung führt die Grundsätze über das Bildungswesen und insbesondere
 
 <sup>3</sup> Der Kanton kann eigene Sozialversicherungseinrichtungen schaffen.
 
-### 5.4 4. Abschnitt: Gesundheitswesen
+### 4. Abschnitt: Gesundheitswesen
 
 #### Art. 45
 
@@ -464,7 +464,7 @@ Die Gesetzgebung führt die Grundsätze über das Bildungswesen und insbesondere
 
 <sup>2</sup> Der Kanton gewährleistet den Betrieb des Kantonsspitals. Er kann weitere Kranken- und Pflegeheime unterstützen.
 
-### 5.5 5. Abschnitt: Lebensraum
+### 5. Abschnitt: Lebensraum
 
 #### Art. 47
 
@@ -504,7 +504,7 @@ Die Gesetzgebung führt die Grundsätze über das Bildungswesen und insbesondere
 
 <sup>4</sup> Wasserkräfte, die dem Kanton gehören, dürfen nur zur Nutzung verliehen werden, wenn sich der Kanton am Unternehmen des Beliehenen erheblich beteiligen kann.
 
-### 5.6 6. Abschnitt: Wirtschaft
+### 6. Abschnitt: Wirtschaft
 
 #### Art. 51
 
@@ -558,7 +558,7 @@ Dem Kanton stehen das Salzregal, das Jagdregal und das Fischereiregal zu.
 
 <sup>3</sup> Die Gesetzgebungshoheit über das Bergregal verbleibt dem Kanton.
 
-### 5.7 7. Abschnitt: Finanzordnung
+### 7. Abschnitt: Finanzordnung
 
 #### Art. 58
 
@@ -574,7 +574,9 @@ Dem Kanton stehen das Salzregal, das Jagdregal und das Fischereiregal zu.
 
 **Mittelbeschaffung**
 
-<sup>1</sup> Der Kanton und die Gemeinden beschaffen sich die notwendigen Mittel durch
+<sup>1</sup>
+
+Der Kanton und die Gemeinden beschaffen sich die notwendigen Mittel durch:
 
 - a. die Erhebung von Steuern, Gebühren und Beiträgen;
 - b. die Erträgnisse des Vermögens und der Regalrechte;
@@ -602,9 +604,9 @@ Dem Kanton stehen das Salzregal, das Jagdregal und das Fischereiregal zu.
 
 Der Kanton stellt den Finanzausgleich zwischen den Einwohnergemeinden sicher. Diese können verpflichtet werden, Finanzausgleichsbeiträge zu leisten.
 
-## 6 6. Kapitel: Gliederung des Staates
+## 6. Kapitel: Gliederung des Staates
 
-### 6.1 1. Abschnitt: Kanton
+### 1. Abschnitt: Kanton
 
 #### Art. 62
 
@@ -622,7 +624,7 @@ Der Kanton stellt den Finanzausgleich zwischen den Einwohnergemeinden sicher. Di
 
 <sup>2</sup> Der Landrat, der Regierungsrat und die obersten kantonalen Gerichte haben ihren Sitz in Altdorf.
 
-### 6.2 2. Abschnitt: Gemeinden
+### 2. Abschnitt: Gemeinden
 
 #### Art. 64
 
@@ -706,7 +708,7 @@ Bestehende Zweckverbände gelten als genehmigt und anerkannt.
 
 [^71-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2017](http://www.admin.ch/ch/d/pore/va/20170521/index.html), in Kraft seit 1. Juni 2017. Gewährleistungsbeschluss vom 6. Juni 2018 ([BBl 2018 3795](https://fedlex.data.admin.ch/eli/fga/2018/1413)Art. 1 [1207](https://fedlex.data.admin.ch/eli/fga/2018/464)).
 
-### 6.3 3. Abschnitt: Korporationen
+### 3. Abschnitt: Korporationen
 
 #### Art. 72
 
@@ -732,9 +734,9 @@ Das Korporationsvermögen bleibt gewährleistet.
 
 Die Korporationen unterstützen den Kanton und die Gemeinden in deren Aufgabenerfüllung und helfen mit, die Staatsziele zu erreichen.
 
-## 7 7. Kapitel: Organisation und Zuständigkeiten des Staates
+## 7. Kapitel: Organisation und Zuständigkeiten des Staates
 
-### 7.1 1. Abschnitt: Grundsätze
+### 1. Abschnitt: Grundsätze
 
 #### Art. 75
 
@@ -748,7 +750,9 @@ Rechtsetzende, vollziehende und rechtsprechende Gewalten sind getrennt.
 
 <sup>1</sup> Niemand darf gleichzeitig Mitglied des Landrates und des Regierungsrates sein. Landräte und Regierungsräte dürfen keinem Gericht angehören. Kein Richter darf gleichzeitig Mitglied zweier ordentlicher Gerichte sein.
 
-<sup>2</sup> Den Mitgliedern des Regierungsrates ist es untersagt,
+<sup>2</sup>
+
+Den Mitgliedern des Regierungsrates ist es untersagt:
 
 - a. Mitglied einer Gemeindebehörde zu sein;
 - b. dem Engeren Rat einer Korporation anzugehören;
@@ -855,9 +859,9 @@ Die Gesetzgebung regelt den Amtszwang.
 
 Die Behörden unterrichten die Öffentlichkeit über wichtige Probleme, Vorhaben und Beschlüsse, sofern nicht entgegenstehende Interessen überwiegen.
 
-### 7.2 2. Abschnitt: Der Kanton
+### 2. Abschnitt: Der Kanton
 
-### 7.2.1 1. Unterabschnitt: Der Landrat
+### 1. Unterabschnitt: Der Landrat
 
 #### Art. 87
 
@@ -906,11 +910,15 @@ Die 64 Sitze verteilen sich auf die Einwohnergemeinden nach ihrer schweizerische
 
 <sup>2</sup> Für andere Vorschriften erlässt der Landrat Verordnungen, soweit die Gesetzgebung in der Sache nicht einer anderen Behörde zusteht.
 
+<sup>3</sup> Der Regierungsrat erlässt zeitlich befristete Noterlasse; diese sind so bald als möglich dem Landrat zu unterbreiten, der über ihre weitere Geltung und Befristung entscheidet.[^90-1]
+
+[^90-1]: Angenommen in der [Volksabstimmung vom 29. Nov. 2020](http://www.admin.ch/ch/d/pore/va/20201129/index.html), in Kraft seit 15. Dez. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+
 #### Art. 91
 
 **Zuständigkeiten. b. Finanzbeschlüsse**
 
-Der Landrat
+Der Landrat:
 
 - a. beschliesst unter Vorbehalt der Zuständigkeit des Volkes über neue Ausgaben;
 - b. beschliesst den jährlichen Voranschlag;
@@ -924,7 +932,7 @@ Der Landrat wählt:
 
 - a. die Vorsteher und Stellvertreter der regierungsrätlichen Direktionen, auf Vorschlag des Regierungsrates;
 - b. den Erziehungsrat, ausser dem Präsidenten;
-- c.[^92-1] ...
+- c.[^92-1] …
 - d. den Kommandanten des Urner Bataillons nach den Bundesvorschriften;
 - e.[^92-2] die Angestellten des Kantons, soweit deren Wahl nicht dem Regierungsrat vorbehalten ist;
 - f.[^92-3] den Bankrat.
@@ -937,12 +945,12 @@ Der Landrat wählt:
 
 **Zuständigkeiten. d. weitere Zuständigkeiten**
 
-Der Landrat
+Der Landrat:
 
 - a. genehmigt rechtsetzende Konkordate;
 - b. genehmigt die Rechenschaftsberichte des Regierungsrates und des Obergerichtes;
 - c. übt die den Kantonen in der Bundesverfassung eingeräumten bundesstaatlichen Mitwirkungsrechte aus (Art. 86, 89, 89<sup>bis</sup> und 93 Bundesverfassung[^93-1]);
-- d.[^93-2] ...
+- d.[^93-2] …
 - e. übt das Begnadigungsrecht aus;
 - f. entscheidet Kompetenzkonflikte, soweit dafür nicht das Obergericht zuständig ist;
 - g. nimmt von regierungsrätlichen Planungen Kenntnis;
@@ -952,7 +960,7 @@ Der Landrat
 [^93-1]: [BS **1** 3; [AS 1949 1511](https://fedlex.data.admin.ch/eli/oc/1949/1511_1614_1544), [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807)[2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228)]. Den genannten Bestimmungen entsprechen heute die Art. 45, 136, 140, 141, 151, 159, 160 und 165 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 [^93-2]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2010](http://www.admin.ch/ch/d/pore/va/20101128/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 6. März 2012 ([BBl 2012 3861](https://fedlex.data.admin.ch/eli/fga/2012/502)Art. 1 Ziff. 1, [2011 8041](https://fedlex.data.admin.ch/eli/fga/2011/1369)).
 
-### 7.2.2 2. Unterabschnitt: Der Regierungsrat und die Verwaltung
+### 2. Unterabschnitt: Der Regierungsrat und die Verwaltung
 
 #### Art. 94
 
@@ -984,7 +992,9 @@ Der Landrat
 
 <sup>1</sup> Der Regierungsrat bestimmt die wichtigen Ziele und Mittel des staatlichen Handelns. Er plant und koordiniert die staatlichen Tätigkeiten.
 
-<sup>2</sup> Der Regierungsrat hat im weitern
+<sup>2</sup>
+
+Der Regierungsrat hat im weitern:
 
 - a. den Kanton nach innen und aussen zu vertreten;
 - b. die öffentliche Ruhe, Ordnung und Sicherheit zu wahren;
@@ -1031,7 +1041,7 @@ Der Regierungsrat legt dem Landrat Entwürfe zu Verfassungsänderungen, Gesetzen
 
 <sup>3</sup> Ausnahmsweise können privatrechtliche Organisationen mit der Erfüllung öffentlicher Aufgaben betraut werden, sofern die Mitwirkungsrechte und der Rechtsschutz der Bürger sowie die Aufsicht durch den Regierungsrat sichergestellt sind.
 
-### 7.2.3 3. Unterabschnitt: Die richterlichen Behörden
+### 3. Unterabschnitt: Die richterlichen Behörden
 
 #### Art. 102
 
@@ -1071,7 +1081,7 @@ Die Zivilgerichtsbarkeit wird ausgeübt durch:
 
 <sup>2</sup> Die Gesetzgebung kann bestimmte Zivilstreitigkeiten besonderen Organen zuweisen.
 
-<sup>3</sup> ...[^104-5]
+<sup>3</sup> …[^104-5]
 
 [^104-1]: Angenommen in der [Volksabstimmung vom 17. Mai 1992](http://www.admin.ch/ch/d/pore/va/19920517/index.html), in Kraft seit 1. Juni 1995. Gewährleistungsbeschluss vom 14. Dez. 1993 ([BBl 1993 IV 599](https://fedlex.data.admin.ch/eli/fga/1993/4_599__)Art. 1 Ziff. 2 II 180).
 [^104-2]: Angenommen in der [Volksabstimmung vom 25. Nov. 2018](http://www.admin.ch/ch/d/pore/va/20181125/index.html), in Kraft seit 1. Juni 2023. Gewährleistungsbeschluss vom 16. Sept. 2019 ([BBl 2019 6865](https://fedlex.data.admin.ch/eli/fga/2019/2380)Art. 1 [3929](https://fedlex.data.admin.ch/eli/fga/2019/1450)). Bis zum 31.05.2023: «b. die Landgerichtspräsidien Uri und Ursern;»
@@ -1089,7 +1099,7 @@ Die Strafgerichtsbarkeit wird ausgeübt durch:
 
 - a. die Staatsanwaltschaft im Strafbefehlsverfahren;
 - b.[^105-2] Landgerichtspräsidium;
-- c.[^105-3] ...
+- c.[^105-3] …
 - d.[^105-4] das Landgericht;
 - e. das Obergericht.[^105-5]
 
@@ -1120,9 +1130,9 @@ Die Verwaltungsgerichtsbarkeit wird ausgeübt durch:
 
 [^105a-1]: Angenommen in der [Volksabstimmung vom 17. Mai 1992](http://www.admin.ch/ch/d/pore/va/19920517/index.html), in Kraft seit 1. Juni 1995. Gewährleistungsbeschluss vom 14. Dez. 1993 ([BBl 1993 IV 599](https://fedlex.data.admin.ch/eli/fga/1993/4_599__)Art. 1 Ziff. 2 II 180).
 
-### 7.3 3. Abschnitt: Die Gemeinden
+### 3. Abschnitt: Die Gemeinden
 
-### 7.3.1 1. Unterabschnitt: Allgemeine Bestimmungen
+### 1. Unterabschnitt: Allgemeine Bestimmungen
 
 #### Art. 106
 
@@ -1182,9 +1192,9 @@ Soweit weder die Verfassung noch die Gesetzgebung etwas anderes bestimmt, ist de
 
 Das Nähere bestimmt das Gemeindegesetz
 
-[^109a-1]: Eingefügt durch die [Volksabstimmung vom 21. Mai 2017](http://www.admin.ch/ch/d/pore/va/20170521/index.html), in Kraft seit 1. Juni 2017. Gewährleistungsbeschluss vom 6. Juni 2018 ([BBl 2018 3795](https://fedlex.data.admin.ch/eli/fga/2018/1413)Art. 1 [1207](https://fedlex.data.admin.ch/eli/fga/2018/464)).
+[^109a-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2017](http://www.admin.ch/ch/d/pore/va/20170521/index.html), in Kraft seit 1. Juni 2017. Gewährleistungsbeschluss vom 6. Juni 2018 ([BBl 2018 3795](https://fedlex.data.admin.ch/eli/fga/2018/1413)Art. 1 [1207](https://fedlex.data.admin.ch/eli/fga/2018/464)).
 
-### 7.3.2 2. Unterabschnitt: Die Einwohnergemeinde
+### 2. Unterabschnitt: Die Einwohnergemeinde
 
 #### Art. 110
 
@@ -1197,14 +1207,14 @@ Die Stimmberechtigten sind zuständig:[^110-2]
 - a. Rechtsvorschriften zu beschliessen;
 - b. den Voranschlag und die Rechnung der Gemeinde zu verabschieden;
 - c. die Abgaben der Gemeinde festzulegen;
-- d.[^110-3] ...
+- d.[^110-3] …
 - e.[^110-4] die Landräte, den Gemeinderat, den Schulrat und den Sozialrat und, sofern keine Kirchgemeinde besteht, den Ortspfarrer zu wählen;
 - f. Ausscheidungsdekrete zu beschliessen;
 - g. Verträge über die Aufgabenteilung und die Vermögensausscheidung nach Artikel 107 zu beschliessen.
 
 <sup>2</sup> Die Befugnisse nach Absatz 1 sind nicht übertragbar, soweit die besondere Gesetzgebung nichts anderes bestimmt.[^110-5]
 
-<sup>3</sup> ...[^110-6]
+<sup>3</sup> …[^110-6]
 
 [^110-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2017](http://www.admin.ch/ch/d/pore/va/20170521/index.html), in Kraft seit 1. Juni 2017. Gewährleistungsbeschluss vom 6. Juni 2018 ([BBl 2018 3795](https://fedlex.data.admin.ch/eli/fga/2018/1413)Art. 1 [1207](https://fedlex.data.admin.ch/eli/fga/2018/464)).
 [^110-2]: Angenommen in der [Volksabstimmung vom 21. Mai 2017](http://www.admin.ch/ch/d/pore/va/20170521/index.html), in Kraft seit 1. Juni 2017. Gewährleistungsbeschluss vom 6. Juni 2018 ([BBl 2018 3795](https://fedlex.data.admin.ch/eli/fga/2018/1413)Art. 1 [1207](https://fedlex.data.admin.ch/eli/fga/2018/464)).
@@ -1243,7 +1253,7 @@ Die Stimmberechtigten sind zuständig:[^110-2]
 
 [^113-1]: Angenommen in der [Volksabstimmung vom 21. Mai 2017](http://www.admin.ch/ch/d/pore/va/20170521/index.html), in Kraft seit 1. Juni 2017. Gewährleistungsbeschluss vom 6. Juni 2018 ([BBl 2018 3795](https://fedlex.data.admin.ch/eli/fga/2018/1413)Art. 1 [1207](https://fedlex.data.admin.ch/eli/fga/2018/464)).
 
-### 7.3.3 3. Unterabschnitt: Die Kirchgemeinde
+### 3. Unterabschnitt: Die Kirchgemeinde
 
 #### Art. 114
 
@@ -1263,7 +1273,7 @@ Die Stimmberechtigten sind zuständig:[^110-2]
 
 <sup>2</sup> Er erfüllt die ihm durch das Organisationsstatut zugewiesenen Aufgaben.
 
-### 7.3.4 4. Unterabschnitt: Die Ortsbürgergemeinde
+### 4. Unterabschnitt: Die Ortsbürgergemeinde
 
 #### Art. 116
 
@@ -1283,7 +1293,7 @@ Die Stimmberechtigten sind zuständig:[^110-2]
 
 <sup>2</sup> Er erfüllt die ihm durch das Ausscheidungsdekret zugewiesenen Aufgaben.
 
-### 7.4 4. Abschnitt: Die Korporationen
+### 4. Abschnitt: Die Korporationen
 
 #### Art. 118
 
@@ -1293,7 +1303,7 @@ Die Stimmberechtigten sind zuständig:[^110-2]
 
 <sup>2</sup> Das Handeln der Korporationen untersteht der Rechtskontrolle des Kantons.
 
-## 8 8. Kapitel: Verfassungsrevision
+## 8. Kapitel: Verfassungsrevision
 
 #### Art. 119
 
@@ -1321,7 +1331,7 @@ Der Regierungsrat kann Volksinitiativen, die zur Zeit des Inkrafttretens dieser 
 
 <sup>3</sup> Die Vorschriften über die Unvereinbarkeit und die Amtsdauer finden keine Anwendung.
 
-## 9 9. Kapitel: Schluss- und Übergangsbestimmungen
+## 9. Kapitel: Schluss- und Übergangsbestimmungen
 
 #### Art. 122
 
@@ -1353,7 +1363,7 @@ Diese Verfassung tritt am 1. Januar 1985 in Kraft. Sie unterliegt der Gewährlei
 
 <sup>2</sup> Bestehende Behörden, die sich nicht mehr auf eine Verfassungsgrundlage stützen können, werden auf das Ende der laufenden Amtsdauer aufgelöst.
 
-## 10 Sachregister
+## Sachregister
 
 Die Zahlen verweisen auf die Artikel und Artikelteile der Verfassung
 
@@ -1606,6 +1616,8 @@ Landrat
 **Menschenwürde** 10
 
 **Naturgewalten** Einrichtungen zum Schutz 48<sup>2</sup>
+
+**Noterlasse** 90<sup>3</sup>
 
 Obergericht
 

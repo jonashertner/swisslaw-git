@@ -3,22 +3,23 @@ sr: "131.214"
 title: "Costituzione del Cantone di Uri, del 28 ottobre 1984"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/2_621_625_589_fga"
 language: it
-version: 2020-03-11
+version: 2021-09-21
 adopted: 1984-10-28
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_621_625_589_fga/20200311/it/xml/fedlex-data-admin-ch-eli-cc-1985-2_621_625_589_fga-20200311-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/2_621_625_589_fga/20200311/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_621_625_589_fga/20210921/it/xml/fedlex-data-admin-ch-eli-cc-1985-2_621_625_589_fga-20210921-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/2_621_625_589_fga/20210921/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione del Cantone di Uri
 
-Traduzione*[^t-1]*
+Traduzione[^t-1]
 
-del 28 ottobre 1984 (Stato 11 marzo 2020) (Stato 11 marzo 2020)
+del 28 ottobre 1984 (Stato 21 settembre 2021)[^t-2]
 
-[^t-1]: Accettata nella votazione popolare del 28 ott. 1984, in vigore dal 1° gen. 1985 (Raccolta sistematica del diritto del Canton Uri, RB **1.1101**). Garanzia dell’AF del 3 ott. 1985 (FF **1985** II 1216 art. 1 II 589). Dal testo originale tedesco.
+[^t-1]: Accettata nella votazione popolare del 28 ott. 1984, in vigore dal 1° gen. 1985 (Raccolta sistematica del diritto del Canton Uri, RB **1.1101**). Garanzia dell’AF del 3 ott. 1985 (FF **1985** II 1216 art. 1 II 589). Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
 
 Nel nome di Dio!
 
@@ -910,6 +911,10 @@ I 64 seggi sono ripartiti fra i Comuni politici secondo la loro popolazione sviz
 <sup>1</sup> Il Gran Consiglio sottopone al Popolo, sotto forma di legge, tutte le disposizioni importanti, in particolare quelle che stabiliscono i diritti e i doveri di tutti i cittadini o della maggior parte di essi.
 
 <sup>2</sup> Per prescrizioni d’altro genere, il Gran Consiglio emana ordinanze, eccetto che la legislazione in materia non competa a un’altra autorità.
+
+<sup>3</sup> Il Consiglio di Stato emana atti normativi di emergenza, di durata limitata; essi devono essere sottoposti appena possibile al Gran Consiglio, che decide se e fin quando occorra mantenerli in vigore.[^90-1]
+
+[^90-1]: Accettato nella [votazione popolare del 29 nov. 2020](http://www.admin.ch/ch/i/pore/va/20201129/index.html), in vigore dal 15 dic. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 91
 
@@ -1938,6 +1943,10 @@ Elezioni 30 ss
 - – partecipazione alle 20
 - – popolari 21 ss
 - – suppletive 84
+
+**Emergenza** 90
+
+- – atti normativi di 90
 
 **Entrata in funzione** 84
 
