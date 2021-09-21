@@ -3,11 +3,11 @@ sr: "0.311.371"
 title: "Convention complémentaire du 7 septembre 1956 relative à l'abolition de l'esclavage, de la traite des esclaves et des institutions et pratiques analogues à l'esclavage"
 eli: "https://fedlex.data.admin.ch/eli/cc/1965/135_138_138"
 language: fr
-version: 2017-04-04
+version: 2021-09-22
 adopted: 1956-09-07
 in_force: 1964-07-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/135_138_138/20170404/fr/xml/fedlex-data-admin-ch-eli-cc-1965-135_138_138-20170404-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1965/135_138_138/20170404/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/135_138_138/20210922/fr/xml/fedlex-data-admin-ch-eli-cc-1965-135_138_138-20210922-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/135_138_138/20210922/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,47 +18,41 @@ RO **1965** 138; FF **1963** II 1516
 
 Texte original
 
-Conclue à Genève le 7 septembre 1956
+Conclue à Genève le 7 septembre 1956 Approuvée par l’Assemblée fédérale le 17 juin 1964[^t-1] Instrument d’adhésion déposé par la Suisse le 28 Juillet 1964 Entrée en vigueur pour la Suisse le 28 juillet 1964
 
-Approuvée par l’Assemblée fédérale le 17 juin 1964[^t-1]
-
-Instrument d’adhésion déposé par la Suisse le 28 Juillet 1964
-
-Entrée en vigueur pour la Suisse le 28 juillet 1964
-
-(Etat le 4 avril 2017)
+(État le 22 septembre 2021)
 
 [^t-1]: [RO 1965 137](https://fedlex.data.admin.ch/eli/oc/1965/133_137_137)
 
 *Préambule*
 
-Les Etats parties à la présente Convention,
+Les États parties à la présente Convention,
 
-considérant que la liberté est un droit que tout être humain acquiert à sa naissance;
+considérant que la liberté est un droit que tout être humain acquiert à sa naissance,
 
-conscients de ce que les peuples des Nations Unies ont réaffirmé, dans la Charte[^ingress-1], leur foi dans la dignité et la valeur de la personne humaine;
+conscients de ce que les peuples des Nations Unies ont réaffirmé, dans la Charte[^ingress-1], leur foi dans la dignité et la valeur de la personne humaine,
 
-considérant que la déclaration universelle des droits de l’homme, que l’Assemblée générale a proclamée comme l’idéal commun à atteindre par tous les peuples et toutes les nations, dispose que nul ne sera tenu en esclavage ni en servitude et que l’esclavage et la traite des esclaves sont interdits sous toutes leurs formes;
+considérant que la déclaration universelle des droits de l’homme, que l’Assemblée générale a proclamée comme l’idéal commun à atteindre par tous les peuples et toutes les nations, dispose que nul ne sera tenu en esclavage ni en servitude et que l’esclavage et la traite des esclaves sont interdits sous toutes leurs formes,
 
-reconnaissant que, depuis la conclusion, à Genève, le 25 septembre 1926[^ingress-2], de la Convention relative à l’esclavage, qui visait à supprimer l’esclavage et la traite des esclaves, de nouveaux progrès ont été accomplis dans cette direction;
+reconnaissant que, depuis la conclusion, à Genève, le 25 septembre 1926[^ingress-2], de la Convention relative à l’esclavage, qui visait à supprimer l’esclavage et la traite des esclaves, de nouveaux progrès ont été accomplis dans cette direction,
 
-tenant compte de la Convention de 1930[^ingress-3] sur le travail forcé et de ce qui a été fait ultérieurement par l’Organisation internationale du Travail en ce qui concerne le travail forcé obligatoire;
+tenant compte de la Convention de 1930[^ingress-3] sur le travail forcé et de ce qui a été fait ultérieurement par l’Organisation internationale du Travail en ce qui concerne le travail forcé obligatoire,
 
 constatant, toutefois, que l’esclavage, la traite des esclaves et les institutions et pratiques analogues à l’esclavage n’ont pas encore été éliminés dans toutes les régions du monde,
 
-ayant décidé en conséquence qu’à la Convention de 1926, qui est toujours en vigueur, doit maintenant s’ajouter une convention supplémentaire destinée à intensifier les efforts, tant nationaux qu’internationaux, qui visent à abolir l’esclavage, la traite des esclaves et les institutions et pratiques analogues à l’esclavage;
+ayant décidé en conséquence qu’à la Convention de 1926, qui est toujours en vigueur, doit maintenant s’ajouter une convention supplémentaire destinée à intensifier les efforts, tant nationaux qu’internationaux, qui visent à abolir l’esclavage, la traite des esclaves et les institutions et pratiques analogues à l’esclavage,
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.311.37](https://fedlex.data.admin.ch/eli/cc/46/696_714_724)
-[^ingress-3]: [RS 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.311.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1300)
+[^ingress-3]: [RS 0.822.713.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3613)
 
 ## Section I Institutions et pratiques analogues à l’esclavage
 
 #### Art. 1
 
-Chacun des Etats parties à la présente Convention prendra toutes les mesures, législatives et autres, qui seront réalisables et nécessaires pour obtenir progressivement et aussitôt que possible l’abolition complète ou l’abandon des institutions et pratiques suivantes, là où elles subsistent encore, qu’elles rentrent ou non dans la définition de l’esclavage qui figure à l’article premier de la Convention relative à l’esclavage signée à Genève le 25 septembre 1926:
+Chacun des États parties à la présente Convention prendra toutes les mesures, législatives et autres, qui seront réalisables et nécessaires pour obtenir progressivement et aussitôt que possible l’abolition complète ou l’abandon des institutions et pratiques suivantes, là où elles subsistent encore, qu’elles rentrent ou non dans la définition de l’esclavage qui figure à l’article premier de la Convention relative à l’esclavage signée à Genève le 25 septembre 1926:
 
 - a. la servitude pour dettes, c’est‑à‑dire l’état ou la condition résultant du fait qu’un débiteur s’est engagé à fournir en garantie d’une dette ses services personnels ou ceux de quelqu’un sur lequel il a autorité, si la valeur équitable de ces services n’est pas affectée à la liquidation de la dette ou si la durée de ces services n’est pas limitée ni leur caractère défini;
 - b. le servage, c’est‑à‑dire la condition de quiconque est tenu par la loi, la coutume ou un accord, de vivre et de travailler sur une terre appartenant à une autre personne et de fournir à cette autre personne, contre rémunération ou gratuitement, certains services déterminés, sans pouvoir changer sa condition;
@@ -74,32 +68,32 @@ Chacun des Etats parties à la présente Convention prendra toutes les mesures, 
 
 #### Art. 2
 
-En vue de mettre fin aux institutions et pratiques visées à l’alinéa c de l’article premier de la Convention, les Etats parties s’engagent à fixer, là où il y aura lieu, des âges minimums appropriés pour le mariage, à encourager le recours à une procédure qui permette à l’un et l’autre des futurs époux d’exprimer librement leur consentement au mariage en présence d’une autorité civile ou religieuse compétente et à encourager l’enregistrement des mariages.
+En vue de mettre fin aux institutions et pratiques visées à l’alinéa c de l’article premier de la Convention, les États parties s’engagent à fixer, là où il y aura lieu, des âges minimums appropriés pour le mariage, à encourager le recours à une procédure qui permette à l’un et l’autre des futurs époux d’exprimer librement leur consentement au mariage en présence d’une autorité civile ou religieuse compétente et à encourager l’enregistrement des mariages.
 
 ## Section II Traite des esclaves
 
 #### Art. 3
 
-<sup>1.</sup> Le fait de transporter ou de tenter de transporter des esclaves d’un pays à un autre par un moyen de transport quelconque ou le fait d’être complice de ces actes constituera une infraction pénale au regard de la loi des Etats parties à la Convention et les personnes reconnues coupables d’une telle infraction seront passibles de peines très rigoureuses.
+<sup>1.</sup> Le fait de transporter ou de tenter de transporter des esclaves d’un pays à un autre par un moyen de transport quelconque ou le fait d’être complice de ces actes constituera une infraction pénale au regard de la loi des États parties à la Convention et les personnes reconnues coupables d’une telle infraction seront passibles de peines très rigoureuses.
 
-- 2\. a. Les Etats parties prendront toutes mesures efficaces pour empêcher les navires et aéronefs autorisés à battre leur pavillon de transporter des esclaves et pour punir les personnes coupables de ces actes ou coupables d’utiliser le pavillon national à cette fin.
-- b. Les Etats parties prendront toutes mesures efficaces pour que leurs ports, leurs aérodromes et leurs côtes ne puissent servir au transport des esclaves.
+- 2\. a. Les États parties prendront toutes mesures efficaces pour empêcher les navires et aéronefs autorisés à battre leur pavillon de transporter des esclaves et pour punir les personnes coupables de ces actes ou coupables d’utiliser le pavillon national à cette fin.
+- b. Les États parties prendront toutes mesures efficaces pour que leurs ports, leurs aérodromes et leurs côtes ne puissent servir au transport des esclaves.
 
-<sup>3.</sup> Les Etats parties à la Convention échangeront des renseignements afin d’assurer la coordination pratique des mesures prises par eux dans la lutte contre la traite des esclaves et s’informeront mutuellement de tous cas de traite d’esclaves et de toute tentative d’infraction de ce genre dont ils auraient connaissance.
+<sup>3.</sup> Les États parties à la Convention échangeront des renseignements afin d’assurer la coordination pratique des mesures prises par eux dans la lutte contre la traite des esclaves et s’informeront mutuellement de tous cas de traite d’esclaves et de toute tentative d’infraction de ce genre dont ils auraient connaissance.
 
 #### Art. 4
 
-Tout esclave qui se réfugie à bord d’un navire d’un Etat partie à la présente Convention sera libre *ipso facto*.
+Tout esclave qui se réfugie à bord d’un navire d’un État partie à la présente Convention sera libre *ipso facto*.
 
 ## Section III Esclavage et institutions et pratiques analogues à l’esclavage
 
 #### Art. 5
 
-Dans un pays où l’esclavage ou les institutions et pratiques visées à l’article premier de la Convention ne sont pas encore complètement abolis ou abandonnés, le fait de mutiler, de marquer au fer rouge ou autrement un esclave ou une personne de condition servile – que ce soit pour indiquer sa condition, pour infliger un châtiment ou pour toute autre raison – ou le fait d’être complice de tels actes constituera une infraction pénale au regard de la loi des Etats parties à la Convention et les personnes reconnues coupables seront passibles d’une peine.
+Dans un pays où l’esclavage ou les institutions et pratiques visées à l’article premier de la Convention ne sont pas encore complètement abolis ou abandonnés, le fait de mutiler, de marquer au fer rouge ou autrement un esclave ou une personne de condition servile – que ce soit pour indiquer sa condition, pour infliger un châtiment ou pour toute autre raison – ou le fait d’être complice de tels actes constituera une infraction pénale au regard de la loi des États parties à la Convention et les personnes reconnues coupables seront passibles d’une peine.
 
 #### Art. 6
 
-<sup>1.</sup> Le fait de réduire autrui en esclavage ou d’inciter autrui à aliéner sa liberté ou celle d’une personne à sa charge, pour être réduit en esclavage, constituera une infraction pénale au regard de la loi des Etats parties à la présente Convention et les personnes reconnues coupables seront passibles d’une peine, il en sera de même de la participation à une entente formée dans ce dessein, de la tentative et de la complicité.
+<sup>1.</sup> Le fait de réduire autrui en esclavage ou d’inciter autrui à aliéner sa liberté ou celle d’une personne à sa charge, pour être réduit en esclavage, constituera une infraction pénale au regard de la loi des États parties à la présente Convention et les personnes reconnues coupables seront passibles d’une peine, il en sera de même de la participation à une entente formée dans ce dessein, de la tentative et de la complicité.
 
 <sup>2.</sup> Sous réserve des dispositions de l’alinéa introductif de l’article premier de la Convention, les dispositions du paragraphe 1 du présent article s’appliqueront également au fait d’inciter autrui à se placer ou à placer une personne à sa charge dans une condition servile résultant d’une des institutions ou pratiques visées à l’article premier; il en sera de même de la participation à une entente formée dans ce dessein, de la tentative et de la complicité.
 
@@ -113,11 +107,11 @@ Aux fins de la présente Convention:
 - b. la «personne de condition servile» est celle qui est placée dans le statut ou la condition qui résulte d’une des institutions ou pratiques visées à l’article premier de la présente Convention;
 - c. la «traite des esclaves» désigne et comprend tout acte de capture, d’acquisition ou de cession d’une personne en vue de la réduire en esclavage; tout acte d’acquisition d’un esclave en vue de le vendre ou de l’échanger; tout acte de cession par vente ou échange d’une personne acquise en vue d’être vendue ou échangée, ainsi qu’en général tout acte de commerce ou de transport d’esclaves, quel que soit le moyen de transport employé.
 
-## Section V Coopération entre les Etats parties et communications de renseignements
+## Section V Coopération entre les États parties et communications de renseignements
 
 #### Art. 8
 
-<sup>1.</sup> Les Etats parties à la Convention s’engagent à se prêter un concours mutuel et à coopérer avec l’Organisation des Nations Unies en vue de l’application des dispositions qui précèdent.
+<sup>1.</sup> Les États parties à la Convention s’engagent à se prêter un concours mutuel et à coopérer avec l’Organisation des Nations Unies en vue de l’application des dispositions qui précèdent.
 
 <sup>2.</sup> Les parties s’engagent à communiquer au Secrétaire général des Nations Unies copie de toute loi, tout règlement et toute décision administrative adoptés ou mis en vigueur pour donner effet aux dispositions de la présente Convention.
 
@@ -131,33 +125,33 @@ Il ne sera admis aucune réserve à la Convention.
 
 #### Art. 10
 
-Tout différend entre les Etats parties à la Convention concernant son interprétation ou son application, qui ne serait pas réglé par voie de négociation, sera soumis à la Cour internationale de Justice à la demande de l’une des parties au différend, à moins que les parties intéressées ne conviennent d’un autre mode de règlement.
+Tout différend entre les États parties à la Convention concernant son interprétation ou son application, qui ne serait pas réglé par voie de négociation, sera soumis à la Cour internationale de Justice à la demande de l’une des parties au différend, à moins que les parties intéressées ne conviennent d’un autre mode de règlement.
 
 #### Art. 11
 
-<sup>1.</sup> La présente Convention sera ouverte jusqu’au 1<sup>er</sup> juillet 1957 à la signature de tout Etat Membre des Nations Unies ou d’une institution spécialisée. Elle sera soumise à la ratification des Etats signataires et les instruments de ratification seront déposés auprès du Secrétaire général des Nations Unies qui en informera tous les Etats signataires et adhérents.
+<sup>1.</sup> La présente Convention sera ouverte jusqu’au 1<sup>er</sup> juillet 1957 à la signature de tout État Membre des Nations Unies ou d’une institution spécialisée. Elle sera soumise à la ratification des États signataires et les instruments de ratification seront déposés auprès du Secrétaire général des Nations Unies qui en informera tous les États signataires et adhérents.
 
-<sup>2.</sup> Après le 1<sup>er</sup> juillet 1957, la Convention sera ouverte à l’adhésion de tout Etat Membre des Nations Unies ou d’une institution spécialisée, ou de tout autre Etat auquel une invitation d’adhérer sera faite par l’Assemblée générale des Nations Unies. L’adhésion s’effectuera par le dépôt d’un instrument formel auprès du Secrétaire général des Nations Unies qui en informera tous les Etats signataires et adhérents.
+<sup>2.</sup> Après le 1<sup>er</sup> juillet 1957, la Convention sera ouverte à l’adhésion de tout État Membre des Nations Unies ou d’une institution spécialisée, ou de tout autre État auquel une invitation d’adhérer sera faite par l’Assemblée générale des Nations Unies. L’adhésion s’effectuera par le dépôt d’un instrument formel auprès du Secrétaire général des Nations Unies qui en informera tous les États signataires et adhérents.
 
 #### Art. 12
 
-<sup>1.</sup> La présente Convention s’appliquera à tous les territoires non autonomes, sous tutelle, coloniaux, et autres territoires non métropolitains qu’un Etat partie représente sur le plan international ; la partie intéressée devra, sous réserve des dispositions du paragraphe 2 du présent article, au moment de la signature ou de la ratification de la Convention, ou encore de l’adhésion à la présente Convention, déclarer le ou les territoires non métropolitains auxquels la présente Convention s’appliquera *ipso facto* à la suite de cette signature, ratification ou adhésion.
+<sup>1.</sup> La présente Convention s’appliquera à tous les territoires non autonomes, sous tutelle, coloniaux, et autres territoires non métropolitains qu’un État partie représente sur le plan international ; la partie intéressée devra, sous réserve des dispositions du paragraphe 2 du présent article, au moment de la signature ou de la ratification de la Convention, ou encore de l’adhésion à la présente Convention, déclarer le ou les territoires non métropolitains auxquels la présente Convention s’appliquera *ipso facto* à la suite de cette signature, ratification ou adhésion.
 
 <sup>2.</sup> Dans le cas où le consentement préalable d’un territoire non métropolitain est nécessaire en vertu des lois ou pratiques constitutionnelles de la partie ou du territoire non métropolitain, la partie devra s’efforcer d’obtenir, dans le délai de douze mois à compter de la date de la signature par elle, le consentement du territoire non métropolitain qui est nécessaire et, lorsque ce consentement aura été obtenu, la partie devra le notifier au Secrétaire général. Dès la date de la réception par le Secrétaire général de cette notification, la Convention s’appliquera aux territoires ou territoires désignes par celle‑ci.
 
-<sup>3.</sup> A l’expiration du délai de douze mois mentionné au paragraphe précédent, les parties intéressées informeront le Secrétaire général des résultats des consultations avec les territoires non métropolitains dont ils assument les relations internationales et dont le consentement pour l’application de la présente Convention n’aurait pas été donné.
+<sup>3.</sup> À l’expiration du délai de douze mois mentionné au paragraphe précédent, les parties intéressées informeront le Secrétaire général des résultats des consultations avec les territoires non métropolitains dont ils assument les relations internationales et dont le consentement pour l’application de la présente Convention n’aurait pas été donné.
 
 #### Art. 13
 
-<sup>1.</sup> La Convention entrera en vigueur à la date où deux Etats y seront devenus parties.
+<sup>1.</sup> La Convention entrera en vigueur à la date où deux États y seront devenus parties.
 
-<sup>2.</sup> Elle entrera par la suite en vigueur à l’égard de chaque Etat et territoire, à la date du dépôt de l’instrument de ratification ou d’adhésion de l’Etat intéressé ou de la notification de l’application à ce territoire.
+<sup>2.</sup> Elle entrera par la suite en vigueur à l’égard de chaque État et territoire, à la date du dépôt de l’instrument de ratification ou d’adhésion de l’État intéressé ou de la notification de l’application à ce territoire.
 
 #### Art. 14
 
 <sup>1.</sup> L’application de la présente Convention sera divisée en périodes successives de trois ans dont la première partira de la date de l’entrée en vigueur de la Convention conformément au paragraphe 1 de l’article 13.
 
-<sup>2.</sup> Tout Etat partie pourra dénoncer la présente Convention en adressant six mois au moins avant l’expiration de la période triennale en cours une notification au Secrétaire général. Celui‑ci informera toutes les autres parties de cette notification et de la date de sa réception.
+<sup>2.</sup> Tout État partie pourra dénoncer la présente Convention en adressant six mois au moins avant l’expiration de la période triennale en cours une notification au Secrétaire général. Celui‑ci informera toutes les autres parties de cette notification et de la date de sa réception.
 
 <sup>3.</sup> Les dénonciations prendront effet à l’expiration de la période triennale en cours.
 
@@ -165,16 +159,16 @@ Tout différend entre les Etats parties à la Convention concernant son interpr�
 
 #### Art. 15
 
-La présente Convention, dont les textes anglais, chinois, espagnol, français et russe feront également foi, sera déposée aux archives du Secrétariat des Nations Unies. Le Secrétaire général en établira des copies certifiées conformes pour les communiquer aux Etats parties à la Convention ainsi qu’à tous les autres Etats Membres des Nations Unies et des institutions spécialisées.
+La présente Convention, dont les textes anglais, chinois, espagnol, français et russe feront également foi, sera déposée aux archives du Secrétariat des Nations Unies. Le Secrétaire général en établira des copies certifiées conformes pour les communiquer aux États parties à la Convention ainsi qu’à tous les autres États Membres des Nations Unies et des institutions spécialisées.
 
 *En foi de quoi,* les soussignés, dûment autorisés par leurs Gouvernements respectifs, ont signé la présente Convention aux dates qui figurent en regard de leurs signatures respectives. Fait à l’Office européen des Nations Unies, à Genève, le sept septembre mil neuf cent cinquante‑six.
 
 (Suivent les signatures)
 
-Champ d’application le 4 avril 2017**[^t-2]**
+Champ d’application le 22 sept. 2021[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>16 novembre</td><td>1966 A</td><td>16 novembre</td><td>1966</td></tr>
 <tr><td>Albanie</td><td>6 novembre</td><td>1958 A</td><td>6 novembre</td><td>1958</td></tr>
 <tr><td>Algérie</td><td>31 octobre</td><td>1963 A</td><td>31 octobre</td><td>1963</td></tr>
@@ -202,7 +196,7 @@ Champ d’application le 4 avril 2017**[^t-2]**
 <tr><td>Chili</td><td>20 juin</td><td>1995 A</td><td>20 juin</td><td>1995</td></tr>
 <tr><td>Chine</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Hong Kong <sup>a</sup></td><td>10 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
-<tr><td>Macao<sup>b</sup></td><td>13 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Macao <sup>b</sup></td><td>13 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
 <tr><td>Chypre</td><td>11 mai</td><td>1962 S</td><td>16 août</td><td>1960</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>25 août</td><td>1977 A</td><td>25 août</td><td>1977</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>28 février</td><td>1975 A</td><td>28 février</td><td>1975</td></tr>
@@ -212,12 +206,12 @@ Champ d’application le 4 avril 2017**[^t-2]**
 <tr><td>Danemark</td><td>24 avril</td><td>1958</td><td>24 avril</td><td>1958</td></tr>
 <tr><td>Djibouti</td><td>21 mars</td><td>1979 A</td><td>21 mars</td><td>1979</td></tr>
 <tr><td>Dominique</td><td>17 août</td><td>1994 S</td><td>3 novembre</td><td>1978</td></tr>
-<tr><td>Emirats arabes unis</td><td>17 avril</td><td>1958 A</td><td>17 avril</td><td>1958</td></tr>
-<tr><td>Equateur</td><td>29 mars</td><td>1960 A</td><td>29 mars</td><td>1960</td></tr>
+<tr><td>Émirats arabes unis</td><td>17 avril</td><td>1958 A</td><td>17 avril</td><td>1958</td></tr>
+<tr><td>Équateur</td><td>29 mars</td><td>1960 A</td><td>29 mars</td><td>1960</td></tr>
 <tr><td>Espagne</td><td>21 novembre</td><td>1967 A</td><td>21 novembre</td><td>1967</td></tr>
-<tr><td>Etats-Unis</td><td>6 décembre</td><td>1967 A</td><td>6 décembre</td><td>1967</td></tr>
-<tr><td>Tous les territoires dont les Etats Unis assument les relations internationales</td><td>6 décembre</td><td>1967</td><td>6 décembre</td><td>1967</td></tr>
-<tr><td>Ethiopie</td><td>21 janvier</td><td>1969 A</td><td>21 janvier</td><td>1969</td></tr>
+<tr><td>États-Unis\*</td><td>6 décembre</td><td>1967 A</td><td>6 décembre</td><td>1967</td></tr>
+<tr><td>Tous les territoires dont les États Unis assument les relations internationales</td><td>6 décembre</td><td>1967</td><td>6 décembre</td><td>1967</td></tr>
+<tr><td>Éthiopie</td><td>21 janvier</td><td>1969 A</td><td>21 janvier</td><td>1969</td></tr>
 <tr><td>Fidji</td><td>12 juin</td><td>1972 S</td><td>10 octobre</td><td>1970</td></tr>
 <tr><td>Finlande</td><td>1<sup>er</sup> avril</td><td>1959 A</td><td>1<sup>er</sup> avril</td><td>1959</td></tr>
 <tr><td>France</td><td>26 mai</td><td>1964</td><td>26 mai</td><td>1964</td></tr>
@@ -233,7 +227,7 @@ Champ d’application le 4 avril 2017**[^t-2]**
 <tr><td>Iraq</td><td>30 septembre</td><td>1963</td><td>30 septembre</td><td>1963</td></tr>
 <tr><td>Irlande</td><td>18 septembre</td><td>1961 A</td><td>18 septembre</td><td>1961</td></tr>
 <tr><td>Islande</td><td>17 novembre</td><td>1965 A</td><td>17 novembre</td><td>1965</td></tr>
-<tr><td>Israël</td><td>23 octobre</td><td>1957</td><td>23 octobre</td><td>1957</td></tr>
+<tr><td>Israël\*</td><td>23 octobre</td><td>1957</td><td>23 octobre</td><td>1957</td></tr>
 <tr><td>Italie</td><td>12 février</td><td>1958</td><td>12 février</td><td>1958</td></tr>
 <tr><td>Jamaïque</td><td>30 juillet</td><td>1964 S</td><td>6 août</td><td>1962</td></tr>
 <tr><td>Jordanie</td><td>27 septembre</td><td>1957 A</td><td>27 septembre</td><td>1957</td></tr>
@@ -245,7 +239,7 @@ Champ d’application le 4 avril 2017**[^t-2]**
 <tr><td>Lettonie</td><td>14 avril</td><td>1992 A</td><td>14 avril</td><td>1992</td></tr>
 <tr><td>Luxembourg</td><td>1<sup>er</sup> mai</td><td>1967</td><td>1<sup>er</sup> mai</td><td>1967</td></tr>
 <tr><td>Libye</td><td>16 mai</td><td>1989 A</td><td>16 mai</td><td>1989</td></tr>
-<tr><td>Macédoine</td><td>18 janvier</td><td>1994 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>18 janvier</td><td>1994 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>29 février</td><td>1972 A</td><td>29 février</td><td>1972</td></tr>
 <tr><td>Malaisie</td><td>18 novembre</td><td>1957 A</td><td>18 novembre</td><td>1957</td></tr>
 <tr><td>Malawi</td><td>2 août</td><td>1965 A</td><td>2 août</td><td>1965</td></tr>
@@ -268,6 +262,7 @@ Champ d’application le 4 avril 2017**[^t-2]**
 <tr><td>Tokelau</td><td>26 avril</td><td>1962</td><td>26 avril</td><td>1962</td></tr>
 <tr><td>Ouganda</td><td>12 août</td><td>1964 A</td><td>12 août</td><td>1964</td></tr>
 <tr><td>Pakistan</td><td>20 mars</td><td>1958</td><td>20 mars</td><td>1958</td></tr>
+<tr><td>Palestine</td><td>22 mars</td><td>2018 A</td><td>22 mars</td><td>2018</td></tr>
 <tr><td>Paraguay</td><td>27 septembre</td><td>2007 A</td><td>27 septembre</td><td>2007</td></tr>
 <tr><td>Pays-Bas</td><td>3 décembre</td><td>1957</td><td>3 décembre</td><td>1957</td></tr>
 <tr><td>Aruba</td><td>3 décembre</td><td>1957</td><td>3 décembre</td><td>1957</td></tr>
@@ -284,9 +279,9 @@ Champ d’application le 4 avril 2017**[^t-2]**
 <tr><td>Royaume-Uni</td><td>30 avril</td><td>1957</td><td>30 avril</td><td>1957</td></tr>
 <tr><td>Bermudes</td><td>6 septembre</td><td>1957</td><td>6 septembre</td><td>1957</td></tr>
 <tr><td>Gibraltar</td><td>6 septembre</td><td>1957</td><td>6 septembre</td><td>1957</td></tr>
-<tr><td>Ile de Man</td><td>30 avril</td><td>1957</td><td>30 avril</td><td>1957</td></tr>
-<tr><td>Iles de la Manche</td><td>30 avril</td><td>1957</td><td>30 avril</td><td>1957</td></tr>
-<tr><td>Iles Falkland</td><td>6 septembre</td><td>1957</td><td>6 septembre</td><td>1957</td></tr>
+<tr><td>Île de Man</td><td>30 avril</td><td>1957</td><td>30 avril</td><td>1957</td></tr>
+<tr><td>Îles de la Manche</td><td>30 avril</td><td>1957</td><td>30 avril</td><td>1957</td></tr>
+<tr><td>Îles Falkland</td><td>6 septembre</td><td>1957</td><td>6 septembre</td><td>1957</td></tr>
 <tr><td>Saint-Christophe-et-Nevis (Saint-Kitts et Nevis)</td><td>6 septembre</td><td>1957</td><td>6 septembre</td><td>1957</td></tr>
 <tr><td>Sainte-Hélène</td><td>6 septembre</td><td>1957</td><td>6 septembre</td><td>1957</td></tr>
 <tr><td>Russie</td><td>12 avril</td><td>1957</td><td>30 avril</td><td>1957</td></tr>
@@ -294,7 +289,7 @@ Champ d’application le 4 avril 2017**[^t-2]**
 <tr><td>Sainte-Lucie</td><td>14 février</td><td>1990 S</td><td>22 février</td><td>1979</td></tr>
 <tr><td>Saint-Marin</td><td>29 août</td><td>1967</td><td>29 août</td><td>1967</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>9 novembre</td><td>1981 A</td><td>9 novembre</td><td>1981</td></tr>
-<tr><td>Salomon, Iles</td><td>3 septembre</td><td>1981 S</td><td>7 juillet</td><td>1978</td></tr>
+<tr><td>Salomon, Îles</td><td>3 septembre</td><td>1981 S</td><td>7 juillet</td><td>1978</td></tr>
 <tr><td>Sénégal</td><td>19 juillet</td><td>1979 A</td><td>19 juillet</td><td>1979</td></tr>
 <tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Seychelles</td><td>5 mai</td><td>1992 A</td><td>5 mai</td><td>1992</td></tr>
@@ -319,12 +314,10 @@ Champ d’application le 4 avril 2017**[^t-2]**
 <tr><td>Uruguay</td><td>7 juin</td><td>2001 A</td><td>7 juin</td><td>2001</td></tr>
 <tr><td>Zambie</td><td>26 mars</td><td>1973 S</td><td>24 octobre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>1<sup>er</sup> décembre</td><td>1998 S</td><td>18 avril</td><td>1980</td></tr>
-<tr><td colspan="5"><sup>a</sup> Du 6 sept. 1957 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 10 juin 1999, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Du 27 avril 1999 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. A partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 déc. 1999, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999</td></tr>
-<tr><td colspan="5"><sup>c</sup> Au 1<sup>er</sup> janv. 1986, l’île d’Aruba, qui faisait partie des Antilles néerlandaises, a acquis son autonomie interne au sein du Royaume des Pays-Bas. Ce changement n’affecte que le fonctionnement des relations constitutionnelles internes au sein du Royaume.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 6 sept. 1957 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 10 juin 1999, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 27 avril 1999 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 déc. 1999, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999 <sup>c</sup> Au 1<sup>er</sup> janv. 1986, l’île d’Aruba, qui faisait partie des Antilles néerlandaises, a acquis son autonomie interne au sein du Royaume des Pays-Bas. Ce changement n’affecte que le fonctionnement des relations constitutionnelles internes au sein du Royaume.</td></tr>
 </table>
 
-[^t-2]: [RO 1972 730](https://fedlex.data.admin.ch/eli/oc/1972/721_730_654), [1980 221](https://fedlex.data.admin.ch/eli/oc/1980/221_221_221), [1982 1307](https://fedlex.data.admin.ch/eli/oc/1982/1307_1307_1307), [1984 224](https://fedlex.data.admin.ch/eli/oc/1984/224_224_224), [1986 321](https://fedlex.data.admin.ch/eli/oc/1986/321_321_321), [1987 798](https://fedlex.data.admin.ch/eli/oc/1987/798_798_798), [1991 944](https://fedlex.data.admin.ch/eli/oc/1991/944_944_944), [2005 1147](https://fedlex.data.admin.ch/eli/oc/2005/153), [2008 3745](https://fedlex.data.admin.ch/eli/oc/2008/501), [2017 2481](https://fedlex.data.admin.ch/eli/oc/2017/232). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1972 730](https://fedlex.data.admin.ch/eli/oc/1972/721_730_654); [1980 221](https://fedlex.data.admin.ch/eli/oc/1980/221_221_221); [1982 1307](https://fedlex.data.admin.ch/eli/oc/1982/1307_1307_1307); [1984 224](https://fedlex.data.admin.ch/eli/oc/1984/224_224_224); [1986 321](https://fedlex.data.admin.ch/eli/oc/1986/321_321_321); [1987 798](https://fedlex.data.admin.ch/eli/oc/1987/798_798_798); [1991 944](https://fedlex.data.admin.ch/eli/oc/1991/944_944_944); [2005 1147](https://fedlex.data.admin.ch/eli/oc/2005/153); [2008 3745](https://fedlex.data.admin.ch/eli/oc/2008/501); [2017 2481](https://fedlex.data.admin.ch/eli/oc/2017/232); [2021 579](https://fedlex.data.admin.ch/eli/oc/2021/579). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
 
 Extension de l’application territoriale
 
@@ -333,11 +326,11 @@ Déclarations faites conformément à l’article 12 de la convention supplémen
 <table>
 <tr><th>Extension à</th><th>Déclaration</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Australie Tous territoires non autonomes, sous tutelle et autres territoires non métropolitains que l’Australie représente sur le plan international</td><td>6 janvier</td><td>1958</td><td>6 janvier</td><td>1958</td></tr>
-<tr><td>Etats‑Unis Tous les territoires dont les Etats‑Unis assurent les relations internationales</td><td>6 décembre</td><td>1967</td><td>6 décembre</td><td>1967</td></tr>
+<tr><td>États‑Unis Tous les territoires dont les États‑Unis assurent les relations internationales</td><td>6 décembre</td><td>1967</td><td>6 décembre</td><td>1967</td></tr>
 <tr><td>France Tous les territoires de la République (France métropolitaine, départements et territoires d’outre‑mer)</td><td>26 mai</td><td>1964</td><td>26 mai</td><td>1964</td></tr>
-<tr><td>Royaume-Uni Iles anglo‑normandes Ile de Man</td><td>30 avril</td><td>1957</td><td>30 avril</td><td>1957</td></tr>
-<tr><td>Bermudes, Brunéi, Iles Falkland, Gibraltar, Belize, HongKong, Montserrat, St‑Kitts et Nevis, Ste‑Hélène, Iles Vierges</td><td>6 septembre</td><td>1957</td><td>6 septembre</td><td>1957</td></tr>
+<tr><td>Royaume-Uni Îles anglo‑normandes Île de Man</td><td>30 avril</td><td>1957</td><td>30 avril</td><td>1957</td></tr>
+<tr><td>Bermudes, Brunéi, Iles Falkland, Gibraltar, Belize, HongKong, Montserrat, St‑Kitts et Nevis, Ste‑Hélène, Îles Vierges</td><td>6 septembre</td><td>1957</td><td>6 septembre</td><td>1957</td></tr>
 <tr><td>Tonga</td><td>18 octobre</td><td>1957</td><td>18 octobre</td><td>1957</td></tr>
-<tr><td>Nouvelle‑Zélande Iles Cook (y compris Nioué) et Iles Tokelau</td><td>26 avril</td><td>1962</td><td>26 avril</td><td>1962</td></tr>
+<tr><td>Nouvelle‑Zélande Îles Cook (y compris Nioué) et Îles Tokelau</td><td>26 avril</td><td>1962</td><td>26 avril</td><td>1962</td></tr>
 <tr><td>Pays‑Bas Antilles néerlandaises</td><td>3 décembre</td><td>1957</td><td>3 décembre</td><td>1957</td></tr>
 </table>

@@ -3,28 +3,26 @@ sr: "0.311.371"
 title: "Accordo addizionale del 7 settembre 1956 concernente l'abolizione della schiavitù, della tratta degli schiavi e delle istituzioni e pratiche analoghe alla schiavitù"
 eli: "https://fedlex.data.admin.ch/eli/cc/1965/135_138_138"
 language: it
-version: 2017-04-04
+version: 2021-09-22
 adopted: 1956-09-07
 in_force: 1964-07-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/135_138_138/20170404/it/xml/fedlex-data-admin-ch-eli-cc-1965-135_138_138-20170404-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1965/135_138_138/20170404/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/135_138_138/20210922/it/xml/fedlex-data-admin-ch-eli-cc-1965-135_138_138-20210922-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/135_138_138/20210922/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo addizionale concernente l’abolizione della schiavitù, della tratta degli schiavi e delle istituzioni e pratiche analoghe alla schiavitù
 
-0.311.371 (Stato 4 aprile 2017)Nicht löschen bitte "[^t-1] " !!
+RU **1965** 138; FF **1963** 1953
 
-Traduzione*[^t-2]*
+Traduzione
 
-Conchiuso a Ginevra il 7 settembre 1956 Approvato dall’Assemblea federale il 17 giugno 1964[^t-3] Istrumento d’adesione depositato dalla Svizzera il 28 luglio 1964 Entrato in vigore per la Svizzera il 28 luglio 1964
+Conchiuso a Ginevra il 7 settembre 1956 Approvato dall’Assemblea federale il 17 giugno 1964[^t-1] Istrumento d’adesione depositato dalla Svizzera il 28 luglio 1964 Entrato in vigore per la Svizzera il 28 luglio 1964
 
-(Stato 4 aprile 2017)
+(Stato 22 settembre 2021)
 
-[^t-1]: [RU 1965 138](https://fedlex.data.admin.ch/eli/oc/1965/135_138_138); FF **1963** 1953
-[^t-2]: Dal testo originale francese.
-[^t-3]: [RU 1965 137](https://fedlex.data.admin.ch/eli/oc/1965/133_137_137)
+[^t-1]: [RU 1965 137](https://fedlex.data.admin.ch/eli/oc/1965/133_137_137)
 
 *Preambolo*
 
@@ -46,9 +44,9 @@ avendo quindi risolto doversi aggiungere alla Convenzione del 1926, tuttora in v
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.311.37](https://fedlex.data.admin.ch/eli/cc/46/696_714_724)
-[^ingress-3]: [RS 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.311.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1300)
+[^ingress-3]: [RS 0.822.713.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3613)
 
 ## Parte 1 Istituzioni e pratiche analoghe alla schiavitù
 
@@ -167,7 +165,7 @@ Il presente Accordo, i cui testi inglese, cinese, spagnolo, francese e russo fan
 
 (Seguono le firme)
 
-Campo d’applicazione il 4 aprile 2017**[^t-4]**
+Campo d’applicazione il 22 settembre 2021[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -178,7 +176,7 @@ Campo d’applicazione il 4 aprile 2017**[^t-4]**
 <tr><td>Arabia Saudita</td><td>5 luglio</td><td>1973 A</td><td>5 luglio</td><td>1973</td></tr>
 <tr><td>Argentina</td><td>13 agosto</td><td>1964 A</td><td>13 agosto</td><td>1964</td></tr>
 <tr><td>Australia</td><td>6 gennaio</td><td>1958</td><td>6 gennaio</td><td>1958</td></tr>
-<tr><td>[tab] Tutti i territori non autonomi, sotto tutela ed altri territori non metropolitani che l’Australia rappresenta sul piano internazionale</td><td>6 gennaio</td><td>1958</td><td>6 gennaio</td><td>1958</td></tr>
+<tr><td>Tutti i territori non autonomi, sotto tutela ed altri territori non metropolitani che l’Australia rappresenta sul piano internazionale</td><td>6 gennaio</td><td>1958</td><td>6 gennaio</td><td>1958</td></tr>
 <tr><td>Austria</td><td>7 ottobre</td><td>1963 A</td><td>7 ottobre</td><td>1963</td></tr>
 <tr><td>Azerbaigian</td><td>16 agosto</td><td>1996 A</td><td>16 agosto</td><td>1996</td></tr>
 <tr><td>Bahamas</td><td>10 giugno</td><td>1976 S</td><td>10 luglio</td><td>1973</td></tr>
@@ -215,7 +213,7 @@ Campo d’applicazione il 4 aprile 2017**[^t-4]**
 <tr><td>Filippine</td><td>17 novembre</td><td>1964 A</td><td>17 novembre</td><td>1964</td></tr>
 <tr><td>Finlandia</td><td>1° aprile</td><td>1959 A</td><td>1° aprile</td><td>1959</td></tr>
 <tr><td>Francia</td><td>26 maggio</td><td>1964</td><td>26 maggio</td><td>1964</td></tr>
-<tr><td>[tab] Tutti i territori della Repubblica francese</td><td>26 maggio</td><td>1964</td><td>26 maggio</td><td>1964</td></tr>
+<tr><td>Tutti i territori della Repubblica francese</td><td>26 maggio</td><td>1964</td><td>26 maggio</td><td>1964</td></tr>
 <tr><td>Germania</td><td>14 gennaio</td><td>1959</td><td>14 gennaio</td><td>1959</td></tr>
 <tr><td>Ghana</td><td>3 maggio</td><td>1963 A</td><td>3 maggio</td><td>1963</td></tr>
 <tr><td>Giamaica</td><td>30 luglio</td><td>1964 S</td><td>6 agosto</td><td>1962</td></tr>
@@ -230,7 +228,7 @@ Campo d’applicazione il 4 aprile 2017**[^t-4]**
 <tr><td>Iraq</td><td>30 settembre</td><td>1963</td><td>30 settembre</td><td>1963</td></tr>
 <tr><td>Irlanda</td><td>18 settembre</td><td>1961 A</td><td>18 settembre</td><td>1961</td></tr>
 <tr><td>Islanda</td><td>17 novembre</td><td>1965 A</td><td>17 novembre</td><td>1965</td></tr>
-<tr><td>Israele</td><td>23 ottobre</td><td>1957</td><td>23 ottobre</td><td>1957</td></tr>
+<tr><td>Israele\*</td><td>23 ottobre</td><td>1957</td><td>23 ottobre</td><td>1957</td></tr>
 <tr><td>Italia</td><td>12 febbraio</td><td>1958</td><td>12 febbraio</td><td>1958</td></tr>
 <tr><td>Kazakistan</td><td>1° maggio</td><td>2008 A</td><td>1° maggio</td><td>2008</td></tr>
 <tr><td>Kirghizistan</td><td>5 settembre</td><td>1997 A</td><td>5 settembre</td><td>1997</td></tr>
@@ -240,7 +238,7 @@ Campo d’applicazione il 4 aprile 2017**[^t-4]**
 <tr><td>Lettonia</td><td>14 aprile</td><td>1992 A</td><td>14 aprile</td><td>1992</td></tr>
 <tr><td>Libia</td><td>16 maggio</td><td>1989 A</td><td>16 maggio</td><td>1989</td></tr>
 <tr><td>Lussemburgo</td><td>1° maggio</td><td>1967</td><td>1° maggio</td><td>1967</td></tr>
-<tr><td>Macedonia</td><td>18 gennaio</td><td>1994 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>18 gennaio</td><td>1994 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>29 febbraio</td><td>1972 A</td><td>29 febbraio</td><td>1972</td></tr>
 <tr><td>Malawi</td><td>2 agosto</td><td>1965 A</td><td>2 agosto</td><td>1965</td></tr>
 <tr><td>Malaysia</td><td>18 novembre</td><td>1957 A</td><td>18 novembre</td><td>1957</td></tr>
@@ -262,11 +260,12 @@ Campo d’applicazione il 4 aprile 2017**[^t-4]**
 <tr><td>Niue</td><td>26 aprile</td><td>1962</td><td>26 aprile</td><td>1962</td></tr>
 <tr><td>Tokelau</td><td>26 aprile</td><td>1962</td><td>26 aprile</td><td>1962</td></tr>
 <tr><td>Paesi Bassi</td><td>3 dicembre</td><td>1957</td><td>3 dicembre</td><td>1957</td></tr>
-<tr><td>[tab] Aruba <sup>c</sup></td><td>3 dicembre</td><td>1957</td><td>3 dicembre</td><td>1957</td></tr>
-<tr><td>[tab] Curaçao</td><td>3 dicembre</td><td>1957</td><td>3 dicembre</td><td>1957</td></tr>
-<tr><td>[tab] Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>3 dicembre</td><td>1957</td><td>3 dicembre</td><td>1957</td></tr>
-<tr><td>[tab] Sint Maarten</td><td>3 dicembre</td><td>1957</td><td>3 dicembre</td><td>1957</td></tr>
+<tr><td>Aruba <sup>c</sup></td><td>3 dicembre</td><td>1957</td><td>3 dicembre</td><td>1957</td></tr>
+<tr><td>Curaçao</td><td>3 dicembre</td><td>1957</td><td>3 dicembre</td><td>1957</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>3 dicembre</td><td>1957</td><td>3 dicembre</td><td>1957</td></tr>
+<tr><td>Sint Maarten</td><td>3 dicembre</td><td>1957</td><td>3 dicembre</td><td>1957</td></tr>
 <tr><td>Pakistan</td><td>20 marzo</td><td>1958</td><td>20 marzo</td><td>1958</td></tr>
+<tr><td>Palestina</td><td>22 marzo</td><td>2018 A</td><td>22 marzo</td><td>2018</td></tr>
 <tr><td>Paraguay</td><td>27 settembre</td><td>2007 A</td><td>27 settembre</td><td>2007</td></tr>
 <tr><td>Polonia</td><td>10 gennaio</td><td>1963</td><td>10 gennaio</td><td>1963</td></tr>
 <tr><td>Portogallo</td><td>10 agosto</td><td>1959</td><td>10 agosto</td><td>1959</td></tr>
@@ -276,7 +275,7 @@ Campo d’applicazione il 4 aprile 2017**[^t-4]**
 <tr><td>Isola di Man</td><td>30 aprile</td><td>1957</td><td>30 aprile</td><td>1957</td></tr>
 <tr><td>Isole del Canale</td><td>30 aprile</td><td>1957</td><td>30 aprile</td><td>1957</td></tr>
 <tr><td>Isole Falkland</td><td>6 settembre</td><td>1957</td><td>6 settembre</td><td>1957</td></tr>
-<tr><td>[tab] San Cristoforo e Nevis (Saint-Kitts e Nevis)</td><td>6 settembre</td><td>1957</td><td>6 settembre</td><td>1957</td></tr>
+<tr><td>San Cristoforo e Nevis (Saint-Kitts e Nevis)</td><td>6 settembre</td><td>1957</td><td>6 settembre</td><td>1957</td></tr>
 <tr><td>Sant’Elena</td><td>6 settembre</td><td>1957</td><td>6 settembre</td><td>1957</td></tr>
 <tr><td>Rep. Centrafricana</td><td>30 dicembre</td><td>1970 A</td><td>30 dicembre</td><td>1970</td></tr>
 <tr><td>Romania</td><td>13 novembre</td><td>1957</td><td>13 novembre</td><td>1957</td></tr>
@@ -296,8 +295,8 @@ Campo d’applicazione il 4 aprile 2017**[^t-4]**
 <tr><td>Slovenia</td><td>6 luglio</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
 <tr><td>Spagna</td><td>21 novembre</td><td>1967 A</td><td>21 novembre</td><td>1967</td></tr>
 <tr><td>Sri Lanka</td><td>21 marzo</td><td>1958</td><td>21 marzo</td><td>1958</td></tr>
-<tr><td>Stati Uniti</td><td>6 dicembre</td><td>1967 A</td><td>6 dicembre</td><td>1967</td></tr>
-<tr><td>[tab] Tutti i territori di cui gli Stati Uniti garantiscono le relazioni internazionali</td><td>6 dicembre</td><td>1967</td><td>6 dicembre</td><td>1967</td></tr>
+<tr><td>Stati Uniti\*</td><td>6 dicembre</td><td>1967 A</td><td>6 dicembre</td><td>1967</td></tr>
+<tr><td>Tutti i territori di cui gli Stati Uniti garantiscono le relazioni internazionali</td><td>6 dicembre</td><td>1967</td><td>6 dicembre</td><td>1967</td></tr>
 <tr><td>Sudan</td><td>9 settembre</td><td>1957</td><td>9 settembre</td><td>1957</td></tr>
 <tr><td>Suriname</td><td>12 ottobre</td><td>1979 S</td><td>25 novembre</td><td>1975</td></tr>
 <tr><td>Svezia</td><td>28 ottobre</td><td>1959 A</td><td>28 ottobre</td><td>1959</td></tr>
@@ -315,12 +314,10 @@ Campo d’applicazione il 4 aprile 2017**[^t-4]**
 <tr><td>Uruguay</td><td>7 giugno</td><td>2001 A</td><td>7 giugno</td><td>2001</td></tr>
 <tr><td>Zambia</td><td>26 marzo</td><td>1973 S</td><td>24 ottobre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>1° dicembre</td><td>1998 S</td><td>18 aprile</td><td>1980</td></tr>
-<tr><td colspan="5"><sup>a</sup> Dal 6 set. 1957 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 10 giu. 1999, la Conv. è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Dal 27 apr. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Il 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 dic. 1999, la Conv. è applicabile dal 20 dic. 1999 anche alla RAS Macao.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Il 1° gen. 1986 l’isola di Aruba, che faceva parte delle Antille olandesi, ha ottenuto l’autonomia interna in seno al Regno dei Paesi Bassi. Questo cambiamento ha effetti unicamente sulle relazioni di diritto costituzionale interne al Regno.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in francese ed in inglese si possono consultare sul sito internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org) o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> Dal 6 set. 1957 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 10 giu. 1999, la Conv. è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong. <sup>b</sup> Dal 27 apr. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Il 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 dic. 1999, la Conv. è applicabile dal 20 dic. 1999 anche alla RAS Macao. <sup>c</sup> Il 1° gen. 1986 l’isola di Aruba, che faceva parte delle Antille olandesi, ha ottenuto l’autonomia interna in seno al Regno dei Paesi Bassi. Questo cambiamento ha effetti unicamente sulle relazioni di diritto costituzionale interne al Regno.</td></tr>
 </table>
 
-[^t-4]: [RU 1972 654](https://fedlex.data.admin.ch/eli/oc/1972/721_730_654), [1980 221](https://fedlex.data.admin.ch/eli/oc/1980/221_221_221), [1982 1307](https://fedlex.data.admin.ch/eli/oc/1982/1307_1307_1307), [1984 224](https://fedlex.data.admin.ch/eli/oc/1984/224_224_224), [1986 321](https://fedlex.data.admin.ch/eli/oc/1986/321_321_321), **198**[7 798](https://fedlex.data.admin.ch/eli/oc/7/798_723_798), [1991 944](https://fedlex.data.admin.ch/eli/oc/1991/944_944_944), [2005 1147](https://fedlex.data.admin.ch/eli/oc/2005/153), [2008 3745](https://fedlex.data.admin.ch/eli/oc/2008/501)e [2017 2481](https://fedlex.data.admin.ch/eli/oc/2017/232). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: **1965** 138; **1972** 654; **1980** 221, **1982** 1307; **1984** 224; **1986** 321; **1987** 798; **1991** 944; **2005** 1147; **2008** 3745; **2017** 2481; **2021** 579. Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
 
 Estensione dell’applicazione territoriale
 

@@ -3,11 +3,11 @@ sr: "0.311.371"
 title: "Zusatzübereinkommen vom 7. September 1956 über die Abschaffung der Sklaverei, des Sklavenhandels und sklavereiähnlicher Einrichtungen und Praktiken"
 eli: "https://fedlex.data.admin.ch/eli/cc/1965/135_138_138"
 language: de
-version: 2017-04-04
+version: 2021-09-22
 adopted: 1956-09-07
 in_force: 1964-07-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/135_138_138/20170404/de/xml/fedlex-data-admin-ch-eli-cc-1965-135_138_138-20170404-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1965/135_138_138/20170404/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/135_138_138/20210922/de/xml/fedlex-data-admin-ch-eli-cc-1965-135_138_138-20210922-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/135_138_138/20210922/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1965/135_138_138/20170404/de"
 
 AS **1965** 135; BBl **1963** II 1523
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Genf am 7. September 1956
+Abgeschlossen in Genf am 7. September 1956 Von der Bundesversammlung genehmigt am 17. Juni 1964[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 28. Juli 1964 In Kraft getreten für die Schweiz am 28. Juli 1964
 
-Von der Bundesversammlung genehmigt am 17. Juni 1964[^t-2]
+(Stand am 22. September 2021)
 
-Schweizerische Beitrittsurkunde hinterlegt am 28. Juli 1964
-
-In Kraft getreten für die Schweiz am 28. Juli 1964
-
-(Stand am 4. April 2017)
-
-[^t-1]: Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-2]: [AS 1965 133](https://fedlex.data.admin.ch/eli/oc/1965/133_137_137)
+[^t-1]: [AS 1965 133](https://fedlex.data.admin.ch/eli/oc/1965/133_137_137)
 
 *Präambel*
 
@@ -51,9 +44,9 @@ haben daher beschlossen, das Abkommen von 1926, das in Kraft bleibt, nunmehr dur
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.311.37](https://fedlex.data.admin.ch/eli/cc/46/696_714_724)
-[^ingress-3]: [SR 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.311.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1300)
+[^ingress-3]: [SR 0.822.713.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3613)
 
 ## Teil I Sklavereiähnliche Einrichtungen und Praktiken
 
@@ -167,7 +160,7 @@ Dieses Übereinkommen, dessen chinesischer, englischer, französischer, russisch
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig bevollmächtigten Unterzeichneten dieses Übereinkommen an dem neben ihrer Unterschrift jeweils vermerkten Tage unterschrieben. Geschehen am Europäischen Sitz der Vereinten Nationen in Genf, am siebten September eintausendneunhundertsechsundfünfzig. (Es folgen die Unterschriften)
 
-Geltungsbereich am 4. April 2017**[^t-3]**
+Geltungsbereich am 22. September 2021[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -216,7 +209,7 @@ Geltungsbereich am 4. April 2017**[^t-3]**
 <tr><td>Iran</td><td>30. Dezember</td><td>1959 B</td><td>30. Dezember</td><td>1959</td></tr>
 <tr><td>Irland</td><td>18. September</td><td>1961 B</td><td>18. September</td><td>1961</td></tr>
 <tr><td>Island</td><td>17. November</td><td>1965 B</td><td>17. November</td><td>1965</td></tr>
-<tr><td>Israel</td><td>23. Oktober</td><td>1957</td><td>23. Oktober</td><td>1957</td></tr>
+<tr><td>Israel\*</td><td>23. Oktober</td><td>1957</td><td>23. Oktober</td><td>1957</td></tr>
 <tr><td>Italien</td><td>12. Februar</td><td>1958</td><td>12. Februar</td><td>1958</td></tr>
 <tr><td>Jamaika</td><td>30. Juli</td><td>1964 N</td><td>6. August</td><td>1962</td></tr>
 <tr><td>Jordanien</td><td>27. September</td><td>1957 B</td><td>27. September</td><td>1957</td></tr>
@@ -243,7 +236,6 @@ Geltungsbereich am 4. April 2017**[^t-3]**
 <tr><td>Marokko</td><td>11. Mai</td><td>1959 B</td><td>11. Mai</td><td>1959</td></tr>
 <tr><td>Mauretanien</td><td>6. Juni</td><td>1986 B</td><td>6. Juni</td><td>1986</td></tr>
 <tr><td>Mauritius</td><td>18. Juli</td><td>1969 N</td><td>12. März</td><td>1968</td></tr>
-<tr><td>Mazedonien</td><td>18. Januar</td><td>1994 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Mexiko</td><td>30. Juni</td><td>1959</td><td>30. Juni</td><td>1959</td></tr>
 <tr><td>Mongolei</td><td>20. Dezember</td><td>1968 B</td><td>20. Dezember</td><td>1968</td></tr>
 <tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
@@ -260,9 +252,11 @@ Geltungsbereich am 4. April 2017**[^t-3]**
 <tr><td>Sint Maarten</td><td>3. Dezember</td><td>1957</td><td>3. Dezember</td><td>1957</td></tr>
 <tr><td>Niger</td><td>22. Juli</td><td>1963 B</td><td>22. Juli</td><td>1963</td></tr>
 <tr><td>Nigeria</td><td>26. Juni</td><td>1961 N</td><td>1. Oktober</td><td>1960</td></tr>
+<tr><td>Nordmazedonien</td><td>18. Januar</td><td>1994 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>3. Mai</td><td>1960</td><td>3. Mai</td><td>1960</td></tr>
 <tr><td>Österreich</td><td>7. Oktober</td><td>1963 B</td><td>7. Oktober</td><td>1963</td></tr>
 <tr><td>Pakistan</td><td>20. März</td><td>1958</td><td>20. März</td><td>1958</td></tr>
+<tr><td>Palästina</td><td>22. März</td><td>2018 B</td><td>22. März</td><td>2018</td></tr>
 <tr><td>Paraguay</td><td>27. September</td><td>2007 B</td><td>27. September</td><td>2007</td></tr>
 <tr><td>Philippinen</td><td>17. November</td><td>1964 B</td><td>17. November</td><td>1964</td></tr>
 <tr><td>Polen</td><td>10. Januar</td><td>1963</td><td>10. Januar</td><td>1963</td></tr>
@@ -303,7 +297,7 @@ Geltungsbereich am 4. April 2017**[^t-3]**
 <tr><td>Ungarn</td><td>26. Februar</td><td>1958</td><td>26. Februar</td><td>1958</td></tr>
 <tr><td>Uruguay</td><td>7. Juni</td><td>2001 B</td><td>7. Juni</td><td>2001</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>17. April</td><td>1958 B</td><td>17. April</td><td>1958</td></tr>
-<tr><td>Vereinigte Staaten</td><td>6. Dezember</td><td>1967 B</td><td>6. Dezember</td><td>1967</td></tr>
+<tr><td>Vereinigte Staaten\*</td><td>6. Dezember</td><td>1967 B</td><td>6. Dezember</td><td>1967</td></tr>
 <tr><td>Alle Gebiete, deren internationale Beziehungen von den Vereinigten Staaten wahrgenommen werden</td><td>6. Dezember</td><td>1967</td><td>6. Dezember</td><td>1967</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>30. April</td><td>1957</td><td>30. April</td><td>1957</td></tr>
 <tr><td>Bermudas</td><td>6. September</td><td>1957</td><td>6. September</td><td>1957</td></tr>
@@ -315,12 +309,10 @@ Geltungsbereich am 4. April 2017**[^t-3]**
 <tr><td>St. Helena</td><td>6. September</td><td>1957</td><td>6. September</td><td>1957</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>30. Dezember</td><td>1970 B</td><td>30. Dezember</td><td>1970</td></tr>
 <tr><td>Zypern</td><td>11. Mai</td><td>1962 N</td><td>16. August</td><td>1960</td></tr>
-<tr><td colspan="5"><sup>a</sup> Vom 6. Sept. 1957 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erkl. vom 10. Juni 1999 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Vom 27. April 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erkl. vom 13. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Am 1. Jan. 1986 erhielt die Insel Aruba, die ein Teil der Niederländischen Antillen war, die innere Autonomie innerhalb des Königreichs der Niederlande. Diese Änderung betrifft nur die internen verfassungsrechtlichen Beziehungen innerhalb des Königreichs der Niederlande.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 6. Sept. 1957 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erkl. vom 10. Juni 1999 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 27. April 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erkl. vom 13. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Am 1. Jan. 1986 erhielt die Insel Aruba, die ein Teil der Niederländischen Antillen war, die innere Autonomie innerhalb des Königreichs der Niederlande. Diese Änderung betrifft nur die internen verfassungsrechtlichen Beziehungen innerhalb des Königreichs der Niederlande.</td></tr>
 </table>
 
-[^t-3]: [AS 1972 721](https://fedlex.data.admin.ch/eli/oc/1972/721_730_654), [1980 221](https://fedlex.data.admin.ch/eli/oc/1980/221_221_221),[1982 1307](https://fedlex.data.admin.ch/eli/oc/1982/1307_1307_1307), [1984 224](https://fedlex.data.admin.ch/eli/oc/1984/224_224_224), [1986 321](https://fedlex.data.admin.ch/eli/oc/1986/321_321_321), [1987 798](https://fedlex.data.admin.ch/eli/oc/1987/798_798_798), [1991 944](https://fedlex.data.admin.ch/eli/oc/1991/944_944_944), [2005 1147](https://fedlex.data.admin.ch/eli/oc/2005/153), [2008 3745](https://fedlex.data.admin.ch/eli/oc/2008/501)und [2017 2481](https://fedlex.data.admin.ch/eli/oc/2017/232). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1965 135](https://fedlex.data.admin.ch/eli/oc/1965/135_138_138); [1972 721](https://fedlex.data.admin.ch/eli/oc/1972/721_730_654); [1980 221](https://fedlex.data.admin.ch/eli/oc/1980/221_221_221), [1982 1307](https://fedlex.data.admin.ch/eli/oc/1982/1307_1307_1307); [1984 224](https://fedlex.data.admin.ch/eli/oc/1984/224_224_224); [1986 321](https://fedlex.data.admin.ch/eli/oc/1986/321_321_321); [1987 798](https://fedlex.data.admin.ch/eli/oc/1987/798_798_798); [1991 944](https://fedlex.data.admin.ch/eli/oc/1991/944_944_944); [2005 1147](https://fedlex.data.admin.ch/eli/oc/2005/153); [2008 3745](https://fedlex.data.admin.ch/eli/oc/2008/501); [2017 2481](https://fedlex.data.admin.ch/eli/oc/2017/232); [2021 579](https://fedlex.data.admin.ch/eli/oc/2021/579). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.
 
 Erweiterung des territorialen Geltungsbereiches
 
@@ -333,7 +325,7 @@ Erklärungen gemäss Artikel 12 des Zusatzübereinkommens
 <tr><td>Frankreich</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Alle Gebiete der Französischen Republik (französisches Mutterland, überseeische Departemente und Gebiete)</td><td>26. Mai</td><td>1964</td><td>26. Mai</td><td>1964</td></tr>
 <tr><td>Neuseeland</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Cook‑Inseln, Niue- und Tokelau‑Inseln</td><td>26. April</td><td>1962</td><td>26. April</td><td>1962</td></tr>
+<tr><td>Cook‑Inseln, Niue- und Tokelau‑Inseln</td><td>26. April</td><td>1962</td><td>26. April</td><td>962</td></tr>
 <tr><td>Niederlande</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Niederl. Antillen</td><td>3. Dezember</td><td>1957</td><td>3. Dezember</td><td>1957</td></tr>
 <tr><td>Vereinigte Staaten</td><td></td><td></td><td></td><td></td></tr>
