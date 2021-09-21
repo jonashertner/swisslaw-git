@@ -3,11 +3,11 @@ sr: "0.191.011"
 title: "Protocollo di firma facoltativa del 18 aprile 1961 alla Convenzione di Vienna sulle relazioni diplomatiche, concernente il regolamento obbligatorio delle controversie"
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/451_447_447"
 language: it
-version: 2016-07-21
+version: 2021-09-22
 adopted: 1961-04-18
 in_force: 1964-04-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/451_447_447/20160721/it/xml/fedlex-data-admin-ch-eli-cc-1964-451_447_447-20160721-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/451_447_447/20160721/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/451_447_447/20210922/it/xml/fedlex-data-admin-ch-eli-cc-1964-451_447_447-20210922-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/451_447_447/20210922/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,16 +16,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/1964/451_447_447/20160721/it"
 
 RU **1964** 447; FF **1963** 1241 ediz. ted. 245 ediz. franc.
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiuso a Vienna il 18 aprile 1961 Approvato dall’Assemblea federale il 21 giugno 1963[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 22 novembre 1963 Entrato in vigore per la Svizzera il 24 aprile 1964
+Conchiuso a Vienna il 18 aprile 1961 Approvato dall’Assemblea federale il 21 giugno 1963[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 22 novembre 1963 Entrato in vigore per la Svizzera il 24 aprile 1964
 
-(Stato 21 luglio 2016)
+(Stato 22 settembre 2021)
 
-[^t-1]: Dal testo originale francese.
-[^t-2]: [RU 1964 429](https://fedlex.data.admin.ch/eli/oc/1964/433_429_429)
+[^t-1]: [RU 1964 429](https://fedlex.data.admin.ch/eli/oc/1964/433_429_429)
 
-Gli Stati parte al presente Protocollo e alla Convenzione di Vienna sulle relazioni diplomatiche*[^ingress-1]*,
+Gli Stati parte al presente Protocollo e alla Convenzione di Vienna sulle relazioni diplomatiche[^ingress-1],
 
 chiamata appresso «Convenzione», approvata dalla Conferenza delle Nazioni Unite tenuta a Vienna dal 2 marzo al 14 aprile 1961,
 
@@ -33,7 +32,7 @@ desiderosi di fare capo, per quanto li concerne, alla giurisdizione della Corte 
 
 hanno convenuto:
 
-[^ingress-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^ingress-1]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
 
 #### Art. I
 
@@ -85,7 +84,7 @@ L’originale del presente Protocollo, i cui testi inglese, cinese, spagnolo, fr
 
 *In fede di che,* i plenipotenziari sottoscritti, a ciò debitamente autorizzati dai loro governi, hanno firmato il presente Protocollo. Fatto a Vienna, il diciotto aprile millenovecentosessantuno. (Seguono le firme)
 
-Campo d’applicazione il 21 luglio 2016**[^t-3]**
+Campo d’applicazione il 22 settembre 2021[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -126,7 +125,7 @@ Campo d’applicazione il 21 luglio 2016**[^t-3]**
 <tr><td>Liechtenstein</td><td>8 maggio</td><td>1964</td><td>7 giugno</td><td>1964</td></tr>
 <tr><td>Lituania</td><td>26 settembre</td><td>2012 A</td><td>26 ottobre</td><td>2012</td></tr>
 <tr><td>Lussemburgo</td><td>17 agosto</td><td>1966</td><td>16 settembre</td><td>1966</td></tr>
-<tr><td>Macedonia<sup>\*</sup></td><td>18 agosto</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord<sup>\*</sup></td><td>18 agosto</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>31 luglio</td><td>1963 A</td><td>24 aprile</td><td>1964</td></tr>
 <tr><td>Malawi</td><td>29 aprile</td><td>1980 A</td><td>29 maggio</td><td>1980</td></tr>
 <tr><td>Malaysia</td><td>9 novembre</td><td>1965 A</td><td>9 dicembre</td><td>1965</td></tr>
@@ -142,6 +141,7 @@ Campo d’applicazione il 21 luglio 2016**[^t-3]**
 <tr><td>Oman</td><td>31 maggio</td><td>1974 A</td><td>30 giugno</td><td>1974</td></tr>
 <tr><td>Paesi Bassi</td><td>7 settembre</td><td>1984 A</td><td>7 ottobre</td><td>1984</td></tr>
 <tr><td>Pakistan</td><td>29 marzo</td><td>1976 A</td><td>28 aprile</td><td>1976</td></tr>
+<tr><td>Palestina</td><td>22 marzo</td><td>2018 A</td><td>21 aprile</td><td>2018</td></tr>
 <tr><td>Panama</td><td>4 dicembre</td><td>1963 A</td><td>24 aprile</td><td>1964</td></tr>
 <tr><td>Paraguay</td><td>23 dicembre</td><td>1969 A</td><td>22 gennaio</td><td>1970</td></tr>
 <tr><td>Regno Unito</td><td>1° settembre</td><td>1964</td><td>1° ottobre</td><td>1964</td></tr>
@@ -153,13 +153,12 @@ Campo d’applicazione il 21 luglio 2016**[^t-3]**
 <tr><td>Slovenia</td><td>6 luglio</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
 <tr><td>Spagna</td><td>21 settembre</td><td>2011 A</td><td>21 ottobre</td><td>2011</td></tr>
 <tr><td>Sri Lanka</td><td>31 luglio</td><td>1978 A</td><td>30 agosto</td><td>1978</td></tr>
-<tr><td>Stati Uniti</td><td>13 novembre</td><td>1972</td><td>13 dicembre</td><td>1972</td></tr>
 <tr><td>Suriname</td><td>28 ottobre</td><td>1992 A</td><td>27 novembre</td><td>1992</td></tr>
 <tr><td>Svezia</td><td>21 marzo</td><td>1967</td><td>20 aprile</td><td>1967</td></tr>
 <tr><td>Svizzera</td><td>22 novembre</td><td>1963</td><td>24 aprile</td><td>1964</td></tr>
 <tr><td>Tanzania</td><td>5 novembre</td><td>1962</td><td>24 aprile</td><td>1964</td></tr>
 <tr><td>Ungheria</td><td>8 dicembre</td><td>1989 A</td><td>7 gennaio</td><td>1990</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. <sup>Le riserve e le dichiarazioni non sono pubblicate nella RU.</sup> <sup>Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</sup></td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. <sup>Le riserve e le dichiarazioni non sono pubblicate nella RU.</sup> <sup>Il testo, francese ed inglese, può essere</sup> <sup>consultato sul sito Internet</sup> <sup>dell’Organizzazione delle Nazioni Unite:</sup> [http://treaties.un.org](http://treaties.un.org) <sup>oppure ottenuto presso la</sup> <sup>Direzione del diritto internazionale</sup> <sup>pubblico (DDIP), Sezione Trattati</sup> <sup>internazionali, 3003 Berna.</sup></td></tr>
 </table>
 
-[^t-3]: [RU 1974 1239](https://fedlex.data.admin.ch/eli/oc/1974/1239_1239_1239), [1976 1463](https://fedlex.data.admin.ch/eli/oc/1976/1463_1463_1463), [1977 1408](https://fedlex.data.admin.ch/eli/oc/1977/1408_1408_1408), [1979 558](https://fedlex.data.admin.ch/eli/oc/1979/558_558_558), [1981 2061](https://fedlex.data.admin.ch/eli/oc/1981/2061_2061_2061), [1984 1537](https://fedlex.data.admin.ch/eli/oc/1984/1537_1537_1537), [1991 897](https://fedlex.data.admin.ch/eli/oc/1991/897_897_897), [1993 2347](https://fedlex.data.admin.ch/eli/oc/1993/2347_2347_2347), [2003 2501](https://fedlex.data.admin.ch/eli/oc/2003/377), [2006 4429](https://fedlex.data.admin.ch/eli/oc/2006/673), [2009 3185](https://fedlex.data.admin.ch/eli/oc/2009/406), [2014 291](https://fedlex.data.admin.ch/eli/oc/2014/47)e [2016 2845](https://fedlex.data.admin.ch/eli/oc/2016/464). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1964 447](https://fedlex.data.admin.ch/eli/oc/1964/451_447_447); [1974 1239](https://fedlex.data.admin.ch/eli/oc/1974/1239_1239_1239); [1976 1463](https://fedlex.data.admin.ch/eli/oc/1976/1463_1463_1463); [1977 1409](https://fedlex.data.admin.ch/eli/oc/1977/1411_1411_1409); [1979 558](https://fedlex.data.admin.ch/eli/oc/1979/558_558_558); [1981 2061](https://fedlex.data.admin.ch/eli/oc/1981/2061_2061_2061); [1984 1537](https://fedlex.data.admin.ch/eli/oc/1984/1537_1537_1537); [1991 897](https://fedlex.data.admin.ch/eli/oc/1991/897_897_897); [1993 2347](https://fedlex.data.admin.ch/eli/oc/1993/2347_2347_2347); [2003 2501](https://fedlex.data.admin.ch/eli/oc/2003/377); [2006 4429](https://fedlex.data.admin.ch/eli/oc/2006/673); [2009 3185](https://fedlex.data.admin.ch/eli/oc/2009/406); [2014 291](https://fedlex.data.admin.ch/eli/oc/2014/47); [2016 2845](https://fedlex.data.admin.ch/eli/oc/2016/464); [2021 572](https://fedlex.data.admin.ch/eli/oc/2021/572). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
