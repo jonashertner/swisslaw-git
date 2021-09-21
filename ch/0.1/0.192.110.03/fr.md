@@ -3,11 +3,11 @@ sr: "0.192.110.03"
 title: Convention du 21 novembre 1947 sur les privilèges et immunités des institutions spécialisées (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/664"
 language: fr
-version: 2017-02-03
+version: 2021-09-22
 adopted: 1947-11-21
 in_force: 2012-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/664/20170203/fr/xml/fedlex-data-admin-ch-eli-cc-2012-664-20170203-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20170203/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/664/20210922/fr/xml/fedlex-data-admin-ch-eli-cc-2012-664-20210922-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20210922/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,13 +24,13 @@ Instrument d’adhésion déposé par la Suisse le 25 septembre 2012
 
 Entrée en vigueur pour la Suisse le 25 septembre 2012
 
-(Etat le 3 février 2017)
+(Etat le 22 septembre 2021)
 
 Considérant que l’Assemblée générale de l’Organisation des Nations Unies a adopté le 13 février 1946 une résolution tendant à l’unification, dans la mesure du possible, des privilèges et immunités dont jouissent l’Organisation des Nations Unies et les différentes institutions spécialisées;
 
 considérant que des consultations ont eu lieu entre l’Organisation des Nations Unies et les institutions spécialisées en vue de donner effet à ladite résolution;
 
-en conséquence, par la résolution 179 (II) adoptée le 21 novembre 1947, l’Assemblée générale a approuvé la Convention ci-après, qui est soumise pour acceptation aux institutions spécialisées, et pour adhésion à tout Membre de l’Organisation des Nations Unies ainsi qu’à tout autre Etat membre d’une ou de plusieurs institutions spécialisées.
+en conséquence, par la résolution 179 (II) adoptée le 21 novembre 1947, l’Assemblée générale a approuvé la Convention ci-après, qui est soumise pour acceptation aux institutions spécialisées, et pour adhésion à tout Membre de l’Organisation des Nations Unies ainsi qu’à tout autre État membre d’une ou de plusieurs institutions spécialisées.
 
 #### Art. I
 
@@ -74,7 +74,7 @@ Aux fins de la présente Convention:
 
 ### Section 2
 
-Tout Etat partie à la présente Convention accordera en ce qui concerne toute institution spécialisée couverte par son adhésion et à laquelle la présente Convention est devenue applicable en vertu de la section 37, les privilèges et immunités prévus par les clauses standard aux conditions qui y sont spécifiées, sous réserve de toutes modifications apportées auxdites clauses par les dispositions du texte final (ou révisé) de l’annexe relative à cette institution, dûment transmise conformément aux sections 36 ou 38.
+Tout État partie à la présente Convention accordera en ce qui concerne toute institution spécialisée couverte par son adhésion et à laquelle la présente Convention est devenue applicable en vertu de la section 37, les privilèges et immunités prévus par les clauses standard aux conditions qui y sont spécifiées, sous réserve de toutes modifications apportées auxdites clauses par les dispositions du texte final (ou révisé) de l’annexe relative à cette institution, dûment transmise conformément aux sections 36 ou 38.
 
 #### Art. II
 
@@ -113,7 +113,7 @@ Sans être astreintes à aucun contrôle, réglementation ou moratoire financier
 
 ### Section 8
 
-Dans l’exercice des droits qui lui sont accordés en vertu de la section 7 ci-dessus, chacune des institutions spécialisées tiendra compte de toutes représentations qui lui seraient faites par le gouvernement de tout Etat partie à la présente Convention dans la mesure où elle estimera pouvoir y donner suite sans porter préjudice à ses propres intérêts.
+Dans l’exercice des droits qui lui sont accordés en vertu de la section 7 ci-dessus, chacune des institutions spécialisées tiendra compte de toutes représentations qui lui seraient faites par le gouvernement de tout État partie à la présente Convention dans la mesure où elle estimera pouvoir y donner suite sans porter préjudice à ses propres intérêts.
 
 ### Section 9
 
@@ -125,7 +125,7 @@ Les institutions spécialisées, leurs avoirs, revenus et autres biens sont:
 
 ### Section 10
 
-Bien que les institutions spécialisées ne revendiquent pas, en règle générale, l’exonération des droits d’accise et des taxes à la vente entrant dans le prix des biens mobiliers ou immobiliers, cependant, quand elles effectuent pour leur usage officiel des achats importants dont le prix comprend des droits et taxes de cette nature, les Etats parties à la présente Convention prendront, chaque fois qu’il leur sera possible, les arrangements administratifs appropriés en vue de la remise ou du remboursement du montant de ces droits et taxes.
+Bien que les institutions spécialisées ne revendiquent pas, en règle générale, l’exonération des droits d’accise et des taxes à la vente entrant dans le prix des biens mobiliers ou immobiliers, cependant, quand elles effectuent pour leur usage officiel des achats importants dont le prix comprend des droits et taxes de cette nature, les États parties à la présente Convention prendront, chaque fois qu’il leur sera possible, les arrangements administratifs appropriés en vue de la remise ou du remboursement du montant de ces droits et taxes.
 
 #### Art. IV
 
@@ -133,7 +133,7 @@ Bien que les institutions spécialisées ne revendiquent pas, en règle généra
 
 ### Section 11
 
-Chacune des institutions spécialisées jouira, pour ses communications officielles, sur le territoire de tout Etat partie à la présente Convention en ce qui concerne cette institution, d’un traitement non moins favorable que le traitement accordé par le gouvernement de cet Etat à tout autre gouvernement, y compris à sa mission diplomatique, en matière de priorités, tarifs et taxes sur le courrier, les câblogrammes, télégrammes, radiotélégrammes, téléphotos, communications téléphoniques et autres communications, ainsi qu’en matière de tarifs de presse pour les informations à la presse et à la radio.
+Chacune des institutions spécialisées jouira, pour ses communications officielles, sur le territoire de tout État partie à la présente Convention en ce qui concerne cette institution, d’un traitement non moins favorable que le traitement accordé par le gouvernement de cet État à tout autre gouvernement, y compris à sa mission diplomatique, en matière de priorités, tarifs et taxes sur le courrier, les câblogrammes, télégrammes, radiotélégrammes, téléphotos, communications téléphoniques et autres communications, ainsi qu’en matière de tarifs de presse pour les informations à la presse et à la radio.
 
 ### Section 12
 
@@ -141,7 +141,7 @@ La correspondance officielle et les autres communications officielles des instit
 
 Les institutions spécialisées auront le droit d’employer des codes ainsi que d’expédier et de recevoir leur correspondance par des courriers ou valises scellées qui jouiront des mêmes privilèges et immunités que les courriers et valises diplomatiques.
 
-La présente section ne pourra en aucune manière être interprétée comme interdisant l’adoption de mesures de sécurité appropriées à déterminer suivant accord entre l’Etat partie à la présente Convention et une institution spécialisée.
+La présente section ne pourra en aucune manière être interprétée comme interdisant l’adoption de mesures de sécurité appropriées à déterminer suivant accord entre l’État partie à la présente Convention et une institution spécialisée.
 
 #### Art. V
 
@@ -172,7 +172,7 @@ Les privilèges et immunités sont accordés aux représentants des membres, non
 
 ### Section 17
 
-Les dispositions des sections 13, 14 et 15 ne sont pas opposables aux autorités de l’Etat dont la personne est ressortissante ou dont elle est ou a été le représentant.
+Les dispositions des sections 13, 14 et 15 ne sont pas opposables aux autorités de l’État dont la personne est ressortissante ou dont elle est ou a été le représentant.
 
 #### Art. VI
 
@@ -180,7 +180,7 @@ Les dispositions des sections 13, 14 et 15 ne sont pas opposables aux autorités
 
 ### Section 18
 
-Chaque institution spécialisée déterminera les catégories de fonctionnaires auxquelles s’appliquent les dispositions du présent article ainsi que celles de l’art. VIII. Elle en donnera communication aux gouvernements de tous les Etats parties à la présente Convention en ce qui concerne ladite institution ainsi qu’au Secrétaire général des Nations Unies. Les noms des fonctionnaires compris dans ces catégories seront communiqués de temps à autre aux gouvernements précités.
+Chaque institution spécialisée déterminera les catégories de fonctionnaires auxquelles s’appliquent les dispositions du présent article ainsi que celles de l’art. VIII. Elle en donnera communication aux gouvernements de tous les États parties à la présente Convention en ce qui concerne ladite institution ainsi qu’au Secrétaire général des Nations Unies. Les noms des fonctionnaires compris dans ces catégories seront communiqués de temps à autre aux gouvernements précités.
 
 ### Section 19
 
@@ -195,9 +195,9 @@ Les fonctionnaires des institutions spécialisées:
 
 ### Section 20
 
-Les fonctionnaires des institutions spécialisées seront exempts de toute obligation relative au service national. Toutefois, cette exemption sera, par rapport aux Etats dont ils sont les ressortissants, limitée à ceux des fonctionnaires des institutions spécialisées qui, en raison de leurs fonctions, auront été nommément désignés sur une liste établie par le directeur général de l’institution spécialisée et approuvée par l’Etat dont ils sont les ressortissants.
+Les fonctionnaires des institutions spécialisées seront exempts de toute obligation relative au service national. Toutefois, cette exemption sera, par rapport aux États dont ils sont les ressortissants, limitée à ceux des fonctionnaires des institutions spécialisées qui, en raison de leurs fonctions, auront été nommément désignés sur une liste établie par le directeur général de l’institution spécialisée et approuvée par l’État dont ils sont les ressortissants.
 
-En cas d’appel au service national d’autres fonctionnaires des institutions spécialisées, l’Etat intéressé accordera, à la demande de l’institution spécialisée, les sursis d’appel qui pourraient être nécessaires en vue d’éviter l’interruption d’un service essentiel.
+En cas d’appel au service national d’autres fonctionnaires des institutions spécialisées, l’État intéressé accordera, à la demande de l’institution spécialisée, les sursis d’appel qui pourraient être nécessaires en vue d’éviter l’interruption d’un service essentiel.
 
 ### Section 21
 
@@ -209,7 +209,7 @@ Les privilèges et immunités sont accordés aux fonctionnaires uniquement dans 
 
 ### Section 23
 
-Chaque institution spécialisée collaborera en tout temps avec les autorités compétentes des Etats membres en vue de faciliter la bonne administration de la justice, d’assurer l’observation des règlements de police et d’éviter tout abus auquel pourraient donner lieu les privilèges, immunités et facilités énumérés au présent article.
+Chaque institution spécialisée collaborera en tout temps avec les autorités compétentes des États membres en vue de faciliter la bonne administration de la justice, d’assurer l’observation des règlements de police et d’éviter tout abus auquel pourraient donner lieu les privilèges, immunités et facilités énumérés au présent article.
 
 #### Art. VII
 
@@ -217,7 +217,7 @@ Chaque institution spécialisée collaborera en tout temps avec les autorités c
 
 ### Section 24
 
-Si un Etat partie à la présente Convention estime qu’il y a eu abus d’un privilège ou d’une immunité accordés par la présente Convention, des consultations auront lieu entre cet Etat et l’institution spécialisée intéressée en vue de déterminer si un tel abus s’est produit et, dans l’affirmative, d’essayer d’en prévenir la répétition. Si de telles consultations n’aboutissent pas à un résultat satisfaisant pour l’Etat et l’institution spécialisée intéressée, la question de savoir s’il y a eu abus d’un privilège ou d’une immunité sera portée devant la Cour internationale de Justice, conformément à la section 32. Si la Cour internationale de Justice constate qu’un tel abus s’est produit, l’Etat partie à la présente Convention et affecté par ledit abus aura le droit, après notification à l’institution spécialisée intéressée, de cesser d’accorder, dans ses rapports avec cette institution, le bénéfice du privilège ou de l’immunité dont il aurait été fait abus.
+Si un État partie à la présente Convention estime qu’il y a eu abus d’un privilège ou d’une immunité accordés par la présente Convention, des consultations auront lieu entre cet État et l’institution spécialisée intéressée en vue de déterminer si un tel abus s’est produit et, dans l’affirmative, d’essayer d’en prévenir la répétition. Si de telles consultations n’aboutissent pas à un résultat satisfaisant pour l’État et l’institution spécialisée intéressée, la question de savoir s’il y a eu abus d’un privilège ou d’une immunité sera portée devant la Cour internationale de Justice, conformément à la section 32. Si la Cour internationale de Justice constate qu’un tel abus s’est produit, l’État partie à la présente Convention et affecté par ledit abus aura le droit, après notification à l’institution spécialisée intéressée, de cesser d’accorder, dans ses rapports avec cette institution, le bénéfice du privilège ou de l’immunité dont il aurait été fait abus.
 
 ### Section 25
 
@@ -234,11 +234,11 @@ Les représentants des membres aux réunions convoquées par les institutions sp
 
 ### Section 26
 
-Les fonctionnaires des institutions spécialisées auront le droit d’utiliser les laissez-passer des Nations Unies, et ce conformément à des arrangements administratifs qui seront négociés entre le Secrétaire général des Nations Unies et les autorités compétentes des institutions spécialisées auxquelles seront délégués les pouvoirs spéciaux de délivrer les laissez-passer. Le Secrétaire général des Nations Unies notifiera à chacun des Etats parties à la présente Convention les arrangements administratifs qui auront été conclus.
+Les fonctionnaires des institutions spécialisées auront le droit d’utiliser les laissez-passer des Nations Unies, et ce conformément à des arrangements administratifs qui seront négociés entre le Secrétaire général des Nations Unies et les autorités compétentes des institutions spécialisées auxquelles seront délégués les pouvoirs spéciaux de délivrer les laissez-passer. Le Secrétaire général des Nations Unies notifiera à chacun des États parties à la présente Convention les arrangements administratifs qui auront été conclus.
 
 ### Section 27
 
-Les laissez-passer des Nations Unies délivrés aux fonctionnaires des institutions spécialisées seront reconnus et acceptés comme titre valable de voyager par les Etats parties à la présente Convention.
+Les laissez-passer des Nations Unies délivrés aux fonctionnaires des institutions spécialisées seront reconnus et acceptés comme titre valable de voyager par les États parties à la présente Convention.
 
 ### Section 28
 
@@ -265,7 +265,7 @@ Chaque institution spécialisée devra prévoir des modes de règlement appropri
 
 ### Section 32
 
-Toute contestation portant sur l’interprétation ou l’application de la présente Convention sera portée devant la Cour internationale de Justice, à moins que, dans un cas donné, les parties ne conviennent d’avoir recours à un autre mode de règlement. Si un différend surgit entre une des institutions spécialisées d’une part, et un Etat membre d’autre part, un avis consultatif sur tout point de droit soulevé sera demandé en conformité de l’art. 96 de la Charte et de l’art. 65 du Statut de la Cour internationale de Justice du 26 juin 1945[^IX-subdivu2-1], ainsi que des dispositions correspondantes des accords conclus entre les Nations Unies et l’institution spécialisée intéressée. L’avis de la Cour sera accepté par les parties comme décisif.
+Toute contestation portant sur l’interprétation ou l’application de la présente Convention sera portée devant la Cour internationale de Justice, à moins que, dans un cas donné, les parties ne conviennent d’avoir recours à un autre mode de règlement. Si un différend surgit entre une des institutions spécialisées d’une part, et un État membre d’autre part, un avis consultatif sur tout point de droit soulevé sera demandé en conformité de l’art. 96 de la Charte et de l’art. 65 du Statut de la Cour internationale de Justice du 26 juin 1945[^IX-subdivu2-1], ainsi que des dispositions correspondantes des accords conclus entre les Nations Unies et l’institution spécialisée intéressée. L’avis de la Cour sera accepté par les parties comme décisif.
 
 [^IX-subdivu2-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
 
@@ -291,7 +291,7 @@ Le texte final de chaque annexe sera celui qui aura été approuvé par l’inst
 
 ### Section 37
 
-La présente Convention deviendra applicable à une institution spécialisée lorsque celle-ci aura transmis au Secrétaire général des Nations Unies le texte final de l’annexe qui la concerne et lui aura notifié son acceptation des clauses standard modifiées par l’annexe et son engagement de donner effet aux sections 8, 18, 22, 23, 24, 31, 32, 42 et 45 (sous réserve de toutes modifications de la section 32 qu’il pourrait être nécessaire d’apporter au texte final de l’annexe pour que celui-ci soit conforme à l’acte organique de l’institution) ainsi qu’à toutes dispositions de l’annexe qui imposent des obligations à l’institution. Le Secrétaire général communiquera à tous les Membres de l’Organisation des Nations Unies ainsi qu’à tous autres Etats membres des institutions spécialisées des copies certifiées conformes de toutes les annexes qui lui auraient été transmises en vertu de la présente section, ainsi que des annexes révisées transmises en vertu de la section 38.
+La présente Convention deviendra applicable à une institution spécialisée lorsque celle-ci aura transmis au Secrétaire général des Nations Unies le texte final de l’annexe qui la concerne et lui aura notifié son acceptation des clauses standard modifiées par l’annexe et son engagement de donner effet aux sections 8, 18, 22, 23, 24, 31, 32, 42 et 45 (sous réserve de toutes modifications de la section 32 qu’il pourrait être nécessaire d’apporter au texte final de l’annexe pour que celui-ci soit conforme à l’acte organique de l’institution) ainsi qu’à toutes dispositions de l’annexe qui imposent des obligations à l’institution. Le Secrétaire général communiquera à tous les Membres de l’Organisation des Nations Unies ainsi qu’à tous autres États membres des institutions spécialisées des copies certifiées conformes de toutes les annexes qui lui auraient été transmises en vertu de la présente section, ainsi que des annexes révisées transmises en vertu de la section 38.
 
 ### Section 38
 
@@ -299,7 +299,7 @@ Si une institution spécialisée, après avoir transmis le texte final d’une a
 
 ### Section 39
 
-Les dispositions de la présente Convention ne comporteront aucune limitation et ne porteront en rien préjudice aux privilèges et immunités qui ont été déjà ou qui pourraient être accordés par un Etat à une institution spécialisée en raison de l’établissement de son siège ou de ses bureaux régionaux sur le territoire de cet Etat. La présente Convention ne saurait être interprétée comme interdisant la conclusion entre un Etat partie et une institution spécialisée d’accords additionnels tendant à l’aménagement des dispositions de la présente Convention, à l’extension ou à la limitation des privilèges et immunités qu’elle accorde.
+Les dispositions de la présente Convention ne comporteront aucune limitation et ne porteront en rien préjudice aux privilèges et immunités qui ont été déjà ou qui pourraient être accordés par un État à une institution spécialisée en raison de l’établissement de son siège ou de ses bureaux régionaux sur le territoire de cet État. La présente Convention ne saurait être interprétée comme interdisant la conclusion entre un État partie et une institution spécialisée d’accords additionnels tendant à l’aménagement des dispositions de la présente Convention, à l’extension ou à la limitation des privilèges et immunités qu’elle accorde.
 
 ### Section 40
 
@@ -313,7 +313,7 @@ Aucune disposition de l’acte organique d’une institution spécialisée, ni a
 
 ### Section 41
 
-L’adhésion à la présente Convention par un Membre de l’Organisation des Nations Unies et (sous réserve de la section 42) par tout Etat membre d’une institution spécialisée s’effectuera par le dépôt auprès du Secrétaire général de l’Organisation des Nations Unies d’un instrument d’adhésion qui prendra effet à la date de son dépôt.
+L’adhésion à la présente Convention par un Membre de l’Organisation des Nations Unies et (sous réserve de la section 42) par tout État membre d’une institution spécialisée s’effectuera par le dépôt auprès du Secrétaire général de l’Organisation des Nations Unies d’un instrument d’adhésion qui prendra effet à la date de son dépôt.
 
 ### Section 42
 
@@ -321,33 +321,33 @@ Chaque institution spécialisée intéressée communiquera le texte de la prése
 
 ### Section 43
 
-Tout Etat partie à la présente Convention désignera dans son instrument d’adhésion l’institution spécialisée ou les institutions spécialisées à laquelle ou auxquelles il s’engage à appliquer les dispositions de la présente Convention. Tout Etat partie à la présente Convention pourra, par une notification ultérieure écrite au Secrétaire général de l’Organisation des Nations Unies, s’engager à appliquer les dispositions de la présente Convention à une ou plusieurs autres institutions spécialisées. Ladite notification prendra effet à la date de sa réception par le Secrétaire général.
+Tout État partie à la présente Convention désignera dans son instrument d’adhésion l’institution spécialisée ou les institutions spécialisées à laquelle ou auxquelles il s’engage à appliquer les dispositions de la présente Convention. Tout État partie à la présente Convention pourra, par une notification ultérieure écrite au Secrétaire général de l’Organisation des Nations Unies, s’engager à appliquer les dispositions de la présente Convention à une ou plusieurs autres institutions spécialisées. Ladite notification prendra effet à la date de sa réception par le Secrétaire général.
 
 ### Section 44
 
-La présente Convention entrera en vigueur entre tout Etat partie à ladite Convention et une institution spécialisée quand elle sera devenue applicable à cette institution conformément à la section 37 et que l’Etat partie aura pris l’engagement d’appliquer les dispositions de la présente Convention à cette institution conformément à la section 43.
+La présente Convention entrera en vigueur entre tout État partie à ladite Convention et une institution spécialisée quand elle sera devenue applicable à cette institution conformément à la section 37 et que l’État partie aura pris l’engagement d’appliquer les dispositions de la présente Convention à cette institution conformément à la section 43.
 
 ### Section 45
 
-Le Secrétaire général de l’Organisation des Nations Unies informera tous les Etats Membres de l’Organisation des Nations Unies, de même que tous les Etats membres des institutions spécialisées et les directeurs généraux des institutions spécialisées, du dépôt de chaque instrument d’adhésion reçu en vertu de la section 41, et de toutes notifications ultérieures reçues en vertu de la section 43. Le directeur général de chaque institution spécialisée informera le Secrétaire général de l’Organisation des Nations Unies et les membres de l’institution spécialisée du dépôt de tout instrument d’adhésion déposé auprès de lui en vertu de la section 42.
+Le Secrétaire général de l’Organisation des Nations Unies informera tous les États Membres de l’Organisation des Nations Unies, de même que tous les États membres des institutions spécialisées et les directeurs généraux des institutions spécialisées, du dépôt de chaque instrument d’adhésion reçu en vertu de la section 41, et de toutes notifications ultérieures reçues en vertu de la section 43. Le directeur général de chaque institution spécialisée informera le Secrétaire général de l’Organisation des Nations Unies et les membres de l’institution spécialisée du dépôt de tout instrument d’adhésion déposé auprès de lui en vertu de la section 42.
 
 ### Section 46
 
-Il est entendu que lorsqu’un instrument d’adhésion ou une notification ultérieure sont déposés au nom d’un Etat quelconque, celui-ci doit être en mesure d’appliquer, en vertu de son propre droit, les dispositions de la présente Convention telles que modifiées par les textes finals de toutes annexes relatives aux institutions visées par les adhésions ou notifications susmentionnées.
+Il est entendu que lorsqu’un instrument d’adhésion ou une notification ultérieure sont déposés au nom d’un État quelconque, celui-ci doit être en mesure d’appliquer, en vertu de son propre droit, les dispositions de la présente Convention telles que modifiées par les textes finals de toutes annexes relatives aux institutions visées par les adhésions ou notifications susmentionnées.
 
 ### Section 47
 
-<sup>1.</sup> Sous réserve des dispositions des par. 2 et 3 de la présente section, tout Etat partie à la présente Convention s’engage à appliquer ladite Convention à chacune des institutions spécialisées visées par cet Etat dans son instrument d’adhésion ou dans une notification ultérieure, jusqu’à ce qu’une convention ou annexe révisée soit devenue applicable à cette institution et que ledit Etat ait accepté la convention ou l’annexe ainsi révisée. Dans le cas d’une annexe révisée, l’acceptation des Etats s’effectuera par une notification adressée au Secrétaire général des Nations Unies, qui prendra effet au jour de sa réception par le Secrétaire général.
+<sup>1.</sup> Sous réserve des dispositions des par. 2 et 3 de la présente section, tout État partie à la présente Convention s’engage à appliquer ladite Convention à chacune des institutions spécialisées visées par cet État dans son instrument d’adhésion ou dans une notification ultérieure, jusqu’à ce qu’une convention ou annexe révisée soit devenue applicable à cette institution et que ledit État ait accepté la convention ou l’annexe ainsi révisée. Dans le cas d’une annexe révisée, l’acceptation des États s’effectuera par une notification adressée au Secrétaire général des Nations Unies, qui prendra effet au jour de sa réception par le Secrétaire général.
 
-<sup>2.</sup> Cependant, tout Etat partie à la présente Convention qui n’est pas ou qui a cessé d’être membre d’une institution spécialisée peut adresser une notification écrite au Secrétaire général des Nations Unies et au directeur général de l’institution intéressée pour l’informer qu’il entend cesser de lui accorder le bénéfice de la présente Convention à partir d’une date déterminée qui ne pourra précéder de moins de trois mois celle de la réception de cette notification.
+<sup>2.</sup> Cependant, tout État partie à la présente Convention qui n’est pas ou qui a cessé d’être membre d’une institution spécialisée peut adresser une notification écrite au Secrétaire général des Nations Unies et au directeur général de l’institution intéressée pour l’informer qu’il entend cesser de lui accorder le bénéfice de la présente Convention à partir d’une date déterminée qui ne pourra précéder de moins de trois mois celle de la réception de cette notification.
 
-<sup>3.</sup> Tout Etat partie à la présente Convention peut refuser d’accorder le bénéfice de ladite Convention à une institution spécialisée qui cesse d’être reliée à l’Organisation des Nations Unies.
+<sup>3.</sup> Tout État partie à la présente Convention peut refuser d’accorder le bénéfice de ladite Convention à une institution spécialisée qui cesse d’être reliée à l’Organisation des Nations Unies.
 
-<sup>4.</sup> Le Secrétaire général de l’Organisation des Nations Unies informera tous les Etats membres parties à la présente Convention de toute notification qui lui sera transmise conformément aux dispositions de la présente section.
+<sup>4.</sup> Le Secrétaire général de l’Organisation des Nations Unies informera tous les États membres parties à la présente Convention de toute notification qui lui sera transmise conformément aux dispositions de la présente section.
 
 ### Section 48
 
-A la demande du tiers des Etats parties à la présente Convention, le Secrétaire général des Nations Unies convoquera une conférence en vue de la révision de la Convention.
+À la demande du tiers des États parties à la présente Convention, le Secrétaire général des Nations Unies convoquera une conférence en vue de la révision de la Convention.
 
 ### Section 49
 
@@ -491,7 +491,7 @@ La Convention (y compris la présente annexe) s’appliquera à la Banque intern
 
 \1. Le texte suivant remplacera celui de la section 4:
 
-- «La Banque ne peut être poursuivie que devant un tribunal ayant juridiction sur les territoires d’un Etat membre où la Banque possède une succursale, où elle a nommé un agent en vue d’accepter des sommations ou avis de sommations, ou bien où elle a émis ou garanti des valeurs mobilières. Aucune poursuite ne pourra être intentée par des Etats membres ou par des personnes représentant cesdits Etats membres ou tenant d’eux des droits de réclamation. Les biens et les avoirs de la Banque, où qu’ils se trouvent et quels qu’en soient les détenteurs, ne pourront faire l’objet d’aucune saisie, opposition ou exécution, quelle qu’elle soit, tant qu’un jugement définitif n’aura pas été rendu contre la Banque.»
+- «La Banque ne peut être poursuivie que devant un tribunal ayant juridiction sur les territoires d’un État membre où la Banque possède une succursale, où elle a nommé un agent en vue d’accepter des sommations ou avis de sommations, ou bien où elle a émis ou garanti des valeurs mobilières. Aucune poursuite ne pourra être intentée par des États membres ou par des personnes représentant cesdits États membres ou tenant d’eux des droits de réclamation. Les biens et les avoirs de la Banque, où qu’ils se trouvent et quels qu’en soient les détenteurs, ne pourront faire l’objet d’aucune saisie, opposition ou exécution, quelle qu’elle soit, tant qu’un jugement définitif n’aura pas été rendu contre la Banque.»
 
 \2. La section 32 des clauses standard ne s’appliquera qu’aux contestations portant sur l’interprétation ou sur l’application des dispositions relatives aux privilèges et immunités dont le Fonds jouit uniquement en vertu de la présente Convention et qui ne font pas partie de ceux qu’elle peut revendiquer en vertu de son acte constitutif ou de toute autre disposition.
 
@@ -582,7 +582,7 @@ Annexe XII
 
 [^annexXII-lvlu1-1]: Texte authentique reçu par le Secrétaire général le 8 avril 2002.
 
-\1. Le Secrétaire général de l’Organisation[^annexXII-lvlu1-2], le Secrétaire général adjoint, le Secrétaire du Comité de la sécurité maritime et les Directeurs de la Division administrative, de la Division de la coopération technique, de la Division des affaires juridiques et des relations extérieures, de la Division des conférences et de la Division du milieu marin jouiront des privilèges, immunités, exemptions et facilités mentionnés à la section 21 de l’art. VI des clauses standard, sous réserve que les dispositions du présent paragraphe n’obligeront pas l’Etat membre sur le territoire duquel se trouve le siège de l’Organisation à appliquer à ses nationaux la section 21 de l’art. VI des clauses standard. Si l’Organisation modifie à un moment quelconque le titre des postes de directeur, les titulaires des postes à l’époque de la modification continueront de bénéficier des privilèges, immunités, exemptions et facilités mentionnés dans le présent paragraphe.
+\1. Le Secrétaire général de l’Organisation[^annexXII-lvlu1-2], le Secrétaire général adjoint, le Secrétaire du Comité de la sécurité maritime et les Directeurs de la Division administrative, de la Division de la coopération technique, de la Division des affaires juridiques et des relations extérieures, de la Division des conférences et de la Division du milieu marin jouiront des privilèges, immunités, exemptions et facilités mentionnés à la section 21 de l’art. VI des clauses standard, sous réserve que les dispositions du présent paragraphe n’obligeront pas l’État membre sur le territoire duquel se trouve le siège de l’Organisation à appliquer à ses nationaux la section 21 de l’art. VI des clauses standard. Si l’Organisation modifie à un moment quelconque le titre des postes de directeur, les titulaires des postes à l’époque de la modification continueront de bénéficier des privilèges, immunités, exemptions et facilités mentionnés dans le présent paragraphe.
 
 - 2\. a)
 
@@ -591,7 +591,7 @@ Annexe XII
   - i) immunité d’arrestation personnelle ou de saisie de bagages personnels;
   - ii) immunité de toute poursuite judiciaire en ce qui concerne les actes accomplis par eux dans l’exercice de leurs fonctions officielles (y compris leurs paroles et écrits); les intéressés continueront à bénéficier de ladite immunité alors même qu’ils n’exerceraient plus de fonctions auprès des commissions de l’Organisation ou qu’ils ne seraient plus chargés de mission pour le compte de cette dernière;
   - iii) les mêmes facilités en ce qui concerne les réglementations monétaires et de change et en ce qui concerne leurs bagages personnels que celles qui sont accordées aux fonctionnaires des gouvernements étrangers en mission officielle temporaire;
-  - iv) inviolabilité de toutes pièces et documents relatifs aux travaux qu’ils effectuent pour l’Organisation; et
+  - iv) inviolabilité de toutes pièces et documents relatifs aux travaux qu’ils effectuent pour l’Organisation, et
   - v) droit d’utiliser des codes chiffrés ainsi que de recevoir des documents et de la correspondance par des courriers ou des valises scellées pour leurs communications avec l’Organisation maritime internationale;
 
 - Le principe énoncé dans la dernière phrase de la section 12 des clauses standard sera applicable aux dispositions prévues ci-dessus aux points iv) et v) de la let. a) de la section 2.
@@ -611,7 +611,7 @@ La Convention (y compris la présente annexe) s’appliquera à la Société fin
 
 \1. Le texte suivant remplacera celui de la section 4:
 
-- «La Société ne peut être poursuivie que devant un tribunal ayant juridiction sur les territoires d’un Etat membre où la Société possède une succursale, où elle a nommé un agent en vue d’accepter des sommations ou avis de sommations, ou bien où elle a émis ou garanti des valeurs mobilières. Aucune poursuite ne pourra être intentée par des Etat membres ou par des personnes représentant lesdits Etats membres ou tenant d’eux des droits de réclamation. Les biens et les avoirs de la Société, où qu’ils se trouvent et quels qu’en soient les détenteurs, ne pourront faire l’objet d’aucune saisie, opposition ou exécution, quelle qu’elle soit, tant qu’un jugement définitif n’aura pas été rendu contre la Société.»
+- «La Société ne peut être poursuivie que devant un tribunal ayant juridiction sur les territoires d’un État membre où la Société possède une succursale, où elle a nommé un agent en vue d’accepter des sommations ou avis de sommations, ou bien où elle a émis ou garanti des valeurs mobilières. Aucune poursuite ne pourra être intentée par des État membres ou par des personnes représentant lesdits États membres ou tenant d’eux des droits de réclamation. Les biens et les avoirs de la Société, où qu’ils se trouvent et quels qu’en soient les détenteurs, ne pourront faire l’objet d’aucune saisie, opposition ou exécution, quelle qu’elle soit, tant qu’un jugement définitif n’aura pas été rendu contre la Société.»
 
 \2. La let. b) de la section 7 des clauses standard s’appliquera à la Société, sous réserve des dispositions de la section 5 de l’art. III des statuts de la Société.
 
@@ -635,7 +635,7 @@ La Convention (y compris la présente annexe) s’appliquera à l’Association 
 
 \1. Le texte suivant remplacera celui de la section 4:
 
-- «L’Association ne peut être poursuivie que devant un tribunal ayant juridiction sur les territoires d’un Etat membre où l’Association possède une succursale, où elle a nommé un agent en vue d’accepter des sommations ou avis de sommations, ou bien où elle a émis ou garanti des valeurs mobilières. Aucune poursuite ne pourra être intentée par des Etats membres ou par des personnes représentant cesdits Etats membres ou tenant d’eux des droits de réclamation. Les biens et les avoirs de l’Association, où qu’ils se trouvent et quels qu’en soient les détenteurs, ne pourront faire l’objet d’aucune saisie, opposition ou exécution, quelle qu’elle soit, tant qu’un jugement définitif n’aura pas été rendu contre l’Association.»
+- «L’Association ne peut être poursuivie que devant un tribunal ayant juridiction sur les territoires d’un État membre où l’Association possède une succursale, où elle a nommé un agent en vue d’accepter des sommations ou avis de sommations, ou bien où elle a émis ou garanti des valeurs mobilières. Aucune poursuite ne pourra être intentée par des États membres ou par des personnes représentant cesdits États membres ou tenant d’eux des droits de réclamation. Les biens et les avoirs de l’Association, où qu’ils se trouvent et quels qu’en soient les détenteurs, ne pourront faire l’objet d’aucune saisie, opposition ou exécution, quelle qu’elle soit, tant qu’un jugement définitif n’aura pas été rendu contre l’Association.»
 
 \2. La section 32 des clauses standard ne s’appliquera qu’aux contestations portant sur l’interprétation ou sur l’application des dispositions relatives aux privilèges et immunités dont l’Association jouit en vertu de la présente Convention et qui ne font pas partie de ceux qu’elle peut revendiquer en vertu de son acte constitutif ou de toute autre disposition.
 
@@ -757,10 +757,10 @@ Les clauses standard s’appliquent à l’Organisation mondiale du tourisme[^an
 
 [^annexXVIII-lvlu1-2]: [RS 0.935.21](https://fedlex.data.admin.ch/eli/cc/1976/96_95_95);Statuts du 27 sept. 1970 de l’Organisation mondiale du tourisme (OMT).
 
-Champ d’application le 3 février 2017**[^t-1]**
+Champ d’application le 22 septembre 2021**[^t-1]**
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud\*</td><td>30 août</td><td>2002 A</td><td>30 août</td><td>2002</td></tr>
 <tr><td>Albanie</td><td>15 décembre</td><td>2003 A</td><td>15 décembre</td><td>2003</td></tr>
 <tr><td>Algérie</td><td>25 mars</td><td>1964 A</td><td>25 mars</td><td>1964</td></tr>
@@ -795,10 +795,10 @@ Champ d’application le 3 février 2017**[^t-1]**
 <tr><td>Cuba\*</td><td>13 septembre</td><td>1972 A</td><td>13 septembre</td><td>1972</td></tr>
 <tr><td>Danemark</td><td>25 janvier</td><td>1950 A</td><td>25 janvier</td><td>1950</td></tr>
 <tr><td>Dominique</td><td>24 juin</td><td>1988 A</td><td>24 juin</td><td>1988</td></tr>
-<tr><td>Egypte</td><td>28 septembre</td><td>1954 A</td><td>28 septembre</td><td>1954</td></tr>
+<tr><td>Égypte</td><td>28 septembre</td><td>1954 A</td><td>28 septembre</td><td>1954</td></tr>
 <tr><td>El Salvador<sup>\*</sup></td><td>24 septembre</td><td>2012 A</td><td>24 septembre</td><td>2012</td></tr>
-<tr><td>Emirats arabes unis</td><td>11 décembre</td><td>2003 A</td><td>11 décembre</td><td>2003</td></tr>
-<tr><td>Equateur</td><td>8 juin</td><td>1951 A</td><td>8 juin</td><td>1951</td></tr>
+<tr><td>Émirats arabes unis</td><td>11 décembre</td><td>2003 A</td><td>11 décembre</td><td>2003</td></tr>
+<tr><td>Équateur</td><td>8 juin</td><td>1951 A</td><td>8 juin</td><td>1951</td></tr>
 <tr><td>Espagne</td><td>26 septembre</td><td>1974 A</td><td>26 septembre</td><td>1974</td></tr>
 <tr><td>Estonie</td><td>8 octobre</td><td>1997 A</td><td>8 octobre</td><td>1997</td></tr>
 <tr><td>Fidji</td><td>21 juin</td><td>1971 S</td><td>10 octobre</td><td>1970</td></tr>
@@ -833,7 +833,7 @@ Champ d’application le 3 février 2017**[^t-1]**
 <tr><td>Libye</td><td>30 avril</td><td>1958 A</td><td>30 avril</td><td>1958</td></tr>
 <tr><td>Lituanie\*</td><td>10 février</td><td>1997 A</td><td>10 février</td><td>1997</td></tr>
 <tr><td>Luxembourg</td><td>20 septembre</td><td>1950 A</td><td>20 septembre</td><td>1950</td></tr>
-<tr><td>Macédoine</td><td>11 mars</td><td>1996 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>11 mars</td><td>1996 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar\*</td><td>3 janvier</td><td>1966 A</td><td>3 janvier</td><td>1966</td></tr>
 <tr><td>Malaisie</td><td>29 mars</td><td>1962 S</td><td>31 août</td><td>1957</td></tr>
 <tr><td>Malawi</td><td>2 août</td><td>1965 A</td><td>2 août</td><td>1965</td></tr>
@@ -856,6 +856,7 @@ Champ d’application le 3 février 2017**[^t-1]**
 <tr><td>Ouganda</td><td>11 août</td><td>1983 A</td><td>11 août</td><td>1983</td></tr>
 <tr><td>Ouzbékistan</td><td>18 février</td><td>1997 A</td><td>18 février</td><td>1997</td></tr>
 <tr><td>Pakistan\*</td><td>23 juillet</td><td>1951 A</td><td>23 juillet</td><td>1951</td></tr>
+<tr><td>Palestine</td><td>29 mars</td><td>2018 A</td><td>29 mars</td><td>2018</td></tr>
 <tr><td>Paraguay</td><td>13 janvier</td><td>2006 A</td><td>13 janvier</td><td>2006</td></tr>
 <tr><td>Pays-Bas\*\*</td><td>2 décembre</td><td>1948 A</td><td>2 décembre</td><td>1948</td></tr>
 <tr><td>Philippines</td><td>20 mars</td><td>1950 A</td><td>20 mars</td><td>1950</td></tr>
@@ -890,10 +891,10 @@ Champ d’application le 3 février 2017**[^t-1]**
 <tr><td>Vanuatu</td><td>2 janvier</td><td>2008 A</td><td>2 janvier</td><td>2008</td></tr>
 <tr><td>Zambie</td><td>16 juin</td><td>1975 S</td><td>24 octobre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>5 mars</td><td>1991 A</td><td>5 mars</td><td>1991</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-1]: [RO 2012 5695](https://fedlex.data.admin.ch/eli/oc/2012/664), [2015 1283](https://fedlex.data.admin.ch/eli/oc/2015/262), [2017 677](https://fedlex.data.admin.ch/eli/oc/2017/122). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-1]: [RO 2012 5695](https://fedlex.data.admin.ch/eli/oc/2012/664); [2015 1283](https://fedlex.data.admin.ch/eli/oc/2015/262); [2017 677](https://fedlex.data.admin.ch/eli/oc/2017/122); [2021 574](https://fedlex.data.admin.ch/eli/oc/2021/574). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
 
 Déclaration
 

@@ -3,11 +3,11 @@ sr: "0.192.110.03"
 title: Übereinkommen vom 21. November 1947 über die Vorrechte und Immunitäten der Sonderorganisationen der Vereinten Nationen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/664"
 language: de
-version: 2017-02-03
+version: 2021-09-22
 adopted: 1947-11-21
 in_force: 2012-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/664/20170203/de/xml/fedlex-data-admin-ch-eli-cc-2012-664-20170203-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20170203/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/664/20210922/de/xml/fedlex-data-admin-ch-eli-cc-2012-664-20210922-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20210922/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20170203/de"
 
 AS **2012** 5695
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in New York am 21. November 1947
 
@@ -24,9 +24,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 25. September 2012
 
 In Kraft getreten für die Schweiz am 25. September 2012
 
-(Stand am 3. Februar 2017)
-
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
+(Stand am 22. September 2021)
 
 Da die Generalversammlung der Vereinten Nationen am 13. Februar 1946 eine Entschliessung angenommen hat, wonach die Vorrechte und Immunitäten, welche die Vereinten Nationen und die verschiedenen Sonderorganisationen geniessen, so weit wie möglich vereinheitlicht werden sollen;
 
@@ -759,7 +757,7 @@ Die allgemeinen Bestimmungen finden auf die Weltorganisation für Tourismus[^ann
 
 [^annexXVIII-lvlu1-2]: [SR 0.935.21](https://fedlex.data.admin.ch/eli/cc/1976/96_95_95);Statuten vom 27. Sept. 1970 der Weltorganisation für Tourismus
 
-Geltungsbereich am 3. Februar 2017**[^t-2]**
+Geltungsbereich am 22. September 2021**[^t-1]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -838,7 +836,6 @@ Geltungsbereich am 3. Februar 2017**[^t-2]**
 <tr><td>Malta</td><td>27. Juni</td><td>1968 N</td><td>21. September</td><td>1964</td></tr>
 <tr><td>Marokko</td><td>28. April</td><td>1958 B</td><td>28. April</td><td>1958</td></tr>
 <tr><td>Mauritius</td><td>18. Juli</td><td>1969 N</td><td>12. März</td><td>1968</td></tr>
-<tr><td>Mazedonien</td><td>11. März</td><td>1996 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Moldau</td><td>2. September</td><td>2011 B</td><td>2. September</td><td>2011</td></tr>
 <tr><td>Mongolei</td><td>3. März</td><td>1970 B</td><td>3. März</td><td>1970</td></tr>
 <tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
@@ -850,9 +847,11 @@ Geltungsbereich am 3. Februar 2017**[^t-2]**
 <tr><td>Niederlande\*\*</td><td>2. Dezember</td><td>1948 B</td><td>2. Dezember</td><td>1948</td></tr>
 <tr><td>Niger</td><td>15. Mai</td><td>1968 B</td><td>15. Mai</td><td>1968</td></tr>
 <tr><td>Nigeria</td><td>26. Juni</td><td>1961 N</td><td>1. Oktober</td><td>1960</td></tr>
+<tr><td>Nordmazedonien</td><td>11. März</td><td>1996 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen\*</td><td>25. Januar</td><td>1950 B</td><td>25. Januar</td><td>1950</td></tr>
 <tr><td>Österreich</td><td>21. Juli</td><td>1950 B</td><td>21. Juli</td><td>1950</td></tr>
 <tr><td>Pakistan\*</td><td>23. Juli</td><td>1951 B</td><td>23. Juli</td><td>1951</td></tr>
+<tr><td>Palästina</td><td>29. März</td><td>2018 B</td><td>29. März</td><td>2018</td></tr>
 <tr><td>Paraguay</td><td>13. Januar</td><td>2006 B</td><td>13. Januar</td><td>2006</td></tr>
 <tr><td>Philippinen</td><td>20. März</td><td>1950 B</td><td>20. März</td><td>1950</td></tr>
 <tr><td>Polen</td><td>19. Juni</td><td>1969 B</td><td>19. Juni</td><td>1969</td></tr>
@@ -892,10 +891,10 @@ Geltungsbereich am 3. Februar 2017**[^t-2]**
 <tr><td>Vereinigtes Königreich\*</td><td>16. August</td><td>1949 B</td><td>16. August</td><td>1949</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>15. Oktober</td><td>1962 B</td><td>15. Oktober</td><td>1962</td></tr>
 <tr><td>Zypern</td><td>6. Mai</td><td>1964 N</td><td>16. August</td><td>1960</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen \*\* Einwendungen Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die Originaltexte können unter: http://treaties.un.org/ eingesehen oder bei der DV/EDA, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen \*\* Einwendungen Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2012 5695](https://fedlex.data.admin.ch/eli/oc/2012/664), [2015 1283](https://fedlex.data.admin.ch/eli/oc/2015/262)und [2017 677](https://fedlex.data.admin.ch/eli/oc/2017/122)Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: [AS 2012 5695](https://fedlex.data.admin.ch/eli/oc/2012/664); [2015 1283](https://fedlex.data.admin.ch/eli/oc/2015/262); [2017 677](https://fedlex.data.admin.ch/eli/oc/2017/122); [2021 574](https://fedlex.data.admin.ch/eli/oc/2021/574). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
 
 Erklärung
 

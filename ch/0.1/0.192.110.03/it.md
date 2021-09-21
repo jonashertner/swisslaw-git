@@ -3,11 +3,11 @@ sr: "0.192.110.03"
 title: Convenzione del 21 novembre 1947 sui privilegi e le immunità delle istituzioni specializzate (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/664"
 language: it
-version: 2017-02-03
+version: 2021-09-22
 adopted: 1947-11-21
 in_force: 2012-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/664/20170203/it/xml/fedlex-data-admin-ch-eli-cc-2012-664-20170203-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20170203/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/664/20210922/it/xml/fedlex-data-admin-ch-eli-cc-2012-664-20210922-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20210922/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/664/20170203/it"
 
 RU **2012** 5695
 
-Traduzione*[^t-1]*
+Traduzione
 
 Conclusa a New York il 21 novembre 1947
 
@@ -24,9 +24,7 @@ Strumento di adesione depositato dalla Svizzera il 25 settembre 2012
 
 Entrata in vigore per la Svizzera il 25 settembre 2012
 
-(Stato 3 febbraio 2017)
-
-[^t-1]: Dal testo originale francese.
+(Stato 22 settembre 2021)
 
 Considerato che il 13 febbraio 1946 l’Assemblea generale dell’Organizzazione delle Nazioni Unite ha adottato una risoluzione volta a unificare, nella misura del possibile, i privilegi e le immunità di cui godono l’Organizzazione delle Nazioni Unite e le diverse istituzioni specializzate;
 
@@ -757,7 +755,7 @@ All’Organizzazione mondiale del turismo[^annexXVIII-lvlu1-2] (di seguito denom
 
 [^annexXVIII-lvlu1-2]: [RS 0.935.21](https://fedlex.data.admin.ch/eli/cc/1976/96_95_95); Statuti dell’Organizzazione mondiale del turismo (OMT), del 27 set. 1970
 
-Campo d’applicazione il 3 febbraio 2017**[^t-2]**
+Campo d’applicazione il 22 settembre 2021**[^t-1]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -833,7 +831,7 @@ Campo d’applicazione il 3 febbraio 2017**[^t-2]**
 <tr><td>Libia</td><td>30 aprile</td><td>1958 A</td><td>30 aprile</td><td>1958</td></tr>
 <tr><td>Lituania\*</td><td>10 febbraio</td><td>1997 A</td><td>10 febbraio</td><td>1997</td></tr>
 <tr><td>Lussemburgo</td><td>20 settembre</td><td>1950 A</td><td>20 settembre</td><td>1950</td></tr>
-<tr><td>Macedonia</td><td>11 marzo</td><td>1996 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>11 marzo</td><td>1996 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar\*</td><td>3 gennaio</td><td>1966 A</td><td>3 gennaio</td><td>1966</td></tr>
 <tr><td>Malawi</td><td>2 agosto</td><td>1965 A</td><td>2 agosto</td><td>1965</td></tr>
 <tr><td>Malaysia</td><td>29 marzo</td><td>1962 S</td><td>31 agosto</td><td>1957</td></tr>
@@ -855,6 +853,7 @@ Campo d’applicazione il 3 febbraio 2017**[^t-2]**
 <tr><td>Tokelau</td><td>25 novembre</td><td>1960 A</td><td>25 novembre</td><td>1960</td></tr>
 <tr><td>Paesi Bassi\*\*</td><td>2 dicembre</td><td>1948 A</td><td>2 dicembre</td><td>1948</td></tr>
 <tr><td>Pakistan\*</td><td>23 luglio</td><td>1951 A</td><td>23 luglio</td><td>1951</td></tr>
+<tr><td>Palestina</td><td>29 marzo</td><td>2018 A</td><td>29 marzo</td><td>2018</td></tr>
 <tr><td>Paraguay</td><td>13 gennaio</td><td>2006 A</td><td>13 gennaio</td><td>2006</td></tr>
 <tr><td>Polonia</td><td>19 giugno</td><td>1969 A</td><td>19 giugno</td><td>1969</td></tr>
 <tr><td>Portogallo</td><td>8 novembre</td><td>2012 A</td><td>8 novembre</td><td>2012</td></tr>
@@ -890,10 +889,10 @@ Campo d’applicazione il 3 febbraio 2017**[^t-2]**
 <tr><td>Vanuatu</td><td>2 gennaio</td><td>2008 A</td><td>2 gennaio</td><td>2008</td></tr>
 <tr><td>Zambia</td><td>16 giugno</td><td>1975 S</td><td>24 ottobre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>5 marzo</td><td>1991 A</td><td>5 marzo</td><td>1991</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU, eccetto la dichiarazione della Svizzera. I testi originali possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuti presso il DDIP/DFAE, Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU, eccetto la dichiarazione della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2012 5695](https://fedlex.data.admin.ch/eli/oc/2012/664), [2015 1283](https://fedlex.data.admin.ch/eli/oc/2015/262)e [2017 677](https://fedlex.data.admin.ch/eli/oc/2017/122). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: [RU 2012 5695](https://fedlex.data.admin.ch/eli/oc/2012/664); [2015 1283](https://fedlex.data.admin.ch/eli/oc/2015/262); [2017 677](https://fedlex.data.admin.ch/eli/oc/2017/122); [2021 574](https://fedlex.data.admin.ch/eli/oc/2021/574). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
 
 Dichiarazione
 
