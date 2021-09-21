@@ -3,11 +3,11 @@ sr: "0.192.110.02"
 title: Convention du 13 février 1946 sur les privilèges et immunités des Nations Unies
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/663"
 language: fr
-version: 2016-02-26
+version: 2021-09-22
 adopted: 1946-02-13
 in_force: 2012-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/663/20160226/fr/xml/fedlex-data-admin-ch-eli-cc-2012-663-20160226-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/663/20160226/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/663/20210922/fr/xml/fedlex-data-admin-ch-eli-cc-2012-663-20210922-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/663/20210922/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,13 +18,9 @@ RO **2012** 5683
 
 Texte original
 
-Conclue à New York le 13 février 1946
+Conclue à New York le 13 février 1946 Instrument d'adhésion déposé par la Suisse le 25 septembre 2012 Entrée en vigueur pour la Suisse le 25 septembre 2012
 
-Instrument d'adhésion déposé par la Suisse le 25 septembre 2012
-
-Entrée en vigueur pour la Suisse le 25 septembre 2012
-
-(Etat le 26 février 2016)
+(État le 22 septembre 2021)
 
 Considérant que l’art. 104 de la Charte des Nations Unies[^ingress-1] (Charte) stipule que l’Organisation jouit, sur le territoire de chacun de ses Membres, de la capacité juridique qui lui est nécessaire pour exercer ses fonctions et atteindre ses buts;
 
@@ -32,7 +28,7 @@ considérant que l’art. 105 de la Charte stipule que l’Organisation jouit, s
 
 en conséquence, par une résolution adoptée le 13 février 1946, l’Assemblée générale a approuvé la convention suivante et l’а proposée à l’adhésion de chacun des Membres des Nations Unies.
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. I
 
@@ -71,7 +67,7 @@ Sans être astreinte à aucun contrôle, réglementation ou moratoire financiers
 
 ### Section 6
 
-Dans l’exercice des droits qui lui sont accordés en vertu de la section 5 ci-dessus, l’Organisation des Nations Unies tiendra compte de toutes représentations du Gouvernement d’un Etat Membre, dans la mesure où elle estimera pouvoir y donner suite sans porter préjudice à ses propres intérêts.
+Dans l’exercice des droits qui lui sont accordés en vertu de la section 5 ci-dessus, l’Organisation des Nations Unies tiendra compte de toutes représentations du Gouvernement d’un État Membre, dans la mesure où elle estimera pouvoir y donner suite sans porter préjudice à ses propres intérêts.
 
 ### Section 7
 
@@ -119,7 +115,7 @@ En vue d’assurer aux représentants des Membres aux organes principaux et subs
 
 ### Section 13
 
-Dans le cas où l’incidence d’un impôt quelconque est subordonnée à la résidence de l’assujetti, les périodes pendant lesquelles les représentants des Membres auprès des organes principaux et subsidiaires des Nations Unies et aux conférences convoquées par l’Organisation des Nations Unies se trouveront sur le territoire d’un Etat Membre pour l’exercice de leurs fonctions ne seront pas considérées comme des périodes de résidence.
+Dans le cas où l’incidence d’un impôt quelconque est subordonnée à la résidence de l’assujetti, les périodes pendant lesquelles les représentants des Membres auprès des organes principaux et subsidiaires des Nations Unies et aux conférences convoquées par l’Organisation des Nations Unies se trouveront sur le territoire d’un État Membre pour l’exercice de leurs fonctions ne seront pas considérées comme des périodes de résidence.
 
 ### Section 14
 
@@ -127,7 +123,7 @@ Les privilèges et immunités sont accordés aux représentants des Membres non 
 
 ### Section 15
 
-Les dispositions des sections 11, 12 et 13 ne sont pas applicables dans le cas d’un représentant vis-à-vis des autorités de l’Etat dont il est ressortissant ou dont il est ou a été le représentant.
+Les dispositions des sections 11, 12 et 13 ne sont pas applicables dans le cas d’un représentant vis-à-vis des autorités de l’État dont il est ressortissant ou dont il est ou a été le représentant.
 
 ### Section 16
 
@@ -159,11 +155,11 @@ Outre les privilèges et immunités prévus à la section 18, le Secrétaire gé
 
 ### Section 20
 
-Les privilèges et immunités sont accordés aux fonctionnaires uniquement dans l’intérêt des Nations Unies et non à leur avantage personnel. Le Secrétaire général pourra et devra lever l’immunité accordée à un fonctionnaire dans tous les cas où, à son avis, cette immunité empêcherait que justice soit faite et pourra être levée sans porter préjudice aux intérêts de l’Organisation. A l’égard du Secrétaire général, le Conseil de Sécurité a qualité pour prononcer la levée des immunités.
+Les privilèges et immunités sont accordés aux fonctionnaires uniquement dans l’intérêt des Nations Unies et non à leur avantage personnel. Le Secrétaire général pourra et devra lever l’immunité accordée à un fonctionnaire dans tous les cas où, à son avis, cette immunité empêcherait que justice soit faite et pourra être levée sans porter préjudice aux intérêts de l’Organisation. À l’égard du Secrétaire général, le Conseil de Sécurité a qualité pour prononcer la levée des immunités.
 
 ### Section 21
 
-L’Organisation des Nations Unies collaborera, en tout temps, avec les autorités compétentes des Etats Membres en vue de faciliter la bonne administration de la justice, d’assurer l’observation des règlements de police et d’éviter tout abus auquel pourraient donner lieu les privilèges, immunités et facilités énumérés dans le présent article.
+L’Organisation des Nations Unies collaborera, en tout temps, avec les autorités compétentes des États Membres en vue de faciliter la bonne administration de la justice, d’assurer l’observation des règlements de police et d’éviter tout abus auquel pourraient donner lieu les privilèges, immunités et facilités énumérés dans le présent article.
 
 #### Art. VI
 
@@ -190,7 +186,7 @@ Les privilèges et immunités sont accordés aux experts dans l’intérêt de l
 
 ### Section 24
 
-L’Organisation des Nations Unies pourra délivrer des laissez-passer à ses fonctionnaires. Ces laissez-passer seront reconnus et acceptés, par les autorités des Etats Membres, comme titre valable de voyage en tenant compte des dispositions de la section 25.
+L’Organisation des Nations Unies pourra délivrer des laissez-passer à ses fonctionnaires. Ces laissez-passer seront reconnus et acceptés, par les autorités des États Membres, comme titre valable de voyage en tenant compte des dispositions de la section 25.
 
 ### Section 25
 
@@ -223,7 +219,7 @@ L’Organisation des Nations Unies devra prévoir des modes de règlement approp
 
 Toute contestation portant sur l’interprétation ou l’application de la présente convention sera portée devant la Cour internationale de Justice, à moins que, dans un cas donné, les parties ne conviennent d’avoir recours à un autre mode de règlement. Si un différend surgit entre l’Organisation des Nations Unies, d’une part, et un Membre, d’autre part, un avis consultatif sur tout point de droit soulevé sera demandé en conformité de l’art. 96 de la Charte et de l’art. 65 du Statut de la Cour internationale de Justice du 26 juin 1945[^VIII-subdivu2-1]. L’avis de la Cour sera accepté par les parties comme décisif.
 
-[^VIII-subdivu2-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^VIII-subdivu2-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 ## **Article final**
 
@@ -253,10 +249,10 @@ Le Secrétaire général pourra conclure, avec un ou plusieurs Membres, des acco
 
 (Suivent les signatures)
 
-Champ d’application le 26 février 2016**[^t-1]**
+Champ d’application le 22 septembre 2021[^t-1]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>5 septembre</td><td>1947 A</td><td>5 septembre</td><td>1947</td></tr>
 <tr><td>Afrique du Sud\*</td><td>30 août</td><td>2002 A</td><td>30 août</td><td>2002</td></tr>
 <tr><td>Albanie\*</td><td>2 juillet</td><td>1957 A</td><td>2 juillet</td><td>1957</td></tr>
@@ -303,14 +299,14 @@ Champ d’application le 26 février 2016**[^t-1]**
 <tr><td>Danemark</td><td>10 juin</td><td>1948 A</td><td>10 juin</td><td>1948</td></tr>
 <tr><td>Djibouti</td><td>6 avril</td><td>1978 S</td><td>27 juin</td><td>1977</td></tr>
 <tr><td>Dominique</td><td>24 novembre</td><td>1987 S</td><td>3 novembre</td><td>1978</td></tr>
-<tr><td>Egypte</td><td>17 septembre</td><td>1948 A</td><td>17 septembre</td><td>1948</td></tr>
+<tr><td>Égypte</td><td>17 septembre</td><td>1948 A</td><td>17 septembre</td><td>1948</td></tr>
 <tr><td>El Salvador</td><td>9 juillet</td><td>1947 A</td><td>9 juillet</td><td>1947</td></tr>
-<tr><td>Emirats arabes unis</td><td>2 juin</td><td>2003 A</td><td>2 juin</td><td>2003</td></tr>
-<tr><td>Equateur</td><td>22 mars</td><td>1956 A</td><td>22 mars</td><td>1956</td></tr>
+<tr><td>Émirats arabes unis</td><td>2 juin</td><td>2003 A</td><td>2 juin</td><td>2003</td></tr>
+<tr><td>Équateur</td><td>22 mars</td><td>1956 A</td><td>22 mars</td><td>1956</td></tr>
 <tr><td>Espagne</td><td>31 juillet</td><td>1974 A</td><td>31 juillet</td><td>1974</td></tr>
 <tr><td>Estonie</td><td>21 octobre</td><td>1991 A</td><td>21 octobre</td><td>1991</td></tr>
-<tr><td>Etats-Unis\*</td><td>29 avril</td><td>1970 A</td><td>29 avril</td><td>1970</td></tr>
-<tr><td>Ethiopie</td><td>22 juillet</td><td>1947 A</td><td>22 juillet</td><td>1947</td></tr>
+<tr><td>États-Unis\*</td><td>29 avril</td><td>1970 A</td><td>29 avril</td><td>1970</td></tr>
+<tr><td>Éthiopie</td><td>22 juillet</td><td>1947 A</td><td>22 juillet</td><td>1947</td></tr>
 <tr><td>Fidji</td><td>21 juin</td><td>1971 S</td><td>10 octobre</td><td>1970</td></tr>
 <tr><td>Finlande</td><td>31 juillet</td><td>1958 A</td><td>31 juillet</td><td>1958</td></tr>
 <tr><td>France</td><td>18 août</td><td>1947 A</td><td>18 août</td><td>1947</td></tr>
@@ -349,7 +345,7 @@ Champ d’application le 26 février 2016**[^t-1]**
 <tr><td>Liechtenstein</td><td>25 mars</td><td>1993 A</td><td>25 mars</td><td>1993</td></tr>
 <tr><td>Lituanie\*</td><td>9 décembre</td><td>1993</td><td>9 décembre</td><td>1993</td></tr>
 <tr><td>Luxembourg</td><td>14 février</td><td>1949 A</td><td>14 février</td><td>1949</td></tr>
-<tr><td>Macédoine</td><td>18 août</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macédoine du Nord</td><td>18 août</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>23 mai</td><td>1962 S</td><td>26 juin</td><td>1960</td></tr>
 <tr><td>Malaisie</td><td>28 octobre</td><td>1957 S</td><td>31 août</td><td>1957</td></tr>
 <tr><td>Malawi</td><td>17 mai</td><td>1966 A</td><td>17 mai</td><td>1966</td></tr>
@@ -381,7 +377,7 @@ Champ d’application le 26 février 2016**[^t-1]**
 <tr><td>Pays-Bas</td><td>19 avril</td><td>1948 A</td><td>19 avril</td><td>1948</td></tr>
 <tr><td>Philippines</td><td>28 octobre</td><td>1947 A</td><td>28 octobre</td><td>1947</td></tr>
 <tr><td>Pologne</td><td>8 janvier</td><td>1948 A</td><td>8 janvier</td><td>1948</td></tr>
-<tr><td>Portugal\*</td><td>14 octobre</td><td>1998 A</td><td>14 octobre</td><td>1998</td></tr>
+<tr><td>Portugal</td><td>14 octobre</td><td>1998 A</td><td>14 octobre</td><td>1998</td></tr>
 <tr><td>Pérou</td><td>24 juillet</td><td>1963 A</td><td>24 juillet</td><td>1963</td></tr>
 <tr><td>Qatar\*</td><td>26 septembre</td><td>2007 A</td><td>26 septembre</td><td>2007</td></tr>
 <tr><td>Roumanie\*</td><td>5 juillet</td><td>1956 A</td><td>5 juillet</td><td>1956</td></tr>
@@ -422,7 +418,7 @@ Champ d’application le 26 février 2016**[^t-1]**
 <tr><td>Yémen</td><td>23 juillet</td><td>1963 A</td><td>23 juillet</td><td>1963</td></tr>
 <tr><td>Zambie</td><td>16 juin</td><td>1975 S</td><td>24 octobre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>13 mai</td><td>1991 A</td><td>13 mai</td><td>1991</td></tr>
-<tr><td colspan="5"><sup>\*</sup> <sup>Réserves</sup> et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org ou obtenus à la Direction du droit internationalpublic (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-1]: [RO 2012 5683](https://fedlex.data.admin.ch/eli/oc/2012/663), [2016 767](https://fedlex.data.admin.ch/eli/oc/2016/146). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-1]: [RO 2012 5683](https://fedlex.data.admin.ch/eli/oc/2012/663); [2016 767](https://fedlex.data.admin.ch/eli/oc/2016/146); [2021 573](https://fedlex.data.admin.ch/eli/oc/2021/573). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral « Fedlex » à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.

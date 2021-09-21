@@ -3,11 +3,11 @@ sr: "0.192.110.02"
 title: Übereinkommen vom 13. Februar 1946 über die Vorrechte und Immunitäten der Vereinten Nationen
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/663"
 language: de
-version: 2016-02-26
+version: 2021-09-22
 adopted: 1946-02-13
 in_force: 2012-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/663/20160226/de/xml/fedlex-data-admin-ch-eli-cc-2012-663-20160226-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/663/20160226/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/663/20210922/de/xml/fedlex-data-admin-ch-eli-cc-2012-663-20210922-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/663/20210922/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,15 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/663/20160226/de"
 
 AS **2012** 5683
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in New York am 13. Februar 1946
 
 Schweizerische Beitrittsurkunde hinterlegt am 25. September 2012 In Kraft getreten für die Schweiz am 25. September 2012
 
-(Stand am 26. Februar 2016)
-
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
+(Stand am 22. September 2021)
 
 Da Artikel 104 der Charta der Vereinten Nationen vom 26. Juni 1945[^ingress-1] (Charta) bestimmt, dass die Organisation der Vereinten Nationen (Organisation) im Hoheitsgebiet jedes Mitglieds die Rechts- und Geschäftsfähigkeit geniesst, die zur Wahrnehmung ihrer Aufgaben und zur Verwirklichung ihrer Ziele erforderlich ist;
 
@@ -32,7 +30,7 @@ da Artikel 105 der Charta bestimmt, dass die Organisation im Hoheitsgebiet jedes
 
 hat demgemäss die Generalversammlung der Vereinten Nationen durch eine am 13. Februar 1946 angenommene Entschliessung das folgende Übereinkommen genehmigt und jedem Mitglied der Organisation zum Beitritt empfohlen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. I
 
@@ -223,7 +221,7 @@ Die Organisation sorgt für geeignete Verfahren zur Beilegung:
 
 Jede Streitigkeit über die Auslegung oder Anwendung dieses Übereinkommens wird dem Internationalen Gerichtshof vorgelegt, sofern nicht die Parteien im Einzelfall ein anderes Beilegungsverfahren vereinbaren. Entsteht zwischen der Organisation und einem Mitglied eine Streitigkeit, so wird ein Gutachten über jede aufgeworfene Rechtsfrage eingeholt, im Einklang mit Artikel 96 der Charta und Artikel 65 des Statuts des Internationalen Gerichtshofs vom 26. Juni 1945[^VIII-subdivu2-1]. Das Gutachten des Gerichtshofs wird von den Parteien als bindend anerkannt.
 
-[^VIII-subdivu2-1]: [SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^VIII-subdivu2-1]: [SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 ## **Schlussartikel**
 
@@ -253,7 +251,7 @@ Der Generalsekretär kann mit einzelnen oder mehreren Mitgliedern Zusatzabkommen
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 26. Februar 2016**[^t-2]**
+Geltungsbereich am 22. September 2021[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -351,7 +349,6 @@ Geltungsbereich am 26. Februar 2016**[^t-2]**
 <tr><td>Malta</td><td>27. Juni</td><td>1968 N</td><td>21. September</td><td>1964</td></tr>
 <tr><td>Marokko</td><td>18. März</td><td>1957 B</td><td>18. März</td><td>1957</td></tr>
 <tr><td>Mauritius</td><td>18. Juli</td><td>1969 N</td><td>12. März</td><td>1968</td></tr>
-<tr><td>Mazedonien</td><td>18. August</td><td>1993 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Mexiko\*</td><td>26. November</td><td>1962 B</td><td>26. November</td><td>1962</td></tr>
 <tr><td>Mikronesien</td><td>5. Dezember</td><td>2008 B</td><td>5. Dezember</td><td>2008</td></tr>
 <tr><td>Moldau</td><td>12. April</td><td>1995 B</td><td>12. April</td><td>1995</td></tr>
@@ -368,6 +365,7 @@ Geltungsbereich am 26. Februar 2016**[^t-2]**
 <tr><td>Niederlande</td><td>19. April</td><td>1948 B</td><td>19. April</td><td>1948</td></tr>
 <tr><td>Niger</td><td>25. August</td><td>1961 N</td><td>3. August</td><td>1960</td></tr>
 <tr><td>Nigeria</td><td>26. Juni</td><td>1961 N</td><td>1. Oktober</td><td>1960</td></tr>
+<tr><td>Nordmazedonien</td><td>18. August</td><td>1993 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>18. August</td><td>1947 B</td><td>18. August</td><td>1947</td></tr>
 <tr><td>Österreich</td><td>10. Mai</td><td>1957 B</td><td>10. Mai</td><td>1957</td></tr>
 <tr><td>Pakistan</td><td>22. September</td><td>1948 B</td><td>22. September</td><td>1948</td></tr>
@@ -377,7 +375,7 @@ Geltungsbereich am 26. Februar 2016**[^t-2]**
 <tr><td>Peru</td><td>24. Juli</td><td>1963 B</td><td>24. Juli</td><td>1963</td></tr>
 <tr><td>Philippinen</td><td>28. Oktober</td><td>1947 B</td><td>28. Oktober</td><td>1947</td></tr>
 <tr><td>Polen</td><td>8. Januar</td><td>1948 B</td><td>8. Januar</td><td>1948</td></tr>
-<tr><td>Portugal\*</td><td>14. Oktober</td><td>1998 B</td><td>14. Oktober</td><td>1998</td></tr>
+<tr><td>Portugal</td><td>14. Oktober</td><td>1998 B</td><td>14. Oktober</td><td>1998</td></tr>
 <tr><td>Ruanda</td><td>15. April</td><td>1964 B</td><td>15. April</td><td>1964</td></tr>
 <tr><td>Rumänien\*</td><td>5. Juli</td><td>1956 B</td><td>5. Juli</td><td>1956</td></tr>
 <tr><td>Russland\*</td><td>22. September</td><td>1953 B</td><td>22. September</td><td>1953</td></tr>
@@ -420,9 +418,8 @@ Geltungsbereich am 26. Februar 2016**[^t-2]**
 <tr><td>Vereinigte Staaten\*</td><td>29. April</td><td>1970 B</td><td>29. April</td><td>1970</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>17. September</td><td>1946 B</td><td>17. September</td><td>1946</td></tr>
 <tr><td>Vietnam\*</td><td>6. April</td><td>1988 B</td><td>6. April</td><td>1988</td></tr>
-<tr><td>Zentralafrikanische Republik</td><td>4. September</td><td>1962 N</td><td>14. August</td><td>1960</td></tr>
 <tr><td>Zypern</td><td>5. November</td><td>1963 N</td><td>16. August</td><td>1960</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2012 5683](https://fedlex.data.admin.ch/eli/oc/2012/663)und [2016 767](https://fedlex.data.admin.ch/eli/oc/2016/146). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: [AS 2012 5683](https://fedlex.data.admin.ch/eli/oc/2012/663); [2016 767](https://fedlex.data.admin.ch/eli/oc/2016/146); [2021 573](https://fedlex.data.admin.ch/eli/oc/2021/573). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.

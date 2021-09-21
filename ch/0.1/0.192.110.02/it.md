@@ -3,11 +3,11 @@ sr: "0.192.110.02"
 title: Convenzione del 13 febbraio 1946 sui privilegi e le immunità delle Nazioni Unite
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/663"
 language: it
-version: 2016-02-26
+version: 2021-09-22
 adopted: 1946-02-13
 in_force: 2012-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/663/20160226/it/xml/fedlex-data-admin-ch-eli-cc-2012-663-20160226-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/663/20160226/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/663/20210922/it/xml/fedlex-data-admin-ch-eli-cc-2012-663-20210922-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/663/20210922/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/663/20160226/it"
 
 RU **2012** 5683
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa a New York il 13 febbraio 1946
+Conclusa a New York il 13 febbraio 1946 Strumento di adesione depositato dalla Svizzera il 25 settembre 2012 Entrata in vigore per la Svizzera il 25 settembre 2012
 
-Strumento di adesione depositato dalla Svizzera il 25 settembre 2012 Entrata in vigore per la Svizzera il 25 settembre 2012
-
-(Stato 26 febbraio 2016)
-
-[^t-1]: Dal testo originale francese.
+(Stato 22 settembre 2021)
 
 Considerato che l’articolo 104 dello Statuto delle Nazioni Unite[^ingress-1] (Statuto) stabilisce che l’Organizzazione gode, sul territorio di ciascuno dei suoi Membri, della capacità giuridica necessaria per l’esercizio delle sue funzioni e per il conseguimento dei suoi fini;
 
@@ -32,7 +28,7 @@ considerato che l’articolo 105 dello Statuto stabilisce che l’Organizzazione
 
 l’Assemblea generale ha approvato la seguente Convenzione mediante una risoluzione adottata il 13 febbraio 1946 e l’ha proposta a ciascun Membro delle Nazioni Unite per adesione:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. I
 
@@ -223,7 +219,7 @@ L’Organizzazione prevede procedure adeguate per comporre:
 - a) le controversie in materia di contratti o altre controversie di diritto privato in cui l’Organizzazione sia parte in causa;
 - b) le controversie in cui sia coinvolto un funzionario dell’Organizzazione che, in virtù della sua situazione ufficiale, gode dell’immunità, qualora questa non sia stata revocata dal Segretario generale.
 
-[^VIII-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^VIII-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 ## **Articolo finale**
 
@@ -253,7 +249,7 @@ Il Segretario generale può concludere, con uno o più Membri, accordi aggiuntiv
 
 (Seguono le firme)
 
-Campo d’applicazione il 26 febbraio 2016**[^t-2]**
+Campo d’applicazione il 22 settembre 2021[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -349,7 +345,7 @@ Campo d’applicazione il 26 febbraio 2016**[^t-2]**
 <tr><td>Liechtenstein</td><td>25 marzo</td><td>1993 A</td><td>25 marzo</td><td>1993</td></tr>
 <tr><td>Lituania\*</td><td>9 dicembre</td><td>1993</td><td>9 dicembre</td><td>1993</td></tr>
 <tr><td>Lussemburgo</td><td>14 febbraio</td><td>1949 A</td><td>14 febbraio</td><td>1949</td></tr>
-<tr><td>Macedonia</td><td>18 agosto</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>18 agosto</td><td>1993 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>23 maggio</td><td>1962 S</td><td>26 giugno</td><td>1960</td></tr>
 <tr><td>Malawi</td><td>17 maggio</td><td>1966 A</td><td>17 maggio</td><td>1966</td></tr>
 <tr><td>Malaysia</td><td>28 ottobre</td><td>1957 S</td><td>31 agosto</td><td>1957</td></tr>
@@ -380,7 +376,7 @@ Campo d’applicazione il 26 febbraio 2016**[^t-2]**
 <tr><td>Paraguay</td><td>2 ottobre</td><td>1953 A</td><td>2 ottobre</td><td>1953</td></tr>
 <tr><td>Perù</td><td>24 luglio</td><td>1963 A</td><td>24 luglio</td><td>1963</td></tr>
 <tr><td>Polonia</td><td>8 gennaio</td><td>1948 A</td><td>8 gennaio</td><td>1948</td></tr>
-<tr><td>Portogallo\*</td><td>14 ottobre</td><td>1998 A</td><td>14 ottobre</td><td>1998</td></tr>
+<tr><td>Portogallo</td><td>14 ottobre</td><td>1998 A</td><td>14 ottobre</td><td>1998</td></tr>
 <tr><td>Qatar\*</td><td>26 settembre</td><td>2007 A</td><td>26 settembre</td><td>2007</td></tr>
 <tr><td>Regno Unito</td><td>17 settembre</td><td>1946 A</td><td>17 settembre</td><td>1946</td></tr>
 <tr><td>Romania\*</td><td>5 luglio</td><td>1956 A</td><td>5 luglio</td><td>1956</td></tr>
@@ -422,7 +418,7 @@ Campo d’applicazione il 26 febbraio 2016**[^t-2]**
 <tr><td>Yemen</td><td>23 luglio</td><td>1963 A</td><td>23 luglio</td><td>1963</td></tr>
 <tr><td>Zambia</td><td>16 giugno</td><td>1975 S</td><td>24 ottobre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>13 maggio</td><td>1991 A</td><td>13 maggio</td><td>1991</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2012 5683](https://fedlex.data.admin.ch/eli/oc/2012/663)e [2016 767](https://fedlex.data.admin.ch/eli/oc/2016/146)Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: [RU 2012 5683](https://fedlex.data.admin.ch/eli/oc/2012/663); [2016 767](https://fedlex.data.admin.ch/eli/oc/2016/146); [2021 573](https://fedlex.data.admin.ch/eli/oc/2021/573). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
