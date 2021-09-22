@@ -3,20 +3,20 @@ canton: SG
 number: "571.3"
 title: Gesetz über die wirtschaftliche Unterstützung von Unternehmen in Zusammenhang mit der Covid-19-Epidemie
 language: de
-version: 2021-06-09
-valid_until: 2021-09-22
-version_adopted: 2021-06-08
+version: 2021-09-23
+valid_until: 2021-11-30
+version_adopted: 2021-09-22
 adopted: 2021-02-18
 in_force: 2021-02-18
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/571.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3170/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3261/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die wirtschaftliche Unterstützung von Unternehmen in Zusammenhang mit der Covid-19-Epidemie
 
-vom 18.02.2021 (Stand 09.06.2021)
+vom 18.02.2021 (Stand 23.09.2021)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -38,11 +38,15 @@ als Gesetz:[^ingress-2]
 <sup>1</sup> Dieser Erlass regelt:
 
 - a) die Ausgestaltung der Härtefallmassnahmen des Kantons St.Gallen auf Grundlage des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie vom 25. September 2020[^1-1] (nachfolgend Covid-19-Gesetz) und der eidgenössischen Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie vom 25. November 2020[^1-2] (nachfolgend Covid-19-Härtefallverordnung);
+- a<sup>bis</sup>) die Ausgestaltung der Massnahmen des Kantons St.Gallen für Publikumsanlässe von überkantonaler Bedeutung auf Grundlage des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie vom 25. September 2020[^1-3] und der eidgenössischen Verordnung über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung im Zusammenhang mit der Covid-19-Epidemie vom 26. Mai 2021[^1-4];
 - b) die Unterstützung professioneller Sportvereine durch Bereitstellung von Sicherheiten in Zusammenhang mit der Covid-19-Epidemie;
-- c) die Unterstützung von Seilbahnunternehmen durch Darlehen, Solidarbürgschaften und nicht rückzahlbare Beiträge in Zusammenhang mit der Covid-19-Epidemie.
+- c) die Unterstützung von Seilbahnunternehmen durch Darlehen, Solidarbürgschaften und nicht rückzahlbare Beiträge in Zusammenhang mit der Covid-19-Epidemie;
+- d) die Unterstützung von Tourismusorganisationen durch nicht rückzahlbare Beiträge in Zusammenhang mit der Covid-19-Epidemie.
 
 [^1-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
 [^1-2]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de).
+[^1-3]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
+[^1-4]: SR [818.101.28](https://db.clex.ch/link/Bund/818.101.28/de); nachfolgend Covid-19-Verordnung Publikumsanlässe.
 
 ## II. Härtefallmassnahmen
 
@@ -222,6 +226,103 @@ als Gesetz:[^ingress-2]
 <sup>1</sup> Auf Gesuche für Härtefallmassnahmen nach der Verordnung über die wirtschaftliche Unterstützung von Unternehmen in Zusammenhang mit der Covid-19-Epidemie vom 15. Dezember 2020[^17-1], die bei Vollzugsbeginn dieses Erlasses hängig sind, werden die Bestimmungen dieses Erlasses angewendet.
 
 [^17-1]: sGS [571.301](https://www.gesetzessammlung.sg.ch/data/571.301/de).
+
+## II<sup>bis</sup>. Massnahmen für Publikumsanlässe von überkantonaler Bedeutung (Schutzschirm)
+
+#### Art. 17a
+
+**Anforderungen an die Veranstaltungsunternehmen**
+
+<sup>1</sup> Veranstaltungsunternehmen kann für Publikumsanlässe von überkantonaler Bedeutung eine Unterstützung zugesichert werden, wenn:
+
+- a) sie und die Veranstaltung die Anforderungen nach dem 2. Abschnitt der Covid-19-Verordnung Publikumsanlässe erfüllen;
+- b) die Veranstaltung im Kanton St.Gallen durchgeführt wird.
+
+#### Art. 17b
+
+**Ausgestaltung der Unterstützung**
+
+<sup>1</sup> Die Ausgestaltung der Unterstützung richtet sich nach den Anforderungen nach dem 3. Abschnitt der Covid-19-Verordnung Publikumsanlässe.
+
+<sup>2</sup> Es besteht kein Rechtsanspruch auf die Zusicherung einer Unterstützung nach diesem Erlass.
+
+#### Art. 17c
+
+**Gesuchsverfahren und Entscheid über die Zusicherung einer Unterstützung**
+
+<sup>1</sup> Eine Unterstützung nach diesem Erlass wird auf Gesuch hin gewährt. Gesuche können in der Planungsphase der Veranstaltung bis 28. Februar 2022 beim Kanton eingereicht werden.
+
+<sup>2</sup> Der Kanton prüft im Einzelfall, ob die Voraussetzungen für die Zusicherung einer Unterstützung in Form einer Beteiligung an den ungedeckten Kosten erfüllt sind. Bei Bedarf können externe Expertinnen und Experten für die Beurteilung einzelner Fragen beigezogen werden.
+
+<sup>3</sup> Das zuständige Departement erlässt eine Verfügung über die Zusicherung der Beteiligung an den ungedeckten Kosten.
+
+#### Art. 17d
+
+**Entscheid über die Unterstützungsleistung im Fall der Absage, Verschiebung oder reduzierten Durchführung einer Veranstaltung**
+
+<sup>1</sup> Muss eine Veranstaltung aufgrund der Covid-19-Epidemie abgesagt oder verschoben werden oder kann sie im Sinn von Art. 2 Abs. 2 der Covid-19-Verordnung Publikumsanlässe nur reduziert durchgeführt werden, reicht das Veranstaltungsunternehmen die Belege nach Art. 10 der Covid-19-Verordnung Publikumsanlässe ein.
+
+<sup>2</sup> Gestützt auf die Belege und allfällige darüber hinausgehende Auskünfte nach Art. 10 Abs. 2 der Covid-19-Verordnung Publikumsanlässe legt der Kanton den Betrag der zugesicherten Unterstützungsleistung in Form einer Beteiligung an den ungedeckten Kosten fest.
+
+<sup>3</sup> Für die Bemessung der Unterstützungsleistung können externe Expertinnen und Experten beigezogen werden. Die Bemessung richtet sich nach den Vorgaben des Bundes.
+
+<sup>4</sup> Das zuständige Departement erlässt eine Verfügung über die Beteiligung an den ungedeckten Kosten.
+
+#### Art. 17e
+
+**Finanzierung**
+
+<sup>1</sup> Die Finanzierung der Unterstützungsleistungen erfolgt aus dem besonderen Eigenkapital.
+
+#### Art. 17f
+
+**Berichterstattung und Rechnungsstellung an den Bund**
+
+<sup>1</sup> Die Berichterstattung und die Rechnungsstellung an den Bund richten sich nach dem 6. Abschnitt der Covid-19-Verordnung Publikumsanlässe.
+
+#### Art. 17g
+
+**Entbindung von Geheimhaltungsvorschriften**
+
+<sup>1</sup> Mit Einreichung des Gesuchs entbindet die Gesuchstellerin oder der Gesuchsteller die zuständigen Amtsstellen des Bundes, der Kantone und der Gemeinden, mandatierte Dritte, kreditgebende Banken und sämtliche Stellen, die Subventionen oder andere Unterstützungsleistungen für die Veranstaltung erbringen, von den Geheimhaltungsvorschriften, insbesondere vom Bankkunden-, Steuer- und Amtsgeheimnis, soweit dies für die Beurteilung des Gesuchs, die Bemessung der Unterstützungsleistung und die Missbrauchsbekämpfung nötig ist.
+
+<sup>2</sup> Zur Erfüllung der Aufgaben nach diesem Erlass können die zuständigen Amtsstellen des Bundes, der Kantone und der Gemeinden, mandatierte Dritte, kreditgebende Banken und sämtliche Stellen, die Subventionen oder andere Unterstützungsleistungen für die Veranstaltung erbringen, untereinander die notwendigen Daten austauschen. Die Gesuchstellerin oder der Gesuchsteller stimmt diesem Datenaustausch mit Einreichung des Gesuchs zu.
+
+#### Art. 17h
+
+**Missbrauchsbekämpfung**
+
+<sup>1</sup> Der Kanton stellt die Missbrauchsbekämpfung mit geeigneten Mitteln sicher und fordert zu Unrecht ausbezahlte Unterstützungsleistungen zurück.
+
+<sup>2</sup> Die zuständigen Departemente treffen je in ihrem Zuständigkeitsbereich die erforderlichen Regelungen.
+
+#### Art. 17i
+
+**Strafbestimmung**
+
+<sup>1</sup> Sofern keine schwerere strafbare Handlung nach dem Schweizerischen Strafgesetzbuch vom 21. Dezember 1937[^17i-1] vorliegt, wird mit Busse bis zu Fr. 10'000.– bestraft, wer vorsätzlich mit falschen Angaben eine Unterstützungsleistung nach diesem Erlass erwirkt oder die gewährten Mittel in Abweichung von Art. 11 der Covid-19-Verordnung Publikumsanlässe verwendet.
+
+[^17i-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
+
+#### Art. 17j
+
+**Ausführungsbestimmungen und Vollzug**
+
+<sup>1</sup> Das zuständige Departement:
+
+- a) kann Ausführungsbestimmungen erlassen;
+- b) vollzieht diesen Erlass sowie die Covid-19-Verordnung Publikumsanlässe, soweit der Kanton zuständig ist und dieser Erlass keine andere Regelung trifft.
+
+#### Art. 17k
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Entscheide über die Zusicherung einer Unterstützung oder über die Unterstützungsleistung im Fall der Absage, Verschiebung oder reduzierten Durchführung einer Veranstaltung, die der Kanton gestützt auf die Verordnung des Kantons St.Gallen über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung in Zusammenhang mit der Covid-19-Epidemie (Schutzschirm) vom 15. Juni 2021[^17k-1] getroffen hat, behalten ihre Gültigkeit.
+
+<sup>2</sup> Auf Gesuche nach der Verordnung des Kantons St.Gallen über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung in Zusammenhang mit der Covid-19-Epidemie (Schutzschirm) vom 15. Juni 2021[^17k-2], die bei Vollzugsbeginn dieses Nachtrags hängig sind, werden die Bestimmungen dieses Erlasses angewendet.
+
+[^17k-1]: sGS [571.303](https://www.gesetzessammlung.sg.ch/data/571.303/de).
+[^17k-2]: sGS [571.303](https://www.gesetzessammlung.sg.ch/data/571.303/de).
 
 ## III. Unterstützung professioneller Sportvereine durch Bereitstellung von Sicherheiten
 
