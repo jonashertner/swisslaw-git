@@ -4,27 +4,30 @@ number: "496.100"
 title: Kantonale Natur- und Heimatschutzverordnung
 short: KNHV
 language: de
-version: 2012-12-01
-corrected: 2014-11-25
-version_adopted: 2012-09-25
+version: 2020-07-01
+corrected: 2021-09-23
+version_adopted: 2020-06-30
 adopted: 2011-04-18
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/496.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1582/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3063/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Kantonale Natur- und Heimatschutzverordnung (KNHV)
+# Kantonale Natur- und Heimatschutzverordnung
 
-Gestützt auf Art. 45 der Kantonsverfassung[^t-1]
+(KNHV)
+
+Vom 18.04.2011 (Stand 01.07.2020)
+
+Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
 von der Regierung erlassen am 18. April 2011
 
-I. Allgemeine Bestimmungen
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
-[^t-1]: BR 110.100
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -35,10 +38,9 @@ I. Allgemeine Bestimmungen
 <sup>2</sup> Zuständige Fachstellen sind:
 
 - a) für die Bereiche Landschafts- und Naturschutz das Amt für Natur und Umwelt;
-
 - b) für die Bereiche Denkmalschutz und Archäologie das Amt für Kultur.
 
-<sup>3</sup> Das Amt für Natur und Umwelt ist zuständig für die Gewährung der landwirtschaftlichen Beiträge für ökologische Ausgleichsflächen von besonderer Qualität und die Vernetzung von ökologischen Ausgleichsflächen (Öko-Qualitätsbeiträge).
+<sup>3</sup> Das Amt für Natur und Umwelt und das Amt für Landwirtschaft und Geoinformation legen die Richtlinien und Anleitungen für Vernetzungsprojekte und Bewirtschaftungsverträge fest. Das Amt für Natur und Umwelt ist im Bereich des Biotop- und Artenschutzes nach Bundesrecht für die inhaltlichen Vorgaben und die Überprüfung ihrer Umsetzung in den Vernetzungsprojekten zuständig. Es prüft in diesem Bereich die Bewirtschaftungsverträge der Biodiversitätsförderflächen der Qualitätsstufe 2 und der Vernetzung mittels Stichproben und ist bei diesen Massnahmen für die Wirkungskontrolle zuständig.
 
 #### Art. 2
 
@@ -52,17 +54,23 @@ I. Allgemeine Bestimmungen
 
 <sup>4</sup> Wird die Kommission von einer Gemeinde zur Begutachtung beigezogen, kann sie ihren Aufwand der Gemeinde in Rechnung stellen. Für die Verrechnung der Kosten für die Mitglieder der Kommission gelten die Ansätze gemäss den Bestimmungen der Personalgesetzgebung für nebenamtliche Mitarbeitende.
 
-[^2-1]: BR 496.000 01.12.2012 1
+[^2-1]: BR [496.000](https://www.gr-lex.gr.ch/data/496.000/de)
 
 #### Art. 3
 
 **Inventare**
 
-Im Rahmen der öffentlichen Auflage von neuen Inventaren sowie deren Nachführungen werden neben den betroffenen Grundeigentümerinnen und Grundeigentümern auch die betroffenen Baurechtsnehmerinnen und Baurechtsnehmer benachrichtigt.
+<sup>1</sup> Im Rahmen der öffentlichen Auflage von neuen Inventaren sowie deren Nachführungen werden neben den betroffenen Grundeigentümerinnen und Grundeigentümern auch die betroffenen Baurechtsnehmerinnen und Baurechtsnehmer benachrichtigt.
 
-### II. Landschafts- und Naturschutz
+<sup>2</sup> Die kantonalen Inventare können im Rahmen von Genehmigungs- oder Bewilligungsverfahren durch die Fachstellen nachgeführt werden, wenn das Verfahren den Vorgaben von Artikel 4 Absatz 1 und Artikel 5 des Kantonalen Natur- und Heimatschutzgesetzes[^3-1] entspricht und der Entscheid der zuständigen Behörde Änderungen an Inventarobjekten zur Folge hat.
 
-- 1\. LANDSCHAFTSSCHUTZ
+<sup>3</sup> Die Regierung kann Richtlinien für die ordentliche und die nach Absatz 2 vereinfachte Nachführung der kantonalen Inventare erlassen.
+
+[^3-1]: BR [496.000](https://www.gr-lex.gr.ch/data/496.000/de)
+
+## 2. Landschafts- und Naturschutz
+
+### 2.1. Landschaftsschutz
 
 #### Art. 4
 
@@ -72,9 +80,7 @@ Im Rahmen der öffentlichen Auflage von neuen Inventaren sowie deren Nachführun
 
 <sup>2</sup> Die Höhe der Ersatzabgabe entspricht den durchschnittlichen Kosten für gleichwertigen Realersatz.
 
-<sup>3</sup>[^4-1]Die Ersatzabgabe wird einer Spezialfinanzierung im Sinne eines Biotop- und Landschaftsschutzfonds zugewiesen.
-
-[^4-1]: Fassung gemäss VO über die Anpassung von regierungsrätlichen Verordnungen im Zusammenhang mit der Einführung des HRM2; mit RB vom 25. September 2012 auf den 1. Dezember 2012 in Kraft gesetzt.
+<sup>3</sup> Die Ersatzabgabe wird einer Spezialfinanzierung im Sinne eines Biotop- und Landschaftsschutzfonds zugewiesen.
 
 #### Art. 5
 
@@ -94,13 +100,11 @@ Im Rahmen der öffentlichen Auflage von neuen Inventaren sowie deren Nachführun
 
 <sup>2</sup> Gesuche um Freigabe von Mitteln für Ersatzmassnahmen sind an die Fachstelle zu richten.
 
-<sup>3</sup>[^6-1]Die Fachstelle prüft eingehende Gesuche. Die Zuständigkeit für die Gewährung von Mitteln richtet sich nach Artikel 21.
+<sup>3</sup> Die Fachstelle prüft eingehende Gesuche. Die Zuständigkeit für die Gewährung von Mitteln richtet sich nach Artikel 21.
 
-- 2\. NATURSCHUTZ
+### 2.2. Naturschutz
 
-A. Biotopschutz
-
-[^6-1]: Fassung gemäss VO über die Anpassung von regierungsrätlichen Verordnungen im Zusammenhang mit der Einführung des HRM2; mit RB vom 25. September 2012 auf den 1. Dezember 2012 in Kraft gesetzt. 2 01.12.2012
+### 2.2.1. Biotopschutz
 
 #### Art. 7
 
@@ -112,9 +116,7 @@ A. Biotopschutz
 
 <sup>3</sup> Die Höhe der Ersatzabgabe entspricht den durchschnittlichen Kosten für gleichwertigen Realersatz.
 
-<sup>4</sup>[^7-1]Die Ersatzabgabe wird einer Spezialfinanzierung im Sinne eines Biotop- und Landschaftsschutzfonds zugewiesen.
-
-[^7-1]: Fassung gemäss VO über die Anpassung von regierungsrätlichen Verordnungen im Zusammenhang mit der Einführung des HRM2; mit RB vom 25. September 2012 auf den 1. Dezember 2012 in Kraft gesetzt.
+<sup>4</sup> Die Ersatzabgabe wird einer Spezialfinanzierung im Sinne eines Biotop- und Landschaftsschutzfonds zugewiesen.
 
 #### Art. 8
 
@@ -124,51 +126,45 @@ A. Biotopschutz
 
 <sup>2</sup> Gesuche um Freigabe von Mitteln für Ersatzmassnahmen sind an die Fachstelle zu richten.
 
-<sup>3</sup>[^8-1]Die Fachstelle prüft eingehende Gesuche. Die Zuständigkeit für die Gewährung von Mitteln richtet sich nach Artikel 21.
-
-[^8-1]: Fassung gemäss VO über die Anpassung von regierungsrätlichen Verordnungen im Zusammenhang mit der Einführung des HRM2; mit RB vom 25. September 2012 auf den 1. Dezember 2012 in Kraft gesetzt. 01.12.2012 3
+<sup>3</sup> Die Fachstelle prüft eingehende Gesuche. Die Zuständigkeit für die Gewährung von Mitteln richtet sich nach Artikel 21.
 
 #### Art. 9
 
 **Hecken und Feldgehölze**
 
-<sup>1</sup> Als Hecken oder Feldgehölze gelten Flächen, soweit es sich nicht um Wald handelt, welche mit mindestens fünf Jahre alten, vorwiegend einheimischen Sträuchern und Bäumen bestockt sind, eine Flächenausdehnung von mindestens 30 m<sup>2</sup> oder eine Länge von mindestens 10 m aufweisen.
+<sup>1</sup> Als Hecken oder Feldgehölze gelten nicht der Waldgesetzgebung unterstehende Bestockungen, welche aus mindestens fünf Jahre alten, vorwiegend einheimischen und standortgerechten Sträuchern und Bäumen bestehen sowie eine bestockte Fläche von mindestens 30 m² oder eine Länge von mindestens 10 m aufweisen.
 
 <sup>2</sup> Die Fläche der Hecken und der Feldgehölze wird von der Verbindungslinie von Stockmitte zu Stockmitte der äussersten Bäume oder bei Sträuchern vom Zentrum der Stockausschläge (bestockte Fläche) und zusätzlich einem Streifen von 2 m Breite (Heckensaum) gebildet. Die Flächenausdehnung der Hecken und Feldgehölze sowie deren Ersatz werden nach Anhang 1 ermittelt.
 
 <sup>3</sup> Die Pflege der Hecken und Feldgehölze erfolgt in Absprache und nach den Anweisungen des zuständigen Forstdienstes. Dieser kontrolliert die Heckenpflegeleistungen im Rahmen seiner hoheitlichen Aufgaben.
 
-B. Artenschutz
+### 2.2.2. Artenschutz
 
 #### Art. 10
 
 **Kantonal geschützte Pflanzen und Tiere**
 
-Auf dem Gebiet des Kantons Graubünden sind zusätzlich zu den durch Bundesrecht geschützten Pflanzen und Tieren alle im Anhang 2 aufgeführten Arten geschützt.
+<sup>1</sup> Auf dem Gebiet des Kantons Graubünden sind zusätzlich zu den durch Bundesrecht geschützten Pflanzen und Tieren alle im Anhang 2 aufgeführten Arten geschützt.
 
 #### Art. 11
 
 **Pflanzen- und Pilzschutzgebiete**
 
-Die Gemeinden sorgen bei der Ausscheidung von Pflanzen- und Pilzschutzgebieten für eine angemessene Mitwirkung der Bevölkerung und der betroffenen Grundeigentümerinnen und Grundeigentümer.
+<sup>1</sup> Die Gemeinden sorgen bei der Ausscheidung von Pflanzen- und Pilzschutzgebieten für eine angemessene Mitwirkung der Bevölkerung und der betroffenen Grundeigentümerinnen und Grundeigentümer.
 
 #### Art. 12
 
 **Pilzsammeln**
 
-<sup>1</sup>[^12-1]In Pilzschutzgebieten ist das Sammeln von Pilzen verboten.
+<sup>1</sup> In Pilzschutzgebieten ist das Sammeln von Pilzen verboten.
 
 <sup>2</sup> Das Sammeln von Pilzen ist vom 1. bis und mit dem 10. Tag jedes Monats verboten. An den übrigen Tagen dürfen pro Tag und Person höchstens 2 kg Pilze gesammelt werden.
 
-<sup>3</sup>[^12-2]Das Sammeln von Pilzen in Gruppen von mehr als drei Personen ist verboten. Ausgenommen von diesem Verbot sind Familien
+<sup>3</sup> Das Sammeln von Pilzen in Gruppen von mehr als drei Personen ist verboten. Ausgenommen von diesem Verbot sind Familien.
 
 <sup>4</sup> Der Gebrauch von Rechen, Hacken und anderen Geräten zum Sammeln von Pilzen sowie das mutwillige Zerstören von Pilzen sind nicht zulässig.
 
-<sup>5</sup>[^12-3]Die Fachstelle kann in Einzelfällen zu wissenschaftlichen oder zu Lehrzwecken Ausnahmen von den Verboten und Beschränkungen nach den Absätzen 1 bis 3 bewilligen.
-
-[^12-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
-[^12-2]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten
-[^12-3]: Einfügung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten 4 01.12.2012
+<sup>5</sup> Die Fachstelle kann in Einzelfällen zu wissenschaftlichen oder zu Lehrzwecken Ausnahmen von den Verboten und Beschränkungen nach den Absätzen 1 bis 3 bewilligen.
 
 #### Art. 13
 
@@ -178,9 +174,9 @@ Die Gemeinden sorgen bei der Ausscheidung von Pflanzen- und Pilzschutzgebieten f
 
 <sup>2</sup> Die Hilfsaufseherinnen und Hilfsaufseher für den Pflanzen- und Pilzschutz werden vom Departement für die Dauer von jeweils vier Jahren gewählt. Sie haben in der Ausübung ihrer Tätigkeit Dritten gegenüber die Stellung eines nebenamtlichen Mitarbeitenden des Kantons und erhalten vom Departement einen Ausweis.
 
-### III. Heimatschutz
+## 3. Heimatschutz
 
-- 1\. DENKMALPFLEGE
+### 3.1. Denkmalpflege
 
 #### Art. 14
 
@@ -198,7 +194,7 @@ Die Gemeinden sorgen bei der Ausscheidung von Pflanzen- und Pilzschutzgebieten f
 
 <sup>2</sup> Die vorsorglichen Schutzmassnahmen werden hinfällig, wenn innert dieser Frist auf die Anordnung von definitiven Schutzmassnahmen verzichtet wird.
 
-- 2\. ARCHÄOLOGISCHE AUSGRABUNGEN
+### 3.2. Archäologische Ausgrabungen
 
 #### Art. 16
 
@@ -208,7 +204,7 @@ Die Gemeinden sorgen bei der Ausscheidung von Pflanzen- und Pilzschutzgebieten f
 
 <sup>2</sup> Der Einsatz von Metalldetektoren zur Suche von vermuteten archäologischen Gegenständen durch Dritte bedarf der Bewilligung der Fachstelle.
 
-### IV. Kantonsbeiträge
+## 4. Kantonsbeiträge
 
 #### Art. 17
 
@@ -219,10 +215,6 @@ Die Gemeinden sorgen bei der Ausscheidung von Pflanzen- und Pilzschutzgebieten f
 <sup>2</sup> Mit Arbeiten und Massnahmen darf erst nach dem Beitragsentscheid durch die zuständige Behörde begonnen werden.
 
 <sup>3</sup> In dringenden Fällen kann die für die Beitragsgewährung zuständige Behörde den vorzeitigen Beginn der Arbeiten bewilligen. Diese Bewilligung verleiht keinen Anspruch auf die Beitragsgewährung.
-
-**5**
-
-01.12.2012
 
 #### Art. 18
 
@@ -236,13 +228,13 @@ Die Gemeinden sorgen bei der Ausscheidung von Pflanzen- und Pilzschutzgebieten f
 
 **Verwirkung**
 
-Die Beitragsgewährung entfällt, wenn Arbeiten oder Massnahmen vor der Beitragszusicherung begonnen wurden oder wesentliche Änderungen am Vorhaben während der Realisierung nicht vorgängig von der für die Beitragsgewährung zuständigen Behörde bewilligt wurden.
+<sup>1</sup> Die Beitragsgewährung entfällt, wenn Arbeiten oder Massnahmen vor der Beitragszusicherung begonnen wurden oder wesentliche Änderungen am Vorhaben während der Realisierung nicht vorgängig von der für die Beitragsgewährung zuständigen Behörde bewilligt wurden.
 
 #### Art. 20
 
 **Begutachtung**
 
-Die zuständigen Fachstellen unterbreiten Beitragsgesuche von über 200 000 Franken der kantonalen Natur- und Heimatschutzkommission.
+<sup>1</sup> Die zuständigen Fachstellen unterbreiten Beitragsgesuche von über 200 000 Franken der kantonalen Natur- und Heimatschutzkommission.
 
 #### Art. 21
 
@@ -272,10 +264,6 @@ Die zuständigen Fachstellen unterbreiten Beitragsgesuche von über 200 000 Fran
 
 <sup>3</sup> Die Höhe des Kantonsbeitrages sowie die Einzelheiten der Beitragsgewährung werden im Rahmen einer Leistungsvereinbarung mit der Parkträgerschaft geregelt.
 
-**6**
-
-01.12.2012
-
 #### Art. 24
 
 **3. Massnahmen des Heimatschutzes a) Kosten der Erhaltung**
@@ -283,9 +271,7 @@ Die zuständigen Fachstellen unterbreiten Beitragsgesuche von über 200 000 Fran
 <sup>1</sup> Die Kantonsbeiträge an die anrechenbaren Kosten der Erhaltung, Instandstellung und Pflege von schutzwürdigen Baudenkmälern betragen:
 
 - a) 15 Prozent bei öffentlichen Bauten;
-
 - b) 20 Prozent bei privaten Bauten;
-
 - c) bis 35 Prozent für besonders aufwändige Massnahmen einschliesslich Massnahmen des Ortsbildschutzes.
 
 <sup>2</sup> Die Beiträge sind auf 300 000 Franken pro Objekt begrenzt. Die Regierung kann in ausserordentlichen Fällen höhere Beiträge gewähren.
@@ -296,7 +282,7 @@ Die zuständigen Fachstellen unterbreiten Beitragsgesuche von über 200 000 Fran
 
 **b) Kosten des Erwerbs**
 
-Der Kantonsbeitrag an den Erwerb von schutzwürdigen Bauten von nationaler Bedeutung beläuft sich auf höchstens 20 Prozent des amtlich geschätzten Kaufpreises des Objektes.
+<sup>1</sup> Der Kantonsbeitrag an den Erwerb von schutzwürdigen Bauten von nationaler Bedeutung beläuft sich auf höchstens 20 Prozent des amtlich geschätzten Kaufpreises des Objektes.
 
 #### Art. 26
 
@@ -318,22 +304,15 @@ Der Kantonsbeitrag an den Erwerb von schutzwürdigen Bauten von nationaler Bedeu
 
 <sup>3</sup> Die Kantonsbeiträge an Forschungsvorhaben werden in der Regel aufgrund der finanziellen Möglichkeiten der Gesuchstellenden sowie aufgrund der Leistungen der Gemeinden, sowie anderer öffentlich-rechtlicher Körperschaften und Institutionen festgelegt.
 
-**7**
-
-01.12.2012
-
 #### Art. 28
 
 **Bedingungen und Auflagen**
 
-Die Zusicherung eines Beitrages für ein Objekt wird in der Regel mit folgenden Auflagen und Bedingungen verknüpft:
+<sup>1</sup> Die Zusicherung eines Beitrages für ein Objekt wird in der Regel mit folgenden Auflagen und Bedingungen verknüpft:
 
 - a) das Objekt ist in einem dem Beitragszweck entsprechenden Zustand zu erhalten;
-
 - b) Änderungen des Zustandes des Objektes bedürfen der Zustimmung der zuständigen Fachstelle;
-
 - c) die Weisungen der zuständigen Fachstelle sind zu befolgen;
-
 - d) Objekte, an welche Beiträge von über 25 000 Franken geleistet werden, sind unter Schutz zu stellen. Die Unterschutzstellung ist im Grundbuch als öffentlich-rechtliche Eigentumsbeschränkungen anzumerken.
 
 #### Art. 29
@@ -346,23 +325,23 @@ Die Zusicherung eines Beitrages für ein Objekt wird in der Regel mit folgenden 
 
 <sup>3</sup> Die Schlusszahlung erfolgt nach Prüfung der Schlussabrechnung und der Ablieferung einer fachgerechten Dokumentation.
 
-### V. Strafbestimmungen
+## 5. Strafbestimmungen
 
 #### Art. 30
 
-**Ordnungsbussenverfahren 1. Grundsatz**
+**Ordnungsbussenverfahren nach kantonalem Recht 1. Grundsatz**
 
-<sup>1</sup> Übertretungen der Pilzschutzbestimmungen des Kantons können nach Massgabe des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EGzStPO) vom 16. Juni 2010[^30-1] im Ordnungsbussenverfahren geahndet werden.
+<sup>1</sup> Übertretungen der Pilz- und Pflanzenschutzbestimmungen des Kantons können nach Massgabe des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EGzStPO) vom 16. Juni 2010[^30-1] im Ordnungsbussenverfahren geahndet werden.
 
-<sup>2</sup> Die Bussenbeiträge sind in Anhang 3 aufgeführt.
+<sup>2</sup> Die Bussenbeträge sind in Anhang 3 aufgeführt.
 
-[^30-1]: BR 350.100 8 01.12.2012
+[^30-1]: BR [350.100](https://www.gr-lex.gr.ch/data/350.100/de)
 
 #### Art. 31
 
 **2. Zuständige Organe**
 
-Zur Erhebung von Ordnungsbussen berechtigt sind die Organe der Polizei, des Forstdienstes, der Jagd- und Fischereiaufsicht, der eidgenössischen Grenzwacht sowie die Hilfsaufseherinnen und Hilfsaufseher für den Pflanzen- und Pilzschutz.
+<sup>1</sup> Zur Erhebung von Ordnungsbussen ermächtigt sind die Organe der Polizei, des Forstdienstes, der Jagd- und Fischereiaufsicht, der eidgenössischen Grenzwacht sowie die Hilfsaufseherinnen und Hilfsaufseher für den Pflanzen- und Pilzschutz.
 
 #### Art. 32
 
@@ -386,22 +365,30 @@ Zur Erhebung von Ordnungsbussen berechtigt sind die Organe der Polizei, des Fors
 
 **5. Formulare**
 
-Die Formulare im Ordnungsbussenverfahren müssen mindestens die Angaben nach Anhang 4 enthalten.
+<sup>1</sup> Die Formulare im Ordnungsbussenverfahren müssen mindestens die Angaben nach Anhang 4 enthalten.
 
-### VI. Schlussbestimmungen
+#### Art. 34a
+
+**Ordnungsbussenverfahren nach Bundesrecht**
+
+<sup>1</sup> Die in Artikel 31 bezeichneten Organe sind zuständig für die Erhebung von Ordnungsbussen gemäss bundesrechtlicher Ordnungsbussengesetzgebung[^34a-1].
+
+<sup>2</sup> Das Verfahren richtet sich nach dem Ordnungsbussengesetz des Bundes[^34a-2].
+
+[^34a-1]: SR [741.03](https://db.clex.ch/link/Bund/741.03/de); SR [741.031](https://db.clex.ch/link/Bund/741.031/de)
+[^34a-2]: SR [741.03](https://db.clex.ch/link/Bund/741.03/de)
+
+## 6. Schlussbestimmungen
 
 #### Art. 35
 
 **Aufhebung bisherigen Rechts**
 
-Mit dem Inkrafttreten dieser Verordnung werden folgende Erlasse aufgehoben:
+<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung werden folgende Erlasse aufgehoben:
 
 - a) Ausführungsbestimmungen zur Verordnung über den Natur- und Heimatschutz vom 16. Dezember 1985[^35-1];
-
 - b) Verordnung über den Schutz der Pilze (Pilzschutzverordnung, PSV) vom 9. Dezember 1996[^35-2];
-
 - c) Reglement für die Hilfsaufseher im Dienste des Pflanzen- und Pilzschutzes vom 7. Juli 1975[^35-3];
-
 - d) Reglement für die Ausrichtung von Beiträgen an Massnahmen des Natur- und Heimatschutzes vom 19. Februar 1991[^35-4].
 
 [^35-1]: AGS 1985, 1587
@@ -413,116 +400,8 @@ Mit dem Inkrafttreten dieser Verordnung werden folgende Erlasse aufgehoben:
 
 **Inkrafttreten**
 
-Diese Verordnung tritt zusammen mit dem Kantonalen Natur- und Heimatschutzgesetz (KNHG) in Kraft[^36-1].
+<sup>1</sup> Diese Verordnung tritt zusammen mit dem Kantonalen Natur- und Heimatschutzgesetz (KNHG) in Kraft[^36-1].
 
-[^36-1]: 1. Mai 2011 01.12.2012 9
+[^36-1]: 1. Mai 2011
 
-### Anhang 1
-
-(Art. 9)
-
-### Hecken und Feldgehölze
-
-A) Hecken und Feldgehölze richtig messen
-
-Hecken und Feldgehölze bestehen aus der bestockten Fläche inklusive Heckensaum. Die bestockte Fläche wird von der Verbindungslinie von Stockmitte zu Stockmitte der äussersten Bäume oder bei Sträuchern vom Zentrum der Stockausschläge und der Heckensaum vom Perimeter der bestockten Fläche aus eingemessen. Besteht zwischen bestockten Flächen ein Abstand von weniger als 10 m, gelten die Flächen als eine Fläche. Die Pufferzone im Sinne von Artikel 14 Absatz 2 Litera d der Eidgenössischen Verordnung über den Natur- und Heimatschutz[^hHeckenundFeldgehöl-1] wird vom Perimeter des Heckensaumes aus eingemessen. Sie hat in der Regel eine Breite von 5 m.
-
-B) Realersatz
-
-Beim Ersatz von Hecken und Feldgehölzen ist darauf zu achten, dass genügend Fläche für den 2 m breiten Heckensaum zur Verfügung steht. Ersatzpflanzungen von Hecken sind mit einheimischen und standortgerechten Sträuchern und einzelnen Bäumen vorzunehmen. Es sind verschiedene Strauch- und Baumarten zu verwenden. Der Anteil an Dornen tragenden Sträuchern muss mindestens 20 Prozent der Gehölze ausmachen.
-
-[^hHeckenundFeldgehöl-1]: SR 451.1 10 01.12.2012
-
-### Anhang 2
-
-(Art. 10)
-
-### Liste der kantonal geschützten Pflanzen
-
-**deutsch Graslilien Braungrünstieliger Streifenfarn Keilblättriger Streifenfarn Straussblütige Glockenblume Mattioliprimel**
-
-wissenschaftlich Anthericum liliago Asplenium adulterinum Asplenium cuneifolium Campanula thyrsoides Cortusa matthiolii Cyclamen purpurascens Mill. Hasenöhrli, Cyclamen Daphne Mezereum L.
-
-**Seidelbast Ladiner Hungerblümchen Wollgräser, alle Arten Schwalbenwurzenzian Niederliegender Enzian Grüne Nieswurz Edelweiss Saumnarbe Jupiters Lichtnelke Fieberklee Fettblatt, Fettkraut Aurikel Narzisse, weisse Arten Berg-Anemone (dunkelviolett) Zwerg-Hahnenfuss Arktischer Knöllchensteinbrech Zweiblättriger Blaustern Federgras Moorenzian Siebenstern**
-
-Draba ladina Eriophorum spp.
-
-Gentiana asclepiadea Gentiana prostrata Helleborus viridis Leontopodium alpinum Lomatogonium carinthiacum Lychnis flos-jovis Menyanthes trifoliata Pinguicula L.
-
-Primula Auricula L.
-
-Narcissus, weisse Arten Pulsatilla montana Rchb.
-
-Ranunculus pygmaeus Saxifraga cernua Scilla bifolia Stipa, alle Arten Swertia perennis Trientalis europea
-
-### Liste der kantonal geschützten Tiere
-
-**deutsch Grosses Wiesenvögelchen Igel Weinbergschnecke**
-
-wissenschaftlich Coenonympha tullia Erinaceidae Helix pomatia
-
-**11**
-
-01.12.2012
-
-[^hListederkantonalg_2-1]: Fassung gemäss RB vom 5. Juli 2011; am 1. August 2011 in Kraft getreten 12 01.12.2012
-
-### Anhang 3
-
-[^hListederkantonalg_2-1]
-
-(Art. 30 Abs. 2)
-
-### Bussenliste bei Übertretungen der Pilzschutz-
-
-**(Art. 12)**
-
-bestimmungen Fr.
-
-**400.– 200.–**
-
-- 1\. Pilzsammeln in Pilzschutzgebieten
-
-- 2\. Pilzsammeln während der Schonzeit
-
-- 3\. Überschreitung der zulässigen Menge:
-
-**50.– 100.– 200.– 300.– 400.– 500.–**
-
-bis 1/2 kg bis 1 kg bis 2 kg bis 3 kg bis 4 kg bis 5 kg Bei einer Überschreitung der Mengenbeschränkung um über 5 kg leiten die Ordnungsorgane das Strafverfahren vor Verwaltungsbehörden ein.
-
-- 4\. Sammeln in Gruppen von mehr als 3 Personen je Person
-
-**100.– 200.– 200.–**
-
-- 5\. Gebrauch von Rechen, Hacken und anderen Geräten
-
-- 6\. Mutwilliges Zerstören von Pilzen Bei Erfüllung mehrerer Tatbestände werden die Bussen kumuliert.
-
-### Anhang 4
-
-(Art. 34)
-
-### Mindestanforderungen für Formulare
-
-BUSSENFORMULARE
-
-Die Bussenformulare müssen mindestens folgende Angaben enthalten:
-
-- a) Name, Vorname, Geburtsdatum und Wohnort der Täterin oder des Täters;
-
-- b) Art, Zeit und Ort der Widerhandlung sowie die einschlägigen Ziffern der Bussenliste;
-
-- c) den Bussenbetrag;
-
-- d) den Hinweis, dass das Strafverfahren vor Verwaltungsbehörden durchgeführt wird, sofern die Busse nicht innert 30 Tagen bezahlt wird;
-
-- e) die Dauer der Bedenkfrist;
-
-- f) das Datum der Abgabe des Bussenformulars;
-
-- g) die Unterschrift des Aufsichtsorgans.
-
-**13**
-
-01.12.2012
+-
