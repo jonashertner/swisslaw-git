@@ -3,11 +3,11 @@ sr: "0.231.15"
 title: "Convention de Berne pour la protection des œuvres littéraires et artistiques, révisée à Paris le 24 juillet 1971 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659"
 language: fr
-version: 2019-06-27
+version: 2021-09-24
 adopted: 1971-07-24
 in_force: 1993-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659/20190627/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2659_2659_2659-20190627-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2659_2659_2659/20190627/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659/20210924/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2659_2659_2659-20210924-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2659_2659_2659/20210924/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 25 juin 1993
 
 Entrée en vigueur pour la Suisse le 25 septembre 1993
 
-(Etat le 27 juin 2019)
+(Etat le 24 septembre 2021)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 4 juin 1992 ([RO 1993 2634](https://fedlex.data.admin.ch/eli/oc/1993/2634_2634_2634)).
 
@@ -723,10 +723,11 @@ Fait à Paris, le 24 juillet 1971.
 - i) s’il s’agit d’un pays qui, s’il était lié par les art. 1 à 21 et par la présente Annexe, serait habilité à invoquer le bénéfice des facultés visées à l’art. I.1), qu’il appliquera les dispositions de l’art. II ou de l’art. III, ou bien des deux, aux œuvres dont le pays d’origine est un pays qui, en application du point ii) ci-après, accepte l’application de ces articles à de telles œuvres ou qui est lié par les art. 1 à 21 et par la présente Annexe; une telle déclaration peut se référer à l’art. V au lieu de l’art. II;
 - ii) qu’il accepte l’application de la présente Annexe aux œuvres dont il est le pays d’origine, par les pays qui ont fait une déclaration en vertu du point i) ci-dessus ou une notification en vertu de l’art. I.
 
-Champ d’application le 27 juin 2019**[^t-2]**
+Champ d’application le 24 septembre 2021**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Afghanistan</td><td>2 mars</td><td>2018 A</td><td>2 juin</td><td>2018</td></tr>
 <tr><td>Afrique du Sud\*</td><td>23 décembre</td><td>1974</td><td>24 mars</td><td>1975<sup>a</sup></td></tr>
 <tr><td>Albanie</td><td>2 décembre</td><td>1993 A</td><td>6 mars</td><td>1994</td></tr>
 <tr><td>Algérie\*</td><td>19 janvier</td><td>1998 A</td><td>19 avril</td><td>1998</td></tr>
@@ -808,8 +809,8 @@ Champ d’application le 27 juin 2019**[^t-2]**
 <tr><td>Honduras</td><td>24 octobre</td><td>1989 A</td><td>25 janvier</td><td>1990</td></tr>
 <tr><td>Hongrie</td><td>11 septembre</td><td>1972</td><td>15 décembre</td><td>1972<sup>a</sup></td></tr>
 <tr><td></td><td></td><td></td><td>10 octobre</td><td>1974<sup>b</sup></td></tr>
-<tr><td>Iles Cook</td><td>3 mai</td><td>2017 A</td><td>3 août</td><td>2017</td></tr>
-<tr><td>Iles Salomon</td><td>4 avril</td><td>2019 A</td><td>4 juillet</td><td>2019</td></tr>
+<tr><td>Îles Cook</td><td>3 mai</td><td>2017</td><td>3 août</td><td>2018</td></tr>
+<tr><td>Îles Salomon</td><td>4 avril</td><td>2019 A</td><td>4 juillet</td><td>2019</td></tr>
 <tr><td>Inde\*</td><td>7 octobre</td><td>1974</td><td>10 janvier</td><td>1975<sup>a</sup></td></tr>
 <tr><td></td><td></td><td></td><td>6 mai</td><td>1984<sup>b</sup></td></tr>
 <tr><td>Indonésie\*</td><td>5 juin</td><td>1997 A</td><td>5 septembre</td><td>1997</td></tr>
@@ -850,6 +851,7 @@ Champ d’application le 27 juin 2019**[^t-2]**
 <tr><td>Monténégro</td><td>4 décembre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Mozambique</td><td>22 août</td><td>2013 A</td><td>22 novembre</td><td>2013</td></tr>
 <tr><td>Namibie</td><td>21 septembre</td><td>1993 A</td><td>24 décembre</td><td>1993</td></tr>
+<tr><td>Nauru</td><td>11 février</td><td>2020 A</td><td>11 mai</td><td>2020</td></tr>
 <tr><td>Népal</td><td>11 octobre</td><td>2005 A</td><td>11 janvier</td><td>2006</td></tr>
 <tr><td>Nicaragua</td><td>23 mai</td><td>2000 A</td><td>23 août</td><td>2000</td></tr>
 <tr><td>Niger</td><td>18 février</td><td>1975 A</td><td>21 mai</td><td>1975</td></tr>
@@ -881,10 +883,12 @@ Champ d’application le 27 juin 2019**[^t-2]**
 <tr><td>République tchèque</td><td>18 décembre</td><td>1992 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>9 juin</td><td>1998</td><td>9 septembre</td><td>1998</td></tr>
 <tr><td>Royaume-Uni\*</td><td>29 septembre</td><td>1989</td><td>2 janvier</td><td>1990</td></tr>
-<tr><td>Ile de Man</td><td>13 décembre</td><td>1995</td><td>18 mars</td><td>1996</td></tr>
+<tr><td>Gibraltar</td><td>1<sup>er</sup> octobre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
+<tr><td>Île de Man</td><td>13 décembre</td><td>1995</td><td>18 mars</td><td>1996</td></tr>
 <tr><td>Russie</td><td>9 décembre</td><td>1994 A</td><td>13 mars</td><td>1995</td></tr>
 <tr><td>Rwanda</td><td>3 novembre</td><td>1983 A</td><td>1<sup>er</sup> mars</td><td>1984</td></tr>
 <tr><td>Sainte-Lucie\*</td><td>21 mai</td><td>1993 A</td><td>24 août</td><td>1993</td></tr>
+<tr><td>Saint-Marin</td><td>2 juin</td><td>2020 A</td><td>2 septembre</td><td>2020</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>3 janvier</td><td>1995 A</td><td>9 avril</td><td>1995</td></tr>
 <tr><td>Saint-Siège</td><td>20 janvier</td><td>1975</td><td>24 avril</td><td>1975</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>29 mai</td><td>1995 A</td><td>29 août</td><td>1995</td></tr>
@@ -927,4 +931,4 @@ Champ d’application le 27 juin 2019**[^t-2]**
 <tr><td colspan="5"><sup>b</sup> La ratification ou l’adhésion est applicable aux art. 1 à 21.</td></tr>
 </table>
 
-[^t-2]: [RO 2004 1291](https://fedlex.data.admin.ch/eli/oc/2004/152), [2006 757](https://fedlex.data.admin.ch/eli/oc/2006/106), [2009 2497](https://fedlex.data.admin.ch/eli/oc/2009/310), [2014 483](https://fedlex.data.admin.ch/eli/oc/2014/88), [2016 3411](https://fedlex.data.admin.ch/eli/oc/2016/573), [2019 2181](https://fedlex.data.admin.ch/eli/oc/2019/402). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2004 1291](https://fedlex.data.admin.ch/eli/oc/2004/152); [2006 757](https://fedlex.data.admin.ch/eli/oc/2006/106); [2009 2497](https://fedlex.data.admin.ch/eli/oc/2009/310); [2014 483](https://fedlex.data.admin.ch/eli/oc/2014/88); [2016 3411](https://fedlex.data.admin.ch/eli/oc/2016/573); [2019 2181](https://fedlex.data.admin.ch/eli/oc/2019/402); [2021 601](https://fedlex.data.admin.ch/eli/oc/2021/601). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.fedlex.admin.ch/fr/treaty).

@@ -3,22 +3,24 @@ sr: "0.231.15"
 title: "Berner Übereinkunft zum Schutze von Werken der Literatur und Kunst, revidiert in Paris am 24. Juli 1971 (mit Anhang)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659"
 language: de
-version: 2019-06-27
+version: 2021-09-24
 adopted: 1971-07-24
 in_force: 1993-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659/20190627/de/xml/fedlex-data-admin-ch-eli-cc-1993-2659_2659_2659-20190627-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2659_2659_2659/20190627/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659/20210924/de/xml/fedlex-data-admin-ch-eli-cc-1993-2659_2659_2659-20210924-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2659_2659_2659/20210924/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Berner Übereinkunft zum Schutz von Werken der Literatur und Kunst revidiert in Paris am 24. Juli 1971
 
+AS **1993** 2659
+
 Amtlicher deutscher Text gemäss Artikel 37 Absatz 1 Buchstabe b)
 
 Abgeschlossen in Paris am 24. Juli 1971 Von der Bundesversammlung genehmigt am 4. Juni 1992[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 25. Juni 1993 In Kraft getreten für die Schweiz am 25. September 1993
 
-(Stand am 27. Juni 2019)
+(Stand am 24. September 2021)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 4. Juni 1992 ([AS 1993 2634](https://fedlex.data.admin.ch/eli/oc/1993/2634_2634_2634))
 
@@ -484,7 +486,7 @@ Die Ratifikation dieser Fassung der Übereinkunft oder der Beitritt zu ihr durch
 - b) Jedes verbandsfremde Land kann vorbehaltlich des Artikels V Absatz 2) des P27 Anhangs beim Beitritt zu dieser Übereinkunft erklären, dass es den das Übersetzungsrecht betreffenden Artikel 8 dieser Fassung wenigstens vorläufig durch die Bestimmungen des Artikels 5 der im Jahre 1896 in Paris vervollständigten Verbandsübereinkunft von 1886[^30-1] ersetzen will, wobei Einverständnis darüber besteht, dass diese Bestimmungen nur auf Übersetzungen in eine in diesem Land allgemein gebräuchliche Sprache anwendbar sind. Vorbehaltlich des Artikels 1 Absatz 6) Buchstabe b) des Anhangs ist jedes Verbandsland befugt, hinsichtlich des Übersetzungsrechts an Werken, deren Ursprungsland von einem solchen Vorbehalt Gebrauch macht, den Schutz anzuwenden, der dem vom Ursprungsland gewährten Schutz entspricht.
 - c) Jedes Land kann solche Vorbehalte jederzeit durch eine an den Generaldirektor gerichtete Notifikation zurückziehen.
 
-[^30-1]: [AS **10** 219, **16** 611; BS **11** 931 945]
+[^30-1]: [AS **10** 219; **16** 611; BS **11** 931, 945]
 
 #### Art. 31
 
@@ -508,7 +510,7 @@ Die Ratifikation dieser Fassung der Übereinkunft oder der Beitritt zu ihr durch
 - i) die Bestimmungen der jüngsten Fassung der Übereinkunft, durch die es gebunden ist, anwendet und
 - ii) vorbehaltlich des Artikels 1 Absatz 6) des Anhangs befugt ist, den Schutz dem in dieser Fassung der Übereinkunft vorgesehenen Stand anzupassen.
 
-[^32-1]: [AS **10** 219, **16** 611, BS **11** 931 945]
+[^32-1]: [AS **10** 219; **16** 611, BS **11** 931, 945]
 [^32-2]: [SR 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476)**/.14**
 
 #### Art. 33
@@ -708,10 +710,11 @@ Geschehen zu Paris am 24. Juli 1971.
 - i) erklären – sofern es berechtigt wäre, die in Artikel I Absatz 1) bezeichneten Befugnisse in Anspruch zu nehmen, wenn es durch die Artikel 1–21 und diesen Anhang gebunden wäre ‑, dass es die Artikel II oder III oder beide Artikel auf Werke anwenden wird, deren Ursprungsland ein Land ist, das gemäss Ziffer ii) die Anwendung dieser Artikel auf solche Werke zulässt oder das durch die Artikel 1–21 und diesen Anhang gebunden ist; die Erklärung kann sich statt auf Artikel II auf Artikel V beziehen;
 - ii) erklären, dass es die Anwendung dieses Anhangs auf Werke, deren Ursprungsland es ist, durch die Länder zulässt, die eine Erklärung nach Ziffer i) abgegeben oder eine Notifikation nach Artikel I hinterlegt haben.
 
-Geltungsbereich am 27. Juni 2019**[^t-2]**
+Geltungsbereich am 24. September 2021**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Afghanistan</td><td>2. März</td><td>2018 B</td><td>2. Juni</td><td>2018</td></tr>
 <tr><td>Ägypten\*</td><td>2. März</td><td>1977 B</td><td>7. Juni</td><td>1977</td></tr>
 <tr><td>Albanien</td><td>2. Dezember</td><td>1993 B</td><td>6. März</td><td>1994</td></tr>
 <tr><td>Algerien\*</td><td>19. Januar</td><td>1998 B</td><td>19. April</td><td>1998</td></tr>
@@ -744,7 +747,7 @@ Geltungsbereich am 27. Juni 2019**[^t-2]**
 <tr><td>China\*</td><td>10. Juli</td><td>1992 B</td><td>15. Oktober</td><td>1992</td></tr>
 <tr><td>Hongkong</td><td>7. Juli</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Macau</td><td>1. November</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
-<tr><td>Cook-Inseln\*</td><td>3. Mai</td><td>2017 B</td><td>3. August</td><td>2017</td></tr>
+<tr><td>Cook-Inseln</td><td>3. Mai</td><td>2017</td><td>3. August</td><td>2018</td></tr>
 <tr><td>Costa Rica</td><td>3. März</td><td>1978 B</td><td>10. Juni</td><td>1978</td></tr>
 <tr><td>Côte d’Ivoire</td><td>1. Februar</td><td>1974</td><td>4. Mai</td><td>1974<sup>a</sup></td></tr>
 <tr><td></td><td></td><td></td><td>10. Oktober</td><td>1974<sup>b</sup></td></tr>
@@ -827,6 +830,7 @@ Geltungsbereich am 27. Juni 2019**[^t-2]**
 <tr><td>Montenegro</td><td>4. Dezember</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Mosambik</td><td>22. August</td><td>2013 B</td><td>22. November</td><td>2013</td></tr>
 <tr><td>Namibia</td><td>21. September</td><td>1993 B</td><td>24. Dezember</td><td>1993</td></tr>
+<tr><td>Nauru</td><td>11. Februar</td><td>2020 B</td><td>11. Mai</td><td>2020</td></tr>
 <tr><td>Nepal</td><td>11. Oktober</td><td>2005 B</td><td>11. Januar</td><td>2006</td></tr>
 <tr><td>Neuseeland</td><td>17. Dezember</td><td>2018 B</td><td>17. März</td><td>2019</td></tr>
 <tr><td>Tokelau</td><td>17. Dezember</td><td>2018 B</td><td>17. März</td><td>2019</td></tr>
@@ -859,6 +863,7 @@ Geltungsbereich am 27. Juni 2019**[^t-2]**
 <tr><td>Salomoninseln</td><td>4. April</td><td>2019 B</td><td>4. Juli</td><td>2019</td></tr>
 <tr><td>Sambia</td><td>13. September</td><td>1991 B</td><td>2. Januar</td><td>1992</td></tr>
 <tr><td>Samoa\*</td><td>21. April</td><td>2006 B</td><td>21. Juli</td><td>2006</td></tr>
+<tr><td>San Marino</td><td>2. Juni</td><td>2020 B</td><td>2. September</td><td>2020</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>14. März</td><td>2016 B</td><td>14. Juni</td><td>2016</td></tr>
 <tr><td>Saudi-Arabien</td><td>11. Dezember</td><td>2003 B</td><td>11. März</td><td>2004</td></tr>
 <tr><td>Schweden</td><td>14. Juni</td><td>1973</td><td>20. September</td><td>1973<sup>a</sup></td></tr>
@@ -903,6 +908,7 @@ Geltungsbereich am 27. Juni 2019**[^t-2]**
 <tr><td>Vereinigte Arabische Emirate\*</td><td>14. April</td><td>2004 B</td><td>14. Juli</td><td>2004</td></tr>
 <tr><td>Vereinigte Staaten</td><td>16. November</td><td>1988 B</td><td>1. März</td><td>1989</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>29. September</td><td>1989</td><td>2. Januar</td><td>1990</td></tr>
+<tr><td>Gibraltar</td><td>1. Oktober</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Insel Man</td><td>13. Dezember</td><td>1995</td><td>18. März</td><td>1996</td></tr>
 <tr><td>Vietnam\*</td><td>26. Juni</td><td>2004 B</td><td>26. Oktober</td><td>2004</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>31. Mai</td><td>1977 B</td><td>3. September</td><td>1977</td></tr>
@@ -912,4 +918,4 @@ Geltungsbereich am 27. Juni 2019**[^t-2]**
 <tr><td colspan="5"><sup>b</sup> Die Ratifikation oder der Beitritt erstreckt sich auf die Artikel 1–21.</td></tr>
 </table>
 
-[^t-2]: [AS 2004 1291](https://fedlex.data.admin.ch/eli/oc/2004/152), [2006 757](https://fedlex.data.admin.ch/eli/oc/2006/106), [2009 2497](https://fedlex.data.admin.ch/eli/oc/2009/310), [2014 483](https://fedlex.data.admin.ch/eli/oc/2014/88), [2016 3411](https://fedlex.data.admin.ch/eli/oc/2016/573), [2019 2181](https://fedlex.data.admin.ch/eli/oc/2019/402). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2004 1291](https://fedlex.data.admin.ch/eli/oc/2004/152); [2006 757](https://fedlex.data.admin.ch/eli/oc/2006/106); [2009 2497](https://fedlex.data.admin.ch/eli/oc/2009/310); [2014 483](https://fedlex.data.admin.ch/eli/oc/2014/88); [2016 3411](https://fedlex.data.admin.ch/eli/oc/2016/573); [2019 2181](https://fedlex.data.admin.ch/eli/oc/2019/402); [2021 601](https://fedlex.data.admin.ch/eli/oc/2021/601). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (www.fedlex.admin.ch/de/treaty).

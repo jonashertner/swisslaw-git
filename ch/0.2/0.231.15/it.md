@@ -3,11 +3,11 @@ sr: "0.231.15"
 title: "Convenzione di Berna per la protezione delle opere letterarie e artistiche, riveduta a Parigi il 24 luglio 1971 (con annesso)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659"
 language: it
-version: 2019-06-27
+version: 2021-09-24
 adopted: 1971-07-24
 in_force: 1993-09-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659/20190627/it/xml/fedlex-data-admin-ch-eli-cc-1993-2659_2659_2659-20190627-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2659_2659_2659/20190627/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659/20210924/it/xml/fedlex-data-admin-ch-eli-cc-1993-2659_2659_2659-20210924-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2659_2659_2659/20210924/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo ufficiale italiano*[^t-1]*
 
 Conclusa a Parigi il 24 luglio 1971 Approvata dall’Assemblea federale il 4 giugno 1992[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 25 giugno 1993 Entrata in vigore per la Svizzera il 25 settembre 1993
 
-(Stato 27 giugno 2019)
+(Stato 24 settembre 2021)
 
 [^t-1]: Stabilito in virtù dell’art. 37 par. 1 lett. b).
 [^t-2]: Art. 1 cpv. 1 lett. a del DF del 4 giu. 1992 ([RU 1993 2634](https://fedlex.data.admin.ch/eli/oc/1993/2634_2634_2634)).
@@ -713,10 +713,11 @@ Fatto a Parigi, il 24 luglio 197 1.
 - i) se si tratta di un Paese che, se fosse vincolato dagli articoli 1 a 21 e dal presente Annesso, sarebbe abilitato a invocare il beneficio delle facoltà previste dall’articolo I.1), che esso applicherà le disposizioni dell’articolo II o dell’articolo III, o di entrambi, alle opere il cui Paese di origine è un Paese che, in applicazione del punto ii) che segue, accetta l’applicazione di questi articoli a tali opere o che è vincolato dagli articoli 1 a 21 e dal presente Annesso; una tale dichiarazione può riferirsi all’articolo V invece che all’articolo II;
 - ii) che esso accetta l’applicazione del presente Annesso alle opere di cui esso è il Paese di origine, da parte dei Paesi che hanno fatto una dichiarazione in virtù del punto i) di cui sopra o una notificazione in virtù dell’articolo I.
 
-Campo d’applicazione il 27 giugno 2019**[^t-3]**
+Campo d’applicazione il 24 settembre 2021**[^t-3]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th colspan="2"></th></tr>
+<tr><td>Afghanistan</td><td>2 marzo</td><td>2018 A</td><td>2 giugno</td><td colspan="2">2018</td></tr>
 <tr><td>Albania</td><td>2 dicembre</td><td>1993 A</td><td>6 marzo</td><td colspan="2">1994</td></tr>
 <tr><td>Algeria<sup>\*</sup></td><td>19 gennaio</td><td>1998 A</td><td>19 aprile</td><td colspan="2">1998</td></tr>
 <tr><td>Andorra</td><td>2 marzo</td><td>2004 A</td><td>2 giugno</td><td colspan="2">2004</td></tr>
@@ -760,7 +761,7 @@ Campo d’applicazione il 27 giugno 2019**[^t-3]**
 <tr><td>Comore</td><td>17 gennaio</td><td>2005 A</td><td>17 aprile</td><td colspan="2">2005</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>2 settembre</td><td>1975</td><td>5 dicembre</td><td colspan="2">1975</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>28 ottobre</td><td>1974 A</td><td>31 gennaio</td><td colspan="2">1975</td></tr>
-<tr><td>Cook, Isole</td><td>3 maggio</td><td>2017 A</td><td colspan="2">3 agosto</td><td>2017</td></tr>
+<tr><td>Cook, Isole</td><td>3 maggio</td><td>2017</td><td>3 agosto</td><td colspan="2">2018</td></tr>
 <tr><td>Corea del Nord</td><td>28 gennaio</td><td>2003 A</td><td>28 aprile</td><td colspan="2">2003</td></tr>
 <tr><td>Corea del Sud</td><td>21 maggio</td><td>1996 A</td><td>21 agosto</td><td colspan="2">1996</td></tr>
 <tr><td>Costa Rica</td><td>3 marzo</td><td>1978 A</td><td>10 giugno</td><td colspan="2">1978</td></tr>
@@ -838,6 +839,7 @@ Campo d’applicazione il 27 giugno 2019**[^t-3]**
 <tr><td>Montenegro</td><td>4 dicembre</td><td>2006 S</td><td>3 giugno</td><td colspan="2">2006</td></tr>
 <tr><td>Mozambico</td><td>22 agosto</td><td>2013 A</td><td>22 novembre</td><td colspan="2">2013</td></tr>
 <tr><td>Namibia</td><td>21 settembre</td><td>1993 A</td><td>24 dicembre</td><td colspan="2">1993</td></tr>
+<tr><td>Nauru</td><td>11 febbraio</td><td>2020 A</td><td>11 maggio</td><td colspan="2">2020</td></tr>
 <tr><td>Nepal</td><td>11 ottobre</td><td>2005 A</td><td>11 gennaio</td><td colspan="2">2006</td></tr>
 <tr><td>Nicaragua</td><td>23 maggio</td><td>2000 A</td><td>23 agosto</td><td colspan="2">2000</td></tr>
 <tr><td>Niger</td><td>18 febbraio</td><td>1975 A</td><td>21 maggio</td><td colspan="2">1975</td></tr>
@@ -862,11 +864,13 @@ Campo d’applicazione il 27 giugno 2019**[^t-3]**
 <tr><td>Portogallo<sup>\*</sup></td><td>10 ottobre</td><td>1978 A</td><td>12 gennaio</td><td colspan="2">1979</td></tr>
 <tr><td>Qatar</td><td>5 aprile</td><td>2000 A</td><td>5 luglio</td><td colspan="2">2000</td></tr>
 <tr><td>Regno Unito<sup>\*</sup></td><td>29 settembre</td><td>1989</td><td>2 gennaio</td><td colspan="2">1990</td></tr>
+<tr><td>Gibilterra</td><td>1° ottobre</td><td>2020</td><td>1° gennaio</td><td colspan="2">2021</td></tr>
 <tr><td>Man, Isola di</td><td>13 dicembre</td><td>1995</td><td>18 marzo</td><td colspan="2">1996</td></tr>
 <tr><td>Romania</td><td>9 giugno</td><td>1998</td><td>9 settembre</td><td colspan="2">1998</td></tr>
 <tr><td>Ruanda</td><td>3 novembre</td><td>1983 A</td><td>1° marzo</td><td colspan="2">1984</td></tr>
 <tr><td>Russia</td><td>9 dicembre</td><td>1994 A</td><td>13 marzo</td><td colspan="2">1995</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>3 gennaio</td><td>1995 A</td><td>9 aprile</td><td colspan="2">1995</td></tr>
+<tr><td>San Marino</td><td>2 giugno</td><td>2020 A</td><td>2 settembre</td><td colspan="2">2020</td></tr>
 <tr><td>Santa Lucia<sup>\*</sup></td><td>21 maggio</td><td>1993 A</td><td>24 agosto</td><td colspan="2">1993</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>29 maggio</td><td>1995 A</td><td>29 agosto</td><td colspan="2">1995</td></tr>
 <tr><td>Salomone, Isole</td><td>4 aprile</td><td>2019 A</td><td colspan="2">4 luglio</td><td>2019</td></tr>
@@ -917,4 +921,4 @@ Campo d’applicazione il 27 giugno 2019**[^t-3]**
 <tr><td colspan="6"><sup>b</sup> La ratificazione o l’adesione è applicabile agli art. 1–21.</td></tr>
 </table>
 
-[^t-3]: [RU 2004 1291](https://fedlex.data.admin.ch/eli/oc/2004/152), [2006 757](https://fedlex.data.admin.ch/eli/oc/2006/106), [2009 2497](https://fedlex.data.admin.ch/eli/oc/2009/310), [2014 483](https://fedlex.data.admin.ch/eli/oc/2014/88), [2016 3411](https://fedlex.data.admin.ch/eli/oc/2016/573), [2019 2181](https://fedlex.data.admin.ch/eli/oc/2019/402). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 2004 1291](https://fedlex.data.admin.ch/eli/oc/2004/152); [2006 757](https://fedlex.data.admin.ch/eli/oc/2006/106); [2009 2497](https://fedlex.data.admin.ch/eli/oc/2009/310); [2014 483](https://fedlex.data.admin.ch/eli/oc/2014/88); [2016 3411](https://fedlex.data.admin.ch/eli/oc/2016/573); [2019 2181](https://fedlex.data.admin.ch/eli/oc/2019/402); [2021 601](https://fedlex.data.admin.ch/eli/oc/2021/601). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (www.fedlex.admin.ch/it/treaty).
