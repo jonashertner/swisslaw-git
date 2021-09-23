@@ -4,11 +4,11 @@ title: "Traité de l'OMPI du 20 décembre 1996 sur le droit d'auteur (WCT) (avec
 short: WCT
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/358"
 language: fr
-version: 2019-06-27
+version: 2021-09-24
 adopted: 1996-12-20
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/358/20190627/fr/xml/fedlex-data-admin-ch-eli-cc-2008-358-20190627-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/358/20190627/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/358/20210924/fr/xml/fedlex-data-admin-ch-eli-cc-2008-358-20210924-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/358/20210924/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -29,7 +29,7 @@ Instrument de ratification déposé par la Suisse le 31 mars 2008
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 2008
 
-(Etat le 27 juin 2019)
+(Etat le 24 septembre 2021)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 5 oct. 2007 ([RO 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357)).
 
@@ -301,10 +301,11 @@ Il est entendu en outre que les Parties contractantes ne se fonderont pas sur ce
 
 [^t-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Annexe 1C
 
-Champ d’application le 27 juin 2019**[^t-3]**
+Champ d’application le 24 septembre 2021**[^t-3]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Afghanistan</td><td>9 novembre</td><td>2020 A</td><td>9 février</td><td>2021</td></tr>
 <tr><td>Albanie</td><td>6 mai</td><td>2005 A</td><td>6 août</td><td>2005</td></tr>
 <tr><td>Algérie</td><td>31 octobre</td><td>2013 A</td><td>31 janvier</td><td>2014</td></tr>
 <tr><td>Allemagne</td><td>14 décembre</td><td>2009</td><td>14 mars</td><td>2010</td></tr>
@@ -314,6 +315,7 @@ Champ d’application le 27 juin 2019**[^t-3]**
 <tr><td>Autriche</td><td>14 décembre</td><td>2009</td><td>14 mars</td><td>2010</td></tr>
 <tr><td>Azerbaïdjan</td><td>11 janvier</td><td>2006 A</td><td>11 avril</td><td>2006</td></tr>
 <tr><td>Bahreïn</td><td>15 septembre</td><td>2005 A</td><td>15 décembre</td><td>2005</td></tr>
+<tr><td>Barbade</td><td>13 septembre</td><td>2019 A</td><td>13 décembre</td><td>2019</td></tr>
 <tr><td>Bélarus</td><td>15 juillet</td><td>1998</td><td>6 mars</td><td>2002</td></tr>
 <tr><td>Belgique</td><td>30 mai</td><td>2006</td><td>30 août</td><td>2006</td></tr>
 <tr><td>Belize</td><td>9 novembre</td><td>2018 A</td><td>9 février</td><td>2019</td></tr>
@@ -331,11 +333,12 @@ Champ d’application le 27 juin 2019**[^t-3]**
 <tr><td>Hong Kong</td><td>23 septembre</td><td>2008</td><td>1<sup>er</sup> octobre</td><td>2008</td></tr>
 <tr><td>Chypre</td><td>4 août</td><td>2003 A</td><td>4 novembre</td><td>2003</td></tr>
 <tr><td>Colombie</td><td>29 novembre</td><td>2000</td><td>6 mars</td><td>2002</td></tr>
+<tr><td>Comores</td><td>25 janvier</td><td>2021 A</td><td>25 avril</td><td>2021</td></tr>
 <tr><td>Corée (Sud)</td><td>24 mars</td><td>2004 A</td><td>24 juin</td><td>2004</td></tr>
 <tr><td>Costa Rica</td><td>23 mai</td><td>2000</td><td>6 mars</td><td>2002</td></tr>
 <tr><td>Croatie</td><td>3 juillet</td><td>2000</td><td>6 mars</td><td>2002</td></tr>
 <tr><td>Danemark</td><td>14 décembre</td><td>2009</td><td>14 mars</td><td>2010</td></tr>
-<tr><td>Iles Féroé</td><td>30 janvier</td><td>2018</td><td>30 avril</td><td>2018</td></tr>
+<tr><td>Îles Féroé</td><td>30 janvier</td><td>2018</td><td>30 avril</td><td>2018</td></tr>
 <tr><td>El Salvador</td><td>20 octobre</td><td>1998 A</td><td>6 mars</td><td>2002</td></tr>
 <tr><td>Émirats arabes unis</td><td>14 avril</td><td>2004 A</td><td>14 juillet</td><td>2004</td></tr>
 <tr><td>Équateur</td><td>21 juin</td><td>2000</td><td>6 mars</td><td>2002</td></tr>
@@ -361,6 +364,7 @@ Champ d’application le 27 juin 2019**[^t-3]**
 <tr><td>Jordanie</td><td>27 janvier</td><td>2004 A</td><td>27 avril</td><td>2004</td></tr>
 <tr><td>Kazakhstan</td><td>12 août</td><td>2004</td><td>12 novembre</td><td>2004</td></tr>
 <tr><td>Kirghizistan</td><td>10 septembre</td><td>1998</td><td>6 mars</td><td>2002</td></tr>
+<tr><td>Kiribati</td><td>22 mars</td><td>2021 A</td><td>22 juin</td><td>2021</td></tr>
 <tr><td>Lettonie</td><td>22 mars</td><td>2000 A</td><td>6 mars</td><td>2002</td></tr>
 <tr><td>Liechtenstein</td><td>30 janvier</td><td>2007 A</td><td>30 avril</td><td>2007</td></tr>
 <tr><td>Lituanie</td><td>18 juin</td><td>2001 A</td><td>6 mars</td><td>2002</td></tr>
@@ -375,6 +379,7 @@ Champ d’application le 27 juin 2019**[^t-3]**
 <tr><td>Moldova</td><td>13 mars</td><td>1998</td><td>6 mars</td><td>2002</td></tr>
 <tr><td>Mongolie</td><td>25 juillet</td><td>2002</td><td>25 octobre</td><td>2002</td></tr>
 <tr><td>Monténégro</td><td>4 décembre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
+<tr><td>Nauru</td><td>11 mai</td><td>2020 A</td><td>11 août</td><td>2020</td></tr>
 <tr><td>Nicaragua</td><td>6 décembre</td><td>2002 A</td><td>6 mars</td><td>2003</td></tr>
 <tr><td>Nigéria</td><td>4 octobre</td><td>2017</td><td>4 janvier</td><td>2018</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>17 décembre</td><td>2018 A</td><td>17 mars</td><td>2019</td></tr>
@@ -392,8 +397,12 @@ Champ d’application le 27 juin 2019**[^t-3]**
 <tr><td>République tchèque</td><td>10 octobre</td><td>2001 A</td><td>6 mars</td><td>2002</td></tr>
 <tr><td>Roumanie</td><td>1<sup>er</sup> février</td><td>2001</td><td>6 mars</td><td>2002</td></tr>
 <tr><td>Royaume-Uni</td><td>14 décembre</td><td>2009</td><td>14 mars</td><td>2010</td></tr>
+<tr><td>Guernesey</td><td>1<sup>er</sup> janvier</td><td>2021</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
+<tr><td>Île de Man</td><td>1<sup>er</sup> janvier</td><td>2021</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Russie</td><td>5 novembre</td><td>2008 A</td><td>5 février</td><td>2009</td></tr>
+<tr><td>Saint-Marin</td><td>2 juin</td><td>2020 A</td><td>2 septembre</td><td>2020</td></tr>
 <tr><td>Sainte-Lucie</td><td>24 novembre</td><td>1999 A</td><td>6 mars</td><td>2002</td></tr>
+<tr><td>Sao Tomé-et-Principe</td><td>27 janvier</td><td>2020 A</td><td>27 avril</td><td>2020</td></tr>
 <tr><td>Sénégal</td><td>18 février</td><td>2002</td><td>18 mai</td><td>2002</td></tr>
 <tr><td>Serbie</td><td>13 mars</td><td>2003 A</td><td>13 juin</td><td>2003</td></tr>
 <tr><td>Singapour</td><td>17 janvier</td><td>2005 A</td><td>17 avril</td><td>2005</td></tr>
@@ -408,7 +417,8 @@ Champ d’application le 27 juin 2019**[^t-3]**
 <tr><td>Ukraine</td><td>29 novembre</td><td>2001 A</td><td>6 mars</td><td>2002</td></tr>
 <tr><td>Union européenne</td><td>14 décembre</td><td>2009</td><td>14 mars</td><td>2010</td></tr>
 <tr><td>Uruguay</td><td>5 mars</td><td>2009</td><td>5 juin</td><td>2009</td></tr>
+<tr><td>Vanuatu</td><td>6 mai</td><td>2020 A</td><td>6 août</td><td>2020</td></tr>
 <tr><td colspan="5"><sup>a</sup> Le traité ne s’applique pas à Macao.</td></tr>
 </table>
 
-[^t-3]: [RO 2008 2503](https://fedlex.data.admin.ch/eli/oc/2008/358), [2009 2499](https://fedlex.data.admin.ch/eli/oc/2009/311), [2010 1455](https://fedlex.data.admin.ch/eli/oc/2010/197), [2014 885](https://fedlex.data.admin.ch/eli/oc/2014/190), [2016 771](https://fedlex.data.admin.ch/eli/oc/2016/148), [2019 2183](https://fedlex.data.admin.ch/eli/oc/2019/403). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 2008 2503](https://fedlex.data.admin.ch/eli/oc/2008/358); [2009 2499](https://fedlex.data.admin.ch/eli/oc/2009/311); [2010 1455](https://fedlex.data.admin.ch/eli/oc/2010/197); [2014 885](https://fedlex.data.admin.ch/eli/oc/2014/190); [2016 771](https://fedlex.data.admin.ch/eli/oc/2016/148); [2019 2183](https://fedlex.data.admin.ch/eli/oc/2019/403); [2021 606](https://fedlex.data.admin.ch/eli/oc/2021/606). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: (www.fedlex.admin.ch/fr/treaty).

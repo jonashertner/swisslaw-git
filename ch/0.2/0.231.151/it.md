@@ -4,11 +4,11 @@ title: "Trattato OMPI del 20 dicembre 1996 sul diritto d'autore (WCT) (con dich.
 short: WCT
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/358"
 language: it
-version: 2019-06-27
+version: 2021-09-24
 adopted: 1996-12-20
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/358/20190627/it/xml/fedlex-data-admin-ch-eli-cc-2008-358-20190627-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/358/20190627/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/358/20210924/it/xml/fedlex-data-admin-ch-eli-cc-2008-358-20210924-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/358/20210924/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -29,7 +29,7 @@ Ratificato dalla Svizzera con strumento depositato il 31 marzo 2008
 
 Entrato in vigore per la Svizzera il 1° luglio 2008
 
-(Stato 27 giugno 2019)
+(Stato 24 settembre 2021)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 5 ott. 2008 ([RU 2008 2497](https://fedlex.data.admin.ch/eli/oc/2008/357)).
 
@@ -301,10 +301,11 @@ Resta altresì inteso che le Parti contraenti non potranno avvalersi di questo a
 
 [^t-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), All. 1C
 
-Campo d’applicazione il 27 giugno 2019**[^t-3]**
+Campo d’applicazione il 24 settembre 2021**[^t-3]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Afghanistan</td><td>9 novembre</td><td>2020 A</td><td>9 febbraio</td><td>2021</td></tr>
 <tr><td>Albania</td><td>6 maggio</td><td>2005 A</td><td>6 agosto</td><td>2005</td></tr>
 <tr><td>Algeria</td><td>31 ottobre</td><td>2013 A</td><td>31 gennaio</td><td>2014</td></tr>
 <tr><td>Argentina</td><td>19 novembre</td><td>1999</td><td>6 marzo</td><td>2002</td></tr>
@@ -313,6 +314,7 @@ Campo d’applicazione il 27 giugno 2019**[^t-3]**
 <tr><td>Austria</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Azerbaigian</td><td>11 gennaio</td><td>2006 A</td><td>11 aprile</td><td>2006</td></tr>
 <tr><td>Bahrein</td><td>15 settembre</td><td>2005 A</td><td>15 dicembre</td><td>2005</td></tr>
+<tr><td>Barbados</td><td>13 settembre</td><td>2019 A</td><td>13 dicembre</td><td>2019</td></tr>
 <tr><td>Belarus</td><td>15 luglio</td><td>1998</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Belgio</td><td>30 maggio</td><td>2006</td><td>30 agosto</td><td>2006</td></tr>
 <tr><td>Belize</td><td>9 novembre</td><td>2018 A</td><td>9 febbraio</td><td>2019</td></tr>
@@ -331,6 +333,7 @@ Campo d’applicazione il 27 giugno 2019**[^t-3]**
 <tr><td>Hong Kong</td><td>23 settembre</td><td>2008</td><td>1° dicembre</td><td>2008</td></tr>
 <tr><td>Cipro</td><td>4 agosto</td><td>2003 A</td><td>4 novembre</td><td>2003</td></tr>
 <tr><td>Colombia</td><td>29 novembre</td><td>2000</td><td>6 marzo</td><td>2002</td></tr>
+<tr><td>Comore</td><td>25 gennaio</td><td>2021 A</td><td>25 aprile</td><td>2021</td></tr>
 <tr><td>Corea (Sud)</td><td>24 marzo</td><td>2004 A</td><td>24 giugno</td><td>2004</td></tr>
 <tr><td>Costa Rica</td><td>23 maggio</td><td>2000</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Croazia</td><td>3 luglio</td><td>2000</td><td>6 marzo</td><td>2002</td></tr>
@@ -361,6 +364,7 @@ Campo d’applicazione il 27 giugno 2019**[^t-3]**
 <tr><td>Italia</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Kazakstan</td><td>12 agosto</td><td>2004</td><td>12 novembre</td><td>2004</td></tr>
 <tr><td>Kirghizistan</td><td>10 settembre</td><td>1998</td><td>6 marzo</td><td>2002</td></tr>
+<tr><td>Kiribati</td><td>22 marzo</td><td>2021 A</td><td>22 giugno</td><td>2021</td></tr>
 <tr><td>Lettonia</td><td>22 marzo</td><td>2000 A</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Liechtenstein</td><td>30 gennaio</td><td>2007 A</td><td>30 aprile</td><td>2007</td></tr>
 <tr><td>Lituania</td><td>18 giugno</td><td>2001 A</td><td>6 marzo</td><td>2002</td></tr>
@@ -375,6 +379,7 @@ Campo d’applicazione il 27 giugno 2019**[^t-3]**
 <tr><td>Moldova</td><td>13 marzo</td><td>1998</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Mongolia</td><td>25 luglio</td><td>2002</td><td>25 ottobre</td><td>2002</td></tr>
 <tr><td>Montenegro</td><td>4 dicembre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
+<tr><td>Nauru</td><td>11 maggio</td><td>2020 A</td><td>11 agosto</td><td>2020</td></tr>
 <tr><td>Nicaragua</td><td>6 dicembre</td><td>2002 A</td><td>6 marzo</td><td>2003</td></tr>
 <tr><td>Nigeria</td><td>4 ottobre</td><td>2017</td><td>4 gennaio</td><td>2018</td></tr>
 <tr><td>Nuova Zelanda</td><td>17 dicembre</td><td>2018 A</td><td>17 marzo</td><td>2019</td></tr>
@@ -388,8 +393,12 @@ Campo d’applicazione il 27 giugno 2019**[^t-3]**
 <tr><td>Portogallo</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Qatar</td><td>28 luglio</td><td>2005 A</td><td>28 ottobre</td><td>2005</td></tr>
 <tr><td>Regno Unito</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
+<tr><td>Guernesey</td><td>1° gennaio</td><td>2021</td><td>1° gennaio</td><td>2021</td></tr>
+<tr><td>Man, Isola di</td><td>1° gennaio</td><td>2021</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Romania</td><td>1° febbraio</td><td>2001</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Russia</td><td>5 novembre</td><td>2008 A</td><td>5 febbraio</td><td>2009</td></tr>
+<tr><td>San Marino</td><td>2 giugno</td><td>2020 A</td><td>2 settembre</td><td>2020</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>27 gennaio</td><td>2020 A</td><td>27 aprile</td><td>2020</td></tr>
 <tr><td>Saint Lucia</td><td>24 novembre</td><td>1999 A</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Senegal</td><td>18 febbraio</td><td>2002</td><td>18 maggio</td><td>2002</td></tr>
 <tr><td>Serbia</td><td>13 marzo</td><td>2003 A</td><td>13 giugno</td><td>2003</td></tr>
@@ -408,7 +417,8 @@ Campo d’applicazione il 27 giugno 2019**[^t-3]**
 <tr><td>Ungheria</td><td>27 novembre</td><td>1998</td><td>6 marzo</td><td>2002</td></tr>
 <tr><td>Unione europea</td><td>14 dicembre</td><td>2009</td><td>14 marzo</td><td>2010</td></tr>
 <tr><td>Uruguay</td><td>5 marzo</td><td>2009</td><td>5 giugno</td><td>2009</td></tr>
+<tr><td>Vanuatu</td><td>6 maggio</td><td>2020 A</td><td>6 agosto</td><td>2020</td></tr>
 <tr><td colspan="5"><sup>a</sup> Non si applica a Macao.</td></tr>
 </table>
 
-[^t-3]: [RU 2008 2503](https://fedlex.data.admin.ch/eli/oc/2008/358), [2009 2499](https://fedlex.data.admin.ch/eli/oc/2009/311), [2010 1455](https://fedlex.data.admin.ch/eli/oc/2010/197), [2014 885](https://fedlex.data.admin.ch/eli/oc/2014/190), [2016 771](https://fedlex.data.admin.ch/eli/oc/2016/148), [2019 2183](https://fedlex.data.admin.ch/eli/oc/2019/403). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 2009 2499](https://fedlex.data.admin.ch/eli/oc/2009/311); [2010 1455](https://fedlex.data.admin.ch/eli/oc/2010/197); [2014 885](https://fedlex.data.admin.ch/eli/oc/2014/190); [2016 771](https://fedlex.data.admin.ch/eli/oc/2016/148); [2019 2183](https://fedlex.data.admin.ch/eli/oc/2019/403); [2021 606](https://fedlex.data.admin.ch/eli/oc/2021/606). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (www.fedlex.admin.ch/it/treaty).
