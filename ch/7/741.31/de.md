@@ -4,11 +4,11 @@ title: Verkehrsversicherungsverordnung vom 20. November 1959 (VVV)
 short: VVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317"
 language: de
-version: 2019-02-01
+version: 2021-09-24
 adopted: 1959-11-20
 in_force: 1959-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20190201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20210924-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de"
 
 (VVV)**[^t-1]**
 
-vom 20. November 1959 (Stand am 1. Februar 2019)
+vom 20. November 1959 (Stand am 24. September 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 6. Okt. **1980**, in Kraft seit 1. Jan. 1981 ([AS 1980 1511](https://fedlex.data.admin.ch/eli/oc/1980/1511_1511_1511)). Gemäss derselben Bestimmung wurden die Einschaltartikel «bis» mit kleinen Buchstaben «a» numeriert.
 
@@ -148,7 +148,7 @@ Versicherungsnachweise können ausgestellt werden:
 
 <sup>2</sup> Versicherungsnachweise werden vom ASTRA während ihrer Gültigkeit und danach noch drei Jahre lang elektronisch aufbewahrt.[^6-1]
 
-<sup>3</sup> …[^6-2]
+<sup>3</sup> ...[^6-2]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2006, in Kraft seit 1. Febr. 2007 ([AS 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
 [^6-2]: Aufgehoben durch Ziff. I der V vom 1. Juli 1992, mit Wirkung seit 1. Aug. 1992 ([AS 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
@@ -252,7 +252,7 @@ Als Ersatzfahrzeug kann nur bewilligt werden:
 
 <sup>3</sup> Die Bewilligung ist nach Ablauf der Frist unverzüglich der Behörde zurückzugeben. Kommt der Halter dieser Pflicht nicht nach, so trifft die Behörde die erforderlichen Massnahmen.
 
-<sup>4</sup> …[^10-2]
+<sup>4</sup> ...[^10-2]
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2006, in Kraft seit 1. Febr. 2007 ([AS 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
 [^10-2]: Eingefügt durch Art. 152 Ziff. 1 der V vom 27. Okt. 1976 über die Zulassung von Personen und Fahrzeugen zum Strassenverkehr (VZV – [AS 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)). Aufgehoben durch Ziff. I der V vom 11. April 2001, mit Wirkung seit 1. Juni 2001, mit Wirkung seit 1. Juni 2001 ([AS 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
@@ -420,9 +420,9 @@ Der Halter darf für Fahrten in der Schweiz ein amtlich geprüftes Fahrzeug, fü
 
 <sup>3</sup> Im übrigen endet der Versicherungsschutz für Geschädigte frühestens am 15. Tage nach Ablauf der im Fahrzeugausweis festgelegten Dauer der provisorischen Immatrikulation.
 
-<sup>4</sup> …[^19-2]
+<sup>4</sup> ...[^19-2]
 
-<sup>5</sup> …[^19-3]
+<sup>5</sup> ...[^19-3]
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
 [^19-2]: Aufgehoben durch Ziff. I der V vom 29. Nov. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
@@ -514,8 +514,8 @@ Ausser an den Fahrzeugen nach Absatz 1 dürfen verwendet werden:[^22-3]
 [^22-1]: Fassung gemäss Ziff. I der V vom 1. Juli 1992, in Kraft seit 1. Aug. 1992 ([AS 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 [^22-2]: Ausdruck gemäss Ziff. I Abs. 1 der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)). Diese Änd. wurde im ganzen Text vorgenommen.
 [^22-3]: Fassung gemäss Ziff. I der V vom 11. April 2001, in Kraft seit 1. Juni 2001 ([AS 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
-[^22-4]: Fassung gemäss Anhang 1 Ziff. II 6 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^22-5]: Fassung gemäss Anhang 1 Ziff. II 6 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^22-4]: Fassung gemäss Anhang 1 Ziff. II 6 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Die Berichtigung vom 24. Sept. 2021 betrifft nur den italienischen Text ([AS 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
+[^22-5]: Fassung gemäss Anhang 1 Ziff. II 6 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Die Berichtigung vom 24. Sept. 2021 betrifft nur den italienischen Text ([AS 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
 [^22-6]: Fassung gemäss Anhang 1 Ziff. II 6 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^22-7]: Eingefügt durch Ziff. I der V vom 11. April 2001, in Kraft seit 1. Juni 2001 ([AS 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 [^22-8]: Fassung gemäss Ziff. I der V vom 1. Juli 1992, in Kraft seit 1. Aug. 1992 ([AS 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
@@ -600,7 +600,7 @@ Ein Motorfahrzeug, das mit Händlerschildern versehen ist oder einen mit Händle
 
 <sup>3</sup> Mit Händlerschildern versehene Fahrzeuge können Kaufinteressenten für unbegleitete Fahrten überlassen werden, wenn sie betriebssicher sind und den Vorschriften entsprechen. Der Inhaber des Kollektiv-Fahrzeugausweises hat über diese Fahrten ein Verzeichnis zu führen, das während zwei Jahren aufzubewahren ist. Er hat den Kontrollorganen auf Verlangen Einsicht in dieses Verzeichnis zu gewähren.[^25-5]
 
-<sup>4</sup> …[^25-6]
+<sup>4</sup> ...[^25-6]
 
 [^25-1]: Fassung gemäss Art. 152 Ziff. 1 VZV ([AS 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
 [^25-2]: Fassung gemäss Ziff. I der V vom 11. April 2001, in Kraft seit 1. Juni 2001 ([AS 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
@@ -1032,7 +1032,7 @@ Die Auskunftsstelle erteilt geschädigten Personen und Sozialversicherungen folg
 
 [^part4-chap2-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
-### I. …****
+### I. ...****
 
 [^part4-chap2-lvlI-1]
 
@@ -1281,7 +1281,7 @@ wird mit Busse[^60-1] bestraft.[^60-2]
 
 wird mit Busse bestraft.
 
-<sup>3.</sup> …[^60-5]
+<sup>3.</sup> ...[^60-5]
 
 wird mit Busse bestraft.
 
@@ -1348,7 +1348,7 @@ wird mit Busse bestraft.
 
 #### Art. 76a
 
-**…[^76a-2]**[^76a-1]
+**...[^76a-2]**[^76a-1]
 
 <sup>1</sup> Das ASTRA kann für die Durchführung dieser Verordnung Weisungen erlassen. Es kann in besonderen Fällen Ausnahmen von einzelnen Bestimmungen gestatten, wenn dabei die Schadendeckung nicht vermindert wird.
 
@@ -1584,7 +1584,7 @@ Anhang 3*[^t-4]*
 
 [^t-4]: Fassung gemäss Ziff. II der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image3.png)
 
 Anhang 4*[^t-5]*
 
@@ -1608,7 +1608,7 @@ Anhang 4*[^t-5]*
 - 1\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image4.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image4.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis weitere 20 Fahrzeuge hergestellt werden.</td></tr>
 </table>
 
@@ -1641,7 +1641,7 @@ Anhang 4*[^t-5]*
 - 2\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image5.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image5.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis weitere 20 neue Fahrzeuge importiert werden.</td></tr>
 </table>
 
@@ -1690,7 +1690,7 @@ Anhang 4*[^t-5]*
   - b. für die übrigen Fahrzeugarten:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image6.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image6.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis weitere</td></tr>
 </table>
 
@@ -1733,7 +1733,7 @@ Anhang 4*[^t-5]*
 - 4\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image7.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image7.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">der direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Reparaturarbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1767,7 +1767,7 @@ Anhang 4*[^t-5]*
 - 5\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image8.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image8.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 20 Fahrzeugen entgeltliche Reparaturarbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1801,7 +1801,7 @@ Anhang 4*[^t-5]*
 - 6\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image9.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image9.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 30 Fahrzeugen entgeltliche Reparaturarbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1835,7 +1835,7 @@ Anhang 4*[^t-5]*
 - 7\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image10.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image10.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 30 Fahrzeugen entgeltliche Reparaturarbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1869,7 +1869,7 @@ Anhang 4*[^t-5]*
 - 8\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image11.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image11.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 30 Fahrzeugen entgeltliche Reparaturarbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1903,7 +1903,7 @@ Anhang 4*[^t-5]*
 - 9\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image12.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image12.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 30 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1937,7 +1937,7 @@ Anhang 4*[^t-5]*
 - 10\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image13.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image13.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Reparaturarbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -1971,7 +1971,7 @@ Anhang 4*[^t-5]*
 - 11\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image14.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image14.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2005,7 +2005,7 @@ Anhang 4*[^t-5]*
 - 12\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image15.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image15.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 20 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2035,7 +2035,7 @@ Anhang 4*[^t-5]*
 - 13\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image16.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image16.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2066,7 +2066,7 @@ Anhang 4*[^t-5]*
 - 14\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image17.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image17.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2100,7 +2100,7 @@ Anhang 4*[^t-5]*
 - 15\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image18.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image18.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2132,7 +2132,7 @@ Anhang 4*[^t-5]*
 - 16\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image19.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image19.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2166,7 +2166,7 @@ Anhang 4*[^t-5]*
 - 17\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image20.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image20.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis an weiteren 50 Fahrzeugen entgeltliche Arbeiten ausgeführt werden, die Probe- oder Überführungsfahrten notwendig machen.</td></tr>
 </table>
 
@@ -2196,7 +2196,7 @@ Anhang 4*[^t-5]*
 - 18\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image21.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image21.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem muss der eigene Fahrzeugpark je Kollektiv- Fahrzeugausweis 30 weitere Fahrzeuge umfassen.</td></tr>
 </table>
 
@@ -2224,7 +2224,7 @@ Anhang 4*[^t-5]*
 - 19\.22 weitere Kollektiv-Fahrzeugausweise:
 
 <table>
-<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/de/xml/image/image22.png)</td><td>, wobei y die Anzahl der</td></tr>
+<tr><td>Anzahl Kollektiv-Fahrzeugausweise ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/de/xml/image/image22.png)</td><td>, wobei y die Anzahl der</td></tr>
 <tr><td colspan="3">direkt im Motorfahrzeugbereich hauptberuflich beschäftigten Personen ist. Zudem müssen pro Jahr je Kollektiv-Fahrzeugausweis weitere 20 Fahrzeuge erprobt werden.</td></tr>
 </table>
 
@@ -2278,7 +2278,7 @@ Anhang 5*[^t-6]*
 </table>
 
 <table>
-<tr><td>3. Der Halter/die Halterin bestätigt, dass er/sie am … bei der Motorhaftpflichtversicherung … einen Versicherungsnachweis angefordert hat. 4. Der Halter/die Halterin bestätigt, folgende Unterlagen am … der Post oder der Zulassungsbehörde übergeben zu haben: a. Fahrzeugausweis für das einzulösende Fahrzeug oder Prüfbericht (Formular 13.20 A); b. Fahrzeugausweis für das Fahrzeug, das ausser Verkehr gesetzt werden soll; c. das amtliche Formular mit schriftlicher Zustimmung des Halters/der Halterin und der vom Eintrag begünstigten Person (z.B. Leasingfirma) bzw. rechtskräftiges Gerichtsurteil über die Eigentumsverhältnisse, wenn im Fahrzeugausweis der Code 178 «Halterwechsel verboten» eingetragen ist; d. für LSVA[^annex5-lvlu1-1]-pflichtige Fahrzeuge: Konformitätsausweis (Art. 16 Abs. 2 SVAV[^annex5-lvlu1-2]) oder auf den Halter/die Halterin lautende Befreiungserklärung der Eidgenössischen Zollverwaltung (Art. 15 Abs. 5 SVAV).</td></tr>
+<tr><td>3. Der Halter/die Halterin bestätigt, dass er/sie am ... bei der Motorhaftpflichtversicherung ... einen Versicherungsnachweis angefordert hat. 4. Der Halter/die Halterin bestätigt, folgende Unterlagen am ... der Post oder der Zulassungsbehörde übergeben zu haben: a. Fahrzeugausweis für das einzulösende Fahrzeug oder Prüfbericht (Formular 13.20 A); b. Fahrzeugausweis für das Fahrzeug, das ausser Verkehr gesetzt werden soll; c. das amtliche Formular mit schriftlicher Zustimmung des Halters/der Halterin und der vom Eintrag begünstigten Person (z.B. Leasingfirma) bzw. rechtskräftiges Gerichtsurteil über die Eigentumsverhältnisse, wenn im Fahrzeugausweis der Code 178 «Halterwechsel verboten» eingetragen ist; d. für LSVA[^annex5-lvlu1-1]-pflichtige Fahrzeuge: Konformitätsausweis (Art. 16 Abs. 2 SVAV[^annex5-lvlu1-2]) oder auf den Halter/die Halterin lautende Befreiungserklärung der Eidgenössischen Zollverwaltung (Art. 15 Abs. 5 SVAV).</td></tr>
 </table>
 
 <table>

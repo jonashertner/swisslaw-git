@@ -4,11 +4,11 @@ title: "Ordinanza del 20 novembre 1959 sull'assicurazione dei veicoli (OAV)"
 short: OAV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317"
 language: it
-version: 2019-02-01
+version: 2021-09-24
 adopted: 1959-11-20
 in_force: 1959-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20190201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20210924-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it"
 
 (OAV)**[^t-1]**
 
-del 20 novembre 1959 (Stato 1° febbraio 2019)
+del 20 novembre 1959 (Stato 24 settembre 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 6 ott. 1980, in vigore dal 1° gen. 1981 ([RU 1980 1511](https://fedlex.data.admin.ch/eli/oc/1980/1511_1511_1511)). Secondo la medesima disp. nella numerazione degli art. aggiuntivi agli avverbi numerali sono state sostituite le lettere minuscole.
 
@@ -502,8 +502,8 @@ Licenze di circolazione collettive unitamente a targhe professionali sono rilasc
 
 Oltre che ai veicoli giusta il capoverso 1, possono essere applicate:[^22-6]
 
-- a.[^22-7] targhe professionali per autoveicoli a tutti i veicoli a motore con ruote gemellate disposte simmetricamente che non sono motoveicoli;
-- b.[^22-8] targhe professionali per motoleggere a tutti i veicoli a motore che non sono autoveicoli;
+- a.[^22-7] targhe professionali per autoveicoli a tutti i veicoli a motore pluritraccia che non sono motoveicoli;
+- b.[^22-8] targhe professionali per motoveicoli a tutti i veicoli a motore che non sono autoveicoli;
 - c.[^22-9] targhe professionali per motoleggere ai quadricicli leggeri a motore e ai ciclomotori;
 - d. tutte le targhe professionali a veicoli speciali della corrispondente categoria di veicoli;
 - e.[^22-10] targhe professionali per veicoli a motore agricoli e forestali a rimorchi e autotreni agricoli e forestali.[^22-11]
@@ -518,8 +518,8 @@ Oltre che ai veicoli giusta il capoverso 1, possono essere applicate:[^22-6]
 [^22-4]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 [^22-5]: Nuova espressione giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^22-6]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
-[^22-7]: Nuovo testo giusta il n. II 6 dell’all. 1 all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^22-8]: Nuovo testo giusta il n. II 6 dell’all. 1 all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^22-7]: Nuovo testo giusta il n. II 6 dell’all. 1 all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Correzione del 24 set. 2021 ([RU 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
+[^22-8]: Nuovo testo giusta il n. II 6 dell’all. 1 all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Correzione del 24 set. 2021 ([RU 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
 [^22-9]: Nuovo testo giusta il n. II 6 dell’all. 1 all’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^22-10]: Introdotta dal n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 [^22-11]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
@@ -1596,7 +1596,7 @@ Allegato 3*[^t-4]*
 
 [^t-4]: Nuovo testo giusta il n. II dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image3.png)
 
 Allegato 4*[^t-5]*
 
@@ -1621,7 +1621,7 @@ Allegato 4*[^t-5]*
 - 1\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image4.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image4.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre devono essere costruiti ulteriori 20 veicoli all’anno per ciascuna licenza di circolazione collettiva.</td></tr>
 </table>
 
@@ -1655,7 +1655,7 @@ Allegato 4*[^t-5]*
 - 2\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image5.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image5.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre devono essere importati ulteriori 20 veicoli all’anno per ciascuna licenza di circolazione collettiva.</td></tr>
 </table>
 
@@ -1704,7 +1704,7 @@ Allegato 4*[^t-5]*
   - b. per i restanti tipi di veicoli:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image6.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image6.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero di persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre devono essere venduti annualmente per ciascuna licenza di circolazione collettiva ulteriori.</td></tr>
 </table>
 
@@ -1747,7 +1747,7 @@ Allegato 4*[^t-5]*
 - 4\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image7.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image7.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -1781,7 +1781,7 @@ Allegato 4*[^t-5]*
 - 5\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image8.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image8.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 20 veicoli supplementari.</td></tr>
 </table>
 
@@ -1815,7 +1815,7 @@ Allegato 4*[^t-5]*
 - 6\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image9.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image9.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1848,7 +1848,7 @@ Allegato 4*[^t-5]*
 - lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o corse di prova, su almeno 30 veicoli all’anno;
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image10.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image10.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1882,7 +1882,7 @@ Allegato 4*[^t-5]*
 - 8\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image11.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image11.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1916,7 +1916,7 @@ Allegato 4*[^t-5]*
 - 9\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image12.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image12.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1950,7 +1950,7 @@ Allegato 4*[^t-5]*
 - 10\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image13.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image13.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -1984,7 +1984,7 @@ Allegato 4*[^t-5]*
 - 11\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image14.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image14.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collet tiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2018,7 +2018,7 @@ Allegato 4*[^t-5]*
 - 12\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image15.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image15.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 20 veicoli supplementari.</td></tr>
 </table>
 
@@ -2048,7 +2048,7 @@ Allegato 4*[^t-5]*
 - 13\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image16.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image16.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2082,7 +2082,7 @@ Allegato 4*[^t-5]*
 - 14\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image17.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image17.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2116,7 +2116,7 @@ Allegato 4*[^t-5]*
 - 15\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image18.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image18.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari, di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2148,7 +2148,7 @@ Allegato 4*[^t-5]*
 - 16\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image19.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image19.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2182,7 +2182,7 @@ Allegato 4*[^t-5]*
 - 17\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image20.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image20.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2215,7 +2215,7 @@ Allegato 4*[^t-5]*
 - 18\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image21.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image21.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva il parco di veicoli dell’azienda deve comprendere 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -2243,7 +2243,7 @@ Allegato 4*[^t-5]*
 - 19\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20190201/it/xml/image/image22.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20210924/it/xml/image/image22.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere collaudati annualmente 20 veicoli supplementari.</td></tr>
 </table>
 
