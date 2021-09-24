@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-09-13
-valid_until: 2021-09-24
-version_adopted: 2021-09-15
+version: 2021-09-25
+valid_until: 2021-10-27
+version_adopted: 2021-09-22
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2373/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2381/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2373/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 13.09.2021)
+vom 04.11.2020 (Stand 25.09.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -196,11 +196,11 @@ beschliesst:
 
 **Besuche**
 
-<sup>1</sup> Besuche in den Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 der Verordnung vom 22. August 2018 über den Justizvollzug (Justizvollzugsverordnung, JVV)[^16d-1] sind unter Einhaltung von Schutzmassnahmen, namentlich Trennscheiben, Hygienemasken und Abstandsregeln, zulässig.
+<sup>1</sup> Besuche in den Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 der Verordnung vom 22. August 2018 über den Justizvollzug (Justizvollzugsverordnung, JVV)[^16d-1] sind mit gültigem Covid-Zertifikat gemäss der eidgenössischen Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)[^16d-2] oder unter Einhaltung von Schutzmassnahmen, namentlich Trennscheiben, Hygienemasken und Abstandsregeln, zulässig.
 
 <sup>1a</sup> …
 
-<sup>1b</sup> Bei Besucherinnen und Besuchern, die über ein Covid-Zertifikat gemäss der eidgenössischen Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)[^16d-2] verfügen, kann auf die Einhaltung der Schutzmassnahmen verzichtet werden.
+<sup>1b</sup> Bei Besucherinnen und Besuchern, die über ein Covid-Zertifikat verfügen, kann auf die Einhaltung der Schutzmassnahmen verzichtet werden.
 
 <sup>2</sup> Das Besuchskontingent gemäss Artikel 68 Absatz 1 JVV kann aus organisatorischen Gründen von der Vollzugseinrichtung eingeschränkt werden.
 

@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-09-13
-valid_until: 2021-09-24
-version_adopted: 2021-09-15
+version: 2021-09-25
+valid_until: 2021-10-27
+version_adopted: 2021-09-22
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2373/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2381/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2373/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 13.09.2021)
+du 04.11.2020 (état au 25.09.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -196,11 +196,11 @@ arrête:
 
 **Visites**
 
-<sup>1</sup> Les visites au sein des établissements d'exécution au sens des articles 6 à 10 et 13 de l'ordonnance du 22 août 2018 sur l'exécution judiciaire (ordonnance sur l'exécution judiciaire, OEJ)[^16d-1] sont admises dans le respect de mesures de protection, notamment vitres de séparation, masques d'hygiène et règles de distance.
+<sup>1</sup> Les visites au sein des établissements d'exécution au sens des articles 6 à 10 et 13 de l'ordonnance du 22 août 2018 sur l'exécution judiciaire (ordonnance sur l'exécution judiciaire, OEJ)[^16d-1] sont admises sur présentation d'un certificat COVID valable au sens de l'ordonnance fédérale du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (ordonnance COVID-19 certificats)[^16d-2] ou dans le respect de mesures de protection, notamment vitres de séparation, masques d'hygiène et règles de distance.
 
 <sup>1a</sup> …
 
-<sup>1b</sup> Les visiteurs et les visiteuses qui disposent d'un certificat COVID au sens de l'ordonnance fédérale du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (ordonnance COVID-19 certificats)[^16d-2] peuvent renoncer aux mesures de protection.
+<sup>1b</sup> Les visiteurs et les visiteuses qui disposent d'un certificat COVID peuvent renoncer aux mesures de protection.
 
 <sup>2</sup> L'établissement d'exécution peut diminuer le contingent de visites découlant de l'article 68, alinéa 1 OEJ pour des raisons d'organisation.
 
