@@ -4,13 +4,13 @@ number: "101.1"
 title: Constitution du canton de Berne
 short: ConstC
 language: fr
-version: 2013-12-11
-valid_until: 2021-09-25
-version_adopted: 2013-11-24
+version: 2021-09-26
+valid_until: 2022-05-14
+version_adopted: 2021-09-26
 adopted: 1993-06-06
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/101.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/962/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2420/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/962/pdf_file"
 
 (ConstC[^ingress-1])
 
-du 06.06.1993 (état au 11.12.2013)
+du 06.06.1993 (état au 26.09.2021)
 
 Dans l'intention de protéger la liberté et le droit et d'aménager une collectivité dans laquelle tous vivent solidairement et sont conscients de leur responsabilité envers la création,
 
@@ -339,7 +339,7 @@ le peuple bernois se donne la Constitution suivante:
 
 ## 3 Tâches publiques
 
-### 3.1 Protection de l'environnement, du paysage et du patrimoine
+### 3.1 Protection de l'environnement, du climat, du paysage et du patrimoine
 
 #### Art. 31
 
@@ -354,6 +354,18 @@ le peuple bernois se donne la Constitution suivante:
 <sup>4</sup> Le canton et les communes protègent la faune et la flore ainsi que leurs biotopes.
 
 <sup>5</sup> Les coûts des mesures de protection de l'environnement sont en règle générale mis à la charge des personnes qui les ont rendues nécessaires.
+
+#### Art. 31a
+
+**Protection du climat**
+
+<sup>1</sup> Le canton et les communes s'engagent activement à circonscrire le changement climatique et ses effets néfastes.
+
+<sup>2</sup> Ils font le nécessaire dans le cadre de leurs attributions pour atteindre la neutralité climatique d’ici à 2050 et renforcent la capacité d’adaptation aux effets néfastes du changement climatique.
+
+<sup>3</sup> Les mesures de protection du climat visent dans l’ensemble un renforcement de l’économie et doivent être acceptables tant sous l’angle social que sous celui de l’environnement. Elles prévoient notamment des instruments de promotion de l’innovation et de la technologie.
+
+<sup>4</sup> Le canton et les communes orientent dans l’ensemble les flux financiers publics vers un développement neutre du point de vue climatique et résilient au changement climatique.
 
 #### Art. 32
 

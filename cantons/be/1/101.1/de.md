@@ -4,13 +4,13 @@ number: "101.1"
 title: Verfassung des Kantons Bern
 short: KV
 language: de
-version: 2013-12-11
-valid_until: 2021-09-25
-version_adopted: 2013-11-24
+version: 2021-09-26
+valid_until: 2022-05-14
+version_adopted: 2021-09-26
 adopted: 1993-06-06
 in_force: 1995-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/101.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/962/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2420/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/962/pdf_file"
 
 (KV[^ingress-1])
 
-vom 06.06.1993 (Stand 11.12.2013)
+vom 06.06.1993 (Stand 26.09.2021)
 
 In der Absicht, Freiheit und Recht zu schützen und ein Gemeinwesen zu gestalten, in dem alle in Verantwortung gegenüber der Schöpfung zusammenleben,
 
@@ -339,7 +339,7 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 ## 3 Öffentliche Aufgaben
 
-### 3.1 Umwelt-, Landschafts- und Heimatschutz
+### 3.1 Umwelt-, Klima-, Landschafts- und Heimatschutz
 
 #### Art. 31
 
@@ -354,6 +354,18 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 <sup>4</sup> Kanton und Gemeinden schützen die Tier- und Pflanzenwelt sowie deren Lebensräume.
 
 <sup>5</sup> Kosten für Umweltschutzmassnahmen sind in der Regel nach dem Verursacherprinzip zu tragen.
+
+#### Art. 31a
+
+**Klimaschutz**
+
+<sup>1</sup> Kanton und Gemeinden setzen sich aktiv für die Begrenzung der Klimaveränderung und deren nachteiliger Auswirkungen ein.
+
+<sup>2</sup> Sie leisten im Rahmen ihrer Kompetenzen den erforderlichen Beitrag zur Erreichung der Klimaneutralität bis 2050 und stärken die Fähigkeit zur Anpassung an die nachteiligen Auswirkungen der Klimaveränderung.
+
+<sup>3</sup> Die Massnahmen zum Klimaschutz sind insgesamt auf eine Stärkung der Volkswirtschaft auszurichten sowie umwelt- und sozialverträglich auszugestalten. Sie beinhalten namentlich Instrumente der Innovations- und Technologieförderung.
+
+<sup>4</sup> Kanton und Gemeinden richten die öffentlichen Finanzflüsse insgesamt auf eine klimaneutrale und gegenüber der Klimaveränderung widerstandsfähige Entwicklung aus.
 
 #### Art. 32
 
