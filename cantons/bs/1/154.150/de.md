@@ -3,13 +3,12 @@ canton: BS
 number: "154.150"
 title: Organisationsreglement des Appellationsgerichts
 language: de
-version: 2018-10-04
-valid_until: 2021-09-26
-version_adopted: 2018-08-30
+version: 2021-09-27
+version_adopted: 2021-09-10
 adopted: 2017-03-14
 in_force: 2017-03-14
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/154.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4583/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5341/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4583/pdf_file"
 
 Appellationsgericht: Organisationsreglement | Gerichte / Staatsanwaltschaft / Strafverfolgungsbehörden
 
-Vom 14. März 2017 (Stand 4. Oktober 2018)
+Vom 14. März 2017 (Stand 27. September 2021)
 
 Das Appellationsgericht des Kantons Basel-Stadt,
 
@@ -56,6 +55,7 @@ beschliesst:
 - e) die Abteilungskonferenzen;
 - f) die Abteilungspräsidien;
 - g) die Erste Gerichtsschreiberin oder der Erste Gerichtsschreiber;
+- g<sup>bis</sup>) die Leitende Gerichtsschreiberin oder der Leitende Gerichtsschreiber;
 - h) die Verwaltungschefin oder der Verwaltungschef.
 
 #### § 3
@@ -111,7 +111,7 @@ beschliesst:
 
 <sup>1</sup> Der Präsidienkonferenz gehören alle Präsidentinnen und Präsidenten des Appellationsgerichts an.
 
-<sup>2</sup> Die Erste Gerichtsschreiberin oder der Erste Gerichtsschreiber und die Verwaltungschefin oder der Verwaltungschef gehören der Präsidienkonferenz mit beratender Stimme an. Auf Beschluss der Präsidienkonferenz können weitere Mitarbeitende des Appellationsgerichts mit beratender Stimme in die Präsidienkonferenz aufgenommen werden.
+<sup>2</sup> Die Erste Gerichtsschreiberin oder der Erste Gerichtsschreiber, die Leitende Gerichtsschreiberin oder der Leitende Gerichtsschreiber und die Verwaltungschefin oder der Verwaltungschef gehören der Präsidienkonferenz mit beratender Stimme an. Auf Beschluss der Präsidienkonferenz können weitere Mitarbeitende des Appellationsgerichts mit beratender Stimme in die Präsidienkonferenz aufgenommen werden.
 
 <sup>3</sup> Die Präsidienkonferenz fasst ihre Beschlüsse nach Anordnung der Vorsitzenden Präsidentin oder des Vorsitzenden Präsidenten entweder in einer Sitzung oder auf dem Zirkulationsweg.
 
@@ -130,7 +130,7 @@ beschliesst:
 - a) über die Zuteilung der einzelnen Präsidentinnen und Präsidenten an die Abteilungen des Appellationsgerichts (§ 89 Abs. 3 GOG) und über die Aushilfe von Präsidentinnen und Präsidenten in anderen Abteilungen;
 - b) über den Abtausch von Pensen der Präsidiumsmitglieder untereinander (§ 38 Abs. 1 GOG);
 - c) über die Übertragung der Funktion einer Präsidentin oder eines Präsidenten für einzelne Fälle an eine Richterin oder einen Richter (§ 39 GOG);
-- d) über besondere Entschädigungen für Richterinnen und Richter, die mit besonderen Funktionen beauftragt oder die über das übliche Mass in Anspruch genommen werden (§ 61 Abs. 4 GOG);
+- d) …
 - e) über unverzüglich notwendige Massnahmen im Rahmen von Amtsenthebungsverfahren, welche das Appellationsgericht, das Zivil-, Straf- oder Jugendgericht sowie die Präsidentin oder den Präsidenten des Gerichts für fürsorgerische Unterbringungen betreffen (§ 65 Abs. 3 GOG);
 - f) über den Bestand einer Pflicht zur Offenlegung einer Interessenbindung, wenn diese von einem Mitglied des Präsidiums oder einer Richterin oder einem Richter bestritten wird (§ 60 Abs. 5 GOG).
 
@@ -249,7 +249,7 @@ beschliesst:
 
 **Aufgaben der Kanzlei**
 
-<sup>1</sup> Die Mitarbeitenden der Kanzlei des Appellationsgerichts sind verantwortlich für sämtliche administrativen Aufgaben, die bei der Rechtsprechung anfallen, insbesondere für die Erstellung der Falldossiers und die Zuordnung von Eingaben, die technische Verarbeitung und den Versand von Verfügungen und Entscheiden, die Organisation und Durchführung der Gerichtsverhandlungen, die Aktenzirkulation und die ordnungsgemässe Archivierung nach Abschluss der Prozesse.
+<sup>1</sup> Die Mitarbeitenden der Kanzlei des Appellationsgerichts sind verantwortlich für sämtliche administrativen Aufgaben, die bei der Rechtsprechung anfallen, insbesondere für die Erstellung der Falldossiers und die Zuordnung von Eingaben, die technische Verarbeitung und den Versand von Verfügungen und Entscheiden, die Organisation und Durchführung der Gerichtsverhandlungen und die Aktenzirkulation. Die Kanzleileiterin oder der Kanzleileiter ist für die geordnete Verwaltung und Aufbewahrung der Unterlagen verantwortlich.
 
 <sup>2</sup> Die Kanzlei gewährleistet den Schalter- und Weibeldienst. Ferner ist sie zuständig für die Beschaffung von Büromaterial und alle weiteren administrativen Belange, welche für das Funktionieren des Gerichtsbetriebs massgeblich sind.
 
@@ -259,7 +259,7 @@ beschliesst:
 
 **Rechnungswesen**
 
-<sup>1</sup> Das Rechnungswesen ist verantwortlich für die Buchhaltung und das Controlling aller Gerichtsbetriebe mit den angeschlossenen Ämtern sowie die finanzielle Abwicklung der Gerichtsverfahren, insbesondere des Inkassowesens, soweit nicht einzelne dieser Aufgaben durch Beschluss des Gerichtsrats oder der Präsidienkonferenz des Appellationsgerichts einer anderen Amtsstelle übertragen worden sind. Es ist ausserdem zuständig zur Betreuung des elektronischen Systems zur Erfassung der Arbeitszeit der Mitarbeitenden und zur Eingabe der dabei notwendigen Mutationen. Ferner können ihm weitere Aufgaben im Finanzbereich zugewiesen werden.
+<sup>1</sup> Das Rechnungswesen ist verantwortlich für die Buchhaltung und das Controlling aller Gerichtsbetriebe mit den angeschlossenen Ämtern sowie die finanzielle Abwicklung der Gerichtsverfahren, insbesondere des Inkassowesens, soweit nicht einzelne dieser Aufgaben durch Beschluss des Gerichtsrats oder der Präsidienkonferenz des Appellationsgerichts einer anderen Amtsstelle übertragen worden sind. Ferner können ihm weitere Aufgaben im Finanzbereich zugewiesen werden.
 
 <sup>2</sup> Zudem bedient das Rechnungswesen den Schalterdienst und die Kasse.
 
@@ -355,7 +355,7 @@ beschliesst:
 
 **Öffentliche Verhandlungen**
 
-<sup>1</sup> Das Appellationsgericht informiert die Öffentlichkeit über die Termine öffentlicher Verhandlungen auf seiner Internetseite oder per E-Mail an die akkreditierten Medienschaffenden.
+<sup>1</sup> Das Appellationsgericht informiert die Öffentlichkeit über die Termine öffentlicher Verhandlungen auf seiner Internetseite.
 
 <sup>2</sup> Die Spruchkörper verhandeln grundsätzlich im Gerichtssaal des Appellationsgerichts. Die Verfahrensleitung kann im Einzelfall Ausnahmen beschliessen, etwa um einem besonderen Publikumsinteresse Rechnung zu tragen.
 
