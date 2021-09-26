@@ -4,13 +4,13 @@ number: "901.112"
 title: Kantonale Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung
 language: de
-version: 2021-07-01
-valid_until: 2021-09-26
-version_adopted: 2021-06-30
+version: 2021-09-27
+valid_until: 2021-12-22
+version_adopted: 2021-09-24
 adopted: 2020-12-18
 in_force: 2020-12-18
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/901.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2299/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2382/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2299/pdf_file"
 
 (Kantonale Härtefallverordnung)
 
-vom 18.12.2020 (Stand 01.07.2021)
+vom 18.12.2020 (Stand 27.09.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -187,7 +187,7 @@ beschliesst:
 - c es die ihm gewährten Mittel nicht an eine mit ihm direkt oder indirekt verbundene Gruppengesellschaft, die ihren Sitz nicht in der Schweiz hat, überträgt; zulässig ist jedoch insbesondere das Erfüllen vorbestehender ordentlicher Zins- und Amortisationszahlungspflichten innerhalb einer Gruppenstruktur,
 - d ihm aus dem Umsatzrückgang erhebliche ungedeckte Fixkosten resultierten.
 
-<sup>2</sup> Besonders betroffene Unternehmen gemäss Artikel 4a müssen die Bestätigung gemäss Absatz 1 Buchstabe b und d nicht erbringen.
+<sup>2</sup> Besonders betroffene kleine Unternehmen gemäss Artikel 4a müssen die Bestätigung gemäss Absatz 1 Buchstabe b und d nicht erbringen.
 
 ## 3 Umfang der Unterstützung
 
@@ -274,10 +274,30 @@ beschliesst:
 
 **Ergänzende Unterstützung**
 
-<sup>1</sup> Die zuständige Stelle kann die Unterstützung mit den Mitteln der Bundesratsreserve über die Beschränkungen gemäss den Artikeln 9 Absatz 2 Buchstabe b, 12 Absätze 1,1a und 1c sowie 12a Absätze 4 und 5 hinaus ergänzen, wenn das Unternehmen Anspruch auf eine Sofortunterstützung gemäss Artikel 12 oder 12a hat und
+<sup>1</sup> Die zuständige Stelle kann die Unterstützung mit den Mitteln der Bundesratsreserve über die Beschränkungen gemäss den Artikeln 9 Absatz 2 Buchstabe b und 12a Absätze 3 bis 5 hinaus ergänzen, wenn das Unternehmen Anspruch auf eine Sofortunterstützung gemäss Artikel 12a hat sowie
 
-- a es oder seine Branche überdurchschnittlich betroffen ist oder
-- b seine ergänzende Unterstützung im volkswirtschaftlichen Interesse des Kantons liegt.
+- a–b …
+- c eine Umsatzeinbusse von mehr als 40 Prozent erlitten hat,
+- d im Durchschnitt der Stichtage 31. Dezember 2020 und 30. Juni 2021 in der Schweiz Personal im Umfang von mindestens 50 Vollzeitäquivalenten beschäftigt, und
+- e sein Verlust gemäss Absatz 1a mindestens 50 Prozent des Eigenkapitals per 31. Dezember 2019 beträgt.
+
+<sup>1a</sup> Als Verlust im Sinne der ergänzenden Unterstützung gilt der Unternehmensverlust des Jahres 2020 und des ersten Halbjahres 2021 ohne Berücksichtigung
+
+- a von ausserordentlichen Abschreibungen oder Wertberichtigungen,
+- b von über dem Durchschnitt der letzten drei Jahre liegenden Aufwendungen für Unterhalt,
+- c der bereits erhaltenen Härtefallentschädigungen gemäss dieser Verordnung.
+
+<sup>1b</sup> Die ergänzende Unterstützung entspricht
+
+- a den anrechenbaren Fixkosten gemäss Artikel 4 abzüglich der bereits erhaltenen Härtefallentschädigung oder
+- b 50 Prozent des Verlusts gemäss Absatz 1a.
+
+<sup>1c</sup> Sie darf den Betrag von drei Millionen Franken nicht überschreiten und kann anteilsmässig gekürzt werden, wenn die vorhandenen Mittel für die Berücksichtigung aller Gesuche nicht ausreichen.
+
+<sup>1d</sup> Für Unternehmen, deren Geschäftsjahr sich nicht mit dem Kalenderjahr deckt, gilt
+
+- a als Verlust gemäss Absatz 1a der Verlust des Geschäftsjahres, das mehrheitlich innerhalb des Zeitraums vom 1. Januar 2020 und dem 30. Juni 2021 liegt, berechnet auf 18 Monate,
+- b für die Beurteilung gemäss Absatz 1 Buchstabe e das Eigenkapital am Ende des Geschäftsjahres, das dem Geschäftsjahr nach Buchstabe a vorangegangen ist.
 
 <sup>2</sup> Hat ein Unternehmen bereits eine branchenspezifische Covid-19-Finanzhilfe des Bundes erhalten, so ist dieser Betrag von der ergänzenden Unterstützung nach diesem Artikel abzuziehen.
 
@@ -304,6 +324,10 @@ beschliesst:
 <sup>1</sup> Das gesuchstellende Unternehmen hat sein Gesuch elektronisch auf dem von der zuständigen Stelle vorgegebenen Verfahrensweg einzureichen.
 
 <sup>2</sup> Gesuche für Sofortunterstützung sind bis zum 31. August 2021 einzureichen. Massgebend ist das Datum der elektronischen Empfangsbestätigung.
+
+<sup>2a</sup> Gesuche für ergänzende Unterstützung gemäss Artikel 12d sind bis zum 31. Oktober 2021 einzureichen. Massgebend ist das Datum der elektronischen Empfangsbestätigung.
+
+<sup>2b</sup> Gesuche für eine Wiedererwägung sind bis zum 31. Oktober 2021 einzureichen. Massgebend ist das Datum der elektronischen Empfangsbestätigung.
 
 <sup>3</sup> …
 
@@ -384,6 +408,12 @@ beschliesst:
 ## T6 Übergangsbestimmung der Änderung vom 30.06.2021
 
 #### Art. T6-1
+
+<sup>1</sup> Bei Inkrafttreten dieser Änderung hängige Gesuche sind nach neuem Recht zu behandeln.
+
+## T7 Übergangsbestimmung der Änderung vom 24.09.2021
+
+#### Art. T7-1
 
 <sup>1</sup> Bei Inkrafttreten dieser Änderung hängige Gesuche sind nach neuem Recht zu behandeln.
 

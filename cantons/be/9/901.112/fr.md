@@ -4,13 +4,13 @@ number: "901.112"
 title: "Ordonnance cantonale concernant les mesures destinées aux entreprises pour les cas de rigueur en lien avec l'épidémie de COVID-19"
 short: Ordonnance cantonale sur les cas de rigueur
 language: fr
-version: 2021-07-01
-valid_until: 2021-09-26
-version_adopted: 2021-06-30
+version: 2021-09-27
+valid_until: 2021-12-22
+version_adopted: 2021-09-24
 adopted: 2020-12-18
 in_force: 2020-12-18
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/901.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2299/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2382/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2299/pdf_file"
 
 (Ordonnance cantonale sur les cas de rigueur)
 
-du 18.12.2020 (état au 01.07.2021)
+du 18.12.2020 (état au 27.09.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -187,7 +187,7 @@ arrête:
 - c qu'elle ne transfère pas les fonds qui lui sont accordés à une société du même groupe qui lui est liée directement ou indirectement et n’a pas son siège en Suisse; il lui est toutefois permis en particulier de s’acquitter d’obligations préexistantes de paiement d’intérêts et d’amortissements à l’intérieur d’un groupe;
 - d que le recul du chiffre d'affaires a entraîné des coûts fixes non couverts considérables.
 
-<sup>2</sup> Les entreprises particulièrement touchées au sens de l'article 4a ne sont pas tenues d'apporter la garantie exigée à l'alinéa 1, lettres b et d.
+<sup>2</sup> Les petites entreprises particulièrement touchées au sens de l'article 4a ne sont pas tenues d'apporter la garantie exigée à l'alinéa 1, lettres b et d.
 
 ## 3 Étendue du soutien
 
@@ -274,10 +274,30 @@ arrête:
 
 **Soutien complémentaire**
 
-<sup>1</sup> Le service compétent peut compléter le soutien grâce aux moyens de la réserve du Conseil fédéral, au-delà des restrictions visées aux articles 9, alinéa 2, lettre b, 12, alinéas 1, 1a et 1c ainsi que 12a, alinéas 4 et 5, si l'entreprise a droit à un soutien immédiat conformément aux articles 12 ou 12a et
+<sup>1</sup> Le service compétent peut compléter le soutien grâce aux moyens de la réserve du Conseil fédéral, au-delà des restrictions visées aux articles 9, alinéa 2, lettre b, et 12a, alinéas 3 à 5, si l'entreprise a droit à un soutien immédiat conformément à l'article 12a et
 
-- a que l'entreprise ou sa branche est plus touchée que la moyenne ou
-- b qu'il est dans l'intérêt économique du canton d'accorder un soutien complémentaire à cette entreprise.
+- a–b …
+- c qu'elle a subi une perte de chiffre d'affaires supérieure à 40 pour cent;
+- d qu'aux jours de référence du 31 décembre 2020 et du 30 juin 2021, son effectif en Suisse représente en moyenne au moins 50 équivalents plein temps, et
+- e que la perte subie au sens de l'alinéa 1a représente au moins 50 pour cent des fonds propres qu'elle détenait au 31 décembre 2019.
+
+<sup>1a</sup> En vue de l'allocation d'un soutien complémentaire, est considérée comme perte celle que l'entreprise a enregistrée au cours de l'année 2020 et du premier semestre de 2021, hormis
+
+- a des amortissements comptables extraordinaires ou des rectifications de valeur extraordinaires,
+- b des dépenses d'entretien supérieures à la moyenne des trois dernières années,
+- c les indemnités pour cas de rigueur déjà reçues au titre de la présente ordonnance.
+
+<sup>1b</sup> Le soutien complémentaire correspond
+
+- a aux coûts fixes imputables visés à l'article 4, une fois déduites les indemnités pour cas de rigueur déjà reçues, ou
+- b à 50 pour cent de la perte visée à l'alinéa 1a.
+
+<sup>1c</sup> Le soutien ne peut dépasser le montant de trois millions de francs et peut être réduit proportionnellement si les moyens à disposition ne suffisent pas à répondre à toutes les demandes.
+
+<sup>1d</sup> Pour les entreprises dont l'exercice ne coïncide pas avec l'année civile,
+
+- a la perte visée à l'alinéa 1a correspond à celle enregistrée au cours de l'exercice compris pour sa plus grande partie entre le 1<sup>er</sup> janvier 2020 et le 30 juin 2021, cette perte étant ensuite calculée sur 18 mois;
+- b les fonds propres retenus en vue de l'examen fondé sur l'alinéa 1, lettre e, sont ceux disponibles à la fin de l'exercice précédant celui visé à la lettre a.
 
 <sup>2</sup> Si une entreprise a déjà reçu des aides financières au titre du COVID-19 accordées spécifiquement par la Confédération à son domaine, alors ce montant doit être déduit du soutien complémentaire visé au présent article.
 
@@ -304,6 +324,10 @@ arrête:
 <sup>1</sup> L'entreprise requérante doit déposer sa demande par voie électronique selon la procédure définie par le service compétent.
 
 <sup>2</sup> Les demandes de soutien immédiat doivent être déposées d'ici au 31 août 2021. La date de l'accusé de réception électronique fait foi.
+
+<sup>2a</sup> Les demandes de soutien complémentaire au sens de l'article 12d doivent être déposées d'ici au 31 octobre 2021. La date de l'accusé de réception électronique fait foi.
+
+<sup>2b</sup> Les demandes de reconsidération doivent être déposées d'ici au 31 octobre 2021. La date de l'accusé de réception électronique fait foi.
 
 <sup>3</sup> …
 
@@ -384,6 +408,12 @@ arrête:
 ## T6 Disposition transitoire de la modification du 30.06.2021
 
 #### Art. T6-1
+
+<sup>1</sup> Les demandes pendantes à l'entrée en vigueur de la présente modification sont traitées selon le nouveau droit.
+
+## T7 Disposition transitoire de la modification du 24.09.2021
+
+#### Art. T7-1
 
 <sup>1</sup> Les demandes pendantes à l'entrée en vigueur de la présente modification sont traitées selon le nouveau droit.
 
