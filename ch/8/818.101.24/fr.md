@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-09-20
+version: 2021-09-27
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210920/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210920-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210920/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210927/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210927-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210927/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210920/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 20 septembre 2021)
+du 19 juin 2020 (Etat le 27 septembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -721,20 +721,16 @@ Annexe 1*[^t-1]*
 
 ## Liste des pays et régions à risque
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 7 sept. 2021, en vigueur depuis le 13 sept. 2021 ([RO 2021 548](https://fedlex.data.admin.ch/eli/oc/2021/548)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 23 sept. 2021, en vigueur depuis le 27 sept. 2021 ([RO 2021 581](https://fedlex.data.admin.ch/eli/oc/2021/581)).
 
 ### 1. Liste des pays et régions à risque (art. 3, al. 2, let. a)
 
 Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 
-- – Albanie
 - – Andorre
 - – Arabie saoudite
-- – Arménie
 - – Australie
-- – Azerbaïdjan
 - – Bosnie et Herzégovine
-- – Brunéi Darussalam
 - – Bulgarie
 - – Canada
 - – Chypre
@@ -742,7 +738,6 @@ Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 - – Croatie
 - – Hong Kong
 - – Irlande
-- – Japon
 - – Jordanie
 - – Macao
 - – Moldova
@@ -752,9 +747,9 @@ Tous les États et régions en dehors de l’espace Schengen, sauf les suivants:
 - – Roumanie
 - – Saint-Marin
 - – Saint-Siège
-- – Serbie
 - – Singapour
 - – Taïwan
+- – Uruguay
 - – Ukraine
 
 ### 2. Pays et régions à risque avec un variant du virus SARS-CoV-2 dont le risque d’infection ou d’évolution grave de la maladie est plus élevé que pour le variant du virus qui prévaut dans l’espace Schengen (art. 3, al. 2, let. b)

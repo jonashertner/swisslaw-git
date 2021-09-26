@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-09-20
+version: 2021-09-27
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210920/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210920-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210920/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210927/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210927-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210927/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210920/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 20 settembre 2021)
+del 19 giugno 2020 (Stato 27 settembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -722,41 +722,59 @@ Allegato 1*[^t-1]*
 
 ## Elenco dei Paesi e delle regioni a rischio
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 7 set. 2021, in vigore dal 13 set. 2021 ([RU 2021 548](https://fedlex.data.admin.ch/eli/oc/2021/548)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 23 set. 2021, in vigore dal 27 set. 2021 ([RU 2021 581](https://fedlex.data.admin.ch/eli/oc/2021/581)).
 
 ### 1. Paesi e regioni a rischio (art. 3 cpv. 2 lett. a)
 
 Tutti gli Stati e regioni al di fuori dello spazio Schengen, tranne:
 
-- – Albania
-- – Andorra
-- – Arabia Saudita
-- – Armenia
-- – Australia
-- – Azerbaigian
-- – Bosnia e Erzegovina
-- – Brunei Darussalam
-- – Bulgaria
-- – Canada
-- – Cipro
-- – Corea (Sud)
-- – Croazia
-- – Giappone
-- – Giordania
-- – Hong Kong
-- – Irlanda
-- – Macao
-- – Moldova
-- – Monaco
-- – Nuova Zelanda
-- – Qatar
-- – Romania
-- – San Marino
-- – Santa Sede
-- – Serbia
-- – Singapore
-- – Taiwan
-- – Ucraina
+– Andorra
+
+– Arabia Saudita
+
+– Australia
+
+– Bosnia e Erzegovina
+
+– Bulgaria
+
+– Canada
+
+– Cipro
+
+– Corea (Sud)
+
+– Croazia
+
+– Giordania
+
+– Hong Kong
+
+– Irlanda
+
+– Macao
+
+– Moldova
+
+– Monaco
+
+– Nuova Zelanda
+
+– Qatar
+
+– Romania
+
+– San Marino
+
+– Santa Sede
+
+– Singapore
+
+– Taiwan
+
+– Ucraina
+
+– Uruguay
 
 ### 2. Paesi e regioni a rischio con una variante del virus SARS-CoV-2 che presenta un rischio di contagio più elevato o un decorso più grave della malattia rispetto alla variante del virus diffusa nello spazio Schengen (art. 3 cpv. 2 lett. b)
 
