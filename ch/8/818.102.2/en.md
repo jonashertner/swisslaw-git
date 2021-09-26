@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinance of 4 June 2021 on Certificates to Prove COVID-19 Vaccination, COVID-19 Recovery or a COVID-19 Test Result (COVID-19 Certificates Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: en
-version: 2021-09-20
+version: 2021-09-27
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210920/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210920-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210920/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210927/en/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210927-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210927/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Certificates Ordinance)
 
-of 4 June 2021 (Status as of 20 September 2021)
+of 4 June 2021 (Status as of 27 September 2021)
 
 The Swiss Federal Council,
 
@@ -680,7 +680,7 @@ Annex 5*[^t-4]*
 
 ## List of recognised foreign certificates
 
-[^t-4]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021, in force since 20 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^t-4]: Amended by No I of the O of 7 July 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Revised by No II of the O of 17 Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) and No I of the FDHA O of 24 Sept. 2021, in force since 27 Sept. 2021([AS 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)).
 
 ### 1 Recognised certificates issued by an EU member state or an EFTA state
 
@@ -693,10 +693,25 @@ Annex 5*[^t-4]*
   - b. is authorised in accordance with the WHO emergency use listing procedure; or
   - c. has been shown to have the same composition as a vaccine licensed under letter a or b but is marketed by a licence holder under a different name and which has been administered in full in accordance with the requirements or recommendations of the country in which the vaccination was carried out.
 
-### 2 Other recognised foreign certificates
+### Other recognised certificates
 
 [^annex5-lvlu1-lvl1-1]: Regulation (EU) 2021/953 of the European Parliament and of the Council of 14 June 2021 on a framework for the issuance, verification and acceptance of interoperable COVID-19 vaccination, test and recovery certificates (EU Digital COVID Certificate) to facilitate free movement during the COVID-19 pandemic, as amended by OJ L 211, 15.6.2021, p. 1.
 
-<table>
-<tr><th>State</th><th></th><th>Vaccination certificates</th><th>Recovery certificates</th><th>Test certificates</th></tr>
-</table>
+- 2\.1
+
+  Vaccination, recovery and test certificates that are interoperable in accordance with Regulation (EU) 2021/953 and have been issued by the following countries are recognised:
+
+  - – Albania
+  - – Andorra
+  - – Faroe Islands
+  - – Holy See
+  - – Israel
+  - – Morocco
+  - – Monaco
+  - – North Macedonia
+  - – Panama
+  - – San Marino
+  - – Turkey
+  - – Ukraine
+
+- 2\.2 Vaccination certificates are only recognised if they have been issued for vaccinations with a vaccine that meets the requirements of number 1.2.

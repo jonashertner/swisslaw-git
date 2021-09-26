@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2021-09-20
+version: 2021-09-27
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210920/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210920-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210920/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20210927/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20210927-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210927/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20210920/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (Etat le 20 septembre 2021)
+du 4 juin 2021 (Etat le 27 septembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -678,7 +678,7 @@ Annexe 5*[^t-4]*
 
 ## Liste des certificats étrangers reconnus
 
-[^t-4]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II de l’O du 17 sept. 2021, en vigueur depuis le 20 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)).
+[^t-4]: Nouvelle teneur selon le ch. I de l’O du 7 juil. 2021 ([RO 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Mise à jour par le ch. II de l’O du 17 sept. 2021 ([RO 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)) et le ch. I de l’O du DFI du 24 sept. 2021, en vigueur depuis le 27 sept. 2021 ([RO 2021 580](https://fedlex.data.admin.ch/eli/oc/2021/580)).
 
 ### 1 Certificats reconnus établis par un État membre de l’UE ou de l’AELE
 
@@ -691,11 +691,25 @@ Annexe 5*[^t-4]*
   - b. les vaccins ayant obtenu une autorisation sur la base de la liste des situations d’urgence de l’OMS;
   - c. les vaccins dont il peut être prouvé qu’ils ont la même composition que des vaccins autorisés en vertu des let. a ou b mais qui sont mis en circulation par un preneur de licence sous un autre nom et qui ont été entièrement administrés conformément aux prescriptions ou aux recommandations du pays dans lequel ils ont été administrés.
 
-### 2 Autres certificats étrangers reconnus
-
 [^annex5-lvlu1-lvl1-1]: Règlement (UE) 2021/953 du Parlement européen et du Conseil du 14 juin 2021 relatif à un cadre pour la délivrance, la vérification et l’acceptation de certificats COVID-19 interopérables de vaccination, de test et de rétablissement (certificat COVID numérique de l’UE) afin de faciliter la libre circulation pendant la pandémie de COVID-19, JO L 211 du 15.6.2021, p. 1.
 
-<table>
-<tr><th>État</th><th></th><th>Certificats de vaccination</th><th>Certificats de guérison</th><th>Certificats de test</th></tr>
-<tr><td></td><td></td><td>;</td><td></td><td></td></tr>
-</table>
+### 2 Autres certificats reconnus
+
+- 2\.1
+
+  Sont reconnus les certificats de vaccination, de guérison ou de test qui sont interopérables conformément au règlement (UE) 2021/953 et qui ont été établis par l’un des États suivants:
+
+  - – Albanie
+  - – Andorre
+  - – Îles Féroé
+  - – Israël
+  - – Macédoine du Nord
+  - – Maroc
+  - – Monaco
+  - – Panama
+  - – Saint-Marin
+  - – Saint-Siège
+  - – Turquie
+  - – Ukraine
+
+- 2\.2 Les certificats de vaccination ne sont reconnus que s’ils ont été établis pour un vaccin conforme aux exigences du ch. 1.2.
