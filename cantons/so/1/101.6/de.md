@@ -4,13 +4,13 @@ number: "101.6"
 title: Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19
 short: Härtefallverordnung-SO
 language: de
-version: 2021-06-01
-valid_until: 2021-09-28
-version_adopted: 2021-05-25
+version: 2021-09-29
+valid_until: 2021-11-01
+version_adopted: 2021-09-28
 adopted: 2020-12-07
 in_force: 2021-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/101.6"
-pdf: "https://bgs.so.ch/api/de/versions/5083/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5126/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5083/pdf_file"
 
 (Härtefallverordnung-SO)
 
-Vom 07.12.2020 (Stand 01.06.2021)
+Vom 07.12.2020 (Stand 29.09.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -38,7 +38,7 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Diese Verordnung bezweckt die Bereitstellung von finanziellen Mitteln zur Unterstützung von Unternehmen, welche aufgrund der Natur ihrer wirtschaftlichen Tätigkeit von den vom Bund angeordneten Massnamen zur Bekämpfung von Covid-19 im Sinne eines Härtefalls oder in anderer Weise besonders betroffen sind.
+<sup>1</sup> Diese Verordnung bezweckt die Bereitstellung von finanziellen Mitteln zur Unterstützung von Unternehmen, welche aufgrund der Natur ihrer wirtschaftlichen Tätigkeit von den vom Bund angeordneten Massnamen zur Bekämpfung von Covid-19 im Sinne eines Härtefalls oder in anderer Weise besonders betroffen sind sowie die Sicherstellung der Missbrauchsbekämpfung mit geeigneten Mitteln.
 
 #### § 2
 
@@ -61,13 +61,16 @@ beschliesst:
 - b) den Entscheid über die Gewährung von Härtefallmassnahmen und kantonalen Härtefallbeiträgen namens des Departements;
 - c) die Durchführung von Rückerstattungsverfahren gemäss § 20;
 - d) die angemessene Bewirtschaftung der ausstehenden Forderungen selber oder durch die Bürgschaftsorganisation;
-- e) die Ergreifung geeigneter Massnahmen zur Wiedereinbringung des Forderungsbetrages bei Eintritt von Bürgschaftsverlusten selber oder durch die Bürgschaftsorganisation.
+- e) die Ergreifung geeigneter Massnahmen zur Wiedereinbringung des Forderungsbetrages bei Eintritt von Bürgschaftsverlusten selber oder durch die Bürgschaftsorganisation;
+- f) die Missbrauchskontrolle betreffend Härtefallmassnahmen, kantonale Unterstützungsbeiträge und kantonale Härtefallbeiträge.
 
-<sup>2</sup> Die Fachstelle Standortförderung wird insbesondere unterstützt vom Steueramt, vom Amt für Wirtschaft und Arbeit betreffend Arbeitslosenkasse und Arbeitsinspektorat, vom Amt für Finanzen betreffend kantonales Einwohnerregister und Auszahlung, von der Bürgschaftsorganisation, vom kantonalen Konkursamt und von den Betreibungsämtern für Abklärungen und Datenbekanntgaben im Rahmen der Gesuchsprüfung.
+<sup>2</sup> Die Fachstelle Standortförderung wird bei der Erfüllung ihrer Aufgaben gemäss dieser Verordnung insbesondere unterstützt vom Steueramt, vom Amt für Wirtschaft und Arbeit betreffend Arbeitslosenkasse und Arbeitsinspektorat, vom Amt für Finanzen betreffend kantonales Einwohnerregister, Auszahlung und Rechtsinkasso, von der Bürgschaftsorganisation, vom kantonalen Konkursamt und von den Betreibungsämtern für Abklärungen und Datenbekanntgaben.
 
 <sup>3</sup> Die Fachstelle Standortförderung, das Steueramt, das Amt für Wirtschaft und Arbeit, das Amt für Finanzen, die Bürgschaftsorganisation, das kantonale Konkursamt und die Betreibungsämter können sämtliche Personendaten bearbeiten, die sie zur Erfüllung der Aufgaben gemäss dieser Verordnung benötigen.
 
-<sup>4</sup> Die Fachstelle Standortförderung darf zur Gesuchsprüfung Dritte beiziehen. Die Absätze 2 und 3 sowie § 17 sind analog anwendbar.
+<sup>4</sup> Die Fachstelle Standortförderung darf zur Gesuchsprüfung sowie zur Missbrauchskontrolle Dritte beiziehen und mit diesen Leistungsvereinbarungen abschliessen. Die Absätze 2 und 3 sowie § 17 sind analog anwendbar.
+
+<sup>5</sup> In den Leistungsvereinbarungen gemäss Absatz 4 sind die Aufgaben, die Entschädigung sowie die Kontrolle und Auswertung der Aufgabendelegation zu regeln.
 
 #### § 3bis
 
@@ -77,13 +80,16 @@ beschliesst:
 
 - a) die Entgegennahme und Prüfung von Gesuchen für kantonale Miet- und Pachtzinsbeiträge;
 - b) den Entscheid über die Gewährung von kantonalen Miet- und Pachtzinsbeiträgen namens des Departements;
-- c) die Durchführung von Rückerstattungsverfahren gemäss § 20<sup>septies</sup>.
+- c) die Durchführung von Rückerstattungsverfahren gemäss § 20<sup>septies</sup>;
+- d) die Missbrauchskontrolle.
 
-<sup>2</sup> Das Departementssekretariat des Volkswirtschaftsdepartements wird insbesondere unterstützt vom Steueramt, von der Fachstelle Standortförderung betreffend Härtefallmassnahmen, vom Amt für Finanzen betreffend kantonales Einwohnerregister und Auszahlung, vom kantonalen Konkursamt, von den Betreibungsämtern, von der zuständigen Ausgleichskasse und von den Zivilstandsämtern für Abklärungen und Datenbekanntgaben im Rahmen der Gesuchsprüfung gemäss § 20<sup>quinquies</sup>.
+<sup>2</sup> Das Departementssekretariat des Volkswirtschaftsdepartements wird bei der Erfüllung seiner Aufgaben gemäss dieser Verordnung insbesondere unterstützt vom Steueramt, von der Fachstelle Standortförderung betreffend Härtefallmassnahmen, vom Amt für Finanzen betreffend kantonales Einwohnerregister, Auszahlung und Rechtsinkasso, vom kantonalen Konkursamt, von den Betreibungsämtern, von der zuständigen Ausgleichskasse und von den Zivilstandsämtern für Abklärungen und Datenbekanntgaben.
 
 <sup>3</sup> Das Departementssekretariat des Volkswirtschaftsdepartements, das Steueramt, die Fachstelle Standortförderung, das Amt für Finanzen, das kantonale Konkursamt, die Betreibungsämter, die zuständige Ausgleichskasse und die Zivilstandsämter können sämtliche Personendaten bearbeiten, die sie zur Erfüllung der Aufgaben gemäss § 20<sup>quinquies</sup> dieser Verordnung benötigen.
 
-<sup>4</sup> Das Departementssekretariat des Volkswirtschaftsdepartements darf zur Gesuchsprüfung Dritte beiziehen. Die Absätze 2 und 3 sowie § 17<sup>bis</sup> sind analog anwendbar.
+<sup>4</sup> Das Departementssekretariat des Volkswirtschaftsdepartements darf zur Gesuchsprüfung sowie zur Missbrauchskontrolle Dritte beiziehen und mit diesen Leistungsvereinbarungen abschliessen. Die Absätze 2 und 3 sowie § 17<sup>bis</sup> sind analog anwendbar.
+
+<sup>5</sup> In den Leistungsvereinbarungen gemäss Absatz 4 sind die Aufgaben, die Entschädigung sowie die Kontrolle und Auswertung der Aufgabendelegation zu regeln.
 
 ## 2. Arten und Höchstgrenzen von Härtefallmassnahmen
 
@@ -143,6 +149,8 @@ beschliesst:
 **Anforderungen und Einschränkung der Verwendung von Härtefallmassnahmen**
 
 <sup>1</sup> Die Anforderungen, unter denen der Kanton Härtefallmassnahmen gewähren kann, sowie die Einschränkung der Verwendung dieser erhaltenen Härtefallmassnahmen, richten sich, soweit diese Verordnung nichts anderes vorsieht, nach der Covid-19-Härtefallverordnung des Bundes.
+
+<sup>2</sup> Für die Gewährung von Härtefallmassnahmen an Unternehmen mit einem Jahresumsatz über 5 Millionen Franken gelten die besonderen Bestimmungen des Bundesrechts unverändert.
 
 #### § 7a
 
@@ -227,7 +235,7 @@ beschliesst:
 
 **Datenüberprüfung für kantonale Miet- und Pachtzinsbeiträge**
 
-<sup>1</sup> Das Departementssekretariat des Volkswirtschaftsdepartements kann zur Überprüfung der Voraussetzungen gemäss § 20<sup>quinquies</sup> vom Steueramt, von der Fachstelle Standortförderung betreffend Härtefallmassnahmen, vom Amt für Finanzen betreffend kantonales Einwohnerregister und Auszahlung, vom kantonalen Konkursamt, von den Betreibungsämtern, von der zuständigen Ausgleichskasse und den Zivilstandsämtern Auskünfte einholen.
+<sup>1</sup> Das Departementssekretariat des Volkswirtschaftsdepartements kann zur Überprüfung der Voraussetzungen gemäss § 20<sup>quinquies</sup> sowie zur Missbrauchskontrolle vom Steueramt, von der Fachstelle Standortförderung betreffend Härtefallmassnahmen, vom Amt für Finanzen betreffend kantonales Einwohnerregister, Auszahlung und Rechtsinkasso, vom kantonalen Konkursamt, von den Betreibungsämtern, von der zuständigen Ausgleichskasse und den Zivilstandsämtern Auskünfte einholen.
 
 <sup>2</sup> Das Steueramt kann dem Departementssekretariat des Volkswirtschaftsdepartements die für die Erfüllung seiner Aufgaben erforderlichen Auskünfte aus Steuerakten erteilen.
 
@@ -258,6 +266,27 @@ beschliesst:
 
 <sup>2</sup> Die Abweisung oder das Nichteintreten erfolgt durch einfache Mitteilung an das Unternehmen. Ist ein Unternehmen mit der einfachen Mitteilung nicht einverstanden, kann es bei der Fachstelle Standortförderung eine anfechtbare Verfügung verlangen.
 
+## 5<sup>bis</sup> Missbrauchskontrolle
+
+#### § 19bis
+
+**Kontrollinstrumente**
+
+<sup>1</sup> Die Fachstelle Standortförderung und das Departementssekretariat des Volkswirtschaftsdepartements können für die Missbrauchskontrolle
+
+- a) die eingereichten Unterlagen und Selbstdeklarationen prüfen;
+- b) weitere Unterlagen einverlangen;
+- c) im Rahmen der Amtshilfe zusätzliche Informationen einholen;
+- d) vor Ort das Vorhandensein, die Vollständigkeit und die Richtigkeit der von den Unternehmen gemachten Angaben überprüfen.
+
+<sup>2</sup> Soweit für die Missbrauchskontrolle Dritte beigezogen werden, stehen diesen alle Kontrollinstrumente gemäss Absatz 1 zur Verfügung.
+
+#### § 19ter
+
+**Meldung des Steueramtes**
+
+<sup>1</sup> Das Steueramt ist berechtigt, der Fachstelle Standortförderung und dem Departementssekretariat des Volkswirtschaftsdepartements über vermutlich zu Unrecht bezogene Leistungen gemäss dieser Verordnung von sich aus Meldung zu erstatten.
+
 #### § 20
 
 **Rückforderung von Härtefallmassnahmen**
@@ -267,9 +296,16 @@ beschliesst:
 - a) falls nachträglich Tatsachen bekannt werden, die das Unternehmen im Zusammenhang mit der Beantragung einer Härtefallmassnahme gemäss dieser Verordnung nicht, nicht vollständig oder falsch deklariert hat und aufgrund derer die gewährte Härtefallmassnahme hätte verweigert werden müssen;
 - b) falls die Einschränkung der Verwendung von Härtefallmassnahmen gemäss § 7<sup>bis</sup> nicht eingehalten wird.
 
-<sup>2</sup> Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 15. November 1970[^20-1].
+<sup>1<sup>bis</sup></sup> Leistungen gemäss dieser Verordnung, die ohne Rechtsgrundlage ausbezahlt oder zu viel ausbezahlt werden, werden ganz oder teilweise zurückgefordert.
 
-[^20-1]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
+<sup>1<sup>ter</sup></sup> Die Fachstelle Standortförderung kann namens des Departements auf Gesuch hin auf die Rückforderung von Leistungen gemäss dieser Verordnung ganz oder teilweise verzichten, wenn ein Unternehmen aufgrund der vom Bund angeordneten Massnamen zur Bekämpfung von Covid-19 in seiner Zahlungsfähigkeit weiterhin stark beeinträchtigt ist und die Rückzahlung der Leistungen zu einer grossen Härte führen würde.
+
+<sup>1<sup>quater</sup></sup> Der Verzugszins für Rückforderungen richtet sich nach § 9 des Gebührentarifs (GT) vom 8. März 2016[^20-1]
+
+<sup>2</sup> Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 15. November 1970[^20-2].
+
+[^20-1]: BGS [615.11](https://bgs.so.ch/data/615.11/de).
+[^20-2]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
 
 ## 6. Kantonale Unterstützungsmassnahmen
 
@@ -360,6 +396,12 @@ beschliesst:
 <sup>2</sup> Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 15. November 1970 [^20septies-1]
 
 [^20septies-1]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
+
+#### § 20octies
+
+**Bundesratsreserven**
+
+<sup>1</sup> Der Regierungsrat regelt die Verwendung des dem Kanton Solothurn zustehenden Anteils an den Bundesratsreserven gemäss Artikel 15 der Covid-19-Härtefallverordnung durch Beschluss.
 
 #### § 21
 
