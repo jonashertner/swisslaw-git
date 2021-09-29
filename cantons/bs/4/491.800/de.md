@@ -1,42 +1,36 @@
 ---
 canton: BS
 number: "491.800"
-title: Reglement über die Verwendung des Kredites zur Ausbildung und Betreuung von Studenten und anderen Nachwuchskräften aus Entwicklungsländern
+title: Reglement über die Verwendung des Kredites zur Ausbildung und Betreuung von Studentinnen und Studenten sowie anderen Nachwuchskräften aus Entwicklungsländern
 language: de
-version: 1962-01-01
-valid_until: 2021-09-29
-version_adopted: 1961-12-11
+version: 2021-09-30
+version_adopted: 2021-09-21
 adopted: 1961-12-11
 in_force: 1962-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/491.800"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3690/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5342/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Verwendung des Kredites zur Ausbildung und Betreuung von Studenten und anderen Nachwuchskräften aus Entwicklungsländern
+# Reglement über die Verwendung des Kredites zur Ausbildung und Betreuung von Studentinnen und Studenten sowie anderen Nachwuchskräften aus Entwicklungsländern
 
 Kredit für Nachwuchskräfte aus Entwicklungsländern: Reglement | Ausbildungsbeiträge
 
-Vom 11. Dezember 1961 (Stand 1. Januar 1962)
+Vom 11. Dezember 1961 (Stand 30. September 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
-erlässt für die Verwendung des Kredites zur Ausbildung und Betreuung von Studenten und anderen Nachwuchskräften aus Entwicklungsländern folgende Bestimmungen:
+erlässt für die Verwendung des Kredites zur Ausbildung und Betreuung von Studentinnen und Studenten sowie anderen Nachwuchskräften aus Entwicklungsländern folgende Bestimmungen:
 
 #### § 1
 
-<sup>1</sup> Der Kredit steht zur Verfügung für
+<sup>1</sup> Der Kredit steht zur Verfügung für:
 
-– Stipendien für die Ausbildung und Weiterbildung geeigneter Studierender beider Geschlechter aus Entwicklungsländern an baslerischen und anderen Hoch- und Fachschulen aller Art (Ausbildungs- und Lebenskosten);
-
-– die Kosten der eventuell notwendigen vorbereitenden Ausbildung (Sprache usw.), sofern sie nicht in der Heimat der Stipendiaten erworben werden kann;
-
-– die Kosten der Betreuung der Stipendiaten während ihres Aufenthaltes in der Schweiz;
-
-– die Reisekosten von der Heimat der Stipendiaten nach dem Ausbildungsort in der Schweiz und zurück, soweit diese Kosten nicht anderweitig finanziert werden können;
-
-– unter Umständen auch für die Kosten von Urlaubsreisen in die Heimat der Stipendiaten, sofern die betreffenden Stipendiaten mehr als zwei volle Jahre in der Schweiz studieren.
+- a) Stipendien für die Ausbildung und Weiterbildung geeigneter Studierender beider Geschlechter aus Entwicklungsländern an baslerischen und anderen Hoch- und Fachschulen aller Art (Ausbildungs- und Lebenskosten);
+- b) die Kosten der Betreuung der Stipendiatinnen und Stipendiaten während ihres Aufenthaltes in der Schweiz;
+- c) die Reisekosten von der Heimat der Stipendiatinnen und Stipendiaten nach dem Ausbildungsort in der Schweiz und zurück, soweit diese Kosten nicht anderweitig finanziert werden können;
+- d) unter Umständen auch für die Kosten von Urlaubsreisen in die Heimat der Stipendiatinnen und Stipendiaten, sofern die betreffenden Stipendiatinnen und Stipendiaten mehr als zwei volle Jahre in der Schweiz studieren.
 
 #### § 2
 
@@ -44,47 +38,36 @@ erlässt für die Verwendung des Kredites zur Ausbildung und Betreuung von Stude
 
 #### § 3
 
-<sup>1</sup> Zur Verwaltung des genannten Kredites wählt der Regierungsrat eine Kommission von mindestens sieben Mitgliedern. Sie setzt sich wie folgt zusammen:
+<sup>1</sup> Zur Verwaltung des genannten Kredites wählt der Regierungsrat eine Kommission von mindestens sieben Mitgliedern. Sie setzt sich zusammen aus:
 
-Vorsteher des Erziehungsdepartements, Präsident;
+der Leiterin oder dem Leiter des Amts für Ausbildungsbeiträge als Präsidentin bzw. als Präsidenten;
 
-drei Vertreter der Universität Basel;
-
-ein Vertreter des Schweizerischen Tropeninstitutes;
-
-ein Vertreter des Schweizerischen Hilfswerkes für aussereuropäische Gebiete;
-
-ein Vertreter der Basler Wirtschaft.
+sowie je mindestens einer Vertreterin oder einem Vertreter der Universität Basel, der Fachhochschule Nordwestschweiz, des Schweizerischen Tropen- und Public Health-Instituts, des Bereichs Entwicklungszusammenarbeit und der Basler Wirtschaft.
 
 <sup>2</sup> Die Amtsdauer der Gewählten fällt mit derjenigen des Regierungsrates zusammen.
 
 #### § 4
 
-<sup>1</sup> Die Geschäfte der Kommission werden durch das Sekretariat der «Stipendienkommission Basel-Stadt» besorgt.
+<sup>1</sup> Die Geschäfte der Kommission werden durch das Amt für Ausbildungsbeiträge besorgt.
 
 #### § 5
 
-<sup>1</sup> Die Sitzungen der Kommission finden nach Bedarf auf Einladung des Präsidenten statt.
+<sup>1</sup> Die Sitzungen der Kommission finden nach Bedarf auf Einladung der Präsidentin oder des Präsidenten statt.
 
-<sup>2</sup> Die Kommission ist beschlussfähig bei Anwesenheit von mindestens fünf Mitgliedern.
+<sup>2</sup> Die Kommission ist beschlussfähig bei Anwesenheit von mindestens vier Mitgliedern.
 
 #### § 6
 
-<sup>1</sup> Die Kommission
+<sup>1</sup> Die Kommission:
 
-– bestimmt, wie und durch wen die Stipendiaten ausgewählt werden, und prüft die Stipendiengesuche insbesondere in bezug auf die spätere Wiedereingliederung und den ihrer Ausbildung entsprechenden Einsatz der Kandidaten in ihrer Heimat;
-
-– setzt die Beiträge nach Ermessen fest, im Prinzip für ein Jahr in der Meinung, dass die Stipendien bei Bewährung der Kandidaten jeweils auf ein weiteres Jahr erneuert werden können;
-
-– ernennt für die Stipendiaten oder Stipendiatengruppen geeignete Betreuer, die ihr Rechenschaft abzulegen haben, und steht den Stipendiaten während ihres Aufenthaltes in der Schweiz mit Rat und Tat zur Seite;
-
-– stellt den Kontakt zwischen den Stipendiaten und der Studentenschaft der betreffenden Hoch- oder Fachschule her;
-
-– empfiehlt eventuell notwendige Vorkurse.
+- a) ist für die strategische Ausrichtung des Kredits zur Ausbildung und Betreuung von Studentinnen und Studenten sowie anderen Nachwuchskräften aus Entwicklungsländern zuständig;
+- b) bestimmt, wie und durch wen die Stipendiatinnen oder Stipendiaten ausgewählt werden, und prüft die Stipendiengesuche insbesondere in Bezug auf die spätere Wiedereingliederung und den ihrer Ausbildung entsprechenden Einsatz der Kandidatinnen oder Kandidaten in ihrer Heimat;
+- c) bestätigt die Betreuungspersonen für die Stipendiatinnen oder Stipendiaten, die ihr Rechenschaft abzulegen haben, und kann diesen Empfehlungen machen;
+- d) setzt die Beiträge nach Ermessen fest; grundsätzlich für höchstens drei Jahre.
 
 #### § 7
 
-<sup>1</sup> Die Kommission stellt durch Vermittlung des Erziehungsdepartementes dem Regierungsrat allfällige Anträge, insbesondere für die Gewährung weiterer Kredite.
+<sup>1</sup> Die Kommission stellt dem Regierungsrat durch Vermittlung des Erziehungsdepartementes allfällige Anträge, insbesondere für die Gewährung weiterer Kredite.
 
 Dieses Reglement ist zu publizieren; es tritt auf den 1. Januar 1962 in Wirksamkeit.
 
