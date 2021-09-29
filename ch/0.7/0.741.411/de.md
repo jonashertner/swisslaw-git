@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Übereinkommen vom 20. März 1958 der Vereinten Nationen über die Annahme harmonisierter technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge eingebaut oder dafür verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Regelungen erteilt wurden (mit R und Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: de
-version: 2021-01-22
+version: 2021-09-30
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20210122/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20210122-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20210122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20210930/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20210930-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20210930/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1996** 2158
 
 Abgeschlossen in Genf am 20. März 1958 Geändert am 10. November 1967 Von der Bundesversammlung genehmigt um 15. März 1973[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 29. Juni 1973 In Kraft getreten für die Schweiz am 28. August 1973 Änderungen angenommen am 18. August 1994 In Kraft getreten am 16. Oktober 1995 Änderungen angenommen am 25. September 2015 In Kraft getreten am 14. September 2017
 
-(Stand am 22. Januar 2021)
+(Stand am 30. September 2021)
 
 [^t-1]: [AS 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -859,7 +859,7 @@ Reglemente*[^t-4]*
 
 ## Reglement Nr. 0 zum Übereinkommen
 
-[^t-4]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht. Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Vereinten Nationen eingesehen werden: www.unece.org/trans/main/wp29/wp29regs.html Der Geltungsbereich ist auf der Internetseite der Vereinten Nationen einsehbar: www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)).
+[^t-4]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht. Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Vereinten Nationen eingesehen werden: www.unece.org/trans/main/wp29/wp29regs.html Der Geltungsbereich ist auf der Internetseite der Vereinten Nationen einsehbar: www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911)).
 
 Einheitliche Vorschriften hinsichtlich die Internationale Gesamtfahrzeug-Typengenehmigung
 
@@ -1592,3 +1592,39 @@ Angewendet durch die Schweiz seit dem 22. Januar 2021
 Einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich des automatisierten Spurhaltesystems
 
 Angewendet durch die Schweiz seit dem 22. Januar 2021
+
+## Reglement Nr. 158 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Einrichtungen zur Unterstützung der Sicht beim Rückwärtsfahren, und von Motorfahrzeugen im Hinblick auf das Erkennen ungeschützter Verkehrsteilnehmer hinter dem Fahrzeug, durch den Fahrer
+
+Angewendet durch die Schweiz seit dem 10. Juni 2021
+
+## Reglement Nr. 159 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen im Hinblick auf das Anfahr-Informationssystem zur Erkennung von Fussgängern und Radfahrern
+
+Angewendet durch die Schweiz seit dem 10. Juni 2021
+
+## Reglement Nr. 160 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Motorfahrzeugen im Hinblick auf den Ereignisdatenspeicher (Unfalldatenschreiber)
+
+Angewendet durch die Schweiz seit dem 30. September 2021
+
+## Reglement Nr. 161 zum Übereinkommen
+
+Einheitliche Vorschriften über den Schutz von Motorfahrzeugen gegen unbefugte Benutzung und die Genehmigung der Schutzeinrichtung gegen unbefugte Benutzung (mittels einer Schließanlage)
+
+Angewendet durch die Schweiz seit dem 30. September 2021
+
+## Reglement Nr. 162 zum Übereinkommen
+
+Einheitliche technische Vorschriften für die Genehmigung von Wegfahrsperren und für die Genehmigung eines Fahrzeugs hinsichtlich seiner Wegfahrsperre
+
+Angewendet durch die Schweiz seit dem 30. September 2021
+
+## Reglement Nr. 163 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Fahrzeugalarmanlagen und die Genehmigung eines Fahrzeugs hinsichtlich seiner Alarmanlage
+
+Angewendet durch die Schweiz seit dem 30. September 2021

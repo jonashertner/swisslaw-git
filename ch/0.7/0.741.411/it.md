@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Accordo del 20 marzo 1958 concernente l'adozione di regolamenti tecnici armonizzati delle Nazioni Unite per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni concesse sulla base di tali regolamenti delle Nazioni Unite (con R e All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: it
-version: 2021-01-22
+version: 2021-09-30
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20210122/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20210122-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20210122/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20210930/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20210930-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20210930/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -34,7 +34,7 @@ Emendamenti adottati il 25 settembre 2015
 
 Entrata in vigore il 14 settembre 2017
 
-(Stato 22 gennaio 2021)
+(Stato 30 settembre 2021)
 
 [^t-1]: RU **2017** 5085 RU **1973** 1465
 
@@ -874,7 +874,7 @@ Regolamenti*[^t-4]*
 
 ## Regolamento n. 0 allegato all’accordo
 
-[^t-4]: Il testo dei R e dei loro campi d’applicazione non sono pubblicati nella RU. Possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: www.unece.org/trans/main/wp29/wp29regs.html, (reg.) www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html, (campi) o richiesti all’Ufficio federale delle strade, 3003 Berna. ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)).
+[^t-4]: Il testo dei R e dei loro campi d’applicazione non sono pubblicati nella RU. Possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: www.unece.org/trans/main/wp29/wp29regs.html, (reg.) www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html, (campi) o richiesti all’Ufficio federale delle strade, 3003 Berna. ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911)).
 
 Prescrizioni uniformi per quanto concerne il systema di omologazione internazionale dei veicoli completi
 
@@ -1601,3 +1601,39 @@ Applicato dalla Svizzera dal 22 gennaio 2021
 Disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda il sistema automatizzato di mantenimento della corsia
 
 Applicato dalla Svizzera dal 22 gennaio 2021
+
+## Regolamento n. 158 allegato all’Accordo
+
+Condizioni uniformi relative all’omologazione dei dispositivi di ausilio alla visione in retromarcia e dei veicoli a motore per quanto riguarda il rilevamento, da parte del conducente, di utenti della strada vulnerabili dietro il veicolo
+
+Applicato dalla Svizzera dal 10 giugno 2021
+
+## Regolamento n. 159 allegato all’Accordo
+
+Condizioni uniformi relative all’omologazione dei veicoli a motore per quanto riguarda il sistema di informazione sull’avviamento per il rilevamento di pedoni e ciclisti
+
+Applicato dalla Svizzera dal 10 giugno 2021
+
+## Regolamento n. 160 allegato all’Accordo
+
+Condizioni uniformi relative all’omologazione dei veicoli a motore per quanto riguarda il registratore di dati di evento
+
+Applicato dalla Svizzera dal 30 settembre 2021
+
+## Regolamento n. 161 allegato all’Accordo
+
+Condizioni uniformi riguardanti la protezione dei veicoli a motore contro l’uso non autorizzato e l’omologazione dei loro dispositivi di protezione contro l’uso non autorizzato (per mezzo di un sistema di chiusura)
+
+Applicato dalla Svizzera dal 30 settembre 2021
+
+## Regolamento n. 162 allegato all’Accordo
+
+Condizioni tecniche uniformi riguardanti l’omologazione degli immobilizzatori e l’omologazione di un veicolo per quanto riguarda il suo immobilizzatore
+
+Applicato dalla Svizzera dal 30 settembre 2021
+
+## Regolamento n. 163 allegato all’Accordo
+
+Condizioni uniformi riguardanti un sistema di omologazione per i sistemi di allarme dei veicoli e l’omologazione di un veicolo per quanto riguarda il suo sistema di allarme
+
+Applicato dalla Svizzera dal 30 settembre 2021
