@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 11. August 2021 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/481"
 language: de
-version: 2021-08-11
+version: 2021-09-30
 adopted: 2018-08-11
 in_force: 2021-08-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/481/20210811/de/xml/fedlex-data-admin-ch-eli-cc-2021-481-20210811-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/481/20210811/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/481/20210930/de/xml/fedlex-data-admin-ch-eli-cc-2021-481-20210930-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/481/20210930/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 11. August 2021 (Stand am 11. August 2021)
+vom 11. August 2021 (Stand am 30. September 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -406,7 +406,7 @@ Anhang 3
 
 (Art. 4 Abs. 1 Bst. c)
 
-## Natürliche Personen, Unternehmen und Organisationen, die Auflagen bezüglich doppelt verwendbarer Güter unterliegen****
+## Natürliche Personen, Unternehmen und Organisationen, die Auflagen bezüglich doppelt verwendbarer Güter unterliegen
 
 [^annex3-lvlu1-1]
 
@@ -447,15 +447,17 @@ Anhang 5
 
 - [tab]
 
-Anhang 6
+Anhang 6*[^t-1]*
 
 (Art. 7)
 
 ## Kaliumchloridprodukte
 
+[^t-1]: Bereinigt gemäss Berichtigung vom 30. Sept. 2021 ([AS 2021 585](https://fedlex.data.admin.ch/eli/oc/2021/585)).
+
 <table>
 <tr><td>Zolltarif-Nr.</td><td>Bezeichnung</td></tr>
-<tr><td>3104.2000</td><td>Kaliumchlorid</td></tr>
+<tr><td>ex 3104.2000</td><td>Kaliumchlorid mit einem Gehalt an Kalium, berechnet als K<sub>2</sub>O, von 40 GHT oder weniger oder von mehr als 62 GHT, bezogen auf den wasserfreien Stoff</td></tr>
 <tr><td>3105.2000</td><td>Düngemittel, mineralische oder chemische, die drei düngenden Stoffe Stickstoff, Phosphor und Kalium enthaltend</td></tr>
 <tr><td>3105.6000</td><td>Düngemittel, mineralische oder chemische, die zwei düngenden Stoffe Phosphor und Kalium enthaltend</td></tr>
 <tr><td>ex 3105.9000</td><td>andere Düngemittel, Kaliumchlorid enthaltend</td></tr>
@@ -465,7 +467,7 @@ Anhang 7
 
 (Art. 8 Abs. 1 Bst. a, 12 Abs. 1 und 13 Bst. c)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten****
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
 [^annex7-lvlu1-1]
 
@@ -475,7 +477,7 @@ Anhang 8
 
 (Art. 9 Abs. 1 Bst. b und c)
 
-## Banken und andere Unternehmen und Organisationen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen****
+## Banken und andere Unternehmen und Organisationen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen
 
 [^annex8-lvlu1-1]
 

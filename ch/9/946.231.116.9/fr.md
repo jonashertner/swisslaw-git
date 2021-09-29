@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 11 août 2021 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/481"
 language: fr
-version: 2021-08-11
+version: 2021-09-30
 adopted: 2018-08-11
 in_force: 2021-08-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/481/20210811/fr/xml/fedlex-data-admin-ch-eli-cc-2021-481-20210811-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/481/20210811/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/481/20210930/fr/xml/fedlex-data-admin-ch-eli-cc-2021-481-20210930-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/481/20210930/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 11 août 2021 (Etat le 11 août 2021)
+du 11 août 2021 (Etat le 30 septembre 2021)
 
 Le Conseil fédéral suisse,
 
@@ -397,7 +397,7 @@ Annexe 3
 
 (art. 4, al. 1, let. c)
 
-## Personnes physiques, entreprises et entités soumises à des charges portant sur les biens à double usage****
+## Personnes physiques, entreprises et entités soumises à des charges portant sur les biens à double usage
 
 [^annex3-lvlu1-1]
 
@@ -434,15 +434,17 @@ Annexe 5
 <tr><td>2715</td><td>Mélanges bitumineux à base d’asphalte ou de bitume naturels, de bitume de pétrole, de goudron minéral ou de brai de goudron minéral (mastics bitumineux, *cut-backs*, par exemple)</td></tr>
 </table>
 
-Annexe 6
+Annexe 6*[^t-1]*
 
 (art. 7)
 
 ## Produits à base de chlorure de potassium («potasse»)
 
+[^t-1]: Mise à jour par l’Erratum du 30 sept. 2021 ([RO 2021 585](https://fedlex.data.admin.ch/eli/oc/2021/585)).
+
 <table>
 <tr><td>N<sup>o</sup> du tarif</td><td>Désignation</td></tr>
-<tr><td>3104.2000</td><td>Chlorure de potassium</td></tr>
+<tr><td>ex 3104.2000</td><td>Chlorure de potassium d’une teneur en potassium évalué en K<sub>2</sub>O n’excédant pas 40 % ou excédant 62 % en poids du produit anhydre à l’état sec</td></tr>
 <tr><td>3105.2000</td><td>Engrais minéraux ou chimiques contenant les trois éléments fertilisants: azote, phosphore et potassium</td></tr>
 <tr><td>3105.6000</td><td>Engrais minéraux ou chimiques contenant les deux éléments fertilisants: phosphore et potassium</td></tr>
 <tr><td>ex 3105.9000</td><td>Autres engrais contenant du chlorure de potassium</td></tr>
@@ -452,7 +454,7 @@ Annexe 7
 
 (art. 8, al. 1, let. a, 12, al. 1, et 13, let. c)
 
-## Personnes physiques visées par les restrictions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières****
+## Personnes physiques visées par les restrictions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
 [^annex7-lvlu1-1]
 
@@ -462,7 +464,7 @@ Annexe 8
 
 (art. 9, al. 1, let. b et c)
 
-## Banques et autres entreprises ou entités soumises à des restrictions sur les marchés monétaire et financier****
+## Banques et autres entreprises ou entités soumises à des restrictions sur les marchés monétaire et financier
 
 [^annex8-lvlu1-1]
 

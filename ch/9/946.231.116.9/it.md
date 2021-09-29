@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza dell’11 agosto 2021 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/481"
 language: it
-version: 2021-08-11
+version: 2021-09-30
 adopted: 2018-08-11
 in_force: 2021-08-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/481/20210811/it/xml/fedlex-data-admin-ch-eli-cc-2021-481-20210811-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/481/20210811/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/481/20210930/it/xml/fedlex-data-admin-ch-eli-cc-2021-481-20210930-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/481/20210930/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-dell’11 agosto 2021 (Stato 11 agosto 2021)
+dell’11 agosto 2021 (Stato 30 settembre 2021)
 
 Il Consiglio federale svizzero,
 
@@ -406,7 +406,7 @@ Allegato 3
 
 (art. 4 cpv. 1 lett. c)
 
-## Persone fisiche, imprese e organizzazioni soggette a vincoli relativi a beni a duplice impiego e a beni militari speciali****
+## Persone fisiche, imprese e organizzazioni soggette a vincoli relativi a beni a duplice impiego e a beni militari speciali
 
 [^annex3-lvlu1-1]
 
@@ -443,15 +443,17 @@ Allegato 5
 <tr><td>2715</td><td>Miscele bituminose a base di asfalto o di bitume naturali, di bitume di petrolio, di catrame minerale o di pece di catrame minerale (p. es. mastici bituminosi, «cut-backs»)</td></tr>
 </table>
 
-Allegato 6
+Allegato 6*[^t-1]*
 
 (art. 7)
 
 ## Prodotti di cloruro di potassio
 
+[^t-1]: Aggiornato dalla correzione del 30 set. 2021 ([RU 2021 585](https://fedlex.data.admin.ch/eli/oc/2021/585))
+
 <table>
 <tr><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
-<tr><td>3104.2000</td><td>Cloruro di potassio</td></tr>
+<tr><td>ex 3104.2000</td><td>Cloruro di potassio con tenore in potassio calcolato come K<sub>2</sub>O, in peso, inferiore o uguale a 40 % o superiore a 62 % del prodotto anidro allo stato secco</td></tr>
 <tr><td>3105.2000</td><td>Concimi minerali o chimici contenenti i tre elementi fertilizzanti azoto, fosforo e potassio</td></tr>
 <tr><td>3105.6000</td><td>Concimi minerali o chimici contenenti i due elementi fertilizzanti fosforo e potassio</td></tr>
 <tr><td>ex 3105.9000</td><td>Altri concimi contenenti cloruro di potassio</td></tr>
