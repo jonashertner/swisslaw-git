@@ -3,18 +3,18 @@ sr: "173.712.243"
 title: Regolamento del 15 febbraio 2021 dell’autorità di vigilanza sul Ministero pubblico della Confederazione
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/177"
 language: it
-version: 2021-04-15
+version: 2021-10-01
 adopted: 2021-02-15
 in_force: 2021-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20210415/it/xml/fedlex-data-admin-ch-eli-cc-2021-177-20210415-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20210415/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2021-177-20211001-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20211001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento dell’autorità di vigilanza sul Ministero pubblico della Confederazione
 
-del 15 febbraio 2021 (Stato 15 aprile 2021)
+del 15 febbraio 2021 (Stato 1° ottobre 2021)
 
 L’autorità di vigilanza sul Ministero pubblico della Confederazione (autorità di vigilanza),
 
@@ -50,11 +50,13 @@ A tale scopo può, in particolare:
 
 <sup>1</sup> L’autorità di vigilanza è un’autorità collegiale, formata dai membri eletti dall’Assemblea federale e diretta dal presidente.
 
-<sup>2</sup> I membri dell’autorità di vigilanza operano a titolo accessorio; il presidente ha un tasso d’occupazione del 35 per cento.
+<sup>2</sup> I membri dell’autorità di vigilanza operano a titolo accessorio.[^2-1]
 
 <sup>3</sup> I membri dell’autorità di vigilanza eleggono il presidente e il vicepresidente. Nominano il responsabile della segreteria dell’autorità.
 
-- [tab] <sup>4</sup> Se un membro dell’autorità di vigilanza viene a conoscenza di informazioni potenzialmente rilevanti per il diritto di vigilanza, informa tempestivamente il presidente
+<sup>4</sup> Se un membro dell’autorità di vigilanza viene a conoscenza di informazioni potenzialmente rilevanti per il diritto di vigilanza, informa tempestivamente il presidente
+
+[^2-1]: Nuovo testo giusta il n. I della dec. dell’autorità di vigilanza sul Ministero pubblico della Confederazione del 1° set. 2021, in vigore dal 1° ott. 2021 ([RU 2021 532](https://fedlex.data.admin.ch/eli/oc/2021/532)).
 
 #### Art. 3
 

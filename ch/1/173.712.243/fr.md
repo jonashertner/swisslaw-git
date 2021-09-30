@@ -3,18 +3,18 @@ sr: "173.712.243"
 title: Règlement du 15 février 2021 de l’autorité de surveillance du Ministère public de la Confédération
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/177"
 language: fr
-version: 2021-04-15
+version: 2021-10-01
 adopted: 2021-02-15
 in_force: 2021-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20210415/fr/xml/fedlex-data-admin-ch-eli-cc-2021-177-20210415-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20210415/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2021-177-20211001-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20211001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement de l’autorité de surveillance du Ministère public de la Confédération
 
-du 15 février 2021 (Etat le 15 avril 2021)
+du 15 février 2021 (Etat le 1<sup>er</sup> octobre 2021)
 
 L’autorité de surveillance du Ministère public de la Confédération (autorité de surveillance),
 
@@ -50,11 +50,13 @@ arrête:
 
 <sup>1</sup> L’autorité de surveillance est une autorité collégiale composée de membres élus par l’Assemblée fédérale et dirigée par le président.
 
-<sup>2</sup> Les membres de l’autorité de surveillance exercent leur activité à titre accessoire ; le président exerce une activité à temps partiel de 35 %.
+<sup>2</sup> Les membres de l’autorité de surveillance exercent leur activité à titre accessoire.[^2-1]
 
 <sup>3</sup> Les membres de l’autorité de surveillance élisent le président et le vice-président. Ils nomment le chef du secrétariat de l’autorité de surveillance.
 
 <sup>4</sup> Si un membre de l’autorité de surveillance a connaissance d’une information potentiellement pertinente sous l’angle du droit de la surveillance, il en informe sans délai le président.
+
+[^2-1]: Nouvelle teneur selon le ch. I de la D de l’autorité de surveillance du 1<sup>er</sup> sept. 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 532](https://fedlex.data.admin.ch/eli/oc/2021/532)).
 
 #### Art. 3
 

@@ -3,18 +3,18 @@ sr: "173.712.243"
 title: Reglement vom 15. Februar 2021 der Aufsichtsbehörde über die Bundesanwaltschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/177"
 language: de
-version: 2021-04-15
+version: 2021-10-01
 adopted: 2021-02-15
 in_force: 2021-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20210415/de/xml/fedlex-data-admin-ch-eli-cc-2021-177-20210415-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20210415/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2021-177-20211001-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20211001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Reglement der Aufsichtsbehörde über die Bundesanwaltschaft
 
-vom 15. Februar 2021 (Stand am 15. April 2021)
+vom 15. Februar 2021 (Stand am 1. Oktober 2021)
 
 Die Aufsichtsbehörde über die Bundesanwaltschaft (Aufsichtsbehörde)
 
@@ -50,11 +50,13 @@ Zu diesen Zweck kann sie insbesondere:
 
 <sup>1</sup> Die Aufsichtsbehörde ist eine Kollegialbehörde, die aus den von der Bundesversammlung gewählten Mitgliedern besteht und vom Präsidenten oder der Präsidentin geleitet wird.
 
-<sup>2</sup> Die Mitglieder der Aufsichtsbehörde arbeiten im Nebenamt; der Präsident oder die Präsidentin übt ein Pensum von 35 Prozent aus.
+<sup>2</sup> Die Mitglieder der Aufsichtsbehörde arbeiten im Nebenamt.[^2-1]
 
 <sup>3</sup> Die Mitglieder der Aufsichtsbehörde wählen den Präsidenten oder die Präsidentin sowie den Vizepräsidenten oder die Vizepräsidentin. Sie ernennen den Leiter oder die Leiterin des Sekretariats der Behörde.
 
 <sup>4</sup> Erhält ein Mitglied der Aufsichtsbehörde Kenntnis von einer potenziell aufsichtsrechtlich relevanten Information, so setzt er oder sie den Präsidenten oder die Präsidentin unverzüglich in Kenntnis.
+
+[^2-1]: Fassung gemäss Ziff. I des Beschlusses der Aufsichtsbehörde vom 1. Sept. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 532](https://fedlex.data.admin.ch/eli/oc/2021/532)).
 
 #### Art. 3
 
