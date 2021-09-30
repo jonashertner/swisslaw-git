@@ -3,20 +3,20 @@ canton: SG
 number: "941.113"
 title: Verordnung über die Organisation der Verwaltungsrekurskommission
 language: de
-version: 2017-10-01
-valid_until: 2021-09-30
-version_adopted: 2017-06-27
+version: 2021-10-01
+valid_until: 2022-05-31
+version_adopted: 2021-06-29
 adopted: 2010-12-02
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/941.113"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2294/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3258/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Organisation der Verwaltungsrekurskommission
 
-vom 02.12.2010 (Stand 01.10.2017)
+vom 02.12.2010 (Stand 01.10.2021)
 
 Das Verwaltungsgericht des Kantons St.Gallen
 
@@ -216,7 +216,7 @@ als Verordnung:[^ingress-2]
 - h) Verfügungen der für die Festlegung der Wasserwehrpflicht zuständigen Behörde;
 - i) Einspracheentscheide der Wehrpflichtersatzverwaltung;
 - j) Verfügungen des zuständigen Departementes über Perimeterbeiträge an das Rheinunternehmen;
-- k) Verfügungen des Baudepartementes über die Beiträge der Gemeinden nach dem Linthgesetz vom 4. April 2002;
+- k) Verfügungen des Bau- und Umweltdepartementes über die Beiträge der Gemeinden nach dem Linthgesetz vom 4. April 2002;
 - l) Verfügungen der Eidgenössischen Spielbankenkommission über die Kursaalabgabe.
 
 ### b) Abteilung II
