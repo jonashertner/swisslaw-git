@@ -4,11 +4,11 @@ number: "182.15"
 title: "Entschädigungsreglement der Römisch-katholischen Körperschaft des Kantons Zürich (Entschädigungsreglement, ER)"
 short: ER
 language: de
-version: "2021-07-01"
-nachtrag: "113"
-valid_until: 2021-10-01
+version: "2021-10-01"
+nachtrag: "114"
+valid_until: 2023-07-01
 adopted: 2009-10-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_15-2009_10_01-2010_01_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_15-2009_10_01-2010_01_01-114.html"
 text: pdf
 ---
 
@@ -52,15 +52,19 @@ Es werden folgende Grundentschädigungen ausgerichtet:
 
 - a. für die Synodalen
 
+**Fr. 1000 pro Jahr**
+
+- b. für die Präsidentin oder den Präsidenten der ständigen Kommissionen c.[^2-1] für die Präsidentin oder den Präsidenten der Fraktionen
+
 **Fr. 1000 pro Jahr Fr. 1000 pro Jahr**
 
-- b. für die Präsidentin oder den Präsidenten der ständigen Kommissionen
-
-- c. für die Mitglieder der Geschäftsleitung
+- d. für die Mitglieder der Geschäftsleitung
 
 **Fr. 8000 pro Jahr**
 
-- d. für die Präsidentin oder den Präsidenten der Synode
+- e. für die Präsidentin oder den Präsidenten der Synode
+
+[^2-1]: Eingefügt durch B vom 15. April 2021 (OS 76, 306; ABl 2021-04-30). In Kraft seit 1. Oktober 2021.
 
 #### Art. 3
 
@@ -78,11 +82,9 @@ Es werden folgende Grundentschädigungen ausgerichtet:
 
 **1**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114 c. für Sitzungen über 4 Stunden (Ganztagessitzungen der Synode) d.[^3-1] für die Teilnahme an Fraktionssitzungen
 
 **Fr. 250 Fr. 150**
-
-- c. für Sitzungen über 4 Stunden (Ganztagessitzungen der Synode) d.[^3-1] für die Teilnahme an Fraktionssitzungen
 
 <sup>2</sup> Für die Berechnung der Sitzungsdauer ist das Protokoll massgebend.
 
@@ -146,15 +148,11 @@ tung und der Kommissionen werden nach dem Tarif des öffentlichen Verkehrsmittel
 
 ### II. Entschädigung der Fraktionen
 
-#### Art. 8
+**Entschädigung für den Vorsitz der Sitzungen der Fraktionen**
 
-**Entschädigung der Fraktionspräsidentin oder des Fraktionspräsidenten**
+Art. 8[^hIIEntschädigungde-1] Der oder dem Vorsitzenden der Sitzungen der Fraktionen wird das doppelte Sitzungsgeld ausgerichtet.
 
-<sup>1</sup> Die Fraktionspräsidentin oder der Fraktionspräsident
-
-erhalten eine Pauschalentschädigung von Fr. 1000 pro Jahr.
-
-<sup>2</sup> Der oder dem Vorsitzenden der Sitzungen der Fraktionen wird das doppelte Sitzungsgeld ausgerichtet.
+[^hIIEntschädigungde-1]: Fassung gemäss B vom 15. April 2021 (OS 76, 306; ABl 2021-04-30). In Kraft seit 1. Oktober 2021. 1.10. 21 - 114 5
 
 #### Art. 9
 
@@ -214,7 +212,7 @@ Der Spesenersatz der Mitglieder des Synodalrates richtet sich sinngemäss nach d
 
 **3**
 
-- 1\. 7. 21 - 113
+1.10. 21 - 114
 
 [^15-1]: Eingefügt durch B vom 12. April 2018 (OS 73, 197; ABl 2018-05-04). In Kraft seit 1. Juli 2018.
 
@@ -222,7 +220,7 @@ Der Spesenersatz der Mitglieder des Synodalrates richtet sich sinngemäss nach d
 
 [^15-1]
 
-[^hIIEntschädigungKo-1]: Fassung gemäss B vom 15. April 2021 (OS 76, 195; ABl 2021-04-30). In Kraft seit 1. Juli 2021. 1. 7. 21 - 113 5
+[^hIIEntschädigungKo-1]: Fassung gemäss B vom 15. April 2021 (OS 76, 195; ABl 2021-04-30). In Kraft seit 1. Juli 2021.
 
 #### Art. 15 a
 
@@ -235,7 +233,7 @@ ten bemisst sich nach dem zeitlichen Jahresaufwand. Grundlage für die Bemessung
 <sup>2</sup> Die Auszahlung erfolgt monatlich gemäss dem Arbeitsrapport.
 
 [^15a-1]: LS 182.41.
-[^15a-2]: Fassung gemäss B vom 15. April 2021 (OS 76, 195; ABl 2021-04-30). In Kraft seit 1. Juli 2021. 1. 7. 21 - 113 5
+[^15a-2]: Fassung gemäss B vom 15. April 2021 (OS 76, 195; ABl 2021-04-30). In Kraft seit 1. Juli 2021.
 
 #### Art. 15 b
 
@@ -247,7 +245,7 @@ präsidenten bemisst sich nach dem zeitlichen Jahresaufwand. Grundlage für die 
 
 <sup>2</sup> Die Auszahlung erfolgt monatlich gemäss dem Arbeitsrapport.
 
-[^15b-1]: Fassung gemäss B vom 15. April 2021 (OS 76, 195; ABl 2021-04-30). In Kraft seit 1. Juli 2021. 1. 7. 21 - 113 5
+[^15b-1]: Fassung gemäss B vom 15. April 2021 (OS 76, 195; ABl 2021-04-30). In Kraft seit 1. Juli 2021.
 
 #### Art. 15 c
 
